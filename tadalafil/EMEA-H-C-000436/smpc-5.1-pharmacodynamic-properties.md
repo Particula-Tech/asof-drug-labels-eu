@@ -22,8 +22,8 @@ Tadalafil is also
 Clinical efficacy and safety
 Three clinical studies were conducted in 1054 patients in an at-home setting to define the period of responsiveness to CIALIS on demand.
 Tadalafil demonstrated statistically significant improvement in erectile function and the ability to have successful sexual intercourse up to 36 hours following dosing, as well as patients’ ability to attain and maintain erections for successful intercourse compared to placebo as early as 16 minutes following dosing.
-
 Tadalafil administered to healthy subjects produced no significant difference compared to placebo in supine systolic and diastolic blood pressure (mean maximal decrease of 1.6/0.8 mm Hg, respectively), in standing systolic and diastolic blood pressure (mean maximal decrease of 0.2/4.6 mm Hg, respectively), and no significant change in heart rate.
+
 In a study to assess the effects of tadalafil on vision, no impairment of colour discrimination (blue/green) was detected using the Farnsworth-Munsell 100-hue test.
 This finding is consistent with the low affinity of tadalafil for PDE6 compared to PDE5.
 Across all clinical studies, reports of changes in colour vision were rare (< 0.1 %).
@@ -43,19 +43,26 @@ The mean per-subject proportion of successful sexual intercourse attempts was 68
 In a 12-week study performed in 186 patients (142 tadalafil, 44 placebo) with erectile dysfunction secondary to spinal cord injury, tadalafil significantly improved the erectile function leading to a mean per-subject proportion of successful attempts in patients treated with tadalafil 10 or 20 mg (flexible-dose, on demand) of 48 % as compared to 17 % with placebo.
 
 Paediatric population
+A single study has been performed in paediatric patients with Duchenne Muscular Dystrophy (DMD) in which no evidence of efficacy was seen.
+The randomised, double-blind, placebo-controlled, parallel, 3-arm study of tadalafil was conducted in 331 boys aged 7-14 years with DMD receiving concurrent corticosteroid therapy.
+The study included a 48-week double-blind period where patients were randomised to tadalafil 0.3 mg/kg, tadalafil 0.6 mg/kg, or placebo daily.
+Tadalafil did not show efficacy in slowing the decline in ambulation as measured by the primary 6 minute walk distance (6MWD) endpoint: least squares (LS) mean change in 6MWD at 48 weeks was -51.0 meters (m) in the placebo group, compared with -64.7 m in the tadalafil 0.3 mg/kg group (p = 0.307) and -59.1 m in the tadalafil 0.6 mg/kg group (p = 0.538).
+In addition, there was no evidence of efficacy from any of the secondary analyses performed in this study.
+The overall safety results from this study were generally consistent with the known safety profile of tadalafil and with adverse events (AEs) expected in a paediatric DMD population receiving corticosteroids.
+
 The European Medicines Agency has waived the obligation to submit the results of studies in all subsets of the paediatric population in the treatment of the erectile dysfunction.
 See section 4.2 for information on paediatric use.
 
 [CIALIS 5 mg film-coated tablets]
 
 Tadalafil has no effect in the treatment of erectile dysfunction in the absence of sexual stimulation.
+
 The effect of PDE5 inhibition on cGMP concentration in the corpus cavernosum is also observed in the smooth muscle of the prostate, the bladder and their vascular supply.
 The resulting vascular relaxation increases blood perfusion which may be the mechanism by which symptoms of benign prostatic hyperplasia are reduced.
 These vascular effects may be complemented by inhibition of bladder afferent nerve activity and smooth muscle relaxation of the prostate and bladder.
 
 Erectile dysfunction
 For CIALIS on demand, three clinical studies were conducted in 1054 patients in an at-home setting to define the period of responsiveness.
-
 In a 12-week study performed in 186 patients (142 tadalafil, 44 placebo) with erectile dysfunction secondary to spinal cord injury, tadalafil significantly improved the erectile function leading to a mean per-subject proportion of successful attempts in patients treated with tadalafil 10 or 20 mg (flexible-dose, on demand) of 48% as compared to 17% with placebo.
 
 For once-a-day evaluation of tadalafil at doses of 2.5, 5, and 10 mg 3 clinical studies were initially conducted involving 853 patients of various ages (range 21-82 years) and ethnicities, with erectile dysfunction of various severities (mild, moderate, severe) and etiologies.

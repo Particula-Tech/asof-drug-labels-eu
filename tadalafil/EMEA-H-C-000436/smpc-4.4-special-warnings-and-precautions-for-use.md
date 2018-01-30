@@ -22,7 +22,12 @@ The combination of tadalafil and doxazosin is not recommended.
 
 Vision
 Visual defects and cases of NAION have been reported in connection with the intake of CIALIS and other PDE5 inhibitors.
-The patient should be advised that in case of sudden visual defect, he should stop taking CIALIS and consult a physician immediately (see section 4.3).
+Analyses of observational data suggest an increased risk of acute NAION in men with erectile dysfunction following exposure to tadalafil or other PDE5 inhibitors.
+As this may be relevant for all patients exposed to tadalafil, the patient should be advised that in case of sudden visual defect, he should stop taking CIALIS and consult a physician immediately (see section 4.3).
+
+Decreased or sudden hearing loss
+Cases of sudden hearing loss have been reported after the use of tadalafil.
+Although other risk factors were present in some cases (such as age, diabetes, hypertension and previous hearing loss history) patients should be advised to stop taking tadalafil and seek prompt medical attention in the event of sudden decrease or loss of hearing.
 
 Renal and hepatic impairment
 Due to increased tadalafil exposure (AUC), limited clinical experience and the lack of ability to influence clearance by dialysis, once-a-day dosing of CIALIS is not recommended in patients with severe renal impairment.
@@ -33,6 +38,7 @@ If CIALIS is prescribed, a careful individual benefit/risk evaluation should be 
 Priapism and anatomical deformation of the penis
 Patients who experience erections lasting 4 hours or more should be instructed to seek immediate medical assistance.
 If priapism is not treated immediately, penile tissue damage and permanent loss of potency may result.
+
 CIALIS, should be used with caution in patients with anatomical deformation of the penis (such as angulation, cavernosal fibrosis or Peyronie's disease), or in patients who have conditions which may predispose them to priapism (such as sickle cell anaemia, multiple myeloma or leukaemia).
 
 Use with CYP3A4 inhibitors

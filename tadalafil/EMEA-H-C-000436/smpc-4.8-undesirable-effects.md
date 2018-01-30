@@ -49,7 +49,6 @@ Description of selected adverse reactions
 
 A slightly higher incidence of ECG abnormalities, primarily sinus bradycardia, has been reported in patients treated with tadalafil once a day as compared with placebo.
 Most of these ECG abnormalities were not associated with adverse reactions.
-
 Other special populations
 
 Data in patients over 65 years of age receiving tadalafil in clinical trials, either for the treatment of erectile dysfunction or the treatment of benign prostatic hyperplasia, are limited.
@@ -82,14 +81,19 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 | Gastrointestinal disorders |  |  |  |
 |  | Dyspepsia | Abdominal pain, Vomiting, Nausea, Gastro-oesophageal reflux |  |
 | Skin and subcutaneous tissue disorders |  |  |  |
-|  |  | Rash | Urticaria, Stevens-Johnson syndrome2, Exfoliative dermatitis2, Hyperhydrosis (sweating) |
-| Musculoskeletal, connective tissue and bone disorders |  |  |  |
-|  | Back pain, Myalgia, Pain in extremity |  |  |
-| Renal and urinary disorders |  |  |  |
-|  |  | Haematuria |  |
-| Reproductive system and breast disorders |  |  |  |
-|  |  | Prolonged erections | Priapism, Penile |
+|  |  | Rash | Urticaria, Stevens-Johnson syndrome2, Exfoliative |
 
+dermatitis2,
+Hyperhydrosis
+(sweating)
+Musculoskeletal, connective tissue and bone disorders
+Back pain,
+Myalgia, Pain in
+extremity
+Renal and urinary disorders
+Haematuria
+Reproductive system and breast disorders
+Prolonged erections Priapism, Penile
 haemorrhage,
 Haematospermia
 General disorders and administration site conditions
