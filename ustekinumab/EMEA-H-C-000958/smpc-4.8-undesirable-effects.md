@@ -19,7 +19,7 @@ Table 2 List of adverse reactions
 System Organ Class Frequency: Adverse reaction
 Infections and infestations Common: Upper respiratory tract infection, nasopharyngitis
 
-Uncommon: Cellulitis, dental infections, herpes zoster, viral upper respiratory tract infection, vulvovaginal mycotic infection
+Uncommon: Cellulitis, dental infections, herpes zoster, lower respiratory tract infection, viral upper respiratory tract infection, vulvovaginal mycotic infection
 
 Immune system disorders Uncommon: Hypersensitivity reactions (including rash, urticaria)
 
