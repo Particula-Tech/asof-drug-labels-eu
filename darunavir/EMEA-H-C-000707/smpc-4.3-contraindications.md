@@ -27,8 +27,9 @@ These active substances include e.g.:
 - astemizole, terfenadine (antihistamines)
 - colchicine when used in patients with renal and/or hepatic impairment (antigout) (see section 4.5)
 - ergot derivatives (e.g. dihydroergotamine, ergometrine, ergotamine, methylergonovine)
+- elbasvir/grazoprevir (hepatitis C virus direct-acting antiviral)
 - cisapride (gastrointestinal motility agents)
-- pimozide, quetiapine, sertindole (antipsychotics/neuroleptics) (see section 4.5)
+- lurasidone, pimozide, quetiapine, sertindole (antipsychotics/neuroleptics) (see section 4.5)
 - triazolam, midazolam administered orally (sedatives/hypnotics) (for caution on parenterally administered midazolam, see section 4.5)
 - sildenafil - when used for the treatment of pulmonary arterial hypertension, avanafil (PDE-5 inhibitors)
 - simvastatin and lovastatin (HMG-CoA reductase inhibitors) (see section 4.5)
@@ -37,7 +38,6 @@ These active substances include e.g.:
 [PREZISTA 75 mg film-coated tablets]
 
 Patients with severe (Child-Pugh Class C) hepatic impairment.
-
 Combination of rifampicin with PREZISTA with concomitant low dose ritonavir (see section 4.5).
 
 Co-administration with the combination product lopinavir/ritonavir (see section 4.5).

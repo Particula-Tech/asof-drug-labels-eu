@@ -17,8 +17,8 @@ This protein binding is concentration-dependent indicative for saturation of bin
 Therefore, protein displacement of medicinal products highly bound to α1-acid glycoprotein cannot be ruled out (see section 4.5).
 
 ART-experienced patients – once daily dosing
-PREZISTA used in combination with cobicistat or low dose ritonavir once daily in ART-experienced patients should not be used in patients with one or more darunavir resistance associated mutations (DRV-RAMs) or HIV-1 RNA ≥ 100,000 copies/ml or CD4+ cell count < 100 cells x 106/l (see section 4.2).
-Combinations with optimised background regimen (OBRs) other than ≥ 2 NRTIs have not been studied in this population.
+PREZISTA used in combination with cobicistat or low dose ritonavir once daily in ART-experienced patients should not be used in patients with one or more darunavir resistance associated mutations (DRV-RAMs) or HIV-1 RNA ≥100,000 copies/ml or CD4+ cell count < 100 cells x 106/l (see section 4.2).
+Combinations with optimised background regimen (OBRs) other than ≥2 NRTIs have not been studied in this population.
 Limited data are available in patients with HIV-1 clades other than B (see section 5.1).
 
 Paediatric population
@@ -136,6 +136,7 @@ No special precautions or dose adjustments are required in patients with renal i
 Several of the interaction studies have been performed with darunavir at lower than recommended doses.
 The effects on co-administered medicinal products may thus be underestimated and clinical monitoring of safety may be indicated.
 For full information on interactions with other medicinal products see section 4.5.
+
 See the Summary of Product Characteristics for PREZISTA 150 mg, 300 mg or 600 mg tablets (see section 4.5).
 
 [PREZISTA 150 mg film-coated tablets]

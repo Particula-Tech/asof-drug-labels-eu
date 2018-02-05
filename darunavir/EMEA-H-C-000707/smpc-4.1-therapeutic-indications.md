@@ -30,7 +30,7 @@ PREZISTA 300 mg tablets may be used to provide suitable dose regimens (see secti
 PREZISTA 400 mg tablets may be used to provide suitable dose regimens for the treatment of HIV-1 infection in adult and paediatric patients from the age of 3 years and at least 40 kg body weight who are:
 
 - antiretroviral therapy (ART)-naïve (see section 4.2).
-- ART-experienced with no darunavir resistance associated mutations (DRV-RAMs) and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥ 100 cells x 106/l.
+- ART-experienced with no darunavir resistance associated mutations (DRV-RAMs) and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥100 cells x 106/l.
   In deciding to initiate treatment with PREZISTA in such ART-experienced patients, genotypic testing should guide the use of PREZISTA (see sections 4.2, 4.3, 4.4 and 5.1).
 
 [PREZISTA 600 mg film-coated tablets]

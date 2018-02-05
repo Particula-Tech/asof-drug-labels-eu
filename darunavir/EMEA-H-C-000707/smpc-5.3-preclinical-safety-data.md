@@ -1,7 +1,6 @@
 # 5.3 Preclinical safety data
 
 Animal toxicology studies have been conducted at exposures up to clinical exposure levels with darunavir alone, in mice, rats and dogs and in combination with ritonavir in rats and dogs.
-
 In repeated-dose toxicology studies in mice, rats and dogs, there were only limited effects of treatment with darunavir.
 In rodents the target organs identified were the haematopoietic system, the blood coagulation system, liver and thyroid.
 A variable but limited decrease in red blood cell-related parameters was observed, together with increases in activated partial thromboplastin time.
