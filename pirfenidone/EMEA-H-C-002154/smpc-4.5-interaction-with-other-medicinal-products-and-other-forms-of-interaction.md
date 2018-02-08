@@ -35,7 +35,6 @@ Concomitant use of strong inducers of CYP1A2 including smoking should be avoided
 Patients should be encouraged to discontinue use of strong inducers of CYP1A2 and to stop smoking before and during treatment with pirfenidone.
 
 In the case of moderate inducers of CYP1A2 (e.g. omeprazole), concomitant use may theoretically result in a lowering of pirfenidone plasma levels.
-
 Co-administration of medicinal products that act as potent inducers of both CYP1A2 and the other CYP isoenzymes involved in the metabolism of pirfenidone (e.g. rifampicin) may result in significant lowering of pirfenidone plasma levels.
 These medicinal products should be avoided whenever possible.
 

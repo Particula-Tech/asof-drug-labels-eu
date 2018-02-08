@@ -18,6 +18,7 @@ Doses above 2403 mg/day are not recommended for any patient (see section 4.9).
 Patients who miss 14 consecutive days or more of Esbriet treatment should re-initiate therapy by undergoing the initial 2-week titration regimen up to the recommended daily dose.
 
 For treatment interruption of less than 14 consecutive days, the dose can be resumed at the previous recommended daily dose without titration.
+
 Dose adjustments and other considerations for safe use
 Gastrointestinal events: In patients who experience intolerance to therapy due to gastrointestinal undesirable effects, patients should be reminded to take the medicinal product with food.
 If symptoms persist, the dose of pirfenidone may be reduced to 1-2 capsules (267 mg – 534 mg) two to three times/day with food with re-escalation to the recommended daily dose as tolerated.
