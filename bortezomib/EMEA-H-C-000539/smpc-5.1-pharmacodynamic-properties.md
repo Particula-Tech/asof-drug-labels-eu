@@ -166,8 +166,7 @@ Table 14: Summary of disease outcomes from the Phase III (APEX) and Phase II stu
 | Median duration Days (months) | 242 (8.0) | 169 (5.6) | 246 (8.1) | 189 (6.2) | 238 (7.8) | 126 (4.1) | 385* |
 | Time to response CR+PR (days) | 43 | 43 | 44 | 46 | 41 | 27 | 38* |
 
-a Intent to Treat (ITT) population b p-value from the stratified log-rank test; analysis by line of therapy excludes stratification for therapeutic history; p < 0.0001 c
-Response population includes patients who had measurable disease at baseline and received at least 1 dose of study medicinal product.
+a Intent to Treat (ITT) population b p-value from the stratified log-rank test; analysis by line of therapy excludes stratification for therapeutic history; p < 0.0001 c Response population includes patients who had measurable disease at baseline and received at least 1 dose of study medicinal product.
 d p-value from the Cochran Mantel-Haenszel chi-square test adjusted for the stratification factors; analysis by line of therapy excludes stratification for therapeutic history
 * CR+PR+MR **CR=CR, (IF-); nCR=CR (IF+)
 NA=not applicable, NE=not estimated

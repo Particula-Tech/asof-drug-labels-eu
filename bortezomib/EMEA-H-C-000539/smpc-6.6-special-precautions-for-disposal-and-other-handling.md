@@ -13,7 +13,7 @@ VELCADE should not be administered intrathecally.
 
 Instructions for reconstitution
 VELCADE must be reconstituted by a healthcare professional.
-Each 5 ml vial of VELCADE must be reconstituted with 1 ml of sodium chloride 9 mg/ml (0.9%) solution for injection.
+Each 5 ml vial of VELCADE must be carefully reconstituted with 1 ml of sodium chloride 9 mg/ml (0.9%) solution for injection, by using a 1 ml syringe, without removing the vial stopper.
 Dissolution of the lyophilised powder is completed in less than 2 minutes.
 After reconstitution, each ml solution contains 1 mg bortezomib.
 The reconstituted solution is clear and colourless, with a final pH of 4 to 7.
@@ -27,8 +27,8 @@ Any unused medicinal product or waste material should be disposed of in accordan
 [VELCADE 3.5 mg powder for solution for injection]
 
 Intravenous injection
-Each 10 ml vial of VELCADE must be reconstituted with 3.5 ml of sodium chloride 9 mg/ml (0.9%) solution for injection.
+Each 10 ml vial of VELCADE must be carefully reconstituted with 3.5 ml of sodium chloride 9 mg/ml (0.9%) solution for injection, by using a syringe of the appropriate size, without removing the vial stopper.
 
 Subcutaneous injection
-Each 10 ml vial of VELCADE should be reconstituted with 1.4 ml of sodium chloride 9 mg/ml (0.9%) solution for injection.
+Each 10 ml vial of VELCADE must be carefully reconstituted with 1.4 ml of sodium chloride 9 mg/ml (0.9%) solution for injection, by using a syringe of the appropriate size, without removing the vial stopper.
 After reconstitution, each ml solution contains 2.5 mg bortezomib.

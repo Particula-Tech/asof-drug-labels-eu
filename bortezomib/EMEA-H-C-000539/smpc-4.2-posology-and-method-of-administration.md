@@ -1,7 +1,7 @@
 # 4.2 Posology and method of administration
 
-Treatment must be initiated and administered under the supervision of a physician qualified and experienced in the use of chemotherapeutic agents.
-VELCADE must be reconstituted by a healthcare professional.
+VELCADE treatment must be initiated under supervision of a physician experienced in the treatment of cancer patients, however VELCADE may be administered by a healthcare professional experienced in use of chemotherapeutic agents.
+VELCADE must be reconstituted by a healthcare professional (see section 6.6).
 
 Posology for treatment of progressive multiple myeloma (patients who have received at least one prior therapy)
 Monotherapy
