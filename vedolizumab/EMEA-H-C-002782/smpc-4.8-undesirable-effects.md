@@ -19,8 +19,8 @@ Patients (n=1,822) previously enrolled in Phase 2 or 3 vedolizumab studies were 
 
 Tabulated list of adverse reactions
 
-The following listing of adverse reactions is based on the clinical trial experience and are displayed by system organ class.
-Within the system organ classes, adverse reactions are listed under headings of the following frequency categories: very common (≥1/10), common (≥1/100 to <1/10) and uncommon (≥1/1,000 to <1/100).
+The following listing of adverse reactions is based on clinical trial and post marketing experience and is displayed by system organ class.
+Within the system organ classes, adverse reactions are listed under headings of the following frequency categories: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100) and very rare (< 1/10,000).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1.
@@ -31,8 +31,10 @@ Adverse Reactions
 | Infection and infestation | Very Common | Nasopharyngitis |
 |  | Common | Bronchitis, Gastroenteritis, Upper respiratory tract infection, Influenza, Sinusitis, Pharyngitis |
 |  | Uncommon | Respiratory tract infection, Vulvovaginal candidiasis, Oral Candidiasis |
+|  | Very rare | Pneumonia |
 | Nervous system disorders | Very Common | Headache |
 |  | Common | Paraesthesia |
+| Eye disorders | Very rare | Blurred vision |
 | Vascular disorders | Common | Hypertension |
 | Respiratory, thoracic and mediastinal disorders | Common | Oropharyngeal pain, Nasal congestion, Cough |
 | Gastrointestinal disorders | Common | Anal Abscess, Anal fissure, Nausea, Dyspepsia, Constipation, Abdominal distension, Flatulence, Haemorrhoids |
@@ -41,7 +43,14 @@ Adverse Reactions
 | Musculoskeletal and connective tissue disorders | Very Common | Arthralgia |
 |  | Common | Muscle spasms, Back pain, Muscular weakness, Fatigue, Pain in the extremity |
 | General disorders and administration site conditions | Common | Pyrexia |
-|  | Uncommon | Infusion site reaction (including: Infusion site pain and Infusion site irritation), Infusion related reaction Chills, Feeling cold |
+|  | Uncommon | Infusion site reaction (including: Infusion site |
+
+Table 1.
+Adverse Reactions
+
+| System Organ Class | Frequency | Adverse Reaction(s) |
+| --- | --- | --- |
+|  |  | pain and Infusion site irritation), Infusion related reaction Chills, Feeling cold |
 
 Description of selected adverse reactions
 
@@ -77,9 +86,9 @@ Nine out of 56 patients were persistently positive (anti-vedolizumab antibody-po
 The frequency of anti-vedolizumab antibody detected in patients 16 weeks after the last dose of vedolizumab (approximately five half-lives after the last dose) was approximately 10% in GEMINI I and II.
 
 In GEMINI I and II controlled studies, 5% (3 of 61) of the patients who had an adverse event assessed by the investigator as an IRR were persistently anti-vedolizumab antibody-positive.
-
 Overall, there was no apparent correlation of anti-vedolizumab antibody development to clinical response or adverse events.
 However, the number of patients that developed anti-vedolizumab antibodies was too limited to make a definitive assessment.
+
 Malignancy
 
 Overall, results from the clinical program to date do not suggest an increased risk for malignancy with vedolizumab treatment; however, the number of malignancies was small and long-term exposure was limited.

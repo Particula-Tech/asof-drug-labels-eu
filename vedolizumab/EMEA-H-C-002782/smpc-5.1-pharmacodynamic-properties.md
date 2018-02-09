@@ -16,6 +16,7 @@ In healthy subjects, ulcerative colitis patients, or Crohn’s disease patients,
 Vedolizumab did not affect immune surveillance and inflammation of the central nervous system in Experimental Autoimmune Encephalomyelitis in non-human primates, a model of multiple sclerosis.
 Vedolizumab did not affect immune responses to antigenic challenge in the dermis and muscle (see section 4.4).
 In contrast, vedolizumab inhibited an immune response to a gastrointestinal antigenic challenge in healthy human volunteers (see section 4.4).
+
 Pharmacodynamic effects
 
 In clinical trials with vedolizumab at doses ranging from 2 to 10 mg/kg, >95% saturation of α4β7 receptors on subsets of circulating lymphocytes involved in gut immune surveillance was observed in patients.
@@ -97,7 +98,6 @@ Patients who achieved a clinical response after receiving vedolizumab at Week 0 
 In these patients, clinical remission was achieved in 45% of patients by 28 weeks and 36% of patients by 52 weeks.
 
 In this open-label extension study, the benefits of vedolizumab treatment as assessed by partial Mayo score, clinical remission, and clinical response were shown for up to 124 weeks.
-
 Health-related quality of life (HRQOL) was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ), a disease specific instrument, and SF-36 and EQ-5D, which are general measures.
 Exploratory analysis show clinically meaningful improvements were observed for vedolizumab groups, and the improvements were significantly greater as compared with the placebo group at
 Week 6 and Week 52 on EQ-5D and EQ-5D VAS scores, all subscales of IBDQ (bowel symptoms, systemic function, emotional function and social function), and all subscales of SF-36 including the Physical Component Summary (PCS) and Mental Component Summary (MCS).
