@@ -58,6 +58,7 @@ tissue disorders Common Urticariaa 1 < 1
 Erythemaa 2 0
 Onychoclasisa 2 0
 Uncommon Angioedemaa < 1 < 1
+Uncommon Panniculitis*,a < 1 0
 Not known Stevens-Johnson syndromea Not known Not known
 Musculoskeletal and Very common Arthralgia 12 1
 connective tissue disorders Muscle spasms 14 < 1

@@ -18,6 +18,10 @@ A large increase in the number of circulating lymphocytes (e.g., > 400,000/mcL) 
 
 Lymphocytosis was not observed in patients with WM treated with IMBRUVICA.
 
+In vitro platelet aggregation
+In an in vitro study, ibrutinib demonstrated inhibition of collagen-induced platelet aggregation.
+Ibrutinib did not show meaningful inhibition of platelet aggregation using other agonists of platelet aggregation.
+
 Effect on QT/QTc interval and cardiac electrophysiology
 The effect of ibrutinib on the QTc interval was evaluated in 20 healthy male and female subjects in a randomised, double-blind thorough QT study with placebo and positive controls.
 At a supratherapeutic dose of 1680 mg, ibrutinib did not prolong the QTc interval to any clinically relevant extent.

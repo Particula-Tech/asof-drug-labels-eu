@@ -16,7 +16,7 @@ Dose adjustments
 
 Moderate and strong CYP3A4 inhibitors increase the exposure of ibrutinib (see sections 4.4 and 4.5).
 
-The IMBRUVICA dose should be lowered to 140 mg once daily (one capsule) when used concomitantly with moderate CYP3A4 inhibitors.
+The IMBRUVICA dose should be lowered to 280 mg once daily (two capsules) when used concomitantly with moderate CYP3A4 inhibitors.
 
 The IMBRUVICA dose should be reduced to 140 mg once daily (one capsule) or withheld for up to 7 days when it is used concomitantly with strong CYP3A4 inhibitors.
 
