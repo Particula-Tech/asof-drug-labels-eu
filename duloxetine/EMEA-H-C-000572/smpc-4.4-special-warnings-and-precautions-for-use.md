@@ -15,7 +15,6 @@ Duloxetine should be used with caution in patients whose conditions could be com
 Caution should also be exercised when duloxetine is used with medicinal products that may impair its metabolism (see section 4.5).
 For patients who experience a sustained increase in blood pressure while receiving duloxetine either dose reduction or gradual discontinuation should be considered (see section 4.8).
 In patients with uncontrolled hypertension duloxetine should not be initiated (see section 4.3).
-
 Renal impairment
 Increased plasma concentrations of duloxetine occur in patients with severe renal impairment on haemodialysis (creatinine clearance <30 ml/min).
 For patients with severe renal impairment, see section 4.3.
@@ -48,7 +47,6 @@ Cases of suicidal thoughts and suicidal behaviours have been reported during dul
 
 Close supervision of patients and in particular those at high risk should accompany medicinal product therapy especially in early treatment and following dose changes.
 Patients (and caregivers of patients) should be alerted about the need to monitor for any clinical worsening, suicidal behaviour or thoughts and unusual changes in behaviour and to seek medical advice immediately if these symptoms present.
-
 Diabetic Peripheral Neuropathic Pain: As with other medicinal products with similar pharmacological action (antidepressants), isolated cases of suicidal ideation and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation.
 Concerning risk factors for suicidality in depression, see above.
 Physicians should encourage patients to report any distressing thoughts or feelings at any time.
@@ -87,7 +85,6 @@ Akathisia/psychomotor restlessness
 The use of duloxetine has been associated with the development of akathisia, characterised by a subjectively unpleasant or distressing restlessness and need to move often accompanied by an inability to sit or stand still.
 This is most likely to occur within the first few weeks of treatment.
 In patients who develop these symptoms, increasing the dose may be detrimental.
-
 Medicinal products containing duloxetine
 Duloxetine is used under different trademarks in several indications (treatment of diabetic neuropathic pain, major depressive disorder, generalised anxiety disorder and stress urinary incontinence).
 The use of more than one of these products concomitantly should be avoided.
@@ -101,7 +98,3 @@ Duloxetine should be used with caution in patients treated with other medicinal 
 Sucrose
 Cymbalta hard gastro-resistant capsules contain sucrose.
 Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrose-isomaltase insufficiency should not take this medicine.
-
-[Cymbalta 60 mg hard gastro-resistant capsules]
-
-Data on the use of Cymbalta 120mg in elderly patients with major depressive disorder and generalised anxiety disorder are limited.

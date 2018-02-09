@@ -6,6 +6,7 @@ However, the majority of common adverse reactions were mild to moderate, they us
 
 b. Tabulated summary of adverse reactions
 Table 1 gives the adverse reactions observed from spontaneous reporting and in placebo-controlled clinical trials.
+
 Table 1: Adverse reactions
 Frequency estimate: Very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000).
 
@@ -24,7 +25,8 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Psychiatric disorders |  |  |  |  |
 |  | Insomnia Agitation Libido decreased Anxiety Orgasm abnormal Abnormal dreams | Suicidal ideation5,7 Sleep disorder Bruxism Disorientation Apathy | Suicidal behaviour5,7 Mania Hallucinations Aggression and anger4 |  |
 | Nervous system disorders |  |  |  |  |
-| Headache Somnolence | Dizziness Lethargy Tremor Paraesthesia | Myoclonus Akathisia7 Nervousness Disturbance in attention Dysgeusia Dyskinesia Restless legs syndrome Poor quality sleep | Serotonin syndrome6 Convulsion1 Psychomotor restlessness6 Extra-pyramidal symptoms6 |  |
+| Headache Somnolence | Dizziness Lethargy Tremor Paraesthesia | Myoclonus Akathisia7 Nervousness Disturbance in attention Dysgeusia Dyskinesia Restless legs syndrome | Serotonin syndrome6 Convulsion1 Psychomotor restlessness6 Extra-pyramidal symptoms6 |  |
+|  |  | Poor quality sleep |  |  |
 | Eye disorders |  |  |  |  |
 |  | Blurred vision | Mydriasis Visual impairment | Glaucoma |  |
 | Ear and labyrinth disorders |  |  |  |  |
@@ -32,8 +34,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Cardiac disorders |  |  |  |  |
 |  | Palpitations | Tachycardia Supra-ventricular arrhythmia, mainly atrial fibrillation |  |  |
 | Vascular disorders |  |  |  |  |
-|  | Blood pressure increase3 | Syncope2 Hypertension3,7 | Hypertensive crisis3,6 |  |
-|  | Flushing | Orthostatic hypotension2 Peripheral coldness |  |  |
+|  | Blood pressure increase3 Flushing | Syncope2 Hypertension3,7 Orthostatic hypotension2 Peripheral coldness | Hypertensive crisis3,6 |  |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |
 |  | Yawning | Throat tightness Epistaxis |  |  |
 | Gastrointestinal disorders |  |  |  |  |
@@ -45,12 +46,12 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
 |  | Musculo-skeletal pain Muscle spasm | Muscle tightness Muscle twitching | Trismus |  |
 | Renal and urinary disorders |  |  |  |  |
-|  | Dysuria Pollakiuria | Urinary retention Urinary hesitation Nocturia Polyuria Urine flow decreased | Urine odour abnormal |  |
+|  | Dysuria Pollakiuria | Urinary retention Urinary hesitation Nocturia | Urine odour abnormal |  |
+|  |  | Polyuria Urine flow decreased |  |  |
 | Reproductive system and breast disorders |  |  |  |  |
 |  | Erectile dysfunction Ejaculation disorder Ejaculation delayed | Gynaecological haemorrhage Menstrual disorder Sexual dysfunction Testicular pain | Menopausal symptoms Galactorrhoea Hyperprolactinae mia |  |
 | General disorders and administration site conditions |  |  |  |  |
-|  | Falls8 Fatigue | Chest pain7 Feeling abnormal Feeling cold Thirst Chills |  |  |
-|  |  | Malaise Feeling hot Gait disturbance |  |  |
+|  | Falls8 Fatigue | Chest pain7 Feeling abnormal Feeling cold Thirst Chills Malaise Feeling hot Gait disturbance |  |  |
 | Investigations |  |  |  |  |
 |  | Weight decrease | Weight increase Blood creatine phosphokinase increased Blood potassium increased | Blood cholesterol increased |  |
 
@@ -82,6 +83,7 @@ No clinically significant differences were observed for QT, PR, QRS, or QTcB mea
 d. Paediatric population
 A total of 509 paediatric patients aged 7 to 17 years with major depressive disorder and 241 paediatric patients aged 7 to 17 years with generalised anxiety disorder were treated with duloxetine in clinical trials.
 In general, the adverse reaction profile of duloxetine in children and adolescents was similar to that seen for adults.
+
 A total of 467 paediatric patients initially randomized to duloxetine in clinical trials experienced a 0.1 kg mean decrease in weight at 10-weeks compared with a 0.9 kg mean increase in 353 placebo-treated patients.
 Subsequently, over the four- to six-month extension period, patients on average trended toward recovery to their expected baseline weight percentile based on population data from age- and gender-matched peers.
 

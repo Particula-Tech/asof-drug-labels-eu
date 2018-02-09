@@ -1,7 +1,7 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Fertility
-Duloxetine had no effect on male fertility, and effects in females were only evident at doses that caused maternal toxicity.
+In animal studies, duloxetine had no effect on male fertility, and effects in females were only evident at doses that caused maternal toxicity.
 
 Pregnancy
 There are no adequate data on the use of duloxetine in pregnant women.

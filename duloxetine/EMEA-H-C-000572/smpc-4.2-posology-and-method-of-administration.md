@@ -7,7 +7,6 @@ Dosages above 60 mg once daily, up to a maximum dose of 120 mg per day have been
 However, there is no clinical evidence suggesting that patients not responding to the initial recommended dose may benefit from dose up-titrations.
 
 Therapeutic response is usually seen after 2-4 weeks of treatment.
-
 After consolidation of the antidepressive response, it is recommended to continue treatment for several months, in order to avoid relapse.
 In patients responding to duloxetine, and with a history of repeated episodes of major depression, further long-term treatment at a dose of 60 to 120 mg/day could be considered.
 
@@ -52,7 +51,6 @@ Duloxetine should not be used in children and adolescents under the age of 18 ye
 
 The safety and efficacy of duloxetine for the treatment of generalised anxiety disorder in paediatric patients aged 7-17 years have not been established.
 Current available data are described in sections 4.8, 5.1 and 5.2.
-
 The safety and efficacy of duloxetine for the treatment of diabetic peripheral neuropathic pain has not been studied.
 No data are available.
 

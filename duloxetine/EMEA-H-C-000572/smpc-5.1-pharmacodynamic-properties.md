@@ -2,7 +2,6 @@
 
 Pharmacotherapeutic group: Other antidepressants.
 ATC code: N06AX21.
-
 Mechanism of action
 Duloxetine is a combined serotonin (5-HT) and noradrenaline (NA) reuptake inhibitor.
 It weakly inhibits dopamine reuptake with no significant affinity for histaminergic, dopaminergic, cholinergic and adrenergic receptors.
@@ -38,7 +37,6 @@ Generalised Anxiety Disorder: Cymbalta demonstrated statistically significant su
 Cymbalta demonstrated statistically significant superiority over placebo as measured by improvement in the Hamilton Anxiety Scale (HAM-A) total score and by the Sheehan Disability Scale (SDS) global functional impairment score.
 Response and remission rates were also higher with Cymbalta compared to placebo.
 Cymbalta showed comparable efficacy results to venlafaxine in terms of improvements on the HAM-A total score.
-
 In a relapse prevention study, patients responding to 6 months of acute treatment with open-label Cymbalta were randomised to either Cymbalta or placebo for a further 6-months.
 Cymbalta 60 mg to 120 mg once daily demonstrated statistically significant superiority compared to placebo (p<0.001) on the prevention of relapse, as measured by time to relapse.
 The incidence of relapse during the 6-months double-blind follow-up period was 14% for Cymbalta and 42% for placebo.
