@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-2 years.
+3 years.
 
 After reconstitution
 
