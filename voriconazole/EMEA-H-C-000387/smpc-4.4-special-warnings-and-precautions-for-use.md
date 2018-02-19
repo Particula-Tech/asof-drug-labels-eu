@@ -31,12 +31,40 @@ If the liver function tests become markedly elevated, VFEND should be discontinu
 
 Monitoring of hepatic function should be carried out in both children and adults.
 
+Serious dermatological adverse reactions
+
+- Phototoxicity
+
+In addition VFEND has been associated with phototoxicity including reactions such as ephelides, lentigo, actinic keratosis and pseudoporphyria.
+It is recommended that all patients, including children, avoid exposure to direct sunlight during VFEND treatment and use measures such as protective clothing and sunscreen with high sun protection factor (SPF).
+
+- Squamous cell carcinoma of the skin (SCC)
+
+Squamous cell carcinoma of the skin has been reported in patients, some of whom have reported prior phototoxic reactions.
+If phototoxic reactions occur multidisciplinary advice should be sought, VFEND discontinuation and use of alternative antifungal agents should be considered and the patient should be referred to a dermatologist.
+If VFEND is continued, however, dermatologic evaluation should be performed on a systematic and regular basis, to allow early detection and management of premalignant lesions.
+VFEND should be discontinued if premalignant skin lesions or squamous cell carcinoma are identified (see below the section under Long-term treatment).
+
+- Exfoliative cutaneous reactions
+
+Reactions such as Stevens-Johnson syndrome developed during treatment with VFEND.
+If a patient develops a rash he should be monitored closely and VFEND discontinued if lesions progress.
+
+Long-term treatment
+Long term exposure (treatment or prophylaxis) greater than 180 days (6 months) requires careful assessment of the benefit-risk balance and physicians should therefore consider the need to limit the exposure to VFEND (see sections 4.2 and 5.1).
+
+Squamous cell carcinoma of the skin (SCC) has been reported in relation with long-term VFEND treatment.
+
+Non-infectious periostitis with elevated fluoride and alkaline phosphatase levels has been reported in transplant patients.
+If a patient develops skeletal pain and radiologic findings compatible with periostitis VFEND discontinuation should be considered after multidisciplinary advice.
+
 Visual adverse reactions
 There have been reports of prolonged visual adverse reactions, including blurred vision, optic neuritis and papilloedema (see section 4.8).
 
 Renal adverse reactions
 Acute renal failure has been observed in severely ill patients undergoing treatment with VFEND.
 Patients being treated with voriconazole are likely to be treated concomitantly with nephrotoxic medicinal products and have concurrent conditions that may result in decreased renal function (see section 4.8).
+
 Monitoring of renal function
 Patients should be monitored for the development of abnormal renal function.
 This should include laboratory evaluation, particularly serum creatinine.
@@ -44,26 +72,6 @@ This should include laboratory evaluation, particularly serum creatinine.
 Monitoring of pancreatic function
 Patients, especially children, with risk factors for acute pancreatitis (e.g., recent chemotherapy, haematopoietic stem cell transplantation [HSCT]), should be monitored closely during VFEND treatment.
 Monitoring of serum amylase or lipase may be considered in this clinical situation.
-
-Dermatological adverse reactions
-Patients have developed exfoliative cutaneous reactions, such as Stevens-Johnson syndrome, during treatment with VFEND.
-If a patient develops a rash he should be monitored closely and VFEND discontinued if lesions progress.
-
-In addition VFEND has been associated with phototoxicity, including reactions such as ephelides, lentigo, actinic keratosis and pseudoporphyria.
-It is recommended that all patients, including children, avoid exposure to direct sunlight during VFEND treatment and use measures such as protective clothing and sunscreen with high sun protection factor (SPF).
-
-Long-term treatment
-Long term exposure (treatment or prophylaxis) greater than 180 days (6 months) requires careful assessment of the benefit-risk balance and physicians should therefore consider the need to limit the exposure to VFEND (see sections 4.2 and 5.1).
-The following severe adverse events have been reported in relation with long-term VFEND treatment:
-
-Squamous cell carcinoma of the skin (SCC) has been reported in patients, some of whom have reported prior phototoxic reactions.
-If phototoxic reactions occur, multidisciplinary advice should be sought and the patient should be referred to a dermatologist.
-VFEND discontinuation and use of alternative antifungal agents should be considered.
-Dermatologic evaluation should be performed on a systematic and regular basis, whenever VFEND is continued despite the occurrence of phototoxicity-related lesions, to allow early detection and management of premalignant lesions.
-VFEND should be discontinued if premalignant skin lesions or squamous cell carcinoma are identified.
-
-Non-infectious periostitis with elevated fluoride and alkaline phosphatase levels has been reported in transplant patients.
-If a patient develops skeletal pain and radiologic findings compatible with periostitis VFEND discontinuation should be considered after multidisciplinary advice.
 
 Paediatric population
 Safety and effectiveness in paediatric subjects below the age of two years has not been established (see sections 4.8 and 5.1).
@@ -73,10 +81,11 @@ Hepatic function should be monitored in both children and adults.
 Oral bioavailability may be limited in paediatric patients aged 2 to <12 years with malabsorption and very low body weight for age.
 In that case, intravenous voriconazole administration is recommended.
 
+- Serious dermatological adverse reactions (including SCC)
+
 The frequency of phototoxicity reactions is higher in the paediatric population.
 As an evolution towards SCC has been reported, stringent measures for the photoprotection are warranted in this population of patients.
 In children experiencing photoaging injuries such as lentigines or ephelides, sun avoidance and dermatologic follow-up are recommended even after treatment discontinuation.
-
 Prophylaxis
 In case of treatment-related adverse events (hepatotoxicity, severe skin reactions including phototoxicity and SCC, severe or prolonged visual disorders and periostitis), discontinuation of voriconazole and use of alternative antifungal agents must be considered.
 

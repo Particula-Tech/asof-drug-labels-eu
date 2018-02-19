@@ -92,7 +92,8 @@ Hepatic impairment
 After an oral single-dose (200 mg), AUC was 233% higher in subjects with mild to moderate hepatic cirrhosis (Child-Pugh A and B) compared with subjects with normal hepatic function.
 Protein binding of voriconazole was not affected by impaired hepatic function.
 
-In an oral multiple-dose study, AUCτ was similar in subjects with moderate hepatic cirrhosis (Child-Pugh B) given a maintenance dose of 100 mg twice daily and subjects with normal hepatic function given 200 mg twice daily.
+In an oral multiple-dose study, AUCτ was similar in subjects with moderate hepatic cirrhosis (Child-Pugh
+B) given a maintenance dose of 100 mg twice daily and subjects with normal hepatic function given 200 mg twice daily.
 No pharmacokinetic data are available for patients with severe hepatic cirrhosis (Child-Pugh C) (see sections 4.2 and 4.4).
 
 [VFEND 200 mg powder for solution for infusion]
@@ -102,6 +103,8 @@ No significant differences in Cmax and AUCτ were observed between healthy elder
 It is likely that these subjects may metabolize voriconazole more similarly to children than to adolescents/adults.
 
 In patients with moderate to severe renal dysfunction (serum creatinine levels > 2.5 mg/dl), accumulation of the intravenous vehicle, SBECD, occurs (see sections 4.2 and 4.4).
+
+In an oral multiple-dose study, AUCτ was similar in subjects with moderate hepatic cirrhosis (Child-Pugh B) given a maintenance dose of 100 mg twice daily and subjects with normal hepatic function given 200 mg twice daily.
 
 [VFEND 40 mg/ml powder for oral suspension]
 
