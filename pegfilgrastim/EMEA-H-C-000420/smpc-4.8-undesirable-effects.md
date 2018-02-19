@@ -31,7 +31,10 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Blood and lymphatic system disorders |  | Thrombocytopenia1 Leukocytosis1 | Sickle cell crisis2; Splenomegaly2; Splenic rupture2 |  |  |
 
 MedDRA Adverse reactions
-system organ class Very common (≥ 1/10) (≥ 1/100 to < 1/10) Common (≥ 1/1,000 to Uncommon (≥ 1/10,000 Rare (< 1/10,000) Very rare
+system organ
+Very common Common Uncommon Rare Very rare
+class
+(≥ 1/10) (≥ 1/100 to < 1/10) (≥ 1/1,000 to (≥ 1/10,000 (< 1/10,000)
 < 1/100) to
 < 1/1,000)
 Immune system Hypersensitivity
