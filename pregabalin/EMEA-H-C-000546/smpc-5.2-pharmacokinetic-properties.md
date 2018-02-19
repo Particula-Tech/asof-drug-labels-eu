@@ -1,10 +1,9 @@
 # 5.2 Pharmacokinetic properties
 
 Pregabalin steady-state pharmacokinetics are similar in healthy volunteers, patients with epilepsy receiving anti-epileptic drugs and patients with chronic pain.
-
 Absorption
 Pregabalin is rapidly absorbed when administered in the fasted state, with peak plasma concentrations occurring within 1 hour following both single and multiple dose administration.
-Pregabalin oral bioavailability is estimated to be ≥90% and is independent of dose.
+Pregabalin oral bioavailability is estimated to be ≥ 90% and is independent of dose.
 Following repeated administration, steady state is achieved within 24 to 48 hours.
 The rate of pregabalin absorption is decreased when given with food resulting in a decrease in Cmax by approximately 25-30% and a delay in tmax to approximately 2.5 hours.
 However, administration of pregabalin with food has no clinically significant effect on the extent of pregabalin absorption.
@@ -14,6 +13,7 @@ In preclinical studies, pregabalin has been shown to cross the blood brain barri
 Pregabalin has been shown to cross the placenta in rats and is present in the milk of lactating rats.
 In humans, the apparent volume of distribution of pregabalin following oral administration is approximately 0.56 l/kg.
 Pregabalin is not bound to plasma proteins.
+
 Biotransformation
 Pregabalin undergoes negligible metabolism in humans.
 Following a dose of radiolabelled pregabalin, approximately 98% of the radioactivity recovered in the urine was unchanged pregabalin.
@@ -47,13 +47,13 @@ Since pregabalin does not undergo significant metabolism and is excreted predomi
 
 Paediatric population
 Pregabalin pharmacokinetics were evaluated in paediatric patients with epilepsy (age groups: 1 to 23 months, 2 to 6 years, 7 to 11 years and 12 to 16 years) at dose levels of 2.5, 5, 10 and 15 mg/kg/day in a pharmacokinetic and tolerability study.
-
 After oral administration of pregabalin in paediatric patients in the fasted state, in general, time to reach peak plasma concentration was similar across the entire age group and occurred 0.5 hours to 2 hours postdose.
 
 Pregabalin Cmax and AUC parameters increased in a linear manner with increasing dose within each age group.
 The AUC was lower by 30% in paediatric patients below a weight of 30 kg due to an increased body weight adjusted clearance of 43% for these patients in comparison to patients weighing ≥30 kg.
 
 Pregabalin terminal half-life averaged about 3 to 4 hours in paediatric patients up to 6 years of age, and 4 to 6 hours in those 7 years of age and older.
+
 Population pharmacokinetic analysis showed that creatinine clearance was a significant covariate of pregabalin oral clearance, body weight was a significant covariate of pregabalin apparent oral volume of distribution, and these relationships were similar in paediatric and adult patients.
 
 Pregabalin pharmacokinetics in patients younger than 3 months old have not been studied (see sections 4.2, 4.8 and 5.1).

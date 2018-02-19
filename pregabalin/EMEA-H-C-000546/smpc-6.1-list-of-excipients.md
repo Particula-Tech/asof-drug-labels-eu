@@ -34,7 +34,6 @@ Sodium laurilsulphate
 Silica, colloidal anhydrous
 Purified water
 Red iron oxide (E172)
-
 Printing ink:
 Shellac
 Black iron oxide (E172)

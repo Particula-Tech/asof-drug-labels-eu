@@ -6,8 +6,8 @@ Adverse reactions were usually mild to moderate in intensity.
 In all controlled studies, the discontinuation rate due to adverse reactions was 12% for patients receiving pregabalin and 5% for patients receiving placebo.
 The most common adverse reactions resulting in discontinuation from pregabalin treatment groups were dizziness and somnolence.
 
-In table 2 below all adverse reactions, which occurred at an incidence greater than placebo and in more than one patient, are listed by class and frequency (very common (≥1/10); common (≥1/100 to
-< 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from the available data).
+In table 2 below all adverse reactions, which occurred at an incidence greater than placebo and in more than one patient, are listed by class and frequency (very common (≥ 1/10); common (≥ 1/100 to
+< 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 The adverse reactions listed may also be associated with the underlying disease and/or concomitant medicinal products.
@@ -112,6 +112,12 @@ hypoaesthesia oral
 
 Rare Ascites, pancreatitis, swollen tongue, dysphagia
 
+Hepatobiliary disorders
+
+Uncommon Elevated liver enzymes*
+Rare Jaundice
+Very rare Hepatic failure, hepatitis
+
 Skin and subcutaneous tissue disorders
 
 Uncommon Rash papular, urticaria, hyperhidrosis, pruritus
@@ -152,11 +158,13 @@ thirst, chills, asthenia
 Investigations
 
 Common Weight increased
-Uncommon Blood creatine phosphokinase increased, alanine aminotransferase
+Uncommon Blood creatine phosphokinase increased, blood glucose increased,
 
-increased, aspartate aminotransferase increased, blood glucose increased, platelet count decreased, blood creatinine increased, blood potassium decreased, weight decreased
+platelet count decreased, blood creatinine increased, blood potassium decreased, weight decreased
 
 Rare White blood cell count decreased
+
+* Alanine aminotransferase increased (ALT) and aspartate aminotransferase increased (AST).
 
 After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
 The following reactions have been mentioned: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, pain, hyperhidrosis and dizziness, suggestive of physical dependence.
@@ -165,8 +173,8 @@ The patient should be informed about this at the start of the treatment.
 Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related.
 
 Paediatric population
-The pregabalin safety profile observed in two paediatric studies (pharmacokinetic and tolerability study, n=65; 1 year open label follow on safety study, n=54) was similar to that observed in the adult studies (see sections 4.2, 5.1 and 5.2).
-
+The pregabalin safety profile observed in three paediatric studies in patients with partial seizures with or without secondary generalization (12-week efficacy and safety study in patients with partial onset seizures, n=295; pharmacokinetic and tolerability study, n=65; and 1 year open label follow on safety study, n=54) was similar to that observed in the adult studies of patients with epilepsy.
+The most common adverse events observed in the 12-week study with pregabalin treatment were somnolence, pyrexia, upper respiratory tract infection, increased appetite, weight increased, and nasopharyngitis (see sections 4.2, 5.1 and 5.2).
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
