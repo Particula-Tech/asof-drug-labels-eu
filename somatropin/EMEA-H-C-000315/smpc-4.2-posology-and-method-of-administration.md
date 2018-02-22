@@ -4,7 +4,6 @@ Diagnosis and therapy with somatropin should be initiated and monitored by physi
 Posology
 
 The NutropinAq dosage and administration schedule should be individualised for each patient.
-
 Paediatric population
 
 Growth failure in children due to inadequate growth hormone secretion
@@ -27,6 +26,9 @@ The dose should be adjusted stepwise, controlled by serum Insulin-like Growth Fa
 The recommended final dose seldom exceeds 1.0 mg/day.
 In general, the lowest efficacious dose should be administered.
 In older or overweight patients, lower doses may be necessary.
+
+Women may require higher doses than men, with men showing an increasing IGF-I sensitivity over time.
+This means that there is a risk that women, especially those on oral oestrogen replacement therapy, are under-treated while men are over-treated.
 
 Method of administration
 

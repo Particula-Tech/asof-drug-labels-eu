@@ -1,7 +1,6 @@
 # 4.4 Special warnings and precautions for use
 
 The maximum recommended daily dose should not be exceeded (see section 4.2).
-
 Neoplasm
 In patients with previous malignant disease, special attention should be given to signs and symptoms of relapse.
 Patients with pre-existing tumours or growth hormone deficiency secondary to an intracranial lesion should be examined routinely for progression or recurrence of the underlying disease process.
@@ -38,7 +37,6 @@ Intracranial hypertension with papilloedema, visual changes, headache, nausea an
 Symptoms usually occur within the first eight weeks of the initiation of NutropinAq therapy.
 In all reported cases, intracranial hypertension-associated signs and symptoms resolved after reduction of the somatropin dose or termination of the therapy.
 Funduscopic examination is recommended at the initiation and periodically during the course of treatment.
-
 Hypothyroidism
 Hypothyroidism may develop during treatment with somatropin, and untreated hypothyroidism may prevent optimal response to NutropinAq.
 Therefore, patients should have periodic thyroid function tests and should be treated with thyroid hormone when indicated.
@@ -59,6 +57,10 @@ A causal relationship to somatropin therapy has not been established.
 Pancreatitis in children
 Children treated with somatropin have an increased risk of developing pancreatitis compared to adults treated with somatropin.
 Although rare, pancreatitis should be considered in somatropin-treated children who develop abdominal pain.
+
+Use with oral oestrogen therapy
+If a woman taking NutropinAq begins oral oestrogen therapy, the dose of NutropinAq may need to be increased to maintain the serum IGF-1 levels within the normal age-appropriate range.
+Conversely, if a woman on NutropinAq discontinues oral oestrogen therapy, the dose of Nutropin may need to be reduced to avoid excess of growth hormone and/or side effects (see section 4.5).
 
 Excipients
 This medicinal product contains less than 1 mmol sodium (23 mg) per cartridge, i.e. essentially „sodium- free‟.

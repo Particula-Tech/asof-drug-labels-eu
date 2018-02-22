@@ -99,7 +99,6 @@ Patients under 11 years of age were also randomised to receive oestrogen therapy
 
 A total of 117 patients were treated with somatropin; 36 received somatropin 0.125 mg/kg three times a week and 81 patients received 0.054 mg/kg somatropin daily.
 The average treatment time was 4.7 years in the somatropin three times a week group and 4.6 years in the somatropin daily group.
-
 Growth rate increased significantly from 3.6-4.1 cm/year at baseline to 6.7-8.1 cm/year at Month 12, 6.7-6.8 cm/year at Month 24 and 4.5-5.1 cm/year at Month 48.
 This was accompanied by a significant increase in height SDS from -0.1 to 0.5 at baseline to 0.0 to 0.7 at Month 12 and 1.6 to 1.7 at Month 48.
 Compared with matched historical controls, early somatropin therapy (mean duration of 5.6 years) combined with oestrogen replacement at age 12 years resulted in an adult height gain of 5.9 cm (n=26), whereas girls who initiated oestrogen at age 15 years (mean duration of somatropin therapy 6.1 years) had a mean adult height gain of 8.3 cm (n=29).

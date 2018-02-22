@@ -22,7 +22,6 @@ Injection site reactions such as haemorrhage, atrophy, urticaria and pruritus we
 These events can be avoided by correct injection technique and rotation of injection sites.
 A small percentage of patients may develop antibodies to the protein somatropin.
 The binding capacity of growth hormone antibodies was lower than 2 mg/l in NutropinAq subjects tested, which has not been associated with adversely affected growth rate.
-
 Tabulated summary of adverse reactions
 
 Table 1 contains very common (≥ 1/10), common (≥ 1/100, < 1/10); uncommon (≥ 1/1000, < 1/100); rare (≥ 1/10,000, < 1/1,000) adverse reactions which occurred in clinical trials and a post-marketing surveillance survey.
@@ -89,7 +88,6 @@ See also section 4.4.
 
 Girls with growth failure associated with Turner syndrome (n=108)
 Common: menorrhagia.
-
 Children with growth failure associated with chronic renal insufficiency (n=171)
 Common: renal failure, peritonitis, osteonecrosis, blood creatinine increase.Children with chronic renal insufficiency receiving NutropinAq are more likely to develop intracranial hypertension, although children with organic GHD and Turner syndrome also have an increased incidence.
 The greatest risk is at the beginning of treatment.
