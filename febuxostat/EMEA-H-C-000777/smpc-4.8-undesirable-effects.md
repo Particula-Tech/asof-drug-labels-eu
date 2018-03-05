@@ -12,7 +12,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 Table 1: Adverse reactions in combined phase 3, long-term extension studies and post-marketing experience
 
-| Blood and lymphatic system disorders | Rare Pancytopenia, thrombocytopenia |
+| Blood and lymphatic system disorders | Rare Pancytopenia, thrombocytopenia, agranulocytosis* |
 | --- | --- |
 | Immune system disorders | Rare Anaphylactic reaction*, drug hypersensitivity* |
 | Endocrine disorders | Uncommon Blood thyroid stimulating hormone increased |
@@ -65,7 +65,7 @@ The frequencies are based on studies and post-marketing experience in gout patie
 Table 1: Adverse reactions in combined phase 3, long-term extension studies and post-marketing experience in gout patients.
 
 Blood and lymphatic system Rare
-disorders Pancytopenia, thrombocytopenia
+disorders Pancytopenia, thrombocytopenia, agranulocytosis*
 
 | Immune system disorders | Rare Anaphylactic reaction*, drug hypersensitivity* |
 | --- | --- |
