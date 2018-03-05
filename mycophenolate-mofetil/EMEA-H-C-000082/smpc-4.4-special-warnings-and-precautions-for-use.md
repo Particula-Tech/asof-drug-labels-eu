@@ -50,8 +50,8 @@ Therefore, it should be avoided in patients with rare hereditary deficiency of h
 
 Interactions
 
-Caution should be exercised when switching combination therapy from regimens containing immunosuppressants, which interfere with MPA enterohepatic recirculation e.g. ciclosporin to others devoid of this effect e.g. sirolimus, belatacept, or vice versa, as this might result in changes of MPA exposure.
-Drugs of other classes which interfere with MPA’s enterohepatic cycle e.g. cholestyramine should be used with caution due to their potential to reduce the plasma levels and efficacy of CellCept (see also section 4.5).
+Caution should be exercised when switching combination therapy from regimens containing immunosuppressants, which interfere with MPA enterohepatic recirculation, e.g. ciclosporin, to others devoid of this effect, e.g. sirolimus, belatacept, or vice versa, as this might result in changes of MPA exposure.
+Drugs which interfere with MPA’s enterohepatic cycle (e.g. cholestyramine, antibiotics) should be used with caution due to their potential to reduce the plasma levels and efficacy of CellCept (see also section 4.5).
 
 It is recommended that CellCept should not be administered concomitantly with azathioprine because such concomitant administration has not been studied.
 
@@ -62,19 +62,20 @@ Special populations
 Elderly patients may be at an increased risk of adverse events such as certain infections (including cytomegalovirus tissue invasive disease) and possibly gastrointestinal haemorrhage and pulmonary oedema, compared with younger individuals (see section 4.8).
 
 Teratogenic effects
+
 Mycophenolate is a powerful human teratogen.
-Spontaneous abortion (rate of 45-49%) and congenital malformations (estimated rate of 23-27%) have been reported following MMF exposure during pregnancy.
+Spontaneous abortion (rate of 45% to 49%) and congenital malformations (estimated rate of 23% to 27%) have been reported following MMF exposure during pregnancy.
 Therefore CellCept is contraindicated in pregnancy unless there are no suitable alternative treatments to prevent transplant rejection.
-Female and male patients of reproductive potential should be made aware of the risks and follow the recommendations provided in section 4.6.
-(e.g. contraceptive methods, pregnancy testing) prior to, during, and after therapy with CellCept.
-Physicians should ensure that women and men taking mycophenolate understand the risk of harm to the baby, the need for effective contraception, and the need to immediately consult their physician if there is a possibility of pregnancy.
+Female patients of childbearing potential should be made aware of the risks and follow the recommendations provided in section 4.6 (e.g. contraceptive methods, pregnancy testing) prior to, during, and after therapy with CellCept.
+Physicians should ensure that women taking mycophenolate understand the risk of harm to the baby, the need for effective contraception, and the need to immediately consult their physician if there is a possibility of pregnancy.
 
 Contraception (see section 4.6)
-Because of the genotoxic and teratogenic potential of CellCept, women with childbearing potential should use two reliable forms of contraception simultaneously before starting CellCept therapy, during therapy, and for six weeks after stopping the therapy; unless abstinence is the chosen method of contraception (see section 4.5).
 
-Sexually active men are recommended to use condoms during treatment and for at least 90 days after cessation of treatment.
-Condom use applies for both reproductively competent and vasectomized men, because the risks associated with the transfer of seminal fluid also apply to men who have had a vasectomy.
-In addition, female partners of male patients treated with CellCept are recommended to use highly effective contraception during treatment and for a total of 90 days after the last dose of CellCept.
+Because of robust clinical evidence showing a high risk of abortion and congential malformations when mycophenolate mofetil is used in pregnancy every effort to avoid pregnancy during treatment should be taken.
+Therefore women with childbearing potential must use at least one form of reliable contraception (see section 4.3) before starting CellCept therapy, during therapy, and for six weeks after stopping the therapy; unless abstinence is the chosen method of contraception.
+Two complementary forms of contraception simultaneously are preffered to minimise the potential for contraceptive failure and unintended pregnancy.
+
+For contraception advice for men see section 4.6.
 
 Educational materials
 In order to assist patients in avoiding foetal exposure to mycophenolate and to provide additional important safety information, the Marketing Authorisation holder will provide educational materials to healthcare professionals.
@@ -91,15 +92,14 @@ If neutropenia develops (absolute neutrophil count < 1.3 x 103/µl) it may be ap
 
 Patients should be advised that during treatment with CellCept, vaccinations may be less effective, and the use of live attenuated vaccines should be avoided (see section 4.5).
 
-Caution should be exercised when switching combination therapy from regimens containing immunosuppressants, which interfere with MPA enterohepatic recirculation e.g. ciclosporin, to others devoid of this effect e.g. sirolimus, belatacept, or vice versa, as this might result in changes of MPA exposure.
-Drugs of other classes which interfere with MPA’s enterohepatic cycle e.g. cholesterolamine, should be used with caution due to their potential to reduce the plasma levels and efficacy of CellCept (see also section 4.5).
+Drugs which interfere with MPA’s enterohepatic cycle (e.g. cholesterolamine, antibiotics) should be used with caution due to their potential to reduce the plasma levels and efficacy of CellCept (see also section 4.5).
 Some degree of enterohepatic recirculation is anticipated following intravenous administration of CellCept.
 
-Therefore CellCept is contraindicated in pregnancy unless there are no suitable alternative treatments to prevent transplant rejection.Female and male patients of reproductive potential should be made aware of the risks and follow the recommendations provided in section 4.6.
+Therefore women with childbearing potential must use at least one form of reliable contraception (see section 4.3) before starting CellCept therapy, during therapy, and for six weeks after stopping the therapy, unless abstinence is the chosen method of contraception.
 
 [CellCept 1 g/5 ml powder for oral suspension.]
 
-Drugs of other classes which interfere with MPA’s enterohepatic cycle e.g. cholestyramine, should be used with caution due to their potential to reduce plasma levels and efficacy of CellCept (see also section 4.5).
+Drugs which interfere with MPA’s enterohepatic cycle (e.g. cholestyramine, antibiotics) should be used with caution due to their potential to reduce plasma levels and efficacy of CellCept (see also section 4.5).
 
 CellCept 1 g/5 ml powder for oral suspension contains aspartame.
 Therefore, care should be taken if CellCept 1 g/5 ml powder for oral suspension is administered to patients with phenylketonuria (see section 6.1)
@@ -109,4 +109,4 @@ Patients with rare hereditary problems of fructose intolerance should not take t
 
 [CellCept 500 mg film-coated tablets.]
 
-Drugs of other classes which interfere with MPA’s enterohepatic cycle e.g. cholestyramine, should be used with caution due to their potential to reduce the plasma level and efficacy of CellCept (see also section 4.5).
+Drugs which interfere with MPA’s enterohepatic cycle (e.g. cholestyramine, antibiotics) should be used with caution due to their potential to reduce the plasma level and efficacy of CellCept (see also section 4.5).

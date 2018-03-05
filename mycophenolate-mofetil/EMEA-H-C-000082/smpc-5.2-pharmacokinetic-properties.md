@@ -31,14 +31,13 @@ MPA’s disposition depends on several transporters.
 Organic anion-transporting polypeptides (OATPs) and multidrug resistance-associated protein 2 (MRP2) are involved in MPA’s disposition; OATP isoforms, MRP2 and breast cancer resistance protein (BCRP) are transporters associated with the glucuronides’ biliary excretion.
 Multidrug resistance protein 1 (MDR1) is also able to transport MPA, but its contribution seems to be confined to the absorption process.
 In the kidney MPA and its metabolites potently interact with renal organic anion transporters.
-
 In the early post-transplant period (< 40 days post-transplant), renal, cardiac and hepatic transplant patients had mean MPA AUCs approximately 30% lower and Cmax approximately 40% lower compared to the late post-transplant period (3 – 6 months post-transplant).
 
 Special populations
 
 Renal impairment
 In a single dose study (6 subjects/group), mean plasma MPA AUC observed in subjects with severe chronic renal impairment (glomerular filtration rate < 25 mL./min/1.73 m2) were 28 – 75% higher relative to the means observed in normal healthy subjects or subjects with lesser degrees of renal impairment.
-However, the mean single dose MPAG AUC was 3 – 6-fold higher in subjects with severe renal impairment than in subjects with mild renal impairment or normal healthy subjects, consistent with the known renal elimination of MPAG.
+The mean single dose MPAG AUC was 3 – 6-fold higher in subjects with severe renal impairment than in subjects with mild renal impairment or normal healthy subjects, consistent with the known renal elimination of MPAG.
 Multiple dosing of mycophenolate mofetil in patients with severe chronic renal impairment has not been studied.
 No data are available for cardiac or hepatic transplant patients with severe chronic renal impairment.
 
@@ -47,6 +46,7 @@ In patients with delayed renal graft function post-transplant, mean MPA AUC (0�
 Mean plasma MPAG AUC (0-12h) was 2 – 3-fold higher than in post-transplant patients without delayed graft function.
 There may be a transient increase in the free fraction and concentration of plasma MPA in patients with delayed renal graft function.
 Dose adjustment of CellCept does not appear to be necessary.
+
 Hepatic impairment
 In volunteers with alcoholic cirrhosis, hepatic MPA glucuronidation processes were relatively unaffected by hepatic parenchymal disease.
 Effects of hepatic disease on this process probably depend on the particular disease.
@@ -61,9 +61,9 @@ Elderly:
 Pharmacokinetic behaviour of CellCept in the elderly (≥ 65 years) has not been formally evaluated.
 
 Patients taking oral contraceptives
-The pharmacokinetics of oral contraceptives were unaffected by co-administration of CellCept (see also section 4.5).
 A study of the co-administration of CellCept (1 g bid) and combined oral contraceptives containing ethinylestradiol (0.02 mg to 0.04 mg) and levonorgestrel (0.05 mg to 0.15 mg), desogestrel (0.15 mg) or gestodene (0.05 mg to 0.10 mg) conducted in 18 non-transplant women (not taking other immunosupressants) over 3 consecutive menstrual cycles showed no clinically relevant influence of CellCept on the ovulation suppressing action of the oral contraceptives.
 Serum levels of LH, FSH and progesterone were not significantly affected.
+The pharmacokinetics of oral contraceptives were unaffected by co-administration of CellCept (see also section 4.5).
 
 [CellCept 500 mg powder for concentrate for solution for infusion.]
 
@@ -78,7 +78,7 @@ MPA AUC values obtained following administration of 1 g BID intravenous CellCept
 In hepatic transplant patients, administration of 1 g BID intravenous CellCept followed by 1.5 g BID oral CellCept resulted in MPA AUC values similar to those found in renal transplant patients administered 1 g CellCept BID.
 
 In a single dose study (6 subjects/group), mean plasma MPA AUC observed in subjects with severe chronic renal impairment (glomerular filtration rate < 25 mL/min/1.73 m2) were 28 – 75% higher relative to the means observed in normal healthy subjects or subjects with lesser degrees of renal impairment.
-However, the mean single dose MPAG AUC was 3 – 6 fold higher in subjects with severe renal impairment than in subjects with mild renal impairment or normal healthy subjects, consistent with the known renal elimination of MPAG.
+The mean single dose MPAG AUC was 3 – 6 fold higher in subjects with severe renal impairment than in subjects with mild renal impairment or normal healthy subjects, consistent with the known renal elimination of MPAG.
 No data are available for hepatic transplant patients with severe chronic renal impairment.
 
 [CellCept 1 g/5 ml powder for oral suspension.]

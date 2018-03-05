@@ -30,6 +30,7 @@ Keep solutions at 15 – 30° C.
 [CellCept 1 g/5 ml powder for oral suspension.]
 
 It is recommended that CellCept 1 g/5 ml powder for oral suspension be reconstituted by the pharmacist prior to dispensing to the patient.
+Wearing disposable gloves is recommended during reconstitution and when wiping the outer surface of the bottle/cap and the table after reconstitution.
 
 Preparation of suspension
 

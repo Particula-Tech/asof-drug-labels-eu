@@ -12,9 +12,8 @@ Hepatic transplant patients were followed for at least 1 year, but less than 3 y
 
 Opportunistic infections
 All transplant patients are at increased risk of opportunistic infections; the risk increased with total immunosuppressive load (see section 4.4).
-The most common opportunistic infections in patients receiving CellCept (2 g or 3 g daily) with other immunosuppressants in controlled clinical trials of renal (2 g data), cardiac and hepatic transplant patients followed for at least 1 year were candida mucocutaneous, CMV viraemia/syndrome and Herpes simplex.
+The most common opportunistic infections in patients receiving CellCept (2 g or 3 g daily) with other immunosuppressants in controlled clinical trials in renal (2 g data), cardiac and hepatic transplant patients followed for at least 1 year were candida mucocutaneous, CMV viraemia/syndrome and Herpes simplex.
 The proportion of patients with CMV viraemia/syndrome was 13.5%.
-
 Paediatric population
 The type and frequency of adverse reactions in a clinical study, which recruited 92 paediatric patients aged 2 to 18 years who were given 600 mg/m2 mycophenolate mofetil orally twice daily, were generally similar to those observed in adult patients given 1 g CellCept twice daily.
 However, the following treatment-related adverse events were more frequent in the paediatric population, particularly in children under 6 years of age, when compared to adults: diarrhoea, sepsis, leucopenia, anaemia and infection.
@@ -25,6 +24,7 @@ Elderly patients receiving CellCept as part of a combination immunosuppressive r
 
 Other adverse reactions
 Adverse reactions, probably or possibly related to CellCept, reported in ≥1/10 and in ≥1/100 to<1/10 of patients treated with CellCept in the controlled clinical trials of renal (2 g data), cardiac and hepatic transplant patients are listed in the following table.
+
 Adverse Reactions, Probably or Possibly Related to CellCept, Reported in Patients Treated with CellCept in Renal, Cardiac and Hepatic Clinical Trials when Used in Combination with Ciclosporin and Corticosteroids
 
 Within the system organ classes, undesirable effects are listed under headings of frequency, using the following categories: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
@@ -80,7 +80,6 @@ Serious life-threatening infections including meningitis, endocarditis, tubercul
 Cases of BK virus associated nephropathy, as well as cases of JC virus associated progressive multifocal leucoencephalopathy (PML), have been reported in patients treated with immunosuppressants, including CellCept.
 Agranulocytosis (≥1/1000 to <1/100) and neutropenia have been reported; therefore, regular monitoring of patients taking CellCept is advised (see section 4.4).
 There have been reports of aplastic anaemia and bone marrow depression in patients treated with CellCept, some of which have been fatal.
-
 Blood and lymphatic system disorder
 Cases of pure red cell aplasia (PRCA) have been reported in patients treated with CellCept (see section 4.4).
 Isolated cases of abnormal neutrophil morphology, including the acquired Pelger-Huet anomaly, have been observed in patients treated with CellCept.
@@ -95,6 +94,7 @@ Cases of spontaneous abortions have been reported in patients exposed to mycophe
 
 Congenital disorders
 Congenital malformations have been observed post-marketing in children of patients exposed to CellCept in combination with other immunosuppressants, see section 4.6.
+
 Respiratory, thoracic and mediastinal disorders
 There have been isolated reports of interstitial lung disease and pulmonary fibrosis in patients treated with CellCept in combination with other immunosuppressants, some of which have been fatal.
 There have also been reports of bronchiectasis in children and adults (frequency not known).
@@ -176,4 +176,4 @@ Hypersensitivity reactions, including angioneurotic oedema and anaphylactic reac
 
 [CellCept 500 mg film-coated tablets.]
 
-All transplant patients are at increased risk of opportunistic infections; the risk increased with total immunosuppressive load (see section 4.4) The most common opportunistic infections in patients receiving CellCept (2 g or 3 g daily) with other immunosuppressants in controlled clinical trials of renal (2 g data), cardiac and hepatic transplant patients followed for at least 1 year were candida mucocutaneous, CMV viraemia/syndrome and Herpes simplex.
+All transplant patients are at increased risk of opportunistic infections; the risk increased with total immunosuppressive load (see section 4.4) The most common opportunistic infections in patients receiving CellCept (2 g or 3 g daily) with other immunosuppressants in controlled clinical trials in renal (2 g data), cardiac and hepatic transplant patients followed for at least 1 year were candida mucocutaneous, CMV viraemia/syndrome and Herpes simplex.
