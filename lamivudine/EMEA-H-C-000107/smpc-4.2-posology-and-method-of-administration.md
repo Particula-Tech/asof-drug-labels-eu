@@ -19,7 +19,7 @@ Children (weighing less than 25 kg):
 
 Dosing according to weight bands is recommended for Epivir tablets.
 
-Children weighing ≥ 20 kg to <25 kg: The recommended dose is 225 mg daily.
+Children weighing ≥20 kg to <25 kg: The recommended dose is 225 mg daily.
 This may be administered as either 75 mg (one-half of a 150 mg tablet) taken in the morning and 150 mg (one whole 150 mg tablet) taken in the evening, or 225 mg (one and a half 150 mg tablets) taken once daily.
 
 Children weighing 14 to < 20 kg: The recommended dose is 150 mg daily.
@@ -75,10 +75,10 @@ For patients who are unable to swallow tablets, the tablet(s) may be crushed and
 
 This may be administered as either 150 mg (15 ml) twice daily or 300 mg (30 ml) once daily (see section 4.4).
 
-Children from one year of age: The recommended dose is 4 mg/kg twice daily, or 8 mg/kg once daily up to a maximum total daily dose of 300 mg (30 ml).
+Children from one year of age: The recommended dose is 5 mg/kg twice daily, or 10 mg/kg once daily up to a maximum total daily dose of 300 mg (30 ml) (see sections 4.4 and 4.5).
 
-Children from three months to one year of age: The recommended dose is 4 mg/kg twice daily.
-If a twice daily regimen is not feasible, a once daily regimen (8 mg/kg/day) could be considered.
+Children from three months to one year of age: The recommended dose is 5 mg/kg twice daily.
+If a twice daily regimen is not feasible, a once daily regimen (10 mg/kg/day) could be considered.
 It should be taken into account that data for the once daily regimen are very limited in this population (see sections 4.4, 5.1 and 5.2).
 
 The dose should therefore be adjusted (see tables).

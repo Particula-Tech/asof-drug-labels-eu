@@ -1,7 +1,6 @@
 # 4.6 Fertility, Pregnancy and lactation
 
 Pregnancy
-
 As a general rule, when deciding to use antiretroviral agents for the treatment of HIV infection in pregnant women and consequently for reducing the risk of HIV vertical transmission to the newborn, the animal data as well as the clinical experience in pregnant women should be taken into account.
 Animal studies with lamivudine showed an increase in early embryonic deaths in rabbits but not in rats (see section 5.3).
 Placental transfer of lamivudine has been shown to occur in humans.

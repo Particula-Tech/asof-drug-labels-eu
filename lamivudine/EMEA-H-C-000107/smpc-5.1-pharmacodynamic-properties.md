@@ -36,7 +36,6 @@ Clinical efficacy and safety
 
 In clinical trials, lamivudine in combination with zidovudine has been shown to reduce HIV-1 viral load and increase CD4 cell count.
 Clinical end-point data indicate that lamivudine in combination with zidovudine, results in a significant reduction in the risk of disease progression and mortality.
-
 Evidence from clinical studies shows that lamivudine plus zidovudine delays the emergence of zidovudine resistant isolates in individuals with no prior antiretroviral therapy.
 
 Lamivudine has been widely used as a component of antiretroviral combination therapy with other antiretroviral agents of the same class (NRTIs) or different classes (PIs, non-nucleoside reverse transcriptase inhibitors).

@@ -9,7 +9,7 @@ The mean (CV) AUC over a dosing interval of 12 hours is 4.7 µg.h/ml (18%).
 At a therapeutic dose of 300 mg once daily, the mean (CV) steady-state Cmax, Cmin and 24h AUC are 2.0 µg/ml (26%), 0.04 µg/ml (34%) and 8.9 µg.h/ml (21%), respectively.
 
 The 150 mg tablet is bioequivalent and dose proportional to the 300 mg tablet with respect to AUC∞, Cmax, and tmax.
-Administration of Epivir tablets is bioequivalent to Epivir oral solution with respect to AUC∞ and Cmax in adults.
+Administration of Epivir tablets is bioequivalent to Epivir oral solution with respect to AUC∞and Cmax in adults.
 Absorption differences have been observed between adult and paediatric populations (see Special populations).
 
 Co-administration of lamivudine with food results in a delay of tmax and a lower C max (decreased by 47%).
@@ -53,7 +53,7 @@ Administration of co-trimoxazole with lamivudine in patients with renal impairme
 Special populations
 
 Children: The absolute bioavailability of lamivudine (approximately 58-66%) was reduced in paediatric patients below 12 years of age.
-In children, administration of tablets given concomitantly with other antiretroviral tablets delivered higher plasma lamivudine AUC∞ and Cmax than oral solution given concomitantly with other antiretroviral oral solutions.
+In children, administration of tablets given concomitantly with other antiretroviral tablets delivered higher plasma lamivudine AUC∞and Cmax than oral solution given concomitantly with other antiretroviral oral solutions.
 Children receiving lamivudine oral solution according to the recommended dosage regimen achieve plasma lamivudine exposure within the range of values observed in adults.
 Children receiving lamivudine oral tablets according to the recommended dosage regimen achieve higher plasma lamivudine exposure than children receiving oral solution because higher mg/kg doses are administered with the tablet formulation and the tablet formulation has higher bioavailability (see section 4.2).
 Paediatric pharmacokinetic studies with both oral solution and tablet formulations have demonstrated that once daily dosing provides equivalent AUC0-24 to twice daily dosing of the same total daily dose.

@@ -16,13 +16,13 @@ Very rare: Lactic acidosis
 Nervous system disorders
 Common: Headache, insomnia
 Very rare: Peripheral neuropathy (or paraesthesia)
-
 Respiratory, Thoracic and mediastinal disorders
 Common: Cough, nasal symptoms
 
 Gastrointestinal disorders
 Common: Nausea, vomiting, abdominal pain or cramps, diarrhoea
 Rare: Pancreatitis, elevations in serum amylase
+
 Hepatobiliary disorders
 Uncommon: Transient elevations in liver enzymes (AST, ALT)
 Rare: Hepatitis
@@ -54,6 +54,4 @@ No additional safety issues have been identified in paediatric subjects receivin
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
-
-listed in Appendix V.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
