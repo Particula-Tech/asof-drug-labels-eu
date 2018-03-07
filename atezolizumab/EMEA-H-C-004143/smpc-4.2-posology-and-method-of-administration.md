@@ -3,6 +3,7 @@
 Tecentriq must be initiated and supervised by physicians experienced in the treatment of cancer.
 
 Posology
+
 The recommended dose of Tecentriq is 1,200 mg administered intravenously every three weeks.
 
 Duration of treatment
