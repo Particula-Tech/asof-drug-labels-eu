@@ -33,12 +33,12 @@ Schizophrenia Studies: Positive and Negative Syndrome Scale for Schizophrenia (P
 | Study Statistic | Placebo | Lurasidone dose (b) (c) |  |  |  | Active Control (a) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  | 37 mg | 74 mg | 111 mg | 148 mg |  |
-| Study D1050229 Baseline Mean (SD) LS Mean Change (SE) Treatment Difference vs. placebo Estimate (SE) p-value | N=124 96.8 (11.1) -17.0 (1.8) | N=121 96.5 (11.6) -19.2 (1.7) | N=118 96.0 (10.8) -23.4 (1.8) | N=123 96.0 (9.7) -20.5 (1.8) | -- -- -- | -- -- -- |
-|  | -- -- | -2.1 (2.5) 0.591 | -6.4 (2.5) 0.034 | -3.5 (2.5) 0.391 | -- -- | -- -- |
-| Study D1050231 Baseline Mean (SD) LS Mean Change (SE) Treatment Difference vs. placebo Estimate (SE) p-value | N=114 95.8 (10.8) -16.0 (2.1) | N=118 96.6 (10.7) -25.7 (2.0) | -- -- -- | N=118 97.9 (11.3) -23.6 (2.1) | -- -- -- | N=121 96.3 (12.2) -28.7 (1.9) |
-|  | -- -- | -9.7 (2.9) 0.002 | -- -- | -7.5 (3.0) 0.022 | -- -- | -12.6 (2.8) <0.001 |
-| Study D1050233 Baseline Mean (SD) LS Mean Change (SE) Treatment Difference vs. placebo Estimate (SE) p-value | N=120 96.6 (10.2) -10.3 (1.8) | -- -- -- | N=125 97.7 (9.7) -22.2 (1.8) | -- -- -- | N=121 97.9 (11.8) -26.5 (1.8) | N=116 97.7 (10.2) -27.8 (1.8) |
-|  | -- -- | -- -- | -11.9 (2.6) <0.001 | -- -- | -16.2 (2.5) <0.001 | -17.5 (2.6) <0.001 |
+| Study D1050229 Baseline Mean (SD) LS Mean Change (SE) Treatment Difference vs. | N=124 96.8 (11.1) -17.0 (1.8) | N=121 96.5 (11.6) -19.2 (1.7) | N=118 96.0 (10.8) -23.4 (1.8) | N=123 96.0 (9.7) -20.5 (1.8) | -- -- -- | -- -- -- |
+| placebo Estimate (SE) p-value | -- -- | -2.1 (2.5) 0.591 | -6.4 (2.5) 0.034 | -3.5 (2.5) 0.391 | -- -- | -- -- |
+| Study D1050231 Baseline Mean (SD) LS Mean Change (SE) Treatment Difference vs. | N=114 95.8 (10.8) -16.0 (2.1) | N=118 96.6 (10.7) -25.7 (2.0) | -- -- -- | N=118 97.9 (11.3) -23.6 (2.1) | -- -- -- | N=121 96.3 (12.2) -28.7 (1.9) |
+| placebo Estimate (SE) p-value | -- -- | -9.7 (2.9) 0.002 | -- -- | -7.5 (3.0) 0.022 | -- -- | -12.6 (2.8) <0.001 |
+| Study D1050233 Baseline Mean (SD) LS Mean Change (SE) Treatment Difference vs. | N=120 96.6 (10.2) -10.3 (1.8) | -- -- -- | N=125 97.7 (9.7) -22.2 (1.8) | -- -- -- | N=121 97.9 (11.8) -26.5 (1.8) | N=116 97.7 (10.2) -27.8 (1.8) |
+| placebo Estimate (SE) p-value | -- -- | -- -- | -11.9 (2.6) <0.001 | -- -- | -16.2 (2.5) <0.001 | -17.5 (2.6) <0.001 |
 
 (a) Olanzapine 15 mg in Study D1050231, quetiapine extended-release (XR) 600 mg in Study D1050233.
 N is number of subjects per model estimate.
@@ -70,6 +70,9 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 Lurasidone demonstrated superior efficacy compared with placebo across Phase 3 studies (see
 Table 2).
+
+Schizophrenia Studies: Positive and Negative Syndrome Scale for Schizophrenia (PANSS) Total
+Score - Change From Baseline to Week 6- MMRM for Studies D1050229, D1050231, and D1050233: Intent-to-Treat Analysis Set
 
 [Latuda 74 mg film-coated tablets]
 
