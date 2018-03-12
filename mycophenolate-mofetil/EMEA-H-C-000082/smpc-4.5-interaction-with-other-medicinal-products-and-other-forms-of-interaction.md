@@ -9,9 +9,9 @@ Antacids and proton pump inhibitors (PPIs)
 Decreased MPA exposure has been observed when antacids, such as magnesium and aluminium hydroxides, and PPIs, including lansoprazole and pantoprazole, were administered with CellCept.
 When comparing rates of transplant rejection or rates of graft loss between CellCept patients taking PPIs vs. CellCept patients not taking PPIs, no significant differences were seen.
 These data support extrapolation of this finding to all antacids because the reduction in exposure when CellCept was co-administered with magnesium and aluminium hydroxides is considerably less than when CellCept was co-administered with PPIs.
-
 Medicinal products that interfere with enterohepatic circulation (e.g. cholestyramine, ciclosporin A, antibiotics)
 Caution should be used with medicinal products that interfere with enterohepatic circulation because of their potential to reduce the efficacy of CellCept.
+
 Cholestyramine
 Following single dose administration of 1.5 g of mycophenolate mofetil to normal healthy subjects pre-treated with 4 g TID of cholestyramine for 4 days, there was a 40% reduction in the AUC of MPA (see section 4.4 and section 5.2).
 Caution should be used during concomitant administration because of the potential to reduce efficacy of CellCept.

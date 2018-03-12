@@ -31,6 +31,7 @@ MPA’s disposition depends on several transporters.
 Organic anion-transporting polypeptides (OATPs) and multidrug resistance-associated protein 2 (MRP2) are involved in MPA’s disposition; OATP isoforms, MRP2 and breast cancer resistance protein (BCRP) are transporters associated with the glucuronides’ biliary excretion.
 Multidrug resistance protein 1 (MDR1) is also able to transport MPA, but its contribution seems to be confined to the absorption process.
 In the kidney MPA and its metabolites potently interact with renal organic anion transporters.
+
 In the early post-transplant period (< 40 days post-transplant), renal, cardiac and hepatic transplant patients had mean MPA AUCs approximately 30% lower and Cmax approximately 40% lower compared to the late post-transplant period (3 – 6 months post-transplant).
 
 Special populations

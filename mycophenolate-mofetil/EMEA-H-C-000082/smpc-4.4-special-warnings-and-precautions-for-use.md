@@ -50,17 +50,17 @@ Therefore, it should be avoided in patients with rare hereditary deficiency of h
 
 Interactions
 
-Caution should be exercised when switching combination therapy from regimens containing immunosuppressants, which interfere with MPA enterohepatic recirculation, e.g. ciclosporin, to others devoid of this effect, e.g. sirolimus, belatacept, or vice versa, as this might result in changes of MPA exposure.
+Caution should be exercised when switching combination therapy from regimens containing immunosuppressants, which interfere with MPA enterohepatic recirculation, e.g. ciclosporin, to others devoid of this effect, e.g.tacrolimus, sirolimus, belatacept, or vice versa, as this might result in changes of MPA exposure.
 Drugs which interfere with MPA’s enterohepatic cycle (e.g. cholestyramine, antibiotics) should be used with caution due to their potential to reduce the plasma levels and efficacy of CellCept (see also section 4.5).
+Therapeutic drug monitoring of MPA may be appropriate when switching combination therapy (e.g. from ciclosporin to tacrolimus or vice versa) or to ensure adequate immunosuppression in patients with high immunological risk (e.g. risk of rejection, treatment with antibiotics).
 
 It is recommended that CellCept should not be administered concomitantly with azathioprine because such concomitant administration has not been studied.
 
-The risk/benefit ratio of mycophenolate mofetil in combination with tacrolimus or sirolimus has not been established (see also section 4.5).
+The risk/benefit ratio of mycophenolate mofetil in combination with sirolimus has not been established (see also section 4.5).
 
 Special populations
 
 Elderly patients may be at an increased risk of adverse events such as certain infections (including cytomegalovirus tissue invasive disease) and possibly gastrointestinal haemorrhage and pulmonary oedema, compared with younger individuals (see section 4.8).
-
 Teratogenic effects
 
 Mycophenolate is a powerful human teratogen.
@@ -92,6 +92,7 @@ If neutropenia develops (absolute neutrophil count < 1.3 x 103/µl) it may be ap
 
 Patients should be advised that during treatment with CellCept, vaccinations may be less effective, and the use of live attenuated vaccines should be avoided (see section 4.5).
 
+Caution should be exercised when switching combination therapy from regimens containing immunosuppressants, which interfere with MPA enterohepatic recirculation, e.g. ciclosporin, to others devoid of this effect, e.g. tacrolimus, sirolimus, belatacept, or vice versa, as this might result in changes of MPA exposure.
 Drugs which interfere with MPA’s enterohepatic cycle (e.g. cholesterolamine, antibiotics) should be used with caution due to their potential to reduce the plasma levels and efficacy of CellCept (see also section 4.5).
 Some degree of enterohepatic recirculation is anticipated following intravenous administration of CellCept.
 

@@ -14,6 +14,7 @@ Opportunistic infections
 All transplant patients are at increased risk of opportunistic infections; the risk increased with total immunosuppressive load (see section 4.4).
 The most common opportunistic infections in patients receiving CellCept (2 g or 3 g daily) with other immunosuppressants in controlled clinical trials in renal (2 g data), cardiac and hepatic transplant patients followed for at least 1 year were candida mucocutaneous, CMV viraemia/syndrome and Herpes simplex.
 The proportion of patients with CMV viraemia/syndrome was 13.5%.
+
 Paediatric population
 The type and frequency of adverse reactions in a clinical study, which recruited 92 paediatric patients aged 2 to 18 years who were given 600 mg/m2 mycophenolate mofetil orally twice daily, were generally similar to those observed in adult patients given 1 g CellCept twice daily.
 However, the following treatment-related adverse events were more frequent in the paediatric population, particularly in children under 6 years of age, when compared to adults: diarrhoea, sepsis, leucopenia, anaemia and infection.
@@ -80,6 +81,7 @@ Serious life-threatening infections including meningitis, endocarditis, tubercul
 Cases of BK virus associated nephropathy, as well as cases of JC virus associated progressive multifocal leucoencephalopathy (PML), have been reported in patients treated with immunosuppressants, including CellCept.
 Agranulocytosis (≥1/1000 to <1/100) and neutropenia have been reported; therefore, regular monitoring of patients taking CellCept is advised (see section 4.4).
 There have been reports of aplastic anaemia and bone marrow depression in patients treated with CellCept, some of which have been fatal.
+
 Blood and lymphatic system disorder
 Cases of pure red cell aplasia (PRCA) have been reported in patients treated with CellCept (see section 4.4).
 Isolated cases of abnormal neutrophil morphology, including the acquired Pelger-Huet anomaly, have been observed in patients treated with CellCept.

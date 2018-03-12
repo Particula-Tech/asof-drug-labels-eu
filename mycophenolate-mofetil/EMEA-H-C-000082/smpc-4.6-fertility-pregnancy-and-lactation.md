@@ -28,9 +28,6 @@ Congenital malformations, including reports of multiple malformations, have been
 The following malformations were most frequently reported:
 
 - Abnormalities of the ear (e.g. abnormally formed or absent externalear), external auditory canal atresia (middle ear);
-
-•
-
 - Facial malformations such as cleft lip, cleft palate, micrognathia and hypertelorism of the orbits;
 - Abnormalities of the eye (e.g. coloboma);
 - Congenital heart disease such as atrial and ventricular septal defects;
@@ -47,6 +44,7 @@ In addition there have been isolated reports of the following malformations:
 - olfactory nerve agenesis.
 
 Studies in animals have shown reproductive toxicity (see section 5.3).
+
 Breast-feeding
 
 Mycophenolate mofetil has been shown to be excreted in the milk of lactating rats.

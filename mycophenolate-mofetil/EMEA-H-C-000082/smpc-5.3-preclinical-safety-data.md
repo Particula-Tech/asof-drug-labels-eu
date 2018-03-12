@@ -2,6 +2,7 @@
 
 In experimental models, mycophenolate mofetil was not tumourigenic.
 The highest dose tested in the animal carcinogenicity studies resulted in approximately 2 – 3 times the systemic exposure (AUC or Cmax) observed in renal transplant patients at the recommended clinical dose of 2 g/day and 1.3 – 2 times the systemic exposure (AUC or Cmax) observed in cardiac transplant patients at the recommended clinical dose of 3 g/day.
+
 Two genotoxicity assays (in vitro mouse lymphoma assay and in vivo mouse bone marrow micronucleus test) showed a potential of mycophenolate mofetil to cause chromosomal aberrations.
 These effects can be related to the pharmacodynamic mode of action, i.e. inhibition of nucleotide synthesis in sensitive cells.
 Other in vitro tests for detection of gene mutation did not demonstrate genotoxic activity.
