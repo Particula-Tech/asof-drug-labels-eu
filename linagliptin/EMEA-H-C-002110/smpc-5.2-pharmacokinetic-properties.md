@@ -63,7 +63,10 @@ No dosage adjustment is required based on age up to 80 years, as age did not hav
 Older subjects (65 to 80, oldest patient was 78 years) had comparable plasma concentrations of linagliptin compared to younger subjects.
 
 Paediatric population
-Studies characterising the pharmacokinetics of linagliptin in paediatric patients have not been yet performed.
+A paediatric Phase 2 study examined the pharmacokinetics and pharmacodynamics of 1 mg and 5 mg linagliptin in children and adolescents ≥10 to <18 years of age with type 2 diabetes mellitus.
+The observed pharmacokinetic and pharmacodynamic responses were consistent with those found in adult subjects.
+Linagliptin 5 mg showed superiority over 1 mg with regard to trough DPP-4 inhibition (72% vs 32%, p=0.0050) and a numerically larger reduction with regard to adjusted mean change from baseline in HbA1c (-0.63% vs -0.48%, n.s.).
+Due to the limited nature of the data set the results should be interpreted cautiously.
 
 Race
 No dosage adjustment is necessary based on race.

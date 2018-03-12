@@ -19,3 +19,7 @@ In post-marketing experience of linagliptin there have been spontaneously report
 Patients should be informed of the characteristic symptoms of acute pancreatitis.
 If pancreatitis is suspected, Trajenta should be discontinued; if acute pancreatitis is confirmed, Trajenta should not be restarted.
 Caution should be exercised in patients with a history of pancreatitis.
+
+Bullous pemphigoid
+There have been post-marketing reports of bullous pemphigoid in patients taking linagliptin.
+If bullous pemphigoid is suspected, Trajenta should be discontinued.
