@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-AbbVie Ltd
-Maidenhead
-SL6 4UB
-United Kingdom
+AbbVie Deutschland GmbH & Co. KG
+Knollstrasse
+67061 Ludwigshafen
+Germany
