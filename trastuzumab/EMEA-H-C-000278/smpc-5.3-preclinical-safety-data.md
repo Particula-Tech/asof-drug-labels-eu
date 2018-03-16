@@ -19,7 +19,3 @@ Herceptin subcutaneous formulation was locally and systemically well tolerated.
 Hyaluronidase is found in most tissues of the human body.
 Non-clinical data for recombinant human hyaluronidase reveal no special hazard for humans based on conventional studies of repeated dose toxicity including safety pharmacology endpoints.
 Reproductive toxicology studies with rHuPH20 revealed embryofetal toxicity in mice at high systemic exposure, but did not show teratogenic potential.
-
-[Herceptin 600 mg solution for injection in administration system]
-
-(all sentences already above)

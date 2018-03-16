@@ -5,7 +5,3 @@ Herceptin 150 mg powder for concentrate for solution for infusion
 [Herceptin 600 mg solution for injection in vial]
 
 Herceptin 600 mg solution for injection in vial
-
-[Herceptin 600 mg solution for injection in administration system]
-
-Herceptin 600 mg solution for injection in administration system

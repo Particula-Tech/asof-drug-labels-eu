@@ -143,9 +143,3 @@ Patients experiencing dyspnoea at rest due to complications of advanced malignan
 
 Caution is recommended with Herceptin subcutaneous formulation as severe pulmonary events have been reported with the use of the intravenous formulation in the post-marketing setting (see section 4.8).
 These events have occasionally been fatal and may occur as part of an infusion-related reaction or with delayed onset.
-
-[Herceptin 600 mg solution for injection in administration system]
-
-Herceptin in administration system is affixed to the body with an adhesive pad, therefore for patients with known hypersensitivity to adhesive (Type Acrylic 562), the Herceptin 600 mg Solution for injection in vial should be considered as an alternative.
-
-If LVEF has not improved, or has declined further, or if symptomatic CHF has developed, discontinuation of Herceptin should be strongly considered, unless the benefits for the individual patient are deemed to outweigh the risks.

@@ -12,7 +12,6 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 Presented in Table 1 are adverse reactions that have been reported in association with the use of intravenous Herceptin alone or in combination with chemotherapy in pivotal clinical trials and in the post-marketing setting.
 
 All the terms included are based on the highest percentage seen in pivotal clinical trials.
-
 Table 1 Undesirable Effects Reported with Intravenous Herceptin Monotherapy or in Combination with Chemotherapy in Pivotal Clinical Trials (N = 8386) and in Post-Marketing
 
 | System organ class | Adverse reaction | Frequency |
@@ -214,6 +213,7 @@ Haematotoxicity
 Febrile neutropenia, leukopenia, anaemia, thrombocytopenia and neutropenia occurred very commonly.
 The frequency of occurrence of hypoprothrombinemia is not known.
 The risk of neutropenia may be slightly increased when trastuzumab is administered with docetaxel following anthracycline therapy.
+
 Pulmonary events
 Severe pulmonary adverse reactions occur in association with the use of Herceptin and have been associated with a fatal outcome.
 These include, but are not limited to, pulmonary infiltrates, acute respiratory distress syndrome, pneumonia, pneumonitis, pleural effusion, respiratory distress, acute pulmonary oedema and respiratory insufficiency (see section 4.4).
@@ -309,17 +309,3 @@ Details of risk minimisation measures that are consistent with the EU Risk Manag
 
 Study MO22982 investigated switching between the Herceptin intravenous and Herceptin subcutaneous formulation with a primary objective to evaluate patient preference for either the intravenous or the subcutaneous route of trastuzumab administration.
 In this trial, 2 cohorts (one using subcutaneous formulation in vial and one using subcutaneous formulation in administration system) were investigated using a 2-arm, cross-over design with 488 patients being randomized to one of two different three-weekly Herceptin treatment sequences (IV [Cycles 1-4]→ SC [Cycles 5-8], or SC [Cycles 1-4]→ IV [Cycles 5-8]).
-
-[Herceptin 600 mg solution for injection in administration system]
-
-The safety profile of Herceptin subcutaneous formulation (evaluated in 298 and 297 patients treated with the intravenous and subcutaneous formulations respectively) from the pivotal trial BO22227 in EBC was overall similar to the known safety profile of the intravenous formulation.
-
-Febrile neutropenia,leukopenia, anaemia, thrombocytopenia and neutropenia occurred very commonly.
-
-In the pivotal trial BO22227, the rate of all grade ARRs was 37.2 % with the Herceptin intravenous formulation and 47.8 % with the Herceptin subcutaneous formulation; severe grade 3 reactions were reported in 2.0 % and 1.7 % of the patients, respectively during the treatment phase; no severe grade 4 or 5 reactions were observed.
-
-20.0% of patients treated with Herceptin subcutaneous formulation developed antibodies against the excipient hyaluronidase (rHuPH20).
-
-The clinical relevance of these antibodies is not known; nevertheless the pharmacokinetics, efficacy (determined by pathological Complete Response [pCR]) and safety determined by occurrence of administration related reactions (ARRs) of Herceptin intravenous and Herceptin subcutaneous did not appear to be adversely affected by these antibodies.
-
-Healthcare professionals are asked to report any suspected adverse reactions via Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

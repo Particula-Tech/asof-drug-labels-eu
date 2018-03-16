@@ -56,10 +56,10 @@ Full instructions on assay performance and results interpretation should be take
 
 In the ToGA (BO18255) trial, patients whose tumours were either IHC3+ or FISH positive were defined as HER2 positive and thus included in the trial.
 Based on the clinical trial results, the beneficial effects were limited to patients with the highest level of HER2 protein overexpression, defined by a 3+ score by IHC, or a 2+ score by IHC and a positive FISH result.
-
 In a method comparison study (study D008548) a high degree of concordance (>95 %) was observed for SISH and FISH techniques for the detection of HER2 gene amplification in gastric cancer patients.
 
 HER2 over expression should be detected using an immunohistochemistry (IHC)-based assessment of fixed tumour blocks; HER2 gene amplification should be detected using in situ hybridisation using either SISH or FISH on fixed tumour blocks.
+
 The recommended scoring system to evaluate the IHC staining patterns is as stated in Table 3:
 
 Table 3 Recommended Scoring System to Evaluate the IHC Staining Patterns in Gastric Cancer
@@ -86,13 +86,13 @@ Patients were treated with Herceptin until progression of disease.
 
 The efficacy of Herceptin in combination with paclitaxel in patients who did not receive prior adjuvant anthracyclines has not been studied.
 However, Herceptin plus docetaxel was efficacious in patients whether or not they had received prior adjuvant anthracyclines.
-
 The test method for HER2 overexpression used to determine eligibility of patients in the pivotal Herceptin monotherapy and Herceptin plus paclitaxel clinical trials employed immunohistochemical staining for HER2 of fixed material from breast tumours using the murine monoclonal antibodies CB11 and 4D5.
 These tissues were fixed in formalin or Bouin’s fixative.
 This investigative clinical trial assay performed in a central laboratory utilised a 0 to 3+ scale.
 Patients classified as staining 2+ or 3+ were included, while those staining 0 or 1+ were excluded.
 Greater than 70 % of patients enrolled exhibited 3+ overexpression.
 The data suggest that beneficial effects were greater among those patients with higher levels of overexpression of HER2 (3+).
+
 The main test method used to determine HER2 positivity in the pivotal trial of docetaxel, with or without Herceptin, was immunohistochemistry.
 A minority of patients was tested using fluorescence in-situ hybridisation (FISH).
 In this trial, 87 % of patients entered had disease that was IHC3+, and 95 % of patients entered had disease that was IHC3+ and/or FISH-positive.
@@ -104,8 +104,7 @@ Table 4 Efficacy Results from the Monotherapy and Combination Therapy Studies
 
 | Parameter | Monotherapy | Combination Therapy |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Herceptin1 | Herceptin plus | Paclitaxel2 | Herceptin plus | Docetaxel3 |
-|  | N=172 | paclitaxel2 N=68 | N=77 | docetaxel3 N=92 | N=94 |
+|  | Herceptin1 N=172 | Herceptin plus paclitaxel2 N=68 | Paclitaxel2 N=77 | Herceptin plus docetaxel3 N=92 | Docetaxel3 N=94 |
 | Response rate (95 %CI) | 18 % (13 - 25) | 49 % (36 - 61) | 17 % (9 - 27) | 61 % (50-71) | 34 % (25-45) |
 | Median duration of response (months) (95 %CI) | 9.1 (5.6-10.3) | 8.3 (7.3-8.8) | 4.6 (3.7-7.4) | 11.7 (9.3 – 15.0) | 5.7 (4.6-7.6) |
 | Median TTP (months) (95 %CI) | 3.2 (2.6-3.5) | 7.1 (6.2-12.0) | 3.0 (2.0-4.4) | 11.7 (9.2-13.5) | 6.1 (5.4-7.2) |
@@ -215,9 +214,7 @@ Table 7 Summary of Efficacy results from the joint analysis of the NSABP B-31 an
 
 | Parameter | AC→P (n=1679) | AC→PH (n=1672) | Hazard Ratio vs AC→P (95% CI) p-value |
 | --- | --- | --- | --- |
-| Disease-free survival No. patients with event (%) | 261 (15.5) | 133 (8.0) | 0.48 (0.39, 0.59) p<0.0001 |
-| Distant Recurrence No. patients with event | 193 (11.5) | 96 (5.7) | 0.47 (0.37, 0.60) p<0.0001 |
-| Death (OS event): No. patients with event | 92 (5.5) | 62 (3.7) | 0.67 (0.48, 0.92) p=0.014** |
+| Disease-free survival No. patients with event (%) Distant Recurrence No. patients with event Death (OS event): No. patients with event | 261 (15.5) 193 (11.5) 92 (5.5) | 133 (8.0) 96 (5.7) 62 (3.7) | 0.48 (0.39, 0.59) p<0.0001 0.47 (0.37, 0.60) p<0.0001 0.67 (0.48, 0.92) p=0.014** |
 
 A: doxorubicin; C: cyclophosphamide; P: paclitaxel; H: trastuzumab
 * At median duration of follow up of 1.8 years for the patients in the AC→P arm and 2.0 years for patients in the AC→PH arm
@@ -393,7 +390,8 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 [Herceptin 600 mg solution for injection in vial]
 
-Herceptin subcutaneous formulation contains recombinant human hyaluronidase (rHuPH20), an enzyme used to increase the dispersion and absorption of co-administered drugs when administered subcutaneously.
+Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies, ATC code: L01XC03 Herceptin subcutaneous formulation contains recombinant human hyaluronidase (rHuPH20), an enzyme used to increase the dispersion and absorption of co-administered drugs when administered subcutaneously.
+
 Overexpression of HER2 is observed in 20% - 30% of primary breast cancers.
 
 Table 2: Recommended scoring system to evaluate the IHC staining patterns
@@ -426,9 +424,7 @@ Table 6: Summary of Efficacy results from the joint analysis studies NSABP B-31 
 
 | Parameter | AC→P (n=1679) | AC→PH (n=1672) | Hazard Ratio vs AC→P (95 % CI) p-value |
 | --- | --- | --- | --- |
-| Disease-free survival No. patients with event (%) | 261 (15.5) | 133 (8.0) | 0.48 (0.39, 0.59) p<0.0001 |
-| Distant Recurrence No. patients with event | 193 (11.5) | 96 (5.7) | 0.47 (0.37, 0.60) p<0.0001 |
-| Death (OS event): No. patients with event | 92 (5.5) | 62 (3.7) | 0.67 (0.48, 0.92) p=0.014** |
+| Disease-free survival No. patients with event (%) Distant Recurrence No. patients with event Death (OS event): No. patients with event | 261 (15.5) 193 (11.5) 92 (5.5) | 133 (8.0) 96 (5.7) 62 (3.7) | 0.48 (0.39, 0.59) p<0.0001 0.47 (0.37, 0.60) p<0.0001 0.67 (0.48, 0.92) p=0.014** |
 
 The pre-planned final analysis of OS from the joint analysis of studies NSABP B-31 and NCCTG N9831 was performed when 707 deaths had occurred (median follow-up 8.3 years in the AC→PH group).
 
@@ -493,16 +489,3 @@ Results were consistent with the known safety profile for Herceptin intravenous 
 In addition, treatment of lower body weight patients with Herceptin subcutaneous fixed dose in adjuvant EBC was not associated with increased safety risk, adverse events and serious adverse events, compared to the higher body weight patients.
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Herceptin in all subsets of the paediatric population for breast cancer (see section 4.2 for information on paediatric use).
-
-[Herceptin 600 mg solution for injection in administration system]
-
-In addition a post-hoc exploratory analysis was performed on the data sets from the joint analysis (JA) NSABP B-31/NCCTG N9831* and BCIRG006 clinical trials combining DFS events and symptomatic cardiac events and summarised in Table 10:
-
-Table 10: Post-hoc exploratory analysis results from the joint analysis NSABP B-31/NCCTG N9831* and BCIRG006 clinical trials combining DFS events and symptomatic cardiac events
-
-A total of 595 patients with HER2-positive, operable or locally advanced breast cancer (LABC) including inflammatory breast cancer received eight cycles of either Herceptin intravenous formulation or Herceptin subcutaneous formulation concurrently with chemotherapy (4 cycles of docetaxel, 75 mg/m2 intravenous infusion, followed by 4 cycles of FEC ([5-Fluorouracil, 500 mg/m2; epirubicin, 75 mg/m2; cyclophosphamide, 500 mg/m2 each intravenous bolus or infusion]), followed by surgery, and continued therapy with Herceptin intravenous formulation or Herceptin subcutaneous formulation as originally randomized for 10 additional cycles for a total of one year of treatment.
-
-* Confidence interval for one sample binomial using Pearson-Clopper method
-** Continuity correction of Anderson and Hauck (1986) has been used in this calculation
-
-For non-inferiority of the PK co-primary endpoint, steady-state trastuzumab Ctrough value at the end of treatment Cycle 7, refer to section 5.2 Pharmacokinetic Properties.

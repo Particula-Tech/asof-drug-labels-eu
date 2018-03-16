@@ -32,7 +32,3 @@ As animal reproduction studies are not always predictive of human response, Herc
 In the post-marketing setting, cases of fetal renal growth and/or function impairment in association with oligohydramnios, some associated with fatal pulmonary hypoplasia of the fetus, have been reported in pregnant women receiving Herceptin.
 Women who become pregnant should be advised of the possibility of harm to the fetus.
 If a pregnant woman is treated with Herceptin, or if a patient becomes pregnant while receiving Herceptin or within 7 months following last dose of Herceptin, close monitoring by a multidisciplinary team is desirable.
-
-[Herceptin 600 mg solution for injection in administration system]
-
-(all sentences already above)

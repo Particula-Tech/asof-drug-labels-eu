@@ -90,15 +90,3 @@ Table 13 Population Predicted PK Exposure Values (median with 5th - 95th Percent
 |  | Cycle 7 (steady state) | 297 | 75.0 (35.1 - 123) | 149 (86.1 - 214) | 2337 (1258 - 3478) |
 
 Trastuzumab washout period was assessed following subcutaneous administration using the population PK model.
-
-[Herceptin 600 mg solution for injection in administration system]
-
-The pharmacokinetic results for the co primary endpoint, Ctrough at pre dose Cycle 8 (Ctrough), showed non-inferiority of the Herceptin subcutaneous compared to the Herceptin intravenous dose adjusted by body weight.
-
-The mean Cmax was expectedly lower in the Herceptin subcutaneous formulation (149 μg/mL) than in the intravenous arm (end of infusion value:
-221 μg/mL).
-
-SC formulation in administration system
-In the Phase I study (BO25532), the Herceptin 600 mg solution for injection in administration system was shown to be comparable (using a standard bioequivalence confidence interval of 0.8-1.25) with Herceptin 600 mg solution for injection in vial administered by syringe.
-114 healthy male volunteers received a single 600 mg fixed dose (n=58 administration system, n= 56, syringe).
-The geometric mean ratio and 90% CI for the primary PK endpoints were 1.01 [90%CI: 0.959-1.07] and 1.02 [90%CI: 0.956-1.10] for AUC0-21 days and Cmax, respectively.

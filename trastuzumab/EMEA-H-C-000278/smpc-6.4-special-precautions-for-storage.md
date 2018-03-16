@@ -9,11 +9,3 @@ For storage conditions of the opened medicinal product, see section 6.3 and 6.6.
 Do not freeze.
 Keep the vial in the outer carton in order to protect from light.
 Once removed from the refrigerator Herceptin subcutaneous formulation must be administered within 6 hours and should not be kept above 30°C.
-
-[Herceptin 600 mg solution for injection in administration system]
-
-Store the administration system in a refrigerator (2°C - 8°C).
-
-Keep the administration system in the original outer carton in order to protect from light.
-
-Once removed from the refrigerator, the administration system must be administered within 6 hours and should not be kept above 30 °C.

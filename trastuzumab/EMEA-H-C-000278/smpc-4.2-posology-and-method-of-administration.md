@@ -113,23 +113,3 @@ During the treatment course with Herceptin subcutaneous formulation other medici
 Patients should be observed for six hours after the first injection and for two hours after subsequent injections for signs or symptoms of administration-related reactions (see sections 4.4 and 4.8).
 
 For instructions on use and handling of Herceptin subcutaneous formulation refer to section 6.6.
-
-[Herceptin 600 mg solution for injection in administration system]
-
-The recommended dose for Herceptin subcutaneous formulation in administration system is 600 mg irrespective of the patient’s body weight.
-This dose should be administered subcutaneously every three weeks.
-The duration of the administration is approximately 5 minutes
-
-If no dose is administered due to mishandling or failure of the administration system, then dosing with a new administration system is advised.
-If there are repeated incidences of mishandling or failure of the administration system, the alternative dosage form, Herceptin 600 mg solution for injection in vial should be administered subcutaneously for the remainder of the treatment duration.
-
-If a partial dose is administered due to mishandling or failure of the administration system, the next full dose should be administered at the next scheduled visit in 3 weeks.
-
-The Herceptin 600 mg solution for injection in administration system is ready to use and is for single use only.
-The 600 mg dose should be administered as a subcutaneous injection every three weeks.
-New injections should be given at least 2.5 cm from the old site on healthy skin and never into areas where the skin is red, bruised, tender, or hard.
-The injection site may need to be shaved to facilitate the fixing and removal of the adhesive pad of the administration system.
-
-During the treatment course with Herceptin subcutaneous formulation in administration system, other medicinal products for subcutaneous administration should preferably be injected at different sites.
-
-For instructions on use and handling of Herceptin subcutaneous formulation, refer to section 6.6 of the SmPC, and section 7 of the package leaflet.

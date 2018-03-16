@@ -6,7 +6,3 @@
 [Herceptin 600 mg solution for injection in vial]
 
 - Hypersensitivity to trastuzumab, murine proteins, hyaluronidase or to any of the other excipients listed in section 6.1.
-
-[Herceptin 600 mg solution for injection in administration system]
-
-(all sentences already above)

@@ -37,7 +37,3 @@ Accurate and validated assay methods should be used (see sections 4.4 and 5.1).
 Herceptin is indicated for the treatment of adult patients with HER2 positive metastatic breast cancer (MBC):
 
 Herceptin is indicated for the treatment of adult patients with HER2 positive early breast cancer (EBC).
-
-[Herceptin 600 mg solution for injection in administration system]
-
-(all sentences already above)
