@@ -339,9 +339,8 @@ Results are presented in Table 12.
 
 Table 12 Efficacy results for trial E4599
 
-|  | Arm 1 | Arm 2 |
+|  | Arm 1 Carboplatin/ Paclitaxel | Arm 2 Carboplatin/ Paclitaxel + Avastin 15 mg/kg q 3 weeks |
 | --- | --- | --- |
-|  | Carboplatin/ Paclitaxel | Carboplatin/ Paclitaxel + Avastin 15 mg/kg q 3 weeks |
 | Number of patients | 444 | 434 |
 | Overall survival |  |  |
 | Median (months) | 10.3 | 12.3 |
@@ -466,7 +465,7 @@ Front-line treatment of ovarian cancer
 The safety and efficacy of Avastin in the front-line treatment of patients with epithelial ovarian, fallopian tube or primary peritoneal cancer were studied in two phase III trials (GOG-0218 and BO17707) that evaluated the effect of the addition of Avastin to carboplatin and paclitaxel compared to the chemotherapy regimen alone.
 
 GOG-0218
-The GOG-0218 study was a phase III multicentre, randomised, double-blind, placebo-controlled, three arm study evaluating the effect of adding Avastin to an approved chemotherapy regimen (carboplatin and paclitaxel) in patients with advanced (FIGO stages IIIB, IIIC and IV) epithelial ovarian, fallopian tube or primary peritoneal cancer.
+The GOG-0218 study was a phase III multicentre, randomised, double-blind, placebo-controlled, three arm study evaluating the effect of adding Avastin to an approved chemotherapy regimen (carboplatin and paclitaxel) in patients with advanced ( Stages IIIB, IIIC and IV according to FIGO staging version dated 1988) epithelial ovarian, fallopian tube or primary peritoneal cancer.
 
 Patients who had received prior therapy with bevacizumab or prior systemic anticancer therapy for ovarian cancer (e.g. chemotherapy, monoclonal antibody therapy, tyrosine kinase inhibitor therapy, or hormonal therapy) or previous radiotherapy to the abdomen or pelvis were excluded from the study.
 
@@ -481,7 +480,6 @@ Overall approximately 50% of patients had a GOG PS of 0 at baseline, 43% a GOG P
 Most patients had EOC (82% in CPP and CPB15, 85% in CPB15+) followed by PPC (16% in CPP, 15% in CPB15, 13% in CPB15+) and FTC (1% in CPP, 3% in CPB15, 2% in CPB15+).
 The majority of patients had serous adenocarcinoma histologic type (85% in CPP and CPB15, 86% in CPB15+).
 Overall approximately 34% of patients were FIGO Stage III optimally debulked with gross residual disease, 40% Stage III sub-optimally debulked, and 26% were Stage IV patients.
-
 The primary endpoint was PFS based on investigator’s assessment of disease progression based on radiological scans or CA 125 levels, or symptomatic deterioration per protocol.
 In addition, a prespecified analysis of the data censoring for CA-125 progression events was conducted, as well as an independent review of PFS as determined by radiological scans.
 
@@ -571,6 +569,7 @@ Hazard Ratio (95% CI)4 0.90 0.64
 
 BO17707 (ICON7)
 BO17707 was a Phase III, two arm, multicentre, randomised, controlled, open-label study comparing the effect of adding Avastin to carboplatin plus paclitaxel in patients with FIGO stage I or IIA (Grade 3 or clear cell histology only; n = 142), or FIGO stage IIB - IV (all Grades and all histological types, n = 1386) epithelial ovarian, fallopian tube or primary peritoneal cancer following surgery (NCI-CTCAE v.3).
+FIGO staging version dated 1988 was used in this trial.
 
 Patients who had received prior therapy with bevacizumab or prior systemic anticancer therapy for ovarian cancer (e.g. chemotherapy, monoclonal antibody therapy, tyrosine kinase inhibitor therapy, or hormonal therapy) or previous radiotherapy to the abdomen or pelvis were excluded from the study.
 
@@ -658,9 +657,10 @@ Hazard Ratio (95% CI)4 0.74
 
 Recurrent ovarian cancer
 
-The safety and efficacy of Avastin in the treatment of recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer was studied in two phase III trials (AVF4095g and MO22224) with different patient populations and chemotherapy regimens.
+The safety and efficacy of Avastin in the treatment of recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer was studied in three phase III trials (AVF4095g , MO22224 and GOG-0213) with different patient populations and chemotherapy regimens.
 
-- AVF4095g evaluated the efficacy and safety of bevacizumab in combination with carboplatin and gemcitabine in patients with platinum-sensitive recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer.
+- AVF4095g evaluated the efficacy and safety of bevacizumab in combination with carboplatin and gemcitabine, followed by bevacizumab as a single agent in patients with platinum-sensitive recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer.
+- GOG-0213 evaluated the efficacy and safety of bevacizumab in combination with carboplatin and paclitaxel, followed by bevacizumab as a single agent in patients with platinum-sensitive recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer.
 - MO22224 evaluated the efficacy and safety of bevacizumab in combination with paclitaxel, topotecan, or pegylated liposomal doxorubicin in patients with platinum-resistant recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer.
 
 AVF4095g
@@ -668,7 +668,6 @@ The safety and efficacy of Avastin in the treatment of patients with platinum-se
 The study compared the effect of adding Avastin to carboplatin and gemcitabine chemotherapy and continuing Avastin as a single agent to progression, to carboplatin and gemcitabine alone.
 
 Only patients with histologically documented ovarian, primary peritoneal, or fallopian tube carcinoma that had recurred > 6 months after platinum-based chemotherapy and who had not received chemotherapy in the recurrent setting and who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor–targeted agents were included in the study.
-
 A total of 484 patients with measurable disease were randomised 1:1 to either:
 
 - Carboplatin (AUC4, Day 1) and gemcitabine (1000 mg/m2 on Days 1 and 8) and concurrent placebo every 3 weeks for 6 and up to 10 cycles followed by placebo (every 3 weeks) alone until disease progression or unacceptable toxicity
@@ -721,6 +720,49 @@ Table 21 Progression-free survival by time from last platinum therapy to recurre
 | Median | 9.7 | 12.4 |
 | Hazard ratio (95% CI) | 0.55 (0.41 – 0.73) |  |
 
+GOG-0213
+GOG-0213, a phase III randomized controlled open label trial, studied the safety and efficacy of Avastin in the treatment of patients with platinum-sensitive, recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer, who have not received prior chemotherapy in the recurrent setting.
+There was no exclusion criterion for prior anti-angiogenic therapy.
+The study evaluated the effect of adding Avastin to carboplatin+paclitaxel and continuing Avastin as a single agent until disease progression or unacceptable toxicity compared to carboplatin+paclitaxel alone.
+
+A total of 673 patients were randomized in equal proportions to the following two treatment arms:
+
+- CP arm: Carboplatin (AUC5) and paclitaxel (175 mg/m2 IV) every 3 weeks for 6 and up to 8 cycles.
+- CPB arm: Carboplatin (AUC5) and paclitaxel (175 mg/m2 IV) and concurrent Avastin (15 mg/kg) every 3 weeks for 6 and up to 8 cycles, followed by Avastin (15 mg/kg every 3 weeks) alone until disease progression or unacceptable toxicity.
+
+Most patients in both the CP arm (80.4%) and the CPB arm (78.9%) were White.
+The median age was 60.0 years in the CP arm and 59.0 years in the CPB arm.
+The majority of patients (CP: 64.6%; CPB: 68.8%) were in the age category < 65 years.
+At baseline, most patients in both treatment arms had a GOG PS of 0 (CP: 82.4%: CPB; 80.7%) or 1 (CP: 16.7%: CPB; 18.1%).
+A GOG PS of 2 at baseline was reported in 0.9% of patients in the CP arm and in 1.2% of patients in the CPB arm.“
+
+The primary efficacy endpoint was overall survival (OS).
+The main secondary efficacy endpoint was progression-free survival (PFS).Results are presented in Table 22.
+Table 22 Efficacy results1,2 from study GOG-0213
+
+| Primary Endpoint |  |  |
+| --- | --- | --- |
+| Overall Survival (OS) | CP (n=336) | CPB (n=337) |
+| Median OS (months) | 37.3 | 42.6 |
+| Hazard ratio (95% CI) (eCRF)a | 0.823 [CI: 0.680, 0.996] |  |
+| p-Value | 0.0447 |  |
+| Hazard ratio (95% CI) (registration form)b | 0.838 [CI: 0.693, 1.014] |  |
+| p-Value | 0.0683 |  |
+| Secondary Endpoint |  |  |
+| Progression-free survival (PFS) | CP (n=336) | CPB (n=337) |
+| Median PFS (months) | 10.2 | 13.8 |
+| Hazard ratio (95% CI) | 0.613 [CI: 0.521, 0.721] |  |
+| p-value | <0.0001 |  |
+
+1 Final Analysis 2 Tumour assessments and response evaluations were determined by the investigators using the GOG RECIST criteria (Revised RECIST guideline (version 1.1).
+Eur J Cancer.
+2009;45:228Y247).
+
+a Hazard ratio was estimated from Cox proportional hazards models stratified by the duration of platinum free-interval prior to enrolling onto this study per eCRF (electronic case report form) and secondary surgical debulking status Yes/No (Yes=randomized to undergo cytoreduction or randomized to not undergo cytoreduction; No= not a candidate or did not consent to cytoreduction). b stratified by the duration of treatment free-interval prior to enrolling onto this study per the registration form, and secondary surgical debulking status Yes/No.
+
+The trial met its primary objective of OS improvement.
+Treatment with Avastin at 15 mg/kg every 3 weeks in combination with chemotherapy (carboplatin and paclitaxel) for 6 and up to 8 cycles, followed by Avastin until disease progression or unacceptable toxicity resulted, when data were derived from eCRF, in a clinically meaningful and statistically significant improvement in OS compared to treatment with carboplatin and paclitaxel alone.
+
 MO22224
 Study MO22224 evaluated the efficacy and safety of bevacizumab in combination with chemotherapy for platinum-resistant recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer.
 This study was designed as an open-label, randomized, two-arm Phase III evaluation of bevacizumab plus chemotherapy (CT+BV) versus chemotherapy alone (CT).
@@ -748,8 +790,9 @@ The overall rates of discontinuation due to adverse events were 8.8% in the CT a
 The rates of discontinuation due to adverse events in the subgroup of patients > 65 years old were 8.8% in the CT arm and 50.0% in the CT + BV arm.
 The HR for PFS was 0.47 (95% CI: 0.35, 0.62) and 0.45 (95% CI: 0.31, 0.67) for the < 65 and ≥ 65 subgroups, respectively.
 The primary endpoint was progression-free-survival, with secondary endpoints including objective response rate and overall survival.
-Results are presented in Table 22.
-Table 22 Efficacy Results from Study MO22224
+Results are presented in Table 23.
+
+Table 23 Efficacy Results from Study MO22224
 
 | Primary Endpoint |  |  |
 | --- | --- | --- |
@@ -776,8 +819,8 @@ All analyses presented in this table are stratified analyses.
 
 The trial met its primary objective of PFS improvement.
 Compared to patients treated with chemotherapy (paclitaxel, topotecan or PLD) alone in the recurrent platinum-resistant setting, patients who received bevacizumab at a dose of 10 mg/kg every 2 weeks (or 15 mg/kg every 3 weeks if used in combination with 1.25 mg/m2 topotecan on Days 1–5 every 3 weeks) in combination with chemotherapy and continued to receive bevacizumab until disease progression or unacceptable toxicity, had a statistically significant improvement in PFS.
-The exploratory PFS and OS analyses by chemotherapy cohort (paclitaxel, topotecan and PLD) are summarized in Table 23.
-Table 23: Exploratory PFS and OS analyses by chemotherapy cohort
+The exploratory PFS and OS analyses by chemotherapy cohort (paclitaxel, topotecan and PLD) are summarized in Table 24.
+Table 24: Exploratory PFS and OS analyses by chemotherapy cohort
 
 |  | CT |  | CT+BV |
 | --- | --- | --- | --- |
@@ -823,9 +866,9 @@ Of the 452 patients randomized at baseline, the majority of patients were white 
 
 The primary efficacy endpoint was overall survival.
 Secondary efficacy endpoints included progression-free survival and objective response rate.
-Results from the primary analysis and the follow-up analysis are presented by Avastin Treatment and by Trial Treatment in Table 24 and Table 25, respectively.
+Results from the primary analysis and the follow-up analysis are presented by Avastin Treatment and by Trial Treatment in Table 25 and Table 26, respectively.
 
-Table 24 Efficacy results from study GOG-0240 by Avastin Treatment
+Table 25 Efficacy results from study GOG-0240 by Avastin Treatment
 
 |  | Chemotherapy (n=225) | Chemotherapy + Avastin (n=227) |
 | --- | --- | --- |
@@ -855,7 +898,7 @@ Table 24 Efficacy results from study GOG-0240 by Avastin Treatment
 6 Primary analysis was performed with a data cut-off date of 12 December 2012 and is considered the final analysis
 7 Follow-up analysis was performed with a data cut-off date of 07 March 2014
 8 p-value displayed for descriptive purpose only
-Table 25 Overall survival results from study GOG-0240 by Trial Treatment
+Table 26 Overall survival results from study GOG-0240 by Trial Treatment
 
 | Treatment | Other Factor | Overall survival – Primary analysis1 | Overall survival - Follow-up analysis2 |
 | --- | --- | --- | --- |
