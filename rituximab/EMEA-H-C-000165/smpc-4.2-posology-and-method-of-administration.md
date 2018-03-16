@@ -20,17 +20,17 @@ Follicular non-Hodgkin's lymphoma
 
 Combination therapy
 The recommended dose of MabThera in combination with chemotherapy for induction treatment of previously untreated or relapsed/ refractory patients with follicular lymphoma is: 375 mg/m2 body surface area per cycle, for up to 8 cycles.
-
 MabThera should be administered on day 1 of each chemotherapy cycle, after intravenous administration of the glucocorticoid component of the chemotherapy if applicable.
+
 Maintenance therapy
 
 - Previously untreated follicular lymphoma
 
-The recommended dose of MabThera used as a maintenance treatment for patients with previously untreated follicular lymphoma who have responded to induction treatment is: 375 mg/m2 body surface area once every 2 months (starting 2 months after the last dose of induction therapy) until disease progression or for a maximum period of two years.
+The recommended dose of MabThera used as a maintenance treatment for patients with previously untreated follicular lymphoma who have responded to induction treatment is: 375 mg/m2 body surface area once every 2 months (starting 2 months after the last dose of induction therapy) until disease progression or for a maximum period of two years (12 infusions in total).
 
 - Relapsed/refractory follicular lymphoma
 
-The recommended dose of MabThera used as a maintenance treatment for patients with relapsed/refractory follicular lymphoma who have responded to induction treatment is: 375 mg/m2 body surface area once every 3 months (starting 3 months after the last dose of induction therapy) until disease progression or for a maximum period of two years.
+The recommended dose of MabThera used as a maintenance treatment for patients with relapsed/refractory follicular lymphoma who have responded to induction treatment is: 375 mg/m2 body surface area once every 3 months (starting 3 months after the last dose of induction therapy) until disease progression or for a maximum period of two years (8 infusions in total).
 
 Monotherapy
 
@@ -58,10 +58,10 @@ For CLL patients whose lymphocyte counts are > 25 x 109/L it is recommended to a
 
 The recommended dosage of MabThera in combination with chemotherapy for previously untreated and relapsed/refractory patients is 375 mg/m2 body surface area administered on day 0 of the first treatment cycle followed by 500 mg/m2 body surface area administered on day 1 of each subsequent cycle for 6 cycles in total.
 The chemotherapy should be given after MabThera infusion.
-
 Rheumatoid arthritis
 
 Patients treated with MabThera must be given the patient alert card with each infusion.
+
 A course of MabThera consists of two 1000 mg intravenous infusions.
 The recommended dosage of MabThera is 1000 mg by intravenous infusion followed by a second 1000 mg intravenous infusion two weeks later.
 
@@ -102,10 +102,10 @@ If the same severe adverse reactions occur for a second time, the decision to st
 
 Mild or moderate infusion-related reactions (IRR) (section 4.8) usually respond to a reduction in the rate of infusion.
 The infusion rate may be increased upon improvement of symptoms.
-
 First infusion
 
 The recommended initial rate for infusion is 50 mg/h; after the first 30 minutes, it can be escalated in 50 mg/h increments every 30 minutes, to a maximum of 400 mg/h.
+
 Subsequent infusions
 
 All indications
@@ -146,9 +146,9 @@ The recommended dose of MabThera in combination with chemotherapy for induction 
 
 MabThera should be administered on day 1 of each chemotherapy cycle, after administration of the glucocorticoid component of the chemotherapy if applicable.
 
-The recommended dose of MabThera subcutaneous formulation used as a maintenance treatment for patients with previously untreated follicular lymphoma who have responded to induction treatment is: 1400 mg once every 2 months (starting 2 months after the last dose of induction therapy) until disease progression or for a maximum period of two years.
+The recommended dose of MabThera subcutaneous formulation used as a maintenance treatment for patients with previously untreated follicular lymphoma who have responded to induction treatment is: 1400 mg once every 2 months (starting 2 months after the last dose of induction therapy) until disease progression or for a maximum period of two years (12 administrations in total).
 
-The recommended dose of MabThera subcutaneous formulation used as a maintenance treatment for patients with relapsed/refractory follicular lymphoma who have responded to induction treatment is: 1400 mg once every 3 months (starting 3 months after the last dose of induction therapy) until disease progression or for a maximum period of two years.
+The recommended dose of MabThera subcutaneous formulation used as a maintenance treatment for patients with relapsed/refractory follicular lymphoma who have responded to induction treatment is: 1400 mg once every 3 months (starting 3 months after the last dose of induction therapy) until disease progression or for a maximum period of two years (8 administrations in total).
 
 The recommended dose is: first cycle, MabThera intravenous formulation: 375 mg/m2 body surface area, followed by subsequent cycles with MabThera subcutaneous formulation injected at a fixed dose of 1400 mg per cycle.
 In total: 8 cycles.
@@ -190,8 +190,6 @@ and relapsed/refractory patients is: MabThera intravenous formulation 375 mg/m2 
 administered on day 0 of the first cycle of treatment followed by MabThera subcutaneous formulation
 injected at a fixed dose of 1600 mg per cycle, on day 1 of each subsequent cycle (in total: 6 cycles).
 The chemotherapy should be given after MabThera administration.
-
----Dose adjustments during treatment
 
 MabThera 1600 mg subcutaneous formulation should be administered as subcutaneous injection only, over approximately 7 minutes.
 

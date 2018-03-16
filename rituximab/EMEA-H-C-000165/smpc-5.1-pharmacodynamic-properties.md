@@ -20,6 +20,7 @@ Peripheral blood B cell counts begin to increase from week 24 and evidence for r
 A small proportion of patients had prolonged peripheral B cell depletion lasting 2 years or more after their last dose of MabThera.
 In patients with granulomatosis with polyangiitis or microscopic polyangiitis, the number of peripheral blood B cells decreased to <10 cells/μL after two weekly infusions of rituximab 375 mg/m2, and remained at that level in most patients up to the 6 month timepoint.
 The majority of patients (81%) showed signs of B cell return, with counts >10 cells/μL by month 12, increasing to 87% of patients by month 18.
+
 Clinical experience in Non-Hodgkin’s lymphoma and in chronic lymphocytic leukaemia
 
 Follicular lymphoma
@@ -44,7 +45,6 @@ The ORR was 57 % (95% Confidence interval (CI); 41% – 73%; CR 14 %, PR 43%) wi
 Initial treatment, bulky disease, weekly for 4 doses
 In pooled data from three trials, 39 patients with relapsed or chemoresistant, bulky disease (single lesion ≥ 10 cm in diameter), low grade or follicular B cell NHL received 375 mg/m2 of MabThera as intravenous infusion weekly for four doses.
 The ORR was 36 % (CI95 % 21 % – 51 %; CR 3 %, PR 33 %) with a median TTP for responding patients of 9.6 months (range 4.5 to 26.8 months).
-
 Re-treatment, weekly for 4 doses
 In a multi-centre, single-arm trial, 58 patients with relapsed or chemoresistant low grade or follicular B cell NHL, who had achieved an objective clinical response to a prior course of MabThera, were re-treated with 375 mg/m2 of MabThera as intravenous infusion weekly for four doses.
 Three of the patients had received two courses of MabThera before enrolment and thus were given a third course in the study.
@@ -68,14 +68,13 @@ The difference between the treatment groups with respect to overall survival sho
 
 Results from three other randomised trials using MabThera in combination with chemotherapy regimen other than CVP (CHOP, MCP, CHVP/Interferon-α) have also demonstrated significant improvements in response rates, time-dependent parameters as well as in overall survival.
 Key results from all four studies are summarized in table 4.
-
 Table 4 Summary of key results from four phase III randomised studies evaluating the benefit of MabThera with different chemotherapy regimens in follicular lymphoma
 
 | Study | Treatment, N | Median FU, months | ORR, % | CR, % | Median TTF/PFS/ EFS mo | OS rates, % |
 | --- | --- | --- | --- | --- | --- | --- |
 | M39021 | CVP, 159 R-CVP, 162 | 53 | 57 81 | 10 41 | Median TTP: 14.7 33.6 P<0.0001 | 53-months 71.1 80.9 p=0.029 |
 | GLSG’00 | CHOP, 205 R-CHOP, 223 | 18 | 90 96 | 17 20 | Median TTF: 2.6 years Not reached p < 0.001 | 18-months 90 95 p = 0.016 |
-| OSHO‐39 | MCP, 96 R-MCP, 105 | 47 | 75 92 | 25 50 | Median PFS: 28.8 Not reached p < 0.0001 | 48-months 74 87 p = 0.0096 |
+| OSHO-39 | MCP, 96 R-MCP, 105 | 47 | 75 92 | 25 50 | Median PFS: 28.8 Not reached p < 0.0001 | 48-months 74 87 p = 0.0096 |
 | FL2000 | CHVP-IFN, 183 R-CHVP-IFN, 175 | 42 | 85 94 | 49 76 | Median EFS: 36 Not reached p < 0.0001 | 42-months 84 91 p = 0.029 |
 
 EFS – Event Free Survival
@@ -98,10 +97,9 @@ Significant benefit from maintenance treatment with MabThera was also seen for t
 The results of the primary analysis were confirmed with longer follow-up (median observation time: 48 months and 73 months), and have been added to Table 5 to show the comparison between the 25 and 48 and 73 month follow up periods.
 Table 5 Maintenance phase: overview of efficacy results MabThera vs. observation after 73 months median observation time (compared with results of primary analysis based on 25 months median observation time, and updated analysis based on 48 months median observation time)
 
-Observation MabThera Risk reduction
-N=513
-N=505 Log‐rank P
-value
+Observation MabThera Log-rank P Risk reduction
+N=513 value
+N=505
 Primary efficacy
 PFS (median) 48.5 months NR <0.0001 42%
 [48.4 months] [NR] [<0.0001] [45%]
@@ -110,11 +108,9 @@ Secondary efficacy
 EFS (median) 48.4 months NR <0.0001 39%
 [47.6 months] [NR] [< 0.0001] [42%]
 (37.8 months) (NR) (< 0.0001) (46%)
-OS (median) NR NR 0.8959
-[NR] [NR] [0.9298]
-(NR) (NR) (0.7246) ‐2%
-[‐2%]
-(11%)
+OS (median) NR NR 0.8959 -2%
+[NR] [NR] [0.9298] [-2%]
+(NR) (NR) (0.7246) (11%)
 TNLT (median) 71.0 months NR <0.0001 37%
 [60.2 months] [NR] [<0.0001] [39%]
 (NR) (NR) (0.0003) (39%)
@@ -134,6 +130,7 @@ PFS: progression-free survival; EFS: event-free survival; OS: overall survival; 
 
 MabThera maintenance treatment provided consistent benefit in all predefined subgroups tested: gender (male, female), age (<60 years, >= 60 years), FLIPI score (<=1, 2 or >= 3), induction therapy (R-CHOP, R-CVP or R-FCM) and regardless of the quality of response to induction treatment (CR,CRu or PR).
 Exploratory analyses of the benefit of maintenance treatment showed a less pronounced effect in elderly patients (> 70 years of age), however sample sizes were small.
+
 Relapsed/Refractory follicular lymphoma
 
 In a prospective, open label, international, multi-centre, phase III trial, 465 patients with relapsed/refractory follicular lymphoma were randomised in a first step to induction therapy with either CHOP (cyclophosphamide, doxorubicin, vincristine, prednisolone; n=231) or MabThera plus CHOP (R-CHOP, n=234).
@@ -146,7 +143,7 @@ After a median observation time of 31 months for patients randomised to the indu
 
 Table 6 Induction phase: overview of efficacy results for CHOP vs. R-CHOP (31 months median observation time)
 
-|  | CHOP | R‐CHOP | p‐value | Risk Reduction1) |
+|  | CHOP | R-CHOP | p-value | Risk Reduction1) |
 | --- | --- | --- | --- | --- |
 | Primary efficacy ORR2) CR2) PR2) | 74 % 16 % 58 % | 87 % 29 % 58 % | 0.0003 0.0005 0.9449 | Na Na Na |
 
@@ -161,17 +158,17 @@ Using a cox regression analysis, the risk of experiencing progressive disease or
 Kaplan-Meier estimated progression-free rates at 12 months were 78 % in the MabThera maintenance group vs. 57 % in the observation group.
 An analysis of overall survival confirmed the significant benefit of MabThera maintenance over observation (p=0.0039 log-rank test).
 MabThera maintenance treatment reduced the risk of death by 56 % (95 % CI; 22 %-75 %).
+
 Table 7 Maintenance phase: overview of efficacy results MabThera vs. observation (28 months median observation time)
 
-| Efficacy Parameter | Kaplan‐Meier Estimate of Median Time to Event (Months) |  |  | Risk Reduction |
+| Efficacy Parameter | Kaplan-Meier Estimate of Median Time to Event (Months) |  |  | Risk Reduction |
 | --- | --- | --- | --- | --- |
 |  | Observation (N = 167) | MabThera (N=167) | Log-Rank p value |  |
-| Progression‐free survival (PFS) | 14.3 | 42.2 | < 0.0001 | 61 % |
+| Progression-free survival (PFS) | 14.3 | 42.2 | < 0.0001 | 61 % |
 | Overall survival | NR | NR | 0.0039 | 56 % |
-| Time to new lymphoma treatment | 20.1 | 38.8 | < 0.0001 | 50 % |
-| Disease‐free survivala | 16.5 | 53.7 | 0.0003 | 67 % |
-| Subgroup analysis PFS CHOP R-CHOP CR PR | 11.6 22.1 14.3 14.3 | 37.5 51.9 52.8 37.8 | < 0.0001 0.0071 0.0008 < 0.0001 | 71 % 46 % 64 % 54 % |
-| OS CHOP R-CHOP | NR NR | NR NR | 0.0348 0.0482 | 55 % 56 % |
+| Time to new lymphoma treatment Disease-free survivala | 20.1 16.5 | 38.8 53.7 | < 0.0001 0.0003 | 50 % 67 % |
+| Subgroup analysis PFS CHOP R-CHOP CR PR OS CHOP R-CHOP | 11.6 22.1 14.3 14.3 | 37.5 51.9 52.8 37.8 | < 0.0001 0.0071 0.0008 < 0.0001 | 71 % 46 % 64 % 54 % |
+|  | NR NR | NR NR | 0.0348 0.0482 | 55 % 56 % |
 
 NR: not reached; a: only applicable to patients achieving a CR
 
@@ -212,13 +209,14 @@ A total of 810 patients (403 R-FC, 407 FC) for the first-line study (Table 8a an
 In the first-line study, after a median observation time of 48.1 months, the median PFS was 55 months in the R-FC group and 33 months in the FC group (p < 0.0001, log-rank test).
 The analysis of overall survival showed a significant benefit of R-FC treatment over FC chemotherapy alone (p = 0.0319, log-rank test) (Table 8a).
 The benefit in terms of PFS was consistently observed in most patient subgroups analysed according to disease risk at baseline (i.e. Binet stages A-C) (Table 8b).
+
 Table 8a First-line treatment of chronic lymphocytic leukaemia
 Overview of efficacy results for MabThera plus FC vs. FC alone - 48.1 months median observation time
 
 | Efficacy Parameter | Kaplan-Meier Estimate of Median Time to Event (Months) |  |  | Risk Reduction |
 | --- | --- | --- | --- | --- |
 |  | FC (N = 409) | R-FC (N=408) | Log-Rank p value |  |
-| Progression‐free survival (PFS) | 32.8 | 55.3 | <0.0001 | 45% |
+| Progression-free survival (PFS) | 32.8 | 55.3 | <0.0001 | 45% |
 | Overall survival | NR | NR | 0.0319 | 27% |
 | Event free survival | 31.3 | 51.8 | <0.0001 | 44% |
 | Response rate (CR, nPR, or PR) CR rates | 72.6% 16.9% | 85.8% 36.0% | <0.0001 <0.0001 | n.a. n.a. |
@@ -234,13 +232,12 @@ NR: not reached; n.a.: not applicable
 Table 8b First-line treatment of chronic lymphocytic leukaemia
 Hazard ratios of progression-free survival according to Binet stage (ITT) – 48.1 months median observation time
 
-Number of Hazard Ratio p-value (Wald
-patients (95% CI) test, not
-Progression‐free survival (PFS) FC adjusted)
-R‐FC
-Binet stage A 22 18 0.39 (0.15; 0.98) 0.0442
-Binet stage B 259 263 0.52 (0.41; 0.66) <0.0001
-Binet stage C 126 126 0.68 (0.49; 0.95) 0.0224
+| Progression-free survival (PFS) | Number of patients |  | Hazard Ratio (95% CI) | p-value (Wald test, not adjusted) |
+| --- | --- | --- | --- | --- |
+|  | FC | R-FC |  |  |
+| Binet stage A | 22 | 18 | 0.39 (0.15; 0.98) | 0.0442 |
+| Binet stage B | 259 | 263 | 0.52 (0.41; 0.66) | <0.0001 |
+| Binet stage C | 126 | 126 | 0.68 (0.49; 0.95) | 0.0224 |
 
 CI: Confidence Interval
 
@@ -252,13 +249,12 @@ Table 9 Treatment of relapsed/refractory chronic lymphocytic leukaemia - overvie
 | Efficacy Parameter | Kaplan-Meier Estimate of Median Time to Event (Months) |  |  | Risk Reduction |
 | --- | --- | --- | --- | --- |
 |  | FC (N = 276) | R-FC (N=276) | Log-Rank p value |  |
-| Progression‐free survival (PFS) | 20.6 | 30.6 | 0.0002 | 35% |
+| Progression-free survival (PFS) | 20.6 | 30.6 | 0.0002 | 35% |
 | Overall survival | 51.9 | NR | 0.2874 | 17% |
 | Event free survival | 19.3 | 28.7 | 0.0002 | 36% |
 | Response rate (CR, nPR, or PR) | 58.0% | 69.9% | 0.0034 | n.a. |
 | CR rates | 13.0% | 24.3% | 0.0007 | n.a. |
-| Duration of response * Disease free survival (DFS)** | 27.6 42.2 | 39.6 39.6 | 0.0252 0.8842 | 31% |
-| Time to new CLL treatment | 34.2 | NR | 0.0024 | ‐6% 35% |
+| Duration of response * Disease free survival (DFS)** Time to new CLL treatment | 27.6 42.2 34.2 | 39.6 39.6 NR | 0.0252 0.8842 0.0024 | 31% -6% 35% |
 
 Response rate and CR rates analysed using Chi-squared Test.
 *: only applicable to patients achieving a CR, nPR, PR; NR: not reached n.a. not applicable
@@ -285,7 +281,6 @@ All patients received concomitant 60 mg oral prednisone on days 2-7 and 30 mg on
 The primary endpoint was the proportion of patients who achieved an ACR20 response at week 24.
 Patients were followed beyond week 24 for long term endpoints, including radiographic assessment at 56 weeks and at 104 weeks.
 During this time, 81% of patients, from the original placebo group received MabThera between weeks 24 and 56, under an open label extension study protocol.
-
 Trials of MabThera in patients with early arthritis (patients without prior methotrexate treatment and patients with an inadequate response to methotrexate, but not yet treated with TNF-alpha inhibitors) have met their primary endpoints.
 MabThera is not indicated for these patients, since the safety data about long-term MabThera treatment are insufficient, in particular concerning the risk of development of malignancies and PML.
 
@@ -302,7 +297,7 @@ Table 10 Clinical response outcomes at primary endpoint in Trial 1(ITT populatio
 | Trial 1 |  | N= 201 | N= 298 |
 |  | ACR20 ACR50 ACR70 | 36 (18%) 11 (5%) 3 (1%) | 153 (51%)*** 80 (27%)*** 37 (12%)*** |
 |  | EULAR Response (Good/Moderate) | 44 (22%) | 193 (65%)*** |
-|  | Mean Change in DAS | ‐0.34 | ‐1.83*** |
+|  | Mean Change in DAS | -0.34 | -1.83*** |
 
 † Outcome at 24 weeks
 Significant difference from placebo + MTX at the primary timepoint: ***p ≤ 0.0001
@@ -316,7 +311,6 @@ Structural joint damage was assessed radiographically and expressed as change in
 In Trial 1, conducted in patients with inadequate response or intolerance to one or more TNF inhibitor therapies, receiving MabThera in combination with methotrexate demonstrated significantly less radiographic progression than patients originally receiving methotrexate alone at 56 weeks.
 Of the patients originally receiving methotrexate alone, 81 % received MabThera either as rescue between weeks 16-24 or in the extension trial, before week 56.
 A higher proportion of patients receiving the original MabThera/MTX treatment also had no erosive progression over 56 weeks (Table 11).
-
 Table 11 Radiographic outcomes at 1 year (mITT population)
 
 |  | Placebo+MTX | MabThera+MTX 2 × 1000 mg |
@@ -337,24 +331,16 @@ The proportions of MabThera treated patients showing a minimal clinically import
 
 Significant improvement in health related quality of life was also demonstrated with significant improvement in both the physical health score (PHS) and mental health score (MHS) of the SF-36.
 Further, a significantly higher proportion of patients achieved MCIDs for these scores (Table 12).
+
 Table 12 Physical Function and Quality of Life outcomes at week 24 in Trial 1
 
 | Outcome† | Placebo+MTX | MabThera+MTX (2 x 1000 mg) |
 | --- | --- | --- |
-|  | n=201 | n=298 |
-| Mean change in HAQ‐DI | 0.1 | ‐0.4*** |
-| % HAQ‐DI MCID | 20% | 51% |
-| Mean change in FACIT‐T | ‐0.5 | ‐9.1*** |
-|  | n=197 | n=294 |
-| Mean Change in SF‐36 PHS | 0.9 | 5.8*** |
-| % SF‐36 PHS MCID | 13% | 48%*** |
-| Mean change in SF‐36 MHS | 1.3 | 4.7** |
-| % SF‐36 MHS MCID | 20% | 38%* |
+| Mean change in HAQ-DI % HAQ-DI MCID Mean change in FACIT-T Mean Change in SF-36 PHS % SF-36 PHS MCID Mean change in SF-36 MHS % SF-36 MHS MCID | n=201 0.1 20% -0.5 n=197 0.9 13% 1.3 20% | n=298 -0.4*** 51% -9.1*** n=294 5.8*** 48%*** 4.7** 38%* |
 
 † Outcome at 24 weeks
 Significant difference from placebo at the primary time point: * p < 0.05, **p < 0.001 ***p ≤ 0.0001
 MCID HAQ-DI ≥0.22, MCID SF-36 PHS >5.42, MCID SF-36 MHS >6.33
-
 Efficacy in autoantibody (RF and or anti-CCP) seropositive patients
 Patients seropositive to Rheumatoid Factor (RF) and/or anti- Cyclic Citrullinated Peptide (anti-CCP) who were treated with MabThera in combination with methotrexate showed an enhanced response compared to patients negative to both.
 
@@ -373,7 +359,7 @@ Table 13 Summary of efficacy by baseline autoantibody status
 | ACR50 (%) | 32.7* | 19.8 | 44.9** | 22.8 |
 | ACR70 (%) | 12.1 | 5.7 | 20.9* | 6.9 |
 | EULAR response (%) | 74.8* | 62.9 | 84.3* | 72.3 |
-| Mean change DAS28‐ESR | ‐1.97** | ‐1.50 | ‐2.48*** | ‐1.72 |
+| Mean change DAS28-ESR | -1.97** | -1.50 | -2.48*** | -1.72 |
 
 Significance levels were defined as * p<0.05, **p<0.001, ***p<0.0001.
 
@@ -387,11 +373,9 @@ Figure 2: ACR responses for 4 treatment courses (24 weeks after each course (wit
 90
 80
 70
-60
-ACR20
+60 ACR20
 50
-ACR50
-40
+40 ACR50
 30 ACR70
 20
 10
@@ -438,7 +422,7 @@ Table 15 Complete remission at 6-months by disease status
 | --- | --- | --- | --- |
 | All patients Newly diagnosed Relapsing | n=99 n=48 n=51 | n=98 n=48 n=50 |  |
 | Complete remission |  |  |  |
-| All Patients | 63.6% | 53.1% | 10.6% (‐3.2, 24.3) |
+| All Patients | 63.6% | 53.1% | 10.6% (-3.2, 24.3) |
 | Newly diagnosed | 60.4% | 64.6% | − 4.2% (− 23.6, 15.3) |
 | Relapsing | 66.7% | 42.0% | 24.7% (5.8, 43.6) |
 
@@ -483,13 +467,23 @@ The difference between the treatment groups with respect to overall survival sho
 | PFS (median) | 48.5 months [48.4 months] (NR) | NR [NR] (NR) | <0.0001 [<0.0001] (<0.0001) | 42% [45%] (50%) |
 | Secondary efficacy |  |  |  |  |
 | EFS (median) | 48.4 months [47.6 months] (37.8 months) | NR [NR] (NR) | <0.0001 [< 0.0001] (< 0.0001) | 39% [42%] (46%) |
-| OS (median) | NR [NR] (NR) | NR [NR] (NR) | 0.8959 [0.9298] (0.7246) | ‐2% [‐2%] (11%) |
+| OS (median) | NR [NR] (NR) | NR [NR] (NR) | 0.8959 [0.9298] (0.7246) | -2% [-2%] (11%) |
 | TNLT (median) | 71.0 months [60.2 months] (NR) | NR [NR] (NR) | <0.0001 [<0.0001] (0.0003) | 37% [39%] (39%) |
 | TNCT (median) | 85.1 months [NR] (NR) | NR [NR] (NR) | 0.0006 [0.0006] (0.0011) | 30% [34%] (40%) |
 | ORR* | 60.7% [60.7%] (55.0%) | 79.0% [79.0%] (74.0%) | <0.0001# [<0.0001#] (< 0.0001) | OR=2.43 [OR=2.43] (OR =2.33) |
 | Complete Response (CR/CRu) rate* | 52.7% [52.7%] (47.7%) | 66.8% [72.2%] (66.8%) | <0.0001 [<0.0001] (< 0.0001) | OR=2.34 [OR=2.34] [ (OR = 2.21) |
 
-MabThera maintenance treatment provided consistent benefit in all predefined subgroups tested: gender (male, female), age (�60 years, >= 60 years), FLIPI score (<=1, 2 or >= 3), induction therapy (R-CHOP, R-CVP or R-FCM) and regardless of the quality of response to induction treatment (CR, CRu or PR).
+MabThera maintenance treatment provided consistent benefit in all predefined subgroups tested: gender (male, female), age (<60 years, >= 60 years), FLIPI score (<=1, 2 or >= 3), induction therapy (R-CHOP, R-CVP or R-FCM) and regardless of the quality of response to induction treatment (CR, CRu or PR).
+
+| Efficacy Parameter | Kaplan-Meier Estimate of Median Time to Event (Months) |  |  | Risk Reduction |
+| --- | --- | --- | --- | --- |
+|  | Observation (N = 167) | MabThera (N=167) | Log-Rank p value |  |
+| Progression-free survival (PFS) | 14.3 | 42.2 | < 0.0001 | 61 % |
+| Overall survival | NR | NR | 0.0039 | 56 % |
+| Time to new lymphoma treatment | 20.1 | 38.8 | < 0.0001 | 50 % |
+| Disease-free survivala | 16.5 | 53.7 | 0.0003 | 67 % |
+| Subgroup analysis PFS CHOP R-CHOP CR PR | 11.6 22.1 14.3 14.3 | 37.5 51.9 52.8 37.8 | < 0.0001 0.0071 0.0008 < 0.0001 | 71 % 46 % 64 % 54 % |
+| OS CHOP R-CHOP | NR NR | NR NR | 0.0348 0.0482 | 55 % 56 % |
 
 The European Medicines Agency has waived the obligation to submit the results of studies with MabThera in all subsets of the paediatric population with follicular lymphoma and chronic lymphocytic leukaemia.
 
@@ -521,15 +515,13 @@ Further, significantly higher proportion of patients achieved MCIDs for these sc
 
 | Outcome† | Placebo+MTX | MabThera+MTX (2 x 1000 mg) |
 | --- | --- | --- |
-| Mean change in HAQ‐DI | n=201 | n=298 |
-|  | 0.1 | ‐0.4*** |
-| % HAQ‐DI MCID | 20% | 51% |
-| Mean change in FACIT‐T | ‐0.5 | ‐9.1*** |
-| Mean change in SF‐36 PHS | n=197 | n=294 |
-|  | 0.9 | 5.8*** |
-| % SF‐36 PHS MCID | 13% | 48%*** |
-| Mean change in SF‐36 MHS | 1.3 | 4.7** |
-| % SF‐36 MHS MCID | 20% | 38%* |
+| Mean change in HAQ-DI | n=201 0.1 | n=298 -0.4*** |
+| % HAQ-DI MCID | 20% | 51% |
+| Mean change in FACIT-T | -0.5 | -9.1*** |
+| Mean change in SF-36 PHS | n=197 0.9 | n=294 5.8*** |
+| % SF-36 PHS MCID | 13% | 48%*** |
+| Mean change in SF-36 MHS | 1.3 | 4.7** |
+| % SF-36 MHS MCID | 20% | 38%* |
 
 Prednisone tapering was to be completed by 6 months from the start of study treatment.
 
@@ -572,15 +564,17 @@ The overall response rate point estimates for the pooled analysis of 410 patient
 
 Table 2 SABRINA (BO22334) Response Rate Point Estimates (Intent to Treat Population)
 
-|  |  | Pooled Stages 1 & 2 N = 410 |  |
-| --- | --- | --- | --- |
-|  |  | Rituximab intravenous formulation | Rituximab subcutaneous formulation |
-|  | Point estimate | 84.4% (173/205) | 83.4% (171/205) |
-| ORR |  |  |  |
-|  | 95% CI | [78.7%,89.1%] | [77.6%,88.2%] |
-|  | Point estimate | 31.7% (65/205) | 32.7% (67/205) |
-| CRR |  |  |  |
-|  | 95% CI | [25.4%,38.6%] | [26.3%,39.6%] |
+Pooled Stages 1 & 2
+N = 410
+Rituximab Rituximab
+intravenous subcutaneous
+formulation formulation
+Point estimate 84.4% (173/205) 83.4% (171/205)
+ORR
+95% CI [78.7%,89.1%] [77.6%,88.2%]
+Point estimate 31.7% (65/205) 32.7% (67/205)
+CRR
+95% CI [25.4%,38.6%] [26.3%,39.6%]
 
 ORR – Overall Response Rate
 CRR – Complete Response Rate
@@ -612,7 +606,7 @@ Table 3 Summary of key results from four phase III randomized trials evaluating 
 | --- | --- | --- | --- | --- | --- | --- |
 | M39021 | CVP, 159 R-CVP, 162 | 53 | 57 81 | 10 41 | Median TTP: 14.7 33.6 P<0.0001 | 53-months 71.1 80.9 p=0.029 |
 | GLSG’00 | CHOP, 205 R-CHOP, 223 | 18 | 90 96 | 17 20 | Median TTF: 2.6 years Not reached p < 0.001 | 18-months 90 95 p = 0.016 |
-| OSHO‐39 | MCP, 96 R-MCP, 105 | 47 | 75 92 | 25 50 | Median PFS: 28.8 Not reached p < 0.0001 | 48-months 74 87 p = 0.0096 |
+| OSHO-39 | MCP, 96 R-MCP, 105 | 47 | 75 92 | 25 50 | Median PFS: 28.8 Not reached p < 0.0001 | 48-months 74 87 p = 0.0096 |
 | FL2000 | CHVP-IFN, 183 R-CHVP-IFN, 175 | 42 | 85 94 | 49 76 | Median EFS: 36 Not reached p < 0.0001 | 42-months 84 91 p = 0.029 |
 
 In a prospective, open label, international, multi-center, phase III trial 1193 patients with previously untreated advanced follicular lymphoma received induction therapy with R-CHOP (n=881), R-CVP (n=268) or R-FCM (n=44), according to the investigators’ choice.
@@ -630,7 +624,7 @@ Table 4 Maintenance phase: overview of efficacy results MabThera vs. observation
 | PFS (median) | 48.4 months (NR) | NR (NR) | <0.0001 (<0.0001) | 45% (50%) |
 | Secondary efficacy |  |  |  |  |
 | EFS (median) | 47.6 months (37.8 months) | NR (NR) | < 0.0001 (< 0.0001) | 42% (46%) |
-| OS (median) | NR (NR) | NR (NR) | 0.9298 (0.7246) | ‐2% (11%) |
+| OS (median) | NR (NR) | NR (NR) | 0.9298 (0.7246) | -2% (11%) |
 | TNLT (median) | 60.2 months (NR) | NR (NR) | <0.0001 (0.0003) | 39% (39%) |
 | TNCT (median) | NR (NR) | NR (NR) | (0.0006) (0.0011) | 34% (40%) |
 | ORR* | 60.7% (55.0%) | 79.0% (74.0%) | <0.0001# (< 0.0001) | OR=2.43 (OR =2.33) |
@@ -639,17 +633,14 @@ Table 4 Maintenance phase: overview of efficacy results MabThera vs. observation
 Values in parentheses correspond to 25 months median observation time (primary analysis).
 Values outside of parentheses correspond to 48 months median observation time (updated analysis).
 
-MabThera maintenance treatment provided consistent benefit in all predefined subgroups tested: gender (male, female), age (�60 years, >= 60 years), FLIPI score (<=1, 2 or >= 3), induction therapy (R-CHOP, R-CVP or R-FCM) and regardless of the quality of response to induction treatment (CR/CRu or PR).
+MabThera maintenance treatment provided consistent benefit in all predefined subgroups tested: gender (male, female), age (<60 years, >= 60 years), FLIPI score (<=1, 2 or >= 3), induction therapy (R-CHOP, R-CVP or R-FCM) and regardless of the quality of response to induction treatment (CR/CRu or PR).
 
 The final efficacy analysis included all patients randomized to both parts of the trial.
 After a median observation time of 31 months for patients randomised to the induction phase, R-CHOP significantly improved the outcome of patients with relapsed/refractory follicular lymphoma when compared to CHOP (see Table 5).
 Table 5 Induction phase: overview of efficacy results for CHOP vs. R-CHOP (31 months median observation time)
 
-| CHOP | R‐CHOP | p‐value |
-| --- | --- | --- |
-| 74 % 16 % 58 % | 87 % 29 % 58 % | 0.0003 0.0005 0.9449 |
-
 For patients randomized to the maintenance phase of the trial, the median observation time was 28 months from maintenance randomisation.
+
 Table 6 Maintenance phase: overview of efficacy results MabThera vs. observation (28 months median observation time)
 
 The benefit of MabThera maintenance treatment was confirmed in all subgroups analysed, regardless of induction regimen (CHOP or R-CHOP) or quality of response to induction treatment (CR or PR) (table 6).
@@ -681,9 +672,9 @@ that observed after intravenous administration. In SAWYER trial (BO25341) the in
 treatment-induced/enhanced anti-rituximab antibodies was similar in the two treatment arms; 6.7%
 intravenous vs. 2.4% subcutaneous The incidence of treatment-induced/enhanced anti-rHuPH20
 antibodies, only measured in patients in the subcutaneous arm was 10.6%. None of the patients who
-tested positive for anti-rHuPH20 antibodies tested positive for neutralizing antibodies----.
+tested positive for anti-rHuPH20 antibodies tested positive for neutralizing antibodies.
 
-| ---The clinical relevance of the development of | anti-rituximab or | anti-rHuPH20 antibodies after |
+| The clinical relevance of the development of | anti-rituximab or | anti-rHuPH20 antibodies after |
 | --- | --- | --- |
 | treatment with MabThera subcutaneous formulation is not known. There was no impact of the |  |  |
 | presence of anti-rituximab or anti-rHuPH20 antibodies on safety, efficacy or PK of MabThera. |  |  |
@@ -699,7 +690,7 @@ Table 2a First--line treatment of chronic lymphocytic leukaemia
 | Efficacy Parameter | Kaplan-Meier Estimate of Median Time to Event (Months) |  |  | Risk Reduction |
 | --- | --- | --- | --- | --- |
 |  | FC (N = 409) | R-FC (N=408) | Log-Rank p value |  |
-| Progression‐�‐free survival (PFS) | 32.8 | 55.3 | <0.0001 | 45% |
+| Progression-‑ -free survival (PFS) | 32.8 | 55.3 | <0.0001 | 45% |
 | Overall survival | NR | NR | 0.0319 | 27% |
 | Event free survival | 31.3 | 51.8 | <0.0001 | 44% |
 | Response rate (CR, nPR, or PR) CR rates | 72.6% 16.9% | 85.8% 36.0% | <0.0001 <0.0001 | n.a. n.a. |
@@ -709,7 +700,12 @@ Table 2a First--line treatment of chronic lymphocytic leukaemia
 
 Table 2b First-line treatment of chronic lymphocytic leukaemia
 
-R‐‐FC
+| Progression-free survival (PFS) | Number of patients |  | Hazard Ratio (95% CI) | p-value (Wald test, not adjusted) |
+| --- | --- | --- | --- | --- |
+|  | FC | R--FC |  |  |
+| Binet stage A | 22 | 18 | 0.39 (0.15; 0.98) | 0.0442 |
+| Binet stage B | 259 | 263 | 0.52 (0.41; 0.66) | <0.0001 |
+| Binet stage C | 126 | 126 | 0.68 (0.49; 0.95) | 0.0224 |
 
 In the relapsed/refractory study, the median progression-free survival (primary endpoint) was 30.6 months in the R-FC group and 20.6 months in the FC group (p=0.0002, log--rank test).
 No PK/clinical data are available in patients with a refractory or relapsing disease.
@@ -718,13 +714,12 @@ Table 3 Treatment of relapsed/refractory chronic lymphocytic leukaemia -overview
 | Efficacy Parameter | Kaplan--Meier Estimate of Median Time to Event (Months) |  |  | Risk Reduction |
 | --- | --- | --- | --- | --- |
 |  | FC (N = 276) | R--FC (N=276) | Log--Rank p value |  |
-| Progression‐‐free survival (PFS) | 20.6 | 30.6 | 0.0002 | 35% |
+| Progression--free survival (PFS) | 20.6 | 30.6 | 0.0002 | 35% |
 | Overall survival | 51.9 | NR | 0.2874 | 17% |
 | Event free survival | 19.3 | 28.7 | 0.0002 | 36% |
 | Response rate (CR, nPR, or PR) | 58.0% | 69.9% | 0.0034 | n.a. |
 | CR rates | 13.0% | 24.3% | 0.0007 | n.a. |
-| Duration of response * Disease free survival (DFS)** | 27.6 42.2 | 39.6 39.6 | 0.0252 0.8842 | 31% |
-| Time to new CLL treatment | 34.2 | NR | 0.0024 | ‐‐6% 35% |
+| Duration of response * Disease free survival (DFS)** Time to new CLL treatment | 27.6 42.2 34.2 | 39.6 39.6 NR | 0.0252 0.8842 0.0024 | 31% --6% 35% |
 
 Response rate and CR rates analysed using Chi--squared Test.
 

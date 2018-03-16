@@ -7,7 +7,6 @@ For mixing the solution, gently invert the bag in order to avoid foaming.
 Care must be taken to ensure the sterility of prepared solutions.
 Since the medicinal product does not contain any anti-microbial preservative or bacteriostatic agents, aseptic technique must be observed.
 Parenteral medicinal products should be inspected visually for particulate matter and discolouration prior to administration.
-
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 [MabThera 500 mg concentrate for solution for infusion]
@@ -21,7 +20,7 @@ This sticker should be removed from the vial and stuck onto the syringe prior to
 The following points should be strictly adhered to regarding the use and disposal of syringes and other medicinal sharps:
 
 - Needles and syringes should never be reused
-- Place all used needles and syringes into a sharps container (puncture‐proof disposable container).
+- Place all used needles and syringes into a sharps container (puncture-proof disposable container).
 
 [MabThera 1600 mg solution for subcutaneous injection]
 

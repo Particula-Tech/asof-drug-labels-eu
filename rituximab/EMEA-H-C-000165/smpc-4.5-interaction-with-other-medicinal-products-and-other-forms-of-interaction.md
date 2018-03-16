@@ -6,6 +6,7 @@ In CLL patients, co-administration with MabThera did not appear to have an effec
 In addition, there was no apparent effect of fludarabine and cyclophosphamide on the pharmacokinetics of MabThera.
 
 Co-administration with methotrexate had no effect on the pharmacokinetics of MabThera in rheumatoid arthritis patients.
+
 Patients with human anti-mouse antibody or human anti-chimeric antibody (HAMA/HACA) titres may have allergic or hypersensitivity reactions when treated with other diagnostic or therapeutic monoclonal antibodies.
 
 In patients with rheumatoid arthritis, 283 patients received subsequent therapy with a biologic DMARD following MabThera.

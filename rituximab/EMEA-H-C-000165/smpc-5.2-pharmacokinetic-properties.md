@@ -34,18 +34,18 @@ No pharmacokinetic data are available in patients with hepatic or renal impairme
 
 The pharmacokinetics of rituximab were assessed following two intravenous (IV) doses of 500 mg and 1000 mg on Days 1 and 15 in four studies.
 In all these studies, rituximab pharmacokinetics were dose proportional over the limited dose range studied.
-Mean Cmax for serum rituximab following first infusion ranged from 157 to 171 μg/mL for 2 x 500 mg dose and ranged from 298 to 341 μg/mL for 2 x 1000 mg dose.
-Following second infusion, mean Cmax ranged from 183 to 198 μg/mL for the 2 × 500 mg dose and ranged from 355 to 404 μg/mL for the 2 × 1000 mg dose.
+Mean Cmax for serum rituximab following first infusion ranged from 157 to 171 µg/mL for 2 x 500 mg dose and ranged from 298 to 341 µg/mL for 2 x 1000 mg dose.
+Following second infusion, mean Cmax ranged from 183 to 198 µg/mL for the 2 × 500 mg dose and ranged from 355 to 404 µg/mL for the 2 × 1000 mg dose.
 Mean terminal elimination half-life ranged from 15 to 16 days for the 2 x 500 mg dose group and 17 to 21 days for the 2 × 1000 mg dose group.
 Mean Cmax was 16 to 19% higher following second infusion compared to the first infusion for both doses.
 
 The pharmacokinetics of rituximab were assessed following two IV doses of 500 mg and 1000 mg upon re-treatment in the second course.
-Mean Cmax for serum rituximab following first infusion was 170 to 175 μg/mL for 2 x 500 mg dose and 317 to 370 μg/mL for 2 x 1000 mg dose.
-Cmax following second infusion, was 207 μg/mL for the 2 x 500 mg dose and ranged from 377 to 386 μg/mL for the 2 x 1000 mg dose.
+Mean Cmax for serum rituximab following first infusion was 170 to 175 µg/mL for 2 x 500 mg dose and 317 to 370 µg/mL for 2 x 1000 mg dose.
+Cmax following second infusion, was 207 µg/mL for the 2 x 500 mg dose and ranged from 377 to 386 µg/mL for the 2 x 1000 mg dose.
 Mean terminal elimination half-life after the second infusion, following the second course, was 19 days for 2 x 500 mg dose and ranged from 21 to 22 days for the 2 x 1000 mg dose.
 PK parameters for rituximab were comparable over the two treatment courses.
 
-The pharmacokinetic (PK) parameters in the anti-TNF inadequate responder population, following the same dosage regimen (2 x 1000 mg, IV, 2 weeks apart), were similar with a mean maximum serum concentration of 369 μg/mL and a mean terminal half-life of 19.2 days.
+The pharmacokinetic (PK) parameters in the anti-TNF inadequate responder population, following the same dosage regimen (2 x 1000 mg, IV, 2 weeks apart), were similar with a mean maximum serum concentration of 369 µg/mL and a mean terminal half-life of 19.2 days.
 
 Granulomatosis with polyangiitis and microscopic polyangiitis
 
@@ -72,6 +72,7 @@ A two-stage phase Ib trial to investigate the pharmacokinetics, safety and toler
 In stage 2, MabThera subcutaneous formulation at a fixed dose of 1400 mg was administered as subcutaneous injection during maintenance treatment, after at least one cycle of MabThera intravenous formulation to FL patients who had previously responded to MabThera intravenous formulation in induction.
 
 The comparison of predicted median Cmax data for MabThera subcutaneous formulation and intravenous formulation are summarized in Table 7.
+
 Table 7: Trial BP22333 (SparkThera): Absorption - Pharmacokinetic parameters of MabThera SC compared to MabThera IV
 
 MabThera MabThera
@@ -90,7 +91,6 @@ The serum rituximab Cmax at cycle 7 was similar between the two treatment arms, 
 Distribution/Elimination
 
 Geometric mean Ctrough and geometric mean AUCτ from the BP22333 and BO22334 trials are summarized in Table 8.
-
 Table 8: Distribution/Elimination - Pharmacokinetic parameters of MabThera subcutaneous compared to MabThera intravenous
 
 Geometric Geometric Geometric Geometric
@@ -103,10 +103,8 @@ formulation
 MabThera 25.9 10.9 4012 3947
 intravenous
 Geometric mean Geometric mean
-AUC values at cycle 7
-µg.day/mL
-Ctrough values at pre‐dose cycle 8
-µg/mL
+Ctrough values at pre-dose cycle 8 AUC values at cycle 7
+µg/mL µg.day/mL
 MabThera 134.6 3778
 MabThera 83.1 2734
 
@@ -134,7 +132,7 @@ Anti-rituximab antibodies were detected in only 13 patients and did not result i
 MabThera at a fixed dose of 1600 mg was administered for 5 cycles subcutaneously at 4-weekly intervals, following the first cycle of MabThera intravenous formulation, in previously untreated CLL patients in combination with chemotherapy (fludarabine and cyclophosphamide (FC).
 The serum MabThera Cmax at Cycle 6 was lower in the subcutaneous arm than the intravenous, with geometric mean (CV%) values of 202 (36.1) μg/mL and 280 (24.6) μg/mL with the resulting geometric mean ratio (Cmax, SC/Cmax, IV) of 0.719 (90% CI: 0.653, 0.792).
 The geometric mean tmax in the MabThera subcutaneous group was approximately 3 days as compared to the tmax occuring at or close to the end of the infusion for the MabThera intravenous group.
-The geometric mean Ctrough (CV%) values at Cycle 5 (pre-dose Cycle 6) were higher among the MabThera subcutaneous group than the MabThera intravenous group; 97.5 μg/mL (42.6) versus 61.5 μg/mL (63.9) respectively with a resulting adjusted geometric mean ratio [90% CI] of 1.53 [1.27-1.85].
+The geometric mean Ctrough (CV%) values at Cycle 5 (pre-dose Cycle 6) were higher among the MabThera subcutaneous group than the MabThera intravenous group; 97.5 µg/mL (42.6) versus 61.5 µg/mL (63.9) respectively with a resulting adjusted geometric mean ratio [90% CI] of 1.53 [1.27-1.85].
 Similarly, the geometric mean AUC (CV%) values at Cycle 6 were higher among the subcutaneous group than the intravenous group; 4088 µg•day/mL (34.2) versus 3630 µg•day/mL (32.8) respectively) with a resulting adjusted geometric mean ratio [90% CI] of 1.10 [0.98-1.24].
 Based on popPK analysis of study BO25341 (SAWYER) an absolute bioavailability of 68.4% was estimated.
 

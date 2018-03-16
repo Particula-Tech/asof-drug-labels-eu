@@ -1,11 +1,14 @@
 # 4.4 Special warnings and precautions for use
 
 In order to improve traceability of biological medicinal products, the tradename and batch number of the administered product should be clearly recorded (or stated) in the patient file.
+Excipients: This medicinal product contains 2.3 mmol (or 52.6 mg ) sodium per 10 mL vial.
+To be taken into consideration by patients on a controlled sodium diet.
 
 Progressive multifocal leukoencephalopathy
 
 All patients treated with MabThera for rheumatoid arthritis, granulomatosis with polyangiitis and microscopic polyangiitis must be given the patient alert card with each infusion.
 The alert card contains important safety information for patients regarding potential increased risk of infections, including progressive multifocal leukoencephalopathy (PML).
+
 Very rare cases of fatal PML have been reported following use of MabThera.
 Patients must be monitored at regular intervals for any new or worsening neurological symptoms or signs that may be suggestive of PML.
 If PML is suspected, further dosing must be suspended until PML has been excluded.
@@ -25,7 +28,7 @@ It remains unknown if early detection of PML and suspension of MabThera therapy 
 Non-Hodgkin’s lymphoma and chronic lymphocytic leukaemia
 
 Infusion related reactions
-MabThera is associated with infusionrelated reactions, which may be related to release of cytokines and/or other chemical mediators.
+MabThera is associated with infusion-related reactions, which may be related to release of cytokines and/or other chemical mediators.
 Cytokine release syndrome may be clinically indistinguishable from acute hypersensitivity reactions.
 
 This set of reactions which includes syndrome of cytokine release, tumour lysis syndrome and anaphylactic and hypersensitivity reactions are described below.
@@ -74,7 +77,6 @@ Regular full blood counts, including neutrophil and platelet counts, should be p
 Infections
 Serious infections, including fatalities, can occur during therapy with MabThera (see section 4.8).
 MabThera should not be administered to patients with an active, severe infection (e.g. tuberculosis, sepsis and opportunistic infections, see section 4.3).
-
 Physicians should exercise caution when considering the use of MabThera in patients with a history of recurring or chronic infections or with underlying conditions which may further predispose patients to serious infection (see section 4.8).
 
 Cases of hepatitis B reactivation have been reported in subjects receiving MabThera including fulminant hepatitis with fatal outcome.
@@ -121,6 +123,7 @@ The reactions reported were usually reversible with a reduction in rate, or inte
 Closely monitor patients with pre-existing cardiac conditions and those who experienced prior cardiopulmonary adverse reactions.
 Depending on the severity of the IRR and the required interventions, temporarily or permanently discontinue MabThera.
 In most cases, the infusion can be resumed at a 50 % reduction in rate (e.g. from 100 mg/h to 50 mg/h) when symptoms have completely resolved.
+
 Medicinal products for the treatment of hypersensitivity reactions, e.g. epinephrine (adrenaline), antihistamines and glucocorticoids, should be available for immediate use in the event of an allergic reaction during administration of MabThera.
 
 There are no data on the safety of MabThera in patients with moderate heart failure (NYHA class III) or severe, uncontrolled cardiovascular disease.
@@ -148,12 +151,12 @@ Very rare cases of fatal progressive multifocal leukoencephalopathy (PML) have b
 
 Hepatitis B Infections
 Cases of hepatitis B reactivation, including those with a fatal outcome, have been reported in rheumatoid arthritis, granulomatosis with polyangiitis and microscopic polyangiitis patients receiving MabThera.
-
 Hepatitis B virus (HBV) screening should be performed in all patients before initiation of treatment with MabThera.
 At minimum this should include HBsAg-status and HBcAb-status.
 These can be complemented with other appropriate markers as per local guidelines.
 Patients with active hepatitis B disease should not be treated with MabThera.
 Patients with positive hepatitis B serology (either HBsAg or HBcAb) should consult liver disease experts before start of treatment and should be monitored and managed following local medical standards to prevent hepatitis B reactivation.
+
 Late neutropenia
 Measure blood neutrophils prior to each course of MabThera, and regularly up to 6-months after cessation of treatment, and upon signs or symptoms of infection (see section 4.8).
 
@@ -187,6 +190,8 @@ On the basis of limited experience with MabThera in rheumatoid arthritis patient
 However, the possible risk for the development of solid tumours cannot be excluded at this time.
 
 [MabThera 500 mg concentrate for solution for infusion]
+
+Excipients: This medicinal product contains 11.5 mmol (or 263.2 mg ) sodium per 50 mL vial.
 
 Very rare cases of fatal PML have been reported following the use of MabThera.
 
@@ -267,15 +272,8 @@ In case of such an event, with suspected relationship to MabThera, treatment sho
 [MabThera 1600 mg solution for subcutaneous injection]
 
 The information provided in the section 4.4 pertains to the use of MabThera subcutaneous formulation in the approved indications Treatment of non Hodgkin lymphoma (strength 1400 mg) and Treatment of CLL (strength 1600 mg).
--
 
 Patients with a high tumour burden or with a high number (≥25 x 109/L) of circulating malignant cells, such as patients with CLL who may be at higher risk of especially severe cytokine release syndrome, should be treated with extreme caution.
-
-Before starting MabThera subcutaneous injections, all patients must always receive beforehand, a full
-dose of MabThera by intravenous infusion, using MabThera intravenous formulation. The highest risk
-of experiencing an administration related reaction is generally observed at cycle one. Beginning the
-therapy with MabThera intravenous infusion would allow a better handling of the administration
-reactions by slowing or stopping the intravenous infusion.
 
 The majority of these patients were also
 

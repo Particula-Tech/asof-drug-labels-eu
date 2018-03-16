@@ -6,6 +6,7 @@ Summary of the safety profile
 
 The overall safety profile of MabThera in non-Hodgkin’s lymphoma and CLL is based on data from patients from clinical trials and from post-marketing surveillance.
 These patients were treated either with MabThera monotherapy (as induction treatment or maintenance treatment following induction treatment) or in combination with chemotherapy.
+
 The most frequently observed adverse drug reactions (ADRs) in patients receiving MabThera were IRRs which occurred in the majority of patients during the first infusion.
 The incidence of infusion-related symptoms decreases substantially with subsequent infusions and is less than 1% after eight doses of MabThera.
 
@@ -27,20 +28,19 @@ Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to
 < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1000), very rare (< 1/10,000) and not known (cannot be estimated from the available data).
 
 The ADRs identified only during post-marketing surveillance, and for which a frequency could not be estimated, are listed under “not known”.
-
 Table 1 ADRs reported in clinical trials or during postmarketing surveillance in patients with NHL and CLL disease treated with MabThera monotherapy/maintenance or in combination with chemotherapy
 
 | System Organ Class | Very Common | Common | Uncommon | Rare | Very Rare | Not known |
 | --- | --- | --- | --- | --- | --- | --- |
 | Infections and infestations | bacterial infections, viral infections, +bronchitis | sepsis, +pneumonia, +febrile infection, +herpes zoster, +respiratory tract infection, fungal infections, infections of unknown aetiology, +acute bronchitis, +sinusitis, hepatitis B1 |  | serious viral infection2 Pneumocystis jirovecii | PML |  |
 | Blood and lymphatic system disorders | neutropenia, leucopenia, +febrile neutropenia, +thrombocyt openia | anaemia, +pancytopenia, +granulocytopeni a | coagulation disorders, aplastic anaemia, haemolytic anaemia, lymphadenopa thy |  | transient increase in serum IgM levels3 | late neutropenia3 |
-| Immune system disorders | infusion related reactions4, angioedema | hypersensitivity |  | anaphylaxis | tumour lysis syndrome, cytokine release syndrome4, serum sickness | infusion-related acute reversible 4thrombocytopenia |
+| Immune system disorders | infusion related reactions4, angioedema | hypersensitivity |  | anaphylaxis | tumour lysis syndrome, cytokine release syndrome4, serum sickness | infusion-related acute reversible t4h rombocytopenia |
 | Metabolism and nutrition disorders |  | hyperglycaemia, weight decrease, peripheral oedema, face oedema, increased LDH, hypocalcaemia |  |  |  |  |
 | Psychiatric disorders |  |  | depression, nervousness, |  |  |  |
 | Nervous system disorders |  | paraesthesia, hypoaesthesia, agitation, insomnia, vasodilatation, dizziness, anxiety | Dysgeusia |  | peripheral neuropathy, facial nerve palsy5 | cranial neuropathy, loss of other senses5 |
 | Eye disorders |  | lacrimation disorder, conjunctivitis |  |  | severe vision loss5 |  |
 | Ear and labyrinth disorders |  | tinnitus, ear pain |  |  |  | hearing loss5 |
-| Cardiac disorders |  | +myocardial infarction4 and 6, arrhythmia, +atrial fibrillation, tachycardia, +cardiac disorder | +left ventricular failure, +supraventricu lar tachycardia, +ventricular tachycardia, +angina, +myocardial ischaemia, bradycardia | severe cardiac disorders 4 and 6 | ahneda 6rt failure4 |  |
+| Cardiac disorders |  | +myocardial infarction4 and 6, arrhythmia, +atrial fibrillation, tachycardia, +cardiac disorder | +left ventricular failure, +supraventricu lar tachycardia, +ventricular tachycardia, +angina, +myocardial ischaemia, bradycardia | severe cardiac disorders 4 and 6 | haned a6r t failure4 |  |
 | Vascular disorders |  | hypertension, orthostatic hypotension, hypotension |  |  | vasculitis (predominatel y cutaneous), leukocytoclast ic vasculitis |  |
 | Respiratory, thoracic and mediastinal disorders |  | Bronchospasm4, respiratory disease, chest pain, dyspnoea, increased cough, rhinitis | asthma, bronchiolitis obliterans, lung disorder, hypoxia | interstitial lung disease7 | respiratory failure4, | lung infiltration, |
 | Gastrointestin al disorders | nausea | vomiting , diarrhoea, abdominal pain, dysphagia, stomatitis, constipation, dyspepsia, anorexia, throat irritation | abdominal enlargement |  | gastro-intestin al perforation7 |  |
@@ -82,7 +82,7 @@ Haematologic adverse reactions
 In clinical trials with MabThera monotherapy given for 4 weeks, haematological abnormalities occurred in a minority of patients and were usually mild and reversible.
 Severe (grade 3/4) neutropenia was reported in 4.2%, anaemia in 1.1% and thrombocytopenia in 1.7 % of the patients.
 During MabThera maintenance treatment for up to 2 years, leucopenia (5% vs. 2%, grade 3/4) and neutropenia (10% vs. 4 %, grade 3/4) were reported at a higher incidence when compared to observation.
-The incidence of thrombocytopenia was low (<1%, grade 3/4%) and was not different between treatment arms.
+The incidence of thrombocytopenia was low (<1%, grade 3/4) and was not different between treatment arms.
 During the treatment course in studies with MabThera in combination with chemotherapy, grade 3/4 leucopenia (R-CHOP 88% vs. CHOP 79%, R-FC 23% vs. FC 12%), neutropenia (R-CVP 24% vs. CVP 14%; R-CHOP 97% vs. CHOP 88%, R-FC 30% vs. FC 19% in previously untreated CLL), pancytopenia (R-FC 3% vs. FC 1% in previously untreated CLL) were usually reported with higher frequencies when compared to chemotherapy alone.
 However, the higher incidence of neutropenia in patients treated with MabThera and chemotherapy was not associated with a higher incidence of infections and infestations compared to patients treated with chemotherapy alone.
 Studies in previously untreated and relapsed/refractory CLL have established that in up to 25% of patients treated with R-FC neutropenia was prolonged (defined as neutrophil count remaining below 1x109/L between day 24 and 42 after the last dose) or occurred with a late onset (defined as neutrophil count below 1x109/L later than 42 days after last dose in patients with no previous prolonged neutropenia or who recovered prior to day 42) following treatment with MabThera plus FC.
@@ -108,7 +108,7 @@ Respiratory system
 Cases of interstitial lung disease, some with fatal outcome have been reported.
 
 Neurologic disorders
-During the treatment period (induction treatment phase comprising of R-CHOP for at most eight cycles), four patients (2 %) treated with R-CHOP, all with cardiovascular risk factors, experienced thromboembolic cerebrovascular accidents during the first treatment cycle.
+During the treatment period (induction treatment phase comprising of R-CHOP for at most eight cycles), four patients (2%) treated with R-CHOP, all with cardiovascular risk factors, experienced thromboembolic cerebrovascular accidents during the first treatment cycle.
 There was no difference between the treatment groups in the incidence of other thromboembolic events.
 In contrast, three patients (1.5%) had cerebrovascular events in the CHOP group, all of which occurred during the follow-up period.
 In CLL, the overall incidence of grade 3 or 4 nervous system disorders was low both in the first-line study (4% R-FC, 4% FC) and in the relapsed/refractory study (3% R-FC, 3% FC).
@@ -140,6 +140,7 @@ The incidence of ADRs of all grades and grade 3 /4 ADR was similar in elderly pa
 Bulky disease
 There was a higher incidence of grade 3/4 ADRs in patients with bulky disease than in patients without bulky disease (25.6 % vs. 15.4 %).
 The incidence of ADRs of any grade was similar in these two groups.
+
 Re-treatment
 The percentage of patients reporting ADRs upon re-treatment with further courses of MabThera was similar to the percentage of patients reporting ADRs upon initial exposure (any grade and grade 3/4 ADRs).
 
@@ -159,7 +160,6 @@ The safety information collected during post marketing experience reflects the e
 
 Patients received 2 x 1000 mg of MabThera separated by an interval of two weeks; in addition to methotrexate (10-25 mg/week).
 MabThera infusions were administered after an intravenous infusion of 100 mg methylprednisolone; patients also received treatment with oral prednisone for 15 days.
-
 Tabulated list of adverse reactions
 
 Adverse reactions are listed in Table 2.
@@ -170,6 +170,7 @@ The most frequent adverse reactions considered due to receipt of MabThera were I
 The overall incidence of IRRs in clinical trials was 23% with the first infusion and decreased with subsequent infusions.
 Serious IRRs were uncommon (0.5% of patients) and were predominantly seen during the initial course.
 In addition to adverse reactions seen in RA clinical trials for MabThera, progressive multifocal leukoencephalopathy (PML) (see section 4.4) and serum sickness-like reaction have been reported during post marketing experience.
+
 Table 2 Summary of adverse drug reactions reported in clinical trials or during postmarketing surveillance occurring in patients with rheumatoid arthritis receiving MabThera
 
 | System Organ Class | Very Common | Common | Uncommon | Rare | Very rare |
@@ -219,7 +220,6 @@ Lower respiratory tract infections (including pneumonia) have been reported duri
 
 Cases of progressive multifocal leukoencephalopathy with fatal outcome have been reported following use of MabThera for the treatment of autoimmune diseases.
 This includes rheumatoid arthritis and off-label autoimmune diseases, including Systemic Lupus Erythematosus (SLE) and vasculitis.
-
 In patients with non-Hodgkin’s lymphoma receiving MabThera in combination with cytotoxic chemotherapy, cases of hepatitis B reactivation have been reported (see non-Hodgkin’s lymphoma).
 Reactivation of hepatitis B infection has also been very rarely reported in RA patients receiving MabThera (see Section 4.4).
 
@@ -232,6 +232,7 @@ Cases of posterior reversible encephalopathy syndrome (PRES) / reversible poster
 Signs and symptoms included visual disturbance, headache, seizures and altered mental status, with or without associated hypertension.
 A diagnosis of PRES/RPLS requires confirmation by brain imaging.
 The reported cases had recognised risk factors for PRES/RPLS, including the patients’ underlying disease, hypertension, immunosuppressive therapy and/or chemotherapy.
+
 Neutropenia
 Events of neutropenia were observed with MabThera treatment, the majority of which were transient and mild or moderate in severity.
 Neutropenia can occur several months after the administration of MabThera (see section 4.4).
@@ -257,7 +258,6 @@ In the clinical trial in granulomatosis with polyangiitis and microscopic polyan
 Tabulated list of adverse reactions
 
 The ADRs listed in Table 3 were all adverse events which occurred at an incidence of ≥ 5% in the MabThera group.
-
 Table 3 Adverse drug reactions occurring at 6-months in ≥ 5% of patients receiving MabThera, and at a higher frequency than the comparator group, in the pivotal clinical study.
 
 | Body system Adverse event | Rituximab (n=99) |
@@ -318,6 +318,7 @@ In the 99 MabThera patients, the overall rate of infection was approximately 237
 Infections were predominately mild to moderate and consisted mostly of upper respiratory tract infections, herpes zoster and urinary tract infections.
 The rate of serious infections was approximately 25 per 100 patient years.
 The most frequently reported serious infection in the MabThera group was pneumonia at a frequency of 4%.
+
 Malignancies
 The incidence of malignancy in MabThera treated patients in the granulomatosis with polyangiitis and microscopic polyangiitis clinical study was 2.00 per 100 patient years at the study common closing date (when the final patient had completed the follow-up period).
 On the basis of standardized incidence ratios, the incidence of malignancies appears to be similar to that previously reported in patients with ANCA-associated vasculitis.
@@ -363,13 +364,13 @@ Infectious events (predominantly bacterial and viral) occurred in approximately 
 | --- | --- | --- | --- | --- | --- | --- |
 | Infections and infestations | bacterial infections, viral infections, +bronchitis | sepsis, +pneumonia, +febrile infection, +herpes zoster, +respiratory tract infection, fungal infections, infections of unknown aetiology, +acute bronchitis, +sinusitis, hepatitis B1 |  | serious viral infection2 Pneumocystis jirovecii | PML |  |
 | Blood and lymphatic system disorders | neutropenia, leucopenia, +febrile neutropenia, +thrombocyt openia | anaemia, +pancytopenia, +granulocytopeni a | coagulation disorders, aplastic anaemia, haemolytic anaemia, lymphadenopa thy |  | transient increase in serum IgM levels3 | late neutropenia3 |
-| Immune system disorders | infusion related reactions4, angioedema | hypersensitivity |  | anaphylaxis | tumour lysis syndrome, cytokine release syndrome4, serum sickness | infusion-related acute reversible 4thrombocytopenia |
+| Immune system disorders | infusion related reactions4, angioedema | hypersensitivity |  | anaphylaxis | tumour lysis syndrome, cytokine release syndrome4, serum sickness | infusion-related acute reversible t4h rombocytopenia |
 | Metabolism and nutrition disorders |  | hyperglycaemia, weight decrease, peripheral oedema, face oedema, increased LDH, hypocalcaemia |  |  |  |  |
 | Psychiatric disorders |  |  | depression, nervousness, |  |  |  |
 | Nervous system disorders |  | paraesthesia, hypoaesthesia, agitation, insomnia, vasodilatation, dizziness, anxiety | dysgeusia |  | peripheral neuropathy, facial nerve palsy5 | cranial neuropathy8, loss of other senses5 |
 | Eye disorders |  | lacrimation disorder, conjunctivitis |  |  | severe vision loss5 |  |
 | Ear and labyrinth disorders |  | tinnitus, ear pain |  |  |  | hearing loss5 |
-| Cardiac disorders |  | +myocardial infarction4 and 6, arrhythmia, +atrial fibrillation, tachycardia, +cardiac disorder | +left ventricular failure, +supraventricu lar tachycardia, +ventricular tachycardia, +angina, +myocardial ischaemia, bradycardia | severe cardiac disoders 4 and 6 | haneda 6rt failure4 |  |
+| Cardiac disorders |  | +myocardial infarction4 and 6, arrhythmia, +atrial fibrillation, tachycardia, +cardiac disorder | +left ventricular failure, +supraventricu lar tachycardia, +ventricular tachycardia, +angina, +myocardial ischaemia, bradycardia | severe cardiac disoders 4 and 6 | haned a6r t failure4 |  |
 | Vascular disorders |  | hypertension, orthostatic hypotension, hypotension |  |  | vasculitis (predominatel y cutaneous), leukocytoclast ic vasculiti |  |
 | Respiratory, thoracic and mediastinal disorders |  | Bronchospasm4, respiratory disease, chest pain, dyspnoea, increased cough, rhinitis | asthma, bronchiolitis obliterans, lung disorder, hypoxia | interstitial lung disease7 | respiratory failure4 | lung infiltration |
 | Gastrointestin al disorders | nausea | vomiting , diarrhoea, abdominal pain, dysphagia, stomatitis, constipation, dyspepsia, anorexia, throat irritation | abdominal enlargement |  | gastro-intestin al perforation7 |  |
@@ -390,12 +391,12 @@ Severe (grade 3/4) neutropenia was reported in 4.2%, anaemia in 1.1% and thrombo
 During MabThera maintenance treatment for up to 2 years, leucopenia (5% vs. 2%, grade 3/4) and neutropenia (10% vs. 4%, grade 3/4) were reported at a higher incidence when compared to observation.
 The incidence of thrombocytopenia was low ( <1% , grade 3/4 ) and was not different between treatment arms.
 
+During the treatment period (induction treatment phase comprising of R-CHOP for at most eight cycles), four patients (2 %) treated with R-CHOP, all with cardiovascular risk factors, experienced thromboembolic cerebrovascular accidents during the first treatment cycle.
 In contrast, three patients (1.5 %) had cerebrovascular events in the CHOP group, all of which occurred during the follow-up period.
 
 Gastrointestinal perforation in some cases leading to death has been observed in patients receiving MabThera for treatment of non-Hodgkgin lymphoma.
 
 Frequencies are defined as very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100) and very rare (<1/10,000).
-
 The most frequent adverse reactions considered due to receipt of MabThera IRRs.
 
 | System Organ Class | Very Common | Common | Uncommon | Rare | Very rare |
@@ -456,13 +457,13 @@ Infectious events (predominantly bacterial and viral) occurred in approximately 
 | --- | --- | --- | --- | --- | --- | --- |
 | Infections and infestations | bacterial infections, viral infections, +bronchitis | sepsis, +pneumonia, +febrile infection, +herpes zoster, +respiratory tract infection, fungal infections, infections of unknown aetiology, +acute bronchitis, +sinusitis, hepatitis B1 |  | serious viral infection2 |  |  |
 | Blood and lymphatic system disorders | neutropenia, leucopenia, +febrile neutropenia, +thrombocyt openia | anaemia, +pancytopenia, +granulocytopeni a | coagulation disorders, aplastic anaemia, haemolytic anaemia, lymphadenopa thy |  | transient increase in serum IgM levels3 | late neutropenia3 |
-| Immune system disorders | infusion related reactions4, angioedema | hypersensitivity |  | anaphylaxis | tumour lysis syndrome, cytokine release syndrome4, serum sickness | infusion-related acute reversible t4hrombocytopenia |
+| Immune system disorders | infusion related reactions4, angioedema | hypersensitivity |  | anaphylaxis | tumour lysis syndrome, cytokine release syndrome4, serum sickness | infusion-related acute reversible t 4h rombocytopenia |
 | Metabolism and nutrition disorders |  | hyperglycaemia, weight decrease, peripheral oedema, face oedema, increased LDH, hypocalcaemia |  |  |  |  |
 | Psychiatric disorders |  |  | depression, nervousness, |  |  |  |
 | Nervous system disorders |  | paraesthesia, hypoaesthesia, agitation, insomnia, vasodilatation, dizziness, anxiety | dysgeusia |  | peripheral neuropathy, facial nerve palsy5 | cranial neuropathy, loss of other senses5 |
 | Eye disorders |  | lacrimation disorder, conjunctivitis |  |  | severe vision loss5 |  |
 | Ear and labyrinth disorders |  | tinnitus, ear pain |  |  |  | hearing loss5 |
-| Cardiac disorders |  | +myocardial infarction4 and 6, arrhythmia, +atrial fibrillation, tachycardia, +cardiac disorder | +left ventricular failure, +supraventricu lar tachycardia, +ventricular tachycardia, +angina, +myocardial ischaemia, bradycardia | severe cardiac disorders 4 and 6 | ahneda 6rt failure4 |  |
+| Cardiac disorders |  | +myocardial infarction4 and 6, arrhythmia, +atrial fibrillation, tachycardia, +cardiac disorder | +left ventricular failure, +supraventricu lar tachycardia, +ventricular tachycardia, +angina, +myocardial ischaemia, bradycardia | severe cardiac disorders 4 and 6 | haned a6r t failure4 |  |
 | Vascular disorders |  | hypertension, orthostatic hypotension, hypotension |  |  | vasculitis (predominatel y cutaneous), leukocytoclast ic vasculitis |  |
 | Respiratory, thoracic and mediastinal disorders |  | Bronchospasm4, respiratory disease, chest pain, dyspnoea, increased cough, rhinitis | asthma, bronchiolitis obliterans, lung disorder, hypoxia | interstitial lung disease7 | respiratory failure4, | lung infiltration, |
 | Gastrointestin al disorders | nausea | vomiting , diarrhoea, abdominal pain, dysphagia, stomatitis, constipation, dyspepsia, anorexia, throat irritation | abdominal enlargement |  | gastro-intestin al perforation7 |  |

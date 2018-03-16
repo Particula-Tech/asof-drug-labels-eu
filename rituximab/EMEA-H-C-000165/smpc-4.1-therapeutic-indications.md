@@ -16,6 +16,7 @@ Chronic lymphocytic leukaemia (CLL)
 
 MabThera in combination with chemotherapy is indicated for the treatment of patients with previously untreated and relapsed/refractory CLL.
 Only limited data are available on efficacy and safety for patients previously treated with monoclonal antibodies including MabThera or patients refractory to previous MabThera plus chemotherapy.
+
 See section 5.1 for further information.
 
 Rheumatoid arthritis
@@ -39,5 +40,3 @@ MabThera is indicated in adults for Non-Hodgkin’s lymphoma (NHL):
 [MabThera 1600 mg solution for subcutaneous injection]
 
 MabThera is indicated in adults in combination with chemotherapy for the treatment of patients with previously untreated and relapsed/refractory chronic lymphocytic leukaemia (CLL).
-
-.---
