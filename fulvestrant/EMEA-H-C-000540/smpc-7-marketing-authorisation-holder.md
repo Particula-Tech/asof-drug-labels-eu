@@ -1,8 +1,5 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-AstraZeneca UK Limited
-Charter Way,
-Macclesfield,
-Cheshire
-SK10 2NA
-United Kingdom
+AstraZeneca AB
+SE-151 85 Södertälje
+Sweden
