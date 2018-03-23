@@ -14,7 +14,7 @@ The table 2 summarises the ADRs that have been reported in association with the 
 Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000
 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and very rare (< 1/10,000). Within each System Organ
 Class, the adverse reactions are presented in order of decreasing frequency.
-Table 2 ADRs reported with Ocrevus (in RMS or PPMS)
+Table 2 ADRs Reported with Ocrevus (in RMS or PPMS)
 MedDRA Very Common Common
 System Organ Class (SOC)
 Infections and infestations Upper respiratory tract Sinusitis, bronchitis, oral
