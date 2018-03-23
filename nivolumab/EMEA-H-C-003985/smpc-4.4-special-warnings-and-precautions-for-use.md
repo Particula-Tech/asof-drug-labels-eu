@@ -158,7 +158,7 @@ Renal Cell Carcinoma
 Patients with any history of or concurrent brain metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the pivotal trial in RCC (see sections 4.5 and 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
-Classical Hodgkin lymphoma
+Classical Hodgkin Lymphoma
 Patients with active autoimmune disease and symptomatic interstitial lung disease were excluded from clinical trials of cHL.
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 

@@ -1,7 +1,7 @@
 # 6.3 Shelf life
 
 Unopened vial
-2 years.
+3 years.
 
 After opening
 From a microbiological point of view, once opened, the medicinal product should be infused or diluted and infused immediately.

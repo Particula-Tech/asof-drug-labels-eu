@@ -715,7 +715,7 @@ Months (range) 11.99 (0.0-27.6+) 11.99 (0.0+-22.2+)
 
 Median time to response
 
-Months (range) 3.5 (1.4-24.8) 3.7 (1,5-11,2)
+Months (range) 3.5 (1.4-24.8) 3.7 (1.5-11.2)
 
 Progression-free survival
 
@@ -735,75 +735,140 @@ Overall survival could be accompanied by an improvement over time in disease rel
 Apparently meaningful symptom improvement (MID = 2 point change in FKSI-DRS score; p < 0.001) and time to improvement (HR = 1.66 (1.33,2.08), p < 0.001) were significantly better for patients on the nivolumab arm.
 While both arms of the study received active therapy, the QoL data should be interpreted in the context of the open-label study design and therefore cautiously taken.
 
-Classical Hodgkin lymphoma
+Classical Hodgkin Lymphoma
 
-The safety and efficacy of nivolumab 3 mg/kg as a single agent for the treatment of relapsed or refractory cHL following ASCT and treatment with brentuximab vedotin was evaluated in two multicentre, open-label, single-arm studies (CA209205 and CA209039).
+The safety and efficacy of nivolumab 3 mg/kg as a single agent for the treatment of relapsed or refractory cHL following ASCT was evaluated in two multi-centre, open-label, single-arm studies (CA209205 and CA209039).
 
 CA209205 is an ongoing Phase 2, open-label, multi-cohort, single-arm study of nivolumab in cHL.
-Cohort B included 80 patients that received nivolumab 3 mg/kg monotherapy administered intravenously over 60 minutes every 2 weeks, following ASCT and brentuximab vedotin treatment.
+It includes 243 patients who had ASCT; Cohort A included 63 (26%) patients who were brentuximab vedotin naïve; Cohort B included 80 (33%) patients who had received brentuximab vedotin after ASCT failure; and Cohort C included 100 (41%) patients who had received brentuximab vedotin before and/or after ASCT out of which 33 (14%) patients received brentuximab vedotin only prior to ASCT.
+All patients received nivolumab 3 mg/kg monotherapy intravenously over 60 minutes every 2 weeks.
 The first tumour assessments were conducted 9 weeks after the start of treatment and continued thereafter until disease progression or treatment discontinuation.
-The primary efficacy outcome measure was ORR as determined by IRRC.
-Additional efficacy measures included duration of response.
+The primary efficacy outcome measure was ORR as determined by an IRRC.
+Additional efficacy measures included duration of response, PFS and OS.
 
-CA209039 was a Phase 1b open-label, multicenter, dose-escalation, and multidose study of nivolumab in relapsed/refractory hematologic malignancies, including 23 patients with cHL treated with nivolumab 3 mg/kg monotherapy; amongst which, 15 patients received prior brentuximab vedotin treatment as a salvage therapy following ASCT, similar to Cohort B of study CA209205.
+CA209039 is a Phase 1b open-label, multi-centre, dose-escalation, and multidose study of nivolumab in relapsed/refractory hematologic malignancies, including 23 patients with cHL treated with nivolumab 3 mg/kg monotherapy; amongst which, 15 patients received prior brentuximab vedotin treatment as a salvage therapy following ASCT, similar to Cohort B of study CA209205.
 The first tumour assessments were conducted 4 weeks after the start of treatment and continued thereafter until disease progression or treatment discontinuation.
 Efficacy assessments included investigator-assessed ORR, retrospectively evaluated by an IRRC, and duration of response.
 
 Data from the 80 patients from CA209205 Cohort B and from the 15 patients from CA209039 who received prior brentuximab vedotin treatment following ASCT were integrated.
-Baseline characteristics were similar across the two studies (see Table 11 below).
+Additional data from 100 patients from CA209205 Cohort C who received brentuximab before and/or after ASCT are also presented.
+Baseline characteristics were similar across the two studies and cohorts (see Table 11 below).
 
-Table 11: Baseline patient characteristics in CA209205 Cohort B and CA209039
+Table 11: Baseline patient characteristics in CA209205 Cohort B, Cohort C and CA209039
 
-CA209205 Cohort B CA209205 Cohort B a CA209039
-and CA209039 (n = 80) (n = 15)
-(n = 95)
-Median age, years (range) 37.0 (18–72) 37.0 (18–72) 40.0 (24–54)
-Gender 61 (64%)M / 34 (36%)F 51 (64%)M / 29 (36%)F 10 (67%)M / 5 (33%)F
-ECOG status
-0 49 (52%) 42 (52.5%) 7 (47%)
-1 46 (48%) 38 (47.5%) 8 (53%)
-≥5 prior lines of systemic therapy 49 (52%) 39 (49%) 10 (67%)
-Prior ASCT
-1 87 (92%) 74 (92.5%) 13 (87%)
-≥2 8 (8%) 6 (7.5%) 2 (13%)
-Years from most recent transplant 3.5 (0.2–19.0) 3.4 (0.2–19.0) 5.6 (0.5–15.0)
-to first dose of study therapy,
-median (min-max)
+|  | CA209205 | CA209205 | CA209039 | CA209205 |
+| --- | --- | --- | --- | --- |
+|  | Cohort B and | Cohort Ba |  | Cohort Cb |
+|  | CA209039 |  |  |  |
+|  | (n = 95) | (n = 80) | (n = 15) | (n = 100) |
+| Median age, years (range) | 37.0 (18–72) | 37.0 (18–72) | 40.0 (24–54) | 32.0 (19-69) |
+| Gender | 61 (64%) M | 51 (64%) M | 10 (67%) M | 56 (56%) M |
+|  | 34 (36%) F | 29 (36%) F | 5 (33%) F | 44 (44%) F |
+| ECOG status |  |  |  |  |
+| 0 | 49 (52%) | 42 (52.5%) | 7 (47%) | 50 (50%) |
+| 1 | 46 (48%) | 38 (47.5%) | 8 (53%) | 50 (50%) |
+| ≥ 5 prior lines of systemic | 49 (52%) | 39 (49%) | 10 (67%) | 30 (30%) |
+| therapy |  |  |  |  |
+| Prior radiation therapy | 72 (76%) | 59 (74%) | 13 (87%) | 69 (69%) |
+| Prior ASCT |  |  |  |  |
+| 1 | 87 (92%) | 74 (92.5%) | 13 (87%) | 100 (100%) |
+| ≥ 2 | 8 (8%) | 6 (7.5%) | 2 (13%) | 0 (0%) |
+| Years from most recent | 3.5 (0.2–19.0) | 3.4 (0.2–19.0) | 5.6 (0.5–15.0) | 1.7 (0.2-17.0) |
+| transplant to first dose of study |  |  |  |  |
+| therapy, median (min-max) |  |  |  |  |
 
-a 18/80 (25%) of the patients in CA209205 Cohort B presented B-Symptoms at baseline.
+a 18/80 (22.5%) of the patients in CA209205 Cohort B presented B-Symptoms at baseline.
+b 25/100 (25%) of the patients in CA209205 Cohort C presented B-Symptoms at baseline.
 
 Efficacy from both studies was evaluated by the same IRRC.
 Results are shown in Table 12.
+Table 12: Efficacy results in patients with relapsed/refractory classical Hodgkin lymphoma CA209205 Cohort Ba CA209205 Cohort Ba CA209039 and CA209039
 
-Table 12: Efficacy results in patients with relapsed/refractory classical Hodgkin lymphoma CA209205 Cohort Ba CA209205 Cohort Ba CA209039
-
-and CA209039 (n = 80) (n = 15)
-
-(n = 95)
-
-Objective Response Rate; (95% CI) 63 (66%); (56, 76) 54 (68%); (56, 78) 9 (60%); (32, 84)
-Complete Remission Rate; (95% CI) 6 (6%); (2, 13) 6 (8%); (3, 16) 0 (0%); (0, 22)
-Partial Remission Rate; (95% CI) 57 (60%); (49, 70) 48 (60%); (48, 71) 9 (60%); (32, 84)
+Number (n)/ minimum follow-up (months) (n = 95/12.0) (n = 80/12.0) (n = 15/12.0)
+Objective response, n (%); (95% CI) 63 (66%); (56, 76) 54 (68%); (56, 78) 9 (60%); (32, 84)
+Complete remission (CR), n (%); (95% CI) 6 (6%); (2, 13) 6 (8%); (3, 16) 0 (0%); (0, 22)
+Partial remission (PR), n (%); (95% CI) 57 (60%); (49, 70) 48 (60%); (48, 71) 9 (60%); (32, 84)
 Stable disease, n (%) 22 (23) 17 (21) 5 (33)
-Median Duration of Response (months)b 13.1 13.1 12.0
-(95% CI) (9.5, NE) (8.7, NE) (1.8, NE)
-Min, Max 0.0+, 23.1+ 0.0+, 14.2+ 1.8, 23.1+
-Median Time to Response (months) 2.0 2.1 0.8
-Min, Max 0.7, 11.1 1.6, 11.1 0.7, 4.1
-Median Duration of Follow-up (months) 15.8 15.4 21.9
-Range (months) 1.9 to 27.6 1.9 to 18.5 11.2 to 27.6
-PFS rate at 12 months 57 55 69
-(95% CI) (45, 68) (41, 66) (37, 88)
 
-a Follow-up was ongoing at the time of data submission b Data unstable due to the limited duration of response for Cohort B resulting from censoring.
-Nine patients received transplant (6 in CA209205 and 3 in CA209039) as subsequent therapy.
+Duration of response (months)b
 
-In a post-hoc analysis of the 80 patients in CA209205 Cohort B, it was found that 37 had no response to prior brentuximab vedotin treatment.
+Median (95% CI) 13.1 (9.5, NE) 13.1 (8.7, NE) 12.0 (1.8, NE)
+Range 0.0+-23.1+ 0.0+-14.2+ 1.8-23.1+
+
+Median time to response
+
+Months (range) 2.0 (0.7-11.1) 2.1 (1.6-11.1) 0.8 (0.7-4.1)
+
+Median duration of follow-up
+
+Months (range) 15.8 (1.9-27.6) 15.4 (1.9-18.5) 21.9 (11.2-27.6)
+
+Progression-free survival
+
+Rate (95% CI) at 12 months 57 (45, 68) 55 (41, 66) 69 (37, 88)
+
+“+” denotes a censored observation.
+a Follow-up was ongoing at the time of data submission.
+b Data unstable due to the limited duration of response for Cohort B resulting from censoring.
+NE = non-estimable
+
+Longer follow-up data from Cohort B (minimum 20.5 months) and efficacy of Cohort C from CA209205 are presented below in Table 13.
+Table 13: Updated efficacy results in patients with relapsed/refractory classical Hodgkin lymphoma from longer follow up of study CA209205
+
+CA209205 Cohort Ba CA209205 Cohort Ca
+Number (n)/ minimum follow-up (months) (n = 80/20.5) (n = 100/13.7)b
+Objective response, n (%); (95% CI) 54 (68%); (56, 78) 73 (73%); (63, 81)
+Complete remission (CR), n (%); (95% CI) 10 (13%); (6, 22) 12 (12%); (6, 20)
+Partial remission (PR), n (%); (95% CI) 44 (55%); (44, 66) 61 (61%); (51, 71)
+Stable disease, n (%) 17 (21) 15 (15%)
+
+Duration of response in all responders
+(months)c
+
+Median (95% CI) 15.9 (7.8, 20.3) 14.5 (9.5, 16.6)
+Range 0.0+-21.0+ (0.0+, 16.8+)
+
+Duration of response in CR (months)
+
+Median (95% CI) 20.3 (3.8, NE) 14.5 (8.2, NE)
+Range 1.6+-21.0+ (0.0+, 16.5+)
+
+Duration of response in PR (months)
+
+Median (95% CI) 10.6 (6.8, 18.0) 13.2 (9.4, 16.6)
+Range 0.0+-20.7+ (0.0+, 16.8+)
+
+Median time to response
+
+Months (range) 2.2 (1.6-9.1) 2.1 (0.8, 8.6)
+
+Median duration of follow-up
+
+Months (range) 22.7 (1.9-27.2) 16.2 (1.4, 20.4)
+
+Progression- free survival
+
+Rate (95% CI) at 12 months 51 (38, 62) 49 (37, 60)
+Rate (95% CI) at 18 months 47 (35, 59) –
+
+Overall survival
+
+Median Not reached Not reached
+Rate (95% CI) at 12 months 95 (87, 98) 90 (82, 94)
+Rate (95% CI) at 18 months 91 (82, 96) –
+
+“+” denotes a censored observation.
+a Follow-up was ongoing at the time of data submission.
+b Patients in Cohort C (n = 33) who have received brentuximab vedotin only prior to ASCT had ORR of 70% (95% CI: 51, 84), CR of 15% (95% CI: 5, 32), PR of 55% (95% CI: 36, 72).
+Median duration of response was 13.2 months (95% CI: 8.2, NE) c Determined for subjects with CR or PR
+NE = non-estimable
+
+B-symptoms were present in 22% (53/243) of the patients in CA209205 at baseline.
+Nivolumab treatment resulted in rapid resolution of B-symptoms in 88.7% (47/53) of the patients, with a median time to resolution of 1.9 months.
+
+In a post-hoc analysis of the 80 patients in CA209205 Cohort B, 37 had no response to prior brentuximab vedotin treatment.
 Among these 37 patients, treatment with nivolumab resulted in an ORR of 59.5% (22/37).
-The median duration of response is 13.14 months (13.14, N.A.) for the 22 responders to nivolumab who had failed to achieve response with prior brentuximab vedotin treatment.
-
-B-symptoms were present in 25% (18/80) of the patients in CA209205 Cohort B at baseline.
-Nivolumab treatment resulted in rapid resolution of B-symptoms in 88.9% (16/18) of the patients, with a median time to resolution of 1.9 months.
+The median duration of response is 18.0 months (6.6, NE) for the 22 responders to nivolumab who had failed to achieve response with prior brentuximab vedotin treatment.
 
 Squamous Cell Cancer of the Head and Neck
 
@@ -832,7 +897,7 @@ Baseline ECOG performance status score was 0 (20%) or 1 (78%), 77% were former/c
 
 With a minimum follow-up of 11.4 months, the trial demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with investigator’s choice.
 The Kaplan-Meier curves for OS are shown in Figure 10.
-Efficacy results are shown in Table 13.
+Efficacy results are shown in Table 14.
 Figure 10: Kaplan-Meier curves of OS (CA209141)
 
 Overall Survival (Months)
@@ -845,7 +910,7 @@ Investigator’s choice
 
 Nivolumab 3 mg/kg (events: 184/240), median and 95% CI: 7.72 (5.68,8.77)
 Investigator’s choice (events: 105/121), median and 95% CI: 5.06 (4.04, 6.24)
-Table 13: Efficacy results (CA209141)
+Table 14: Efficacy results (CA209141)
 
 nivolumab investigator’s choice
 (n = 240) (n = 121)
@@ -893,8 +958,8 @@ Quantifiable tumour PD-L1 expression was measured in 67% of patients in the nivo
 Tumour PD-L1 expression levels were balanced between the two treatment groups (nivolumab vs. investigator’s choice) at each of the predefined tumour PD-L1 expression levels of ≥ 1% (55% vs. 62%), ≥ 5% (34% vs. 43%), or ≥ 10% (27% vs. 34%).
 
 Patients with tumour PD-L1 expression by all predefined expression levels in the nivolumab group demonstrated greater likelihood of improved survival compared to investigator’s choice.
-The magnitude of OS benefit was consistent for ≥ 1%, ≥ 5% or ≥ 10% tumour PD-L1 expression levels (see Table 14).
-Table 14: OS by tumour PD-L1 expression (CA209141)
+The magnitude of OS benefit was consistent for ≥ 1%, ≥ 5% or ≥ 10% tumour PD-L1 expression levels (see Table 15).
+Table 15: OS by tumour PD-L1 expression (CA209141)
 
 | PD-L1 Expression | nivolumab investigator’s choice |  |
 | --- | --- | --- |
@@ -906,10 +971,10 @@ Table 14: OS by tumour PD-L1 expression (CA209141)
 ≥ 10% 30 (43) 31 (34) 0.57 (0.34, 0.95)
 
 In an exploratory post-hoc analysis using a non-validated assay, both tumour cell PD-L1 expression and tumour-associated immune cell (TAIC) PD-L1 expression were analysed in relation to the magnitude of treatment effect of nivolumab compared to investigator’s choice.
-This analysis showed that not only tumour cell PD-L1 expression but also TAIC PD-L1 expression appeared to be associated with benefit from nivolumab relative to investigator’s choice (see Table 15).
+This analysis showed that not only tumour cell PD-L1 expression but also TAIC PD-L1 expression appeared to be associated with benefit from nivolumab relative to investigator’s choice (see Table 16).
 Due to the small numbers of patients in the subgroups, and exploratory nature of the analysis, no definitive conclusions can be drawn from these data.
 
-Table 15: Efficacy by tumour cell and TAIC PD-L1 expression (CA209141)
+Table 16: Efficacy by tumour cell and TAIC PD-L1 expression (CA209141)
 
 |  | Median OSa (months) HRb (95% CI) nivolumab investigator’s choice | Median PFSa (months) HRb (95% CI) nivolumab investigator’s choice | ORR (%) (95% CI)c nivolumab investigator’s choice |
 | --- | --- | --- | --- |
@@ -952,7 +1017,7 @@ The median age was 66 years (range: 38 to 90) with 55% ≥65 years of age and 14
 The majority of patients were white (86%) and male (78%).
 Baseline ECOG performance status was 0 (54%) or 1 (46%).
 
-Table 16: Efficacy results (CA209275)a nivolumab
+Table 17: Efficacy results (CA209275)a nivolumab
 (n = 270)
 
 Confirmed objective response 54 (20.0%)

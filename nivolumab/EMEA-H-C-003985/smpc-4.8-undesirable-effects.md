@@ -53,6 +53,7 @@ Metabolism and nutrition disorders
 Very common decreased appetite
 Common decreased appetite dehydration
 Uncommon dehydration, metabolic acidosis
+Not known tumour lysis syndromei tumour lysis syndromei
 Hepatobiliary disorders
 Common hepatitisc
 Uncommon hepatitisc
@@ -153,7 +154,8 @@ All were considered not related to nivolumab by investigators except arrhythmia 
 f Reported also in studies outside the pooled dataset.
 The frequency is based on the program-wide exposure.
 g Musculoskeletal pain is a composite term which includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity, and spinal pain.
-h Post-marketing event (also see section 4.4)
+h Post-marketing event (also see section 4.4).
+i Reported in clinical studies and in the post-marketing setting.
 
 Description of selected adverse reactions
 Nivolumab or nivolumab in combination with ipilimumab is associated with immune-related adverse reactions.
@@ -265,12 +267,12 @@ Grade 2 cases were reported in 2.2% (10/448) of patients.
 No Grade 3-5 cases were reported.
 
 Complications of allogeneic HSCT in classical Hodgkin Lymphoma
-In 40 evaluated patients from two cHL studies who underwent allogeneic HSCT after discontinuing nivolumab monotherapy, Grade 3 or 4 acute GVHD was reported in 7/40 patients (17.5%).
-Hyperacute GVHD, defined as acute GVHD occurring within 14 days after stem cell infusion, was reported in two patients (5%).
-A steroid-requiring febrile syndrome, without an identified infectious cause, was reported in six patients (15%) within the first 6 weeks post-transplantation, with five patients responding to steroids.
+In 49 evaluated patients from two cHL studies who underwent allogeneic HSCT after discontinuing nivolumab monotherapy, Grade 3 or 4 acute GVHD was reported in 13/49 patients (26.5%).
+Hyperacute GVHD, defined as acute GVHD occurring within 14 days after stem cell infusion, was reported in three patients (6%).
+A steroid-requiring febrile syndrome, without an identified infectious cause, was reported in six patients (12%) within the first 6 weeks post-transplantation, with three patients responding to steroids.
 Hepatic veno-occlusive disease occurred in one patient, who died of GVHD and multi-organ failure.
-Six of 40 patients (15%) died from complications of allogeneic HSCT after nivolumab.
-The 40 patients had a median follow-up from subsequent allogeneic HSCT of 2.9 months (range: 0-22 months).
+Nine of 49 patients (18.4%) died from complications of allogeneic HSCT after nivolumab.
+The 49 patients had a median follow-up from subsequent allogeneic HSCT of 5.6 months (range: 0-19 months).
 Laboratory abnormalities
 In patients treated with nivolumab monotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 5.2% for anaemia (all
 Grade 3), 1.0% for thrombocytopaenia, 1.0% for leucopoenia, 10.0% for lymphopaenia, 1.1% for neutropaenia, 2.1% for increased alkaline phosphatase, 2.7% for increased AST, 2.2% for increased ALT, 1.2% for increased total bilirubin, 0.9% for increased creatinine, 3.8% for hyperglycaemia, 1.0% for hypoglycaemia, 3.5% for increased amylase, 7.9% for increased lipase, 6.4% for hyponatraemia, 1.8% for hyperkalaemia, 1.5% for hypokalaemia, 1.2% for hypercalcaemia, 0.7% for hypermagnesaemia, 0.5% for hypomagnesaemia, 0.7% for hypocalcaemia, and 0.1% for hypernatraemia.

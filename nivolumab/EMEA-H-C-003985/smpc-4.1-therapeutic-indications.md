@@ -13,7 +13,7 @@ OPDIVO as monotherapy is indicated for the treatment of locally advanced or meta
 Renal Cell Carcinoma (RCC)
 
 OPDIVO as monotherapy is indicated for the treatment of advanced renal cell carcinoma after prior therapy in adults.
-Classical Hodgkin lymphoma (cHL)
+Classical Hodgkin Lymphoma (cHL)
 
 OPDIVO as monotherapy is indicated for the treatment of adult patients with relapsed or refractory classical Hodgkin lymphoma after autologous stem cell transplant (ASCT) and treatment with brentuximab vedotin.
 
