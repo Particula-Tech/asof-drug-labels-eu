@@ -71,8 +71,7 @@ If SJS or TEN is confirmed, pembrolizumab should be permanently discontinued (se
 Caution should be used when considering the use of pembrolizumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anticancer agents.
 
 Other immune-related adverse reactions
-The following additional clinically significant, immune-related adverse reactions, including severe and fatal cases, have been reported in clinical trials or in post-marketing experience: uveitis, arthritis, myositis, myocarditis, pancreatitis, Guillain-Barré syndrome, myasthenic syndrome, haemolytic anaemia and partial seizures arising in a patient with inflammatory foci in brain parenchyma (see sections 4.2 and 4.8).
-
+The following additional clinically significant, immune-related adverse reactions, including severe and fatal cases, have been reported in clinical trials or in post-marketing experience: uveitis, arthritis, myositis, myocarditis, pancreatitis, Guillain-Barré syndrome, myasthenic syndrome, haemolytic anaemia, sarcoidosis and encephalitis (see sections 4.2 and 4.8).
 Based on the severity of the adverse reaction, pembrolizumab should be withheld and corticosteroids administered.
 
 Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if the adverse reaction remains at Grade ≤1 and corticosteroid dose has been reduced to ≤10 mg prednisone or equivalent per day.
@@ -83,16 +82,22 @@ Solid organ transplant rejection has been reported in the post-marketing setting
 Treatment with pembrolizumab may increase the risk of rejection in solid organ transplant recipients.
 The benefit of treatment with pembrolizumab versus the risk of possible organ rejection should be considered in these patients.
 
+Complications of allogeneic Haematopoietic Stem Cell Transplant (HSCT)
+Allogeneic HSCT after treatment with pembrolizumab
+Cases of graft-versus-host-disease (GVHD) and hepatic veno-occlusive disease (VOD) have been observed in patients with classical Hodgkin lymphoma undergoing allogeneic HSCT after previous exposure to pembrolizumab.
+Until further data become available, careful consideration to the potential benefits of HSCT and the possible increased risk of transplant-related complications should be made case by case (see section 4.8).
+
+Allogeneic HSCT prior to treatment with pembrolizumab
+In patients with a history of allogeneic HSCT, acute GVHD, including fatal GVHD, has been reported after treatment with pembrolizumab.
+Patients who experienced GVHD after their transplant procedure may be at an increased risk for GVHD after treatment with pembrolizumab.
+Consider the benefit of treatment with pembrolizumab versus the risk of possible GVHD in patients with a history of allogeneic HSCT.
+
 Infusion-related reactions
 Severe infusion-related reactions, including hypersensitivity and anaphylaxis, have been reported in patients receiving pembrolizumab (see section 4.8).
 For severe infusion reactions, infusion should be stopped and pembrolizumab permanently discontinued (see section 4.2).
 Patients with mild or moderate infusion reaction may continue to receive pembrolizumab with close monitoring; premedication with antipyretic and antihistamine may be considered.
 
 Disease-specific precautions
-
-Complications of allogeneic Haematopoietic Stem Cell Transplant (HSCT) in classical Hodgkin lymphoma
-Cases of graft-versus-host-disease (GVHD) and hepatic veno-occlusive disease (VOD) have been observed in patients undergoing allogeneic HSCT after previous exposure to pembrolizumab.
-Until further data become available, careful consideration to the potential benefits of HSCT and the possible increased risk of transplant-related complications should be made case by case (see section 4.8).
 
 Use of pembrolizumab in urothelial carcinoma patients who have received prior platinum-containing chemotherapy
 Physicians should consider the delayed onset of pembrolizumab effect before initiating treatment in patients with poorer prognostic features and/or aggressive disease.
@@ -103,7 +108,6 @@ Use of pembrolizumab in urothelial cancer for patients who are considered cispla
 The baseline and prognostic disease characteristics of the study population of KEYNOTE-052 included a proportion of patients eligible for a carboplatin-based combination or mono-chemotherapy for whom the benefit has not yet been assessed in a comparative study.
 No safety and efficacy data are available in frailer patients (e.g., ECOG performance status 3) considered not eligible for chemotherapy.
 In the absence of these data, pembrolizumab should be used with caution in this population after careful consideration of the potential risk-benefit on an individual basis.
-
 Patients excluded from clinical trials
 Patients with the following conditions were excluded from clinical trials: active CNS metastases; ECOG PS ≥2 (except for urothelial carcinoma); HIV, hepatitis B or hepatitis C infection; active systemic autoimmune disease; interstitial lung disease; prior pneumonitis requiring systemic corticosteroid therapy; a history of severe hypersensitivity to another monoclonal antibody; receiving immunosuppressive therapy and a history of severe immune-related adverse reactions from treatment with ipilimumab, defined as any Grade 4 toxicity or Grade 3 toxicity requiring corticosteroid treatment (> 10 mg/day prednisone or equivalent) for greater than 12 weeks.
 Patients with active infections were excluded from clinical trials and were required to have their infection treated prior to receiving pembrolizumab.

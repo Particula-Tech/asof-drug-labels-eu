@@ -37,7 +37,7 @@ Table 1: Recommended treatment modifications for KEYTRUDA
 | Skin reactions | Grade 3 or suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) | Withhold until adverse reactions recover to Grade 0-1* |
 |  | Grade 4 or confirmed SJS or TEN | Permanently discontinue |
 | Other immune-related adverse reactions | Based on severity and type of reaction (Grade 2 or Grade 3) | Withhold until adverse reactions recover to Grade 0-1* |
-|  | Grade 3 or 4 myocarditis | Permanently discontinue |
+|  | Grade 3 or 4 myocarditis Grade 3 or 4 encephalitis Grade 3 or 4 Guillain-Barré syndrome | Permanently discontinue |
 |  | Grade 4 or recurrent Grade 3 | Permanently discontinue |
 | Infusion-related reactions | Grade 3 or 4 | Permanently discontinue |
 

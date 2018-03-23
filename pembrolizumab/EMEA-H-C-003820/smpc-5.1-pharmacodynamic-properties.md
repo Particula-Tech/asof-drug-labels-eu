@@ -674,15 +674,15 @@ Pembrolizumab: 270 226 194 169 147 131 87 54 27 13 4 0 0
 
 Chemotherapy: 272 232 171 138 109 89 55 27 14 3 0 0 0
 
-An analysis was performed in KEYNOTE-045 in patients who had PD-L1 Combined Positive Score (CPS) < 10% [pembrolizumab: n=186 (69%) vs. chemotherapy: n= 176 (65%)] or ≥10% [pembrolizumab: n=74 (27%) vs. chemotherapy: n= 90 (33%)] in both pembrolizumab- and chemotherapy-treated arms (see Table 14).
+An analysis was performed in KEYNOTE-045 in patients who had PD-L1 Combined Positive Score (CPS) < 10 [pembrolizumab: n=186 (69%) vs. chemotherapy: n= 176 (65%)] or ≥10 [pembrolizumab: n=74 (27%) vs. chemotherapy: n= 90 (33%)] in both pembrolizumab- and chemotherapy-treated arms (see Table 14).
 
 Table 14: OS by PD-L1 Expression
 
 PD-L1 Expression Pembrolizumab Chemotherapy
 OS by PD-L1 Expression Hazard
 Number of Events (number of patients) Ratio* (95% CI)
-< 10% 106 (186) 116 (176) 0.80 (0.61, 1.05)
-≥10% 44 (74) 60 (90) 0.57 (0.37, 0.88)
+CPS < 10 106 (186) 116 (176) 0.80 (0.61, 1.05)
+CPS ≥10 44 (74) 60 (90) 0.57 (0.37, 0.88)
 
 * Hazard ratio (pembrolizumab compared to chemotherapy) based on the stratified Cox proportional hazard model
 
@@ -734,15 +734,15 @@ Table 15: Response to pembrolizumab 200 mg every 3 weeks in patients with urothe
 † Based on best response of stable disease or better
 ‡ Based on Kaplan-Meier estimates; includes 77 patients with response of 6 months or longer
 
-An analysis was performed in KEYNOTE-052 in patients who had PD-L1 CPS < 10% (n=251; 68%) or ≥10% (n=110; 30%) (see Table 16).
+An analysis was performed in KEYNOTE-052 in patients who had PD-L1 CPS < 10 (n=251; 68%) or ≥10 (n=110; 30%) (see Table 16).
 
 Table 16: ORR by PD-L1 Expression
 
 |  | ORR % by PD-L1 Expression* (95% CI) |
 | --- | --- |
 | PD-L1 Expression | Pembrolizumab |
-| < 10% | 21 (16.2, 26.7) |
-| ≥10% | 47 (37.7, 57.0) |
+| CPS < 10 | 21 (16.2, 26.7) |
+| CPS ≥10 | 47 (37.7, 57.0) |
 
 * BICR-RECIST 1.1
 

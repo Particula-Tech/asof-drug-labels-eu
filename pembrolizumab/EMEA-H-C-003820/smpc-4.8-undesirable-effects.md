@@ -39,7 +39,7 @@ Table 2: Adverse reactions in patients treated with pembrolizumab
 | Nervous system disorders |  |
 | Common | headache, dizziness, dysgeusia |
 | Uncommon | epilepsy, lethargy, neuropathy peripheral |
-| Rare | Guillain-Barré syndrome, myasthenic syndrome |
+| Rare | Guillain-Barré syndrome, myasthenic syndrome, encephalitis |
 | Eye disorders |  |
 | Uncommon | uveitise, dry eye |
 | Cardiac disorders |  |
@@ -140,7 +140,7 @@ Rare cases of SJS and TEN, some of them with fatal outcome, have been observed (
 
 Complications of allogeneic HSCT in classical Hodgkin lymphoma
 Of 23 patients with cHL who proceeded to allogeneic HSCT after treatment with pembrolizumab,
-6 patients (26%) GVHD, one of which was fatal, and 2 patients (9%) developed severe hepatic VOD after reduced-intensity conditioning, one of which was fatal.
+6 patients (26%) developed GVHD, one of which was fatal, and 2 patients (9%) developed severe hepatic VOD after reduced-intensity conditioning, one of which was fatal.
 The 23 patients had a median follow-up from subsequent allogeneic HSCT of 5.1 months (range: 0-26.2 months).
 
 Immunogenicity
