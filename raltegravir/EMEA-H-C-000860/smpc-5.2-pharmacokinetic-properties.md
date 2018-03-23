@@ -17,7 +17,6 @@ Raltegravir C12 hr was 66 % higher and Cmax was 5 % higher following a moderate-
 Administration of raltegravir following a high-fat meal increased AUC and Cmax by approximately 2-fold and increased C12 hr by 4.1-fold.
 Administration of raltegravir following a low-fat meal decreased AUC and Cmax by 46 % and 52 %, respectively; C12 hr was essentially unchanged.
 Food appears to increase pharmacokinetic variability relative to fasting.
-
 Overall, considerable variability was observed in the pharmacokinetics of raltegravir.
 For observed C12 hr in BENCHMRK 1 and 2 the coefficient of variation (CV) for inter-subject variability = 212 % and the CV for intra-subject variability = 122 %.
 Sources of variability may include differences in co-administration with food and concomitant medicines.
@@ -54,10 +53,10 @@ In this study, administration of the chewable tablet with a high fat meal led to
 62 % decrease in Cmax, and 188 % increase in C12hr compared to administration in the fasted state.
 Administration of the chewable tablet with a high fat meal does not affect raltegravir pharmacokinetics to a clinically meaningful degree and the chewable tablet can be administered without regard to food.
 The effect of food on the granules for oral suspension formulation was not studied.
-Table 6 displays pharmacokinetic parameters in the 400 mg tablet, the chewable tablet, and the granules for oral suspension, by body weight.
 
+Table 6 displays pharmacokinetic parameters in the 400 mg tablet, the chewable tablet, and the granules for oral suspension, by body weight.
 Table 6
-Raltegravir Pharmacokinetic Parameters IMPAACT P1066 Following Administration of Doses in Section 4.2
+Raltegravir Pharmacokinetic Parameters IMPAACT P1066 Following Administration of Doses in Section 4.2 (excluding neonates)
 
 | Body weight | Formulation | Dose | N* | Geometric mean (%CV†) AUC0-12hr (μM●hr) | Geometric mean (%CV†) C12hr (nM) |
 | --- | --- | --- | --- | --- | --- |
@@ -67,10 +66,8 @@ Raltegravir Pharmacokinetic Parameters IMPAACT P1066 Following Administration of
 | 3 to less than 20 kg | Oral suspension | Weight based dosing, see dosing table for granules for oral suspension | 19 | 24.5 (43 %) | 113 (69 %) |
 | *Number of patients with intensive pharmacokinetic (PK) results at the final recommended dose. †Geometric coefficient of variation. |  |  |  |  |  |
 
-The pharmacokinetics of raltegravir in infants under 4 weeks of age has not been established.
-
 Elderly
-There was no clinically meaningful effect of age on raltegravir pharmacokinetics over the age range studied (19 to 84 years, with few subjects over the age of 65).
+There was no clinically meaningful effect of age on raltegravir pharmacokinetics in healthy subjects and patients with HIV-1 infection over the age range studied (19 to 84 years, with few individuals over the age of 65).
 
 Gender, race and BMI
 There were no clinically important pharmacokinetic differences due to gender, race or body mass index (BMI) in adults.
@@ -102,10 +99,11 @@ Administration of a high fat meal resulted in a 1.9% increase in AUC0-last, 28% 
 62 % decrease in Cmax, and 188 % increase in C12 hr compared to administration in the fasted state.
 
 Table 5 displays pharmacokinetic parameters in the 400 mg tablet, the chewable tablet, and the granules for oral suspension, by body weight.
+
 Table 5
 
 There was no clinically meaningful effect of age on raltegravir pharmacokinetics over the age range studied with raltegravir 400 mg twice daily.
-There was no clinically meaningful effect of age on raltegravir pharmacokinetics over the age range studied in Protocol 292 with raltegravir 1,200 mg
+There was no clinically meaningful effect of age on raltegravir pharmacokinetics over the age range studied in ONCEMRK with raltegravir 1,200 mg
 (2 x 600 mg) once daily.
 
 Gender, race, ethnicity and body weight
@@ -135,9 +133,9 @@ Table 8
 
 [ISENTRESS 100 mg granules for oral suspension]
 
-Table 7 displays pharmacokinetic parameters in the 400 mg tablet, the chewable tablet, and the granules for oral suspension, by body weight.
+Table 8 displays pharmacokinetic parameters in the 400 mg tablet, the chewable tablet, and the granules for oral suspension, by body weight.
 
-Table 7
+Raltegravir Pharmacokinetic Parameters IMPAACT P1066 Following Administration of Doses in Section 4.2
 
 | Body weight | Formulation | Dose | N* | Geometric mean (%CV†) AUC0-12hr (μM●hr) | Geometric mean (%CV†) C12hr (nM) |
 | --- | --- | --- | --- | --- | --- |
@@ -146,3 +144,22 @@ Table 7
 | 11 to less than 25 kg | Chewable tablet | Weight based dosing, see dosing tables for the chewable tablet | 13 | 18.6 (68 %) | 82 (123 %) |
 | 3 to less than 20 kg | Oral suspension | Weight based dosing, see dosing Table 1 | 19 | 24.5 (43 %) | 113 (69 %) |
 | *Number of patients with intensive pharmacokinetic (PK) results at the final recommended dose. †Geometric coefficient of variation. |  |  |  |  |  |
+
+HIV-1 Exposed Neonates
+IMPAACT P1110 is a Phase I trial to evaluate the safety and pharmacokinetics of raltegravir granules for suspension (GFS) with standard care PMTCT in full term HIV-1-exposed neonates.
+Cohort 1 (N=16,10 exposed and 6 unexposed to raltegravir in utero) received 2 single doses of raltegravir GFS (within 48 hours and 7 - 10 days after birth); Cohort 2 (N=26, all raltegravir unexposed in utero) received raltegravir GFS for 6 weeks: 1.5 mg/kg once daily starting within 48 hours of birth through Week 1; 3 mg/kg twice daily Weeks 2 to 4; and 6 mg/kg twice daily Weeks 5 and 6.
+
+Table 9 displays pharmacokinetic parameters for neonates in Cohort 2 at birth and at 2 weeks of age.
+Elimination of raltegravir in vivo in human is primarily through the UGT1A1-mediated glucuronidation pathway.
+UGT1A1 catalytic activity is negligible at birth and matures after birth.
+The dose recommended for neonates less than 4 weeks of age takes into consideration the rapidly increasing UGT1A1 activity and drug clearance from birth to 4 weeks of age.
+
+Table 9: Raltegravir Pharmacokinetic Parameters IMPAACT P1110 Following Age and Weight Based Dosing of the Granules for Suspension
+
+| Age (hours/days) at PK Sampling | Dose (See Table 2) | N* | Geometric Mean (%CV†) AUC (mg*hr/L) | Geometric Mean (% CV†) Ctrough (ng/mL) |
+| --- | --- | --- | --- | --- |
+| Birth – 48 hours | 1.5 mg/kg once daily | 25 | 38.2 (38.4%)‡ | 947.9 (64.2%) ‡ |
+| 15 to 18 days | 3.0 mg/kg twice daily | 23 | 14.3 (43.3%) § | 558 (83.7%) § |
+| *Number of patients with intensive pharmacokinetic (PK) results at the final recommended dose. †Geometric coefficient of variation. ‡ AUC0-24hr (N = 24); C24hr §AUC0-12hr; C12hr |  |  |  |  |
+
+There was no clinically meaningful effect of age on raltegravir pharmacokinetics in healthy subjects and patients with HIV-1 infection, over the age range studied (19 to 84 years, with few individuals over the age of 65).

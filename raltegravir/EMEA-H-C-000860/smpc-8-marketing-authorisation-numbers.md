@@ -6,6 +6,7 @@ EU/1/07/436/002
 [ISENTRESS 600 mg film-coated tablets]
 
 EU/1/07/436/006
+EU/1/07/436/007
 
 [ISENTRESS 25 mg chewable tablets]
 

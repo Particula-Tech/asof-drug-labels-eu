@@ -10,11 +10,11 @@ Raltegravir has a relatively low genetic barrier to resistance.
 Therefore, whenever possible, raltegravir should be administered with two other active ARTs to minimise the potential for virological failure and the development of resistance (see section 5.1).
 
 In treatment-naïve patients, the clinical study data on use of raltegravir are limited to use in combination with two nucleotide reverse transcriptase inhibitors (NRTIs) (emtricitabine and tenofovir disoproxil fumarate).
+
 Depression
 
 Depression, including suicidal ideation and behaviours, has been reported, particularly in patients with a pre-existing history of depression or psychiatric illness.
 Caution should be used in patients with a pre-existing history of depression or psychiatric illness.
-
 Hepatic impairment
 
 The safety and efficacy of raltegravir have not been established in patients with severe underlying liver disorders.
@@ -50,16 +50,16 @@ Caution should be used when co-administering raltegravir with strong inducers of
 Rifampicin reduces plasma levels of raltegravir; the impact on the efficacy of raltegravir is unknown.
 However, if co-administration with rifampicin is unavoidable, a doubling of the dose of raltegravir can be considered in adults.
 There are no data to guide co-administration of raltegravir with rifampicin in patients below 18 years of age (see section 4.5).
+
 Myopathy and rhabdomyolysis
 
 Myopathy and rhabdomyolysis have been reported.
 Use with caution in patients who have had myopathy or rhabdomyolysis in the past or have any predisposing issues including other medicinal products associated with these conditions (see section 4.8).
-
 Severe skin and hypersensitivity reactions
 
 Severe, potentially life-threatening, and fatal skin reactions have been reported in patients taking raltegravir, in most cases concomitantly with other medicinal products associated with these reactions.
 These include cases of Stevens-Johnson syndrome and toxic epidermal necrolysis.
-Hypersensitivity reactions have also been reported and were characterized by rash, constitutional findings, and sometimes, organ dysfunction, including hepatic failure.
+Hypersensitivity reactions have also been reported and were characterised by rash, constitutional findings, and sometimes, organ dysfunction, including hepatic failure.
 Discontinue raltegravir and other suspect agents immediately if signs or symptoms of severe skin reactions or hypersensitivity reactions develop (including, but not limited to, severe rash or rash accompanied by fever, general malaise, fatigue, muscle or joint aches, blisters, oral lesions, conjunctivitis, facial oedema, hepatitis, eosinophilia, angioedema).
 Clinical status including liver aminotransferases should be monitored and appropriate therapy initiated.
 Delay in stopping raltegravir treatment or other suspect agents after the onset of severe rash may result in a life-threatening reaction.
@@ -84,6 +84,7 @@ Tipranavir/ritonavir
 Co-administration of raltegravir 1,200 mg once daily with tipranavir/ritonavir could result in decreased raltegravir trough plasma levels; therefore, co-administration is not recommended (see section 4.5).
 
 Co-administration of raltegravir 1,200 mg once daily with calcium carbonate and aluminium/magnesium containing antacids resulted in reduced raltegravir plasma levels; therefore, co-administration is not recommended (see section 4.5).
+
 Strong inducers of drug metabolizing enzymes
 
 Strong inducers of drug metabolizing enzymes (e.g., rifampicin) have not been studied with raltegravir 1,200 mg once daily, but could result in decreased raltegravir trough plasma levels; therefore, co-administration with raltegravir 1,200 mg once daily is not recommended.

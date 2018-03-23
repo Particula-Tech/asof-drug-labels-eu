@@ -5,7 +5,7 @@ Pregnancy
 There are no data from the use of raltegravir in pregnant women.
 Studies in animals have shown reproductive toxicity (see section 5.3).
 The potential risk for humans is unknown.
-Raltegraviris not recommended during pregnancy.
+Raltegravir is not recommended during pregnancy.
 
 Anti-retroviral Pregnancy Registry
 To monitor maternal-foetal outcomes in patients inadvertently administered raltegravir while pregnant, an Anti-retroviral Pregnancy Registry has been established.
@@ -34,7 +34,7 @@ Raltegravir 1,200 mg once daily is not recommended during pregnancy.
 
 [ISENTRESS 25 mg chewable tablets]
 
-Raltegravir is not recommended during pregnancy.
+(all sentences already above)
 
 [ISENTRESS 100 mg granules for oral suspension]
 

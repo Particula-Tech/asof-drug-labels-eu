@@ -27,7 +27,7 @@ Each chewable tablet contains approximately 0.93 mg fructose, approximately 0.10
 [ISENTRESS 100 mg granules for oral suspension]
 
 Each sachet contains 100 mg of raltegravir (as potassium).
-Following reconstitution the oral suspension has a concentration of 20 mg per ml.
+Following reconstitution the oral suspension has a concentration of 10 mg per mL.
 
 Excipients with known effect
 Each sachet contains approximately: 0.5 mg fructose, 1.5 mg sorbitol and 4.7 mg sucrose.
