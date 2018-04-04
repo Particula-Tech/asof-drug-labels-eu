@@ -10,6 +10,7 @@ Tabulated list of adverse reactions
 The Adverse Drug Reactions (ADRs) are listed below by MedDRA system organ class (SOC) and categories of frequency.
 The following categories of frequency have been used: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+
 Table 2: Summary of adverse reactions occurring in patients treated with Tecentriq in clinical trials
 
 | Blood and lymphatic system disorders |  |
@@ -27,6 +28,8 @@ Table 2: Summary of adverse reactions occurring in patients treated with Tecentr
 | Nervous system disorders |  |
 | Uncommon | Guillain-Barré syndromee, noninfective meningitisf |
 | Rare | noninfective encephalitisg, myasthenic syndromeh |
+| Cardiac disorders |  |
+| Rare | myocarditish |
 | Vascular disorders |  |
 | Common | hypotension |
 | Respiratory, thoracic, and mediastinal disorders |  |
@@ -57,7 +60,7 @@ e Includes reports of Guillain-Barré syndrome and demyelinating polyneuropathy.
 f Includes reports of meningitis.
 g Includes reports of encephalitis.
 h Reported in studies other than those in metastatic UC and NSCLC patients.
-The frequency is based on the exposure in 6,000 patients across all atezolizumab clinical trials.
+The frequency is based on the exposure in 8,000 patients across all atezolizumab clinical trials.
 i Includes reports of pneumonitis, lung infiltration, bronchiolitis, interstitial lung disease, radiation pneumonitis. j Includes reports of colitis, autoimmune colitis, colitis ischaemic, colitis microscopic.
 k Includes reports of pancreatitis and pancreatitis acute.
 l Includes reports of autoimmune hepatitis, hepatitis, hepatitis acute.
@@ -67,7 +70,6 @@ Description of selected adverse reactions
 
 The data below reflect exposure to atezolizumab for clinically significant adverse reactions in clinical studies (see section 5.1).
 The management guidelines for these adverse reactions are described in sections 4.2 and 4.4.
-
 Immune-related pneumonitis
 Pneumonitis occurred in 3.1% (68/2,160) of patients who received atezolizumab for metastatic UC and NSCLC.
 Of the 68 patients, one experienced a fatal event.
@@ -124,7 +126,6 @@ The median time to onset was 7 months (range: 18 days to 8.1 months).
 The median duration was 4.6 months (0+ day to 8.3+ months; + denotes a censored value).
 Guillain-Barré syndrome led to discontinuation of atezolizumab in 1 patient (< 0.1%).
 Guillain-Barré syndrome requiring the use of corticosteroids occurred in < 0.1% (2/2,160) of patients receiving atezolizumab.
-
 Myasthenic syndrome
 Myasthenia gravis occurred in < 0.1% (4/6,000) of patients across all atezolizumab clinical trials in multiple tumour types.
 The time to onset ranged from 20 days to 4 months.
@@ -137,12 +138,18 @@ The median time to onset was 5.5 months (range: 9 days to 16.9 months).
 The median duration was 19 days (range 3 days to 11.2+ months; + denotes a censored value).
 Pancreatitis requiring the use of corticosteroids occurred in < 0.1% (2/2,160) of patients receiving atezolizumab.
 
+Immune-related myocarditis
+Myocarditis occurred in < 0.1% (2/8,000) of patients across all atezolizumab clinical trials in multiple tumour types.
+The time to onset was 18 and 33 days.
+Both patients required corticosteroids and discontinued atezolizumab.
+
 Immunogenicity
 In study IMvigor210, 43.9% of patients tested positive for anti-atezolizumab antibodies (ATAs) at one or more post-dose time points.
 In study OAK (GO28915), the treatment-emergent ATA rate was 30.4%.
 Overall, ATA positivity appeared to have no clinically relevant impact on pharmacokinetics, efficacy or safety.
 
 No data are available to allow conclusions to be drawn on any possible effect of neutralising antibodies.
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

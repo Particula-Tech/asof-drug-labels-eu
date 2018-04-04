@@ -7,7 +7,6 @@ Mechanism of action
 
 Programmed death-ligand 1 (PD-L1) may be expressed on tumour cells and/or tumour-infiltrating immune cells, and can contribute to the inhibition of the antitumour immune response in the tumour microenvironment.
 Binding of PD-L1 to the PD-1 and B7.1 receptors found on T-cells and antigen presenting cells suppresses cytotoxic T-cell activity, T-cell proliferation and cytokine production.
-
 Atezolizumab is an Fc-engineered, humanised immunoglobulin G1 (IgG1) monoclonal antibody that directly binds to PD-L1 and provides a dual blockade of the PD-1 and B7.1 receptors, releasing PD-L1/PD-1 mediated inhibition of the immune response, including reactivating the antitumour immune response without inducing antibody-dependent cellular cytotoxicity.
 Atezolizumab spares the PD-L2/PD-1 interaction allowing PD-L2/PD-1 mediated inhibitory signals to persist.
 
@@ -43,7 +42,6 @@ Vinflunine was administered 320 mg/m2 by intravenous infusion on day 1 of each 3
 Paclitaxel was administered 175 mg/m2 by intravenous infusion over 3 hours on day 1 of each 3-week cycle until disease progression or unacceptable toxicity.
 Docetaxel was administered 75 mg/m2 by intravenous infusion on day 1 of each 3-week cycle until disease progression or unacceptable toxicity.
 For all treated patients, the median duration of treatment was 2.8 months for the atezolizumab arm, 2.1 months for the vinflunine and paclitaxel arms and 1.6 months for the docetaxel arm.
-
 The demographic and baseline disease characteristics of the primary analysis population were well balanced between the treatment arms.
 The median age was 67 years (range: 31 to 88), and 77.1% of patients were male.
 The majority of patients were white (72.1%), 53.9% of patients within the chemotherapy arm received vinflunine, 71.4% of patients had at least one poor prognostic risk factor and 28.8% had liver metastases at baseline.

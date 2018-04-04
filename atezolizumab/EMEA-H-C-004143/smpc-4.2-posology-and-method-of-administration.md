@@ -17,9 +17,9 @@ Dose reductions of Tecentriq are not recommended.
 
 Dose delay or discontinuation (see also sections 4.4 and 4.8)
 
-Table 1: Dose modification advice for specified adverse drug reactions
+Table 1: Dose modification advice for Tecentriq
 
-| Adverse reaction | Severity | Treatment modification |
+| Immune related adverse reaction | Severity | Treatment modification |
 | --- | --- | --- |
 | Pneumonitis | Grade 2 | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 3 or 4 | Permanently discontinue Tecentriq |
@@ -39,15 +39,12 @@ Table 1: Dose modification advice for specified adverse drug reactions
 | Myasthenic syndrome/myasthenia gravis, Guillain-Barré syndrome and Meningoencephalitis | All Grades | Permanently discontinue Tecentriq |
 | Pancreatitis | Grade 3 or 4 serum amylase or lipase levels increased (> 2 x ULN) or Grade 2 or 3 pancreatitis | Withhold Tecentriq Treatment may be resumed when serum amylase and lipase levels improve to Grade 0 or Grade 1 within 12 weeks, or symptoms of pancreatitis have resolved, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 4 or any grade of recurrent pancreatitis | Permanently discontinue Tecentriq |
+| Myocarditis | Grade 2 | Withhold Tecentriq Treatment may be resumed when the symptoms improve to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
+|  | Grade 3 and 4 | Permanently discontinue Tecentriq |
+| Other immune-related adverse reactions | Grade 2 or Grade 3 | Withhold until adverse reactions recovers to Grade 0-1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day. |
+|  | Grade 4 or recurrent Grade 3 | Permanently discontinue Tecentriq (except endocrinopathies controlled with replacement hormones) |
 
 Note: Toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Event Version 4.0 (NCI-CTCAE v.4.).
-
-Tecentriq should be permanently discontinued:
-
-- For Grade 4 toxicities except for endocrinopathies that are controlled with replacement hormones
-- For any recurrent event at Grade ≥ 3 severity
-- If a treatment-related toxicity does not resolve to Grade 0 or Grade 1 within 12 weeks after adverse reaction onset date
-- If a corticosteroid dose of > 10 mg prednisone or equivalent per day is required for treatment-related toxicity beyond 12 weeks after adverse reaction onset date.
 
 Patients treated with Tecentriq must be given the Patient Alert Card and be informed about the risks of Tecentriq (see also package leaflet).
 
@@ -59,7 +56,6 @@ No data are available.
 
 Elderly
 Based on a population pharmacokinetic analysis, no dose adjustment of Tecentriq is required in patients ≥ 65 years of age.
-
 Renal impairment
 Based on a population pharmacokinetic analysis, no dose adjustment is required in patients with mild or moderate renal impairment (see section 5.2).
 Data from patients with severe renal impairment are too limited to draw conclusions on this population.
@@ -70,6 +66,7 @@ Tecentriq has not been studied in patients with moderate or severe hepatic impai
 
 Eastern Cooperative Oncology Group (ECOG) performance status ≥ 2
 Patients with ECOG performance status ≥ 2 were excluded from the clinical trials in NSCLC and 2nd line UC (see sections 4.4 and 5.1).
+
 Method of administration
 
 Tecentriq is for intravenous use.
