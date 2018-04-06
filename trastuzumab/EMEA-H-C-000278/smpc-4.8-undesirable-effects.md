@@ -115,7 +115,6 @@ Table 1 Undesirable Effects Reported with Intravenous Herceptin Monotherapy or i
 |  | Dyspepsia | Very common |
 |  | Constipation | Very common |
 |  | Stomatitis | Very common |
-|  | Pancreatitis | Common |
 |  | Haemorrhoids | Common |
 |  | Dry mouth | Common |
 | Hepatobiliary disorders | Hepatocellular injury | Common |
