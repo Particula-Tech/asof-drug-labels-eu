@@ -13,7 +13,6 @@ When co-administered with eltrombopag, a reduced dose of statins should be consi
 OATP1B1 and BCRP substrates
 
 Concomitant administration of eltrombopag and OATP1B1 (e.g. methotrexate) and BCRP (e.g. topotecan and methotrexate) substrates should be undertaken with caution (see section 5.2).
-
 Cytochrome P450 substrates
 
 In studies utilising human liver microsomes, eltrombopag (up to 100 μM) showed no in vitro inhibition of the CYP450 enzymes 1A2, 2A6, 2C19, 2D6, 2E1, 3A4/5, and 4A9/11 and was an inhibitor of CYP2C8 and CYP2C9 as measured using paclitaxel and diclofenac as the probe substrates.
@@ -27,6 +26,7 @@ Co-administration of a single dose of eltrombopag 200 mg with telaprevir 750 mg 
 
 Co-administration of a single dose of eltrombopag 200 mg with boceprevir 800 mg every 8 hours did not alter plasma boceprevir AUC(0-τ), but increased Cmax by 20%, and decreased Cmin by 32%.
 The clinical relevance of the decrease in Cmin has not been established, increased clinical and laboratory monitoring for HCV suppression is recommended.
+
 Effects of other medicinal products on eltrombopag
 
 Ciclosporin
@@ -47,7 +47,6 @@ Food interaction
 
 The administration of eltrombopag tablet or powder for oral suspension with a high-calcium meal (e.g. a meal that included dairy products) significantly reduced plasma eltrombopag AUC0-∞ and Cmax.
 In contrast, the administration of eltrombopag 2 hours before or 4 hours after a high-calcium meal or with low-calcium food [< 50 mg calcium] did not alter plasma eltrombopag exposure to a clinically significant extent (see sections 4.2 and 5.2).
-
 Lopinavir/ritonavir
 
 Co-administration of eltrombopag with lopinavir/ritonavir (LPV/RTV) may cause a decrease in the concentration of eltrombopag.
@@ -63,6 +62,7 @@ Medicinal products that inhibit or induce a single enzyme are unlikely to signif
 HCV protease inhibitors
 
 Results of a drug-drug pharmacokinetic (PK) interaction study show that co-administration of repeat doses of boceprevir 800 mg every 8 hours or telaprevir 750 mg every 8 hours with a single dose of eltrombopag 200 mg did not alter plasma eltrombopag exposure to a clinically significant extent.
+
 Medicinal products for treatment of ITP
 
 Medicinal products used in the treatment of ITP in combination with eltrombopag in clinical studies included corticosteroids, danazol, and/or azathioprine, intravenous immunoglobulin (IVIG), and anti-D immunoglobulin.

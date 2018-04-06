@@ -5,6 +5,7 @@ In 4 controlled and 2 uncontrolled clinical studies, 530 chronic adult ITP patie
 The mean duration of exposure to eltrombopag was 260 days.
 The most important serious adverse reactions were hepatotoxicity and thrombotic/thromboembolic events.
 The most common adverse reactions occurring in at least 10% of patients included: headache, anaemia, decreased appetite, insomnia, cough, nausea, diarrhoea, alopecia, pruritus, myalgia, pyrexia, fatigue, influenza-like illness, asthenia, chills and peripheral oedema.
+
 In 2 controlled clinical studies, 171 chronic paediatric ITP patients were treated with eltrombopag.
 The median duration of exposure was 171 days.
 The profile of adverse reactions was comparable to that seen in adults with some additional adverse reactions, marked ♦ in the table below.
@@ -100,6 +101,7 @@ Common Cough♦, Oropharyngeal pain♦, Rhinorrhoea♦
 Uncommon Pulmonary embolism, Pulmonary infarction, Nasal discomfort,
 
 Oropharyngeal blistering, Oropharyngeal pain, Sinus disorder, Sleep apnoea syndrome
+
 Gastrointestinal disorders
 
 Common Nausea, Diarrhoea*, Mouth ulceration, Toothache♦
@@ -137,7 +139,6 @@ Renal and urinary disorders
 Uncommon Renal failure, Leukocyturia, Lupus nephritis, Nocturia, Proteinuria, Blood
 
 urea increased, Blood creatinine increased, Urine protein/creatinine ratio increased
-
 Reproductive system and breast disorders
 
 Common Menorrhagia
@@ -154,6 +155,7 @@ Investigations
 Uncommon Blood albumin increased, Blood alkaline phosphatase increased, Protein
 
 total increased, Blood albumin decreased, pH urine increased
+
 Injury, poisoning and procedural complications
 
 Uncommon Sunburn
@@ -193,7 +195,6 @@ Very common Headache
 Common Dizziness, Disturbance in attention, Dysgeusia, Hepatic encephalopathy,
 
 Lethargy, Memory impairment, Paraesthesia
-
 Eye disorders
 
 Common Cataract, Retinal exudates, Dry Eye, Ocular icterus, Retinal haemorrhage
@@ -250,7 +251,6 @@ Very common Pyrexia, Fatigue, Influenza like illness, Asthenia, Chills, Oedema p
 Common Irritability, Pain, Malaise, Injection site reaction, Non-cardiac chest pain,
 
 Oedema, Injection site rash, Chest discomfort, Injection site pruritus
-
 Investigations
 
 Common Blood bilirubin increased, Weight decreased, White blood cell count
@@ -291,10 +291,9 @@ Common Epistaxis
 Gastrointestinal disorders
 
 Very common Abdominal pain, Diarrhoea, Nausea
-Common Gingival bleeding, Oral mucosal blistering, Oral pain, Vomiting,
+Common Gingival bleeding, Oral mucosal blistering, Oral pain, Vomiting, Abdominal
 
-Abdominal discomfort, Abdominal pain, Constipation, Abdominal distension, Dysphagia, Faeces discoloured, Swollen tongue, Gastrointestinal motility disorder, Flatulence
-
+discomfort, Abdominal pain, Constipation, Abdominal distension, Dysphagia, Faeces discoloured, Swollen tongue, Gastrointestinal motility disorder, Flatulence
 Hepatobiliary disorders
 
 Very common Transaminases increased
@@ -337,7 +336,6 @@ In a placebo-controlled study (n=288, Safety population), following 2 weeks trea
 Five of the 6 patients treated with eltrombopag experienced the TEE at a platelet count > 200,000/µl
 
 No specific risk factors were identified in those subjects who experienced a TEE with the exception of platelet counts ≥ 200,000/µl (see section 4.4).
-
 In controlled studies in thrombocytopenic patients with HCV (n=1,439), 38 out of 955 subjects (4%) treated with eltrombopag experienced a TEE and 6 out of 484 subjects (1%) in the placebo group experienced TEEs.
 Portal vein thrombosis was the most common TEE in both treatment groups (2% in patients treated with eltrombopag versus < 1% for placebo) (see section 4.4).
 Patients with low albumin levels (≤ 35 g/L) or MELD ≥ 10 had a twofold greater risk of TEEs than those with higher albumin levels; those aged ≥ 60 years had a 2-fold greater risk of TEEs compared to younger patients.
@@ -349,6 +347,7 @@ In 2 controlled clinical studies in thrombocytopenic patients with HCV, hepatic 
 In patients with low albumin levels (≤ 35 g/L) or MELD score ≥ 10 at baseline, there was a three-fold greater risk of hepatic decompensation and an increase in the risk of a fatal adverse event compared to those with less advanced liver disease.
 Eltrombopag should only be administered to such patients after careful consideration of the expected benefits in comparison with the risks.
 Patients with these characteristics should be closely monitored for signs and symptoms of hepatic decompensation (see section 4.4).
+
 Thrombocytopenia following discontinuation of treatment
 
 In the 3 controlled clinical ITP studies, transient decreases in platelet counts to levels lower than baseline were observed following discontinuation of treatment in 8% and 8% of the eltrombopag and placebo groups, respectively (see section 4.4).

@@ -63,7 +63,6 @@ The reoccurrence of thrombocytopenia is possible upon discontinuation of treatme
 Chronic hepatitis C (HCV) associated thrombocytopenia
 
 When eltrombopag is given in combination with antivirals reference should be made to the full summary of product characteristics of the respective coadministered medicinal products for comprehensive details of relevant safety information or contraindications.
-
 In clinical studies, platelet counts generally began to increase within 1 week of starting eltrombopag.
 The aim of treatment with eltrombopag should be to achieve the minimum level of platelet counts needed to initiate antiviral therapy, in adherence to clinical practice recommendations.
 During antiviral therapy, the aim of treatment should be to keep platelet counts at a level that prevents the risk of bleeding complications, normally around 50,000-75,000/µl.
@@ -101,13 +100,13 @@ Table 2 Dose adjustments of eltrombopag in HCV patients during antiviral therapy
 
 * - For patients taking 25 mg eltrombopag once daily, consideration should be given to reinitiating dosing at 25 mg every other day.
 ♦ - On initiation of antiviral therapy the platelet count may fall, so immediate eltrombopag dose reductions should be avoided.
-
 Discontinuation
 
 If after 2 weeks of eltrombopag therapy at 100 mg the required platelet level to initiate antiviral therapy is not achieved, eltrombopag should be discontinued.
 
 Eltrombopag treatment should be terminated when antiviral therapy is discontinued unless otherwise justified.
 Excessive platelet count responses or important liver test abnormalities also necessitate discontinuation.
+
 Severe aplastic anaemia
 
 Initial dose regimen
@@ -140,12 +139,12 @@ For patients who achieve tri-lineage response, including transfusion independenc
 If counts remain stable after 8 weeks at the reduced dose, then eltrombopag must be discontinued and blood counts monitored.
 If platelet counts drop to < 30,000/µl, haemoglobin to < 9 g/dL or ANC
 < 0.5 x 109/L, eltrombopag may be reinitiated at the previous effective dose.
-
 Discontinuation
 
 If no haematological response has occurred after 16 weeks of therapy with eltrombopag, therapy should be discontinued.
 If new cytogenetic abnormalities are detected, it must be evaluated whether continuation of eltrombopag is appropriate (see sections 4.4 and 4.8).
 Excessive platelet count responses (as outlined in Table 3) or important liver test abnormalities also necessitate discontinuation of eltrombopag (see section 4.8).
+
 Special populations
 
 Renal impairment
@@ -180,12 +179,12 @@ East Asian patients
 For patients of East Asian ancestry (such as Chinese, Japanese, Taiwanese, Korean or Thai), including those with hepatic impairment, eltrombopag should be initiated at a dose of 25 mg once daily (see section 5.2).
 
 Patient platelet count should continue to be monitored and the standard criteria for further dose modification followed.
-
 Paediatric population
 
 Revolade is not recommended for use in children under the age of one year with chronic ITP due to insufficient data on safety and efficacy.
 The safety and efficacy of eltrombopag has not been established in children and adolescents (< 18 years) with chronic HCV related thrombocytopenia or SAA.
 No data are available.
+
 Method of administration
 
 Oral use.

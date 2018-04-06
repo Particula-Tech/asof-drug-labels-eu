@@ -14,8 +14,7 @@ Table 8: Geometric mean (95% confidence intervals) of steady-state plasma eltrom
 | 75 mg | 26 | 168 (143, 198) | 12.7 (11.0, 14.5) |
 
 a - AUC(0-τ) and Cmax based on population PK post-hoc estimates.
-Plasma eltrombopag concentration-time data collected in 590 subjects with HCV enrolled in
-Phase III studies TPL103922/ENABLE 1 and TPL108390/ENABLE 2 were combined with data from patients with HCV enrolled in the Phase II study TPL102357 and healthy adult subjects in a population PK analysis.
+Plasma eltrombopag concentration-time data collected in 590 subjects with HCV enrolled in Phase III studies TPL103922/ENABLE 1 and TPL108390/ENABLE 2 were combined with data from patients with HCV enrolled in the Phase II study TPL102357 and healthy adult subjects in a population PK analysis.
 Plasma eltrombopag Cmax and AUC(0-τ) estimates for patients with HCV enrolled in the Phase 3 studies are presented for each dose studied in Table 9.
 
 Table 9 Geometric mean (95% CI) steady-state plasma eltrombopag pharmacokinetic parameters in patients with chronic HCV
