@@ -16,6 +16,7 @@ Increased incidence or severity of renal pelvic dilatation was observed in adult
 Additional developmental toxicity was limited to dose-related reductions in pup body weights, and observed only at doses ≥15 mg/kg/day (associated with pup exposures that are ≥29 times the human values at the maximum recommended human dose).
 Maternal toxicity was evident only at the highest dose tested, and limited to transient reductions in body weight and food consumption at dose.
 The no observed adverse effect level (NOAEL) for developmental toxicity, the lowest dose tested, is associated with a maternal systemic exposure multiple that is approximately 19 times the human value at the maximum recommended human dose.
+
 In additional studies of embryo-foetal development in rats and rabbits, dapagliflozin was administered for intervals coinciding with the major periods of organogenesis in each species.
 Neither maternal nor developmental toxicities were observed in rabbits at any dose tested; the highest dose tested is associated with a systemic exposure multiple of approximately 1,191 times the maximum recommended human dose.
 In rats, dapagliflozin was neither embryolethal nor teratogenic at exposures up to 1,441 times the maximum recommended human dose.

@@ -1,6 +1,6 @@
 # 4.4 Special warnings and precautions for use
 
-Use in patients with renal impairment
+Renal impairment
 The efficacy of dapagliflozin is dependent on renal function, and efficacy is reduced in patients who have moderate renal impairment and likely absent in patients with severe renal impairment (see section 4.2).
 In subjects with moderate renal impairment (patients with CrCl < 60 ml/min or eGFR < 60 ml/min/1.73 m2), a higher proportion of subjects treated with dapagliflozin had adverse reactions of increase in creatinine, phosphorus, parathyroid hormone (PTH) and hypotension, compared with placebo.
 Forxiga is not recommended for use in patients with moderate to severe renal impairment (patients with CrCl < 60 ml/min or eGFR < 60 ml/min/1.73 m2).
@@ -12,7 +12,7 @@ Monitoring of renal function is recommended as follows:
 - For renal function approaching moderate renal impairment, at least 2 to 4 times per year.
   If renal function falls below CrCl < 60 ml/min or eGFR < 60 ml/min/1.73 m2, dapagliflozin treatment should be discontinued.
 
-Use in patients with hepatic impairment
+Hepatic impairment
 There is limited experience in clinical trials in patients with hepatic impairment.
 Dapagliflozin exposure is increased in patients with severe hepatic impairment (see sections 4.2 and 5.2).
 
@@ -27,7 +27,7 @@ For patients receiving dapagliflozin, in case of intercurrent conditions that ma
 Temporary interruption of treatment with dapagliflozin is recommended for patients who develop volume depletion until the depletion is corrected (see section 4.8).
 
 Diabetic ketoacidosis
-Rare cases of diabetic ketoacidosis (DKA), including life-threatening and fatal cases, have been reported in patients treated with SGLT2 inhibitors, including dapagliflozin.
+Rare cases of diabetic ketoacidosis (DKA), including life-threatening and fatal cases, have been reported in patients treated with sodium-glucose co-transporter 2 (SGLT2) inhibitors, including dapagliflozin.
 In a number of cases, the presentation of the condition was atypical with only moderately increased blood glucose values, below 14 mmol/l (250 mg/dl).
 It is not known if DKA is more likely to occur with higher doses of dapagliflozin.
 
@@ -81,9 +81,6 @@ Lower limb amputations
 An increase in cases of lower limb amputation (primarily of the toe) has been observed in ongoing long-term, clinical studies with another SGLT2 inhibitor.
 It is unknown whether this constitutes a class effect.
 Like for all diabetic patients it is important to counsel patients on routine preventative foot care.
-Combinations not studied
-Dapagliflozin has not been studied in combination with glucagon-like peptide 1 (GLP-1) analogues.
-
 Urine laboratory assessments
 Due to its mechanism of action, patients taking Forxiga will test positive for glucose in their urine.
 
