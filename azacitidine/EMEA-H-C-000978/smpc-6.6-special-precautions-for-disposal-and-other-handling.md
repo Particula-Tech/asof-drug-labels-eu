@@ -26,7 +26,7 @@ The product should be discarded if it contains large particles or agglomerates.
 Do not filter the suspension after reconstitution since this could remove the active substance.
 It must be taken into account that filters are present in some adaptors, spikes and closed systems; therefore such systems should not be used for administration of the medicinal product after reconstitution.
 5.
-The rubber top should be cleaned and a new syringe with needle inserted into the vial .
+The rubber top should be cleaned and a new syringe with needle inserted into the vial.
 The vial should then be turned upside down, making sure the needle tip is below the level of the liquid.
 The plunger should then be pulled back to withdraw the amount of medicinal product required for the proper dose, making sure to purge any air trapped within the syringe.
 The syringe with needle should then be removed from the vial and the needle disposed of.
@@ -34,8 +34,9 @@ The syringe with needle should then be removed from the vial and the needle disp
 A fresh subcutaneous needle (recommended 25-gauge) should then be firmly attached to the syringe.
 The needle should not be purged prior to injection, in order to reduce the incidence of local injection site reactions.
 7.
-If needed (doses over 100 mg) all the above steps for preparation of the suspension should be repeated.
-For doses greater than 100 mg (4 mL), the dose should be equally divided into 2 syringes (e.g., dose 150 mg = 6 mL, 2 syringes with 3 mL in each syringe).
+When more than 1 vial is needed all the above steps for preparation of the suspension should be repeated.
+For doses requiring more than 1 vial, the dose should be equally divided e.g., dose 150 mg = 6 mL, 2 syringes with 3 mL in each syringe.
+Due to retention in the vial and needle, it may not be feasible to withdraw all of the suspension from the vial.
 8.
 The contents of the dosing syringe must be re-suspended immediately prior to administration.
 The syringe filled with reconstituted suspension should be allowed up to 30 minutes prior to administration to reach a temperature of approximately 20 °C-25 °C.
@@ -67,4 +68,4 @@ Doses greater than 4 mL should be injected into two separate sites.
 Injection sites should be rotated.
 New injections should be given at least 2.5 cm from the previous site and never into areas where the site is tender, bruised, red, or hardened.
 
-Any unused product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
