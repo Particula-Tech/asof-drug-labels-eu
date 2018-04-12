@@ -10,6 +10,7 @@ Binding to plasma proteins is not extensive (about 60%).
 Brinzolamide is eliminated primarily by renal excretion (approximately 60%).
 About 20% of the dose has been accounted for in urine as metabolite.
 Brinzolamide and N-desethylbrinzolamide are the predominant components in the urine along with trace levels (<1%) of the N-desmethoxypropyl and O-desmethyl metabolites.
+
 In an oral pharmacokinetic study, healthy volunteers received 1 mg capsules of brinzolamide twice daily for up to 32 weeks and RBC CA activity was measured to assess the degree of systemic CA inhibition.
 
 Brinzolamide saturation of RBC CA-II was achieved within 4 weeks (RBC concentrations of approximately 20 µM).

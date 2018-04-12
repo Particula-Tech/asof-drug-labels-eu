@@ -3,8 +3,7 @@
 Summary of the safety profile
 In clinical studies involving 2732 patients treated with AZOPT as monotherapy or adjunctive therapy to timolol maleate 5 mg/ml, the most frequently reported treatment-related adverse reactions were: dysgeusia (6.0%) (bitter or unusual taste, see description below) and temporary blurred vision (5.4%) upon instillation, lasting from a few seconds to a few minutes (see also section 4.7).
 Tabulated summary of adverse reactions
-The following adverse reactions have been reported with brinzolamide 10mg/ml eye drops, suspension and are classified according to the following convention: very common (≥1/10), common
-(≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1000), very rare (<1/10,000), or not known (cannot be estimated from the available data).
+The following adverse reactions have been reported with brinzolamide 10mg/ml eye drops, suspension and are classified according to the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1000), very rare (<1/10,000), or not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 The adverse reactions were obtained from clinical trials and post-marketing spontaneous reports.
 
@@ -20,14 +19,13 @@ The adverse reactions were obtained from clinical trials and post-marketing spon
 | Ear and labyrinth disorders | Rare: tinnitus Not Known: vertigo |
 | Cardiac disorders | Uncommon: cardio-respiratory distress, bradycardia, palpitations Rare: angina pectoris, heart rate irregular Not Known: arrhythmia, tachycardia, hypertension, blood pressure increased, blood pressure decreased, heart rate increased |
 | Respiratory, thoracic and mediastinal disorders | Uncommon: dyspnoea, epistaxis, oropharyngeal pain, pharyngolaryngeal pain, throat irritation, upper airway cough syndrome, rhinorrhoea, sneezing Rare: bronchial hyperreactivity, upper respiratory tract congestion, sinus congestion, nasal congestion, cough, nasal dryness Not Known: asthma |
-| Gastrointestinal disorders | Common: dysgeusia |
-|  | Uncommon: oesophagitis, diarrhoea, nausea, vomiting, dyspepsia, upper abdominal pain, abdominal discomfort, stomach discomfort, flatulence, frequent bowel movements, gastrointestinal disorder, hypoaesthesia oral, paraesthesia oral, dry mouth |
+| Gastrointestinal disorders | Common: dysgeusia Uncommon: oesophagitis, diarrhoea, nausea, vomiting, dyspepsia, upper abdominal pain, abdominal discomfort, stomach discomfort, flatulence, frequent bowel movements, gastrointestinal disorder, hypoaesthesia oral, paraesthesia oral, dry mouth |
 | Hepato-biliary disorders | Not Known: liver function test abnormal |
 | Skin and subcutaneous tissue disorders | Uncommon: rash, rash maculo-papular, skin tightness Rare: urticaria, alopecia, pruritus generalised Not Known: dermatitis, erythema |
 | Musculoskeletal and connective tissue disorders | Uncommon: back pain, muscle spasms, myalgia Not Known: arthralgia, pain in extremity |
 | Renal and urinary disorders | Uncommon: renal pain Not Known: pollakiuria |
 | Reproductive system and breast disorders | Uncommon: erectile dysfunction |
-| General disorders and administration site conditions | Uncommon: pain, chest discomfort, fatigue, feeling abnormal, Rare: chest pain, feeling jittery, asthenia, irritability Not Known: peripheral oedema, malaise |
+| General disorders and administration site conditions | Uncommon: pain, chest discomfort, fatigue, feeling abnormal Rare: chest pain, feeling jittery, asthenia, irritability Not Known: peripheral oedema, malaise |
 | Injury, poisoning and procedural complications | Uncommon: foreign body in eye |
 
 Description of selected adverse events
