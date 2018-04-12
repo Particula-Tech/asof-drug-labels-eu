@@ -18,7 +18,7 @@ Table 1.
 | Eye disorders | very common | conjunctival hyperaemia |
 |  | common | punctate keratitis, eye irritation, eye pruritus, growth of eyelashes, eye pain, erythema of eyelid, eyelid pruritus |
 |  | uncommon | asthenopia, blurred vision, conjunctival disorder, conjunctival oedema, iris hyperpigmentation, madarosis, eyelid oedema |
-|  | not known | blepharal pigmentation, macular oedema, periorbital and lid changes including deepening of the eyelid sulcus, dry eye |
+|  | not known | blepharal pigmentation, macular oedema, periorbital and lid changes including deepening of the eyelid sulcus, dry eye, eye discharge, eye oedema, foreign body sensation in eyes, lacrimation increased |
 | Respiratory, thoracic and mediastinal disorders | not known | asthma, asthma exacerbation, COPD exacerbation and dyspnoea |
 | Gastrointestinal disorders | uncommon | nausea |
 | Skin and subcutaneous tissue disorders | common | skin hyperpigmentation, hypertrichosis |

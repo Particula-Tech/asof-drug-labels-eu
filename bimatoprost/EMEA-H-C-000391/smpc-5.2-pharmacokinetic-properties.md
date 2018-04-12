@@ -5,7 +5,6 @@ Bimatoprost penetrates the human cornea and sclera well in vitro.
 After ocular administration in adults, the systemic exposure of bimatoprost is very low with no accumulation over time.
 After once daily ocular administration of one drop of 0.3 mg/ml bimatoprost to both eyes for two weeks, blood concentrations peaked within 10 minutes after dosing and declined to below the lower limit of detection (0.025 ng/ml) within 1.5 hours after dosing.
 Mean Cmax and AUC 0-24hrs values were similar on days 7 and 14 at approximately 0.08 ng/ml and 0.09 ng•hr/ml respectively, indicating that a steady bimatoprost concentration was reached during the first week of ocular dosing.
-
 Distribution
 Bimatoprost is moderately distributed into body tissues and the systemic volume of distribution in humans at steady-state was 0.67 l/kg.
 In human blood, bimatoprost resides mainly in the plasma.
