@@ -5,8 +5,7 @@ Do not store above 30ºC.
 
 Ferriprox 1000 mg film-coated tablets
 Do not store above 30ºC.
-For the bottle: Keep the bottle tightly closed in order to protect from moisture.
-For the blister: Store in the original package in order to protect from moisture.
+Keep the bottle tightly closed in order to protect from moisture.
 
 [Ferriprox 100 mg/ml oral solution]
 

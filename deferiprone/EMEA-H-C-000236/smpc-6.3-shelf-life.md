@@ -4,9 +4,11 @@ Ferriprox 500 mg film-coated tablets
 5 years.
 
 Ferriprox 1000 mg film-coated tablets
-3 years.
-For the bottle: After first opening use within 50 days.
+4 years.
+After first opening use within 50 days.
 
 [Ferriprox 100 mg/ml oral solution]
+
+3 years.
 
 After first opening use within 35 days.
