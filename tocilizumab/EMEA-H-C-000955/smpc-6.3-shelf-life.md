@@ -11,3 +11,7 @@ If not used immediately, in use storage times and conditions prior to use are th
 24 months.
 
 Once removed from the refrigerator, RoActemra must be administered within 8 hours and should not be kept above 30°C.
+
+[RoActemra 162 mg solution for injection in pre-filled pen.]
+
+(all sentences already above)

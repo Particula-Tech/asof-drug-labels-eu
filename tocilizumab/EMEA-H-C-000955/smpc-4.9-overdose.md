@@ -13,3 +13,7 @@ No case of an overdose in the paediatric population has been observed.
 [RoActemra 162 mg solution for injection in pre-filled syringe.]
 
 One case of accidental overdose was reported in which a patient with multiple myeloma received a single dose of 40 mg/kg administered intravenously.
+
+[RoActemra 162 mg solution for injection in pre-filled pen.]
+
+(all sentences already above)

@@ -149,11 +149,18 @@ For instructions on dilution of the medicinal product before administration, see
 
 [RoActemra 162 mg solution for injection in pre-filled syringe.]
 
-Treatment should be initiated by healthcare professionals experienced in the diagnosis and treatment of RA and / or GCA.
-Suitability of the patient for subcutaneous home use should be assessed and patients should be instructed to inform a healthcare professional if they experience symptoms of an allergic reaction.
-Patients should seek immediate medical attention if they develop symptoms of serious allergic reactions (see section 4.4).
+Tocilizumab SC formulation is administered with a single-use PFS+NSD.
+Treatment should be initiated by healthcare professionals experienced in the diagnosis and treatment of RA, pJIA and / or GCA.
+The first injection should be performed under the supervision of a qualified health care professional.
+A patient can self-inject RoActemra only if the physician determines that it is appropriate and the patient agrees to medical follow-up as necessary and has been trained in proper injection technique.
+
+Patients who transition from tocilizumab IV therapy to SC administration should administer the first SC dose at the time of the next scheduled IV dose under the supervision of a qualified health care professional.
+
+Suitability of the patient or parent/guardian for subcutaneous home use should be assessed and patients or parent/guardian instructed to inform a healthcare professional before administering the next dose if they experience symptoms of an allergic reaction.
+Patients should seek immediate medical attention if developing symptoms of serious allergic reactions (see section 4.4).
 
 RoActemra subcutaneous formulation is not intended for intravenous administration.
+
 RA
 The recommended posology is subcutaneous 162 mg once every week.
 
@@ -168,7 +175,6 @@ RoActemra can be used alone following discontinuation of glucocorticoids.
 RoActemra monotherapy should not be used for the treatment of acute relapses (see 4.4).
 
 Based upon the chronic nature of GCA, treatment beyond 52 weeks should be guided by disease activity, physician discretion, and patient choice.
-
 RA and GCA
 
 | Laboratory Value | Action |
@@ -195,12 +201,36 @@ If a patient misses a subcutaneous once every other week injection of RoActemra 
 No dose adjustment is required in patients with mild or moderate renal impairment.
 RoActemra has not been studied in patients with severe renal impairment (see section 5.2).
 
-The safety and efficacy of RoActemra subcutaneous formulation in children from birth to less than 18 years have not been established.
+The safety and efficacy of RoActemra subcutaneous formulation in children from birth to less than 2 years have not been established.
+There is no data.
 
+The recommended posology in patients above 2 years of age is subcutaneous 162 mg once every 2 weeks in patients weighing greater than or equal to 30 kg or subcutaneous 162 mg once every 3 weeks in patients weighing less than 30 kg.
+
+Reduction of tocilizumab dosing frequency due to laboratory abnormalities has not been studied in pJIA patients.
+
+The safety and efficacy of RoActemra subcutaneous formulation in children with conditions other than pJIA have not been established.
+
+Available data with the IV formulation suggest that clinical improvement is observed within 12 weeks of initiation of treatment with RoActemra.
+
+If a pJIA patient misses a subcutaneous injection of RoActemra within 7 days of the scheduled dose, he/she should take the missed dose as soon as they remember and take the next dose at the regular scheduled time.
+If a patient misses a subcutaneous injection of RoActemra by more than 7 days of the scheduled dose or is unsure when to inject RoActemra, call the doctor or pharmacist.
 RoActemra is for subcutaneous use.
 After proper training in injection technique, patients may self-inject with RoActemra if their physician determines that it is appropriate.
 The total content (0.9 ml) of the pre-filled syringe should be administered as a subcutaneous injection.
 The recommended injection sites (abdomen, thigh and upper arm) should be rotated and injections should never be given into moles, scars, or areas where the skin is tender, bruised, red, hard, or not intact.
+
 The pre-filled syringe should not be shaken.
 
 Comprehensive instructions for the administration of RoActemra in a pre-filled syringe are given in the package leaflet, see section 6.6.
+
+[RoActemra 162 mg solution for injection in pre-filled pen.]
+
+Treatment should be initiated by healthcare professionals experienced in the diagnosis and treatment of RA and/or GCA.
+Suitability of the patient for subcutaneous home use should be assessed and patients should be instructed to inform a healthcare professional if they experience symptoms of an allergic reaction before administering the next dose.
+Patients should seek immediate medical attention if they develop symptoms of serious allergic reactions (see section 4.4).
+
+The total content (0.9 ml) of the pre-filled pen should be administered as a subcutaneous injection.
+
+The pre-filled pen should not be shaken.
+
+Comprehensive instructions for the administration of RoActemra in a pre-filled pen are given in the package leaflet, see section 6.6.

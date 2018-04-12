@@ -29,3 +29,12 @@ In vitro studies with cultured human hepatocytes demonstrated that IL-6 caused a
 RoActemra normalises expression of these enzymes.
 
 When starting or stopping therapy with tocilizumab, patients taking medicinal products which are individually adjusted and are metabolised via CYP450 3A4, 1A2 or 2C9 (e.g. methylprednisolone, dexamethasone, (with the possibility for oral glucocorticoid withdrawal syndrome), atorvastatin, calcium channel blockers, theophylline, warfarin, phenprocoumon, phenytoin, ciclosporin, or benzodiazepines) should be monitored as doses may need to be increased to maintain therapeutic effect.
+
+[RoActemra 162 mg solution for injection in pre-filled pen.]
+
+Thus, CYP450 expression may be reversed when potent cytokine inhibitory therapy, such as RoActemra, is introduced.
+
+In a study in RA patients, levels of simvastatin (CYP3A4) were decreased by 57% one week following a single dose of RoActemra, to the level similar to, or slightly higher than, those observed in healthy subjects.
+
+When starting or stopping therapy with RoActemra, patients taking medicinal products which are individually adjusted and are metabolised via CYP450 3A4, 1A2 or 2C9 (e.g. methylprednisolone, dexamethasone, (with the possibility for oral glucocorticoid withdrawal syndrome), atorvastatin, calcium channel blockers, theophylline, warfarin, phenprocoumon, phenytoin, ciclosporin, or benzodiazepines) should be monitored as doses may need to be increased to maintain therapeutic effect.
+Given its long elimination half-life (t1/2), the effect of RoActemra on CYP450 enzyme activity may persist for several weeks after stopping therapy.

@@ -17,3 +17,7 @@ RoActemra can be given as monotherapy in case of intolerance to MTX or where con
 [RoActemra 162 mg solution for injection in pre-filled syringe.]
 
 RoActemra is indicated for the treatment of Giant Cell Arteritis (GCA) in adult patients.
+
+[RoActemra 162 mg solution for injection in pre-filled pen.]
+
+(all sentences already above)

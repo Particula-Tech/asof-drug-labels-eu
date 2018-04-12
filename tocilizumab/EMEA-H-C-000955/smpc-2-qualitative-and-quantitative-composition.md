@@ -20,3 +20,9 @@ For the full list of excipients, see section 6.1.
 Each pre-filled syringe contains 162 mg of tocilizumab in 0.9 ml.
 
 Tocilizumab is a recombinant humanized, anti-human monoclonal antibody of the immunoglobulin G1 (IgG1) sub-class directed against soluble and membrane-bound interleukin 6 receptors.
+
+[RoActemra 162 mg solution for injection in pre-filled pen.]
+
+Each pre-filled pen contains 162 mg of RoActemra (tocilizumab) in 0.9 ml.
+
+RoActemra is a recombinant humanized, anti-human monoclonal antibody of the immunoglobulin G1 (IgG1) sub-class directed against soluble and membrane-bound interleukin 6 receptors.

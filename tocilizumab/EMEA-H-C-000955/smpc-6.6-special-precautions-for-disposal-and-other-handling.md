@@ -42,4 +42,21 @@ If the pre-filled syringe is not used within 5 minutes of removing the cap, you 
 If following insertion of the needle you cannot depress the plunger, you must dispose of the pre-filled syringe in a puncture resistant container and use a new pre-filled syringe.
 
 Do not use if the medicine is cloudy or contains particles, is any colour besides colourless to slightly yellowish, or any part of the pre-filled syringe appears to be damaged.
+
 Comprehensive instructions for the administration of RoActemra in a pre-filled syringe are given in the package leaflet.
+
+[RoActemra 162 mg solution for injection in pre-filled pen.]
+
+RoActemra is supplied in a single use pre-filled pen.
+After removing the pre-filled pen from the refrigerator the pre-filled pen should be allowed to reach room temperature (18°C to 28C°) by waiting for 45 minutes, before injecting RoActemra .
+The pen should not be shaken.
+After removing the cap the injection must be started within 3 minutes, to prevent the medicine from drying out and blocking the needle.
+If the pre-filled pen is not used within 3 minutes of removing the cap, you must dispose of it in a puncture resistant container and use a new pre-filled pen.
+
+If following pressing the activation button the purple indicator does not move, you must dispose of the pre-filled pen in a puncture resistant container.
+Do not try to re-use the pre-filled pen.
+Do not repeat the injection with another pre-filled pen.
+Call your healthcare provider for help.
+
+Do not use if the medicine is cloudy or contains particles, is any colour besides colourless to slightly yellowish, or any part of the pre-filled pen appears to be damaged.
+Comprehensive instructions for the administration of RoActemra in a pre-filled pen are given in the package leaflet.

@@ -5,3 +5,7 @@ This medicinal product must not be mixed with other medicinal products except th
 [RoActemra 162 mg solution for injection in pre-filled syringe.]
 
 In the absence of compatability studies, this medicinal product must not be mixed with other medicinal products.
+
+[RoActemra 162 mg solution for injection in pre-filled pen.]
+
+In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.

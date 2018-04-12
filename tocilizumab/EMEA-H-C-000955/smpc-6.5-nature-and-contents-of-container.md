@@ -11,3 +11,9 @@ Not all pack sizes may be marketed.
 The syringe is closed by a rigid needle shield (elastomer seal with a polypropylene shell) and a plunger stopper (butyl rubber with a fluororesin coating).
 
 Pack sizes of 4 pre-filled syringes and multipacks containing 12 (3 packs of 4) pre-filled syringes.
+
+[RoActemra 162 mg solution for injection in pre-filled pen.]
+
+0.9 ml solution in a pre-filled syringe (type I glass) with a staked-in needle containing 162 mg RoActemra assembled into a pre-filled pen.
+
+Pack sizes of 4 pre-filled pens and multipacks containing 12 (3 packs of 4) pre-filled pens.

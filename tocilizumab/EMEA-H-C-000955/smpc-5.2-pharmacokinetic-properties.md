@@ -89,6 +89,27 @@ At body weight ≥ 100 kg, the predicted mean (± SD) steady-state AUC, Cmin and
 The dose-response curve for tocilizumab flattens at higher exposure, resulting in smaller efficacy gains for each incremental increase in RoActemra concentration such that clinically meaningful increases in efficacy were not demonstrated in patients treated with > 800 mg of RoActemra .
 Therefore, RoActemra doses exceeding 800 mg per infusion are not recommended (see section 4.2).
 
+The pharmacokinetics of RoActemra in pJIA patients was characterized by a population pharmacokinetic analysis which included 237 patients who were treated with 8 mg/kg IV every 4 weeks (patients weighing ≥ 30 kg), 10 mg/kg IV every 4 weeks (patients weighing below 30 kg), 162 mg SC every 2 weeks (patients weighing ≥ 30 kg), or 162 mg SC every 3 weeks (patients weighing below 30 kg).
+Table 8.
+Predicted mean ± SD PK parameters at steady-state after IV or SC dosing in pJIA
+
+|  | IV |  | SC |  |
+| --- | --- | --- | --- | --- |
+| RoActemra PK Parameter | 8 mg/kg Q4W ≥ 30 kg | 10 mg/kg Q4W below 30 kg | 162 mg Q2W ≥ 30 kg | 162 mg Q3W below 30 kg |
+| Cmax (µg/mL) | 183 ± 42.3 | 168 ± 24.8 | 29.4 ± 13.5 | 75.5 ± 24.1 |
+| Cmin (µg/mL) | 6.55 ± 7.93 | 1.47 ± 2.44 | 11.8 ± 7.08 | 18.4 ± 12.9 |
+| Cavg (µg/mL) | 42.2 ± 13.4 | 31.6 ± 7.84 | 21.7 ± 10.4 | 45.5 ± 19.8 |
+| Accumulation Cmax | 1.04 | 1.01 | 1.72 | 1.32 |
+| Accumulation Cmin | 2.22 | 1.43 | 3.58 | 2.08 |
+| Accumulation Cavgor AUCτ * | 1.16 | 1.05 | 2.04 | 1.46 |
+
+*τ = 4 weeks for IV regimens, 2 week or 3 week for the two SC regimens, respectively
+
+After IV dosing, approximately 90% of the steady-state was reached by Week 12 for the 10 mg/kg (BW < 30 kg), and by Week 16 for the 8 mg/kg (BW ≥ 30 kg) dose.
+After SC dosing, approximately 90% of the steady-state was reached by Week 12 for both the 162 mg SC Q2W and Q3W regimens.
+
+In RA patients the central volume of distribution was 3.72 L, the peripheral volume of distribution was 3.35 L resulting in a volume of distribution at steady state of 7.07 L.
+
 Following intravenous administration, RoActemra undergoes biphasic elimination from the circulation.
 The total clearance of RoActemra was concentration-dependent and is the sum of the linear and non-linear clearance.
 The concentration-dependent non-linear clearance plays a major role at low RoActemra concentrations.
@@ -105,7 +126,6 @@ The pharmacokinetic parameters of RoActemra did not change with time.
 For the 162 mg every week dose, the predicted mean (±SD) steady-state AUC1week, Cmin and Cmax of RoActemra were 7970 ± 3432 µg•h/mL, 43.0 ± 19.8 µg/mL, and 49.8 ± 21.0 µg/mL, respectively.
 The accumulation ratios for AUC, Cmin, and Cmax were 6.32, 6.30, and 5.27, respectively.
 Steady state was reached after 12 weeks for AUC, Cmin, and Cmax.
-
 For the 162 every other week dose, the predicted mean (±SD) steady-state AUC2week, Cmin, and Cmax of RoActemra were 3430 ± 2660 µg•h/mL, 5.7 ± 6.8 µg/mL, and 13.2 ± 8.8 µg/mL, respectively.
 The accumulation ratios for AUC, Cmin, and Cmax were 2.67, 6.02, and 2.12, respectively.
 Steady state was reached after 12 weeks for AUC and Cmin, and after 10 weeks for Cmax.
@@ -113,24 +133,33 @@ Steady state was reached after 12 weeks for AUC and Cmin, and after 10 weeks for
 Absorption
 Following subcutaneous dosing in RA patients, the time to peak serum RoActemra concentrations tmax was 2.8 days.
 The bioavailability for the subcutaneous formulation was 79%.
-For subcutaneous administration, the concentration-dependent apparent t 1/2 is up to 12 days for 162 mg every week and 5 days for 162 mg every other week in patients with RA at steady-state.
+
+Following SC dosing in pJIA patients, the absorption half-life was around 2 days, and the bioavailability for the SC formulation in pJIA patients was 96%.
+
+In paediatric patients with pJIA, the central volume of distribution was 1.97 L, the peripheral volume of distribution was 2.03 L, resulting in a volume of distribution at steady state of 4.0 L.
+
+For subcutaneous administration, the effective t1/2 is up to 13 days for 162 mg every week and 5 days for 162 mg every other week in patients with RA at steady-state.
+Population pharmacokinetic analysis for pJIA patients showed body size related impact on linear clearance so that body-weight based dosing should be taken into consideration (see Table 8).
+
+After subcutaneous administration, the effective t1/2 of RoActemra in pJIA patients is up to 10 days for patients < 30 kg (162 mg SC Q3W) and up to 7 days for patients >= 30 kg (162 mg SC Q2W) during a dosing interval at steady state.
+The linear clearance was estimated as a parameter in the population pharmacokinetic analysis and was 6.25 ml/h.
 
 GCA
 The PK of RoActemra in GCA patients were determined using a population PK model from an analysis dataset composed of 149 GCA patients treated with 162 mg subcutaneous every week or 162 mg subcutaneous every other week.
-The developed model had the same structure as the population PK model developed earlier based on data from RA patients (see Table 8).
+The developed model had the same structure as the population PK model developed earlier based on data from RA patients (see Table 9).
 
-Table 8.
+Table 9.
 Predicted mean ± SD PK parameters at steady-state after subcutaneous dosing in GCA
 
 |  | Subcutaneous |  |
 | --- | --- | --- |
 | Tocilizumab PK Parameter | 162 mg every other weekly | 162 mg weekly |
 | Cmax (µg/mL) | 19.3 ± 12.8 | 73 ± 30.4 |
-| Ctrough (µg/mL) | 11.1 ± 10.3 | 68.1± 29.5 |
-| Cmean (µg/mL) | 16.2 ± 11.8 | 71.3 ± 30.1 |
+| Cmin (µg/mL) | 11.1 ± 10.3 | 68.1± 29.5 |
+| Cavg (µg/mL) | 16.2 ± 11.8 | 71.3 ± 30.1 |
 | Accumulation Cmax | 2.18 | 8.88 |
-| Accumulation Ctrough | 5.61 | 9.59 |
-| Accumulation Cmean or AUCτ | 2.81 | 10.91 |
+| Accumulation Cmin | 5.61 | 9.59 |
+| Accumulation Cavg or AUCτ | 2.81 | 10.91 |
 
 The steady-state profile following the RoActemra weekly dose was almost flat, with very little fluctuations between trough and peak values, while there were substantial fluctuations for the RoActemra every other weekly dose.
 Approximately 90% of the steady-state (AUCτ) was reached by week 14 in the every other weekly and week 17 in the weekly dose groups.
@@ -159,7 +188,7 @@ In GCA patients, at steady state, the effective t ½ of RoActemra varied between
 At high serum concentrations, when total clearance of RoActemra is dominated by linear clearance, an effective t ½ of approximately 32 days was derived from the population parameter estimates.
 
 Renal impairment: No formal study of the effect of renal impairment on the pharmacokinetics of RoActemra has been conducted.
-Most of the patients in theRA and GCA studies population pharmacokinetic analysis had normal renal function or mild renal impairment.
+Most of the patients in the RA and GCA studies population pharmacokinetic analysis had normal renal function or mild renal impairment.
 Mild renal impairment (estimated creatinine clearance based on Cockcroft-Gault formula ) did not impact the pharmacokinetics of RoActemra .
 
 Approximately one-third of the patients in the GCA study had moderate renal impairment at baseline (estimated creatinine clearance of 30-59 mL/min).
@@ -170,3 +199,29 @@ No dose adjustment is required in patients with mild or moderate renal impairmen
 Hepatic impairment: No formal study of the effect of hepatic impairment on the pharmacokinetics of RoActemra has been conducted.
 
 Age, gender and ethnicity: Population pharmacokinetic analyses in RA and GCA patients, showed that age, gender and ethnic origin did not affect the pharmacokinetics of RoActemra.
+Results of the population PK analysis for pJIA patients confirmed that body size is the only covariate which has an appreciable impact on the pharmacokinetics of RoActemra including elimination and absorption so that body-weight based dosing should be taken into consideration (see Table 8).
+
+[RoActemra 162 mg solution for injection in pre-filled pen.]
+
+The pharmacokinetics of RoActemra were determined using a population pharmacokinetic analysis on a database composed of 3552 RA patients treated with a one-hour infusion of 4 or 8 mg/kg RoActemra every 4 weeks for 24 weeks or with 162 mg RoActemra given subcutaneously either once a week or every other week for 24 weeks.
+The following parameters (predicted mean ± SD) were estimated for a dose of 8 mg/kg RoActemra given every 4 weeks: steady-state area under curve (AUC) = 38000 ± 13000 h µg/mL, trough concentration (Cmin) = 15.9 ± 13.1 µg/mL and maximum concentration (Cmax) = 182 ± 50.4 µg/mL, and. the accumulation ratios for AUC and Cmax were small, 1.32 and 1.09, respectively.
+The dose-response curve for RoActemra flattens at higher exposure, resulting in smaller efficacy gains for each incremental increase in RoActemra concentration such that clinically meaningful increases in efficacy were not demonstrated in patients treated with > 800 mg of RoActemra.
+
+For the 162 mg every week dose, the predicted mean (±SD) steady-state AUC1week, Cmin and Cmax of RoActemra were 7970 ± 3432 µg•h/mL, 43.0 ± 19.8 µg/mL, and 49.8 ± 21.0 µg /mL, respectively.
+
+The bioavailability for the subcutaneous formulation was 79.%.
+For subcutaneous administration, the concentration-dependent apparent t 1/2 is up to 12 days for 162 mg every week and 5 days for 162 mg every other week in patients with RA at steady-state.
+
+The developed model had the same structure as the population PK model developed earlier based on data from RA patients (see Table 8).
+
+|  | Subcutaneous |  |
+| --- | --- | --- |
+| Tocilizumab PK Parameter | 162 mg every other weekly | 162 mg weekly |
+| Cmax (µg/mL) | 19.3 ± 12.8 | 73 ± 30.4 |
+| Ctrough (µg/mL) | 11.1 ± 10.3 | 68.1± 29.5 |
+| Cmean (µg/mL) | 16.2 ± 11.8 | 71.3 ± 30.1 |
+| Accumulation Cmax | 2.18 | 8.88 |
+| Accumulation Ctrough | 5.61 | 9.59 |
+| Accumulation Cmean or AUCτ | 2.81 | 10.91 |
+
+Mild renal impairment (estimated creatinine clearance based on Cockcroft-Gault formula) did not impact the pharmacokinetics of RoActemra.

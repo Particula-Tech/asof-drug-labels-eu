@@ -27,3 +27,7 @@ RoActemra administered to cynomolgus monkeys during early gestation, was observe
 Although IL-6 does not seem to be a critical cytokine for foetal growth or the immunological control of the maternal/foetal interface, a relation of this finding to RoActemra cannot be excluded.
 
 The non-clinical safety profile of RoActemra in the cynomolgus monkey does not suggest a difference between intravenous and subcutaneous routes of administration.
+
+[RoActemra 162 mg solution for injection in pre-filled pen.]
+
+Available non-clinical data do not suggest an effect on fertility under RoActemra treatment.

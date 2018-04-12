@@ -25,3 +25,7 @@ There are no adequate data from the use of RoActemra in pregnant women.
 The excretion of RoActemra in milk has not been studied in animals.
 
 Available non-clinical data do not suggest an effect on fertility under RoActemra treatment.
+
+[RoActemra 162 mg solution for injection in pre-filled pen.]
+
+It is unknown whether RoActemra is excreted in human breast milk.
