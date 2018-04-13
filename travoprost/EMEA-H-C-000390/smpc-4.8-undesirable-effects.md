@@ -10,31 +10,29 @@ The adverse reactions were obtained from clinical studies and post-marketing dat
 
 | System Organ Class | Frequency | Adverse Reactions |
 | --- | --- | --- |
-| Infections and infestations | Rare | herpes simplex, keratitis herpetic |
 | Immune system disorders | Uncommon | hypersensitivity, seasonal allergy |
-| Psychiatric disorders | Not known | depression, anxiety |
-| Nervous system disorder | Uncommon | headache, dizziness, visual field defect |
-|  | Rare | dysgeusia, |
+| Psychiatric disorders | Not known | depression, anxiety, insomnia |
+| Nervous system disorder | Uncommon | headache |
+|  | Rare | dizziness, visual field defect, dysgeusia, |
 | Eye disorders | Very common | ocular hyperaemia, |
 |  | Common | iris hyperpigmentation, eye pain, ocular discomfort, dry eye, eye pruritus, eye irritation |
-|  | Uncommon | corneal erosion, uveitis, iritis, anterior chamber inflammation, keratitis, punctate keratitis, photophobia, eye discharge , blepharitis, erythema of eyelid, periorbital oedema, eyelids pruritus, visual acuity reduced, vision blurred, lacrimation increased, conjunctivitis, ectropioncataract, eyelid margin crusting, growth of eyelashes, eyelash discolouration, asthenopia |
-|  | Rare | iridocyclitis, eye inflammation, photopsia, eczema eyelids, conjunctival oedema, halo vision, conjunctival follicles, hypoaesthesia eye, meibomianitis, anterior chamber pigmentation, mydriasis, eyelash thickening |
-|  | Not known | macular oedema, sunken eyes |
+|  | Uncommon | corneal erosion, uveitis, iritis, anterior chamber inflammation, keratitis, punctate keratitis, photophobia, eye discharge , blepharitis, erythema of eyelid, periorbital oedema, eyelids pruritus, visual acuity reduced, vision blurred, lacrimation increased, conjunctivitis, ectropion, cataract, eyelid margin crusting, growth of eyelashes, |
+|  | Rare | iridocyclitis, ophthalmic herpes simplex, eye inflammation, photopsia, eczema eyelids, conjunctival oedema, halo vision, conjunctival follicles, hypoaesthesia eye, trichiasis, meibomianitis, anterior chamber pigmentation, mydriasis, asthenopia, eyelash hyperpigmentation, eyelash thickening |
+|  | Not known | macular oedema, lid sulcus deepened |
 | Ear and labyrinth disorders | Not known | vertigo, tinnitus |
 | Cardiac disorders | Uncommon | palpitations, |
 |  | Rare | heart rate irregular, heart rate decreased |
-|  | Not known | chest pain, bradycardia, tachycardia |
+|  | Not known | chest pain, bradycardia, tachycardia, arrhythmia |
 | Vascular disorders | Rare | blood pressure diastolic decreased, blood pressure systolic increased, hypotension, hypertension |
-| Respiratory, thoracic and mediastinal disorders | Uncommon | dyspnoea, asthma, nasal congestion, throat irritation |
-|  | Rare | respiratory disorder, oropharyngeal pain, cough, dysphonia |
-|  | Not known | asthma aggravated |
+| Respiratory, thoracic and mediastinal disorders | Uncommon | cough, nasal congestion, throat irritation |
+|  | Rare | dyspnoea, asthma, respiratory disorder, oropharyngeal pain, dysphonia, rhinitis allergic, nasal dryness |
+|  | Not known | asthma aggravated, epistaxis |
 | Gastrointestinal disorders | Rare | peptic ulcer reactivated, gastrointestinal disorder, constipation, dry mouth |
-|  | Not known | diarrhoea, abdominal pain, nausea |
-| Skin and subcutaneous tissue disorders | Uncommom | skin hyperpigmentation (periocular), skin discolouration, hair texture abnormal, hypertrichosis |
+|  | Not known | diarrhoea, abdominal pain, nausea, vomiting |
+| Skin and subcutaneous tissue disorders | Uncommon | skin hyperpigmentation (periocular), skin discolouration, hair texture abnormal, hypertrichosis |
 |  | Rare | dermatitis allergic, dermatitis contact, erythema, rash, hair colour changes, madarosis |
 |  | Not known | pruritus, hair growth abnormal |
-| Musculoskeletal and connective tissue disorders | Rare | musculoskeletal pain |
-|  | Not known | arthralgia |
+| Musculoskeletal and connective tissue disorders | Rare | musculoskeletal pain, arthralgia |
 | Renal and urinary disorders | Not known | dysuria, urinary incontinence |
 | General disorders and administration site conditions | Rare | asthenia |
 | Investigations | Not known | prostatic specific antigen increased |
