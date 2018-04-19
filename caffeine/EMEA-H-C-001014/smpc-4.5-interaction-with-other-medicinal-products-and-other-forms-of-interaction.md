@@ -6,6 +6,7 @@ These active substances should not be used concurrently.
 Cytochrome P450 1A2 (CYP1A2) is the major enzyme involved in the metabolism of caffeine in humans.
 Therefore, caffeine has the potential to interact with active substances that are substrates for CYP1A2, inhibit CYP1A2, or induce CYP1A2.
 However, caffeine metabolism in preterm newborn infants is limited due to their immature hepatic enzyme systems.
+
 Although few data exist on interactions of caffeine with other active substances in preterm newborn infants, lower doses of caffeine citrate may be needed following co-administration of active substances which are reported to decrease caffeine elimination in adults (e.g., cimetidine and ketoconazole) and higher caffeine citrate doses may be needed following co-administration of active substances that increase caffeine elimination (e.g., phenobarbital and phenytoin).
 Where doubt exists about possible interactions, plasma caffeine concentrations should be measured.
 As bacterial overgrowth in the gut is associated with the development of necrotising enterocolitis, co-administration of caffeine citrate with medicinal products that suppress gastric acid secretion (antihistamine H2 receptor blockers or proton-pump inhibitors) may in theory increase the risk of necrotising enterocolitis (see section 4.4 and 4.8).
