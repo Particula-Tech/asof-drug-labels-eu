@@ -86,11 +86,14 @@ open label studies of up to five years’ duration, a mean creatinine clearance 
 adult patients (95% CI: -14.4% to -12.1%; n=935) and 9.9% (95% CI: -11.1% to -8.6%; n=1,142) in
 paediatric patients was observed during the first year of treatment. In 250 patients who were followed
 for up to five years, no further decrease in mean creatinine clearance levels was observed.
-
 Clinical study in patients with non-transfusion-dependent thalassaemia syndromes
-In a 1-year study in patients with non-transfusion-dependent thalassaemia syndromes and iron overload (dispersible tablets at a dose of 10 mg/kg/day), diarrhoea (9.1%), rash (9.1%), and nausea (7.3%) were the most frequent study drug-related adverse events.
-Abnormal serum creatinine and creatinine clearance values were reported in 5.5% and 1.8% of patients, respectively.
-Elevations of liver transaminases greater than 2 times the baseline and 5 times the upper limit of normal were reported in 1.8% of patients.
+In a 1-year study in patients with non-transfusion-dependent thalassaemia syndromes and iron
+overload (dispersible tablets at a dose of 10 mg/kg/day), diarrhoea (9.1%), rash (9.1%), and nausea
+(7.3%) were the most frequent study drug-related adverse events. Abnormal serum creatinine and
+creatinine clearance values were reported in 5.5% and 1.8% of patients, respectively. Elevations of
+liver transaminases greater than 2 times the baseline and 5 times the upper limit of normal were
+
+reported in 1.8% of patients.
 
 Paediatric population
 In two clinical studies, growth and sexual development of paediatric patients treated with deferasirox for up to 5 years were not affected (see section 4.4).
@@ -110,16 +113,14 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 [EXJADE 90 mg film-coated tablets]
 
 The most frequent reactions reported during chronic treatment in clinical studies conducted with deferasirox dispersible tablets in adult and paediatric patients include gastrointestinal disturbances (mainly nausea, vomiting, diarrhoea or abdominal pain) and skin rash.
+
 During clinical studies dose-dependent increases in serum creatinine occurred in about 36% of patients, though most remained within the normal range.
 
-In a 1-year study in patients with non-transfusion-dependent thalassaemia syndromes and iron
-overload (dispersible tablets at a dose of 10 mg/kg/day), diarrhoea (9.1%), rash (9.1%), and nausea
-(7.3%) were the most frequent study drug-related adverse events. Abnormal serum creatinine and
-creatinine clearance values were reported in 5.5% and 1.8% of patients, respectively. Elevations of
-liver transaminases greater than 2 times the baseline and 5 times the upper limit of normal were
-reported in 1.8% of patients.
 In two clinical studies, growth and sexual development of paediatric patients treated with deferasirox
 for up to 5 years were not affected (see section 4.4).
+Renal tubulopathy has been mainly reported in children and adolescents with beta-thalassaemia
+treated with deferasirox. In post-marketing reports, a high proportion of cases of metabolic acidosis
+occurred in children in the context of Fanconi syndrome.
 
 [EXJADE 90 mg granules in sachet]
 

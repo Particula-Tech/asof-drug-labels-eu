@@ -26,6 +26,7 @@ The transporters MRP2 and MXR (BCRP) are involved in the biliary excretion of de
 Linearity / non-linearity
 The Cmax and AUC0-24h of deferasirox increase approximately linearly with dose under steady-state conditions.
 Upon multiple dosing exposure increased by an accumulation factor of 1.3 to 2.3.
+
 Characteristics in patients
 Paediatric patients
 The overall exposure of adolescents (12 to ≤17 years) and children (2 to <12 years) to deferasirox after single and multiple doses was lower than that in adult patients.
@@ -35,7 +36,6 @@ Since dosing is individually adjusted according to response this is not expected
 Gender
 Females have a moderately lower apparent clearance (by 17.5%) for deferasirox compared to males.
 Since dosing is individually adjusted according to response this is not expected to have clinical consequences.
-
 Elderly patients
 The pharmacokinetics of deferasirox have not been studied in elderly patients (aged 65 or older).
 

@@ -19,15 +19,16 @@ While no increase in renal adverse events was observed after dose escalation of 
 
 It is recommended that serum creatinine be assessed in duplicate before initiating therapy.
 Serum creatinine, creatinine clearance (estimated with the Cockcroft-Gault or MDRD formula in adults and with the Schwartz formula in children) and/or plasma cystatin C levels should be monitored prior to therapy, weekly in the first month after initiation or modification of therapy with
-EXJADE (including switch of formulation), and monthly thereafter.
-Patients with pre-existing renal conditions and patients who are receiving medicinal products that depress renal function may be more at risk of complications.
-Care should be taken to maintain adequate hydration in patients who develop diarrhoea or vomiting.
 
-There have been post-marketing reports of metabolic acidosis occurring during treatment with deferasirox.
-The majority of these patients had renal impairment, renal tubulopathy (Fanconi syndrome) or diarrhoea, or conditions where acid-base imbalance is a known complication.
-Acid-base balance should be monitored as clinically indicated in these populations.
-Interruption of EXJADE therapy should be considered in patients who develop metabolic acidosis.
-
+EXJADE (including switch of formulation), and monthly thereafter. Patients with pre-existing
+renal conditions and patients who are receiving medicinal products that depress renal function may be
+more at risk of complications. Care should be taken to maintain adequate hydration in patients who
+develop diarrhoea or vomiting.
+There have been post-marketing reports of metabolic acidosis occurring during treatment with
+deferasirox. The majority of these patients had renal impairment, renal tubulopathy (Fanconi
+syndrome) or diarrhoea, or conditions where acid-base imbalance is a known complication. Acid-base
+balance should be monitored as clinically indicated in these populations. Interruption of EXJADE
+therapy should be considered in patients who develop metabolic acidosis.
 Table 3 Dose adjustment and interruption of treatment for renal monitoring
 Serum creatinine Creatinine clearance
 Before initiation of Twice (2x) and Once (1x)
@@ -169,6 +170,15 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 
 While no increase in renal adverse events was observed after dose escalation of EXJADE dispersible tablets to doses above 30 mg/kg in clinical studies, an increased risk of renal adverse events with film-coated tablet doses above 21 mg/kg cannot be excluded.
 
+EXJADE (including switch of formulation), and monthly thereafter.
+Patients with pre-existing renal conditions and patients who are receiving medicinal products that depress renal function may be more at risk of complications.
+Care should be taken to maintain adequate hydration in patients who develop diarrhoea or vomiting.
+
+There have been post-marketing reports of metabolic acidosis occurring during treatment with deferasirox.
+The majority of these patients had renal impairment, renal tubulopathy (Fanconi syndrome) or diarrhoea, or conditions where acid-base imbalance is a known complication.
+Acid-base balance should be monitored as clinically indicated in these populations.
+Interruption of EXJADE therapy should be considered in patients who develop metabolic acidosis.
+
 Reduction of daily dose by 7 mg/kg/day (film-coated tablet formulation),
 Data in children with non-transfusion-dependent thalassaemia are very limited (see section 5.1). As a
 consequence, EXJADE therapy should be closely monitored to detect adverse reactions and to follow
@@ -187,14 +197,3 @@ promptly initiate additional evaluation and treatment if a serious gastrointesti
 [EXJADE 90 mg granules in sachet]
 
 While no increase in renal adverse events was observed after dose escalation of EXJADE dispersible tablets to doses above 30 mg/kg in clinical studies, an increased risk of renal adverse events with granule doses above 21 mg/kg cannot be excluded.
-
-Liver function test elevations have been observed in patients treated with deferasirox.
-Post-marketing cases of hepatic failure, sometimes fatal, have been reported in patients treated with deferasirox.
-Most reports of hepatic failure involved patients with significant morbidities including pre-existing liver cirrhosis.
-However, the role of deferasirox as a contributing or aggravating factor cannot be excluded (see section 4.8).
-
-It is recommended that serum transaminases, bilirubin and alkaline phosphatase be checked before the initiation of treatment, every 2 weeks during the first month and monthly thereafter.
-If there is a persistent and progressive increase in serum transaminase levels that cannot be attributed to other causes, EXJADE should be interrupted.
-Once the cause of the liver function test abnormalities has been clarified or after return to normal levels, cautious re-initiation of treatment at a lower dose followed by gradual dose escalation may be considered.
-
-EXJADE is not recommended in patients with severe hepatic impairment (Child-Pugh Class C) (see section 5.2).
