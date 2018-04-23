@@ -1,10 +1,13 @@
 # 6.1 List of excipients
 
-Core
 Lactose monohydrate
 Maize starch
-Povidone (K90)
+Povidone
 Magnesium stearate
+
+[Daxas 500 micrograms film-coated tablets]
+
+Core
 
 Coating
 Hypromellose

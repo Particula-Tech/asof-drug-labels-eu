@@ -13,10 +13,9 @@ Patients should be advised to check their body weight on a regular basis.
 In the event of an unexplained and clinically concerning weight decrease, the intake of roflumilast should be stopped and body weight should be further followed-up.
 
 Special clinical conditions
-Due to lack of relevant experience, treatment with roflumilast should not be initiated or existing treatment with roflumilast should be stopped in patients with severe immunological diseases (e.g. HIV infection, multiple sclerosis, lupus erythematosus, progressive multifocal leukoencephalopathy), severe acute infectious diseases, cancers (except basal cell carcinoma), or patients being treated with immunosuppressive medicinal products (i.e.: methotrexate, azathioprine, infliximab, etanercept, or oral corticosteroids to be taken long-term; except short-term systemic corticosteroids).
+Due to lack of relevant experience, treatment with roflumilast should not be initiated or existing treatment with roflumilast should be stopped in patients with severe immunological diseases (e.g. HIV infection, multiple sclerosis, lupus erythematosus, progressive multifocal leukoencephalopathy), severe acute infectious diseases, cancers (except basal cell carcinoma), or patients being treated with immunosuppressive medicinal products (i.e. methotrexate, azathioprine, infliximab, etanercept, or oral corticosteroids to be taken long-term; except short-term systemic corticosteroids).
 Experience in patients with latent infections such as tuberculosis, viral hepatitis, herpes viral infection and herpes zoster is limited.
 Patients with congestive heart failure (NYHA grades 3 and 4) have not been studied and therefore treatment of these patients is not recommended.
-
 Psychiatric disorders
 Roflumilast is associated with an increased risk of psychiatric disorders such as insomnia, anxiety, nervousness and depression.
 Rare instances of suicidal ideation and behaviour, including suicide, have been observed in patients with or without history of depression, usually within the first weeks of treatment (see section 4.8).
@@ -24,6 +23,7 @@ The risks and benefits of starting or continuing treatment with roflumilast shou
 Roflumilast is not recommended in patients with a history of depression associated with suicidal ideation or behaviour.
 Patients and caregivers should be instructed to notify the prescriber of any changes in behaviour or mood and of any suicidal ideation.
 If patients suffered from new or worsening psychiatric symptoms, or suicidal ideation or suicidal attempt is identified, it is recommended to discontinue treatment with roflumilast.
+
 Persistent intolerability
 While adverse reactions like diarrhoea, nausea, abdominal pain and headache mainly occur within the first weeks of therapy and mostly resolve on continued treatment, roflumilast treatment should be reassessed in case of persistent intolerability.
 This might be the case in special populations that may have higher exposure, such as in black, non-smoking females (see section 5.2) or in patients concomitantly treated with CYP1A2/ 2C19/3A4 inhibitors (such as fluvoxamine and cimetidine) or the CYP1A2/3A4 inhibitor enoxacin (see section 4.5).

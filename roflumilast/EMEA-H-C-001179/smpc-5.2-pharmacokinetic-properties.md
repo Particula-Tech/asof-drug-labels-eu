@@ -9,13 +9,12 @@ Maximum plasma concentrations of roflumilast typically occur approximately one h
 Maximum concentrations of the N-oxide metabolite are reached after about eight hours (ranging from 4 to 13 hours).
 Food intake does not affect the total PDE4 inhibitory activity, but delays time to maximum concentration (tmax) of roflumilast by one hour and reduces Cmax by approximately 40%.
 However, Cmax and tmax of roflumilast N-oxide are unaffected.
-
 Distribution
 Plasma protein binding of roflumilast and its N-oxide metabolite is approximately 99% and 97%, respectively.
 Volume of distribution for single dose of 500 micrograms roflumilast is about 2.9 l/kg.
 Due to the physico-chemical properties, roflumilast is readily distributed to organs and tissues including fatty tissue of mice, hamster and rat.
 An early distribution phase with marked penetration into tissues is followed by a marked elimination phase out of fatty tissue most probably due to pronounced break-down of parent compound to roflumilast N-oxide.
-These studies in rats with radiolabeled roflumilast also indicate low penetration across the blood-brain barrier.
+These studies in rats with radiolabelled roflumilast also indicate low penetration across the blood-brain barrier.
 There is no evidence for a specific accumulation or retention of roflumilast or its metabolites in organs and fatty tissue.
 
 Biotransformation
@@ -33,7 +32,8 @@ Elimination
 The plasma clearance after short-term intravenous infusion of roflumilast is about 9.6 l/h.
 Following an oral dose, the median plasma effective half-life of roflumilast and its N-oxide metabolite are approximately 17 and 30 hours, respectively.
 Steady state plasma concentrations of roflumilast and its N-oxide metabolite are reached after approximately 4 days for roflumilast and 6 days for roflumilast N-oxide following once-daily dosing.
-Following intravenous or oral administration of radiolabeled roflumilast, about 20% of the radioactivity was recovered in the faeces and 70% in urine as inactive metabolites.
+Following intravenous or oral administration of radiolabelled roflumilast, about 20% of the radioactivity was recovered in the faeces and 70% in urine as inactive metabolites.
+
 Linearity/Non-linearity
 The pharmacokinetics of roflumilast and its N-oxide metabolite are dose-proportional over a range of doses from 250 micrograms to 1,000 micrograms.
 
@@ -45,14 +45,13 @@ No dose adjustment is recommended in these patients.
 A combination of factors, such as in black, non-smoking females, might lead to an increase of exposure and persistent intolerability.
 In this case, roflumilast treatment should be reassessed (see section 4.4).
 
-In study RO-2455-404-RD when compared with the overall population, the total PDE4 inhibitory
+In Study RO-2455-404-RD when compared with the overall population, the total PDE4 inhibitory
 activity determined from ex vivo unbound fractions was found to be 15% higher in patients ≥75 years
 of age, and 11% higher in patients with baseline body weight <60 kg (refer to section 4.4).
 
 Renal impairment
 Total PDE4 inhibitory activity decreased by 9% in patients with severe renal impairment (creatinine clearance 10-30 ml/min).
 No dose adjustment is necessary.
-
 Hepatic impairment
 The pharmacokinetics of roflumilast 250 micrograms once-daily was tested in 16 patients with mild to moderate hepatic impairment classified as Child-Pugh A and B. In these patients, the total PDE4 inhibitory activity was increased by about 20% in patients with Child-Pugh A and about 90% in patients with Child-Pugh B. Simulations suggest dose proportionality between roflumilast 250 and 500 micrograms in patients with mild and moderate hepatic impairment.
 Caution is necessary in Child-Pugh A patients (see section 4.2).
