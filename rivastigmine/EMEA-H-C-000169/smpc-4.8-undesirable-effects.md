@@ -1,10 +1,12 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
+
 The most commonly reported adverse reactions (ADRs) are gastrointestinal, including nausea (38%) and vomiting (23%), especially during titration.
 Female patients in clinical studies were found to be more susceptible than male patients to gastrointestinal adverse reactions and weight loss.
 
 Tabulated list of adverse reactions
+
 Adverse reactions in Table 1 and Table 2 are listed according to MedDRA system organ class and frequency category.
 Frequency categories are defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 
@@ -171,21 +173,10 @@ Table 3
 | Tremor Fall Parkinson’s disease (worsening) Salivary hypersecretion Dyskinesia Parkinsonism Hypokinesia Movement disorder Bradykinesia Dystonia Gait abnormality Muscle rigidity Balance disorder Musculoskeletal stiffness Rigors Motor dysfunction | 37 (10.2) 21 (5.8) 12 (3.3) 5 (1.4) 5 (1.4) 8 (2.2) 1 (0.3) 1 (0.3) 9 (2.5) 3 (0.8) 5 (1.4) 1 (0.3) 3 (0.8) 3 (0.8) 1 (0.3) 1 (0.3) | 7 (3.9) 11 (6.1) 2 (1.1) 0 1 (0.6) 1 (0.6) 0 0 3 (1.7) 1 (0.6) 0 0 2 (1.1) 0 0 0 |
 
 Reporting of suspected adverse reactions
+
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-[Exelon 3.0 mg hard capsules]
-
-(all sentences already above)
-
-[Exelon 4.5 mg hard capsules]
-
-(all sentences already above)
-
-[Exelon 6.0 mg hard capsules]
-
-(all sentences already above)
 
 [Exelon 2 mg/ml oral solution]
 
@@ -244,6 +235,7 @@ Rare Fall
 *In a 24-week controlled study in Japanese patients, application site erythema, application site oedema and application site pruritus were reported as “very common”.
 
 Description of selected adverse reactions
+
 When doses higher than 13.3 mg/24 h were used in the above-mentioned placebo-controlled study, insomnia and cardiac failure were observed more frequently than with 13.3 mg/24 h or placebo, suggesting a dose effect relationship.
 However, these events did not occur at a higher frequency with Exelon 13.3 mg/24 h transdermal patches than with placebo.
 
@@ -257,11 +249,3 @@ The incidence of application site skin reactions leading to discontinuation was 
 In two 24-week double-blind, placebo-controlled clinical trials, skin reactions were measured at each visit using a skin irritation rating scale.
 When observed in patients treated with Exelon transdermal patches, skin irritation was mostly slight or mild in severity.
 It was rated as severe in ≤2.2% of patients in these studies and in ≤3.7% of patients treated with Exelon transdermal patches in a Japanese study.
-
-[Exelon 9.5 mg/24 h transdermal patch]
-
-(all sentences already above)
-
-[Exelon 13.3 mg/24 h transdermal patch]
-
-(all sentences already above)

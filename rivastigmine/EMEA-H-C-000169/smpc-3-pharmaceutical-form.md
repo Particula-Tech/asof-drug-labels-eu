@@ -2,17 +2,19 @@
 
 Hard capsules
 
+Exelon 1.5 mg hard capsules
+
 Off-white to slightly yellow powder in a capsule with yellow cap and yellow body, with red imprint “EXELON 1,5 mg” on body.
 
-[Exelon 3.0 mg hard capsules]
+Exelon 3.0 mg hard capsules
 
 Off-white to slightly yellow powder in a capsule with orange cap and orange body, with red imprint “EXELON 3 mg” on body.
 
-[Exelon 4.5 mg hard capsules]
+Exelon 4.5 mg hard capsules
 
 Off-white to slightly yellow powder in a capsule with red cap and red body, with white imprint “EXELON 4,5 mg” on body.
 
-[Exelon 6.0 mg hard capsules]
+Exelon 6.0 mg hard capsules
 
 Off-white to slightly yellow powder in a capsule with red cap and orange body, with red imprint “EXELON 6 mg” on body.
 
@@ -26,13 +28,15 @@ Clear, yellow solution.
 
 Transdermal patch
 
+Exelon 4.6 mg/24 h transdermal patch
+
 Each transdermal patch is a thin, matrix-type transdermal patch consisting of three layers.
 The outside of the backing layer is beige and labelled with “Exelon”, “4.6 mg/24 h” and “AMCX”.
 
-[Exelon 9.5 mg/24 h transdermal patch]
+Exelon 9.5 mg/24 h transdermal patch
 
 The outside of the backing layer is beige and labelled with “Exelon”, “9.5 mg/24 h” and “BHDI”.
 
-[Exelon 13.3 mg/24 h transdermal patch]
+Exelon 13.3 mg/24 h transdermal patch
 
 The outside of the backing layer is beige and labelled with “Exelon”, “13.3 mg/24 h” and “CNFU”.

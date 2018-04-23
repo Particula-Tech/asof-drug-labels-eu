@@ -5,6 +5,7 @@ Diagnosis should be made according to current guidelines.
 Therapy with rivastigmine should only be started if a caregiver is available who will regularly monitor intake of the medicinal product by the patient.
 
 Posology
+
 Rivastigmine should be administered twice a day, with morning and evening meals.
 The capsules should be swallowed whole.
 
@@ -18,6 +19,7 @@ Subsequent increases to 4.5 mg and then 6 mg twice a day should also be based on
 
 If adverse reactions (e.g. nausea, vomiting, abdominal pain or loss of appetite), weight decrease or worsening of extrapyramidal symptoms (e.g. tremor) in patients with dementia associated with Parkinson’s disease are observed during treatment, these may respond to omitting one or more doses.
 If adverse reactions persist, the daily dose should be temporarily reduced to the previous well-tolerated dose or the treatment may be discontinued.
+
 Maintenance dose
 The effective dose is 3 to 6 mg twice a day; to achieve maximum therapeutic benefit patients should be maintained on their highest well tolerated dose.
 The recommended maximum daily dose is 6 mg twice a day.
@@ -36,6 +38,7 @@ Treatment effect has not been studied in placebo-controlled trials beyond 6 mont
 Re-initiation of therapy
 If treatment is interrupted for more than three days, it should be re-initiated at 1.5 mg twice daily.
 Dose titration should then be carried out as described above.
+Special populations
 
 Renal and hepatic impairment
 No dose adjustment is necessary for patients with mild to moderate renal or hepatic impairment.
@@ -44,18 +47,6 @@ Patients with severe hepatic impairment have not been studied, however, Exelon c
 
 Paediatric population
 There is no relevant use of Exelon in the paediatric population in the treatment of Alzheimer’s disease.
-
-[Exelon 3.0 mg hard capsules]
-
-(all sentences already above)
-
-[Exelon 4.5 mg hard capsules]
-
-(all sentences already above)
-
-[Exelon 6.0 mg hard capsules]
-
-(all sentences already above)
 
 [Exelon 2 mg/ml oral solution]
 
@@ -84,13 +75,13 @@ After a minimum of four weeks of treatment and if well tolerated according to th
 Dose escalation
 9.5 mg/24 h is the recommended daily effective dose which should be continued for as long as the patient continues to demonstrate therapeutic benefit.
 If well tolerated and only after a minimum of six months of treatment at 9.5 mg/24 h, the treating physician may consider increasing the dose to 13.3 mg/24 h in patients who have demonstrated a meaningful cognitive deterioration (e.g. decrease in the MMSE) and/or functional decline (based on physician judgement) while on the recommended daily effective dose of 9.5 mg/24 h (see section 5.1).
+
 The clinical benefit of rivastigmine should be reassessed on a regular basis.
 Discontinuation should also be considered when evidence of a therapeutic effect at the optimal dose is no longer present.
 
 Treatment should be temporarily interrupted if gastrointestinal adverse reactions are observed until these adverse reactions resolve.
 Transdermal patch treatment can be resumed at the same dose if treatment is not interrupted for more than three days.
 Otherwise treatment should be re-initiated with 4.6 mg/24 h.
-
 Switching from capsules or oral solution to transdermal patches
 Based on comparable exposure between oral and transdermal rivastigmine (see section 5.2), patients treated with Exelon capsules or oral solution can be switched to Exelon transdermal patches as follows:
 
@@ -104,8 +95,6 @@ After switching to 4.6 mg/24 h transdermal patches, provided these are well tole
 
 It is recommended to apply the first transdermal patch on the day following the last oral dose.
 
-Special populations
-
 - Paediatric population: There is no relevant use of Exelon in the paediatric population in the treatment of Alzheimer’s disease.
 - Patients with body weight below 50 kg: Particular caution should be exercised in titrating patients with body weight below 50 kg above the recommended effective dose of 9.5 mg/24 h (see section 4.4).
   They may experience more adverse reactions and may be more likely to discontinue due to adverse reactions.
@@ -116,6 +105,7 @@ Special populations
 - Renal impairment: No dose adjustment is necessary for patients with renal impairment (see section 5.2).
 
 Method of administration
+
 Transdermal patches should be applied once a day to clean, dry, hairless, intact healthy skin on the upper or lower back, upper arm or chest, in a place which will not be rubbed by tight clothing.
 It is not recommended to apply the transdermal patch to the thigh or to the abdomen due to decreased bioavailability of rivastigmine observed when the transdermal patch is applied to these areas of the body.
 
@@ -131,11 +121,3 @@ Patients and caregivers should be instructed on important administration instruc
 - The patch can be used in everyday situations, including bathing and during hot weather.
 - The patch should not be exposed to any external heat sources (e.g. excessive sunlight, saunas, solarium) for long periods of time.
 - The patch should not be cut into pieces.
-
-[Exelon 9.5 mg/24 h transdermal patch]
-
-(all sentences already above)
-
-[Exelon 13.3 mg/24 h transdermal patch]
-
-(all sentences already above)

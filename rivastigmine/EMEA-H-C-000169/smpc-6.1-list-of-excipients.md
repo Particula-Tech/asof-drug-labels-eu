@@ -10,18 +10,6 @@ Red iron oxide (E172)
 Titanium dioxide (E171)
 Shellac
 
-[Exelon 3.0 mg hard capsules]
-
-(all sentences already above)
-
-[Exelon 4.5 mg hard capsules]
-
-(all sentences already above)
-
-[Exelon 6.0 mg hard capsules]
-
-(all sentences already above)
-
 [Exelon 2 mg/ml oral solution]
 
 Sodium benzoate
@@ -32,22 +20,21 @@ Purified water
 
 [Exelon 4.6 mg/24 h transdermal patch]
 
-Backing layer:
-- polyethylene terephthalate film, lacquered.
+Backing layer
+
+Polyethylene terephthalate film, lacquered
+
 Medicinal product matrix:
-- alpha-tocopherol,
-- poly(butylmethacrylate, methylmethacrylate),
-- acrylic copolymer.
-Adhesive matrix:
-- silicone oil,
-- dimethicone.
-Release liner:
-- polyester film, fluoropolymer-coated.
 
-[Exelon 9.5 mg/24 h transdermal patch]
+Alpha-tocopherol
+Poly(butylmethacrylate, methylmethacrylate)
+Acrylic copolymer
 
-(all sentences already above)
+Adhesive matrix
 
-[Exelon 13.3 mg/24 h transdermal patch]
+Silicone oil
+Dimethicone
 
-(all sentences already above)
+Release liner
+
+Polyester film, fluoropolymer-coated

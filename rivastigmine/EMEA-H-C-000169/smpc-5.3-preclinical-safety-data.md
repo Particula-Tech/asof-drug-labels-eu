@@ -16,18 +16,6 @@ In oral studies with male and female rats, no adverse effects of rivastigmine we
 
 A mild eye/mucosal irritation potential of rivastigmine was identified in a rabbit study.
 
-[Exelon 3.0 mg hard capsules]
-
-(all sentences already above)
-
-[Exelon 4.5 mg hard capsules]
-
-(all sentences already above)
-
-[Exelon 6.0 mg hard capsules]
-
-(all sentences already above)
-
 [Exelon 2 mg/ml oral solution]
 
 (all sentences already above)
@@ -41,18 +29,10 @@ Rivastigmine was not mutagenic in a standard battery of in vitro and in vivo tes
 
 No evidence of carcinogenicity was found in oral and topical studies in mice and in an oral study in rats at the maximum tolerated dose.
 The exposure to rivastigmine and its metabolites was approximately equivalent to human exposure with highest doses of rivastigmine capsules and transdermal patches.
-
 Specific dermal studies in pregnant animals have not been conducted.
+
 Rivastigmine transdermal patches were not phototoxic and considered to be a non-sensitiser.
 In some other dermal toxicity studies, a mild irritant effect on the skin of laboratory animals, including controls, was observed.
 This may indicate a potential for Exelon transdermal patches to induce mild erythema in patients.
 
 Therefore, the patient/caregiver should avoid contact with the eyes after handling of the patch (see section 4.4).
-
-[Exelon 9.5 mg/24 h transdermal patch]
-
-(all sentences already above)
-
-[Exelon 13.3 mg/24 h transdermal patch]
-
-(all sentences already above)

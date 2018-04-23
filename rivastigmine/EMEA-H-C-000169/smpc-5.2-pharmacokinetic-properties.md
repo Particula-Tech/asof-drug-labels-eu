@@ -1,6 +1,7 @@
 # 5.2 Pharmacokinetic properties
 
 Absorption
+
 Rivastigmine is rapidly and completely absorbed.
 Peak plasma concentrations are reached in approximately 1 hour.
 As a consequence of rivastigmine’s interaction with its target enzyme, the increase in bioavailability is about 1.5-fold greater than that expected from the increase in dose.
@@ -8,9 +9,11 @@ Absolute bioavailability after a 3 mg dose is about 36%±13%.
 Administration of rivastigmine with food delays absorption (tmax) by 90 min and lowers Cmax and increases AUC by approximately 30%.
 
 Distribution
+
 Protein binding of rivastigmine is approximately 40%.
 It readily crosses the blood brain barrier and has an apparent volume of distribution in the range of 1.8–2.7 l/kg.
 Biotranformation
+
 Rivastigmine is rapidly and extensively metabolised (half-life in plasma approximately 1 hour), primarily via cholinesterase-mediated hydrolysis to the decarbamylated metabolite.
 In vitro, this metabolite shows minimal inhibition of acetylcholinesterase (<10%).
 
@@ -19,6 +22,7 @@ Based on evidence from animal studies the major cytochrome P450 isoenzymes are m
 Total plasma clearance of rivastigmine was approximately 130 l/h after a 0.2 mg intravenous dose and decreased to 70 l/h after a 2.7 mg intravenous dose.
 
 Elimination
+
 Unchanged rivastigmine is not found in the urine; renal excretion of the metabolites is the major route of elimination.
 Following administration of 14C-rivastigmine, renal elimination was rapid and essentially complete (>90%) within 24 hours.
 Less than 1% of the administered dose is excreted in the faeces.
@@ -26,7 +30,9 @@ There is no accumulation of rivastigmine or the decarbamylated metabolite in pat
 
 A population pharmacokinetic analysis showed that nicotine use increases the oral clearance of rivastigmine by 23% in patients with Alzheimer’s disease (n=75 smokers and 549 non-smokers) following rivastigmine oral capsule doses of up to 12 mg/day.
 
-Older people
+Special populations
+
+Elderly
 While bioavailability of rivastigmine is greater in elderly than in young healthy volunteers, studies in Alzheimer patients aged between 50 and 92 years showed no change in bioavailability with age.
 
 Hepatic impairment
@@ -34,18 +40,6 @@ The Cmax of rivastigmine was approximately 60% higher and the AUC of rivastigmin
 
 Renal impairment
 Cmax and AUC of rivastigmine were more than twice as high in subjects with moderate renal impairment compared with healthy subjects; however there were no changes in Cmax and AUC of rivastigmine in subjects with severe renal impairment.
-
-[Exelon 3.0 mg hard capsules]
-
-(all sentences already above)
-
-[Exelon 4.5 mg hard capsules]
-
-(all sentences already above)
-
-[Exelon 6.0 mg hard capsules]
-
-(all sentences already above)
 
 [Exelon 2 mg/ml oral solution]
 
@@ -103,11 +97,3 @@ Following a single 3 mg or 6 mg oral dose, the mean oral clearance of rivastigmi
 No study was conducted with Exelon transdermal patches in subjects with renal impairment.
 Based on population analysis, creatinine clearance did not show any clear effect on steady state concentrations of rivastigmine or its metabolite.
 No dose adjustment is necessary in patients with renal impairment (see section 4.2).
-
-[Exelon 9.5 mg/24 h transdermal patch]
-
-(all sentences already above)
-
-[Exelon 13.3 mg/24 h transdermal patch]
-
-(all sentences already above)

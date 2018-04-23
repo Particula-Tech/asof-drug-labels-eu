@@ -12,10 +12,12 @@ In patients with Alzheimer’s disease, inhibition of AChE in CSF by rivastigmin
 Inhibition of butyrylcholinesterase activity in CSF of 14 Alzheimer patients treated by rivastigmine was similar to that of AChE.
 
 Clinical studies in Alzheimer’s dementia
+
 The efficacy of rivastigmine has been established through the use of three independent, domain specific, assessment tools which were assessed at periodic intervals during 6 month treatment periods.
 These include the ADAS-Cog (Alzheimer’s Disease Assessment Scale – Cognitive subscale, a performance based measure of cognition), the CIBIC-Plus (Clinician’s Interview Based Impression of Change-Plus, a comprehensive global assessment of the patient by the physician incorporating caregiver input), and the PDS (Progressive Deterioration Scale, a caregiver-rated assessment of the activities of daily living including personal hygiene, feeding, dressing, household chores such as shopping, retention of ability to orient oneself to surroundings as well as involvement in activities relating to finances, etc.).
 
 The patients studied had an MMSE (Mini-Mental State Examination) score of 10–24.
+
 The results for clinically relevant responders pooled from two flexible dose studies out of the three pivotal 26-week multicentre studies in patients with mild-to-moderately severe Alzheimer’s Dementia, are provided in Table 4 below.
 Clinically relevant improvement in these studies was defined a priori as at least 4-point improvement on the ADAS-Cog, improvement on the CIBIC-Plus, or at least a 10% improvement on the PDS.
 
@@ -37,6 +39,7 @@ Table 4
 
 *p<0.05, **p<0.01, ***p<0.001
 Clinical studies in dementia associated with Parkinson’s disease
+
 The efficacy of rivastigmine in dementia associated with Parkinson’s disease has been demonstrated in a 24-week multicentre, double-blind, placebo-controlled core study and its 24-week open-label extension phase.
 Patients involved in this study had an MMSE (Mini-Mental State Examination) score of 10–24.
 Efficacy has been established by the use of two independent scales which were assessed at regular intervals during a 6-month treatment period as shown in Table 5 below: the ADAS-Cog, a measure of cognition, and the global measure ADCS-CGIC (Alzheimer’s Disease Cooperative Study-Clinician’s Global Impression of Change).
@@ -77,18 +80,6 @@ ITT: Intent-To-Treat; RDO: Retrieved Drop Outs
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Exelon in all subsets of the paediatric population in the treatment of Alzheimer’s dementia and in the treatment of dementia in patients with idiopathic Parkinson’s disease (see section 4.2 for information on paediatric use).
 
-[Exelon 3.0 mg hard capsules]
-
-(all sentences already above)
-
-[Exelon 4.5 mg hard capsules]
-
-(all sentences already above)
-
-[Exelon 6.0 mg hard capsules]
-
-(all sentences already above)
-
 [Exelon 2 mg/ml oral solution]
 
 (all sentences already above)
@@ -99,6 +90,7 @@ Thus, rivastigmine may have an ameliorative effect on cholinergic-mediated cogni
 
 In patients with Alzheimer’s disease, inhibition of AChE in CSF by oral rivastigmine was dose-dependent up to 6 mg given twice daily, the highest dose tested.
 Inhibition of butyrylcholinesterase activity in CSF of 14 Alzheimer patients treated by oral rivastigmine was similar to the inhibition of AChE activity.
+
 The efficacy of Exelon transdermal patches in patients with Alzheimer’s dementia has been demonstrated in a 24-week double-blind, placebo-controlled core study and its open-label extension phase and in a 48-week double-blind comparator study.
 
 24-week placebo-controlled study
@@ -169,11 +161,3 @@ The DLSM, 95% CI, and p-value are based on an ANCOVA (analysis of covariance) mo
 Source: Study D2340-Table 11-6 and Table 11-7
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Exelon in all subsets of the paediatric population in the treatment of Alzheimer’s dementia (see section 4.2 for information on paediatric use).
-
-[Exelon 9.5 mg/24 h transdermal patch]
-
-(all sentences already above)
-
-[Exelon 13.3 mg/24 h transdermal patch]
-
-(all sentences already above)
