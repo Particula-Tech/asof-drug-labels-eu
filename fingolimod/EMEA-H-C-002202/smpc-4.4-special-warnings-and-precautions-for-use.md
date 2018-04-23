@@ -67,6 +67,7 @@ If this risk is suspected, discontinuation of treatment should be considered by 
 Infections
 A core pharmacodynamic effect of Gilenya is a dose-dependent reduction of the peripheral lymphocyte count to 20-30% of baseline values.
 This is due to the reversible sequestration of lymphocytes in lymphoid tissues (see section 5.1).
+
 Before initiating treatment with Gilenya, a recent complete blood count (CBC) (i.e. within 6 months or after discontinuation of prior therapy) should be available.
 Assessments of CBC are also recommended periodically during treatment, at month 3 and at least yearly thereafter, and in case of signs of infection.
 Absolute lymphocyte count <0.2x109/l, if confirmed, should lead to treatment interruption until recovery, because in clinical studies, fingolimod treatment was interrupted in patients with absolute lymphocyte count <0.2x109/l.
@@ -101,9 +102,9 @@ Before initiating treatment with fingolimod, a baseline MRI should be available 
 During routine MRI (in accordance with national and local recommendations), physicians should pay attention to PML suggestive lesions.
 MRI may be considered as part of increased vigilance in patients considered at increased risk of PML.
 If PML is suspected, MRI should be performed immediately for diagnostic purposes and treatment with fingolimod should be suspended until PML has been excluded.
+
 Elimination of fingolimod following discontinuation of therapy may take up to two months and vigilance for infection should therefore be continued throughout this period.
 Patients should be instructed to report symptoms of infection up to 2 months after discontinuation of fingolimod.
-
 Macular oedema
 Macular oedema with or without visual symptoms has been reported in 0.5% of patients treated with fingolimod 0.5 mg, occurring predominantly in the first 3-4 months of therapy (see section 4.8).
 An ophthalmological evaluation is therefore recommended at 3-4 months after treatment initiation.
@@ -137,8 +138,8 @@ With repeated confirmation of liver transaminases above 5 times the ULN, treatme
 
 Patients who develop symptoms suggestive of hepatic dysfunction, such as unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine, should have liver enzymes checked and Gilenya should be discontinued if significant liver injury is confirmed (for example liver transaminase levels greater than 5-fold the ULN and/or serum bilirubin elevations).
 Resumption of therapy will be dependent on whether or not another cause of liver injury is determined and on the benefits to patient of resuming therapy versus the risks of recurrence of liver dysfunction.
-Although there are no data to establish that patients with pre-existing liver disease are at increased risk of developing elevated liver function tests when taking Gilenya, caution in the use of Gilenya should be exercised in patients with a history of significant liver disease.
 
+Although there are no data to establish that patients with pre-existing liver disease are at increased risk of developing elevated liver function tests when taking Gilenya, caution in the use of Gilenya should be exercised in patients with a history of significant liver disease.
 Interference with serological testing
 Since fingolimod reduces blood lymphocyte counts via re-distribution in secondary lymphoid organs, peripheral blood lymphocyte counts cannot be utilised to evaluate the lymphocyte subset status of a patient treated with Gilenya.
 Laboratory tests involving the use of circulating mononuclear cells require larger blood volumes due to reduction in the number of circulating lymphocytes.
@@ -169,12 +170,12 @@ A CBC is recommended prior to initiating Gilenya to ensure that immune effects o
 Gilenya can generally be started immediately after discontinuation of interferon or glatiramer acetate.
 
 For dimethyl fumarate, the washout period should be sufficient for CBC to recover before treatment with Gilenya is started.
+
 Due to the long half-life of natalizumab, elimination usually takes up to 2-3 months following discontinuation.
 Teriflunomide is also eliminated slowly from the plasma.
 Without an accelerated elimination procedure, clearance of teriflunomide from plasma can take from several months up to 2 years.
 An accelerated elimination procedure as defined in the teriflunomide summary of product characteristics is recommended or alternatively washout period should not be shorter than 3.5 months.
 Caution regarding potential concomitant immune effects is required when switching patients from natalizumab or teriflunomide to Gilenya.
-
 Alemtuzumab has profound and prolonged immunosuppressive effects.
 As the actual duration of these effects is unknown, initiating treatment with Gilenya after alemtuzumab is not recommended unless the benefits of such treatment clearly outweigh the risks for the individual patient.
 
@@ -192,8 +193,15 @@ The patient should be referred to a dermatologist in case suspicious lesions are
 Since there is a potential risk of malignant skin growths, patients treated with fingolimod should be cautioned against exposure to sunlight without protection.
 These patients should not receive concomitant phototherapy with UV-B-radiation or PUVA-photochemotherapy.
 
+Return of disease activity (rebound)
+In the post-marketing setting, severe exacerbation of disease has been observed rarely in some patients stopping fingolimod.
+The possibility of recurrence of exceptionally high disease activity should be considered (see “Stopping therapy” below).
+
 Stopping therapy
 If a decision is made to stop treatment with Gilenya a 6 week interval without therapy is needed, based on half-life, to clear fingolimod from the circulation (see section 5.2).
-Lymphocyte counts progressively return to normal range within 1-2 months of stopping therapy (see section 5.1).
+Lymphocyte counts progressively return to normal range within 1-2 months of stopping therapy in most patients (see section 5.1) although full recovery can take significantly longer in some patients.
 Starting other therapies during this interval will result in concomitant exposure to fingolimod.
 Use of immunosuppressants soon after the discontinuation of Gilenya may lead to an additive effect on the immune system and caution is therefore indicated.
+
+Caution is also indicated when stopping fingolimod therapy due to the risk of a rebound (see “Return of disease activity (rebound)” above).
+If discontinuation of Gilenya is deemed necessary, patients should be monitored during this time for relevant signs of a possible rebound.
