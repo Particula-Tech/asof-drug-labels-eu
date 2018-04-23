@@ -14,12 +14,12 @@ Among the 147 patients in this group who continued treatment in the single-agent
 
 Tabulated summary of adverse reactions
 Adverse reactions reported in the pooled dataset for patients treated with nivolumab monotherapy
-(n = 2578) and for patients treated with nivolumab in combination with ipilimumab (n = 448) are presented in Table 2.
+(n = 2578) and for patients treated with nivolumab in combination with ipilimumab (n = 448) are presented in Table 4.
 These reactions are presented by system organ class and by frequency.
 Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10);
 uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from available post-marketing data).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
-Table 2: Adverse reactions
+Table 4: Adverse reactions
 
 Nivolumab monotherapy Nivolumab in combination with
 ipilimumab
@@ -112,8 +112,8 @@ Musculoskeletal and connective tissue disorders
 Very common arthralgia
 Common musculoskeletal paing, arthralgia musculoskeletal paing
 Uncommon polymyalgia rheumatica, arthritis spondyloarthropathy, Sjogren’s
-syndrome, arthritis, myopathy,
-myositis (including polymyositis)a,f,
+syndrome, arthritis, myopathy, myositis
+(including polymyositis)a,f,
 rhabdomyolysisa,f
 Rare Sjogren’s syndrome, myopathy,
 myositis (including polymyositis)a,f,
@@ -132,14 +132,13 @@ Investigationsb
 Very common increased AST, increased ALT, increased AST, increased ALT,
 increased alkaline phosphatase, increased total bilirubin, increased
 increased lipase, increased amylase, alkaline phosphatase, increased lipase,
-hypocalcaemia, increased creatinine, increased amylase, increased
-hyperglycaemiac, lymphopaenia, creatinine, hyperglycaemiac,
-leucopoenia, thrombocytopaenia, hypoglycaemia, lymphopaenia,
-anaemia, hypercalcaemia, leucopoenia, neutropaenia,
-hyperkalaemia, hypokalaemia, thrombocytopaenia, anaemia,
-hypomagnesaemia, hyponatraemia hypocalcaemia, hyperkalaemia,
-hypokalaemia, hypomagnesaemia,
-hyponatraemia
+hypocalcaemia, increased creatinine, increased amylase, increased creatinine,
+hyperglycaemiac, lymphopaenia, hyperglycaemiac, hypoglycaemia,
+leucopoenia, thrombocytopaenia, lymphopaenia, leucopoenia,
+anaemia, hypercalcaemia, neutropaenia, thrombocytopaenia,
+hyperkalaemia, hypokalaemia, anaemia, hypocalcaemia,
+hypomagnesaemia, hyponatraemia hyperkalaemia, hypokalaemia,
+hypomagnesaemia, hyponatraemia
 Common increased total bilirubin, hypercalcaemia, hypermagnesaemia,
 hypoglycaemia, hypermagnesaemia, hypernatraemia, weight decreased
 hypernatraemia, weight decreased

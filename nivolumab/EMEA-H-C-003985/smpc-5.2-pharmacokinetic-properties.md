@@ -3,9 +3,6 @@
 The pharmacokinetics (PK) of nivolumab is linear in the dose range of 0.1 to 10 mg/kg.
 The geometric mean clearance (CL), terminal half-life, and average exposure at steady state at 3 mg/kg every 2 weeks of nivolumab were 7.9 mL/h, 25.0 days, and 86.6 μg/mL, respectively, based on a population PK analysis.
 
-Nivolumab CL increased with increasing body weight.
-Body weight normalised dosing produced approximately uniform steady-state trough concentration over a wide range of body weights (34-162 kg).
-
 The metabolic pathway of nivolumab has not been characterised.
 Nivolumab is expected to be degraded into small peptides and amino acids via catabolic pathways in the same manner as endogenous IgG.
 

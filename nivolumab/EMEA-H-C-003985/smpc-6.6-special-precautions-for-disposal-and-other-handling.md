@@ -5,9 +5,15 @@ Preparation should be performed by trained personnel in accordance with good pra
 Preparation and administration
 
 Calculating the dose
+
+More than one vial of OPDIVO concentrate may be needed to give the total dose for the patient.
+
+Nivolumab monotherapy:
+The prescribed dose for the patient is 240 mg or 480 mg given regardless of body weight depending on indication (see section 4.2).
+
+Nivolumab in combination with ipilimumab:
 The prescribed dose for the patient is given in mg/kg.
 Based on this prescribed dose, calculate the total dose to be given.
-More than one vial of OPDIVO concentrate may be needed to give the total dose for the patient.
 
 - The total nivolumab dose in mg = the patient’s weight in kg × the prescribed dose in mg/kg.
 - The volume of OPDIVO concentrate to prepare the dose (mL) = the total dose in mg, divided by 10 (the OPDIVO concentrate strength is 10 mg/mL).
@@ -18,11 +24,15 @@ Take care to ensure aseptic handling when you prepare the infusion.
 OPDIVO can be used for intravenous administration either:
 
 - without dilution, after transfer to an infusion container using an appropriate sterile syringe; or
-- after diluting to concentrations as low as 1 mg/mL.
-  The final infusion concentration should range between 1 and 10 mg/mL.
-  OPDIVO concentrate may be diluted with either:
-  - sodium chloride 9 mg/mL (0.9%) solution for injection; or
-  - 50 mg/mL (5%) glucose solution for injection.
+- after diluting according to the following instructions:
+  - the final infusion concentration should range between 1 and 10 mg/mL.
+  - the total volume of infusion must not exceed 160 mL.
+    For patients weighing less than 40 kg, the total volume of infusion must not exceed 4 mL per kilogram of patient weight.
+
+OPDIVO concentrate may be diluted with either:
+
+- sodium chloride 9 mg/mL (0.9%) solution for injection; or
+- 50 mg/mL (5%) glucose solution for injection.
 
 STEP 1
 
@@ -42,7 +52,7 @@ STEP 2
 
 Administration
 OPDIVO infusion must not be administered as an intravenous push or bolus injection.
-Administer the OPDIVO infusion intravenously over a period of 60 minutes.
+Administer the OPDIVO infusion intravenously over a period of 30 or 60 minutes depending on the dose.
 OPDIVO infusion should not be infused at the same time in the same intravenous line with other agents.
 Use a separate infusion line for the infusion.
 
