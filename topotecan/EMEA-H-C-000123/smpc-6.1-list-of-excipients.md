@@ -5,21 +5,30 @@ Mannitol (E421)
 Hydrochloric acid (E507)
 Sodium hydroxide
 
-[HYCAMTIN 4 mg powder for concentrate for solution for infusion]
+[HYCAMTIN 0.25 mg hard capsules]
 
-Hydrochloric acid(E507)
+HYCAMTIN 0.25 mg hard capsules
 
-[HYCAMTIN 1 mg hard capsules]
-
-Capsule contents:
+Capsule contents
 Hydrogenated vegetable oil
 Glyceryl monostearate
 
-Capsule shell:
-Gelatin,
-Titanium dioxide (E171) red iron oxide (E172)
+Capsule shell
+Gelatin
+Titanium dioxide (E171)
 
-Sealing band:
+Sealing band
 
-Black ink comprising:
-black iron oxide (E172) shellac anhydrous ethanol – see leaflet for further information propylene glycol isopropyl alcohol butanol concentrated ammonia solution potassium hydroxide
+Black ink
+Black iron oxide (E172)
+Shellac
+Anhydrous ethanol – see leaflet for further information
+Propylene glycol
+Isopropyl alcohol
+Butanol
+Concentrated ammonia solution
+Potassium hydroxide
+
+HYCAMTIN 1 mg hard capsules
+
+Red iron oxide (E172)

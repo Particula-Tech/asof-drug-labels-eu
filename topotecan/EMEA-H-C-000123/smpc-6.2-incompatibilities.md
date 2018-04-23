@@ -2,10 +2,6 @@
 
 None known.
 
-[HYCAMTIN 4 mg powder for concentrate for solution for infusion]
+[HYCAMTIN 0.25 mg hard capsules]
 
-(all sentences already above)
-
-[HYCAMTIN 1 mg hard capsules]
-
-Not applicable
+Not applicable.

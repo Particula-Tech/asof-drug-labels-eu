@@ -2,14 +2,12 @@
 
 Keep the vial in the outer carton in order to protect from light.
 
-[HYCAMTIN 4 mg powder for concentrate for solution for infusion]
+For storage conditions after reconstitution and dilution of the medicinal product, see section 6.3.
 
-(all sentences already above)
-
-[HYCAMTIN 1 mg hard capsules]
+[HYCAMTIN 0.25 mg hard capsules]
 
 Store in a refrigerator (2ºC - 8ºC).
 
-Keep the blister card in the outer carton in order to protect from light.
-
 Do not freeze.
+
+Keep the blister in the outer carton in order to protect from light.
