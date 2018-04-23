@@ -1,7 +1,7 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-In patients receiving tenofovir disoproxil fumarate, rare events of renal impairment, renal failure and proximal renal tubulopathy (including Fanconi syndrome) sometimes leading to bone abnormalities (infrequently contributing to fractures) have been reported.
+In patients receiving tenofovir disoproxil fumarate, rare events of renal impairment, renal failure and uncommon events of proximal renal tubulopathy (including Fanconi syndrome) sometimes leading to bone abnormalities (infrequently contributing to fractures) have been reported.
 Monitoring of renal function is recommended for patients receiving Viread (see section 4.4).
 
 Approximately one third of patients can be expected to experience adverse reactions following treatment with tenofovir disoproxil fumarate in combination with other antiretroviral agents.
@@ -12,6 +12,7 @@ Co-administration of Viread and didanosine is not recommended as this may result
 Rarely, pancreatitis and lactic acidosis, sometimes fatal, have been reported (see section 4.4).
 
 Discontinuation of Viread in patients co-infected with HIV and HBV may be associated with severe acute exacerbations of hepatitis (see section 4.4).
+
 Tabulated summary of adverse reactions
 Assessment of adverse reactions for tenofovir disoproxil fumarate is based on safety data from clinical studies and post-marketing experience.
 All adverse reactions are presented in Table 2.
@@ -113,20 +114,20 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [Viread 245 mg film-coated tablets]
 
-HIV-1 and hepatitis B: In patients receiving tenofovir disoproxil fumarate, rare events of renal impairment, renal failure and proximal renal tubulopathy (including Fanconi syndrome) sometimes leading to bone abnormalities (infrequently contributing to fractures) have been reported.
+HIV-1 and hepatitis B: In patients receiving tenofovir disoproxil fumarate, rare events of renal impairment, renal failure and uncommon events of proximal renal tubulopathy (including Fanconi syndrome) sometimes leading to bone abnormalities (infrequently contributing to fractures) have been reported.
 
 HIV-1: Approximately one third of patients can be expected to experience adverse reactions following treatment with tenofovir disoproxil fumarate in combination with other antiretroviral agents.
 
 Hepatitis B: Approximately one quarter of patients can be expected to experience adverse reactions following treatment with tenofovir disoproxil fumarate, most of which are mild.
 In clinical trials of HBV infected patients, the most frequently occurring adverse reaction to tenofovir disoproxil fumarate was nausea (5.4%).
+
 Acute exacerbation of hepatitis has been reported in patients on treatment as well as in patients who have discontinued hepatitis B therapy (see section 4.4).
 
 HIV-1 clinical studies: Assessment of adverse reactions from HIV-1 clinical study data is based on experience in two studies in 653 treatment-experienced patients receiving treatment with tenofovir disoproxil fumarate (n = 443) or placebo (n = 210) in combination with other antiretroviral medicinal products for 24 weeks and also in a double-blind comparative controlled study in which 600 treatment-naïve patients received treatment with tenofovir disoproxil 245 mg (as fumarate) (n = 299) or stavudine (n = 301) in combination with lamivudine and efavirenz for 144 weeks.
 
 Hepatitis B clinical studies: Assessment of adverse reactions from HBV clinical study data is primarily based on experience in two double-blind comparative controlled studies in which 641 adult patients with chronic hepatitis B and compensated liver disease received treatment with tenofovir disoproxil 245 mg (as fumarate) daily (n = 426) or adefovir dipivoxil 10 mg daily (n = 215) for 48 weeks.
 The adverse reactions observed with continued treatment for 384 weeks were consistent with the safety profile of tenofovir disoproxil fumarate.
-After an initial decline of approximately
--4.9 ml/min (using Cockcroft-Gault equation) or -3.9 ml/min/1.73 m2 (using modification of diet in renal disease [MDRD] equation) after the first 4 weeks of treatment, the rate of annual decline post baseline of renal function reported in tenofovir disoproxil fumarate treated patients was -1.41 ml/min per year (using Cockcroft-Gault equation) and -0.74 ml/min/1.73 m2 per year (using MDRD equation).
+After an initial decline of approximately -4.9 ml/min (using Cockcroft-Gault equation) or -3.9 ml/min/1.73 m2 (using modification of diet in renal disease [MDRD] equation) after the first 4 weeks of treatment, the rate of annual decline post baseline of renal function reported in tenofovir disoproxil fumarate treated patients was -1.41 ml/min per year (using Cockcroft-Gault equation) and -0.74 ml/min/1.73 m2 per year (using MDRD equation).
 
 Patients with decompensated liver disease: The safety profile of tenofovir disoproxil fumarate in patients with decompensated liver disease was assessed in a double-blind active controlled study (GS-US-174-0108) in which adult patients received treatment with tenofovir disoproxil fumarate
 (n = 45) or emtricitabine plus tenofovir disoproxil fumarate (n = 45) or entecavir (n = 22) for 48 weeks.

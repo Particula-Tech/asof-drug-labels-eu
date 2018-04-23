@@ -91,10 +91,10 @@ Discontinuation of Viread therapy in patients co-infected with HIV and HBV may b
 Patients co-infected with HIV and HBV who discontinue Viread should be closely monitored with both clinical and laboratory follow-up for at least 6 months after stopping treatment.
 In patients with advanced liver disease or cirrhosis, treatment discontinuation is not recommended since post-treatment exacerbation of hepatitis may lead to hepatic decompensation.
 Use with certain hepatitis C virus antiviral agents
-Co-administration of tenofovir disoproxil fumarate with ledipasvir/sofosbuvir has been shown to increase plasma concentrations of tenofovir, especially when used together with an HIV regimen containing tenofovir disoproxil fumarate and a pharmacokinetic enhancer (ritonavir or cobicistat).
-The safety of tenofovir disoproxil fumarate in the setting of ledipasvir/sofosbuvir and a pharmacokinetic enhancer has not been established.
-The potential risks and benefits associated with co-administration of ledipasvir/sofosbuvir with tenofovir disoproxil fumarate given in conjunction with a boosted HIV protease inhibitor (e.g. atazanavir or darunavir) should be considered, particularly in patients at increased risk of renal dysfunction.
-Patients receiving ledipasvir/sofosbuvir concomitantly with tenofovir disoproxil fumarate and a boosted HIV protease inhibitor should be monitored for adverse reactions related to tenofovir disoproxil fumarate.
+Co-administration of tenofovir disoproxil fumarate with ledipasvir/sofosbuvir or sofosbuvir/velpatasvir has been shown to increase plasma concentrations of tenofovir, especially when used together with an HIV regimen containing tenofovir disoproxil fumarate and a pharmacokinetic enhancer (ritonavir or cobicistat).
+The safety of tenofovir disoproxil fumarate in the setting of ledipasvir/sofosbuvir or sofosbuvir/velpatasvir and a pharmacokinetic enhancer has not been established.
+The potential risks and benefits associated with co-administration of ledipasvir/sofosbuvir or sofosbuvir/velpatasvir with tenofovir disoproxil fumarate given in conjunction with a boosted HIV protease inhibitor (e.g. atazanavir or darunavir) should be considered, particularly in patients at increased risk of renal dysfunction.
+Patients receiving ledipasvir/sofosbuvir or sofosbuvir/velpatasvir concomitantly with tenofovir disoproxil fumarate and a boosted HIV protease inhibitor should be monitored for adverse reactions related to tenofovir disoproxil fumarate.
 
 Liver disease
 Tenofovir and tenofovir disoproxil fumarate are not metabolised by liver enzymes.

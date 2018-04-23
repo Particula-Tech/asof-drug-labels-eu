@@ -77,8 +77,7 @@ When missing data were excluded, 91% of patients in the tenofovir disoproxil fum
 
 Reductions in BMD have been reported in paediatric patients.
 In patients who received treatment with tenofovir disoproxil fumarate, or stavudine or zidovudine, mean lumbar spine BMD Z-score was -1.034 and -0.498, and mean total body BMD Z-score was -0.471 and -0.386, respectively, at baseline.
-Mean changes at week 48 (end of randomised phase) were 0.032 and 0.087 in lumbar spine
-BMD Z-score, and -0.184 and -0.027 in total body BMD Z-score for the tenofovir disoproxil fumarate and stavudine or zidovudine groups, respectively.
+Mean changes at week 48 (end of randomised phase) were 0.032 and 0.087 in lumbar spine BMD Z-score, and -0.184 and -0.027 in total body BMD Z-score for the tenofovir disoproxil fumarate and stavudine or zidovudine groups, respectively.
 The mean rate of lumbar spine bone gain at week 48 was similar between the tenofovir disoproxil fumarate treatment group and the stavudine or zidovudine treatment group.
 Total body bone gain was less in the tenofovir disoproxil fumarate treatment group compared to the stavudine or zidovudine treatment group.
 One tenofovir disoproxil fumarate treated subject and no stavudine or zidovudine treated subjects experienced significant
@@ -336,13 +335,14 @@ NA = Not Applicable a BMD Z-scores not adjusted for height and weight b Primary 
 [Viread 33 mg/g granules]
 
 Results through 48 weeks from two randomised, phase 3 double-blind studies comparing tenofovir disoproxil fumarate to adefovir dipivoxil in adult patients with compensated liver disease are presented in Table 4 below.
-
 Both treatments produced similar results with regard to histological response (defined as Knodell necroinflammatory score improvement of at least 2 points without worsening in Knodell fibrosis) at week 48 (see Table 4 below).
 
 In study GS-US-174-0103 a significantly greater proportion of patients in the tenofovir disoproxil fumarate group than in the adefovir dipivoxil group had normalised ALT and achieved HBsAg loss at week 48 (see Table 4 below).
+
 Table 4: Efficacy parameters in compensated HBeAg negative and HBeAg positive patients at week 48
 
 (see Tables 5 and 6 below).
+
 Table 5: Efficacy parameters in compensated HBeAg negative patients at week 96, 144, 192, 240, 288 and 384 open-label treatment
 
 Table 6: Efficacy parameters in compensated HBeAg positive patients at week 96, 144, 192, 240, 288 and 384 open-label treatment
