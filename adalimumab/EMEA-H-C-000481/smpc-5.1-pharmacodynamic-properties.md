@@ -781,7 +781,31 @@ Rheumatoid arthritis
 
 The results for the 40 mg every other week dose are summarised in Table 7.
 
+| Response | RA Study Ia** | RA Study IIa** | RA Study IIIa** |
+| --- | --- | --- | --- |
+|  | Placebo/ Humirab/ MTXc MTXc n=63 n=60 | Placebo Humirab n=110 n=113 | Placebo/ Humirab/ MTXc MTXc n=207 n=200 |
+| ACR 20 6 months 12 months ACR 50 6 months 12 months | 13.3% 65.1% NA NA 6.7% 52.4% NA NA | 19.1% 46.0% NA NA 8.2% 22.1% NA NA | 29.5% 63.3% 24.0% 58.9% 9.5% 39.1% 9.5% 41.5% |
+
+ACR 70
+6 months 3.3% 23.8% 1.8% 12.4% 2.5% 20.8%
+12 months NA NA NA NA 4.5% 23.2%
+
 In RA study V with early rheumatoid arthritis patients who were methotrexate naïve, combination therapy with Humira and methotrexate led to faster and significantly greater ACR responses than methotrexate monotherapy and Humira monotherapy at Week 52 and responses were sustained at Week 104 (see Table 8).
+
+| Response | MTX n=257 | Humira n=274 | Humira/MTX n=268 | p-valuea | p-valueb | p-valuec |
+| --- | --- | --- | --- | --- | --- | --- |
+| ACR 20 |  |  |  |  |  |  |
+| Week 52 | 62.6% | 54.4% | 72.8% | 0.013 | < 0.001 | 0.043 |
+| Week 104 | 56.0% | 49.3% | 69.4% | 0.002 | < 0.001 | 0.140 |
+| ACR 50 |  |  |  |  |  |  |
+| Week 52 | 45.9% | 41.2% | 61.6% | < 0.001 | < 0.001 | 0.317 |
+| Week 104 | 42.8% | 36.9% | 59.0% | < 0.001 | < 0.001 | 0.162 |
+| ACR 70 |  |  |  |  |  |  |
+| Week 52 | 27.2% | 25.9% | 45.5% | < 0.001 | < 0.001 | 0.656 |
+| Week 104 | 28.4% | 28.1% | 46.6% | < 0.001 | < 0.001 | 0.864 |
+
+a. p-value is from the pairwise comparison of methotrexate monotherapy and Humira/methotrexate combination therapy using the Mann-Whitney U test.
+b. p-value is from the pairwise comparison of Humira monotherapy and Humira/methotrexate combination therapy using the Mann-Whitney U test c. p-value is from the pairwise comparison of Humira monotherapy and methotrexate monotherapy using the Mann-Whitney U test
 
 Humira/methotrexate patients demonstrated significantly less radiographic progression than patients receiving methotrexate alone at 6 and 12 months (see Table 9).
 
@@ -1073,27 +1097,34 @@ Clinical response is decrease from baseline in Mayo score ≥ 3 points and ≥ 3
 
 [Humira 80 mg solution for injection in pre-filled syringe]
 
-In Psoriasis Studies I and II, a primary endpoint was the proportion of patients who achieved a PASI 75 response from baseline at Week 16 (see Tables 4 and 5).
-
+The results for the 40 mg every other week dose are summarised in Table 4.
 Table 4
 
+In RA study V with early rheumatoid arthritis patients who were methotrexate naïve, combination therapy with Humira and methotrexate led to faster and significantly greater ACR responses than methotrexate monotherapy and Humira monotherapy at Week 52 and responses were sustained at Week 104 (see Table 5).
 Table 5
 
-|  | Placebo N=53 n (%) | MTX N=110 n (%) | Humira 40 mg eow N=108 n (%) |
-| --- | --- | --- | --- |
-| ≥ PASI 75 | 10 (18.9) | 39 (35.5) | 86 (79.6) a, b |
-| PASI 100 | 1 (1.9) | 8 (7.3) | 18 (16.7) c, d |
-| PGA: Clear/minimal | 6 (11.3) | 33 (30.0) | 79 (73.1) a, b |
-
-a p < 0.001 Humira vs. placebo b p < 0.001 Humira vs. methotrexate c p < 0.01 Humira vs. placebo d p < 0.05 Humira vs. methotrexate
-
-Nail psoriasis assessments included the Modified Nail Psoriasis Severity Index (mNAPSI), the Physician’s Global Assessment of Fingernail Psoriasis (PGA-F) and the Nail Psoriasis Severity Index (NAPSI) (see Table 6).
+Humira/methotrexate patients demonstrated significantly less radiographic progression than patients receiving methotrexate alone at 6 and 12 months (see Table 6).
 
 Table 6
 
-At Week 12, a significantly higher proportion of patients in Study HS-II experienced a clinically relevant decrease in HS-related skin pain (see Table 7).
+In RA study V, structural joint damage was assessed radiographically and expressed as change in modified Total Sharp Score (see Table 7).
 
-Table 7: Efficacy Results at 12 Weeks, HS Studies I and II
+In Psoriasis Studies I and II, a primary endpoint was the proportion of patients who achieved a PASI 75 response from baseline at Week 16 (see Tables 8 and 9).
+
+Nail psoriasis assessments included the Modified Nail Psoriasis Severity Index (mNAPSI), the Physician’s Global Assessment of Fingernail Psoriasis (PGA-F) and the Nail Psoriasis Severity Index (NAPSI) (see Table 10).
+
+| Endpoint | Week 16 Placebo-Controlled |  | Week 26 Placebo-Controlled |  | Week 52 Open-label |
+| --- | --- | --- | --- | --- | --- |
+|  | Placebo N=108 | Humira 40 mg eow N=109 | Placebo N=108 | Humira 40 mg eow N=109 | Humira 40 mg eow N=80 |
+| ≥ mNAPSI 75 (%) | 2.9 | 26.0a | 3.4 | 46.6a | 65.0 |
+| PGA-F clear/minimal and ≥2-grade improvement (%) | 2.9 | 29.7a | 6.9 | 48.9a | 61.3 |
+| Percent Change in Total | -7.8 | -44.2 a | -11.5 | -56.2a | -72.2 |
+
+Fingernail NAPSI (%)
+a p<0.001, Humira vs. placebo
+
+At Week 12, a significantly higher proportion of patients in Study HS-II experienced a clinically relevant decrease in HS-related skin pain (see Table 11).
+Table 11: Efficacy Results at 12 Weeks, HS Studies I and II
 
 |  | HS Study I |  | HS Study II |  |
 | --- | --- | --- | --- | --- |
@@ -1102,8 +1133,9 @@ Table 7: Efficacy Results at 12 Weeks, HS Studies I and II
 | ≥30% Reduction in Skin Painb | N = 109 27 (24.8%) | N = 122 34 (27.9%) | N=111 23 (20.7%) | N=105 48 (45.7%) *** |
 | * P < 0.05, ***P < 0.001, Humira versus placebo c Among all randomised patients. d Among patients with baseline HS-related skin pain assessment ≥ 3, based on Numeric Rating Scale 0 – 10; 0 = no skin pain, 10 = skin pain as bad as you can imagine. |  |  |  |  |
 
-In patients with at least a partial response to Humira 40 mg weekly at Week 12, the HiSCR rate at Week 36 was higher in patients who continued weekly Humira than in patients in whom dosing frequency was reduced to every other week, or in whom treatment was withdrawn (see Table 8).
-Table 8: Proportion of Patientsa Achieving HiSCRb at Weeks 24 and 36 After Treatment Reassignment from Weekly Humira at Week 12
+In patients with at least a partial response to Humira 40 mg weekly at Week 12, the HiSCR rate at Week 36 was higher in patients who continued weekly Humira than in patients in whom dosing frequency was reduced to every other week, or in whom treatment was withdrawn (see Table 12).
+
+Table 12: Proportion of Patientsa Achieving HiSCRb at Weeks 24 and 36 After Treatment Reassignment from Weekly Humira at Week 12
 
 |  | Placebo (treatment withdrawal) N = 73 | Humira 40 mg every other week N = 70 | Humira 40 mg weekly N = 70 |
 | --- | --- | --- | --- |
@@ -1111,7 +1143,7 @@ Table 8: Proportion of Patientsa Achieving HiSCRb at Weeks 24 and 36 After Treat
 | Week 36 | 22 (30.1%) | 28 (40.0%) | 39 (55.7%) |
 | c Patients with at least a partial response to Humira 40 mg weekly after 12 weeks of treatment. d Patients meeting protocol-specified criteria for loss of response or no improvement were required to discontinue from the studies and were counted as nonresponders. |  |  |  |
 
-CD study I and CD study II induction of remission and response rates are presented in Table 9.
+CD study I and CD study II induction of remission and response rates are presented in Table 13.
 
 |  | CDStudy I: Infliximab Naive Patients |  |  | CD Study II: Infliximab Experienced Patients |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1120,14 +1152,14 @@ CD study I and CD study II induction of remission and response rates are present
 | Clinical remission | 12% | 24% | 36%* | 7% | 21%* |
 | Clinical response (CR-100) | 24% | 37% | 49%** | 25% | 38%** |
 
-Maintenance of remission and response rates are presented in Table 10.
+Maintenance of remission and response rates are presented in Table 14.
 
-At Week 4, subjects were randomised 1:1 based on their body weight at the time to either the Low Dose or Standard Dose maintenance regimens as shown in Table 11.
+At Week 4, subjects were randomised 1:1 based on their body weight at the time to either the Low Dose or Standard Dose maintenance regimens as shown in Table 15.
 
-Clinical remission and clinical response (defined as reduction in PCDAI score of at least 15 points from Baseline) rates are presented in Table 12.
-Rates of discontinuation of corticosteroids or immunomodulators are presented in Table 13.
+Clinical remission and clinical response (defined as reduction in PCDAI score of at least 15 points from Baseline) rates are presented in Table 16.
+Rates of discontinuation of corticosteroids or immunomodulators are presented in Table 17.
 
-| Table 12 Paediatric CD Study PCDAI Clinical Remission and Response |  |  |  |
+| Table 16 Paediatric CD Study PCDAI Clinical Remission and Response |  |  |  |
 | --- | --- | --- | --- |
 |  | Standard Dose 40/20 mg eow N = 93 | Low Dose 20/10 mg eow N = 95 | P value* |
 | Week 26 |  |  |  |
@@ -1137,9 +1169,7 @@ Rates of discontinuation of corticosteroids or immunomodulators are presented in
 | Clinical remission | 33.3% | 23.2% | 0.100 |
 | Clinical response | 41.9% | 28.4% | 0.038 |
 | * p value for Standard Dose versus Low Dose comparison. |  |  |  |
-
-| Table 13 Paediatric CD Study Discontinuation of Corticosteroids or Immunomodulators and Fistula Remission |  |  |  |
-| --- | --- | --- | --- |
+| Table 17 Paediatric CD Study Discontinuation of Corticosteroids or Immunomodulators and Fistula Remission |  |  |  |
 |  | Standard Dose 40/20 mg eow | Low Dose 20/10 mg eow | P value1 |
 | Discontinued corticosteroids | N= 33 | N=38 |  |
 | Week 26 | 84.8% | 65.8% | 0.066 |
@@ -1150,6 +1180,6 @@ Rates of discontinuation of corticosteroids or immunomodulators are presented in
 | Week 26 | 46.7% | 38.1% | 0.608 |
 | Week 52 | 40.0% | 23.8% | 0.303 |
 
-Results from the overall UC-II study population are shown in Table 14.
+Results from the overall UC-II study population are shown in Table 18.
 
-Results from both studies demonstrated statistically significant reduction of the risk of treatment failure in patients treated with Humira versus patients receiving placebo (See Table 15).
+Results from both studies demonstrated statistically significant reduction of the risk of treatment failure in patients treated with Humira versus patients receiving placebo (See Table 19).

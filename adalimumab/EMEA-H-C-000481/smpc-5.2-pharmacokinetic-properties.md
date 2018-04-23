@@ -23,7 +23,6 @@ Adalimumab exposure in paediatric uveitis patients was predicted using populatio
 No clinical exposure data are available on the use of a loading dose in children < 6 years.
 The predicted exposures indicate that in the absence of methotrexate, a loading dose may lead to an initial increase in systemic exposure.
 Exposure-response relationship in paediatric population
-
 On the basis of clinical trial data in patients with JIA (pJIA and ERA), an exposure-response relationship was established between plasma concentrations and PedACR 50 response.
 The apparent adalimumab plasma concentration that produces half the maximum probability of PedACR 50 response (EC50) was 3 μg/ml (95% CI: 1-6 μg/ml).
 
@@ -49,11 +48,14 @@ Mean steady-state trough levels of approximately 7 µg/ml were observed in Crohn
 
 In adult patients with uveitis, a loading dose of 80 mg adalimumab on Week 0 followed by 40 mg adalimumab every other week starting at Week 1, resulted in mean steady-state concentrations of approximately 8 to 10 µg/mL.
 
+Population pharmacokinetic and pharmacokinetic/pharmacodynamic modelling and simulation predicted comparable adalimumab exposure and efficacy in patients treated with 80 mg every other week when compared with 40 mg every week (including adult patients with RA, HS, UC, CD or Ps, patients with adolescent HS, and paediatric patients ≥ 40 kg with CD).
+
 Elimination
 
 Population pharmacokinetic analyses with data from over 1,300 RA patients revealed a trend toward higher apparent clearance of adalimumab with increasing body weight.
 After adjustment for weight differences, gender and age appeared to have a minimal effect on adalimumab clearance.
 The serum levels of free adalimumab (not bound to anti-adalimumab antibodies, AAA) were observed to be lower in patients with measurable AAA.
+
 Hepatic or renal impairment
 
 Humira has not been studied in patients with hepatic or renal impairment.
