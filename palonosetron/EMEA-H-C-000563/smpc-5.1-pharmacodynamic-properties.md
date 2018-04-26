@@ -72,7 +72,6 @@ b The study was designed to show non-inferiority.
 A lower bound greater than –15 % demonstrates non-inferiority between Aloxi and comparator.
 c Chi-square test.
 Significance level at α=0.05.
-
 Table 3: Percentage of patients a responding by treatment group and phase in the Highly Emetogenic Chemotherapy study versus ondansetron
 
 Aloxi Ondansetron
@@ -101,6 +100,7 @@ b The study was designed to show non-inferiority.
 A lower bound greater than –15 % demonstrates non-inferiority between Aloxi and comparator.
 c Chi-square test.
 Significance level at α=0.05.
+
 The effect of palonosetron on blood pressure, heart rate, and ECG parameters including QTc were comparable to ondansetron and dolasetron in CINV clinical studies.
 In non-clinical studies palonosetron possesses the ability to block ion channels involved in ventricular de- and re-polarisation and to prolong action potential duration.
 The effect of palonosetron on QTc interval was evaluated in a double blind, randomised, parallel, placebo and positive (moxifloxacin) controlled trial in adult men and women.
@@ -124,7 +124,7 @@ The primary efficacy endpoint was Complete Response in the acute phase of the fi
 Efficacy was based on demonstrating non-inferiority of intravenous palonosetron compared to intravenous ondansetron.
 Non-inferiority criteria were met if the lower bound of the 97.5% confidence interval for the difference in Complete Response rates of intravenous palonosetron minus intravenous ondansetron was larger than -15%.
 In the palonosetron 10 µg/kg, 20 µg/kg and ondansetron groups, the proportion of patients with CR0-24h was 54.2%, 59.4% and 58.6%.
-Since the 97.5% confidence interval (stratum adjusted Mantel-Haenszel test) of the difference in CR0-24h between palonosetron 20 µg/kg and ondansetron was [-11.7%, 12.4%], the 20 µg/kg palonosetron dose demonstrated non-inferiority to ondansetron.
+Since the 97.5% confidence interval (stratum adjusted Mantel-Haenszel test) of the difference in CR0-24h between palonosetron 20 µg/kg and ondansetron was [- 11.7%, 12.4%], the 20 µg/kg palonosetron dose demonstrated non-inferiority to ondansetron.
 
 While this study demonstrated that paediatric patients require a higher palonosetron dose than adults to prevent chemotherapy-induced nausea and vomiting, the safety profile is consistent with the established profile in adults (see section 4.8).
 Pharmacokinetic information is provided in section 5.2.
@@ -154,6 +154,7 @@ The majority of patients in the study were women (73 %), white (69 %), and naïv
 Efficacy was based on demonstrating non-inferiority of oral palonosetron doses compared to the approved intravenous formulation.
 Non-inferiority criteria were met if the lower bound of the two-sided 98.3 % confidence interval for the difference in complete response rates of oral palonosetron dose minus approved intravenous formulation was larger than -15 %.
 The non-inferiority margin was 15 %.
+
 As shown in Table 1, oral Aloxi capsules 500 micrograms demonstrated non-inferiority to the active comparator during the 0 to 24 hour and 0 to 120 hour time intervals; however, for the 24 to 120 hour time period, non-inferiority was not shown.
 
 Although comparative efficacy of palonosetron in multiple cycles has not been demonstrated in controlled clinical trials, 217 patients were enrolled in a multicentre, open label safety study and were treated with palonosetron capsules 750 micrograms for up to 4 cycles of chemotherapy in a total of 654 chemotherapy cycles.
@@ -183,7 +184,6 @@ A lower bound greater that -15 % demonstrates non-inferiority between Aloxi oral
 Significance levels at alpha 0.0167 (adjusted for multiple comparisons).
 
 No clinically significant changes were shown on heart rate, atrioventricular (AV) conduction and cardiac repolarization.
-
 The safety and efficacy of Palonosetron i.v at single doses of 3µg/kg and 10µg/kg was investigated in the first clinical study in 72 patients in the following age groups, >28 days to 23 months (12 patients), 2 to 11 years (31 patients), and 12 to 17 years of age (29 patients), receiving highly or moderately emetogenic chemotherapy.
 
 The second paediatric trial was a multicenter, double-blind, double-dummy, randomised, parallel group, active control, single-dose non-inferiority study, comparing i.v. palonosetron (1 µg/kg, max 0.075 mg) versus i.v. ondansetron.

@@ -6,7 +6,6 @@ Mean maximum plasma concentration (Cmax) and area under the concentration-time c
 
 Following intravenous administration of palonosetron 0.25 mg once every other day for 3 doses in 11 testicular cancer patients, the mean (± SD) increase in plasma concentration from Day 1 to Day 5 was 42 ± 34 %.
 After intravenous administration of palonosetron 0.25 mg once daily for 3 days in 12 healthy subjects, the mean (± SD) increase in plasma palonosetron concentration from Day 1 to Day 3 was 110 ± 45 %.
-
 Pharmacokinetic simulations indicate that the overall exposure (AUC0-∞) of 0.25 mg intravenous palonosetron administered once daily for 3 consecutive days was similar to a single intravenous dose of 0.75 mg, although Cmax of the 0.75 mg single dose was higher.
 
 Distribution
@@ -45,7 +44,6 @@ Median half-life was 29.5 hours in overall age groups and ranged from about 20 t
 
 The total body clearance (L/h/kg) in patients 12 to 17 years old was similar to that in healthy adults.
 There are no apparent differences in volume of distribution when expressed as L/kg.
-
 Table 4: Pharmacokinetic Parameters in Paediatric Cancer Patients following intravenous infusion of Aloxi at 20 µg/kg over 15 min and in Adult Cancer Patients receiving 3 and 10 µg/kg palonosetron doses via intravenous bolus.
 
 |  | Paediatric Cancer Patientsa |  |  |  | Adults Cancer Patientsb |  |
@@ -68,6 +66,7 @@ Mild to moderate renal impairment does not significantly affect palonosetron pha
 Severe renal impairment reduces renal clearance, however total body clearance in these patients is similar to healthy subjects.
 No dosage adjustment is necessary in patients with renal insufficiency.
 No pharmacokinetic data in haemodialysis patients are available.
+
 Hepatic impairment
 Hepatic impairment does not significantly affect total body clearance of palonosetron compared to the healthy subjects.
 While the terminal elimination half-life and mean systemic exposure of palonosetron is increased in the subjects with severe hepatic impairment, this does not warrant dose reduction.
@@ -101,7 +100,6 @@ UPharmacokinetics in special populations
 No dose adjustment is necessary in elderly patients.
 
 No dose adjustment is necessary based on gender.
-
 Paediatric patients
 
 Table 2: Pharmacokinetic Parameters in Paediatric Cancer Patients following intravenous infusion of Aloxi at 20 µg/kg over 15 min and in Adult Cancer Patients receiving 3 and 10 µg/kg palonosetron doses via intravenous bolus.

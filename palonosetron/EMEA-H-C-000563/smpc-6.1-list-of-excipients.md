@@ -11,18 +11,13 @@ Water for injections
 [Aloxi 500 micrograms soft capsules]
 
 UCapsule content:
-Mono/diglycerides of caprylic/capric acid
+Glycerol Monocaprylocaproate (type I)
 Polyglycerol oleate
 Glycerol
 Purified water
-Butylhydroxyanisole (BHA)
+Butylhydroxyanisole
 
 UCapsule shell:
 Gelatin
-Sorbitol (E420)
-Titanium dioxide (E171)
-
-UPrinting Ink:
-Iron oxide black (E172)
-Polyvinyl acetate phthalate
-Macrogol 400
+Sorbitol
+Titanium dioxide

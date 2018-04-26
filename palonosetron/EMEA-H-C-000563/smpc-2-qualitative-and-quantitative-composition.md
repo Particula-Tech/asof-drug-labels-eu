@@ -10,4 +10,4 @@ For the full list of excipients, see section 6.1.
 Each capsule contains 500 micrograms palonosetron (as hydrochloride).
 
 Excipient(s):
-Each capsule contains 14.21 milligrams sorbitol.
+Each capsule contains 7 mg sorbitol.

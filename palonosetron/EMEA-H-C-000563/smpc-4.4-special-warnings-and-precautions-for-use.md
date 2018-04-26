@@ -14,7 +14,6 @@ There have been reports of serotonin syndrome with the use of 5-HT3 antagonists 
 Appropriate observation of patients for serotonin syndrome-like symptoms is advised.
 
 Aloxi should not be used to prevent or treat nausea and vomiting in the days following chemotherapy if not associated with another chemotherapy administration.
-
 This medicinal product contains less than 1 mmol sodium (23 mg) per vial, i.e. essentially ‘sodium-free’.
 
 [Aloxi 500 micrograms soft capsules]

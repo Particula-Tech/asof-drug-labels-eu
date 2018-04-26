@@ -6,7 +6,6 @@ Non-clinical studies indicate that palonosetron, only at very high concentration
 
 Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonal/foetal development, parturition or postnatal development.
 Only limited data from animal studies are available regarding the placental transfer (see section 4.6).
-
 Palonosetron is not mutagenic.
 High doses of palonosetron (each dose causing at least 30 times the human therapeutic exposure) applied daily for two years caused an increased rate of liver tumours, endocrine neoplasms (in thyroid, pituitary, pancreas, adrenal medulla) and skin tumours in rats but not in mice.
 The underlying mechanisms are not fully understood, but because of the high doses employed and since Aloxi is intended for single application in humans, these findings are not considered relevant for clinical use.

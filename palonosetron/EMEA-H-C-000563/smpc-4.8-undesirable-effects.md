@@ -28,6 +28,7 @@ Within each frequency grouping, adverse reactions are presented below in order o
 
 ° From post-marketing experience
 * Includes the following: burning, induration, discomfort and pain
+
 Paediatric population
 
 In paediatric clinical trials for the prevention of nausea and vomiting induced by moderately or highly emetogenic chemotherapy, 402 patients received a single dose of palonosetron (3, 10 or 20 mcg/kg).
