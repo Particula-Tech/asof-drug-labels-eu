@@ -1,7 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Since IgE may be involved in the immunological response to some helminth infections, Xolair may indirectly reduce the efficacy of medicinal products for the treatment of helminthic or other parasitic infections (see section 4.4).
-
 Cytochrome P450 enzymes, efflux pumps and protein-binding mechanisms are not involved in the clearance of omalizumab; thus, there is little potential for drug-drug interactions.
 Medicinal product or vaccine interaction studies have not been performed with Xolair.
 There is no pharmacological reason to expect that commonly prescribed medicinal products used in the treatment of asthma will interact with omalizumab.

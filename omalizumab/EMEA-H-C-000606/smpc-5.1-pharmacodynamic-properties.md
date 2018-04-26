@@ -24,11 +24,11 @@ Oral corticosteroid, theophylline and leukotriene-modifier maintenance therapies
 The rate of asthma exacerbations requiring treatment with bursts of systemic corticosteroids was the primary endpoint.
 Omalizumab reduced the rate of asthma exacerbations by 19% (p = 0.153).
 Further evaluations which did show statistical significance (p<0.05) in favour of Xolair included reductions in severe exacerbations (where patient’s lung function was reduced to below 60% of personal best and requiring systemic corticosteroids) and asthma-related emergency visits (comprised of hospitalisations, emergency room, and unscheduled doctor visits), and improvements in Physician’s overall assessment of treatment effectiveness, Asthma-related Quality of Life (AQL), asthma symptoms and lung function.
+
 In a subgroup analysis, patients with pre-treatment total IgE ≥76 IU/ml were more likely to experience clinically meaningful benefit to Xolair.
 In these patients in study 1 Xolair reduced the rate of asthma exacerbations by 40% (p = 0.002).
 In addition more patients had clinically meaningful responses in the total IgE ≥76 IU/ml population across the Xolair severe asthma programme.
 Table 5 includes results in the study 1 population.
-
 Table 5: Results of study 1
 
 Whole study 1 population
@@ -74,6 +74,7 @@ Studies 3-5 used exacerbation as primary endpoint, whereas study 6 primarily eva
 In studies 3, 4 and 5 patients treated with Xolair had respective reductions in asthma exacerbation rates of 37.5% (p = 0.027), 40.3% (p<0.001) and 57.6% (p<0.001) compared to placebo.
 
 In study 6, significantly more severe allergic asthma patients on Xolair were able to reduce their fluticasone dose to ≤500 micrograms/day without deterioration of asthma control (60.3%) compared to the placebo group (45.8%, p<0.05).
+
 Quality of life scores were measured using the Juniper Asthma-related Quality of Life Questionnaire.
 For all six studies there was a statistically significant improvement from baseline in quality of life scores for Xolair patients versus the placebo or control group.
 
@@ -81,7 +82,6 @@ Physician’s overall assessment of treatment effectiveness:
 Physician’s overall assessment was performed in five of the above studies as a broad measure of asthma control performed by the treating physician.
 The physician was able to take into account PEF (peak expiratory flow), day and night time symptoms, rescue medication use, spirometry and exacerbations.
 In all five studies a significantly greater proportion of Xolair treated patients were judged to have achieved either a marked improvement or complete control of their asthma compared to placebo patients.
-
 Children 6 to <12 years of age
 The primary support for safety and efficacy of Xolair in the group aged 6 to <12 years comes from one randomised, double-blind, placebo-controlled, multi-centre trial (study 7).
 
@@ -119,7 +119,6 @@ After discontinuation of Xolair, free IgE levels increased towards pre-treatment
 Clinical efficacy and safety in allergic asthma
 
 Table 6 includes results in the study 1 population.
-
 Table 6: Results of study 1
 
 Clinical efficacy and safety in chronic spontaneous urticaria (CSU)

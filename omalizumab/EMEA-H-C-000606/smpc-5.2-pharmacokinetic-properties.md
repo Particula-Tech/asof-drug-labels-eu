@@ -9,7 +9,6 @@ The pharmacokinetics of omalizumab are linear at doses greater than 0.5 mg/kg.
 Following multiple doses of omalizumab, areas under the serum concentration-time curve from Day 0 to Day 14 at steady state were up to 6-fold of those after the first dose.
 
 Administration of Xolair manufactured as a lyophilised or liquid formulation resulted in similar serum concentration-time profiles of omalizumab.
-
 Distribution
 In vitro, omalizumab forms complexes of limited size with IgE.
 Precipitating complexes and complexes larger than one million Daltons in molecular weight are not observed in vitro or in vivo.

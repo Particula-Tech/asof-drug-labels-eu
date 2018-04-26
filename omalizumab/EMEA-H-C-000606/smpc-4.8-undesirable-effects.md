@@ -4,12 +4,12 @@ Summary of the safety profile
 During clinical trials in adult and adolescent patients 12 years of age and older, the most commonly reported adverse reactions were headaches and injection site reactions, including injection site pain, swelling, erythema and pruritus.
 In clinical trials in children 6 to <12 years of age, the most commonly reported adverse reactions were headache, pyrexia and upper abdominal pain.
 Most of the reactions were mild or moderate in severity.
+
 Tabulated list of adverse reactions
 Table 4 lists the adverse reactions recorded in clinical studies in the total safety population treated with Xolair by MedDRA system organ class and frequency.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 Frequency categories are defined as: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000) and very rare (<1/10,000).
 Reactions reported in the post-marketing setting are listed with frequency not known (cannot be estimated from the available data).
-
 Table 4: Adverse reactions
 
 | Infections and infestations |  |
@@ -92,8 +92,11 @@ Table 4: Adverse reactions in allergic asthma
 | Uncommon | Postural hypotension, flushing |
 | Respiratory, thoracic and mediastinal disorders |  |
 | Uncommon Rare Not known | Allergic bronchospasm, coughing Laryngoedema Allergic granulomatous vasculitis (i.e. Churg-Strauss syndrome) |
-| Gastrointestinal disorders |  |
+
+Gastrointestinal disorders
+
 | Common Uncommon | Abdominal pain upper** Dyspeptic signs and symptoms, diarrhoea, nausea |
+| --- | --- |
 | Skin and subcutaneous tissue disorders |  |
 | Uncommon Rare Not known | Photosensitivity, urticaria, rash, pruritus Angioedema Alopecia |
 | Musculoskeletal and connective tissue disorders |  |
@@ -107,6 +110,7 @@ The safety and tolerability of omalizumab were investigated with doses of 75 mg,
 Overall, 733 patients were treated with omalizumab for up to 12 weeks and 490 patients for up to 24 weeks.
 Of those,
 412 patients were treated for up to 12 weeks and 333 patients were treated for up to 24 weeks at the 300 mg dose.
+
 A separate table (Table 5) shows the adverse reactions for the CSU indication resulting from differences in dosages and treatment populations (with significantly different risk factors, comorbidities, co-medications and ages [e.g. asthma trials included children from 6-12 years of age]).
 
 Table 5 lists the adverse reactions (events occurring in ≥1% of patients in any treatment group and
@@ -116,7 +120,6 @@ The adverse reactions presented are divided into two groups: those identified in
 The adverse reactions are listed by MedDRA system organ class.
 Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions listed first.
 The corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1000); very rare (<1/10,000) and not known (cannot be estimated from the available data).
-
 Table 5: Adverse reactions from the pooled CSU safety database (day 1 to week 24) at 300 mg omalizumab
 
 Omalizumab studies 1, 2 and 3 Pooled Frequency category 12-Week

@@ -1,7 +1,6 @@
 # 4.2 Posology and method of administration
 
 Xolair treatment should be initiated by physicians experienced in the diagnosis and treatment of severe persistent asthma.
-
 Posology
 The appropriate dose and frequency of Xolair is determined by baseline IgE (IU/ml), measured before the start of treatment, and body weight (kg).
 Prior to administration of the initial dose, patients should have their IgE level determined by any commercial serum total IgE assay for their dose assignment.
