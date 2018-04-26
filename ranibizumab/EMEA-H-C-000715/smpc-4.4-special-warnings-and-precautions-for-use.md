@@ -58,6 +58,7 @@ There are insufficient data to conclude on the effect of Lucentis in patients wi
 
 In patients with PM, there are limited data on the effect of Lucentis in patients who have previously undergone unsuccessful verteporfin photodynamic therapy (vPDT) treatment.
 Also, while a consistent effect was observed in subjects with subfoveal and juxtafoveal lesions, there are insufficient data to conclude on the effect of Lucentis in PM subjects with extrafoveal lesions.
+
 Systemic effects following intravitreal use
 
 Systemic adverse events including non-ocular haemorrhages and arterial thromboembolic events have been reported following intravitreal injection of VEGF inhibitors.

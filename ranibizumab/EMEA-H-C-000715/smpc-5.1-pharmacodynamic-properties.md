@@ -226,10 +226,10 @@ A total of 868 patients (708 active and 160 control) were enrolled in these stud
 In the phase II study D2201 (RESOLVE), 151 patients were treated with ranibizumab (6 mg/ml, n=51, 10 mg/ml, n=51) or sham (n=49) by monthly intravitreal injections.
 The mean average change in BCVA from Month 1 to Month 12 compared to baseline was +7.8 (±7.72) letters in the pooled ranibizumab-treated patients (n=102), compared to -0.1 (±9.77) letters for sham-treated patients; and the mean change in BCVA at Month 12 from baseline was 10.3 (±9.1) letters compared to
 -1.4 (±14.2) letters, respectively (p<0.0001 for the treatment difference).
+
 In the phase III study D2301 (RESTORE), 345 patients were randomised in a 1:1:1 ratio to receive ranibizumab 0.5 mg monotherapy and sham laser photocoagulation, combined ranibizumab 0.5 mg and laser photocoagulation or sham injection and laser photocoagulation.
 240 patients, who had previously completed the 12-month RESTORE study, were enrolled in the open-label, multicentre 24-month extension (RESTORE Extension) study.
 Patients were treated with ranibizumab 0.5 mg pro re nata (PRN) in the same eye as the core study (D2301 RESTORE).
-
 Key outcome measures are summarised in Table 5 (RESTORE and Extension) and Figure 4 (RESTORE).
 
 Figure 4 Mean change in visual acuity from baseline over time in study D2301 (RESTORE)
