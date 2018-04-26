@@ -31,13 +31,13 @@ Nilotinib may be used concurrently with esomeprazole or other proton pump inhibi
 
 In a healthy subjects study, no significant change in nilotinib pharmacokinetics was observed when a single 400 mg dose of nilotinib was administered 10 hours after and 2 hours before famotidine.
 Therefore, when the concurrent use of a H2 blocker is necessary, it may be administered approximately 10 hours before and approximately 2 hours after the dose of Tasigna.
+
 In the same study as above, administration of an antacid (aluminium hydroxide/magnesium hydroxide/simethicone) 2 hours before or after a single 400 mg dose of nilotinib also did not alter nilotinib pharmacokinetics.
 Therefore, if necessary, an antacid may be administered approximately 2 hours before or approximately 2 hours after the dose of Tasigna.
 
 Substances that may have their systemic concentration altered by nilotinib
 
 In vitro, nilotinib is a relatively strong inhibitor of CYP3A4, CYP2C8, CYP2C9, CYP2D6 and UGT1A1, with Ki value being lowest for CYP2C9 (Ki=0.13 microM).
-
 A single-dose drug-drug interaction study in healthy volunteers with 25 mg warfarin, a sensitive CYP2C9 substrate, and 800 mg nilotinib did not result in any changes in warfarin pharmacokinetic parameters or warfarin pharmacodynamics measured as prothrombin time (PT) and international normalised ratio (INR).
 There are no steady-state data.
 This study suggests that a clinically meaningful drug-drug interaction between nilotinib and warfarin is less likely up to a dose of 25 mg of warfarin.

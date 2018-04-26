@@ -28,6 +28,7 @@ In particular, no episodes of torsade de pointes (transient or sustained) were o
 Significant prolongation of the QT interval may occur when nilotinib is inappropriately taken with strong CYP3A4 inhibitors and/or medicinal products with a known potential to prolong QT, and/or food (see section 4.5).
 The presence of hypokalaemia and hypomagnesaemia may further enhance this effect.
 Prolongation of the QT interval may expose patients to the risk of fatal outcome.
+
 Tasigna should be used with caution in patients who have or who are at significant risk of developing prolongation of QTc, such as those:
 
 - with congenital long QT prolongation
@@ -36,7 +37,6 @@ Tasigna should be used with caution in patients who have or who are at significa
 
 Close monitoring for an effect on the QTc interval is advisable and a baseline ECG is recommended prior to initiating nilotinib therapy and as clinically indicated.
 Hypokalaemia or hypomagnesaemia must be corrected prior to Tasigna administration and should be monitored periodically during therapy.
-
 Sudden death
 
 Uncommon cases (0.1 to 1%) of sudden deaths have been reported in patients with imatinib-resistant or intolerant CML in chronic phase or accelerated phase with a past medical history of cardiac disease or significant cardiac risk factors.
@@ -67,12 +67,12 @@ Some cases resulted in acute hepatic failure or fulminant hepatitis leading to l
 Patients should be tested for HBV infection before initiating treatment with nilotinib.
 Experts in liver disease and in the treatment of hepatitis B should be consulted before treatment is initiated in patients with positive hepatitis B serology (including those with active disease) and for patients who test positive for HBV infection during treatment.
 Carriers of HBV who require treatment with nilotinib should be closely monitored for signs and symptoms of active HBV infection throughout therapy and for several months following termination of therapy (see section 4.8).
+
 Special monitoring of Ph+ CML patients in chronic phase who have achieved a sustained deep molecular response
 
 Eligibility for discontinuation of treatment
 Eligible patients who are confirmed to express the typical BCR-ABL transcripts, e13a2/b2a2 or e14a2/b3a2, can be considered for treatment discontinuation.
 Patients must have typical BCR-ABL transcripts to allow quantitation of BCR-ABL, evaluation of the depth of molecular response, and determination of a possible loss of molecular remission after discontinuation of treatment with nilotinib.
-
 Monitoring of patients who have discontinued therapy
 Frequent monitoring of BCR-ABL transcript levels in patients eligible for treatment discontinuation must be performed with a quantitative diagnostic test validated to measure molecular response levels with a sensitivity of at least MR4.5 (BCR-ABL/ABL ≤0.0032% IS).
 BCR-ABL transcript levels must be assessed prior to and during treatment discontinuation (see sections 4.2 and 5.1).
@@ -99,9 +99,9 @@ Interactions with other medicinal products
 The administration of Tasigna with agents that are strong CYP3A4 inhibitors (including, but not limited to, ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir) should be avoided.
 Should treatment with any of these agents be required, it is recommended that nilotinib therapy be interrupted if possible (see section 4.5).
 If transient interruption of treatment is not possible, close monitoring of the individual for prolongation of the QT interval is indicated (see sections 4.2, 4.5 and 5.2).
+
 Concomitant use of nilotinib with medicinal products that are potent inducers of CYP3A4 (e.g. phenytoin, rifampicin, carbamazepine, phenobarbital and St. John’s Wort) is likely to reduce exposure to nilotinib to a clinically relevant extent.
 Therefore, in patients receiving nilotinib, co-administration of alternative therapeutic agents with less potential for CYP3A4 induction should be selected (see section 4.5).
-
 Food effect
 
 The bioavailability of nilotinib is increased by food.
@@ -139,6 +139,7 @@ Lactose
 
 Tasigna hard capsules contain lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+
 Paediatric population
 
 Laboratory abnormalities of mild to moderate transient elevations of aminotransferases and total bilirubin have been observed in children at a higher frequency than in adults, indicating a higher risk of hepatotoxicity in the paediatric population (see section 4.8).

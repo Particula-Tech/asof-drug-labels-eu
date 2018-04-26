@@ -30,6 +30,7 @@ Unchanged nilotinib accounted for 69% of the dose.
 
 The apparent elimination half-life estimated from the multiple-dose pharmacokinetics with daily dosing was approximately 17 hours.
 Inter-patient variability in nilotinib pharmacokinetics was moderate to high.
+
 Linearity/non-linearity
 
 Steady-state nilotinib exposure was dose-dependent, with less than dose-proportional increases in systemic exposure at dose levels higher than 400 mg given as once-daily dosing.
@@ -37,7 +38,6 @@ Daily systemic exposure to nilotinib with 400 mg twice-daily dosing at steady st
 Systemic exposure (AUC) of nilotinib at steady state at a dose level of 400 mg twice daily was approximately 13.4% higher than at a dose level of 300 mg twice daily.
 The average nilotinib trough and peak concentrations over 12 months were approximately 15.7% and 14.8% higher following 400 mg twice-daily dosing compared to 300 mg twice daily.
 There was no relevant increase in exposure to nilotinib when the dose was increased from 400 mg twice daily to 600 mg twice daily.
-
 Steady-state conditions were essentially achieved by day 8.
 An increase in serum exposure to nilotinib between the first dose and steady state was approximately 2-fold for daily dosing and 3.8-fold for twice-daily dosing.
 

@@ -59,9 +59,9 @@ Monitoring of BCR-ABL transcript levels must be performed with a quantitative di
 Patients with confirmed loss of MR4 (MR4= BCR-ABL/ABL ≤0.01%IS) during the treatment-free phase (two consecutive measures separated by at least 4 weeks showing loss of MR4) or loss of major molecular response (MMR=BCR-ABL/ABL ≤0.1%IS) must re-initiate treatment within 4 weeks of when loss of remission is known to have occurred.
 Nilotinib therapy should be re-initiated at either 300 mg or 400 mg twice daily.
 Patients who re-initiate nilotinib therapy should have their BCR-ABL transcript levels monitored monthly until previous major molecular response or MR4 level is re-established and every 12 weeks thereafter (see section 4.4).
+
 Dose adjustments or modifications
 Tasigna may need to be temporarily withheld and/or dose reduced for haematological toxicities (neutropenia, thrombocytopenia) that are not related to the underlying leukaemia (see Table 2).
-
 Table 2 Dose adjustments for neutropenia and thrombocytopenia
 
 | Adult patients with newly diagnosed chronic phase CML at 300 mg twice daily and imatinib-resistant or intolerant CML in chronic phase at 400 mg twice daily | ANC* <1.0 x 109/l and/or platelet counts <50 x 109/l | 1. Treatment with nilotinib must be interrupted and blood count monitored. 2. Treatment must be resumed within 2 weeks at prior dose if ANC >1.0 x 109/l and/or platelets >50 x 109/l. 3. If blood counts remain low, a dose reduction to 400 mg once daily may be required. |
@@ -116,12 +116,12 @@ Paediatric population
 The safety and efficacy of Tasigna in paediatric patients with Philadelphia chromosome positive CML in chronic phase from 2 to less than 18 years of age have been established (see sections 4.8, 5.1 and 5.2).
 There is no experience in paediatric patients below 2 years of age or in paediatric patients with Philadelphia chromosome positive CML in accelerated phase or blast crisis.
 There are no data in newly diagnosed paediatric patients below 10 years of age and limited data in imatinib-resistant or intolerant paediatric patients below 6 years of age.
+
 Method of administration
 
 Tasigna should be taken twice daily approximately 12 hours apart and must not be taken with food.
 The hard capsules should be swallowed whole with water.
 No food should be consumed for 2 hours before the dose is taken and no food should be consumed for at least one hour after the dose is taken.
-
 For patients who are unable to swallow hard capsules, the content of each hard capsule may be dispersed in one teaspoon of apple sauce (puréed apple) and should be taken immediately.
 Not more than one teaspoon of apple sauce and no food other than apple sauce must be used (see sections 4.4 and 5.2).
 

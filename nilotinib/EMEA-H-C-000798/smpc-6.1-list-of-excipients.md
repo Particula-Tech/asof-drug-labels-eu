@@ -8,7 +8,6 @@ Crospovidone Type A
 Poloxamer 188
 Colloidal anhydrous silica
 Magnesium stearate
-
 Capsule shell
 Gelatin
 Titanium dioxide (E171)

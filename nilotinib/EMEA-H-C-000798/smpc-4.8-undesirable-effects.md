@@ -11,6 +11,7 @@ The median duration of exposure was 60.5 months (range 0.1-70.8 months).
 The most frequent (≥10%) non-haematological adverse reactions were rash, pruritus, headache, nausea, fatigue, alopecia, myalgia and upper abdominal pain.
 Most of these adverse reactions were mild to moderate in severity.
 Constipation, dry skin, asthenia, muscle spasms, diarrhoea, arthralgia, abdominal pain, vomiting and peripheral oedema were observed less commonly (<10% and ≥5%) were of mild to moderate severity, manageable and generally did not require dose reduction.
+
 Treatment-emergent haematological toxicities include myelosuppression: thrombocytopenia (18%), neutropenia (15%) and anaemia (8%).
 Biochemical adverse drug reactions include alanine aminotransferase increased (24%), hyperbilirubinaemia (16%), aspartate aminotransferase increased (12%), lipase increased (11%), blood bilirubin increased (10%), hyperglycaemia (4%), hypercholesterolaemia (3%) and hypertriglyceridaemia (<1%).
 Pleural and pericardial effusions, regardless of causality, occurred in 2% and <1% of patients, respectively, receiving nilotinib 300 mg twice daily.
@@ -24,7 +25,6 @@ No decrease from baseline in mean left ventricular ejection fraction (LVEF) was 
 No patient had a LVEF of <45% during treatment nor an absolute reduction in LVEF of more than 15%.
 
 Discontinuation due to adverse drug reactions was observed in 10% of patients.
-
 In adult patients with imatinib-resistant or intolerant CML in chronic phase and accelerated phase
 The data described below reflect exposure to nilotinib in 458 adult patients in an open-label multicentre Phase II study in patients with imatinib-resistant or intolerant CML in chronic phase (n=321) and accelerated phase (n=137) treated at the recommended dose of 400 mg twice daily.
 
@@ -45,6 +45,7 @@ Tabulated list of adverse reactions
 
 The adverse reactions are ranked under heading of frequency using the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000) and not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
 Most frequently reported adverse reactions in Tasigna clinical studies
 Non-haematological adverse reactions (excluding laboratory abnormalities) that are reported in at least 5% of the adult patients in Tasigna clinical studies that serve as the basis for the approved indications are shown in Table 3.
 
@@ -90,7 +91,6 @@ However, percentages with one decimal precision are used to identify terms with 
 The following adverse reactions were reported in adult patients in the Tasigna clinical studies which serve as a basis for the approved indications at a frequency of less than 5%.
 For laboratory abnormalities, very common adverse reactions not included in Table 3 are also reported.
 These adverse reactions are included based on clinical relevance.
-
 Infections and infestations
 Common: folliculitis, upper respiratory tract infection (including pharyngitis, nasopharyngitis, rhinitis).
 Uncommon: pneumonia, urinary tract infection, gastroenteritis, bronchitis, herpes virus infection, candidiasis (including oral candidiasis).
@@ -116,6 +116,7 @@ Very common: hypophosphataemia (including blood phosphorus decreased).
 Common: electrolyte imbalance (including hypomagnesaemia, hyperkalaemia, hypokalaemia, hyponatraemia, hypocalcaemia, hypercalcaemia, hyperphosphataemia), diabetes mellitus, hyperglycaemia, hypercholesterolaemia, hyperlipidaemia, hypertriglyceridaemia.
 Uncommon: dehydration, increased appetite, gout, dyslipidaemia.
 Not known: hyperuricaemia, hypoglycaemia.
+
 Psychiatric disorders
 Common: depression, insomnia, anxiety.
 Not known: disorientation, confusional state, amnesia, dysphoria.
@@ -133,7 +134,6 @@ Not known: papilloedema, chorioretinopathy, diplopia, photophobia, eye swelling,
 Ear and labyrinth disorders
 Common: vertigo.
 Not known: hearing impaired, ear pain, tinnitus.
-
 Cardiac disorders
 Common: angina pectoris, arrhythmia (including atroventricular block, cardiac flutter, extrasystoles, tachycardia, atrial fibrillation, bradycardia), palpitations, electrocardiogram QT prolonged.
 Uncommon: cardiac failure, myocardial infarction, coronary artery disease, cardiac murmur, pericardial effusion, cyanosis.
@@ -153,6 +153,7 @@ Gastrointestinal disorders
 Common: pancreatitis, abdominal discomfort, abdominal distension, dysgeusia, flatulence.
 Uncommon: gastrointestinal haemorrhage, melaena, mouth ulceration, gastroesophageal reflux, stomatitis, oesophageal pain, dry mouth, gastritis, sensitivity of teeth.
 Not known: gastrointestinal ulcer perforation, retroperitoneal haemorrhage, haematemesis, gastric ulcer, oesophagitis ulcerative, subileus, enterocolitis, haemorrhoids, hiatus hernia, rectal haemorrhage, gingivitis.
+
 Hepatobiliary disorders
 Very common: hyperbilirubinaemia (including blood bilirubin increased).
 Common: hepatic function abnormal.
@@ -177,7 +178,6 @@ Not known: renal failure, haematuria, urinary incontinence, chromaturia.
 Reproductive system and breast disorders
 Uncommon: breast pain, gynaecomastia, erectile dysfunction.
 Not known: breast induration, menorrhagia, nipple swelling.
-
 General disorders and administration site conditions
 Common: chest pain (including non-cardiac chest pain), pain, pyrexia, chest discomfort, malaise.
 Uncommon: face oedema, gravitational oedema, influenza-like illness, chills, feeling body temperature change (including feeling hot, feeling cold).
@@ -188,6 +188,7 @@ Very common: alanine aminotransferase increased, aspartate aminotransferase incr
 Common: haemoglobin decreased, blood amylase increased, blood alkaline phosphatase increased, gamma-glutamyltransferase increased, blood creatinine phosphokinase increased, weight decreased, weight increased, blood insulin increased, globulins decreased.
 Uncommon: blood lactate dehydrogenase increased, blood glucose decreased, blood urea increased.
 Not known: troponin increased, blood bilirubin unconjugated increased, blood insulin decreased, insulin C-peptide decreased, blood parathyroid hormone increased.
+
 Clinically relevant or severe abnormalities of routine haematological or biochemistry laboratory values in adult patients are presented in Table 4.
 
 Table 4 Grade 3-4 laboratory abnormalities*
@@ -216,7 +217,6 @@ Table 4 Grade 3-4 laboratory abnormalities*
 Treatment discontinuation in Ph+ CML patients in chronic phase who have achieved a sustained deep molecular response
 
 After discontinuation of nilotinib therapy within the framework of attempting TFR, patients may experience musculoskeletal symptoms more frequently than before treatment discontinuation, e.g., myalgia, pain in extremity, arthralgia, bone pain, spinal pain or musculoskeletal pain.
-
 In a Phase II clinical study with newly diagnosed patients with Ph+ CML in chronic phase (N=190), musculoskeletal symptoms were reported within a year of Tasigna discontinuation in 24.7% versus 16.3% within the previous year on nilotinib treatment.
 
 In a Phase II clinical study with patients with Ph+ CML in chronic phase on nilotinib treatment and previously treated with imatinib (N=126), musculoskeletal symptoms were reported within a year of discontinuation in 42.1% versus 14.3% within the previous year on nilotinib treatment.
@@ -225,6 +225,7 @@ Description of selected adverse reactions
 
 Sudden death
 Uncommon cases (0.1 to 1%) of sudden deaths have been reported in Tasigna clinical trials and/or compassionate use programs in patients with imatinib-resistant or intolerant CML in chronic phase or accelerated phase with a past medical history of cardiac disease or significant cardiac risk factors (see section 4.4).
+
 Hepatitis B reactivation
 Hepatitis B reactivation has been reported in association with BCR-ABL TKIs.
 Some cases resulted in acute hepatic failure or fulminant hepatitis leading to liver transplantation or a fatal outcome (see section 4.4).
@@ -318,6 +319,7 @@ Not known: ejection fraction decrease, pericardial effusion, pericarditis, diast
 Common: hypertension, flushing.
 Uncommon: intermittent claudication, peripheral arterial occlusive disease, arteriosclerosis.
 Not known: haematoma, peripheral artery stenosis.
+
 Common: dyspnoea, cough.
 Uncommon: pleural effusion.
 Not known: dyspnoea exertional, pleurisy, epistaxis, oropharyngeal pain.
@@ -325,7 +327,6 @@ Not known: dyspnoea exertional, pleurisy, epistaxis, oropharyngeal pain.
 Common: abdominal distension, abdominal discomfort, dysgeusia, flatulence.
 Uncommon: pancreatitis, gastritis, sensitivity of teeth.
 Not known: oesophageal ulcer, gastric ulcer, oesophageal pain, stomatitis, dry mouth, enterocolitis, haemorrhoids, hiatus hernia, rectal haemorrhage, gingivitis.
-
 Uncommon: jaundice.
 Not known: toxic hepatitis.
 
