@@ -5,17 +5,17 @@ Cosentyx is intended for use under the guidance and supervision of a physician e
 Posology
 
 Plaque psoriasis
-The recommended dose is 300 mg of secukinumab by subcutaneous injection with initial dosing at Weeks 0, 1, 2 and 3, followed by monthly maintenance dosing starting at Week 4.
+The recommended dose is 300 mg of secukinumab by subcutaneous injection with initial dosing at Weeks 0, 1, 2, 3 and 4, followed by monthly maintenance dosing.
 Each 300 mg dose is given as two subcutaneous injections of 150 mg.
 
 Psoriatic arthritis
-For patients with concomitant moderate to severe plaque psoriasis or who are anti-TNFα inadequate responders (IR), the recommended dose is 300 mg by subcutaneous injection with initial dosing at Weeks 0, 1, 2 and 3, followed by monthly maintenance dosing starting at Week 4.
+For patients with concomitant moderate to severe plaque psoriasis or who are anti-TNFα inadequate responders (IR), the recommended dose is 300 mg by subcutaneous injection with initial dosing at Weeks 0, 1, 2, 3 and 4, followed by monthly maintenance dosing.
 Each 300 mg dose is given as two subcutaneous injections of 150 mg.
 
-For other patients, the recommended dose is 150 mg by subcutaneous injection with initial dosing at Weeks 0, 1, 2 and 3, followed by monthly maintenance dosing starting at Week 4.
+For other patients, the recommended dose is 150 mg by subcutaneous injection with initial dosing at Weeks 0, 1, 2, 3 and 4, followed by monthly maintenance dosing.
 
 Ankylosing spondylitis
-The recommended dose is 150 mg by subcutaneous injection with initial dosing at Weeks 0, 1, 2 and 3, followed by monthly maintenance dosing starting at Week 4.
+The recommended dose is 150 mg by subcutaneous injection with initial dosing at Weeks 0, 1, 2, 3 and 4, followed by monthly maintenance dosing.
 
 For all of the above indications, available data suggest that a clinical response is usually achieved within 16 weeks of treatment.
 Consideration should be given to discontinuing treatment in patients who have shown no response by 16 weeks of treatment.

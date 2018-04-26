@@ -34,7 +34,6 @@ Live vaccines should not be given concurrently with Cosentyx.
 Patients receiving Cosentyx may receive concurrent inactivated or non-live vaccinations.
 In a study, after meningococcal and inactivated influenza vaccinations, a similar proportion of healthy volunteers treated with 150 mg of secukinumab and those treated with placebo were able to mount an adequate immune response of at least a 4-fold increase in antibody titres to meningococcal and influenza vaccines.
 The data suggest that Cosentyx does not suppress the humoral immune response to the meningococcal or influenza vaccines.
-
 Concomitant immunosuppressive therapy
 
 In psoriasis studies, the safety and efficacy of Cosentyx in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated (see also section 4.5).

@@ -11,11 +11,11 @@ After initial weekly dosing during the first month, time to reach the maximum co
 
 On the basis of simulated data, peak concentrations at steady-state (Cmax,ss) following subcutaneous administration of 150 mg or 300 mg were 27.6 µg/ml and 55.2 µg/ml, respectively.
 Population pharmacokinetic analysis suggests that steady-state is reached after 20 weeks with monthly dosing regimens.
-
 Compared with exposure after a single dose, the population pharmacokinetic analysis showed that patients exhibited a 2-fold increase in peak serum concentrations and area under the curve (AUC) following repeated monthly dosing during maintenance.
 
 Population pharmacokinetic analysis showed that secukinumab was absorbed with an average absolute bioavailability of 73% in patients with plaque psoriasis.
 Across studies, absolute bioavailabilities in the range between 60 and 77% were calculated.
+
 Distribution
 The mean volume of distribution during the terminal phase (Vz) following single intravenous administration ranged from 7.10 to 8.60 litres in plaque psoriasis patients, suggesting that secukinumab undergoes limited distribution to peripheral compartments.
 
@@ -51,12 +51,12 @@ Of the 3,430 plaque psoriasis patients exposed to Cosentyx in clinical studies, 
 Of the 974 psoriatic arthritis patients exposed to Cosentyx in clinical studies, a total of 85 patients were 65 years of age or older and 4 patients were 75 years of age or older.
 
 Of the 571 ankylosing spondylitis patients exposed to Cosentyx in clinical studies, a total of 24 patients were 65 years of age or older and 3 patients were 75 years of age or older.
-
 Based on population pharmacokinetic analysis with a limited number of elderly patients (n=71 for age ≥65 years and n=7 for age ≥75 years), clearance in elderly patients and patients less than 65 years of age was similar.
 
 Patients with renal or hepatic impairment
 No pharmacokinetic data are available in patients with renal or hepatic impairment.
 The renal elimination of intact Cosentyx, an IgG monoclonal antibody, is expected to be low and of minor importance.
 IgGs are mainly eliminated via catabolism and hepatic impairment is not expected to influence clearance of Cosentyx.
+
 Effect of weight on pharmacokinetics
 Secukinumab clearance and volume of distribution increase as body weight increases.

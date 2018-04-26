@@ -33,17 +33,19 @@ Of the 2,403 patients who were included in the placebo-controlled studies, 79% w
 Approximately 15 to 25% of patients in phase III studies had psoriatic arthritis (PsA) at baseline.
 
 Psoriasis Study 1 (ERASURE) evaluated 738 patients.
-Patients randomised to Cosentyx received 150 mg or 300 mg doses at Weeks 0, 1, 2, and 3, followed by the same dose every month starting at Week 4.
+Patients randomised to Cosentyx received 150 mg or 300 mg doses at Weeks 0, 1, 2, 3 and 4, followed by the same dose every month.
 Psoriasis Study 2 (FIXTURE) evaluated 1,306 patients.
-Patients randomised to Cosentyx received 150 mg or 300 mg doses at Weeks 0, 1, 2, and 3, followed by the same dose every month starting at Week 4.
+Patients randomised to Cosentyx received 150 mg or 300 mg doses at Weeks 0, 1, 2, 3 and 4, followed by the same dose every month.
 Patients randomised to etanercept received 50 mg doses twice per week for 12 weeks followed by 50 mg every week.
-In both Study 1 and Study 2, patients randomised to receive placebo who were non-responders at Week 12 then crossed over to receive Cosentyx (either 150 mg or 300 mg) at Weeks 12, 13, 14, and 15, followed by the same dose every month starting at Week 16.
+In both Study 1 and Study 2, patients randomised to receive placebo who were non-responders at
+Week 12 then crossed over to receive Cosentyx (either 150 mg or 300 mg) at Weeks 12, 13, 14, and 15, followed by the same dose every month starting at Week 16.
 All patients were followed for up to 52 weeks following first administration of study treatment.
 
 Psoriasis Study 3 (FEATURE) evaluated 177 patients using a pre-filled syringe compared with placebo after 12 weeks of treatment to assess the safety, tolerability, and usability of Cosentyx self-administration via the pre-filled syringe.
 Psoriasis Study 4 (JUNCTURE) evaluated 182 patients using a pre-filled pen compared with placebo after 12 weeks of treatment to assess the safety, tolerability, and usability of Cosentyx self-administration via the pre-filled pen.
-In both Study 3 and Study 4, patients randomised to Cosentyx received 150 mg or 300 mg doses at Weeks 0, 1, 2, and 3, followed by the same dose every month starting at Week 4.
-Patients were also randomised to receive placebo at Weeks 0, 1, 2, and 3, followed by the same dose every month starting at Week 4.
+In both Study 3 and Study 4, patients randomised to Cosentyx received 150 mg or 300 mg doses at Weeks 0, 1, 2, 3 and 4, followed by the same dose every month.
+Patients were also randomised to receive placebo at Weeks 0, 1, 2, 3 and 4, followed by the same dose every month.
+
 Psoriasis Study 5 (SCULPTURE) evaluated 966 patients.
 All patients received Cosentyx 150 mg or 300 mg doses at Weeks 0, 1, 2, 3, 4, 8 and 12 and then were randomised to receive either a maintenance regimen of the same dose every month starting at Week 12 or a “retreatment as needed” regimen of the same dose.
 Patients randomised to “retreatment as needed” did not achieve adequate maintenance of response and therefore a fixed monthly maintenance regimen is recommended.
@@ -162,32 +164,35 @@ clear” response n (%)
 ** p values versus etanercept: p=0.0250
 
 In an additional psoriasis study (CLEAR) 676 patients were evaluated.
-Secukinumab 300 mg met the primary and secondary endpoints by showing superiority to ustekinumab based on PASI 90 response at Week 16 and speed of onset of PASI 75 response at Week 4.
-Greater efficacy for secukinumab compared to ustekinumab for the endpoints PASI 75/90/100 and IGA mod 2011 0 or 1 response (“clear” or “almost clear”) was observed early and continued through to Week 16.
+Secukinumab 300 mg met the primary and secondary endpoints by showing superiority to ustekinumab based on PASI 90 response at Week 16 (primary endpoint), speed of onset of PASI 75 response at Week 4, and long-term PASI 90 response at Week 52.
+Greater efficacy of secukinumab compared to ustekinumab for the endpoints PASI 75/90/100 and IGA mod 2011 0 or 1 response (“clear” or “almost clear”) was observed early and continued through to Week 52.
 
 Table 4 Summary of clinical response on CLEAR Study
 
-Week 4 Week 16
+Week 4 Week 16 Week 52
 
-Secukinumab Ustekinumab* Secukinumab Ustekinumab*
+Secukinumab Ustekinumab* Secukinumab Ustekinumab* Secukinumab Ustekinumab*
 
-300 mg 300 mg
-Number of patients 334 335 334 335
+300 mg 300 mg 300 mg
+Number of 334 335 334 335 334 335
 
-PASI 75 response 167 (50.0%)** 69 (20.6%) 311 (93.1%) 277 (82.7%) n (%)
+patients
 
-PASI 90 response 70 (21.0%) 18 (5.4%) 264 (79.0%)** 193 (57.6%)
+PASI 75 166 (49.7%)** 69 (20.6%) 311 (93.1%) 276 (82.4%) 306 (91.6%) 262 (78.2%)
 
-n (%)
+response n (%)
 
-PASI 100 response 14 (4.2%) 3 (0.9%) 148 (44.3%) 95 (28.4%)
+PASI 90 70 (21.0%) 18 (5.4%) 264 (79.0%)** 192 (57.3%) 250 203 (60.6%)
+response n (%) (74.9%)***
+PASI 100 14 (4.2%) 3 (0.9%) 148 (44.3%) 95 (28.4%) 150 (44.9%) 123 (36.7%)
 
-n (%)
-IGA mod 2011 “clear” 126 (37.7%) 41 (12.2%) 277 (82.9%) 226 (67.5%) or “almost clear” response n (%)
-* Patients treated with secukinumab received 300 mg doses at Weeks 0, 1, 2 and 3, followed by the same dose at Weeks 4, 8 and 12.
-Patients treated with ustekinumab received 45 mg or 90 mg at
-Weeks 0 and 4 (dosed by weight as per approved posology)
-** p values versus ustekinumab: p<0.0001
+response n (%)
+IGA mod 2011 128 (38.3%) 41 (12.2%) 278 (83.2%) 226 (67.5%) 261 (78.1%) 213 (63.6%) “clear” or
+“almost clear” response n (%)
+* Patients treated with secukinumab received 300 mg doses at Weeks 0, 1, 2, 3 and 4, followed by the same dose every 4 weeks until Week 52.
+Patients treated with ustekinumab received 45 mg or 90 mg at Weeks 0 and 4, then every 12 weeks until Week 52 (dosed by weight as per approved posology)
+** p values versus ustekinumab: p<0.0001 for primary endpoint of PASI 90 at Week 16 and secondary endpoint of PASI 75 at Week 4
+*** p values versus ustekinumab: p=0.0001 for secondary endpoint of PASI 90 at Week 52
 Cosentyx was efficacious in systemic treatment-naive, biologic-naive, biologic/anti-TNF-exposed and biologic/anti-TNF-failure patients.
 Improvements in PASI 75 in patients with concurrent psoriatic arthritis at baseline were similar to those in the overall plaque psoriasis population.
 
@@ -206,13 +211,23 @@ In two additional placebo-controlled studies, improvement was seen in both nail 
 In the TRANSFIGURE Study, secukinumab was superior to placebo at Week 16 (46.1% for 300 mg, 38.4% for 150 mg and 11.7% for placebo) as assessed by significant improvement from baseline in the Nail Psoriasis Severity Index (NAPSI %) for patients with moderate to severe plaque psoriasis with nail involvement.
 In the GESTURE Study, secukinumab was superior to placebo at Week 16 (33.3% for 300 mg, 22.1% for 150 mg, and 1.5% for placebo) as assessed by significant improvement of ppIGA 0 or 1 response (“clear” or “almost clear”) for patients with moderate to severe palmoplantar plaque psoriasis.
 
+A placebo-controlled study evaluated 102 patients with moderate to severe scalp psoriasis, defined as having a Psoriasis Scalp Severity Index (PSSI) score of ≥12, an IGA mod 2011 scalp only score of 3 or greater and at least 30% of the scalp surface area affected.
+Secukinumab 300 mg was superior to placebo at Week 12 as assessed by significant improvement from baseline in both the PSSI 90 response (52.9% versus 2.0%) and IGA mod 2011 0 or 1 scalp only response (56.9% versus 5.9%).
+Improvement in both endpoints was sustained for secukinumab patients who continued treatment through to Week 24.
+
 Quality of life/patient-reported outcomes
 Statistically significant improvements at Week 12 (Studies 1-4) from baseline compared to placebo were demonstrated in the DLQI (Dermatology Life Quality Index).
 Mean decreases (improvements) in DLQI from baseline ranged from -10.4 to -11.6 with secukinumab 300 mg, from -7.7 to -10.1 with secukinumab 150 mg, versus -1.1 to -1.9 for placebo at Week 12.
 These improvements were maintained for 52 weeks (Studies 1 and 2).
-
 Forty percent of the participants in Studies 1 and 2 completed the Psoriasis Symptom Diary©.
 For the participants completing the diary in each of these studies, statistically significant improvements at Week 12 from baseline compared to placebo in patient-reported signs and symptoms of itching, pain and scaling were demonstrated.
+
+Statistically significant improvements at Week 4 from baseline in patients treated with secukinumab compared to patients treated with ustekinumab (CLEAR) were demonstrated in the DLQI and these improvements were maintained for up to 52 weeks.
+
+Statistically significant improvements in patient-reported signs and symptoms of itching, pain and scaling at Week 16 and Week 52 (CLEAR) were demonstrated in the Psoriasis Symptom Diary© in patients treated with secukinumab compared to patients treated with ustekinumab.
+
+Statistically significant improvements (decreases) at Week 12 from baseline in the scalp psoriasis study were demonstrated in patient reported signs and symptoms of scalp itching, pain and scaling compared to placebo.
+
 Psoriatic arthritis
 The safety and efficacy of Cosentyx were assessed in 1,003 patients in two randomised, double-blind, placebo-controlled phase III studies in patients with active psoriatic arthritis (≥3 swollen and ≥3 tender joints) despite non-steroidal anti-inflammatory drug (NSAID), corticosteroid or disease-modifying anti-rheumatic drug (DMARD) therapy.
 Patients with each subtype of PsA were enrolled in these studies, including polyarticular arthritis with no evidence of rheumatoid nodules, spondylitis with peripheral arthritis, asymmetric peripheral arthritis, distal interphalangeal involvement and arthritis mutilans.
@@ -229,7 +244,7 @@ Patients randomised to Cosentyx received 10 mg/kg intravenously at Weeks 0, 2, a
 Patients randomised to placebo who were non-responders at Week 16 (early rescue) and other placebo patients at Week 24 were crossed over to receive Cosentyx (either 75 mg or 150 mg subcutaneously) followed by the same dose every month.
 
 PsA Study 2 (FUTURE 2) evaluated 397 patients, of whom 46.6% had concomitant MTX.
-Patients randomised to Cosentyx received 75 mg, 150 mg or 300 mg subcutaneously at Weeks 0, 1, 2, and 3, followed by the same dose every month starting at Week 4.
+Patients randomised to Cosentyx received 75 mg, 150 mg or 300 mg subcutaneously at Weeks 0, 1, 2, 3 and 4, followed by the same dose every month.
 Patients randomised to receive placebo who were non-responders at Week 16 (early rescue) were crossed over to receive Cosentyx (either 150 mg or 300 mg subcutaneously) at Week 16 followed by the same dose every month.
 Patients randomised to receive placebo who were responders at Week 16 were crossed over to receive Cosentyx (either 150 mg or 300 mg subcutaneously) at Week 24 followed by the same dose every month.
 Signs and symptoms
@@ -298,7 +313,7 @@ Improvements in the PASI 75 response were seen in both subgroups and the 300 mg 
 The number of PsA patients with axial involvement was too small to allow meaningful assessment.
 
 Improvements were shown in all components of the ACR scores, including patient assessment of pain.
-The proportion of patients achieving a modified PsA Response Criteria (PsARC) response was greater in the Cosentyx-treated patients (38.4%, 62.0% and 63.0% for 75 mg, 150 mg and 300 mg, respectively) compared to placebo (29.6%) at Week 24.
+The proportion of patients achieving a modified PsA Response Criteria (PsARC) response was greater in the Cosentyx-treated patients (37.4%, 59.0% and 61.0% for 75 mg, 150 mg and 300 mg, respectively) compared to placebo (26.5%) at Week 24.
 
 In PsA Study 1 and PsA Study 2, efficacy was maintained up to Week 52.
 In PsA Study 2, among 200 patients initially randomised to Cosentyx 150 mg and 300 mg, 178 (89%) patients were still on treatment at Week 52.
@@ -342,14 +357,14 @@ Ankylosing spondylitis
 The safety and efficacy of Cosentyx were assessed in 590 patients in two randomised, double-blind, placebo-controlled phase III studies in patients with active ankylosing spondylitis (AS) with a Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) ≥4 despite non-steroidal anti-inflammatory drug (NSAID), corticosteroid or disease-modifying anti-rheumatic drug (DMARD) therapy.
 Patients in these studies had a diagnosis of AS for a median of 2.7 to 5.8 years.
 For both studies, the primary endpoint was at least a 20% improvement in Assessment of Spondyloarthritis International Society (ASAS 20) criteria at Week 16.
-
 In Ankylosing Spondylitis Study 1 (AS Study 1) and Ankylosing Spondylitis Study 2 (AS Study 2) 27.0% and 38.8% of patients, respectively, were previously treated with an anti-TNFα agent and discontinued the anti-TNFα agent for either lack of efficacy or intolerance (anti-TNFα-IR patients).
+
 AS Study 1 (MEASURE 1) evaluated 371 patients, of whom 14.8% and 33.4% used concomitant MTX or sulfasalazine, respectively.
 Patients randomised to Cosentyx received 10 mg/kg intravenously at Weeks 0, 2, and 4, followed by either 75 mg or 150 mg subcutaneously every month starting at Week 8.
 Patients randomised to placebo who were non-responders at Week 16 (early rescue) and all other placebo patients at Week 24 were crossed over to receive Cosentyx (either 75 mg or 150 mg subcutaneously), followed by the same dose every month.
 
 AS Study 2 (MEASURE 2) evaluated 219 patients, of whom 11.9% and 14.2% used concomitant MTX or sulfasalazine, respectively.
-Patients randomised to Cosentyx received 75 mg or 150 mg subcutaneously at Weeks 0, 1, 2, and 3, followed by the same dose every month starting at Week 4.
+Patients randomised to Cosentyx received 75 mg or 150 mg subcutaneously at Weeks 0, 1, 2, 3 and 4, followed by the same dose every month.
 At Week 16, patients who were randomised to placebo at baseline were re-randomised to receive Cosentyx (either 75 mg or 150 mg subcutaneously) every month.
 
 Signs and symptoms
@@ -371,11 +386,11 @@ Table 7 Clinical response in AS Study 2 at Week 16
 The onset of action of Cosentyx 150 mg occurred as early as Week 1 for ASAS 20 and Week 2 for ASAS 40 (superior to placebo) in AS Study 2.
 
 ASAS 20 responses were improved at Week 16 in both anti-TNFα-naïve patients (68.2% versus 31.1%; p<0.05) and anti-TNFα-IR patients (50.0% versus 24.1%; p<0.05) for Cosentyx 150 mg compared with placebo, respectively.
-
 In both AS studies, Cosentyx-treated patients (150 mg in AS Study 2 and both regimens in AS
 Study 1) demonstrated significantly improved signs and symptoms at Week 16, with comparable magnitude of response and efficacy maintained up to Week 52 in both anti-TNFα-naive and anti-TNFα-IR patients.
 In AS Study 2, among 72 patients initially randomised to Cosentyx 150 mg, 61 (84.7%) patients were still on treatment at Week 52.
 Of the 72 patients randomised to Cosentyx 150 mg, 45 and 35 had an ASAS 20/40 response, respectively.
+
 Spinal mobility
 Patients treated with Cosentyx 150 mg showed improvements in spinal mobility as measured by change from baseline in BASMI at Week 16 for both AS Study 1 (-0.40 versus -0.12 for placebo; p=0.0114) and AS Study 2 (-0.51 versus -0.22 for placebo; p=0.0533).
 These improvements were sustained up to Week 52.
@@ -390,3 +405,11 @@ Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with Cosentyx in plaque psoriasis in paediatric patients aged from birth to less than 6 years and in chronic idiopathic arthritis for paediatric patients aged from birth to less than 2 years (see section 4.2 for information on paediatric use).
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Cosentyx in plaque psoriasis in paediatric patients aged from 6 years to less than 18 years and in chronic idiopathic arthritis for paediatric patients aged from 2 years to less than 18 years (see section 4.2 for information on paediatric use).
+
+[Cosentyx 150 mg solution for injection in pre-filled syringe]
+
+* Patients treated with secukinumab received 300 mg doses at Weeks 0, 1, 2 3 and 4, followed by the same dose every 4 weeks until Week 52.
+
+[Cosentyx 150 mg solution for injection in pre-filled pen]
+
+(all sentences already above)
