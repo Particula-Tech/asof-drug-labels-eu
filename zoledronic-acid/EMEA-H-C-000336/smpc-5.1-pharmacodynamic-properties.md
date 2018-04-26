@@ -7,6 +7,7 @@ It is an inhibitor of osteoclastic bone resorption.
 
 The selective action of bisphosphonates on bone is based on their high affinity for mineralised bone, but the precise molecular mechanism leading to the inhibition of osteoclastic activity is still unclear.
 In long-term animal studies, zoledronic acid inhibits bone resorption without adversely affecting the formation, mineralisation or mechanical properties of bone.
+
 In addition to being a potent inhibitor of bone resorption, zoledronic acid also possesses several anti-tumour properties that could contribute to its overall efficacy in the treatment of metastatic bone disease.
 The following properties have been demonstrated in preclinical studies:
 

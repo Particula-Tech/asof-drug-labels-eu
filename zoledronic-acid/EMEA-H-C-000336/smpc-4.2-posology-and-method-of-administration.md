@@ -75,7 +75,6 @@ Patients must be maintained well hydrated prior to and following administration 
 [Zometa 4 mg/5 ml concentrate for solution for infusion]
 
 Currently available data are described in section and 5.1 but no recommendation on a posology can be made.
-
 Zometa 4 mg concentrate for solution for infusion, further diluted in 100 ml (see section 6.6), should be given as a single intravenous infusion in no less than 15 minutes.
 
 Withdraw an appropriate volume of the concentrate needed, as follows:

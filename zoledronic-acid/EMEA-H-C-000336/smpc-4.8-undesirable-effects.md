@@ -124,12 +124,12 @@ Osteonecrosis of the jaw
 Cases of osteonecrosis of the jaw have been reported, predominantly in cancer patients treated with medicinal products that inhibit bone resorption, such as Zometa (see section 4.4).
 Many of these patients were also receiving chemotherapy and corticosteroids and had signs of local infection including osteomyelitis.
 The majority of the reports refer to cancer patients following tooth extractions or other dental surgeries.
-
 Atrial fibrillation
 In one 3-year, randomised, double-blind controlled trial that evaluated the efficacy and safety of zoledronic acid 5 mg once yearly vs. placebo in the treatment of postmenopausal osteoporosis (PMO), the overall incidence of atrial fibrillation was 2.5% (96 out of 3,862) and 1.9% (75 out of 3,852) in patients receiving zoledronic acid 5 mg and placebo, respectively.
 The rate of atrial fibrillation serious adverse events was 1.3% (51 out of 3,862) and 0.6% (22 out of 3,852) in patients receiving zoledronic acid 5 mg and placebo, respectively.
 The imbalance observed in this trial has not been observed in other trials with zoledronic acid, including those with Zometa (zoledronic acid) 4 mg every 3-4 weeks in oncology patients.
 The mechanism behind the increased incidence of atrial fibrillation in this single clinical trial is unknown.
+
 Acute phase reaction
 This adverse drug reaction consists of a constellation of symptoms that includes fever, myalgia, headache, extremity pain, nausea, vomiting, diarrhoea, arthralgia and arthritis with subsequent joint swelling.
 The onset time is ≤ 3 days post-Zometa infusion, and the reaction is also referred to using the terms “flu-like” or “post-dose” symptoms.
@@ -154,6 +154,7 @@ This adverse drug reaction consists of a constellation of symptoms that includes
 [Zometa 4 mg/100 ml solution for infusion]
 
 The frequencies for each of these identified risks are shown in Table 2.
+
 The following adverse reactions, listed in Table 2, have been accumulated from clinical studies and post-marketing reports following predominantly chronic treatment with 4 mg zoledronic acid:
 
 Table 2
