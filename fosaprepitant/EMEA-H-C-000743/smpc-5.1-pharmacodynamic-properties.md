@@ -7,6 +7,7 @@ The contribution of fosaprepitant to the overall antiemetic effect has not fully
 Aprepitant is a selective high-affinity antagonist at human substance P neurokinin 1 (NK1) receptors.
 The pharmacological effect of fosaprepitant is attributed to aprepitant.
 
+1-Day Regimen of Fosaprepitant in Adults
 Highly Emetogenic Chemotherapy (HEC)
 In a randomized, parallel, double-blind, active-controlled study, IVEMEND 150 mg (N=1,147) was compared with a 3-day aprepitant regimen (N=1,175) in adult patients receiving a HEC regimen that included cisplatin (≥70 mg/m2).
 The fosaprepitant regimen consisted of fosaprepitant 150 mg on
@@ -19,7 +20,8 @@ See the product information for the selected 5-HT3 antagonist for appropriate do
 Efficacy was based on evaluation of the following composite measures: complete response in both the overall and delayed phases and no vomiting in the overall phase.
 IVEMEND 150 mg was shown to be non-inferior to that of the 3-day regimen of aprepitant.
 A summary of the primary and secondary endpoints is shown in Table 1.
-Table 1
+
+Table 3
 Percent of adult patients receiving Highly Emetogenic Chemotherapy responding by treatment group and phase — Cycle 1
 
 ENDPOINTS* Fosaprepitant Aprepitant Difference†
@@ -39,13 +41,12 @@ No vomiting
 Overall§ 72.9 74.6 -1.7 (-5.3, 2.0)
 
 *Primary endpoint is bolded.
-**N: Number of patients included in the primary analysis of complete response.
+**N: Number of adult patients included in the primary analysis of complete response.
 †Difference and confidence interval (CI) were calculated using the method proposed by
 Miettinen and Nurminen and adjusted for gender.
 ‡Complete response = no vomiting and no use of rescue therapy.
 §Overall = 0 to 120 hours post-initiation of cisplatin chemotherapy.
 §§Delayed phase = 25 to 120 hours post-initiation of cisplatin chemotherapy.
-
 Moderately Emetogenic Chemotherapy (MEC)
 In a randomized, parallel, double-blind, placebo-controlled study, IVEMEND 150 mg (N=502) in combination with ondansetron and dexamethasone was compared with ondansetron and dexamethasone alone (control regimen) (N=498) in adult patients receiving a moderately emetogenic chemotherapy regimen.
 The fosaprepitant regimen consisted of fosaprepitant 150 mg on Day 1 in combination with oral ondansetron 8 mg for 2 doses and oral dexamethasone 12 mg.
@@ -56,7 +57,7 @@ Fosaprepitant placebo and dexamethasone placebo (on Day 1) were used to maintain
 
 The efficacy of fosaprepitant was evaluated based on the primary and secondary endpoints listed in Table 2 and was shown to be superior to the control regimen with regard to complete response in the delayed and overall phases.
 
-Table 2
+Table 4
 Percent of adult patients receiving Moderately Emetogenic Chemotherapy responding by treatment group and phase
 
 ENDPOINTS* Fosaprepitant Control P-Value
@@ -83,7 +84,6 @@ Acute phase§§ 93.2 91 0.184
 §§Acute= 0 to 24 hours post-initiation of chemotherapy.
 
 The estimated time to first emesis is depicted by the Kaplan-Meier plot in Figure 1.
-
 Figure 1
 Percent of adult patients receiving Moderately Emetogenic Chemotherapy who remain emesis free over time
 
@@ -103,6 +103,13 @@ Control Regimen(N=498)
 Time(hours) Since the First MEC Administration
 
 Paediatric population
-The pharmacokinetics, safety and tolerability, and exploratory efficacy of intravenous fosaprepitant, administered concomitantly with ondansetron, with or without dexamethasone, were evaluated in a Phase I clinical study (N=34) in paediatric cancer patients receiving moderately or highly emetogenic chemotherapy.
-However, the efficacy and safety data from this small study do not support a conclusion on the optimal dosing regimen.
-Further studies evaluating the use of fosaprepitant in paediatric patients are on-going.
+In 3 active-controlled, open-label clinical studies, paediatric patients aged 6 months to 17 years received either highly or moderately emetogenic chemotherapy and a single dose of fosaprepitant at or above the recommended 1-day regimen dose (139 patients) or 3-day regimen (199 patients), in combination with ondansetron with or without dexamethasone.
+
+Paediatric Patients Receiving 1-Day Fosaprepitant Regimen
+The efficacy of the 1-day fosaprepitant regimen in paediatric patients was extrapolated from that demonstrated in adults receiving the 1-day fosaprepitant regimen as described in the 1-Day Regimen of Fosaprepitant in Adults subsection.
+The efficacy of a 1-day fosaprepitant regimen in paediatric patients is expected to be similar to that of the 1-day adult fosaprepitant regimen.
+
+Paediatric Patients Receiving 3-Day Fosaprepitant Regimen
+The efficacy of the 3-day fosaprepitant regimen in paediatric patients was based on that demonstrated in paediatric patients receiving the 3-day oral aprepitant regimen.
+The efficacy of a 3-day fosaprepitant regimen in paediatric patients is expected to be similar to that of the 3-day oral aprepitant regimen.
+See the summary of product characteristics for EMEND capsules and EMEND powder for oral suspension for complete clinical information regarding studies performed with oral aprepitant.
