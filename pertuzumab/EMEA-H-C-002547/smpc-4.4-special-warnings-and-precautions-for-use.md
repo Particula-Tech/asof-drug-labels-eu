@@ -3,7 +3,6 @@
 Traceability
 
 In order to improve the traceability of biological medicinal products, the name and batch number of the administered product should be clearly recorded.
-
 Left ventricular dysfunction (including congestive heart failure)
 
 Decreases in LVEF have been reported with medicinal products that block HER2 activity, including Perjeta.
@@ -26,6 +25,7 @@ Cardiac safety data from the BERENICE study, in which patients were treated sequ
 
 Based on the pharmacological actions of pertuzumab and anthracyclines an increased risk of cardiac toxicity might be expected from concomitant use of these agents compared with sequential use, although not seen in the TRYPHAENA study.
 In this study, only chemotherapy-naive subjects, not receiving additional chemotherapy after surgery, were treated with low cumulative dose of epirubicin, i.e. up to 300 mg/m2.
+
 Infusion reactions
 
 Perjeta has been associated with infusion reactions (see section 4.8).

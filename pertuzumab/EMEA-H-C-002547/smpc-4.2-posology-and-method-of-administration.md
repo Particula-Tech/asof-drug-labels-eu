@@ -11,7 +11,13 @@ To ensure accurate and reproducible results, the testing must be performed in a 
 For full instructions on assay performance and interpretation please refer to the package leaflets of validated HER2 testing assays.
 The recommended initial loading dose of pertuzumab is 840 mg administered as a 60 minute intravenous infusion, followed every 3 weeks thereafter by a maintenance dose of 420 mg administered over a period of 30 to 60 minutes.
 
-When administered with pertuzumab the recommended initial loading dose of trastuzumab is 8 mg/kg body weight administered as an intravenous infusion followed every 3 weeks thereafter by a maintenance dose of 6 mg/kg body weight.
+When administered with pertuzumab the recommendation is to follow a 3 weekly schedule for trastuzumab administered as either:
+
+- an IV infusion with an initial loading dose of trastuzumab 8 mg/kg body weight followed every 3 weeks thereafter by a maintenance dose of 6 mg/kg body weight
+
+or
+
+- a fixed subcutaneous dose of trastuzumab by injection (600 mg) every 3 weeks irrespective of the patient’s body weight.
 
 When administered with pertuzumab the recommended initial dose of docetaxel is 75 mg/m2, administered thereafter on a 3 weekly schedule.
 The dose of docetaxel may be escalated to 100 mg/m2 on subsequent cycles if the initial dose is well tolerated (the docetaxel dose should not be escalated when used in combination with carboplatin, trastuzumab and pertuzumab).
@@ -32,9 +38,14 @@ Following surgery, patients should be treated with adjuvant trastuzumab to compl
 
 Delayed or missed doses
 
-If the time between two sequential infusions is less than 6 weeks, the 420 mg dose of pertuzumab should be administered as soon as possible without regard to the next planned dose.
+For recommendations on delayed or missed doses, please refer to Table 1 below.
+Table 1 Recommendations regarding delayed or missed doses
 
-If the time between two sequential infusions is 6 weeks or more, the initial loading dose of 840 mg pertuzumab should be re-administered as a 60-minute intravenous infusion followed every 3 weeks thereafter by a maintenance dose of 420 mg administered over a period of 30 to 60 minutes.
+| Time between two sequential infusions | Perjeta | trastuzumab |  |
+| --- | --- | --- | --- |
+|  |  | IV | SC |
+| < 6 weeks | The 420 mg dose of Perjeta IV should be administered as soon as possible. Do not wait until the next planned dose. Thereafter, revert to the original planned schedule. | The 6 mg/kg dose of trastuzumab IV should be administered as soon as possible. Do not wait until the next planned dose. Thereafter, revert to the original planned schedule. | The fixed dose of 600mg trastuzumab SC should be administered as soon as possible. Do not wait until the next planned dose. |
+| ≥ 6 weeks | The loading dose of 840 mg Perjeta IV should be re-administered as a 60 minute infusion, followed by a maintenance dose of 420 mg IV administered over a period of 30 to 60 minutes every 3 weeks thereafter. | The loading dose of 8 mg/kg of trastuzumab IV should be re-administered over approximately 90 minutes, followed by a maintenance dose of 6 mg/kg IV administered over a period of 30 or 90 minutes every 3 weeks thereafter. |  |
 
 Dose modification
 Dose reductions are not recommended for Perjeta.
@@ -47,6 +58,7 @@ For trastuzumab, dose reductions are not recommended, see trastuzumab summary of
 If trastuzumab treatment is discontinued, treatment with Perjeta should be discontinued.
 
 If docetaxel is discontinued, treatment with Perjeta and trastuzumab may continue until disease progression or unmanageable toxicity in the metastatic setting.
+
 Left ventricular dysfunction
 Perjeta and trastuzumab should be withheld for at least 3 weeks for any of the following:
 
@@ -55,7 +67,6 @@ Perjeta and trastuzumab should be withheld for at least 3 weeks for any of the f
 - a LVEF of 40%-45% associated with a fall of ≥ 10% points below pre-treatment values.
 
 Perjeta and trastuzumab may be resumed if the LVEF has recovered to > 45% or 40-45% associated with < 10% points below pretreatment value.
-
 If after a repeat assessment within approximately 3 weeks, the LVEF has not improved, or has declined further, discontinuation of Perjeta and trastuzumab should be strongly considered, unless the benefits for the individual patient are deemed to outweigh the risks (see section 4.4).
 
 Elderly patients
@@ -90,6 +101,7 @@ Infusion reactions
 The infusion rate may be slowed or interrupted if the patient develops an infusion reaction (see section 4.8).
 The infusion may be resumed when symptoms abate.
 Treatment including oxygen, beta agonists, antihistamines, rapid i.v. fluids and antipyretics may also help alleviate symptoms.
+
 Hypersensitivity reactions/anaphylaxis
 
 The infusion should be discontinued immediately and permanently if the patient experiences a NCI-CTCAE Grade 4 reaction (anaphylaxis), bronchospasm or acute respiratory distress syndrome (see section 4.4).

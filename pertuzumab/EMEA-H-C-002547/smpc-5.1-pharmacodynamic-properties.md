@@ -37,11 +37,11 @@ Most of these patients had received prior anthracycline therapy and 11% of all p
 A total of 43% of patients in both treatment groups had previously received radiotherapy.
 Patients’ median LVEF at baseline was 65.0% (range 50% – 88%) in both groups.
 
-The efficacy results from the CLEOPATRA study are summarised in Table 2.
+The efficacy results from the CLEOPATRA study are summarised in Table 3.
 A statistically significant improvement in IRF-assessed PFS was demonstrated in the Perjeta-treated group compared with the placebo-treated group.
 The results for investigator-assessed PFS were similar to those observed for IRF-assessed PFS.
 
-Table 2 Summary of efficacy from CLEOPATRA study
+Table 3 Summary of efficacy from CLEOPATRA study
 
 | Parameter | Placebo+ trastuzumab + docetaxel n=406 | Perjeta+ trastuzumab + docetaxel n=402 | HR (95% CI) | p-value |
 | --- | --- | --- | --- | --- |
@@ -62,7 +62,7 @@ Figure 1 IRF-assessed PFS by patient subgroup
 
 The final analysis of OS was performed when 389 patients had died (221 in the placebo-treated group and 168 in the Perjeta-treated group).
 The statistically significant OS benefit in favour of the Perjeta-treated group, previously observed at an interim analysis of OS (performed one year after the primary analysis), was maintained (HR 0.68, p = 0.0002 log-rank test).
-The median time to death was 40.8 months in the placebo-treated group and 56.5 months in the Perjeta-treated group (see Table 2, Figure 2).
+The median time to death was 40.8 months in the placebo-treated group and 56.5 months in the Perjeta-treated group (see Table 3, Figure 2).
 
 Figure 2 Kaplan-Meier Curve of Overall Survival
 
@@ -109,7 +109,7 @@ Demographics were well balanced (median age was 49-50 years, the majority were c
 Overall 7% of patients had inflammatory breast cancer, 32% had locally advanced breast cancer and 61% had operable breast cancer.
 Approximately half the patients in each treatment group had hormone receptor-positive disease (defined as ER positive and/or PgR positive).
 
-The efficacy results are presented in Table 3.
+The efficacy results are presented in Table 4.
 A statistically significant improvement in pCR rate (ypT0/is) was observed in patients receiving Perjeta plus trastuzumab and docetaxel compared to patients receiving trastuzumab and docetaxel (45.8% vs 29.0%, p value = 0.0141).
 A consistent pattern of results was observed regardless of pCR definition.
 The difference in pCR rate is considered likely to translate into a clinically meaningful difference in long term outcomes and is supported by positive trends in PFS (HR 0.69, 95% CI 0.34, 1.40) and DFS (HR 0.60, 95% CI 0.28, 1.27).
@@ -144,14 +144,14 @@ Secondary efficacy endpoints were pCR rate in the breast (ypT0/is), DFS, PFS and
 Demographics were well balanced between arms (median age was 49-50 years, the majority were Caucasian [77%]) and all patients were female.
 Overall 6% of patients had inflammatory breast cancer, 25% had locally advanced breast cancer and 69% had operable breast cancer.
 Approximately half the patients in each treatment group had ER-positive and/or PgR-positive disease.
-Compared with published data for similar regimens without pertuzumab, high pCR rates were observed in all 3 treatment arms (see Table 3).
+Compared with published data for similar regimens without pertuzumab, high pCR rates were observed in all 3 treatment arms (see Table 4).
 A consistent pattern of results was observed regardless of pCR definition used.
 The pCR rates were lower in the subgroup of patients with hormone receptor-positive tumours (range 46.2% to 50.0%) than in patients with hormone receptor-negative tumours (range 65.0% to 83.8%).
 
 pCR rates were similar in patients with operable and locally advanced disease.
 There were too few patients with inflammatory breast cancer to draw any firm conclusions.
 
-Table 3 NEOSPHERE (WO20697) and TRYPHAENA (BO22280): Overview of efficacy (Intent to Treat Population)
+Table 4 NEOSPHERE (WO20697) and TRYPHAENA (BO22280): Overview of efficacy (Intent to Treat Population)
 
 |  | NEOSPHERE (WO20697) |  |  |  | TRYPHAENA (BO22280) |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -176,7 +176,6 @@ Approximate 95% CI for difference of two response rates using Hauck-Anderson met
 Clinical response represents patients with a best overall response of CR or PR during the neoadjuvant period (in the primary breast lesion).
 
 BERENICE (WO29217)
-
 BERENICE is a non-randomized, open-label, multicentre, multinational, Phase II trial conducted in 401 patients with HER2-positive locally advanced, inflammatory, or early-stage breast cancer (with primary tumours > 2cm in diameter or node-positive disease).
 
 The BERENICE study included two parallel groups of patients.

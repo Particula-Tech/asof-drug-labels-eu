@@ -3,12 +3,13 @@
 Summary of the safety profile
 
 The safety of Perjeta has been evaluated in more than 2,000 patients in the randomized trials CLEOPATRA (n=808), NEOSPHERE (n=417), and TRYPHAENA (n=225) and in Phase I and phase II trials conducted in patients with various malignancies and predominantly treated with Perjeta in combination with other antineoplastic agents.
-The safety of Perjeta in Phase I and II studies (including the BERENICE trial) was generally consistent with that observed in the CLEOPATRA, NEOSPHERE and TRYPHAENA trials (pooled in table 1), although the incidence and most common adverse drug reactions (ADRs) varied depending on whether Perjeta was administered as monotherapy or with concomitant anti-neoplastic agents.
+The safety of Perjeta in Phase I and II studies (including the BERENICE trial) was generally consistent with that observed in the CLEOPATRA, NEOSPHERE and TRYPHAENA trials (pooled in table 2), although the incidence and most common adverse drug reactions (ADRs) varied depending on whether Perjeta was administered as monotherapy or with concomitant anti-neoplastic agents.
 
 Tabulated list of adverse reactions
 
-Table 1 summarizes the ADRs from the pivotal trial CLEOPATRA, in which Perjeta was given in combination with docetaxel and trastuzumab to patients with metastatic breast cancer, and from the neoadjuvant trials NEOSPHERE and TRYPHAENA, in which Perjeta was given in combination with trastuzumab and chemotherapy to patients with early breast cancer.
+Table 2 summarizes the ADRs from the pivotal trial CLEOPATRA, in which Perjeta was given in combination with docetaxel and trastuzumab to patients with metastatic breast cancer, and from the neoadjuvant trials NEOSPHERE and TRYPHAENA, in which Perjeta was given in combination with trastuzumab and chemotherapy to patients with early breast cancer.
 As Perjeta is used with trastuzumab and chemotherapy, it is difficult to ascertain the causal relationship of an adverse event to a particular medicinal product.
+
 The ADRs are listed below by MedDRA system organ class (SOC) and categories of frequency: Very common (≥ 1/10)
 Common (≥ 1/100 to < 1/10)
 Uncommon( ≥ 1/1,000 to < 1/100)
@@ -17,8 +18,7 @@ Very rare (< 1/10,000)
 Not known (cannot be estimated from the available data)
 
 Within each frequency grouping and SOC, adverse reactions are presented in the order of decreasing seriousness.
-
-Table 1 Summary of ADRs in patients treated with Perjeta in the metastatic and neoadjuvant setting^
+Table 2 Summary of ADRs in patients treated with Perjeta in the metastatic and neoadjuvant setting^
 
 | System organ class | Very Common | Common | Uncommon |
 | --- | --- | --- | --- |
@@ -34,9 +34,12 @@ Table 1 Summary of ADRs in patients treated with Perjeta in the metastatic and n
 | Gastrointestinal disorders | Diarrhoea † Vomiting † Stomatitis Nausea † Constipation † Dyspepsia |  |  |
 | Skin and subcutaneous tissue disorders | Alopecia Rash † Nail disorder | Pruritus Dry skin |  |
 | Musculoskeletal and connective tissue disorders | Myalgia Arthralgia |  |  |
+
+| System organ class | Very Common | Common | Uncommon |
+| --- | --- | --- | --- |
 | General disorders and administration site conditions | Mucositis/mucosal inflammation Pain † Oedema † Pyrexia Fatigue † Asthenia † | Chills |  |
 
-^ Table 1 shows pooled data from the overall treatment period in CLEOPATRA (data cutoff 11 February 2014; median number of cycles of Perjeta was 24); and from the neoadjuvant treatment period in NEOSPHERE (median number of cycles of Perjeta was 4, across all treatment arms) and TRYPHAENA (median number of cycles of Perjeta was 3 – 6 across treatment arms)
+^ Table 2 shows pooled data from the overall treatment period in CLEOPATRA (data cutoff 11 February 2014; median number of cycles of Perjeta was 24); and from the neoadjuvant treatment period in NEOSPHERE (median number of cycles of Perjeta was 4, across all treatment arms) and TRYPHAENA (median number of cycles of Perjeta was 3 – 6 across treatment arms)
 
 * Including adverse reactions with a fatal outcome.
 ** For the overall treatment period across the 3 studies.
