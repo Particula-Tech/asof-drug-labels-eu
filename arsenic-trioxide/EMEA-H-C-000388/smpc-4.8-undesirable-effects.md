@@ -141,7 +141,7 @@ Description of selected adverse reactions
 
 Differentiation syndrome
 During TRISENOX treatment, 14 of the 52 patients in the APL studies in the relapsed setting had one or more symptoms of APL differentiation syndrome, characterised by fever, dyspnoea, weight gain, pulmonary infiltrates and pleural or pericardial effusions, with or without leukocytosis (see section 4.4).
-Twenty-seven patients had leukocytosis (WBC ≥ 10 x 103/µl) during induction, 4 of whom had values above 100,000/µl.
+Twenty-seven patients had leukocytosis (WBC ≥ 10 x 103/μl) during induction, 4 of whom had values above 100,000/μl.
 Baseline white blood cell (WBC) counts did not correlate with development of leukocytosis on study, and WBC counts during consolidation therapy were not as high as during induction.
 In these studies, leukocytosis was not treated with chemotherapeutic medicinal products.
 Medicinal products that are used to lower the white blood cell count often exacerbate the toxicities associated with leukocytosis, and no standard approach has proven effective.
