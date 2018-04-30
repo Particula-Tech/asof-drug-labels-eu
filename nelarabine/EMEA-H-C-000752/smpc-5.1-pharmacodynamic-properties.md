@@ -23,6 +23,7 @@ Time to complete response in both classifications of response ranged from 2.9 to
 Duration of response (in both classifications of response (n=5) ranged between 15 and 195+ weeks.
 Median overall survival was 20.6 weeks [95 % CI: 10.4–36.4].
 Survival at one year was 29 % [95 % CI: 12 %–45 %].
+
 Paediatric studies
 In an open-label, multicenter study carried out by Childrens Oncology Group, nelarabine was administered intravenously over 1 hour for 5 days to 151 patients ≤ 21 years of age, 149 of whom had relapsed or refractory T-cell acute lymphoblastic leukaemia (T-ALL) or T-cell lymphoblastic lymphoma (T-LBL).
 Eighty-four (84) patients, 39 of whom had received two or more prior induction regimens and 31 whom had received one prior induction regimen, were treated with 650 mg/m2/day of nelarabine administered intravenously over 1 hour daily for 5 consecutive days repeated every 21 days.
@@ -33,7 +34,6 @@ Duration of response in both classifications of response ranged between 4.7 and 
 Thirteen (42 %) of the 31 patients treated with one prior induction regimen achieved a complete response overall.
 Nine of these 31 patients failed to respond to prior induction (refractory patients).
 Four (44 %) of the nine refractory patients experienced a complete response to nelarabine.
-
 This medicinal product has been authorised under “exceptional circumstances”.
 This means that due to the rarity of the disease it has not been possible to obtain complete information on this medicinal product.
 

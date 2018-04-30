@@ -19,6 +19,7 @@ Mean plasma ara-G Cmax and AUCinf values were 115 µM (16 %) and 571 µM.h (30 %
 
 Intracellular Cmax for ara-GTP appeared within 3 to 25 hours on day 1.
 Mean (%CV) intracellular ara-GTP Cmax and AUC values were 95.6 µM (139 %) and 2214 µM.h (263 %) at this dose.
+
 Paediatric patients
 After infusion of 400 or 650 mg/m2 nelarabine over one hour in 6 paediatric patients, mean (%CV) plasma nelarabine Cmax and AUCinf values, adjusted to a 650 mg/m2 dose, were 45.0 µM (40 %) and 38.0 µM.h (39 %), respectively.
 Mean plasma ara-G Cmax and AUCinf values were 60.1 µM (17 %) and 212 µM.h (18 %), respectively.
@@ -32,7 +33,6 @@ For ara-G, mean VSS/F values were 44.8 l/m2 (32 %) and 32.1 l/m2 (25 %) in adult
 Nelarabine and ara-G are not substantially bound to human plasma proteins (less than 25 %) in vitro, and binding is independent of nelarabine or ara-G concentrations up to 600 µM.
 
 No accumulation of nelarabine or ara-G was observed in plasma after nelarabine administration on either a daily or a day 1, 3, 5 schedule.
-
 Intracellular ara-GTP concentrations in leukaemic blasts were quantifiable for a prolonged period after nelarabine administration.
 Intracellular ara-GTP accumulated with repeated administration of nelarabine.
 On the day 1, 3, and 5 schedule, Cmax and AUC(0-t) values on day 3 were approximately 50 % and 30 %, respectively, greater than Cmax and AUC(0-t) values on day 1.
@@ -56,6 +56,7 @@ In 28 adult patients, 24 hours after nelarabine infusion on day 1, mean urinary 
 Renal clearance averaged 9.0 l/h/m2 (151 %) for nelarabine and 2.6 l/h/m2 (83 %) for ara-G in 21 adult patients.
 
 Because the timecourse of intracellular ara-GTP was prolonged, its elimination half-life could not be accurately estimated.
+
 Paediatric population
 
 Limited clinical pharmacology data are available for patients below the age of 4 years.
@@ -72,7 +73,6 @@ Race
 
 The effect of race on nelarabine and ara-G pharmacokinetics has not been specifically studied.
 In a pharmacokinetic/pharmacodynamic cross study analysis, race had no apparent effect on nelarabine, ara-G, or intracellular ara-GTP pharmacokinetics.
-
 Renal impairment
 
 The pharmacokinetics of nelarabine and ara-G have not been specifically studied in renally impaired or haemodialysed patients.
