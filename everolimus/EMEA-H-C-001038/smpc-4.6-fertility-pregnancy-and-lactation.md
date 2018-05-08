@@ -12,9 +12,9 @@ The potential risk for humans is unknown.
 Everolimus is not recommended during pregnancy and in women of childbearing potential not using contraception.
 
 Breast-feeding
-It is not known whether everolimus is excreted in breast milk.
+It is not known whether everolimus is excreted in human breast milk.
 However, in rats, everolimus and/or its metabolites readily pass into the milk (see section 5.3).
-Therefore, women taking everolimus should not breast-feed.
+Therefore, women taking everolimus should not breast-feed during treatment and for 2 weeks after the last dose.
 
 Fertility
 The potential for everolimus to cause infertility in male and female patients is unknown, however amenorrhoea (secondary amenorrhoea and other menstrual irregularities) and associated luteinising hormone (LH)/follicle stimulating hormone (FSH) imbalance has been observed in female patients.

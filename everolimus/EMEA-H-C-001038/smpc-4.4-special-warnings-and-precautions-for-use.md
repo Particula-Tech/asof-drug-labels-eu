@@ -12,6 +12,7 @@ Patients who develop radiological changes suggestive of non-infectious pneumonit
 If symptoms are moderate (Grade 2) or severe (Grade 3) the use of corticosteroids may be indicated until clinical symptoms resolve.
 
 For patients who require use of corticosteroids for treatment of non-infectious pneumonitis, prophylaxis for pneumocystis jirovecii (carinii) pneumonia (PJP, PCP) may be considered.
+
 Infections
 Everolimus has immunosuppressive properties and may predispose patients to bacterial, fungal, viral or protozoan infections, including infections with opportunistic pathogens (see section 4.8).
 Localised and systemic infections, including pneumonia, other bacterial infections, invasive fungal infections such as aspergillosis, candidiasis or pneumocystis jirovecii (carinii) pneumonia (PJP, PCP) and viral infections including reactivation of hepatitis B virus, have been described in patients taking Afinitor.
@@ -33,9 +34,13 @@ Hypersensitivity reactions manifested by symptoms including, but not limited to,
 Concomitant use of angiotensin-converting enzyme (ACE) inhibitors
 Patients taking concomitant ACE inhibitor (e.g. ramipril) therapy may be at increased risk for angioedema (e.g. swelling of the airways or tongue, with or without respiratory impairment) (see section 4.5).
 
-Oral ulceration
-Mouth ulcers, stomatitis and oral mucositis have been observed in patients treated with Afinitor (see section 4.8).
-In such cases topical treatments are recommended, but mouthwashes containing alcohol, peroxide, iodine and thyme derivatives should be avoided as they may exacerbate the condition.
+Stomatitis
+Stomatitis, including mouth ulcerations and oral mucositis, is the most commonly reported adverse reaction in patients treated with Afinitor (see section 4.8).
+Stomatitis mostly occurs within the first 8 weeks of treatment.
+A single-arm study in postmenopausal breast cancer patients treated with Afinitor plus exemestane suggested that an alcohol-free corticosteroid oral solution, administered as a mouthwash during the initial 8 weeks of treatment, may decrease the incidence and severity of stomatitis (see section 5.1).
+Management of stomatitis may therefore include prophylactic and/or therapeutic use of topical treatments, such as an alcohol-free corticosteroid oral solution as a mouthwash.
+However products containing alcohol, hydrogen peroxide, iodine and thyme derivatives should be avoided as they may exacerbate the condition.
+Monitoring for and treatment of fungal infection is recommended, especially in patients being treated with steroid-based medications.
 Antifungal agents should not be used unless fungal infection has been diagnosed (see section 4.5).
 
 Renal failure events
@@ -46,6 +51,7 @@ Laboratory tests and monitoring
 Renal function
 Elevations of serum creatinine, usually mild, and proteinuria have been reported (see section 4.8).
 Monitoring of renal function, including measurement of blood urea nitrogen (BUN), urinary protein or serum creatinine, is recommended prior to the start of Afinitor therapy and periodically thereafter.
+
 Blood glucose
 Hyperglycaemia has been reported (see section 4.8).
 Monitoring of fasting serum glucose is recommended prior to the start of Afinitor therapy and periodically thereafter.
@@ -79,13 +85,13 @@ Hence, concomitant treatment of Afinitor and potent inhibitors is not recommende
 
 Caution should be exercised when Afinitor is taken in combination with orally administered CYP3A4 substrates with a narrow therapeutic index due to the potential for drug interactions.
 If Afinitor is taken with orally administered CYP3A4 substrates with a narrow therapeutic index (e.g. pimozide, terfenadine, astemizole, cisapride, quinidine or ergot alkaloid derivatives), the patient should be monitored for undesirable effects described in the product information of the orally administered CYP3A4 substrate (see section 4.5).
+
 Hepatic impairment
 Exposure to everolimus was increased in patients with mild (Child-Pugh A), moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment (see section 5.2).
 
 Afinitor is only recommended for use in patients with severe hepatic impairment (Child-Pugh C) if the potential benefit outweighs the risk (see sections 4.2 and 5.2).
 
 No clinical safety or efficacy data are currently available to support dose adjustment recommendations for the management of adverse reactions in patients with hepatic impairment.
-
 Vaccinations
 The use of live vaccines should be avoided during treatment with Afinitor (see section 4.5).
 

@@ -4,6 +4,7 @@ Absorption
 In patients with advanced solid tumours, peak everolimus concentrations (Cmax) are reached at a median time of 1 hour after daily administration of 5 and 10 mg everolimus under fasting conditions or with a light fat-free snack.
 Cmax is dose-proportional between 5 and 10 mg.
 Everolimus is a substrate and moderate inhibitor of PgP.
+
 Food effect
 In healthy subjects, high fat meals reduced systemic exposure to everolimus 10 mg (as measured by AUC) by 22% and the peak plasma concentration Cmax by 54%.
 Light fat meals reduced AUC by 32% and Cmax by 42%.
@@ -32,19 +33,19 @@ The parent substance was not detected in urine or faeces.
 
 Steady-state pharmacokinetics
 After administration of everolimus in patients with advanced solid tumours, steady-state AUC0-τ was dose-proportional over the range of 5 to 10 mg daily dose.
-Steady-state was achieved within two weeks.
+Steady-state was achieved within 2 weeks.
 Cmax is dose-proportional between 5 and 10 mg. tmax occurs at 1 to 2 hours post-dose.
 There was a significant correlation between AUC0-τ and pre-dose trough concentration at steady-state.
 
 Special populations
 Hepatic impairment
 The safety, tolerability and pharmacokinetics of everolimus were evaluated in two single oral dose studies of Afinitor tablets in 8 and 34 subjects with impaired hepatic function relative to subjects with normal hepatic function.
-
 In the first study, the average AUC of everolimus in 8 subjects with moderate hepatic impairment (Child-Pugh B) was twice that found in 8 subjects with normal hepatic function.
 
 In the second study of 34 subjects with different impaired hepatic function compared to normal subjects, there was a 1.6-fold, 3.3-fold and 3.6-fold increase in exposure (i.e. AUC0-inf) for subjects with mild (Child-Pugh A), moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment, respectively.
 
 Simulations of multiple dose pharmacokinetics support the dosing recommendations in subjects with hepatic impairment based on their Child-Pugh status.
+
 Based on the results of the two studies, dose adjustment is recommended for patients with hepatic impairment (see sections 4.2 and 4.4).
 
 Renal impairment

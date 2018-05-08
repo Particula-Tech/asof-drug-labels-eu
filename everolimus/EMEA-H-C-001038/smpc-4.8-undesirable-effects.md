@@ -4,6 +4,7 @@ Summary of the safety profile
 The safety profile is based on pooled data from 2,672 patients treated with Afinitor in ten clinical studies, consisting of five randomised, double-blind, placebo controlled phase III studies and five open-label phase I and phase II studies, related to the approved indications.
 
 The most common adverse reactions (incidence ≥1/10) from the pooled safety data were (in decreasing order): stomatitis, rash, fatigue, diarrhoea, infections, nausea, decreased appetite, anaemia, dysgeusia, pneumonitis, oedema peripheral, hyperglycaemia, asthenia, pruritus, weight decreased, hypercholesterolaemia, epistaxis, cough and headache.
+
 The most frequent Grade 3-4 adverse reactions (incidence ≥1/100 to <1/10) were stomatitis, anaemia, hyperglycaemia, infections, fatigue, diarrhoea, pneumonitis, asthenia, thrombocytopenia, neutropenia, dyspnoea, proteinuria, lymphopenia, haemorrhage, hypophosphataemia, rash, hypertension, pneumonia, alanine aminotransferase (ALT) increased, aspartate aminotransferase (AST) increased and diabetes mellitus.
 The grades follow CTCAE Version 3.0 and 4.03.
 
@@ -74,7 +75,6 @@ Table 3 Adverse reactions reported in clinical studies
 Description of selected adverse reactions
 In clinical studies and post-marketing spontaneous reports, everolimus has been associated with serious cases of hepatitis B reactivation, including fatal outcome.
 Reactivation of infection is an expected event during periods of immunosuppression.
-
 In clinical studies and post-marketing spontaneous reports, everolimus has been associated with renal failure events (including fatal outcome) and proteinuria.
 Monitoring of renal function is recommended (see section 4.4).
 
@@ -83,6 +83,7 @@ In clinical studies and post-marketing spontaneous reports, everolimus has been 
 In clinical studies and post-marketing spontaneous reports, everolimus has been associated with cases of pneumocystis jirovecii (carinii) pneumonia (PJP, PCP), some with fatal outcome (see section 4.4).
 
 In clinical trials and post-marketing spontaneous reports, angioedema has been reported with and without concomitant use of ACE inhibitors (see section 4.4).
+
 Elderly patients
 In the safety pooling, 37% of the Afinitor-treated patients were ≥65 years of age.
 The number of patients with an adverse reaction leading to discontinuation of the medicinal product was higher in patients ≥65 years of age (20% vs. 13%).

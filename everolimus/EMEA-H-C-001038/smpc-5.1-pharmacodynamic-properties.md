@@ -9,12 +9,12 @@ Inhibition of the mTORC1 signalling pathway interferes with the translation and 
 S6K1is thought to phosphorylate the activation function domain 1 of the oestrogen receptor, which is responsible for ligand-independent receptor activation.
 Everolimus reduces levels of vascular endothelial growth factor (VEGF), which potentiates tumour angiogenic processes.
 Everolimus is a potent inhibitor of the growth and proliferation of tumour cells, endothelial cells, fibroblasts and blood-vessel-associated smooth muscle cells and has been shown to reduce glycolysis in solid tumours in vitro and in vivo.
-
 Clinical efficacy and safety
 Hormone receptor-positive advanced breast cancer
 BOLERO-2 (study CRAD001Y2301), a randomised, double-blind, multicentre phase III study of Afinitor + exemestane versus placebo + exemestane, was conducted in postmenopausal women with oestrogen receptor-positive, HER2/neu negative advanced breast cancer with recurrence or progression following prior therapy with letrozole or anastrozole.
 Randomisation was stratified by documented sensitivity to prior hormonal therapy and by the presence of visceral metastasis.
 Sensitivity to prior hormonal therapy was defined as either (1) documented clinical benefit (complete response [CR], partial response [PR], stable disease ≥24 weeks) from at least one prior hormonal therapy in the advanced setting or (2) at least 24 months of adjuvant hormonal therapy prior to recurrence.
+
 The primary endpoint for the study was progression-free survival (PFS) evaluated by RECIST (Response Evaluation Criteria in Solid Tumors), based on the investigator’s assessment (local radiology).
 Supportive PFS analyses were based on an independent central radiology review.
 
@@ -70,9 +70,9 @@ No differences in the time to ≥5% deterioration in the global and functional d
 
 Advanced neuroendocrine tumours of pancreatic origin (pNET)
 RADIANT-3 (study CRAD001C2324), a phase III, multicentre, randomised, double-blind study of Afinitor plus best supportive care (BSC) versus placebo plus BSC in patients with advanced pNET, demonstrated a statistically significant clinical benefit of Afinitor over placebo by a 2.4-fold prolongation of median progression-free-survival (PFS) (11.04 months versus 4.6 months), (HR 0.35; 95% CI: 0.27, 0.45; p<0.0001) (see Table 5 and Figure 2).
-
 RADIANT-3 involved patients with well- and moderately-differentiated advanced pNET whose disease had progressed within the prior 12 months.
 Treatment with somatostatin analogues was allowed as part of BSC.
+
 The primary endpoint for the study was PFS evaluated by RECIST (Response Evaluation Criteria in Solid Tumors).
 Following documented radiological progression, patients could be unblinded by the investigator.
 Those randomised to placebo were then able to receive open-label Afinitor.
@@ -134,8 +134,8 @@ A total of 302 patients were randomised in a 2:1 ratio to receive either everoli
 Demographics and disease characteristics were generally balanced (median age 63 years [range 22 to 86], 76% Caucasian, history of prior somatostatin analogue [SSA] use).
 The median duration of blinded treatment was 40.4 weeks for patients receiving Afinitor and 19.6 weeks for those receiving placebo.
 Patients in the placebo arm did not cross-over to everolimus at the time of progression.
-The efficacy results for the primary endpoint were obtained from the final PFS analysis (see Table 6 and Figure 3).
 
+The efficacy results for the primary endpoint were obtained from the final PFS analysis (see Table 6 and Figure 3).
 Table 6 RADIANT-4 – Progression-free survival results
 
 | Population | Afinitor n=205 | Placebo n=97 | Hazard ratio (95% CI) | p-valuea |
@@ -175,7 +175,6 @@ Time(months) 0 2 4 6 8 10 12 15 18 21 24 27 30 Everolimus 205 168 145 124 101 81
 Placebo 97 65 39 30 24 21 17 15 11 6 5 1 0
 
 In supportive analyses, positive treatment effect has been observed in all subgroups with the exception of the subgroup of patients with ileum as primary site of tumour origin (Ileum: HR=1.22 [95% CI: 0.56 to 2.65]; Non-ileum: HR=0.34 [95% CI: 0.22 to 0.54]; Lung: HR=0.43 [95% CI: 0.24 to 0.79]) (see Figure 4).
-
 Figure 4 RADIANT-4 – Progression free survival results by pre-specified patient subgroup (independent radiological review)
 
 All (N=302)
@@ -221,6 +220,7 @@ Hazard ratio (95% CI) from stratified Cox model
 The pre-planned OS interim analysis after 101 deaths (out of 191 required for final analysis) and 33 months follow-up favoured the everolimus arm; however, no statistically significant difference in OS was noted (HR= 0.73 [95% CI: 0.48 to 1.11; p=0.071]).
 
 No difference in the time to definitive deterioration of WHO PS (≥1 point) and time to definitive deterioration in quality of life (FACT-G total score ≥7 points) was observed between the two arms.
+
 Advanced renal cell carcinoma
 RECORD-1 (study CRAD001C2240), a phase III, international, multicentre, randomised, double-blind study comparing everolimus 10 mg/day and placebo, both in conjunction with best supportive care, was conducted in patients with metastatic renal cell carcinoma whose disease had progressed on or after treatment with VEGFR-TKI (vascular endothelial growth factor receptor tyrosine kinase inhibitor) therapy (sunitinib, sorafenib, or both sunitinib and sorafenib).
 Prior therapy with bevacizumab and interferon-α was also permitted.
@@ -279,6 +279,13 @@ Therefore, the progression-free survival advantage primarily reflects the popula
 
 No statistically significant treatment-related difference in overall survival was noted (hazard ratio 0.87; confidence interval: 0.65-1.17; p=0.177).
 Crossover to open-label Afinitor following disease progression for patients allocated to placebo confounded the detection of any treatment-related difference in overall survival.
+
+Other studies
+Stomatitis is the most commonly reported adverse reaction in patients treated with Afinitor (see sections 4.4 and 4.8).
+In a post-marketing single-arm study in postmenopausal women with advanced breast cancer (N=92), topical treatment with dexamethasone 0.5 mg/5 ml alcohol-free oral solution was administered as a mouthwash (4 times daily for the initial 8 weeks of treatment) to patients at the time of initiating treatment with Afinitor (10 mg/day) plus exemestane (25 mg/day) to reduce the incidence and severity of stomatitis.
+The incidence of Grade ≥2 stomatitis at 8 weeks was 2.4% (n=2/85 evaluable patients) which was lower than historically reported.
+The incidence of Grade 1 stomatitis was 18.8% (n=16/85) and no cases of Grade 3 or 4 stomatitis were reported.
+The overall safety profile in this study was consistent with that established for everolimus in the oncology and tuberous sclerosis complex (TSC) settings, with the exception of a slightly increased frequency of oral candidiasis which was reported in 2.2% (n=2/92) of patients.
 
 Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with Afinitor in all subsets of the paediatric population in neuroendocrine tumours of pancreatic origin, thoracic neuroendocrine tumours and in renal cell carcinoma (see section 4.2 for information on paediatric use).
