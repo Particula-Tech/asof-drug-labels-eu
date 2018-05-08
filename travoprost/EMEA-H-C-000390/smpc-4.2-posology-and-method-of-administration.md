@@ -14,7 +14,6 @@ If a dose is missed, treatment should be continued with the next dose as planned
 The dose should not exceed one drop in the affected eye(s) daily.
 
 When substituting another ophthalmic antiglaucoma medicinal product with TRAVATAN, the other medicinal product should be discontinued and TRAVATAN should be started the following day.
-
 Hepatic and renal impairment
 TRAVATAN has been studied in patients with mild to severe hepatic impairment and in patients with mild to severe renal impairment (creatinine clearance as low as 14 ml/min).
 No dosage adjustment is necessary in these patients (see section 5.2).

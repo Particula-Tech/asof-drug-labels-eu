@@ -30,7 +30,6 @@ IOP reductions for this group were based on only 6 patients in the timolol group
 No data are available for children less than 2 months old.
 
 The effect on IOP was seen after the second week of treatment and was consistently maintained throughout the 12 week period of study for all age groups.
-
 Table 1 – Comparison of Mean IOP Change from Baseline (mmHg) at Week 12
 
 Travoprost Timolol
@@ -38,9 +37,6 @@ Mean Mean Mean
 N (SE) N (SE) Differencea (95% CI)
 53 -6.4 60 -5.8 -0.5 (-2.1, 1.0)
 (1.05) (0.96)
-Travoprost Timolol
-Mean Mean Mean
-N (SE) N (SE) Differencea (95% CI)
 
 SE = Standard Error; CI = Confidence Interval;
 aMean difference is Travoprost – Timolol.

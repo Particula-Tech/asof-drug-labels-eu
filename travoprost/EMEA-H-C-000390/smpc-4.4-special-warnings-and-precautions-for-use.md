@@ -22,7 +22,6 @@ However, this effect was not observed during the clinical trials and is consider
 
 There is no experience of TRAVATAN in inflammatory ocular conditions; nor in neovascular, angle-closure, narrow-angle or congenital glaucoma and only limited experience in thyroid eye disease, in open-angle glaucoma of pseudophakic patients and in pigmentary or pseudoexfoliative glaucoma.
 TRAVATAN should therefore be used with caution in patients with active intraocular inflammation.
-
 Aphakic patients
 Macular oedema has been reported during treatment with prostaglandin F2a analogues.
 Caution is recommended when using Travatan in aphakic patients, pseudophakic patients with a torn posterior lens capsule or anterior chamber lenses, or in patients with known risk factors for cystoid macular oedema.
