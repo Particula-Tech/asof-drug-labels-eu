@@ -20,6 +20,7 @@ Table 3 Adverse Reactions
 | Psychiatric disorders | Common | Insomnia |
 |  | Common | Abnormal dreams |
 |  | Common | Depression |
+|  | Common | Anxiety |
 |  | Uncommon | Suicidal ideation or suicide attempt (particularly in patients with a pre-existing history of depression or psychiatric illness) |
 | Nervous system disorders | Very common | Headache |
 |  | Common | Dizziness |
@@ -66,4 +67,6 @@ Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Healthcare professionals are asked
+
+to report any suspected adverse reactions via the national reporting system listed in Appendix V.
