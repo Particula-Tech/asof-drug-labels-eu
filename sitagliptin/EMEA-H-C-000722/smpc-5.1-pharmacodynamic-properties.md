@@ -29,7 +29,6 @@ Sitagliptin, but not metformin, increased active GIP concentrations.
 
 Clinical efficacy and safety
 Overall, sitagliptin improved glycaemic control when used as monotherapy or in combination treatment (see Table 2).
-
 Two studies were conducted to evaluate the efficacy and safety of sitagliptin monotherapy.
 Treatment with sitagliptin at 100 mg once daily as monotherapy provided significant improvements in HbA1c, fasting plasma glucose (FPG), and 2-hour post-prandial glucose (2-hour PPG), compared to placebo in two studies, one of 18- and one of 24-weeks duration.
 Improvement of surrogate markers of beta cell function, including HOMA-β (Homeostasis Model Assessment-β), proinsulin to insulin ratio, and measures of beta cell responsiveness from the frequently-sampled meal tolerance test were observed.

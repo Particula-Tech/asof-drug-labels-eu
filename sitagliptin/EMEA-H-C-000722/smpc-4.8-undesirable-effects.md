@@ -14,6 +14,8 @@ The frequency of adverse reactions identified from placebo-controlled clinical s
 
 | Adverse reaction | Frequency of adverse reaction |
 | --- | --- |
+| Blood and lymphatic system disorders |  |
+| thrombocytopenia | Rare |
 | Immune system disorders |  |
 | hypersensitivity reactions including anaphylactic responses *,† | Frequency not known |
 | Metabolism and nutrition disorders |  |

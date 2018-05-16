@@ -14,8 +14,8 @@ Since hepatotoxicity has been shown to correlate with induction of hepatic neopl
 Because of the high safety margin (19-fold at this no-effect level), these neoplastic changes are not considered relevant for the situation in humans.
 
 No adverse effects upon fertility were observed in male and female rats given sitagliptin prior to and throughout mating.
-
 In a pre-/postnatal development study performed in rats sitagliptin showed no adverse effects.
+
 Reproductive toxicity studies showed a slight treatment-related increased incidence of foetal rib malformations (absent, hypoplastic and wavy ribs) in the offspring of rats at systemic exposure levels more than 29 times the human exposure levels.
 Maternal toxicity was seen in rabbits at more than 29 times the human exposure levels.
 Because of the high safety margins, these findings do not suggest a relevant risk for human reproduction.
