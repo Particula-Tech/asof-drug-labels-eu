@@ -10,13 +10,21 @@ Due to the risk of severe or even fatal toxic reactions, patients should be thor
 They are to be informed about the necessity to immediately consult the physician if symptoms of intoxication occur, as well as about the subsequent necessary monitoring of symptoms of intoxication (including regular laboratory tests).
 Doses exceeding 20 mg/week can be associated with significant increase in toxicity, especially bone marrow suppression.
 
-Methotrexate has been reported to cause oligospermia, menstrual dysfunction and amenorrhoea in humans, during and for a short period after cessation of therapy, and to cause impaired fertility, affecting spermatogenesis and oogenesis during the period of its administration - effects that appear to be reversible on discontinuing therapy.
-In addition, methotrexate causes embryotoxicity, abortion and foetal defects in humans.
-Therefore the possible risks of effects on reproduction should be discussed with male and female patients of childbearing potential (see section 4.6).
-Effective contraception in men and women should be performed during treatment and for at least six months after.
-Since treatment with methotrexate can lead to severe and possibly irreversible disorders in spermatogenesis, men should seek advice about the possibility of sperm preservation before starting therapy.
 Skin and mucosal contact with methotrexate is to be avoided.
 In the case of contamination, the parts concerned should be rinsed with plenty of water.
+
+Fertility and reproduction
+
+Fertility
+Methotrexate has been reported to cause oligospermia, menstrual dysfunction and amenorrhoea in humans, during and for a short period after cessation of therapy, and to cause impaired fertility, affecting spermatogenesis and oogenesis during the period of its administration - effects that appear to be reversible on discontinuing therapy.
+
+Teratogenicity – Reproductive risk
+Methotrexate causes embryotoxicity, abortion and foetal defects in humans.
+Therefore, the possible risks of effects on reproduction, pregnancy loss and congenital malformations should be discussed with female patients of childbearing potential (see section 4.6).
+The absence of pregnancy must be confirmed before Nordimet is used.
+If women of a sexually mature age are treated, effective contraception must be performed during treatment and for at least six months after.
+
+For contraception advice for men, see section 4.6.
 
 Recommended examinations and safety measures
 
@@ -43,9 +51,8 @@ Particular attention should be paid to the onset of liver toxicity.
 Treatment should not be initiated or should be discontinued if there are any abnormalities in liver function tests or liver biopsies, or if these develop during therapy.
 Such abnormalities should return to normal within two weeks; after which, treatment may be resumed at the discretion of the doctor.
 
-Temporary increases in transaminases to twice or three times of the upper limit of normal have been reported in patients at a frequency of 13-20 %.
+Temporary increases in transaminases to two or three times the upper limit of normal have been reported in patients at a frequency of 13-20 %.
 Persistent anomalies of liver-related enzymes and/or decrease in serum albumin may be indicative for severe hepatotoxicity.
-
 Enzyme diagnostics does not allow any reliable prediction of the development of a morphologically detectable hepatotoxicity, i.e. even in case of normal transaminases, hepatic fibrosis only histologically identifiable or, more rarely, also hepatocirrhosis may be present.
 
 In rheumatological indications, there is no evidence to support use of liver biopsies in monitoring hepatotoxicity.
@@ -81,9 +88,8 @@ Pulmonary diseases induced by methotrexate were not always completely reversible
 
 Pulmonary symptoms require a quick diagnosis and discontinuation of methotrexate therapy.
 Pulmonary diseases induced by methotrexate, like pneumonitis, can occur acutely at any time of therapy, they were not always completely reversible and have been reported already at all doses (inclusive low doses of 7.5 mg/week).
-
 During methotrexate therapy, opportunistic infection can occur including pneumocystis jiroveci pneumonia, which may take a lethal course.
-If a patient presents with pulmonary symptoms, the possibility of pneumocystis carinii pneumonia should be taken into account.
+If a patient presents with pulmonary symptoms, the possibility of pneumocystis jiroveci pneumonia should be taken into account.
 
 Special caution is required in patients with impaired pulmonary function.
 
@@ -102,17 +108,11 @@ In these cases use of methotrexate should be interrupted until the symptoms ceas
 
 Vitamin preparations or other products containing folic acid, folinic acid or their derivatives may decrease the effectiveness of methotrexate.
 
-Radiation induced dermatitis and sun-burn can reappear under methotrexate therapy recall-reaction).
+Radiation induced dermatitis and sun-burn can reappear under methotrexate therapy (recall-reaction).
 Psoriatic lesions can exacerbate during UV-irradiation and simultaneous administration of methotrexate.
 
-Concomitant administration of folate antagonists such as trimetroprim /sulphamethoxazole has been reported to cause an acute megaloblastic pancytopenia in rare instances.
-Encephalopathy / Leukoencephalopathy have been reported in oncologic patients receiving methotrexate therapy and cannot be excluded for methotrexate therapy in non-oncologic indications.
+Concomitant administration of folate antagonists such as trimethoprim /sulphamethoxazole has been reported to cause an acute megaloblastic pancytopenia in rare instances.
 
-Methotrexate causes embryotoxicity, abortion and foetal defects in humans.
-Methotrexate affects spermatogenesis and oogenesis during the period of its administration which may result in decreased fertility.
-These effects appear to be reversible on discontinuing therapy.
-Effective contraception in men and women should be performed during treatment and for at least six months thereafter.
-The possible risks of effects on reproduction should be discussed with patients of childbearing potential and their partners should be advised appropriately (see section 4.6).
-The absence of pregnancy should be confirmed before Nordimet is used.
+Encephalopathy / Leukoencephalopathy have been reported in oncologic patients receiving methotrexate therapy and cannot be excluded for methotrexate therapy in non-oncologic indications.
 
 This medicinal product contains less than 1 mmol (23 mg) sodium per dose, i.e. essentially “sodium-free“.

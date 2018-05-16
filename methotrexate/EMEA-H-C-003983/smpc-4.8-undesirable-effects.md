@@ -8,8 +8,8 @@ Other frequently (common) occurring adverse reactions are leukopenia, anaemia, t
 
 The most relevant adverse reaction is suppression of the haematopoietic system and gastrointestinal disorders.
 
-Tabulated list of adverse reactions
-Frequencies in this table are defined using the following convention:
+List of adverse reactions
+Frequencies are defined using the following convention:
 very common (≥ 1/10) common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare
 (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
@@ -24,7 +24,7 @@ Very rare: lymphoma (see “description” below)
 Blood and lymphatic system disorders
 Common: Leukopenia, anaemia, thrombopenia.
 Uncommon: Pancytopenia.
-Very rare: Agranulocytosis, severe courses of bone marrow depression.
+Very rare: Agranulocytosis, severe courses of bone marrow depression, lymphoproliferative disorders (see “description below”).
 Not known: Eosinophilia
 
 Immune system disorders
@@ -55,8 +55,8 @@ Rare: Hypotension, thromboembolic events
 
 Respiratory, thoracic and mediastinal disorders
 Common: Pneumonia, interstitial alveolitis/pneumonitis often associated with eosinophilia.
-Symptoms indicating potentially severe lung injury (interstitial pneumonitis) are: dry, not productive cough, short of breath and fever.
-Rare: Pulmonary fibrosis, Pneumocystis carinii pneumonia, shortness of breath and bronchial asthma, pleural effusion.
+Symptoms indicating potentially severe lung injury (interstitial pneumonitis) are: dry, not productive cough, shortness of breath and fever.
+Rare: Pulmonary fibrosis, Pneumocystis jiroveci pneumonia, shortness of breath and bronchial asthma, pleural effusion.
 Not known: Epistaxis.
 
 Gastrointestinal disorders
@@ -81,6 +81,7 @@ Very rare: Stevens-Johnson syndrome, toxic epidermal necrolysis (Lyell’s syndr
 Musculoskeletal and connective tissue disorders
 Uncommon: Arthralgia, myalgia, osteoporosis.
 Rare: Stress fracture.
+Not known: Osteonecrosis of jaw (secondary to lymphoproliferative disorders)
 
 Renal and urinary disorders
 Uncommon: Inflammation and ulceration of the urinary bladder, renal impairment, disturbed micturition.
@@ -96,8 +97,7 @@ Rare: Fever, wound-healing impairment.
 Not known: Asthenia.
 
 Description of selected adverse reactions
-Lymphoma: there have been reports of individual cases of lymphoma which subsided in a number of cases once treatment with methotrexate had been discontinued.
-In a recent study, it could not be established that methotrexate therapy increases the incidence of lymphomas
+Lymphoma/Lymphoproliferative disorders: there have been reports of individual cases of lymphoma and other lymphoproliferative disorders which subsided in a number of cases once treatment with methotrexate had been discontinued.
 
 The appearance and degree of severity of undesirable effects depends on the dosage level and the frequency of administration.
 However, as severe undesirable effects can occur even at lower doses, it is indispensable that patients are monitored regularly by the doctor at short intervals.

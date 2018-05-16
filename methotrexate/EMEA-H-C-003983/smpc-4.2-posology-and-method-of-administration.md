@@ -9,7 +9,6 @@ Please read this paragraph of the SmPC very carefully.
 When switching from oral use to subcutaneous use, a reduction in the dose may be required, due to the variable bioavailability of methotrexate after oral administration.
 
 Folic acid or folinic acid supplementation may be considered in accordance with current therapeutic guidelines.
-
 The overall duration of treatment is decided by the doctor.
 
 Posology
@@ -21,7 +20,7 @@ A weekly dose of 25 mg should in general not be exceeded.
 However, doses exceeding 20 mg per week can be associated with significant increase in toxicity, especially bone marrow suppression.
 Response to treatment can be expected after approximately 4-8 weeks.
 Once the desired therapeutic result has been achieved, the dose should be reduced gradually to the lowest possible effective maintenance dose.
-Symptoms my return after treatment discontinuation.
+Symptoms may return after treatment discontinuation.
 
 Methotrexate treatment of rheumatoid arthritis represents long-term treatment.
 
@@ -35,6 +34,7 @@ Depending on the clinical picture and the changes of laboratory parameters, the 
 
 Once the desired therapeutic result has been achieved, dose should be reduced gradually to the lowest possible effective maintenance dose.
 In a few exceptional cases a higher dose than 25 mg might be clinically justified, but should not exceed a maximum weekly dose of 30 mg of methotrexate as toxicity will markedly increase.
+
 Methotrexate treatment of severe psoriasis vulgaris and psoriatic arthritis represents long-term treatment.
 
 Special populations
@@ -48,7 +48,7 @@ The dose should be adjusted as follows:
 
 | Creatinine clearance (ml/min) | Dose |
 | --- | --- |
-| > -60 | 100 % |
+| ≥ 60 | 100 % |
 | 30-59 | 50 % |
 | < 30 | Nordimet must not be used |
 
@@ -57,8 +57,7 @@ Methotrexate should be administered with great caution, if at all, to patients w
 Methotrexate is contraindicated if bilirubin values are > 5 mg/dl (85.5 µmol/L) (see section 4.3).
 
 Use in patient with a third distribution space (pleural effusions, ascitis)
-As the half-life of methotrexate can be prolonged to 4 times the normal length in patients who possess a third distribution space dose reduction, in some cases, discontinuation of methotrexate administration may be required (see sections 5.2 and 4.4).
-
+As the half-life of methotrexate can be prolonged to 4 times the normal length in patients who possess a third distribution space, dose reduction or, in some cases, discontinuation of methotrexate administration may be required (see sections 5.2 and 4.4).
 Paediatric population
 
 Dosage in children and adolescents below 16 years with polyarthritic forms of juvenile idiopathic arthritis
@@ -83,4 +82,4 @@ Only clear solutions practically free from particles should be used.
 Any contact of methotrexate with skin and mucosa is to be avoided.
 In case of contamination, the affected parts are to be rinsed immediately with plenty of water (see section 6.6).
 
-Please refer to the patient information leaflet for instructions on how to use the pre-filled pen.
+Please refer to the patient information leaflet for instructions on how to use the pre-filled pen or pre-filled syringe.
