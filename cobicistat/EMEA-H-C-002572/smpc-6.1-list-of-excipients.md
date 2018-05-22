@@ -5,7 +5,6 @@ Silicon dioxide
 Croscarmellose sodium
 Magnesium stearate
 Microcrystalline cellulose
-
 Film-coating
 Sunset yellow FCF aluminium lake (E110)
 Macrogol 3350 (E1521)

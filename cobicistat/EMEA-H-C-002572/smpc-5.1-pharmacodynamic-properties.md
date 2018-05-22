@@ -3,13 +3,14 @@
 Pharmacotherapeutic group: All other therapeutic products, ATC code: V03AX03
 
 Mechanism of action and pharmacodynamic effects
+
 Cobicistat is a selective, mechanism-based inhibitor of cytochromes P450 of the CYP3A subfamily.
 Inhibition of CYP3A-mediated metabolism by cobicistat enhances the systemic exposure of CYP3A substrates (such as atazanavir or darunavir) that have limited oral bioavailability and a short half-life due to CYP3A-dependent metabolism.
 
-The effect of cobicistat on atazanavir pharmacokinetics was demonstrated in the pharmacokinetic sub-study (n = 48) of the phase 3 study GS-US-216-0114 in which HIV-1 infected patients received atazanavir 300 mg + cobicistat 150 mg or atazanavir 300 mg + ritonavir 100 mg, both in combination with emtricitabine and tenofovir disoproxil fumarate fixed-dose combination.
+The effect of cobicistat on atazanavir pharmacokinetics was demonstrated in the pharmacokinetic sub-study (n = 48) of the phase 3 Study GS-US-216-0114 in which HIV-1 infected patients received atazanavir 300 mg + cobicistat 150 mg or atazanavir 300 mg + ritonavir 100 mg, both in combination with emtricitabine and tenofovir disoproxil fumarate fixed-dose combination.
 The steady-state pharmacokinetic parameters of atazanavir were comparable when boosted with cobicistat versus ritonavir (see Table 4).
 
-Table 4: Pharmacokinetic parameters [mean ± SD (%CV)] of atazanavir in the pharmacokinetic sub-study of phase 3 study GS-US-216-0114
+Table 4: Pharmacokinetic parameters [mean ± SD (%CV)] of atazanavir in the pharmacokinetic sub-study of phase 3 Study GS-US-216-0114
 
 | Atazanavir pharmacokinetics parameters | Atazanavir + cobicistata (n = 22) | Atazanavir + ritonavira (n = 26) |
 | --- | --- | --- |
@@ -19,7 +20,7 @@ Table 4: Pharmacokinetic parameters [mean ± SD (%CV)] of atazanavir in the phar
 
 a Plus background regimen of emtricitabine 200 mg and tenofovir disoproxil fumarate 300 mg fixed-dose combination
 
-The pharmacokinetic enhancing effect of cobicistat on darunavir was evaluated in a phase 1 clinical study GS-US-216-0115 in 31 healthy subjects that were administered darunavir 800 mg in combination with cobicistat 150 mg or ritonavir 100 mg, all once daily, for 10 days.
+The pharmacokinetic enhancing effect of cobicistat on darunavir was evaluated in a phase 1 clinical Study GS-US-216-0115 in 31 healthy subjects that were administered darunavir 800 mg in combination with cobicistat 150 mg or ritonavir 100 mg, all once daily, for 10 days.
 The steady-state pharmacokinetic parameters of darunavir were comparable when boosted with cobicistat versus ritonavir (see Table 5).
 
 Table 5: Pharmacokinetic parameters [mean ± SD (%CV)] of darunavir 800 mg co-administered with cobicistat 150 mg or ritonavir 100 mg once daily
@@ -31,13 +32,14 @@ Table 5: Pharmacokinetic parameters [mean ± SD (%CV)] of darunavir 800 mg co-ad
 | C0h (μg/ml) | 2.40 ± 1.22 (50.7) | 2.48 ± 0.85 (34.3) |
 
 Antiviral activity in vitro
+
 Cobicistat has no detectable antiviral activity against HIV-1, HBV or HCV and does not antagonise the antiviral effect of HIV inhibitors.
 
 Clinical experience
-Antiviral efficacy data from randomised controlled studies is available for cobicistat-boosted atazanavir, but not for cobicistat-boosted darunavir (see sections 4.4 and 5.2).
 
+Antiviral efficacy data from randomised controlled studies is available for cobicistat-boosted atazanavir, but not for cobicistat-boosted darunavir (see sections 4.4 and 5.2).
 In treatment-naïve HIV-1 infected patients
-The safety and efficacy of cobicistat with atazanavir in HIV-1 infected patients were evaluated in the randomised, double-blind, active-controlled phase 3 study GS-US-216-0114 in HIV-1 infected patients with baseline estimated creatinine clearance above 70 ml/min who were treatment-naïve
+The safety and efficacy of cobicistat with atazanavir in HIV-1 infected patients were evaluated in the randomised, double-blind, active-controlled phase 3 Study GS-US-216-0114 in HIV-1 infected patients with baseline estimated creatinine clearance above 70 ml/min who were treatment-naïve
 (n = 692).
 
 Patients were randomised in a 1:1 ratio to receive either atazanavir 300 mg + cobicistat 150 mg once daily or atazanavir 300 mg + ritonavir 100 mg once daily, each administered with a fixed background regimen containing tenofovir disoproxil fumarate 300 mg and emtricitabine 200 mg administered as a fixed-dose combination tablet.
@@ -47,9 +49,9 @@ Virologic response rate was evaluated in both treatment arms and virologic respo
 (< 50 HIV-1 RNA copies/ml).
 Viruses were known to be susceptible to atazanavir, emtricitabine and tenofovir disoproxil fumarate at baseline.
 
-Baseline characteristics and treatment outcomes at weeks 48 and 144 for study GS-US-216-0114 are presented in Tables 6 and 7, respectively.
+Baseline characteristics and treatment outcomes at weeks 48 and 144 for Study GS-US-216-0114 are presented in Tables 6 and 7, respectively.
 
-Table 6: Demographic and baseline disease characteristics of antiretroviral treatment-naïve HIV-1 infected adult subjects in study GS-US-216-0114
+Table 6: Demographic and baseline disease characteristics of antiretroviral treatment-naïve HIV-1 infected adult subjects in Study GS-US-216-0114
 
 |  |  | Atazanavir + |
 | --- | --- | --- |
@@ -79,7 +81,7 @@ Table 6: Demographic and baseline disease characteristics of antiretroviral trea
 | ≤ 200 cells/mm3 |  |  |
 
 a Plus background regimen of emtricitabine 200 mg and tenofovir disoproxil fumarate 300 mg fixed-dose combination
-Table 7: Virologic outcome of randomised treatment of study GS-US-216-0114 at weeks 48 and
+Table 7: Virologic outcome of randomised treatment of Study GS-US-216-0114 at weeks 48 and
 
 |  | Week 48a |  | Week 144b |  |
 | --- | --- | --- | --- | --- |
@@ -112,9 +114,9 @@ f Plus background regimen of emtricitabine 200 mg and tenofovir disoproxil fumar
 Atazanavir + cobicistat + emtricitabine and tenofovir disoproxil fumarate fixed-dose combination was non-inferior in achieving HIV-1 RNA < 50 copies/ml when compared to atazanavir + ritonavir
 + emtricitabine and tenofovir disoproxil fumarate fixed-dose combination.
 
-Changes in CD4+ cell counts through 48 and 144 weeks in study GS-US-216-0114 are presented in Table 8.
+Changes in CD4+ cell counts through 48 and 144 weeks in Study GS-US-216-0114 are presented in Table 8.
 
-Table 8: Changes in CD4+ cell counts through weeks 48 and 144 in study GS-US-216-0114
+Table 8: Changes in CD4+ cell counts through weeks 48 and 144 in Study GS-US-216-0114
 
 |  | Week 48 |  | Week 144 |  |
 | --- | --- | --- | --- | --- |
@@ -123,7 +125,7 @@ Table 8: Changes in CD4+ cell counts through weeks 48 and 144 in study GS-US-216
 
 a Plus background regimen of emtricitabine 200 mg and tenofovir disoproxil fumarate 300 mg fixed-dose combination b Missing = excluded analysis
 
-In an analysis of treatment-failure subjects in study GS-US-216-0114 through week 144, evaluable genotypic data from paired baseline and treatment-failure isolates were available for all 21 virologic failures in the cobicistat group.
+In an analysis of treatment-failure subjects in Study GS-US-216-0114 through week 144, evaluable genotypic data from paired baseline and treatment-failure isolates were available for all 21 virologic failures in the cobicistat group.
 Among the 21 patients, 3 developed the emtricitabine-associated resistance substitution M184V.
 No subject developed the tenofovir-associated resistance substitutions K65R or K70E, or any primary resistance substitution associated with protease inhibitors.
 In the ritonavir group, genotypic data was available for all 19 virologic failures.
@@ -131,4 +133,5 @@ Among the 19 patients,
 1 developed the emtricitabine-associated resistance substitution M184V with no tenofovir- or primary protease inhibitor-associated resistance substitutions.
 
 Paediatric population
+
 The European Medicines Agency has deferred the obligation to submit the results of studies with cobicistat in one or more subsets of the paediatric population in treatment of HIV-1 infection (see section 4.2 for information on paediatric use).

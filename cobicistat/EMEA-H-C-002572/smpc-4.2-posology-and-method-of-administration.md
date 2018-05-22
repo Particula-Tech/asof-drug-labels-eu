@@ -3,6 +3,7 @@
 Therapy should be initiated by a physician experienced in the management of HIV infection.
 
 Posology
+
 Tybost is used in combination with atazanavir or darunavir, therefore the atazanavir or darunavir Summary of Product Characteristics should be consulted.
 
 Tybost must be co-administered with atazanavir or darunavir, taken orally, once daily with food.
@@ -29,7 +30,7 @@ No dose adjustment of Tybost is required for patients with renal impairment, inc
 Cobicistat has not been studied in patients receiving dialysis, and, therefore, no recommendation can be made for these patients.
 
 Cobicistat has been shown to decrease estimated creatinine clearance due to inhibition of tubular secretion of creatinine.
-Tybost should not be initiated in patients with creatinine clearance less than 70 ml/min if any co-administered agent (e.g. emtricitabine, lamivudine, tenofovir disoproxil fumarate, or adefovir) requires dose adjustment based on creatinine clearance.
+Tybost should not be initiated in patients with creatinine clearance less than 70 ml/min if any co-administered agent (e.g. emtricitabine, lamivudine, tenofovir disoproxil, or adefovir) requires dose adjustment based on creatinine clearance.
 See sections 4.4, 4.8 and 5.2.
 
 Hepatic impairment
@@ -40,5 +41,6 @@ The safety and efficacy of cobicistat in children aged 0 to less than 18 years h
 No data are available.
 
 Method of administration
+
 Tybost should be taken orally, once daily with food (see section 5.2).
 The film-coated tablet should not be chewed or crushed.
