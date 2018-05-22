@@ -25,10 +25,10 @@ Dose reductions should be considered if the platelet count decreases below 100,0
 In PV, dose reductions should also be considered if haemoglobin decreases below 12 g/dl and is recommended if it decreases below 10 g/dl.
 
 If efficacy is considered insufficient and blood counts are adequate, doses may be increased by a maximum of 5 mg twice daily, up to the maximum dose of 25 mg twice daily.
+
 The starting dose should not be increased within the first four weeks of treatment and thereafter no more frequently than at 2-week intervals.
 
 The maximum dose of ruxolitinib is 25 mg twice daily.
-
 Dose adjustment with concomitant strong CYP3A4 inhibitors or fluconazole
 When ruxolitinib is administered with strong CYP3A4 inhibitors or dual inhibitors of CYP2C9 and CYP3A4 enzymes (e.g. fluconazole) the unit dose of ruxolitinib should be reduced by approximately 50%, to be administered twice daily (see section 4.5).
 Avoid the concomitant use of ruxolitinib with fluconazole doses greater than 200 mg daily.
@@ -62,10 +62,10 @@ Ruxolitinib dose can be titrated to reduce the risk of cytopenia.
 
 Elderly patients (≥65 years)
 No additional dose adjustments are recommended for elderly patients.
+
 Paediatric population
 The safety and efficacy of Jakavi in children and adolescents aged up to 18 years have not been established.
 No data are available (see section 5.1).
-
 Treatment discontinuation
 Treatment may be continued as long as the benefit-risk remains positive.
 However the treatment should be discontinued after 6 months if there has been no reduction in spleen size or improvement in symptoms since initiation of therapy.

@@ -6,6 +6,7 @@ Mechanism of action
 
 Ruxolitinib is a selective inhibitor of the Janus Associated Kinases (JAKs) JAK1 and JAK2 (IC50 values of 3.3 nM and 2.8 nM for JAK1 and JAK2 enzymes, respectively).
 These mediate the signalling of a number of cytokines and growth factors that are important for haematopoiesis and immune function.
+
 MF and PV are myeloproliferative neoplasms known to be associated with dysregulated JAK1 and JAK2 signalling.
 The basis for the dysregulation is believed to include high levels of circulating cytokines that activate the JAK-STAT pathway, gain-of-function mutations such as JAK2V617F, and silencing of negative regulatory mechanisms.
 MF patients exhibit dysregulated JAK signalling regardless of JAK2V617F mutation status.
@@ -42,6 +43,7 @@ In the best available therapy arm, 47% of patients received hydroxyurea and 16% 
 The primary efficacy endpoint was proportion of patients achieving ≥35% reduction from baseline in spleen volume at week 48 as measured by MRI or CT.
 
 Secondary endpoints included proportion of patients achieving a ≥35% reduction of spleen volume from baseline at week 24 and duration of maintenance of a ≥35% reduction from baseline spleen volume.
+
 In COMFORT-I and COMFORT-II, patient baseline demographics and disease characteristics were comparable between the treatment arms.
 
 Table 2 Percentage of patients with ≥35% reduction from baseline in spleen volume at week 24 in COMFORT-I and at week 48 in COMFORT-II (ITT)
@@ -69,11 +71,11 @@ Table 3 Percentage of patients with ≥35% reduction from baseline in spleen vol
 | Time point | After 24 weeks |  |  |  | After 48 weeks |  |  |  |
 
 The probability of maintaining spleen response (≥35% reduction) on Jakavi for at least 24 weeks was 89% in COMFORT-I and 87% in COMFORT-II; 52% maintained spleen responses for at least 48 weeks in COMFORT-II.
-
 In COMFORT-I, 45.9% subjects in the Jakavi group achieved a ≥50% improvement from baseline in the week 24 total symptom score (measured using MFSAF diary v2.0), as compared to 5.3% in the placebo group (p<0.0001 using chi-square test).
 The mean change in the global health status at week 24, as measured by EORTC QLQ C30 was +12.3 for Jakavi and -3.4 for placebo (p<0.0001).
 
 In COMFORT-I, after a median follow-up of 34.3 months, the death rate in patients randomised to the ruxolitinib arm was 27.1% versus 35.1% in patients randomised to placebo; HR 0.687; 95% CI 0.459-1.029; p=0.0668.
+
 In COMFORT-I, after a median follow–up of 61.7 months, the death rate in patients randomised to the ruxolitinib arm was 44.5% (69 of 155 patients) versus 53.2% (82 of 154) in patients randomised to placebo.
 There was a 31% reduction in the risk of death in the ruxolitinib arm as compared to placebo (HR 0.69; 95% CI 0.50-0.96; p=0.025).
 
@@ -99,10 +101,10 @@ Comparative data regarding long-term survival and incidence of disease complicat
 The primary composite endpoint was the proportion of patients achieving both an absence of phlebotomy eligibility (HCT control) and a ≥35% reduction in spleen volume from baseline at week 32.
 Phlebotomy eligibility was defined as a confirmed HCT of >45%, i.e. at least 3 percentage points higher than the HCT obtained at baseline or a confirmed HCT of >48%, depending on which was lower.
 Key secondary endpoints included the proportion of patients who achieved the primary endpoint and remained free from progression at week 48, as well as the proportion of patients achieving complete haematological remission at week 32.
+
 The study met its primary objective and a higher proportion of patients in the Jakavi group achieved the primary composite endpoint and each of its individual components.
 Significantly more patients treated with Jakavi (23%) achieved a primary response (p<0.0001) compared to BAT (0.9%).
 Haematocrit control was achieved in 60% of patients in the Jakavi arm compared to 18.8% in the BAT arm and a ≥35% reduction in spleen volume was achieved in 40% of patients in the Jakavi arm compared to 0.9% in the BAT arm (Figure 1).
-
 Both key secondary endpoints were also met.
 The proportion of patients achieving a complete haematological remission was 23.6% on Jakavi compared to 8.0% on BAT (p=0.0013) and the proportion of patients achieving a durable primary response at week 48 was 20% on Jakavi and 0.9% on BAT (p<0.0001).
 
@@ -150,6 +152,7 @@ Of patients who achieved a primary response at week 32, 80% maintained their res
 A second randomised, open label, active-controlled phase 3b study (RESPONSE 2) was conducted in 149 PV patients who were resistant to, or intolerant of, hydroxyurea but without palpable splenomegaly.
 The primary endpoint defined as the proportion of patients achieving HCT control (absence of phlebotomy eligibility) at week 28 was met (62.2% in the Jakavi arm versus 18.7% in the BAT arm).
 The key secondary endpoint defined as the proportion of patients achieving complete haematological remission at week 28 was also met (23.0% in the Jakavi arm versus 5.3% in the BAT arm).
+
 Paediatric population
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Jakavi in all subsets of the paediatric population for the treatment of MF and PV (see section 4.2 for information on paediatric use).

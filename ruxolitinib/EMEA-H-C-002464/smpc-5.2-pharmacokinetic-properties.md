@@ -35,6 +35,7 @@ Unchanged parent substance accounted for less than 1% of the excreted total radi
 Linearity/non-linearity
 
 Dose proportionality was demonstrated in the single and multiple dose studies.
+
 Special populations
 
 Effects of age, gender or race
@@ -42,7 +43,6 @@ Based on studies in healthy subjects, no relevant differences in ruxolitinib pha
 In a population pharmacokinetic evaluation in MF patients, no relationship was apparent between oral clearance and patient age or race.
 The predicted oral clearance was 17.7 l/h in women and 22.1 l/h in men, with 39% inter-subject variability in MF patients.
 Clearance was 12.7 l/h in PV patients, with a 42% inter-subject variability and no relationship was apparent between oral clearance and gender, patient age or race, based on a population pharmacokinetic evaluation in PV patients.
-
 Paediatric population
 The safety and effectiveness of Jakavi in paediatric patients have not been established (see section 5.1, “Paediatric population”).
 

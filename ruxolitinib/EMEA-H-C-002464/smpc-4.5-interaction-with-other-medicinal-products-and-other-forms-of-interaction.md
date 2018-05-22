@@ -11,6 +11,7 @@ CYP3A4 inhibitors
 Strong CYP3A4 inhibitors (such as, but not limited to, boceprevir, clarithromycin, indinavir, itraconazole, ketoconazole, lopinavir/ritonavir, ritonavir, mibefradil, nefazodone, nelfinavir, posaconazole, saquinavir, telaprevir, telithromycin, voriconazole)
 In healthy subjects co-administration of ruxolitinib (10 mg single dose) with a strong CYP3A4 inhibitor, ketoconazole, resulted in ruxolitinib Cmax and AUC that were higher by 33% and 91%, respectively, than with ruxolitinib alone.
 The half-life was prolonged from 3.7 to 6.0 hours with concurrent ketoconazole administration.
+
 When administering ruxolitinib with strong CYP3A4 inhibitors the unit dose of ruxolitinib should be reduced by approximately 50%, to be administered twice daily.
 Patients should be closely monitored (e.g. twice weekly) for cytopenias and dose titrated based on safety and efficacy (see section 4.2).
 
@@ -49,6 +50,7 @@ It is possible that the potential inhibition of P-gp and BCRP in the intestine c
 Haematopoietic growth factors
 The concurrent use of haematopoietic growth factors and ruxolitinib has not been studied.
 It is not known whether the Janus Associated Kinase (JAK) inhibition by ruxolitinib reduces the efficacy of the haematopoietic growth factors or whether the haematopoietic growth factors affect the efficacy of ruxolitinib (see section 4.4).
+
 Cytoreductive therapies
 The concomitant use of cytoreductive therapies and ruxolitinib has not been studied.
 The safety and efficacy of this co-administration is not known (see section 4.4).

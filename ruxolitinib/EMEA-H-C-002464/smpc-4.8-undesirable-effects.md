@@ -12,7 +12,6 @@ Of 301 patients, 111 (36.9%) had a baseline platelet count of between 100,000/mm
 In these clinical studies, discontinuation due to adverse events, regardless of causality, was observed in 11.3% of patients.
 
 The most frequently reported adverse drug reactions were thrombocytopenia and anaemia.
-
 Haematological adverse drug reactions (any Common Terminology Criteria for Adverse Events [CTCAE] grade) included anaemia (82.4%), thrombocytopenia (69.8%) and neutropenia (16.6%).
 
 Anaemia, thrombocytopenia and neutropenia are dose-related effects.
@@ -36,6 +35,7 @@ Discontinuation due to adverse events, regardless of causality, was observed in 
 
 Haematological adverse reactions (any CTCAE grade) included anaemia (40.8%) and thrombocytopenia (16.8%).
 Anaemia or thrombocytopenia CTCAE grade 3 and 4 were reported in respectively 1.1% or 3.3%.
+
 The three most frequent non-haematological adverse reactions were dizziness (9.2%), constipation (8.7%) and hypertension (6.5%).
 
 The three most frequent non-haematological laboratory abnormalities (any CTCAE grade) identified as adverse reactions were raised aspartate aminotransferase (26.1%), raised alanine aminotransferase (22.3%) and hypercholesterolaemia (20.7%).
@@ -43,7 +43,6 @@ These were all CTCAE grade 1 and 2 with the exception of one CTCAE grade 3 raise
 
 Long-term safety was evaluated using data from two phase 3 studies including data from patients initially randomised to ruxolitinib (n=184; exposure 0.03 to 43.5 months, median exposure 18.9 months) and patients who received ruxolitinib after crossing over from control treatments (n=149; exposure: 0.2 to 33.5 months, median exposure 12.0 months): With longer exposure, the cumulative frequency of adverse events increased but no new safety findings emerged.
 When adjusted for exposure, the adverse events rates were generally comparable with those observed during the comparative periods of the randomised studies.
-
 Tabulated list of adverse drug reactions from clinical studies
 
 In the clinical study programme the severity of adverse drug reactions was assessed based on the CTCAE, defining grade 1 = mild, grade 2 = moderate, grade 3 = severe and grade 4=life-threatening.
@@ -74,15 +73,15 @@ Table 1 Frequency category of adverse drug reactions reported in the phase 3 stu
 | Neutropeniab |  |  |
 | CTCAEc grade 4 (<500/mm3) | Common | - |
 | CTCAEc grade 3 (<1,000 – 500/mm3) | Common | - |
+
 | Any CTCAEc grade | Very common | - |
+| --- | --- | --- |
 | Bleeding (any bleeding including intracranial, and gastrointestinal bleeding, bruising and other bleeding) | Very common | Very common |
 | Intracranial bleeding | Common | - |
 | Gastrointestinal bleeding | Common | - |
 | Bruising | Very common | Very common |
 | Other bleeding (including epistaxis, post-procedural haemorrhage and haematuria) | Common | Very common |
-
 | Metabolism and nutrition disorders |  |  |
-| --- | --- | --- |
 | Weight gaina | Very common | Common |
 | Hypercholesterolaemiab CTCAEc grade 1 and 2 | Very common | Very common |
 | Hypertriglyceridaemiab CTCAEc grade 1 | - | Very common |
@@ -104,7 +103,6 @@ Table 1 Frequency category of adverse drug reactions reported in the phase 3 stu
 
 Upon discontinuation, MF patients may experience a return of MF symptoms such as fatigue, bone pain, fever, pruritus, night sweats, symptomatic splenomegaly and weight loss.
 In clinical studies in MF the total symptom score for MF symptoms gradually returned to baseline value within 7 days after dose discontinuation (see section 4.4).
-
 Description of selected adverse drug reactions
 
 Anaemia
@@ -113,6 +111,7 @@ One patient (0.3%) discontinued treatment because of anaemia.
 
 In patients receiving ruxolitinib mean decreases in haemoglobin reached a nadir of approximately 10 g/litre below baseline after 8 to 12 weeks of therapy and then gradually recovered to reach a new steady state that was approximately 5 g/litre below baseline.
 This pattern was observed in patients regardless of whether they had received transfusion during therapy.
+
 In the randomised, placebo-controlled study COMFORT-I 60.6% of Jakavi-treated MF patients and 37.7% of placebo-treated MF patients received red blood cell transfusions during randomised treatment.
 In the COMFORT-II study the rate of packed red blood cell transfusions was 53.4% in the Jakavi arm and 41.1% in the best available therapy arm.
 

@@ -16,10 +16,10 @@ Dose modifications or interruption for patients developing anaemia may also be c
 
 Patients with a haemoglobin level below 10.0 g/dl at the beginning of the treatment have a higher risk of developing a haemoglobin level below 8.0 g/dl during treatment compared to patients with a higher baseline haemoglobin level (79.3% versus 30.1%).
 More frequent monitoring of haematology parameters and of clinical signs and symptoms of Jakavi-related adverse drug reactions is recommended for patients with baseline haemoglobin below 10.0 g/dl.
+
 Neutropenia (absolute neutrophil count <500) was generally reversible and was managed by temporarily withholding Jakavi (see sections 4.2 and 4.8).
 
 Complete blood counts should be monitored as clinically indicated and dose adjusted as required (see sections 4.2 and 4.8).
-
 Infections
 
 Serious bacterial, mycobacterial, fungal, viral and other opportunistic infections have occurred in patients treated with Jakavi.
@@ -58,6 +58,7 @@ Lipid abnormalities/elevations
 
 Treatment with Jakavi has been associated with increases in lipid parameters including total cholesterol, high-density lipoprotein (HDL) cholesterol, low-density lipoprotein (LDL) cholesterol, and triglycerides.
 Lipid monitoring and treatment of dyslipidaemia according to clinical guidelines is recommended.
+
 Special populations
 
 Renal impairment
