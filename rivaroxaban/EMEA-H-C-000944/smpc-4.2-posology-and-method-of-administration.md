@@ -13,7 +13,7 @@ Treatment with Xarelto should be started as soon as possible after stabilisation
 If a dose is missed the patient should continue with the regular dose as recommended at the next scheduled time.
 The dose should not be doubled to make up for a missed dose.
 Converting from Vitamin K Antagonists (VKA) to Xarelto
-When converting patients from VKAs to Xarelto, International Normalized Ratio (INR) values will be falsely elevated after the intake of Xarelto.
+When converting patients from VKAs to Xarelto, International Normalised Ratio (INR) values will be falsely elevated after the intake of Xarelto.
 The INR is not valid to measure the anticoagulant activity of Xarelto, and therefore should not be used (see section 4.5).
 
 Converting from Xarelto to Vitamin K antagonists (VKA)
@@ -57,8 +57,8 @@ No data are available.
 Therefore, Xarelto is not recommended for use in children below 18 years of age.
 
 Method of administration
-For oral use.
-Xarelto can be taken with or without food (see sections 4.5 and 5.2).
+Xarelto is for oral use.
+The tablets can be taken with or without food (see sections 4.5 and 5.2).
 
 For patients who are unable to swallow whole tablets, Xarelto tablet may be crushed and mixed with water or apple puree immediately prior to use and administered orally.
 The crushed Xarelto tablet may also be given through gastric tubes after confirmation of the correct gastric placement of the tube.
@@ -87,13 +87,13 @@ In patients in whom the risk of recurrent DVT or PE is considered high, such as 
 
 The duration of therapy and dose selection should be individualised after careful assessment of the treatment benefit against the risk for bleeding (see section 4.4).
 
-|  | Time Period | Dosing schedule | Total daily dose |
+|  | Time period | Dosing schedule | Total daily dose |
 | --- | --- | --- | --- |
 | Treatment and prevention of recurrent DVT and PE | Day 1-21 | 15 mg twice daily | 30 mg |
 |  | Day 22 onwards | 20 mg once daily | 20 mg |
 | Prevention of recurrent DVT and PE | Following completion of at least 6 months therapy for DVT or PE | 10 mg once daily or 20 mg once daily | 10 mg or 20 mg |
 
-To support the dose switch from 15 mg to 20 mg after Day 21 a first 4 weeks treatment initiation pack of Xarelto for treatment of DVT/PE is available (see section 6.5).
+To support the dose switch from 15 mg to 20 mg after Day 21 a first 4 weeks treatment initiation pack of Xarelto for treatment of DVT/PE is available.
 
 If a dose is missed during the 15 mg twice daily treatment phase (day 1 - 21), the patient should take Xarelto immediately to ensure intake of 30 mg Xarelto per day.
 In this case two 15 mg tablets may be taken at once.
@@ -104,15 +104,13 @@ The dose should not be doubled within the same day to make up for a missed dose.
 
 For patients treated for DVT, PE and prevention of recurrence, VKA treatment should be stopped and Xarelto therapy should be initiated once the INR is ≤ 2.5.
 
-- For the prevention of VTE in adult patients undergoing elective hip or knee replacement surgery, no dose adjustment is necessary in patients with mild renal impairment (creatinine clearance 50 - 80 ml/min) or moderate renal impairment (creatinine clearance 30 - 49 ml/min) (see section 5.2).
+- For the prevention of VTE in adult patients undergoing elective hip or knee replacement surgery, no dose adjustment is necessary in patients with mild renal impairment (creatinine clearance 50 - 80 ml/min) or moderate renal impairment (creatinine clearance 30- 49 ml/min) (see section 5.2).
 - For the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE, no dose adjustment from the recommended dose is necessary in patients with mild renal impairment (creatinine clearance 50 - 80 ml/min) (see section 5.2).
 
 In patients with moderate (creatinine clearance 30 - 49 ml/min) or severe (creatinine clearance 15 - 29 ml/min) renal impairment: patients should be treated with 15 mg twice daily for the first 3 weeks.
 Thereafter, when the recommended dose is 20 mg once daily, a reduction of the dose from 20 mg once daily to 15 mg once daily should be considered if the patient’s assessed risk for bleeding outweighs the risk for recurrent DVT and PE.
 The recommendation for the use of 15 mg is based on PK modelling and has not been studied in this clinical setting (see sections 4.4, 5.1 and 5.2).
 When the recommended dose is 10 mg once daily, no dose adjustment from the recommended dose is necessary.
-
-Xarelto 10 mg tablets can be taken with or without food (see sections 4.5 and 5.2).
 
 [Xarelto 15 mg film-coated tablets]
 
@@ -123,11 +121,11 @@ Therapy with Xarelto should be continued long term provided the benefit of preve
 
 If a dose is missed the patient should take Xarelto immediately and continue on the following day with the once daily intake as recommended.
 
-For patients treated for prevention of stroke and systemic embolism, VKA treatment should be stopped and Xarelto therapy should be initiated when the International Normalized Ratio (INR) is
+For patients treated for prevention of stroke and systemic embolism, VKA treatment should be stopped and Xarelto therapy should be initiated when the International Normalised Ratio (INR) is
 ≤ 3.0.
 When converting patients from VKAs to Xarelto, INR values will be falsely elevated after the intake of Xarelto.
 
-In patients with moderate (creatinine clearance 30 - 49 ml/min) or severe (creatinine clearance 15 - 29 ml/min) renal impairment the following dosage recommendations apply:
+In patients with moderate (creatinine clearance 30 - 49 ml/min) or severe (creatinine clearance 15-29 ml/min) renal impairment the following dose recommendations apply:
 
 - For the prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation, the recommended dose is 15 mg once daily (see section 5.2).
 - For the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE: patients should be treated with 15 mg twice daily for the first 3 weeks.
@@ -141,9 +139,9 @@ For all patients, confirmation should be sought prior to cardioversion that the 
 Decisions on initiation and duration of treatment should take established guideline recommendations for anticoagulant treatment in patients undergoing cardioversion into account.
 
 Patients with non-valvular atrial fibrillation who undergo PCI (percutaneous coronary intervention) with stent placement
-There is limited experience of a reduced dose of 15 mg Xarelto once daily (or 10 mg Xarelto once daily for patients with moderate renal impairment [creatinine clearance 30 – 49 ml/min]) in addition to a P2Y12 inhibitor for a maximum of 12 months in patients with non-valvular atrial fibrillation who require oral anticoagulation and undergo PCI with stent placement (see sections 4.4 and 5.1).
+There is limited experience of a reduced dose of 15 mg Xarelto once daily (or 10 mg Xarelto once daily for patients with moderate renal impairment [creatinine clearance 30 - 49 ml/min]) in addition to a P2Y12 inhibitor for a maximum of 12 months in patients with non-valvular atrial fibrillation who require oral anticoagulation and undergo PCI with stent placement (see sections 4.4 and 5.1).
 
-Xarelto 15 mg tablets are to be taken with food (see section 5.2).
+The tablets are to be taken with food (see section 5.2).
 
 After the administration of crushed Xarelto 15 mg or 20 mg film-coated tablets, the dose should be immediately followed by food.
 The crushed tablet should be administered in a small amount of water via a gastric tube after which it should be flushed with water.
@@ -151,15 +149,13 @@ After the administration of crushed Xarelto 15 mg or 20 mg film-coated tablets, 
 
 [Xarelto 20 mg film-coated tablets]
 
-- For the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE: patients should be treated with 15 mg twice daily for the first 3 weeks.Thereafter, when the recommended dose is 20 mg once daily, a reduction of the dose from 20 mg once daily to 15 mg once daily should be considered if the patient’s assessed risk for bleeding outweighs the risk for recurrent DVT and PE.
-
-Xarelto 20 mg tablets are to be taken with food (see section 5.2).
+(all sentences already above)
 
 [Xarelto 15 mg film-coated tablets (SmPC 5)]
 
 The 4-week treatment initiation pack of Xarelto is dedicated to patients who will transition from 15 mg twice daily to 20 mg once daily from Day 22 onwards (see section 6.5).
-For patients with moderate or severe renal impairment where the decision has been taken for 15 mg once daily from Day 22 onwards, other presentations only containing 15 mg film-coated tablets are available (see dosing instructions in section Special populations below).
+For patients with moderate or severe renal impairment where the decision has been taken for 15 mg once daily from Day 22 onwards, other pack sizes only containing 15 mg film-coated tablets are available (see dosing instructions in section “Special populations” below).
+
+For patients treated for DVT, PE and prevention of recurrence, VKA treatment should be stopped and Xarelto therapy should be initiated once the International Normalised Ratio (INR) is ≤ 2.5.
 
 - For the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE, patients should be treated with 15 mg twice daily for the first 3 weeks.
-
-Xarelto 15 mg and 20 mg tablets are to be taken with food (see section 5.2).

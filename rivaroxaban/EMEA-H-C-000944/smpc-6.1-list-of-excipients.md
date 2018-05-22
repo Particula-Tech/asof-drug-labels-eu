@@ -1,14 +1,14 @@
 # 6.1 List of excipients
 
-Tablet core:
+Tablet core
 Microcrystalline cellulose
 Croscarmellose sodium
 Lactose monohydrate
 Hypromellose
-Sodium laurilsulfate
+Sodium laurilsulphate
 Magnesium stearate
 
-Film-coat:
+Film-coat
 Macrogol 3350
 Hypromellose
 Titanium dioxide (E 171)

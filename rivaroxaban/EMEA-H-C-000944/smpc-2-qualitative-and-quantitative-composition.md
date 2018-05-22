@@ -2,7 +2,7 @@
 
 Each film-coated tablet contains 2.5 mg rivaroxaban.
 
-Excipient with known effect:
+Excipient with known effect
 Each film-coated tablet contains 33.92 mg lactose (as monohydrate), see section 4.4.
 
 For the full list of excipients, see section 6.1.

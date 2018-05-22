@@ -1,7 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
-Efficacy and safety of Xarelto has been investigated in combination with the antiplatelet agents aspirin and clopidogrel/ticlopidine.
-Treatment in combination with other antiplatelet agents, e.g. prasugrel or ticagrelor, has not been studied and is not recommended.
+Efficacy and safety of Xarelto has been investigated in combination with the antiplatelet substances ASA and clopidogrel/ticlopidine.
+Treatment in combination with other antiplatelet substances, e.g. prasugrel or ticagrelor, has not been studied and is not recommended.
 
 Clinical surveillance in line with anticoagulation practice is recommended throughout the treatment period.
 
@@ -17,7 +17,7 @@ Several sub-groups of patients, as detailed below, are at increased risk of blee
 Therefore, the use of Xarelto in combination with dual antiplatelet therapy in patients at known increased risk for bleeding should be balanced against the benefit in terms of prevention of atherothrombotic events.
 In addition these patients are to be carefully monitored for signs and symptoms of bleeding complications and anaemia after initiation of treatment (see section 4.8).
 Any unexplained fall in haemoglobin or blood pressure should lead to a search for a bleeding site.
-Although treatment with rivaroxaban does not require routine monitoring of exposure, rivaroxaban levels measured with a calibrated quantitative anti-factor Xa assay may be useful in exceptional situations where knowledge of rivaroxaban exposure may help to inform clinical decisions, e.g., overdose and emergency surgery (see sections 5.1 and 5.2).
+Although treatment with rivaroxaban does not require routine monitoring of exposure, rivaroxaban levels measured with a calibrated quantitative anti-factor Xa assay may be useful in exceptional situations where knowledge of rivaroxaban exposure may help to inform clinical decisions, e.g. overdose and emergency surgery (see sections 5.1 and 5.2).
 
 Renal impairment
 In patients with severe renal impairment (creatinine clearance < 30 ml/min) rivaroxaban plasma levels may be significantly increased (1.6 fold on average) which may lead to an increased bleeding risk.
@@ -77,13 +77,13 @@ Elderly population
 Increasing age may increase haemorrhagic risk (see section 5.2).
 
 Dermatological reactions
-Serious skin reactions, including Stevens-Johnson syndrome/Toxic Epidermal Necrolysis, have been reported during post-marketing surveillance in association with the use of rivaroxaban (see section 4.8).
+Serious skin reactions, including Stevens-Johnson syndrome/toxic epidermal necrolysis, have been reported during post-marketing surveillance in association with the use of rivaroxaban (see section 4.8).
 Patients appear to be at highest risk for these reactions early in the course of therapy: the onset of the reaction occurring in the majority of cases within the first weeks of treatment.
 Rivaroxaban should be discontinued at the first appearance of a severe skin rash (e.g. spreading, intense and/or blistering), or any other sign of hypersensitivity in conjunction with mucosal lesions.
 
 Information about excipients
 Xarelto contains lactose.
-Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
 [Xarelto 10 mg film-coated tablets]
 
@@ -91,8 +91,6 @@ In the clinical studies mucosal bleedings (i.e. epistaxis, gingival, gastrointes
 
 These patients are to be carefully monitored for signs and symptoms of bleeding complications and anaemia after initiation of treatment (see section 4.8).
 In patients receiving Xarelto for VTE prevention following elective hip or knee replacement surgery, this may be done by regular physical examination of the patients, close observation of the surgical wound drainage and periodic measurements of haemoglobin.
-
-In patients with severe renal impairment (creatinine clearance < 30 ml/min) rivaroxaban plasma levels may be significantly increased (1.6-fold on average) which may lead to an increased bleeding risk.
 
 Care is to be taken if patients are treated concomitantly with medicinal products affecting haemostasis such as non-steroidal anti-inflammatory medicinal products (NSAIDs), acetylsalicylic acid (ASA) and platelet aggregation inhibitors or selective serotonin reuptake inhibitors (SSRIs), and serotonin norepinephrine reuptake inhibitors (SNRIs).
 
@@ -118,7 +116,7 @@ Care is to be taken if patients are treated concomitantly with medicinal product
 Patients with non-valvular atrial fibrillation who undergo PCI with stent placement
 Clinical data are available from an interventional study with the primary objective to assess safety in patients with non-valvular atrial fibrillation who undergo PCI with stent placement.
 Data on efficacy in this population are limited (see sections 4.2 and 5.1).
-No data are available for such patients with a history of stroke/TIA.
+No data are available for such patients with a history of stroke/ transient ischaemic attack (TIA).
 
 There is no clinical experience with the use of 15 mg rivaroxaban in these situations.
 Placement or removal of an epidural catheter or lumbar puncture is best performed when the anticoagulant effect of rivaroxaban is estimated to be low.
@@ -128,6 +126,8 @@ If an invasive procedure or surgical intervention is required, Xarelto 15 mg sho
 
 [Xarelto 20 mg film-coated tablets]
 
+No data are available for such patients with a history of stroke/TIA.
+
 There is no clinical experience with the use of 20 mg rivaroxaban in these situations.
 
 If an invasive procedure or surgical intervention is required, Xarelto 20 mg should be stopped at least 24 hours before the intervention, if possible and based on the clinical judgement of the physician.
@@ -135,4 +135,5 @@ If an invasive procedure or surgical intervention is required, Xarelto 20 mg sho
 [Xarelto 15 mg film-coated tablets (SmPC 5)]
 
 There is no clinical experience with the use of 15 mg or 20 mg rivaroxaban in these situations.
+
 If an invasive procedure or surgical intervention is required, Xarelto 15 mg/ Xarelto 20 mg should be stopped at least 24 hours before the intervention, if possible and based on the clinical judgement of the physician.
