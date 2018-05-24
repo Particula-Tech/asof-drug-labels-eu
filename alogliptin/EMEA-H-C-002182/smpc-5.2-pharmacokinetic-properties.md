@@ -18,13 +18,13 @@ The inter-subject coefficient of variation for alogliptin AUC was small (17%).
 
 Distribution
 
-Following a single intravenous dose of 12.5 mg alogliptin to healthy subjects, the volume of distribution during the terminal phase was 417 L indicating that the drug is well distributed into tissues.
+Following a single intravenous dose of 12.5 mg alogliptin to healthy subjects, the volume of distribution during the terminal phase was 417 L indicating that the active substance is well distributed into tissues.
 
 Alogliptin is 20-30% bound to plasma proteins.
 
 Biotransformation
 
-Alogliptin does not undergo extensive metabolism, 60-70% of the dose is excreted as unchanged drug in the urine.
+Alogliptin does not undergo extensive metabolism, 60-70% of the dose is excreted as unchanged active substance in the urine.
 
 Two minor metabolites were detected following administration of an oral dose of [14C] alogliptin, N-demethylated alogliptin, M-I (< 1% of the parent compound), and N-acetylated alogliptin, M-II
 (< 6% of the parent compound).
@@ -54,15 +54,14 @@ This indicates no time-dependency in the kinetics of alogliptin after multiple d
 Special populations
 
 Renal impairment
-A single-dose of 50 mg alogliptin was administered to 4 groups of patients with varying degrees of renal impairment (creatinine clearance (CrCl) using the Cockcroft-Gault formula):
-mild (CrCl = > 50 to ≤ 80 mL/min), moderate (CrCl = ≥ 30 to ≤ 50 mL/min), severe (CrCl = < 30 mL/min) and end-stage renal disease on haemodialysis.
+A single-dose of 50 mg alogliptin was administered to 4 groups of patients with varying degrees of renal impairment (CrCl using the Cockcroft-Gault formula): mild (CrCl = > 50 to ≤ 80 mL/min), moderate (CrCl = ≥ 30 to ≤ 50 mL/min), severe (CrCl = < 30 mL/min) and end-stage renal disease on haemodialysis.
 
 An approximate 1.7-fold increase in AUC for alogliptin was observed in patients with mild renal impairment.
 However, as the distribution of AUC values for alogliptin in these patients was within the same range as control subjects, no dose adjustment for patients with mild renal impairment is necessary (see section 4.2).
 
 In patients with moderate or severe renal impairment, or end-stage renal disease on haemodialysis, an increase in systemic exposure to alogliptin of approximately 2- and 4-fold was observed, respectively.
 (Patients with end-stage renal disease underwent haemodialysis immediately after alogliptin dosing.
-Based on mean dialysate concentrations, approximately 7% of the drug was removed during a 3-hour haemodialysis session.)
+Based on mean dialysate concentrations, approximately 7% of the active substance was removed during a 3-hour haemodialysis session.)
 Therefore, in order to maintain systemic exposures to alogliptin that are similar to those observed in patients with normal renal function, lower doses of alogliptin should be used in patients with moderate or severe renal impairment, or end-stage renal disease requiring dialysis (see section 4.2).
 
 Hepatic impairment

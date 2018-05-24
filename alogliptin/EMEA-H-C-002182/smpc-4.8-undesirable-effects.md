@@ -10,33 +10,25 @@ In a pooled analysis of the data from 13 studies, the overall incidences of adve
 The most common adverse reaction in patients treated with 25 mg alogliptin was headache.
 
 The safety of alogliptin between the elderly (≥ 65 years old) and non-elderly (< 65 years old) was similar.
-
 Tabulated list of adverse reactions
 
 The adverse reactions are listed by system organ class and frequency.
 Frequencies are defined as very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from available data).
-In the pooled pivotal phase 3 controlled clinical trials of alogliptin as monotherapy and as add-on combination therapy involving 5,659 patients, the observed adverse reactions are listed below
+
+In the pooled pivotal phase 3 controlled clinical studies of alogliptin as monotherapy and as add-on combination therapy involving 5,659 patients, the observed adverse reactions are listed below
 (Table 1).
 
-| Table 1: Adverse reactions observed in pooled pivotal phase 3 controlled clinical studies |  |
+Table 1: Adverse reactions
+
+| System organ class Adverse reaction | Frequency of adverse reactions |
 | --- | --- |
-| System Organ Class Adverse reaction | Frequency of adverse reactions |
-| Infections and infestations Upper respiratory tract infections Nasopharyngitis | Common Common |
-| Nervous system disorders Headache | Common |
-| Gastrointestinal disorders Abdominal pain Gastroesophageal reflux disease | Common Common |
-| Skin and subcutaneous tissue disorders Pruritus Rash | Common Common |
-
-Post-marketing experience
-
-Table 2 shows additional adverse reactions which have been spontaneously reported post-marketing.
-
-| Table 2: Spontaneously reported alogliptin post-marketing adverse reactions |  |
-| --- | --- |
-| System Organ Class Adverse reaction | Frequency of adverse reactions |
-| Immune system disorders Hypersensitivity | Not known |
-| Gastrointestinal disorders Acute pancreatitis | Not known |
-| Hepatobiliary disorders Hepatic dysfunction including hepatic failure | Not known |
-| Skin and subcutaneous tissue disorders Exfoliative skin conditions including Stevens-Johnson syndrome Angioedema Urticaria | Not known Not known Not known |
+| Infections and infestations upper respiratory tract infections nasopharyngitis | common common |
+| Immune system disorders hypersensitivity | not known |
+| Metabolism and nutrition disorders hypoglycaemia | common |
+| Nervous system disorders headache | common |
+| Gastrointestinal disorders abdominal pain gastroesophageal reflux disease diarrhoea acute pancreatitis | common common common not known |
+| Hepatobiliary disorders hepatic dysfunction including hepatic failure | not known |
+| Skin and subcutaneous tissue disorders pruritus rash exfoliative skin conditions including Stevens-Johnson syndrome erythema multiforme angioedema urticaria | common common not known not known not known not known |
 
 Reporting of suspected adverse reactions
 

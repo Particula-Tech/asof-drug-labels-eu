@@ -7,11 +7,11 @@ Vipidia is not a substitute for insulin in insulin-requiring patients.
 
 Use with other antihyperglycaemic medicinal products and hypoglycaemia
 
-Due to the increased risk of hypoglycaemia in combination with a sulphonylurea, insulin or combination therapy with thiazolidinedione plus metformin, a lower dose of these medications may be considered to reduce the risk of hypoglycaemia when these medicinal products are used in combination with alogliptin (see section 4.2).
+Due to the increased risk of hypoglycaemia in combination with a sulphonylurea, insulin or combination therapy with thiazolidinedione plus metformin, a lower dose of these medicinal products may be considered to reduce the risk of hypoglycaemia when these medicinal products are used in combination with alogliptin (see section 4.2).
 
 Combinations not studied
 
-Alogliptin has not been studied in combination with sodium glucose cotransporter 2 (SGLT-2) inhibitors or glucagon like peptide 1 (GLP-1) analogues nor formally as triple therapy with metformin and a sulphonylurea.
+Alogliptin has not been studied in combination with sodium glucose co-transporter 2 (SGLT-2) inhibitors or glucagon like peptide 1 (GLP-1) analogues nor formally as triple therapy with metformin and a sulphonylurea.
 
 Renal impairment
 
@@ -26,13 +26,12 @@ Alogliptin has not been studied in patients with severe hepatic impairment (Chil
 
 Cardiac failure
 
-Experience of alogliptin use in clinical trials in patients with congestive heart failure of New York Heart Association (NYHA) functional class III and IV is limited and caution is warranted in these patients.
+Experience of alogliptin use in clinical studies in patients with congestive heart failure of New York Heart Association (NYHA) functional class III and IV is limited and caution is warranted in these patients.
 
 Hypersensitivity reactions
 
-Hypersensitivity reactions, including anaphylactic reactions, angioedema and exfoliative skin conditions including Stevens-Johnson syndrome have been observed for DPP-4 inhibitors and have been spontaneously reported for alogliptin in the post-marketing setting.
+Hypersensitivity reactions, including anaphylactic reactions, angioedema and exfoliative skin conditions including Stevens-Johnson syndrome and erythema multiforme have been observed for DPP-4 inhibitors and have been spontaneously reported for alogliptin in the post-marketing setting.
 In clinical studies of alogliptin, anaphylactic reactions were reported with a low incidence.
-
 Acute pancreatitis
 
 Use of DPP-4 inhibitors has been associated with a risk of developing acute pancreatitis.

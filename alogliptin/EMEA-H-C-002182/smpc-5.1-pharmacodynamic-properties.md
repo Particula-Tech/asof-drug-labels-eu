@@ -28,6 +28,7 @@ A total of 14,779 patients with type 2 diabetes mellitus, including 6,448 patien
 In these studies, 2,257 alogliptin-treated patients were ≥ 65 years old and 386 alogliptin-treated patients were
 ≥ 75 years old.
 The studies included 5,744 patients with mild renal impairment, 1,290 patients with moderate renal impairment and 82 patients with severe renal impairment / end-stage renal disease treated with alogliptin.
+
 Overall, treatment with the recommended daily dose of 25 mg alogliptin improved glycaemic control when given as monotherapy and as initial or add-on combination therapy.
 This was determined by clinically relevant and statistically significant reductions in glycosylated haemoglobin (HbA1c) and fasting plasma glucose compared to control from baseline to study endpoint.
 Reductions in HbA1c were similar across different subgroups including renal impairment, age, gender and body mass index, while differences between races (e.g. White and non-White) were small.
@@ -36,42 +37,42 @@ Higher baseline HbA1c was associated with a greater reduction in HbA1c.
 Generally, the effects of alogliptin on body weight and lipids were neutral.
 
 Alogliptin as monotherapy
-Treatment with 25 mg alogliptin once daily resulted in statistically significant improvements from baseline in HbA1c and fasting plasma glucose compared to placebo-control at Week 26 (Table 3).
+Treatment with 25 mg alogliptin once daily resulted in statistically significant improvements from baseline in HbA1c and fasting plasma glucose compared to placebo-control at Week 26 (Table 2).
 
 Alogliptin as add-on therapy to metformin
-The addition of 25 mg alogliptin once daily to metformin hydrochloride therapy (mean dose = 1,847 mg) resulted in statistically significant improvements from baseline in HbA1c and fasting plasma glucose at Week 26 when compared to the addition of placebo (Table 3).
+The addition of 25 mg alogliptin once daily to metformin hydrochloride therapy (mean dose = 1,847 mg) resulted in statistically significant improvements from baseline in HbA1c and fasting plasma glucose at Week 26 when compared to the addition of placebo (Table 2).
 Significantly more patients receiving 25 mg alogliptin (44.4%) achieved target HbA1c levels of ≤ 7.0% compared to those receiving placebo (18.3%) at Week 26 (p<0.001).
 
 The addition of 25 mg alogliptin once daily to metformin hydrochloride therapy (mean dose = 1,835 mg) resulted in improvements from baseline in HbA1c at Week 52 and Week 104.
-At Week 52, the HbA1c reduction by 25 mg alogliptin plus metformin (-0.76%, Table 4) was similar to that produced by glipizide (mean dose = 5.2 mg) plus metformin hydrochloride therapy (mean dose = 1,824 mg, -0.73%).
-At Week 104, the HbA1c reduction by 25 mg alogliptin plus metformin (- 0.72%, Table 4) was greater than that produced by glipizide plus metformin (-0.59%).
+At Week 52, the HbA1c reduction by 25 mg alogliptin plus metformin (-0.76%, Table 3) was similar to that produced by glipizide (mean dose = 5.2 mg) plus metformin hydrochloride therapy (mean dose = 1,824 mg, -0.73%).
+At Week 104, the HbA1c reduction by 25 mg alogliptin plus metformin (-0.72%, Table 3) was greater than that produced by glipizide plus metformin (-0.59%).
 Mean change from baseline in fasting plasma glucose at Week 52 for 25 mg alogliptin and metformin was significantly greater than that for glipizide and metformin (p<0.001).
 By Week 104, mean change from baseline in fasting plasma glucose for 25 mg alogliptin and metformin was -3.2 mg/dL compared with 5.4 mg/dL for glipizide and metformin.
 More patients receiving 25 mg alogliptin and metformin (48.5%) achieved target HbA1c levels of ≤ 7.0% compared to those receiving glipizide and metformin (42.8%) (p=0.004).
 
 Alogliptin as add-on therapy to a sulphonylurea
-The addition of 25 mg alogliptin once daily to glyburide therapy (mean dose = 12.2 mg) resulted in statistically significant improvements from baseline in HbA1c at Week 26 when compared to the addition of placebo (Table 3).
+The addition of 25 mg alogliptin once daily to glyburide therapy (mean dose = 12.2 mg) resulted in statistically significant improvements from baseline in HbA1c at Week 26 when compared to the addition of placebo (Table 2).
 Mean change from baseline in fasting plasma glucose at Week 26 for 25 mg alogliptin showed a reduction of 8.4 mg/dL compared to an increase of 2.2 mg/dL with placebo.
 Significantly more patients receiving 25 mg alogliptin (34.8%) achieved target HbA1c levels of
 ≤ 7.0% compared to those receiving placebo (18.2%) at Week 26 (p=0.002).
 
 Alogliptin as add-on therapy to a thiazolidinedione
-The addition of 25 mg alogliptin once daily to pioglitazone therapy (mean dose = 35.0 mg, with or without metformin or a sulphonylurea) resulted in statistically significant improvements from baseline in HbA1c and fasting plasma glucose at Week 26 when compared to the addition of placebo (Table 3).
+The addition of 25 mg alogliptin once daily to pioglitazone therapy (mean dose = 35.0 mg, with or without metformin or a sulphonylurea) resulted in statistically significant improvements from baseline in HbA1c and fasting plasma glucose at Week 26 when compared to the addition of placebo (Table 2).
 Clinically meaningful reductions in HbA1c compared to placebo were also observed with 25 mg alogliptin regardless of whether patients were receiving concomitant metformin or sulphonylurea therapy.
 Significantly more patients receiving 25 mg alogliptin (49.2%) achieved target HbA1c levels of ≤ 7.0% compared to those receiving placebo (34.0%) at Week 26 (p=0.004).
 
 Alogliptin as add-on therapy to a thiazolidinedione with metformin
-The addition of 25 mg alogliptin once daily to 30 mg pioglitazone and metformin hydrochloride therapy (mean dose = 1,867.9 mg) resulted in improvements from baseline in HbA1c at Week 52 that were both non-inferior and statistically superior to those produced by 45 mg pioglitazone and metformin hydrochloride therapy (mean dose = 1,847.6 mg, Table 4).
+The addition of 25 mg alogliptin once daily to 30 mg pioglitazone and metformin hydrochloride therapy (mean dose = 1,867.9 mg) resulted in improvements from baseline in HbA1c at Week 52 that were both non-inferior and statistically superior to those produced by 45 mg pioglitazone and metformin hydrochloride therapy (mean dose = 1,847.6 mg, Table 3).
 The significant reductions in HbA1c observed with 25 mg alogliptin plus 30 mg pioglitazone and metformin were consistent over the entire 52-week treatment period compared to 45 mg pioglitazone and metformin (p<0.001 at all time points).
 In addition, mean change from baseline in fasting plasma glucose at Week 52 for 25 mg alogliptin plus 30 mg pioglitazone and metformin was significantly greater than that for 45 mg pioglitazone and metformin (p<0.001).
 Significantly more patients receiving 25 mg alogliptin plus 30 mg pioglitazone and metformin (33.2%) achieved target HbA1c levels of ≤ 7.0% compared to those receiving 45 mg pioglitazone and metformin (21.3%) at Week 52 (p<0.001).
 
 Alogliptin as add-on therapy to insulin (with or without metformin)
-The addition of 25 mg alogliptin once daily to insulin therapy (mean dose = 56.5 IU, with or without metformin) resulted in statistically significant improvements from baseline in HbA1c and fasting plasma glucose at Week 26 when compared to the addition of placebo (Table 3).
+The addition of 25 mg alogliptin once daily to insulin therapy (mean dose = 56.5 IU, with or without metformin) resulted in statistically significant improvements from baseline in HbA1c and fasting plasma glucose at Week 26 when compared to the addition of placebo (Table 2).
 Clinically meaningful reductions in HbA1c compared to placebo were also observed with 25 mg alogliptin regardless of whether patients were receiving concomitant metformin therapy.
 More patients receiving 25 mg alogliptin (7.8%) achieved target HbA1c levels of ≤ 7.0% compared to those receiving placebo (0.8%) at Week 26.
 
-| Table 3: Change in HbA1c (%) from baseline with alogliptin 25 mg at Week 26 by placebo-controlled study (FAS, LOCF) |  |  |  |
+| Table 2: Change in HbA1c (%) from baseline with alogliptin 25 mg at Week 26 by placebo-controlled study (FAS, LOCF) |  |  |  |
 | --- | --- | --- | --- |
 | Study | Mean baseline HbA1c (%) (SD) | Mean change from baseline in HbA1c (%)† (SE) | Placebo-corrected change from baseline in HbA1c (%)† (2-sided 95% CI) |
 | Monotherapy placebo-controlled study |  |  |  |
@@ -82,7 +83,7 @@ More patients receiving 25 mg alogliptin (7.8%) achieved target HbA1c levels of 
 | Alogliptin 25 mg once daily with a thiazolidinedione ± metformin or a sulphonylurea (n=195) | 8.01 (0.837) | -0.80 (0.056) | -0.61* (-0.80, -0.41) |
 | Alogliptin 25 mg once daily with insulin + metformin (n=126) | 9.27 (1.127) | -0.71 (0.078) | -0.59* (-0.80, -0.37) |
 | FAS = full analysis set LOCF = last observation carried forward † Least squares means adjusted for prior antihyperglycaemic therapy status and baseline values * p<0.001 compared to placebo or placebo+combination treatment |  |  |  |
-| Table 4: Change in HbA1c (%) from baseline with alogliptin 25 mg by active-controlled study (PPS, LOCF) |  |  |  |
+| Table 3: Change in HbA1c (%) from baseline with alogliptin 25 mg by active-controlled study (PPS, LOCF) |  |  |  |
 | Study | Mean baseline HbA1c (%) (SD) | Mean change from baseline in HbA1c (%)† (SE) | Treatment-corrected change from baseline in HbA1c (%)† (1-sided CI) |
 | Add-on combination therapy studies |  |  |  |
 | Alogliptin 25 mg once daily with metformin vs a sulphonylurea + metformin Change at Week 52 (n=382) Change at Week 104 (n=382) | 7.61 (0.526) 7.61 (0.526) | -0.76 (0.027) -0.72 (0.037) | -0.03 (-infinity, 0.059) -0.13* (-infinity, -0.006) |
@@ -102,13 +103,13 @@ Clinical safety
 Cardiovascular Safety
 In a pooled analysis of the data from 13 studies, the overall incidences of cardiovascular death, non fatal myocardial infarction and non-fatal stroke were comparable in patients treated with 25 mg alogliptin, active control or placebo.
 
-In addition, a prospective randomized cardiovascular outcomes safety study was conducted with 5,380 patients with high underlying cardiovascular risk to examine the effect of alogliptin compared with placebo (when added to standard of care) on major adverse cardiovascular events (MACE) including time to the first occurrence of any event in the composite of cardiovascular death, nonfatal myocardial infarction and nonfatal stroke in patients with a recent (15 to 90 days) acute coronary event.
+In addition, a prospective randomised cardiovascular outcomes safety study was conducted with 5,380 patients with high underlying cardiovascular risk to examine the effect of alogliptin compared with placebo (when added to standard of care) on major adverse cardiovascular events (MACE) including time to the first occurrence of any event in the composite of cardiovascular death, nonfatal myocardial infarction and nonfatal stroke in patients with a recent (15 to 90 days) acute coronary event.
 At baseline, patients had a mean age of 61 years, mean duration of diabetes of 9.2 years, and mean HbA1c of 8.0%.
 
 The study demonstrated that alogliptin did not increase the risk of having a MACE compared to placebo [Hazard Ratio: 0.96; 1-sided 99% Confidence Interval: 0-1.16].
 In the alogliptin group, 11.3% of patients experienced a MACE compared to 11.8% of patients in the placebo group.
 
-| Table 5. MACE Reported in cardiovascular outcomes study |  |  |
+| Table 4. MACE Reported in cardiovascular outcomes study |  |  |
 | --- | --- | --- |
 |  | Number of Patients (%) |  |
 |  | Alogliptin 25 mg | Placebo |
@@ -126,9 +127,9 @@ Hypoglycaemia
 In a pooled analysis of the data from 12 studies, the overall incidence of any episode of hypoglycaemia was lower in patients treated with 25 mg alogliptin than in patients treated with 12.5 mg alogliptin, active control or placebo (3.6%, 4.6%, 12.9% and 6.2%, respectively).
 The majority of these episodes were mild to moderate in intensity.
 The overall incidence of episodes of severe hypoglycaemia was comparable in patients treated with 25 mg alogliptin or 12.5 mg alogliptin, and lower than the incidence in patients treated with active control or placebo (0.1%, 0.1%, 0.4% and 0.4%, respectively).
-In the prospective randomized controlled cardiovascular outcomes study, investigator reported events of hypoglycemia were similar in patients receiving placebo (6.5%) and patients receiving alogliptin (6.7%) in addition to standard of care.
+In the prospective randomised controlled cardiovascular outcomes study, investigator reported events of hypoglycemia were similar in patients receiving placebo (6.5%) and patients receiving alogliptin (6.7%) in addition to standard of care.
 
-In a clinical trial of alogliptin as mono-therapy, the incidence of hypoglycaemia was similar to that of placebo, and lower than placebo in another trial as add-on to a sulphonylurea.
+In a clinical study of alogliptin as mono-therapy, the incidence of hypoglycaemia was similar to that of placebo, and lower than placebo in another study as add-on to a sulphonylurea.
 Higher rates of hypoglycaemia were observed with triple therapy with thiazolidinedione and metformin and in combination with insulin, as observed with other DPP-4 inhibitors.
 
 Patients (≥ 65 years old) with type 2 diabetes mellitus are considered more susceptible to episodes of hypoglycaemia than patients < 65 years old.
@@ -137,29 +138,3 @@ In a pooled analysis of the data from 12 studies, the overall incidence of any e
 Paediatric population
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Vipidia in one or more subsets of the paediatric population in the treatment of type 2 diabetes mellitus (see section 4.2 for information on paediatric use).
-
-[Vipidia 12.5 mg film-coated tablets]
-
-| Table 3: Change in HbA1c (%) from baseline with alogliptin 25 mg at Week 26 by placebo-controlled study (FAS, LOCF) |  |  |  |
-| --- | --- | --- | --- |
-| Study | Mean baseline HbA1c (%) (SD) | Mean change from baseline in HbA1c (%)† (SE) | Placebo-corrected change from baseline in HbA1c (%)† (2-sided 95% CI) |
-| Monotherapy placebo-controlled study |  |  |  |
-| Alogliptin 25 mg once daily (n=128) | 7.91 (0.788) | -0.59 (0.066) | -0.57* (-0.80, -0.35) |
-| Add-on combination therapy placebo-controlled studies |  |  |  |
-| Alogliptin 25 mg once daily with metformin (n=203) | 7.93 (0.799) | -0.59 (0.054) | -0.48* (-0.67, -0.30) |
-| Alogliptin 25 mg once daily with a sulphonylurea (n=197) | 8.09 (0.898) | -0.52 (0.058) | -0.53* (-0.73, -0.33) |
-| Alogliptin 25 mg once daily with a thiazolidinedione ± metformin or a sulphonylurea (n=195) | 8.01 (0.837) | -0.80 (0.056) | -0.61* (-0.80, -0.41) |
-| Alogliptin 25 mg once daily with insulin + metformin (n=126) | 9.27 (1.127) | -0.71 (0.078) | -0.59* (-0.80, -0.37) |
-| FAS = full analysis set LOCF = last observation carried forward † Least squares means adjusted for prior antihyperglycaemic therapy status and baseline values * p<0.001 compared to placebo or placebo+combination treatment |  |  |  |
-
-| Table 4: Change in HbA1c (%) from baseline with alogliptin 25 mg by active-controlled study (PPS, LOCF) |  |  |  |
-| --- | --- | --- | --- |
-| Study | Mean baseline HbA1c (%) (SD) | Mean change from baseline in HbA1c (%)† (SE) | Treatment-corrected change from baseline in HbA1c (%)† (1-sided CI) |
-| Add-on combination therapy studies |  |  |  |
-| Alogliptin 25 mg once daily with metformin vs a sulphonylurea + metformin Change at Week 52 (n=382) Change at Week 104 (n=382) | 7.61 (0.526) 7.61 (0.526) | -0.76 (0.027) -0.72 (0.037 | -0.03 (-infinity, 0.059) -0.13* (-infinity, -0.006) |
-| Alogliptin 25 mg once daily with a thiazolidinedione + metformin vs a titrating thiazolidinedione + metformin Change at Week 26 (n=303) Change at Week 52 (n=303) | 8.25 (0.820) 8.25 (0.820) | -0.89 (0.042) -0.70 (0.048) | -0.47* (-infinity, -0.35) -0.42* (-infinity, -0.28) |
-| PPS = per protocol set LOCF = last observation carried forward * Non inferiority and superiority statistically demonstrated † Least squares means adjusted for prior antihyperglycaemic therapy status and baseline values |  |  |  |
-
-[Vipidia 25 mg film-coated tablets]
-
-(all sentences already above)
