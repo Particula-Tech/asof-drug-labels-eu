@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Chiesi Orphan B.V.
-Graadt van Roggenweg 340
-3531 AH Utrecht
-The Netherlands
+Chiesi Farmaceutici S.p.A.
+Via Palermo, 26/A
+43122 Parma
+Italy
