@@ -14,14 +14,14 @@ Ritonavir Dosing Regimen
 100 mg once 100 mg twice 200 mg once 200 mg twice 600 mg twice
 
 daily daily1 daily daily daily
-Cmax (µg/ml) 0.84 ± 0.39 0.89 3.4 ± 1.3 4.5 ± 1.3 11.2 ± 3.6
-Ctrough (µg/ml) 0.08 ± 0.04 0.22 0.16 ± 0.10 0.6 ± 0.2 3.7 ± 2.6
-AUC12 or 24 6.6 ± 2.4 6.2 20.0 ± 5.6 21.92 ± 6.48 77.5 ± 31.5
+Cmax (µg/ml) 0.84 ±0.39 0.89 3.4 ±1.3 4.5 ±1.3 11.2 ±3.6
+Ctrough (µg/ml) 0.08 ±0.04 0.22 0.16 ±0.10 0.6 ±0.2 3.7 ±2.6
+AUC12 or 24 6.6 ±2.4 6.2 20.0 ±5.6 21.92 ±6.48 77.5 ±31.5
 
 (µg•h/ml)
 
 t½ (h) ~5 ~5 ~4 ~8 ~3 to 5
-Cl/F (L/h) 17.2 ± 6.6 16.1 10.8 ± 3.1 10.0 ± 3.2 8.8 ± 3.2
+Cl/F (L/h) 17.2 ±6.6 16.1 10.8 ±3.1 10.0 ±3.2 8.8 ±3.2
 
 1 Values expressed as geometric means.
 Note: ritonavir was dosed after a meal for all listed regimens.
@@ -31,7 +31,7 @@ Ingestion of ritonavir with food results in lower ritonavir exposure than ingest
 
 Distribution
 The apparent volume of distribution (VB/F) of ritonavir is approximately 20 - 40 l after a single 600 mg dose.
-The protein binding of ritonavir in human plasma is approximately 98 ­ 99% and is constant over the concentration range of 1.0 – 100 µg/ml.
+The protein binding of ritonavir in human plasma is approximately 98 - 99% and is constant over the concentration range of 1.0 – 100 μg/ml.
 Ritonavir binds to both human alpha 1-acid glycoprotein (AAG) and human serum albumin (HSA) with comparable affinities.
 Tissue distribution studies with 14C-labelled ritonavir in rats showed the liver, adrenals, pancreas, kidneys and thyroid to have the highest concentrations of ritonavir.
 Tissue to plasma ratios of approximately 1 measured in rat lymph nodes suggests that ritonavir distributes into lymphatic tissues.
