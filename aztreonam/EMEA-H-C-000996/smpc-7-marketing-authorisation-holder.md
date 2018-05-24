@@ -1,8 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Gilead Sciences International Ltd
-Granta Park
-Abington
-Cambridge
-CB21 6GT
-United Kingdom
+Gilead Sciences Ireland UC
+Carrigtohill
+County Cork, T45 DP77
+Ireland
