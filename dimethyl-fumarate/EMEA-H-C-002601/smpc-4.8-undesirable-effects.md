@@ -9,7 +9,6 @@ The most commonly reported adverse reactions leading to discontinuation (inciden
 In placebo-controlled and uncontrolled clinical studies, a total of 2,468 patients have received Tecfidera and been followed for periods up to 4 years with an overall exposure equivalent to 3,588 person-years.
 Approximately 1,056 patients have received more than 2 years of treatment with Tecfidera.
 The experience in uncontrolled clinical trials is consistent with the experience in the placebo-controlled clinical trials.
-
 Tabulated summary of adverse reactions
 
 Adverse reactions, which were more frequently reported in Tecfidera versus placebo-treated patients, are presented in the table below.
@@ -24,15 +23,20 @@ The incidence of the adverse reactions below are expressed according to the foll
 - Uncommon (≥1/1, 000 to <1/100)
 - Rare (≥1/10, 000 to <1/1,000)
 - Very rare (<1/10,000)
-- Not known (cannot be estimated from the available data)
+- Not known (frequency cannot be estimated from the available data)
 
 | MedDRA System Organ Class | Adverse reaction | Frequency category |
 | --- | --- | --- |
 | Infections and infestations | Gastroenteritis | Common |
-|  | Progressive multifocal leukoencephalopathy (PML) | Not known |
+|  | Progressive multifocal leukoencephalopathy (PML) 1 | Not known |
 | Blood and lymphatic system disorders | Lymphopenia | Common |
 |  | Leucopenia | Common |
 | Immune system disorders | Hypersensitivity | Uncommon |
+|  | Anaphylaxis1 | Not known |
+|  | Dyspnoea1 | Not known |
+|  | Hypoxia1 | Not known |
+|  | Hypotension1 | Not known |
+|  | Angioedema1 | Not known |
 | Nervous system disorders | Burning sensation | Common |
 | Vascular disorders | Flushing | Very common |
 |  | Hot flush | Common |
@@ -44,17 +48,19 @@ The incidence of the adverse reactions below are expressed according to the foll
 |  | Dyspepsia | Common |
 |  | Gastritis | Common |
 |  | Gastrointestinal disorder | Common |
-| Skin and subcutaneous tissue | Pruritus | Common |
-| disorders | Rash | Common |
+| Hepatobiliary disorders | Aspartate aminotransferase increased | Common |
+|  | Alanine aminotransferase increased | Common |
+|  | Drug-induced liver injury1 | Not known |
+| Skin and subcutaneous tissue disorders | Pruritus | Common |
+|  | Rash | Common |
 |  | Erythema | Common |
 | Renal and urinary disorders | Proteinuria | Common |
 | General disorders and administration site conditions | Feeling hot | Common |
 | Investigations | Ketones measured in urine | Very common |
 |  | Albumin urine present | Common |
-|  | Aspartate aminotransferase increased | Common |
-|  | Alanine aminotransferase increased | Common |
 |  | White blood cell count decreased | Common |
 
+1 Adverse reactions derived only during post marketing experience
 Description of selected adverse reactions
 
 Flushing
@@ -75,15 +81,16 @@ In the majority of patients who experienced gastrointestinal events, it was mild
 Four per cent (4%) of patients treated with Tecfidera discontinued due to gastrointestinal events.
 The incidence of serious gastrointestinal events, including gastroenteritis and gastritis, was seen in 1% of patients treated with Tecfidera (see section 4.2).
 
-Hepatic transaminases
+Hepatic function
 
 In placebo-controlled studies, elevations of hepatic transaminases were observed.
 The majority of patients with elevations had hepatic transaminases that were <3 times the upper limit of normal (ULN).
 The increased incidence of elevations of hepatic transaminases in patients treated with Tecfidera relative to placebo was primarily seen during the first 6 months of treatment.
-Elevations of alanine aminotransferase and aspartate aminotransferase ≥3 times ULN, respectively, were seen in 5% and 2% of patients treated with placebo and 6% and 2% of patients treated with Tecfidera.
-There were no elevations in transaminases ≥3 times ULN with concomitant elevations in total bilirubin
->2 times ULN.
+Elevations of alanine aminotransferase and aspartate aminotransferase ≥3 times ULN, respectively, were seen in 5% and 2% of patients treated with placebo and 6% and 2% of patients treated with Tecfidera..
 Discontinuations due to elevated hepatic transaminases were <1% and similar in patients treated with Tecfidera or placebo.
+Elevations in transaminases ≥3 times ULN with concomitant elevations in total bilirubin >2 times ULN, were not observed in placebo-controlled studies.
+
+Increase of liver enzymes and cases of drug-induced liver injury (elevations in transaminases ≥3 times ULN with concomitant elevations in total bilirubin >2 times ULN), have been reported in post marketing experience following Tecfidera administration, which resolved upon treatment discontinuation.
 
 Renal
 
@@ -93,7 +100,6 @@ There were no reports of serious renal failure.
 On urinalysis, the percentage of patients with protein values of 1+ or greater was similar for Tecfidera (43%) and placebo-treated patients (40%).
 Typically, laboratory observations of proteinuria were not progressive.
 Compared to patients treated with placebo, estimated glomerular filtration rate (eGFR) was observed to increase in patients treated with Tecfidera, including those patients with 2 consecutive occurrences of proteinuria (≥1+).
-
 Haematological
 
 In the placebo-controlled studies, most patients (>98%) had normal lymphocyte values prior to initiating treatment.
@@ -115,7 +121,13 @@ No untoward clinical consequences were observed in clinical trials.
 Levels of 1,25-dihydroxyvitamin D decreased in Tecfidera treated patients relative to placebo (median percentage decrease from baseline at 2 years of 25% versus 15%, respectively) and levels of parathyroid hormone (PTH) increased in Tecfidera treated patients relative to placebo (median percentage increase from baseline at 2 years of 29% versus 15%, respectively).
 Mean values for both parameters remained within normal range.
 
+Paediatric population
+
+The safety of Tecfidera in paediatric patients with multiple sclerosis below the age of 18 has not yet been established.
+In a small 24-week open-label uncontrolled study in paediatric patients with RRMS aged 13 to 17 years (120 mg twice a day for 7 days followed by 240 mg twice a day for the remainder of treatment; safety population, n=22), the safety profile appeared similar to that observed in adult patients.
+
 Reporting of suspected adverse reactions
+
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

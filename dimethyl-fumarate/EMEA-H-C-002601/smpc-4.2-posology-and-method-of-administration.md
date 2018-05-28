@@ -25,8 +25,8 @@ Caution should be used when treating patients with severe renal or severe hepati
 
 Paediatric population
 
-The safety and efficacy of Tecfidera in children and adolescents aged 10 to 18 years have not been established.
-No data are available.
+The safety and efficacy of Tecfidera in children and adolescents aged 10 to 18 years have not yet been established.
+Currently available data are described in sections 4.8, 5.1, and 5.2 but no recommendation on a posology can be made.
 There is no relevant use of Tecfidera in children aged less than 10 years for the indication of relapsing remitting multiple sclerosis.
 
 Method of administration

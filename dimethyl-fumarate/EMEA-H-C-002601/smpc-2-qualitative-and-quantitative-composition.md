@@ -6,4 +6,5 @@ Each capsule contains 120 mg dimethyl fumarate.
 Tecfidera 240mg capsule
 Each capsule contains 240 mg dimethyl fumarate
 
+Excipient(s) with known effect
 For the full list of excipients, see section 6.1.

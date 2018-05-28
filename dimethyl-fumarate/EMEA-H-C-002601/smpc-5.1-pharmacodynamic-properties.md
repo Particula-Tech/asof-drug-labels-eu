@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Other nervous system drugs, ATC code: N07XX09
-
 Mechanism of action
 
 The mechanism by which dimethyl fumarate exerts therapeutic effects in multiple sclerosis is not fully understood.
@@ -39,7 +38,6 @@ In addition, 17% of patients had an EDSS score >3.5, 32% had
 In the MRI cohort 45% of patients entering the study had Gd+ lesions at baseline (mean number of Gd+ lesions 2.4).
 
 Compared to placebo, subjects treated with Tecfidera had a clinically meaningful and statistically significant reduction on: the primary endpoint in Study 1, proportion of subjects relapsed at 2 years; and the primary endpoint in Study 2, annualised relapse rate at 2 years.
-
 The annualised relapse rate for glatiramer acetate and placebo was 0.286 and 0.401 respectively in Study 2, corresponding to a reduction of 29% (p=0.013), which is consistent with approved prescribing information.
 
 |  | DEFINE |  | CONFIRM |  |  |
@@ -66,7 +64,6 @@ The annualised relapse rate for glatiramer acetate and placebo was 0.286 and 0.4
 
 aAll analyses of clinical endpoints were intent-to-treat; bMRI analysis used MRI cohort
 *P-value < 0.05; **P-value < 0.01; ***P-value < 0.0001; #not statistically significant
-
 Efficacy in patients with high disease activity:
 Consistent treatment effect on relapses in a subgroup of patients with high disease activity was observed, whilst the effect on time to 3-month sustained disability progression was not clearly established.
 Due to the design of the studies, high disease activity was defined as follows:
@@ -76,4 +73,7 @@ Due to the design of the studies, high disease activity was defined as follows:
 
 Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Tecfidera in one or more subsets of the paediatric population in multiple sclerosis (see section 4.2 for information on paediatric use).
+Tecfidera was evaluated in a prospective open-label, uncontrolled study in 22 paediatric patients with RRMS aged 13 to 17 years (4 patients aged ≤14 years).
+Subjects received Tecfidera 120 mg twice a day for 7 days followed by 240 mg twice a day for 24 weeks.
+The median number of new or newly enlarging T2 hyperintense lesions changed from 2 in the 8 week pre-treatment evaluation period to 0 in the final 8 weeks of the treatment period (median change -2, n=16).
+These data should be considered cautiously regarding limitations of the study design (no control arm, pre- versus post-dose comparison) (see section 4.2).

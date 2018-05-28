@@ -20,7 +20,6 @@ However, Tecfidera should be taken with food due to improved tolerability with r
 Distribution
 
 The apparent volume of distribution following oral administration of 240 mg Tecfidera varies between 60 L and 90 L. Human plasma protein binding of monomethyl fumarate generally ranges between 27% and 40%.
-
 Biotransformation
 
 In humans, dimethyl fumarate is extensively metabolised with less than 0.1% of the dose excreted as unchanged dimethyl fumarate in urine.
@@ -37,6 +36,7 @@ Renal and faecal elimination are secondary routes of elimination, accounting for
 
 The terminal half-life of monomethyl fumarate is short (approximately 1 hour) and no circulating monomethyl fumarate is present at 24 hours in the majority of individuals.
 Accumulation of parent drug or monomethyl fumarate does not occur with multiple doses of dimethyl fumarate at the therapeutic regimen.
+
 Linearity
 
 Dimethyl fumarate exposure increases in an approximately dose proportional manner with single and multiple doses in the 120 mg to 360 mg dose range studied.
@@ -50,7 +50,8 @@ The pharmacokinetics in patients aged 65 and over has not been studied.
 
 Paediatric population
 
-The pharmacokinetics in patients below the age of 18 has not been studied.
+The pharmacokinetic profile of Tecfidera 240 mg twice a day was evaluated in a small, open-label, uncontrolled study in patients with RRMS aged 13 to 17 years (n=21).
+The pharmacokinetics of Tecfidera in these adolescent patients was consistent with that previously observed in adult patients (Cmax: 2.00±1.29 mg/l; AUC0-12hr: 3.62±1.16 h.mg/l, which corresponds to an overall daily AUC of 7.24 h.mg/l).
 
 Renal impairment
 

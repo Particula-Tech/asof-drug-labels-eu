@@ -2,9 +2,14 @@
 
 Blood/laboratory tests
 
-Changes in renal and hepatic laboratory tests have been seen in clinical trials in subjects treated with Tecfidera (see section 4.8).
+Changes in renal laboratory tests have been seen in clinical trials in subjects treated with Tecfidera (see section 4.8).
 The clinical implications of these changes are unknown.
-Assessments of renal function (e.g. creatinine, blood urea nitrogen and urinalysis) and hepatic function (e.g. ALT and AST) are recommended prior to treatment initiation, after 3 and 6 months of treatment, every 6 to 12 months thereafter and as clinically indicated.
+Assessment of renal function (e.g. creatinine, blood urea nitrogen and urinalysis) is recommended prior to treatment initiation, after 3 and 6 months of treatment, every 6 to 12 months thereafter and as clinically indicated.
+
+Drug-induced liver injury, including liver enzyme increase (≥ 3 ULN) and elevation of total bilirubin levels (≥ 2 ULN) can result from treatment with Tecfidera.
+The time to onset can be directly, several weeks or longer.
+Resolution of the adverse events has been observed after treatment was discontinued.
+Assessment of serum aminotransferases (e.g. ALT, AST) and total bilirubin levels are recommended prior to treatment initiation and during treatment as clinically indicated.
 
 Patients treated with Tecfidera may develop severe prolonged lymphopenia (see section 4.8).
 Tecfidera has not been studied in patients with pre-existing low lymphocyte counts and caution should be exercised when treating these patients.
@@ -12,7 +17,6 @@ Prior to initiating treatment with Tecfidera, a current complete blood count, in
 If lymphocyte count is found to be below the normal range, thorough assessment of possible causes should be completed prior to initiation of treatment with Tecfidera.
 
 After starting therapy, complete blood counts, including lymphocytes, must be performed every 3 months.
-
 Consider interruption of Tecfidera in patients with lymphocyte counts <0.5x109/L persisting for more than 6 months.
 The benefit/risk balance of the therapy should be reconsidered in discussion with the patient in the context of other therapeutic options available.
 Clinical factors, evaluation of any laboratory and imaging investigations could be included as part of this re-consideration.
@@ -54,7 +58,6 @@ Tecfidera can generally be started immediately after discontinuation of interfer
 Severe renal and hepatic impairment
 
 Tecfidera has not been studied in patients with severe renal or severe hepatic impairment and caution should, therefore, be used in these patients (see section 4.2).
-
 Severe active gastrointestinal disease
 
 Tecfidera has not been studied in patients with severe active gastrointestinal disease and caution should, therefore, be used in these patients.
@@ -63,10 +66,22 @@ Flushing
 
 In clinical trials, 34% of Tecfidera treated patients experienced flushing.
 In the majority of patients who experienced flushing, it was mild or moderate in severity.
+Data from healthy volunteer studies suggest that Tecfidera-associated flushing is likely to be prostaglandin mediated.
+A short course of treatment with 75 mg non-enteric coated acetylsalicylic acid may be beneficial in patients affected by intolerable flushing (see section 4.5).
+In two healthy volunteer studies, the occurrence and severity of flushing over the dosing period was reduced.
 
 In clinical trials, 3 patients out of a total of 2,560 patients treated with Tecfidera experienced serious flushing symptoms that were probable hypersensitivity or anaphylactoid reactions.
 These events were not life-threatening, but led to hospitalisation.
 Prescribers and patients should be alert to this possibility in the event of severe flushing reactions (see sections 4.2, 4.5 and 4.8).
+
+Anaphylactic reactions
+
+Cases of anaphylaxis/anaphylactoid reaction have been reported following Tecfidera administration in the post-marketing setting.
+Symptoms may include dyspnoea, hypoxia, hypotension, angioedema, rash or urticaria.
+The mechanism of dimethyl fumarate induced anaphylaxis is unknown.
+Reactions generally occur after the first dose, but may also occur at any time during treatment, and may be serious and life threatening.
+Patients should be instructed to discontinue Tecfidera and seek immediate medical care if they experience signs or symptoms of anaphylaxis.
+Treatment should not be restarted (see section 4.8).
 
 Infections
 
