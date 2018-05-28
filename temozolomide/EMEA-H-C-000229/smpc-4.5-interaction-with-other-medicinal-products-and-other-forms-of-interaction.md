@@ -10,8 +10,8 @@ Co-administration with valproic acid was associated with a small but statistical
 
 No studies have been conducted to determine the effect of TMZ on the metabolism or elimination of other medicinal products.
 However, since TMZ does not undergo hepatic metabolism and exhibits low protein binding, it is unlikely that it would affect the pharmacokinetics of other medicinal products (see section 5.2).
-
 Use of TMZ in combination with other myelosuppressive agents may increase the likelihood of myelosuppression.
+
 Paediatric population
 
 Interaction studies have only been performed in adults.

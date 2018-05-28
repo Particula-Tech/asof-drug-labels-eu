@@ -144,7 +144,7 @@ The following additional serious adverse reactions have been identified during p
 | Table 6. Summary of events reported with temozolomide in the post-marketing setting |  |
 | --- | --- |
 | Infections and infestations* |  |
-| Uncommon: | cytomegalovirus infection, infection reactivation such as cytomegalovirus, hepatitis B virus† |
+| Uncommon: | cytomegalovirus infection, infection reactivation such as cytomegalovirus, hepatitis B virus†, meningoencephalitis herpetic†, sepsis† |
 | Blood and lymphatic system disorders |  |
 | Very rare: | prolonged pancytopenia, aplastic anaemia† |
 | Neoplasm benign, malignant and unspecified |  |

@@ -3,6 +3,10 @@
 Opportunistic infections and reactivation of infections
 
 Opportunistic infections (such as Pneumocystis jirovecii pneumonia) and reactivation of infections (such as HBV, CMV) have been observed during the treatment with TMZ (see section 4.8).
+
+Meningoencephalitis herpetic
+In post marketing cases, meningoencephalitis herpetic (including fatal cases) has been observed in patients receiving TMZ in combination with radiotherapy, including cases of concomitant steroids administration.
+
 Pneumocystis jirovecii pneumonia
 
 Patients who received concomitant TMZ and RT in a pilot trial for the prolonged 42-day schedule were shown to be at particular risk for developing Pneumocystis jirovecii pneumonia (PCP).
@@ -45,11 +49,10 @@ Anti-emetic prophylaxis is recommended prior to the initial dose of concomitant 
 Patients with recurrent or progressive malignant glioma
 
 Patients who have experienced severe (Grade 3 or 4) vomiting in previous treatment cycles may require anti-emetic therapy.
-
 Laboratory parameters
 
-Patients treated with TMZ may experience myelosuppression, including prolonged pancytopenia, which may result in aplastic anemia, which in some cases has resulted in a fatal outcome.
-In some cases, exposure to concomitant medicinal products associated with aplastic anemia, including carbamazepine, phenytoin, and sulfamethoxazole/trimethoprim, complicates assessment.
+Patients treated with TMZ may experience myelosuppression, including prolonged pancytopenia, which may result in aplastic anaemia, which in some cases has resulted in a fatal outcome.
+In some cases, exposure to concomitant medicinal products associated with aplastic anaemia, including carbamazepine, phenytoin, and sulfamethoxazole/trimethoprim, complicates assessment.
 Prior to dosing, the following laboratory parameters must be met: ANC ≥1.5 x 109/l and platelet count
 ≥100 x 109/l.
 A complete blood count should be obtained on Day 22 (21 days after the first dose) or within 48 hours of that day, and weekly until ANC > 1.5 x 109/l and platelet count > 100 x 109/l.
