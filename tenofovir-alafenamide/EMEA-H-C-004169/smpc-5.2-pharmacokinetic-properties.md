@@ -4,7 +4,7 @@ Absorption
 
 Following oral administration of Vemlidy under fasted conditions in adult patients with chronic hepatitis B, peak plasma concentrations of tenofovir alafenamide were observed approximately 0.48 hours post-dose.
 Based on Phase 3 population pharmacokinetic analysis in subjects with CHB, mean steady state AUC0-24 for tenofovir alafenamide (N = 698) and tenofovir (N = 856) were 0.22 µg•hr/mL and 0.32 µg•hr/mL, respectively.
-Steady state Cmax for tenofovir alafenamide and tenofovir were 0.18 and 0.02 µg•hr/mL, respectively.
+Steady state Cmax for tenofovir alafenamide and tenofovir were 0.18 and 0.02 µg/mL, respectively.
 Relative to fasting conditions, the administration of a single dose of Vemlidy with a high fat meal resulted in a 65% increase in tenofovir alafenamide exposure.
 
 Distribution
