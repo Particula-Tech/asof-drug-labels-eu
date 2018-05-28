@@ -9,7 +9,7 @@ Pregnancy must be excluded before start of treatment (see section 4.6).
 
 Breast-feeding women (see section 4.6).
 
-Patients with severe immunodeficiency states, e.g. AIDS.
+Patients with severe immunodeficiency states, e.g. acquired immunodeficiency syndrome (AIDS).
 
 Patients with significantly impaired bone marrow function or significant anaemia, leucopenia, neutropenia or thrombocytopenia.
 

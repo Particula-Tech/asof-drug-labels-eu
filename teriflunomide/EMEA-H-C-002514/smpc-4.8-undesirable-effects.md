@@ -1,6 +1,7 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
+
 A total of 2267 patients were exposed to teriflunomide (1155 on teriflunomide 7 mg and 1112 on teriflunomide 14 mg) once daily for a median duration of about 672 days in four placebo-controlled studies (1045 and 1002 patients for teriflunomide 7 mg and 14 mg, respectively) and one active comparator study (110 patients in each of the teriflunomide treatment groups) in patients with relapsing forms of MS (Relapsing Multiple Sclerosis, RMS).
 Teriflunomide is the main metabolite of leflunomide.
 The safety profile of leflunomide in patients suffering from rheumatoid arthritis or psoriatic arthritis may be pertinent when prescribing teriflunomide in MS patients.
@@ -10,15 +11,16 @@ Within this safety population, the most commonly reported adverse reactions in t
 In general, headache, diarrhoea, nausea and alopecia, were mild to moderate, transient and infrequently led to treatment discontinuation.
 
 Tabulated list of adverse reactions
+
 Adverse reactions reported with AUBAGIO in placebo-controlled studies, reported for teriflunomide 7 mg or 14 mg at ≥ 1% higher rate than for placebo, are shown below.
 Frequencies were defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are ranked in order of decreasing seriousness.
 
-System organ Very Common Uncommon Rare Very rare Not known
-class common
+System organ Very Common Uncommo Rare Very rare Not known
+class common n
 Infections and Influenza, Upper Severe
-infestations (see respiratory tract infections
-section 4.4) infection, including
+infestations respiratory tract infections
+infection, including
 Urinary tract sepsisa
 infection,
 Bronchitis,
@@ -31,10 +33,10 @@ Oral herpes,
 Tooth infection,
 Laryngitis,
 Tinea pedis
-Blood and Neutropenia, Mild
-lymphatic (see section 4.4) thrombocyto
-system Anaemia penia
-disorders (platelets
+Blood and Neutropeniab, Mild
+lymphatic Anaemia thrombocy
+system disorders topenia
+(platelets
 <100G/l)
 Immune system Mild allergic Hyper-
 disorders reactions sensitivity
@@ -47,15 +49,15 @@ and
 angioedema
 Psychiatric Anxiety
 disorders
-Nervous system Headache Paraesthesia, Hyperaesthe
-disorders Sciatica, sia,
+Nervous system Headache Paraesthesia, Hyperaest
+disorders Sciatica, hesia,
 Carpal tunnel Neuralgia,
 syndrome Peripheral
 neuropathy
 Cardiac Palpitations
 disorders
-Vascular Hypertension
-disorders (see section 4.4)
+Vascular Hypertensionb
+disorders
 Respiratory, Interstitial
 thoracic and lung disease
 mediastinal
@@ -65,27 +67,24 @@ disorders Nausea upper, Stomatitis
 Vomiting,
 Toothache
 Hepatobiliary Alanine Gamma- Acute
-disorders aminotransfe glutamyltransfer hepatitis
-rase (ALT) ase (GGT)
-increase (see increase (see
-section 4.4) section 4.4),
+disorders aminotransf glutamyltransfera hepatitis
+erase (ALT) se (GGT)
+increaseb increaseb,
 Aspartate
-aminotransferas
-System organ Very Common Uncommon Rare Very rare Not known
-class common
-e increase (see
-section 4.4)
+aminotransferase
+System organ Very Common Uncommo Rare Very rare Not known
+class common n
+increaseb
 Skin and Alopecia Rash, Severe skin
 subcutaneous Acne reactionsa
 tissue disorders Nail
 disorders
-Musculoskeleta Musculoskeletal
-l and pain,
-connective Myalgia,
-tissue disorders Arthralgia
+Musculoskeletal Musculoskeletal
+and connective pain,
+tissue disorders Myalgia,
+Arthralgia
 Renal and Pollakiuria
-urinary
-disorders
+urinary disorders
 Reproductive Menorrhagia
 system and
 breast disorders
@@ -93,14 +92,11 @@ General Pain Asthenia
 disorders and
 administration
 site conditions
-Investigations Weight
-decrease,
-Neutrophil
-count decrease
-(see section 4.4),
+Investigations Weight decrease,
+Neutrophil count
+decreaseb,
 White blood cell
-count decrease
-(see section 4.4),
+count decreaseb,
 Blood creatine
 phosphokinase
 increased
@@ -109,9 +105,10 @@ poisoning and traumatic
 procedural pain
 complications
 
-a: please refer to the detailed description section
+a: please refer to the detailed description section b: see section 4.4
 
 Description of selected adverse reactions
+
 Alopecia
 Alopecia was reported as hair thinning, decreased hair density, hair loss, associated or not with hair texture change, in 13.9% of patients treated with 14 mg teriflunomide versus 5.1% in patients treated with placebo.
 Most cases were described as diffuse or generalised over the scalp (no complete hair loss reported) and occurred most often during the first 6 months and with resolution in 121 of 139 (87.1%) patients treated with teriflunomide 14 mg.
@@ -125,14 +122,14 @@ ALT increase (based on laboratory data) according to baseline status - Safety po
 Placebo Teriflunomide 14 mg
 (N=997) (N=1002)
 >3 ULN 66/994 (6.6%) 80/999 (8.0%)
+>5 ULN 37/994 (3.7%) 31/999 (3.1%)
+>10 ULN 16/994 (1.6%) 9/999 (0.9%)
+>20 ULN 4/994 (0.4%) 3/999 (0.3%)
 
 ALT increase (based on laboratory data) according to baseline status - Safety population in placebo-controlled studies
 
 Placebo Teriflunomide 14 mg
 (N=997) (N=1002)
->5 ULN 37/994 (3.7%) 31/999 (3.1%)
->10 ULN 16/994 (1.6%) 9/999 (0.9%)
->20 ULN 4/994 (0.4%) 3/999 (0.3%)
 ALT >3 ULN and TBILI >2 ULN 5/994 (0.5%) 3/999 (0.3%)
 
 Mild increases in transaminase, ALT below or equal to 3-fold ULN were more frequently seen in teriflunomide-treated groups as compared to placebo.
@@ -169,7 +166,9 @@ The risk of malignancy, particularly lymphoproliferative disorders, is increased
 
 Severe skin reactions
 Cases of severe skin reactions have been reported with teriflunomide post-marketing (see section 4.4).
+
 Reporting of suspected adverse reactions
+
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

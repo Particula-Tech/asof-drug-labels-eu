@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Selective immunosuppressants, ATC Code: L04AA31.
+Pharmacotherapeutic group: Immunosuppressants, Selective immunosuppressants, ATC Code: L04AA31
 
 Mechanism of action
 
@@ -20,6 +20,7 @@ Effect on renal tubular functions
 In the placebo-controlled studies, mean decreases in serum uric acid at a range of 20 to 30% were observed in patients treated with teriflunomide compared to placebo.
 Mean decrease in serum phosphorus was around 10% in the teriflunomide group compared to placebo.
 These effects are considered to be related to increase in renal tubular excretion and not related to changes in glomerular functions.
+
 Clinical efficacy and safety
 
 The efficacy of AUBAGIO was demonstrated in two placebo controlled studies, the TEMSO and the TOWER study, that evaluated once daily doses of teriflunomide 7 mg and 14 mg in patients with RMS.
@@ -48,37 +49,26 @@ A majority of patients (67.2%) had not received disease-modifying therapy during
 The study results are shown in Table 1.
 Table 1 - Main Results ( for the approved dose, ITT population)
 
-TEMSO-study TOWER-study
-Teriflunomide Teriflunomide
-Placebo Placebo
-14 mg 14 mg
-N 358 363 370 388
-Clinical Outcomes
-Annualised relapse rate 0.37 0.54 0.32 0.50
-Risk difference (CI95%) -0.17 (-0.26, -0.08)∗∗∗ -0.18 (-0.27, -0.09)∗∗∗∗
-Relapse-free week 108 56.5% 45.6% 57.1% 46.8%
-Hazard ratio (CI95%) 0.72, (0.58, 0.89)∗∗ 0.63, (0.50, 0.79)∗∗∗∗
-3-month Sustained
-Disability Progression 20.2% 27.3% 15.8% 19.7%
-week 108
-Hazard ratio (CI95%) 0.70 (0.51, 0.97)∗ 0.68 (0.47, 1.00)∗
-6-month Sustained
-Disability Progression 13.8% 18.7% 11.7% 11.9%
-week 108
-Hazard ratio (CI95%) 0.75 (0.50, 1.11) 0.84 (0.53, 1.33)
-MRI endpoints
-Change in BOD week 108(1) 0.72 2.21
-Change relative to placebo 67%∗∗∗
-Mean Number of Gd-
-enhancing lesions at 0.38 1.18
-week 108 Not measured
-Change relative to -0.80 (-1.20, -0.39)∗∗∗∗
-placebo (CI95%)
-Number of unique active
-0.75 2.46
-lesions /scan
-Change relative to 69%, (59%; 77%)∗∗∗∗
-placebo (CI95%)
+|  | TEMSO-study |  | TOWER-study |  |
+| --- | --- | --- | --- | --- |
+|  | Teriflunomide 14 mg | Placebo | Teriflunomide 14 mg | Placebo |
+| N | 358 | 363 | 370 | 388 |
+| Clinical Outcomes |  |  |  |  |
+| Annualised relapse rate | 0.37 | 0.54 | 0.32 | 0.50 |
+| Risk difference (CI95%) | -0.17 (-0.26, -0.08)∗∗∗ |  | -0.18 (-0.27, -0.09)∗∗∗∗ |  |
+| Relapse-free week 108 | 56.5% | 45.6% | 57.1% | 46.8% |
+| Hazard ratio (CI95%) | 0.72, (0.58, 0.89)∗∗ |  | 0.63, (0.50, 0.79)∗∗∗∗ |  |
+| 3-month Sustained Disability Progression week 108 | 20.2% | 27.3% | 15.8% | 19.7% |
+| Hazard ratio (CI95%) | 0.70 (0.51, 0.97)∗ |  | 0.68 (0.47, 1.00)∗ |  |
+| 6-month Sustained Disability Progression week 108 | 13.8% | 18.7% | 11.7% | 11.9% |
+| Hazard ratio (CI95%) | 0.75 (0.50, 1.11) |  | 0.84 (0.53, 1.33) |  |
+| MRI endpoints |  |  | Not measured |  |
+| Change in BOD week 108(1) | 0.72 | 2.21 |  |  |
+| Change relative to placebo | 67%∗∗∗ |  |  |  |
+| Mean Number of Gd-enhancing lesions at week 108 | 0.38 | 1.18 |  |  |
+| Change relative to placebo (CI95%) | -0.80 (-1.20, -0.39)∗∗∗∗ |  |  |  |
+| Number of unique active lesions /scan | 0.75 | 2.46 |  |  |
+| Change relative to placebo (CI95%) | 69%, (59%; 77%)∗∗∗∗ |  |  |  |
 
 ∗∗∗∗ p<0.0001 ∗∗∗ p<0.001 ∗∗ p<0.01 ∗ p<0.05 compared to placebo
 (1) BOD: burden of disease: total lesion volume (T2 and T1 hypointense) in ml
@@ -91,7 +81,7 @@ No data are available in patients who have failed to respond to a full and adequ
 
 TOPIC was a double-blind, placebo-controlled study that evaluated once daily doses of teriflunomide 7 mg and 14 mg for up to 108 weeks in patients with first clinical demyelinating event (mean age 32.1 years).
 The primary endpoint was time to a second clinical episode (relapse).
-A total of 618 patients were randomized to receive 7 mg (n=205) or 14 mg (n=216) of teriflunomide or placebo (n=197).
+A total of 618 patients were randomised to receive 7 mg (n=205) or 14 mg (n=216) of teriflunomide or placebo (n=197).
 The risk of a second clinical attack over 2 years was 35.9% in the placebo group and 24.0% in the teriflunomide 14 mg treatment group (hazard ratio: 0.57, 95% confidence interval: 0.38 to 0.87, p=0.0087).
 The results from the TOPIC study confirmed the efficacy of teriflunomide in RRMS (including early RRMS with first clinical demyelinating event and MRI lesions disseminated in time and space).
 
@@ -102,5 +92,6 @@ The number of patients with permanent treatment discontinuation in the subcutane
 Teriflunomide 14 mg/day was not superior to interferon beta-1a on the primary endpoint: the estimated percentage of patients with treatment failure at 96 weeks using the Kaplan-Meier method was 41.1% versus 44.4% (teriflunomide 14 mg versus interferon beta-1a group, p=0.595).
 
 Paediatric population
+
 The European Medicines Agency has waived the obligation to submit the results of studies with AUBAGIO in children from birth to less than 10 years in treatment of multiple sclerosis (see section 4.2 for information on paediatric use).
 The European Medicines Agency has deferred the obligation to submit the results of studies with AUBAGIO in one or more subsets of the paediatric population in multiple sclerosis (see section 4.2 for information on paediatric use).
