@@ -323,6 +323,7 @@ Median duration of treatment on dasatinib was 3 months with 7% of patients treat
 The rate of major molecular response (all 25 treated patients with a CCyR) was 52% at 24 months.
 Further efficacy results are reported in Table 7.
 Of note, major haematologic responses (MaHR) were achieved quickly (most within 35 days of first dasatinib administration for patients with lymphoid blast CML, and within 55 days for patients with Ph+ ALL).
+
 Table 7: Efficacy in phase II SPRYCEL single-arm clinical studiesa
 
 | Chronic Accelerated (n= 387) (n= 174) | Myeloid blast (n= 109) | Lymphoid blast (n= 48) | Ph+ ALL (n= 46) |
@@ -392,8 +393,9 @@ Major molecular response in patients achieving CCyRd (%) (95% CI)
 All patients 69% (58–79)
 Imatinib-resistant patients 72% (58–83)
 
-3TPa Results reported in recommended starting dose of 100 mg once daily.
-b Haematologic response criteria (all responses confirmed after 4 weeks): Complete haematologic response (CHR) (chronic CML): WBC ≤ institutional ULN, platelets <450,000/mm3, no blasts or promyelocytes in peripheral blood, <5% myelocytes plus metamyelocytes in peripheral blood, basophils in peripheral blood <20%, and no extramedullary involvement.
+a Results reported in recommended starting dose of 100 mg once daily.
+b Haematologic response criteria (all responses confirmed after 4 weeks): Complete haematologic response (CHR) (chronic CML): WBC ≤ institutional ULN, platelets <450,000/mm3, no blasts or promyelocytes in peripheral blood,
+<5% myelocytes plus metamyelocytes in peripheral blood, basophils in peripheral blood <20%, and no extramedullary involvement.
 c Cytogenetic response criteria: complete (0% Ph+ metaphases) or partial (>0%–35%).
 MCyR (0%–35%) combines both complete and partial responses.
 d Major molecular response criteria: Defined as BCR-ABL/control transcripts ≤0.1% by RQ-PCR in peripheral blood samples.
@@ -440,7 +442,9 @@ Table 10: Efficacy of SPRYCEL in phase III dose-optimisation study: advanced pha
 
 |  | Accelerated (n= 158) | Myeloid blast (n= 75) | Lymphoid blast (n= 33) | Ph+ALL (n= 40) |
 | --- | --- | --- | --- | --- |
-| MaHRb (95% CI) CHRb (95% CI) NELb (95% CI) | 66% (59-74) 47% (40-56) 19% (13-26) | 28% (18-40) 17% (10-28) 11% (5-20) | 42% (26-61) 21% (9-39) 21% (9-39) | 38% (23-54) 33% (19-49) 5% (1-17) |
+| MaHRb (95% CI) | 66% (59-74) | 28% (18-40) | 42% (26-61) | 38% (23-54) |
+| CHRb (95% CI) | 47% (40-56) | 17% (10-28) | 21% (9-39) | 33% (19-49) |
+| NELb (95% CI) | 19% (13-26) | 11% (5-20) | 21% (9-39) | 5% (1-17) |
 | MCyRc (95% CI) CCyR (95% CI) | 39% (31-47) 32% (25-40) | 28% (18-40) 17% (10-28) | 52% (34-69) 39% (23-58) | 70% (54-83) 50% (34-66) |
 
 a Results reported in recommended starting dose of 140 mg once daily (see section 4.2).

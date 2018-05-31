@@ -111,13 +111,14 @@ Uncommon neutrophilic dermatosis, photosensitivity, pigmentation disorder, panni
 ulcer, bullous conditions, nail disorder, palmar-plantar erythrodysesthesia syndrome,
 hair disorder
 Rare leukocytoclastic vasculitis, skin fibrosis
-Not known Stevens-Johnson Syndromef
+Not known Stevens-Johnson syndromef
 Musculoskeletal and connective tissue disorders
 Very common musculoskeletal pain
 Common arthralgia, myalgia, muscular weakness, musculoskeletal stiffness, muscle spasm
 Uncommon rhabdomyolysis, osteonecrosis, muscle inflammation, tendonitis, arthritis
 Renal and urinary disorders
 Uncommon renal impairment (including renal failure), urinary frequency, proteinuria
+Not known nephrotic syndrome
 Pregnancy, puerperium and perinatal conditions
 Rare abortion
 Reproductive system and breast disorders
@@ -144,9 +145,11 @@ e Includes drug eruption, erythema, erythema multiforme, erythrosis, exfoliative
 
 f In the post-marketing setting, individual cases of Stevens-Johnson syndrome have been reported.
 It could not be determined whether these mucocutaneous adverse reactions were directly related to SPRYCEL or to concomitant medicinal product.
+
 g Gravitational oedema, localised oedema, oedema peripheral.
 
-h Conjunctival oedema, eye oedema, eye swelling, eyelid oedema, face oedema, lip oedema, macular oedema, oedema mouth, orbital oedema, periorbitalo edema, swelling face.
+h Conjunctival oedema, eye oedema, eye swelling, eyelid oedema, face oedema, lip oedema, macular oedema, oedema mouth, orbital oedema, periorbital oedema, swelling face.
+
 i Fluid overload, fluid retention, gastrointestinal oedema, generalised oedema, oedema, oedema due to cardiac disease, perinephric effusion, post procedural oedema, visceral oedema.
 j Genital swelling, incision site oedema, oedema genital, penile oedema, penile swelling, scrotal oedema, skin swelling, testicular swelling, vulvovaginal swelling.
 
@@ -215,7 +218,7 @@ Table 3a: Selected adverse reactions reported in a phase 3 dose optimisation stu
 | Preferred term | Percent (%) of patients |  |  |
 | Diarrhoea Fluid retention Superficial oedema Pleural effusion Generalised oedema Pericardial effusion Pulmonary hypertension Haemorrhage Gastrointestinal bleeding | 27 2 34 4 18 0 18 2 3 0 2 1 0 0 11 1 2 1 | 28 2 42 6 21 0 24 4 4 0 2 1 0 0 11 1 2 1 | 28 2 48 7 22 0 28 5 4 0 3 1 2 1 12 1 2 1 |
 
-3TPa Phase 3 dose optimisation study results reported in recommended starting dose of 100 mg once daily (n=165) population
+a Phase 3 dose optimisation study results reported in recommended starting dose of 100 mg once daily (n=165) population
 
 In the Phase III dose-optimisation study in patients with advanced phase CML and Ph+ ALL, the median duration of treatment was 14 months for accelerated phase CML, 3 months for myeloid blast CML, 4 months for lymphoid blast CML and 3 months for Ph+ ALL.
 Selected adverse reactions that were reported in the recommended starting dose of 140 mg once daily are shown in Table 3b.
@@ -263,7 +266,7 @@ The frequency of grade 3 and 4 haematological abnormalities is presented in Tabl
 
 Table 4: CTC grades 3/4 haematological laboratory abnormalities in clinical studies in patients with resistance or intolerance to prior imatinib therapya
 
-|  | Chronic phase (n= 165)b | Myeloid Blast Accelerated phase phase (n= 157)c (n= 74)c Percent (%) of patients | Lymphoid blast phase and Ph+ ALL (n= 168)c |
+|  | Chronic phase (n= 165)b | Myeloid blast Accelerated phase phase (n= 157)c (n= 74)c Percent (%) of patients | Lymphoid blast phase and Ph+ ALL (n= 168)c |
 | --- | --- | --- | --- |
 | Haematology parameters Neutropaenia Thrombocytopaenia Anaemia | 36 23 13 | 58 77 63 78 47 74 | 76 74 44 |
 
@@ -286,7 +289,6 @@ Grade 3 or 4 elevations of transaminases or bilirubin were reported in 1% of pat
 It was usually managed with dose reduction or interruption.
 In the Phase III dose-optimisation study in chronic phase CML, grade 3 or 4 elevations of transaminases or bilirubin were reported in ≤ 1% of patients with similar low incidence in the four treatment groups.
 In the Phase III dose-optimisation study in advanced phase CML and Ph+ALL, grade 3 or 4 elevations of transaminases or bilirubin were reported in 1% to 5% of patients across treatment groups.
-
 Approximately 5% of the SPRYCEL-treated patients who had normal baseline levels experienced grade 3 or 4 transient hypocalcaemia at some time during the course of the study.
 In general, there was no association of decreased calcium with clinical symptoms.
 Patients developing grade 3 or 4 hypocalcaemia often had recovery with oral calcium supplementation.
