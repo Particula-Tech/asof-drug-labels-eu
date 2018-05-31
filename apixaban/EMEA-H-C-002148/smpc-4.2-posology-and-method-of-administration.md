@@ -94,8 +94,17 @@ VTEp and VTEt – No dose adjustment required (see sections 4.4 and 5.2).
 
 NVAF – No dose adjustment required, unless criteria for dose reduction are met (see Dose reduction at the beginning of section 4.2).
 
-Cardioversion (NVAF)
-Patients can stay on apixaban while being cardioverted.
+Patients undergoing cardioversion
+Apixaban can be initiated or continued in NVAF patients who may require cardioversion.
+For patients not previously treated with anticoagulants, at least 5 doses of apixaban 5 mg twice daily (2.5 mg twice daily in patients who qualify for a dose reduction (see above sections Dose reduction and Renal impairment)) should be given before cardioversion to ensure adequate anticoagulation (see section 5.1).
+
+If cardioversion is required before 5 doses of apixaban can be administered, a 10 mg loading dose should be given, followed by 5 mg twice daily.
+The dosing regimen should be reduced to a 5 mg loading dose followed by 2.5 mg twice daily if the patient meets the criteria for dose reduction (see above sections Dose reduction and Renal impairment).
+The administration of the loading dose should be given at least 2 hours before cardioversion (see section 5.1).
+
+Confirmation should be sought prior to cardioversion that the patient has taken apixaban as prescribed.
+Decisions on initiation and duration of treatment should take established guideline recommendations for anticoagulant treatment in patients undergoing cardioversion into account.
+
 Paediatric population
 The safety and efficacy of Eliquis in children and adolescents below age 18 have not been established.
 No data are available.
@@ -110,6 +119,8 @@ Alternatively, Eliquis tablets may be crushed and suspended in 60 mL of water or
 Crushed Eliquis tablets are stable in water, D5W, apple juice, and apple puree for up to 4 hours.
 
 [Eliquis 5 mg film-coated tablets]
+
+- for the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE (VTEt), no dose adjustment is necessary (see section 5.2).
 
 - for the prevention of stroke and systemic embolism in patients with NVAF and serum creatinine ≥1.5 mg/dL (133 micromole/L) associated with age ≥80 years or body weight ≤60 kg, a dose reduction is necessary and described above.
 

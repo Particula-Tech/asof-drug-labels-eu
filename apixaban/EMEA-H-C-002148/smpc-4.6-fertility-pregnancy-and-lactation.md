@@ -4,7 +4,6 @@ Pregnancy
 There are no data from the use of apixaban in pregnant women.
 Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity.
 Apixaban is not recommended during pregnancy.
-
 Breast-feeding
 It is unknown whether apixaban or its metabolites are excreted in human milk.
 Available data in animals have shown excretion of apixaban in milk.

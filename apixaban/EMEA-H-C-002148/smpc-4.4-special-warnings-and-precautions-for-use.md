@@ -4,7 +4,6 @@ Haemorrhage risk
 As with other anticoagulants, patients taking Eliquis are to be carefully observed for signs of bleeding.
 It is recommended to be used with caution in conditions with increased risk of haemorrhage.
 Eliquis administration should be discontinued if severe haemorrhage occurs (see sections 4.8 and 4.9).
-
 Although treatment with apixaban does not require routine monitoring of exposure, a calibrated quantitative anti-Factor Xa assay may be useful in exceptional situations where knowledge of apixaban exposure may help to inform clinical decisions, e.g., overdose and emergency surgery (see section 5.1).
 
 Interaction with other medicinal products affecting haemostasis
@@ -13,6 +12,7 @@ Due to an increased bleeding risk, concomitant treatment with any other anticoag
 The concomitant use of Eliquis with antiplatelet agents increases the risk of bleeding (see section 4.5).
 
 Care is to be taken if patients are treated concomitantly with non-steroidal anti-inflammatory drugs (NSAIDs), including acetylsalicylic acid.
+
 Following surgery, other platelet aggregation inhibitors are not recommended concomitantly with Eliquis (see section 4.5).
 
 In patients with atrial fibrillation and conditions that warrant mono or dual antiplatelet therapy, a careful assessment of the potential benefits against the potential risks should be made before combining this therapy with Eliquis.
@@ -40,7 +40,6 @@ If surgery or invasive procedures cannot be delayed, appropriate caution should 
 This risk of bleeding should be weighed against the urgency of intervention.
 
 Eliquis should be restarted after the invasive procedure or surgical intervention as soon as possible provided the clinical situation allows and adequate haemostasis has been established (for cardioversion see section 4.2).
-
 Temporary discontinuation
 Discontinuing anticoagulants, including Eliquis, for active bleeding, elective surgery, or invasive procedures places patients at an increased risk of thrombosis.
 Lapses in therapy should be avoided and if anticoagulation with Eliquis must be temporarily discontinued for any reason, therapy should be restarted as soon as possible.
@@ -75,7 +74,6 @@ In patients with creatinine clearance < 15 mL/min, or in patients undergoing dia
 
 Elderly patients
 Increasing age may increase haemorrhagic risk (see section 5.2).
-
 Also, the coadministration of Eliquis with ASA in elderly patients should be used cautiously because of a potentially higher bleeding risk.
 
 Body weight
@@ -87,6 +85,7 @@ Eliquis is contraindicated in patients with hepatic disease associated with coag
 It is not recommended in patients with severe hepatic impairment (see section 5.2).
 
 It should be used with caution in patients with mild or moderate hepatic impairment (Child Pugh A or B) (see sections 4.2 and 5.2).
+
 Patients with elevated liver enzymes ALT/AST > 2 x ULN or total bilirubin ≥ 1.5 x ULN were excluded in clinical trials.
 Therefore Eliquis should be used cautiously in this population (see section 5.2).
 Prior to initiating Eliquis, liver function testing should be performed.

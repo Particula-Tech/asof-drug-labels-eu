@@ -5,13 +5,12 @@ The absolute bioavailability of apixaban is approximately 50% for doses up to 10
 Apixaban is rapidly absorbed with maximum concentrations (Cmax) appearing 3 to 4 hours after tablet intake.
 Intake with food does not affect apixaban AUC or Cmax at the 10 mg dose.
 Apixaban can be taken with or without food.
-
 Apixaban demonstrates linear pharmacokinetics with dose proportional increases in exposure for oral doses up to 10 mg.
 At doses ≥ 25 mg apixaban displays dissolution limited absorption with decreased bioavailability.
 Apixaban exposure parameters exhibit low to moderate variability reflected by a within-subject and inter-subject variability of ~20% CV and ~30% CV, respectively.
 
 Following oral administration of 10 mg of apixaban as 2 crushed 5 mg tablets suspended in 30 mL of water, exposure was comparable to exposure after oral administration of 2 whole 5 mg tablets.
-Following oral administration of 10 mg of apixaban as 2 crushed 5 mg tablets with 30 g of apple puree, the Cmax and AUC were 20% and 16% lower, respectively, when compared to administration of 2 whole 5 mg tablets.
+Following oral administration of 10 mg of apixaban as 2 crushed 5 mg tablets with 30 g of apple puree, the Cmax and AUC were 21% and 16% lower, respectively, when compared to administration of 2 whole 5 mg tablets.
 The reduction in exposure is not considered clinically relevant.
 
 Following administration of a crushed 5 mg apixaban tablet suspended in 60 mL of D5W and delivered via a nasogastric tube, exposure was similar to exposure seen in other clinical trials involving healthy subjects receiving a single oral 5 mg apixaban tablet dose.
@@ -21,6 +20,7 @@ Given the predictable, dose-proportional pharmacokinetic profile of apixaban, th
 Distribution
 Plasma protein binding in humans is approximately 87%.
 The volume of distribution (Vss) is approximately 21 litres.
+
 Biotransformation and elimination
 Apixaban has multiple routes of elimination.
 Of the administered apixaban dose in humans, approximately 25% was recovered as metabolites, with the majority recovered in faeces.
@@ -45,7 +45,7 @@ Haemodialysis, started two hours after administration of a single dose of apixab
 Therefore, haemodialysis is unlikely to be an effective means of managing apixaban overdose.
 
 Hepatic impairment
-In a study comparing 8 subjects with mild hepatic impairment, Child-Pugh A score 5 (n = 6) and score 6 (n = 2), and 8 subjects with moderate hepatic impairment (Child-Pugh B score 7 (n = 6) and score 8 (n = 2), to 16 healthy control subjects, the single-dose pharmacokinetics and pharmacodynamics of apixaban 5 mg were not altered in subjects with hepatic impairment.
+In a study comparing 8 subjects with mild hepatic impairment, Child-Pugh A score 5 (n = 6) and score 6 (n = 2), and 8 subjects with moderate hepatic impairment, Child-Pugh B score 7 (n = 6) and score 8 (n = 2), to 16 healthy control subjects, the single-dose pharmacokinetics and pharmacodynamics of apixaban 5 mg were not altered in subjects with hepatic impairment.
 Changes in anti-Factor Xa activity and INR were comparable between subjects with mild to moderate hepatic impairment and healthy subjects.
 
 Elderly
@@ -60,6 +60,7 @@ Findings from a population pharmacokinetic analysis in patients who received api
 
 Body weight
 Compared to apixaban exposure in subjects with body weight of 65 to 85 kg, body weight > 120 kg was associated with approximately 30% lower exposure and body weight < 50 kg was associated with approximately 30% higher exposure.
+
 Pharmacokinetic/pharmacodynamic relationship
 The pharmacokinetic /pharmacodynamic (PK/PD) relationship between apixaban plasma concentration and several PD endpoints (anti-FXa activity, INR, PT, aPTT) has been evaluated after administration of a wide range of doses (0.5 – 50 mg).
 The relationship between apixaban plasma concentration and anti-Factor Xa activity was best described by a linear model.

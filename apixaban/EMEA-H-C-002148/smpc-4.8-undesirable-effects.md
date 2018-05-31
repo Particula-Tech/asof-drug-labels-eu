@@ -19,6 +19,15 @@ Table 2 shows the adverse reactions ranked under headings of system organ class 
 
 Table 2
 
+System Organ Class Prevention of Prevention of Treatment of
+VTE in adult stroke and DVT and PE,
+patients who have systemic and prevention
+undergone embolism in adult of recurrent
+elective hip or patients with DVT and PE
+knee replacement NVAF, with one (VTEt)
+surgery (VTEp) or more risk
+factors (NVAF)
+
 | System Organ Class | Prevention of VTE in adult patients who have undergone elective hip or knee replacement surgery (VTEp) | Prevention of stroke and systemic embolism in adult patients with NVAF, with one or more risk factors (NVAF) | Treatment of DVT and PE, and prevention of recurrent DVT and PE (VTEt) |
 | --- | --- | --- | --- |
 | Blood and lymphatic system disorders |  |  |  |

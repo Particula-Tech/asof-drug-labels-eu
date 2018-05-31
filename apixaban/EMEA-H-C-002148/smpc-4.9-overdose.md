@@ -17,6 +17,7 @@ Reversal of Eliquis pharmacodynamic effects, as demonstrated by changes in the t
 However, there is no clinical experience with the use of 4-factor PCC products to reverse bleeding in individuals who have received Eliquis.
 Currently there is no experience with the use of recombinant factor VIIa in individuals receiving apixaban.
 Re-dosing of recombinant factor VIIa could be considered and titrated depending on improvement of bleeding.
+
 Depending on local availability, a consultation of a coagulation expert should be considered in case of major bleedings.
 
 Haemodialysis decreased apixaban AUC by 14% in subjects with end-stage renal disease (ESRD), when a single dose of apixaban 5 mg was administered orally.
