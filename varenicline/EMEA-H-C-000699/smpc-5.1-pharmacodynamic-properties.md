@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Other nervous system drugs; Drugs used in addictive disorders; Drugs used in nicotine, dependence, ATC code: N07BA03
+Pharmacotherapeutic group: Other nervous system drugs; Drugs used in addictive disorders; Drugs used in nicotine dependence, ATC code: N07BA03
 
 Mechanism of action
 
@@ -26,6 +26,7 @@ Two thousand six hundred nineteen
 Comparative clinical studies
 Two identical double-blind clinical trials prospectively compared the efficacy of CHAMPIX (1 mg twice daily), sustained release bupropion (150 mg twice daily) and placebo in smoking cessation.
 In these 52 week duration studies, patients received treatment for 12 weeks, followed by a 40 week non-treatment phase.
+
 The primary endpoint of the two studies was the carbon monoxide (CO) confirmed, 4 week continuous quit rate (4W-CQR) from week 9 through week 12.
 The primary endpoint for CHAMPIX demonstrated statistical superiority to bupropion and placebo.
 
@@ -58,7 +59,6 @@ A key secondary endpoint was the continuous abstinence (CA) rate for week 13 thr
 
 This study showed the benefit of an additional 12-week treatment with CHAMPIX 1 mg twice daily for the maintenance of smoking cessation compared to placebo; superiority to placebo for CA was maintained through week 52.
 The key results are summarised in the following table:
-
 Continuous Abstinence Rates in Subjects Treated with Champix versus Placebo
 
 CHAMPIX Placebo Difference Odds ratio
@@ -69,8 +69,9 @@ CA* wk 13-24 70.6% 49.8% 20.8% 2.47
 
 CA* wk 13-52 44.0% 37.1% 6.9% 1.35
 
-(1.4%,12.5%) (1.07, 1.70)
+(1.4%, 12.5%) (1.07, 1.70)
 *CA: Continuous Abstinence Rate
+
 There is currently limited clinical experience with the use of CHAMPIX among black people to determine clinical efficacy.
 
 Flexible quit date between weeks 1 and 5
@@ -93,11 +94,11 @@ Continuous Abstinence Rates in Subjects Treated with Champix versus Placebo
 
 CHAMPIX Placebo Odds ratio (95% CI),
 n=249 n=245 p value
-CA* wk 9-12 45.0% 11.8% 7.08 (4.34, 11.55)
+CA* wk 9-12 45.0% 11.8% 7.08 (4.34, 11.55),
 
 p<0.0001
 
-CA* wk 9-52 20.1% 3.3% 9.00 (3.97, 20.41)
+CA* wk 9-52 20.1% 3.3% 9.00 (3.97, 20.41),
 
 p<0.0001
 *CA: Continuous Abstinence Rate
@@ -108,15 +109,16 @@ Subjects were randomised to either CHAMPIX 1 mg twice daily (n=760) or placebo (
 Subjects were instructed to reduce the number of cigarettes smoked by at least 50 percent by the end of the first four weeks of treatment, followed by a further 50 percent reduction from week four to week eight of treatment, with the goal of reaching complete abstinence by 12 weeks.
 After the initial 12-week reduction phase, subjects continued treatment for another 12 weeks.
 Subjects treated with CHAMPIX had a significantly higher Continuous Abstinence Rate compared with placebo; the key results are summarised in the following table:
+
 Continuous Abstinence Rates in Subjects Treated with Champix versus Placebo
 
 CHAMPIX Placebo Odds ratio (95% CI),
 n=760 n=750 p value
-CA* wk 15-24 32.1% 6.9% 8.74 (6.09, 12.53)
+CA* wk 15-24 32.1% 6.9% 8.74 (6.09, 12.53),
 
 p<0.0001
 
-CA* wk 21-52 27.0% 9.9% 4.02 (2.94, 5.50)
+CA* wk 21-52 27.0% 9.9% 4.02 (2.94, 5.50),
 
 p<0.0001
 *CA: Continuous Abstinence Rate
@@ -147,6 +149,36 @@ The meta-analysis showed that exposure to CHAMPIX resulted in a hazard ratio for
 These are equivalent to an estimated increase of 6.5 MACE events and 6.3 MACE events per 1,000 patient-years, respectively of exposure.
 The hazard ratio for MACE was higher in patients with cardiovascular risk factors in addition to smoking compared with that in patients without cardiovascular risk factors other than smoking.
 There were similar rates of all-cause mortality (CHAMPIX 6 [0.14%]; placebo 7 [0.25%]) and cardiovascular mortality (CHAMPIX 2 [0.05%]; placebo 2 [0.07%]) in the CHAMPIX arms compared with the placebo arms in the meta-analysis.
+
+Cardiovascular safety assessment study in subjects with and without a history of psychiatric disorder
+The cardiovascular (CV) safety of CHAMPIX was evaluated in the Study in Subjects with and without a History of Psychiatric Disorder (parent study; see section 5.1 - Neuropsychiatric safety) and its non-treatment extension, the Cardiovascular Safety Assessment Study, which enrolled 4595 of the 6293 subjects who completed the parent study (N=8058) and followed them through week 52.
+Of all subjects treated in the parent study, 1749 (21.7%) had a medium CV risk and 644 (8.0%) had a high CV risk, as defined by Framingham score.
+
+The primary CV endpoint was the time to major adverse cardiovascular events (MACE), defined as cardiovascular death, non-fatal myocardial infarction or non-fatal stroke during treatment.
+Deaths and cardiovascular events were adjudicated by a blinded, independent committee.
+
+The following table shows the incidence of MACE and Hazard Ratios vs placebo for all treatment groups during treatment, and cumulative for treatment plus 30 days and through end of study.
+
+CHAMPIX Bupropion NRT Placebo
+N=2016 N=2006 N=2022 N=2014
+During treatment
+MACE, n (%) 1 (0.05) 2 (0.10) 1 (0.05) 4 (0.20)
+Hazard Ratio 0.29 (0.05, 1.68) 0.50 (0.10, 2.50) 0.29 (0.05, 1.70)
+(95% CI) vs
+placebo
+During treatment plus 30 days
+MACE, n (%) 1 (0.05) 2 (0.10) 2 (0.10) 4 (0.20)
+Hazard Ratio 0.29 (0.05, 1.70) 0.51 (0.10, 2.51) 0.50 (0.10, 2.48)
+(95% CI) vs
+placebo
+Through end of study
+MACE, n (%) 3 (0.15) 9 (0.45) 6 (0.30) 8 (0.40)
+Hazard Ratio 0.39 (0.12, 1.27) 1.09 (0.42, 2.83) 0.75 (0.26, 2.13)
+(95% CI) vs
+placebo
+
+The use of CHAMPIX, bupropion, and NRT was not associated with an increased risk of CV AEs in smokers treated for up to 12 weeks and followed for up to 1 year compared to placebo, although because of the relatively low number of events overall, an association cannot be entirely ruled out.
+
 Subjects with mild-moderate chronic obstructive pulmonary disease (COPD)
 The efficacy and safety of CHAMPIX (1 mg twice daily) for smoking cessation in subjects with mild-moderate COPD was demonstrated in a randomised double-blind placebo-controlled clinical trial.
 In this 52-week duration study, patients received treatment for 12 weeks, followed by a 40-week non-treatment follow-up phase.
@@ -175,15 +207,15 @@ Among reported neuropsychiatric adverse events, insomnia was the only event repo
 (9.5% vs. 4.7%).
 
 Overall, there was no worsening of schizophrenia in either treatment group as measured by psychiatric scales and there were no overall changes in extra-pyramidal signs.
-In the varenicline group compared to placebo, a higher proportion of subjects reported suicidal ideation or behaviour prior to enrolment (lifetime history) and after the end of active treatment period (on Days 33 to 85 after the last dose of treatments ).
+In the varenicline group compared to placebo, a higher proportion of subjects reported suicidal ideation or behaviour prior to enrolment (lifetime history) and after the end of active treatment period (on Days 33 to 85 after the last dose of treatment).
 During the active treatment period, the incidence of suicide-related events was similar between the varenicline-treated and the placebo-treated subjects (11 vs. 9.3%, respectively).
 The percentage of subjects with suicide-related events in the active treatment phase compared to post-treatment phase was unchanged in the varenicline group; in the placebo group, this percentage was lower in the post-treatment phase.
 Although there were no completed suicides, there was one suicidal attempt in a varenicline-treated subject whose lifetime history included several similar attempts.
 The limited data available from this single smoking cessation study are not sufficient to allow for definitive conclusions to be drawn about the safety in patients with schizophrenia or schizoaffective disorder.
+
 Neuropsychiatric safety
 Study in Subjects with and without a History of Psychiatric Disorder: Varenicline was evaluated in a randomised, double-blind, active and placebo-controlled study that included subjects with a history of psychiatric disorder (psychiatric cohort, N=4074) and subjects without a history of psychiatric disorder (non-psychiatric cohort, N=3984).
 Subjects aged 18-75 years, smoking 10 or more cigarettes per day were randomised 1:1:1:1 to varenicline 1 mg BID, bupropion SR 150 mg BID, nicotine replacement therapy patch (NRT) 21 mg/day with taper or placebo for a treatment period of 12 weeks; they were then followed for another 12 weeks post-treatment.
-
 The primary safety endpoint was a composite of the following neuropsychiatric (NPS) adverse events: severe events of anxiety, depression, feeling abnormal, or hostility, and/or moderate or severe events of agitation, aggression, delusions, hallucinations, homicidal ideation, mania, panic, paranoia, psychosis, suicidal ideation, suicidal behaviour or completed suicide.
 
 The following table shows the rates of the composite NPS adverse event primary endpoint by treatment group and the risk differences (RDs) (95% CI) vs placebo in the non-psychiatric cohort.
@@ -235,14 +267,13 @@ In addition, the table shows the subset of the composite NPS AE endpoint of seve
 | Number of Patients Treated | 1026 | 1017 | 1016 | 1015 |
 | Composite NPS AE Primary Endpoint, n (%) | 67 (6.5) | 68 (6.7) | 53 (5.2) | 50 (4.9) |
 | RD (95% CI) vs Placebo | 1.59 (-0.42, 3.59) | 1.78 (-0.24, 3.81) | 0.37 (-1.53, 2.26) |  |
-| NPS AE Primary Endpoint Components n (%): Anxietya Depressiona Feeling abnormala Hostilitya Agitationb Aggressionb Delusionsb Hallucinationsb Homicidal ideationb Maniab Panicb Paranoiab Psychosisb Suicidal behaviourb Suicidal ideationb Completed suicideb | 5 (0.5) 6 (0.6) 0 0 25 (2.4) 14 (1.4) 1 (0.1) 5 (0.5) 0 7 (0.7) 7 (0.7) 1 (0.1) 4 (0.4) 1 (0.1) 5 (0.5) 0 | 4 (0.4) 4 (0.4) 1 (0.1) 0 29 (2.9) 9 (0.9) 1 (0.1) 4 (0.4) 0 9 (0.9) 16 (1.6) 0 2 (0.2) 1 (0.1) 2 (0.2) 0 | 6 (0.6) 7 (0.7) 0 0 21 (2.1) 7 (0.7) 1 (0.1) 2 (0.2) 0 3 (0.3) 13 (1.3) 0 3 (0.3) 0 3 (0.3) 0 | 2 (0.2) 6 (0.6) 0 0 22 (2.2) 8 (0.9) 0 2 (0.2) 0 6 (0.6) 7 (0.7) 2 (0.2) 1 (0.1) 1 (0.1) 2 (0.2) 0 |
+| NPS AE Primary Endpoint Components n (%): Anxietya Depressiona Feeling abnormala Hostilitya Agitationb Aggressionb Delusionsb Hallucinationsb Homicidal ideationb Maniab Panicb Paranoiab Psychosisb Suicidal behaviourb Suicidal ideationb Completed suicideb | 5 (0.5) 6 (0.6) 0 0 25 (2.4) 14 (1.4) 1 (0.1) 5 (0.5) 0 7 (0.7) 7 (0.7) 1 (0.1) 4 (0.4) 1 (0.1) 5 (0.5) 0 | 4 (0.4) 4 (0.4) 1 (0.1) 0 29 (2.9) 9 (0.9) 1 (0.1) 4 (0.4) 0 9 (0.9) 16 (1.6) 0 2 (0.2) 1 (0.1) 2 (0.2) 0 | 6 (0.6) 7 (0.7) 0 0 21 (2.1) 7 (0.7) 1 (0.1) 2 (0.2) 0 3 (0.3) 13 (1.3) 0 3 (0.3) 0 3 (0.3) 0 | 2 (0.2) 6 (0.6) 0 0 22 (2.2) 8 (0.8) 0 2 (0.2) 0 6 (0.6) 7 (0.7) 2 (0.2) 1 (0.1) 1 (0.1) 2 (0.2) 0 |
 | Composite NPS AE Endpoint of severe intensity n (%) | 14 (1.4) | 14 (1.4) | 14 (1.4) | 13 (1.3) |
 
 AE, adverse event; aGrade = severe intensity AE; bGrade = moderate and severe intensity AE; NRT=Nicotine replacement therapy patch
 
 There were more events reported in patients in the psychiatric cohort in each treatment group compared with the non-psychiatric cohort, and the incidence of events in the composite endpoint was higher for each of the active treatments compared to placebo.
 However, the use of varenicline, bupropion and NRT in the psychiatric cohort was not associated with a significantly increased risk of NPS adverse events in the composite primary endpoint compared with placebo (95% CIs included zero).
-
 In the psychiatric cohort, the percentage of subjects with suicidal ideation and/or behaviour based on the Columbia-Suicide Severity Rating Scale (C-SSRS) was similar between the varenicline and placebo groups during treatment and in the non- treatment follow-up, as shown in the following table:
 
 |  | Psychiatric Cohort N=4074 |  |  |  |
@@ -265,6 +296,7 @@ NRT=Nicotine replacement therapy patch
 There were no completed suicides reported in the psychiatric cohort.
 
 The most commonly reported adverse events in subjects treated with varenicline in this study were similar to those observed in premarketing studies.
+
 In both cohorts, subjects treated with varenicline demonstrated statistical superiority of CO-confirmed abstinence during weeks 9 through 12 and 9 through 24 compared to subjects treated with bupropion, nicotine patch and placebo (please see table below).
 
 The key efficacy results are summarised in the following table:
@@ -280,13 +312,11 @@ Placebo 138/1009 (13.7%) 117/1026 (11.4%)
 
 Treatment Comparisons: Odds ratio (95% CI), p value
 
-Varenicline vs Placebo 4.00 (3.20, 5.00), P<0.0001 3.24 (2.56, 4.11) , P<0.0001
-Bupropion vs Placebo 2.26 (1.80, 2.85) , P<0.0001 1.87 (1.46, 2.39) , P<0.0001
-NRT vs Placebo 2.30 (1.83, 2.90) , P<0.0001 2.00 (1.56, 2.55) , P<0.0001
-
-Varenicline vs Bupropion 1.77 (1.46, 2.14) , P<0.0001 1.74 (1.41, 2.14) , P<0.0001
-
-Varenicline vs NRT 1.74 (1.43, 2.10) , P<0.0001 1.62 (1.32, 1.99) , P<0.0001
+Varenicline vs Placebo 4.00 (3.20, 5.00), P<0.0001 3.24 (2.56, 4.11), P<0.0001
+Bupropion vs Placebo 2.26 (1.80, 2.85), P<0.0001 1.87 (1.46, 2.39), P<0.0001
+NRT vs Placebo 2.30 (1.83, 2.90), P<0.0001 2.00 (1.56, 2.55), P<0.0001
+Varenicline vs Bupropion 1.77 (1.46, 2.14), P<0.0001 1.74 (1.41, 2.14), P<0.0001
+Varenicline vs NRT 1.74 (1.43, 2.10), P<0.0001 1.62 (1.32, 1.99), P<0.0001
 
 CA 9-24 n/N (%)
 
@@ -297,10 +327,10 @@ Placebo 106/1009 (10.5%) 85/1026 (8.3%)
 
 Treatment Comparisons: Odds ratio (95% CI), p value
 
-Varenicline vs Placebo 2.99 (2.33, 3.83), P<0.0001 2.50 (1.90, 3.29) , P<0.0001
-Bupropion vs Placebo 2.00 (1.54, 2.59), P<0.0001 1.77 (1.33, 2.36) , P<0.0001
+Varenicline vs Placebo 2.99 (2.33, 3.83), P<0.0001 2.50 (1.90, 3.29), P<0.0001
+Bupropion vs Placebo 2.00 (1.54, 2.59), P<0.0001 1.77 (1.33, 2.36), P<0.0001
 NRT vs Placebo 1.96 (1.51, 2.54), P<0.0001 1.65 (1.24, 2.20), P=0.0007
-Varenicline vs Bupropion 1.49 (1.20, 1.85) P=0.0003 1.41 (1.11, 1.79), P=0.0047
+Varenicline vs Bupropion 1.49 (1.20, 1.85), P=0.0003 1.41 (1.11, 1.79), P=0.0047
 Varenicline vs NRT 1.52 (1.23, 1.89), P=0.0001 1.51 (1.19, 1.93), P=0.0008
 
 CA = continuous abstinence rate; CI = confidence interval; NRT=Nicotine replacement therapy patch
@@ -360,18 +390,26 @@ Two of the studies found no difference in risk of neuropsychiatric hospitalisati
 The power to detect differences in these two studies was limited.
 The third study reported no difference in risk of psychiatric adverse events diagnosed during an emergency department visit or inpatient admission between varenicline users and bupropion users (HR 0.85; 95% CI: 0.55-1.30).
 Based on post marketing reports, bupropion may be associated with neuropsychiatric adverse events.
+
 The fourth study showed no evidence of a higher risk of fatal and non-fatal self- harm (HR of 0.88; 95% CI: 0.52-1.49) in patients prescribed varenicline compared to patients prescribed NRT.
 The occurrence of detected suicide was rare during the three months after patients initiated any drug treatment (two cases in 31,260 varenicline users and six cases in 81,545 NRT users).
 
+Pregnancy Cohort Study
+
+A population-based cohort study compared infants exposed to CHAMPIX in utero (N=335) with infants born to mothers who smoked during pregnancy (N=78,412) and infants born to non-smoking mothers (N=806,438).
+In this study, infants exposed to CHAMPIX in utero as compared to infants born to mothers who smoked during pregnancy had lower rates of congenital malformations
+(3.6% vs 4.3%), stillbirth (0.3% vs 0.5%), preterm birth (7.5% vs 7.9%), small for gestational age (12.5% vs 17.1%), and premature rupture of membrane (3.6% vs 5.4%).
+
 [CHAMPIX 1 mg film-coated tablets]
 
-Pharmacotherapeutic group: Other nervous system drugs ; Drugs used in addictive disorders, Drugs used in nicotine, dependence, ATC code: N07BA03
+Pharmacotherapeutic group: Other nervous system drugs ; Drugs used in addictive disorders, Drugs used in nicotine dependence, ATC code: N07BA03
 
 Two thousand six hundred nineteen (2619) patients received CHAMPIX 1 mg BID (titrated during the first week), 669 patients received bupropion 150 mg BID (also titrated) and 684 patients received placebo.
 
 Two identical double-blind clinical trials prospectively compared the efficacy of CHAMPIX
 (1 mg twice daily), sustained release bupropion (150 mg twice daily) and placebo in smoking cessation.
 In these 52-week duration studies, patients received treatment for 12 weeks, followed by a 40-week non-treatment phase.
+
 The primary endpoint of the two studies was the carbon monoxide (CO) confirmed, 4-week continuous quit rate (4W-CQR) from week 9 through week 12.
 
 The 4 week (week 9-12) CQR for varenicline and placebo was 53.9% and 19.4%, respectively (difference=34.5, 95% CI:
@@ -386,16 +424,9 @@ The efficacy of varenicline was confirmed in a randomised placebo-controlled tri
 
 Among reported neuropsychiatric adverse events, insomnia was the only event reported in either treatment group in ≥5% of subjects at a rate higher in the varenicline group than in placebo (9.5% vs. 4.7%).
 
-In the varenicline group compared to placebo, a higher proportion of subjects reported suicidal ideation or behaviour prior to enrolment (lifetime history) and after the end of active treatment period (on Days 33 to 85 after the last dose of treatment).
 Neuropsychiatric Safety Study in Subjects with and without a History of Psychiatric Disorder:
 Varenicline was evaluated in a randomised, double-blind, active and placebo-controlled study that included subjects with a history of psychiatric disorder (psychiatric cohort, N=4074) and subjects without a history of psychiatric disorder (non-psychiatric cohort, N=3984).
 
-A meta-analysis of 5 randomised, double blind, placebo controlled trials, including 1907 patients (1130 varenicline, 777 placebo), was conducted to assess suicidal ideation and behaviour as reported on the Columbia-Suicide Severity Rating Scale (C-SSRS).
-
 [CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
 
-Pharmacotherapeutic group: Other nervous system drugs Drugs used in addictive disorders; Drugs used in nicotine, dependence, ATC code: N07BA03
-
 *CA: Continuous Abstinence
-
-During the active treatment period, the incidence of suicide-related events was similar between the varenicline-treated and the placebo-treated subjects (11 vs. 9.3 %, respectively).

@@ -41,14 +41,14 @@ Pharmacokinetics in special patient populations
 There are no clinically meaningful differences in varenicline pharmacokinetics due to age, race, gender, smoking status, or use of concomitant medicinal products, as demonstrated in specific pharmacokinetic studies and in population pharmacokinetic analyses.
 
 Hepatic impairment
-Due to the absence of significant hepatic metabolism, varenicline pharmacokinetics should be unaffected in patients with hepatic impairment.
-(see section 4.2).
-Renal impairment:
+Due to the absence of significant hepatic metabolism, varenicline pharmacokinetics should be unaffected in patients with hepatic impairment (see section 4.2).
+
+Renal impairment
 Varenicline pharmacokinetics were unchanged in subjects with mild renal impairment (estimated creatinine clearance > 50 ml/min and ≤80 ml/min).
-In patients with moderate renal impairment (estimated creatinine clearance ≥30 ml/min and ≤50 ml/min), varenicline exposure increased 1.5-fold compared with subjects with normal renal function (estimated creatinine clearance > 80 ml/min).
+In patients with moderate renal impairment (estimated creatinine clearance ≥30 ml/min and ≤50 ml/min), varenicline exposure increased 1.5-fold compared with subjects with normal renal function (estimated creatinine clearance
+> 80 ml/min).
 In subjects with severe renal impairment (estimated creatinine clearance < 30 ml/min), varenicline exposure was increased 2.1-fold.
 In subjects with end-stage-renal disease (ESRD), varenicline was efficiently removed by haemodialysis (see section 4.2).
-
 Elderly
 The pharmacokinetics of varenicline in elderly patients with normal renal function (aged 65-75 years) is similar to that of younger adult subjects (see section 4.2).
 For elderly patients with reduced renal function please refer to section 4.2.
@@ -61,13 +61,12 @@ Efficacy and safety has not been demonstrated in the paediatric population below
 
 [CHAMPIX 1 mg film-coated tablets]
 
-Hepatic impairment: Due to the absence of significant hepatic metabolism, varenicline pharmacokinetics should be unaffected in patients with hepatic impairment.
-Renal impairment: Varenicline pharmacokinetics were unchanged in subjects with mild renal impairment (estimated creatinine clearance > 50 ml/min and ≤80 ml/min).
+Due to the absence of significant hepatic metabolism, varenicline pharmacokinetics should be unaffected in patients with hepatic impairment.
+(see section 4.2).
 
-Single and multiple-dose pharmacokinetics of varenicline have been investigated in pediatric patients aged 12 to 17 years old (inclusive) and were approximately dose-proportional over the 0.5 mg to 2 mg daily dose range studied.
 Steady-state systemic exposure in adolescent patients of bodyweight
 > 55 kg, as assessed by AUC (0-24), was comparable to that noted for the same doses in the adult population.
 
 [CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
 
-(all sentences already above)
+In patients with moderate renal impairment (estimated creatinine clearance ≥30 ml/min and ≤50 ml/min), varenicline exposure increased 1.5-fold compared with subjects with normal renal function (estimated creatinine clearance > 80 ml/min).

@@ -7,7 +7,7 @@ For example, dysphoric or depressed mood; insomnia, irritability, frustration or
 No attempt has been made in either the design or the analysis of the CHAMPIX studies to distinguish between adverse reactions associated with study drug treatment or those possibly associated with nicotine withdrawal.
 Adverse drug reactions are based on evaluation of data from pre-marketing phase 2-3 studies and updated based on pooled data from 18 placebo-controlled pre- and post-marketing studies, including approximately 5,000 patients treated with varenicline.
 
-In patients treated with the recommended dose of 1 mg BID following an initial titration period the adverse event most commonly reported was nausea (28.6%).
+In patients treated with the recommended dose of 1 mg twice daily following an initial titration period the adverse event most commonly reported was nausea (28.6%).
 In the majority of cases nausea occurred early in the treatment period, was mild to moderate in severity and seldom resulted in discontinuation.
 
 Tabulated summary of adverse reactions
@@ -50,6 +50,8 @@ Uncommon Seizure, tremor, lethargy, hypoaesthesia
 Rare Cerebrovascular accident, hypertonia, dysarthria, coordination abnormal,
 
 hypogeusia, circadian rhythm sleep disorder
+System Organ Adverse Drug Reactions
+Class
 Eye disorders
 
 Uncommon Conjunctivitis, eye pain
@@ -60,8 +62,6 @@ Ear and labyrinth disorders
 
 Uncommon Tinnitus
 
-System Organ Adverse Drug Reactions
-Class
 Cardiac disorders
 
 Uncommon Myocardial infarction, angina pectoris, tachycardia, palpitations, heart
@@ -133,7 +133,6 @@ Rare Semen analysis abnormal, C-reactive protein increased, blood calcium
 
 decreased
 * Frequencies are estimated from a post-marketing, observational cohort study
-
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
@@ -142,16 +141,8 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [CHAMPIX 1 mg film-coated tablets]
 
-In patients treated with the recommended dose of 1 mg twice daily following an initial titration period the adverse event most commonly reported was nausea (28.6%).
-
-In the table below all adverse reactions, which occurred at an incidence greater than placebo are listed by system organ class and frequency (very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100) and rare (≥1/10,000 to < 1/1,000).
-
-Uncommon Myocardial infarction,angina pectoris, tachycardia, palpitations, heart
+(all sentences already above)
 
 [CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
-
-Rare Diabetes mellitus,polydipsia
-
-Rare Psychosis, somnambulism, abnormal behaviour,dysphoria, bradyphrenia
 
 .

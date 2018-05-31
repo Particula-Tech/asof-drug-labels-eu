@@ -24,8 +24,8 @@ In patients with severe renal impairment, the concomitant use of cimetidine and 
 Digoxin
 
 Varenicline did not alter the steady-state pharmacokinetics of digoxin.
-
 Warfarin
+
 Varenicline did not alter the pharmacokinetics of warfarin.
 Prothrombin time (INR) was not affected by varenicline.
 Smoking cessation itself may result in changes to warfarin pharmacokinetics (see section 4.4).
@@ -41,7 +41,8 @@ Use with other therapies for smoking cessation
 Bupropion
 Varenicline did not alter the steady-state pharmacokinetics of bupropion.
 
-Nicotine replacement therapy (NRT): When varenicline and transdermal NRT were co-administered to smokers for 12 days, there was a statistically significant decrease in average systolic blood pressure (mean 2.6 mmHg) measured on the final day of the study.
+Nicotine replacement therapy (NRT)
+When varenicline and transdermal NRT were co-administered to smokers for 12 days, there was a statistically significant decrease in average systolic blood pressure (mean 2.6 mmHg) measured on the final day of the study.
 In this study, the incidence of nausea, headache, vomiting, dizziness, dyspepsia, and fatigue was greater for the combination than for NRT alone.
 
 Safety and efficacy of CHAMPIX in combination with other smoking cessation therapies have not been studied.
@@ -51,9 +52,6 @@ Safety and efficacy of CHAMPIX in combination with other smoking cessation thera
 Therefore, active substances that are cleared by renal secretion
 (e.g., metformin - see below) are unlikely to be affected by varenicline.
 
-Nicotine replacement therapy (NRT
-When varenicline and transdermal NRT were co-administered to smokers for 12 days, there was a statistically significant decrease in average systolic blood pressure (mean 2.6 mmHg) measured on the final day of the study.
-
 [CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
 
-Nicotine replacement therapy (NRT)
+(all sentences already above)

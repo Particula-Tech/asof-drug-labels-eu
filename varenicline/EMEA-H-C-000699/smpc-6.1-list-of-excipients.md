@@ -21,8 +21,6 @@ Indigo Carmine Aluminium Lake E132
 
 [CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
 
-Core Tablets’ core
-
 0.5 mg and 1 mg Tablets
 
 0.5 mg Tablet

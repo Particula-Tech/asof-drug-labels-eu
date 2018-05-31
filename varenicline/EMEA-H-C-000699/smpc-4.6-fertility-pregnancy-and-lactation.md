@@ -2,12 +2,10 @@
 
 Pregnancy
 
-There are limited data from the use of varenicline in pregnant women.
-Studies in animals have shown reproductive toxicity (see section 5.3).
+A moderate amount of data on pregnant women indicated no malformative or foetal/neonatal toxicity of varenicline (see section 5.1).
 
-Varenicline is not recommended during pregnancy.
-
-Women of child bearing potential should avoid becoming pregnant during treatment with varenicline.
+Animal studies have shown reproductive toxicity (see section 5.3).
+As a precautionary measure, it is preferable to avoid the use of varenicline during pregnancy (see section 5.1).
 
 Breast-feeding
 
