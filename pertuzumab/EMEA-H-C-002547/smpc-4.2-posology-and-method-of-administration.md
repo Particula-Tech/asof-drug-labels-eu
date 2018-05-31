@@ -1,6 +1,6 @@
 # 4.2 Posology and method of administration
 
-Perjeta is subject to restricted medical prescription and therapy should only be initiated under the supervision of a physician experienced in the administration of anti-cancer agents.
+Perjeta should only be initiated under the supervision of a physician experienced in the administration of anti-cancer agents.
 Perjeta should be administered by a healthcare professional prepared to manage anaphylaxis and in an environment where full resuscitation facilities are immediately available.
 
 Posology
@@ -10,8 +10,12 @@ Patients treated with Perjeta must have HER2-positive tumour status, defined as 
 To ensure accurate and reproducible results, the testing must be performed in a specialised laboratory, which can ensure validation of the testing procedures.
 For full instructions on assay performance and interpretation please refer to the package leaflets of validated HER2 testing assays.
 The recommended initial loading dose of pertuzumab is 840 mg administered as a 60 minute intravenous infusion, followed every 3 weeks thereafter by a maintenance dose of 420 mg administered over a period of 30 to 60 minutes.
+An observation period of 30 - 60 minutes is recommended after completion of each infusion.
+The observation period should be completed prior to any subsequent infusion of trastuzumab or chemotherapy (see section 4.4).
 
-When administered with pertuzumab the recommendation is to follow a 3 weekly schedule for trastuzumab administered as either:
+Perjeta and trastuzumab should be administered sequentially and not mixed in the same infusion bag.
+Perjeta and trastuzumab can be given in any order.
+When administered with Perjeta the recommendation is to follow a 3 weekly schedule for trastuzumab administered as either:
 
 - an IV infusion with an initial loading dose of trastuzumab 8 mg/kg body weight followed every 3 weeks thereafter by a maintenance dose of 6 mg/kg body weight
 
@@ -19,22 +23,27 @@ or
 
 - a fixed subcutaneous dose of trastuzumab by injection (600 mg) every 3 weeks irrespective of the patient’s body weight.
 
-When administered with pertuzumab the recommended initial dose of docetaxel is 75 mg/m2, administered thereafter on a 3 weekly schedule.
-The dose of docetaxel may be escalated to 100 mg/m2 on subsequent cycles if the initial dose is well tolerated (the docetaxel dose should not be escalated when used in combination with carboplatin, trastuzumab and pertuzumab).
+In patients receiving a taxane, Perjeta and trastuzumab should be administered prior to the taxane.
 
-The medicinal products should be administered sequentially and not mixed in the same infusion bag.
-Perjeta and trastuzumab can be given in any order.
-When the patient is receiving docetaxel, this should be administered after Perjeta and trastuzumab.
-An observation period of 30 to 60 minutes is recommended after each Perjeta infusion and before commencement of any subsequent infusion of trastuzumab or docetaxel (see section 4.4).
+When administered with Perjeta, docetaxel can be started at 75 mg/m2, and subsequently escalated to 100 mg/m2 depending on the chosen regimen and tolerability of the initial dose.
+Alternatively, docetaxel can be given at 100 mg/m2 on a 3 weekly schedule from the start, again depending on the chosen regimen.
+If a carboplatin-based regimen is used, the recommended dose for docetaxel is 75 mg/m2 throughout (no dose escalation).
+When administered with Perjeta in the adjuvant setting, the recommended dose of paclitaxel is 80 mg/m2 once weekly for 12 weekly cycles.
+
+In patients receiving an anthracycline-based regimen, Perjeta and trastuzumab should be administered following completion of the entire anthracycline regimen (see section 4.4).
 
 Metastatic breast cancer
 
-Patients should be treated with Perjeta and trastuzumab until disease progression or unmanageable toxicity.
+Perjeta should be administered in combination with trastuzumab and docetaxel .
+Treatment with Perjeta and trastuzumab may continue until disease progression or unmanageable toxicity even if treatment with docetaxel is discontinued.
 
-Neoadjuvant treatment of breast cancer
+Early breast cancer
 
-Perjeta should be administered for 3 to 6 cycles in combination with neoadjuvant trastuzumab and chemotherapy, as part of a treatment regimen for early breast cancer.
-Following surgery, patients should be treated with adjuvant trastuzumab to complete 1 year of treatment (see section 5.1).
+In the neoadjuvant setting, Perjeta should be administered for 3 to 6 cycles in combination with trastuzumab and chemotherapy, as part of a complete treatment regimen for early breast cancer (see section 5.1).
+
+In the adjuvant setting, Perjeta should be administered in combination with trastuzumab for a total of one year (up to 18 cycles or until disease recurrence, or unmanageable toxicity, whichever occurs first) as part of a complete regimen for early breast cancer and regardless of the timing of surgery.
+Treatment should include standard anthracycline- and/or taxane-based chemotherapy.
+Perjeta and trastuzumab should start on Day 1 of the first taxane-containing cycle and should continue even if chemotherapy is discontinued.
 
 Delayed or missed doses
 
@@ -44,36 +53,45 @@ Table 1 Recommendations regarding delayed or missed doses
 | Time between two sequential infusions | Perjeta | trastuzumab |  |
 | --- | --- | --- | --- |
 |  |  | IV | SC |
-| < 6 weeks | The 420 mg dose of Perjeta IV should be administered as soon as possible. Do not wait until the next planned dose. Thereafter, revert to the original planned schedule. | The 6 mg/kg dose of trastuzumab IV should be administered as soon as possible. Do not wait until the next planned dose. Thereafter, revert to the original planned schedule. | The fixed dose of 600mg trastuzumab SC should be administered as soon as possible. Do not wait until the next planned dose. |
-| ≥ 6 weeks | The loading dose of 840 mg Perjeta IV should be re-administered as a 60 minute infusion, followed by a maintenance dose of 420 mg IV administered over a period of 30 to 60 minutes every 3 weeks thereafter. | The loading dose of 8 mg/kg of trastuzumab IV should be re-administered over approximately 90 minutes, followed by a maintenance dose of 6 mg/kg IV administered over a period of 30 or 90 minutes every 3 weeks thereafter. |  |
+| < 6 weeks | The 420 mg dose of pertuzumab should be administered as soon as possible. Do not wait until the next planned dose. Thereafter, revert to the original planned schedule. | The 6 mg/kg dose of trastuzumab IV should be administered as soon as possible. Do not wait until the next planned dose. Thereafter, revert to the original planned schedule. | The fixed dose of 600mg trastuzumab SC should be administered as soon as possible. Do not wait until the next planned dose. |
+| ≥ 6 weeks | The 840 mg loading dose of pertuzumab should be re-administered as a 60 minute infusion, followed by a maintenance dose of 420 mg IV administered every 3 weeks thereafter. | The loading dose of 8 mg/kg of trastuzumab IV should be re-administered over approximately 90 minutes, followed by a maintenance dose of 6 mg/kg IV administered every 3 weeks thereafter. |  |
 
 Dose modification
-Dose reductions are not recommended for Perjeta.
+Dose reductions are not recommended for Perjeta or trastuzumab.
+For details regarding trastuzumab, please refer to the summary of product characteristics (SmPC).
 
 Patients may continue therapy during periods of reversible chemotherapy-induced myelosuppression but they should be monitored carefully for complications of neutropenia during this time.
-For docetaxel and other chemotherapy dose modifications, see relevant summary of product characteristics (SmPC).
-
-For trastuzumab, dose reductions are not recommended, see trastuzumab summary of product characteristics (SmPC).
+For docetaxel and other chemotherapy dose modifications, see relevant SmPC.
 
 If trastuzumab treatment is discontinued, treatment with Perjeta should be discontinued.
 
-If docetaxel is discontinued, treatment with Perjeta and trastuzumab may continue until disease progression or unmanageable toxicity in the metastatic setting.
-
 Left ventricular dysfunction
-Perjeta and trastuzumab should be withheld for at least 3 weeks for any of the following:
+Perjeta and trastuzumab should be withheld for at least 3 weeks for any signs and symptoms suggestive of congestive heart failure.
+Perjeta should be discontinued if symptomatic heart failure is confirmed (see section 4.4 for more details).
 
-- signs and symptoms suggestive of congestive heart failure (Perjeta should be discontinued if symptomatic heart failure is confirmed)
-- a drop in left ventricular ejection fraction (LVEF) to less than 40%
-- a LVEF of 40%-45% associated with a fall of ≥ 10% points below pre-treatment values.
+Patients with metastatic breast cancer
 
-Perjeta and trastuzumab may be resumed if the LVEF has recovered to > 45% or 40-45% associated with < 10% points below pretreatment value.
-If after a repeat assessment within approximately 3 weeks, the LVEF has not improved, or has declined further, discontinuation of Perjeta and trastuzumab should be strongly considered, unless the benefits for the individual patient are deemed to outweigh the risks (see section 4.4).
+Patients should have a pre-treatment left ventricular ejection fraction (LVEF) of ≥ 50%.
+Perjeta and trastuzumab should be withheld for at least 3 weeks for:
+
+- a drop in LVEF to less than 40%
+- a LVEF of 40%-45% associated with a fall of ≥ 10% points below pre-treatment value.
+
+Perjeta and trastuzumab may be resumed if the LVEF has recovered to > 45%, or to 40-45% associated with a difference of < 10% points below pre-treatment values.
+Patients with early breast cancer
+
+Patients should have a pre-treatment LVEF of ≥ 55% (≥ 50% after completion of the anthracycline component of chemotherapy, if given).
+Perjeta and trastuzumab should be withheld for at least 3 weeks for:
+
+- a drop in LVEF to less than 50% associated with a fall of ≥ 10% points below pre-treatment values.
+
+Perjeta and trastuzumab may be resumed if the LVEF has recovered to ≥50% or to a difference of
+< 10% points below pre-treatment values.
 
 Elderly patients
-Limited data are available on the safety and efficacy of Perjeta in patients ≥ 65 years of age.
-No significant differences in safety and efficacy of Perjeta were observed between elderly patients aged 65 to 75 years and adult patients aged < 65 years.
+No overall differences in efficacy and safety of Perjeta were observed in patients ≥65 and <65 years of age with the exception of diarrhoea, which had an increased incidence in patients ≥65 years of age.
 No dose adjustment is necessary in the elderly population ≥ 65 years of age.
-Very limited data are available in patients > 75 years of age.
+Limited data are available in patients > 75 years of age.
 
 Renal impairment
 Dose adjustments of pertuzumab are not needed in patients with mild or moderate renal impairment.

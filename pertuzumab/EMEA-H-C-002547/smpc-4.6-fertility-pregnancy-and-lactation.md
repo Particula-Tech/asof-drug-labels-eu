@@ -13,8 +13,9 @@ Perjeta is not recommended during pregnancy and in women of childbearing potenti
 Breast-feeding
 
 Because human IgG is secreted in human milk and the potential for absorption and harm to the infant is unknown, a decision should be made to discontinue breast-feeding or to discontinue treatment, taking into account the benefit of breast-feeding for the child and the benefit of Perjeta therapy for the woman (see section 5.2).
+
 Fertility
 
 No specific fertility studies in animals have been performed to evaluate the effect of pertuzumab.
-Only very limited data are available from repeat-dose toxicity studies with respect to the risk for adverse reactions on the male reproductive system.
-No adverse reactions were observed in sexually mature female cynomolgus monkeys exposed to pertuzumab.
+In repeated dose toxicity studies in cynomolgus monkeys, no definitive conclusions could be drawn on the adverse effect on male reproductive organs.
+No adverse reactions were observed in sexually mature female cynomolgus monkeys exposed to pertuzumab (see section 5.3).

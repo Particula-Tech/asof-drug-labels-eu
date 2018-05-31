@@ -5,7 +5,6 @@ A population pharmacokinetic analysis was performed with data from 481 patients 
 Absorption
 
 Perjeta is administered as an intravenous infusion.
-There have been no studies performed with other routes of administration.
 
 Distribution
 
@@ -18,7 +17,7 @@ Antibodies are cleared principally by catabolism.
 
 Elimination
 
-The median clearance (CL) of Perjeta was 0.235 litres/day and the median half-life was 18 days.
+The median clearance (CL) of pertuzumab was 0.235 litres/day and the median half-life was 18 days.
 
 Linearity/non-linearity
 
@@ -42,4 +41,5 @@ CL decreased in patients with higher baseline albumin concentrations and increas
 However sensitivity analyses performed at the recommended dose and schedule of Perjeta showed that at the extreme values of these two covariates, there was no significant impact on the ability to achieve target steady-state concentrations identified in preclinical tumour xenograft models.
 Therefore, there is no need to adjust the dosage of pertuzumab based on these covariates.
 
-The PK results of pertuzumab in the NEOSPHERE study are consistent with the predictions from the previous population PK model.
+The PK results of pertuzumab in the NEOSPHERE and APHINITY studies were consistent with the predictions from the previous population PK model.
+No differences in pertuzumab PK were observed in patients with early breast cancer compared to patients with metastatic breast cancer.
