@@ -6,7 +6,6 @@ Mechanism of action
 
 Denosumab is a human monoclonal antibody (IgG2) that targets and binds with high affinity and specificity to RANKL, preventing activation of its receptor, RANK, on the surface of osteoclast precursors and osteoclasts.
 Prevention of the RANKL/RANK interaction inhibits osteoclast formation, function and survival, thereby decreasing bone resorption in cortical and trabecular bone.
-
 Pharmacodynamic effects
 
 Prolia treatment rapidly reduced the rate of bone turnover, reaching a nadir for the bone resorption marker serum type 1 C-telopeptides (CTX) (85% reduction) by 3 days, with reductions maintained over the dosing interval.
@@ -29,7 +28,8 @@ Women received calcium (at least 1,000 mg) and vitamin D (at least 400 IU) suppl
 Effect on vertebral fractures
 Prolia significantly reduced the risk of new vertebral fractures at 1, 2 and 3 years (p < 0.0001) (see table 2).
 
-Table 2 The effect of Prolia on the risk of new vertebral fractures
+Table 2.
+The effect of Prolia on the risk of new vertebral fractures
 
 |  | Proportion of women with fracture (%) |  | Absolute risk reduction (%) (95% CI) | Relative risk reduction (%) (95% CI) |
 | --- | --- | --- | --- | --- |
@@ -48,7 +48,8 @@ In a post-hoc analysis in women > 75 years, a 62% relative risk reduction was ob
 
 Effect on all clinical fractures
 Prolia significantly reduced fractures across all fracture types/groups (see table 3).
-Table 3 The effect of Prolia on the risk of clinical fractures over 3 years
+Table 3.
+The effect of Prolia on the risk of clinical fractures over 3 years
 
 |  | Proportion of women with fracture (%)+ |  | Absolute risk reduction (%) (95% CI) | Relative risk reduction (%) (95% CI) |
 | --- | --- | --- | --- | --- |
@@ -121,12 +122,31 @@ Prolia demonstrated a significant relative risk reduction of new vertebral fract
 
 Clinical efficacy and safety in patients with bone loss associated with adjuvant aromatase inhibitor therapy
 
-Efficacy and safety of Prolia once every 6 months for 2 years was investigated in women with non-metastatic breast cancer (252 women aged 35-84 years) and baseline BMD T-scores between
--1.0 to -2.5 at the lumbar spine, total hip or femoral neck.
+Efficacy and safety of Prolia once every 6 months for 2 years were investigated in women with non-metastatic breast cancer (252 women aged 35-84 years) and baseline BMD T-scores between -1.0 to -2.5 at the lumbar spine, total hip or femoral neck.
 All women received calcium (at least 1,000 mg) and vitamin D (at least 400 IU) supplementation daily.
 
 The primary efficacy variable was percent change in lumbar spine BMD, fracture efficacy was not evaluated.
 Prolia significantly increased BMD at all clinical sites measured, relative to treatment with placebo at 2 years: 7.6% at lumbar spine, 4.7% at total hip, 3.6% at femoral neck, 5.9% at hip trochanter, 6.1% at distal 1/3 radius and 4.2% at total body (all p < 0.0001).
+
+Treatment of bone loss associated with systemic glucocorticoid therapy
+
+Efficacy and safety of Prolia were investigated in 795 patients (70% women and 30% men) aged 20 to 94 years treated with ≥ 7.5 mg daily oral prednisone (or equivalent).
+
+Two subpopulations were studied: glucocorticoid-continuing (≥ 7.5 mg daily prednisone or its equivalent for ≥ 3 months prior to study enrolment; n = 505) and glucocorticoid-initiating (≥ 7.5 mg daily prednisone or its equivalent for < 3 months prior to study enrolment; n = 290).
+Patients were randomised (1:1) to receive either Prolia 60 mg subcutaneously once every 6 months or oral risedronate 5 mg once daily (active control) for 2 years.
+Patients received calcium (at least 1,000 mg) and vitamin D (at least 800 IU) supplementation daily.
+
+Effect on Bone Mineral Density (BMD)
+In the glucocorticoid-continuing subpopulation, Prolia demonstrated a greater increase in lumbar spine BMD compared to risedronate at 1 year (Prolia 3.6%, risedronate 2.0%; p < 0.001) and 2 years (Prolia 4.5%, risedronate 2.2%; p < 0.001).
+In the glucocorticoid-initiating subpopulation, Prolia demonstrated a greater increase in lumbar spine BMD compared to risedronate at 1 year (Prolia 3.1%, risedronate 0.8%; p < 0.001) and 2 years (Prolia 4.6%, risedronate 1.5%; p < 0.001)
+
+In addition, Prolia demonstrated a significantly greater mean percent increase in BMD from baseline compared to risedronate at the total hip, femoral neck, and hip trochanter.
+
+The study was not powered to show a difference in fractures.
+At 1 year, the subject incidence of new radiological vertebral fracture was 2.7% (denosumab) versus 3.2% (risedronate).
+The subject incidence of non-vertebral fracture was 4.3% (denosumab) versus 2.5% (risedronate).
+At 2 years, the corresponding numbers were 4.1% versus 5.8% for new radiological vertebral fractures and 5.3% versus 3.8% for non-vertebral fractures.
+Most of the fractures occurred in the GC-C subpopulation.
 
 Paediatric population
 

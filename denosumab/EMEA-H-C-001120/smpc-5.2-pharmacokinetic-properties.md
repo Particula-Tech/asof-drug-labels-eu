@@ -9,14 +9,13 @@ Biotransformation
 
 Denosumab is composed solely of amino acids and carbohydrates as native immunoglobulin and is unlikely to be eliminated via hepatic metabolic mechanisms.
 Its metabolism and elimination are expected to follow the immunoglobulin clearance pathways, resulting in degradation to small peptides and individual amino acids.
-
 Elimination
 
 After Cmax, serum levels declined with a half-life of 26 days (range 6-52 days) over a period of 3 months (range 1.5-4.5 months).
 Fifty-three percent (53%) of patients had no measurable amounts of denosumab detected at 6 months post-dose.
 
 No accumulation or change in denosumab pharmacokinetics with time was observed upon subcutaneous multiple-dosing of 60 mg once every 6 months.
-Denosumab pharmacokinetics was not affected by the formation of binding antibodies to denosumab and was similar in men and women.
+Denosumab pharmacokinetics were not affected by the formation of binding antibodies to denosumab and were similar in men and women.
 Age (28-87 years), race and disease state (low bone mass or osteoporosis; prostate or breast cancer) do not appear to significantly affect the pharmacokinetics of denosumab.
 
 A trend was observed between higher body weight and lower exposure based on AUC and Cmax.
@@ -29,6 +28,7 @@ In dose ranging studies, denosumab exhibited non-linear, dose-dependent pharmaco
 Renal impairment
 
 In a study of 55 patients with varying degrees of renal function, including patients on dialysis, the degree of renal impairment had no effect on the pharmacokinetics of denosumab.
+
 Hepatic impairment
 
 No specific study in patients with hepatic impairment was performed.

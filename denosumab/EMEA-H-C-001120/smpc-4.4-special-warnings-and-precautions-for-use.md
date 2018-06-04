@@ -15,12 +15,19 @@ Patients should be encouraged to report symptoms indicative of hypocalcaemia.
 
 In the post-marketing setting, severe symptomatic hypocalcaemia has been reported (see section 4.8), with most cases occurring in the first weeks of initiating therapy, but it can occur later.
 
+Concomitant glucocorticoid treatment is an additional risk factor for hypocalcaemia.
+Renal impairment
+Patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis are at greater risk of developing hypocalcaemia.
+The risks of developing hypocalcaemia and accompanying parathyroid hormone elevations increase with increasing degree of renal impairment.
+Adequate intake of calcium, vitamin D and regular monitoring of calcium is especially important in these patients, see above.
+
 Skin infections
 Patients receiving Prolia may develop skin infections (predominantly cellulitis) leading to hospitalisation (see section 4.8).
 Patients should be advised to seek prompt medical attention if they develop signs or symptoms of cellulitis.
 
 Osteonecrosis of the Jaw (ONJ)
 ONJ has been reported rarely in patients receiving Prolia for osteoporosis (see section 4.8).
+
 The start of treatment/new treatment course should be delayed in patients with unhealed open soft tissue lesions in the mouth.
 A dental examination with preventive dentistry and an individual benefit-risk assessment is recommended prior to treatment with denosumab in patients with concomitant risk factors.
 
@@ -55,19 +62,15 @@ Patients presenting with such symptoms should be evaluated for an incomplete fem
 
 Long-term antiresorptive treatment
 Long-term antiresorptive treatment (including both denosumab and bisphosphonates) may contribute to an increased risk for adverse outcomes such as osteonecrosis of the jaw and atypical femur fractures due to significant suppression of bone remodelling (see section 4.2).
+
 Concomitant treatment with other denosumab-containing medicinal products
 Patients being treated with Prolia should not be treated concomitantly with other denosumab-containing medicinal products (for prevention of skeletal related events in adults with bone metastases from solid tumours).
-
-Renal impairment
-Patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis are at greater risk of developing hypocalcaemia.
-The risks of developing hypocalcaemia and accompanying parathyroid hormone elevations increase with increasing degree of renal impairment.
-Adequate intake of calcium, vitamin D and regular monitoring of calcium is especially important in these patients, see above.
 
 Dry natural rubber
 The needle cover of the pre-filled syringe contains dry natural rubber (a derivative of latex), which may cause allergic reactions.
 
 Warnings for excipients
-This medicinal product contains sorbitol.
-Patients with rare hereditary problems of fructose intolerance should not take this medicinal product.
+This medicine contains 47 mg sorbitol in each mL of solution.
+The additive effect of concomitantly administered products containing sorbitol (or fructose) and dietary intake of sorbitol (or fructose) should be taken into account.
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per 60 mg i.e. essentially ‘sodium-free’.
