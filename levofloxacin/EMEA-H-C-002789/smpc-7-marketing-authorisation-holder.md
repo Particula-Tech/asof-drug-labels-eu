@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Horizon Pharma Europe B.V.
-Naritaweg 165
-1043 BW Amsterdam
-The Netherlands
+Chiesi Farmaceutici S.p.A.
+Via Palermo, 26/A
+43122 Parma
+Italy
