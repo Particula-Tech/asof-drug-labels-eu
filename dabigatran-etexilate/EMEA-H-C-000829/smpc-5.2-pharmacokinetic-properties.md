@@ -41,7 +41,6 @@ Plasma concentrations of dabigatran showed a biexponential decline with a mean t
 After multiple doses a terminal half-life of about 12-14 hours was observed.
 The half-life was independent of dose.
 Half-life is prolonged if renal function is impaired as shown in table 13.
-
 Special populations
 
 Renal insufficiency
@@ -78,7 +77,6 @@ Body weight
 The dabigatran trough concentrations were about 20 % lower in patients with a body weight > 100 kg compared with 50-100 kg.
 The majority (80.8 %) of the subjects were in the ≥50 kg and < 100 kg category with no clear difference detected (see sections 4.2 and 4.4).
 Limited clinical data in patients < 50 kg are available.
-
 Gender
 Active substance exposure in the primary VTE prevention studies was about 40 % to 50 % higher in female patients and no dose adjustment is recommended.
 
@@ -113,7 +111,7 @@ Patients with mild and moderate renal impairment had at steady state an average 
 Similar values for CrCL were found in RE-COVER II.
 
 The median CrCL in the RE-MEDY and RE-SONATE studies were 99.0 mL/min and 99.7 mL/min, respectively.
-22.9 % and 22.5 % of the patients had a CrCL > 50-< 80 mL/min, and 4.1 % and 4.8 % had a CrCL between 30 and 50 mL/min in in the RE-MEDY and RE-SONATE studies.
+22.9 % and 22.5 % of the patients had a CrCL > 50-< 80 mL/min, and 4.1 % and 4.8 % had a CrCL between 30 and 50 mL/min in the RE-MEDY and RE-SONATE studies.
 
 In atrial fibrillation patients females had on average 30 % higher trough and post-dose concentrations.
 No dose adjustment is required (see section 4.2).

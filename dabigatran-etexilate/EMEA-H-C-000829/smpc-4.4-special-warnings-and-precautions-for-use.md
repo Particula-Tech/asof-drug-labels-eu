@@ -13,7 +13,6 @@ Use of platelet aggregation inhibitors such as clopidogrel and acetylsalicylic a
 Risk factors
 
 Table 2 summarises factors which may increase the haemorrhagic risk.
-
 Table 2: Factors which may increase the haemorrhagic risk.
 
 | Pharmacodynamic and kinetic factors | Age ≥75 years |
@@ -42,7 +41,6 @@ Close observation for signs of bleeding is recommended in patients concomitantly
 Discontinuation of Pradaxa
 
 Patients who develop acute renal failure must discontinue Pradaxa (see also section 4.3).
-
 When severe bleedings occur, treatment must be discontinued, the source of bleeding investigated and use of the specific reversal agent Praxbind (idarucizumab) may be considered (see section 4.9 Management of bleeding complications).
 
 Dose reduction
@@ -52,6 +50,7 @@ A dose reduction is recommended as indicated in section 4.2.
 Use of proton-pump inhibitors
 
 The administration of a proton-pump inhibitor (PPI) can be considered to prevent GI bleeding.
+
 Laboratory coagulation parameters
 
 Although Pradaxa does not in general require routine anticoagulant monitoring, the measurement of dabigatran related anticoagulation may be helpful to detect excessive high exposure to dabigatran in the presence of additional risk factors.
@@ -88,7 +87,6 @@ Emergency surgery or urgent procedures
 
 Pradaxa should be temporarily discontinued.
 When rapid reversal of the anticoagulation effect is required the specific reversal agent (Praxbind, idarucizumab) to Pradaxa is available.
-
 Reversing dabigatran therapy exposes patients to the thrombotic risk of their underlying disease.
 Pradaxa treatment can be re-initiated 24 hours after administration of Praxbind (idarucizumab), if the patient is clinically stable and adequate haemostasis has been achieved.
 
@@ -98,6 +96,7 @@ Pradaxa should be temporarily discontinued.
 A surgery / intervention should be delayed if possible until at least 12 hours after the last dose.
 If surgery cannot be delayed the risk of bleeding may be increased.
 This risk of bleeding should be weighed against the urgency of intervention.
+
 Elective surgery
 
 If possible, Pradaxa should be discontinued at least 24 hours before invasive or surgical procedures.
@@ -136,7 +135,6 @@ Hip fracture surgery
 
 There is no data on the use of Pradaxa in patients undergoing hip fracture surgery.
 Therefore treatment is not recommended.
-
 Hepatic impairment
 
 Patients with elevated liver enzymes > 2 ULN were excluded in controlled clinical trials investigating the VTE prevention following elective hip or knee replacement surgery.
@@ -190,6 +188,8 @@ Table 6 summarises discontinuation rules before invasive or surgical procedures.
 
 Table 6: Discontinuation rules before invasive or surgical procedures
 
+Pradaxa treatment should be resumed / started after the invasive procedure or surgical intervention as soon as possible provided the clinical situation allows and adequate haemostasis has been established.
+
 Patients with elevated liver enzymes > 2 ULN were excluded in the main trials.
 
 Myocardial Infarction (MI)
@@ -230,7 +230,6 @@ Table 4: Coagulation test thresholds at trough that may be associated with an in
 | INR | Should not be performed |
 
 Therefore surgical interventions may require the temporary discontinuation of Pradaxa.
-
 Pradaxa treatment (150 mg twice daily) does not need to be interrupted in patients undergoing catheter ablation for atrial fibrillation (see section 4.2).
 
 When rapid reversal of the anticoagulation effect is required the specific reversal agen (Praxbind, idarucizumab) to Pradaxa is available.
@@ -240,3 +239,5 @@ Pradaxa treatment can be re-initiated 24 hours after administration of Praxabind
 Table 5 summarises discontinuation rules before invasive or surgical procedures.
 
 Table 5: Discontinuation rules before invasive or surgical procedures
+
+Pradaxa treatment should be resumed / startedafter the invasive procedure or surgical intervention as soon as possible provided the clinical situation allows and adequate haemostasis has been established.

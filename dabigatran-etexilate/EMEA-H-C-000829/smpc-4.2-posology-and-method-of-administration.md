@@ -40,7 +40,6 @@ Discontinuation of Pradaxa
 
 Pradaxa treatment should not be discontinued without medical advice.
 Patients should be instructed to contact the treating physician if they develop gastrointestinal symptoms such as dyspepsia (see section 4.8).
-
 Switching
 
 Pradaxa treatment to parenteral anticoagulant:
@@ -169,6 +168,10 @@ Patients can stay on Pradaxa while being cardioverted.
 Catheter ablation for atrial fibrillation (SPAF)
 
 There are no data available for 110 mg twice daily Pradaxa treatment.
+
+Percutaneous coronary intervention (PCI) with stenting (SPAF)
+
+Patients with non valvular atrial fibrillation who undergo a PCI with stenting can be treated with Pradaxa in combination with antiplatelets after haemostasis is achieved (see section 5.1).
 
 For dose modifications in this population see table 2 above.
 

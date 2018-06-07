@@ -11,7 +11,6 @@ Although rare in frequency in clinical trials, major or severe bleeding may occu
 Tabulated list of adverse reactions
 
 Table 8 shows the adverse reactions ranked under headings of System Organ Classes (SOC) and frequency using the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data).
-
 Table 8: Adverse reactions
 
 | SOC / Preferred term | Frequency |
@@ -95,6 +94,7 @@ Therefore, the possibility of haemorrhage is to be considered in evaluating the 
 A specific reversal agent for dabigatran, idarucizumab, is available in case of uncontrollable bleeding (see Section 4.9).
 
 The table 9 shows the number (%) of patients experiencing the adverse reaction bleeding during the treatment period in the VTE prevention in the two pivotal clinical trials, according to dose.
+
 Table 9: Number (%) of patients experiencing the adverse reaction bleeding
 
 |  | Pradaxa 150 mg N (%) | Pradaxa 220 mg N (%) | Enoxaparin N (%) |
@@ -116,7 +116,7 @@ Table 10: Number of patients studied, maximum daily dose in phase III studies
 
 | Indication | Number of patients treated with Pradaxa | Maximum daily dose |
 | --- | --- | --- |
-| pVTEp orthopaedic surgery | 6,684 | 220 mg |
+| Primary Prevention of Venous Thromboembolism in Orthopaedic Surgery | 6,684 | 220 mg |
 | Stroke and systemic embolism prevention in patients with atrial fibrillation | 6,059 5,983 | 300 mg 220 mg |
 | DVT/PE treatment (RE-COVER, RE-COVER II) | 2,553 | 300 mg |
 | DVT/PE prevention (RE-MEDY, RE-SONATE) | 2,114 | 300 mg |
@@ -136,10 +136,9 @@ They are ranked under headings of SOC and frequency using the following conventi
 
 Table 11: Adverse reactions
 
-Frequency
-
-| SOC / Preferred term. | Primary VTE prevention after hip or knee replacement surgery | Stroke and systemic embolism prevention in patients with atrial fibrillation | DVT/PE treatment and DVT/PE prevention |
+|  | Frequency |  |  |
 | --- | --- | --- | --- |
+| SOC / Preferred term. | Primary VTE prevention after hip or knee replacement surgery | Stroke and systemic embolism prevention in patients with atrial fibrillation | DVT/PE treatment and DVT/PE prevention |
 | Blood and lymphatic system disorders |  |  |  |
 | Anaemia | Uncommon | Common | Uncommon |
 | Haemoglobin decreased | Common | Uncommon | Not known |
@@ -206,7 +205,6 @@ Frequency
 Primary Prevention of Venous Thromboembolism in Orthopaedic Surgery
 
 The table 12 shows the number (%) of patients experiencing the adverse reaction bleeding during the treatment period in the VTE prevention in the two pivotal clinical trials, according to dose.
-
 Table 12: Number (%) of patients experiencing the adverse reaction bleeding
 
 |  | Pradaxa 150 mg once daily N (%) | Pradaxa 220 mg once daily N (%) | Enoxaparin N (%) |
@@ -243,7 +241,6 @@ Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevent
 
 Table 14 shows bleeding events in the pooled pivotal studies RE-COVER and RE-COVER II testing the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE).
 In the pooled studies the primary safety endpoints of major bleeding, major or clinically relevant bleeding and any bleeding were significantly lower than warfarin at a nominal alpha level of 5 %.
-
 Table 14: Bleeding events in the studies RE-COVER and RE-COVER II testing the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE)
 
 |  | Pradaxa 150 mg twice daily | Warfarin | Hazard ratio vs. warfarin (95% confidence interval) |
@@ -281,7 +278,6 @@ Table 15: Bleeding events in study RE-MEDY testing prevention of deep vein throm
 
 Table 16 shows bleeding events in pivotal study RE-SONATE testing prevention of deep vein thrombosis (DVT) and pulmonary embolism (PE).
 The rate of the combination of MBEs/CRBEs and the rate of any bleeding was significantly lower at a nominal alpha level of 5 % in patients receiving placebo as compared with those receiving Pradaxa.
-
 Table 16: Bleeding events in study RE-SONATE testing prevention of deep vein thrombosis (DVT) and pulmonary embolism (PE)
 
 |  | Pradaxa 150 mg twice daily | Placebo | Hazard ratio vs placebo (95% confidence interval) |
@@ -306,6 +302,7 @@ On treatment 2 (22.1 %) patients experienced mild related adverse events (gastro
 
 The safety of Pradaxa has been evaluated in a pivotal study investigating the prevention of stroke and systemic embolism in patients with atrial fibrillation, in two active controlled DVT/PE treatment trials and in one active controlled DVT/PE prevention trial.
 In these four phase III trials, 16,709 patients were exposed to Pradaxa (see Table 9).
+
 Table 9: Number of patients studied, maximum daily dose in phase III studies
 
 | Indication | Number of patients treated with Pradaxa | Maximum daily dose |
@@ -323,7 +320,6 @@ Since the patient population treated in the three indications are not comparable
 
 Table 10 shows the adverse reactions identified from the study in prevention of thromboembolic stroke and systemic embolism in patients with atrial fibrillation, the studies in DVT/PE treatment and in DVT/PE prevention .
 They are ranked under headings of System Organ Class (SOC) and frequency using the following convention.very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data).
-
 Table 10: Adverse reactions
 
 |  | Frequency |  |
@@ -391,6 +387,7 @@ Table 11: Bleeding events in a study testing the prevention of thromboembolic st
 The clinical benefit of dabigatran with regard to stroke and systemic embolism prevention and decreased risk of ICH compared to warfarin is preserved across individual subgroups, e.g. renal impairment, age, concomitant medication use such as anti-platelets or P-gp inhibitors.
 
 Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults (DVT/PE) treatment
+
 Table 12 shows bleeding events in the pooled pivotal studies RE-COVER and RE-COVER II testing the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE).
 
 Table 12: Bleeding events in the studies RE-COVER and RE-COVER II testing the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE)
