@@ -1,7 +1,7 @@
 # 5.2 Pharmacokinetic properties
 
 Osimertinib pharmacokinetic parameters have been characterised in healthy subjects and NSCLC patients.
-Based on population pharmacokinetic analysis, osimertinib apparent plasma clearance is 14.2 L/h, apparent volume of distribution is 997 L and terminal half-life of approximately 48 hours.
+Based on population pharmacokinetic analysis, osimertinib apparent plasma clearance is 14.3 L/h, apparent volume of distribution is 918 L and terminal half-life of approximately 44 hours.
 The AUC and Cmax increased dose proportionally over 20 to 240 mg dose range.
 Administration of osimertinib once daily results in approximately 3 fold accumulation with steady-state exposures achieved by 15 days of dosing.
 At steady-state, circulating plasma concentrations are typically maintained within a 1.6 fold range over the 24-hour dosing interval.
@@ -14,8 +14,8 @@ Based on a clinical pharmacokinetic study in patients at 80 mg, food does not al
 In healthy volunteers administered an 80 mg tablet where gastric pH was elevated by dosing of omeprazole for 5 days, osimertinib exposure was not affected (AUC and Cmax increase by 7% and 2%, respectively) with the 90% CI for exposure ratio contained within the 80-125% limit.
 
 Distribution
-Population estimated mean volume of distribution at steady-state (Vss/F) of osimertinib is 997 L indicating extensive distribution into tissue.
-Plasma protein binding could not be measured due to instability, but based on the physicochemical properties of osimertinib plasma protein binding is likely to be high.
+Population estimated mean volume of distribution at steady-state (Vss/F) of osimertinib is 918 L indicating extensive distribution into tissue.
+In vitro plasma protein binding of osimertinib is 94.7% (5.3% free).
 Osimertinib has also been demonstrated to bind covalently to rat and human plasma proteins, human serum albumin and rat and human hepatocytes.
 
 Biotransformation
@@ -38,8 +38,7 @@ Following a single oral dose of 20 mg, 67.8% of the dose was recovered in faeces
 Unchanged osimertinib accounted for approximately 2% of the elimination with 0.8% in urine and 1.2% in faeces.
 Interactions with transport proteins
 In vitro studies have shown that osimertinib is not a substrate of OATP1B1 and OATP1B3.
-In vitro, osimertinib does not inhibit OAT1, OAT3, OATP1B1, OATP1B3 and MATE2K at clinically relevant concentrations.
-However, interactions with, MATE1 and OCT2 substrates cannot be excluded.
+In vitro, osimertinib does not inhibit OAT1, OAT3, OATP1B1, OATP1B3, MATE1, OCT2 and MATE2K at clinically relevant concentrations.
 
 Effects of osimertinib on P-gp and BCRP
 Based on in vitro studies, osimertinib is a substrate of P-glycoprotein and breast cancer resistant protein (BCRP), but is unlikely to result in clinically relevant drug interactions with active substances by osimertinib at the clinical doses.
@@ -47,10 +46,10 @@ Based on in vitro data, osimertinib is an inhibitor of BCRP and P-gp.
 PXR regulated enzyme interactions other than CYP3A4 have not been studied (see section 4.5).
 
 Special populations
-In a population based pharmacokinetic analyses (n=1088), no clinically significant relationships were identified between predicted steady-state exposure (AUCss) and patient’s age (range: 25 to 91 years), gender (65% female), ethnicity (including White, Asian, Japanese, Chinese and non-Asian-non-White patients) and smoking status (n=27 current smokers, n=329 former smokers).
-Population PK analysis indicated that body weight was a significant covariate with a less than 20% change in osimertinib AUCss expected across a body weight range of 89 kg to 43 kg respectively (95% to 5% quantiles) when compared to the AUCss for the median body weight of 60 kg.
-Taking the extremes of body weight into consideration, from <43 kg to >89 kg, AZ5104 metabolite ratios ranged from 11.8% to 9.6% while for AZ7550 it ranged from 12.8% to 8.1%, respectively.
-Based on population PK analysis, serum albumin was identified as a significant covariate with a -15% to +30% change in osimertinib AUCss expected across the albumin range of 29 to 46 g/L respectively (95% to 5% quantiles) when compared to the AUCss for the median baseline albumin of 39 g/L.
+In a population based pharmacokinetic analyses (n=1367), no clinically significant relationships were identified between predicted steady-state exposure (AUCss) and patient’s age (range: 25 to 91 years), gender (65% female), ethnicity (including White, Asian, Japanese, Chinese and non-Asian-non-White patients), line of therapy and smoking status (n=34 current smokers, n=419 former smokers).
+Population PK analysis indicated that body weight was a significant covariate with a less than 20% change in osimertinib AUCss expected across a body weight range of 88 kg to 43 kg respectively (95% to 5% quantiles) when compared to the AUCss for the median body weight of 61 kg.
+Taking the extremes of body weight into consideration, from <43 kg to >88 kg, AZ5104 metabolite ratios ranged from 11.8% to 9.6% while for AZ7550 it ranged from 12.8% to 8.1%, respectively.
+Based on population PK analysis, serum albumin was identified as a significant covariate with a <30% change in osimertinib AUCss expected across the albumin range of 29 to 46 g/L respectively (95% to 5% quantiles) when compared to the AUCss for the median baseline albumin of 39 g/L.
 These exposure changes due to body weight or baseline albumin differences are not considered clinically relevant.
 
 Hepatic impairment
@@ -59,11 +58,11 @@ A pharmacokinetic trial in subjects with hepatic impairment has not been conduct
 Based on population PK analysis, there was no relationship between markers of hepatic function (ALT, AST, bilirubin) and osimertinib exposure.
 The hepatic impairment marker serum albumin showed an effect on the PK of osimertinib.
 Clinical studies that were conducted excluded patients with AST or ALT >2.5x upper limit of normal (ULN), or if due to underlying malignancy, >5.0x ULN or with total bilirubin >1.5x ULN.
-Based on a pharmacokinetic analysis of 104 patients with mild hepatic impairment, 8 patients with moderate hepatic impairment and 972 patients with normal hepatic function osimertinib exposures were similar.
-There are limited data available on patients with severe hepatic impairment (see section 4.2).
+Based on a pharmacokinetic analysis of 134 patients with mild hepatic impairment, 8 patients with moderate hepatic impairment and 1216 patients with normal hepatic function osimertinib exposures were similar.
+There are no data available on patients with severe hepatic impairment (see section 4.2).
 
 Renal impairment
 A pharmacokinetic study in patients with renal impairment has not been conducted.
-Based on a population pharmacokinetic analysis of 471 patients with mild renal impairment (CLcr 60 to less than 90 mL/min), 208 patients with moderate renal impairment (CLcr 30 to <than 60 mL/min), 5 patients with severe renal impairment (CLcr 15 to <than 30 mL/min) and 402 patients with normal renal function (greater than or equal to 90 mL/min), osimertinib exposures were similar.
+Based on a population pharmacokinetic analysis of 593 patients with mild renal impairment (CLcr 60 to less than 90 mL/min), 254 patients with moderate renal impairment (CLcr 30 to <than 60 mL/min), 5 patients with severe renal impairment (CLcr 15 to <than 30 mL/min) and 502 patients with normal renal function (greater than or equal to 90 mL/min), osimertinib exposures were similar.
 Severe renal impairment may influence the elimination of hepatically eliminated medicinal products.
 Patients with CLcr less than 15 mL/min were not included in the clinical trials.

@@ -3,6 +3,9 @@
 The main findings observed in repeat dose toxicity studies in rats and dogs comprised atrophic, inflammatory and/or degenerative changes affecting the epithelia of the cornea (accompanied by corneal translucencies and opacities in dogs at ophthalmology examination), GI tract (including tongue), skin, and male and female reproductive tracts with secondary changes in spleen.
 These findings occurred at plasma concentrations that were below those seen in patients at the 80 mg therapeutic dose.
 The findings present following 1 month of dosing were largely reversible within 1 month of cessation of dosing with the exception of partial recovery for some of the corneal changes.
+
+Osimertinib penetrated the intact blood-brain barrier of the cynomolgus monkey (i.v. dosing), rat and mouse (oral administration).
+
 Non-clinical data indicate that osimertinib and its metabolite (AZ5104) inhibit the h-ERG channel, and QTc prolonging effect cannot be excluded.
 
 Carcinogenesis and mutagenesis

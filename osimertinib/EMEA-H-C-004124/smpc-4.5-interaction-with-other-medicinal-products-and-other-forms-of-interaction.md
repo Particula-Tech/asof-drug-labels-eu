@@ -12,11 +12,12 @@ Further catalyzing enzymes have not been identified.
 
 Active substances that may decrease osimertinib plasma concentrations
 In a clinical pharmacokinetic study in patients, the steady-state AUC of osimertinib was reduced by 78% when co-administered with rifampicin (600 mg daily for 21 days).
-Similarly, the exposure to metabolite, AZ5104 decreased by 82% for the AUC and 78% for Cmax.
+Similarly, the exposure to metabolite AZ5104 decreased by 82% for the AUC and 78% for Cmax.
 It is recommended that concomitant use of strong CYP3A inducers (e.g. Phenytoin, rifampicin and carbamazepine) with TAGRISSO should be avoided.
 Moderate CYP3A4 inducers (e.g. bosentan, efavirenz, etravirine, modafinil) may also decrease osimertinib exposure and should be used with caution, or avoided when possible.
 There are no clinical data available to recommend a dose adjustment of TAGRISSO.
 Concomitant use of St. John’s Wort is contraindicated (see section 4.3).
+
 Effect of gastric acid reducing active substances on osimertinib
 In a clinical pharmacokinetic study, co-administration of omeprazole did not result in clinically relevant changes in osimertinib exposures.
 Gastric pH modifying agents can be concomitantly used with TAGRISSO without any restrictions.

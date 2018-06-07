@@ -1,12 +1,11 @@
 # 4.2 Posology and method of administration
 
 Treatment with TAGRISSO should be initiated by a physician experienced in the use of anticancer therapies.
-
-When considering the use of TAGRISSO as a treatment for locally advanced or metastatic NSCLC, it is necessary that EGFR T790M mutation status is determined.
-EGFR T790M mutation status should be determined by using a validated test method (see section 4.4).
+When considering the use of TAGRISSO, EGFR mutation status in tumour or plasma specimens should be determined using a validated test method (see section 4.4).
 
 Posology
 The recommended dose is 80 mg osimertinib once a day until disease progression or unacceptable toxicity.
+
 If a dose of TAGRISSO is missed, the dose should be made up unless the next dose is due within 12 hours.
 
 TAGRISSO can be taken with or without food at the same time each day.
@@ -40,13 +39,13 @@ No clinical studies have been conducted to specifically evaluate the effect of h
 No dose adjustment is recommended in patients with mild hepatic impairment (total bilirubin ≤upper limit of normal (ULN) and aspartate aminotransferase (AST) >ULN or total bilirubin >1.0 to 1.5x ULN and any AST) or moderate hepatic impairment (total bilirubin between 1.5 to 3 times ULN and any AST) but caution should be used when administering TAGRISSO to these patients.
 The safety and efficacy of this medicinal product has not been established in patients with severe hepatic impairment.
 Until additional data become available, use in patients with severe hepatic impairment is not recommended (see section 5.2).
-
 Renal impairment
 No clinical studies have been conducted to specifically evaluate the effect of renal impairment on the pharmacokinetics of osimertinib.
 No dose adjustment is recommended in patients with mild, moderate, or severe renal impairment.
 Limited data are available in patients with severe renal impairment.
 The safety and efficacy of this medicinal product has not been established in patients with end-stage renal disease [creatinine clearance (CLcr) <15 mL/min, calculated by the Cockcroft and Gault equation], or on dialysis.
 Caution should be exercised when treating patients with severe and end-stage renal impairment (see section 5.2).
+
 Paediatric population
 The safety and efficacy of TAGRISSO in children or adolescents aged less than 18 years have not been established.
 No data are available.
