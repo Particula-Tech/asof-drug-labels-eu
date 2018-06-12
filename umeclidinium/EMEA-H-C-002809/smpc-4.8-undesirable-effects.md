@@ -15,7 +15,7 @@ The frequency of adverse reactions is defined using the following convention: ve
 | Infections and infestations | Nasopharyngitis Upper respiratory tract infection Urinary tract infection Sinusitis Pharyngitis | Common Common Common Common Uncommon |
 | Immune system disorders | Hypersensitivity reactions including: Rash, urticaria and pruritus | Uncommon |
 | Nervous system disorders | Headache Dysgeusia | Common Uncommon |
-| Eye disorders | Glaucoma Vision blurred Intraocular pressure increased | Not known Not known Not known |
+| Eye disorders | Glaucoma Vision blurred Eye pain Intraocular pressure increased | Not known Not known Rare Not known |
 | Cardiac disorders | Atrial fibrillation Rhythm idioventricular Supraventricular tachycardia Supraventricular extrasystoles Tachycardia | Uncommon Uncommon Uncommon Uncommon Common |
 | Respiratory, thoracic and mediastinal disorders | Cough | Common |
 | Gastrointestinal disorders | Constipation Dry mouth | Uncommon Uncommon |

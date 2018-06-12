@@ -1,6 +1,8 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Drugs for obstructive airway diseases, anticholinergics, ATC code: R03BB07 Mechanism of action
+Pharmacotherapeutic group: Drugs for obstructive airway diseases, anticholinergics, ATC code: R03BB07
+
+Mechanism of action
 
 Umeclidinium bromide is a long acting muscarinic receptor antagonist (also referred to as an anticholinergic).
 It is a quinuclidine derivative that is a muscarinic receptor antagonist with activity across multiple muscarinic cholinergic receptor subtypes.
