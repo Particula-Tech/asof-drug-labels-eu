@@ -7,80 +7,25 @@ The product may be stored for a maximum of 4 weeks not above 25°C and away from
 Keep the vial in the outer carton in order to protect from light.
 It is recommended that the date of the first use be noted on the label.
 
-[Insuman Rapid 40 IU/ml solution for injection in a vial]
-
-(all sentences already above)
-
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
 
-Shelf life after first use of the cartridge
+Shelf life after first use
+Insuman Rapid 100 IU/ml in a cartridge
 The cartridge in-use (in the insulin pen) or carried as a spare may be stored for a maximum of 4 weeks not above 25°C and away from direct heat or direct light.
 The pen containing a cartridge must not be stored in the refrigerator.
 The pen cap must be put back on the pen after each injection in order to protect from light.
 
-[Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen.]
-
-Shelf life after first use of the pen
+Insuman rapid SoloStar 100 IU/ml in a pre-filled pen
 The pen in-use or carried as a spare may be stored for a maximum of 4 weeks not above 25°C and away from direct heat or direct light.
 Pens in-use must not be stored in the refrigerator.
 
-[Insuman Rapid 100 IU/ml solution for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Insuman Rapid SoloStar 100 IU/ml solution for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Basal 100 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
 [Insuman Basal 40 IU/ml suspension for injection in a vial]
 
-(all sentences already above)
-
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge]
-
-(all sentences already above)
-
-[Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Insuman Basal SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
+Shelf life after first use of the cartridge, pen
+The cartridge in-use (in the insulin pen) or carried as a spare, the pen in-use or carried as a spare may be stored for a maximum of 4 weeks not above 25°C and away from direct heat or direct light.
+The pen containing a cartridge or pens in-use must not be stored in the refrigerator.
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Comb 15 40 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge]
-
-(all sentences already above)
-
-[Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Insuman Comb 15 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Comb 25 100 IU/ml suspension for injection in a vial]
 
 (all sentences already above)
 
@@ -88,43 +33,7 @@ Pens in-use must not be stored in the refrigerator.
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge]
-
-(all sentences already above)
-
-[Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Insuman Comb 25 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
 [Insuman Comb 30 100 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge]
-
-(all sentences already above)
-
-[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Insuman Comb 30 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
 (all sentences already above)
 
@@ -132,28 +41,15 @@ Pens in-use must not be stored in the refrigerator.
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge]
-
-(all sentences already above)
-
-[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Insuman Comb 50 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
+
+Insuman Infusat 100 IU/ml in a vial
 
 Insulin that has been filled into the pump reservoir may be used for two weeks thereafter.
 
-[Insuman Infusat 100 IU/ml solution for injection in a cartridge]
+Insuman Infusat 100 IU/ml in a cartridge
 
+Shelf life after first use of the cartridge
 The product (cartridges in-use in the pump) may be stored for a maximum of 2 weeks.
 
 [Insuman Implantable 400 IU/ml solution for infusion]

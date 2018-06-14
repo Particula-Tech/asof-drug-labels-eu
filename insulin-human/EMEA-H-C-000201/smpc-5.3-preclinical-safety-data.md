@@ -5,27 +5,7 @@ No evidence of toxic effects was found.
 Local tolerability studies following subcutaneous and intramuscular administration in rabbits gave no remarkable findings.
 Studies of pharmacodynamic effects following subcutaneous administration in rabbits and dogs revealed the expected hypoglycaemic reactions.
 
-[Insuman Rapid 40 IU/ml solution for injection in a vial]
-
-(all sentences already above)
-
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
-
-(all sentences already above)
-
-[Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Rapid 100 IU/ml solution for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Insuman Rapid SoloStar 100 IU/ml solution for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Basal 100 IU/ml suspension for injection in a vial]
 
 (all sentences already above)
 
@@ -33,47 +13,7 @@ Studies of pharmacodynamic effects following subcutaneous administration in rabb
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge]
-
-(all sentences already above)
-
-[Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Insuman Basal SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
 [Insuman Comb 15 100 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Comb 15 40 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge]
-
-(all sentences already above)
-
-[Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Insuman Comb 15 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Comb 25 100 IU/ml suspension for injection in a vial]
 
 (all sentences already above)
 
@@ -81,43 +21,7 @@ Studies of pharmacodynamic effects following subcutaneous administration in rabb
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge]
-
-(all sentences already above)
-
-[Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Insuman Comb 25 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
 [Insuman Comb 30 100 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge]
-
-(all sentences already above)
-
-[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Insuman Comb 30 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
 (all sentences already above)
 
@@ -125,27 +29,7 @@ Studies of pharmacodynamic effects following subcutaneous administration in rabb
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge]
-
-(all sentences already above)
-
-[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Insuman Comb 50 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Infusat 100 IU/ml solution for injection in a cartridge]
 
 (all sentences already above)
 

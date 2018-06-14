@@ -50,40 +50,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-[Insuman Rapid 40 IU/ml solution for injection in a vial]
-
-(all sentences already above)
-
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
-
-| MedDRA system organ classes | Common | Uncommon | Not known |
-| --- | --- | --- | --- |
-| Immune system disorders |  | Shock | Immediate type allergic reactions (hypotension, angioneurotic oedema, bronchospasm, generalised skin reactions); Anti-insulin antibodies |
-| Metabolism and nutrition disorders | Oedema |  | Hypoglycaemia; Sodium retention |
-| Eye disorders |  |  | Proliferative retinopathy; Diabetic retinopathy; Visual impairment |
-| Skin and subcutaneous tissue disorders |  |  | Lipodystrophy |
-| General disorders and administration site | Injection site reactions | Injection site urticaria | Injection site inflammation; |
-| conditions |  |  | Injection site pain; Injection site pruritus; Injection site erythema; Injection site swelling; |
-
-[Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Rapid 100 IU/ml solution for injection in a cartridge for OptiClik.]
-
-| MedDRA system organ classes | Common | Uncommon | Not known |
-| --- | --- | --- | --- |
-| Immune system disorders |  | Shock | Immediate type allergic reactions (hypotension, angioneurotic oedema, bronchospasm, generalised skin reactions); Anti-insulin antibodies |
-| Metabolism and nutrition disorders | Oedema |  | Hypoglycaemia; Sodium retention |
-| Eye disorders |  |  | Proliferative retinopathy; Diabetic retinopathy; Visual impairment |
-| Skin and subcutaneous tissue disorders |  |  | Lipodystrophy |
-| General disorders and administration site conditions | Injection site reactions | Injection site urticaria | Injection site inflammation; Injection site pain; Injection site pruritus; Injection site erythema; Injection site swelling; |
-
-[Insuman Rapid SoloStar 100 IU/ml solution for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Basal 100 IU/ml suspension for injection in a vial]
 
 (all sentences already above)
 
@@ -91,47 +58,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge]
-
-(all sentences already above)
-
-[Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Insuman Basal SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
 [Insuman Comb 15 100 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Comb 15 40 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge]
-
-(all sentences already above)
-
-[Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Insuman Comb 15 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Comb 25 100 IU/ml suspension for injection in a vial]
 
 (all sentences already above)
 
@@ -139,43 +66,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge]
-
-(all sentences already above)
-
-[Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Insuman Comb 25 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
 [Insuman Comb 30 100 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge]
-
-(all sentences already above)
-
-[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Insuman Comb 30 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
 (all sentences already above)
 
@@ -183,27 +74,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge]
-
-(all sentences already above)
-
-[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Insuman Comb 50 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Infusat 100 IU/ml solution for injection in a cartridge]
 
 (all sentences already above)
 

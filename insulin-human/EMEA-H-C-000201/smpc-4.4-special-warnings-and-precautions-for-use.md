@@ -5,6 +5,7 @@ Patients hypersensitive to Insuman Rapid for whom no better tolerated preparatio
 In patients with an allergy to animal insulin intradermal skin testing is recommended prior to a transfer to Insuman Rapid, since they may experience immunological cross-reactions.
 
 In case of insufficient glucose control or a tendency to hyper- or hypoglycaemic episodes, the patient's adherence to the prescribed treatment regimen, injection sites and proper injection technique and all other relevant factors must be reviewed before dose adjustment is considered.
+
 Transfer to Insuman Rapid
 Transferring a patient to another type or brand of insulin should be done under strict medical supervision.
 Changes in strength, brand (manufacturer), type (regular, NPH, lente, long-acting, etc.), origin (animal, human, human insulin analogue) and/or method of manufacture may result in the need for a change in dose.
@@ -42,6 +43,7 @@ These include patients:
 Such situations may result in severe hypoglycaemia (and possibly loss of consciousness) prior to the patient's awareness of hypoglycaemia.
 
 If normal or decreased values for glycated haemoglobin are noted, the possibility of recurrent, unrecognised (especially nocturnal) episodes of hypoglycaemia must be considered.
+
 Adherence of the patient to the dose regimen and dietary regimen, correct insulin administration and awareness of hypoglycaemia symptoms are essential to reduce the risk of hypoglycaemia.
 Factors increasing the susceptibility to hypoglycaemia require particularly close monitoring and may necessitate dose adjustment.
 These include:
@@ -54,7 +56,7 @@ These include:
 - missed meals,
 - alcohol consumption,
 - certain uncompensated endocrine disorders (e.g. in hypothyroidism and in anterior pituitary or adrenocortical insufficiency),
-- concomitant treatment with certain other medicinal products.
+- concomitant treatment with certain other medicinal products (see section 4.5).
 
 Intercurrent illness
 Intercurrent illness requires intensified metabolic monitoring.
@@ -72,35 +74,25 @@ This should be kept in mind if treatment with the combination of pioglitazone an
 If the combination is used, patients should be observed for signs and symptoms of heart failure, weight gain and oedema.
 Pioglitazone should be discontinued if any deterioration in cardiac symptoms occurs.
 
-[Insuman Rapid 40 IU/ml solution for injection in a vial]
-
-(all sentences already above)
-
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
 
-Pens to be used with Insuman Rapid cartridges
+Insuman Rapid 100 IU/ml in a cartridge
+Pens to be used with Insuman Rapid 100 IU/ml in cartridges
+Insuman Rapid 100 IU/ml in cartridges is only suitable for subcutaneous injections from a reusable pen.
+If administration by syringe or intravenous injection is necessary, a vial should be used.
 The Insuman Rapid cartridges should only be used with the following pens:
 - JuniorSTAR which delivers Insuman Rapid in 0.5 unit dose increments
-- OptiPen, ClikSTAR, Tactipen, Autopen 24 and AllStar which all deliver Insuman Rapid in 1 unit dose increments.
-These cartridges should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens.
+- OptiPen, ClikSTAR, Tactipen, Autopen 24, AllStar and AllStar PRO which all deliver Insuman Rapid in 1 unit dose increments.
+These cartridges should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens (see section 4.2 and 6.6).
 Not all of these pens may be marketed in your country.
 
-[Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen.]
-
+Insuman Rapid SoloStar 100 IU/ml in a pre-filled pen
 Handling of the pen
-Before using OptiSet, the Instructions for Use included in the Package Leaflet must be read carefully.
-OptiSet has to be used as recommended in these Instructions for Use (see section 6.6).
-
-[Insuman Rapid 100 IU/ml solution for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Insuman Rapid SoloStar 100 IU/ml solution for injection in a pre-filled pen.]
-
-Before using SoloStar, the Instructions for Use included in the Package Leaflet must be read carefully.
+Insuman Rapid SoloStar 100 IU/ml in pre-filled pen is only suitable for subcutaneous injections.
+If administration by syringe or intravenous injection is necessary, a vial should be used (see section 4.2).Before using SoloStar, the Instructions for Use included in the Package Leaflet must be read carefully.
 SoloStar has to be used as recommended in these Instructions for Use (see section 6.6).
 
-[Insuman Basal 100 IU/ml suspension for injection in a vial]
+[Insuman Basal 40 IU/ml suspension for injection in a vial]
 
 Patients hypersensitive to Insuman Basal for whom no better tolerated preparation is available must only continue treatment under close medical supervision and – where necessary – in conjunction with anti-allergic treatment.
 
@@ -108,61 +100,39 @@ In patients with an allergy to animal insulin intradermal skin testing is recomm
 
 Transfer to Insuman Basal
 
-[Insuman Basal 40 IU/ml suspension for injection in a vial]
-
-Changes in strength, brand (manufacturer), type (regular, NPH, lente, long-acting,etc.), origin (animal, human, human insulin analogue) and/or method of manufacture may result in the need for a change in dose.
-
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge]
-
-Pens to be used with Insuman Basal cartridges
+Insuman Basal 100 IU/ml in a cartridge
+Pens to be used with Insuman Basal 100 IU/ml in cartridges
+Insuman Basal 100 IU/ml in cartridges is only suitable for subcutaneous injections from a reusable pen.
+If administration by syringe is necessary, a vial should be used.
 The Insuman Basal cartridges should only be used with the following pens:
 - JuniorSTAR which delivers Insuman Basal in 0.5 unit dose increments
-- OptiPen, ClikSTAR, Tactipen, Autopen 24 and AllStar which all deliver Insuman Basal in 1 unit dose increments.
+- OptiPen, ClikSTAR, Tactipen, Autopen 24, and AllStar and AllStar PRO which all deliver Insuman Basal in 1 unit dose increments.
+These cartridges should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens.
+Not all of these pens may be marketed in your country (see section 4.2 and 6.6).
 
-[Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Insuman Basal SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
+Insuman Basal SoloStar100 IU/ml in a pre-filled pen
+Insuman Basal SoloStar 100 IU/ml in pre-filled pen is only suitable for subcutaneous injections.
+If administration by syringe is necessary, a vial should be used (see section 4.2).
+Before using SoloStar, the Instructions for Use included in the Package Leaflet must be read carefully.
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a vial]
 
 Patients hypersensitive to Insuman Comb 15 for whom no better tolerated preparation is available must only continue treatment under close medical supervision and – where necessary – in conjunction with anti-allergic treatment.
-
 In patients with an allergy to animal insulin intradermal skin testing is recommended prior to a transfer to Insuman Comb 15, since they may experience immunological cross-reactions.
 
 Transfer to Insuman Comb 15
 
-[Insuman Comb 15 40 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge]
-
-Pens to be used with Insuman Comb 15 cartridges
+Insuman Comb 15 100 IU/ml in a cartridge
+Pens to be used with Insuman Comb 15 100 IU/ml in cartridges
+Insuman Comb 15 100 IU/ml in cartridges is only suitable for subcutaneous injections from a reusable pen.
 The Insuman Com 15 cartridges should only be used with the following pens:
 - JuniorSTAR which delivers Insuman Comb 15 in 0.5 unit dose increments
-- OptiPen, ClikSTAR, Tactipen, Autopen 24 and AllStar which all deliver Insuman Comb 15 in 1 unit dose increments.
+- OptiPen, ClikSTAR, Tactipen, Autopen 24, AllStar and AllStar PRO which all deliver Insuman Comb 15 in 1 unit dose increments.
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen.]
+Insuman Comb 15 SoloStar 100 IU/ml in a pre-filled pen
+Insuman Comb 15 SoloStar 100 IU/ml in pre-filled pen is only suitable for subcutaneous injections.
 
-(all sentences already above)
-
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Insuman Comb 15 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Comb 25 100 IU/ml suspension for injection in a vial]
+[Insuman Comb 25 40 IU/ml suspension for injection in a vial]
 
 Patients hypersensitive to Insuman Comb 25 for whom no better tolerated preparation is available must only continue treatment under close medical supervision and – where necessary – in conjunction with anti-allergic treatment.
 
@@ -170,57 +140,36 @@ In patients with an allergy to animal insulin intradermal skin testing is recomm
 
 Transfer to Insuman Comb 25
 
-[Insuman Comb 25 40 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge]
-
-Pens to be used with Insuman Comb 25 cartridges
+Insuman Comb 25 100 IU/ml in a cartridge
+Pens to be used with Insuman Comb 25 100 IU/ml in cartridges
+Insuman Comb 25 100 IU/ml in cartridges is only suitable for subcutaneous injections from a reusable pen.
 The Insuman Comb 25 cartridges should only be used with the following pens:
 - JuniorSTAR which delivers Insuman Comb 25 in 0.5 unit dose increments
-- OptiPen, ClikSTAR, Tactipen, Autopen 24 and AllStar which all deliver Insuman Comb 25 in 1 unit dose increments.
+- OptiPen, ClikSTAR, Tactipen, Autopen 24, AllStar and AllStar PRO which all deliver Insuman Comb 25 in 1 unit dose increments.
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Insuman Comb 25 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
+Insuman Comb 25 SoloStar 100 IU/ml in a pre-filled pen
+Insuman Comb 25 SoloStar 100 IU/ml in pre-filled pen is only suitable for subcutaneous injections.
 
 [Insuman Comb 30 100 IU/ml suspension for injection in a vial]
 
 Patients hypersensitive to Insuman Comb 30 for whom no better tolerated preparation is available must only continue treatment under close medical supervision and – where necessary – in conjunction with anti-allergic treatment.
-
 In patients with an allergy to animal insulin intradermal skin testing is recommended prior to a transfer to Insuman Comb 30, since they may experience immunological cross-reactions.
 
 Transfer to Insuman Comb 30
+Changes in strength, brand (manufacturer), type (regular, NPH, lente, long-acting,etc.), origin (animal, human, human insulin analogue) and/or method of manufacture may result in the need for a change in dose.
 
-[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge]
-
-Pens to be used with Insuman Comb 30 cartridges
+Insuman Comb 30 100 IU/ml in a cartridge
+Pens to be used with Insuman Comb 30 100 IU/ml in cartridges
+Insuman Comb 30 100 IU/ml in cartridges is only suitable for subcutaneous injections from a reusable pen.
 The Insuman Comb 30 cartridges should only be used with the following pens:
 - JuniorSTAR which delivers Insuman Comb 30 in 0.5 unit dose increments
-- OptiPen, ClikSTAR, Tactipen, Autopen 24 and AllStar which all deliver Insuman Comb 30 in 1 unit dose increments.
+- OptiPen, ClikSTAR, Tactipen, Autopen 24, AllStar and AllStar PRO which all deliver Insuman Comb 30 in 1 unit dose increments.
+Not all of these pens may be marketed in your country(see section 4.2 and 6.6).
 
-[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen.]
+Insuman Comb 30 SoloStar 100 IU/ml in a pre-filled pen
+Insuman Comb 30 SoloStar 100 IU/ml in pre-filled pen is only suitable for subcutaneous injections.
 
-(all sentences already above)
-
-[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Insuman Comb 30 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Comb 50 100 IU/ml suspension for injection in a vial]
+[Insuman Comb 50 40 IU/ml suspension for injection in a vial]
 
 Patients hypersensitive to Insuman Comb 50 for whom no better tolerated preparation is available must only continue treatment under close medical supervision and – where necessary – in conjunction with anti-allergic treatment.
 
@@ -228,35 +177,21 @@ In patients with an allergy to animal insulin intradermal skin testing is recomm
 
 Transfer to Insuman Comb 50
 
-[Insuman Comb 50 40 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge]
-
-Pens to be used with Insuman Comb 50 cartridges
+Insuman Comb 50 100 IU/ml in a cartridge
+Pens to be used with Insuman Comb 50 100 IU/ml in cartridges
+Insuman Comb 50 100 IU/ml in cartridges is only suitable for subcutaneous injections from a reusable pen.
 The Insuman Comb 50 cartridges should only be used with the following pens:
 - JuniorSTAR which delivers Insuman Comb 50 in 0.5 unit dose increments
-- OptiPen, ClikSTAR, Tactipen, Autopen 24 and AllStar which all deliver Insuman Comb 50 in 1 unit dose increments.
+- OptiPen, ClikSTAR, Tactipen, Autopen 24, AllStar and AllStar PRO which all deliver Insuman Comb 50 in 1 unit dose increments.
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge for OptiClik.]
-
-(all sentences already above)
-
-[Insuman Comb 50 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
-
-(all sentences already above)
+Insuman Comb 50 SoloStar 100 IU/ml in a pre-filled pen
+Insuman Comb 50 SoloStar 100 IU/ml in pre-filled pen is only suitable for subcutaneous injections.
 
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
 
 Patients hypersensitive to Insuman Infusat for whom no better tolerated preparation is available must only continue treatment under close medical supervision and – where necessary – in conjunction with anti-allergic treatment.
 
 In patients with an allergy to animal insulin intradermal skin testing is recommended prior to a transfer to Insuman Infusat, since they may experience immunological cross-reactions.
-
 In case of hypoglycaemia, the insulin pump should temporarily be turned off, at least until the patient has recovered complete consciousness.
 
 Transfer to Insuman Infusat
@@ -267,10 +202,6 @@ Whenever the patient notices a rapid increase in blood glucose which does not re
 
 In the event of a pump malfunction, patients must always have injection devices (injection syringe or pen) and insulin available for subcutaneous injection.
 For details on safety precautions in the use of insulin pumps, refer to the operator’s manual.
-
-[Insuman Infusat 100 IU/ml solution for injection in a cartridge]
-
-(all sentences already above)
 
 [Insuman Implantable 400 IU/ml solution for infusion]
 
@@ -295,7 +226,6 @@ During a refill procedure, a very small amount of insulin may be deposited subcu
 Patients must be informed to closely monitor blood glucose levels on refill days (see section 6.6).
 
 - improved insulin sensitivity (e.g., by removal of stress factors),
-- concomitant treatment with certain other medicinal products (see section 4.5).
 
 Hyperglycaemia
 It is known that insulin can form aggregates, fibrils and gel-like structures when it is subjected to chemical and/or physical stress, e.g. increased temperatures and shaking.
