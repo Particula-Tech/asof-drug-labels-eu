@@ -36,7 +36,7 @@ Within each system organ class, adverse reactions are presented in order of decr
 | Cardiac disorders |  |  |  | Kounis syndrome (vasospastic allergic angina / allergic myocardial infarction) in the context of a hypersensitivity reaction due to clopidogrel* |
 | Immune system disorders |  |  |  | Serum sickness, anaphylactoid reactions, cross-reactive drug hypersensitivity among thienopyridines (such as ticlopidine, prasugrel) (see section 4.4)* |
 | Psychiatric disorders |  |  |  | Hallucinations, confusion |
-| Nervous system disorders |  | Intracranial bleeding (some cases were reported with fatal outcome), headache, paraesthesia, dizziness |  | Taste disturbances |
+| Nervous system disorders |  | Intracranial bleeding (some cases were reported with fatal outcome), headache, paraesthesia, dizziness |  | Taste disturbances, ageusia |
 | Eye disorders |  | Eye bleeding (conjunctival, ocular, retinal) |  |  |
 | Ear and labyrinth disorders |  |  | Vertigo |  |
 | Vascular disorders | Haematoma |  |  | Serious haemorrhage, haemorrhage of operative wound, vasculitis, hypotension |
