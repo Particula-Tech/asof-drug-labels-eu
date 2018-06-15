@@ -7,7 +7,8 @@ Sodium oxybate also has the potential to induce respiratory depression.
 Apnoea and respiratory depression have been observed in a fasting healthy subject after a single intake of 4.5 g (twice the recommended starting dose).
 Patients should be questioned regarding signs of Central Nervous System (CNS) or respiratory depression.
 Special caution should be observed in patients with an underlying respiratory disorder.
-Because of the higher risk of sleep apnoea, patients with a BMI ≥40 kg/m2 should be monitored closely when taking sodium oxybate.
+Because of the higher risk of sleep apnoea, patients with a BMI
+≥40 kg/m2 should be monitored closely when taking sodium oxybate.
 
 Approximately 80% of patients who received sodium oxybate during clinical trials maintained CNS stimulant use.
 Whether this affected respiration during the night is unknown.
@@ -55,11 +56,11 @@ Patients with a previous history of a depressive illness and/or suicide attempt 
 Major depression is contraindicated for use with Xyrem (section 4.3).
 
 If a patient experiences urinary or faecal incontinence during sodium oxybate therapy, the prescriber should consider pursuing investigations to rule out underlying aetiologies.
-
 Sleepwalking has been reported in patients treated in clinical trials with sodium oxybate.
 It is unclear if some or all of these episodes correspond to true somnambulism (a parasomnia occurring during non-REM sleep) or to any other specific medical disorder.
 The risk of injury or self-harm should be borne in mind in any patient with sleepwalking.
 Therefore, episodes of sleepwalking should be fully evaluated and appropriate interventions considered.
+
 Sodium intake
 Patients taking sodium oxybate will have an additional daily intake of sodium that ranges from 0.82 g (for a 4.5 g/day Xyrem dose) to 1.6 g (for a 9 g/day Xyrem dose).
 A dietary recommendation to reduce sodium intake should be carefully considered in the management of patients with heart failure, hypertension or compromised renal function (see section 4.2).

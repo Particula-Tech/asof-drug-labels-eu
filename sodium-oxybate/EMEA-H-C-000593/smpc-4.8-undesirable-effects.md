@@ -10,7 +10,6 @@ Additionally, randomised, double-blind, placebo-controlled, crossover drug-drug 
 
 In addition to the adverse reactions reported during clinical studies, adverse reactions have been reported in post-marketing experience.
 It is not always possible to reliably estimate the frequency of their incidence in the population to be treated.
-
 Tabulated summary of adverse reactions
 Undesirable effects are listed according to MedDRA System Organ Class.
 
@@ -23,6 +22,7 @@ Common: nasopharyngitis, sinusitis
 
 Immune system disorders
 Uncommon: hypersensitivity
+
 Metabolism and nutrition disorders
 Common: anorexia, decreased appetite
 Not known: Dehydration, increased appetite
@@ -30,7 +30,7 @@ Not known: Dehydration, increased appetite
 Psychiatric disorders
 Common: depression, cataplexy, anxiety, abnormal dreams, confusional state, disorientation, nightmares, sleepwalking, sleep disorder, insomnia, middle insomnia, nervousness
 Uncommon: suicide attempt, psychosis, paranoia, hallucination, abnormal thinking, agitation, initial insomnia
-Not known: suicidal ideation, homicidal ideation, aggression, euphoric mood, sleep-related eating disorder, panic attack, mania / bipolar disorder, delusion, bruxism, irritability
+Not known: suicidal ideation, homicidal ideation, aggression, euphoric mood, sleep-related eating disorder, panic attack, mania / bipolar disorder, delusion, bruxism, irritability and increased libido
 
 Nervous system disorders
 Very common: dizziness, headache
@@ -54,7 +54,6 @@ Common: hypertension
 Respiratory, thoracic and mediastinal disorders
 Common: dyspnoea, snoring, nasal congestion
 Not known: respiratory depression, sleep apnoea
-
 Gastrointestinal disorders
 Very common: nausea (the frequency of nausea is higher in women than men)
 Common: vomiting, diarrhoea, abdominal pain upper,
@@ -63,7 +62,7 @@ Not known: dry mouth
 
 Skin and subcutaneous tissue disorders
 Common: hyperhidrosis, rash
-Not known: urticaria, angioedema
+Not known: urticaria, angioedema, seborrhea
 
 Musculoskeletal and connective tissue disorders
 Common: arthralgia, muscle, spasms, back pain
@@ -74,6 +73,7 @@ Not known: pollakiuria / micturition urgency
 
 General disorders and administration site conditions
 Common: asthenia, fatigue, feeling drunk, oedema peripheral
+
 Investigations
 Common: blood pressure increased, weight decreased
 

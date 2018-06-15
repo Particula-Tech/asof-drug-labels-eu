@@ -17,8 +17,8 @@ Discontinuation of Xyrem
 The discontinuation effects of sodium oxybate have not been systematically evaluated in controlled clinical trials (see section 4.4).
 
 If the patient stops taking the medicinal product for more than 14 consecutive days, titration should be restarted from the lowest dose.
-
 Special populations
+
 Elderly
 Elderly patients should be monitored closely for impaired motor and/or cognitive function when taking sodium oxybate (see section 4.4).
 

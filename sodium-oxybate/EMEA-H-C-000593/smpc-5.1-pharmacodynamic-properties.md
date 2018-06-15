@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Other nervous system drugs, ATC code: N07XX04.
+
 Sodium oxybate is a central nervous system depressant which reduces excessive daytime sleepiness and cataplexy in patients with narcolepsy and modifies sleep architecture reducing fragmented nighttime sleep.
 The precise mechanism by which sodium oxybate produces an effect is unknown, however sodium oxybate is thought to act by promoting slow (delta) wave sleep and consolidating night-time sleep.
 Sodium oxybate administered before nocturnal sleep increases Stages 3 and 4 sleep and increases sleep latency, whilst reducing the frequency of sleep onset REM periods (SOREMPs).
@@ -21,7 +22,6 @@ Table 1 Summary of clinical trials performed using sodium oxybate for the treatm
 | Trial 4 | Cataplexy | 55 | None | 4 weeks | Xyrem 3 - 9 |
 
 EDS – Excessive daytime sleepiness; ESS – Epworth Sleepiness Scale; MWT – Maintenance of Wakefulness Test; Naps – Number of inadvertent daytime naps; CGIc – Clinical Global Impression of Change; FOSQ – Functional Outcomes of Sleep Questionnaire
-
 Trial 1 enrolled 246 patients with narcolepsy and incorporated a 1 week up-titration period.
 The primary measures of efficacy were changes in excessive daytime sleepiness as measured by the Epworth Sleepiness Scale (ESS), and the change in the overall severity of the patient’s narcolepsy symptoms as assessed by the investigator using the Clinical Global Impressions of Change (CGI-c) measure.
 
