@@ -12,10 +12,11 @@ The risk of opportunistic infections is higher in Asian geographic regions (see 
 XELJANZ should not be initiated in patients with active infections, including localised infections.
 
 The risks and benefits of treatment should be considered prior to initiating XELJANZ in patients:
-•with recurrent infections,
-•with a history of a serious or an opportunistic infection,
-•who have resided or travelled in areas of endemic mycoses,
-•who have underlying conditions that may predispose them to infection.
+
+- with recurrent infections,
+- with a history of a serious or an opportunistic infection,
+- who have resided or travelled in areas of endemic mycoses,
+- who have underlying conditions that may predispose them to infection.
 
 Patients should be closely monitored for the development of signs and symptoms of infection during and after treatment with XELJANZ.
 Treatment should be interrupted if a patient develops a serious infection, an opportunistic infection, or sepsis.
@@ -28,8 +29,9 @@ Discontinuation and monitoring criteria for lymphopenia are discussed in section
 Tuberculosis
 
 The risks and benefits of treatment should be considered prior to initiating XELJANZ in patients:
-•who have been exposed to TB,
-•who have resided or travelled in areas of endemic TB
+
+- who have been exposed to TB,
+- who have resided or travelled in areas of endemic TB
 
 Patients should be evaluated and tested for latent or active infection prior to and per applicable guidelines during administration of XELJANZ.
 
@@ -124,9 +126,9 @@ If the history of chickenpox is considered doubtful or unreliable it is recommen
 
 Vaccination with live vaccines should occur at least 2 weeks but preferably 4 weeks prior to initiation of XELJANZ or in accordance with current vaccination guidelines regarding immunomodulatory medicinal products.
 No data are available on the secondary transmission of infection by live vaccines to patients receiving XELJANZ.
-
 Elderly
 The elderly population in general has an increased risk of adverse events, of increased severity; caution should be used when treating the elderly, see section 4.8.
+
 Lactose
 XELJANZ contains lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.

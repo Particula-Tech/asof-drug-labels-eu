@@ -17,10 +17,10 @@ The most commonly reported adverse reactions during the first 3 months in contro
 
 The proportion of patients who discontinued treatment due to adverse reactions during first 3 months of the double-blind, placebo or MTX controlled studies was 3.8% for patients taking XELJANZ.
 The most common infections resulting in discontinuation of therapy were herpes zoster and pneumonia.
-
 Tabulated list of adverse reactions
 The ADRs listed in the table below are presented by System Organ Class (SOC) and frequency categories, defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100) or rare (≥1/10,000 to <1/1,000).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+
 Table 4: Adverse Drug Reactions
 
 | System Organ Class | Very Common ≥1/10 | Common ≥1/100 to <1/10 | Uncommon ≥1/1,000 to <1/100 | Rare ≥1/10,000 to <1/1,000 |
@@ -53,6 +53,7 @@ The most commonly reported infections were upper respiratory tract infections an
 The overall incidence rate of infections with XELJANZ in the long-term safety all exposure population (total 4867 patients) was 46.1 patients with events per 100 patient-years (43.8 and 47.2 patients with events for 5 mg and 10 mg twice daily, respectively).
 For patients (total 1750) on monotherapy, the rates were 48.9 and 41.9 patients with events per 100 patient-years for 5 mg and 10 mg twice daily, respectively.
 For patients (total 3117) on background DMARDs, the rates were 41.0 and 50.3 patients with events per 100 patient-years for 5 mg and 10 mg twice daily, respectively.
+
 Serious infections
 In the 6-month and 24-month, controlled clinical studies, the rate of serious infections in the 5 mg twice daily XELJANZ monotherapy group was 1.7 patients with events per 100 patient-years.
 In the 10 mg twice daily XELJANZ monotherapy group the rate was 1.6 patients with events per 100 patient-years, the rate was 0 events per 100 patient-years for the placebo group, and the rate was 1.9 patients with events per 100 patient-years for the MTX group.
@@ -70,8 +71,7 @@ As there is a higher incidence of infections in the elderly population in genera
 
 Viral reactivation
 In XELJANZ clinical trials, Japanese and Korean patients appeared to have a higher rate of herpes zoster than that observed in other populations, as do patients with long standing RA who have previously received two or more biological DMARDs.
-Patients with an ALC less than
-1,000 cells/mm3 may have an increased risk of herpes zoster (see section 4.4).
+Patients with an ALC less than 1,000 cells/mm3 may have an increased risk of herpes zoster (see section 4.4).
 
 Laboratory tests
 
@@ -86,8 +86,8 @@ Neutrophils
 In the controlled clinical studies, confirmed decreases in ANC below 1,000 cells/mm3 occurred in 0.08% of patients for the 5 mg twice daily and 10 mg twice daily doses combined.
 There were no confirmed decreases in ANC below 500 cells/mm3 observed in any treatment group.
 There was no clear relationship between neutropenia and the occurrence of serious infections.
-
 In the long-term safety population, the pattern and incidence of confirmed decreases in ANC remained consistent with what was seen in the controlled clinical studies (see section 4.4).
+
 Liver enzyme tests
 Confirmed increases in liver enzymes greater than 3 times the upper limit of normal (3x ULN) were uncommonly observed.
 In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of XELJANZ, or reduction in XELJANZ dose, resulted in decrease or normalisation of liver enzymes.
@@ -111,6 +111,7 @@ AST elevations greater than 3x ULN were observed in <1.0% in both the XELJANZ
 Lipids
 Elevations in lipid parameters (total cholesterol, LDL cholesterol, HDL cholesterol, triglycerides) were first assessed at one month following initiation of XELJANZ in the controlled double-blind clinical trials of RA.
 Increases were observed at this time point and remained stable thereafter.
+
 Changes in lipid parameters from baseline through the end of the study (6-24 months) in the controlled clinical studies in RA are summarised below:
 
 - Mean LDL cholesterol increased by 15% in the XELJANZ 5 mg twice daily arm and 20% in the XELJANZ 10 mg twice daily arm at Month 12, and increased by 16% in the XELJANZ 5 mg twice daily arm and 19% in the XELJANZ 10 mg twice daily arm at Month 24.
@@ -119,8 +120,8 @@ Changes in lipid parameters from baseline through the end of the study (6-24 mon
 Upon withdrawal of XELJANZ treatment, lipid levels returned to baseline.
 
 Mean LDL cholesterol/HDL cholesterol ratios and Apolipoprotein B (ApoB)/ApoA1 ratios were essentially unchanged in XELJANZ-treated patients.
-
 In a controlled clinical trial, elevations in LDL cholesterol and ApoB decreased to pretreatment levels in response to statin therapy.
+
 In the long-term safety populations, elevations in the lipid parameters remained consistent with what was seen in the controlled clinical studies.
 
 Reporting of suspected adverse reactions

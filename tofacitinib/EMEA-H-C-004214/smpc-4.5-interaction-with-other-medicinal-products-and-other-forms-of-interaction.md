@@ -13,7 +13,6 @@ Coadministration of XELJANZ with potent CYP inducers (e.g., rifampicin) may resu
 Coadministration of potent inducers of CYP3A4 with XELJANZ is not recommended.
 Coadministration with ketoconazole and fluconazole increased XELJANZ Cmax, while tacrolimus, ciclosporine and rifampicin decreased XELJANZ Cmax..
 Concomitant administration with MTX 15-25 mg once weekly had no effect on the PK of XELJANZ in RA patients (see Figure 1).
-
 Figure 1.
 Impact of Other Drugs on PK of XELJANZ
 
@@ -23,17 +22,10 @@ Drug
 
 CYP3A Inhibitor
 
-Ketoconazole AUC Reduce XELJANZ Dose to
+Ketoconazole CmaxAUC Reduce XELJANZ Dose to5 mg Once Daily
+CYP3A & CYP2C19 InhibitorFluconazole AUC Reduce XELJANZ Dose to
 Cmax 5 mg Once Daily
-
-CYP3A & CYP2C19 Inhibitor
-
-Fluconazole AUC Reduce XELJANZ Dose to
-Cmax 5 mg Once Daily
-
-CYP Inducer
-
-Rifampicin AUC May Decrease Efficacy
+CYP InducerRifampicin AUC May Decrease Efficacy
 
 Cmax
 
@@ -43,7 +35,7 @@ Cmax
 
 Tacrolimus AUC Combined use of XELJANZ with
 Cmax Tacrolimus should be avoided
-Ciclosporin AUC Combined use of XELJANZ with
+Ciclosporine AUC Combined use of XELJANZ with
 Cmax Ciclosporine should be avoided
 
 0 0.5 1 1.5 2 2.5
@@ -57,7 +49,7 @@ These in vitro results were confirmed by a human drug interaction study showing 
 
 In vitro studies indicate that tofacitinib does not significantly inhibit the activity of the major human drug metabolizing uridine 5'-diphospho-glucuronosyltransferases (UGTs), [UGT1A1, UGT1A4, UGT1A6, UGT1A9, and UGT2B7] at concentrations exceeding 535 and 893 times the steady state total and free Cmax of a 5 mg twice daily dose in RA patients.
 
-In vitro data indicate that the potential for XELJANZ to inhibit transporters such as P-glycoprotein, organic anion transporting polypeptide, organic anionic or cationic transporters at therapeutic concentrations is also low.
+In vitro data indicate that the potential for XELJANZ to inhibit transporters such as multidrug resistance (MDR1), organic anion transporting polypeptide (OATP1B1/1B3), organic anionic (OAT1/3), organic cationic (OCT2), or multidrug resistance-associated protein (MRP2) transporters at therapeutic concentrations is also low.
 
 Coadministration of XELJANZ did not have an effect on the PK of oral contraceptives, levonorgestrel and ethinyl estradiol, in healthy female volunteers.
 

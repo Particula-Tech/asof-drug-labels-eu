@@ -67,18 +67,21 @@ In all studies, patients treated with either 5 or 10 mg twice daily tofacitinib 
 The treatment effect was similar in patients independent of rheumatoid factor status, age, gender, race, or disease status.
 Time to onset was rapid (as early as Week 2 in Studies ORAL Solo, ORAL Sync, and ORAL Step) and the magnitude of response continued to improve with duration of treatment.
 As with the overall ACR response in patients treated with 5 mg or 10 mg twice daily tofacitinib, each of the components of the ACR response was consistently improved from baseline including: tender and swollen joint counts; patient and physician global assessment; disability index scores; pain assessment and CRP compared to patients receiving placebo plus MTX or other DMARDs in all studies.
+
 Table 6: Proportion (%) of Patients with an ACR Response
 
-| ORAL Solo: DMARD Inadequate Responders |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Endpoint | Time | Placebo N=122 | Tofacitinib 5 mg Twice Daily Monotherapy N=241 |  | Tofacitinib 10 mg Twice Daily Monotherapy N=243 |
-| ACR20 | Month 3 | 26 | 60*** |  | 65*** |
-|  | Month 6 | NA | 69 |  | 71 |
-| ACR50 | Month 3 | 12 | 31*** |  | 37*** |
-|  | Month 6 | NA | 42 |  | 47 |
-| ACR70 | Month 3 | 6 | 15* |  | 20*** |
-|  | Month 6 | NA | 22 |  | 29 |
+| ORAL Solo: DMARD Inadequate Responders |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Endpoint | Time | Placebo N=122 | Tofacitinib 5 mg Twice Daily Monotherapy N=241 | Tofacitinib 10 mg Twice Daily Monotherapy N=243 |
+| ACR20 | Month 3 | 26 | 60*** | 65*** |
+|  | Month 6 | NA | 69 | 71 |
+| ACR50 | Month 3 | 12 | 31*** | 37*** |
+|  | Month 6 | NA | 42 | 47 |
+| ACR70 | Month 3 | 6 | 15* | 20*** |
+|  | Month 6 | NA | 22 | 29 |
+
 | ORAL Sync: DMARD Inadequate Responders |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
 | Endpoint | Time | Placebo + DMARD(s) N=158 | Tofacitinib 5 mg Twice Daily + DMARD(s) N=312 |  | Tofacitinib 10 mg Twice Daily + DMARD(s) N=315 |
 | ACR20 | Month 3 | 27 | 56*** |  | 63*** |
 |  | Month 6 | 31 | 53*** |  | 57*** |
@@ -101,23 +104,23 @@ Table 6: Proportion (%) of Patients with an ACR Response
 | ACR70 | Month 3 | 2 | 12** | 15*** | 9* |
 |  | Month 6 | 2 | 19*** | 21*** | 9* |
 |  | Month 12 | NA | 22 | 23 | 17 |
+| ORAL Scan: MTX Inadequate Responders |  |  |  |  |  |
+| Endpoint | Time | Placebo + MTX N=156 | Tofacitinib 5 mg Twice Daily + MTX N=316 |  | Tofacitinib 10 mg Twice Daily + MTX N=309 |
+| ACR20 | Month 3 | 27 | 55*** |  | 66*** |
+|  | Month 6 | 25 | 50*** |  | 62*** |
+|  | Month 12 | NA | 47 |  | 55 |
+|  | Month 24 | NA | 40 |  | 50 |
+| ACR50 | Month 3 | 8 | 28*** |  | 36*** |
+|  | Month 6 | 8 | 32*** |  | 44*** |
+|  | Month 12 | NA | 32 |  | 39 |
+|  | Month 24 | NA | 28 |  | 40 |
+| ACR70 | Month 3 | 3 | 10** |  | 17*** |
+|  | Month 6 | 1 | 14*** |  | 22*** |
+|  | Month 12 | NA | 18 |  | 27 |
+|  | Month 24 | NA | 17 |  | 26 |
 
-| ORAL Scan: MTX Inadequate Responders |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Endpoint | Time | Placebo + MTX N=156 | Tofacitinib 5 mg Twice Daily + MTX N=316 | Tofacitinib 10 mg Twice Daily + MTX N=309 |
-| ACR20 | Month 3 | 27 | 55*** | 66*** |
-|  | Month 6 | 25 | 50*** | 62*** |
-|  | Month 12 | NA | 47 | 55 |
-|  | Month 24 | NA | 40 | 50 |
-| ACR50 | Month 3 | 8 | 28*** | 36*** |
-|  | Month 6 | 8 | 32*** | 44*** |
-|  | Month 12 | NA | 32 | 39 |
-|  | Month 24 | NA | 28 | 40 |
-| ACR70 | Month 3 | 3 | 10** | 17*** |
-|  | Month 6 | 1 | 14*** | 22*** |
-|  | Month 12 | NA | 18 | 27 |
-|  | Month 24 | NA | 17 | 26 |
 | ORAL Step: TNF Inhibitor Inadequate Responders |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | Endpoint | Time | Placebo + MTX N=132 | Tofacitinib 5 mg Twice Daily + MTX N=133 | Tofacitinib 10 mg Twice Daily + MTX N=134 |
 | ACR20 | Month 3 | 24 | 41* | 48*** |
 |  | Month 6 | NA | 51 | 54 |
@@ -146,7 +149,6 @@ DAS28-4(ESR) response
 Patients in the Phase 3 studies had a mean Disease Activity Score (DAS28-4[ESR]) of 6.1-6.7 at baseline.
 Significant reductions in DAS28-4(ESR) from baseline (mean improvement) of 1.8-2.0 and 1.9-2.2 were observed in patients treated with 5 mg and 10 mg twice daily doses, respectively, compared to placebo-treated patients (0.7-1.1) at Month 3.
 The proportion of patients achieving a DAS28 clinical remission (DAS28-4(ESR) <2.6) in ORAL Step, ORAL Sync, and ORAL Standard is shown in Table 7.
-
 Table 7: Number (%) of Subjects Achieving DAS28-4(ESR) <2.6 Remission at Months 3 and 6
 
 |  | Time Point | N | % |
@@ -155,11 +157,11 @@ Table 7: Number (%) of Subjects Achieving DAS28-4(ESR) <2.6 Remission at Months 
 | Tofacitinib 5 mg twice daily + MTX | Month 3 | 133 | 6 |
 | Tofacitinib 10 mg twice daily + MTX | Month 3 | 134 | 8* |
 | Placebo + MTX | Month 3 | 132 | 2 |
-| ORAL Sync : DMARD Inadequate Responders |  |  |  |
+| ORAL Sync: DMARD Inadequate Responders |  |  |  |
 | Tofacitinib 5 mg twice daily | Month 6 | 312 | 8* |
 | Tofacitinib 10 mg twice daily | Month 6 | 315 | 11*** |
 | Placebo | Month 6 | 158 | 3 |
-| ORAL Standard : MTX Inadequate Responders |  |  |  |
+| ORAL Standard: MTX Inadequate Responders |  |  |  |
 | Tofacitinib 5 mg twice daily + MTX | Month 6 | 198 | 6* |
 | Tofacitinib 10 mg twice daily + MTX | Month 6 | 197 | 11*** |
 | Adalimumab 40 mg SC QOW + MTX | Month 6 | 199 | 6* |
@@ -223,7 +225,6 @@ In ORAL Scan, mean SF-36 improvements were maintained to 12 months in tofacitini
 Improvement in fatigue was evaluated by the Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F) scale at Month 3 in all studies.
 Patients receiving tofacitinib 5 or 10 mg twice daily demonstrated significantly greater improvement from baseline in fatigue compared to placebo in all 5 studies.
 In ORAL Standard and ORAL Scan, mean FACIT-F improvements were maintained to 12 months in tofacitinib-treated patients.
-
 Improvement in sleep was assessed using the Sleep Problems Index I and II summary scales of the Medical Outcomes Study Sleep (MOS-Sleep) measure at Month 3 in all studies.
 Patients receiving tofacitinib 5 or 10 mg twice daily demonstrated significantly greater improvement from baseline in both scales compared to placebo in ORAL Sync, ORAL Standard and ORAL Scan.
 In ORAL Standard and ORAL Scan, mean improvements in both scales were maintained to 12 months in tofacitinib-treated patients.

@@ -19,10 +19,11 @@ In a human radiolabeled study, more than 65% of the total circulating radioactiv
 All metabolites have been observed in animal species and are predicted to have less than 10-fold potency than tofacitinib for JAK1/3 inhibition.
 No evidence of stereo conversion in human samples was detected.
 The pharmacologic activity of tofacitinib is attributed to the parent molecule.
+In vitro, tofacitinib is a substrate for MDR1, but not for breast cancer resistance protein (BCRP), OATP1B1/1B3, or OCT1/2, and is not an inhibitor of MDR1, OATP1B1/1B3, OCT2, OAT1/3, or MRP at clinically meaningful concentrations.
+
 Pharmacokinetics in RA patients
 The enzymatic activity of CYP enzymes is reduced in RA patients due to chronic inflammation.
 In RA patients, the oral clearance of XELJANZ does not vary with time, indicating that treatment with XELJANZ does not normalise CYP enzyme activity.
-
 Population PK analysis in RA patients indicated that systemic exposure (AUC) of tofacitinib in the extremes of body weight (40 kg, 140 kg) were similar (within 5%) to that of a 70 kg patient.
 Elderly patients 80 years of age were estimated to have less than 5% higher AUC relative to the mean age of 55 years.
 Women were estimated to have 7% lower AUC compared to men.
@@ -32,7 +33,8 @@ However, this difference is not considered to be clinically relevant.
 The between-subject variability (percentage coefficient of variation) in AUC of tofacitinib is estimated to be approximately 27%.
 
 Renal impairment
-Patients with mild (creatinine clearance 50-80 mL/min), moderate (creatinine clearance 30-49 mL/min), and severe (creatinine clearance <30 mL/min) renal impairment had 37%, 43% and 123% higher AUC, respectively, compared with healthy patients (see section 4.2).
+Patients with mild (creatinine clearance 50-80 mL/min), moderate (creatinine clearance
+30-49 mL/min), and severe (creatinine clearance <30 mL/min) renal impairment had 37%, 43% and 123% higher AUC, respectively, compared with healthy patients (see section 4.2).
 In patients with end-stage renal disease (ESRD), contribution of dialysis to the total clearance of tofacitinib was relatively small.
 Following a single dose of 10 mg, mean AUC in patients with ESRD based on concentrations measured on a non-dialysis day was approximately 40% (90% confidence intervals: 1.5-95%) higher compared with patients with normal renal function.
 In clinical trials, XELJANZ was not evaluated in patients with baseline creatinine clearance values (estimated by Cockroft-Gault equation) less than 40 mL/min (see section 4.2).

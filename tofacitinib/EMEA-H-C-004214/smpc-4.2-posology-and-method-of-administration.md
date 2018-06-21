@@ -10,10 +10,10 @@ No dose adjustment is required when used in combination with methotrexate.
 
 Dose interruption and discontinuation
 XELJANZ treatment should be interrupted if a patient develops a serious infection until the infection is controlled.
+
 Interruption of dosing may be needed for management of dose-related laboratory abnormalities including lymphopenia, neutropenia and anaemia.
 As described in Tables 1, 2 and 3 below, recommendations for temporary dose interruption or permanent discontinuation of treatment are made according to the severity of laboratory abnormalities.
 (see section 4.4)
-
 It is recommended not to initiate dosing in patients with an absolute lymphocyte count less than 750 cells/mm3.
 
 Table 1: Low Absolute Lymphocyte Count
