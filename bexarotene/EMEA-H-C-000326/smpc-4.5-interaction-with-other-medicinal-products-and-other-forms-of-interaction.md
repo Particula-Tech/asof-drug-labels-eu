@@ -1,8 +1,8 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-Effects of other substances on bexarotene: no formal studies to evaluate interactions with bexarotene have been conducted.
-On the basis of the oxidative metabolism of bexarotene by cytochrome
-P450 3A4 (CYP3A4), coadministration with other CYP3A4 substrates such as ketoconazole, itraconazole, protease inhibitors, clarithromycin and erythromycin may theoretically lead to an increase in plasma bexarotene concentrations.
+Effects of other substances on bexarotene
+No formal studies to evaluate interactions with bexarotene have been conducted.
+On the basis of the oxidative metabolism of bexarotene by cytochrome P450 3A4 (CYP3A4), coadministration with other CYP3A4 substrates such as ketoconazole, itraconazole, protease inhibitors, clarithromycin and erythromycin may theoretically lead to an increase in plasma bexarotene concentrations.
 Furthermore, co-administration with CYP3A4 inducers such as rifampicin, phenytoin, dexamethasone or phenobarbital may theoretically cause a reduction in plasma bexarotene concentrations.
 
 Caution is advised in case of combination with CYP3A4 substrates having a narrow therapeutic margin i.e. immunosuppressive agents (cyclosporine, tacrolimus, sirolimus) as well as CYP3A4-metabolised cytotoxics, i.e. cyclophosphamide, etoposide, finasteride, ifosfamide, tamoxifen, vinca-alcaloids.
@@ -12,16 +12,18 @@ The mechanism of this interaction is unknown.
 Under similar conditions, bexarotene concentrations were not affected by concomitant administration of atorvastatin or levothyroxine.
 Concomitant administration of gemfibrozil with bexarotene is not recommended.
 
-Effects of bexarotene on other substances: there are indications that bexarotene may induce CYP3A4.
-Therefore, repeated administration of bexarotene may result in an auto-induction of its own metabolism and, particularly at dose levels greater than 300 mg/m2/day, may increase the rate of metabolism and reduce plasma concentrations of other substances metabolised by cytochrome
-P450 3A4, such as tamoxifen.
+Effects of bexarotene on other substances
+There are indications that bexarotene may induce CYP3A4.
+Therefore, repeated administration of bexarotene may result in an auto-induction of its own metabolism and, particularly at dose levels greater than 300 mg/m2/day, may increase the rate of metabolism and reduce plasma concentrations of other substances metabolised by cytochrome P450 3A4, such as tamoxifen.
 For example bexarotene may reduce the efficacy of oral contraceptives (see sections 4.4 and 4.6).
-
 Bexarotene may potentially enhance the action of insulin, agents enhancing insulin secretion (e.g. sulfonylureas), or insulin-sensitisers (e.g. thiazolidinediones), resulting in hypoglycaemia (see section 4.4).
 
-Laboratory test interactions: CA125 assay values in patients with ovarian cancer may be accentuated with bexarotene therapy.
+Laboratory test interactions
+CA125 assay values in patients with ovarian cancer may be accentuated with bexarotene therapy.
 
-Food interactions: in all clinical trials, patients were instructed to take Targretin capsules with or immediately following a meal.
+Food interactions
+In all clinical trials, patients were instructed to take Targretin capsules with or immediately following a meal.
 In one clinical study, plasma bexarotene AUC and Cmax values were substantially higher following the administration of a fat-containing meal versus those following the administration of a glucose solution.
 Because safety and efficacy data from clinical trials are based upon administration with food, it is recommended that Targretin capsules be administered with food.
+
 On the basis of the oxidative metabolism of bexarotene by cytochrome P450 3A4, grapefruit juice may theoretically lead to an increase in plasma bexarotene concentrations.
