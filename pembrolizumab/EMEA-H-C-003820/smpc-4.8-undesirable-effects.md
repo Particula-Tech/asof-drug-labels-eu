@@ -39,41 +39,41 @@ Table 2: Adverse reactions in patients treated with pembrolizumab
 | Nervous system disorders |  |
 | Common | headache, dizziness, dysgeusia |
 | Uncommon | epilepsy, lethargy, neuropathy peripheral |
-| Rare | Guillain-Barré syndrome, myasthenic syndrome, encephalitis |
+| Rare | Guillain-Barré syndrome, myasthenic syndromee, encephalitis |
 | Eye disorders |  |
-| Uncommon | uveitise, dry eye |
+| Uncommon | uveitisf, dry eye |
 | Cardiac disorders |  |
-| Uncommon | myocarditis |
+| Uncommon | myocarditis, pericarditis, pericardial effusion |
 | Vascular disorders |  |
 | Uncommon | hypertension |
 | Respiratory, thoracic and mediastinal disorders |  |
-| Common | pneumonitisf, dyspnoea, cough |
+| Common | pneumonitisg, dyspnoea, cough |
 | Gastrointestinal disorders |  |
 | Very common | diarrhoea, nausea |
-| Common | colitisg, vomiting, abdominal painh, constipation, dry mouth |
-| Uncommon | pancreatitisi |
+| Common | colitish, vomiting, abdominal paini, constipation, dry mouth |
+| Uncommon | pancreatitisj |
 | Rare | small intestinal perforation |
 | Hepatobiliary disorders |  |
-| Uncommon | hepatitisj |
+| Uncommon | hepatitisk |
 | Skin and subcutaneous tissue disorders |  |
-| Very common | rashk, pruritusl |
-| Common | severe skin reactionsm, vitiligon, dry skin, erythema |
-| Uncommon | lichenoid keratosiso, psoriasis, alopecia, dermatitis, dermatitis acneiform, eczema, hair colour changes, papule |
+| Very common | rashl, pruritusm |
+| Common | severe skin reactionsn, vitiligoo, dry skin, erythema |
+| Uncommon | lichenoid keratosisp, psoriasis, alopecia, dermatitis, dermatitis acneiform, eczema, hair colour changes, papule |
 | Rare | toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema nodosum |
 | Musculoskeletal and connective tissue disorders |  |
-| Common | arthralgia, myositisp, musculoskeletal painq, arthritisr, pain in extremity, |
-| Uncommon | tenosynovitiss |
+| Common | arthralgia, myositisq, musculoskeletal painr, arthritiss, pain in extremity |
+| Uncommon | tenosynovitist |
 | Renal and urinary disorders |  |
-| Uncommon | nephritist |
+| Uncommon | nephritisu |
 | General disorders and administration site conditions |  |
 | Very common | fatigue |
-| Common | asthenia, oedemau, pyrexia, influenza like illness, chills |
+| Common | asthenia, oedemav, pyrexia, influenza like illness, chills |
 | Investigations |  |
 | Common | alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood creatinine increased |
 | Uncommon | blood bilirubin increased, amylase increased, hypercalcaemia |
 
 The following terms represent a group of related events that describe a medical condition rather than a single event.
-a. infusion-related reactions (drug hypersensitivity, anaphylactic reaction, hypersensitivity and cytokine release syndrome) b. hypothyroidism (myxoedema) c. hypophysitis (hypopituitarism) d. type 1 diabetes mellitus (diabetic ketoacidosis) e. uveitis (iritis and iridocyclitis) f. pneumonitis (interstitial lung disease) g. colitis (colitis microscopic and enterocolitis) h. abdominal pain (abdominal discomfort, abdominal pain upper and abdominal pain lower) i. pancreatitis (autoimmune pancreatitis and pancreatitis acute) j. hepatitis (autoimmune hepatitis and drug induced liver injury) k. rash (rash erythematous, rash follicular, rash generalised, rash macular, rash maculo-papular, rash papular, rash pruritic, rash vesicular and genital rash) l. pruritus (urticaria, urticaria papular, pruritus generalized and pruritus genital) m.severe skin reactions (dermatitis exfoliative, erythema multiforme, exfoliative rash, pemphigoid and Grade ≥3 of the following: pruritus, rash, rash generalised and rash maculo-papular, dermatitis psoriasiform, pruritus generalised) n. vitiligo (skin depigmentation, skin hypopigmentation and hypopigmentation of the eyelid) o. lichenoid keratosis (lichen planus and lichen sclerosus) p. myositis (myalgia, myopathy, polymyalgia rheumatica and rhabdomyolysis) q. musculoskeletal pain (musculoskeletal discomfort, back pain, musculoskeletal stiffness, musculoskeletal chest pain and torticollis) r. arthritis (joint swelling, polyarthritis and joint effusion) s. tenosynovitis (tendonitis, synovitis and tendon pain) t. nephritis (nephritis autoimmune, tubulointerstitial nephritis and renal failure or renal failure acute with evidence of nephritis, nephrotic syndrome) u. oedema (oedema peripheral, generalised oedema, fluid overload, fluid retention, eyelid oedema and lip oedema, face oedema, localized oedema and periorbital oedema)
+a. infusion-related reactions (drug hypersensitivity, anaphylactic reaction, hypersensitivity and cytokine release syndrome) b. hypothyroidism (myxoedema) c. hypophysitis (hypopituitarism) d. type 1 diabetes mellitus (diabetic ketoacidosis) e. myasthenic syndrome (myasthenia gravis) f. uveitis (iritis and iridocyclitis) g. pneumonitis (interstitial lung disease) h. colitis (colitis microscopic and enterocolitis) i. abdominal pain (abdominal discomfort, abdominal pain upper and abdominal pain lower) j. pancreatitis (autoimmune pancreatitis and pancreatitis acute) k. hepatitis (autoimmune hepatitis and drug induced liver injury) l. rash (rash erythematous, rash follicular, rash generalised, rash macular, rash maculo-papular, rash papular, rash pruritic, rash vesicular and genital rash) m.pruritus (urticaria, urticaria papular, pruritus generalized and pruritus genital) n. severe skin reactions (dermatitis exfoliative, erythema multiforme, exfoliative rash, pemphigoid and Grade ≥3 of the following: pruritus, rash, rash generalised and rash maculo-papular, dermatitis psoriasiform, pruritus generalised) o. vitiligo (skin depigmentation, skin hypopigmentation and hypopigmentation of the eyelid) p. lichenoid keratosis (lichen planus and lichen sclerosus) q. myositis (myalgia, myopathy, polymyalgia rheumatica and rhabdomyolysis) r. musculoskeletal pain (musculoskeletal discomfort, back pain, musculoskeletal stiffness, musculoskeletal chest pain and torticollis) s. arthritis (joint swelling, polyarthritis and joint effusion) t. tenosynovitis (tendonitis, synovitis and tendon pain) u. nephritis (nephritis autoimmune, tubulointerstitial nephritis and renal failure or renal failure acute with evidence of nephritis, nephrotic syndrome) v. oedema (oedema peripheral, generalised oedema, fluid overload, fluid retention, eyelid oedema and lip oedema, face oedema, localized oedema and periorbital oedema)
 
 Description of selected adverse reactions
 Data for the following immune-related adverse reactions are based on patients who received pembrolizumab across three doses (2 mg/kg every 3 weeks or 10 mg/kg every 2 or 3 weeks) in clinical studies (see section 5.1).
