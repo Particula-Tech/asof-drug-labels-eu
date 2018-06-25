@@ -21,7 +21,6 @@ Imatinib was not considered genotoxic when tested in an in vitro bacterial cell 
 Positive genotoxic effects were obtained for imatinib in an in vitro mammalian cell assay (Chinese hamster ovary) for clastogenicity (chromosome aberration) in the presence of metabolic activation.
 Two intermediates of the manufacturing process, which are also present in the final product, are positive for mutagenesis in the Ames assay.
 One of these intermediates was also positive in the mouse lymphoma assay.
-
 In a study of fertility, in male rats dosed for 70 days prior to mating, testicular and epididymal weights and percent motile sperm were decreased at 60 mg/kg, approximately equal to the maximum clinical dose of 800 mg/day, based on body surface area.
 This was not seen at doses ≤ 20 mg/kg.
 A slight to moderate reduction in spermatogenesis was also observed in the dog at oral doses ≥ 30 mg/kg.
@@ -55,7 +54,6 @@ The renal adenoma/carcinoma, the urinary bladder and urethra papilloma, the smal
 The no observed effect level (NOEL) was 30 mg/kg/day.
 
 The mechanism and relevance of these findings in the rat carcinogenicity study for humans are not yet clarified.
-
 Non-neoplastic lesions not identified in earlier preclinical studies were the cardiovascular system, pancreas, endocrine organs and teeth.
 The most important changes included cardiac hypertrophy and dilatation, leading to signs of cardiac insufficiency in some animals.
 

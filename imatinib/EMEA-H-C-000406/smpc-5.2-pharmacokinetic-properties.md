@@ -56,7 +56,6 @@ Pharmacokinetics in children
 As in adult patients, imatinib was rapidly absorbed after oral administration in paediatric patients in both phase I and phase II studies.
 Dosing in children at 260 and 340 mg/m2/day achieved the same exposure, respectively, as doses of 400 mg and 600 mg in adult patients.
 The comparison of AUC(0-24) on day 8 and day 1 at the 340 mg/m2/day dose level revealed a 1.7-fold drug accumulation after repeated once-daily dosing.
-
 Based on pooled population pharmacokinetic analysis in paediatric patients with haematological disorders (CML, Ph+ALL, or other haematological disorders treated with imatinib), clearance of imatinib increases with increasing body surface area (BSA).
 After correcting for the BSA effect, other demographics such as age, body weight and body mass index did not have clinically significant effects on the exposure of imatinib.
 The analysis confirmed that exposure of imatinib in paediatric patients receiving 260 mg/m2 once daily (not exceeding 400 mg once daily) or 340 mg/m2 once daily (not exceeding 600 mg once daily) were similar to those in adult patients who received imatinib 400 mg or 600 mg once daily.

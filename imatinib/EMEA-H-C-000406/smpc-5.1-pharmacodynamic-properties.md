@@ -11,7 +11,6 @@ Imatinib is a protein-tyrosine kinase inhibitor which potently inhibits the Bcr-
 The compound selectively inhibits proliferation and induces apoptosis in Bcr-Abl positive cell lines as well as fresh leukaemic cells from Philadelphia chromosome positive CML and acute lymphoblastic leukaemia (ALL) patients.
 
 In vivo the compound shows anti-tumour activity as a single agent in animal models using Bcr-Abl positive tumour cells.
-
 Imatinib is also an inhibitor of the receptor tyrosine kinases for platelet-derived growth factor (PDGF), PDGF-R, and stem cell factor (SCF), c-Kit, and inhibits PDGF- and SCF-mediated cellular events.
 In vitro, imatinib inhibits proliferation and induces apoptosis in gastrointestinal stromal tumour (GIST) cells, which express an activating kit mutation.
 Constitutive activation of the PDGF receptor or the Abl protein tyrosine kinases as a consequence of fusion to diverse partner proteins or constitutive production of PDGF have been implicated in the pathogenesis of MDS/MPD, HES/CEL and DFSP.
@@ -503,10 +502,12 @@ All patients achieved partial and/or complete response.
 | Reinduction block 2 (3 weeks) | VCR (1.5 mg/m2/day, IV): days 1, 8 and 15 DAUN (45 mg/m2/day bolus, IV): days 1 and 2 CPM (250 mg/m2/dose q12h x 4 doses, iv): Days 3 and 4 PEG-ASP (2500 IUnits/m2, IM): day 4 G-CSF (5 μg/kg, SC): days 5-14 or until ANC > 1500 post nadir Triple IT therapy (age-adjusted): days 1 and 15 DEX (6 mg/m2/day, PO): days 1-7 and 15-21 |
 | Intensification block 2 (9 weeks) | Methotrexate (5 g/m2 over 24 hours, IV): days 1 and 15 Leucovorin (75 mg/m2 at hour 36, IV; 15 mg/m2 IV or PO q6h x 6 doses)iii: days 2, 3, 16, and 17 Triple IT therapy (age-adjusted): days 1 and 22 VP-16 (100 mg/m2/day, IV): days 22-26 CPM (300 mg/m2/day, IV): days 22-26 MESNA (150 mg/m2/day, IV): days 22-26 G-CSF (5 μg/kg, SC): days 27-36 or until ANC > 1500 post nadir ARA-C (3 g/m2, q12h, IV): days 43, 44 L-ASP (6000 IUnits/m2, IM): day 44 |
 | Maintenance (8-week cycles) Cycles 1–4 | MTX (5 g/m2 over 24 hours, IV): day 1 Leucovorin (75 mg/m2 at hour 36, IV; 15 mg/m2 IV or PO q6h x 6 doses)iii: days 2 and 3 Triple IT therapy (age-adjusted): days 1, 29 VCR (1.5 mg/m2, IV): days 1, 29 DEX (6 mg/m2/day PO): days 1-5; 29-33 6-MP (75 mg/m2/day, PO): days 8-28 Methotrexate (20 mg/m2/week, PO): days 8, 15, 22 VP-16 (100 mg/m2, IV): days 29-33 CPM (300 mg/m2, IV): days 29-33 MESNA IV days 29-33 G-CSF (5 μg/kg, SC): days 34-43 |
-
 | Maintenance (8-week cycles) Cycle 5 | Cranial irradiation (Block 5 only) 12 Gy in 8 fractions for all patients that are CNS1 and CNS2 at diagnosis 18 Gy in 10 fractions for patients that are CNS3 at diagnosis VCR (1.5 mg/m2/day, IV): days 1, 29 DEX (6 mg/m2/day, PO): days 1-5; 29-33 6-MP (75 mg/m2/day, PO): days 11-56 (Withhold 6-MP during the 6-10 days of cranial irradiation beginning on day 1 of Cycle 5. Start 6-MP the 1st day after cranial irradiation completion.) Methotrexate (20 mg/m2/week, PO): days 8, 15, 22, 29, 36, 43, 50 |
-| --- | --- |
-| Maintenance (8-week cycles) Cycles 6-12 | VCR (1.5 mg/m2/day, IV): days 1, 29 DEX (6 mg/m2/day, PO): days 1-5; 29-33 6-MP (75 mg/m2/day, PO): days 1-56 Methotrexate (20 mg/m2/week, PO): days 1, 8, 15, 22, 29, 36, 43, 50 |
+
+Maintenance VCR (1.5 mg/m2/day, IV): days 1, 29
+(8-week cycles) DEX (6 mg/m2/day, PO): days 1-5; 29-33
+Cycles 6-12 6-MP (75 mg/m2/day, PO): days 1-56
+Methotrexate (20 mg/m2/week, PO): days 1, 8, 15, 22, 29, 36, 43, 50
 
 Complete response 1(0.7)
 

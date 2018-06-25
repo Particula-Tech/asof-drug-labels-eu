@@ -138,16 +138,13 @@ For patients unable to swallow the film-coated tablets, the tablets may be dispe
 The required number of tablets should be placed in the appropriate volume of beverage (approximately 50 ml for a 100 mg tablet, and 200 ml for a 400 mg tablet) and stirred with a spoon.
 The suspension should be administered immediately after complete disintegration of the tablet(s).
 
-HES/CEL (starting dose ANC < 1.0 x 109/l 1. Stop Glivec until ANC ≥ 1.5 x 109/l and
-100 mg) and/or platelets ≥ 75 x 109/l.
-platelets < 50 x 109/l 2. Resume treatment with Glivec at
-previous dose (i.e. before severe adverse
-reaction).
-
-| Chronic phase CML, MDS/MPD and GIST (starting dose 400 mg) HES/CEL (at dose 400 mg) | ANC < 1.0 x 109/l and/or platelets < 50 x 109/l | 1. Stop Glivec until ANC ≥ 1.5 x 109/l and platelets ≥ 75 x 109/l. 2. Resume treatment with Glivec at previous dose (i.e. before severe adverse reaction). 3. In the event of recurrence of ANC < 1.0 x 109/l and/or platelets < 50 x 109/l, repeat step 1 and resume Glivec at reduced dose of 300 mg. |
+| HES/CEL (starting dose 100 mg) | ANC < 1.0 x 109/l and/or platelets < 50 x 109/l | 1. Stop Glivec until ANC ≥ 1.5 x 109/l and platelets ≥ 75 x 109/l. 2. Resume treatment with Glivec at previous dose (i.e. before severe adverse reaction). |
 | --- | --- | --- |
+| Chronic phase CML, MDS/MPD and GIST (starting dose 400 mg) HES/CEL (at dose 400 mg) | ANC < 1.0 x 109/l and/or platelets < 50 x 109/l | 1. Stop Glivec until ANC ≥ 1.5 x 109/l and platelets ≥ 75 x 109/l. 2. Resume treatment with Glivec at previous dose (i.e. before severe adverse reaction). 3. In the event of recurrence of ANC < 1.0 x 109/l and/or platelets < 50 x 109/l, repeat step 1 and resume Glivec at reduced dose of 300 mg. |
 | Paediatric chronic phase CML (at dose 340 mg/m2) | ANC < 1.0 x 109/l and/or platelets < 50 x 109/l | 1. Stop Glivec until ANC ≥ 1.5 x 109/l and platelets ≥ 75 x 109/l. 2. Resume treatment with Glivec at previous dose (i.e. before severe adverse reaction). 3. In the event of recurrence of ANC < 1.0 x109/l and/or platelets < 50 x109/l, repeat step 1 and resume Glivec at reduced dose of 260 mg/m2. |
 | Accelerated phase CML and blast crisis and Ph+ ALL (starting dose 600 mg) | aANC < 0.5 x 109/l and/or platelets < 10 x 109/l | 1. Check whether cytopenia is related to leukaemia (marrow aspirate or biopsy). 2. If cytopenia is unrelated to leukaemia, reduce dose of Glivec to 400 mg. 3. If cytopenia persists for 2 weeks, reduce further to 300 mg. 4. If cytopenia persists for 4 weeks and is still unrelated to leukaemia, stop Glivec until ANC ≥ 1 x 109/l and platelets ≥ 20 x 109/l, then resume treatment at 300 mg. |
+
 | Paediatric accelerated phase CML and blast crisis (starting dose 340 mg/m2) | aANC < 0.5 x 109/l and/or platelets < 10 x 109/l | 1. Check whether cytopenia is related to leukaemia (marrow aspirate or biopsy). 2. If cytopenia is unrelated to leukaemia, reduce dose of Glivec to 260 mg/m2. 3. If cytopenia persists for 2 weeks, reduce further to 200 mg/m2. 4. If cytopenia persists for 4 weeks and is still unrelated to leukaemia, stop Glivec until ANC ≥ 1 x 109/l and platelets ≥ 20 x 109/l, then resume treatment at 200 mg/m2. |
+| --- | --- | --- |
 | DFSP (at dose 800 mg) | ANC < 1.0 x 109/l and/or platelets < 50 x 109/l | 1. Stop Glivec until ANC ≥ 1.5 x 109/l and platelets ≥ 75 x 109/l. 2. Resume treatment with Glivec at 600 mg. 3. In the event of recurrence of ANC < 1.0 x 109/l and/or platelets < 50 x 109/l, repeat step 1 and resume Glivec at reduced dose of 400 mg. |
 | ANC = absolute neutrophil count a occurring after at least 1 month of treatment |  |  |

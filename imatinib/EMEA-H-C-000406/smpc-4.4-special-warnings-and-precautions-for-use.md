@@ -9,11 +9,11 @@ Therefore, concomitant use of strong CYP3A4 inducers and imatinib should be avoi
 Hypothyroidism
 Clinical cases of hypothyroidism have been reported in thyroidectomy patients undergoing levothyroxine replacement during treatment with Glivec (see section 4.5).
 Thyroid-stimulating hormone (TSH) levels should be closely monitored in such patients.
-
 Hepatotoxicity
 Metabolism of Glivec is mainly hepatic, and only 13% of excretion is through the kidneys.
 In patients with hepatic dysfunction (mild, moderate or severe), peripheral blood counts and liver enzymes should be carefully monitored (see sections 4.2, 4.8 and 5.2).
 It should be noted that GIST patients may have hepatic metastases which could lead to hepatic impairment.
+
 Cases of liver injury, including hepatic failure and hepatic necrosis, have been observed with imatinib.
 When imatinib is combined with high dose chemotherapy regimens, an increase in serious hepatic reactions has been detected.
 Hepatic function should be carefully monitored in circumstances where imatinib is combined with chemotherapy regimens also known to be associated with hepatic dysfunction (see section 4.5 and 4.8).
@@ -43,9 +43,9 @@ Since increased vascularity and propensity for bleeding is a part of the nature 
 
 In addition, gastric antral vascular ectasia (GAVE), a rare cause of gastrointestinal haemorrhage, has been reported in post-marketing experience in patients with CML, ALL and other diseases (see section 4.8).
 When needed, discontinuation of Glivec treatment may be considered.
-
 Tumour lysis syndrome
 Due to the possible occurrence of tumour lysis syndrome (TLS), correction of clinically significant dehydration and treatment of high uric acid levels are recommended prior to initiation of Glivec (see section 4.8).
+
 Hepatitis B reactivation
 Reactivation of hepatitis B in patients who are chronic carriers of this virus has occurred after these patients received BCR-ABL tyrosine kinase inhibitors.
 Some cases resulted in acute hepatic failure or fulminant hepatitis leading to liver transplantation or a fatal outcome.
@@ -53,6 +53,10 @@ Some cases resulted in acute hepatic failure or fulminant hepatitis leading to l
 Patients should be tested for HBV infection before initiating treatment with Glivec.
 Experts in liver disease and in the treatment of hepatitis B should be consulted before treatment is initiated in patients with positive hepatitis B serology (including those with active disease) and for patients who test positive for HBV infection during treatment.
 Carriers of HBV who require treatment with Glivec should be closely monitored for signs and symptoms of active HBV infection throughout therapy and for several months following termination of therapy (see section 4.8).
+
+Phototoxicity
+Exposure to direct sunlight should be avoided or minimised due to the risk of phototoxicity associated with imatinib treatment.
+Patients should be instructed to use measures such as protective clothing and sunscreen with high sun protection factor (SPF).
 
 Laboratory tests
 Complete blood counts must be performed regularly during therapy with Glivec.
@@ -73,5 +77,5 @@ If renal dysfunction is observed, appropriate management and treatment should be
 
 Paediatric population
 There have been case reports of growth retardation occurring in children and pre-adolescents receiving imatinib.
-The long-term effects of prolonged treatment with imatinib on growth in children are unknown.
-Therefore, close monitoring of growth in children under imatinib treatment is recommended (see section 4.8).
+In an observational study in the CML paediatric population, a statistically significant decrease (but of uncertain clinical relevance) in median height standard deviation scores after 12 and 24 months of treatment was reported in two small subsets irrespective of pubertal status or gender.
+Close monitoring of growth in children under imatinib treatment is recommended (see section 4.8).
