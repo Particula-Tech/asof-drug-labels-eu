@@ -14,15 +14,16 @@ Other possible interaction mechanisms are via inhibition of CYP2C19.
 For atazanavir and nelfinavir, decreased serum levels have been reported when given together with omeprazole and concomitant administration is not recommended.
 Co-administration of omeprazole (40 mg once daily) with atazanavir 300 mg/ritonavir 100 mg to healthy volunteers resulted in a substantial reduction in atazanavir exposure (approximately 75% decrease in AUC, Cmax and Cmin).
 Increasing the atazanavir dose to 400 mg did not compensate for the impact of omeprazole on atazanavir exposure.
-The co-administration of omeprazole (20 mg once a day (qd)) with atazanavir 400 mg/ritonavir 100 mg to healthy volunteers resulted in a decrease of approximately 30% in the atazanavir exposure as compared with the exposure observed with atazanavir 300 mg/ritonavir 100 mg qd without omeprazole 20 mg qd.
-Co-administration of omeprazole (40 mg qd) reduced mean nelfinavir AUC, Cmax and Cmin by 36–39 % and mean AUC, Cmax and Cmin for the pharmacologically active metabolite M8 was reduced by 75-92%.
+The co-administration of omeprazole (20 mg once a day) with atazanavir 400 mg/ritonavir 100 mg to healthy volunteers resulted in a decrease of approximately 30% in the atazanavir exposure as compared with the exposure observed with atazanavir 300 mg/ritonavir 100 mg once a day without omeprazole 20 mg once a day.
+Co-administration of omeprazole
+(40 mg once a day) reduced mean nelfinavir AUC, Cmax and Cmin by 36–39 % and mean AUC, Cmax and Cmin for the pharmacologically active metabolite M8 was reduced by 75-92%.
 Due to the similar pharmacodynamic effects and pharmacokinetic properties of omeprazole and esomeprazole, concomitant administration with esomeprazole and atazanavir is not recommended and concomitant administration with esomeprazole and nelfinavir is contraindicated (see section 4.3 and 4.4).
 
-For saquinavir (with concomitant ritonavir), increased serum levels (80-100%) have been reported during concomitant omeprazole treatment (40 mg qd).
-Treatment with omeprazole 20 mg qd had no effect on the exposure of darunavir (with concomitant ritonavir) and amprenavir (with concomitant ritonavir).
+For saquinavir (with concomitant ritonavir), increased serum levels (80-100%) have been reported during concomitant omeprazole treatment (40 mg once a day).
+Treatment with omeprazole 20 mg once a day had no effect on the exposure of darunavir (with concomitant ritonavir) and amprenavir (with concomitant ritonavir).
 
-Treatment with esomeprazole 20 mg qd had no effect on the exposure of amprenavir (with and without concomitant ritonavir).
-Treatment with omeprazole 40 mg qd had no effect on the exposure of lopinavir (with concomitant ritonavir).
+Treatment with esomeprazole 20 mg once a day had no effect on the exposure of amprenavir (with and without concomitant ritonavir).
+Treatment with omeprazole 40 mg once a day had no effect on the exposure of lopinavir (with concomitant ritonavir).
 
 Methotrexate
 When given together with PPIs, methotrexate levels have been reported to increase in some patients.
@@ -30,7 +31,7 @@ In high-dose methotrexate administration a temporary withdrawal of esomeprazole 
 
 Tacrolimus
 Concomitant administration of esomeprazole has been reported to increase the serum levels of tacrolimus.
-A reinforced monitoring of tacrolimus concentrations as well as renal function (creatinine clearance) should be performed, and dosage of tacrolimus adjusted if needed.
+A reinforced monitoring of tacrolimus concentrations as well as renal function (creatinine clearance) should be performed, and the dose of tacrolimus adjusted if needed.
 
 Medicinal products with pH dependent absorption
 Gastric acid suppression during treatment with esomeprazole and other PPIs might decrease or increase the absorption of medicinal products with a gastric pH dependent absorption.
@@ -39,7 +40,7 @@ The absorption of medicinal products taken orally such as ketoconazole, itracona
 Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (up to 30% in two out of ten subjects).
 Digoxin toxicity has been rarely reported.
 However, caution should be exercised when esomeprazole is given at high doses in elderly patients.
-Therapeutic drug monitoring of digoxin should then be reinforced.
+Therapeutic monitoring of digoxin should then be reinforced.
 
 Medicinal products metabolised by CYP2C19
 Esomeprazole inhibits CYP2C19, the major esomeprazole metabolising enzyme.
@@ -47,7 +48,7 @@ Thus, when esomeprazole is combined with medicinal products metabolised by CYP2C
 In case of clopidogrel, a prodrug which is transformed into its active metabolite via CYP2C19, the plasma concentrations of the active metabolite may be decreased.
 
 Warfarin
-Concomitant administration of 40 mg esomeprazole to warfarin-treated patients in a clinical trial showed that coagulation times were within the accepted range.
+Concomitant administration of 40 mg esomeprazole to warfarin-treated patients in a clinical study showed that coagulation times were within the accepted range.
 However, post-marketing, a few isolated cases of elevated INR of clinical significance have been reported during concomitant treatment.
 Monitoring is recommended when initiating and ending concomitant esomeprazole treatment during treatment with warfarin or other coumarine derivatives.
 
@@ -98,6 +99,6 @@ Medicinal products known to induce CYP2C19 or CYP3A4 or both (such as rifampicin
 [Nexium Control 20 mg gastro-resistant hard capsules]
 
 Co-administration of omeprazole (40 mg once daily) with atazanavir 300 mg/ritonavir 100 mg to healthy volunteers resulted in a substantial reduction in atazanavir exposure (approximately 75% decrease in AUC, Cmax, and Cmin).
-Co-administration of omeprazole (40 mg qd) reduced mean nelfinavir AUC, Cmax, and Cmin by 36 - 39 % and mean AUC, Cmax, and Cmin for the pharmacologically active metabolite M8 was reduced by 75 - 92%.
+(40 mg once a day) reduced mean nelfinavir AUC, Cmax, and Cmin by 36 - 39 % and mean AUC, Cmax, and Cmin for the pharmacologically active metabolite M8 was reduced by 75 - 92%.
 
 Concomitant administration of esomeprazole and a combined inhibitor of CYP2C19 and CYP3A4 may result in more than doubling of the esomeprazole exposure.
