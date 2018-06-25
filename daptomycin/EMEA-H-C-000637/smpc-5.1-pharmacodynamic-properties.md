@@ -75,7 +75,7 @@ A total of 389 subjects were treated in the study, including 256 subjects who re
 In all populations the clinical success rates were comparable between the daptomycin and SOC treatment arms, supporting the primary efficacy analysis in the ITT population.
 
 Summary of sponsor-defined clinical outcome at TOC:
-Clinical Success in Paedatric cSSTI
+Clinical Success in Paediatric cSSTI
 
 Daptomycin Comparator
 n/N (%) n/N (%) % difference
@@ -88,7 +88,7 @@ The overall therapeutic response rate also was similar for the daptomycin and SO
 
 Summary of overall therapeutic response by type of baseline pathogen (ME population):
 
-| Pathogen | Overall Successa rate in Paedatric cSSTI n/N (%) |  |
+| Pathogen | Overall Successa rate in Paediatric cSSTI n/N (%) |  |
 | --- | --- | --- |
 |  | Daptomycin | Comparator |
 | Methicillin-susceptible Staphylococcus aureus (MSSA) | 68/69 (99%) | 28/29 (97%) |
@@ -106,12 +106,13 @@ Patients were randomized in a 2:1 ratio into the following age groups and given 
 
 The primary objective of Study DAP-PEDBAC-11-02 was to assess the safety of intravenous daptomycin versus SOC antibiotics.
 Secondary objectives included: Clinical outcome based on the blinded Evaluator’s assessment of clinical response (success [cure, improved], failure, or non-evaluable) at the TOC Visit; and Microbiological response (success, failure, or non-evaluable) based on evaluation of Baseline infecting pathogen at TOC.
+
 A total of 81 subjects were treated in the study, including 55 subjects who received daptomycin and 26 subjects who received standard-of-care.
 No patients 1 to <2 years of age were enrolled in the study.
 In all populations the clinical success rates were comparable in the daptomycin versus the SOC treatment arm.
 
 Summary of Blinded Evaluator defined clinical outcome at TOC:
-Clinical Success in Paedatric SAB
+Clinical Success in Paediatric SAB
 
 Daptomycin Comparator
 n/N (%) n/N (%) % difference
@@ -124,7 +125,7 @@ Clinically evaluable (CE) 36/40 (90.0%) 9/12 (75.0%) 15.0%
 
 The microbiological outcome at TOC for the daptomycin and SOC treatment arms for infections caused by MRSA and MSSA are presented in the table below (mMITT population).
 
-| Pathogen | Microbiological Success rate in Paedatric SAB n/N (%) |  |
+| Pathogen | Microbiological Success rate in Paediatric SAB n/N (%) |  |
 | --- | --- | --- |
 |  | Daptomycin | Comparator |
 | Methicillin-susceptible Staphylococcus aureus (MSSA) | 43/44 (97.7%) | 19/19 (100.0%) |

@@ -20,7 +20,6 @@ The findings of in vitro and some in vivo studies designed to investigate the me
 The specific cell surface component directly targeted has not been identified.
 Mitochondrial loss/damage was also observed; however the role and significance of this finding in the overall pathology are unknown.
 This finding was not associated with an effect on muscle contraction.
-
 In contrast to adult dogs, juvenile dogs appeared to be more sensitive to peripheral nerve lesions as compared to skeletal myopathy.
 Juvenile dogs developed peripheral and spinal nerve lesions at doses lower than those associated with skeletal muscle toxicity.
 

@@ -80,10 +80,10 @@ Transfer the required reconstituted dose into 50 ml sodium chloride 9 mg/ml (0.9
 The reconstituted and diluted solution should then be infused intravenously over 30 or 60 minutes as directed in section 4.2.
 
 The following have been shown to be compatible when added to Cubicin containing infusion solutions: aztreonam, ceftazidime, ceftriaxone, gentamicin, fluconazole, levofloxacin, dopamine, heparin and lidocaine.
+
 Cubicin given as 2-minute intravenous injection (adult patients only)
 Water should not be used for reconstitution of Cubicin for intravenous injection.
 Cubicin should only be reconstituted with sodium chloride 9 mg/ml (0.9%).
-
 A 50 mg/ml concentration of Cubicin 350 mg powder for injection is obtained by reconstituting the lyophilised product with 7 ml of sodium chloride 9 mg/ml (0.9%) solution for injection.
 
 A 50 mg/ml concentration of Cubicin 500 mg powder for injection is obtained by reconstituting the lyophilised product with 10 ml of sodium chloride 9 mg/ml (0.9%) solution for injection.

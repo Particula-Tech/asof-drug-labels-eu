@@ -28,21 +28,21 @@ Blood and lymphatic system Common: Anaemia
 
 disorders Uncommon: Thrombocythaemia, eosinophilia, international
 
-normalised ratio (INR) increased
+normalised ratio (INR) increased, leukocytosis
 
 Rare: Prothrombin time (PT) prolonged
+
+Not known*: Thrombocytopaenia
+
 Immune system disorders Not known*: Hypersensitivity**, manifested by isolated
 
-spontaneous reports including, but not limited to angioedema, drug rash with eosinophilia and systemic symptoms (DRESS), pulmonary eosinophilia, vesicobullous rash with mucous membrane involvement and sensation of oropharyngeal swelling
-Not known*: Anaphylaxis**
-Not known*: Infusion reactions including the following symptoms: tachycardia, wheezing, pyrexia, rigors, systemic flushing, vertigo, syncope and metallic taste Metabolism and nutrition Uncommon: Decreased appetite, hyperglycaemia, electrolyte
+spontaneous reports including, but not limited to angioedema, drug rash with eosinophilia and systemic symptoms (DRESS), pulmonary eosinophilia, vesicobullous rash with mucous membrane involvement and sensation of oropharyngeal swelling, anaphylaxis**, infusion reactions including the following symptoms: tachycardia, wheezing, pyrexia, rigors, systemic flushing, vertigo, syncope and metallic taste Metabolism and nutrition Uncommon: Decreased appetite, hyperglycaemia, electrolyte
 
 disorders imbalance
 Psychiatric disorders Common: Anxiety, insomnia
 Nervous system disorders Common: Dizziness, headache
 
-Uncommon: Paraesthesia, taste disorder, tremor
-Not known*: Peripheral neuropathy**
+Uncommon: Paraesthesia, taste disorder, tremor, eye irritation Not known*: Peripheral neuropathy**
 Ear and labyrinth disorders Uncommon: Vertigo
 
 Cardiac disorders Uncommon: Supraventricular tachycardia, extrasystole
@@ -71,7 +71,7 @@ Not known*: Acute generalised exanthematous pustulosis
 Musculoskeletal and Common: Limb pain, serum creatine phosphokinase (CPK)2
 connective tissue disorders increased
 
-Uncommon: Myositis, increased myoglobin, muscular weakness, muscle pain, arthralgia, serum lactate dehydrogenase (LDH) increased
+Uncommon: Myositis, increased myoglobin, muscular weakness, muscle pain, arthralgia, serum lactate dehydrogenase (LDH) increased, muscle cramps
 Not known*: Rhabdomyolysis3 **
 Renal and urinary disorders Uncommon: Renal impairment, including renal failure and renal insufficiency, serum creatinine increased Reproductive system and Uncommon: Vaginitis breast disorders
 

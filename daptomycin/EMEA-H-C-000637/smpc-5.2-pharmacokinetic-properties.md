@@ -57,7 +57,6 @@ A Phase 4 study (DAP-PEDS-07-03) was conducted to assess safety, efficacy, and p
 Daptomycin pharmacokinetics in patients in this study are summarized in Table 2.
 Following administration of multiple doses, daptomycin exposure was similar across different age groups after dose adjustment based on body weight and age.
 Plasma exposures achieved with these doses were consistent with those achieved in the adult cSSTI study (following 4 mg/kg once daily in adults).
-
 Table 2 Mean (Standard Deviation) of Daptomycin Pharmacokinetics in Paediatric cSSTI Patients (1 to 17 Years of Age) in Study DAP-PEDS-07-03
 
 | Age Range | 12-17 years (N=6) | 7-11 years (N=2)a | 2-6 years (N=7) | 1 to <2 years (N=30)b |
@@ -96,6 +95,7 @@ However, no dose adjustment is considered to be necessary based on obesity alone
 
 Gender
 No clinically significant gender-related differences in daptomycin pharmacokinetics have been observed.
+
 Renal impairment
 Following administration of a single 4 mg/kg or 6 mg/kg intravenous dose of daptomycin over a 30-minute period to adult subjects with various degrees of renal impairment, total daptomycin clearance (CL) decreased and systemic exposure (AUC) increased as renal function (creatinine clearance) decreased.
 
