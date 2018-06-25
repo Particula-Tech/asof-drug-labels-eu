@@ -17,7 +17,6 @@ In addition, T-cell receptor DNA sequencing verified that T-cell clonality was i
 Daratumumab induced apoptosis in vitro after Fc mediated cross-linking.
 In addition, daratumumab modulated CD38 enzymatic activity, inhibiting the cyclase enzyme activity and stimulating the hydrolase activity.
 The significance of these in vitro effects in a clinical setting, and the implications on tumour growth, are not well-understood.
-
 Pharmacodynamic effects
 Natural killer (NK) cell and T-cell count
 NK cells are known to express high levels of CD38 and are susceptible to daratumumab mediated cell lysis.
@@ -52,7 +51,7 @@ Table 5: IRC assessed efficacy results for study MMY2002
 | Complete response (CR) [n] | 0 |
 | Very good partial response (VGPR) [n (%)] | 10 (9.4) |
 | Partial response (PR) [n (%)] | 18 (17.0) |
-| Clinical Benefit Rate (ORR+MR) [n(%)] | 36 (34.0) |
+| Clinical Benefit Rate (ORR+MR) [n (%)] | 36 (34.0) |
 | Median Duration of Response [months (95% CI)] | 7.4 (5.5, NE) |
 | Median Time to Response [months (range)] | 1 (0.9; 5.6) |
 

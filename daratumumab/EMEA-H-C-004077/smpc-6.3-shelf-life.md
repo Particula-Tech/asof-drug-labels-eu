@@ -1,7 +1,7 @@
 # 6.3 Shelf life
 
 Unopened vials
-18 months
+24 months
 
 After dilution
 From a microbiological point of view, unless the method of opening/ dilution precludes the risk of microbial contamination, the product should be used immediately.

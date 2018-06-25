@@ -55,6 +55,7 @@ In patients receiving DARZALEX combination therapy, Grade 3 or 4 infections were
 Pneumonia was the most commonly reported severe (Grade 3 or 4) infection across studies.
 Discontinuations from treatment were reported in 2% to 5% of patients.
 Fatal infections were reported in 0.8% to 2% of patients across studies, primarily due to pneumonia and sepsis.
+
 Haemolysis
 There is a theoretical risk of haemolysis.
 Continuous monitoring for this safety signal will be performed in clinical studies and post-marketing safety data.
