@@ -1,6 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-Potential for other medicinal products to influence the PK of XELJANZ
+Potential for other medicinal products to influence the pharmacokinetics (PK) of XELJANZ
 Since XELJANZ is metabolised by CYP3A4, interaction with medicinal products that inhibit or induce CYP3A4 is likely.
 XELJANZ exposure is increased when coadministered with potent inhibitors of CYP3A4 (e.g., ketoconazole) or when administration of one or more concomitant medications results in both moderate inhibition of CYP3A4 and potent inhibition of CYP2C19
 (e.g., fluconazole) (see section 4.2).
@@ -22,21 +22,25 @@ Drug
 
 CYP3A Inhibitor
 
-Ketoconazole CmaxAUC Reduce XELJANZ Dose to5 mg Once Daily
-CYP3A & CYP2C19 InhibitorFluconazole AUC Reduce XELJANZ Dose to
-Cmax 5 mg Once Daily
-CYP InducerRifampicin AUC May Decrease Efficacy
+Ketoconazol AU Reduce XELJANZ Dose
+Cma 5 mg Once Daily
 
-Cmax
+CYP3A & CYP2C19 Inhibitor
 
-Methotrexate AUC No Dose Adjustment
+Fluconazol AU Reduce XELJANZ Dose
+Cma 5 mg Once Daily
+CYP Inducer Rifampici AU May Decrease
 
-Cmax
+Cma
 
-Tacrolimus AUC Combined use of XELJANZ with
-Cmax Tacrolimus should be avoided
-Ciclosporine AUC Combined use of XELJANZ with
-Cmax Ciclosporine should be avoided
+Methotrexate AU No Dose Adjustment
+
+Cma
+
+Tacrolimus AU Combined use of XELJANZ with
+Cma Tacrolimus should be
+Ciclosporine AU Combined use of XELJANZ with
+Cma Ciclosporine should be avoided
 
 0 0.5 1 1.5 2 2.5
 Ratio relative to reference
@@ -44,10 +48,10 @@ Ratio relative to reference
 Note: Reference group is administration of XELJANZ alone
 
 Potential for XELJANZ to influence the PK of other medicinal products
-In vitro studies indicate that tofacitinib does not significantly inhibit or induce the activity of the major human drug metabolizing CYPs (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4) at concentrations exceeding 160 and 268 times the respective steady state total and free Cmax, respectively, of a 5 mg twice daily dose in RA patients.
+In vitro studies indicate that tofacitinib does not significantly inhibit or induce the activity of the major human drug metabolizing CYPs (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4) at concentrations exceeding 160 and 268 times the respective steady state total and free Cmax, respectively, of a 5 mg twice daily dose in patients treated with tofacitinib.
 These in vitro results were confirmed by a human drug interaction study showing no changes in the PK of midazolam, a highly sensitive CYP3A4 substrate, when coadministered with XELJANZ.
 
-In vitro studies indicate that tofacitinib does not significantly inhibit the activity of the major human drug metabolizing uridine 5'-diphospho-glucuronosyltransferases (UGTs), [UGT1A1, UGT1A4, UGT1A6, UGT1A9, and UGT2B7] at concentrations exceeding 535 and 893 times the steady state total and free Cmax of a 5 mg twice daily dose in RA patients.
+In vitro studies indicate that tofacitinib does not significantly inhibit the activity of the major human drug metabolizing uridine 5'-diphospho-glucuronosyltransferases (UGTs), [UGT1A1, UGT1A4, UGT1A6, UGT1A9, and UGT2B7] at concentrations exceeding 535 and 893 times the steady state total and free Cmax of a 5 mg twice daily dose in patients treated with tofacitinib.
 
 In vitro data indicate that the potential for XELJANZ to inhibit transporters such as multidrug resistance (MDR1), organic anion transporting polypeptide (OATP1B1/1B3), organic anionic (OAT1/3), organic cationic (OCT2), or multidrug resistance-associated protein (MRP2) transporters at therapeutic concentrations is also low.
 
@@ -56,4 +60,4 @@ Coadministration of XELJANZ did not have an effect on the PK of oral contracepti
 In RA patients, coadministration of XELJANZ with MTX 15-25 mg once weekly decreased the AUC and Cmax of MTX by 10% and 13%, respectively.
 The extent of decrease in MTX exposure does not warrant modifications to the individualised dosing of MTX.
 
-Coadministration of XELJANZ did not have an effect on the PK of metformin, indicating that XELJANZ does not interfere with the organic cationic transporter (OCT2) in healthy volunteers.
+Coadministration of XELJANZ did not have an effect on the PK of metformin, indicating that XELJANZ does not interfere with the OCT2 in healthy volunteers.
