@@ -28,7 +28,7 @@ Most patients with fatal infections also had neutropenia.
 Patients should be monitored for fever, neutropenia and infections and appropriate anti-infective therapy should be instituted as indicated.
 Consider prophylaxis according to standard of care in patients who are at increased risk for opportunistic infections.
 
-Cases of Progressive Multifocal Leukoencephalopathy (PML) including fatal ones have been reported following the use of ibrutinib within the context of a prior or concomitant immunosuppressive therapy.
+Cases of progressive multifocal leukoencephalopathy (PML) including fatal ones have been reported following the use of ibrutinib within the context of a prior or concomitant immunosuppressive therapy.
 Physicians should consider PML in the differential diagnosis in patients with new or worsening neurological, cognitive or behavioral signs or symptoms.
 If PML is suspected then appropriate diagnostic evaluations should be undertaken and treatment suspended until PML is excluded.
 If any doubt exists, referral to a neurologist and appropriate diagnostic measures for PML including MRI scan preferably with contrast, cerebrospinal fluid (CSF) testing for JC Viral DNA and repeat neurological assessments should be considered.
@@ -79,3 +79,8 @@ If a CYP3A4 inducer must be used, closely monitor patients for signs of IMBRUVIC
 
 Women of childbearing potential
 Women of childbearing potential must use a highly effective method of contraception while taking IMBRUVICA (see section 4.6).
+
+[IMBRUVICA 140 mg film-coated tablets]
+
+Intolerance to excipients
+Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.

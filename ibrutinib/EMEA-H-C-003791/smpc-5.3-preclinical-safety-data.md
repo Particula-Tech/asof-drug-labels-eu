@@ -26,4 +26,8 @@ Ibrutinib caused malformations in rabbits at a dose of 15 mg/kg/day (approximate
 Consequently the foetal NOAEL was 5 mg/kg/day (approximately 0.7 times the AUC of ibrutinib at a dose of 560 mg daily) (see section 4.6).
 
 Fertility
-No effects on fertility or reproductive capacities were observed in male or female rats up to the maximum dose tested, 100 mg/kg/day (Human Equivalent Dose [HED]16 mg/kg/day).
+No effects on fertility or reproductive capacities were observed in male or female rats up to the maximum dose tested, 100 mg/kg/day (HED16 mg/kg/day).
+
+[IMBRUVICA 140 mg film-coated tablets]
+
+No effects on fertility or reproductive capacities were observed in male or female rats up to the maximum dose tested, 100 mg/kg/day (HED 16 mg/kg/day).

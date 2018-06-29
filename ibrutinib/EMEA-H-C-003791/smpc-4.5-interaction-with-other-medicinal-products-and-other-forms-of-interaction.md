@@ -44,7 +44,7 @@ Agents that may have their plasma concentrations altered by ibrutinib
 Ibrutinib is a P-gp and breast cancer resistance protein (BCRP) inhibitor in vitro.
 As no clinical data are available on this interaction, it cannot be excluded that ibrutinib could inhibit intestinal P-gp and BCRP after a therapeutic dose.
 To minimise the potential for an interaction in the GI tract, oral narrow therapeutic range, P-gp or BCRP substrates such as digoxin or methotrexate should be taken at least 6 hours before or after IMBRUVICA.
-Ibrutinib may also inhibit BCRP in the liver and increase the exposure of drugs that undergo BCRP-mediated hepatic efflux, such as rosuvastatin.
+Ibrutinib may also inhibit BCRP in the liver and increase the exposure of medicinal products that undergo BCRP-mediated hepatic efflux, such as rosuvastatin.
 
 Based on in vitro data, ibrutinib is a weak reversible inhibitor towards CYP3A4 at the intestinal level and may therefore increase the exposure to CYP3A4 substrates sensitive to gut CYP3A metabolism.
 No clinical data are available on this interaction.
@@ -52,3 +52,9 @@ Caution should be exercised if co-administering ibrutinib with CYP3A4 substrates
 
 Based on in vitro data, ibrutinib is a weak CYP2B6 inducer and may have the potential to affect the expression of other enzymes and transporters regulated via the constitutive androstane receptor (CAR), e.g. CYP2C9, CYP2C19, UGT1A1 and MRP2.
 The clinical relevance is not known, but the exposure to substrates of CYP2B6 (such as efavirenz and bupropion) and of co-regulated enzymes may be reduced upon co-administration with ibrutinib.
+
+[IMBRUVICA 140 mg film-coated tablets]
+
+If the benefit outweighs the risk and a strong CYP3A4 inhibitor must be used, reduce the IMBRUVICA dose to 140 mg for the duration of the inhibitor use or withhold IMBRUVICA temporarily (for 7 days or less).
+
+If a moderate CYP3A4 inhibitor (e.g., fluconazole, erythromycin, amprenavir, aprepitant, atazanavir, ciprofloxacin, crizotinib, diltiazem, fosamprenavir, imatinib, verapamil, amiodarone and dronedarone) is indicated, reduce IMBRUVICA dose to 280 mg for the duration of the inhibitor use.

@@ -3,22 +3,20 @@
 Treatment with this medicinal product should be initiated and supervised by a physician experienced in the use of anticancer medicinal products.
 
 Posology
-
-Mantle cell lymphoma
+MCL
 The recommended dose for the treatment of MCL is 560 mg (four capsules) once daily.
 
-Chronic lymphocytic leukaemia and Waldenström’s macroglobulinaemia
-The recommended dose for the treatment of CLL, either as a single agent or in combination, is 420 mg (three capsules) once daily (see section 5.1 for details of the combination regimen).
+CLL and WM
+The recommended dose for the treatment of CLL, either as a single agent or in combination, is 420 mg (three capsules) once daily (for details of the combination regimen, see section 5.1).
 The recommended dose for the treatment of WM is 420 mg (three capsules) once daily.
 
 Treatment should continue until disease progression or no longer tolerated by the patient.
 Dose adjustments
-
 Moderate and strong CYP3A4 inhibitors increase the exposure of ibrutinib (see sections 4.4 and 4.5).
 
-The IMBRUVICA dose should be lowered to 280 mg once daily (two capsules) when used concomitantly with moderate CYP3A4 inhibitors.
+The dose of ibrutinib should be reduced to 280 mg once daily (two capsules) when used concomitantly with moderate CYP3A4 inhibitors.
 
-The IMBRUVICA dose should be reduced to 140 mg once daily (one capsule) or withheld for up to 7 days when it is used concomitantly with strong CYP3A4 inhibitors.
+The dose of ibrutinib should be reduced to 140 mg once daily (one capsule) or withheld for up to 7 days when it is used concomitantly with strong CYP3A4 inhibitors.
 
 IMBRUVICA therapy should be withheld for any new onset or worsening grade ≥3 non-haematological toxicity, grade 3 or greater neutropenia with infection or fever, or grade 4 haematological toxicities.
 Once the symptoms of the toxicity have resolved to grade 1 or baseline (recovery), IMBRUVICA therapy may be reinitiated at the starting dose.
@@ -40,7 +38,6 @@ If a dose is not taken at the scheduled time, it can be taken as soon as possibl
 The patient should not take extra capsules to make up the missed dose.
 
 Special populations
-
 Elderly
 No specific dose adjustment is required for elderly patients (aged ≥65 years).
 
@@ -63,10 +60,30 @@ It is not recommended to administer IMBRUVICA to patients with severe hepatic im
 Severe cardiac disease
 Patients with severe cardiovascular disease were excluded from IMBRUVICA clinical studies.
 Paediatric population
-The safety and efficacy of IMBRUVICA in children aged 0 to 18 years have not been established.
+The safety and efficacy of IMBRUVICA in children and adolescents aged 0 to 18 years have not been established.
 No data are available.
 
 Method of administration
 IMBRUVICA should be administered orally once daily with a glass of water approximately at the same time each day.
 The capsules should be swallowed whole with water and should not be opened, broken, or chewed.
 IMBRUVICA must not be taken with grapefruit juice or Seville oranges (see section 4.5).
+
+[IMBRUVICA 140 mg film-coated tablets]
+
+The recommended dose for the treatment of MCL is 560 mg once daily.
+
+The recommended dose for the treatment of CLL, either as a single agent or in combination, is 420 mg once daily (for details of the combination regimen, see section 5.1).
+The recommended dose for the treatment of WM is 420 mg once daily.
+
+The dose of ibrutinib should be reduced to 280 mg once daily when used concomitantly with moderate CYP3A4 inhibitors.
+
+The dose of ibrutinib should be reduced to 140 mg once daily or withheld for up to 7 days when it is used concomitantly with strong CYP3A4 inhibitors.
+
+If the toxicity reoccurs, the once daily dose should be reduced by 140 mg.
+
+The patient should not take extra tablets to make up the missed dose.
+
+For patients with mild liver impairment (Child-Pugh class A), the recommended dose is 280 mg daily.
+For patients with moderate liver impairment (Child-Pugh class B), the recommended dose is 140 mg daily.
+
+The tablets should be swallowed whole with water and should not be broken or chewed.
