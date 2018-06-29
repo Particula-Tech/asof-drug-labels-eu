@@ -26,6 +26,7 @@ No significant differences were found in the psychomotor test results between de
 
 In patients with allergic rhinitis, Azomyr was effective in relieving symptoms such as sneezing, nasal discharge and itching, as well as ocular itching, tearing and redness, and itching of palate.
 Azomyr effectively controlled symptoms for 24 hours.
+
 Paediatric population
 The efficacy of Azomyr tablets has not been clearly demonstrated in trials with adolescent patients 12 through 17 years of age.
 

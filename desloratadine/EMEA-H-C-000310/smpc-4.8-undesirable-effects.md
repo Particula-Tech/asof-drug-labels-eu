@@ -14,6 +14,7 @@ Frequencies are defined as very common (≥1/10), common (≥1/100 to < 1/10), u
 
 | System Organ Class | Frequency | Adverse reactions seen with Azomyr |
 | --- | --- | --- |
+| Metabolism and nutrition disorders | Not known | Increased appetite |
 | Psychiatric disorders | Very rare Not known | Hallucinations Abnormal behaviour, aggression |
 | Nervous system disorders | Common Very rare | Headache Dizziness, somnolence, insomnia, psychomotor hyperactivity, seizures |
 | Cardiac disorders | Very rare Not known | Tachycardia, palpitations QT prolongation |
@@ -22,6 +23,7 @@ Frequencies are defined as very common (≥1/10), common (≥1/100 to < 1/10), u
 | Skin and subcutaneous tissue disorders | Not known | Photosensitivity |
 | Musculoskeletal and connective tissue disorders | Very rare | Myalgia |
 | General disorders and administration site conditions | Common Very rare Not known | Fatigue Hypersensitivity reactions (such as anaphylaxis, angioedema, dyspnoea, pruritus, rash, and urticaria) Asthenia |
+| Investigations | Not known | Weight increased |
 
 Paediatric population
 Other undesirable effects reported during the post-marketing period in paediatric patients with an unknown frequency included QT prolongation, arrhythmia, bradycardia, abnormal behaviour, and aggression.
@@ -55,6 +57,7 @@ At the recommended dose, in clinical trials involving adults and adolescents in 
 
 | System Organ Class | Frequency | Adverse reactions seen with Azomyr |
 | --- | --- | --- |
+| Metabolism and nutrition disorders | Not known | Increased appetite |
 | Psychiatric disorders | Very rare Not known | Hallucinations Abnormal behaviour, aggression |
 | Nervous system disorders | Common Common (children less than 2 years) Very rare | Headache Insomnia Dizziness, somnolence, insomnia, psychomotor hyperactivity, seizures |
 | Cardiac disorders | Very rare Not known | Tachycardia, palpitations QT prolongation |
@@ -63,3 +66,4 @@ At the recommended dose, in clinical trials involving adults and adolescents in 
 | Skin and subcutaneous tissue disorders | Not known | Photosensitivity |
 | Musculoskeletal and connective tissue disorders | Very rare | Myalgia |
 | General disorders and administration site conditions | Common Common (children less than 2 years) Very rare Not known | Fatigue Fever Hypersensitivity reactions (such as anaphylaxis, angioedema, dyspnoea, pruritus, rash, and urticaria) Asthenia |
+| Investigations | Not known | Weight increased |

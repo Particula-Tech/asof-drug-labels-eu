@@ -14,10 +14,10 @@ The safety profile of these subjects was not different from that of the general 
 Distribution
 Desloratadine is moderately bound (83 % - 87 %) to plasma proteins.
 There is no evidence of clinically relevant medicine accumulation following once daily dosing of desloratadine (5 mg to 20 mg) for 14 days.
-
 Biotransformation
 The enzyme responsible for the metabolism of desloratadine has not been identified yet, and therefore, some interactions with other medicinal products cannot be fully excluded.
 Desloratadine does not inhibit CYP3A4 in vivo, and in vitro studies have shown that the medicinal product does not inhibit CYP2D6 and is neither a substrate nor an inhibitor of P-glycoprotein.
+
 Elimination
 In a single dose trial using a 7.5 mg dose of desloratadine, there was no effect of food (high-fat, high caloric breakfast) on the disposition of desloratadine.
 In another study, grapefruit juice had no effect on the disposition of desloratadine.

@@ -1,6 +1,7 @@
 # 4.9 Overdose
 
 The adverse event profile associated with overdosage, as seen during post-marketing use, is similar to that seen with therapeutic doses, but the magnitude of the effects can be higher.
+
 Treatment
 In the event of overdose, consider standard measures to remove unabsorbed active substance.
 Symptomatic and supportive treatment is recommended.
