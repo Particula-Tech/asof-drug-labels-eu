@@ -13,6 +13,7 @@ The serious adverse reactions observed more frequently (≥5%) with lenalidomide
 - Lung infection (9.4% [9.4% after the start of maintenance treatment]) from CALGB 100104
 
 In the IFM 2005-02 study, the adverse reactions observed more frequently with lenalidomide maintenance than placebo were neutropenia (60.8%), bronchitis (47.4%), diarrhoea (38.9%), nasopharyngitis (34.8%), muscle spasms (33.4%), leucopenia (31.7%), asthenia (29.7%), cough (27.3%), thrombocytopenia (23.5%), gastroenteritis (22.5%) and pyrexia (20.5%).
+
 In the CALGB 100104 study, the adverse reactions observed more frequently with lenalidomide maintenance than placebo were neutropenia (79.0% [71.9% after the start of maintenance treatment]), thrombocytopenia (72.3% [61.6%]), diarrhoea (54.5% [46.4%]), rash (31.7% [25.0%]), upper respiratory tract infection (26.8% [26.8%]), fatigue (22.8% [17.9%]), leucopenia (22.8% [18.8%]) and anemia (21.0% [13.8%]).
 
 Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with low dose dexamethasone
@@ -47,7 +48,6 @@ In the phase II, all 148 patients were on lenalidomide treatment.
 In the phase III study, 69 patients were on lenalidomide 5 mg, 69 patients on lenalidomide 10 mg and 67 patients were on placebo during the double-blind phase of the study.
 
 Most adverse reactions tended to occur during the first 16 weeks of therapy with lenalidomide.
-
 Serious adverse reactions include:
 
 - Venous thromboembolism (deep vein thrombosis, pulmonary embolism) (see section 4.4)
@@ -85,19 +85,17 @@ Adverse reactions have been included under the appropriate category in the table
 Tabulated summary for monotherapy in MM
 The following table is derived from data gathered during NDMM studies in patients who have undergone ASCT treated with lenalidomide maintenance.
 The data were not adjusted according to the longer duration of treatment in the lenalidomide-containing arms continued until disease progression versus the placebo arms in the pivotal multiple myeloma studies (see section 5.1).
-
 Table 1.
 ADRs reported in clinical trials in patients with multiple myeloma treated with lenalidomide maintenance therapy
 
 | System Organ Class/Preferred Term | All ADRs/Frequency | Grade 3-4 ADRs/Frequency |
 | --- | --- | --- |
-| Infections and Infestations | Very Common Pneumonias◊, a, Upper respiratory tract infection, Neutropenic infection, Bronchitis◊, Influenza◊, Gastroenteritis◊, Sinusitis, Nasopharyngitis, Rhinitis | Very Common Pneumonias◊, a, Neutropenic infection Common Sepsis◊, b, Bacteraemia, Lung infection◊, Lower respiratory tract |
-|  | Common Infection◊, Urinary tract infection◊*, Lower respiratory tract infection, Lung infection | infection bacterial, Bronchitis◊, Influenza◊, Gastroenteritis◊, Herpes zoster◊, Infection◊ |
-| Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) | Common Myelodysplastic syndrome◊* |  |
-| Blood and Lymphatic System Disorders | Very Common Neutropenia^,◊, Febrile neutropenia^,◊, Thrombocytopenia^,◊,, Anemia, Leucopenia◊, Lymphopenia | Very Common Neutropenia^,◊, Febrile neutropenia^,◊, Thrombocytopenia^,◊, Anemia, Leucopenia◊, Lymphopenia Common Pancytopenia◊ |
+| Infections and Infestations | Very Common Pneumonias◊,a, Upper respiratory tract infection, Neutropenic infection, Bronchitis◊, Influenza◊, Gastroenteritis◊, Sinusitis, Nasopharyngitis, Rhinitis Common Infection◊, Urinary tract infection◊,*, Lower respiratory tract infection, Lung infection◊ | Very Common Pneumonias◊,a, Neutropenic infection Common Sepsis◊,b, Bacteraemia, Lung infection◊, Lower respiratory tract infection bacterial, Bronchitis◊, Influenza◊, Gastroenteritis◊, Herpes zoster◊, Infection◊ |
+| Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) | Common Myelodysplastic syndrome◊,* |  |
+| Blood and Lymphatic System Disorders | Very Common Neutropenia^,◊, Febrile neutropenia^,◊, Thrombocytopenia^,◊, Anemia, Leucopenia◊, Lymphopenia | Very Common Neutropenia^,◊, Febrile neutropenia^,◊, Thrombocytopenia^,◊, Anemia, Leucopenia◊, Lymphopenia Common Pancytopenia◊ |
 | Metabolism and Nutrition Disorders | Very Common Hypokalaemia | Common Hypokalaemia, Dehydration |
 | Nervous System Disorders | Very Common Paraesthesia Common Peripheral neuropathyc | Common Headache |
-| Vascular Disorders | Common Pulmonary embolism◊* | Common Deep vein thrombosis^,◊,d |
+| Vascular Disorders | Common Pulmonary embolism◊,* | Common Deep vein thrombosis^,◊,d |
 | Respiratory, Thoracic and Mediastinal Disorders | Very Common Cough Common Dyspnoea◊, Rhinorrhoea | Common Dyspnoea◊ |
 | Gastrointestinal Disorders | Very Common Diarrhoea, Constipation, Abdominal pain, Nausea Common Vomiting, Abdominal pain upper | Common Diarrhoea, Vomiting, Nausea |
 | Hepatobiliary Disorders | Very Common Abnormal liver function tests | Common Abnormal liver function tests |
@@ -107,7 +105,8 @@ ADRs reported in clinical trials in patients with multiple myeloma treated with 
 
 ◊ Adverse reactions reported as serious in clinical trials in patients with NDMM who had undergone ASCT
 * Applies to serious adverse drug reactions only
-^See section 4.8 description of selected adverse reactions a “Pneumonias” combined AE term includes the following PTs: Bronchopneumonia, Lobar pneumonia, Pneumocystis jiroveci pneumonia, Pneumonia, Pneumonia klebsiella, Pneumonia legionella, Pneumonia mycoplasmal, Pneumonia pneumococcal, Pneumonia streptococcal, Pneumonia viral, Lung disorder, Pneumonitis b “Sepsis” combined AE term includes the following PTs: Bacterial sepsis, Pneumococcal sepsis, Septic shock, Staphylococcal sepsis c “Peripheral neuropathy” combined AE term includes the following preferred terms (PTs): Neuropathy peripheral, Peripheral sensory neuropathy, Polyneuropathy d “Deep vein thrombosis” combined AE term includes the following PTs: Deep vein thrombosis, Thrombosis, Venous thrombosis
+^ See section 4.8 description of selected adverse reactions a “Pneumonias” combined AE term includes the following PTs: Bronchopneumonia, Lobar pneumonia, Pneumocystis jiroveci pneumonia, Pneumonia, Pneumonia klebsiella, Pneumonia legionella, Pneumonia mycoplasmal, Pneumonia pneumococcal, Pneumonia streptococcal, Pneumonia viral, Lung disorder, Pneumonitis b “Sepsis” combined AE term includes the following PTs: Bacterial sepsis, Pneumococcal sepsis, Septic shock, Staphylococcal sepsis c “Peripheral neuropathy” combined AE term includes the following preferred terms (PTs): Neuropathy peripheral, Peripheral sensory neuropathy, Polyneuropathy d “Deep vein thrombosis” combined AE term includes the following PTs: Deep vein thrombosis, Thrombosis, Venous thrombosis
+
 Tabulated summary for combination therapy in MM
 The following table is derived from data gathered during the multiple myeloma studies with combination therapy.
 The data were not adjusted according to the longer duration of treatment in the lenalidomide-containing arms continued until disease progression versus the comparator arms in the pivotal multiple myeloma studies (see section 5.1).
@@ -117,58 +116,61 @@ ADRs reported in clinical studies in patients with multiple myeloma treated with
 
 | System Organ Class / Preferred Term | All ADRs/Frequency | Grade 3−4 ADRs/Frequency |
 | --- | --- | --- |
-| Infections and Infestations | Very Common Pneumonia, Upper respiratory tract infection, Bacterial, viral and fungal infections (including opportunistic infections), Nasopharyngitis, Pharyngitis, Bronchitis Common Sepsis, Sinusitis | Common Pneumonia, Bacterial, viral and fungal infections (including opportunistic infections), Sepsis, Bronchitis |
-| Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) | Uncommon Basal cell carcinoma, Squamous skin cancer^* | Common Acute myeloid leukaemia, Myelodysplastic syndrome, Squamous cell carcinoma of skin** Uncommon T-cell type acute leukaemia, Basal cell carcinoma, Tumour lysis syndrome |
-| Blood and Lymphatic System Disorders | Very Common Neutropenia^, Thrombocytopenia ^, Anemia, Haemorrhagic disorder ^, Leucopenias | Very Common Neutropenia^, Thrombocytopenia^, Anemia, Leucopenias |
-|  | Common Febrile neutropenia, Pancytopenia | Common Febrile neutropenia^, Pancytopenia, Haemolytic anemia |
-|  | Uncommon Haemolysis, Autoimmune haemolytic anemia, Haemolytic anemia | Uncommon Hypercoagulation, Coagulopathy |
+| Infections and Infestations | Very Common Pneumonia◊, Upper respiratory tract infection◊, Bacterial, viral and fungal infections (including opportunistic infections)◊, Nasopharyngitis, Pharyngitis, Bronchitis◊ Common Sepsis◊, Sinusitis◊ | Common Pneumonia◊, Bacterial, viral and fungal infections (including opportunistic infections)◊, Cellulitis◊, Sepsis◊, Bronchitis◊ |
+| Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) | Uncommon Basal cell carcinoma^,◊, Squamous skin cancer^,◊,* | Common Acute myeloid leukaemia◊, Myelodysplastic syndrome◊, Squamous cell carcinoma of skin^,◊,** Uncommon T-cell type acute leukaemia◊, Basal cell carcinoma^,◊, Tumour lysis syndrome |
+| Blood and Lymphatic System Disorders | Very Common Neutropenia^,◊, Thrombocytopenia^,◊, Anemia◊, Haemorrhagic disorder^, Leucopenias | Very Common Neutropenia^,◊, Thrombocytopenia^,◊, Anemia◊, Leucopenias |
+|  | Common Febrile neutropenia^,◊, Pancytopenia◊ Uncommon Haemolysis, Autoimmune haemolytic anemia, Haemolytic anemia | Common Febrile neutropenia^,◊, Pancytopenia◊, Haemolytic anemia Uncommon Hypercoagulation, Coagulopathy |
 | Immune System Disorders | Uncommon Hypersensitivity^ |  |
 | Endocrine Disorders | Common Hypothyroidism |  |
-| Metabolism and Nutrition Disorders | Very Common Hypokalaemia, Hyperglycaemia, Hypocalcaemia, Decreased appetite, Weight decreased Common Hypomagnesaemia, Hyperuricaemia, Dehydration | Common Hypokalaemia, Hyperglycaemia, Hypocalcaemia, Diabetes mellitus, Hypophosphataemia, Hyponatraemia, Hyperuricaemia, Gout, Decreased appetite, Weight decreased |
+| Metabolism and Nutrition Disorders | Very Common Hypokalaemia◊, Hyperglycaemia, Hypocalcaemia◊, Decreased appetite, Weight decreased Common Hypomagnesaemia, Hyperuricaemia, Dehydration◊, Hypercalcaemia+ | Common Hypokalaemia◊, Hyperglycaemia, Hypocalcaemia◊, Diabetes mellitus◊, Hypophosphataemia, Hyponatraemia◊, Hyperuricaemia, Gout, Decreased appetite, Weight decreased |
 | Psychiatric Disorders | Very Common Depression, Insomnia Uncommon Loss of libido | Common Depression, Insomnia |
-| Nervous System Disorders | Very Common Peripheral neuropathies (excluding motor neuropathy), Dizziness, Tremor, Dysgeusia, Headache | Common Cerebrovascular accident, Dizziness, Syncope |
-|  | Common Ataxia, Balance impaired | Uncommon Intracranial haemorrhage ^, Transient ischaemic attack, Cerebral ischaemia |
+| Nervous System Disorders | Very Common Peripheral neuropathies (excluding motor neuropathy), Dizziness, Tremor, Dysgeusia, Headache | Common Cerebrovascular accident◊, Dizziness, Syncope |
+|  | Common Ataxia, Balance impaired | Uncommon Intracranial haemorrhage^, Transient ischaemic attack, Cerebral ischemia |
 | Eye Disorders | Very Common Cataracts, Blurred vision | Common Cataract |
 |  | Common Reduced visual acuity | Uncommon Blindness |
 | Ear and Labyrinth Disorders | Common Deafness (Including Hypoacusis), Tinnitus |  |
-| Cardiac Disorders | Common Atrial fibrillation, Bradycardia Uncommon Arrhythmia, QT prolongation, Atrial flutter, Ventricular extrasystoles | Common Myocardial infarction (including acute)^, Atrial fibrillation, Congestive cardiac failure, Tachycardia, Cardiac failure, Myocardial ischaemia |
-| Vascular Disorders | Very Common Venous thromboembolic events, predominantly deep vein thrombosis and pulmonary embolism^ | Very Common Venous thromboembolic events, predominantly deep vein thrombosis and pulmonary embolism^ |
-|  | Common Hypotension, Hypertension, Ecchymosis^ | Common Vasculitis Uncommon Ischemia, Peripheral ischemia, Intracranial venous sinus thrombosis |
-| Respiratory, Thoracic and Mediastinal Disorders | Very Common Dyspnoea, Epistaxis^ | Common Respiratory distress, Dyspnoea |
-| Gastrointestinal Disorders | Very Common Diarrhoea, Constipation, Abdominal pain, Nausea, Vomiting, Dyspepsia Common Gastrointestinal haemorrhage (including rectal haemorrhage, haemorrhoidal haemorrhage, peptic ulcer haemorrhage and gingival bleeding)^, Dry mouth, Stomatitis, Dysphagia Uncommon Colitis, Caecitis | Common Diarrhoea, Constipation, Abdominal pain, Nausea, Vomiting |
-| Hepatobiliary Disorders | Common Abnormal liver function tests | Common Cholestasis, Abnormal liver function tests |
+| Cardiac Disorders | Common Atrial fibrillation◊, Bradycardia Uncommon Arrhythmia, QT prolongation, Atrial flutter, Ventricular extrasystoles | Common Myocardial infarction (including acute)^,◊, Atrial fibrillation◊, Congestive cardiac failure◊, Tachycardia, Cardiac failure◊, Myocardial ischemia◊ |
+| Vascular Disorders | Very Common Venous thromboembolic events, predominantly deep vein thrombosis and pulmonary embolism^,◊ | Very Common Venous thromboembolic events, predominantly deep vein thrombosis and pulmonary embolism^,◊ |
+|  | Common Hypotension◊, Hypertension, Ecchymosis^ | Common Vasculitis Uncommon Ischemia, Peripheral ischemia, Intracranial venous sinus thrombosis |
+| Respiratory, Thoracic and Mediastinal Disorders | Very Common Dyspnoea◊, Epistaxis^ | Common Respiratory distress◊, Dyspnoea◊ |
+| Gastrointestinal Disorders | Very Common Diarrhoea◊, Constipation◊, Abdominal pain◊, Nausea, Vomiting, Dyspepsia Common Gastrointestinal haemorrhage (including rectal haemorrhage, haemorrhoidal haemorrhage, peptic ulcer haemorrhage and gingival bleeding)^, Dry mouth, Stomatitis, Dysphagia Uncommon Colitis, Caecitis | Common Diarrhoea◊, Constipation◊, Abdominal pain◊, Nausea, Vomiting |
+| Hepatobiliary Disorders | Common Abnormal liver function tests◊ | Common Cholestasis◊, Abnormal liver function tests◊ |
 |  | Uncommon Hepatic failure^ | Uncommon Hepatic failure^ |
 | Skin and Subcutaneous Tissue Disorders | Very Common Rashes, Pruritus Common Urticaria, Hyperhidrosis, Dry skin, Skin hyperpigmentation, Eczema, Erythema Uncommon Skin discolouration, Photosensitivity reaction | Common Rashes |
-| Musculoskeletal and Connective Tissue Disorders | Very Common Muscle spasms, Bone pain, Musculoskeletal and connective tissue pain and discomfort, Arthralgia Common Muscular weakness, Joint swelling, Myalgia | Common Muscular weakness, Bone pain Uncommon Joint swelling |
-| Renal and Urinary Disorders | Very Common Renal failure (including acute) Common Haematuria^, Urinary retention, Urinary incontinence Uncommon Acquired Fanconi syndrome | Uncommon Renal tubular necrosis |
+| Musculoskeletal and Connective Tissue Disorders | Very Common Muscle spasms, Bone pain◊, Musculoskeletal and connective tissue pain and discomfort (including back pain◊), Arthralgia◊ | Common Muscular weakness, Bone pain◊, Musculoskeletal and connective tissue pain and discomfort (including back pain◊) |
+|  | Common Muscular weakness, Joint swelling, Myalgia | Uncommon Joint swelling |
+| Renal and Urinary Disorders | Very Common Renal failure (including acute)◊ Common Haematuria^, Urinary retention, Urinary incontinence Uncommon Acquired Fanconi syndrome | Uncommon Renal tubular necrosis |
 | Reproductive System and Breast Disorders | Common Erectile dysfunction |  |
-| General Disorders and Administration Site Conditions | Very Common Fatigue, Oedema (including peripheral oedema), Pyrexia, Asthenia, Influenza like illness syndrome (including pyrexia, cough, myalgia, musculoskeletal pain, headache and rigors) Common Chest pain, Lethargy | Common Fatigue, Pyrexia, Asthenia |
+| General Disorders and Administration Site Conditions | Very Common Fatigue◊, Oedema (including peripheral oedema), Pyrexia◊, Asthenia, Influenza like illness syndrome (including pyrexia, cough, myalgia, musculoskeletal pain, headache and rigors) Common Chest pain, Lethargy | Common Fatigue◊, Pyrexia◊, Asthenia |
 | Investigations | Common C-reactive protein increased |  |
 | Injury, Poisoning and Procedural Complications | Common Fall, Contusion^ |  |
 
 ^See section 4.8 description of selected adverse reactions
+◊ Adverse reactions reported as serious in clinical trials in patients with multiple myeloma treated with lenalidomide in combination with dexamethasone, or with melphalan and prednisone
++ Applies to serious adverse drug reactions only
 * Squamous skin cancer was reported in clinical trials in previously treated myeloma patients with lenalidomide/dexamethasone compared to controls ** Squamous cell carcinoma of skin was reported in a clinical trial in newly diagnosed myeloma patients with lenalidomide/dexamethasone compared to controls
 
 Tabulated summary from monotherapy
-The following table are derived from data gathered during the main studies in monotherapy for myelodysplastic syndromes and mantle cell lymphoma.
+The following tables are derived from data gathered during the main studies in monotherapy for myelodysplastic syndromes and mantle cell lymphoma.
+
 Table 3.
 ADRs reported in clinical trials in patients with myelodysplastic syndromes treated with lenalidomide#
 
 | System Organ Class / Preferred Term | All ADRs/Frequency | Grade 3−4 ADRs/Frequency |
 | --- | --- | --- |
-| Infections and Infestations | Very Common Bacterial, viral and fungal infections (including opportunistic infections) | Very Common Pneumonia◊ Common Bacterial, viral and fungal infections (including opportunistic infections) ◊, Bronchitis |
-| Blood and Lymphatic System Disorders | Very Common Thrombocytopenia^, Neutropenia^, Leucopenias | Very Common Thrombocytopenia^◊, Neutropenia^◊, Leucopenias Common Febrile neutropenia^◊ |
+| Infections and Infestations | Very Common Bacterial, viral and fungal infections (including opportunistic infections)◊ | Very Common Pneumonia◊ Common Bacterial, viral and fungal infections (including opportunistic infections)◊, Bronchitis |
+| Blood and Lymphatic System Disorders | Very Common Thrombocytopenia^,◊, Neutropenia^,◊, Leucopenias | Very Common Thrombocytopenia^,◊, Neutropenia^,◊, Leucopenias Common Febrile neutropenia^,◊ |
 | Endocrine Disorders | Very Common Hypothyroidism |  |
 | Metabolism and Nutrition Disorders | Very Common Decreased appetite Common Iron overload, Weight decreased | Common Hyperglycaemia◊, Decreased appetite |
-| Psychiatric Disorders |  | Common Altered mood◊~ |
+| Psychiatric Disorders |  | Common Altered mood◊,~ |
 | Nervous System Disorders | Very Common Dizziness, Headache Common Paraesthesia |  |
-| Cardiac Disorders |  | Common Acute myocardial infarction^◊, Atrial fibrillation◊, Cardiac failure◊ |
-| Vascular Disorders | Common Hypertension, Haematoma | Common Venous thromboembolic events, predominantly deep vein thrombosis and pulmonary embolism^◊ |
+| Cardiac Disorders |  | Common Acute myocardial infarction^,◊, Atrial fibrillation◊, Cardiac failure◊ |
+| Vascular Disorders | Common Hypertension, Haematoma | Common Venous thromboembolic events, predominantly deep vein thrombosis and pulmonary embolism^,◊ |
 | Respiratory, Thoracic and Mediastinal Disorders | Very Common Epistaxis^ |  |
-| Gastrointestinal Disorders | Very Common Diarrhoea, Abdominal pain (including upper), Nausea, Vomiting, Constipation Common Dry mouth, Dyspepsia | Common Diarrhoea◊, Nausea, Toothache |
+| Gastrointestinal Disorders | Very Common Diarrhoea◊, Abdominal pain (including upper), Nausea, Vomiting, Constipation Common Dry mouth, Dyspepsia | Common Diarrhoea◊, Nausea, Toothache |
 | Hepatobiliary Disorders | Common Abnormal liver function tests | Common Abnormal liver function tests |
 | Skin and Subcutaneous Tissue Disorders | Very Common Rashes, Dry Skin, Pruritus | Common Rashes, Pruritus |
-| Musculoskeletal and Connective Tissue Disorders | Very Common Muscle spasms, Musculoskeletal pain (including back pain and pain in extremity), Arthralgia, Myalgia | Common Back pain◊ |
+| Musculoskeletal and Connective Tissue Disorders | Very Common Muscle spasms, Musculoskeletal pain (including back pain◊ and pain in extremity), Arthralgia, Myalgia | Common Back pain◊ |
 | Renal and Urinary Disorders |  | Common Renal failure◊ |
 | General Disorders and Administration Site Conditions | Very Common Fatigue, Peripheral oedema, Influenza like illness syndrome (including pyrexia, cough, pharyngitis, myalgia, musculoskeletal pain, headache) | Common Pyrexia |
 | Injury, Poisoning and Procedural Complications |  | Common Fall |
@@ -194,25 +196,24 @@ ADRs reported in clinical trials in patients with mantle cell lymphoma treated w
 
 | System Organ Class / Preferred Term | All ADRs/Frequency | Grade 3−4 ADRs/Frequency |
 | --- | --- | --- |
-| Infections and Infestations | Very Common Bacterial, viral and fungal infections (including opportunistic infections), Nasopharyngitis, Pneumonia Common Sinusitis | Common Bacterial, viral and fungal infections (including opportunistic infections) ◊, Pneumonia◊ |
-| Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) | Common Tumour flare reaction | Common Tumour flare reaction, Squamous skin cancerˆ◊, Basal cell Carcinoma◊ |
-| Blood and Lymphatic System Disorders | Very Common Thrombocytopenia^, Neutropenia^, Leucopenias, Anemia Common Febrile neutropenia | Very Common Thrombocytopenia^, Neutropenia^◊, Anemia◊ Common Febrile neutropenia^◊, Leucopenias◊ |
-| Metabolism and Nutrition Disorders | Very Common Decreased appetite, Weight decreased, Hypokalaemia Common Dehydratation, | Common Dehydration◊, Hyponatraemia, Hypocalcaemia |
+| Infections and Infestations | Very Common Bacterial, viral and fungal infections (including opportunistic infections)◊, Nasopharyngitis, Pneumonia◊ Common Sinusitis | Common Bacterial, viral and fungal infections (including opportunistic infections)◊, Pneumonia◊ |
+| Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) | Common Tumour flare reaction | Common Tumour flare reaction, Squamous skin cancer^,◊, Basal cell carcinoma^,◊ |
+| Blood and Lymphatic System Disorders | Very Common Thrombocytopenia^, Neutropenia^,◊, Leucopenias◊, Anemia◊ Common Febrile neutropenia^,◊ | Very Common Thrombocytopenia^, Neutropenia^,◊, Anemia◊ Common Febrile neutropenia^,◊, Leucopenias◊ |
+| Metabolism and Nutrition Disorders | Very Common Decreased appetite, Weight decreased, Hypokalaemia Common Dehydration◊,, | Common Dehydration◊, Hyponatraemia, Hypocalcaemia |
 | Psychiatric Disorders | Common Insomnia |  |
 | Nervous System Disorders | Common Dysgeuesia, Headache, neuropathy peripheral | Common Peripheral sensory neuropathy, Lethargy |
 | Ear and Labyrinth Disorders | Common Vertigo |  |
-| Cardiac Disorders |  | Common Acute myocardial infarction (including acute)^ ◊, Cardiac failure |
-| Vascular Disorders | Common Hypotension | Common Deep vein thrombosis◊, pulmonary embolism^◊, Hypotension◊ |
-| Respiratory, Thoracic and Mediastinal Disorders | Very Common Dyspnoeia | Common Dyspnoeia◊ |
-| Gastrointestinal Disorders | Very Common Diarrhoea, Nausea◊, Vomiting◊, Constipation Common Abdominal pain | Common Diarrhoea◊, Abdominal pain◊, Constipation |
+| Cardiac Disorders |  | Common Myocardial infarction (including acute)^,◊, Cardiac failure |
+| Vascular Disorders | Common Hypotension◊ | Common Deep vein thrombosis◊, pulmonary embolism^,◊, Hypotension◊ |
+| Respiratory, Thoracic and Mediastinal Disorders | Very Common Dyspnoea◊ | Common Dyspnoea◊ |
+| Gastrointestinal Disorders | Very Common Diarrhoea◊, Nausea◊, Vomiting◊, Constipation Common Abdominal pain◊ | Common Diarrhoea◊, Abdominal pain◊, Constipation |
 | Skin and Subcutaneous Tissue Disorders | Very Common Rashes (including dermatitis allergic), Pruritus Common Night sweats, Dry skin | Common Rashes |
-| Musculoskeletal and Connective Tissue Disorders | Very Common Muscle spasms, Back pain Common Arthralgia, Pain in extremity, Muscular weakness | Common Back pain, Muscular weakness◊, Arthralgia, Pain in extremity |
+| Musculoskeletal and Connective Tissue Disorders | Very Common Muscle spasms, Back pain Common Arthralgia, Pain in extremity, Muscular weakness◊ | Common Back pain, Muscular weakness◊, Arthralgia, Pain in extremity |
 | Renal and Urinary Disorders |  | Common Renal failure◊ |
-| General Disorders and Administration Site Conditions | Very Common Fatigue, Asthenia, Peripheral oedema, Influenza like illness syndrome (including pyrexia, cough) Common Chills | Common Pyrexia◊, Asthenia◊, Fatigue |
+| General Disorders and Administration Site Conditions | Very Common Fatigue, Asthenia◊, Peripheral oedema, Influenza like illness syndrome (including pyrexia◊, cough) Common Chills | Common Pyrexia◊, Asthenia◊, Fatigue |
 
 ^see section 4.8 description of selected adverse reactions
-◊Adverse events reported as serious in mantle cell lymphoma clinical trials
-Algorithm applied for mantle cell lymphoma:
+◊Adverse events reported as serious in mantle cell lymphoma clinical trialsAlgorithm applied for mantle cell lymphoma:
 
 - Mantle cell lymphoma controlled phase II study
   - All treatment-emergent adverse events with ≥ 5% of subjects in lenalidomide arm and at least 2% difference in proportion between lenalidomide and control arm
@@ -231,12 +232,13 @@ ADRs reported in post-marketing use in patients treated with lenalidomide
 
 | System Organ Class / Preferred Term | All ADRs/Frequency | Grade 3−4 ADRs/Frequency |
 | --- | --- | --- |
-| Infections and Infestations | Not known Viral infections, including herpes zoster and hepatitis B virus reactivation | Not known Viral infections, including herpes zoster and hepatitis B virus reactivation |
+| Infections and Infestations | Not Known Viral infections, including herpes zoster and hepatitis B virus reactivation | Not Known Viral infections, including herpes zoster and hepatitis B virus reactivation |
 | Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) |  | Rare Tumour lysis syndrome |
-| Blood and Lymphatic System Disorders | Not known Acquired haemophilia |  |
+| Blood and Lymphatic System Disorders | Not Known Acquired haemophilia |  |
+| Immune System Disorders | Not Known Solid organ transplant rejection |  |
 | Endocrine Disorders | Common Hyperthyroidism |  |
 | Respiratory, Thoracic and Mediastinal Disorders |  | Not Known Interstitial pneumonitis |
-| Gastrointestinal Disorders |  | Not Known Pancreatitis, Gastrointestinal perforation (including diverticular, intestinal and large intestine perforations) ^ |
+| Gastrointestinal Disorders |  | Not Known Pancreatitis, Gastrointestinal perforation (including diverticular, intestinal and large intestine perforations)^ |
 | Hepatobiliary Disorders | Not Known Acute hepatic failure^, Hepatitis toxic^, Cytolytic hepatitis^, Cholestatic hepatitis^, Mixed cytolytic/cholestatic hepatitis^ | Not Known Acute hepatic failure^, Hepatitis toxic^ |
 | Skin and Subcutaneous Tissue Disorders |  | Uncommon Angioedema Rare Stevens-Johnson Syndrome^, Toxic epidermal necrolysis^ Not Known Leukocytoclastic vasculitis, Drug Reaction with Eosinophilia and Systemic Symptoms^ |
 
@@ -248,6 +250,7 @@ Lenalidomide is structurally related to thalidomide.
 Thalidomide is a known human teratogenic active substance that causes severe life-threatening birth defects.
 Lenalidomide induced in monkeys malformations similar to those described with thalidomide (see sections 4.6 and 5.3).
 If lenalidomide is taken during pregnancy, a teratogenic effect of lenalidomide in humans is expected.
+
 Neutropenia and thrombocytopenia
 
 - Newly diagnosed multiple myeloma: patients who have undergone ASCT treated with lenalidomide maintenance
@@ -293,7 +296,6 @@ Grade 3 or 4 febrile neutropenia episodes were observed in 6.0% of lenalidomide-
 Venous thromboembolism
 An increased risk of DVT and PE is associated with the use of the combination of lenalidomide with dexamethasone in patients with multiple myeloma, and to a lesser extent in patients treated with lenalidomide in combination with melphalan and prednisone or in patients with multiple myeloma, myelodysplastic syndromes and mantle cell lymphoma treated with lenalidomide monotherapy (see section 4.5).
 Concomitant administration of erythropoietic agents or previous history of DVT may also increase thrombotic risk in these patients.
-
 Myocardial infarction
 Myocardial infarction has been reported in patients receiving lenalidomide, particularly in those with known risk factors.
 
@@ -324,6 +326,7 @@ Baseline variables including complex cytogenetics and TP53 mutation are associat
 The estimated 2-year cumulative risk of progression to AML were 13.8% in patients with an isolated Del (5q) abnormality compared to 17.3% for patients with Del (5q) and one additional cytogenetic abnormality and 38.6% in patients with a complex karyotype.
 In a post-hoc analysis of a clinical trial of lenalidomide in myelodysplastic syndromes, the estimated 2-year rate of progression to AML was 27.5 % in patients with IHC-p53 positivity and 3.6% in patients with IHC-p53 negativity (p=0.0038).
 In the patients with IHC-p53 positivity, a lower rate of progression to AML was observed amongst patients who achieved a transfusion independence (TI) response (11.1%) compared to a non-responder (34.8%).
+
 Hepatic disorders
 The following post-marketing adverse reactions have been reported (frequency unknown): acute hepatic failure and cholestasis (both potentially fatal), toxic hepatitis, cytolytic hepatitis, mixed cytolytic/cholestatic hepatitis.
 
@@ -332,7 +335,6 @@ Rare cases of rhabdomyolysis have been observed, some of them when lenalidomide 
 
 Thyroid disorders
 Cases of hypothyroidism and cases of hyperthyroidism have been reported (see section 4.4 Thyroid disorders).
-
 Tumour flare reaction and tumour lysis syndrome
 In study MCL-002, approximately 10% of lenalidomide-treated patients experienced TFR compared to 0% in the control arm.
 The majority of the events occurred in cycle 1, all were assessed as treatment-related, and the majority of the reports were Grade 1 or 2.

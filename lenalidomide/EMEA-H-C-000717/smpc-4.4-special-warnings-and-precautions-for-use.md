@@ -68,7 +68,6 @@ According to local practice, medically supervised pregnancy tests with a minimum
 This requirement includes women of childbearing potential who practice absolute and continuous abstinence.
 Ideally, pregnancy testing, issuing a prescription and dispensing should occur on the same day.
 Dispensing of lenalidomide to women of childbearing potential should occur within 7 days of the prescription.
-
 Prior to starting treatment
 A medically supervised pregnancy test should be performed during the consultation, when lenalidomide is prescribed, or in the 3 days prior to the visit to the prescriber once the patient had been using effective contraception for at least 4 weeks.
 The test should ensure the patient is not pregnant when she starts treatment with lenalidomide.
@@ -89,6 +88,7 @@ A national controlled distribution system has been implemented in collaboration 
 The controlled distribution system includes the use of a patient card and/or equivalent tool for prescribing and/or dispensing controls, and the collecting of detailed data relating to the indication in order to monitor closely the off-label use within the national territory.
 Ideally, pregnancy testing, issuing a prescription and dispensing should occur on the same day.
 Dispensing of lenalidomide to women of childbearing potential should occur within 7 days of the prescription and following a medically supervised negative pregnancy test result.
+Prescriptions for women of childbearing potential can be for a maximum duration of 4 weeks, and prescriptions for all other patients can be for a maximum duration of 12 weeks.
 
 Other special warnings and precautions for use
 Myocardial infarction
@@ -304,6 +304,7 @@ These patients should be closely monitored for signs and symptoms of active HBV 
 
 There was a higher rate of intolerance (grade 3 or 4 adverse events, serious adverse events, discontinuation) in patients with age > 75 years, ISS stage III, ECOG PS≤2 or CLcr<60 mL/min when lenalidomide is given in combination.
 Patients should be carefully assessed for their ability to tolerate lenalidomide in combination, with consideration to age, ISS stage III, ECOG PS≤2 or CLcr<60 mL/min (see sections 4.2 and 4.8).
+
 Cataract
 Cataract has been reported with a higher frequency in patients receiving lenalidomide in combination with dexamethasone particularly when used for a prolonged time.
 Regular monitoring of visual ability is recommended.

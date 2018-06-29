@@ -1,6 +1,7 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Due to the teratogenic potential, lenalidomide must be prescribed under a Pregnancy Prevention Programme (see section 4.4) unless there is reliable evidence that the patient does not have childbearing potential.
+
 Women of childbearing potential / Contraception in males and females
 Women of childbearing potential should use effective method of contraception.
 If pregnancy occurs in a woman treated with lenalidomide, treatment must be stopped and the patient should be referred to a physician specialised or experienced in teratology for evaluation and advice.
