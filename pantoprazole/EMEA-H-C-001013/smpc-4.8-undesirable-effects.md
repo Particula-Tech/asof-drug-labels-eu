@@ -16,21 +16,23 @@ Within each frequency grouping adverse reactions are presented in order of decre
 Table 1.
 Adverse reactions with pantoprazole in clinical trials and post-marketing experience
 
-| Frequency System Organ Class | Commo n | Uncommon | Rare | Very rare | Not known |
+| Frequency System Organ Class | Common | Uncommon | Rare | Very rare | Not known |
 | --- | --- | --- | --- | --- | --- |
-| Blood and lymphatic system disorders |  |  | Agranulocytosis | Thrombocytopenia ; Leukopenia, Pancytopenia |  |
+| Blood and lymphatic system disorders |  |  | Agranulocytosis | Thrombocytopenia; Leukopenia, Pancytopenia |  |
 | Immune system disorders |  |  | Hypersensitivity (incl. anaphylactic reactions and anaphylactic shock) |  |  |
-| Metabolism and nutrition disorders |  |  | Hyperlipidaemia s and lipid increases (triglycerides, cholesterol); Weight changes |  | Hyponatraemia, Hypomagnesae-mia |
+| Metabolism and nutrition disorders |  |  | Hyperlipidaemias and lipid increases (triglycerides, cholesterol); Weight changes |  | Hyponatraemia, Hypomagnesae-mia H(1)y pocalcaemia |
 | Psychiatric disorders |  | Sleep disorders | Depression (and all aggravations) | Disorientation (and all aggravations) | Hallucination; Confusion (especially in pre-disposed patients, as well as the aggravation of these symptoms in case of pre-existence) |
-| Nervous system disorders |  | Headache; Dizziness | Taste disorders |  |  |
+| Nervous system disorders |  | Headache; Dizziness | Taste disorders |  | Paraesthesia |
 | Eye disorders |  |  | Disturbances in vision / blurred vision |  |  |
 | Gastrointestinal disorders | Fundic gland polyps (benign) | Diarrhoea; Nausea / vomiting; Abdominal distension and bloating; Constipation; Dry mouth; Abdominal pain and discomfort |  |  |  |
-| Hepatobiliary disorders |  | Liver enzymes increased (transaminases , γ-GT) | Bilirubin increased |  | Hepatocellular injury; Jaundice; Hepatocellular failure |
+| Hepatobiliary disorders |  | Liver enzymes increased (transaminases, γ-GT) | Bilirubin increased |  | Hepatocellular injury; Jaundice; Hepatocellular failure |
 | Skin and subcutaneous tissue disorders |  | Rash / exanthema / eruption; Pruritus | Urticaria; Angioedema |  | Stevens-Johnson syndrome; Lyell syndrome; Erythema multiforme; Photosensitivity Subacute cutaneous lupus erythematosus (see section 4.4). |
-| Musculoskeleta l and connective tissue disorders |  | Fracture of wrist, hip and spine. | Arthralgia; Myalgia |  |  |
+| Musculoskeletal and connective tissue disorders |  | Fracture of wrist, hip and spine. | Arthralgia; Myalgia |  |  |
 | Renal and urinary disorders |  |  |  |  | Interstitial nephritis |
 | Reproductive system and breast disorders |  |  | Gynaecomastia |  |  |
 | General disorders and administration site conditions |  | Asthenia, fatigue and malaise | Body temperature increased; Oedema peripheral |  |  |
+
+(1) Hypocalcemia in association with hypomagnesemia
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
