@@ -135,6 +135,7 @@ Use of atezolizumab in urothelial carcinoma for previously untreated patients wh
 
 The baseline and prognostic disease characteristics of the IMvigor210 Cohort 1 study population were overall comparable to patients in the clinic who would be considered cisplatin ineligible but would be eligible for a carboplatin-based combination chemotherapy.
 There are insufficient data for the subgroup of patients that would be unfit for any chemotherapy; therefore atezolizumab should be used with caution in these patients, after careful consideration of the potential balance of risks and benefits on an individual basis.
+
 Patient Alert Card
 
 All prescribers of Tecentriq must be familiar with the Physician Information and Management Guidelines.

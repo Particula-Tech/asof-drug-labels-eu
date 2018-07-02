@@ -170,6 +170,12 @@ The rate of complete response per IRF-RECIST v1.1 in the all comer population wa
 For Cohort 2, median DOR was not reached in any PD-L1 expression subgroup or in all comers, however was reached in patients with PD-L1 expression < 1% (13.3 months; 95% CI 4.2, NE).
 The OS rate at 12 month was 37% in all comers.
 
+IMvigor130 (WO30070): Phase III multi-center, randomized, placebo-controlled study of atezolizumab as monotherapy and in combination with platinum-based chemotherapy in patients with untreated locally advanced or metastatic urothelial carcinoma
+
+Based on an independent Data Monitoring Committee (iDMC) recommendation following an early review of survival data, accrual of patients on the atezolizumab monotherapy treatment arm whose tumours have a low PD-L1 expression (less than 5% of immune cells staining positive for PD-L1 by immunohistochemistry) was stopped after observing decreased overall survival for this subgroup.
+The iDMC did not recommend any change of therapy for patients who had already been randomized to and were receiving treatment in the monotherapy arm.
+No other changes were recommended.
+
 Non-small cell lung cancer
 
 OAK (GO28915): Randomised phase III trial in locally advanced or metastatic NSCLC patients previously treated with chemotherapy

@@ -2,12 +2,15 @@
 
 Tecentriq must be initiated and supervised by physicians experienced in the treatment of cancer.
 
+PD-L1 testing for patients with UC
+Patients with previously untreated UC should be selected for treatment based on the tumour expression of PD-L1 confirmed by a validated test (see section 5.1).
+
 Posology
 
 The recommended dose of Tecentriq is 1,200 mg administered intravenously every three weeks.
-
 Duration of treatment
 It is recommended that patients are treated with Tecentriq until loss of clinical benefit (see section 5.1) or unmanageable toxicity.
+
 Delayed or missed doses
 If a planned dose of Tecentriq is missed, it should be administered as soon as possible; it is recommended not to wait until the next planned dose.
 The schedule of administration must be adjusted to maintain a 3-week interval between doses.
