@@ -77,7 +77,7 @@ Elderly population
 Increasing age may increase haemorrhagic risk (see section 5.2).
 
 Dermatological reactions
-Serious skin reactions, including Stevens-Johnson syndrome/toxic epidermal necrolysis, have been reported during post-marketing surveillance in association with the use of rivaroxaban (see section 4.8).
+Serious skin reactions, including Stevens-Johnson syndrome/toxic epidermal necrolysis and DRESS syndrome, have been reported during post-marketing surveillance in association with the use of rivaroxaban (see section 4.8).
 Patients appear to be at highest risk for these reactions early in the course of therapy: the onset of the reaction occurring in the majority of cases within the first weeks of treatment.
 Rivaroxaban should be discontinued at the first appearance of a severe skin rash (e.g. spreading, intense and/or blistering), or any other sign of hypersensitivity in conjunction with mucosal lesions.
 

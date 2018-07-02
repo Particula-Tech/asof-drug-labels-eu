@@ -19,7 +19,6 @@ The most commonly reported adverse reactions in patients receiving rivaroxaban w
 The most commonly reported bleedings (≥4%) were epistaxis (5.8%) and gastrointestinal tract haemorrhage (4.1%).
 In total about 65% of patients exposed to at least one dose of rivaroxaban were reported with treatment emergent adverse events.
 About 21% of the patients experienced adverse events considered related to treatment as assessed by investigators.
-
 Table 2: Bleeding and anaemia events rates in patients exposed to rivaroxaban across the completed phase III studies
 
 | Indication | Any bleeding | Anaemia |
@@ -36,45 +35,60 @@ The frequencies of adverse reactions reported with Xarelto are summarised in Tab
 Frequencies are defined as:
 very common (≥ 1/10) common (≥ 1/100 to < 1/10) uncommon (≥ 1/1,000 to < 1/100) rare (≥ 1/10,000 to < 1/1,000) very rare ( < 1/10,000) not known (cannot be estimated from the available data)
 
-Table 3: All treatment-emergent adverse reactions reported in patients in phase III studies
+Table 3: All adverse reactions reported in patients in phase III clinical trials or through post-marketing use
 
-| Common | Uncommon | Rare | Not known |
-| --- | --- | --- | --- |
-| Blood and lymphatic system disorders |  |  |  |
-| Anaemia (incl. respective laboratory parameters) | Thrombocytosis (incl. platelet count increased)PA |  |  |
-| Immune system disorders |  |  |  |
-|  | Allergic reaction, dermatitis allergic |  |  |
-| Nervous system disorders |  |  |  |
-| Dizziness, headache | Cerebral and intracranial haemorrhage, syncope |  |  |
-| Eye disorders |  |  |  |
-| Eye haemorrhage (incl. conjunctival haemorrhage) |  |  |  |
-| Cardiac disorders |  |  |  |
-|  | Tachycardia |  |  |
-| Vascular disorders |  |  |  |
-| Hypotension, haematoma |  |  |  |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |
-| Epistaxis, haemoptysis |  |  |  |
-| Gastrointestinal disorders |  |  |  |
-| Gingival bleeding, gastrointestinal tract haemorrhage (incl. rectal haemorrhage), gastrointestinal and abdominal pains, dyspepsia, nausea, constipationPA,P diarrhoea, vomitingPA | Dry mouth |  |  |
-| Hepatobiliary disorders |  |  |  |
-|  | Hepatic impairment | Jaundice |  |
-| Skin and subcutaneous tissue disorders |  |  |  |
-| Pruritus (incl. uncommon cases of generalised pruritus), rash, ecchymosis, cutaneous and subcutaneous haemorrhage | Urticaria |  |  |
-| Musculoskeletal and connective tissue disorders |  |  |  |
-| Pain in extremityPA | Haemarthrosis | Muscle haemorrhage | Compartment syndrome secondary to a bleeding |
-| Renal and urinary disorders |  |  |  |
-| Urogenital tract haemorrhage (incl. haematuria and menorrhagiaPB)P, renal impairment (incl. blood creatinine increased, blood urea increased)PA |  |  | Renal failure/acute renal failure secondary to a bleeding sufficient to cause hypoperfusion |
-| General disorders and administration site conditions |  |  |  |
-| FeverPA,P peripheral oedema, decreased general strength and energy (incl. fatigue and asthenia) | Feeling unwell (incl. malaise) | Localised oedemaPA |  |
-| Investigations |  |  |  |
-| Increase in transaminases | Increased bilirubin, increased blood alkaline phosphatasePA,PP iPncreased LDHPA,P increased lipasePA,P increased amylasePA,P increased GGTPA | Bilirubin conjugated increased (with or without concomitant increase of ALT) |  |
-| Injury, poisoning and procedural complications |  |  |  |
-| Postprocedural haemorrhage (incl. postoperative anaemia, and wound haemorrhage), contusion, wound secretionPA |  | Vascular pseudoaneurysmCP |  |
+Common Uncommon Rare Very rare Not known
+Blood and lymphatic system disorders
+Anaemia (incl. Thrombocytosis
+respective (incl. platelet count
+laboratory increased)A,
+parameters) Thrombocytopenia
+Immune system disorders
+Allergic reaction, Anaphylactic
+dermatitis allergic, reactions including
+Angioedema and anaphylactic shock
+allergic oedema
+Nervous system disorders
+Dizziness, Cerebral and
+headache intracranial
+haemorrhage,
+syncope
+Eye disorders
+Eye haemorrhage
+(incl. conjunctival
+haemorrhage)
+Cardiac disorders
+Tachycardia
+Vascular disorders
+Hypotension,
+haematoma
+
+| Common | Uncommon | Rare | Very rare | Not known |
+| --- | --- | --- | --- | --- |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
+| Epistaxis, haemoptysis |  |  |  |  |
+| Gastrointestinal disorders |  |  |  |  |
+| Gingival bleeding, gastrointestinal tract haemorrhage (incl. rectal haemorrhage), gastrointestinal and abdominal pains, dyspepsia, nausea, constipationA, diarrhoea, vomitingA | Dry mouth |  |  |  |
+| Hepatobiliary disorders |  |  |  |  |
+| Increase in transaminases | Hepatic impairment, Increased bilirubin, increased blood alkaline phosphataseA, increased GGTA | Jaundice, Bilirubin conjugated increased (with or without concomitant increase of ALT), Cholestasis, Hepatitis (incl. hepatocellular injury) |  |  |
+| Skin and subcutaneous tissue disorders |  |  |  |  |
+| Pruritus (incl. uncommon cases of generalised pruritus), rash, ecchymosis, cutaneous and subcutaneous haemorrhage | Urticaria |  | Stevens-Johnson syndrome/ Toxic Epidermal Necrolysis , DRESS syndrome |  |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |
+| Pain in extremityA | Haemarthrosis | Muscle haemorrhage |  | Compartment syndrome secondary to a bleeding |
+| Renal and urinary disorders |  |  |  |  |
+| Urogenital tract haemorrhage (incl. haematuria and menorrhagiaB), renal impairment (incl. blood creatinine increased, blood urea increased)A |  |  |  | Renal failure/acute renal failure secondary to a bleeding sufficient to cause hypoperfusion |
+| General disorders and administration site conditions |  |  |  |  |
+| FeverA, peripheral oedema, decreased general strength and energy (incl. fatigue and asthenia) | Feeling unwell (incl. malaise) | Localised oedemaA |  |  |
+| Investigations |  |  |  |  |
+|  | Increased LDHA, increased lipaseA, increased amylaseA |  |  |  |
+| Injury, poisoning and procedural complications |  |  |  |  |
+| Postprocedural haemorrhage (incl. postoperative anaemia, and wound haemorrhage), contusion, wound secretionA |  | Vascular pseudoaneurysmC |  |  |
 
 A: observed in prevention of VTE in adult patients undergoing elective hip or knee replacement surgery
 B: observed in treatment of DVT, PE and prevention of recurrence as very common in women
 < 55 years
 C: observed as uncommon in prevention of atherothrombotic events in patients after an ACS (following percutaneous coronary intervention)
+
 Description of selected adverse reactions
 Due to the pharmacological mode of action, the use of Xarelto may be associated with an increased risk of occult or overt bleeding from any tissue or organ which may result in post haemorrhagic anaemia.
 The signs, symptoms, and severity (including fatal outcome) will vary according to the location and degree or extent of the bleeding and/or anaemia (see section 4.9 “Management of bleeding”).
@@ -87,18 +101,10 @@ In some cases as a consequence of anaemia, symptoms of cardiac ischaemia like ch
 Known complications secondary to severe bleeding such as compartment syndrome and renal failure due to hypoperfusion have been reported for Xarelto.
 Therefore, the possibility of haemorrhage is to be considered in evaluating the condition in any anticoagulated patient.
 
-Post-marketing observations
-The following adverse reactions have been reported post-marketing in temporal association with the use of Xarelto.
-The frequency of these adverse reactions reported from post-marketing experience cannot be estimated.
-Immune system disorders: Angioedema and allergic oedema (in the pooled phase III trials, these events were uncommon (≥ 1/1,000 to < 1/100)).
-Hepatobiliary disorders: Cholestasis, hepatitis (incl. hepatocellular injury) (in the pooled phase III trials, these events were rare (≥ 1/10,000 to < 1/1,000)).
-Blood and lymphatic system disorders: Thrombocytopenia (in the pooled phase III trials, these events were uncommon (≥ 1/1,000 to < 1/100)).
-Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome/toxic epidermal necrolysis (in the pooled phase III trials, these events were estimated as very rare (<1/10,000)).
-
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in 6TAppendix V6T.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [Xarelto 10 mg film-coated tablets]
 
@@ -110,9 +116,72 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 | Prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation | 7,750 | 20 mg | 41 months |
 | Prevention of atherothrombotic events in patients after an acute coronary syndrome (ACS) | 10,225 | 5 mg or 10 mg respectively, co-administered with either ASA or ASA plus clopidogrel or ticlopidine | 31 months |
 
+Respiratory, thoracic and mediastinal disorders
+Epistaxis,
+haemoptysis
+Gastrointestinal disorders
+Gingival bleeding, Dry mouth
+gastrointestinal
+tract haemorrhage
+(incl. rectal
+gastrointestinal and
+abdominal pains,
+dyspepsia, nausea,
+constipationA,
+diarrhoea,
+vomitingA
+
+| Common | Uncommon | Rare | Very rare | Not known |
+| --- | --- | --- | --- | --- |
+| Hepatobiliary disorders |  |  |  |  |
+| Increase in transaminases | Hepatic impairment, Increased bilirubin, increased blood alkaline phosphataseA, increased GGTA | Jaundice, Bilirubin conjugated increased (with or without concomitant increase of ALT), Cholestasis, Hepatitis (incl. hepatocellular injury) |  |  |
+| Skin and subcutaneous tissue disorders |  |  |  |  |
+| Pruritus (incl. uncommon cases of generalised pruritus), rash, ecchymosis, cutaneous and subcutaneous haemorrhage | Urticaria |  | Stevens-Johnson syndrome/ Toxic Epidermal Necrolysis , DRESS syndrome |  |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |
+| Pain in extremityA | Haemarthrosis | Muscle haemorrhage |  | Compartment syndrome secondary to a bleeding |
+| Renal and urinary disorders |  |  |  |  |
+| Urogenital tract haemorrhage (incl. haematuria and menorrhagiaB), renal impairment (incl. blood creatinine increased, blood urea increased)A |  |  |  | Renal failure/acute renal failure secondary to a bleeding sufficient to cause hypoperfusion |
+| General disorders and administration site conditions |  |  |  |  |
+| FeverA, peripheral oedema, decreased general strength and energy (incl. fatigue and asthenia) | Feeling unwell (incl. malaise) | Localised oedemaA |  |  |
+| Investigations |  |  |  |  |
+|  | Increased LDHA, increased lipaseA, increased amylaseA |  |  |  |
+| Injury, poisoning and procedural complications |  |  |  |  |
+| Postprocedural haemorrhage (incl. postoperative anaemia, and wound haemorrhage), contusion, wound secretionA |  | Vascular pseudoaneurysmC |  |  |
+
 [Xarelto 15 mg film-coated tablets]
 
-(all sentences already above)
+| Common | Uncommon | Rare | Very rare | Not known |
+| --- | --- | --- | --- | --- |
+| Blood and lymphatic system disorders |  |  |  |  |
+| Anaemia (incl. respective laboratory parameters) | Thrombocytosis (incl. platelet count increased)A, Thrombocytopenia |  |  |  |
+| Immune system disorders |  |  |  |  |
+|  | Allergic reaction, dermatitis allergic, Angioedema and allergic oedema |  | Anaphylactic reactions including anaphylactic shock |  |
+| Nervous system disorders |  |  |  |  |
+| Dizziness, headache | Cerebral and intracranial haemorrhage, syncope |  |  |  |
+| Eye disorders |  |  |  |  |
+| Eye haemorrhage (incl. conjunctival haemorrhage) |  |  |  |  |
+| Cardiac disorders |  |  |  |  |
+|  | Tachycardia |  |  |  |
+| Vascular disorders |  |  |  |  |
+| Hypotension, haematoma |  |  |  |  |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
+| Epistaxis, haemoptysis |  |  |  |  |
+| Gastrointestinal disorders |  |  |  |  |
+| Gingival bleeding, gastrointestinal tract haemorrhage (incl. rectal haemorrhage), gastrointestinal and abdominal pains, dyspepsia, nausea, constipationA, diarrhoea, vomitingA | Dry mouth |  |  |  |
+| Hepatobiliary disorders |  |  |  |  |
+| Increase in transaminases | Hepatic impairment, Increased bilirubin, increased blood alkaline phosphataseA, increased GGTA | Jaundice, Bilirubin conjugated increased (with or without concomitant increase of ALT), Cholestasis, Hepatitis (incl. hepatocellular injury) |  |  |
+| Skin and subcutaneous tissue disorders |  |  |  |  |
+| Pruritus (incl. uncommon cases of generalised pruritus), rash, ecchymosis, cutaneous and subcutaneous haemorrhage | Urticaria |  | Stevens-Johnson syndrome/ Toxic Epidermal Necrolysis , DRESS syndrome |  |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |
+| Pain in extremityA | Haemarthrosis | Muscle haemorrhage |  | Compartment syndrome secondary to a bleeding |
+| Renal and urinary disorders |  |  |  |  |
+| Urogenital tract haemorrhage (incl. haematuria and menorrhagiaB), renal impairment (incl. blood creatinine increased, blood urea increased)A |  |  |  | Renal failure/acute renal failure secondary to a bleeding sufficient to cause hypoperfusion |
+| General disorders and administration site conditions |  |  |  |  |
+| FeverA, peripheral oedema, decreased general strength and energy (incl. fatigue and asthenia) | Feeling unwell (incl. malaise) | Localised oedemaA |  |  |
+| Investigations |  |  |  |  |
+|  | Increased LDHA, increased lipaseA, increased amylaseA |  |  |  |
+| Injury, poisoning and procedural complications |  |  |  |  |
+| Postprocedural haemorrhage (incl. postoperative anaemia, and wound haemorrhage), contusion, wound secretionA |  | Vascular pseudoaneurysmC |  |  |
 
 [Xarelto 20 mg film-coated tablets]
 
