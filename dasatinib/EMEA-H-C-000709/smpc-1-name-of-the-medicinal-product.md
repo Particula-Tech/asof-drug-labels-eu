@@ -6,3 +6,7 @@ SPRYCEL 70 mg film-coated tablets
 SPRYCEL 80 mg film-coated tablets
 SPRYCEL 100 mg film-coated tablets
 SPRYCEL 140 mg film-coated tablets
+
+[SPRYCEL 10 mg/mL powder for oral suspension]
+
+SPRYCEL 10 mg/mL powder for oral suspension

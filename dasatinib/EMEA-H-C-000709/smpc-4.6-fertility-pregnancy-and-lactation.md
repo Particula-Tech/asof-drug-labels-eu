@@ -15,4 +15,9 @@ Physico-chemical and available pharmacodynamic/toxicological data on dasatinib p
 Breast-feeding should be stopped during treatment with SPRYCEL.
 
 Fertility
-The effect of dasatinib on sperm is unknown (see section 5.3).
+In animal studies, the fertility of male and female rats was not affected by treatment with dasatinib (see section 5.3).
+Physicians and other healthcare providers should counsel male patients of appropriate age about possible effects of SPRYCEL on fertility, and this counseling may include consideration of semen deposition.
+
+[SPRYCEL 10 mg/mL powder for oral suspension]
+
+Pregnant or breast-feeding women should avoid exposure to SPRYCEL powder for oral suspension.

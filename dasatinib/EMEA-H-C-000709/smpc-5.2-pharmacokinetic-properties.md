@@ -6,7 +6,8 @@ Absorption
 Dasatinib is rapidly absorbed in patients following oral administration, with peak concentrations between 0.5-3 hours.
 Following oral administration, the increase in the mean exposure (AUCτ) is approximately proportional to the dose increment across doses ranging from 25 mg to 120 mg twice daily.
 The overall mean terminal half-life of dasatinib is approximately 5-6 hours in patients.
-Data from healthy subjects administered a single, 100 mg dose of dasatinib 30 minutes following a high-fat meal indicated a 14% increase in the mean AUC of dasatinib.
+
+Data from healthy subjects administered a single 100 mg dose of dasatinib 30 minutes following a high-fat meal indicated a 14% increase in the mean AUC of dasatinib.
 A low-fat meal 30 minutes prior to dasatinib resulted in a 21% increase in the mean AUC of dasatinib.
 The observed food effects do not represent clinically relevant changes in exposure.
 
@@ -31,3 +32,22 @@ The mean Cmax and AUC of dasatinib adjusted for the 70 mg dose were decreased by
 In severely hepatic-impaired subjects, the mean Cmax and AUC adjusted for the 70 mg dose were decreased by 43% and 28%, respectively, compared to subjects with normal hepatic function (see sections 4.2 and 4.4).
 
 Dasatinib and its metabolites are minimally excreted via the kidney.
+
+Paediatric population
+The pharmacokinetics of dasatinib have been evaluated in 104 paediatric patients with leukaemia or solid tumours (72 who received the tablet formulation and 32 who received the powder for oral suspension).
+
+Pharmacokinetics of the tablet formulation of dasatinib were evaluated for 72 paediatric patients with relapsed or refractory leukaemia or solid tumours at oral doses ranging from 60 to 120 mg/m2 once daily and 50 to 110 mg/m2 twice daily.
+Data was pooled across two studies and showed that dasatinib was rapidly absorbed.
+Mean Tmax was observed between 0.5 and 6 hours and mean half-life ranged from 2 to 5 hours across all dose levels and age groups.
+Dasatinib PK showed dose proportionality with a dose-related increase in exposure observed in paediatric patients.
+There was no significant difference of dasatinib PK between children and adolescents.
+The geometric means of dose-normalized dasatinib Cmax, AUC (0-T), and AUC (INF) appeared to be similar between children and adolescents at different dose levels.
+A PPK model-based simulation predicted that the body weight tiered dosing recommendation described for the tablet, in section 4.2, is expected to provide similar exposure to a tablet dose of 60 mg/m2.
+These data should be considered if patients are to switch from tablets to powder for oral suspension or vice versa.
+
+[SPRYCEL 10 mg/mL powder for oral suspension]
+
+A bioequivalence study evaluating the powder for oral suspension to the reference tablet formulation in 77 adult patients showed that the exposure for the powder for oral suspension was 19% less than that of reference tablets.
+Concentration data in 32 paediatric patients treated with the powder for oral suspension dose of 72 mg/m2 was pooled with data from the tablet for a population pharmacokinetic (PPK) analysis, which showed that the exposure of the powder for oral suspension (as measured by time-averaged concentration at steady state [Cavgss]) at 72 mg/m2 was approximately 30% lower than that of the tablet at 60 mg/m2.
+A PPK model-based simulation predicted that the body weight tiered dosing recommendation described for the powder for oral suspension, in section 4.2 of the Summary of Product Characteristics for the powder for oral suspension, is expected to provide similar exposure to a tablet dose of 60 mg/m2.
+These data should be considered if patients are to switch from powder for oral suspension to tablets or vice versa.
