@@ -25,7 +25,6 @@ However, population pharmacokinetic analysis indicated that concomitant use of N
 Following induction doses of 200 mg and 100 mg golimumab at week 0 and 2, respectively, and maintenance doses of 50 mg or 100 mg golimumab subcutaneously every 4 weeks thereafter to patients with UC, serum golimumab concentrations reached steady state approximately 14 weeks after the start of therapy.
 Treatment with 50 mg or 100 mg golimumab subcutaneous every 4 weeks during maintenance resulted in a mean steady-state trough serum concentration of approximately 0.9
 ± 0.5 μg/mL and 1.8 ± 1.1 μg/mL, respectively.
-
 In UC patients treated with 50 mg or 100 mg golimumab subcutaneously every 4 weeks, concomitant use of immunomodulators did not have a substantial effect on steady-state trough levels of golimumab.
 
 Patients who developed anti-golimumab antibodies generally had low trough steady-state serum concentrations of golimumab (see section 5.1).
@@ -33,6 +32,7 @@ Patients who developed anti-golimumab antibodies generally had low trough steady
 Linearity
 Golimumab exhibited approximately dose-proportional pharmacokinetics in patients with RA over the dose range of 0.1 to 10.0 mg/kg following a single intravenous dose.
 Following a single SC dose in healthy subjects, approximately dose-proportional pharmacokinetics were also observed over a dose range of 50 mg to 400 mg.
+
 Effect of weight on pharmacokinetics
 There was a trend toward higher apparent clearance of golimumab with increasing weight
 (see section 4.2).

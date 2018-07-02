@@ -22,10 +22,12 @@ Continued therapy should be reconsidered in patients who show no evidence of the
 
 Ulcerative colitis
 Patients with body weight less than 80 kg
-Simponi given as an initial dose of 200 mg, followed by 100 mg at week 2, then 50 mg every 4 weeks, thereafter (see section 5.1).
-
+Simponi given as an initial dose of 200 mg, followed by 100 mg at week 2.
+Patients who have an adequate response should receive 50 mg at week 6 and every 4 weeks thereafter.
+Patients who have an inadequate response may benefit from continuing with 100 mg at week 6 and every 4 weeks thereafter (see section 5.1).
 Patients with body weight greater than or equal to 80 kg
 Simponi given as an initial dose of 200 mg, followed by 100 mg at week 2, then 100 mg every 4 weeks, thereafter (see section 5.1).
+
 During maintenance treatment, corticosteroids may be tapered in accordance with clinical practice guidelines.
 
 Available data suggest that clinical response is usually achieved within 12-14 weeks of treatment (after 4 doses).

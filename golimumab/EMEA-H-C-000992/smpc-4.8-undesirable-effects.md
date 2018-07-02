@@ -21,9 +21,9 @@ Uncommon: Neoplasms (such as skin cancer, squamous cell carcinoma and melanocyti
 Rare: Lymphoma, leukaemia, melanoma, Merkel cell carcinoma
 Not known: Hepatosplenic T-cell lymphoma*
 Blood and lymphatic system disorders
-Common: Anaemia
-Uncommon: Leucopaenia, thrombocytopaenia, pancytopaenia
-Rare: Aplastic anaemia
+Common: Leukopenia (including neutropenia), anaemia
+Uncommon: Thrombocytopenia, pancytopenia
+Rare: Aplastic anaemia, agranulocytosis
 Immune system disorders
 Common: Allergic reactions (bronchospasm, hypersensitivity, urticaria), autoantibody positive
 Rare: Serious systemic hypersensitivity reactions (including anaphylactic reaction), vasculitis (systemic), sarcoidosis Endocrine disorders

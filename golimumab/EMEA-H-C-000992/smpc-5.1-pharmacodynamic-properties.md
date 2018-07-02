@@ -207,7 +207,7 @@ Placebo-controlled efficacy data were collected and analysed through week 24.
 
 Key results for the 50 mg dose are shown in Table 5 and described below.
 In general, no clinically meaningful differences in measures of efficacy were observed between the Simponi 50 mg and 100 mg dosing regimens through week 24.
-By study design, patients in the long-term extension may have switched bewtween the 50 mg and 100 mg Simponi doses at the discretion of the study physician.
+By study design, patients in the long-term extension may have switched between the 50 mg and 100 mg Simponi doses at the discretion of the study physician.
 
 Table 5
 Key efficacy outcomes from GO-RAISE.
@@ -301,12 +301,12 @@ Corticosteroids were to be tapered at the start of the maintenance study.
 The efficacy of Simponi through week 54 was assessed in this study.
 Patients who completed the maintenance study through week 54 continued treatment in a study-extension, with efficacy evaluated through week 216.
 Efficacy evaluation in the study extension was based on changes in corticosteroid use, Physician’s Global Assessment (PGA) of disease activity, and improvement in quality of life as measured by Inflammatory Bowel Disease Questionnaire (IBDQ).
-
 Table 7
-Key efficacy outcomes from PURSUIT - Induction and PURSUIT - Maintenance PURSUIT-Induction
+Key efficacy outcomes from PURSUIT - Induction and PURSUIT - Maintenance
 
-|  | Placebo N = 251 | Simponi 200/100 mg N = 253 |  |
+| PURSUIT-Induction |  |  |  |
 | --- | --- | --- | --- |
+|  | Placebo N = 251 | Simponi 200/100 mg N = 253 |  |
 | Percentage of patients |  |  |  |
 | Patients in clinical response at week 6a | 30% | 51%** |  |
 | Patients in clinical remission at week 6b | 6% | 18%** |  |
@@ -333,8 +333,13 @@ Among the 54% of patients (247/456) who were receiving concomitant corticosteroi
 The proportion of patients who eliminated corticosteroids by week 54 was greater in the 50 mg group (41%, 32/78) and 100 mg group (33%, 27/82) compared with the placebo group (22%, 19/87).
 Among patients who entered the study extension, the proportion of subjects who remained corticosteroid free was generally maintained through week 216.
 
+Patients who did not achieve clinical response at week 6 in the PURSUIT-Induction studies were dosed Simponi 100 mg every 4 weeks in the PURSUIT-Maintenance study.
+At week 14, 28% of these patients achieved response defined by partial Mayo score (decreased by ≥3 points compared with start of induction).
+At week 54, the clinical outcomes observed in these patients were similar to the clinical outcomes reported for the patients achieving clinical response at week 6.
+
 At week 6, Simponi significantly improved quality of life as measured by change from baseline in a disease specific measure, IBDQ (inflammatory bowel disease questionnaire).
 Among patients who received Simponi maintenance treatment, the improvement in quality of life as measured by IBDQ was maintained through week 54.
+
 Approximately 63% of patients who were receiving Simponi at the beginning of the study extension (week 56), remained on treatment through the end of the study (last golimumab administration at week 212).
 
 Immunogenicity
@@ -362,7 +367,6 @@ The presence of antibodies to golimumab may increase the risk of injection site 
 The small number of patients positive for antibodies to golimumab limits the ability to draw definitive conclusions regarding the relationship between antibodies to golimumab and clinical efficacy or safety measures.
 
 Because immunogenicity analyses are product- and assay-specific, comparison of antibody rates with those from other products is not appropriate.
-
 Paediatric population
 
 Polyarticular juvenile idiopathic arthritis
@@ -396,11 +400,10 @@ Improvements from baseline in ACR Ped components at week 16a
 | Physical function by CHAQd | 50% |
 | ESR (mm/h)e | 33% |
 
-a baseline = week 0 b “n” reflects enrolled patients c VAS: Visual Analogue Scale d CHAQ: Child Health Assessment Questionaire e ESR (mm/h): erythrocyte sedimentation rate (milimetres per hour)
+a baseline = week 0 b “n” reflects enrolled patients c VAS: Visual Analogue Scale d CHAQ: Child Health Assessment Questionaire e ESR (mm/h): erythrocyte sedimentation rate (millimetres per hour)
 
 The primary endpoint, the proportion of children who were ACR Ped 30 responders at week 16 and who did not experience a flare between week 16 and week 48, was not achieved.
 The majority of children did not experience a flare between week 16 and week 48 (59% in the Simponi + MTX and 53% in the placebo + MTX groups, respectively; p = 0.41).
-
 Pre-specified subgroup analyses of the primary endpoint by baseline CRP (≥1 mg/dL vs < 1 mg/dL) demonstrated higher flare rates in placebo + MTX vs Simponi + MTX treated subjects among subjects with baseline CRP ≥1 mg/dL (87% vs 40% p = 0.0068).
 
 At week 48, 53% and 55% of children in the Simponi + MTX group and placebo + MTX group, respectively, were ACR Ped 30 responders, and 40% and 28% of children in the Simponi + MTX group and placebo + MTX group, respectively, achieved inactive disease.
@@ -411,16 +414,16 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 Patients who completed the maintenance study through week 54 continued treatment in a study extension, with efficacy evaluated through week 216.
 
-Key efficacy outcomes from PURSUIT - Induction and PURSUIT - Maintenance
+| PURSUIT-Induction |  |  |
+| --- | --- | --- |
+|  | Placebo N = 251 | Simponi 200/100 mg N = 253 |
+| Percentage of patients |  |  |
+| Patients in clinical response at week 6a | 30% | 51%** |
+| Patients in clinical remission at week 6b | 6% | 18%** |
+| Patients with mucosal healing at week 6c | 29% | 42%* |
 
-| PURSUIT-Induction |  |  |  |
-| --- | --- | --- | --- |
-|  | Placebo N = 251 | Simponi 200/100 mg N = 253 |  |
-| Percentage of patients |  |  |  |
-| Patients in clinical response at week 6a | 30% | 51%** |  |
-| Patients in clinical remission at week 6b | 6% | 18%** |  |
-| Patients with mucosal healing at week 6c | 29% | 42%* |  |
 | PURSUIT-Maintenance |  |  |  |
+| --- | --- | --- | --- |
 |  | Placebod N = 154 | Simponi 50 mg N = 151 | Simponi 100 mg N = 151 |
 | Percentage of patients |  |  |  |
 | Maintenance of response (Patients in clinical response through week 54)e | 31% | 47%* | 50%** |

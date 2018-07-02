@@ -35,7 +35,6 @@ If latent tuberculosis is suspected, a physician with expertise in the treatment
 In all situations described below, the benefit/risk balance of Simponi therapy should be very carefully considered.
 
 If inactive (‘latent’) tuberculosis is diagnosed, treatment for latent tuberculosis must be started with anti-tuberculosis therapy before the initiation of Simponi, and in accordance with local recommendations.
-
 In patients who have several or significant risk factors for tuberculosis and have a negative test for latent tuberculosis, anti-tuberculosis therapy should be considered before the initiation of Simponi.
 Use of anti-tuberculosis therapy should also be considered before the initiation of Simponi in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed.
 
@@ -74,7 +73,7 @@ There is an increased background risk for lymphoma and leukaemia in rheumatoid a
 
 Rare post-marketing cases of hepatosplenic T-cell lymphoma (HSTCL) have been reported in patients treated with other TNF-blocking agents (see section 4.8).
 This rare type of T-cell lymphoma has a very aggressive disease course and is usually fatal.
-The majority of cases have occurred in adolescent and young adult males with nearly all on comcomitant treatment with azathioprine (AZA) or 6-mercaptopurine (6–MP) for inflammatory bowel disease.
+The majority of cases have occurred in adolescent and young adult males with nearly all on concomitant treatment with azathioprine (AZA) or 6-mercaptopurine (6–MP) for inflammatory bowel disease.
 The potential risk with the combination of AZA or 6-MP and Simponi should be carefully considered.
 A risk for the development for hepatosplenic T-cell lymphoma in patients treated with TNF-blockers cannot be excluded.
 
@@ -116,6 +115,7 @@ Surgery
 There is limited safety experience of Simponi treatment in patients who have undergone surgical procedures, including arthroplasty.
 The long half-life should be taken into consideration if a surgical procedure is planned.
 A patient who requires surgery while on Simponi should be closely monitored for infections, and appropriate actions should be taken.
+
 Immunosuppression
 The possibility exists for TNF-blocking agents, including Simponi, to affect host defences against infections and malignancies since TNF mediates inflammation and modulates cellular immune responses.
 
@@ -124,8 +124,7 @@ The relative deficiency of TNFαcaused by anti-TNF therapy may result in the ini
 If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with Simponi and is positive for antibodies against double-stranded DNA, treatment with Simponi should be discontinued (see section 4.8).
 
 Haematologic reactions
-There have been post-marketing reports of pancytopaenia, leucopaenia, neutropaenia, aplastic anaemia, and thrombocytopaenia in patients receiving TNF-blockers.
-Cytopaenias including pancytopaenia have been infrequently reported with Simponi in clinical trials.
+There have been reports of pancytopenia, leukopenia, neutropenia, agranulocytosis, aplastic anaemia, and thrombocytopenia in patients receiving TNF-blockers, including Simponi.
 All patients should be advised to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias (e.g. persistent fever, bruising, bleeding, pallor).
 Discontinuation of Simponi therapy should be considered in patients with confirmed significant haematologic abnormalities.
 
@@ -152,7 +151,6 @@ Use of live vaccines could result in clinical infections, including disseminated
 
 Other uses of therapeutic infectious agents such as live attenuated bacteria (e.g. BCG bladder instillation for the treatment of cancer) could result in clinical infections, including disseminated infections.
 It is recommended that therapeutic infectious agents not be given concurrently with Simponi.
-
 Allergic reactions
 In post-marketing experience, serious systemic hypersensitivity reactions (including anaphylactic reaction) have been reported following Simponi administration.
 Some of these reactions occurred after the first administration of Simponi.
