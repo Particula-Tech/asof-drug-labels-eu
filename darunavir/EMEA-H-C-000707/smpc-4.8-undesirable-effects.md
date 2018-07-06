@@ -8,7 +8,7 @@ The most frequent serious reactions are acute renal failure, myocardial infarcti
 
 In the 96 week analysis, the safety profile of PREZISTA/ritonavir 800/100 mg once daily in treatment-naïve subjects was similar to that seen with PREZISTA/ritonavir 600/100 mg twice daily in treatment-experienced subjects except for nausea which was observed more frequently in treatment-naïve subjects.
 This was driven by mild intensity nausea.
-No new safety findings were identified in the 192 week analysis of the treatment- naïve subjects in which the mean treatment duration of PREZISTA/ritonavir 800/100 mg once daily was 162.5 weeks.
+No new safety findings were identified in the 192 week analysis of the treatment-naïve subjects in which the mean treatment duration of PREZISTA/ritonavir 800/100 mg once daily was 162.5 weeks.
 
 During the Phase III clinical trial GS-US-216-130 with darunavir/cobicistat (N=313 treatment-naïve and treatment-experienced subjects), 66.5% of subjects experienced at least one adverse reaction.
 The mean treatment duration was 58.4 weeks.
@@ -36,7 +36,8 @@ Adverse reactions observed with darunavir/ritonavir in clinical trials and post-
 | Endocrine disorders |  |
 | uncommon | hypothyroidism, increased blood thyroid stimulating hormone |
 | Metabolism and nutrition disorders |  |
-| common uncommon | diabetes mellitus, hypertriglyceridaemia, hypercholesterolaemia, hyperlipidaemia gout, anorexia, decreased appetite, decreased weight, increased weight, hyperglycaemia, insulin resistance, decreased high density lipoprotein, increased appetite, polydipsia, increased blood lactate dehydrogenase |
+| common | diabetes mellitus, hypertriglyceridaemia, hypercholesterolaemia, hyperlipidaemia |
+| uncommon | gout, anorexia, decreased appetite, decreased weight, increased weight, hyperglycaemia, insulin resistance, decreased high density lipoprotein, increased appetite, polydipsia, increased blood lactate dehydrogenase |
 | Psychiatric disorders |  |
 | common | insomnia |
 | uncommon | depression, disorientation, anxiety, sleep disorder, abnormal dreams, nightmare, decreased libido |
@@ -59,8 +60,7 @@ Adverse reactions observed with darunavir/ritonavir in clinical trials and post-
 | uncommon | dyspnoea, cough, epistaxis, throat irritation |
 | rare | rhinorrhoea |
 | Gastrointestinal disorders |  |
-| very common | diarrhoea |
-| common | vomiting, nausea, abdominal pain, increased blood amylase, dyspepsia, abdominal distension, flatulence |
+| very common common | diarrhoea vomiting, nausea, abdominal pain, increased blood amylase, dyspepsia, abdominal distension, flatulence |
 | uncommon | pancreatitis, gastritis, gastrooesophageal reflux disease, aphthous stomatitis, retching, dry mouth, abdominal discomfort, constipation, increased lipase, eructation, oral dysaesthesia |
 | rare | stomatitis, haematemesis, cheilitis, dry lip, coated tongue |
 | Hepatobiliary disorders |  |
@@ -84,7 +84,7 @@ Adverse reactions observed with darunavir/ritonavir in clinical trials and post-
 | uncommon | pyrexia, chest pain, peripheral oedema, malaise, feeling hot, irritability, pain |
 | rare | chills, abnormal feeling, xerosis |
 
-Adverse reactions with darunavir/cobicistat in adult patients
+Adverse reactions observed with darunavir/cobicistat in adult patients
 
 | MedDRA system organ class Frequency category | Adverse reaction |
 | --- | --- |
@@ -121,13 +121,13 @@ Adverse reactions with darunavir/cobicistat in adult patients
 | common | increased blood creatinine |
 
 * these adverse drug reactions have not been reported in clinical trial experience with darunavir/cobicistat but have been noted with darunavir/ritonavir treatment and could be expected with darunavir/cobicistat too.
-
 Description of selected adverse reactions
 
 Rash
 In clinical trials, rash was mostly mild to moderate, often occurring within the first four weeks of treatment and resolving with continued dosing.
 In cases of severe skin reaction see the warning in section 4.4.
 In a single arm trial investigating darunavir 800 mg once daily in combination with cobicistat 150 mg once daily and other antiretrovirals 2.2% of patients discontinued treatment due to rash.
+
 During the clinical development program of raltegravir in treatment-experienced patients, rash, irrespective of causality, was more commonly observed with regimens containing PREZISTA/ritonavir + raltegravir compared to those containing PREZISTA/ritonavir without raltegravir or raltegravir without PREZISTA/ritonavir.
 Rash considered by the investigator to be drug-related occurred at similar rates.
 The exposure-adjusted rates of rash (all causality) were 10.9, 4.2, and 3.8 per 100 patient-years (PYR), respectively; and for drug-related rash were 2.4, 1.1, and 2.3 per 100 PYR, respectively.
@@ -158,68 +158,16 @@ The following patient populations were evaluated (see section 5.1):
 - 12 ART-naïve HIV-1 infected paediatric patients aged from 12 to 17 years and weighing at least 40 kg who received PREZISTA tablets with low dose ritonavir once daily in combination with other antiretroviral agents (see section 5.1).
 
 Overall, the safety profile in these paediatric patients was similar to that observed in the adult population.
-
 Other special populations
 Patients co-infected with hepatitis B and/or hepatitis C virus
 Among 1,968 treatment-experienced patients receiving PREZISTA co-administered with ritonavir 600/100 mg twice daily, 236 patients were co-infected with hepatitis B or C. Co-infected patients were more likely to have baseline and treatment emergent hepatic transaminase elevations than those without chronic viral hepatitis (see section 4.4).
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [PREZISTA 75 mg film-coated tablets]
-
-Adverse reactions in clinical trials and post-marketing
-
-During the clinical development program of raltegravir in treatment-experienced patients, rash, irrespective of causality, was more commonly observed with regimens containing PREZISTA + raltegravir compared to those containing PREZISTA without raltegravir or raltegravir without PREZISTA.
-
-[PREZISTA 150 mg film-coated tablets]
-
-(all sentences already above)
-
-[PREZISTA 300 mg film-coated tablets]
-
-(all sentences already above)
-
-[PREZISTA 400 mg film-coated tablets]
-
-| MedDRA system organ class Frequency category | Adverse reaction |
-| --- | --- |
-| Immune system disorders |  |
-| common | (drug) hypersensitivity |
-| uncommon | immune reconstitution inflammatory syndrome |
-| Metabolism and nutrition disorders |  |
-| common | anorexia, diabetes mellitus, hypercholesterolaemia, hypertriglyceridaemia, hyperlipidaemia |
-| Psychiatric disorders |  |
-| common | abnormal dreams |
-| Nervous system disorders |  |
-| very common | headache |
-| Gastrointestinal disorders |  |
-| very common | diarrhoea, nausea |
-| common | vomiting, abdominal pain, abdominal distension, dyspepsia, flatulence, pancreatic enzymes increased |
-| uncommon | pancreatitis acute |
-| Hepatobiliary disorders |  |
-| common | hepatic enzyme increased |
-| uncommon | hepatitis*, cytolytic hepatitis* |
-| Skin and subcutaneous tissue disorders |  |
-| very common | rash (including macular, maculopapular, papular, erythematous, pruritic rash, generalised rash, and allergic dermatitis) |
-| common | angioedema, pruritus, urticaria |
-| rare | drug reaction with eosinophilia and systemic symptoms*, Stevens-Johnson syndrome* |
-| not known | toxic epidermal necrolysis*, acute generalised exanthematous pustulosis* |
-| Musculoskeletal and connective tissue disorders common myalgia uncommon osteonecrosis* |  |
-| Reproductive system and breast disorders |  |
-| uncommon | gynaecomastia* |
-| General disorders and administration site conditions |  |
-| common | fatigue |
-| uncommon | asthenia |
-| Investigations |  |
-| common | increased blood creatinine |
-
-[PREZISTA 600 mg film-coated tablets]
-
-(all sentences already above)
-
-[PREZISTA 800 mg film-coated tablets]
 
 | MedDRA system organ class Frequency category | Adverse reaction |
 | --- | --- |
@@ -281,3 +229,37 @@ During the clinical development program of raltegravir in treatment-experienced 
 | common | asthenia, fatigue |
 | uncommon | pyrexia, chest pain, peripheral oedema, malaise, feeling hot, irritability, pain |
 | rare | chills, abnormal feeling, xerosis |
+
+[PREZISTA 400 mg film-coated tablets]
+
+| MedDRA system organ class Frequency category | Adverse reaction |
+| --- | --- |
+| Immune system disorders |  |
+| common | (drug) hypersensitivity |
+| uncommon | immune reconstitution inflammatory syndrome |
+| Metabolism and nutrition disorders |  |
+| common | anorexia, diabetes mellitus, hypercholesterolaemia, hypertriglyceridaemia, hyperlipidaemia |
+| Psychiatric disorders |  |
+| common | abnormal dreams |
+| Nervous system disorders |  |
+| very common | headache |
+| Gastrointestinal disorders |  |
+| very common | diarrhoea, nausea |
+| common | vomiting, abdominal pain, abdominal distension, dyspepsia, flatulence, pancreatic enzymes increased |
+| uncommon | pancreatitis acute |
+| Hepatobiliary disorders |  |
+| common | hepatic enzyme increased |
+| uncommon | hepatitis*, cytolytic hepatitis* |
+| Skin and subcutaneous tissue disorders |  |
+| very common | rash (including macular, maculopapular, papular, erythematous, pruritic rash, generalised rash, and allergic dermatitis) |
+| common | angioedema, pruritus, urticaria |
+| rare | drug reaction with eosinophilia and systemic symptoms*, Stevens-Johnson syndrome* |
+| not known | toxic epidermal necrolysis*, acute generalised exanthematous pustulosis* |
+| Musculoskeletal and connective tissue disorders common myalgia uncommon osteonecrosis* |  |
+| Reproductive system and breast disorders |  |
+| uncommon | gynaecomastia* |
+| General disorders and administration site conditions |  |
+| common | fatigue |
+| uncommon | asthenia |
+| Investigations |  |
+| common | increased blood creatinine |

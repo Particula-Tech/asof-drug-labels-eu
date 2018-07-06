@@ -21,6 +21,7 @@ Viruses selected in these conditions and showing decreased susceptibility to dar
 The decreased susceptibility to darunavir of the emerging viruses in the selection experiment could not be explained by the emergence of these protease mutations.
 
 The clinical trial data from ART-experienced patients (TITAN trial and the pooled analysis of the POWER 1, 2 and 3 and DUET 1 and 2 trials) showed that virologic response to PREZISTA co-administered with low dose ritonavir was decreased when 3 or more darunavir RAMs (V11I, V32I, L33F, I47V, I50V, I54L or M, T74P, L76V, I84V and L89V) were present at baseline or when these mutations developed during treatment.
+
 Increasing baseline darunavir fold change in EC50 (FC) was associated with decreasing virologic response.
 A lower and upper clinical cut-off of 10 and 40 were identified.
 Isolates with baseline FC
@@ -66,6 +67,7 @@ In the virologic failures of the ARTEMIS trial no cross-resistance with other PI
 In the virologic failures of the GS-US-216-130 trial no cross-resistance with other HIV PIs was observed.
 
 Clinical results
+
 The pharmacokinetic enhancing effect of cobicistat on darunavir was evaluated in a Phase I study in healthy subjects that were administered darunavir 800 mg with either cobicistat at 150 mg or ritonavir at 100 mg once daily.
 The steady-state pharmacokinetic parameters of darunavir were comparable when boosted with cobicistat versus ritonavir.
 For information on cobicistat, consult the cobicistat
@@ -240,92 +242,18 @@ a Imputations according to the TLOVR algorithm.
 b Non-completer is failure imputation: patients who discontinued prematurely are imputed with a change equal to 0.
 
 Pregnancy and postpartum
-Darunavir/ritonavir (600/100 mg twice daily or 800/100 mg once daily) in combination with a background regimen was evaluated in a clinical trial of 34 pregnant women (17 in each arm) during the second and third trimesters, and postpartum.
+Darunavir/ritonavir (600/100 mg twice daily or 800/100 mg once daily) in combination with a background regimen was evaluated in a clinical trial of 36 pregnant women (18 in each arm) during the second and third trimesters, and postpartum.
 Virologic response was preserved throughout the study period in both arms.
-No mother to child transmission occurred in the infants born to the 29 subjects who stayed on the antiretroviral treatment through delivery.
+No mother to child transmission occurred in the infants born to the 31 subjects who stayed on the antiretroviral treatment through delivery.
 There were no new clinically relevant safety findings compared with the known safety profile of darunavir/ritonavir in HIV-1 infected adults (see sections 4.2, 4.4 and 5.2).
 
 [PREZISTA 75 mg film-coated tablets]
 
-The table below shows the development of mutations and loss of susceptibility to PIs in virologic failures at endpoint in the ARTEMIS, ODIN and TITAN trials.
-
-|  | ARTEMIS | ODIN |  | TITAN |
-| --- | --- | --- | --- | --- |
-|  | PREZISTA/ ritonavir 800/100 mg once daily N=343 | PREZISTA/ ritonavir 800/100 mg once daily N=294 | PREZISTA/ ritonavir 600/100 mg twice daily N=296 | PREZISTA/ ritonavir 600/100 mg twice daily N=298 |
-| Total number of virologic failuresa, n | 55 (16.0%) | 65 (22.1%) | 54 (18.2%) | 31 (10.4%) |
-| (%) Rebounders Never suppressed subjects | 39 (11.4%) 16 (4.7%) | 11 (3.7%) 54 (18.4%) | 11 (3.7%) 43 (14.5%) | 16 (5.4%) 15 (5.0%) |
-| Number of subjects with virologic failure and paired baseline/endpoint genotypes, developing mutationsb at endpoint, n/N |  |  |  |  |
-| Primary (major) PI mutations PI RAMs | 0/43 | 1/60 | 0/42 | 6/28 |
-|  | 4/43 | 7/60 | 4/42 | 10/28 |
-| Number of subjects with virologic failure and paired baseline/endpoint phenotypes, showing loss of susceptibility to PIs at endpoint compared to baseline, n/N |  |  |  |  |
-| PI darunavir amprenavir atazanavir indinavir lopinavir saquinavir tipranavir | 0/39 0/39 0/39 0/39 0/39 0/39 0/39 | 1/58 1/58 2/56 2/57 1/58 0/56 0/58 | 0/41 0/40 0/40 0/40 0/40 0/40 0/41 | 3/26 0/22 0/22 1/24 0/23 0/22 1/25 |
-
 For clinical trial results in ART-naïve adult patients, refer to the Summary of Product Characteristics for PREZISTA 400 mg and 800 mg tablets or 100 mg/ml oral suspension.
-
-| ODIN |  |  |  |
-| --- | --- | --- | --- |
-| Outcomes | PREZISTA/ritonavir 800/100 mg once daily + OBR N=294 | PREZISTA/ritonavir 600/100 mg twice daily + OBR N=296 | Treatment difference (95% CI of difference) |
-| HIV-1 RNA < 50 copies/mla With Baseline HIV-1 RNA (copies/ml) < 100,000 ≥100,000 With Baseline CD4+ cell count (x 106/l) ≥100 < 100 With HIV-1 clade Type B Type AE Type C Otherc | 72.1% (212) | 70.9% (210) | 1.2% (-6.1; 8.5)b |
-|  | 77.6% (198/255) 35.9% (14/39) | 73.2% (194/265) 51.6% (16/31) | 4.4% (-3.0; 11.9) -15.7% (-39.2; 7.7) |
-|  | 75.1% (184/245) 57.1% (28/49) | 72.5% (187/258) 60.5% (23/38) | 2.6% (-5.1; 10.3) -3.4% (-24.5; 17.8) |
-|  | 70.4% (126/179) 90.5% (38/42) 72.7% (32/44) 55.2% (16/29) | 64.3% (128/199) 91.2% (31/34) 78.8% (26/33) 83.3% (25/30) | 6.1% (-3.4; 15.6) -0.7% (-14.0; 12.6) -6.1% (-2.6; 13.7) -28.2% (-51.0; -5.3) |
-
-mean CD4+ cell count 108 112 -5d (-25; 16)
-change from baseline
-(x 106/l)e
 
 For clinical trial results in ART-naïve paediatric patients aged 12 to 17 years, refer to the Summary of Product Characteristics for PREZISTA 400 mg and 800 mg tablets or PREZISTA 100 mg/ml oral suspension.
 
-[PREZISTA 150 mg film-coated tablets]
-
-(all sentences already above)
-
-[PREZISTA 300 mg film-coated tablets]
-
-(all sentences already above)
-
 [PREZISTA 400 mg film-coated tablets]
-
-GS-US-216-130
-Week 48
-Treatment-naïve Treatment-experienced
-darunavir/cobicistat 800/150 mg darunavir/cobicistat 800/150 mg
-once daily once daily
-N=295 N=18
-
-| Number of subjects with virologic failurea and genotype data that develop mutationsb at endpoint, n/N |  |  |
-| --- | --- | --- |
-| Primary (major) PI mutations PI RAMs | 0/8 | 1/7 |
-|  | 2/8 | 1/7 |
-| Number of subjects with virologic failurea and phenotype data that show resistance to PIs at endpointc, n/N |  |  |
-| HIV PI darunavir amprenavir atazanavir indinavir lopinavir saquinavir tipranavir | 0/8 0/8 0/8 0/8 0/8 0/8 0/8 | 0/7 0/7 0/7 0/7 0/7 0/7 0/7 |
-
-|  | GS-US-216-130 |  |  |
-| --- | --- | --- | --- |
-| Outcomes at Week 48 | Treatment-naïve darunavir/cobicistat 800/150 mg once daily + OBR N=295 | Treatment-experienced darunavir/cobicistat 800/150 mg once daily + OBR N=18 | All subjects darunavir/cobicistat 800/150 mg once daily + OBR N=313 |
-| HIV-1 RNA < 50 copies/mla | 245 (83.1%) | 8 (44.4%) | 253 (80.8%) |
-| mean HIV-1 RNA log change from baseline (log10 copies/ml) | -3.01 | -2.39 | -2.97 |
-
-CD4+ cell count mean +174 +102 +170
-change from baselineb
-
-Efficacy of PREZISTA 800 mg once daily co-administered with 100 mg ritonavir once daily in ART-experienced patients
-
-| DIONE |  |
-| --- | --- |
-| Outcomes at week 48 | PREZISTA/ritonavir N=12 |
-| HIV-1 RNA < 50 copies/mla | 83.3% (10) |
-| CD4+ percent change from baseline | 14 |
-| CD4+ cell count mean change from baselineb | 221 |
-| ≥1.0 log10 decrease from baseline in plasma viral load | 100% |
-
-For additional clinical study results in ART-experienced adults and paediatric patients, refer to the Summary of Product Characteristics for PREZISTA 75 mg, 150 mg, 300 mg or 600 mg tablets and 100 mg/ml oral suspension.
-
-[PREZISTA 600 mg film-coated tablets]
-
-ART-experienced paediatric patients from the age of 6 to < 18 years and weighing at least 20 kg
-
-[PREZISTA 800 mg film-coated tablets]
 
 |  | ARTEMIS Week 192 | ODIN Week 48 |  | TITAN Week 48 |
 | --- | --- | --- | --- | --- |
@@ -336,8 +264,11 @@ ART-experienced paediatric patients from the age of 6 to < 18 years and weighing
 | Primary (major) PI mutations PI RAMs | 0/43 | 1/60 | 0/42 | 6/28 |
 |  | 4/43 | 7/60 | 4/42 | 10/28 |
 | Number of subjects with virologic failure and paired baseline/endpoint phenotypes, showing loss of susceptibility to PIs at endpoint compared to baseline, n/N |  |  |  |  |
-| PI darunavir amprenavir atazanavir indinavir lopinavir saquinavir | 0/39 0/39 0/39 0/39 0/39 0/39 | 1/58 1/58 2/56 2/57 1/58 0/56 | 0/41 0/40 0/40 0/40 0/40 0/40 | 3/26 0/22 0/22 1/24 0/23 0/22 |
+| PI darunavir amprenavir atazanavir | 0/39 0/39 0/39 | 1/58 1/58 2/56 | 0/41 0/40 0/40 | 3/26 0/22 0/22 |
 
+indinavir 0/39 2/57 0/40 1/24
+lopinavir 0/39 1/58 0/40 0/23
+saquinavir 0/39 0/56 0/40 0/22
 tipranavir 0/39 0/58 0/41 1/25
 
 |  | GS-US-216-130 |  |  |
@@ -346,3 +277,18 @@ tipranavir 0/39 0/58 0/41 1/25
 | HIV-1 RNA < 50 copies/mla | 245 (83.1%) | 8 (44.4%) | 253 (80.8%) |
 | mean HIV-1 RNA log change from baseline (log10 copies/ml) | -3.01 | -2.39 | -2.97 |
 | CD4+ cell count mean change from baselineb | +174 | +102 | +170 |
+
+| ARTEMIS |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Week 48a |  |  | Week 96b |  |  |
+| Outcomes | PREZISTA/ ritonavir 800/100 mg once daily N=343 | Lopinavir/ ritonavir 800/200 mg per day N=346 | Treatment difference (95% CI of difference) | PREZISTA/ ritonavir 800/100 mg once daily N=343 | Lopinavir/ ritonavir 800/200 m g per day N=346 | Treatment difference (95% CI of difference) |
+| HIV-1 RNA < 50 copies/mlc All patients With baseline HIV-RNA < 100,000 With baseline HIV-RNA ≥100,000 With baseline CD4+ cell count < 200 With baseline CD4+ cell count ≥200 | 83.7% (287) 85.8% (194/226) 79.5% (93/117) 79.4% (112/141) 86.6% (175/202) | 78.3% (271) 84.5% (191/226) 66.7% (80/120) 70.3% (104/148) 84.3% (167/198) | 5.3% (-0.5; 11.2)d 1.3% (-5.2; 7.9)d 12.8% (1.6; 24.1)d 9.2% (-0.8; 19.2)d 2.3% (-4.6; 9.2)d | 79.0% (271) 80.5% (182/226) 76.1% (89/117) 78.7% (111/141) 79.2% (160/202) | 70.8% (245) 75.2% (170/226) 62.5% (75/120) 64.9% (96/148) 75.3% (149/198) | 8.2% (1.7; 14.7)d 5.3% (-2.3; 13.0)d 13.6% (1.9; 25.3)d 13.9% (3.5; 24.2)d 4.0% (-4.3; 12.2)d |
+
+median 137 141 171 188
+CD4+ cell count
+change from
+baseline (x 106/l)e
+
+Efficacy of PREZISTA 800 mg once daily co-administered with 100 mg ritonavir once daily in ART-experienced patients
+
+For additional clinical study results in ART-experienced adults and paediatric patients, refer to the Summary of Product Characteristics for PREZISTA 75 mg, 150 mg, 300 mg or 600 mg tablets and 100 mg/ml oral suspension.

@@ -25,11 +25,17 @@ Paediatric population
 PREZISTA is not recommended for use in paediatric patients below 3 years of age or less than 15 kg body weight (see sections 4.2 and 5.3).
 
 Pregnancy
-Prezista should be used during pregnancy only if the potential benefit justifies the potential risk.
+PREZISTA/ritonavir should be used during pregnancy only if the potential benefit justifies the potential risk.
 Caution should be used in pregnant women with concomitant medications which may further decrease darunavir exposure (see sections 4.5 and 5.2).
 
+Treatment with darunavir/cobicistat 800/150 mg once daily during the second and third trimester has been shown to result in low darunavir exposure, with a reduction of around 90% in Cmin levels (see section 5.2).
+Cobicistat levels decrease and may not provide sufficient boosting.
+The substantial reduction in darunavir exposure may result in virological failure and an increased risk of mother to child transmission of HIV infection.
+Therefore, therapy with PREZISTA/cobicistat should not be initiated during pregnancy, and women who become pregnant during therapy with PREZISTA/cobicistat should be switched to an alternative regimen (see sections 4.2 and 4.6).
+PREZISTA given with low dose ritonavir may be considered as an alternative.
 Elderly
 As limited information is available on the use of PREZISTA in patients aged 65 and over, caution should be exercised in the administration of PREZISTA in elderly patients, reflecting the greater frequency of decreased hepatic function and of concomitant disease or other therapy (see sections 4.2 and 5.2).
+
 Severe skin reactions
 During the darunavir/ritonavir clinical development program (N=3,063), severe skin reactions, which may be accompanied with fever and/or elevations of transaminases, have been reported in 0.4% of patients.
 DRESS (Drug Rash with Eosinophilia and Systemic Symptoms) and Stevens-Johnson Syndrome has been rarely (< 0.1%) reported, and during post-marketing experience toxic epidermal necrolysis and acute generalised exanthematous pustulosis have been reported.
@@ -66,7 +72,8 @@ Cobicistat has not been studied in patients receiving dialysis, therefore, no re
 
 Cobicistat decreases the estimated creatinine clearance due to inhibition of tubular secretion of creatinine.
 This should be taken into consideration if darunavir with cobicistat is administered to patients in whom the estimated creatinine clearance is used to adjust doses of co-administered medicinal products (see section 4.2 and cobicistat SmPC).
-There are currently inadequate data to determine whether co-administration of tenofovir disoproxil fumarate and cobicistat is associated with a greater risk of renal adverse reactions compared with regimens that include tenofovir disoproxil fumarate without cobicistat.
+
+There are currently inadequate data to determine whether co-administration of tenofovir disoproxil and cobicistat is associated with a greater risk of renal adverse reactions compared with regimens that include tenofovir disoproxil without cobicistat.
 
 Haemophiliac patients
 There have been reports of increased bleeding, including spontaneous skin haematomas and haemarthrosis in patients with haemophilia type A and B treated with PIs.
@@ -96,6 +103,10 @@ In addition, reactivation of herpes simplex and herpes zoster has been observed 
 Autoimmune disorders (such as Graves' disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.8).
 
 Interactions with medicinal products
+Several of the interaction studies have been performed with darunavir at lower than recommended doses.
+The effects on co-administered medicinal products may thus be underestimated and clinical monitoring of safety may be indicated.
+For full information on interactions with other medicinal products see section 4.5.
+
 Pharmacokinetic enhancer and concomitant medications
 Darunavir has different interaction profiles depending on whether the compound is boosted with ritonavir or cobicistat:
 
@@ -105,9 +116,9 @@ Darunavir has different interaction profiles depending on whether the compound i
   If switching the pharmacoenhancer from ritonavir to cobicistat, caution is required during the first two weeks of treatment with darunavir/cobicistat, particularly if doses of any concomitantly administered medicinal products have been titrated or adjusted during use of ritonavir as a pharmacoenhancer.
   A dose reduction of the co-administered drug may be needed in these cases.
 
-Efavirenz in combination with PREZISTA/ritonavir 800/100 mg once daily may result in sub-optimal darunavir Cmin.
-If efavirenz is to be used in combination with PREZISTA/ritonavir, the PREZISTA/ritonavir 600/100 mg twice daily regimen should be used.
-See the Summary of Product Characteristics for PREZISTA 75 mg, 150 mg, 300 mg or 600 mg tablets (see section 4.5).
+Efavirenz in combination with boosted PREZISTA may result in sub-optimal darunavir Cmin.
+If efavirenz is to be used in combination with PREZISTA, the PREZISTA/ritonavir 600/100 mg twice daily regimen should be used.
+See the Summary of Product Characteristics for PREZISTA 75 mg, 150 mg, 300 mg and 600 mg tablets (see section 4.5).
 
 Life-threatening and fatal drug interactions have been reported in patients treated with colchicine and strong inhibitors of CYP3A and P-glycoprotein (P-gp; see sections 4.3 and 4.5).
 
@@ -115,48 +126,25 @@ PREZISTA oral suspension contains sodium methyl parahydroxybenzoate (E219) which
 
 [PREZISTA 75 mg film-coated tablets]
 
-PREZISTA should only be used in combination with low dose ritonavir as a pharmacokinetic enhancer (see section 5.2).
+PREZISTA must always be given orally with low dose ritonavir as a pharmacokinetic enhancer and in combination with other antiretroviral medicinal products (see section 5.2).
+The Summary of Product Characteristics of ritonavir as appropriate, must therefore be consulted prior to initiation of therapy with PREZISTA.
 
-Increasing the dose of ritonavir from that recommended in section 4.2 did not significantly affect darunavir concentrations and is not recommended.
-
-During the clinical development program (N=3,063), severe skin reactions, which may be accompanied with fever and/or elevations of transaminases, have been reported in 0.4% of patients.
-PREZISTA/ritonavir should be discontinued immediately if signs or symptoms of severe skin reactions develop.
-
-Rash occurred more commonly in treatment-experienced patients receiving regimens containing PREZISTA + raltegravir compared to patients receiving PREZISTA without raltegravir or raltegravir without PREZISTA (see section 4.8).
-
-During the clinical development program (N=3,063), hepatitis was reported in 0.5% of patients receiving combination antiretroviral therapy with PREZISTA/ritonavir.
+Increasing the dose of ritonavir from that recommended in section 4.2 did not significantly affect darunavir concentrations It is not recommended to alter the dose of ritonavir.
 
 Appropriate laboratory testing should be conducted prior to initiating therapy with PREZISTA/ritonavir and patients should be monitored during treatment.
 Increased AST/ALT monitoring should be considered in patients with underlying chronic hepatitis, cirrhosis, or in patients who have pre-treatment elevations of transaminases, especially during the first several months of PREZISTA/ritonavir treatment.
 
 If there is evidence of new or worsening liver dysfunction (including clinically significant elevation of liver enzymes and/or symptoms such as fatigue, anorexia, nausea, jaundice, dark urine, liver tenderness, hepatomegaly) in patients using PREZISTA/ritonavir, interruption or discontinuation of treatment should be considered promptly.
 
-No special precautions or dose adjustments are required in patients with renal impairment.
+Efavirenz in combination with boosted PREZISTA once daily may result in sub-optimal darunavir Cmin.
+If efavirenz is to be used in combination with PREZISTA, the PREZISTA/ritonavir 600/100 mg twice daily regimen should be used (see section 4.5).
 
-Several of the interaction studies have been performed with darunavir at lower than recommended doses.
-The effects on co-administered medicinal products may thus be underestimated and clinical monitoring of safety may be indicated.
-For full information on interactions with other medicinal products see section 4.5.
-
-See the Summary of Product Characteristics for PREZISTA 150 mg, 300 mg or 600 mg tablets (see section 4.5).
-
-[PREZISTA 150 mg film-coated tablets]
-
-See the Summary of Product Characteristics for PREZISTA 75 mg, 300 mg or 600 mg tablets (see section 4.5).
-
-[PREZISTA 300 mg film-coated tablets]
-
-See the Summary of Product Characteristics for PREZISTA 75 mg, 150 mg or 600 mg tablets (see section 4.5).
-
-PREZISTA tablets contain sunset yellow FCF (E110) which may cause an allergic reaction.
+PREZISTA 300 mg tablets and 600 mg tablets contain sunset yellow FCF (E110) which may cause an allergic reaction.
 
 [PREZISTA 400 mg film-coated tablets]
 
-(all sentences already above)
+PREZISTA 400 mg or 800 mg must always be given orally with cobicistat or low dose ritonavir as a pharmacokinetic enhancer and in combination with other antiretroviral medicinal products (see section 5.2).
 
-[PREZISTA 600 mg film-coated tablets]
+Efavirenz in combination with PREZISTA may result in sub-optimal darunavir Cmin.
 
-See the Summary of Product Characteristics for PREZISTA 75 mg, 150 mg or 300 mg tablets (see section 4.5).
-
-[PREZISTA 800 mg film-coated tablets]
-
-(all sentences already above)
+PREZISTA 400 mg tablets contain sunset yellow FCF (E110) which may cause an allergic reaction.

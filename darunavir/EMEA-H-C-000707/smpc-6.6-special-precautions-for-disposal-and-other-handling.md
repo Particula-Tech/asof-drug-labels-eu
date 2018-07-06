@@ -9,22 +9,6 @@ The supplied oral dosing pipette should not be used for any other medicinal prod
 
 No special requirements.
 
-[PREZISTA 150 mg film-coated tablets]
-
-(all sentences already above)
-
-[PREZISTA 300 mg film-coated tablets]
-
-(all sentences already above)
-
 [PREZISTA 400 mg film-coated tablets]
-
-(all sentences already above)
-
-[PREZISTA 600 mg film-coated tablets]
-
-(all sentences already above)
-
-[PREZISTA 800 mg film-coated tablets]
 
 (all sentences already above)

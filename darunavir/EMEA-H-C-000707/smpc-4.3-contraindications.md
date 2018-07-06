@@ -2,9 +2,9 @@
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 
-Use in patients with severe (Child-Pugh Class C) hepatic impairment.
+Patients with severe (Child-Pugh Class C) hepatic impairment.
 
-Concomitant treatment with any of the following medicinal products is contraindicated given the expected decrease in plasma concentrations of darunavir, ritonavir and cobicistat and the potential for loss of therapeutic effect (see sections 4.4 and 4.5).
+Concomitant treatment with any of the following medicinal products given the expected decrease in plasma concentrations of darunavir, ritonavir and cobicistat and the potential for loss of therapeutic effect (see sections 4.4 and 4.5).
 
 Applicable to darunavir boosted with either ritonavir or cobicistat:
 
@@ -22,22 +22,21 @@ Darunavir boosted with either ritonavir or cobicistat inhibits the elimination o
 Therefore, concomitant treatment with such medicinal products for which elevated plasma concentrations are associated with serious and/or life-threatening events is contraindicated (applies to darunavir boosted with either ritonavir or cobicistat).
 These active substances include e.g.:
 
-- alfuzosin (alpha 1-adrenoreceptor antagonist)
-- amiodarone, bepridil, dronedarone, quinidine, ranolazine, systemic lidocaine (antiarrhythmics/antianginals)
-- astemizole, terfenadine (antihistamines)
-- colchicine when used in patients with renal and/or hepatic impairment (antigout) (see section 4.5)
+- alfuzosin
+- amiodarone, bepridil, dronedarone, quinidine, ranolazine
+- astemizole, terfenadine
+- colchicine when used in patients with renal and/or hepatic impairment (see section 4.5)
 - ergot derivatives (e.g. dihydroergotamine, ergometrine, ergotamine, methylergonovine)
-- elbasvir/grazoprevir (hepatitis C virus direct-acting antiviral)
-- cisapride (gastrointestinal motility agents)
-- lurasidone, pimozide, quetiapine, sertindole (antipsychotics/neuroleptics) (see section 4.5)
-- triazolam, midazolam administered orally (sedatives/hypnotics) (for caution on parenterally administered midazolam, see section 4.5)
-- sildenafil - when used for the treatment of pulmonary arterial hypertension, avanafil (PDE-5 inhibitors)
-- simvastatin and lovastatin (HMG-CoA reductase inhibitors) (see section 4.5)
-- ticagrelor (antiplatelets) (see section 4.5).
+- elbasvir/grazoprevir
+- cisapride
+- lurasidone, pimozide, quetiapine, sertindole (see section 4.5)
+- triazolam, midazolam administered orally (for caution on parenterally administered midazolam, see section 4.5)
+- sildenafil - when used for the treatment of pulmonary arterial hypertension, avanafil
+- simvastatin, lovastatin, lomitapide (see section 4.5)
+- ticagrelor (see section 4.5).
 
 [PREZISTA 75 mg film-coated tablets]
 
-Patients with severe (Child-Pugh Class C) hepatic impairment.
 Combination of rifampicin with PREZISTA with concomitant low dose ritonavir (see section 4.5).
 
 Co-administration with the combination product lopinavir/ritonavir (see section 4.5).
@@ -46,24 +45,8 @@ Co-administration with herbal preparations containing St John’s wort (Hypericu
 
 Co-administration of PREZISTA with low dose ritonavir, with active substances that are highly dependent on CYP3A for clearance and for which elevated plasma concentrations are associated with serious and/or life-threatening events.
 
-- cisapride (gastrointestinal motility agent)
-
-[PREZISTA 150 mg film-coated tablets]
-
-(all sentences already above)
-
-[PREZISTA 300 mg film-coated tablets]
-
-(all sentences already above)
+- simvastatin, lovastatin and lomitapide (see section 4.5)
 
 [PREZISTA 400 mg film-coated tablets]
-
-(all sentences already above)
-
-[PREZISTA 600 mg film-coated tablets]
-
-(all sentences already above)
-
-[PREZISTA 800 mg film-coated tablets]
 
 (all sentences already above)

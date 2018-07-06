@@ -83,25 +83,39 @@ However, for unbound (i.e. active) darunavir, the pharmacokinetic parameters wer
 
 | Pharmacokinetic results of total darunavir after administration of darunavir/ritonavir at 600/100 mg twice daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy and postpartum |  |  |  |
 | --- | --- | --- | --- |
-| Pharmacokinetics of total darunavir (mean ± SD) | Second trimester of pregnancy (n=11)a | Third trimester of pregnancy (n=11) | Postpartum (6-12 weeks) (n=11) |
-| Cmax, ng/ml | 4,601 ± 1,125 | 5,111 ± 1,517 | 6,499 ± 2,411 |
-| AUC12h, ng.h/ml | 38,950 ± 10,010 | 43,700 ± 16,400 | 55,300 ± 27,020 |
-| Cmin, ng/mlb | 1,980 ± 839.9 | 2,498 ± 1,193 | 2,711 ± 2,268 |
+| Pharmacokinetics of total darunavir (mean ± SD) | Second trimester of pregnancy (n=12)a | Third trimester of pregnancy (n=12) | Postpartum (6-12 weeks) (n=12) |
+| Cmax, ng/ml | 4,668 ± 1,097 | 5,328 ± 1,631 | 6,659 ± 2,364 |
+| AUC12h, ng.h/ml | 39,370 ± 9,597 | 45,880 ± 17,360 | 56,890 ± 26,340 |
+| Cmin, ng/ml | 1,922 ± 825 | 2,661 ± 1,269 | 2,851 ± 2,216 |
 
-a n=10 for AUC12h b excluding Cmin value below LLOQ, n=10 for postpartum
+a n=11 for AUC12h
 
 | Pharmacokinetic results of total darunavir after administration of darunavir/ritonavir at 800/100 mg once daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy and postpartum |  |  |  |
 | --- | --- | --- | --- |
-| Pharmacokinetics of total darunavir (mean ± SD) | Second trimester of pregnancy (n=16) | Third Trimester of pregnancy (n=14) | Postpartum (6-12 weeks) (n=15) |
-| Cmax, ng/ml | 4,988 ± 1,551 | 5,138 ± 1,243 | 7,445 ± 1,674 |
-| AUC24h, ng.h/ml | 61,303 ± 16,232 | 60,439 ± 14,052 | 94,529 ± 28,572 |
-| Cmin, ng/mla | 1,193 ± 509 | 1,098 ± 609 | 1,572 ± 1,108 |
+| Pharmacokinetics of total darunavir (mean ± SD) | Second trimester of pregnancy (n=17) | Third Trimester of pregnancy (n=15) | Postpartum (6-12 weeks) (n=16) |
+| Cmax, ng/ml | 4,964 ± 1,505 | 5,132 ± 1,198 | 7,310 ± 1,704 |
+| AUC24h, ng.h/ml | 62,289 ± 16,234 | 61,112 ± 13,790 | 92,116 ± 29,241 |
+| Cmin, ng/ml | 1,248 ± 542 | 1,075 ± 594 | 1,473 ± 1,141 |
 
-a n=12 for postpartum, n=15 for second trimester and n=14 for third trimester
+In women receiving darunavir/ritonavir 600/100 mg twice daily during the second trimester of pregnancy, mean intra-individual values for total darunavir Cmax, AUC12h and Cmin were 28%, 26% and 26% lower, respectively, as compared with postpartum; during the third trimester of pregnancy, total darunavir Cmax, AUC12h and Cmin values were 18%, 16% lower and 2% higher, respectively, as compared with postpartum.
 
-In women receiving darunavir/ritonavir 600/100 mg twice daily during the second trimester of pregnancy, mean intra-individual values for total darunavir Cmax, AUC12h and Cmin were 28%, 24% and 17% lower, respectively, as compared with postpartum; during the third trimester of pregnancy, total darunavir Cmax, AUC12h and Cmin values were 19%, 17% lower and 2% higher, respectively, as compared with postpartum.
+In women receiving darunavir/ritonavir 800/100 mg once daily during the second trimester of pregnancy, mean intra-individual values for total darunavir Cmax, AUC24h and Cmin were 33%, 31% and 30% lower, respectively, as compared with postpartum; during the third trimester of pregnancy, total darunavir Cmax, AUC24h and Cmin values were 29%, 32% and 50% lower, respectively, as compared with postpartum.
 
-In women receiving darunavir/ritonavir 800/100 mg once daily during the second trimester of pregnancy, mean intra-individual values for total darunavir Cmax, AUC24h and Cmin were 34%, 34% and 32% lower, respectively, as compared with postpartum; during the third trimester of pregnancy, total darunavir Cmax, AUC24h and Cmin values were 31%, 35% and 50% lower, respectively, as compared with postpartum.
+Treatment with darunavir/cobicistat 800/150 mg once daily during pregnancy results in low darunavir exposure.
+In women receiving darunavir/cobicistat during the second trimester of pregnancy, mean intra-individual values for total darunavir Cmax, AUC24h and Cmin were 49%, 56% and 92% lower, respectively, as compared with postpartum; during the third trimester of pregnancy, total darunavir Cmax, AUC24h and Cmin values were 37%, 50% and 89% lower, respectively, as compared with postpartum.
+The unbound fraction was also substantially reduced, including around 90% reductions of Cmin levels.
+The main cause of these low exposures is a marked reduction in cobicistat exposure as a consequence of pregnancy-associated enzyme induction (see below).
+
+| Pharmacokinetic results of total darunavir after administration of darunavir/cobicistat 800/150 mg once daily as part of an antiretroviral regimen, during the second trimester of pregnancy, the third trimester of pregnancy, and postpartum |  |  |  |
+| --- | --- | --- | --- |
+| Pharmacokinetics of total darunavir (mean ± SD) | Second trimester of pregnancy (n=7) | Third trimester of pregnancy (n=6) | Postpartum (6-12 weeks) (n=6) |
+| Cmax, ng/mL | 4,340 ± 1,616 | 4,910 ± 970 | 7,918 ± 2,199 |
+| AUC24h, ng.h/mL | 47,293 ± 19,058 | 47,991 ± 9,879 | 99,613 ± 34,862 |
+| Cmin, ng/mL | 168 ± 149 | 184 ± 99 | 1,538 ± 1,344 |
+
+The exposure to cobicistat was lower during pregnancy, potentially leading to suboptimal boosting of darunavir.
+During the second trimester of pregnancy, cobicistat Cmax, AUC24h, and Cmin were 50%, 63%, and 83% lower, respectively, as compared with postpartum.
+During the third trimester of pregnancy, cobicistat Cmax, AUC24h, and Cmin, were 27%, 49%, and 83% lower, respectively, as compared with postpartum.
 
 [PREZISTA 75 mg film-coated tablets]
 
@@ -112,22 +126,6 @@ Ritonavir inhibits CYP3A, thereby increasing the plasma concentrations of daruna
 When administered without food, the relative bioavailability of darunavir in the presence of low dose ritonavir is 30% lower as compared to intake with food.
 Therefore, PREZISTA tablets should be taken with ritonavir and with food.
 
-[PREZISTA 150 mg film-coated tablets]
-
-(all sentences already above)
-
-[PREZISTA 300 mg film-coated tablets]
-
-(all sentences already above)
-
 [PREZISTA 400 mg film-coated tablets]
-
-(all sentences already above)
-
-[PREZISTA 600 mg film-coated tablets]
-
-(all sentences already above)
-
-[PREZISTA 800 mg film-coated tablets]
 
 (all sentences already above)

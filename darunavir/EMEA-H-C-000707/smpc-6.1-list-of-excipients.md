@@ -13,6 +13,7 @@ Purified water
 
 [PREZISTA 75 mg film-coated tablets]
 
+PREZISTA 75 mg film-coated tablets
 Tablet core
 Colloidal anhydrous silica
 Crospovidone
@@ -24,24 +25,19 @@ Macrogol 3350
 Titanium dioxide (E171)
 Talc
 
-[PREZISTA 150 mg film-coated tablets]
+PREZISTA 150 mg film-coated tablets
 
-(all sentences already above)
-
-[PREZISTA 300 mg film-coated tablets]
+PREZISTA 300 mg film-coated tablets
 
 Sunset yellow FCF (E110)
 
+PREZISTA 600 mg film-coated tablets
+
 [PREZISTA 400 mg film-coated tablets]
 
-(all sentences already above)
+PREZISTA 400 mg film-coated tablets
 
-[PREZISTA 600 mg film-coated tablets]
-
-(all sentences already above)
-
-[PREZISTA 800 mg film-coated tablets]
-
+PREZISTA 800 mg film-coated tablets
 Hypromellose
 
 Iron oxide red (E172)
