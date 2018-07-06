@@ -23,7 +23,6 @@ For patients of East Asian ancestry (such as Chinese, Japanese, Taiwanese, Korea
 
 Paediatric population aged 1 to 5 years
 The recommended starting dose of eltrombopag is 25 mg once daily.
-
 Monitoring and dose adjustment
 
 After initiating eltrombopag, the dose must be adjusted to achieve and maintain a platelet count
@@ -33,6 +32,7 @@ A daily dose of 75 mg must not be exceeded.
 Clinical haematology and liver tests should be monitored regularly throughout therapy with eltrombopag and the dose regimen of eltrombopag modified based on platelet counts as outlined in Table 1.
 During therapy with eltrombopag full blood counts (FBCs), including platelet count and peripheral blood smears, should be assessed weekly until a stable platelet count (≥ 50,000/µl for at least 4 weeks) has been achieved.
 FBCs including platelet counts and peripheral blood smears should be obtained monthly thereafter.
+
 Table 1 Dose adjustments of eltrombopag in ITP patients
 
 | Platelet count | Dose adjustment or response |
@@ -59,10 +59,10 @@ Treatment with eltrombopag should be discontinued if the platelet count does not
 Patients should be clinically evaluated periodically and continuation of treatment should be decided on an individual basis by the treating physician.
 In non-splenectomised patients this should include evaluation relative to splenectomy.
 The reoccurrence of thrombocytopenia is possible upon discontinuation of treatment (see section 4.4).
-
 Chronic hepatitis C (HCV) associated thrombocytopenia
 
 When eltrombopag is given in combination with antivirals reference should be made to the full summary of product characteristics of the respective coadministered medicinal products for comprehensive details of relevant safety information or contraindications.
+
 In clinical studies, platelet counts generally began to increase within 1 week of starting eltrombopag.
 The aim of treatment with eltrombopag should be to achieve the minimum level of platelet counts needed to initiate antiviral therapy, in adherence to clinical practice recommendations.
 During antiviral therapy, the aim of treatment should be to keep platelet counts at a level that prevents the risk of bleeding complications, normally around 50,000-75,000/µl.
@@ -88,7 +88,6 @@ Dose reductions on the daily dose by 25 mg should be considered if platelet coun
 It is recommended to wait for 2 weeks to assess the effects of this and any subsequent dose adjustments.
 
 A dose of 100 mg eltrombopag once daily must not be exceeded.
-
 Table 2 Dose adjustments of eltrombopag in HCV patients during antiviral therapy
 
 | Platelet count | Dose adjustment or response |
@@ -100,6 +99,7 @@ Table 2 Dose adjustments of eltrombopag in HCV patients during antiviral therapy
 
 * - For patients taking 25 mg eltrombopag once daily, consideration should be given to reinitiating dosing at 25 mg every other day.
 ♦ - On initiation of antiviral therapy the platelet count may fall, so immediate eltrombopag dose reductions should be avoided.
+
 Discontinuation
 
 If after 2 weeks of eltrombopag therapy at 100 mg the required platelet level to initiate antiviral therapy is not achieved, eltrombopag should be discontinued.
@@ -114,7 +114,6 @@ Initial dose regimen
 Eltrombopag should be initiated at a dose of 50 mg once daily.
 For patients of East Asian ancestry, eltrombopag should be initiated at a reduced dose of 25 mg once daily (see section 5.2).
 The treatment should not be initiated when the patients have existing cytogenetic abnormalities of chromosome 7.
-
 Monitoring and dose adjustment
 
 Haematological response requires dose titration, generally up to 150 mg, and may take up to 16 weeks after starting eltrombopag (see section 5.1).
@@ -139,6 +138,7 @@ For patients who achieve tri-lineage response, including transfusion independenc
 If counts remain stable after 8 weeks at the reduced dose, then eltrombopag must be discontinued and blood counts monitored.
 If platelet counts drop to < 30,000/µl, haemoglobin to < 9 g/dL or ANC
 < 0.5 x 109/L, eltrombopag may be reinitiated at the previous effective dose.
+
 Discontinuation
 
 If no haematological response has occurred after 16 weeks of therapy with eltrombopag, therapy should be discontinued.
@@ -151,7 +151,6 @@ Renal impairment
 
 No dose adjustment is necessary in patients with renal impairment.
 Patients with impaired renal function should use eltrombopag with caution and close monitoring, for example by testing serum creatinine and/or performing urine analysis (see section 5.2).
-
 Hepatic impairment
 
 Eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥ 5) unless the expected benefit outweighs the identified risk of portal venous thrombosis (see section 4.4).
@@ -179,6 +178,7 @@ East Asian patients
 For patients of East Asian ancestry (such as Chinese, Japanese, Taiwanese, Korean or Thai), including those with hepatic impairment, eltrombopag should be initiated at a dose of 25 mg once daily (see section 5.2).
 
 Patient platelet count should continue to be monitored and the standard criteria for further dose modification followed.
+
 Paediatric population
 
 Revolade is not recommended for use in children under the age of one year with chronic ITP due to insufficient data on safety and efficacy.

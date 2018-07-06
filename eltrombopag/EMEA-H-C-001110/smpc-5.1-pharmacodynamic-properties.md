@@ -22,9 +22,9 @@ The dose of eltrombopag was adjusted during the 6-month treatment period based o
 All patients initiated treatment with eltrombopag 50 mg.
 From Day 29 to the end of treatment, 15 to 28% of eltrombopag treated patients were maintained on
 ≤ 25 mg and 29 to 53% received 75 mg.
-
 In addition, patients could taper off concomitant ITP medicinal products and receive rescue treatments as dictated by local standard of care.
 More than half of all patients in each treatment group had ≥ 3 prior ITP therapies and 36% had a prior splenectomy.
+
 Median platelet counts at baseline were 16,000/μl for both treatment groups and in the eltrombopag group were maintained above 50,000/µl at all on-therapy visits starting at Day 15; in contrast, median platelet counts in the placebo group remained < 30,000/µl throughout the study.
 
 Platelet count response between 50,000-400,000/μl in the absence of rescue treatment was achieved by significantly more patients in the eltrombopag treated group during the 6 month treatment period, p < 0.001.
@@ -88,7 +88,6 @@ Median platelet counts at 1, 2, 3, 4, 5, 6 and 7 years on study were 85,000/μl,
 
 Clinical studies comparing eltrombopag to other treatment options (e.g. splenectomy) have not been conducted.
 The long-term safety of eltrombopag should be considered prior to starting therapy.
-
 Paediatric population (aged 1 to 17 years)
 
 The safety and efficacy of eltrombopag in paediatric subjects has been investigated in two studies.
@@ -97,6 +96,7 @@ TRA115450 (PETIT2): The primary endpoint was a sustained response, defined as th
 Subjects were diagnosed with chronic ITP for at least 1 year and were refractory or relapsed to at least one prior ITP therapy or unable to continue other ITP treatments for a medical reason and had platelet count < 30,000/µl.
 Ninety-two subjects were randomised by three age cohort strata (2:1) to eltrombopag (n=63) or placebo (n=29).
 The dose of eltrombopag could be adjusted based on individual platelet counts.
+
 Overall, a significantly greater proportion of eltrombopag subjects (40%) compared with placebo subjects (3%) achieved the primary endpoint (Odds Ratio: 18.0 [95% CI: 2.3, 140.9] p < 0.001) which was similar across the three age cohorts (Table 6).
 
 Table 6: Sustained platelet response rates by age cohort in paediatric subjects with chronic ITP
@@ -123,7 +123,6 @@ Overall, a significantly greater proportion of eltrombopag subjects (62%) compar
 
 Sustained response was seen in 50% of the initial responders during 20 out of 24 weeks in the
 PETIT 2 study and 15 out of 24 weeks in the PETIT study.
-
 Chronic hepatitis C associated thrombocytopenia studies
 
 The efficacy and safety of eltrombopag for the treatment of thrombocytopenia in patients with HCV infection were evaluated in two randomised, double-blind, placebo-controlled studies.
@@ -132,6 +131,7 @@ Patients did not receive direct acting antiviral agents.
 In both studies, patients with a platelet count of < 75,000/µl were enrolled and stratified by platelet count
 (< 50,000/µl and ≥ 50,000/µl to < 75,000/µl), screening HCV RNA (< 800,000 IU/ml and
 ≥ 800,000 IU/ml), and HCV genotype (genotype 2/3, and genotype 1/4/6).
+
 Baseline disease characteristics were similar in both studies and were consistent with compensated cirrhotic HCV patient population.
 The majority of patients were HCV genotype 1 (64%) and had bridging fibrosis/cirrhosis.
 Thirty-one percent of patients had been treated with prior HCV therapies, primarily pegylated interferon plus ribavirin.
@@ -142,9 +142,9 @@ In the pre-antiviral treatment phase, subjects received open-label eltrombopag t
 The median time to achieve the target platelet count ≥ 90,000/µl (ENABLE 1) or ≥ 100,000/µl (ENABLE 2) was 2 weeks.
 
 The primary efficacy endpoint for both studies was sustained virologic response (SVR), defined as the percentage of patients with no detectable HCV-RNA at 24 weeks after completion of the planned treatment period.
-
 In both HCV studies, a significantly greater proportion of patients treated with eltrombopag (n=201, 21%) achieved SVR compared to those treated with placebo (n=65, 13%) (see Table 7).
 The improvement in the proportion of patients who achieved SVR was consistent across all subgroups in the randomisation strata (baseline platelet counts (< 50,000 vs. > 50,000), viral load (< 800,000 IU/ml vs. ≥ 800,000 IU/ml) and genotype (2/3 vs. 1/4/6)).
+
 Table 7: Virologic response in HCV patients in ENABLE 1 and ENABLE 2
 
 |  | Pooled Data |  | ENABLE 1a |  | ENABLE 2b |  |
@@ -171,7 +171,6 @@ d p-value < 0.05 for eltrombopag versus placebo e 64% subjects participating in 
 Other secondary findings of the studies included the following; significantly fewer patients treated with eltrombopag prematurely discontinued antiviral therapy compared to placebo (45% vs. 60%, p=< 0.0001).
 A greater proportion of patients on eltrombopag did not require any antiviral dose reduction as compared to placebo (45% versus 27%).
 Eltrombopag treatment delayed and reduced the number of peginterferon dose reductions.
-
 Severe aplastic anaemia
 
 Eltrombopag was studied in a single-arm, single-centre open-label trial in 43 patients with severe aplastic anaemia with refractory thrombocytopenia following at least one prior immunosuppressive therapy (IST) and who had a platelet count ≤ 30,000/µl.
@@ -180,6 +179,7 @@ The majority of subjects, 33 (77%), were considered to have ‘primary refractor
 The remaining 10 subjects had insufficient platelet response to prior therapies.
 All 10 had received at least 2 prior IST regimens and 50% had received at least 3 prior IST regimens.
 Patients with diagnosis of Fanconi anaemia, infection not responding to appropriate therapy, PNH clone size in neutrophils of ≥50%, where excluded from participation.
+
 At baseline the median platelet count was 20,000/µl, haemoglobin was 8.4 g/dL, ANC was 0.58 x 109/L and absolute reticulocyte count was 24.3 x109/L.
 Eighty-six percent of patients were RBC transfusion dependent, and 91% were platelet transfusion dependent.
 The majority of patients (84%) had received at least 2 prior immunosuppressive therapies.

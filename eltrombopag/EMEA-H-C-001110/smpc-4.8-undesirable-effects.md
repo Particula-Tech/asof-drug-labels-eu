@@ -78,7 +78,6 @@ Common Dry eye
 Uncommon Vision blurred, Lenticular opacities, Astigmatism, Cataract cortical, Eye
 
 pain, Lacrimation increased, Retinal haemorrhage, Retinal pigment epitheliopathy, Visual acuity reduced, Visual impairment, Visual acuity tests abnormal, Blepharitis and Keratoconjunctivitis sicca
-
 Ear and labyrinth disorders
 
 Uncommon Ear pain, Vertigo
@@ -139,6 +138,7 @@ Renal and urinary disorders
 Uncommon Renal failure, Leukocyturia, Lupus nephritis, Nocturia, Proteinuria, Blood
 
 urea increased, Blood creatinine increased, Urine protein/creatinine ratio increased
+
 Reproductive system and breast disorders
 
 Common Menorrhagia
@@ -195,6 +195,7 @@ Very common Headache
 Common Dizziness, Disturbance in attention, Dysgeusia, Hepatic encephalopathy,
 
 Lethargy, Memory impairment, Paraesthesia
+
 Eye disorders
 
 Common Cataract, Retinal exudates, Dry Eye, Ocular icterus, Retinal haemorrhage
@@ -251,6 +252,7 @@ Very common Pyrexia, Fatigue, Influenza like illness, Asthenia, Chills, Oedema p
 Common Irritability, Pain, Malaise, Injection site reaction, Non-cardiac chest pain,
 
 Oedema, Injection site rash, Chest discomfort, Injection site pruritus
+
 Investigations
 
 Common Blood bilirubin increased, Weight decreased, White blood cell count

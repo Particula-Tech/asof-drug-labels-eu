@@ -17,6 +17,7 @@ Breast-feeding
 It is not known whether eltrombopag/metabolites are excreted in human milk.
 Studies in animals have shown that eltrombopag is likely secreted into milk (see section 5.3); therefore a risk to the suckling child cannot be excluded.
 A decision must be made whether to discontinue breast-feeding or to continue/abstain from Revolade therapy, taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
+
 Fertility
 
 Fertility was not affected in male or female rats at exposures that were comparable to those in humans.
