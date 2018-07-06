@@ -1,6 +1,7 @@
 # 5.2 Pharmacokinetic properties
 
 The pharmacokinetics of pembrolizumab was studied in 2,993 patients with metastatic or unresectable melanoma, NSCLC, or carcinoma who received doses in the range of 1 to 10 mg/kg every 2 or 3 weeks.
+
 Absorption
 Pembrolizumab is dosed via the intravenous route and therefore is immediately and completely bioavailable.
 
@@ -23,7 +24,6 @@ The median area under the concentration time curve at steady state over 3 weeks 
 Following administration of pembrolizumab 200 mg every 3 weeks in patients with cHL, the observed median Cmin at steady-state was up to 40% higher than that in other tumour types treated with the same dosage; however, the range of trough concentrations is similar.
 There are no notable differences in median Cmax between cHL and other tumour types.
 Based on available safety data in cHL and other tumour types, these differences are not clinically meaningful.
-
 Special populations
 The effects of various covariates on the pharmacokinetics of pembrolizumab were assessed in population pharmacokinetic analyses.
 The following factors had no clinically important effect on the clearance of pembrolizumab: age (range 15-94 years), gender, race, mild or moderate renal impairment, mild hepatic impairment and tumour burden.

@@ -674,7 +674,7 @@ Pembrolizumab: 270 226 194 169 147 131 87 54 27 13 4 0 0
 
 Chemotherapy: 272 232 171 138 109 89 55 27 14 3 0 0 0
 
-An analysis was performed in KEYNOTE-045 in patients who had PD-L1 Combined Positive Score (CPS) < 10 [pembrolizumab: n=186 (69%) vs. chemotherapy: n= 176 (65%)] or ≥10 [pembrolizumab: n=74 (27%) vs. chemotherapy: n= 90 (33%)] in both pembrolizumab- and chemotherapy-treated arms (see Table 14).
+An analysis was performed in KEYNOTE-045 in patients who had PD-L1 CPS < 10 [pembrolizumab: n=186 (69%) vs. chemotherapy: n= 176 (65%)] or ≥10 [pembrolizumab: n=74 (27%) vs. chemotherapy: n= 90 (33%)] in both pembrolizumab- and chemotherapy-treated arms (see Table 14).
 
 Table 14: OS by PD-L1 Expression
 
@@ -701,34 +701,37 @@ Assessment of tumour status was performed at 9 weeks after the first dose, then 
 Among 370 patients with urothelial carcinoma who were not eligible for cisplatin-containing chemotherapy baseline characteristics were: median age 74 years (82% age 65 or older); 77% male; and 89% White and 7% Asian.
 Eighty-seven percent had M1 disease and 13% had M0 disease.
 Eighty-five percent of patients had visceral metastases, including 21% with liver metastases.
-Reasons for cisplatin ineligibility included: baseline creatinine clearance of <60 mL/min (50%), ECOG performance status of 2 (32%), ECOG performance status of 2 and baseline creatinine clearance of <60 mL/min (9%), and other (Class III heart failure, Grade 2 or greater peripheral neuropathy, and Grade 2 or greater hearing loss; 9%).
+Reasons for cisplatin ineligibility included: baseline creatinine clearance of < 60 mL/min (50%), ECOG performance status of 2 (32%), ECOG performance status of 2 and baseline creatinine clearance of
+< 60 mL/min (9%), and other (Class III heart failure, Grade 2 or greater peripheral neuropathy, and Grade 2 or greater hearing loss; 9%).
 Ninety percent of patients were treatment naïve, and 10% received prior adjuvant or neoadjuvant platinum-based chemotherapy.
 Eighty-one percent had a primary tumour in the lower tract, and 19% of patients had a primary tumour in the upper tract.
 
 The primary efficacy outcome measure was ORR as assessed by BICR using RECIST 1.1.
 Secondary efficacy outcome measures were duration of response, PFS, and OS.
-Table 15 summarises the key efficacy measures for the study population based on a median follow-up time of 9.5 months for all patients.
+Table 15 summarises the key efficacy measures for the study population based on a median follow-up time of 11.5 months for all patients.
 Table 15: Response to pembrolizumab 200 mg every 3 weeks in patients with urothelial carcinoma ineligible for cisplatin-containing chemotherapy in KEYNOTE-052
 
 | Endpoint | n=370 |
 | --- | --- |
 | Objective Response Rate* |  |
-| ORR %, (95% CI) | 29% (25, 34) |
+| ORR %, (95% CI) | 29% (24, 34) |
 | Disease Control Rate† | 47% |
-| Complete Response | 7% |
-| Partial Response | 22% |
+| Complete Response | 8% |
+| Partial Response | 21% |
 | Stable Disease | 18% |
 | Response Duration |  |
-| Median in months (range) | Not reached (1.4+, 19.6+) |
+| Median in months (range) | Not reached (1.4+, 27.9+) |
 | % with duration ≥ 6-months | 82%‡ |
 | Time to Response |  |
 | Median in months (range) | 2.1 (1.3, 9.0) |
 | PFS* |  |
 | Median in months (95% CI) | 2.3 (2.1, 3.4) |
 | 6-month PFS rate | 34% |
-| OS* |  |
+| 12-month PFS rate | 22% |
+| OS |  |
 | Median in months (95% CI) | 11.0 (10.0, 13.6) |
 | 6-month OS rate | 67% |
+| 12-month OS rate | 48% |
 
 * Assessed by BICR using RECIST 1.1
 † Based on best response of stable disease or better
@@ -736,15 +739,24 @@ Table 15: Response to pembrolizumab 200 mg every 3 weeks in patients with urothe
 
 An analysis was performed in KEYNOTE-052 in patients who had PD-L1 CPS < 10 (n=251; 68%) or ≥10 (n=110; 30%) (see Table 16).
 
-Table 16: ORR by PD-L1 Expression
+Table 16: ORR and OS by PD-L1 Expression
 
-|  | ORR % by PD-L1 Expression* (95% CI) |
-| --- | --- |
-| PD-L1 Expression | Pembrolizumab |
-| CPS < 10 | 21 (16.2, 26.7) |
-| CPS ≥10 | 47 (37.7, 57.0) |
+| Endpoint | CPS < 10 N=251 | CPS ≥10 N=110 |
+| --- | --- | --- |
+| Objective Response Rate* |  |  |
+| ORR %, (95% CI) | 21% (16, 26) | 47% (38, 57) |
+| OS |  |  |
+| Median in months (95% CI) | 10 (8, 12) | 19 (12, Not reached) |
+| 12-month OS rate | 42% | 61% |
 
-* BICR-RECIST 1.1
+* BICR using RECIST 1.1
+
+KEYNOTE-361 is an ongoing Phase III, randomized, controlled, open-label clinical trial of pembrolizumab with or without platinum-based combination chemotherapy versus chemotherapy as first-line treatment in subjects with advanced or metastatic urothelial carcinoma.
+Preliminary data from an early review showed a reduced survival with pembrolizumab monotherapy in patients whose tumours express PD-L1 with a CPS < 10 compared with standard chemotherapy.
+Based on a recommendation by an external Data Monitoring Committee, the accrual in the pembrolizumab monotherapy arm was stopped for patients whose tumours express PD-L1 with a CPS < 10.
+The pembrolizumab monotherapy arm remains open only to patients whose tumours express PD-L1 with a CPS ≥10.
+Subjects whose tumours express PD-L1 CPS < 10 already enrolled into the pembrolizumab monotherapy arm can continue treatment.
+Randomization to the chemotherapy and the chemotherapy-pembrolizumab arms remains open.
 
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with pembrolizumab in one or more subsets of the paediatric population in treatment of all conditions included in the category of malignant neoplasms (except nervous system, haematopoietic and lymphoid tissue) (see section 4.2 for information on paediatric use).

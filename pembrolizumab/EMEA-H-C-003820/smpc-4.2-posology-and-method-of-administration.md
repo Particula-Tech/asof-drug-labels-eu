@@ -2,8 +2,8 @@
 
 Therapy must be initiated and supervised by specialist physicians experienced in the treatment of cancer.
 
-PD-L1 testing for patients with NSCLC
-Patients with NSCLC should be selected for treatment based on the tumour expression of PD-L1 confirmed by a validated test (see section 5.1).
+PD-L1 testing for patients with NSCLC or urothelial carcinoma
+Patients with NSCLC or previously untreated urothelial carcinoma should be selected for treatment based on the tumour expression of PD-L1 confirmed by a validated test (see section 5.1).
 
 Posology
 KEYTRUDA should be administered as an intravenous infusion over 30 minutes every 3 weeks.

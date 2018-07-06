@@ -104,10 +104,11 @@ Physicians should consider the delayed onset of pembrolizumab effect before init
 In urothelial cancer, a higher number of deaths within 2 months was observed in pembrolizumab compared to chemotherapy (see section 5.1).
 Factors associated with early deaths were fast progressive disease on prior platinum therapy and liver metastases.
 
-Use of pembrolizumab in urothelial cancer for patients who are considered cisplatin ineligible
-The baseline and prognostic disease characteristics of the study population of KEYNOTE-052 included a proportion of patients eligible for a carboplatin-based combination or mono-chemotherapy for whom the benefit has not yet been assessed in a comparative study.
-No safety and efficacy data are available in frailer patients (e.g., ECOG performance status 3) considered not eligible for chemotherapy.
+Use of pembrolizumab in urothelial cancer for patients who are considered ineligible for cisplatin-containing chemotherapy and whose tumours express PD-L1 with CPS ≥10
+The baseline and prognostic disease characteristics of the study population of KEYNOTE-052 included a proportion of patients eligible for a carboplatin-based combination, for whom the benefit is being assessed in a comparative study, and patients eligible for mono-chemotherapy, for whom no randomized data are available.
+In addition, no safety and efficacy data are available in frailer patients (e.g., ECOG performance status 3) considered not eligible for chemotherapy.
 In the absence of these data, pembrolizumab should be used with caution in this population after careful consideration of the potential risk-benefit on an individual basis.
+
 Patients excluded from clinical trials
 Patients with the following conditions were excluded from clinical trials: active CNS metastases; ECOG PS ≥2 (except for urothelial carcinoma); HIV, hepatitis B or hepatitis C infection; active systemic autoimmune disease; interstitial lung disease; prior pneumonitis requiring systemic corticosteroid therapy; a history of severe hypersensitivity to another monoclonal antibody; receiving immunosuppressive therapy and a history of severe immune-related adverse reactions from treatment with ipilimumab, defined as any Grade 4 toxicity or Grade 3 toxicity requiring corticosteroid treatment (> 10 mg/day prednisone or equivalent) for greater than 12 weeks.
 Patients with active infections were excluded from clinical trials and were required to have their infection treated prior to receiving pembrolizumab.
