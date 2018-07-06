@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Merck Sharp & Dohme Ltd
-Hertford Road, Hoddesdon
-Hertfordshire EN11 9BU
-United Kingdom
+Merck Sharp & Dohme B.V.
+Waarderweg 39
+2031 BN Haarlem
+The Netherlands
