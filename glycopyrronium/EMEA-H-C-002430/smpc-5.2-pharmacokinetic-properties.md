@@ -9,11 +9,11 @@ About 90% of systemic exposure following inhalation is due to lung absorption an
 In patients with COPD, pharmacokinetic steady-state of glycopyrronium was reached within one week of the start of treatment.
 The steady-state mean peak and trough plasma concentrations of glycopyrronium for a 44 micrograms once-daily dosing regimen were 166 picograms/ml and 8 picograms/ml, respectively.
 Steady-state exposure to glycopyrronium (AUC over the 24-hour dosing interval) was about 1.4- to 1.7-fold higher than after the first dose.
+
 Distribution
 After intravenous dosing, the steady-state volume of distribution of glycopyrronium was 83 litres and the volume of distribution in the terminal phase was 376 litres.
 The apparent volume of distribution in the terminal phase following inhalation was almost 20-fold larger, which reflects the much slower elimination after inhalation.
 The in vitro human plasma protein binding of glycopyrronium was 38% to 41% at concentrations of 1 to 10 nanograms/ml.
-
 Biotransformation
 In vitro metabolism studies showed consistent metabolic pathways for glycopyrronium bromide between animals and humans.
 Hydroxylation resulting in a variety of mono-and bis-hydroxylated metabolites and direct hydrolysis resulting in the formation of a carboxylic acid derivative (M9) were seen.
@@ -50,9 +50,9 @@ A population pharmacokinetic analysis of data in COPD patients identified body w
 Seebri Breezhaler 44 micrograms once daily can be safely used in all age and body weight groups.
 
 Gender, smoking status and baseline FEV1 had no apparent effect on systemic exposure.
+
 There were no major differences in total systemic exposure (AUC) between Japanese and Caucasian subjects following inhalation of glycopyrronium bromide.
 Insufficient pharmacokinetic data is available for other ethnicities or races.
-
 Patients with hepatic impairment
 Clinical studies have not been conducted in patients with hepatic impairment.
 Glycopyrronium is cleared predominantly from the systemic circulation by renal excretion.

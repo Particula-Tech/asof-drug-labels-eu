@@ -12,9 +12,9 @@ A greater than 4-fold selectivity for the human M3 receptors over the human M2 r
 It has a rapid onset of action as evidenced by observed receptor association/dissociation kinetic parameters and the onset of action after inhalation in clinical studies.
 
 The long duration of action can be partly attributed to sustained concentrations of active substance in the lung as reflected by the prolonged terminal elimination half-life of glycopyrronium after inhalation via the Seebri Breezhaler inhaler in contrast to the half life after intravenous administration (see section 5.2).
+
 Pharmacodynamic effects
 The clinical Phase III development programme included two phase III studies: a 6-month placebo-controlled study and a 12-month placebo and active-controlled (open label tiotropium 18 micrograms once daily) study, both in patients with clinical diagnosis of moderate to severe COPD.
-
 Effects on lung function
 Seebri Breezhaler 44 micrograms once daily provided consistently statistically significant improvement in lung function (forced expiratory volume in one second, FEV1, forced vital capacity, FVC, and inspiratory capacity, IC) in a number of clinical studies.
 In phase III studies, bronchodilator effects were seen within 5 minutes after the first dose and were maintained over the 24-hour dosing interval from the first dose.
@@ -45,7 +45,6 @@ In both studies, the percentage of patients experiencing a moderate or severe ex
 In the 6-month study, the percentage of patients experiencing a moderate or severe exacerbation was 17.5% for Seebri Breezhaler and 24.2% for placebo (Hazard ratio: 0.69, p=0.023), and in the 12-month study it was 32.8% for Seebri Breezhaler and 40.2% for placebo (Hazard ratio: 0.66, p=0.001).
 In a pooled analysis of the first 6 months of treatment in the 6- and 12-month studies, compared to placebo Seebri Breezhaler statistically significantly prolonged time to first moderate or severe exacerbation and reduced the rate of moderate or severe COPD exacerbations (0.53 exacerbations/year versus 0.77exacerbations /year, p<0.001).
 The pooled analysis also showed fewer patients treated with Seebri Breezhaler than with placebo experienced an exacerbation requiring hospitalisation (1.7% versus 4.2%, p=0.003).
-
 Other effects
 Seebri Breezhaler once daily statistically significantly reduced the use of rescue medication (salbutamol) by 0.46 puffs per day (p=0.005) over 26 weeks and by 0.37 puffs per day (p=0.039) over 52 weeks, compared to placebo for the 6- and 12-month studies, respectively.
 

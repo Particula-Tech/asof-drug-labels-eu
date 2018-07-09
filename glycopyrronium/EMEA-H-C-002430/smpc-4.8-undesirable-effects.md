@@ -36,13 +36,13 @@ Table 1 Adverse reactions
 These were reported voluntarily from a population of uncertain size, and it is therefore not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure.
 Therefore the frequency was calculated from clinical trial experience.
 3) Seen more frequently for glycopyrronium than placebo in elderly >75 years only.
+
 Description of selected adverse reactions
 In the pooled 6-month database the frequency of dry mouth was 2.2% versus 1.1%, of insomnia 1.0% versus 0.8%, and of gastroenteritis 1.4% versus 0.9%, for Seebri Breezhaler and placebo respectively.
 
 Dry mouth was reported mainly during the first 4 weeks of treatment with a median duration of four weeks in the majority of patients.
 However in 40% of cases symptoms continued for the entire 6- month period.
 No new cases of dry mouth were reported in months 7-12.
-
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.

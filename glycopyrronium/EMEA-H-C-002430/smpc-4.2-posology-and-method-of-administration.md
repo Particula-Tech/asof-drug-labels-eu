@@ -6,6 +6,7 @@ The recommended dose is the inhalation of the content of one capsule once daily 
 Seebri Breezhaler is recommended to be administered, at the same time of the day each day.
 If a dose is missed, the next dose should be taken as soon as possible.
 Patients should be instructed not to take more than one dose in a day.
+
 Special populations
 Elderly population
 Seebri Breezhaler can be used at the recommended dose in elderly patients (75 years of age and older) (see section 4.8).
@@ -13,7 +14,6 @@ Seebri Breezhaler can be used at the recommended dose in elderly patients (75 ye
 Renal impairment
 Seebri Breezhaler can be used at the recommended dose in patients with mild to moderate renal impairment.
 In patients with severe renal impairment or end-stage renal disease requiring dialysis Seebri Breezhaler should be used only if the expected benefit outweighs the potential risk since the systemic exposure to glycopyrronium may be increased in this population (see sections 4.4 and 5.2).
-
 Hepatic impairment
 No studies have been conducted in patients with hepatic impairment.
 Glycopyrronium is predominantly cleared by renal excretion and therefore no major increase in exposure is expected in patients with hepatic impairment.
