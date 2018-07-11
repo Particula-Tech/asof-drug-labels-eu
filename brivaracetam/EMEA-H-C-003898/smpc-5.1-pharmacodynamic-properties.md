@@ -7,10 +7,9 @@ Mechanism of action
 Brivaracetam displays a high and selective affinity for synaptic vesicle protein 2A (SV2A), a transmembrane glycoprotein found at presynaptic level in neurons and in endocrine cells.
 Although the exact role of this protein remains to be elucidated it has been shown to modulate exocytosis of neurotransmitters.
 Binding to SV2A is believed to be the primary mechanism for brivaracetam anticonvulsant activity.
-
 Clinical efficacy and safety
 
-The efficacy of brivaracetam for the adjunctive therapy of partial-onset seizures (POS) was established in 3 randomized, double-blind, placebo-controlled, fixed-dose, multi-center studies in subjects 16 years of age and older.
+The efficacy of brivaracetam for the adjunctive therapy of partial onset seizures (POS) was established in 3 randomized, double-blind, placebo-controlled, fixed-dose, multi-center studies in subjects 16 years of age and older.
 The daily dose of brivaracetam ranged from 5 to 200 mg/day across these studies.
 All studies had an 8-week baseline period followed by a 12-week treatment period with no up-titration.
 1,558 patients received study drug of which 1,099 received brivaracetam.
@@ -31,14 +30,14 @@ Table 2: Key Efficacy Outcomes for Partial Onset Seizure Frequency per 28 Days
 | Study N01253(1) |  |  |  |  |
 |  | n= 96 | n= 101 |  |  |
 | 50 % Responder rate | 16.7 | 32.7* (p=0.008) | ~ | ~ |
-| Percent reduction over placebo (%) | NA | 22.0* (p=0.0040) | ~ | ~ |
+| Percent reduction over placebo (%) | NA | 22.0* (p=0.004) | ~ | ~ |
 | Study N01252(1) |  |  |  |  |
 |  | n = 100 | n = 99 | n = 100 |  |
 | 50 % Responder rate | 20.0 | 27.3 (p=0.372) | 36.0(2) (p=0.023) | ~ |
-| Percent reduction over placebo (%) | NA | 9.2 (p=0.0274) | 20.5(2) (p=0.0097) | ~ |
+| Percent reduction over placebo (%) | NA | 9.2 (p=0.274) | 20.5(2) (p=0.010) | ~ |
 | Study N01358 |  |  |  |  |
 |  | n = 259 |  | n = 252 | n = 249 |
-| 50% Responder rate | 21.6 | ~ | 38.9 (p<0.001) | 37.8 (p<0.001) |
+| 50% Responder rate | 21.6 | ~ | 38.9* (p<0.001) | 37.8* (p<0.001) |
 | Percent reduction over placebo (%) | NA | ~ | 22.8* (p<0.001) | 23.2* (p<0.001) |
 
 n = randomised patients who received at least 1 dose of study medication
@@ -55,6 +54,7 @@ Figure 1 shows the percentage of patients (excluding patients with concomitant l
 Patients with more than a 25 % increase in POS are shown at left as “worse”.
 Patients with an improvement in percent reduction in baseline POS frequency are shown in the 4 right-most categories.
 The percentages of patients with at least a 50 % reduction in seizure frequency were 20.3 %, 34.2 %, 39.5 %, and 37.8 % for placebo, 50 mg/day, 100 mg/day, and 200 mg/day, respectively.
+
 Figure 1: Proportion of patients by category of seizure response for brivaracetam and placebo over 12 weeks across all three double-blind pivotal trials
 
 In a pooled analysis of the three pivotal trials, no differences in efficacy (measured as 50 % responder rate) was observed within the dose range of 50 mg/day to 200 mg/day when brivaracetam is combined with inducing or non-inducing AEDs.
@@ -77,7 +77,6 @@ The lower efficacy observed in these patients compared to the leveticacetam-naï
 Elderly (65 years of age and above)
 The three pivotal double-blind placebo-controlled studies included 38 elderly patients aged between 65 and 80 years.
 Although data are limited, the efficacy was comparable to younger subjects.
-
 Open label extension studies
 Across all studies, 81.7 % of the patients who completed randomized studies were enrolled in the long-term open-label extension studies.
 From entry into the randomized studies,5.3 % of the subjects exposed to brivaracetam for 6 months (n=1,500) were seizure free compared to 4.6 % and 3.7 % for subjects exposed for 12 months (n=1,188) and 24 months (n=847), respectively.
@@ -85,34 +84,26 @@ However, as a high proportion of subjects (26%) discontinued from the open-label
 
 Paediatric population
 
-The efficacy and tolerability of brivaracetam in paediatric patients have not been established (see section 4.2).
-Brivaracetam was evaluated in these patients in short term open label pharmacokinetic study and an ongoing open-label extension study, in 152 subjects from 1 month to 16 years of age (see section 5.2).
+In children aged 4 years and older, partial onset seizures have a similar clinical expression to those in adolescents and adults.
+Experience with epilepsy medicines suggests that the results of efficacy studies performed in adults can be extrapolated to children down to the age of 4 years provided the paediatric dose adaptations are established and safety has been demonstrated (see sections 5.2 and 4.8).
+Doses in patients from 4 years of age were defined by weight-based dose adaptations which have been established to achieve similar plasma concentrations to the ones observed in adults taking efficacious doses (section 5.2).
+
+A long-term, uncontrolled, open-label safety study included children (from 4 years to less than 16 years) who continued treatment after completing the PK study (see section 5.2) and children directly enrolled into the safety study.
+Children who directly enrolled received a brivaracetam starting dose of 1 mg/kg/day and depending on response and tolerability, the dose was increased up to 5 mg/kg/day by doubling the dose at weekly intervals.
+No child received a dose greater than 200 mg/day.
+For children weighing 50 kg or greater the brivaracetam starting dose was 50 mg/day and depending on response and tolerability, the dose was increased up to a maximum of 200 mg/day by weekly increments of 50 mg/day.
+
+From the pooled open-label safety and PK studies in adjunctive therapy, 149 children with POS have received brivaracetam, of whom 116 have been treated for ≥6 months, 107 for ≥12 months, 58 for ≥24 months, and 28 for ≥36 months.
+
+The efficacy and tolerability of brivaracetam in paediatric patients less than 4 years of age have not been established (see section 4.2).
+Brivaracetam was evaluated in these patients in a short term open-label pharmacokinetic study and an ongoing open-label extension study, in 16 subjects from 1 month to <4 years of age (see section 5.2).
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with brivaracetam in one or more subsets of the paediatric population in epilepsy with partial onset seizures.
 
 [Briviact 10 mg/ml oral solution]
 
-Brivaracetam was evaluated in these patients in short term open-label pharmacokinetic study and an ongoing open-label extension study, in 152 subjects from 1 month to 16 years of age (see section 5.2).
-
-The European Medicines Agency has deferred the obligation to submit the results of studies with brivaracetam in one or more subsets of the paediatric population in epilepsy with partial-onset seizures.
+From the pooled open-label safety and PK studies in adjunctive therapy, 149 children have received brivaracetam, of whom 116 have been treated for ≥6 months, 107 for ≥12 months, 58 for ≥24 months, and 28 for ≥36 months.
 
 [Briviact 10 mg/ml solution for injection/infusion]
-
-| Study | Placebo | Brivaracetam * Statistically significant (p-value) |  |  |
-| --- | --- | --- | --- | --- |
-|  |  | 50 mg/day | 100 mg/day | 200 mg/day |
-| Study N01253(1) |  |  |  |  |
-|  | n= 96 | n= 101 |  |  |
-| 50 % Responder rate | 16.7 | 32.7* (p=0.008) | ~ | ~ |
-| Percent reduction over placebo (%) | NA | 22.0* (p=0.0040) | ~ | ~ |
-| Study N01252(1) |  |  |  |  |
-|  | n = 100 | n = 99 | n = 100 |  |
-| 50 % Responder rate | 20.0 | 27.3 (p=0.372) | 36.0(2) (p=0.023) | ~ |
-| Percent reduction over placebo (%) | NA | 9.2 (p=0.0274) | 20.5(2) (p=0.0097) | ~ |
-|  |  | 50 mg/day | 100 mg/day | 200 mg/day |
-| Study N01358 |  |  |  |  |
-|  | n = 259 |  | n = 252 | n = 249 |
-| 50% Responder rate | 21.6 | ~ | 38.9 (p<0.001) | 37.8 (p<0.001) |
-| Percent reduction over placebo (%) | NA | ~ | 22.8* (p<0.001) | 23.2* (p<0.001) |
 
 (2) The primary outcome for N01252 did not achieve statistical significance based on the sequential testing procedure, The 100 mg/day dose was nominally significant.

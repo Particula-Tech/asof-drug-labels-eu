@@ -7,6 +7,7 @@ A meta-analysis of randomized placebo-controlled trials of AEDs has also shown a
 The mechanism of this risk is not known and the available data do not exclude the possibility of an increased risk for brivaracetam.
 Patients should be monitored for signs of suicidal ideation and behaviours and appropriate treatment should be considered.
 Patients (and caregivers of patients) should be advised to seek medical advice should any signs of suicidal ideation or behaviour emerge.
+See also section 4.8, paediatric data.
 
 Hepatic impairment
 
@@ -29,6 +30,7 @@ To be taken into consideration by patients on a controlled sodium diet.
 Fructose intolerance
 The oral solution contains sorbitol (E420).
 Patients with rare hereditary problems of fructose intolerance should not take this medicine.
+
 Excipients which may cause intolerance
 The oral solution contains methyl parahydroxybenzoate (E218), which may cause allergic reactions (possibly delayed).
 

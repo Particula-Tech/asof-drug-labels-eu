@@ -29,7 +29,7 @@ Not all pack sizes may be marketed.
 
 [Briviact 10 mg/ml oral solution]
 
-300 ml amber glass bottle (type III) with a white child resistant closure (polypropylene) in a box also containing a 10 ml graduated oral dosing syringe (polypropylene, polyethylene) and an adaptor for the syringe (polyethylene).
+300 ml amber glass bottle (type III) with a white child resistant closure (polypropylene) in a box also containing a 5 ml and 10 ml graduated oral dosing syringe (polypropylene, polyethylene) and an adaptor for the syringe (polyethylene).
 
 [Briviact 10 mg/ml solution for injection/infusion]
 

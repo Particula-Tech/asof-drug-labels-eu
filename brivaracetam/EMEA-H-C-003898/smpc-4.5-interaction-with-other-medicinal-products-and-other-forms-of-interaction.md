@@ -7,6 +7,7 @@ Pharmacodynamic interactions
 Concomitant treatment with levetiracetam
 In the clinical studies, although the numbers were limited, there was no observed benefit of brivaracetam versus placebo in patients taking levetiracetam concurrently.
 No additional safety or tolerability concern was observed (see section 5.1).
+
 Interaction with alcohol
 In a pharmacokinetic and pharmacodynamic interaction study between brivaracetam 200 mg single dose and ethanol 0.6 g/L continuous infusion in healthy subjects, there was no pharmacokinetic interaction but brivaracetam approximately doubled the effect of alcohol on psychomotor function, attention and memory.
 Intake of brivaracetam with alcohol is not recommended.
@@ -19,7 +20,6 @@ The main disposition pathway of brivaracetam is by CYP-independent hydrolysis.
 A second disposition pathway involves hydroxylation mediated by CYP2C19 (see section 5.2).
 
 Brivaracetam plasma concentrations may increase when coadministered with CYP2C19 strong inhibitors (e.g. fluconazole, fluvoxamine), but the risk of a clinically relevant CYP2C19-mediated interaction is considered to be low.
-
 Rifampicin
 In healthy subjects, coadministration with the strong enzyme inducer rifampicin (600 mg/day for 5 days), decreased brivaracetam area under the plasma concentration curve (AUC) by
 45 %.

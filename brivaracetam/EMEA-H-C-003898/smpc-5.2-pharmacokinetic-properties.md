@@ -8,7 +8,6 @@ Absorption
 Brivaracetam is rapidly and completely absorbed after oral administration and the absolute bioavailablity is approximately 100 %.
 The median tmax for tablets taken without food is 1 hour (tmax range is 0.25 to 3 h).
 Coadministration with a high-fat meal slowed down the absorption rate (median tmax 3 h) and decreased the maximum plasma concentration (37 % lower) of brivaracetam, while the extent of absorption remained unchanged.
-
 Distribution
 
 Brivaracetam is weakly bound (≤ 20 %) to plasma proteins.
@@ -52,7 +51,6 @@ Elderly (65 years of age and above)
 In a study in elderly subjects (65 to79 years old; with creatinine clearance 53 to 98 ml/min/1.73 m²) receiving brivaracetam 400 mg/day in bid administration, the plasma half-life of brivaracetam was 7.9 hours and 9.3 hours in the 65 to 75 and >75 years groups, respectively.
 The steady-state plasma clearance of brivaracetam was similar (0.76 ml/min/kg) to young healthy male subjects
 (0.83 ml/min/kg) (see section 4.2).
-
 Renal impairment
 A study in subjects with severe renal impairment (creatinine clearance <30 ml/min/1.73 m² and not requiring dialysis) revealed that the plasma AUC of brivaracetam was moderately increased (+21 %) relative to healthy controls, while the AUC of the acid, hydroxy and hydroxyacid metabolites were increased 3-, 4-, and 21-fold, respectively.
 The renal clearance of these non active metabolites was decreased 10-fold.
@@ -64,8 +62,15 @@ A pharmacokinetic study in subjects with hepatic cirrhosis (Child-Pugh grades A,
 (see section 4.2)
 
 Paediatric population
-In a pharmacokinetic study in 99 subjects aged 1 month to <16 years receiving brivaracetam oral solution, plasma concentrations were shown to be dose-proportional in all age groups.
+In a pharmacokinetic study with a 3-week evaluation period and weekly fixed 3-step up-titration using the brivaracetam oral solution, 99 subjects aged 1 month to <16 years were evaluated.
+Brivaracetam was administered at weekly increasing doses of approximately 1 mg/kg/day, 2 mg/kg/day, and 4 mg/kg/day.
+All doses were adjusted by body weight, and did not exceed a maximum of 50 mg/day, 100 mg/day, and 200 mg/day.
+At the end of the evaluation period, subjects may have been eligible for entry into a long-term follow-up study continuing on their last received dose (see section 4.8).
+Plasma concentrations were shown to be dose-proportional in all age groups.
 Population pharmacokinetics modeling indicated that the dose of 2.0 mg/kg twice a day provides the same steady-state average plasma concentration as in adults receiving 100 mg twice daily.
+The estimated plasma clearance was 1.61 L/h, 2.18 L/h and 3.19 L/h for children weighing 20 kg, 30 kg and 50 kg, respectively.
+In comparison, plasma clearance was estimated at 3.58 L/h in adult patients (70 kg body weight).
+Currently, no clinical data are available in neonates.
 
 Body weight
 A 40 % decrease in steady-state plasma concentration has been estimated across a body weight range from 46 kg to 115 kg.

@@ -13,7 +13,7 @@ The adverse reactions most frequently resulting in discontinuation of brivaracet
 
 Tabulated list of adverse reactions
 
-In the table below, adverse reactions, which were identified based on review of the full brivaracetam clinical studies safety database, are listed by System Organ Class and frequency.
+In the table below, adverse reactions, which were identified based on review of the three placebo-controlled, fixed-dose studies safety database in subjects ≥ 16 years of age, are listed by System Organ Class and frequency.
 The frequencies are defined as follows: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
@@ -46,12 +46,15 @@ Open-label extension studies
 
 In patients who were followed up in the open-label extension studies for up to 8 years, the safety profile was similar to that observed in the short-term, placebo-controlled studies.
 Paediatric population
+The safety profile of brivaracetam observed in children was consistent with the safety profile observed in adults.
+In the open label, uncontrolled, long-term studies suicidal ideation was reported in 4.7 % of paediatric patients (more common in adolescents) compared with 2.4 % of adults and behavioural disorders were reported in 24.8 % of paediatric patients compared with 15.1 % of adults.
+The majority of events were mild or moderate in intensity, were non-serious, and did not lead to discontinuation of study drug.
+An additional adverse reaction reported in children was psychomotor hyperactivity
+(4.7 %).
 
-There are limited safety data from open-label studies in children from 1 month to < 16 years of age.
-A total of 152 children (1 month to < 16 years of age) were treated with brivaracetam in a pharmacokinetic study and the related follow up study.
-From the limited available data, the most frequently reported TEAEs considered drug-related by the investigator were somnolence (10 %), decreased appetite (8 %), fatigue (5 %) and weight decreased (5 %).The safety profile appears to be consistent with that known in adults.
-No data are available on neurodevelopment.
-Currently, no clinical data are available in neonates.
+There are limited safety data from open-label studies in children from 1 month to <4 years of age.
+Limited data are available on neurodevelopment in children <4 years of age.
+No clinical data are available in neonates.
 
 Elderly
 
@@ -74,10 +77,7 @@ The discontinuation rate due to adverse reactions was 3.5 %, 3.4 % and 4.0 % for
 The frequencies are defined as follows: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥ 1/1,000 to < 1/100).
 
 Neutropenia has been reported in 0.5 % (6/1,099) brivaracetam patients and 0 % (0/459) placebo patients.
-
 Suicidal ideation has been reported in 0.3 % (3/1,099) brivaracetam patients and 0.7 % (3/459) placebo patients.
-
-There are limited safety data from open-label studies in children from 1 month to <16 years of age.
 
 [Briviact 10 mg/ml solution for injection/infusion]
 

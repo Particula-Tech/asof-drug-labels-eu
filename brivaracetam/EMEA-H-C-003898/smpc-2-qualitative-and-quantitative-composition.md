@@ -45,4 +45,4 @@ Each ml of oral solution contains 239.8 mg sorbitol (E420), 1mg methyl parahydro
 Each ml contains 10mg brivaracetam
 Each 5 ml vial contains 50 mg brivaracetam
 
-Each ml of solution for injection/infusion contains includes 3.8 mg sodium.
+Each ml of solution for injection/infusion contains 3.8 mg sodium.

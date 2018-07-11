@@ -1,6 +1,6 @@
 # 3. PHARMACEUTICAL FORM
 
-Film-coated tablet (tablets)
+Film-coated tablet (tablet)
 
 Briviact 10 mg film-coated tablets
 White to off-white, round film-coated tablets of 6.5 mm in diameter and debossed with ‘u10’ on one side.
