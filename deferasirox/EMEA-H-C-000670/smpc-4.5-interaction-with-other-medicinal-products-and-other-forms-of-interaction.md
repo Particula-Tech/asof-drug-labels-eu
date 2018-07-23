@@ -19,12 +19,12 @@ Interaction with midazolam and other agents metabolised by CYP3A4
 In a healthy volunteer study, the concomitant administration of deferasirox dispersible tablets and midazolam (a CYP3A4 probe substrate) resulted in a decrease of midazolam exposure by 17% (90% CI: 8% - 26%).
 In the clinical setting, this effect may be more pronounced.
 Therefore, due to a possible decrease in efficacy, caution should be exercised when deferasirox is combined with substances metabolised through CYP3A4 (e.g. ciclosporin, simvastatin, hormonal contraceptive agents, bepridil, ergotamine).
+
 Interaction with repaglinide and other agents metabolised by CYP2C8
 In a healthy volunteer study, the concomitant administration of deferasirox as a moderate CYP2C8 inhibitor (30 mg/kg daily, dispersible tablet formulation), with repaglinide, a CYP2C8 substrate, given as a single dose of 0.5 mg, increased repaglinide AUC and Cmax about 2.3-fold (90% CI [2.03-2.63]) and 1.6-fold (90% CI [1.42-1.84]), respectively.
 Since the interaction has not been established with dosages higher than 0.5 mg for repaglinide, the concomitant use of deferasirox with repaglinide should be avoided.
 If the combination appears necessary, careful clinical and blood glucose monitoring should be performed (see section 4.4).
 An interaction between deferasirox and other CYP2C8 substrates like paclitaxel cannot be excluded.
-
 Interaction with theophylline and other agents metabolised by CYP1A2
 In a healthy volunteer study, the concomitant administration of deferasirox as a CYP1A2 inhibitor (repeated dose of 30 mg/kg/day, dispersible tablet formulation) and the CYP1A2 substrate theophylline (single dose of 120 mg) resulted in an increase of theophylline AUC by 84% (90% CI: 73% to 95%).
 The single dose Cmax was not affected, but an increase of theophylline Cmax is expected to occur with chronic dosing.
@@ -40,6 +40,9 @@ Although deferasirox has a lower affinity for aluminium than for iron, it is not
 The concomitant administration of deferasirox with substances that have known ulcerogenic potential, such as NSAIDs (including acetylsalicylic acid at high dosage), corticosteroids or oral bisphosphonates may increase the risk of gastrointestinal toxicity (see section 4.4).
 The concomitant administration of deferasirox with anticoagulants may also increase the risk of gastrointestinal haemorrhage.
 Close clinical monitoring is required when deferasirox is combined with these substances.
+
+Concomitant administration of deferasirox and busulfan resulted in an increase of busulfan exposure (AUC), but the mechanism of the interaction remains unclear.
+If possible, evaluation of the pharmacokinetics (AUC, clearance) of a busulfan test dose should be performed to allow dose adjustment.
 
 [EXJADE 90 mg film-coated tablets]
 

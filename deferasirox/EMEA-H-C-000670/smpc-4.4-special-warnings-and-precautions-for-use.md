@@ -19,16 +19,18 @@ While no increase in renal adverse events was observed after dose escalation of 
 
 It is recommended that serum creatinine be assessed in duplicate before initiating therapy.
 Serum creatinine, creatinine clearance (estimated with the Cockcroft-Gault or MDRD formula in adults and with the Schwartz formula in children) and/or plasma cystatin C levels should be monitored prior to therapy, weekly in the first month after initiation or modification of therapy with
+EXJADE (including switch of formulation), and monthly thereafter.
+Patients with pre-existing renal conditions and patients who are receiving medicinal products that depress renal function may be more at risk of complications.
+Care should be taken to maintain adequate hydration in patients who develop diarrhoea or vomiting.
 
-EXJADE (including switch of formulation), and monthly thereafter. Patients with pre-existing
-renal conditions and patients who are receiving medicinal products that depress renal function may be
-more at risk of complications. Care should be taken to maintain adequate hydration in patients who
-develop diarrhoea or vomiting.
-There have been post-marketing reports of metabolic acidosis occurring during treatment with
-deferasirox. The majority of these patients had renal impairment, renal tubulopathy (Fanconi
-syndrome) or diarrhoea, or conditions where acid-base imbalance is a known complication. Acid-base
-balance should be monitored as clinically indicated in these populations. Interruption of EXJADE
-therapy should be considered in patients who develop metabolic acidosis.
+There have been post-marketing reports of metabolic acidosis occurring during treatment with deferasirox.
+The majority of these patients had renal impairment, renal tubulopathy (Fanconi syndrome) or diarrhoea, or conditions where acid-base imbalance is a known complication.
+Acid-base balance should be monitored as clinically indicated in these populations.
+Interruption of EXJADE therapy should be considered in patients who develop metabolic acidosis.
+
+Post-marketing cases of severe forms of renal tubulopathy (such as Fanconi syndrome) and renal failure associated with changes in consciousness in the context of hyperammonaemic encephalopathy have been reported in patients treated with deferasirox, mainly in children.
+It is recommended that hyperammonaemic encephalopathy be considered and ammonia levels measured in patients who develop unexplained changes in mental status while on Exjade therapy.
+
 Table 3 Dose adjustment and interruption of treatment for renal monitoring
 Serum creatinine Creatinine clearance
 Before initiation of Twice (2x) and Once (1x)
@@ -67,10 +69,15 @@ biopsy) may be considered if the following occur despite dose reduction and inte
 Syndrome).
 Hepatic function
 Liver function test elevations have been observed in patients treated with deferasirox. Post-marketing
-cases of hepatic failure, sometimes fatal, have been reported in patients treated with deferasirox. Most
-reports of hepatic failure involved patients with significant morbidities including pre-existing liver
-cirrhosis. However, the role of deferasirox as a contributing or aggravating factor cannot be excluded
-(see section 4.8).
+cases of hepatic failure, some of which were fatal, have been reported. Severe forms associated with
+changes in consciousness in the context of hyperammonaemic encephalopathy, may occur in patients
+treated with deferasirox, particularly in children. It is recommended that hyperammonaemic
+encephalopathy be considered and ammonia levels measured in patients who develop unexplained
+changes in mental status while on Exjade therapy. Care should be taken to maintain adequate
+hydration in patients who experience volume-depleting events (such as diarrhoea or vomiting),
+particularly in children with acute illness. Most reports of hepatic failure involved patients with
+significant morbidities including pre-existing liver cirrhosis. However, the role of deferasirox as a
+contributing or aggravating factor cannot be excluded (see section 4.8).
 It is recommended that serum transaminases, bilirubin and alkaline phosphatase be checked before the
 initiation of treatment, every 2 weeks during the first month and monthly thereafter. If there is a
 persistent and progressive increase in serum transaminase levels that cannot be attributed to other
@@ -112,10 +119,11 @@ may be inferior to risks. As a consequence, treatment with EXJADE is not recomme
 patients.
 Caution should be used in elderly patients due to a higher frequency of adverse reactions (in
 particular, diarrhoea).
-
-Data in children with non-transfusion-dependent thalassaemia are very limited (see section 5.1).
-As a consequence, EXJADE therapy should be closely monitored to detect adverse reactions and to follow iron burden in the paediatric population.
-In addition, before treating heavily iron-overloaded children with non-transfusion-dependent thalassaemia with EXJADE, the physician should be aware that the consequences of long-term exposure in such patients are currently not known.
+Data in children with non-transfusion-dependent thalassaemia are very limited (see section 5.1). As a
+consequence, EXJADE therapy should be closely monitored to detect adverse reactions and to follow
+iron burden in the paediatric population. In addition, before treating heavily iron-overloaded children
+with non-transfusion-dependent thalassaemia with EXJADE, the physician should be aware that the
+consequences of long-term exposure in such patients are currently not known.
 
 Gastrointestinal disorders
 Upper gastrointestinal ulceration and haemorrhage have been reported in patients, including children and adolescents, receiving deferasirox.
@@ -149,12 +157,12 @@ There have been post-marketing reports of leukopenia, thrombocytopenia or pancyt
 Most of these patients had pre-existing haematological disorders that are frequently associated with bone marrow failure.
 However, a contributory or aggravating role cannot be excluded.
 Interruption of treatment should be considered in patients who develop unexplained cytopenia.
+
 Other considerations
 Monthly monitoring of serum ferritin is recommended in order to assess the patient’s response to therapy (see section 4.2).
 If serum ferritin falls consistently below 500 µg/l (in transfusional iron overload) or below 300 µg/l (in non-transfusion-dependent thalassaemia syndromes), an interruption of treatment should be considered.
 
 The results of the tests for serum creatinine, serum ferritin and serum transaminases should be recorded and regularly assessed for trends.
-
 In two clinical studies, growth and sexual development of paediatric patients treated with deferasirox for up to 5 years were not affected (see section 4.8).
 However, as a general precautionary measure in the management of paediatric patients with transfusional iron overload, body weight, height and sexual development should be monitored prior to therapy and at regular intervals (every 12 months).
 
@@ -170,30 +178,13 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 
 While no increase in renal adverse events was observed after dose escalation of EXJADE dispersible tablets to doses above 30 mg/kg in clinical studies, an increased risk of renal adverse events with film-coated tablet doses above 21 mg/kg cannot be excluded.
 
-EXJADE (including switch of formulation), and monthly thereafter.
-Patients with pre-existing renal conditions and patients who are receiving medicinal products that depress renal function may be more at risk of complications.
-Care should be taken to maintain adequate hydration in patients who develop diarrhoea or vomiting.
-
-There have been post-marketing reports of metabolic acidosis occurring during treatment with deferasirox.
-The majority of these patients had renal impairment, renal tubulopathy (Fanconi syndrome) or diarrhoea, or conditions where acid-base imbalance is a known complication.
-Acid-base balance should be monitored as clinically indicated in these populations.
-Interruption of EXJADE therapy should be considered in patients who develop metabolic acidosis.
-
 Reduction of daily dose by 7 mg/kg/day (film-coated tablet formulation),
-Data in children with non-transfusion-dependent thalassaemia are very limited (see section 5.1). As a
-consequence, EXJADE therapy should be closely monitored to detect adverse reactions and to follow
-iron burden in the paediatric population. In addition, before treating heavily iron-overloaded children
-with non-transfusion-dependent thalassaemia with EXJADE, the physician should be aware that the
-consequences of long-term exposure in such patients are currently not known.
-Upper gastrointestinal ulceration and haemorrhage have been reported in patients, including children
-and adolescents, receiving deferasirox. Multiple ulcers have been observed in some patients (see
-section 4.8). There have been reports of ulcers complicated with digestive perforation. Also, there
-have been reports of fatal gastrointestinal haemorrhages, especially in elderly patients who had
-haematological malignancies and/or low platelet counts. Physicians and patients should remain alert
-for signs and symptoms of gastrointestinal ulceration and haemorrhage during EXJADE therapy and
-
-promptly initiate additional evaluation and treatment if a serious gastrointestinal adverse reaction is suspected.
 
 [EXJADE 90 mg granules in sachet]
 
 While no increase in renal adverse events was observed after dose escalation of EXJADE dispersible tablets to doses above 30 mg/kg in clinical studies, an increased risk of renal adverse events with granule doses above 21 mg/kg cannot be excluded.
+
+Upper gastrointestinal ulceration and haemorrhage have been reported in patients, including children
+and adolescents, receiving deferasirox. Multiple ulcers have been observed in some patients (see
+
+section 4.8).
