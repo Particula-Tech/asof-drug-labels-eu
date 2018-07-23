@@ -77,7 +77,8 @@ When missing data were excluded, 91% of patients in the tenofovir disoproxil fum
 
 Reductions in BMD have been reported in paediatric patients.
 In patients who received treatment with tenofovir disoproxil fumarate, or stavudine or zidovudine, mean lumbar spine BMD Z-score was -1.034 and -0.498, and mean total body BMD Z-score was -0.471 and -0.386, respectively, at baseline.
-Mean changes at week 48 (end of randomised phase) were 0.032 and 0.087 in lumbar spine BMD Z-score, and -0.184 and -0.027 in total body BMD Z-score for the tenofovir disoproxil fumarate and stavudine or zidovudine groups, respectively.
+Mean changes at week 48 (end of randomised phase) were 0.032 and 0.087 in lumbar spine
+BMD Z-score, and -0.184 and -0.027 in total body BMD Z-score for the tenofovir disoproxil fumarate and stavudine or zidovudine groups, respectively.
 The mean rate of lumbar spine bone gain at week 48 was similar between the tenofovir disoproxil fumarate treatment group and the stavudine or zidovudine treatment group.
 Total body bone gain was less in the tenofovir disoproxil fumarate treatment group compared to the stavudine or zidovudine treatment group.
 One tenofovir disoproxil fumarate treated subject and no stavudine or zidovudine treated subjects experienced significant
@@ -114,6 +115,7 @@ Benefit has also been demonstrated based on histological responses in compensate
 Experience in patients with compensated liver disease at 48 weeks (studies GS-US-174-0102 and GS-US-174-0103)
 Results through 48 weeks from two randomised, phase 3 double-blind studies comparing tenofovir disoproxil fumarate to adefovir dipivoxil in adult patients with compensated liver disease are presented in Table 3 below.
 Study GS-US-174-0103 was conducted in 266 (randomised and treated) HBeAg positive patients while study GS-US-174-0102 was conducted in 375 (randomised and treated) patients negative for HBeAg and positive for HBeAb.
+
 In both of these studies tenofovir disoproxil fumarate was significantly superior to adefovir dipivoxil for the primary efficacy endpoint of complete response (defined as HBV DNA levels < 400 copies/ml and Knodell necroinflammatory score improvement of at least 2 points without worsening in Knodell fibrosis).
 Treatment with tenofovir disoproxil 245 mg (as fumarate) was also associated with significantly greater proportions of patients with HBV DNA < 400 copies/ml, when compared to adefovir dipivoxil 10 mg treatment.
 Both treatments produced similar results with regard to histological response (defined as Knodell necroinflammatory score improvement of at least 2 points without worsening in Knodell fibrosis) at week 48 (see Table 3 below).
@@ -141,11 +143,11 @@ d The population used for analysis of ALT normalisation included only patients w
 n/a = not applicable.
 
 Tenofovir disoproxil fumarate was associated with significantly greater proportions of patients with undetectable HBV DNA (< 169 copies/ml [< 29 IU/ml]; the limit of quantification of the Roche Cobas Taqman HBV assay), when compared to adefovir dipivoxil (study GS-US-174-0102; 91%, 56% and study GS-US-174-0103; 69%, 9%), respectively.
+
 Response to treatment with tenofovir disoproxil fumarate was comparable in nucleoside-experienced (n = 51) and nucleoside-naïve (n = 375) patients and in patients with normal ALT (n = 21) and abnormal ALT (n = 405) at baseline when studies GS-US-174-0102 and GS-US-174-0103 were combined.
 Forty-nine of the 51 nucleoside-experienced patients were previously treated with lamivudine.
 Seventy-three percent of nucleoside-experienced and 69% of nucleoside-naïve patients achieved complete response to treatment; 90% of nucleoside-experienced and 88% of nucleoside-naïve patients achieved HBV DNA suppression < 400 copies/ml.
 All patients with normal ALT at baseline and 88% of patients with abnormal ALT at baseline achieved HBV DNA suppression < 400 copies/ml.
-
 Experience beyond 48 weeks in studies GS-US-174-0102 and GS-US-174-0103
 In studies GS-US-174-0102 and GS-US-174-0103, after receiving double-blind treatment for 48 weeks (either tenofovir disoproxil 245 mg (as fumarate) or adefovir dipivoxil 10 mg), patients rolled over with no interruption in treatment to open-label tenofovir disoproxil fumarate.
 In studies GS-US-174-0102 and GS-US-174-0103, 77% and 61% of patients continued in the study through to 384 weeks, respectively.
@@ -335,6 +337,7 @@ NA = Not Applicable a BMD Z-scores not adjusted for height and weight b Primary 
 [Viread 33 mg/g granules]
 
 Results through 48 weeks from two randomised, phase 3 double-blind studies comparing tenofovir disoproxil fumarate to adefovir dipivoxil in adult patients with compensated liver disease are presented in Table 4 below.
+
 Both treatments produced similar results with regard to histological response (defined as Knodell necroinflammatory score improvement of at least 2 points without worsening in Knodell fibrosis) at week 48 (see Table 4 below).
 
 In study GS-US-174-0103 a significantly greater proportion of patients in the tenofovir disoproxil fumarate group than in the adefovir dipivoxil group had normalised ALT and achieved HBsAg loss at week 48 (see Table 4 below).

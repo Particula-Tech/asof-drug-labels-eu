@@ -46,12 +46,10 @@ Very common: rash
 Rare: angioedema
 Musculoskeletal and connective tissue disorders:
 Uncommon: rhabdomyolysis1, muscular weakness1
-osteomalacia (manifested as bone pain and infrequently contributing to fractures)1,
-Rare: 2, myopathy1
+Rare: osteomalacia (manifested as bone pain and infrequently contributing to fractures)1, 2, myopathy1
 Renal and urinary disorders:
 Uncommon: increased creatinine, proximal renal tubulopathy (including Fanconi syndrome)
-acute renal failure, renal failure, acute tubular necrosis, nephritis (including acute
-Rare: interstitial nephritis)2, nephrogenic diabetes insipidus
+Rare: acute renal failure, renal failure, acute tubular necrosis, nephritis (including acute interstitial nephritis)2, nephrogenic diabetes insipidus
 General disorders and administration site conditions:
 Very common: asthenia
 
@@ -127,7 +125,8 @@ HIV-1 clinical studies: Assessment of adverse reactions from HIV-1 clinical stud
 
 Hepatitis B clinical studies: Assessment of adverse reactions from HBV clinical study data is primarily based on experience in two double-blind comparative controlled studies in which 641 adult patients with chronic hepatitis B and compensated liver disease received treatment with tenofovir disoproxil 245 mg (as fumarate) daily (n = 426) or adefovir dipivoxil 10 mg daily (n = 215) for 48 weeks.
 The adverse reactions observed with continued treatment for 384 weeks were consistent with the safety profile of tenofovir disoproxil fumarate.
-After an initial decline of approximately -4.9 ml/min (using Cockcroft-Gault equation) or -3.9 ml/min/1.73 m2 (using modification of diet in renal disease [MDRD] equation) after the first 4 weeks of treatment, the rate of annual decline post baseline of renal function reported in tenofovir disoproxil fumarate treated patients was -1.41 ml/min per year (using Cockcroft-Gault equation) and -0.74 ml/min/1.73 m2 per year (using MDRD equation).
+After an initial decline of approximately
+-4.9 ml/min (using Cockcroft-Gault equation) or -3.9 ml/min/1.73 m2 (using modification of diet in renal disease [MDRD] equation) after the first 4 weeks of treatment, the rate of annual decline post baseline of renal function reported in tenofovir disoproxil fumarate treated patients was -1.41 ml/min per year (using Cockcroft-Gault equation) and -0.74 ml/min/1.73 m2 per year (using MDRD equation).
 
 Patients with decompensated liver disease: The safety profile of tenofovir disoproxil fumarate in patients with decompensated liver disease was assessed in a double-blind active controlled study (GS-US-174-0108) in which adult patients received treatment with tenofovir disoproxil fumarate
 (n = 45) or emtricitabine plus tenofovir disoproxil fumarate (n = 45) or entecavir (n = 22) for 48 weeks.
@@ -151,6 +150,7 @@ Common: fatigue
 
 HIV-1 and hepatitis B:
 Patients at risk of renal impairment (such as patients with baseline renal risk factors, advanced HIV disease, or patients receiving concomitant nephrotoxic medications) are at increased risk of experiencing incomplete recovery of renal function despite tenofovir disoproxil fumarate discontinuation
+
 HIV-1:
 
 Hepatitis B:
@@ -184,5 +184,4 @@ HIV-1 clinical studies: Assessment of adverse reactions from HIV-1 clinical stud
 Subjects with a high baseline CPT score were at higher risk of developing serious adverse events (see section 4.4).
 
 The adverse reactions with suspected (at least possible) relationship to treatment are listed below by body syste organ class and frequency.
-
 Table 3: Tabulated summary of adverse reactions associated with tenofovir disoproxil fumarate based on clinical study and post-marketing experience
