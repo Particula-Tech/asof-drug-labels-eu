@@ -5,7 +5,7 @@ It cannot be excluded that cysteamine is a clinically relevant inducer of CYP en
 Co-administration with electrolyte and mineral replacement
 
 Cysteamine can be administered with electrolyte (except bicarbonate) and mineral replacements necessary for management of Fanconi syndrome as well as vitamin D and thyroid hormone.
-Bicarbonate should be administered at least one hour before or one hour after PROCYSBI to avoid potential earlier release of cysteamine
+Bicarbonate should be administered at least one hour before or one hour after PROCYSBI to avoid potential earlier release of cysteamine.
 
 Indomethacin and cysteamine have been used simultaneously in some patients.
 In cases of patients with kidney transplants, anti-rejection treatments have been used with cysteamine.

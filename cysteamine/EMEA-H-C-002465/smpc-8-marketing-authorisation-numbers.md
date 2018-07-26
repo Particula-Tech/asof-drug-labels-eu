@@ -1,7 +1,7 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
+PROCYSBI 25 mg hard capsule
 EU/1/13/861/001
 
-[PROCYSBI 75 mg gastro-resistant hard capsules]
-
+PROCYSBI 75 mg hard capsule
 EU/1/13/861/002

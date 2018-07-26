@@ -6,16 +6,16 @@ For the immediate-release formulation of cysteamine bitartrate, approximately 35
 These mainly involve the gastrointestinal and central nervous systems.
 When these reactions appear at the initiation of cysteamine therapy, temporary suspension and gradual reintroduction of treatment may be effective in improving tolerance.
 In clinical studies with healthy volunteers, the most frequent adverse reactions were very common GI symptoms (16%) and occurred primarily as single episodes that were mild or moderate in severity.
-The AE profile for healthy subjects was similar to the AE profile in patients relative to GI disorders (diarrhoea and abdominal pain).
+The adverse reactions profile for healthy subjects was similar to the adverse reactions profile in patients relative to GI disorders (diarrhoea and abdominal pain).
 
 Tabulated list of adverse reactions
 
-Reported adverse reactions are listed below, by system organ class and by frequency.
-Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100 to < 1/10) and uncommon (≥ 1/1,000 to < 1/100).
+The frequency of adverse reactions is defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000) and not known (cannot be estimated from available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness:
 
-| Blood and lymphatic system disorders | Uncommon: Leukopenia |
+| MedDRA system organ class | Frequency: adverse reaction |
 | --- | --- |
+| Blood and lymphatic system disorders | Uncommon: Leukopenia |
 | Immune system disorders | Uncommon: Anaphylactic reaction |
 | Metabolism and nutrition disorders | Very common: Anorexia |
 | Psychiatric disorders | Uncommon: Nervousness, hallucination |

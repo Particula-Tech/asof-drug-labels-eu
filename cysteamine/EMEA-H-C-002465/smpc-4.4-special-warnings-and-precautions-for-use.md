@@ -1,8 +1,6 @@
 # 4.4 Special warnings and precautions for use
 
-Cysteamine therapy must be initiated promptly once the diagnosis is confirmed (i.e., increased WBC cystine) to achieve maximum benefit.
-
-The use of doses higher than 1.9 g/m2/day is not recommended (see section 4.2).
+The use of doses higher than 1.95 g/m2/day is not recommended (see section 4.2).
 
 Oral cysteamine has not been shown to prevent eye deposition of cystine crystals.
 Therefore, where cysteamine ophthalmic solution is used for that purpose, its usage should continue.
@@ -27,7 +25,7 @@ Physicians should remain alert for signs of ulceration and bleeding and should i
 
 GI tract symptoms including nausea, vomiting, anorexia and abdominal pain have been associated with cysteamine.
 
-Strictures of the ileo-caecum and large bowel (fibrosing colonopathy) was first described in cystic fibrosis patients who were given high doses of pancreatic enzymes in the form of tablets with an enteric coating of methacrylic acid- ethyl acrylate copolymer, one of the excipients in PROCYSBI.
+Strictures of the ileo-caecum and large bowel (fibrosing colonopathy) was first described in cystic fibrosis patients who were given high doses of pancreatic enzymes in the form of tablets with an enteric coating of methacrylic acid - ethyl acrylate copolymer (1:1), one of the excipients in PROCYSBI.
 As a precaution, unusual abdominal symptoms or changes in abdominal symptoms should be medically assessed to exclude the possibility of fibrosing colonopathy.
 
 Central Nervous System (CNS)
@@ -35,17 +33,16 @@ Central Nervous System (CNS)
 CNS symptoms such as seizures, lethargy, somnolence, depression, and encephalopathy have been associated with cysteamine.
 If CNS symptoms develop, the patient should be carefully evaluated and the dose adjusted as necessary.
 Patients should not engage in potentially hazardous activities until the effects of cysteamine on mental performance are known (see section 4.7).
-
 Leukopenia and abnormal liver function
 
-Cysteamine has occasionally been associated with reversible leukopenia and abnormal liver function studies.
+Cysteamine has occasionally been associated with reversible leukopenia and abnormal liver function.
 Therefore, blood counts and liver function should be monitored.
+
 Benign intracranial hypertension
 
 There have been reports of benign intracranial hypertension (or pseudotumor cerebri (PTC)) and/or papilledema associated with cysteamine bitartrate treatment that has resolved with the addition of diuretic therapy (post-marketing experience with the immediate-release cysteamine bitartrate).
 Physicians should instruct patients to report any of the following symptoms: headache, tinnitus, dizziness, nausea, diplopia, blurred vision, loss of vision, pain behind the eye or pain with eye movement.
 A periodic eye examination is needed to identify this condition early and timely treatment should be provided when it occurs to prevent vision loss.
 
-Important information about some of the ingredients of PROCYSBI
-
+Important information about some of the excipients of PROCYSBI
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially sodium-free.

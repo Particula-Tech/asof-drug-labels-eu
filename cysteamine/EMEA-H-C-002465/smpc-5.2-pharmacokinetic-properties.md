@@ -13,7 +13,7 @@ The in vitro plasma protein binding of cysteamine, primarily to albumin, is appr
 
 Biotransformation
 
-The elimination of unchanged cysteamine in the urine has been shown to range between 0.3 % and 1.7% of the total daily dose in four patients; the bulk of cysteamine is excreted as sulphate.
+The elimination of unchanged cysteamine in the urine has been shown to range between 0.3% and 1.7% of the total daily dose in four patients; the bulk of cysteamine is excreted as sulphate.
 
 In vitro data suggests that cysteamine bitartrate is likely to be metabolized by multiple CYP enzymes, including CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP2E1.
 CYP2A6 and CYP3A4 were not involved in the metabolism of cysteamine bitartrate under the experimental conditions.
