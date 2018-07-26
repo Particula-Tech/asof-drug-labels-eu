@@ -12,8 +12,7 @@ The majority of patients do not require permanent termination of TRISENOX therap
 As soon as signs and symptoms have subsided, treatment with TRISENOX can be resumed at 50 % of the previous dose during the first 7 days.
 Thereafter, in the absence of worsening of the previous toxicity, TRISENOX might be resumed at full dosage.
 In the case of the reappearance of symptoms TRISENOX should be reduced to the previous dosage.
-In order to prevent the development of the APL differentiation syndrome during induction treatment, prednisone
-(0.5 mg/kg body weight per day throughout induction treatment) may be administered from day 1 of TRISENOX application to the end of induction therapy in APL patients.
+In order to prevent the development of the APL differentiation syndrome during induction treatment, prednisone (0.5 mg/kg body weight per day throughout induction treatment) may be administered from day 1 of TRISENOX application to the end of induction therapy in APL patients.
 It is recommended that chemotherapy not be added to treatment with steroids since there is no experience with administration of both steroids and chemotherapy during treatment of the leukocyte activation syndrome due to TRISENOX.
 Post-marketing experience suggests that a similar syndrome may occur in patients with other types of malignancy.
 Monitoring and management for these patients should be as described above.
@@ -28,7 +27,6 @@ Prolongation of the QTc was observed between 1 and 5 weeks after TRISENOX infusi
 One patient (receiving multiple, concomitant medicinal products, including amphotericin B) had asymptomatic torsade de pointes during induction therapy for relapsed APL with arsenic trioxide.
 In newly diagnosed APL patients 15.6 % showed QTc prolongation with arsenic trioxide in combination with ATRA (see section 4.8).
 In one newly diagnosed patient induction treatment was terminated because of severe prolongation of the QTc interval and electrolyte abnormalities on day 3 of induction treatment.
-
 ECG and electrolyte monitoring recommendations
 Prior to initiating therapy with TRISENOX, a 12-lead ECG must be performed and serum electrolytes (potassium, calcium, and magnesium) and creatinine must be assessed; preexisting electrolyte abnormalities must be corrected and, if possible, medicinal products that are known to prolong the QT interval must be discontinued.
 Patients with risk factors of QTc prolongation or risk factors of torsade de pointes should be monitored with continuous cardiac monitoring (ECG).
@@ -92,3 +90,9 @@ Table 1 Recommendation for initiation of hydroxyurea
 Development of second primary malignancies
 The active ingredient of TRISENOX, arsenic trioxide, is a human carcinogen.
 Monitor patients for the development of second primary malignancies.
+
+Encephalopathy
+Cases of encephalopathy were reported with treatment with arsenic trioxide.
+Wernicke encephalopathy after arsenic trioxide treatment was reported in patients with vitamin B1 deficiency.
+Patients at risk of B1 deficiency should be closely monitored for signs and symptoms of encephalopathy after arsenic trioxide initiation.
+Some cases recovered with vitamin B1 supplementation.

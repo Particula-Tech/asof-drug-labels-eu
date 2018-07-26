@@ -46,7 +46,6 @@ TRISENOX was administered intravenously over 1 to 2 hours until the bone marrow 
 Patients with complete remission received consolidation therapy with TRISENOX for 25 additional doses over a 5 week period.
 Consolidation therapy began 6 weeks (range, 3-8) after induction in the single institution study and 4 weeks (range, 3-6) in the multicentre study.
 Complete remission (CR) was defined as the absence of visible leukaemic cells in the bone marrow and peripheral recovery of platelets and white blood cells.
-
 Patients in the single centre study had relapsed following 1-6 prior therapy regimens and 2 patients had relapsed following stem cell transplantation.
 Patients in the multicentre study had relapsed following 1-4 prior therapy regimens and 5 patients had relapsed following stem cell transplantation.
 The median age in the single centre study was 33 years (age range 9 to 75).
@@ -74,6 +73,7 @@ The Kaplan-Meier median CR duration for the single institution study is 14 month
 At last follow-up, 6 of 12 patients in the single institution study were alive with a median follow-up time of 28 months (range 25 to 29).
 In the multicentre study 27 of 40 patients were alive with a median follow-up time of 16 months (range 9 to 25).
 Kaplan-Meier estimates of 18-month survival for each study are shown below.
+
 100%
 
 80%
@@ -94,24 +94,14 @@ Multicenter Study 40 13 66%
 Months
 
 Cytogenetic confirmation of conversion to a normal genotype and reverse transcriptase - polymerase chain reaction (RT-PCR) detection of PML/RARα conversion to normal are shown in table 5 below.
-
 Cytogenetics after TRISENOX therapy
 
 Table 5
 
-Single centre pilot trial Multicentre trial
-N with CR = 11 N with CR = 34
-Conventional
-Cytogenetics
-[t(15;17)]
-Absent 8 (73%) 31 (91%)
-Present 1 (9%) 0%
-Not evaluable 2 (18%) 3 (9%)
-RT-PCR for PML/
-RARα
-Negative 8 (73%) 27 (79%)
-Positive 3 (27%) 4 (12%)
-Not evaluable 0 3 (9%)
+|  | Single centre pilot trial N with CR = 11 | Multicentre trial N with CR = 34 |
+| --- | --- | --- |
+| Conventional Cytogenetics [t(15;17)] Absent Present Not evaluable | 8 (73%) 1 (9%) 2 (18%) | 31 (91%) 0% 3 (9%) |
+| RT-PCR for PML/ RARα Negative Positive Not evaluable | 8 (73%) 3 (27%) 0 | 27 (79%) 4 (12%) 3 (9%) |
 
 Responses were seen across all age groups tested, ranging from 6 to 75 years.
 The response rate was similar for both genders.

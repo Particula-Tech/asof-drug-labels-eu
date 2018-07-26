@@ -8,6 +8,7 @@ Leukocytosis occurred in 50% of patients with relapsed/refractory APL, as determ
 
 Serious adverse reactions were common (1-10%) and not unexpected in the relapsed/refractory population.
 Those serious adverse reactions attributed to arsenic trioxide included APL differentiation syndrome (3), leukocytosis (3), prolonged QT interval (4, 1 with torsade de pointes), atrial fibrillation/atrial flutter (1), hyperglycaemia (2) and a variety of serious adverse reactions related to haemorrhage, infections, pain, diarrhoea, nausea.
+
 In general, treatment-emergent adverse events tended to decrease over time, in relapsed/refractory APL patients perhaps accounted for by amelioration of the underlying disease process.
 Patients tended to tolerate consolidation and maintenance treatment with less toxicity than in induction.
 This is probably due to the confounding of adverse events by the uncontrolled disease process early on in the treatment course and the myriad concomitant medicinal products required to control symptoms and morbidity.
@@ -64,7 +65,9 @@ Paraesthesia Very Common Common
 Dizziness Very Common Not known
 Headache Very Common Not known
 Convulsion Common Not known
+Encephalopathy, Wernicke Not known Not known
 
+encephalopathy
 Eye disorders
 
 Vision blurred Common Not known
@@ -141,7 +144,7 @@ Description of selected adverse reactions
 
 Differentiation syndrome
 During TRISENOX treatment, 14 of the 52 patients in the APL studies in the relapsed setting had one or more symptoms of APL differentiation syndrome, characterised by fever, dyspnoea, weight gain, pulmonary infiltrates and pleural or pericardial effusions, with or without leukocytosis (see section 4.4).
-Twenty-seven patients had leukocytosis (WBC ≥ 10 x 103/μl) during induction, 4 of whom had values above 100,000/μl.
+Twenty-seven patients had leukocytosis (WBC ≥ 10 x 103/µl) during induction, 4 of whom had values above 100,000/µl.
 Baseline white blood cell (WBC) counts did not correlate with development of leukocytosis on study, and WBC counts during consolidation therapy were not as high as during induction.
 In these studies, leukocytosis was not treated with chemotherapeutic medicinal products.
 Medicinal products that are used to lower the white blood cell count often exacerbate the toxicities associated with leukocytosis, and no standard approach has proven effective.
