@@ -16,7 +16,6 @@ A risk to the newborns/infants cannot be excluded.
 Therefore, Tybost should not be used during breast-feeding.
 
 In order to avoid transmission of HIV to the infant it is recommended that HIV infected women do not breast-feed their infants under any circumstances.
-
 Fertility
 
 No human data on the effect of cobicistat on fertility are available.

@@ -8,7 +8,6 @@ Therefore, Tybost should not be co-administered with medicinal products that inc
 - alpha 1-adrenoreceptor antagonists: alfuzosin
 - antiarrhythmics: amiodarone, quinidine
 - ergot derivatives: dihydroergotamine, ergometrine, ergotamine
-- gastrointestinal motility agents: cisapride
 - HMG Co-A reductase inhibitors: lovastatin, simvastatin
 - neuroleptics/antipsychotics: pimozide, lurasidone
 - PDE-5 inhibitors: sildenafil for treatment of pulmonary arterial hypertension

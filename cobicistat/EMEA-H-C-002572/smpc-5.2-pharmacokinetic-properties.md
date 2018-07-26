@@ -52,7 +52,7 @@ Hepatic impairment
 
 Cobicistat is primarily metabolised and eliminated by the liver.
 A study of the pharmacokinetics of cobicistat was performed in non-HIV-1 infected subjects with moderate hepatic impairment (Child-Pugh Class B). No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with moderate impairment and healthy subjects.
-No dose adjustment of Tybost is necessary for patients with mild to moderate hepatic impairment.
+No dose adjustment of cobicistat is necessary for patients with mild to moderate hepatic impairment.
 The effect of severe hepatic impairment (Child-Pugh Class C) on the pharmacokinetics of cobicistat has not been studied.
 
 Hepatitis B and/or hepatitis C virus co-infection

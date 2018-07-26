@@ -38,6 +38,7 @@ Cobicistat has no detectable antiviral activity against HIV-1, HBV or HCV and do
 Clinical experience
 
 Antiviral efficacy data from randomised controlled studies is available for cobicistat-boosted atazanavir, but not for cobicistat-boosted darunavir (see sections 4.4 and 5.2).
+
 In treatment-naïve HIV-1 infected patients
 The safety and efficacy of cobicistat with atazanavir in HIV-1 infected patients were evaluated in the randomised, double-blind, active-controlled phase 3 Study GS-US-216-0114 in HIV-1 infected patients with baseline estimated creatinine clearance above 70 ml/min who were treatment-naïve
 (n = 692).
@@ -81,7 +82,7 @@ Table 6: Demographic and baseline disease characteristics of antiretroviral trea
 | ≤ 200 cells/mm3 |  |  |
 
 a Plus background regimen of emtricitabine 200 mg and tenofovir disoproxil fumarate 300 mg fixed-dose combination
-Table 7: Virologic outcome of randomised treatment of Study GS-US-216-0114 at weeks 48 and
+Table 7: Virologic outcome of randomised treatment of Study GS-US-216-0114 at weeks 48 and 144
 
 |  | Week 48a |  | Week 144b |  |
 | --- | --- | --- | --- | --- |
@@ -93,18 +94,18 @@ Table 7: Virologic outcome of randomised treatment of Study GS-US-216-0114 at we
 | HIV-1 RNA < 50 copies/ml |  |  |  |  |
 | Treatment difference | -2.2% (95% CI = -7.4%, 3.0%) |  | -2.1% (95% CI = -8.7%, 4.5%) |  |
 | Virologic failurec | 6% | 4% | 8% | 5% |
-| No virologic data in week 48 |  |  |  |  |
+| No virologic data in week 48 or 144 |  |  |  |  |
 |  | 9% | 9% | 20% | 21% |
-| or 144 window |  |  |  |  |
-| Discontinued study drug due to |  |  |  |  |
+| window |  |  |  |  |
+| Discontinued study drug due to AE |  |  |  |  |
 |  | 6% | 7% | 11% | 11% |
-| AE or deathd |  |  |  |  |
-| Discontinued study drug due to |  |  |  |  |
-| other reasons and last available | 3% | 2% | 8% | 10% |
+| or deathd |  |  |  |  |
+| Discontinued study drug due to other |  |  |  |  |
+| reasons and last available | 3% | 2% | 8% | 10% |
 | HIV-1 RNA < 50 copies/mle |  |  |  |  |
-| Missing data during window but |  |  |  |  |
+| Missing data during window but on |  |  |  |  |
 |  | 0% | 0% | < 1% | < 1% |
-| on study drug |  |  |  |  |
+| study drug |  |  |  |  |
 
 a Week 48 window is between day 309 and 378 (inclusive) b Week 144 window is between day 967 and 1,050 (inclusive) c Includes subjects who had ≥ 50 copies/ml in the week 48 or 144 windows; subjects who discontinued early due to lack or loss of efficacy; subjects who discontinued for reasons other than an adverse event, death or lack or loss of efficacy, and at the time of discontinuation had a viral value of ≥ 50 copies/ml.
 d Includes patients who discontinued due to adverse event (AE) or death at any time point from day 1 through the time window if this resulted in no virologic data on treatment during the specified window.
