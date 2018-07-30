@@ -1,7 +1,6 @@
 # 4.4 Special warnings and precautions for use
 
 Intravitreal injection-related reactions
-
 Intravitreal injections, including those with Eylea, have been associated with endophthalmitis, intraocular inflammation, rhegmatogenous retinal detachment, retinal tear and iatrogenic traumatic cataract (see section 4.8).
 Proper aseptic injection techniques must always be used when administering Eylea.
 In addition, patients should be monitored during the week following the injection to permit early treatment if an infection occurs.

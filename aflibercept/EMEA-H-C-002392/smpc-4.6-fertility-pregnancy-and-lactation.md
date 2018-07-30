@@ -12,9 +12,9 @@ Although the systemic exposure after ocular administration is very low, Eylea sh
 Breast-feeding
 It is unknown whether aflibercept is excreted in human milk.
 A risk to the breast-fed child cannot be excluded.
+
 Eylea is not recommended during breast-feeding.
 A decision must be made whether to discontinue breast-feeding or to abstain from Eylea therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
-
 Fertility
 Results from animal studies with high systemic exposure indicate that aflibercept can impair male and female fertility (see section 5.3).
 Such effects are not expected after ocular administration with very low systemic exposure.

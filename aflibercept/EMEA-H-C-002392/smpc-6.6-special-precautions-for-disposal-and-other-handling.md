@@ -1,6 +1,6 @@
 # 6.6 Special precautions for disposal and other handling
 
-The pre-filled syringe is for single use only.
+The pre-filled syringe is for single use in one eye only.
 Do not open the sterile pre-filled blister outside the clean administration room.
 
 Since the pre-filled syringe contains more volume (90 microlitres) than the recommended dose
@@ -28,21 +28,21 @@ To avoid compromising the sterility of the product, do not pull back on the plun
 5.
 Using aseptic technique, firmly twist the injection needle onto the Luer-lock syringe tip.
 
-.
 6.
 Holding the syringe with the needle pointing up, check the syringe for bubbles.
 If there are bubbles, gently tap the syringe with your finger until the bubbles rise to the top.
 
 7.
-To eliminate all bubbles and to expel excess medicinal product, slowly depress the plunger to align the cylindrical base of the dome plunger with the black dosing line on the syringe (equivalent to 50 microlitres).
+Eliminate all bubbles and expel excess medicinal product by slowly depressing the plunger to align the cylindrical base of the dome plunger with the black dosing line on the syringe (equivalent to 50 microlitres).
 
 8.
 The pre-filled syringe is for single use only.
+Extraction of multiple doses from a pre-filled syringe may increase the risk of contamination and subsequent infection.
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 [Eylea 40 mg/ml solution for injection in a vial.]
 
-The vial is for single use only.
+The vial is for single use in one eye only.
 Since the vial contains more volume (100 microlitres) than the recommended dose (50 microlitres), a part of the volume contained in the vial has to be discarded prior to the administration.
 
 Instructions for use of vial:
@@ -60,9 +60,11 @@ Ensure that the plunger rod is drawn sufficiently back when emptying the vial in
 Remove the filter needle and properly dispose of it.
 Note: Filter needle is not to be used for intravitreal injection.
 
-Using aseptic technique, firmly twist a 30 G x ½ inch injection needle to the Luer-lock syringe tip.
+Using aseptic technique, firmly twist a 30 G x ½ inch injection needle onto the Luer-lock syringe tip.
 
 9.
 Eliminate all bubbles and expel excess medicinal product by slowly depressing the plunger so that the plunger tip aligns with the line that marks 0.05 ml on the syringe.
 
 10.
+The vial is for single use only.
+Extraction of multiple doses from a single vial may increase the risk of contamination and subsequent infection.

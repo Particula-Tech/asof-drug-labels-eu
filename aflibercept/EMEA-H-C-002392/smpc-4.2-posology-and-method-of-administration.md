@@ -9,13 +9,16 @@ Posology
 wet AMD
 
 The recommended dose for Eylea is 2 mg aflibercept, equivalent to 50 microlitres.
-Eylea treatment is initiated with one injection per month for three consecutive doses, followed by one injection every two months.
+
+Eylea treatment is initiated with one injection per month for three consecutive doses.
+The treatment interval is then extended to two months.
+
+Based on the physician’s judgement of visual and/or anatomic outcomes, the treatment interval may be maintained at two months or further extended using a treat-and-extend dosing regimen, where injection intervals are increased in 2- or 4-weekly increments to maintain stable visual and/or anatomic outcomes.
+If visual and/or anatomic outcomes deteriorate, the treatment interval should be shortened accordingly to a minimum of two months during the first 12 months of treatment.
+
 There is no requirement for monitoring between injections.
-
-After the first 12 months of treatment with Eylea, and based on visual and/or anatomic outcomes, the treatment interval may be extended, such as with a treat-and-extend dosing regimen, where the treatment intervals are gradually increased to maintain stable visual and/or anatomic outcomes; however there are insufficient data to conclude on the length of these intervals.
-If visual and/or anatomic outcomes deteriorate, the treatment interval should be shortened accordingly.
-
-The schedule for monitoring should therefore be determined by the treating physician and may be more frequent than the schedule of injections.
+Based on the physician’s judgement the schedule of monitoring visits may be more frequent than the injection visits.
+Treatment intervals greater than four months between injections have not been studied (see Section 5.1).
 
 Macular oedema secondary to RVO (branch RVO or central RVO)
 
@@ -50,8 +53,8 @@ The schedule for monitoring should therefore be determined by the treating physi
 If visual and anatomic outcomes indicate that the patient is not benefiting from continued treatment, Eylea should be discontinued.
 
 Myopic choroidal neovascularisation
-The recommended dose for Eylea is a single intravitreal injection of 2 mg aflibercept equivalent to 50 microlitres.
 
+The recommended dose for Eylea is a single intravitreal injection of 2 mg aflibercept equivalent to 50 microlitres.
 Additional doses may be administered if visual and/or anatomic outcomes indicate that the disease persists.
 Recurrences should be treated as a new manifestation of the disease.
 
@@ -90,6 +93,7 @@ If required, sterile equipment for paracentesis should be available.
 Following intravitreal injection patients should be instructed to report any symptoms suggestive of endophthalmitis (e.g. eye pain, redness of the eye, photophobia, blurring of vision) without delay.
 
 Each pre-filled syringe should only be used for the treatment of a single eye.
+Extraction of multiple doses from a pre-filled syringe may increase the risk of contamination and subsequent infection.
 
 The pre-filled syringe contains more than the recommended dose of 2 mg aflibercept.
 The extractable volume of the syringe (90 microlitres) is not to be used in total.
@@ -97,14 +101,16 @@ The excess volume should be expelled before injecting.
 
 Injecting the entire volume of the prefilled syringe could result in overdose.
 To expel the air bubble along with excess medicinal product, slowly depress the plunger to align the cylindrical base of the dome plunger with the black dosing line on the syringe (equivalent to 50 microlitres i.e. 2 mg aflibercept).
-After injection any unused product must be discarded.
 
+After injection any unused product must be discarded.
 For handling of the medicinal product before administration, see section 6.6.
 
 [Eylea 40 mg/ml solution for injection in a vial.]
 
 Each vial should only be used for the treatment of a single eye.
+Extraction of multiple doses from a single vial may increase the risk of contamination and subsequent infection.
 
 The vial contains more than the recommended dose of 2 mg aflibercept.
 The extractable volume of the vial (100 microlitres) is not to be used in total.
+
 Injecting the entire volume of the vial could result in overdose.
