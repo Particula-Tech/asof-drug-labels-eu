@@ -33,7 +33,8 @@ HALAVEN
 0.5 (TPC) Nominal P value 0.014b
 
 (log rank)
-0.4 aCox proportional hazard bStratified by geographic region, HER2/neu status, 0.3 and prior capecitabine therapy.
+0.4 aCox proportional hazard bStratified by geographic region, HER2/neu status,
+0.3 and prior capecitabine therapy.
 0.2
 0.1
 0.0

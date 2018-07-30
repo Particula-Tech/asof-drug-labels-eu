@@ -2,7 +2,7 @@
 
 Unopened vials
 
-4 years.
+5 years.
 
 In-use shelf life
 
