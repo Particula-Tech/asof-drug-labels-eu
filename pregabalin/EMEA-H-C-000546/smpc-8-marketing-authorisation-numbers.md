@@ -30,10 +30,10 @@ EU/1/04/279/040
 Lyrica 200 mg hard capsules
 EU/1/04/279/020 – 022
 EU/1/04/279/041
+
 Lyrica 225 mg hard capsules
 EU/1/04/279/033 – 035
 EU/1/04/279/042
-
 Lyrica 300 mg hard capsules
 EU/1/04/279/023 – 025
 EU/1/04/279/029
