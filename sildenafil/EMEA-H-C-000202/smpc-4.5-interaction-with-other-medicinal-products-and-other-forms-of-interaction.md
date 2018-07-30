@@ -16,7 +16,8 @@ This is consistent with ritonavir’s marked effects on a broad range of P450 su
 Sildenafil had no effect on ritonavir pharmacokinetics.
 Based on these pharmacokinetic results co-administration of sildenafil with ritonavir is not advised (see section 4.4) and in any event the maximum dose of sildenafil should under no circumstances exceed 25 mg within 48 hours.
 
-Co-administration of the HIV protease inhibitor saquinavir, a CYP3A4 inhibitor, at steady state (1200 mg three times a day) with sildenafil (100 mg single dose) resulted in a 140% increase in sildenafil Cmax and a 210% increase in sildenafil AUC.
+Co-administration of the HIV protease inhibitor saquinavir, a CYP3A4 inhibitor, at steady state
+(1200 mg three times a day) with sildenafil (100 mg single dose) resulted in a 140% increase in sildenafil Cmax and a 210% increase in sildenafil AUC.
 Sildenafil had no effect on saquinavir pharmacokinetics (see section 4.2).
 Stronger CYP3A4 inhibitors such as ketoconazole and itraconazole would be expected to have greater effects.
 
@@ -40,11 +41,11 @@ Effects of sildenafil on other medicinal products
 In vitro studies
 Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 > 150 μM).
 Given sildenafil peak plasma concentrations of approximately 1 μM after recommended doses, it is unlikely that VIAGRA will alter the clearance of substrates of these isoenzymes.
+
 There are no data on the interaction of sildenafil and non-specific phosphodiesterase inhibitors such as theophylline or dipyridamole.
 
 In vivo studies
 Consistent with its known effects on the nitric oxide/cGMP pathway (see section 5.1), sildenafil was shown to potentiate the hypotensive effects of nitrates, and its co-administration with nitric oxide donors or nitrates in any form is therefore contraindicated (see section 4.3).
-
 Riociguat: Preclinical studies showed additive systemic blood pressure lowering effect when PDE5 inhibitors were combined with riociguat.
 In clinical studies, riociguat has been shown to augment the hypotensive effects of PDE5 inhibitors.
 There was no evidence of favourable clinical effect of the combination in the population studied.

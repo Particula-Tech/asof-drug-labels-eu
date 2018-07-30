@@ -25,11 +25,11 @@ In the event of an erection that persists longer than 4 hours, the patient shoul
 If priapism is not treated immediately, penile tissue damage and permanent loss of potency could result.
 
 Concomitant use with other PDE5 inhibitors or other treatments for erectile dysfunction
+
 The safety and efficacy of combinations of sildenafil with other PDE5 Inhibitors, or other pulmonary arterial hypertension (PAH) treatments containing sildenafil (REVATIO), or other treatments for erectile dysfunction have not been studied.
 Therefore the use of such combinations is not recommended.
 
 Effects on vision
-
 Cases of visual defects have been reported spontaneously in connection with the intake of sildenafil and other PDE5 inhibitors (see section 4.8).
 Cases of non-arteritic anterior ischaemic optic neuropathy, a rare condition, have been reported spontaneously and in an observational study in connection with the intake of sildenafil and other PDE5 inhibitors (see section 4.8).
 Patients should be advised that in the event of any sudden visual defect, they should stop taking VIAGRA and consult a physician immediately (see section 4.3).

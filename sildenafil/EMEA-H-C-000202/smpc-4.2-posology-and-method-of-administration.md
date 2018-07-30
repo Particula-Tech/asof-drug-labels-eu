@@ -1,6 +1,7 @@
 # 4.2 Posology and method of administration
 
 Posology
+
 Use in adults
 The recommended dose is 50 mg taken as needed approximately one hour before sexual activity.
 Based on efficacy and tolerability, the dose may be increased to 100 mg or decreased to 25 mg.
@@ -11,7 +12,7 @@ If VIAGRA is taken with food, the onset of activity may be delayed compared to t
 Special populations
 
 Elderly
-Dosage adjustments are not required in elderly patients (≥65 years old).
+Dosage adjustments are not required in elderly patients (≥ 65 years old).
 
 Renal impairment
 The dosing recommendations described in ‘Use in adults’ apply to patients with mild to moderate renal impairment (creatinine clearance = 30-80 mL/min).
