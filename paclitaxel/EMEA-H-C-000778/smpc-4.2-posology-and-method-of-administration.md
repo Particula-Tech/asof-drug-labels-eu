@@ -61,7 +61,7 @@ Table 3: Dose modifications for other adverse drug reactions in patients with pa
 | Cutaneous Toxicity: Grade 2 or 3 | Reduce to next lower dose levela; discontinue treatment if ADR persists |  |
 | Gastrointestinal Toxicity: Grade 3 mucositis or diarrhoea | Withhold doses until improves to ≤ Grade 1; resume at next lower dose levela |  |
 
-aSee Table 1 for dose level reductions
+a. See Table 1 for dose level reductions
 
 Non-small cell lung cancer:
 The recommended dose of Abraxane is 100 mg/m2 administered as an intravenous infusion over 30 minutes on Days 1, 8 and 15 of each 21-day cycle.

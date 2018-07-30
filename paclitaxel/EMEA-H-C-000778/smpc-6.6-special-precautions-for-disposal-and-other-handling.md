@@ -39,10 +39,10 @@ The exact total dosing volume of 5 mg/ml suspension required for the patient sho
 The use of medical devices containing silicone oil as a lubricant (i.e. syringes and IV bags) to reconstitute and administer Abraxane may result in the formation of proteinaceous strands.
 Administer Abraxane using an infusion set incorporating a 15 µm filter to avoid administration of these strands.
 Use of a 15 µm filter removes strands and does not change the physical or chemical properties of the reconstituted product.
-
 Use of filters with a pore size less than 15 µm may result in blockage of the filter.
 
 The use of specialized di(2-ethylhexyl)phthalate (DEHP)-free solution containers or administration sets is not necessary to prepare or administer Abraxane infusions.
+
 Following administration, it is recommended that the intravenous line be flushed with sodium chloride 9 mg/ml (0.9%) solution for injection to ensure administration of the complete dose.
 
 Any unused product or waste material should be disposed of in accordance with local requirements.

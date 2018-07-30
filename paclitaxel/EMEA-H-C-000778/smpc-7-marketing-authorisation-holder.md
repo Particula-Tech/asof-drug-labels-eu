@@ -1,8 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Celgene Europe Limited
-1 Longwalk Road
-Stockley Park
-Uxbridge
-UB11 1DB
-United Kingdom
+Celgene Europe BV
+Winthontlaan 6 N
+3526KV Utrecht
+Netherlands

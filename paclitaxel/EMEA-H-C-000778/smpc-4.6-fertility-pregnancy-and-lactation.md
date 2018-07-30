@@ -8,6 +8,7 @@ Pregnancy
 There are very limited data on the use of paclitaxel in human pregnancy.
 Paclitaxel is suspected to cause serious birth defects when administered during pregnancy.
 Studies in animals have shown reproductive toxicity (see section 5.3).
+Women of childbearing potential should have a pregnancy test prior to starting treatment with Abraxane.
 Abraxane should not be used in pregnancy, and in women of childbearing potential not using effective contraception, unless the clinical condition of the mother requires treatment with paclitaxel.
 
 Breast-feeding

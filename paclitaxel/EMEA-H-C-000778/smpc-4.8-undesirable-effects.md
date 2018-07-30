@@ -182,6 +182,8 @@ Cranial nerve palsies, vocal cord paresis, and rare reports of severe hypersensi
 There have been rare reports of reduced visual acuity due to cystoid macular oedema during treatment with Abraxane.
 Upon diagnosis of cystoid macular oedema, treatment with Abraxane should be discontinued.
 
+There have been reports of tumour lysis syndrome during treatment with Abraxane.
+
 In some patients previously exposed to capecitabine, reports of palmar-plantar erythrodysaesthesiae have been reported as part of the continuing surveillance of Abraxane.
 Because these events have been reported voluntarily during clinical practice, true estimates of frequency cannot be made and a causal relationship to the events has not been established.
 

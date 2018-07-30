@@ -4,10 +4,14 @@ Unopened vials
 3 years
 
 Stability of reconstituted suspension in the vial
-After first reconstitution, the suspension should be filled into an infusion bag immediately.
-However, chemical and physical in use stability has been demonstrated for 8 hours at 2°C-8°C in the original carton, and protected from bright light.
-Alternative light-protection may be used in the clean room.
+Chemical and physical in-use stability has been demonstrated for 24 hours at 2°C-8°C in the original carton, protected from light.
 
 Stability of the reconstituted suspension in the infusion bag
-After reconstitution, the reconstituted suspension in the infusion bag should be used immediately.
-However chemical and physical in use stability has been demonstrated for 8 hours not above 25°C.
+Chemical and physical in-use stability has been demonstrated for 24 hours at 2°C-8°C followed by 4 hours at 25°C, protected from light.
+
+However, from a microbiological point of view, unless the method of reconstituting and filling of the infusion bags precludes the risks of microbial contamination, the product should be used immediately after reconstitution and filling of the infusion bags.
+
+If not used immediately, in-use storage times and conditions are the responsibility of the user.
+
+The total combined storage time of reconstituted medicinal product in the vial and in the infusion bag when refrigerated and protected from light is 24 hours.
+This may be followed by storage in the infusion bag for 4 hours below 25°C.
