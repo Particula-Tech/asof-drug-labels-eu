@@ -44,9 +44,8 @@ Hepatic impairment
 Due to the absence of significant hepatic metabolism, varenicline pharmacokinetics should be unaffected in patients with hepatic impairment (see section 4.2).
 
 Renal impairment
-Varenicline pharmacokinetics were unchanged in subjects with mild renal impairment (estimated creatinine clearance > 50 ml/min and ≤80 ml/min).
-In patients with moderate renal impairment (estimated creatinine clearance ≥30 ml/min and ≤50 ml/min), varenicline exposure increased 1.5-fold compared with subjects with normal renal function (estimated creatinine clearance
-> 80 ml/min).
+Varenicline pharmacokinetics were unchanged in subjects with mild renal impairment (estimated creatinine clearance > 50 ml/min and ≤ 80 ml/min).
+In patients with moderate renal impairment (estimated creatinine clearance ≥ 30 ml/min and ≤ 50 ml/min), varenicline exposure increased 1.5-fold compared with subjects with normal renal function (estimated creatinine clearance > 80 ml/min).
 In subjects with severe renal impairment (estimated creatinine clearance < 30 ml/min), varenicline exposure was increased 2.1-fold.
 In subjects with end-stage-renal disease (ESRD), varenicline was efficiently removed by haemodialysis (see section 4.2).
 Elderly
@@ -56,7 +55,7 @@ For elderly patients with reduced renal function please refer to section 4.2.
 Paediatric population
 Single and multiple-dose pharmacokinetics of varenicline have been investigated in paediatric patients aged 12 to 17 years old (inclusive) and were approximately dose-proportional over the 0.5 mg to 2 mg daily dose range studied.
 Steady-state systemic exposure in adolescent patients of bodyweight > 55 kg, as assessed by AUC (0-24), was comparable to that noted for the same doses in the adult population.
-When 0.5 mg twice daily was given, steady-state daily exposure of varenicline was, on average, higher (by approximately 40%) in adolescent patients with bodyweight ≤55 kg compared to that noted in the adult population.
+When 0.5 mg twice daily was given, steady-state daily exposure of varenicline was, on average, higher (by approximately 40%) in adolescent patients with bodyweight ≤ 55 kg compared to that noted in the adult population.
 Efficacy and safety has not been demonstrated in the paediatric population below 18 years of age and no recommendation on a posology can be made (see section 4.2).
 
 [CHAMPIX 1 mg film-coated tablets]
@@ -64,9 +63,6 @@ Efficacy and safety has not been demonstrated in the paediatric population below
 Due to the absence of significant hepatic metabolism, varenicline pharmacokinetics should be unaffected in patients with hepatic impairment.
 (see section 4.2).
 
-Steady-state systemic exposure in adolescent patients of bodyweight
-> 55 kg, as assessed by AUC (0-24), was comparable to that noted for the same doses in the adult population.
-
 [CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
 
-In patients with moderate renal impairment (estimated creatinine clearance ≥30 ml/min and ≤50 ml/min), varenicline exposure increased 1.5-fold compared with subjects with normal renal function (estimated creatinine clearance > 80 ml/min).
+(all sentences already above)

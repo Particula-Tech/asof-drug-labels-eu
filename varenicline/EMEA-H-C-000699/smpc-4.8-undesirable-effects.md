@@ -12,7 +12,7 @@ In the majority of cases nausea occurred early in the treatment period, was mild
 
 Tabulated summary of adverse reactions
 
-In the table below all adverse reactions, which occurred at an incidence greater than placebo are listed by system organ class and frequency (very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100) and rare (≥1/10,000 to < 1/1,000)).
+In the table below all adverse reactions, which occurred at an incidence greater than placebo are listed by system organ class and frequency (very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100) and rare (≥ 1/10,000 to < 1/1,000)).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 System Organ Adverse Drug Reactions

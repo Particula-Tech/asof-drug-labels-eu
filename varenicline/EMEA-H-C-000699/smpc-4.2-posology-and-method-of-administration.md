@@ -30,7 +30,7 @@ No dosage adjustment is necessary for elderly patients (see section 5.2).
 Because elderly patients are more likely to have decreased renal function, prescribers should consider the renal status of an elderly patient.
 
 Renal impairment
-No dosage adjustment is necessary for patients with mild (estimated creatinine clearance > 50 ml/min and ≤80 ml/min) to moderate (estimated creatinine clearance ≥30 ml/min and ≤50 ml/min) renal impairment.
+No dosage adjustment is necessary for patients with mild (estimated creatinine clearance > 50 ml/min and ≤ 80 ml/min) to moderate (estimated creatinine clearance ≥ 30 ml/min and ≤ 50 ml/min) renal impairment.
 
 For patients with moderate renal impairment who experience adverse reactions that are not tolerable, dosing may be reduced to 1 mg once daily.
 
