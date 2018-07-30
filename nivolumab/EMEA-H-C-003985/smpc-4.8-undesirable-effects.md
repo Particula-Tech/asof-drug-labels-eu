@@ -1,6 +1,8 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
+
+Nivolumab used as monotherapy or in combination with ipilimumab
 In the pooled dataset of nivolumab 3 mg/kg as monotherapy across tumour types (n = 2578) with minimum follow-up ranging from 2.3 to 28 months, the most frequent adverse reactions (≥ 10%) were fatigue (30%), rash (17%), pruritus (13%), diarrhoea (13%), and nausea (12%).
 The majority of adverse reactions were mild to moderate (Grade 1 or 2).
 With a minimum of 24 months follow-up in NSCLC, no new safety signals were identified.
@@ -11,6 +13,11 @@ The majority of adverse reactions were mild to moderate (Grade 1 or 2).
 
 Among the patients treated with nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg in CA209067, 154/313 (49%) had the first onset of Grade 3 or 4 adverse reactions during the initial combination phase.
 Among the 147 patients in this group who continued treatment in the single-agent phase, 47 (32%) experienced at least one Grade 3 or 4 adverse reaction during the single-agent phase.
+
+Nivolumab used as monotherapy for adjuvant treatment of melanoma
+In the dataset of nivolumab 3 mg/kg as monotherapy for the adjuvant treatment of melanoma
+(n = 452), the most frequent adverse reactions (≥ 10%) were fatigue (46%), rash (29%), diarrhoea (24%), pruritus (23%), nausea (15%), arthralgia (13%), musculoskeletal pain (11%), and hypothyroidism (11%).
+The majority of adverse reactions were mild to moderate (Grade 1 or 2).
 
 Tabulated summary of adverse reactions
 Adverse reactions reported in the pooled dataset for patients treated with nivolumab monotherapy
@@ -39,7 +46,7 @@ Common infusion related reactionc, infusion related reaction,
 hypersensitivityc hypersensitivity
 Uncommon sarcoidosis
 Rare anaphylactic reactionc
-Not known solid organ transplant rejection solid organ transplant rejection
+Not known solid organ transplant rejectionh solid organ transplant rejectionh
 Endocrine disorders
 Very common hypothyroidism
 Common hypothyroidism, hyperthyroidism adrenal insufficiency, hypopituitarism,
@@ -156,6 +163,8 @@ g Musculoskeletal pain is a composite term which includes back pain, bone pain, 
 h Post-marketing event (also see section 4.4).
 i Reported in clinical studies and in the post-marketing setting.
 
+The overall safety profile of nivolumab 3 mg/kg for the adjuvant treatment of melanoma (n = 452) was consistent with that established across tumour types for nivolumab monotherapy.
+
 Description of selected adverse reactions
 Nivolumab or nivolumab in combination with ipilimumab is associated with immune-related adverse reactions.
 With appropriate medical therapy, immune-related adverse reactions resolved in most cases.
@@ -218,7 +227,6 @@ Grade 2, Grade 3, and Grade 4 cases were reported in 1.6% (7/448), 0.9% (4/448),
 No Grade 5 cases were reported.
 Median time to onset was 2.6 months (range: 0.5-21.8).
 Resolution occurred in 21 patients (91.3%) with a median time to resolution of 2.1 weeks (range: 0.1- 125.1+).
-
 Immune-related endocrinopathies
 In patients treated with nivolumab monotherapy, the incidence of thyroid disorders, including hypothyroidism or hyperthyroidism, was 9.6% (248/2578).
 The majority of cases were Grade 1 or 2 in severity reported in 4.2% (107/2578) and 5.4% (139/2578) of patients, respectively.
@@ -266,12 +274,14 @@ Grade 2 cases were reported in 2.2% (10/448) of patients.
 No Grade 3-5 cases were reported.
 
 Complications of allogeneic HSCT in classical Hodgkin Lymphoma
+Rapid onset of GVHD has been reported with nivolumab use before and after allogeneic HSCT (see section 4.4).
 In 49 evaluated patients from two cHL studies who underwent allogeneic HSCT after discontinuing nivolumab monotherapy, Grade 3 or 4 acute GVHD was reported in 13/49 patients (26.5%).
 Hyperacute GVHD, defined as acute GVHD occurring within 14 days after stem cell infusion, was reported in three patients (6%).
 A steroid-requiring febrile syndrome, without an identified infectious cause, was reported in six patients (12%) within the first 6 weeks post-transplantation, with three patients responding to steroids.
 Hepatic veno-occlusive disease occurred in one patient, who died of GVHD and multi-organ failure.
 Nine of 49 patients (18.4%) died from complications of allogeneic HSCT after nivolumab.
 The 49 patients had a median follow-up from subsequent allogeneic HSCT of 5.6 months (range: 0-19 months).
+
 Laboratory abnormalities
 In patients treated with nivolumab monotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 5.2% for anaemia (all
 Grade 3), 1.0% for thrombocytopaenia, 1.0% for leucopoenia, 10.0% for lymphopaenia, 1.1% for neutropaenia, 2.1% for increased alkaline phosphatase, 2.7% for increased AST, 2.2% for increased ALT, 1.2% for increased total bilirubin, 0.9% for increased creatinine, 3.8% for hyperglycaemia, 1.0% for hypoglycaemia, 3.5% for increased amylase, 7.9% for increased lipase, 6.4% for hyponatraemia, 1.8% for hyperkalaemia, 1.5% for hypokalaemia, 1.2% for hypercalcaemia, 0.7% for hypermagnesaemia, 0.5% for hypomagnesaemia, 0.7% for hypocalcaemia, and 0.1% for hypernatraemia.
@@ -289,7 +299,7 @@ Although the clearance of nivolumab was increased by 24% when anti-nivolumab-ant
 Elderly
 No overall differences in safety were reported between elderly (≥ 65 years) and younger patients
 (< 65 years).
-Data from NSCLC and SCCHN patients 75 years of age or older are too limited to draw conclusions on this population (see section 5.1).
+Data from NSCLC, SCCHN, and adjuvant melanoma patients 75 years of age or older are too limited to draw conclusions on this population (see section 5.1).
 Data from cHL patients 65 years of age or older are too limited to draw conclusions on this population (see section 5.1).
 
 Hepatic or renal impairment

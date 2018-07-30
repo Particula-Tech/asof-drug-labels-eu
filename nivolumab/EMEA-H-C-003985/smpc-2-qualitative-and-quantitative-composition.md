@@ -3,6 +3,7 @@
 Each mL of concentrate contains 10 mg of nivolumab.
 One vial of 4 mL contains 40 mg of nivolumab.
 One vial of 10 mL contains 100 mg of nivolumab.
+One vial of 24 mL contains 240 mg of nivolumab.
 
 Nivolumab is produced in Chinese hamster ovary cells by recombinant DNA technology.
 

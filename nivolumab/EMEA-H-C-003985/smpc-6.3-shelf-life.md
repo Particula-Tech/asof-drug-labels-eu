@@ -1,7 +1,8 @@
 # 6.3 Shelf life
 
 Unopened vial
-3 years.
+40 mg/4 mL and 100 mg/10 mL vials: 3 years
+240 mg/24 mL vial: 2 years
 
 After opening
 From a microbiological point of view, once opened, the medicinal product should be infused or diluted and infused immediately.

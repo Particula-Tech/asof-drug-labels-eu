@@ -3,6 +3,10 @@
 The pharmacokinetics (PK) of nivolumab is linear in the dose range of 0.1 to 10 mg/kg.
 The geometric mean clearance (CL), terminal half-life, and average exposure at steady state at 3 mg/kg every 2 weeks of nivolumab were 7.9 mL/h, 25.0 days, and 86.6 μg/mL, respectively, based on a population PK analysis.
 
+Nivolumab CL in cHL patients was approximately 32% lower relative to NSCLC.
+Nivolumab baseline CL in adjuvant melanoma patients was approximately 40% lower and steady state CL approximately 20 % lower relative to advanced melanoma.
+With available safety data, these decreases in CL were not clinically meaningful.
+
 The metabolic pathway of nivolumab has not been characterised.
 Nivolumab is expected to be degraded into small peptides and amino acids via catabolic pathways in the same manner as endogenous IgG.
 
@@ -16,8 +20,6 @@ Special populations
 
 A population PK analysis suggested no difference in CL of nivolumab based on age, gender, race, solid tumour type, tumour size, and hepatic impairment.
 Although ECOG status, baseline glomerular filtration rate (GFR), albumin, body weight, and mild hepatic impairment had an effect on nivolumab CL, the effect was not clinically meaningful.
-Nivolumab CL in cHL patients was approximately 32% lower relative to NSCLC.
-With available safety data, this decrease in CL was not clinically meaningful.
 
 Renal impairment
 The effect of renal impairment on the CL of nivolumab was evaluated in patients with mild

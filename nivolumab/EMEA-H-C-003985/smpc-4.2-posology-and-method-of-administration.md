@@ -22,6 +22,11 @@ Table 1: Recommended dose and infusion time for intravenous administration of ni
 
 If melanoma or RCC patients need to be switched from the 240 mg every 2 weeks schedule to the 480 mg every 4 weeks schedule, the first 480 mg dose should be administered two weeks after the last 240 mg dose.
 Conversely, if patients need to be switched from the 480 mg every 4 weeks schedule to the 240 mg every 2 weeks schedule, the first 240 mg dose should be administered four weeks after the last 480 mg dose.
+Adjuvant treatment of melanoma
+The recommended dose of OPDIVO is 3 mg/kg nivolumab administered intravenously over 60 minutes every 2 weeks.
+
+For adjuvant therapy, the maximum treatment duration with OPDIVO is 12 months.
+
 OPDIVO in combination with ipilimumab
 
 Melanoma
@@ -40,6 +45,7 @@ Table 2: Recommended doses and infusion times for intravenous administration of 
 | Ipilimumab | 3 mg/kg over 90 minutes | - |
 
 Treatment with OPDIVO, either as a monotherapy or in combination with ipilimumab, should be continued as long as clinical benefit is observed or until treatment is no longer tolerated by the patient.
+
 Atypical responses (i.e., an initial transient increase in tumour size or small new lesions within the first few months followed by tumour shrinkage) have been observed.
 It is recommended to continue treatment with nivolumab for clinically stable patients with initial evidence of disease progression until disease progression is confirmed.
 
@@ -63,21 +69,14 @@ pneumonitis corticosteroids is complete
 Grade 3 or 4 pneumonitis Permanently discontinue treatment
 Grade 2 diarrhoea or colitis Withhold dose(s) until symptoms
 
-resolve and management with corticosteroids, if needed, is complete
-
-Grade 3 diarrhoea or colitis
-
-- OPDIVO monotherapy Withhold dose(s) until symptoms
-
-Immune-related colitis resolve and management with corticosteroids is complete
-
-- OPDIVO+ipilimumab Permanently discontinue treatment
-Grade 4 diarrhoea or colitis Permanently discontinue treatment
-
+resolve and management with Immune-related colitis corticosteroids, if needed, is complete
 Table 3: Recommended treatment modifications for OPDIVO or OPDIVO in combination with ipilimumab
 
 | Immune-related adverse reaction | Severity | Treatment modification |
 | --- | --- | --- |
+|  | Grade 3 diarrhoea or colitis - OPDIVO monotherapy | Withhold dose(s) until symptoms resolve and management with corticosteroids is complete |
+|  | - OPDIVO+ipilimumab | Permanently discontinue treatment |
+|  | Grade 4 diarrhoea or colitis | Permanently discontinue treatment |
 | Immune-related hepatitis | Grade 2 elevation in aspartate aminotransferase (AST), alanine aminotransferase (ALT), or total bilirubin | Withhold dose(s) until laboratory values return to baseline and management with corticosteroids, if needed, is complete |
 |  | Grade 3 or 4 elevation in AST, ALT, or total bilirubin | Permanently discontinue treatment |
 | Immune-related nephritis and renal dysfunction | Grade 2 or 3 creatinine elevation | Withhold dose(s) until creatinine returns to baseline and management with corticosteroids is complete |
@@ -103,6 +102,7 @@ Patients treated with OPDIVO must be given the patient alert card and be informe
 
 When OPDIVO is administered in combination with ipilimumab, if either agent is withheld, the other agent should also be withheld.
 If dosing is resumed after a delay, either the combination treatment or OPDIVO monotherapy could be resumed based on the evaluation of the individual patient.
+
 Special populations
 
 Paediatric population
@@ -111,7 +111,7 @@ No data are available.
 
 Elderly
 No dose adjustment is required for elderly patients (≥ 65 years) (see sections 5.1 and 5.2).
-Data from NSCLC and SCCHN patients 75 years of age or older are too limited to draw conclusions on this population.
+Data from NSCLC, SCCHN, and adjuvant melanoma patients 75 years of age or older are too limited to draw conclusions on this population.
 
 Renal impairment
 Based on the population pharmacokinetic (PK) results, no dose adjustment is required in patients with mild or moderate renal impairment (see section 5.2).
