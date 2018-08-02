@@ -6,11 +6,7 @@ PD-L1 testing for patients with NSCLC or urothelial carcinoma
 Patients with NSCLC or previously untreated urothelial carcinoma should be selected for treatment based on the tumour expression of PD-L1 confirmed by a validated test (see section 5.1).
 
 Posology
-KEYTRUDA should be administered as an intravenous infusion over 30 minutes every 3 weeks.
-
-The recommended dose of KEYTRUDA is:
-•200 mg for NSCLC that has not been previously treated with chemotherapy, cHL or for urothelial carcinoma.
-•2 mg/kg for NSCLC that has been previously treated with chemotherapy or for melanoma.
+The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks.
 
 Patients should be treated with KEYTRUDA until disease progression or unacceptable toxicity.
 Atypical responses (i.e., an initial transient increase in tumour size or small new lesions within the first few months followed by tumour shrinkage) have been observed.
@@ -83,7 +79,5 @@ KEYTRUDA must not be administered as an intravenous push or bolus injection.
 For instructions on reconstitution and dilution of the medicinal product before administration, see section 6.6.
 
 [KEYTRUDA 25 mg/mL concentrate for solution for infusion.]
-
-•200 mg for NSCLC that has not been previously treated with chemotherapy cHL or for urothelial carcinoma.
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.

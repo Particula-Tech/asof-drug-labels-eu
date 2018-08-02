@@ -9,9 +9,10 @@ The PD-1 receptor is a negative regulator of T-cell activity that has been shown
 KEYTRUDA potentiates T-cell responses, including anti-tumour responses, through blockade of PD-1 binding to PD-L1 and PD-L2, which are expressed in antigen presenting cells and may be expressed by tumours or other cells in the tumour microenvironment.
 
 Clinical efficacy and safety
-Dosing for patients with melanoma and previously treated NSCLC
-In clinical studies comparing pembrolizumab doses of 2 mg/kg every 3 weeks, 10 mg/kg every 3 weeks, and 10 mg/kg every 2 weeks in patients with melanoma or previously treated patients with NSCLC, efficacy and safety were similar.
-The recommended dose is 2 mg/kg every 3 weeks.
+Dosing for patients with melanoma and NSCLC
+Pembrolizumab doses of 2 mg/kg every 3 weeks, 10 mg/kg every 3 weeks, and 10 mg/kg every 2 weeks were evaluated in melanoma or previously treated NSCLC clinical trials.
+Based on the dose/exposure relationships for efficacy and safety for pembrolizumab, there are no clinically significant differences in efficacy and safety between the doses of 200 mg or 2 mg/kg every 3 weeks in patients with melanoma or NSCLC.
+The recommended dose of pembrolizumab is 200 mg every 3 weeks.
 
 Melanoma
 KEYNOTE-006: Controlled trial in melanoma patients naïve to treatment with ipilimumab
@@ -234,7 +235,7 @@ The primary efficacy outcome measure was ORR as assessed by independent review u
 RECIST 1.1.
 Secondary efficacy outcome measures were disease control rate (DCR; including complete response, partial response and stable disease), response duration, PFS and OS.
 Tumour response was assessed at 12-week intervals.
-Table 5 summarises key efficacy measures in patients previously treated or naïve to treatment with ipilimumab, receiving pembrolizumab at the recommended dose based on a minimum follow-up time of 30 months for all patients.
+Table 5 summarises key efficacy measures in patients previously treated or naïve to treatment with ipilimumab, receiving pembrolizumab at a dose of 2 mg/kg based on a minimum follow-up time of 30 months for all patients.
 
 Table 5: Efficacy results in KEYNOTE-001
 
@@ -343,6 +344,8 @@ Disease characteristics were squamous (18%) and non-squamous (82%); M1 (99%); an
 The primary efficacy outcome measure was PFS as assessed by BICR using RECIST 1.1.
 Secondary efficacy outcome measures were OS and ORR (as assessed by BICR using RECIST 1.1).
 Table 10 summarizes key efficacy measures for the entire ITT population.
+PFS and ORR results are reported from an interim analysis at a median follow-up of 11 months.
+OS results are reported from the final analysis at a median follow-up of 25 months.
 
 Table 10: Efficacy results in KEYNOTE-024
 
@@ -354,10 +357,10 @@ Table 10: Efficacy results in KEYNOTE-024
 | p-Value† | < 0.001 |  |
 | Median in months (95% CI) | 10.3 (6.7, NA) | 6.0 (4.2, 6.2) |
 | OS |  |  |
-| Number (%) of patients with event | 44 (29%) | 64 (42%) |
-| Hazard ratio* (95% CI) | 0.60 (0.41, 0.89) |  |
-| p-Value† | 0.005 |  |
-| Median in months (95% CI) | Not reached (NA, NA) | Not reached (9.4, NA) |
+| Number (%) of patients with event | 73 (47%) | 96 (64 %) |
+| Hazard ratio* (95% CI) | 0.63 (0.47, 0.86) |  |
+| p-Value† | 0.002 |  |
+| Median in months (95% CI) | 30.0 (18.3, NA) | 14.2 (9.8, 19.0) |
 | Objective response rate |  |  |
 | ORR % (95% CI) | 45% (37, 53) | 28% (21, 36) |
 | Complete response % | 4% | 1% |
@@ -425,18 +428,16 @@ Figure 5: Kaplan-Meier curve for overall survival by treatment arm in KEYNOTE-02
 30
 
 20
-Treatment arm OS rate at 6 months OS rate at 12 months HR (95% CI) p-value
-10 Pembrolizumab 80% 70% 0.60 (0.41, 0.89) 0.005Chemotherapy 72% 54%
+Treatment arm OS rate at 12 months OS rate at 24 months HR (95% CI) p-value
+10 Pembrolizumab 70% 52% 0.63 (0.47, 0.86) 0.002Chemotherapy 55% 35%
 
 0
-
-0 3 6 9 12 15 18 21
-
+0 3 6 9 12 15 18 21 24 27 30 33
 Time in Months
 Number at Risk
 
-Pembrolizumab: 154 136 121 82 39 11 2 0
-Chemotherapy: 151 123 106 64 34 7 1 0
+Pembrolizumab: 154 136 121 112 106 96 89 83 52 22 5 0
+Chemotherapy: 151 123 107 88 80 70 61 55 31 16 5 0
 
 In a subgroup analysis, a reduced survival benefit of pembrolizumab compared to chemotherapy was observed in the small number of patients who were never-smokers; however, due to the small number of patients, no definitive conclusions can be drawn from these data.
 KEYNOTE-010: Controlled trial of NSCLC patients previously treated with chemotherapy
@@ -446,6 +447,7 @@ Patients with EGFR activation mutation or ALK translocation also had disease pro
 Patients were randomised (1:1:1) to receive pembrolizumab at a dose of 2 (n=344) or 10 mg/kg (n=346) every 3 weeks or docetaxel at a dose of 75 mg/m2 every 3 weeks (n=343) until disease progression or unacceptable toxicity.
 The trial excluded patients with autoimmune disease; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks.
 Assessment of tumour status was performed every 9 weeks.
+
 The baseline characteristics for this population included: median age 63 years (42% age 65 or older); 61% male; 72% White and 21% Asian and 34% and 66% with an ECOG performance status 0 and 1, respectively.
 Disease characteristics were squamous (21%) and non-squamous (70%); M1 (91%); stable brain metastases (15%) and the incidence of mutations was EGFR (8%) or ALK (1%).
 Prior therapy included platinum-doublet regimen (100%); patients received one (69%) or two or more (29%) treatment lines.
@@ -760,3 +762,25 @@ Randomization to the chemotherapy and the chemotherapy-pembrolizumab arms remain
 
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with pembrolizumab in one or more subsets of the paediatric population in treatment of all conditions included in the category of malignant neoplasms (except nervous system, haematopoietic and lymphoid tissue) (see section 4.2 for information on paediatric use).
+
+[KEYTRUDA 25 mg/mL concentrate for solution for infusion.]
+
+| Endpoint | Pembrolizumab 200 mg every 3 weeks n=154 | Chemotherapy n=151 |
+| --- | --- | --- |
+| PFS |  |  |
+| Number (%) of patients with event | 73 (47%) | 116 (77%) |
+| Hazard ratio* (95% CI) | 0.50 (0.37, 0.68) |  |
+| p-Value† | < 0.001 |  |
+| Median in months (95% CI) | 10.3 (6.7, NA) | 6.0 (4.2, 6.2) |
+| OS |  |  |
+| Number (%) of patients with event | 73 (47%) | 96 (64%) |
+| Hazard ratio* (95% CI) | 0.63 (0.47, 0.86) |  |
+| p-Value† | 0.002 |  |
+| Median in months (95% CI) | 30.0 (18.3, NA) | 14.2 (9.8, 19.0) |
+| Objective response rate |  |  |
+| ORR % (95% CI) | 45% (37, 53) | 28% (21, 36) |
+| Complete response % | 4% | 1% |
+| Partial response % | 41% | 27% |
+| Response Duration‡ |  |  |
+| Median in months (range) | Not reached (1.9+, 14.5+) | 6.3 (2.1+, 12.6+) |
+| % with duration ≥ 6 months | 88%§ | 59%¶ |
