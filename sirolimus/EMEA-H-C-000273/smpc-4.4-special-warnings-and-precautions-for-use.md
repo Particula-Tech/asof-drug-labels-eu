@@ -1,8 +1,8 @@
 # 4.4 Special warnings and precautions for use
 
-Rapamune has not been adequately studied in patients at high immunological risk, therefore use is not recommended in this group of patients (see section 5.1).
+Rapamune has not been adequately studied in renal transplant patients at high immunological risk, therefore use is not recommended in this group of patients (see section 5.1).
 
-In patients with delayed graft function, sirolimus may delay recovery of renal function.
+In renal transplant patients with delayed graft function, sirolimus may delay recovery of renal function.
 
 Hypersensitivity reactions
 
@@ -10,7 +10,7 @@ Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angi
 
 Concomitant therapy
 
-Immunosuppressive agents
+Immunosuppressive agents (Renal transplant patients only)
 Sirolimus has been administered concurrently with the following agents in clinical studies: tacrolimus, ciclosporin, azathioprine, mycophenolate mofetil, corticosteroids and cytotoxic antibodies.
 Sirolimus in combination with other immunosuppressive agents has not been extensively investigated.
 
@@ -21,7 +21,6 @@ Caution should be exercised when co-administering other agents that are known to
 Patients treated with ciclosporin and Rapamune beyond 3 months had higher serum creatinine levels and lower calculated glomerular filtration rates compared to patients treated with ciclosporin and placebo or azathioprine controls.
 Patients who were successfully withdrawn from ciclosporin had lower serum creatinine levels and higher calculated glomerular filtration rates, as well as lower incidence of malignancy, compared to patients remaining on ciclosporin.
 The continued co-administration of ciclosporin and Rapamune as maintenance therapy cannot be recommended.
-
 Based on information from subsequent clinical studies, the use of Rapamune, mycophenolate mofetil, and corticosteroids, in combination with IL-2 receptor antibody (IL2R Ab) induction, is not recommended in the de novo renal transplant setting (see section 5.1).
 
 Periodic quantitative monitoring of urinary protein excretion is recommended.
@@ -30,6 +29,7 @@ New onset nephrosis (nephrotic syndrome) was also reported in 2% of the patients
 Based on information from an open-label randomised study, conversion from the calcineurin inhibitor tacrolimus to Rapamune in maintenance renal transplant patients was associated with an unfavourable safety profile without efficacy benefit and can therefore not be recommended (see section 5.1).
 
 The concomitant use of Rapamune with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced haemolytic uraemic syndrome/thrombotic thrombocytopenic purpura/thrombotic microangiopathy (HUS/TTP/TMA).
+
 HMG-CoA reductase inhibitors
 In clinical studies, the concomitant administration of Rapamune and HMG-CoA reductase inhibitors and/or fibrates was well-tolerated.
 During Rapamune therapy with or without CsA, patients should be monitored for elevated lipids, and patients administered an HMG-CoA reductase inhibitor and/or fibrate should be monitored for the possible development of rhabdomyolysis and other adverse reactions, as described in the respective Summary of Product Characteristics of these agents.
@@ -42,7 +42,7 @@ The concomitant administration of Rapamune and angiotensin-converting enzyme (AC
 Elevated sirolimus levels, for example due to interaction with strong CYP3A4 inhibitors, (with/without concomitant ACE inhibitors) may also potentiate angioedema (see section 4.5).
 In some cases, the angioedema has resolved upon discontinuation or dose reduction of Rapamune.
 
-Increased rates of biopsy confirmed acute rejection (BCAR) have been observed with concomitant use of sirolimus with ACE inhibitors (see section 5.1).
+Increased rates of biopsy confirmed acute rejection (BCAR) in renal transplant patients have been observed with concomitant use of sirolimus with ACE inhibitors (see section 5.1).
 Patients receiving sirolimus should be monitored closely if taking ACE inhibitors concomitantly.
 
 Vaccination
@@ -58,14 +58,13 @@ As usual for patients with increased risk for skin cancer, exposure to sunlight 
 Infections
 
 Oversuppression of the immune system can also increase susceptibility to infection, including opportunistic infections (bacterial, fungal, viral and protozoal), fatal infections, and sepsis.
-
-Among these conditions are BK virus-associated nephropathy and JC virus-associated progressive multifocal leukoencephalopathy (PML).
+Among these conditions in renal transplant patients are BK virus-associated nephropathy and JC virus-associated progressive multifocal leukoencephalopathy (PML).
 These infections are often related to a high total immunosuppressive burden and may lead to serious or fatal conditions that physicians should consider in the differential diagnosis in immunosuppressed patients with deteriorating renal function or neurological symptoms.
 
-Cases of Pneumocystis carinii pneumonia have been reported in patients not receiving antimicrobial prophylaxis.
+Cases of Pneumocystis carinii pneumonia have been reported in renal transplant patients not receiving antimicrobial prophylaxis.
 Therefore, antimicrobial prophylaxis for Pneumocystis carinii pneumonia should be administered for the first 12 months following transplantation.
 
-Cytomegalovirus (CMV) prophylaxis is recommended for 3 months after transplantation, particularly for patients at increased risk for CMV disease.
+Cytomegalovirus (CMV) prophylaxis is recommended for 3 months after renal transplantation, particularly for patients at increased risk for CMV disease.
 
 Hepatic impairment
 
@@ -88,12 +87,11 @@ Cases of bronchial anastomotic dehiscence, most fatal, have been reported in de 
 
 Systemic effects
 
-There have been reports of impaired or delayed wound healing in patients receiving Rapamune, including lymphocele and wound dehiscence.
+There have been reports of impaired or delayed wound healing in patients receiving Rapamune, including lymphocele in renal transplant patients and wound dehiscence.
 Patients with a body mass index (BMI) greater than 30 kg/m2 may be at increased risk of abnormal wound healing based on data from the medical literature.
 
 There have also been reports of fluid accumulation, including peripheral oedema, lymphoedema, pleural effusion and pericardial effusions (including haemodynamically significant effusions in children and adults), in patients receiving Rapamune.
-
-The use of Rapamune in renal transplant patients was associated with increased serum cholesterol and triglycerides that may require treatment.
+The use of Rapamune was associated with increased serum cholesterol and triglycerides that may require treatment.
 Patients administered Rapamune should be monitored for hyperlipidaemia using laboratory tests and if hyperlipidaemia is detected, subsequent interventions such as diet, exercise, and lipid-lowering agents should be initiated.
 The risk/benefit should be considered in patients with established hyperlipidaemia before initiating an immunosuppressive regimen, including Rapamune.
 Similarly the risk/benefit of continued Rapamune therapy should be re-evaluated in patients with severe refractory hyperlipidaemia.

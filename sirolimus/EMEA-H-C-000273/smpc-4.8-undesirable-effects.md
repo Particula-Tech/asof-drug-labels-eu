@@ -1,5 +1,7 @@
 # 4.8 Undesirable effects
 
+Undesirable effects observed with prophylaxis of organ rejection in renal transplantation
+
 The most commonly reported adverse reactions (occurring in >10% of patients) are thrombocytopaenia, anaemia, pyrexia, hypertension, hypokalaemia, hypophosphataemia, urinary tract infection, hypercholesterolaemia, hyperglycaemia, hypertriglyceridaemia, abdominal pain, lymphocoele, peripheral oedema, arthralgia, acne, diarrhoea, pain, constipation, nausea, headache, increased blood creatinine, and increased blood lactate dehydrogenase (LDH).
 
 The incidence of any adverse reaction(s) may increase as the trough sirolimus level increases.
@@ -12,7 +14,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 Most patients were on immunosuppressive regimens, which included Rapamune in combination with other immunosuppressive agents.
 
-| System organ class | Very common (≥1/10) | Common (≥1/100 to <1/10) | Uncommon (≥1/1,000 to <1/100) | Rare (≥1/10,000 to <1/1,000) | Frequency not known (cannot be estimated from available data) |
+| System organ class | Very common (≥1/10) | Common (≥1/100 to <1/10) | Uncommon (≥1/1,000 to <1/100) | Rare (≥1/10,00 0 to <1/1,000) | Frequency not known (cannot be estimated from available data) |
 | --- | --- | --- | --- | --- | --- |
 | Infections and infestations | Pneumonia; Fungal infection; Viral infection; Bacterial infection; Herpes simplex infection; Urinary tract infection | Sepsis; Pyelonephritis; Cytomegalo-virus infection; Herpes zoster caused by the varicella zoster virus | Clostridium difficile colitis; Mycobacterial infection (including tuberculosis); Epstein-Barr virus infection |  |  |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) |  | Non-melanoma skin cancer* | Lymphoma*; Malignant melanoma*; Post transplant lympho-proliferative disorder |  | Neuroendoc rine carcinoma of the skin* |
@@ -22,15 +24,15 @@ Most patients were on immunosuppressive regimens, which included Rapamune in com
 | Nervous system disorders | Headache |  |  |  | Posterior reversible encephalo-pathy syndrome |
 | Cardiac disorders | Tachycardia | Pericardial effusion |  |  |  |
 | Vascular disorders | Hypertension; Lymphocele | Venous thrombosis (including deep vein thrombosis) | Lymphoedema |  |  |
-| Respiratory, thoracic and mediastinal disorders |  | Pulmonary embolism; Pneumonitis*; Pleural effusion; Epistaxis | Pulmonary haemorrhage | Alveolar proteinosis |  |
+| Respiratory, thoracic and mediastinal disorders |  | Pulmonary embolism; Pneumonitis*; Pleural effusion; Epistaxis | Pulmonary haemorrhage | Alveolar proteinosi s |  |
 | Gastrointestinal disorders | Abdominal pain; Constipation; Diarrhoea; Nausea | Pancreatitis; Stomatitis; Ascites |  |  |  |
-| Hepatobiliary disorders |  |  | Hepatic failure* |  |  |
+| Hepatobiliary disorders | Liver function test abnormal (including alanine aminotransferase increased and aspartate amino-transferase increased) |  | Hepatic failure* |  |  |
 | Skin and subcutaneous tissue disorders | Rash; Acne |  | Dermatitis exfoliative | Hypersen-sitivity vasculitis |  |
 | Musculoskeletal and connective tissue disorders | Arthralgia | Osteonecrosis |  |  |  |
 | Renal and urinary disorders | Proteinuria |  | Nephrotic syndrome (see section 4.4); Focal segmental glomerulo-sclerosis* |  |  |
 | Reproductive system and breast disorders | Menstrual disorder (including amenorrhoea and menorrhagia) | Ovarian cyst |  |  |  |
 | General disorders and administration site conditions | Oedema; Oedema peripheral; Pyrexia; Pain; Impaired healing* |  |  |  |  |
-| Investigations | Blood lactate dehydrogenase increased; Blood creatinine increased; Liver function test abnormal (including alanine aminotransferase increased and aspartate amino-transferase increased) |  |  |  |  |
+| Investigations | Blood lactate dehydrogenase increased; Blood creatinine increased |  |  |  |  |
 
 *See section below.
 
@@ -58,8 +60,8 @@ In patients with delayed graft function, sirolimus may delay recovery of renal f
 The concomitant use of sirolimus with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced HUS/TTP/TMA.
 
 Focal segmental glomerulosclerosis has been reported.
-
 There have also been reports of fluid accumulation, including peripheral oedema, lymphoedema, pleural effusion and pericardial effusions (including haemodynamically significant effusions in children and adults) in patients receiving Rapamune.
+
 In a study evaluating the safety and efficacy of conversion from calcineurin inhibitors to sirolimus (target levels of 12 - 20 ng/mL in maintenance renal transplant patients, enrollment was stopped in the subset of patients (n=90) with a baseline glomerular filtration rate of less than 40 mL/min (see section 5.1).
 There was a higher rate of serious adverse events, including pneumonia, acute rejection, graft loss and death, in this sirolimus treatment arm (n=60, median time post-transplant 36 months).
 
@@ -81,6 +83,11 @@ Among 89 patients known to be Epstein-Barr virus (EBV) seronegative prior to tra
 All patients who developed PTLD were aged below 18 years.
 
 There is insufficient experience to recommend the use of Rapamune in children and adolescents (see section 4.2).
+
+Undesirable effects observed with patients with S-LAM
+
+Safety was assessed in a controlled study involving 89 patients with LAM, of which 81 patients had S-LAM and 42 of whom were treated with Rapamune (see section 5.1).
+The adverse drug reactions observed in patients with S-LAM were consistent with the known safety profile of the product for the indication prophylaxis of organ rejection in renal transplantation with the addition of weight decreased, which was reported in the study at a greater incidence with Rapamune when compared to that observed with placebo (common, 9.5% vs. common, 2.6%).
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

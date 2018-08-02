@@ -3,6 +3,7 @@
 Women of childbearing potential
 
 Effective contraception must be used during Rapamune therapy and for 12 weeks after Rapamune has been stopped (see section 4.5).
+
 Pregnancy
 
 There are no or limited amount of data from the use of sirolimus in pregnant women.

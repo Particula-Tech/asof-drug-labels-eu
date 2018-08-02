@@ -27,8 +27,7 @@ Brown iron oxide (E172)
 Poloxamer 188 α-tocopherol
 Povidone
 Carnauba wax
+Printing ink (Shellac, Iron Oxide Red, Propylene Glycol, Ammonium Hydroxide, Simethicone) Rapamune 1 mg coated tablets
 Printing ink (Shellac, Iron Oxide Red, Propylene Glycol, Ammonium Hydroxide, Simethicone)
-
-Rapamune 1 mg coated tablets
 
 Rapamune 2 mg coated tablets

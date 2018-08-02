@@ -29,7 +29,6 @@ The simultaneous oral administration of 10 mg of Rapamune oral solution and 120 
 Sirolimus Cmax, tmax, and AUC were increased 1.4-fold, 1.3-fold, and 1.6-fold, respectively.
 Sirolimus did not affect the pharmacokinetics of either diltiazem or its metabolites desacetyldiltiazem and desmethyldiltiazem.
 If diltiazem is administered, sirolimus blood levels should be monitored and a dose adjustment may be necessary.
-
 Verapamil (CYP3A4 inhibitor)
 
 Multiple-dose administration of verapamil and sirolimus oral solution significantly affected the rate and extent of absorption of both medicinal products.
@@ -43,6 +42,7 @@ Multiple-dose administration of erythromycin and sirolimus oral solution signifi
 Whole blood sirolimus Cmax, tmax, and AUC were increased 4.4-fold, 1.4-fold, and 4.2-fold, respectively.
 The Cmax, tmax, and AUC of plasma erythromycin base were increased 1.6-fold, 1.3-fold, and 1.7-fold, respectively.
 Sirolimus levels should be monitored and appropriate dose reductions of both medicinal products should be considered.
+
 Ciclosporin (CYP3A4 substrate)
 
 The rate and extent of sirolimus absorption was significantly increased by ciclosporin A (CsA).
@@ -70,7 +70,6 @@ Inhibitors of P-gp may decrease the efflux of sirolimus from intestinal cells an
 Grapefruit juice affects CYP3A4-mediated metabolism, and should therefore be avoided.
 
 Pharmacokinetic interactions may be observed with gastrointestinal prokinetic agents, such as cisapride and metoclopramide.
-
 No clinically significant pharmacokinetic interaction was observed between sirolimus and any of the following substances: acyclovir, atorvastatin, digoxin, glibenclamide, methylprednisolone, nifedipine, prednisolone, and trimethoprim/sulfamethoxazole.
 
 Paediatric population
