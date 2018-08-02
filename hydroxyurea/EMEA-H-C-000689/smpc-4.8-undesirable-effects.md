@@ -2,7 +2,6 @@
 
 Summary of the safety profile
 Specifically, the safety of hydroxycarbamide had been examined retroactively from cohorts of 123 adults over 13 years and 352 children older than 2 years and adolescents up to 12 years.
-
 The most frequently reported adverse reaction is myelosuppression with neutropenia as the most common manifestation.
 Bone marrow depression is the dose-limiting toxic effect of hydroxycarbamide.
 When the maximum tolerated dose is not reached transient myelotoxicity usually occurs in less than 10% of patients, while under the maximum tolerated dose more than 50% can experience reversible bone marrow suppression.
@@ -44,6 +43,7 @@ Uncommon: Rash, melanonychia, alopecia
 
 Rare: Leg ulcers
 
+Very rare: Systemic and cutaneous lupus erythematous
 Not known: Cutaneous dryness
 Reproductive system and breast disorders:
 Very common: Oligospermia , azoospermia4

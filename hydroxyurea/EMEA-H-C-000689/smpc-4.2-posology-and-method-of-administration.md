@@ -46,11 +46,7 @@ Due to safety considerations, Siklos is contraindicated in patients with severe 
 
 Method of administration
 
-Siklos 100 mg film-coated tablets
-Conforming to the individual dose, the tablet should be taken once daily, preferably in the morning before breakfast with a glass of water or a very small amount of food.
-
-Siklos 1000 mg film-coated tablets
-Conforming to the individual dose, the tablet or the halves or quarters of the tablet should be taken once daily, preferably in the morning before breakfast and, where necessary, with a glass of water or a very small amount of food.
+Conforming to the individual dose, the tablet or the half or quarter of the tablet should be taken once daily, preferably in the morning before breakfast and, where necessary, with a glass of water or a very small amount of food.
 
 For patients who are not able to swallow the tablets, these can be disintegrated immediately before use in a small quantity of water in a teaspoon.
 Adding a drop of syrup or mixing with food can mask a possible bitter taste.
