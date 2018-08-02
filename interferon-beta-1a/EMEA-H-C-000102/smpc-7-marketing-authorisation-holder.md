@@ -1,9 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-BIOGEN IDEC LIMITED
-Innovation House
-70 Norden Road
-Maidenhead
-Berkshire
-SL6 4AY
-United Kingdom
+Biogen Netherlands B.V.
+Prins Mauritslaan 13
+1171 LP Badhoevedorp
+The Netherlands
