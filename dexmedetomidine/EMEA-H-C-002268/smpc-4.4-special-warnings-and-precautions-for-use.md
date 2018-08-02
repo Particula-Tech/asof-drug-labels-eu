@@ -2,27 +2,46 @@
 
 Monitoring
 
-Dexdor is intended for use in an intensive care setting and use in other environments is not recommended.
+Dexdor is intended for use in an intensive care setting, operating room and during diagnostic procedures.
+The use in other environments is not recommended.
 All patients should have continuous cardiac monitoring during Dexdor infusion.
 Respiration should be monitored in non-intubated patients due to the risk of respiratory depression and in some case apnoea (see section 4.8).
 
+The time to recovery after the use of dexmedetomidine was reported to be approximately one hour.
+When used in an outpatient setting close monitoring should continue for at least one hour (or longer based on the patient condition), with medical supervision continued for at least one further hour to ensure the safety of the patient.
+
 General precautions
 
-Since Dexdor should not be administered by loading or bolus dose, users should be ready to use an alternative sedative for acute control of agitation or during procedures, especially during the first few hours of treatment.
+Dexdor should not be given as a bolus dose and in the ICU a loading dose is not recommended.
+Users should therefore be ready to use an alternative sedative for acute control of agitation or during procedures, especially during the first few hours of treatment.
+During procedural sedation a small bolus of another sedative may be used if a rapid increase in sedation level is required.
 Some patients receiving Dexdor have been observed to be arousable and alert when stimulated.
 This alone should not be considered as evidence of lack of efficacy in the absence of other clinical signs and symptoms.
 
-Dexdor should not be used as an induction agent for intubation or to provide sedation during muscle relaxant use.
+Dexmedetomidine normally does not cause deep sedation and patients may be easily roused.
+Dexmedetomidine is therefore not suitable in patients who will not tolerate this profile of effects, for example those requiring continuous deep sedation.
+
+Dexdor should not be used as a general anaesthetic induction agent for intubation or to provide sedation during muscle relaxant use.
 
 Dexmedetomidine lacks the anticonvulsant action of some other sedatives and so will not suppress underlying seizure activity.
 
 Care should be taken if combining dexmedetomidine with other substances with sedative or cardiovascular actions as additive effects may occur.
 
+Dexdor is not recommended for patient controlled sedation.
+Adequate data is not available.
+
+When Dexdor is used in an outpatient setting patients should normally be discharged into the care of a suitable third party.
+Patients should be advised to refrain from driving or other hazardous tasks and where possible to avoid the use of other agents that may sedate (e.g, benzodiazepines, opioids, alcohol) for a suitable period of time based on observed effects of dexmedetomidine, the procedure, concomitant medications, the age and the condition of the patient.
+
+Caution should be exercised when administering dexmedetomidine to elderly patients.
+Elderly patients over 65 years of age may be more prone to hypotension with the administration of dexmedetomidine, including a loading dose, for procedures.
+A dose reduction should be considered.
+Please refer to section 4.2.
+
 Cardio-vascular effects and precautions
 
 Dexmedetomidine reduces heart rate and blood pressure through central sympatholysis but at higher concentrations causes peripheral vasoconstriction leading to hypertension (see section 5.1).
-Dexmedetomidine normally does not cause deep sedation and patients may be easily roused.
-Dexmedetomidine is therefore not suitable in patients who will not tolerate this profile of effects, for example those requiring continuous deep sedation or with severe cardiovascular instability.
+Dexmedetomidine is therefore not suitable in patients with severe cardiovascular instability.
 
 Caution should be exercised when administering dexmedetomidine to patients with pre-existing bradycardia.
 Data on the effects of Dexdor in patients with heart rate <60 are very limited and particular care should be taken with such patients.
@@ -34,17 +53,20 @@ Hypotension does not normally require specific treatment but, where needed, user
 
 Patients with impaired peripheral autonomic activity (e.g. due to spinal cord injury) may have more pronounced haemodynamic changes after starting dexmedetomidine and so should be treated with care.
 
-Transient hypertension has been observed primarily during the loading dose in association with the peripheral vasoconstrictive effects of dexmedetomidine and a loading dose is not recommended.
+Transient hypertension has been observed primarily during the loading dose in association with the peripheral vasoconstrictive effects of dexmedetomidine and a loading dose is not recommended in ICU sedation.
 Treatment of hypertension has generally not been necessary but decreasing the continuous infusion rate may be advisable.
 
 Local vasoconstriction at higher concentration may be of greater significance in patients with ischaemic heart disease or severe cerebrovascular disease who should be monitored closely.
 Dose reduction or discontinuation should be considered in a patient developing signs of myocardial or cerebral ischaemia.
+
+Caution is advised when administering dexmedetomidine together with spinal or epidural anaesthesia due to possible increased risk of hypotension or bradycardia.
 
 Patients with hepatic impairment
 
 Care should be taken in severe hepatic impairment as excessive dosing may increase the risk of adverse reactions, over-sedation or prolonged effect as a result of reduced dexmedetomidine clearance.
 
 Patients with neurological disorders
+
 Experience of dexmedetomidine in severe neurological disorders such as head injury and after neurosurgery is limited and it should be used with caution here, especially if deep sedation is required.
 Dexmedetomidine may reduce cerebral blood flow and intracranial pressure and this should be considered when selecting therapy.
 
@@ -55,3 +77,5 @@ This possibility should be considered if the patient develops agitation and hype
 
 It is not known whether dexmedetomidine is safe to use in malignant hyperthermia-sensitive individuals therefore it is not recommended.
 Dexdor treatment should be discontinued in the event of a sustained unexplained fever.
+
+Dexdor contains less than 1 mmol sodium (23 mg) per ml.

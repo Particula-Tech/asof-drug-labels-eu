@@ -1,6 +1,7 @@
 # 5.2 Pharmacokinetic properties
 
 The pharmacokinetics of dexmedetomidine has been assessed following short term IV administration in healthy volunteers and long term infusion in ICU population.
+
 Distribution
 
 Dexmedetomidine exhibits a two-compartment disposition model.
@@ -31,7 +32,6 @@ Less than 1% of unchanged parent drug was recovered in the urine.
 Approximately 28% of the urinary metabolites are unidentified minor metabolites.
 
 Special Populations
-
 No major pharmacokinetic differences have been observed based on gender or age.
 
 Dexmedetomidine plasma protein binding is decreased in subjects with hepatic impairment compared with healthy subjects.
@@ -40,6 +40,7 @@ Subjects with varying degrees of hepatic impairment (Child-Pugh Class A, B, or C
 The mean plasma clearance values of unbound dexmedetomidine for subjects with mild, moderate, and severe hepatic impairment were 59%, 51% and 32% of those observed in the normal healthy subjects, respectively.
 The mean t1/2 for the subjects with mild, moderate or severe hepatic impairment was prolonged to 3.9, 5.4, and 7.4 hours, respectively.
 Although dexmedetomidine is administered to effect, it may be necessary to consider initial/maintenance dose reduction in patients with hepatic impairment depending on the degree of impairment and the response.
+
 The pharmacokinetics of dexmedetomidine in subjects with severe renal impairment (creatinine clearance <30 ml/min) is not altered relative to healthy subjects.
 
 Data in new-born infants (28 - 44 weeks gestation) to children 17 years of age are limited.
