@@ -3,7 +3,7 @@
 Status epilepticus
 Status epilepticus cases have been observed during treatment with rufinamide in clinical development studies, whereas no such cases were observed with placebo.
 These events led to rufinamide discontinuation in 20% of the cases.
-If patients develop new seizure types and/or experience an increased frequency of status epilepticus that is different from the patient’s baseline condition, then the benefit risk ratio of the therapy should be reassessed.
+If patients develop new seizure types and/or experience an increased frequency of status epilepticus that is different from the patient’s baseline condition, then the benefit-risk ratio of the therapy should be reassessed.
 
 Withdrawal of rufinamide
 Rufinamide should be withdrawn gradually to reduce the possibility of seizures on withdrawal.
@@ -13,7 +13,6 @@ There are insufficient data on the withdrawal of concomitant antiepileptic medic
 Central Nervous System reactions
 Rufinamide treatment has been associated with dizziness, somnolence, ataxia and gait disturbances, which could increase the occurrence of accidental falls in this population (see section 4.8).
 Patients and carers should exercise caution until they are familiar with the potential effects of this medicinal product.
-
 Hypersensitivity reactions
 Serious antiepileptic medicinal product hypersensitivity syndrome including DRESS (Drug Reaction with Eosinophilia and Systemic Symptoms) and Stevens-Johnson syndrome have occurred in association with rufinamide therapy.
 Signs and symptoms of this disorder were diverse; however, patients typically, although not exclusively, presented with fever and rash associated with other organ system involvement.
@@ -44,11 +43,8 @@ Patients (and caregivers of patients) should be advised to seek medical advice s
 
 [Inovelon 40 mg/ml oral suspension]
 
-If patients develop new seizure types and/or experience an increased frequency of status epilepticus that is different from the patient’s baseline condition, then the benefit-risk ratio of the therapy should be reassessed.
-
-Physicians should try to ensure that appropriate contraception is used, and should use clinical judgement when assessing whether oral contraceptives, or the doses of the oral contraceptive components, are adequate based on the individual patients clinical situation (see sections 4.5 and 4.6).
-
-Parahydroxybenzoates, Inovelon oral suspension contains parahydroxybenzoates which may cause allergic reactions (possibly delayed).
+Parahydroxybenzoates
+Inovelon oral suspension contains parahydroxybenzoates which may cause allergic reactions (possibly delayed).
 
 Sorbitol
 Inovelon oral suspension also contains sorbitol and, therefore, should not be administered to patients with rare hereditary problems of fructose intolerance.

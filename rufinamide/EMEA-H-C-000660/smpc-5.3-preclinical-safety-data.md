@@ -21,3 +21,6 @@ Benign bone neoplasms (osteomas) and hyperostosis seen in mice were considered a
 Regarding the immunotoxic potential, small thymus and thymic involution were observed in dogs in a 13-week study with significant response at the high dose in male.
 In the 13-week study, female bone marrow and lymphoid changes are reported at the high dose with a weak incidence.
 In rats, decreased cellularity of the bone marrow and thymic atrophy were observed only in the carcinogenicity study.
+
+Environmental Risk Assessment (ERA):
+Environmental risk assessment studies have shown that rufinamide is very persistent in the environment (see section 6.6).

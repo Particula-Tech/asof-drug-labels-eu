@@ -1,6 +1,9 @@
 # 6.6 Special precautions for disposal
 
-No special requirements.
+No special requirements for disposal.
+
+This medicinal product could have potential risk for the environment.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements (see section 5.3).
 
 [Inovelon 40 mg/ml oral suspension]
 
@@ -9,6 +12,4 @@ The dosing syringe should be inserted into the PIBA and the dose withdrawn from 
 The cap should be replaced after each use.
 The cap fits properly when the PIBA is in place.
 
-No special requirements for disposal.
-
-Any unused medicinal product to waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product to waste material should be disposed of in accordance with local requirements (see section 5.3).
