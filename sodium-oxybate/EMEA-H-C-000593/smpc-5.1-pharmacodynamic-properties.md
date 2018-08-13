@@ -22,6 +22,7 @@ Table 1 Summary of clinical trials performed using sodium oxybate for the treatm
 | Trial 4 | Cataplexy | 55 | None | 4 weeks | Xyrem 3 - 9 |
 
 EDS – Excessive daytime sleepiness; ESS – Epworth Sleepiness Scale; MWT – Maintenance of Wakefulness Test; Naps – Number of inadvertent daytime naps; CGIc – Clinical Global Impression of Change; FOSQ – Functional Outcomes of Sleep Questionnaire
+
 Trial 1 enrolled 246 patients with narcolepsy and incorporated a 1 week up-titration period.
 The primary measures of efficacy were changes in excessive daytime sleepiness as measured by the Epworth Sleepiness Scale (ESS), and the change in the overall severity of the patient’s narcolepsy symptoms as assessed by the investigator using the Clinical Global Impressions of Change (CGI-c) measure.
 
@@ -29,7 +30,8 @@ Table 2 Summary of ESS in Trial 1
 
 | Epworth Sleepiness Scale (ESS; range 0-24) |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Dose Group [g/d (n)] | Baseline | Endpoint | Median Change from Baseline | Change from Baseline Compared to Placebo (p-value) |
+| Dose Group [g/d (n)] | Baseline | Endpoint | Median Change from Baseline | Change from Baseline Compared to Placebo |
+|  |  |  |  | (p-value) |
 | Placebo (60) | 17.3 | 16.7 | -0.5 | - |
 | 4.5 (68) | 17.5 | 15.7 | -1.0 | 0.119 |
 | 6 (63) | 17.9 | 15.3 | -2.0 | 0.001 |
