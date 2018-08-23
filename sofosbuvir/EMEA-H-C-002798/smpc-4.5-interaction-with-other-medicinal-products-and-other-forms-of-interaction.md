@@ -14,7 +14,6 @@ Medicinal products that are moderate P-gp inducers in the intestine (e.g. oxcarb
 Co-administration with such medicinal products is not recommended with Sovaldi (see section 4.4).
 Co-administration of Sovaldi with medicinal products that inhibit P-gp and/or BCRP may increase sofosbuvir plasma concentration without increasing GS-331007 plasma concentration, thus Sovaldi may be co-administered with P-gp and/or BCRP inhibitors.
 Sofosbuvir and GS-331007 are not inhibitors of P-gp and BCRP and thus are not expected to increase exposures of medicinal products that are substrates of these transporters.
-
 The intracellular metabolic activation pathway of sofosbuvir is mediated by generally low affinity and high capacity hydrolase and nucleotide phosphorylation pathways that are unlikely to be affected by concomitant medicinal products (see section 5.2).
 
 Patients treated with vitamin K antagonists
@@ -31,7 +30,7 @@ Table 5: Interactions between Sovaldi and other medicinal products
 | ANALEPTICS |  |  |
 | Modafinil | Interaction not studied. Expected: ↓ Sofosbuvir ↔ GS-331007 | Co-administration of Sovaldi with modafinil is expected to decrease the concentration of sofosbuvir, leading to reduced therapeutic effect of Sovaldi. Such co-administration is not recommended. |
 | ANTIARRHYTHMICS |  |  |
-| Amiodarone | Interaction not studied. | Use only if no other alternative is available. Close monitoring is recommended if this medicinal product is administered with Sovaldi and another DAA (see sections 4.4 and 4.8). |
+| Amiodarone | Interaction not studied. | Use only if no other alternative is available. Close monitoring is recommended if this medicinal product is administered with Sovaldi (see sections 4.4 and 4.8). |
 | ANTICOAGULANTS |  |  |
 | Vitamin K antagonists | Interaction not studied | Close monitoring of INR is recommended with all vitamin K antagonists. This is due to liver function changes during treatment with Sovaldi. |
 | ANTICONVULSANTS |  |  |
@@ -58,6 +57,9 @@ Table 5: Interactions between Sovaldi and other medicinal products
 | Darunavir boosted with ritonavirf (800/100 mg once daily) | Darunavir ↔ Cmax 0.97 (0.94, 1.01) ↔ AUC 0.97 (0.94, 1.00) ↔ Cmin 0.86 (0.78, 0.96) Sofosbuvir ↑ Cmax 1.45 (1.10, 1.92) ↑ AUC 1.34 (1.12, 1.59) Cmin (NA) GS-331007 ↔ Cmax 0.97 (0.90, 1.05) ↔ AUC 1.24 (1.18, 1.30) Cmin (NA) | No dose adjustment of sofosbuvir or darunavir (ritonavir boosted) is required when sofosbuvir and darunavir are used concomitantly. |
 | HIV ANTIVIRAL AGENTS: INTEGRASE INHIBITORS |  |  |
 | Raltegravirf (400 mg twice daily) | Raltegravir ↓ Cmax 0.57 (0.44, 0.75) ↓ AUC 0.73 (0.59, 0.91) ↔ Cmin 0.95 (0.81, 1.12) Sofosbuvir ↔ Cmax 0.87 (0.71, 1.08) ↔ AUC 0.95 (0.82, 1.09) Cmin (NA) GS-331007 ↔ Cmax 1.09 (0.99, 1.20) ↔ AUC 1.03 (0.97, 1.08) Cmin (NA) | No dose adjustment of sofosbuvir or raltegravir is required when sofosbuvir and raltegravir are used concomitantly. |
+
+| Medicinal product by therapeutic areas | Effects on drug levels. Mean ratio (90% confidence interval) for AUC, Cmax, Cmina,b | Recommendation concerning co-administration with Sovaldi |
+| --- | --- | --- |
 | ORAL CONTRACEPTIVES |  |  |
 | Norgestimate/ethinyl estradiol | Norgestromin ↔ Cmax 1.06 (0.93, 1.22) ↔ AUC 1.05 (0.92, 1.20) Cmin (NA) Norgestrel ↔ Cmax 1.18 (0.99, 1.41) ↔ AUC 1.19 (0.98, 1.44) Cmin (NA) Ethinyl estradiol ↔ Cmax 1.14 (0.96, 1.36) ↔ AUC 1.08 (0.93, 1.25) Cmin (NA) | No dose adjustment of norgestimate/ethinyl estradiol is required when sofosbuvir and norgestimate/ethinyl estradiol are used concomitantly. |
 

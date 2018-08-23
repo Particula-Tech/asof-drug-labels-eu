@@ -41,6 +41,7 @@ Refer to the peginterferon alfa Summary of Product Characteristics for additiona
 
 If a patient has a serious adverse reaction potentially related to ribavirin, the ribavirin dose should be modified or discontinued, if appropriate, until the adverse reaction abates or decreases in severity.
 Table 2 provides guidelines for dose modifications and discontinuation based on the patient’s haemoglobin concentration and cardiac status.
+
 Table 2: Ribavirin dose modification guideline for co-administration with Sovaldi in adults
 
 | Laboratory values | Reduce ribavirin dose to 600 mg/day if: | Discontinue ribavirin if: |
@@ -88,9 +89,9 @@ Dose reduction of Sovaldi is not recommended.
 
 If a patient has a serious adverse reaction potentially related to ribavirin, the ribavirin dose should be modified or discontinued, if appropriate, until the adverse reaction abates or decreases in severity.
 Refer to the ribavirin prescribing information for guidance on dose modification or discontinuation.
+
 Discontinuation of dosing in adults and adolescents
 If the other medicinal products used in combination with Sovaldi are permanently discontinued, Sovaldi should also be discontinued (see section 4.4).
-
 Special patient populations
 Elderly
 No dose adjustment is warranted for elderly patients (see section 5.2).

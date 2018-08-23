@@ -53,6 +53,7 @@ HCV replicons expressing the sofosbuvir-associated resistance substitution S282T
 Sofosbuvir retained activity against the
 NS5B substitutions L159F and L320F associated with resistance to other nucleoside inhibitors.
 Sofosbuvir was fully active against substitutions associated with resistance to other direct-acting antivirals with different mechanisms of actions, such as NS5B non-nucleoside inhibitors, NS3 protease inhibitors and NS5A inhibitors.
+
 Clinical efficacy and safety
 The efficacy of sofosbuvir was evaluated in five Phase 3 studies in a total of 1,568 adult patients with genotypes 1 to 6 chronic hepatitis C. One study was conducted in treatment-naïve patients with genotype 1, 4, 5 or 6 chronic hepatitis C in combination with peginterferon alfa 2a and ribavirin and the other four studies were conducted in patients with genotype 2 or 3 chronic hepatitis C in combination with ribavirin including one in treatment-naïve patients, one in interferon intolerant, ineligible or unwilling patients, one in patients previously treated with an interferon-based regimen, and one in all patients irrespective of prior treatment history or ability to receive treatment with interferon.
 Patients in these studies had compensated liver disease including cirrhosis.
@@ -86,6 +87,7 @@ a. The denominator for relapse is the number of patients with HCV RNA <LLOQ at t
 b. Other includes patients who did not achieve SVR12 and did not meet virologic failure criteria (e.g., lost to follow-up).
 
 Response rates for selected subgroups are presented in Table 8.
+
 Table 8: SVR12 rates for selected subgroups in NEUTRINO
 
 |  | SOF+PEG+RBV 12 weeks (n = 327) |
@@ -104,7 +106,6 @@ SVR12 rates were similarly high in patients with baseline IL28B C/C allele [94/9
 
 27/28 patients with genotype 4 HCV achieved SVR12.
 A single subject with genotype 5 and all 6 patients with genotype 6 HCV infection in this study achieved SVR12.
-
 Clinical studies in patients with genotype 2 and 3 chronic hepatitis C
 Treatment-naïve adults - FISSION (study 1231)
 FISSION was a randomised, open-label, active-controlled study that evaluated 12 weeks of treatment with sofosbuvir and ribavirin compared to 24 weeks of treatment with peginterferon alfa 2a and ribavirin in treatment-naïve patients with genotype 2 or 3 HCV infection.
@@ -135,6 +136,7 @@ c. Other includes patients who did not achieve SVR12 and did not meet virologic 
 The difference in the overall SVR12 rates between sofosbuvir + ribavirin and peginterferon alfa + ribavirin treatment groups was 0.3% (95% confidence interval: -7.5% to 8.0%) and the study met the predefined non-inferiority criterion.
 
 Response rates for patients with cirrhosis at baseline are presented in Table 10 by HCV genotype.
+
 Table 10: SVR12 rates by cirrhosis and genotype in study FISSION
 
 |  | Genotype 2 |  | Genotype 3 |  |
@@ -236,6 +238,7 @@ Treated patients (n = 419) had a median age of 51 years (range: 19 to 74); 60% o
 Table 15 presents the response rates for the treatment groups of sofosbuvir + ribavirin for 12 weeks and 24 weeks.
 
 Placebo recipients are not included in the tables since none achieved SVR12.
+
 Table 15: Response rates in study VALENCE
 
 |  | Genotype 2 SOF+RBV 12 weeks (n = 73) | Genotype 3 SOF+RBV 12 weeks (n = 11) | Genotype 3 SOF+RBV 24 weeks (n = 250) |
@@ -251,7 +254,6 @@ b. Other includes patients who did not achieve SVR12 and did not meet virologic 
 
 Table 16 presents the subgroup analysis by genotype for cirrhosis and exposure to prior
 HCV treatment.
-
 Table 16: SVR12 rates for selected subgroups by genotype in study VALENCE
 
 |  | Genotype 2 SOF+RBV 12 weeks (n = 73) | Genotype 3 SOF+RBV 24 weeks (n = 250) |
@@ -277,6 +279,7 @@ Patients were either not on antiretroviral therapy with a CD4+ cell count >500 c
 Preliminary SVR12 data are available for 210 patients.
 
 Table 17 presents the response rates by genotype and exposure to prior HCV treatment.
+
 Table 17: Response rates in study PHOTON-1
 
 |  | Genotype 2/3 treatment-naïve SOF+RBV 12 weeks (n = 68) | Genotype 2/3 treatment-experienced SOF+RBV 24 weeks (n = 28) | Genotype 1 treatment-naïve SOF+RBV 24 weeks (n = 114) |
@@ -302,7 +305,6 @@ Table 18: SVR12 rates for selected subgroups by genotype in study PHOTON-1
 | Cirrhosis | 100% (1/1) | 100% (2/2) | 67% (4/6) | 80% (4/5) |
 
 TN = treatment-naïve; TE = treatment-experienced.
-
 Adult patients awaiting liver transplantation - Study 2025
 Sofosbuvir was studied in HCV infected patients prior to undergoing liver transplantation in an open-label clinical study evaluating the safety and efficacy of sofosbuvir and ribavirin administered pre-transplant to prevent post-transplant HCV reinfection.
 The primary endpoint of the study was post-transplant virologic response (pTVR, HCV RNA <LLOQ at 12 weeks post-transplant).
@@ -361,6 +363,7 @@ Consideration should be given to treating these patients, and potentially extend
 b. These are exploratory or Phase 2 studies.
 The outcomes should be interpreted with caution, as subject numbers are small and SVR rates may be impacted by the selection of patients.
 c. Summary data from both studies.
+
 Table 21: Outcomes by therapeutic regimen and treatment duration, a comparison across studies in genotype 2 HCV infection
 
 | Patient population (Study number/name) | Regimen/Duration | Subgroup | SVR12 rate % (n/N) |
@@ -400,6 +403,7 @@ b. These are exploratory or Phase 2 studies.
 The outcomes should be interpreted with caution, as subject numbers are small and SVR rates may be impacted by the selection of patients.
 In the ELECTRON study (N = 11), the duration of peginterferon alfa ranged from 4-12 weeks in combination with sofosbuvir + ribavirin.
 c. All patients were non-cirrhotic in these two studies.
+
 Table 22: Outcomes by therapeutic regimen and treatment duration, a comparison across studies in genotype 3 HCV infection
 
 | Patient population (Study number/name) | Regimen/Duration | Subgroup | SVR12 rate % (n/N) |

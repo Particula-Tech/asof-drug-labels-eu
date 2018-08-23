@@ -6,19 +6,19 @@ If the other medicinal products used in combination with Sovaldi are permanently
 Consult the Summary of Product Characteristics for co-prescribed medicinal products before starting therapy with Sovaldi.
 
 Severe bradycardia and heart block
-Cases of severe bradycardia and heart block have been observed when sofosbuvir is used in combination with another direct-acting antiviral (DAAs, including daclatasvir, simeprevir and ledipasvir) and concomitant amiodarone with or without other drugs that lower heart rate.
+Cases of severe bradycardia and heart block have been observed when sofosbuvir-containing regimens are used in combination with amiodarone with or without other drugs that lower heart rate.
 The mechanism is not established.
 
-The concomitant use of amiodarone was limited through the clinical development of sofosbuvir plus DAAs.
-Cases are potentially life threatening, therefore amiodarone should only be used in patients on Sovaldi and another DAA when other alternative anti-arrhythmic treatments are not tolerated or are contraindicated.
+The concomitant use of amiodarone was limited through the clinical development of sofosbuvir .
+Cases are potentially life threatening, therefore amiodarone should only be used in patients on Sovaldi when other alternative anti-arrhythmic treatments are not tolerated or are contraindicated.
 Patients also taking beta blockers, or those with underlying cardiac comorbidities and/or advanced liver disease may be at increased risk for symptomatic bradycardia with coadministration of amiodarone.
 
-Should concomitant use of amiodarone be considered necessary it is recommended that patients are closely monitored when initiating Sovaldi and another DAA.
+Should concomitant use of amiodarone be considered necessary it is recommended that patients are closely monitored when initiating Sovaldi.
 Patients who are identified as being at high risk of bradyarrhythmia should be continuously monitored for 48 hours in an appropriate clinical setting.
 
-Due to the long half-life of amiodarone, appropriate monitoring should also be carried out for patients who have discontinued amiodarone within the past few months and are to be initiated on Sovaldi in combination with another DAA.
+Due to the long half-life of amiodarone, appropriate monitoring should also be carried out for patients who have discontinued amiodarone within the past few months and are to be initiated on Sovaldi.
 
-All patients receiving Sovaldi and another DAA in combination with amiodarone with or without other drugs that lower heart rate should also be warned of the symptoms of bradycardia and heart block and should be advised to seek medical advice urgently should they experience them.
+All patients receiving Sovaldi in combination with amiodarone with or without other drugs that lower heart rate should also be warned of the symptoms of bradycardia and heart block and should be advised to seek medical advice urgently should they experience them.
 
 Treatment-experienced patients with genotype 1, 4, 5 and 6 HCV infection
 Sovaldi has not been studied in a Phase 3 study in treatment-experienced patients with genotype 1, 4, 5 and 6 HCV infection.
@@ -38,7 +38,6 @@ Co-administration with other direct-acting antivirals against HCV
 Sovaldi should only be co-administered with other direct-acting antiviral medicinal products if the benefit is considered to outweigh the risks based upon available data.
 There are no data to support the co-administration of Sovaldi and telaprevir or boceprevir.
 Such co-administration is not recommended (see also section 4.5).
-
 Pregnancy and concomitant use with ribavirin
 When Sovaldi is used in combination with ribavirin or peginterferon alfa/ribavirin, women of childbearing potential or their male partners must use an effective form of contraception during the treatment and for a period of time after the treatment as recommended in the Summary of Product Characteristics for ribavirin.
 Refer to the Summary of Product Characteristics for ribavirin for additional information.

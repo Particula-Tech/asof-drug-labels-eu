@@ -15,6 +15,7 @@ The most common adverse drug reactions occurring in patients receiving sofosbuvi
 The following adverse drug reactions have been identified with sofosbuvir in combination with ribavirin or in combination with peginterferon alfa and ribavirin (Table 6).
 The adverse reactions are listed below by body system organ class and frequency.
 Frequencies are defined as follows: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000) or very rare (<1/10,000).
+
 Table 6: Adverse drug reactions identified with sofosbuvir in combination with ribavirin or peginterferon alfa and ribavirin
 
 Frequency SOFa + RBVb SOF + PEGc + RBV
@@ -29,6 +30,7 @@ Common weight decreased
 Psychiatric disorders:
 Very common insomnia insomnia
 Common depression depression, anxiety, agitation
+Frequency SOFa + RBVb SOF + PEGc + RBV
 Nervous system disorders:
 Very common headache dizziness, headache
 Common disturbance in attention migraine, memory impairment, disturbance in attention
@@ -73,7 +75,9 @@ The adverse reactions observed were consistent with those observed in clinical s
 
 Description of selected adverse reactions
 Cardiac arrhythmias
-Cases of severe bradycardia and heart block have been observed when sofosbuvir is used in combination with another DAA (including daclatasvir, simeprevir and ledipasvir) and concomitant amiodarone and/or other drugs that lower heart rate (see sections 4.4 and 4.5).
+Cases of severe bradycardia and heart block have been observed when sofosbuvir-containing regimens are used in combination with amiodarone and/or other drugs that lower heart rate (see sections 4.4 and 4.5).
+Skin disorders
+Frequency Not known: Stevens-Johnson syndrome
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
