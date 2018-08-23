@@ -30,27 +30,28 @@ Adverse Reactions
 | --- | --- | --- |
 | Infection and infestation | Very Common | Nasopharyngitis |
 |  | Common | Bronchitis, Gastroenteritis, Upper respiratory tract infection, Influenza, Sinusitis, Pharyngitis |
-|  | Uncommon | Respiratory tract infection, Vulvovaginal candidiasis, Oral Candidiasis |
+|  | Uncommon | Respiratory tract infection, Vulvovaginal candidiasis, Oral candidiasis |
 |  | Very rare | Pneumonia |
+| Immune System Disorders | Very rare | Anaphylactic reaction, Anaphylactic shock |
 | Nervous system disorders | Very Common | Headache |
 |  | Common | Paraesthesia |
 | Eye disorders | Very rare | Blurred vision |
 | Vascular disorders | Common | Hypertension |
 | Respiratory, thoracic and mediastinal disorders | Common | Oropharyngeal pain, Nasal congestion, Cough |
 | Gastrointestinal disorders | Common | Anal Abscess, Anal fissure, Nausea, Dyspepsia, Constipation, Abdominal distension, Flatulence, Haemorrhoids |
-| Skin and subcutaneous tissue disorders | Common | Rash, Pruritus, Eczema, Erythema, Night sweats, Acne |
-|  | Uncommon | Folliculitis |
-| Musculoskeletal and connective tissue disorders | Very Common | Arthralgia |
-|  | Common | Muscle spasms, Back pain, Muscular weakness, Fatigue, Pain in the extremity |
-| General disorders and administration site conditions | Common | Pyrexia |
-|  | Uncommon | Infusion site reaction (including: Infusion site |
+| Skin and subcutaneous tissue | Common | Rash, Pruritus, Eczema, Erythema, Night |
 
 Table 1.
 Adverse Reactions
 
 | System Organ Class | Frequency | Adverse Reaction(s) |
 | --- | --- | --- |
-|  |  | pain and Infusion site irritation), Infusion related reaction Chills, Feeling cold |
+| disorders |  | sweats, Acne |
+|  | Uncommon | Folliculitis |
+| Musculoskeletal and connective tissue disorders | Very Common | Arthralgia |
+|  | Common | Muscle spasms, Back pain, Muscular weakness, Fatigue, Pain in the extremity |
+| General disorders and administration site conditions | Common | Pyrexia |
+|  | Uncommon | Infusion site reaction (including: Infusion site pain and Infusion site irritation), Infusion related reaction, Chills, Feeling cold |
 
 Description of selected adverse reactions
 
@@ -86,6 +87,7 @@ Nine out of 56 patients were persistently positive (anti-vedolizumab antibody-po
 The frequency of anti-vedolizumab antibody detected in patients 16 weeks after the last dose of vedolizumab (approximately five half-lives after the last dose) was approximately 10% in GEMINI I and II.
 
 In GEMINI I and II controlled studies, 5% (3 of 61) of the patients who had an adverse event assessed by the investigator as an IRR were persistently anti-vedolizumab antibody-positive.
+
 Overall, there was no apparent correlation of anti-vedolizumab antibody development to clinical response or adverse events.
 However, the number of patients that developed anti-vedolizumab antibodies was too limited to make a definitive assessment.
 

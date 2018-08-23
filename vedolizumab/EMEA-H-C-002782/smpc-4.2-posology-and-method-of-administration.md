@@ -49,12 +49,13 @@ No dose adjustment is required in elderly patients.
 Population pharmacokinetic analyses showed no effect of age (see section 5.2).
 
 Patients with renal or hepatic impairment
+
 Entyvio has not been studied in these patient populations.
 No dose recommendations can be made.
-
 Method of administration
 
 Entyvio is for intravenous use only.
 It is to be reconstituted and further diluted prior to intravenous administration, for instructions see section 6.6.
+
 Entyvio is administered as an intravenous infusion over 30 minutes.
 Patients should be monitored during and after infusion (see section 4.4).
