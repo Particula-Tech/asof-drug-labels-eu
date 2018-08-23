@@ -18,7 +18,6 @@ Distribution
 
 Macitentan and its active metabolite are highly bound to plasma proteins (> 99%), primarily to albumin and to a lesser extent to alpha1-acid glycoprotein.
 Macitentan and its active metabolite ACT-132577 are well distributed into tissues as indicated by an apparent volume of distribution (Vss/F) of approximately 50 L and 40 L for macitentan and ACT-132577, respectively.
-
 Biotransformation
 
 Macitentan has four primary metabolic pathways.

@@ -1,12 +1,12 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: other anti-hypertensives, ATC code: C02KX04.
+Pharmacotherapeutic group: anti-hypertensives, anti-hypertensives for pulmonary arterial hypertension.
+ATC code: C02KX04.
 
 Mechanism of action
 
 Endothelin (ET)-1 and its receptors (ETA and ETB) mediate a variety of effects such as vasoconstriction, fibrosis, proliferation, hypertrophy, and inflammation.
 In disease conditions such as PAH, the local ET system is upregulated and is involved in vascular hypertrophy and in organ damage.
-
 Macitentan is an orally active potent endothelin receptor antagonist, active on both ETA and ETB receptors and approximately 100-fold more selective for ETA as compared to ETB in vitro.
 Macitentan displays high affinity and sustained occupancy of the ET receptors in human pulmonary arterial smooth muscle cells.
 This prevents endothelin-mediated activation of second messenger systems that result in vasoconstriction and smooth muscle cell proliferation.
@@ -31,7 +31,7 @@ The overall median double-blind treatment duration was 115 weeks (up to a maximu
 The mean age of all patients was 46 years (range 12–85 years of age, including 20 patients below 18, 706 patients between 18–74 years, and 16 patients aged 75 and older) with the majority of subjects being Caucasian (55%) and female (77%).
 Approximately 52%, 46%, and 2% of patients were in WHO FC II, III, and IV, respectively.
 
-Idiopathic or heritable PAH was the most common aetiology in the study population (57%), followed by PAH due to connective tissue disorders (31%), PAH associated with corrected simple congenital heart disease (8%), and PAH associated with other aetiologies (drugs and toxins [3%] and HIV [1%]).
+Idiopathic or heritable PAH was the most common aetiology in the study population (57%), followed by PAH due to connective tissue disorders (31%), PAH associated with corrected simple congenital heart disease (8%), and PAH associated with other aetiologies (medicinal products and toxins [3%] and HIV [1%]).
 
 Outcome endpoints
 
@@ -43,16 +43,17 @@ Figure 1 Kaplan-Meier estimates of the first morbidity-mortality event in SERAPH
 
 Table 1 Summary of outcome events
 
-| Endpoints & Statistics | Patients with events |  | Treatment Comparison: Macitentan 10 mg vs Placebo |  |  |  |
+| Endpoints & statistics | Patients with events |  | Treatment comparison: macitentan 10 mg vs placebo |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Placebo (N = 250) | Macitentan 10 mg (N = 242) | Absolute Risk Reduction | Relative Risk Reduction (97.5% CI) | HR a (97.5% CI) | Logrank p-value |
+|  | Placebo (N = 250) | Macitentan 10 mg (N = 242) | Absolute risk reduction | Relative risk reduction (97.5% CI) | HR a (97.5% CI) | Logrank p-value |
 | Morbidity-mortality event b | 53% | 37% | 16% | 45% (24%; 61%) | 0.55 (0.39; 0.76) | < 0.0001 |
 | Death c n (%) | 19 (7.6%) | 14 (5.8%) | 2% | 36% (−42%; 71%) | 0.64 (0.29; 1.42) | 0.20 |
 | Worsening of PAH n (%) | 93 (37.2%) | 59 (24.4%) | 13% | 49% (27%, 65%) | 0.51 (0.35; 0.73) | < 0.0001 |
-| i.v./s.c. Prostanoid Initiation n (%) | 6 (2.4%) | 1 (0.4%) | 2% |  |  |  |
+| i.v./s.c. prostanoid initiation n (%) | 6 (2.4%) | 1 (0.4%) | 2% |  |  |  |
 | a = based on Cox’s Proportional Hazards Model b = % of patients with an event at 36 months = 100 × (1 - KM estimate) c= all cause death up to EOT regardless of prior worsening |  |  |  |  |  |  |
 
 The number of deaths of all causes up to EOS on macitentan 10 mg was 35 versus 44 on placebo (HR 0.77; 97.5% CI: 0.46 to 1.28).
+
 The risk of PAH related death or hospitalisation for PAH up to EOT was reduced by 50% (HR 0.50; 97.5% CI: 0.34 to 0.75; logrank p < 0.0001) in patients receiving macitentan 10 mg (50 events) compared to placebo (84 events).
 At 36 months, 44.6% of patients on placebo and 29.4% of patients on macitentan 10 mg (Absolute Risk Reduction = 15.2%) had been hospitalised for PAH or died from a PAH-related cause.
 

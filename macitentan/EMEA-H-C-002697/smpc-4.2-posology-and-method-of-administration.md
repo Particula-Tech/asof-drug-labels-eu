@@ -4,12 +4,10 @@ Treatment should only be initiated and monitored by a physician experienced in t
 
 Posology
 
-Opsumit is to be taken orally at a dose of 10 mg once daily, with or without food.
-The film-coated tablets are not breakable and are to be swallowed whole, with water.
+The recommended dose is 10 mg once daily.
 
-Opsumit should be taken every day at about the same time.
-If the patient misses a dose of Opsumit, the patient should be told to take it as soon as possible and then take the next dose at the regularly scheduled time.
-The patient should be told not to take two doses at the same time if a dose has been missed.
+Special populations
+
 Elderly
 
 No dose adjustment is required in patients over the age of 65 years (see section 5.2).
@@ -30,4 +28,14 @@ The use of Opsumit is not recommended in patients undergoing dialysis (see secti
 
 Paediatric population
 
-The safety and efficacy of macitentan in children have not yet been established.
+The safety and efficacy of macitentan in children and adolescents below 18 years have not yet been established.
+No data are available.
+
+Method of administration
+
+The film-coated tablets are not breakable and are to be swallowed whole, with water.
+They may be taken with or without food.
+
+Opsumit should be taken every day at about the same time.
+If the patient misses a dose of Opsumit, the patient should be told to take it as soon as possible and then take the next dose at the regularly scheduled time.
+The patient should be told not to take two doses at the same time if a dose has been missed.

@@ -2,8 +2,11 @@
 
 In vitro studies
 
-The cytochrome P450 enzymes CYP3A4, CYP2C8, CYP2C9, and CYP2C19 are involved in the metabolism of macitentan and formation of its metabolites (see section 5.2).
-Macitentan and its active metabolite do not have clinically relevant inhibitory or inducing effects on cytochrome P450 enzymes.
+| The cytochrome P450 enzymes CYP3A4, CYP2C8, CYP2C9, and CYP2C19 are involved in the |  |
+| --- | --- |
+| metabolism of macitentan and formation of its metabolites (see section 5.2). | Macitentan and its |
+
+metabolite do not have clinically relevant inhibitory or inducing effects on cytochrome P450 enzymes.
 
 Macitentan and its active metabolite are not inhibitors of hepatic or renal uptake transporters at clinically relevant concentrations, including the organic anion transporting polypeptides (OATP1B1 and OATP1B3).
 Macitentan and its active metabolite are not relevant substrates of OATP1B1 and OATP1B3, but enter the liver by passive diffusion.
@@ -16,16 +19,9 @@ At clinically relevant concentrations, macitentan and its active metabolite do n
 
 In vivo studies
 
-Interaction studies have only been performed in adults.
-
-Warfarin: Macitentan given as multiple doses of 10 mg once daily had no effect on exposure to S-warfarin (CYP2C9 substrate) or R-warfarin (CYP3A4 substrate) after a single dose of 25 mg warfarin.
-The pharmacodynamic effect of warfarin on International Normalized Ratio (INR) was not affected by macitentan.
-The pharmacokinetics of macitentan and its active metabolite were not affected by warfarin.
-
-Sildenafil: At steady-state, the exposure to sildenafil 20 mg t.i.d. was increased by 15% during concomitant administration of macitentan 10 mg once daily.
-Sildenafil, a CYP3A4 substrate, did not affect the pharmacokinetics of macitentan, while there was a 15% reduction in the exposure to the active metabolite of macitentan.
-These changes are not considered clinically relevant.
-In a placebo-controlled trial in patients with PAH, the efficacy and safety of macitentan in combination with sildenafil were demonstrated.
+Strong CYP3A4 inducers: Concomitant treatment with rifampicin 600 mg daily, a potent inducer of CYP3A4, reduced the steady-state exposure to macitentan by 79% but did not affect the exposure to the active metabolite.
+Reduced efficacy of macitentan in the presence of a potent inducer of CYP3A4 such as rifampicin should be considered.
+The combination of macitentan with strong CYP3A4 inducers should be avoided (see section 4.4).
 
 Ketoconazole: In the presence of ketoconazole 400 mg once daily, a strong CYP3A4 inhibitor, exposure to macitentan increased approximately 2-fold.
 The predicted increase was approximately 3-fold in the presence of ketoconazole 200 mg twice daily using physiologically based pharmacokinetic (PBPK) modelling.
@@ -33,10 +29,18 @@ The uncertainties of such modelling should be considered.
 Exposure to the active metabolite of macitentan was reduced by 26%.
 Caution should be exercised when macitentan is administered concomitantly with strong CYP3A4 inhibitors (see section 4.4).
 
-Cyclosporine A: Concomitant treatment with cyclosporine A 100 mg b.i.d., a combined CYP3A4 and OATP inhibitor, did not alter the steady-state exposure to macitentan and its active metabolite to a clinically relevant extent.
+Warfarin: Macitentan given as multiple doses of 10 mg once daily had no effect on exposure to S-warfarin (CYP2C9 substrate) or R-warfarin (CYP3A4 substrate) after a single dose of 25 mg warfarin.
+The pharmacodynamic effect of warfarin on International Normalised Ratio (INR) was not affected by macitentan.
+The pharmacokinetics of macitentan and its active metabolite were not affected by warfarin.
 
-Strong CYP3A4 inducers: Concomitant treatment with rifampicin 600 mg daily, a potent inducer of CYP3A4, reduced the steady-state exposure to macitentan by 79% but did not affect the exposure to the active metabolite.
-Reduced efficacy of macitentan in the presence of a potent inducer of CYP3A4 such as rifampicin should be considered.
-The combination of macitentan with strong CYP3A4 inducers should be avoided (see section 4.4).
+Sildenafil: At steady-state, the exposure to sildenafil 20 mg three times a day was increased by 15% during concomitant administration of macitentan 10 mg once daily.
+Sildenafil, a CYP3A4 substrate, did not affect the pharmacokinetics of macitentan, while there was a 15% reduction in the exposure to the active metabolite of macitentan.
+These changes are not considered clinically relevant.
+In a placebo-controlled trial in patients with PAH, the efficacy and safety of macitentan in combination with sildenafil were demonstrated.
+Cyclosporine A: Concomitant treatment with cyclosporine A 100 mg twice daily, a combined CYP3A4 and OATP inhibitor, did not alter the steady-state exposure to macitentan and its active metabolite to a clinically relevant extent.
 
 Hormonal contraceptives: Macitentan 10 mg once daily did not affect the pharmacokinetics of an oral contraceptive (norethisterone 1 mg and ethinyl estradiol 35 µg).
+
+Paediatric population
+
+Interaction studies have only been performed in adults.

@@ -15,7 +15,7 @@ Reinitiation of Opsumit may be considered following the return of hepatic enzyme
 The advice of a hepatologist is recommended.
 Haemoglobin concentration
 
-As with other ERAs, treatment with macitentan has been associated with a decrease in haemoglobin concentration (see section 4.8).
+Decrease in haemoglobin concentrations has been associated with endothelin receptor antagonists (ERAs) including macitentan (see section 4.8).
 In placebo-controlled studies, macitentan-related decreases in haemoglobin concentration were not progressive, stabilised after the first 4–12 weeks of treatment and remained stable during chronic treatment.
 Cases of anaemia requiring blood cell transfusion have been reported with macitentan and other ERAs.
 Initiation of Opsumit is not recommended in patients with severe anaemia.
@@ -55,7 +55,9 @@ There is limited clinical experience with macitentan in patients over the age of
 
 Excipients
 
-Opsumit tablets contain lactose.
-Patients with rare hereditary problems of galactose intolerance, Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
-Opsumit tablets contain lecithin derived from soya.
+Opsumit contains lactose.
+Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+Opsumit contains soya bean lecithin.
 If a patient is hypersensitive to soya, Opsumit must not be used (see section 4.3).
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
