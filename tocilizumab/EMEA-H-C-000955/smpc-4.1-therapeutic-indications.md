@@ -14,6 +14,8 @@ RoActemra can be given as monotherapy (in case of intolerance to MTX or where tr
 RoActemra in combination with methotrexate (MTX) is indicated for the treatment of juvenile idiopathic polyarthritis (pJIA; rheumatoid factor positive or negative and extended oligoarthritis) in patients 2 years of age and older, who have responded inadequately to previous therapy with MTX.
 RoActemra can be given as monotherapy in case of intolerance to MTX or where continued treatment with MTX is inappropriate.
 
+RoActemra is indicated for the treatment of chimeric antigen receptor (CAR) T cell-induced severe or life-threatening cytokine release syndrome (CRS) in adults and paediatric patients 2 years of age and older.
+
 [RoActemra 162 mg solution for injection in pre-filled syringe.]
 
 RoActemra is indicated for the treatment of Giant Cell Arteritis (GCA) in adult patients.

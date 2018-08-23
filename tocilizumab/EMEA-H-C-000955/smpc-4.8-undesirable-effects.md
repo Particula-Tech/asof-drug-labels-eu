@@ -112,9 +112,9 @@ Long-term safety evaluations are ongoing.
 Skin Reactions
 Very rare reports of Stevens-Johnson Syndrome have occurred in the post marketing setting.
 
-Paediatric population
+sJIA and pJIA Patients
 
-The safety of tocilizumab in the pediatric population in the sections on pJIA and sJIA below.
+The safety of tocilizumab in the pediatric population is summarized in the sections on pJIA and sJIA below.
 In general, the ADRs in pJIA and sJIA patients were similar in type to those see in RA patients, see section 4.8.
 
 The ADRs in the pJIA and sJIA patients treated with tocilizumab are described below and are presented in the Table 2 by system organ class and frequency categories, defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to < 1/10) or uncommon (≥ 1/1,000 to <1/100)
@@ -243,6 +243,10 @@ During routine laboratory monitoring in the 12 week controlled phase, elevation 
 Elevation in LDL > 1.5 x ULN to 2 x ULN occurred in 1.9% of patients in the tocilizumab group, and in 0% of the placebo group.
 
 In the ongoing open label extension phase, the pattern and incidence of elevations in lipid parameters remained consistent with the 12 week controlled phase data.
+
+CRS Patients
+The safety of tocilizumab in CRS has been evaluated in a retrospective analysis of data from clinical trials, where 51 patients were treated with intravenous tocilizumab 8 mg/kg (12 mg/kg for patients less than 30 kg) with or without additional high-dose corticosteroids for severe or life-threatening CAR T-cell-induced CRS.
+A median of 1 dose of tocilizumab (range, 1-4 doses) was administered.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorization of the medicinal product is important.

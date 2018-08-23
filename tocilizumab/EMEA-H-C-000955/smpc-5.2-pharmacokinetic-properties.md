@@ -53,7 +53,6 @@ The linear clearance estimated as a parameter in the population pharmacokinetic 
 
 The half life of tocilizumab in sJIA patients is up to 23 days for the two body weight categories
 (8 mg/kg for body weight ≥ 30 kg or 12 mg/kg for body weight < 30 kg) at week 12.
-
 pJIA Patients:
 The pharmacokinetics of tocilizumab was determined using a population pharmacokinetic analysis on a database composed of 188 patients with pJIA.
 
@@ -66,6 +65,7 @@ The predicted mean (± SD) AUC4weeks, Cmax and Cmin of tocilizumab were 23200 ±
 
 The accumulation ratios were 1.05 and 1.16 for AUC4weeks, and 1.43 and 2.22 for Cmin for 10 mg/kg (body weight < 30 kg) and 8 mg/kg (body weight ≥ 30 kg) doses, respectively.
 No accumulation for Cmax was observed.
+
 In pJIA patients, the central volume of distribution was 50 ml/kg, the peripheral volume of distribution was 53 ml/kg, resulting in a volume of distribution at steady state of 103 ml/kg.
 The linear clearance estimated as a parameter in the population pharmacokinetic analysis was 0.146 ml/hr/kg.
 

@@ -23,7 +23,6 @@ Rheumatoid arthritis patients demonstrated a similar pattern of absolute neutrop
 Clinical efficacy and safety
 The efficacy of tocilizumab in alleviating the signs and symptoms of RA was assessed in five randomised, double-blind, multi-centre studies.
 Studies I-V enrolled patients ≥ 18 years of age with active RA diagnosed according to the American College of Rheumatology (ACR) criteria and who had at least eight tender and six swollen joints at baseline.
-
 In Study I, tocilizumab was administered intravenously every four weeks as monotherapy.
 In Studies II, III and V, tocilizumab was administered intravenously every four weeks in combination with MTX vs. placebo and MTX.
 In Study IV, tocilizumab was administered intravenously every 4 weeks in combination with other DMARDs vs. placebo and other DMARDs.
@@ -65,9 +64,9 @@ Patients in studies I – V had a mean Disease Activity Score (DAS28) of 6.5–6
 Significant reduction in DAS28 from baseline (mean improvement) of 3.1–3.4 were observed in tocilizumab-treated patients compared to control patients (1.3-2.1).
 The proportion of patients achieving a DAS28 clinical remission (DAS28 < 2.6) was significantly higher in patients receiving tocilizumab (28–34%) compared to 1–12% of control patients at 24 weeks.
 In study II, 65% of patients achieved a DAS28 < 2.6 at week 104 compared to 48% at 52 weeks and 33% of patients at week 24.
-
 In a pooled analysis of studies II, III and IV, the proportion of patients achieving an ACR 20, 50 and 70 response was significantly higher (59% vs. 50%, 37% vs. 27%, 18% vs. 11%, respectively) in the tocilizumab 8 mg/kg plus DMARD vs. the tocilizumab 4 mg/kg plus DMARD group (p< 0.03).
 Similarly the proportion of patients achieving a DAS28 remission (DAS28 < 2.6) was significantly higher (31% vs. 16% respectively) in patients receiving tocilizumab 8 mg/kg plus DMARD than in patients receiving tocilizumab 4 mg/kg plus DMARD (p< 0.0001).
+
 Table 3.
 ACR responses in placebo-/MTX-/DMARDs-controlled studies (% patients)
 
@@ -103,7 +102,6 @@ Inhibition of joint structural damage was shown with significantly less radiogra
 
 In the open-label extension of Study II the inhibition of progression of structural joint damage in tocilizumab plus MTX-treated patients was maintained in the second year of treatment.
 The mean change from baseline at week 104 in total Sharp-Genant score was significantly lower for patients randomised to tocilizumab 8 mg/kg plus MTX (p<0.0001) compared with patients who were randomised to placebo plus MTX.
-
 Table 4.
 Radiographic mean changes over 52 weeks in Study II
 
@@ -140,7 +138,6 @@ Study VI (WA19924), a 24 week double-blinded study that compared tocilizumab mon
 Patients in the tocilizumab arm received an intravenous (IV) infusion of tocilizumab (8 mg/kg) every 4 weeks (q4w) and a subcutaneous (SC) placebo injection every 2 weeks (q2w).
 Patients in the adalimumab arm received an adalimumab SC injection (40 mg) q2w plus an IV placebo infusion q4w.
 A statistically significant superior treatment effect was seen in favour of tocilizumab over adalimumab in control of disease activity from baseline to week 24 for the primary endpoint of change in DAS28 and for all secondary endpoints (Table 5).
-
 Table 5: Efficacy Results for Study VI (WA19924)
 
 ADA + Placebo (IV) TCZ + Placebo (SC)
@@ -307,6 +304,16 @@ Patients randomized to tocilizumab had fewer ACR30 flares and higher overall ACR
 
 The European Medicines Agency has waived the obligation to submit the results of studies with RoActemra in all subsets of the paediatric population in rheumatoid arthritis and has deferred the obligation to submit the results of studies with RoActemra in one or more subsets of the paediatric population in juvenile idiopathic arthritis.
 See section 4.2 for information on paediatric use.
+
+CRS
+The efficacy of RoActemra for the treatment of CRS was assessed in a retrospective analysis of data from clinical trials of CAR T-cell therapies (tisagenlecleucel and axicabtagene ciloleucel) for hematological malignancies.
+Evaluable patients had been treated with tocilizumab 8 mg/kg (12 mg/kg for patients < 30 kg) with or without additional high-dose corticosteroids for severe or life-threatening CRS; only the first episode of CRS was included in the analysis.
+The efficacy population for the tisagenlecleucel cohort included 28 males and 23 females (total 51 patients) of median age 17 years (range, 3–68 years).
+The median time from start of CRS to first dose of tocilizumab was 3 days (range, 0–18 days).
+Resolution of CRS was defined as lack of fever and off vasopressors for at least 24 hours.
+Patients were considered responders if CRS resolved within 14 days of the first dose of tocilizumab, if no more than 2 doses of RoActemra were needed, and no drugs other than RoActemra and corticosteroids were used for treatment.
+Thirty-nine patients (76.5%; 95% CI: 62.5%–87.2%) achieved a response.
+In an independent cohort of 15 patients (range: 9–75 years old) with axicabtagene ciloleucel-induced CRS, 53% responded.
 
 [RoActemra 162 mg solution for injection in pre-filled syringe.]
 

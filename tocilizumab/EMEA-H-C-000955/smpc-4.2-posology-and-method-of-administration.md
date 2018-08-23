@@ -1,6 +1,6 @@
 # 4.2 Posology and method of administration
 
-Treatment should be initiated by healthcare professionals experienced in the diagnosis and treatment of RA, sJIA or pJIA.
+Treatment should be initiated by healthcare professionals experienced in the diagnosis and treatment of RA, sJIA, pJIA or CRS.
 All patients treated with RoActemra should be given the Patient Alert Card.
 
 RA Patients
@@ -37,6 +37,16 @@ In patients not previously treated with RoActemra, initiation is not recommended
 | --- | --- |
 | 50 to 100 | Interrupt RoActemra dosing When platelet count > 100 x 103/ μ resume RoActemra at 4 mg/kg and increase to 8 mg/kg as clinically appropriate |
 | < 50 | Discontinue RoActemra |
+
+Cytokine Release Syndrome (CRS) (adults and paediatrics)
+The recommended posology for treatment of CRS given as a 60-minute intravenous infusion is 8 mg/kg in patients weighing greater than or equal to 30 kg or 12 mg/kg in patients weighing less than 30 kg.
+RoActemra can be given alone or in combination with corticosteroids.
+
+If no clinical improvement in the signs and symptoms of CRS occurs after the first dose, up to 3 additional doses of RoActemra may be administered.
+The interval between consecutive doses should be at least 8 hours.
+Doses exceeding 800 mg per infusion are not recommended in CRS patients.
+
+Patients with severe or life-threatening CRS frequently have cytopenias or elevated ALT or AST due to the underlying malignancy, preceding lymphodepleting chemotherapy or the CRS.
 
 Special populations
 Paediatric patients
@@ -90,6 +100,7 @@ A change in dose should only be based on a consistent change in the patient’s 
 
 The safety and efficacy of RoActemra in children below 2 years of age has not been established.
 No data are available.
+
 Dose interruptions of tocilizumab for the following laboratory abnormalities are recommended in pJIA patients in the tables below.
 If appropriate, the dose of concomitant MTX and/or other medications should be modified or dosing stopped and tocilizumab dosing interrupted until the clinical situation has been evaluated.
 As there are many co-morbid conditions that may effect laboratory values in pJIA, the decision to discontinue tocilizumab for a laboratory abnormality should be based upon the medical assessment of the individual patient.
@@ -135,14 +146,14 @@ RoActemra has not been studied in patients with hepatic impairment.
 Therefore, no dose recommendations can be made.
 
 Method of administration
-After dilution, RoActemra for RA, sJIA and pJIA patients should be administered as an intravenous infusion over 1 hour.
+After dilution, RoActemra for RA, sJIA, pJIA, and CRS patients should be administered as an intravenous infusion over 1 hour.
 
-RA, sJIA and pJIA Patients ≥ 30 kg
+RA, sJIA,pJIA and CRS Patients ≥ 30 kg
 RoActemra should be diluted to a final volume of 100 ml with sterile, non-pyrogenic sodium chloride 9 mg/ml (0.9%) solution for injection using aseptic technique.
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.
 
-sJIA and pJIA Patients < 30 kg
+sJIA,pJIA and CRS Patients < 30 kg
 RoActemra should be diluted to a final volume of 50 ml with sterile, non-pyrogenic sodium chloride 9 mg/ml (0.9%) solution for injection using aseptic technique.
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.
