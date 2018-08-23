@@ -4,13 +4,13 @@ Tablet core
 Microcrystalline cellulose
 Croscarmellose sodium
 Lactose monohydrate
-Hypromellose
+Hypromellose 2910
 Sodium laurilsulphate
 Magnesium stearate
 
 Film-coat
 Macrogol 3350
-Hypromellose
+Hypromellose 2910
 Titanium dioxide (E 171)
 Iron oxide yellow (E 172)
 

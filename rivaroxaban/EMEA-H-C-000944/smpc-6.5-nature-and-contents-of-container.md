@@ -2,7 +2,7 @@
 
 PP/Aluminium foil blisters in cartons of 14, 20, 28, 30, 56, 60, 98, 168 or 196 film-coated tablets or perforated unit dose blisters in cartons of 10 x 1 or 100 x 1 or in multipacks containing 100 (10 packs of 10 x 1) film-coated tablets.
 PVC/PVDC/Aluminium foil blisters in cartons of 14 film-coated tablets.
-HDPE bottles of 100 film-coated tablets with a PP screw cap.
+HDPE bottles with a PP screw cap containing 100 film-coated tablets.
 
 Not all pack sizes may be marketed.
 

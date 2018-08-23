@@ -1,6 +1,6 @@
 # 3. PHARMACEUTICAL FORM
 
-Film-coated tablet (tablet).
+Film-coated tablet (tablet)
 
 Light yellow, round biconvex tablets (6 mm diameter, 9 mm radius of curvature) marked with the BAYER-cross on one side and "2.5" and a triangle on the other side.
 

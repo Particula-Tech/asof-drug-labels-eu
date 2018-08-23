@@ -3,17 +3,29 @@
 Posology
 The recommended dose is 2.5 mg twice daily.
 
-Patients should also take a daily dose of 75 - 100 mg ASA or a daily dose of 75 - 100 mg ASA in addition to either a daily dose of 75 mg clopidogrel or a standard daily dose of ticlopidine.
+- ACS
+
+Patients taking Xarelto 2.5 mg twice daily should also take a daily dose of 75 - 100 mg ASA or a daily dose of 75 - 100 mg ASA in addition to either a daily dose of 75 mg clopidogrel or a standard daily dose of ticlopidine.
 
 Treatment should be regularly evaluated in the individual patient weighing the risk for ischaemic events against the bleeding risks.
 Extension of treatment beyond 12 months should be done on an individual patient basis as experience up to 24 months is limited (see section 5.1).
-
 Treatment with Xarelto should be started as soon as possible after stabilisation of the ACS event (including revascularisation procedures); at the earliest 24 hours after admission to hospital and at the time when parenteral anticoagulation therapy would normally be discontinued.
+
+- CAD/PAD
+
+Patients taking Xarelto 2.5 mg twice daily should also take a daily dose of 75 - 100 mg ASA.
+
+Duration of treatment should be determined for each individual patient based on regular evaluations and should consider the risk for thrombotic events versus the bleeding risks.
+
+In patients with an acute thrombotic event or vascular procedure and a need for dual antiplatelet therapy, the continuation of Xarelto 2.5 mg twice daily should be evaluated depending on the type of event or procedure and antiplatelet regimen.
+Safety and efficacy of Xarelto 2.5 mg twice daily in combination with ASA plus clopidogrel/ticlopidine has only been studied in patients with recent ACS (see section 4.1).
+Dual antiplatelet therapy has not been studied in combination with Xarelto 2.5 mg twice daily in patients with CAD/PAD (see sections 4.4 and 5.1).
 
 If a dose is missed the patient should continue with the regular dose as recommended at the next scheduled time.
 The dose should not be doubled to make up for a missed dose.
+
 Converting from Vitamin K Antagonists (VKA) to Xarelto
-When converting patients from VKAs to Xarelto, International Normalised Ratio (INR) values will be falsely elevated after the intake of Xarelto.
+When converting patients from VKAs to Xarelto, International Normalised Ratio (INR) values could be falsely elevated after the intake of Xarelto.
 The INR is not valid to measure the anticoagulant activity of Xarelto, and therefore should not be used (see section 4.5).
 
 Converting from Xarelto to Vitamin K antagonists (VKA)
@@ -38,18 +50,18 @@ Therefore, Xarelto is to be used with caution in these patients.
 Use is not recommended in patients with creatinine clearance
 < 15 ml/min (see sections 4.4 and 5.2).
 No dose adjustment is necessary in patients with mild renal impairment (creatinine clearance 50 - 80 ml/min) or moderate renal impairment (creatinine clearance 30 - 49 ml/min) (see section 5.2).
-
 Hepatic impairment
 Xarelto is contraindicated in patients with hepatic disease associated with coagulopathy and clinically relevant bleeding risk including cirrhotic patients with Child Pugh B and C (see sections 4.3 and 5.2).
 
 Elderly population
-No dose adjustment (see sections 4.4 and 5.2).
+No dose adjustment (see sections 4.4 and 5.2)
+The risk of bleeding increases with increasing age (see section 4.4).
 
 Body weight
-No dose adjustment (see sections 4.4 and 5.2).
+No dose adjustment (see sections 4.4 and 5.2)
 
 Gender
-No dose adjustment (see section 5.2).
+No dose adjustment (see section 5.2)
 
 Paediatric population
 The safety and efficacy of Xarelto in children aged 0 to 18 years have not been established.
@@ -76,7 +88,6 @@ The duration of treatment depends on the individual risk of the patient for veno
 - For patients undergoing major knee surgery, a treatment duration of 2 weeks is recommended.
 
 If a dose is missed the patient should take Xarelto immediately and then continue the following day with once daily intake as before.
-
 Treatment of DVT, treatment of PE and prevention of recurrent DVT and PE
 The recommended dose for the initial treatment of acute DVT or PE is 15 mg twice daily for the first three weeks followed by 20 mg once daily for the continued treatment and prevention of recurrent DVT and PE.
 Short duration of therapy (at least 3 months) should be considered in patients with DVT or PE provoked by major transient risk factors (i.e. recent major surgery or trauma).
@@ -103,6 +114,8 @@ If a dose is missed during the once daily treatment phase, the patient should ta
 The dose should not be doubled within the same day to make up for a missed dose.
 
 For patients treated for DVT, PE and prevention of recurrence, VKA treatment should be stopped and Xarelto therapy should be initiated once the INR is ≤ 2.5.
+
+When converting patients from VKAs to Xarelto, International Normalised Ratio (INR) values will be falsely elevated after the intake of Xarelto.
 
 - For the prevention of VTE in adult patients undergoing elective hip or knee replacement surgery, no dose adjustment is necessary in patients with mild renal impairment (creatinine clearance 50 - 80 ml/min) or moderate renal impairment (creatinine clearance 30- 49 ml/min) (see section 5.2).
 - For the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE, no dose adjustment from the recommended dose is necessary in patients with mild renal impairment (creatinine clearance 50 - 80 ml/min) (see section 5.2).

@@ -2,6 +2,8 @@
 
 Xarelto, co-administered with acetylsalicylic acid (ASA) alone or with ASA plus clopidogrel or ticlopidine, is indicated for the prevention of atherothrombotic events in adult patients after an acute coronary syndrome (ACS) with elevated cardiac biomarkers (see sections 4.3, 4.4 and 5.1).
 
+Xarelto, co-administered with acetylsalicylic acid (ASA), is indicated for the prevention of atherothrombotic events in adult patients with coronary artery disease (CAD) or symptomatic peripheral artery disease (PAD) at high risk of ischaemic events.
+
 [Xarelto 10 mg film-coated tablets]
 
 Prevention of venous thromboembolism (VTE) in adult patients undergoing elective hip or knee replacement surgery.

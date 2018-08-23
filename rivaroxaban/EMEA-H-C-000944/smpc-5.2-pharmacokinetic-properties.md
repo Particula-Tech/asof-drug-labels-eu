@@ -39,10 +39,10 @@ There were no clinically relevant differences in pharmacokinetics and pharmacody
 Elderly population
 Elderly patients exhibited higher plasma concentrations than younger patients, with mean AUC values being approximately 1.5 fold higher, mainly due to reduced (apparent) total and renal clearance.
 No dose adjustment is necessary.
+
 Different weight categories
 Extremes in body weight (< 50 kg or > 120 kg) had only a small influence on rivaroxaban plasma concentrations (less than 25%).
 No dose adjustment is necessary.
-
 Inter-ethnic differences
 No clinically relevant inter-ethnic differences among Caucasian, African-American, Hispanic, Japanese or Chinese patients were observed regarding rivaroxaban pharmacokinetics and pharmacodynamics.
 

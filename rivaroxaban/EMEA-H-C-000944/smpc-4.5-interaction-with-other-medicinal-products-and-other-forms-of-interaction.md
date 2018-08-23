@@ -37,13 +37,13 @@ Care is to be taken if patients are treated concomitantly with NSAIDs (including
 SSRIs/SNRIs
 As with other anticoagulants the possibility may exist that patients are at increased risk of bleeding in case of concomitant use with SSRIs or SNRIs due to their reported effect on platelets.
 When concomitantly used in the rivaroxaban clinical programme, numerically higher rates of major or non-major clinically relevant bleeding were observed in all treatment groups.
+
 Warfarin
 Converting patients from the vitamin K antagonist warfarin (INR 2.0 to 3.0) to rivaroxaban (20 mg) or from rivaroxaban (20 mg) to warfarin (INR 2.0 to 3.0) increased prothrombin time/INR (Neoplastin) more than additively (individual INR values up to 12 may be observed), whereas effects on aPTT, inhibition of factor Xa activity and endogenous thrombin potential were additive.
 If it is desired to test the pharmacodynamic effects of rivaroxaban during the conversion period, anti-factor Xa activity, PiCT, and Heptest can be used as these tests were not affected by warfarin.
 On the fourth day after the last dose of warfarin, all tests (including PT, aPTT, inhibition of factor Xa activity and ETP) reflected only the effect of rivaroxaban.
 If it is desired to test the pharmacodynamic effects of warfarin during the conversion period, INR measurement can be used at the Ctrough of rivaroxaban (24 hours after the previous intake of rivaroxaban) as this test is minimally affected by rivaroxaban at this time point.
 No pharmacokinetic interaction was observed between warfarin and rivaroxaban.
-
 CYP3A4 inducers
 Co-administration of rivaroxaban with the strong CYP3A4 inducer rifampicin led to an approximate 50% decrease in mean rivaroxaban AUC, with parallel decreases in its pharmacodynamic effects.
 The concomitant use of rivaroxaban with other strong CYP3A4 inducers (e.g. phenytoin, carbamazepine, phenobarbital or St. John’s Wort (Hypericum perforatum)) may also lead to reduced rivaroxaban plasma concentrations.

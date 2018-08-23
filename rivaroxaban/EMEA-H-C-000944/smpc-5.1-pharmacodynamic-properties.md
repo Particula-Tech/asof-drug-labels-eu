@@ -18,10 +18,10 @@ In contrast, the 3-factor PCC had a greater and more rapid overall effect on rev
 The activated partial thomboplastin time (aPTT) and HepTest are also prolonged dose-dependently; however, they are not recommended to assess the pharmacodynamic effect of rivaroxaban.
 There is no need for monitoring of coagulation parameters during treatment with rivaroxaban in clinical routine.
 However, if clinically indicated, rivaroxaban levels can be measured by calibrated quantitative anti-factor-Xa tests (see section 5.2).
-
 Clinical efficacy and safety
+ACS
 The rivaroxaban clinical programme was designed to demonstrate the efficacy of Xarelto for the prevention of cardiovascular (CV) death, myocardial infarction (MI) or stroke in subjects with a recent ACS (ST-elevation myocardial infarction [STEMI], non- ST-elevation myocardial infarction [NSTEMI] or unstable angina [UA]).
-In the pivotal double-blind ATLAS ACS 2 TIMI 51 trial, 15,526 patients were randomly assigned in a 1:1:1 fashion to one of three treatment groups: Xarelto 2.5 mg orally twice daily, 5 mg orally twice daily or to placebo twice daily co-administered with ASA alone or with ASA plus a thienopyridine (clopidogrel or ticlopidine).
+In the pivotal double-blind ATLAS ACS 2 TIMI 51 study, 15,526 patients were randomly assigned in a 1:1:1 fashion to one of three treatment groups: Xarelto 2.5 mg orally twice daily, 5 mg orally twice daily or to placebo twice daily co-administered with ASA alone or with ASA plus a thienopyridine (clopidogrel or ticlopidine).
 Patients with an ACS under the age of 55 had to have either diabetes mellitus or a previous MI.
 The median time on treatment was 13 months and overall treatment duration was up to almost 3 years.
 93.2% of patients received ASA concomitantly plus thienopyridine treatment and 6.8% ASA only.
@@ -44,12 +44,14 @@ Table 4: Efficacy results from phase III ATLAS ACS 2 TIMI 51
 
 | Study population | Patients with a recent acute coronary syndrome a) |  |
 | --- | --- | --- |
-| Treatment Dose | Xarelto 2.5 mg, twice daily, N=5,114 n (%) Hazard Ratio (HR) (95% CI) p-value b) | Placebo N=5,113 n (%) |
+| Treatment dose | Xarelto 2.5 mg, twice daily, N=5,114 n (%) Hazard Ratio (HR) (95% CI) p-value b) | Placebo N=5,113 n (%) |
 | Cardiovascular death, MI or stroke | 313 (6.1%) 0.84 (0.72, 0.97) p = 0.020* | 376 (7.4%) |
 | All-cause death, MI or stroke | 320 (6.3%) 0.83 (0.72, 0.97) p = 0.016* | 386 (7.5%) |
 | Cardiovascular death | 94 (1.8%) 0.66 (0.51, 0.86) p = 0.002** | 143 (2.8%) |
 | All-cause death | 103 (2.0%) 0.68 (0.53, 0.87) p = 0.002** | 153 (3.0%) |
-| MI | 205 (4.0%) 0.90 (0.75, 1.09) p = 0.270 | 229 (4.5%) |
+| MI | 205 (4.0%) | 229 (4.5%) |
+| Treatment dose | Xarelto 2.5 mg, twice daily, N=5,114 n (%) Hazard Ratio (HR) (95% CI) p-value b) | Placebo N=5,113 n (%) |
+|  | 0.90 (0.75, 1.09) p = 0.270 |  |
 | Stroke | 46 (0.9%) 1.13 (0.74, 1.73) p = 0.562 | 41 (0.8%) |
 | Stent thrombosis | 61 (1.2%) 0.70 (0.51, 0.97) p = 0.033** | 87 (1.7%) |
 
@@ -61,7 +63,7 @@ Table 5: Efficacy results from phase III ATLAS ACS 2 TIMI 51 in patients undergo
 
 | Study population | Patients with recent acute coronary syndrome undergoing PCI a) |  |
 | --- | --- | --- |
-| Treatment Dose | Xarelto 2.5 mg, twice daily, N=3114 n (%) HR (95% CI) p-value b) | Placebo N=3096 n (%) |
+| Treatment dose | Xarelto 2.5 mg, twice daily, N=3114 n (%) HR (95% CI) p-value b) | Placebo N=3096 n (%) |
 | Cardiovascular death, MI or stroke | 153 (4.9%) 0.94 (0.75, 1.17) p = 0.572 | 165 (5.3%) |
 | Cardiovascular death | 24 (0.8%) 0.54 (0.33, 0.89) p = 0.013** | 45 (1.5%) |
 | All-cause death | 31 (1.0%) 0.64 (0.41, 1.01) p = 0.053 | 49 (1.6%) |
@@ -75,7 +77,7 @@ Table 6: Safety results from phase III ATLAS ACS 2 TIMI 51
 
 | Study population | Patients with recent acute coronary syndrome a) |  |
 | --- | --- | --- |
-| Treatment Dose | Xarelto 2.5 mg, twice daily, N=5,115 n (%) HR (95% CI) p-value b) | Placebo N=5,125 n(%) |
+| Treatment dose | Xarelto 2.5 mg, twice daily, N=5,115 n (%) HR (95% CI) p-value b) | Placebo N=5,125 n(%) |
 | Non-CABG TIMI major bleeding event | 65 (1.3%) 3.46 (2.08, 5.77) p = < 0.001* | 19 (0.4%) |
 | Fatal bleeding event | 6 (0.1%) 0.67 (0.24, 1.89) p = 0.450 | 9 (0.2%) |
 | Symptomatic intracranial haemorrhage | 14 (0.3%) 2.83 (1.02, 7.86) p = 0.037 | 5 (0.1%) |
@@ -112,6 +114,72 @@ No. of Patients at Risk Relative Days from the Randomization
 XARELTO 5114 4431 3943 3199 2609 2005 1425 878 415 89
 Placebo 5113 4437 3974 3253 2664 2059 1460 878 421 87
 
+CAD/PAD
+The phase III COMPASS study (27,395 patients, 78.0% male, 22.0% female) demonstrated the efficacy and safety of Xarelto for the prevention of a composite of CV death, MI, stroke in patients with CAD or symptomatic PAD at high risk of ischaemic events.
+Patients were followed for a median of 23 months and maximum of 3.9 years.
+
+Subjects without a continuous need for treatment with a proton pump inhibitor were randomized to pantoprazole or placebo.
+All patients were then randomized 1:1:1 to rivaroxaban 2.5 mg twice daily/ASA 100 mg once daily, to rivaroxaban 5 mg twice daily, or ASA 100 mg once daily alone, and their matching placebos.
+
+CAD patients had multivessel CAD and/or prior MI.
+For patients < 65 years of age atherosclerosis involving at least two vascular beds or at least two additional cardiovascular risk factors were required.
+
+PAD patients had previous interventions such as bypass surgery or percutaneous transluminal angioplasty or limb or foot amputation for arterial vascular disease or intermittent claudication with ankle/arm blood pressure ratio < 0.90 and/ or significant peripheral artery stenosis or previous carotid revascularization or asymptomatic carotid artery stenosis ≥ 50%.
+
+Exclusion criteria included the need for dual antiplatelet or other non-ASA antiplatelet or oral anticoagulant therapy and patients with high bleeding risk, or heart failure with ejection fraction
+< 30% or New York Heart Association class III or IV, or any ischaemic, non-lacunar stroke within 1 month or any history of haemorrhagic or lacunar stroke.
+
+Xarelto 2.5 mg twice daily in combination with ASA 100 mg once daily was superior to ASA 100 mg, in the reduction of the primary composite outcome of CV death, MI, stroke (see Table 7 and Figure 2).
+
+There was a significant increase of the primary safety outcome (modified ISTH major bleeding events) in patients treated with Xarelto 2.5 mg twice daily in combination with ASA 100 mg once daily compared to patients who received ASA 100 mg (see Table 8).
+For the primary efficacy outcome, the observed benefit of Xarelto 2.5 mg twice daily plus ASA
+100 mg once daily compared with ASA 100 mg once daily was HR=0.89 (95% CI 0.7-1.1) in patients ≥75 years (incidence: 6.3% vs 7.0%) and HR=0.70 (95% CI 0.6-0.8) in patients <75 years (3.6% vs 5.0%).
+For modified ISTH major bleeding, the observed risk increase was HR=2.12 (95% CI 1.5-3.0) in patients ≥75 years (5.2% vs 2.5%) and HR=1.53 (95% CI 1.2-1.9) in patients <75 years (2.6% vs 1.7%).
+Table 7: Efficacy results from phase III COMPASS
+
+| Study Population | Patients with CAD/PAD a) |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Treatment Dosage | Xarelto 2.5 mg bid in combination with ASA 100 mg od N=9152 |  | ASA 100 mg od N=9126 |  |  |  |
+|  | Patients with events | KM % | Patients with events | KM % | HR (95% CI) | p-value b) |
+| Stroke, MI or CV death | 379 (4.1%) | 5.20% | 496 (5.4%) | 7.17% | 0.76 (0.66;0.86) | p = 0.00004* |
+| - Stroke | 83 (0.9%) | 1.17% | 142 (1.6%) | 2.23% | 0.58 (0.44;0.76) | p = 0.00006 |
+| - MI | 178 (1.9%) | 2.46% | 205 (2.2%) | 2.94% | 0.86 (0.70;1.05) | p = 0.14458 |
+| - CV death | 160 (1.7%) | 2.19% | 203 (2.2%) | 2.88% | 0.78 (0.64;0.96) | p = 0.02053 |
+| All-cause mortality | 313 (3.4%) | 4.50% | 378 (4.1%) | 5.57% | 0.82 (0.71;0.96) |  |
+| Acute limb ischaemia | 22 (0.2%) | 0.27% | 40 (0.4%) | 0.60% | 0.55 (0.32;0.92) |  |
+
+a) intention to treat analysis set, primary analyses b) vs. ASA 100 mg; Log-Rank p-value
+* The reduction in the primary efficacy outcome was statistically superior.
+bid: twice daily; CI: confidence interval; KM %: Kaplan-Meier estimates of cumulative incidence risk calculated at 900 days; CV: cardiovascular; MI: myocardial infarction; od: once daily
+
+Table 8: Safety results from phase III COMPASS
+
+| Study population | Patients with CAD/PAD a) |  |  |
+| --- | --- | --- | --- |
+| Treatment Dose | Xarelto 2.5 mg bid in combination with ASA 100 mg od, N=9152 n (Cum. risk %) | ASA 100 mg od N=9126 n (Cum.risk %) | Hazard Ratio (95 % CI) p-value b) |
+| Modified ISTH major bleeding | 288 (3.9%) | 170 (2.5%) | 1.70 (1.40;2.05) p < 0.00001 |
+| - Fatal bleeding event | 15 (0.2%) | 10 (0.2%) | 1.49 (0.67;3.33) p = 0.32164 |
+| - Symptomatic bleeding in critical organ (non-fatal) | 63 (0.9%) | 49 (0.7%) | 1.28 (0.88;1.86) p = 0.19679 |
+| - Bleeding into the surgical site requiring reoperation (non-fatal, not in critical organ) | 10 (0.1%) | 8 (0.1%) | 1.24 (0.49;3.14) p = 0.65119 |
+| - Bleeding leading to hospitalisation (non-fatal, not in critical organ, not requiring reoperation) | 208 (2.9%) | 109 (1.6%) | 1.91 (1.51;2.41) p < 0.00001 |
+| - With overnight stay | 172 (2.3%) | 90 (1.3%) | 1.91 (1.48;2.46) p < 0.00001 |
+| - Without overnight stay | 36 (0.5%) | 21 (0.3%) | 1.70 (0.99;2.92) p = 0.04983 |
+| Treatment Dose | Xarelto 2.5 mg bid in combination with ASA 100 mg od, N=9152 n (Cum. risk %) | ASA 100 mg od N=9126 n (Cum.risk %) | Hazard Ratio (95 % CI) p-value b) |
+| Major gastrointestinal bleeding | 140 (2.0%) | 65 (1.1%) | 2.15 (1.60;2.89) p < 0.00001 |
+| Major intracranial bleeding | 28 (0.4%) | 24 (0.3%) | 1.16 (0.67;2.00) p = 0.59858 |
+
+a) intention-to-treat analysis set, primary analyses b) vs. ASA 100 mg; Log-Rank p-value bid: twice daily; CI: confidence interval; Cum.
+Risk: Cumulative incidence risk (Kaplan-Meier estimates) at 30 months; ISTH: International Society on Thrombosis and Haemostasis; od:
+once daily
+
+Figure 2: Time to first occurrence of primary efficacy outcome (stroke, myocardial infarction, cardiovascular death) in COMPASS
+
+Kaplan-Meier Estimates (%) at 30 months:
+Xarelto 2.5mg bid + ASA 100mg od: 5.2 (4.7 - 5.8)
+ASA 100mg od: 7.2 (6.5 - 7.9)
+
+bid: twice daily; od: once daily; CI: confidence interval
+
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with Xarelto in one or more subsets of the paediatric population in the treatment of thromboembolic events.
 The European Medicines Agency has waived the obligation to submit the results of studies with Xarelto in all subsets of the paediatric population in the prevention of thromboembolic events (see section 4.2 for information on paediatric use).
@@ -128,7 +196,6 @@ Rivaroxaban 10 mg once daily (od) started no sooner than 6 hours post-operativel
 In all three phase III studies (see table 4), rivaroxaban significantly reduced the rate of total VTE (any venographically detected or symptomatic DVT, non-fatal PE and death) and major VTE (proximal DVT, non-fatal PE and VTE-related death), the pre-specified primary and major secondary efficacy endpoints.
 Furthermore, in all three studies the rate of symptomatic VTE (symptomatic DVT, non-fatal PE, VTE-related death) was lower in rivaroxaban treated patients compared to patients treated with enoxaparin.
 The main safety endpoint, major bleeding, showed comparable rates for patients treated with rivaroxaban 10 mg compared to enoxaparin 40 mg.
-
 Table 4: Efficacy and safety results from phase III clinical studies
 
 |  | RECORD 1 | RECORD 2 | RECORD 3 |
@@ -140,7 +207,7 @@ Table 4: Efficacy and safety results from phase III clinical studies
 | Symptomatic VTE | 6 (0.4%) 11 (0.7%) | 3 (0.4%) 15 (1.7%) | 8 (1.0%) 24 (2.7%) |
 | Major bleedings | 6 (0.3%) 2 (0.1%) | 1 (0.1%) 1 (0.1%) | 7 (0.6%) 6 (0.5%) |
 
-The analysis of the pooled results of the phase III trials corroborated the data obtained in the individual studies regarding reduction of total VTE, major VTE and symptomatic VTE with rivaroxaban 10 mg once daily compared to enoxaparin 40 mg once daily.
+The analysis of the pooled results of the phase III studies corroborated the data obtained in the individual studies regarding reduction of total VTE, major VTE and symptomatic VTE with rivaroxaban 10 mg once daily compared to enoxaparin 40 mg once daily.
 
 In addition to the phase III RECORD programme, a post-authorization, non-interventional, open-label cohort study (XAMOS) has been conducted in 17,413 patients undergoing major orthopaedic surgery of the hip or knee, to compare rivaroxaban with other pharmacological thromboprophylaxis (standard-of-care) under real-life setting.
 Symptomatic VTE occurred in 57 (0.6%) patients in the rivaroxaban group (n=8,778) and 88 (1.0%) of patients in the standard-of-care group (n=8,635; HR 0.63; 95% CI 0.43-0.91); safety population).
@@ -238,8 +305,7 @@ Table 7: Efficacy and safety results from pooled analysis of phase III Einstein 
 
 * p < 0.0001 (non-inferiority to a prespecified HR of 1.75); HR: 0.886 (0.661 – 1.186)
 
-The prespecified net clinical benefit (primary efficacy outcome plus major bleeding events) of the pooled analysis was reported with a HR of 0.771 ((95% CI: 0.614 – 0.967), nominal p value p= 0.0244).
-
+The prespecified net clinical benefit (primary efficacy outcome plus major bleeding events) of the pooled analysis was reported with a HR of 0.771 ((95% CI: 0.614 – 0.967), nominal p value p = 0.0244).
 In the Einstein Extension study (see Table 8) rivaroxaban was superior to placebo for the primary and secondary efficacy outcomes.
 For the primary safety outcome (major bleeding events) there was a non-significant numerically higher incidence rate for patients treated with rivaroxaban 20 mg once daily compared to placebo.
 The secondary safety outcome (major or clinically relevant non-major bleeding events) showed higher rates for patients treated with rivaroxaban 20 mg once daily compared to placebo.
@@ -273,10 +339,10 @@ Table 9: Efficacy and safety results from phase III Einstein Choice
 | Fatal PE/death where PE cannot be ruled out | 2 (0.2%) | 0 | 2 (0.2%) |
 | Symptomatic recurrent VTE, MI, stroke, or non-CNS systemic embolism | 19 (1.7%) | 18 (1.6%) | 56 (5.0%) |
 | Major bleeding events | 6 (0.5%) | 5 (0.4%) | 3 (0.3%) |
-| Clinically relevant non-major bleeding | 30 (2.7%) | 22 (2.0%) | 20 (1.8%) |
+| Clinically relevant non-major bleeding | 30 (2.7) | 22 (2.0) | 20 (1.8) |
 | Symptomatic recurrent VTE or major bleeding (net clinical benefit) | 23 (2.1%)+ | 17 (1.5%)++ | 53 (4.7%) |
 
-*p<0.001(superiority) Xarelto 20 mg od vs ASA 100 mg od; HR=0.34 (0.20–0.59)
+* p<0.001(superiority) Xarelto 20 mg od vs ASA 100 mg od; HR=0.34 (0.20–0.59)
 ** p<0.001 (superiority) Xarelto 10 mg od vs ASA 100 mg od; HR=0.26 (0.14–0.47)
 + Xarelto 20 mg od vs. ASA 100 mg od; HR=0.44 (0.27–0.71), p=0.0009 (nominal)
 ++ Xarelto 10 mg od vs. ASA 100 mg od; HR=0.32 (0.18–0.55), p<0.0001 (nominal)
@@ -311,6 +377,7 @@ Among patients in the warfarin group, INR values were within the therapeutic ran
 The effect of rivaroxaban did not differ across the level of centre TTR (Time in Target INR Range of 2.0 - 3.0) in the equally sized quartiles (P=0.74 for interaction).
 Within the highest quartile according to centre, the Hazrad Ration (HR) with rivaroxaban versus warfarin was 0.74 (95% CI, 0.49 - 1.12).
 The incidence rates for the principal safety outcome (major and non-major clinically relevant bleeding events) were similar for both treatment groups (see Table 5).
+
 Table 4: Efficacy results from phase III ROCKET AF
 
 | Study population | ITT analyses of efficacy in patients with non-valvular atrial fibrillation |  |  |
@@ -381,7 +448,10 @@ In the Einstein PE study (see Table 7) rivaroxaban was demonstrated to be non-in
 Table 7: Efficacy and safety results from phase III Einstein PE
 
 A prespecified pooled analysis of the outcome of the Einstein DVT and PE studies was conducted (see Table 8).
+
 Table 8: Efficacy and safety results from pooled analysis of phase III Einstein DVT and Einstein PE
+
+The prespecified net clinical benefit (primary efficacy outcome plus major bleeding events) of the pooled analysis was reported with a HR of 0.771 ((95% CI: 0.614 - 0.967), nominal p value p= 0.0244).
 
 In the Einstein Extension study (see Table 9) rivaroxaban was superior to placebo for the primary and secondary efficacy outcomes.
 
@@ -401,16 +471,28 @@ Table 10: Efficacy and safety results from phase III Einstein Choice
 | Fatal PE/death where PE cannot be ruled out | 2 (0.2%) | 0 (0.0%) | 2 (0.2%) |
 | Symptomatic recurrent VTE, MI, stroke, or non-CNS systemic embolism | 19 (1.7%) | 18 (1.6%) | 56 (5.0%) |
 | Major bleeding events | 6 (0.5%) | 5 (0.4%) | 3 (0.3%) |
-| Clinically relevant non-major bleeding | 30 (2.7%) | 22 (2.0%) | 20 (1.8%) |
+| Clinically relevant non-major bleeding | 30 (2.7) | 22 (2.0) | 20 (1.8) |
+| Treatment dose | Xarelto 20 mg od N=1,107 | Xarelto 10 mg od N=1,127 | ASA 100 mg od N=1,131 |
 | Symptomatic recurrent VTE or major bleeding (net clinical benefit) | 23 (2.1%)+ | 17 (1.5%)++ | 53 (4.7%) |
-
-* p<0.001(superiority) Xarelto 20 mg od vs ASA 100 mg od; HR=0.34 (0.20-0.59)
 
 [Xarelto 20 mg film-coated tablets]
 
 Within the highest quartile according to centre, the Hazard Ratio (HR) with rivaroxaban versus warfarin was 0.74 (95% CI, 0.49 - 1.12).
 
 The principal safety outcome (major bleeding) occurred in 6 (0.6%) and 4 (0.8%) patients in the rivaroxaban (n = 988) and VKA (n = 499) groups, respectively (RR 0.76; 95 % CI 0.21-2.67; safety population).
+
+| Study population | 3,396 patients continued prevention of recurrent venous thromboembolism |  |  |
+| --- | --- | --- | --- |
+| Treatment dose | Xarelto 20 mg od N=1,107 | Xarelto 10 mg od N=1,127 | ASA 100 mg od N=1,131 |
+| Treatment duration median [interquartile range] | 349 [189-362] days | 353 [190-362] days | 350 [186-362] days |
+| Symptomatic recurrent VTE | 17 (1.5%)* | 13 (1.2%)** | 50 (4.4%) |
+| Symptomatic recurrent PE | 6 (0.5%) | 6 (0.5%) | 19 (1.7%) |
+| Symptomatic recurrent DVT | 9 (0.8%) | 8 (0.7%) | 30 (2.7%) |
+| Fatal PE/death where PE cannot be ruled out | 2 (0.2%) | 0 (0.0%) | 2 (0.2%) |
+| Symptomatic recurrent VTE, MI, stroke, or non-CNS systemic embolism | 19 (1.7%) | 18 (1.6%) | 56 (5.0%) |
+| Major bleeding events | 6 (0.5%) | 5 (0.4%) | 3 (0.3%) |
+| Clinically relevant non-major bleeding | 30 (2.7) | 22 (2.0) | 20 (1.8) |
+| Symptomatic recurrent VTE or major bleeding (net clinical benefit) | 23 (2.1%)+ | 17 (1.5%)++ | 53 (4.7%) |
 
 [Xarelto 15 mg film-coated tablets (SmPC 5)]
 
