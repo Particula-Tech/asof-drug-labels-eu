@@ -37,7 +37,8 @@ Immune system disorders Common Interstitial lung disease*,#,a 2 < 1
 Metabolism and nutrition Common Tumour lysis syndromea 1 1
 disorders Hyperuricaemia 7 2
 Nervous system disorders Very common Headache 13 1
-Common Dizziness 9 0
+Common Peripheral neuropathy*,a 5 < 1
+Dizziness 9 0
 Eye disorders Common Vision blurred 7 0
 Cardiac disorders Common Atrial fibrillation 6 3
 Ventricular tachyarrhythmia*b 1 0
@@ -77,7 +78,7 @@ Description of selected adverse reactions
 Discontinuation and dose reduction due to adverse reactions
 Of the 981 patients treated with IMBRUVICA for B-cell malignancies, 5% discontinued treatment primarily due to adverse reactions.
 These included pneumonia, atrial fibrillation and haemorrhage.
-Adverse reactions leading to dose reduction occurred in approximately 5% of patients.
+Adverse reactions leading to dose reduction occurred in approximately 6% of patients.
 
 Elderly
 Of the 981 patients treated with IMBRUVICA, 62% were 65 years of age or older.
@@ -90,35 +91,28 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [IMBRUVICA 140 mg film-coated tablets]
 
-System organ class Frequency Adverse reactions All
-(All grades) Grades Grade ≥3
-(%) (%)
-Infections and Very Pneumonia*# 16 10
-infestations common Upper respiratory tract 19 1
+System organ class Frequency Adverse reactions All Grades Grade ≥3
+(All grades) (%) (%)
+Upper respiratory tract 19 1
 infection 11 1
 Sinusitis* 10 3
 Skin infection*
 Uncommon Hepatitis B reactivation@ <1 <1
-Blood and lymphatic Very Neutropenia 30 26
-system disorders common Thrombocytopenia 20 10
-Immune system Common Interstitial lung disease*,#,a 2 < 1
-disorders
-Metabolism and Common Tumour lysis syndromea 1 1
-nutrition disorders Hyperuricaemia 7 2
-Nervous system Very Headache 13 1
-disorders common
-Vascular disorders Very Haemorrhage*# 30 1
-common Bruising* 22 < 1
-Gastrointestinal Very Diarrhoea 41 3
-disorders common Vomiting 14 < 1
-Hepatobiliary disorders Not known Hepatic failure*,a Not Not known
-known
-Skin and subcutaneous Very Rash* 22 2
-tissue disorders common
-Common Urticariaa 1 < 1
-Not known Stevens-Johnson syndromea Not Not known
-Musculoskeletal and Very Arthralgia 12 1
-connective tissue common Muscle spasms 14 < 1
-disorders Musculoskeletal pain* 28 3
-General disorders and Very Pyrexia 20 2
-administration site common Oedema peripheral 14 1
+Neoplasms benign and malignant Common Non-melanoma skin 6 1
+(incl cysts and polyps) cancer* 3 < 1
+Basal cell carcinoma 2 < 1
+Squamous cell carcinoma
+Blood and lymphatic system Very common Neutropenia 30 26
+disorders Thrombocytopenia 20 10
+Metabolism and nutrition disorders Common Tumour lysis syndromea 1 1
+Hyperuricaemia 7 2
+Ventricular 1 0
+tachyarrhythmia*b
+Skin and subcutaneous tissue Very common Rash* 22 2
+disorders Common Urticariaa 1 < 1
+Not known Stevens-Johnson Not known Not known
+syndromea
+Musculoskeletal and connective Very common Arthralgia 12 1
+tissue disorders Muscle spasms 14 < 1
+General disorders and administration Very common Pyrexia 20 2
+site conditions Oedema peripheral 14 1
