@@ -11,11 +11,8 @@ Aluminium perforated unit dose blisters in cartons of 14 x 1, 28 x 1, 49 x 1 tab
 [ABILIFY 1 mg/ml oral solution]
 
 PET-bottles with polypropylene child-resistant closure containing 50, 150 or 480 ml per bottle.
-Each carton contains 1 bottle and both a calibrated polypropylene measuring cup and a calibrated polypropylene low-density polyethylene dropper.
+Each carton contains 1 bottle and both a calibrated polypropylene measuring cup with a graduation interval of 2.5 ml and a calibrated polypropylene low-density polyethylene dropper with a graduation interval of 0.5 ml.
 
 [ABILIFY 7.5 mg/ml solution for injection]
 
-Each carton contains one single-use type I glass vial with a rubber butyl stopper and a "flip-off" aluminium seal.
-
-Each carton contains one single-use type I glass vial with a rubber butyl stopper and a "tear-off"
-aluminium seal.
+Each carton contains one single-use type I glass vial with a rubber butyl stopper and a "tear-off" aluminium seal.

@@ -9,6 +9,7 @@ Hydroxypropyl cellulose
 Magnesium stearate
 
 Tablet coat
+
 ABILIFY 5 mg tablets
 Indigo carmine aluminium lake (E 132)
 
@@ -30,7 +31,7 @@ Silicon dioxide
 Xylitol
 Aspartame (E 951)
 Acesulfame potassium
-Vanilla flavour (including vanillin and ethyl vanillin)
+Vanilla flavour (including vanillin, ethyl vanillin and lactose)
 Tartaric acid
 
 ABILIFY 10 mg orodispersible tablets
@@ -50,8 +51,7 @@ Propylene glycol
 Propyl parahydroxybenzoate (E 216)
 Sodium hydroxide
 Sucrose
-Purified water
-Natural orange cream with other natural flavours
+Purified water orange flavour
 
 [ABILIFY 7.5 mg/ml solution for injection]
 

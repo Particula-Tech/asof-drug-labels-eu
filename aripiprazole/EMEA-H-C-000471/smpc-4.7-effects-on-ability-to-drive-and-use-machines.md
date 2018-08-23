@@ -1,4 +1,3 @@
 # 4.7 Effects on ability to drive and use machines
 
-As with other antipsychotics, patients should be cautioned about operating hazardous machines, including motor vehicles, until they are reasonably certain that aripiprazole does not affect them adversely.
-Some paediatric patients with Bipolar I Disorder have an increased incidence of somnolence and fatigue (see section 4.8).
+Aripiprazole has minor to moderate influence on the ability to drive and use machines due to potential nervous system and visual effects, such as sedation, somnolence, syncope, vision blurred, diplopia (see section 4.8).
