@@ -1,5 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
+In order to improve the traceability of biological medicinal products, the trade name and the batch number of the administered product should be clearly recorded in the patient file.
+
 Nucala should not be used to treat acute asthma exacerbations.
 
 Asthma-related adverse events or exacerbations may occur during treatment.

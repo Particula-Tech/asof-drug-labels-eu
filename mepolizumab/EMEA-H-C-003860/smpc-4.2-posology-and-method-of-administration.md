@@ -4,8 +4,11 @@ Nucala should be prescribed by physicians experienced in the diagnosis and treat
 
 Posology
 
-Adults
+Adults and adolescents aged 12 years and older
 The recommended dose of mepolizumab is 100 mg administered subcutaneously once every 4 weeks.
+
+Children aged 6 to 11 years old
+The recommended dose of mepolizumab is 40 mg administered subcutaneously once every 4 weeks.
 
 Nucala is intended for long-term treatment.
 The need for continued therapy should be considered at least on an annual basis as determined by physician assessment of the patient’s disease severity and level of control of exacerbations.
@@ -13,8 +16,8 @@ The need for continued therapy should be considered at least on an annual basis 
 Special populations
 
 Paediatric population
-The safety and efficacy of Nucala in children and adolescents under 18 years of age has not yet been established.
-Very limited data are currently available in children 12 to 18 years old (see sections 4.8, 5.1 and 5.2) therefore no recommendations can be made.
+The posology of Nucala in children and adolescents aged between 6 to 17 years old with severe refractory eosinophilic asthma has been determined by limited efficacy, pharmacokinetic and pharmacodynamic studies and supported by modelling and simulation data (see sections 5.1 and 5.2).
+
 Elderly patients
 No dose adjustment is required for elderly patients (see section 5.2).
 
@@ -28,3 +31,5 @@ It may be injected into the upper arm, thigh, or abdomen.
 
 The powder should be reconstituted prior to administration and the reconstituted solution should be used immediately.
 For instructions on the reconstitution of the medicinal product before administration, see section 6.6.
+
+Each vial of Nucala should be used for a single patient, and any remainder of the vial should be discarded.

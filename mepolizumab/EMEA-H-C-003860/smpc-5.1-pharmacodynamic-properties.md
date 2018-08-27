@@ -10,14 +10,16 @@ Mepolizumab inhibits the bioactivity of IL-5 with nanomolar potency by blocking 
 
 Pharmacodynamic effects
 
-Following a dose of 100 mg administered subcutaneously every 4 weeks for 32 weeks, blood eosinophils were reduced from a geometric mean count at baseline of 290 to 40 cells/µL at week 32 (N=182), a reduction of 84% compared to placebo.
-This magnitude of reduction was observed within 4 weeks of treatment.
+In patients with severe refractory eosinophilic asthma (adults/adolescents), following a dose of 100 mg administered subcutaneously every 4 weeks for 32 weeks, blood eosinophils were reduced from a geometric mean count at baseline of 290 to 40 cells/µL at week 32 (n=182), a reduction of 84% compared to placebo.
+In children aged 6 to 11 years old with severe refractory eosinophilic asthma administered mepolizumab subcutaneously every 4 weeks for 12 weeks, blood eosinophils were reduced from a geometric mean count at baseline to week 12 of 386 to 42 (n=22) following 40 mg (for a weight < 40kg) and 331 to 55 cells/µL (n=10) following 100 mg (for a weight ≥ 40 kg), a reduction from baseline of 89% and 83%, respectively.
+In adults, adolescents and children, this magnitude of reduction was observed within 4 weeks of treatment.
 
 Immunogenicity
 
 Consistent with the potentially immunogenic properties of protein and peptide therapeutics, patients may develop antibodies to mepolizumab following treatment.
-In the placebo-controlled trials, 15/260 (6%) of subjects treated with 100 mg dose subcutaneously developed anti-mepolizumab antibodies after having received at least one dose of mepolizumab.
-Neutralising antibodies were detected in one subject.
+In the placebo-controlled trials, 15/260 (6%) of adults and adolescents treated with 100 mg dose subcutaneously had detectable anti-mepolizumab antibodies after having received at least one dose of mepolizumab.
+In children aged 6 to 11 years old with severe refractory eosinophilic asthma following either 40 mg subcutaneously (for a weight < 40kg) or 100 mg subcutaneously (for a weight ≥ 40 kg), 2/35 (6%) had detectable anti-mepolizumab antibodies after having received at least one dose of mepolizumab.
+Neutralising antibodies were detected in one adult subject.
 Anti-mepolizumab antibodies did not discernibly impact the pharmacokinetics and pharmacodynamics of mepolizumab in the majority of patients and there was no evidence of a correlation between antibody titres and change in blood eosinophil level.
 
 Clinical efficacy
@@ -28,8 +30,10 @@ Additional maintenance treatments included long-acting beta2 -adrenergic agonist
 
 The two exacerbations studies MEA112997 and MEA115588 enrolled a total of 1192 patients, 60% females, with a mean age of 49 years (range 12– 82).
 The proportion of patients on maintenance OCS was 31% and 24%, respectively.
-Patients were required to have a history of two or more severe asthma exacerbations requiring oral or systemic corticosteroid treatment in the past 12 months and reduced lung function at baseline (pre-bronchodilator FEV1<80% in adults and <90% in adolescents).The mean number of exacerbations in the previous year was 3.6 and the mean predicted pre-bronchodilator FEV1 was 60%.
+Patients were required to have a history of two or more severe asthma exacerbations requiring oral or systemic corticosteroid treatment in the past 12 months and reduced lung function at baseline (pre-bronchodilator FEV1<80% in adults and <90% in adolescents).
+The mean number of exacerbations in the previous year was 3.6 and the mean predicted pre-bronchodilator FEV1 was 60%.
 Patients continued to receive their existing asthma medicine during the studies.
+
 For the oral corticosteroid-sparing study MEA115575, a total of 135 patients were enrolled (55% were female; mean age of 50 years) who were being treated daily with OCS (5-35 mg per day), and high-dose ICS plus an additional maintenance medicine.
 
 Dose-ranging efficacy MEA112997 (DREAM) study
@@ -90,7 +94,6 @@ Reduction of exacerbation rate by baseline blood eosinophil count
 Table 3 shows the results of a combined analysis of the two exacerbation studies (MEA112997 and MEA115588) by baseline blood eosinophil count.
 The rate of exacerbations in the placebo arm increased with increasing baseline blood eosinophil count.
 The reduction rate with mepolizumab was greater in patients with higher blood eosinophil counts.
-
 Table 3: Combined analysis of the rate of clinically significant exacerbations by baseline blood eosinophil count in patients with severe refractory eosinophilic asthma
 
 |  | Mepolizumab 75 mg IV/100 mg SC N=538 | Placebo N=346 |
@@ -133,6 +136,12 @@ The comparison between mepolizumab and placebo was statistically significant (p=
 
 Table 4: Results of the primary and secondary endpoints in MEA115575
 
+ITT Population
+Mepolizumab Placebo
+100 mg N= 66
+(subcutaneous)
+N= 69
+
 |  | ITT Population |  |
 | --- | --- | --- |
 |  | Mepolizumab 100 mg (subcutaneous) N= 69 | Placebo N= 66 |
@@ -145,7 +154,6 @@ Table 4: Results of the primary and secondary endpoints in MEA115575
 | Reduction in the daily OCS dose to 0 mg/d | 10 (14%) | 5 (8%) |
 | Odds ratio (95% CI) | 1.67 (0.49, 5.75) |  |
 | p-value | 0. 414 |  |
-|  | Mepolizumab 100 mg (subcutaneous) N= 69 | Placebo N= 66 |
 | Reduction in the daily OCS dose to ≤5mg/day | 37 (54%) | 21 (32%) |
 | Odds ratio (95% CI) | 2.45 (1.12, 5.37) |  |
 | p-value | 0.025 |  |
@@ -155,6 +163,7 @@ Table 4: Results of the primary and secondary endpoints in MEA115575
 
 Paediatric population
 
-There were 25 adolescents 13 girls and 12 boys, 9 aged 12 -14 years and 16 aged 15-17 years enrolled in study MEA115588.
-Of the total 25 subjects: 9 received placebo, 9 received mepolizumab 75 mg intravenously, and 7 received 100 mg subcutaneously.
-The same proportion of subjects (3/9) receiving placebo and mepolizumab intravenously reported clinically significant exacerbations; no exacerbations were reported in those receiving mepolizumab subcutaneously.
+Severe refractory eosinophilic asthma
+In MEA115588 and in the double-blind placebo-controlled study 200862, there were 34 adolescents (12 to 17 years old).
+Of these 34 subjects: 12 received placebo, 9 received mepolizumab 75 mg intravenously, and 13 received 100 mg subcutaneously.
+In a combined analysis of these studies, a 40% reduction in clinically significant exacerbations was observed in adolescents following mepolizumab treatment compared to placebo (rate ratio 0.60; 95% CI: 0.17, 2.10).

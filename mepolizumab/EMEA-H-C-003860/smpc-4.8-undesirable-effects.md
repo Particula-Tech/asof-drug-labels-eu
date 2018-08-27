@@ -2,12 +2,14 @@
 
 Summary of the safety profile
 
+Adults and adolescents
+
 In clinical studies in subjects with severe refractory eosinophilic asthma, the most commonly reported adverse reactions during treatment were headache, injection site reactions and back pain.
 
 Tabulated list of adverse reactions
 
-A total of 915 subjects with severe refractory eosinophilic asthma have received either a subcutaneous or an intravenous dose of mepolizumab during clinical studies of 24 to 52 weeks duration.
-The table below presents the adverse reactions from the two placebo controlled studies in patients receiving mepolizumab 100 mg subcutaneously (n=263).
+A total of 896 adults and 19 adolescent subjects with severe refractory eosinophilic asthma received either a subcutaneous or an intravenous dose of mepolizumab during three placebo-controlled clinical studies of 24 to 52 weeks duration.
+The table below presents the adverse reactions from the two placebo-controlled studies in patients receiving mepolizumab 100 mg subcutaneously (n=263).
 
 The frequency of adverse reactions is defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); and not known (cannot be estimated from available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
@@ -15,8 +17,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | System Organ Class | Adverse Reactions | Frequency |
 | --- | --- | --- |
 | Infections & infestations | Lower respiratory tract infection Urinary tract infection Pharyngitis | Common |
-| Immune system disorders | Hypersensitivity reactions (systemic | Common |
-|  | allergic)* Anaphylaxis** | Rare |
+| Immune system disorders | Hypersensitivity reactions (systemic allergic)* Anaphylaxis** | Common Rare |
 | Nervous system disorders | Headache | Very common |
 | Respiratory, thoracic and mediastinal disorders | Nasal congestion | Common |
 | Gastrointestinal disorders | Abdominal pain upper | Common |
@@ -41,8 +42,8 @@ The most common manifestations reported with these events included pain, erythem
 
 Paediatric population
 
-The clinical trial data currently available in paediatric patients is too limited to characterise the safety profile of mepolizumab in this population (see section 5.1).
-However, the frequency, type and severity of adverse reactions in the paediatric population are expected to be similar to those seen in adults.
+In a total of 37 adolescents (aged 12-17) enrolled in four placebo-controlled studies (25 mepolizumab treated intravenously or subcutaneously) of 24 to 52 weeks duration and in a total of 36 paediatric patients (aged 6-11) who received mepolizumab subcutaneously for 12 weeks in an open-label uncontrolled study, the adverse event profile was similar to that seen in adults.
+No additional adverse reactions were identified.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
