@@ -14,7 +14,7 @@ There were no ertugliflozin-related neoplastic findings at doses up to 40 mg/kg/
 In the 2-year rat carcinogenicity study, ertugliflozin was administered by oral gavage at doses of 1.5, 5, and 15 mg/kg/day.
 Ertugliflozin-related neoplastic findings included an increased incidence of benign adrenal medullary pheochromocytoma in male rats at 15 mg/kg/day.
 This finding was attributed to carbohydrate malabsorption leading to altered calcium homeostasis and was not considered relevant to human risk.
-The no-observed-effect level (NOEL) for neoplasia was5 mg/kg/day (approximately 16 times human unbound exposure at the MRHD of 15 mg/day).
+The no-observed-effect level (NOEL) for neoplasia was 5 mg/kg/day (approximately 16 times human unbound exposure at the MRHD of 15 mg/day).
 
 Mutagenesis
 Ertugliflozin was not mutagenic or clastogenic with or without metabolic activation in the microbial reverse mutation, in vitro cytogenetic (human lymphocytes), and in vivo rat micronucleus assays.
