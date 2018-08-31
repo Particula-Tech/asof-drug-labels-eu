@@ -2,7 +2,6 @@
 
 Women of child-bearing potential/Contraception
 Women of child-bearing potential should use effective contraception during, and for 3 months after cessation of daratumumab treatment.
-
 Pregnancy
 There are no human or animal data to assess the risk of daratumumab use during pregnancy.
 IgG1 monoclonal antibodies are known to cross the placenta after the first trimester of pregnancy.

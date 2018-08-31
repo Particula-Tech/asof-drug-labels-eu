@@ -16,8 +16,8 @@ Prepare the solution for infusion using aseptic technique as follows:
 - Visually inspect parenteral medicinal products for particulate matter and discolouration prior to administration.
   The diluted solution may develop very small, translucent to white proteinaceous particles, as daratumumab is a protein.
   Do not use if visibly opaque particles, discolouration or foreign particles are observed.
-- Since DARZALEX does not contain a preservative, diluted solutions should be administered within 15 hours (including infusion time) at room temperature (15°C - 25°C) and in room light.
-- If not used immediately, the diluted solution can be stored prior to administration for up to 24 hours at refrigerated conditions (2°C - 8°C) and protected from light.
+- Since DARZALEX does not contain a preservative, diluted solutions should be administered within 15 hours (including infusion time) at room temperature (15°C-25°C) and in room light.
+- If not used immediately, the diluted solution can be stored prior to administration for up to 24 hours at refrigerated conditions (2°C-8°C) and protected from light.
   Do not freeze.
 - Administer the diluted solution by intravenous infusion using an infusion set fitted with a flow regulator and with an in-line, sterile, non-pyrogenic, low protein-binding polyethersulfone (PES) filter (pore size 0.22 or 0.2 micrometre).
   Polyurethane (PU), polybutadiene (PBD), PVC, PP or PE administration sets must be used.
