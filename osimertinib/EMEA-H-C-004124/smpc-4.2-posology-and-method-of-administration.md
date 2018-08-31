@@ -35,8 +35,7 @@ Special populations
 No dosage adjustment is required due to patient age, body weight, gender, ethnicity and smoking status (see section 5.2).
 
 Hepatic impairment
-No clinical studies have been conducted to specifically evaluate the effect of hepatic impairment on the pharmacokinetics of osimertinib.
-No dose adjustment is recommended in patients with mild hepatic impairment (total bilirubin ≤upper limit of normal (ULN) and aspartate aminotransferase (AST) >ULN or total bilirubin >1.0 to 1.5x ULN and any AST) or moderate hepatic impairment (total bilirubin between 1.5 to 3 times ULN and any AST) but caution should be used when administering TAGRISSO to these patients.
+Based on clinical studies, no dose adjustments are necessary in patients with mild hepatic impairment (Child Pugh A) or moderate hepatic impairment (Child Pugh B). Similarly, based on population pharmacokinetic analysis, no dose adjustment is recommended in patients with mild hepatic impairment (total bilirubin ≤upper limit of normal (ULN) and aspartate aminotransferase (AST) >ULN or total bilirubin >1.0 to 1.5x ULN and any AST) or moderate hepatic impairment (total bilirubin between 1.5 to 3 times ULN and any AST).
 The safety and efficacy of this medicinal product has not been established in patients with severe hepatic impairment.
 Until additional data become available, use in patients with severe hepatic impairment is not recommended (see section 5.2).
 Renal impairment

@@ -22,6 +22,7 @@ Adverse reactions are listed according to system organ class (SOC) in MedDRA.
 Within each system organ class, the adverse drug reactions are ranked by frequency, with the most frequent reactions first.
 Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness.
 In addition, the corresponding frequency category for each adverse reaction is based on the CIOMS III convention and is defined as: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from available data).
+
 Table 2.
 Adverse reactions reported in FLAURA and AURA studiesa
 

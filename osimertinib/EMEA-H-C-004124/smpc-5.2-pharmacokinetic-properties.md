@@ -41,9 +41,8 @@ In vitro studies have shown that osimertinib is not a substrate of OATP1B1 and O
 In vitro, osimertinib does not inhibit OAT1, OAT3, OATP1B1, OATP1B3, MATE1, OCT2 and MATE2K at clinically relevant concentrations.
 
 Effects of osimertinib on P-gp and BCRP
-Based on in vitro studies, osimertinib is a substrate of P-glycoprotein and breast cancer resistant protein (BCRP), but is unlikely to result in clinically relevant drug interactions with active substances by osimertinib at the clinical doses.
-Based on in vitro data, osimertinib is an inhibitor of BCRP and P-gp.
-PXR regulated enzyme interactions other than CYP3A4 have not been studied (see section 4.5).
+Based on in vitro studies, osimertinib is a substrate of P-gp and BCRP, but is unlikely to result in clinically relevant drug interactions with active substances by osimertinib at the clinical doses.
+Based on in vitro data, osimertinib is an inhibitor of BCRP and P-gp (see section 4.5).
 
 Special populations
 In a population based pharmacokinetic analyses (n=1367), no clinically significant relationships were identified between predicted steady-state exposure (AUCss) and patient’s age (range: 25 to 91 years), gender (65% female), ethnicity (including White, Asian, Japanese, Chinese and non-Asian-non-White patients), line of therapy and smoking status (n=34 current smokers, n=419 former smokers).
@@ -53,8 +52,9 @@ Based on population PK analysis, serum albumin was identified as a significant c
 These exposure changes due to body weight or baseline albumin differences are not considered clinically relevant.
 
 Hepatic impairment
-Osimertinib is eliminated mainly via the liver, and hence, patients with hepatic impairment may have increased exposure.
-A pharmacokinetic trial in subjects with hepatic impairment has not been conducted.
+Osimertinib is eliminated mainly via the liver.
+In a clinical trial, patients with different types of advanced solid tumours and with mild hepatic impairment (Child Pugh A, mean score = 5.3, n=7) or moderate hepatic impairment (Child Pugh B, mean score = 8.2, n=5) had no increase in exposure compared to patients with normal hepatic function (n=10) after a single 80 mg dose of TAGRISSO.
+The geometric mean ratio (90% CI) of osimertinib AUC and Cmax was 63.3% (47.3, 84.5) and 51.4% (36.6, 72.3) in patients with mild hepatic impairment and 68.4% (49.6, 94.2) and 60.7% (41.6, 88.6) in patients with moderate hepatic impairment; for the metabolite AZ5104 the AUC and Cmax were 66.5% (43.4, 101.9) and 66.3% (45.3, 96.9) in patients with mild hepatic impairment and 50.9% (31.7, 81.6) and 44.0% (28.9, 67.1) in patients with moderate hepatic impairment, compared to the exposure in patients with normal hepatic function.
 Based on population PK analysis, there was no relationship between markers of hepatic function (ALT, AST, bilirubin) and osimertinib exposure.
 The hepatic impairment marker serum albumin showed an effect on the PK of osimertinib.
 Clinical studies that were conducted excluded patients with AST or ALT >2.5x upper limit of normal (ULN), or if due to underlying malignancy, >5.0x ULN or with total bilirubin >1.5x ULN.

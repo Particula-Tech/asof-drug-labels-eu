@@ -2,7 +2,7 @@
 
 Pharmacokinetic interactions
 Strong CYP3A4 inducers can decrease the exposure of osimertinib.
-Osimertinib may increase the exposure of BCRP substrates.
+Osimertinib may increase the exposure of breast cancer resistant protein (BCRP) and P-glycoprotein (P-gp) substrates.
 
 Active substances that may increase osimertinib plasma concentrations
 In vitro studies have demonstrated that the Phase I metabolism of osimertinib is predominantly via CYP3A4 and CYP3A5.
@@ -31,5 +31,7 @@ Patients taking concomitant medications with disposition dependent upon BCRP and
 In a clinical PK study, co-administration of TAGRISSO with simvastatin (sensitive CYP3A4 substrate) decreased the AUC and Cmax of simvastatin by 9% and 23% respectively.
 These changes are small and not likely to be of clinical significance.
 Clinical PK interactions with CYP3A4 substrates are unlikely.
-Pregnane X Receptor (PXR) regulated enzyme interactions other than CYP3A4 have not been studied.
 A risk for decreased exposure of hormonal contraceptives cannot be excluded.
+
+In a clinical Pregnane X Receptor (PXR) interaction study, co-administration of TAGRISSO with fexofenadine (P-gp substrate) increased the AUC and Cmax of fexofenadine by 56% (90% CI 35, 79) and 76% (90% CI 49, 108) after a single dose and 27% (90% CI 11, 46) and 25% (90% CI 6, 48) at steady state, respectively.
+Patients taking concomitant medications with disposition dependent upon P-gp and with narrow therapeutic index (e.g. digoxin, dabigatran, aliskiren) should be closely monitored for signs of changed tolerability as a result of increased exposure of the concomitant medication whilst receiving TAGRISSO (see section 5.2).
