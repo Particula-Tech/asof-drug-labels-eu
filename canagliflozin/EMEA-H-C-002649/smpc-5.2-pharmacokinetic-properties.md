@@ -65,7 +65,7 @@ Age had no clinically meaningful effect on the pharmacokinetics of canagliflozin
 
 Paediatric population
 
-A paediatric Phase 1 study examined the pharmacokinetics and pharmacodynamics of canagliflozin in children and adolescents ≥10 to < 18 years of age with type 2 diabetes mellitus.
+A paediatric phase 1 study examined the pharmacokinetics and pharmacodynamics of canagliflozin in children and adolescents ≥10 to < 18 years of age with type 2 diabetes mellitus.
 The observed pharmacokinetic and pharmacodynamic responses were consistent with those found in adult subjects.
 
 Other special populations

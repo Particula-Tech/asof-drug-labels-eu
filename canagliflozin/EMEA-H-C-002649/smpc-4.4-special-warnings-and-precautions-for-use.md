@@ -26,9 +26,9 @@ Caution should be exercised in patients for whom a canagliflozin-induced drop in
 
 Due to volume depletion, generally small mean decreases in eGFR were seen within the first 6 weeks of treatment initiation with canagliflozin.
 In patients susceptible to greater reductions in intravascular volume as described above, larger decreases in eGFR (> 30%) were sometimes seen, which subsequently improved, and infrequently required interruption of treatment with canagliflozin (see section 4.8).
+
 Patients should be advised to report symptoms of volume depletion.
 Canagliflozin is not recommended for use in patients receiving loop diuretics (see section 4.5) or who are volume depleted, e.g., due to acute illness (such as gastrointestinal illness).
-
 For patients receiving canagliflozin, in case of intercurrent conditions that may lead to volume depletion (such as a gastrointestinal illness), careful monitoring of volume status (e.g., physical examination, blood pressure measurements, laboratory tests including renal function tests), and serum electrolytes is recommended.
 Temporary interruption of treatment with canagliflozin may be considered for patients who develop volume depletion while on canagliflozin therapy until the condition is corrected.
 If interrupted, consideration should be given to more frequent glucose monitoring.
@@ -57,9 +57,19 @@ Restarting SGLT2 inhibitor treatment in patients with previous DKA while on SGLT
 The safety and efficacy of canagliflozin in patients with type 1 diabetes have not been established and canagliflozin should not be used for treatment of patients with type 1 diabetes.
 Limited data from clinical studies suggest that DKA occurs with common frequency when patients with type 1 diabetes are treated with SGLT2 inhibitors.
 
+Lower limb amputations
+
+In long-term clinical studies of canagliflozin in type 2 diabetes patients with established cardiovascular disease (CVD) or at least 2 risk factors for CVD, an approximately 2-fold increased risk of lower limb amputation (primarily of the toe and midfoot), has been observed in patients treated with canagliflozin (see section 4.8).
+As an underlying mechanism has not been established, risk factors, apart from general risk factors, for amputation are unknown.
+
+Before initiating Invokana, consider factors in the patient history that may increase the risk for amputation.
+As precautionary measures, consideration should be given to carefully monitoring patients with a higher risk for amputation events and counselling patients about the importance of routine preventative foot care and maintaining adequate hydration.
+Consideration may also be given to stopping treatment with Invokana in patients who develop events which may precede amputation such as lower-extremity skin ulcer, infection, osteomyelitis or gangrene.
+
 Elevated haematocrit
 
 Haematocrit increase was observed with canagliflozin treatment (see section 4.8); therefore, careful monitoring in patients with already elevated haematocrit is warranted.
+
 Elderly (≥65 years old)
 
 Elderly patients may be at a greater risk for volume depletion, are more likely to be treated with diuretics, and to have impaired renal function.
@@ -68,19 +78,10 @@ In addition, in such patients greater decreases in eGFR were reported (see secti
 
 Genital mycotic infections
 
-Consistent with the mechanism of sodium glucose co-transporter 2 (SGLT2) inhibition with increased UGE, vulvovaginal candidiasis in females and balanitis or balanoposthitis in males were reported in clinical studies (see section 4.8).
+Consistent with the mechanism of sodium glucose co-transporter 2 (SGLT2) inhibition with increased UGE, vulvovaginal candidiasis in females and balanitis or balanoposthitis in males were reported in clinical studies with canagliflozin (see section 4.8).
 Male and female patients with a history of genital mycotic infections were more likely to develop an infection.
-Balanitis or balanoposthitis occurred primarily in uncircumcised male patients.
-In rare instances, phimosis was reported and sometimes circumcision was performed.
+Balanitis or balanoposthitis occurred primarily in uncircumcised male patients which in some instances resulted in phimosis and/or circumcision.
 The majority of genital mycotic infections were treated with topical antifungal treatments, either prescribed by a healthcare professional or self-treated while continuing therapy with Invokana.
-
-Lower limb amputations
-
-In ongoing, long-term clinical studies of canagliflozin in type 2 diabetes patients with cardiovascular disease (CVD) or at high risk for CVD, an increase in cases of lower limb amputation (primarily of the toe) has been observed in patients treated with canagliflozin.
-
-As an underlying mechanism has not been established, risk factors, apart from general risk factors, for amputation are unknown.
-However, as precautionary measures, consideration should be given to carefully monitoring patients with a higher risk for amputation events and counselling patients about the importance of routine preventative foot care and maintaining adequate hydration.
-Consideration may also be given to stopping treatment with canagliflozin in patients that develop events preceding amputation such as lower-extremity skin ulcer, infection, osteomyelitis or gangrene.
 
 Cardiac failure
 
