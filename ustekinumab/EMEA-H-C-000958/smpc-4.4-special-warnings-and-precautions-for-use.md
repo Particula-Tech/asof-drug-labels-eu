@@ -1,5 +1,8 @@
 # 4.4 Special warnings and precautions for use
 
+Traceability
+In order to improve the traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded.
+
 Infections
 Ustekinumab may have the potential to increase the risk of infections and reactivate latent infections.
 In clinical studies, serious bacterial, fungal, and viral infections have been observed in patients receiving STELARA (see section 4.8).
@@ -21,7 +24,6 @@ Some patients who received STELARA in clinical studies developed cutaneous and n
 
 No studies have been conducted that include patients with a history of malignancy or that continue treatment in patients who develop malignancy while receiving STELARA.
 Thus, caution should be exercised when considering the use of STELARA in these patients.
-
 All patients, in particular those greater than 60 years of age, patients with a medical history of prolonged immunosuppressant therapy or those with a history of PUVA treatment, should be monitored for the appearance of non-melanoma skin cancer (see section 4.8).
 
 Hypersensitivity reactions
@@ -61,6 +63,11 @@ Special populations
 Elderly (≥65 years)
 No overall differences in efficacy or safety in patients age 65 and older who received STELARA were observed compared to younger patients, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients.
 Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
+
+Sodium content
+STELARA contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially ‘sodium-free’.
+STELARA is however, diluted in sodium chloride 9 mg/ml (0.9%) solution for infusion.
+This should be taken into consideration for patients on a controlled sodium diet (see section 6.6).
 
 [STELARA 45 mg solution for injection]
 

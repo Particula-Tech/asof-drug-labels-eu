@@ -23,6 +23,7 @@ In patients with Crohn’s disease, variability in ustekinumab CL was affected b
 Concomitant use of immunomodulators did not have a significant impact on ustekinumab disposition.
 The impact of these statistically significant covariates on the respective PK parameters was within
 ± 20% when evaluated across a representative range of covariate values or categories in the data which is within the overall variability observed in the PK of ustekinumab.
+
 Regulation of CYP450 enzymes
 The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitro study using human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4; see section 4.5).
 
@@ -40,6 +41,7 @@ The CL/F of ustekinumab was not impacted by gender.
 Population pharmacokinetic analysis showed that there was a trend towards a higher clearance of ustekinumab in patients who tested positive for antibodies to ustekinumab.
 
 The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximately dose-proportional manner after a single intravenous administration at doses ranging from 0.09 mg/kg to 4.5 mg/kg or following a single subcutaneous administration at doses ranging from approximately 24 mg to 240 mg in patients with psoriasis.
+
 Single dose versus multiple doses
 Serum concentration-time profiles of ustekinumab were generally predictable after single or multiple subcutaneous dose administrations.
 In patients with psoriasis, steady-state serum concentrations of ustekinumab were achieved by week 28 after initial subcutaneous doses at Weeks 0 and 4 followed by doses every 12 weeks.

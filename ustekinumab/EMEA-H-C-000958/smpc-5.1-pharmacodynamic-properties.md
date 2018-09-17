@@ -90,17 +90,28 @@ Of 131 patients who responded to ustekinumab induction, and were randomized to t
 The majority of patients who lost response and resumed ustekinumab did so within 24 weeks of the induction infusion.
 Of these 51 patients, 70.6% achieved clinical response and 39.2% percent achieved clinical remission 16 weeks after receiving the first subcutaneous dose of ustekinumab.
 
+In IM-UNITI, patients who completed the study through week 44 were eligible to continue treatment in a study extension.
+Among patients who entered the study extension, clinical remission and response were generally maintained through week 92 for both patients who failed TNF-therapies and those who failed conventional therapies.
+
 Endoscopy
 Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy.
 The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn’s Disease (SES-CD), a composite score across 5 ileo-colonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures.
 At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = -0.7, p = 0.012).
+
 Fistula Response
 In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumab-treated patients achieved a fistula response over 44 weeks (defined as ≥50% reduction from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
 
 Health-related quality of life
-Health-related quality of life was assessed by IBDQ and SF-36 questionnaires.
+Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires.
 At week 8, patients receiving ustekinumab showed statistically significantly greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo.
 These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo.
+Improvement in health-related quality of life was generally maintained during the extension through week 92.
+
+Immunogenicity
+Antibodies to ustekinumab may develop during ustekinumab treatment and most are neutralising.
+The formation of anti-ustekinumab antibodies is associated with increased clearance of ustekinumab in patients with Crohn’s disease.
+No reduced efficacy was observed.
+There is no apparent correlation between the presence of anti-ustekinumab antibodies and the occurrence of injection site reactions.
 
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in Crohn’s Disease (see section 4.2 for information on paediatric use).
@@ -131,8 +142,8 @@ During the 12-week active-controlled portion of the study, patients were randomi
 Baseline disease characteristics were generally consistent across all treatment groups in Psoriasis Studies 1 and 2 with a median baseline PASI score from 17 to 18, median baseline Body Surface Area (BSA) ≥20, and median Dermatology Life Quality Index (DLQI) range from 10 to 12.
 Approximately one third (Psoriasis Study 1) and one quarter (Psoriasis Study 2) of subjects had Psoriatic Arthritis (PsA).
 Similar disease severity was also seen in Psoriasis Study 3.
-The primary endpoint in these studies was the proportion of patients who achieved PASI 75 response from baseline at week 12 (see Tables 4 and 5).
 
+The primary endpoint in these studies was the proportion of patients who achieved PASI 75 response from baseline at week 12 (see Tables 4 and 5).
 Table 4 Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoriasis Study 2 (PHOENIX 2)
 
 |  | Week 12 2 doses (week 0 and week 4) |  |  | Week 28 3 doses (week 0, week 4 and week 16) |  |
@@ -180,6 +191,7 @@ Table 5 Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
 
 a p < 0.001 for ustekinumab 45 mg or 90 mg in comparison with etanercept.
 b p = 0.012 for ustekinumab 45 mg in comparison with etanercept.
+
 In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with continuous treatment compared with treatment withdrawal (p < 0.001).
 Similar results were seen with each dose of ustekinumab.
 At 1 year (week 52), 89% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 63% of patients re-randomised to placebo (treatment withdrawal) (p < 0.001).
@@ -214,6 +226,7 @@ Signs and symptoms
 Treatment with ustekinumab resulted in significant improvements in the measures of disease activity compared to placebo at week 24.
 The primary endpoint was the percentage of patients who achieved American College of Rheumatology (ACR) 20 response at week 24.
 The key efficacy results are shown in Table 6 below.
+
 Table 6 Number of patients who achieved clinical response in Psoriatic arthritis Study 1 (PSUMMIT I) and Study 2 (PSUMMIT II) at week 24
 
 |  | Psoriatic arthritis Study 1 |  |  | Psoriatic arthritis Study 2 |  |  |
@@ -338,8 +351,8 @@ Table 8: Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
 | 70 Point Response, week 6 | 75 (30.4%) | 109 (43.8%)b | 81 (38.8%) | 135 (64.6%)a |
 
 Patients were randomized to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2).
-Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 9).
 
+Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 9).
 Table 9: Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52 weeks from initiation of the induction dose)
 
 |  | Placebo* | 90 mg ustekinumab every 8 weeks | 90 mg ustekinumab every 12 weeks |
@@ -353,3 +366,5 @@ Table 9: Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52
 | who entered from study CRD3002‡ | 44% (31/70) | 63% (45/72)c | 57% (41/72) |
 | who are Anti-TNFα naïve | 49% (25/51) | 65% (34/52)c | 57% (30/53) |
 | who entered from study CRD3001§ | 26% (16/61) | 41% (23/56) | 39% (22/57) |
+
+The formation of anti-ustekinumab antibodies is associated with both increased clearance and reduced efficacy of ustekinumab, except in patients with Crohn’s disease where no reduced efficacy was observed.

@@ -5,6 +5,7 @@ The most common adverse reactions (> 5%) in controlled periods of the adult psor
 Most were considered to be mild and did not necessitate discontinuation of study treatment.
 The most serious adverse reaction that has been reported for STELARA is serious hypersensitivity reactions including anaphylaxis (see section 4.4).
 The overall safety profile was similar for patients with psoriasis, psoriatic arthritis and Crohn’s disease.
+No new safety concerns were identified with up to 2 years of treatment in patients with Crohn’s Disease.
 
 Tabulated list of adverse reactions
 The safety data described below reflect exposure in adults to ustekinumab in 12 phase 2 and phase 3 studies in 5,884 patients (4,135 with psoriasis and/or psoriatic arthritis and 1,749 with Crohn’s disease).
@@ -44,9 +45,7 @@ Musculoskeletal and connective Common: Back pain, myalgia, arthralgia tissue dis
 
 General disorders and Common: Fatigue, injection site erythema, injection site pain
 
-administration site conditions Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia
-
-Description of selected adverse reactions
+administration site conditions Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia Description of selected adverse reactions
 Infections
 In the placebo-controlled studies of patients with psoriasis, psoriatic arthritis and Crohn’s disease, the rates of infection or serious infection were similar between ustekinumab-treated patients and those treated with placebo.
 In the placebo-controlled period of clinical studies of patients with psoriasis, patients with psoriatic arthritis and patients with Crohn’s disease, the rate of infection was 1.38 per patient-year of follow-up in ustekinumab-treated patients, and 1.35 in placebo-treated patients.
@@ -73,18 +72,10 @@ Hypersensitivity and infusion reactions
 In Crohn’s disease induction studies, no events of anaphylaxis or other serious infusion reactions were reported following the single intravenous dose.
 In these studies, 2.4% of 466 placebo treated patients and 2.6% of 470 patients treated with the recommended dose of ustekinumab reported adverse events occurring during or within an hour of the infusion.
 
-Immunogenicity
-In psoriasis and psoriatic arthritis clinical studies less than 8% of ustekinumab-treated patients developed antibodies to ustekinumab.
-In Crohn’s disease clinical studies, less than 3% of patients treated with ustekinumab developed antibodies to ustekinumab.
-No apparent association between the development of antibodies to ustekinumab and the development of injection site reactions was observed.
-The majority of patients who were positive for antibodies to ustekinumab had neutralizing antibodies.
-Efficacy tended to be lower in patients positive for antibodies to ustekinumab; however, antibody positivity did not preclude a clinical response.
-
 Paediatric population
 Undesirable effects in paediatric patients 12 years and older with plaque psoriasis
 The safety of ustekinumab has been studied in a phase 3 study of 110 patients from 12 to 17 years of age for up to 60 weeks.
 In this study, the adverse events reported were similar to those seen in previous studies in adults with plaque psoriasis.
-
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
@@ -95,6 +86,10 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis and Crohn’s disease clinical studies as well as adverse reactions reported from post-marketing experience.
 
 Table 3 List of adverse reactions
+
+administration site conditions Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia
+
+Description of selected adverse reactions
 
 Hypersensitivity reactions
 During the controlled periods of the psoriasis and psoriatic arthritis clinical studies of ustekinumab, rash and urticaria have each been observed in < 1% of patients (see section 4.4).

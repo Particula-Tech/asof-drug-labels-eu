@@ -11,7 +11,7 @@ STELARA concentrate for solution for infusion must be diluted and prepared by a 
 1.
 Calculate the dose and the number of STELARA vials needed based on patient weight (see section 4.2, Table 1).
 Each 26 mL vial of STELARA contains 130 mg of ustekinumab.
-Only use complete vials of Stelara.
+Only use complete vials of STELARA.
 2.
 Withdraw and discard a volume of the sodium chloride 9 mg/mL (0.9%) solution from the 250 mL infusion bag equal to the volume of STELARA to be added.
 (discard 26 mL sodium chloride for each vial of STELARA needed, for 2 vials-discard 52 mL, for 3 vials- discard 78 mL, for 4 vials- discard 104 mL)
