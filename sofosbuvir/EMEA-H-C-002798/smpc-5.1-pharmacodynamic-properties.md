@@ -1,8 +1,9 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Direct-acting antiviral; ATC code: J05AX15
+Pharmacotherapeutic group: Antivirals for systemic use, direct-acting antiviral; ATC code: J05AP08
 
 Mechanism of action
+
 Sofosbuvir is a pan-genotypic inhibitor of the HCV NS5B RNA-dependent RNA polymerase, which is essential for viral replication.
 Sofosbuvir is a nucleotide prodrug that undergoes intracellular metabolism to form the pharmacologically active uridine analog triphosphate (GS-461203), which can be incorporated into HCV RNA by the NS5B polymerase and acts as a chain terminator.
 In a biochemical assay, GS-461203 inhibited the polymerase activity of the recombinant NS5B from HCV genotype 1b, 2a, 3a and 4a with a 50% inhibitory concentration (IC50) value ranging from 0.7 to 2.6 μM.
@@ -10,6 +11,7 @@ GS-461203 (the active metabolite of sofosbuvir) is not an inhibitor of human DNA
 RNA polymerases nor an inhibitor of mitochondrial RNA polymerase.
 
 Antiviral activity
+
 In HCV replicon assays, the effective concentration (EC50) values of sofosbuvir against full-length replicons from genotype 1a, 1b, 2a, 3a and 4a were 0.04, 0.11, 0.05, 0.05 and 0.04 μM, respectively, and EC50 values of sofosbuvir against chimeric 1b replicons encoding NS5B from genotype 2b, 5a or 6a were 0.014 to 0.015 μM.
 The mean ± SD EC50 of sofosbuvir against chimeric replicons encoding NS5B sequences from clinical isolates was 0.068 ± 0.024 μM for genotype 1a (n = 67),
 0.11 ± 0.029 μM for genotype 1b (n = 29), 0.035 ± 0.018 μM for genotype 2 (n = 15) and 0.085 ± 0.034 μM for genotype 3a (n = 106).
@@ -18,6 +20,7 @@ In these assays, the in vitro antiviral activity of sofosbuvir against the less 
 The presence of 40% human serum had no effect on the anti-HCV activity of sofosbuvir.
 
 Resistance
+
 In cell culture
 HCV replicons with reduced susceptibility to sofosbuvir have been selected in cell culture for multiple genotypes including 1b, 2a, 2b, 3a, 4a, 5a and 6a.
 Reduced susceptibility to sofosbuvir was associated with the primary NS5B substitution S282T in all replicon genotypes examined.
@@ -39,6 +42,7 @@ In addition, S282R and L320F substitutions were detected on treatment by deep se
 The clinical significance of these findings is unknown.
 
 Effect of baseline HCV polymorphisms on treatment outcome
+
 Adult population
 Baseline NS5B sequences were obtained for 1,292 patients from Phase 3 studies by population sequencing and the S282T substitution was not detected in any subject with available baseline sequence.
 In an analysis evaluating the effect of baseline polymorphisms on treatment outcome, no statistically significant association was observed between the presence of any HCV NS5B variant at baseline and treatment outcome.
@@ -49,12 +53,14 @@ Among these, one patient was found to have a NS5B RAV substitution (F289L).
 This patient achieved SVR12.
 
 Cross-resistance
+
 HCV replicons expressing the sofosbuvir-associated resistance substitution S282T were fully susceptible to other classes of anti-HCV agents.
 Sofosbuvir retained activity against the
 NS5B substitutions L159F and L320F associated with resistance to other nucleoside inhibitors.
 Sofosbuvir was fully active against substitutions associated with resistance to other direct-acting antivirals with different mechanisms of actions, such as NS5B non-nucleoside inhibitors, NS3 protease inhibitors and NS5A inhibitors.
 
 Clinical efficacy and safety
+
 The efficacy of sofosbuvir was evaluated in five Phase 3 studies in a total of 1,568 adult patients with genotypes 1 to 6 chronic hepatitis C. One study was conducted in treatment-naïve patients with genotype 1, 4, 5 or 6 chronic hepatitis C in combination with peginterferon alfa 2a and ribavirin and the other four studies were conducted in patients with genotype 2 or 3 chronic hepatitis C in combination with ribavirin including one in treatment-naïve patients, one in interferon intolerant, ineligible or unwilling patients, one in patients previously treated with an interferon-based regimen, and one in all patients irrespective of prior treatment history or ability to receive treatment with interferon.
 Patients in these studies had compensated liver disease including cirrhosis.
 Sofosbuvir was administered at a dose of 400 mg once daily.
@@ -106,6 +112,7 @@ SVR12 rates were similarly high in patients with baseline IL28B C/C allele [94/9
 
 27/28 patients with genotype 4 HCV achieved SVR12.
 A single subject with genotype 5 and all 6 patients with genotype 6 HCV infection in this study achieved SVR12.
+
 Clinical studies in patients with genotype 2 and 3 chronic hepatitis C
 Treatment-naïve adults - FISSION (study 1231)
 FISSION was a randomised, open-label, active-controlled study that evaluated 12 weeks of treatment with sofosbuvir and ribavirin compared to 24 weeks of treatment with peginterferon alfa 2a and ribavirin in treatment-naïve patients with genotype 2 or 3 HCV infection.
@@ -116,7 +123,6 @@ Patients with genotype 2 or 3 HCV were enrolled in an approximately 1:3 ratio.
 
 Treated patients (n = 499) had a median age of 50 years (range: 19 to 77); 66% of the patients were male; 87% were White; 3% were Black; 14% were Hispanic or Latino; mean body mass index was 28 kg/m2 (range: 17 to 52 kg/m2); 57% had baseline HCV RNA levels greater than 6 log10 IU/mL; 20% had cirrhosis; 72% had HCV genotype 3.
 Table 9 presents the response rates for the treatment groups of sofosbuvir + ribavirin and peginterferon alfa + ribavirin.
-
 Table 9: Response rates in study FISSION
 
 |  | SOF+RBV 12 weeks (n = 256)a | PEG+RBV 24 weeks (n = 243) |
@@ -171,7 +177,6 @@ Table 11: Response rates in study POSITRON
 
 a. The denominator for relapse is the number of patients with HCV RNA <LLOQ at their last on-treatment assessment.
 b. Other includes patients who did not achieve SVR12 and did not meet virologic failure criteria (e.g., lost to follow-up).
-
 The SVR12 rate in the sofosbuvir + ribavirin treatment group was statistically significant when compared to placebo (p <0.001).
 
 Table 12 presents the subgroup analysis by genotype for cirrhosis and interferon classification.
@@ -223,6 +228,7 @@ Table 14: SVR12 rates for selected subgroups by genotype in study FUSION
 | Cirrhosis |  |  |  |  |
 | No | 90% (26/29) | 92% (24/26) | 37% (14/38) | 63% (25/40) |
 | Yes | 60% (6/10) | 78% (7/9) | 19% (5/26) | 61% (14/23) |
+|  | SOF+RBV 12 weeks (n = 39) | SOF+RBV 16 weeks (n = 35) | SOF+RBV 12 weeks (n = 64) | SOF+RBV 16 weeks (n = 63) |
 | Response to prior HCV treatment |  |  |  |  |
 | Relapser | 86% (25/29) | 89% (24/27) | 31% (15/49) | 65% (30/46) |
 | Nonresponder | 70% (7/10) | 88% (7/8) | 27% (4/15) | 53% (9/17) |
@@ -254,6 +260,7 @@ b. Other includes patients who did not achieve SVR12 and did not meet virologic 
 
 Table 16 presents the subgroup analysis by genotype for cirrhosis and exposure to prior
 HCV treatment.
+
 Table 16: SVR12 rates for selected subgroups by genotype in study VALENCE
 
 |  | Genotype 2 SOF+RBV 12 weeks (n = 73) | Genotype 3 SOF+RBV 24 weeks (n = 250) |
@@ -267,7 +274,6 @@ Table 16: SVR12 rates for selected subgroups by genotype in study VALENCE
 
 SVR12 to SVR24 concordance
 The concordance between SVR12 and SVR24 (SVR 24 weeks after the end of the treatment) following treatment with sofosbuvir in combination with ribavirin or ribavirin and pegylated interferon demonstrates a positive predictive value of 99% and a negative predictive value of 99%.
-
 Clinical efficacy and safety in special populations
 HCV/HIV co-infected adult patients - PHOTON-1 (study 123)
 Sofosbuvir was studied in an open-label clinical study evaluating the safety and efficacy of 12 or 24 weeks of treatment with sofosbuvir and ribavirin in patients with genotype 1, 2 or 3 chronic hepatitis C co-infected with HIV-1.
@@ -305,6 +311,7 @@ Table 18: SVR12 rates for selected subgroups by genotype in study PHOTON-1
 | Cirrhosis | 100% (1/1) | 100% (2/2) | 67% (4/6) | 80% (4/5) |
 
 TN = treatment-naïve; TE = treatment-experienced.
+
 Adult patients awaiting liver transplantation - Study 2025
 Sofosbuvir was studied in HCV infected patients prior to undergoing liver transplantation in an open-label clinical study evaluating the safety and efficacy of sofosbuvir and ribavirin administered pre-transplant to prevent post-transplant HCV reinfection.
 The primary endpoint of the study was post-transplant virologic response (pTVR, HCV RNA <LLOQ at 12 weeks post-transplant).

@@ -1,16 +1,14 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile in adults
-During treatment with sofosbuvir in combination with ribavirin or with peginterferon alfa and ribavirin, the most frequently reported adverse drug reactions were consistent with the expected safety profile of ribavirin and peginterferon alfa treatment, without increasing the frequency or severity of the expected adverse drug reactions.
 
 Assessment of adverse reactions is based on pooled data from five Phase 3 clinical studies (both controlled and uncontrolled).
 
-The proportion of patients who permanently discontinued treatment due to adverse reactions was 1.4% for patients receiving placebo, 0.5% for patients receiving sofosbuvir + ribavirin for 12 weeks, 0% for patients receiving sofosbuvir + ribavirin for 16 weeks, 11.1% for patients receiving peginterferon alfa + ribavirin for 24 weeks and 2.4% for patients receiving sofosbuvir + peginterferon alfa + ribavirin for 12 weeks.
-
-Tabulated summary of adverse reactions
-Sovaldi has mainly been studied in combination with ribavirin, with or without peginterferon alfa.
+Sovaldi has been studied in combination with ribavirin, with or without peginterferon alfa.
 In this context, no adverse drug reactions specific to sofosbuvir have been identified.
 The most common adverse drug reactions occurring in patients receiving sofosbuvir and ribavirin or sofosbuvir, ribavirin and peginterferon alfa were fatigue, headache, nausea and insomnia.
+
+Tabulated summary of adverse reactions
 
 The following adverse drug reactions have been identified with sofosbuvir in combination with ribavirin or in combination with peginterferon alfa and ribavirin (Table 6).
 The adverse reactions are listed below by body system organ class and frequency.
@@ -30,7 +28,6 @@ Common weight decreased
 Psychiatric disorders:
 Very common insomnia insomnia
 Common depression depression, anxiety, agitation
-Frequency SOFa + RBVb SOF + PEGc + RBV
 Nervous system disorders:
 Very common headache dizziness, headache
 Common disturbance in attention migraine, memory impairment, disturbance in attention
@@ -55,8 +52,13 @@ Very common fatigue, irritability chills, fatigue, influenza-like illness, irrit
 Common pyrexia, asthenia chest pain, asthenia
 
 a. SOF = sofosbuvir; b. RBV = ribavirin; c. PEG = peginterferon alfa.
+Description of selected adverse reactions
+
+Cardiac arrhythmias
+Cases of severe bradycardia and heart block have been observed when sofosbuvir is used in combination with another DAA (including daclatasvir, simeprevir and ledipasvir) and concomitant amiodarone and/or other medicinal products that lower heart rate (see sections 4.4 and 4.5).
 
 Other special population(s)
+
 HIV/HCV co-infection
 The safety profile of sofosbuvir and ribavirin in HCV/HIV co-infected adult patients was similar to that observed in mono-infected HCV patients treated with sofosbuvir and ribavirin in Phase 3 clinical studies (see section 5.1).
 
@@ -73,13 +75,8 @@ Paediatric population
 The safety and efficacy of Sovaldi in adolescents aged 12 to <18 years are based on data from 50 patients who were treated with Sovaldi and ribavirin for 12 weeks (genotype 2 patients) and 24 weeks (genotype 3 patients) in a Phase 2, open-label clinical trial.
 The adverse reactions observed were consistent with those observed in clinical studies of Sovaldi plus ribavirin in adults (see Table 6).
 
-Description of selected adverse reactions
-Cardiac arrhythmias
-Cases of severe bradycardia and heart block have been observed when sofosbuvir-containing regimens are used in combination with amiodarone and/or other drugs that lower heart rate (see sections 4.4 and 4.5).
-Skin disorders
-Frequency Not known: Stevens-Johnson syndrome
-
 Reporting of suspected adverse reactions
+
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

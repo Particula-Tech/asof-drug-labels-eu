@@ -3,6 +3,7 @@
 Sovaldi treatment should be initiated and monitored by a physician experienced in the management of patients with CHC.
 
 Posology
+
 Adults
 The recommended dose is one 400 mg tablet, taken orally, once daily with food (see section 5.2).
 
@@ -36,12 +37,11 @@ Concerning co-administration with other direct-acting antivirals against HCV, se
 Dose modification in adults
 Dose reduction of Sovaldi is not recommended.
 
-If sofosbuvir is used in combination with peginterferon alfa, and a patient has a serious adverse reaction potentially related to this drug, the peginterferon alfa dose should be reduced or discontinued.
+If sofosbuvir is used in combination with peginterferon alfa, and a patient has a serious adverse reaction potentially related to this medicinal product, the peginterferon alfa dose should be reduced or discontinued.
 Refer to the peginterferon alfa Summary of Product Characteristics for additional information about how to reduce and/or discontinue the peginterferon alfa dose.
 
 If a patient has a serious adverse reaction potentially related to ribavirin, the ribavirin dose should be modified or discontinued, if appropriate, until the adverse reaction abates or decreases in severity.
 Table 2 provides guidelines for dose modifications and discontinuation based on the patient’s haemoglobin concentration and cardiac status.
-
 Table 2: Ribavirin dose modification guideline for co-administration with Sovaldi in adults
 
 | Laboratory values | Reduce ribavirin dose to 600 mg/day if: | Discontinue ribavirin if: |
@@ -52,8 +52,8 @@ Table 2: Ribavirin dose modification guideline for co-administration with Sovald
 Once ribavirin has been withheld due to either a laboratory abnormality or clinical manifestation, an attempt may be made to restart ribavirin at 600 mg daily and further increase the dose to 800 mg daily.
 However, it is not recommended that ribavirin be increased to the original assigned dose (1,000 mg to 1,200 mg daily).
 
-Paediatric population
-In adolescents aged 12 to < 18 years, the recommended dose of Sovaldi is one tablet once daily with food (see section 5.2).
+Adolescents (12 to 18 years of age)
+The recommended dose of Sovaldi is one tablet once daily with food (see section 5.2).
 
 Sovaldi should be used in combination with other medicinal products.
 Monotherapy of Sovaldi is not recommended.
@@ -84,15 +84,25 @@ Table 4: Recommended dosing for ribavirin in combination therapy with Sovaldi in
 
 * The daily dosage of ribavirin is weight-based and is administered orally in two divided doses with food.
 
-Dose modification in the paediatric population
+Dose modification in adolescents
 Dose reduction of Sovaldi is not recommended.
 
 If a patient has a serious adverse reaction potentially related to ribavirin, the ribavirin dose should be modified or discontinued, if appropriate, until the adverse reaction abates or decreases in severity.
 Refer to the ribavirin prescribing information for guidance on dose modification or discontinuation.
-
 Discontinuation of dosing in adults and adolescents
 If the other medicinal products used in combination with Sovaldi are permanently discontinued, Sovaldi should also be discontinued (see section 4.4).
+
+Vomiting and missed doses
+Patients should be instructed that if vomiting occurs within 2 hours of dosing an additional tablet should be taken.
+If vomiting occurs more than 2 hours after dosing, no further dose is needed.
+These recommendations are based on the absorption kinetics of sofosbuvir and GS-331007 suggesting that the majority of the dose is absorbed within 2 hours after dosing.
+
+If a dose is missed and it is within 18 hours of the normal time, patients should be instructed to take the tablet as soon as possible and then patients should take the next dose at the usual time.
+If it is after 18 hours then patients should be instructed to wait and take the next dose at the usual time.
+Patients should be instructed not to take a double dose.
+
 Special patient populations
+
 Elderly
 No dose adjustment is warranted for elderly patients (see section 5.2).
 
@@ -116,18 +126,12 @@ If the starting dose of ribavirin is not well-tolerated, the dose should be redu
 
 Paediatric population
 The safety and efficacy of Sovaldi in children and adolescents aged <12 years have not yet been established.
-No data on paediatric patients < 12 years are available.
+No data are available.
 
 Method of administration
-The film-coated tablet is for oral use.
+
+Oral use.
+
 Patients should be instructed to swallow the tablet whole.
 The film-coated tablet should not be chewed or crushed, due to the bitter taste of the active substance.
 The tablet should be taken with food (see section 5.2).
-
-Patients should be instructed that if vomiting occurs within 2 hours of dosing an additional tablet should be taken.
-If vomiting occurs more than 2 hours after dosing, no further dose is needed.
-These recommendations are based on the absorption kinetics of sofosbuvir and GS-331007 suggesting that the majority of the dose is absorbed within 2 hours after dosing.
-
-If a dose is missed and it is within 18 hours of the normal time, patients should be instructed to take the tablet as soon as possible and then patients should take the next dose at the usual time.
-If it is after 18 hours then patients should be instructed to wait and take the next dose at the usual time.
-Patients should be instructed not to take a double dose.
