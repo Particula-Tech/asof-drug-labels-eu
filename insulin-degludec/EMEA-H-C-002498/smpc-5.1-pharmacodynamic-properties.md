@@ -12,6 +12,7 @@ The blood glucose-lowering effect of insulin is due to the facilitated uptake of
 Pharmacodynamic effects
 Tresiba is a basal insulin that forms soluble multi-hexamers upon subcutaneous injection, resulting in a depot from which insulin degludec is continuously and slowly absorbed into the circulation leading to a flat and stable glucose-lowering effect of Tresiba (see figure 1).
 During a period of 24 hours with once-daily treatment, the glucose-lowering effect of Tresiba, in contrast to insulin glargine, was evenly distributed between the first and second 12 hours (AUCGIR,0-12h,SS/AUCGIR,total,SS = 0.5).
+
 Time since injection (hours)
 Treatment IDeg 0.6 units/kg
 Figure 1 Glucose infusion rate profile, smoothed, steady state - Mean profile 0-24 hours - IDeg 100 units/mL 0.6 units/kg - Trial 1987
@@ -38,7 +39,6 @@ The total glucose-lowering effect of Tresiba increases linearly with increasing 
 The total glucose-lowering effect is comparable for Tresiba 100 units/mL and 200 units/mL after administration of the same doses of the two products.
 
 There is no clinically relevant difference in the pharmacodynamics of this medicinal product between elderly and younger adult patients.
-
 Clinical efficacy and safety
 11 multinational clinical trials of 26 or 52 weeks’ duration were conducted as controlled, open-label, randomised, parallel, treat-to-target trials exposing 4,275 patients to Tresiba (1,102 in type 1 diabetes mellitus and 3,173 in type 2 diabetes mellitus).
 
@@ -91,6 +91,7 @@ Table 3 Results from open-label clinical trials in type 1 diabetes mellitus
 1 In a once-daily regimen + insulin aspart to cover mealtime insulin requirements
 2 Confirmed hypoglycaemia was defined as episodes confirmed by plasma glucose <3.1 mmol/L or by the patient needing third party assistance.
 Nocturnal confirmed hypoglycaemia was defined as episodes between midnight and 6 a.m.
+
 Table 4 Results from open-label clinical trials in insulin naïve type 2 diabetes mellitus (insulin initiation)
 
 |  | 52 weeks of treatment |  | 26 weeks of treatment |  |
@@ -207,6 +208,53 @@ Table 7 Results from the double-blind, cross-over clinical trials in type 1 and 
 4 Episodes from week 16 in each treatment period
 5 Blood glucose (BG) confirmed symptomatic hypoglycaemia was defined as episodes confirmed by a plasma glucose value of less than 3.1 mmol/L, with symptoms consistent with hypoglycaemia.
 Nocturnal confirmed hypoglycaemia was defined as episodes between midnight and 6 a.m.
+
+Cardiovascular evaluation
+DEVOTE was a randomised, double-blind, and event-driven clinical trial with a median duration of 2 years comparing the cardiovascular safety of Tresiba versus insulin glargine (100 units/mL) in 7,637 patients with type 2 diabetes mellitus at high risk of cardiovascular events.
+The primary analysis was time from randomisation to first occurrence of a 3-component major adverse cardiovascular event (MACE) defined as cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke.
+The trial was designed as a non-inferiority trial to exclude a pre-specified risk margin of 1.3 for the hazard ratio (HR) of MACE comparing Tresiba to insulin glargine.
+The cardiovascular safety of Tresiba as compared to insulin glargine was confirmed (HR 0.91 [0.78; 1.06]) (Figure 2).
+Results from subgroup analyses (e.g. sex, diabetes duration, CV risk group and previous insulin regimen) was aligned with the primary analysis.
+
+Hazard Ratio Tresiba Insulin glargine
+(95% CI) N (%) N (%)
+Primary analysis (3-point MACE) 0.91 (0.78-1.06) 325 (8.51) 356 (9.32)
+CV Death 0.96 (0.76-1.21) 136 (3.56) 142 (3.72)
+Non-fatal Stroke 0.90 (0.65-1.23) 71 (1.86) 79 (2.07)
+Non-fatal MI 0.85 (0.68-1.06) 144 (3.77) 169 (4.43)
+All cause death 0.91 (0.76-1.11) 202 (5.29) 221 (5.79)
+
+0.7 0.9 1 1.1 1.3
+
+Favours Favours
+Tresiba insulin glargine
+
+N: Number of subjects with a first EAC confirmed event during trial. %: Percentage of subjects with a first EAC confirmed event relative to the number of randomised subjects.
+EAC: Event adjudication committee.
+CV: Cardiovascular.
+MI: Myocardial infarction.
+CI: 95% confidence interval.
+Figure 2 Forest plot of analysis of the composite 3-point MACE and individual cardiovascular endpoints in DEVOTE
+At baseline, HbA1c was 8.4% in both treatment groups and after 2 years HbA1c was 7.5% both with Tresiba and insulin glargine.
+Tresiba was superior compared to insulin glargine in terms of a lower rate of severe hypoglycaemic events and a lower proportion of subjects experiencing severe hypoglycaemia.
+The rate of nocturnal severe hypoglycaemia was significantly lower for Tresiba compared to insulin glargine (Table 8).
+
+Table 8 Results from DEVOTE
+
+|  | Tresiba1 | Insulin glargine (100 units/mL)1 |
+| --- | --- | --- |
+| N | 3,818 | 3,819 |
+| Rate of hypoglycaemia (per 100 patient years of observation) |  |  |
+| Severe | 3.70 | 6.25 |
+|  | Rate ratio: 0.60 [0.48; 0.76] |  |
+| Nocturnal severe2 | 0.65 | 1.40 |
+|  | Rate ratio: 0.47 [0.31; 0.73] |  |
+| Proportions of patients with hypoglycaemia (percent of patients) |  |  |
+| Severe | 4.9 | 6.6 |
+|  | Odds ratio: 0.73 [0.60; 0.89] |  |
+
+1 In addition to standard of care for diabetes and cardiovascular disease
+2 Nocturnal severe hypoglycaemia was defined as episodes between midnight and 6 a.m.
 
 Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of trials with Tresiba in:

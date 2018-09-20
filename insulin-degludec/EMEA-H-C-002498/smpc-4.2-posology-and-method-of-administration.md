@@ -62,8 +62,8 @@ When adding GLP-1 receptor agonists to Tresiba, it is recommended to reduce the 
 Subsequently, dosage should be adjusted individually.
 
 Special populations
-Elderly patients (≥65 years old)
-Tresiba can be used in elderly patients.
+Elderly (≥65 years old)
+Tresiba can be used in elderly.
 Glucose monitoring is to be intensified and the insulin dose adjusted on an individual basis (see section 5.2).
 
 Renal and hepatic impairment
@@ -81,9 +81,14 @@ Subcutaneous use only.
 Tresiba must not be administered intravenously as it may result in severe hypoglycaemia.
 This medicinal product must not be administered intramuscularly as it may change the absorption.
 This medicinal product must not be used in insulin infusion pumps.
+Tresiba must not be drawn from the cartridge of the pre-filled pen into a syringe (see section 4.4).
 
 Tresiba is administered subcutaneously by injection in the thigh, the upper arm or the abdominal wall.
 Injection sites are always to be rotated within the same region in order to reduce the risk of lipodystrophy.
+
+Patients should be instructed to always use a new needle.
+The re-use of insulin pen needles increases the risk of blocked needles, which may cause under- or overdosing.
+In the event of blocked needles, patients must follow the instructions described in the instructions for use accompanying the package leaflet (see section 6.6).
 
 Tresiba 100 units/mL and Tresiba 200 units/mL solution for injection in a pre-filled pen
 Tresiba comes in a pre-filled pen (FlexTouch) designed to be used with NovoFine or NovoTwist injection needles.

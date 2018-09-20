@@ -15,6 +15,5 @@ In rats, insulin degludec was secreted in milk; the concentration in milk was lo
 
 It is unknown whether insulin degludec is excreted in human milk.
 No metabolic effects are anticipated in the breast-fed newborn/infant.
-
 Fertility
 Animal reproduction studies with insulin degludec have not revealed any adverse effects on fertility.

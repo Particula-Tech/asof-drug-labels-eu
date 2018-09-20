@@ -3,7 +3,6 @@
 Absorption
 After subcutaneous injection, soluble and stable multi-hexamers are formed creating a depot of insulin in the subcutaneous tissue.
 Insulin degludec monomers gradually separate from the multi-hexamers thus resulting in a slow and continuous delivery of insulin degludec into the circulation.
-
 Steady-state serum concentration is reached after 2–3 days of daily Tresiba administration.
 
 During a period of 24 hours with once-daily treatment, the exposure of insulin degludec was evenly distributed between the first and second 12 hours.
@@ -26,7 +25,7 @@ In direct comparison, requirements for bioequivalence are met for Tresiba 100 un
 Gender
 There is no gender difference in the pharmacokinetic properties of this medicinal product.
 
-Elderly patients, race, renal and hepatic impairment
+Elderly, race, renal and hepatic impairment
 There is no difference in the pharmacokinetics of insulin degludec between elderly and younger adult patients, between races or between healthy subjects and patients with renal or hepatic impairment.
 
 Paediatric population

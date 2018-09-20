@@ -42,7 +42,7 @@ Safety and efficacy have been demonstrated in a long term trial in children aged
 The frequency, type and severity of adverse reactions in the paediatric population do not indicate differences to the experience in the general diabetes population (see section 5.1).
 
 Other special populations
-Based on results from clinical trials, the frequency, type and severity of adverse reactions observed in elderly patients and in patients with renal or hepatic impairment do not indicate any differences to the broader experience in the general population.
+Based on results from clinical trials, the frequency, type and severity of adverse reactions observed in elderly and in patients with renal or hepatic impairment do not indicate any differences to the broader experience in the general population.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

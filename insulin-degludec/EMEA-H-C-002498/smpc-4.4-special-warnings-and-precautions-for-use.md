@@ -42,6 +42,9 @@ Patients must visually verify the dialled units on the dose counter of the pen.
 Therefore, the requirement for patients to self-inject is that they can read the dose counter on the pen.
 Patients who are blind or have poor vision must be instructed to always get help/assistance from another person who has good vision and is trained in using the insulin device.
 
+To avoid dosing errors and potential overdose, patients and healthcare professionals should never use a syringe to draw the medicinal product from the cartridge in the pre-filled pen.
+In the event of blocked needles, patients must follow the instructions described in the instructions for use accompanying the package leaflet (see section 6.6).
+
 Insulin antibodies
 Insulin administration may cause insulin antibodies to form.
 In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyper- or hypoglycaemia.
