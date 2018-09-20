@@ -16,5 +16,5 @@ The benefit of breast-feeding for the child and the benefit of therapy for the w
 
 Fertility
 
-There are no data on the effects of Tecfidera on human fertility.
+There are no data on the effects of dimethyl fumarate on human fertility.
 Data from preclinical studies do not suggest that dimethyl fumarate would be associated with an increased risk of reduced fertility (see section 5.3).

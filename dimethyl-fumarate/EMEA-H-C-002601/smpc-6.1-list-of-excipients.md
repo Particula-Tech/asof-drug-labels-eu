@@ -1,6 +1,6 @@
 # 6.1 List of excipients
 
-Enteric-coated microtablets
+Capsule contents (enteric-coated microtablets)
 
 Microcrystalline cellulose
 Croscarmellose sodium

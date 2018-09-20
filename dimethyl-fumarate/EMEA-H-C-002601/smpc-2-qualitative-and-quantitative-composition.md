@@ -1,10 +1,11 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Tecfidera 120mg capsule
-Each capsule contains 120 mg dimethyl fumarate.
+Tecfidera 120mg gastro-resistant hard capsules
 
-Tecfidera 240mg capsule
-Each capsule contains 240 mg dimethyl fumarate
+Each gastro-resistant hard capsule contains 120 mg dimethyl fumarate.
 
-Excipient(s) with known effect
+Tecfidera 240mg gastro-resistant hard capsules
+
+Each gastro-resistant hard capsule contains 240 mg dimethyl fumarate
+
 For the full list of excipients, see section 6.1.

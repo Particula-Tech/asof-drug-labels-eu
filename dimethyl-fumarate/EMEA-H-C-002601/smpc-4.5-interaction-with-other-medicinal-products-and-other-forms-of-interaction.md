@@ -23,14 +23,15 @@ Evidence from healthy volunteer studies suggests that Tecfidera-associated flush
 In two healthy volunteer studies, the administration of 325 mg (or equivalent) non-enteric coated acetylsalicylic acid, 30 minutes prior to Tecfidera, dosing over 4 days and over 4 weeks, respectively, did not alter the pharmacokinetic profile of Tecfidera.
 Potential risks associated with acetylsalicylic acid therapy should be considered prior to co-administration with Tecfidera in patients with Relapsing Remitting MS. Long term (> 4 weeks) continuous use of acetylsalicylic acid has not been studied (see sections 4.4 and 4.8).
 
-Concurrent therapy with nephrotoxic medicinal products (such as aminoglycosides, diuretics, NSAIDs or lithium) may increase the potential of renal adverse reactions (e.g. proteinuria) in patients taking Tecfidera (see section 4.8).
+Concurrent therapy with nephrotoxic medicinal products (such as aminoglycosides, diuretics, non-steroidal anti-inflammatory drugs or lithium) may increase the potential of renal adverse reactions (e.g. proteinuria see section 4.8) in patients taking Tecfidera (see section 4.4 Blood/laboratory tests).
 
-Consumption of moderate amounts of alcohol did not alter exposure to Tecfidera and was not associated with an increase in adverse reactions.
-Consumption of large quantities of undiluted strong alcoholic drinks (more than 30% alcohol by volume) may lead to increased dissolution rates of Tecfidera and, therefore, may increase the frequency of gastrointestinal adverse reactions.
+Consumption of moderate amounts of alcohol did not alter exposure to dimethyl fumarate and was not associated with an increase in adverse reactions.
+Consumption of large quantities of strong alcoholic drinks (more than 30% alcohol by volume) should be avoided within an hour of taking Tecfidera, as alcohol may lead to increased frequency of gastrointestinal adverse reactions.
 
 In vitro CYP induction studies did not demonstrate an interaction between Tecfidera and oral contraceptives.
 In an in vivo study, co-administration of Tecfidera with a combined oral contraceptive (norgestimate and ethinyl estradiol) did not elicit any relevant change in oral contraceptive exposure.
 No interaction studies have been performed with oral contraceptives containing other progestogens, however an effect of Tecfidera on their exposure is not expected.
+
 Paediatric population
 
 Interaction studies have only been performed in adults.

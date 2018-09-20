@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Other nervous system drugs, ATC code: N07XX09
+
 Mechanism of action
 
 The mechanism by which dimethyl fumarate exerts therapeutic effects in multiple sclerosis is not fully understood.
@@ -10,22 +11,17 @@ Dimethyl fumarate has been shown to up regulate Nrf2-dependent antioxidant genes
 Pharmacodynamic effects
 
 Effects on the immune system
-
-In preclinical and clinical studies, Tecfidera demonstrated anti-inflammatory and immunomodulatory properties.
+In preclinical and clinical studies, dimethyl fumarate demonstrated anti-inflammatory and immunomodulatory properties.
 Dimethyl fumarate and monomethyl fumarate, the primary metabolite of dimethyl fumarate, significantly reduced immune cell activation and subsequent release of pro-inflammatory cytokines in response to inflammatory stimuli in preclinical models.
 In clinical studies with psoriasis patients, dimethyl fumarate affected lymphocyte phenotypes through a down-regulation of pro-inflammatory cytokine profiles (TH1, TH17), and biased towards anti-inflammatory production (TH2).
 Dimethyl fumarate demonstrated therapeutic activity in multiple models of inflammatory and neuroinflammatory injury.
-In Phase 3 studies, upon treatment with Tecfidera mean lymphocyte counts decreased on average by approximately 30% of their baseline value over the first year with a subsequent plateau.
-
-Effect on cardiovascular system
-
-Single doses of 240 mg or 360 mg Tecfidera did not have any effect on the QTc interval when compared to placebo in a QTc study.
+In Phase 3 studies in MS patients, upon treatment with Tecfidera mean lymphocyte counts decreased on average by approximately 30% of their baseline value over the first year with a subsequent plateau.
 
 Clinical efficacy and safety
 
 Two, 2-year, randomised, double-blind, placebo controlled studies [Study 1 (DEFINE) with 1234 subjects and Study 2 (CONFIRM) with 1417 subjects] of subjects with relapsing-remitting multiple sclerosis (RRMS) were performed.
 Subjects with progressive forms of MS were not included in these studies.
-Efficacy (see table below) and safety were demonstrated in subjects with Expanded Disability Status Scale (EDSS) scores ranging from 0 to 5 inclusive, who had experienced at least 1 relapse during the year prior to randomisation, or, within 6 weeks of randomisation had a brain Magnetic Resonance Imaging (MRI) demonstrating at least one gadolinium-enhancing (Gd+) lesion.
+Efficacy (see table below) and safety were demonstrated in subjects with Expanded Disability Status Scale (EDSS) scores ranging from 0 to 5 inclusive, who had experienced at least 1 relapse during the year prior to randomisation, or, in the 6 weeks before randomisation had a brain Magnetic Resonance Imaging (MRI) demonstrating at least one gadolinium-enhancing (Gd+) lesion.
 Study 2 contained a rater-blinded (i.e. study physician/ investigator assessing the response to study treatment was blinded) reference comparator of glatiramer acetate.
 
 In Study 1, patients had the following median baseline characteristics: age 39 years, disease duration 7.0 years, EDSS score 2.0.
@@ -38,6 +34,7 @@ In addition, 17% of patients had an EDSS score >3.5, 32% had
 In the MRI cohort 45% of patients entering the study had Gd+ lesions at baseline (mean number of Gd+ lesions 2.4).
 
 Compared to placebo, subjects treated with Tecfidera had a clinically meaningful and statistically significant reduction on: the primary endpoint in Study 1, proportion of subjects relapsed at 2 years; and the primary endpoint in Study 2, annualised relapse rate at 2 years.
+
 The annualised relapse rate for glatiramer acetate and placebo was 0.286 and 0.401 respectively in Study 2, corresponding to a reduction of 29% (p=0.013), which is consistent with approved prescribing information.
 
 |  | DEFINE |  | CONFIRM |  |  |
@@ -47,6 +44,7 @@ The annualised relapse rate for glatiramer acetate and placebo was 0.286 and 0.4
 | No. subjects | 408 | 410 | 363 | 359 | 350 |
 | Annualised relapse rate | 0.364 | 0.172*** | 0.401 | 0.224*** | 0.286* |
 | Rate ratio (95% CI) |  | 0.47 (0.37, 0.61) |  | 0.56 (0.42, 0.74) | 0.71 (0.55, 0.93) |
+|  | Placebo | Tecfidera 240 mg twice a day | Placebo | Tecfidera 240 mg twice a day | Glatiramer acetate |
 | Proportion relapsed | 0.461 | 0.270*** | 0.410 | 0.291** | 0.321** |
 | Hazard ratio (95% CI) |  | 0.51 (0.40, 0.66) |  | 0.66 (0.51, 0.86) | 0.71 (0.55, 0.92) |
 | Proportion with 12-week confirmed disability progression | 0.271 | 0.164** | 0.169 | 0.128# | 0.156# |
@@ -64,6 +62,7 @@ The annualised relapse rate for glatiramer acetate and placebo was 0.286 and 0.4
 
 aAll analyses of clinical endpoints were intent-to-treat; bMRI analysis used MRI cohort
 *P-value < 0.05; **P-value < 0.01; ***P-value < 0.0001; #not statistically significant
+
 Efficacy in patients with high disease activity:
 Consistent treatment effect on relapses in a subgroup of patients with high disease activity was observed, whilst the effect on time to 3-month sustained disability progression was not clearly established.
 Due to the design of the studies, high disease activity was defined as follows:
