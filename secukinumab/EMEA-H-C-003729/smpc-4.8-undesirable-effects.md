@@ -9,7 +9,6 @@ Adverse reactions in plaque psoriasis
 
 Four placebo-controlled phase III studies in plaque psoriasis were pooled to evaluate the safety of Cosentyx in comparison to placebo up to 12 weeks after treatment initiation.
 In total, 2,076 patients were evaluated (692 patients on 150 mg, 690 patients on 300 mg and 694 patients on placebo).
-
 The most frequently reported adverse drug reactions (ADRs) were upper respiratory tract infections (most frequently nasopharyngitis, rhinitis).
 Most of the reactions were mild or moderate in severity.
 
@@ -24,6 +23,7 @@ Adverse reactions in ankylosing spondylitis
 Cosentyx was studied in two placebo-controlled ankylosing spondylitis studies with 590 patients
 (394 patients on Cosentyx and 196 patients on placebo) for a total of 755 patient-years of study exposure (median duration of exposure for secukinumab-treated patients: 469 days in AS Study 1 and 460 days in AS Study 2).
 The safety profile observed in patients with ankylosing spondylitis treated with Cosentyx is consistent with the safety profile in psoriasis.
+
 Tabulated list of adverse reactions
 ADRs from psoriasis, psoriatic arthritis and ankylosing spondylitis clinical studies as well as from post-marketing experience (Table 1) are listed by MedDRA system organ class.
 Within each system organ class, the ADRs are ranked by frequency, with the most frequent reactions first.
@@ -59,6 +59,7 @@ Over the entire treatment period (a total of 3,430 patients treated with Cosenty
 Serious infections were reported in 1.2% of patients treated with Cosentyx (0.015 per patient-year of follow-up).
 
 Infection rates observed in psoriatic arthritis and ankylosing spondylitis clinical studies were similar to those observed in the psoriasis studies.
+
 Neutropenia
 In psoriasis phase 3 clinical studies, neutropenia was more frequently observed with secukinumab than with placebo, but most cases were mild, transient and reversible.
 Neutropenia <1.0-0.5x109/l (CTCAE Grade 3) was reported in 18 out of 3,430 (0.5%) patients on secukinumab, with no dose dependence and no temporal relationship to infections in 15 out of 18 cases.

@@ -9,6 +9,7 @@ Secukinumab works by targeting IL-17A and inhibiting its interaction with the IL
 As a result, secukinumab inhibits the release of proinflammatory cytokines, chemokines and mediators of tissue damage and reduces IL-17A-mediated contributions to autoimmune and inflammatory diseases.
 Clinically relevant levels of secukinumab reach the skin and reduce local inflammatory markers.
 As a direct consequence treatment with secukinumab reduces erythema, induration and desquamation present in plaque psoriasis lesions.
+
 IL-17A is a naturally occurring cytokine that is involved in normal inflammatory and immune responses.
 IL-17A plays a key role in the pathogenesis of plaque psoriasis, psoriatic arthritis and ankylosing spondylitis and is up-regulated in lesional skin in contrast to non-lesional skin of plaque psoriasis patients and in synovial tissue of psoriatic arthritis patients.
 The frequency of IL-17-producing cells was also significantly higher in the subchondral bone marrow of facet joints from patients with ankylosing spondylitis.
@@ -21,7 +22,6 @@ This is followed by a slow decrease due to reduced clearance of secukinumab-boun
 In a study with secukinumab, infiltrating epidermal neutrophils and various neutrophil-associated markers that are increased in lesional skin of plaque psoriasis patients were significantly reduced after one to two weeks of treatment.
 
 Secukinumab has been shown to lower (within 1 to 2 weeks of treatment) levels of C-reactive protein, which is a marker of inflammation.
-
 Clinical efficacy and safety
 
 Plaque psoriasis
@@ -49,7 +49,6 @@ Patients were also randomised to receive placebo at Weeks 0, 1, 2, 3 and 4, foll
 Psoriasis Study 5 (SCULPTURE) evaluated 966 patients.
 All patients received Cosentyx 150 mg or 300 mg doses at Weeks 0, 1, 2, 3, 4, 8 and 12 and then were randomised to receive either a maintenance regimen of the same dose every month starting at Week 12 or a “retreatment as needed” regimen of the same dose.
 Patients randomised to “retreatment as needed” did not achieve adequate maintenance of response and therefore a fixed monthly maintenance regimen is recommended.
-
 The co-primary endpoints in the placebo and active-controlled studies were the proportion of patients who achieved a PASI 75 response and IGA mod 2011 “clear” or “almost clear” response versus placebo at Week 12 (see Tables 2 and 3).
 The 300 mg dose provided improved skin clearance particularly for “clear” or “almost clear” skin across the efficacy endpoints of PASI 90, PASI 100, and IGA mod 2011 0 or 1 response across all studies with peak effects seen at Week 16, therefore this dose is recommended.
 
@@ -193,11 +192,11 @@ IGA mod 2011 128 (38.3%) 41 (12.2%) 278 (83.2%) 226 (67.5%) 261 (78.1%) 213 (63.
 Patients treated with ustekinumab received 45 mg or 90 mg at Weeks 0 and 4, then every 12 weeks until Week 52 (dosed by weight as per approved posology)
 ** p values versus ustekinumab: p<0.0001 for primary endpoint of PASI 90 at Week 16 and secondary endpoint of PASI 75 at Week 4
 *** p values versus ustekinumab: p=0.0001 for secondary endpoint of PASI 90 at Week 52
+
 Cosentyx was efficacious in systemic treatment-naive, biologic-naive, biologic/anti-TNF-exposed and biologic/anti-TNF-failure patients.
 Improvements in PASI 75 in patients with concurrent psoriatic arthritis at baseline were similar to those in the overall plaque psoriasis population.
 
 Cosentyx was associated with a fast onset of efficacy with a 50% reduction in mean PASI by Week 3 for the 300 mg dose.
-
 Figure 1 Time course of percentage change from baseline of mean PASI score in Study 1 (ERASURE)
 
 PASI % change from baseline
@@ -219,11 +218,11 @@ Quality of life/patient-reported outcomes
 Statistically significant improvements at Week 12 (Studies 1-4) from baseline compared to placebo were demonstrated in the DLQI (Dermatology Life Quality Index).
 Mean decreases (improvements) in DLQI from baseline ranged from -10.4 to -11.6 with secukinumab 300 mg, from -7.7 to -10.1 with secukinumab 150 mg, versus -1.1 to -1.9 for placebo at Week 12.
 These improvements were maintained for 52 weeks (Studies 1 and 2).
+
 Forty percent of the participants in Studies 1 and 2 completed the Psoriasis Symptom Diary©.
 For the participants completing the diary in each of these studies, statistically significant improvements at Week 12 from baseline compared to placebo in patient-reported signs and symptoms of itching, pain and scaling were demonstrated.
 
 Statistically significant improvements at Week 4 from baseline in patients treated with secukinumab compared to patients treated with ustekinumab (CLEAR) were demonstrated in the DLQI and these improvements were maintained for up to 52 weeks.
-
 Statistically significant improvements in patient-reported signs and symptoms of itching, pain and scaling at Week 16 and Week 52 (CLEAR) were demonstrated in the Psoriasis Symptom Diary© in patients treated with secukinumab compared to patients treated with ustekinumab.
 
 Statistically significant improvements (decreases) at Week 12 from baseline in the scalp psoriasis study were demonstrated in patient reported signs and symptoms of scalp itching, pain and scaling compared to placebo.
