@@ -1,0 +1,16 @@
+{
+  "active_substance": "vigabatrin",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/004534",
+  "eu_number": "EU/1/18/1302",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2018-09-20",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kigabeq",
+  "molecule": "vigabatrin",
+  "molecule_name": "VIGABATRIN",
+  "name": "Kigabeq",
+  "register_name": "Kigabeq",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h1302.htm"
+}
