@@ -83,12 +83,13 @@ Uncommon uveitis, blurred vision, dry eye
 Not known Vogt-Koyanagi-Harada syndromeh Vogt-Koyanagi-Harada syndromeh
 Cardiac disorders
 Common tachycardia
-Uncommon tachycardia arrhythmia (including ventricular
+Uncommon tachycardia, pericardial disordersj arrhythmia (including ventricular
 arrhythmia)a,d, atrial fibrillation,
 myocarditisa,f
 Rare arrhythmia (including ventricular
 arrhythmia)d, atrial fibrillation,
 myocarditisa,f
+Not known pericardial disordersj
 Vascular disorders
 Common hypertension hypertension
 Rare vasculitis
@@ -162,6 +163,7 @@ The frequency is based on the program-wide exposure.
 g Musculoskeletal pain is a composite term which includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity, and spinal pain.
 h Post-marketing event (also see section 4.4).
 i Reported in clinical studies and in the post-marketing setting.
+j Pericardial disorders is a composite term which includes pericarditis, pericardial effusion, cardiac tamponade, and Dressler’s syndrome.
 
 The overall safety profile of nivolumab 3 mg/kg for the adjuvant treatment of melanoma (n = 452) was consistent with that established across tumour types for nivolumab monotherapy.
 
@@ -171,7 +173,6 @@ With appropriate medical therapy, immune-related adverse reactions resolved in m
 Permanent discontinuation of treatment was required in a greater proportion of patients receiving nivolumab in combination with ipilimumab than in those receiving nivolumab monotherapy for immune-related colitis (16% and 0.8%, respectively), immune-related hepatitis (9% and 1%), and immune-related endocrinopathies (2.7% and 0.1%).
 Among patients who experienced an event, high-dose corticosteroids (at least 40 mg prednisone equivalents) were required in a greater proportion of patients receiving the combination regimen than in patients receiving nivolumab monotherapy for the management of immune-related colitis (46% and 15%, respectively), immune-related hepatitis (46% and 21%), immune-related endocrinopathies (27% and 7%, respectively), and immune-related skin adverse reaction (7% and 4%, respectively).
 The management guidelines for these adverse reactions are described in section 4.4.
-
 Immune-related pneumonitis
 In patients treated with nivolumab monotherapy, the incidence of pneumonitis, including interstitial lung disease and lung infiltration, was 3.4% (87/2578).
 The majority of cases were Grade 1 or 2 in severity reported in 0.8% (21/2578) and 1.7% (44/2578) of patients respectively.
@@ -227,6 +228,7 @@ Grade 2, Grade 3, and Grade 4 cases were reported in 1.6% (7/448), 0.9% (4/448),
 No Grade 5 cases were reported.
 Median time to onset was 2.6 months (range: 0.5-21.8).
 Resolution occurred in 21 patients (91.3%) with a median time to resolution of 2.1 weeks (range: 0.1- 125.1+).
+
 Immune-related endocrinopathies
 In patients treated with nivolumab monotherapy, the incidence of thyroid disorders, including hypothyroidism or hyperthyroidism, was 9.6% (248/2578).
 The majority of cases were Grade 1 or 2 in severity reported in 4.2% (107/2578) and 5.4% (139/2578) of patients, respectively.

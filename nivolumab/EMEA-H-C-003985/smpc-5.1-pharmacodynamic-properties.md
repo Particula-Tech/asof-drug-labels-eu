@@ -348,7 +348,9 @@ Nivolumab + Ipilimumab
 OS rate and 95% CI at 12 months: 73% (68, 78), 24 months: 64% (59, 69), and 36 months: 58% (52, 63) ──∆─── Nivolumab (events: 158/316), median and 95% CI: 37.59 months (29.08, N.A.)
 OS rate and 95% CI at 12 months: 74% (69, 79), 24 months: 59% (53, 64), and 36 months: 52% (46, 57)
 - - -•- - - Ipilimumab (events: 206/315), median and 95% CI: 19.94 months (16.85, 24.61)
-OS rate and 95% CI at 12 months: 67% (61, 72), 24 months: 45% (39, 50), and 36 months: 34% (29, 39) Nivolumab+ipilimumab vs ipilimumab (primary analysis) - HR (95% CI): 0.55 (0.45, 0.69); p-value: <0.0001 Nivolumab vs ipilimumab (primary analysis) - HR (95% CI): 0.65 (0.53, 0.80); p-value: <0.0001 Nivolumab+ipilimumab vs nivolumab (descriptive analysis) - HR (95% CI): 0.85 (0.68, 1.07)
+OS rate and 95% CI at 12 months: 67% (61, 72), 24 months: 45% (39, 50), and 36 months: 34% (29, 39)
+
+Nivolumab+ipilimumab vs ipilimumab (primary analysis) - HR (95% CI): 0.55 (0.45, 0.69); p-value: <0.0001 Nivolumab vs ipilimumab (primary analysis) - HR (95% CI): 0.65 (0.53, 0.80); p-value: <0.0001 Nivolumab+ipilimumab vs nivolumab (descriptive analysis) - HR (95% CI): 0.85 (0.68, 1.07)
 Figure 6: Overall survival by PD-L1 expression: 1% cut off (CA209067) - Minimum follow-up of 36 months
 PD-L1 expression < 1%
 
