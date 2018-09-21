@@ -1,7 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Actelion Registration Ltd
-Chiswick Tower 13th Floor
-389 Chiswick High Road
-London W4 4AL
-United Kingdom
+Janssen-Cilag International NV
+Turnhoutseweg 30
+B-2340 Beerse
+Belgium
