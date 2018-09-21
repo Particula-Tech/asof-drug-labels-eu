@@ -9,10 +9,10 @@ The most commonly reported adverse reactions in patients treated with ticagrelor
 
 Tabulated list of adverse reactions
 The following adverse reactions have been identified following studies or have been reported in post-marketing experience with ticagrelor (Table 1).
+
 Adverse reactions are listed by MedDRA System Organ Class (SOC).
 Within each SOC the adverse reactions are ranked by frequency category.
-Frequency categories are defined according to the following conventions: Very common (≥1/10), common (≥1/100 to <1/10), uncommon
-(≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
+Frequency categories are defined according to the following conventions: Very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
 
 Table 1 – Adverse reactions by frequency and system organ class (SOC)
 
@@ -45,7 +45,6 @@ Description of selected adverse reactions
 Bleeding
 Bleeding findings in PLATO
 Overall outcome of bleeding rates in the PLATO study are shown in Table 2.
-
 Table 2 – Analysis of overall bleeding events, Kaplan-Meier estimates at 12 months (PLATO)
 
 |  | Ticagrelor 90 mg twice daily N=9235 | Clopidogrel N=9186 | p-value* |
@@ -86,7 +85,6 @@ Discontinuation of treatment due to non-procedural bleeding was more common for 
 Intracranial bleeding:
 There were more intracranial non-procedural bleeds with ticagrelor (n=27 bleeds in 26 patients, 0.3%) than with clopidogrel (n=14 bleeds, 0.2%), of which 11 bleeds with ticagrelor and 1 with clopidogrel were fatal.
 There was no difference in overall fatal bleeds.
-
 Bleeding findings in PEGASUS
 Overall outcome of bleeding events in the PEGASUS study are shown in Table 3.
 
@@ -119,7 +117,6 @@ PLATO Major Fatal/life-threatening: Fatal bleeding, OR any intracranial bleeding
 PLATO Major Other: Significantly disabling, OR clinically apparent with 30-50 g/L decrease in haemoglobin, OR
 2-3 red cell units transfused.
 PLATO Minor: Requires medical intervention to stop or treat bleeding.
-
 In PEGASUS, TIMI Major bleeding for ticagrelor 60 mg twice daily was higher than for ASA alone.
 No increased bleeding risk was seen for fatal bleeding and only a minor increase was observed in intracranial haemorrhages, as compared to ASA therapy alone.
 There were few fatal bleeding events in the study, 11 (0.3%) for ticagrelor 60 mg and 12 (0.3%) for ASA therapy alone.
@@ -136,6 +133,7 @@ Spontaneous ICHs were reported in similar rates for ticagrelor 60 mg and ASA the
 Traumatic and procedural ICHs showed a minor increase with ticagrelor 60 mg treatment, (n=15, 0.2%) compared with ASA therapy alone (n=10, 0.1%).
 There were 6 fatal ICHs with ticagrelor 60 mg and 5 fatal ICHs with ASA therapy alone.
 The incidence of intracranial bleeding was low in both treatment groups given the significant comorbidity and CV risk factors of the population under study.
+
 Dyspnoea
 Dyspnoea, a sensation of breathlessness, is reported by patients treated with ticagrelor.
 In PLATO, dyspnoea adverse events (AEs) (dyspnoea, dyspnoea at rest, dyspnoea exertional, dyspnoea paroxysmal nocturnal and nocturnal dyspnoea), when combined, was reported by 13.8% of patients treated with ticagrelor and by 7.8% of patients treated with clopidogrel.
@@ -169,3 +167,11 @@ Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+[Brilique 90 mg film-coated tablets]
+
+Thus, no particular group was identified at risk for any subset of bleeding.
+
+[Brilique 90 mg orodispersible tablets]
+
+(all sentences already above)

@@ -27,13 +27,13 @@ CYP3A4 is the major enzyme responsible for ticagrelor metabolism and the formati
 
 The major metabolite of ticagrelor is AR-C124910XX, which is also active as assessed by in vitro binding to the platelet P2Y12 ADP-receptor.
 The systemic exposure to the active metabolite is approximately 30-40% of that obtained for ticagrelor.
+
 Elimination
 The primary route of ticagrelor elimination is via hepatic metabolism.
 When radiolabelled ticagrelor is administered, the mean recovery of radioactivity is approximately 84% (57.8% in faeces, 26.5% in urine).
 Recoveries of ticagrelor and the active metabolite in urine were both less than 1% of the dose.
 The primary route of elimination for the active metabolite is most likely via biliary secretion.
 The mean t1/2 was approximately 7 hours for ticagrelor and 8.5 hours for the active metabolite.
-
 Special populations
 
 Elderly

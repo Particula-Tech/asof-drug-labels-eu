@@ -18,7 +18,7 @@ Surgery
 Patients should be advised to inform physicians and dentists that they are taking ticagrelor before any surgery is scheduled and before any new medicinal product is taken.
 
 In PLATO patients undergoing coronary artery bypass grafting (CABG), ticagrelor had more bleeding than clopidogrel when stopped within 1 day prior to surgery but a similar rate of major bleeds compared to clopidogrel after stopping therapy 2 or more days before surgery (see section 4.8).
-If a patient is to undergo elective surgery and antiplatelet effect is not desired, ticagrelor should be discontinued 7 days prior to surgery (see section 5.1).
+If a patient is to undergo elective surgery and antiplatelet effect is not desired, ticagrelor should be discontinued 5 days prior to surgery (see section 5.1).
 
 Patients with prior ischaemic stroke
 ACS patients with prior ischaemic stroke can be treated with ticagrelor for up to 12 months (PLATO study).
@@ -33,9 +33,9 @@ There is limited experience with ticagrelor in patients with moderate hepatic im
 Patients at risk for bradycardic events
 Due to observations of mostly asymptomatic ventricular pauses in an earlier clinical study, patients with an increased risk of bradycardic events (e.g. patients without a pacemaker who have sick sinus syndrome, 2nd or 3rd degree AV block or bradycardic-related syncope) were excluded from the main studies evaluating the safety and efficacy of ticagrelor.
 Therefore, due to the limited clinical experience, ticagrelor should be used with caution in these patients (see section 5.1).
-
 In addition, caution should be exercised when administering ticagrelor concomitantly with medicinal products known to induce bradycardia.
 However, no evidence of clinically significant adverse reactions was observed in the PLATO trial after concomitant administration with one or more medicinal products known to induce bradycardia (e.g. 96% beta blockers, 33% calcium channel blockers diltiazem and verapamil, and 4% digoxin) (see section 4.5).
+
 During the Holter substudy in PLATO, more patients had ventricular pauses >3 seconds with ticagrelor than with clopidogrel during the acute phase of their ACS.
 The increase in Holter-detected ventricular pauses with ticagrelor was higher in patients with chronic heart failure (CHF) than in the overall study population during the acute phase of ACS, but not at one month with ticagrelor or compared to clopidogrel.
 There were no adverse clinical consequences associated with this imbalance (including syncope or pacemaker insertion) in this patient population (see section 5.1).

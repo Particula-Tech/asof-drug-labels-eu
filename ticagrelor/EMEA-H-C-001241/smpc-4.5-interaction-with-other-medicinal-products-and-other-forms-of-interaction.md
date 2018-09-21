@@ -2,17 +2,18 @@
 
 Ticagrelor is primarily a CYP3A4 substrate and a mild inhibitor of CYP3A4.
 Ticagrelor is also a P-glycoprotein (P-gp) substrate and a weak P-gp inhibitor and may increase the exposure of P-gp substrates.
-Effects of other medicinal products on ticagrelor
+Effects of medicinal and other products on ticagrelor
 
-Medicinal products metabolised by CYP3A4
 CYP3A4 inhibitors
 
 - Strong CYP3A4 inhibitors – Co-administration of ketoconazole with ticagrelor increased the ticagrelor Cmax and AUC equal to 2.4-fold and 7.3-fold, respectively.
   The Cmax and AUC of the active metabolite were reduced by 89% and 56%, respectively.
-  Other strong inhibitors of CYP3A4 (clarithromycin, nefazodone, ritonavir, and atazanavir) would be expected to have similar effects and therefore concomitant use of strong CYP3A4 inhibitors with ticagrelor is contraindicated (see section 4.3).
+  Other strong inhibitors of CYP3A4 (clarithromycin, nefazodone, ritonavir and atazanavir) would be expected to have similar effects and therefore concomitant use of strong CYP3A4 inhibitors with ticagrelor is contraindicated (see section 4.3).
 - Moderate CYP3A4 inhibitors – Co-administration of diltiazem with ticagrelor increased the ticagrelor Cmax by 69% and AUC to 2.7-fold and decreased the active metabolite Cmax by 38% and AUC was unchanged.
   There was no effect of ticagrelor on diltiazem plasma levels.
   Other moderate CYP3A4 inhibitors (e.g. amprenavir, aprepitant, erythromycin and fluconazole) would be expected to have a similar effect and can as well be co-administered with ticagrelor.
+- A 2-fold increase of ticagrelor exposure was observed after daily consumption of large quantities of grapefruit juice (3x200 ml).
+  This magnitude of increased exposure is not expected to be clinically relevant to most patients.
 
 CYP3A inducers
 Co-administration of rifampicin with ticagrelor decreased ticagrelor Cmax and AUC by 73% and 86%, respectively.
@@ -31,9 +32,10 @@ Others
 Clinical pharmacology interaction studies showed that co-administration of ticagrelor with heparin, enoxaparin and ASA or desmopressin did not have any effect on the pharmacokinetics of ticagrelor or the active metabolite or on ADP-induced platelet aggregation compared with ticagrelor alone.
 If clinically indicated, medicinal products that alter haemostasis should be used with caution in combination with ticagrelor.
 
-A 2-fold increase of ticagrelor exposure was observed after daily consumption of large quantities of grapefruit juice (3x200 ml).
-This magnitude of increased exposure is not expected to be clinically relevant to most patients.
-
+A delayed and decreased exposure to oral P2Y12 inhibitors, including ticagrelor and its active metabolite, has been observed in patients with ACS treated with morphine (35% reduction in ticagrelor exposure).
+This interaction may be related to reduced gastrointestinal motility and apply to other opioids.
+The clinical relevance is unknown, but data indicate the potential for reduced ticagrelor efficacy in patients co-administered ticagrelor and morphine.
+In patients with ACS, in whom morphine cannot be withheld and fast P2Y12 inhibition is deemed crucial, the use of a parenteral P2Y12 inhibitor may be considered.
 Effects of ticagrelor on other medicinal products
 
 Medicinal products metabolised by CYP3A4
@@ -71,10 +73,10 @@ No clinically relevant effect on oral contraceptive efficacy is expected when le
 Medicinal products known to induce bradycardia
 Due to observations of mostly asymptomatic ventricular pauses and bradycardia, caution should be exercised when administering ticagrelor concomitantly with medicinal products known to induce bradycardia (see section 4.4).
 However, no evidence of clinically significant adverse reactions was observed in the PLATO trial after concomitant administration with one or more medicinal products known to induce bradycardia (e.g. 96% beta blockers, 33% calcium channel blockers diltiazem and verapamil, and 4% digoxin).
-
 Other concomitant therapy
 In clinical studies, ticagrelor was commonly administered with ASA, proton pump inhibitors, statins, beta-blockers, angiotensin converting enzyme (ACE) inhibitors and angiotensin receptor blockers as needed for concomitant conditions for long-term and also heparin, low molecular weight heparin and intravenous GpIIb/IIIa inhibitors for short durations (see section 5.1).
 No evidence of clinically significant adverse interactions with these medicinal products was observed.
+
 Co-administration of ticagrelor with heparin, enoxaparin or desmopressin had no effect on activated partial thromboplastin time (aPTT), activated coagulation time (ACT) or factor Xa assays.
 However, due to potential pharmacodynamic interactions, caution should be exercised with the concomitant administration of ticagrelor with medicinal products known to alter haemostasis.
 
