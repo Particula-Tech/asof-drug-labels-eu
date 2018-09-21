@@ -11,7 +11,7 @@ The most common adverse reactions resulting in discontinuation from the rufinami
 Tabulated list of adverse reactions
 Adverse reactions reported with an incidence greater than placebo, during the Lennox-Gastaut syndrome double-blind studies or in the overall rufinamide-exposed population, are listed in the table below by MedDRA preferred term, system organ class and by frequency.
 
-Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000).
+Frequencies are defined as: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000).
 
 | System Organ Class | Very Common | Common | Uncommon | Rare |
 | --- | --- | --- | --- | --- |
