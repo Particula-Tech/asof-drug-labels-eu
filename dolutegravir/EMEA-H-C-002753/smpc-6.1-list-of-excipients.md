@@ -4,7 +4,7 @@ Tablet core
 
 Mannitol (E421)
 Microcrystalline cellulose
-Povidone K29/32
+Povidone (K29/32)
 Sodium starch glycolate
 Sodium stearyl fumarate
 

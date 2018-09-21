@@ -11,7 +11,7 @@ To what extent dolutegravir provides added efficacy in the presence of such inte
 Hypersensitivity reactions
 
 Hypersensitivity reactions have been reported with dolutegravir, and were characterized by rash, constitutional findings, and sometimes, organ dysfunction, including severe liver reactions.
-Dolutegravir and other suspect agents should be discontinued immediately if signs or symptoms of hypersensitivity reactions develop (including, but not limited to, severe rash or rash accompanied by raised liver enzymes, fever, general malaise, fatigue, muscle or joint aches, blisters, oral lesions, conjunctivitis, facial oedema, eosinophilia, angioedema).
+Dolutegravir and other suspect medicinal products should be discontinued immediately if signs or symptoms of hypersensitivity reactions develop (including, but not limited to, severe rash or rash accompanied by raised liver enzymes, fever, general malaise, fatigue, muscle or joint aches, blisters, oral lesions, conjunctivitis, facial oedema, eosinophilia, angioedema).
 Clinical status including liver aminotransferases and bilirubin should be monitored.
 Delay in stopping treatment with dolutegravir or other suspect active substances after the onset of hypersensitivity may result in a life-threatening allergic reaction.
 
@@ -35,7 +35,7 @@ Therefore, patients should remain under close clinical observation by physicians
 Drug interactions
 
 Factors that decrease dolutegravir exposure should be avoided in the presence of integrase class resistance.
-This includes co-administration with medicinal products that reduce dolutegravir exposure (e.g. magnesium/ aluminium-containing antacid, iron and calcium supplements, multivitamins and inducing agents, etravirine (without boosted protease inhibitors), tipranavir/ritonavir, rifampicin, St. John’s wort and certain anti-epilepticmedicinal products) (see section 4.5).
+This includes co-administration with medicinal products that reduce dolutegravir exposure (e.g. magnesium/ aluminium-containing antacid, iron and calcium supplements, multivitamins and inducing agents, etravirine (without boosted protease inhibitors), tipranavir/ritonavir, rifampicin, St. John’s wort and certain anti-epileptic medicinal products) (see section 4.5).
 
 Dolutegravir increased metformin concentrations.
 A dose adjustment of metformin should be considered when starting and stopping coadministration of dolutegravir with metformin, to maintain glycaemic control (see section 4.5).

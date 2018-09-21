@@ -10,6 +10,7 @@ Bioequivalence has not been unequivocally shown for 1x50 mg tablet compared to 5
 Therefore, the 50 mg once daily dose should not be given as five 10 mg tablets.
 
 Absorption
+
 Dolutegravir is rapidly absorbed following oral administration, with median Tmax at 2 to 3 hours post dose for tablet formulation.
 
 Food increased the extent and slowed the rate of absorption of dolutegravir.
@@ -20,6 +21,7 @@ Therefore, Tivicay is recommended to be taken with food by patients infected wit
 The absolute bioavailability of dolutegravir has not been established.
 
 Distribution
+
 Dolutegravir is highly bound (>99%) to human plasma proteins based on in vitro data.
 The apparent volume of distribution is 17 L to 20 L in HIV-infected patients, based on a population pharmacokinetic analysis.
 Binding of dolutegravir to plasma proteins is independent of dolutegravir concentration.
@@ -32,8 +34,8 @@ In 13 treatment-naïve subjects on a stable dolutegravir plus abacavir/lamivudin
 Dolutegravir is present in the female and male genital tract.
 AUC in cervicovaginal fluid, cervical tissue and vaginal tissue were 6-10% of those in corresponding plasma at steady state.
 AUC in semen was 7% and 17% in rectal tissue of those in corresponding plasma at steady state.
-
 Biotransformation
+
 Dolutegravir is primarily metabolized through glucuronidation via UGT1A1 with a minor CYP3A component.
 Dolutegravir is the predominant circulating compound in plasma; renal elimination of unchanged active substance is low (< 1% of the dose).
 Fifty-three percent of total oral dose is excreted unchanged in the faeces.
@@ -41,6 +43,7 @@ It is unknown if all or part of this is due to unabsorbed active substance or bi
 Thirty-two percent of the total oral dose is excreted in the urine, represented by ether glucuronide of dolutegravir (18.9% of total dose), N-dealkylation metabolite (3.6% of total dose), and a metabolite formed by oxidation at the benzylic carbon (3.0% of total dose).
 
 Drug interactions
+
 In vitro, dolutegravir demonstrated no direct, or weak inhibition (IC50>50 μM) of the enzymes cytochrome P450 (CYP)1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 CYP3A, uridine diphosphate glucuronosyl transferase (UGT)1A1 or UGT2B7, or the transporters Pgp, BCRP, BSEP, OATP1B1, OATP1B3, OCT1, MATE2-K, MRP2 or MRP4.
 In vitro, dolutegravir did not induce CYP1A2, CYP2B6 or CYP3A4.
 Based on this data, dolutegravir is not expected to affect the pharmacokinetics of medicinal products that are substrates of major enzymes or transporters (see section 4.5).
@@ -48,15 +51,18 @@ Based on this data, dolutegravir is not expected to affect the pharmacokinetics 
 In vitro, dolutegravir was not a substrate of human OATP 1B1, OATP 1B3 or OCT 1.
 
 Elimination
+
 Dolutegravir has a terminal half-life of ~14 hours.
 The apparent oral clearance (CL/F) is approximately 1L/hr in HIV-infected patients based on a population pharmacokinetic analysis.
 
 Linearity/non-linearity
+
 The linearity of dolutegravir pharmacokinetics is dependent on dose and formulation.
 Following oral administration of tablet formulations, in general, dolutegravir exhibited nonlinear pharmacokinetics with less than dose-proportional increases in plasma exposure from 2 to 100 mg; however increase in dolutegravir exposure appears dose proportional from 25 mg to 50 mg for the tablet formulation.
 With 50 mg twice daily, the exposure over 24 hours was approximately doubled compared to 50 mg once daily.
 
 Pharmacokinetic/pharmacodynamic relationship(s)
+
 In a randomized, dose-ranging trial, HIV-1–infected subjects treated with dolutegravir monotherapy (ING111521) demonstrated rapid and dose-dependent antiviral activity, with mean decline in HIV-1 RNA of 2.5 log10 at day 11 for 50 mg dose.
 This antiviral response was maintained for 3 to 4 days after the last dose in the 50 mg group.
 
@@ -67,7 +73,6 @@ There is no clinical data on the safety or efficacy of the 100 mg twice daily do
 Co-treatment with atazanavir increases the exposure of dolutegravir markedly, and should not be used in combination with this high dose, since safety with the resulting dolutegravir exposure has not been established.
 
 Special patient populations
-
 Children
 The pharmacokinetics of dolutegravir in 10 antiretroviral treatment-experienced HIV-1 infected adolescents (12 to <18 years of age) showed that Tivicay 50 mg once daily oral dosage resulted in dolutegravir exposure comparable to that observed in adults who received Tivicay 50 mg orally once daily.
 The pharmacokinetics was evaluated in 11 children 6 to 12 years of age and showed that 25 mg once daily in patients weighing at least 20 kg and 35 mg once daily in patients weighing at least 30 kg resulted in dolutegravir exposure comparable to adults.

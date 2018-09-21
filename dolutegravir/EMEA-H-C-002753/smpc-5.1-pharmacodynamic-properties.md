@@ -16,9 +16,8 @@ The mean IC50 for 3 HIV-2 isolates was 0.18 nM (range 0.09-0.61).
 Antiviral activity in combination with other antiviral agents
 No antagonistic effects in vitro were seen with dolutegravir and other antiretrovirals tested: stavudine, abacavir, efavirenz, nevirapine, lopinavir, amprenavir, enfuvirtide, maraviroc and raltegravir.
 In addition, no antagonistic effects were seen for dolutegravir and adefovir, and ribavirin had no apparent effect on dolutegravir activity.
-
 Effect of human serum
-In 100% human serum, the mean protein fold shift was 75 fold, resulting in protein adjusted IC90 of 0.064 ug/mL.
+In 100% human serum, the mean protein fold shift was 75 fold, resulting in protein adjusted IC90 of 0.064 µg/mL.
 
 Resistance
 
@@ -62,6 +61,7 @@ The VIKING-4 study examined dolutegravir (plus optimized background therapy) in 
 Treatment-emergent mutations observed were consistent with those observed in the VIKING-3 study.
 
 Effects on electrocardiogram
+
 No relevant effects were seen on the QTc interval, with doses exceeding the clinical dose by approximately three fold.
 
 Clinical efficacy and safety
@@ -90,7 +90,8 @@ Table 4 Response in SPRING-2 and SINGLE at 48 Weeks (Snapshot algorithm, <50 cop
 | Baseline Viral Load (cps/mL) |  |  |  |  |
 | ≤100,000 >100,000 | 267 / 297 (90%) 94 / 114 (82%) | 264 / 295 (89%) 87 / 116 (75%) | 253 / 280 (90%) 111 / 134 (83%) | 238 / 288 (83%) 100 / 131 (76%) |
 | Baseline CD4+ (cells/ mm3) |  |  |  |  |
-| <200 200 to <350 ≥350 | 43 / 55 (78%) 128 / 144 (89%) 190 / 212 (90%) | 34 / 50 (68%) 118 / 139 (85%) 199 / 222 (90%) | 45 / 57 (79%) 143 / 163 (88%) 176 / 194 (91%) | 48 / 62 (77%) 126 / 159 (79%) 164 / 198 (83%) |
+| <200 | 43 / 55 (78%) | 34 / 50 (68%) | 45 / 57 (79%) | 48 / 62 (77%) |
+| 200 to <350 ≥350 | 128 / 144 (89%) 190 / 212 (90%) | 118 / 139 (85%) 199 / 222 (90%) | 143 / 163 (88%) 176 / 194 (91%) | 126 / 159 (79%) 164 / 198 (83%) |
 | NRTI backbone |  |  |  |  |
 | ABC/3TC | 145 / 169 (86%) 216 / 242 (89%) | 142 / 164 (87%) 209 / 247 (85%) | N/A N/A | N/A N/A |
 | TDF/FTC |  |  |  |  |
@@ -160,6 +161,7 @@ Table 5 Response in SAILING at 48 Weeks (Snapshot algorithm, <50 copies/mL)
 | ‡ Adjusted for baseline stratification factors. § 4 subjects were excluded from the efficacy analysis due to data integrity at one study site *The Genotypic Susceptibility Score (GSS) was defined as the total number of ARTs in BR to which a subject’s viral isolate showed susceptibility at baseline based upon genotypic resistance tests. †Other clades included: Complex (43), F1 (32), A1 (18), BF (14), all others <10. |  |  |
 
 In the SAILING study, virologic suppression (HIV-1 RNA <50 copies/mL) in the Tivicay arm (71%) was statistically superior to the raltegravir arm (64%), at Week 48 (p=0.03).
+
 Statistically fewer subjects failed therapy with treatment-emergent integrase resistance on Tivicay (4/354, 1%) than on raltegravir (17/361, 5%) (p=0.003) (refer to section ‘Resistance in vivo’ above for details).
 
 Patients with prior treatment failure that included an integrase inhibitor (and integrase class resistance)
@@ -201,10 +203,9 @@ The overall susceptibility score (OSS) of the optimised background regimen (OBR)
 Table 7 Response by baseline Resistance, VIKING-3.
 VO Population (HIV-1 RNA <50 c/mL, Snapshot algorithm)
 
-Week 24 (N=161) Week 48 (N=160)
-
-| Derived IN Mutation Group | OSS=0 | OSS=1 | OSS=2 | OSS>2 | Total | Total |
+|  | Week 24 (N=161) |  |  |  |  | Week 48 (N=160) |
 | --- | --- | --- | --- | --- | --- | --- |
+| Derived IN Mutation Group | OSS=0 | OSS=1 | OSS=2 | OSS>2 | Total | Total |
 | No primary IN mutation1 | 2/2 (100%) | 15/20 (75%) | 19/21 (90%) | 9/12 (75%) | 45/55 (82%) | 38/55 (69%) |
 | Primary mutation other than Q148H/K/R2 | 2/2 (100%) | 20/20 (100%) | 21/27 (78%) | 8/10 (80%) | 51/59 (86%) | 50/58 (86%) |
 | Q148 + 1 secondary mutation3 | 2/2 (100%) | 8/12 (67%) | 10/17 (59%) | - | 20/31 (65%) | 19/31 (61%) |
