@@ -31,7 +31,7 @@ Clinical status and relevant blood chemistry should be monitored and appropriate
 Cardiovascular safety
 
 Limited data exist with the use of maraviroc in patients with severe cardiovascular disease, therefore special caution should be exercised when treating these patients with maraviroc.
-In the pivotal studies of treatment-experienced patients coronary heart disease events was more common in patients treated with maraviroc than with placebo (11 during 609 PY vs 0 during 111 PY of follow-up).
+In the pivotal studies of treatment-experienced patients coronary heart disease events were more common in patients treated with maraviroc than with placebo (11 during 609 PY vs 0 during 111 PY of follow-up).
 In treatment-naïve patients such events occurred at a similarly low rate with maraviroc and control (efavirenz).
 
 Postural hypotension
@@ -56,13 +56,9 @@ Autoimmune disorders (such as Graves’ disease) have also been reported to occu
 
 Tropism
 
-Maraviroc should be taken as part of an antiretroviral combination regimen.
-Maraviroc should optimally be combined with other antiretrovirals to which the patient's virus is sensitive (see section 5.1).
-
 Maraviroc should only be used when only CCR5-tropic HIV-1 is detectable (i.e. CXCR4 or dual/mixed tropic virus not detected) as determined by an adequately validated and sensitive detection method (see sections 4.1, 4.2 and 5.1).
 The Monogram Trofile assay was used in the clinical studies of maraviroc.
 The viral tropism cannot be predicted by treatment history or assessment of stored samples.
-
 Changes in viral tropism occur over time in HIV-1 infected patients.
 Therefore there is a need to start therapy shortly after a tropism test.
 

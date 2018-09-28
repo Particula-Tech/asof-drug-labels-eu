@@ -1,8 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-ViiV Healthcare UK Ltd
-980 Great West Road
-Brentford
-Middlesex
-TW8 9GS
-United Kingdom
+ViiV Healthcare BV
+Huis ter Heideweg 62
+3705 LZ Zeist
+Netherlands

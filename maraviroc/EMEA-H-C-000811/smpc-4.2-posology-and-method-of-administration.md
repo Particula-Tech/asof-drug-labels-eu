@@ -23,8 +23,8 @@ The recommended dose of CELSENTRI differs depending on interactions with concomi
 Refer to section 4.5 for corresponding adult dosage.
 
 Many medicines have profound effects on maraviroc exposure due to drug-drug interactions.
-Prior to deciding the dose of CELSENTRI by weight, please refer to table 2 in section 4.5 to carefully determine the corresponding adult dose.
-The corresponding paediatric dose can then be obtained from table 1 below.
+Prior to deciding the dose of CELSENTRI by weight, please refer to Table 2 in section 4.5 to carefully determine the corresponding adult dose.
+The corresponding paediatric dose can then be obtained from Table 1 below.
 If uncertainty still exists, contact a pharmacist for advice.
 Table 1 Recommended dosing regimen in children aged 2 years and above and weighing at least 10 kg
 
@@ -43,7 +43,7 @@ Elderly
 There is limited experience in patients >65 years of age (see section 5.2), therefore CELSENTRI should be used with caution in this population.
 
 Renal impairment
-In adult patients with a creatinine clearance of <80 mL/min, and who are also receiving potent CYP3A4 inhibitors, the dose interval of maraviroc should be adjusted to 150 mg once daily (see sections 4.4 and 4.5).
+In adult patients with a creatinine clearance of <80 mL/min, who are also receiving potent CYP3A4 inhibitors, the dose interval of maraviroc should be adjusted to 150 mg once daily (see sections 4.4 and 4.5).
 
 Examples of agents/regimens with such potent CYP3A4-inhibiting activity are:
 

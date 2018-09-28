@@ -13,7 +13,7 @@ In rats, administration of maraviroc at a systemic exposure 21-times the expecte
 These findings are considered of low human relevance.
 In addition, cholangiocarcinomas (2/60 males at 900 mg/kg) and cholangioma (1/60 females at 500 mg/kg) were reported in the rat study at a systemic exposure at least 15-times the expected free human exposure.
 
-Maraviroc was not mutagenic or genotoxic in a battery of in vitro and in vivo assays including bacterial reverse mutation, chromosome aberrations in human lymphocytes and rat bone marrow micronucleus.
+Maraviroc was not mutagenic or genotoxic in a battery of in vitro and in vivo assays including bacterial reverse mutation, chromosome aberrations in human lymphocytes and mouse bone marrow micronucleus.
 
 Maraviroc did not impair mating or fertility of male or female rats, and did not affect sperm of treated male rats up to 1000 mg/kg.
 The exposure at this dose level corresponded to 39-fold the estimated free clinical AUC for a 300 mg twice daily dose.

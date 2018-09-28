@@ -14,6 +14,7 @@ Studies with the tablets demonstrated a reduced food-effect at higher doses.
 There were no food restrictions in the adult studies (using tablet formulations) or in the paediatric study (using both tablet and oral solution formulations).
 The results did not indicate any relevant efficacy or safety concern related to either fed or fasted dosing conditions.
 Therefore, maraviroc tablets and oral solution can be taken with or without food at the recommended doses in adults, adolescents and children aged 2 years and older and weighing at least 10 kg (see section 4.2).
+
 Distribution
 
 Maraviroc is bound (approximately 76%) to human plasma proteins, and shows moderate affinity for albumin and alpha-1 acid glycoprotein.
@@ -41,6 +42,7 @@ After intravenous administration (30 mg), the half-life of maraviroc was 13.2 h,
 Special patient populations:
 
 Paediatric population
+
 Intensive pharmacokinetics of maraviroc were evaluated in 50 treatment-experienced, CCR5-tropic, HIV-1 infected paediatric patients aged 2 to 18 years (weight 10.0 to 57.6 kg) in the dose-finding stage of clinical trial A4001031.
 Doses were given with food on intensive pharmacokinetic evaluation days and optimised to achieve an average concentration over the dosing interval (Cavg) of greater than 100 ng/mL; otherwise, maraviroc was given with or without food.
 The initial dose of maraviroc was scaled from adult doses using a body surface area (BSA) of 1.73 m2 to children and adolescent BSA (m2)-based bands.
@@ -51,10 +53,13 @@ The impact of potent CYP3A inhibitors and/or inducers on maraviroc pharmacokinet
 BSA (m2)-based bands have been modified to weight (kg)-based bands to simplify dosing and reduce dosing errors (see section 4.2).
 Use of weight (kg)-based doses in treatment-experienced HIV-1-infected children and adolescents results in maraviroc exposures similar to those observed in treatment-experienced adults receiving recommended doses with concomitant medications.
 The pharmacokinetics of maraviroc in paediatric patients below 2 years of age have not been established (see section 4.2).
+
 Elderly
+
 Population analysis of the Phase 1/2a and Phase 3 studies (16-65 years of age) has been conducted and no effect of age have been observed (see section 4.2).
 
 Renal impairment
+
 A study compared the pharmacokinetics of a single 300 mg dose of maraviroc in subjects with severe renal impairment (CLcr < 30 mL/min, n=6) and end stage renal disease (ESRD) to healthy volunteers (n=6).
 The geometric mean AUCinf (CV%) for maraviroc was as follows: healthy volunteers (normal renal function) 1348.4 ng·h/mL (61%); severe renal impairment 4367.7 ng·h/mL (52%); ESRD (dosing after dialysis) 2677.4 ng·h/mL (40%); and ESRD (dosing before dialysis) 2805.5 ng·h/mL (45%).
 The C max (CV%) was 335.6 ng/mL (87%) in healthy volunteers (normal renal function); 801.2 ng/mL (56%) in severe renal impairment; 576.7 ng/mL (51%) in ESRD (dosing after dialysis) and 478.5 ng/mL (38%) in ESRD (dosing before dialysis).
@@ -72,6 +77,7 @@ Therefore, dosing frequencies of longer than 24 hours in subjects with renal imp
 Dose adjustment is necessary in patients with renal impairment receiving maraviroc with potent CYP3A4 inhibitors (see sections 4.2 and 4.4 and 4.5).
 
 Hepatic impairment
+
 Maraviroc is primarily metabolized and eliminated by the liver.
 A study compared the pharmacokinetics of a single 300 mg dose of maraviroc in patients with mild (Child-Pugh Class A, n=8), and moderate (Child-Pugh Class B, n=8) hepatic impairment compared to healthy subjects (n=8).
 Geometric mean ratios for Cmax and AUClast were 11% and 25% higher respectively for subjects with mild hepatic impairment, and 32% and 46% higher respectively for subjects with moderate hepatic impairment compared to subjects with normal hepatic function.
@@ -87,6 +93,17 @@ The pharmacokinetics in other races has not been evaluated.
 Gender
 
 No relevant differences in pharmacokinetics have been observed.
+
+Pharmacogenomics
+
+The pharmacokinetics of maraviroc is dependent on CYP3A5 activity and expression level, which can be modulated by genetic variation.
+Subjects with a functional CYP3A5 (CYP3A5*1 allele) have been shown to have a reduced exposure to maraviroc compared to subjects with defect CYP3A5 activity (e.g., CYP3A5*3, CYP3A5*6, and CYP3A5*7).
+The CYP3A5 allelic frequency depends on ethnicity: the majority of Caucasians (~90%) are poor metabolisers of CYP3A5 substrates (i.e., subjects with no copy of functional CYP3A5 alleles) while approximately 40% of African-Americans and 70% of Sub-Saharan Africans are extensive metabolisers (i.e., subjects with two copies of functional CYP3A5 alleles).
+
+In a Phase 1 study conducted in healthy subjects, Blacks with a CYP3A5 genotype conferring extensive maraviroc metabolism (2 CYP3A5*1 alleles; n=12) had a 37% and 26% lower AUC when dosed with maraviroc 300 mg twice daily compared with Black (n=11) and Caucasian (n=12) subjects with CYP3A5 genotype conferring poor maraviroc metabolism (no CYP3A5*1 allele), respectively.
+The difference in maraviroc exposure between CYP3A5 extensive and poor metabolisers was reduced when maraviroc was administered together with a strong CYP3A inhibitor: extensive CYP3A5 metabolisers (n=12) had a 17% lower maraviroc AUC compared with poor CYP3A5 metabolisers (n=11) when dosed with maraviroc 150 mg once daily in the presence of darunavir/cobicistat (800/150 mg).
+All subjects in the Phase 1 study achieved the Cavg concentrations that have been shown to be associated with near maximal virologic efficacy with maraviroc (75 ng/mL) in the Phase 3 study in treatment-naïve adult patients (MERIT).
+Therefore, despite differences in CYP3A5 genotype prevalence by race, the effect of CYP3A5 genotype on maraviroc exposure is not considered clinically significant and no maraviroc dose adjustment according to CYP3A5 genotype, race or ethnicity is needed.
 
 [CELSENTRI 20 mg/ml oral solution]
 

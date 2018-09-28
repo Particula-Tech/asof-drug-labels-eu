@@ -4,5 +4,6 @@
 
 [CELSENTRI 20 mg/ml oral solution]
 
-2 years.
+3 years.
+
 After first opening: 60 days

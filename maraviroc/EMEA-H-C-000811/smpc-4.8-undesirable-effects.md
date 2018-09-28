@@ -14,6 +14,7 @@ The adverse reactions are listed by system organ class (SOC) and frequency.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥1/1000 to <1/100), rare (≥1/10,000 to <1/1,000) , not known (cannot be estimated from the available data).
 The adverse reactions and laboratory abnormalities presented below are not exposure adjusted.
+
 Table 3: Adverse reactions observed in clinical trials or post-marketing
 
 | System Organ Class | Adverse reaction | Frequency |
@@ -37,7 +38,9 @@ Table 3: Adverse reactions observed in clinical trials or post-marketing
 | Musculoskeletal and connective tissue disorders | Myositis, blood creatine phosphokinase increased | uncommon |
 |  | Muscle atrophy | rare |
 | Renal and urinary disorders | Renal failure, proteinuria | uncommon |
-| General disorders and administration site conditions | Asthenia | common |
+
+General disorders and Asthenia common
+administration site conditions
 
 Description of selected adverse reactions
 
@@ -49,6 +52,7 @@ Autoimmune disorders (such as Graves’ disease) have also been reported; howeve
 
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).
 The frequency of this is unknown (see section 4.4).
+
 Cases of syncope caused by postural hypotension have been reported.
 
 Laboratory abnormalities
@@ -81,7 +85,7 @@ In treatment-naïve patients, the incidence of grade 3 and 4 laboratory abnormal
 
 Paediatric population
 
-The adverse reaction profile in paediatric patients is based on 48 Week safety data from study A4001031 in which 103 HIV-1 infected, treatment-experienced patients aged 2 to 18 years received maraviroc twice-daily with optimised background therapy (OBT).
+The adverse reaction profile in paediatric patients is based on 48 Week safety data from study A4001031 in which 103 HIV-1 infected, treatment-experienced patients aged 2 to <18 years received maraviroc twice-daily with optimised background therapy (OBT).
 Overall, the safety profile in paediatric patients was similar to that observed in adult clinical studies.
 
 Reporting of suspected adverse reactions
@@ -95,3 +99,26 @@ listed in Appendix V.
 [CELSENTRI 20 mg/ml oral solution]
 
 Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥1/1000 to <1/100), rare (≥1/10,000 to <1/1000) , or not known (cannot be estimated from the available data).
+
+| System Organ Class | Adverse reaction | Frequency |
+| --- | --- | --- |
+| Infections and infestations | Pneumonia, oesophageal candidiasis | uncommon |
+| Neoplasm benign, malignant and unspecified (including cysts and polyps) | Bile duct cancer, diffuse large B-cell lymphoma, Hodgkin’s disease, metastases to bone, metastases to liver, metastases to peritoneum, nasopharyngeal cancer, oesophageal carcinoma | rare |
+| Blood and lymphatic system disorders | Anaemia | common |
+|  | Pancytopenia, granulocytopenia | rare |
+| Metabolism and nutrition disorders | Anorexia | common |
+| Psychiatric disorders | Depression, insomnia | common |
+| Nervous system disorders | Seizures and seizure disorders | uncommon |
+| Cardiac disorders | Angina pectoris | rare |
+| Vascular disorders | Postural hypotension (see section 4.4) | uncommon |
+| Gastrointestinal disorders | Abdominal pain, flatulence, nausea | common |
+| Hepatobiliary disorders | Alanine aminotransferase increased, aspartate aminotransferase increased | common |
+|  | Hyperbilirubinaemia, gamma-glutamyltransferase increased | uncommon |
+|  | Hepatitis toxic, hepatic failure, hepatic cirrhosis, blood alkaline phosphatase increased | rare |
+|  | Hepatic failure with allergic features | very rare |
+| Skin and subcutaneous tissue disorders | Rash | common |
+|  | Stevens-Johnson syndrome / Toxic epidermal necrolysis | rare / not known |
+| Musculoskeletal and connective tissue disorders | Myositis, blood creatine phosphokinase increased | uncommon |
+|  | Muscle atrophy | rare |
+| Renal and urinary disorders | Renal failure, proteinuria | uncommon |
+| General disorders and administration site conditions | Asthenia | common |
