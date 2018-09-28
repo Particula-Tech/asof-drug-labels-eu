@@ -1,8 +1,8 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Pfizer Consumer Healthcare Ltd
-Ramsgate Road
-Sandwich
-Kent
-CT13 9NJ
-United Kingdom
+Pfizer Healthcare Ireland
+9 Riverwalk
+National Digital Park
+Citywest Business Campus
+Dublin 24
+D24 NT20
