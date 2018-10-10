@@ -5,7 +5,7 @@ Cellulose, microcrystalline
 Lactose monohydrate
 Hypromellose acetate succinate
 Croscarmellose sodium
-Sodium laurilsulfate
+Sodium laurilsulfate (E487)
 Colloidal silicon dioxide
 Magnesium stearate
 
@@ -20,7 +20,7 @@ Carnauba wax
 Printing ink
 Shellac
 Iron oxide black (E172)
-Propylene glycol
+Propylene glycol (E1520)
 Ammonium hydroxide
 
 [Kalydeco 50 mg granules in sachet]

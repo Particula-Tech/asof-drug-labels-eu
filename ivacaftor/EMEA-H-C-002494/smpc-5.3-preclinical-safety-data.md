@@ -1,33 +1,18 @@
 # 5.3 Preclinical safety data
 
-Effects in non-clinical studies were observed only at exposures considered sufficiently in excess of the maximum human exposure indicating little relevance to clinical use.
+Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, and carcinogenic potential.
 
-Ivacaftor produced a concentration-dependent inhibitory effect on hERG (human ether-a-go-go related gene) tail currents, with an IC15 of 5.5 µM, which is comparable to the Cmax (5.0 µM) for ivacaftor at the therapeutic dosage.
-However, no ivacaftor-induced QT prolongation was observed in a dog telemetry study at single doses of up to 60 mg/kg or in ECG measurements from repeat-dose studies of up to 1 year’s duration at the 60 mg/kg/day dose level in dogs (Cmax after 365 days = 36.2 to 47.6 μM).
-Ivacaftor produced a dose-related but transient increase in blood pressure parameters in dogs at single oral doses of up to 60 mg/kg.
+Ivacaftor was associated with slight decreases of the seminal vesicle weights, a decrease of overall fertility index and number of pregnancies in females mated with treated males and significant reductions in number of corpora lutea and implantation sites with subsequent reductions in the average litter size and average number of viable embryos per litter in treated females.
+The No-Observed-Adverse-Effect-Level (NOAEL) for fertility findings provides an exposure level of approximately 4 times the systemic exposure of ivacaftor and its metabolites when administered as ivacaftor monotherapy in adult humans at the maximum recommended human dose (MRHD).
 
-Ivacaftor did not cause reproductive system toxicity in male and female rats at 200 and
-100 mg/kg/day, respectively.
-In females, dosages above this were associated with reductions in the overall fertility index, number of pregnancies, number of corpora lutea and implantation sites, as well as changes in the oestrous cycle.
-In males, slight decreases of the seminal vesicle weights were observed.
+In the pre- and post-natal study ivacaftor decreased survival and lactation indices and caused a reduction in pup body weights.
+The NOAEL for viability and growth in the offspring provides an exposure level of approximately 3 times the systemic exposure of ivacaftor and its metabolites when administered as ivacaftor monotherapy in adult humans at the MRHD.
+Placental transfer of ivacaftor was observed in pregnant rats and rabbits.
 
-Ivacaftor was not teratogenic when orally dosed to pregnant rats and rabbits during the organogenesis stage of foetal development at doses resulting in exposures approximately 5 times (based on the summed AUCs for ivacaftor and its major metabolites) and 11 times (based on the AUC for ivacaftor), respectively, the exposure in humans at the MRHD.
-At maternally toxic doses in rats, ivacaftor produced reductions in foetal body weight and an increase in the incidence of cervical ribs, hypoplastic ribs, wavy ribs and sternal irregularities, including fusions.
-The significance of these findings for humans is unknown.
-
-Ivacaftor did not cause developmental defects in the offspring of pregnant rats dosed orally from pregnancy through parturition and weaning at 100 mg/kg/day.
-Dosages above this produced 92% and 98% reductions of survival and lactation indices, respectively, as well as reductions in pup body weights.
-
-Findings of cataracts were observed in juvenile rats dosed from postnatal Day 7 through 35 with dose levels of 10 mg/kg/day and higher (resulting in exposures 0.22 times the human exposure at the MRHD based on systemic exposure of ivacaftor and its major metabolites).
-This finding has not been observed in foetuses derived from rat dams treated on gestation Day 7 to 17, in rat pups exposed to a certain extent through milk ingestion up to postnatal Day 20, in 7-week-old rats, or in 4- to 5-month-old dogs.
+Findings of cataracts were observed in juvenile rats dosed from postnatal Day 7 through 35 at ivacaftor exposure levels of 0.22 times the MRHD based on systemic exposure of ivacaftor and its metabolites when administered as ivacaftor monotherapy.
+This finding has not been observed in fetuses derived from rat dams treated with ivacaftor on gestation Days 7 to 17, in rat pups exposed to ivacaftor through milk ingestion up to postnatal Day 20, in 7-week old rats, nor in 3.5 to 5-month old dogs treated with ivacaftor.
 The potential relevance of these findings in humans is unknown.
-
-Two-year studies in mice and rats to assess the carcinogenic potential of ivacaftor demonstrated that ivacaftor was not carcinogenic in either species.
-Plasma exposures to ivacaftor in male and female mice at the non-carcinogenic dosage (200 mg/kg/day, the highest dosage tested) were approximately 4- and 7-fold higher, respectively, than the exposure measured in humans following ivacaftor therapy, and at least 1.2- and 2.4-fold higher, respectively, with regard to the summed AUCs for ivacaftor and its major metabolites.
-Plasma exposures to ivacaftor in male and female rats at the non-carcinogenic dosage (50 mg/kg/day, the highest dosage tested) were approximately 16- and 29-fold higher, respectively, than the exposure measured in humans following ivacaftor therapy, and 6- and 9-fold higher, respectively, with regard to the summed AUCs for ivacaftor and its major metabolites.
-
-Ivacaftor was negative for genotoxicity in a standard battery of in vitro and in vivo tests.
 
 [Kalydeco 50 mg granules in sachet]
 
-Plasma exposures to ivacaftor in male and female rats at the non-carcinogenic dosage (50 mg/kg/day, the highest dosage tested) were approximately 16- and 29-fold higher, respectively, than the exposure measured in humans following ivacaftor therapy and 6- and 9-fold higher, respectively, with regard to the summed AUCs for ivacaftor and its major metabolites.
+The NOAEL for viability and growth in the offspring provides an exposure level approximately 3 times the systemic exposure of ivacaftor and its metabolites when administered as ivacaftor monotherapy in adult humans at the MRHD.
