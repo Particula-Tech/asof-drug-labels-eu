@@ -2,20 +2,19 @@
 
 Summary of the safety profile
 
-A total of 6,804 patients have been treated with Cosentyx in blinded and open-label clinical studies in various indications (plaque psoriasis, psoriatic arthritis, ankylosing spondylitis and other autoimmune conditions).
-Of these, 3,671 patients were exposed to Cosentyx for at least one year, representing 6,450 patient years of exposure.
+Over 11,900 patients have been treated with Cosentyx in blinded and open-label clinical studies in various indications (plaque psoriasis, psoriatic arthritis, ankylosing spondylitis and other autoimmune conditions), representing 20,995 patient years of exposure.
+Of these, over 7,100 patients were exposed to Cosentyx for at least one year.
 
 Adverse reactions in plaque psoriasis
 
 Four placebo-controlled phase III studies in plaque psoriasis were pooled to evaluate the safety of Cosentyx in comparison to placebo up to 12 weeks after treatment initiation.
 In total, 2,076 patients were evaluated (692 patients on 150 mg, 690 patients on 300 mg and 694 patients on placebo).
+
 The most frequently reported adverse drug reactions (ADRs) were upper respiratory tract infections (most frequently nasopharyngitis, rhinitis).
 Most of the reactions were mild or moderate in severity.
-
 Adverse reactions in psoriatic arthritis
 
-Cosentyx was studied in two placebo-controlled psoriatic arthritis studies with 1,003 patients
-(703 patients on Cosentyx and 300 patients on placebo) for a total exposure of 1,061 patient-years of study exposure (median duration of exposure for secukinumab-treated patients: 456 days in PsA Study 1 and 245 days in PsA Study 2).
+In Cosentyx placebo-controlled psoriatic arthritis studies, there were 2,754 patients (1,871 patients on Cosentyx and 883 patients on placebo) with a total exposure of 4,478 patient-years of study exposure on Cosentyx.
 The safety profile observed in patients with psoriatic arthritis treated with Cosentyx is consistent with the safety profile in psoriasis.
 
 Adverse reactions in ankylosing spondylitis

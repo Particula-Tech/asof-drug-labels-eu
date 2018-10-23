@@ -48,7 +48,7 @@ Special populations
 Elderly patients
 Of the 3,430 plaque psoriasis patients exposed to Cosentyx in clinical studies, a total of 230 patients were 65 years of age or older and 32 patients were 75 years of age or older.
 
-Of the 974 psoriatic arthritis patients exposed to Cosentyx in clinical studies, a total of 85 patients were 65 years of age or older and 4 patients were 75 years of age or older.
+Of the 2,536 psoriatic arthritis patients exposed to Cosentyx in clinical studies, a total of 236 patients were 65 years of age or older and 25 patients were 75 years of age or older.
 
 Of the 571 ankylosing spondylitis patients exposed to Cosentyx in clinical studies, a total of 24 patients were 65 years of age or older and 3 patients were 75 years of age or older.
 Based on population pharmacokinetic analysis with a limited number of elderly patients (n=71 for age ≥65 years and n=7 for age ≥75 years), clearance in elderly patients and patients less than 65 years of age was similar.

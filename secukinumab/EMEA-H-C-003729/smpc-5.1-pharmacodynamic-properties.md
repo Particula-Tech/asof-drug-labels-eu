@@ -49,9 +49,9 @@ Patients were also randomised to receive placebo at Weeks 0, 1, 2, 3 and 4, foll
 Psoriasis Study 5 (SCULPTURE) evaluated 966 patients.
 All patients received Cosentyx 150 mg or 300 mg doses at Weeks 0, 1, 2, 3, 4, 8 and 12 and then were randomised to receive either a maintenance regimen of the same dose every month starting at Week 12 or a “retreatment as needed” regimen of the same dose.
 Patients randomised to “retreatment as needed” did not achieve adequate maintenance of response and therefore a fixed monthly maintenance regimen is recommended.
+
 The co-primary endpoints in the placebo and active-controlled studies were the proportion of patients who achieved a PASI 75 response and IGA mod 2011 “clear” or “almost clear” response versus placebo at Week 12 (see Tables 2 and 3).
 The 300 mg dose provided improved skin clearance particularly for “clear” or “almost clear” skin across the efficacy endpoints of PASI 90, PASI 100, and IGA mod 2011 0 or 1 response across all studies with peak effects seen at Week 16, therefore this dose is recommended.
-
 Table 2 Summary of PASI 50/75/90/100 & IGA⃰ mod 2011 “clear” or “almost clear” clinical response in Psoriasis Studies 1, 3 and 4 (ERASURE, FEATURE and JUNCTURE)
 
 Week 12 Week 16 Week 52
@@ -228,15 +228,16 @@ Statistically significant improvements in patient-reported signs and symptoms of
 Statistically significant improvements (decreases) at Week 12 from baseline in the scalp psoriasis study were demonstrated in patient reported signs and symptoms of scalp itching, pain and scaling compared to placebo.
 
 Psoriatic arthritis
-The safety and efficacy of Cosentyx were assessed in 1,003 patients in two randomised, double-blind, placebo-controlled phase III studies in patients with active psoriatic arthritis (≥3 swollen and ≥3 tender joints) despite non-steroidal anti-inflammatory drug (NSAID), corticosteroid or disease-modifying anti-rheumatic drug (DMARD) therapy.
+The safety and efficacy of Cosentyx were assessed in 1,999 patients in three randomised, double-blind, placebo-controlled phase III studies in patients with active psoriatic arthritis (≥3 swollen and ≥3 tender joints) despite non-steroidal anti-inflammatory drug (NSAID), corticosteroid or disease-modifying anti-rheumatic drug (DMARD) therapy.
 Patients with each subtype of PsA were enrolled in these studies, including polyarticular arthritis with no evidence of rheumatoid nodules, spondylitis with peripheral arthritis, asymmetric peripheral arthritis, distal interphalangeal involvement and arthritis mutilans.
-Patients in these studies had a diagnosis of PsA for a median of 3.9 to 5.3 years.
+Patients in these studies had a diagnosis of PsA of at least five years.
 The majority of patients also had active psoriasis skin lesions or a documented history of psoriasis.
-Over 62% and 47% of the PsA patients had enthesitis and dactylitis at baseline, respectively.
-For both studies, the primary endpoint was American College of Rheumatology (ACR) 20 response at
-Week 24.
+Over 61% and 42% of the PsA patients had enthesitis and dactylitis at baseline, respectively.
+For all studies, the primary endpoint was American College of Rheumatology (ACR) 20 response.
+For Psoriatic Arthritis Study 1 (PsA Study 1) and Psoriatic Arthritis Study 2 (PsA Study 2), the primary endpoint was at Week 24.
+For Psoriatic Arthritis Study 3 (PsA Study 3), the primary endpoint was at Week 16 with the key secondary endpoint, the change from baseline in modified Total Sharp Score (mTSS), at Week 24.
 
-In Psoriatic Arthritis Study 1 (PsA Study 1) and Psoriatic Arthritis Study 2 (PsA Study 2) 29% and 35% of patients, respectively, were previously treated with an anti-TNFα agent and discontinued the anti-TNFα agent for either lack of efficacy or intolerance (anti-TNFα-IR patients).
+In PsA Study 1, PsA Study 2 and PsA Study 3, 29%, 35% and 30% of patients, respectively, were previously treated with an anti-TNFα agent and discontinued the anti-TNFα agent for either lack of efficacy or intolerance (anti-TNFα-IR patients).
 
 PsA Study 1 (FUTURE 1) evaluated 606 patients, of whom 60.7% had concomitant MTX.
 Patients randomised to Cosentyx received 10 mg/kg intravenously at Weeks 0, 2, and 4, followed by either 75 mg or 150 mg subcutaneously every month starting at Week 8.
@@ -246,110 +247,92 @@ PsA Study 2 (FUTURE 2) evaluated 397 patients, of whom 46.6% had concomitant MTX
 Patients randomised to Cosentyx received 75 mg, 150 mg or 300 mg subcutaneously at Weeks 0, 1, 2, 3 and 4, followed by the same dose every month.
 Patients randomised to receive placebo who were non-responders at Week 16 (early rescue) were crossed over to receive Cosentyx (either 150 mg or 300 mg subcutaneously) at Week 16 followed by the same dose every month.
 Patients randomised to receive placebo who were responders at Week 16 were crossed over to receive Cosentyx (either 150 mg or 300 mg subcutaneously) at Week 24 followed by the same dose every month.
+
+PsA Study 3 (FUTURE 5) evaluated 996 patients, of whom 50.1% had concomitant MTX.
+Patients were randomised to receive Cosentyx 150 mg, 300 mg or placebo subcutaneously at Weeks 0, 1, 2, 3 and 4, followed by the same dose every month, or a once monthly injection of Cosentyx 150 mg (without loading).
+Patients randomised to receive placebo who were non-responders at Week 16 (early rescue) were then crossed over to receive Cosentyx (either 150 mg or 300 mg subcutaneously) at Week 16 followed by the same dose every month.
+Patients randomised to receive placebo who were responders at Week 16 were crossed over to receive Cosentyx (either 150 mg or 300 mg subcutaneously) at Week 24 followed by the same dose every month.
+
 Signs and symptoms
-Treatment with Cosentyx resulted in significant improvement in measures of disease activity compared to placebo at Week 24 (see Table 5).
+Treatment with Cosentyx resulted in significant improvement in measures of disease activity compared to placebo at Weeks 16 and 24 (see Table 5).
+Table 5 Clinical response in PsA Study 2 and PsA Study 3 at Week 16 and Week 24
 
-Table 5 Clinical response in PsA Study 2 at Week 24
-
-Week 24
-
-Placebo 75 mg 150 mg 300 mg
-Number of patients randomised 98 99 100 100
-ACR20 response n (%) 15 29 51 54
-
-(15.3%) (29.3%*) (51.0%***) (54.0%***)
-
-ACR50 response n (%) 7 18 35 35
-(7.1%) (18.2%) (35.0%) (35.0%**)
-ACR70 response n (%) 1 6 21 20
-(1.0%) (6.1%) (21.0%**) (20.0%**)
-DAS28-CRP -0.96 -1.12 -1.58** -1.61**
-Number of patients with ≥3% BSA 43 50 58 41
-psoriasis skin involvement at (43.9%) (50.5%) (58.0%) (41.0%)
-
-baseline
-
-PASI 75 response n (%) 7 14 28 26
-
-(16.3%) (28.0%) (48.3%**) (63.4%***)
-
-PASI 90 response n (%) 4 6 19 20
-(9.3%) (12.0%) (32.8%**) (48.8%***)
-Dactylitis Resolution n (%) † 4 10 16 26
-
-(14.8%) (30.3%) (50.0%**) (56.5%**)
-
-Enthesitis Resolution n (%) ‡ 14 22 27 27
-
-(21.5%) (32.4%) (42.2%*) (48.2%**)
-* p<0.05, ** p<0.01, *** p<0.001; versus placebo
-All p-values are adjusted for multiplicity of testing based on pre-defined hierarchy, except for ACR70, Dactylitis and Enthesitis, which were exploratory endpoints.
-Non-responder imputation used for missing binary endpoint.
-ACR: American College of Rheumatology; PASI: Psoriasis Area and Severity Index; DAS: Disease Activity Score; BSA: Body Surface Area
-†In patients with dactylitis at baseline (n=27, 33, 32, 46, respectively)
-‡In patients with enthesitis at baseline (n=65, 68, 64, 56, respectively)
+|  | PsA Study 2 PsA Study 3 |  |
+| --- | --- | --- |
+|  | Placebo 150 mg1 300 mg1 | Placebo 150 mg1 300 mg1 |
+| Number of patients randomised | 98 100 100 | 332 220 222 |
+| ACR20 response n (%) Week 16 Week 24 | 18 60 57 (18.4%) (60.0%***) (57.0%***) 15◊ 51◊ 54◊ (15.3%) (51.0%***) (54.0%***) | 91◊ 122◊ 139◊ (27.4%) (55.5%***) (62.6%***) 78 117 141 (23.5%) (53.2%***) (63.5%***) |
+| ACR50 response n (%) Week 16 Week 24 | 6 37 35 (6.1%) (37.0%***) (35.0%***) 7 35 35 (7.1%) (35.0%) (35.0%**) | 27 79 88 (8.1%) (35.9%*) (39.6%*) 29 86 97 (8.7%) (39.1%***) (43.7%***) |
+| ACR70 response n (%) Week 16 Week 24 | 2 17 15 (2.0%) (17.0%**) (15.0%**) 1 21 20 (1.0%) (21.0%**) (20.0%**) | 14 40 45 (4.2%) (18.2%***) (20.3%***) 13 53 57 (3.9%) (24.1%***) (25.7%***) |
+| DAS28-CRP Week 16 Week 24 | -0.50 -1.45*** -1.51*** -0.96 -1.58** -1.61** | -0.63 -1.29* -1.49* -0.84 -1.57*** -1.68*** |
+| Number of patients with ≥3% BSA psoriasis skin involvement at baseline | 43 58 41 (43.9%) (58.0%) (41.0%) | 162 125 110 (48.8%) (56.8%) (49.5%) |
+| PASI 75 response n (%) Week 16 Week 24 | 3 33 27 (7.0%) (56.9%***) (65.9%***) 7 28 26 (16.3%) (48.3%**) (63.4%***) | 20 75 77 (12.3%) (60.0%*) (70.0%*) 29 80 78 (17.9%) (64.0%***) (70.9%***) |
+| PASI 90 response n (%) Week 16 Week 24 | 3 22 18 (7.0%) (37.9%***) (43.9%***) 4 19 20 (9.3%) (32.8%**) (48.8%***) | 15 46 59 (9.3%) (36.8%*) (53.6%*) 19 51 60 (11.7%) (40.8%***) (54.5%***) |
+| Dactylitis resolution n (%) † Week 16 Week 24 | 10 21 26 (37%) (65.6%*) (56.5%) 4 16 26 (14.8%) (50.0%**) (56.5%**) | 40 46 54 (32.3%) (57.5%*) (65.9%*) 42 51 52 (33.9%) (63.8%***) (63.4%***) |
+| Enthesitis resolution n (%) ‡ Week 16 Week 24 | 17 32 32 (26.2%) (50.0%**) (57.1%***) 14 27 27 (21.5%) (42.2%*) (48.2%**) | 68 77 78 (35.4%) (54.6%*) (55.7%*) 66 77 86 (34.4%) (54.6%***) (61.4%***) |
+| * p<0.05, ** p<0.01, *** p<0.001; versus placebo All p-values are adjusted for multiplicity of testing based on pre-defined hierarchy at Week 24 for PsA Study 2, except for ACR70, Dactylitis and Enthesitis, which were exploratory endpoints and all endpoints at Week 16. All p-values are adjusted for multiplicity of testing based on pre-defined hierarchy at Week 16 for PsA Study 3, except for ACR70 which was an exploratory endpoint and all endpoints at Week 24. Non-responder imputation used for missing binary endpoint. ACR: American College of Rheumatology; PASI: Psoriasis Area and Severity Index; DAS: Disease Activity Score; BSA: Body Surface Area ◊Primary Endpoint 1Cosentyx 150 mg or 300 mg s.c. at Weeks 0, 1, 2, 3, and 4 followed by the same dose every month †In patients with dactylitis at baseline (n=27, 32, 46, respectively for PsA Study 2 and n=124, 80, 82, respectively for PsA Study 3) ‡In patients with enthesitis at baseline (n=65, 64, 56, respectively for PsA Study 2 and n=192, 141, 140, respectively for PsA Study 3) |  |  |
 
 The onset of action of Cosentyx occurred as early as Week 2.
 Statistically significant difference in ACR 20 versus placebo was reached at Week 3.
-At Week 16, Cosentyx-treated patients demonstrated significant improvements in signs and symptoms among which significantly higher responses in
-ACR 20 (33.3%, 60.0% and 57.0% for 75 mg, 150 mg and 300 mg, respectively) compared to placebo (18.4%).
+
 The percentage of patients achieving ACR 20 response by visit is shown in Figure 2.
 
-Figure 2 ACR20 response in PsA Study 2 over time up to Week 24
+Figure 2 ACR20 response in PsA Study 2 over time up to Week 52
 
 Percentage of responders
 
 Time (Weeks)
-
 Similar responses for primary and key secondary endpoints were seen in PsA patients regardless of whether they were on concomitant MTX treatment or not.
-At Week 24, Cosentyx-treated patients with concomitant MTX use had a higher ACR 20 response (44.7%, 47.7% and 54.4% for 75 mg, 150 mg and 300 mg, respectively, compared to placebo 20.0%) and ACR 50 response (27.7%, 31.8% and 38.6% for 75 mg, 150 mg and 300 mg, respectively, compared to placebo 8.0%).
-Cosentyx-treated patients without concomitant MTX use had a higher ACR 20 response (15.4%, 53.6% and 53.6% for 75 mg, 150 mg and 300 mg, respectively, compared to placebo 10.4%) and ACR 50 response (9.6%, 37.5% and 32.1% for 75 mg, 150 mg and 300 mg, respectively, compared to placebo 6.3%).
+In PsA Study 2, at Week 24, Cosentyx-treated patients with concomitant MTX use had a higher ACR 20 response (47.7% and 54.4% for 150 mg and 300 mg, respectively, compared to placebo 20.0%) and ACR 50 response (31.8% and 38.6% for 150 mg and 300 mg, respectively, compared to placebo 8.0%).
+Cosentyx-treated patients without concomitant MTX use had a higher ACR 20 response (53.6% and 53.6% for 150 mg and 300 mg, respectively, compared to placebo 10.4%) and ACR 50 response (37.5% and 32.1% for 150 mg and 300 mg, respectively, compared to placebo 6.3%).
 
-Both anti-TNFα-naive and anti-TNFα-IR Cosentyx-treated patients had a significantly higher ACR 20 response compared to placebo at Week 24, with a slightly higher response in the anti-TNFα-naive group (anti-TNFα-naive: 37%, 64% and 58% for 75 mg, 150 mg and 300 mg, respectively, compared to placebo 15.9%; anti-TNFα-IR: 15%, 30% and 46% for 75 mg, 150 mg and 300 mg, respectively, compared to placebo 14.3%).
+In PsA Study 2, both anti-TNFα-naive and anti-TNFα-IR Cosentyx-treated patients had a significantly higher ACR 20 response compared to placebo at Week 24, with a slightly higher response in the anti-TNFα-naive group (anti-TNFα-naive: 64% and 58% for 150 mg and 300 mg, respectively, compared to placebo 15.9%; anti-TNFα-IR: 30% and 46% for 150 mg and 300 mg, respectively, compared to placebo 14.3%).
 In the anti-TNFα-IR patients subgroup, only the 300 mg dose showed significantly higher response rate for ACR 20 compared to placebo (p<0.05) and demonstrated clinical meaningful benefit over 150 mg on multiple secondary endpoints.
 Improvements in the PASI 75 response were seen in both subgroups and the 300 mg dose showed statistically significant benefit in the anti-TNFα-IR patients.
 
 The number of PsA patients with axial involvement was too small to allow meaningful assessment.
 
 Improvements were shown in all components of the ACR scores, including patient assessment of pain.
-The proportion of patients achieving a modified PsA Response Criteria (PsARC) response was greater in the Cosentyx-treated patients (37.4%, 59.0% and 61.0% for 75 mg, 150 mg and 300 mg, respectively) compared to placebo (26.5%) at Week 24.
+In PsA Study 2, the proportion of patients achieving a modified PsA Response Criteria (PsARC) response was greater in the Cosentyx-treated patients (59.0% and 61.0% for 150 mg and 300 mg, respectively) compared to placebo (26.5%) at Week 24.
 
-In PsA Study 1 and PsA Study 2, efficacy was maintained up to Week 52.
+In PsA Study 1 and PsA Study 2, efficacy was maintained up to Week 104.
 In PsA Study 2, among 200 patients initially randomised to Cosentyx 150 mg and 300 mg, 178 (89%) patients were still on treatment at Week 52.
 Of the 100 patients randomised to Cosentyx 150 mg, 64, 39 and 20 had an ACR 20/50/70 response, respectively.
 Of the 100 patients randomised to Cosentyx 300 mg, 64, 44 and 24 had an ACR 20/50/70 response, respectively.
+
 Radiographic response
-Inhibition of progression of structural damage in PsA has not yet been demonstrated using the subcutaneous loading regimen approved for clinical use.
+In PsA Study 3, inhibition of progression of structural damage was assessed radiographically and expressed by the modified Total Sharp Score (mTSS) and its components, the Erosion Score (ES) and the Joint Space Narrowing Score (JSN).
+Radiographs of hands, wrists, and feet were obtained at baseline, Week 16 and/or Week 24 and scored independently by at least two readers who were blinded to treatment group and visit number.
+Cosentyx 150 mg and 300 mg treatment significantly inhibited the rate of progression of peripheral joint damage compared with placebo treatment as measured by change from baseline in mTSS at Week 24 (Table 6).
 
-In PsA Study 1, inhibition of progression of structural damage was assessed radiographically and expressed as the change in modified total Sharp Score (mTSS) and its components, the Erosion Score (ES) and the Joint Space Narrowing score (JSN) at Weeks 24 and 52, compared to baseline.
+Inhibition of progression of structural damage was also assessed in PsA Study 1 at Weeks 24 and 52, compared to baseline.
 Week 24 data are presented in Table 6.
-
 Table 6 Change in modified Total Sharp Score in psoriatic arthritis
 
-Placebo Cosentyx 75 mg1 Cosentyx 150 mg1
-N=179 N=181 N=185
+|  | PsA Study 3 Placebo Cosentyx 150 mg1 Cosentyx 300 mg1 n=296 n=213 n=217 | PsA Study 1 Placebo Cosentyx 150 mg2 n=179 n=185 |
+| --- | --- | --- |
+| Total score |  |  |
+| Baseline (SD) | 15.0 13.5 12.9 (38.2) (25.6) (23.8) | 28.4 22.3 (63.5) (48.0) |
+| Mean change at Week 24 | 0.50 0.13* 0.02* | 0.57 0.13* |
+| *p<0.05 based on nominal, but non adjusted, p-value 1Cosentyx 150 mg or 300 mg s.c. at Weeks 0, 1, 2, 3, and 4 followed by the same dose every month 210 mg/kg at Weeks 0, 2 and 4 followed by subcutaneous doses of 75 mg or 150 mg |  |  |
 
-Total score
+In PsA Study 1, inhibition of structural damage was maintained with Cosentyx treatment up to
+Week 52.
 
-Baseline 28.4 20.4 22.3
-(SD) (63.5) (39.4) (48.0)
-Mean change at Week 24 0.57 0.02* 0.13*
+In PsA Study 3, the percentage of patients with no disease progression (defined as a change from baseline in mTSS of ≤0.5) from randomisation to Week 24 was 80.3%, 88.5% and 73.6% for secukinumab 150 mg, 300 mg and placebo, respectively.
+An effect of inhibition of structural damage was observed in anti-TNFα-naïve and anti-TNFα-IR patients and in patients treated with and without concomitant MTX.
 
-*p<0.05 based on nominal, but non adjusted, p-value
-110 mg/kg at Weeks 0, 2 and 4 followed by subcutaneous doses of 75 mg or 150 mg
-
-Inhibition of structural damage was maintained with Cosentyx treatment up to Week 52.
-
-The percentage of patients with no disease progression (defined as a change from baseline in mTSS of ≤0.5) from randomisation to Week 24 was 92.3% in secukinumab 10 mg/kg intravenous load – 75 mg subcutaneous maintenance, 82.3% in secukinumab 10 mg/kg intravenous load – 150 mg subcutaneous maintenance and 75.7% in placebo.
-The percentage of patients with no disease progression from Week 24 to Week 52 for secukinumab 10 mg/kg intravenous load – followed by either 75 mg or 150 mg subcutaneous maintenance and for placebo patients who switched to 75 mg or 150 mg subcutaneous every 4 weeks at Week 16 or Week 24 was 85.8%, 85.7% and 86.8%, respectively.
+In PsA Study 1, the percentage of patients with no disease progression (defined as a change from baseline in mTSS of ≤0.5) from randomisation to Week 24 was 82.3% in secukinumab 10 mg/kg intravenous load – 150 mg subcutaneous maintenance and 75.7% in placebo.
+The percentage of patients with no disease progression from Week 24 to Week 52 for secukinumab 10 mg/kg intravenous load – followed by 150 mg subcutaneous maintenance and for placebo patients who switched to 75 mg or 150 mg subcutaneous every 4 weeks at Week 16 or Week 24 was 85.7% and 86.8%, respectively.
 
 Physical function and health-related quality of life
-In PsA Study 2, patients treated with Cosentyx 150 mg (p=0.0555) and 300 mg (p=0.0040) showed improvement in physical function compared to patients treated with placebo as assessed by Health Assessment Questionnaire-Disability Index (HAQ-DI) at Week 24.
+In PsA Study 2 and PsA Study 3, patients treated with Cosentyx 150 mg (p=0.0555 and p<0.0001) and 300 mg (p=0.0040 and p<0.0001) showed improvement in physical function compared to patients treated with placebo as assessed by Health Assessment Questionnaire-Disability Index (HAQ-DI) at Week 24 and Week 16, respectively.
 Improvements in HAQ-DI scores were seen regardless of previous anti-TNFα exposure.
 Similar responses were seen in PsA Study 1.
 
 Cosentyx-treated patients reported significant improvements in health-related quality of life as measured by the Short Form-36 Health Survey Physical Component Summary (SF-36 PCS) score (p<0.001).
-There were also statistically significant improvements demonstrated in exploratory endpoints assessed by the Functional Assessment of Chronic Illness Therapy – Fatigue (FACIT-F) scores for 150 mg and 300 mg compared to placebo (7.97, 5.97 versus 1.63, respectively).
+There were also statistically significant improvements demonstrated in exploratory endpoints assessed by the Functional Assessment of Chronic Illness Therapy – Fatigue (FACIT-F) scores for 150 mg and 300 mg compared to placebo (7.97, 5.97 versus 1.63, respectively) and these improvements were maintained up to Week 104 in PsA Study 2.
+
 Similar responses were seen in PsA Study 1 and efficacy was maintained up to Week 52.
 
 Ankylosing spondylitis

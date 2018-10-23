@@ -1,7 +1,6 @@
 # 4.2 Posology and method of administration
 
 Cosentyx is intended for use under the guidance and supervision of a physician experienced in the diagnosis and treatment of conditions for which Cosentyx is indicated.
-
 Posology
 
 Plaque psoriasis
@@ -13,6 +12,7 @@ For patients with concomitant moderate to severe plaque psoriasis or who are ant
 Each 300 mg dose is given as two subcutaneous injections of 150 mg.
 
 For other patients, the recommended dose is 150 mg by subcutaneous injection with initial dosing at Weeks 0, 1, 2, 3 and 4, followed by monthly maintenance dosing.
+Based on clinical response, the dose can be increased to 300 mg.
 
 Ankylosing spondylitis
 The recommended dose is 150 mg by subcutaneous injection with initial dosing at Weeks 0, 1, 2, 3 and 4, followed by monthly maintenance dosing.
