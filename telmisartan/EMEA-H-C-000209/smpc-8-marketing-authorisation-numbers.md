@@ -1,12 +1,12 @@
 # 8. MARKETING AUTHORISATION NUMBERS
 
+Micardis 20 mg tablets
 EU/1/98/090/009 (14 tablets)
 EU/1/98/090/010 (28 tablets)
 EU/1/98/090/011 (56 tablets)
 EU/1/98/090/012 (98 tablets)
 
-[Micardis 40 mg tablets]
-
+Micardis 40 mg tablets
 EU/1/98/090/001 (14 tablets)
 EU/1/98/090/002 (28 tablets)
 EU/1/98/090/003 (56 tablets)
@@ -15,10 +15,9 @@ EU/1/98/090/013 (28 x 1 tablets)
 EU/1/98/090/015 (84 tablets)
 EU/1/98/090/017 (30 x 1 tablets)
 EU/1/98/090/019 (90 x 1 tablets)
-EU/1/98/090/021 (4 x (90 x 1 tablets)
+EU/1/98/090/021 (4 x (90 x 1) tablets)
 
-[Micardis 80 mg tablets]
-
+Micardis 80 mg tablets
 EU/1/98/090/005 (14 tablets)
 EU/1/98/090/006 (28 tablets)
 EU/1/98/090/007 (56 tablets)

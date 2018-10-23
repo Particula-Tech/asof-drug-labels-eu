@@ -1,6 +1,7 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Digoxin
+
 When telmisartan was co-administered with digoxin, median increases in digoxin peak plasma concentration (49%) and in trough concentration (20%) were observed.
 When initiating, adjusting, and discontinuing telmisartan, monitor digoxin levels in order to maintain levels within the therapeutic range.
 
@@ -12,20 +13,19 @@ The risk is increased in case of the above-mentioned treatment combinations.
 The risk is particularly high in combination with potassium sparing-diuretics, and when combined with salt substitutes containing potassium.
 A combination with ACE inhibitors or NSAIDs, for example, presents a lesser risk provided that precautions for use are strictly followed.
 
-Concomitant use not recommended
+Concomitant use not recommended.
 
 Potassium sparing diuretics or potassium supplements
 
 Angiotensin II receptor antagonists such as telmisartan, attenuate diuretic induced potassium loss.
 Potassium sparing diuretics e.g. spirinolactone, eplerenone, triamterene, or amiloride, potassium supplements, or potassium-containing salt substitutes may lead to a significant increase in serum potassium.
 If concomitant use is indicated because of documented hypokalaemia, they should be used with caution and with frequent monitoring of serum potassium.
-
 Lithium
 
 Reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with angiotensin converting enzyme inhibitors, and with angiotensin II receptor antagonists, including telmisartan.
 If use of the combination proves necessary, careful monitoring of serum lithium levels is recommended.
 
-Concomitant use requiring caution
+Concomitant use requiring caution.
 
 Non-steroidal anti-inflammatory medicinal products
 
@@ -36,11 +36,12 @@ Patients should be adequately hydrated and consideration should be given to moni
 
 In one study the co-administration of telmisartan and ramipril led to an increase of up to 2.5 fold in the AUC0-24 and Cmax of ramipril and ramiprilat.
 The clinical relevance of this observation is not known.
+
 Diuretics (thiazide or loop diuretics)
 
 Prior treatment with high dose diuretics such as furosemide (loop diuretic) and hydrochlorothiazide (thiazide diuretic) may result in volume depletion, and in a risk of hypotension when initiating therapy with telmisartan.
 
-To be taken into account with concomitant use
+To be taken into account with concomitant use.
 
 Other antihypertensive agents
 
@@ -54,15 +55,3 @@ Furthermore, orthostatic hypotension may be aggravated by alcohol, barbiturates,
 Corticosteroïds (systemic route)
 
 Reduction of the antihypertensive effect.
-
-[Micardis 40 mg tablets]
-
-If concomitant use is indicated because of documented hypokalemia they should be used with caution and with frequent monitoring of serum potassium.
-
-Prior treatment with high dose diuretics such as furosemide (loop diuretic) and hydrochlorothiazide (thiazide diuretic) may result in volume depletion and in a risk of hypotension when initiating therapy with telmisartan.
-
-Furthermore, orthostatic hypotension may be aggravated by alcohol, barbiturates, narcotics or antidepressants.
-
-[Micardis 80 mg tablets]
-
-(all sentences already above)

@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Angiotensin II Antagonists, plain, ATC Code: C09CA07.
+
 Mechanism of action
 
 Telmisartan is an orally active and specific angiotensin II receptor (type AT1) antagonist.
@@ -21,6 +22,7 @@ The inhibitory effect is maintained over 24 hours and still measurable up to 48 
 Clinical efficacy and safety
 
 Treatment of essential hypertension
+
 After the first dose of telmisartan, the antihypertensive activity gradually becomes evident within 3 hours.
 The maximum reduction in blood pressure is generally attained 4 to 8 weeks after the start of treatment and is sustained during long-term therapy.
 
@@ -38,7 +40,9 @@ Upon abrupt cessation of treatment with telmisartan, blood pressure gradually re
 The incidence of dry cough was significantly lower in patients treated with telmisartan than in those given angiotensin converting enzyme inhibitors in clinical trials directly comparing the two antihypertensive treatments.
 
 Cardiovascular prevention
+
 ONTARGET (ONgoing Telmisartan Alone and in Combination with Ramipril Global Endpoint Trial) compared the effects of telmisartan, ramipril and the combination of telmisartan and ramipril on cardiovascular outcomes in 25620 patients aged 55 years or older with a history of coronary artery disease, stroke, TIA, peripheral arterial disease, or type 2 diabetes mellitus accompanied by evidence of end-organ damage (e.g. retinopathy, left ventricular hypertrophy, macro- or microalbuminuria), which is a population at risk for cardiovascular events.
+
 Patients were randomized to one of the three following treatment groups: telmisartan 80 mg (n = 8542), ramipril 10 mg (n = 8576), or the combination of telmisartan 80 mg plus ramipril 10 mg (n = 8502), and followed for a mean observation time of 4.5 years.
 
 Telmisartan showed a similar effect to ramipril in reducing the primary composite endpoint of cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, or hospitalization for congestive heart failure.
@@ -54,7 +58,6 @@ The mean duration of follow up was 4 years and 8 months.
 No statistically significant difference in the incidence of the primary composite endpoint (cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, or hospitalization for congestive heart failure) was found [15.7 % in the telmisartan and 17.0 % in the placebo groups with a hazard ratio of 0.92 (95 % CI 0.81 - 1.05, p = 0.22)].
 There was evidence for a benefit of telmisartan compared to placebo in the pre-specified secondary composite endpoint of cardiovascular death, non-fatal myocardial infarction, and non-fatal stroke [0.87 (95 % CI 0.76 - 1.00, p = 0.048)].
 There was no evidence for benefit on cardiovascular mortality (hazard ratio 1.03, 95 % CI 0.85 - 1.24).
-
 Cough and angioedema were less frequently reported in patients treated with telmisartan than in patients treated with ramipril, whereas hypotension was more frequently reported with telmisartan.
 
 Combining telmisartan with ramipril did not add further benefit over ramipril or telmisartan alone.
@@ -78,9 +81,10 @@ The study was terminated early because of an increased risk of adverse outcomes.
 Cardiovascular death and stroke were both numerically more frequent in the aliskiren group than in the placebo group and adverse events and serious adverse events of interest (hyperkalaemia, hypotension and renal dysfunction) were more frequently reported in the aliskiren group than in the placebo group.
 
 Paediatric population
+
 The safety and efficacy of Micardis in children and adolescents aged below 18 years have not been established.
 
-The blood pressure lowering effects of two doses of telmisartan were assessed in 76 hypertensive, largely overweight patients aged 6 to < 18 years (body weight ≥ 20 kg and ≤ 120 kg, mean 74.6 kg), after taking telmisartan 1 mg/kg (n = 29 treated) or 2 mg/kg (n = 31 treated) over a four-week treatment period.
+The blood pressure lowering effects of two doses of telmisartan were assessed in 76 hypertensive, largely overweight patients aged 6 to < 18 years (body weight ≥20 kg and ≤120 kg, mean 74.6 kg), after taking telmisartan 1 mg/kg (n = 29 treated) or 2 mg/kg (n = 31 treated) over a four-week treatment period.
 By inclusion the presence of secondary hypertension was not investigated.
 In some of the investigated patients the doses used were higher than those recommended in the treatment of hypertension in the adult population, reaching a daily dose comparable to160 mg, which was tested in adults.
 After adjustment for age group effects mean SBP changes from baseline (primary objective) were -14.5 (1.7) mm Hg in the telmisartan 2 mg/kg group, -9.7 (1.7) mm Hg in the telmisartan 1 mg/kg group, and -6.0 (2.4) in the placebo group.
@@ -91,11 +95,3 @@ The safety of long term treatment of telmisartan in children and adolescents was
 An increase in eosinophils reported in this patient population has not been recorded in adults.
 Its clinical significance and relevance is unknown.
 These clinical data do not allow to make conclusions on the efficacy and safety of telmisartan in hypertensive paediatric population.
-
-[Micardis 40 mg tablets]
-
-Pharmacotherapeutic Group: Angiotensin II Antagonists, plain ATC Code: C09CA07.
-
-[Micardis 80 mg tablets]
-
-(all sentences already above)

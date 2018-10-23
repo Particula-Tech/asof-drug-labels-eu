@@ -26,7 +26,6 @@ Intravascular hypovolaemia
 Symptomatic hypotension, especially after the first dose of Micardis, may occur in patients who are volume and/or sodium depleted by vigorous diuretic therapy, dietary salt restriction, diarrhoea, or vomiting.
 Such conditions should be corrected before the administration of Micardis.
 Volume and/or sodium depletion should be corrected prior to administration of Micardis.
-
 Dual blockade of the renin-angiotensin-aldosterone system (RAAS)
 
 There is evidence that the concomitant use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren increases the risk of hypotension, hyperkalaemia and decreased renal function (including acute renal failure).
@@ -42,6 +41,7 @@ Primary aldosteronism
 
 Patients with primary aldosteronism generally will not respond to antihypertensive medicinal products acting through inhibition of the renin-angiotensin system.
 Therefore, the use of telmisartan is not recommended.
+
 Aortic and mitral valve stenosis, obstructive hypertrophic cardiomyopathy
 
 As with other vasodilators, special caution is indicated in patients suffering from aortic or mitral stenosis, or obstructive hypertrophic cardiomyopathy.
@@ -49,7 +49,7 @@ As with other vasodilators, special caution is indicated in patients suffering f
 Diabetic patients treated with insulin or antidiabetics
 
 In these patients hypoglycaemia may occur under telmisartan treatment.
-Therefore, in these patients an approptiate blood glucose monitoring should be considered; a dose adjustment of insulin or antidiabetics may be required, when indicated.
+Therefore, in these patients an appropriate blood glucose monitoring should be considered; a dose adjustment of insulin or antidiabetics may be required, when indicated.
 
 Hyperkalaemia
 
@@ -78,11 +78,3 @@ As observed for angiotensin converting enzyme inhibitors, telmisartan and the ot
 Other
 
 As with any antihypertensive agent, excessive reduction of blood pressure in patients with ischaemic cardiopathy or ischaemic cardiovascular disease could result in a myocardial infarction or stroke.
-
-[Micardis 40 mg tablets]
-
-Therefore, in these patients an appropriate blood glucose monitoring should be considered; a dose adjustment of insulin or antidiabetics may be required, when indicated.
-
-[Micardis 80 mg tablets]
-
-(all sentences already above)
