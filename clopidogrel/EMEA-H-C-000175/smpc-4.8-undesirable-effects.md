@@ -34,7 +34,7 @@ Within each system organ class, adverse reactions are presented in order of decr
 | --- | --- | --- | --- | --- |
 | Blood and the lymphatic system disorders |  | Thrombocytopenia, leucopenia, eosinophilia | Neutropenia, including severe neutropenia | Thrombotic thrombocytopenic purpura (TTP) (see section 4.4), aplastic anaemia, pancytopenia, agranulocytosis, severe thrombocytopenia, acquired haemophilia A, granulocytopenia, anaemia |
 | Cardiac disorders |  |  |  | Kounis syndrome (vasospastic allergic angina / allergic myocardial infarction) in the context of a hypersensitivity reaction due to clopidogrel* |
-| Immune system disorders |  |  |  | Serum sickness, anaphylactoid reactions, cross-reactive drug hypersensitivity among thienopyridines (such as ticlopidine, prasugrel) (see section 4.4)* |
+| Immune system disorders |  |  |  | Serum sickness, anaphylactoid reactions, cross-reactive drug hypersensitivity among thienopyridines (such as ticlopidine, prasugrel) (see section 4.4)*, insulin autoimmune syndrome, which can lead to severe hypoglycemia, particularly in patients with HLA DRA4 subtype (more frequent in the Japanese population)* |
 | Psychiatric disorders |  |  |  | Hallucinations, confusion |
 | Nervous system disorders |  | Intracranial bleeding (some cases were reported with fatal outcome), headache, paraesthesia, dizziness |  | Taste disturbances, ageusia |
 | Eye disorders |  | Eye bleeding (conjunctival, ocular, retinal) |  |  |

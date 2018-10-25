@@ -18,6 +18,7 @@ Heparin: in a clinical study conducted in healthy subjects, clopidogrel did not 
 Co-administration of heparin had no effect on the inhibition of platelet aggregation induced by clopidogrel.
 A pharmacodynamic interaction between clopidogrel and heparin is possible, leading to increased risk of bleeding.
 Therefore, concomitant use should be undertaken with caution (see section 4.4).
+
 Thrombolytics: the safety of the concomitant administration of clopidogrel, fibrin or non-fibrin specific thrombolytic agents and heparins was assessed in patients with acute myocardial infarction.
 The incidence of clinically significant bleeding was similar to that observed when thrombolytic agents and heparin are co-administered with ASA (see section 4.8)
 
@@ -51,9 +52,9 @@ There is no evidence that other medicinal products that reduce stomach acid such
 Other medicinal products: A number of other clinical studies have been conducted with clopidogrel and other concomitant medicinal products to investigate the potential for pharmacodynamic and pharmacokinetic interactions.
 No clinically significant pharmacodynamic interactions were observed when clopidogrel was co-administered with atenolol, nifedipine, or both atenolol and nifedipine.
 Furthermore, the pharmacodynamic activity of clopidogrel was not significantly influenced by the co-administration of phenobarbital or oestrogen.
-
 The pharmacokinetics of digoxin or theophylline were not modified by the co-administration of clopidogrel.
 Antacids did not modify the extent of clopidogrel absorption.
+
 Data from the CAPRIE study indicate that phenytoin and tolbutamide which are metabolised by CYP2C9 can be safely co-administered with clopidogrel.
 
 CYP2C8 substrate medicinal products: Clopidogrel has been shown to increase repaglinide exposure in healthy volunteers.

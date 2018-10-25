@@ -32,7 +32,6 @@ Tests are available to identify a patient's CYP2C19 genotype.
 Since clopidogrel is metabolised to its active metabolite partly by CYP2C19, use of medicinal products that inhibit the activity of this enzyme would be expected to result in reduced drug levels of the active metabolite of clopidogrel.
 The clinical relevance of this interaction is uncertain.
 As a precaution concomitant use of strong or moderate CYP2C19 inhibitors should be discouraged (see section 4.5 for a list of CYP2C19 inhibitors, see also section 5.2).
-
 CYP2C8 substrates
 Caution is required in patients treated concomitantly with clopidogrel and CYP2C8 substrate medicinal products (see section 4.5).
 

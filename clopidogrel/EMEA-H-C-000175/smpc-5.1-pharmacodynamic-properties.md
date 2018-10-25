@@ -64,6 +64,7 @@ Thus, the results from this subset are in line with the overall trial results.
 
 The benefits observed with clopidogrel were independent of other acute and long-term cardiovascular therapies (such as heparin/LMWH, GPIIb/IIIa antagonists, lipid lowering medicinal products, beta blockers, and ACE-inhibitors).
 The efficacy of clopidogrel was observed independently of the dose of ASA (75-325 mg once daily).
+
 In patients with acute ST-segment elevation MI, safety and efficacy of clopidogrel have been evaluated in 2 randomised, placebo-controlled, double-blind studies, CLARITY and COMMIT.
 
 The CLARITY trial included 3,491 patients presenting within 12 hours of the onset of a ST elevation MI and planned for thrombolytic therapy.
@@ -99,6 +100,7 @@ Patients were treated for up to 5 years.
 
 Patients randomized in the ACTIVE program were those presenting with documented AF, i.e., either permanent AF or at least 2 episodes of intermittent AF in the past 6 months, and had at least one of the following risk factors: age ≥75 years or age 55 to 74 years and either diabetes mellitus requiring drug therapy, or documented previous MI or documented coronary artery disease; treated for systemic hypertension; prior stroke, transient ischaemic attack (TIA), or non-CNS systemic embolus; left ventricular dysfunction with left ventricular ejection fraction <45%; or documented peripheral vascular disease.
 The mean CHADS2 score was 2.0 (range 0-6).
+
 The major exclusion criteria for patients were documented peptic ulcer disease within the previous 6 months; prior intracerebral hemorrhage; significant thrombocytopenia (platelet count < 50 x 109/l); requirement for clopidogrel or oral anticoagulants (OAC); or intolerance to any of the two compounds.
 
 Seventy-three percent (73%) of patients enrolled into the ACTIVE-A study were unable to take VKA due to physician assessment, inability to comply with INR (international normalised ratio) monitoring, predisposition to falling or head trauma, or specific risk of bleeding; for 26% of the patients, the physician’s decision was based on the patient’s unwillingness to take VKA.
