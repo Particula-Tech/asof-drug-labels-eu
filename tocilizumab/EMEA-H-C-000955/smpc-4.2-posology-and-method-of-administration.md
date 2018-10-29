@@ -3,8 +3,9 @@
 Treatment should be initiated by healthcare professionals experienced in the diagnosis and treatment of RA, sJIA, pJIA or CRS.
 All patients treated with RoActemra should be given the Patient Alert Card.
 
-RA Patients
 Posology
+RA Patients
+
 The recommended posology is 8 mg/kg body weight, given once every four weeks.
 
 For individuals whose body weight is more than 100 kg, doses exceeding 800 mg per infusion are not recommended (see section 5.2).
@@ -33,7 +34,7 @@ In patients not previously treated with RoActemra, initiation is not recommended
 
 - Low platelet count
 
-| Laboratory Value (cells x 103/ μl) | Action |
+| Laboratory Value (cells x 103/ μL) | Action |
 | --- | --- |
 | 50 to 100 | Interrupt RoActemra dosing When platelet count > 100 x 103/ μ resume RoActemra at 4 mg/kg and increase to 8 mg/kg as clinically appropriate |
 | < 50 | Discontinue RoActemra |
@@ -49,6 +50,7 @@ Doses exceeding 800 mg per infusion are not recommended in CRS patients.
 Patients with severe or life-threatening CRS frequently have cytopenias or elevated ALT or AST due to the underlying malignancy, preceding lymphodepleting chemotherapy or the CRS.
 
 Special populations
+
 Paediatric patients
 
 sJIA Patients
@@ -57,8 +59,7 @@ The recommended posology in patients above 2 years of age is 8 mg/kg once every 
 The dose should be calculated based on the patient’s body weight at each administration.
 A change in dose should only be based on a consistent change in the patient’s body weight over time.
 
-The safety and efficacy of RoActemra in children below 2 years of age has not been established.
-No data are available.
+The safety and efficacy of intravenous RoActemra in children below 2 years of age has not been established.
 
 Dose interruptions of tocilizumab for the following laboratory abnormalities are recommended in sJIA patients in the tables below.
 If appropriate, the dose of concomitant MTX and/or other medications should be modified or dosing stopped and tocilizumab dosing interrupted until the clinical situation has been evaluated.
@@ -98,8 +99,7 @@ The recommended posology in patients above 2 years of age is 8 mg/kg once every 
 The dose should be calculated based on the patient’s body weight at each administration.
 A change in dose should only be based on a consistent change in the patient’s body weight over time.
 
-The safety and efficacy of RoActemra in children below 2 years of age has not been established.
-No data are available.
+The safety and efficacy of intravenous RoActemra in children below 2 years of age has not been established.
 
 Dose interruptions of tocilizumab for the following laboratory abnormalities are recommended in pJIA patients in the tables below.
 If appropriate, the dose of concomitant MTX and/or other medications should be modified or dosing stopped and tocilizumab dosing interrupted until the clinical situation has been evaluated.
@@ -133,8 +133,7 @@ Reduction of tocilizumab dose due to laboratory abnormalities has not been studi
 Available data suggest that clinical improvement is observed within 12 weeks of initiation of treatment with RoActemra.
 Continued therapy should be carefully reconsidered in a patient exhibiting no improvement within this timeframe.
 
-Elderly patients
-No dose adjustment is required in patients aged 65 years and older.
+Elderly No dose adjustment is required in patients aged 65 years and older.
 
 Renal impairment
 No dose adjustment is required in patients with mild renal impairment.
@@ -146,31 +145,30 @@ RoActemra has not been studied in patients with hepatic impairment.
 Therefore, no dose recommendations can be made.
 
 Method of administration
+
 After dilution, RoActemra for RA, sJIA, pJIA, and CRS patients should be administered as an intravenous infusion over 1 hour.
 
-RA, sJIA,pJIA and CRS Patients ≥ 30 kg
-RoActemra should be diluted to a final volume of 100 ml with sterile, non-pyrogenic sodium chloride 9 mg/ml (0.9%) solution for injection using aseptic technique.
+RA, sJIA, pJIA and CRS Patients ≥ 30 kg
+RoActemra should be diluted to a final volume of 100 mL with sterile, non-pyrogenic sodium chloride 9 mg/mL (0.9%) solution for injection using aseptic technique.
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.
 
 sJIA,pJIA and CRS Patients < 30 kg
-RoActemra should be diluted to a final volume of 50 ml with sterile, non-pyrogenic sodium chloride 9 mg/ml (0.9%) solution for injection using aseptic technique.
+RoActemra should be diluted to a final volume of 50 mL with sterile, non-pyrogenic sodium chloride 9 mg/mL (0.9%) solution for injection using aseptic technique.
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.
 
 [RoActemra 162 mg solution for injection in pre-filled syringe.]
 
 Tocilizumab SC formulation is administered with a single-use PFS+NSD.
-Treatment should be initiated by healthcare professionals experienced in the diagnosis and treatment of RA, pJIA and / or GCA.
+Treatment should be initiated by healthcare professionals experienced in the diagnosis and treatment of RA, sJIA, pJIA and / or GCA.
 The first injection should be performed under the supervision of a qualified health care professional.
-A patient can self-inject RoActemra only if the physician determines that it is appropriate and the patient agrees to medical follow-up as necessary and has been trained in proper injection technique.
+A patient or parent/guardian can self-inject RoActemra only if the physician determines that it is appropriate and the patient or parent/guardian agrees to medical follow-up as necessary and has been trained in proper injection technique.
 
 Patients who transition from tocilizumab IV therapy to SC administration should administer the first SC dose at the time of the next scheduled IV dose under the supervision of a qualified health care professional.
 
 Suitability of the patient or parent/guardian for subcutaneous home use should be assessed and patients or parent/guardian instructed to inform a healthcare professional before administering the next dose if they experience symptoms of an allergic reaction.
 Patients should seek immediate medical attention if developing symptoms of serious allergic reactions (see section 4.4).
-
-RoActemra subcutaneous formulation is not intended for intravenous administration.
 
 RA
 The recommended posology is subcutaneous 162 mg once every week.
@@ -209,25 +207,58 @@ Missed dose
 If a patient misses a subcutaneous weekly injection of RoActemra within 7 days of the scheduled dose, he/she should be instructed to take the missed dose on the next scheduled day.
 If a patient misses a subcutaneous once every other week injection of RoActemra within 7 days of the scheduled dose, he/she should be instructed to take the missed dose immediately and the next dose on the next scheduled day.
 
+Elderly:
+No dose adjustment is required in patients aged 65 years and older.
+
 No dose adjustment is required in patients with mild or moderate renal impairment.
 RoActemra has not been studied in patients with severe renal impairment (see section 5.2).
 
-The safety and efficacy of RoActemra subcutaneous formulation in children from birth to less than 2 years have not been established.
+The safety and efficacy of RoActemra subcutaneous formulation in children from birth to less than 1 year have not been established.
 There is no data.
+
+RoActemra can be used alone or in combination with MTX.
+
+The recommended posology in patients above 1 year of age is subcutaneous 162 mg once every week in patients weighing greater than or equal to 30 kg or subcutaneous 162 mg once every 2 weeks in patients weighing less than 30 kg.
+Patients must have a minimum body weight of 10 kg when receiving RoActemra subcutaneously.
 
 The recommended posology in patients above 2 years of age is subcutaneous 162 mg once every 2 weeks in patients weighing greater than or equal to 30 kg or subcutaneous 162 mg once every 3 weeks in patients weighing less than 30 kg.
 
-Reduction of tocilizumab dosing frequency due to laboratory abnormalities has not been studied in pJIA patients.
+Dose adjustments due to laboratory abnormalities (sJIA and pJIA)
 
-The safety and efficacy of RoActemra subcutaneous formulation in children with conditions other than pJIA have not been established.
+As there are many co-morbid conditions that may effect laboratory values in sJIA or pJIA, the decision to discontinue tocilizumab for a laboratory abnormality should be based upon the medical assessment of the individual patient.
+
+| Laboratory Value | Action |
+| --- | --- |
+| > 1 to 3 x ULN | Modify the dose of the concomitant MTX if appropriate For persistent increases in this range, interrupt RoActemra until ALT/AST have normalized. |
+| > 3 x ULN to 5x ULN | Modify the dose of the concomitant MTX if appropriate Interrupt RoActemra dosing until < 3x ULN and follow recommendations above for >1 to 3x ULN |
+| > 5x ULN | Discontinue RoActemra. The decision to discontinue RoActemra in sJIA or pJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
+
+| Laboratory Value (cells x 109/ L ) | Action |
+| --- | --- |
+| ANC > 1 | Maintain dose |
+| ANC 0.5 to 1 | Interrupt RoActemra dosing When ANC increases to > 1 x 109/ L resume RoActemra |
+| ANC < 0.5 | Discontinue RoActemra The decision to discontinue RoActemra in sJIA or pJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
+
+| Laboratory Value (cells x 103/µL) | Action |
+| --- | --- |
+| 50 to 100 | Modify the dose of the concomitant MTX if appropriate Interrupt RoActemra dosing When platelet count is > 100 x 103/µl resume RoActemra |
+| < 50 | Discontinue RoActemra. The decision to discontinue RoActemra in sJIA or pJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
+
+Reduction of tocilizumab dosing frequency due to laboratory abnormalities has not been studied in sJIA or pJIA patients.
+
+The safety and efficacy of RoActemra subcutaneous formulation in children with conditions other than sJIA or pJIA have not been established.
 
 Available data with the IV formulation suggest that clinical improvement is observed within 12 weeks of initiation of treatment with RoActemra.
 
+If a sJIA patient misses a subcutaneous weekly injection of RoActemra within 7 days of the scheduled dose, he/she should be instructed to take the missed dose on the next scheduled day.
+If a patient misses a subcutaneous once every 2 week injection of RoActemra within 7 days of the scheduled dose, he/she should be instructed to take the missed dose immediately and the next dose on the next scheduled day.
+
 If a pJIA patient misses a subcutaneous injection of RoActemra within 7 days of the scheduled dose, he/she should take the missed dose as soon as they remember and take the next dose at the regular scheduled time.
 If a patient misses a subcutaneous injection of RoActemra by more than 7 days of the scheduled dose or is unsure when to inject RoActemra, call the doctor or pharmacist.
+
 RoActemra is for subcutaneous use.
 After proper training in injection technique, patients may self-inject with RoActemra if their physician determines that it is appropriate.
-The total content (0.9 ml) of the pre-filled syringe should be administered as a subcutaneous injection.
+The total content (0.9 mL) of the pre-filled syringe should be administered as a subcutaneous injection.
 The recommended injection sites (abdomen, thigh and upper arm) should be rotated and injections should never be given into moles, scars, or areas where the skin is tender, bruised, red, hard, or not intact.
 
 The pre-filled syringe should not be shaken.
@@ -240,7 +271,9 @@ Treatment should be initiated by healthcare professionals experienced in the dia
 Suitability of the patient for subcutaneous home use should be assessed and patients should be instructed to inform a healthcare professional if they experience symptoms of an allergic reaction before administering the next dose.
 Patients should seek immediate medical attention if they develop symptoms of serious allergic reactions (see section 4.4).
 
-The total content (0.9 ml) of the pre-filled pen should be administered as a subcutaneous injection.
+No data are available
+
+The total content (0.9 mL) of the pre-filled pen should be administered as a subcutaneous injection.
 
 The pre-filled pen should not be shaken.
 

@@ -18,6 +18,8 @@ RoActemra is indicated for the treatment of chimeric antigen receptor (CAR) T ce
 
 [RoActemra 162 mg solution for injection in pre-filled syringe.]
 
+RoActemra is indicated for the treatment of active systemic juvenile idiopathic arthritis (sJIA) in patients 1 year of age and older, who have responded inadequately to previous therapy with NSAIDs and systemic corticosteroids.
+
 RoActemra is indicated for the treatment of Giant Cell Arteritis (GCA) in adult patients.
 
 [RoActemra 162 mg solution for injection in pre-filled pen.]

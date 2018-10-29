@@ -5,9 +5,9 @@ Interaction studies have only been performed in adults.
 Concomitant administration of a single dose of 10 mg/kg tocilizumab with 10-25 mg MTX once weekly had no clinically significant effect on MTX exposure.
 
 Population pharmacokinetic analyses did not detect any effect of MTX, non-steroidal anti-inflammatory drugs (NSAIDs) or corticosteroids on tocilizumab clearance.
+
 The expression of hepatic CYP450 enzymes is suppressed by cytokines, such as IL-6, that stimulate chronic inflammation.
 Thus, CYP450 expression may be reversed when potent cytokine inhibitory therapy, such as tocilizumab, is introduced.
-
 In vitro studies with cultured human hepatocytes demonstrated that IL-6 caused a reduction in CYP1A2, CYP2C9, CYP2C19 and CYP3A4 enzyme expression.
 Tocilizumab normalises expression of these enzymes.
 
@@ -23,16 +23,13 @@ Concomitant administration of a single dose of 10 mg/kg RoActemra with 10-25 mg 
 Population pharmacokinetic analyses did not detect any effect of MTX, non-steroidal anti-inflammatory drugs (NSAIDs) or corticosteroids on RoActemra clearance in RA patients.
 In GCA patients, no effect of cumulative corticosteroid dose on RoActemra exposure was observed.
 
-Thus, CYP450 expression may be reversed when potent cytokine inhibitory therapy, such as RoActemra , is introduced.
-
+Thus, CYP450 expression may be reversed when potent cytokine inhibitory therapy, such as RoActemra, is introduced.
 In vitro studies with cultured human hepatocytes demonstrated that IL-6 caused a reduction in CYP1A2, CYP2C9, CYP2C19, and CYP3A4 enzyme expression.
 RoActemra normalises expression of these enzymes.
 
 When starting or stopping therapy with tocilizumab, patients taking medicinal products which are individually adjusted and are metabolised via CYP450 3A4, 1A2 or 2C9 (e.g. methylprednisolone, dexamethasone, (with the possibility for oral glucocorticoid withdrawal syndrome), atorvastatin, calcium channel blockers, theophylline, warfarin, phenprocoumon, phenytoin, ciclosporin, or benzodiazepines) should be monitored as doses may need to be increased to maintain therapeutic effect.
 
 [RoActemra 162 mg solution for injection in pre-filled pen.]
-
-Thus, CYP450 expression may be reversed when potent cytokine inhibitory therapy, such as RoActemra, is introduced.
 
 In a study in RA patients, levels of simvastatin (CYP3A4) were decreased by 57% one week following a single dose of RoActemra, to the level similar to, or slightly higher than, those observed in healthy subjects.
 
