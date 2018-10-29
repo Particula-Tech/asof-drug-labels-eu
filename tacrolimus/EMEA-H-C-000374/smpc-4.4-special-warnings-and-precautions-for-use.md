@@ -30,7 +30,6 @@ In case of persistent lymphadenopathy, the aetiology of the lymphadenopathy shou
 In the absence of a clear aetiology for the lymphadenopathy or in the presence of acute infectious mononucleosis, discontinuation of Protopic should be considered.
 
 The effect of treatment with Protopic ointment on the developing immune system of children aged below 2 years has not been established (see section 4.1).
-
 Protopic ointment has not been evaluated for its efficacy and safety in the treatment of clinically infected atopic dermatitis.
 Before commencing treatment with Protopic ointment, clinical infections at treatment sites should be cleared.
 Patients with atopic dermatitis are predisposed to superficial skin infections.
@@ -50,6 +49,9 @@ Occlusive dressings are not recommended.
 As with any topical medicinal product, patients should wash their hands after application if the hands are not intended for treatment.
 
 Tacrolimus is extensively metabolised in the liver and although blood concentrations are low following topical therapy, the ointment should be used with caution in patients with hepatic failure (see section 5.2).
+
+Excipients warnings
+Protopic ointment contains butylhydroxytoluene (E321) as an excipient, which may cause local skin reactions (e.g. contact dermatitis), or irritation to the eyes and mucous membranes.
 
 [Protopic 0.1% ointment]
 

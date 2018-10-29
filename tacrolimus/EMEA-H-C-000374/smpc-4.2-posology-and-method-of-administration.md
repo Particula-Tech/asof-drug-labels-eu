@@ -13,6 +13,7 @@ Protopic treatment should begin at the first appearance of signs and symptoms.
 Each affected region of the skin should be treated with Protopic until lesions are cleared, almost cleared or mildly affected.
 Thereafter, patients are considered suitable for maintenance treatment (see below).
 At the first signs of recurrence (flares) of the disease symptoms, treatment should be re-initiated.
+
 Adults and adolescents (16 years of age and above)
 Treatment should be started with Protopic 0.1% twice a day and treatment should be continued until clearance of the lesion.
 If symptoms recur, twice daily treatment with Protopic 0.1% should be restarted.
@@ -21,7 +22,7 @@ An attempt should be made to reduce the frequency of application or to use the l
 Generally, improvement is seen within one week of starting treatment.
 If no signs of improvement are seen after two weeks of treatment, further treatment options should be considered.
 
-Older people
+Elderly
 Specific studies have not been conducted in older people.
 However, the clinical experience available in this patient population has not shown the necessity for any dosage adjustment.
 
@@ -44,7 +45,7 @@ After 12 months treatment, a review of the patient`s condition should be conduct
 
 If signs of a flare reoccur, twice daily treatment should be re-initiated (see flare treatment section above).
 
-Older people
+Elderly
 Specific studies have not been conducted in older people (see flare treatment section above).
 
 Paediatric population

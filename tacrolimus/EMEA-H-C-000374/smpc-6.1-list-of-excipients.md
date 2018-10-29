@@ -5,3 +5,5 @@ Liquid paraffin
 Propylene carbonate
 White beeswax
 Hard paraffin
+Butylhydroxytoluene (E321)
+All-rac-α-tocopherol
