@@ -9,7 +9,7 @@ Among opportunistic infections, TB and other mycobacterial infections, cryptococ
 Some patients have presented with disseminated rather than localised disease.
 Other serious infections that were not reported in clinical studies may also occur (e.g., coccidioidomycosis).
 
-The most commonly reported adverse reactions during the first 3 months in controlled clinical trials were headache, upper respiratory tract infections, nasopharyngitis, diarrhoea, nausea and hypertension (see Table 6, Adverse Drug Reactions (ADRs) based on all study durations).
+The most commonly reported adverse reactions during the first 3 months in controlled clinical trials were headache, upper respiratory tract infections, nasopharyngitis, diarrhoea, nausea and hypertension (see Table 6, Adverse Drug Reactions [ADRs] based on all study durations).
 
 The proportion of patients who discontinued treatment due to adverse reactions during first 3 months of the double-blind, placebo or MTX controlled studies was 3.8% for patients taking tofacitinib.
 The most common infections resulting in discontinuation of therapy were herpes zoster and pneumonia.
@@ -25,7 +25,6 @@ In the induction and maintenance studies, across tofacitinib and placebo treatme
 Overall, the safety profile observed in patients with UC treated with tofacitinib was consistent with the safety profile of tofacitinib in the RA indication.
 
 Tabulated list of adverse reactions
-
 The ADRs listed in the table below are from clinical studies in patients with RA, PsA, and UC and are presented by System Organ Class (SOC) and frequency categories, defined using the following convention: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000), or not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
@@ -65,7 +64,6 @@ The most commonly reported infections were upper respiratory tract infections an
 The overall incidence rate of infections with tofacitinib in the long-term safety all exposure population (total 4,867 patients) was 46.1 patients with events per 100 patient-years (43.8 and 47.2 patients with events for 5 mg and 10 mg twice daily, respectively).
 For patients (total 1,750) on monotherapy, the rates were 48.9 and 41.9 patients with events per 100 patient-years for 5 mg and 10 mg twice daily, respectively.
 For patients (total 3,117) on background DMARDs, the rates were 41.0 and 50.3 patients with events per 100 patient-years for 5 mg and 10 mg twice daily, respectively.
-
 Ulcerative colitis
 In the randomised 8-week Phase 2/3 induction studies, the proportions of patients with infections were 21.1% (198 patients) in the tofacitinib 10 mg twice daily group compared to 15.2% (43 patients) in the placebo group.
 In the randomised 52-week Phase 3 maintenance study, the proportion of patients with infections were 35.9% (71 patients) in the 5 mg twice daily and 39.8% (78 patients) in the 10 mg twice daily tofacitinib groups, compared to 24.2% (48 patients) in the placebo group.
@@ -134,7 +132,6 @@ In these studies, AST elevations greater than 3x ULN were observed in 0.72%, 0.5
 
 In the RA long-term extension studies, on monotherapy, ALT elevations greater than 3x ULN were observed in 1.1% and 1.4% of patients receiving tofacitinib 5 mg and 10 mg twice daily, respectively.
 AST elevations greater than 3x ULN were observed in < 1.0% in both the tofacitinib 5 mg and 10 mg twice daily groups.
-
 In the RA long-term extension studies, on background DMARDs, ALT elevations greater than 3x ULN were observed in 1.8% and 1.6% of patients receiving tofacitinib 5 mg and 10 mg twice daily, respectively.
 AST elevations greater than 3x ULN were observed in < 1.0% in both the tofacitinib 5 mg and 10 mg twice daily groups.
 

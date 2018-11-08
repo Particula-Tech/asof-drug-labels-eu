@@ -1,3 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Pfizer Limited, Ramsgate Road, Sandwich, Kent CT13 9NJ, United Kingdom
+Pfizer Europe MA EEIG
+Boulevard de la Plaine 17
+1050 Bruxelles
+Belgium

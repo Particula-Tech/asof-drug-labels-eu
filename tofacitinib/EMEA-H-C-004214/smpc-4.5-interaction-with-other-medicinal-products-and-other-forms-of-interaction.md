@@ -16,30 +16,32 @@ Concomitant administration with MTX 15-25 mg once weekly had no effect on the PK
 Figure 1.
 Impact of Other Medicinal Products on PK of Tofacitinib
 
-Coadministered PK Ratio and 90% CI Recommendation
+Coadministered PK Ratio and 90% Recommendation
 
 Drug
 
-CYP3A InhibitorKetoconazole AUC Reduce Tofacitinib Dosea
+CYP3A Inhibitor
 
-Cmax
+Ketoconazol AUC Reduce Tofacitinib Dosea
 
-CYP3A & CYP2C19 InhibitorFluconazole AUC Reduce Tofacitinib Dosea
+Cma
 
-Cmax
+CYP3A & CYP2C19 Inhibitor Fluconazol AUC Reduce Tofacitinib Dosea
 
-CYP Rifampicin AUC May Decrease
+Cma
 
-Cmax
+CYP Inducer Rifampicin AUC May Decrease Efficacy
 
-Methotrexat AUC No Dose Adjustment
+Cma
 
-Cmax
+Methotrexate AUC No Dose Adjustment
+
+Cma
 
 Tacrolimus AUC Combined use of Tofacitinib with
-Cmax Tacrolimus should be avoided
+Cma Tacrolimus should be avoided
 Ciclosporine AUC Combined use of Tofacitinib with
-Cmax Ciclosporine should be avoided
+Cma Ciclosporine should be avoided
 
 0 0.5 1 1.5 2 2.5
 Ratio relative to reference

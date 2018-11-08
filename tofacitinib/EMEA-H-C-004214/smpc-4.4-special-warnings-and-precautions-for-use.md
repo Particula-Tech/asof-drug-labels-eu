@@ -5,12 +5,13 @@ Combination with other therapies
 Tofacitinib has not been studied and its use should be avoided in combination with biologics such as TNF antagonists, interleukin (IL)-1R antagonists, IL-6R antagonists, anti-CD20 monoclonal antibodies, IL-17 antagonists, IL-12/IL-23 antagonists, anti-integrins, selective co-stimulation modulators and potent immunosuppressants such as azathioprine, 6-mercaptopurine, ciclosporine and tacrolimus because of the possibility of increased immunosuppression and increased risk of infection.
 
 There was a higher incidence of adverse events for the combination of tofacitinib with MTX versus tofacitinib as monotherapy in RA clinical studies.
-The use of tofacitinib in combination with phosphodiesterase 4 inhibitors has not been studied in tofacitinib clinical studies.
 
+The use of tofacitinib in combination with phosphodiesterase 4 inhibitors has not been studied in tofacitinib clinical studies.
 Serious infections
 
 Serious and sometimes fatal infections due to bacterial, mycobacterial, invasive fungal, viral, or other opportunistic pathogens have been reported in patients receiving tofacitinib.
 The risk of opportunistic infections is higher in Asian geographic regions (see section 4.8).
+Rheumatoid arthritis patients taking corticosteroids may be predisposed to infection.
 
 Tofacitinib should not be initiated in patients with active infections, including localised infections.
 
@@ -43,6 +44,7 @@ Patients with latent TB, who test positive, should be treated with standard anti
 Antituberculosis therapy should also be considered prior to administration of tofacitinib in patients who test negative for TB but who have a past history of latent or active TB and where an adequate course of treatment cannot be confirmed; or those who test negative but who have risk factors for TB infection.
 Consultation with a healthcare professional with expertise in the treatment of TB is recommended to aid in the decision about whether initiating antituberculosis therapy is appropriate for an individual patient.
 Patients should be closely monitored for the development of signs and symptoms of TB, including patients who tested negative for latent TB infection prior to initiating therapy.
+
 Viral reactivation
 Viral reactivation and cases of herpes virus reactivation (e.g., herpes zoster) were observed in clinical studies with tofacitinib.
 In patients treated with tofacitinib, the incidence of herpes zoster appears to be increased in:
@@ -70,7 +72,6 @@ Other malignancies were observed in clinical studies and the post-marketing sett
 The effect of tofacitinib on the development and course of malignancies is not known.
 
 Non-melanoma skin cancer
-
 NMSCs have been reported in patients treated with tofacitinib.
 The risk of NMSC may be higher in patients treated with tofacitinib 10 mg twice daily than in patients treated with 5 mg twice daily.
 Periodic skin examination is recommended for patients who are at increased risk for skin cancer (see Table 6 in section 4.8).
@@ -86,11 +87,11 @@ Gastrointestinal perforations
 Events of gastrointestinal perforation have been reported in clinical trials although the role of JAK inhibition in these events is not known.
 Tofacitinib should be used with caution in patients who may be at increased risk for gastrointestinal perforation (e.g., patients with a history of diverticulitis, patients with concomitant use of corticosteroids and/or nonsteroidal anti-inflammatory drugs).
 Patients presenting with new onset abdominal signs and symptoms should be evaluated promptly for early identification of gastrointestinal perforation.
+
 Cardiovascular risk
 
 RA and PsA patients have an increased risk for cardiovascular disorders.
 Patients treated with tofacitinib should have risk factors (e.g., hypertension, hyperlipidaemia) managed as part of usual standard of care.
-
 Liver enzymes
 
 Treatment with tofacitinib was associated with an increased incidence of liver enzyme elevation in some patients (see section 4.8 liver enzyme tests).
@@ -131,12 +132,12 @@ Maximum effects were generally observed within 6 weeks.
 Assessment of lipid parameters should be performed after 8 weeks following initiation of tofacitinib therapy.
 Patients should be managed according to clinical guidelines for the management of hyperlipidaemia.
 Increases in total and LDL cholesterol associated with tofacitinib may be decreased to pretreatment levels with statin therapy.
+
 Vaccinations
 
 Prior to initiating tofacitinib, it is recommended that all patients be brought up to date with all immunisations in agreement with current immunisation guidelines.
 It is recommended that live vaccines not be given concurrently with tofacitinib.
 The decision to use live vaccines prior to tofacitinib treatment should take into account the pre-existing immunosuppression in a given patient.
-
 Prophylactic zoster vaccination should be considered in accordance with vaccination guidelines.
 Particular consideration should be given to patients with longstanding RA who have previously received two or more biological DMARDs.
 If live zoster vaccine is administered; it should only be administered to patients with a known history of chickenpox or those that are seropositive for varicella zoster virus (VZV).
