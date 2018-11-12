@@ -7,11 +7,9 @@ When dapagliflozin is used in combination with insulin or an insulin secretagogu
 
 Special populations
 Renal impairment
-The efficacy of dapagliflozin is dependent on renal function, and efficacy is reduced in patients who have moderate renal impairment and likely absent in patients with severe renal impairment.
-Forxiga is not recommended for use in patients with moderate to severe renal impairment (patients with creatinine clearance [CrCl] < 60 ml/min or estimated glomerular filtration rate
-[eGFR] < 60 ml/min/1.73 m2, see sections 4.4, 4.8, 5.1 and 5.2).
+Forxiga should not be initiated in patients with a glomerular filtration rate [GFR] < 60 mL/min and should be discontinued at GFR persistently below 45 mL/min (see sections 4.4, 4.8, 5.1 and 5.2).
 
-No dosage adjustment is indicated in patients with mild renal impairment.
+No dosage adjustment is required based on renal function.
 
 Hepatic impairment
 No dosage adjustment is necessary for patients with mild or moderate hepatic impairment.

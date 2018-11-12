@@ -33,5 +33,6 @@ The increase in simvastatin and simvastatin acid exposures are not considered cl
 Interference with 1,5-anhydroglucitol (1,5-AG) assay
 Monitoring glycaemic control with 1,5-AG assay is not recommended as measurements of 1,5-AG are unreliable in assessing glycaemic control in patients taking SGLT2 inhibitors.
 Use of alternative methods to monitor glycaemic control is advised.
+
 Paediatric population
 Interaction studies have only been performed in adults.

@@ -18,7 +18,6 @@ Biotransformation
 Dapagliflozin is extensively metabolised, primarily to yield dapagliflozin 3-O-glucuronide, which is an inactive metabolite.
 Dapagliflozin 3-O-glucuronide or other metabolites do not contribute to the glucose-lowering effects.
 The formation of dapagliflozin 3-O-glucuronide is mediated by UGT1A9, an enzyme present in the liver and kidney, and CYP-mediated metabolism was a minor clearance pathway in humans.
-
 Elimination
 The mean plasma terminal half-life (t1/2) for dapagliflozin was 12.9 hours following a single oral dose of dapagliflozin 10 mg to healthy subjects.
 The mean total systemic clearance of dapagliflozin administered intravenously was 207 ml/min.
@@ -51,6 +50,7 @@ Pharmacokinetics in the paediatric population have not been studied.
 
 Gender
 The mean dapagliflozin AUCss in females was estimated to be about 22% higher than in males.
+
 Race
 There were no clinically relevant differences in systemic exposures between White, Black or Asian races.
 

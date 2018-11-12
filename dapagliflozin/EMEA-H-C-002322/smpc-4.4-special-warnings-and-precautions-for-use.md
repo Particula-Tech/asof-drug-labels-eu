@@ -1,16 +1,18 @@
 # 4.4 Special warnings and precautions for use
 
 Renal impairment
-The efficacy of dapagliflozin is dependent on renal function, and efficacy is reduced in patients who have moderate renal impairment and likely absent in patients with severe renal impairment (see section 4.2).
-In subjects with moderate renal impairment (patients with CrCl < 60 ml/min or eGFR < 60 ml/min/1.73 m2), a higher proportion of subjects treated with dapagliflozin had adverse reactions of increase in creatinine, phosphorus, parathyroid hormone (PTH) and hypotension, compared with placebo.
-Forxiga is not recommended for use in patients with moderate to severe renal impairment (patients with CrCl < 60 ml/min or eGFR < 60 ml/min/1.73 m2).
-Forxiga has not been studied in severe renal impairment (CrCl < 30 ml/min or eGFR < 30 ml/min/1.73 m2) or end-stage renal disease (ESRD).
+The glycaemic efficacy of dapagliflozin is dependent on renal function, and efficacy is reduced in patients who have moderate renal impairment and is likely absent in patients with severe renal impairment (see section 4.2).
+In subjects with moderate renal impairment (GFR < 60 mL/min), a higher proportion of subjects treated with dapagliflozin had adverse reactions of increase in creatinine, phosphorus, parathyroid hormone (PTH) and hypotension, compared with placebo.
+
+Forxiga should not be initiated in patients with a GFR < 60 mL/min and should be discontinued at GFR persistently below 45 mL/min.
+Forxiga has not been studied in severe renal impairment
+(GFR < 30 mL/min) or end-stage renal disease (ESRD).
+
 Monitoring of renal function is recommended as follows:
 
-- Prior to initiation of dapagliflozin and at least yearly, thereafter (see sections 4.2, 4.8, 5.1 and 5.2)
-- Prior to initiation of concomitant medicinal products that may reduce renal function and periodically thereafter
-- For renal function approaching moderate renal impairment, at least 2 to 4 times per year.
-  If renal function falls below CrCl < 60 ml/min or eGFR < 60 ml/min/1.73 m2, dapagliflozin treatment should be discontinued.
+- Prior to initiation of dapagliflozin and at least yearly, thereafter (see sections 4.2, 4.8, 5.1 and 5.2).
+- Prior to initiation of concomitant medicinal products that may reduce renal function and periodically thereafter.
+- For renal function with GFR < 60 mL/min, at least 2 to 4 times per year.
 
 Hepatic impairment
 There is limited experience in clinical trials in patients with hepatic impairment.
@@ -45,7 +47,6 @@ Patients who may be at higher risk of DKA include patients with a low beta-cell 
 SGLT2 inhibitors should be used with caution in these patients.
 
 Restarting SGLT2 inhibitor treatment in patients with previous DKA while on SGLT2 inhibitor treatment is not recommended, unless another clear precipitating factor is identified and resolved.
-
 The safety and efficacy of dapagliflozin in patients with type 1 diabetes have not been established and dapagliflozin should not be used for treatment of patients with type 1 diabetes.
 Limited data from clinical trials suggest that DKA occurs with common frequency when patients with type 1 diabetes are treated with SGLT2 inhibitors.
 
@@ -81,6 +82,7 @@ Lower limb amputations
 An increase in cases of lower limb amputation (primarily of the toe) has been observed in ongoing long-term, clinical studies with another SGLT2 inhibitor.
 It is unknown whether this constitutes a class effect.
 Like for all diabetic patients it is important to counsel patients on routine preventative foot care.
+
 Urine laboratory assessments
 Due to its mechanism of action, patients taking Forxiga will test positive for glucose in their urine.
 

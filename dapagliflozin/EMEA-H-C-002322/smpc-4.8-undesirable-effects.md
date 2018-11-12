@@ -19,7 +19,8 @@ Adverse reactions in placebo-controlled clinical studiesa and postmarketing expe
 | System organ class | Very common | Common* | Uncommon** | Rare |
 | --- | --- | --- | --- | --- |
 | Infections and infestations |  | Vulvovaginitis, balanitis and related genital infections*,b,c Urinary tract infection*,b,d | Fungal infection** |  |
-| Metabolism and nutrition disorders | Hypoglycaemia (when used with SU or insulin)b |  | Volume depletionb,e Thirst** | Diabetic ketoacidosisi |
+| Metabolism and | Hypoglycaemia |  | Volume | Diabetic |
+| nutrition disorders | (when used with SU or insulin)b |  | depletionb,e Thirst** | ketoacidosisi |
 | Nervous system disorders |  | Dizziness |  |  |
 | Gastrointestinal disorders |  |  | Constipation** Dry mouth** |  |
 | Skin and subcutaneous tissue disorders |  | Rashj |  |  |

@@ -330,6 +330,8 @@ This effect was observed at Week 1 of treatment and maintained in studies extend
 Combination therapy of dapagliflozin 10 mg and prolonged-release exenatide resulted in significantly greater reductions in FPG at Week 28: -3.66 mmol/l (-65.8 mg/dl), compared to -2.73 mmol/l (-49.2 mg/dl) for dapagliflozin alone (p < 0.001) and -2.54 mmol/l (-45.8 mg/dl) for exenatide alone
 (p < 0.001).
 
+In a dedicated study in diabetic patients with an eGFR ≥45 to < 60 mL/min/1.73 m2, treatment with dapagliflozin demonstrated reductions in FPG at Week 24: -1.19 mmol/L (-21.46 mg/dL) compared to -0.27 mmol/L (-4.87 mg/dL) for placebo (p=0.001).
+
 Post-prandial glucose
 Treatment with dapagliflozin 10 mg as an add-on to glimepiride resulted in statistically significant reductions in 2-hour post-prandial glucose at 24 weeks that were maintained up to Week 48.
 
@@ -350,7 +352,6 @@ The combination of dapagliflozin 10 mg and prolonged-release exenatide demonstra
 
 A 24-week study in 182 diabetic subjects using dual energy X-ray absorptiometry (DXA) to evaluate body composition demonstrated reductions with dapagliflozin 10 mg plus metformin compared with placebo plus metformin, respectively, in body weight and body fat mass as measured by DXA rather than lean tissue or fluid loss.
 Treatment with Forxiga plus metformin showed a numerical decrease in visceral adipose tissue compared with placebo plus metformin treatment in a magnetic resonance imaging substudy.
-
 Blood pressure
 In a pre-specified pooled analysis of 13 placebo-controlled studies, treatment with dapagliflozin 10 mg resulted in a systolic blood pressure change from baseline of –3.7 mmHg and diastolic blood pressure of –1.8 mmHg versus –0.5 mmHg systolic and -0.5 mmHg diastolic blood pressure for placebo group at Week 24.
 Similar reductions were observed up to 104 weeks.
@@ -359,6 +360,8 @@ Combination therapy of dapagliflozin 10 mg and prolonged-release exenatide resul
 
 In two 12-week, placebo-controlled studies a total of 1,062 patients with inadequately controlled type 2 diabetes and hypertension (despite pre-existing stable treatment with an ACE-I or ARB in one study and an ACE-I or ARB plus one additional antihypertensive treatment in another study) were treated with dapagliflozin 10 mg or placebo.
 At Week 12 for both studies, dapagliflozin 10 mg plus usual antidiabetic treatment provided improvement in HbA1c and decreased the placebo-corrected systolic blood pressure on average by 3.1 and 4.3 mmHg, respectively.
+
+In a dedicated study in diabetic patients with an eGFR ≥45 to < 60 mL/min/1.73 m2, treatment with dapagliflozin demonstrated reductions in seated systolic blood pressure at Week 24: -4.8 mmHg compared to -1.7 mmHg for placebo (p < 0.05).
 
 Cardiovascular safety
 A meta-analysis of cardiovascular events in the clinical program was performed.
@@ -370,9 +373,35 @@ The hazard ratio comparing dapagliflozin to comparator was 0.79 (95% Confidence 
 Cardiovascular death, MI and stroke were observed with a hazard ratio of 0.77 (95% CI: 0.54, 1.10).
 
 Renal impairment
-Moderate renal impairment (eGFR ≥30 to < 60 ml/min/1.73 m2)
-The efficacy of dapagliflozin was also assessed separately in a dedicated study of diabetic subjects with moderate renal impairment (252 subjects with mean eGFR 45 ml/min/1.73 m2).
-The mean change from baseline in HbA1c at 24 weeks was -0.44% and -0.33%, for dapagliflozin 10 mg and placebo, respectively.
+Moderate renal impairment CKD 3A (eGFR ≥45 to < 60 mL/min/1.73 m2)
+The efficacy of dapagliflozin was assessed in a dedicated study in diabetic patients with an eGFR ≥45 to < 60 mL/min/1.73 m2 who had inadequate glycaemic control on usual care.
+Treatment with dapagliflozin resulted in reductions in HbA1c and body weight compared with placebo (Table 9).
+Table 9.
+Results at Week 24 of a placebo-controlled study of dapagliflozin in diabetic patients with an eGFR ≥45 to < 60 mL/min/1.73 m2
+
+Dapagliflozina Placeboa
+
+10 mg
+
+Nb 159 161
+
+HbA1c (%)
+
+Baseline (mean) 8.35 8.03
+Change from baselineb -0.37 -0.03
+Difference from placebob -0.34*
+(95% CI) (-0.53, -0.15)
+
+Body weight (kg)
+
+Baseline (mean) 92.51 88.30
+Percent change from baselinec -3.42 -2.02
+Difference in percent change from placeboc -1.43*
+(95% CI) (-2.15, -0.69)
+
+a Metformin or metformin hydrochloride were part of the usual care in 69.4% and 64.0% of the patients for the dapagliflozin and placebo groups, respectively.
+b Least squares mean adjusted for baseline value c Derived from least squares mean adjusted for baseline value
+* p<0.001
 
 Patients with baseline HbA1c ≥9%
 In a pre-specified analysis of subjects with baseline HbA1c ≥9.0%, treatment with dapagliflozin 10 mg resulted in statistically significant reductions in HbA1c at Week 24 as a monotherapy (adjusted mean change from baseline: -2.04% and 0.19% for dapagliflozin 10 mg and placebo, respectively) and as an add-on to metformin (adjusted mean change from baseline: -1.32% and -0.53% for dapagliflozin and placebo, respectively).
