@@ -8,7 +8,6 @@ The most commonly reported adverse reactions leading to discontinuation (inciden
 In placebo-controlled and uncontrolled clinical studies, a total of 2,468 patients have received Tecfidera and been followed for periods up to 4 years with an overall exposure equivalent to 3,588 person-years.
 Approximately 1,056 patients have received more than 2 years of treatment with Tecfidera.
 The experience in uncontrolled clinical trials is consistent with the experience in the placebo-controlled clinical trials.
-
 Tabulated summary of adverse reactions
 
 Adverse reactions, which were more frequently reported in Tecfidera versus placebo-treated patients, are presented in the table below.

@@ -10,7 +10,6 @@ Drug-induced liver injury, including liver enzyme increase (≥ 3 upper limit of
 The time to onset can be directly, several weeks or longer.
 Resolution of the adverse reactions has been observed after treatment was discontinued.
 Assessment of serum aminotransferases (e.g. alanine aminotransferase (ALT), aspartate aminotransferase (AST)) and total bilirubin levels are recommended prior to treatment initiation and during treatment as clinically indicated.
-
 Patients treated with Tecfidera may develop severe prolonged lymphopenia (see section 4.8).
 Dimethyl fumarate has not been studied in patients with pre-existing low lymphocyte counts and caution should be exercised when treating these patients.
 Prior to initiating treatment with Tecfidera, a current complete blood count, including lymphocytes, must be performed.
@@ -53,8 +52,8 @@ The contribution of prior immunosuppressive therapy to the development of PML in
 When switching patients from another disease modifying therapy to Tecfidera, the half-life and mode of action of the other therapy should be considered in order to avoid an additive immune effect while at the same time, reducing the risk of reactivation of MS.
 
 A complete blood count is recommended prior to initiating Tecfidera and regularly during treatment (see Blood/laboratory tests above).
-
 Tecfidera can generally be started immediately after discontinuation of interferon or glatiramer acetate.
+
 Severe renal and hepatic impairment
 
 Tecfidera has not been studied in patients with severe renal or severe hepatic impairment and caution should, therefore, be used in these patients (see section 4.2).
