@@ -12,7 +12,7 @@ Breast-feeding
 It is unknown whether umeclidinium bromide is excreted in human milk.
 A risk to breastfed newborns/infants cannot be excluded.
 
-A decision must be made whether to discontinue breast-feeding or to discontinue Incruse therapy taking into account the benefit of breastfeeding for the child and the benefit of therapy for the woman.
+A decision must be made whether to discontinue breast-feeding or to discontinue Incruse Ellipta therapy taking into account the benefit of breastfeeding for the child and the benefit of therapy for the woman.
 
 Fertility
 

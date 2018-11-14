@@ -1,7 +1,7 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-The most frequently reported adverse reactions with Incruse were nasopharyngitis and upper respiratory tract infection.
+The most frequently reported adverse reactions with Incruse Ellipta were nasopharyngitis and upper respiratory tract infection.
 
 Tabulated summary of adverse reactions
 The safety profile of umeclidinium bromide was evaluated from 1663 patients with COPD who received doses of 55 micrograms or greater for up to one year.

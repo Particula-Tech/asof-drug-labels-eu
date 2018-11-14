@@ -6,7 +6,7 @@ Adults
 
 The recommended dose is one inhalation of umeclidinium bromide once daily.
 
-Incruse should be administered once daily at the same time of the day each day to maintain bronchodilation.
+Incruse Ellipta should be administered once daily at the same time of the day each day to maintain bronchodilation.
 The maximum dose is one inhalation of umeclidinium bromide once daily.
 
 Special populations
@@ -19,14 +19,14 @@ No dosage adjustment is required in patients with renal impairment (see section 
 
 Hepatic impairment
 No dosage adjustment is required in patients with mild or moderate hepatic impairment.
-Incruse has not been studied in patients with severe hepatic impairment and should be used with caution (see section 5.2).
+Incruse Ellipta has not been studied in patients with severe hepatic impairment and should be used with caution (see section 5.2).
 Paediatric population
 
-There is no relevant use of Incruse in the paediatric population (under 18 years of age) in the indication for COPD.
+There is no relevant use of Incruse Ellipta in the paediatric population (under 18 years of age) in the indication for COPD.
 
 Method of administration
 
-Incruse is for inhalation use only.
+Incruse Ellipta is for inhalation use only.
 
 Instructions for use:
 
