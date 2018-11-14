@@ -3,12 +3,11 @@
 Absorption
 
 Lurasidone reaches peak serum concentrations in approximately 1-3 hours.
-
 In a food effect study, lurasidone mean Cmax and AUC increased approximately by 2-3-times and 1.5-2-times, respectively, when administered with food compared to the levels observed under fasting conditions.
 
 Distribution
 
-Following administration of 37 mg of lurasidone (equivalent to 40 mg lurasidone hydrochloride), the mean approximate apparent volume of distribution was 6000 L. Lurasidone is highly bound (~99%) to serum proteins.
+Following administration of 37 mg of lurasidone, the mean approximate apparent volume of distribution was 6000 L. Lurasidone is highly bound (~99%) to serum proteins.
 
 Biotransformation
 
@@ -17,6 +16,7 @@ The major biotransformation pathways are oxidative N-dealkylation, hydroxylation
 
 Lurasidone is metabolised into two active metabolites (ID-14283 and ID-14326) and two non-active metabolites (ID-20219 and ID-20220).
 Lurasidone and its metabolites ID-14283, ID-14326, ID-20219 and ID-20220 correspond to approximately 11.4, 4.1, 0.4, 24 and 11% respectively, of serum radioactivity respectively.
+
 CYP3A4 is the major enzyme responsible for metabolism of the active metabolite ID-14283.
 Lurasidone and its active metabolite ID-14283 both contribute to the pharmacodynamic effect at the dopaminergic and serotonergic receptors.
 
@@ -40,9 +40,8 @@ Urine comprised mostly of a number of metabolites with minimal renal excretion o
 
 Linearity/non-linearity
 
-The pharmacokinetics of lurasidone is dose-proportional within a total daily dose range of 18.5 mg to 148 mg (equivalent to 20 to 160 mg lurasidone hydrochloride).
+The pharmacokinetics of lurasidone is dose-proportional within a total daily dose range of 18.5 mg to 148 mg.
 Steady-state concentrations of lurasidone are reached within 7 days of starting lurasidone.
-
 Pharmacokinetics in special patient groups:
 
 Elderly people
@@ -59,6 +58,7 @@ Subjects with ESRD (CrCl<15 ml/min) have not been investigated.
 
 Gender
 There were no clinically relevant differences between genders in the pharmacokinetics of lurasidone in a population pharmacokinetic analysis in patients with schizophrenia.
+
 Race
 There were no clinically relevant differences in the pharmacokinetics of lurasidone in a population pharmacokinetic analysis in patients with schizophrenia.
 It was noted that Asian subjects had 1.5 fold increased exposure to lurasidone compared to Caucasian subjects.

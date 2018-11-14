@@ -9,7 +9,7 @@ Caution is advised when prescribing lurasidone with medicinal products known to 
 Pharmacokinetic interactions
 
 The concomitant administration of lurasidone and grapefruit juice has not been assessed.
-Grapefruit juice inhibits CYP 3A4 and may increase the serum concentration of lurasidone.
+Grapefruit juice inhibits CYP3A4 and may increase the serum concentration of lurasidone.
 Grapefruit juice should be avoided during treatment with lurasidone.
 
 Potential for other medicinal products to affect lurasidone
@@ -59,7 +59,7 @@ Therefore, lurasidone can be coadministered with oral contraceptives.
 
 [Latuda 37 mg film-coated tablets]
 
-(all sentences already above)
+Grapefruit juice inhibits CYP 3A4 and may increase the serum concentration of lurasidone.
 
 [Latuda 74 mg film-coated tablets]
 

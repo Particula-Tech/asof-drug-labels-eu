@@ -9,7 +9,7 @@ Tabulated summary of adverse reactions
 
 Adverse drug reactions (ADRs) based upon pooled data are shown by system, organ class and by preferred term are listed below.
 The incidence of ADRs reported in clinical trials is tabulated by frequency category.
-The following terms and frequencies are applied: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1000 to < 1/100), rare (≥ 1/10,000 to < 1/1000), very rare
+The following terms and frequencies are applied: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare
 (<1 /10,000) and not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 Table 1
@@ -35,7 +35,8 @@ Table 1
 | Reproductive system and breast disorders |  |  | Blood prolactin increased |  | Breast enlargement**** Breast pain**** Galactorrhoea**** Erectile dysfunction**** Amenorrhoea**** Dysmenorrhoea**** |
 | General disorders and administration site conditions |  | Fatigue | Gait disturbance |  | Sudden death attributable to underlying cardiovascular disease observed during the clinical development programme**** |
 
-*Somnolence includes adverse reaction terms: hypersomnia, hypersomnolence, sedation, and somnolence **Parkinsonism includes adverse reaction terms: bradykinesia, cogwheel rigidity, drooling, extrapyramidal disorder, hypokinesia, muscle rigidity, parkinsonism, psychomotor retardation, and tremor
+*Somnolence includes adverse reaction terms: hypersomnia, hypersomnolence, sedation, and somnolence
+**Parkinsonism includes adverse reaction terms: bradykinesia, cogwheel rigidity, drooling, extrapyramidal disorder, hypokinesia, muscle rigidity, parkinsonism, psychomotor retardation, and tremor
 ***Dystonia includes adverse reaction terms: dystonia, oculogyric crisis, oromandibular dystonia, tongue spasm, torticollis, and trismus.
 ****ADRs noted in Phase 2 and 3 controlled and uncontrolled studies; however, the incidence of occurrence for these are too low to estimate frequencies.
 
@@ -46,7 +47,6 @@ Post marketing reports of clinically serious cases of skin and other hypersensit
 Events of interest to the class
 Extrapyramidal symptoms (EPS): In the short-term placebo controlled studies, the incidence of reported events related to EPS, excluding akathisia and restlessness, was 13.5% for lurasidone-treated subjects versus 5.8% for placebo-treated subjects.
 The incidence of akathisia for lurasidone-treated subjects was 12.9% versus 3.0% for placebo-treated subjects.
-
 Dystonia: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, difficulty swallowing, difficulty breathing, and/or protrusion of the tongue.
 While these symptoms can occur at low doses, they occur more frequently and with greater severity, higher potency and at higher doses of first generation antipsychotic medicinal products.
@@ -59,3 +59,11 @@ Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+[Latuda 37 mg film-coated tablets]
+
+The following terms and frequencies are applied: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1000 to < 1/100), rare (≥ 1/10,000 to < 1/1000), very rare
+
+[Latuda 74 mg film-coated tablets]
+
+(all sentences already above)
