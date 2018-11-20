@@ -18,3 +18,9 @@ In clinical studies, Rapiscan was administered to patients taking other cardioac
 
 Other interactions
 Regadenoson does not inhibit the metabolism of substrates for CYP1A2, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or CYP3A4 in human liver microsomes, indicating that it is unlikely to alter the pharmacokinetics of medicinal products metabolised by these cytochrome P450 enzymes.
+
+Regadenoson does not significantly inhibit the transporters OAT1, OAT3, OCT1, OATP1B1, OATP1B3, MATE1, MATE2-K, BCRP, P-gp, BSEP, ENT 1 or ENT2 at 1 µM.
+The data are insufficient to conclude about the risk of interactions at the level of these transporters given that a single concentration was evaluated in most instances.
+
+Regadenoson may have a modest inhibitory effect on the active renal transporter, OCT2, and has been found to be likely substrate for BCRP, ENT1 or ENT2 mediated transport.
+However, given the proposed duration of use, the effects of the drug transporters are unlikely to be clinically relevant
