@@ -100,7 +100,7 @@ Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycoba
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 In addition, reactivation of herpes simplex and herpes zoster has been observed in clinical studies with PREZISTA co-administered with low dose ritonavir.
 
-Autoimmune disorders (such as Graves' disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.8).
+Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.8).
 
 Interactions with medicinal products
 Several of the interaction studies have been performed with darunavir at lower than recommended doses.

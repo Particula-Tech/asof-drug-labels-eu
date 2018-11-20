@@ -33,7 +33,7 @@ These active substances include e.g.:
 - triazolam, midazolam administered orally (for caution on parenterally administered midazolam, see section 4.5)
 - sildenafil - when used for the treatment of pulmonary arterial hypertension, avanafil
 - simvastatin, lovastatin, lomitapide (see section 4.5)
-- ticagrelor (see section 4.5).
+- dabigatran, ticagrelor (see section 4.5).
 
 [PREZISTA 75 mg film-coated tablets]
 

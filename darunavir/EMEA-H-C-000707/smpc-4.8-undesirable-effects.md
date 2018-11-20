@@ -144,7 +144,7 @@ The frequency of this is unknown (see section 4.4).
 
 Immune reconstitution inflammatory syndrome
 In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
-Autoimmune disorders (such as Graves' disease) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
+Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
 
 Bleeding in haemophiliac patients
 There have been reports of increased spontaneous bleeding in haemophiliac patients receiving antiretroviral protease inhibitors (see section 4.4).

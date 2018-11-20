@@ -1,7 +1,7 @@
 # 6.5 Nature and contents of container
 
 Amber-coloured multiple-dose glass bottle for 200 ml suspension with a polypropylene closure with LDPE liner packaged with a 6 ml oral dosing pipette with 0.2 ml gradations.
-The bottle neck is filled with a low density polyethylene (LDPE) insert that accomodates the dosing pipette.
+The bottle neck is filled with a low density polyethylene (LDPE) insert that accommodates the dosing pipette.
 
 PREZISTA oral suspension is available in packs of one bottle.
 
