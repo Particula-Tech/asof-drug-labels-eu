@@ -1,7 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
 Monitoring of plasma tyrosine levels
-It is recommended that a slit-lamp examination of the eyes is performed before initiation of nitisinone treatment.
+It is recommended that a slit-lamp examination of the eyes is performed before initiation of nitisinone treatment and thereafter regularly, at least once a year.
 A patient displaying visual disorders during treatment with nitisinone should without delay be examined by an ophthalmologist.
 It should be established that the patient is adhering to his/her dietary regimen and the plasma tyrosine concentration should be measured.
 A more restricted tyrosine and phenylalanine diet should be implemented in case the plasma tyrosine level is above 500 micromol/l.

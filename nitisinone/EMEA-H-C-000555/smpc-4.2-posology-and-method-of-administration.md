@@ -61,7 +61,7 @@ Dose conversion tables respectively for the three oral syringe sizes:
 |  | 3.75 | 0.94 |
 |  | 4.00 | 1.00 |
 
-| 3-ml oral syringe (0.1 ml graduation) | Dose Orfadin |  |
+| 3-ml oral syringe (0.1 ml graduation ) | Dose Orfadin |  |
 | --- | --- | --- |
 |  | mg | ml |
 |  | 4.5 | 1.1 |
@@ -81,7 +81,7 @@ Dose conversion tables respectively for the three oral syringe sizes:
 |  | 11.5 | 2.9 |
 |  | 12.0 | 3.0 |
 
-| 5-ml oral syringe (0.2 ml graduation) | Dose Orfadin |  |
+| 5-ml oral syringe (0.2 ml graduation ) | Dose Orfadin |  |
 | --- | --- | --- |
 |  | mg | ml |
 |  | 13.0 | 3.2 |
