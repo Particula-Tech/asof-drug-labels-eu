@@ -1,7 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Nicobrand Limited
-189 Castleroe Road
-Coleraine
-Northern Ireland
-BT51 3RP
+Teva B.V.
+Swensweg 5
+2031 GA Haarlem
+The Netherlands
