@@ -1,8 +1,8 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Mundipharma Corporation Limited
-Cambridge Science Park
-Milton Road
-Cambridge
-CB4 0AB
-United Kingdom
+Mundipharma Corporation (Ireland) Limited
+Millbank House
+Arkle Road
+Sandyford Industrial Estate
+Dublin 18
+Ireland
