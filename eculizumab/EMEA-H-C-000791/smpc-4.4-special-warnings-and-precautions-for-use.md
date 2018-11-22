@@ -16,14 +16,17 @@ Therefore, patients should be closely monitored for disease symptoms after recom
 Vaccination may not be sufficient to prevent meningococcal infection.
 Consideration should be given to official guidance on the appropriate use of antibacterial agents.
 Cases of serious or fatal meningococcal infections have been reported in Soliris-treated patients.
+Sepsis is a common presentation of meningococcal infections in patients treated with Soliris (see section 4.8).
 All patients should be monitored for early signs of meningococcal infection, evaluated immediately if infection is suspected, and treated with appropriate antibiotics if necessary.
 Patients should be informed of these signs and symptoms and steps taken to seek medical care immediately.
 Physicians must discuss the benefits and risks of Soliris therapy with patients and provide them with a patient information brochure and a patient safety card (see Package Leaflet for a description).
 
 Other Systemic Infections
 Due to its mechanism of action, Soliris therapy should be administered with caution to patients with active systemic infections.
-Patients may have increased susceptibility to infections, especially with encapsulated bacteria.
+Patients may have increased susceptibility to infections, especially with Neisseria and encapsulated bacteria.
+Serious infections with Neisseria species (other than Neisseria meningitidis), including disseminated gonococcal infections, have been reported.
 Patients should be provided with information from the Package Leaflet to increase their awareness of potential serious infections and the signs and symptoms of them.
+Physicians should advise patients about gonorrhoea prevention.
 
 Infusion Reactions
 Administration of Soliris may result in infusion reactions or immunogenicity that could cause allergic or hypersensitivity reactions (including anaphylaxis), though immune system disorders within 48 hours of Soliris administration did not differ from placebo treatment in PNH, aHUS, refractory gMG, and other studies conducted with Soliris.
@@ -44,8 +47,8 @@ Additionally, all patients must be vaccinated against meningococcal infections a
 Patients who initiate Soliris treatment less than 2 weeks after receiving a meningococcal vaccine must receive treatment with appropriate prophylactic antibiotics until 2 weeks after vaccination.
 Vaccines against serogroups A, C, Y, W 135 and B where available are recommended in preventing the commonly pathogenic meningococcal serogroups.
 (see Meningococcal Infection).
-
 Patients less than 18 years of age must be vaccinated against Haemophilus influenzae and pneumococcal infections, and strictly need to adhere to the national vaccination recommendations for each age group.
+
 Vaccination may further activate complement.
 As a result, patients with complement-mediated diseases, including PNH, aHUS and refractory gMG may experience increased signs and symptoms of their underlying disease, such as haemolysis (PNH), TMA (aHUS) or MG exacerbation (refractory gMG).
 Therefore, patients should be closely monitored for disease symptoms after recommended vaccination.
@@ -78,7 +81,6 @@ Serious haemolysis was not observed.
 Treatment Discontinuation for aHUS
 Thrombotic microangiopathy (TMA) complications have been observed as early as 4 weeks and up to 127 weeks following discontinuation of Soliris treatment in some patients.
 Discontinuation of treatment should only be considered if medically justified.
-
 In aHUS clinical studies, 61 patients (21 paediatric patients) discontinued Soliris treatment with a median follow-up period of 24 weeks.
 Fifteen severe thrombotic microangiopathy (TMA) complications in 12 patients were observed following treatment discontinuation, and 2 severe TMA complications occurred in an additional 2 patients that received a reduced dosing regimen of Soliris outside of the approved dosing regimen (See Section 4.2).
 Severe TMA complications occurred in patients regardless of whether they had an identified genetic mutation, high risk polymorphism or auto-antibody.
@@ -92,7 +94,7 @@ Severe thrombotic microangiopathy complications post discontinuation can be iden
 If severe thrombotic microangiopathy complications occur after Soliris discontinuation, consider reinstitution of Soliris treatment, supportive care with PE/PI, or appropriate organ-specific supportive measures including renal support with dialysis, respiratory support with mechanical ventilation or anticoagulation.
 
 Treatment discontinuation for refractory gMG:
-Use of Soliris in refractory gMG treatment has been only studied in the setting of chronic administration.
+Use of Soliris in refractory gMG treatment has been studied only in the setting of chronic administration.
 Patients that discontinue Soliris treatment should be carefully monitored for signs and symptoms of deterioration of disease.
 
 Educational materials

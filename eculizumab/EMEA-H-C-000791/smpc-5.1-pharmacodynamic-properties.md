@@ -17,7 +17,6 @@ Eculizumab preserves the early components of complement activation that are esse
 In PNH patients, uncontrolled terminal complement activation and the resulting complement-mediated intravascular haemolysis are blocked with Soliris treatment.
 In most PNH patients, eculizumab serum concentrations of approximately 35 microgram/mL are sufficient for essentially complete inhibition of terminal complement-mediated intravascular haemolysis.
 In PNH, chronic administration of Soliris resulted in a rapid and sustained reduction in complement-mediated haemolytic activity.
-
 In aHUS patients, uncontrolled terminal complement activation and the resulting complement-mediated thrombotic microangiopathy are blocked with Soliris treatment.
 All patients treated with Soliris when administered as recommended demonstrated rapid and sustained reduction in terminal complement activity.
 In all aHUS patients, eculizumab serum concentrations of approximately 50 - 100 microgram/mL are sufficient for essentially complete inhibition of terminal complement activity.
@@ -36,6 +35,7 @@ Patients received meningococcal vaccination prior to receipt of Soliris.
 In all studies, the dose of eculizumab was 600 mg every 7 ± 2 days for 4 weeks, followed by 900 mg 7 ± 2 days later, then 900 mg every 14 ± 2 days for the study duration.
 Soliris was administered as an intravenous infusion over 25 – 45 minutes.
 An observational non-interventional Registry in patients with PNH (M07-001) was also initiated to characterize the natural history of PNH in untreated patients and the clinical outcomes during Soliris treatment.
+
 In study C04-001 (TRIUMPH) PNH patients with at least 4 transfusions in the prior 12 months, flow cytometric confirmation of at least 10% PNH cells and platelet counts of at least 100,000/microliter were randomized to either Soliris (n = 43) or placebo (n = 44).
 Prior to randomization, all patients underwent an initial observation period to confirm the need for RBC transfusion and to identify the haemoglobin concentration (the "set-point") which would define each patient’s haemoglobin stabilization and transfusion outcomes.
 The haemoglobin set-point was less than or equal to 9 g/dL in patients with symptoms and was less than or equal to 7 g/dL in patients without symptoms.
@@ -52,23 +52,16 @@ Baseline characteristics are shown in Table 2.
 Table 2: Patient Demographics and Characteristics in C04-001 and C04-002
 
 C04-001 C04-002
-Placebo Soliris Soliris
-Parameter N = 44 N = 43 N = 97
+Parameter Placebo N = 44 N = 43 Soliris N = 97 Soliris
 Mean Age (SD) 38.4 (13.4) 42.1 (15.5) 41.1 (14.4)
 Gender - Female (%) 29 (65.9) 23 (53.5) 49 (50.5)
 History of Aplastic Anaemia or MDS (%) 12 (27.3) 8 (18.7) 29 (29.9)
 Concomitant Anticoagulants (%) 20 (45.5) 24 (55.8) 59 (61)
-
-Concomitant Steroids/Immunosuppressant
-
-16 (36.4) 14 (32.6) 46 (47.4)
-
-Treatments (%)
-
+C04-001 C04-002
+Parameter Placebo N = 44 N = 43 Soliris N = 97 Soliris
+Concomitant Steroids/Immunosuppressant Treatments (%) 16 (36.4) 14 (32.6) 46 (47.4)
 Discontinued treatment 10 2 1
-PRBC in previous 12 months (median 18.0 (12.0,
-17.0 (13.5, 25.0) 8.0 (4.0, 24.0)
-(Q1,Q3)) 24.0)
+PRBC in previous 12 months (median (Q1,Q3)) 17.0 (13.5, 25.0) 18.0 (12.0, 24.0) 8.0 (4.0, 24.0)
 Mean Hgb level (g/dL) at setpoint (SD) 7.7 (0.75) 7.8 (0.79) N/A
 Pre-treatment LDH levels (median, U/L) 2,234.5 2,032.0 2,051.0
 Free Haemoglobin at baseline (median, 46.2 40.5 34.9
@@ -83,6 +76,7 @@ Because of the study sample size and duration, the effects of Soliris on thrombo
 In SHEPHERD study, 96 of the 97 enrolled patients completed the study (one patient died following a thrombotic event).
 A reduction in intravascular haemolysis as measured by serum LDH levels was sustained for the treatment period and resulted in increased transfusion avoidance, a reduced need for RBC transfusion and less fatigue.
 See Table 3.
+
 Table 3: Efficacy Outcomes in C04-001 and C04-002
 
 |  | C04-001 |  |  | C04-002* |  |  |
@@ -105,7 +99,6 @@ However, this finding was shown in non-controlled clinical trials.
 
 The PNH registry (M07-001) was used to evaluate the efficacy of Soliris in PNH patients with no history of RBC transfusion.
 These patients had high disease activity as defined by elevated haemolysis (LDH ≥1.5x ULN) and the presence of related clinical symptom(s): fatigue, haemoglobinuria, abdominal pain, shortness of breath (dyspnoea), anaemia (haemoglobin <100 g/L), major adverse vascular event (including thrombosis), dysphagia, or erectile dysfunction.
-
 In the PNH Registry, patients treated with Soliris were observed to have a reduction in haemolysis and associated symptoms.
 At 6 months, patients treated with Soliris with no history of RBC transfusion had significantly (p<0.001) reduced LDH levels (median LDH of 305 U/L; Table 4).
 Furthermore, 74% of the patients without a history of transfusion and treated with Soliris experienced clinically meaningful improvements in FACIT-Fatigue score (i.e., increase by 4 points or more) and 84% in EORTC fatigue score (i.e., decrease by 10 points or more).
@@ -113,8 +106,8 @@ Furthermore, 74% of the patients without a history of transfusion and treated wi
 Table 4: Efficacy Outcomes (LDH level and FACIT-Fatigue) in Patients with PNH with No History of Transfusion in M07-001
 M07-001
 
-Soliris
-Parameter
+Parameter Soliris
+
 No transfusion
 
 LDH level at baseline N=43
@@ -150,6 +143,7 @@ Haematologic normalization was defined as normalization of platelet counts and L
 ≥4 weeks.
 Complete TMA response was defined as haematologic normalization and a ≥25% reduction in serum creatinine sustained in ≥ 2 consecutive measurements for ≥ 4 weeks.
 Baseline characteristics are shown in Table 5.
+
 Table 5: Patient Demographics and Characteristics in C08-002A/B and C08-003A/B
 
 | Parameter | C08-002A/B | C08-003A/B |
