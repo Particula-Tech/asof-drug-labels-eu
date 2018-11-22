@@ -5,6 +5,6 @@ Methylparahydroxybenzoate (E218)
 Phenoxyethanol
 Glycerol
 Titanium dioxide
-Propylene glycol
+Propylene glycol (E1520)
 Sodium hydroxide
 Purified water

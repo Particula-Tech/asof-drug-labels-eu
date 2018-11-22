@@ -13,15 +13,19 @@ Special populations
 
 Elderly patients
 The experience of use of Mirvaso in patients aged above 65 years is limited (see also section 4.8).
+No dose adjustment is necessary.
+
+Hepatic and renal impairment
+Mirvaso has not been studied in patients with hepatic and renal impairment.
 
 Paediatric population
 
 The safety and efficacy of Mirvaso in children and adolescents aged less than 18 years have not been established.
 No data are available.
-
 Mirvaso is contraindicated in children aged less than 2 years because of serious systemic safety risk (see section 4.3).
 Safety concerns related to the systemic absorption of brimonidine have also been identified for the age group 2 to 12 years (see section 4.9).
 Mirvaso should not be used in children or adolescents aged 2 to 18 years.
+
 Method of administration
 
 Cutaneous use only.

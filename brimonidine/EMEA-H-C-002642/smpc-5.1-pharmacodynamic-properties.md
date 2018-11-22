@@ -14,7 +14,6 @@ The efficacy of Mirvaso in the treatment of moderate to severe facial erythema o
 Moderate to severe erythema was defined as a grade 3 or greater on both the Clinician Erythema Assessment (CEA) scale and Patient Self-Assessment (PSA) scale.
 The studies were conducted in 553 randomised subjects aged 18 years and older who were treated once daily for 4 weeks with either Mirvaso or vehicle.
 Of these, 539 completed 29 days of treatment and had data available to be included in the efficacy analysis at Day 29, with the majority being Caucasians between 18 and 65 years of age.
-
 The primary endpoint was expressed in terms of composite success i.e. subjects responding with a 2-grade reduction on both baseline CEA score and baseline PSA score on Day 29.
 The results from both clinical studies demonstrated that Mirvaso was significantly more effective (p<0.001) in the reduction of facial erythema of rosacea than vehicle gel when applied once daily for 29 days (primary endpoint, see Table 2).
 For the population subset of patients with severe erythema at baseline
@@ -67,6 +66,7 @@ The overall frequencies of adverse reactions in this study are reflected in
 Table 1 above, with the highest rates occurring in the first 29 days of use.
 No adverse reactions had an increase in frequency over time, and there was no evidence that long-term use of
 Mirvaso conveyed an increased risk of occurrence of any specific type of adverse reaction.
+
 Concomitant use of Mirvaso with other medicinal products for the treatment of inflammatory lesions of rosacea has not been systematically investigated.
 However, in the long term open label study, the efficacy and safety of Mirvaso, as described above, was not affected by the concomitant use of cosmetics or other medicinal products (e.g. topical metronidazole, topical azelaic acid, and oral tetracyclines including low dose doxycycline) for the treatment of inflammatory lesions of rosacea in the concerned subpopulation (131/449 patients in the study used concomitant rosacea medicinal product).
 

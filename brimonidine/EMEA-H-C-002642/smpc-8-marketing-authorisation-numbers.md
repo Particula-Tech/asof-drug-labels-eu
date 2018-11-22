@@ -1,10 +1,5 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
-Polyethylene (PE)/Aluminium (Al)/ Polyethylene (PE) laminated plastic tubes:
-EU/1/13/904/001
-EU/1/13/904/002
-EU/1/13/904/003
-
 Polyethylene (PE)/Copolymer/Aluminium (Al)/Copolymer/Polyethylene (PE) polyfoil tubes: EU/1/13/904/004
 EU/1/13/904/005
 EU/1/13/904/006
