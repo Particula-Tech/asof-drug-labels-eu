@@ -8,4 +8,4 @@ Kalydeco tablets are also indicated in a combination regimen with tezacaftor 100
 
 [Kalydeco 50 mg granules in sachet]
 
-Kalydeco granules are indicated for the treatment of children with cystic fibrosis (CF) aged 2 years and older and weighing less than 25 kg who have one of the following gating (class III) mutations in the CFTR gene: G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N or S549R (see sections 4.4 and 5.1).
+Kalydeco granules are indicated for the treatment of children with cystic fibrosis (CF) aged 12 months and older and weighing 7 kg to less than 25 kg who have one of the following gating (class III) mutations in the CFTR gene: G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N or S549R (see sections 4.4 and 5.1).

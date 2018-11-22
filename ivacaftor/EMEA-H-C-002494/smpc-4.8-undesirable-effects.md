@@ -25,9 +25,9 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Ear and labyrinth disorders | Ear pain | common |
 |  | Ear discomfort | common |
 |  | Tinnitus | common |
-| System organ class | Adverse reactions | Frequency |
 |  | Tympanic membrane hyperaemia | common |
 |  | Vestibular disorder | common |
+| System organ class | Adverse reactions | Frequency |
 |  | Ear congestion | uncommon |
 | Respiratory, thoracic and mediastinal disorders | Oropharyngeal pain | very common |
 |  | Nasal congestion | very common |
@@ -61,10 +61,11 @@ One patient (0.2%) on therapy and 2 patients (0.4%) on placebo permanently disco
 No patients treated with tezacaftor/ivacaftor discontinued treatment for elevated transaminases.
 
 Paediatric population
-The safety data of ivacaftor monotherapy were evaluated in 34 patients between 2 to less than 6 years of age, 61 patients between 6 to less than 12 years of age and 94 patients between 12 to less than 18 years of age.
+The safety data of ivacaftor monotherapy were evaluated in 19 patients between 12 months to less than 24 months of age, 34 patients between 2 to less than 6 years of age, 61 patients between 6 to less than 12 years of age and 94 patients between 12 to less than 18 years of age.
 The safety data of ivacaftor in combination with tezacaftor/ivacaftor was evaluated in 98 patients between 12 to less than 18 years of age.
 
 The safety profile is generally consistent among children and adolescents and is also consistent with adult patients.
+
 During the 24-week open-label Phase 3 clinical study of ivacaftor monotherapy in 34 patients aged 2 to less than 6 years (study 7), the incidence of patients experiencing transaminase elevations (ALT or AST) >3 x ULN was 14.7% (5/34).
 All 5 patients had maximum ALT or AST levels >8 x ULN, which returned to baseline levels following interruption of dosing with ivacaftor granules.
 Ivacaftor was permanently discontinued in one patient.
@@ -73,6 +74,11 @@ A single ivacaftor-treated patient (2.5%) in this age range had an elevation of 
 Peak LFT (ALT or AST) elevations were generally higher in paediatric patients than in older patients.
 In almost all instances where dosing was interrupted for elevated transaminases and subsequently resumed, ivacaftor dosing was able to be resumed successfully (see section 4.4).
 Cases suggestive of positive rechallenge were observed.
+
+During the 24-week, open-label, Phase 3 clinical study in patients aged 12 months to less than 24 months (Study 8), the incidence of patients experiencing transaminase elevations (ALT or AST) >3, >5, and >8 x ULN was 27.8% (5/18), 11.1% (2/18) and 11.1% (2/18), respectively.
+No patients had elevations in total bilirubin.
+No patients discontinued ivacaftor treatment due to transaminase elevations.
+The two patients with elevations of ALT or AST >8 x ULN interrupted treatment and subsequently resumed ivacaftor successfully (see section 4.4 for management of elevated transaminases).
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
@@ -83,7 +89,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 Table 2 reflects the adverse reactions observed with ivacaftor in clinical trials (placebo-controlled and uncontrolled studies) in which the length of exposure to ivacaftor ranged from 16 weeks to 144 weeks.
 
-| Table 2. Adverse reactions in ivacaftor-treated patients aged 2 years and older |  |  |
+| Table 2. Adverse reactions in ivacaftor-treated patients aged 12 months and older |  |  |
 | --- | --- | --- |
 | System organ class | Adverse reactions | Frequency |
 | Infections and infestations | Upper respiratory tract infection | very common |
@@ -108,8 +114,8 @@ Table 2 reflects the adverse reactions observed with ivacaftor in clinical trial
 | Reproductive system and breast disorders | Breast mass | common |
 |  | Breast inflammation | uncommon |
 |  | Gynaecomastia | uncommon |
-|  | Nipple disorder | uncommon |
 | System organ class | Adverse reactions | Frequency |
+|  | Nipple disorder | uncommon |
 |  | Nipple pain | uncommon |
 | Investigations | Bacteria in sputum | very common |
 
@@ -118,7 +124,8 @@ Two patients, one on placebo and one on ivacaftor, permanently discontinued trea
 No ivacaftor-treated patients experienced a transaminase elevation
 >3 x ULN associated with elevated total bilirubin >1.5 x ULN.
 
-The safety data of ivacaftor were evaluated in 34 patients between 2 to less than 6 years of age,
-61 patients between 6 to less than 12 years of age and 94 patients between 12 to less than 18 years of age.
+The safety data of ivacaftor were evaluated in 19 patients between 12 months to less than 24 months of age, 34 patients between 2 to less than 6 years of age, 61 patients between 6 to less than 12 years of age and 94 patients between 12 to less than 18 years of age.
 
 During the 24-week open-label Phase 3 clinical study of ivacaftor in 34 patients aged 2 to less than 6 years (study 7), the incidence of patients experiencing transaminase elevations (ALT or AST) >3 x ULN was 14.7% (5/34).
+
+During the 24-week, open-label, Phase 3 clinical study of ivacaftor in patients aged 12 months to less than 24 months (Study 8), the incidence of patients experiencing transaminase elevations (ALT or AST) >3, >5, and >8 x ULN was 27.8% (5/18), 11.1% (2/18) and 11.1% (2/18), respectively.
