@@ -38,10 +38,10 @@ Gastrointestinal disorders
 Common: constipation, vomiting, nausea.
 Uncommon: abdominal pain, dry mouth, dyspepsia, flatulence, stomach discomfort.
 Rare: pancreatitis, erosive duodenitis, oral hypoaesthesia.
-
 Skin and subcutaneous tissue disorders
 Uncommon: pruritus, hyperhydrosis.
 Rare: angioedema, allergic dermatitis, urticaria, cold sweat, rash.
+
 Musculoskeletal and connective tissue disorders
 Uncommon: pain in extremity, muscle cramp, joint swelling, muscular weakness.
 
@@ -76,7 +76,6 @@ In patients with mild or moderate renal impairment (creatinine clearance ≥ 30�
 
 In general, the type and frequency of adverse events reported in patients with low body weight
 (≤ 60 kg) were similar to those of patients with higher weight (> 60 kg); however, the placebo-corrected frequencies of the following common adverse events were higher in low body weight than heavier patients: nausea (14% versus 2%), vomiting (6% versus 1%), and hypotension (4% versus 2%).
-
 Laboratory findings: Small, clinically insignificant, reversible elevations in serum creatinine levels have been observed in healthy subjects and patients treated with Ranexa.
 There was no renal toxicity related to these findings.
 A renal function study in healthy volunteers demonstrated a reduction in creatinine clearance with no change in glomerular filtration rate consistent with inhibition of renal tubular secretion of creatinine.

@@ -19,7 +19,8 @@ The above precautions are based on the risk in a CYP2D6 PM patient, and are need
 There is a lower need for precautions in patients with CYP2D6 EM status.
 If the CYP2D6 status of the patient has been determined (e.g. by genotyping) or is previously known to be EM, Ranexa can be used with caution in these patients when they have a combination of several of the above risk factors.
 
-QT prolongation: A population-based analysis of combined data from patients and healthy volunteers demonstrated that the slope of the plasma concentration-QTc relationship was estimated to be 2.4 msec per 1000 ng/ml, which is approximately equal to a 2- to 7-msec increase over the plasma concentration range for ranolazine 500 to 1000 mg twice daily.
+QT prolongation: Ranolazine blocks IKr and prolongs the QTc interval in a dose-related manner.
+A population-based analysis of combined data from patients and healthy volunteers demonstrated that the slope of the plasma concentration-QTc relationship was estimated to be 2.4 msec per 1000 ng/ml, which is approximately equal to a 2- to 7-msec increase over the plasma concentration range for ranolazine 500 to 1000 mg twice daily.
 Therefore, caution should be observed when treating patients with a history of congenital or a family history of long QT syndrome, in patients with known acquired QT interval prolongation, and in patients treated with drugs affecting the QTc interval (see section 4.5 also).
 
 Drug-drug interactions: Co-administration with CYP3A4 inducers is expected to lead to lack of efficacy.
