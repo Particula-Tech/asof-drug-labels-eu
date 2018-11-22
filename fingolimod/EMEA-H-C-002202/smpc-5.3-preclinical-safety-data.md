@@ -18,9 +18,14 @@ Drug exposure in rabbits at these doses was similar to that in patients.
 
 In rats, F1 generation pup survival was decreased in the early postpartum period at doses that did not cause maternal toxicity.
 However, F1 body weights, development, behaviour, and fertility were not affected by treatment with fingolimod.
-
 Fingolimod was excreted in milk of treated animals during lactation at concentrations 2-fold to 3-fold higher than that found in maternal plasma.
 Fingolimod and its metabolites crossed the placental barrier in pregnant rabbits.
 
+Juvenile animal studies
+
+Results from two toxicity studies in juvenile rats showed slight effects on neurobehavioural response, delayed sexual maturation and a decreased immune response to repeated stimulations with keyhole limpet haemocyanin (KLH), which were not considered adverse.
+Overall, the treatment-related effects of fingolimod in juvenile animals were comparable to those seen in adult rats at similar dose levels, with the exception of changes in bone mineral density and neurobehavioural impairment (reduced auditory startle response) observed at doses of 1.5 mg/kg and higher in juvenile animals and the absence of smooth muscle hypertrophy in the lungs of the juvenile rats.
+
 Environmental Risk Assessment (ERA)
+
 A risk for the environment due to use of Gilenya by patients with relapsing multiple sclerosis is not expected.

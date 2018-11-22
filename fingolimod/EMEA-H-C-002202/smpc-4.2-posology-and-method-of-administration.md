@@ -3,8 +3,21 @@
 The treatment should be initiated and supervised by a physician experienced in multiple sclerosis.
 
 Posology
-The recommended dose of Gilenya is one 0.5 mg capsule taken orally once daily.
+
+In adults, the recommended dose of Gilenya is one 0.5 mg capsule taken orally once daily.
+
+In paediatric patients (10 years of age and above), the recommended dose is dependent on body weight:
+
+- Paediatric patients with body weight ≤40 kg: one 0.25 mg capsule taken orally once daily.
+- Paediatric patients with body weight >40 kg: one 0.5 mg capsule taken orally once daily.
+
+Paediatric patients who start on 0.25 mg capsules and subsequently reach a stable body weight above 40 kg should be switched to 0.5 mg capsules.
+
+When switching from a 0.25 mg to a 0.5 mg daily dose, it is recommended to repeat the same first dose monitoring as for treatment initiation.
+
 Gilenya can be taken with or without food.
+
+The capsules should always be swallowed intact, without opening them.
 
 The same first dose monitoring as for treatment initiation is recommended when treatment is interrupted for:
 
@@ -13,7 +26,9 @@ The same first dose monitoring as for treatment initiation is recommended when t
 - more than 2 weeks after one month of treatment.
 
 If the treatment interruption is of shorter duration than the above, the treatment should be continued with the next dose as planned (see section 4.4).
+
 Special populations
+
 Elderly population
 Gilenya should be used with caution in patients aged 65 years and over due to insufficient data on safety and efficacy (see section 5.2).
 
@@ -29,7 +44,12 @@ Diabetic patients
 Gilenya has not been studied in multiple sclerosis patients with concomitant diabetes mellitus.
 Gilenya should be used with caution in these patients due to a potential increase in the risk of macular oedema (see sections 4.4 and 4.8).
 Regular ophthalmological examinations should be conducted in these patients to detect macular oedema.
-
 Paediatric population
-The safety and efficacy of Gilenya in children aged 0 to 18 years have not yet been established.
-Currently available data are described in section 5.2 but no recommendation on a posology can be made.
+The safety and efficacy of Gilenya in children aged below 10 years have not yet been established.
+No data are available.
+
+There are very limited data available in children between 10–12 years old (see sections 4.4, 4.8 and 5.1).
+
+Method of administration
+
+This medicinal product is for oral use.

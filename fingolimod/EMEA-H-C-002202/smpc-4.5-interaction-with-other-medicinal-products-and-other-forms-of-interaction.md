@@ -1,21 +1,25 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Anti-neoplastic, immunomodulatory or immunosuppressive therapies
+
 Anti-neoplastic, immunomodulatory or immunosuppressive therapies should not be co-administered due to the risk of additive immune system effects (see sections 4.3 and 4.4).
 
 Caution should also be exercised when switching patients from long-acting therapies with immune effects such as natalizumab, teriflunomide or mitoxantrone (see section 4.4).
 In multiple sclerosis clinical studies the concomitant treatment of relapses with a short course of corticosteroids was not associated with an increased rate of infection.
+
 Vaccination
+
 During and for up to two months after treatment with Gilenya vaccination may be less effective.
 The use of live attenuated vaccines may carry a risk of infections and should therefore be avoided (see sections 4.4 and 4.8).
 
 Bradycardia-inducing substances
+
 Fingolimod has been studied in combination with atenolol and diltiazem.
 When fingolimod was used with atenolol in an interaction study in healthy volunteers, there was an additional 15% reduction of heart rate at fingolimod treatment initiation, an effect not seen with diltiazem.
 Treatment with Gilenya should not be initiated in patients receiving beta blockers, or other substances which may decrease heart rate, such as class Ia and III antiarrhythmics, calcium channel blockers (such as verapamil or diltiazem), ivabradine, digoxin, anticholinesteratic agents or pilocarpine because of the potential additive effects on heart rate (see sections 4.4 and 4.8).
 If treatment with Gilenya is considered in such patients, advice from a cardiologist should be sought regarding the switch to non heart-rate lowering medicinal products or appropriate monitoring for treatment initiation, at least overnight monitoring is recommended, if the heart-rate-lowering medication cannot be stopped.
-
 Pharmacokinetic interactions of other substances on fingolimod
+
 Fingolimod is metabolised mainly by CYP4F2.
 Other enzymes like CYP3A4 may also contribute to its metabolism, notably in the case of strong induction of CYP3A4.
 Potent inhibitors of transporter proteins are not expected to influence fingolimod disposition.
@@ -28,6 +32,7 @@ As this could potentially impair the efficacy, their co-administration should be
 Concomitant administration with St. John’s Wort is however not recommended (see section 4.4).
 
 Pharmacokinetic interactions of fingolimod on other substances
+
 Fingolimod is unlikely to interact with substances mainly cleared by the CYP450 enzymes or by substrates of the main transporter proteins.
 
 Co-administration of fingolimod with ciclosporin did not elicit any change in the ciclosporin or fingolimod exposure.

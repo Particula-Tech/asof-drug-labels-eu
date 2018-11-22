@@ -1,6 +1,6 @@
 # 4.1 Therapeutic indications
 
-Gilenya is indicated as single disease modifying therapy in highly active relapsing remitting multiple sclerosis for the following adult patient groups:
+Gilenya is indicated as single disease modifying therapy in highly active relapsing remitting multiple sclerosis for the following groups of adult patients and paediatric patients aged 10 years and older:
 
 - Patients with highly active disease despite a full and adequate course of treatment with at least one disease modifying therapy (for exceptions and information about washout periods see sections 4.4 and 5.1).
 

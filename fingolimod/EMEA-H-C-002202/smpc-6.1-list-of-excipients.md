@@ -1,22 +1,42 @@
 # 6.1 List of excipients
 
-Capsule core:
-Magnesium stearate
+Gilenya 0.25 mg hard capsules
+
+Capsule fill
 Mannitol
+Hydroxypropylcellulose
+Hydroxypropylbetadex
+Magnesium stearate
 
-Capsule shell:
-Yellow iron oxide (E172)
-Titanium dioxide (E171)
+Capsule shell
 Gelatin
+Titanium dioxide (E171)
+Yellow iron oxide (E172)
 
-Printing ink:
+Printing ink
 Shellac (E904)
-Dehydrated alcohol
+Iron oxide black (E172)
+Propylene glycol (E1520)
+Ammonia solution, concentrated(E527)
+
+Gilenya 0.5 mg hard capsules
+
+Capsule fill
+Mannitol
+Magnesium stearate
+
+Capsule shell
+Gelatin
+Titanium dioxide (E171)
+Yellow iron oxide (E172)
+Printing ink
+Shellac (E904)
+Ethanol, anhydrous
 Isopropyl alcohol
 Butyl alcohol
-Propylene glycol
+Propylene glycol (E1520)
 Purified water
-Strong ammonia solution
+Ammonia solution, concentrated (E527)
 Potassium hydroxide
 Black iron oxide (E172)
 Yellow iron oxide (E172)

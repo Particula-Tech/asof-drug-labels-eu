@@ -3,14 +3,15 @@
 Pharmacotherapeutic group: Selective immunosuppressants, ATC code: L04AA27
 
 Mechanism of action
+
 Fingolimod is a sphingosine 1-phosphate receptor modulator.
 Fingolimod is metabolised by sphingosine kinase to the active metabolite fingolimod phosphate.
 Fingolimod phosphate binds at low nanomolar concentrations to sphingosine 1-phosphate (S1P) receptor 1 located on lymphocytes, and readily crosses the blood-brain barrier to bind to S1P receptor 1 located on neural cells in the central nervous system (CNS).
 By acting as a functional antagonist of S1P receptors on lymphocytes, fingolimod phosphate blocks the capacity of lymphocytes to egress from lymph nodes, causing a redistribution, rather than depletion, of lymphocytes.
 Animal studies have shown that this redistribution reduces the infiltration of pathogenic lymphocytes, including pro-inflammatory Th17 cells, into the CNS, where they would be involved in nerve inflammation and nervous tissue damage.
 Animal studies and in vitro experiments indicate that fingolimod may also act via interaction with S1P receptors on neural cells.
-
 Pharmacodynamic effects
+
 Within 4-6 hours after the first dose of fingolimod 0.5 mg, the lymphocyte count decreases to approximately 75% of baseline in peripheral blood.
 With continued daily dosing, the lymphocyte count continues to decrease over a two-week period, reaching a minimal count of approximately 500 cells/microlitre or approximately 30% of baseline.
 Eighteen percent of patients reached a minimal count below 200 cells/microlitre on at least one occasion.
@@ -31,22 +32,28 @@ With initiation of fingolimod treatment there is an increase in atrial premature
 Fingolimod treatment is not associated with a decrease in cardiac output.
 Autonomic responses of the heart, including diurnal variation of heart rate and response to exercise are not affected by fingolimod treatment.
 
+S1P4 could partially contribute to the effect but was not the main receptor responsible for the lymphoid depletion.
+The mechanism of action of bradycardia and vasoconstriction were also studied in vitro in guinea pigs and isolated rabbit aorta and coronary artery.
+It was concluded that bradycardia could be mediated primarily by activation of inward-rectifying potassium channel or G-protein activated inwardly rectifying K+ channel (IKACh/GIRK) and that vasoconstriction seems to be mediated by a Rho kinase and calcium dependent mechanism.
+
 Fingolimod treatment with single or multiple doses of 0.5 and 1.25 mg for two weeks is not associated with a detectable increase in airway resistance as measured by FEV1 and forced expiratory flow rate (FEF) 25-75.
 However, single fingolimod doses ≥5 mg (10-fold the recommended dose) are associated with a dose-dependent increase in airway resistance.
 Fingolimod treatment with multiple doses of 0.5, 1.25, or 5 mg is not associated with impaired oxygenation or oxygen desaturation with exercise or an increase in airway responsiveness to methacholine.
 Subjects on fingolimod treatment have a normal bronchodilator response to inhaled beta-agonists.
-Clinical efficacy and safety
-The efficacy of Gilenya has been demonstrated in two studies which evaluated once-daily doses of fingolimod 0.5 mg and 1.25 mg in patients with relapsing-remitting multiple sclerosis (RRMS).
-Both studies included patients who had experienced ≥2 relapses in the prior 2 years or ≥1 relapse during the prior year.
-Expanded Disability Status Score (EDSS) was between 0 and 5.5.
-A third study targeting the same patient population was completed after registration of Gilenya.
 
+Clinical efficacy and safety
+
+The efficacy of Gilenya has been demonstrated in two studies which evaluated once-daily doses of fingolimod 0.5 mg and 1.25 mg in adult patients with relapsing-remitting multiple sclerosis (RRMS).
+Both studies included adult patients who had experienced ≥2 relapses in the prior 2 years or
+≥1 relapse during the prior year.
+Expanded Disability Status Score (EDSS) was between 0 and 5.5.
+A third study targeting the same adult patient population was completed after registration of Gilenya.
 Study D2301 (FREEDOMS) was a 2-year randomised, double-blind, placebo-controlled Phase III study of 1,272 patients (n=425 on 0.5 mg, 429 on 1.25 mg, 418 on placebo).
 Median values for baseline characteristics were: age 37 years, disease duration 6.7 years, and EDSS score 2.0.
 Outcome results are shown in Table 1.
 There were no significant differences between the 0.5 mg and the 1.25 mg doses as regards either endpoint.
 
-Table 1: Study D2301 (FREEDOMS): Main results
+Table 1 Study D2301 (FREEDOMS): main results
 
 |  | Fingolimod 0.5 mg | Placebo |
 | --- | --- | --- |
@@ -56,7 +63,7 @@ Table 1: Study D2301 (FREEDOMS): Main results
 | Proportion with 3-month Confirmed Disability Progression† Hazard ratio (95% CI) | 17% 0.70 (0.52, 0.96)* | 24% |
 | MRI endpoints |  |  |
 | Median (mean) number of new or enlarging T2 lesions over 24 months | 0.0 (2.5)** | 5.0 (9.8) |
-| Median (mean) number of Gd-enhancing lesions at Month 24 | 0.0 (0.2)** | 0.0 (1.1) |
+| Median (mean) number of Gd-enhancing lesions at month 24 | 0.0 (0.2)** | 0.0 (1.1) |
 | Median (mean) % change in brain volume over 24 months | -0.7 (-0.8)** | -1.0 (-1.3) |
 | † Disability progression defined as 1-point increase in EDSS confirmed 3 months later ** p<0.001, *p<0.05 compared to placebo All analyses of clinical endpoints were intent-to-treat. MRI analyses used evaluable dataset. |  |  |
 
@@ -65,10 +72,10 @@ In total, 920 patients entered (n=331 continued on 0.5 mg, 289 continued on 1.25
 After 12 months (month 36), 856 patients (93%) were still enrolled.
 Between months 24 and 36, the annualised relapse rate (ARR) for patients on fingolimod 0.5 mg in the core study who remained on 0.5 mg was 0.17 (0.21 in the core study).
 The ARR for patients who switched from placebo to fingolimod 0.5 mg was 0.22 (0.42 in the core study).
-
 Comparable results were shown in a replicate 2-year randomised, double-blind, placebo-controlled Phase III study on fingolimod in 1,083 patients (n=358 on 0.5 mg, 370 on 1.25 mg, 355 on placebo) with RRMS (D2309; FREEDOMS 2).
 Median values for baseline characteristics were: age 41 years, disease duration 8.9 years, EDSS score 2.5.
-Table 2: Study D2309 (FREEDOMS 2): Main results
+
+Table 2 Study D2309 (FREEDOMS 2): main results
 
 |  | Fingolimod 0.5 mg | Placebo |
 | --- | --- | --- |
@@ -78,7 +85,7 @@ Table 2: Study D2309 (FREEDOMS 2): Main results
 | Proportion with 3-month Confirmed Disability Progression† Hazard ratio (95% CI) | 25% 0.83 (0.61, 1.12) | 29% |
 | MRI endpoints |  |  |
 | Median (mean) number of new or enlarging T2 lesions over 24 months | 0.0 (2.3)** | 4.0 (8.9) |
-| Median (mean) number of Gd-enhancing lesions at Month 24 | 0.0 (0.4)** | 0.0 (1.2) |
+| Median (mean) number of Gd-enhancing lesions at month 24 | 0.0 (0.4)** | 0.0 (1.2) |
 | Median (mean) % change in brain volume over 24 months | -0.71 (-0.86)** | -1.02 (-1.28) |
 | † Disability progression defined as 1-point increase in EDSS confirmed 3 months later ** p<0.001 compared to placebo All analyses of clinical endpoints were intent-to-treat. MRI analyses used evaluable dataset. |  |  |
 
@@ -87,7 +94,7 @@ Median values for baseline characteristics were: age 36 years, disease duration 
 Outcome results are shown in Table 3.
 There were no significant differences between the 0.5 mg and the 1.25 mg doses as regards study endpoints.
 
-Table 3: Study D2302 (TRANSFORMS): Main results
+Table 3 Study D2302 (TRANSFORMS): main results
 
 |  | Fingolimod 0.5 mg | Interferon beta-1a, 30 μg |
 | --- | --- | --- |
@@ -110,5 +117,30 @@ The ARR for patients who switched from interferon beta-1a to fingolimod 0.5 mg w
 Pooled results of Studies D2301 and D2302 showed a consistent and statistically significant reduction in annualised relapse rate compared to comparator in subgroups defined by gender, age, prior multiple sclerosis therapy, disease activity or disability levels at baseline.
 
 Further analyses of clinical trial data demonstrate consistent treatment effects in highly active subgroups of relapsing remitting multiple sclerosis patients.
+Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Gilenya in one or more subsets of the paediatric population in multiple sclerosis (see section 4.2 for information on paediatric use).
+The efficacy and safety of once-daily doses of fingolimod 0.25 mg or 0.5 mg (dose selected based on body weight and exposure measurements) have been established in paediatric patients aged 10 to
+<18 years with relapsing-remitting multiple sclerosis.
+
+Study D2311 (PARADIGMS) was a double-blind, double-dummy, active-controlled study with flexible duration up to 24 months, with 215 patients 10 to <18 years old (n=107 on fingolimod, 108 on interferon beta-1a 30 µg by intramuscular injection once weekly).
+
+Median values for baseline characteristics were: age 16 years, median disease duration 1.5 years and EDSS score 1.5.
+The majority of patients were Tanner stage 2 or higher (94.4%) and were >40 kg (95.3%).
+Overall, 180 (84%) of patients completed the core phase on study drug (n=99 [92.5%] on fingolimod, 81 [75%] on interferon beta-1a).
+Outcome results are shown in Table 4.
+
+Table 4 Study D2311 (PARADIGMS): main results
+
+|  | Fingolimod 0.25 mg or 0.5 mg | Interferon beta-1a 30 µg |
+| --- | --- | --- |
+| Clinical endpoints | N=107 | N=107# |
+| Annualised relapse rate (primary endpoint) | 0.122** | 0.675 |
+| Percentage of patients remaining relapse-free at 24 months | 85.7** | 38.8 |
+| MRI endpoints |  |  |
+| Annualised rate of the number of new or newly enlarging T2 lesions | n=106 | n=102 |
+| Adjusted mean | 4.393** | 9.269 |
+| Number of Gd-enhancing T1 lesions per scan up to month 24 | n=105 | n=95 |
+| Adjusted mean | 0.436** | 1.282 |
+| Annualised rate of brain atrophy from baseline up to month 24 | n=96 | n=89 |
+| Least Square Mean | -0.48* | -0.80 |
+| # One patient randomised to receive interferon beta-1a by intramuscular injection was unable to swallow the double-dummy medication and discontinued from study. The patient was excluded from the full analysis and safety set. * p<0.05, ** p<0.001, compared to interferon beta-1a. All analyses of clinical endpoints were on the full analysis set. |  |  |
