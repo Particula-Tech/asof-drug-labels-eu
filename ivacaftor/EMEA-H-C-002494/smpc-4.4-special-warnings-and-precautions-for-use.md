@@ -1,6 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
 Only patients with CF who had a G551D, G1244E, G1349D, G178R, G551S, G970R, S1251N, S1255P, S549N, S549R gating (class III) or an R117H mutation in at least one allele of the CFTR gene were included in studies 1, 2, 5 and 6 (see section 5.1).
+
 In study 5, four patients with the G970R mutation were included.
 In three of four patients the change in the sweat chloride test was <5 mmol/L and this group did not demonstrate a clinically relevant improvement in FEV1 after 8 weeks of treatment.
 Clinical efficacy in patients with the G970R mutation of the CFTR gene could not be established (see section 5.1).
@@ -38,6 +39,7 @@ Interactions with medicinal products
 CYP3A inducers
 Exposure to ivacaftor may be reduced by the concomitant use of CYP3A inducers, potentially resulting in the loss of ivacaftor efficacy.
 Therefore, co-administration of Kalydeco (monotherapy or in combination with tezacaftor/ivacaftor) with strong CYP3A inducers is not recommended (see section 4.5).
+
 CYP3A inhibitors
 The dose of Kalydeco (monotherapy or in combination with tezacaftor/ivacaftor) must be adjusted when used concomitantly with strong or moderate CYP3A inhibitors (see sections 4.2 and 4.5).
 
@@ -58,7 +60,6 @@ This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say 
 Only patients with CF who had a G551D, G1244E, G1349D, G178R, G551S, G970R, S1251N, S1255P, S549N or S549R gating (class III) mutation in at least one allele of the CFTR gene were included in studies 1, 2, 5 and 7 (see section 5.1).
 
 Moderate transaminase (alanine transaminase [ALT] or aspartate transaminase [AST]) elevations are common in subjects with CF. Transaminase elevations have been observed in some patients treated with ivacaftor monotherapy.
-
 Use of ivacaftor is not recommended in patients with severe hepatic impairment unless the benefits are expected to outweigh the risks (see sections 4.2 and 5.2).
 
 Caution is recommended while using ivacaftor in patients with severe renal impairment or end-stage renal disease (see sections 4.2 and 5.2).
@@ -66,7 +67,7 @@ Caution is recommended while using ivacaftor in patients with severe renal impai
 Ivacaftor has not been studied in patients with CF who have undergone organ transplantation.
 
 Therefore, co-administration of Kalydeco with strong CYP3A inducers is not recommended (see section 4.5).
-The dose of Kalydeco must be adjusted when used concomitantly with strong or moderate CYP3A inhibitors (see sections 4.2 and 4.5).
 
+The dose of Kalydeco must be adjusted when used concomitantly with strong or moderate CYP3A inhibitors (see sections 4.2 and 4.5).
 Cases of non-congenital lens opacities without impact on vision have been reported in paediatric patients treated with ivacaftor.
 Baseline and follow-up ophthalmological examinations are recommended in paediatric patients initiating ivacaftor treatment.

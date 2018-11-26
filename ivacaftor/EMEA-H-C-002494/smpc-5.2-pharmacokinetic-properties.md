@@ -38,7 +38,6 @@ The major metabolites M1 and M6 accounted for approximately 65% of the total dos
 There was negligible urinary excretion of ivacaftor as unchanged parent.
 The apparent terminal half-life was approximately 12 hours following a single dose in the fed state.
 The apparent clearance (CL/F) of ivacaftor was similar for healthy subjects and patients with CF. The mean (±SD) CL/F for a single 150 mg dose was 17.3 (8.4) L/hr in healthy subjects.
-
 After oral administration of ivacaftor 150 mg every 12 hours in combination with tezacaftor 100 mg once daily in patients with CF in the fed state, the mean (±SD) for apparent clearance of ivacaftor was 15.7 (6.38) L/h.
 After steady-state dosing of ivacaftor in combination with tezacaftor in CF patients, the mean (SD) terminal half-life of ivacaftor was approximately 9.3 (1.7) hours.
 
@@ -70,6 +69,7 @@ Caution is recommended when administering ivacaftor, either as monotherapy or in
 
 Race
 Race had no clinically meaningful effect on the PK of ivacaftor in white (n=379) and non-white (n=29) patients based on a population PK analysis.
+
 Gender
 The pharmacokinetic parameters of ivacaftor, either as monotherapy or in combination with tezacaftor, are similar in males and females.
 
@@ -80,19 +80,17 @@ The pharmacokinetic parameters of ivacaftor in combination with tezacaftor in th
 
 Paediatric population
 Predicted ivacaftor exposure based on observed ivacaftor concentrations in Phase 2 and 3 studies as determined using population PK analysis is presented by age group in Table 7.
+Exposures in 6- to 11-year-olds are predictions based on simulations from the population PK model using data obtained for this age group.
 
 | Table 7. Mean (SD) ivacaftor exposure by age group |  |  |  |
 | --- | --- | --- | --- |
 | Age group | Dose | Cmin, ss (ng/mL) | AUCτ, ss (ng.h/mL) |
-| 12 months to less than 24 months (7 kg to <14 kg) | 50 mg q12h | 440 (212) | 9050 (3050) |
-| 12 months to less than 24 months (≥14 kg to <25 kg) | 75 mg q12h | 451 (125) | 9600 (1800) |
 | 2- to 5-year-olds (<14 kg) | 50 mg q12h | 577 (317) | 10500 (4260) |
 | 2- to 5-year-olds (≥14 kg to <25 kg) | 75 mg q12h | 629 (296) | 11300 (3820) |
-| 6- to 11-year-olds * (≥14 kg to <25 kg) | 75 mg q12h | 641 (329) | 10760 (4470) |
-| 6- to 11-year-olds * (≥25 kg) | 150 mg q12h | 958 (546) | 15300 (7340) |
+| 6- to 11-year-olds (≥14 kg to <25 kg) | 75 mg q12h | 641 (329) | 10760 (4470) |
+| 6- to 11-year-olds (≥25 kg) | 150 mg q12h | 958 (546) | 15300 (7340) |
 | 12- to 17-year-olds | 150 mg q12h | 564 (242) | 9240 (3420) |
 | Adults (≥18 years old) | 150 mg q12h | 701 (317) | 10700 (4100) |
-| * Exposures in 6- to 11-year-olds are predictions based on simulations from the population PK model using data obtained for this age group. |  |  |  |
 
 The pharmacokinetic parameters of ivacaftor in combination with tezacaftor in adolescent patients (12 to 17 year-olds) are comparable to those in adults (see Table 8).
 
@@ -104,12 +102,13 @@ The pharmacokinetic parameters of ivacaftor in combination with tezacaftor in ad
 
 [Kalydeco 50 mg granules in sachet]
 
+The pharmacokinetics of ivacaftor are similar between healthy adult volunteers and patients with CF. After oral administration of a single 150 mg dose to healthy volunteers in a fed state, the mean (±SD) for AUC and Cmax were 10600 (5260) ng*hr/mL and 768 (233) ng/mL, respectively.
+
 Ivacaftor should be administered with fat-containing food.
 
 After oral administration of ivacaftor 150 mg every 12 hours for 7 days in healthy volunteers in a fed state, the mean (±SD) apparent volume of distribution was 353 (122) L.
 
 Based on these results, a modified regimen of Kalydeco monotherapy is recommended for patients with moderate hepatic impairment (see section 4.2)
-
 The impact of severe hepatic impairment (Child Pugh Class C, score 10 to15) on the pharmacokinetics of ivacaftor have not been studied.
 The use of Kalydeco in patients with severe hepatic impairment is therefore not recommended unless the benefits outweigh the risks (see section 4.2 and section 4.4).
 
@@ -124,13 +123,9 @@ Predicted ivacaftor exposure based on observed ivacaftor concentrations in Phase
 | Table 6. Mean (SD) ivacaftor exposure by age group |  |  |  |
 | --- | --- | --- | --- |
 | Age group | Dose | Cmin, ss (ng/mL) | AUCτ,ss (ng.h/mL) |
-| 12 months to less than 24 months (7 kg to <14 kg) | 50 mg q12h | 440 (212) | 9050 (3050) |
-| 12 months to less than 24 months (≥14 kg to <25 kg) | 75 mg q12h | 451 (125) | 9600 (1800) |
 | 2- to 5-year-olds (<14 kg) | 50 mg q12h | 577 (317) | 10500 (4260) |
 | 2- to 5-year-olds (≥14 kg to <25 kg) | 75 mg q12h | 629 (296) | 11300 (3820) |
-| 6- to 11-year-olds * | 75 mg q12h | 641 (329) | 10760 (4470) |
-| (≥14 kg to <25 kg) |  |  |  |
-| 6- to 11-year-olds * (≥25 kg) | 150 mg q12h | 958 (546) | 15300 (7340) |
+| 6- to 11-year-olds (≥14 kg to <25 kg) | 75 mg q12h | 641 (329) | 10760 (4470) |
+| 6- to 11-year-olds (≥25 kg) | 150 mg q12h | 958 (546) | 15300 (7340) |
 | 12- to 17-year-olds | 150 mg q12h | 564 (242) | 9240 (3420) |
 | Adults (≥18 years old) | 150 mg q12h | 701 (317) | 10700 (4100) |
-| * Exposures in 6- to 11-year-olds are predictions based on simulations from the population PK model using data obtained for this age group. |  |  |  |

@@ -20,7 +20,6 @@ A reduction of the Kalydeco dose (as monotherapy or in a combination regimen wit
 
 Co-administration with fluconazole, a moderate inhibitor of CYP3A, increased ivacaftor exposure by 3-fold and increased M1 to a lesser extent than ivacaftor.
 A reduction of the Kalydeco dose (as monotherapy or in a combination regimen with tezacaftor/ivacaftor) is recommended for patients taking concomitant moderate CYP3A inhibitors, such as fluconazole and erythromycin (see sections 4.2 and 4.4).
-
 Co-administration of ivacaftor with grapefruit juice, which contains one or more components that moderately inhibit CYP3A, may increase exposure to ivacaftor.
 Food or drink containing grapefruit or Seville oranges should be avoided during treatment with Kalydeco (as monotherapy or in a combination regimen with tezacaftor/ivacaftor, see section 4.2).
 

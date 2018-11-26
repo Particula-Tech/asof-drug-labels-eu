@@ -50,7 +50,6 @@ The treatment difference between ivacaftor and placebo for the mean absolute cha
 The treatment difference between ivacaftor and placebo for the mean relative change (95% CI) in percent predicted FEV1 from baseline through Week 24 was 17.1% (13.9, 20.2) in study 1 and 15.8% (8.4, 23.2) in study 2.
 The mean change from baseline through Week 24 in FEV1 (L) was 0.37 L in the ivacaftor group and 0.01 L in the placebo group in study 1 and 0.30 L in the ivacaftor group and 0.07 L in the placebo group in study 2.
 In both studies, improvements in FEV1 were rapid in onset (Day 15) and durable through 48 weeks.
-
 The treatment difference between ivacaftor and placebo for the mean absolute change (95% CI) in percent predicted FEV1 from baseline through Week 24 in patients 12 to 17 years of age in study 1 was 11.9 percentage points (5.9, 17.9).
 The treatment difference between ivacaftor and placebo for the mean absolute change (95% CI) in percent predicted FEV1 from baseline through Week 24 in patients with baseline predicted FEV1 greater than 90% in study 2 was 6.9 percentage points (-3.8, 17.6).
 
@@ -80,6 +79,7 @@ The results for clinically relevant secondary endpoints are shown in Table 4.
 Study 5: study in patients with CF with non-G551D gating mutations
 Study 5 was a Phase 3, two-part, randomised, double-blind, placebo-controlled, crossover study
 (part 1) followed by a 16-week open-label extension period (part 2) to evaluate the efficacy and safety of ivacaftor in patients with CF aged 6 years and older who have a non-G551D gating mutation in the CFTR gene (G178R, S549N, S549R, G551S, G970R, G1244E, S1251N, S1255P or G1349D).
+
 In part 1, patients were randomised 1:1 to receive either 150 mg of ivacaftor or placebo every 12 hours with fat-containing food for 8 weeks in addition to their prescribed CF therapies and crossed over to the other treatment for the second 8 weeks after a 4- to 8-week washout period.
 The use of inhaled hypertonic saline was not permitted.
 In part 2, all patients received ivacaftor as indicated in part 1 for 16 additional weeks.
@@ -184,18 +184,12 @@ The efficacy and safety of Kalydeco in a combination regimen with tezacaftor/iva
 An open-label, rollover,
 96 week study is on-going to evaluate the long-term safety and efficacy of the combination regimen in both patient populations.
 Refer to the Summary of Product Characteristics of tezacaftor/ivacaftor for additional data.
-
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with Kalydeco in one or more subsets of the paediatric population in cystic fibrosis (see section 4.2 for information on paediatric use).
 
 [Kalydeco 50 mg granules in sachet]
 
 In study 7 in patients aged 2 to less than 6 years with a gating mutation on at least 1 allele of the CFTR gene administered either 50 mg or 75 mg of ivacaftor twice daily, the mean absolute change from baseline in sweat chloride was -47 mmol/L (95% CI -58, -36) at Week 24.
-
-In study 8 in patients with CF aged less than 24 months, the mean absolute change from baseline in sweat chloride for patients aged 12 months to less than 24 months (n=10) was -73.5 mmol/L
-(95% CI -86.0, -61.0) at week 24.
-
-The results for clinically relevant secondary endpoints are shown in Table 3.
 
 | Table 3. Effect of ivacaftor on other efficacy endpoints in studies 1 and 2 |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -218,6 +212,8 @@ The results for clinically relevant secondary endpoints are shown in Table 3.
 | BMI-for-age z-score at Week 48e | 0.33 (0.002, 0.65) | 0.0490 | 0.45 (0.26, 0.65) | <0.0001 |
 | CI: confidence interval; NA: not analysed due to low incidence of events a Treatment difference = effect of ivacaftor – effect of placebo b CFQ-R: Cystic Fibrosis Questionnaire-Revised is a disease-specific, health-related quality-of-life measure for CF. c Study 1 data were pooled from CFQ-R for adults/adolescents and CFQ-R for children 12 to 13 years of age; Study 2 data were obtained from CFQ-R for children 6 to 11 years of age. d Hazard ratio for time to first pulmonary exacerbation e In subjects under 20 years of age (CDC growth charts) |  |  |  |  |
 
+The results for clinically relevant secondary endpoints are shown in Table 3.
+
 The duration of continuous ivacaftor treatment was 24 weeks for patients randomised to the part 1 placebo/ivacaftor treatment sequence and 16 weeks for patients randomised to part 1 ivacaftor/placebo treatment sequence.
 
 The effect of ivacaftor in the overall population of study 5 (including the secondary endpoints absolute change in BMI at 8 weeks of treatment and absolute change in the respiratory domain score of the CFQ-R through 8 weeks of treatment) and by individual mutation (absolute change in sweat chloride and in percent predicted FEV1 at Week 8) is shown in Table 4.
@@ -228,6 +224,15 @@ The effect of ivacaftor in the overall population of study 5 (including the seco
 | Through Week 8 | At Week 8 | Through Week 8 |
 | All patients (N=39) Results shown as mean (95% CI) change from baseline ivacaftor vs placebo-treated patients: |  |  |
 | 10.7 (7.3, 14.1) | 0.66 (0.34, 0.99) | 9.6 (4.5, 14.7) |
+
+| Patients grouped under mutation types (n) Results shown as mean (minimum, maximum) change from baseline for ivacaftor-treated patients at Week 8*: |  |  |
+| --- | --- | --- |
+| Mutation (n) | Absolute change in sweat chloride (mmol/L) | Absolute change in percent predicted FEV1 (percentage points) |
+|  | At Week 8 | At Week 8 |
+| G1244E (5) G1349D (2) G178R (5) G551S (2) G970R (4) S1251N (8) S1255P (2) S549N (6) S549R (4) | -55 (-75, -34) -80 (-82, -79) -53 (-65, -35) -68† -6 (-16, -2) -54 (-84, -7) -78 (-82, -74) -74 (-93, -53) -61†† (-71, -54) | 8 (-1, 18) 20 (3, 36) 8 (-1, 18) 3† 3 (-1, 5) 9 (-20, 21) 3 (-1, 8) 11 (-2, 20) 5 (-3, 13) |
+
+* Statistical testing was not performed due to small numbers for individual mutations.
+† Reflects results from the one patient with the G551S mutation with data at the 8-week time point. †† n=3 for the analysis of absolute change in sweat chloride.
 
 At the follow-up visit 4 weeks after ivacaftor dosing had ended, the mean (SD) absolute change in percent predicted FEV1 from part 2 Week 16 was -5.9% (9.4%).
 At the follow up visit 4 weeks after ivacaftor dosing had ended, the mean (SD) absolute change in percent predicted FEV1 from part 2 Week 16 was -7.4% (5.5%).
@@ -270,19 +275,3 @@ The mean (SD) overall change in stature-for-age z-score was -0.01 (0.33).
 The mean (SD) overall change from baseline in Faecal Elastase-1 (n=27) was 99.8 µg/g (138.4).
 Six patients with initial levels below 200 µg/g achieved, at Week 24, a level of ≥200 µg/g.
 The mean (SD) overall change in percent predicted FEV1 from baseline at Week 24 (exploratory endpoint) was 1.8 (17.81).
-
-Study 8: study in paediatric patients with CF aged less than 24 months
-The pharmacokinetic profile, safety, and efficacy of ivacaftor in patients with CF aged 12 months to less than 24 months were assessed in a completed cohort of patients in an ongoing 24-week, open-label, Phase 3 clinical study in patients aged less than 24 months (Study 8).
-
-In part B of Study 8, 19 patients aged 12 months to less than 24 months (mean age 15.2 months at baseline) were enrolled, with 18 patients completing the 24-week treatment period.
-Patients received ivacaftor 50 mg or 75 mg according to their weight at each study visit (see section 4.2).
-Ivacaftor was administered orally every 12 hours with fat-containing food.
-Patients continued on their prescribed standard-of-care CF therapies.
-
-In part B of Study 8, the primary endpoint of safety was evaluated through 24 weeks (see section 4.8).
-Secondary endpoints were evaluation of pharmacokinetics and the absolute change from baseline in sweat chloride through 24 weeks of treatment (see Pharmacodynamic effects).
-Tertiary endpoints included efficacy measures such as Faecal Elastase-1 and growth parameters.
-
-For patients with both baseline and Week 24 values available, mean (SD) weight for age z score at baseline was 0.32 (0.76), with a mean (SD) absolute change of 0.15 (0.42) at 24 weeks; mean (SD) length for age z score at baseline was -0.24 (0.83), with a mean (SD) absolute change of 0.28 (0.60) at 24 weeks; and mean (SD) weight for length z score at baseline was 0.62 (0.94), with a mean (SD) absolute change of 0.07 (0.65) at 24 weeks.
-
-In patients with both baseline and Week 24 values available, nine patients were pancreatic insufficient at baseline (defined as Faecal Elastase-1 <200 µg/g) with mean (SD) Faecal Elastase-1 values at baseline and Week 24 of 13.1 µg/g (13.2) and 261.1 µg/g (137.6), respectively (mean [SD] absolute change 248.1 µg/g [132.9]).

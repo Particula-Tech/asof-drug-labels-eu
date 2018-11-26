@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Vertex Pharmaceuticals (Europe) Limited
-2 Kingdom Street
-London W2 6BD
-United Kingdom
+Vertex Pharmaceuticals (Ireland) Limited
+28-32 Pembroke Street Upper
+Dublin 2, D02 EK84
+Ireland

@@ -1,6 +1,7 @@
 # 5.3 Preclinical safety data
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, and carcinogenic potential.
+
 Ivacaftor was associated with slight decreases of the seminal vesicle weights, a decrease of overall fertility index and number of pregnancies in females mated with treated males and significant reductions in number of corpora lutea and implantation sites with subsequent reductions in the average litter size and average number of viable embryos per litter in treated females.
 The No-Observed-Adverse-Effect-Level (NOAEL) for fertility findings provides an exposure level of approximately 4 times the systemic exposure of ivacaftor and its metabolites when administered as ivacaftor monotherapy in adult humans at the maximum recommended human dose (MRHD).
 
