@@ -8,12 +8,12 @@ The pharmacokinetic profile is comparable in healthy volunteers and in patients 
 
 Due to its complete and linear absorption, plasma levels can be predicted from the oral dose of levetiracetam expressed as mg/kg bodyweight.
 Therefore, there is no need for plasma level monitoring of levetiracetam.
-
 A significant correlation between saliva and plasma concentrations has been shown in adults and children (ratio of saliva/plasma concentrations ranged from 1 to 1.7 for oral tablet formulation and after 4 hours post-dose for oral solution formulation).
 
 Adults and adolescents
 
 Absorption
+
 Levetiracetam is rapidly absorbed after oral administration.
 Oral absolute bioavailability is close to 100 %.
 Peak plasma concentrations (Cmax) are achieved at 1.3 hours after dosing.
@@ -60,6 +60,7 @@ The renal clearance of levetiracetam and ucb L057 is 0.6 and 4.2 ml/min/kg respe
 Levetiracetam elimination is correlated to creatinine clearance.
 
 Elderly
+
 In the elderly, the half-life is increased by about 40 % (10 to 11 hours).
 This is related to the decrease in renal function in this population (see section 4.2).
 
@@ -98,7 +99,6 @@ The pharmacokinetic results indicated that half-life was shorter (5.3 h) than fo
 In the population pharmacokinetic analysis conducted in patients from 1 month to 16 years of age, body weight was significantly correlated to apparent clearance (clearance increased with an increase in body weight) and apparent volume of distribution.
 Age also had an influence on both parameters.
 This effect was pronounced for the younger infants, and subsided as age increased, to become negligible around 4 years of age.
-
 In both population pharmacokinetic analyses, there was about a 20 % increase of apparent clearance of levetiracetam when it was co-administered with an enzyme-inducing antiepileptic medicinal product.
 
 [Keppra 500 mg film-coated tablets]

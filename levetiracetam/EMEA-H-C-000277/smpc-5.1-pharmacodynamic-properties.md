@@ -16,6 +16,7 @@ Levetiracetam and related analogs show a rank order of affinity for binding to t
 This finding suggests that the interaction between levetiracetam and the synaptic vesicle protein 2A seems to contribute to the antiepileptic mechanism of action of the medicinal product.
 
 Pharmacodynamic effects
+
 Levetiracetam induces seizure protection in a broad range of animal models of partial and primary generalised seizures without having a pro-convulsant effect.
 The primary metabolite is inactive.
 In man, an activity in both partial and generalised epilepsy conditions (epileptiform discharge/photoparoxysmal response) has confirmed the broad spectrum pharmacological profile of levetiracetam.
@@ -44,7 +45,6 @@ The efficacy analysis consisted of 109 patients who had at least 24 hours of vid
 The results are consistent across age group.
 With continued long-term treatment, 8.6 % of the patients were seizure-free for at least 6 months and 7.8 % were seizure-free for at least 1 year.
 35 infants aged less than 1 year with partial onset seizures have been exposed in placebo-control clinical studies of which only 13 were aged < 6 months.
-
 Monotherapy in the treatment of partial onset seizures with or without secondary generalisation in patients from 16 years of age with newly diagnosed epilepsy.
 
 Efficacy of levetiracetam as monotherapy was established in a double-blind, parallel group, non-inferiority comparison to carbamazepine controlled release (CR) in 576 patients 16 years of age or older with newly or recently diagnosed epilepsy.

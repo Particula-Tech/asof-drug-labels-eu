@@ -61,12 +61,12 @@ For children with renal impairment, levetiracetam dose needs to be adjusted base
 This recommendation is based on a study in adult renally impaired patients.
 
 The CLcr in ml/min/1.73 m2 may be estimated from serum creatinine (mg/dl) determination, for young adolescents, children and infants, using the following formula (Schwartz formula):
-
 Height (cm) x ks
 CLcr (ml/min/1.73 m2) = ------------------------------------
 Serum Creatinine (mg/dl)
 
 ks= 0.45 in Term infants to 1 year old; ks= 0.55 in Children to less than 13 years and in adolescent female; ks= 0.7 in adolescent male
+
 Dosing adjustment for infants, children and adolescents patients weighing less than 50 kg with impaired renal function:
 
 | Group | Creatinine clearance (ml/min/1.73 m2) | Dose and frequency (1) |  |
@@ -98,11 +98,11 @@ The tablet formulation is not adapted for use in infants and children under the 
 Keppra oral solution is the preferred formulation for use in this population.
 In addition, the available dose strengths of the tablets are not appropriate for initial treatment in children weighing less than 25 kg, for patients unable to swallow tablets or for the administration of doses below 250 mg.
 In all of the above cases Keppra oral solution should be used.
-
 Monotherapy
 
 The safety and efficacy of Keppra in children and adolescents below 16 years as monotherapy treatment have not been established.
 No data are available.
+
 Add-on therapy for infants aged from 6 to 23 months, children (2 to 11 years) and adolescents (12 to 17 years) weighing less than 50 kg
 
 Keppra oral solution is the preferred formulation for use in infants and children under the age of 6 years.
@@ -118,12 +118,12 @@ The oral solution is the formulation to use in infants.
 
 Method of administration
 The film-coated tablets must be taken orally, swallowed with a sufficient quantity of liquid and may be taken with or without food.
+After oral administration the bitter taste of levetiracetam may be experienced.
 The daily dose is administered in two equally divided doses.
 
 [Keppra 500 mg film-coated tablets]
 
 CLcr (ml/min/1.73 m2) = -------------------------------------
-Serum Creatinine (mg/dl) ks= 0.45 in Term infants to 1 year old; ks= 0.55 in Children to less than 13 years and in adolescent female; ks= 0.7 in adolescent male
 
 | Group | Creatinine clearance (ml/min/1.73m2) | Dose and frequency (1) |  |
 | --- | --- | --- | --- |
@@ -132,7 +132,7 @@ Serum Creatinine (mg/dl) ks= 0.45 in Term infants to 1 year old; ks= 0.55 in Chi
 | Mild | 50-79 | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) twice daily | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) twice daily |
 | Moderate | 30-49 | 3.5 to 10.5 mg/kg (0.035 to 0.105 ml/kg) twice daily | 5 to 15 mg/kg (0.05 to 0.15 ml/kg) twice daily |
 | Severe | < 30 | 3.5 to 7 mg/kg (0.035 to 0.07 ml/kg) twice daily | 5 to 10 mg/kg (0.05 to 0.10 ml/kg) twice daily |
-| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0(4.)14 ml/kg) once daily (2) | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
+| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0(4.) 14 ml/kg) once daily (2) | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
 
 Add-on therapy for infants aged 6 to 23 months, children (2 to 11 years) and adolescents (12 to 17 years) weighing less than 50 kg
 

@@ -15,7 +15,6 @@ Suicide
 Suicide, suicide attempt, suicidal ideation and behaviour have been reported in patients treated with anti-epileptic agents (including levetiracetam.
 A meta-analysis of randomized placebo-controlled trials of anti-epileptic medicinal products has shown a small increased risk of suicidal thoughts and behaviour.
 The mechanism of this risk is not known.
-
 Therefore, patients should be monitored for signs of depression and/or suicidal ideation and behaviours and appropriate treatment should be considered.
 Patients (and caregivers of patients) should be advised to seek medical advice should signs of depression and/or suicidal ideation or behaviour emerge.
 
