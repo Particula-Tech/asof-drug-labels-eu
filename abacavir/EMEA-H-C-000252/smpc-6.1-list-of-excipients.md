@@ -24,6 +24,6 @@ Propylene glycol (E1520)
 Maltodextrin
 Lactic acid
 Glyceryl triacetate
-Natural and artificial strawberry and banana flavours
+Artificial strawberry and banana flavours
 Purified water
 Sodium hydroxide and/or hydrochloric acid for pH adjustment.

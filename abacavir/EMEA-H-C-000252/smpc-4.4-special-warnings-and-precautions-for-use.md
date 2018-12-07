@@ -35,7 +35,6 @@ Rarely, patients who have stopped abacavir for reasons other than symptoms of HS
 Restarting abacavir in such patients must be done in a setting where medical assistance is readily available.
 
 Mitochondrial dysfunction following exposure in utero
-
 Nucleoside and nucleotide analogues may impact mitochondrial function to a variable degree, which is most pronounced with stavudine, didanosine and zidovudine.
 There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues ; these have predominantly concerned treatment with regimens containing zidovudine.The main adverse reactions reported are haematological disorders (anaemia, neutropenia) and metabolic disorders (hyperlactatemia, hyperlipasemia).
 These events have often been transitory.
@@ -77,13 +76,13 @@ In case of concomitant antiviral therapy for hepatitis B or C, please refer also
 Renal disease
 
 Ziagen should not be administered to patients with end-stage renal disease (see section 5.2).
-
 Immune Reactivation Syndrome
+
 In HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis carinii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
-Autoimmune disorders (such as Graves’ disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
+Autoimmune disorders (such as Graves’ disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
 
 Osteonecrosis
 

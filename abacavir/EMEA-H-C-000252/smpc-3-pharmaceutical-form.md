@@ -10,4 +10,4 @@ The tablet can be divided into equal halves.
 
 Oral solution
 
-The oral solution is clear to slightly opalescent yellowish, aqueous solution.
+The oral solution is clear to slightly opalescent yellowish, aqueous solution which may turn into a brown colour over time
