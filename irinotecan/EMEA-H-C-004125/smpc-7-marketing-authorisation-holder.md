@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Baxalta Innovations GmbH
-Industriestrasse 67
-1221 Vienna
-Austria
+Les Laboratoires Servier
+50, rue Carnot
+92284 Suresnes cedex
+France
