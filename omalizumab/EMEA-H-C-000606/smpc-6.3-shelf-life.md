@@ -3,6 +3,7 @@
 4 years.
 
 After reconstitution
+
 The chemical and physical stability of the reconstituted medicinal product have been demonstrated for 8 hours at 2°C to 8°C and for 4 hours at 30°C.
 
 From a microbiological point of view, the medicinal product should be used immediately after reconstitution.

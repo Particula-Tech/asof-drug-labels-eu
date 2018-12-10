@@ -2,6 +2,7 @@
 
 Xolair treatment should be initiated by physicians experienced in the diagnosis and treatment of severe persistent asthma.
 Posology
+
 The appropriate dose and frequency of Xolair is determined by baseline IgE (IU/ml), measured before the start of treatment, and body weight (kg).
 Prior to administration of the initial dose, patients should have their IgE level determined by any commercial serum total IgE assay for their dose assignment.
 Based on these measurements, 75 to 600 mg of Xolair in 1 to 4 injections may be needed for each administration.
@@ -15,7 +16,7 @@ Patients whose baseline IgE levels or body weight in kilograms are outside the l
 
 The maximum recommended dose is 600 mg omalizumab every two weeks.
 
-Table 1: Conversion from dose to number of vials, number of injections and total injection volume for each administration
+Table 1 Conversion from dose to number of vials, number of injections and total injection volume for each administration
 
 Dose (mg) Number of vials Number of injections Total injection volume (ml)
 75 mg a 150 mg b
@@ -32,7 +33,7 @@ Dose (mg) Number of vials Number of injections Total injection volume (ml)
 a 0.6 ml = maximum delivered volume per vial (Xolair 75 mg).
 b 1.2 ml = maximum delivered volume per vial (Xolair 150 mg).
 c or use 0.6 ml from a 150 mg vial.
-Table 2: ADMINISTRATION EVERY 4 WEEKS.
+Table 2 ADMINISTRATION EVERY 4 WEEKS.
 Xolair doses (milligrams per dose) administered by subcutaneous injection every 4 weeks
 
 |  | Body weight (kg) |
@@ -47,7 +48,7 @@ Xolair doses (milligrams per dose) administered by subcutaneous injection every 
 | >600-700 | 300 450 600 |
 | >700-800 >800-900 >900-1000 >1000-1100 | ADMINISTRATION EVERY 2 WEEKS SEE TABLE 3 |
 
-Table 3: ADMINSTRATION EVERY 2 WEEKS.
+Table 3 ADMINSTRATION EVERY 2 WEEKS.
 Xolair doses (milligrams per dose) administered by subcutaneous injection every 2 weeks
 
 |  | Body weight (kg) |  |
@@ -89,14 +90,14 @@ The safety and efficacy of Xolair in children below age 6 have not been establis
 No data are available.
 
 Method of administration
+
 For subcutaneous administration only.
-Do not administer by the intravenous or intramuscular route.
+Xolair must not be administered by the intravenous or intramuscular route.
 
-The injections are administered subcutaneously in the deltoid region of the arm.
-Alternatively, the injections can be administered in the thigh if there is any reason precluding administration in the deltoid region.
+Doses of more than 150 mg (Table 1) should be divided across two or more injection sites.
 
-There is limited experience with self-administration of Xolair.
-Therefore treatment is intended to be administered by a healthcare provider only.
+There is limited experience with self-administration of Xolair powder and solvent for solution for injection.
+Therefore treatment with this formulation is intended to be administered by a healthcare provider only.
 
 For instructions on reconstitution of the medicinal product before administration, see section 6.6 and also information for the healthcare professional section of the package leaflet.
 
@@ -120,6 +121,7 @@ Allergic asthma
 | >900-1000 >1000-1100 >1100-1200 >1200-1300 >1300-1500 | 225 300 375 450 525 600 225 300 375 450 600 300 300 450 525 600 DO NOT ADMINISTER– data is unavailable for dose recommendation 300 375 450 525 300 375 525 600 |
 
 Chronic spontaneous urticaria (CSU)
+
 The recommended dose is 300 mg by subcutaneous injection every four weeks.
 
 Prescribers are advised to periodically reassess the need for continued therapy.
@@ -134,7 +136,7 @@ In CSU, the safety and efficacy of Xolair in paediatric patients below the age o
 
 [Xolair 75 mg solution for injection]
 
-Table 1: Conversion from dose to number of syringes, number of injections and total injection volume for each administration
+Table 1 Conversion from dose to number of syringes, number of injections and total injection volume for each administration
 
 Dose (mg) Number of syringes Number of injections Total injection volume (ml)
 75 mg 150 mg
@@ -148,7 +150,10 @@ Dose (mg) Number of syringes Number of injections Total injection volume (ml)
 525 1 3 4 3.5
 600 0 4 4 4.0
 
-Therefore treatment is intended to be administered by a healthcare provider only (see section 6.6 and also information for the healthcare professional section of the package leaflet).
+Patients with no known history of anaphylaxis may self-inject Xolair or be injected by a caregiver from the 4th dose onwards if a physician determines that this is appropriate (see section 4.4).
+The patient or the caregiver must have been trained in the correct injection technique and the recognition of the early signs and symptoms of serious allergic reactions.
+
+Patients or caregivers should be instructed to inject the full amount of Xolair according to the instructions provided in the package leaflet.
 
 [Xolair 150 mg solution for injection]
 

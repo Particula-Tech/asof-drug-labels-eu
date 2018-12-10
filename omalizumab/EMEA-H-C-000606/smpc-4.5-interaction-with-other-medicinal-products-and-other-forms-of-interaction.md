@@ -1,6 +1,7 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Since IgE may be involved in the immunological response to some helminth infections, Xolair may indirectly reduce the efficacy of medicinal products for the treatment of helminthic or other parasitic infections (see section 4.4).
+
 Cytochrome P450 enzymes, efflux pumps and protein-binding mechanisms are not involved in the clearance of omalizumab; thus, there is little potential for drug-drug interactions.
 Medicinal product or vaccine interaction studies have not been performed with Xolair.
 There is no pharmacological reason to expect that commonly prescribed medicinal products used in the treatment of asthma will interact with omalizumab.
@@ -19,11 +20,13 @@ There is no pharmacological reason to expect that commonly prescribed medicinal 
 Allergic asthma
 
 Chronic spontaneous urticaria (CSU)
+
 In clinical studies in CSU, Xolair was used in conjunction with antihistamines (anti-H1, anti-H2) and leukotriene receptor antagonists (LTRAs).
 There was no evidence that the safety of omalizumab was altered when used with these medicinal products relative to its known safety profile in allergic asthma.
 In addition, a population pharmacokinetic analysis showed no relevant effect of H2 antihistamines and LTRAs on omalizumab pharmacokinetics (see section 5.2).
 
 Paediatric population
+
 Clinical studies in CSU included some patients aged 12 to 17 years taking Xolair in conjunction with antihistamines (anti-H1, anti-H2) and LTRAs.
 No studies have been performed in children under 12 years.
 
