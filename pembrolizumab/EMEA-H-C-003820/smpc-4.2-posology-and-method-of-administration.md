@@ -15,6 +15,8 @@ Patients should be treated with KEYTRUDA until disease progression or unacceptab
 Atypical responses (i.e., an initial transient increase in tumour size or small new lesions within the first few months followed by tumour shrinkage) have been observed.
 It is recommended to continue treatment for clinically stable patients with initial evidence of disease progression until disease progression is confirmed.
 
+For the adjuvant treatment of melanoma, KEYTRUDA should be administered until disease recurrence, unacceptable toxicity, or for a duration of up to one year.
+
 Dose delay or discontinuation (see also section 4.4)
 
 Table 1: Recommended treatment modifications for KEYTRUDA
