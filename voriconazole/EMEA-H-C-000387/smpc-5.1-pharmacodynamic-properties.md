@@ -39,6 +39,7 @@ In vitro activity against the following pathogens has been shown, but the clinic
 Breakpoints
 Specimens for fungal culture and other relevant laboratory studies (serology, histopathology) should be obtained prior to therapy to isolate and identify causative organisms.
 Therapy may be instituted before the results of the cultures and other laboratory studies are known; however, once these results become available, anti-infective therapy should be adjusted accordingly.
+
 The species most frequently involved in causing human infections include C. albicans, C. parapsilosis,
 C. tropicalis, C. glabrata and C. krusei, all of which usually exhibit minimal inhibitory concentration (MICs) of less than 1 mg/L for voriconazole.
 
@@ -74,7 +75,6 @@ After IV voriconazole therapy, the median duration of oral voriconazole therapy 
 
 A satisfactory global response (complete or partial resolution of all attributable symptoms, signs, radiographic/bronchoscopic abnormalities present at baseline) was seen in 53% of voriconazole-treated patients compared to 31% of patients treated with comparator.
 The 84-day survival rate for voriconazole was statistically significantly higher than that for the comparator and a clinically and statistically significant benefit was shown in favour of voriconazole for both time to death and time to discontinuation due to toxicity.
-
 This study confirmed findings from an earlier, prospectively designed study where there was a positive outcome in subjects with risk factors for a poor prognosis, including graft versus host disease, and, in particular, cerebral infections (normally associated with almost 100% mortality).
 
 The studies included cerebral, sinus, pulmonary and disseminated aspergillosis in patients with bone marrow and solid organ transplants, haematological malignancies, cancer and AIDS.
@@ -116,6 +116,7 @@ In addition, a successful response was seen in 1 of 3 patients with infections c
 Fusarium spp.: Seven (3 complete, 4 partial responses) of 17 patients were successfully treated with voriconazole.
 Of these 7 patients, 3 had eye, 1 had sinus, and 3 had disseminated infection.
 Four additional patients with fusariosis had an infection caused by several organisms; 2 of them had a successful outcome.
+
 The majority of patients receiving voriconazole treatment of the above mentioned rare infections were intolerant of, or refractory to, prior antifungal therapy.
 
 Primary Prophylaxis of Invasive Fungal Infections – Efficacy in HSCT recipients without prior proven or probable IFI
@@ -195,7 +196,7 @@ The overall rate of response (ICC and EC combined) was 88.9% (8/9) for 2 to <12 
 Clinical studies examining QTc interval
 A placebo-controlled, randomized, single-dose, crossover study to evaluate the effect on the QTc interval of healthy volunteers was conducted with three oral doses of voriconazole and ketoconazole.
 The placebo-adjusted mean maximum increases in QTc from baseline after 800, 1200 and 1600 mg of voriconazole were 5.1, 4.8, and 8.2 msec, respectively and 7.0 msec for ketoconazole 800 mg.
-No subject in any group had an increase in QTc of ≥ 60 msec from baseline.
+No subject in any group had an increase in QTc of ≥60 msec from baseline.
 No subject experienced an interval exceeding the potentially clinically-relevant threshold of 500 msec.
 
 [VFEND 200 mg powder for solution for infusion]

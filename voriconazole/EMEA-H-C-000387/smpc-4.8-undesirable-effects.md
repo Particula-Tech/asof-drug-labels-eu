@@ -35,7 +35,7 @@ Undesirable effects reported in subjects receiving voriconazole:
 | Respiratory, thoracic and mediastinal disorders | respiratory distress9 | acute respiratory distress syndrome, pulmonary oedema |  |  |  |
 | Gastrointestin al disorders | diarrhoea, vomiting, abdominal pain, nausea | cheilitis, dyspepsia, constipation, gingivitis | peritonitis, pancreatitis, swollen tongue, duodenitis, gastroenteritis, glossitis |  |  |
 | Hepatobiliary disorders | liver function test abnormal | jaundice, jaundice cholestatic, hepatitis10 | hepatic failure, hepatomegaly, cholecystitis, cholelithiasis |  |  |
-| Skin and subcutaneous tissue disorders | rash | dermatitis exfoliative, alopecia, rash maculo-papular, pruritus, erythema | Stevens-Johnson syndrome, phototoxicity, purpura, urticaria, dermatitis allergic, rash papular, rash macular, eczema | toxic epidermal necrolysis, angioedema, actinic keratosis*, pseudoporphyria , erythema multiforme, psoriasis, drug eruption | cutaneous lupus erythemato sus*, ephelides*, lentigo* |
+| Skin and subcutaneous tissue disorders | rash | dermatitis exfoliative, alopecia, rash maculo-papular, pruritus, erythema | Stevens-Johnson syndrome8, phototoxicity, purpura, urticaria, dermatitis allergic, rash papular, rash macular, eczema | toxic epidermal necrolysis8, drug reaction with eosinophilia and systemic symptoms (DRESS)8, angioedema, actinic keratosis*, pseudoporphyria , erythema multiforme, psoriasis, drug eruption | cutaneous lupus erythemato sus*, ephelides*, lentigo* |
 | Musculoskelet al and connective tissue disorders |  | back pain | arthritis |  | periostitis* |
 | Renal and urinary disorders |  | renal failure acute, haematuria | renal tubular necrosis, proteinuria, nephritis |  |  |
 | General disorders and administration site conditions | pyrexia | chest pain, face oedema11, asthenia, chills | infusion site reaction, influenza like illness |  |  |
@@ -74,10 +74,11 @@ There have been post-marketing reports of prolonged visual adverse events (see s
 Dermatological reactions
 Dermatological reactions were very common in patients treated with voriconazole in clinical trials, but these patients had serious underlying diseases and were receiving multiple concomitant medicinal products.
 The majority of rashes were of mild to moderate severity.
-Patients have developed serious cutaneous reactions, including Stevens-Johnson syndrome (uncommon), toxic epidermal necrolysis (rare) and erythema multiforme (rare) during treatment with VFEND.
+Patients have developed severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome (SJS) (uncommon), toxic epidermal necrolysis (TEN) (rare), drug reaction with eosinophilia and systemic symptoms (DRESS) (rare) and erythema multiforme (rare) during treatment with VFEND (see section 4.4).
 
 If a patient develops a rash they should be monitored closely and VFEND discontinued if lesions progress.
 Photosensitivity reactions such as ephelides, lentigo and actinic keratosis have been reported, especially during long-term therapy (see section 4.4).
+
 There have been reports of squamous cell carcinoma of the skin in patients treated with VFEND for long periods of time; the mechanism has not been established (see section 4.4).
 
 Liver function tests
