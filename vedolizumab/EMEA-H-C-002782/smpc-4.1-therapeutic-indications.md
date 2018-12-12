@@ -1,9 +1,9 @@
 # 4.1 Therapeutic indications
 
-Ulcerative Colitis
+Ulcerative colitis
 
 Entyvio is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a tumour necrosis factor-alpha (TNFα) antagonist.
 
-Crohn’s Disease
+Crohn’s disease
 
 Entyvio is indicated for the treatment of adult patients with moderately to severely active Crohn’s disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a tumour necrosis factor-alpha (TNFα) antagonist.

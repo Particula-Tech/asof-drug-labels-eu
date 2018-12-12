@@ -3,8 +3,8 @@
 Vedolizumab should be administered in a healthcare setting equipped to allow management of acute hypersensitivity reactions including anaphylaxis, if they occur.
 Appropriate monitoring and medical support measures should be available for immediate use when administering vedolizumab.
 All patients should be observed continuously during each infusion.
-For the first two infusions, they should also be observed for approximately two hours following completion of the infusion for signs and symptoms of acute hypersensitivity reactions.
-For all subsequent infusions, patients should be observed for approximately one hour following completion of the infusion.
+For the first two infusions, they should also be observed for approximately 2 hours following completion of the infusion for signs and symptoms of acute hypersensitivity reactions.
+For all subsequent infusions, patients should be observed for approximately 1 hour following completion of the infusion.
 
 Infusion-related reactions
 
@@ -28,10 +28,9 @@ Entyvio is contraindicated in patients with active tuberculosis (see section 4.3
 Before starting treatment with vedolizumab, patients must be screened for tuberculosis according to the local practice.
 If latent tuberculosis is diagnosed, appropriate treatment must be started with anti-tuberculosis treatment in accordance with local recommendations, before beginning vedolizumab.
 In patients diagnosed with TB whilst receiving vedolizumab therapy, then vedolizumab therapy should be discontinued until the TB infection has been resolved.
-
 Some integrin antagonists and some systemic immunosuppressive agents have been associated with progressive multifocal leukoencephalopathy (PML), which is a rare and often fatal opportunistic infection caused by the John Cunningham (JC) virus.
 By binding to the α4β7 integrin expressed on gut-homing lymphocytes, vedolizumab exerts an immunosuppressive effect on the gut.
-Although no systemic immunosuppressive effect was noted in healthy subjects the effects on systemic immune system function in patients with Inflammatory Bowel Disease patients is not known.
+Although no systemic immunosuppressive effect was noted in healthy subjects the effects on systemic immune system function in patients with inflammatory bowel disease is not known.
 
 No cases of PML were reported in clinical studies of vedolizumab however, healthcare professionals should monitor patients on vedolizumab for any new onset or worsening of neurological signs and symptoms as outlined in physician education materials, and consider neurological referral if they occur.
 The patient is to be given a Patient Alert Card (see section 4.2).
@@ -68,6 +67,6 @@ Induction of remission in Crohn’s disease
 Induction of remission in Crohn’s disease may take up to 14 weeks in some patients.
 The reasons for this are not fully known and are possibly related to the mechanism of action.
 This should be taken into consideration, particularly in patients with severe active disease at baseline not previously treated with TNFα antagonists.
-(See also section 5.1.)
+(see also section 5.1.)
 
 Exploratory subgroup analyses from the clinical trials in Crohn’s disease suggested that vedolizumab administered in patients without concomitant corticosteroid treatment may be less effective for induction of remission in Crohn’s disease than in those patients already receiving concomitant corticosteroids (regardless of use of concomitant immunomodulators; see section 5.1).
