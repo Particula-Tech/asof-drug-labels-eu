@@ -251,12 +251,8 @@ Monotherapy
 SOLO 1 at Week 16 SOLO 2 at Week 16
 Placebo Dupixent Dupixent Placebo Dupixent Dupixent
 300 mg Q2W 300 mg QW 300 mg Q2W 300 mg QW
-Patients
-224 224 223 236 233 239
-randomized
-DLQI, LS mean -5.3 -9.3a -9.0a -3.6 -9.3a -9.5a
-change from (0.50) (0.40) (0.40) (0.50) (0.38) (0.39)
-baseline (SE)
+Patients randomized 224 224 223 236 233 239
+DLQI, LS mean change from baseline (SE) (0.50) -5.3 (0.40) -9.3a (0.40) -9.0a (0.50) -3.6 (0.38) -9.3a (0.39) -9.5a
 POEM, LS
 mean change -5.1 -11.6a -11.0a -3.3 -10.2a -11.3a
 from baseline (0.67) (0.49) (0.50) (0.55) (0.49) (0.52)
@@ -266,23 +262,20 @@ mean change -3.0 -5.2b -5.2b -0.8 -5.1a -5.8a
 from baseline (0.65) (0.54) (0.51) (0.44) (0.39) (0.38)
 (SE)
 Number of
-patients with
-DLQI ≥4 at 213 209 209 225 223 234
+patients with DLQI ≥4 at 213 209 209 225 223 234
 baseline
 DLQI
-(≥4-point improvement), 30.5 % 64.1 %a 58.4 %a 27.6 % 73.1 %a 62.0 %a
+improvement), (≥4-point 30.5 % 64.1 %a 58.4 %a 27.6 % 73.1 %a 62.0 %a
 % responders
 Number of
-patients with
-POEM ≥4 at 223 222 222 234 233 239
+patients with POEM ≥4 at 223 222 222 234 233 239
 baseline
 POEM
-(≥4-point improvement), 26.9 % 67.6 %a 63.1 %a 24.4 % 71.7 %a 64.0 %a
+improvement), (≥4-point 26.9 % 67.6 %a 63.1 %a 24.4 % 71.7 %a 64.0 %a
 % responders
 Number of
 patients with
-HADS-anxiety 97 100 102 115 129 136
-≥8 or HADS-
+HADS-anxiety ≥8 or HADS- 97 100 102 115 129 136
 depression ≥8 at
 baseline
 Patients
@@ -305,13 +298,8 @@ CHRONOS at Week 16 CHRONOS at Week 52
 Placebo Dupixent Dupixent Placebo Dupixent Dupixent
 300 mg Q2W + 300 mg QW + +TCS 300 mg Q2W 300 mg QW
 TCS TCS + TCS + TCS
-Patients
-315 106 319 264 89 270
-randomized
-DLQI, LS mean -5.8 -10.0a -10.7a -7.2 -11.4a -11.1a
-change from
-(0.34) (0.50) (0.31) (0.40) (0.57) (0.36)
-baseline (SE)
+Patients randomized 315 106 319 264 89 270
+DLQI, LS mean change from baseline (SE) (0.34) -5.8 (0.50) -10.0a (0.31) -10.7a (0.40) -7.2 (0.57) -11.4a (0.36) -11.1a
 POEM, LS
 mean change -5.3 -12.7a -12.9a -7.0 -14.2a -13.2a
 from baseline (0.41) (0.64) (0.37) (0.57) (0.78) (0.45)
@@ -321,28 +309,20 @@ mean change -4.0 -4.9 -5.4c -3.8 -5.5c -5.9b
 from baseline (0.37) (0.58) (0.35) (0.47) (0.71) (0.42)
 (SE)
 Number of
-patients with
-300 100 311 254 85 264
-DLQI ≥4 at
+patients with DLQI ≥4 at 300 100 311 254 85 264
 baseline
 DLQI
-(≥4-point 43.0 % 81.0 %a 74.3 %a 30.3 % 80.0 %a 63.3 %a
-improvement),
+improvement), (≥4-point 43.0 % 81.0 %a 74.3 %a 30.3 % 80.0 %a 63.3 %a
 % responders
 Number of
-patients with
-312 106 318 261 89 269
-POEM ≥4 at
+patients with POEM ≥4 at 312 106 318 261 89 269
 baseline
 POEM
-(≥4-point 36.9 % 77.4 %a 77.4 %a 26.1 % 76.4 %a 64.7 %a
-improvement),
+(≥4-point improvement), 36.9 % 77.4 %a 77.4 %a 26.1 % 76.4 %a 64.7 %a
 % responders
 Number of
 patients with
-HADS-anxiety
-148 59 154 133 53 138
-≥8 or HADS-
+HADS-anxiety ≥8 or HADS- 148 59 154 133 53 138
 depression ≥8
 at baseline
 Patients 26.4 % 47.5 %c 47.4 %b 18.0 % 43.4 %b 44.9 %a

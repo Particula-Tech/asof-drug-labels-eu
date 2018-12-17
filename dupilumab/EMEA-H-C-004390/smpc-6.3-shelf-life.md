@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-15 months.
+2 years.
 
 If necessary, pre-filled syringes may be kept at room temperature up to 25°C for a maximum of 14 days.
 Do not store above 25°C.
