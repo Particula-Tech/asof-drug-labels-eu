@@ -13,6 +13,7 @@ A subset of myeloid derived suppressor cells (CD38+MDSCs), regulatory T cells (C
 T cells (CD3+, CD4+, and CD8+) are also known to express CD38 depending on the stage of development and the level of activation.
 Significant increases in CD4+ and CD8+ T cell absolute counts, and percentages of lymphocytes, were observed with daratumumab treatment in peripheral whole blood and bone marrow.
 In addition, T-cell receptor DNA sequencing verified that T-cell clonality was increased with daratumumab treatment, indicating immune modulatory effects that may contribute to clinical response.
+
 Daratumumab induced apoptosis in vitro after Fc mediated cross-linking.
 In addition, daratumumab modulated CD38 enzymatic activity, inhibiting the cyclase enzyme activity and stimulating the hydrolase activity.
 The significance of these in vitro effects in a clinical setting, and the implications on tumour growth, are not well-understood.
@@ -46,6 +47,7 @@ Efficacy was evaluated by progression free survival (PFS) based on International
 The primary analysis of PFS in Study MMY3007 showed an improvement in the D-VMP arm as compared to the VMP arm; the median PFS had not been reached in the D-VMP arm and was 18.1 months in the VMP arm (hazard ratio [HR]=0.5; 95% CI: 0.38, 0.65; p<0.0001), representing 50% reduction in the risk of disease progression or death in patients treated with D-VMP.
 Results of an updated PFS analysis approximately 4 months after the original clinical cutoff, continued to show an improvement in PFS for patients in the D-VMP arm compared with the VMP arm.
 Median PFS was not reached in the D-VMP arm and was 19.3 months in the VMP arm (HR=0.46; 95% CI: 0.36, 0.60; p<0.0001).
+
 Figure 1: Kaplan-Meier Curve of Primary Analysis of PFS in Study MMY3007
 
 Additional efficacy results from Study MMY3007 are presented in Table 6 below.
@@ -64,11 +66,10 @@ Table 6: Additional efficacy results from Study MMY3007a
 |  | 4.36 (2.64, 7.21) |  |
 |  | <0.0001 |  |
 
-D-VMP = daratumumab-bortezomib-melphalan-prednisone; VMP = bortezomib-melphalan-prednisone; MRD = minimal residual disease; CI = confidence interval a Based on intent-to-treat population b p-value from Cochran Mantel-Haenszel Chi-Squared test.
+D-VMP=daratumumab-bortezomib-melphalan-prednisone; VMP=bortezomib-melphalan-prednisone; MRD=minimal residual disease; CI=confidence interval a Based on intent-to-treat population b p-value from Cochran Mantel-Haenszel Chi-Squared test.
 c Based on threshold of 10-5 d A Mantel-Haenszel estimate of the common odds ratio for stratified tables is used.
 An odds ratio > 1 indicates an advantage for D-VMP.
 e p-value from Fisherʼs exact test.
-
 In responders, the median time to response was 0.79 months (range: 0.4 to 15.5 months) in the D-VMP group and 0.82 months (range: 0.7 to 12.6 months) in the VMP group.
 The median duration of response had not been reached in the D-VMP group and was 21.3 months (range: 18.4, not estimable) in the VMP group.
 
@@ -106,17 +107,17 @@ Table 7: IRC assessed efficacy results for study MMY2002
 | Median Time to Response [months (range)] | 1 (0.9; 5.6) |
 
 1 Primary efficacy endpoint (International Myeloma Working Group criteria)
-CI = confidence interval; NE = not estimable; MR = minimal response
+CI=confidence interval; NE=not estimable; MR=minimal response
 
 Overall response rate (ORR) in MMY2002 was similar regardless of type of prior anti-myeloma therapy.
 At a survival update with a median duration of follow-up of 14.7 months, median Overall Survival (OS) was 17.5 months (95% CI:13.7, not estimable).
-
 In Study GEN501, 42 patients with relapsed and refractory multiple myeloma received 16 mg/kg DARZALEX until disease progression.
 The median patient age was 64 years (range, 44 to 76 years), 64% were male and 76% were Caucasian.
 Patients in the study had received a median of 4 prior lines of therapy.
 Seventy-four percent of patients had received prior ASCT.
 Prior therapies included bortezomib (100%), lenalidomide (95%), pomalidomide (36%) and carfilzomib (19%).
 At baseline, 76% of patients were refractory to the last line of treatment, 64% were refractory to both a PI and IMiD, 60% were refractory to alkylating agents, 36% were refractory to pomalidomide and 17% were refractory to carfilzomib.
+
 Pre-planned interim analysis showed that treatment with daratumumab at 16 mg/kg led to a 36% ORR with 5% CR and 5% VGPR.
 The median time to response was 1 (range: 0.5 to 3.2) month.
 The median duration of response was not reached (95% CI: 5.6 months, not estimable).
@@ -138,8 +139,8 @@ Eighteen percent (18%) of patients were refractory to a PI only, and 21% were re
 Patients refractory to lenalidomide were excluded from the study.
 
 Study MMY3003 demonstrated an improvement in Progression Free Survival (PFS) in the DRd arm as compared to the Rd arm; the median PFS had not been reached in the DRd arm and was 18.4 months in the Rd arm (hazard ratio [HR]=0.37; 95% CI: 0.27, 0.52; p<0.0001), representing 63% reduction in the risk of disease progression or death in patients treated with DRd (see Figure 2).
-
 Figure 2: Kaplan-Meier Curve of PFS in Study MMY3003
+
 Additional efficacy results from Study MMY3003 are presented in Table 8 below.
 
 Table 8: Additional efficacy results from Study MMY3003
@@ -151,10 +152,10 @@ Table 8: Additional efficacy results from Study MMY3003
 | Median Duration of Response [months (95% CI)] | NE (NE, NE) | 17.4 (17.4, NE) |
 | MRD negative rate (95% CI) b (%) Odds ratio with 95% CIc P-valued | 29.0 (23.8, 34.7) 4.85 (2.93, 8.03) < 0.000001 | 7.8 (4.9, 11.5) |
 
-DRd = daratumumab-lenalidomide-dexamethasone; Rd = lenalidomide-dexamethasone; MRD = minimal residual disease; CI = confidence interval; NE = not estimable.
+DRd=daratumumab-lenalidomide-dexamethasone; Rd=lenalidomide-dexamethasone; MRD=minimal residual disease; CI=confidence interval; NE=not estimable.
 a p-value from Cochran Mantel-Haenszel Chi-Squared test.
 b Based on Intent-to-treat population and threshold of 10-4 c A Chi-Squared estimate of the common odds ratio is used.
-An odds ratio > 1 indicates an advantage for DRd.
+An odds ratio >1 indicates an advantage for DRd.
 d p-value is from a likelihood-ratio Chi-Squared test.
 
 Median OS was not reached for either treatment group.
@@ -178,31 +179,31 @@ Patients refractory to bortezomib were excluded from the study.
 
 Study MMY3004 demonstrated an improvement in PFS in the DVd arm as compared to the Vd arm; the median PFS had not been reached in the DVd arm and was 7.2 months in the Vd arm (HR [95% CI]: 0.39 [0.28, 0.53]; p-value<0.0001), representing a 61% reduction in the risk of disease progression or death for patients treated with DVd versus Vd.
 (see Figure 3).
+
 Figure 3: Kaplan-Meier Curve of PFS in Study MMY3004
 
 Additional efficacy results from Study MMY3004 are presented in Table 9 below.
-
 Table 9: Additional efficacy results from Study MMY3004
 
-| Response evaluable patient number | DVd (n = 240) | Vd (n = 234) |
+| Response evaluable patient number | DVd (n=240) | Vd (n=234) |
 | --- | --- | --- |
 | Overall response (sCR+CR+VGPR+PR) n(%) P-valuea Stringent complete response (sCR) Complete response (CR) Very good partial response (VGPR) Partial response (PR) | 199 (82.9) < 0.0001 11 (4.6) 35 (14.6) 96 (40.0) 57 (23.8) | 148 (63.2) 5 (2.1) 16 (6.8) 47 (20.1) 80 (34.2) |
 | Median Time to Response [months (range)] | 0.9 (0.8, 1.4) | 1.6 (1.5, 2.1) |
 | Median Duration of Response [months (95% CI)] | NE (11.5, NE) | 7.9 (6.7, 11.3) |
 | MRD negative rate (95% CI)b Odds ratio with 95% CIc P-valued | 13.5% (9.6%, 18.4%) 5.37 (2.33, 12.37) 0.000006 | 2.8% (1.1%, 5.8%) |
 
-DVd = daratumumab- bortezomib-dexamethasone; Vd = bortezomib-dexamethasone; MRD = minimal residual disease;
-CI = confidence interval; NE = not estimable.
+DVd=daratumumab-bortezomib-dexamethasone; Vd=bortezomib-dexamethasone; MRD=minimal residual disease; CI=confidence interval; NE=not estimable.
 a p-value from Cochran Mantel-Haenszel Chi-Squared test.
 b Based on Intent-to-treat population and threshold of 10-4 c A Chi-Squared estimate of the common odds ratio is used.
 An odds ratio > 1 indicates an advantage for DVd.
 d p-value is from a likelihood-ratio chi-squared test.
 
 Median OS was not reached for either treatment group.With an overall median follow-up of 7.4 months (95% CI: 0.0, 14.9), the hazard ratio for OS was 0.77 (95% CI: 0.47, 1.26; p=0.2975).
+
 Cardiac electrophysiology
 Daratumumab as a large protein has a low likelihood of direct ion channel interactions.
 The effect of daratumumab on the QTc interval was evaluated in an open-label study for 83 patients (Study GEN501) with relapsed and refractory multiple myeloma following daratumumab infusions (4 to 24 mg/kg).
-Linear mixed PK-PD analyses indicated no large increase in mean QTcF interval (i.e., greater than 20 ms) at daratumumab Cmax.
+Linear mixed PK-PD analyses indicated no large increase in mean QTcF interval (i.e. greater than 20 ms) at daratumumab Cmax.
 
 Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with DARZALEX in all subsets of the paediatric population in multiple myeloma (see section 4.2 for information on paediatric use).

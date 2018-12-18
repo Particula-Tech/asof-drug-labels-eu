@@ -29,6 +29,9 @@ The mean estimated terminal half-life associated with linear clearance in combin
 Based on the three population PK analyses (Analyses 1-3) body weight was identified as a statistically significant covariate for daratumumab clearance.
 Therefore, body weight based dosing is an appropriate dosing strategy for the multiple myeloma patients.
 
+Simulation of daratumumab pharmacokinetics was conducted for all recommended dosing schedules in 1,309 patients with multiple myeloma.
+The simulation results confirmed that the split and single dosing for the first dose provide similar PK, with the exception of the PK profile in the first day of the treatment.
+
 Special populations
 Age and gender
 Based on three individual population PK analyses (1-3) in patients receiving daratumumab monotherapy or various combination therapies (Analyses 1-3), age (range: 31-93 years) had no clinically important effect on the PK of daratumumab, and the exposure of daratumumab was similar between younger (aged <65 years, n=515) and older (aged ≥65 to <75 years n=562; aged ≥75 years, n=181) patients.
@@ -39,11 +42,10 @@ Renal impairment
 No formal studies of daratumumab in patients with renal impairment have been conducted.
 Three individual population PK analyses were performed based on pre-existing renal function data in patients receiving daratumumab monotherapy, or various combination therapies (Analyses 1-3), and included a total of 381 patients with normal renal function (creatinine clearance [CRCL] ≥90 mL/min), 480 with mild renal impairment (CRCL <90 and ≥60 mL/min), 376 with moderate renal impairment (CRCL <60 and ≥30 mL/min), and 20 with severe renal impairment or end stage renal disease (CRCL<30 mL/min).
 No clinically important differences in exposure to daratumumab were observed between patients with renal impairment and those with normal renal function.
-
 Hepatic impairment
 No formal studies of daratumumab in patients with hepatic impairment have been conducted.
 Changes in hepatic function are unlikely to have any effect on the elimination of daratumumab since IgG1 molecules such as daratumumab are not metabolised through hepatic pathways.
-Three individual population PK analyses were performed in patients receiving daratumumab monotherapy or various combination therapies (Analyses 1-3), and included a total of 1081 patients with normal hepatic function (total bilirubin [TB] and aspartate aminotransferase [AST] ≤upper limit of normal [ULN]), 159 with mild hepatic impairment (TB 1.0 x to 1.5 x ULN or AST >ULN) and 7 patients with moderate (TB > 1.5 x to 3.0 x ULN; n=6), or severe (TB > 3.0 x ULN; n=1) hepatic impairment.
+Three individual population PK analyses were performed in patients receiving daratumumab monotherapy or various combination therapies (Analyses 1-3), and included a total of 1081 patients with normal hepatic function (total bilirubin [TB] and aspartate aminotransferase [AST] ≤upper limit of normal [ULN]), 159 with mild hepatic impairment (TB 1.0 x to 1.5 x ULN or AST >ULN) and 7 patients with moderate (TB >1.5 x to 3.0 x ULN; n=6), or severe (TB >3.0 x ULN; n=1) hepatic impairment.
 No clinically important differences in the exposure to daratumumab were observed between patients with hepatic impairment and those with normal hepatic function.
 
 Race
