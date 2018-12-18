@@ -1,6 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
 In order to improve traceability of biological medicinal products, the tradename and batch number of the administered product should be clearly recorded (or stated) in the patient file.
+
 Excipients: This medicinal product contains 2.3 mmol (or 52.6 mg ) sodium per 10 mL vial.
 To be taken into consideration by patients on a controlled sodium diet.
 
@@ -21,7 +22,6 @@ The physician should be particularly alert to symptoms suggestive of PML that th
 Patients should also be advised to inform their partner or caregivers about their treatment, since they may notice symptoms that the patient is not aware of.
 
 If a patient develops PML, the dosing of MabThera must be permanently discontinued.
-
 Following reconstitution of the immune system in immunocompromised patients with PML, stabilisation or improved outcome has been seen.
 It remains unknown if early detection of PML and suspension of MabThera therapy may lead to similar stabilisation or improved outcome.
 
@@ -77,6 +77,7 @@ Regular full blood counts, including neutrophil and platelet counts, should be p
 Infections
 Serious infections, including fatalities, can occur during therapy with MabThera (see section 4.8).
 MabThera should not be administered to patients with an active, severe infection (e.g. tuberculosis, sepsis and opportunistic infections, see section 4.3).
+
 Physicians should exercise caution when considering the use of MabThera in patients with a history of recurring or chronic infections or with underlying conditions which may further predispose patients to serious infection (see section 4.8).
 
 Cases of hepatitis B reactivation have been reported in subjects receiving MabThera including fulminant hepatitis with fatal outcome.
@@ -132,7 +133,6 @@ Therefore, in patients with a known cardiac history, and those who experienced p
 Since hypotension may occur during MabThera infusion, consideration should be given to withholding anti-hypertensive medications 12 hours prior to the MabThera infusion.
 
 IRRs for patients with granulomatosis with polyangiitis and microscopic polyangiitis were similar to those seen for rheumatoid arthritis patients in clinical trials (see section 4.8).
-
 Cardiac disorders
 Angina pectoris, cardiac arrhythmias such as atrial flutter and fibrillation, heart failure and/or myocardial infarction have occurred in patients treated with MabThera.
 Therefore patients with a history of cardiac disease should be monitored closely (see Infusion related reactions, above).
@@ -151,6 +151,7 @@ Very rare cases of fatal progressive multifocal leukoencephalopathy (PML) have b
 
 Hepatitis B Infections
 Cases of hepatitis B reactivation, including those with a fatal outcome, have been reported in rheumatoid arthritis, granulomatosis with polyangiitis and microscopic polyangiitis patients receiving MabThera.
+
 Hepatitis B virus (HBV) screening should be performed in all patients before initiation of treatment with MabThera.
 At minimum this should include HBsAg-status and HBcAb-status.
 These can be complemented with other appropriate markers as per local guidelines.
@@ -236,9 +237,11 @@ Symptoms included pain, swelling, induration, haemorrhage, erythema, pruritus an
 Some local cutaneous reactions occurred more than 24 hours after the MabThera subcutaneous administration.
 The majority of local cutaneous reactions seen following administration of MabThera subcutaneous formulation was mild or moderate and resolved without any specific treatment.
 
-Before starting MabThera subcutaneous injections, all patients must always receive beforehand, a full dose of MabThera by intravenous infusion, using MabThera intravenous formulation.
-The highest risk of experiencing an administration related reaction is generally observed at cycle one.
-Beginning the therapy with MabThera intravenous infusion would allow a better handling of the administration reactions by slowing or stopping the intravenous infusion.
+Before starting MabThera subcutaneous injections, all patients must always receive beforehand, a full
+dose of MabThera by intravenous infusion, using MabThera intravenous formulation. The highest risk
+of experiencing an administration related reaction is generally observed at cycle one. Beginning the
+therapy with MabThera intravenous infusion would allow a better handling of the administration
+reactions by slowing or stopping the intravenous infusion.
 
 If patients were not able to receive one full MabThera intravenous infusion dose prior to the switch, they should continue the subsequent cycles with MabThera intravenous formulation until a full intravenous dose is successfully administered.
 Therefore, the switch to MabThera subcutaneous formulation can only occur at the second or subsequent cycles of treatment.

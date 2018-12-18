@@ -91,6 +91,7 @@ The serum rituximab Cmax at cycle 7 was similar between the two treatment arms, 
 Distribution/Elimination
 
 Geometric mean Ctrough and geometric mean AUCτ from the BP22333 and BO22334 trials are summarized in Table 8.
+
 Table 8: Distribution/Elimination - Pharmacokinetic parameters of MabThera subcutaneous compared to MabThera intravenous
 
 Geometric Geometric Geometric Geometric
@@ -113,7 +114,6 @@ The estimated median terminal elimination half-life of MabThera subcutaneous for
 Twenty nine (0.48%) post-dose observations (all from trial BP22333) were below the quantification limit.
 There were no missing covariate values except baseline B-cell count.
 Baseline tumour load was available only in trial BO22334.
-
 Special populations
 
 | In clinical trial BO22334, an effect was observed between body size and exposure ratios reported in |  |  |  |

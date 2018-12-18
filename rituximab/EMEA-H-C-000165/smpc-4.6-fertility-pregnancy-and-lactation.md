@@ -3,7 +3,6 @@
 Contraception in males and females
 
 Due to the long retention time of rituximab in B cell depleted patients, women of childbearing potential should use effective contraceptive methods during and for 12 months following treatment with MabThera.
-
 Pregnancy
 
 IgG immunoglobulins are known to cross the placental barrier.

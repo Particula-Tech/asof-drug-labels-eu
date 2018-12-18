@@ -27,7 +27,7 @@ MabThera has been shown to reduce the rate of progression of joint damage as mea
 
 Granulomatosis with polyangiitis and microscopic polyangiitis
 
-MabThera, in combination with glucocorticoids, is indicated for the induction of remission in adult patients with severe, active granulomatosis with polyangiitis (Wegener’s) (GPA) and microscopic polyangiitis (MPA).
+MabThera, in combination with glucocorticoids, is indicated for the treatment of adult patients with severe, active granulomatosis with polyangiitis (Wegener’s) (GPA) and microscopic polyangiitis (MPA).
 
 [MabThera 500 mg concentrate for solution for infusion]
 
