@@ -15,14 +15,19 @@ An insufficient number of patients has been studied with creatinine clearance of
 Therefore, the use of pemetrexed in patients with creatinine clearance of < 45 ml/min is not recommended (see section 4.2).
 
 Patients with mild to moderate renal insufficiency (creatinine clearance from 45 to 79 ml/min) should avoid taking non-steroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen, and acetylsalicylic acid (> 1.3 g daily) for 2 days before, on the day of, and 2 days following pemetrexed administration (see section 4.5).
+
 In patients with mild to moderate renal insufficiency eligible for pemetrexed therapy NSAIDs with long elimination half-lives should be interrupted for at least 5 days prior to, on the day of, and at least 2 days following pemetrexed administration (see section 4.5).
 
 Serious renal events, including acute renal failure, have been reported with pemetrexed alone or in association with other chemotherapeutic agents.
 Many of the patients in whom these occurred had underlying risk factors for the development of renal events including dehydration or pre-existing hypertension or diabetes.
+Nephrogenic diabetes insipidus and renal tubular necrosis were also reported in post marketing setting with pemetrexed alone or with other chemotherapeutic agents.
+Most of these events resolved after pemetrexed withdrawal.
+Patients should be regularly monitored for acute tubular necrosis, decreased renal function and signs and symptoms of nephrogenic diabetes insipidus (e.g. hypernatraemia).
 
 The effect of third space fluid, such as pleural effusion or ascites, on pemetrexed is not fully defined.
 A phase 2 study of pemetrexed in 31 solid tumour patients with stable third space fluid demonstrated no difference in pemetrexed dose normalized plasma concentrations or clearance compared to patients without third space fluid collections.
 Thus, drainage of third space fluid collection prior to pemetrexed treatment should be considered, but may not be necessary.
+
 Due to the gastrointestinal toxicity of pemetrexed given in combination with cisplatin, severe dehydration has been observed.
 Therefore, patients should receive adequate antiemetic treatment and appropriate hydration prior to and/or after receiving treatment.
 
@@ -48,7 +53,6 @@ Excipients
 
 ALIMTA 100 mg powder for concentrate for solution for infusion
 This medicinal product contains less than 1 mmol sodium (23 mg) per vial, i.e. essentially ‘sodium-free’.
-
 ALIMTA 500 mg powder for concentrate for solution for infusion
 This medicinal product contains approximately 54 mg of sodium per vial.
 To be taken into consideration by patients on a controlled sodium diet.

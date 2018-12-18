@@ -22,7 +22,9 @@ Results from in vitro studies with human liver microsomes indicated that pemetre
 Interactions common to all cytotoxics
 Due to the increased thrombotic risk in patients with cancer, the use of anticoagulation treatment is frequent.
 The high intra-individual variability of the coagulation status during diseases and the possibility of interaction between oral anticoagulants and anticancer chemotherapy require increased frequency of INR (International Normalised Ratio) monitoring, if it is decided to treat the patient with oral anticoagulants.
+
 Concomitant use contraindicated: Yellow fever vaccine: risk of fatal generalised vaccinale disease (see section 4.3).
+
 Concomitant use not recommended: Live attenuated vaccines (except yellow fever, for which concomitant use is contraindicated): risk of systemic, possibly fatal, disease.
 The risk is increased in subjects who are already immunosuppressed by their underlying disease.
 Use an inactivated vaccine where it exists (poliomyelitis) (see section 4.4).

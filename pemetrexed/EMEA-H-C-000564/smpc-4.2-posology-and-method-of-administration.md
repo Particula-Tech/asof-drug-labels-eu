@@ -1,6 +1,7 @@
 # 4.2 Posology and method of administration
 
 Posology
+
 ALIMTA must only be administered under the supervision of a physician qualified in the use of anti-cancer chemotherapy.
 
 ALIMTA in combination with cisplatin
@@ -75,6 +76,7 @@ No dose reductions other than those recommended for all patients are necessary.
 Paediatric population
 There is no relevant use of ALIMTA in the paediatric population in malignant pleural mesothelioma and non-small cell lung cancer.
 Patients with renal impairment (Standard Cockcroft and Gault formula or Glomerular Filtration Rate measured Tc99m-DPTA serum clearance method)
+
 Pemetrexed is primarily eliminated unchanged by renal excretion.
 In clinical studies, patients with creatinine clearance of ≥ 45 ml/min required no dose adjustments other than those recommended for all patients.
 There are insufficient data on the use of pemetrexed in patients with creatinine clearance below 45 ml/min; therefore the use of pemetrexed is not recommended (see section 4.4).

@@ -21,7 +21,6 @@ Further dilution is required.
 
 4.
 The appropriate volume of reconstituted pemetrexed solution must be further diluted to 100 ml with sodium chloride 9 mg/ml (0.9 %) solution for injection, without preservative, and administered as an intravenous infusion over 10 minutes.
-
 5.
 Pemetrexed infusion solutions prepared as directed above are compatible with polyvinyl chloride and polyolefin lined administration sets and infusion bags.
 

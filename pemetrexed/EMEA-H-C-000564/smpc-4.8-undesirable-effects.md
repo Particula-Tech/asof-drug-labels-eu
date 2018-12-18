@@ -66,6 +66,7 @@ site conditions
 For the purpose of this table a cut off of 5 % was used for inclusion of all events where the reporter considered a possible relationship to pemetrexed and cisplatin.
 
 Clinically relevant CTC toxicities that were reported in ≥ 1 % and < 5 % of the patients that were randomly assigned to receive cisplatin and pemetrexed include: renal failure, infection, pyrexia, febrile neutropenia, increased AST, ALT, and GGT, urticaria and chest pain.
+
 Clinically relevant CTC toxicities that were reported in < 1 % of the patients that were randomly assigned to receive cisplatin and pemetrexed include arrhythmia and motor neuropathy.
 
 The table below provides the frequency and severity of undesirable effects that have been reported in > 5 % of 265 patients randomly assigned to receive single agent pemetrexed with folic acid and vitamin B12 supplementation and 276 patients randomly assigned to receive single agent docetaxel.
@@ -240,20 +241,24 @@ Sepsis, sometimes fatal, has been commonly reported during clinical trials with 
 
 During post marketing surveillance, the following adverse reactions have been reported in patients treated with pemetrexed:
 
+Hyperpigmentation has been commonly reported.
+
 Uncommon cases of acute renal failure have been reported with pemetrexed alone or in association with other chemotherapeutic agents (see section 4.4).
+Nephrogenic diabetes insipidus and renal tubular necrosis have been reported in post marketing setting with an unknown frequency.
 
 Uncommon cases of radiation pneumonitis have been reported in patients treated with radiation either prior, during or subsequent to their pemetrexed therapy (see section 4.4).
 
 Rare cases of radiation recall have been reported in patients who have received radiotherapy previously (see section 4.4).
 
 Uncommon cases of peripheral ischaemia leading sometimes to extremity necrosis have been reported.
-
 Rare cases of bullous conditions have been reported including Stevens-Johnson syndrome and Toxic epidermal necrolysis which in some cases were fatal.
+
 Rarely, immune-mediated haemolytic anaemia has been reported in patients treated with pemetrexed.
 
 Rare cases of anaphylactic shock have been reported.
 
 Erythematous oedema mainly of the lower limbs has been reported with an unknown frequency.
+Infectious and non-infectious disorders of the dermis, the hypodermis and/or the subcutaneous tissue have been reported with an unknown frequency (e.g. acute bacterial dermo-hypodermitis, pseudocellulitis, dermatitis).
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

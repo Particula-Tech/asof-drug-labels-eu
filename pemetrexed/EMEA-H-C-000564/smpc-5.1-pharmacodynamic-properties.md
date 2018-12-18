@@ -12,7 +12,6 @@ Polyglutamation is a time- and concentration-dependent process that occurs in tu
 Polyglutamated metabolites have an increased intracellular half-life resulting in prolonged drug action in malignant cells.
 
 The European Medicines Agency has waived the obligation to submit the results of studies with ALIMTA in all subsets of the paediatric population in the granted indications (see Section 4.2).
-
 Clinical efficacy
 
 Mesothelioma
@@ -77,12 +76,15 @@ NSCLC, first-line treatment
 
 A multicentre, randomised, open-label, Phase 3 study of ALIMTA plus cisplatin versus gemcitabine plus cisplatin in chemonaive patients with locally advanced or metastatic (Stage IIIb or IV) non-small cell lung cancer (NSCLC) showed that ALIMTA plus cisplatin (Intent-To-Treat [ITT] population n = 862) met its primary endpoint and showed similar clinical efficacy as gemcitabine plus cisplatin (ITT n = 863) in overall survival (adjusted hazard ratio 0.94; 95% CI = 0.84-1.05).
 All patients included in this study had an ECOG performance status 0 or 1.
+
 The primary efficacy analysis was based on the ITT population.
 Sensitivity analyses of main efficacy endpoints were also assessed on the Protocol Qualified (PQ) population.
 The efficacy analyses using PQ population are consistent with the analyses for the ITT population and support the non-inferiority of AC versus GC.
+
 Progression free survival (PFS) and overall response rate were similar between treatment arms: median PFS was 4.8 months for ALIMTA plus cisplatin versus 5.1 months for gemcitabine plus cisplatin (adjusted hazard ratio 1.04; 95% CI = 0.94-1.15), and overall response rate was 30.6%
 (95% CI = 27.3-33.9) for ALIMTA plus cisplatin versus 28.2% (95% CI = 25.0-31.4) for gemcitabine plus cisplatin.
 PFS data were partially confirmed by an independent review (400/1725 patients were randomly selected for review).
+
 The analysis of the impact of NSCLC histology on overall survival demonstrated clinically relevant differences in survival according to histology, see table below.
 Efficacy of ALIMTA + cisplatin vs. gemcitabine + cisplatin in first-line non-small cell lung cancer – ITT population and histology subgroups.
 
@@ -123,6 +125,7 @@ AC AC
 Survival Time (months) Survival Time (months)
 
 There were no clinically relevant differences observed for the safety profile of ALIMTA plus cisplatin within the histology subgroups.
+
 Patients treated with ALIMTA and cisplatin required fewer transfusions (16.4% versus 28.9%, p<0.001), red blood cell transfusions (16.1% versus 27.3%, p<0.001) and platelet transfusions (1.8% versus 4.5%, p=0.002).
 Patients also required lower administration of erythropoietin/darbopoietin (10.4% versus 18.1%, p<0.001), G-CSF/GM-CSF (3.1% versus 6.1%, p=0.004), and iron preparations (4.3% versus 7.0%, p=0.021).
 NSCLC, maintenance treatment
@@ -151,6 +154,7 @@ Including the induction phase the median OS for patients with NSCLC other than p
 The PFS and OS results in patients with squamous cell histology suggested no advantage for ALIMTA over placebo.
 
 There were no clinically relevant differences observed for the safety profile of ALIMTA within the histology subgroups.
+
 JMEN: Kaplan Meier plots of progression-free survival (PFS) and overall survival ALIMTA versus placebo in patients with NSCLC other than predominantly squamous cell histology:
 
 Progression-Free Survival Overall Survival
@@ -194,9 +198,5 @@ The percentage of patients that received post study treatment was 64.3% for ALIM
 PARAMOUNT:Kaplan Meier plot of progression-free survival (PFS) and Overall Survival (OS) for continuation ALIMTA maintenance versus placebo in patients with NSCLC other than predominantly squamous cell histology (measured from randomisation)
 
 Progression-Free Survival Overall Survival
-
-| 1.0 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0.0 0 3 6 9 12 15 PFTiSm eT (iMmoen t(hMs)onths) |  |
-| --- | --- |
-|  | 1.0 0.9 Pemetrexed 0.8 Placebo 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0.0 0 3 6 9 12 15 18 21 24 27 30 33 36 OS Time (Months) |
 
 The ALIMTA maintenance safety profiles from the two studies JMEN and PARAMOUNT were similar.
