@@ -24,4 +24,4 @@ Consistent with its antimuscarinic activity, umeclidinium bromide should be used
 
 Excipients
 This medicinal product contains lactose.
-Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not use this medicinal product.

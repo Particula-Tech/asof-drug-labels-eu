@@ -5,7 +5,7 @@ Pregnancy
 There are no data from the use of umeclidinium bromide in pregnant women.
 Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
 
-Umeclidinium bromide should be used during pregnancy only if the expected benefit to the mother justifies the potential risk to the fetus.
+Umeclidinium bromide should be used during pregnancy only if the expected benefit to the mother justifies the potential risk to the foetus.
 
 Breast-feeding
 

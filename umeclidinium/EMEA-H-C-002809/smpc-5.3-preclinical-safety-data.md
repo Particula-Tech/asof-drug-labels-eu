@@ -3,7 +3,7 @@
 Non clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity and carcinogenic potential.
 In nonclinical studies with umeclidinium bromide, findings were those typically associated with the primary pharmacology of muscarinic receptor antagonists and/or local irritancy.
 
-Reproductive toxicity
+Toxicity to reproduction
 
 Umeclidinium bromide was not teratogenic in rats or rabbits.
 In a pre- and post-natal study, subcutaneous administration of umeclidinium bromide to rats resulted in lower maternal body weight gain and food consumption and slightly decreased pre-weaning pup body weights in dams given 180 micrograms/kg/day dose (approximately 80-times the human clinical exposure of umeclidinium 55 micrograms, based on AUC).

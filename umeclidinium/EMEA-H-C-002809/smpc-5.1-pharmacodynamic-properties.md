@@ -17,10 +17,10 @@ There was no evidence for tachyphylaxis in the effect of Incruse Ellipta over ti
 
 Cardiac electrophysiology
 
-The effect of umeclidinium 500 micrograms (pre-dispensed) on the QT interval was evaluated in a placebo-and moxifloxacin-controlled QT trial of 103 healthy volunteers.
+The effect of umeclidinium 500 micrograms (pre-dispensed) on the QT interval was evaluated in a placebo- and moxifloxacin-controlled QT trial of 103 healthy volunteers.
 Following repeat doses of umeclidinium 500 micrograms once daily for 10 days, no clinically relevant effect on prolongation of QT interval (corrected using the Fridericia method) or effects on heart rate were observed.
 
-Clinical efficacy
+Clinical efficacy and safety
 
 The clinical efficacy of Incruse Ellipta administered once daily was evaluated in 904 adult patients who received umeclidinium bromide or placebo from two pivotal Phase III clinical studies with a clinical diagnosis of COPD; a 12-week study (AC4115408) and a 24-week study (DB2113373).
 
@@ -59,14 +59,16 @@ Similarly, a greater proportion of patients achieved at least the MCID for Incru
 
 COPD exacerbations
 In the 24-week study, Incruse Ellipta lowered the risk of a COPD exacerbation compared with placebo (analysis of time to first exacerbation; Hazard Ratio 0.6, p=0.035*).
-The probability of having an exacerbation in patients receiving Incruse Ellipta at week 24 was 8.9% compared with 13.7% for placebo.
+The probability of having an exacerbation in patients receiving Incruse Ellipta at week 24 was 8.9% compared with 13.7% for
+
+*A step-down statistical testing procedure was used in this study and this comparison was below a comparison that did not achieve statistical significance.
+Therefore, statistical significance on this comparison cannot be inferred.
+
+*A step-down statistical testing procedure was used in this study and this comparison was below a comparison that did not achieve statistical significance.
+Therefore, statistical significance on this comparison cannot be inferred.
+placebo.
 These studies were not specifically designed to evaluate the effect of treatments on COPD exacerbations and patients were withdrawn from the study if an exacerbation occurred.
 
-*A step-down statistical testing procedure was used in this study and this comparison was below a comparison that did not achieve statistical significance.
-Therefore, statistical significance on this comparison cannot be inferred.
-
-*A step-down statistical testing procedure was used in this study and this comparison was below a comparison that did not achieve statistical significance.
-Therefore, statistical significance on this comparison cannot be inferred.
 Use of rescue medicinal product
 In the 12-week study, Incruse Ellipta statistically significantly reduced the use of rescue medication with salbutamol compared with placebo (on average a reduction of 0.7 puffs per day over Weeks 1-12, p=0.025) and demonstrated a higher percentage of days when no rescue medication was needed (on average 46.3%) compared with placebo (on average 35.2%; no formal statistical analysis was performed on this endpoint).
 In the 24-week study treatment with Incruse Ellipta, the mean (SD) change from baseline in the number of puffs of rescue salbutamol over the 24-week treatment period was -1.4 (0.20) for placebo and -1.7 (0.16) for Incruse Ellipta (Difference = -0.3; 95% CI: -0.8, 0.2, p=0.276).

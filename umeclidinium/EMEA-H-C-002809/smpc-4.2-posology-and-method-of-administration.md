@@ -6,20 +6,21 @@ Adults
 
 The recommended dose is one inhalation of umeclidinium bromide once daily.
 
-Incruse Ellipta should be administered once daily at the same time of the day each day to maintain bronchodilation.
+Incruse Ellipta should be administered at the same time of the day each day to maintain bronchodilation.
 The maximum dose is one inhalation of umeclidinium bromide once daily.
 
 Special populations
 
 Elderly patients
-No dosage adjustment is required in patients over 65 years (see section 5.2).
+No dose adjustment is required in patients over 65 years (see section 5.2).
 
 Renal impairment
-No dosage adjustment is required in patients with renal impairment (see section 5.2).
+No dose adjustment is required in patients with renal impairment (see section 5.2).
 
 Hepatic impairment
-No dosage adjustment is required in patients with mild or moderate hepatic impairment.
+No dose adjustment is required in patients with mild or moderate hepatic impairment.
 Incruse Ellipta has not been studied in patients with severe hepatic impairment and should be used with caution (see section 5.2).
+
 Paediatric population
 
 There is no relevant use of Incruse Ellipta in the paediatric population (under 18 years of age) in the indication for COPD.
@@ -27,8 +28,6 @@ There is no relevant use of Incruse Ellipta in the paediatric population (under 
 Method of administration
 
 Incruse Ellipta is for inhalation use only.
-
-Instructions for use:
 
 The following instructions for the 30 dose inhaler (30 day supply) also apply to the 7 dose inhaler (7 day supply).
 
@@ -48,7 +47,9 @@ The tray can be discarded after first opening.
 If the inhaler cover is opened and closed without inhaling the medicinal product, the dose will be lost.
 The lost dose will be securely held inside the inhaler, but it will no longer be available to be inhaled.
 
-It is not possible to accidentally take extra medicine or a double dose in one inhalation.
+It is not possible to accidentally take extra medicinal product or a double dose in one inhalation.
+
+Instructions for use:
 
 a) Prepare a dose
 
@@ -74,7 +75,7 @@ The air vents should not be blocked with fingers during use.
 - Remove the inhaler from the mouth.
 - Breathe out slowly and gently.
 
-The medicine may not be tasted or felt, even when using the inhaler correctly.
+The medicinal product may not be tasted or felt, even when using the inhaler correctly.
 
 The mouthpiece of the inhaler may be cleaned using a dry tissue before closing the cover.
 c) Close the inhaler
