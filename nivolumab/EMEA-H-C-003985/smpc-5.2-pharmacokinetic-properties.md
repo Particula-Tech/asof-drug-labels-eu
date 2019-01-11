@@ -10,11 +10,11 @@ With available safety data, these decreases in CL were not clinically meaningful
 The metabolic pathway of nivolumab has not been characterised.
 Nivolumab is expected to be degraded into small peptides and amino acids via catabolic pathways in the same manner as endogenous IgG.
 
-Nivolumab in combination with ipilimumab: When nivolumab 1 mg/kg was administered in combination with ipilimumab 3 mg/kg, the CL of nivolumab was increased by 29%.
-There was no effect of nivolumab on the CL of ipilimumab.
+OPDIVO in combination with ipilimumab: When nivolumab 1 mg/kg was administered in combination with ipilimumab 3 mg/kg, the CL of nivolumab was increased by 29% and the CL of ipilimumab was increased by 9%, which was not considered clinically relevant.
+When nivolumab 3 mg/kg was administered in combination with ipilimumab 1 mg/kg, the CL of nivolumab was increased by 1% and the CL of ipilimumab was decreased by 1.5%, which were not considered clinically relevant.
 
-When administered in combination, the CL of nivolumab increased by 24% in the presence of anti-nivolumab antibodies.
-There was no effect of anti-ipilimumab antibodies on the CL of ipilimumab.
+When administered in combination with ipilimumab, the CL of nivolumab increased by 20% in the presence of anti-nivolumab antibodies and the CL of ipilimumab increased by 5.7% in the presence of anti-ipilimumab antibodies.
+These changes were not considered clinically relevant.
 
 Special populations
 

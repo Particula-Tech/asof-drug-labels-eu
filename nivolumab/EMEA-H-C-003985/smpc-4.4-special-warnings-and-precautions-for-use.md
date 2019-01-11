@@ -4,9 +4,9 @@ When nivolumab is administered in combination with ipilimumab, refer to the Summ
 Immune-related adverse reactions have occurred at higher frequencies when nivolumab was administered in combination with ipilimumab compared with nivolumab as monotherapy.
 Most immune-related adverse reactions improved or resolved with appropriate management, including initiation of corticosteroids and treatment modifications (see section 4.2).
 
-Cardiac adverse events and pulmonary embolism have also been reported with combination therapy.
+Cardiac and pulmonary adverse events including pulmonary embolism have also been reported with combination therapy.
 Patients should be monitored for cardiac and pulmonary adverse reactions continuously, as well as for clinical signs, symptoms, and laboratory abnormalities indicative of electrolyte disturbances and dehydration prior to and periodically during treatment.
-Nivolumab in combination with ipilimumab should be discontinued for life-threatening or recurrent severe cardiac and pulmonary adverse reactions.
+Nivolumab in combination with ipilimumab should be discontinued for life-threatening or recurrent severe cardiac and pulmonary adverse reactions (see section 4.2).
 
 Patients should be monitored continuously (at least up to 5 months after the last dose) as an adverse reaction with nivolumab or nivolumab in combination with ipilimumab may occur at any time during or after discontinuation of therapy.
 
@@ -18,7 +18,6 @@ Non-corticosteroid immunosuppressive therapy should be added if there is worseni
 
 Nivolumab or nivolumab in combination with ipilimumab should not be resumed while the patient is receiving immunosuppressive doses of corticosteroids or other immunosuppressive therapy.
 Prophylactic antibiotics should be used to prevent opportunistic infections in patients receiving immunosuppressive therapy.
-
 Nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued for any severe immune-related adverse reaction that recurs and for any life-threatening immune-related adverse reaction.
 
 Immune-related pneumonitis
@@ -36,6 +35,7 @@ Immune-related colitis
 Severe diarrhoea or colitis has been observed with nivolumab monotherapy or nivolumab in combination with ipilimumab (see section 4.8).
 Patients should be monitored for diarrhoea and additional symptoms of colitis, such as abdominal pain and mucus or blood in stool.
 Infectious and disease-related aetiologies should be ruled out.
+
 For Grade 4 diarrhoea or colitis, nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued, and corticosteroids should be initiated at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
 
 Nivolumab monotherapy should be withheld for Grade 3 diarrhoea or colitis, and corticosteroids initiated at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
@@ -52,7 +52,6 @@ Immune-related hepatitis
 Severe hepatitis has been observed with nivolumab monotherapy or nivolumab in combination with ipilimumab (see section 4.8).
 Patients should be monitored for signs and symptoms of hepatitis such as transaminase and total bilirubin elevations.
 Infectious and disease-related aetiologies should be ruled out.
-
 For Grade 3 or 4 transaminase or total bilirubin elevation, nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued, and corticosteroids should be initiated at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
 
 For Grade 2 transaminase or total bilirubin elevation, nivolumab or nivolumab in combination with ipilimumab should be withheld.
@@ -71,6 +70,7 @@ For Grade 4 serum creatinine elevation, nivolumab or nivolumab in combination wi
 For Grade 2 or 3 serum creatinine elevation, nivolumab or nivolumab in combination with ipilimumab should be withheld, and corticosteroids should be initiated at a dose of 0.5 to 1 mg/kg/day methylprednisolone equivalents.
 Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper.
 If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents, and nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued.
+
 Immune-related endocrinopathies
 Severe endocrinopathies, including hypothyroidism, hyperthyroidism, adrenal insufficiency (including secondary adrenocortical insufficiency), hypophysitis (including hypopituitarism), diabetes mellitus, and diabetic ketoacidosis have been observed with nivolumab monotherapy or nivolumab in combination with ipilimumab (see section 4.8).
 
@@ -111,7 +111,7 @@ If the patient has developed SJS or TEN with the use of nivolumab or nivolumab i
 Caution should be used when considering the use of nivolumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anticancer agents.
 
 Other immune-related adverse reactions
-The following immune-related adverse reactions were reported in less than 1% of patients treated with nivolumab monotherapy or nivolumab in combination with ipilimumab in clinical trials across doses and tumour types: pancreatitis, uveitis, demyelination, autoimmune neuropathy (including facial and abducens nerve paresis), Guillain-Barré syndrome, myasthenic syndrome, encephalitis, gastritis, sarcoidosis, duodenitis, myositis, myocarditis, and rhabdomyolysis.
+The following immune-related adverse reactions were reported in less than 1% of patients treated with nivolumab monotherapy or nivolumab in combination with ipilimumab in clinical trials across doses and tumour types: pancreatitis, uveitis, demyelination, autoimmune neuropathy (including facial and abducens nerve paresis), Guillain-Barré syndrome, myasthenia gravis, myasthenic syndrome, aseptic meningitis, encephalitis, gastritis, sarcoidosis, duodenitis, myositis, myocarditis, and rhabdomyolysis.
 Cases of Vogt-Koyanagi-Harada syndrome have been reported post-marketing (see section 4.8).
 
 For suspected immune-related adverse reactions, adequate evaluation should be performed to confirm aetiology or exclude other causes.
@@ -166,7 +166,6 @@ T cell co-stimulation or checkpoint pathways),
 - subjects under the age of 18 years.
 
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
-
 Non-Small Cell Lung Cancer
 Patients with a baseline performance score ≥ 2, active brain metastases or autoimmune disease, symptomatic interstitial lung disease, and patients who had been receiving systemic immunosuppressants prior to study entry were excluded from the clinical trials of NSCLC (see sections 4.5 and 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
@@ -176,8 +175,8 @@ In non-squamous NSCLC, a higher number of deaths within 3 months was observed in
 Factors associated with early deaths were poorer prognostic factors and/or more aggressive disease combined with low or no tumour PD-L1 expression (see section 5.1).
 
 Renal Cell Carcinoma
-Patients with any history of or concurrent brain metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the pivotal trial in RCC (see sections 4.5 and 5.1).
-In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+Patients with any history of or concurrent brain metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trials of nivolumab or nivolumab in combination with ipilimumab (see sections 4.5 and 5.1).
+In the absence of data, nivolumab or nivolumab in combination with ipilimumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
 Classical Hodgkin Lymphoma
 Patients with active autoimmune disease and symptomatic interstitial lung disease were excluded from clinical trials of cHL (see section 5.1).
@@ -186,6 +185,7 @@ In the absence of data, nivolumab should be used with caution in these populatio
 Complications of allogeneic Haematopoietic Stem Cell Transplant (HSCT) in classical Hodgkin Lymphoma
 Preliminary results from the follow-up of patients with cHL undergoing allogeneic HSCT after previous exposure to nivolumab showed a higher than expected number of cases of acute graft-versus-host disease (GVHD) and transplant related mortality (TRM).
 Until further data become available, careful consideration to the potential benefits of HSCT and the possible increased risk of transplant related complications should be made case-by-case (see section 4.8).
+
 In patients treated with nivolumab after allogeneic HSCT, rapid-onset and severe GVHD, some with fatal outcome, have been reported in the post-marketing setting.
 Treatment with nivolumab may increase the risk of severe GVHD and death in patients who have had prior allogeneic HSCT, mainly in those with prior history of GVHD.
 The benefit of treatment with nivolumab versus the possible risk should be considered in these patients (see section 4.8).
