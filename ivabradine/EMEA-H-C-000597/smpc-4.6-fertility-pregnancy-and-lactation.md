@@ -2,16 +2,16 @@
 
 Women of childbearing potential
 Women of child-bearing potential should use appropriate contraceptive measures during treatment (see section 4.3).
+
 Pregnancy
 There are no or limited amount of data from the use of ivabradine in pregnant women.
 Studies in animals have shown reproductive toxicity.
 These studies have shown embryotoxic and teratogenic effects (see section 5.3).
 The potential risk for humans is unknown.
-Therefore, ivabradine is contra-indicated during pregnancy (see section 4.3).
-
+Therefore, ivabradine is contraindicated during pregnancy (see section 4.3).
 Breast-feeding
 Animal studies indicate that ivabradine is excreted in milk.
-Therefore, ivabradine is contra-indicated during breast-feeding (see section 4.3).
+Therefore, ivabradine is contraindicated during breast-feeding (see section 4.3).
 Women that need treatment with ivabradine should stop breast-feeding, and choose for another way of feeding their child.
 
 Fertility

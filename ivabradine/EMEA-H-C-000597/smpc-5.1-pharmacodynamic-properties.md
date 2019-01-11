@@ -26,6 +26,7 @@ Clinical efficacy and safety
 
 The antianginal and anti-ischaemic efficacy of ivabradine was studied in five double-blind randomised trials (three versus placebo, and one each versus atenolol and amlodipine).
 These trials included a total of 4,111 patients with chronic stable angina pectoris, of whom 2,617 received ivabradine.
+
 Ivabradine 5 mg twice daily was shown to be effective on exercise test parameters within 3 to 4 weeks of treatment.
 Efficacy was confirmed with 7.5 mg twice daily.
 In particular, the additional benefit over 5 mg twice daily was established in a reference-controlled study versus atenolol: total exercise duration at trough was increased by about 1 minute after one month of treatment with 5 mg twice daily and further improved by almost 25 seconds after an additional 3-month period with forced titration to 7.5 mg twice daily.
@@ -88,6 +89,7 @@ The reduction in the primary endpoint was observed consistently irrespective of 
 
 In the subgroup of patients with HR ≥ 75 bpm (n=4150), a greater reduction was observed in the primary composite endpoint of 24 % (hazard ratio: 0.76, 95%CI [0.68;0.85] – p<0.0001) and for other secondary endpoints, including all cause death (hazard ratio: 0.83, 95%CI [0.72;0.96] – p=0.0109) and CV death (hazard ratio: 0.83, 95%CI [0.71;0.97] – p=0.0166).
 In this subgroup of patients, the safety profile of ivabradine is in line with the one of the overall population.
+
 A significant effect was observed on the primary composite endpoint in the overall group of patients receiving beta blocker therapy (hazard ratio: 0.85, 95%CI [0.76;0.94]).
 In the subgroup of patients with HR ≥ 75 bpm and on the recommended target dose of beta-blocker, no statistically significant benefit was observed on the primary composite endpoint (hazard ratio: 0.97, 95%CI [0.74;1.28]) and other secondary endpoints, including hospitalisation for worsening heart failure (hazard ratio: 0.79, 95% CI [0.56;1.10]) or death from heart failure (hazard ratio: 0.69, 95% CI [0.31;1.53]).
 

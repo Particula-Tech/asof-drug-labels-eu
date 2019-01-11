@@ -38,7 +38,7 @@ The following adverse reactions have been reported during clinical trials and ar
 |  | Rare* | Erythema |
 |  |  | Pruritus |
 |  |  | Urticaria |
-| Musculoskeletal and connective tissue disorders | Uncommon | Muscle cramps |
+| Musculoskeletal and connective tissue disorders | Uncommon | Muscle spasms |
 | General disorders and administration site conditions | Uncommon* | Asthenia, possibly related to bradycardia |
 |  |  | Fatigue, possibly related to bradycardia |
 |  | Rare* | Malaise, possibly related to bradycardia |

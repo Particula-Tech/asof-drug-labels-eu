@@ -3,7 +3,7 @@
 Symptomatic treatment of chronic stable angina pectoris
 Ivabradine is indicated for the symptomatic treatment of chronic stable angina pectoris in coronary artery disease adults with normal sinus rhythm and heart rate ≥ 70 bpm.
 Ivabradine is indicated :
-- in adults unable to tolerate or with a contra-indication to the use of beta-blockers
+- in adults unable to tolerate or with a contraindication to the use of beta-blockers
 - or in combination with beta-blockers in patients inadequately controlled with an optimal beta-blocker dose.
 
 Treatment of chronic heart failure

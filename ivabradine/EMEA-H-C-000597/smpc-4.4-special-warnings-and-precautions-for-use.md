@@ -8,7 +8,6 @@ Ivabradine is indicated only for symptomatic treatment of chronic stable angina 
 Measurement of heart rate
 Given that the heart rate may fluctuate considerably over time, serial heart rate measurements, ECG or ambulatory 24-hour monitoring should be considered when determining resting heart rate before initiation of ivabradine treatment and in patients on treatment with ivabradine when titration is considered.
 This also applies to patients with a low heart rate, in particular when heart rate decreases below 50 bpm, or after dose reduction (see section 4.2).
-
 Cardiac arrhythmias
 Ivabradine is not effective in the treatment or prevention of cardiac arrhythmias and likely loses its efficacy when a tachyarrhythmia occurs (eg. ventricular or supraventricular tachycardia).
 Ivabradine is therefore not recommended in patients with atrial fibrillation or other cardiac arrhythmias that interfere with sinus node function.
@@ -45,10 +44,10 @@ Cessation of treatment should be considered if any unexpected deterioration in v
 Caution should be exercised in patients with retinitis pigmentosa.
 
 Precautions for use
+
 Patients with hypotension
 Limited data are available in patients with mild to moderate hypotension, and ivabradine should therefore be used with caution in these patients.
-Ivabradine is contra-indicated in patients with severe hypotension (blood pressure < 90/50 mmHg) (see section 4.3).
-
+Ivabradine is contraindicated in patients with severe hypotension (blood pressure < 90/50 mmHg) (see section 4.3).
 Atrial fibrillation - Cardiac arrhythmias
 There is no evidence of risk of (excessive) bradycardia on return to sinus rhythm when pharmacological cardioversion is initiated in patients treated with ivabradine.
 However, in the absence of extensive data, non urgent DC-cardioversion should be considered 24 hours after the last dose of ivabradine.

@@ -38,7 +38,7 @@ Ivabradine should therefore be used with precaution in this population.
 Hepatic impairment
 No dose adjustment is required in patients with mild hepatic impairment.
 Caution should be exercised when using ivabradine in patients with moderate hepatic impairment.
-Ivabradine is contra-indicated for use in patients with severe hepatic insufficiency, since it has not been studied in this population and a large increase in systemic exposure is anticipated (see sections 4.3 and 5.2).
+Ivabradine is contraindicated for use in patients with severe hepatic insufficiency, since it has not been studied in this population and a large increase in systemic exposure is anticipated (see sections 4.3 and 5.2).
 
 Paediatric population
 The safety and efficacy of ivabradine for the treatment of chronic heart failure in children aged below 18 years have not been established.

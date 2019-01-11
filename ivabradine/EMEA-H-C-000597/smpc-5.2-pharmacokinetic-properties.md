@@ -9,7 +9,6 @@ Ivabradine is rapidly and almost completely absorbed after oral administration w
 The absolute bioavailability of the film-coated tablets is around 40%, due to first-pass effect in the gut and liver.
 Food delayed absorption by approximately 1 hour, and increased plasma exposure by 20 to 30 %.
 The intake of the tablet during meals is recommended in order to decrease intra-individual variability in exposure (see section 4.2).
-
 Distribution
 Ivabradine is approximately 70% plasma protein bound and the volume of distribution at steady-state is close to 100 l in patients.
 The maximum plasma concentration following chronic administration at the recommended dose of 5 mg twice daily is 22 ng/ml (CV=29%).

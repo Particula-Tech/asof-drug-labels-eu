@@ -21,9 +21,8 @@ Ivabradine was shown not to influence the metabolism and plasma concentrations o
 CYP3A4 inhibitors and inducers are liable to interact with ivabradine and influence its metabolism and pharmacokinetics to a clinically significant extent.
 Drug-drug interaction studies have established that CYP3A4 inhibitors increase ivabradine plasma concentrations, while inducers decrease them.
 Increased plasma concentrations of ivabradine may be associated with the risk of excessive bradycardia (see section 4.4).
-
-Contra-indication of concomitant use
-The concomitant use of potent CYP3A4 inhibitors such as azole antifungals (ketoconazole, itraconazole), macrolide antibiotics (clarithromycin, erythromycin per os, josamycin, telithromycin), HIV protease inhibitors (nelfinavir, ritonavir) and nefazodone is contra-indicated (see section 4.3).
+Contraindication of concomitant use
+The concomitant use of potent CYP3A4 inhibitors such as azole antifungals (ketoconazole, itraconazole), macrolide antibiotics (clarithromycin, erythromycin per os, josamycin, telithromycin), HIV protease inhibitors (nelfinavir, ritonavir) and nefazodone is contraindicated (see section 4.3).
 The potent CYP3A4 inhibitors ketoconazole (200 mg once daily) and josamycin (1 g twice daily) increased ivabradine mean plasma exposure by 7 to 8 fold.
 
 Moderate CYP3A4 inhibitors: specific interaction studies in healthy volunteers and patients have shown that the combination of ivabradine with the heart rate reducing agents diltiazem or verapamil resulted in an increase in ivabradine exposure (2 to 3 fold increase in AUC) and an additional heart rate reduction of 5 bpm.
