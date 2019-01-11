@@ -13,7 +13,6 @@ Dosing for patients with melanoma and NSCLC
 Pembrolizumab doses of 2 mg/kg every 3 weeks, 10 mg/kg every 3 weeks, and 10 mg/kg every 2 weeks were evaluated in melanoma or previously treated NSCLC clinical trials.
 Based on the dose/exposure relationships for efficacy and safety for pembrolizumab, there are no clinically significant differences in efficacy and safety between the doses of 200 mg or 2 mg/kg every 3 weeks in patients with melanoma or NSCLC.
 The recommended dose of pembrolizumab is 200 mg every 3 weeks.
-
 Melanoma
 KEYNOTE-006: Controlled trial in melanoma patients naïve to treatment with ipilimumab
 The safety and efficacy of pembrolizumab were investigated in KEYNOTE-006, a multicentre, controlled, Phase III study for the treatment of advanced melanoma in patients who were naïve to ipilimumab.
@@ -399,16 +398,16 @@ Table 11 summarises efficacy results by PD-L1 expression and BRAF mutation statu
 
 Table 11: Efficacy results by PD-L1 expression and BRAF mutation status in KEYNOTE-054
 
-| Endpoint Pembrolizumab Placebo 200 mg every 3 weeks | Pembrolizumab Placebo 200 mg every 3 weeks |
-| --- | --- |
-| PD-L1 positive | PD-L1 negative |
-| n=428 n=425 | n=59 n=57 |
-| RFS Hazard ratio* (95% CI) 0.54 (0.42, 0.69) --- | 0.47 (0.26, 0.85) --- |
-| RFS rate at 6 months 84% 75% | 81% 64% |
-| BRAF mutation positive | BRAF mutation negative |
-| n=245 n=262 | n=233 n=214 |
-| RFS Hazard ratio* (95% CI) 0.49 (0.36, 0.67) --- | 0.64 (0.47, 0.87) --- |
-| RFS rate at 6 months 83% 73% | 80% 72% |
+Endpoint Pembrolizumab Placebo Pembrolizumab Placebo
+200 mg every 3 weeks 200 mg every 3 weeks
+PD-L1 positive PD-L1 negative
+n=428 n=425 n=59 n=57
+RFS Hazard ratio* (95% CI) 0.54 (0.42, 0.69) --- 0.47 (0.26, 0.85) ---
+RFS rate at 6 months 84% 75% 81% 64%
+BRAF mutation positive BRAF mutation negative
+n=245 n=262 n=233 n=214
+RFS Hazard ratio* (95% CI) 0.49 (0.36, 0.67) --- 0.64 (0.47, 0.87) ---
+RFS rate at 6 months 83% 73% 80% 72%
 
 *Based on the stratified Cox proportional hazard model
 
