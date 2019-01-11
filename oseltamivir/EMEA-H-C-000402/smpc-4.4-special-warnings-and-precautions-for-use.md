@@ -14,7 +14,8 @@ Severe concomitant condition
 No information is available regarding the safety and efficacy of oseltamivir in patients with any medical condition sufficiently severe or unstable to be considered at imminent risk of requiring hospitalisation.
 
 Immunocompromised patients
-The efficacy of oseltamivir in either treatment or prophylaxis of influenza in immunocompromised patients has not been firmly established (see section 5.1).
+The efficacy of oseltamivir in either treatment or prophylaxis of influenza in immunocompromised patients has not been firmly established.
+However, the duration of treatment of influenza in immunocompromised adult patients should be 10 days, as there are no studies of a shorter course of oseltamivir in this patient group (see section 5.1).
 
 Cardiac / respiratory disease
 Efficacy of oseltamivir in the treatment of subjects with chronic cardiac disease and/or respiratory disease has not been established.

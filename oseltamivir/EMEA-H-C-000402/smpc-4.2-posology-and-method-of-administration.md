@@ -82,7 +82,6 @@ Insufficient data are available for these patients, in whom different dosing may
 Post-exposure prevention: The recommended prophylaxis dose for infants less than 1 year of age during a pandemic influenza outbreak is half of the daily treatment dose.
 This is based upon clinical data in infants and children 1 year of age or older and adults showing that a prophylaxis dose equivalent to half the daily treatment dose is clinically efficacious for the prevention of influenza.
 The following age-adjusted dosing prophylaxis regimen is recommended for infants 0 - 12 months of age (see Section 5.2 for exposure simulation):
-:
 
 | Age | Recommended dose for 10 days |
 | --- | --- |
@@ -136,7 +135,10 @@ Elderly
 No dose adjustment is required, unless there is evidence of moderate or severe renal impairment.
 
 Immunocompromised patients
-Longer duration of seasonal prophylaxis up to 12 weeks has been evaluated in immunocompromised patients (see sections 4.4, 4.8 and 5.1).
+Treatment: The recommended oral dose is 75 mg oseltamivir twice daily for 10 days for adults (see sections 4.4, 4.8 and 5.1).
+Treatment should be initiated as soon as possible within the first two days of onset of symptoms of influenza.
+
+Seasonal prophylaxis: Longer duration of seasonal prophylaxis up to 12 weeks has been evaluated in immunocompromised patients (see sections 4.4, 4.8 and 5.1).
 
 Method of administration
 

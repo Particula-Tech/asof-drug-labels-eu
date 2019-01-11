@@ -52,7 +52,6 @@ By day 6 (the last day of treatment) FEV1 had increased by 10.8 % in the oseltam
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Tamiflu in one or more subsets of the paediatric population in influenza.
 See section 4.2 for information on paediatric use.
-
 The indication in infants below the age of 1 is based upon extrapolation of efficacy data from older children and the recommended posology is based upon pharmacokinetic modelling data (see Section 5.2).
 
 Treatment of influenza B infection: Overall, 15 % of the influenza-positive population were infected by influenza B, proportions ranging from 1 to 33 % in individual studies.
@@ -60,6 +59,13 @@ The median duration of illness in influenza B infected subjects did not differ s
 Data from 504 influenza B infected subjects were pooled across all studies for analysis.
 Oseltamivir reduced the time to alleviation of all symptoms by 0.7 days (95 % CI 0.1 – 1.6 days;
 p = 0.022) and the duration of fever (≥ 37.8 °C), cough and coryza by one day (95 % CI 0.4 – 1.7 days; p < 0.001) compared to placebo.
+
+Treatment of influenza in immunocompromised adults: A randomized, double blind study, to evaluate safety and characterize the effects of oseltamivir on the development of resistant influenza virus (primary analysis) in influenza-infected adult immunocompromised patients, included 151 patients evaluable for efficacy of oseltamivir (secondary analysis, not powered).
+The study included solid organ transplant [SOT] patients, haematopoietic stem cell transplant [HSCT] patients, HIV positive patients with a CD4+ cell count <500 cells/mm3, patients on systemic immunosuppressive therapy, and those with haematological malignancy.
+These patients were randomized to be treated, within 96 hours of symptoms onset, with standard dose (73 patients) or double dose (78 patients) of oseltamivir, for a duration of 10 days.
+
+The median time to resolution of symptoms (TTRS) was similar between the standard dose group (103 hours [90% CI 75.4-110.0]) and double dose group (104 hours [90% CI 65.8-131.0]).
+The proportion of patients with secondary infections in the standard dose group and double dose group was comparable (8.2% vs 5.1%).
 
 Prevention of influenza
 The efficacy of oseltamivir in preventing naturally occurring influenza illness has been demonstrated in a post-exposure prevention study in households and two seasonal prevention studies.
@@ -102,15 +108,21 @@ Developing oseltamivir-resistant virus during treatment was more frequent in chi
 Children who were found to carry oseltamivir-resistant virus in general shed the virus for a prolonged period compared with subjects with susceptible virus.
 However treatment-emergent resistance to oseltamivir did not affect treatment response and caused no prolongation of influenza symptoms.
 
+An overall higher incidence of oseltamivir-resistance was observed in adult immunocompromised patients treated with standard dose or double dose of oseltamivir for a duration of 10 days [14.9% (10/67) in standard dose group and 2.8% (2/71) in double dose group], compared to data from studies with oseltamivir-treated otherwise healthy adult patients.
+The majority of patients that developed resistance were transplant recipients (8/10 patients in the standard dose group and 2/2 patients in the double dose group).
+Most of the patients with oseltamivir-resistant virus were infected with influenza type A and had prolonged viral shedding.
+Incidence of Oseltamivir Resistance in Clinical Studies
+
 | Patient Population | Patients with Resistance Mutations (%) |  |
 | --- | --- | --- |
 |  | Phenotyping* | Geno- and Phenotyping* |
-| Adults and adolescents | 0.62% (14/2253) | 0.67% (15/2253) |
+| Adults and adolescents | 0.88% (21/2377) | 1.12% (27/2391) |
 | Children (1-12 years) | 3.89% (66/1698) | 4.24% (72/1698) |
 | Infants (<1year) | 18.31% (13/71) | 18.31% (13/71) |
 
 * Full genotyping was not performed in all studies.
 
+Prophylaxis of Influenza
 There has been no evidence for emergence of drug resistance associated with the use of Tamiflu in clinical studies conducted to date in post-exposure (7 days), post-exposure within household groups (10 days) and seasonal (42 days) prevention of influenza in immunocompetent patients.
 There was no resistance observed during a 12-week prophylaxis study in immunocompromised patients.
 
@@ -134,7 +146,7 @@ In influenza-positive older people, oseltamivir significantly reduced the incide
 | Patient Population | Patients with Resistance Mutations (%) |  |
 | --- | --- | --- |
 |  | Phenotyping* | Geno- and Phenotyping* |
-| Adults and adolescents | 0.62% (14/2253) | 0.67% (15/2253) |
+| Adults and adolescents | 0.88% (21/2377) | 1.12% (27/2391) |
 | Children (1-12 years) | 3.89% (66/1698) | 4.24% (72/1698) |
 | Infant (<1 year) | 18.31% (13/71) | 18.31 (13/71) |
 
@@ -143,7 +155,7 @@ In influenza-positive older people, oseltamivir significantly reduced the incide
 | Patient Population | Patients with Resistance Mutations (%) |  |
 | --- | --- | --- |
 |  | Phenotyping* | Geno- and Phenotyping* |
-| Adults and adolescents | 0.62% (14/2253) | 0.67% (15/2253) |
+| Adults and adolescents | 0.88% (21/2377) | 1.12% (27/2391) |
 | Children (1-12 years) | 3.89% (66/1698) | 4.24% (72/1698) |
 | Infants (<1 year) | 18.31% (13/71) | 18.31% (13/71) |
 
