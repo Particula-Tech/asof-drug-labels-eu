@@ -43,8 +43,8 @@ thoracic and mediastinal disorders
 
 Gastrointestinal Diarrhea Constipation
 disorders Vomiting Abdominal pain
-Skin and Erythema Urticaria
-subcutaneous Alopecia
+Skin and Erythema Urticaria Dermatitis
+subcutaneous Dermatitis diaper Alopecia psoriasiform
 
 tissue disorders
 

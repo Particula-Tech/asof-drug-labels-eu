@@ -18,7 +18,6 @@ This combination must only be administered under close clinical and ECG monitori
 Interactions requiring caution
 
 Cardiovascular Medicinal Products
-
 Antiarrhythmics
 
 - Propafenone has negative inotropic and beta-blocking properties that can be additive to those of propranolol, despite a reassuring study in healthy volunteers.
