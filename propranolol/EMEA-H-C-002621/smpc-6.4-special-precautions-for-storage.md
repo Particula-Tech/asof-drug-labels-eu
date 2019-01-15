@@ -1,5 +1,5 @@
 # 6.4 Special precautions for storage
 
-Keep the bottle in the original carton in order to protect from light.
+Keep the bottle in the outer carton in order to protect from light.
 Do not freeze.
-Store the bottle and the syringe together in the carton box between each use.
+Store the bottle and the oral syringe in the outer carton between each use.

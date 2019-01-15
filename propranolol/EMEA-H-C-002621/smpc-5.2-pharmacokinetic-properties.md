@@ -19,6 +19,7 @@ Propranolol is metabolized through three primary routes: aromatic hydroxylation 
 The percentage contributions of these routes to total metabolism are 42%, 41% and 17%, respectively, but with considerable variability between individuals.
 The four major final metabolites are propranolol glucuronide, naphthyloxylactic acid and glucuronic acid, and sulfate conjugates of 4-hydroxy propranolol.
 In vitro studies indicated that CYP2D6 (aromatic hydroxylation), CYP1A2 (chain oxidation) and to a less extent CYP2C19 were involved in propranolol metabolism.
+
 In healthy subjects, no difference was observed between CYP2D6 extensive metabolizers and poor metabolizers with respect to oral clearance or elimination half-life.
 The plasma half-life of propranolol ranges from 3 to 6 hours.
 Less than 1% of a dose is excreted as unchanged drug in the urine.

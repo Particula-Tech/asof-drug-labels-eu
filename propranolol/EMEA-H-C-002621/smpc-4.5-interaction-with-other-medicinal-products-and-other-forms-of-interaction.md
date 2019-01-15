@@ -15,13 +15,14 @@ Bradycardia –inducing calcium-channel blockers (diltiazem, verapamil, bepridil
 Co-administration with propranolol can cause altered automaticity (excessive bradycardia, sinus arrest), sino-atrial and atrio-ventricular conduction disorders, and increased risk of ventricular arrhythmias (torsades de pointes) along with heart failure.
 This combination must only be administered under close clinical and ECG monitoring, particularly at the start of the treatment.
 
-Interactions requiring caution
+Interactions requiring precautions for use
 
-Cardiovascular Medicinal Products
+Cardiovascular medicinal products
+
 Antiarrhythmics
 
-- Propafenone has negative inotropic and beta-blocking properties that can be additive to those of propranolol, despite a reassuring study in healthy volunteers.
-- The metabolism of propranolol is reduced by co-administration of quinidine, leading to a two-three fold increased blood concentration and greater degrees of clinical beta-blockade.
+- Propafenone has negative inotropic and beta-blocking properties that can be additive to those of propranolol.
+- The metabolism of propranolol is reduced by co-administration of quinidine, leading to a two-three-fold increased blood concentration and greater degrees of clinical beta-blockade.
 - Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with β-blockers such as propranolol.
   Automatism and conduction disorders are expected because of the suppression of sympathetic compensative mechanisms.
 - The metabolism of intravenous lidocaine is inhibited by co-administration of propranolol, resulting in a 25% increase in lidocaine concentrations.
@@ -30,6 +31,7 @@ Antiarrhythmics
 Digitalis glycosides
 Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate.
 Concomitant use can increase the risk of bradycardia.
+The advice of a cardiologist should be sought.
 
 Dihydropyridines
 Caution should be exercised when patients receiving a beta blocker are administered a dihydropyridine.
@@ -37,20 +39,17 @@ Both agents may induce hypotension and/or heart failure in patients whose cardia
 Concomitant use may reduce the reflex sympathetic response involved when excessive distal vasodilatation.
 
 Antihypertensives (ACE Inhibitors, angiotensin II-receptors antagonists, diuretics, alpha-blockers whatever the indication, centrally-acting antihypertensives, reserpine, etc)
-When combined with beta-blockers, drugs that decrease arterial pressure can cause or increase hypotension, notably orthostatic.
+When combined with beta-blockers, medicinal products that decrease arterial pressure can cause or increase hypotension, notably orthostatic.
 With regard to centrally-acting antihypertensives, beta-blockers may exacerbate the rebound hypertension after clonidine abrupt withdrawal, and propranolol should be stopped several days before discontinuing clonidine.
-
-Non-Cardiovascular Medicinal Products
+Non-cardiovascular medicinal products
 
 Corticosteroids
 Patients with infantile haemangioma may be at increased risk if they have received or are concomitantly receiving treatment with corticosteroids because adrenal suppression may result in loss of the counterregulatory cortisol response and increase the risk of hypoglycaemia.
-This also applies when children are breastfed by mothers treated with corticosteroids in case of high dosage or prolonged treatment.
+This also applies when children are breastfed by mothers treated with corticosteroids in case of high dosage or prolonged treatment (see section 4.4 concerning hypoglycaemia).
 
-Nonsteroidal Anti-Inflammatory Drugs
-Non steroidal anti-inflammatory drugs (NSAIDS) have been reported to blunt the antihypertensive effect of beta-blocking agents.
-
-Drugs inducing orthostatic hypotension
-Drugs that induce postural hypotension (nitrates derivatives, type 5-phosphodiesterase inhibitors, tricyclic antidepressants, antipsychotics, dopaminergic agonists, levodopa, amifostine, baclofen…) may add their effects to that of beta-blockers.
+Medicinal products inducing orthostatic hypotension
+Medicinal products that induce postural hypotension (nitrates derivatives, type 5-phosphodiesterase inhibitors, tricyclic antidepressants, antipsychotics, dopaminergic agonists, levodopa, amifostine, baclofen…) may add their effects to that of beta-blockers.
+The advice of a cardiologist should be sought.
 
 Enzyme inducers
 Blood levels of propranolol may be decreased by co-administration of enzyme inducers like rifampicin or phenobarbital.
@@ -59,6 +58,7 @@ Hypoglycaemic agents
 All beta-blocking agents can mask certain symptoms of hypoglycaemia: palpitations and tachycardia.
 Use of propranolol alongside hypoglycaemic therapy in diabetic patients should be with caution since it may prolong the hypoglycaemic response to insulin.
 In this case, inform the caregiver, and increase monitoring of blood glucose levels, particularly at the start of treatment.
+
 Lipid lowering medicinal products
 Co-administration of cholestyramine or colestipol with propranolol resulted in up to 50% decrease in propranolol concentrations.
 

@@ -1,7 +1,7 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-In clinical trials for proliferating infantile haemangioma, the most frequently reported adverse reactions in infant treated with HEMANGIOL were sleep disorders, aggravated respiratory tract infections such as bronchitis and bronchiolitis associated with cough and fever, diarrhoea, and vomiting.
+In clinical trials for proliferating infantile haemangioma, the most frequently reported adverse reactions in infant treated with HEMANGIOL were sleep disorders (16.7%), aggravated respiratory tract infections such as bronchitis and bronchiolitis associated with cough and fever, diarrhoea (16.5%), and vomiting (11.5%).
 Globally, the adverse reactions reported in the compassionate use program and in literature concerned hypoglycemia (and related event like hypoglycaemic seizure) and aggravated respiratory tract infections with respiratory distress.
 
 Tabulated list of adverse reactions
@@ -10,7 +10,7 @@ Their frequency is defined using the following conventions: very common (≥ 1/1
 Due to the clinical trial database size rare and very rare categories are not represented.
 Within each system organ class, adverse reactions are presented in order of decreasing seriousness.
 
-Very Common Common Uncommon Not known
+Very common Common Uncommon Not known
 Infections and Bronchitis Bronchiolitis
 
 infestations
@@ -20,7 +20,6 @@ nutrition appetite
 
 disorders
 
-Very Common Common Uncommon Not known
 Psychiatric Sleep disorder Agitation
 disorders Nightmares
 
@@ -57,7 +56,6 @@ Neutropenia
 Description of selected adverse reactions
 Concerning the lower respiratory tract infections like bronchitis or bronchiolitis, an aggravation of symptoms (including bronchospasm) has been observed in patients treated with HEMANGIOL due to the bronchoconstrictive effect of propranolol.
 These effects rarely led to definitive treatment discontinuation (see section 4.4).
-
 Sleep disorders corresponded to insomnia, poor quality of sleep and hypersomnia.
 Other Central Nervous System disorders were principally observed during the early periods of treatment.
 
@@ -74,6 +72,7 @@ Blood sugar decreases observed during clinical studies were asymptomatic.
 However, several reports of hypoglycaemia with related hypoglycaemic seizure were reported during the compassionate use program and in literature, especially in case of fasting period during intercurrent illness (see section 4.4).
 
 Concomitant treatment with systemic corticosteroids may increase the risk of hypoglycemia (see section 4.5).
+
 Hyperkalaemia has been reported in the literature in few patients with large ulcerated haemangioma (see section 4.4).
 
 Reporting of suspected adverse reactions

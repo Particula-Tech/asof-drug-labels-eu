@@ -1,7 +1,7 @@
 # 4.3 Contraindications
 
 - Premature infants, for whom the corrected age of 5 weeks has not been reached (the corrected age being calculated by subtracting the number of weeks of prematurity from the actual age)
-- Breastfed infants, if the mother is treated with medicines contraindicated with propranolol
+- Breastfed infants, if the mother is treated with medicinal products contraindicated with propranolol
 - Hypersensitivity to the active substance or to any of the excipients listed in section 6.1
 - Asthma or history of bronchospasm
 - Second- or third-degree atrioventricular blocks
@@ -19,7 +19,7 @@
 | Blood pressure (mmHg) | 65/45 | 70/50 | 80/55 |
 
 - Cardiogenic shock
-- Heart failure not controlled by medication
+- Heart failure not controlled by treatment
 - Prinzmetal’s angina
 - Severe peripheral arterial circulatory disturbances (Raynaud’s phenomenon)
 - Infants prone to hypoglycaemia

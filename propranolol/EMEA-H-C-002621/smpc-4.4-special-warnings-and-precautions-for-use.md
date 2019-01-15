@@ -26,22 +26,22 @@ It can aggravate hypoglycaemia in children, especially in case of fasting, vomit
 These hypoglycaemic episodes associated with the taking of propranolol may present exceptionally in the form of seizures and/or coma.
 If clinical signs of hypoglycaemia occur, it is necessary to make the child drink a sugary liquid solution and to temporarily stop the treatment.
 Appropriate monitoring of the child is required until symptoms disappear.
-In children with diabetes, blood glucose monitoring should be increased.
+In children with diabetes, blood glucose monitoring should be more frequent and followed by the endocrinologist.
 
 Respiratory disorders
 In the event of lower respiratory tract infection associated with dyspnoea and wheezing, treatment should be temporarily discontinued.
 The administration of beta2 agonists and inhaled corticosteroids is possible.
 The readministration of propranolol may be considered when the child has fully recovered; in case of reoccurrence, treatment should be permanently discontinued.
 In the event of isolated bronchospasm, treatment must be permanently discontinued.
-
-Cardiac Failure:
+Cardiac failure:
 Sympathetic stimulation may be a vital component supporting circulatory function in patients with congestive heart failure, and its inhibition by beta blockade may precipitate more severe failure.
+In children with cardiac failure, the treatment should be managed by the cardiologist.
 
 PHACE syndrome
 Very limited safety data of propranolol in PHACE syndrome patients are available.
 Propranolol may increase the risk of stroke in PHACE syndrome patients with severe cerebrovascular anomalies by dropping blood pressure and attenuating flow through occluded, narrow, or stenotic vessels.
 Infants with large facial infantile hemangioma should be thoroughly investigated for potential arteriopathy associated with PHACE syndrome, with magnetic resonance angiography of the head and neck and cardiac imaging to include the aortic arch, prior to considering propranolol therapy.
-Specialized advice should be sought.
+Specialised advice should be sought.
 
 Breast-feeding:
 Propranolol passes through breast milk, mothers being treated with propranolol who breastfeed their infant should inform their health care professional.
@@ -52,6 +52,7 @@ In the absence of data in children, propranolol is not recommended in case of re
 
 Hypersensitivity
 In patients likely to experience severe anaphylactic reaction, regardless of origin, particularly with iodinated contrast agents, beta-blocker treatment may lead to worsening of the reaction and resistance to its treatment with adrenaline at normal doses.
+In children who are at risk of anaphylaxis, the benefit risk of the medicinal product should be evaluated.
 
 General anaesthesia
 Beta-blockers will result in an attenuation of reflex tachycardia and an increased risk of hypotension.
@@ -65,3 +66,9 @@ A monitoring of electrolyte should be performed in these patients.
 Psoriasis
 Worsening of disease has been reported with beta-blockers in patients suffering from psoriasis.
 Therefore the need for treatment should be carefully weighed up.
+
+Excipients with known effects
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially ‘sodium-free’.
+This medicinal product contains 2.08 mg of propylene glycol/kg/day.
+Caution should be taken into account in babies less than 4 weeks old, in particular if the baby is given other medicines that contain propylene glycol or alcohol.
+Co-administration with any substrate for alcohol dehydrogenase such as ethanol may induce serious adverse effects in neonates.
