@@ -11,7 +11,7 @@ IL-6 has been implicated in the pathogenesis of diseases including inflammatory 
 
 RA Patients
 Pharmacodynamic effects
-In clinical studies with tocilizumab, rapid decreases in CRP, erythrocyte sedimentation rate (ESR) and serum amyloid A (SAA) were observed.
+In clinical studies with tocilizumab, rapid decreases in CRP, erythrocyte sedimentation rate (ESR), serum amyloid A (SAA) and fibrinogen were observed.
 Consistent with the effect on acute phase reactants, treatment with tocilizumab was associated with reduction in platelet count within the normal range.
 Increases in haemoglobin levels were observed, through tocilizumab decreasing the IL-6 driven effects on hepcidin production to increase iron availability.
 In tocilizumab-treated patients, decreases in the levels of CRP to within normal ranges were seen as early as week 2, with decreases maintained while on treatment.
@@ -23,6 +23,7 @@ Rheumatoid arthritis patients demonstrated a similar pattern of absolute neutrop
 Clinical efficacy and safety
 The efficacy of tocilizumab in alleviating the signs and symptoms of RA was assessed in five randomised, double-blind, multi-centre studies.
 Studies I-V enrolled patients ≥ 18 years of age with active RA diagnosed according to the American College of Rheumatology (ACR) criteria and who had at least eight tender and six swollen joints at baseline.
+
 In Study I, tocilizumab was administered intravenously every four weeks as monotherapy.
 In Studies II, III and V, tocilizumab was administered intravenously every four weeks in combination with MTX vs. placebo and MTX.
 In Study IV, tocilizumab was administered intravenously every 4 weeks in combination with other DMARDs vs. placebo and other DMARDs.
@@ -64,6 +65,7 @@ Patients in studies I – V had a mean Disease Activity Score (DAS28) of 6.5–6
 Significant reduction in DAS28 from baseline (mean improvement) of 3.1–3.4 were observed in tocilizumab-treated patients compared to control patients (1.3-2.1).
 The proportion of patients achieving a DAS28 clinical remission (DAS28 < 2.6) was significantly higher in patients receiving tocilizumab (28–34%) compared to 1–12% of control patients at 24 weeks.
 In study II, 65% of patients achieved a DAS28 < 2.6 at week 104 compared to 48% at 52 weeks and 33% of patients at week 24.
+
 In a pooled analysis of studies II, III and IV, the proportion of patients achieving an ACR 20, 50 and 70 response was significantly higher (59% vs. 50%, 37% vs. 27%, 18% vs. 11%, respectively) in the tocilizumab 8 mg/kg plus DMARD vs. the tocilizumab 4 mg/kg plus DMARD group (p< 0.03).
 Similarly the proportion of patients achieving a DAS28 remission (DAS28 < 2.6) was significantly higher (31% vs. 16% respectively) in patients receiving tocilizumab 8 mg/kg plus DMARD than in patients receiving tocilizumab 4 mg/kg plus DMARD (p< 0.0001).
 
@@ -316,7 +318,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 [RoActemra 162 mg solution for injection in pre-filled syringe.]
 
-In clinical studies with RoActemra, rapid decreases in CRP, erythrocyte sedimentation rate (ESR) and serum amyloid A (SAA) were observed.
+In clinical studies with RoActemra, rapid decreases in CRP, erythrocyte sedimentation rate (ESR), serum amyloid A (SAA) and fibrinogen were observed.
 Consistent with the effect on acute phase reactants, treatment with RoActemra was associated with reduction in platelet count within the normal range.
 Increases in haemoglobin levels were observed, through RoActemra decreasing the IL-6 driven effects on hepcidin production to increase iron availability.
 In RoActemra -treated patients, decreases in the levels of CRP to within normal ranges were seen as early as week 2, with decreases maintained while on treatment.
@@ -630,7 +632,7 @@ Pharmacotherapeutic group: Immunosupressants, Interleukin inhibitors; ATC code: 
 RoActemra binds specifically to both soluble and membrane-bound IL-6 receptors (sIL-6R and mIL-6R).
 RoActemra has been shown to inhibit sIL-6R and mIL-6R-mediated signalling.
 
-In RA clinical studies with RoActemra, rapid decreases in CRP, erythrocyte sedimentation rate (ESR) and serum amyloid A (SAA) were observed.
+In RA clinical studies with RoActemra, rapid decreases in CRP, erythrocyte sedimentation rate (ESR), serum amyloid A (SAA) and fibrinogen were observed.
 
 RA and GCA patients demonstrate a comparable (to healthy subjects) decrease of absolute neutrophil counts following RoActemra administration (see section 4.8).
 
