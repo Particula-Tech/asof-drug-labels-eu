@@ -13,6 +13,6 @@
 5 pack – 12 months
 30 pack – 18 months
 90 pack – 18 months
-Once the tray is opened, the single dose containers should be used within 30 days.
+Once the pouch is opened, the single dose containers should be used within 30 days.
 
 Discard the opened single-dose container immediately after use.

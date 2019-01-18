@@ -34,7 +34,6 @@ Conjunctival hyperaemia, growth of eyelashes, and eye pruritus were statisticall
 
 Compared to treatment with beta-blocker alone, adjunctive therapy with beta-blocker and
 LUMIGAN 0.3 mg/ml lowered mean morning (08:00) intraocular pressure by -6.5 to -8.1 mmHg.
-
 Limited experience is available in patients with open-angle glaucoma with pseudoexfoliative and pigmentary glaucoma, and chronic angle-closure glaucoma with patent iridotomy.
 
 [LUMIGAN 0.3 mg/mL eye drops, solution, in single-dose container]
