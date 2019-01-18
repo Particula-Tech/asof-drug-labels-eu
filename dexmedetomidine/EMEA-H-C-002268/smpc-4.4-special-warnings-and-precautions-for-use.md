@@ -75,7 +75,7 @@ Other
 Alpha-2 agonists have rarely been associated with withdrawal reactions when stopped abruptly after prolonged use.
 This possibility should be considered if the patient develops agitation and hypertension shortly after stopping dexmedetomidine.
 
-It is not known whether dexmedetomidine is safe to use in malignant hyperthermia-sensitive individuals therefore it is not recommended.
-Dexdor treatment should be discontinued in the event of a sustained unexplained fever.
+Dexmedetomidine may induce hyperthermia that may be resistant to traditional cooling methods.
+Dexmedetomidine treatment should be discontinued in the event of a sustained unexplained fever and is not recommended for use in malignant hyperthermia-sensitive patients.
 
 Dexdor contains less than 1 mmol sodium (23 mg) per ml.

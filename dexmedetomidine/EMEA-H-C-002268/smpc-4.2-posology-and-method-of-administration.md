@@ -25,7 +25,7 @@ Duration
 There is no experience in the use of Dexdor for more than 14 days.
 The use of Dexdor for longer than this period should be regularly reassessed.
 
-For sedation of non-intubated adult patients prior to and/or during dianostic or surgical procedures requiring sedation, i.e. procedural/awake sedation.
+For sedation of non-intubated adult patients prior to and/or during diagnostic or surgical procedures requiring sedation, i.e. procedural/awake sedation.
 
 Dexdor should be administered only by health care professionals skilled in the anaesthetic management of patients in the operating room or during diagnostic procedures.
 When Dexdor is administered for conscious sedation, patients should be continuously monitored by persons not involved in the conduct of the diagnostic or surgical procedure.
@@ -42,12 +42,12 @@ The pharmacokinetic distribution half –life of Dexdor has been estimated to be
 Initiation of Procedural Sedation:
 
 - A loading infusion of 1.0 microgram/kg over 10 minutes.
-  For less invasive procedures such as ophthalmic surgery, a loading infusion of 0.5 micrograms/kg given over 10 minutes may be suitable.
+For less invasive procedures such as ophthalmic surgery, a loading infusion of 0.5 micrograms/kg given over 10 minutes may be suitable.
 
 Maintenance of Procedural Sedation:
 
 - The maintenance infusion is generally initiated at 0.6-0.7 microgram/kg/hour and titrated to achieve desired clinical effect with doses ranging from 0.2 to 1 microgram/kg/hour.
-  The rate of the maintenance infusion should be adjusted to achieve the targeted level of sedation.
+The rate of the maintenance infusion should be adjusted to achieve the targeted level of sedation.
 
 Special populations
 
