@@ -71,7 +71,7 @@ The suspension is contained in type I flint glass cartridges, sealed with halobu
 
 [Humalog 200 units/ml KwikPen, solution for injection in a pre-filled pen]
 
-Type I glass cartridges, sealed with chlorobutyldisc seals and plunger heads and secured with aluminium seals.
+Type I glass cartridges, sealed with halobutyl disc seals and plunger heads and secured with aluminium seals.
 The 3 ml cartridges which contain 600 units insulin lispro (200 units/ml), are sealed in a disposable pen injector, called the “KwikPen”.
 
 1 pre-filled pen of 3 ml
