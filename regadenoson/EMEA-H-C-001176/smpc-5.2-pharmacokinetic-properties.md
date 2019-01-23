@@ -1,9 +1,9 @@
 # 5.2 Pharmacokinetic properties
 
 Absorption
-Rapiscan is administered by intravenous injection.
+Regadenoson is administered by intravenous injection for pharmacologic stress radionuclide MPI.
 The regadenoson plasma concentration-time profile in healthy volunteers is multi-exponential in nature and best characterised by 3-compartment model.
-The maximal plasma concentration of regadenoson is achieved within 1 to 4 minutes after injection of Rapiscan and parallels the onset of the pharmacodynamic response (see section 5.1).
+The maximal plasma concentration of regadenoson is achieved within 1 to 4 minutes after injection of regadenoson and parallels the onset of the pharmacodynamic response (see section 5.1).
 The half-life of this initial phase is approximately 2 to 4 minutes.
 An intermediate phase follows, with a half-life on average of 30 minutes coinciding with loss of the pharmacodynamic effect.
 The terminal phase consists of a decline in plasma concentration with a half-life of approximately 2 hours.
@@ -15,23 +15,29 @@ Regadenoson is moderately bound to human plasma proteins (25-30%).
 Biotransformation
 The metabolism of regadenoson is unknown in humans.
 Incubation with rat, dog, and human liver microsomes as well as human hepatocytes produced no detectable metabolites of regadenoson.
-Following intravenous administration of 14C-radiolabeled regadenoson to rats and dogs, most radioactivity (85-96%) was excreted in the form of unchanged regadenoson.
+14
+Following intravenous administration of C-radiolabeled regadenoson to rats and dogs, most radioactivity (85-96%) was excreted in the form of unchanged regadenoson.
 These findings indicate that metabolism of regadenoson does not play a major role in the elimination of regadenoson.
 
 Elimination
 In healthy volunteers, 57% of the regadenoson dose is excreted unchanged in the urine (range 19-77%), with an average plasma renal clearance around 450 ml/min, i.e., in excess of the glomerular filtration rate.
 This indicates that renal tubular secretion plays a role in regadenoson elimination.
 
+Multiple injections
+Up to three consecutive injections of regadenoson (100 and 200 μg) have been tested in healthy volunteers, and two consecutive doses of 400 μg in healthy volunteers, as well as in patients assessed for FFR.
+Transient dose dependent increases in heart rate occurred following administration of each dose of regadenoson, whereas no consistent dose-related effect on systolic blood pressure was observed.
+Mean plasma concentrations increased in a dose-related manner and by successive doses as observed in healthy volunteers.
+
 Special populations
 A population pharmacokinetic analysis including data from subjects and patients demonstrated that regadenoson clearance decreases in parallel with a reduction in creatinine clearance (CLcr) and increases with increased body weight.
 Age, gender, and race have minimal effects on the pharmacokinetics of regadenoson.
-
 Renal impairment
 The disposition of regadenoson was studied in 18 subjects with various degrees of renal function and in 6 healthy subjects.
 With increasing renal impairment, from mild (CLcr 50 to < 80 ml/min) to moderate (CLcr 30 to < 50 ml/min) to severe renal impairment (CLcr < 30 ml/min), the fraction of regadenoson excreted unchanged in urine and the renal clearance decreased, resulting in increased elimination half-lives and AUC values compared to healthy subjects (CLcr ml/min).
 However, the maximum observed plasma concentrations as well as volumes of distribution estimates were similar across the groups.
 The plasma concentration-time profiles were not significantly altered in the early stages after dosing when most pharmacologic effects are observed.
 No dose adjustment is needed in patients with renal impairment.
+
 The pharmacokinetics of regadenoson in patients on dialysis has not been assessed.
 
 Hepatic impairment

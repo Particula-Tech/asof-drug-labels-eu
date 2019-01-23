@@ -1,13 +1,13 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-Adverse reactions in most patients receiving Rapiscan in clinical trials were mild, transient (usually resolving within 30 minutes after receiving Rapiscan), and required no medical intervention.
+Adverse reactions in most patients receiving regadenoson in clinical trials were mild, transient (usually resolving within 30 minutes after receiving regadenoson) and required no medical intervention.
 Adverse reactions occurred in approximately 80% of patients.
 The most common adverse reactions reported during clinical development in a total of 1,651 patients/subjects were: dyspnoea (29%), headache (27%), flushing (23%), chest pain (19%), electrocardiogram ST segment changes (18%), gastrointestinal discomfort (15%) and dizziness (11%).
 
-Rapiscan may cause myocardial ischaemia (potentially associated with fatal cardiac arrest, life-threatening ventricular arrhythmias, and myocardial infarction), hypotension leading to syncope and transient ischaemic attacks, elevated blood pressure leading to hypertension and hypertensive crises, and SA/AV node block leading to first, second or third degree AV block, or sinus bradycardia requiring intervention (see section 4.4).
+Regadenoson may cause myocardial ischaemia (potentially associated with fatal cardiac arrest, life-threatening ventricular arrhythmias, and myocardial infarction), hypotension leading to syncope and transient ischaemic attacks, elevated blood pressure leading to hypertension and hypertensive crises, and SA/AV node block leading to first, second or third degree AV block, or sinus bradycardia requiring intervention (see section 4.4).
 Signs of hypersensitivity (rash, urticaria, angioedema, anaphylaxis and/or throat tightness) may be immediate or delayed onset.
-Aminophylline may be used to attenuate severe or persistent adverse reactions to Rapiscan but should not be used solely for the purpose of terminating a seizure induced by Rapiscan (see section 4.4).
+Aminophylline may be used to attenuate severe or persistent adverse reactions to regadenoson but should not be used solely for the purpose of terminating a seizure induced by regadenoson (see section 4.4).
 
 Tabulated list of adverse reactions
 Assessment of adverse reactions for regadenoson is based on safety data from clinical studies and post-marketing experience.
@@ -60,16 +60,17 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 Description of selected adverse reactions
 Fatal cardiac arrest, life-threatening ventricular arrhythmias and myocardial infarction may result from the ischaemia induced by pharmacologic stress agents.
-Cardiac resuscitation equipment and trained staff should be available before administering Rapiscan (see section 4.4).
+Cardiac resuscitation equipment and trained staff should be available before administering regadenoson (see section 4.4).
 
 Sinoatrial and atrioventricular nodal block
-Adenosine receptor agonists, including Rapiscan, can depress the SA and AV nodes and may cause first, second or third degree AV block, or sinus bradycardia requiring intervention.
-In clinical trials first degree AV block (PR prolongation > 220 msec) developed in 3% of patients within 2 hours of Rapiscan administration; transient second degree AV block with one dropped beat was observed in one patient receiving Rapiscan.
-In postmarketing experience, third degree heart block and asystole have been reported within minutes of Rapiscan administration.
+Regadenoson, can depress the SA and AV nodes and may cause first, second or third degree AV block, or sinus bradycardia requiring intervention.
+In clinical trials first degree AV block (PR prolongation
+> 220 msec) developed in 3% of patients within 2 hours of regadenoson administration; transient second degree AV block with one dropped beat was observed in one patient receiving regadenoson.
+In postmarketing experience, third degree heart block and asystole have been reported within minutes of regadenoson administration.
 
 Hypotension
-Adenosine receptor agonists, including Rapiscan induce arterial vasodilation and hypotension.
-In clinical trials, decreased systolic blood pressure (> 35 mm Hg) was observed in 7% of patients and decreased diastolic blood pressure (> 25 mm Hg) was observed in 4% of patients within 45 minutes of Rapiscan administration.
+Adenosine receptor agonists, including regadenoson induce arterial vasodilation and hypotension.
+In clinical trials, decreased systolic blood pressure (> 35 mm Hg) was observed in 7% of patients and decreased diastolic blood pressure (> 25 mm Hg) was observed in 4% of patients within 45 minutes of regadenoson administration.
 The risk of serious hypotension may be higher in patients with autonomic dysfunction, hypovolemia, left main coronary artery stenosis, stenotic valvular heart disease, pericarditis or pericardial effusions, or stenotic carotid artery disease with cerebrovascular insufficiency.
 In postmarketing experience, syncope and transient ischaemic attacks have been reported.
 
@@ -83,8 +84,13 @@ In a patient with a long QT syndrome, sympathetic stimulation can result in less
 In these patients, the phenomenon of R-on-T syndrome can occur, wherein an extra beat interrupts the T wave of the previous beat, and this increases the risk of a ventricular tachyarrhythmia.
 
 Headache
-Headache was reported by 27% of subjects who received Rapiscan in clinical trials.
+Headache was reported by 27% of subjects who received regadenoson in clinical trials.
 The headache was considered severe in 3% of subjects.
 
 Elderly population
 Older patients (≥ 75 years of age; n = 321) had a similar adverse reaction profile compared to younger patients (< 65 years of age; n = 1,016), but had a higher incidence of hypotension (2% versus < 1%).
+
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important.
+It allows continued monitoring of the benefit/risk balance of the medicinal product.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
