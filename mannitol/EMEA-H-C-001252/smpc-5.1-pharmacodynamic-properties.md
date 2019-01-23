@@ -29,18 +29,26 @@ Table 1 – Change in FEV1 from baseline over 26 weeks in the mITT and adult pop
 
 Effect size estimate
 DPM-CF-301 DPM-CF-302
-FEV1 p value FEV1 p value
-(95% CI) (95% CI)
+FEV1 p FEV1 p
+(95% CI) value (95% CI) value
 Overall Population
 N=269 N=297
-Absolute mL (46.2, 142.7) <0.001 94.5 (-1.97, 110.3) 0.059 54.1
-Absolute % predicted (0.9, 3.9) 2.4 0.001 (-0.02, 3.8) 1.9 0.052
-Relative % predicted (1.0, 6.1) 3.5 0.007 (0.3, 6.9) 3.6 0.033
+94.5 54.1
+Absolute mL (46.2, <0.001 (-1.97, 0.059
+142.7) 110.3)
+Absolute % 2.4 1.9
+predicted (0.9, 3.9) 0.001 (-0.02, 3.8) 0.052
+3.5 3.6
+Relative % predicted (1.0, 6.1) 0.007 (0.3, 6.9) 0.033
 Adult Population
 N=171 N=144
-Absolute mL (47.6, 169.4) <0.001 108.5 (4.6, 167.3) 85.9 0.038
-Absolute % predicted (0.9, 4.5) 2.7 0.004 (-0.4, 5.1) 2.3 0.095
-Relative % predicted (1.1, 7.5) 4.3 0.008 (0.2, 9.8) 5.0 0.040
+108.5
+Absolute mL (47.6, <0.001 (4.6, 167.3) 85.9 0.038
+169.4)
+Absolute % 2.7 2.3
+predicted (0.9, 4.5) 0.004 (-0.4, 5.1) 0.095
+4.3 5.0
+Relative % predicted (1.1, 7.5) 0.008 (0.2, 9.8) 0.040
 
 In rhDNase users in study 301 the relative change in FEV1 % predicted from baseline across 26 weeks of treatment was 2.83 (95% CI -0.62, 6.27).
 For non-users the relative change was 4.30 (95% CI 0.53, 8.07).
@@ -55,5 +63,4 @@ Paediatric population
 The safety and efficacy of Bronchitol in children and adolescents aged less than 18 years has not been established (see section 4.2).
 
 In studies DPM-CF-301 and 302 relative % predicted FEV1 compared to control in children (6-11 years) was improved by 0.44% (95% CI -5.90, 6.77, N=43) and 6.1% (95% CI -1.28, 13.54, N=59) over 26 weeks (p=0.892 and 0.104) respectively.
-
 In adolescents (12-17 years) relative change in % predicted FEV1 compared to control improved by 3.31% (95% CI -2.29, 8.90, N=55) and 0.42% (95% CI -5.45, 6.29, N=94) over 26 weeks (p=0.245 and 0.888) respectively.

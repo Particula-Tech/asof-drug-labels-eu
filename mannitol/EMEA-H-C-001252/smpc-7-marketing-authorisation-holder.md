@@ -1,7 +1,8 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Pharmaxis Pharmaceuticals Limited,
-25 Moorgate,
-London,
-EC2R 6AY
-United Kingdom.
+Pharmaxis Europe Limited
+108 Q House
+Furze Road
+Sandyford
+Dublin 18, D18AY29
+Ireland

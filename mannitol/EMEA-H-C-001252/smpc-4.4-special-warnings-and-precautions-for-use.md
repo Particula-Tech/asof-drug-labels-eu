@@ -29,6 +29,7 @@ Patients with asthma must be carefully monitored for worsening signs and symptom
 Patients must be advised to report worsening signs and symptoms of asthma during therapeutic use to their physician.
 If there is evidence of therapy induced bronchospasm, the physician should carefully evaluate whether the benefits of continued use of Bronchitol outweigh the risks to the patient.
 Bronchospasm should be treated with a bronchodilator or as medically appropriate.
+
 Haemoptysis
 Haemoptysis has been commonly reported with Bronchitol in clinical studies.
 Bronchitol has not been studied in patients with a history of significant episodes of haemoptysis (>60 ml) in the previous three months.
