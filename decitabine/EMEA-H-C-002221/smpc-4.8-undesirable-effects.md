@@ -16,6 +16,7 @@ The following table reflects data from AML clinical studies and from post-market
 The adverse drug reactions are listed by frequency category.
 Frequency categories are defined as follows: Very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to
 < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (frequency cannot be estimated from the available data).
+
 Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness.
 
 Table 1: Adverse drug reactions identified with Dacogen
@@ -44,6 +45,8 @@ Table 1: Adverse drug reactions identified with Dacogen
 |  |  | nausea | 33 | < 1 |
 |  | Common | stomatitis | 7 | 1 |
 |  | Not known | enterocolitis, including neutropaenic colitis, caecitis* | Not known | Not known |
+| Hepatobiliary disorders | Very common | hepatic function abnormal | 11 | 3 |
+|  | Common | hyperbilirubinaemiag | 5 | <1 |
 | Skin and subcutaneous tissue disorders | Uncommon | acute febrile neutrophilic dermatosis (Sweet’s syndrome) | < 1 | NA |
 | General disorders and administration site conditions | Very common | pyrexia | 48 | 9 |
 
@@ -53,6 +56,7 @@ c The most frequently reported "other infections" in study DACO-016 were: oral h
 d Including enterocolitis infectious.
 e Including haemorrhage associated with thrombocytopaenia, including fatal cases.
 f Including preferred terms hypersensitivity, drug hypersensitivity, anaphylactic reaction, anaphylactic shock, anaphylactoid reaction, anaphylactoid shock.
+g In clinical studies in AML and myelodysplastic syndrome (MDS), the reporting frequency for hyperbilirubinaemia was 11% for All Grades and 2% for Grade 3-4.
 * Includes events with a fatal outcome.
 NA = Not applicable
 
@@ -60,6 +64,7 @@ Description of selected adverse drug reactions
 
 Haematologic adverse drug reactions
 The most commonly reported haematologic adverse drug reactions associated with Dacogen treatment included febrile neutropaenia, thrombocytopaenia, neutropaenia, anaemia and leukopaenia.
+
 Serious bleeding-related adverse drug reactions, some of which lead to a fatal outcome, such as central nervous system (CNS) haemorrhage (2%) and gastrointestinal (GI) haemorrhage (2%), in the context of severe thrombocytopaenia, were reported in patients receiving decitabine.
 
 Haematological adverse drug reactions should be managed by routine monitoring of complete blood counts and early administration of supportive treatments as required.
@@ -75,6 +80,10 @@ Enterocolitis may lead to septic complications and may be associated with fatal 
 
 Respiratory, thoracic and mediastinal disorders
 Cases of interstitial lung disease (including pulmonary infiltrates, organising pneumonia and pulmonary fibrosis) without signs of infectious aetiology have been reported in patients receiving decitabine.
+
+Paediatric population
+The safety assessment in paediatric patients is based on the limited safety data from a Phase I/II study to evaluate pharmacokinetics, safety and efficacy of Dacogen in paediatric patients (aged 1 to 14 years) with relapsed or refractory AML (n = 17) (see section 5.1).
+No new safety signal was observed in this paediatric study.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

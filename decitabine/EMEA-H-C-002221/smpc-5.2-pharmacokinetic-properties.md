@@ -49,18 +49,21 @@ Information on special populations was derived from pharmacokinetic data from th
 Elderly
 Population pharmacokinetic analysis showed that decitabine pharmacokinetics are not dependent on age (range studied 40 to 87 years; median 70 years).
 
+Paediatric population
+Population PK analysis of decitabine showed that after accounting for body size, there is no difference between decitabine PK parameters in paediatric AML patients versus adults with AML or MDS.
+
 Gender
 Population pharmacokinetic analysis of decitabine did not show any clinically relevant difference between men and women.
 
 Race
 Most of the patients studied were Caucasian.
 However, the population pharmacokinetic analysis of decitabine indicated that race had no apparent effect on the exposure to decitabine.
-
 Hepatic impairment
 The PK of decitabine have not been formally studied in patients with hepatic impairment.
 Results from a human mass-balance study and in vitro experiments mentioned above indicated that the CYP enzymes are unlikely to be involved in the metabolism of decitabine.
 In addition, the limited data from the population PK analysis indicated no significant PK parameter dependencies on total bilirubin concentration despite a wide range of total bilirubin levels.
 Thus, decitabine exposure is not likely to be affected in patients with impaired hepatic function.
+
 Renal impairment
 The PK of decitabine have not been formally studied in patients with renal insufficiency.
 The population PK analysis on the limited decitabine data indicated no significant PK parameter dependencies on normalized creatinine clearance, an indicator of renal function.

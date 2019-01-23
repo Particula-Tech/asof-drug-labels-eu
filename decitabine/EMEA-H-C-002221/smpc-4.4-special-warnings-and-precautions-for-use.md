@@ -18,12 +18,14 @@ If ILD is confirmed, appropriate treatment should be initiated (see section 4.8)
 
 Hepatic impairment
 Use in patients with hepatic impairment has not been established.
-Caution should be exercised in the administration of Dacogen to patients with hepatic impairment and patients should be monitored closely (see sections 4.2 and 5.2).
+Caution should be exercised in the administration of Dacogen to patients with hepatic impairment and in patients who develop signs or symptoms of hepatic impairment.
+Liver function tests should be performed prior to initiation of therapy and prior to each treatment cycle, and as clinically indicated (see sections 4.2 and 5.2).
 
 Renal impairment
 Use in patients with severe renal impairment has not been studied.
 Caution should be exercised in the administration of Dacogen to patients with severe renal impairment (Creatinine Clearance [CrCl]
-< 30 ml/min) and these patients should be monitored closely (see section 4.2).
+< 30 ml/min).
+Renal function tests should be performed prior to initiation of therapy and prior to each treatment cycle, and as clinically indicated (see section 4.2).
 
 Cardiac disease
 Patients with a history of severe congestive heart failure or clinically unstable cardiac disease were excluded from clinical studies and therefore the safety and efficacy of Dacogen in these patients has not been established.
@@ -31,6 +33,5 @@ Patients with a history of severe congestive heart failure or clinically unstabl
 Excipients
 This medicine contains 0.5 mmol potassium per vial.
 After reconstitution and dilution of the solution for intravenous infusion, this medicine contains less than 1 mmol (39 mg) of potassium per dose, i.e. essentially ‘potassium- free’.
-This medicine contains 0.29 mmol sodium per vial.
-After reconstitution and dilution of the solution for intravenous infusion, this medicine contains between 0.6-6 mmol sodium per dose depending on the infusion fluid for dilution.
-To be taken into consideration by patients on a controlled sodium diet.
+This medicine contains 0.29 mmol (6.67 mg) sodium per vial.
+After reconstitution and dilution of the solution for intravenous infusion, this medicine contains between 13.8 mg-138 mg (0.6-6 mmol) sodium per dose (depending on the infusion fluid for dilution), equivalent to 0.7-7% of the WHO recommended maximum daily intake of 2 g sodium for an adult.

@@ -28,8 +28,8 @@ In clinical studies, approximately one-third of patients receiving Dacogen requi
 Dose reduction is not recommended.
 
 Paediatric population
-The safety and efficacy of Dacogen in children aged < 18 years have not yet been established.
-No data are available.
+Dacogen should not be used in children with AML aged < 18 years, because efficacy was not established.
+Currently available data are described in sections 4.8, 5.1, and 5.2.
 
 Hepatic impairment
 Studies in patients with hepatic impairment have not been conducted.
