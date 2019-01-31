@@ -1,3 +1,3 @@
 # 1. NAME OF THE MEDICINAL PRODUCT
 
-ONIVYDE 5 mg/ml concentrate for solution for infusion
+ONIVYDE 4.3 mg/ml concentrate for solution for infusion

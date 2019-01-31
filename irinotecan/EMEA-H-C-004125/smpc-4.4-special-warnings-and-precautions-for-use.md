@@ -14,8 +14,8 @@ Myelosuppression/neutropenia
 Complete blood cell count monitoring is recommended during ONIVYDE treatment.
 Patients should be aware of the risk of neutropenia and the significance of fever.
 The median time to nadir for ≥ Grade 3 neutropenia is 23 (range 8-104) days post first dose of treatment with ONIVYDE.
-Febrile neutropenia (body temperature > 38°C and neutrophil count≤ 1,000 cells/mm³) should be urgently treated in the hospital with broad-spectrum intravenous antibiotics.
-ONIVYDE should be withheld if neutropenic fever occurs or the absolute neutrophil count drops below 1500/mm3.
+Febrile neutropenia (body temperature > 38°C and neutrophil count ≤ 1,000 cells/mm³) should be urgently treated in the hospital with broad-spectrum intravenous antibiotics.
+ONIVYDE should be withheld if neutropenic fever occurs or the absolute neutrophil count drops below 1,500 cells/mm3.
 Sepsis with neutropenic fever and consequent septic shock with fatal outcome has been observed in patients with metastatic pancreatic adenocarcinoma treated with ONIVYDE.
 In patients who experienced severe haematological events, a dose reduction or treatment discontinuation is recommended (see section 4.2).
 Patients with severe bone marrow failure should not be treated with ONIVYDE.
@@ -47,7 +47,7 @@ ONIVYDE should not be administered with strong UGT1A inhibitors (e.g. atazanavir
 Diarrhoea
 
 Diarrhoea can occur early (onset in ≤ 24 hours after starting ONIVYDE) or late (> 24 hours) (see section 4.8).
-In patients experiencing early diarrhea, therapeutic and prophylactic atropine should be considered unless contraindicated.
+In patients experiencing early diarrhoea, therapeutic and prophylactic atropine should be considered unless contraindicated.
 Patients should be made aware of the risk of delayed diarrhoea which can be debilitating and, on rare occasions, life threatening since persistent loose or watery stools can result in dehydration, electrolyte imbalance, colitis, gastrointestinal (GI) ulceration, infection or sepsis.
 As soon as the first liquid stool occurs, the patient should start drinking large volumes of beverages containing electrolytes.
 Patients should have loperamide (or equivalent) readily available to begin treatment for late diarrhoea.
@@ -77,6 +77,12 @@ Prior Whipple procedure
 Patients with a history of a Whipple procedure have a higher risk of serious infections following ONIVYDE in combination with 5-FU and leucovorin (see section 4.8).
 Patients should be monitored for signs of infections.
 
+Vascular disorders
+
+Onivyde has been associated with thromboembolic events such as pulmonary embolism, venous thrombosis and arterial thromboembolism.
+A thorough medical history should be obtained in order to identify patients with multiple risk factors in addition to the underlying neoplasm.
+Patients should be informed about the signs and symptoms of thromboembolism and advised to contact their physician or nurse immediately if any such signs or symptoms should occur.
+
 Pulmonary toxicity
 
 Interstitial Lung Disease (ILD)-like events leading to fatalities have occurred in patients receiving non-liposomal irinotecan.
@@ -98,10 +104,11 @@ Renal impairment
 
 The use of ONIVYDE in patients with significant renal impairment has not been established
 (see section 5.2).
+
 Underweight patients (body mass index < 18.5 kg/m2)
 
 In the clinical study evaluating ONIVYDE+5-FU/LV, 5 of 8 underweight patients experienced a Grade 3 or 4 adverse reactions, mostly myelosuppression, while 7 of the 8 patients required dose modification such as dose delay, dose reduction or dose discontinuation.
-Caution should be exercised when using ONIVYDE in patients with body mass index <18.5 kg/m2.
+Caution should be exercised when using ONIVYDE in patients with body mass index < 18.5 kg/m2.
 
 Excipients
 

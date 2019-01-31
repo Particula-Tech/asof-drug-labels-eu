@@ -4,19 +4,19 @@ Absorption
 
 Liposome encapsulation of irinotecan extends circulation and limits distribution relative to those of the non-liposomal irinotecan.
 
-The plasma pharmacokinetics of total irinotecan and total SN-38 were evaluated in patients with cancer who received ONIVYDE, as a single agent or as part of combination chemotherapy, at doses between 60 and 180 mg/m2.
-The pharmacokinetic parameters of total irinotecan and SN-38 analytes, following the administration of ONIVYDE 80 mg/m2 are presented in Table 5.
+The plasma pharmacokinetics of total irinotecan and total SN-38 were evaluated in patients with cancer who received ONIVYDE, as a single agent or as part of combination chemotherapy, at doses between 50 and 155 mg/m2.
+The pharmacokinetic parameters of total irinotecan and SN-38 analytes, following the administration of ONIVYDE 70 mg/m2 are presented in Table 5.
 
 Table 5: Summary of mean (±standard deviation) total irinotecan and total SN-38
 
-| Analyte | PK parameters | Unit | ONIVYDE geomean (95% CI)a 80 mg/m2(n=353)b | Non-liposomal irinotecan mean (SD) 125 mg/m2 (n=99)c |
+| Analyte | PK parameters | Unit | ONIVYDE geomean (95% CI)a 70 mg/m2 (n=353)b | Non-liposomal irinotecan mean (SD) 125 mg/m2 (n=99)c |
 | --- | --- | --- | --- | --- |
-| Total irinotecan | AUC | h ng/ml | 919228 (845653-999204) | 10529 (3786) |
-|  | Cmax | ng/ml | 28353 (27761-28958) | 1492 (452) |
+| Total irinotecan | AUC | h×ng/ml | 919,228 (845,653-999,204) | 10,529 (3,786) |
+|  | Cmax | ng/ml | 28,353 (27,761-28,958) | 1,492 (452) |
 |  | Clearance (CL) | l/h/m2 | 0.087 (0.080-0.094) | 13.0 (5.6) |
 |  | Volume (V) | l/m2 | 2.6 (2.6-2.7) | 138 (60.9) |
 |  | t1/2 effective | h | 20.8 (19.4-22.3) | 6.07 (1.19) |
-| Total SN-38 | AUC | h ng/ml | 341 (326-358) | 267 (115) |
+| Total SN-38 | AUC | h×ng/ml | 341 (326-358) | 267 (115) |
 |  | Cmax | ng/ml | 3.0 (2.9-3.1) | 27.8 (11.6) |
 |  | t1/2 effective | h | 40.9 (39.8-42.0) | 11.7 (4.29) |
 
@@ -29,7 +29,7 @@ Distribution
 
 Direct measurement of liposomal irinotecan shows that 95% of irinotecan remains liposome-encapsulated during circulation.
 Non-liposomal irinotecan displays a large volume of distribution (138 l/m2).
-The volume of distribution of ONIVYDE 80 mg/m2 was 2.6 l/m2, which suggests that ONIVYDE is largely confined to vascular fluid.
+The volume of distribution of ONIVYDE 70 mg/m2 was 2.6 l/m2, which suggests that ONIVYDE is largely confined to vascular fluid.
 The plasma protein binding of ONIVYDE is negligible (< 0.44% of total irinotecan in ONIVYDE).
 The plasma protein binding of non-liposomal irinotecan is moderate (30% to 68%), and SN-38 is highly bound to human plasma proteins (approximately 95%).
 
@@ -45,10 +45,10 @@ In the population pharmacokinetic analysis in patients with ONIVYDE using the re
 Elimination
 
 The disposition of ONIVYDE and non-liposomal irinotecan has not been fully elucidated in humans.
-The urinary excretion of non-liposomal irinotecan is 11% to 20%; SN-38 <1%; and
+The urinary excretion of non-liposomal irinotecan is 11% to 20%; SN-38 < 1%; and
 SN-38 glucuronide is 3%.
-The cumulative biliary and urinary excretion of irinotecan and its metabolites (SN-38 and SN-38 glucuronide) over a period of 48 hours following administration of irinotecan in two patients ranged from approximately 25% (100 mg/m2) to 50% (300 mg/m2).
-
+The cumulative biliary and urinary excretion of irinotecan and its metabolites (SN-38 and SN-38 glucuronide) over a period of 48 hours following administration of non-liposomal irinotecan in two patients ranged from approximately 25% (100 mg/m2) to 50%
+(300 mg/m2).
 Renal impairment
 
 No dedicated pharmacokinetic study has been conducted in patients with renal impairment.

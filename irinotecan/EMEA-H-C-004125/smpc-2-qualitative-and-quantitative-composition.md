@@ -1,8 +1,8 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-One 10 ml vial of concentrate contains the equivalent of 50 mg irinotecan hydrochloride trihydrate (as irinotecan sucrosofate salt in a pegylated liposomal formulation) which corresponds to 43 mg irinotecan.
+One 10 ml vial of concentrate contains 43 mg irinotecan anhydrous free base (as irinotecan sucrosofate salt in a pegylated liposomal formulation).
 
-One ml of concentrate contains the equivalent of 5 mg irinotecan hydrochloride trihydrate (as irinotecan sucrosofate salt in a pegylated liposomal formulation) which corresponds to 4.3 mg irinotecan.
+One ml of concentrate contains 4.3 mg irinotecan anhydrous free base (as irinotecan sucrosofate salt in a pegylated liposomal formulation).
 
 Excipient with known effect
 

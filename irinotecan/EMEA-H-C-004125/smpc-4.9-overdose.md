@@ -1,6 +1,6 @@
 # 4.9 Overdose
 
-In clinical trials, ONIVYDE was administered at doses up to 240 mg/m2 to patients with various cancers.
+In clinical trials, ONIVYDE was administered at doses up to 210 mg/m2 to patients with various cancers.
 The adverse reactions in these patients were similar to those reported with the recommended dosage and regimen.
 
 There have been reports of overdosage with non-liposomal irinotecan at doses up to approximately twice the recommended therapeutic dose of irinotecan, which may be fatal.

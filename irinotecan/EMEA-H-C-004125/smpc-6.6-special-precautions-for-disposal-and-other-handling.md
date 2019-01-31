@@ -8,7 +8,7 @@ Pregnant staff should not handle ONIVYDE considering the cytotoxic nature of the
 
 Preparation of the solution and administration
 
-ONIVYDE is supplied as a sterile liposomal dispersion at a concentration of 5 mg/ml and must be diluted prior to administration.
+ONIVYDE is supplied as a sterile liposomal dispersion at a concentration of 4.3 mg/ml and must be diluted prior to administration.
 Dilute with 5% glucose solution for injection or sodium chloride 9 mg/ml (0.9%) solution for injection to prepare a solution of the appropriate dose of ONIVYDE diluted to a final volume of 500 ml.
 Mix the diluted solution by gentle inversion.
 The diluted solution is clear to slightly white to slightly opalescent and free from visible particles.

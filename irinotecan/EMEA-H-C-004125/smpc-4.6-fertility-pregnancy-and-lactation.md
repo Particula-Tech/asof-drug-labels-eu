@@ -4,7 +4,6 @@ Women of childbearing potential / contraception in males and females
 
 Women of childbearing potential should use effective contraception during ONIVYDE treatment and 1 month thereafter.
 Males should use condoms during ONIVYDE treatment and 4 months thereafter.
-
 Pregnancy
 
 There are no adequate data on the use of ONIVYDE in pregnant women.
