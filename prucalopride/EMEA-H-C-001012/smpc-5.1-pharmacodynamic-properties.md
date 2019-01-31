@@ -30,6 +30,7 @@ A clinically meaningful improvement of ≥ 1 SCBM per week, the most important s
 The effect of Resolor on spontaneous bowel movements (SBM) also proved to be statistically superior to placebo for the portion of patients that had an increase of ≥1 SBM/week over the 12-week treatment period.
 At week 12, 68.3% of patients treated with 2 mg prucalopride had an average increase of
 ≥1 SBM/week versus 37.0% of placebo patients (p<0.001 vs placebo).
+
 In all three studies, treatment with Resolor also resulted in significant improvements in a validated and disease specific set of symptom measures (PAC-SYM), including abdominal (bloating, discomfort, pain and cramps), stool (incomplete bowel movements, false alarm, straining, too hard, too small) and rectal symptoms (painful bowel movements, burning, bleeding/tearing), determined at week 4 and week 12.
 At week 4, the proportion of patients with an improvement of ≥1 versus baseline in the PAC-SYM abdominal, stool, and rectal symptom subscales was 41.3%, 41.6%, and 31.3% respectively in patients treated with prucalopride 2 mg compared with 26.9%, 24.4% and 22.9% in patients on placebo.
 Similar results were observed at Week 12: 43.4%, 42.9%, and 31.7% respectively in 2 mg Resolor patients versus 26.9%, 27.2%, and 23.4% in placebo patients (p<0.001 vs placebo).
@@ -74,6 +75,7 @@ Overall, the safety profile of Resolor in children was the same as in adults.
 The efficacy of Resolor was established in three multicentre, randomised, double-blind, 12-week placebo-controlled studies in subjects with chronic constipation (n=1,279 on Resolor, 1,124 females, 155 males).
 
 At week 12, 68.3% of patients treated with 2 mg Resolor had an average increase of
+
 At week 4, the proportion of patients with an improvement of ≥1 versus baseline in the PAC-SYM abdominal, stool, and rectal symptom subscales was 41.3%, 41.6%, and 31.3% respectively in patients treated with Resolor 2 mg compared with 26.9%, 24.4% and 22.9% in patients on placebo.
 
 Similar results were observed at Week 12: 46.9% in 2 mg Resolor patients versus 19.0% in placebo patients (p<0.001 vs placebo).

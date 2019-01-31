@@ -1,7 +1,6 @@
 # 4.2 Posology and method of administration
 
 Posology
-
 Adults: 2 mg once daily with or without food, at any time of the day.
 
 Due to the specific mode of action of prucalopride (stimulation of propulsive motility), exceeding the daily dose of 2 mg is not expected to increase efficacy.
@@ -13,7 +12,6 @@ Efficacy beyond three months has not been demonstrated in placebo-controlled stu
 In case of prolonged treatment, the benefit should be reassessed at regular intervals.
 
 Special populations
-
 Older people (>65 years): Start with 1 mg once daily (see section 5.2); if needed the dose can be increased to 2 mg once daily.
 
 Patients with renal impairment: The dose for patients with severe renal impairment
@@ -25,7 +23,6 @@ No dose adjustment is required for patients with mild to moderate hepatic impair
 Paediatric population: Resolor should not be used in children and adolescents younger than 18 years (see section 5.1)
 
 Method of administration
-
 Oral use
 
 [Resolor 2 mg film-coated tablets]
