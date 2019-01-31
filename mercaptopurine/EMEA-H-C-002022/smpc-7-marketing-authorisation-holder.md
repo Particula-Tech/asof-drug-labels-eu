@@ -1,8 +1,7 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Nova Laboratories Limited
-Martin House
-Gloucester Crescent
-Wigston, Leicester
-LE18 4YL
-United Kingdom
+Nova Laboratories Ireland Limited
+3rd Floor, Ulysses House
+Foley Street, Dublin 1
+D01 W2T2
+Ireland
