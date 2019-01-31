@@ -32,7 +32,7 @@ Endocrine disorders
 Induction of glucose intolerance or diabetes mellitus.
 
 Metabolism and nutrition disorders
-Sodium and water retention and oedema tendency, hypertension, hypokalemia.
+Sodium and water retention and oedema tendency, hypertension, hypokalaemia.
 Psychiatric disorders
 Euphoria and psychosis, insomnia.
 

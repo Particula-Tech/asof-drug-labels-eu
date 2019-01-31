@@ -20,7 +20,7 @@ Therefore, there is no reason to believe that replacement doses of hydrocortison
 Moreover, there is no reason to believe that doses of hydrocortisone used for replacement therapy in adrenal insufficiency may reduce the response to vaccines and increase the risk of generalised infection with live vaccines.
 
 Gastric emptying and motility disorders
-Modified-release tablets are not recommended in patients with increased gastrointestinal motility, i.e. chronic diarrhoea, due to the risk of impaired cortisol exposure.
+Modified-release tablets are not recommended in patients with increased gastrointestinal motility, i.e., chronic diarrhoea, due to the risk of impaired cortisol exposure.
 There are no data in patients with confirmed slow gastric emptying or decreased motility disease/disorder.
 The clinical response should be monitored in patients with these conditions.
 

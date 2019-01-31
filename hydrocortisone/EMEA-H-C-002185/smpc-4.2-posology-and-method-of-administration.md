@@ -3,7 +3,7 @@
 Posology
 Plenadren is given as maintenance therapy.
 Oral replacement doses must be individualised according to the clinical response.
-A common maintenance dose is 20 – 30 mg per day, given once daily in the morning.
+A common maintenance dose is 20–30 mg per day, given once daily in the morning.
 In patients with some remaining endogenous cortisol production a lower dose may be sufficient.
 40 mg is the highest maintenance dose studied.
 The lowest possible maintenance dosage should be used.
@@ -19,7 +19,7 @@ During intercurrent illness, there should be high awareness of the risk of devel
 In severe situations, an increase in dose is immediately required and oral administration of hydrocortisone must be replaced with parenteral, preferably intravenous treatment.
 Intravenous administration of hydrocortisone is warranted during transient illness episodes such as severe infections, in particular gastroenteritis associated with vomiting and/or diarrhoea, high fever of any aetiology or extensive physical stress, such as for instance serious accidents and surgery under general anaesthesia, see section 4.4.
 
-In less severe situations when intravenous administration of hydrocortisone is not required, for instance low grade infections, fever of any aetiology and stressful situations such as minor surgical procedures, the normal oral daily replacement dose must be increased temporarily; the total daily dose should be increased by administering the maintenance dose twice or thrice daily with 8 ± 2 hours intervals (an increase in number of administrations, not increasing the morning dose).
+In less severe situations when intravenous administration of hydrocortisone is not required, for instance low grade infections, fever of any aetiology and stressful situations such as minor surgical procedures, the normal oral daily replacement dose must be increased temporarily; the total daily dose should be increased by administering the maintenance dose twice or thrice daily with 8 ±2 hours intervals (an increase in number of administrations, not increasing the morning dose).
 This regimen has been documented in over 300 intercurrent illness episodes within the clinical study programme.
 At the discretion of the treating physician, immediate release hydrocortisone tablets can be given instead of Plenadren or may be added to treatment.
 Increasing the dose of hydrocortisone at one dose occasion increases the total plasma exposure of cortisol less than proportional, see section 5.2.

@@ -2,7 +2,8 @@
 
 Hydrocortisone interactions listed below have been reported after therapeutic doses of glucocorticoids.
 
-Potent CYP 3A4 inducers such as phenytoin, rifabutin, carbamazepine, barbiturates, rifampicin, St John’s wort and less potent inducers such as the antiretroviral medicinal products efavirenz and nevirapine can enhance the metabolic clearance of cortisol, decrease terminal half-life and thus reduce circulating levels and increase fluctuations of cortisol (due to shorter terminal half-life).
+Potent CYP 3A4 inducers such as phenytoin, rifabutin, carbamazepine, barbiturates, rifampicin,
+St. John’s wort and less potent inducers such as the antiretroviral medicinal products efavirenz and nevirapine can enhance the metabolic clearance of cortisol, decrease terminal half-life and thus reduce circulating levels and increase fluctuations of cortisol (due to shorter terminal half-life).
 This may require dose adjustment of hydrocortisone.
 
 Potent CYP 3A4 inhibitors such as ketoconazole, itraconazole, posaconazole, voriconazole erythromycin, telithromycin, clarithromycin, ritonavir and grapefruit juice can inhibit the metabolism of hydrocortisone, and thus increase blood levels.

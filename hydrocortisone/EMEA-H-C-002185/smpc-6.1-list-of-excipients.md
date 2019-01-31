@@ -16,7 +16,6 @@ Titanium dioxide (E171)
 Iron oxide red (E172)
 Iron oxide yellow (E172)
 Iron oxide black (E172)
-
 Plenadren 20 mg modified-release tablets
 Tablet coating
 Macrogol (3350)
