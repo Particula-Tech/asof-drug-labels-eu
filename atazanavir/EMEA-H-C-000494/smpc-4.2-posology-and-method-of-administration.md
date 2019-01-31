@@ -46,10 +46,13 @@ During the second and third trimesters of pregnancy:
 REYATAZ 300 mg with ritonavir 100 mg may not provide sufficient exposure to atazanavir, especially when the activity of atazanavir or the whole regimen may be compromised due to drug resistance.
 Since there are limited data available and due to inter-patient variability during pregnancy, Therapeutic Drug Monitoring (TDM) may be considered to ensure adequate exposure.
 
-The risk of a further decrease in atazanavir exposure is expected when atazanavir is given with medicinal products known to reduce its exposure (e.g., tenofovir disoproxil fumarate or H2-receptor antagonists).
+The risk of a further decrease in atazanavir exposure is expected when atazanavir is given with medicinal products known to reduce its exposure (e.g., tenofovir disoproxil or H2-receptor antagonists).
 
-- If tenofovir disoproxil fumarate or an H2-receptor antagonist is needed, a dose increase to REYATAZ 400 mg with ritonavir 100 mg with TDM may be considered (see sections 4.6 and 5.2).
-- It is not recommended to use REYATAZ with ritonavir for pregnant patients who are receiving both tenofovir disoproxil fumarate and an H2-receptor antagonist.
+- If tenofovir disoproxil or an H2-receptor antagonist is needed, a dose increase to REYATAZ
+
+400 mg with ritonavir 100 mg with TDM may be considered (see sections 4.6 and 5.2).
+
+- It is not recommended to use REYATAZ with ritonavir for pregnant patients who are receiving both tenofovir disoproxil and an H2-receptor antagonist.
 
 (See section 4.4 Withdrawal of ritonavir only under restrictive conditions).
 
@@ -90,11 +93,6 @@ Switching from REYATAZ oral powder to REYATAZ capsules is encouraged as soon as 
 Consult the dosing table for the specific formulation (see Summary of Product Characteristics for REYATAZ capsules).
 
 REYATAZ must not be used in patients with moderate to severe hepatic impairment (see sections 4.3, 4.4, and 5.2).
-
-The risk of a further decrease in atazanavir exposure is expected when atazanavir is given with medicinal products known to reduce its exposure (e.g., tenofovir or H2-receptor antagonists).
-
-- If tenofovir or an H2-receptor antagonist is needed, a dose increase to REYATAZ 400 mg with ritonavir 100 mg with TDM may be considered (see sections 4.6 and 5.2).
-- It is not recommended to use REYATAZ with ritonavir for pregnant patients who are receiving both tenofovir and an H2-receptor antagonist.
 
 REYATAZ has not been studied in children less than 3 months of age and is not recommended because of the potential risk of kernicterus.
 

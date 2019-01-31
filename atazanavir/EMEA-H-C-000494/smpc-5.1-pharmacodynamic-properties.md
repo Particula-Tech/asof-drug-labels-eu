@@ -176,19 +176,13 @@ NA = not applicable.
 [REYATAZ 50 mg oral powder]
 
 Study 138 is an international randomised, open-label, multicenter, prospective trial of
-883 antiretroviral treatment naive patients comparing REYATAZ/ritonavir (300 mg/100 mg once daily) to lopinavir/ritonavir (400 mg/100 mg twice daily), each in combination with fixed dose tenofovir/emtricitabine (300 mg/200 mg tablets once daily).
+883 antiretroviral treatment naive patients comparing REYATAZ/ritonavir (300 mg/100 mg once daily) to lopinavir/ritonavir (400 mg/100 mg twice daily), each in combination with fixed dose tenofovir disoproxil fumarate/emtricitabine (300 mg/200 mg tablets once daily).
 
 The mean baseline CD4 cell count was 214 cells/mm3 (range: 2 to 810 cells/mm3) and mean baseline plasma HIV-1 RNA was 4.94 log10 copies/ml (range: 2.6 to 5.88 log10 copies/ml).
 The REYATAZ/ritonavir arm has similar (non-inferior) antiviral efficacy compared to the lopinavir/ritonavir arm, as assessed by the proportion of patients with HIV RNA < 50 copies/ml at week 48: 78% of patients on REYATAZ/ritonavir compared to 76% on lopinavir/ritonavir (difference estimate of ATV/RTV-LPV/RTV: 1.7% [95% CI, -3.8%, 7.1%] according to the Confirmed Virologic Response (CVR) Non-Completer = Failure (NC = F) definition of response.
 In a per protocol analysis which excluded non-completers (i.e. patients who discontinued before the week 48 HIV RNA assessment) and patients with major protocol deviations, the proportion of patients with HIV RNA < 50 copies/ml at week 48 was 86% (338/392) for REYATAZ/ritonavir and 89% (332/372) for lopinavir/ritonavir (difference estimate of ATV/RTV-LPV/RTV: -3% [95% CI, -7.6%, 1.5%].
 
-a Mean baseline CD4 cell count was 214 cells/mm3 (range 2 to 810 cells/mm3) and mean baseline plasma HIV-1 RNA was 4.94 log10 copies/ml (range 2.6 to 5.88 log10 copies/ml) b REYATAZ/RTV with tenofovir/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).
-c Lopinavir/RTV with tenofovir/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).
-
-Study 045 is a randomised, multicenter trial comparing REYATAZ/ritonavir (300/100 mg once daily) and REYATAZ/saquinavir (400/1,200 mg once daily), to lopinavir + ritonavir (400/100 mg fixed dose combination twice daily), each in combination with tenofovir (see sections 4.5 and 4.8) and one NRTI, in patients with virologic failure on two or more prior regimens containing at least one PI, NRTI, and NNRTI.
-
-b ATV/RTV with tenofovir/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).
-c LPV/RTV with tenofovir/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).
+Study 045 is a randomised, multicenter trial comparing REYATAZ/ritonavir (300/100 mg once daily) and REYATAZ/saquinavir (400/1,200 mg once daily), to lopinavir + ritonavir (400/100 mg fixed dose combination twice daily), each in combination with tenofovi disoproxil fumarate (see sections 4.5 and 4.8) and one NRTI, in patients with virologic failure on two or more prior regimens containing at least one PI, NRTI, and NNRTI.
 
 Paediatric trials with REYATAZ capsules
 

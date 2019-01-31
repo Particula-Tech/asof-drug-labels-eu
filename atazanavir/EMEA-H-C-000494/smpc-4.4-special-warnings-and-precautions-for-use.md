@@ -32,11 +32,11 @@ In more than half of the reported cases, treatment with protease inhibitors was 
 A causal relationship has been suggested, although the mechanism of action has not been elucidated.
 Haemophiliac patients should therefore be made aware of the possibility of increased bleeding.
 Weight and metabolic parameters
-An increase in weight and in levels of blood lipids and glucose may occur during antiretroviral theraphy.
+An increase in weight and in levels of blood lipids and glucose may occur during antiretroviral therapy.
 Such changes may in part be linked to the disease control and life style.
 For lipids, there is in some cases evidence for a treatment effect, while for weight gain there is no strong evidence relating this to any particular treatment.
 For monitoring of blood lipids and glucose reference is made to established HIV treatment guidelines.
-Lipid disorders should be managed as clinicallly appropriate.
+Lipid disorders should be managed as clinically appropriate.
 
 In clinical studies, REYATAZ (with or without ritonavir) has been shown to induce dyslipidaemia to a lesser extent than comparators.
 
@@ -57,7 +57,7 @@ The withdrawal of ritonavir from the boosted regimen of REYATAZ is not recommend
 - undetectable viral load during the last 6 months under current regimen
 - viral strains not harbouring HIV resistance associated mutations (RAMs) to current regimen.
 
-REYATAZ given without ritonavir should not be considered in patients treated with a backbone regimen containing tenofovir disoproxil fumarate and with other concomitant medications that reduce atazanavir bioavailability (see section 4.5 In case of withdrawal of ritonavir from the recommended atazanavir boosted regimen) or in case of perceived challenging compliance.
+REYATAZ given without ritonavir should not be considered in patients treated with a backbone regimen containing tenofovir disoproxil and with other concomitant medications that reduce atazanavir bioavailability (see section 4.5 In case of withdrawal of ritonavir from the recommended atazanavir boosted regimen) or in case of perceived challenging compliance.
 
 REYATAZ given without ritonavir should not be used in pregnant patients given that it could result of suboptimal exposure of particular concern for the mother infection and vertical transmission.
 
@@ -81,9 +81,9 @@ If signs or symptoms of nephrolithiasis occur, temporary interruption or discont
 Immune reactivation syndrome
 In HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
-Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis carinii pneumonia.
+Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis jirovecii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
-Autoimmune disorders (such as Graves' disease) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occurs many months after initiation of treatment.
+Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occurs many months after initiation of treatment.
 
 Osteonecrosis
 Although the aetiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
@@ -152,6 +152,7 @@ Atazanavir is primarily hepatically metabolised and increased plasma concentrati
 Renal impairment
 No dosage adjustment is needed in patients with renal impairment.
 However, REYATAZ with ritonavir is not recommended in patients undergoing haemodialysis (see sections 4.2 and 5.2).
+
 QT prolongation
 Dose related asymptomatic prolongations in PR interval with REYATAZ have been observed in clinical studies.
 

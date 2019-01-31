@@ -78,15 +78,6 @@ Linearity/non-linearity: the pharmacokinetics of atazanavir were evaluated in he
 The mechanism of this decrease is unknown (see sections 4.2 and 4.4.).
 
 The pharmacokinetic data from HIV-infected pregnant women receiving REYATAZ capsules with ritonavir are presented in Table 9.
-
 Table 9: Steady-State Pharmacokinetics of Atazanavir with ritonavir in HIV-Infected Pregnant Women in the Fed State
-
-Atazanavir plasma trough
-
-|  | atazanavir 300 mg with ritonavir 100 mg |  |  |
-| --- | --- | --- | --- |
-| Pharmacokinetic Parameter | 2nd Trimester (n=9) | 3rd Trimester (n=20) | postpartuma (n=36) |
-
-concentrations were approximately 2-fold higher during the postpartum period when compared to those observed historically in HIV infected non-pregnant patients.
 
 As a result, greater peak to trough ratios are observed; however at recommended doses, geometric mean atazanavir exposures (Cmin, Cmax and AUC) in paediatric patients are expected to be similar to those observed in adults.
