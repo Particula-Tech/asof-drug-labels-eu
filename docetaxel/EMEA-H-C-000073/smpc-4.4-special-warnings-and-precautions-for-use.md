@@ -2,7 +2,6 @@
 
 For breast and non-small cell lung cancers, premedication consisting of an oral corticosteroid, such as dexamethasone 16 mg per day (e.g. 8 mg BID) for 3 days starting 1 day prior to docetaxel administration, unless contraindicated, can reduce the incidence and severity of fluid retention as well as the severity of hypersensitivity reactions.
 For prostate cancer, the premedication is oral dexamethasone 8 mg, 12 hours, 3 hours and 1 hour before the docetaxel infusion (see section 4.2).
-
 Haematology
 
 Neutropenia is the most frequent adverse reaction of docetaxel.
@@ -19,6 +18,12 @@ Patients receiving TCF should be closely monitored (see sections 4.2 and 4.8).
 In patients treated with docetaxel in combination with doxorubicin and cyclophosphamide (TAC), febrile neutropenia and/or neutropenic infection occurred at lower rates when patients received primary G-CSF prophylaxis.
 Primary G-CSF prophylaxis should be considered in patients who receive adjuvant therapy with TAC for breast cancer to mitigate the risk of complicated neutropenia (febrile neutropenia, prolonged neutropenia or neutropenic infection).
 Patients receiving TAC should be closely monitored (see sections 4.2 and 4.8).
+
+Gastrointestinal reactions
+
+Caution is recommended for patients with neutropenia, particularly at risk for developing gastrointestinal complications.
+Although majority of cases occurred during the first or second cycle of docetaxel containing regimen, enterocolitis could develop at any time, and could lead to death as early as on the first day of onset.
+Patients should be closely monitored for early manifestations of serious gastrointestinal toxicity (see sections 4.2, 4.4 Haematology, and 4.8).
 
 Hypersensitivity reactions
 
@@ -38,7 +43,6 @@ Severe symptoms such as eruptions followed by desquamation which lead to interru
 Fluid retention
 
 Patients with severe fluid retention such as pleural effusion, pericardial effusion and ascites should be monitored closely.
-
 Respiratory disorders
 
 Acute respiratory distress syndrome, interstitial pneumonia/pneumonitis, interstitial lung disease, pulmonary fibrosis and respiratory failure have been reported and may be associated with fatal outcome.
@@ -47,6 +51,7 @@ If new or worsening pulmonary symptoms develop, patients should be closely monit
 Interruption of docetaxel therapy is recommended until diagnosis is available.
 Early use of supportive care measures may help improve the condition.
 The benefit of resuming docetaxel treatment must be carefully evaluated.
+
 Patients with liver impairment
 
 In patients treated with docetaxel at 100 mg/m2 as single agent who have serum transaminase levels (ALT and/or AST) greater than 1.5 times the ULN concurrent with serum alkaline phosphatase levels greater than 2.5 times the ULN, there is a higher risk of developing severe adverse reactions such as toxic deaths including sepsis and gastrointestinal haemorrhage which can be fatal, febrile neutropenia, infections, thrombocytopenia, stomatitis and asthenia.
@@ -76,7 +81,6 @@ Ventricular arrhythmia including ventricular tachycardia (sometimes fatal) has b
 Baseline cardiac assessment is recommended.
 
 Eye disorders
-
 Cystoid macular oedema (CMO) has been reported in patients treated with docetaxel.
 Patients with impaired vision should undergo a prompt and complete ophthalmologic examination.
 In case CMO is diagnosed, docetaxel treatment should be discontinued and appropriate treatment initiated (see section 4.8).
@@ -84,6 +88,7 @@ In case CMO is diagnosed, docetaxel treatment should be discontinued and appropr
 Others
 
 Contraceptive measures must be taken by both men and women during treatment and for men at least 6 months after cessation of therapy (see section 4.6).
+
 The concomitant use of docetaxel with strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin and voriconazole) should be avoided (see section 4.5).
 
 Additional cautions for use in adjuvant treatment of breast cancer
@@ -116,13 +121,13 @@ The incidence of serious adverse events was higher in older people compared to y
 The incidence of the following adverse events (all grades): lethargy, stomatitis, neutropenic infection occurred at rates
 ≥ 10% higher in patients who were 65 years of age or older compared to younger patients.
 Older people treated with TCF should be closely monitored.
-
 Excipients
 
 This medicinal product contains 13 % (w/w) ethanol 95% v/v (alcohol), i.e. up to 252 mg ethanol 95% v/v per solvent vial, equivalent to 6 ml of beer or 2.6 ml wine.
 
 Harmful for those suffering from alcoholism.
 To be taken into account in pregnant or breast-feeding women, in children and in high-risk groups such as patients with liver disease, or epilepsy.
+
 Consideration should be given to possible effects on the central nervous system.
 
 [TAXOTERE 80 mg/2 ml concentrate and solvent for solution for infusion]

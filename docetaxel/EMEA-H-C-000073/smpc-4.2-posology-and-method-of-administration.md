@@ -2,11 +2,12 @@
 
 The use of docetaxel should be confined to units specialised in the administration of cytotoxic chemotherapy and it should only be administered under the supervision of a physician qualified in the use of anticancer chemotherapy (see section 6.6).
 
-Recommended dose
+Posology
 
 For breast, non-small cell lung, gastric, and head and neck cancers, premedication consisting of an oral corticosteroid, such as dexamethasone 16 mg per day (e.g. 8 mg BID) for 3 days starting 1 day prior to docetaxel administration, unless contraindicated, can be used (see section 4.4).
-Prophylactic G-CSF may be used to mitigate the risk of haematological toxicities.
 For prostate cancer, given the concurrent use of prednisone or prednisolone the recommended premedication regimen is oral dexamethasone 8 mg, 12 hours, 3 hours and 1 hour before the docetaxel infusion (see section 4.4).
+
+Prophylactic G-CSF may be used to mitigate the risk of haematological toxicities.
 
 Docetaxel is administered as a one-hour infusion every three weeks.
 
@@ -19,6 +20,7 @@ In combination with trastuzumab the recommended dose of docetaxel is 100 mg/m2 e
 In the pivotal study the initial docetaxel infusion was started the day following the first dose of trastuzumab.
 The subsequent docetaxel doses were administered immediately after completion of the trastuzumab infusion, if the preceding dose of trastuzumab was well tolerated.
 For trastuzumab dose and administration, see trastuzumab summary of product characteristics.
+
 In combination with capecitabine, the recommended dose of docetaxel is 75 mg/m2 every three weeks, combined with capecitabine at 1250 mg/m2 twice daily (within 30 minutes after a meal) for 2 weeks followed by a 1-week rest period.
 For capecitabine dose calculation according to body surface area, see capecitabine summary of product characteristics.
 
@@ -117,6 +119,9 @@ There is no relevant use of TAXOTERE in the paediatric population in the indicat
 Older people
 Based on a population pharmacokinetic analysis, there are no special instructions for use in the older people.
 In combination with capecitabine, for patients 60 years of age or more, a starting dose reduction of capecitabine to 75% is recommended (see capecitabine summary of product characteristics).
+
+Method of administration
+For instructions on preparation and administration of the product, see section 6.6.
 
 [TAXOTERE 80 mg/2 ml concentrate and solvent for solution for infusion]
 

@@ -7,7 +7,6 @@ Docetaxel has been shown to be both embryotoxic and foetotoxic in rabbits and ra
 As with other cytotoxic medicinal products, docetaxel may cause foetal harm when administered to pregnant women.
 Therefore, docetaxel must not be used during pregnancy unless clearly indicated.
 Women of childbearing age receiving docetaxel should be advised to avoid becoming pregnant, and to inform the treating physician immediately should this occur.
-
 Breast-feeding
 
 Docetaxel is a lipophilic substance but it is not known whether it is excreted in human milk.
@@ -16,6 +15,7 @@ Consequently, because of the potential for adverse reactions in nursing infants,
 Contraception in males and females
 
 An effective method of contraception should be used during treatment.
+
 Fertility
 
 In non clinical studies, docetaxel has genotoxic effects and may alter male fertility (see section 5.3).
