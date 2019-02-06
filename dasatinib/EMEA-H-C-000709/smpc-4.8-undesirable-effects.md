@@ -1,26 +1,26 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-The data described below reflect the exposure to SPRYCEL at all doses tested in clinical studies (N=2,900), including 324 adult patients with newly diagnosed chronic phase CML, 2,388 adult patients with imatinib-resistant or -intolerant chronic or advanced phase CML or Ph+ ALL, and 188 paediatric patients.
-
+The data described below reflect the exposure to SPRYCEL as single-agent therapy at all doses tested in clinical studies (N=2,900), including 324 adult patients with newly diagnosed chronic phase CML, 2,388 adult patients with imatinib-resistant or -intolerant chronic or advanced phase CML or
+Ph+ ALL, and 188 paediatric patients.
 In the 2,712 adult patients with either chronic phase CML, advanced phase CML or Ph+ ALL, the median duration of therapy was 19.2 months (range 0 to 93.2 months).
 In a randomized trial in patients with newly diagnosed chronic phase CML, the median duration of therapy was approximately 60 months.
-The median duration of therapy in 1,618 adult patients with chronic phase CML was 20 months (range 0 to 92.9 months).
-The median duration of therapy in 1,094 adult patients with advanced phase CML or Ph+ ALL was 6.2 months (range 0.1 to 99.6 months).
+The median duration of therapy in 1,618 adult patients with chronic phase CML was 29 months (range 0 to 92.9 months).
+The median duration of therapy in 1,094 adult patients with advanced phase CML or Ph+ ALL was 6.2 months (range 0 to 93.2 months).
 Among 188 patients in paediatric studies, the median duration of therapy was 26.3 months (range 0 to 99.6 months).
 In the subset of 130 chronic phase CML SPRYCEL-treated paediatric patients, the median duration of therapy was 42.3 months (range 0.1 to 99.6 months).
 
 The majority of SPRYCEL-treated patients experienced adverse reactions at some time.
 In the overall population of 2,712 SPRYCEL-treated adult subjects, 520 (19%) experienced adverse reactions leading to treatment discontinuation.
 
-The overall safety profile of SPRYCEL in the paediatric population was similar to that of the adult population, regardless of formulation, with the exception of no reported pericardial effusion, pleural effusion, pulmonary oedema, or pulmonary hypertension in the paediatric population.
+The overall safety profile of SPRYCEL in the paediatric Ph+ CML-CP population was similar to that of the adult population, regardless of formulation, with the exception of no reported pericardial effusion, pleural effusion, pulmonary oedema, or pulmonary hypertension in the paediatric population.
 Of the 130 SPRYCEL-treated paediatric subjects with CML-CP, 2 (1.5%) experienced adverse reactions leading to treatment discontinuation.
 
 Tabulated list of adverse reactions
-The following adverse reactions, excluding laboratory abnormalities, were reported in patients in SPRYCEL clinical studies and post-marketing experience (Table 5).
+The following adverse reactions, excluding laboratory abnormalities, were reported in patients treated with SPRYCEL used as single-agent therapy in clinical studies and post-marketing experience
+(Table 5).
 These reactions are presented by system organ class and by frequency.
-Frequencies are defined as: very common (≥ 1/10); common
-(≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); not known (cannot be estimated from available post-marketing data).
+Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); not known (cannot be estimated from available post-marketing data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 5: Tabulated summary of adverse reactions
@@ -28,7 +28,7 @@ Table 5: Tabulated summary of adverse reactions
 | Infections and infestations |  |
 | --- | --- |
 | Very common | infection (including bacterial, viral, fungal, non-specified) |
-| Common | pneumonia (including bacterial, viral, and fungal), upper respiratory tract infection/inflammation, herpes virus infection, enterocolitis infection, sepsis (including uncommon cases with fatal outcomes) |
+| Common | pneumonia (including bacterial, viral, and fungal), upper respiratory tract infection/inflammation, herpes virus infection (including cytomegalovirus - CMV), enterocolitis infection, sepsis (including uncommon cases with fatal outcomes) |
 | Not known | hepatitis B reactivation |
 | Blood and lymphatic system disorders |  |
 | Very Common | myelosuppression (including anaemia, neutropaenia, thrombocytopaenia) |
@@ -130,6 +130,7 @@ Description of selected adverse reactions
 Myelosuppression
 Treatment with SPRYCEL is associated with anaemia, neutropaenia and thrombocytopaenia.
 Their occurrence is earlier and more frequent in patients with advanced phase CML or Ph+ ALL than in chronic phase CML (see section 4.4).
+
 Bleeding
 Bleeding drug-related adverse reactions, ranging from petechiae and epistaxis to grade 3 or 4 gastrointestinal haemorrhage and CNS bleeding, were reported in patients taking SPRYCEL (see section 4.4).
 
@@ -167,9 +168,9 @@ QT interval was corrected for heart rate by Fridericia's method.
 At all post-dose time points on day 8, the mean changes from baseline in QTcF interval were 4 - 6 msec, with associated upper 95% confidence intervals < 7 msec.
 Of the 2,182 patients with resistance or intolerance to prior imatinib therapy who received SPRYCEL in clinical studies, 15 (1%) had QTc prolongation reported as an adverse reaction.
 Twenty-one patients (1%) experienced a QTcF > 500 msec (see section 4.4).
+
 Cardiac adverse reactions
 Patients with risk factors or a history of cardiac disease should be monitored carefully for signs or symptoms consistent with cardiac dysfunction and should be evaluated and treated appropriately (see section 4.4).
-
 Hepatitis B reactivation
 Hepatitis B reactivation has been reported in association with BCR-ABL TKIs.
 Some cases resulted in acute hepatic failure or fulminant hepatitis leading to liver transplantation or a fatal outcome (see section 4.4).
@@ -218,6 +219,35 @@ Gastrointestinal bleeding 8 6
 a Phase 3 dose optimisation study results reported at the recommended starting dose of 140 mg once daily (n=304) population at 2 year final study follow up.
 b Includes ventricular dysfunction, cardiac failure, cardiac failure congestive, cardiomyopathy, congestive cardiomyopathy, diastolic dysfunction, ejection fraction decreased, and ventricular failure.
 
+In addition, there were two studies in a total of 161 paediatric patients with Ph+ ALL in which
+SPRYCEL was administered in combination with chemotherapy. In the pivotal study, 106 paediatric
+patients received SPRYCEL in combination with chemotherapy on a continuous dosing regimen. In a
+supportive study, of 55 paediatric patients, 35 received SPRYCEL in combination with chemotherapy
+on a discontinuous dosing regimen (two weeks on treatment followed by one to two weeks off) and
+20 received SPRYCEL in combination with chemotherapy on a continuous dosing regimen. Among
+the 126 Ph+ ALL paediatric patients treated with SPRYCEL on a continuous dosing regimen, the
+median duration of therapy was 23.6 months (range 1.4 to 33 months).
+Of the 126 Ph+ ALL paediatric patients on a continuous dosing regimen, 2 (1.6%) experienced
+adverse reactions leading to treatment discontinuation. Adverse reactions reported in these two
+paediatric studies at a frequency of ≥10% in patients on a continuous dosing regimen are shown in
+Table 7. Of note, pleural effusion was reported in 7 (5.6%) patients in this group, and is therefore not
+included in the table.
+
+Table 7: Adverse reactions reported in ≥10% of paediatric patients with Ph+ ALL treated with SPRYCEL on a continuous dosing regimen in combination with chemotherapy (N=126)a
+Percent (%) of patients
+
+Adverse reaction All grades Grade 3/4
+Febrile neutropaenia 27.0 26.2
+Nausea 20.6 5.6
+Vomiting 20.6 4.8
+Abdominal pain 14.3 3.2
+Diarrhoea 12.7 4.8
+Pyrexia 12.7 5.6
+Headache 11.1 4.8
+Decreased appetite 10.3 4.8
+Fatigue 10.3 0
+
+a In the pivotal study, among 106 total patients, 24 patients received the powder for oral suspension at least once, 8 of whom received the powder for oral suspension formulation exclusively.
 Laboratory test abnormalities
 Haematology
 In the Phase III newly diagnosed chronic phase CML study, the following grade 3 or 4 laboratory abnormalities were reported after a minimum of 12 months follow-up in patients taking SPRYCEL: neutropaenia (21%), thrombocytopaenia (19%), and anaemia (10%).
@@ -228,8 +258,9 @@ After a minimum of 60 months follow-up the cumulative rate of permanent disconti
 
 In patients with CML with resistance or intolerance to prior imatinib therapy, cytopaenias (thrombocytopaenia, neutropaenia, and anaemia) were a consistent finding.
 However, the occurrence of cytopaenias was also clearly dependent on the stage of the disease.
-The frequency of grade 3 and 4 haematological abnormalities is presented in Table 7.
-Table 7: CTC grades 3/4 haematological laboratory abnormalities in clinical studies in patients with resistance or intolerance to prior imatinib therapya
+The frequency of grade 3 and 4 haematological abnormalities is presented in Table 8.
+
+Table 8: CTC grades 3/4 haematological laboratory abnormalities in clinical studies in patients with resistance or intolerance to prior imatinib therapya
 Lymphoid blast
 
 Accelerated Myeloid phase and
@@ -271,9 +302,13 @@ Grade 3 or 4 hypocalcaemia, hypokalaemia, and hypophosphataemia were reported in
 Grade 3 or 4 elevations in creatinine were reported in < 1% of patients with chronic phase CML and were reported with an increased frequency of 1 to 4% of patients with advanced phase CML.
 
 Paediatric population
-The safety profile in paediatric patients was comparable to the safety profile in adults.
-Frequency, type and severity of adverse reactions in children are expected to be the same as in adults.
-In the paediatric CML studies, the rate of laboratory anomalies was consistent with the known profile for laboratory parameters in adults.
+The safety profile of SPRYCEL administered as single-agent therapy in paediatric patients with
+Ph+ CML-CP was comparable to the safety profile in adults.
+The safety profile of SPRYCEL administered in combination with chemotherapy in paediatric patients with Ph+ ALL was consistent with the known safety profile of SPRYCEL in adults and the expected effects of chemotherapy, with the exception of a lower pleural effusion rate in paediatric patients as compared to adults.
+
+In the paediatric CML studies, the rates of laboratory abnormalities were consistent with the known profile for laboratory parameters in adults.
+
+In the paediatric ALL studies, the rates of laboratory abnormalities were consistent with the known profile for laboratory parameters in adults, within the context of an acute leukaemia patient receiving a background chemotherapy regimen.
 
 Special population
 While the safety profile of SPRYCEL in elderly was similar to that in the younger population, patients aged 65 years and older are more likely to experience the commonly reported adverse reactions such as fatigue, pleural effusion, dyspnoea, cough, lower gastrointestinal haemorrhage, and appetite disturbance and more likely to experience less frequently reported adverse reactions such as abdominal distention, dizziness, pericardial effusion, congestive heart failure, and weight decrease and should be monitored closely (see section 4.4).
@@ -285,14 +320,12 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [SPRYCEL 10 mg/mL powder for oral suspension]
 
-The following adverse reactions, excluding laboratory abnormalities, were reported in patients in SPRYCEL clinical studies and post-marketing experience (Table 4).
-
-Table 4: Tabulated summary of adverse reactions
+The data described below reflect the exposure to SPRYCEL as single-agent therapy at all doses tested in clinical studies (N=2,900), including 324 adult patients with newly diagnosed chronic phase CML, 2,388 adult patients with imatinib-resistant or -intolerant chronic or advanced phase CML or Ph+ ALL, and 188 paediatric patients.
 
 | Infections and infestations |  |
 | --- | --- |
 | Very common | infection (including bacterial, viral, fungal, non-specified) |
-| Common | pneumonia (including bacterial, viral, and fungal), upper respiratory tract infection/inflammation, herpes virus infection, enterocolitis infection, sepsis (including uncommon cases with fatal outcomes) |
+| Common | pneumonia (including bacterial, viral, and fungal), upper respiratory tract infection/inflammation, herpes virus infection (including cytomegalovirus - CMV), enterocolitis infection, sepsis (including uncommon cases with fatal outcomes) |
 | Not known | hepatitis B reactivation |
 | Blood and lymphatic system disorders |  |
 | Very Common | myelosuppression (including anaemia, neutropaenia, thrombocytopaenia) |
@@ -375,15 +408,3 @@ Table 4: Tabulated summary of adverse reactions
 | Uncommon | blood creatine phosphokinase increased, gamma-glutamyltransferase increased |
 | Injury, poisoning, and procedural complications |  |
 | Common | contusion |
-
-Cumulative rates of selected adverse reactions that were reported in the 100 mg once daily recommended starting dose are shown in Table 5a.
-
-Table 5a: Selected adverse reactions reported in a phase 3 dose optimisation study (imatinib intolerant or resistant chronic phase CML)a
-
-Selected adverse reactions that were reported in the recommended starting dose of 140 mg once daily are shown in Table 5b.
-
-Table 5b: Selected adverse reactions reported in phase III dose-optimisation study: Advanced phase CML and Ph+ ALLa
-
-The frequency of grade 3 and 4 haematological abnormalities is presented in Table 6.
-
-Table 6: CTC grades 3/4 haematological laboratory abnormalities in clinical studies in patients with resistance or intolerance to prior imatinib therapya

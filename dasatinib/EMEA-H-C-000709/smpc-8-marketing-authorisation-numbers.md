@@ -9,7 +9,6 @@ SPRYCEL 50 mg film-coated tablets
 EU/1/06/363/005
 EU/1/06/363/008
 EU/1/06/363/002
-
 SPRYCEL 70 mg film-coated tablets
 EU/1/06/363/006
 EU/1/06/363/009

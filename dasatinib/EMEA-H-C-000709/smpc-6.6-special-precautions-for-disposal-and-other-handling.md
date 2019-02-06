@@ -7,7 +7,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 [SPRYCEL 10 mg/mL powder for oral suspension]
 
-It is recommended that a pharmacist or qualified healthcare professional constitutes SPRYCEL powder for oral suspension prior to its dispensing to the patient.
+SPRYCEL powder for oral suspension must be constituted by a pharmacist or qualified healthcare professional prior to being dispensed to the patient.
 The powder for oral suspension consists of powder blend with the active substance plus excipients, contained within a bottle for constitution.
 Once constituted, the bottle contains 99 mL of oral suspension, of which 90 mL is intended for dosing and administration.
 
@@ -23,12 +23,11 @@ This procedure should be performed on a clean surface.
 Step 1: Tap bottom of each bottle (containing 33 g SPRYCEL powder for oral suspension) gently to loosen the powder.
 Remove child-resistant closure and foil seal.
 Add 77.0 mL of purified water all at once to the bottle and close tightly with closure.
-Step 2: Immediately shake well for no less than 60 seconds to obtain a uniform suspension.
+Step 2: Immediately invert the bottle and shake vigorously for no less than 60 seconds to obtain a uniform suspension.
 If there are still visible clumps, continue shaking until no clumps are visible.
 Constitution in this way produces 90 mL (deliverable volume) of 10 mg/mL SPRYCEL oral suspension.
 Step 3: Remove the closure, insert the press-in bottle adapter (PIBA) into the bottle neck, and close the bottle tightly with the child-resistant closure.
 Step 4: Write the date of expiry of the constituted oral suspension on the bottle label (the date of expiry of the constituted oral suspension is 60 days from the date of constitution).
-Any unused oral suspension should be discarded or returned to your pharmacist after this date.
 Step 5: Dispense the bottle with inserted PIBA, package leaflet, and oral dosing syringe in the original carton to the patient or caregiver.
 Remind the patient or caregiver to shake the bottle vigorously prior to each use.
 
@@ -39,9 +38,9 @@ Instructions for administration to the patient
 - Store the constituted oral suspension in a refrigerator (2°C - 8°C).
   Do not freeze.
 - Review total prescribed dose and determine number of milliliters (mL) you will need.
-- If the amount needed is greater than 11 mL, it must be split into 2 doses as indicated in Table 14.
+- If the amount needed is greater than 11 mL, it must be split into 2 doses as indicated in Table 16.
 
-Table 14: How to split a dose of oral suspension that is greater than 11 mL
+Table 16: How to split a dose of oral suspension that is greater than 11 mL
 
 | Total prescribed dose (mL) | First dose (mL) | Second dose (mL) |
 | --- | --- | --- |
@@ -70,13 +69,13 @@ by shaking for 30 seconds. bottle repeatedly
 for 30
 
 - Shake well before each seconds.
-
 use.
 
 2.
 Remove the closure from the bottle.
 Make sure the adapter provided on the bottle for syringe placement is firmly pressed into the bottle.
 Make sure bottle adapter is firmly pressed.
+
 3.
 Look at the measurements on the side of the syringe so you can see how much to fill it before you begin.
 Note that the markings on the syringe are in mL.
@@ -85,9 +84,9 @@ Before each use, make sure the syringe plunger is pushed to the bottom of the sy
 
 4.
 With the bottle in an upright position, insert the tip of the syringe firmly into the bottle adapter.
-
 5.
 Holding the syringe tip firmly into the bottle, turn the bottle with the syringe upside down.
+
 6.
 Slowly withdraw the amount of SPRYCEL oral suspension prescribed by pulling the syringe plunger until it reaches the marking of the dose prescribed.
 
@@ -98,9 +97,9 @@ Slowly withdraw the amount of SPRYCEL oral suspension prescribed by pulling the 
 
 7.
 Holding the syringe tip firmly in the bottle, turn the bottle with the syringe upright again.
-
 8.
 Remove the syringe from the bottle being careful not to depress the plunger.
+
 9.
 With the patient in an upright position, place the tip of the syringe into the mouth between the side of the mouth and the tongue.
 Slowly push the plunger down until all of the dose has been given.

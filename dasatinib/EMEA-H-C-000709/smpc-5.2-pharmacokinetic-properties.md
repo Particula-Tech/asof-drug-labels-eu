@@ -12,7 +12,7 @@ A low-fat meal 30 minutes prior to dasatinib resulted in a 21% increase in the m
 The observed food effects do not represent clinically relevant changes in exposure.
 
 Distribution
-In patients, dasatinib has a large apparent volume of distribution (2,505 l) suggesting that the medicinal product is extensively distributed in the extravascular space.
+In patients, dasatinib has a large apparent volume of distribution (2,505 L), coefficient of variation (CV% 93%), suggesting that the medicinal product is extensively distributed in the extravascular space.
 At clinically relevant concentrations of dasatinib, binding to plasma proteins was approximately 96% on the basis of in vitro experiments.
 
 Biotransformation
@@ -22,10 +22,12 @@ Plasma concentration and measured in vitro activity indicate that metabolites of
 CYP3A4 is a major enzyme responsible for the metabolism of dasatinib.
 
 Elimination
+The mean terminal half-life of dasatinib is 3 hours to 5 hours.
+The mean apparent oral clearance is 363.8 L/hr (CV% 81.3%).
+
 Elimination is predominantly in the faeces, mostly as metabolites.
 Following a single oral dose of [14C]-labelled dasatinib, approximately 89% of the dose was eliminated within 10 days, with 4% and 85% of the radioactivity recovered in the urine and faeces, respectively.
 Unchanged dasatinib accounted for 0.1% and 19% of the dose in urine and faeces, respectively, with the remainder of the dose as metabolites.
-
 Hepatic and renal impairment
 The effect of hepatic impairment on the single-dose pharmacokinetics of dasatinib was assessed in 8 moderately hepatic-impaired subjects who received a 50 mg dose and 5 severely hepatic-impaired subjects who received a 20 mg dose compared to matched healthy subjects who received a 70 mg dose of dasatinib.
 The mean Cmax and AUC of dasatinib adjusted for the 70 mg dose were decreased by 47% and 8%, respectively, in subjects with moderate hepatic impairment compared to subjects with normal hepatic function.
@@ -35,6 +37,8 @@ Dasatinib and its metabolites are minimally excreted via the kidney.
 
 Paediatric population
 The pharmacokinetics of dasatinib have been evaluated in 104 paediatric patients with leukaemia or solid tumours (72 who received the tablet formulation and 32 who received the powder for oral suspension).
+
+In a paediatric pharmacokinetics study, dose-normalized dasatinib exposure (Cavg, Cmin and Cmax) appears similar between 21 patients with CP-CML and 16 patients with Ph+ ALL.
 
 Pharmacokinetics of the tablet formulation of dasatinib were evaluated for 72 paediatric patients with relapsed or refractory leukaemia or solid tumours at oral doses ranging from 60 to 120 mg/m2 once daily and 50 to 110 mg/m2 twice daily.
 Data was pooled across two studies and showed that dasatinib was rapidly absorbed.

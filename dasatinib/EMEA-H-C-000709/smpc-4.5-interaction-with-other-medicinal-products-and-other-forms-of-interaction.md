@@ -3,7 +3,7 @@
 Active substances that may increase dasatinib plasma concentrations
 In vitro studies indicate that dasatinib is a CYP3A4 substrate.
 Concomitant use of dasatinib and medicinal products or substances which potently inhibit CYP3A4 (e.g. ketoconazole, itraconazole, erythromycin, clarithromycin, ritonavir, telithromycin, grapefruit juice) may increase exposure to dasatinib.
-Therefore, in patients receiving dasatinib, systemic administration of a potent CYP3A4 inhibitor is not recommended.
+Therefore, in patients receiving dasatinib, systemic administration of a potent CYP3A4 inhibitor is not recommended (see section 4.2).
 
 At clinically relevant concentrations, binding of dasatinib to plasma proteins is approximately 96% on the basis of in vitro experiments.
 No studies have been performed to evaluate dasatinib interaction with other protein-bound medicinal products.
@@ -14,6 +14,7 @@ When dasatinib was administered following 8 daily evening administrations of 600
 Other medicinal products that induce CYP3A4 activity (e.g. dexamethasone, phenytoin, carbamazepine, phenobarbital or herbal preparations containing Hypericum perforatum, also known as St. John´s Wort) may also increase metabolism and decrease dasatinib plasma concentrations.
 Therefore, concomitant use of potent CYP3A4 inducers with dasatinib is not recommended.
 In patients in whom rifampicin or other CYP3A4 inducers are indicated, alternative medicinal products with less enzyme induction potential should be used.
+Concomitant use of dexamethasone, a weak CYP3A4 inducer, with dasatinib is allowed; dasatinib AUC is predicted to decrease approximately 25% with concomitant use of dexamethasone, which is not likely to be clinically meaningful.
 
 Histamine-2 antagonists and proton pump inhibitors
 Long-term suppression of gastric acid secretion by H2 antagonists or proton pump inhibitors (e.g. famotidine and omeprazole) is likely to reduce dasatinib exposure.

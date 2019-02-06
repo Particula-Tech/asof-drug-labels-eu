@@ -12,6 +12,7 @@ Therefore, in patients receiving dasatinib, coadministration of alternative medi
 
 Concomitant use of dasatinib and a CYP3A4 substrate may increase exposure to the CYP3A4 substrate.
 Therefore, caution is warranted when dasatinib is coadministered with CYP3A4 substrates of narrow therapeutic index, such as astemizole, terfenadine, cisapride, pimozide, quinidine, bepridil or ergot alkaloids (ergotamine, dihydroergotamine) (see section 4.5).
+
 The concomitant use of dasatinib and a histamine-2 (H2) antagonist (e.g. famotidine), proton pump inhibitor (e.g. omeprazole), or aluminium hydroxide/magnesium hydroxide may reduce the exposure to dasatinib.
 Thus, H2 antagonists and proton pump inhibitors are not recommended and aluminium hydroxide/magnesium hydroxide products should be administered up to 2 hours prior to, or 2 hours following the administration of dasatinib (see section 4.5).
 
@@ -23,9 +24,11 @@ Important adverse reactions
 Myelosuppression
 Treatment with dasatinib is associated with anaemia, neutropaenia and thrombocytopaenia.
 Their occurrence is earlier and more frequent in patients with advanced phase CML or Ph+ ALL than in chronic phase CML.
-In patients with advanced phase CML or Ph+ ALL, complete blood counts should be performed weekly for the first 2 months, and then monthly thereafter, or as clinically indicated.
-In patients with chronic phase CML, complete blood counts should be performed every 2 weeks for 12 weeks, then every 3 months thereafter or as clinically indicated.
-Myelosuppression is generally reversible and usually managed by withholding dasatinib temporarily or by dose reduction (see sections 4.2 and 4.8).
+In adult patients with advanced phase CML or Ph+ ALL treated with dasatinib as monotherapy, complete blood counts (CBCs) should be performed weekly for the first 2 months, and then monthly thereafter, or as clinically indicated.
+In adult and paediatric patients with chronic phase CML, complete blood counts should be performed every 2 weeks for 12 weeks, then every 3 months thereafter or as clinically indicated.
+Myelosuppression is generally reversible and usually managed by withholding dasatinib temporarily or by dose reduction.
+In paediatric patients with Ph+ ALL treated with dasatinib in combination with chemotherapy, CBCs should be performed prior to the start of each block of chemotherapy and as clinically indicated.
+During the consolidation blocks of chemotherapy, CBCs should be performed every 2 days until recovery (see sections 4.2 and 4.8).
 
 Bleeding
 In patients with chronic phase CML (n=548), 5 patients (1%) receiving dasatinib had grade 3 or 4 haemorrhage.
@@ -42,13 +45,14 @@ Fluid retention
 Dasatinib is associated with fluid retention.
 In the Phase III clinical study in patients with newly diagnosed chronic phase CML, grade 3 or 4 fluid retention was reported in 13 patients (5%) in the dasatinib-treatment group and in 2 patients (1%) in the imatinib-treatment group after a minimum of 60 months follow-up (see section 4.8).
 In all SPRYCEL treated patients with chronic phase CML, severe fluid retention occurred in 32 patients (6%) receiving SPRYCEL at the recommended dose (n=548).
-In clinical studies in patients with advanced phase CML receiving SPRYCEL at the recommended dose (n=304), grade 3 or 4 fluid retention was reported in 8% of patients, including grade 3 or 4 pleural and pericardial effusion reported in 7% and 1% of patients, respectively.
+In clinical studies in patients with advanced phase CML or Ph+ ALL receiving SPRYCEL at the recommended dose (n=304), grade 3 or 4 fluid retention was reported in 8% of patients, including grade 3 or 4 pleural and pericardial effusion reported in 7% and 1% of patients, respectively.
 In these patients grade 3 or 4 pulmonary oedema and pulmonary hypertension were each reported in 1% of patients.
 
 Patients who develop symptoms suggestive of pleural effusion such as dyspnoea or dry cough should be evaluated by chest X-ray.
 Grade 3 or 4 pleural effusion may require thoracocentesis and oxygen therapy.
 Fluid retention adverse reactions were typically managed by supportive care measures that include diuretics and short courses of steroids (see sections 4.2 and 4.8).
 Patients aged 65 years and older are more likely than younger patients to experience pleural effusion, dyspnoea, cough, pericardial effusion and congestive heart failure, and should be monitored closely.
+
 Pulmonary arterial hypertension (PAH)
 PAH (pre-capillary pulmonary arterial hypertension confirmed by right heart catheterization) has been reported in association with dasatinib treatment (see section 4.8).
 In these cases, PAH was reported after initiation of dasatinib therapy, including after more than one year of treatment.
@@ -86,6 +90,7 @@ If these clinical signs or symptoms develop, physicians are advised to interrupt
 After resolution, a functional assessment should be performed prior to resuming treatment with dasatinib.
 Dasatinib may be resumed at the original dose for mild/moderate adverse reactions (≤ grade 2) and resumed at a dose level reduction for severe adverse reactions (≥ grade 3) (see section 4.2).
 Patients continuing treatment should be monitored periodically.
+
 Patients with uncontrolled or significant cardiovascular disease were not included in the clinical studies.
 
 Hepatitis B reactivation
@@ -96,19 +101,23 @@ Experts in liver disease and in the treatment of hepatitis B should be consulted
 Carriers of HBV who require treatment with SPRYCEL should be closely monitored for signs and symptoms of active HBV infection throughout therapy and for several months following termination of therapy (see section 4.8).
 
 Effects on growth and development in paediatric patients
-In paediatric trials of SPRYCEL in imatinib-resistant/intolerant paediatric patients and treatment-naive paediatric patients after at least 2 years of treatment, treatment-related adverse events associated with bone growth and development were reported in 6 (4.6%) patients, one of which was severe in intensity (Growth Retardation Grade 3).
+In paediatric trials of SPRYCEL in imatinib-resistant/intolerant Ph+ CML-CP paediatric patients and treatment-naive Ph+ CML-CP paediatric patients after at least 2 years of treatment, treatment-related adverse events associated with bone growth and development were reported in 6 (4.6%) patients, one of which was severe in intensity (Growth Retardation Grade 3).
 These 6 cases included cases of epiphyses delayed fusion, osteopaenia, growth retardation, and gynecomastia (see section 5.1).
 These results are difficult to interpret in the context of chronic diseases such as CML, and require long-term follow-up.
 
+In paediatric trials of SPRYCEL in combination with chemotherapy in newly diagnosed Ph+ ALL paediatric patients after a maximum of 2 years of treatment, treatment-related adverse events associated with bone growth and development were reported in 1 (0.6%) patient.
+This case was a Grade 1 osteopenia.
+
+Excipients
 Lactose
 This medicinal product contains lactose monohydrate.
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
 [SPRYCEL 10 mg/mL powder for oral suspension]
 
-Excipients
 Sodium
-This medicinal product contains 2.1 mg sodium per mL of SPRYCEL oral suspension, equivalent to 2.1% of the WHO recommended maximum daily dietary intake of 2 g sodium for an adult.
+This medicinal product contains 2.1 mg sodium per mL of SPRYCEL oral suspension.
+At the maximum daily dose of 16 mL oral suspension, this is equivalent to 1.7% of the WHO recommended maximum daily dietary intake of 2 g sodium for an adult.
 
 Sucrose
 SPRYCEL powder for oral suspension contains approximately 0.29 g/mL of sucrose upon constitution with water.
@@ -126,9 +135,9 @@ SPRYCEL contains 0.017 mg benzyl alcohol in each mL of oral suspension.
 Benzyl alcohol may cause allergic reactions.
 
 Monitor patients less than 3 years of age for respiratory symptoms.
+
 SPRYCEL should not be used during pregnancy unless the clinical condition of the woman requires treatment with dasatinib (see section 4.6).
 Advise patients who are or may become pregnant of the potential risk to the foetus from dasatinib and the excipient benzyl alcohol, which may accumulate over time and cause metabolic acidosis.
-
 Use with caution in patients with hepatic or renal impairment, as benzyl alcohol may accumulate over time and cause metabolic acidosis.
 
 Sulphur dioxide (E220)

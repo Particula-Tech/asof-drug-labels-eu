@@ -47,10 +47,10 @@ Discontinuation within 12 months due to disease progression occurred in 3% of SP
 With a minimum of 60 months follow-up, 60% of patients randomised to the SPRYCEL group and 63% of patients randomised to the imatinib group were still receiving first-line treatment.
 Discontinuation within 60 months due to disease progression occurred in 11% of SPRYCEL-treated patients and 14% of imatinib-treated patients.
 
-Efficacy results are presented in Table 8.
+Efficacy results are presented in Table 9.
 A statistically significantly greater proportion of patients in the SPRYCEL group achieved a cCCyR compared with patients in the imatinib group within the first 12 months of treatment.
 Efficacy of SPRYCEL was consistently demonstrated across different subgroups, including age, gender, and baseline Hasford score.
-Table 8: Efficacy results from a phase 3 study of newly diagnosed patients with chronic phase CML
+Table 9: Efficacy results from a phase 3 study of newly diagnosed patients with chronic phase CML
 
 |  | SPRYCEL imatinib n= 259 n= 260 | p-value |
 | --- | --- | --- |
@@ -139,9 +139,9 @@ ______ Dasatinib 100 mg once daily 259
 The rate of MMR at any time in each risk group determined by Hasford score was higher in the SPRYCEL group compared with the imatinib group (low risk: 90% and 69%; intermediate risk: 71% and 65%; high risk: 67% and 54%, respectively).
 
 In an additional analysis, more dasatinib-treated patients (84%) achieved early molecular response (defined as BCR-ABL levels ≤ 10% at 3 months) compared with imatinib-treated patients (64%).
-Patients achieving early molecular response had a lower risk of transformation, higher rate of progression-free survival (PFS) and higher rate of overall survival (OS), as shown in Table 9.
+Patients achieving early molecular response had a lower risk of transformation, higher rate of progression-free survival (PFS) and higher rate of overall survival (OS), as shown in Table 10.
 
-Table 9: Dasatinib patients with BCR-ABL ≤ 10% and > 10% at 3 months
+Table10: Dasatinib patients with BCR-ABL ≤ 10% and > 10% at 3 months
 Patients with BCR-ABL Patients with BCR-ABL >
 
 Dasatinib N = 235 ≤ 10% at 3 months 10% at 3 months
@@ -251,7 +251,7 @@ A total of 109 patients received dasatinib 70 mg twice daily (99 resistant and 1
 The median time from diagnosis to start of treatment was 48 months.
 Median duration of treatment on dasatinib was 3.5 months with 12% of patients treated for > 24 months to date.
 The rate of major molecular response (assessed in 19 patients with a CCyR) was 68% at 24 months.
-Further efficacy results are reported in Table 10.
+Further efficacy results are reported in Table 11.
 
 Lymphoid blast phase CML and Ph+ ALL
 An open-label, single-arm, multicentre study was conducted in patients with lymphoid blast phase CML or Ph+ ALL who were resistant or intolerant to prior imatinib therapy.
@@ -264,9 +264,9 @@ In addition,
 The median time from diagnosis to start of treatment was 18 months.
 Median duration of treatment on dasatinib was 3 months with 7% of patients treated for > 24 months to date.
 The rate of major molecular response (all 25 treated patients with a CCyR) was 52% at 24 months.
-Further efficacy results are reported in Table 10.
+Further efficacy results are reported in Table 11.
 Of note, major haematologic responses (MaHR) were achieved quickly (most within 35 days of first dasatinib administration for patients with lymphoid blast CML, and within 55 days for patients with Ph+ ALL).
-Table 10: Efficacy in phase II SPRYCEL single-arm clinical studiesa
+Table 11: Efficacy in phase II SPRYCEL single-arm clinical studiesa
 
 | Chronic Accelerated (n= 387) (n= 174) | Myeloid blast (n= 109) | Lymphoid blast (n= 48) | Ph+ ALL (n= 46) |
 | --- | --- | --- | --- |
@@ -308,9 +308,9 @@ The median duration of treatment for all patients still on therapy with a minimu
 Median duration of treatment for all patients at 7 years of follow-up was 29.8 months (range < 1-92.9 months).
 
 Efficacy was achieved across all dasatinib treatment groups with the once daily schedule demonstrating comparable efficacy (non-inferiority) to the twice daily schedule on the primary efficacy endpoint (difference in MCyR 1.9%; 95% confidence interval [-6.8% - 10.6%]); however, the 100 mg once daily regimen demonstrated improved safety and tolerability.
-Efficacy results are presented in Tables 11 and 12.
+Efficacy results are presented in Tables 12 and 13.
 
-Table 11: Efficacy of SPRYCEL in phase III dose-optimization study: imatinib resistant or intolerant chronic phase CML (2-year results)a
+Table 12: Efficacy of SPRYCEL in phase III dose-optimization study: imatinib resistant or intolerant chronic phase CML (2-year results)a
 
 All patients n=167
 Imatinib-resistant patients n=124
@@ -341,7 +341,7 @@ c Cytogenetic response criteria: complete (0% Ph+ metaphases) or partial (>0%–
 MCyR (0%–35%) combines both complete and partial responses.
 d Major molecular response criteria: Defined as BCR-ABL/control transcripts ≤0.1% by RQ-PCR in peripheral blood samples
 
-Table 12: Long term efficacy of SPRYCEL in phase 3 dose optimisation study: imatinib resistant or intolerant chronic phase CML patientsa
+Table 13: Long term efficacy of SPRYCEL in phase 3 dose optimisation study: imatinib resistant or intolerant chronic phase CML patientsa
 Minimum follow-up period
 
 1 year 2 years 5 years 7 years
@@ -375,9 +375,9 @@ A total of 611 patients were randomised to either the dasatinib 140 mg once dail
 Median duration of treatment was approximately 6 months (range 0.03-31 months).
 
 The once daily schedule demonstrated comparable efficacy (non-inferiority) to the twice daily schedule on the primary efficacy endpoint (difference in MaHR 0.8%; 95% confidence interval [-7.1% - 8.7%]); however, the 140 mg once daily regimen demonstrated improved safety and tolerability.
-Response rates are presented in Table 13.
+Response rates are presented in Table 14.
 
-Table 13: Efficacy of SPRYCEL in phase III dose-optimisation study: advanced phase CML and Ph+ ALL (2 year results)a
+Table 14: Efficacy of SPRYCEL in phase III dose-optimisation study: advanced phase CML and Ph+ ALL (2 year results)a
 
 Accelerated Myeloid blast Lymphoid blast Ph+ALL
 (n= 158) (n= 75) (n= 33) (n= 40)
@@ -395,7 +395,8 @@ CCyR 32% 17% 39% 50%
 a Results reported in recommended starting dose of 140 mg once daily (see section 4.2).
 b Haematologic response criteria (all responses confirmed after 4 weeks): Major haematologic response (MaHR) = complete haematologic response (CHR) + no evidence of leukaemia (NEL).
 CHR: WBC ≤ institutional ULN, ANC ≥ 1,000/mm3, platelets ≥ 100,000/mm3, no blasts or promyelocytes in peripheral blood, bone marrow blasts ≤ 5%, < 5% myelocytes plus metamyelocytes in peripheral blood, basophils in peripheral blood < 20%, and no extramedullary involvement.
-NEL: same criteria as for CHR but ANC ≥ 500/mm3 and < 1,000/mm3, or platelets ≥ 20,000/mm3 and ≤ 100,000/mm3.
+NEL: same criteria as for CHR but ANC ≥ 500/mm3 and < 1,000/mm3, or platelets ≥ 20,000/mm3 and
+≤ 100,000/mm3.
 c MCyR combines both complete (0% Ph+ metaphases) and partial (> 0%-35%) responses.
 CI = confidence interval; ULN = upper limit of normal range.
 
@@ -407,18 +408,15 @@ In patients with lymphoid blast phase CML treated with the 140 mg once daily reg
 In patients with Ph+ ALL treated with the 140 mg once daily regimen, the median duration of MaHR was 5 months the median PFS was 4 months, and the median overall survival was 7 months.
 
 Paediatric population
-The European Medicines Agency has deferred the obligation to submit the results of studies with SPRYCEL in one or more subsets of the paediatric population in Philadelphia chromosome (BCR-ABL translocation)-positive acute lymphoblastic leukaemia (see section 4.2 for information on paediatric use).
-
 Paediatric patients with CML
 Among 130 patients with chronic phase CML (CML-CP) treated in two paediatric studies, a Phase I, open-label, nonrandomized dose-ranging trial and a Phase II, open-label, nonrandomized trial,
 84 patients (exclusively from the Phase II trial) were newly diagnosed with CML-CP and 46 patients (17 from the Phase I trial and 29 from the Phase II trial) were resistant or intolerant to previous treatment with imatinib.
 Ninety-seven of the 130 paediatric patients with CML-CP were treated with SPRYCEL tablets 60 mg/m2 once daily (maximum dose of 100 mg once daily for patients with high BSA).
 Patients were treated until disease progression or unacceptable toxicity.
-
 Key efficacy endpoints were: complete cytogenetic response (CCyR), major cytogenetic response (MCyR) and major molecular response (MMR).
-Results are shown in Table 14.
+Results are shown in Table 15.
 
-Table 14: Efficacy of SPRYCEL in paediatric patients with CML-CP
+Table 15: Efficacy of SPRYCEL in paediatric patients with CML-CP
 Cumulative response over time by minimum follow-up period
 
 3 months 6 months 12 months 24 months
@@ -462,21 +460,25 @@ In these patients, CCyR and MMR were CCyR: 87.9% [95% CI: (71.8-96.6)] and MMR: 
 Among dasatinib-treated CML-CP paediatric patients previously exposed to imatinib, the mutations detected at the end of treatment were: T315A, E255K and F317L.
 However, E255K and F317L were also detected prior to treatment.
 There were no mutations detected in newly diagnosed CML-CP patients at the end of treatment.
+Paediatric patients with ALL
+The efficacy of SPRYCEL in combination with chemotherapy was evaluated in a pivotal study in paediatric patients over one year of age with newly diagnosed Ph+ ALL.
+
+In this multicenter, historically-controlled Phase II study of dasatinib added to standard chemotherapy, 106 paediatric patients with newly diagnosed Ph+ ALL, of whom 104 patients had confirmed
+Ph+ ALL, received dasatinib at a daily dose of 60 mg/m2 on a continuous dosing regimen for up to 24 months, in combination with chemotherapy.
+Eighty-two patients received dasatinib tablets exclusively and 24 patients received dasatinib powder for oral suspension at least once, 8 of whom received dasatinib powder for oral suspension exclusively.
+The backbone chemotherapy regimen was the same as used in the AIEOP-BFM ALL 2000 trial (chemotherapeutic standard multi-agent chemotherapy protocol).
+The primary efficacy endpoint was 3-year event-free survival (EFS), which was 65.5% (55.5, 73.7).
+
+The minimal residual disease (MRD) negativity rate assessed by Ig/TCR rearrangement was 71.7% by the end of consolidation in all treated patients.
+When this rate was based on the 85 patients with evaluable Ig/TCR assessments, the estimate was 89.4%.
+The MRD negativity rates at the end of induction and consolidation as measured by flow cytometry were 66.0% and 84.0%, respectively.
 
 [SPRYCEL 10 mg/mL powder for oral suspension]
 
-Efficacy results are presented in Table 7.
-Table 7: Efficacy results from a phase 3 study of newly diagnosed patients with chronic phase CML
-
-Patients achieving early molecular response had a lower risk of transformation, higher rate of progression-free survival (PFS) and higher rate of overall survival (OS), as shown in Table 8.
-
-Table 8: Dasatinib patients with BCR-ABL ≤ 10% and > 10% at 3 months
+Table 10: Dasatinib patients with BCR-ABL ≤ 10% and > 10% at 3 months
 
 Efficacy results are reported in Table 9.
 
-Further efficacy results are reported in Table 9.
-
-Table 9: Efficacy in phase II SPRYCEL single-arm clinical studiesa
 Myeloid Lymphoid
 
 Chronic Accelerated blast blast Ph+ ALL
@@ -502,19 +504,5 @@ Progression-Free
 
 1 year 91% (88-94) 64% (57-72) 35% (25-45) 14% (3-25) 21% (9-34)
 2 year 80% (75-84) 46% (38-54) 20% (11-29) 5% (0-13) 12% (2-23)
-
-Efficacy results are presented in Tables 10 and 11.
-
-Table 10: Efficacy of SPRYCEL in phase III dose-optimization study: imatinib resistant or intolerant chronic phase CML (2-year results)a
-
-Table 11: Long term efficacy of SPRYCEL in phase 3 dose optimisation study: imatinib resistant or intolerant chronic phase CML patientsa
-
-Response rates are presented in Table 12.
-
-Table 12: Efficacy of SPRYCEL in phase III dose-optimisation study: advanced phase CML and Ph+ ALL (2 year results)a
-
-Results are shown in Table 13.
-
-Table 13: Efficacy of SPRYCEL in paediatric patients with CML-CP
 
 This dose represents 30% lower exposure compared to the recommended dose (see section 5.2).
