@@ -6,10 +6,11 @@ Epivir may be administered with or without food.
 To ensure administration of the entire dose, the tablet(s) should ideally be swallowed without crushing.
 
 Epivir is also available as an oral solution for children over three months of age and who weigh less than 14 kg or for patients who are unable to swallow tablets (see section 4.4).
-
+Patients changing between lamivudine oral solution and lamivudine tablets should follow the dosing recommendations that are specific for the formulation (see section 5.2)
 Alternatively, for patients who are unable to swallow tablets, the tablet(s) may be crushed and added to a small amount of semi-solid food or liquid, all of which should be consumed immediately (see section 5.2).
 
 Adults, adolescents and children (weighing at least 25 kg):
+
 The recommended dose of Epivir is 300 mg daily.
 This may be administered as either 150 mg twice daily or 300 mg once daily (see section 4.4).
 
@@ -43,7 +44,7 @@ Dosing recommendations – Adults, adolescents and children (weighing at least 2
 
 | Creatinine clearance (ml/min) | First dose | Maintenance dose |
 | --- | --- | --- |
-| ≥50 | 300 mg or 150 mg | 300 mg once daily 150 mg twice daily |
+| ≥50 | 300 mg or 150 mg | 300 mg once daily or 150 mg twice daily |
 | 30-<50 | 150 mg | 150 mg once daily |
 | <30 As doses below 150 mg are needed the use of the oral solution is recommended |  |  |
 | 15 to <30 | 150 mg | 100 mg once daily |
@@ -51,18 +52,18 @@ Dosing recommendations – Adults, adolescents and children (weighing at least 2
 | <5 | 50 mg | 25 mg once daily |
 
 There are no data available on the use of lamivudine in children with renal impairment.
-Based on the assumption that creatinine clearance and lamivudine clearance are correlated similarly in children as in adults it is recommended that the dosage in children with renal impairment be reduced according to their creatinine clearance by the same proportion as in adults.
-The Epivir 10 mg/ml oral solution may be the most appropriate formulation to achieve the recommended maintenance dose in paediatric patients with renal impairment.
+Based on the assumption that creatinine clearance and lamivudine clearance are correlated similarly in children as in adults; it is recommended that the dosage in children with renal impairment be reduced according to their creatinine clearance by the same proportion as in adults.
+The Epivir 10 mg/mL oral solution may be the most appropriate formulation to achieve the recommended dose in children with renal impairment aged at least 3 months and weighing less than 25kg.
 
 Dosing recommendations – Children aged at least 3 months and weighing less than 25 kg:
 
 | Creatinine clearance (ml/min) | First dose | Maintenance dose |
 | --- | --- | --- |
-| ≥50 | 8 mg/kg or 4 mg/kg | 8mg/kg once daily 4 mg/kg twice daily |
-| 30 to<50 | 4 mg/kg | 4 mg/kg once daily |
-| 15 to <30 | 4 mg/kg | 2.6 mg/kg once daily |
-| 5 to <15 | 4 mg/kg | 1.3 mg/kg once daily |
-| <5 | 1.3 mg/kg | 0.7 mg/kg once daily |
+| ≥50 | 10 mg/kg or 5 mg/kg | 10 mg/kg once daily or 5 mg/kg twice daily |
+| 30 to<50 | 5 mg/kg | 5 mg/kg once daily |
+| 15 to <30 | 5 mg/kg | 3.3 mg/kg once daily |
+| 5 to <15 | 5 mg/kg | 1.6 mg/kg once daily |
+| <5 | 1.6 mg/kg | 0.9 mg/kg once daily |
 
 Hepatic impairment: Data obtained in patients with moderate to severe hepatic impairment shows that lamivudine pharmacokinetics are not significantly affected by hepatic dysfunction.
 Based on these data, no dose adjustment is necessary in patients with moderate or severe hepatic impairment unless accompanied by renal impairment.
@@ -71,13 +72,14 @@ Based on these data, no dose adjustment is necessary in patients with moderate o
 
 Epivir is also available as a tablet formulation for patients who weigh at least 14 kg (see section 4.4).
 
+Patients changing between lamivudine tablets and lamivudine oral solution should follow the dosing recommendations that are specific for the formulation (see section 5.2).
+
 For patients who are unable to swallow tablets, the tablet(s) may be crushed and added to a small amount of semi-solid food or liquid, all of which should be consumed immediately (see section 5.2).
 
 This may be administered as either 150 mg (15 ml) twice daily or 300 mg (30 ml) once daily (see section 4.4).
 
-Children from one year of age: The recommended dose is 5 mg/kg twice daily, or 10 mg/kg once daily up to a maximum total daily dose of 300 mg (30 ml) (see sections 4.4 and 4.5).
-
-Children from three months to one year of age: The recommended dose is 5 mg/kg twice daily.
+Children from one year of age: The recommended dose is 0.5 mL/kg (5 mg/kg) twice daily, or 1 mL/kg (10 mg/kg) once daily (see sections 4.4 and 4.5).
+Children from three months to one year of age: The recommended dose is 0.5 mL/kg (5 mg/kg) twice daily.
 If a twice daily regimen is not feasible, a once daily regimen (10 mg/kg/day) could be considered.
 It should be taken into account that data for the once daily regimen are very limited in this population (see sections 4.4, 5.1 and 5.2).
 
@@ -85,16 +87,8 @@ The dose should therefore be adjusted (see tables).
 
 | Creatinine clearance (ml/min) | First dose | Maintenance dose |
 | --- | --- | --- |
-| ≥50 | 300 mg (30 ml) or 150 mg (15 ml) | 300 mg (30 ml) once daily 150 mg (15 ml) twice daily |
+| ≥50 | 300 mg (30 ml) or 150 mg (15 ml) | 300 mg (30 ml) once daily or 150 mg (15 ml) twice daily |
 | 30 to<50 | 150 mg (15 ml) | 150 mg (15 ml) once daily |
 | 15 to <30 | 150 mg (15 ml) | 100 mg (10 ml) once daily |
 | 5 to <15 | 150 mg (15 ml) | 50 mg (5 ml) once daily |
 | <5 | 50 mg (5 ml) | 25 mg (2.5 ml) once daily |
-
-| Creatinine clearance (ml/min) | First dose | Maintenance dose |
-| --- | --- | --- |
-| ≥50 | 8 mg/kg or 4 mg/kg | 8 mg/kg once daily 4 mg/kg twice daily |
-| 30 to<50 | 4 mg/kg | 4 mg/kg once daily |
-| 15 to <30 | 4 mg/kg | 2.6 mg/kg once daily |
-| 5 to <15 | 4 mg/kg | 1.3 mg/kg once daily |
-| <5 | 1.3 mg/kg | 0.7 mg/kg once daily |

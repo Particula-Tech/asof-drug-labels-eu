@@ -9,13 +9,13 @@ Within each frequency grouping, undesirable effects are presented in order of de
 Blood and lymphatic systems disorders
 Uncommon: Neutropenia and anaemia (both occasionally severe), thrombocytopenia
 Very rare: Pure red cell aplasia
-
 Metabolism and nutrition disorders
 Very rare: Lactic acidosis
 
 Nervous system disorders
 Common: Headache, insomnia
 Very rare: Peripheral neuropathy (or paraesthesia)
+
 Respiratory, Thoracic and mediastinal disorders
 Common: Cough, nasal symptoms
 
@@ -54,6 +54,4 @@ No additional safety issues have been identified in paediatric subjects receivin
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
-
-listed in Appendix V.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

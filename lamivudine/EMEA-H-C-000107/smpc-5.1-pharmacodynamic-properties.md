@@ -31,11 +31,11 @@ The M184V RT mutant shows a <4-fold decrease in susceptibility to didanosine; th
 In vitro susceptibility testing has not been standardised and results may vary according to methodological factors.
 
 Lamivudine demonstrates low cytotoxicity to peripheral blood lymphocytes, to established lymphocyte and monocyte-macrophage cell lines, and to a variety of bone marrow progenitor cells in vitro.
-
 Clinical efficacy and safety
 
 In clinical trials, lamivudine in combination with zidovudine has been shown to reduce HIV-1 viral load and increase CD4 cell count.
 Clinical end-point data indicate that lamivudine in combination with zidovudine, results in a significant reduction in the risk of disease progression and mortality.
+
 Evidence from clinical studies shows that lamivudine plus zidovudine delays the emergence of zidovudine resistant isolates in individuals with no prior antiretroviral therapy.
 
 Lamivudine has been widely used as a component of antiretroviral combination therapy with other antiretroviral agents of the same class (NRTIs) or different classes (PIs, non-nucleoside reverse transcriptase inhibitors).
@@ -64,9 +64,11 @@ The results are summarised in the table below:
 
 Virological Response Based on Plasma HIV-1 RNA less than 80 copies/ml at Week 48 and Week 96 in the Once Daily versus Twice Daily abacavir + lamivudine randomisation of ARROW (Observed Analysis)
 
-|  | Twice Daily N (%) | Once Daily N (%) |
-| --- | --- | --- |
+Twice Daily Once Daily
+N (%) N (%)
+
 | Week 0 (After ≥36 Weeks on Treatment) |  |  |
+| --- | --- | --- |
 | Plasma HIV-1 RNA <80 c/ml | 250/331 (76) | 237/335 (71) |
 | Risk difference (once daily-twice daily) | -4.8% (95% CI -11.5% to +1.9%), p=0.16 |  |
 | Week 48 |  |  |
@@ -110,3 +112,15 @@ The triphosphate has selective inhibitory activity against HIV-1 and HIV-2 repli
 However, for the treatment of HIV infection, only a 300 mg daily dose of lamivudine (in combination with other antiretroviral agents) has been shown to be efficacious.
 
 Paediatric population:a randomised comparison of a regimen including once daily vs twice daily dosing of abacavir and lamivudine was undertaken within a randomised, multicentre, controlled study of HIV-infected, paediatric patients.
+
+|  | Twice Daily N (%) | Once Daily N (%) |
+| --- | --- | --- |
+| Week 0 (After ≥36 Weeks on Treatment) |  |  |
+| Plasma HIV-1 RNA <80 c/ml | 250/331 (76) | 237/335 (71) |
+| Risk difference (once daily-twice daily) | -4.8% (95% CI -11.5% to +1.9%), p=0.16 |  |
+| Week 48 |  |  |
+| Plasma HIV-1 RNA <80 c/ml | 242/331 (73) | 236/330 (72) |
+| Risk difference (once daily-twice daily) | -1.6% (95% CI -8.4% to +5.2%), p=0.65 |  |
+| Week 96 |  |  |
+| Plasma HIV-1 RNA <80 c/ml | 234/326 (72) | 230/331 (69) |
+| Risk difference (once daily-twice daily) | -2.3% (95% CI -9.3% to +4.7%), p=0.52 |  |

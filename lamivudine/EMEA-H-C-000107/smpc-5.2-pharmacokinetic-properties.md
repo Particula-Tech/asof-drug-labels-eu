@@ -42,7 +42,6 @@ Lamivudine is predominately cleared unchanged by renal excretion.
 The likelihood of metabolic interactions of lamivudine with other medicinal products is low due to the small extent of hepatic metabolism (5-10%) and low plasma protein binding.
 
 Elimination
-
 Studies in patients with renal impairment show lamivudine elimination is affected by renal dysfunction.
 A recommended dosage regimen for patients with creatinine clearance below 50 ml/min is shown in the dosage section (see section 4.2).
 
@@ -75,7 +74,6 @@ Summary of Stead-State Plasma Lamivudine AUC (0-24) (µg.h/ml) and Statistical C
 | PENTA 15 | 3 to 36 months (N=17) | 8.66 (7.46, 10.1) | 9.48 (7.89, 11.40) | 0.91 (0.79, 1.06) |
 
 In PENTA 15 study, the geometric mean plasma lamivudine AUC(0-24) (95% CI) of the four subjects under 12 months of age who switch from a twice daily to a once daily regimen (see section 5.1) are 10.31 (6.26, 17.0) µg.h/ml in the once-daily dosing and 9.24 (4.66, 18.3) µg.h/ml in the twice-daily dosing.
-
 Pregnancy: Following oral administration, lamivudine pharmacokinetics in late-pregnancy were similar to non-pregnant women.
 
 [Epivir 10 mg/ml oral solution]

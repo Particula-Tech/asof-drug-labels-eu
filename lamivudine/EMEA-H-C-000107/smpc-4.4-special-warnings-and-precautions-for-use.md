@@ -10,7 +10,6 @@ Renal impairment: In patients with moderate to severe renal impairment, the term
 Triple nucleoside therapy: There have been reports of a high rate of virological failure and of emergence of resistance at an early stage when lamivudine was combined with tenofovir disoproxil fumarate and abacavir as well as with tenofovir disoproxil fumarate and didanosine as a once daily regimen.
 
 Opportunistic infections: Patients receiving Epivir or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV infection, and therefore should remain under close clinical observation by physicians experienced in the treatment of patients with associated HIV diseases.
-
 Pancreatitis: Cases of pancreatitis have occurred rarely.
 However it is not clear whether these cases were due to the antiretroviral treatment or to the underlying HIV disease.
 Treatment with Epivir should be stopped immediately if clinical signs, symptoms or laboratory abnormalities suggestive of pancreatitis occur.
