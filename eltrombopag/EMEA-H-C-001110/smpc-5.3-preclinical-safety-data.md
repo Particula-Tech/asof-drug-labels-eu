@@ -6,8 +6,8 @@ Therefore, data from these animals do not fully model potential adverse effects 
 Treatment-related cataracts were detected in rodents and were dose and time-dependent.
 At ≥ 6 times the human clinical exposure in adult ITP patients at 75 mg/day and 3 times the human clinical exposure in adult HCV patients at 100 mg/day, based on AUC, cataracts were observed in mice after 6 weeks and rats after 28 weeks of dosing.
 At ≥ 4 times the human clinical exposure in ITP patients at 75 mg/day and 2 times the human exposure in HCV patients at 100 mg/day, based on AUC, cataracts were observed in mice after 13 weeks and in rats after 39 weeks of dosing.
-At non-tolerated doses in pre-weaning juvenile rats dosed from Days 4-32 (approximately equating to a 2-year old human at the end of the dosing period), ocular opacities were observed (histology not performed) at 9 times the maximum human clinical exposure in pediatric ITP patients at 75 mg/day, based on AUC.
-However, cataracts were not observed in juvenile rats given tolerated doses at 5 times the human clinical exposure in pediatric ITP patients, based on AUC.
+At non-tolerated doses in pre-weaning juvenile rats dosed from Days 4-32 (approximately equating to a 2-year old human at the end of the dosing period), ocular opacities were observed (histology not performed) at 9 times the maximum human clinical exposure in paediatric ITP patients at 75 mg/day, based on AUC.
+However, cataracts were not observed in juvenile rats given tolerated doses at 5 times the human clinical exposure in paediatric ITP patients, based on AUC.
 Cataracts have not been observed in adult dogs after 52 weeks of dosing at 2 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and equivalent to the human clinical exposure in HCV patients at 100 mg/day, based on AUC).
 
 Renal tubular toxicity was observed in studies of up to 14 days duration in mice and rats at exposures that were generally associated with morbidity and mortality.
@@ -44,9 +44,6 @@ Nevertheless, a potential risk of photoallergy cannot be ruled out since no spec
 There are no findings in juvenile rats to suggest a greater risk of toxicity with eltrombopag treatment in paediatric vs. adult ITP patients.
 
 [Revolade 25 mg powder for oral suspension]
-
-At non-tolerated doses in pre-weaning juvenile rats dosed from days 4-32 (approximately equating to a 2-year old human at the end of the dosing period), ocular opacities were observed (histology not performed) at 9 times the maximum human clinical exposure in paediatric ITP patients at 75 mg/day, based on AUC.
-However, cataracts were not observed in juvenile rats given tolerated doses at 5 times the human clinical exposure in paediatric ITP patients, based on AUC.
 
 No hepatic effects were observed after chronic dosing in rats (28 weeks) and in dogs (52 weeks) at 4 or 2 times the human clinical exposure in adult ITP and 3 or 2 times the human clinical exposure in paediatric ITP patients at 75 mg/day and 2 times and equivalent to the human clinical exposure in HCV patients at 100 mg/day, based on AUC.
 

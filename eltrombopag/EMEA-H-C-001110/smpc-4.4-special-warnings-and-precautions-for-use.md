@@ -12,15 +12,16 @@ Safety and efficacy have not been established in combination with direct acting 
 Risk of hepatotoxicity
 
 Eltrombopag administration can cause abnormal liver function and severe hepatotoxicity, which might be life-threatening.
-In the controlled clinical studies in chronic ITP with eltrombopag, increases in serum alanine aminotransferase (ALT), aspartate aminotransferase (AST) and bilirubin were observed (see section 4.8).
+In the controlled clinical studies in ITP with eltrombopag, increases in serum alanine aminotransferase (ALT), aspartate aminotransferase (AST) and bilirubin were observed (see section 4.8).
 
 These findings were mostly mild (Grade 1-2), reversible and not accompanied by clinically significant symptoms that would indicate an impaired liver function.
-Across the 3 placebo-controlled studies in adults with chronic ITP, 1 patient in the placebo group and 1 patient in the eltrombopag group experienced a Grade 4 liver test abnormality.
-In two placebo-controlled studies in paediatric patients (aged 1 to 17 years) with chronic ITP, ALT ≥ 3 times the upper limit of normal (x ULN) was reported in 4.7% and 0% of the eltrombopag and placebo groups, respectively.
+Across the 3 placebo-controlled studies in adults with ITP, 1 patient in the placebo group and 1 patient in the eltrombopag group experienced a Grade 4 liver test abnormality.
+In two placebo-controlled studies in paediatric patients (aged 1 to 17 years) with ITP, ALT ≥ 3 times the upper limit of normal (x ULN) was reported in 4.7% and 0% of the eltrombopag and placebo groups, respectively.
 
 In 2 controlled clinical studies in patients with HCV, ALT or AST ≥ 3 x ULN was reported in 34% and 38% of the eltrombopag and placebo groups, respectively.
 Most patients receiving eltrombopag in combination with peginterferon / ribavirin therapy will experience indirect hyperbilirubinaemia.
 Overall, total bilirubin ≥ 1.5 x ULN was reported in 76% and 50% of the eltrombopag and placebo groups, respectively.
+
 Serum ALT, AST and bilirubin should be measured prior to initiation of eltrombopag, every 2 weeks during the dose adjustment phase and monthly following establishment of a stable dose.
 Eltrombopag inhibits UGT1A1 and OATP1B1, which may lead to indirect hyperbilirubinaemia.
 If bilirubin is elevated fractionation should be performed.
@@ -53,7 +54,7 @@ Eltrombopag should be terminated if antiviral therapy is discontinued for hepati
 
 Thrombotic/Thromboembolic complications
 
-In controlled studies in thrombocytopenic patients with HCV receiving interferon-based therapy (n=1,439), 38 out of 955 subjects (4%) treated with eltrombopag and 6 out of 484 subjects (1%) in the placebo group experienced thromboembolic events (TEEs).
+In controlled studies in thrombocytopenic patients with HCV receiving interferon-based therapy (n=1,439), 38 out of 955 patients (4%) treated with eltrombopag and 6 out of 484 patients (1%) in the placebo group experienced thromboembolic events (TEEs).
 Reported thrombotic/thromboembolic complications included both venous and arterial events.
 The majority of TEEs were non-serious and resolved by the end of the study.
 Portal vein thrombosis was the most common TEE in both treatment groups (2% in patients treated with eltrombopag versus < 1% for placebo).
@@ -61,8 +62,9 @@ No specific temporal relationship between start of treatment and event of TEE we
 Patients with low albumin levels (≤ 35 g/L) or MELD ≥ 10 had a twofold greater risk of TEEs than those with higher albumin levels; those aged ≥ 60 years had a 2-fold greater risk of TEEs compared to younger patients.
 Eltrombopag should only be administered to such patients after careful consideration of the expected benefits in comparison with the risks.
 Patients should be closely monitored for signs and symptoms of TEE.
+
 The risk of TEEs has been found to be increased in patients with chronic liver disease (CLD) treated with 75 mg eltrombopag once daily for two weeks in preparation for invasive procedures.
-Six of 143 (4%) adult patients with CLD receiving eltrombopag experienced TEEs (all of the portal venous system) and two of 145 (1%) subjects in the placebo group experienced TEEs (one in the portal venous system and one myocardial infarction).
+Six of 143 (4%) adult patients with CLD receiving eltrombopag experienced TEEs (all of the portal venous system) and two of 145 (1%) patients in the placebo group experienced TEEs (one in the portal venous system and one myocardial infarction).
 Five of the 6 patients treated with eltrombopag experienced the thrombotic complication at a platelet count > 200,000/µl and within 30 days of the last dose of eltrombopag.
 Eltrombopag is not indicated for the treatment of thrombocytopenia in patients with chronic liver disease in preparation for invasive procedures.
 
@@ -95,12 +97,12 @@ Prior to initiation of eltrombopag, the peripheral blood smear should be examine
 Following identification of a stable dose of eltrombopag, full blood count (FBC) with white blood cell count (WBC) differential should be performed monthly.
 If immature or dysplastic cells are observed, peripheral blood smears should be examined for new or worsening morphological abnormalities (e.g. teardrop and nucleated red blood cells, immature white blood cells) or cytopenia(s).
 If the patient develops new or worsening morphological abnormalities or cytopenia(s), treatment with eltrombopag should be discontinued and a bone marrow biopsy considered, including staining for fibrosis.
+
 Progression of existing myelodysplastic syndrome (MDS)
 
 TPO-R agonists are growth factors that lead to thrombopoietic progenitor cell expansion, differentiation and platelet production.
 The TPO-R is predominantly expressed on the surface of cells of the myeloid lineage.
 For TPO-R agonists there is a concern that they may stimulate the progression of existing haematopoietic malignancies such as MDS.
-
 In clinical studies with a TPO-R agonist in patients with MDS, cases of transient increases in blast cell counts were observed and cases of MDS disease progression to acute myeloid leukaemia (AML) were reported.
 
 The diagnosis of ITP or SAA in adults and elderly patients should be confirmed by the exclusion of other clinical entities presenting with thrombocytopenia, in particular the diagnosis of MDS must be excluded.
@@ -129,6 +131,7 @@ In controlled studies in thrombocytopenic patients with HCV receiving interferon
 Retinal haemorrhages, mostly Grade 1 or 2, have been reported in HCV patients receiving interferon, ribavirin and eltrombopag (2% of the eltrombopag group and 2% of the placebo group.
 Haemorrhages occurred on the surface of the retina (preretinal), under the retina (subretinal), or within the retinal tissue.
 Routine ophthalmologic monitoring of patients is recommended.
+
 QT/QTc prolongation
 
 A QTc study in healthy volunteers dosed 150 mg eltrombopag per day did not show a clinically significant effect on cardiac repolarisation.
@@ -138,7 +141,6 @@ The clinical significance of these QTc prolongation events is unknown.
 Loss of response to eltrombopag
 
 A loss of response or failure to maintain a platelet response with eltrombopag treatment within the recommended dosing range should prompt a search for causative factors, including an increased bone marrow reticulin.
-
 Paediatric population
 
 The above warnings and precautions for ITP also apply to the paediatric population.

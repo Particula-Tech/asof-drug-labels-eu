@@ -10,9 +10,9 @@ Eltrombopag interacts with the transmembrane domain of the human TPO-R and initi
 
 Clinical efficacy and safety
 
-Chronic immune (idiopathic) thrombocytopenia (ITP) studies
+Immune (primary) thrombocytopenia (ITP) studies
 
-Two Phase III, randomised, double-blind, placebo-controlled studies RAISE (TRA102537) and TRA100773B and two open-label studies REPEAT (TRA108057) and EXTEND (TRA105325) evaluated the safety and efficacy of eltrombopag in adult patients with previously treated chronic ITP.
+Two Phase III, randomised, double-blind, placebo-controlled studies RAISE (TRA102537) and TRA100773B and two open-label studies REPEAT (TRA108057) and EXTEND (TRA105325) evaluated the safety and efficacy of eltrombopag in adult patients with previously treated ITP.
 Overall, eltrombopag was administered to 277 ITP patients for at least 6 months and 202 patients for at least 1 year.
 
 Double-blind placebo-controlled studies
@@ -22,6 +22,7 @@ The dose of eltrombopag was adjusted during the 6-month treatment period based o
 All patients initiated treatment with eltrombopag 50 mg.
 From Day 29 to the end of treatment, 15 to 28% of eltrombopag treated patients were maintained on
 ≤ 25 mg and 29 to 53% received 75 mg.
+
 In addition, patients could taper off concomitant ITP medicinal products and receive rescue treatments as dictated by local standard of care.
 More than half of all patients in each treatment group had ≥ 3 prior ITP therapies and 36% had a prior splenectomy.
 
@@ -30,7 +31,6 @@ Median platelet counts at baseline were 16,000/μl for both treatment groups and
 Platelet count response between 50,000-400,000/μl in the absence of rescue treatment was achieved by significantly more patients in the eltrombopag treated group during the 6 month treatment period, p < 0.001.
 Fifty-four percent of the eltrombopag-treated patients and 13% of placebo-treated patients achieved this level of response after 6 weeks of treatment.
 A similar platelet response was maintained throughout the study, with 52% and 16% of patients responding at the end of the 6-month treatment period.
-
 Table 4: Secondary efficacy results from RAISE
 
 |  | Eltrombopag N=135 |  | Placebo N=62 |
@@ -53,10 +53,10 @@ a Logistic regression model adjusted for randomisation stratification variables 
 
 At baseline, more than 70% of ITP patients in each treatment group reported any bleeding (WHO Grades 1-4) and more than 20% reported clinically significant bleeding (WHO Grades 2-4), respectively.
 The proportion of eltrombopag-treated patients with any bleeding (Grades 1-4) and clinically significant bleeding (Grades 2-4) was reduced from baseline by approximately 50% from Day 15 to the end of treatment throughout the 6 month treatment period.
-
 TRA100773B: The primary efficacy endpoint was the proportion of responders, defined as ITP patients who had an increase in platelet counts to ≥ 50,000/μl at Day 43 from a baseline of
 < 30,000/μl; patients who withdrew prematurely due to a platelet count > 200,000/μl were considered responders, those that discontinued for any other reason were considered non-responders irrespective of platelet count.
-A total of 114 patients with previously treated chronic ITP were randomised 2:1 eltrombopag (n=76) to placebo (n=38).
+A total of 114 patients with previously treated ITP were randomised 2:1 eltrombopag (n=76) to placebo (n=38).
+
 Table 5: Efficacy results from TRA100773B
 
 |  | Eltrombopag N=74 | Placebo N=38 |
@@ -90,39 +90,39 @@ Clinical studies comparing eltrombopag to other treatment options (e.g. splenect
 The long-term safety of eltrombopag should be considered prior to starting therapy.
 Paediatric population (aged 1 to 17 years)
 
-The safety and efficacy of eltrombopag in paediatric subjects has been investigated in two studies.
+The safety and efficacy of eltrombopag in paediatric patients has been investigated in two studies.
 
-TRA115450 (PETIT2): The primary endpoint was a sustained response, defined as the proportion of subjects receiving eltrombopag, compared to placebo, achieving platelet counts ≥ 50,000/µl for at least 6 out of 8 weeks (in the absence of rescue therapy), between weeks 5 to 12 during the double-blind randomised period.
-Subjects were diagnosed with chronic ITP for at least 1 year and were refractory or relapsed to at least one prior ITP therapy or unable to continue other ITP treatments for a medical reason and had platelet count < 30,000/µl.
-Ninety-two subjects were randomised by three age cohort strata (2:1) to eltrombopag (n=63) or placebo (n=29).
+TRA115450 (PETIT2): The primary endpoint was a sustained response, defined as the proportion of patients receiving eltrombopag, compared to placebo, achieving platelet counts ≥ 50,000/µl for at least 6 out of 8 weeks (in the absence of rescue therapy), between weeks 5 to 12 during the double-blind randomised period.
+Patients were diagnosed with chronic ITP for at least 1 year and were refractory or relapsed to at least one prior ITP therapy or unable to continue other ITP treatments for a medical reason and had platelet count < 30,000/µl.
+Ninety-two patients were randomised by three age cohort strata (2:1) to eltrombopag (n=63) or placebo (n=29).
 The dose of eltrombopag could be adjusted based on individual platelet counts.
 
-Overall, a significantly greater proportion of eltrombopag subjects (40%) compared with placebo subjects (3%) achieved the primary endpoint (Odds Ratio: 18.0 [95% CI: 2.3, 140.9] p < 0.001) which was similar across the three age cohorts (Table 6).
+Overall, a significantly greater proportion of eltrombopag patients (40%) compared with placebo patients (3%) achieved the primary endpoint (Odds Ratio: 18.0 [95% CI: 2.3, 140.9] p < 0.001) which was similar across the three age cohorts (Table 6).
 
-Table 6: Sustained platelet response rates by age cohort in paediatric subjects with chronic ITP
+Table 6: Sustained platelet response rates by age cohort in paediatric patients with chronic ITP
 
 |  | Eltrombopag n/N (%) [95% CI] | Placebo n/N (%) [95% CI] |
 | --- | --- | --- |
 | Cohort 1 (12 to 17 years) Cohort 2 (6 to 11 years) Cohort 3 (1 to 5 years) | 9/23 (39%) [20%, 61%] 11/26 (42%) [23%, 63%] 5/14 (36%) [13%, 65%] | 1/10 (10%) [0%, 45%] 0/13 (0%) [N/A] 0/6 (0%) [N/A] |
 
-Statistically fewer eltrombopag subjects required rescue treatment during the randomised period compared to placebo subjects (19% [12/63] vs. 24% [7/29], p=0.032).
+Statistically fewer eltrombopag patients required rescue treatment during the randomised period compared to placebo patients (19% [12/63] vs. 24% [7/29], p=0.032).
 
-At baseline, 71% of subjects in the eltrombopag group and 69% in the placebo group reported any bleeding (WHO Grades 1-4).
-At Week 12, the proportion of eltrombopag subjects reporting any bleeding was decreased to half of baseline (36 %).
-In comparison, at Week 12, 55% of placebo subjects reported any bleeding.
+At baseline, 71% of patients in the eltrombopag group and 69% in the placebo group reported any bleeding (WHO Grades 1-4).
+At Week 12, the proportion of eltrombopag patients reporting any bleeding was decreased to half of baseline (36 %).
+In comparison, at Week 12, 55% of placebo patients reported any bleeding.
 
-Subjects were permitted to reduce or discontinue baseline ITP therapy only during the open-label phase of the study and 53% (8/15) of subjects were able to reduce (n=1) or discontinue (n=7) baseline ITP therapy, mainly corticosteroids, without needing rescue therapy.
+Patients were permitted to reduce or discontinue baseline ITP therapy only during the open-label phase of the study and 53% (8/15) of patients were able to reduce (n=1) or discontinue (n=7) baseline ITP therapy, mainly corticosteroids, without needing rescue therapy.
 
-TRA108062 (PETIT): The primary endpoint was the proportion of subjects achieving platelet counts
+TRA108062 (PETIT): The primary endpoint was the proportion of patients achieving platelet counts
 ≥ 50,000/µl at least once between weeks 1 and 6 of the randomised period.
-Subjects were refractory or relapsed to at least one prior ITP therapy with a platelet count < 30,000/µl (n=67).
-During the randomised period of the study, subjects were randomised by 3 age cohort strata (2:1) to eltrombopag (n=45) or placebo (n=22).
+Patients were diagnosed with ITP for at least 6 months and were refractory or relapsed to at least one prior ITP therapy with a platelet count < 30,000/µl (n=67).
+During the randomised period of the study, patients were randomised by 3 age cohort strata (2:1) to eltrombopag (n=45) or placebo (n=22).
 The dose of eltrombopag could be adjusted based on individual platelet counts.
 
-Overall, a significantly greater proportion of eltrombopag subjects (62%) compared with placebo subjects (32%) met the primary endpoint (Odds Ratio: 4.3 [95% CI: 1.4, 13.3] p=0.011).
-
+Overall, a significantly greater proportion of eltrombopag patients (62%) compared with placebo patients (32%) met the primary endpoint (Odds Ratio: 4.3 [95% CI: 1.4, 13.3] p=0.011).
 Sustained response was seen in 50% of the initial responders during 20 out of 24 weeks in the
 PETIT 2 study and 15 out of 24 weeks in the PETIT study.
+
 Chronic hepatitis C associated thrombocytopenia studies
 
 The efficacy and safety of eltrombopag for the treatment of thrombocytopenia in patients with HCV infection were evaluated in two randomised, double-blind, placebo-controlled studies.
@@ -138,7 +138,7 @@ Thirty-one percent of patients had been treated with prior HCV therapies, primar
 The median baseline platelet count was 59,500/µl in both treatment groups: 0.8%, 28% and 72% of the patients recruited had platelet counts < 20,000/µl, < 50.000/µl and ≥ 50,000/µl respectively.
 
 The studies consisted of two phases – a pre-antiviral treatment phase and an antiviral treatment phase.
-In the pre-antiviral treatment phase, subjects received open-label eltrombopag to increase the platelet count to ≥ 90,000/µl for ENABLE 1 and ≥ 100,000/µl for ENABLE 2.
+In the pre-antiviral treatment phase, patients received open-label eltrombopag to increase the platelet count to ≥ 90,000/µl for ENABLE 1 and ≥ 100,000/µl for ENABLE 2.
 The median time to achieve the target platelet count ≥ 90,000/µl (ENABLE 1) or ≥ 100,000/µl (ENABLE 2) was 2 weeks.
 
 The primary efficacy endpoint for both studies was sustained virologic response (SVR), defined as the percentage of patients with no detectable HCV-RNA at 24 weeks after completion of the planned treatment period.
@@ -165,8 +165,8 @@ Table 7: Virologic response in HCV patients in ENABLE 1 and ENABLE 2
 | < 10 | 23 | 17 |  |  |  |  |
 
 a Eltrombopag given in combination with peginterferon alfa-2a (180 mcg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2/3) plus ribavirin (800 to 1200 mg daily in 2 divided doses orally) b Eltrombopag given in combination with peginterferon alfa-2b (1.5 mcg/kg once weekly for 48 weeks for genotype 1/4/6; 24 weeks for genotype 2/3) plus ribavirin (800 to 1400 mg orally in 2 divided doses) c Target platelet count was ≥ 90,000/µl for ENABLE 1 and ≥ 100,000/µl for ENABLE 2.
-For ENABLE 1, 682 patients were randomised to the antiviral treatment phase; however 2 subjects then withdrew consent prior to receiving antiviral therapy.
-d p-value < 0.05 for eltrombopag versus placebo e 64% subjects participating in ENABLE 1 and ENABLE 2 were genotype 1 f Post-hoc analyses
+For ENABLE 1, 682 patients were randomised to the antiviral treatment phase; however 2 patients then withdrew consent prior to receiving antiviral therapy.
+d p-value < 0.05 for eltrombopag versus placebo e 64% patients participating in ENABLE 1 and ENABLE 2 were genotype 1 f Post-hoc analyses
 
 Other secondary findings of the studies included the following; significantly fewer patients treated with eltrombopag prematurely discontinued antiviral therapy compared to placebo (45% vs. 60%, p=< 0.0001).
 A greater proportion of patients on eltrombopag did not require any antiviral dose reduction as compared to placebo (45% versus 27%).
@@ -175,8 +175,8 @@ Severe aplastic anaemia
 
 Eltrombopag was studied in a single-arm, single-centre open-label trial in 43 patients with severe aplastic anaemia with refractory thrombocytopenia following at least one prior immunosuppressive therapy (IST) and who had a platelet count ≤ 30,000/µl.
 
-The majority of subjects, 33 (77%), were considered to have ‘primary refractory disease’, defined as having no prior adequate response to IST in any lineage.
-The remaining 10 subjects had insufficient platelet response to prior therapies.
+The majority of patients, 33 (77%), were considered to have ‘primary refractory disease’, defined as having no prior adequate response to IST in any lineage.
+The remaining 10 patients had insufficient platelet response to prior therapies.
 All 10 had received at least 2 prior IST regimens and 50% had received at least 3 prior IST regimens.
 Patients with diagnosis of Fanconi anaemia, infection not responding to appropriate therapy, PNH clone size in neutrophils of ≥50%, where excluded from participation.
 
@@ -196,14 +196,14 @@ Nine of these patients achieved a multi-lineage response, 4 of the 9 remain on t
 The remaining 5 patients discontinued treatment, three due to relapse at the month 3 extension visit.
 
 During treatment with eltrombopag 59% (23/39) became platelet transfusion independent (28 days without platelet transfusion) and 27% (10/37) became RBC transfusion independent (56 days without RBC transfusion).
-The longest platelet transfusion free period for non-responders was 27 days (median).
-The longest platelet transfusion free period for responders was 287 days (median).
-The longest RBC transfusion free period for non-responders was 29 days (median).
-The longest RBC transfusion free period for responders was 266 days (median).
+The longest platelet transfusion-free period for non-responders was 27 days (median).
+The longest platelet transfusion-free period for responders was 287 days (median).
+The longest RBC transfusion-free period for non-responders was 29 days (median).
+The longest RBC transfusion-free period for responders was 266 days (median).
 
-Over 50% of responders who were transfusion dependent at baseline, had > 80% reduction in both platelet and RBC transfusion requirements compared to baseline.
+Over 50% of responders who were transfusion-dependent at baseline, had > 80% reduction in both platelet and RBC transfusion requirements compared to baseline.
 
-Preliminary results from a supportive study (Study ELT116826), an ongoing non-randomised, phase II, single-arm, open-label study in refractory SAA subjects, showed consistent results.
+Preliminary results from a supportive study (Study ELT116826), an ongoing non-randomised, phase II, single-arm, open-label study in refractory SAA patients, showed consistent results.
 Data are limited to 21 out of the planned 60 patients with haematological responses reported by 52% of patients at 6 months.
 Multilineage responses were reported by 45% of patients.
 
@@ -211,12 +211,11 @@ Multilineage responses were reported by 45% of patients.
 
 The dose of eltrombopag was adjusted during the 6 month treatment period based on individual platelet counts.
 
-The safety and efficacy of eltrombopag in paediatric subjects has been investigated two studies.
+The safety and efficacy of eltrombopag in paediatric patients has been investigated two studies.
+TRA115450 (PETIT2): The primary endpoint was a sustained response, defined as the proportion of patients receiving eltrombopag, compared to placebo, achieving platelet counts ≥50,000/µl for at least 6 out of 8 weeks (in the absence of rescue therapy), between weeks 5 to 12 during the double-blind randomised period.
 
-TRA115450 (PETIT2): The primary endpoint was a sustained response, defined as the proportion of subjects receiving eltrombopag, compared to placebo, achieving platelet counts ≥50,000/µl for at least 6 out of 8 weeks (in the absence of rescue therapy), between weeks 5 to 12 during the double-blind randomised period.
-
-At Week 12, the proportion of eltrombopag subjects reporting any bleeding was decreased to half of baseline (36%).
+At Week 12, the proportion of eltrombopag patients reporting any bleeding was decreased to half of baseline (36%).
 
 The haematological response rate was 40% (17/43 patients; 95 % CI 25, 56), the majority were unilineage responses (13/17, 76%) whilst there were 3 bilineage and 1 trilineage responses at week 12.
 
-Over 50% of responders who were transfusion dependent at baseline, had >80% reduction in both platelet and RBC transfusion requirements compared to baseline.
+Over 50% of responders who were transfusion-dependent at baseline, had >80% reduction in both platelet and RBC transfusion requirements compared to baseline.

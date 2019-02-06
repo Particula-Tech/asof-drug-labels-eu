@@ -15,8 +15,8 @@ Table 8: Geometric mean (95% confidence intervals) of steady-state plasma eltrom
 
 a - AUC(0-τ) and Cmax based on population PK post-hoc estimates.
 
-Plasma eltrombopag concentration-time data collected in 590 subjects with HCV enrolled in Phase III studies TPL103922/ENABLE 1 and TPL108390/ENABLE 2 were combined with data from patients with HCV enrolled in the Phase II study TPL102357 and healthy adult subjects in a population PK analysis.
-Plasma eltrombopag Cmax and AUC(0-τ) estimates for patients with HCV enrolled in the Phase 3 studies are presented for each dose studied in Table 9.
+Plasma eltrombopag concentration-time data collected in 590 patients with HCV enrolled in Phase III studies TPL103922/ENABLE 1 and TPL108390/ENABLE 2 were combined with data from patients with HCV enrolled in the Phase II study TPL102357 and healthy adult subjects in a population PK analysis.
+Plasma eltrombopag Cmax and AUC(0-τ) estimates for patients with HCV enrolled in the Phase III studies are presented for each dose studied in Table 9.
 
 Table 9 Geometric mean (95% CI) steady-state plasma eltrombopag pharmacokinetic parameters in patients with chronic HCV
 
@@ -86,17 +86,17 @@ Special patient populations
 
 Renal impairment
 
-The pharmacokinetics of eltrombopag has been studied after administration of eltrombopag to adult subjects with renal impairment.
-Following administration of a single 50 mg-dose, the AUC0-∞ of eltrombopag was 32% to 36% lower in subjects with mild to moderate renal impairment, and 60% lower in subjects with severe renal impairment compared with healthy volunteers.
+The pharmacokinetics of eltrombopag has been studied after administration of eltrombopag to adult patients with renal impairment.
+Following administration of a single 50 mg-dose, the AUC0-∞ of eltrombopag was 32% to 36% lower in patients with mild to moderate renal impairment, and 60% lower in patients with severe renal impairment compared with healthy volunteers.
 There was substantial variability and significant overlap in exposures between patients with renal impairment and healthy volunteers.
 Unbound eltrombopag (active) concentrations for this highly protein bound medicinal product were not measured.
 Patients with impaired renal function should use eltrombopag with caution and close monitoring, for example by testing serum creatinine and/or urine analysis (see section 4.2).
-The efficacy and safety of eltrombopag has not been established in subjects with both moderate to severe renal impairment and hepatic impairment.
+The efficacy and safety of eltrombopag has not been established in patients with both moderate to severe renal impairment and hepatic impairment.
 
 Hepatic impairment
 
-The pharmacokinetics of eltrombopag has been studied after administration of eltrombopag to adult subjects with hepatic impairment.
-Following the administration of a single 50 mg dose, the AUC0-∞ of eltrombopag was 41% higher in subjects with mild hepatic impairment and 80% to 93% higher in subjects with moderate to severe hepatic impairment compared with healthy volunteers.
+The pharmacokinetics of eltrombopag has been studied after administration of eltrombopag to adult patients with hepatic impairment.
+Following the administration of a single 50 mg dose, the AUC0-∞ of eltrombopag was 41% higher in patients with mild hepatic impairment and 80% to 93% higher in patients with moderate to severe hepatic impairment compared with healthy volunteers.
 There was substantial variability and significant overlap in exposures between patients with hepatic impairment and healthy volunteers.
 Unbound eltrombopag (active) concentrations for this highly protein bound medicinal product were not measured.
 
@@ -130,15 +130,15 @@ Based on model estimate, elderly (≥ 65 years) patients had approximately 41% h
 
 Paediatric population (aged 1 to 17 years)
 
-The pharmacokinetics of eltrombopag have been evaluated in 168 paediatric ITP subjects dosed once daily in two studies, TRA108062/PETIT and TRA115450/PETIT-2.
+The pharmacokinetics of eltrombopag have been evaluated in 168 paediatric ITP patients dosed once daily in two studies, TRA108062/PETIT and TRA115450/PETIT-2.
 Plasma eltrombopag apparent clearance following oral administration (CL/F) increased with increasing body weight.
 The effects of race and sex on plasma eltrombopag CL/F estimates were consistent between paediatric and adult patients.
 East Asian paediatric ITP patients had approximately 43% higher plasma eltrombopag AUC(0-τ) values as compared to non-East Asian patients.
 Female paediatric ITP patients had approximately 25% higher plasma eltrombopag AUC(0-τ) values as compared to male patients.
-The pharmacokinetic parameters of eltrombopag in paediatric subjects with ITP are shown in
+The pharmacokinetic parameters of eltrombopag in paediatric patients with ITP are shown in
 Table 10.
 
-Table 10 Geometric mean (95% CI) steady-state plasma eltrombopag pharmacokinetic parameters in paediatric subjects with ITP (50 mg once daily dosing regimen)
+Table 10 Geometric mean (95% CI) steady-state plasma eltrombopag pharmacokinetic parameters in paediatric patients with ITP (50 mg once daily dosing regimen)
 
 | Age | Cmax (µg/ml) | AUC(0-τ) (µg.hr/ml) |
 | --- | --- | --- |
@@ -148,7 +148,3 @@ Table 10 Geometric mean (95% CI) steady-state plasma eltrombopag pharmacokinetic
 
 Data presented as geometric mean (95%CI).
 AUC(0-τ) and Cmax based on population PK post-hoc estimates
-
-[Revolade 25 mg powder for oral suspension]
-
-The effects of race and sex on plasma eltrombopag CL/F estimates were consistent between pediatric and adult patients.

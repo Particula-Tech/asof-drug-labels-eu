@@ -1,12 +1,11 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-In 4 controlled and 2 uncontrolled clinical studies, 530 chronic adult ITP patients were treated with eltrombopag.
+In 4 controlled and 2 uncontrolled clinical studies, 530 adult ITP patients were treated with eltrombopag.
 The mean duration of exposure to eltrombopag was 260 days.
 The most important serious adverse reactions were hepatotoxicity and thrombotic/thromboembolic events.
 The most common adverse reactions occurring in at least 10% of patients included: headache, anaemia, decreased appetite, insomnia, cough, nausea, diarrhoea, alopecia, pruritus, myalgia, pyrexia, fatigue, influenza-like illness, asthenia, chills and peripheral oedema.
-
-In 2 controlled clinical studies, 171 chronic paediatric ITP patients were treated with eltrombopag.
+In 2 controlled clinical studies, 171 paediatric ITP patients were treated with eltrombopag.
 The median duration of exposure was 171 days.
 The profile of adverse reactions was comparable to that seen in adults with some additional adverse reactions, marked ♦ in the table below.
 The most common adverse reactions in paediatric ITP patients 1 year and older (≥ 3% and greater than placebo) were upper respiratory tract infection, nasopharyngitis, cough, diarrhoea, pyrexia, rhinitis, abdominal pain, oropharyngeal pain, toothache, rash, increased AST and rhinorrhoea.
@@ -50,7 +49,6 @@ Blood and lymphatic system disorders
 Uncommon Anaemia, Anisocytosis, Eosinophilia, Haemolytic anaemia, Leukocytosis,
 
 Myelocytosis, Thrombocytopenia, Haemoglobin increased, Band neutrophil count increased, Haemoglobin decreased, Myelocyte present, Platelet count increased, White blood cell count decreased
-
 Immune system disorders
 
 Uncommon Hypersensitivity
@@ -78,6 +76,7 @@ Common Dry eye
 Uncommon Vision blurred, Lenticular opacities, Astigmatism, Cataract cortical, Eye
 
 pain, Lacrimation increased, Retinal haemorrhage, Retinal pigment epitheliopathy, Visual acuity reduced, Visual impairment, Visual acuity tests abnormal, Blepharitis and Keratoconjunctivitis sicca
+
 Ear and labyrinth disorders
 
 Uncommon Ear pain, Vertigo
@@ -100,7 +99,6 @@ Common Cough♦, Oropharyngeal pain♦, Rhinorrhoea♦
 Uncommon Pulmonary embolism, Pulmonary infarction, Nasal discomfort,
 
 Oropharyngeal blistering, Oropharyngeal pain, Sinus disorder, Sleep apnoea syndrome
-
 Gastrointestinal disorders
 
 Common Nausea, Diarrhoea*, Mouth ulceration, Toothache♦
@@ -155,7 +153,6 @@ Investigations
 Uncommon Blood albumin increased, Blood alkaline phosphatase increased, Protein
 
 total increased, Blood albumin decreased, pH urine increased
-
 Injury, poisoning and procedural complications
 
 Uncommon Sunburn
@@ -296,6 +293,7 @@ Very common Abdominal pain, Diarrhoea, Nausea
 Common Gingival bleeding, Oral mucosal blistering, Oral pain, Vomiting, Abdominal
 
 discomfort, Abdominal pain, Constipation, Abdominal distension, Dysphagia, Faeces discoloured, Swollen tongue, Gastrointestinal motility disorder, Flatulence
+
 Hepatobiliary disorders
 
 Very common Transaminases increased
@@ -332,13 +330,14 @@ Description of selected adverse reactions
 
 Thrombotic/Thromboembolic events (TEEs)
 
-In 3 controlled and 2 uncontrolled clinical studies, among adult chronic ITP patients receiving eltrombopag (n=446), 17 subjects experienced a total of 19 TEEs, which included (in descending order of occurrence) deep vein thrombosis (n=6), pulmonary embolism (n=6), acute myocardial infarction (n=2), cerebral infarction (n=2), embolism (n=1) (see section 4.4).
+In 3 controlled and 2 uncontrolled clinical studies, among adult ITP patients receiving eltrombopag (n=446), 17 patients experienced a total of 19 TEEs, which included (in descending order of occurrence) deep vein thrombosis (n=6), pulmonary embolism (n=6), acute myocardial infarction (n=2), cerebral infarction (n=2), embolism (n=1) (see section 4.4).
 
-In a placebo-controlled study (n=288, Safety population), following 2 weeks treatment in preparation for invasive procedures, 6 of 143 (4%) adult patients with chronic liver disease receiving eltrombopag experienced 7 TEEs of the portal venous system and 2 of 145 (1%) subjects in the placebo group experienced 3 TEEs.
+In a placebo-controlled study (n=288, Safety population), following 2 weeks treatment in preparation for invasive procedures, 6 of 143 (4%) adult patients with chronic liver disease receiving eltrombopag experienced 7 TEEs of the portal venous system and 2 of 145 (1%) patients in the placebo group experienced 3 TEEs.
 Five of the 6 patients treated with eltrombopag experienced the TEE at a platelet count > 200,000/µl
 
-No specific risk factors were identified in those subjects who experienced a TEE with the exception of platelet counts ≥ 200,000/µl (see section 4.4).
-In controlled studies in thrombocytopenic patients with HCV (n=1,439), 38 out of 955 subjects (4%) treated with eltrombopag experienced a TEE and 6 out of 484 subjects (1%) in the placebo group experienced TEEs.
+No specific risk factors were identified in those patients who experienced a TEE with the exception of platelet counts ≥ 200,000/µl (see section 4.4).
+
+In controlled studies in thrombocytopenic patients with HCV (n=1,439), 38 out of 955 patients (4%) treated with eltrombopag experienced a TEE and 6 out of 484 patients (1%) in the placebo group experienced TEEs.
 Portal vein thrombosis was the most common TEE in both treatment groups (2% in patients treated with eltrombopag versus < 1% for placebo) (see section 4.4).
 Patients with low albumin levels (≤ 35 g/L) or MELD ≥ 10 had a twofold greater risk of TEEs than those with higher albumin levels; those aged ≥ 60 years had a 2-fold greater risk of TEEs compared to younger patients.
 
@@ -349,7 +348,6 @@ In 2 controlled clinical studies in thrombocytopenic patients with HCV, hepatic 
 In patients with low albumin levels (≤ 35 g/L) or MELD score ≥ 10 at baseline, there was a three-fold greater risk of hepatic decompensation and an increase in the risk of a fatal adverse event compared to those with less advanced liver disease.
 Eltrombopag should only be administered to such patients after careful consideration of the expected benefits in comparison with the risks.
 Patients with these characteristics should be closely monitored for signs and symptoms of hepatic decompensation (see section 4.4).
-
 Thrombocytopenia following discontinuation of treatment
 
 In the 3 controlled clinical ITP studies, transient decreases in platelet counts to levels lower than baseline were observed following discontinuation of treatment in 8% and 8% of the eltrombopag and placebo groups, respectively (see section 4.4).
@@ -363,11 +361,11 @@ Cytogenetic abnormalities
 
 In the single-arm, open-label trial in SAA, patients had bone marrow aspirates evaluated for cytogenetic abnormalities.
 Eight (19%) patients had a new cytogenetic abnormality reported, including 5 patients who had changes in chromosome 7.
-In the two ongoing studies (ELT116826 and ELT116643), cytogenetic abnormalities have been detected in 4/28 (14%) and 4/62 (6%) subjects in each study.
+In the two ongoing studies (ELT116826 and ELT116643), cytogenetic abnormalities have been detected in 4/28 (14%) and 4/62 (6%) patients in each study.
 
 Haematologic malignancies
 
-In the single-arm, open label trial in SAA, three (7%) patients were diagnosed with MDS following treatment with eltrombopag, in the two ongoing studies (ELT116826 and ELT116643), 1/28 (4%) and 1/62 (2%) subject has been diagnosed with MDS or AML in each study.
+In the single-arm, open label trial in SAA, three (7%) patients were diagnosed with MDS following treatment with eltrombopag, in the two ongoing studies (ELT116826 and ELT116643), 1/28 (4%) and 1/62 (2%) patient has been diagnosed with MDS or AML in each study.
 
 Reporting of suspected adverse reactions
 
@@ -377,4 +375,4 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [Revolade 25 mg powder for oral suspension]
 
-In controlled studies in thrombocytopenic patients with HCV (n=1439), 38 out of 955 subjects (4%) treated with eltrombopag experienced a TEE and 6 out of 484 subjects (1%) in the placebo group experienced TEEs.
+In controlled studies in thrombocytopenic patients with HCV (n=1439), 38 out of 955 patients (4%) treated with eltrombopag experienced a TEE and 6 out of 484 patients (1%) in the placebo group experienced TEEs.
