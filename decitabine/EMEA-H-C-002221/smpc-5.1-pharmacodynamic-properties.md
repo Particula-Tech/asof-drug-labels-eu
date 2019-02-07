@@ -121,7 +121,7 @@ The median overall survival in the ITT population was 7.6 months (95% CI: 5.7, 1
 The efficacy and safety of Dacogen has not been evaluated in patients with acute promyelocytic leukaemia or CNS leukaemia.
 
 Paediatric population
-A Phase I/II open-label, multicentre study evaluated the safety and efficacy of Dacogen in sequential administration with cytarabine in children aged 1 month to <18 years with relapsed or refractory AML.
+A Phase I/II open-label, multicentre study evaluated the safety and efficacy of Dacogen in sequential administration with cytarabine in children aged 1 month to < 18 years with relapsed or refractory AML.
 A total of 17 subjects were enrolled and received Dacogen 20 mg/m2 in this study, of which 9 subjects received cytarabine 1 g/m2 and 8 subjects received cytarabine administered at the maximum tolerable dose of 2 g/m2.
 All subjects discontinued the study treatment.
 The reasons for treatment discontinuation included disease progression (12 [70.6%] subjects), subjects proceeding to transplant (3 [17.6%]), investigator decision (1 [5.9%]), and “other” (1 [5.9%]).

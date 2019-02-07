@@ -38,6 +38,7 @@ Table 1: Adverse drug reactions identified with Dacogen
 |  | Uncommon | pancytopaenia* | < 1 | < 1 |
 | Immune system disorders | Common | hypersensitivity including anaphylactic reactionf | 1 | < 1 |
 | Nervous system disorders | Very common | headache | 16 | 1 |
+| Cardiac disorders | Uncommon | Cardiomyopathy | < 1 | < 1 |
 | Respiratory, thoracic and mediastinal disorders | Very common | epistaxis | 14 | 2 |
 |  | Not known | interstitial lung disease | Not known | Not known |
 | Gastrointestinal disorders | Very common | diarrhoea | 31 | 2 |

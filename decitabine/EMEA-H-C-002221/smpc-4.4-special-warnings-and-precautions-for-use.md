@@ -29,6 +29,8 @@ Renal function tests should be performed prior to initiation of therapy and prio
 
 Cardiac disease
 Patients with a history of severe congestive heart failure or clinically unstable cardiac disease were excluded from clinical studies and therefore the safety and efficacy of Dacogen in these patients has not been established.
+Cases of cardiomyopathy with cardiac decompensation, in some cases reversible after treatment discontinuation, dose reduction or corrective treatment, have been reported in the postmarketing setting.
+Patients, especially those with cardiac disease history, should be monitored for signs and symptoms of heart failure.
 
 Excipients
 This medicine contains 0.5 mmol potassium per vial.
