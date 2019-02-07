@@ -9,6 +9,11 @@ Patients should be informed that (mostly visual) hallucinations can occur.
 Dyskinesia
 In advanced Parkinson’s disease, in combination treatment with levodopa, dyskinesia can occur during the initial titration of SIFROL.
 If they occur, the dose of levodopa should be decreased.
+Dystonia
+Axial dystonia including antecollis, camptocormia and pleurothotonus (Pisa Syndrome) has occasionally been reported in patients with Parkinson’s disease following initiation or incremental dose increase of pramipexole.
+Although dystonia may be a symptom of Parkinson’s disease, the symptoms in these patients have improved after reduction or withdrawal of pramipexole.
+If dystonia occurs, the dopaminergic medication regimen should be reviewed and an adjustment in the dose of pramipexole considered.
+
 Sudden onset of sleep and somnolence
 Pramipexole has been associated with somnolence and episodes of sudden sleep onset, particularly in patients with Parkinson’s disease.
 Sudden onset of sleep during daily activities, in some cases without awareness or warning signs, has been reported uncommonly.
@@ -47,7 +52,6 @@ Non-motor adverse effects may occur when tapering or discontinuing dopamine agon
 Symptoms include apathy, anxiety, depression, fatigue, sweating and pain which may be severe.
 Patients should be informed about this before tapering the dopamine agonist, and monitored regularly thereafter.
 In case of persistent symptoms, it may be necessary to increase the pramipexole dose temporarily (see section 4.8).
-
 Augmentation
 Reports in the literature indicate that treatment of Restless Legs Syndrome with dopaminergic medicinal products can result in augmentation.
 Augmentation refers to the earlier onset of symptoms in the evening (or even the afternoon), increase in symptoms, and spread of symptoms to involve other extremities.

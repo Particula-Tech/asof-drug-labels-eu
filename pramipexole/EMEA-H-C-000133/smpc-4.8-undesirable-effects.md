@@ -51,7 +51,7 @@ Table 2: Restless Legs Syndrome
 | Nervous system disorders |  | headache dizziness somnolance | sudden onset of sleep syncope dyskinesia amnesia1 hyperkinesia1 |  |
 | Eye disorders |  |  | visual impairment including visual acuity reduced diplopia vision blurred |  |
 | Cardiac disorders |  |  | cardiac failure1 |  |
-| Vascular disorders |  |  | hypotension |  |
+| Vascular disorders |  |  | Hypotension |  |
 | Respiratory, thoracic, and mediastinal disorders |  |  | dyspnoea hiccups |  |
 | Gastrointestinal | nausea | constipation |  |  |
 
@@ -111,14 +111,14 @@ Based on the analysis of pooled placebo-controlled trials, comprising a total of
 
 | Body System | Very common (≥1/10) | Common (≥1/100 to <1/10) | Uncommon (≥1/1,000 to < 1/100) | Rare (≥1/10,000 to <1/1,000) | Not known |
 | --- | --- | --- | --- | --- | --- |
-| Infections and infestations |  |  | pneumonia |  |  |
+| Infections and infestations |  |  | Pneumonia |  |  |
 | Endocrine disorders |  |  | inappropriate antidiuretic hormone secretion1 |  |  |
 | Psychiatric disorders |  | Insomnia hallucinations abnormal dreams confusion behavioural symptoms of impulse control disorders and compulsions | compulsive shopping pathological gambling restlessness hypersexuality delusion libido disorder paranoia delirium binge eating1 hyperphagia1 | mania |  |
 | Nervous system disorders | somnolence dizziness dyskinesia | headache | sudden onset of sleep amnesia hyperkinesia syncope |  |  |
 | Eye disorders |  | visual impairment including diplopia vision blurred visual acuity reduced |  |  |  |
 | Cardiac disorders |  |  | cardiac failure1 |  |  |
 | Vascular disorders |  | hypotension |  |  |  |
-| Respiratory, thoracic, and mediastinal disorders |  |  | Dyspnoea hiccups |  |  |
+| Respiratory, thoracic, and mediastinal disorders |  |  | Dyspnoea Hiccups |  |  |
 | Gastrointestinal disorders | nausea | constipation vomiting |  |  |  |
 | Skin and subcutaneous tissue disorders |  |  | hypersensitivity pruritus rash |  |  |
 | General disorders and administration site conditions |  | fatigue peripheral oedema |  |  | Dopamine agonist withdrawal syndrome including apathy, anxiety, depression, fatigue, sweating and pain. |
