@@ -10,8 +10,8 @@ Tabulated list of adverse reactions
 
 The table below lists the adverse reactions reported to occur when oromucosal midazolam was administered to children in clinical studies.
 The frequency of adverse reactions is classified as follows:
-Common: ≥1/100 to < 1/10
-Uncommon: ≥1/1,000 to < 1/100
+Common: ≥ 1/100 to < 1/10
+Uncommon: ≥ 1/1,000 to < 1/100
 Very rare: < 1/10,000
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness:
 
