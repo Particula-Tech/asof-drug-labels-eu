@@ -38,5 +38,4 @@ No data are available.
 Method of administration
 
 The tablets can be taken with or without food, swallowed whole with water.
-If a dose is missed, it should be taken as soon as the patient remembers.
-A double dose should not be taken on the same day.
+If a dose is missed, it should be taken as soon as the patient remembers; however, a double dose should not be taken on the same day.

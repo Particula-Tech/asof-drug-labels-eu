@@ -32,9 +32,7 @@ With once-daily dosing, steady-state plasma concentrations of empagliflozin were
 Consistent with the half-life, up to 22% accumulation, with respect to plasma AUC, was observed at steady-state.
 Following administration of an oral [14C]-empagliflozin solution to healthy volunteers, approximately 96% of the drug-related radioactivity was eliminated in faeces (41%) or urine (54%).
 The majority of drug-related radioactivity recovered in faeces was unchanged parent drug and approximately half of drug related radioactivity excreted in urine was unchanged parent drug.
-
 Special populations
-
 Renal impairment
 In patients with mild, moderate or severe renal impairment (eGFR <30 - <90 ml/min/1.73 m2) and patients with kidney failure/end stage renal disease (ESRD), AUC of empagliflozin increased by approximately 18%, 20%, 66%, and 48%, respectively compared to subjects with normal renal function.
 Peak plasma levels of empagliflozin were similar in subjects with moderate renal impairment and kidney failure/ESRD compared to patients with normal renal function.

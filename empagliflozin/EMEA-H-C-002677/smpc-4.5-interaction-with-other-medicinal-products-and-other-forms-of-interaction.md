@@ -8,7 +8,6 @@ Empagliflozin may add to the diuretic effect of thiazide and loop diuretics and 
 Insulin and insulin secretagogues
 Insulin and insulin secretagogues, such as sulphonylureas, may increase the risk of hypoglycaemia.
 Therefore, a lower dose of insulin or an insulin secretagogue may be required to reduce the risk of hypoglycaemia when used in combination with empagliflozin (see sections 4.2 and 4.8).
-
 Pharmacokinetic interactions
 
 Effects of other medicinal products on empagliflozin
@@ -20,7 +19,7 @@ Co-administration of empagliflozin with probenecid, an inhibitor of UGT enzymes 
 These changes were not considered to be clinically meaningful.
 
 The effect of UGT induction on empagliflozin has not been studied.
-Co-medication with known inducers of UGT enzymes should be avoided due to a potential risk of decreased efficacy.
+Co-treatment with known inducers of UGT enzymes should be avoided due to a potential risk of decreased efficacy.
 
 An interaction study with gemfibrozil, an in vitro inhibitor of OAT3 and OATP1B1/1B3 transporters, showed that empagliflozin Cmax increased by 15% and AUC increased by 59% following co-administration.
 These changes were not considered to be clinically meaningful.
@@ -37,7 +36,7 @@ Based on in vitro studies, empagliflozin does not inhibit, inactivate, or induce
 Empagliflozin does not inhibit UGT1A1, UGT1A3, UGT1A8, UGT1A9, or UGT2B7.
 Drug-drug interactions involving the major CYP450 and UGT isoforms with empagliflozin and concomitantly administered substrates of these enzymes are therefore considered unlikely.
 Empagliflozin does not inhibit P-gp at therapeutic doses.
-Based on in vitro studies, empagliflozin is considered unlikely to cause interactions with drugs that are P-gp substrates.
+Based on in vitro studies, empagliflozin is considered unlikely to cause interactions with active substances that are P-gp substrates.
 Co-administration of digoxin, a P-gp substrate, with empagliflozin resulted in a 6% increase in AUC and 14% increase in Cmax of digoxin.
 These changes were not considered to be clinically meaningful.
 

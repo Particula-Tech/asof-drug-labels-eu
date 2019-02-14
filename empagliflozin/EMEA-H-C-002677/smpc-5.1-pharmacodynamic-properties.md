@@ -39,6 +39,7 @@ Higher baseline HbA1c was associated with a greater reduction in HbA1c.
 In addition, empagliflozin as adjunct to standard care therapy reduced cardiovascular mortality in patients with type 2 diabetes and established cardiovascular disease.
 
 Monotherapy
+
 The efficacy and safety of empagliflozin as monotherapy was evaluated in a double-blind, placebo- and active-controlled study of 24 weeks duration in treatment-naïve patients.
 Treatment with empagliflozin resulted in a statistically significant (p<0.0001) reduction in HbA1c compared to placebo (Table 2) and a clinically meaningful decrease in FPG.
 In a prespecified analysis of patients (N=201) with a baseline HbA1c ≥8.5%, treatment resulted in a reduction in HbA1c from baseline of -1.44% for empagliflozin 10 mg, -1.43% for empagliflozin 25 mg, -1.04% for sitagliptin, and an increase of 0.01% for placebo.
@@ -73,6 +74,7 @@ a Full analysis set (FAS) using last observation carried forward (LOCF) prior to
 *p-value <0.0001
 
 Combination therapy
+
 Empagliflozin as add-on to metformin, sulphonylurea, pioglitazone
 Empagliflozin as add-on to metformin, metformin and a sulphonylurea, or pioglitazone with or without metformin resulted in statistically significant (p<0.0001) reductions in HbA1c and body weight compared to placebo (Table 3).
 In addition it resulted in a clinically meaningful reduction in FPG, systolic and diastolic blood pressure compared to placebo.
@@ -155,7 +157,7 @@ Table 4: Efficacy results at 24 week comparing empagliflozin in combination with
 |  | Empagliflozin 10 mgb |  |  | Empagliflozin 25 mgb |  |  | Metforminc |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | + Met 1000 mgc | + Met 2000 mgc | No Met | + Met 1000 mgc | + Met 2000 mgc | No Met | 1000 mg | 2000 mg |
-| N | 169 | 171 | 172 | 170 | 170 | 167 | 171 | 170 |
+| N | 161 | 167 | 169 | 165 | 169 | 163 | 167 | 162 |
 | HbA1c (%) |  |  |  |  |  |  |  |  |
 | Baseline (mean) | 8.68 | 8.65 | 8.62 | 8.84 | 8.66 | 8.86 | 8.69 | 8.55 |
 | Change from baseline1 | -1.98 | -2.07 | -1.35 | -1.93 | -2.08 | -1.36 | -1.18 | -1.75 |
@@ -350,11 +352,11 @@ About half of the patients (52.2%) had an eGFR of 60-90 ml/min/1.73 m2, 17.8% of
 At week 12, an adjusted mean (SE) improvement in HbA1c when compared to baseline of 0.11% (0.02) in the placebo group, 0.65% (0.02) and 0.71% (0.02) in the empagliflozin 10 and 25 mg groups was observed.
 After the first 12 weeks glycaemic control was optimized independent of investigative treatment.
 Therefore the effect was attenuated at week 94, with an adjusted mean (SE) improvement in HbA1c of 0.08% (0.02) in the placebo group, 0.50% (0.02) and 0.55% (0.02) in the empagliflozin 10 and 25 mg groups.
-Empagliflozin was superior in reducing the primary combined endpoint of cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke, as compared with placebo.
+Empagliflozin was superior in preventing the primary combined endpoint of cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke, as compared with placebo.
 The treatment effect was driven by a significant reduction in cardiovascular death with no significant change in non-fatal myocardial infarction, or non-fatal stroke.
 The reduction of cardiovascular death was comparable for empagliflozin 10 mg and 25 mg (Figure 1) and confirmed by an improved overall survival (Table 10).
 
-The efficacy for preventing cardiovascular mortality has not been conclusively established in users of DPP-4 inhibitors or in Black patients because the representation of these groups in the EMPA-REG OUTCOME study was limited.
+The efficacy for preventing cardiovascular mortality has not been conclusively established in patients using empagliflozin concomitantly with DPP-4 inhibitors or in Black patients because the representation of these groups in the EMPA-REG OUTCOME study was limited.
 
 Table 10:Treatment effect for the primary composite endpoint, its components and mortalitya
 
@@ -383,24 +385,27 @@ CV = cardiovascular, MI = myocardial infarction a Treated set (TS), i.e. patient
 * Since data from the trial were included in an interim analysis, a two-sided 95.02% confidence interval applied which corresponds to a p-value of less than 0.0498 for significance.
 Figure 1 Time to occurrence of cardiovascular death in the EMPA-REG OUTCOME study
 
-Fasting plasma glucose
+Heart failure requiring hospitalization
+In the EMPA-REG OUTCOME study, empagliflozin reduced the risk of heart failure requiring hospitalization compared with placebo (empagliflozin 2.7 %; placebo 4.1 %; HR 0.65, 95 % CI 0.50, 0.85).
 
+Nephropathy
+In the EMPA-REG OUTCOME study, for time to first nephropathy event, the HR was 0.61 (95 % CI 0.53, 0.70) for empagliflozin (12.7 %) vs placebo (18.8 %).
+
+In addition, empagliflozin showed a higher (HR 1.82, 95 % CI 1.40, 2.37) occurrence of sustained normo- or micro-albuminuria (49.7 %) in patients with baseline macro-albuminuria compared with placebo (28.8 %).
+
+Fasting plasma glucose
 In four placebo-controlled studies, treatment with empagliflozin as monotherapy or add-on therapy to metformin, pioglitazone, or metformin plus a sulfonylurea resulted in mean changes from baseline in FPG of -20.5 mg/dl [-1.14 mmol/l] for empagliflozin 10 mg and -23.2 mg/dl [-1.29 mmol/l] for empagliflozin 25 mg compared to placebo (7.4 mg/dl [0.41 mmol/l]).
 This effect was observed after 24 weeks and maintained for 76 weeks.
 
 2-hour post-prandial glucose
-
 Treatment with empagliflozin as add-on to metformin or metformin and a sulphonylurea resulted in a clinically meaningful reduction of 2-hour post-prandial glucose (meal tolerance test) at 24 weeks (add-on to metformin: placebo +5.9 mg/dl, empagliflozin 10 mg: -46.0 mg/dl, empagliflozin 25 mg: -44.6 mg/dl, add-on to metformin and a sulphonylurea: placebo -2.3 mg/dl, empagliflozin 10 mg: -35.7 mg/dl, empagliflozin 25 mg: -36.6 mg/dl).
 
 Patients with high baseline HbA1c >10%
-
 In a pre-specified pooled analysis of three phase 3 studies, treatment with open-label empagliflozin 25 mg in patients with severe hyperglycaemia (N=184, mean baseline HbA1c 11.15%) resulted in a clinically meaningful reduction in HbA1c from baseline of 3.27% at week 24; no placebo or empagliflozin 10 mg arms were included in these studies.
-
 Body weight
-
 In a pre-specified pooled analysis of 4 placebo controlled studies, treatment with empagliflozin resulted in body weight reduction (-0.24 kg for placebo, -2.04 kg for empagliflozin 10 mg and -2.26 kg for empagliflozin 25 mg) at week 24 that was maintained up to week 52 (-0.16 kg for placebo, -1.96 kg for empagliflozin 10 mg and -2.25 kg for empagliflozin 25 mg).
-Blood pressure
 
+Blood pressure
 The efficacy and safety of empagliflozin was evaluated in a double-blind, placebo controlled study of 12 weeks duration in patients with type 2 diabetes and high blood pressure on different antidiabetic and up to 2 antihypertensive therapies.
 Treatment with empagliflozin once daily resulted in statistically significant improvement in HbA1c, and 24 hour mean systolic and diastolic blood pressure as determined by ambulatory blood pressure monitoring (Table 11).
 Treatment with empagliflozin provided reductions in seated SBP and DBP.
@@ -435,7 +440,6 @@ a Full analysis set (FAS)
 
 In a pre-specified pooled analysis of 4 placebo-controlled studies, treatment with empagliflozin resulted in a reduction in systolic blood pressure (empagliflozin 10 mg: -3.9 mmHg; empagliflozin 25 mg: -4.3 mmHg) compared with placebo (-0.5 mmHg) and in diastolic blood pressure (empagliflozin 10 mg: -1.8 mmHg; empagliflozin 25 mg: -2.0 mmHg) compared with placebo
 (-0.5 mmHg) at week 24 that were maintained up to week 52.
-
 Paediatric population
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Jardiance in one or more subsets of the paediatric population in type 2 diabetes mellitus (see section 4.2 for information on paediatric use).
