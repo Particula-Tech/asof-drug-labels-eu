@@ -18,20 +18,23 @@ The frequency categories are defined using the following convention: very common
 | Blood and lymphatic system disorders |  |  | Anaemia*, Neutropenia* |
 | Immune system disorders |  |  | Hypersensitivity* |
 | Metabolism and nutrition disorders | Anorexia* |  |  |
-| Psychiatric disorders |  | Insomnia* | Anxiety*, Depression* |
-| Nervous system disorders | Dysgeusia | Headache, Dizziness* | Hyposmia*, Somnolence* |
-| Eye disorders |  |  | Visual disturbance* |
-| Ear and labyrinth disorders |  | Tinnitus* | Hearing loss* |
+| Psychiatric disorders1 |  | Insomnia* | Anxiety*, Depression* |
+| Nervous system disorders1 | Dysgeusia | Headache, Dizziness* | Hyposmia*, Somnolence* |
+| Eye disorders1 |  |  | Visual disturbance* |
+| Ear and labyrinth disorders1 |  | Tinnitus* | Hearing loss* |
 | Cardiac disorders |  |  | Tachycardia* |
 | Respiratory, thoracic and mediastinal disorders | Cough/productive cough, Dyspnoea, Changes in bronchial secretions (volume and viscosity)*, Haemoptysis* | Dysphonia | Bronchospasm**, Bronchial hyper-reactivity, Obstructive airways disorder |
 | Gastrointestinal disorders |  | Nausea, Vomiting, Abdominal pain*, Diarrhoea* Constipation* | Retching, Dyspepsia*, Flatulence* |
 | Hepatobiliary disorders |  |  | Hepatitis*, Hyperbilirubinaemia* |
 | Skin and subcutaneous tissue disorders |  | Rash | Urticaria*, Pruritus* |
-| Musculoskeletal and connective tissue disorders |  | Arthralgia, Myalgia* | Tendinitis, Costochondritis, Joint stiffness |
+| Musculoskeletal and connective tissue disorders1 |  | Arthralgia, Myalgia* | Tendinitis, Costochondritis, Joint stiffness |
 | Renal and urinary disorders |  |  | Renal failure* |
-| General disorders and administration site conditions | Fatigue/asthenia, Exercise tolerance decreased | Pyrexia |  |
+| General disorders and administration site conditions1 | Fatigue/asthenia, Exercise tolerance decreased | Pyrexia |  |
+
+| System organ class | Very common (≥ 1/10) | Common (≥ 1/100 to < 1/10) | Uncommon (≥ 1/1,000 to < 1/100) |
+| --- | --- | --- | --- |
 | Investigations | Weight decreased**, Forced expiratory volume decreased* | Alanine aminotransferase increased, Aspartate aminotransferase increased, Pulmonary function test decreased*, Blood glucose increased and decreased*, Blood creatinine increased* Breath sounds abnormal* | Liver function test abnormal, Blood alkaline phosphatase increased*, Electrocardiogram QT prolonged*, Eosinophil count increased*, Platelet count decreased* |
-| * Adverse events with uncertain relatedness to Quinsair but which are known to be associated with systemic administration of levofloxacin and/or are plausibly associated with Quinsair and were reported more frequently than with placebo in clinical studies. ** See paragraph below for further details. |  |  |  |
+| 1 Very rare cases of prolonged (up to months or years), disabling and potentially irreversible serious drug reactions affecting several, sometimes multiple, system organ classes and senses (including reactions such as tendonitis, tendon rupture, arthralgia, pain in extremities, gait disturbance, neuropathies associated with paraesthesia, depression, fatigue, memory impairment, sleep disorders, and impairment of hearing, vision, taste and smell) have been reported in association with the use of quinolones and fluoroquinolones in some cases irrespective of pre-existing risk factors (see section 4.4). * Adverse events with uncertain relatedness to Quinsair but which are known to be associated with systemic administration of levofloxacin and/or are plausibly associated with Quinsair and were reported more frequently than with placebo in clinical studies. ** See paragraph below for further details. |  |  |  |
 
 Tabulated list of additional adverse reactions reported following systemic administration of levofloxacin
 
@@ -44,18 +47,18 @@ The frequency categories are defined using the following convention: very common
 | Blood and lymphatic system disorders |  |  | Pancytopenia*, Agranulocytosis*, Haemolytic anaemia* |
 | Immune system disorders |  | Angioedema | Anaphylactic shock, Anaphylactoid shock |
 | Metabolism and nutrition disorders |  |  | Hypoglycaemic coma |
-| Psychiatric disorders | Confusional state, Nervousness | Psychotic reactions (e.g. hallucination, paranoia), Agitation, Abnormal dreams, Nightmares | Psychotic disorders with self-endangering behaviour including suicidal ideation or suicide attempt |
-| Nervous system disorders | Tremor | Convulsion, Paraesthesia | Peripheral sensory neuropathy, Peripheral sensory motor neuropathy, Dyskinesia, Extrapyramidal disorder, Syncope, Benign intracranial hypertension |
-| Eye disorders |  |  | Transient vision loss |
-| Ear and labyrinth disorders | Vertigo |  |  |
+| Psychiatric disorders1 | Confusional state, Nervousness | Psychotic reactions (e.g. hallucination, paranoia), Agitation, Abnormal dreams, Nightmares | Psychotic disorders with self-endangering behaviour including suicidal ideation or suicide attempt |
+| Nervous system disorders1 | Tremor | Convulsion, Paraesthesia | Peripheral sensory neuropathy, Peripheral sensory motor neuropathy, Dyskinesia, Extrapyramidal disorder, Syncope, Benign intracranial hypertension |
+| Eye disorders1 |  |  | Transient vision loss |
+| Ear and labyrinth disorders1 | Vertigo |  |  |
 | Cardiac disorders |  | Palpitation | Ventricular tachycardia, Ventricular arrhythmia and torsade de pointes |
 | Vascular disorders |  | Hypotension |  |
 | Respiratory, thoracic and mediastinal disorders |  |  | Pneumonitis allergic |
 | Hepatobiliary disorders |  |  | Jaundice and severe liver injury, including cases with fatal acute liver failure |
 | Skin and subcutaneous tissue disorders | Hyperhidrosis |  | Toxic epidermal necrolysis, Stevens-Johnson syndrome, Erythema multiforme, Photosensitivity reaction, Leukocytoclastic vasculitis, Stomatitis |
-| Musculoskeletal and connective tissue disorders |  | Muscular weakness | Rhabdomyolysis, Tendon rupture, Ligament rupture, Muscle rupture, Arthritis |
-| General disorders and administration site conditions |  |  | Pain (including pain in back, chest and extremities) |
-| * See paragraph below for further details. |  |  |  |
+| Musculoskeletal and connective tissue disorders1 |  | Muscular weakness | Rhabdomyolysis, Tendon rupture, Ligament rupture, Muscle rupture, Arthritis |
+| General disorders and administration site conditions1 |  |  | Pain (including pain in back, chest and extremities) |
+| * See paragraph below for further details. 1 Very rare cases of prolonged (up to months or years), disabling and potentially irreversible serious drug reactions affecting several, sometimes multiple, system organ classes and senses (including reactions such as tendonitis, tendon rupture, arthralgia, pain in extremities, gait disturbance, neuropathies associated with paraesthesia, depression, fatigue, memory impairment, sleep disorders, and impairment of hearing, vision, taste and smell) have been reported in association with the use of quinolones and fluoroquinolones in some cases irrespective of pre-existing risk factors (see section 4.4). |  |  |  |
 
 Description of selected adverse reactions
 
@@ -65,6 +68,7 @@ Weight decrease was reported as an adverse event during clinical studies, but wa
 
 Serious haematological adverse reactions such as pancytopenia, agranulocytosis and haemolytic anaemia have been reported following systemic administration of levofloxacin.
 Their frequency cannot be estimated from available data.
+
 Paediatric population
 
 In clinical trials, 51 adolescents with CF (≥ 12 to < 18 years old) received Quinsair 240 mg twice daily and 6 adolescents with CF received Quinsair 120 mg (n = 3) or 240 mg (n = 3) once daily.

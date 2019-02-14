@@ -22,12 +22,12 @@ Distribution
 
 Approximately 30 to 40% of levofloxacin is bound to serum protein.
 The mean apparent volume of distribution of levofloxacin in serum is approximately 250 L following inhalation of Quinsair 240 mg twice daily.
+
 Biotransformation
 
 Levofloxacin is metabolised to a very small extent, the metabolites being desmethyl-levofloxacin and levofloxacin N-oxide.
 These metabolites account for ˂ 5% of the dose following systemic administration and are excreted in urine.
 Levofloxacin is stereochemically stable and does not undergo chiral inversion.
-
 Elimination
 
 Levofloxacin is systemically absorbed following inhalation of Quinsair and eliminated similarly to levofloxacin following systemic administration.
@@ -63,6 +63,7 @@ The safety and efficacy of Quinsair in children aged ˂ 18 years old have not ye
 The pharmacokinetics of levofloxacin following inhalation of Quinsair 240 mg twice daily were investigated in paediatric patients with CF aged 12 years and older and weighing ≥ 30 kg.
 A population PK model based on sparse sampling determined that levofloxacin serum concentrations were comparable between paediatric and adult patients following 28 days of treatment.
 Higher sputum concentrations were observed in adults compared to paediatric patients in Study 207; similar sputum concentrations were observed in adult and paediatric patients in Study 209.
+
 In addition, the pharmacokinetics of weight-based doses of levofloxacin administered by inhalation once daily for 14 days in paediatric patients with CF (≥ 6 to < 12 years old, n = 14 and
 ≥ 12 to < 17 years old, n = 13) were evaluated in Study 206.
 Patients weighing 22 to 30 kg received 180 mg levofloxacin/day and patients weighing ˃ 30 kg received 240 mg levofloxacin/day.

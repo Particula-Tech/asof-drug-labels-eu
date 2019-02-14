@@ -1,8 +1,11 @@
 # 4.4 Special warnings and precautions for use
 
+The use of levofloxacin should be avoided in patients who have experienced serious adverse reactions in the past when using quinolone or fluoroquinolone containing products (see section 4.8).
+Treatment of these patients with levofloxacin should only be initiated in the absence of alternative treatment options and after careful benefit/risk assessment (see also section 4.3).
 Hypersensitivity reactions
 
 Levofloxacin can cause serious, potentially fatal hypersensitivity reactions (e.g. including angioedema and anaphylactic shock).
+
 Severe bullous reactions
 
 Cases of severe bullous skin reactions such as Stevens-Johnson syndrome or toxic epidermal necrolysis have been reported with systemic administration of levofloxacin (see section 4.8).
@@ -37,8 +40,8 @@ Caution is recommended if levofloxacin is used in psychotic patients or in patie
 
 Peripheral neuropathy
 
-Peripheral sensory neuropathy and peripheral sensory motor neuropathy have been reported in patients receiving fluoroquinolones, including levofloxacin, which can be rapid in its onset (see section 4.8).
-Levofloxacin should be discontinued if the patient experiences symptoms of neuropathy in order to prevent the development of an irreversible condition.
+Cases of sensory or sensorimotor polyneuropathy resulting in paraesthesia, hypaesthesia, dysesthesia, or weakness have been reported in patients receiving quinolones and fluoroquinolones.
+Patients under treatment with levofloxacin should be advised to inform their doctor prior to continuing treatment if symptoms of neuropathy such as pain, burning, tingling, numbness, or weakness develop in order to prevent the development of potentially irreversible condition (see section 4.8).
 
 Exacerbation of myasthenia gravis
 
@@ -46,10 +49,14 @@ Fluoroquinolones, including levofloxacin, have neuromuscular blocking activity a
 Post-marketing serious adverse reactions, including deaths and the requirements for respiratory support, have been associated with fluoroquinolone use in patients with myasthenia gravis.
 Levofloxacin is not recommended in patients with a known history of myasthenia gravis.
 
-Tendinitis
+Tendinitis and tendon rupture
 
-Tendinitis and tendon rupture, sometimes bilateral, may occur within 48 hours of starting treatment with levofloxacin and have been reported up to several months after discontinuation of treatment.
-The risk of tendinitis and tendon rupture is increased in patients aged over 60 years, in patients receiving daily doses of 1000 mg and in patients using corticosteroids.
+Tendinitis and tendon rupture (especially but not limited to Achilles tendon), sometimes bilateral, may occur as early as within 48 hours of starting treatment with quinolones and fluoroquinolones and have been reported to occur even up to several months after discontinuation of treatment.
+The risk of tendinitis and tendon rupture is increased in older patients, patients with renal impairment, patients with solid organ transplants, patients receiving daily doses of 1000 mg levofloxacin, and those treated concurrently with corticosteroids.
+Therefore, concomitant use of corticosteroids should be avoided.
+At the first sign of tendinitis (e.g. painful swelling, inflammation) the treatment with levofloxacin should be discontinued and alternative treatment should be considered.
+The affected limb(s) should be appropriately treated (e.g. immobilisation).
+Corticosteroids should not be used if signs of tendinopathy occur.
 
 Tendinitis was reported in patients with CF receiving Quinsair as an uncommon adverse reaction during clinical trials (see section 4.8).
 
@@ -81,7 +88,6 @@ Clostridium difficile-associated disease
 
 Diarrhoea, particularly if severe, persistent and/or bloody, during or after treatment with levofloxacin (including several weeks after treatment), may be symptomatic of Clostridium difficile-associated disease (CDAD).
 CDAD may range in severity from mild to life-threatening, the most severe form of which is pseudomembranous colitis.
-
 Resistance to levofloxacin, other antibacterial agents and treatment-emergent microorganisms
 
 The development of fluoroquinolone-resistant P. aeruginosa and superinfection with fluoroquinolone-insusceptible microorganisms represent potential risks associated with the use of Quinsair.
@@ -90,6 +96,7 @@ If superinfection occurs during therapy, appropriate measures should be taken.
 Vision disorders
 
 If vision becomes impaired or any effects on the eyes are experienced, an eye specialist should be consulted immediately (see sections 4.7 and 4.8).
+
 Prevention of photosensitisation
 
 Photosensitisation has been reported with levofloxacin (see section 4.8).
@@ -101,3 +108,13 @@ In patients treated with levofloxacin, determination of opiates in urine may giv
 It may be necessary to confirm positive opiate screens by more specific methods.
 
 Levofloxacin may inhibit the growth of Mycobacterium tuberculosis and, therefore, may give false-negative results in the bacteriological diagnosis of tuberculosis.
+
+Epidemiologic studies report an increased risk of aortic aneurysm and dissection after intake of fluoroquinolones, particularly in the older population.
+
+Therefore, fluoroquinolones should only be used after careful benefit-risk assessment and after consideration of other therapeutic options in patients with positive family history of aneurysm disease, or in patients diagnosed with pre-existing aortic aneurysm and/or aortic dissection, or in presence of other risk factors or conditions predisposing for aortic aneurysm and dissection (e.g. Marfan syndrome, vascular Ehlers-Danlos syndrome, Takayasu arteritis, giant cell arteritis, Behcet’s disease, hypertension, known atherosclerosis).
+In case of sudden abdominal, chest or back pain, patients should be advised to immediately consult a physician in an emergency department.
+
+Prolonged, disabling and potentially irreversible serious adverse drug reactions
+
+Very rare cases of prolonged (continuing months or years), disabling and potentially irreversible serious adverse drug reactions affecting different, sometimes multiple, body systems (musculoskeletal, nervous, psychiatric and senses) have been reported in patients receiving quinolones and fluoroquinolones irrespective of their age and pre-existing risk factors.
+Levofloxacin should be discontinued immediately at the first signs or symptoms of any serious adverse reaction and patients should be advised to contact their prescriber for advice.

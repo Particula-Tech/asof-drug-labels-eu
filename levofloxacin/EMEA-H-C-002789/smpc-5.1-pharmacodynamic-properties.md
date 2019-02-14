@@ -8,7 +8,6 @@ Levofloxacin is an antibacterial agent of the fluoroquinolone class and is the S
 Mechanism of action
 
 The mechanism of action of levofloxacin and other fluoroquinolone antimicrobials involves inhibition of bacterial DNA gyrase and topoisomerase IV enzymes.
-
 PK/PD relationship
 
 The parameters associated with the antibacterial effects of levofloxacin are the Cmax/MIC and AUC/MIC ratios (Cmax = maximum concentration at the site of infection, AUC = area under the curve and MIC = minimal inhibitory concentration).
@@ -18,6 +17,7 @@ Resistance
 Resistance to levofloxacin is most often acquired through a stepwise process by target site mutations in DNA gyrase and topoisomerase IV.
 Reduced susceptibility to levofloxacin can also result from acquisition of plasmids encoding proteins that protect these targets from inhibition.
 Reduced bacterial permeability (common in P. aeruginosa) and efflux mechanisms may also confer or contribute to resistance.
+
 Cross-resistance between levofloxacin and other fluoroquinolones is observed.
 
 Breakpoints
@@ -35,7 +35,6 @@ All patients had also received a minimum of 3 courses of inhaled anti-pseudomona
 In addition to study drug, patients remained on standard of care treatment for chronic pulmonary infection.
 A total of 259 patients were randomised to Quinsair 240 mg twice daily for 28 days (≥ 18 years, n = 226; ≥ 12 to < 18 years old, n = 33) and 147 were randomised to placebo (≥ 18 years, n = 127; ≥ 12 to < 18 years old, n = 20).
 These two placebo-controlled studies showed that 28 days of treatment with Quinsair 240 mg twice daily resulted in significant improvement in relative change from baseline in FEV1 percent predicted compared to placebo (see Table 1).
-
 Table 1: FEV1 Percent predicted relative change from baseline to Day 28 in placebo-controlled efficacy and safety studies of Quinsair in patients with CF
 
 | FEV1 percent predicted | Supportive studies |  |  |  |
@@ -58,7 +57,6 @@ All patients had also received at least 3 courses of TIS in the 12 months prior 
 In addition to study drug, patients remained on standard of care treatment for chronic pulmonary infection.
 A total of 189 patients were randomised to Quinsair 240 mg twice daily (≥ 18 years, n = 170; ≥ 12 to < 18 years old, n = 19) and 93 were randomised to TIS (≥ 18 years, n = 84; ≥ 12 to < 18 years old, n = 9).
 Results obtained for the primary and key secondary endpoints are provided in Table 2.
-
 Table 2: Results for the primary and key secondary endpoints in the active-controlled efficacy and safety study of Quinsair in patients with CF
 
 | Parameter | Pivotal Study – Study 209 (Core Phase; ITT) |  |  |
@@ -84,7 +82,6 @@ For the subgroup of patients who received TIS during the Core Phase and switched
 Cycles 4 to 6 on Quinsair).
 For the subgroup of patients who received Quinsair throughout the Core and Extension Phases (i.e. Cycles 1 to 6), the LS Mean change in FEV1 percent predicted ranged between 3.6% to 4.6% except in Cycle 6, where it was close to baseline (-0.15%).
 The proportion of patients who received Quinsair throughout Study 209 Core and Extension Phases (with a highest levofloxacin MIC P. aeruginosa isolate exceeding 1 µg/ml) was similar at the end of treatment during Cycles 1 and 3 in the Core Phase (76.6% to 83.3%) and at the end of treatment during Cycles 4 to 6 in the Extension Phase (77.8% to 87.5%).
-
 Paediatric population
 
 In Studies 204, 207 and 209, the relative change in FEV1 percent predicted from baseline to the end of treatment in Cycle 1 was of similar magnitude in the 51 adolescents with CF (≥ 12 to < 18 years old and weighing ≥ 30 kg) receiving Quinsair 240 mg twice daily to that in adults.
