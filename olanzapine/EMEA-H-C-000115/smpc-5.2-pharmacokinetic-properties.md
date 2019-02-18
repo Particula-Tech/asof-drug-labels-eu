@@ -29,9 +29,10 @@ Renal impairment
 In renally impaired patients (creatinine clearance < 10 ml/min) versus healthy subjects, there was no significant difference in mean elimination half-life (37.7 versus 32.4 hr) or clearance (21.2 versus 25.0 l/hr).
 A mass balance study showed that approximately 57 % of radiolabelled olanzapine appeared in urine, principally as metabolites.
 
-Smokers
-In smoking subjects with mild hepatic dysfunction, mean elimination half-life (39.3 hr) was prolonged and clearance (18.0 l/hr) was reduced analogous to non-smoking healthy subjects (48.8 hr and 14.1 l/hr, respectively).
-
+Hepatic impairment
+A small study of the effect of impaired liver function in 6 subjects with clinically significant (Childs Pugh Classification A (n = 5) and B (n = 1)) cirrhosis revealed little effect on the pharmacokinetics of orally administered olanzapine (2.5 – 7.5 mg single dose): Subjects with mild to moderate hepatic dysfunction had slightly increased systemic clearance and faster elimination half-time compared to subjects with no hepatic dysfunction (n = 3).
+There were more smokers among subjects with cirrhosis (4/6; 67 %) than among subjects with no hepatic dysfunction (0/3; 0 %).
+Smoking
 In non-smoking versus smoking subjects (males and females) the mean elimination half-life was prolonged (38.6 versus 30.4 hr) and the clearance was reduced (18.6 versus 27.7 l/hr).
 
 The plasma clearance of olanzapine is lower in elderly versus young subjects, in females versus males, and in non-smokers versus smokers.
@@ -67,5 +68,3 @@ In female versus male subjects administered oral olanzapine the mean elimination
 However, olanzapine (5-20 mg) demonstrated a comparable safety profile in female (n=467) as in male patients (n=869).
 
 In renally impaired patients (creatinine clearance < 10 ml/min) versus healthy subjects administered oral olanzapine, there was no significant difference in mean elimination half-life (37.7 versus 32.4 hr) or clearance (21.2 versus 25.0 l/hr).
-
-In smoking subjects with mild hepatic dysfunction administered olanzapine orally, mean elimination half-life (39.3 hr) was prolonged and clearance (18.0 l/hr) was reduced analogous to non-smoking healthy subjects (48.8 hr and 14.1 l/hr, respectively).

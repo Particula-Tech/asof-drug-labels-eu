@@ -31,7 +31,6 @@ Do not administer intravenously or subcutaneously.
 
 5.
 Discard the syringe and any unused solution in accordance with appropriate clinical procedures.
-
 6.
 Use the solution immediately within 1 hour of reconstitution.
 
