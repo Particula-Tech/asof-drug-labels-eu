@@ -1,5 +1,11 @@
 # 4.1 Therapeutic indications
 
+Juvenile idiopathic arthritis
+Polyarticular juvenile idiopathic arthritis (pJIA)
+Simponi in combination with methotrexate (MTX) is indicated for the treatment of polyarticular juvenile idiopathic arthritis in children 2 years of age and older, who have responded inadequately to previous therapy with MTX.
+
+[Simponi 50 mg solution for injection in pre-filled pen.]
+
 Rheumatoid arthritis (RA)
 Simponi, in combination with methotrexate (MTX), is indicated for:
 
@@ -8,9 +14,7 @@ Simponi, in combination with methotrexate (MTX), is indicated for:
 
 Simponi, in combination with MTX, has been shown to reduce the rate of progression of joint damage as measured by X-ray and to improve physical function.
 
-Juvenile idiopathic arthritis
-Polyarticular juvenile idiopathic arthritis (pJIA)
-Simponi in combination with MTX is indicated for the treatment of polyarticular juvenile idiopathic arthritis in children with a body weight of at least 40 kg, who have responded inadequately to previous therapy with MTX.
+Simponi in combination with MTX is indicated for the treatment of polyarticular juvenile idiopathic arthritis in children 2 years of age and older, who have responded inadequately to previous therapy with MTX.
 
 Psoriatic arthritis (PsA)
 Simponi, alone or in combination with MTX, is indicated for the treatment of active and progressive psoriatic arthritis in adult patients when the response to previous DMARD therapy has been inadequate.

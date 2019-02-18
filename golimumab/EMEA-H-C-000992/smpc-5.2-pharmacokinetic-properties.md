@@ -23,8 +23,8 @@ In a limited number of RA patients treated with subcutaneous golimumab over a 6-
 However, population pharmacokinetic analysis indicated that concomitant use of NSAIDs, oral corticosteroids or sulfasalazine did not influence the apparent clearance of golimumab.
 
 Following induction doses of 200 mg and 100 mg golimumab at week 0 and 2, respectively, and maintenance doses of 50 mg or 100 mg golimumab subcutaneously every 4 weeks thereafter to patients with UC, serum golimumab concentrations reached steady state approximately 14 weeks after the start of therapy.
-Treatment with 50 mg or 100 mg golimumab subcutaneous every 4 weeks during maintenance resulted in a mean steady-state trough serum concentration of approximately 0.9
-± 0.5 μg/mL and 1.8 ± 1.1 μg/mL, respectively.
+Treatment with 50 mg or 100 mg golimumab subcutaneous every 4 weeks during maintenance resulted in a mean steady-state trough serum concentration of approximately 0.9 ± 0.5 μg/mL and 1.8 ± 1.1 μg/mL, respectively.
+
 In UC patients treated with 50 mg or 100 mg golimumab subcutaneously every 4 weeks, concomitant use of immunomodulators did not have a substantial effect on steady-state trough levels of golimumab.
 
 Patients who developed anti-golimumab antibodies generally had low trough steady-state serum concentrations of golimumab (see section 5.1).
@@ -41,4 +41,12 @@ Paediatric population
 The pharmacokinetics of golimumab were determined in 173 children with pJIA with an age range from 2 to 17 years of age.
 In the pJIA study, children who received golimumab 30 mg/m2 (maximum 50 mg) subcutaneously every 4 weeks, had median steady-state trough golimumab concentrations which were similar across different age groups, and which were also similar to or slightly higher than those seen in adult RA patients who received 50 mg golimumab every 4 weeks.
 
-Population pharmacokinetic/pharmacodynamic modeling and simulation in children with pJIA confirmed the relationship between golimumab serum exposures and clinical efficacy and supports that the dosing regimen of golimumab 50 mg every 4 weeks in children with pJIA of at least 40 kg achieves similar exposures to those shown to be efficacious in adults.
+Population pharmacokinetic/pharmacodynamic modelling and simulation in children with pJIA confirmed the relationship between golimumab serum exposures and clinical efficacy and supports the dosing regimen of golimumab 30 mg/m2 every 4 weeks in children with pJIA.
+
+[Simponi 50 mg solution for injection in pre-filled pen.]
+
+Population pharmacokinetic/pharmacodynamic modelling and simulation in children with pJIA confirmed the relationship between golimumab serum exposures and clinical efficacy and supports that the dosing regimen of golimumab 50 mg every 4 weeks in children with pJIA of at least 40 kg achieves similar exposures to those shown to be efficacious in adults.
+
+[Simponi 100 mg solution for injection in pre-filled pen.]
+
+(all sentences already above)

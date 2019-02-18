@@ -1,5 +1,9 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
+EU/1/09/546/009 1 pre-filled pen
+
+[Simponi 50 mg solution for injection in pre-filled pen.]
+
 EU/1/09/546/001 1 pre-filled pen
 EU/1/09/546/002 3 pre-filled pens
 

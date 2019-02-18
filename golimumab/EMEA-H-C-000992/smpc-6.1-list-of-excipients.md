@@ -1,7 +1,7 @@
 # 6.1 List of excipients
 
-Sorbitol(E420)
-L-histidine
-L-histidine monohydrochloride monohydrate
+Sorbitol (E420)
+Histidine
+Histidine hydrochloride monohydrate
 Polysorbate 80
-Water for injection.
+Water for injections.

@@ -1,16 +1,17 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-In the controlled period of the pivotal trials in RA, PsA, AS, nr-Axial SpA, and UC, upper respiratory tract infection was the most common adverse drug reaction (ADR) reported in 12.6% of golimumab-treated patients compared with 11.0% of control patients.
-The most serious ADRs that have been reported for golimumab include serious infections (including sepsis, pneumonia, TB, invasive fungal and opportunistic infections), demyelinating disorders, HBV reactivation, CHF, autoimmune processes (lupus-like syndrome), haematologic reactions, serious systemic hypersensitivity (including anaphylactic reaction), vasculitis, lymphoma and leukaemia (see section 4.4).
+In the controlled period of the pivotal trials in RA, PsA, AS, nr-Axial SpA, and UC, upper respiratory tract infection was the most common adverse reaction (AR) reported in 12.6% of golimumab-treated patients compared with 11.0% of control patients.
+The most serious ARs that have been reported for golimumab include serious infections (including sepsis, pneumonia, TB, invasive fungal and opportunistic infections), demyelinating disorders, HBV reactivation, CHF, autoimmune processes (lupus-like syndrome), haematologic reactions, serious systemic hypersensitivity (including anaphylactic reaction), vasculitis, lymphoma and leukaemia (see section 4.4).
 
 Tabulated list of adverse reactions
-ADRs observed in clinical studies and reported from world-wide post-marketing use of golimumab are listed in Table 1.
-Within the designated system organ classes, the adverse drug reactions are listed under headings of frequency and using the following convention: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare
-(< 1/10,000); not known (cannot be estimated from the available data).
+ARs observed in clinical studies and reported from world-wide post-marketing use of golimumab are listed in Table 2.
+Within the designated system organ classes, the ARs are listed under headings of frequency and using the following convention: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-Table 1
-Tabulated list of ADRs
+
+Table 2
+Tabulated list of ARs
+
 Infections and infestations
 Very common: Upper respiratory tract infection (nasopharyngitis, pharyngitis, laryngitis and rhinitis)
 Common: Bacterial infections (such as cellulitis), lower respiratory tract infection (such as pneumonia), viral infections (such as influenza and herpes), bronchitis, sinusitis, superficial fungal infections, abscess
@@ -18,8 +19,7 @@ Uncommon: Sepsis including septic shock, pyelonephritis
 Rare: Tuberculosis, opportunistic infections (such as invasive fungal infections [histoplasmosis, coccidioidomycosis, pneumocytosis], bacterial, atypical mycobacterial infection and protozoal), hepatitis B reactivation, bacterial arthritis, infective bursitis
 Neoplasms, benign, malignant and unspecified
 Uncommon: Neoplasms (such as skin cancer, squamous cell carcinoma and melanocytic naevus)
-Rare: Lymphoma, leukaemia, melanoma, Merkel cell carcinoma
-Not known: Hepatosplenic T-cell lymphoma*
+Rare: Lymphoma, leukaemia, melanoma, Merkel cell carcinoma Not known: Hepatosplenic T-cell lymphoma*
 Blood and lymphatic system disorders
 Common: Leukopenia (including neutropenia), anaemia
 Uncommon: Thrombocytopenia, pancytopenia
@@ -71,8 +71,7 @@ Common: Bone fractures
 
 Throughout this section, median duration of follow-up (approximately 4 years) is generally presented for all golimumab use.
 Where golimumab use is described by dose, the median duration of follow-up varies (approximately 2 years for 50 mg dose, approximately 3 years for 100 mg dose) as patients may have switched between doses.
-
-Description of selected adverse drug reactions
+Description of selected adverse reactions
 
 Infections
 In the controlled period of pivotal trials, upper respiratory tract infection was the most common adverse reaction reported in 12.6% of golimumab-treated patients (incidence per 100 subject-years: 60.8; 95% CI: 55.0, 67.1) compared with 11.0% of control patients (incidence per 100 subject-years: 54.5; 95% CI: 46.1, 64.0).
@@ -80,6 +79,7 @@ In controlled and uncontrolled portions of the studies with a median follow-up o
 
 In the controlled period of pivotal trials, infections were observed in 23.0% of golimumab-treated patients (incidence per 100 subject-years: 132.0; 95% CI: 123.3, 141.1) compared with 20.2% of control patients (incidence per 100 subject-years: 122.3; 95% CI: 109.5, 136.2).
 In controlled and uncontrolled portions of the trials with a median follow-up of approximately 4 years, the incidence per 100 subject-years of infections was 81.1 events; 95% CI: 79.5, 82.8 for golimumab treated patients.
+
 In the controlled period of RA, PsA, AS, and nr-Axial SpA trials, serious infections were observed in 1.2% of golimumab-treated patients and 1.2% of control-treated patients.
 The incidence of serious infections per 100 subject-years of follow-up in the controlled period of RA, PsA, AS, and nr-Axial SpA trials was 7.3; 95% CI: 4.6, 11.1 for the golimumab 100 mg group, 2.9; 95% CI: 1.2, 6.0 for the golimumab 50 mg group and 3.6; 95% CI: 1.5, 7.0 for the placebo group.
 In the controlled period of UC trials of golimumab induction, serious infections were observed in 0.8% of golimumab-treated patients compared with 1.5% of control-treated patients.
@@ -100,7 +100,6 @@ In the controlled periods of pivotal trials and through approximately 4 years of
 Through approximately 4 years of follow-up, the incidence of non-lymphoma malignancies (excluding non-melanoma skin cancer) was similar to the general population.
 
 In the controlled and uncontrolled periods of pivotal trials with a median follow-up of up to 3 years, non-melanoma skin cancer was diagnosed in 5 placebo-treated, 10 golimumab 50 mg-treated and 31 golimumab 100 mg-treated subjects with an incidence (95% CI) per 100 subject-years of follow-up of 0.36 (0.26, 0.49) for combined golimumab and 0.87 (0.28, 2.04) for placebo.
-
 In the controlled and uncontrolled period of pivotal trials with a median follow-up of up to 3 years, malignancies besides melanoma, non-melanoma skin cancer and lymphoma were diagnosed in 5 placebo-treated, 21 golimumab 50 mg-treated and 34 golimumab 100 mg-treated subjects with an incidence (95% CI) per 100 subject-years of follow-up of 0.48 (0.36, 0.62) for combined golimumab and 0.87 (0.28, 2.04) for placebo (see section 4.4).
 
 Cases reported in clinical studies in asthma
@@ -156,3 +155,15 @@ Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+[Simponi 50 mg solution for injection in pre-filled pen.]
+
+ARs observed in clinical studies and reported from world-wide post-marketing use of golimumab are listed in Table 1.
+
+Table 1
+Rare: Lymphoma, leukaemia, melanoma, Merkel cell carcinoma
+Not known: Hepatosplenic T-cell lymphoma*
+
+[Simponi 100 mg solution for injection in pre-filled pen.]
+
+(all sentences already above)
