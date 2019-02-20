@@ -14,13 +14,9 @@ As a precautionary measure, it is preferable to avoid the use of Entyvio during 
 
 Breast-feeding
 
-It is unknown whether vedolizumab is excreted in human milk or absorbed systemically after ingestion.
-
-Available pharmacodynamic/toxicological data in animals have shown excretion of vedolizumab in milk (see section 5.3).
-
-A risk to the infants cannot be excluded.
-
-Because maternal antibodies (IgG) are excreted in breast milk, a decision must be made whether to discontinue breast-feeding or to discontinue/abstain from Entyvio therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
+Vedolizumab has been detected in human milk.
+The effect of vedolizumab on infants is unknown.
+The use of vedolizumab in lactating women should take into account the benefit of therapy to the mother and potential risks to the infant.
 
 Fertility
 

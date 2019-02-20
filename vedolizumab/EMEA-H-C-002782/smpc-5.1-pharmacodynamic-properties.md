@@ -9,10 +9,8 @@ It is a humanised monoclonal antibody that binds specifically to the α4β7 inte
 By binding to α4β7 on certain lymphocytes, vedolizumab inhibits adhesion of these cells to mucosal addressin cell adhesion molecule-1 (MAdCAM-1), but not to vascular cell adhesion molecule-1 (VCAM-1).
 MAdCAM-1 is mainly expressed on gut endothelial cells and plays a critical role in the homing of T lymphocytes to tissues within the gastrointestinal tract.
 Vedolizumab does not bind to, nor inhibit function of, the α4β1 and αEβ7 integrins.
-
 The α4β7 integrin is expressed on a discrete subset of memory T helper lymphocytes which preferentially migrate into the gastrointestinal (GI) tract and cause inflammation that is characteristic of ulcerative colitis and Crohn’s disease, both of which are chronic inflammatory immunologically mediated conditions of the GI tract.
-Vedolizumab reduces gastrointestinal inflammation in
-UC patients.
+Vedolizumab reduces gastrointestinal inflammation in UC and CD patients.
 Inhibiting the interaction of α4β7 with MAdCAM-1 with vedolizumab prevents transmigration of gut-homing memory T helper lymphocytes across the vascular endothelium into parenchymal tissue in nonhuman primates and induced a reversible 3-fold elevation of these cells in peripheral blood.
 The murine precursor of vedolizumab alleviated gastrointestinal inflammation in colitic cotton-top tamarins, a model of ulcerative colitis.
 
@@ -22,9 +20,17 @@ Vedolizumab did not affect immune surveillance and inflammation of the central n
 Vedolizumab did not affect immune responses to antigenic challenge in the dermis and muscle (see section 4.4).
 In contrast, vedolizumab inhibited an immune response to a gastrointestinal antigenic challenge in healthy human volunteers (see section 4.4).
 
+Immunogenicity
+
+Antibodies to vedolizumab may develop during vedolizumab treatment most of which are neutralising.
+The formation of anti-vedolizumab antibodies is associated with increased clearance of vedolizumab and lower rates of clinical remission.
+
+Infusion related reactions after vedolizumab infusion are reported in subjects with anti-vedolizumab antibodies.
+
 Pharmacodynamic effects
 
 In clinical trials with vedolizumab at doses ranging from 2 to 10 mg/kg, > 95% saturation of α4β7 receptors on subsets of circulating lymphocytes involved in gut immune surveillance was observed in patients.
+
 Vedolizumab did not affect CD4+ and CD8+ trafficking into the CNS as evidenced by the lack of change in the ratio of CD4+/CD8+ in cerebrospinal fluid pre- and post-vedolizumab administration in healthy human volunteers.
 These data are consistent with investigations in nonhuman primates which did not detect effects on immune surveillance of the CNS.
 
@@ -73,17 +79,16 @@ Durable clinical response¶ 24% 57%† 52%†
 Mucosal healing 20% 52%† 56%†
 Durable clinical remission# 9% 20%§ 24%‡
 Corticosteroid-free clinical remission♠ 14% 31%§ 45%†
-*The placebo group includes those subjects who received vedolizumab at week 0 and week 2, and
-were randomised to receive placebo from week 6 through week 52.
+*The placebo group includes those subjects who received vedolizumab at week 0 and week 2, and were
+randomised to receive placebo from week 6 through week 52.
 †p < 0.0001
 ‡p < 0.001
 §p < 0.05
 ¶Durable clinical response: Clinical response at weeks 6 and 52
 #Durable clinical remission: Clinical remission at weeks 6 and 52
-♠Corticosteroid-free clinical remission: Patients using oral corticosteroids at baseline who had
-discontinued corticosteroids beginning at week 6 and were in clinical remission at week 52.
-Patient numbers were n = 72 for placebo, n = 70 for vedolizumab every eight weeks, and n = 73
-for vedolizumab every four weeks
+♠Corticosteroid-free clinical remission: Patients using oral corticosteroids at baseline who had discontinued
+corticosteroids beginning at week 6 and were in clinical remission at week 52. Patient numbers were n = 72
+for placebo, n = 70 for vedolizumab every eight weeks, and n = 73 for vedolizumab every four weeks
 
 Exploratory analyses provide additional data on key subpopulations studied.
 Approximately one-third of patients had failed prior TNFα antagonist therapy.
@@ -99,10 +104,11 @@ In these patients, clinical remission was achieved in 25% of patients at week 28
 Patients who achieved a clinical response after receiving vedolizumab at week 0 and 2 and were then randomised to placebo (for 6 to 52 weeks) and lost response were allowed to enter the open-label extension study and receive vedolizumab every four weeks.
 In these patients, clinical remission was achieved in 45% of patients by 28 weeks and 36% of patients by 52 weeks.
 
-In this open-label extension study, the benefits of vedolizumab treatment as assessed by partial Mayo score, clinical remission, and clinical response were shown for up to 124 weeks.
+In this open-label extension study, the benefits of vedolizumab treatment as assessed by partial Mayo score, clinical remission, and clinical response were shown for up to 196 weeks.
 
 Health-related quality of life (HRQOL) was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ), a disease specific instrument, and SF-36 and EQ-5D, which are general measures.
 Exploratory analysis show clinically meaningful improvements were observed for vedolizumab groups, and the improvements were significantly greater as compared with the placebo group at week 6 and week 52 on EQ-5D and EQ-5D VAS scores, all subscales of IBDQ (bowel symptoms, systemic function, emotional function and social function), and all subscales of SF-36 including the Physical Component Summary (PCS) and Mental Component Summary (MCS).
+
 Crohn’s disease
 
 The efficacy and safety of vedolizumab for the treatment of adult patients with moderately to severely active Crohn’s disease (Crohn’s Disease Activity Index [CDAI] score of 220 to 450) were evaluated in two studies (GEMINI II and III).
@@ -196,8 +202,7 @@ Durable clinical remission¶ 14% 21% 16%
 ‡p < 0.05
 §Corticosteroid-free clinical remission: Patients using oral corticosteroids at baseline who had discontinued corticosteroids beginning at week 6 and were in clinical remission at week 52.
 Patient numbers were n = 82 for placebo, n = 82 for vedolizumab every eight weeks, and n = 80 for vedolizumab every four weeks
-¶Durable clinical remission: Clinical remission at ≥ 80% of study visits including final visit
-(week 52)
+¶Durable clinical remission: Clinical remission at ≥ 80% of study visits including final visit (week 52)
 
 Exploratory analyses examined the effects of concomitant corticosteroids and immunomodulators on induction of remission with vedolizumab.
 Combination treatment, most notably with concomitant corticosteroids, appeared to be more effective in inducing remission in Crohn’s disease than vedolizumab alone or with concomitant immunomodulators, which showed a smaller difference from placebo in the rate of remission.
@@ -217,10 +222,10 @@ Analyses of week 52 clinical remission in patients who were non-responders at we
 
 Patients who lost response to vedolizumab when treated every eight weeks in GEMINI II were allowed to enter an open-label extension study and received vedolizumab every four weeks.
 In these patients, clinical remission was achieved in 23% of patients at week 28 and 32% of patients at week 52.
+
 Patients who achieved a clinical response after receiving vedolizumab at week 0 and 2 and were then randomised to placebo (for 6 to 52 weeks) and lost response were allowed to enter the open-label extension study and receive vedolizumab every four weeks.
 In these patients, clinical remission was achieved in 46% of patients by 28 weeks and 41% of patients by 52 weeks.
-
-In this open-label extension study, clinical remission and clinical response were observed in patients for up to 124 weeks.
+In this open-label extension study, clinical remission and clinical response were observed in patients for up to 196 weeks.
 
 Exploratory analysis showed clinically meaningful improvements were observed for the vedolizumab every four weeks and every eight weeks groups in GEMINI II and the improvements were significantly greater as compared with the placebo group from baseline to week 52 on EQ-5D and EQ-5D VAS scores, total IBDQ score, and IBDQ subscales of bowel symptoms and systemic function.
 

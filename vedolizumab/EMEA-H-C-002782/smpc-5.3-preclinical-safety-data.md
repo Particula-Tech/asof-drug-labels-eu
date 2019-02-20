@@ -12,4 +12,3 @@ Given the lack of binding of vedolizumab to male reproductive tissue in monkey a
 
 Administration of vedolizumab to pregnant cynomolgus monkeys during most of gestation resulted in no evidence of effects on teratogenicity, prenatal or postnatal development in infants up to 6 months of age.
 Low levels (< 300 mcg/L) of vedolizumab were detected on post-partum day 28 in the milk of 3 of 11 cynomolgus monkeys treated 100 mg/kg of vedolizumab dosed every 2 weeks and not in any animals that received 10 mg/kg.
-It is not known whether vedolizumab is excreted in human milk.

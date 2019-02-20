@@ -9,7 +9,7 @@ Ulcerative colitis
 
 The recommended dose regimen of Entyvio is 300 mg administered by intravenous infusion at zero, two and six weeks and then every eight weeks thereafter.
 
-Continued therapy for patients with ulcerative colitis should be carefully reconsidered if no evidence of therapeutic benefit is observed by week 10 (see section 5.1).
+Therapy for patients with ulcerative colitis should be discontinued if no evidence of therapeutic benefit is observed by week 10 (see section 5.1).
 Some patients who have experienced a decrease in their response may benefit from an increase in dosing frequency to Entyvio 300 mg every four weeks.
 
 In patients who have responded to treatment with Entyvio, corticosteroids may be reduced and/or discontinued in accordance with standard of care.
@@ -26,7 +26,7 @@ The recommended dose regimen of Entyvio is 300 mg administered by intravenous in
 
 Patients with Crohn’s disease, who have not shown a response may benefit from a dose of Entyvio at week 10 (see section 4.4).
 Therapy should be continued every eight weeks from week 14 in responding patients.
-Therapy for patients with Crohn’s disease should not be continued if no evidence of therapeutic benefit is observed by week 14 (see section 5.1).
+Therapy for patients with Crohn’s disease should be discontinued if no evidence of therapeutic benefit is observed by week 14 (see section 5.1).
 
 Some patients who have experienced a decrease in their response may benefit from an increase in dosing frequency to Entyvio 300 mg every four weeks.
 

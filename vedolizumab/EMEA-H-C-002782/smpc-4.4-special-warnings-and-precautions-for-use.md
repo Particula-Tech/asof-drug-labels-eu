@@ -29,10 +29,10 @@ Before starting treatment with vedolizumab, patients must be screened for tuberc
 If latent tuberculosis is diagnosed, appropriate treatment must be started with anti-tuberculosis treatment in accordance with local recommendations, before beginning vedolizumab.
 In patients diagnosed with TB whilst receiving vedolizumab therapy, then vedolizumab therapy should be discontinued until the TB infection has been resolved.
 Some integrin antagonists and some systemic immunosuppressive agents have been associated with progressive multifocal leukoencephalopathy (PML), which is a rare and often fatal opportunistic infection caused by the John Cunningham (JC) virus.
-By binding to the α4β7 integrin expressed on gut-homing lymphocytes, vedolizumab exerts an immunosuppressive effect on the gut.
+By binding to the α4β7 integrin expressed on gut-homing lymphocytes, vedolizumab exerts an immunosuppressive effect specific to the gut.
 Although no systemic immunosuppressive effect was noted in healthy subjects the effects on systemic immune system function in patients with inflammatory bowel disease is not known.
 
-No cases of PML were reported in clinical studies of vedolizumab however, healthcare professionals should monitor patients on vedolizumab for any new onset or worsening of neurological signs and symptoms as outlined in physician education materials, and consider neurological referral if they occur.
+Healthcare professionals should monitor patients on vedolizumab for any new onset or worsening of neurological signs and symptoms as outlined in physician education materials, and consider neurological referral if they occur.
 The patient is to be given a Patient Alert Card (see section 4.2).
 If PML is suspected, treatment with vedolizumab must be withheld; if confirmed, treatment must be permanently discontinued.
 

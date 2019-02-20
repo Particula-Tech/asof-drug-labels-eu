@@ -21,11 +21,12 @@ Elimination
 
 Population pharmacokinetic analyses indicate that vedolizumab has a total body clearance of approximately 0.157 L/day and a serum half-life of 25 days.
 The exact elimination route of vedolizumab is not known.
-Population pharmacokinetic analyses suggest that while low albumin, higher body weight, prior treatment with anti-TNF drugs and presence of anti-vedolizumab antibody may increase vedolizumab clearance, the magnitude of their effects is not considered to be clinically relevant.
+Population pharmacokinetic analyses suggest that while low albumin, higher body weight and prior treatment with anti-TNF drugs may increase vedolizumab clearance, the magnitude of their effects is not considered to be clinically relevant.
 
 Linearity
 
 Vedolizumab exhibited linear pharmacokinetics at serum concentrations greater than 1 mcg/mL.
+
 Special populations
 
 Age does not impact the vedolizumab clearance in ulcerative colitis and Crohn’s disease patients based on the population pharmacokinetic analyses.

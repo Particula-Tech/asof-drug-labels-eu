@@ -29,8 +29,8 @@ Do not add other medicinal products to the prepared infusion solution or intrave
 Administer the infusion solution over 30 minutes (see section 4.2).
 
 Once reconstituted, the infusion solution should be used as soon as possible.
-Do not store any unused portion of the reconstituted solution or infusion solution for reuse.
 
+Do not store any unused portion of the reconstituted solution or infusion solution for reuse.
 Each vial is for single-use only.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
