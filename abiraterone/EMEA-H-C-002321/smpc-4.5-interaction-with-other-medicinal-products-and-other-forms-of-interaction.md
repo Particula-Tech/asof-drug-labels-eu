@@ -3,6 +3,7 @@
 Effect of food on abiraterone acetate
 Administration with food significantly increases the absorption of abiraterone acetate.
 The efficacy and safety when given with food have not been established therefore this medicinal product must not be taken with food (see sections 4.2 and 5.2).
+
 Interactions with other medicinal products
 Potential for other medicinal products to affect abiraterone exposures
 In a clinical pharmacokinetic interaction study of healthy subjects pretreated with a strong CYP3A4 inducer rifampicin, 600 mg daily for 6 days followed by a single dose of abiraterone acetate 1,000 mg, the mean plasma AUC∞of abiraterone was decreased by 55%.

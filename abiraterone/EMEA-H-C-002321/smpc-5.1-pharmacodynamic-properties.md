@@ -29,6 +29,7 @@ Study 302 enrolled docetaxel naïve patients; whereas, study 301 enrolled patien
 Patients were using an LHRH analogue or were previously treated with orchiectomy.
 In the active treatment arm, ZYTIGA was administered at a dose of 1,000 mg daily in combination with low dose prednisone or prednisolone 5 mg twice daily.
 Control patients received placebo and low dose prednisone or prednisolone 5 mg twice daily.
+
 Changes in PSA serum concentration independently do not always predict clinical benefit.
 Therefore, in all studies it was recommended that patients be maintained on their study treatments until discontinuation criteria were met as specified below for each study.
 
@@ -94,13 +95,14 @@ In addition to the observed improvements in overall survival and rPFS, benefit w
 Time to skeletal-related event (SRE): There was a 30% reduction in the risk of skeletal-related events (HR = 0.703; 95% CI: [0.539, 0.916], p = 0.0086).
 The median time to SRE has not been reached for the ZYTIGA or placebo study arm.
 
-Time to PSA progression based on PCWG2 criteria: The median time to PSA progression was 33.2 months for patients receiving ZYTIGA and 7.4 months for patients receiving placebo (HR = 0.299; 95% CI: [0.255, 0.352], p <0.0001).
+Time to PSA progression based on PCWG2 criteria: The median time to PSA progression was 33.2 months for patients receiving ZYTIGA and 7.4 months for patients receiving placebo
+(HR = 0.299; 95% CI: [0.255, 0.352], p <0.0001).
 
 Time to subsequent therapy: The median time to subsequent therapy at the time of interim analysis was not reached for patients receiving ZYTIGA and was 21.6 months for patients receiving placebo (HR = 0.415; 95% CI: [0.346, 0.497], p <0.0001).
 
 Time to initiation of chemotherapy: The median time to initiation of chemotherapy was not reached for patients receiving ZYTIGA and was 38.9 months for patients receiving placebo (HR = 0.443; 95% CI: [0.349, 0.561], p < 0.0001).
-Time to pain progression: The median time to pain progression was not reached for patients receiving ZYTIGA and was 16.6 months for patients receiving placebo (HR = 0.695; 95% CI: [0.583, 0.829], p <0.0001).
 
+Time to pain progression: The median time to pain progression was not reached for patients receiving ZYTIGA and was 16.6 months for patients receiving placebo (HR = 0.695; 95% CI: [0.583, 0.829], p <0.0001).
 The majority of exploratory endpoints favored treatment with abiraterone acetate and prednisone (AA-P) over Placebo.
 
 Study 302 (chemotherapy naïve patients)

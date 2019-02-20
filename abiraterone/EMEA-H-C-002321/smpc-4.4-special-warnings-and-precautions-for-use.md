@@ -61,13 +61,16 @@ Potential risks
 Anaemia and sexual dysfunction may occur in men with metastatic prostate cancer including those undergoing treatment with ZYTIGA.
 
 Skeletal muscle effects
-Cases of myopathy have been reported in patients treated with ZYTIGA.
-Some patients had rhabdomyolysis with renal failure.
-Most cases developed within the first month of treatment and recovered after ZYTIGA withdrawal.
+Cases of myopathy and rhabdomyolysis have been reported in patients treated with ZYTIGA.
+Most cases developed within the first 6 months of treatment and recovered after ZYTIGA withdrawal.
 Caution is recommended in patients concomitantly treated with medicinal products known to be associated with myopathy/rhabdomyolysis.
 
 Interactions with other medicinal products
 Strong inducers of CYP3A4 during treatment are to be avoided unless there is no therapeutic alternative, due to risk of decreased exposure to abiraterone (see section 4.5).
+
+Combination of abiraterone and prednisone/prednisolone with Ra-223
+Treatment with abiraterone and prednisone/prednisolone in combination with Ra-223 is contraindicated (see section 4.3) due to an increased risk of fractures and a trend for increased mortality among asymptomatic or mildly symptomatic prostate cancer patients as observed in clinical trials.
+It is recommended that subsequent treatment with Ra-223 is not initiated for at least 5 days after the last administration of ZYTIGA in combination with prednisone/prednisolone.
 
 [ZYTIGA 500 mg film-coated tablets]
 

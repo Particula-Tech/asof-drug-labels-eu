@@ -9,7 +9,6 @@ In Phase 3 studies, anticipated mineralocorticoid adverse reactions were seen mo
 In patients treated with abiraterone acetate, CTCAE (version 4.0) Grades 3 and 4 hypokalaemia were observed in 6% and 2% of patients, CTCAE (version 4.0) Grades 3 and 4 hypertension were observed in 8% and 5% of patients, and fluid retention (peripheral oedema) Grades 3 and 4 were observed in 1% and 1% of patients, respectively.
 Mineralocorticoid reactions generally were able to be successfully managed medically.
 Concomitant use of a corticosteroid reduces the incidence and severity of these adverse reactions (see section 4.4).
-
 Tabulated list of adverse reactions
 In studies of patients with metastatic advanced prostate cancer who were using an LHRH analogue, or were previously treated with orchiectomy, ZYTIGA was administered at a dose of 1,000 mg daily in combination with low dose prednisone or prednisolone (either 5 or 10 mg daily depending on the indication).
 
@@ -43,12 +42,12 @@ Table 1: Adverse reactions identified in clinical studies and post-marketing
 The following CTCAE (version 4.0) Grade 3 adverse reactions occurred in patients treated with abiraterone acetate: hypokalaemia 5%; urinary tract infection 2%; alanine aminotransferase increased and/or aspartate aminotransferase increased 4%; hypertension 6%; fractures 2%; peripheral oedema, cardiac failure, and atrial fibrillation 1% each.
 CTCAE (version 4.0) Grade 3 hypertriglyceridaemia and angina pectoris occurred in < 1% of patients.
 CTCAE (version 4.0) Grade 4 urinary tract infection, alanine aminotransferase increased and/or aspartate aminotransferase increased, hypokalemia, cardiac failure, atrial fibrillation, and fractures occurred in < 1% of patients.
-
 A higher incidence of hypertension and hypokalemia was observed in the hormone sensitive population (study 3011).
 Hypertension was reported in 36.7% of patients in the hormone sensitive population (study 3011) compared to 11.8% and 20.2% in studies 301 and 302, respectively.
 Hypokalemia was observed in 20.4% of patients in the hormone sensitive population (study 3011) compared to 19.2% and 14.9% in 301 and 302, respectively).
 
 The incidence and severity of adverse events was higher in the subgroup of patients with baseline ECOG2 performance status grade and also in elderly patients (≥75 years).
+
 Description of selected adverse reactions
 Cardiovascular reactions
 The three Phase 3 studies excluded patients with uncontrolled hypertension, clinically significant heart disease as evidenced by myocardial infarction, or arterial thrombotic events in the past 6 months, severe or unstable angina, or NYHA Class III or IV heart failure (study 301) or Class II to IV heart failure (studies 3011 and 302) or cardiac ejection fraction measurement of < 50%.
