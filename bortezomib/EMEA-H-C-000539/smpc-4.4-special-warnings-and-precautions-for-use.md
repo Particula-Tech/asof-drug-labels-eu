@@ -19,18 +19,17 @@ In studies in patients with relapsed multiple myeloma treated with VELCADE and i
 Platelets were lowest at Day 11 of each cycle of VELCADE treatment and typically recovered to baseline by the next cycle.
 There was no evidence of cumulative thrombocytopenia.
 The mean platelet count nadir measured was approximately 40% of baseline in the single-agent multiple myeloma studies and 50% in the MCL study.
-In patients with advanced myeloma the severity of thrombocytopenia was related to pre-treatment platelet count: for baseline platelet counts < 75,000/μl, 90% of 21 patients had a count
-≤ 25,000/μl during the study, including 14% < 10,000/μl; in contrast, with a baseline platelet count
-> 75,000/μl, only 14% of 309 patients had a count ≤ 25,000/μl during the study.
+In patients with advanced myeloma the severity of thrombocytopenia was related to pre-treatment platelet count: for baseline platelet counts < 75,000/μl, 90% of 21 patients had a count ≤25,000/μl during the study, including 14% < 10,000/μl; in contrast, with a baseline platelet count
+> 75,000/μl, only 14% of 309 patients had a count ≤25,000/μl during the study.
 
 In patients with MCL (study LYM-3002), there was a higher incidence (56.7% versus 5.8%) of
-Grade ≥ 3 thrombocytopenia in the VELCADE treatment group (VcR-CAP) as compared to the non-VELCADE treatment group (rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone [R-CHOP]).
+Grade ≥3 thrombocytopenia in the VELCADE treatment group (VcR-CAP) as compared to the non-VELCADE treatment group (rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone [R-CHOP]).
 The two treatment groups were similar with regard to the overall incidence of all-grade bleeding events (6.3% in the VcR-CAP group and 5.0% in the R-CHOP group) as well as Grade 3 and higher bleeding events (VcR-CAP: 4 patients [1.7%]; R-CHOP: 3 patients [1.2%]).
 In the VcR-CAP group, 22.5% of patients received platelet transfusions compared to 2.9% of patients in the R-CHOP group.
 
 Gastrointestinal and intracerebral haemorrhage, have been reported in association with VELCADE treatment.
 Therefore, platelet counts should be monitored prior to each dose of VELCADE.
-VELCADE therapy should be withheld when the platelet count is < 25,000/μl or, in the case of combination with melphalan and prednisone, when the platelet count is ≤ 30,000/μl (see section 4.2).
+VELCADE therapy should be withheld when the platelet count is < 25,000/μl or, in the case of combination with melphalan and prednisone, when the platelet count is ≤30,000/μl (see section 4.2).
 Potential benefit of the treatment should be carefully weighed against the risks, particularly in case of moderate to severe thrombocytopenia and risk factors for bleeding.
 
 Complete blood counts (CBC) with differential and including platelet counts should be frequently monitored throughout treatment with VELCADE.
@@ -147,7 +146,7 @@ Bortezomib should be discontinued if serious reactions occur.
 
 [VELCADE 3.5 mg powder for solution for injection]
 
-In the Phase III study comparing VELCADE administered intravenously versus subcutaneously, the incidence of Grade ≥ 2 peripheral neuropathy events was 24% for the subcutaneous injection group and 41% for the intravenous injection group (p=0.0124).
-Grade ≥ 3 peripheral neuropathy occurred in 6% of patients in the subcutaneous treatment group, compared with 16% in the intravenous treatment group (p=0.0264).
+In the Phase III study comparing VELCADE administered intravenously versus subcutaneously, the incidence of Grade ≥2 peripheral neuropathy events was 24% for the subcutaneous injection group and 41% for the intravenous injection group (p=0.0124).
+Grade ≥3 peripheral neuropathy occurred in 6% of patients in the subcutaneous treatment group, compared with 16% in the intravenous treatment group (p=0.0264).
 The incidence of all grade peripheral neuropathy with VELCADE administered intravenously was lower in the historical studies with VELCADE administered intravenously than in study MMY-3021.
 Patients experiencing new or worsening peripheral neuropathy should undergo neurological evaluation and may require a change in the dose, schedule or route of administration to subcutaneous (see section 4.2).

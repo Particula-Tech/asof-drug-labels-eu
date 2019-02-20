@@ -32,7 +32,7 @@ Table 1: Recommended* posology modifications for bortezomib-related neuropathy
 
 * Based on posology modifications in Phase II and III multiple myeloma studies and post-marketing experience.
 Grading based on NCI Common Toxicity Criteria CTCAE v 4.0.
-** Instrumental ADL: refers to preparing meals, shopping for groceries or clothes, using telephone, managing money, etc; *** Self care ADL: refers to bathing, dressing and undressing, feeding self, using the toilet, taking medicinal products, and not bedridden.
+** Instrumental ADL: refers to preparing meals, shopping for groceries or clothes, using telephone, managing money, etc; ***Self care ADL: refers to bathing, dressing and undressing, feeding self, using the toilet, taking medicinal products, and not bedridden.
 
 Combination therapy with pegylated liposomal doxorubicin
 VELCADE 1 mg powder for solution for injection is administered via intravenous injection at the recommended dose of 1.3 mg/m2 body surface area twice weekly for two weeks on days 1, 4, 8, and 11 in a 21-day treatment cycle.
@@ -85,7 +85,7 @@ Once weekly VELCADE (cycles 5-9)
 Dose adjustments during treatment and re-initiation of treatment for combination therapy with melphalan and prednisone
 Prior to initiating a new cycle of therapy:
 
-- Platelet counts should be ≥ 70 x 109/l and the absolute neutrophils count should be ≥ 1.0 x 109/l
+- Platelet counts should be ≥70 x 109/l and the absolute neutrophils count should be ≥1.0 x 109/l
 - Non-haematological toxicities should have resolved to Grade 1 or baseline
 
 Table 3: Posology modifications during subsequent cycles of VELCADE therapy in combination with melphalan and prednisone
@@ -93,9 +93,9 @@ Table 3: Posology modifications during subsequent cycles of VELCADE therapy in c
 | Toxicity | Posology modification or delay |
 | --- | --- |
 | Haematological toxicity during a cycle • If prolonged Grade 4 neutropenia or thrombocytopenia, or thrombocytopenia with bleeding is observed in the previous cycle | Consider reduction of the melphalan dose by 25% in the next cycle. |
-| • If platelet counts ≤ 30 x 109/l or ANC ≤ 0.75 x 109/l on a VELCADE dosing day (other than day 1) | VELCADE therapy should be withheld |
-| • If several VELCADE doses in a cycle are withheld (≥ 3 doses during twice weekly administration or ≥ 2 doses during weekly administration) | VELCADE dose should be reduced by 1 dose level (from 1.3 mg/m2 to 1 mg/m2, or from 1 mg/m2 to 0.7 mg/m2) |
-| Grade ≥ 3 non-haematological toxicities | VELCADE therapy should be withheld until symptoms of the toxicity have resolved to Grade 1 or baseline. Then, VELCADE may be reinitiated with one dose level reduction (from 1.3 mg/m2 to 1 mg/m2, or from 1 mg/m2 to 0.7 mg/m2). For VELCADE-related neuropathic pain and/or peripheral neuropathy, hold and/or modify VELCADE as outlined in Table 1. |
+| • If platelet counts ≤30 x 109/l or ANC ≤0.75 x 109/l on a VELCADE dosing day (other than day 1) | VELCADE therapy should be withheld |
+| • If several VELCADE doses in a cycle are withheld (≥3 doses during twice weekly administration or ≥2 doses during weekly administration) | VELCADE dose should be reduced by 1 dose level (from 1.3 mg/m2 to 1 mg/m2, or from 1 mg/m2 to 0.7 mg/m2) |
+| Grade ≥3 non-haematological toxicities | VELCADE therapy should be withheld until symptoms of the toxicity have resolved to Grade 1 or baseline. Then, VELCADE may be reinitiated with one dose level reduction (from 1.3 mg/m2 to 1 mg/m2, or from 1 mg/m2 to 0.7 mg/m2). For VELCADE-related neuropathic pain and/or peripheral neuropathy, hold and/or modify VELCADE as outlined in Table 1. |
 
 For additional information concerning melphalan and prednisone, see the corresponding Summary of Product Characteristics.
 
@@ -154,12 +154,12 @@ Prednisone is administered orally at 100 mg/m2 on days 1, 2, 3, 4 and 5 of each 
 Dose adjustments during treatment for patients with previously untreated mantle cell lymphoma
 Prior to initiating a new cycle of therapy:
 
-- Platelet counts should be ≥ 100,000 cells/μL and the absolute neutrophils count (ANC) should be ≥ 1,500 cells/μL
-- Platelet counts should be ≥ 75,000 cells/μL in patients with bone marrow infiltration or splenic sequestration
-- Haemoglobin ≥ 8 g/dL
+- Platelet counts should be ≥100,000 cells/μL and the absolute neutrophils count (ANC) should be ≥1,500 cells/μL
+- Platelet counts should be ≥75,000 cells/μL in patients with bone marrow infiltration or splenic sequestration
+- Haemoglobin ≥8 g/dL
 - Non-haematological toxicities should have resolved to Grade 1 or baseline.
 
-VELCADE treatment must be withheld at the onset of any ≥ Grade 3 VELCADE-related non-haematological toxicities (excluding neuropathy) or ≥ Grade 3 haematological toxicities (see also section 4.4).
+VELCADE treatment must be withheld at the onset of any ≥Grade 3 VELCADE-related non-haematological toxicities (excluding neuropathy) or ≥Grade 3 haematological toxicities (see also section 4.4).
 For dose adjustments, see Table 5 below.
 Granulocyte colony stimulating factors may be administered for haematologic toxicity according to local standard practice.
 Prophylactic use of granulocyte colony stimulating factors should be considered in case of repeated delays in cycle administration.
@@ -169,9 +169,9 @@ Table 5: Dose adjustments during treatment for patients with previously untreate
 | Toxicity | Posology modification or delay |
 | --- | --- |
 | Haematological toxicity |  |
-| • ≥ Grade 3 neutropenia with fever, Grade 4 neutropenia lasting more than 7 days, a platelet count < 10,000 cells/μL | VELCADE therapy should be withheld for up to 2 weeks until the patient has an ANC ≥ 750 cells/μL and a platelet count ≥ 25,000 cells/μL. • If, after VELCADE has been held, the toxicity does not resolve, as defined above, then VELCADE must be discontinued. • If toxicity resolves i.e. patient has an ANC ≥ 750 cells/μL and a platelet count ≥ 25,000 cells/μL, VELCADE may be reinitiated at a dose reduced by one dose level (from 1.3 mg/m2 to 1 mg/m2, or from 1 mg/m2 to 0.7 mg/m2). |
+| • ≥Grade 3 neutropenia with fever, Grade 4 neutropenia lasting more than 7 days, a platelet count < 10,000 cells/μL | VELCADE therapy should be withheld for up to 2 weeks until the patient has an ANC ≥750 cells/μL and a platelet count ≥25,000 cells/μL. • If, after VELCADE has been held, the toxicity does not resolve, as defined above, then VELCADE must be discontinued. • If toxicity resolves i.e. patient has an ANC ≥750 cells/μL and a platelet count ≥25,000 cells/μL, VELCADE may be reinitiated at a dose reduced by one dose level (from 1.3 mg/m2 to 1 mg/m2, or from 1 mg/m2 to 0.7 mg/m2). |
 | • If platelet counts < 25,000 cells/μL. or ANC < 750 cells/μL on a VELCADE dosing day (other than Day 1 of each cycle) | VELCADE therapy should be withheld |
-| Grade ≥ 3 non-haematological toxicities considered to be related to VELCADE | VELCADE therapy should be withheld until symptoms of the toxicity have resolved to Grade 2 or better. Then, VELCADE may be reinitiated at a dose reduced by one dose level (from 1.3 mg/m2 to 1 mg/m2, or from 1 mg/m2 to 0.7 mg/m2). For VELCADE-related neuropathic pain and/or peripheral neuropathy, hold and/or modify VELCADE as outlined in Table 1. |
+| Grade ≥3 non-haematological toxicities considered to be related to VELCADE | VELCADE therapy should be withheld until symptoms of the toxicity have resolved to Grade 2 or better. Then, VELCADE may be reinitiated at a dose reduced by one dose level (from 1.3 mg/m2 to 1 mg/m2, or from 1 mg/m2 to 0.7 mg/m2). For VELCADE-related neuropathic pain and/or peripheral neuropathy, hold and/or modify VELCADE as outlined in Table 1. |
 
 In addition, when VELCADE is given in combination with other chemotherapeutic medicinal products, appropriate dose reductions for these medicinal products should be considered in the event of toxicities, according to the recommendations in the respective Summary of Product Characteristics.
 
@@ -181,8 +181,8 @@ Elderly
 There is no evidence to suggest that dose adjustments are necessary in patients over 65 years of age with multiple myeloma or with mantle cell lymphoma.
 There are no studies on the use of VELCADE in elderly patients with previously untreated multiple myeloma who are eligible for high-dose chemotherapy with haematopoietic stem cell transplantation.
 Therefore no dose recommendations can be made in this population.
-In a study in previously untreated mantle cell lymphoma patients, 42.9% and 10.4% of patients exposed to VELCADE were in the range 65-74 years and ≥ 75 years of age, respectively.
-In patients aged ≥ 75 years, both regimens, VcR-CAP as well as R-CHOP, were less tolerated (see section 4.8).
+In a study in previously untreated mantle cell lymphoma patients, 42.9% and 10.4% of patients exposed to VELCADE were in the range 65-74 years and ≥75 years of age, respectively.
+In patients aged ≥75 years, both regimens, VcR-CAP as well as R-CHOP, were less tolerated (see section 4.8).
 
 Hepatic impairment
 Patients with mild hepatic impairment do not require a dose adjustment and should be treated per the recommended dose.
@@ -191,7 +191,7 @@ Table 6: Recommended starting dose modification for VELCADE in patients with hep
 
 | Grade of hepatic impairment* | Bilirubin level | SGOT (AST) levels | Modification of starting dose |
 | --- | --- | --- | --- |
-| Mild | ≤ 1.0 x ULN | > ULN | None |
+| Mild | ≤1.0 x ULN | > ULN | None |
 |  | > 1.0 x −1.5 x ULN | Any | None |
 | Moderate | > 1.5 x −3 x ULN | Any | Reduce VELCADE to 0.7 mg/m2 in the first treatment cycle. Consider dose escalation to 1.0 mg/m2 or further dose reduction to 0.5 mg/m2 in subsequent cycles based on patient tolerability. |
 | Severe | > 3 x ULN | Any |  |

@@ -30,7 +30,7 @@ Treatment was administered for a maximum of 9 cycles (approximately 54 weeks) an
 The median age of the patients in the study was 71 years, 50% were male, 88% were Caucasian and the median Karnofsky performance status score for the patients was 80.
 Patients had IgG/IgA/Light chain myeloma in 63%/25%/8% instances, a median hemoglobin of 105 g/l, and a median platelet count of 221.5 x 109/l.
 Similar proportions of patients had creatinine clearance
-≤ 30 ml/min (3% in each arm).
+≤30 ml/min (3% in each arm).
 At the time of a pre-specified interim analysis, the primary endpoint, time to progression, was met and patients in the M+P arm were offered Vc+M+P treatment.
 Median follow-up was 16.3 months.
 The final survival update was performed with a median duration of follow-up of 60.1 months.
@@ -154,7 +154,7 @@ Table 14: Summary of disease outcomes from the Phase III (APEX) and Phase II stu
 
 |  | Phase III |  | Phase III |  | Phase III |  | Phase II |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | All patients |  | 1 prior line of therapy |  | > 1 prior line of therapy |  | ≥ 2 prior lines |
+|  | All patients |  | 1 prior line of therapy |  | > 1 prior line of therapy |  | ≥2 prior lines |
 | Time related events | Vc n=333a | Dex n=336a | Vc n=132a | Dex n=119a | Vc n=200a | Dex n=217a | Vc n=202a |
 | TTP, days [95% CI] | 189b [148, 211] | 106b [86, 128] | 212d [188, 267] | 169d [105, 191] | 148b [129, 192] | 87b [84, 107] | 210 [154, 281] |
 | 1 year survival, % [95% CI] | 80d [74,85] | 66d [59,72] | 89d [82,95] | 72d [62,83] | 73 [64,82] | 62 [53,71] | 60 |
@@ -166,7 +166,9 @@ Table 14: Summary of disease outcomes from the Phase III (APEX) and Phase II stu
 | Median duration Days (months) | 242 (8.0) | 169 (5.6) | 246 (8.1) | 189 (6.2) | 238 (7.8) | 126 (4.1) | 385* |
 | Time to response CR+PR (days) | 43 | 43 | 44 | 46 | 41 | 27 | 38* |
 
-a Intent to Treat (ITT) population b p-value from the stratified log-rank test; analysis by line of therapy excludes stratification for therapeutic history; p < 0.0001 c Response population includes patients who had measurable disease at baseline and received at least 1 dose of study medicinal product.
+a
+Intent to Treat (ITT) population b p-value from the stratified log-rank test; analysis by line of therapy excludes stratification for therapeutic history; p < 0.0001 c
+Response population includes patients who had measurable disease at baseline and received at least 1 dose of study medicinal product.
 d p-value from the Cochran Mantel-Haenszel chi-square test adjusted for the stratification factors; analysis by line of therapy excludes stratification for therapeutic history
 * CR+PR+MR **CR=CR, (IF-); nCR=CR (IF+)
 NA=not applicable, NE=not estimated
@@ -180,7 +182,7 @@ In the Phase II study, patients who did not obtain an optimal response to therap
 The protocol allowed patients to receive dexamethasone if they had had a less than optimal response to VELCADE alone.
 A total of 74 evaluable patients were administered dexamethasone in combination with VELCADE.
 Eighteen percent of patients achieved, or had an improved response [MR (11%) or PR (7%)] with combination treatment.
-VELCADE combination treatment with pegylated liposomal doxorubicin (study DOXIL MMY-3001)
+VELCADE combination treatment with pegylated liposomal doxorubicin (study DOXIL-MMY-3001)
 A Phase III randomised, parallel-group, open-label, multicentre study was conducted in 646 patients comparing the safety and efficacy of VELCADE plus pegylated liposomal doxorubicin versus VELCADE monotherapy in patients with multiple myeloma who had received at least 1 prior therapy and who did not progress while receiving anthracycline-based therapy.
 The primary efficacy endpoint was TTP while the secondary efficacy endpoints were OS and ORR (CR+PR), using the European Group for Blood and Marrow Transplantation (EBMT) criteria.
 A protocol-defined interim analysis (based on 249 TTP events) triggered early study termination for efficacy.
@@ -200,8 +202,8 @@ The analysis demonstrated improved ORR (CR+PR) (odds ratio 3.769; 95% CI 2.045-6
 
 Limited information on VELCADE retreatment in relapsed multiple myeloma is available.
 Phase II study MMY-2036 (RETRIEVE), single arm, open-label study was conducted to determine the efficacy and safety of retreatment with VELCADE.
-One hundred and thirty patients (≥ 18 years of age) with multiple myeloma who previously had at least partial response on a VELCADE-containing regimen were retreated upon progression.
-At least 6 months after prior therapy, VELCADE was started at the last tolerated dose of 1.3 mg/m2 (n=93) or ≤ 1.0 mg/m2 (n=37) and given on days 1, 4, 8 and 11 every 3 weeks for maximum of 8 cycles either as single agent or in combination with dexamethasone in accordance with the standard of care.
+One hundred and thirty patients (≥18 years of age) with multiple myeloma who previously had at least partial response on a VELCADE-containing regimen were retreated upon progression.
+At least 6 months after prior therapy, VELCADE was started at the last tolerated dose of 1.3 mg/m2 (n=93) or ≤1.0 mg/m2 (n=37) and given on days 1, 4, 8 and 11 every 3 weeks for maximum of 8 cycles either as single agent or in combination with dexamethasone in accordance with the standard of care.
 Dexamethasone was administered in combination with VELCADE to 83 patients in Cycle 1 with an additional 11 patients receiving dexamethasone during the course of VELCADE retreatment cycles.
 The primary endpoint was best confirmed response to retreatment as assessed by EBMT criteria.
 The overall best response rate (CR + PR), to retreatment in 130 patients was 38.5% (95% CI: 30.1, 47.4).
@@ -213,7 +215,7 @@ For patients with a response first documented at cycle 6, two additional treatme
 The primary efficacy endpoint was progression-free survival based on Independent Review Committee (IRC) assessment.
 Secondary endpoints included, time to progression (TTP), time to next anti-lymphoma treatment (TNT), duration of treatment free interval (TFI), overall response rate (ORR) and complete response (CR/CRu) rate, overall survival (OS) and response duration.
 
-The demographic and baseline disease characteristics were generally well balanced between the two treatment arms: median patient age was 66 years, 74% were male, 66% were Caucasian and 32% Asian, 69% of patients had a positive bone marrow aspirate and/or a positive bone marrow biopsy for MCL, 54% of patients had an International Prognostic Index (IPI) score of ≥ 3, and 76% had Stage IV disease.
+The demographic and baseline disease characteristics were generally well balanced between the two treatment arms: median patient age was 66 years, 74% were male, 66% were Caucasian and 32% Asian, 69% of patients had a positive bone marrow aspirate and/or a positive bone marrow biopsy for MCL, 54% of patients had an International Prognostic Index (IPI) score of ≥3, and 76% had Stage IV disease.
 Treatment duration (median=17 weeks) and duration of follow-up (median=40 months) were comparable in both treatment arms.
 A median of 6 cycles was received by patients in both treatment arms with 14% of subjects in the VcR-CAP group and 17% of patients in the R-CHOP group receiving 2 additional cycles.
 The majority of the patients in both groups completed treatment, 80% in the VcR-CAP group and 82% in the R-CHOP group.
@@ -232,24 +234,33 @@ Table 15: Efficacy results from study LYM-3002
 | Overall complete response (CR+CRu)f n(%) | 122 (53.3%) | 95 (41.7%) | ORe (95% CI)=1.688 (1.148; 2.481) p-valueg=0.007 |
 | Overall response (CR+CRu+PR)h n(%) | 211 (92.1%) | 204 (89.5%) | ORe (95% CI)=1.428 (0.749; 2.722) p-valueg=0.275 |
 
-a Based on Independent Review Committee (IRC) assessment (radiological data only).
-b Hazard ratio estimate is based on a Cox’s model stratified by IPI risk and stage of disease.
+a
+Based on Independent Review Committee (IRC) assessment (radiological data only).
+b
+Hazard ratio estimate is based on a Cox’s model stratified by IPI risk and stage of disease.
 A hazard ratio < 1 indicates an advantage for VcR-CAP.
-c Based on Kaplan-Meier product limit estimates.
-d Based on Log rank test stratified with IPI risk and stage of disease.
-e Mantel-Haenszel estimate of the common odds ratio for stratified tables is used, with IPI risk and stage of disease as stratification factors.
+c
+Based on Kaplan-Meier product limit estimates.
+d
+Based on Log rank test stratified with IPI risk and stage of disease.
+e
+Mantel-Haenszel estimate of the common odds ratio for stratified tables is used, with IPI risk and stage of disease as stratification factors.
 An odds ratio (OR) > 1 indicates an advantage for VcR-CAP.
-f Include all CR+CRu, by IRC, bone marrow and LDH.
-g P-value from the Cochran Mantel-Haenszel chi-square test, with IPI and stage of disease as stratification factors.
-h Include all radiological CR+CRu+PR by IRC regardless the verification by bone marrow and LDH.
+f
+Include all CR+CRu, by IRC, bone marrow and LDH.
+g
+P-value from the Cochran Mantel-Haenszel chi-square test, with IPI and stage of disease as stratification factors.
+h
+Include all radiological CR+CRu+PR by IRC regardless the verification by bone marrow and LDH.
 CR=Complete Response; CRu=Complete Response unconfirmed; PR=Partial Response; CI=Confidence Interval, HR=Hazard Ratio; OR=Odds Ratio; ITT=Intent to Treat
 
 Median PFS by investigator assessment was 30.7 months in the VcR-CAP group and 16.1 months in the R-CHOP group (Hazard Ratio [HR]=0.51; p < 0.001).
 A statistically significant benefit (p < 0.001) in favour of the VcR-CAP treatment group over the R-CHOP group was observed for TTP (median 30.5 versus 16.1 months), TNT (median 44.5 versus 24.8 months) and TFI (median 40.6 versus 20.5 months).
 The median duration of complete response was 42.1 months in the VcR-CAP group compared with 18 months in the R-CHOP group.
 The duration of overall response was 21.4 months longer in the VcR-CAP group (median 36.5 months versus 15.1 months in the R-CHOP group).
-With a median duration of follow-up of 40 months, median OS (56.3 months in the R-CHOP group, and not reached in the VcR-CAP group) favoured the VcR-CAP group, (estimated HR=0.80; p=0.173).
-There was a trend towards prolonged overall survival favouring the VcR-CAP group; the estimated 4-year survival rate was 53.9% in the R-CHOP group and 64.4% in the VcR-CAP group.
+The final analysis for OS was performed after a median follow-up of 82 months.
+Median OS was 90.7 months for the VcR-CAP group compared with 55.7 months for the R-CHOP group (HR=0.66; p=0.001).
+The observed final median difference in the OS between the 2 treatment groups was 35 months.
 
 Patients with previously treated light-chain (AL) Amyloidosis
 An open label non randomised Phase I/II study was conducted to determine the safety and efficacy of VELCADE in patients with previously treated light-chain (AL) Amyloidosis.
@@ -261,7 +272,7 @@ Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with VELCADE in all subsets of the paediatric population in multiple myeloma and in mantle cell lymphoma (see section 4.2 for information on paediatric use).
 
 A Phase II, single-arm activity, safety, and pharmacokinetic trial conducted by the Children’s Oncology Group assessed the activity of the addition of bortezomib to multi-agent re-induction chemotherapy in paediatric and young adult patients with lymphoid malignancies (pre-B cell acute lymphoblastic leukemia [ALL], T-cell ALL, and T-cell lymphoblastic lymphoma [LL]).
-An effective reinduction multiagent chemotherapy regimen was administered in 3 blocks.
+An effective re-induction multi-agent chemotherapy regimen was administered in 3 blocks.
 VELCADE was administered only in Blocks 1 and 2 to avoid potential overlapping toxicities with coadministered drugs in Block 3.
 
 Complete response (CR) was evaluated at the end of Block 1.
@@ -272,9 +283,9 @@ The reported efficacy data are considered inconclusive (see section 4.2).
 
 There were 140 patients with ALL or LL enrolled and evaluated for safety; median age was 10 years (range 1 to 26).
 No new safety concerns were observed when VELCADE was added to the standard pediatric pre-B cell ALL chemotherapy backbone.
-The following adverse reactions (Grade ≥ 3) were observed at a higher incidence in the VELCADE containing treatment regimen as compared with a historical control study in which the backbone regimen was given alone: in Block 1 peripheral sensory neuropathy (3% versus 0%); ileus (2.1% versus 0%); hypoxia (8% versus 2%).
+The following adverse reactions (Grade ≥3) were observed at a higher incidence in the VELCADE containing treatment regimen as compared with a historical control study in which the backbone regimen was given alone: in Block 1 peripheral sensory neuropathy (3% versus 0%); ileus (2.1% versus 0%); hypoxia (8% versus 2%).
 No information on possible sequelae or rates of peripheral neuropathy resolution were available in this study.
-Higher incidences were also noted for infections with Grade ≥ 3 neutropenia (24% versus 19% in Block 1 and 22% versus 11% in Block 2), increased ALT (17% versus 8% in Block 2), hypokalaemia (18% versus 6% in Block 1 and 21% versus 12% in Block 2) and hyponatraemia (12% versus 5% in Block 1 and 4% versus 0 in Block 2).
+Higher incidences were also noted for infections with Grade ≥3 neutropenia (24% versus 19% in Block 1 and 22% versus 11% in Block 2), increased ALT (17% versus 8% in Block 2), hypokalaemia (18% versus 6% in Block 1 and 21% versus 12% in Block 2) and hyponatraemia (12% versus 5% in Block 1 and 4% versus 0 in Block 2).
 
 [VELCADE 3.5 mg powder for solution for injection]
 
@@ -314,11 +325,12 @@ Clinical efficacy with subcutaneous administration of VELCADE in patients with r
 An open label, randomised, Phase III non-inferiority study compared the efficacy and safety of the subcutaneous administration of VELCADE versus the intravenous administration.
 This study included 222 patients with relapsed/refractory multiple myeloma, who were randomised in a 2:1 ratio to receive 1.3 mg/m2 of VELCADE by either the subcutaneous or intravenous route for 8 cycles.
 Patients who did not obtain an optimal response (less than Complete Response [CR]) to therapy with VELCADE alone after 4 cycles were allowed to receive dexamethasone 20 mg daily on the day of and after VELCADE administration.
-Patients with baseline Grade ≥ 2 peripheral neuropathy or platelet counts < 50,000/µl were excluded.
+Patients with baseline Grade ≥2 peripheral neuropathy or platelet counts < 50,000/µl were excluded.
 A total of 218 patients were evaluable for response.
 
 This study met its primary objective of non-inferiority for response rate (CR+PR) after 4 cycles of single agent VELCADE for both the subcutaneous and intravenous routes, 42% in both groups.
 In addition, secondary response-related and time to event related efficacy endpoints showed consistent results for subcutaneous and intravenous administration (Table 15).
+
 Table 15: Summary of efficacy analyses comparing subcutaneous and intravenous administrations of VELCADE
 
 VELCADE intravenous VELCADE
@@ -357,13 +369,8 @@ b 222 subjects were enrolled into the study; 221 subjects were treated with VELC
 d Log rank test adjusted for stratification factors: ISS staging and number of prior lines.
 e Median duration of follow up is 11.8 months
 
-VELCADE combination treatment with pegylated liposomal doxorubicin (study DOXIL-MMY-3001)
-
 Efficacy results are presented in Table 16:
+
 Table 16: Efficacy results from study LYM-3002
-
-A Phase II, single arm activity, safety, and pharmacokinetic trial conducted by the Children’s Oncology Group assessed the activity of the addition of bortezomib to multi agent re induction chemotherapy in paediatric and young adult patients with lymphoid malignancies (pre-B cell acute lymphoblastic leukemia [ALL], T-cell ALL, and T-cell lymphoblastic lymphoma [LL]).
-
-In B-ALL patients with relapse 18 36 months from diagnosis (n = 33) the CR rate was 79% (95% CI: 61, 91) and the 4-month event free survival rate was 73% (95% CI: 54, 85).
 
 No new safety concerns were observed when VELCADE was added to the standard pediatric pre B cell ALL chemotherapy backbone.
