@@ -10,13 +10,13 @@ For suspected immune-related adverse reactions, thorough evaluation to confirm a
 Based on the severity of the adverse reaction, atezolizumab should be withheld and corticosteroids administered.
 Upon improvement to Grade ≤ 1, corticosteroid should be tapered over ≥ 1 month.
 Based on limited data from clinical studies in patients whose immune-related adverse reactions could not be controlled with systemic corticosteroid use, administration of other systemic immunosuppressants may be considered.
-
 Atezolizumab must be permanently discontinued for any Grade 3 immune-related adverse reaction that recurs and for any Grade 4 immune-related adverse reactions, except for endocrinopathies that are controlled with replacement hormones (see sections 4.2 and 4.8).
 
 Immune-related pneumonitis
 
 Cases of pneumonitis, including fatal cases, have been observed in clinical trials with atezolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of pneumonitis.
+
 Treatment with atezolizumab should be withheld for Grade 2 pneumonitis, and 1 to 2 mg/kg/day prednisone or equivalent should be started.
 If symptoms improve to ≤ Grade 1, corticosteroids should be tapered over ≥ 1 month.
 Treatment with atezolizumab may be resumed if the event improves to
@@ -50,7 +50,6 @@ Once symptoms improve, treatment with 1 to 2 mg/kg/day of prednisone or equivale
 If symptoms improve to ≤ Grade 1, corticosteroids should be tapered over ≥ 1 month.
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
 Treatment with atezolizumab must be permanently discontinued for Grade 4 (life threatening; urgent intervention indicated) diarrhoea or colitis.
-
 Immune-related endocrinopathies
 
 Hypothyroidism, hyperthyroidism, adrenal insufficiency, hypophysitis and type 1 diabetes mellitus, including diabetic ketoacidosis have been observed in clinical trials with atezolizumab (see section 4.8).
@@ -58,6 +57,7 @@ Hypothyroidism, hyperthyroidism, adrenal insufficiency, hypophysitis and type 1 
 Patients should be monitored for clinical signs and symptoms of endocrinopathies.
 Thyroid function should be monitored prior to and periodically during treatment with atezolizumab.
 Appropriate management of patients with abnormal thyroid function tests at baseline should be considered.
+
 Asymptomatic patients with abnormal thyroid function tests can receive atezolizumab.
 For symptomatic hypothyroidism, atezolizumab should be withheld and thyroid hormone replacement should be initiated as needed.
 Isolated hypothyroidism may be managed with replacement therapy and without corticosteroids.
@@ -94,8 +94,7 @@ Myasthenic syndrome/myasthenia gravis or Guillain-Barré syndrome, which may be 
 Patients should be monitored for symptoms of motor and sensory neuropathy.
 
 Treatment with atezolizumab must be permanently discontinued for any grade of myasthenic syndrome / myasthenia gravis or Guillain-Barré syndrome.
-Initiation of systemic corticosteroids (at a dose of 1 to 2mg/kg/day of prednisone or equivalent) should be considered.
-
+Initiation of systemic corticosteroids (at a dose of 1 to 2 mg/kg/day of prednisone or equivalent) should be considered.
 Immune-related pancreatitis
 
 Pancreatitis, including increases in serum amylase and lipase levels, have been observed in clinical trials with atezolizumab (see section 4.8).
@@ -113,11 +112,22 @@ Myocarditis has been observed in clinical trials with atezolizumab (see section 
 Patients should be monitored for signs and symptoms of myocarditis.
 
 Treatment with atezolizumab should be withheld for Grade 2 myocarditis, and treatment with systemic corticosteroids at a dose of 1 to 2mg/kg/day of prednisone or equivalent should be started.
-Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day Treatment with atezolizumab must be permanently discontinued for Grade 3 or 4 myocarditis.
+Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
+Treatment with atezolizumab must be permanently discontinued for Grade 3 or 4 myocarditis.
+
+Immune-related nephritis
+
+Nephritis has been observed in clinical trials with atezolizumab (see section 4.8).
+Patients should be monitored for changes in renal function.
+
+Treatment with atezolizumab should be withheld for Grade 2 nephritis, and treatment with systemic corticosteroids at a dose of 1 to 2mg/kg/day of prednisone or equivalent should be started.
+Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
+Treatment with atezolizumab must be permanently discontinued for Grade 3 or 4 nephritis.
 
 Infusion-related reactions
 
 Infusion related reactions have been observed in clinical trials with atezolizumab (see section 4.8).
+
 The rate of infusion should be reduced or treatment should be interrupted in patients with Grade 1 or 2 infusion related reactions.
 Atezolizumab should be permanently discontinued in patients with Grade 3 or 4 infusion related reactions.
 Patients with Grade 1 or 2 infusion-related reactions may continue to receive atezolizumab with close monitoring; premedication with antipyretic and antihistamines may be considered.
@@ -126,7 +136,6 @@ Patients excluded from clinical trials
 
 Patients with the following conditions were excluded from clinical trials: a history of autoimmune disease, history of pneumonitis, active brain metastasis, HIV, hepatitis B or hepatitis C infection.
 Patients who were administered a live, attenuated vaccine within 28 days prior to enrolment; systemic immunostimulatory agents within 4 weeks or systemic immunosuppressive medicinal products within 2 weeks prior to study entry were excluded from clinical trials.
-
 Patients with a baseline performance status ≥ 2 were excluded (apart from Study GO29293 [IMvigor210] Cohort 1 that enrolled patients with cisplatin ineligible urothelial carcinoma and allowed a baseline performance status ≥ 2) (see section 5.1).
 
 In the absence of data, atezolizumab should be used with caution in these populations after careful evaluation of the balance of benefits and risks for the patient.

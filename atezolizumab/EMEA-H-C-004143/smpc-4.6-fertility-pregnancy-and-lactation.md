@@ -14,7 +14,6 @@ These results indicate a potential risk, based on its mechanism of action, that 
 Human immunoglobulins G1 (IgG1) are known to cross the placental barrier and atezolizumab is an IgG1; therefore, atezolizumab has the potential to be transmitted from the mother to the developing foetus.
 
 Atezolizumab should not be used during pregnancy unless the clinical condition of the woman requires treatment with atezolizumab.
-
 Breast-feeding
 
 It is unknown whether atezolizumab is excreted in human milk.

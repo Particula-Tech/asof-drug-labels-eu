@@ -3,11 +3,12 @@
 Tecentriq must be initiated and supervised by physicians experienced in the treatment of cancer.
 
 PD-L1 testing for patients with UC
-Patients with previously untreated UC should be selected for treatment based on the tumour expression of PD-L1 confirmed by a validated test (see section 5.1).
 
+Patients with previously untreated UC should be selected for treatment based on the tumour expression of PD-L1 confirmed by a validated test (see section 5.1).
 Posology
 
 The recommended dose of Tecentriq is 1,200 mg administered intravenously every three weeks.
+
 Duration of treatment
 It is recommended that patients are treated with Tecentriq until loss of clinical benefit (see section 5.1) or unmanageable toxicity.
 
@@ -28,7 +29,7 @@ Table 1: Dose modification advice for Tecentriq
 |  | Grade 3 or 4 | Permanently discontinue Tecentriq |
 | Hepatitis | Grade 2: (ALT or AST > 3 to 5 x upper limit of normal [ULN] or blood bilirubin > 1.5 to 3 x ULN) | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 3 or 4: (ALT or AST > 5 x ULN or blood bilirubin > 3 x ULN) | Permanently discontinue Tecentriq |
-| Colitis | Grade 2 or 3 Diarrhoea (increase of ≥ 4 stools/day over baseline) or Symptomatic Colitis | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone equivalent per day |
+| Colitis | Grade 2 or 3 Diarrhoea (increase of ≥ 4 stools/day over baseline) or Symptomatic Colitis | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 4 Diarrhoea or Colitis (life threatening; urgent intervention indicated) | Permanently discontinue Tecentriq |
 | Hypothyroidism or hyperthyroidism | Symptomatic | Withhold Tecentriq Hypothyroidism: Treatment may be resumed when symptoms are controlled by thyroid replacement therapy and TSH levels are decreasing Hyperthyroidism: Treatment may be resumed when symptoms are controlled by antithyroid medicinal product and thyroid function is improving |
 | Adrenal insufficiency | Symptomatic | Withhold Tecentriq Treatment may be resumed when the symptoms improve to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day and patient is stable on replacement therapy |
@@ -44,13 +45,14 @@ Table 1: Dose modification advice for Tecentriq
 |  | Grade 4 or any grade of recurrent pancreatitis | Permanently discontinue Tecentriq |
 | Myocarditis | Grade 2 | Withhold Tecentriq Treatment may be resumed when the symptoms improve to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 3 and 4 | Permanently discontinue Tecentriq |
+| Nephritis | Grade 2: (creatinine level > 1.5 to 3.0 x baseline or > 1.5 to 3.0 x ULN) | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
+|  | Grade 3 or 4: (creatinine level > 3.0 x baseline or > 3.0 x ULN) | Permanently discontinue Tecentriq |
 | Other immune-related adverse reactions | Grade 2 or Grade 3 | Withhold until adverse reactions recovers to Grade 0-1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day. |
 |  | Grade 4 or recurrent Grade 3 | Permanently discontinue Tecentriq (except endocrinopathies controlled with replacement hormones) |
 
 Note: Toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Event Version 4.0 (NCI-CTCAE v.4.).
 
 Patients treated with Tecentriq must be given the Patient Alert Card and be informed about the risks of Tecentriq (see also package leaflet).
-
 Special populations
 
 Paediatric population
@@ -59,6 +61,7 @@ No data are available.
 
 Elderly
 Based on a population pharmacokinetic analysis, no dose adjustment of Tecentriq is required in patients ≥ 65 years of age.
+
 Renal impairment
 Based on a population pharmacokinetic analysis, no dose adjustment is required in patients with mild or moderate renal impairment (see section 5.2).
 Data from patients with severe renal impairment are too limited to draw conclusions on this population.

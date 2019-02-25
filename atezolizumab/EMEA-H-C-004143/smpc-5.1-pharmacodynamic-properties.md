@@ -1,15 +1,15 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies.
-ATC code: not yet assigned
+ATC code: L01XC
 
 Mechanism of action
 
 Programmed death-ligand 1 (PD-L1) may be expressed on tumour cells and/or tumour-infiltrating immune cells, and can contribute to the inhibition of the antitumour immune response in the tumour microenvironment.
 Binding of PD-L1 to the PD-1 and B7.1 receptors found on T-cells and antigen presenting cells suppresses cytotoxic T-cell activity, T-cell proliferation and cytokine production.
+
 Atezolizumab is an Fc-engineered, humanised immunoglobulin G1 (IgG1) monoclonal antibody that directly binds to PD-L1 and provides a dual blockade of the PD-1 and B7.1 receptors, releasing PD-L1/PD-1 mediated inhibition of the immune response, including reactivating the antitumour immune response without inducing antibody-dependent cellular cytotoxicity.
 Atezolizumab spares the PD-L2/PD-1 interaction allowing PD-L2/PD-1 mediated inhibitory signals to persist.
-
 Clinical efficacy and safety
 
 Duration of treatment
@@ -42,13 +42,13 @@ Vinflunine was administered 320 mg/m2 by intravenous infusion on day 1 of each 3
 Paclitaxel was administered 175 mg/m2 by intravenous infusion over 3 hours on day 1 of each 3-week cycle until disease progression or unacceptable toxicity.
 Docetaxel was administered 75 mg/m2 by intravenous infusion on day 1 of each 3-week cycle until disease progression or unacceptable toxicity.
 For all treated patients, the median duration of treatment was 2.8 months for the atezolizumab arm, 2.1 months for the vinflunine and paclitaxel arms and 1.6 months for the docetaxel arm.
+
 The demographic and baseline disease characteristics of the primary analysis population were well balanced between the treatment arms.
 The median age was 67 years (range: 31 to 88), and 77.1% of patients were male.
 The majority of patients were white (72.1%), 53.9% of patients within the chemotherapy arm received vinflunine, 71.4% of patients had at least one poor prognostic risk factor and 28.8% had liver metastases at baseline.
 Baseline ECOG performance status was 0 (45.6%) or 1 (54.4%).
 Bladder was the primary tumour site for 71.1% of patients and 25.4% of patients had upper tract urothelial carcinoma.
 There were 24.2% of patients who received only prior platinum-containing adjuvant or neoadjuvant therapy and progressed within 12 months.
-
 The primary efficacy endpoint for IMvigor211 is overall survival (OS).
 Secondary efficacy endpoints evaluated per investigator-assessed Response Evaluation Criteria in Solid Tumors (RECIST) v1.1 are objective response rate (ORR), progression-free survival (PFS), and duration of response (DOR).
 Comparisons with respect to OS between the treatment arm and control arm within the IC2/3, IC1/2/3, and ITT (Intention-to-treat, i.e. all comers) populations were tested using a hierarchical fixed-sequence procedure based on a stratified log-rank test at two-sided level of 5% as follows: step 1) IC2/3 population; step 2) IC1/2/3 population; step 3) all comers population.
@@ -71,14 +71,13 @@ Efficacy endpoint
 (n = 467) (n = 464)
 
 Primary efficacy endpoint
-OS
+OS*
 
 No. of deaths (%) 324 (69.4%) 350 (75.4%)
 Median time to events (months) 8.6 8.0
 95% CI 7.8, 9.6 7.2, 8.6
 Stratifiedǂ hazard ratio (95% CI) 0.85 (0.73, 0.99)
-p-value** 0.0378
-12-month OS (%)* 39.2% 32.4%
+12-month OS (%)** 39.2% 32.4%
 
 Secondary and exploratory endpoints
 Investigator-assessed PFS (RECIST v1.1)
@@ -98,9 +97,9 @@ Median in months *** 21.7 7.4
 95% CI 13.0, 21.7 6.1, 10.3
 
 CI=confidence interval; DOR=duration of response; ORR=objective response rate; OS=overall survival; PFS=progression-free survival; RECIST=Response Evaluation Criteria in Solid Tumours v1.1.
-* Based on Kaplan-Meier estimate
+* An analysis of OS in the all comer population was performed based on the stratified log-rank test and the result is provided for descriptive purposes only (p=0.0378); according to the pre-specified analysis hierarchy, the p-value for the OS analysis in the all comer population cannot be considered statistically significant.
 ǂ Stratified by chemotherapy (vinflunine vs taxane), status on IC (<5% vs. ≥ 5%), number of prognostic risk factors (0 vs. 1-3), and liver metastases (yes vs. no).
-** Based on the stratified log-rank test; provided for descriptive purposes only; according to the pre-specified analysis hierarchy, the p-value for the OS analysis in the all comer population cannot be considered statistically significant.
+** Based on Kaplan-Meier estimate
 *** Responses were ongoing in 63% of responders in the atezolizumab arm and in 21% of responders in the chemotherapy arm.
 Figure 1: Kaplan-Meier curve for overall survival (IMvigor211)
 
@@ -141,7 +140,7 @@ Efficacy endpoint expression of expression of All Comers
 ORR (IRF-assessed; RECIST v1.1) n = 32 n = 80 n = 119
 No. of Responders (%) 9 (28.1%) 19 (23.8%) 27 (22.7%)
 95% CI 13.8, 46.8 15.0, 34.6 15.5, 31.3
-No. of complete response (%) 4 (12.5%) 8 (10.0%) 11 ( 9.2%)
+No. of complete response (%) 4 (12.5%) 8 (10.0%) 11 (9.2%)
 95% CI (3.5, 29.0) (4.4, 18.8) (4.7, 15.9)
 No. of partial response (%) 5 (15.6%) 11 (13.8%) 16 (13.4%)
 95% CI (5.3, 32.8) (7.1, 23.3) (7.9, 20.9)
