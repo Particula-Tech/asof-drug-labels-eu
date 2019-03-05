@@ -10,6 +10,7 @@ For suspected immune-related adverse reactions, thorough evaluation to confirm a
 Based on the severity of the adverse reaction, atezolizumab should be withheld and corticosteroids administered.
 Upon improvement to Grade ≤ 1, corticosteroid should be tapered over ≥ 1 month.
 Based on limited data from clinical studies in patients whose immune-related adverse reactions could not be controlled with systemic corticosteroid use, administration of other systemic immunosuppressants may be considered.
+
 Atezolizumab must be permanently discontinued for any Grade 3 immune-related adverse reaction that recurs and for any Grade 4 immune-related adverse reactions, except for endocrinopathies that are controlled with replacement hormones (see sections 4.2 and 4.8).
 
 Immune-related pneumonitis
@@ -27,7 +28,6 @@ Immune-related hepatitis
 
 Cases of hepatitis, some leading to fatal outcomes have been observed in clinical trials with atezolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of hepatitis.
-
 Aspartate aminotransferase (AST), alanine aminotransferase (ALT) and bilirubin should be monitored prior to initiation of treatment, periodically during treatment with atezolizumab and as indicated based on clinical evaluation.
 
 Treatment with atezolizumab should be withheld if Grade 2 event (ALT or AST > 3 to 5 x ULN or blood bilirubin > 1.5 to 3 x ULN) persists for more than 5 to 7 days, and 1 to 2 mg/kg/day of prednisone or equivalent should be started.
@@ -50,6 +50,7 @@ Once symptoms improve, treatment with 1 to 2 mg/kg/day of prednisone or equivale
 If symptoms improve to ≤ Grade 1, corticosteroids should be tapered over ≥ 1 month.
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
 Treatment with atezolizumab must be permanently discontinued for Grade 4 (life threatening; urgent intervention indicated) diarrhoea or colitis.
+
 Immune-related endocrinopathies
 
 Hypothyroidism, hyperthyroidism, adrenal insufficiency, hypophysitis and type 1 diabetes mellitus, including diabetic ketoacidosis have been observed in clinical trials with atezolizumab (see section 4.8).
@@ -61,7 +62,7 @@ Appropriate management of patients with abnormal thyroid function tests at basel
 Asymptomatic patients with abnormal thyroid function tests can receive atezolizumab.
 For symptomatic hypothyroidism, atezolizumab should be withheld and thyroid hormone replacement should be initiated as needed.
 Isolated hypothyroidism may be managed with replacement therapy and without corticosteroids.
-For symptomatic hyperthyroidism, atezolizumab should be withheld and an antithyroid medicinal product should be initiated as needed.
+For symptomatic hyperthyroidism, atezolizumab should be withheld and an anti-thyroid medicinal product should be initiated as needed.
 Treatment with atezolizumab may be resumed when symptoms are controlled and thyroid function is improving.
 
 For symptomatic adrenal insufficiency, atezolizumab should be withheld and treatment with intravenous corticosteroids (1 to 2 mg/kg/day methylprednisolone or equivalent) should be started.
@@ -95,9 +96,10 @@ Patients should be monitored for symptoms of motor and sensory neuropathy.
 
 Treatment with atezolizumab must be permanently discontinued for any grade of myasthenic syndrome / myasthenia gravis or Guillain-Barré syndrome.
 Initiation of systemic corticosteroids (at a dose of 1 to 2 mg/kg/day of prednisone or equivalent) should be considered.
+
 Immune-related pancreatitis
 
-Pancreatitis, including increases in serum amylase and lipase levels, have been observed in clinical trials with atezolizumab (see section 4.8).
+Pancreatitis, including increases in serum amylase and lipase levels, has been observed in clinical trials with atezolizumab (see section 4.8).
 Patients should be closely monitored for signs and symptoms that are suggestive of acute pancreatitis.
 
 Treatment with atezolizumab should be withheld for ≥ Grade 3 serum amylase or lipase levels increased (> 2 x ULN), or Grade 2 or 3 pancreatitis, and treatment with intravenous corticosteroids (1 to 2 mg/kg/day methylprednisolone or equivalent) should be started.
@@ -114,7 +116,6 @@ Patients should be monitored for signs and symptoms of myocarditis.
 Treatment with atezolizumab should be withheld for Grade 2 myocarditis, and treatment with systemic corticosteroids at a dose of 1 to 2mg/kg/day of prednisone or equivalent should be started.
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
 Treatment with atezolizumab must be permanently discontinued for Grade 3 or 4 myocarditis.
-
 Immune-related nephritis
 
 Nephritis has been observed in clinical trials with atezolizumab (see section 4.8).
@@ -126,20 +127,34 @@ Treatment with atezolizumab must be permanently discontinued for Grade 3 or 4 ne
 
 Infusion-related reactions
 
-Infusion related reactions have been observed in clinical trials with atezolizumab (see section 4.8).
+Infusion-related reactions have been observed in clinical trials with atezolizumab (see section 4.8).
 
-The rate of infusion should be reduced or treatment should be interrupted in patients with Grade 1 or 2 infusion related reactions.
-Atezolizumab should be permanently discontinued in patients with Grade 3 or 4 infusion related reactions.
+The rate of infusion should be reduced or treatment should be interrupted in patients with Grade 1 or 2 infusion-related reactions.
+Atezolizumab should be permanently discontinued in patients with Grade 3 or 4 infusion-related reactions.
 Patients with Grade 1 or 2 infusion-related reactions may continue to receive atezolizumab with close monitoring; premedication with antipyretic and antihistamines may be considered.
+
+Disease-specific precautions
+
+Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in metastatic non-squamous non-small cell lung cancer
+
+Physicians should carefully consider the combined risks of the four-drug regimen of atezolizumab, bevacizumab, paclitaxel, and carboplatin before initiating treatment (see section 4.8).
 
 Patients excluded from clinical trials
 
 Patients with the following conditions were excluded from clinical trials: a history of autoimmune disease, history of pneumonitis, active brain metastasis, HIV, hepatitis B or hepatitis C infection.
 Patients who were administered a live, attenuated vaccine within 28 days prior to enrolment; systemic immunostimulatory agents within 4 weeks or systemic immunosuppressive medicinal products within 2 weeks prior to study entry were excluded from clinical trials.
+
 Patients with a baseline performance status ≥ 2 were excluded (apart from Study GO29293 [IMvigor210] Cohort 1 that enrolled patients with cisplatin ineligible urothelial carcinoma and allowed a baseline performance status ≥ 2) (see section 5.1).
+
+Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin
+
+Patients with NSCLC that had clear tumour infiltration into the thoracic great vessels or clear cavitation of pulmonary lesions, as seen on imaging, were excluded from the pivotal clinical study IMpower150 after several cases of fatal pulmonary haemorrhage were observed, which is a known risk factor of treatment with bevacizumab.
 
 In the absence of data, atezolizumab should be used with caution in these populations after careful evaluation of the balance of benefits and risks for the patient.
 
+Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in EGFR+ patients with NSCLC who have progressed on erlotinib+bevacizumab
+
+In study IMpower150, there are no data on the efficacy of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in EGFR+ patients who have progressed previously on erlotinib+bevacizumab.
 Use of atezolizumab in urothelial carcinoma for previously untreated patients who are considered cisplatin ineligible
 
 The baseline and prognostic disease characteristics of the IMvigor210 Cohort 1 study population were overall comparable to patients in the clinic who would be considered cisplatin ineligible but would be eligible for a carboplatin-based combination chemotherapy.

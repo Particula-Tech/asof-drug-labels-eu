@@ -9,7 +9,6 @@ Absorption
 
 Atezolizumab is administered as an intravenous infusion.
 There have been no studies performed with other routes of administration.
-
 Distribution
 
 A population pharmacokinetic analysis indicates that central compartment volume of distribution is 3.28 L and volume at steady-state is 6.91 L in the typical patient.
@@ -18,6 +17,7 @@ Biotransformation
 
 The metabolism of atezolizumab has not been directly studied.
 Antibodies are cleared principally by catabolism.
+
 Elimination
 
 A population pharmacokinetic analysis indicates that the clearance of atezolizumab is 0.200 L/day and the typical terminal elimination half-life is 27 days.
@@ -25,7 +25,7 @@ A population pharmacokinetic analysis indicates that the clearance of atezolizum
 Special populations
 
 Based on population PK and exposure-response analyses age (21-89 years), region, ethnicity, renal impairment, mild hepatic impairment, level of PD-L1 expression, or ECOG performance status have no effect on atezolizumab pharmacokinetics.
-Body weight, gender, positive ATA status, albumin levels and tumour burden have a statistically significant, but not clinically relevant effect on atezolizumab pharmacokinetics.
+Body weight, gender, positive ADA status, albumin levels and tumour burden have a statistically significant, but not clinically relevant effect on atezolizumab pharmacokinetics.
 No dose adjustments are recommended.
 
 Elderly
@@ -49,8 +49,7 @@ The effect of severe renal impairment on the pharmacokinetics of atezolizumab is
 Hepatic impairment
 
 No dedicated studies of atezolizumab have been conducted in patients with hepatic impairment.
-In the population pharmacokinetic analysis, there were no clinically important differences in the clearance of atezolizumab between patients with mild hepatic impairment (bilirubin ≤ ULN and AST > ULN or bilirubin > 1.0 × to 1.5 × ULN and any AST, n= 71) and normal hepatic function (bilirubin and AST
-≤ ULN, n= 401).
+In the population pharmacokinetic analysis, there were no clinically important differences in the clearance of atezolizumab between patients with mild hepatic impairment (bilirubin ≤ ULN and AST > ULN or bilirubin > 1.0 × to 1.5 × ULN and any AST, n= 71) and normal hepatic function (bilirubin and AST ≤ ULN, n = 401).
 No data are available in patients with either moderate or severe hepatic impairment.
 Hepatic impairment was defined by the National Cancer Institute (NCI) criteria of hepatic dysfunction (see section 4.2).
 The effect of moderate or severe hepatic impairment (bilirubin > 1.5 × to 3 × ULN and any AST or bilirubin > 3 × ULN and any AST) on the pharmacokinetics of atezolizumab is unknown.

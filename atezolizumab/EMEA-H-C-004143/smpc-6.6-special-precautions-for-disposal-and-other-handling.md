@@ -18,6 +18,8 @@ No incompatibilities have been observed between Tecentriq and intravenous bags w
 In addition, no incompatibilities have been observed with in-line filter membranes composed of polyethersulfone or polysulfone, and infusion sets and other infusion aids composed of PVC, PE, polybutadiene, or polyetherurethane.
 The use of in-line filter membranes is optional.
 
+Do not co-administer other medicinal products through the same infusion line.
+
 Disposal
 
 The release of Tecentriq in the environment should be minimised.
