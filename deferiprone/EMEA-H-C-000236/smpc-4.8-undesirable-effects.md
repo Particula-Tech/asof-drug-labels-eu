@@ -51,7 +51,7 @@ The higher rate of “Cardiac disorders" reported during combination therapy tha
 Careful monitoring of cardiac events in patients on combination therapy is warranted (see section 4.4).
 
 The incidences of adverse reactions experienced by 18 children and 97 adults treated with combination therapy were not significantly different between the two age groups except in the incidence of arthropathy (11.1% in children vs. none in adults, p=0.02).
-Evaluation of rate of reactions per 100 patient-years of exposure showed that only the rate of diarrhoea was significantly higher in children (11.05) than in adults (2.01, p=0.01).
+Evaluation of rate of reactions per 100 patient-years of exposure showed that only the rate of diarrhoea was significantly higher in children (11.1) than in adults (2.0, p=0.01).
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

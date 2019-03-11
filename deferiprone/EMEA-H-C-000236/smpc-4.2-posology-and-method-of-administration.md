@@ -56,6 +56,14 @@ Concurrent use of iron chelators is not recommended in patients whose serum ferr
 
 Paediatric population
 There are limited data available on the use of deferiprone in children between 6 and 10 years of age, and no data on deferiprone use in children under 6 years of age.
+Renal impairment
+Dose adjustment is not required in patients with mild, moderate, or severe renal impairment (see section 5.2).
+The safety and pharmacokinetics of Ferriprox in patients with end stage renal disease are unknown.
+
+Hepatic impairment
+Dose adjustment is not required in patients with mildly or moderately impaired hepatic function (see section 5.2).
+The safety and pharmacokinetics of Ferriprox in patients with severe hepatic impairment are unknown.
+
 Method of administration
 For oral use
 

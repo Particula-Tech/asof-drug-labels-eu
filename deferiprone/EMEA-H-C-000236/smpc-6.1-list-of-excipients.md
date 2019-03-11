@@ -27,8 +27,8 @@ Titanium dioxide
 
 Purified water
 Hydroxyethylcellulose
-Glycerol
-Hydrochloric acid, concentrated
+Glycerol (E422)
+Hydrochloric acid, concentrated, for pH adjustment
 Artificial cherry flavour
 Peppermint oil
 Sunset Yellow (E110)
