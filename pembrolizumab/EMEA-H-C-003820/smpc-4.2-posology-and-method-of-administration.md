@@ -4,7 +4,7 @@ Therapy must be initiated and supervised by specialist physicians experienced in
 
 PD-L1 testing for patients with NSCLC, urothelial carcinoma, or HNSCC
 Testing for PD-L1 tumour expression using a validated test is recommended for patients with NSCLC.
-In patients with non-squamous NSCLC whose tumours have high PD-L1 expression, the risk of adverse reactions with combination therapy relative to pembrolizumab monotherapy should be considered and the benefit/risk ratio of the combined therapy evaluated on an individual basis (see sections 4.1, 4.4, 4.8 and 5.1).
+In patients with NSCLC whose tumours have high PD-L1 expression, the risk of adverse reactions with combination therapy relative to pembrolizumab monotherapy should be considered and the benefit/risk ratio of the combined therapy evaluated on an individual basis (see sections 4.1, 4.4, 4.8 and 5.1).
 
 Patients with previously untreated urothelial carcinoma or HNSCC should be selected for treatment based on the tumour expression of PD-L1 confirmed by a validated test (see section 5.1).
 
@@ -16,7 +16,6 @@ Atypical responses (i.e., an initial transient increase in tumour size or small 
 It is recommended to continue treatment for clinically stable patients with initial evidence of disease progression until disease progression is confirmed.
 
 For the adjuvant treatment of melanoma, KEYTRUDA should be administered until disease recurrence, unacceptable toxicity, or for a duration of up to one year.
-
 Dose delay or discontinuation (see also section 4.4)
 
 Table 1: Recommended treatment modifications for KEYTRUDA
@@ -42,6 +41,7 @@ Table 1: Recommended treatment modifications for KEYTRUDA
 
 Note: toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0 (NCI-CTCAE v.4).
 * If treatment-related toxicity does not resolve to Grade 0-1 within 12 weeks after last dose of KEYTRUDA, or if corticosteroid dosing cannot be reduced to ≤10 mg prednisone or equivalent per day within 12 weeks, KEYTRUDA should be permanently discontinued.
+
 The safety of re-initiating pembrolizumab therapy in patients previously experiencing immune-related myocarditis is not known.
 
 KEYTRUDA should be permanently discontinued for Grade 4 or recurrent Grade 3 adverse reactions, unless otherwise specified in Table 1.
@@ -52,13 +52,9 @@ Patients treated with KEYTRUDA must be given the Patient Alert Card and be infor
 
 Special populations
 Elderly
-No overall differences in safety or efficacy for monotherapy were reported between elderly patients
-(≥65 years) and younger patients (< 65 years).
-No dose adjustment is necessary in this population.
-
+No dose adjustment is necessary in patients ≥65 years (see section 5.1).
 Data from patients ≥65 years are too limited to draw conclusions on cHL population (see section 5.1).
-
-Efficacy and safety data from patients ≥75 years are limited (see sections 4.4 and 5.1).
+Data from pembrolizumab monotherapy in patients with resected Stage III melanoma and from chemotherapy combination in patients with metastatic NSCLC ≥75 years are limited (see sections 4.4 and 5.1).
 
 Renal impairment
 No dose adjustment is needed for patients with mild or moderate renal impairment.
@@ -77,13 +73,12 @@ Patients with ECOG performance status score ≥2 were excluded from the clinical
 Paediatric population
 The safety and efficacy of KEYTRUDA in children below 18 years of age have not yet been established.
 No data are available.
-
 Method of administration
 KEYTRUDA must be administered by intravenous infusion over 30 minutes.
 KEYTRUDA must not be administered as an intravenous push or bolus injection.
 
-When administering KEYTRUDA as part of a combination with pemetrexed and platinum chemotherapy, KEYTRUDA should be administered first.
-See also the prescribing information for pemetrexed and the selected platinum chemotherapy.
+When administering KEYTRUDA as part of a combination with chemotherapy, KEYTRUDA should be administered first.
+See also the prescribing information for the chemotherapy agents administered in combination.
 
 For instructions on reconstitution and dilution of the medicinal product before administration, see section 6.6.
 

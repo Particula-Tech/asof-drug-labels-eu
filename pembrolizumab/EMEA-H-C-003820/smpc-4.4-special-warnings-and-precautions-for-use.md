@@ -25,7 +25,6 @@ Pneumonitis has been reported in patients receiving pembrolizumab (see section 4
 Patients should be monitored for signs and symptoms of pneumonitis.
 Suspected pneumonitis should be confirmed with radiographic imaging and other causes excluded.
 Corticosteroids should be administered for Grade ≥2 events (initial dose of 1-2 mg/kg/day prednisone or equivalent followed by a taper); pembrolizumab should be withheld for Grade 2 pneumonitis, and permanently discontinued for Grade 3, Grade 4 or recurrent Grade 2 pneumonitis (see section 4.2).
-
 Immune-related colitis
 Colitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of colitis, and other causes excluded.
@@ -74,6 +73,7 @@ Based on the severity of the adverse reaction, pembrolizumab should be withheld 
 Cases of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported in patients receiving pembrolizumab (see section 4.8).
 For signs or symptoms of SJS or TEN, pembrolizumab should be withheld and the patient should be referred to a specialised unit for assessment and treatment.
 If SJS or TEN is confirmed, pembrolizumab should be permanently discontinued (see section 4.2).
+
 Caution should be used when considering the use of pembrolizumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anticancer agents.
 
 Other immune-related adverse reactions
@@ -93,7 +93,6 @@ Complications of allogeneic Haematopoietic Stem Cell Transplant (HSCT)
 Allogeneic HSCT after treatment with pembrolizumab
 Cases of graft-versus-host-disease (GVHD) and hepatic veno-occlusive disease (VOD) have been observed in patients with classical Hodgkin lymphoma undergoing allogeneic HSCT after previous exposure to pembrolizumab.
 Until further data become available, careful consideration to the potential benefits of HSCT and the possible increased risk of transplant-related complications should be made case by case (see section 4.8).
-
 Allogeneic HSCT prior to treatment with pembrolizumab
 In patients with a history of allogeneic HSCT, acute GVHD, including fatal GVHD, has been reported after treatment with pembrolizumab.
 Patients who experienced GVHD after their transplant procedure may be at an increased risk for GVHD after treatment with pembrolizumab.
@@ -112,13 +111,15 @@ In urothelial cancer, a higher number of deaths within 2 months was observed in 
 Factors associated with early deaths were fast progressive disease on prior platinum therapy and liver metastases.
 
 Use of pembrolizumab in urothelial cancer for patients who are considered ineligible for cisplatin-containing chemotherapy and whose tumours express PD-L1 with CPS ≥10
-The baseline and prognostic disease characteristics of the study population of KEYNOTE-052 included a proportion of patients eligible for a carboplatin-based combination, for whom the benefit is being assessed in a comparative study, and patients eligible for mono-chemotherapy, for whom no randomized data are available.
+The baseline and prognostic disease characteristics of the study population of KEYNOTE-052 included a proportion of patients eligible for a carboplatin-based combination, for whom the benefit is being assessed in a comparative study, and patients eligible for mono-chemotherapy, for whom no randomised data are available.
 In addition, no safety and efficacy data are available in frailer patients (e.g., ECOG performance status 3) considered not eligible for chemotherapy.
 In the absence of these data, pembrolizumab should be used with caution in this population after careful consideration of the potential risk-benefit on an individual basis.
 
-Use of pembrolizumab in combination with chemotherapy for first-line treatment of patients with NSCLC
+Use of pembrolizumab for first-line treatment of patients with NSCLC
 In general, the frequency of adverse reactions for pembrolizumab combination therapy is observed to be higher than for pembrolizumab monotherapy or chemotherapy alone, reflecting the contributions of each of these components (see sections 4.2 and 4.8).
-A direct comparison of the safety of pembrolizumab when used in combination with pemetrexed and platinum chemotherapy to pembrolizumab monotherapy is not available.
+A direct comparison of pembrolizumab when used in combination with chemotherapy to pembrolizumab monotherapy is not available.
+
+Physicians should consider the benefit/risk balance of the available treatment options (pembrolizumab monotherapy or pembrolizumab in combination with chemotherapy) before initiating treatment in previously untreated patients with non-small cell lung cancer whose tumours express PD-L1.
 
 Efficacy and safety data from patients ≥75 years are limited.
 For patients ≥75 years, pembrolizumab combination therapy should be used with caution after careful consideration of the potential benefit/risk on an individual basis (see section 5.1).
@@ -136,6 +137,7 @@ Patients with clinically significant renal (creatinine > 1.5 x ULN) or hepatic (
 For subjects with relapsed or refractory classical Hodgkin lymphoma, clinical data for the use of pembrolizumab in patients ineligible to ASCT due to reasons other than failure to salvage chemotherapy are limited (see section 5.1).
 
 After careful consideration of the potential increased risk, pembrolizumab may be used with appropriate medical management in these patients.
+
 Patient Alert Card
 All prescribers of KEYTRUDA must be familiar with the Physician Information and Management Guidelines.
 The prescriber must discuss the risks of KEYTRUDA therapy with the patient.

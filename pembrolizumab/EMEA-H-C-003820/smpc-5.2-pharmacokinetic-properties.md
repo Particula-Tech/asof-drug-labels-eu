@@ -40,7 +40,3 @@ Hepatic impairment
 The effect of hepatic impairment on the clearance of pembrolizumab was evaluated by population pharmacokinetic analyses in patients with mild hepatic impairment (as defined using the US National Cancer Institute criteria of hepatic dysfunction) compared to patients with normal hepatic function.
 No clinically important differences in the clearance of pembrolizumab were found between patients with mild hepatic impairment and normal hepatic function.
 Pembrolizumab has not been studied in patients with moderate or severe hepatic impairment (see section 4.2).
-
-[KEYTRUDA 25 mg/mL concentrate for solution for infusion.]
-
-Steady-state concentrations of pembrolizumab were reached by 16 weeks of repeated dosing with an every 3 week regimen and the systemic accumulation was 2.1-fold.The median trough concentrations (Cmin) at steady-state were approximately 22 mcg/mL at a dose of 2 mg/kg every 3 weeks and 29 mcg/mL at a dose of 200 mg every 3 weeks.
