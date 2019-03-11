@@ -1,15 +1,15 @@
 # 6.3 Shelf life
 
+Unopened vial
 4 years
 
-After reconstitution with sterile water for injection the reconstituted solution is physically and chemically stable for 48 hours at 2°C – 8°C.
-Any remaining reconstituted solution should be discarded.
+Aseptic reconstitution and dilution:
+After aseptic reconstitution with sterile water for injection, chemical and physical stability of the reconstituted solution has been demonstrated for 48 hours at 2°C – 8°C.
 
-Solutions of Herceptin for intravenous infusion are physically and chemically stable in polyvinylchloride, polyethylene or polypropylene bags containing sodium chloride 9 mg/mL (0.9 %) solution for injection for 24 hours at temperatures not exceeding 30°C.
+After aseptic dilution in polyvinylchloride, polyethylene or polypropylene bags containing sodium chloride 9 mg/mL (0.9 %) solution for injection, chemical and physical stability of Herceptin has been demonstrated for up to 7 days at 2 oC – 8oC, and subsequently for 24 hours at temperatures not exceeding 30°C.
 
 From a microbiological point of view, the reconstituted solution and Herceptin infusion solution should be used immediately.
-The product is not intended to be stored after reconstitution and dilution unless this has taken place under controlled and validated aseptic conditions.
-If not used immediately, in-use storage times and conditions are the responsibility of the user.
+If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user, and would not normally be longer than 24 hours at 2°C to 8°C, unless reconstitution and dilution have taken place under controlled and validated aseptic conditions.
 
 [Herceptin 600 mg solution for injection in vial]
 

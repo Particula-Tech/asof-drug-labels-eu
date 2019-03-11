@@ -1,6 +1,8 @@
 # 4.4 Special warnings and precautions for use
 
-In order to improve traceability of biological medicinal products, the trade name and the batch number of the administered product should be clearly recorded (or stated) in the patient file.
+Traceability
+
+In order to improve the traceability of biological medicinal products, the trade name and the batch number of the administered product should be clearly recorded.
 
 HER2 testing must be performed in a specialised laboratory which can ensure adequate validation of the testing procedures (see section 5.1).
 
@@ -52,6 +54,7 @@ For patients with EBC, cardiac assessments, as performed at baseline, should be 
 In patients who receive anthracycline-containing chemotherapy further monitoring is recommended, and should occur yearly up to 5 years from the last administration of Herceptin, or longer if a continuous decrease of LVEF is observed.
 
 Patients with history of myocardial infarction (MI), angina pectoris requiring medical treatment, history of or existing CHF (NYHA Class II –IV), LVEF of < 55%, other cardiomyopathy, cardiac arrhythmia requiring medical treatment, clinically significant cardiac valvular disease, poorly controlled hypertension (hypertension controlled by standard medical treatment eligible), and hemodynamic effective pericardial effusion were excluded from adjuvant and neoadjuvant EBC pivotal trials with Herceptin and therefore treatment cannot be recommended in such patients.
+
 Adjuvant treatment
 
 Herceptin and anthracyclines should not be given concurrently in combination in the adjuvant treatment setting.
@@ -78,7 +81,7 @@ In the pivotal trial MO16432, Herceptin was administered concurrently with neoad
 The incidence of symptomatic cardiac dysfunction was 1.7% in the Herceptin arm .
 
 The pivotal trial BO22227 was designed to demonstrate non-inferiority of treatment with Herceptin subcutaneous formulation versus treatment with Herceptin intravenous formulation based on co-primary PK and efficacy endpoints (trastuzumab Ctrough at pre-dose Cycle 8, and pCR rate at definitive surgery, respectively) (See Section 5.1. of Herceptin subcutaneous formulation SmPC).
-In the pivotal trial BO22227, Herceptin was administered concurrently with neoadjuvant chemotherapy that contained four cycles of epirubicin (cumulative dose 300 mg/m2); at a median follow-up of 40 months, the incidence of congestive cardiac failure was 0.0% in the Herceptin intravenous arm.
+In the pivotal trial BO22227, Herceptin was administered concurrently with neoadjuvant chemotherapy that contained four cycles of epirubicin (cumulative dose 300 mg/m2); at a median follow-up exceeding 70 months, the incidence of cardiac failure/congestive cardiac failure was 0.3% in the Herceptin intravenous arm.
 
 Clinical experience is limited in patients above 65 years of age.
 Infusion-related reactions (IRRs) and hypersensitivity
@@ -113,6 +116,7 @@ Caution should be exercised for pneumonitis, especially in patients being treate
 [Herceptin 600 mg solution for injection in vial]
 
 These events have been observed in patients receiving Herceptin therapy alone or in combination with paclitaxel or docetaxel, particularly following anthracycline (doxorubicin or epirubicin)–containing chemotherapy.
+
 All candidates for treatment with Herceptin, but especially those with prior anthracycline and cyclophosphamide exposure, should undergo baseline cardiac assessment including history and physical examination and electrocardiogram (ECG), echocardiogram, and/or multigated acquisition (MUGA) scan or magnetic resonance imaging.
 
 If LVEF percentage drops ≥ 10 points from baseline AND to below 50%, treatment should be suspended and a repeat LVEF assessment performed within approximately 3 weeks.
@@ -126,7 +130,7 @@ In patients with EBC eligible for neoadjuvant-adjuvant treatment, Herceptin shou
 
 In the pivotal trial MO16432, Herceptin was administered concurrently with neoadjuvant chemotherapy containing three cycles of doxorubicin (cumulative dose 180 mg/m2) .
 
-In the pivotal trial BO22227, Herceptin was administered concurrently with neoadjuvant chemotherapy that contained four cycles of epirubicin (cumulative dose 300 mg/m2); at a median follow-up of 40 months, the incidence of congestive cardiac failure was 0.0% in the Herceptin intravenous arm and 0.7% in the Herceptin subcutaneous arm.
+In the pivotal trial BO22227, Herceptin was administered concurrently with neoadjuvant chemotherapy that contained four cycles of epirubicin (cumulative dose 300 mg/m2); at a median follow-up exceeding 70 months, the incidence of cardiac failure/congestive cardiac failure was 0.3% in the Herceptin intravenous arm and 0.7% in the Herceptin subcutaneous arm.
 In patients with lower body weights (<59 kg, the lowest body weight quartile) the fixed dose used in the Herceptin subcutaneous arm was not associated with an increased risk of cardiac events or significant drop in LVEF.
 
 Administration-related reactions

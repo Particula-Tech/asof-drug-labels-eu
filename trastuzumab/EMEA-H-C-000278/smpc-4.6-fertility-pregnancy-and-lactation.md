@@ -12,6 +12,7 @@ As animal reproduction studies are not always predictive of human response, Herc
 In the post-marketing setting, cases of foetal renal growth and/or function impairment in association with oligohydramnios, some associated with fatal pulmonary hypoplasia of the foetus, have been reported in pregnant women receiving Herceptin.
 Women who become pregnant should be advised of the possibility of harm to the foetus.
 If a pregnant woman is treated with Herceptin, or if a patient becomes pregnant while receiving Herceptin or within 7 months following the last dose of Herceptin, close monitoring by a multidisciplinary team is desirable.
+
 Breast-feeding
 A study conducted in lactating Cynomolgus monkeys at doses 25 times that of the weekly human maintenance dose of 2 mg/kg Herceptin intravenous formulation demonstrated that trastuzumab is secreted in the milk.
 The presence of trastuzumab in the serum of infant monkeys was not associated with any adverse effects on their growth or development from birth to 1 month of age.

@@ -221,10 +221,10 @@ Details of risk minimisation measures that are consistent with the EU Risk Manag
 
 Immunogenicity
 
-In the neoadjuvant-adjuvant EBC treatment setting, 8.1 % (24/296) of patients treated with Herceptin intravenous developed antibodies against trastuzumab (regardless of antibody presence at baseline).
-Neutralizing anti-trastuzumab antibodies were detected in post-baseline samples in 2 of 24 Herceptin intravenous patients.
+In the neoadjuvant-adjuvant EBC study (BO22227), at a median follow-up exceeding 70 months, 10.1 % (30/296) of patients treated with Herceptin intravenous developed antibodies against trastuzumab.
+Neutralizing anti-trastuzumab antibodies were detected in post-baseline samples in 2 of 30 patients in the Herceptin intravenous arm.
 
-The clinical relevance of these antibodies is not known; nevertheless the pharmacokinetics, efficacy (determined by pathological Complete Response [pCR]) and safety determined by occurrence of administration related reactions (ARRs) of Herceptin intravenous did not appear to be adversely affected by these antibodies.
+The clinical relevance of these antibodies is not known.The presence of anti-trastuzumab antibodies had no impact on pharmacokinetics, efficacy (determined by pathological Complete Response [pCR] and event free survival [EFS]) and safety determined by occurrence of administration related reactions (ARRs) of Herceptin intravenous.
 
 There are no immunogenicity data available for Herceptin in gastric cancer.
 
@@ -262,6 +262,167 @@ Tabulated list of adverse reactions with the intravenous formulation
 
 Table 1: Undesirable effects reported with intravenous Herceptin monotherapy or in combination with chemotherapy in pivotal clinical trials (N = 8386) and in post-marketing
 
+| System organ class | Adverse reaction | Frequency |
+| --- | --- | --- |
+| Infections and infestations | Infection | Very common |
+|  | Nasopharyngitis | Very common |
+|  | Neutropenic sepsis | Common |
+|  | Cystitis | Common |
+|  | Herpes zoster | Common |
+|  | Influenza | Common |
+|  | Sinusitis | Common |
+|  | Skin infection | Common |
+|  | Rhinitis | Common |
+|  | Upper respiratory tract infection | Common |
+|  | Urinary tract infection | Common |
+|  | Erysipelas | Common |
+|  | Cellulitis | Common |
+|  | Pharyngitis | Common |
+|  | Sepsis | Uncommon |
+| Neoplasms benign, malignant and unspecified (incl. Cysts and polyps) | Malignant neoplasm progression | Not known |
+|  | Neoplasm progression | Not known |
+| Blood and lymphatic system disorders | Febrile neutropenia | Very common |
+|  | Anaemia | Very common |
+|  | Neutropenia | Very common |
+|  | White blood cell count decreased/leukopenia | Very common |
+|  | Thrombocytopenia | Very common |
+|  | Hypoprothrombinaemia | Not known |
+|  | Immune thrombocytopenia | Not known |
+| Immune system disorders | Hypersensitivity | Common |
+|  | +Anaphylactic reaction | Not known |
+|  | +Anaphylactic shock | Not known |
+| Metabolism and nutrition disorders | Weight decreased/Weight loss | Very common |
+|  | Anorexia | Very common |
+|  | Hyperkalaemia | Not known |
+| Psychiatric disorders | Insomnia | Very common |
+|  | Anxiety | Common |
+|  | Depression | Common |
+|  | Thinking abnormal | Common |
+| Nervous system disorders | 1Tremor | Very common |
+|  | Dizziness | Very common |
+|  | Headache | Very common |
+|  | Paraesthesia | Very common |
+|  | Dysgeusia | Very common |
+|  | Peripheral neuropathy | Common |
+|  | Hypertonia | Common |
+|  | Somnolence | Common |
+|  | Ataxia | Common |
+|  | Paresis | Rare |
+|  | Brain oedema | Not known |
+| Eye disorders | Conjunctivitis | Very common |
+|  | Lacrimation increased | Very common |
+|  | Dry eye | Common |
+|  | Papilloedema | Not known |
+|  | Retinal haemorrhage | Not known |
+| Ear and labyrinth disorders | Deafness | Uncommon |
+| Cardiac disorders | 1 Blood pressure decreased | Very common |
+|  | 1 Blood pressure increased | Very common |
+|  | 1 Heart beat irregular | Very common |
+|  | 1Palpitation | Very common |
+|  | 1Cardiac flutter | Very common |
+|  | Ejection fraction decreased* | Very common |
+|  | +Cardiac failure (congestive) | Common |
+|  | +1Supraventricular tachyarrhythmia | Common |
+|  | Cardiomyopathy | Common |
+|  | Pericardial effusion | Uncommon |
+|  | Cardiogenic shock | Not known |
+|  | Pericarditis | Not known |
+|  | Bradycardia | Not known |
+|  | Gallop rhythm present | Not known |
+| Vascular disorders | Hot flush | Very common |
+|  | +1 Hypotension | Common |
+|  | Vasodilatation | Common |
+
+| System organ class | Adverse reaction | Frequency |
+| --- | --- | --- |
+| Respiratory, thoracic and mediastinal disorders | +1Wheezing | Very common |
+|  | +Dyspnoea | Very common |
+|  | Cough | Very common |
+|  | Epistaxis | Very common |
+|  | Rhinorrhoea | Very common |
+|  | +Pneumonia | Common |
+|  | Asthma | Common |
+|  | Lung disorder | Common |
+|  | +Pleural effusion | Common |
+|  | Pneumonitis | Rare |
+|  | +Pulmonary fibrosis | Not known |
+|  | +Respiratory distress | Not known |
+|  | +Respiratory failure | Not known |
+|  | +Lung infiltration | Not known |
+|  | +Acute pulmonary oedema | Not known |
+|  | +Acute respiratory distress syndrome | Not known |
+|  | +Bronchospasm | Not known |
+|  | +Hypoxia | Not known |
+|  | +Oxygen saturation decreased | Not known |
+|  | Laryngeal oedema | Not known |
+|  | Orthopnoea | Not known |
+|  | Pulmonary oedema | Not known |
+|  | Interstitial lung disease | Not known |
+| Gastrointestinal disorders | Diarrhoea | Very common |
+|  | Vomiting | Very common |
+|  | Nausea | Very common |
+|  | 1 Lip swelling | Very common |
+|  | Abdominal pain | Very common |
+|  | Dyspepsia | Very common |
+|  | Constipation | Very common |
+|  | Stomatitis | Very common |
+|  | Haemorrhoids | Common |
+|  | Dry mouth | Common |
+| Hepatobiliary disorders | Hepatocellular Injury | Common |
+|  | Hepatitis | Common |
+|  | Liver Tenderness | Common |
+|  | Jaundice | Rare |
+|  | Hepatic Failure | Not known |
+
+| System organ class | Adverse reaction | Frequency |
+| --- | --- | --- |
+| Skin and subcutaneous tissue disorders | Erythema | Very common |
+|  | Rash | Very common |
+|  | 1 Swelling face | Very common |
+|  | Alopecia | Very common |
+|  | Nail disorder | Very common |
+|  | Palmar-plantar erythrodysaesthesia syndrome | Very common |
+|  | Acne | Common |
+|  | Dry skin | Common |
+|  | Ecchymosis | Common |
+|  | Hyperhydrosis | Common |
+|  | Maculopapular rash | Common |
+|  | Pruritus | Common |
+|  | Onychoclasis | Common |
+|  | Dermatitis | Common |
+|  | Urticaria | Uncommon |
+|  | Angioedema | Not known |
+| Musculoskeletal and connective tissue disorders | Arthralgia | Very common |
+|  | 1Muscle tightness | Very common |
+|  | Myalgia | Very common |
+|  | Arthritis | Common |
+|  | Back pain | Common |
+|  | Bone pain | Common |
+|  | Muscle spasms | Common |
+|  | Neck pain | Common |
+|  | Pain in extremity | Common |
+| Renal and urinary disorders | Renal disorder | Common |
+|  | Glomerulonephritis membranous | Not known |
+|  | Glomerulonephropathy | Not known |
+|  | Renal failure | Not known |
+| Pregnancy, puerperium and perinatal conditions | Oligohydramnios | Not known |
+|  | Renal hypoplasia | Not known |
+|  | Pulmonary hypoplasia | Not known |
+| Reproductive system and breast disorders | Breast inflammation/mastitis | Common |
+| General disorders and administration site conditions | Asthenia | Very common |
+|  | Chest pain | Very common |
+|  | Chills | Very common |
+|  | Fatigue | Very common |
+|  | Influenza-like symptoms | Very common |
+|  | Infusion related reaction | Very common |
+|  | Pain | Very common |
+|  | Pyrexia | Very common |
+|  | Mucosal inflammation | Very common |
+|  | Peripheral oedema | Very common |
+|  | Malaise | Common |
+|  | Oedema | Common |
+| Injury, poisoning and procedural complications | Contusion | Common |
+
 1 Denotes adverse reactions that are reported largely in association with administration-related reactions.
 
 Congestive heart failure (NYHA Class II-IV) is a common adverse reaction to Herceptin.
@@ -298,12 +459,11 @@ In the pivotal trial BO22227, there were more than twice as many patients report
 All but one patient who reported severe hypertension had a history of hypertension before they entered the study.
 Some of the severe events occurred on the day of the injection.
 
-In the neoadjuvant-adjuvant EBC treatment setting, 8.1 % (24/296) of patients treated with Herceptin intravenous and 14.9 % (44/295) of patients receiving Herceptin subcutaneous vial developed antibodies against trastuzumab (regardless of antibody presence at baseline).
-Neutralizing anti-trastuzumab antibodies were detected in post-baseline samples in 2 of 24 Herceptin intravenous and 4 of 44 Herceptin subcutaneous vial patients.
-20.0 % of patients treated with Herceptin subcutaneous formulation developed antibodies against the excipient hyaluronidase (rHuPH20).
+In the neoadjuvant-adjuvant EBC study (BO22227), at a median follow-up exceeding 70 months, 10.1% (30/296) of patients treated with Herceptin intravenous and 15.9 % (47/295) of patients receiving Herceptin subcutaneous vial developed antibodies against trastuzumab.
+Neutralizing anti-trastuzumab antibodies were detected in post-baseline samples in 2 of 30 patients in the Herceptin intravenous arm and 3 of 47 in the Herceptin subcutaneous arm.
+21.0 % of patients treated with Herceptin subcutaneous formulation developed antibodies against the excipient hyaluronidase (rHuPH20).
 
-The clinical relevance of these antibodies is not known; neverthelessthe pharmacokinetics, efficacy (determined by pathological Complete Response [pCR]) and safety determined by occurrence of administration related reactions (ARRs) of Herceptin intravenous and Herceptin subcutaneous did not appear to be adversely affected by these antibodies.
-
+The clinical relevance of these antibodies is not known.The presence of anti-trastuzumab antibodies had no impact on pharmacokinetics, efficacy (determined by pathological Complete Response [pCR] and event free survival [EFS]) and safety determined by occurrence of administration related reactions (ARRs) of Herceptin intravenous and Herceptin subcutaneous.
 Details of risk minimisation measures that are consistent with the EU Risk Management Plan are presented in Section 4.4.
 
 Study MO22982 investigated switching between the Herceptin intravenous and Herceptin subcutaneous formulation with a primary objective to evaluate patient preference for either the intravenous or the subcutaneous route of trastuzumab administration.

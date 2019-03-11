@@ -61,7 +61,6 @@ Baseline levels of the shed HER2-ECD observed in MGC patients were comparable to
 
 The pharmacokinetics of trastuzumab at a dose of 600 mg administered three-weekly by the subcutaneous route was compared to the intravenous route (8 mg/kg loading dose, 6 mg/kg maintenance every three weeks) in the phase III study BO22227.
 The pharmacokinetic results for the co primary endpoint, Ctrough pre dose Cycle 8, showed non-inferiority of the Herceptin subcutaneous compared to the Herceptin intravenous dose adjusted by body weight.
-
 The mean Ctrough during the neoadjuvant treatment phase, at the pre dose Cycle 8 time point, was higher in the Herceptin subcutaneous arm (78.7 µg/mL) than the Herceptin intravenous arm
 (57.8 µg/mL) of the study.
 During the adjuvant phase of treatment, at the pre-dose Cycle 13 time point, the mean Ctrough values were 90.4 µg/mL and 62.1 µg/mL, respectively.

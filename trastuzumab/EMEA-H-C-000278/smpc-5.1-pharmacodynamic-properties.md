@@ -56,6 +56,7 @@ Full instructions on assay performance and results interpretation should be take
 
 In the ToGA (BO18255) trial, patients whose tumours were either IHC3+ or FISH positive were defined as HER2 positive and thus included in the trial.
 Based on the clinical trial results, the beneficial effects were limited to patients with the highest level of HER2 protein overexpression, defined by a 3+ score by IHC, or a 2+ score by IHC and a positive FISH result.
+
 In a method comparison study (study D008548) a high degree of concordance (>95 %) was observed for SISH and FISH techniques for the detection of HER2 gene amplification in gastric cancer patients.
 
 HER2 over expression should be detected using an immunohistochemistry (IHC)-based assessment of fixed tumour blocks; HER2 gene amplification should be detected using in situ hybridisation using either SISH or FISH on fixed tumour blocks.
@@ -86,6 +87,7 @@ Patients were treated with Herceptin until progression of disease.
 
 The efficacy of Herceptin in combination with paclitaxel in patients who did not receive prior adjuvant anthracyclines has not been studied.
 However, Herceptin plus docetaxel was efficacious in patients whether or not they had received prior adjuvant anthracyclines.
+
 The test method for HER2 overexpression used to determine eligibility of patients in the pivotal Herceptin monotherapy and Herceptin plus paclitaxel clinical trials employed immunohistochemical staining for HER2 of fixed material from breast tumours using the murine monoclonal antibodies CB11 and 4D5.
 These tissues were fixed in formalin or Bouin’s fixative.
 This investigative clinical trial assay performed in a central laboratory utilised a 0 to 3+ scale.
@@ -390,7 +392,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 [Herceptin 600 mg solution for injection in vial]
 
-Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies, ATC code: L01XC03 Herceptin subcutaneous formulation contains recombinant human hyaluronidase (rHuPH20), an enzyme used to increase the dispersion and absorption of co-administered drugs when administered subcutaneously.
+Herceptin subcutaneous formulation contains recombinant human hyaluronidase (rHuPH20), an enzyme used to increase the dispersion and absorption of co-administered drugs when administered subcutaneously.
 
 Overexpression of HER2 is observed in 20% - 30% of primary breast cancers.
 
@@ -480,12 +482,17 @@ Table 12: Summary of pathological Complete Response (pCR)
 **Continuity correction of Anderson and Hauck (1986) has been used in this calculation
 
 Analyses with longer term follow-up of a median duration exceeding 40 months supported the non-inferior efficacy of Herceptin subcutaneous compared to Herceptin intravenous with comparable results of both EFS and OS (3-year EFS rates of 73% in the Herceptin intravenous arm and 76% in the Herceptin subcutaneous arm, and 3-year OS rates of 90% in the Herceptin intravenous arm and 92% in the Herceptin subcutaneous arm).
+
 For non-inferiority of the PK co-primary endpoint, steady-state trastuzumab Ctrough value at the end of treatment Cycle 7, refer to section 5.2.
 Pharmacokinetic Properties.
 For the comparative safety profile see section 4.8.
 
+The final analysis at a median follow-up exceeding 70 months showed similar EFS and OS between patients who received Herceptin IV and those who received Herceptin SC.
+The 6-year EFS rate was 65% in both arms (ITT population: HR=0.98 [95% CI: 0.74;1.29]) and the OS rate, 84% in both arms (ITT population: HR=0.94 [95% CI: 0.61;1.45]).
+
 Study MO28048 investigating the safety and tolerability of Herceptin subcutaneous formulation as adjuvant therapy in HER2 positive EBC patients who were enrolled in either a Herceptin subcutaneous vial cohort (N=1868 patients, including 20 patients receiving neoadjuvant therapy) or a Herceptin subcutaneous administration system cohort (N=710 patients, including 21 patients receiving neoadjuvant therapy) resulted in no new safety signals.
 Results were consistent with the known safety profile for Herceptin intravenous and Herceptin subcutaneous formulations.
 In addition, treatment of lower body weight patients with Herceptin subcutaneous fixed dose in adjuvant EBC was not associated with increased safety risk, adverse events and serious adverse events, compared to the higher body weight patients.
+The final results of study BO22227 at a median follow-up exceeding 70 months were also consistent with the known safety profile for Herceptin IV and Herceptin SC, and no new safety signals were observed.
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Herceptin in all subsets of the paediatric population for breast cancer (see section 4.2 for information on paediatric use).

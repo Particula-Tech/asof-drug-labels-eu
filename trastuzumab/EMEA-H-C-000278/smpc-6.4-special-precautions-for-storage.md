@@ -2,6 +2,8 @@
 
 Store in a refrigerator (2°C – 8°C).
 
+Do not freeze the reconstituted solution.
+
 For storage conditions of the opened medicinal product, see section 6.3 and 6.6.
 
 [Herceptin 600 mg solution for injection in vial]

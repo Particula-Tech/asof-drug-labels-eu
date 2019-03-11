@@ -1,6 +1,19 @@
 # 6.6 Special precautions for disposal and other handling
 
-Appropriate aseptic technique should be used.
+Herceptin IV is provided in sterile, preservative-free, non-pyrogenic, single use vials.
+
+Appropriate aseptic technique should be used for reconstitution and dilution procedures.
+Care must be taken to ensure the sterility of prepared solutions.
+Since the medicinal product does not contain any anti-microbial preservative or bacteriostatic agents, aseptic technique must be observed.
+
+Aseptic preparation, handling and storage:
+Aseptic handling must be ensured when preparing the infusion.
+Preparation should be:
+
+- performed under aseptic conditions by trained personnel in accordance with good practice rules especially with respect to the aseptic preparation of parenteral products.
+- prepared in a laminar flow hood or biological safety cabinet using standard precautions for the safe handling of intravenous agents.
+- followed by adequate storage of the prepared solution for intravenous infusion to ensure maintenance of the aseptic conditions
+
 Each vial of Herceptin is reconstituted with 7.2 mL of sterile water for injection (not supplied).
 Use of other reconstitution solvents should be avoided.
 This yields a 7.4 mL solution for single-dose use, containing approximately 21 mg/mL trastuzumab, at a pH of approximately 6.0.
@@ -11,7 +24,7 @@ Causing excessive foaming during reconstitution or shaking the reconstituted sol
 
 The reconstituted solution should not be frozen.
 
-Instructions for reconstitution:
+Instructions for aseptic reconstitution:
 1) Using a sterile syringe, slowly inject 7.2 mL of sterile water for injection in the vial containing the lyophilised Herceptin, directing the stream into the lyophilised cake.
 2) Swirl the vial gently to aid reconstitution.
 DO NOT SHAKE!
@@ -19,6 +32,8 @@ DO NOT SHAKE!
 Slight foaming of the product upon reconstitution is not unusual.
 Allow the vial to stand undisturbed for approximately 5 minutes.
 The reconstituted Herceptin results in a colourless to pale yellow transparent solution and should be essentially free of visible particulates.
+
+Instructions for aseptic dilution of the reconstituted solution
 Determine the volume of the solution required:
 
 - based on a loading dose of 4 mg trastuzumab/kg body weight, or a subsequent weekly dose of 2 mg trastuzumab/kg body weight:
@@ -34,12 +49,9 @@ Volume (mL) = Body weight (kg) x dose (8 mg/kg for loading or 6 mg/kg for mainte
 The appropriate amount of solution should be withdrawn from the vial and added to an infusion bag containing 250 mL of 0.9 % sodium chloride solution.
 Do not use with glucose-containing solutions (see section 6.2).
 The bag should be gently inverted to mix the solution in order to avoid foaming.
-Once the infusion is prepared it should be administered immediately.
-If diluted aseptically, it may be stored for 24 hours (do not store above 30°C).
 
 Parenteral medicinal products should be inspected visually for particulate matter and discoloration prior to administration.
 
-Herceptin is for single-use only, as the product contains no preservatives.
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 No incompatibilities between Herceptin and polyvinylchloride, polyethylene or polypropylene bags have been observed.
