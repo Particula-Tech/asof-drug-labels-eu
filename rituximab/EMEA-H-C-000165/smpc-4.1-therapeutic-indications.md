@@ -29,6 +29,10 @@ Granulomatosis with polyangiitis and microscopic polyangiitis
 
 MabThera, in combination with glucocorticoids, is indicated for the treatment of adult patients with severe, active granulomatosis with polyangiitis (Wegener’s) (GPA) and microscopic polyangiitis (MPA).
 
+Pemphigus vulgaris
+
+MabThera is indicated for the treatment of patients with moderate to severe pemphigus vulgaris (PV).
+
 [MabThera 500 mg concentrate for solution for infusion]
 
 (all sentences already above)

@@ -8,7 +8,7 @@ Rituximab is a genetically engineered chimeric mouse/human monoclonal antibody r
 The antibody is produced by mammalian (Chinese hamster ovary) cell suspension culture and purified by affinity chromatography and ion exchange, including specific viral inactivation and removal procedures.
 
 Excipients with known effects:
-This medicinal product contains 2.3 mmol (52.6 mg ) sodium per 10mL vial.
+This medicinal product contains 2.3 mmol (52.6 mg) sodium per 10mL vial.
 
 For the full list of excipients, see section 6.1.
 

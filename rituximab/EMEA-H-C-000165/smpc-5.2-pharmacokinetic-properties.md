@@ -16,13 +16,12 @@ MabThera, administered as an intravenous infusion at a dose of 375 mg/m2 at week
 Rituximab was detectable in the serum of patients 3 – 6 months after completion of last treatment.
 
 Upon administration of MabThera at a dose of 375 mg/m2 as an intravenous infusion at weekly intervals for 8 doses to 37 patients with NHL, the mean Cmax increased with each successive infusion, spanning from a mean of 243 µg/mL (range, 16 – 582 µg/mL) after the first infusion to 550 µg/mL (range, 171 – 1177 µg/mL) after the eighth infusion.
-
 The pharmacokinetic profile of MabThera when administered as 6 infusions of 375 mg/m2 in combination with 6 cycles of CHOP chemotherapy was similar to that seen with MabThera alone.
 
 Chronic lymphocytic leukaemia
 
 MabThera was administered as an intravenous infusion at a first-cycle dose of 375 mg/m2 increased to 500 mg/m2 each cycle for 5 doses in combination with fludarabine and cyclophosphamide in CLL patients.
-The mean Cmax (N=15) was 408 µg/mL (range, 97 – 764 µg/mL) after the fifth 500 mg/ m2 infusion and the mean terminal half-life was 32 days (range, 14 – 62 days).
+The mean Cmax (N=15) was 408 µg/mL (range, 97 – 764 µg/mL) after the fifth 500 mg/m2 infusion and the mean terminal half-life was 32 days (range, 14 – 62 days).
 
 Rheumatoid arthritis
 

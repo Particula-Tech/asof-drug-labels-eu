@@ -8,7 +8,7 @@ Active, severe infections (see section 4.4).
 
 Patients in a severely immunocompromised state.
 
-Contraindications for use in rheumatoid arthritis, granulomatosis with polyangiitis and microscopic polyangiitis
+Contraindications for use in rheumatoid arthritis, granulomatosis with polyangiitis, microscopic polyangiitis and pemphigus vulgaris
 
 Hypersensitivity to the active substance or to murine proteins, or to any of the other excipients listed in section 6.1.
 

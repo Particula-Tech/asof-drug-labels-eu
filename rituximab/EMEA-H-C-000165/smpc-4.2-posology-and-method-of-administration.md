@@ -2,24 +2,31 @@
 
 MabThera should be administered under the close supervision of an experienced healthcare professional, and in an environment where full resuscitation facilities are immediately available (see section 4.4).
 
+Premedication and prophylactic medications
+
 Premedication consisting of an anti-pyretic and an antihistaminic, e.g. paracetamol and diphenhydramine, should always be given before each administration of MabThera.
 
 In patients with non-Hodgkin’s lymphoma and CLL, premedication with glucocorticoids should be considered if MabThera is not given in combination with glucocorticoid-containing chemotherapy.
 
-In patients with rheumatoid arthritis, granulomatosis with polyangiitis (Wegener’s) or microscopic polyangiitis in disease remision, premedication with 100 mg intravenous methylprednisolone should be completed 30 minutes prior to MabThera infusions to decrease the incidence and severity of infusion related reactions (IRRs).
+Prophylaxis with adequate hydration and administration of uricostatics starting 48 hours prior to start of therapy is recommended for CLL patients to reduce the risk of tumour lysis syndrome.
+For CLL patients whose lymphocyte counts are > 25 x 109/L it is recommended to administer prednisone/prednisolone 100 mg intravenous shortly before infusion with MabThera to decrease the rate and severity of acute infusion reactions and/or cytokine release syndrome.
+
+In patients with rheumatoid arthritis, granulomatosis with polyangiitis (Wegener’s) or microscopic polyangiitis in disease remision or pemphigus vulgaris, premedication with 100 mg intravenous methylprednisolone should be completed 30 minutes prior to MabThera infusions to decrease the incidence and severity of infusion related reactions (IRRs).
 
 In patients with granulomatosis with polyangiitis (Wegener’s) or microscopic polyangiitis, methylprednisolone given intravenously for 1 to 3 days at a dose of 1000 mg per day is recommended prior to the first infusion of MabThera (the last dose of methylprednisolone may be given on the same day as the first infusion of MabThera).
 This should be followed by oral prednisone 1 mg/kg/day (not to exceed 80 mg/day, and tapered as rapidly as possible based on clinical need) during and after the 4 week induction course of MabThera treatment.
+Pneumocystis jirovecii pneumonia (PCP) prophylaxis is recommended for patients with GPA/MPA or PV during and following MabThera treatment, as appropriate according to local clinical practice guidelines.
 
 Posology
 
 It is important to check the medicinal product labels to ensure that the appropriate formulation (intravenous or subcutaneous formulation) is being given to the patient, as prescribed.
+
 Non-Hodgkin’s lymphoma
 
 Follicular non-Hodgkin's lymphoma
 
 Combination therapy
-The recommended dose of MabThera in combination with chemotherapy for induction treatment of previously untreated or relapsed/ refractory patients with follicular lymphoma is: 375 mg/m2 body surface area per cycle, for up to 8 cycles.
+The recommended dose of MabThera in combination with chemotherapy for induction treatment of previously untreated or relapsed/refractory patients with follicular lymphoma is: 375 mg/m2 body surface area per cycle, for up to 8 cycles.
 
 MabThera should be administered on day 1 of each chemotherapy cycle, after intravenous administration of the glucocorticoid component of the chemotherapy if applicable.
 
@@ -46,15 +53,12 @@ Diffuse large B cell non-Hodgkin's lymphoma
 MabThera should be used in combination with CHOP chemotherapy.
 The recommended dosage is 375 mg/m2 body surface area, administered on day 1 of each chemotherapy cycle for 8 cycles after intravenous infusion of the glucocorticoid component of CHOP.
 Safety and efficacy of MabThera have not been established in combination with other chemotherapies in diffuse large B cell non-Hodgkin’s lymphoma.
-
 Dose adjustments during treatment
 
 No dose reductions of MabThera are recommended.
 When MabThera is given in combination with chemotherapy, standard dose reductions for the chemotherapeutic medicinal products should be applied.
-Chronic lymphocytic leukaemia
 
-Prophylaxis with adequate hydration and administration of uricostatics starting 48 hours prior to start of therapy is recommended for CLL patients to reduce the risk of tumour lysis syndrome.
-For CLL patients whose lymphocyte counts are > 25 x 109/L it is recommended to administer prednisone/prednisolone 100 mg intravenous shortly before infusion with MabThera to decrease the rate and severity of acute infusion reactions and/or cytokine release syndrome.
+Chronic lymphocytic leukaemia
 
 The recommended dosage of MabThera in combination with chemotherapy for previously untreated and relapsed/refractory patients is 375 mg/m2 body surface area administered on day 0 of the first treatment cycle followed by 500 mg/m2 body surface area administered on day 1 of each subsequent cycle for 6 cycles in total.
 The chemotherapy should be given after MabThera infusion.
@@ -88,7 +92,20 @@ MabThera should be administered as two 500 mg IV infusions separated by two week
 Patients should receive MabThera for at least 24 months after achievement of remission (absence of clinical signs and symptoms).
 For patients who may be at higher risk for relapse, physicians should consider a longer duration of MabThera maintenance therapy, up to 5 years.
 
-Pneumocystis jiroveci pneumonia (PCP) prophylaxis is recommended for patients with granulomatosis with polyangiitis or microscopic polyangiitis during and following MabThera treatment, as appropriate.
+Pemphigus vulgaris
+
+Patients treated with MabThera must be given the patient alert card with each infusion.
+The recommended dosage of MabThera for the treatment of pemphigus vulgaris is 1000 mg administered as an IV infusion followed two weeks later by a second 1000 mg IV infusion in combination with a tapering course of glucocorticoids.
+
+Maintenance treatment
+A maintenance infusion of 500 mg IV should be administered at months 12 and 18, and then every 6 months thereafter if needed, based on clinical evaluation.
+
+Treatment of relapse
+In the event of relapse, patients may receive 1000 mg IV.
+The healthcare provider should also consider resuming or increasing the patient’s glucocorticoid dose based on clinical evaluation.
+
+Subsequent infusions may be administered no sooner than 16 weeks following the previous infusion.
+
 Special populations
 
 Paediatric population
@@ -122,12 +139,11 @@ Subsequent infusions
 All indications
 
 Subsequent doses of MabThera can be infused at an initial rate of 100 mg/h, and increased by 100 mg/h increments at 30 minute intervals, to a maximum of 400 mg/h.
-
 Rheumatoid arthritis only
 
 Alternative subsequent, faster, infusion schedule
 
-If patients did not experience a serious infusion related reaction with their first or subsequent infusions of a dose of 1000 mg MabThera administered over the standard infusion schedule, a more rapid infusion can be administered for second and subsequent infusions using the same concentration as in previous infusions (4 mg/mL in a 250 mL volume).
+If patients did not experience a serious infusion-related reaction with their first or subsequent infusions of a dose of 1000 mg MabThera administered over the standard infusion schedule, a more rapid infusion can be administered for second and subsequent infusions using the same concentration as in previous infusions (4 mg/mL in a 250 mL volume).
 Initiate at a rate of 250mg/hour for the first 30 minutes and then 600 mg/hour for the next 90 minutes.
 If the more rapid infusion is tolerated, this infusion schedule can be used when administering subsequent infusions.
 
