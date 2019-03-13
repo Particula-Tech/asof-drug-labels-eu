@@ -52,10 +52,9 @@ Combinations of REYATAZ and indinavir have not been studied and co-administratio
 Withdrawal of ritonavir only under restrictive conditions
 The recommended standard treatment is REYATAZ boosted with ritonavir, ensuring optimal pharmacokinetic parameters and level of virologic suppression.
 The withdrawal of ritonavir from the boosted regimen of REYATAZ is not recommended, but may be considered in adults patients at the dose of 400 mg once daily with food only under the following combined restrictive conditions:
-
-- absence of prior virologic failure
-- undetectable viral load during the last 6 months under current regimen
-- viral strains not harbouring HIV resistance associated mutations (RAMs) to current regimen.
+ absence of prior virologic failure
+ undetectable viral load during the last 6 months under current regimen
+ viral strains not harbouring HIV resistance associated mutations (RAMs) to current regimen.
 
 REYATAZ given without ritonavir should not be considered in patients treated with a backbone regimen containing tenofovir disoproxil and with other concomitant medications that reduce atazanavir bioavailability (see section 4.5 In case of withdrawal of ritonavir from the recommended atazanavir boosted regimen) or in case of perceived challenging compliance.
 

@@ -38,9 +38,10 @@ Frequency de novo PI substitution (n=35)a,b
 >20% M36, M46, I54, A71, V82
 10-20% L10, I15, K20, V32, E35, S37, F53, I62, G73, I84, L90
 
-a Number of patients with paired genotypes classified as virological failures (HIV RNA ≥ 400 copies/ml).
+a Number of patients with paired genotypes classified as virological failures (HIV RNA ≥400 copies/ml).
 b Ten patients had baseline phenotypic resistance to atazanavir + ritonavir (fold change [FC]>5.2).
-FC susceptibility in cell culture relative to the wild-type reference was assayed using PhenoSenseTM (Monogram Biosciences, South San Francisco, California, USA)
+FC susceptibility in cell culture relative to the wild-type reference was assayed using PhenoSenseTM (Monogram Biosciences, South San
+Francisco, California, USA)
 
 None of the de novo substitutions (see Table 4) are specific to atazanavir and may reflect re-emergence of archived resistance on atazanavir + ritonavir in Study 045 treatment-experienced population.
 
@@ -194,10 +195,8 @@ c PI major L24I, D30N, V32I, L33F, M46IL, I47AV, G48V, I50LV, F53LY, I54ALMSTV, 
 
 Paediatric trials with REYATAZ oral powder
 Assessment of the pharmacokinetics, safety, tolerability, and virologic response of REYATAZ oral powder was based on data from two open-label, multicenter clinical trials.
-
-- AI424-397 (PRINCE I): In paediatric patients from 3 months to less than 6 years of age
-- AI424-451 (PRINCE II): In paediatric patients from 3 months to less than 11 years of age
-
+ AI424-397 (PRINCE I): In paediatric patients from 3 months to less than 6 years of age
+ AI424-451 (PRINCE II): In paediatric patients from 3 months to less than 11 years of age
 In these studies, 155 patients (59 antiretroviral-naive and 96 antiretroviral-experienced) received once daily REYATAZ oral powder and ritonavir, in combination with two NRTIs.
 
 For inclusion in both trials, treatment-naive patients had to have genotypic sensitivity to REYATAZ and two NRTIs, and treatment-experienced patients had to have documented genotypic and phenotypic sensitivity at screening to REYATAZ and at least 2 NRTIs.

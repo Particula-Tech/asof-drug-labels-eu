@@ -155,15 +155,13 @@ midazolam is administered.
 
 In case of withdrawal of ritonavir from the recommended atazanavir boosted regimen (see section 4.4)
 The same recommendations for drug drug interactions would apply except:
-
-- that co-administration is not recommended with tenofovir, boceprevir, carbamazepine, phenytoin, phenobarbital, proton pump inhibitors, and buprenorphine.
-- that co-administration with famotidine is not recommended but if required, atazanavir without ritonavir should be administered either 2 hours after famotidine or 12 hours before.
-  No single dose of famotidine should exceed 20 mg, and the total daily dose of famotidine should not exceed 40 mg.
-- the need to consider that
-  - co-administration of voriconazole and REYATAZ without ritonavir may affect atazanavir concentrations
-  - co-administration of fluticasone and REYATAZ without ritonavir may increase fluticasone concentrations relative to fluticasone given alone
-  - if an oral contraceptive is administered with REYATAZ without ritonavir, it is recommended that the oral contraceptive contain no more than 30 µg of ethinyloestradiol
-  - no dose adjustment of lamotrigine is required
+ that co-administration is not recommended with tenofovir, boceprevir, carbamazepine, phenytoin, phenobarbital, proton pump inhibitors, and buprenorphine.
+ that co-administration with famotidine is not recommended but if required, atazanavir without ritonavir should be administered either 2 hours after famotidine or 12 hours before.
+No single dose of famotidine should exceed 20 mg, and the total daily dose of famotidine should not exceed 40 mg.
+ the need to consider that
+ co-administration of voriconazole and REYATAZ without ritonavir may affect atazanavir concentrations
+ co-administration of fluticasone and REYATAZ without ritonavir may increase fluticasone concentrations relative to fluticasone given alone
+ if an oral contraceptive is administered with REYATAZ without ritonavir, it is recommended that the oral contraceptive contain no more than 30 µg of ethinyloestradiol  no dose adjustment of lamotrigine is required
 
 Paediatric population
 Interaction studies have only been performed in adults.
