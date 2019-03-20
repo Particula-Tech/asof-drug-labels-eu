@@ -1,33 +1,40 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
+Type 2 diabetes mellitus
 In a pre-specified pooled analysis of 13 placebo-controlled studies, 2,360 subjects were treated with dapagliflozin 10 mg and 2,295 were treated with placebo.
 
 The most frequently reported adverse reaction was hypoglycaemia, which depended on the type of background therapy used in each study.
 The frequency of minor episodes of hypoglycaemia was similar between treatment groups, including placebo, with the exceptions of studies with add-on sulphonylurea (SU) and add-on insulin therapies.
 Combination therapies with sulphonylurea and add-on insulin had higher rates of hypoglycaemia (see Hypoglycaemia below).
 
+Type 1 diabetes mellitus
+In two placebo-controlled studies in subjects with type 1 diabetes mellitus, 548 subjects were treated with dapagliflozin 5 mg plus adjustable insulin and 532 were treated with placebo plus adjustable insulin.
+
+The most frequently reported adverse reactions associated with dapagliflozin in patients with type 1 diabetes mellitus were genital infections, which were more frequent in females.
+Diabetic ketoacidosis was reported with common frequency.
+See “Description of selected adverse reactions” and section 4.4.
+
 Tabulated list of adverse reactions
-The following adverse reactions have been identified in the placebo-controlled clinical trials.
+The following adverse reactions have been identified in the placebo-controlled clinical studies and post-marketing surveillance.
 None were found to be dose-related.
 Adverse reactions listed below are classified according to frequency and system organ class (SOC).
 Frequency categories are defined according to the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), and not known (cannot be estimated from the available data).
 
-Table 1.
+Table 2.
 Adverse reactions in placebo-controlled clinical studiesa and postmarketing experience
 
-| System organ class | Very common | Common* | Uncommon** | Rare |
-| --- | --- | --- | --- | --- |
-| Infections and infestations |  | Vulvovaginitis, balanitis and related genital infections*,b,c Urinary tract infection*,b,d | Fungal infection** |  |
-| Metabolism and | Hypoglycaemia |  | Volume | Diabetic |
-| nutrition disorders | (when used with SU or insulin)b |  | depletionb,e Thirst** | ketoacidosisi |
-| Nervous system disorders |  | Dizziness |  |  |
-| Gastrointestinal disorders |  |  | Constipation** Dry mouth** |  |
-| Skin and subcutaneous tissue disorders |  | Rashj |  |  |
-| Musculoskeletal and connective tissue disorders |  | Back pain* |  |  |
-| Renal and urinary disorders |  | Dysuria Polyuria*,f | Nocturia** Renal impairment**,b |  |
-| Reproductive system and breast disorders |  |  | Vulvovaginal pruritus** Pruritus genital** |  |
-| Investigations |  | Haematocrit increasedg Creatinine renal clearance decreasedb Dyslipidaemiah | Blood creatinine increased**,b Blood urea increased** Weight decreased** |  |
+| System organ class | Very common | Common* | Uncommon** | Rare | Not known |
+| --- | --- | --- | --- | --- | --- |
+| Infections and infestations |  | Vulvovaginitis, balanitis and related genital infections*,b,c Urinary tract infection*,b,d | Fungal infection** |  | Necrotising fasciitis of the perineum (Fournier's gangrene)i |
+| Metabolism and nutrition disorders | Hypoglycaemia (when used with SU or insulin)b | Diabetic ketoacidosis (when used in type 1 diabetes mellitus)b,i,k | Volume depletionb,e Thirst** | Diabetic ketoacidosis (when used in type 2 diabetes mellitus)i |  |
+| Nervous system disorders |  | Dizziness |  |  |  |
+| Gastrointestinal disorders |  |  | Constipation** Dry mouth** |  |  |
+| Skin and subcutaneous tissue disorders |  | Rashj |  |  |  |
+| Musculoskeletal and connective tissue disorders |  | Back pain* |  |  |  |
+| Renal and urinary disorders |  | Dysuria Polyuria*,f | Nocturia** Renal impairment**,b |  |  |
+| Reproductive system and breast disorders |  |  | Vulvovaginal pruritus** Pruritus genital** |  |  |
+| Investigations |  | Haematocrit increasedg Creatinine renal clearance decreasedb Dyslipidaemiah | Blood creatinine increased**,b Blood urea increased** Weight decreased** |  |  |
 
 aThe table shows up to 24-week (short-term) data regardless of glycaemic rescue.
 bSee corresponding subsection below for additional information.
@@ -38,12 +45,14 @@ gMean changes from baseline in haematocrit were 2.30% for dapagliflozin 10 mg ve
 Haematocrit values >55% were reported in 1.3% of the subjects treated with dapagliflozin 10 mg versus 0.4% of placebo subjects.
 hMean percent change from baseline for dapagliflozin 10 mg versus placebo, respectively, was: total cholesterol 2.5% versus 0.0%; HDL cholesterol 6.0% versus 2.7%; LDL cholesterol 2.9% versus -1.0%; triglycerides -2.7% versus -0.7%.
 iSee section 4.4 jAdverse reaction was identified through postmarketing surveillance.
-Rash includes the following preferred terms, listed in order of frequency in clinical trials: rash, rash generalised, rash pruritic, rash macular, rash maculo-papular, rash pustular, rash vesicular, and rash erythematous.
-In active- and placebo-controlled clinical trials (dapagliflozin, N=5936, All control, N=3403), the frequency of rash was similar for dapagliflozin (1.4%) and all control (1.4%), respectively.
+Rash includes the following preferred terms, listed in order of frequency in clinical studies: rash, rash generalised, rash pruritic, rash macular, rash maculo-papular, rash pustular, rash vesicular, and rash erythematous.
+In active- and placebo-controlled clinical studies (dapagliflozin, N=5936, All control, N=3403), the frequency of rash was similar for dapagliflozin (1.4%) and all control (1.4%), respectively.
+kFrequency of adverse reaction was identified from the full study population in 2 placebo-controlled studies in subjects with type 1 diabetes mellitus.
 *Reported in ≥2% of subjects and ≥1% more and at least 3 more subjects treated with dapagliflozin 10 mg compared to placebo.
 **Reported by the investigator as possibly related, probably related or related to study treatment and reported in ≥0.2% of subjects and ≥0.1% more and at least 3 more subjects treated with dapagliflozin 10 mg compared to placebo.
 
 Description of selected adverse reactions
+Clinical studies in type 2 diabetes mellitus
 Hypoglycaemia
 The frequency of hypoglycaemia depended on the type of background therapy used in each study.
 
@@ -75,31 +84,56 @@ These infections were more frequent in females, and subjects with a prior histor
 Increased creatinine
 Adverse reactions related to increased creatinine were grouped (e.g. decreased renal creatinine clearance, renal impairment, increased blood creatinine and decreased glomerular filtration rate).
 This grouping of reactions was reported in 3.2% and 1.8% of patients who received dapagliflozin 10 mg and placebo, respectively.
-In patients with normal renal function or mild renal impairment (baseline eGFR ≥ 60 ml/min/1.73 m2) this grouping of reactions were reported in 1.3% and 0.8% of patients who received dapagliflozin 10 mg and placebo, respectively.
-These reactions were more common in patients with baseline eGFR ≥ 30 and < 60 ml/min/1.73 m2 (18.5% dapagliflozin 10 mg vs 9.3% placebo).
+In patients with normal renal function or mild renal impairment (baseline eGFR ≥60 ml/min/1.73 m2) this grouping of reactions were reported in 1.3% and 0.8% of patients who received dapagliflozin 10 mg and placebo, respectively.
+These reactions were more common in patients with baseline eGFR ≥30 and < 60 ml/min/1.73 m2 (18.5% dapagliflozin 10 mg versus 9.3% placebo).
 
-Further evaluation of patients who had renal-related adverse events showed that most had serum creatinine changes of ≤ 0.5 mg/dl from baseline.
+Further evaluation of patients who had renal-related adverse events showed that most had serum creatinine changes of ≤0.5 mg/dl from baseline.
 The increases in creatinine were generally transient during continuous treatment or reversible after discontinuation of treatment.
-
 Parathyroid hormone (PTH)
 Small increases in serum PTH levels were observed with increases being larger in subjects with higher baseline PTH concentrations.
 Bone mineral density measurements in patients with normal or mildly impaired renal function did not indicate bone loss over a treatment period of two years.
 
 Malignancies
-During clinical trials, the overall proportion of subjects with malignant or unspecified tumours was similar between those treated with dapagliflozin (1.50%) and placebo/comparator (1.50%), and there was no carcinogenicity or mutagenicity signal in animal data (see section 5.3).
+During clinical studies, the overall proportion of subjects with malignant or unspecified tumours was similar between those treated with dapagliflozin (1.50%) and placebo/comparator (1.50%), and there was no carcinogenicity or mutagenicity signal in animal data (see section 5.3).
 When considering the cases of tumours occurring in the different organ systems, the relative risk associated with dapagliflozin was above 1 for some tumours (bladder, prostate, breast) and below 1 for others (e.g. blood and lymphatic, ovary, renal tract), not resulting in an overall increased tumour risk associated with dapagliflozin.
 The increased/decreased risk was not statistically significant in any of the organ systems.
 Considering the lack of tumour findings in non-clinical studies as well as the short latency between first drug exposure and tumour diagnosis, a causal relationship is considered unlikely.
 Since the numerical imbalance of breast, bladder and prostate tumours must be considered with caution, it will be further investigated in post-authorisation studies.
 
+Clinical studies in type 1 diabetes mellitus
+The safety profile of dapagliflozin in subjects with type 1 diabetes mellitus was similar to the known safety profile of dapagliflozin in subjects with type 2 diabetes mellitus, with the exception of a higher number of DKA events in dapagliflozin-treated subjects in the type 1 diabetes mellitus studies.
+
+Diabetic ketoacidosis
+In the two placebo-controlled clinical studies of dapagliflozin in type 1 diabetes mellitus, patients were advised to monitor blood ketones in case of suspected symptoms of DKA and seek medical advice/attention if their self-measured blood ketone reading was ≥0.6 mmol/L.
+In the pooled 52-week data, events of DKA were reported in 22 (4.0%) patients in the dapagliflozin 5 mg group and 6 (1.1%) patients in the placebo group, with corresponding incidence rates per 100 patient years of 4.62 for dapagliflozin 5 mg and 1.27 for placebo.
+DKA events occurred evenly distributed over the clinical study period.
+Inadequate insulin doses (missed insulin dose or insulin pump failure) were the most common precipitating factors.
+6 of 23 events of DKA in the dapagliflozin 5 mg group occurred in patients with blood glucose in the euglycaemic range (< 14 mmol/L or 250 mg/dL).
+
 Special populations
 Elderly (≥65 years)
-In subjects ≥65 years of age, adverse reactions related to renal impairment or failure were reported in 7.7% of subjects treated with dapagliflozin and 3.8% of subjects treated with placebo (see section 4.4).
+In subjects ≥65 years of age with type 2 diabetes mellitus, adverse reactions related to renal impairment or failure were reported in 7.7% of subjects treated with dapagliflozin and 3.8% of subjects treated with placebo (see section 4.4).
 The most commonly reported adverse reaction related to renal function was increased serum creatinine.
 The majority of these reactions were transient and reversible.
-In subjects ≥65 years of age, adverse reactions of volume depletion, most commonly reported as hypotension, were reported in 1.7% and 0.8% of dapagliflozin-treated subjects and placebo-treated subjects, respectively (see section 4.4).
+In subjects ≥65 years of age with type 2 diabetes mellitus, adverse reactions of volume depletion, most commonly reported as hypotension, were reported in 1.7% and 0.8% of dapagliflozin-treated subjects and placebo-treated subjects, respectively (see section 4.4).
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+[Forxiga 10 mg film-coated tablets]
+
+Table 1.
+
+| System organ class | Very common | Common* | Uncommon** | Rare | Not known |
+| --- | --- | --- | --- | --- | --- |
+| Infections and infestations |  | Vulvovaginitis, balanitis and related genital infections*,b,c Urinary tract infection*,b,d | Fungal infection** |  | Necrotising fasciitis of the perineum (Fournier's gangrene)i |
+| Metabolism and nutrition disorders | Hypoglycaemia (when used with SU or insulin)b |  | Volume depletionb,e Thirst** | Diabetic ketoacidosisi |  |
+| Nervous system disorders |  | Dizziness |  |  |  |
+| Gastrointestinal disorders |  |  | Constipation** Dry mouth** |  |  |
+| Skin and subcutaneous tissue disorders |  | Rashj |  |  |  |
+| Musculoskeletal and connective tissue disorders |  | Back pain* |  |  |  |
+| Renal and urinary disorders |  | Dysuria Polyuria*,f | Nocturia** Renal impairment**,b |  |  |
+| Reproductive system and breast disorders |  |  | Vulvovaginal pruritus** Pruritus genital** |  |  |
+| Investigations |  | Haematocrit increasedg Creatinine renal clearance decreasedb Dyslipidaemiah | Blood creatinine increased**,b Blood urea increased** Weight decreased** |  |  |

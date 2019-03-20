@@ -1,9 +1,10 @@
 # 4.1 Therapeutic indications
 
-Forxiga is indicated in adults aged 18 years and older with type 2 diabetes mellitus to improve glycaemic control as:
+Forxiga is indicated in adults for the treatment of insufficiently controlled
 
-Monotherapy
-When diet and exercise alone do not provide adequate glycaemic control in patients for whom use of metformin is considered inappropriate due to intolerance.
+- type 2 diabetes mellitus as an adjunct to diet and exercise, to improve glycaemic control,
+  - as monotherapy when metformin is considered inappropriate due to intolerance.
+  - in addition to other medicinal products for the treatment of type 2 diabetes.
+- type 1 diabetes mellitus as an adjunct to insulin in patients with BMI ≥27 kg/m2, when insulin alone does not provide adequate glycaemic control despite optimal insulin therapy.
 
-Add-on combination therapy
-In combination with other glucose-lowering medicinal products including insulin, when these, together with diet and exercise, do not provide adequate glycaemic control (see sections 4.4, 4.5 and 5.1 for available data on different combinations).
+For clinical study results with respect to populations studied, effects on glycaemic control and combinations with other medicinal products see sections 4.4, 4.5 and 5.1.

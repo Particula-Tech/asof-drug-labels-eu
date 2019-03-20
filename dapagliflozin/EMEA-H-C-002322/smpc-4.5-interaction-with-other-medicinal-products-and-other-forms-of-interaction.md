@@ -6,7 +6,10 @@ Dapagliflozin may add to the diuretic effect of thiazide and loop diuretics and 
 
 Insulin and insulin secretagogues
 Insulin and insulin secretagogues, such as sulphonylureas, cause hypoglycaemia.
-Therefore, a lower dose of insulin or an insulin secretagogue may be required to reduce the risk of hypoglycaemia when used in combination with dapagliflozin (see sections 4.2 and 4.8).
+Therefore, a lower dose of insulin or an insulin secretagogue may be required to reduce the risk of hypoglycaemia when used in combination with dapagliflozin in patients with type 2 diabetes mellitus (see sections 4.2 and 4.8).
+
+In patients with type 1 diabetes mellitus and a known risk of frequent or severe hypoglycaemia, it may be necessary to reduce the insulin dose at the time of initiating treatment with dapagliflozin to decrease the risk of hypoglycaemia.
+When needed, insulin dose reduction should be done cautiously to avoid ketosis and DKA (see section 4.2).
 
 Pharmacokinetic interactions
 The metabolism of dapagliflozin is primarily via glucuronide conjugation mediated by
@@ -14,7 +17,6 @@ UDP glucuronosyltransferase 1A9 (UGT1A9).
 
 In in vitro studies, dapagliflozin neither inhibited cytochrome P450 (CYP) 1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A4, nor induced CYP1A2, CYP2B6 or CYP3A4.
 Therefore, dapagliflozin is not expected to alter the metabolic clearance of coadministered medicinal products that are metabolised by these enzymes.
-
 Effect of other medicinal products on dapagliflozin
 Interaction studies conducted in healthy subjects, using mainly a single-dose design, suggest that the pharmacokinetics of dapagliflozin are not altered by metformin, pioglitazone, sitagliptin, glimepiride, voglibose, hydrochlorothiazide, bumetanide, valsartan, or simvastatin.
 

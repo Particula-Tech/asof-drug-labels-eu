@@ -2,6 +2,7 @@
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, carcinogenic potential and fertility.
 Dapagliflozin did not induce tumours in either mice or rats at any of the doses evaluated in two-year carcinogenicity studies.
+
 Reproductive and developmental toxicity
 Direct administration of dapagliflozin to weanling juvenile rats and indirect exposure during late pregnancy (time periods corresponding to the second and third trimesters of pregnancy with respect to human renal maturation) and lactation are each associated with increased incidence and/or severity of renal pelvic and tubular dilatations in progeny.
 
