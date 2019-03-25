@@ -81,13 +81,17 @@ Acute or chronic interstitial pneumonitis, often associated with blood eosinophi
 Symptoms typically include dyspnoea, cough (especially a dry non-productive cough), thoracic pain and fever for which patients should be monitored at each follow-up visit.
 Patients should be informed of the risk of pneumonitis and advised to contact their doctor immediately should they develop persistent cough or dyspnoea.
 
+In addition, pulmonary alveolar haemorrhage has been reported with methotrexate used in rheumatologic and related indications.
+This event may also be associated with vasculitis and other comorbidities.
+Prompt investigations should be considered when pulmonary alveolar haemorrhage is suspected to confirm the diagnosis.
+
 Methotrexate should be discontinued in patients with pulmonary symptoms and a thorough investigation (including chest x-ray) should be made to exclude infection and tumours.
 If methotrexate induced lung disease is suspected, treatment with corticosteroids should be initiated and treatment with methotrexate should not be restarted.
 
 Pulmonary diseases induced by methotrexate were not always completely reversible.
-
 Pulmonary symptoms require a quick diagnosis and discontinuation of methotrexate therapy.
 Pulmonary diseases induced by methotrexate, like pneumonitis, can occur acutely at any time of therapy, they were not always completely reversible and have been reported already at all doses (inclusive low doses of 7.5 mg/week).
+
 During methotrexate therapy, opportunistic infection can occur including pneumocystis jiroveci pneumonia, which may take a lethal course.
 If a patient presents with pulmonary symptoms, the possibility of pneumocystis jiroveci pneumonia should be taken into account.
 

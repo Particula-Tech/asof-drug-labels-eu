@@ -6,6 +6,7 @@ Treatment of rheumatoid arthritis with such drugs can be continued during low-do
 Regular alcohol consumption and administration of additional hepatotoxic medicinal products increase the probability of hepatotoxic effects of methotrexate.
 Patients taking potentially hepatotoxic and haematoxic medicinal products during methotrexate therapy (e.g. leflunomide, azathioprine, sulphasalazine, and retinoids) should be closely monitored for possibly increased hepatotoxicity.
 Alcohol consumption must be avoided during treatment with methotrexate.
+
 Administration of additional haematotoxic medicinal products (e.g. metamizole) increases the probability of severe haematoxic effects of methotrexate.
 
 One should be aware of pharmacokinetic interactions between methotrexate, anticonvulsant medicinal products (reduced methotrexate blood levels), and 5-fluorouracil (increased t½ of 5--fluorouracil).
@@ -38,6 +39,7 @@ Methotrexate leads to increased plasma levels of mercaptopurines.
 Therefore, the combination of these may require dose adjustment.
 
 Particularly in the case of orthopaedic surgery where susceptibility to infection is high, a combination of methotrexate with immune-modulating medicinal products must be used with caution.
+
 The use of nitrous oxide potentiates the effect of methotrexate on folate metabolism, yielding increased toxicity such as severe unpredictable myelosuppression and stomatitis.
 Whilst this effect can be reduced by administering calcium folinate, the concomitant use should be avoided.
 

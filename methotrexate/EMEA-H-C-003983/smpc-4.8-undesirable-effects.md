@@ -17,7 +17,6 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 Infections and infestations
 Uncommon: Pharyngitis.
 Rare: Infection (incl. reactivation of inactive chronic infection), sepsis, conjunctivitis.
-
 Neoplasms benign, malignant and unspecified (including cysts and polyps)
 Very rare: lymphoma (see “description” below)
 
@@ -57,7 +56,7 @@ Respiratory, thoracic and mediastinal disorders
 Common: Pneumonia, interstitial alveolitis/pneumonitis often associated with eosinophilia.
 Symptoms indicating potentially severe lung injury (interstitial pneumonitis) are: dry, not productive cough, shortness of breath and fever.
 Rare: Pulmonary fibrosis, Pneumocystis jiroveci pneumonia, shortness of breath and bronchial asthma, pleural effusion.
-Not known: Epistaxis.
+Not known: Epistaxis, pulmonary alveolar haemorrhage.
 
 Gastrointestinal disorders
 Very common: Stomatitis, dyspepsia, nausea, loss of appetite, abdominal pain.

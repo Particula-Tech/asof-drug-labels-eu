@@ -44,38 +44,46 @@ Nordimet 7.5 mg solution for injection in pre-filled syringe
 EU/1/16/1124/025 - 1 pack
 EU/1/16/1124/026 - 4 pack
 EU/1/16/1124/027 - 6 pack
+EU/1/16/1124/049 - 12 pack
 
 Nordimet 10 mg solution for injection in pre-filled syringe
 EU/1/16/1124/028 - 1 pack
 EU/1/16/1124/029 - 4 pack
 EU/1/16/1124/030 - 6 pack
+EU/1/16/1124/050 - 12 pack
 
 Nordimet 12.5 mg solution for injection in pre-filled syringe
 EU/1/16/1124/031 - 1 pack
 EU/1/16/1124/032 - 4 pack
 EU/1/16/1124/033 - 6 pack
+EU/1/16/1124/051 - 12 pack
 
 Nordimet 15 mg solution for injection in pre-filled syringe
 EU/1/16/1124/034 - 1 pack
 EU/1/16/1124/035 - 4 pack
 EU/1/16/1124/036 - 6 pack
+EU/1/16/1124/052 - 12 pack
 
 Nordimet 17.5 mg solution for injection in pre-filled syringe
 EU/1/16/1124/037 - 1 pack
 EU/1/16/1124/038 - 4 pack
 EU/1/16/1124/039 - 6 pack
+EU/1/16/1124/053 - 12 pack
 
 Nordimet 20 mg solution for injection in pre-filled syringe
 EU/1/16/1124/040 - 1 pack
 EU/1/16/1124/041 - 4 pack
 EU/1/16/1124/042 - 6 pack
+EU/1/16/1124/054 - 12 pack
 
 Nordimet 22.5 mg solution for injection in pre-filled syringe
 EU/1/16/1124/043 - 1 pack
 EU/1/16/1124/044 - 4 pack
 EU/1/16/1124/045 - 6 pack
+EU/1/16/1124/055 - 12 pack
 
 Nordimet 25 mg solution for injection in pre-filled syringe
 EU/1/16/1124/046 - 1 pack
 EU/1/16/1124/047 - 4 pack
 EU/1/16/1124/048 - 6 pack
+EU/1/16/1124/056 - 12 pack
