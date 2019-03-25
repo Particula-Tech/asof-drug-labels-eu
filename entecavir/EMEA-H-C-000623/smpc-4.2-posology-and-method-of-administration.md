@@ -93,8 +93,8 @@ Paediatric patients with body weight at least 32.6 kg, should be administered 10
 | 17.5 - 19.1 kg | 5.5 ml |
 | 19.2 - 20.8 kg | 6.0 ml |
 | 20.9 - 22.5 kg | 6.5 ml |
-| 22.6 - 24.1 kg | 7.0 ml |
 | Body Weighta | Recommended Once Daily Dose of Oral Solutionb |
+| 22.6 - 24.1 kg | 7.0 ml |
 | 24.2 - 25.8 kg | 7.5 ml |
 | 25.9 - 27.5 kg | 8.0 ml |
 | 27.6 - 29.1 kg | 8.5 ml |
@@ -112,8 +112,7 @@ b Children with body weight at least 32.6 kg should receive 10.0 ml (0.5 mg) of 
 | ≥ 50 | 0.5 mg once daily | 1 mg once daily |
 | 30 - 49 | 0.25 mg once daily OR 0.5 mg every 48 hours | 0.5 mg once daily |
 | 10 - 29 | 0.15 mg once daily OR 0.5 mg every 72 hours | 0.3 mg once daily OR 0.5 mg every 48 hours |
-| < 10 Haemodialysis or | 0.05 mg once daily OR | 0.1 mg once daily OR |
 |  | Nucleoside naïve patients | Lamivudine-refractory or decompensated liver disease |
-| CAPD** | 0.5 mg every 5-7 days | 0.5 mg every 72 hours |
+| < 10 Haemodialysis or CAPD** | 0.05 mg once daily OR 0.5 mg every 5-7 days | 0.1 mg once daily OR 0.5 mg every 72 hours |
 
 **on haemodialysis days, administer entecavir after haemodialysis.

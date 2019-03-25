@@ -76,3 +76,5 @@ Patients with rare hereditary problems of fructose intolerance should not take t
 Baraclude tablets do not contain maltitol and can be taken by patients with fructose intolerance.
 
 Parahydroxybenzoates: Baraclude oral solution contains the preservatives methylhydroxybenzoate and propylhydroxybenzoate, that may cause allergic reactions (possibly delayed).
+
+Sodium: Each ml of this medicinal product contains 0.015 mmol (or 0.3 mg) sodium.

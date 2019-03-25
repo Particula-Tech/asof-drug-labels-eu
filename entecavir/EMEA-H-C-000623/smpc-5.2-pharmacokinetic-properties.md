@@ -10,12 +10,12 @@ The tablet and oral solution were bioequivalent in healthy subjects; therefore, 
 
 Administration of 0.5 mg entecavir with a standard high-fat meal (945 kcal, 54.6 g fat) or a light meal (379 kcal, 8.2 g fat) resulted in a minimal delay in absorption (1-1.5 hour fed vs. 0.75 hour fasted), a decrease in Cmax of 44-46%, and a decrease in AUC of 18-20%.
 The lower Cmax and AUC when taken with food is not considered to be of clinical relevance in nucleoside-naive patients but could affect efficacy in lamivudine-refractory patients (see section 4.2).
-
 Distribution: the estimated volume of distribution for entecavir is in excess of total body water.
 Protein binding to human serum protein in vitro is ≈ 13%.
 
 Biotransformation: entecavir is not a substrate, inhibitor or inducer of the CYP450 enzyme system.
 Following administration of 14C-entecavir, no oxidative or acetylated metabolites and minor amounts of the phase II metabolites, glucuronide and sulfate conjugates, were observed.
+
 Elimination: entecavir is predominantly eliminated by the kidney with urinary recovery of unchanged drug at steady-state of about 75% of the dose.
 Renal clearance is independent of dose and ranges between 360-471 ml/min suggesting that entecavir undergoes both glomerular filtration and net tubular secretion.
 After reaching peak levels, entecavir plasma concentrations decreased in a bi-exponential manner with a terminal elimination half-life of ≈ 128-149 hours.
@@ -57,6 +57,7 @@ After adjusting for differences in creatinine clearance and body weight, elderly
 
 Race: the population pharmacokinetic analysis did not identify race as significantly influencing entecavir pharmacokinetics.
 However, conclusions can only be drawn for the Caucasian and Asian groups as there were too few subjects in the other categories.
+
 Paediatric population: the steady-state pharmacokinetics of entecavir were evaluated (study 028) in 24 nucleoside naïve and 19 lamivudine-experienced HBeAg-positive paediatric subjects from 2 to < 18 years of age with compensated liver disease.
 Entecavir exposure among nucleoside naïve subjects receiving once daily doses of entecavir 0.015 mg/kg up to a maximum dose of 0.5 mg was similar to the exposure achieved in adults receiving once daily doses of 0.5 mg.
 The Cmax, AUC(0-24), and Cmin for these subjects was 6.31 ng/ml, 18.33 ng h/ml, and 0.28 ng/ml, respectively.

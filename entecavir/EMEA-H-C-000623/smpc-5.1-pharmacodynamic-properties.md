@@ -24,12 +24,12 @@ In HIV antiviral assays, entecavir at micromolar concentrations was not antagoni
 Resistance in cell culture: relative to wild-type HBV, LVDr viruses containing rtM204V and rtL180M substitutions within the reverse transcriptase exhibit 8-fold decreased susceptibility to entecavir.
 Incorporation of additional ETVr amino acid changes rtT184, rtS202 or rtM250 decreases entecavir susceptibility in cell culture.
 Substitutions observed in clinical isolates (rtT184A, C, F, G, I, L, M or S; rtS202 C, G or I; and/or rtM250I, L or V) further decreased entecavir susceptibility 16- to 741-fold relative to wild-type virus.
+Lamivudine-resistant strains harboring rtL180M plus rtM204V in combination with amino acid substitution rtA181C conferred 16- to 122-fold reductions in entecavir phenotypic susceptibility.
 The ETVr substitutions at residues rtT184, rtS202 and rtM250 alone have only a modest effect on entecavir susceptibility, and have not been observed in the absence of LVDr substitutions in more than 1000 patient samples sequenced.
 Resistance is mediated by reduced inhibitor binding to the altered HBV reverse transcriptase, and resistant HBV exhibits reduced replication capacity in cell culture.
 
 Clinical experience: the demonstration of benefit is based on histological, virological, biochemical, and serological responses after 48 weeks of treatment in active-controlled clinical trials of 1,633 adults with chronic hepatitis B infection, evidence of viral replication and compensated liver disease.
 The safety and efficacy of entecavir were also evaluated in an active-controlled clinical trial of 191 HBV-infected patients with decompensated liver disease and in a clinical trial of 68 patients co-infected with HBV and HIV.
-
 In studies in patients with compensated liver disease, histological improvement was defined as a ≥ 2-point decrease in Knodell necro-inflammatory score from baseline with no worsening of the Knodell fibrosis score.
 Responses for patients with baseline Knodell Fibrosis Scores of 4 (cirrhosis) were comparable to overall responses on all efficacy outcome measures (all patients had compensated liver disease).
 High baseline Knodell necroinflammatory scores (> 10) were associated with greater histological improvement in nucleoside-naive patients.
@@ -240,9 +240,28 @@ Among lamivudine-refractory patients with baseline HBV DNA < 107 log10 copies/ml
 These 14 patients had a lower rate of genotypic entecavir resistance (cumulative probability 18.8% through 5 years of follow-up) than the overall study population (see table).
 Also, lamivudine-refractory patients who achieved HBV DNA < 104 log10 copies/ml by PCR at Week 24 had a lower rate of resistance than those who did not (5-year cumulative probability 17.6% [n= 50] versus 60.5% [n= 135], respectively).
 
+Integrated Analysis of Phase 2 and 3 Clinical Studies: In a post-approval integrated analysis of entecavir resistance data from 17 Phase 2 and 3 clinical studies, an emergent entecavir resistance-associated substitution rtA181C was detected in 5 out of 1461 subjects during treatment with entecavir.
+This substitution was detected only in the presence of lamivudine resistance-associated substitutions rtL180M plus rtM204V.
+
 [Baraclude 0.05 mg/ml oral solution]
 
 Patients had stable controlled HIV (HIV RNA < 400 copies/ml) with recurrence of HBV viraemia on a lamivudine-containing HAART regimen.HAART regimens did not include emtricitabine or tenofovir disoproxil fumarate.
+
+|  | Entecavir |  | Placebo* |
+| --- | --- | --- | --- |
+|  | Week 48 | Week 96 | Week 48 |
+| n | 120 | 120 | 60 |
+| HBV DNA < 50 IU/mL and HBeAg seroconversiona | 24.2% | 35.8% | 3.3% |
+| HBV DNA < 50 IU/mLa | 49.2% | 64.2% | 3.3.% |
+| HBeAg seroconversiona | 24.2% | 36.7% | 10.0% |
+| ALT normalizationa | 67.5% | 81.7% | 23.3% |
+| HBV DNA < 50 IU/mLa Baseline HBV | 82.6% (38/46) | 82.6% (38/46) | 6.5% (2/31) |
+
+DNA < 8 log10 IU/ml
+
+Baseline HBV DNA 28.4% (21/74) 52.7% (39/74) 0% (0/29)
+
+≥ 8 log10 IU/ml aNC=F (noncompleter=failure)
 
 These substitutions were observed only in the presence of LVDr substitutions (rtM204Vand rtL180M).
 
