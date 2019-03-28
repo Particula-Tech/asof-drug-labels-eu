@@ -768,6 +768,11 @@ Apparently meaningful symptom improvement (MID = 2 point change in FKSI-DRS scor
 p < 0.001) and time to improvement (HR = 1.66 (1.33,2.08), p < 0.001) were significantly better for patients on the nivolumab arm.
 While both arms of the study received active therapy, the QoL data should be interpreted in the context of the open-label study design and therefore cautiously taken.
 
+Phase 3b/4 safety study (CA209374)
+Additional safety and descriptive efficacy data are available from study CA209374, an open-label Phase 3b/4 safety study of nivolumab monotherapy (treated with 240 mg every 2 weeks) for the treatment of patients with advanced or metastatic RCC (n = 142), including 44 patients with non-clear cell histology.
+
+In subjects with non-clear cell histology, at a minimum follow-up of approximately 16.7 months ORR and median duration of response were 13.6% and 10.2 months, respectively.
+Clinical activity was observed regardless of tumour PD-L1 expression status.
 Randomised phase 3 study of nivolumab in combination with ipilimumab vs. sunitinib (CA209214)
 The safety and efficacy of nivolumab 3 mg/kg in combination with ipilimumab 1 mg/kg for the treatment of advanced/metastatic RCC was evaluated in a phase 3, randomised, open-label study (CA209214).
 The study included patients (18 years or older) with previously untreated, advanced or metastatic renal cell carcinoma with a clear-cell component.
