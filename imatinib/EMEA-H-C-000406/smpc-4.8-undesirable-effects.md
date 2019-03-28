@@ -4,7 +4,6 @@ Patients with advanced stages of malignancies may have numerous confounding medi
 
 In clinical trials in CML, drug discontinuation for drug-related adverse reactions was observed in 2.4% of newly diagnosed patients, 4% of patients in late chronic phase after failure of interferon therapy, 4% of patients in accelerated phase after failure of interferon therapy and 5% of blast crisis patients after failure of interferon therapy.
 In GIST the study drug was discontinued for drug-related adverse reactions in 4% of patients.
-
 The adverse reactions were similar in all indications, with two exceptions.
 There was more myelosuppression seen in CML patients than in GIST, which is probably due to the underlying disease.
 In the study in patients with unresectable and/or metastatic GIST, 7 (5%) patients experienced CTC grade 3/4 GI bleeds (3 patients), intra-tumoural bleeds (3 patients) or both
@@ -23,6 +22,7 @@ Miscellaneous adverse reactions such as pleural effusion, ascites, pulmonary oed
 These reactions can usually be managed by withholding Glivec temporarily and with diuretics and other appropriate supportive care measures.
 However, some of these reactions may be serious or life-threatening and several patients with blast crisis died with a complex clinical history of pleural effusion, congestive heart failure and renal failure.
 There were no special safety findings in paediatric clinical trials.
+
 Adverse reactions
 Adverse reactions reported as more than an isolated case are listed below, by system organ class and by frequency.
 Frequency categories are defined using the following convention: very common
@@ -48,7 +48,7 @@ Table 1 Tabulated summary of adverse reactions
 | Very common: | Neutropenia, thrombocytopenia, anaemia |
 | Common: | Pancytopenia, febrile neutropenia |
 | Uncommon: | Thrombocythaemia, lymphopenia, bone marrow depression, eosinophilia, lymphadenopathy |
-| Rare: | Haemolytic anaemia |
+| Rare: | Haemolytic anaemia, thrombotic microangiopathy |
 | Metabolism and nutrition disorders |  |
 | Common: | Anorexia |
 | Uncommon: | Hypokalaemia, increased appetite, hypophosphataemia, decreased appetite, dehydration, gout, hyperuricaemia, hypercalcaemia, hyperglycaemia, hyponatraemia |
@@ -134,6 +134,7 @@ Because these reactions are reported from a population of uncertain size, it is 
 9 Musculoskeletal pain during treatment with imatinib or after discontinuation has been observed in post-marketing
 10 Musculoskeletal pain and related events were more commonly observed in patients with CML than in GIST patients.
 11 Fatal cases have been reported in patients with advanced disease, severe infections, severe neutropenia and other serious concomitant conditions.
+
 Laboratory test abnormalities
 Haematology
 In CML, cytopenias, particularly neutropenia and thrombocytopenia, have been a consistent finding in all studies, with the suggestion of a higher frequency at high doses ≥ 750 mg (phase I study).
@@ -145,7 +146,6 @@ The median duration of the neutropenic and thrombocytopenic episodes usually ran
 These events can usually be managed with either a reduction of the dose or an interruption of treatment with Glivec, but can in rare cases lead to permanent discontinuation of treatment.
 In paediatric CML patients the most frequent toxicities observed were grade 3 or 4 cytopenias involving neutropenia, thrombocytopenia and anaemia.
 These generally occur within the first several months of therapy.
-
 In the study in patients with unresectable and/or metastatic GIST, grade 3 and 4 anaemia was reported in 5.4% and 0.7% of patients, respectively, and may have been related to gastrointestinal or intra-tumoural bleeding in at least some of these patients.
 Grade 3 and 4 neutropenia was seen in 7.5% and 2.7% of patients, respectively, and grade 3 thrombocytopenia in 0.7% of patients.
 No patient developed grade 4 thrombocytopenia.

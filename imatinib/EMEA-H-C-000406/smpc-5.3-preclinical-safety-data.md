@@ -21,6 +21,7 @@ Imatinib was not considered genotoxic when tested in an in vitro bacterial cell 
 Positive genotoxic effects were obtained for imatinib in an in vitro mammalian cell assay (Chinese hamster ovary) for clastogenicity (chromosome aberration) in the presence of metabolic activation.
 Two intermediates of the manufacturing process, which are also present in the final product, are positive for mutagenesis in the Ames assay.
 One of these intermediates was also positive in the mouse lymphoma assay.
+
 In a study of fertility, in male rats dosed for 70 days prior to mating, testicular and epididymal weights and percent motile sperm were decreased at 60 mg/kg, approximately equal to the maximum clinical dose of 800 mg/day, based on body surface area.
 This was not seen at doses ≤ 20 mg/kg.
 A slight to moderate reduction in spermatogenesis was also observed in the dog at oral doses ≥ 30 mg/kg.
@@ -42,7 +43,6 @@ These effects were not seen at doses ≤ 30 mg/kg.
 No new target organs were identified in the rat juvenile development toxicology study (day 10 to 70 postpartum) with respect to the known target organs in adult rats.
 In the juvenile toxicology study, effects upon growth, delay in vaginal opening and preputial separation were observed at approximately 0.3 to 2 times the average paediatric exposure at the highest recommended dose of 340 mg/m2.
 In addition, mortality was observed in juvenile animals (around weaning phase) at approximately 2 times the average paediatric exposure at the highest recommended dose of 340 mg/m2.
-
 In the 2-year rat carcinogenicity study administration of imatinib at 15, 30 and 60 mg/kg/day resulted in a statistically significant reduction in the longevity of males at 60 mg/kg/day and females at
 ≥30 mg/kg/day.
 Histopathological examination of decedents revealed cardiomyopathy (both sexes), chronic progressive nephropathy (females) and preputial gland papilloma as principal causes of death or reasons for sacrifice.
@@ -54,6 +54,7 @@ The renal adenoma/carcinoma, the urinary bladder and urethra papilloma, the smal
 The no observed effect level (NOEL) was 30 mg/kg/day.
 
 The mechanism and relevance of these findings in the rat carcinogenicity study for humans are not yet clarified.
+
 Non-neoplastic lesions not identified in earlier preclinical studies were the cardiovascular system, pancreas, endocrine organs and teeth.
 The most important changes included cardiac hypertrophy and dilatation, leading to signs of cardiac insufficiency in some animals.
 

@@ -13,7 +13,6 @@ Titanium dioxide (E171)
 Printing ink: Iron oxide, red (E172)
 Shellac
 Soya lecithin
-
 Glivec 100 mg hard capsules
 Capsule content: Cellulose microcrystalline
 Crospovidone
