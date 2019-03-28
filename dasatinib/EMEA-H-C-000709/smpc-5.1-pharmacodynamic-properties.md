@@ -141,7 +141,7 @@ The rate of MMR at any time in each risk group determined by Hasford score was h
 In an additional analysis, more dasatinib-treated patients (84%) achieved early molecular response (defined as BCR-ABL levels ≤ 10% at 3 months) compared with imatinib-treated patients (64%).
 Patients achieving early molecular response had a lower risk of transformation, higher rate of progression-free survival (PFS) and higher rate of overall survival (OS), as shown in Table 10.
 
-Table10: Dasatinib patients with BCR-ABL ≤ 10% and > 10% at 3 months
+Table 10: Dasatinib patients with BCR-ABL ≤ 10% and > 10% at 3 months
 Patients with BCR-ABL Patients with BCR-ABL >
 
 Dasatinib N = 235 ≤ 10% at 3 months 10% at 3 months
@@ -220,7 +220,7 @@ Most resistant patients (72%) had received > 600 mg imatinib.
 In addition to imatinib, 35% of patients had received prior cytotoxic chemotherapy, 65% had received prior interferon, and 10% had received a prior stem cell transplant.
 Thirty-eight percent of patients had baseline mutations known to confer imatinib resistance.
 Median duration of treatment on dasatinib was 24 months with 51% of patients treated for > 24 months to date.
-Efficacy results are reported in Table 10.
+Efficacy results are reported in Table 11.
 MCyR was achieved in 55% of imatinib-resistant patients and 82% of imatinib-intolerant patients.
 With a minimum of 24 months follow-up, 21 of the 240 patients who had achieved a MCyR had progressed and the median duration of MCyR had not been reached.
 
@@ -243,7 +243,7 @@ A total of 174 patients received dasatinib 70 mg twice daily (161 resistant and 
 The median time from diagnosis to start of treatment was 82 months.
 Median duration of treatment on dasatinib was 14 months with 31% of patients treated for > 24 months to date.
 The rate of major molecular response (assessed in 41 patients with a CCyR) was 46% at 24 months.
-Further efficacy results are reported in Table 10.
+Further efficacy results are reported in Table 11.
 
 Myeloid blast phase CML
 An open-label, single-arm, multicentre study was conducted in patients intolerant or resistant to imatinib.
@@ -267,16 +267,41 @@ The rate of major molecular response (all 25 treated patients with a CCyR) was 5
 Further efficacy results are reported in Table 11.
 Of note, major haematologic responses (MaHR) were achieved quickly (most within 35 days of first dasatinib administration for patients with lymphoid blast CML, and within 55 days for patients with Ph+ ALL).
 Table 11: Efficacy in phase II SPRYCEL single-arm clinical studiesa
+Myeloid Lymphoid
 
-| Chronic Accelerated (n= 387) (n= 174) | Myeloid blast (n= 109) | Lymphoid blast (n= 48) | Ph+ ALL (n= 46) |
-| --- | --- | --- | --- |
-| Haematologic response rateb (%) |  |  |  |
-| MaHR (95% CI) n/a 64% (57-72) CHR (95% CI) 91% (88-94) 50% (42-58) NEL (95% CI) n/a 14% (10-21) Duration of MaHR (%; Kaplan-Meier estimates) 1 year n/a 79% (71-87) 2 year n/a 60% (50-70) | 33% (24-43) 26% (18-35) 7% (3-14) | 35% (22-51) 29% (17-44) 6% (1-17) | 41% (27-57) 35% (21-50) 7% (1-18) |
-|  | 71% (55-87) 41% (21-60) | 29% (3-56) 10% (0-28) | 32% (8-56) 24% (2-47) |
-| Cytogenetic responsec (%) |  |  |  |
-| MCyR (95% CI) 62% (57-67) 40% (33-48) CCyR (95% CI) 54% (48-59) 33% (26-41) | 34% (25-44) 27% (19-36) | 52% (37-67) 46% (31-61) | 57% (41-71) 54% (39-69) |
-| Survival (%; Kaplan-Meier estimates) |  |  |  |
-| Progression-Free 1 year 91% (88-94) 64% (57-72) 2 year 80% (75-84) 46% (38-54) | 35% (25-45) 20% (11-29) | 14% (3-25) 5% (0-13) | 21% (9-34) 12% (2-23) |
+Chronic Accelerated blast blast Ph+ ALL
+
+(n= 387) (n= 174) (n= 109) (n= 48) (n= 46) Haematologic response rateb (%)
+
+64% 33% 35% 41%
+MaHR (95% CI) n/a
+(57-72) (24-43) (22-51) (27-57)
+
+91%
+
+CHR (95% CI) 50% (42-58) 26% (18-35) 29% (17-44) 35% (21-50)
+
+(88-94)
+
+NEL (95% CI) n/a 14% (10-21) 7% (3-14) 6% (1-17) 7% (1-18)
+
+Duration of MaHR (%; Kaplan-Meier estimates)
+
+1 year n/a 79% (71-87) 71% (55-87) 29% (3-56) 32% (8-56)
+2 year n/a 60% (50-70) 41% (21-60) 10% (0-28) 24% (2-47)
+
+Cytogenetic responsec (%)
+62%
+
+MCyR (95% CI) 40% (33-48) 34% (25-44) 52% (37-67) 57% (41-71)
+
+(57-67)
+CCyR (95% CI) 54% (48-59) 33% (26-41) 27% (19-36) 46% (31-61) 54% (39-69)
+Survival (%; Kaplan-Meier estimates)
+Progression-Free
+
+1 year 91% (88-94) 64% (57-72) 35% (25-45) 14% (3-25) 21% (9-34)
+2 year 80% (75-84) 46% (38-54) 20% (11-29) 5% (0-13) 12% (2-23)
 
 Overall
 
@@ -306,7 +331,6 @@ Other secondary endpoints included duration of MCyR, PFS, and overall survival.
 A total of 670 patients, of whom 497 were imatinib-resistant, were randomised to the dasatinib 100 mg once daily, 140 mg once daily, 50 mg twice daily, or 70 mg twice daily group.
 The median duration of treatment for all patients still on therapy with a minimum of 5 years of follow-up (n=205) was 59 months (range 28-66 months).
 Median duration of treatment for all patients at 7 years of follow-up was 29.8 months (range < 1-92.9 months).
-
 Efficacy was achieved across all dasatinib treatment groups with the once daily schedule demonstrating comparable efficacy (non-inferiority) to the twice daily schedule on the primary efficacy endpoint (difference in MCyR 1.9%; 95% confidence interval [-6.8% - 10.6%]); however, the 100 mg once daily regimen demonstrated improved safety and tolerability.
 Efficacy results are presented in Tables 12 and 13.
 
@@ -377,12 +401,22 @@ Median duration of treatment was approximately 6 months (range 0.03-31 months).
 The once daily schedule demonstrated comparable efficacy (non-inferiority) to the twice daily schedule on the primary efficacy endpoint (difference in MaHR 0.8%; 95% confidence interval [-7.1% - 8.7%]); however, the 140 mg once daily regimen demonstrated improved safety and tolerability.
 Response rates are presented in Table 14.
 
-Table 14: Efficacy of SPRYCEL in phase III dose-optimisation study: advanced phase CML and Ph+ ALL (2 year results)a
+Table 14: Efficacy of SPRYCEL in phase III dose-optimisation study: advanced phase
+CML and Ph+ ALL (2 year results)a
 
 Accelerated Myeloid blast Lymphoid blast Ph+ALL
 (n= 158) (n= 75) (n= 33) (n= 40)
-MaHRb 66% 28% 42% 38%
-(95% CI) (59-74) (18-40) (26-61) (23-54)
+
+MaHRb
+
+66% 28% 42% 38%
+
+(95%
+
+(59-74) (18-40) (26-61) (23-54)
+
+CI)
+
 CHRb 47% 17% 21% 33%
 (95% CI) (40-56) (10-28) (9-39) (19-49)
 NELb 19% 11% 21% 5%
@@ -475,34 +509,86 @@ The MRD negativity rates at the end of induction and consolidation as measured b
 
 [SPRYCEL 10 mg/mL powder for oral suspension]
 
-Table 10: Dasatinib patients with BCR-ABL ≤ 10% and > 10% at 3 months
+SPRYCEL imatinib p-value
+n= 259 n= 260
 
-Efficacy results are reported in Table 9.
+Response rate (95% CI)
+Cytogenetic response within 12 months
 
-Myeloid Lymphoid
+cCCyRa 76.8% (71.2–81.8) 66.2% (60.1–71.9) p< 0.007*
+CCyRb 85.3% (80.4-89.4) 73.5% (67.7-78.7) ⎯
 
-Chronic Accelerated blast blast Ph+ ALL
-(n= 387) (n= 174) (n= 109) (n= 48) (n= 46)
+within 24 months
 
-Haematologic response rateb (%)
+cCCyRa 80.3% 74.2% ⎯
+CCyRb 87.3% 82.3% ⎯
 
-MaHR (95% CI) n/a 64% (57-72) 33% (24-43) 35% (22-51) 41% (27-57)
+within 36 months
 
-CHR (95% CI) 91% (88-94) 50% (42-58) 26% (18-35) 29% (17-44) 35% (21-50)
+cCCyRa 82.6% 77.3% ⎯
+CCyRb 88.0% 83.5% ⎯
 
-NEL (95% CI) n/a 14% (10-21) 7% (3-14) 6% (1-17) 7% (1-18)
+within 48 months
 
-Duration of MaHR (%; Kaplan-Meier estimates)
+cCCyRa 82.6% 78.5% ⎯
+CCyRb 87.6% 83.8% ⎯
 
-1 year n/a 79% (71-87) 71% (55-87) 29% (3-56) 32% (8-56)
-2 year n/a 60% (50-70) 41% (21-60) 10% (0-28) 24% (2-47)
+within 60 months
 
-Cytogenetic responsec (%)
-MCyR (95% CI) 62% (57-67) 40% (33-48) 34% (25-44) 52% (37-67) 57% (41-71) CCyR (95% CI) 54% (48-59) 33% (26-41) 27% (19-36) 46% (31-61) 54% (39-69)
-Survival (%; Kaplan-Meier estimates)
-Progression-Free
+cCCyRa 83.0% 78.5% ⎯
+CCyRb 88.0% 83.8% ⎯
 
-1 year 91% (88-94) 64% (57-72) 35% (25-45) 14% (3-25) 21% (9-34)
-2 year 80% (75-84) 46% (38-54) 20% (11-29) 5% (0-13) 12% (2-23)
+Major molecular responsec
+
+12 months 52.1% (45.9–58.3) 33.8% (28.1–39.9) p< 0.00003*
+24 months 64.5% (58.3-70.3) 50% (43.8-56.2) ⎯
+36 months 69.1% (63.1-74.7) 56.2% (49.9-62.3) ⎯
+48 months 75.7% (70.0-80.8) 62.7% (56.5-68.6) ⎯
+60 months 76.4% (70.8-81.5) 64.2% (58.1-70.1) p=0.0021
+
+Hazard ratio (HR) within 12 months (99.99% CI)
+
+Time-to cCCyR 1.55 (1.0-2.3) p< 0.0001*
+Time-to MMR 2.01 (1.2-3.4) p< 0.0001*
+Durability of cCCyR 0.7 (0.4-1.4) p< 0.035
+
+within 24 months (95% CI)
+
+Time-to cCCyR 1.49 (1.22-1.82) ⎯
+Time-to MMR 1.69 (1.34-2.12) ⎯
+Durability of cCCyR 0.77 (0.55-1.10) ⎯
+
+within 36 months (95% CI)
+
+Time-to cCCyR 1.48 (1.22-1.80) ⎯
+Time-to MMR 1.59 (1.28-1.99) ⎯
+Durability of cCCyR 0.77 (0.53-1.11) ⎯
+
+within 48 months (95% CI)
+
+Time-to cCCyR 1.45 (1.20-1.77) ⎯
+Time-to MMR 1.55 (1.26-1.91) ⎯
+Durability of cCCyR 0.81 (0.56-1.17) ⎯
+
+within 60 months (95% CI)
+
+Time-to cCCyR 1.46 (1.20-1.77) p=0.0001
+Time-to MMR 1.54 (1.25-1.89) p<0.0001
+Durability of cCCyR 0.79 (0.55-1.13) p=0.1983
+
+| Chronic Accelerated (n= 387) (n= 174) | Myeloid blast (n= 109) | Lymphoid blast (n= 48) | Ph+ ALL (n= 46) |
+| --- | --- | --- | --- |
+| Haematologic response rateb (%) |  |  |  |
+| MaHR (95% CI) n/a 64% (57-72) CHR (95% CI) 91% (88-94) 50% (42-58) NEL (95% CI) n/a 14% (10-21) Duration of MaHR (%; Kaplan-Meier estimates) 1 year n/a 79% (71-87) 2 year n/a 60% (50-70) | 33% (24-43) 26% (18-35) 7% (3-14) | 35% (22-51) 29% (17-44) 6% (1-17) | 41% (27-57) 35% (21-50) 7% (1-18) |
+|  | 71% (55-87) 41% (21-60) | 29% (3-56) 10% (0-28) | 32% (8-56) 24% (2-47) |
+| Cytogenetic responsec (%) |  |  |  |
+| MCyR (95% CI) 62% (57-67) 40% (33-48) CCyR (95% CI) 54% (48-59) 33% (26-41) | 34% (25-44) 27% (19-36) | 52% (37-67) 46% (31-61) | 57% (41-71) 54% (39-69) |
+| Survival (%; Kaplan-Meier estimates) |  |  |  |
+| Progression-Free 1 year 91% (88-94) 64% (57-72) 2 year 80% (75-84) 46% (38-54) | 35% (25-45) 20% (11-29) | 14% (3-25) 5% (0-13) | 21% (9-34) 12% (2-23) |
+
+Table 14: Efficacy of SPRYCEL in phase III dose-optimisation study: advanced phase CML and Ph+ ALL (2 year results)a
+
+MaHRb 66% 28% 42% 38%
+(95% CI) (59-74) (18-40) (26-61) (23-54)
 
 This dose represents 30% lower exposure compared to the recommended dose (see section 5.2).

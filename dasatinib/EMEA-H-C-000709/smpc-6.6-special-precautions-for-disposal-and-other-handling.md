@@ -114,18 +114,17 @@ Wash the outside and the inside of the syringe with water and allow to air dry a
 
 - Do not wash in a dishwasher.
 
-DO NOT USE A
+- Do not take the DO NOT USE A
+syringe apart in DISHWASHER
 
-- Do not take the DISHWASHER
-
-syringe apart in order to avoid damaging it.
+order to avoid damaging it.
 
 ALLOW TO
-AIR DRY AFTER
 
-11. Refer to the bottle EACH USE
+11. Refer to the bottle AIR DRY AFTER
+label for instructions EACH USE
 
-label for instructions on discarding any unused medicine, syringe and bottle.
+on discarding any unused medicine, syringe and bottle.
 
 DO NOT
 TAKE APART

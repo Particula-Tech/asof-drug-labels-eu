@@ -93,6 +93,11 @@ Patients continuing treatment should be monitored periodically.
 
 Patients with uncontrolled or significant cardiovascular disease were not included in the clinical studies.
 
+Thrombotic microangiopathy (TMA)
+BCR-ABL tyrosine kinase inhibitors have been associated with thrombotic microangiopathy (TMA), including individual case reports for SPRYCEL (see section 4.8).
+If laboratory or clinical findings associated with TMA occur in a patient receiving SPRYCEL, treatment with SPRYCEL should be discontinued and thorough evaluation for TMA, including ADAMTS13 activity and anti-ADAMTS13-antibody determination, should be completed.
+If anti-ADAMTS13-antibody is elevated in conjunction with low ADAMTS13 activity, treatment with SPRYCEL should not be resumed.
+
 Hepatitis B reactivation
 Reactivation of hepatitis B in patients who are chronic carriers of this virus has occurred after these patients received BCR-ABL tyrosine kinase inhibitors.
 Some cases resulted in acute hepatic failure or fulminant hepatitis leading to liver transplantation or a fatal outcome.
@@ -133,11 +138,11 @@ Benzoic acid/Benzoate salt may increase jaundice (yellowing of the skin and eyes
 Benzyl alcohol
 SPRYCEL contains 0.017 mg benzyl alcohol in each mL of oral suspension.
 Benzyl alcohol may cause allergic reactions.
-
 Monitor patients less than 3 years of age for respiratory symptoms.
 
 SPRYCEL should not be used during pregnancy unless the clinical condition of the woman requires treatment with dasatinib (see section 4.6).
 Advise patients who are or may become pregnant of the potential risk to the foetus from dasatinib and the excipient benzyl alcohol, which may accumulate over time and cause metabolic acidosis.
+
 Use with caution in patients with hepatic or renal impairment, as benzyl alcohol may accumulate over time and cause metabolic acidosis.
 
 Sulphur dioxide (E220)

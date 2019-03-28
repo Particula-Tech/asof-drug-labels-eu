@@ -69,6 +69,7 @@ Table 5: Tabulated summary of adverse reactions
 | Common | hypertension, flushing |
 | Uncommon | hypotension, thrombophlebitis, thrombosis |
 | Rare | deep vein thrombosis, embolism, livedo reticularis |
+| Not known | thrombotic microangiopathy |
 | Respiratory, thoracic and mediastinal disorders |  |
 | Very common | pleural effusion*, dyspnoea |
 | Common | pulmonary oedema*, pulmonary hypertension*, lung infiltration, pneumonitis, cough |
@@ -90,10 +91,10 @@ Table 5: Tabulated summary of adverse reactions
 | Rare | leukocytoclastic vasculitis, skin fibrosis |
 | Not known | Stevens-Johnson syndromef |
 | Musculoskeletal and connective tissue disorders |  |
-| Very common | musculoskeletal pain |
+| Very common | musculoskeletal paing |
 | Common | arthralgia, myalgia, muscular weakness, musculoskeletal stiffness, muscle spasm |
 | Uncommon | rhabdomyolysis, osteonecrosis, muscle inflammation, tendonitis, arthritis |
-| Rare | epiphyses delayed fusion,g growth retardationg |
+| Rare | epiphyses delayed fusion,h growth retardationh |
 | Renal and urinary disorders |  |
 | Uncommon | renal impairment (including renal failure), urinary frequency, proteinuria |
 | Not known | nephrotic syndrome |
@@ -102,9 +103,9 @@ Table 5: Tabulated summary of adverse reactions
 | Reproductive system and breast disorders |  |
 | Uncommon | gynecomastia, menstrual disorder |
 | General disorders and administration site conditions |  |
-| Very common | peripheral oedemah, fatigue, pyrexia, face oedemai |
-| Common | asthenia, pain, chest pain, generalised oedema*j, chills |
-| Uncommon | malaise, other superficial oedemak |
+| Very common | peripheral oedemai, fatigue, pyrexia, face oedemaj |
+| Common | asthenia, pain, chest pain, generalised oedema*k, chills |
+| Uncommon | malaise, other superficial oedemal |
 | Rare | gait disturbance |
 | Investigations |  |
 | Common | weight decreased, weight increased |
@@ -119,11 +120,12 @@ d Excludes gastrointestinal bleeding and CNS bleeding; these adverse reactions a
 e Includes drug eruption, erythema, erythema multiforme, erythrosis, exfoliative rash, generalised erythema, genital rash, heat rash, milia, miliaria, pustular psoriaisis, rash, rash erythematous, rash follicular, rash generalised, rash macular, rash maculo-papular, rash papular, rash pruritic, rash pustular, rash vesicular, skin exfoliation, skin irritation, toxic skin eruption, urticaria vesiculosa, and vasculitic rash.
 f In the post-marketing setting, individual cases of Stevens-Johnson syndrome have been reported.
 It could not be determined whether these mucocutaneous adverse reactions were directly related to SPRYCEL or to concomitant medicinal product.
-g Frequency reported as common in paediatric studies.
-h Gravitational oedema, localised oedema, oedema peripheral.
-i Conjunctival oedema, eye oedema, eye swelling, eyelid oedema, face oedema, lip oedema, macular oedema, oedema mouth, orbital oedema, periorbital oedema, swelling face.
-j Fluid overload, fluid retention, gastrointestinal oedema, generalised oedema, peripheral swelling, oedema, oedema due to cardiac disease, perinephric effusion, post procedural oedema, visceral oedema.
-k Genital swelling, incision site oedema, oedema genital, penile oedema, penile swelling, scrotal oedema, skin swelling, testicular swelling, vulvovaginal swelling.
+g Musculoskeletal pain reported during or after discontinuing treatment.
+h Frequency reported as common in paediatric studies.
+i Gravitational oedema, localised oedema, oedema peripheral.
+j Conjunctival oedema, eye oedema, eye swelling, eyelid oedema, face oedema, lip oedema, macular oedema, oedema mouth, orbital oedema, periorbital oedema, swelling face.
+k Fluid overload, fluid retention, gastrointestinal oedema, generalised oedema, peripheral swelling, oedema, oedema due to cardiac disease, perinephric effusion, post procedural oedema, visceral oedema.
+l Genital swelling, incision site oedema, oedema genital, penile oedema, penile swelling, scrotal oedema, skin swelling, testicular swelling, vulvovaginal swelling.
 * For additional details, see section "Description of selected adverse reactions"
 
 Description of selected adverse reactions
@@ -133,7 +135,6 @@ Their occurrence is earlier and more frequent in patients with advanced phase CM
 
 Bleeding
 Bleeding drug-related adverse reactions, ranging from petechiae and epistaxis to grade 3 or 4 gastrointestinal haemorrhage and CNS bleeding, were reported in patients taking SPRYCEL (see section 4.4).
-
 Fluid retention
 Miscellaneous adverse reactions such as pleural effusion, ascites, pulmonary oedema and pericardial effusion with or without superficial oedema may be collectively described as “fluid retention”.
 In the newly diagnosed chronic phase CML study after a minimum of 60 months follow-up, dasatinib-related fluid retention adverse reactions included pleural effusion (28%), superficial oedema (14%), pulmonary hypertension (5%), generalised oedema (4%), and pericardial effusion (4%).
@@ -366,6 +367,7 @@ The data described below reflect the exposure to SPRYCEL as single-agent therapy
 | Common | hypertension, flushing |
 | Uncommon | hypotension, thrombophlebitis, thrombosis |
 | Rare | deep vein thrombosis, embolism, livedo reticularis |
+| Not known | thrombotic microangiopathy |
 | Respiratory, thoracic and mediastinal disorders |  |
 | Very common | pleural effusion*, dyspnoea |
 | Common | pulmonary oedema*, pulmonary hypertension*, lung infiltration, pneumonitis, cough |
@@ -387,10 +389,10 @@ The data described below reflect the exposure to SPRYCEL as single-agent therapy
 | Rare | leukocytoclastic vasculitis, skin fibrosis |
 | Not known | Stevens-Johnson syndromef |
 | Musculoskeletal and connective tissue disorders |  |
-| Very common | musculoskeletal pain |
+| Very common | musculoskeletal paing |
 | Common | arthralgia, myalgia, muscular weakness, musculoskeletal stiffness, muscle spasm |
 | Uncommon | rhabdomyolysis, osteonecrosis, muscle inflammation, tendonitis, arthritis |
-| Rare | epiphyses delayed fusion,g growth retardationg |
+| Rare | epiphyses delayed fusion,h growth retardationh |
 | Renal and urinary disorders |  |
 | Uncommon | renal impairment (including renal failure), urinary frequency, proteinuria |
 | Not known | nephrotic syndrome |
@@ -399,9 +401,9 @@ The data described below reflect the exposure to SPRYCEL as single-agent therapy
 | Reproductive system and breast disorders |  |
 | Uncommon | gynecomastia, menstrual disorder |
 | General disorders and administration site conditions |  |
-| Very common | peripheral oedema,h fatigue, pyrexia, face oedemai |
-| Common | asthenia, pain, chest pain, generalised oedema*j, chills |
-| Uncommon | malaise, other superficial oedemak |
+| Very common | peripheral oedema,i fatigue, pyrexia, face oedemaj |
+| Common | asthenia, pain, chest pain, generalised oedema*k, chills |
+| Uncommon | malaise, other superficial oedemal |
 | Rare | gait disturbance |
 | Investigations |  |
 | Common | weight decreased, weight increased |
