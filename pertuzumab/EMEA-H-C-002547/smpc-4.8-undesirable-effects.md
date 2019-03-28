@@ -14,27 +14,28 @@ Table 2 summarizes the ADRs from the Perjeta-treated groups of the following piv
 - NEOSPHERE (n=309) and TRYPHAENA (n=218), in which neoadjuvant Perjeta was given in combination with trastuzumab and chemotherapy to patients with locally advanced, inflammatory, or early breast cancer
 - APHINITY, in which adjuvant Perjeta was given in combination with trastuzumab and anthracycline-based or non-anthracycline-based, taxane-containing chemotherapy to patients with early breast cancer (n=2364)
 
+In addition, ADRs reported in the post-marketing setting are included in Table 2.
 As Perjeta was used with trastuzumab and chemotherapy in these trials, it is difficult to ascertain the causal relationship of an adverse event to a particular medicinal product.
-
 The ADRs are listed below by MedDRA system organ class (SOC) and categories of frequency: Very common (≥ 1/10)
 Common (≥ 1/100 to < 1/10)
 Uncommon( ≥ 1/1,000 to < 1/100)
 Rare (≥ 1/10,000 to < 1/1,000)
 Very rare (< 1/10,000)
 Not known (cannot be estimated from the available data)
+
 Within each frequency grouping and SOC, ADRs are presented in the order of decreasing seriousness.
 
 The most common ADRs (≥30%) from this pooled data were diarrhoea, alopecia, nausea, fatigue, neutropenia, and vomiting.
 The most common NCI-CTCAE Grade 3-4 ADRs (≥10%) were neutropenia and febrile neutropenia.
 
-Table 2 Summary of ADRs in patients treated with Perjeta^
+Table 2 Summary of ADRs in patients treated with Perjeta in clinical trials^, and in the Post-marketing setting†
 
 | System organ class | Very Common | Common | Uncommon | Rare |
 | --- | --- | --- | --- | --- |
 | Infections and infestations | Nasopharyngitis | Paronychia Upper respiratory tract infection |  |  |
 | Blood and lymphatic system disorders | Febrile neutropenia* Neutropenia Leucopenia Anaemia |  |  |  |
-| Immune system disorders | Infusion reaction°° | Hypersensitivity° Drug hypersensitivity° | Anaphylactic reaction° | Cytokine release syndrome°° |
-| Metabolism and nutrition disorders | Decreased appetite |  |  |  |
+| Immune system disorders | Infusion reaction°°, * | Hypersensitivity°, * Drug hypersensitivity°, * | Anaphylactic reaction°, * | Cytokine release syndrome°° |
+| Metabolism and nutrition disorders | Decreased appetite |  |  | Tumour lysis syndrome† |
 | Psychiatric disorders | Insomnia |  |  |  |
 | Nervous system disorders | Neuropathy peripheral Headache Dysgeusia Peripheral sensory neuropathy Dizziness Paraesthesia |  |  |  |
 | Eye disorders | Lacrimation increased |  |  |  |
@@ -48,11 +49,12 @@ Table 2 Summary of ADRs in patients treated with Perjeta^
 
 ^ Table 2 shows pooled data from the overall treatment period in CLEOPATRA (data cutoff 11 February 2014; median number of cycles of Perjeta was 24); and from the neoadjuvant treatment period in NEOSPHERE (median number of cycles of Perjeta was 4, across all treatment arms) and TRYPHAENA (median number of cycles of Perjeta was 3 – 6 across treatment arms) and from the treatment period of APHINITY (median number of cycles of Perjeta was 18).
 
-* Including ADRs with a fatal outcome.
+* ADRs with a fatal outcome have been reported.
 ** For the overall treatment period across the 4 studies.
 The incidence of left ventricular dysfunction and cardiac failure congestive reflect the MedDRA Preferred Terms reported in the individual studies.
 ° Hypersensitivity/anaphylactic reaction is based on a group of terms.
 °° Infusion reaction includes a range of different terms within a time window, see “Description of selected adverse reactions” below.
+† ADRs reported in the post marketing setting-
 
 Description of selected adverse reactions
 
@@ -104,6 +106,7 @@ Febrile neutropenia occurred in 13.7% of Perjeta-treated patients and 7.6% of pl
 In both treatment groups, the proportion of patients experiencing febrile neutropenia was highest in the first cycle of therapy and declined steadily thereafter.
 An increased incidence of febrile neutropenia was observed among Asian patients in both treatment groups compared with patients of other races and from other geographic regions.
 Among Asian patients, the incidence of febrile neutropenia was higher in the Perjeta-treated group (25.8%) compared with the placebo-treated group (11.3%).
+
 In the NEOSPHERE trial, 8.4% of patients treated with neoadjuvant Perjeta, trastuzumab and docetaxel experienced febrile neutropenia compared with 7.5% of patients treated with trastuzumab and docetaxel.
 In the TRYPHAENA trial, febrile neutropenia occurred in 17.1% of patients treated with neoadjuvant Perjeta + TCH, and 9.3% of patients treated with neoadjuvant Perjeta, trastuzumab and docetaxel following FEC.
 In TRYPHAENA, the incidence of febrile neutropenia was higher in patients who received six cycles of Perjeta compared with patients who received three cycles of Perjeta, independent of the chemotherapy given.
@@ -132,13 +135,13 @@ The highest incidence of diarrhoea (all Grades) was reported during the targeted
 Rash
 In the pivotal trial CLEOPATRA in metastatic breast cancer, rash occurred in 51.7% of Perjeta-treated patients, compared with 38.9% of placebo-treated patients.
 Most events were Grade 1 or 2 in severity, occurred in the first two cycles, and responded to standard therapies, such as topical or oral treatment for acne.
-
 In the NEOSPHERE trial, rash occurred in 40.2% of patients treated with neoadjuvant Perjeta, trastuzumab and docetaxel compared with 29.0% of patients treated with trastuzumab and docetaxel.
 In the TRYPHAENA trial, rash occurred in 36.8% of patients treated with neoadjuvant Perjeta + TCH and 20.0% of patients treated with neoadjuvant Perjeta, trastuzumab and docetaxel following FEC.
 The incidence of rash was higher in patients who received six cycles of Perjeta compared with patients who received three cycles of Perjeta, independent of the chemotherapy given.
 
 In the APHINITY trial, the adverse event of rash occurred in 25.8% of patients in Perjeta arm vs. 20.3% of patients in placebo arm.
 The majority of rash events were Grade 1 or 2.
+
 Laboratory abnormalities
 In the pivotal trial CLEOPATRA in metastatic breast cancer, the incidence of NCI-CTCAE v.3 Grade 3-4 neutropenia was balanced in the two treatment groups (86.3% of Perjeta-treated patients and 86.6% of placebo-treated patients, including 60.7% and 64.8% Grade 4 neutropenia, respectively).
 

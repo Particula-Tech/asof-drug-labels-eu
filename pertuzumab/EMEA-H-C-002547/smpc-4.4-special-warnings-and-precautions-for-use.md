@@ -27,7 +27,7 @@ In this study, cardiac safety was similar to that observed in patients given the
 
 Infusion reactions
 
-Perjeta has been associated with infusion reactions (see section 4.8).
+Perjeta has been associated with infusion reactions, including events with a fatal outcome (see section 4.8).
 Close observation of the patient during and for 60 minutes after the first infusion and during and for 30-60 minutes after subsequent infusions of Perjeta is recommended.
 If a significant infusion reaction occurs, the infusion should be slowed down or interrupted and appropriate medical therapies should be administered.
 Patients should be evaluated and carefully monitored until complete resolution of signs and symptoms.
@@ -37,7 +37,7 @@ This clinical assessment should be based on the severity of the preceding reacti
 Hypersensitivity reactions/anaphylaxis
 
 Patients should be observed closely for hypersensitivity reactions.
-Severe hypersensitivity, including anaphylaxis, has been observed in clinical trials with Perjeta (see section 4.8).
+Severe hypersensitivity, including anaphylaxis and events with a fatal outcome, has been observed with Perjeta (see section 4.8).
 Medicinal products to treat such reactions, as well as emergency equipment, should be available for immediate use.
 Perjeta must be permanently discontinued in case of NCI-CTCAE Grade 4 hypersensitivity reactions (anaphylaxis), bronchospasm or acute respiratory distress syndrome (see section 4.2).
 

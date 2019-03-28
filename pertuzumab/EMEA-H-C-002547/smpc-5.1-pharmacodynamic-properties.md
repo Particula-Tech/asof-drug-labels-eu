@@ -10,6 +10,7 @@ Inhibition of these signalling pathways can result in cell growth arrest and apo
 In addition, pertuzumab mediates antibody-dependent cell-mediated cytotoxicity (ADCC).
 
 While pertuzumab alone inhibited the proliferation of human tumour cells, the combination of pertuzumab and trastuzumab significantly augmented antitumour activity in HER2-overexpressing xenograft models.
+
 Clinical efficacy and safety
 
 The efficacy of Perjeta in HER2-positive breast cancer is supported by a randomised phase III trial and a single-arm phase II trial in metastatic breast cancer, two randomised neoadjuvant phase II trials in early breast cancer (one controlled), a non-randomised neoadjuvant phase II trial, and a randomised phase III trial in the adjuvant setting.
@@ -62,8 +63,7 @@ Figure 1 IRF-assessed PFS by patient subgroup
 
 The final analysis of OS was performed when 389 patients had died (221 in the placebo-treated group and 168 in the Perjeta-treated group).
 The statistically significant OS benefit in favour of the Perjeta-treated group, previously observed at an interim analysis of OS (performed one year after the primary analysis), was maintained (HR 0.68, p = 0.0002 log-rank test).
-The median time to death was 40.8 months in the placebo-treated group and 56.5 months in the Perjeta-treated group (see Table 3,
-Figure 2).
+The median time to death was 40.8 months in the placebo-treated group and 56.5 months in the Perjeta-treated group (see Table 3, Figure 2).
 
 Figure 2 Kaplan-Meier Curve of Overall Survival
 
