@@ -10,6 +10,7 @@ The blood glucose lowering effect of insulin aspart is due to the facilitated up
 
 NovoRapid produces a more rapid onset of action compared to soluble human insulin, together with a lower glucose concentration, as assessed within the first four hours after a meal.
 NovoRapid has a shorter duration of action compared to soluble human insulin after subcutaneous injection.
+
 Fig. I. Blood glucose concentrations following a single pre-meal dose of NovoRapid injected immediately before a meal (solid curve) or soluble human insulin administered 30 minutes before a meal (hatched curve) in patients with type 1 diabetes mellitus.
 
 When NovoRapid is injected subcutaneously, the onset of action will occur within 10 to 20 minutes of injection.
@@ -29,16 +30,16 @@ The risk of daytime hypoglycaemia was not significantly increased.
 Insulin aspart is equipotent to soluble human insulin on a molar basis.
 
 Special populations
-
 Elderly (≥ 65 years old)
-A randomised, double-blind cross-over PK/PD trial comparing insulin aspart with soluble human insulin was performed in elderly patients with type 2 diabetes (19 patients aged 65-83 years, mean age 70 years).
-The relative differences in the pharmacodynamic properties (GIRmax,AUCGIR, 0-120 min) between insulin aspart and human insulin in the elderly were similar to those seen in healthy subjects and in younger patients with diabetes.
+A randomised, double-blind cross-over PK/PD trial comparing insulin aspart with soluble human insulin was performed in elderly patients with type 2 diabetes (19 patients aged 65–83 years, mean age 70 years).
+The relative differences in the pharmacodynamic properties (GIRmax,AUCGIR, 0–120 min) between insulin aspart and soluble human insulin in the elderly were similar to those seen in healthy subjects and in younger patients with diabetes.
 
 Paediatric population
-A clinical trial comparing preprandial soluble human insulin with postprandial insulin aspart was performed in small children (20 patients aged 2 to less than 6 years, studied for 12 weeks, among those four were younger than 4 years old) and a single dose PK/PD trial was performed in children (6-12 years) and adolescents (13-17 years).
+A clinical trial comparing preprandial soluble human insulin with postprandial insulin aspart was performed in small children (20 patients aged 2 to less than 6 years, studied for 12 weeks, among those four were younger than 4 years old) and a single dose PK/PD trial was performed in children (6–12 years) and adolescents (13–17 years).
 The pharmacodynamic profile of insulin aspart in children was similar to that seen in adults.
+
 The efficacy and safety of NovoRapid given as bolus insulin in combination with either insulin detemir or insulin degludec as basal insulin has been studied for up to 12 months, in two randomised controlled clinical trials in adolescents and children aged 1 to less than 18 years (n=712).
-The trials included 167 children aged 1-5 years, 260 aged 6-11 and 285 aged 12-17.
+The trials included 167 children aged 1–5 years, 260 aged 6–11 and 285 aged 12–17.
 The observed improvements in HbA1c and the safety profiles were comparable between all age groups.
 
 Pregnancy

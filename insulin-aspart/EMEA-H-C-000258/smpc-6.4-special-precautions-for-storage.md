@@ -2,8 +2,9 @@
 
 For storage conditions of the medicinal product, see section 6.3.
 
-Before opening: Store in a refrigerator (2°C - 8°C).
+Before opening: Store in a refrigerator (2°C – 8°C).
 Do not freeze.
+
 NovoRapid vial/NovoRapid Penfill
 During use or when carried as a spare: Store below 30°C.
 Do not refrigerate.
@@ -12,7 +13,7 @@ Keep the vial/cartridge in the outer carton in order to protect from light.
 
 NovoRapid FlexPen/NovoRapid FlexTouch
 During use or when carried as a spare: Store below 30˚C.
-Can be stored in a refrigerator (2˚C - 8˚C).
+Can be stored in a refrigerator (2˚C – 8˚C).
 Do not freeze.
 Keep the pen cap on the pen in order to protect from light.
 

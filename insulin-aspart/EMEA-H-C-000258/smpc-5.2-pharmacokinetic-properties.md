@@ -14,8 +14,8 @@ The intra-individual variability in time to maximum concentration is significant
 Special populations
 
 Elderly (≥ 65 years old)
-The relative differences in pharmacokinetic properties between insulin aspart and soluble human insulin in elderly patients (65-83 years, mean age 70 years) with type 2 diabetes were similar to those observed in healthy subjects and in younger patients with diabetes.
-A decreased absorption rate was observed in elderly patients, resulting in a later tmax (82 (interquartile range: 60-120) minutes), whereas Cmax was similar to that observed in younger patients with type 2 diabetes and slightly lower than in patients with type 1 diabetes.
+The relative differences in pharmacokinetic properties between insulin aspart and soluble human insulin in elderly patients (65–83 years, mean age 70 years) with type 2 diabetes were similar to those observed in healthy subjects and in younger patients with diabetes.
+A decreased absorption rate was observed in elderly patients, resulting in a later tmax (82 (interquartile range: 60–120) minutes), whereas Cmax was similar to that observed in younger patients with type 2 diabetes and slightly lower than in patients with type 1 diabetes.
 
 Hepatic impairment
 A single dose pharmacokinetic study of insulin aspart was performed in 24 subjects with hepatic function ranging from normal to severely impaired.
@@ -27,6 +27,7 @@ A single dose pharmacokinetic study of insulin aspart in 18 subjects with renal 
 No apparent effect of creatinine clearance values on AUC, Cmax, CL/F and tmax of insulin aspart was found.
 Data were limited in patients with moderate and severe renal impairment.
 Patients with renal failure necessitating dialysis treatment were not investigated.
+
 Paediatric population
 The pharmacokinetic and pharmacodynamic properties of NovoRapid were investigated in children (6–12 years) and adolescents (13–17 years) with type 1 diabetes.
 Insulin aspart was rapidly absorbed in both age groups, with similar tmax as in adults.

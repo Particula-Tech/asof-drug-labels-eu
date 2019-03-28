@@ -29,6 +29,7 @@ Usual warning symptoms may disappear in patients with longstanding diabetes.
 A consequence of the pharmacodynamics of rapid-acting insulin analogues is that if hypoglycaemia occurs, it may occur earlier after an injection when compared with soluble human insulin.
 
 Since NovoRapid should be administered in immediate relation to a meal, the rapid onset of action should be considered in patients with concomitant diseases or treatment where a delayed absorption of food might be expected.
+
 Concomitant illness, especially infections and feverish conditions, usually increases the patient’s insulin requirements.
 Concomitant diseases in the kidney, liver or affecting the adrenal, pituitary or thyroid gland can require changes in the insulin dose.
 
@@ -58,7 +59,6 @@ Pioglitazone should be discontinued if any deterioration in cardiac symptoms occ
 Avoidance of accidental mix-ups/medication errors
 
 Patients must be instructed to always check the insulin label before each injection to avoid accidental mix-ups between NovoRapid and other insulin products.
-
 Insulin antibodies
 
 Insulin administration may cause insulin antibodies to form.

@@ -3,7 +3,7 @@
 NovoRapid vial
 10 ml solution in vial (type 1 glass) closed with a disc (bromobutyl/polyisoprene rubber) and a protective tamper-proof plastic cap.
 
-Pack sizes of 1 or 5 vials of 10 ml or a multipack containing 5 packs of 1 x 10 ml vials.
+Pack sizes of 1 or 5 vials of 10 ml or a multipack containing 5 packs of 1 x 10 ml vial.
 Not all pack sizes may be marketed.
 
 NovoRapid Penfill
@@ -32,5 +32,6 @@ Not all pack sizes may be marketed.
 
 NovoRapid PumpCart
 1.6 ml solution in cartridge (type 1 glass) with a plunger (bromobutyl) and a rubber closure (bromobutyl/polyisoprene).
+
 Pack size of 5 cartridges and a multipack containing 25 (5 packs of 5) cartridges.
 Not all pack sizes may be marketed.

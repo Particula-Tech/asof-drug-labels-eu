@@ -34,7 +34,6 @@ Description of selected adverse reactions
 
 Anaphylactic reactions:
 The occurrence of generalised hypersensitivity reactions (including generalised skin rash, itching, sweating, gastrointestinal upset, angioneurotic oedema, difficulties in breathing, palpitation and reduction in blood pressure) is very rare but can potentially be life threatening.
-
 Hypoglycaemia:
 The most frequently reported adverse reaction is hypoglycaemia.
 It may occur if the insulin dose is too high in relation to the insulin requirement.
@@ -50,6 +49,7 @@ Lipodystrophy (including lipohypertrophy, lipoatrophy) may occur at the injectio
 Continuous rotation of the injection site within the particular injection area reduces the risk of developing these reactions.
 
 Paediatric population
+
 Based on post-marketing sources and clinical trials, the frequency, type and severity of adverse reactions observed in the paediatric population do not indicate any differences to the broader experience in the general population.
 
 Other special populations
