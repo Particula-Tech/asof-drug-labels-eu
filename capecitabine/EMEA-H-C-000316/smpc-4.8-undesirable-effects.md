@@ -13,10 +13,10 @@ Tabulated list of adverse reactions
 ADRs considered by the investigator to be possibly, probably, or remotely related to the administration of capecitabine are listed in table 4 for capecitabine given as monotherapy and in table 5 for capecitabine given in combination with different chemotherapy regimens in multiple indications.
 The following headings are used to rank the ADRs by frequency: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000).
 Within each frequency grouping, ADRs are presented in order of decreasing seriousness.
-
 Capecitabine Monotherapy:
 Table 4 lists ADRs associated with the use of capecitabine monotherapy based on a pooled analysis of safety data from three major studies including over 1900 patients (studies M66001, SO14695, and SO14796).
 ADRs are added to the appropriate frequency grouping according to the overall incidence from the pooled analysis.
+
 Table 4 Summary of related ADRs reported in patients treated with capecitabine monotherapy
 
 | Body System | Very Common All grades | Common All grades | Uncommon Severe and/or Life-threatening (grade 3-4) or considered medically relevant | Rare/Very Rare (Post-Marketing Experience) |

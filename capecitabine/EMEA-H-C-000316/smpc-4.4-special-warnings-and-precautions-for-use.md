@@ -46,9 +46,18 @@ Diabetes mellitus or electrolyte disturbances.
 Caution must be exercised in patients with diabetes mellitus or electrolyte disturbances, as these may be aggravated during capecitabine treatment.
 
 Coumarin-derivative anticoagulation.
-In a interaction study with single-dose warfarin administration, there was a significant increase in the mean AUC (+57%) of S-warfarin.
+In an interaction study with single-dose warfarin administration, there was a significant increase in the mean AUC (+57%) of S-warfarin.
 These results suggest an interaction, probably due to an inhibition of the cytochrome P450 2C9 isoenzyme system by capecitabine.
 Patients receiving concomitant capecitabine and oral coumarin-derivative anticoagulant therapy should have their anticoagulant response (INR or prothrombin time) monitored closely and the anticoagulant dose adjusted accordingly (see section 4.5).
+
+Brivudine.
+Brivudine must not be administered concomitantly with capecitabine.
+Fatal cases have been reported following this drug interaction.
+There must be at least a 4-week waiting period between end of treatment with brivudine and start of capecitabine therapy.
+Treatment with brivudine can be started 24 hours after the last dose of capecitabine (see section 4.3 and 4.5).
+In the event of accidental administration of brivudine to patients being treated with capecitabine, effective measures should be taken to reduce the toxicity of capecitabine.
+Immediate admission to hospital is recommended.
+All measures should be initiated to prevent systemic infections and dehydration.
 
 Hepatic impairment.
 In the absence of safety and efficacy data in patients with hepatic impairment, Capecitabine use should be carefully monitored in patients with mild to moderate liver dysfunction, regardless of the presence or absence of liver metastasis.
@@ -61,13 +70,23 @@ The incidence of grade 3 or 4 adverse reactions in patients with moderate renal 
 
 Dihydropyrimidine dehydrogenase (DPD) deficiency: Rarely, unexpected, severe toxicity (e.g. stomatitis, diarrhoea, mucosal inflammation, neutropenia and neurotoxicity) associated with 5-FU has been attributed to a deficiency of DPD activity.
 Patients with low or absent DPD activity, an enzyme involved in fluorouracil degradation, are at increased risk for severe, life-threatening, or fatal adverse reactions caused by fluorouracil.
-Although DPD deficiency cannot be precisely defined, it is known that patients with certain homozygous or certain compound heterozygous mutations in the DPYD gene locus, which can cause complete or near complete absence of DPD enzymatic activity (as determined from laboratory assays), have the highest risk of life-threatening or fatal toxicity and should not be treated with Xeloda (see section 4.3).
+Although DPD deficiency cannot be precisely defined, it is known that patients with certain homozygous or certain compound heterozygous mutations in the DPYD gene locus (e.g. DPYD*2A, c.1679T>G, c.2846A>T and c.1236G>A/HapB3 variants), which can cause complete or near complete absence of DPD enzymatic activity (as determined from laboratory assays), have the highest risk of life-threatening or fatal toxicity and should not be treated with Xeloda (see section 4.3).
 No dose has been proven safe for patients with complete absence of DPD activity.
+Patients with certain heterozygous DPYD variants (including DPYD*2A, c.1679T>G, c.2846A>T and c.1236G>A/HapB3 variants) have been shown to have increased risk of severe toxicity when treated with capecitabine.
 
+The frequency of the heterozygous DPYD*2A genotype in the DPYD gene in Caucasian patients is around 1%, 1.1% for c.2846A>T, 2.6-6.3% for c.1236G>A/HapB3 variants and 0.07 to 0.1% for c.1679T>G.
+Genotyping for these alleles is recommended to identify patients at increased risk for severe toxicity.
+Data on the frequency of these DPYD variants in other populations than Caucasian is limited.
+It cannot be excluded that other rare variants may also be associated with an increased risk of severe toxicity.
 For patients with partial DPD deficiency (such as those with heterozygous mutations in the DPYD gene) and where the benefits of Xeloda are considered to outweigh the risks (taking into account the suitability of an alternative non-fluoropyrimidine chemotherapeutic regimen), these patients must be treated with extreme caution and frequent monitoring with dose adjusment according to toxicity.
+A reduction of the starting dose in these patients may be considered to avoid serious toxicity.
 There is insufficient data to recommend a specific dose in patients with partial DPD activity as measured by specific test.
+It has been reported that the DPYD*2A, c.1679T>G variants lead to a greater reduction in enzymatic activity than the other variants with a higher risk of side effects.
+The consequences of a reduced dose for efficacy are currently uncertain.
+Therefore, in the absence of serious toxicity the dose could be increased while carefully monitoring the patient.
+The patients who are tested negative for the above-mentioned alleles may still have a risk of severe adverse events.
 
-In patients with unrecognised DPD deficiency treated with capecitabine, life-threatening toxicities manifesting as acute overdose may occur (see section 4.9).
+In patients with unrecognised DPD deficiency treated with capecitabine as well as in those patients who test negative for specific DPYD variations, life-threatening toxicities manifesting as acute overdose may occur (see section 4.9).
 In the event of grade 2-4 acute toxicity, treatment must be discontinued immediately.
 Permanent discontinuation should be considered based on clinical assessment of the onset, duration and severity of the observed toxicities.
 

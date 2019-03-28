@@ -68,7 +68,7 @@ However, the on-treatment PFS analysis did not confirm the results of the genera
 Although sensitivity analyses show that differences in regimen schedules and timing of tumor assessments impact the on-treatment PFS analysis, a full explanation for this result has not been found.
 Table 7 Key efficacy results for the non-inferiority analysis of Study NO16966
 
-PRIMARY ANALYSIS
+PRIMARY ANALYS I S
 XELOX/XELOX+P/ FOLFOX-4/FOLFOX-4+P/
 XELOX+BV FOLFOX-4+BV
 (EPP*: N=967; ITT**: N=1017) (EPP*: N = 937; ITT**: N= 1017)
@@ -152,7 +152,7 @@ The median follow up at the time of the primary analyses in the intent-to-treat 
 
 Table 9 Key efficacy results for the non-inferiority analysis of Study NO16967
 
-PRIMARY ANALYSIS
+PRIMARY ANALYS IS
 XELOX FOLFOX-4
 (PPP*: N=251; ITT**: N=313) (PPP*: N = 252; ITT**: N= 314)
 HR
