@@ -23,8 +23,8 @@ Table 2 Effects of other active substances on everolimus
 | Nefazodone |  |  |
 | Ritonavir, atazanavir, saquinavir, darunavir, indinavir, nelfinavir |  |  |
 | Moderate CYP3A4/PgP inhibitors |  |  |
-| Erythromycin | AUC ↑4.4-fold (range 2.0-12.6) Cmax ↑2.0-fold (range 0.9-3.5) | Use caution when co-administration of moderate CYP3A4 inhibitors or PgP inhibitors cannot be avoided. If patients require co-administration |
-| Imatinib | AUC ↑ 3.7-fold Cmax ↑ 2.2-fold | of a moderate CYP3A4 or PgP inhibitor, dose reduction to 5 mg daily or 2.5 mg daily may be considered. However, there are no clinical data with this dose adjustment. Due to between subject variability the recommended dose adjustments may not be optimal in all individuals, therefore close monitoring of side effects is recommended. If the moderate inhibitor is discontinued, consider a washout period of at least 2 to 3 days (average elimination time for most commonly used moderate inhibitors) before the Afinitor dose is returned to the dose used prior to initiation of the co-administration. |
+| Erythromycin | AUC ↑4.4-fold (range 2.0-12.6) Cmax ↑2.0-fold (range 0.9-3.5) | Use caution when co-administration of moderate CYP3A4 inhibitors or PgP inhibitors cannot be avoided. If patients require co-administration of a moderate CYP3A4 or PgP inhibitor, dose reduction to 5 mg daily or 2.5 mg daily may be considered. However, there are no clinical data with this dose adjustment. Due to between subject variability the recommended dose adjustments may not be optimal in all individuals, therefore close monitoring of side effects is recommended. If the moderate inhibitor is discontinued, consider a washout period of at least 2 to 3 days (average elimination time for most commonly used moderate inhibitors) before the Afinitor dose is returned to the dose used prior to initiation of the co-administration. |
+| Imatinib | AUC ↑ 3.7-fold Cmax ↑ 2.2-fold |  |
 | Verapamil | AUC ↑3.5-fold (range 2.2-6.3) Cmax ↑2.3-fold (range1.3-3.8) |  |
 | Ciclosporin oral | AUC ↑2.7-fold (range 1.5-4.7) Cmax ↑1.8-fold (range 1.3-2.6) |  |
 | Fluconazole | Not studied. Increased exposure expected. |  |
@@ -52,7 +52,7 @@ A clinically significant effect on the efficacy response to everolimus in patien
 
 Co-administration of everolimus and exemestane increased exemestane Cmin and C2h by 45% and 64%, respectively.
 However, the corresponding oestradiol levels at steady state (4 weeks) were not different between the two treatment arms.
-No increase in adverse events related to exemestane was observed in patients with hormone receptor-positive advanced breast cancer receiving the combination.
+No increase in adverse reactions related to exemestane was observed in patients with hormone receptor-positive advanced breast cancer receiving the combination.
 The increase in exemestane levels is unlikely to have an impact on efficacy or safety.
 
 Concomitant use of angiotensin-converting enzyme (ACE) inhibitors

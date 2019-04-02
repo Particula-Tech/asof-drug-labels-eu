@@ -1,6 +1,6 @@
 # 6.1 List of excipients
 
-Butylated hydroxytoluene (E321)
+Butylhydroxytoluene
 Magnesium stearate
 Lactose monohydrate
 Hypromellose

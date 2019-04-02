@@ -9,6 +9,7 @@ Inhibition of the mTORC1 signalling pathway interferes with the translation and 
 S6K1is thought to phosphorylate the activation function domain 1 of the oestrogen receptor, which is responsible for ligand-independent receptor activation.
 Everolimus reduces levels of vascular endothelial growth factor (VEGF), which potentiates tumour angiogenic processes.
 Everolimus is a potent inhibitor of the growth and proliferation of tumour cells, endothelial cells, fibroblasts and blood-vessel-associated smooth muscle cells and has been shown to reduce glycolysis in solid tumours in vitro and in vivo.
+
 Clinical efficacy and safety
 Hormone receptor-positive advanced breast cancer
 BOLERO-2 (study CRAD001Y2301), a randomised, double-blind, multicentre phase III study of Afinitor + exemestane versus placebo + exemestane, was conducted in postmenopausal women with oestrogen receptor-positive, HER2/neu negative advanced breast cancer with recurrence or progression following prior therapy with letrozole or anastrozole.
@@ -23,7 +24,6 @@ Secondary endpoints included overall survival (OS), objective response rate, cli
 A total of 724 patients were randomised in a 2:1 ratio to the combination everolimus (10 mg daily) + exemestane (25 mg daily) (n=485) or to the placebo + exemestane arm (25 mg daily) (n=239).
 At the time of the final OS analysis, the median duration of everolimus treatment was 24.0 weeks (range 1.0-199.1 weeks).
 The median duration of exemestane treatment was longer in the everolimus + exemestane group at 29.5 weeks (1.0-199.1) compared to 14.1 weeks (1.0-156.0) in the placebo + exemestane group.
-
 The efficacy results for the primary endpoint were obtained from the final PFS analysis (see Table 4 and Figure 1).
 Patients in the placebo + exemestane arm did not cross over to everolimus at the time of progression.
 
@@ -44,6 +44,7 @@ Table 4 BOLERO-2 efficacy results
 Figure 1 BOLERO-2 Kaplan-Meier progression-free survival curves (investigator radiological review)
 
 100
+
 Hazard Ratio = 0.45
 95% CI [0.38, 0.54]
 Log-rank p value: <0.0001
@@ -57,22 +58,55 @@ Censoring Times
 20
 
 0
-0 6 12 18 24 30 36 42 48 54 60 66 72 78 84 90 96 102 108 114 120
+0 6 12 18 24 30 36 4 48 5 60 66 72 78 84 90 96 102 108 114 120
 
-Number of Patients still at Risk Time (weeks)
+Number of Patients still at Risk 2 Time (weeks) 4
 
 Time(weeks) 0 6 12 18 24 30 36 42 48 54 60 66 72 78 84 90 96 102 108 114 120 Everolimus 485 436 366 304 257 221 185 158 124 91 66 50 35 24 22 13 10 8 2 1 0 Placebo 239 190 132 96 67 50 39 30 21 15 10 8 5 3 1 1 1 0 0 0 0
 
 The estimated PFS treatment effect was supported by planned subgroup analysis of PFS per investigator assessment.
-For all analysed subgroups (age, sensitivity to prior hormonal therapy, number of organs involved, status of bone-only lesions at baseline and presence of visceral metastasis, and across major demographic and prognostic subgroups) a positive treatment effect was seen with everolimus + exemestane with an estimated hazard ratio versus placebo + exemestane ranging from 0.25 to 0.60.
+For all analysed subgroups (age, sensitivity to prior hormonal therapy, number of organs involved, status of bone-only lesions at baseline and presence of visceral metastasis, and across major demographic and prognostic subgroups) a positive treatment effect was seen with everolimus + exemestane with an estimated hazard ratio (HR) versus placebo + exemestane ranging from 0.25 to 0.60.
 
 No differences in the time to ≥5% deterioration in the global and functional domain scores of QLQ-C30 were observed in the two arms.
 
+BOLERO-6 (Study CRAD001Y2201), a three-arm, randomised, open-label, phase II study of everolimus in combination with exemestane versus everolimus alone versus capecitabine in the treatment of postmenopausal women with oestrogen receptor-positive, HER2/neu negative, locally advanced, recurrent, or metastatic breast cancer after recurrence or progression on prior letrozole or anastrozole.
+
+The primary objective of the study was to estimate the HR of PFS for everolimus + exemestane versus everolimus alone.
+The key secondary objective was to estimate the HR of PFS for everolimus + exemestane versus capecitabine.
+
+Other secondary objectives included the evaluation of OS, objective response rate, clinical benefit rate, safety, time to ECOG performance deterioration, time to QoL deterioration, and treatment satisfaction (TSQM).
+No formal statistical comparisons were planned.
+A total of 309 patients were randomised in a 1:1:1 ratio to the combination of everolimus (10 mg daily) + exemestane (25 mg daily) (n=104), everolimus alone (10 mg daily) (n=103), or capecitabine (1250 mg/m2 dose twice daily for 2 weeks followed by one week rest, 3-week cycle) (n=102).
+At the time of data cut-off, the median duration of treatment was 27.5 weeks (range 2.0-165.7) in the everolimus + exemestane arm, 20 weeks (1.3-145.0) in the everolimus arm, and 26.7 weeks (1.4-177.1) in the capecitabine arm.
+
+The result of the final PFS analysis with 154 PFS events observed based on local investigator assessment showed an estimated HR of 0.74 (90% CI: 0.57, 0.97) in favour of the everolimus + exemestane arm relative to everolimus arm.
+The median PFS was 8.4 months (90% CI: 6.6, 9.7) and 6.8 months (90% CI: 5.5, 7.2), respectively.
+
+Figure 2 BOLERO-6 Kaplan-Meier progression-free survival curves (investigator radiological review)
+
+Hazard Ratio = 0.74
+90% CI [0.57;0.97]
+Kaplan-Meier medians Everolimus/Exemestane: 36.57 [28.71;42.29] weeks Everolimus: 29.43 [24.00;31.29] weeks
+
+Censoring Times
+Everolimus/Exemestane (n/N=80/104)
+Everolimus (n/N=74/103)
+No of patients still at risk Time (Weeks)
+Time (weeks)
+Everolimus/Exemestane
+Everolimus
+
+For the key secondary endpoint PFS the estimated HR was 1.26 (90% CI: 0.96, 1.66) in favour of capecitabine over the everolimus + exemestane combination arm based on a total of 148 PFS events observed.
+
+Results of the secondary endpoint OS were not consistent with the primary endpoint PFS, with a trend observed favouring the everolimus alone arm.
+The estimated HR was 1.27 (90% CI: 0.95, 1.70) for the comparison of OS in the everolimus alone arm relative to the everolimus + exemestane arm.
+The estimated HR for the comparison of OS in the everolimus + exemestane combination arm relative to capecitabine arm was 1.33 (90% CI: 0.99, 1.79).
+
 Advanced neuroendocrine tumours of pancreatic origin (pNET)
-RADIANT-3 (study CRAD001C2324), a phase III, multicentre, randomised, double-blind study of Afinitor plus best supportive care (BSC) versus placebo plus BSC in patients with advanced pNET, demonstrated a statistically significant clinical benefit of Afinitor over placebo by a 2.4-fold prolongation of median progression-free-survival (PFS) (11.04 months versus 4.6 months), (HR 0.35; 95% CI: 0.27, 0.45; p<0.0001) (see Table 5 and Figure 2).
+RADIANT-3 (study CRAD001C2324), a phase III, multicentre, randomised, double-blind study of Afinitor plus best supportive care (BSC) versus placebo plus BSC in patients with advanced pNET, demonstrated a statistically significant clinical benefit of Afinitor over placebo by a 2.4-fold prolongation of median progression-free-survival (PFS) (11.04 months versus 4.6 months), (HR 0.35; 95% CI: 0.27, 0.45; p<0.0001) (see Table 5 and Figure 3).
+
 RADIANT-3 involved patients with well- and moderately-differentiated advanced pNET whose disease had progressed within the prior 12 months.
 Treatment with somatostatin analogues was allowed as part of BSC.
-
 The primary endpoint for the study was PFS evaluated by RECIST (Response Evaluation Criteria in Solid Tumors).
 Following documented radiological progression, patients could be unblinded by the investigator.
 Those randomised to placebo were then able to receive open-label Afinitor.
@@ -97,7 +131,7 @@ Table 5 RADIANT-3 – efficacy results
 | Median overall survival (months) (95% CI) |  |  |  |  |
 | Median overall survival | 44.02 (35.61, 51.75) | 37.68 (29.14, 45.77) | 0.94 (0.73, 1.20) | 0.300 |
 
-Figure 2 RADIANT-3 – Kaplan-Meier progression-free survival curves (investigator radiological review)
+Figure 3 RADIANT-3 – Kaplan-Meier progression-free survival curves (investigator radiological review)
 
 100
 Hazard Ratio = 0.35
@@ -134,8 +168,8 @@ A total of 302 patients were randomised in a 2:1 ratio to receive either everoli
 Demographics and disease characteristics were generally balanced (median age 63 years [range 22 to 86], 76% Caucasian, history of prior somatostatin analogue [SSA] use).
 The median duration of blinded treatment was 40.4 weeks for patients receiving Afinitor and 19.6 weeks for those receiving placebo.
 Patients in the placebo arm did not cross-over to everolimus at the time of progression.
+The efficacy results for the primary endpoint were obtained from the final PFS analysis (see Table 6 and Figure 4).
 
-The efficacy results for the primary endpoint were obtained from the final PFS analysis (see Table 6 and Figure 3).
 Table 6 RADIANT-4 – Progression-free survival results
 
 | Population | Afinitor n=205 | Placebo n=97 | Hazard ratio (95% CI) | p-valuea |
@@ -145,7 +179,7 @@ Table 6 RADIANT-4 – Progression-free survival results
 | Investigator radiological review | 13.96 (11.2, 17.7) | 5.45 (3.7, 7.4) | 0.39 (0.28, 0.54) | <0.0001 |
 | a One-sided p-value from a stratified log-rank test |  |  |  |  |
 
-Figure 3 RADIANT-4 – Kaplan-Meier progression-free survival curves (independent radiological review)
+Figure 4 RADIANT-4 – Kaplan-Meier progression-free survival curves (independent radiological review)
 
 100 Hazard Ratio = 0.48
 90 95% CI [0.35, 0.67]
@@ -174,8 +208,9 @@ Time(months) 0 2 4 6 8 10 12 15 18 21 24 27 30 Everolimus 205 168 145 124 101 81
 
 Placebo 97 65 39 30 24 21 17 15 11 6 5 1 0
 
-In supportive analyses, positive treatment effect has been observed in all subgroups with the exception of the subgroup of patients with ileum as primary site of tumour origin (Ileum: HR=1.22 [95% CI: 0.56 to 2.65]; Non-ileum: HR=0.34 [95% CI: 0.22 to 0.54]; Lung: HR=0.43 [95% CI: 0.24 to 0.79]) (see Figure 4).
-Figure 4 RADIANT-4 – Progression free survival results by pre-specified patient subgroup (independent radiological review)
+In supportive analyses, positive treatment effect has been observed in all subgroups with the exception of the subgroup of patients with ileum as primary site of tumour origin (Ileum: HR=1.22 [95% CI: 0.56 to 2.65]; Non-ileum: HR=0.34 [95% CI: 0.22 to 0.54]; Lung: HR=0.43 [95% CI: 0.24 to 0.79]) (see Figure 5).
+
+Figure 5 RADIANT-4 – Progression free survival results by pre-specified patient subgroup (independent radiological review)
 
 All (N=302)
 
@@ -220,7 +255,6 @@ Hazard ratio (95% CI) from stratified Cox model
 The pre-planned OS interim analysis after 101 deaths (out of 191 required for final analysis) and 33 months follow-up favoured the everolimus arm; however, no statistically significant difference in OS was noted (HR= 0.73 [95% CI: 0.48 to 1.11; p=0.071]).
 
 No difference in the time to definitive deterioration of WHO PS (≥1 point) and time to definitive deterioration in quality of life (FACT-G total score ≥7 points) was observed between the two arms.
-
 Advanced renal cell carcinoma
 RECORD-1 (study CRAD001C2240), a phase III, international, multicentre, randomised, double-blind study comparing everolimus 10 mg/day and placebo, both in conjunction with best supportive care, was conducted in patients with metastatic renal cell carcinoma whose disease had progressed on or after treatment with VEGFR-TKI (vascular endothelial growth factor receptor tyrosine kinase inhibitor) therapy (sunitinib, sorafenib, or both sunitinib and sorafenib).
 Prior therapy with bevacizumab and interferon-α was also permitted.
@@ -235,7 +269,7 @@ In total, 416 patients were randomised 2:1 to receive Afinitor (n=277) or placeb
 Demographics were well balanced (pooled median age [61 years; range 27-85], 78% male, 88% Caucasian, number of prior VEGFR-TKI therapies [1-74%, 2-26%]).
 The median duration of blinded study treatment was 141 days (range 19-451 days) for patients receiving everolimus and 60 days (range 21-295 days) for those receiving placebo.
 
-Afinitor was superior to placebo for the primary endpoint of progression-free survival, with a statistically significant 67% reduction in the risk of progression or death (see Table 7 and Figure 5).
+Afinitor was superior to placebo for the primary endpoint of progression-free survival, with a statistically significant 67% reduction in the risk of progression or death (see Table 7 and Figure 6).
 
 Table 7 RECORD-1 – Progression-free survival results
 
@@ -252,7 +286,7 @@ Table 7 RECORD-1 – Progression-free survival results
 | Poor risk | 61 | 3.6 (1.9-4.6) | 1.8 (1.8-3.6) | 0.44 (0.22-0.85) | 0.007 |
 | a Stratified log-rank test |  |  |  |  |  |
 
-Figure 5 RECORD-1 – Kaplan-Meier progression-free survival curves (independent central review)
+Figure 6 RECORD-1 – Kaplan-Meier progression-free survival curves (independent central review)
 
 Censoring Times
 Everolimus (n/N = 155/277)
@@ -286,6 +320,5 @@ In a post-marketing single-arm study in postmenopausal women with advanced breas
 The incidence of Grade ≥2 stomatitis at 8 weeks was 2.4% (n=2/85 evaluable patients) which was lower than historically reported.
 The incidence of Grade 1 stomatitis was 18.8% (n=16/85) and no cases of Grade 3 or 4 stomatitis were reported.
 The overall safety profile in this study was consistent with that established for everolimus in the oncology and tuberous sclerosis complex (TSC) settings, with the exception of a slightly increased frequency of oral candidiasis which was reported in 2.2% (n=2/92) of patients.
-
 Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with Afinitor in all subsets of the paediatric population in neuroendocrine tumours of pancreatic origin, thoracic neuroendocrine tumours and in renal cell carcinoma (see section 4.2 for information on paediatric use).

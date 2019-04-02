@@ -36,10 +36,10 @@ After administration of everolimus in patients with advanced solid tumours, stea
 Steady-state was achieved within 2 weeks.
 Cmax is dose-proportional between 5 and 10 mg. tmax occurs at 1 to 2 hours post-dose.
 There was a significant correlation between AUC0-τ and pre-dose trough concentration at steady-state.
-
 Special populations
 Hepatic impairment
 The safety, tolerability and pharmacokinetics of everolimus were evaluated in two single oral dose studies of Afinitor tablets in 8 and 34 subjects with impaired hepatic function relative to subjects with normal hepatic function.
+
 In the first study, the average AUC of everolimus in 8 subjects with moderate hepatic impairment (Child-Pugh B) was twice that found in 8 subjects with normal hepatic function.
 
 In the second study of 34 subjects with different impaired hepatic function compared to normal subjects, there was a 1.6-fold, 3.3-fold and 3.6-fold increase in exposure (i.e. AUC0-inf) for subjects with mild (Child-Pugh A), moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment, respectively.

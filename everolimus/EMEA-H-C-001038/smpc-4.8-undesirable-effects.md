@@ -1,7 +1,7 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-The safety profile is based on pooled data from 2,672 patients treated with Afinitor in ten clinical studies, consisting of five randomised, double-blind, placebo controlled phase III studies and five open-label phase I and phase II studies, related to the approved indications.
+The safety profile is based on pooled data from 2,879 patients treated with Afinitor in eleven clinical studies, consisting of five randomised, double-blind, placebo controlled phase III studies and six open-label phase I and phase II studies, related to the approved indications.
 
 The most common adverse reactions (incidence ≥1/10) from the pooled safety data were (in decreasing order): stomatitis, rash, fatigue, diarrhoea, infections, nausea, decreased appetite, anaemia, dysgeusia, pneumonitis, oedema peripheral, hyperglycaemia, asthenia, pruritus, weight decreased, hypercholesterolaemia, epistaxis, cough and headache.
 
@@ -55,7 +55,7 @@ Table 3 Adverse reactions reported in clinical studies
 | Skin and subcutaneous tissue disorders |  |
 | Very common | Rash, pruritus |
 | Common | Dry skin, nail disorders, mild alopecia, acne, erythema, onychoclasis, palmar-plantar erythrodysaesthesia syndrome, skin exfoliation, skin lesion |
-| Rare | Angioedema |
+| Rare | Angioedema* |
 | Musculoskeletal and connective tissue disorders |  |
 | Common | Arthralgia |
 | Renal and urinary disorders |  |
@@ -63,24 +63,25 @@ Table 3 Adverse reactions reported in clinical studies
 | Uncommon | Increased daytime urination, acute renal failure* |
 | Reproductive system and breast disorders |  |
 | Common | Menstruation irregular e |
-| Uncommon | Amenorrhoea e |
+| Uncommon | Amenorrhoea e* |
 | General disorders and administration site conditions |  |
 | Very common | Fatigue, asthenia, oedema peripheral |
 | Common | Pyrexia |
 | Uncommon | Non-cardiac chest pain, impaired wound healing |
 | Investigations |  |
 | Very common | Weight decreased |
-| * See also subsection “Description of selected adverse reactions” a Includes all reactions within the ‘infections and infestations’ system organ class including (common) pneumonia, urinary tract infection; (uncommon) bronchitis, herpes zoster, sepsis, abscess, and isolated cases of opportunistic infections [e.g. aspergillosis, candidiasis, pneumocystis jirovecii (carinii) pneumonia (PJP, PCP) and hepatitis B (see also section 4.4)] and (rare) viral myocarditis b Includes different bleeding events from different sites not listed individually c Includes (common) pneumonitis, interstitial lung disease, lung infiltration and (rare) pulmonary alveolar haemorrhage, pulmonary toxicity, and alveolitis d Includes (very common) stomatitis, (common) aphthous stomatitis, mouth and tongue ulceration and (uncommon) glossodynia, glossitis e Frequency based upon number of women from 10 to 55 years of age in the pooled data |  |
+| * See also subsection “Description of selected adverse reactions” a Includes all reactions within the ‘infections and infestations’ system organ class including (common) pneumonia, urinary tract infection; (uncommon) bronchitis, herpes zoster, sepsis, abscess, and isolated cases of opportunistic infections [e.g. aspergillosis, candidiasis, PJP/PCP and hepatitis B (see also section 4.4)] and (rare) viral myocarditis b Includes different bleeding events from different sites not listed individually c Includes (very common) pneumonitis, (common) interstitial lung disease, lung infiltration and (rare) pulmonary alveolar haemorrhage, pulmonary toxicity, and alveolitis d Includes (very common) stomatitis, (common) aphthous stomatitis, mouth and tongue ulceration and (uncommon) glossodynia, glossitis e Frequency based upon number of women from 10 to 55 years of age in the pooled data |  |
 
 Description of selected adverse reactions
 In clinical studies and post-marketing spontaneous reports, everolimus has been associated with serious cases of hepatitis B reactivation, including fatal outcome.
 Reactivation of infection is an expected event during periods of immunosuppression.
+
 In clinical studies and post-marketing spontaneous reports, everolimus has been associated with renal failure events (including fatal outcome) and proteinuria.
 Monitoring of renal function is recommended (see section 4.4).
 
 In clinical studies and post-marketing spontaneous reports, everolimus has been associated with cases of amenorrhoea (secondary amenorrhoea and other menstrual irregularities).
 
-In clinical studies and post-marketing spontaneous reports, everolimus has been associated with cases of pneumocystis jirovecii (carinii) pneumonia (PJP, PCP), some with fatal outcome (see section 4.4).
+In clinical studies and post-marketing spontaneous reports, everolimus has been associated with cases of PJP/PCP, some with fatal outcome (see section 4.4).
 
 In clinical trials and post-marketing spontaneous reports, angioedema has been reported with and without concomitant use of ACE inhibitors (see section 4.4).
 
