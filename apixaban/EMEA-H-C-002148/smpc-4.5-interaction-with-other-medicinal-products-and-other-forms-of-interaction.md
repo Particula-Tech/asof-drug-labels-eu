@@ -18,7 +18,7 @@ No dose adjustment for apixaban is required during concomitant therapy with such
 
 Apixaban is not recommended for the treatment of DVT and PE in patients receiving concomitant systemic treatment with strong inducers of both CYP3A4 and P-gp since efficacy may be compromised (see section 4.4).
 
-Anticoagulants, platelet aggregation inhibitors and NSAIDs
+Anticoagulants, platelet aggregation inhibitors, SSRIs/SNRIs and NSAIDs
 Due to an increased bleeding risk, concomitant treatment with any other anticoagulants is contraindicated (see section 4.3).
 
 After combined administration of enoxaparin (40 mg single dose) with apixaban (5 mg single dose), an additive effect on anti-Factor Xa activity was observed.
@@ -34,7 +34,7 @@ Corresponding increases in clotting tests were observed for apixaban.
 No changes were observed in the effect of naproxen on arachidonic acid-induced platelet aggregation and no clinically relevant prolongation of bleeding time was observed after concomitant administration of apixaban and naproxen.
 
 Despite these findings, there may be individuals with a more pronounced pharmacodynamic response when antiplatelet agents are coadministered with apixaban.
-Eliquis should be used with caution when coadministered with NSAIDs (including acetylsalicylic acid) because these medicinal products typically increase the bleeding risk.
+Eliquis should be used with caution when coadministered with SSRIs/SNRIs or NSAIDs (including acetylsalicylic acid) because these medicinal products typically increase the bleeding risk.
 A significant increase in bleeding risk was reported with the triple combination of apixaban, ASA and clopidogrel in a clinical study in patients with acute coronary syndrome (see section 4.4).
 
 Medicinal products associated with serious bleeding are not recommended concomitantly with Eliquis, such as: thrombolytic agents, GPIIb/IIIa receptor antagonists, thienopyridines (e.g., clopidogrel), dipyridamole, dextran and sulfinpyrazone.

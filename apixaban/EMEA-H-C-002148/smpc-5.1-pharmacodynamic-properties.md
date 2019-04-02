@@ -63,6 +63,7 @@ Based on patient medical history in the studied population of ADVANCE-3 and ADVA
 (8,464 patients), 46% had hypertension, 10% had hyperlipidemia, 9% had diabetes, and 8% had coronary artery disease.
 
 Apixaban demonstrated a statistically superior reduction in the primary endpoint, a composite of all VTE/all cause death, and in the Major VTE endpoint, a composite of proximal DVT, non-fatal PE, and VTE-related death, compared to enoxaparin in both elective hip or knee replacement surgery (see Table 4).
+
 Table 4: Efficacy Results from Pivotal Phase III Studies
 
 | Study | ADVANCE-3 (hip) |  |  | ADVANCE-2 (knee) |  |  |
@@ -219,7 +220,6 @@ No systemic embolism events were reported.
 Major bleeding and CRNM bleeding events occurred in 3 (0.41%) and 11 (1.50%) patients, respectively, in the apixaban group, compared to 6 (0.83%) and 13 (1.80%) patients in the heparin and/or VKA group.
 
 This exploratory study showed comparable efficacy and safety between apixaban and heparin and/or VKA treatment groups in the setting of cardioversion.
-
 Treatment of DVT, treatment of PE and prevention of recurrent DVT and PE (VTEt)
 The clinical program (AMPLIFY: apixaban versus enoxaparin/warfarin, AMPLIFY-EXT: apixaban versus placebo) was designed to demonstrate the efficacy and safety of apixaban for the treatment of DVT and/or PE (AMPLIFY), and extended therapy for the prevention of recurrent DVT and/or PE following 6 to 12 months of anticoagulant treatment for DVT and/or PE (AMPLIFY-EXT).
 Both studies were randomised, parallel-group, double-blind, multinational trials in patients with symptomatic proximal DVT or symptomatic PE.
@@ -251,9 +251,9 @@ Table 10: Efficacy Results in the AMPLIFY Study
 
 Apixaban efficacy in initial treatment of VTE was consistent between patients who were treated for a PE [Relative Risk 0.9; 95% CI (0.5, 1.6)] or DVT [Relative Risk 0.8; 95% CI (0.5, 1.3)].
 Efficacy across subgroups, including age, gender, body mass index (BMI), renal function, extent of index PE, location of DVT thrombus, and prior parenteral heparin use was generally consistent.
-
 The primary safety endpoint was major bleeding.
 In the study, apixaban was statistically superior to enoxaparin/warfarin in the primary safety endpoint [Relative Risk 0.31, 95% confidence interval (0.17, 0.55), P-value <0.0001] (see Table 11).
+
 Table 11: Bleeding Results in the AMPLIFY Study
 
 |  | Apixaban N=2,676 n (%) | Enoxaparin/ Warfarin N=2,689 n (%) | Relative Risk (95% CI) |
@@ -286,10 +286,9 @@ Table 12: Efficacy Results in the AMPLIFY-EXT Study
 | All-cause death | 6 (0.7) | 3 (0.4) | 11 (1.3) |  |  |
 | Recurrent VTE or VTE-related death | 14 (1.7) | 14 (1.7) | 73 (8.8) | 0.19 (0.11, 0.33) | 0.20 (0.11, 0.34) |
 | Recurrent VTE or CV-related death | 14 (1.7) | 14 (1.7) | 76 (9.2) | 0.18 (0.10, 0.32) | 0.19 (0.11, 0.33) |
-| Nonfatal DVT† | 6 (0.7) | 8 (1.0) | 53 (6.4) | 0.11 (0.05, 0.26) | 0.15 (0.07, 0.32) |
-| Nonfatal PE† | 8 (1.0) | 4 (0.5) | 15 (1.8) | 0.51 | 0.27 |
 |  | 2.5 mg (N=840) | 5.0 mg (N=813) | (N=829) | Apix 2.5 mg vs. Placebo | Apix 5.0 mg vs. Placebo |
-|  |  |  |  | (0.22, 1.21) | (0.09, 0.80) |
+| Nonfatal DVT† | 6 (0.7) | 8 (1.0) | 53 (6.4) | 0.11 (0.05, 0.26) | 0.15 (0.07, 0.32) |
+| Nonfatal PE† | 8 (1.0) | 4 (0.5) | 15 (1.8) | 0.51 (0.22, 1.21) | 0.27 (0.09, 0.80) |
 | VTE-related death | 2 (0.2) | 3 (0.4) | 7 (0.8) | 0.28 (0.06, 1.37) | 0.45 (0.12, 1.71) |
 
 ¥ p-value < 0.0001
@@ -338,7 +337,6 @@ Table 3 below shows the predicted steady state exposure and anti-Factor Xa activ
 The mean age was 69.1 years, the mean CHADS2 score was 2.1, 18.9 % of patients had prior stroke or TIA.
 
 In the study, apixaban achieved statistically significant superiority in the primary endpoint of prevention of stroke (haemorrhagic or ischaemic) and systemic embolism (see Table 4) compared with warfarin.
-
 Table 4: Efficacy Outcomes in Patients with Atrial Fibrillation in the ARISTOTLE Study
 
 Statistically significant superiority was also achieved in the key secondary endpoints of both major bleeding and all-cause death (see Table 5).
@@ -366,7 +364,6 @@ There was no statistically significant difference in the incidence of major blee
 Table 7: Bleeding Events in Patients with Atrial Fibrillation in the AVERROES Study
 
 In the study, apixaban was shown to be non-inferior to enoxaparin/warfarin in the combined primary endpoint of adjudicated recurrent symptomatic VTE (nonfatal DVT or nonfatal PE) or VTE-related death (see Table 8).
-
 Table 8: Efficacy Results in the AMPLIFY Study
 
 |  | Apixaban N=2,609 n (%) | Enoxaparin/ Warfarin N=2,635 n (%) | Relative Risk (95% CI) |

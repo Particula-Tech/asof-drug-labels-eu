@@ -5,6 +5,7 @@ The absolute bioavailability of apixaban is approximately 50% for doses up to 10
 Apixaban is rapidly absorbed with maximum concentrations (Cmax) appearing 3 to 4 hours after tablet intake.
 Intake with food does not affect apixaban AUC or Cmax at the 10 mg dose.
 Apixaban can be taken with or without food.
+
 Apixaban demonstrates linear pharmacokinetics with dose proportional increases in exposure for oral doses up to 10 mg.
 At doses ≥ 25 mg apixaban displays dissolution limited absorption with decreased bioavailability.
 Apixaban exposure parameters exhibit low to moderate variability reflected by a within-subject and inter-subject variability of ~20% CV and ~30% CV, respectively.
@@ -43,7 +44,6 @@ Renal impairment had no evident effect on the relationship between apixaban plas
 In subjects with end-stage renal disease (ESRD), the AUC of apixaban was increased by 36% when a single dose of apixaban 5 mg was administered immediately after haemodialysis, compared to that seen in subjects with normal renal function.
 Haemodialysis, started two hours after administration of a single dose of apixaban 5 mg, decreased apixaban AUC by 14% in these ESRD subjects, corresponding to an apixaban dialysis clearance of 18 mL/min.
 Therefore, haemodialysis is unlikely to be an effective means of managing apixaban overdose.
-
 Hepatic impairment
 In a study comparing 8 subjects with mild hepatic impairment, Child-Pugh A score 5 (n = 6) and score 6 (n = 2), and 8 subjects with moderate hepatic impairment, Child-Pugh B score 7 (n = 6) and score 8 (n = 2), to 16 healthy control subjects, the single-dose pharmacokinetics and pharmacodynamics of apixaban 5 mg were not altered in subjects with hepatic impairment.
 Changes in anti-Factor Xa activity and INR were comparable between subjects with mild to moderate hepatic impairment and healthy subjects.

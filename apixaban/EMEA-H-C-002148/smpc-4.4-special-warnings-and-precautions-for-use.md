@@ -11,7 +11,7 @@ Due to an increased bleeding risk, concomitant treatment with any other anticoag
 
 The concomitant use of Eliquis with antiplatelet agents increases the risk of bleeding (see section 4.5).
 
-Care is to be taken if patients are treated concomitantly with non-steroidal anti-inflammatory drugs (NSAIDs), including acetylsalicylic acid.
+Care is to be taken if patients are treated concomitantly with selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs), or non-steroidal anti-inflammatory drugs (NSAIDs), including acetylsalicylic acid.
 
 Following surgery, other platelet aggregation inhibitors are not recommended concomitantly with Eliquis (see section 4.5).
 

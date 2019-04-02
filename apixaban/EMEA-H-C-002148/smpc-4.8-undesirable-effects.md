@@ -16,65 +16,60 @@ In the VTEt studies, the overall incidence of adverse reactions related to bleed
 
 Tabulated list of adverse reactions
 Table 2 shows the adverse reactions ranked under headings of system organ class and frequency using the following convention: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data) for VTEp, NVAF, and VTEt respectively.
-
 Table 2
-
-System Organ Class Prevention of Prevention of Treatment of
-VTE in adult stroke and DVT and PE,
-patients who have systemic and prevention
-undergone embolism in adult of recurrent
-elective hip or patients with DVT and PE
-knee replacement NVAF, with one (VTEt)
-surgery (VTEp) or more risk
-factors (NVAF)
 
 | System Organ Class | Prevention of VTE in adult patients who have undergone elective hip or knee replacement surgery (VTEp) | Prevention of stroke and systemic embolism in adult patients with NVAF, with one or more risk factors (NVAF) | Treatment of DVT and PE, and prevention of recurrent DVT and PE (VTEt) |
 | --- | --- | --- | --- |
 | Blood and lymphatic system disorders |  |  |  |
-| Anaemia | Common | - | - |
-| Thrombocytopenia | Uncommon | - | - |
+| Anaemia | Common | Common | Common |
+| Thrombocytopenia | Uncommon | Uncommon | Common |
 | Immune system disorders |  |  |  |
-| Hypersensitivity, allergic oedema and Anaphylaxis | Rare | Uncommon | - |
+| Hypersensitivity, allergic oedema and Anaphylaxis | Rare | Uncommon | Uncommon |
 | Pruritus | Uncommon | Uncommon | Uncommon* |
 | Nervous system disorders |  |  |  |
-| Brain haemorrhage | - | Uncommon | Rare |
+| Brain haemorrhage† | Not known | Uncommon | Rare |
 | Eye disorders |  |  |  |
 | Eye haemorrhage (including conjunctival haemorrhage) | Rare | Common | Uncommon |
 | Vascular disorders |  |  |  |
 | Haemorrhage, haematoma | Common | Common | Common |
-| Hypotension (including procedural hypotension) | Uncommon | - | - |
-| Intra-abdominal haemorrhage | - | Uncommon | - |
+| Hypotension (including procedural hypotension) | Uncommon | Common | Uncommon |
+| Intra-abdominal haemorrhage | Not known | Uncommon | Not known |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |
 | Epistaxis | Uncommon | Common | Common |
 | Haemoptysis | Rare | Uncommon | Uncommon |
-| Respiratory tract haemorrhage | - | Rare | Rare |
+| Respiratory tract haemorrhage | Not known | Rare | Rare |
 | Gastrointestinal disorders |  |  |  |
-| Nausea | Common | - | - |
+| Nausea | Common | Common | Common |
 | Gastrointestinal haemorrhage | Uncommon | Common | Common |
-| Haemorrhoidal haemorrhage, mouth haemorrhage | - | Uncommon | - |
+| Haemorrhoidal haemorrhage | Not known | Uncommon | Uncommon |
+| Mouth haemorrhage | Not known | Uncommon | Common |
 | Haematochezia | Uncommon | Uncommon | Uncommon |
 | Rectal haemorrhage, gingival bleeding | Rare | Common | Common |
-| Retroperitoneal haemorrhage | - | Rare | - |
+| Retroperitoneal haemorrhage | Not known | Rare | Not known |
 | Hepatobiliary disorders |  |  |  |
-| Transaminases increased, aspartate aminotransferase increased, gamma-glutamyltransferase increased, liver function test abnormal, blood alkaline phosphatase increased, blood bilirubin increased | Uncommon | - | - |
+| Liver function test abnormal, asparate aminotransferase increased, blood alkaline phosphatase increased, blood bilirubin increased | Uncommon | Uncommon | Uncommon |
+| Gamma-glutamyltransferase increased | Uncommon | Common | Common |
+| Alanine aminotransferase increased | Uncommon | Uncommon | Common |
 | Skin and subcutaneous tissue disorders |  |  |  |
-| Skin rash | - | Uncommon | - |
+| Skin rash | Not known | Uncommon | Common |
 | Musculoskeletal and connective tissue disorders |  |  |  |
-| Muscle haemorrhage | Rare | - | - |
+| Muscle haemorrhage | Rare | Rare | Uncommon |
 | Renal and urinary disorders |  |  |  |
 | Haematuria | Uncommon | Common | Common |
 | Reproductive system and breast disorders |  |  |  |
-| Abnormal vaginal haemorrhage, urogenital haemorrhage | - | Uncommon | Uncommon |
+| Abnormal vaginal haemorrhage, urogenital haemorrhage | Uncommon | Uncommon | Common |
 | General disorders and administration site conditions |  |  |  |
-| Application site bleeding | - | Uncommon | - |
+| Application site bleeding | Not known | Uncommon | Uncommon |
 | Investigations |  |  |  |
-| Occult blood positive | - | Uncommon | Uncommon |
+| Occult blood positive | Not known | Uncommon | Uncommon |
 | Injury, poisoning and procedural complications |  |  |  |
 | Contusion | Common | Common | Common |
-| Post procedural haemorrhage (including post procedural haematoma, wound haemorrhage, vessel puncture site haematoma and catheter site haemorrhage), wound secretion, incision site haemorrhage (including incision site haematoma), operative haemorrhage | Uncommon | - | - |
-| Traumatic haemorrhage, post procedural haemorrhage, incision site haemorrhage | - | Uncommon | Uncommon |
+| Post procedural haemorrhage (including post procedural haematoma, wound haemorrhage, vessel puncture site haematoma and catheter site haemorrhage), wound secretion, incision site haemorrhage (including incision site haematoma), operative haemorrhage | Uncommon | Uncommon | Uncommon |
+| Traumatic haemorrhage | Not known | Uncommon | Uncommon |
 
 * There were no occurrences of generalized pruritus in CV185057 (long term prevention of VTE)
+† The term “Brain haemorrhage” encompasses all intracranial or intraspinal haemorrhages (ie., haemorrhagic stroke or putamen, cerebellar, intraventricular, or subdural haemorrhages).
+
 The use of Eliquis may be associated with an increased risk of occult or overt bleeding from any tissue or organ, which may result in posthaemorrhagic anaemia.
 The signs, symptoms, and severity will vary according to the location and degree or extent of the bleeding (see sections 4.4 and 5.1).
 
@@ -95,36 +90,49 @@ Table 2 shows the adverse reactions ranked under headings of system organ class 
 
 | System Organ Class | Prevention of stroke and systemic embolism in adult patients with NVAF, with one or more risk factors (NVAF) | Treatment of DVT and PE, and prevention of recurrent DVT and PE (VTEt) |
 | --- | --- | --- |
+| Blood and lymphatic system disorders |  |  |
+| Anaemia | Common | Common |
+| Thrombocytopenia | Uncommon | Common |
 | Immune system disorders |  |  |
-| Hypersensitivity, allergic oedema and Anaphylaxis | Uncommon | - |
+| Hypersensitivity, allergic oedema and Anaphylaxis | Uncommon | Uncommon |
 | Pruritus | Uncommon | Uncommon* |
 | Nervous system disorders |  |  |
-| Brain haemorrhage | Uncommon | Rare |
+| Brain haemorrhage† | Uncommon | Rare |
 | Eye disorders |  |  |
 | Eye haemorrhage (including conjunctival haemorrhage) | Common | Uncommon |
 | Vascular disorders |  |  |
 | Haemorrhage, haematoma | Common | Common |
-| Intra-abdominal haemorrhage | Uncommon | - |
+| Hypotension (including procedural hypotension) | Common | Uncommon |
+| Intra-abdominal haemorrhage | Uncommon | Not known |
 | Respiratory, thoracic and mediastinal disorders |  |  |
 | Epistaxis | Common | Common |
 | Haemoptysis | Uncommon | Uncommon |
 | Respiratory tract haemorrhage | Rare | Rare |
 | Gastrointestinal disorders |  |  |
+| Nausea | Common | Common |
 | Gastrointestinal haemorrhage | Common | Common |
-| Haemorrhoidal haemorrhage, mouth haemorrhage | Uncommon | - |
+| Haemorrhoidal haemorrhage | Uncommon | Uncommon |
+| Mouth haemorrhage | Uncommon | Common |
 | Haematochezia | Uncommon | Uncommon |
 | Rectal haemorrhage, gingival bleeding | Common | Common |
-| Retroperitoneal haemorrhage | Rare | - |
+| Retroperitoneal haemorrhage | Rare | Not known |
+| Hepatobiliary disorders |  |  |
+| Liver function test abnormal, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood bilirubin increased | Uncommon | Uncommon |
+| Gamma-glutamyltransferase increased | Common | Common |
+| Alanine aminotransferase increased | Uncommon | Common |
 | Skin and subcutaneous tissue disorders |  |  |
-| Skin rash | Uncommon | - |
+| Skin rash | Uncommon | Common |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Muscle haemorrhage | Rare | Uncommon |
 | Renal and urinary disorders |  |  |
 | Haematuria | Common | Common |
 | Reproductive system and breast disorders |  |  |
-| Abnormal vaginal haemorrhage, urogenital haemorrhage | Uncommon | Uncommon |
+| Abnormal vaginal haemorrhage, urogenital haemorrhage | Uncommon | Common |
 | General disorders and administration site conditions |  |  |
-| Application site bleeding | Uncommon | - |
+| Application site bleeding | Uncommon | Uncommon |
 | Investigations |  |  |
 | Occult blood positive | Uncommon | Uncommon |
 | Injury, poisoning and procedural complications |  |  |
 | Contusion | Common | Common |
-| Traumatic haemorrhage, post procedural haemorrhage, incision site haemorrhage | Uncommon | Uncommon |
+| Post procedural haemorrhage (including post procedural haematoma, wound haemorrhage, vessel puncture site haematoma and catheter site haemorrhage), wound secretion, incision site haemorrhage (including incision site haematoma), operative haemorrhage | Uncommon | Uncommon |
+| Traumatic haemorrhage | Uncommon | Uncommon |
