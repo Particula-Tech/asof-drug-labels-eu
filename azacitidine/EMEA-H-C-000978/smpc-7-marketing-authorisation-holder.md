@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Celgene Europe BV
+Celgene Europe B.V.
 Winthontlaan 6 N
-3526KV Utrecht
+3526 KV Utrecht
 Netherlands

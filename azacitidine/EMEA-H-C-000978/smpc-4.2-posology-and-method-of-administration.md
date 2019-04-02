@@ -30,7 +30,7 @@ Following dose modifications, the cycle duration should return to 28 days.
 | Nadir counts |  | % Dose in the next cycle, if recovery* is not achieved within 14 days |
 | --- | --- | --- |
 | ANC (x 109/l) | Platelets (x 109/l) |  |
-| ≤1.0 | ≤50.0 | 50 % |
+| ≤ 1.0 | ≤ 50.0 | 50 % |
 | > 1.0 | > 50.0 | 100 % |
 
 *Recovery = counts ≥ nadir count + (0.5 x [baseline count – nadir count])
