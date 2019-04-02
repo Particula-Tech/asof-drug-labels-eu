@@ -41,6 +41,7 @@ CYP2D6 polymorphism
 In healthy subjects who are genotypically poor metabolisers of CYP2D6 substrates (used as a surrogate for CYP2D6 inhibition), mean Cmax and AUCinf of a single 160 mg dose of a mirabegron IR formulation were 14% and 19% higher than in extensive metabolisers, indicating that CYP2D6 genetic polymorphism has minimal impact on the mean plasma exposure to mirabegron.
 Interaction of mirabegron with a known CYP2D6 inhibitor is not expected and was not studied.
 No dose adjustment is needed for mirabegron when administered with CYP2D6 inhibitors or in patients who are CYP2D6 poor metabolisers.
+
 Elimination
 
 Total body clearance (CLtot) from plasma is approximately 57 L/h.
