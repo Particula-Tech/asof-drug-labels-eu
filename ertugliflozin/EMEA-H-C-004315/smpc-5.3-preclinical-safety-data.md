@@ -8,6 +8,7 @@ Signs of toxicity that were considered adverse were generally observed at exposu
 Most toxicity was consistent with pharmacology related to urinary glucose loss and included decreased body weight and body fat, increased food consumption, diarrhoea, dehydration, decreased serum glucose and increases in other serum parameters reflective of increased protein metabolism, gluconeogenesis and electrolyte imbalances, and urinary changes such as polyuria, glucosuria, and calciuria.
 Microscopic changes related to glucosuria and/or calciuria observed only in rodents included dilatation of renal tubules, hypertrophy of zona glomerulosa in adrenal glands (rats), and increased trabecular bone (rats).
 Except for emesis, there were no adverse toxicity findings in dogs at 379 times the human unbound exposure (AUC) at the MRHD of 15 mg/day.
+
 Carcinogenesis
 In the 2-year mouse carcinogenicity study, ertugliflozin was administered by oral gavage at doses of 5, 15, and 40 mg/kg/day.
 There were no ertugliflozin-related neoplastic findings at doses up to 40 mg/kg/day (approximately 41 times human unbound exposure at the MRHD of 15 mg/day based on AUC).

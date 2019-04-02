@@ -15,7 +15,6 @@ See “Description of selected adverse reactions” for frequencies and see sect
 Tabulated list of adverse reactions
 Adverse reactions listed below are classified according to frequency and system organ class (SOC).
 Frequency categories are defined according to the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data).
-
 Table 1: Adverse reactions
 
 | System Organ Class Frequency | Adverse Reaction |
@@ -67,6 +66,7 @@ In patients with moderate renal impairment taking insulins, SU, or meglitinides 
 
 Diabetic ketoacidosis
 Across the clinical program, ketoacidosis was identified in 3 of 3,409 (0.1%) ertugliflozin-treated patients and 0.0% of comparator-treated patients (see section 4.4).
+
 Blood creatinine increased/Glomerular filtration rate decreased and renal-related events
 Initial increases in mean creatinine and decreases in mean eGFR in patients treated with ertugliflozin were generally transient during continuous treatment.
 Patients with moderate renal impairment at baseline had larger mean changes that did not return to baseline at Week 26; these changes reversed after treatment discontinuation.

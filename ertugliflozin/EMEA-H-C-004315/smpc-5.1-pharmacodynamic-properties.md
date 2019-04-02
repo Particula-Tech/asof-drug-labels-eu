@@ -6,6 +6,7 @@ Mechanism of action
 SGLT2 is the predominant transporter responsible for reabsorption of glucose from the glomerular filtrate back into the circulation.
 Ertugliflozin is a potent, selective, and reversible inhibitor of SGLT2.
 By inhibiting SGLT2, ertugliflozin reduces renal reabsorption of filtered glucose and lowers the renal threshold for glucose, and thereby increases urinary glucose excretion.
+
 Pharmacodynamic effects
 
 Urinary glucose excretion and urinary volume
@@ -24,7 +25,6 @@ Ertugliflozin has also been studied in combination with current diabetes treatme
 Monotherapy
 A total of 461 patients with type 2 diabetes inadequately controlled on diet and exercise participated in a randomised, double-blind, multi-centre, 26-week, placebo-controlled study to evaluate the efficacy and safety of ertugliflozin monotherapy.
 These patients, who were not receiving any background anti-hyperglycaemic treatment, were randomised to ertugliflozin 5 mg, ertugliflozin 15 mg, or placebo administered once daily (see Table 2).
-
 Table 2: Results at Week 26 from a placebo-controlled monotherapy study of Steglatro*
 
 |  | Steglatro 5 mg | Steglatro 15 mg | Placebo |
@@ -42,6 +42,7 @@ Ertugliflozin as add-on combination therapy with metformin
 A total of 621 patients with type 2 diabetes inadequately controlled on metformin monotherapy
 (≥1,500 mg/day) participated in a randomised, double-blind, multi-centre, 26-week, placebo-controlled study to evaluate the efficacy and safety of ertugliflozin in combination with metformin.
 Patients were randomised to ertugliflozin 5 mg, ertugliflozin 15 mg, or placebo administered once daily in addition to continuation of background metformin therapy (see Table 3).
+
 Table 3: Results at Week 26 from a placebo-controlled study for Steglatro used in combination with metformin*
 
 |  | Steglatro 5 mg | Steglatro 15 mg | Placebo |
@@ -78,7 +79,6 @@ Time was treated as a categorical variable.
 Factorial study with ertugliflozin and sitagliptin as add-on combination therapy with metformin
 A total of 1,233 patients with type 2 diabetes participated in a randomised, double-blind, multi-centre, 26-week, active-controlled study to evaluate the efficacy and safety of ertugliflozin 5 mg or 15 mg in combination with sitagliptin 100 mg compared to the individual components.
 Patients with type 2 diabetes inadequately controlled on metformin monotherapy (≥1,500 mg/day) were randomised to one of five active-treatment arms: ertugliflozin 5 mg or 15 mg, sitagliptin 100 mg, or sitagliptin 100 mg in combination with 5 mg or 15 mg ertugliflozin administered once daily in addition to continuation of background metformin therapy (see Table 5).
-
 Table 5: Results at Week 26 from a factorial study with Steglatro and sitagliptin as add-on combination therapy with metformin compared to individual components alone*
 
 |  | Steglatro 5 mg | Steglatro 15 mg | Sitagliptin 100 mg | Steglatro 5 mg + Sitagliptin 100 mg | Steglatro 15 mg + Sitagliptin 100 mg |
@@ -101,6 +101,7 @@ Table 5: Results at Week 26 from a factorial study with Steglatro and sitaglipti
 Ertugliflozin as add-on combination therapy with metformin and sitagliptin
 A total of 463 patients with type 2 diabetes inadequately controlled on metformin (≥1,500 mg/day) and sitagliptin 100 mg once daily participated in a randomised, double-blind, multi-centre, 26-week, placebo-controlled study to evaluate the efficacy and safety of ertugliflozin.
 Patients were randomised to ertugliflozin 5 mg, ertugliflozin 15 mg, or placebo administered once daily in addition to continuation of background metformin and sitagliptin therapy (see Table 6).
+
 Table 6: Results at Week 26 from an add-on study of Steglatro in combination with metformin and sitagliptin*
 
 |  | Steglatro 5 mg | Steglatro 15 mg | Placebo |
@@ -112,7 +113,6 @@ Table 6: Results at Week 26 from an add-on study of Steglatro in combination wit
 * N includes all randomized, treated patients who had at least one measurement of the outcome variable.
 † Least squares means adjusted for treatment, time, prior antihyperglycaemic medication.
 ‡ p< 0.001 compared to placebo.
-
 Combination therapy of ertugliflozin and sitagliptin
 A total of 291 patients with type 2 diabetes inadequately controlled on diet and exercise participated in a randomised, double-blind, multi-centre, placebo-controlled 26-week study to evaluate the efficacy and safety of ertugliflozin in combination with sitagliptin.
 These patients, who were not receiving any background anti-hyperglycaemic treatment, were randomised to ertugliflozin 5 mg or ertugliflozin 15 mg in combination with sitagliptin (100 mg) or to placebo once daily (see Table 7).
@@ -152,7 +152,6 @@ For ertugliflozin 5 mg and 15 mg, respectively, the placebo-corrected reductions
 The combination of ertugliflozin and sitagliptin resulted in significantly greater reductions in FPG compared to sitagliptin or ertugliflozin alone or placebo.
 The combination of ertugliflozin 5 or 15 mg and sitagliptin resulted in incremental FPG reductions of 0.46 to 0.65 mmol/l compared to the ertugliflozin alone or 1.02 to 1.28 mmol/l compared to sitagliptin alone.
 The placebo-corrected reductions of ertugliflozin 5 or 15 mg in combination with sitagliptin were 2.16 and 2.56 mmol/l.
-
 Efficacy in patients with baseline HbA1c ≥8%
 In the monotherapy study conducted on a background of diet and exercise in patients with baseline HbA1c from 7-10.5%, the subgroup of patients in the study with a baseline HbA1c ≥8% had placebo-corrected reductions in HbA1c of 1.11% and 1.52% with ertugliflozin 5 or 15 mg, respectively.
 

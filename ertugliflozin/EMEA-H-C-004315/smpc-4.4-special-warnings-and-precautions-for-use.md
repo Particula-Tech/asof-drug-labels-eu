@@ -40,9 +40,13 @@ The safety and efficacy of ertugliflozin in patients with type 1 diabetes have n
 Limited data from clinical trials suggest that DKA occurs with common frequency when patients with type 1 diabetes are treated with SGLT2 inhibitors.
 
 Lower limb amputations
-An increase in cases of lower limb amputation (primarily of the toe) has been observed in long-term clinical studies with another SGLT2 inhibitor.
-It is unknown whether this constitutes a class effect.
-Like for all diabetic patients it is important to counsel patients on routine preventative foot care.
+In an ongoing clinical study of ertugliflozin added to existing therapy in type 2 diabetes patients with a history of established cardiovascular disease, an approximately 1.2-1.6-fold increase in cases of lower limb amputation (primarily of the toe) has been observed in patients treated with ertugliflozin.
+An increase in cases of lower limb amputation (primarily of the toe) has also been observed in long-term clinical studies with another SGLT2 inhibitor.
+As an underlying mechanism has not been established, risk factors, apart from general risk factors, for amputation are unknown.
+
+Before initiating ertugliflozin, consider factors in the patient history that may increase the risk for amputation.
+As precautionary measures, consideration should be given to carefully monitoring patients with a higher risk for amputation events and counselling patients about the importance of routine preventative foot care and maintaining adequate hydration.
+Consideration may also be given to stopping treatment with ertugliflozin in patients who develop events which may precede amputation such as lower-extremity skin ulcer, infection, osteomyelitis or gangrene.
 
 Impairment in renal function
 The efficacy of ertugliflozin is dependent on renal function, and efficacy is reduced in patients who have moderate renal impairment and likely absent in patients with severe renal impairment (see section 4.2).
@@ -74,7 +78,6 @@ Elderly patients
 Elderly patients may be at an increased risk of volume depletion.
 Patients 65 years and older treated with ertugliflozin had a higher incidence of adverse reactions related to volume depletion compared to younger patients.
 Ertugliflozin is expected to have diminished efficacy in elderly patients with renal impairment (see sections 4.2 and 4.8).
-
 Cardiac failure
 Experience in New York Heart Association (NYHA) class I-II is limited, and there is no experience in clinical studies with ertugliflozin in NYHA class III-IV.
 
@@ -85,6 +88,7 @@ Alternative methods should be used to monitor glycaemic control.
 Interference with 1,5-anhydroglucitol (1,5-AG) assay
 Monitoring glycaemic control with 1,5-AG assay is not recommended as measurements of 1,5-AG are unreliable in assessing glycaemic control in patients taking SGLT2 inhibitors.
 Alternative methods should be used to monitor glycaemic control.
+
 Lactose
 The tablets contain lactose monohydrate.
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency, or glucose-galactose malabsorption should not take this medicinal product.

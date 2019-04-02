@@ -53,7 +53,6 @@ The plasma protein binding of ertugliflozin was unaffected in patients with mode
 
 Paediatric population
 No studies with ertugliflozin have been performed in paediatric patients.
-
 Effects of age, body weight, gender, and race
 Based on a population pharmacokinetic analysis, age, body weight, gender, and race do not have a clinically meaningful effect on the pharmacokinetics of ertugliflozin.
 
