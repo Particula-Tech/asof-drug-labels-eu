@@ -3,7 +3,7 @@
 Absorption
 
 Following oral administration of cobicistat with food in HIV-1 infected subjects, peak plasma concentrations were observed 4 hours post-dose for cobicistat.
-The steady-state mean Cmax, AUCtau, and Ctrough (mean ± SD) following multiple doses of cobicistat in HIV-1 infected subjects (n = 68), respectively, were 1.2 ± 0.3 μg/ml, 10.9 ± 3.8 μg•h/ml, and 0.07 ± 0.07 μg/ml.
+The steady-state mean Cmax, AUCtau, and Ctrough (mean ± SD) following multiple doses of cobicistat in HIV-1 infected subjects (n = 68), respectively, were 1.2 ± 0.3 µg/ml, 10.9 ± 3.8 µg•h/ml, and 0.07 ± 0.07 µg/ml.
 
 A food effect study was not conducted for Tybost.
 In clinical studies, cobicistat was co-administered with atazanavir or darunavir under fed conditions, in accordance with the Summary of Product Characteristics for these agents.

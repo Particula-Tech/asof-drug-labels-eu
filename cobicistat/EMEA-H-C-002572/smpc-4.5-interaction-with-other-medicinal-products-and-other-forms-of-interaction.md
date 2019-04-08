@@ -5,7 +5,8 @@ Increased plasma concentrations of medicinal products that are metabolised by CY
 
 Cobicistat is a weak CYP2D6 inhibitor and is metabolised to a minor extent by CYP2D6.
 Co-administration with cobicistat can increase plasma concentrations of medicinal products that are metabolised by CYP2D6 (see sections 4.3 and 4.4).
-Cobicistat inhibits the transporters p-glycoprotein (P-gp), BCRP, MATE1, OATP1B1 and OATP1B3.
+
+Cobicistat inhibits the transporters P-gp, BCRP, MATE1, OATP1B1 and OATP1B3.
 Co-administration of Tybost with medicinal products that are substrates of these transporters can result in increased plasma concentrations of the co-administered medicinal products (see section 4.4).
 
 Cobicistat is not expected to inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9 or CYP2C19.
@@ -25,8 +26,7 @@ Co-administration of cobicistat with medicinal products that are strong inducers
 Concomitant use not recommended
 
 Co-administration of cobicistat with medicinal products that are moderate to weak inducers of CYP3A may result in decreased plasma concentration of cobicistat and consequently that of atazanavir or darunavir being boosted, leading to loss of therapeutic effect and possible development of resistance.
-Some examples include, but are not limited to, etravirine, efavirenz, nevirapine, boceprevir, and bosentan (see Table 2).
-
+Some examples include, but are not limited to, etravirine, efavirenz, nevirapine, and bosentan (see Table 2).
 Co-administration of cobicistat with medicinal products that inhibit CYP3A may result in increased plasma concentration of cobicistat.
 Some examples include, but are not limited to, itraconazole, ketoconazole, and voriconazole (see Table 2).
 
@@ -37,6 +37,7 @@ Other interactions
 
 Interactions of cobicistat and potential co-administered medicinal products are listed in Table 2 below (increase is indicated as “↑”, decrease as “↓”, no change as “↔”).
 These interactions are based on either drug interaction studies or predicted interactions due to the expected magnitude of interaction and potential for serious and/or life-threatening events or loss of efficacy.
+
 For additional drug-drug interactions with atazanavir or darunavir, consult their respective Summary of Product Characteristics when using Tybost.
 
 Table 2: Interactions between cobicistat and other medicinal products
@@ -57,14 +58,15 @@ Table 2: Interactions between cobicistat and other medicinal products
 | Antifungals |  |  |
 | Ketoconazole | Interaction not studied. Concentrations of ketoconazole and/or cobicistat may increase with co-administration of cobicistat. | When administering ketoconazole with Tybost, the maximum daily dose of ketoconazole should not exceed 200 mg per day. Caution is warranted and clinical monitoring is recommended during co-administration. |
 | Itraconazole Voriconazole Posaconazole Fluconazole | Concentrations of itraconazole, fluconazole and posaconazole may be increased when co-administered with cobicistat. Concentrations of voriconazole may increase or decrease when co-administered with cobicistat. | Clinical monitoring is recommended upon co-administration with Tybost. When administering with cobicistat, the maximum daily dose of itraconazole should not exceed 200 mg per day. Voriconazole should not be used unless the possible benefit is considered to outweigh the risks associated with the unpredictable effect on plasma concentrations. |
-| HCV protease inhibitors |  |  |
-| Boceprevir | Interaction not studied. | Atazanavir, darunavir or boceprevir plasma concentrations may decrease upon co-administration. Co-administration with Tybost is not recommended. |
 | Antimycobacterials |  |  |
 | Rifabutin (150 mg every other day)/Elvitegravir (150 mg once daily)/Cobicistat (150 mg once daily) | Co-administration of rifabutin, a potent CYP3A inducer, may significantly decrease cobicistat plasma concentrations. Cobicistat: AUC: ↔ Cmax: ↔ Cmin: ↓ 66% Rifabutin: AUC: ↔ Cmax: ↔ Cmin: ↔ 25-O-desacetyl-rifabutin: AUC: ↑ 525% Cmax: ↑ 384% Cmin: ↑ 394% | Co-administration of cobicistat and rifabutin is not recommended. If the combination is needed, the recommended dose of rifabutin is 150 mg 3 times per week on set days (for example Monday-Wednesday-Friday). Increased monitoring for rifabutin-associated adverse reactions including neutropenia and uveitis is warranted due to an expected increase in exposure to desacetyl-rifabutin. Further dose reduction of rifabutin has not been studied. It should be kept in mind that a twice weekly dose of 150 mg may not provide an optimal exposure to rifabutin thus leading to a risk of rifabutin resistance and a treatment failure. |
 | Macrolide antibiotics |  |  |
 | Clarithromycin | Interaction not studied. Concentrations of clarithromycin may be increased upon co-administration with cobicistat. | Concentrations of clarithromycin may be increased upon co-administration of cobicistat. Alternative antibiotics should be considered for co-administration with atazanavir/cobicistat. Consult atazanavir Summary of Product Characteristics for dosing recommendations. When clarithromycin is co-administered with darunavir/cobicistat, consult the darunavir Summary of Product Characteristics for dosing recommendations. |
 | ANTI-NEOPLASTICS |  |  |
 | Dasatinib Nilotinib Vinblastine Vincristine | Interaction not studied. Concentrations of these medicinal products may be increased when co-administered with cobicistat. | Concentrations of these medicinal products may be increased when co-administered with Tybost resulting in the potential for increased adverse events usually associated with these anticancer medicinal products. |
+
+| Medicinal product by therapeutic areas | Effects on drug levels Mean percent change in AUC, Cmax, Cmin | Recommendation concerning co-administration with cobicistat 150 mg and atazanavir or darunavir |
+| --- | --- | --- |
 | GLUCOCORTICOIDS |  |  |
 | All corticosteroids excluding cutaneous products |  |  |
 | Corticosteroids primarily metabolised by CYP3A (including betamethasone, budesonide, fluticasone, mometasone, prednisone, triamcinolone). | Interaction not studied. Plasma concentrations of these medicinal products may be increased when co-administered with cobicistat, resulting in reduced serum cortisol concentrations. | Concomitant use of cobicistat and corticosteroids that are metabolised by CYP3A (e.g. fluticasone propionate or other inhaled or nasal corticosteroids) may increase the risk of development of systemic corticosteroid effects, including Cushing’s syndrome and adrenal suppression. Co-administration with CYP3A-metabolised corticosteroids is not recommended unless the potential benefit to the patient outweighs the risk, in which case patients should be monitored for systemic corticosteroid effects. Alternative corticosteroids which are less dependent on CYP3A metabolism e.g. beclomethasone for intranasal or inhalational use should be considered, particularly for long-term use. |
@@ -73,6 +75,9 @@ Table 2: Interactions between cobicistat and other medicinal products
 | NARCOTIC ANALGESICS |  |  |
 | Methadone | Methadone: AUC: ↔ Cmax: ↔ Cmin: ↔ | No dose adjustment of methadone is required. |
 | Buprenorphine/Naloxone | Buprenorphine: AUC: ↑ 35% Cmax: ↑ 12% Cmin: ↑ 66% Naloxone: AUC: ↓ 28% Cmax: ↓ 28% | No dose adjustment of cobicistat is required. |
+
+| Medicinal product by therapeutic areas | Effects on drug levels Mean percent change in AUC, Cmax, Cmin | Recommendation concerning co-administration with cobicistat 150 mg and atazanavir or darunavir |
+| --- | --- | --- |
 | ORAL CONTRACEPTIVES |  |  |
 | Drospirenone/Ethinyloestradiol (3 mg/0.02 mg single dose)/ Darunavir (800 mg once daily)/Cobicistat (150 mg once daily) | Drospirenone: AUC: ↑ 58% Cmax: ↔ Cmin: NC Ethinyloestradiol: AUC: ↓ 30% Cmax: ↔ Cmin: NC | Plasma concentrations of ethinyloestradiol are decreased following co-administration of drospirenone/ethinyloestradiol with darunavir/cobicistat. Alternative or additional contraceptive measures are recommended when oestrogen-based contraceptives are co-administered with darunavir/cobicistat. Plasma concentrations of drospirenone are increased following co-administration of drospirenone/ethinyloestradiol with darunavir/cobicistat. If drospirenone/ethinyloestradiol is co-administered with darunavir/cobicistat clinical monitoring is recommended due to the potential for hyperkalemia. |
 | Drospirenone/Ethinyloestradiol (3 mg/0.02 mg single dose)/Atazanavir (300 mg once daily)/Cobicistat (150 mg once daily) | Drospirenone: AUC: ↑ 130% Cmax: ↔ Cmin: NC Ethinyloestradiol: AUC: ↔ Cmax: ↔ Cmin: NC | Plasma concentrations of drospirenone are increased following co-administration of drospirenone/ethinyloestradiol with atazanavir/cobicistat. If drospirenone/ethinyloestradiol is co-administered with atazanavir/cobicistat clinical monitoring is recommended due to the potential for hyperkalemia. |
@@ -86,12 +91,9 @@ Table 2: Interactions between cobicistat and other medicinal products
 | ENDOTHELIN RECEPTOR ANTAGONISTS |  |  |
 | Bosentan | Interaction not studied. Co-administration of bosentan with cobicistat may lead to decreased cobicistat plasma concentrations. | Atazanavir or darunavir plasma concentrations may decrease as a consequence of a reduction in cobicistat plasma concentrations, which may result in loss of therapeutic effect and development of resistance. Co-administration is not recommended (see section 4.4). |
 | ANTICOAGULANTS |  |  |
-| Rivaroxaban | Interaction not studied. Concentrations of rivaroxaban may be affected upon co-administration with cobicistat. | Inhibition of CYP3A and intestinal P-gp may lead to increased plasma levels and pharmacodynamic effects of rivaroxaban which may lead to an increased bleeding risk. Co-administration of rivaroxaban and cobicistat is not recommended. |
+| Dabigatran | Interaction not studied. Co-administration with Tybost may increase dabigatran plasma concentrations with similar effects as seen with other strong P-gp inhibitors. | Co-administration of cobicistat with dabigatran is contraindicated. |
+| Apixaban Rivaroxaban Edoxaban | Interaction not studied. Co-administration with cobicistat may result in increased plasma concentrations of the DOAC, which may lead to an increased bleeding risk.. | Co-administration of apixaban, rivaroxaban or edoxaban is not recommended with Tybost. |
 | Warfarin | Interaction not studied. Concentrations of warfarin may be affected upon co-administration with cobicistat. | It is recommended that the international normalised ratio (INR) be monitored upon co-administration with Tybost. |
-| Dabigatran | Interaction not studied. Concentrations of dabigatran may be affected upon co-administration with cobicistat. | Clinical monitoring is recommended when dabigatran is co-administered with P-gp inhibitors. A coagulation test helps to identify patients with an increased bleeding risk due to increased dabigatran exposure. |
-
-| Medicinal product by therapeutic areas | Effects on drug levels Mean percent change in AUC, Cmax, Cmin | Recommendation concerning co-administration with cobicistat 150 mg and atazanavir or darunavir |
-| --- | --- | --- |
 | ANTICONVULSANTS |  |  |
 | Carbamazepine (200 mg twice daily)/Elvitegravir (150 mg once daily)/Cobicistat (150 mg once daily) | Co-administration of carbamazepine, a potent CYP3A inducer, may significantly decrease cobicistat plasma concentrations. Cobicistat: AUC: ↓ 84% Cmax: ↓ 72% Cmin: ↓ 90% Carbamazepine: AUC: ↑ 43% Cmax: ↑ 40% Cmin: ↑ 51% Carbamazepine-10,11-epoxide: AUC: ↓ 35% Cmax: ↓ 27% Cmin: ↓ 41% | Carbamazepine, a potent CYP3A inducer, decreases cobicistat plasma concentrations and that of atazanavir or darunavir, which may result in loss of therapeutic effect and development of resistance. Co-administration of cobicistat with carbamazepine is contraindicated (see section 4.3). |
 | INHALED BETA AGONISTS |  |  |
@@ -118,4 +120,5 @@ Table 2: Interactions between cobicistat and other medicinal products
 
 ND = not determined
 NC = not calculated
+DOAC = direct oral anticoagulant
 1 Study was conducted with tenofovir disoproxil fumarate

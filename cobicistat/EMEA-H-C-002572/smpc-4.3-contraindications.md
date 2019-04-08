@@ -19,3 +19,5 @@ Therefore, Tybost should not be co-administered with medicinal products that inc
 - anticonvulsants: carbamazepine, phenobarbital, phenytoin
 - antimycobacterials: rifampicin
 - herbal products: St. John’s wort (Hypericum perforatum)
+
+Co-administration with dabigatran etexilate, a P-glycoprotein (P-gp) substrate, is contraindicated (see section 4.5).

@@ -40,6 +40,11 @@ Paediatric population
 The safety and efficacy of cobicistat in children aged 0 to less than 18 years have not been established (see section 5.1).
 No data are available.
 
+Pregnancy
+Treatment with cobicistat and darunavir during pregnancy results in lower darunavir exposure.
+Therefore, therapy with cobicistat and darunavir should not be initiated during pregnancy, and women who become pregnant during therapy with cobicistat and darunavir should be switched to an alternative regimen (see sections 4.4 and 4.6).
+Darunavir/ritonavir may be considered as an alternative.
+
 Method of administration
 
 Tybost should be taken orally, once daily with food (see section 5.2).
