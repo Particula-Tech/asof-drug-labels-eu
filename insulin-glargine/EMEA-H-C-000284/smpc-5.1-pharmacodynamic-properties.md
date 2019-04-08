@@ -11,7 +11,6 @@ After injection into the subcutaneous tissue, the acidic solution is neutralised
 Insulin glargine is metabolised into 2 active metabolites M1 and M2 (see section 5.2).
 
 Insulin receptor binding: In vitro studies indicate that the affinity of insulin glargine and its metabolites M1 and M2 for the human insulin receptor is similar to the one of human insulin.
-
 IGF-1 receptor binding: The affinity of insulin glargine for the human IGF-1 receptor is approximately 5 to 8-fold greater than that of human insulin (but approximately 70 to 80-fold lower than the one of IGF-1), whereas M1 and M2 bind the IGF-1 receptor with slightly lower affinity compared to human insulin.
 
 The total therapeutic insulin concentration (insulin glargine and its metabolites) found in type 1 diabetic patients was markedly lower than what would be required for a halfmaximal occupation of the IGF-1 receptor and the subsequent activation of the mitogenic-proliferative pathway initiated by the IGF-1 receptor.
@@ -25,6 +24,7 @@ In clinical pharmacology studies, intravenous insulin glargine and human insulin
 As with all insulins, the time course of action of insulin glargine may be affected by physical activity and other variables.
 
 In euglycaemic clamp studies in healthy subjects or in patients with type 1 diabetes, the onset of action of subcutaneous insulin glargine was slower than with human NPH insulin, its effect profile was smooth and peakless, and the duration of its effect was prolonged.
+
 The following graph shows the results from a study in patients:
 
 Activity profile in patients with type 1 diabetes
@@ -33,7 +33,6 @@ Activity profile in patients with type 1 diabetes
 
 The longer duration of action of subcutaneous insulin glargine is directly related to its slower rate of absorption and supports once daily administration.
 The time course of action of insulin and insulin analogues such as insulin glargine may vary considerably in different individuals or within the same individual.
-
 In a clinical study, symptoms of hypoglycaemia or counter-regulatory hormone responses were similar after intravenous insulin glargine and human insulin both in healthy volunteers and patients with type 1 diabetes.
 
 In clinical studies, antibodies that cross-react with human insulin and insulin glargine were observed with the same frequency in both NPH-insulin and insulin glargine treatment groups.
@@ -47,6 +46,7 @@ Participants were randomised (1:1) to receive insulin glargine (n=6264), titrate
 The first co-primary efficacy outcome was the time to the first occurrence of CV death, nonfatal myocardial infarction (MI), or nonfatal stroke, and the second co-primary efficacy outcome was the time to the first occurrence of any of the first co-primary events, or revascularisation procedure (coronary, carotid, or peripheral), or hospitalisation for heart failure.
 
 Secondary endpoints included all-cause mortality and a composite microvascular outcome.
+
 Insulin glargine did not alter the relative risk for CV disease and CV mortality when compared to standard of care.
 There were no differences between insulin glargine and standard care for the two co-primary outcomes; for any component endpoint comprising these outcomes; for all-cause mortality; or for the composite microvascular outcome.
 
@@ -64,7 +64,6 @@ Similar effects on glycohemoglobin and the incidence of symptomatic hypoglycemia
 There was less severe hypoglycaemia in the insulin glargine group as well.
 One hundred forty three of the patients treated with insulin glargine in this study continued treatment with insulin glargine in an uncontrolled extension study with mean duration of follow-up of 2 years.
 No new safety signals were seen during this extended treatment with insulin glargine.
-
 A crossover study comparing insulin glargine plus lispro insulin to NPH plus regular human insulin (each treatment administered for 16 weeks in random order) in 26 adolescent type 1 diabetic patients aged 12 to 18 years was also performed.
 As in the paediatric study described above, fasting plasma glucose reduction from baseline was greater in the insulin glargine group than in the NPH group.
 HbA1c changes from baseline were similar between treatment groups; however blood glucose values recorded overnight were significantly higher in the insulin glargine/ lispro group than the NPH/regular group, with a mean nadir of 5.4 mM versus 4.1 mM.

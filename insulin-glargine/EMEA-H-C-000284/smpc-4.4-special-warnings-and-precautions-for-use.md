@@ -30,6 +30,7 @@ These include patients:
 Such situations may result in severe hypoglycaemia (and possibly loss of consciousness) prior to the patient's awareness of hypoglycaemia.
 
 The prolonged effect of subcutaneous insulin glargine may delay recovery from hypoglycaemia.
+
 If normal or decreased values for glycated haemoglobin are noted, the possibility of recurrent, unrecognised (especially nocturnal) episodes of hypoglycaemia must be considered.
 
 Adherence of the patient to the dose and dietary regimen, correct insulin administration and awareness of hypoglycaemia symptoms are essential to reduce the risk of hypoglycaemia.
@@ -56,17 +57,21 @@ Insulin antibodies
 Insulin administration may cause insulin antibodies to form.
 In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyper- or hypoglycaemia (see section 5.1).
 
-Pens to be used with Lantus cartridges
+Pens to be used with Lantus 100 units/ml in cartridges
+Lantus 100 units/ml in cartridges is only suitable for subcutaneous injections from a reusable pen.
+If administration by syringe is necessary, a vial should be used.
 The Lantus cartridges should only be used with the following pens:
 
 - JuniorSTAR which delivers Lantus in 0.5 unit dose increments
-- OptiPen, ClikSTAR, Tactipen, Autopen 24, AllStar and AllStar PRO which all deliver Lantus
+- ClikSTAR, Tactipen, Autopen 24, AllStar and AllStar PRO which all deliver Lantus in 1 unit
 
-in 1 unit dose increments.
+dose increments.
 These cartridges should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens.
-Not all of these pens may be marketed in your country
+Not all of these pens may be marketed in your country (see section 4.2 and 6.6)
 
 Handling of the SoloStar pre-filled pen
+Lantus SoloStar 100 units/ml in pre-filled pen is only suitable for subcutaneous injections.
+If administration by syringe is necessary, a vial should be used (see section 4.2).
 Before using SoloStar, the instructions for use included in the package leaflet must be read carefully.
 SoloStar has to be used as recommended in these instructions for use (see section 6.6).
 
@@ -79,5 +84,6 @@ Cases of cardiac failure have been reported when pioglitazone was used in combin
 This should be kept in mind if treatment with the combination of pioglitazone and Lantus is considered.
 If the combination is used, patients should be observed for signs and symptoms of heart failure, weight gain and oedema.
 Pioglitazone should be discontinued if any deterioration in cardiac symptoms occurs.
+
 Excipients
 This medicinal product contains less than 1 mmol (23 mg) sodium per dose, i.e. it is essentially ‘sodium-free’.

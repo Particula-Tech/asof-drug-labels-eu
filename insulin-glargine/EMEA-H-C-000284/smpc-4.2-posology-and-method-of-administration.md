@@ -61,8 +61,15 @@ Injection sites must be rotated within a given injection area from one injection
 Lantus must not be mixed with any other insulin or diluted.
 Mixing or diluting can change its time/action profile and mixing can cause precipitation.
 
-Vial, cartridge
+Lantus 100 units/ml solution for injection in a vial
 For further details on handling, see section 6.6.
 
-SoloStar pre-filled pen
+Lantus 100 units/ml solution for injection in a cartridge
+Lantus 100 units/ml in cartridges is only suitable for subcutaneous injections from a reusable pen.
+If administration by syringe is necessary, a vial should be used (see section 4.4).
+For further details on handling, see section 6.6.
+
+Lantus SoloStar 100 units/ml solution for injection in a pre-filled pen
+Lantus SoloStar 100 units/ml in pre-filled pen is only suitable for subcutaneous injections.
+If administration by syringe is necessary, a vial should be used (see section 4.4).
 Before using SoloStar, the instructions for use included in the package leaflet must be read carefully (see section 6.6).

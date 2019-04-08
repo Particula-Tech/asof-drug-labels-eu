@@ -2,10 +2,10 @@
 
 Each ml contains 100 units insulin glargine* (equivalent to 3.64 mg).
 
-Vial
+Lantus 100 units/ml solution for injection in a vial
 Each vial contains 5 ml of solution for injection, equivalent to 500 units, or 10 ml of solution for injection, equivalent to 1000 units.
 
-Cartridge, SoloStar pre-filled pen
+Lantus 100 units/ml solution for injection in a cartridge, Lantus SoloStar 100 units/ml solution for injection in a pre-filled pen
 Each cartridge or pen contains 3 ml of solution for injection, equivalent to 300 units.
 
 *Insulin glargine is produced by recombinant DNA technology in Escherichia coli.

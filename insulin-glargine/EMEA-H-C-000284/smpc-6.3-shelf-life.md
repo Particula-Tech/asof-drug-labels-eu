@@ -1,6 +1,6 @@
 # 6.3 Shelf-life
 
-Vial
+Lantus 100 units/ml solution for injection in a vial
 5 ml vial
 2 years.
 
@@ -18,7 +18,7 @@ Keep the vial in the outer carton in order to protect from light.
 
 It is recommended that the date of the first use from the vial be noted on the label.
 
-Cartridge, SoloStar pre-filled pen
+Lantus 100 units/ml solution for injection in a cartridge, Lantus SoloStar 100 units/ml solution for injection in a pre-filled pen
 3 years.
 
 Shelf-life after first use of the cartridge or pen
