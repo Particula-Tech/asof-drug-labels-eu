@@ -56,7 +56,6 @@ The mean (SD) AUC0-∞ of 5-carboxy-pirfenidone was significantly higher in the 
 
 AUC0-∞ = area under the concentration-time curve from time zero to infinity.
 a p-value versus Normal = 1.00 (pair-wise comparison with Bonferroni) b p-value versus Normal = 0.009 (pair-wise comparison with Bonferroni) c p-value versus Normal < 0.0001 (pair-wise comparison with Bonferroni)
-
 Exposure to 5-carboxy-pirfenidone increases 3.5 fold or more in patients with moderate renal impairment.
 Clinically relevant pharmacodynamic activity of the metabolite in patients with moderate renal impairment cannot be excluded.
 No dose adjustment is required in patients with mild renal impairment who are receiving pirfenidone.
