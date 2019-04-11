@@ -10,9 +10,9 @@ For therapeutic doses of irbesartan in humans, the hyperplasia/ hypertrophy of t
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
 Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose.
-No significant effects on the number of corpora lutea, implants, or live fetuses were observed.
+No significant effects on the number of corpora lutea, implants, or live foetuses were observed.
 Irbesartan did not affect survival, development, or reproduction of offspring.
-Studies in animals indicate that the radiolabeled irbesartan is detected in rat and rabbit fetuses.
+Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses.
 Irbesartan is excreted in the milk of lactating rats.
 
 Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth.

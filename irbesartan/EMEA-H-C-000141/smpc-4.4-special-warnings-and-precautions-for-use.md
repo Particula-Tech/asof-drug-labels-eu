@@ -12,13 +12,14 @@ There is no experience regarding the administration of Aprovel in patients with 
 Hypertensive patients with type 2 diabetes and renal disease: the effects of irbesartan both on renal and cardiovascular events were not uniform across all subgroups, in an analysis carried out in the study with patients with advanced renal disease.
 In particular, they appeared less favourable in women and non-white subjects (see section 5.1).
 
-Dual blockade of the renin-angiotensin-aldosterone system (RAAS): There is evidence that the concomitant use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren increases the risk of hypotension, hyperkalaemia and decreased renal function (including acute renal failure).
+Dual blockade of the renin-angiotensin-aldosterone system (RAAS): there is evidence that the concomitant use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren increases the risk of hypotension, hyperkalaemia and decreased renal function (including acute renal failure).
 Dual blockade of RAAS through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren is therefore not recommended (see sections 4.5 and 5.1).
 If dual blockade therapy is considered absolutely necessary, this should only occur under specialist supervision and subject to frequent close monitoring of renal function, electrolytes and blood pressure.
 ACE-inhibitors and angiotensin II receptor blockers should not be used concomitantly in patients with diabetic nephropathy.
 
 Hyperkalaemia: as with other medicinal products that affect the renin-angiotensin-aldosterone system, hyperkalaemia may occur during the treatment with Aprovel, especially in the presence of renal impairment, overt proteinuria due to diabetic renal disease, and/or heart failure.
 Close monitoring of serum potassium in patients at risk is recommended (see section 4.5).
+
 Lithium: the combination of lithium and Aprovel is not recommended (see section 4.5).
 
 Aortic and mitral valve stenosis, obstructive hypertrophic cardiomyopathy: as with other vasodilators, special caution is indicated in patients suffering from aortic or mitral stenosis, or obstructive hypertrophic cardiomyopathy.
@@ -28,21 +29,20 @@ Therefore, the use of Aprovel is not recommended.
 
 General: in patients whose vascular tone and renal function depend predominantly on the activity of the renin-angiotensin-aldosterone system (e.g. patients with severe congestive heart failure or underlying renal disease, including renal artery stenosis), treatment with angiotensin converting enzyme inhibitors or angiotensin-II receptor antagonists that affect this system has been associated with acute hypotension, azotaemia, oliguria, or rarely acute renal failure (see section 4.5).
 As with any antihypertensive agent, excessive blood pressure decrease in patients with ischaemic cardiopathy or ischaemic cardiovascular disease could result in a myocardial infarction or stroke.
+
 As observed for angiotensin converting enzyme inhibitors, irbesartan and the other angiotensin antagonists are apparently less effective in lowering blood pressure in black people than in non-blacks, possibly because of higher prevalence of low-renin states in the black hypertensive population (see section 5.1).
 
-Pregnancy: Angiotensin II Receptor Antagonists (AIIRAs) should not be initiated during pregnancy.
+Pregnancy: angiotensin II Receptor Antagonists (AIIRAs) should not be initiated during pregnancy.
 Unless continued AIIRA therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy.
 When pregnancy is diagnosed, treatment with AIIRAs should be stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
 
-Lactose: this medicinal product contains lactose.
-Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
-
 Paediatric population: irbesartan has been studied in paediatric populations aged 6 to 16 years old but the current data are insufficient to support an extension of the use in children until further data become available (see sections 4.8, 5.1 and 5.2).
+
+Lactose: Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
 [Aprovel 150 mg tablets.]
 
-Dual blockade of the renin-angiotensin-aldosterone system (RAAS):
-There is evidence that the concomitant use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren increases the risk of hypotension, hyperkalaemia and decreased renal function (including acute renal failure).
+(all sentences already above)
 
 [Aprovel 300 mg tablets.]
 

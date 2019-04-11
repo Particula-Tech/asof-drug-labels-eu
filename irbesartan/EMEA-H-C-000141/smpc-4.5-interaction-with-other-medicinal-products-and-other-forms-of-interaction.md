@@ -3,15 +3,17 @@
 Diuretics and other antihypertensive agents: other antihypertensive agents may increase the hypotensive effects of irbesartan; however Aprovel has been safely administered with other antihypertensive agents, such as beta-blockers, long-acting calcium channel blockers, and thiazide diuretics.
 Prior treatment with high dose diuretics may result in volume depletion and a risk of hypotension when initiating therapy with Aprovel (see section 4.4).
 
-Aliskiren-containing products or ACE-inhibitors: Clinical trial data has shown that dual blockade of the renin-angiotensin-aldosterone system (RAAS) through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren is associated with a higher frequency of adverse events such as hypotension, hyperkalaemia and decreased renal function (including acute renal failure) compared to the use of a single RAAS-acting agent (see sections 4.3, 4.4 and 5.1).
+Aliskiren-containing products or ACE-inhibitors: clinical trial data has shown that dual blockade of the renin-angiotensin-aldosterone system (RAAS) through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren is associated with a higher frequency of adverse events such as hypotension, hyperkalaemia and decreased renal function (including acute renal failure) compared to the use of a single RAAS-acting agent (see sections 4.3, 4.4 and 5.1).
 
 Potassium supplements and potassium-sparing diuretics: based on experience with the use of other medicinal products that affect the renin-angiotensin system, concomitant use of potassium-sparing diuretics, potassium supplements, salt substitutes containing potassium or other medicinal products that may increase serum potassium levels (e.g. heparin) may lead to increases in serum potassium and is, therefore, not recommended (see section 4.4).
+
 Lithium: reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with angiotensin converting enzyme inhibitors.
 Similar effects have been very rarely reported with irbesartan so far.
 Therefore, this combination is not recommended (see section 4.4).
 If the combination proves necessary, careful monitoring of serum lithium levels is recommended.
 
 Non-steroidal anti-inflammatory drugs: when angiotensin II antagonists are administered simultaneously with non-steroidal anti-inflammatory drugs (i.e. selective COX-2 inhibitors, acetylsalicylic acid (> 3 g/day) and non-selective NSAIDs), attenuation of the antihypertensive effect may occur.
+
 As with ACE inhibitors, concomitant use of angiotensin II antagonists and NSAIDs may lead to an increased risk of worsening of renal function, including possible acute renal failure, and an increase in serum potassium, especially in patients with poor pre-existing renal function.
 The combination should be administered with caution, especially in the elderly.
 Patients should be adequately hydrated and consideration should be given to monitoring renal function after initiation of concomitant therapy, and periodically thereafter.
@@ -32,7 +34,7 @@ The pharmacokinetic of digoxin was not altered by coadministration of irbesartan
 
 [Aprovel 75 mg film-coated tablets.]
 
-Aliskiren-containing products and ACE-inhibitors: Clinical trial data has shown that dual blockade of the renin-angiotensin-aldosterone system (RAAS) through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren is associated with a higher frequency of adverse events such as hypotension, hyperkalaemia and decreased renal function (including acute renal failure) compared to the use of a single RAAS-acting agent (see sections 4.3, 4.4 and 5.1).
+Aliskiren-containing products and ACE-inhibitors: clinical trial data has shown that dual blockade of the renin-angiotensin-aldosterone system (RAAS) through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren is associated with a higher frequency of adverse events such as hypotension, hyperkalaemia and decreased renal function (including acute renal failure) compared to the use of a single RAAS-acting agent (see sections 4.3, 4.4 and 5.1).
 
 [Aprovel 150 mg film-coated tablets.]
 
