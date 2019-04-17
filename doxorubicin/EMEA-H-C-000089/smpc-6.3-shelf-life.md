@@ -1,6 +1,7 @@
 # 6.3 Shelf life
 
 20 months.
+
 After dilution:
 
 - Chemical and physical in-use stability has been demonstrated for 24 hours at 2°C to 8°C.

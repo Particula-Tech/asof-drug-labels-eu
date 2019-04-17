@@ -26,12 +26,12 @@ The following common adverse events were reported more often with doxorubicin th
 Mucositis (23% vs. 13%; grade 3/4 4% vs. 2%), and stomatitis (22% vs. 15%; grade 3/4 5% vs. 2%) were reported more commonly with Caelyx than with doxorubicin.
 The average duration of the most common severe (grade 3/4) events for both groups was 30 days or less.
 See Table 5 for complete listing of undesirable effects reported in Caelyx-treated patients.
-
 The incidence of life threatening (grade 4) haematologic effects was < 1.0% and sepsis was reported in 1% of patients.
 Growth factor support or transfusion support was necessary in 5.1% and 5.5% of patients, respectively (see section 4.2).
 
 Clinically significant laboratory abnormalities (grades 3 and 4) in this group was low with elevated total bilirubin, AST and ALT reported in 2.4%, 1.6% and < 1% of patients respectively.
 No clinically significant increases in serum creatinine were reported.
+
 Table 5.
 Treatment related undesirable effects reported in breast cancer clinical trials
 (50 mg/m2 every 4 weeks) (Caelyx-treated patients) by severity, MedDRA system organ class and preferred term
@@ -76,7 +76,6 @@ CIOMS III
 Ovarian cancer program
 512 patients with ovarian cancer (a subset of 876 solid tumour patients) were treated with Caelyx at a dose of 50 mg/m2 in clinical trials.
 See Table 6 for undesirable effects reported in Caelyx-treated patients.
-
 Table 6.
 Treatment related undesirable effects reported in ovarian cancer clinical trials
 (50 mg/m2 every 4 weeks) (Caelyx-treated patients) by severity, MedDRA system organ class and preferred term
@@ -141,7 +140,7 @@ Multiple myeloma program
 Of 646 patients with multiple myeloma who have received at least 1 prior therapy, 318 patients were treated with combination therapy of Caelyx 30 mg/m2 as a one hour intravenous infusion administered on day 4 following bortezomib which is administered at 1.3 mg/m² on days 1, 4, 8, and 11, every three weeks or with bortezomib monotherapy in a phase III clinical trial.
 See Table 7 for adverse effects reported in ≥5% patients treated with combination therapy of Caelyx plus bortezomib.
 
-Neutropaenia, thrombocytopaenia, and anaemia were the most frequently reported hematologic events reported with both combination therapy of Caelyx plus bortezomib and bortezomib monotherapy.
+Neutropaenia, thrombocytopaenia, and anaemia were the most frequently reported haematologic events reported with both combination therapy of Caelyx plus bortezomib and bortezomib monotherapy.
 The incidence of grade 3 and 4 neutropaenia was higher in the combination therapy group than in the monotherapy group (28% vs. 14%).
 The incidence of grade 3 and 4 thrombocytopaenia was higher in the combination therapy group than in the monotherapy group (22% vs. 14%).
 The incidence of anaemia was similar in both treatment groups (7% vs. 5%).
@@ -154,6 +153,7 @@ Nausea and vomiting were reported more frequently in the combination therapy gro
 
 Treatment discontinuation of one or both agents due to adverse events was seen in 38% of patients.
 Common adverse events which led to treatment discontinuation of bortezomib and Caelyx included PPE, neuralgia, peripheral neuropathy, peripheral sensory neuropathy, thrombocytopaenia, decreased ejection fraction, and fatigue.
+
 Table 7.
 Treatment related undesirable effects reported in multiple myeloma clinical trial (Caelyx 30 mg/m2 in combination with bortezomib every 3 weeks) by severity, MedDRA system organ class and preferred term
 Very common (≥1/10); Common (≥1/100, < 1/10); Uncommon (≥1/1,000, < 1/100)
@@ -210,8 +210,8 @@ Temporarily suspend Caelyx treatment in patients when the ANC count is < 1,000/m
 G-CSF (or GM-CSF) may be given as concomitant therapy to support the blood count when the ANC count is < 1,000/mm3 in subsequent cycles.
 The haematological toxicity for ovarian cancer patients is less severe than in the AIDS-KS setting (see section for ovarian cancer patients above).
 
-Respiratory undesirable effects commonly occurred in clinical studies of Caelyx and may be related to opportunistic infections in the AIDS population.
-Opportunistic infections (OI’s) are observed in KS patients after administration with Caelyx, and are frequently observed in patients with HIV-induced immunodeficiency.
+Respiratory undesirable effects commonly occurred in clinical studies of Caelyx and may be related to opportunistic infections (OI’s) in the AIDS population.
+Opportunistic infections are observed in KS patients after administration with Caelyx, and are frequently observed in patients with HIV-induced immunodeficiency.
 The most frequently observed OI’s in clinical studies were candidiasis, cytomegalovirus, herpes simplex, Pneumocystis carinii pneumonia, and mycobacterium avium complex.
 
 Table 8.
@@ -267,7 +267,6 @@ In all patients, infusion-associated reactions occurred primarily during the fir
 Temporarily stopping the infusion usually resolves these symptoms without further therapy.
 In nearly all patients, Caelyx treatment can be resumed after all symptoms have resolved without recurrence.
 Infusion reactions rarely recur after the first treatment cycle with Caelyx (see section 4.2).
-
 Myelosuppression associated with anaemia, thrombocytopaenia, leukopaenia, and rarely febrile neutropaenia, has been reported in Caelyx-treated patients.
 
 Stomatitis has been reported in patients receiving continuous infusions of conventional doxorubicin hydrochloride and was frequently reported in patients receiving Caelyx.
@@ -279,6 +278,7 @@ Endomyocardial biopsies on nine of ten AIDS-KS patients receiving cumulative dos
 The recommended dose of Caelyx for AIDS-KS patients is 20 mg/m2 every two-to-three weeks.
 The cumulative dose at which cardiotoxicity would become a concern for these AIDS-KS patients
 (> 400 mg/m2) would require more than 20 courses of Caelyx therapy over 40 to 60 weeks.
+
 In addition, endomyocardial biopsies were performed in 8 solid tumour patients with cumulative anthracycline doses of 509 mg/m2–1,680 mg/m2.
 The range of Billingham cardiotoxicity scores was grades 0-1.5.
 These grading scores are consistent with no or mild cardiac toxicity.
@@ -307,7 +307,6 @@ Recall of skin reaction due to prior radiotherapy has rarely occurred with Caely
 Post-marketing experience
 Adverse drug reactions identified during the post-marketing experience with Caelyx are described in Table 9.
 The frequencies are provided according to the following convention:
-
 Very common ≥1/10
 
 Common ≥1/100 and < 1/10

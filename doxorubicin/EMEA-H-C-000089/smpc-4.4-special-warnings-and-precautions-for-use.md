@@ -14,6 +14,7 @@ The evaluation of left ventricular function is considered to be mandatory before
 
 The evaluation tests and methods mentioned above concerning the monitoring of cardiac performance during anthracycline therapy are to be employed in the following order: ECG monitoring, measurement of left ventricular ejection fraction, endomyocardial biopsy.
 If a test result indicates possible cardiac injury associated with Caelyx therapy, the benefit of continued therapy must be carefully weighed against the risk of myocardial injury.
+
 In patients with cardiac disease requiring treatment, administer Caelyx only when the benefit outweighs the risk to the patient.
 
 Exercise caution in patients with impaired cardiac function who receive Caelyx.
@@ -40,7 +41,6 @@ Persistent severe myelosuppression, may result in superinfection or haemorrhage.
 
 In controlled clinical studies in patients with AIDS-KS against a bleomycin/vincristine regimen, opportunistic infections were apparently more frequent during treatment with Caelyx.
 Patients and doctors must be aware of this higher incidence and take action as appropriate.
-
 Secondary haematological malignancies
 As with other DNA-damaging antineoplastic agents, secondary acute myeloid leukemias and myelodysplasias have been reported in patients having received combined treatment with doxorubicin.
 Therefore, any patient treated with doxorubicin should be kept under haematological supervision.
@@ -49,6 +49,7 @@ Secondary oral neoplasms
 Very rare cases of secondary oral cancer have been reported in patients with long-term (more than one year) exposure to Caelyx or those receiving a cumulative Caelyx dose greater than 720 mg/m2.
 Cases of secondary oral cancer were diagnosed both, during treatment with Caelyx, and up to 6 years after the last dose.
 Patients should be examined at regular intervals for the presence of oral ulceration or any oral discomfort that may be indicative of secondary oral cancer.
+
 Infusion-associated reactions
 Serious and sometimes life-threatening infusion reactions, which are characterised by allergic-like or anaphylactoid-like reactions, with symptoms including asthma, flushing, urticarial rash, chest pain, fever, hypertension, tachycardia, pruritus, sweating, shortness of breath, facial oedema, chills, back pain, tightness in the chest and throat and/or hypotension may occur within minutes of starting the infusion of Caelyx.
 Very rarely, convulsions also have been observed in relation to infusion reactions (see section 4.8).

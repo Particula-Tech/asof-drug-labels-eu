@@ -3,10 +3,10 @@
 Caelyx should only be administered under the supervision of a qualified oncologist specialised in the administration of cytotoxic agents.
 
 Caelyx exhibits unique pharmacokinetic properties and must not be used interchangeably with other formulations of doxorubicin hydrochloride.
-
 Posology
 Breast cancer/Ovarian cancer
 Caelyx is administered intravenously at a dose of 50 mg/m2 once every 4 weeks for as long as the disease does not progress and the patient continues to tolerate treatment.
+
 Multiple myeloma
 Caelyx is administered at 30 mg/m² on day 4 of the bortezomib 3 week regimen as a 1 hour infusion administered immediately after the bortezomib infusion.
 The bortezomib regimen consists of 1.3 mg/m² on days 1, 4, 8, and 11 every 3 weeks.
@@ -63,7 +63,11 @@ Haematological toxicity (ANC or platelets) – Management of patients with breas
 | Grade 1 | 1,500 – 1,900 | 75,000 – 150,000 | Resume treatment with no dose reduction. |
 | Grade 2 | 1,000 – < 1,500 | 50,000 – < 75,000 | Wait until ANC ≥1,500 and platelets ≥75,000; redose with no dose reduction. |
 | Grade 3 | 500 – < 1,000 | 25,000 – < 50,000 | Wait until ANC ≥1,500 and platelets ≥75,000; redose with no dose reduction. |
-| Grade 4 | < 500 | < 25,000 | Wait until ANC ≥1,500 and platelets ≥75,000; decrease dose by 25% or continue full dose with growth factor support. |
+
+Grade 4 < 500 < 25,000 Wait until ANC ≥1,500 and platelets
+≥75,000; decrease dose by 25% or
+continue full dose with growth factor
+support.
 
 For multiple myeloma patients treated with Caelyx in combination with bortezomib who experience PPE or stomatitis, the Caelyx dose should be modified as described in Table 1 and 2 above respectively.
 Table 4, below provides the schedule followed for other dose modifications in the clinical trial in the treatment of patients with multiple myeloma receiving Caelyx and bortezomib combination therapy.
@@ -75,8 +79,8 @@ Dosage adjustments for Caelyx + bortezomib combination therapy - patients with m
 | Patient status | Caelyx | Bortezomib |
 | --- | --- | --- |
 | Fever ≥38○C and ANC < 1,000/mm3 | Do not dose this cycle if before day 4; if after day 4, reduce next dose by 25%. | Reduce next dose by 25%. |
-| On any day of medicine administration after day 1 of each cycle: Platelet count < 25,000/mm3 Hemoglobin < 8 g/dl ANC < 500/mm3 | Do not dose this cycle if before day 4; if after day 4 reduce next dose by 25% in the following cycles if bortezomib is reduced for hematologic toxicity.* | Do not dose; if 2 or more doses are not given in a cycle, reduce dose by 25% in following cycles. |
-| Grade 3 or 4 non-hematologic medicine related toxicity | Do not dose until recovered to grade < 2 and reduce dose by 25% for all subsequent doses. | Do not dose until recovered to grade < 2 and reduce dose by 25% for all subsequent doses. |
+| On any day of medicine administration after day 1 of each cycle: Platelet count < 25,000/mm3 Haemoglobin < 8 g/dl ANC < 500/mm3 | Do not dose this cycle if before day 4; if after day 4 reduce next dose by 25% in the following cycles if bortezomib is reduced for haematologic toxicity.* | Do not dose; if 2 or more doses are not given in a cycle, reduce dose by 25% in following cycles. |
+| Grade 3 or 4 non-haematologic medicine related toxicity | Do not dose until recovered to grade < 2 and reduce dose by 25% for all subsequent doses. | Do not dose until recovered to grade < 2 and reduce dose by 25% for all subsequent doses. |
 | Neuropathic pain or peripheral neuropathy | No dosage adjustments. | See the SPC for bortezomib. |
 
 * for more information on bortezomib dosing and dosage adjustment, see the SPC for bortezomib
@@ -96,7 +100,6 @@ No pharmacokinetic data are available in patients with creatinine clearance of l
 
 AIDS-related KS patients with splenectomy
 As there is no experience with Caelyx in patients who have had splenectomy, treatment with Caelyx is not recommended.
-
 Paediatric population
 The experience in children is limited.
 Caelyx is not recommended in patients below 18 years of age.
@@ -107,6 +110,7 @@ Population based analysis demonstrates that age across the range tested (21–75
 Method of administration
 Caelyx is administered as an intravenous infusion.
 For further instructions on preparation and special precautions for handling see section 6.6.
+
 Do not administer Caelyx as a bolus injection or undiluted solution.
 It is recommended that the Caelyx infusion line be connected through the side port of an intravenous infusion of 5% (50 mg/ml) glucose to achieve further dilution and minimise the risk of thrombosis and extravasation.
 The infusion may be given through a peripheral vein.
