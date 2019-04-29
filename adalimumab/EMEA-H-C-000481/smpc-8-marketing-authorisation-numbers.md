@@ -14,7 +14,7 @@ EU/1/03/256/003
 EU/1/03/256/004
 EU/1/03/256/005
 
-Humira 40 mg solution for injection in pre-filled syringe with needleguard
+Humira 40 mg solution for injection in pre-filled syringe with needle guard
 EU/1/03/256/006
 
 Humira 40 mg solution for injection in pre-filled pen
@@ -30,6 +30,11 @@ EU/1/03/256/013
 EU/1/03/256/014
 EU/1/03/256/015
 
+Humira 40 mg solution for injection in pre-filled syringe with automatic needle guard
+EU/1/03/256/023
+EU/1/03/256/024
+EU/1/03/256/025
+
 EU/1/03/256/016
 EU/1/03/256/017
 EU/1/03/256/018
@@ -40,5 +45,9 @@ EU/1/03/256/019
 Humira 80 mg solution for injection in pre-filled syringe
 EU/1/03/256/020
 
+Humira 80 mg solution for injection in pre-filled syringe with automatic needle guard
+EU/1/03/256/026
+
 Humira 80 mg solution for injection in pre-filled pen
 EU/1/03/256/021
+EU/1/03/256/027

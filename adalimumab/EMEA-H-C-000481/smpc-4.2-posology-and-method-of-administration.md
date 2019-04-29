@@ -2,7 +2,7 @@
 
 Humira treatment should be initiated and supervised by specialist physicians experienced in the diagnosis and treatment of conditions for which Humira is indicated.
 Ophthalmologists are advised to consult with an appropriate specialist before initiation of treatment with Humira (see section 4.4).
-Patients treated with Humira should be given the special alert card.
+Patients treated with Humira should be given the Patient Reminder Card.
 
 After proper training in injection technique, patients may self-inject with Humira if their physician determines that it is appropriate and with medical follow-up as necessary.
 
@@ -20,7 +20,7 @@ The recommended dose of Humira for patients with polyarticular juvenile idiopath
 Humira is administered every other week via subcutaneous injection.
 
 Table 1.
-Humira Dose for Patients with Polyarticular Juvenile Idiopathic Arthrtis
+Humira Dose for Patients with Polyarticular Juvenile Idiopathic Arthritis
 
 Patient Weight Dosing Regimen
 10 kg to < 30 kg 20 mg every other week
@@ -84,8 +84,8 @@ Humira Dose for Paediatric Patients with Crohn’s disease
 
 | Patient Weight | Induction Dose | Maintenance Dose Starting at Week 4 |
 | --- | --- | --- |
-| < 40 kg | • 40 mg at week 0 and 20 mg at week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: • 80 mg at week 0 and 40 mg at week 2 | 20 mg every other week |
-| ≥ 40 kg | • 80 mg at week 0 and 40 mg at week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: • 160 mg at week 0 and 80 mg at week 2 | 40 mg every other week |
+| < 40 kg | •40 mg at week 0 and 20 mg at week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: •80 mg at week 0 and 40 mg at week 2 | 20 mg every other week |
+| ≥ 40 kg | •80 mg at week 0 and 40 mg at week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: •160 mg at week 0 and 80 mg at week 2 | 40 mg every other week |
 
 Patients who experience insufficient response may benefit from an increase in dosage:
 
@@ -118,7 +118,7 @@ combination with methotrexate
 combination with methotrexate
 
 When Humira therapy is initiated, a loading dose of 40 mg for patients < 30 kg or 80 mg for patients
-≥ 30 kg may be administered one week prior to the start of maintenance therapy.
+≥30 kg may be administered one week prior to the start of maintenance therapy.
 No clinical data are available on the use of a Humira loading dose in children < 6 years of age (see section 5.2).
 There is no relevant use of Humira in children aged less than 2 years in this indication.
 
@@ -258,8 +258,6 @@ There is no relevant use of Humira in the paediatric population for the indicati
 Some patients who experience decrease in their response to 40 mg every other week may benefit from an increase in dosage to 40 mg Humira every week or 80 mg every other week.
 
 The recommended dose of Humira for patients with polyarticular juvenile idiopathic arthritis from 2 years of age is based on body weight (Table 1).Humira is administered every other week via subcutaneous injection.
-
-•
 
 [Humira 80 mg solution for injection in pre-filled syringe]
 

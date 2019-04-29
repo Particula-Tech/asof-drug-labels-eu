@@ -22,12 +22,16 @@ Each 0.8 ml single dose pre-filled pen contains 40 mg of adalimumab.
 
 Each 0.4 ml single dose pre-filled syringe contains 40 mg of adalimumab.
 
+Humira 40 mg solution for injection in pre-filled syringe with automatic needle guard
+
 Each 0.4 ml single dose pre-filled pen contains 40 mg of adalimumab.
 
 [Humira 80 mg solution for injection in pre-filled syringe]
 
 Humira 80 mg solution for injection in pre-filled syringe
 Each 0.8 ml single dose pre-filled syringe contains 80 mg of adalimumab.
+
+Humira 80 mg solution for injection in pre-filled syringe with automatic needle guard
 
 Humira 80 mg solution for injection in pre-filled pen
 Each 0.8 ml single dose pre-filled pen contains 80 mg of adalimumab.

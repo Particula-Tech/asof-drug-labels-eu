@@ -33,7 +33,7 @@ Before initiation of therapy with Humira, all patients must be evaluated for bot
 (“latent”) tuberculosis infection.
 This evaluation should include a detailed medical assessment of patient history of tuberculosis or possible previous exposure to people with active tuberculosis and previous and/or current immunosuppressive therapy.
 Appropriate screening tests (i.e. tuberculin skin test and chest X-ray) should be performed in all patients (local recommendations may apply).
-It is recommended that the conduct and results of these tests are recorded in the patient alert card.
+It is recommended that the conduct and results of these tests are recorded in the Patient Reminder Card.
 Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised.
 
 If active tuberculosis is diagnosed, Humira therapy must not be initiated (see section 4.3).
@@ -95,7 +95,7 @@ In the post marketing setting, cases of leukaemia have been reported in patients
 There is an increased background risk for lymphoma and leukaemia in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates the risk estimation.
 With the current knowledge, a possible risk for the development of lymphomas, leukaemia, and other malignancies in patients treated with a TNF-antagonist cannot be excluded.
 
-Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-antagonists (initiation of therapy ≤ 18 years of age), including adalimumab in the post marketing setting.
+Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-antagonists (initiation of therapy ≤18 years of age), including adalimumab in the post marketing setting.
 Approximately half the cases were lymphomas.
 The other cases represented a variety of different malignancies and included rare malignancies usually associated with immunosuppression.
 A risk for the development of malignancies in children and adolescents treated with TNF-antagonists cannot be excluded.
@@ -134,7 +134,7 @@ No data are available on the secondary transmission of infection by live vaccine
 It is recommended that paediatric patients, if possible, be brought up to date with all immunisations in agreement with current immunisation guidelines prior to initiating Humira therapy.
 
 Patients on Humira may receive concurrent vaccinations, except for live vaccines.
-Administration of live vaccines to infants exposed to adalimumab in utero is not recommended for 5 months following the mother’s last adalimumab injection during pregnancy.
+Administration of live vaccines (e.g., BCG vaccine) to infants exposed to adalimumab in utero is not recommended for 5 months following the mother’s last adalimumab injection during pregnancy.
 
 Congestive heart failure
 
@@ -186,6 +186,8 @@ See Vaccinations above.
 Administration of Humira should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infection is controlled.
 
 If latent tuberculosis is diagnosed, appropriate treatment must be started with anti-tuberculosis prophylaxis treatment before the initiation of Humira, and in accordance with local recommendations.
+
+Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-antagonists (initiation of therapy ≤ 18 years of age), including adalimumab in the post marketing setting.
 
 Excipients with known effects
 
