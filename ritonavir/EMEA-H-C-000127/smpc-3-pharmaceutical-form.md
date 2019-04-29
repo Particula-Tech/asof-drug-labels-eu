@@ -1,11 +1,5 @@
 # 3. PHARMACEUTICAL FORM
 
-Oral solution
-
-The solution is a practically clear, orange solution for oral administration.
-
-[Norvir 100 mg powder for oral suspension]
-
 Powder for oral suspension.
 
 Beige/pale yellow to yellow powder.

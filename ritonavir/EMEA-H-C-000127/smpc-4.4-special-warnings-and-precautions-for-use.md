@@ -21,7 +21,7 @@ There have been reports of increased bleeding, including spontaneous skin haemat
 In some patients additional factor VIII was given.
 In more than a half of the reported cases, treatment with protease inhibitors was continued or reintroduced if treatment had been discontinued.
 A causal relationship has been evoked, although the mechanism of action has not been elucidated.
-Haemophiliac patients should therefore be made aware of the possibility of increased bleeding.
+Haemophiliac patients should, therefore, be made aware of the possibility of increased bleeding.
 
 Weight and metabolic parameters:
 An increase in weight and in levels of blood lipids and glucose may occur during antiretroviral therapy.
@@ -39,7 +39,8 @@ In HIV-infected patients with severe immune deficiency at the time of institutio
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis jiroveci pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
-Autoimmune disorders (such as Graves’ disease) have also been reported to occur in the setting of immune reconstitution; however, the reported time to onset is more variable and can occur many months after initiation of treatment.
+
+Autoimmune disorders (such as Graves’ disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reconstitution; however, the reported time to onset is more variable and can occur many months after initiation of treatment.
 
 Liver disease
 Ritonavir should not be given to patients with decompensated liver disease (see section 4.2).
@@ -54,32 +55,13 @@ Since the renal clearance of ritonavir is negligible, the decrease in the total 
 
 Renal failure, renal impairment, elevated creatinine, hypophosphataemia and proximal tubulopathy (including Fanconi syndrome) have been reported with the use of tenofovir disoproxil fumarate in clinical practice (see section 4.8).
 
-Ritonavir oral solution contains castor oil polyoxyl which may cause stomach upset and diarrhoea.
-Ritonavir oral solution also contains the azo-colouring agent sunset yellow (E110) which may cause allergic reactions.
-
-Ritonavir oral solution contains alcohol (43 % v/v), ie up to 2572.5 mg per maximum dose of 600 mg, equivalent to 81 ml beer (4%), 23 ml wine (14%) per dose.
-Each 100 mg dose contains up to 428.8 mg alcohol and each 200 mg dose contains 857.5 mg alcohol.
-Therefore concomitant administration of Norvir with disulfiram or medicines with disulfiram-like reactions (e.g. metronidazole) should be avoided.
-Also to be taken into account in pregnant or breast-feeding women, children and high-risk groups such as patients with liver disease or epilepsy.
-
-Particular risk of toxicity in relation to the amount of alcohol and propylene glycol contained in the oral solution of Norvir.
-
-Healthcare professionals should be aware that Norvir oral solution is highly concentrated and contains the excipients alcohol (43.2% v/v) and propylene glycol (26.0% v/v).
-5 ml of Norvir solution (for antiretroviral purposes) contains 1.7 g of alcohol and 1.3 g propylene glycol.
-1 ml of Norvir solution (for pharmacokinetic enhancer purposes) contains 344.0 mg of alcohol and 265.7 mg propylene glycol.
-
 Medication error
-Special attention should be given to the accurate calculation of the dose of Norvir, transcription of the medication order, dispensing information and dosing instructions to minimize the risk for medication errors and overdose.
+Special attention should be given to the accurate calculation of the dose of Norvir, transcription of the medication order, dispensing information and dosing instructions to minimise the risk for medication errors and underdose.
 This is especially important for infants and young children.
-
-Total amounts of alcohol and propylene glycol from all medicines that are to be given to infants should be taken into account in order to avoid toxicity from these excipients.
-Infants should be monitored closely for toxicity related to Norvir oral solution including: hyperosmolality, with or without lactic acidosis, renal toxicity, central nervous system (CNS) depression (including stupor, coma, and apnea), seizures, hypotonia, cardiac arrhythmias and ECG changes, and hemolysis.
-Postmarketing life-threatening cases of cardiac toxicity (including complete atrioventricular (AV) block, bradycardia, and cardiomyopathy), lactic acidosis, acute renal failure, CNS depression and respiratory complications leading to death have been reported, predominantly in preterm neonates receiving ritonavir oral solution (see sections 4.3 and 4.9).
 
 Osteonecrosis
 Although the aetiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
-
 PR interval prolongation
 Ritonavir has been shown to cause modest asymptomatic prolongation of the PR interval in some healthy adult subjects.
 Rare reports of 2nd or 3rd degree atrioventricular block in patients with underlying structural heart disease and pre-existing conduction system abnormalities or in patients receiving medicinal products known to prolong the PR interval (such as verapamil or atazanavir) have been reported in patients receiving ritonavir.
@@ -110,12 +92,12 @@ If treatment with an HMG-CoA reductase inhibitor is indicated, pravastatin or fl
 
 Colchicine
 Life-threatening and fatal drug interactions have been reported in patients treated with colchicine and strong inhibitors of CYP3A like ritonavir (see sections 4.3 and 4.5).
+
 Digoxin
 Particular caution should be used when prescribing ritonavir in patients taking digoxin since co-administration of ritonavir with digoxin is expected to increase digoxin levels.
 The increased digoxin levels may lessen over time (see section 4.5).
 
 In patients who are already taking digoxin when ritonavir is introduced, the digoxin dose should be reduced to one-half of the patients’ normal dose and patient need to be followed more closely than usual for several weeks after initiating co-administration of ritonavir and digoxin.
-
 In patients who are already taking ritonavir when digoxin is introduced, digoxin should be introduced more gradually than usual.
 Digoxin levels should be monitored more intensively than usual during this period, with dose adjustments made, as necessary, based on clinical, electrocardiographic and digoxin level findings.
 
@@ -148,12 +130,12 @@ More frequent electrocardiogram monitoring and monitoring of transaminases is re
 Delamanid
 Co-administration of delamanid with a strong inhibitor of CYP3A (ritonavir) may increase exposure to delamanid metabolite, which has been associated with QTc prolongation.
 Therefore, if co-administration of delamanid with ritonavir is considered necessary, very frequent ECG monitoring throughout the full delamanid treatment period is recommended (see section 4.5 and refer to the delamanid Summary of Product Characteristics).
+
 Ritonavir dosed as a pharmacokinetic enhancer
-The interaction profiles of HIV-protease inhibitors, co-administered with low dose ritonavir, are dependant on the specific co-administered protease inhibitor.
+The interaction profiles of HIV-protease inhibitors, co-administered with low dose ritonavir, are dependent on the specific co-administered protease inhibitor.
 
 For a description of the mechanisms and potential mechanisms contributing to the interaction profile of the PIs, see section 4.5.
 Please also review the Summary of Product Characteristics for the particular boosted PI.
-
 Saquinavir
 Doses of ritonavir higher than 100 mg twice daily should not be used.
 Higher doses of ritonavir have been shown to be associated with an increased incidence of adverse reactions.
@@ -178,14 +160,10 @@ Only when atazanavir with ritonavir is co-administered with efavirenz, a dose in
 In this instance, close clinical monitoring is warranted.
 Refer to the Summary of Product Characteristics for atazanavir for further details.
 
-[Norvir 100 mg powder for oral suspension]
-
-Haemophiliac patients should, therefore, be made aware of the possibility of increased bleeding.
-
-Special attention should be given to the accurate calculation of the dose of Norvir, transcription of the medication order, dispensing information and dosing instructions to minimise the risk for medication errors and underdose.
-
-The interaction profiles of HIV-protease inhibitors, co-administered with low dose ritonavir, are dependent on the specific co-administered protease inhibitor.
-
 [Norvir 100 mg film-coated tablets]
 
+Haemophiliac patients should therefore be made aware of the possibility of increased bleeding.
+
 In patients who are already taking digoxin when ritonavir is introduced, the digoxin dose should be reduced to one-half of the patients’ normal dose and patients need to be followed more closely than usual for several weeks after initiating co-administration of ritonavir and digoxin.
+
+The interaction profiles of HIV-protease inhibitors, co-administered with low dose ritonavir, are dependant on the specific co-administered protease inhibitor.

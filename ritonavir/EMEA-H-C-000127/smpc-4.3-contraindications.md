@@ -3,6 +3,7 @@
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 
 When ritonavir is used as a pharmacokinetic enhancer of other PIs, consult the Summary of Product Characteristics of the co-administered protease inhibitor for contraindications.
+
 Ritonavir should not be given as a pharmacokinetic enhancer or as an antiretroviral agent to patients with decompensated liver disease.
 
 In vitro and in vivo studies have demonstrated that ritonavir is a potent inhibitor of CYP3A- and CYP2D6- mediated biotransformations.
@@ -36,9 +37,9 @@ Anticancer Venetoclax Increased plasma concentrations of venetoclax.
 Increased risk of tumor lysis syndrome at the dose initiation and during the dose-titration phase (see section 4.5).
 
 Antiarrhythmics Amiodarone, bepridil, Increased plasma concentrations of amiodarone,
-dronedarone, bepridil, dronedarone, encainide, flecainide,
+dronedarone, bepridil, dronedarone, encainide, flecanide,
 
-encainide, flecainide, propafenone, quinidine.
+encainide, flecanide, propafenone, quinidine.
 Thereby, increasing the propafenone, quinidine risk of arrhythmias or other serious adverse reactions from these agents.
 
 Antibiotic Fusidic Acid Increased plasma concentrations of fusidic acid
@@ -84,13 +85,20 @@ methylergonovine
 GI motility agent Cisapride Increased plasma concentrations of cisapride.
 
 Thereby, increasing the risk of serious arrhythmias from this agent.
+Lipid-modifying agents
+
 HMG Co-A Reductase Lovastatin, simvastatin Increased plasma concentrations of lovastatin and
 
-Inhibitor simvastatin; thereby, increasing the risk of
+Inhibitors simvastatin; thereby, increasing the risk of
 
 myopathy including rhabdomyolysis (see section 4.5).
 
-PDE5 inhibitor Avanafil Increased plasma concentrations of avanafil (see
+Microsomal Lomitapide Increased plasma concentrations of lomitapide
+triglyceride transfer (see section 4.5).
+
+protein (MTTP) inhibitor
+
+PDE5 inhibitors Avanafil Increased plasma concentrations of avanafil (see
 
 section 4.4. and 4.5).
 
@@ -118,18 +126,15 @@ Herbal Preparation St. John’s wort Herbal preparations containing St John’s 
 
 (Hypericum perforatum) due to the risk of decreased plasma concentrations and reduced clinical effects of ritonavir (see section 4.5).
 
-[Norvir 100 mg powder for oral suspension]
-
-dronedarone, bepridil, dronedarone, encainide, flecanide,
-
-encainide, flecanide, propafenone, quinidine.
-
-PDE5 inhibitors Avanafil Increased plasma concentrations of avanafil (see
-
 [Norvir 100 mg film-coated tablets]
 
+dronedarone, bepridil, dronedarone, encainide, flecainide,
+
+encainide, flecainide, propafenone, quinidine.
 Thereby, increasing the propafenone, quinidine risk of arrhythmias or other serious adverse effects from these agents.
 
 daily) dosed as an antiretroviral agent and rifabutin due to an increase of rifabutin serum concentrations and risk of adverse reactions including uveitis (see section 4.4).
+
+PDE5 inhibitor Avanafil Increased plasma concentrations of avanafil (see
 
 (For caution on parenterally administered midazolam, see section 4.5.).
