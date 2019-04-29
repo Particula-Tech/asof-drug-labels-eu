@@ -28,5 +28,4 @@ Maternal toxicity occurred at doses similar to those eliciting developmental tox
 
 Administration of ABILIFY solution for injection was well tolerated and produced no direct target organ toxicity in rats or monkeys after repeated dosing at systemic exposures (AUC) that were 15 and 5 times, respectively, human exposure at the maximum recommended human dose of 30 mg intramuscular.
 In intravenous reproductive toxicity studies, no new safety concerns were observed at maternal exposures up to 15 (rat) and 29 (rabbit) times human exposure at 30 mg.
-
 Non-clinical data reveal no special hazard for humans based on conventional oral aripiprazole studies of safety pharmacology, repeated dose toxicity, genotoxicity, carcinogenic potential, toxicity to reproduction and development.

@@ -39,6 +39,7 @@ There are no differences in the pharmacokinetics of aripiprazole between healthy
 
 Gender
 There are no differences in the pharmacokinetics of aripiprazole between healthy male and female subjects nor is there any detectable effect of gender in a population pharmacokinetic analysis in schizophrenic patients.
+
 Smoking
 Population pharmacokinetic evaluation has revealed no evidence of clinically significant effects from smoking on the pharmacokinetics of aripiprazole.
 

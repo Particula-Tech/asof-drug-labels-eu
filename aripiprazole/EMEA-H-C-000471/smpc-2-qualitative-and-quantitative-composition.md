@@ -3,22 +3,22 @@
 ABILIFY 5 mg tablets
 Each tablet contains 5 mg of aripiprazole.
 Excipient with known effect
-67 mg lactose per tablet
+67 mg lactose (as monohydrate) per tablet
 
 ABILIFY 10 mg tablets
 Each tablet contains 10 mg of aripiprazole.
 Excipient with known effect
-62.18 mg lactose per tablet
+62.18 mg lactose (as monohydrate) per tablet
 
 ABILIFY 15 mg tablets
 Each tablet contains 15 mg of aripiprazole.
 Excipient with known effect
-57 mg lactose per tablet
+57 mg lactose (as monohydrate) per tablet
 
 ABILIFY 30 mg tablets
 Each tablet contains 30 mg of aripiprazole.
 Excipient with known effect
-186.54 mg lactose per tablet
+186.54 mg lactose (as monohydrate) per tablet
 
 For the full list of excipients, see section 6.1.
 

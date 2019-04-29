@@ -94,7 +94,6 @@ It is important for prescribers to ask patients or their caregivers specifically
 It should be noted that impulse-control symptoms can be associated with the underlying disorder; however, in some cases, urges were reported to have stopped when the dose was reduced or the medication was discontinued.
 Impulse control disorders may result in harm to the patient and others if not recognised.
 Consider dose reduction or stopping the medication if a patient develops such urges while taking aripiprazole (see section 4.8).
-
 Lactose
 
 ABILIFY tablets contain lactose.
@@ -103,6 +102,11 @@ Patients with rare hereditary problems of galactose intolerance, the lapp lactas
 Patients with ADHD comorbidity
 
 Despite the high comorbidity frequency of Bipolar I Disorder and ADHD, very limited safety data are available on concomitant use of aripiprazole and stimulants; therefore, extreme caution should be taken when these medicinal products are co-administered.
+
+Falls
+
+Aripiprazole may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls.
+Caution should be taken when treating patients at higher risk, and a lower starting dose should be considered (e.g., elderly or debilitated patients; see section 4.2).
 
 [ABILIFY 10 mg orodispersible tablets]
 
@@ -130,6 +134,7 @@ If parenteral benzodiazepine therapy is deemed necessary in addition to aripipra
 
 Patients receiving ABILIFY solution for injection should be observed for orthostatic hypotension.
 Blood pressure, pulse, respiratory rate and level of consciousness should be monitored regularly.
+
 The safety and efficacy of ABILIFY solution for injection has not been evaluated in patients with alcohol or medicinal product intoxication (either with prescribed or illicit medicinal products).
 
 Since patients treated with antipsychotics often present with acquired risk factors for VTE, all possible risk factors for VTE should be identified before and during treatment with aripiprazole and preventive measures undertaken (see section 4.8).

@@ -11,6 +11,7 @@ Aripiprazole also exhibited moderate binding affinity for the serotonin reuptake
 Interaction with receptors other than dopamine and serotonin subtypes may explain some of the other clinical effects of aripiprazole.
 
 Aripiprazole doses ranging from 0.5 to 30 mg administered once a day to healthy subjects for 2 weeks produced a dose-dependent reduction in the binding of 11C-raclopride, a D2/D3 receptor ligand, to the caudate and putamen detected by positron emission tomography.
+
 Clinical efficacy and safety
 
 Adults
@@ -44,7 +45,6 @@ For patients receiving aripiprazole, the median time to onset was 30 days and me
 Manic episodes in Bipolar I Disorder
 In two 3-week, flexible-dose, placebo-controlled monotherapy trials involving patients with a manic or mixed episode of Bipolar I Disorder, aripiprazole demonstrated superior efficacy to placebo in reduction of manic symptoms over 3 weeks.
 These trials included patients with or without psychotic features and with or without a rapid-cycling course.
-
 In one 3-week, fixed-dose, placebo-controlled monotherapy trial involving patients with a manic or mixed episode of Bipolar I Disorder, aripiprazole failed to demonstrate superior efficacy to placebo.
 
 In two 12-week, placebo- and active-controlled monotherapy trials in patients with a manic or mixed episode of Bipolar I Disorder, with or without psychotic features, aripiprazole demonstrated superior efficacy to placebo at week 3 and a maintenance of effect comparable to lithium or haloperidol at week 12.
@@ -106,7 +106,7 @@ Extrapyramidal symptoms were mainly reported during the stabilisation phase in 1
 Tics associated with Tourette’s disorder in paediatric patients (see section 4.2)
 The efficacy of aripiprazole was studied in paediatric subjects with Tourette’s disorder (aripiprazole: n = 99, placebo: n = 44) in a randomised, double-blind, placebo controlled, 8 week study using a fixed dose weight-based treatment group design over the dose range of 5 mg/day to 20 mg/day and a starting dose of 2 mg.
 Patients were 7 - 17 years of age and presented an average score of 30 on Total Tic Score on the Yale Global Tic Severity Scale (TTS-YGTSS) at baseline.
-Aripiprazole showed an improvement on TTS-YGTSS change from baseline to week 8 of 13.35,for the low dose group (5 mg or 10 mg) and 16.94 for the high dose group (10 mg or 20 mg) as compared with an improvement of 7.09 in the placebo group.
+Aripiprazole showed an improvement on TTS-YGTSS change from baseline to week 8 of 13.35, for the low dose group (5 mg or 10 mg) and 16.94 for the high dose group (10 mg or 20 mg) as compared with an improvement of 7.09 in the placebo group.
 
 The efficacy of aripiprazole in paediatric subjects with Tourette’s syndrome (aripiprazole: n = 32, placebo: n = 29) was also evaluated over a flexible dose range of 2 mg/day to 20 mg/day and a starting dose of 2 mg, in a 10 week, randomised, double blind, placebo-controlled study conducted in South-Korea.
 Patients were 6 - 18 years and presented an average score of 29 on TTS-YGTSS at baseline.
@@ -114,6 +114,7 @@ Aripiprazole group showed an improvement of 14.97 on TTS-YGTSS change from basel
 
 In both of these short term trials, the clinical relevance of the efficacy findings has not been established, considering the magnitude of treatment effect compared to the large placebo effect and the unclear effects regarding psycho-social functioning.
 No long term data are available with regard to the efficacy and the safety of aripiprazole in this fluctuating disorder.
+
 The European Medicines Agency has deferred the obligation to submit the results of studies with ABILIFY in one or more subsets of the paediatric population in the treatment of schizophrenia and in the treatment of bipolar affective disorder (see section 4.2 for information on paediatric use).
 
 [ABILIFY 10 mg orodispersible tablets]

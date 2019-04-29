@@ -20,20 +20,20 @@ Consequently, the frequency of these adverse events is qualified as "not known".
 | Blood and lymphatic system disorders |  |  | Leukopenia Neutropenia Thrombocytopenia |
 | Immune system disorders |  |  | Allergic reaction (e.g. anaphylactic reaction, angioedema including swollen tongue, tongue oedema, face oedema, pruritus, or urticaria) |
 | Endocrine disorders |  | Hyperprolactinaemia | Diabetic hyperosmolar coma Diabetic ketoacidosis |
-| Metabolism and nutrition disorders | Diabetes mellitus | Hyperglycaemia | Hyponatremia Anorexia Weight decreased Weight gain |
-| Psychiatric disorders | Insomnia Anxiety Restlessness | Depression, Hypersexuality | Suicide attempt, suicidal ideation and completed suicide (see section 4.4) |
-|  |  |  | Pathological gambling Impulse-control disorders Binge eating Compulsive shopping Poriomania Aggression Agitation Nervousness |
+| Metabolism and nutrition disorders | Diabetes mellitus | Hyperglycaemia | Hyponatremia Anorexia |
+|  |  |  | Weight decreased Weight gain |
+| Psychiatric disorders | Insomnia Anxiety Restlessness | Depression, Hypersexuality | Suicide attempt, suicidal ideation and completed suicide (see section 4.4) Pathological gambling Impulse-control disorders Binge eating Compulsive shopping Poriomania Aggression Agitation Nervousness |
 | Nervous system disorders | Akathisia Extrapyramidal disorder Tremor Headache Sedation Somnolence Dizziness | Tardive dyskinesia Dystonia | Neuroleptic Malignant Syndrome (NMS) Grand mal convulsion Serotonin syndrome Speech disorder |
-| Eye disorders | Vision blurred | Diplopia |  |
+| Eye disorders | Vision blurred | Diplopia | Oculogyric crisis |
 | Cardiac disorders |  | Tachycardia | Sudden unexplained death Torsades de pointes QT prolongation Ventricular arrhythmias Cardiac arrest Bradycardia |
 | Vascular disorders |  | Orthostatic hypotension | Venous thromboembolism (including pulmonary embolism and deep vein thrombosis) Hypertension Syncope |
 | Respiratory, thoracic and mediastinal disorders |  | Hiccups | Aspiration pneumonia Laryngospasm Oropharyngeal spasm |
 | Gastrointestinal disorders | Constipation Dyspepsia Nausea Salivary hypersecretion Vomiting |  | Pancreatitis Dysphagia Diarrhoea Abdominal discomfort Stomach discomfort |
 | Hepatobiliary disorders |  |  | Hepatic failure Hepatitis Jaundice Increased Alanine Aminotransferase (ALT) Increased Aspartate Aminotransferase (AST) Increased Gamma Glutamyl Transferase (GGT) Increased alkaline phosphatase |
-| Skin and subcutaneous tissue disorders |  |  | Rash Photosensitivity reaction Alopecia Hyperhidrosis |
+| Skin and subcutaneous tissue disorders |  |  | Rash Photosensitivity reaction Alopecia |
+|  |  |  | Hyperhidrosis |
 | Musculoskeletal and connective tissue disorders |  |  | Rhabdomyolysis Myalgia Stiffness |
-| Renal and urinary |  |  | Urinary incontinence |
-| disorders |  |  | Urinary retention |
+| Renal and urinary disorders |  |  | Urinary incontinence Urinary retention |
 | Pregnancy, puerperium and perinatal conditions |  |  | Drug withdrawal syndrome neonatal (see section 4.6) |
 | Reproductive system and breast disorders |  |  | Priapism |
 | General disorders and administration site conditions | Fatigue |  | Temperature regulation disorder (e.g. hypothermia, pyrexia) Chest pain Peripheral oedema |
@@ -108,18 +108,17 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 | Blood and lymphatic system disorders |  |  | Leukopenia Neutropenia Thrombocytopenia |
 | Immune system disorders |  |  | Allergic reaction (e.g. anaphylactic reaction, angioedema including swollen tongue, tongue oedema, face oedema, pruritus, or urticaria) |
 | Endocrine disorders |  | Hyperprolactinaemia | Diabetic hyperosmolar coma Diabetic ketoacidosis |
-| Metabolism and nutrition disorders | Diabetes mellitus | Hyperglycaemia | Hyponatremia Anorexia |
-|  |  |  | Weight decreased Weight gain |
+| Metabolism and nutrition disorders | Diabetes mellitus | Hyperglycaemia | Hyponatremia Anorexia Weight decreased Weight gain |
 | Psychiatric disorders | Insomnia Anxiety Restlessness | Depression, Hypersexuality | Suicide attempt, suicidal ideation and completed suicide (see section 4.4) Pathological gambling Impulse-control disorders Binge eating Compulsive shopping Poriomania Aggression Agitation Nervousness |
 | Nervous system disorders | Akathisia Extrapyramidal disorder Tremor Headache Sedation Somnolence Dizziness | Tardive dyskinesia Dystonia | Neuroleptic Malignant Syndrome (NMS) Grand mal convulsion Serotonin syndrome Speech disorder |
-| Eye disorders | Vision blurred | Diplopia |  |
+| Eye disorders | Vision blurred | Diplopia | Oculogyric crisis |
 | Cardiac disorders |  | Tachycardia | Sudden unexplained death Torsades de pointes QT prolongation Ventricular arrhythmias Cardiac arrest Bradycardia |
 | Vascular disorders |  | Orthostatic hypotension | Venous thromboembolism (including pulmonary embolism and deep vein thrombosis) Hypertension Syncope |
 | Respiratory, thoracic and mediastinal disorders |  | Hiccups | Aspiration pneumonia Laryngospasm Oropharyngeal spasm |
 | Gastrointestinal disorders | Constipation Dyspepsia Nausea Salivary hypersecretion Vomiting |  | Pancreatitis Dysphagia Diarrhoea Abdominal discomfort Stomach discomfort |
-| Hepatobiliary disorders |  |  | Hepatic failure Hepatitis Jaundice Increased Alanine Aminotransferase (ALT) Increased Aspartate Aminotransferase (AST) Increased Gamma Glutamyl Transferase (GGT) Increased alkaline phosphatase |
-| Skin and subcutaneous tissue |  |  | Rash Photosensitivity reaction |
-| disorders |  |  | Alopecia Hyperhidrosis |
+| Hepatobiliary disorders |  |  | Hepatic failure Hepatitis Jaundice Increased Alanine Aminotransferase (ALT) Increased Aspartate |
+|  |  |  | Aminotransferase (AST) Increased Gamma Glutamyl Transferase (GGT) Increased alkaline phosphatase |
+| Skin and subcutaneous tissue disorders |  |  | Rash Photosensitivity reaction Alopecia Hyperhidrosis |
 | Musculoskeletal and connective tissue disorders |  |  | Rhabdomyolysis Myalgia Stiffness |
 | Renal and urinary disorders |  |  | Urinary incontinence Urinary retention |
 | Pregnancy, puerperium and perinatal conditions |  |  | Drug withdrawal syndrome neonatal (see section 4.6) |
@@ -136,10 +135,10 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 | Endocrine disorders |  | Hyperprolactinaemia | Diabetic hyperosmolar coma Diabetic ketoacidosis |
 | Metabolism and nutrition disorders | Diabetes mellitus | Hyperglycaemia | Hyponatremia Anorexia Weight decreased Weight gain |
 | Psychiatric disorders | Insomnia Anxiety Restlessness | Depression, Hypersexuality | Suicide attempt, suicidal ideation and completed suicide (see section 4.4) Pathological gambling Impulse-control disorders Binge eating Compulsive shopping Poriomania Aggression Agitation Nervousness |
-| Nervous system disorders | Akathisia Extrapyramidal disorder Tremor Headache Sedation Somnolence Dizziness | Tardive dyskinesia Dystonia | Neuroleptic Malignant Syndrome (NMS) Grand mal convulsion Serotonin syndrome Speech disorder |
-| Eye disorders | Vision blurred | Diplopia |  |
-| Cardiac disorders |  | Tachycardia | Sudden unexplained death Torsades de pointes QT prolongation Ventricular arrhythmias |
-|  |  |  | Cardiac arrest Bradycardia |
+| Nervous system disorders | Akathisia Extrapyramidal disorder Tremor Headache Sedation Somnolence | Tardive dyskinesia Dystonia | Neuroleptic Malignant Syndrome (NMS) Grand mal convulsion Serotonin syndrome Speech disorder |
+|  | Dizziness |  |  |
+| Eye disorders | Vision blurred | Diplopia | Oculogyric crisis |
+| Cardiac disorders |  | Tachycardia | Sudden unexplained death Torsades de pointes QT prolongation Ventricular arrhythmias Cardiac arrest Bradycardia |
 | Vascular disorders |  | Orthostatic hypotension | Venous thromboembolism (including pulmonary embolism and deep vein thrombosis) Hypertension Syncope |
 | Respiratory, thoracic and mediastinal disorders |  | Hiccups | Aspiration pneumonia Laryngospasm Oropharyngeal spasm |
 | Gastrointestinal disorders | Constipation Dyspepsia Nausea Salivary hypersecretion Vomiting |  | Pancreatitis Dysphagia Diarrhoea Abdominal discomfort Stomach discomfort |
@@ -150,7 +149,12 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 | Pregnancy, puerperium and perinatal conditions |  |  | Drug withdrawal syndrome neonatal (see section 4.6) |
 | Reproductive system and breast disorders |  |  | Priapism |
 | General disorders and administration site conditions | Fatigue |  | Temperature regulation disorder (e.g. hypothermia, pyrexia) Chest pain Peripheral oedema |
-| Investigations |  |  | Blood glucose increased Glycosylated haemoglobin increased Blood glucose fluctuation Increased creatine phosphokinase |
+| Investigations |  |  | Blood glucose increased Glycosylated haemoglobin |
+
+Common Uncommon Not known
+increased
+Blood glucose fluctuation
+Increased creatine phosphokinase
 
 [ABILIFY 7.5 mg/ml solution for injection]
 
@@ -164,12 +168,11 @@ The most commonly reported adverse reactions in placebo-controlled trials were n
 | Metabolism and nutrition disorders | Diabetes mellitus | Hyperglycaemia | Hyponatremia Anorexia Weight decreased Weight gain |
 | Psychiatric disorders | Insomnia Anxiety Restlessness | Depression, Hypersexuality | Suicide attempt, suicidal ideation and completed suicide (see section 4.4) Pathological gambling Impulse-control disorders Binge eating Compulsive shopping Poriomania Aggression Agitation Nervousness |
 | Nervous system disorders | Akathisia Extrapyramidal disorder Tremor Headache Sedation Somnolence Dizziness | Tardive dyskinesia Dystonia | Neuroleptic Malignant Syndrome (NMS) Grand mal convulsion Serotonin syndrome Speech disorder |
-| Eye disorders | Vision blurred | Diplopia |  |
+| Eye disorders | Vision blurred | Diplopia | Oculogyric crisis |
 | Cardiac disorders |  | Tachycardia | Sudden unexplained death Torsades de pointes QT prolongation Ventricular arrhythmias Cardiac arrest Bradycardia |
 | Vascular disorders |  | Increased diastolic blood pressure Orthostatic hypotension | Venous thromboembolism (including pulmonary embolism and deep vein thrombosis) Hypertension Syncope |
 | Respiratory, thoracic and mediastinal disorders |  | Hiccups | Aspiration pneumonia Laryngospasm Oropharyngeal spasm |
-| Gastrointestinal | Constipation | Dry mouth | Pancreatitis |
-| disorders | Dyspepsia Nausea Salivary hypersecretion Vomiting |  | Dysphagia Diarrhoea Abdominal discomfort Stomach discomfort |
+| Gastrointestinal disorders | Constipation Dyspepsia Nausea Salivary hypersecretion Vomiting | Dry mouth | Pancreatitis Dysphagia Diarrhoea Abdominal discomfort Stomach discomfort |
 | Hepatobiliary disorders |  |  | Hepatic failure Hepatitis Jaundice Increased Alanine Aminotransferase (ALT) Increased Aspartate Aminotransferase (AST) Increased Gamma Glutamyl Transferase (GGT) Increased alkaline phosphatase |
 | Skin and subcutaneous tissue disorders |  |  | Rash Photosensitivity reaction Alopecia Hyperhidrosis |
 | Musculoskeletal and connective tissue disorders |  |  | Rhabdomyolysis Myalgia Stiffness |
