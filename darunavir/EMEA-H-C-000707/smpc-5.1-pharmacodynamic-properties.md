@@ -13,7 +13,6 @@ Darunavir demonstrates antiviral activity in vitro against a broad panel of HIV-
 
 These EC50 values are well below the 50% cellular toxicity concentration range of 87 µM to
 > 100 µM.
-
 Resistance
 In vitro selection of darunavir-resistant virus from wild type HIV-1 was lengthy (> 3 years).
 The selected viruses were unable to grow in the presence of darunavir concentrations above 400 nM.
@@ -47,7 +46,6 @@ The table below shows the development of HIV-1 protease mutations and loss of su
 a
 TLOVR non-VF censored algorithm based on HIV-1 RNA < 50 copies/ml, except for TITAN (HIV-1 RNA < 400 copies/ml) b
 IAS-USA lists
-
 Low rates of developing resistant HIV-1 virus were observed in ART-naïve patients who are treated for the first time with darunavir/cobicistat once daily in combination with other ART, and in ART-experienced patients with no darunavir RAMs receiving darunavir/cobicistat in combination with other ART.
 The table below shows the development of HIV-1 protease mutations and resistance to PIs in virologic failures at endpoint in the GS-US-216-130 trial.
 
@@ -83,7 +81,6 @@ Efficacy of darunavir 800 mg once daily co-administered with 150 mg cobicistat o
 GS-US-216-130 is a single arm, open-label, Phase III trial evaluating the pharmacokinetics, safety, tolerability, and efficacy of darunavir with cobicistat in 313 HIV-1 infected adult patients
 (295 treatment-naïve and 18 treatment-experienced).
 These patients received darunavir 800 mg once daily in combination with cobicistat 150 mg once daily with an investigator selected background regimen consisting of 2 active NRTIs.
-
 HIV-1 infected patients who were eligible for this trial had a screening genotype showing no darunavir RAMs and plasma HIV-1 RNA ≥1,000 copies/ml.
 The table below shows the efficacy data of the 48 week analyses from the GS-US-216-130 trial:
 
@@ -115,6 +112,7 @@ Data based on analyses at week 96 c
 Imputations according to the TLOVR algorithm d
 Based on normal approximation to the difference in % response e
 Non-completer is failure imputation: patients who discontinued prematurely are imputed with a change equal to 0
+
 Non-inferiority in virologic response to the PREZISTA/ritonavir treatment, defined as the percentage of patients with plasma HIV-1 RNA level < 50 copies/ml, was demonstrated (at the pre-defined 12% non-inferiority margin) for both Intent-To-Treat (ITT) and On Protocol (OP) populations in the 48 week analysis.
 These results were confirmed in the analyses of data at 96 weeks of treatment in the ARTEMIS trial.
 These results were sustained up to 192 weeks of treatment in the ARTEMIS trial.
@@ -279,6 +277,15 @@ For clinical trial results in ART-naïve adult patients, refer to the Summary of
 
 a Imputations according to the TLOVR algorithm b Based on a normal approximation of the difference in % response c NC=F
 
+| ODIN |  |  |  |
+| --- | --- | --- | --- |
+| Outcomes | PREZISTA/ritonavir 800/100 mg once daily + OBR N=294 | PREZISTA/ritonavir 600/100 mg twice daily + OBR N=296 | Treatment difference (95% CI of difference) |
+| HIV-1 RNA < 50 copies/mla With Baseline HIV-1 RNA (copies/ml) < 100,000 ≥100,000 | 72.1% (212) | 70.9% (210) | 1.2% (-6.1; 8.5)b |
+|  | 77.6% (198/255) 35.9% (14/39) | 73.2% (194/265) 51.6% (16/31) | 4.4% (-3.0; 11.9) -15.7% (-39.2; 7.7) |
+| With Baseline CD4+ cell count (x 106/l) ≥100 < 100 With HIV-1 clade Type B Type AE Type C Otherc | 75.1% (184/245) 57.1% (28/49) | 72.5% (187/258) 60.5% (23/38) | 2.6% (-5.1; 10.3) -3.4% (-24.5; 17.8) |
+|  | 70.4% (126/179) 90.5% (38/42) 72.7% (32/44) 55.2% (16/29) | 64.3% (128/199) 91.2% (31/34) 78.8% (26/33) 83.3% (25/30) | 6.1% (-3.4; 15.6) -0.7% (-14.0; 12.6) -6.1% (-2.6; 13.7) -28.2% (-51.0; -5.3) |
+| mean CD4+ cell count change from baseline (x 106/l)e | 108 | 112 | -5d (-25; 16) |
+
 a Imputations according to the TLOVR algorithm b Based on a normal approximation of the difference in % response c Clades A1, D, F1, G, K, CRF02_AG, CRF12_BF, and CRF06_CPX d Difference in means e Last Observation Carried Forward imputation
 
 a Imputations according to the TLOVR algorithm b Last Observation Carried Forward imputation c 95% confidence intervals.
@@ -289,22 +296,6 @@ For clinical trial results in ART-naïve paediatric patients aged 12 to 17 years
 
 [PREZISTA 400 mg film-coated tablets]
 
-|  | ARTEMIS Week 192 | ODIN Week 48 |  | TITAN Week 48 |
-| --- | --- | --- | --- | --- |
-|  | PREZISTA/ ritonavir 800/100 mg once daily N=343 | PREZISTA/ ritonavir 800/100 mg once daily N=294 | PREZISTA/ ritonavir 600/100 mg twice daily N=296 | PREZISTA/ ritonavir 600/100 mg twice daily N=298 |
-| Total number of virologic failuresa, n | 55 (16.0%) | 65 (22.1%) | 54 (18.2%) | 31 (10.4%) |
-| (%) Rebounders Never suppressed subjects | 39 (11.4%) 16 (4.7%) | 11 (3.7%) 54 (18.4%) | 11 (3.7%) 43 (14.5%) | 16 (5.4%) 15 (5.0%) |
-| Number of subjects with virologic failure and paired baseline/endpoint genotypes, developing mutationsb at endpoint, n/N |  |  |  |  |
-| Primary (major) PI mutations PI RAMs | 0/43 | 1/60 | 0/42 | 6/28 |
-|  | 4/43 | 7/60 | 4/42 | 10/28 |
-| Number of subjects with virologic failure and paired baseline/endpoint phenotypes, showing loss of susceptibility to PIs at endpoint compared to baseline, n/N |  |  |  |  |
-| PI darunavir amprenavir atazanavir | 0/39 0/39 0/39 | 1/58 1/58 2/56 | 0/41 0/40 0/40 | 3/26 0/22 0/22 |
-
-indinavir 0/39 2/57 0/40 1/24
-lopinavir 0/39 1/58 0/40 0/23
-saquinavir 0/39 0/56 0/40 0/22
-tipranavir 0/39 0/58 0/41 1/25
-
 a Virologic failures were defined as: never suppressed: confirmed HIV-1 RNA < 1 log10 reduction from baseline and ≥50 copies/ml at the week-8; rebound: HIV-1 RNA < 50 copies/ml followed by confirmed HIV-1 RNA to ≥400 copies/ml or confirmed > 1 log10 HIV-1 RNA increase from the nadir; discontinuations with HIV-1 RNA ≥400 copies/ml at last visit b IAS-USA lists c In GS-US216-130 baseline phenotype was not available
 
 |  | GS-US-216-130 |  |  |
@@ -313,17 +304,6 @@ a Virologic failures were defined as: never suppressed: confirmed HIV-1 RNA < 1 
 | HIV-1 RNA < 50 copies/mla | 245 (83.1%) | 8 (44.4%) | 253 (80.8%) |
 | mean HIV-1 RNA log change from baseline (log10 copies/ml) | -3.01 | -2.39 | -2.97 |
 | CD4+ cell count mean change from baselineb | +174 | +102 | +170 |
-
-| ARTEMIS |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Week 48a |  |  | Week 96b |  |  |
-| Outcomes | PREZISTA/ ritonavir 800/100 mg once daily N=343 | Lopinavir/ ritonavir 800/200 mg per day N=346 | Treatment difference (95% CI of difference) | PREZISTA/ ritonavir 800/100 mg once daily N=343 | Lopinavir/ ritonavir 800/200 m g per day N=346 | Treatment difference (95% CI of difference) |
-| HIV-1 RNA < 50 copies/mlc All patients With baseline HIV-RNA < 100,000 With baseline HIV-RNA ≥100,000 With baseline CD4+ cell count < 200 With baseline CD4+ cell count ≥200 | 83.7% (287) 85.8% (194/226) 79.5% (93/117) 79.4% (112/141) 86.6% (175/202) | 78.3% (271) 84.5% (191/226) 66.7% (80/120) 70.3% (104/148) 84.3% (167/198) | 5.3% (-0.5; 11.2)d 1.3% (-5.2; 7.9)d 12.8% (1.6; 24.1)d 9.2% (-0.8; 19.2)d 2.3% (-4.6; 9.2)d | 79.0% (271) 80.5% (182/226) 76.1% (89/117) 78.7% (111/141) 79.2% (160/202) | 70.8% (245) 75.2% (170/226) 62.5% (75/120) 64.9% (96/148) 75.3% (149/198) | 8.2% (1.7; 14.7)d 5.3% (-2.3; 13.0)d 13.6% (1.9; 25.3)d 13.9% (3.5; 24.2)d 4.0% (-4.3; 12.2)d |
-
-median 137 141 171 188
-CD4+ cell count
-change from
-baseline (x 106/l)e
 
 a Data based on analyses at week 48 b Data based on analyses at week 96 c Imputations according to the TLOVR algorithm d Based on normal approximation to the difference in % response e Non-completer is failure imputation: patients who discontinued prematurely are imputed with a change equal to 0
 

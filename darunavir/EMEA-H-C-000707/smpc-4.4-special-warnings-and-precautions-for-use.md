@@ -33,6 +33,7 @@ Cobicistat levels decrease and may not provide sufficient boosting.
 The substantial reduction in darunavir exposure may result in virological failure and an increased risk of mother to child transmission of HIV infection.
 Therefore, therapy with PREZISTA/cobicistat should not be initiated during pregnancy, and women who become pregnant during therapy with PREZISTA/cobicistat should be switched to an alternative regimen (see sections 4.2 and 4.6).
 PREZISTA given with low dose ritonavir may be considered as an alternative.
+
 Elderly
 As limited information is available on the use of PREZISTA in patients aged 65 and over, caution should be exercised in the administration of PREZISTA in elderly patients, reflecting the greater frequency of decreased hepatic function and of concomitant disease or other therapy (see sections 4.2 and 5.2).
 
@@ -106,7 +107,6 @@ Interactions with medicinal products
 Several of the interaction studies have been performed with darunavir at lower than recommended doses.
 The effects on co-administered medicinal products may thus be underestimated and clinical monitoring of safety may be indicated.
 For full information on interactions with other medicinal products see section 4.5.
-
 Pharmacokinetic enhancer and concomitant medications
 Darunavir has different interaction profiles depending on whether the compound is boosted with ritonavir or cobicistat:
 

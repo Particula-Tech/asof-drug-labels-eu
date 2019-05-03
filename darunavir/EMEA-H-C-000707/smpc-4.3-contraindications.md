@@ -23,12 +23,15 @@ Therefore, concomitant treatment with such medicinal products for which elevated
 These active substances include e.g.:
 
 - alfuzosin
-- amiodarone, bepridil, dronedarone, quinidine, ranolazine
+- amiodarone, bepridil, dronedarone, ivabradine, quinidine, ranolazine
 - astemizole, terfenadine
 - colchicine when used in patients with renal and/or hepatic impairment (see section 4.5)
 - ergot derivatives (e.g. dihydroergotamine, ergometrine, ergotamine, methylergonovine)
 - elbasvir/grazoprevir
 - cisapride
+- dapoxetine
+- domperidone
+- naloxegol
 - lurasidone, pimozide, quetiapine, sertindole (see section 4.5)
 - triazolam, midazolam administered orally (for caution on parenterally administered midazolam, see section 4.5)
 - sildenafil - when used for the treatment of pulmonary arterial hypertension, avanafil
