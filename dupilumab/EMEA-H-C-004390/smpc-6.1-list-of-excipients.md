@@ -1,9 +1,8 @@
 # 6.1 List of excipients
 
-L-arginine hydrochloride
-L-histidine
-Polysorbate 80
-Sodium acetate
-Acetic acid
-Sucrose
-Water for injections
+arginine hydrochloride histidine
+-polysorbate 80 sodium acetate trihydrate glacial acetic acid sucrose water for injections
+
+[Dupixent 200 mg solution for injection in pre-filled syringe]
+
+arginine hydrochloride histidine polysorbate 80 sodium acetate trihydrate glacial acetic acid sucrose water for injections
