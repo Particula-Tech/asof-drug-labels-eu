@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Apotex Europe B.V.
-Archimedesweg 2
-2333 CN Leiden
+Apotex B.V.
+Keizersgracht 311
+1016 EE Amsterdam
 Netherlands
