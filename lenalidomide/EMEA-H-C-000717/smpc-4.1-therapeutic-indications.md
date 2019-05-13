@@ -3,7 +3,7 @@
 Multiple myeloma
 Revlimid as monotherapy is indicated for the maintenance treatment of adult patients with newly diagnosed multiple myeloma who have undergone autologous stem cell transplantation.
 
-Revlimid as combination therapy (see section 4.2) is indicated for the treatment of adult patients with previously untreated multiple myeloma who are not eligible for transplant.
+Revlimid as combination therapy with dexamethasone, or bortezomib and dexamethasone, or melphalan and prednisone (see section 4.2) is indicated for the treatment of adult patients with previously untreated multiple myeloma who are not eligible for transplant.
 
 Revlimid in combination with dexamethasone is indicated for the treatment of multiple myeloma in adult patients who have received at least one prior therapy.
 

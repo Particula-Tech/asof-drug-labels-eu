@@ -18,7 +18,7 @@ Lenalidomide induced in monkeys malformations similar to those described with th
 Therefore, a teratogenic effect of lenalidomide is expected and lenalidomide is contraindicated during pregnancy (see section 4.3).
 
 Breast-feeding
-It is not known whether lenalidomide is excreted in human milk.
+It is not known whether lenalidomide is excreted in breast milk.
 Therefore breast-feeding should be discontinued during therapy with lenalidomide.
 
 Fertility

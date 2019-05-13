@@ -13,46 +13,6 @@ For all indications described below:
 Posology
 Newly diagnosed multiple myeloma (NDMM)
 
-- Lenalidomide maintenance in patients who have undergone autologous stem cell transplantation (ASCT)
-
-Lenalidomide maintenance should be initiated after adequate haematologic recovery following ASCT in patients without evidence of progression.
-Lenalidomide must not be started if the Absolute Neutrophil Count (ANC) is < 1.0 x 109/L, and/or platelet counts are < 75 x 109/L.
-
-Recommended dose
-The recommended starting dose is lenalidomide 10 mg orally once daily continuously (on days 1 to 28 of repeated 28-day cycles) given until disease progression or intolerance.
-After 3 cycles of lenalidomide maintenance, the dose can be increased to 15 mg orally once daily if tolerated.
-
-- Dose reduction steps
-
-|  | Starting dose (10 mg) | If dose increased (15 mg) a |
-| --- | --- | --- |
-| Dose level -1 | 5 mg | 10 mg |
-| Dose level -2 | 5 mg (days 1-21 every 28 days) | 5 mg |
-| Dose level -3 | Not applicable | 5 mg (days 1-21 every 28 days) |
-|  | Do not dose below 5 mg (days 1-21 every 28 days) |  |
-
-a After 3 cycles of lenalidomide maintenance, the dose can be increased to 15 mg orally once daily if tolerated.
-
-- Thrombocytopenia
-
-When platelets Recommended course
-Fall to < 30 x 109/L Interrupt lenalidomide treatment
-Return to ≥ 30 x 109/L Resume lenalidomide at dose level -1 once daily
-For each subsequent drop below 30 x 109/L Interrupt lenalidomide treatment
-Return to ≥ 30 x 109/L Resume lenalidomide at next lower dose level
-
-once daily
-
-- Neutropenia
-
-When neutrophils Recommended coursea
-Fall to < 0.5 x 109/L Interrupt lenalidomide treatment
-Return to ≥0.5 x 109/L Resume lenalidomide at dose level -1 once daily
-For each subsequent drop below < 0.5 x 109/L Interrupt lenalidomide treatment
-Return to ≥ 0.5 x 109/L Resume lenalidomide at next lower dose level
-
-once daily a At the physician’s discretion, if neutropenia is the only toxicity at any dose level, add granulocyte colony stimulating factor (G-CSF) and maintain the dose level of lenalidomide.
-
 - Lenalidomide in combination with dexamethasone until disease progression in patients who are not eligible for transplant
 
 Lenalidomide treatment must not be started if the ANC is < 1.0 x 109/L, and/or platelet counts are
@@ -99,8 +59,65 @@ For each subsequent drop below < 0.5 x 109/L Interrupt lenalidomide treatment
 Return to ≥ 0.5 x 109/L Resume lenalidomide at next lower dose level
 
 once daily.
+a At the physician’s discretion, if neutropenia is the only toxicity at any dose level, add granulocyte colony stimulating factor (G-CSF) and maintain the dose level of lenalidomide.
 
 For hematologic toxicity the dose of lenalidomide may be re-introduced to the next higher dose level (up to the starting dose) upon improvement in bone marrow function (no hematologic toxicity for at least 2 consecutive cycles: ANC ≥1,5 x 109/L with a platelet count ≥ 100 x 109/L at the beginning of a new cycle).
+
+- Lenalidomide in combination with bortezomib and dexamethasone followed by lenalidomide and dexamethasone until disease progression in patients who are not eligible for transplant
+
+Initial treatment: Lenalidomide in combination with bortezomib and dexamethasone
+Lenalidomide in combination with bortezomib and dexamethasone must not be started if the ANC is
+< 1.0 x 109/L, and/or platelet counts are < 50 x 109/L.
+
+The recommended starting dose is lenalidomide 25 mg orally once daily days 1-14 of each 21-day cycle in combination with bortezomib and dexamethasone.
+Bortezomib should be administered via subcutaneous injection (1.3 mg/m2 body surface area) twice weekly on days 1, 4, 8 and 11 of each 21-day.
+For additional information on the dose, schedule and dose adjustments of medicinal products administered with lenalidomide, see Section 5.1 and the corresponding Summary of Product Characteristics.
+
+Up to eight 21-day treatment cycles (24 weeks of initial treatment) are recommended.
+
+Continued treatment: Lenalidomide in combination with dexamethasone until progression
+Continue lenalidomide 25 mg orally once daily on days 1-21 of repeated 28-day cycles in combination with dexamethasone.
+Treatment should be continued until disease progression or unacceptable toxicity.
+
+- Dose reduction steps
+
+|  | Lenalidomidea |
+| --- | --- |
+| Starting dose | 25 mg |
+| Dose level -1 | 20 mg |
+| Dose level -2 | 15 mg |
+| Dose level -3 | 10 mg |
+| Dose level- 4 | 5 mg |
+| Dose level -5 | 2.5 mg |
+
+ª Dose reduction for all products can be managed independently
+
+- Thrombocytopenia
+
+When platelets Recommended course
+Fall to < 30 x 109/L Interrupt lenalidomide treatment
+Return to ≥ 50 x 109/L Resume lenalidomide at dose level -1 once daily
+For each subsequent drop below 30 x 109/L Interrupt lenalidomide treatment
+Return to ≥ 50 x 109/L Resume lenalidomide at next lower dose level
+
+once daily
+
+- Neutropenia
+
+When neutrophils Recommended coursea
+First fall to < 0.5 x 109/L Interrupt lenalidomide treatment
+
+Return to ≥ 1 x 109/L when neutropenia is the only Resume lenalidomide at starting dose once daily observed toxicity
+
+Return to ≥ 0.5 x 109/L when dose-dependent Resume lenalidomide at dose level -1 once daily
+
+haematological toxicities other than neutropenia are observed
+
+For each subsequent drop below < 0.5 x 109/L Interrupt lenalidomide treatment
+Return to ≥ 0.5 x 109/L Resume lenalidomide at next lower dose level
+
+once daily.
+a At the physician’s discretion, if neutropenia is the only toxicity at any dose level, add granulocyte colony stimulating factor (G-CSF) and maintain the dose level of lenalidomide.
 
 - Lenalidomide in combination with melphalan and prednisone followed by lenalidomide maintenance in patients who are not eligible for transplant
 
@@ -138,7 +155,7 @@ Return to ≥ 30 x 109/L Resume lenalidomide at next lower dose level
 - Neutropenia
 
 When neutrophils Recommended course
-First fall to < 0.5 x 109/Lª Interrupt lenalidomide treatment
+First fall to < 0.5 x 109/L Interrupt lenalidomide treatment
 
 Return to ≥ 0.5 x 109/L when neutropenia is the only Resume lenalidomide at starting dose once daily observed toxicity
 
@@ -150,9 +167,47 @@ For each subsequent drop below < 0.5 x 109/L Interrupt lenalidomide treatment
 Return to ≥ 0.5 x 109/L Resume lenalidomide at next lower dose level
 
 once daily.
-ªIf the subject has not been receiving G-CSF therapy, initiate G-CSF therapy.
-On day 1 of next cycle, continue G-CSF as needed and maintain dose of lenalidomide if neutropenia was the only DLT.
-Otherwise, decrease by one dose level at start of next cycle.
+a At the physician’s discretion, if neutropenia is the only toxicity at any dose level, add granulocyte colony stimulating factor (G-CSF) and maintain the dose level of lenalidomide.
+
+- Lenalidomide maintenance in patients who have undergone autologous stem cell transplantation (ASCT)
+
+Lenalidomide maintenance should be initiated after adequate haematologic recovery following ASCT in patients without evidence of progression.
+Lenalidomide must not be started if the Absolute Neutrophil Count (ANC) is < 1.0 x 109/L, and/or platelet counts are < 75 x 109/L.
+
+Recommended dose
+The recommended starting dose is lenalidomide 10 mg orally once daily continuously (on days 1 to 28 of repeated 28-day cycles) given until disease progression or intolerance.
+After 3 cycles of lenalidomide maintenance, the dose can be increased to 15 mg orally once daily if tolerated.
+
+- Dose reduction steps
+
+|  | Starting dose (10 mg) | If dose increased (15 mg)a |
+| --- | --- | --- |
+| Dose level -1 | 5 mg | 10 mg |
+| Dose level -2 | 5 mg (days 1-21 every 28 days) | 5 mg |
+| Dose level -3 | Not applicable | 5 mg (days 1-21 every 28 days) |
+|  | Do not dose below 5 mg (days 1-21 every 28 days) |  |
+
+a After 3 cycles of lenalidomide maintenance, the dose can be increased to 15 mg orally once daily if tolerated.
+
+- Thrombocytopenia
+
+When platelets Recommended course
+Fall to < 30 x 109/L Interrupt lenalidomide treatment
+Return to ≥ 30 x 109/L Resume lenalidomide at dose level -1 once daily
+For each subsequent drop below 30 x 109/L Interrupt lenalidomide treatment
+Return to ≥ 30 x 109/L Resume lenalidomide at next lower dose level
+
+once daily
+
+- Neutropenia
+
+When neutrophils Recommended coursea
+Fall to < 0.5 x 109/L Interrupt lenalidomide treatment
+Return to ≥0.5 x 109/L Resume lenalidomide at dose level -1 once daily
+For each subsequent drop below < 0.5 x 109/L Interrupt lenalidomide treatment
+Return to ≥ 0.5 x 109/L Resume lenalidomide at next lower dose level
+
+once daily a At the physician’s discretion, if neutropenia is the only toxicity at any dose level, add granulocyte colony stimulating factor (G-CSF) and maintain the dose level of lenalidomide.
 
 Multiple myeloma with at least one prior therapy
 Lenalidomide treatment must not be started if the ANC < 1.0 x 109/L, and/or platelet counts < 75 x 109/L or, dependent on bone marrow infiltration by plasma cells, platelet counts < 30 x 109/L.
@@ -197,7 +252,7 @@ Return to ≥ 0.5 x 109/L Resume lenalidomide at next lower dose level
 
 (dose level -1, -2 or -3) once daily.
 Do not dose below 5 mg once daily.
-
+a At the physician’s discretion, if neutropenia is the only toxicity at any dose level, add granulocyte colony stimulating factor (G-CSF) and maintain the dose level of lenalidomide.
 Myelodysplastic syndromes (MDS)
 Lenalidomide treatment must not be started if the ANC < 0.5 x 109/L and/or platelet counts < 25 x 109/L.
 
@@ -298,6 +353,7 @@ For other grade 3 or 4 toxicities judged to be related to lenalidomide, treatmen
 
 Lenalidomide interruption or discontinuation should be considered for grade 2 or 3 skin rash.
 Lenalidomide must be discontinued for angioedema, grade 4 rash, exfoliative or bullous rash, or if Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN) or Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) is suspected, and should not be resumed following discontinuation from these reactions.
+
 Special populations
 
 - Paediatric population
@@ -315,7 +371,6 @@ Newly diagnosed multiple myeloma: patients who are not eligible for transplant
 Patients with newly diagnosed multiple myeloma aged 75 years and older should be carefully assessed before treatment is considered (see section 4.4).
 
 For patients older than 75 years of age treated with lenalidomide in combination with dexamethasone, the starting dose of dexamethasone is 20 mg once daily on days 1, 8, 15 and 22 of each 28-day treatment cycle.
-
 No dose adjustment is proposed for patients older than 75 years who are treated with lenalidomide in combination with melphalan and prednisone.
 
 In patients with newly diagnosed multiple myeloma aged 75 years and older who received lenalidomide, there was a higher incidence of serious adverse reactions and adverse reactions that led to treatment discontinuation.
@@ -340,10 +395,11 @@ Care should be taken in dose selection and monitoring of renal function is advis
 
 No dose adjustments are required for patients with mild renal impairment and multiple myeloma, myelodysplastic syndromes or mantle cell lymphoma.
 The following dose adjustments are recommended at the start of therapy and throughout treatment for patients with moderate or severe impaired renal function or end stage renal disease.
-There are no phase III trial experiences with End Stage Renal Disease (ESRD) (CLcr < 30 mL/min, requiring dialysis).
+There are no phase 3 trial experiences with End Stage Renal Disease (ESRD) (CLcr < 30 mL/min, requiring dialysis).
+
 Multiple myeloma
 
-| Renal function (CLcr) | Dose adjustment (days 1 to 21 of repeated 28-day cycles) |
+| Renal function (CLcr) | Dose adjustment |
 | --- | --- |
 | Moderate renal impairment (30 ≤CLcr < 50 mL/min) | 10 mg once daily1 |
 | Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis) | 7.5 mg once daily2 15 mg every other day |
@@ -384,6 +440,7 @@ After initiation of lenalidomide therapy, subsequent lenalidomide dose modificat
 - Patients with hepatic impairment
 
 Lenalidomide has not formally been studied in patients with impaired hepatic function and there are no specific dose recommendations.
+
 Method of administration
 Oral use.
 Revlimid capsules should be taken orally at about the same time on the scheduled days.
