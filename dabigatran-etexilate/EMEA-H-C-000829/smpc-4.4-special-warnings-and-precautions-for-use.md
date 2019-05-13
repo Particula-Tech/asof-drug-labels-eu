@@ -29,7 +29,7 @@ For the management of bleeding complications, see also section 4.9.
 
 Benefit-risk assessment
 
-The presence of lesions, conditions, procedures and/or pharmacological treatment (such as NSAIDs, antiplatelets, SSRIs and SNRIs, see section 4.5), which signficantly increase the risk of major bleeding requires a careful benefit-risk assessment.
+The presence of lesions, conditions, procedures and/or pharmacological treatment (such as NSAIDs, antiplatelets, SSRIs and SNRIs, see section 4.5), which significantly increase the risk of major bleeding requires a careful benefit-risk assessment.
 Pradaxa should only be given if the benefit outweighs bleeding risks.
 
 Close clinical surveillance
@@ -153,15 +153,7 @@ Further risk factors (see also table 4) comprise co-medication with platelet agg
 
 Table 4 summarises factors which may increase the haemorrhagic risk.
 
-Table 4: Risk factors which may increase the haemorrhagic risk.
-
-| Pharmacodynamic and kinetic factors | Age ≥75 years |
-| --- | --- |
-| Factors increasing dabigatran plasma levels | Major: • Moderate renal impairment (30-50 mL/min CrCL) • Strong P-gp inhibitors (see section 4.3 and 4.5) • Mild to moderate P-gp inhibitor co-medication (e.g. amiodarone, verapamil, quinidine and ticagrelor; see section 4.5) Minor: • Low body weight (< 50 kg) |
-| Pharmacodynamic interactions (see section 4.5) | • ASA and other platelet aggregation inhibitors such as clopidogrel • NSAID • SSRIs or SNRIs • Other medicinal products which may impair haemostasis |
-| Diseases / procedures with special haemorrhagic risks | • Congenital or acquired coagulation disorders • Thrombocytopenia or functional platelet defects • Recent biopsy, major trauma • Bacterial endocarditis • Esophagitis, gastritis and gastroesophageal reflux |
-
-The presence of lesions, conditions, procedures and/or pharmacological treatment (such as NSAIDs, antiplatelets, SSRIs and SNRIs, see section 4.5), which significantly increase the risk of major bleeding requires a careful benefit-risk assessment.
+Table 4: Factors which may increase the haemorrhagic risk.
 
 Close observation for signs of bleeding or anaemia is recommended throughout the treatment period, especially if risk factors are combined (see table 4 above).
 
@@ -213,7 +205,7 @@ Further risk factors (see also table 3) comprise co-medication with platelet agg
 
 Table 3 summarises factors which may increase the haemorrhagic risk.
 
-Table 3: Risk factors which may increase the haemorrhagic risk.
+Table 3: Factors which may increase the haemorrhagic risk.
 
 Close observation for signs of bleeding or anaemia is recommended throughout the treatment period, especially if risk factors are combined (see table 3 above).
 
@@ -231,10 +223,6 @@ Table 4: Coagulation test thresholds at trough that may be associated with an in
 
 Therefore surgical interventions may require the temporary discontinuation of Pradaxa.
 Pradaxa treatment (150 mg twice daily) does not need to be interrupted in patients undergoing catheter ablation for atrial fibrillation (see section 4.2).
-
-When rapid reversal of the anticoagulation effect is required the specific reversal agen (Praxbind, idarucizumab) to Pradaxa is available.
-
-Pradaxa treatment can be re-initiated 24 hours after administration of Praxabind (idarucizumab), if the patient is clinically stable and adequate haemostasis has been achieved.
 
 Table 5 summarises discontinuation rules before invasive or surgical procedures.
 

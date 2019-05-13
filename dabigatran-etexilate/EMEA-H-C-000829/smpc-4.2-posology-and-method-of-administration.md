@@ -2,9 +2,9 @@
 
 Posology
 
-Primary Prevention of Venous Thromboembolism in Orthopaedic Surgery
+Primary prevention of Venous Thromboembolism in Orthopaedic Surgery
 
-The recommended dose of Pradaxa and the duration of therapy for primary prevention of venous thromboembolism in orthopaedic surgery are shown in table 1.
+The recommended doses of Pradaxa and the duration of therapy for primary prevention of venous thromboembolism in orthopaedic surgery are shown in table 1.
 Table 1: Dose recommendations and duration of therapy for primary prevention of venous thromboembolism in orthopaedic surgery
 
 |  | Treatment initiation on the day of surgery 1-4 hours after completed surgery | Maintenance dose starting on the first day after surgery | Duration of maintenance dose |
@@ -25,7 +25,7 @@ Assessment of renal function prior to and during Pradaxa treatment
 
 In all patients and especially in the elderly (>75 years), as renal impairment may be frequent in this age group:
 
-- Renal function should be assessed by calculating the creatine clearance (CrCL) prior to initiation of treatment with Pradaxa to exclude patients with severe renal impairment (i.e. CrCL < 30 mL/min) (see sections 4.3, 4.4 and 5.2).
+- Renal function should be assessed by calculating the creatinine clearance (CrCL) prior to initiation of treatment with Pradaxa to exclude patients with severe renal impairment (i.e. CrCL < 30 mL/min) (see sections 4.3, 4.4 and 5.2).
 - Renal function should also be assessed when a decline in renal function is suspected during treatment (e.g. hypovolaemia, dehydration, and in case of concomitant use of certain medicinal products ).
 
 The method to be used to estimate renal function (CrCL in mL/min) is the Cockcroft-Gault method.
@@ -46,7 +46,7 @@ Pradaxa treatment to parenteral anticoagulant:
 It is recommended to wait 24 hours after the last dose before switching from Pradaxa to a parenteral anticoagulant (see section 4.5).
 
 Parenteral anticoagulants to Pradaxa:
-The parenteral anticoagulant should be discontinued and Pradaxa should be started start 0-2 hours prior to the time that the next dose of the alternate therapy would be due, or at the time of discontinuation in case of continuous treatment (e.g. intravenous Unfractionated Heparin (UFH)) (see section 4.5).
+The parenteral anticoagulant should be discontinued and Pradaxa should be started 0-2 hours prior to the time that the next dose of the alternate therapy would be due, or at the time of discontinuation in case of continuous treatment (e.g. intravenous Unfractionated Heparin (UFH)) (see section 4.5).
 
 Special populations
 
@@ -89,8 +89,6 @@ Patients should be instructed not to open the capsule as this may increase the r
 
 [Pradaxa 110 mg hard capsules]
 
-The recommended doses of Pradaxa and the duration of therapy for primary prevention of venous thromboembolism in orthopaedic surgery are shown in table 1.
-
 |  | Treatment initiation on the day of surgery 1-4 hours after completed surgery | Maintenance dose starting on the first day after surgery | Duration of maintenance dose |
 | --- | --- | --- | --- |
 | Patients following elective knee replacement surgery | single capsule of 110 mg Pradaxa | 220 mg Pradaxa once daily taken as 2 capsules of 110 mg | 10 days |
@@ -100,10 +98,7 @@ The recommended doses of Pradaxa and the duration of therapy for primary prevent
 | Patients who receive concomitant verapamil*, amiodarone, quinidine |  |  |  |
 | Patients aged 75 or above |  |  |  |
 
-- Renal function should be assessed by calculating the creatinine clearance (CrCL) prior to initiation of treatment with Pradaxa to exclude patients with severe renal impairment (i.e. CrCL < 30 mL/min) (see sections 4.3, 4.4 and 5.2).
 - Renal function should also be assessed when a decline in renal function is suspected during treatment (e.g. hypovolaemia, dehydration, and in case of concomitant use of certain medicinal products).
-
-The parenteral anticoagulant should be discontinued and Pradaxa should be started 0-2 hours prior to the time that the next dose of the alternate therapy would be due, or at the time of discontinuation in case of continuous treatment (e.g. intravenous Unfractionated Heparin (UFH)) (see section 4.5).
 
 Prevention of stroke and systemic embolism in adult patients with NVAF with one or more risk factors (SPAF)
 Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT, and PE in adults (DVT/PE)
@@ -210,8 +205,6 @@ Table 1: Dose recommendations for SPAF, DVT and PE
 The duration of use of Pradaxa in the indications SPAF, DVT and PE are shown in table 2.
 
 Table 2: Duration of use for SPAF and DVT/PE
-
-Cardioversion
 
 Catheter ablation can be conducted in patients on 150 mg twice daily Pradaxa treatment.
 Pradaxa treatment does not need to be interrupted (see section 5.1).

@@ -43,9 +43,9 @@ Clinical efficacy and safety
 Ethnic origin
 
 No clinically relevant ethnic differences among Caucasians, African-American, Hispanic, Japanese or Chinese patients were observed.
-
 Clinical trials in Venous Thromboembolism (VTE) prophylaxis following major joint replacement surgery
-In 2 large randomized, parallel group, double-blind, dose-confirmatory trials, patients undergoing elective major orthopaedic surgery (one for knee replacement surgery and one for hip replacement surgery) received Pradaxa 75 mg or 110 mg within 1-4 hours of surgery followed by 150 mg or 220 mg daily thereafter, haemostasis having been secured, or enoxaparin 40 mg on the day prior to surgery and daily thereafter.
+
+In 2 large randomized, parallel group, double-blind, dose-confirmatory trials, patients undergoing elective major orthopaedic surgery (one for knee replacement surgery and one for hip replacement surgery) received Pradaxa 75 mg or 110 mg within 1-4 hours of surgery followed by 150 mg or 220 mg once daily thereafter, haemostasis having been secured, or enoxaparin 40 mg on the day prior to surgery and daily thereafter.
 In the RE-MODEL trial (knee replacement) treatment was for 6-10 days and in the RE-NOVATE trial (hip replacement) for 28-35 days.
 Totals of 2,076 patients (knee) and 3,494 (hip) were treated respectively.
 
@@ -67,7 +67,6 @@ Data for the major VTE and VTE-related mortality endpoint were homogeneous with 
 Data for the total VTE and all cause mortality endpoint are shown in table 11.
 
 Data for adjudicated major bleeding endpoints are shown in table 12 below.
-
 Table 10: Analysis of major VTE and VTE-related mortality during the treatment period in the RE-MODEL and the RE-NOVATE orthopaedic surgery studies
 
 | Trial | Pradaxa 220 mg | Pradaxa 150 mg | Enoxaparin 40 mg |
@@ -147,8 +146,6 @@ For treatment of DVT and PE, with dabigatran etexilate 150 mg twice daily,
 - the 90th percentile of aPTT at trough (10-16 hours after the previous dose) was 62 seconds, which would be 1.8-fold compared to baseline.
 
 In patients treated for prevention of recurrent of DVT and PE with 150 mg dabigatran etexilate twice daily no pharmacokinetic data are available.
-
-In 2 large randomized, parallel group, double-blind, dose-confirmatory trials, patients undergoing elective major orthopaedic surgery (one for knee replacement surgery and one for hip replacement surgery) received Pradaxa 75 mg or 110 mg within 1-4 hours of surgery followed by 150 mg or 220 mg once daily thereafter, haemostasis having been secured, or enoxaparin 40 mg on the day prior to surgery and daily thereafter.
 
 The point estimate for incidence of Major VTE and VTE related mortality for the 150 mg dose was slightly worse than enoxaparin (table 17).
 Better results were seen with the 220 mg dose where the point estimate of Major VTE was slightly better than enoxaparin (table 17).
@@ -270,7 +267,7 @@ Tables 23-25 display results of the primary efficacy and safety endpoint in rele
 
 For the primary endpoint, stroke and systemic embolism, no subgroups (i.e., age, weight, gender, renal function, ethnicity, etc.) were identified with a different risk ratio compared to warfarin.
 
-Table 23: Hazard Ratio and 95 % CI for stroke/sytemic embolism by subgroups
+Table 23: Hazard Ratio and 95 % CI for stroke/systemic embolism by subgroups
 
 | Endpoint | Pradaxa 110 mg twice daily vs. Warfarin | Pradaxa 150 mg twice daily vs. warfarin |
 | --- | --- | --- |
@@ -315,6 +312,23 @@ During the additional 2.5 years of treatment in RELY-ABLE, with a maximum exposu
 No new safety findings were observed.
 The rates of outcome events including, major bleed and other bleeding events were consistent with those seen in RE-LY.
 
+Data from non-interventional studies
+
+A non-interventional study (GLORIA-AF) prospectively collected (in its second phase) safety and effectiveness data in newly diagnosed NVAF patients on dabigatran etexilate in a real-world setting.
+The study included 4,859 patients on dabigatran etexilate (55% treated with 150 mg bid, 43% treated with 110 mg bid, 2% treated with 75 mg bid).
+Patients were followed-up for 2 years.
+The mean CHADS2 and HAS-BLED scores were 1.9 and 1.2, respectively.
+Mean on-therapy follow-up time was 18.3 months.
+Major bleeding occurred in 0.97 per 100 patient-years.
+Life-threatening bleeding was reported in 0.46 per 100 patient-years, intracranial haemorrhage in 0.17 per 100 patient-years and gastrointestinal bleeding in 0.60 per 100 patient-years.
+Stroke occurred in 0.65 per 100 patient-years.
+
+In addition, in a non-interventional study [Graham DJ et al., Circulation.
+2015;131:157-164] in more than 134,000 elderly patients with NVAF in the United States (contributing more than 37,500 patient-years of on-therapy follow-up time) dabigatran etexilate (84 % patients treated with 150 mg bid, 16 % patients treated with 75 mg bid) was associated with a reduced risk of ischemic stroke (hazard ratio 0.80, 95 % confidence interval [CI] 0.67 – 0.96), intracranial haemorrhage (hazard ratio 0.34, CI
+0.26 – 0.46), and mortality (hazard ratio 0.86, CI 0.77 – 0.96) and increased risk of gastrointestinal bleeding (hazard ratio 1.28, CI 1.14 – 1.44) compared to warfarin.
+No difference was found for major bleeding (hazard ratio 0.97, CI 0.88 – 1.07).
+
+These observations in real-world settings are consistent with the established safety and efficacy profile for dabigatran etexilate in the RE-LY study in this indication.
 Patients who underwent Percutaneous coronary intervention (PCI) with stenting
 
 A prospective, randomized, open-label, blinded endpoint (PROBE) study (Phase IIIb) to evaluate dual-therapy with dabigatran etexilate (110 mg or 150 mg bid) plus clopidogrel or ticagrelor (P2Y12 antagonist) vs. triple-therapy with warfarin (adjusted to a INR 2.0 – 3.0) plus clopidogrel or ticagrelor and aspirin was conducted in 2725 patients with non valvular atrial fibrillation who underwent a PCI with stenting (RE-DUAL PCI).
@@ -327,7 +341,7 @@ As part of the descriptive analysis, TIMI (Thrombolysis In Myocardial Infarction
 Both dabigatran etexilate dual-therapy groups had lower rates of intracranial hemorrhage than the corresponding warfarin triple-therapy group: 3 events (0.3%) in the 110 mg dabigatran etexilate dual-therapy group as compared with 10 events (1.0%) in the warfarin triple-therapy group (HR 0.30; 95% CI 0.08, 1.07; P=0.06) and 1 event (0.1%) in the 150 mg dabigatran etexilate dual-therapy group as compared with 8 events (1.0%) in the corresponding warfarin triple-therapy group (HR 0.12; 95% CI 0.02, 0.98; P=0.047).
 The incidence of the composite efficacy endpoint of death, thromboembolic events (myocardial infarction, stroke, or systemic embolism) or unplanned revascularization in the two dabigatran etexilate dual-therapy groups combined was non-inferior to the warfarin triple-therapy group (13.7% vs. 13.4% respectively; HR 1.04; 95% CI: 0.84, 1.29; P=0.0047 for non-inferiority).There were no statistical differences in the individual components of the efficacy endpoints between either dabigatran etexilate dual-therapy groups and warfarin triple-therapy.
 
-This study demonstrated that dual-therapy, with dabigatran etexilate and a P2Y12 antagonist, significantly reduced the risk of bleeding vs. warfarin triple-therapy, with non-inferiority for composite of thromboembolic events, in patients with atrial fibrillation who underwent a PCI with stenting
+This study demonstrated that dual-therapy with dabigatran etexilate and a P2Y12 antagonist significantly reduced the risk of bleeding vs. warfarin triple-therapy with non-inferiority for composite of thromboembolic events in patients with atrial fibrillation who underwent a PCI with stenting.
 
 Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) in adults (DVT/PE treatment)
 
@@ -339,8 +353,8 @@ In the pooled RE-COVER and RE-COVER II studies, a total of 5,153 patients were r
 
 The duration of treatment with fixed dose of dabigatran was 174.0 days without coagulation monitoring.
 For patients randomized to warfarin, the median time in therapeutic range (INR 2.0 to 3.0) was 60.6 %.
-
 The trials, demonstrated that treatment with dabigatran etexilate 150 mg twice daily was non-inferior to the treatment with warfarin (non-inferiority margin for RE-COVER, and RE-COVER II: 3.6 for risk difference and 2.75 for hazard ratio).
+
 Table 25: Analysis of the primary and secondary efficacy endpoints (VTE is a composite of DVT and/or PE) until the end of post-treatment period for the pooled studies RE-COVER and RE-COVER II
 
 Pradaxa
@@ -455,11 +469,9 @@ In general, it can be assumed that these measures of anti-coagulant activity may
 The dabigatran geometric mean trough concentration, measured at trough in the morning, at the end of the dosing interval (i.e. 12 hours after the 150 mg dabigatran evening dose), was on average 91.0 ng/mL, with a range of 61.0-143 ng/mL (25th–
 75th percentile range).
 
-For patients randomized to warfarin, the mean percentage within time in therapeutic range (TTR) (INR 2-3) was 64.4 % (median TTR 67 %).
-
 The dose of 150 mg twice daily, reduces significantly the risk of ischemic and haemorrhagic stroke, vascular death, ICH and total bleeding compared to warfarin.
-
 Tables 15-17 display details of key results in the overall population:
+
 Table 15: Analysis of first occurrence of stroke or systemic embolism (primary endpoint) during the study period in RE-LY.
 
 Table 16: Analysis of first occurrence of ischemic or haemorrhagic strokes during the study period in RE-LY.
@@ -470,7 +482,6 @@ Tables 18-19 display results of the primary efficacy and safety endpoint in rele
 
 Table 18: Hazard Ratio and 95 % CI for stroke/systemic embolism by subgroups
 
-The concomitant use of antiplatelets ASA or clopidogrel approximately doubles MBE rates with both dabigatran and warfarin.
 Table 19: Hazard Ratio and 95 % CI for major bleeds by subgroups
 
 Patients undergoing catheter ablation for atrial fibrillation
@@ -486,6 +497,7 @@ This exploratory study showed that dabigatran etexilate was associated with a si
 Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) in adults (DVT/PE treatment
 
 The trials, demonstrated that treatment with dabigatran etexilate 150 mg twice daily was non-inferior to the treatment with warfarin ( non-inferiority margin for RE-COVER and RE-COVER II: 3.6 for risk difference and 2.75 for hazard ratio).
+
 Table 20: Analysis of the primary and secondary efficacy endpoints (VTE is a composite of DVT and/or PE) until the end of post-treatment period for the pooled studies RE-COVER and RE-COVER II
 
 Table 21: Analysis of the primary and secondary efficacy endpoints (VTE is a composite of DVT and/or PE) until the end of post-treatment period for the RE-MEDY study

@@ -121,18 +121,17 @@ Table 10: Number of patients studied, maximum daily dose in phase III studies
 | DVT/PE treatment (RE-COVER, RE-COVER II) | 2,553 | 300 mg |
 | DVT/PE prevention (RE-MEDY, RE-SONATE) | 2,114 | 300 mg |
 
-In total, about 9 % of patients treated for elective hip or knee surgery (short-term treatment for up to 42 days) , 22 % of patient with atrial fibrillation treated for the prevention of stroke and systemic embolism (long-term treatment for up to 3 years), 14 % of patient treated for DVT/PE and 15 % of patients treated for DVT/PE prevention experienced adverse reactions.
+In total, about 9 % of patients treated for elective hip or knee surgery (short-term treatment for up to 42 days), 22 % of patients with atrial fibrillation treated for the prevention of stroke and systemic embolism (long-term treatment for up to 3 years), 14 % of patients treated for DVT/PE and 15 % of patients treated for DVT/PE prevention experienced adverse reactions.
 
 The most commonly reported events are bleedings occurring in approximately 14 % of patients treated short-term for elective hip or knee replacement surgery, 16.6 % in patients with atrial fibrillation treated long-term for the prevention of stroke and systemic embolism, and in 14.4 % of patients treated for DVT/PE.
-Furthermore, bleeding occurred in 19.4% of patients in the DVT/PE prevention trial RE-MEDY and in 10.5% of patient in the DVT/PE prevention trial RE-SONATE.
+Furthermore, bleeding occurred in 19.4 % of patients in the DVT/PE prevention trial RE-MEDY and in 10.5 % of patients in the DVT/PE prevention trial RE-SONATE.
 
-Since the patient populations treated in the three indications are not comparable and bleeding events are distributed over several System Organ Classes (SOC), a summary description of major and any bleeding are broken down by indication and given in tables 12-16 below.
+Since the patient populations treated in the three indications are not comparable and bleeding events are distributed over several System Organ Classes (SOC), a summary description of major and any bleeding are broken down by indication and provided in tables 12-16 below.
 
 Although low in frequency in clinical trials, major or severe bleeding may occur and, regardless of location, may lead to disabling, life-threatening or even fatal outcomes.
 
-Table 11 shows the adverse reactions identified from the primary VTE prevention studies after hip or knee replacement surgery, the study in the prevention of thromboembolic stroke , and systemic embolism in patients with atrial fibrillation and the studies in DVT/PE treatment and in DVT/PE prevention.
-They are ranked under headings of SOC and frequency using the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare
-(≥1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data).
+Table 11 shows the adverse reactions identified from the primary VTE prevention studies after hip or knee replacement surgery, the study in the prevention of thromboembolic stroke and systemic embolism in patients with atrial fibrillation, and the studies in DVT/PE treatment and in DVT/PE prevention.
+They are ranked under headings of System Organ Class (SOC) and frequency using the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data).
 
 Table 11: Adverse reactions
 
@@ -311,14 +310,13 @@ Table 9: Number of patients studied, maximum daily dose in phase III studies
 | DVT/PE treatment (RE-COVER, RE-COVER II) | 2,553 | 300 mg |
 | DVT/PE prevention (RE-MEDY, RE-SONATE) | 2,114 | 300 mg |
 
-In total, 22 % of patient with atrial fibrillation treated for the prevention of stroke and systemic embolism (long-term treatment for up to 3 years) , 14 % of patients treated for DVT/PE and 15 % of patients treated for DVT/PE prevention experienced adverse reactions.
+In total, 22 % of patients with atrial fibrillation treated for the prevention of stroke and systemic embolism (long-term treatment for up to 3 years), 14 % of patients treated for DVT/PE and 15 % of patients treated for DVT/PE prevention experienced adverse reactions.
 
 The most commonly reported events are bleedings occurring in approximately 16.6 % in patients with atrial fibrillation treated long-term for the prevention of stroke and systemic embolism and in 14.4 % of patients treated for DVT/PE.
-Furthermore, bleeding occured in 19.4 % of patients in the DVT/PE prevention trial RE-MEDY and in 10.5 % of patients in the DVT/PE trial RE-SONATE.
 
-Since the patient population treated in the three indications are not comparable and bleeding events are distributed over several System Organ Classes (SOC), a summary description of major and any bleeding are broken down by indication and are provided in tables 11-14 below.
+Since the patient populations treated in the three indications are not comparable and bleeding events are distributed over several System Organ Classes (SOC), a summary description of major and any bleeding are broken down by indication and are provided in tables 11-14 below.
 
-Table 10 shows the adverse reactions identified from the study in prevention of thromboembolic stroke and systemic embolism in patients with atrial fibrillation, the studies in DVT/PE treatment and in DVT/PE prevention .
+Table 10 shows the adverse reactions identified from the study in the prevention of thromboembolic stroke and systemic embolism in patients with atrial fibrillation and the studies in DVT/PE treatment and in DVT/PE prevention.
 They are ranked under headings of System Organ Class (SOC) and frequency using the following convention.very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data).
 Table 10: Adverse reactions
 
@@ -383,8 +381,6 @@ Prevention of stroke and systemic embolism in adult patients with nonvalvular at
 The table 11 shows bleeding events broken down to major and any bleeding in the pivotal study testing the prevention of thromboembolic stroke and systemic embolism in patients with atrial fibrillation.
 
 Table 11: Bleeding events in a study testing the prevention of thromboembolic stroke and systemic embolism in patients with atrial fibrillation
-
-The clinical benefit of dabigatran with regard to stroke and systemic embolism prevention and decreased risk of ICH compared to warfarin is preserved across individual subgroups, e.g. renal impairment, age, concomitant medication use such as anti-platelets or P-gp inhibitors.
 
 Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults (DVT/PE) treatment
 

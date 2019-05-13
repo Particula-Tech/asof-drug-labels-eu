@@ -41,6 +41,7 @@ Plasma concentrations of dabigatran showed a biexponential decline with a mean t
 After multiple doses a terminal half-life of about 12-14 hours was observed.
 The half-life was independent of dose.
 Half-life is prolonged if renal function is impaired as shown in table 13.
+
 Special populations
 
 Renal insufficiency
@@ -77,6 +78,7 @@ Body weight
 The dabigatran trough concentrations were about 20 % lower in patients with a body weight > 100 kg compared with 50-100 kg.
 The majority (80.8 %) of the subjects were in the ≥50 kg and < 100 kg category with no clear difference detected (see sections 4.2 and 4.4).
 Limited clinical data in patients < 50 kg are available.
+
 Gender
 Active substance exposure in the primary VTE prevention studies was about 40 % to 50 % higher in female patients and no dose adjustment is recommended.
 
@@ -90,7 +92,11 @@ This has been confirmed by in vivo studies with healthy volunteers, who did not 
 
 [Pradaxa 110 mg hard capsules]
 
+Peak plasma concentrations are reached at 6 hours following administration in a postoperative period due to contributing factors such as anaesthesia, GI paresis, and surgical effects independent of the oral medicinal product formulation.
+
 Half-life is prolonged if renal function is impaired as shown in table 28.
+
+In phase I studies the exposure (AUC) of dabigatran after the oral administration of Pradaxa is approximately 2.7-fold higher in volunteers with moderate renal insufficiency (CrCL between 30 and 50 mL/min) than in those without renal insufficiency.
 
 Table 28: Half-life of total dabigatran in healthy subjects and subjects with impaired renal function.
 
@@ -118,14 +124,8 @@ No dose adjustment is required (see section 4.2).
 
 [Pradaxa 150 mg hard capsules]
 
-Peak plasma concentrations are reached at 6 hours following administration in a postoperative period due to contributing factors such as anaesthesia, GI paresis, and surgical effects independent of the oral medicinal product formulation.
-
 Half-life is prolonged if renal function is impaired as shown in table 23.
 
 Table 23: Half-life of total dabigatran in healthy subjects and subjects with impaired renal function.
 
 Patients with moderate renal impairment (CrCL between 30 and 50 mL/min) had on average 2.29-fold and 1.81-fold higher pre- and post-dose dabigatran plasma concentrations, respectively, when compared with patients without renal impairment (CrCL ≥80 mL/min).
-
-Patients with mild and moderate renal impairment had at steady state an average 1.8-fold and 3.6-fold higher pre-dosedabigatran plasma concentrations compared with patients with CrCL > 80 mL/min, respectively.
-
-No dose adjustment is recommended (see section 4.2).

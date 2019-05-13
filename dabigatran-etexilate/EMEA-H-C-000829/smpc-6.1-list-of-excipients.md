@@ -13,6 +13,7 @@ Carrageenan
 Potassium chloride
 Titanium dioxide
 Hypromellose
+
 Black printing ink
 Shellac
 Iron oxide black (E172)
