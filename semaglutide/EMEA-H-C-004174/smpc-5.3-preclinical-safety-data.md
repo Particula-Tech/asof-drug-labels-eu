@@ -21,6 +21,7 @@ However, a direct effect of semaglutide on the foetus cannot be excluded.
 In developmental toxicity studies in rabbits and cynomolgus monkeys, increased pregnancy loss and slightly increased incidence of foetal abnormalities were observed at clinically relevant exposures.
 The findings coincided with marked maternal body weight loss of up to 16%.
 Whether these effects are related to the decreased maternal food consumption as a direct GLP-1 effect is unknown.
+
 Postnatal growth and development were evaluated in cynomolgus monkeys.
 Infants were slightly smaller at delivery, but recovered during the lactation period.
 

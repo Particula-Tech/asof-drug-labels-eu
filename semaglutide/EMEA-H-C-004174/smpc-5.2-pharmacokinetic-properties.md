@@ -32,6 +32,7 @@ Age had no effect on the pharmacokinetics of semaglutide based on data from phas
 
 Gender, race and ethnicity
 Gender, race (White, Black or African-American, Asian) and ethnicity (Hispanic or Latino, non-Hispanic or -Latino) had no effect on the pharmacokinetics of semaglutide.
+
 Body weight
 Body weight has an effect on the exposure of semaglutide.
 Higher body weight results in lower exposure; a 20% difference in body weight between individuals will result in an approximate 16% difference in exposure.

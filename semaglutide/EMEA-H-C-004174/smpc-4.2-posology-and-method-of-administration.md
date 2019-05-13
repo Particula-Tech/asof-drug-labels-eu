@@ -9,6 +9,7 @@ Semaglutide 0.25 mg is not a maintenance dose.
 Weekly doses higher than 1 mg are not recommended.
 
 When Ozempic is added to existing metformin and/or thiazolidinedione therapy, the current dose of metformin and/or thiazolidinedione can be continued unchanged.
+
 When Ozempic is added to existing therapy of sulfonylurea or insulin, a reduction in the dose of sulfonylurea or insulin should be considered to reduce the risk of hypoglycaemia (see sections 4.4 and 4.8).
 
 Self-monitoring of blood glucose is not needed in order to adjust the dose of Ozempic.
@@ -46,7 +47,6 @@ Ozempic is to be administered once weekly at any time of the day, with or withou
 Ozempic is to be injected subcutaneously in the abdomen, in the thigh or in the upper arm.
 The injection site can be changed without dose adjustment.
 Ozempic should not be administered intravenously or intramuscularly.
-
 The day of weekly administration can be changed if necessary as long as the time between two doses is at least 3 days (>72 hours).
 After selecting a new dosing day, once-weekly dosing should be continued.
 
