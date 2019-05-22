@@ -32,7 +32,7 @@ Table 2: Adverse reactions in patients treated with pembrolizumab*
 | Very common | anaemia | neutropaenia, anaemia, thrombocytopaenia |
 | Common | thrombocytopaenia, lymphopaenia | febrile neutropaenia, leukopaenia, lymphopaenia |
 | Uncommon | neutropaenia, leukopaenia, eosinophilia | eosinophilia |
-| Rare | immune thrombocytopenic purpura, haemolytic anaemia, pure red cell aplasia |  |
+| Rare | immune thrombocytopenic purpura, haemolytic anaemia, pure red cell aplasia, haemophagocytic lymphohistiocytosis |  |
 | Immune system disorders |  |  |
 | Common | infusion related reactiona | infusion related reactiona |
 | Uncommon | sarcoidosis |  |

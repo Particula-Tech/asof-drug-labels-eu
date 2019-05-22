@@ -365,48 +365,21 @@ Per the AJCC 8th edition classification, a total of 82 subjects were classified 
 There is limited data on subjects with stage IIIA according to AJCC 8th edition at the time of this RFS analysis.
 Figure 4: Kaplan-Meier curve for recurrence-free survival by treatment arm in KEYNOTE-054 (intent to treat population)
 
-100
-
-90
-
-80
-
-70
-
-60
-
-50
-
-40
-
-30
-
-20
-Treatment arm RFS rate at 18 months HR (98% CI) p-value
-10 Pembrolizumab 72% 0.56 (0.44, 0.72) < 0.0001Placebo 54%
-
-0
-
-0 3 6 9 12 15 18 21 24 27 30
-Number at Risk Time in Months
-Pembrolizumab: 514 439 413 393 375 362 340 207 92 25 3
-Placebo: 505 415 363 323 300 283 251 164 63 18 2
-
 While the analysis in patients with PD-L1 positive tumours was a co-primary endpoint, pre-defined subgroup analyses were performed in patients whose tumours were PD-L1 negative, BRAF mutation positive or negative.
 Table 11 summarises efficacy results by PD-L1 expression and BRAF mutation status.
 
 Table 11: Efficacy results by PD-L1 expression and BRAF mutation status in KEYNOTE-054
 
-Endpoint Pembrolizumab Placebo Pembrolizumab Placebo
-200 mg every 3 weeks 200 mg every 3 weeks
-PD-L1 positive PD-L1 negative
-n=428 n=425 n=59 n=57
-RFS Hazard ratio* (95% CI) 0.54 (0.42, 0.69) --- 0.47 (0.26, 0.85) ---
-RFS rate at 6 months 84% 75% 81% 64%
-BRAF mutation positive BRAF mutation negative
-n=245 n=262 n=233 n=214
-RFS Hazard ratio* (95% CI) 0.49 (0.36, 0.67) --- 0.64 (0.47, 0.87) ---
-RFS rate at 6 months 83% 73% 80% 72%
+| Endpoint | Pembrolizumab 200 mg every 3 weeks | Placebo | Pembrolizumab 200 mg every 3 weeks | Placebo |
+| --- | --- | --- | --- | --- |
+|  | PD-L1 positive |  | PD-L1 negative |  |
+|  | n=428 | n=425 | n=59 | n=57 |
+| RFS Hazard ratio* (95% CI) | 0.54 (0.42, 0.69) | --- | 0.47 (0.26, 0.85) | --- |
+| RFS rate at 6 months | 84% | 75% | 81% | 64% |
+|  | BRAF mutation positive |  | BRAF mutation negative |  |
+|  | n=245 | n=262 | n=233 | n=214 |
+| RFS Hazard ratio* (95% CI) | 0.49 (0.36, 0.67) | --- | 0.64 (0.47, 0.87) | --- |
+| RFS rate at 6 months | 83% | 73% | 80% | 72% |
 
 *Based on the stratified Cox proportional hazard model
 
@@ -528,8 +501,10 @@ KEYNOTE-189: Controlled trial of combination therapy in non-squamous NSCLC patie
 The efficacy of pembrolizumab in combination with pemetrexed and platinum chemotherapy was investigated in a multicentre, randomized, active-controlled, double-blind trial, KEYNOTE-189.
 Key eligibility criteria were metastatic non-squamous NSCLC, no prior systemic treatment for metastatic NSCLC, and no EGFR or ALK genomic tumour aberrations.
 Patients with autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible.
-Patients were randomized (2:1) to receive one of the following regimens: •Pembrolizumab 200 mg with pemetrexed 500 mg/m2 and investigator’s choice of cisplatin 75 mg/m2 or carboplatin AUC 5 mg/mL/min intravenously every 3 weeks for 4 cycles followed by pembrolizumab 200 mg and pemetrexed 500 mg/m2 intravenously every 3 weeks (n=410)
-•Placebo with pemetrexed 500 mg/m2 and investigator’s choice of cisplatin 75 mg/m2 or carboplatin AUC 5 mg/mL/min intravenously every 3 weeks for 4 cycles followed by placebo and pemetrexed 500 mg/m2 intravenously every 3 weeks (n=206)
+Patients were randomized (2:1) to receive one of the following regimens:
+
+- Pembrolizumab 200 mg with pemetrexed 500 mg/m2 and investigator’s choice of cisplatin 75 mg/m2 or carboplatin AUC 5 mg/mL/min intravenously every 3 weeks for 4 cycles followed by pembrolizumab 200 mg and pemetrexed 500 mg/m2 intravenously every 3 weeks (n=410)
+- Placebo with pemetrexed 500 mg/m2 and investigator’s choice of cisplatin 75 mg/m2 or carboplatin AUC 5 mg/mL/min intravenously every 3 weeks for 4 cycles followed by placebo and pemetrexed 500 mg/m2 intravenously every 3 weeks (n=206)
 
 Treatment with pembrolizumab continued until RECIST 1.1-defined progression of disease as determined by the investigator, unacceptable toxicity, or a maximum of 24 months.
 Administration of pembrolizumab was permitted beyond RECIST-defined disease progression by BICR or beyond discontinuation of pemetrexed if the patient was clinically stable and deriving clinical benefit as determined by the investigator.
