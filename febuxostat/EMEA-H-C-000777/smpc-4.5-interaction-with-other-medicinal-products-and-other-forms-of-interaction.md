@@ -2,16 +2,18 @@
 
 Mercaptopurine/azathioprine
 On the basis of the mechanism of action of febuxostat on XO inhibition concomitant use is not recommended.
-Inhibition of XO by febuxostat may cause increased plasma concentrations of these drugs leading to toxicity (see section 4.4).
-Drug interaction studies of febuxostat with drugs that are metabolized by XO have not been performed.
+Inhibition of XO by febuxostat may cause increased plasma concentrations of these drugs leading to toxicity.
+Drug interaction studies of febuxostat with drugs (except theophylline) that are metabolized by XO have not been performed in humans.
+Modelling and simulation analysis of data from a pre-clinical study in rats indicates that, in case of concomitant administration with febuxostat, the dose of mercaptopurine/azathioprine should be reduced to 20% or less of the previously prescribed dose (see section 4.4 and 5.3)
 
-Drug interaction studies of febuxostat with cytotoxic chemotherapy have not been conducted.
-No data is available regarding the safety of febuxostat during cytotoxic therapy.
+Drug interaction studies of febuxostat with other cytotoxic chemotherapy have not been conducted.
+No data is available regarding the safety of febuxostat during other cytotoxic therapy.
 
 Rosiglitazone/CYP2C8 substrates
 Febuxostat was shown to be a weak inhibitor of CYP2C8 in vitro.
 In a study in healthy subjects, coadministration of 120 mg febuxostat QD with a single 4 mg oral dose of rosiglitazone had no effect on the pharmacokinetics of rosiglitazone and its metabolite N-desmethyl rosiglitazone, indicating that febuxostat is not a CYP2C8 enzyme inhibitor in vivo.
 Thus, co-administration of febuxostat with rosiglitazone or other CYP2C8 substrates is not expected to require any dose adjustment for those compounds.
+
 Theophylline
 An interaction study in healthy subjects has been performed with febuxostat to evaluate whether the inhibition of XO may cause an increase in the theophylline circulating levels as reported with other XO inhibitors.
 The results of the study showed that the co-administration of febuxostat 80 mg QD with theophylline 400 mg single dose has no effect on the pharmacokinetics or safety of theophylline.
@@ -51,6 +53,8 @@ Concomitant ingestion of an antacid containing magnesium hydroxide and aluminium
 Therefore, febuxostat may be taken without regard to antacid use.
 
 [ADENURIC 120 mg film-coated tablets]
+
+Modelling and simulation analysis of data from a pre-clinical study in rats indicates that, in case of concomitant administration with febuxostat, the dose of mercaptopurine/azathioprine should be reduced to the 20% or less of the previously prescribed dose (see section 4.4 and 5.3).
 
 In the Tumor Lysis Syndrome pivotal trial febuxostat 120 mg daily was administered to patients undergoing several chemotherapy regimens, including monoclonal antibodies.
 However, drug-drug and drug-disease interactions were not explored during this study.

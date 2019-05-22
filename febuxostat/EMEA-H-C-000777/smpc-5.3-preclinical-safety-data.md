@@ -1,7 +1,7 @@
 # 5.3 Preclinical safety data
 
 Effects in non-clinical studies were generally observed at exposures in excess of the maximum human exposure.
-
+Pharmacokinetic modelling and simulation of rat data suggests that, when co-administered with febuxostat, the clinical dose of mercaptopurine/azathioprine should be reduced to 20% or less of the previously prescribed dose in order to avoid possible haematological effects (see section 4.4 and 4.5).
 Carcinogenesis, mutagenesis, impairment of fertility
 In male rats, a statistically significant increase in urinary bladder tumours (transitional cell papilloma and carcinoma) was found only in association with xanthine calculi in the high dose group, at approximately 11 times human exposure.
 There was no significant increase in any other tumour type in either male or female mice or rats.

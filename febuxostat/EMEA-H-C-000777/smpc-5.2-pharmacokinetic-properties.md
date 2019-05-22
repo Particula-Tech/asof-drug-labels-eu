@@ -7,7 +7,6 @@ Febuxostat has an apparent mean terminal elimination half-life (t1/2) of approxi
 
 Population pharmacokinetic/pharmacodynamic analyses were conducted in 211 patients with hyperuricaemia and gout, treated with ADENURIC 40-240 mg QD.
 In general, febuxostat pharmacokinetic parameters estimated by these analyses are consistent with those obtained from healthy subjects, indicating that healthy subjects are representative for pharmacokinetic/pharmacodynamic assessment in the patient population with gout.
-
 Absorption
 Febuxostat is rapidly (tmax of 1.0-1.5 h) and well absorbed (at least 84%).
 After single or multiple oral 80 and 120 mg once daily doses, Cmax is approximately 2.8-3.2 µg/mL, and 5.0-5.3 µg/mL, respectively.

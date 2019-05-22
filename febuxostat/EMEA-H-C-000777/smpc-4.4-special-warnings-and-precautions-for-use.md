@@ -24,14 +24,18 @@ At treatment initiation with febuxostat flare prophylaxis for at least 6 months 
 If a gout flare occurs during febuxostat treatment, it should not be discontinued.
 The gout flare should be managed concurrently as appropriate for the individual patient.
 Continuous treatment with febuxostat decreases frequency and intensity of gout flares.
+
 Xanthine deposition
 In patients in whom the rate of urate formation is greatly increased (e.g. malignant disease and its treatment, Lesch-Nyhan syndrome) the absolute concentration of xanthine in urine could, in rare cases, rise sufficiently to allow deposition in the urinary tract.
 As there has been no experience with febuxostat, its use in these populations is not recommended.
 
 Mercaptopurine/azathioprine
-Febuxostat use is not recommended in patients concomitantly treated with mercaptopurine/azathioprine.
-Where the combination cannot be avoided patients should be closely monitored.
-A reduction of dosage of mercaptopurine or azathioprine is recommended in order to avoid possible haematological effects (see section 4.5).
+Febuxostat use is not recommended in patients concomitantly treated with mercaptopurine/azathioprine as inhibition of xanthine oxidase by febuxostat may cause increased plasma concentrations of mercaptopurine/azathioprine that could result in severe toxicity.
+No interaction studies have been performed in humans.
+Where the combination cannot be avoided, a reduction of the dose of mercaptopurine/azathioprine is recommended.
+Based on modelling and simulation analysis of data from a pre-clinical study in rats, when coadministered with febuxostat, the dose of mercaptopurine/azathioprine should be reduced to the 20% or less of the previously prescribed dose in order to avoid possible haematological effects (see section 4.5 and 5.3).
+
+The patients should be closely monitored and the dose of mercaptopurine/azathioprine should be subsequently adjusted based on the evaluation of the therapeutic response and the onset of eventual toxic effects.
 
 Organ transplant recipients
 As there has been no experience in organ transplant recipients, the use of febuxostat in such patients is not recommended (see section 5.1).
@@ -64,3 +68,5 @@ Gout flares may occur during initiation of treatment due to changing serum uric 
 
 This has not been observed in the pivotal clinical study with ADENURIC in the Tumor Lysis Syndrome.
 As there has been no experience with febuxostat, its use in patients with Lesch-Nyhan Syndrome is not recommended.
+
+Febuxostat use is not recommended in patients concomitantly treated with mercaptopurine/azathioprine as inhibition of xanthine oxidase by febuxostat may cause increased plasma concentrations of mercaptopurine/azathioprine that could result in severe toxicity.No interaction studies have been performed in humans.

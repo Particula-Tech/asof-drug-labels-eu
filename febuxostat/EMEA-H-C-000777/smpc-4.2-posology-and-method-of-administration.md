@@ -5,7 +5,7 @@ The recommended oral dose of ADENURIC is 80 mg once daily without regard to food
 If serum uric acid is > 6 mg/dL (357 µmol/L) after 2-4 weeks, ADENURIC 120 mg once daily may be considered.
 
 ADENURIC works sufficiently quickly to allow retesting of the serum uric acid after 2 weeks.
-The therapeutic target is to decrease and maintain serum uric acid below 6 mg/dL (357 µmol/L).
+The therapeutic target is to decrease and maintain serum uric acid below 6 mg/dL (357 μmol/L).
 
 Gout flare prophylaxis of at least 6 months is recommended (see section 4.4).
 
@@ -20,6 +20,7 @@ Hepatic impairment
 The efficacy and safety of febuxostat has not been studied in patients with severe hepatic impairment (Child Pugh Class C).
 The recommended dose in patients with mild hepatic impairment is 80 mg.
 Limited information is available in patients with moderate hepatic impairment.
+
 Paediatric population
 The safety and the efficacy of ADENURIC in children aged below the age of 18 years have not been established.
 No data are available.
@@ -32,7 +33,7 @@ ADENURIC should be taken by mouth and can be taken with or without food.
 
 Gout: The recommended oral dose of ADENURIC is 80 mg once daily without regard to food.
 
-The therapeutic target is to decrease and maintain serum uric acid below 6 mg/dL (357µmol/L).
+The therapeutic target is to decrease and maintain serum uric acid below 6 mg/dL (357μmol/L).
 
 Tumor Lysis Syndrome: The recommended oral dose of ADENURIC is 120 mg once daily without regard to food.
 ADENURIC should be started two days before the beginning of cytotoxic therapy and continued for a minimum of 7 days; however treatment may be prolonged up to 9 days according to chemotherapy duration as per clinical judgment.

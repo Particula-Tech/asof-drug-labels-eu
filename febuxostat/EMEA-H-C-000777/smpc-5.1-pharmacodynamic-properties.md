@@ -10,8 +10,8 @@ Febuxostat is a 2-arylthiazole derivative that achieves its therapeutic effect o
 Febuxostat is a potent, non-purine selective inhibitor of XO (NP-SIXO) with an in vitro inhibition Ki value less than one nanomolar.
 Febuxostat has been shown to potently inhibit both the oxidized and reduced forms of XO.
 At therapeutic concentrations febuxostat does not inhibit other enzymes involved in purine or pyrimidine metabolism, namely, guanine deaminase, hypoxanthine guanine phosphoribosyltransferase, orotate phosphoribosyltransferase, orotidine monophosphate decarboxylase or purine nucleoside phosphorylase.
-Clinical efficacy and safety
 
+Clinical efficacy and safety
 The efficacy of ADENURIC was demonstrated in three Phase 3 pivotal studies (the two pivotal APEX and FACT studies, and the additional CONFIRMS study described below) that were conducted in 4101 patients with hyperuricaemia and gout.
 In each phase 3 pivotal study, ADENURIC demonstrated superior ability to lower and maintain serum uric acid levels compared to allopurinol.
 The primary efficacy endpoint in the APEX and FACT studies was the proportion of patients whose last 3 monthly serum uric acid levels were < 6.0 mg/dL (357 µmol/L).
@@ -28,7 +28,6 @@ FACT Study: The Febuxostat Allopurinol Controlled Trial (FACT) Study was a Phase
 Seven hundred sixty (760) patients were randomized: ADENURIC 80 mg QD (n=256), ADENURIC 120 mg QD (n=251), or allopurinol 300 mg QD (n=253).
 
 The FACT study showed the statistically significant superiority of both ADENURIC 80 mg and ADENURIC 120 mg QD treatment arms versus the conventionally used dose of allopurinol 300 mg treatment arm in reducing and maintaining sUA below 6 mg/dL (357 µmol/L).
-
 Table 2 summarises the primary efficacy endpoint results:
 
 Table 2
@@ -45,6 +44,7 @@ Last Three Monthly Visits
 The ability of ADENURIC to lower serum uric acid levels was prompt and persistent.
 Reduction in serum uric acid level to <6.0 mg/dL (357 µmol/L) was noted by the Week 2 visit and was maintained throughout treatment.
 The mean serum uric acid levels over time for each treatment group from the two pivotal Phase 3 studies are shown in Figure 1.
+
 Figure 1 Mean Serum Uric Acid Levels in Combined Pivotal Phase 3 Studies
 
 11
@@ -70,8 +70,8 @@ BL 2 4 6 8 12 16 20 24 28 32 36 40 44 48 52
 Week
 BL=baseline SEM=standard error of the mean
 
-Note: 509 patients received allopurinol 300 mg QD; 10 patients with serum creatinine >1.5 and <
-2.0 mg/dL were dosed with 100 mg QD.
+Note: 509 patients received allopurinol 300 mg QD; 10 patients with serum creatinine >1.5 and
+≤2.0 mg/dL were dosed with 100 mg QD.
 (10 patients out of 268 in APEX study).
 240 mg febuxostat was used to evaluate the safety of febuxostat at twice the recommended highest dose.
 
@@ -89,6 +89,7 @@ ADENURIC achieved the primary efficacy endpoint in 44% (80 mg QD), 45% (120 mg Q
 There were no clinically significant differences in the percent decrease in serum uric acid concentration in healthy subjects irrespective of their renal function (58% in the normal renal function group and 55% in the severe renal dysfunction group).
 
 An analysis in patients with gout and renal impairment was prospectively defined in the CONFIRMS study, and showed that febuxostat was significantly more efficacious in lowering serum urate levels to < 6 mg/dL compared to allopurinol 300 mg/200 mg in patients who had gout with mild to moderate renal impairment (65% of patients studied).
+
 Primary endpoint in the sub group of patients with sUA ≥ 10 mg/dL
 Approximately 40% of patients (combined APEX and FACT) had a baseline sUA of ≥ 10 mg/dL.
 In this subgroup ADENURIC achieved the primary efficacy endpoint (sUA < 6.0 mg/dL at the last 3 visits) in 41% (80 mg QD), 48% (120 mg QD), and 66% (240 mg QD) of patients compared to 9% in the allopurinol 300 mg/100 mg QD and 0 % in the placebo groups.
@@ -104,7 +105,6 @@ Gout flares during the last 4 weeks of the study (Weeks 24-28) were observed in 
 FACT study: During the 8-week prophylaxis period, a greater proportion of subjects in the febuxostat 120 mg (36%) treatment group required treatment for a gout flare compared to both the febuxostat 80 mg (22%) and allopurinol 300 mg (21%) treatment groups.
 After the 8-week prophylaxis period, the incidences of flares increased and gradually decreased over time (64% and 70% of subjects received treatment for gout flares from Week 8-52).
 Gout flares during the last 4 weeks of the study (Weeks 49-52) were observed in 6-8% (febuxostat 80 mg, 120 mg) and 11% (allopurinol 300 mg) of subjects.
-
 The proportion of subjects requiring treatment for a gout flare (APEX and FACT Study) was numerically lower in the groups that achieved an average post-baseline serum urate level <6.0 mg/dL, <5.0 mg/dL, or <4.0 mg/dL compared to the group that achieved an average post-baseline serum urate level ≥6.0 mg/dL during the last 32 weeks of the treatment period (Week 20-Week 24 to Week 49 - 52 intervals).
 
 During the CONFIRMS study, the percentages of patients who required treatment for gout flares (Day 1 through Month 6) were 31% and 25% for the febuxostat 80 mg and allopurinol groups, respectively.
@@ -134,7 +134,6 @@ Increased TSH values (>5.5 µIU/mL) were observed in patients on long-term treat
 [ADENURIC 120 mg film-coated tablets]
 
 Gout
-
 The efficacy of ADENURIC was demonstrated in three Phase 3 pivotal studies (the two pivotal APEX and FACT studies, and the additional CONFIRMS study, described below) that were conducted in 4101 patients with hyperuricaemia and gout.
 
 Tumor Lysis Syndrome
