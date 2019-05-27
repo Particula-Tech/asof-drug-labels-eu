@@ -11,6 +11,7 @@ Newly diagnosed low-to-intermediate risk acute promyelocytic leukaemia (APL)
 Induction treatment schedule
 TRISENOX must be administered intravenously at a dose of 0.15 mg/kg/day, given daily until complete remission is achieved.
 If complete remission has not occurred by day 60, dosing must be discontinued.
+
 Consolidation schedule
 TRISENOX must be administered intravenously at a dose of 0.15 mg/kg/day, 5 days per week.
 Treatment should be continued for 4 weeks on and 4 weeks off, for a total of 4 cycles.
@@ -36,16 +37,13 @@ For ECG, electrolytes abnormalities and hepatotoxicity see section 4.4.
 
 Special populations
 
-Patients with hepatic impairment
-
+Hepatic impairment
 Since no data are available across all hepatic impairment groups and hepatotoxic effects may occur during the treatment with TRISENOX, caution is advised in the use of TRISENOX in patients with hepatic impairment (see section 4.4 and 4.8).
 
-Patients with renal impairment
-
+Renal impairment
 Since no data are available across all renal impairment groups, caution is advised in the use of TRISENOX in patients with renal impairment.
 
 Paediatric population
-
 The safety and efficacy of TRISENOX in children aged up to 17 years has not been established.
 Currently available data for children aged 5 to 16 years are described in section 5.1 but no recommendation on a posology can be made.
 No data are available for children under 5 years.

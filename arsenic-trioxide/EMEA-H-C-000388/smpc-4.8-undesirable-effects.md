@@ -1,7 +1,6 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-
 Related adverse reactions of CTC grade 3 and 4 occurred in 37% of relapsed/refractory APL patients in clinical trials.
 The most commonly reported reactions were hyperglycaemia, hypokalaemia, neutropenia, and increased alanine amino transferase (ALT).
 Leukocytosis occurred in 50% of patients with relapsed/refractory APL, as determined by haematology assessments.
@@ -16,7 +15,6 @@ This is probably due to the confounding of adverse events by the uncontrolled di
 In a phase 3, multicenter, noninferiority trial comparing all-trans-retinoic acid (ATRA) plus chemotherapy with ATRA plus arsenic trioxide in newly diagnosed low-to-intermediate risk APL patients (Study APL0406; see also section 5.1), serious adverse reactions including hepatic toxicity, thrombocytopenia, neutropenia and QTc prolongation were observed in patients treated with arsenic trioxide.
 
 Tabulated list of adverse reactions
-
 The following undesirable effects have been reported in the APL0406 study in newly diagnosed patients and in clinical trials and/or post-marketing experience in relapsed/refractory APL patients.
 Undesirable effects are listed in table 2 below as MedDRA preferred term by system organ class and frequencies observed during TRISENOX clinical trials in 52 patients with refractory/relapsed APL.
 Frequencies are defined as: (very common ≥ 1/10), (common ≥ 1/100 to < 1/10), (uncommon ≥ 1/1,000 to < 1/100), not known (cannot be estimated from available data).
@@ -65,9 +63,8 @@ Paraesthesia Very Common Common
 Dizziness Very Common Not known
 Headache Very Common Not known
 Convulsion Common Not known
-Encephalopathy, Wernicke Not known Not known
+Encephalopathy, Wernicke encephalopathy Not known Not known
 
-encephalopathy
 Eye disorders
 
 Vision blurred Common Not known
@@ -83,6 +80,7 @@ Ventricular tachycardia Not known Not known
 Vascular disorders
 
 Vasculitis Common Common
+All grades Grades ≥ 3
 Hypotension Common Not known
 
 Respiratory, thoracic and mediastinal disorders
@@ -129,15 +127,15 @@ Chest pain Common Common
 Chills Common Not known
 
 Investigations
+
 Alanine amino transferase increased Very Common Common
 Aspartate amino transferase increased Very Common Common
-
 Electrocardiogram QT prolonged Very Common Common
 Hyperbilirubinaemia Common Common
 Blood creatinine increased Common Not known
 Weight increased Common Not known
-
 Gamma-glutamyltransferase increased* Not known* Not known*
+
 *In the CALGB study C9710, 2 cases of grade ≥3 increased GGT were reported out of the 200 patients who received TRISENOX consolidation cycles (cycle 1 and cycle 2) versus none in the control arm.
 
 Description of selected adverse reactions

@@ -1,3 +1,5 @@
 # 6.4 Special precautions for storage
 
-Do not freeze.
+This medicinal product does not require any special storage conditions.
+
+For storage conditions after dilution of the medicinal products, see section 6.3.

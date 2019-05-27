@@ -11,7 +11,6 @@ Arsenic trioxide also causes damage or degradation of the fusion protein Pro-Mye
 Clinical efficacy and safety
 
 Newly diagnosed non high risk APL patients
-
 TRISENOX has been investigated in 77 newly diagnosed patients with low to intermediate risk APL, in a controlled, randomized, non-inferiority Phase 3 clinical study comparing the efficacy and safety of TRISENOX combined with all-trans-retinoic acid (ATRA) with those of ATRA+chemotherapy (eg, idarubicin and mitoxantrone) (Study APL0406).
 Patients with newly diagnosed APL confirmed by the presence of t(15; 17) or PML-RARα by RT-PCR or micro speckled PML nuclear distribution in leukemic cells were included.
 No data are available on patient with variant translocations like t(11;17) (PLZF/RARα).
@@ -24,7 +23,6 @@ Each course of consolidation was initiated at hematological recovery from the pr
 Patients in the ATRA+chemotherapy treatment group also received maintenance treatment for up to 2 years, consisting of oral 6-mercaptopurine at 50 mg/m2 daily, intramuscular methotrexate at 15 mg/m2 weekly, and ATRA at 45 mg/m2 daily for 15 days every 3 months.
 
 The key efficacy results are summarised in table 3 below:
-
 Table 3
 
 | Endpoint | ATRA + TRISENOX (n = 77) [%] | ATRA + Chemotherapy (n = 79) [%] | Confidence interval (CI) | P-value |
@@ -38,7 +36,6 @@ Table 3
 APL = acute promyelocytic leukemia; ATRA = all-trans-retinoic acid
 
 Relapsed/refractory APL
-
 TRISENOX has been investigated in 52 APL patients, previously treated with an anthracycline and a retinoid regimen, in two open-label, single-arm, non-comparative studies.
 One was a single investigator clinical study (n=12) and the other was a multicentre, 9-institution study (n=40).
 Patients in the first study received a median dose of 0.16 mg/kg/day of TRISENOX (range 0.06 to 0.20 mg/kg/day) and patients in the multicentre study received a fixed dose of 0.15 mg/kg/day.
@@ -46,6 +43,7 @@ TRISENOX was administered intravenously over 1 to 2 hours until the bone marrow 
 Patients with complete remission received consolidation therapy with TRISENOX for 25 additional doses over a 5 week period.
 Consolidation therapy began 6 weeks (range, 3-8) after induction in the single institution study and 4 weeks (range, 3-6) in the multicentre study.
 Complete remission (CR) was defined as the absence of visible leukaemic cells in the bone marrow and peripheral recovery of platelets and white blood cells.
+
 Patients in the single centre study had relapsed following 1-6 prior therapy regimens and 2 patients had relapsed following stem cell transplantation.
 Patients in the multicentre study had relapsed following 1-4 prior therapy regimens and 5 patients had relapsed following stem cell transplantation.
 The median age in the single centre study was 33 years (age range 9 to 75).
@@ -94,14 +92,24 @@ Multicenter Study 40 13 66%
 Months
 
 Cytogenetic confirmation of conversion to a normal genotype and reverse transcriptase - polymerase chain reaction (RT-PCR) detection of PML/RARα conversion to normal are shown in table 5 below.
+
 Cytogenetics after TRISENOX therapy
 
 Table 5
 
-|  | Single centre pilot trial N with CR = 11 | Multicentre trial N with CR = 34 |
-| --- | --- | --- |
-| Conventional Cytogenetics [t(15;17)] Absent Present Not evaluable | 8 (73%) 1 (9%) 2 (18%) | 31 (91%) 0% 3 (9%) |
-| RT-PCR for PML/ RARα Negative Positive Not evaluable | 8 (73%) 3 (27%) 0 | 27 (79%) 4 (12%) 3 (9%) |
+Single centre pilot trial Multicentre trial
+N with CR = 11 N with CR = 34
+Conventional
+Cytogenetics
+[t(15;17)]
+Absent 8 (73%) 31 (91%)
+Present 1 (9%) 0%
+Not evaluable 2 (18%) 3 (9%)
+RT-PCR for PML/
+RARα
+Negative 8 (73%) 27 (79%)
+Positive 3 (27%) 4 (12%)
+Not evaluable 0 3 (9%)
 
 Responses were seen across all age groups tested, ranging from 6 to 75 years.
 The response rate was similar for both genders.

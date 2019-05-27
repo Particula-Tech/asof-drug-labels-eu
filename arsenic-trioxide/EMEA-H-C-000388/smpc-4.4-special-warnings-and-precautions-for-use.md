@@ -32,11 +32,12 @@ Prior to initiating therapy with TRISENOX, a 12-lead ECG must be performed and s
 Patients with risk factors of QTc prolongation or risk factors of torsade de pointes should be monitored with continuous cardiac monitoring (ECG).
 For QTc greater than 500 msec, corrective measures must be completed and the QTc reassessed with serial ECGs and, if available, a specialist advice could be sought prior to considering using TRISENOX.
 During therapy with TRISENOX, potassium concentrations must be kept above 4 mEq/l and magnesium concentrations must be kept above 1.8 mg/dl.
-Patients who reach an absolute QT interval value > 500 msec must be reassessed and immediate action must be taken to correct concomitant risk factors, if any, while the risk/benefit of continuing versus suspending TRISENOX therapy must be considered.
+Patients who reach an absolute QT interval value
+> 500 msec must be reassessed and immediate action must be taken to correct concomitant risk factors, if any, while the risk/benefit of continuing versus suspending TRISENOX therapy must be considered.
 If syncope, rapid or irregular heartbeat develops, the patient must be hospitalised and monitored continuously, serum electrolytes must be assessed, TRISENOX therapy must be temporarily discontinued until the QTc interval regresses to below 460 msec, electrolyte abnormalities are corrected, and the syncope and irregular heartbeat cease.
 After recovery, treatment should be resumed at 50 % of the preceding daily dose.
 If QTc prolongation does not recur within 7 days of restarting treatment at the reduced dose, treatment with TRISENOX can be resumed at 0.11 mg/kg body weight per day for a second week.
-The daily dose can be escalated back to 100% of the original dose if no prolongation occurs.
+The daily dose can be escalated back to 100 % of the original dose if no prolongation occurs.
 There are no data on the effect of arsenic trioxide on the QTc interval during the infusion.
 Electrocardiograms must be obtained twice weekly, and more frequently for clinically unstable patients, during induction and consolidation.
 
@@ -54,15 +55,15 @@ Treatment with TRISENOX must be temporarily interrupted before the scheduled end
 
 Laboratory tests
 The patient’s electrolyte and glycaemia levels, as well as haematologic, hepatic, renal and coagulation parameter tests must be monitored at least twice weekly, and more frequently for clinically unstable patients during the induction phase and at least weekly during the consolidation phase.
-Patients with renal impairment
+
+Renal impairment
 Since no data are available across all renal impairment groups, caution is advised in the use of TRISENOX in patients with renal impairment.
 The experience in patients with severe renal impairment is insufficient to determine if dose adjustment is required.
 The use of TRISENOX in patients on dialysis has not been studied.
 
-Patients with hepatic impairment
+Hepatic impairment
 Since no data are available across all hepatic impairment groups and hepatotoxic effects may occur during the treatment with arsenic trioxide caution is advised in the use of TRISENOX in patients with hepatic impairment (see section 4.4 on hepatotoxicity and section 4.8).
 The experience in patients with severe hepatic impairment is insufficient to determine if dose adjustment is required.
-
 Elderly
 There is limited clinical data on the use of TRISENOX in the elderly population.
 Caution is needed in these patients.
@@ -96,3 +97,6 @@ Cases of encephalopathy were reported with treatment with arsenic trioxide.
 Wernicke encephalopathy after arsenic trioxide treatment was reported in patients with vitamin B1 deficiency.
 Patients at risk of B1 deficiency should be closely monitored for signs and symptoms of encephalopathy after arsenic trioxide initiation.
 Some cases recovered with vitamin B1 supplementation.
+
+Excipient with known effect
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ‘sodium-free’.

@@ -1,4 +1,5 @@
 # 3. PHARMACEUTICAL FORM
 
-Concentrate for solution for infusion
-Sterile, clear, colourless, aqueous solution.
+Concentrate for solution for infusion (sterile concentrate).
+
+Clear, colourless, aqueous solution.
