@@ -34,8 +34,9 @@ Melanoma
 The recommended dose is 1 mg/kg nivolumab in combination with 3 mg/kg ipilimumab administered intravenously every 3 weeks for the first 4 doses.
 This is then followed by a second phase in which nivolumab monotherapy is administered intravenously at either 240 mg every 2 weeks or at 480 mg every 4 weeks, as presented in Table 2.
 For the monotherapy phase, the first dose of nivolumab should be administered;
- 3 weeks after the last dose of the combination of nivolumab and ipilimumab if using 240 mg every 2 weeks; or
- 6 weeks after the last dose of the combination of nivolumab and ipilimumab if using 480 mg every 4 weeks.
+
+- 3 weeks after the last dose of the combination of nivolumab and ipilimumab if using 240 mg every 2 weeks; or
+- 6 weeks after the last dose of the combination of nivolumab and ipilimumab if using 480 mg every 4 weeks.
 
 Table 2: Recommended doses and infusion times for intravenous administration of nivolumab in combination with ipilimumab
 
@@ -48,8 +49,9 @@ Renal Cell Carcinoma
 The recommended dose is 3 mg/kg nivolumab in combination with 1 mg/kg ipilimumab administered intravenously every 3 weeks for the first 4 doses.
 This is then followed by a second phase in which nivolumab monotherapy is administered intravenously at either 240 mg every 2 weeks or at 480 mg every 4 weeks, as presented in Table 3.
 For the monotherapy phase, the first dose of nivolumab should be administered;
- 3 weeks after the last dose of the combination of nivolumab and ipilimumab if using 240 mg every 2 weeks; or
- 6 weeks after the last dose of the combination of nivolumab and ipilimumab if using 480 mg every 4 weeks.
+
+- 3 weeks after the last dose of the combination of nivolumab and ipilimumab if using 240 mg every 2 weeks; or
+- 6 weeks after the last dose of the combination of nivolumab and ipilimumab if using 480 mg every 4 weeks.
 
 Table 3: Recommended doses and infusion times for intravenous administration of nivolumab in combination with ipilimumab
 
@@ -70,31 +72,31 @@ Detailed guidelines for the management of immune-related adverse reactions are d
 
 Table 4: Recommended treatment modifications for OPDIVO or OPDIVO in combination with ipilimumab
 
-| Immune-related adverse reaction | Severity |
-| --- | --- |
-| Immune-related pneumonitis | Grade 2 pneumonitis Grade 3 or 4 pneumonitis |
-| Immune-related colitis | Grade 2 diarrhoea or colitis Grade 3 diarrhoea or colitis - OPDIVO monotherapy - OPDIVO+ipilimumaba Grade 4 diarrhoea or colitis |
-| Immune-related hepatitis | Grade 2 elevation in aspartate aminotransferase (AST), alanine aminotransferase (ALT), or total bilirubin Grade 3 or 4 elevation in AST, ALT, or total bilirubin |
-| Immune-related nephritis and renal dysfunction | Grade 2 or 3 creatinine elevation Grade 4 creatinine elevation |
-| Immune-related endocrinopathies | Symptomatic Grade 2 or 3 hypothyroidism, hyperthyroidism, hypophysitis, Grade 2 adrenal insufficiency Grade 3 diabetes Grade 4 hypothyroidism Grade 4 hyperthyroidism Grade 4 hypophysitis Grade 3 or 4 adrenal insufficiency Grade 4 diabetes |
+| Immune-related adverse reaction | Severity | Treatment modification |
+| --- | --- | --- |
+| Immune-related pneumonitis | Grade 2 pneumonitis | Withhold dose(s) until symptoms resolve, radiographic abnormalities improve, and management with corticosteroids is complete |
+|  | Grade 3 or 4 pneumonitis | Permanently discontinue treatment |
+| Immune-related colitis | Grade 2 diarrhoea or colitis | Withhold dose(s) until symptoms resolve and management with corticosteroids, if needed, is complete |
+|  | Grade 3 diarrhoea or colitis - OPDIVO monotherapy | Withhold dose(s) until symptoms resolve and management with corticosteroids is complete |
+|  | - OPDIVO+ipilimumaba | Permanently discontinue treatment |
+|  | Grade 4 diarrhoea or colitis | Permanently discontinue treatment |
+| Immune-related hepatitis | Grade 2 elevation in aspartate aminotransferase (AST), alanine aminotransferase (ALT), or total bilirubin | Withhold dose(s) until laboratory values return to baseline and management with corticosteroids, if needed, is complete |
+|  | Grade 3 or 4 elevation in AST, ALT, or total bilirubin | Permanently discontinue treatment |
+| Immune-related nephritis and renal dysfunction | Grade 2 or 3 creatinine elevation | Withhold dose(s) until creatinine returns to baseline and management with corticosteroids is complete |
+|  | Grade 4 creatinine elevation | Permanently discontinue treatment |
+| Immune-related endocrinopathies | Symptomatic Grade 2 or 3 hypothyroidism, hyperthyroidism, hypophysitis, Grade 2 adrenal insufficiency Grade 3 diabetes | Withhold dose(s) until symptoms resolve and management with corticosteroids (if needed for symptoms of acute inflammation) is complete. Treatment should be continued in the presence of hormone replacement therapyb as long as no symptoms are present |
+|  | Grade 4 hypothyroidism Grade 4 hyperthyroidism Grade 4 hypophysitis Grade 3 or 4 adrenal insufficiency Grade 4 diabetes | Permanently discontinue treatment |
 
-resolve, radiographic abnormalities
-
-resolve and management with corticosteroids, if needed, is complete
-
-resolve and management with corticosteroids is complete
-
-presence of hormone replacement
-
-present
 Table 4: Recommended treatment modifications for OPDIVO or OPDIVO in combination with ipilimumab
 
-| Immune-related adverse reaction | Severity |
-| --- | --- |
-| Immune-related skin adverse reactions | Grade 3 rash Grade 4 rash Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) |
-| Other immune-related adverse reactions | Grade 3 (first occurrence) Grade 3 myocarditis Grade 4 or recurrent Grade 3 ; persistent Grade 2 or 3 despite treatment modification; inability to reduce corticosteroid dose to 10 mg prednisone or equivalent per day |
-
-resolve and management with corticosteroids is complete
+| Immune-related adverse reaction | Severity | Treatment modification |
+| --- | --- | --- |
+| Immune-related skin adverse reactions | Grade 3 rash | Withhold dose(s) until symptoms resolve and management with corticosteroids is complete |
+|  | Grade 4 rash | Permanently discontinue treatment |
+|  | Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) | Permanently discontinue treatment (see section 4.4) |
+| Other immune-related adverse reactions | Grade 3 (first occurrence) | Withhold dose(s) |
+|  | Grade 3 myocarditis | Permanently discontinue treatment |
+|  | Grade 4 or recurrent Grade 3 ; persistent Grade 2 or 3 despite treatment modification; inability to reduce corticosteroid dose to 10 mg prednisone or equivalent per day | Permanently discontinue treatment |
 
 Note: Toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0 (NCI-CTCAE v4).
 a During administration of the second phase of treatment (nivolumab monotherapy) following combination treatment, permanently discontinue treatment if Grade 3 diarrhoea or colitis occurs.
@@ -118,7 +120,7 @@ No data are available.
 
 Elderly
 No dose adjustment is required for elderly patients (≥ 65 years) (see section 5.2).
-Data from NSCLC, SCCHN, adjuvant melanoma and first-line RCC patients 75 years of age or older are too limited to draw conclusions on this population (see sections 4.8 and 5.1).
+Data from SCCHN, adjuvant melanoma and first-line RCC patients 75 years of age or older are too limited to draw conclusions on this population (see sections 4.8 and 5.1).
 
 Renal impairment
 Based on the population pharmacokinetic (PK) results, no dose adjustment is required in patients with mild or moderate renal impairment (see section 5.2).

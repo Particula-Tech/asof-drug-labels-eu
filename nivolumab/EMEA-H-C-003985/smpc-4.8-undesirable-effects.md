@@ -4,12 +4,11 @@ Nivolumab as monotherapy (see section 4.2)
 
 Summary of the safety profile
 
-Nivolumab used as monotherapy or in combination with ipilimumab
 In the pooled dataset of nivolumab 3 mg/kg as monotherapy across tumour types (n = 2578) with minimum follow-up ranging from 2.3 to 28 months, the most frequent adverse reactions (≥ 10%) were fatigue (30%), rash (17%), pruritus (13%), diarrhoea (13%), and nausea (12%).
 The majority of adverse reactions were mild to moderate (Grade 1 or 2).
 With a minimum of 24 months follow-up in NSCLC, no new safety signals were identified.
 
-Nivolumab used as monotherapy for adjuvant treatment of melanoma
+Adjuvant treatment of melanoma
 In the dataset of nivolumab 3 mg/kg as monotherapy for the adjuvant treatment of melanoma
 (n = 452), the most frequent adverse reactions (≥ 10%) were fatigue (46%), rash (29%), diarrhoea (24%), pruritus (23%), nausea (15%), arthralgia (13%), musculoskeletal pain (11%), and hypothyroidism (11%).
 The majority of adverse reactions were mild to moderate (Grade 1 or 2).
@@ -26,6 +25,7 @@ Nivolumab monotherapy
 Infections and infestations
 Common upper respiratory tract infection
 Uncommon pneumoniaa, bronchitis
+Not known aseptic meningitish
 Neoplasms benign, malignant and unspecified (including cysts and polyps)
 Rare histiocytic necrotising lymphadenitis (Kikuchi lymphadenitis)
 Blood and lymphatic system disorders
@@ -34,7 +34,7 @@ Uncommon eosinophilia
 Immune system disorders
 Common infusion related reactionc, hypersensitivityc
 Rare anaphylactic reactionc
-Not known solid organ transplant rejectionh
+Not known solid organ transplant rejectionh, sarcoidosish
 Endocrine disorders
 Common hypothyroidism, hyperthyroidism
 Uncommon adrenal insufficiency, hypopituitarism, hypophysitis, thyroiditis, diabetes mellitus
@@ -88,7 +88,7 @@ Uncommon pain, chest pain
 Investigationsb
 Very common increased AST, increased ALT, increased alkaline phosphatase, increased lipase,
 increased amylase, hypocalcaemia, increased creatinine, hyperglycaemiac,
-lymphopaenia, leucopoenia, thrombocytopaenia, anaemia, hypercalcaemia,
+lymphopaenia, leucopoenia, thrombocytopaenia, anaemiak, hypercalcaemia,
 hyperkalaemia, hypokalaemia, hypomagnesaemia, hyponatraemia
 Common increased total bilirubin, hypoglycaemia, hypermagnesaemia, hypernatraemia,
 weight decreased
@@ -106,6 +106,7 @@ g Musculoskeletal pain is a composite term which includes back pain, bone pain, 
 h Post-marketing event (also see section 4.4).
 i Reported in clinical studies and in the post-marketing setting.
 j Pericardial disorders is a composite term which includes pericarditis, pericardial effusion, cardiac tamponade, and Dressler’s syndrome.
+k Anaemia is a composite term which includes, among other causes, haemolytic anaemia and autoimmune anaemia
 
 The overall safety profile of nivolumab 3 mg/kg for the adjuvant treatment of melanoma (n = 452) was consistent with that established across tumour types for nivolumab monotherapy.
 
@@ -135,6 +136,7 @@ Adverse reactions reported in the pooled dataset for patients treated with nivol
 These reactions are presented by system organ class and by frequency.
 Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from available post-marketing data).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+
 Table 6: Adverse reactions with nivolumab in combination with ipilimumab
 
 |  | Nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg* | Nivolumab 3 mg/kg in combination with ipilimumab 1 mg/kg** |
@@ -142,6 +144,7 @@ Table 6: Adverse reactions with nivolumab in combination with ipilimumab
 | Infections and infestations |  |  |
 | Common | pneumonia, upper respiratory tract infection | pneumonia, upper respiratory tract infection, conjunctivitis |
 | Uncommon | bronchitis | bronchitis, aseptic meningitis |
+| Not known | aseptic meningitish |  |
 | Blood and lymphatic system disorders |  |  |
 | Common | eosinophilia |  |
 | Uncommon |  | eosinophilia |
@@ -199,7 +202,7 @@ Table 6: Adverse reactions with nivolumab in combination with ipilimumab
 | Common | oedema (including peripheral oedema), pain | oedema (including peripheral oedema), pain, chest pain, chills |
 | Uncommon | chest pain |  |
 | Investigationsb |  |  |
-| Very common | increased AST, increased ALT, increased total bilirubin, increased alkaline phosphatase, increased lipase, increased amylase, increased creatinine, hyperglycaemiac, hypoglycaemia, lymphopaenia, leucopoenia, neutropaenia, thrombocytopaenia, anaemia, hypocalcaemia, hyperkalaemia, hypokalaemia, hypomagnesaemia, hyponatraemia | increased AST, increased ALT, increased total bilirubin, increased alkaline phosphatase, increased lipase, increased amylase, increased creatinine, hyperglycaemiac, hypoglycaemia, lymphopaenia, leucopoenia, neutropaeniac, thrombocytopaenia, anaemia, hypercalcaemia, hypocalcaemia, hyperkalaemia, hypokalaemia, hypomagnesaemia, hyponatraemia |
+| Very common | increased AST, increased ALT, increased total bilirubin, increased alkaline phosphatase, increased lipase, increased amylase, increased creatinine, hyperglycaemiac, hypoglycaemia, lymphopaenia, leucopoenia, neutropaenia, thrombocytopaenia, anaemiak, hypocalcaemia, hyperkalaemia, hypokalaemia, hypomagnesaemia, hyponatraemia | increased AST, increased ALT, increased total bilirubin, increased alkaline phosphatase, increased lipase, increased amylase, increased creatinine, hyperglycaemiac, hypoglycaemia, lymphopaenia, leucopoenia, neutropaeniac, thrombocytopaenia, anaemiak, hypercalcaemia, hypocalcaemia, hyperkalaemia, hypokalaemia, hypomagnesaemia, hyponatraemia |
 | Common | hypercalcaemia, hypermagnesaemia, hypernatraemia, weight decreased | hypermagnesaemia, hypernatraemia, weight decreased |
 
 * nivolumab in combination with ipilimumab for the first 4 doses then followed by nivolumab monotherapy in melanoma.
@@ -216,6 +219,7 @@ The frequency is based on the program-wide exposure.
 g Musculoskeletal pain is a composite term which includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity, and spinal pain.
 h Post-marketing event (also see section 4.4) i Reported in clinical studies and in the post-marketing setting.
 j Pericardial disorders is a composite term which includes pericarditis, pericardial effusion, cardiac tamponade, and Dressler’s syndrome.
+k Anaemia is a composite term which includes, among other causes, haemolytic anaemia and autoimmune anaemia.
 
 Description of selected adverse reactions
 Nivolumab or nivolumab in combination with ipilimumab is associated with immune-related adverse reactions.
@@ -425,7 +429,7 @@ Although the clearance of nivolumab was increased by 20% when anti-nivolumab-ant
 Elderly
 No overall differences in safety were reported between elderly (≥ 65 years) and younger patients
 (< 65 years).
-Data from NSCLC, SCCHN, and adjuvant melanoma patients 75 years of age or older are too limited to draw conclusions on this population (see section 5.1).
+Data from SCCHN and adjuvant melanoma patients 75 years of age or older are too limited to draw conclusions on this population (see section 5.1).
 Data from cHL patients 65 years of age or older are too limited to draw conclusions on this population (see section 5.1).
 
 Hepatic or renal impairment

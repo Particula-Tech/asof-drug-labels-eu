@@ -135,10 +135,11 @@ Patients with mild or moderate infusion reaction may receive nivolumab or nivolu
 Disease-specific precautions
 
 Advanced melanoma
-Patients with a baseline performance score ≥ 2, active brain metastases or autoimmune disease, and patients who had been receiving systemic immunosuppressants prior to study entry were excluded from the clinical trials of nivolumab or nivolumab in combination with ipilimumab (see sections 4.5 and 5.1).
-Patients with ocular/uveal melanoma were excluded from clinical trials of melanoma.
+Patients with a baseline performance score ≥ 2, active brain metastases or leptomeningeal metastases, autoimmune disease, and patients who had been receiving systemic immunosuppressants prior to study entry were excluded from the pivotal clinical trials of nivolumab or nivolumab in combination with ipilimumab (see sections 4.5 and 5.1).
+Patients with ocular/uveal melanoma were excluded from pivotal clinical trials of melanoma.
 In addition, CA209037 excluded patients who have had a Grade 4 adverse reaction that was related to anti-CTLA-4 therapy (see section 5.1).
-In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+Patients with baseline performance score of 2, treated leptomeningeal metastases, ocular/uveal melanoma, autoimmune disease and patients who have had a Grade 3-4 adverse reaction that was related to prior anti-CTLA-4 therapy were included in study CA209172 (see section 5.1).
+In the absence of data for patients who had been receiving systemic immunosuppressants prior to study entry, and for patients with active brain or leptomeningeal metastases, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
 Relative to nivolumab monotherapy, an increase in PFS for the combination of nivolumab with ipilimumab is established only in patients with low tumour PD-L1 expression.
 The improvement in OS was similar between nivolumab in combination with ipilimumab and nivolumab monotherapy in patients with high tumour PD-L1 expression (PD-L1 ≥ 1%).
@@ -166,10 +167,11 @@ T cell co-stimulation or checkpoint pathways),
 - subjects under the age of 18 years.
 
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
-Non-Small Cell Lung Cancer
-Patients with a baseline performance score ≥ 2, active brain metastases or autoimmune disease, symptomatic interstitial lung disease, and patients who had been receiving systemic immunosuppressants prior to study entry were excluded from the clinical trials of NSCLC (see sections 4.5 and 5.1).
-In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
+Non-Small Cell Lung Cancer
+Patients with a baseline performance score ≥ 2, active brain metastases or autoimmune disease, symptomatic interstitial lung disease, and patients who had been receiving systemic immunosuppressants prior to study entry were excluded from the pivotal clinical trials of NSCLC (see sections 4.5 and 5.1).
+Patients with baseline performance score of 2 were included in study CA209171 (see section 5.1).
+In the absence of data for patients with autoimmune disease, symptomatic interstitial lung disease, active brain metastases and patients who had been receiving systemic immunosuppressants prior to study entry, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis
 Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with poorer prognostic features and/or aggressive disease.
 In non-squamous NSCLC, a higher number of deaths within 3 months was observed in nivolumab compared to docetaxel.
 Factors associated with early deaths were poorer prognostic factors and/or more aggressive disease combined with low or no tumour PD-L1 expression (see section 5.1).
@@ -197,7 +199,6 @@ In the absence of data, nivolumab should be used with caution in these populatio
 Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with poorer prognostic features and/or aggressive disease.
 In head and neck cancer, a higher number of deaths within 3 months was observed in nivolumab compared to docetaxel.
 Factors associated with early deaths were ECOG performance status, fast progressive disease on prior platinum therapy and high tumour burden.
-
 Urothelial Carcinoma
 Patients with a baseline performance score ≥2, active brain metastases or leptomeningeal metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trials of urothelial carcinoma (see sections 4.5 and 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
