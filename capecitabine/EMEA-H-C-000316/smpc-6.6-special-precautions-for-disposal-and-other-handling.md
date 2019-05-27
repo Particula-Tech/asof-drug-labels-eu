@@ -1,3 +1,3 @@
-# 6.6 Special precautions for disposal
+# 6.6 Special precautions for disposal and other handling
 
-No special requirements.
+Procedures for safe handling of cytotoxic drugs should be followed.

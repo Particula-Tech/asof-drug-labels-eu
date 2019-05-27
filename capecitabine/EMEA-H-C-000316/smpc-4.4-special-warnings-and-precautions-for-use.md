@@ -46,18 +46,9 @@ Diabetes mellitus or electrolyte disturbances.
 Caution must be exercised in patients with diabetes mellitus or electrolyte disturbances, as these may be aggravated during capecitabine treatment.
 
 Coumarin-derivative anticoagulation.
-In an interaction study with single-dose warfarin administration, there was a significant increase in the mean AUC (+57%) of S-warfarin.
+In a interaction study with single-dose warfarin administration, there was a significant increase in the mean AUC (+57%) of S-warfarin.
 These results suggest an interaction, probably due to an inhibition of the cytochrome P450 2C9 isoenzyme system by capecitabine.
 Patients receiving concomitant capecitabine and oral coumarin-derivative anticoagulant therapy should have their anticoagulant response (INR or prothrombin time) monitored closely and the anticoagulant dose adjusted accordingly (see section 4.5).
-
-Brivudine.
-Brivudine must not be administered concomitantly with capecitabine.
-Fatal cases have been reported following this drug interaction.
-There must be at least a 4-week waiting period between end of treatment with brivudine and start of capecitabine therapy.
-Treatment with brivudine can be started 24 hours after the last dose of capecitabine (see section 4.3 and 4.5).
-In the event of accidental administration of brivudine to patients being treated with capecitabine, effective measures should be taken to reduce the toxicity of capecitabine.
-Immediate admission to hospital is recommended.
-All measures should be initiated to prevent systemic infections and dehydration.
 
 Hepatic impairment.
 In the absence of safety and efficacy data in patients with hepatic impairment, Capecitabine use should be carefully monitored in patients with mild to moderate liver dysfunction, regardless of the presence or absence of liver metastasis.
@@ -72,6 +63,7 @@ Dihydropyrimidine dehydrogenase (DPD) deficiency: Rarely, unexpected, severe tox
 Patients with low or absent DPD activity, an enzyme involved in fluorouracil degradation, are at increased risk for severe, life-threatening, or fatal adverse reactions caused by fluorouracil.
 Although DPD deficiency cannot be precisely defined, it is known that patients with certain homozygous or certain compound heterozygous mutations in the DPYD gene locus (e.g. DPYD*2A, c.1679T>G, c.2846A>T and c.1236G>A/HapB3 variants), which can cause complete or near complete absence of DPD enzymatic activity (as determined from laboratory assays), have the highest risk of life-threatening or fatal toxicity and should not be treated with Xeloda (see section 4.3).
 No dose has been proven safe for patients with complete absence of DPD activity.
+
 Patients with certain heterozygous DPYD variants (including DPYD*2A, c.1679T>G, c.2846A>T and c.1236G>A/HapB3 variants) have been shown to have increased risk of severe toxicity when treated with capecitabine.
 
 The frequency of the heterozygous DPYD*2A genotype in the DPYD gene in Caucasian patients is around 1%, 1.1% for c.2846A>T, 2.6-6.3% for c.1236G>A/HapB3 variants and 0.07 to 0.1% for c.1679T>G.
@@ -98,3 +90,6 @@ Toxic Epidermal Necrolysis. Xeloda should be permanently discontinued in patient
 severe skin reaction during treatment.
 
 As this medicinal product contains anhydrous lactose as an excipient, patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+
+Xeloda tablets should not be crushed or cut.
+In case of exposure of either patient or caregiver to crushed or cut Xeloda tablets adverse drug reactions could occur (see Section 4.8)

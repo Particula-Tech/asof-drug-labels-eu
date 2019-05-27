@@ -69,7 +69,7 @@ Patients taking capecitabine should be informed of the need to interrupt treatme
 Doses of capecitabine omitted for toxicity are not replaced.
 The following are the recommended dose modifications for toxicity:
 
-Table 3 Capecitabine dose reduction shedule (3 weekly cycle or continuous treatment)
+Table 3 Capecitabine dose reduction schedule (3 weekly cycle or continuous treatment)
 
 | Toxicity grades* | Dose changes within a treatment cycle | Dose adjustment for next cycle/dose (% of starting dose) |
 | --- | --- | --- |
@@ -138,4 +138,5 @@ Paediatric population
 There is no relevant use of capecitabine in the paediatric population in the indications colon, colorectal, gastric and breast cancer.
 
 Method of administration
-Xeloda tablets should be swallowed with water within 30 minutes after a meal.
+Xeloda tablets should be swallowed whole with water within 30 minutes after a meal.
+Xeloda tablets should not be crushed or cut.

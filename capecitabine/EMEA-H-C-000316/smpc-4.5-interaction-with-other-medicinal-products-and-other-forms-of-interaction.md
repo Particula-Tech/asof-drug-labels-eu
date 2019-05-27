@@ -4,12 +4,6 @@ Interaction studies have only been performed in adults.
 
 Interaction with other medicinal products
 
-Brivudine: a clinically significant interaction between brivudine and fluoropyrimidines (e.g. capecitabine, 5-Fluorouracil, tegafur), resulting from the inhibition of dihydropyrimidine dehydrogenase by brivudine, has been described.
-This interaction, which leads to increased fluoropyrimidine toxicity, is potentially fatal.
-Therefore, brivudine must not be administered concomitantly with capecitabine (see section 4.3 and 4.4).
-There must be at least a 4-week waiting period between end of treatment with brivudine and start of capecitabine therapy.
-Treatment with brivudine can be started 24 hours after the last dose of capecitabine.
-
 Cytochrome P-450 2C9 substrates: Other than warfarin, no formal interaction studies between capecitabine and other CYP2C9 substrates have been conducted.
 Care should be exercised when capecitabine is co-administered with 2C9 substrates (e.g., phenytoin).
 See also interaction with coumarin-derivative anticoagulants below, and section 4.4.
@@ -27,6 +21,11 @@ Folinic acid/folic acid: a combination study with capecitabine and folinic acid 
 However, folinic acid has an effect on the pharmacodynamics of capecitabine and its toxicity may be enhanced by folinic acid: the maximum tolerated dose (MTD) of capecitabine alone using the intermittent regimen is 3000 mg/m2 per day whereas it is only 2000 mg/m2 per day when capecitabine was combined with folinic acid (30 mg orally bid).
 The enhanced toxicity may be relevant when switching from 5- FU/LV to a capecitabine regimen.
 This may also be relevant with folic acid supplementation for folate deficiency due to the similarity between folinic acid and folic acid.
+
+Sorivudine and analogues: a clinically significant interaction between sorivudine and 5-FU, resulting from the inhibition of dihydropyrimidine dehydrogenase by sorivudine, has been described.
+This interaction, which leads to increased fluoropyrimidine toxicity, is potentially fatal.
+Therefore, capecitabine must not be administered concomitantly with sorivudine or its chemically related analogues, such as brivudine (see section 4.3).
+There must be at least a 4-week waiting period between end of treatment with sorivudine or its chemically related analogues such as brivudine and start of capecitabine therapy.
 
 Antacid: the effect of an aluminium hydroxide and magnesium hydroxide-containing antacid on the pharmacokinetics of capecitabine was investigated.
 There was a small increase in plasma concentrations of capecitabine and one metabolite (5’-DFCR); there was no effect on the 3 major metabolites (5’-DFUR, 5-FU and FBAL).

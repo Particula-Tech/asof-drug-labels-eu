@@ -12,8 +12,7 @@ These findings are expected effects of fluoropyrimidine derivatives.
 Capecitabine is contraindicated during pregnancy.
 
 Breast-feeding
-It is not known whether capecitabine is excreted in human breast milk.
-In lactating mice, considerable amounts of capecitabine and its metabolites were found in milk.
+It is not known whether capecitabine is excreted in human breast milk.In lactating mice, considerable amounts of capecitabine and its metabolites were found in milk.
 Breast-feeding should be discontinued while receiving treatment with capecitabine.
 
 Fertility

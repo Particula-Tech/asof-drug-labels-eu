@@ -47,7 +47,6 @@ Gender, presence or absence of liver metastasis at baseline, Karnofsky Performan
 
 Patients with hepatic impairment due to liver metastases: According to a pharmacokinetic study in cancer patients with mild to moderate liver impairment due to liver metastases, the bioavailability of capecitabine and exposure to 5-FU may increase compared to patients with no liver impairment.
 There are no pharmacokinetic data on patients with severe hepatic impairment.
-
 Patients with renal impairment: Based on a pharmacokinetic study in cancer patients with mild to severe renal impairment, there is no evidence for an effect of creatinine clearance on the pharmacokinetics of intact drug and 5-FU.
 Creatinine clearance was found to influence the systemic exposure to 5’-DFUR (35% increase in AUC when creatinine clearance decreases by 50%) and to FBAL (114% increase in AUC when creatinine clearance decreases by 50%).
 FBAL is a metabolite without antiproliferative activity.

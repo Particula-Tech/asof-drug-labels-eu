@@ -97,6 +97,9 @@ In addition to the ADRs described in tables 4 and 5, the following ADRs with an 
 Encephalopathy:
 In addition to the ADRs described in tables 4 and 5, and based on the above pooled analysis from clinical safety data from 7 clinical trials, encephalopathy was also associated with the use of capecitabine monotherapy with an incidence of less than 0.1%.
 
+Exposure to crushed or cut capecitabine tablets:
+In the instance of exposure to crushed or cut capecitabine tablets, the following adverse drug reactions have been reported: eye irritation, eye swelling, skin rash, headache, paresthesia, diarrhea, nausea, gastric irritation, and vomiting.
+
 Special populations
 
 Elderly patients (see section 4.2):
