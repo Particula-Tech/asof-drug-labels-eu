@@ -1,25 +1,27 @@
 # 4.2 Posology and method of administration
 
 Posology
+
 When used as monotherapy or adjunctive therapy, the dose is one drop of AZOPT in the conjunctival sac of the affected eye(s) twice daily.
 Some patients may have a better response with one drop three times a day.
 
 Special populations
-
 Elderly population
 No dose adjustment in elderly patients is necessary.
 
 Hepatic and renal impairment
 AZOPT has not been studied in patients with hepatic impairment and is therefore not recommended in such patients.
 
-AZOPT has not been studied in patients with severe renal impairment (creatinine clearance < 30 ml/min) or in patients with hyperchloraemic acidosis.
+AZOPT has not been studied in patients with severe renal impairment (creatinine clearance
+< 30 ml/min) or in patients with hyperchloraemic acidosis.
 Since brinzolamide and its main metabolite are excreted predominantly by the kidney, AZOPT is therefore contra-indicated in such patients (see also section 4.3).
 Paediatric population
-The safety and efficacy of AZOPT in infants, children and adolescents aged 0 to 17 years has not been established.
+The safety and efficacy of AZOPT in infants, children and adolescents aged 0 to 17 years have not been established.
 Currently available data are described in sections 4.8 and 5.1.
 AZOPT is not recommended for use in infants, children and adolescents.
 
 Method of administration
+
 For ocular use.
 
 Nasolacrimal occlusion or gently closing the eyelid after instillation is recommended.

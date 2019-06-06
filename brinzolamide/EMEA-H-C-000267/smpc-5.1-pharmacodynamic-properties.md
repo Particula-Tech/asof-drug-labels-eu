@@ -1,8 +1,9 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic Group: Antiglaucoma preparations and miotics, carbonic anhydrase inhibitors, ATC code: S01EC04
+Pharmacotherapeutic group: Antiglaucoma preparations and miotics, carbonic anhydrase inhibitors, ATC code: S01EC04
 
 Mechanism of action
+
 Carbonic anhydrase (CA) is an enzyme found in many tissues of the body, including the eye.
 Carbonic anhydrase catalyses the reversible reaction involving the hydration of carbon dioxide and the dehydration of carbonic acid.
 
@@ -11,6 +12,7 @@ The result is a reduction in intraocular pressure (IOP) which is a major risk fa
 Brinzolamide, an inhibitor of carbonic anhydrase II (CA-II), the predominant iso-enzyme in the eye, with an in vitro IC50 of 3.2 nM and a Ki of 0.13 nM against CA-II.
 
 Clinical efficacy and safety
+
 The IOP-reducing effect of AZOPT as adjunctive therapy to the prostaglandin analogue travoprost was studied.
 Following a 4 week run-in with travoprost, patients with an IOP ≥19 mmHg were randomized to receive added treatment with brinzolamide or timolol.
 An additional decrease in mean diurnal IOP of 3.2 to 3.4 mmHg for the brinzolamide group and 3.2 to 4.2 mmHg for the timolol group were observed.

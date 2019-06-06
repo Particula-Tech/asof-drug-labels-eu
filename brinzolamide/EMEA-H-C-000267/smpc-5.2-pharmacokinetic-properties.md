@@ -4,7 +4,8 @@ Following topical ocular administration, brinzolamide is absorbed into the syste
 Due to its high affinity for CA-II, brinzolamide distributes extensively into the red blood cells (RBCs) and exhibits a long half-life in whole blood (mean of approximately 24 weeks).
 In humans, the metabolite N-desethylbrinzolamide is formed, which also binds to CA and accumulates in RBCs.
 This metabolite binds mainly to CA-I in the presence of brinzolamide.
-In plasma, both brinzolamide and N-desethylbrinzolamide concentrations are low and generally below assay quantitation limits (<7.5 ng/ml).
+In plasma, both brinzolamide and N-desethylbrinzolamide concentrations are low and generally below assay quantitation limits
+(<7.5 ng/ml).
 
 Binding to plasma proteins is not extensive (about 60%).
 Brinzolamide is eliminated primarily by renal excretion (approximately 60%).

@@ -1,8 +1,10 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
+
 In clinical studies involving 2732 patients treated with AZOPT as monotherapy or adjunctive therapy to timolol maleate 5 mg/ml, the most frequently reported treatment-related adverse reactions were: dysgeusia (6.0%) (bitter or unusual taste, see description below) and temporary blurred vision (5.4%) upon instillation, lasting from a few seconds to a few minutes (see also section 4.7).
 Tabulated summary of adverse reactions
+
 The following adverse reactions have been reported with brinzolamide 10mg/ml eye drops, suspension and are classified according to the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1000), very rare (<1/10,000), or not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 The adverse reactions were obtained from clinical trials and post-marketing spontaneous reports.
@@ -29,6 +31,7 @@ The adverse reactions were obtained from clinical trials and post-marketing spon
 | Injury, poisoning and procedural complications | Uncommon: foreign body in eye |
 
 Description of selected adverse events
+
 Dysgeusia (bitter or unusual taste in the mouth following instillation) was the most frequently reported systemic adverse reaction associated with the use of AZOPT during clinical studies.
 It is likely caused by passage of the eye drops in the nasopharynx via the nasolacrimal canal.
 Nasolacrimal occlusion or gently closing the eyelid after instillation may help reduce the incidence of this effect (see also section 4.2).
@@ -41,9 +44,13 @@ No unexpected adverse reactions have been observed with AZOPT when used as adjun
 The adverse reactions seen with the adjunctive therapy have been observed with each active substance alone.
 
 Paediatric population
+
 In small short-term clinical trials, approximately 12.5% of paediatric patients were observed to experience adverse reactions, the majority of which were local, non-serious ocular reactions such as conjunctival hyperaemia, eye irritation, eye discharge, and lacrimation increased (see also section 5.1).
 
 Reporting of suspected adverse reactions
+
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
+
+listed in Appendix V.

@@ -1,6 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
 Systemic effects
+
 AZOPT is a sulphonamide inhibitor of carbonic anhydrase and, although administered topically, is absorbed systemically.
 The same types of adverse reactions that are attributable to sulphonamides may occur with topical administration.
 If signs of serious reactions or hypersensitivity occur, discontinue the use of this preparation.
@@ -10,10 +11,11 @@ Use with caution in patients with risk of renal impairment because the possible 
 
 Brinzolamide has not been studied in pre-term infants (less than 36 weeks gestational age) or those less than 1 week of age.
 Patients with significant renal tubular immaturity or abnormalities should only receive brinzolamide after careful consideration of the risk benefit balance because of the possible risk of metabolic acidosis.
+
 Oral carbonic anhydrase inhibitors may impair the ability to perform tasks requiring mental alertness and/or physical coordination.
 AZOPT is absorbed systemically and therefore this may occur with topical administration.
-
 Concomitant therapy
+
 There is a potential for an additive effect on the known systemic effects of carbonic anhydrase inhibition in patients receiving an oral carbonic anhydrase inhibitor and AZOPT.
 The concomitant administration of AZOPT and oral carbonic anhydrase inhibitors has not been studied and is not recommended (see also section 4.5).
 
@@ -40,4 +42,5 @@ Patients must be instructed to remove contact lenses prior to the application of
 Potential rebound effects following cessation of treatment with AZOPT have not been studied; the IOP-lowering effect is expected to last for 5-7 days.
 
 Paediatric population
-The safety and efficacy of AZOPT in infants, children and adolescents aged 0 to 17 years has not been established and its use is not recommended in infants, children or adolescents
+
+The safety and efficacy of AZOPT in infants, children and adolescents aged 0 to 17 years have not been established and its use is not recommended in infants, children or adolescents
