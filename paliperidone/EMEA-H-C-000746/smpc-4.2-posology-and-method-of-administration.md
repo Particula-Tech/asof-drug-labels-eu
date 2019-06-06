@@ -21,7 +21,7 @@ There are no systematically collected data to specifically address switching pat
 Due to different pharmacodynamic and pharmacokinetic profiles among antipsychotic medicinal products, supervision by a clinician is needed when switching to another antipsychotic product is considered medically appropriate.
 
 Elderly
-Dosing recommendations for elderly patients with normal renal function (≥80 ml/min) are the same as for adults with normal renal function.
+Dosing recommendations for elderly patients with normal renal function (≥80 mL/min) are the same as for adults with normal renal function.
 However, because elderly patients may have diminished renal function, dose adjustments may be required according to their renal function status (see Renal impairment below).
 INVEGA should be used with caution in elderly patients with dementia with risk factors for stroke (see section 4.4).
 Safety and efficacy of INVEGA in patients > 65 years of age with schizoaffective disorder have not been studied.
@@ -31,11 +31,11 @@ No dose adjustment is required in patients with mild or moderate hepatic impairm
 As INVEGA has not been studied in patients with severe hepatic impairment, caution is recommended in such patients.
 
 Renal impairment
-For patients with mild renal impairment (creatinine clearance ≥50 to < 80 ml/min), the recommended initial dose is 3 mg once daily.
+For patients with mild renal impairment (creatinine clearance ≥50 to < 80 mL/min), the recommended initial dose is 3 mg once daily.
 The dose may be increased to 6 mg once daily based on clinical response and tolerability.
 
-For patients with moderate to severe renal impairment (creatinine clearance ≥10 to < 50 ml/min), the recommended initial dose of INVEGA is 3 mg every other day, which may be increased to 3 mg once daily after clinical reassessment.
-As INVEGA has not been studied in patients with creatinine clearance below 10 ml/min, use is not recommended in such patients.
+For patients with moderate to severe renal impairment (creatinine clearance ≥10 to < 50 mL/min), the recommended initial dose of INVEGA is 3 mg every other day, which may be increased to 3 mg once daily after clinical reassessment.
+As INVEGA has not been studied in patients with creatinine clearance below 10 mL/min, use is not recommended in such patients.
 
 Paediatric population
 Schizophrenia: The recommended starting dose of INVEGA for the treatment of schizophrenia in adolescents 15 years and older is 3 mg once daily, administered in the morning.

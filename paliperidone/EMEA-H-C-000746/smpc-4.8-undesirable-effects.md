@@ -9,8 +9,8 @@ The ADRs that appeared to be dose-related included headache, sedation/somnolence
 In the schizoaffective disorder studies, a greater proportion of subjects in the total INVEGA dose group who were receiving concomitant therapy with an antidepressant or mood stabiliser experienced adverse events as compared to those subjects treated with INVEGA monotherapy.
 
 Tabulated list of adverse reactions
-The following are all the ADRs that were reported in clinical trials and postmarketing experience with paliperidone by frequency category estimated from INVEGA clinical trials in adults.
-The following terms and frequencies are applied: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1000 to < 1/100), rare (≥1/10,000 to < 1/1000), very rare (< 1/10,000), and not known (cannot be estimated from the available data).
+The following are all the ADRs that were reported in clinical trials and post-marketing experience with paliperidone by frequency category estimated from INVEGA clinical trials in adults.
+The following terms and frequencies are applied: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), and not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 | System Organ Class | Adverse Drug Reaction |  |  |  |  |
@@ -22,7 +22,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Immune system disorders |  |  |  | anaphylactic reaction, hypersensitivity |  |
 | Endocrine disorders |  |  | ha yperprolactinaemia | inappropriate antidiuretic hormone secretionc, glucose urine present |  |
 | Metabolism and nutrition disorders |  | weight increased, increased appetite, weight decreased, decreased appetite | diabetes mellitusd, hyperglycaemia, waist circumference increased, anorexia, blood triglycerides increased | water intoxication, diabetic ketoacidosisc, hypoglycaemia, polydipsia, blood cholesterol increased | hyperinsulinaemi a |
-| Psychiatric disorders | insomniae | mania, agitation, depression, anxiety | sleep disorder, confusional state, libido decreased, anorgasmia, nervousness, nightmare | blunted affectc |  |
+| Psychiatric disorders | insomniae | mania, agitation, depression, anxiety | sleep disorder, confusional state, libido decreased, anorgasmia, nervousness, nightmare | catatonia, somnambulism, blunted affectc |  |
 | Nervous system disorders | parkinsonismb , akathisiab, sedation/ somnolence, headache | dystoniab, dizziness, dyskinesiab, tremorb | tardive dyskinesia, convulsione, syncope, psychomotor hyperactivity, dizziness postural, disturbance in attention, dysarthria, dysgeusia, hypoaesthesia, paresthaesia | neuroleptic malignant syndrome, cerebral ischaemia, unresponsive to stimulic, loss of consciousness, depressed level of consciousnessc, diabetic comac balance disorder, coordination abnormal, head titubationc |  |
 | Eye disorders |  | vision blurred | photophobia, conjunctivitis, dry eye | glaucoma, eye movement disorderc, eye rollingc, lacrimation increased, ocular hyperaemia |  |
 | Ear and labyrinth disorders |  |  | vertigo, tinnitus, ear pain |  |  |
@@ -30,9 +30,18 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Vascular disorders |  | orthostatic hypotension, hypertension | hypotension | pulmonary embolism, venous thrombosis, ischaemia, flushing |  |
 | Respiratory, thoracic and mediastinal disorders |  | pharyngolarynge al pain, cough, nasal congestion | dyspnoea, wheezing, epistaxis | sleep apnoea syndrome, hyperventilation, pneumonia aspiration, respiratory tract congestion, dysphonia | pulmonary congestion |
 | Gastrointestin al disorders |  | abdominal pain, abdominal discomfort, vomiting, nausea, constipation, diarrhoea, dyspepsia, dry mouth, toothache | swollen tongue, gastroenteritis, dysphagia, flatulence | pancreatitisc, intestinal obstruction, ileus, faecal incontinence, faecalomac, cheilitis |  |
-| Hepatobiliary disorders |  | transaminases increased | gamma-glutamyltran sferase increased, hepatic enzyme increased | jaundice |  |
-| Skin and subcutaneous tissue disorders |  | pruritus, rash | urticaria, alopecia, eczema, acne | angioedema, drug eruptionc, hyperkeratosis, dry skin, erythema, skin discolouration, seborrhoeic dermatitis, dandruff |  |
 
+Hepatobiliary transaminases gamma-glutamyltran jaundice
+disorders increased sferase increased,
+hepatic enzyme
+increased
+Skin and pruritus, rash urticaria, alopecia, angioedema, drug
+subcutaneous eczema, acne eruptionc,
+tissue hyperkeratosis, dry
+disorders skin, erythema, skin
+discolouration,
+seborrhoeic
+dermatitis, dandruff
 Musculoskelet musculoskeletal blood creatine rhabdomyolysisc,
 al and pain, back pain, phosphokinase posture abnormalc
 connective arthralgia increased, muscle
@@ -75,10 +84,10 @@ Menstrual disorder includes: menstruation irregular, oligomenorrhoea
 Undesirable effects noted with risperidone formulations
 Paliperidone is the active metabolite of risperidone, therefore, the adverse reaction profiles of these compounds (including both the oral and injectable formulations) are relevant to one another.
 In addition to the above adverse reactions, the following adverse reactions have been noted with the use of risperdone products and can be expected to occur with INVEGA.
+Psychiatric disorders: sleep-related eating disorder
 Nervous system disorders: cerebrovascular disorder
 Eye disorders: floppy iris syndrome (intraoperative)
 Respiratory, thoracic and mediastinal disorders: rales
-
 Description of selected adverse reactions
 Extrapyramidal symptoms (EPS)
 In schizophrenia clinical trials, there was no difference observed between placebo and the 3 and 6 mg doses of INVEGA.
@@ -97,7 +106,7 @@ In the study that examined two dose groups (see section 5.1), the increase in bo
 Hyperprolactinaemia
 In schizophrenia clinical trials, increases in serum prolactin were observed with INVEGA in 67% of subjects.
 Adverse reactions that may suggest increase in prolactin levels (e.g., amenorrhoea, galactorrhoea, menstrual disturbances, gynaecomastia) were reported overall in 2% of subjects.
-Maximum mean increases of serum prolactin concentrations were generally observed on Day 15 of treatment, but remained above baseline levels at study endpoint.
+Maximum mean increases of serum prolactin concentrations were generally observed on day 15 of treatment, but remained above baseline levels at study endpoint.
 
 Class effects
 QT prolongation, ventricular arrythmias (ventricular fibrillation, ventricular tachycardia), sudden unexplained death, cardiac arrest and Torsade de pointes may occur with antipsychotics.
@@ -120,6 +129,7 @@ In the pooled adolescent schizophrenia population (12 years and older, N = 545) 
 Extrapyramidal Symptoms (EPS)
 In the short-term, placebo-controlled, fixed-dose adolescent study, the incidence of EPS was higher than placebo for all doses of INVEGA with an increased frequency of EPS at higher doses.
 Across all adolescent studies, EPS was more common in adolescents than in adults for each INVEGA dose.
+
 Weight gain
 In the short-term, placebo-controlled, fixed-dose adolescent study, a higher percentage of INVEGA-treated subjects (6-19% depending on dose) had an increase in body weight of ≥7% compared to placebo-treated subjects (2%).
 There was no clear dose relationship.

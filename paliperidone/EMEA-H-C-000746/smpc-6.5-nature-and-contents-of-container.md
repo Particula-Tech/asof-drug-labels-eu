@@ -17,7 +17,7 @@ Pack sizes of 14, 28, 30, 49, 56, and 98 prolonged-release tablets.
 
 Or
 
-Oriented polyamide (OPA)-aluminium-polyvinyl chloride (PVC)/aluminium push-through layer.
+Oriented polyamide (OPA)-aluminium-polyvinyl chloride (PVC)/aluminium push-through child-resistant blister.
 Pack sizes of 14, 28, 49, 56, and 98 prolonged-release tablets.
 
 Not all pack sizes may be marketed.

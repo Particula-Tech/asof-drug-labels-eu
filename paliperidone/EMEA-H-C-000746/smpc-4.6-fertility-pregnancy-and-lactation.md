@@ -9,7 +9,6 @@ There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence,
 Consequently, newborns should be monitored carefully.
 INVEGA should not be used during pregnancy unless clearly necessary.
 If discontinuation during pregnancy is necessary, it should not be done abruptly.
-
 Breast-feeding
 Paliperidone is excreted in the breast milk to such an extent that effects on the breast-fed infant are likely if therapeutic doses are administered to breast-feeding women.
 INVEGA should not be used while breast feeding.

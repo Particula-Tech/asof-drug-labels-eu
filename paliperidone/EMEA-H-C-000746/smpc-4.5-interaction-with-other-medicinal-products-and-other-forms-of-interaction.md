@@ -17,9 +17,8 @@ Caution is advised if paliperidone is combined with other medicines known to low
 
 No interaction study between INVEGA and lithium has been performed, however, a pharmacokinetic interaction is unlikely to occur.
 
-Co-administration of INVEGA 12 mg once daily with divalproex sodium prolonged-release tablets (500 mg to 2000 mg once daily) did not affect the steady-state pharmacokinetics of valproate.
+Co-administration of INVEGA 12 mg once daily with divalproex sodium prolonged-release tablets (500 mg to 2,000 mg once daily) did not affect the steady-state pharmacokinetics of valproate.
 Co-administration of INVEGA with divalproex sodium prolonged-release tablets increased the exposure to paliperidone (see below).
-
 Potential for other medicines to affect INVEGA
 In vitro studies indicate that CYP2D6 and CYP3A4 may be minimally involved in paliperidone metabolism, but there are no indications in vitro nor in vivo that these isozymes play a significant role in the metabolism of paliperidone.
 Concomitant administration of INVEGA with paroxetine, a potent CYP2D6 inhibitor, showed no clinically significant effect on the pharmacokinetics of paliperidone.
@@ -32,7 +31,7 @@ Larger decreases in plasma concentrations of paliperidone could occur with highe
 On initiation of carbamazepine, the dose of INVEGA should be re-evaluated and increased if necessary.
 Conversely, on discontinuation of carbamazepine, the dose of INVEGA should be re-evaluated and decreased if necessary.
 It takes 2-3 weeks for full induction to be achieved and upon discontinuation of the inducer the effect wears off over a similar time period.
-Other medicinal products or herbals which are inducers, e.g. rifampicin and St John´s wort (Hypericum perforatum) may have similar effects on paliperidone.
+Other medicinal products or herbals which are inducers, e.g., rifampicin and St John´s wort (Hypericum perforatum) may have similar effects on paliperidone.
 
 Medicinal products affecting gastrointestinal transit time may affect the absorption of paliperidone, e.g., metoclopramide.
 
@@ -41,6 +40,9 @@ Dosage reduction for INVEGA should be considered when INVEGA is co-administered 
 
 Concomitant use of INVEGA with risperidone
 Concomitant use of INVEGA with oral risperidone is not recommended as paliperidone is the active metabolite of risperidone and the combination of the two may lead to additive paliperidone exposure.
+
+Concomitant use of INVEGA with psychostimulants
+The combined use of psychostimulants (e.g., methylphenidate) with paliperidone can lead to extrapyramidal symptoms upon change of either or both treatments (see section 4.4).
 
 Paediatric population
 Interaction studies have only been performed in adults.

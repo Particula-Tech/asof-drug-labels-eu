@@ -10,16 +10,19 @@ Neuroleptic Malignant Syndrome (NMS), characterised by hyperthermia, muscle rigi
 Additional clinical signs may include myoglobinuria (rhabdomyolysis) and acute renal failure.
 If a patient develops signs or symptoms indicative of NMS, all antipsychotics, including INVEGA, should be discontinued.
 
-Tardive dyskinesia
+Tardive dyskinesia/extrapyramidal symptoms
 Medicines with dopamine receptor antagonistic properties have been associated with the induction of tardive dyskinesia characterised by rhythmical, involuntary movements, predominantly of the tongue and/or face.
 If signs and symptoms of tardive dyskinesia appear, the discontinuation of all antipsychotics, including INVEGA, should be considered.
 
-Leukopenia, neutropenia, and agranulocytosis
+Caution is warranted in patients receiving both, psychostimulants (e.g., methylphenidate) and paliperidone concomitantly, as extrapyramidal symptoms could emerge when adjusting one or both medications.
+Gradual withdrawal of stimulant treatment is recommended (see section 4.5).
+
+Leucopenia, neutropenia, and agranulocytosis
 Events of leucopenia, neutropenia, and agranulocytosis have been reported with antipsychotic agents, including INVEGA.
 Agranulocytosis has been reported very rarely (< 1/10,000 patients) during post-marketing surveillance.
-Patients with a history of a clinically significant low white blood cell count (WBC) or a drug-induced leukopenia/neutropenia should be monitored during the first few months of therapy and discontinuation of INVEGA should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
+Patients with a history of a clinically significant low white blood cell count (WBC) or a drug-induced leucopenia/neutropenia should be monitored during the first few months of therapy and discontinuation of INVEGA should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count < 1 X 109/L) should discontinue INVEGA and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count < 1 x 109/L) should discontinue INVEGA and have their WBC followed until recovery.
 
 Hyperglycemia and diabetes mellitus
 Hyperglycaemia, diabetes mellitus, and exacerbation of pre-existing diabetes have been reported during treatment with paliperidone.
@@ -27,6 +30,7 @@ In some cases, a prior increase in body weight has been reported which may be a 
 Association with ketoacidosis has been reported very rarely and rarely with diabetic coma.
 Appropriate clinical monitoring is advisable in accordance with utilised antipsychotic guidelines.
 Patients treated with any atypical antipsychotic, including INVEGA, should be monitored for symptoms of hyperglycaemia (such as polydipsia, polyuria, polyphagia, and weakness) and patients with diabetes mellitus should be monitored regularly for worsening of glucose control.
+
 Weight gain
 Significant weight gain has been reported with INVEGA use.
 Weight should be monitored regularly.
@@ -54,8 +58,8 @@ Conditions leading to shorter gastrointestinal transit time, e.g., diseases asso
 
 Renal impairment
 The plasma concentrations of paliperidone are increased in patients with renal impairment and, therefore, dosage adjustment may be required in some patients (see sections 4.2 and 5.2).
-No data are available in patients with a creatinine clearance below 10 ml/min.
-Paliperidone should not be used in patients with creatinine clearance below 10 ml/min.
+No data are available in patients with a creatinine clearance below 10 mL/min.
+Paliperidone should not be used in patients with creatinine clearance below 10 mL/min.
 
 Hepatic impairment
 No data are available in patients with severe hepatic impairment (Child-Pugh class C). Caution is recommended if paliperidone is used in such patients.
@@ -67,6 +71,7 @@ The experience from risperidone is considered valid also for paliperidone.
 Overall mortality
 In a meta-analysis of 17 controlled clinical trials, elderly patients with dementia treated with other atypical antipsychotics, including risperidone, aripiprazole, olanzapine, and quetiapine had an increased risk of mortality compared to placebo.
 Among those treated with risperidone, the mortality was 4% compared with 3.1% for placebo.
+
 Cerebrovascular adverse reactions
 An approximately 3-fold increased risk of cerebrovascular adverse reactions have been seen in randomised placebo-controlled clinical trials in the dementia population with some atypical antipsychotics, including risperidone, aripiprazole, and olanzapine.
 The mechanism for this increased risk is not known.
@@ -78,7 +83,7 @@ Manifestation of this increased sensitivity can include confusion, obtundation, 
 
 Priapism
 Antipsychotic medicinal products (including risperidone) with α-adrenergic blocking effects have been reported to induce priapism.
-During postmarketing surveillance priapism has also been reported with paliperidone, which is the active metabolite of risperidone.
+During post-marketing surveillance priapism has also been reported with paliperidone, which is the active metabolite of risperidone.
 Patients should be informed to seek urgent medical care in case that priapism has not been resolved within 3-4 hours.
 
 Body temperature regulation
@@ -102,12 +107,16 @@ Because of the potential effects of prolonged hyperprolactinemia on growth and s
 During treatment with INVEGA regular examination for extrapyramidal symptoms and other movement disorders should also be conducted.
 
 For specific posology recommendations in the paediatric population see section 4.2.
-
 Intraoperative Floppy Iris Syndrome
-Intraoperative floppy iris syndrome (IFIS) has been observed during cataract surgery in patients treated with medicines with alpha1a-adrenergic antagonist effect, such as INVEGA (see section 4.8).
-IFIS may increase the risk of eye complications during and after the operation.
-Current or past use of medicines with alpha1a-adrenergic antagonist effect should be made known to the ophthalmic surgeon in advance of surgery.
-The potential benefit of stopping alpha1 blocking therapy prior to cataract surgery has not been established and must be weighed against the risk of stopping the antipsychotic therapy.
+Intraoperative floppy iris syndrome (IFIS) has been observed during cataract surgery in patients treated with medicines with alpha 1a-adrenergic antagonist effect, such as INVEGA (see section 4.8).
 
+IFIS may increase the risk of eye complications during and after the operation.
+Current or past use of medicines with alpha 1a-adrenergic antagonist effect should be made known to the ophthalmic surgeon in advance of surgery.
+The potential benefit of stopping alpha 1 blocking therapy prior to cataract surgery has not been established and must be weighed against the risk of stopping the antipsychotic therapy.
+
+Excipients
 Lactose content (pertains only to the 3 mg tablets)
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+
+Sodium content
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, i.e., essentially sodium-free.

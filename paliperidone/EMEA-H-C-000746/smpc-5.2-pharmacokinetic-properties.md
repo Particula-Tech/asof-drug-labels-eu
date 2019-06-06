@@ -1,6 +1,7 @@
 # 5.2 Pharmacokinetic properties
 
 The pharmacokinetics of paliperidone following INVEGA administration are dose proportional within the available dose range.
+
 Absorption
 Following a single dose, INVEGA exhibits a gradual ascending release rate, allowing the plasma concentrations of paliperidone to steadily rise to reach peak plasma concentration (Cmax) approximately 24 hours after dosing.
 With once-daily dosing of INVEGA, steady-state concentrations of paliperidone are attained within 4-5 days of dosing in most subjects.
@@ -14,7 +15,7 @@ Administration of paliperidone prolonged-release tablets with a standard high-fa
 
 Distribution
 Paliperidone is rapidly distributed.
-The apparent volume of distribution is 487 l. The plasma protein binding of paliperidone is 74%.
+The apparent volume of distribution is 487 L. The plasma protein binding of paliperidone is 74%.
 It binds primarily to α1-acid glycoprotein and albumin.
 
 Biotransformation and elimination
@@ -28,7 +29,6 @@ The terminal elimination half-life of paliperidone is about 23 hours.
 
 In vitro studies have shown that paliperidone is a P-gp substrate and a weak inhibitor of P-gp at high concentrations.
 No in vivo data are available and the clinical relevance is unknown.
-
 Hepatic impairment
 Paliperidone is not extensively metabolised in the liver.
 In a study in subjects with moderate hepatic impairment (Child-Pugh class B), the plasma concentrations of free paliperidone were similar to those of healthy subjects.
@@ -36,9 +36,10 @@ No data are available in patients with severe hepatic impairment (Child-Pugh cla
 
 Renal impairment
 Elimination of paliperidone decreased with decreasing renal function.
-Total clearance of paliperidone was reduced in subjects with impaired renal function by 32% in mild (Creatinine Clearance [Cr Cl] = 50 to < 80 ml/min), 64% in moderate (CrCl = 30 to < 50 ml/min), and 71% in severe (CrCl =
-< 30 ml/min) renal impairment.
-The mean terminal elimination half-life of paliperidone was 24, 40, and 51 hours in subjects with mild, moderate, and severe renal impairment, respectively, compared with 23 hours in subjects with normal renal function (CrCl ≥80 ml/min).
+Total clearance of paliperidone was reduced in subjects with impaired renal function by 32% in mild (Creatinine Clearance
+[CrCl] = 50 to < 80 mL/min), 64% in moderate (CrCl = 30 to < 50 mL/min), and 71% in severe
+(CrCl = < 30 mL/min) renal impairment.
+The mean terminal elimination half-life of paliperidone was 24, 40, and 51 hours in subjects with mild, moderate, and severe renal impairment, respectively, compared with 23 hours in subjects with normal renal function (CrCl ≥80 mL/min).
 
 Elderly
 Data from a pharmacokinetic study in elderly subjects (≥65 years of age, n = 26) indicated that the apparent steady-state clearance of paliperidone following INVEGA administration was 20% lower compared to that of adult subjects (18-45 years of age, n = 28).
