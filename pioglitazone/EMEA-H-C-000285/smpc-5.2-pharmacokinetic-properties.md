@@ -11,7 +11,8 @@ Absolute bioavailability is greater than 80%.
 
 Distribution
 
-The estimated volume of distribution in humans is 0.25 l/kg.
+The estimated volume of distribution in humans is 0.25 L/kg.
+
 Pioglitazone and all active metabolites are extensively bound to plasma protein (> 99%).
 
 Biotransformation
@@ -27,7 +28,6 @@ There is no induction of the main inducible P450 isoenzymes 1A, 2C8/9, and 3A4 i
 
 Interaction studies have shown that pioglitazone has no relevant effect on either the pharmacokinetics or pharmacodynamics of digoxin, warfarin, phenprocoumon and metformin.
 Concomitant administration of pioglitazone with gemfibrozil (an inhibitor of cytochrome P450 2C8) or with rifampicin (an inducer of cytochrome P450 2C8) is reported to increase or decrease, respectively, the plasma concentration of pioglitazone (see section 4.5).
-
 Elimination
 
 Following oral administration of radiolabelled pioglitazone to man, recovered label was mainly in faeces (55%) and a lesser amount in urine (45%).

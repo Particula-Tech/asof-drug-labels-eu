@@ -13,7 +13,7 @@ Pioglitazone should be discontinued if any deterioration in cardiac status occur
 
 A cardiovascular outcome study of pioglitazone has been performed in patients under 75 years with type 2 diabetes mellitus and pre-existing major macrovascular disease.
 Pioglitazone or placebo was added to existing antidiabetic and cardiovascular therapy for up to 3.5 years.
-This study showed an increase in reports of heart failure, however this did not lead to an increase in mortality in this study.
+This study showed an increase in reports of heart failure; however this did not lead to an increase in mortality in this study.
 
 Elderly
 
@@ -22,7 +22,8 @@ Combination use with insulin should be considered with caution in the elderly be
 In light of age- related risks (especially bladder cancer, fractures and heart failure), the balance of benefits and risks should be considered carefully both before and during treatment in the elderly.
 
 Bladder cancer
-Cases of bladder cancer were reported more frequently in a meta-analysis of controlled clinical trials with pioglitazone (19 cases from 12506 patients, 0.15%) than in control groups (7 cases from 10212 patients, 0.07%) HR=2.64 (95% CI 1.11-6.31, P=0.029).
+
+Cases of bladder cancer were reported more frequently in a meta-analysis of controlled clinical trials with pioglitazone (19 cases from 12,506 patients, 0.15%) than in control groups (7 cases from 10,212 patients, 0.07%) HR=2.64 (95% CI 1.11-6.31, p=0.029).
 After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were 7 cases (0.06%) on pioglitazone and 2 cases (0.02%) in control groups.
 Epidemiological studies have also suggested a small increased risk of bladder cancer in diabetic patients treated with pioglitazone, although not all studies identified a statistically significant increased risk.
 Risk factors for bladder cancer should be assessed before initiating pioglitazone treatment (risks include age, smoking history, exposure to some occupational or chemotherapy agents e.g. cyclophosphamide or prior radiation treatment in the pelvic region).
@@ -35,11 +36,11 @@ Monitoring of liver function
 There have been rare reports of hepatocellular dysfunction during post-marketing experience (see section 4.8).
 It is recommended, therefore, that patients treated with pioglitazone undergo periodic monitoring of liver enzymes.
 Liver enzymes should be checked prior to the initiation of therapy with pioglitazone in all patients.
-Therapy with pioglitazone should not be initiated in patients with increased baseline liver enzyme levels (ALT > 2.5 X upper limit of normal) or with any other evidence of liver disease.
+Therapy with pioglitazone should not be initiated in patients with increased baseline liver enzyme levels (ALT > 2.5 x upper limit of normal) or with any other evidence of liver disease.
 
 Following initiation of therapy with pioglitazone, it is recommended that liver enzymes be monitored periodically based on clinical judgement.
-If ALT levels are increased to 3 X upper limit of normal during pioglitazone therapy, liver enzyme levels should be reassessed as soon as possible.
-If ALT levels remain > 3 X the upper limit of normal, therapy should be discontinued.
+If ALT levels are increased to 3 x upper limit of normal during pioglitazone therapy, liver enzyme levels should be reassessed as soon as possible.
+If ALT levels remain > 3 x the upper limit of normal, therapy should be discontinued.
 If any patient develops symptoms suggesting hepatic dysfunction, which may include unexplained nausea, vomiting, abdominal pain, fatigue, anorexia and/or dark urine, liver enzymes should be checked.
 The decision whether to continue the patient on therapy with pioglitazone should be guided by clinical judgement pending laboratory evaluations.
 If jaundice is observed, the medicinal product should be discontinued.
@@ -47,7 +48,7 @@ If jaundice is observed, the medicinal product should be discontinued.
 Weight gain
 
 In clinical trials with pioglitazone there was evidence of dose related weight gain, which may be due to fat accumulation and in some cases associated with fluid retention.
-In some cases weight increase may be a symptom of cardiac failure, therefore weight should be closely monitored.
+In some cases weight increase may be a symptom of cardiac failure; therefore weight should be closely monitored.
 Part of the treatment of diabetes is dietary control.
 Patients should be advised to adhere strictly to a calorie-controlled diet.
 
@@ -59,12 +60,12 @@ Similar changes were seen in metformin (haemoglobin 3-4% and haematocrit 3.6–4
 Hypoglycaemia
 
 As a consequence of increased insulin sensitivity, patients receiving pioglitazone in dual or triple oral therapy with a sulphonylurea or in dual therapy with insulin may be at risk for dose-related hypoglycaemia, and a reduction in the dose of the sulphonylurea or insulin may be necessary.
+
 Eye disorders
 
 Post-marketing reports of new-onset or worsening diabetic macular oedema with decreased visual acuity have been reported with thiazolidinediones, including pioglitazone.
 Many of these patients reported concurrent peripheral oedema.
 It is unclear whether or not there is a direct association between pioglitazone and macular oedema but prescribers should be alert to the possibility of macular oedema if patients report disturbances in visual acuity; an appropriate ophthalmological referral should be considered.
-
 Others
 
 An increased incidence in bone fractures in women was seen in a pooled analysis of adverse reactions of bone fracture from randomised, controlled, double blind clinical trials in over 8100 pioglitazone and 7400 comparator treated patients, on treatment for up to 3.5 years.
@@ -90,4 +91,4 @@ Pioglitazone should be used with caution during concomitant administration of cy
 Glycaemic control should be monitored closely.
 Pioglitazone dose adjustment within the recommended posology or changes in diabetic treatment should be considered (see section 4.5).
 
-Actos tablets contain lactose monohydrate and therefore should not be administered to patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption.
+Actos tablets contain lactose monohydrate and therefore should not be administered to patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption.

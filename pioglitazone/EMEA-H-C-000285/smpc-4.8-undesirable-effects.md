@@ -3,19 +3,24 @@
 Tabulated list of adverse reactions
 
 Adverse reactions reported in excess (> 0.5%) of placebo and as more than an isolated case in patients receiving pioglitazone in double-blind studies are listed below as MedDRA preferred term by system organ class and absolute frequency.
-Frequencies are defined as: very common (≥1/10); common
-(≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to< 1/1,000); very rare
+Frequencies are defined as: very common (≥ 1/10); common
+(≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to< 1/1,000); very rare
 (< 1/10,000); not known (cannot be estimated from the available data).
 Within each system organ class, adverse reactions are presented in order of decreasing incidence followed by decreasing seriousness.
+
+| Adverse reaction | Frequency of adverse reactions of pioglitazone by treatment regimen |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Mono-therapy | Combination |  |  |  |
+|  |  | with metformin | with sulpho-nylurea | with metformin and sulpho-nylurea | with insulin |
+| Infections and infestations |  |  |  |  |  |
+| upper respiratory tract infection | common | common | common | common | common |
+| bronchitis |  |  |  |  | common |
+| sinusitis | uncommon | uncommon | uncommon | uncommon | uncommon |
 
 | Adverse reaction | Frequency of adverse reactions of pioglitazone by treatment regimen |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Mono-therapy | Combination |  |  |  |  |
 |  |  | with metformin | with sulpho-nylurea |  | with metformin and sulpho-nylurea | with insulin |
-| Infections and infestations |  |  |  |  |  |  |
-| upper respiratory tract infection | common | common | common |  | common | common |
-| bronchitis |  |  |  |  |  | common |
-| sinusitis | uncommon | uncommon | uncommon |  | uncommon | uncommon |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  |  |  |  |
 | bladder cancer | uncommon | uncommon |  | uncommon | uncommon | uncommon |
 | Blood and lymphatic system disorders |  |  |  |  |  |  |
@@ -36,18 +41,18 @@ Within each system organ class, adverse reactions are presented in order of decr
 | Ear and labyrinth disorders |  |  |  |  |  |  |
 | vertigo |  |  | uncommon |  |  |  |
 | Cardiac disorders |  |  |  |  |  |  |
+| heart failure3 |  |  |  |  |  | common |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |
+| dyspnoea |  |  |  |  |  | common |
+| Gastrointestinal disorders |  |  |  |  |  |  |
+| flatulence |  | uncommon | common |  |  |  |
+| Skin and subcutaneous tissue disorders |  |  |  |  |  |  |
+| sweating |  |  | uncommon |  |  |  |
 
 | Adverse reaction | Frequency of adverse reactions of pioglitazone by treatment regimen |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Mono-therapy | Combination |  |  |  |
 |  |  | with metformin | with sulpho-nylurea | with metformin and sulpho-nylurea | with insulin |
-| heart failure3 |  |  |  |  | common |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |
-| dyspnoea |  |  |  |  | common |
-| Gastrointestinal disorders |  |  |  |  |  |
-| flatulence |  | uncommon | common |  |  |
-| Skin and subcutaneous tissue disorders |  |  |  |  |  |
-| sweating |  |  | uncommon |  |  |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |  |
 | fracture bone4 | common | common | common | common | common |
 | arthralgia |  | common |  | common | common |
@@ -65,26 +70,23 @@ Within each system organ class, adverse reactions are presented in order of decr
 | weight increased6 | common | common | common | common | common |
 | blood creatine phospho-kinase increased |  |  |  | common |  |
 | increased lactic dehydro-genase |  |  | uncommon |  |  |
-| alanine aminotransferase | not known | not known | not known | not known | not known |
-|  | Mono-therapy | Combination |  |  |  |
-|  |  | with metformin | with sulpho-nylurea | with metformin and sulpho-nylurea | with insulin |
-| increased7 |  |  |  |  |  |
+| alanine aminotransferase increased7 | not known | not known | not known | not known | not known |
 
 Description of selected adverse reactions
 
 1 Postmarketing reports of hypersensitivity reactions in patients treated with pioglitazone have been reported.
 These reactions include anaphylaxis, angioedema, and urticaria.
 
-2Visual disturbance has been reported mainly early in treatment and is related to changes in blood glucose due to temporary alteration in the turgidity and refractive index of the lens as seen with other hypoglycaemic treatments.
+2 Visual disturbance has been reported mainly early in treatment and is related to changes in blood glucose due to temporary alteration in the turgidity and refractive index of the lens as seen with other hypoglycaemic treatments.
 
 3 In controlled clinical trials the incidence of reports of heart failure with pioglitazone treatment was the same as in placebo, metformin and sulphonylurea treatment groups, but was increased when used in combination therapy with insulin.
 In an outcome study of patients with pre-existing major macrovascular disease, the incidence of serious heart failure was 1.6% higher with pioglitazone than with placebo, when added to therapy that included insulin.
 However, this did not lead to an increase in mortality in this study.
-In this study in patients receiving pioglitazone and insulin, a higher percentage of patients with heart failure was observed in patients aged ≥65 years compared with those less than 65 years (9.7% compared to 4.0%).
-In patients on insulin with no pioglitazone the incidence of heart failure was 8.2% in those ≥65 years compared to 4.0% in patients less than 65 years.
-Heart failure has been reported with marketing use of pioglitazone, and more frequently when pioglitazone was used in combination with insulin or in patients with a history of cardiac failure.
+In this study in patients receiving pioglitazone and insulin, a higher percentage of patients with heart failure was observed in patients aged ≥ 65 years compared with those less than 65 years (9.7% compared to 4.0%).
+In patients on insulin with no pioglitazone the incidence of heart failure was 8.2% in those ≥ 65 years compared to 4.0% in patients less than 65 years.
+Heart failure has been reported with marketing use of pioglitazone, and more frequently when pioglitazone was used in combination with insulin or in patients with a history of cardiac failure (see section 4.4).
 
-4A pooled analysis was conducted of adverse reactions of bone fractures from randomised, comparator controlled, double blind clinical trials in over 8100 patients in the pioglitazone-treated groups and 7400 in the comparator-treated groups of up to 3.5 years duration.
+4 A pooled analysis was conducted of adverse reactions of bone fractures from randomised, comparator controlled, double blind clinical trials in over 8,100 patients in the pioglitazone-treated groups and 7,400 in the comparator-treated groups of up to 3.5 years duration.
 A higher rate of fractures was observed in women taking pioglitazone (2.6%) versus comparator (1.7%).
 No increase in fracture rates was observed in men treated with pioglitazone (1.3%) versus comparator (1.5%).
 In the 3.5 year PROactive study, 44/870 (5.1%) of pioglitazone-treated female patients experienced fractures compared to 23/905 (2.5%) of female patients treated with comparator.
