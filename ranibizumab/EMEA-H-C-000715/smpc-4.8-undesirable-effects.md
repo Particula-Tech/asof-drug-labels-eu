@@ -5,7 +5,6 @@ Summary of the safety profile
 The majority of adverse reactions reported following administration of Lucentis are related to the intravitreal injection procedure.
 
 The most frequently reported ocular adverse reactions following injection of Lucentis are: eye pain, ocular hyperaemia, increased intraocular pressure, vitritis, vitreous detachment, retinal haemorrhage, visual disturbance, vitreous floaters, conjunctival haemorrhage, eye irritation, foreign body sensation in eyes, increased lacrimation, blepharitis, dry eye and eye pruritus.
-
 The most frequently reported non-ocular adverse reactions are headache, nasopharyngitis and arthralgia.
 
 Less frequently reported, but more serious, adverse reactions include endophthalmitis, blindness, retinal detachment, retinal tear and iatrogenic traumatic cataract (see section 4.4).
@@ -81,6 +80,7 @@ In the wet AMD phase III studies, the overall frequency of non-ocular haemorrhag
 However, there was no consistent pattern among the different haemorrhages.
 There is a theoretical risk of arterial thromboembolic events, including stroke and myocardial infarction, following intravitreal use of VEGF inhibitors.
 A low incidence rate of arterial thromboembolic events was observed in the Lucentis clinical trials in patients with AMD, CNV, DME and RVO and there were no major differences between the groups treated with ranibizumab compared to control.
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

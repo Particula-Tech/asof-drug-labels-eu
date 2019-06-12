@@ -55,7 +55,6 @@ Ensure that the plunger rod is drawn sufficiently back when emptying the vial in
 5.
 Leave the blunt filter needle in the vial and disconnect the syringe from the blunt filter needle.
 The filter needle should be discarded after withdrawal of the vial contents and should not be used for the intravitreal injection.
-
 6.
 Aseptically and firmly assemble an injection needle (30G x ½″, 0.3 mm x 13 mm) onto the syringe.
 
@@ -110,9 +109,8 @@ Check syringe 3. Check that:
 - the syringe cap is not detached from the
 Luer lock.
 - the syringe is not damaged.
-- the solution looks clear, colourless to
-pale yellow and does not contain any
-particles.
+- the solution looks clear, colourless to pale
+yellow and does not contain any particles.
 4. If any of the above is not true, discard the
 pre-filled syringe and use a new one.
 Remove 5. Snap off (do not turn or twist) the syringe
@@ -120,10 +118,9 @@ syringe cap cap (see Figure 2).
 6. Dispose of the syringe cap (see Figure 3).
 Figure 2
 Figure 3
-Attach needle 7. Attach a 30G x ½″ sterile injection
-needle firmly onto the syringe by
-screwing it tightly onto the Luer lock (see
-Figure 4).
+Attach needle 7. Attach a 30G x ½″ sterile injection needle
+firmly onto the syringe by screwing it
+tightly onto the Luer lock (see Figure 4).
 8. Carefully remove the needle cap by
 pulling it straight off (see Figure 5).
 Note: Do not wipe the needle at any time.
@@ -151,6 +148,6 @@ the centre of the globe.
 13. Inject slowly until the rubber stopper reaches the bottom of the syringe to
 deliver the volume of 0.05 ml.
 14. A different scleral site should be used for subsequent injections.
-15. After injection, do not recap the needle or detach it from the syringe.
-Dispose of the used syringe together with the needle in a sharps disposal
-container or in accordance with local requirements.
+15. After injection, do not recap the needle or detach it from the syringe. Dispose
+of the used syringe together with the needle in a sharps disposal container or
+in accordance with local requirements.

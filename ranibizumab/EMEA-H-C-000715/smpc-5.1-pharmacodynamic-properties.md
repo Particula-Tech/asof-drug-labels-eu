@@ -1,8 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Ophthalmologicals, antineovascularisation agents, ATC code: S01LA04
-
-Mechanism of action
+Pharmacotherapeutic group: Ophthalmologicals, antineovascularisation agents, ATC code: S01LA04 Mechanism of action
 
 Ranibizumab is a humanised recombinant monoclonal antibody fragment targeted against human vascular endothelial growth factor A (VEGF-A).
 It binds with high affinity to the VEGF-A isoforms (e.g. VEGF110, VEGF121 and VEGF165), thereby preventing binding of VEGF-A to its receptors VEGFR-1 and VEGFR-2.
@@ -17,6 +15,7 @@ A total of 1,323 patients (879 active and 444 control) were enrolled in these st
 In study FVF2598g (MARINA), 716 patients with minimally classic or occult with no classic lesions were randomised in a 1:1:1 ratio to receive monthly injections of Lucentis 0.3 mg, Lucentis 0.5 mg or sham.
 
 In study FVF2587g (ANCHOR), 423 patients with predominantly classic CNV lesions were randomised in a 1:1:1 ratio to receive Lucentis 0.3 mg monthly, Lucentis 0.5 mg monthly or verteporfin PDT (at baseline and every 3 months thereafter if fluorescein angiography showed persistence or recurrence of vascular leakage).
+
 Key outcome measures are summarised in Table 1 and Figure 1.
 
 Table 1 Outcomes at Month 12 and Month 24 in study FVF2598g (MARINA) and FVF2587g (ANCHOR)
@@ -38,24 +37,24 @@ Study FVF2598g (MARINA)
 15
 
 10
-+6.6
-5
+
+5 +6.6
 
 0
-+ 21.5
--5
+
+-5 + 21.5
 
 -10
 
 -15 -14.9
 
 0 2 4 6 8 10 12 14 16 18 20 22 24
+
 Month
 
 Study FVF2587g (ANCHOR)
 15
-+10.7
-10
+10 +10.7
 
 5
 
@@ -66,6 +65,7 @@ Study FVF2587g (ANCHOR)
 -10 -9.8
 
 -15
+
 0 2 4 6 8 10 12 14 16 18 20 22 24
 
 Month
@@ -166,9 +166,9 @@ In this study 178 adult patients were randomised in a 2:1 ratio to receive:
 - sham injection at baseline, followed by an individualised treatment regimen driven by disease activity.
 
 At Month 2, all patients received open-label treatment with ranibizumab as needed.
+
 Key outcome measures from MINERVA are summarised in Table 3 and Figure 3.
 An improvement of vision was observed and was accompanied by a reduction in central subfield thickness over the 12-month period.
-
 The mean number of injections given over 12 months was 5.8 in the ranibizumab arm versus 5.4 in those patients in the sham arm who were eligible to receive ranibizumab from Month 2 onwards.
 In the sham arm 7 out of 59 patients did not receive any treatment with ranibizumab in the study eye during the 12-month period.
 
@@ -211,9 +211,7 @@ Table 4 Treatment effect overall and across baseline aetiology subgroups
 | Idiopathic chorioretinopathy | 11.4 | 63 |
 | Miscellaneous aetiologiesa | 10.6 | 37 |
 
-a encompasses different aetiologies of low frequency of occurrence not included in the other subgroups
-
-In the pivotal study G2301 (MINERVA), five adolescent patients aged 12 to 17 years with visual impairment secondary to CNV received open-label treatment with ranibizumab 0.5 mg at baseline followed by an individualised treatment regimen as for the adult population.
+a encompasses different aetiologies of low frequency of occurrence not included in the other subgroups In the pivotal study G2301 (MINERVA), five adolescent patients aged 12 to 17 years with visual impairment secondary to CNV received open-label treatment with ranibizumab 0.5 mg at baseline followed by an individualised treatment regimen as for the adult population.
 BCVA improved from baseline to Month 12 in all five patients, ranging from 5 to 38 letters (mean of 16.6 letters).
 The improvement of vision was accompanied by a stabilisation or reduction in central subfield thickness over the 12-month period.
 The mean number of ranibizumab injections given in the study eye over 12 months was 3 (ranged from 2 to 5).
@@ -224,8 +222,7 @@ The efficacy and safety of Lucentis have been assessed in three randomised, cont
 A total of 868 patients (708 active and 160 control) were enrolled in these studies.
 
 In the phase II study D2201 (RESOLVE), 151 patients were treated with ranibizumab (6 mg/ml, n=51, 10 mg/ml, n=51) or sham (n=49) by monthly intravitreal injections.
-The mean average change in BCVA from Month 1 to Month 12 compared to baseline was +7.8 (±7.72) letters in the pooled ranibizumab-treated patients (n=102), compared to -0.1 (±9.77) letters for sham-treated patients; and the mean change in BCVA at Month 12 from baseline was 10.3 (±9.1) letters compared to
--1.4 (±14.2) letters, respectively (p<0.0001 for the treatment difference).
+The mean average change in BCVA from Month 1 to Month 12 compared to baseline was +7.8 (±7.72) letters in the pooled ranibizumab-treated patients (n=102), compared to -0.1 (±9.77) letters for sham-treated patients; and the mean change in BCVA at Month 12 from baseline was 10.3 (±9.1) letters compared to -1.4 (±14.2) letters, respectively (p<0.0001 for the treatment difference).
 
 In the phase III study D2301 (RESTORE), 345 patients were randomised in a 1:1:1 ratio to receive ranibizumab 0.5 mg monotherapy and sham laser photocoagulation, combined ranibizumab 0.5 mg and laser photocoagulation or sham injection and laser photocoagulation.
 240 patients, who had previously completed the 12-month RESTORE study, were enrolled in the open-label, multicentre 24-month extension (RESTORE Extension) study.
@@ -244,6 +241,7 @@ Figure 4 Mean change in visual acuity from baseline over time in study D2301 (RE
 
 4
 + 6.2/+ 5.4*
+
 2
 + 0.9
 0
@@ -338,11 +336,15 @@ ap<0.0001 for assessment of non-inferiority to PRN
 
 In DME studies, the improvement in BCVA was accompanied by a reduction over time in mean CSFT in all the treatment groups.
 
+Diabetic retinopathy severity score (DRSS) was assessed in three separate active-controlled phase III DME studies (ranibizumab 0.5 mg PRN vs laser) that included a total of 875 patients, of whom approximately 75% were of Asian origin.
+In a meta-analysis of these studies, 48.4% of the 315 patients with gradable DRSS scores in the subgroup of patients with moderately severe non-proliferative DR (NPDR) or worse at baseline experienced a ≥2-step improvement in the DRSS at Month 12 when treated with ranibizumab (n=192) vs 14.6% of patients treated with laser (n=123).
+The estimated difference between ranibizumab and laser was 29.9% (95% CI: [20.0, 39.7]).
+In the 405 DRSS gradable patients with moderate NPDR or better, a ≥2-step DRSS improvement was observed in 1.4% and 0.9% of the ranibizumab and laser groups, respectively.
+
 Treatment of visual impairment due to macular oedema secondary to RVO
 The clinical safety and efficacy of Lucentis in patients with visual impairment due to macular oedema secondary to RVO have been assessed in the randomised, double-masked, controlled studies BRAVO and CRUISE that recruited subjects with BRVO (n=397) and CRVO (n=392), respectively.
 In both studies, subjects received either 0.3 mg or 0.5 mg ranibizumab or sham injections.
 After 6 months, patients in the sham-control arms switched to 0.5 mg ranibizumab
-
 Key outcome measures from BRAVO and CRUISE are summarised in Table 7 and Figures 5 and 6.
 
 Table 7 Outcomes at Month 6 and 12 (BRAVO and CRUISE)
@@ -357,6 +359,7 @@ Table 7 Outcomes at Month 6 and 12 (BRAVO and CRUISE)
 | Proportion (%) receiving laser rescue over 12 months | 61.4 | 34.4 | NA | NA |
 
 ap<0.0001for both studies
+
 Figure 5 Mean change from baseline BCVA over time to Month 6 and Month 12 (BRAVO)
 
 + 18.3
@@ -371,7 +374,8 @@ Figure 5 Mean change from baseline BCVA over time to Month 6 and Month 12 (BRAVO
 6
 + 7.3
 4
-2 sham-controlled crossed-over to ranibizumab sham-controlled arm
+2 sham-controlled arm
+sham-controlled crossed-over to ranibizumab
 0
 0 1 2 3 4 5 6 7 8 9 10 11 12
 Month
@@ -451,10 +455,10 @@ The corresponding visual acuity gain in patients with ≥12 months disease durat
 Treatment initiation at the time of diagnosis should be considered.
 
 The long-term safety profile of ranibizumab observed in the 24-month studies is consistent with the known Lucentis safety profile.
+
 Paediatric population
 
 The safety and efficacy of ranibizumab have not yet been established in paediatric patients.
-
 The European Medicines Agency has waived the obligation to submit the results of studies with Lucentis in all subsets of the paediatric population in neovascular AMD, visual impairment due to DME, visual impairment due to macular oedema secondary to RVO and visual impairment due to CNV (see section 4.2 for information on paediatric use).
 
 [Lucentis 10 mg/ml solution for injection in pre-filled syringe]
@@ -463,3 +467,7 @@ Double-masked, Open-label,
 randomised, Ranibizumab allowed in both arms
 
 Ranibizumab vs Sham
+
+* Observed mean BCVA may differ from the Least Squares Mean BCVA (applicable only at Month 2)
+
+When comparing ranibizumab versus sham control at Month 2, a consistent treatment effect both overall and across baseline aetiology subgroups was observed:
