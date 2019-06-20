@@ -21,6 +21,7 @@ For the B cell counts, CD19 is used, as the presence of Ocrevus interferes with 
 
 In the Phase III studies, between each dose of Ocrevus, up to 5% of patients showed B-cell repletion (> lower limit of normal (LLN) or baseline) at least at one time point.
 The extent and duration of B-cell depletion was consistent in the PPMS and RMS trials.
+
 The longest follow up time after the last Ocrevus infusion (Phase II study WA21493, N=51) indicates that the median time to B-cell repletion (return to baseline/LLN whichever occurred first) was 72 weeks (range 27 - 175 weeks).
 90% of all patients had their B-cells repleted to LLN or baseline by approximately two and a half years after the last infusion.
 
@@ -91,7 +92,8 @@ Table 4 Key Clinical and MRI Endpoints from Studies WA21092 and WA21093 (RMS)
 1 Data prospectively pooled from Study 1 and 2
 2 Non-confirmatory p-value analysis; not part of the pre-specified testing hierarchy
 3 Defined as an increase of ≥ 1.0 point from the baseline Expanded Disability Status Scale (EDSS) score for patients with baseline score of 5.5 or less, or ≥ 0.5 when the baseline score is > 5.5, Kaplan-Meier estimates at Week 96
-4 Defined as decrease of ≥ 1.0 point from the baseline EDSS score for patients with baseline EDSS score ≥ 2 and ≤ 5.5, or ≥0.5 when the baseline score is > 5.5.
+4 Defined as decrease of ≥ 1.0 point from the baseline EDSS score for patients with baseline EDSS score ≥ 2 and
+≤ 5.5, or ≥0.5 when the baseline score is > 5.5.
 Patients with baseline score < 2 were not included in analysis.
 5 NEDA defined as absence of protocol defined relapses, 12-week Confirmed Disability Progression (CDP), and any MRI activity (either Gd-enhancing T1 lesions, or new or enlarging T2 lesions) during the whole 96-week treatment.
 Exploratory result based on complete ITT population.
@@ -186,6 +188,15 @@ Immunogenicity
 Patients in MS trials (WA21092, WA21093 and WA25046) were tested at multiple time points (baseline and every 6 months post treatment for the duration of the trial) for anti-drug antibodies (ADAs).
 Out of 1311 patients treated with Ocrevus, 12 (~1%) tested positive for treatment-emergent ADAs, of which 2 patients tested positive for neutralising antibodies.
 The impact of treatment-emergent ADAs on safety and efficacy cannot be assessed given the low incidence of ADA associated with Ocrevus.
+
+Immunisations
+
+In a randomized open-label study in RMS patients (N=102), the percentage of patients with a positive response to tetanus vaccine at 8 weeks after vaccination was 23.9% in the ocrelizumab group compared to 54.5% in the control group (no disease-modifying therapy except interferon-beta).
+Geometric mean anti-tetanus toxoid specific antibody titers at 8 weeks were 3.74 and 9.81 IU/ml, respectively.
+Positive response to ≥5 serotypes in 23-PPV at 4 weeks after vaccination was 71.6% in the ocrelizumab group and 100% in the control group.
+In patients treated with ocrelizumab a booster vaccine (13-PCV) given 4 weeks after 23-PPV did not markedly enhance the response to 12 serotypes in common with 23-PPV.
+The percentage of patients with seroprotective titers against five influenza strains ranged from 20.0−60.0% and 16.7−43.8% pre-vaccination and at 4 weeks post vaccination from 55.6−80.0% in patients treated with ocrelizumab and 75.0−97.0% in the control group , respectively.
+See sections 4.4 and 4.5.
 
 Paediatric population
 

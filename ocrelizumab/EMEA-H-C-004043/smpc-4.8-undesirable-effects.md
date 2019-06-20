@@ -9,12 +9,12 @@ Tabulated list of adverse reactions
 
 The overall safety profile of Ocrevus in Multiple Sclerosis is based on data from patients from pivotal clinical trials in MS (RMS and PPMS).
 
-The table 2 summarises the ADRs that have been reported in association with the use of Ocrevus in
-1311 patients (3054 patient years) during the controlled treatment periods of MS clinical trials.
-Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000
-to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and very rare (< 1/10,000). Within each System Organ
-Class, the adverse reactions are presented in order of decreasing frequency.
-Table 2 ADRs Reported with Ocrevus (in RMS or PPMS)
+The table 2 summarises the ADRs that have been reported in association with the use of Ocrevus in 1311 patients (3054 patient years) during the controlled treatment periods of MS clinical trials.
+
+Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and very rare (< 1/10,000).
+Within each System Organ Class, the adverse reactions are presented in order of decreasing frequency.
+
+Table 2 ADRs reported with Ocrevus (in RMS or PPMS)
 MedDRA Very Common Common
 System Organ Class (SOC)
 Infections and infestations Upper respiratory tract Sinusitis, bronchitis, oral
@@ -32,6 +32,7 @@ Injury, poisoning and procedura Infusion-related reactions1
 complications
 
 1 Symptoms reported as IRRs within 24 hours of the infusion are described below in ‘Infusion-related reactions’.
+
 Description of selected adverse reactions
 
 Infusion-related reactions
@@ -73,6 +74,7 @@ Herpes
 
 In active-controlled (RMS) clinical trials, herpes infections were reported more frequently in Ocrevus-treated patients than in interferon-beta-1a treated patients including herpes zoster (2.1% vs 1.0%), herpes simplex, ( 0.7 % vs 0.1 %) oral herpes (3.0% vs 2.2%), genital herpes (0.1% vs 0%) and herpes virus infection (0.1% vs 0%).
 Infections were predominantly mild to moderate in severity and patients recovered with treatment by standard therapies.
+
 In the placebo-controlled (PPMS) clinical trial, a higher proportion of patients with oral herpes (2.7% vs 0.8%) were observed in the Ocrevus treatment arm.
 
 Laboratory Abnormalities
@@ -80,13 +82,7 @@ Laboratory Abnormalities
 Immunoglobulins
 
 Treatment with Ocrevus resulted in a decrease in total immunoglobulins over the controlled period of the studies, mainly driven by reduction in IgM.
-There may be an association between a sustained decrease in IgG, IgM or IgA and serious infections, however due to limited exposure and number of patients, definitive conclusions cannot be drawn.
-
-In the active-controlled (RMS) studies, the proportion of patients reporting at baseline IgG, IgA and IgM < lower limit of normal (LLN) in the Ocrevus treatment arm was 0.5%, 1.5% and 0.1% respectively.
-Following treatment, the proportion of Ocrevus-treated patients reporting IgG, IgA and IgM < LLN at 96 weeks was 1.5%, 2.4% and 16.5% respectively.
-
-In the placebo-controlled (PPMS) study, the proportion of patients reporting at baseline IgG, IgA and IgM < LLN in the Ocrevus treatment arm was 0.0%, 0.2% and 0.2% respectively.
-Following treatment, the proportion of Ocrevus-treated patients reporting IgG, IgA and IgM < LLN at 120 weeks was 1.1%, 0.5% and 15.5% respectively.
+Clinical trial data have shown an association between decreased levels of IgG (and less so for IgM or IgA) and serious infections.
 
 Lymphocytes
 

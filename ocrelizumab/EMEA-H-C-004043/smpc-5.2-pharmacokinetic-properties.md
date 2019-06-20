@@ -15,7 +15,7 @@ The population pharmacokinetics estimate of the central volume of distribution w
 
 Biotransformation
 
-The metabolism of Ocrevus has not been directly studied, as antibodies are cleared principally by catabolism (i.e. breakdown ino peptides and amino acids).
+The metabolism of Ocrevus has not been directly studied, as antibodies are cleared principally by catabolism (i.e. breakdown into peptides and amino acids).
 
 Elimination
 
@@ -31,7 +31,6 @@ No studies have been conducted to investigate the pharmacokinetics of ocrelizuma
 Elderly
 
 There are no dedicated PK studies of ocrelizumab in patients ≥55 years due to limited clinical experience (see section 4.2).
-
 Renal impairment
 
 No formal pharmacokinetic study has been conducted.

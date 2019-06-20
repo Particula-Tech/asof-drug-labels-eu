@@ -62,6 +62,7 @@ Physicians should take prompt action for patients presenting with pneumonia.
 Progressive multifocal leukoencephalopathy (PML)
 
 A risk of PML cannot be ruled-out since John Cunningham (JC) virus infection resulting in PML has been observed in patients treated with anti-CD20 antibodies and other MS therapies, and associated with risk factors (e.g. patient population, polytherapy with immunosuppressants).
+
 Physicians should be vigilant for the early signs and symptoms of PML, which can include any new onset, or worsening of neurological signs or symptoms, as these can be similar to MS disease.
 
 If PML is suspected, dosing with Ocrevus must be withheld.
@@ -84,6 +85,7 @@ Individual benefit risk should be considered in patients with known risk factors
 Patients with a known active malignancy should not be treated with Ocrevus (see section 4.3).
 Patients should follow standard breast cancer screening per local guidelines.
 Please see section 4.2 for populations not studied.
+
 In the controlled period of the clinical trials, the incidence of non-melanoma skin cancers was low and there was no imbalance between treatment groups.
 An increase in incidence was observed between years 3 and 4 of treatment due to basal cell carcinoma, which was not observed in subsequent years.
 The incidence remains within the background rate expected for an MS population.
@@ -109,15 +111,21 @@ Vaccinations
 The safety of immunisation with live or live-attenuated vaccines, following Ocrevus therapy has not been studied and vaccination with live-attenuated or live vaccines is not recommended during treatment and not until B-cell repletion (in clinical trials, the median time for B-cell repletion was 72 weeks).
 See section 5.1.
 
-No data are available on the effects of vaccination in patients receiving Ocrevus.
+In a randomized open-label study, RMS patients were able to mount humoral responses, although decreased, to tetanus toxoid, 23-valent pneumococcal polysaccharide with or without a booster vaccine, keyhole limpet hemocyanin neoantigen, and seasonal influenza vaccines.
+See section 4.5 and 5.1.
+
+It is recommended to vaccinate patients treated with Ocrevus with seasonal influenza vaccines that are inactivated.
+
 Physicians should review the immunisation status of patients being considered for treatment with Ocrevus.
 Patients who require vaccination should complete their immunisation at least 6 weeks prior to initiation of Ocrevus.
 
-See section 4.5 for further information about vaccinations.
+See section 4.5 and 5.1 for further information about vaccinations.
 
-Exposure in utero to ocrelizumab and vaccination of infants with live and live attenuated vaccines
+Exposure in utero to ocrelizumab and vaccination of neonates and infants with live or live attenuated vaccines
+Due to the potential depletion of B cells in infants of mothers who have been exposed to Ocrevus during pregnancy, it is recommended that vaccination with live or live-attenuated vaccines should be delayed until B-cell levels have recovered; therefore, measuring CD19-positive B-cell levels, in neonates and infants, prior to vaccination is recommended
 
-Due to the potential depletion of B cells in infants of mothers who have been exposed to Ocrevus during pregnancy, infants should be monitored for B-cell depletion and vaccinations with live and live attenuated vaccines should be postponed until the infant’s B-cell count has recovered.
+It is recommended that all vaccinations other than live or live-attenuated should follow the local immunisation schedule and measurement of vaccine-induced response titers should be considered to check whether individuals have mounted a protective immune response because the efficacy of the vaccination may be decreased.
+
 The safety and timing of vaccination should be discussed with the infant’s physician (see section 4.6).
 
 Sodium

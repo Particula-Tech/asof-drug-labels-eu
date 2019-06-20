@@ -7,9 +7,9 @@ Women of child bearing potential should use contraception while receiving Ocrevu
 Pregnancy
 
 Ocrevus is a humanised monoclonal antibody of an immunoglobulin G1 subtype and immunoglobulins are known to cross the placental barrier.
-
 There is a limited amount of data from the use of Ocrevus in pregnant women.
-No B cell count data have been collected in infants exposed to ocrelizumab and the potential duration of B-cell depletion in infants is unknown (see section 4.4).
+Postponing vaccination with live or live-attenuated vaccines should be considered for neonates and infants born to mothers who have been exposed to Ocrevus in utero.
+No B cell count data have been collected in neonates and infants exposed to ocrelizumab and the potential duration of B-cell depletion in neonates and infants is unknown (see section 4.4).
 
 Transient peripheral B-cell depletion and lymphocytopenia have been reported in infants born to mothers exposed to other anti-CD20 antibodies during pregnancy.
 
@@ -23,8 +23,9 @@ Breast-feeding
 
 It is unknown whether ocrelizumab/metabolites are excreted in human milk.
 Available pharmacodynamic/toxicological data in animals have shown excretion of ocrelizumab in milk (for details see section 5.3).
-A risk to the newborns/infants cannot be excluded.
+A risk to neonates and infants cannot be excluded.
 Women should be advised to discontinue breast-feeding during Ocrevus therapy.
+
 Fertility
 
 Preclinical data reveal no special hazards for humans based on studies of male and female fertility in cynomologous monkeys.
