@@ -36,7 +36,6 @@ If any doubt exists, referral to a neurologist and appropriate diagnostic measur
 Cytopenias
 Treatment-emergent grade 3 or 4 cytopenias (neutropenia, thrombocytopenia and anaemia) were reported in patients treated with IMBRUVICA.
 Monitor complete blood counts monthly.
-
 Interstitial Lung Disease (ILD)
 Cases of ILD have been reported in patients treated with IMBRUVICA.
 Monitor patients for pulmonary symptoms indicative of ILD.

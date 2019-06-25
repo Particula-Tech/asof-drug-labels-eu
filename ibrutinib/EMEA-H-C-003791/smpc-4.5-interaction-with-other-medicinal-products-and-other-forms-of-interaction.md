@@ -38,7 +38,7 @@ Mild inducers may be used concomitantly with IMBRUVICA, however, patients should
 
 Ibrutinib has a pH dependent solubility, with lower solubility at higher pH.
 A lower Cmax was observed in fasted healthy subjects administered a single 560 mg dose of ibrutinib after taking omeprazole at 40 mg once daily for 5 days (see section 5.2).
-There is no evidence that the lower Cmax would have clinical significance, and medicinal products that increase stomach pH (e.g., proton pump inhibitors) have been used without restrictions in the pivotal clinical trials.
+There is no evidence that the lower Cmax would have clinical significance, and medicinal products that increase stomach pH (e.g., proton pump inhibitors) have been used without restrictions in the pivotal clinical studies.
 
 Agents that may have their plasma concentrations altered by ibrutinib
 Ibrutinib is a P-gp and breast cancer resistance protein (BCRP) inhibitor in vitro.

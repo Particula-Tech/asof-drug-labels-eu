@@ -15,7 +15,6 @@ Dose adjustments
 Moderate and strong CYP3A4 inhibitors increase the exposure of ibrutinib (see sections 4.4 and 4.5).
 
 The dose of ibrutinib should be reduced to 280 mg once daily (two capsules) when used concomitantly with moderate CYP3A4 inhibitors.
-
 The dose of ibrutinib should be reduced to 140 mg once daily (one capsule) or withheld for up to 7 days when it is used concomitantly with strong CYP3A4 inhibitors.
 
 IMBRUVICA therapy should be withheld for any new onset or worsening grade ≥3 non-haematological toxicity, grade 3 or greater neutropenia with infection or fever, or grade 4 haematological toxicities.
@@ -59,6 +58,7 @@ It is not recommended to administer IMBRUVICA to patients with severe hepatic im
 
 Severe cardiac disease
 Patients with severe cardiovascular disease were excluded from IMBRUVICA clinical studies.
+
 Paediatric population
 The safety and efficacy of IMBRUVICA in children and adolescents aged 0 to 18 years have not been established.
 No data are available.

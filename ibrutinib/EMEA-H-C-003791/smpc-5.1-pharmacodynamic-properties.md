@@ -41,7 +41,6 @@ IMBRUVICA was administered orally at 560 mg once daily until disease progression
 Tumour response was assessed according to the revised International Working Group (IWG) for non-Hodgkin’s lymphoma (NHL) criteria.
 The primary endpoint in this study was investigator-assessed overall response rate (ORR).
 Responses to IMBRUVICA are shown in Table 2.
-
 Table 2: ORR and DOR in patients with relapsed or refractory MCL (Study PCYC-1104-CA)
 
 |  | Total N = 111 |
@@ -83,8 +82,8 @@ Table 3: Efficacy Results in patients with relapsed or refractory MCL (Study MCL
 | p-value | p < 0.0001 |  |  |
 
 NE = not estimable; HR = hazard ratio; CI = confidence interval; ORR = overall response rate; PFS = progression-free survival a IRC evaluated.
-A smaller proportion of patients treated with ibrutinib experienced a clinically meaningful worsening of lymphoma symptoms versus temsirolimus (27% versus 52%) and time to worsening of symptoms occurred more slowly with ibrutinib versus temsirolimus (HR 0.27, p < 0.0001).
 
+A smaller proportion of patients treated with ibrutinib experienced a clinically meaningful worsening of lymphoma symptoms versus temsirolimus (27% versus 52%) and time to worsening of symptoms occurred more slowly with ibrutinib versus temsirolimus (HR 0.27, p < 0.0001).
 Figure 1: Kaplan-Meier curve of PFS (ITT Population) in Study MCL3001
 
 CLL
@@ -102,6 +101,7 @@ At baseline, 45% had advanced clinical stage (Rai Stage III or IV), 35% of patie
 
 Progression free survival (PFS) as assessed by IRC according to International Workshop on CLL (IWCLL) criteria indicated an 84% statistically significant reduction in the risk of death or progression in the IMBRUVICA arm.
 Efficacy results for Study PCYC-1115-CA are shown in Table 4 and the Kaplan-Meier curves for PFS and OS are shown in Figures 2 and 3, respectively.
+
 There was a statistically significant sustained platelet or hemoglobin improvement in the ITT population in favor of ibrutinib versus chlorambucil.
 In patients with baseline cytopenias, sustained hematologic improvement was: platelets 77.1% versus 42.9%; hemoglobin 84.3% versus 45.5% for ibrutinib and chlorambucil respectively.
 

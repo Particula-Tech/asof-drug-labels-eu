@@ -91,28 +91,38 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [IMBRUVICA 140 mg film-coated tablets]
 
+Table 1: Adverse reactions reported in clinical studies or during post marketing surveillance
+in patients with B-cell malignancies†
 System organ class Frequency Adverse reactions All Grades Grade ≥3
 (All grades) (%) (%)
-Upper respiratory tract 19 1
+Infections and infestations Very Pneumonia*# 16 10
+common Upper respiratory tract 19 1
 infection 11 1
 Sinusitis* 10 3
 Skin infection*
 Uncommon Hepatitis B reactivation@ <1 <1
-Neoplasms benign and malignant Common Non-melanoma skin 6 1
-(incl cysts and polyps) cancer* 3 < 1
+Neoplasms benign and malignant (incl Common Non-melanoma skin 6 1
+cysts and polyps) cancer* 3 < 1
 Basal cell carcinoma 2 < 1
 Squamous cell carcinoma
-Blood and lymphatic system Very common Neutropenia 30 26
-disorders Thrombocytopenia 20 10
+Blood and lymphatic system disorders Very Neutropenia 30 26
+common Thrombocytopenia 20 10
 Metabolism and nutrition disorders Common Tumour lysis syndromea 1 1
 Hyperuricaemia 7 2
+Nervous system disorders Very Headache 13 1
+common
 Ventricular 1 0
 tachyarrhythmia*b
-Skin and subcutaneous tissue Very common Rash* 22 2
-disorders Common Urticariaa 1 < 1
+Vascular disorders Very Haemorrhage*# 30 1
+common Bruising* 22 < 1
+Gastrointestinal disorders Very Diarrhoea 41 3
+common Vomiting 14 < 1
+Skin and subcutaneous tissue Very Rash* 22 2
+disorders common
+Common Urticariaa 1 < 1
 Not known Stevens-Johnson Not known Not known
 syndromea
-Musculoskeletal and connective Very common Arthralgia 12 1
-tissue disorders Muscle spasms 14 < 1
-General disorders and administration Very common Pyrexia 20 2
-site conditions Oedema peripheral 14 1
+Musculoskeletal and connective tissue Very Arthralgia 12 1
+disorders common Muscle spasms 14 < 1
+General disorders and administration Very Pyrexia 20 2
+site conditions common Oedema peripheral 14 1

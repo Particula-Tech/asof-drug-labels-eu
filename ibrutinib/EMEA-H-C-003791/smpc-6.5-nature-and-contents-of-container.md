@@ -8,10 +8,8 @@ Not all pack sizes may be marketed.
 
 [IMBRUVICA 140 mg film-coated tablets]
 
-Polyvinyl chloride (PVC) laminated with polychlorotrifluoroethylene (PCTFE)/aluminum push-through blisters.
+Polyvinyl chloride (PVC) laminated with polychlorotrifluoroethylene (PCTFE)/aluminium blister of 14 film-coated tablets in a cardboard wallet.
+Each carton contains (28 film-coated tablets) 2 wallets.
 
-IMBRUVICA 140 mg film-coated tablets and IMBRUVICA 280 mg film-coated tablets
-Pack size of 10 film-coated tablets.
-
-IMBRUVICA 420 mg film-coated tablets and IMBRUVICA 560 mg film-coated tablets
-Pack size of 30 film-coated tablets.
+Polyvinyl chloride (PVC) laminated with polychlorotrifluoroethylene (PCTFE)/aluminium blister of 10 film-coated tablets in a cardboard wallet.
+Each carton contains (30 film-coated tablets) 3 wallets.

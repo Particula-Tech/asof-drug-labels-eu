@@ -13,7 +13,7 @@ Studies in animals have shown reproductive toxicity (see section 5.3).
 
 Breast-feeding
 It is not known whether ibrutinib or its metabolites are excreted in human milk.
-A risk to the newborns/infants cannot be excluded.
+A risk to breast-fed children cannot be excluded.
 Breast-feeding should be discontinued during treatment with IMBRUVICA.
 
 Fertility
