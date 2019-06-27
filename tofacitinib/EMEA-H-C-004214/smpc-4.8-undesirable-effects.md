@@ -23,7 +23,6 @@ The most commonly reported adverse reactions in patients receiving tofacitinib 1
 In the induction and maintenance studies, across tofacitinib and placebo treatment groups, the most common categories of serious adverse reactions were gastrointestinal disorders and infections, and the most common serious adverse reaction was worsening of UC.
 
 Overall, the safety profile observed in patients with UC treated with tofacitinib was consistent with the safety profile of tofacitinib in the RA indication.
-
 Tabulated list of adverse reactions
 The ADRs listed in the table below are from clinical studies in patients with RA, PsA, and UC and are presented by System Organ Class (SOC) and frequency categories, defined using the following convention: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000), or not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
@@ -132,6 +131,7 @@ In these studies, AST elevations greater than 3x ULN were observed in 0.72%, 0.5
 
 In the RA long-term extension studies, on monotherapy, ALT elevations greater than 3x ULN were observed in 1.1% and 1.4% of patients receiving tofacitinib 5 mg and 10 mg twice daily, respectively.
 AST elevations greater than 3x ULN were observed in < 1.0% in both the tofacitinib 5 mg and 10 mg twice daily groups.
+
 In the RA long-term extension studies, on background DMARDs, ALT elevations greater than 3x ULN were observed in 1.8% and 1.6% of patients receiving tofacitinib 5 mg and 10 mg twice daily, respectively.
 AST elevations greater than 3x ULN were observed in < 1.0% in both the tofacitinib 5 mg and 10 mg twice daily groups.
 

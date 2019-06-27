@@ -77,29 +77,27 @@ As with the overall ACR response in patients treated with 5 mg or 10 mg twice da
 
 Table 8: Proportion (%) of Patients with an ACR Response
 
-| ORAL Solo: DMARD Inadequate Responders |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Endpoint | Time | Placebo N=122 | Tofacitinib 5 mg Twice Daily Monotherapy N=241 | Tofacitinib 10 mg Twice Daily Monotherapy N=243 |
-| ACR20 | Month 3 | 26 | 60*** | 65*** |
-|  | Month 6 | NA | 69 | 71 |
-| ACR50 | Month 3 | 12 | 31*** | 37*** |
-|  | Month 6 | NA | 42 | 47 |
-| ACR70 | Month 3 | 6 | 15* | 20*** |
-|  | Month 6 | NA | 22 | 29 |
-| ORAL Sync: DMARD Inadequate Responders |  |  |  |  |
-| Endpoint | Time | Placebo + DMARD(s) N=158 | Tofacitinib 5 mg Twice Daily + DMARD(s) N=312 | Tofacitinib 10 mg Twice Daily + DMARD(s) N=315 |
-| ACR20 | Month 3 | 27 | 56*** | 63*** |
-|  | Month 6 | 31 | 53*** | 57*** |
-|  | Month 12 | NA | 51 | 56 |
-| ACR50 | Month 3 | 9 | 27*** | 33*** |
-|  | Month 6 | 13 | 34*** | 36*** |
-|  | Month 12 | NA | 33 | 42 |
-| ACR70 | Month 3 | 2 | 8** | 14*** |
-|  | Month 6 | 3 | 13*** | 16*** |
-|  | Month 12 | NA | 19 | 25 |
-
-| ORAL Standard: MTX Inadequate Responders |  |  |  |  |  |
+| ORAL Solo: DMARD Inadequate Responders |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
+| Endpoint | Time | Placebo N=122 | Tofacitinib 5 mg Twice Daily Monotherapy N=241 |  | Tofacitinib 10 mg Twice Daily Monotherapy N=243 |
+| ACR20 | Month 3 | 26 | 60*** |  | 65*** |
+|  | Month 6 | NA | 69 |  | 71 |
+| ACR50 | Month 3 | 12 | 31*** |  | 37*** |
+|  | Month 6 | NA | 42 |  | 47 |
+| ACR70 | Month 3 | 6 | 15* |  | 20*** |
+|  | Month 6 | NA | 22 |  | 29 |
+| ORAL Sync: DMARD Inadequate Responders |  |  |  |  |  |
+| Endpoint | Time | Placebo + DMARD(s) N=158 | Tofacitinib 5 mg Twice Daily + DMARD(s) N=312 |  | Tofacitinib 10 mg Twice Daily + DMARD(s) N=315 |
+| ACR20 | Month 3 | 27 | 56*** |  | 63*** |
+|  | Month 6 | 31 | 53*** |  | 57*** |
+|  | Month 12 | NA | 51 |  | 56 |
+| ACR50 | Month 3 | 9 | 27*** |  | 33*** |
+|  | Month 6 | 13 | 34*** |  | 36*** |
+|  | Month 12 | NA | 33 |  | 42 |
+| ACR70 | Month 3 | 2 | 8** |  | 14*** |
+|  | Month 6 | 3 | 13*** |  | 16*** |
+|  | Month 12 | NA | 19 |  | 25 |
+| ORAL Standard: MTX Inadequate Responders |  |  |  |  |  |
 | Endpoint | Time | Placebo | Tofacitinib Twice Daily + MTX |  | Adalimumab 40 mg QOW + MTX |
 | ACR20 |  | N=105 | 5 mg N=198 | 10 mg N=197 | N=199 |
 |  | Month 3 | 26 | 59*** | 57*** | 56*** |
@@ -133,24 +131,24 @@ Table 8: Proportion (%) of Patients with an ACR Response
 |  | Month 6 | NA | 37 |  | 30 |
 | ACR70 | Month 3 | 2 | 14*** |  | 10* |
 |  | Month 6 | NA | 16 |  | 16 |
+| ORAL Start: MTX-naïve |  |  |  |  |  |
+| Endpoint | Time | MTX N=184 | Tofacitinib 5 mg Twice Daily Monotherapy N=370 |  | Tofacitinib 10 mg Twice Daily Monotherapy N=394 |
+| ACR20 | Month 3 | 52 | 69*** |  | 77*** |
+|  | Month 6 | 51 | 71*** |  | 75*** |
+|  | Month 12 | 51 | 67** |  | 71*** |
+|  | Month 24 | 42 | 63*** |  | 64*** |
+| ACR50 | Month 3 | 20 | 40*** |  | 49*** |
+|  | Month 6 | 27 | 46*** |  | 56*** |
+|  | Month 12 | 33 | 49** |  | 55*** |
+|  | Month 24 | 28 | 48*** |  | 49*** |
+| ACR70 | Month 3 | 5 | 20*** |  | 26*** |
+|  | Month 6 | 12 | 25*** |  | 37*** |
+|  | Month 12 | 15 | 28** |  | 38*** |
+|  | Month 24 | 15 | 34*** |  | 37*** |
+| ORAL Strategy: MTX Inadequate Responders |  |  |  |  |  |
 
-| ORAL Start: MTX-naïve |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Endpoint | Time | MTX N=184 | Tofacitinib 5 mg Twice Daily Monotherapy N=370 | Tofacitinib 10 mg Twice Daily Monotherapy N=394 |
-| ACR20 | Month 3 | 52 | 69*** | 77*** |
-|  | Month 6 | 51 | 71*** | 75*** |
-|  | Month 12 | 51 | 67** | 71*** |
-|  | Month 24 | 42 | 63*** | 64*** |
-| ACR50 | Month 3 | 20 | 40*** | 49*** |
-|  | Month 6 | 27 | 46*** | 56*** |
-|  | Month 12 | 33 | 49** | 55*** |
-|  | Month 24 | 28 | 48*** | 49*** |
-| ACR70 | Month 3 | 5 | 20*** | 26*** |
-|  | Month 6 | 12 | 25*** | 37*** |
-|  | Month 12 | 15 | 28** | 38*** |
-|  | Month 24 | 15 | 34*** | 37*** |
-| ORAL Strategy: MTX Inadequate Responders |  |  |  |  |
 | Endpoint | Time | Tofacitinib 5 mg Twice Daily N=384 | Tofacitinib 5 mg Twice Daily + MTX N=376 | Adalimumab + MTX N=386 |
+| --- | --- | --- | --- | --- |
 | ACR20 | Month 3 | 62.50 | 70.48ǂ | 69.17 |
 |  | Month 6 | 62.84 | 73.14ǂ | 70.98 |
 |  | Month 12 | 61.72 | 70.21ǂ | 67.62 |
@@ -171,6 +169,7 @@ DAS28-4(ESR) response
 Patients in the Phase 3 studies had a mean Disease Activity Score (DAS28-4[ESR]) of 6.1-6.7 at baseline.
 Significant reductions in DAS28-4(ESR) from baseline (mean improvement) of 1.8-2.0 and 1.9-2.2 were observed in patients treated with 5 mg and 10 mg twice daily doses, respectively, compared to placebo-treated patients (0.7-1.1) at month 3.
 The proportion of patients achieving a DAS28 clinical remission (DAS28-4(ESR) < 2.6) in ORAL Step, ORAL Sync, and ORAL Standard is shown in Table 9.
+
 Table 9: Number (%) of Subjects Achieving DAS28-4(ESR) < 2.6 Remission at Months 3 and 6
 
 |  | Time Point | N | % |
@@ -204,6 +203,7 @@ In ORAL Start, tofacitinib monotherapy resulted in significantly greater inhibit
 Analyses of erosion and JSN scores were consistent with overall results.
 
 In the MTX group, 70% of patients experienced no radiographic progression at month 6 compared to 83% and 90% of patients treated with tofacitinib 5 or 10 mg twice daily respectively, both significant versus MTX.
+
 Table 10: Radiographic Changes at Months 6 and 12
 
 |  | ORAL Scan: MTX Inadequate Responders |  |  |  |  |

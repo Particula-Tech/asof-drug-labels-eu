@@ -7,6 +7,7 @@ Tofacitinib has not been studied and its use should be avoided in combination wi
 There was a higher incidence of adverse events for the combination of tofacitinib with MTX versus tofacitinib as monotherapy in RA clinical studies.
 
 The use of tofacitinib in combination with phosphodiesterase 4 inhibitors has not been studied in tofacitinib clinical studies.
+
 Serious infections
 
 Serious and sometimes fatal infections due to bacterial, mycobacterial, invasive fungal, viral, or other opportunistic pathogens have been reported in patients receiving tofacitinib.
@@ -76,6 +77,11 @@ NMSCs have been reported in patients treated with tofacitinib.
 The risk of NMSC may be higher in patients treated with tofacitinib 10 mg twice daily than in patients treated with 5 mg twice daily.
 Periodic skin examination is recommended for patients who are at increased risk for skin cancer (see Table 6 in section 4.8).
 
+Pulmonary embolism
+
+Pulmonary embolism (PE) has been observed in patients taking tofacitinib in clinical trials and post marketing reports.
+Tofacitinib 10 mg twice daily is contraindicated in patients who are at high risk for pulmonary embolism (see also section 4.3).
+Additional risk factors that should be considered in determining the patient’s risk for PE are older age, obesity, smoking status, and immobilisation.
 Interstitial lung disease
 
 Caution is also recommended in patients with a history of chronic lung disease as they may be more prone to infections.
@@ -92,6 +98,7 @@ Cardiovascular risk
 
 RA and PsA patients have an increased risk for cardiovascular disorders.
 Patients treated with tofacitinib should have risk factors (e.g., hypertension, hyperlipidaemia) managed as part of usual standard of care.
+
 Liver enzymes
 
 Treatment with tofacitinib was associated with an increased incidence of liver enzyme elevation in some patients (see section 4.8 liver enzyme tests).
@@ -138,6 +145,7 @@ Vaccinations
 Prior to initiating tofacitinib, it is recommended that all patients be brought up to date with all immunisations in agreement with current immunisation guidelines.
 It is recommended that live vaccines not be given concurrently with tofacitinib.
 The decision to use live vaccines prior to tofacitinib treatment should take into account the pre-existing immunosuppression in a given patient.
+
 Prophylactic zoster vaccination should be considered in accordance with vaccination guidelines.
 Particular consideration should be given to patients with longstanding RA who have previously received two or more biological DMARDs.
 If live zoster vaccine is administered; it should only be administered to patients with a known history of chickenpox or those that are seropositive for varicella zoster virus (VZV).
