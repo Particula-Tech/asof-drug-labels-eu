@@ -10,6 +10,7 @@ The data reflects exposure to DARZALEX (16 mg/kg) in 1166 patients with multiple
 Post-marketing adverse reactions are also included.
 Frequencies are defined as very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000) and very rare (< 1/10,000).
 Within each frequency grouping, where relevant, adverse reactions are presented in order of decreasing seriousness.
+
 Table 5: Adverse reactions in multiple myeloma patients treated with DARZALEX
 16 mg/kg
 
@@ -19,6 +20,7 @@ Table 5: Adverse reactions in multiple myeloma patients treated with DARZALEX
 | Infections and infestations | Pneumoniaa | Very Common | 16 | 11 |
 |  | Upper respiratory tract infectiona |  | 50 | 5 |
 |  | Influenza | Common | 4 | 1* |
+|  | Hepatitis B Virus reactivationb | Uncommon | - | - |
 | Blood and lymphatic system disorders | Neutropeniaa | Very Common | 46 | 38 |
 |  | Thrombocytopeniaa |  | 40 | 27 |
 |  | Anaemiaa |  | 30 | 16 |
@@ -63,7 +65,7 @@ Infections
 In patients receiving DARZALEX combination therapy, Grade 3 or 4 infections were reported with DARZALEX combinations and background therapies (DVd: 21%, Vd: 19%; DRd: 27%, Rd: 23%; D-VMP:23%, VMP:15%; DPd: 28%).
 Pneumonia was the most commonly reported severe (Grade 3 or 4) infection across studies.
 Discontinuations from treatment due to infections were reported in 1% to 5% of patients.
-Fatal infections were generally balanced between the DARZALEX containing regimens and active control arms (<2%) in the controlled studies, and were primarily due to pneumonia and sepsis.
+Fatal infections were generally balanced between the DARZALEX containing regimens and active control arms (<2%) in the controlled studies and were primarily due to pneumonia and sepsis.
 
 Haemolysis
 There is a theoretical risk of haemolysis.

@@ -22,7 +22,7 @@ Analysis 2 included 694 patients (n=326 for lenalidomide-dexamethasone; n=246 fo
 Based on the population PK analysis of daratumumab monotherapy (Analysis 1), daratumumab steady state is achieved approximately 5 months into the every 4-week dosing period (by the 21st infusion), and the mean (SD) ratio of Cmax at steady-state to Cmax after the first dose was 1.6 (0.5).
 The mean (SD) central volume of distribution is 56.98 (18.07) mL/kg.
 
-Two additional population PK analyses (Analysis 2 and Analysis 3) were conducted in patients with multiple myeloma that received daratumumab combination therapies .
+Two additional population PK analyses (Analysis 2 and Analysis 3) were conducted in patients with multiple myeloma that received daratumumab combination therapies.
 Daratumumab concentration-time profiles were similar following the monotherapy and combination therapies.
 The mean estimated terminal half-life associated with linear clearance in combination therapy was approximately 22-23 days.
 
@@ -45,7 +45,7 @@ No clinically important differences in exposure to daratumumab were observed bet
 Hepatic impairment
 No formal studies of daratumumab in patients with hepatic impairment have been conducted.
 Changes in hepatic function are unlikely to have any effect on the elimination of daratumumab since IgG1 molecules such as daratumumab are not metabolised through hepatic pathways.
-Three individual population PK analyses were performed in patients receiving daratumumab monotherapy or various combination therapies (Analyses 1-3), and included a total of 1081 patients with normal hepatic function (total bilirubin [TB] and aspartate aminotransferase [AST] ≤upper limit of normal [ULN]), 159 with mild hepatic impairment (TB 1.0 x to 1.5 x ULN or AST >ULN) and 7 patients with moderate (TB >1.5 x to 3.0 x ULN; n=6), or severe (TB >3.0 x ULN; n=1) hepatic impairment.
+Three individual population PK analyses were performed in patients receiving daratumumab monotherapy or various combination therapies (Analyses 1-3), and included a total of 1081 patients with normal hepatic function (total bilirubin [TB] and aspartate aminotransferase [AST] ≤upper limit of normal [ULN]), 159 with mild hepatic impairment (TB 1.0 x to 1.5 x ULN or AST >ULN) and 7 patients with moderate (TB > 1.5 x to 3.0 x ULN; n=6), or severe (TB > 3.0 x ULN; n=1) hepatic impairment.
 No clinically important differences in the exposure to daratumumab were observed between patients with hepatic impairment and those with normal hepatic function.
 
 Race

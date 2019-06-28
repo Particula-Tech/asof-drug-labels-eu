@@ -1,8 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies, ATC code: L01XC24
-
-Mechanism of action
+Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies, ATC code: L01XC24 Mechanism of action
 Daratumumab is an IgG1κ human monoclonal antibody (mAb) that binds to the CD38 protein expressed at a high level on the surface of multiple myeloma tumour cells, as well as other cell types and tissues at various levels.
 CD38 protein has multiple functions such as receptor mediated adhesion, signalling and enzymatic activity.
 
@@ -51,7 +49,6 @@ Median PFS was not reached in the D-VMP arm and was 19.3 months in the VMP arm (
 Figure 1: Kaplan-Meier Curve of Primary Analysis of PFS in Study MMY3007
 
 Additional efficacy results from Study MMY3007 are presented in Table 6 below.
-
 Table 6: Additional efficacy results from Study MMY3007a
 
 |  | D-VMP (n=350) | VMP (n=356) |
@@ -70,6 +67,7 @@ D-VMP=daratumumab-bortezomib-melphalan-prednisone; VMP=bortezomib-melphalan-pred
 c Based on threshold of 10-5 d A Mantel-Haenszel estimate of the common odds ratio for stratified tables is used.
 An odds ratio > 1 indicates an advantage for D-VMP.
 e p-value from Fisherʼs exact test.
+
 In responders, the median time to response was 0.79 months (range: 0.4 to 15.5 months) in the D-VMP group and 0.82 months (range: 0.7 to 12.6 months) in the VMP group.
 The median duration of response had not been reached in the D-VMP group and was 21.3 months (range: 18.4, not estimable) in the VMP group.
 
@@ -92,7 +90,6 @@ Prior therapies included bortezomib (99%), lenalidomide (99%), pomalidomide (63%
 At baseline, 97% of patients were refractory to the last line of treatment, 95% were refractory to both, a proteasome inhibitor (PI) and immunomodulatory agent (IMiD), 77% were refractory to alkylating agents, 63% were refractory to pomalidomide and 48% of patients were refractory to carfilzomib.
 
 Efficacy results of the pre-planned interim analysis based on Independent Review Committee (IRC) assessment are presented in Table 7 below.
-
 Table 7: IRC assessed efficacy results for study MMY2002
 
 | Efficacy endpoint | DARZALEX 16 mg/kg N=106 |
@@ -111,6 +108,7 @@ CI=confidence interval; NE=not estimable; MR=minimal response
 
 Overall response rate (ORR) in MMY2002 was similar regardless of type of prior anti-myeloma therapy.
 At a survival update with a median duration of follow-up of 14.7 months, median Overall Survival (OS) was 17.5 months (95% CI:13.7, not estimable).
+
 In Study GEN501, 42 patients with relapsed and refractory multiple myeloma received 16 mg/kg DARZALEX until disease progression.
 The median patient age was 64 years (range, 44 to 76 years), 64% were male and 76% were Caucasian.
 Patients in the study had received a median of 4 prior lines of therapy.
@@ -137,8 +135,8 @@ The majority of patients (86%) received a prior PI, 55% of patients had received
 At baseline, 27% of patients were refractory to the last line of treatment.
 Eighteen percent (18%) of patients were refractory to a PI only, and 21% were refractory to bortezomib.
 Patients refractory to lenalidomide were excluded from the study.
-
 Study MMY3003 demonstrated an improvement in Progression Free Survival (PFS) in the DRd arm as compared to the Rd arm; the median PFS had not been reached in the DRd arm and was 18.4 months in the Rd arm (hazard ratio [HR]=0.37; 95% CI: 0.27, 0.52; p<0.0001), representing 63% reduction in the risk of disease progression or death in patients treated with DRd (see Figure 2).
+
 Figure 2: Kaplan-Meier Curve of PFS in Study MMY3003
 
 Additional efficacy results from Study MMY3003 are presented in Table 8 below.
@@ -160,7 +158,6 @@ d p-value is from a likelihood-ratio Chi-Squared test.
 
 Median OS was not reached for either treatment group.
 With an overall median follow-up of 13.5 months, the hazard ratio for OS was 0.64 (95% CI: 0.40, 1.01; p=0.0534).
-
 Combination treatment with bortezomib:
 Study MMY3004, an open-label, randomised, active-controlled Phase III trial, compared treatment with DARZALEX 16 mg/kg in combination with bortezomib and dexamethasone (DVd), to treatment with bortezomib and dexamethasone (Vd) in patients with relapsed or refractory multiple myeloma who had received at least one prior therapy.
 Bortezomib was administered by SC injection or IV infusion at a dose of 1.3 mg/m2 body surface area twice weekly for two weeks (Days 1, 4, 8, and 11) of repeated 21 day (3-week) treatment cycles, for a total of 8 cycles.
@@ -192,7 +189,7 @@ Table 9: Additional efficacy results from Study MMY3004
 | Median Duration of Response [months (95% CI)] | NE (11.5, NE) | 7.9 (6.7, 11.3) |
 | MRD negative rate (95% CI)b Odds ratio with 95% CIc P-valued | 13.5% (9.6%, 18.4%) 5.37 (2.33, 12.37) 0.000006 | 2.8% (1.1%, 5.8%) |
 
-DVd=daratumumab-bortezomib-dexamethasone; Vd=bortezomib-dexamethasone; MRD=minimal residual disease; CI=confidence interval; NE=not estimable.
+DVd=daratumumab- bortezomib-dexamethasone; Vd=bortezomib-dexamethasone; MRD=minimal residual disease; CI=confidence interval; NE=not estimable.
 a p-value from Cochran Mantel-Haenszel Chi-Squared test.
 b Based on Intent-to-treat population and threshold of 10-4 c A Chi-Squared estimate of the common odds ratio is used.
 An odds ratio > 1 indicates an advantage for DVd.

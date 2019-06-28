@@ -30,12 +30,12 @@ Monitor patients with neutropenia for signs of infection.
 DARZALEX delay may be required to allow recovery of blood cell counts.
 No dose reduction of DARZALEX is recommended.
 Consider supportive care with transfusions or growth factors.
+
 Interference with Indirect Antiglobulin Test (Indirect Coombs Test)
 Daratumumab binds to CD38 found at low levels on red blood cells (RBCs) and may result in a positive indirect Coombs test.
 Daratumumab-mediated positive indirect Coombs test may persist for up to 6 months after the last daratumumab infusion.
 It should be recognised that daratumumab bound to RBCs may mask detection of antibodies to minor antigens in the patient’s serum.
 The determination of a patient’s ABO and Rh blood type are not impacted.
-
 Patients should be typed and screened prior to starting daratumumab treatment.
 Phenotyping may be considered prior to starting daratumumab treatment as per local practice.
 Red blood cell genotyping is not impacted by daratumumab and may be performed at any time.
@@ -46,6 +46,15 @@ If an emergency transfusion is required, non-cross-matched ABO/RhD-compatible RB
 Interference with determination of Complete Response
 Daratumumab is a human IgG kappa monoclonal antibody that can be detected on both, the serum protein electrophoresis (SPE) and immunofixation (IFE) assays used for the clinical monitoring of endogenous M-protein (see section 4.5).
 This interference can impact the determination of complete response and of disease progression in some patients with IgG kappa myeloma protein.
+
+Hepatitis B virus (HBV) Reactivation
+Hepatitis B virus reactivation, in some cases fatal, has been reported in patients treated with DARZALEX.
+HBV screening should be performed in all patients before initiation of treatment with DARZALEX.
+For patients with evidence of positive HBV serology, monitor for clinical and laboratory signs of HBV reactivation during, and for at least six months following the end of DARZALEX treatment.
+Manage patients according to current clinical guidelines.
+Consider consulting a hepatitis disease expert as clinically indicated.
+In patients who develop reactivation of HBV while on DARZALEX, suspend treatment with DARZALEX and institute appropriate treatment.
+Resumption of DARZALEX treatment in patients whose HBV reactivation is adequately controlled should be discussed with physicians with expertise in managing HBV.
 
 Excipients
 Each 5 mL and 20 mL vial of DARZALEX contains 0.4 mmol and 1.6 mmol (9.3 mg and 37.3 mg) sodium, respectively.

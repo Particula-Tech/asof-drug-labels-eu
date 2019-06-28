@@ -13,7 +13,6 @@ Daratumumab binds to CD38 on RBCs and interferes with compatibility testing, inc
 Daratumumab interference mitigation methods include treating reagent RBCs with dithiothreitol (DTT) to disrupt daratumumab binding or other locally validated methods.
 Since the Kell blood group system is also sensitive to DTT treatment, Kell-negative units should be supplied after ruling out or identifying alloantibodies using DTT-treated RBCs.
 Alternatively, phenotyping or genotyping may also be considered (see section 4.4).
-
 Interference with Serum Protein Electrophoresis and Immunofixation Tests
 Daratumumab may be detected on serum protein electrophoresis (SPE) and immunofixation (IFE) assays used for monitoring disease monoclonal immunoglobulins (M protein).
 This can lead to false positive SPE and IFE assay results for patients with IgG kappa myeloma protein impacting initial assessment of complete responses by International Myeloma Working Group (IMWG) criteria.

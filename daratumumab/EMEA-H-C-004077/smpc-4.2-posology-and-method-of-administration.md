@@ -4,6 +4,7 @@ DARZALEX should be administered by a healthcare professional, in an environment 
 
 Pre- and post-infusion medications should be administered to reduce the risk of infusion-related reactions (IRRs) with daratumumab.
 See below “Recommended concomitant medications”, “Management of infusion-related reactions” and section 4.4.
+
 Posology
 Newly diagnosed multiple myeloma
 Dosing schedule in combination with bortezomib, melphalan and prednisone (6-week cycle regimens) for patients ineligible for autologous stem cell transplant:
@@ -53,6 +54,7 @@ Table 3: DARZALEX dosing schedule in combination with bortezomib (3-week cycle d
 a First dose of the every-3-week dosing schedule is given at Week 10 b First dose of the every-4-week dosing schedule is given at Week 25
 
 For dose and schedule of medicinal products administered with DARZALEX, see section 5.1 and the corresponding Summary of Product Characteristics.
+
 Infusion rates
 Following dilution the DARZALEX infusion should be intravenously administered at the initial infusion rate presented in Table 4 below.
 Incremental escalation of the infusion rate should be considered only in the absence of infusion reactions.
@@ -100,6 +102,7 @@ Dose modifications
 No dose reductions of DARZALEX are recommended.
 Dose delay may be required to allow recovery of blood cell counts in the event of haematological toxicity (see section 4.4).
 For information concerning medicinal products given in combination with DARZALEX, see corresponding Summary of Product Characteristics.
+
 Recommended concomitant medications
 Pre-infusion medication
 Pre-infusion medications should be administered to reduce the risk of IRRs to all patients 1-3 hours prior to every infusion of DARZALEX as follows:
@@ -145,10 +148,10 @@ Based on population PK analyses, no dosage adjustments are necessary for patient
 
 Elderly
 No dose adjustments are considered necessary (see section 5.2).
+
 Paediatric population
 The safety and efficacy of DARZALEX in children aged below 18 years of age have not been established.
 No data are available (see section 5.1).
-
 Method of administration
 DARZALEX is for intravenous use.
 It is administered as an intravenous infusion following dilution with sodium chloride 9 mg/mL (0.9%) solution for injection.
