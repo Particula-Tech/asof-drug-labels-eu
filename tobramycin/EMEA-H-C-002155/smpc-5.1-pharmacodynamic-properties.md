@@ -65,6 +65,7 @@ The proportions of patients requiring hospitalisation for respiratory events wer
 A difference in FEV1 response by age was noted.
 In the patients aged <20 years the increase from baseline percent predicted FEV1 was larger: 11.3% for TOBI Podhaler and 6.9% for the nebuliser solution after 3 cycles.
 A numerically lower response in patients aged ≥20 years was observed: the change from baseline FEV1 observed in the patients aged ≥20 years was smaller (0.3% with TOBI Podhaler and 0.9% with TOBI nebuliser solution).
+
 Furthermore, an improvement of 6% in percent predicted FEV1 was obtained in about 30% versus 36% of the adult patients in the TOBI Podhaler and TOBI nebuliser solution group respectively.
 
 Treatment with TOBI Podhaler for 28 days resulted in a statistically significant reduction in P. aeruginosa sputum density (-1.61 log10 CFUs), as did the nebuliser solution (-0.77 log10 CFUs).
