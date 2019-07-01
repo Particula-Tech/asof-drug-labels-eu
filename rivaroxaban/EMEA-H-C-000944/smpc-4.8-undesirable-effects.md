@@ -89,7 +89,7 @@ vomitingA
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
 | Pain in extremityA | Haemarthrosis | Muscle haemorrhage |  | Compartment syndrome secondary to a bleeding |
 | Renal and urinary disorders |  |  |  |  |
-| Urogenital tract haemorrhage (incl. haematuria and menorrhagiaB), renal impairment (incl. blood creatinine increased, blood urea increased)A |  |  |  | Renal failure/acute renal failure secondary to a bleeding sufficient to cause hypoperfusion |
+| Urogenital tract haemorrhage (incl. haematuria and menorrhagiaB), renal impairment (incl. blood creatinine increased, blood urea increased) |  |  |  | Renal failure/acute renal failure secondary to a bleeding sufficient to cause hypoperfusion |
 | General disorders and administration site conditions |  |  |  |  |
 | FeverA, peripheral oedema, decreased general strength and energy (incl. fatigue and asthenia) | Feeling unwell (incl. malaise) | Localised oedemaA |  |  |
 | Investigations |  |  |  |  |
@@ -157,7 +157,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
 | Pain in extremityA | Haemarthrosis | Muscle haemorrhage |  | Compartment syndrome secondary to a bleeding |
 | Renal and urinary disorders |  |  |  |  |
-| Urogenital tract haemorrhage (incl. haematuria and menorrhagiaB), renal impairment (incl. blood creatinine increased, blood urea increased)A |  |  |  | Renal failure/acute renal failure secondary to a bleeding sufficient to cause hypoperfusion |
+| Urogenital tract haemorrhage (incl. haematuria and menorrhagiaB), renal impairment (incl. blood creatinine increased, blood urea increased) |  |  |  | Renal failure/acute renal failure secondary to a bleeding sufficient to cause hypoperfusion |
 | General disorders and administration site conditions |  |  |  |  |
 | FeverA, peripheral oedema, decreased general strength and energy (incl. fatigue and asthenia) | Feeling unwell (incl. malaise) | Localised oedemaA |  |  |
 | Investigations |  |  |  |  |
