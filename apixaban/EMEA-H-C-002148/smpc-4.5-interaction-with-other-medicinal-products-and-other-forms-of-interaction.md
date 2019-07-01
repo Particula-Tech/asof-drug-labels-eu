@@ -19,7 +19,7 @@ No dose adjustment for apixaban is required during concomitant therapy with such
 Apixaban is not recommended for the treatment of DVT and PE in patients receiving concomitant systemic treatment with strong inducers of both CYP3A4 and P-gp since efficacy may be compromised (see section 4.4).
 
 Anticoagulants, platelet aggregation inhibitors, SSRIs/SNRIs and NSAIDs
-Due to an increased bleeding risk, concomitant treatment with any other anticoagulants is contraindicated (see section 4.3).
+Due to an increased bleeding risk, concomitant treatment with any other anticoagulants is contraindicated except under specific circumstances of switching anticoagulant therapy, when UFH is given at doses necessary to maintain an open central venous or arterial catheter or when UFH is given during catheter ablation for atrial fibrillation (see section 4.3).
 
 After combined administration of enoxaparin (40 mg single dose) with apixaban (5 mg single dose), an additive effect on anti-Factor Xa activity was observed.
 

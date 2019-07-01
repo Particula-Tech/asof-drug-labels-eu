@@ -2,7 +2,6 @@
 
 Summary of the safety profile
 The safety of apixaban has been investigated in 7 Phase III clinical studies including more than 21,000 patients: more than 5,000 patients in VTEp studies, more than 11,000 patients in NVAF studies and more than 4,000 patients in the VTE treatment (VTEt) studies, for an average total exposure of 20 days, 1.7 years and 221 days respectively (see section 5.1).
-
 Common adverse reactions were haemorrhage, contusion, epistaxis, and haematoma (see Table 2 for adverse reaction profile and frequencies by indication).
 
 In the VTEp studies, in total, 11% of the patients treated with apixaban 2.5 mg twice daily experienced adverse reactions.
@@ -16,6 +15,7 @@ In the VTEt studies, the overall incidence of adverse reactions related to bleed
 
 Tabulated list of adverse reactions
 Table 2 shows the adverse reactions ranked under headings of system organ class and frequency using the following convention: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data) for VTEp, NVAF, and VTEt respectively.
+
 Table 2
 
 | System Organ Class | Prevention of VTE in adult patients who have undergone elective hip or knee replacement surgery (VTEp) | Prevention of stroke and systemic embolism in adult patients with NVAF, with one or more risk factors (NVAF) | Treatment of DVT and PE, and prevention of recurrent DVT and PE (VTEt) |
@@ -52,6 +52,7 @@ Table 2
 | Alanine aminotransferase increased | Uncommon | Uncommon | Common |
 | Skin and subcutaneous tissue disorders |  |  |  |
 | Skin rash | Not known | Uncommon | Common |
+| Alopecia | Rare | Uncommon | Uncommon |
 | Musculoskeletal and connective tissue disorders |  |  |  |
 | Muscle haemorrhage | Rare | Rare | Uncommon |
 | Renal and urinary disorders |  |  |  |
@@ -122,6 +123,7 @@ Table 2 shows the adverse reactions ranked under headings of system organ class 
 | Alanine aminotransferase increased | Uncommon | Common |
 | Skin and subcutaneous tissue disorders |  |  |
 | Skin rash | Uncommon | Common |
+| Alopecia | Uncommon | Uncommon |
 | Musculoskeletal and connective tissue disorders |  |  |
 | Muscle haemorrhage | Rare | Uncommon |
 | Renal and urinary disorders |  |  |

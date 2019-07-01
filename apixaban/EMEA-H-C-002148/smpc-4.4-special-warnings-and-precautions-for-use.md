@@ -4,6 +4,7 @@ Haemorrhage risk
 As with other anticoagulants, patients taking Eliquis are to be carefully observed for signs of bleeding.
 It is recommended to be used with caution in conditions with increased risk of haemorrhage.
 Eliquis administration should be discontinued if severe haemorrhage occurs (see sections 4.8 and 4.9).
+
 Although treatment with apixaban does not require routine monitoring of exposure, a calibrated quantitative anti-Factor Xa assay may be useful in exceptional situations where knowledge of apixaban exposure may help to inform clinical decisions, e.g., overdose and emergency surgery (see section 5.1).
 
 Interaction with other medicinal products affecting haemostasis
@@ -29,6 +30,9 @@ Patients with prosthetic heart valves
 Safety and efficacy of Eliquis have not been studied in patients with prosthetic heart valves, with or without atrial fibrillation.
 Therefore, the use of Eliquis is not recommended in this setting.
 
+Patients with antiphospholipid syndrome
+Direct acting Oral Anticoagulants (DOACs) including apixaban are not recommended for patients with a history of thrombosis who are diagnosed with antiphospholipid syndrome.
+In particular for patients that are triple positive (for lupus anticoagulant, anticardiolipin antibodies, and anti-beta 2-glycoprotein I antibodies), treatment with DOACs could be associated with increased rates of recurrent thrombotic events compared with vitamin K antagonist therapy.
 Surgery and invasive procedures
 Eliquis should be discontinued at least 48 hours prior to elective surgery or invasive procedures with a moderate or high risk of bleeding.
 This includes interventions for which the probability of clinically significant bleeding cannot be excluded or for which the risk of bleeding would be unacceptable.
@@ -40,6 +44,9 @@ If surgery or invasive procedures cannot be delayed, appropriate caution should 
 This risk of bleeding should be weighed against the urgency of intervention.
 
 Eliquis should be restarted after the invasive procedure or surgical intervention as soon as possible provided the clinical situation allows and adequate haemostasis has been established (for cardioversion see section 4.2).
+
+For patients undergoing catheter ablation for atrial fibrillation, Eliquis treatment does not need to be interrupted (see sections 4.3, 4.4 and 4.5).
+
 Temporary discontinuation
 Discontinuing anticoagulants, including Eliquis, for active bleeding, elective surgery, or invasive procedures places patients at an increased risk of thrombosis.
 Lapses in therapy should be avoided and if anticoagulation with Eliquis must be temporarily discontinued for any reason, therapy should be restarted as soon as possible.
@@ -63,7 +70,6 @@ Eliquis is not recommended as an alternative to unfractionated heparin in patien
 
 Patients with active cancer
 Efficacy and safety of apixaban in the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE (VTEt) in patients with active cancer have not been established.
-
 Patients with renal impairment
 Limited clinical data indicate that apixaban plasma concentrations are increased in patients with severe renal impairment (creatinine clearance 15-29 mL/min) which may lead to an increased bleeding risk.
 For the prevention of VTE in elective hip or knee replacement surgery (VTEp), the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE (VTEt), apixaban is to be used with caution in patients with severe renal impairment (creatinine clearance 15-29 mL/min) (see sections 4.2 and 5.2).
@@ -74,6 +80,7 @@ In patients with creatinine clearance < 15 mL/min, or in patients undergoing dia
 
 Elderly patients
 Increasing age may increase haemorrhagic risk (see section 5.2).
+
 Also, the coadministration of Eliquis with ASA in elderly patients should be used cautiously because of a potentially higher bleeding risk.
 
 Body weight
@@ -93,7 +100,6 @@ Prior to initiating Eliquis, liver function testing should be performed.
 Interaction with inhibitors of both cytochrome P450 3A4 (CYP3A4) and P-glycoprotein (P-gp)
 The use of Eliquis is not recommended in patients receiving concomitant systemic treatment with strong inhibitors of both CYP3A4 and P-gp, such as azole-antimycotics (e.g., ketoconazole, itraconazole, voriconazole and posaconazole) and HIV protease inhibitors (e.g., ritonavir).
 These medicinal products may increase apixaban exposure by 2-fold (see section 4.5), or greater in the presence of additional factors that increase apixaban exposure (e.g., severe renal impairment).
-
 Interaction with inducers of both CYP3A4 and P-gp
 The concomitant use of Eliquis with strong CYP3A4 and P-gp inducers (e.g., rifampicin, phenytoin, carbamazepine, phenobarbital or St. John’s Wort) may lead to a ~50% reduction in apixaban exposure.
 In a clinical study in atrial fibrillation patients, diminished efficacy and a higher risk of bleeding were observed with coadministration of apixaban with strong inducers of both CYP3A4 and P-gp compared with using apixaban alone.

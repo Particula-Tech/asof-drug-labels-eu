@@ -94,15 +94,21 @@ VTEp and VTEt – No dose adjustment required (see sections 4.4 and 5.2).
 
 NVAF – No dose adjustment required, unless criteria for dose reduction are met (see Dose reduction at the beginning of section 4.2).
 
+Patients undergoing catheter ablation (NVAF)
+Patients can continue apixaban use while undergoing catheter ablation (see sections 4.3, 4.4 and 4.5).
 Patients undergoing cardioversion
 Apixaban can be initiated or continued in NVAF patients who may require cardioversion.
-For patients not previously treated with anticoagulants, at least 5 doses of apixaban 5 mg twice daily (2.5 mg twice daily in patients who qualify for a dose reduction (see above sections Dose reduction and Renal impairment)) should be given before cardioversion to ensure adequate anticoagulation (see section 5.1).
+
+For patients not previously treated with anticoagulants, exclusion of left atrial thrombus using an image guided approach (e.g. transesophogeal echocardiography (TEE) or computed tomographic scan (CT)) prior to cardioversion should be considered, in accordance with established medical guidelines.
+
+For patients initiating treatment with apixaban, 5 mg should be given twice daily for at least 2.5 days (5 single doses) before cardioversion to ensure adequate anticoagulation (see section 5.1).
+The dosing regimen should be reduced to 2.5 mg apixaban given twice daily for at least 2.5 days (5 single doses) if the patient meets the criteria for dose reduction (see above sections Dose reduction and Renal impairment).
 
 If cardioversion is required before 5 doses of apixaban can be administered, a 10 mg loading dose should be given, followed by 5 mg twice daily.
 The dosing regimen should be reduced to a 5 mg loading dose followed by 2.5 mg twice daily if the patient meets the criteria for dose reduction (see above sections Dose reduction and Renal impairment).
 The administration of the loading dose should be given at least 2 hours before cardioversion (see section 5.1).
 
-Confirmation should be sought prior to cardioversion that the patient has taken apixaban as prescribed.
+For all patients undergoing cardioversion, confirmation should be sought prior to cardioversion that the patient has taken apixaban as prescribed.
 Decisions on initiation and duration of treatment should take established guideline recommendations for anticoagulant treatment in patients undergoing cardioversion into account.
 
 Paediatric population

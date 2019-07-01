@@ -6,6 +6,7 @@ Microcrystalline cellulose (E460)
 Croscarmellose sodium
 Sodium laurilsulfate
 Magnesium stearate (E470b)
+
 Film coat:
 Lactose monohydrate
 Hypromellose (E464)

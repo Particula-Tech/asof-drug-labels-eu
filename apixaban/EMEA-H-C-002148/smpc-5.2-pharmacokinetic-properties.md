@@ -21,7 +21,6 @@ Given the predictable, dose-proportional pharmacokinetic profile of apixaban, th
 Distribution
 Plasma protein binding in humans is approximately 87%.
 The volume of distribution (Vss) is approximately 21 litres.
-
 Biotransformation and elimination
 Apixaban has multiple routes of elimination.
 Of the administered apixaban dose in humans, approximately 25% was recovered as metabolites, with the majority recovered in faeces.
@@ -44,6 +43,7 @@ Renal impairment had no evident effect on the relationship between apixaban plas
 In subjects with end-stage renal disease (ESRD), the AUC of apixaban was increased by 36% when a single dose of apixaban 5 mg was administered immediately after haemodialysis, compared to that seen in subjects with normal renal function.
 Haemodialysis, started two hours after administration of a single dose of apixaban 5 mg, decreased apixaban AUC by 14% in these ESRD subjects, corresponding to an apixaban dialysis clearance of 18 mL/min.
 Therefore, haemodialysis is unlikely to be an effective means of managing apixaban overdose.
+
 Hepatic impairment
 In a study comparing 8 subjects with mild hepatic impairment, Child-Pugh A score 5 (n = 6) and score 6 (n = 2), and 8 subjects with moderate hepatic impairment, Child-Pugh B score 7 (n = 6) and score 8 (n = 2), to 16 healthy control subjects, the single-dose pharmacokinetics and pharmacodynamics of apixaban 5 mg were not altered in subjects with hepatic impairment.
 Changes in anti-Factor Xa activity and INR were comparable between subjects with mild to moderate hepatic impairment and healthy subjects.
@@ -60,7 +60,6 @@ Findings from a population pharmacokinetic analysis in patients who received api
 
 Body weight
 Compared to apixaban exposure in subjects with body weight of 65 to 85 kg, body weight > 120 kg was associated with approximately 30% lower exposure and body weight < 50 kg was associated with approximately 30% higher exposure.
-
 Pharmacokinetic/pharmacodynamic relationship
 The pharmacokinetic /pharmacodynamic (PK/PD) relationship between apixaban plasma concentration and several PD endpoints (anti-FXa activity, INR, PT, aPTT) has been evaluated after administration of a wide range of doses (0.5 – 50 mg).
 The relationship between apixaban plasma concentration and anti-Factor Xa activity was best described by a linear model.
