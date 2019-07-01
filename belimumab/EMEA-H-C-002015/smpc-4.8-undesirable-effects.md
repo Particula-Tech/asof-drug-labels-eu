@@ -2,7 +2,7 @@
 
 Summary of the safety profile
 
-The safety of belimumab in patients with SLE has been evaluated in 3 placebo-controlled intravenous studies and 1 placebo-controlled subcutaneous study.
+The safety of belimumab in patients with SLE has been evaluated in 3 pre-registration, placebo-controlled intravenous studies, 1 placebo-controlled subcutaneous study, and one post-marketing, placebo-controlled intravenous study.
 
 The data presented in the table below reflect exposure to Benlysta administered (10 mg/kg intravenously over a 1-hour period on Days 0, 14, 28, and then every 28 days for up to 52 weeks) in 674 patients with SLE, including 472 exposed for at least 52 weeks, and 556 patients exposed to 200 mg Benlysta subcutaneously once weekly for up to 52 weeks.
 The safety data presented include data beyond Week 52 in some patients.
@@ -35,6 +35,7 @@ The frequency given is the highest seen with either formulation.
 |  | Uncommon | Anaphylactic reaction |
 |  | Rare | Delayed-type, non-acute hypersensitivity reactions |
 | Psychiatric disorders | Common | Depression |
+|  | Uncommon | Suicidal behaviour, suicidal ideation |
 | Nervous system disorders | Common | Migraine |
 | Gastrointestinal disorders | Very common | Diarrhoea, nausea |
 | Skin and subcutaneous tissue disorders | Common | Injection site reactions** |
@@ -45,9 +46,11 @@ The frequency given is the highest seen with either formulation.
 *‘Hypersensitivity reactions’ covers a group of terms, including anaphylaxis, and can manifest as a range of symptoms including hypotension, angioedema, urticaria or other rash, pruritus, and dyspnoea. ‘Infusion or injection-related systemic reactions’ covers a group of terms and can manifest as a range of symptoms including bradycardia, myalgia, headache, rash, urticaria, pyrexia, hypotension, hypertension, dizziness, and arthralgia.
 Due to overlap in signs and symptoms, it is not possible to distinguish between hypersensitivity reactions and infusion reactions in all cases.
 **Applies to subcutaneous formulation only.
+
 Description of selected adverse reactions
 
-Data presented below are pooled from the intravenous clinical trials (10 mg/kg intravenous dose only) and the subcutaneous clinical trial.
+Data presented below are pooled from the intravenous clinical studies (10 mg/kg intravenous dose only) and the subcutaneous clinical study.
+Psychiatric disorders also includes data from a post-marketing study.
 
 Infusion or injection-related systemic reactions and hypersensitivity: Infusion or injection-related systemic reactions and hypersensitivity were generally observed on the day of administration, but acute hypersensitivity reactions may also occur several days after dosing.
 Patients with a history of multiple drug allergies or significant hypersensitivity reactions may be at increased risk.
@@ -63,14 +66,25 @@ Serious infections occurred in 5% of patients in both groups receiving Benlysta 
 Infections leading to discontinuation of treatment occurred in 0.7% of patients receiving Benlysta and 1.5% of patients receiving placebo.
 Some infections were severe or fatal.
 
-Leucopenia: The incidence of leucopenia reported as an adverse event was 3% in the group receiving Benlysta and 2% in the group receiving placebo.
+Psychiatric disorders: In the pre-registration intravenous clinical studies, serious psychiatric events were reported in 1.2% (8/674) of patients receiving Benlysta 10 mg/kg and 0.4% (3/675) of patients receiving placebo.
+Serious depression was reported in 0.6% (4/674) of patients receiving Benlysta 10 mg/kg and 0.3% (2/675) of patients receiving placebo.
+There were two suicides in Benlysta-treated patients (including one receiving 1 mg/kg Benlysta).
 
-Psychiatric disorders: The incidence of depression reported as an adverse event was 3% in both groups receiving Benlysta or placebo.
+In a randomised, double-blind, placebo-controlled, post-marketing study with Benlysta 10 mg/kg administered intravenously, serious psychiatric events were reported in 1.0% (20/2002) of patients receiving Benlysta and 0.3% (6/2001) of patients receiving placebo.
+Serious depression was reported in 0.3% (7/2002) of patients receiving Benlysta and <0.1% (1/2001) of patients receiving placebo.
+The overall incidence of serious suicidal ideation or behaviour or self-injury without suicidal intent was 0.7% (15/2002) in patients receiving Benlysta and 0.2% (5/2001) in the placebo group.
+No suicide was reported in either group.
+
+The intravenous studies did not exclude patients with a history of psychiatric disorders.
+
+In the subcutaneous clinical study, which excluded patients with a history of psychiatric disorders, serious psychiatric events were reported in 0.2% (1/556) of patients receiving Benlysta and in no patients receiving placebo.
+There were no serious depression-related events or suicides reported in either group.
+
+Leucopenia: The incidence of leucopenia reported as an adverse event was 3% in the group receiving Benlysta and 2% in the group receiving placebo.
 
 Injection site reactions: In the subcutaneous trial, the frequency of injection site reactions was 6.1% (34/556) and 2.5% (7/280) for patients receiving Benlysta and placebo, respectively.
 These injection site reactions (most commonly pain, erythema, hematoma, pruritus and induration) were mild to moderate in severity.
 The majority did not necessitate drug discontinuation.
-
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

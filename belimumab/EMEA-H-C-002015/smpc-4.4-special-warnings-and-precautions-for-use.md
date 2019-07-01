@@ -38,6 +38,13 @@ Physicians should exercise caution when considering the use of Benlysta in patie
 Patients who develop an infection while undergoing treatment with Benlysta should be monitored closely and careful consideration given to interrupting immunosuppressant therapy including belimumab until the infection is resolved.
 The risk of using Benlysta in patients with active or latent tuberculosis is unknown.
 
+Depression and suicidality
+
+In controlled clinical intravenous and subcutaneous studies, psychiatric disorders (depression, suicidal ideation and behaviour including suicides) have been reported more frequently in patients receiving Benlysta (see section 4.8).
+Physicians should assess the risk of depression and suicide considering the patient’s medical history and current psychiatric status before treatment with Benlysta and continue to monitor patients during treatment.
+Physicians should advise patients (and caregivers where appropriate) to contact their health care provider about new or worsening psychiatric symptoms.
+In patients who experience such symptoms, treatment discontinuation should be considered.
+
 Progressive multifocal leukoencephalopathy
 
 Progressive multifocal leukoencephalopathy (PML) has been reported with Benlysta treatment for SLE.

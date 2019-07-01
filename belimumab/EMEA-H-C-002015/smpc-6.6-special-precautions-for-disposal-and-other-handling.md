@@ -9,12 +9,12 @@ Any unused medicinal product or waste material should be disposed of in accordan
 Preparation of 120 mg solution for infusion
 
 Reconstitution
+
 Reconstitution and dilution must be carried out under aseptic conditions.
 
 Allow 10 to 15 minutes for the vial to warm to room temperature (15°C to 25°C).
 
 It is recommended that a 21-25 gauge needle be used when piercing the vial stopper for reconstitution and dilution.
-
 The 120 mg single-use vial of belimumab is reconstituted with 1.5 ml of water for injections to yield a final concentration of 80 mg/ml belimumab.
 
 The stream of water for injections should be directed toward the side of the vial to minimize foaming.

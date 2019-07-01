@@ -3,13 +3,13 @@
 Women of childbearing potential/Contraception in males and females
 
 Women of childbearing potential must use effective contraception during Benlysta treatment and for at least 4 months after the last treatment.
-
 Pregnancy
 
 There are a limited amount of data from the use of Benlysta in pregnant women.
 No formal studies have been conducted.
 Besides an expected pharmacological effect i.e. reduction of B cells, animal studies in monkeys do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
 Benlysta should not be used during pregnancy unless the potential benefit justifies the potential risk to the foetus.
+
 Breast-feeding
 
 It is unknown whether Benlysta is excreted in human milk or is absorbed systemically after ingestion.

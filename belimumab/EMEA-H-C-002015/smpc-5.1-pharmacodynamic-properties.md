@@ -56,20 +56,19 @@ The primary efficacy endpoint was a composite endpoint (SLE Responder Index) tha
 - no worsening (<0.30 point increase) in Physician’s Global Assessment score (PGA)
 
 The SLE Responder Index measures improvement in SLE disease activity, without worsening in any organ system, or in the patient’s overall condition.
-
 Table 1: Response rate at week 52
 
 | Response | Placebo (n=279) | Benlysta 200 mg weekly (n=554) |
 | --- | --- | --- |
 | SLE responder index | 48.4% | 61.4% (p=0.0006) |
-| Observed difference vs placebo |  | 12.98% |
-| Odds ratio (95% CI) vs placebo |  | 1.68 (1.25, 2.25) |
+| Observed difference vs placebo Odds ratio (95% CI) vs placebo |  | 12.98% 1.68 (1.25, 2.25) |
 | Components of SLE responder index |  |  |
 | Percent of patients with reduction in SELENA-SLEDAI ≥4 | 49.1% | 62.3% (p=0.0005) |
 | Percent of patients with no worsening by BILAG index | 74.2% | 80.9% (p=0.0305) |
 | Percent of patients with no worsening by PGA | 72.8% | 81.2% (p=0.0061) |
 
 All patients received standard therapy.
+
 The differences between the treatment groups were apparent by Week 16 and sustained through Week 52 (Figure 1).
 
 Figure 1.
@@ -130,7 +129,6 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 Changes in biomarkers were seen in clinical trials with Benlysta administered intravenously.
 In patients with hypergammaglobulinemia, normalization of IgG levels was observed by Week 52 in 49% and 20% of patients receiving Benlysta and placebo, respectively.
-
 In patients with anti-dsDNA antibodies, 16% of patients treated with Benlysta converted to anti-dsDNA negative compared with 7% of the patients receiving placebo by Week 52.
 
 In patients with low complement levels, normalization of C3 and C4 was observed by Week 52 in 38% and 44% of patients receiving Benlysta and in 17% and 18% of patients receiving placebo, respectively.
@@ -159,7 +157,6 @@ Patients who had severe active lupus nephritis and patients who had severe activ
 
 BLISS-76 was conducted primarily in North America and Western Europe.
 Background medicinal products included corticosteroids (76%; >7.5 mg/day 46%), immunosuppressives (56%), and anti-malarials (63%).
-
 BLISS-52 was conducted in South America, Eastern Europe, Asia, and Australia.
 Background medicinal products included corticosteroids (96%; >7.5 mg/day 69%), immunosuppressives (42%), and anti-malarials (67%).
 
@@ -168,16 +165,15 @@ At baseline 52% of patients had high disease activity (SELENA SLEDAI score ≥10
 | Response | BLISS-76 |  | BLISS-52 |  | BLISS-76 and BLISS-52 Pooled |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Placebo* (n=275) | Benlysta 10 mg/kg* (n=273) | Placebo* (n=287) | Benlysta 10 mg/kg* (n=290) | Placebo* (n=562) | Benlysta 10 mg/kg* (n=563) |
-| SLE responder index | 33.8% | 43.2% (p=0.021) | 43.6% | 57.6% (p=0.0006) | 38.8% | 50.6% (p<0.0001) |
-| Observed difference vs placebo |  | 9.4% |  | 14.0% |  | 11.8% |
-| Odds ratio (95% CI) vs placebo |  | 1.52 (1.07, 2.15) |  | 1.83 (1.30,2.59) |  | 1.68 (1.32,2.15) |
+| SLE responder index Observed difference vs placebo Odds ratio (95% CI) vs placebo | 33.8% | 43.2% (p=0.021) | 43.6% | 57.6% (p=0.0006) | 38.8% | 50.6% (p<0.0001) |
+|  |  | 9.4% |  | 14.0% |  | 11.8% |
+|  |  | 1.52 (1.07, 2.15) |  | 1.83 (1.30,2.59) |  | 1.68 (1.32,2.15) |
 | Components of SLE responder index |  |  |  |  |  |  |
 | Percent of patients with reduction in SELENA-SLEDAI ≥4 | 35.6% | 46.9% (p=0.006) | 46.0% | 58.3% (p= 0.0024) | 40.9% | 52.8% (p<0.0001) |
 | Percent of patients with no worsening by BILAG index | 65.1% | 69.2% (p=0.32) | 73.2% | 81.4% (p=0.018) | 69.2% | 75.5% (p=0.019) |
 | Percent of patients with no worsening by PGA | 62.9% | 69.2% (p=0.13) | 69.3% | 79.7% (p=0.0048) | 66.2% | 74.6% (p=0.0017) |
 
 * All patients received standard therapy
-
 In a pooled analysis of the two studies, the percentage of patients receiving >7.5 mg/day prednisone (or equivalent) at baseline, whose average corticosteroid dose was reduced by at least 25% to a dose equivalent to prednisone ≤7.5 mg/day during Weeks 40 through 52, was 17.9% in the group receiving Benlysta and 12.3% in the group receiving placebo (p=0.0451).
 
 The median time to the first flare was delayed in the pooled group receiving Benlysta compared to the group receiving placebo (110 vs 84 days, hazard ratio=0.84, p=0.012).
@@ -187,6 +183,7 @@ Benlysta demonstrated improvement in fatigue compared with placebo measured by t
 The mean change of score at Week 52 from baseline is significantly greater with Benlysta compared to placebo (4.70 vs 2.46, p=0.0006).
 
 Univariate and multivariate analysis of the primary endpoint in pre-specified subgroups demonstrated that the greatest benefit was observed in patients with higher disease activity including patients with SELENA SLEDAI scores ≥ 10 or patients requiring steroids to control their disease or patients with low complement levels.
+
 Post-hoc analysis has identified high responding subgroups such as those patients with low complement and positive anti-dsDNA at baseline, see Table 2 for results of this example of a higher disease activity group.
 Of these patients, 64.5% had SELENA SLEDAI scores ≥ 10 at baseline.
 
