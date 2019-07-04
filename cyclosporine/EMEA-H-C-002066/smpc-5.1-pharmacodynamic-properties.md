@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Ophthalmologicals, other ophthalmologicals, ATC code: S01XA18.
-
 Mechanism of action and pharmacodynamic effects
 Ciclosporin (also known as ciclosporin A) is a cyclic polypeptide immunomodulator with immunosuppressant properties.
 It has been shown to prolong survival of allogeneic transplants in animals and significantly improved graft survival in all types of solid organ transplantation in man.
@@ -29,8 +28,7 @@ The mean change from baseline in the 100-point OSDI score was -13.6 with IKERVIS
 In addition, no improvement was observed for IKERVIS compared to vehicle at Month 6 for other secondary endpoints, including ocular discomfort score, Schirmer test, use of concomitant artificial tears, investigator’s global evaluation of efficacy, tear break-up time, lissamine green staining, quality of life score, and tear osmolarity.
 A reduction in the ocular surface inflammation assessed with Human Leukocyte Antigen-DR (HLA-DR) expression (an exploratory endpoint), was observed at Month 6 in favour of IKERVIS (p=0.021).
 
-In the 6 month, double-masked, vehicle controlled, supportive clinical trial (SICCANOVE study),
-492 DED patients with moderate to severe keratitis (defined as a CFS score of 2 to 4) were also randomised to IKERVIS or vehicle daily at bedtime for 6 months.
+In the 6 month, double-masked, vehicle controlled, supportive clinical trial (SICCANOVE study), 492 DED patients with moderate to severe keratitis (defined as a CFS score of 2 to 4) were also randomised to IKERVIS or vehicle daily at bedtime for 6 months.
 The co-primary endpoints were the change in CFS score, and the change in global score of ocular discomfort unrelated to study medication instillation, both measured at Month 6.
 A small but statistically significant difference in CFS improvement was observed between the treatment groups at Month 6 in favour of IKERVIS (mean change from baseline in CFS -1.05 with IKERVIS and -0.82 with vehicle, p=0.009).
 The mean change from baseline in ocular discomfort score (assessed using a Visual Analogic Scale) was -12.82 with IKERVIS and -11.21 with vehicle (p=0.808).
