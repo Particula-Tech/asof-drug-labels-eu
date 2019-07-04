@@ -6,9 +6,9 @@ Standard tests to investigate the genotoxicity potential of denosumab have not b
 However, due to its character it is unlikely that denosumab has any potential for genotoxicity.
 
 The carcinogenic potential of denosumab has not been evaluated in long-term animal studies.
-
 In preclinical studies conducted in knockout mice lacking RANK or RANKL, impairment of lymph node formation was observed in the foetus.
 An absence of lactation due to inhibition of mammary gland maturation (lobulo-alveolar gland development during pregnancy) was also observed in knockout mice lacking RANK or RANKL.
+
 In a study of cynomolgus monkeys dosed with denosumab during the period equivalent to the first trimester at AUC exposures up to 99-fold higher than the human dose (60 mg every 6 months), there was no evidence of maternal or foetal harm.
 In this study, foetal lymph nodes were not examined.
 

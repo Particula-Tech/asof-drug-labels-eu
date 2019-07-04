@@ -13,7 +13,7 @@ Clinical monitoring of calcium levels is recommended before each dose and, in pa
 If any patient presents with suspected symptoms of hypocalcaemia during treatment (see section 4.8 for symptoms) calcium levels should be measured.
 Patients should be encouraged to report symptoms indicative of hypocalcaemia.
 
-In the post-marketing setting, severe symptomatic hypocalcaemia has been reported (see section 4.8), with most cases occurring in the first weeks of initiating therapy, but it can occur later.
+In the post-marketing setting, severe symptomatic hypocalcaemia (including fatal cases) has been reported (see section 4.8), with most cases occurring in the first weeks of initiating therapy, but it can occur later.
 
 Concomitant glucocorticoid treatment is an additional risk factor for hypocalcaemia.
 Renal impairment
@@ -73,4 +73,4 @@ Warnings for excipients
 This medicine contains 47 mg sorbitol in each mL of solution.
 The additive effect of concomitantly administered products containing sorbitol (or fructose) and dietary intake of sorbitol (or fructose) should be taken into account.
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per 60 mg i.e. essentially ‘sodium-free’.
+This medicinal product contains less than 1 mmol sodium (23 mg) per 60 mg that is to say essentially ‘sodium-free’.

@@ -9,7 +9,7 @@ Tabulated list of adverse reactions
 
 The data in Table 1 below describe adverse reactions reported from Phase II and III clinical trials in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation; and/or spontaneous reporting.
 
-The following convention has been used for the classification of the adverse reactions (see table 1): very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and very rare (< 1/10,000).
+The following convention has been used for the classification of the adverse reactions (see table 1): very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000) and not known (cannot be estimated from the available data).
 Within each frequency grouping and system organ class, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1.
@@ -22,7 +22,7 @@ Adverse reactions reported in patients with osteoporosis and breast or prostate 
 | Metabolism and nutrition disorders | Rare | Hypocalcaemia1 |
 | Nervous system disorders | Common | Sciatica |
 | Gastrointestinal disorders | Common Common | Constipation Abdominal discomfort |
-| Skin and subcutaneous tissue disorders | Common Common | Rash Eczema |
+| Skin and subcutaneous tissue disorders | Common Common Common Uncommon | Rash Eczema Alopecia Lichenoid drug eruptions1 |
 | Musculoskeletal and connective tissue disorders | Very common Very common Rare Rare Not Known | Pain in extremity Musculoskeletal pain1 Osteonecrosis of the jaw1 Atypical femoral fractures1 Osteonecrosis of the external auditory canal2 |
 
 1 See section Description of selected adverse reactions
@@ -42,9 +42,7 @@ Examples of the clinical manifestations of severe symptomatic hypocalcaemia have
 Symptoms of hypocalcaemia in denosumab clinical studies included paraesthesias or muscle stiffness, twitching, spasms and muscle cramps.
 
 Skin infections
-In phase III placebo-controlled clinical trials, the overall incidence of skin infections was similar in the placebo and the Prolia groups: in postmenopausal women with osteoporosis (placebo [1.2%,
-50 out of 4,041] versus Prolia [1.5%, 59 out of 4,050]); in men with osteoporosis (placebo [0.8%,
-1 out of 120] versus Prolia [0%, 0 out of 120]); in breast or prostate cancer patients receiving hormone ablation (placebo [1.7%, 14 out of 845] versus Prolia [1.4%, 12 out of 860]).
+In phase III placebo-controlled clinical trials, the overall incidence of skin infections was similar in the placebo and the Prolia groups: in postmenopausal women with osteoporosis (placebo [1.2%, 50 out of 4,041] versus Prolia [1.5%, 59 out of 4,050]); in men with osteoporosis (placebo [0.8%, 1 out of 120] versus Prolia [0%, 0 out of 120]); in breast or prostate cancer patients receiving hormone ablation (placebo [1.7%, 14 out of 845] versus Prolia [1.4%, 12 out of 860]).
 Skin infections leading to hospitalisation were reported in 0.1% (3 out of 4,041) of postmenopausal women with osteoporosis receiving placebo versus 0.4% (16 out of 4,050) of women receiving Prolia.
 These cases were predominantly cellulitis.
 Skin infections reported as serious adverse reactions were similar in the placebo (0.6%, 5 out of 845) and the Prolia (0.6%, 5 out of 860) groups in the breast and prostate cancer studies.
@@ -68,6 +66,9 @@ Musculoskeletal pain
 Musculoskeletal pain, including severe cases, has been reported in patients receiving Prolia in the post-marketing setting.
 In clinical trials, musculoskeletal pain was very common in both denosumab and placebo groups.
 Musculoskeletal pain leading to discontinuation of study treatment was uncommon.
+
+Lichenoid drug eruptions
+Lichenoid drug eruptions (e.g. lichen planus-like reactions), have been reported in patients in the post-marketing setting.
 
 Other special populations
 
