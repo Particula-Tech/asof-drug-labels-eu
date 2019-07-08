@@ -2,11 +2,11 @@
 
 Summary of the safety profile
 
-The safety of atezolizumab as monotherapy is based on pooled data in 3,075 patients across multiple tumour types.
-The most common adverse reactions (> 10%) were fatigue (35.5%), decreased appetite (26.0%), nausea (23.7%), cough (20.7%), dyspnoea (20.7%), pyrexia (19.9%), diarrhoea (19.8%), rash (19.2%), back pain (15.3%), vomiting (15.3%), asthenia (14.8%), arthralgia (13.9%), pruritus (12.5%) and urinary tract infection (11.7%).
+The safety of atezolizumab as monotherapy is based on pooled data in 3,178 patients across multiple tumour types.
+The most common adverse reactions (> 10%) were fatigue (35.9%), decreased appetite (25.5%), nausea (23.5%), cough (20.8%), dyspnoea (20.5%), pyrexia (20.1%), diarrhoea (19.7%), rash (19.5%), back pain (15.3%), vomiting (15.1%), asthenia (14.5%), arthralgia (13.9%), musculoskeletal pain (13.1%), pruritus (12.6%) and urinary tract infection (11.6%).
 
-The safety of atezolizumab given in combination with paclitaxel and carboplatin, with or without bevacizumab, has been evaluated in 793 patients with metastatic NSCLC.
-The most common adverse reactions (≥ 20%) were peripheral neuropathy (42.6%), nausea (35.6%), anaemia (32.7%), neutropenia (32.4%), rash (29.8%), fatigue (29.6%), constipation (27.2%), decreased appetite (26.2%), diarrhoea (26.0%), thrombocytopenia (24.0%), arthralgia (23.8%).
+The safety of atezolizumab given in combination with other agents, has been evaluated in 1345 patients across multiple tumour types.
+The most common adverse reactions (≥ 20%) were fatigue (33.2%), rash (30.4%), nausea (30.2%), peripheral neuropathy (28.3%), diarrhea (27.6%), arthralgia (24.7%), constipation (24.0%), decreased appetite (23.3%), anaemia (23.0%) and musculoskeletal pain (22.9%).
 
 Further details on serious adverse events are provided in Section 4.4 Warnings & Precautions.
 
@@ -21,12 +21,13 @@ clinical trials with combination therapy. The following categories of frequency 
 
 common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
-Table 2: Summary of adverse reactions occurring in patients treated with atezolizumab in clinical trials
+
+Table 2: Summary of adverse reactions occurring in patients treated with atezolizumab
 
 | Atezolizumab monotherapy |  | Atezolizumab in combination therapy |
 | --- | --- | --- |
 | Infections and infestations |  |  |
-| Very common | urinary tract infectionsa |  |
+| Very common | urinary tract infectiona |  |
 | Blood and lymphatic system disorders |  |  |
 | Very common |  | anaemia, thrombocytopeniab, neutropeniac |
 | Common | thrombocytopeniab |  |
@@ -38,8 +39,8 @@ Table 2: Summary of adverse reactions occurring in patients treated with atezoli
 | Uncommon | hyperthyroidisme, diabetes mellitusf, adrenal insufficiencyg |  |
 | Rare | hypophysitis |  |
 | Metabolism and nutrition disorders |  |  |
-| Very common | decreased appetite | decreased appetite, hypomagnesaemia |
-| Common | hypokalaemia, hyponatremia | hypokalaemia, hyponatremia |
+| Very common | decreased appetite | decreased appetite, |
+| Common | hypokalaemia, hyponatraemia, hyperglycaemia | hypokalaemia, hyponatraemia, hypomagnesaemia |
 | Nervous system disorders |  |  |
 | Very Common |  | peripheral neuropathyh |
 | Uncommon | Guillain-Barré syndromei, meningoencephalitisj |  |
@@ -50,29 +51,31 @@ Table 2: Summary of adverse reactions occurring in patients treated with atezoli
 | Common | hypotension |  |
 | Respiratory, thoracic, and mediastinal disorders |  |  |
 | Very common | cough, dyspnoea | dyspnoea |
-| Common | pneumonitisl, hypoxia, nasal congestion |  |
+| Common | pneumonitisl, hypoxia, nasal congestion, nasopharyngitis | dysphonia |
 | Gastrointestinal disorders |  |  |
 | Very common | nausea, vomiting, diarrhoeam | nausea, diarrhoeam, constipation |
-| Common | abdominal pain, colitisn, dysphagia | stomatitis |
-| Uncommon | pancreatitiso |  |
+| Common | abdominal pain, colitisn, dysphagia, oropharyngeal paino | stomatitis |
+| Uncommon | pancreatitisp |  |
 | Hepatobiliary disorders |  |  |
-| Common | AST increased, ALT increased, hepatitisp |  |
+| Common | AST increased, ALT increased, hepatitisq |  |
 | Skin and subcutaneous tissue disorders |  |  |
-| Very Common | rashq, pruritus | rashq, pruritus |
+| Very Common | rashr, pruritus | rashr, pruritus |
 | Musculoskeletal and connective tissue disorders |  |  |
 | Very common | arthralgia, back pain | arthralgia |
 | Common | musculoskeletal pain |  |
+| Uncommon | Myositiss |  |
 | Renal and urinary disorders |  |  |
-| Rare | nephritisr |  |
+| Very common |  | proteinuriat |
+| Rare | nephritisu |  |
 | General disorders and administration site conditions |  |  |
-| Very Common | pyrexia, fatigue, asthenia | pyrexia, fatigue |
-| Common | infusion-related reactions, influenza like illness, chills |  |
+| Very Common | pyrexia, fatigue, asthenia | pyrexia, fatigue, headache |
+| Common | infusion-related reactionv, influenza like illness, chills |  |
 
 a Includes reports of urinary tract infection, cystitis, pyelonephritis, escherichia urinary tract infection, urinary tract infection bacterial, kidney infection, pyelonephritis acute, urinary tract infection fungal, urinary tract infection pseudomonal.
 b Includes reports of thrombocytopenia and platelet count decreased.
 c Includes reports of neutropenia, neutrophil count decreased, febrile neutropenia, neutropenic sepsis.
 d Includes reports of hypothyroidism, blood thyroid stimulating hormone increased, thyroiditis, autoimmune thyroiditis, blood thyroid stimulating hormone decreased, autoimmune hypothyroidism, euthyroid sick syndrome, myxoedema, thyroid function test abnormal, thyroiditis acute, thyroxine decreased, goitre.
-e Includes reports of hyperthyroidism, endocrine ophthalmopathy, and exophthalmus.
+e Includes reports of hyperthyroidism, endocrine ophthalmopathy, and exophthalmos.
 f Includes reports of diabetes mellitus, type 1 diabetes mellitus, diabetic ketoacidosis and ketoacidosis.
 g Includes reports of adrenal insufficiency and primary adrenal insufficiency.
 h Includes reports of neuropathy peripheral, peripheral sensory neuropathy, polyneuropathy, herpes zoster, peripheral motor neuropathy, neuralgic amyotrophy, peripheral sensorimotor neuropathy, toxic neuropathy.
@@ -82,94 +85,99 @@ k Reported in studies outside the pooled dataset.
 The frequency is based on the program wide exposure.
 l Includes reports of pneumonitis, lung infiltration, bronchiolitis, interstitial lung disease, radiation pneumonitis. m Includes reports of diarrhoea, frequent bowel movements, and gastrointestinal hypermotility.
 n Includes reports of colitis, autoimmune colitis, colitis ischaemic, colitis microscopic, colitis ulcerative.
-o Includes reports of pancreatitis, pancreatitis acute, lipase increased and amylase increased.
-p Includes reports of ascites, autoimmune hepatitis, hepatocellular injury, hepatitis, hepatitis acute, hepatotoxicity, liver disorder, drug-induced liver injury, hepatic failure, hepatic steatosis, hepatic lesion, oesophageal varices haemorrhage, varices oesophageal.
-q Includes reports of acne, eczema, erythema, erythema of eyelid, erythema multiforme, generalised erythema, exfoliative rash, eyelid rash, folliculitis, furuncle, dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis bullous, dermatitis exfoliative, drug eruption, palmar-plantar erythrodysaesthesia syndrome, rash, rash erythematous, rash generalised, rash macular, rash maculo-papular, rash papular, rash papulosquamous, rash pruritic, rash pustular, rash vesicular, seborrhoeic dermatitis, skin exfoliation, skin toxicity, skin ulcer, toxic epidermal necrolysis, toxic skin eruption, eczema infected.
-r Includes report of Henoch-Schonlein Purpura nephritis.
-s Includes infusion-related reaction and cytokine release syndrome.
-
+o Includes reports of oropharyngeal pain, oropharyngeal discomfort and throat irritation.
+p Includes reports of pancreatitis, pancreatitis acute, lipase increased and amylase increased.
+q Includes reports of ascites, autoimmune hepatitis, hepatocellular injury, hepatitis, hepatitis acute, hepatotoxicity, liver disorder, drug-induced liver injury, hepatic failure, hepatic steatosis, hepatic lesion, oesophageal varices haemorrhage, varices oesophageal.
+r Includes reports of acne, eczema, erythema, erythema of eyelid, erythema multiforme, generalised erythema, exfoliative rash, eyelid rash, folliculitis, furuncle, dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis bullous, dermatitis exfoliative, drug eruption, palmar-plantar erythrodysaesthesia syndrome, rash, rash erythematous, rash generalised, rash macular, rash maculo-papular, rash papular, rash papulosquamous, rash pruritic, rash pustular, rash vesicular, seborrhoeic dermatitis, skin exfoliation, skin toxicity, skin ulcer, toxic epidermal necrolysis, toxic skin eruption, eczema infected.
+s Includes reports of myositis, rhabdomyolysis, polymyalgia rheumatica, dermatomyositis, myoglobin urine present.
+t Includes reports of proteinuria, protein urine present.
+u Includes report of Henoch-Schonlein Purpura nephritis.
+v Includes infusion-related reaction and cytokine release syndrome.
 Description of selected adverse reactions
 
 The data below reflect information for significant adverse reactions for atezolizumab as monotherapy in clinical studies (see section 5.1).
 Details for the significant adverse reactions for atezolizumab when given in combination are presented if clinically relevant differences were noted in comparison to atezolizumab monotherapy.
 The management guidelines for these adverse reactions are described in sections 4.2 and 4.4.
+
 Immune-related pneumonitis
-Pneumonitis occurred in 2.8% (86/3,075) of patients who received atezolizumab monotherapy.
-Of the 86 patients, one experienced a fatal event.
-The median time to onset was 3.4 months (range 3 days to 20.5 months).
-The median duration was 1.4 months (range 1 day to 21.2+ months; + denotes a censored value).
+Pneumonitis occurred in 2.7% (87/3,178) of patients who received atezolizumab monotherapy.
+Of the 87 patients, one experienced a fatal event.
+The median time to onset was 3.4 months (range 3 days to 24.8 months).
+The median duration was 1.4 months (range 0 day to 21.2+ months; + denotes a censored value).
 Pneumonitis led to discontinuation of atezolizumab in 12 (0.4%) patients.
-Pneumonitis requiring the use of corticosteroids occurred in 1.5% (45/3,075) of patients receiving atezolizumab monotherapy.
+Pneumonitis requiring the use of corticosteroids occurred in 1.6% (51/3,178) of patients receiving atezolizumab monotherapy.
 
 Immune-related hepatitis
-Hepatitis occurred in 2.0% (62/3,075) of patients who received atezolizumab monotherapy.
+Hepatitis occurred in 2.0% (62/3,178) of patients who received atezolizumab monotherapy.
 Of the 62 patients, two experienced a fatal event.
 The median time to onset was 1.5 months (range 6 days to 18.8 months).
-The median duration was 2.1 months (range 2 days to 22.0+ months; + denotes a censored value).
+The median duration was 2.1 months (range 0 day to 22.0+ months; + denotes a censored value).
 Hepatitis led to discontinuation of atezolizumab in 6 (< 0.2%) patients.
-Hepatitis requiring the use of corticosteroids occurred in 0.4% (12/3,075) of patients receiving atezolizumab monotherapy.
+Hepatitis requiring the use of corticosteroids occurred in 0.6% (18/3,178) of patients receiving atezolizumab monotherapy.
 
 Immune-related colitis
-Colitis occurred in 1.1% (34/3,075) of patients who received atezolizumab monotherapy.
+Colitis occurred in 1.1% (34/3,178) of patients who received atezolizumab monotherapy.
 The median time to onset was 4.7 months (range 15 days to 17.2 months).
 The median duration was 1.2 months (range 3 days to 17.8+ months; + denotes a censored value).
 Colitis led to discontinuation of atezolizumab in 8 (0.3%) patients.
-Colitis requiring the use of corticosteroids occurred in 0.6% (19/3,075) of patients receiving atezolizumab monotherapy.
+Colitis requiring the use of corticosteroids occurred in 0.6% (19/3,178) of patients receiving atezolizumab monotherapy.
 
 Immune-related endocrinopathies
 
 Thyroid disorders
 
-Hypothyroidism occurred in 4.8% (149/3,075) of patients who received atezolizumab monotherapy.
-The median time to onset was 4.9 months (range: 3 days to 31.3 months).
-Hyperthyroidism occurred in 0.9% (28/3,075) of patients who received atezolizumab monotherapy.
+Hypothyroidism occurred in 5.2% (164/3,178) of patients who received atezolizumab monotherapy.
+The median time to onset was 4.9 months (range: 0 day to 31.3 months).
+Hyperthyroidism occurred in 0.9% (30/3,178) of patients who received atezolizumab monotherapy.
 The median time to onset was 2.1 months (range 21 days to 15.7 months).
 
 Adrenal insufficiency
 
-Adrenal insufficiency occurred in 0.4% (12/3,075) of patients who received atezolizumab monotherapy.
+Adrenal insufficiency occurred in 0.4% (12/3,178) of patients who received atezolizumab monotherapy.
 The median time to onset was 5.5 months (range: 3 days to 19 months).
-The median duration was 16.8 months (range: 1 day to 16.8 months).
-Adrenal insufficiency requiring the use of corticosteroids occurred in 0.3% (10/3,075) of patients receiving atezolizumab monotherapy.
+The median duration was 16.8 months (range: 0 day to 16.8 months).
+Adrenal insufficiency led to discontinuation of atezolizumab in 1 (<0.1%) patient.
+Adrenal insufficiency requiring the use of corticosteroids occurred in 0.3% (9/3,178) of patients receiving atezolizumab monotherapy.
 
 Hypophysitis
 
-Hypophysitis occurred in < 0.1% (1/3,075) of patients who received atezolizumab monotherapy.
-The time to onset for this patient was 13.7 months and the patient required the use of corticosteroids.
+Hypophysitis occurred in < 0.1% (2/3,178) of patients who received atezolizumab monotherapy.
+The median time to onset 7.2 months (range: 24 days to 13.7 months).
+One patient required the use of corticosteroids and treatment with atezolizumab was discontinued.
 
 Hypophysitis occurred in 0.8% (3/393) of patients who received atezolizumab with bevacizumab, paclitaxel, and carboplatin.
 The median time to onset was 7.7 months (range: 5.0 to 8.8 months).
 Two patients required the use of corticosteroids.
-
 Diabetes mellitus
 
-Diabetes mellitus occurred in 0.3% (10/3,075) of patients who received atezolizumab monotherapy.
+Diabetes mellitus occurred in 0.3% (11/3,178) of patients who received atezolizumab monotherapy.
 The median time to onset was 3.6 months (range 3 days to 9.9 months).
-Diabetes mellitus led to the discontinuation of atezolizumab in 0.1% (3/3,075) patients.
+Diabetes mellitus led to the discontinuation of atezolizumab in < 0.1% (3/3,178) patients.
+
 Immune-related meningoencephalitis
-Meningoencephalitis occurred in 0.4% (12/3,075) of patients who received atezolizumab monotherapy.
-The median time to onset was 15 days (range: 1 day to 12.5 months).
+Meningoencephalitis occurred in 0.4% (13/3,178) of patients who received atezolizumab monotherapy.
+The median time to onset was 15 days (range: 0 day to 12.5 months).
 The median duration was 26 days (range 6 days to 14.5+ months; + denotes a censored value).
 
-Meningoencephalitis requiring the use of corticosteroids occurred in 0.1% (4/3,075) of patients receiving atezolizumab and all four patients discontinued atezolizumab.
+Meningoencephalitis requiring the use of corticosteroids occurred in 0.2% (6/3,178) of patients receiving atezolizumab and four patients discontinued atezolizumab.
 
 Immune-related neuropathies
-Guillain-Barré syndrome and demyelinating polyneuropathy occurred in 0.2% (5/3,075) of patients who received atezolizumab monotherapy.
+Guillain-Barré syndrome and demyelinating polyneuropathy occurred in 0.2% (5/3,178) of patients who received atezolizumab monotherapy.
 The median time to onset was 7 months (range: 18 days to 8.1 months).
-The median duration was 8.0 months (18 days to 8.3+ months; + denotes a censored value).
+The median duration was 8.0 months (range 18 days to 8.3+ months; + denotes a censored value).
 Guillain-Barré syndrome led to discontinuation of atezolizumab in 1 patient (< 0.1%).
-Guillain-Barré syndrome requiring the use of corticosteroids occurred in < 0.1% (2/3,075) of patients receiving atezolizumab monotherapy.
+Guillain-Barré syndrome requiring the use of corticosteroids occurred in < 0.1% (2/3,178) of patients receiving atezolizumab monotherapy.
 
 Myasthenic syndrome
-Myasthenia gravis occurred in < 0.1% (1/3,075) of patients who received atezolizumab monotherapy.
+Myasthenia gravis occurred in < 0.1% (1/3,178) of patients who received atezolizumab monotherapy.
 The time to onset was 1.2 months.
 
 Immune-related pancreatitis
-Pancreatitis, including amylase increased and lipase increased, occurred in 0.5% (16/3,075) of patients who received atezolizumab monotherapy.
-The median time to onset was 5.5 months (range: 9 days to 16.9 months).
-The median duration was 28 days (range 3 days to 12.0+ months; + denotes a censored value).
-Pancreatitis led to the discontinuation of atezolizumab in 1 (< 0.1%) patient.
-Pancreatitis requiring the use of corticosteroids occurred in 0.1% (3/3,075) of patients receiving atezolizumab monotherapy.
+Pancreatitis, including amylase increased and lipase increased, occurred in 0.6% (18/3,178) of patients who received atezolizumab monotherapy.
+The median time to onset was 5.0 months (range: 9 days to 16.9 months).
+The median duration was 24 days (range 3 days to 12.0+ months; + denotes a censored value).
+Pancreatitis led to the discontinuation of atezolizumab in 3 (< 0.1%) patients.
+Pancreatitis requiring the use of corticosteroids occurred in 0.1% (4/3,178) of patients receiving atezolizumab monotherapy.
 
 Immune-related myocarditis
 Myocarditis occurred in < 0.1% (2/8,000) of patients across all atezolizumab clinical trials in multiple tumour types and treatment combinations.
@@ -177,9 +185,18 @@ The time to onset was 18 and 33 days.
 Both patients required corticosteroids and discontinued atezolizumab.
 
 Immune-related nephritis
-Nephritis occurred in < 0.1% (1/3,075) of patients who received atezolizumab.
-The time to onset was 13.1 months.
-The patient required corticosteroids and discontinued atezolizumab.
+Nephritis occurred in < 0.1% (3/3,178) of patients who received atezolizumab.
+The median time to onset was 13.1 months (range: 9.0 to 17.5 months).
+The median duration was 2.8 months (range 15 days to 9.5+ months; + denotes a censored value).
+Nephritis led to discontinuation of atezolizumab in 2 (<0.1%) patients.
+One patient required corticosteroids and discontinued atezolizumab.
+
+Immune-related myositis
+Myositis occurred in 0.4% (12/3178) of patients who received Tecentriq monotherapy.
+The median time to onset was 5.4 months (range: 0.7 to 11.0 months).
+The median duration was 3.5 months (range 0.1 to 22.6+ months; + denotes a censored value).
+Myositis led to discontinuation of Tecentriq in 1 (<0.1%) patient.
+Seven (0.2%) patients required the use of corticosteroids.
 
 Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin
 In the first-line NSCLC study (IMpower150), an overall higher frequency of adverse events was observed in the four-drug regimen of atezolizumab, bevacizumab, paclitaxel, and carboplatin compared to atezolizumab, paclitaxel and carboplatin, including Grade 3 and 4 events (63.6% compared to 57.5%), Grade 5 events (6.1% compared to 2.5%), adverse events of special interest to atezolizumab (52.4% compared to 48.0%), as well as adverse events leading to withdrawal of any study treatment (33.8% compared to 13.3%).

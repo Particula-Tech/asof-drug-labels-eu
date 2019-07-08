@@ -32,8 +32,8 @@ The schedule of administration must be adjusted to maintain a 3-week interval be
 
 Dose modifications during treatment
 Dose reductions of Tecentriq are not recommended.
-Dose delay or discontinuation (see also sections 4.4 and 4.8)
 
+Dose delay or discontinuation (see also sections 4.4 and 4.8)
 Table 1: Dose modification advice for Tecentriq
 
 | Immune related adverse reaction | Severity | Treatment modification |
@@ -56,13 +56,12 @@ Table 1: Dose modification advice for Tecentriq
 | Myasthenic syndrome/myasthenia gravis, Guillain-Barré syndrome and Meningoencephalitis | All Grades | Permanently discontinue Tecentriq |
 | Pancreatitis | Grade 3 or 4 serum amylase or lipase levels increased (> 2 x ULN) or Grade 2 or 3 pancreatitis | Withhold Tecentriq Treatment may be resumed when serum amylase and lipase levels improve to Grade 0 or Grade 1 within 12 weeks, or symptoms of pancreatitis have resolved, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 4 or any grade of recurrent pancreatitis | Permanently discontinue Tecentriq |
-
-| Immune related adverse reaction | Severity | Treatment modification |
-| --- | --- | --- |
 | Myocarditis | Grade 2 | Withhold Tecentriq Treatment may be resumed when the symptoms improve to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 3 and 4 | Permanently discontinue Tecentriq |
 | Nephritis | Grade 2: (creatinine level > 1.5 to 3.0 x baseline or > 1.5 to 3.0 x ULN) | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 3 or 4: (creatinine level > 3.0 x baseline or > 3.0 x ULN) | Permanently discontinue Tecentriq |
+| Myositis | Grade 2 or 3 | Withhold Tecentriq |
+|  | Grade 4 or grade 3 recurrent myositis | Permanently discontinue Tecentriq |
 | Other immune-related adverse reactions | Grade 2 or Grade 3 | Withhold until adverse reactions recovers to Grade 0-1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day. |
 |  | Grade 4 or recurrent Grade 3 | Permanently discontinue Tecentriq (except endocrinopathies controlled with replacement hormones) |
 
@@ -80,7 +79,7 @@ Elderly
 Based on a population pharmacokinetic analysis, no dose adjustment of Tecentriq is required in patients ≥ 65 years of age (see sections 4.8 and 5.1).
 
 Asian patients
-Due to increased hematologic toxicities observed in Asian patients in IMpower150, it is recommended that the starting dose of paclitaxel should be 175 mg/m2 every three weeks.
+Due to increased haematologic toxicities observed in Asian patients in IMpower150, it is recommended that the starting dose of paclitaxel should be 175 mg/m2 every three weeks.
 
 Renal impairment
 Based on a population pharmacokinetic analysis, no dose adjustment is required in patients with mild or moderate renal impairment (see section 5.2).
@@ -89,9 +88,9 @@ Data from patients with severe renal impairment are too limited to draw conclusi
 Hepatic impairment
 Based on a population pharmacokinetic analysis, no dose adjustment is required for patients with mild hepatic impairment.
 Tecentriq has not been studied in patients with moderate or severe hepatic impairment (see section 5.2).
+
 Eastern Cooperative Oncology Group (ECOG) performance status ≥ 2
 Patients with ECOG performance status ≥ 2 were excluded from the clinical trials in NSCLC and 2nd line UC (see sections 4.4 and 5.1).
-
 Method of administration
 
 Tecentriq is for intravenous use.

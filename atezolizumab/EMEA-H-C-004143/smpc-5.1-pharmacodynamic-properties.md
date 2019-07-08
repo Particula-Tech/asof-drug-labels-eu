@@ -1,7 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies.
-ATC code: L01XC
+ATC code: L01XC32
 
 Mechanism of action
 
@@ -10,6 +10,7 @@ Binding of PD-L1 to the PD-1 and B7.1 receptors found on T-cells and antigen pre
 
 Atezolizumab is an Fc-engineered, humanised immunoglobulin G1 (IgG1) monoclonal antibody that directly binds to PD-L1 and provides a dual blockade of the PD-1 and B7.1 receptors, releasing PD-L1/PD-1 mediated inhibition of the immune response, including reactivating the antitumour immune response without inducing antibody-dependent cellular cytotoxicity.
 Atezolizumab spares the PD-L2/PD-1 interaction allowing PD-L2/PD-1 mediated inhibitory signals to persist.
+
 Clinical efficacy and safety
 
 Duration of treatment
@@ -34,7 +35,7 @@ Tumour specimens were evaluated prospectively for PD-L1 expression on tumour-inf
 
 A total of 931 patients were enrolled.
 Patients were randomised (1:1) to receive either atezolizumab or chemotherapy.
-Randomisation was stratified by chemotherapy (vinflunine vs taxane), PD-L1 expression status on IC (< 5% vs ≥ 5%), number of prognostic risk factors (0 vs. 1-3), and liver metastases (yes vs. no). Prognostic risk factors included time from prior chemotherapy of < 3 months, ECOG performance status > 0 and haemoglobin < 10 g/dL.
+Randomisation was stratified by chemotherapy (vinflunine vs. taxane), PD-L1 expression status on IC (< 5% vs. ≥ 5%), number of prognostic risk factors (0 vs. 1-3), and liver metastases (yes vs. no). Prognostic risk factors included time from prior chemotherapy of < 3 months, ECOG performance status > 0 and haemoglobin < 10 g/dL.
 
 Atezolizumab was administered as a fixed dose of 1,200 mg by intravenous infusion every 3 weeks.
 No dose reduction of atezolizumab was allowed.
@@ -99,7 +100,7 @@ Median in months *** 21.7 7.4
 
 CI = confidence interval; DOR = duration of response; ORR = objective response rate; OS = overall survival; PFS = progression-free survival; RECIST = Response Evaluation Criteria in Solid Tumours v1.1.
 * An analysis of OS in the all comer population was performed based on the stratified log-rank test and the result is provided for descriptive purposes only (p = 0.0378); according to the pre-specified analysis hierarchy, the p-value for the OS analysis in the all comer population cannot be considered statistically significant.
-ǂ Stratified by chemotherapy (vinflunine vs taxane), status on IC (< 5% vs. ≥ 5%), number of prognostic risk factors (0 vs. 1-3), and liver metastases (yes vs. no).
+ǂ Stratified by chemotherapy (vinflunine vs. taxane), status on IC (< 5% vs. ≥ 5%), number of prognostic risk factors (0 vs. 1-3), and liver metastases (yes vs. no).
 ** Based on Kaplan-Meier estimate
 *** Responses were ongoing in 63% of responders in the atezolizumab arm and in 21% of responders in the chemotherapy arm.
 Figure 1: Kaplan-Meier curve for overall survival (IMvigor211)
@@ -271,7 +272,7 @@ between Arm A and Arm C were not formally tested yet as per the pre-specified an
 * Updated PFS analysis and interim OS analysis at clinical cut-off 22 January 2018
 PFS = progression-free survival; RECIST = Response Evaluation Criteria in Solid Tumours v1.1.
 CI = confidence interval; DOR = duration of response; OS = overall survival.
-Table 7: Summary of updated efficacy for Arm A vs Arm B in the ITT population (IMpower150)
+Table 7: Summary of updated efficacy for Arm A vs. Arm B in the ITT population (IMpower150)
 
 Efficacy endpoint Arm A Arm B
 (Atezolizumab + (Atezolizumab +
@@ -298,12 +299,12 @@ p-value1,2 0.3000
 ^ The Arm A is the comparison group for all hazard ratios
 
 Figure 2: Kaplan-Meier curve for overall survival in the ITT population (IMpower150)
-Figure 3: Forest plot of overall survival by PD-L1 expression in the ITT population, Arm B vs C (IMpower150)
+Figure 3: Forest plot of overall survival by PD-L1 expression in the ITT population, Arm B vs. C (IMpower150)
 
 Figure 4: Kaplan-Meier curve for PFS in the ITT population (IMpower150)
-Figure 5: Forest plot of progression free survival by PD-L1 expression in the ITT population, Arm B vs C (IMpower150)
 
-In Arm B as compared to Arm C, pre-specified subgroup analyses from the interim OS analysis showed an OS improvement for patients with EGFR mutations or ALK rearrangements (hazard ratio [HR] of 0.54, 95% CI: 0.29, 1.03; median OS not reached vs. 17.5 months), and liver metastases (HR of 0.52, 95% CI: 0.33, 0.82; median OS 13.3 vs 9.4 months).
+Figure 5: Forest plot of progression free survival by PD-L1 expression in the ITT population, Arm B vs. C (IMpower150)
+In Arm B as compared to Arm C, pre-specified subgroup analyses from the interim OS analysis showed an OS improvement for patients with EGFR mutations or ALK rearrangements (hazard ratio [HR] of 0.54, 95% CI: 0.29, 1.03; median OS not reached vs. 17.5 months), and liver metastases (HR of 0.52, 95% CI: 0.33, 0.82; median OS 13.3 vs. 9.4 months).
 PFS improvements were also shown in patients with EGFR mutations or ALK rearrangements (HR of 0.55, 95% CI: 0.35, 0.87; median PFS 10.0 vs. 6.1 months) and liver metastases (HR of 0.41, 95% CI: 0.26, 0.62; median PFS 8.2 vs. 5.4 months).
 OS results were similar for patients aged < 65 and ≥ 65 subgroups, respectively.
 Data for patients ≥ 75 years of age are too limited to draw conclusions on this population.
@@ -327,6 +328,7 @@ No dose reduction was allowed.
 Patients were treated until loss of clinical benefit as assessed by the investigator.
 Docetaxel was administered 75 mg/m2 by intravenous infusion on day 1 of each 3-week cycle until disease progression.
 For all treated patients, the median duration of treatment was 2.1 months for the docetaxel arm and 3.4 months for the atezolizumab arm.
+
 The demographic and baseline disease characteristics of the primary analysis population were well balanced between the treatment arms.
 The median age was 64 years (range: 33 to 85), and 61% of patients were male.
 The majority of patients were white (70%).
@@ -338,10 +340,12 @@ The primary efficacy endpoint was OS.
 The key results of this study with a median survival follow-up of 21 months are summarised in Table 8.
 Kaplan-Meier curves for OS in the ITT population are presented in Figure 6.
 Figure 7 summarises the results of OS in the ITT and PD-L1 subgroups, demonstrating OS benefit with atezolizumab in all subgroups, including those with PD-L1 expression < 1% in TC and IC.
-
 Table 8: Summary of efficacy in the primary analysis population (all comers)* (OAK)
 
-Efficacy endpoint Atezolizumab Docetaxel
+Atezolizumab Docetaxel
+
+Efficacy endpoint
+
 (n = 425) (n = 425)
 
 Primary efficacy endpoint

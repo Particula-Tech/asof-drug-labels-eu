@@ -28,8 +28,8 @@ Immune-related hepatitis
 
 Cases of hepatitis, some leading to fatal outcomes have been observed in clinical trials with atezolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of hepatitis.
-Aspartate aminotransferase (AST), alanine aminotransferase (ALT) and bilirubin should be monitored prior to initiation of treatment, periodically during treatment with atezolizumab and as indicated based on clinical evaluation.
 
+Aspartate aminotransferase (AST), alanine aminotransferase (ALT) and bilirubin should be monitored prior to initiation of treatment, periodically during treatment with atezolizumab and as indicated based on clinical evaluation.
 Treatment with atezolizumab should be withheld if Grade 2 event (ALT or AST > 3 to 5 x ULN or blood bilirubin > 1.5 to 3 x ULN) persists for more than 5 to 7 days, and 1 to 2 mg/kg/day of prednisone or equivalent should be started.
 If the event improves to ≤ Grade 1, corticosteroids should be tapered over ≥ 1 month.
 
@@ -125,6 +125,17 @@ Treatment with atezolizumab should be withheld for Grade 2 nephritis, and treatm
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
 Treatment with atezolizumab must be permanently discontinued for Grade 3 or 4 nephritis.
 
+Immune-related myositis
+
+Cases of myositis, including fatal cases, have been observed in clinical trials with Tecentriq (see section 4.8).
+Patients should be monitored for signs and symptoms of myositis.
+
+Treatment with atezolizumab should be withheld for Grade 2 or 3 myositis and corticosteroid therapy (1-2 mg/kg/day prednisone or equivalent) should be initiated.
+If symptoms improve to ≤ Grade 1, taper corticosteroids as clinically indicated.
+Treatment with Tecentriq may be resumed if the event improves to ≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg oral prednisone or equivalent per day.
+Treatment with Tecentriq should be permanently discontinued for Grade 4 or grade 3 recurrent myositis, or when unable to reduce the corticosteroid dose to the equivalent of
+≤ 10 mg prednisone per day within 12 weeks after onset.
+
 Infusion-related reactions
 
 Infusion-related reactions have been observed in clinical trials with atezolizumab (see section 4.8).
@@ -137,7 +148,7 @@ Disease-specific precautions
 
 Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in metastatic non-squamous non-small cell lung cancer
 
-Physicians should carefully consider the combined risks of the four-drug regimen of atezolizumab, bevacizumab, paclitaxel, and carboplatin before initiating treatment (see section 4.8).
+Physicians should carefully consider the combined risks of the four-drug regimen of atezolizumab bevacizumab, paclitaxel, and carboplatin before initiating treatment (see section 4.8).
 
 Patients excluded from clinical trials
 
@@ -145,7 +156,6 @@ Patients with the following conditions were excluded from clinical trials: a his
 Patients who were administered a live, attenuated vaccine within 28 days prior to enrolment; systemic immunostimulatory agents within 4 weeks or systemic immunosuppressive medicinal products within 2 weeks prior to study entry were excluded from clinical trials.
 
 Patients with a baseline performance status ≥ 2 were excluded (apart from Study GO29293 [IMvigor210] Cohort 1 that enrolled patients with cisplatin ineligible urothelial carcinoma and allowed a baseline performance status ≥ 2) (see section 5.1).
-
 Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin
 
 Patients with NSCLC that had clear tumour infiltration into the thoracic great vessels or clear cavitation of pulmonary lesions, as seen on imaging, were excluded from the pivotal clinical study IMpower150 after several cases of fatal pulmonary haemorrhage were observed, which is a known risk factor of treatment with bevacizumab.
@@ -155,6 +165,7 @@ In the absence of data, atezolizumab should be used with caution in these popula
 Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in EGFR+ patients with NSCLC who have progressed on erlotinib+bevacizumab
 
 In study IMpower150, there are no data on the efficacy of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in EGFR+ patients who have progressed previously on erlotinib+bevacizumab.
+
 Use of atezolizumab in urothelial carcinoma for previously untreated patients who are considered cisplatin ineligible
 
 The baseline and prognostic disease characteristics of the IMvigor210 Cohort 1 study population were overall comparable to patients in the clinic who would be considered cisplatin ineligible but would be eligible for a carboplatin-based combination chemotherapy.
