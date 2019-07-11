@@ -23,7 +23,7 @@ Different strengths of Tasigna hard capsules can be combined to attain the desir
 There is no experience with treatment of paediatric patients below 2 years of age.
 There are no data in newly diagnosed paediatric patients below 10 years of age and limited data in imatinib-resistant or intolerant paediatric patients below 6 years of age.
 
-Table 1 Dosing scheme of nilotinib 230 mg/m2 twice daily
+Table 1 Paediatric dosing scheme of nilotinib 230 mg/m2 twice daily
 
 | Body Surface Area (BSA) | Dose in mg (twice daily) |
 | --- | --- |
@@ -36,8 +36,8 @@ Table 1 Dosing scheme of nilotinib 230 mg/m2 twice daily
 | 1.42 – 1.63 m2 | 350 mg |
 | ≥1.64 m2 | 400 mg |
 
-Philadelphia chromosome positive CML patients in chronic phase who have been treated with nilotinib as first-line therapy and who achieved a sustained deep molecular response (MR4.5)
-Discontinuation of treatment may be considered in eligible Philadelphia chromosome positive (Ph+) CML patients in chronic phase who have been treated with nilotinib at 300 mg twice daily for a minimum of 3 years if a deep molecular response is sustained for a minimum of one year immediately prior to discontinuation of therapy.
+Adult Philadelphia chromosome positive CML patients in chronic phase who have been treated with nilotinib as first-line therapy and who achieved a sustained deep molecular response (MR4.5)
+Discontinuation of treatment may be considered in eligible adult Philadelphia chromosome positive (Ph+) CML patients in chronic phase who have been treated with nilotinib at 300 mg twice daily for a minimum of 3 years if a deep molecular response is sustained for a minimum of one year immediately prior to discontinuation of therapy.
 Discontinuation of nilotinib therapy should be initiated by a physician experienced in the treatment of patients with CML (see sections 4.4 and 5.1).
 Eligible patients who discontinue nilotinib therapy must have their BCR-ABL transcript levels and complete blood count with differential monitored monthly for one year, then every 6 weeks for the second year, and every 12 weeks thereafter.
 Monitoring of BCR-ABL transcript levels must be performed with a quantitative diagnostic test validated to measure molecular response levels on the International Scale (IS) with a sensitivity of at least MR4.5 (BCR-ABL/ABL ≤0.0032% IS).
@@ -49,8 +49,8 @@ Patients who lose MMR must re-initiate treatment within 4 weeks of when loss of 
 Nilotinib therapy should be re-initiated at 300 mg twice daily or at a reduced dose level of 400 mg once daily if the patient had a dose reduction prior to discontinuation of therapy.
 Patients who re-initiate nilotinib therapy should have their BCR-ABL transcript levels monitored monthly until MMR is re-established and every 12 weeks thereafter (see section 4.4).
 
-Philadelphia chromosome positive CML patients in chronic phase who have achieved a sustained deep molecular response (MR 4.5) on nilotinib following prior imatinib therapy
-Discontinuation of treatment may be considered in eligible Philadelphia chromosome positive (Ph+) CML patients in chronic phase who have been treated with nilotinib for a minimum of 3 years if a deep molecular response is sustained for a minimum of one year immediately prior to discontinuation of therapy.
+Adult Philadelphia chromosome positive CML patients in chronic phase who have achieved a sustained deep molecular response (MR 4.5) on nilotinib following prior imatinib therapy
+Discontinuation of treatment may be considered in eligible adult Philadelphia chromosome positive (Ph+) CML patients in chronic phase who have been treated with nilotinib for a minimum of 3 years if a deep molecular response is sustained for a minimum of one year immediately prior to discontinuation of therapy.
 Discontinuation of nilotinib therapy should be initiated by a physician experienced in the treatment of patients with CML (see sections 4.4 and 5.1).
 
 Eligible patients who discontinue nilotinib therapy must have their BCR-ABL transcript levels and complete blood count with differential monitored monthly for one year, then every 6 weeks for the second year, and every 12 weeks thereafter.
@@ -59,15 +59,15 @@ Monitoring of BCR-ABL transcript levels must be performed with a quantitative di
 Patients with confirmed loss of MR4 (MR4= BCR-ABL/ABL ≤0.01%IS) during the treatment-free phase (two consecutive measures separated by at least 4 weeks showing loss of MR4) or loss of major molecular response (MMR=BCR-ABL/ABL ≤0.1%IS) must re-initiate treatment within 4 weeks of when loss of remission is known to have occurred.
 Nilotinib therapy should be re-initiated at either 300 mg or 400 mg twice daily.
 Patients who re-initiate nilotinib therapy should have their BCR-ABL transcript levels monitored monthly until previous major molecular response or MR4 level is re-established and every 12 weeks thereafter (see section 4.4).
-
 Dose adjustments or modifications
 Tasigna may need to be temporarily withheld and/or dose reduced for haematological toxicities (neutropenia, thrombocytopenia) that are not related to the underlying leukaemia (see Table 2).
+
 Table 2 Dose adjustments for neutropenia and thrombocytopenia
 
 | Adult patients with newly diagnosed chronic phase CML at 300 mg twice daily and imatinib-resistant or intolerant CML in chronic phase at 400 mg twice daily | ANC* <1.0 x 109/l and/or platelet counts <50 x 109/l | 1. Treatment with nilotinib must be interrupted and blood count monitored. 2. Treatment must be resumed within 2 weeks at prior dose if ANC >1.0 x 109/l and/or platelets >50 x 109/l. 3. If blood counts remain low, a dose reduction to 400 mg once daily may be required. |
 | --- | --- | --- |
 | Adult patients with imatinib-resistant or intolerant CML in accelerated phase at 400 mg twice daily | ANC* <0.5 x 109/l and/or platelet counts <10 x 109/l | 1. Treatment with nilotinib must be interrupted and blood count monitored. 2. Treatment must be resumed within 2 weeks at prior dose if ANC >1.0 x 109/l and/or platelets >20 x 109/l. 3. If blood counts remain low, a dose reduction to 400 mg once daily may be required. |
-| Paediatric patients with newly-diagnosed CML in chronic phase at 230 mg/m2 twice daily and imatinib-resistant or intolerant CML in chronic phase at 230 mg/m2 twice daily | ANC* <1.0 x 109/l and/or platelet counts <50 x 109/l | 1. Treatment with nilotinib must be interrupted and blood count monitored. 2. Treatment must be resumed within 2 weeks at prior dose if ANC >1.5 x 109/l and/or platelets >75 x 109/l. 3. If blood counts remain low, a dose reduction to 230 mg/m2 once daily may be required. 4. If event occurs after dose reduction, consider discontinuing treatment. |
+| Paediatric patients with newly diagnosed CML in chronic phase at 230 mg/m2 twice daily and imatinib-resistant or intolerant CML in chronic phase at 230 mg/m2 twice daily | ANC* <1.0 x 109/l and/or platelet counts <50 x 109/l | 1. Treatment with nilotinib must be interrupted and blood count monitored. 2. Treatment must be resumed within 2 weeks at prior dose if ANC >1.5 x 109/l and/or platelets >75 x 109/l. 3. If blood counts remain low, a dose reduction to 230 mg/m2 once daily may be required. 4. If event occurs after dose reduction, consider discontinuing treatment. |
 
 *ANC = absolute neutrophil count
 
@@ -103,7 +103,7 @@ Dose adjustment is not considered necessary in patients with hepatic impairment.
 However, patients with hepatic impairment should be treated with caution (see section 4.4).
 
 Cardiac disorders
-In clinical studies, patients with uncontrolled or significant cardiac disease (e.g. recent myocardial infarction, congestive heart failure, unstable angina or clinically significant bradycardia) were excluded.
+In clinical studies, patients with uncontrolled or significant cardiac disease (e.g., recent myocardial infarction, congestive heart failure, unstable angina or clinically significant bradycardia) were excluded.
 Caution should be exercised in patients with relevant cardiac disorders (see section 4.4).
 
 Increases in total serum cholesterol levels have been reported with nilotinib therapy (see section 4.4).
@@ -116,12 +116,12 @@ Paediatric population
 The safety and efficacy of Tasigna in paediatric patients with Philadelphia chromosome positive CML in chronic phase from 2 to less than 18 years of age have been established (see sections 4.8, 5.1 and 5.2).
 There is no experience in paediatric patients below 2 years of age or in paediatric patients with Philadelphia chromosome positive CML in accelerated phase or blast crisis.
 There are no data in newly diagnosed paediatric patients below 10 years of age and limited data in imatinib-resistant or intolerant paediatric patients below 6 years of age.
-
 Method of administration
 
 Tasigna should be taken twice daily approximately 12 hours apart and must not be taken with food.
 The hard capsules should be swallowed whole with water.
 No food should be consumed for 2 hours before the dose is taken and no food should be consumed for at least one hour after the dose is taken.
+
 For patients who are unable to swallow hard capsules, the content of each hard capsule may be dispersed in one teaspoon of apple sauce (puréed apple) and should be taken immediately.
 Not more than one teaspoon of apple sauce and no food other than apple sauce must be used (see sections 4.4 and 5.2).
 

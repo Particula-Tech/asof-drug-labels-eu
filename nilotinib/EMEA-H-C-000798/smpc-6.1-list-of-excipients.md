@@ -8,6 +8,7 @@ Crospovidone Type A
 Poloxamer 188
 Colloidal anhydrous silica
 Magnesium stearate
+
 Capsule shell
 Gelatin
 Titanium dioxide (E171)
@@ -36,4 +37,16 @@ Yellow iron oxide (E172)
 
 Printing ink
 Shellac (E904)
+Dehydrated alcohol
+Isopropyl alcohol
+Butyl alcohol
+Propylene glycol
+Strong ammonia solution
+Potassium hydroxide
 Red iron oxide (E172)
+
+[Tasigna 150 mg hard capsules]
+
+Black iron oxide (E172) n-Butyl alcohol
+Dehydrated ethanol
+Isopropylalcohol
