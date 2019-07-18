@@ -30,6 +30,7 @@ Effects of food on oral absorption
 
 Administration of a single 100 mg dose of ritonavir powder for oral suspension with a moderate fat meal (617 kcal, 29% calories from fat) was associated with a mean decrease of 23 and 39% in ritonavir AUCinf and Cmax respectively, relative to fasting conditions.
 Administration with a high fat meal (917 kcal, 60% calories from fat) was associated with a mean decrease of 32 and 49% in ritonavir AUCinf and Cmax respectively, relative to fasting conditions.
+
 Distribution
 The apparent volume of distribution (VB/F) of ritonavir is approximately 20 - 40 l after a single 600 mg dose.
 The protein binding of ritonavir in human plasma is approximately 98 ­ 99% and is constant over the concentration range of 1.0 – 100 µg/ml.
@@ -45,7 +46,6 @@ Animal studies as well as in vitro experiments with human hepatic microsomes ind
 Four ritonavir metabolites have been identified in man.
 The isopropylthiazole oxidation metabolite (M-2) is the major metabolite and has antiviral activity similar to that of parent compound.
 However, the AUC of the M-2 metabolite was approximately 3% of the AUC of parent compound.
-
 Low doses of ritonavir have shown profound effects on the pharmacokinetics of other protease inhibitors (and other products metabolised by CYP3A4) and other protease inhibitors may influence the pharmacokinetics of ritonavir (see section 4.5).
 
 Elimination
@@ -70,6 +70,7 @@ Paediatric patients
 Ritonavir steady-state pharmacokinetic parameters were evaluated in HIV infected children above 2 years of age receiving doses ranging from 250 mg/m² twice daily to 400 mg/m² twice daily.
 Ritonavir concentrations obtained after 350 to 400 mg/m² twice daily in paediatric patients were comparable to those obtained in adults receiving 600 mg (approximately 330 mg/m²) twice daily.
 Across dose groups, ritonavir oral clearance (CL/F/m2) was approximately 1.5 to 1.7 times faster in paediatric patients above 2 years of age than in adult subjects.
+
 Ritonavir steady-state pharmacokinetic parameters were evaluated in HIV infected children less than 2 years of age receiving doses ranging from 350 to 450 mg/m² twice daily.
 Ritonavir concentrations in this study were highly variable and somewhat lower than those obtained in adults receiving 600 mg (approximately 330 mg/m²) twice daily.
 Across dose groups, ritonavir oral clearance (CL/F/m2) declined with age with median values of 9.0 L/h/m2 in children less than 3 months of age, 7.8 L/h/m2 in children between 3 and 6 months of age and 4.4 L/h/m2 in children between 6 and 24 months of age.

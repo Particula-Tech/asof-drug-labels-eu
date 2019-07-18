@@ -12,6 +12,7 @@ Ritonavir may induce glucuronidation and oxidation by CYP1A2, CYP2C8, CYP2C9 and
 Important information regarding medicinal product interactions when ritonavir is used as a pharmacokinetic enhancer is also contained in the Summary of Product Characteristics of the co-administered protease inhibitor.
 
 Medicinal products that affect ritonavir levels
+
 Serum levels of ritonavir can be reduced by concomitant use of herbal preparations containing
 St John’s wort (Hypericum perforatum).
 This is due to the induction of medicinal product metabolising enzymes by St John’s wort.
@@ -20,7 +21,6 @@ If a patient is already taking St John’s wort, St John’s wort should be stop
 Ritonavir levels may increase on stopping St John’s wort.
 The dose of ritonavir may need adjusting.
 The inducing effect may persist for at least 2 weeks after cessation of treatment with St John’s wort (see section 4.3).
-
 Serum levels of ritonavir may be affected by select co-administered medicinal products (e.g. delavirdine, efavirenz, phenytoin and rifampicin).
 These interactions are noted in the medicinal product interaction tables below.
 
@@ -156,7 +156,6 @@ Dose alterations should not be necessary.
 ND: Not determined
 1.
 Based on parallel group comparison.
-
 Ritonavir effects on Non-antiretroviral Co-administered Medicinal Products
 
 Co-administered Medicinal Products Dose of Co- Dose of Effect on Co- Effect on Co-
@@ -226,9 +225,9 @@ Antiarrthymics
 
 Amiodarone, bepridil, dronedarone, Ritonavir co-administration is likely to result in increased plasma
 encainide, flecainide, propafenone, concentrations of amiodarone, bepridil, dronedarone, encainide,
-quinidine flecainide, propafenone, and quinidine and is therefore
+quinidine flecainide, propafenone, and quinidine and is therefore contraindicated
 
-contraindicated (see section 4.3).
+(see section 4.3).
 
 Digoxin 0.5 single IV dose 300 q12h, 3 days ↑ 86% ND
 0.4 single oral 200 q12h, 13 days ↑ 22% ↔
@@ -257,14 +256,20 @@ The extent of increase in AUC and Cmax depends on the timing of ritonavir admini
 Caution should be exercised in administering afatinib with Norvir (refer to the afatinib SmPC).
 Monitor for ADRs related to afatinib.
 
+Abemaciclib Serum concentrations may be increased due to CYP3A4 inhibition by
+
+ritonavir.
+
+Co-administration of abemaciclib and Norvir should be avoided.
+If this co-administration is judged unavoidable, refer to the abemaciclib SmPC for dosage adjustment recommendations.
+Monitor for ADRs related to abemaciclib.
+
 Ceritinib Serum concentrations may be increased due to CYP3A and P-gp
 
 inhibition by ritonavir.
 Caution should be exercised in administering ceritinib with Norvir.
 Refer to the ceritinib SmPC for dosage adjustment recommendations.
 Monitor for ADRs related to ceritinib.
-
-Dasatinib, nilotinib, vincristine, vinblastine Serum concentrations may be increased when co-administered with ritonavir resulting in the potential for increased incidence of adverse events.
 Ritonavir effects on Non-antiretroviral Co-administered Medicinal Products
 
 Co-administered Medicinal Products Dose of Co- Dose of Effect on Co- Effect on Co-
@@ -273,11 +278,20 @@ administered NORVIR administered administered
 
 Medicinal (mg) Medicinal Medicinal
 Products (mg) Products AUC Products Cmax
+
+Dasatinib, nilotinib, vincristine, vinblastine Serum concentrations may be increased when co-administered with ritonavir resulting in the potential for increased incidence of adverse events.
+
 Ibrutinib Serum concentrations of ibrutinib may be increased due to CYP3A
 
 inhibition by ritonavir, resulting in increased risk for toxicity including risk of tumor lysis syndrome.
 Co-administration of ibrutinib and ritonavir should be avoided.
 If the benefit is considered to outweigh the risk and ritonavir must be used, reduce the ibrutinib dose to 140 mg and monitor patient closely for toxicity.
+
+Neratinib Serum concentrations may be increased due to CYP3A4 inhibition by
+
+ritonavir.
+
+Concomitant use of neratinib with Norvir is contraindicated due to serious and/or life-threatening potential reactions including hepatotoxicity (see section 4.3).
 
 Venetoclax Serum concentrations may be increased due to CYP3A inhibition by
 
@@ -303,6 +317,14 @@ R-Warfarin ↓ 33% ↔
 
 Induction of CYP1A2 and CYP2C9 lead to decreased levels of R-warfarin while little pharmacokinetic effect is noted on S- warfarin when co-administered with ritonavir.
 Decreased R-warfarin levels may lead to reduced anticoagulation, therefore it is recommended that anticoagulation parameters are monitored when warfarin is co-administered with ritonavir dosed as an antiretroviral agent or as a pharmacokinetic enhancer.
+Ritonavir effects on Non-antiretroviral Co-administered Medicinal Products
+
+Co-administered Medicinal Products Dose of Co- Dose of Effect on Co- Effect on Co-
+
+administered NORVIR administered administered
+
+Medicinal (mg) Medicinal Medicinal
+Products (mg) Products AUC Products Cmax
 
 Anticonvulsants
 
@@ -316,14 +338,6 @@ Divalproex, lamotrigine, phenytoin Ritonavir dosed as a pharmacokinetic enhancer
 agent induces oxidation by CYP2C9 and glucuronidation and as a result is expected to decrease the plasma concentrations of anticonvulsants.
 Careful monitoring of serum levels or therapeutic effects is recommended when these medicines are concomitantly administered with ritonavir.
 Phenytoin may decrease serum levels of ritonavir.
-Ritonavir effects on Non-antiretroviral Co-administered Medicinal Products
-
-Co-administered Medicinal Products Dose of Co- Dose of Effect on Co- Effect on Co-
-
-administered NORVIR administered administered
-
-Medicinal (mg) Medicinal Medicinal
-Products (mg) Products AUC Products Cmax
 
 Antidepressants
 
@@ -356,7 +370,14 @@ Antihistamines
 Astemizole, terfenadine Ritonavir co-administration is likely to result in increased plasma
 
 concentrations of astemizole and terfenadine and is therefore contraindicated (see section 4.3).
+Ritonavir effects on Non-antiretroviral Co-administered Medicinal Products
 
+Co-administered Medicinal Products Dose of Co- Dose of Effect on Co- Effect on Co-
+
+administered NORVIR administered administered
+
+Medicinal (mg) Medicinal Medicinal
+Products (mg) Products AUC Products Cmax
 Fexofenadine Ritonavir may modify P-glycoprotein mediated fexofenadine efflux
 
 when dosed as an antriretroviral agent or as a pharmacokinetic enhancer resulting in increased concentrations of fexofenadine.
@@ -374,15 +395,6 @@ Fusidic Acid Ritonavir co-administration is likely to result in increased plasma
 concentrations of both fusidic acid and ritonavir and is therefore contraindicated (see section 4.3).
 
 Rifabutin1 150 daily 500 q12h, ↑ 4-fold ↑ 2.5-fold
-
-Ritonavir effects on Non-antiretroviral Co-administered Medicinal Products
-
-Co-administered Medicinal Products Dose of Co- Dose of Effect on Co- Effect on Co-
-
-administered NORVIR administered administered
-
-Medicinal (mg) Medicinal Medicinal
-Products (mg) Products AUC Products Cmax
 25-O-desacetyl rifabutin metabolite ↑ 38-fold ↑ 16-fold
 
 Due to the large increase in rifabutin AUC, the concomitant use of rifabutin with ritonavir dosed as an antiretroviral agent is contraindicated (see section 4.3).
@@ -405,7 +417,14 @@ Atovaquone Ritonavir dosed as a pharmacokinetic enhancer or as an antiretroviral
 
 agent induces glucuronidation and as a result is expected to decrease the plasma concentrations of atovaquone.
 Careful monitoring of serum levels or therapeutic effects is recommended when atovaquone is concomitantly administered with ritonavir.
+Ritonavir effects on Non-antiretroviral Co-administered Medicinal Products
 
+Co-administered Medicinal Products Dose of Co- Dose of Effect on Co- Effect on Co-
+
+administered NORVIR administered administered
+
+Medicinal (mg) Medicinal Medicinal
+Products (mg) Products AUC Products Cmax
 Bedaquiline No interaction study is available with ritonavir only. In an interaction
 
 study of single-dose bedaquiline and multiple dose lopinavir/ritonavir, the AUC of bedaquiline was increased by 22%.
@@ -417,15 +436,6 @@ More frequent electrocardiogram monitoring and monitoring of transaminases is re
 Clarithromycin 500 q12h 200 q8h ↑ 77% ↑ 31%
 14-OH clarithromycin metabolite ↓ 100% ↓ 99%
 
-Ritonavir effects on Non-antiretroviral Co-administered Medicinal Products
-
-Co-administered Medicinal Products Dose of Co- Dose of Effect on Co- Effect on Co-
-
-administered NORVIR administered administered
-
-Medicinal (mg) Medicinal Medicinal
-Products (mg) Products AUC Products Cmax
-
 Due to the large therapeutic window of clarithromycin no dose reduction should be necessary in patients with normal renal function.
 Clarithromycin doses greater than 1 g per day should not be co-administered with ritonavir dosed as an antiretroviral agent or as a pharmacokinetic enhancer.
 For patients with renal impairment, a clarithromycin dose reduction should be considered: for patients with creatinine clearance of 30 to 60 ml/min the dose should be reduced by 50%, for patients with creatinine clearance less than 30 ml/min the dose should be reduced by 75%.
@@ -433,7 +443,7 @@ For patients with renal impairment, a clarithromycin dose reduction should be co
 Delamanid No interaction study is available with ritonavir only. In a healthy
 
 volunteer drug interaction study of delamanid 100 mg twice daily and lopinavir/ritonavir 400/100 mg twice daily for 14 days, the exposure of the delamanid metabolite DM-6705 was 30% increased.
-Due to the risk of QTc prolongation associated with DM-6705, if co-administration of delamanid with ritonavir is considered necessary, very frequent ECG monitoring throughout the full delamanid treatment period is recommended (see section 4.4 and refer to the delamanid
+Due to the risk of QTc prolongation associated with DM-6705, if co-administration of delamanid with ritonavir is considered necessary, very frequent ECG monitoring throughout the full delamanid treatment period is recommended (see section 4.4 and refer to the delamanid Summary of Product Characteristics).
 
 Erythromycin, itraconazole Ritonavir dosed as a pharmacokinetic enhancer or as an antiretroviral
 
@@ -449,6 +459,14 @@ Sulfamethoxazole/Trimethoprim2 800/160, single 500 q12h ↓ 20% / ↑ 20% ↔
 
 dose
 Dose alteration of sulfamethoxazole/trimethoprim during concomitant ritonavir therapy should not be necessary.
+Ritonavir effects on Non-antiretroviral Co-administered Medicinal Products
+
+Co-administered Medicinal Products Dose of Co- Dose of Effect on Co- Effect on Co-
+
+administered NORVIR administered administered
+
+Medicinal (mg) Medicinal Medicinal
+Products (mg) Products AUC Products Cmax
 
 Antipsychotics/Neuroleptics
 
@@ -465,14 +483,7 @@ Lurasidone Due to CYP3A inhibition by ritonavir, concentrations of lurasidone ar
 
 expected to increase.
 The concomitant administration with lurasidone is contraindicated (see section 4.3).
-Ritonavir effects on Non-antiretroviral Co-administered Medicinal Products
 
-Co-administered Medicinal Products Dose of Co- Dose of Effect on Co- Effect on Co-
-
-administered NORVIR administered administered
-
-Medicinal (mg) Medicinal Medicinal
-Products (mg) Products AUC Products Cmax
 Quetiapine Due to CYP3A inhibition by ritonavir, concentrations of quetiapine are
 
 expected to increase.
@@ -508,19 +519,6 @@ Dihydroergotamine, ergonovine, Ritonavir co-administration is likely to result i
 ergotamine, methylergonovine concentrations of ergot derivatives and is therefore contraindicated
 
 (see section 4.3).
-
-GI motility agent
-
-Cisapride Ritonavir co-administration is likely to result in increased plasma
-
-concentrations of cisapride and is therefore contraindicated (see section 4.3).
-
-HCV Protease Inhibitor
-
-Simeprevir 200 qd 100 q12h ↑ 7.2-fold ↑ 4.7-fold
-
-Ritonavir increases plasma concentrations of simeprevir as a result of CYP3A4 inhibition.
-It is not recommended to co-administer ritonavir with simeprevir.
 Ritonavir effects on Non-antiretroviral Co-administered Medicinal Products
 
 Co-administered Medicinal Products Dose of Co- Dose of Effect on Co- Effect on Co-
@@ -529,6 +527,27 @@ administered NORVIR administered administered
 
 Medicinal (mg) Medicinal Medicinal
 Products (mg) Products AUC Products Cmax
+
+GI motility agent
+
+Cisapride Ritonavir co-administration is likely to result in increased plasma
+
+concentrations of cisapride and is therefore contraindicated (see section 4.3).
+
+HCV Direct Acting Antiviral
+
+Glecaprevir/pibrentasvir Serum concentrations may be increased due to P-glycoprotein, BCRP
+
+and OATP1B inhibition by ritonavir.
+
+Concomitant administration of glecaprevir/pibrentasvir and Norvir is not recommended due to an increased risk of ALT elevations associated with increased glecaprevir exposure.
+
+HCV Protease Inhibitor
+
+Simeprevir 200 qd 100 q12h ↑ 7.2-fold ↑ 4.7-fold
+
+Ritonavir increases plasma concentrations of simeprevir as a result of CYP3A4 inhibition.
+It is not recommended to co-administer ritonavir with simeprevir.
 
 HMG Co-A Reductase Inhibitors
 
@@ -550,6 +569,14 @@ Ethinyl estradiol 50 µg, single dose 500 q12h ↓ 40% ↓ 32%
 
 Due to reductions in ethinyl estradiol concentrations, barrier or other non-hormonal methods of contraception should be considered with concomitant ritonavir use when dosed as an antiretroviral agent or as a pharmacokinetic enhancer.
 Ritonavir is likely to change the uterine bleeding profile and reduce the effectiveness of estradiol-containing contraceptives (see section 4.4).
+Ritonavir effects on Non-antiretroviral Co-administered Medicinal Products
+
+Co-administered Medicinal Products Dose of Co- Dose of Effect on Co- Effect on Co-
+
+administered NORVIR administered administered
+
+Medicinal (mg) Medicinal Medicinal
+Products (mg) Products AUC Products Cmax
 
 Immunosupressants
 
@@ -574,15 +601,6 @@ Concomitant use of avanafil with ritonavir is contraindicated (see section 4.3).
 
 Sildenafil 100, single dose 500 q12h ↑ 11-fold ↑ 4-fold
 
-Ritonavir effects on Non-antiretroviral Co-administered Medicinal Products
-
-Co-administered Medicinal Products Dose of Co- Dose of Effect on Co- Effect on Co-
-
-administered NORVIR administered administered
-
-Medicinal (mg) Medicinal Medicinal
-Products (mg) Products AUC Products Cmax
-
 Concomitant use of sildenafil for the treatment of erectile dysfunction, with ritonavir dosed as an antiretroviral agent or as a pharmacokinetic enhancer should be used with caution and in no instance should sildenafil doses exceed 25 mg in 48 hours (see also section 4.4).
 Concomitant use of sildenafil with ritonavir is contraindicated in pulmonary arterial hypertension patients (see section 4.3).
 
@@ -595,6 +613,14 @@ When tadalafil is used concurrently with ritonavir in patients with pulmonary ar
 Vardenafil 5, single dose 600 q12h ↑ 49-fold ↑ 13-fold
 
 Concomitant use of vardenafil with ritonavir is contraindicated (see section 4.3).
+Ritonavir effects on Non-antiretroviral Co-administered Medicinal Products
+
+Co-administered Medicinal Products Dose of Co- Dose of Effect on Co- Effect on Co-
+
+administered NORVIR administered administered
+
+Medicinal (mg) Medicinal Medicinal
+Products (mg) Products AUC Products Cmax
 
 Sedatives/hynoptics
 
@@ -620,15 +646,6 @@ dose
 
 Norpethidine metabolite ↑ 47% ↑ 87%
 
-Ritonavir effects on Non-antiretroviral Co-administered Medicinal Products
-
-Co-administered Medicinal Products Dose of Co- Dose of Effect on Co- Effect on Co-
-
-administered NORVIR administered administered
-
-Medicinal (mg) Medicinal Medicinal
-Products (mg) Products AUC Products Cmax
-
 The use of pethidine and ritonavir is contraindicated due to the increased concentrations of the metabolite, norpethidine, which has both analgesic and CNS stimulant activity.
 Elevated norpethidine concentrations may increase the risk of CNS effects (e.g., seizures), see section 4.3.
 
@@ -652,6 +669,15 @@ Sleeping agent
 
 Zolpidem 5 200, 4 doses ↑ 28% ↑ 22%
 
+Ritonavir effects on Non-antiretroviral Co-administered Medicinal Products
+
+Co-administered Medicinal Products Dose of Co- Dose of Effect on Co- Effect on Co-
+
+administered NORVIR administered administered
+
+Medicinal (mg) Medicinal Medicinal
+Products (mg) Products AUC Products Cmax
+
 Zolpidem and ritonavir may be co-administered with careful monitoring for excessive sedative effects.
 
 Smoke cessation
@@ -673,17 +699,7 @@ propionate, budesonide, triamcinolone adrenal suppression (plasma cortisol level
 
 86% in the above study) have been reported in patients receiving ritonavir and inhaled or intranasal fluticasone propionate; similar effects could also occur with other corticosteroids metabolised by CYP3A e.g., budesonide and triamcinolone.
 Consequently, concomitant administration of ritonavir dosed as an antiretroviral agent or as a pharmacokinetic enhancer and these glucocorticoids is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects (see section 4.4).
-A dose
-Ritonavir effects on Non-antiretroviral Co-administered Medicinal Products
-
-Co-administered Medicinal Products Dose of Co- Dose of Effect on Co- Effect on Co-
-
-administered NORVIR administered administered
-
-Medicinal (mg) Medicinal Medicinal
-Products (mg) Products AUC Products Cmax
-
-reduction of the glucocorticoid should be considered with close monitoring of local and systemic effects or a switch to a glucocorticoid, which is not a substrate for CYP3A4 (e.g., beclomethasone).
+A dose reduction of the glucocorticoid should be considered with close monitoring of local and systemic effects or a switch to a glucocorticoid, which is not a substrate for CYP3A4 (e.g., beclomethasone).
 Moreover, in case of withdrawal of glucocorticoids progressive dose reduction may be required over a longer period.
 
 Dexamethasone Ritonavir dosed as a pharmacokinetic enhancer or as an antiretroviral
@@ -702,6 +718,15 @@ Levothyroxine Post-marketing cases have been reported indicating a potential
 
 interaction between ritonavir containing products and levothyroxine.
 Thyroid-stimulating hormone (TSH) should be monitored in patients treated with levothyroxine at least the first month after starting and/or ending ritonavir treatment.
+Ritonavir effects on Non-antiretroviral Co-administered Medicinal Products
+
+Co-administered Medicinal Products Dose of Co- Dose of Effect on Co- Effect on Co-
+
+administered NORVIR administered administered
+
+Medicinal (mg) Medicinal Medicinal
+Products (mg) Products AUC Products Cmax
+
 ND: Not determined
 1.
 Based on a parallel group comparison

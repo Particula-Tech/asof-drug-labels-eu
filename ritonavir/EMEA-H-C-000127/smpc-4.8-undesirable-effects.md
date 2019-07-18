@@ -27,7 +27,8 @@ Events noted as having a frequency not known were identified via post-marketing 
 | Blood and lymphatic system disorders | Common | Decreased white blood cells, decreased haemoglobin, decreased neutrophils, increased eosinophils, thrombocytopenia |
 |  | Uncommon | Increased neutrophils |
 | Immune system disorders | Common Rare | Hypersensitivity, including urticaria and face oedema. Anaphylaxis |
-| Metabolism and nutrition disorders | Common Uncommon Rare | Hypercholesterolaemia, hypertriglyceridaemia, gout, oedema and peripheral oedema, dehydration (usually associated with gastrointestinal symptoms) Diabetes mellitus Hyperglycaemia |
+| Metabolism and nutrition disorders | Common | Hypercholesterolaemia, hypertriglyceridaemia, gout, oedema and peripheral oedema, dehydration (usually associated with gastrointestinal symptoms) |
+| System Order Class | Frequency Uncommon Rare | Adverse reaction Diabetes mellitus Hyperglycaemia |
 | Nervous system disorders | Very common | Dysgeusia, oral and peripheral paraesthesia, headache, dizziness, peripheral neuropathy |
 |  | Common | Insomnia, anxiety, confusion, disturbance in attention, syncope, seizure |
 | Eye disorders | Common | Blurred vision |
@@ -37,15 +38,13 @@ Events noted as having a frequency not known were identified via post-marketing 
 | Gastrointestinal disorders | Very common | Abdominal pain (upper and lower), nausea, diarrhoea (including severe with electrolyte imbalance), vomiting, dyspepsia |
 |  | Common | Anorexia, , flatulence, mouth ulcer, gastrointestinal haemorrhage, gastroesophageal reflux disease, pancreatitis |
 | Hepatobiliary disorders | Common | Hepatitis (including increased AST, ALT, GGT), blood bilirubin increased (including jaundice) |
-| Skin and subcutaneous tissue disorders | Very common | Pruritus, rash (including erythematous and maculopapular) |
-| System Order Class | Frequency | Adverse reaction |
-|  | Common Rare | Acne Stevens Johnson syndrome, toxic epidermal necrolysis (TEN) |
+| Skin and subcutaneous tissue disorders | Very common Common Rare | Pruritus, rash (including erythematous and maculopapular) Acne Stevens Johnson syndrome, toxic epidermal necrolysis (TEN) |
 | Musculosketal and connective tissue disorders | Very common | Arthralgia and back pain |
 |  | Common | Myositis, rhabdomyolysis, myalgia, myopathy/CPK increased |
 | Renal and urinary disorders | Common Uncommon | Increased urination, renal impairment (e.g. oliguria, elevated creatinine) Acute renal failure |
 | Reproductive system and breast disorders | Common | Menorrhagia |
 | General disorders and administration site conditions | Very common | Fatigue including asthenia, flushing, feeling hot |
-|  | Common | Fever, weight loss |
+| System Order Class | Frequency Common | Adverse reaction Fever, weight loss |
 | Investigations | Common | Increased amylase, decreased free and total thyroxine |
 |  | Uncommon | Increased glucose, increased magnesium, increased alkaline phosphatase |
 
@@ -65,6 +64,7 @@ Patients with advanced HIV disease may be at risk of elevated triglycerides and 
 
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).
 The frequency of this is unknown (see section 4.4).
+
 Paediatric populations
 
 The safety profile of Norvir in children 2 years of age and older is similar to that seen in adults.
@@ -88,7 +88,8 @@ Events noted as having frequency not known were identified via post-marketing su
 | Blood and lymphatic system disorders | Common | Decreased white blood cells, decreased haemoglobin, decreased neutrophils, increased eosinophils, thrombocytopenia |
 |  | Uncommon | Increased neutrophils |
 | Immune system disorders | Common Rare | Hypersensitivity including urticaria, and face oedema Anaphylaxis |
-| Metabolism and nutrition disorders | Common Uncommon Rare | Hypercholesterolaemia, hypertriglyceridaemia, gout, oedema and peripheral oedema, dehydration (usually associated with gastrointestinal symptoms) Diabetes mellitus Hyperglycaemia |
+| Metabolism and nutrition disorders | Common Uncommon | Hypercholesterolaemia, hypertriglyceridaemia, gout, oedema and peripheral oedema, dehydration (usually associated with gastrointestinal symptoms) Diabetes mellitus |
+|  | Rare | Hyperglycaemia |
 | Nervous system disorders | Very common | Dysgeusia, oral and peripheral paraesthesia, headache, dizziness, peripheral neuropathy |
 |  | Common | Insomnia, anxiety, confusion, disturbance in attention, syncope, seizure |
 | Eye disorders | Common | Blurred vision |

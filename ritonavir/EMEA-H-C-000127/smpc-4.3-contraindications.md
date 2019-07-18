@@ -32,7 +32,11 @@ Antianginal Ranolazine Increased plasma concentrations of ranolazine
 
 which may increase the potential for serious and/or life-threatening reactions (see section 4.5).
 
-Anticancer Venetoclax Increased plasma concentrations of venetoclax.
+Anticancer Neratinib Increased plasma concentrations of neratinib
+
+which may increase the potential for serious and/or life-threatening reactions including hepatotoxicity (see section 4.5).
+
+Venetoclax Increased plasma concentrations of venetoclax.
 
 Increased risk of tumor lysis syndrome at the dose initiation and during the dose-titration phase (see section 4.5).
 
@@ -54,10 +58,10 @@ Anti-gout Colchicine Potential for serious and/or life-threatening
 
 reactions in patients with renal and/or hepatic impairment (see sections 4.4 and 4.5).
 
-Antihistamines Astemizole, Increased plasma concentrations of astemizole
-terfenadine and terfenadine. Thereby, increasing the risk of
+Antihistamines Astemizole, terfenadine Increased plasma concentrations of astemizole
 
-serious arrhythmias from these agents.
+and terfenadine.
+Thereby, increasing the risk of serious arrhythmias from these agents.
 
 Antimycobacterial Rifabutin Concomitant use of ritonavir (500 mg twice
 

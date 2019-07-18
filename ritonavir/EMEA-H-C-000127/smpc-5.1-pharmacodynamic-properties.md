@@ -32,7 +32,6 @@ Maximum PR interval was 252 msec and no second or third degree heart block was o
 Resistance
 
 Ritonavir-resistant isolates of HIV-1 have been selected in vitro and isolated from patients treated with therapeutic doses of ritonavir.
-
 Reduction in the antiretroviral activity of ritonavir is primarily associated with the protease mutations V82A/F/T/S and I84V.
 Accumulation of other mutations in the protease gene (including at positions 20, 33, 36, 46, 54, 71, and 90) can also contribute to ritonavir resistance.
 In general, as mutations associated with ritonavir resistance accumulate, susceptibility to select other PIs may decrease due to cross-resistance.
@@ -53,6 +52,7 @@ In a study completed in 1996 recruiting less advanced HIV-1 infected patients (C
 The mean average change from baseline over 48 weeks for HIV RNA levels was -0.88 log10 in the ritonavir group versus -0.66 log10 in the ritonavir + zidovudine group versus -0.42 log10 in the zidovudine group.
 
 The continuation of ritonavir therapy should be evaluated by viral load because of the possibility of the emergence of resistance as described under section 4.1.
+
 Paediatric Use
 
 In an open label trial completed in 1998 in HIV infected, clinically stable children there was a significant difference (p = 0.03) in the detectable RNA levels in favour of a triple regimen (ritonavir, zidovudine and lamivudine) following 48 weeks treatment.
