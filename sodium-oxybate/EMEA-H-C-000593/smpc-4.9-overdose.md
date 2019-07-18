@@ -14,7 +14,9 @@ Myoclonus and tonic-clonic seizures have been reported.
 There are reports of compromise in the rate and depth of respiration and of life-threatening respiratory depression, necessitating intubation and ventilation.
 Cheyne-Stokes respiration and apnoea have been observed.
 Bradycardia and hypothermia may accompany unconsciousness, as well as muscular hypotonia, but tendon reflexes remain intact.
-Bradycardia has been responsive to atropine intravenous administration
+Bradycardia has been responsive to atropine intravenous administration.
+Events of hypernatremia with metabolic alkalosis have been reported in the context of concomitant use of NaCl infusion.
+
 Management
 Gastric lavage may be considered if co-ingestants are suspected.
 Because emesis may occur in the presence of impaired consciousness, appropriate posture (left lateral recumbent position) and protection of the airway by intubation may be warranted.

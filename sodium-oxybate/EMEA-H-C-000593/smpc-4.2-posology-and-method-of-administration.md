@@ -11,22 +11,22 @@ The dose of 9 g/day should not be exceeded due to the possible occurrence of sev
 Single doses of 4.5 g should not be given unless the patient has been titrated previously to that dose level.
 
 If sodium oxybate and valproate are used concomitantly (see section 4.5), a decrease in sodium oxybate dose by 20% is recommended.
-The recommended starting dose for sodium oxybate, when used concomitantly with valproate, is 3.6 g per night administered orally in two equal divided doses of approximately 1.8 g. If concomitant use is warranted, patient response and tolerability should be monitored and dose should be adapted accordingly (see section 4.4)
+The recommended starting dose for sodium oxybate, when used concomitantly with valproate, is 3.6 g/day administered orally in two equal divided doses of approximately 1.8 g. If concomitant use is warranted, patient response and tolerability should be monitored and dose should be adapted accordingly (see section 4.4)
 
 Discontinuation of Xyrem
 The discontinuation effects of sodium oxybate have not been systematically evaluated in controlled clinical trials (see section 4.4).
 
 If the patient stops taking the medicinal product for more than 14 consecutive days, titration should be restarted from the lowest dose.
-
 Special populations
+
 Elderly
 Elderly patients should be monitored closely for impaired motor and/or cognitive function when taking sodium oxybate (see section 4.4).
 
 Hepatic impairment
-The starting dose should be halved in all patients with hepatic impairment, and response to dose increments monitored closely (see section 4.4).
+The starting dose should be halved in all patients with hepatic impairment, and response to dose increments monitored closely (see section 4.4 and 5.2).
 
 Renal impairment
-All patients with impaired renal function should consider a dietary recommendation to reduce sodium intake (see section 4.4).
+All patients with impaired renal function should consider a recommendation to reduce sodium intake (see section 4.4).
 
 Paediatric population
 The safety and efficacy of sodium oxybate in children and adolescents aged 0-18 years has not been established.

@@ -10,11 +10,11 @@ Additionally, randomised, double-blind, placebo-controlled, crossover drug-drug 
 
 In addition to the adverse reactions reported during clinical studies, adverse reactions have been reported in post-marketing experience.
 It is not always possible to reliably estimate the frequency of their incidence in the population to be treated.
-
 Tabulated summary of adverse reactions
 Undesirable effects are listed according to MedDRA System Organ Class.
 
 Frequency estimate: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1000 to < 1/100); rare (≥ 1/10,000 to < 1/1000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
+
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Infections and infestations
@@ -34,7 +34,7 @@ Not known: suicidal ideation, homicidal ideation, aggression, euphoric mood, sle
 
 Nervous system disorders
 Very common: dizziness, headache
-Common: sleep paralysis, somnolence, tremor, balance disorder, disturbance in attention, hypoaesthesia, paraesthesia, sedation, dysgeusia
+Common: sleep paralysis, somnolence, tremor, balance disorder, disturbance in attention, hypoesthesia, paraesthesia, sedation, dysgeusia
 Uncommon: myoclonus, amnesia, restless legs syndrome
 Not known: convulsion, loss of consciousness, dyskinesia
 
@@ -60,13 +60,13 @@ Very common: nausea (the frequency of nausea is higher in women than men)
 Common: vomiting, diarrhoea, abdominal pain upper,
 Uncommon: faecal incontinence
 Not known: dry mouth
-
 Skin and subcutaneous tissue disorders
 Common: hyperhidrosis, rash
-Not known: urticaria, angioedema, seborrhea
+Not known: urticaria, angioedema, seborrhoea
 
 Musculoskeletal and connective tissue disorders
 Common: arthralgia, muscle, spasms, back pain
+
 Renal and urinary disorders
 Common: enuresis nocturna, urinary incontinence
 Not known: pollakiuria / micturition urgency, nocturia
@@ -87,6 +87,4 @@ Although the clinical trial experience with sodium oxybate in narcolepsy/cataple
 Reporting of suspected adverse reactions
 Reporting of suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
-
-listed in Appendix V.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
