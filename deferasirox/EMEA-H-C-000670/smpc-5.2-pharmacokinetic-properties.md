@@ -8,7 +8,6 @@ The bioavailability (AUC) of deferasirox was moderately (approx. 13–25%) eleva
 
 Distribution
 Deferasirox is highly (99%) protein bound to plasma proteins, almost exclusively serum albumin, and has a small volume of distribution of approximately 14 litres in adults.
-
 Biotransformation
 Glucuronidation is the main metabolic pathway for deferasirox, with subsequent biliary excretion.
 Deconjugation of glucuronidates in the intestine and subsequent reabsorption (enterohepatic recycling) is likely to occur: in a healthy volunteer study, the administration of cholestyramine after a single dose of deferasirox resulted in a 45% decrease in deferasirox exposure (AUC).
@@ -26,6 +25,7 @@ The transporters MRP2 and MXR (BCRP) are involved in the biliary excretion of de
 Linearity / non-linearity
 The Cmax and AUC0-24h of deferasirox increase approximately linearly with dose under steady-state conditions.
 Upon multiple dosing exposure increased by an accumulation factor of 1.3 to 2.3.
+
 Characteristics in patients
 Paediatric patients
 The overall exposure of adolescents (12 to ≤17 years) and children (2 to <12 years) to deferasirox after single and multiple doses was lower than that in adult patients.

@@ -10,6 +10,7 @@ Deferasirox has low affinity for zinc and copper, and does not cause constant lo
 
 Pharmacodynamic effects
 In an iron-balance metabolic study in iron-overloaded adult thalassaemic patients, deferasirox at daily doses of 10, 20 and 40 mg/kg (dispersible tablet formulation) induced the mean net excretion of 0.119, 0.329 and 0.445 mg Fe/kg body weight/day, respectively.
+
 Clinical efficacy and safety
 Clinical efficacy studies were conducted with deferasirox dispersible tablets.
 
@@ -30,7 +31,6 @@ It appeared from a post-hoc analysis of this study that, in the subgroup of pati
 However, in patients with liver iron concentration <7 mg Fe/g dw treated with deferasirox dispersible tablets (5 and 10 mg/kg) or deferoxamine (20 to 35 mg/kg), non-inferiority was not established due to imbalance in the dosing of the two chelators.
 This imbalance occurred because patients on deferoxamine were allowed to remain on their pre-study dose even if it was higher than the protocol specified dose.
 Fifty-six patients under the age of 6 years participated in this pivotal study, 28 of them receiving deferasirox dispersible tablets.
-
 It appeared from preclinical and clinical studies that deferasirox dispersible tablets could be as active as deferoxamine when used in a dose ratio of 2:1 (i.e. a dose of deferasirox dispersible tablets that is numerically half of the deferoxamine dose).
 However, this dosing recommendation was not prospectively assessed in the clinical studies.
 
@@ -38,6 +38,7 @@ In addition, in patients with liver iron concentration ≥7 mg Fe/g dw with vari
 
 In a 5-year observational study in which 267 children aged 2 to <6 years (at enrollment) with transfusional haemosiderosis received deferasirox, there were no clinically meaningful differences in the safety and tolerability profile of Exjade in paediatric patients aged 2 to <6 years compared to the overall adult and older paediatric population, including increases in serum creatinine of >33% and above the upper limit of normal on ≥2 consecutive occasions (3.1%), and elevation of alanine aminotransferase (ALT) greater than 5 times the upper limit of normal (4.3%).
 Single events of increase in ALT and aspartate aminotransferase were reported in 20.0% and 8.3%, respectively, of the 145 patients who completed the study.
+
 In a study to assess the safety of deferasirox film-coated and dispersible tablets, 173 adult and paediatric patients with transfusion dependent thalassaemia or myelodysplastic syndrome were treated for 24 weeks.
 A comparable safety profile for film-coated and dispersible tablets was observed.
 

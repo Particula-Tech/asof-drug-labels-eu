@@ -11,6 +11,8 @@ Doses (in mg/kg) must be calculated and rounded to the nearest whole tablet size
 
 The goals of iron chelation therapy are to remove the amount of iron administered in transfusions and, as required, to reduce the existing iron burden.
 
+Caution should be taken during chelation therapy to minimise the risk of overchelation in all patients (see section 4.4).
+
 In case of switching from film-coated tablets/granules to dispersible tablets, the dose of dispersible tablets should be 40% higher than the dose of film-coated tablets/granules, rounded to the nearest whole tablet.
 
 The corresponding doses for the different formulations are shown in the table below.
@@ -70,14 +72,14 @@ If no satisfactory control is achieved at doses above 30 mg/kg, treatment at suc
 Doses above 40 mg/kg are not recommended because there is only limited experience with doses above this level.
 
 In patients treated with doses greater than 30 mg/kg, dose reductions in steps of 5 to 10 mg/kg should be considered when control has been achieved (e.g. serum ferritin levels persistently below 2,500 µg/l and showing a decreasing trend over time).
-In patients whose serum ferritin level has reached the target (usually between 500 and 1,000 µg/l), dose reductions in steps of 5 to 10 mg/kg should be considered to maintain serum ferritin levels within the target range.
+In patients whose serum ferritin level has reached the target (usually between 500 and 1,000 µg/l), dose reductions in steps of 5 to 10 mg/kg should be considered to maintain serum ferritin levels within the target range and to minimise the risk of overchelation.
 If serum ferritin falls consistently below 500 µg/l, an interruption of treatment should be considered (see section 4.4).
 
 Non-transfusion-dependent thalassaemia syndromes
 
 Chelation therapy should only be initiated when there is evidence of iron overload (liver iron concentration [LIC] ≥5 mg Fe/g dry weight [dw] or serum ferritin consistently >800 µg/l).
 LIC is the preferred method of iron overload determination and should be used wherever available.
-Caution should be taken during chelation therapy to minimise the risk of over-chelation in all patients.
+Caution should be taken during chelation therapy to minimise the risk of overchelation in all patients (see section 4.4).
 
 In case of switching from film-coated tablets/granules to dispersible tablets, the dose of dispersible tablets should be 40% higher than the dose of film-coated tablets/granules, rounded to the nearest whole tablet.
 
@@ -104,7 +106,8 @@ Starting dose
 The recommended initial daily dose of EXJADE dispersible tablets in patients with
 non-transfusion-dependent thalassaemia syndromes is 10 mg/kg body weight.
 Dose adjustment
-It is recommended that serum ferritin be monitored every month. After every 3 to 6 months of
+It is recommended that serum ferritin be monitored every month to assess the patient’s response to
+therapy and to minimise the risk of overchelation (see section 4.4). After every 3 to 6 months of
 treatment, a dose increase in increments of 5 to 10 mg/kg should be considered if the patient’s LIC is
 ≥7 mg Fe/g dw, or if serum ferritin is consistently >2,000 µg/l and not showing a downward trend,
 and the patient is tolerating the medicinal product well. Doses above 20 mg/kg are not recommended
@@ -128,7 +131,8 @@ adjustment.
 
 Paediatric population
 Transfusional iron overload:
-The dosing recommendations for paediatric patients aged 2 to 17 years with transfusional iron overload are the same as for adult patients.
+The dosing recommendations for paediatric patients aged 2 to 17 years with transfusional iron overload are the same as for adult patients (see section 4.2).
+It is recommended that serum ferritin be monitored every month to assess the patient’s response to therapy and to minimise the risk of overchelation (see section 4.4).
 Changes in weight of paediatric patients over time must be taken into account when calculating the dose.
 
 In children with transfusional iron overload aged between 2 and 5 years, exposure is lower than in adults (see section 5.2).
@@ -137,7 +141,8 @@ However, the initial dose should be the same as in adults, followed by individua
 
 Non-transfusion-dependent thalassaemia syndromes:
 In paediatric patients with non-transfusion-dependent thalassaemia syndromes, dosing should not exceed 10 mg/kg.
-In these patients, closer monitoring of LIC and serum ferritin is essential to avoid overchelation: in addition to monthly serum ferritin assessments, LIC should be monitored every three months when serum ferritin is ≤800 µg/l.
+In these patients, closer monitoring of LIC and serum ferritin is essential to avoid overchelation (see section 4.4).
+In addition to monthly serum ferritin assessments, LIC should be monitored every three months when serum ferritin is ≤800 µg/l.
 
 Children from birth to 23 months:
 The safety and efficacy of EXJADE in children from birth to 23 months of age have not been established.
@@ -178,7 +183,7 @@ If no satisfactory control is achieved at doses above 21 mg/kg, treatment at suc
 Doses above 28 mg/kg are not recommended because there is only limited experience with doses above this level (see section 5.1).
 
 In patients treated with doses greater than 21 mg/kg, dose reductions in steps of 3.5 to 7 mg/kg should be considered when control has been achieved (e.g. serum ferritin levels persistently below 2,500 µg/l and showing a decreasing trend over time).
-In patients whose serum ferritin level has reached the target (usually between 500 and 1,000 µg/l), dose reductions in steps of 3.5 to 7 mg/kg should be considered to maintain serum ferritin levels within the target range.
+In patients whose serum ferritin level has reached the target (usually between 500 and 1,000 µg/l), dose reductions in steps of 3.5 to 7 mg/kg should be considered to maintain serum ferritin levels within the target range and to minimise the risk of overchelation.
 
 The recommended initial daily dose of EXJADE film-coated tablets in patients with
 non-transfusion-dependent thalassaemia syndromes is 7 mg/kg body weight.
