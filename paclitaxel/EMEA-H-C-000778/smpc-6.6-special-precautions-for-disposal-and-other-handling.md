@@ -35,10 +35,10 @@ Inspect the suspension in the vial for particulate matter.
 Do not administer the reconstituted suspension if particulate matter is observed in the vial.
 
 The exact total dosing volume of 5 mg/ml suspension required for the patient should be calculated and the appropriate amount of reconstituted Abraxane should be injected into an empty, sterile, PVC or non-PVC type intravenous bag.
-
 The use of medical devices containing silicone oil as a lubricant (i.e. syringes and IV bags) to reconstitute and administer Abraxane may result in the formation of proteinaceous strands.
 Administer Abraxane using an infusion set incorporating a 15 µm filter to avoid administration of these strands.
 Use of a 15 µm filter removes strands and does not change the physical or chemical properties of the reconstituted product.
+
 Use of filters with a pore size less than 15 µm may result in blockage of the filter.
 
 The use of specialized di(2-ethylhexyl)phthalate (DEHP)-free solution containers or administration sets is not necessary to prepare or administer Abraxane infusions.
