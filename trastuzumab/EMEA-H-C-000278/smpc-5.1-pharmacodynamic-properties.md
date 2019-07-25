@@ -25,7 +25,6 @@ HER2 gene amplification should be detected using fluorescence in situ hybridisat
 Patients are eligible for Herceptin treatment if they show strong HER2 overexpression as described by a 3+ score by IHC or a positive FISH or CISH result.
 
 To ensure accurate and reproducible results, the testing must be performed in a specialised laboratory, which can ensure validation of the testing procedures.
-
 The recommended scoring system to evaluate the IHC staining patterns is as stated in Table 2:
 
 Table 2 Recommended Scoring System to Evaluate the IHC Staining Patterns in Breast Cancer
@@ -60,7 +59,6 @@ Based on the clinical trial results, the beneficial effects were limited to pati
 In a method comparison study (study D008548) a high degree of concordance (>95 %) was observed for SISH and FISH techniques for the detection of HER2 gene amplification in gastric cancer patients.
 
 HER2 over expression should be detected using an immunohistochemistry (IHC)-based assessment of fixed tumour blocks; HER2 gene amplification should be detected using in situ hybridisation using either SISH or FISH on fixed tumour blocks.
-
 The recommended scoring system to evaluate the IHC staining patterns is as stated in Table 3:
 
 Table 3 Recommended Scoring System to Evaluate the IHC Staining Patterns in Gastric Cancer
@@ -94,13 +92,13 @@ This investigative clinical trial assay performed in a central laboratory utilis
 Patients classified as staining 2+ or 3+ were included, while those staining 0 or 1+ were excluded.
 Greater than 70 % of patients enrolled exhibited 3+ overexpression.
 The data suggest that beneficial effects were greater among those patients with higher levels of overexpression of HER2 (3+).
-
 The main test method used to determine HER2 positivity in the pivotal trial of docetaxel, with or without Herceptin, was immunohistochemistry.
 A minority of patients was tested using fluorescence in-situ hybridisation (FISH).
 In this trial, 87 % of patients entered had disease that was IHC3+, and 95 % of patients entered had disease that was IHC3+ and/or FISH-positive.
 
 Weekly dosing in metastatic breast cancer
-The efficacy results from the monotherapy and combination therapy studies are summarised in Table 4:
+The efficacy results from the monotherapy and combination therapy studies are summarised in
+Table 4:
 
 Table 4 Efficacy Results from the Monotherapy and Combination Therapy Studies
 
