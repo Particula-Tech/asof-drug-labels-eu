@@ -24,17 +24,18 @@ Frequency categories are defined according to the following convention: very com
 Table 2.
 Adverse reactions in placebo-controlled clinical studiesa and postmarketing experience
 
-| System organ class | Very common | Common* | Uncommon** | Rare | Not known |
-| --- | --- | --- | --- | --- | --- |
-| Infections and infestations |  | Vulvovaginitis, balanitis and related genital infections*,b,c Urinary tract infection*,b,d | Fungal infection** |  | Necrotising fasciitis of the perineum (Fournier's gangrene)i |
-| Metabolism and nutrition disorders | Hypoglycaemia (when used with SU or insulin)b | Diabetic ketoacidosis (when used in type 1 diabetes mellitus)b,i,k | Volume depletionb,e Thirst** | Diabetic ketoacidosis (when used in type 2 diabetes mellitus)i |  |
-| Nervous system disorders |  | Dizziness |  |  |  |
-| Gastrointestinal disorders |  |  | Constipation** Dry mouth** |  |  |
-| Skin and subcutaneous tissue disorders |  | Rashj |  |  |  |
-| Musculoskeletal and connective tissue disorders |  | Back pain* |  |  |  |
-| Renal and urinary disorders |  | Dysuria Polyuria*,f | Nocturia** Renal impairment**,b |  |  |
-| Reproductive system and breast disorders |  |  | Vulvovaginal pruritus** Pruritus genital** |  |  |
-| Investigations |  | Haematocrit increasedg Creatinine renal clearance decreasedb Dyslipidaemiah | Blood creatinine increased**,b Blood urea increased** Weight decreased** |  |  |
+| System organ class | Very common | Common* | Uncommon** | Rare | Very rare | Not known |
+| --- | --- | --- | --- | --- | --- | --- |
+| Infections and infestations |  | Vulvovaginitis, balanitis and related genital infections*,b,c Urinary tract infection*,b,d | Fungal infection** |  |  | Necrotising fasciitis of the perineum (Fournier's gangrene)i |
+| Metabolism and nutrition disorders | Hypoglycaemia (when used with SU or insulin)b | Diabetic ketoacidosis (when used in type 1 diabetes mellitus)b,i,k | Volume depletionb,e Thirst** | Diabetic ketoacidosis (when used in type 2 diabetes mellitus)i |  |  |
+| Nervous system disorders |  | Dizziness |  |  |  |  |
+| Gastrointestinal disorders |  |  | Constipation** Dry mouth** |  |  |  |
+| Skin and subcutaneous tissue disorders |  | Rashj |  |  | Angioedema |  |
+| Musculoskeletal and connective tissue disorders |  | Back pain* |  |  |  |  |
+| Renal and |  | Dysuria | Nocturia** |  |  |  |
+| urinary disorders |  | Polyuria*,f | Renal impairment**,b |  |  |  |
+| Reproductive system and breast disorders |  |  | Vulvovaginal pruritus** Pruritus genital** |  |  |  |
+| Investigations |  | Haematocrit increasedg Creatinine renal clearance decreasedb Dyslipidaemiah | Blood creatinine increased**,b Blood urea increased** Weight decreased** |  |  |  |
 
 aThe table shows up to 24-week (short-term) data regardless of glycaemic rescue.
 bSee corresponding subsection below for additional information.
@@ -59,7 +60,6 @@ The frequency of hypoglycaemia depended on the type of background therapy used i
 For studies of dapagliflozin in monotherapy, as add-on to metformin or as add-on to sitagliptin (with or without metformin), the frequency of minor episodes of hypoglycaemia was similar (< 5%) between treatment groups, including placebo up to 102 weeks of treatment.
 Across all studies, major events of hypoglycaemia were uncommon and comparable between the groups treated with dapagliflozin or placebo.
 Studies with add-on sulphonylurea and add-on insulin therapies had higher rates of hypoglycaemia (see section 4.5).
-
 In an add-on to glimepiride study, at Weeks 24 and 48, minor episodes of hypoglycaemia were reported more frequently in the group treated with dapagliflozin 10 mg plus glimepiride (6.0% and 7.9%, respectively) than in the placebo plus glimepiride group (2.1% and 2.1%, respectively).
 
 In an add-on to insulin study, episodes of major hypoglycaemia were reported in 0.5% and 1.0% of subjects treated with dapagliflozin 10 mg plus insulin at Weeks 24 and 104, respectively, and in 0.5% of subjects treated with placebo plus insulin groups at Weeks 24 and 104.
@@ -89,10 +89,10 @@ These reactions were more common in patients with baseline eGFR ≥30 and < 60 m
 
 Further evaluation of patients who had renal-related adverse events showed that most had serum creatinine changes of ≤0.5 mg/dl from baseline.
 The increases in creatinine were generally transient during continuous treatment or reversible after discontinuation of treatment.
+
 Parathyroid hormone (PTH)
 Small increases in serum PTH levels were observed with increases being larger in subjects with higher baseline PTH concentrations.
 Bone mineral density measurements in patients with normal or mildly impaired renal function did not indicate bone loss over a treatment period of two years.
-
 Malignancies
 During clinical studies, the overall proportion of subjects with malignant or unspecified tumours was similar between those treated with dapagliflozin (1.50%) and placebo/comparator (1.50%), and there was no carcinogenicity or mutagenicity signal in animal data (see section 5.3).
 When considering the cases of tumours occurring in the different organ systems, the relative risk associated with dapagliflozin was above 1 for some tumours (bladder, prostate, breast) and below 1 for others (e.g. blood and lymphatic, ovary, renal tract), not resulting in an overall increased tumour risk associated with dapagliflozin.
@@ -126,14 +126,14 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 Table 1.
 
-| System organ class | Very common | Common* | Uncommon** | Rare | Not known |
-| --- | --- | --- | --- | --- | --- |
-| Infections and infestations |  | Vulvovaginitis, balanitis and related genital infections*,b,c Urinary tract infection*,b,d | Fungal infection** |  | Necrotising fasciitis of the perineum (Fournier's gangrene)i |
-| Metabolism and nutrition disorders | Hypoglycaemia (when used with SU or insulin)b |  | Volume depletionb,e Thirst** | Diabetic ketoacidosisi |  |
-| Nervous system disorders |  | Dizziness |  |  |  |
-| Gastrointestinal disorders |  |  | Constipation** Dry mouth** |  |  |
-| Skin and subcutaneous tissue disorders |  | Rashj |  |  |  |
-| Musculoskeletal and connective tissue disorders |  | Back pain* |  |  |  |
-| Renal and urinary disorders |  | Dysuria Polyuria*,f | Nocturia** Renal impairment**,b |  |  |
-| Reproductive system and breast disorders |  |  | Vulvovaginal pruritus** Pruritus genital** |  |  |
-| Investigations |  | Haematocrit increasedg Creatinine renal clearance decreasedb Dyslipidaemiah | Blood creatinine increased**,b Blood urea increased** Weight decreased** |  |  |
+| System organ class | Very common | Common* | Uncommon** | Rare | Very rare | Not known |
+| --- | --- | --- | --- | --- | --- | --- |
+| Infections and infestations |  | Vulvovaginitis, balanitis and related genital infections*,b,c Urinary tract infection*,b,d | Fungal infection** |  |  | Necrotising fasciitis of the perineum (Fournier's gangrene)i |
+| Metabolism and nutrition disorders | Hypoglycaemia (when used with SU or insulin)b |  | Volume depletionb,e Thirst** | Diabetic ketoacidosisi |  |  |
+| Nervous system disorders |  | Dizziness |  |  |  |  |
+| Gastrointestinal disorders |  |  | Constipation** Dry mouth** |  |  |  |
+| Skin and subcutaneous tissue disorders |  | Rashj |  |  | Angioedema |  |
+| Musculoskeletal and connective tissue disorders |  | Back pain* |  |  |  |  |
+| Renal and urinary disorders |  | Dysuria Polyuria*,f | Nocturia** Renal impairment**,b |  |  |  |
+| Reproductive system and breast disorders |  |  | Vulvovaginal pruritus** Pruritus genital** |  |  |  |
+| Investigations |  | Haematocrit increasedg Creatinine renal clearance decreasedb Dyslipidaemiah | Blood creatinine increased**,b Blood urea increased** Weight decreased** |  |  |  |

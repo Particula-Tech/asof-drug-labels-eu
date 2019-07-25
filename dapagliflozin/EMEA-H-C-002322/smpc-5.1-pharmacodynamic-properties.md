@@ -28,9 +28,9 @@ Evidence of sustained glucose excretion was seen in subjects with type 2 diabete
 This urinary glucose excretion with dapagliflozin also results in osmotic diuresis and increases in urinary volume in subjects with type 2 diabetes mellitus.
 Urinary volume increases in subjects with type 2 diabetes mellitus treated with dapagliflozin 10 mg were sustained at 12 weeks and amounted to approximately 375 ml/day.
 The increase in urinary volume was associated with a small and transient increase in urinary sodium excretion that was not associated with changes in serum sodium concentrations.
+
 Urinary uric acid excretion was also increased transiently (for 3-7 days) and accompanied by a sustained reduction in serum uric acid concentration.
 At 24 weeks, reductions in serum uric acid concentrations ranged from -48.3 to -18.3 micromoles/l (-0.87 to -0.33 mg/dl).
-
 Clinical efficacy and safety
 Type 2 diabetes mellitus
 Fourteen double-blind, randomised, controlled clinical studies were conducted with 7,056 subjects with type 2 diabetes to evaluate the efficacy and safety of Forxiga; 4,737 subjects in these studies were treated with dapagliflozin.
