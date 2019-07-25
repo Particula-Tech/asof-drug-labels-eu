@@ -25,6 +25,7 @@ In an in vitro study, zoledronic acid showed low affinity for the cellular compo
 The plasma protein binding is low, with the unbound fraction ranging from 60% at 2 ng/ml to 77% at 2000 ng/ml of zoledronic acid.
 
 Special populations
+
 Paediatric patients
 Limited pharmacokinetic data in children with severe osteogenesis imperfecta suggest that zoledronic acid pharmacokinetics in children aged 3 to 17 years are similar to those in adults at a similar mg/kg dose level.
 Age, body weight, gender and creatinine clearance appear to have no effect on zoledronic acid systemic exposure.

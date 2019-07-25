@@ -4,6 +4,7 @@ Zometa must only be prescribed and administered to patients by healthcare profes
 Patients treated with Zometa should be given the package leaflet and the patient reminder card.
 
 Posology
+
 Prevention of skeletal related events in patients with advanced malignancies involving bone
 Adults and older people
 The recommended dose in the prevention of skeletal related events in patients with advanced malignancies involving bone is 4 mg zoledronic acid every 3 to 4 weeks.
@@ -53,11 +54,13 @@ The safety and efficacy of zoledronic acid in children aged 1 year to 17 years h
 Currently available data are described in section 5.1 but no recommendation on a posology can be made.
 
 Method of administration
+
 Intravenous use.
 Zometa 4 mg powder and solvent for solution for infusion, reconstituted and further diluted in 100 ml (see section 6.6), should be given as a single intravenous infusion in no less than 15 minutes.
 
 In patients with mild to moderate renal impairment, reduced Zometa doses are recommended (see section “Posology” above and section 4.4).
 Instructions for preparing reduced doses of Zometa
+
 Withdraw an appropriate volume of the reconstituted solution (4 mg/5 ml) as needed:
 
 - 4.4 ml for 3.5 mg dose
@@ -74,7 +77,6 @@ Patients must be maintained well hydrated prior to and following administration 
 
 [Zometa 4 mg/5 ml concentrate for solution for infusion]
 
-Currently available data are described in section and 5.1 but no recommendation on a posology can be made.
 Zometa 4 mg concentrate for solution for infusion, further diluted in 100 ml (see section 6.6), should be given as a single intravenous infusion in no less than 15 minutes.
 
 Withdraw an appropriate volume of the concentrate needed, as follows:
@@ -96,7 +98,7 @@ In patients with normal renal function, defined as CLcr > 60 ml/min, zoledronic 
 To prepare reduced doses for patients with baseline CLcr ≤ 60 ml/min, refer to Table 1 below.
 Remove the volume of Zometa solution indicated from the bottle and replace with an equal volume of sterile sodium chloride 9 mg/ml (0,9%) solution for injection, or 5% glucose solution for injection.
 
-Table 1: Preparation of reduced doses of Zometa 4 mg/100 ml solution for infusion
+Table 1 Preparation of reduced doses of Zometa 4 mg/100 ml solution for infusion
 
 | Baseline creatinine clearance (ml/min) | Remove the following amount of Zometa solution for infusion (ml) | Replace with the following volume of sterile sodium chloride 9 mg/ml (0,9%), or 5% glucose solution for injection (ml) | Adjusted dose (mg zoledronic acid in 100 ml) |
 | --- | --- | --- | --- |

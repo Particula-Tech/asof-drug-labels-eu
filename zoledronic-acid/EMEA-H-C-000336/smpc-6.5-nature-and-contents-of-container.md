@@ -1,6 +1,6 @@
 # 6.5 Nature and contents of container
 
-Powder vial: 6-ml colourless glass vial, hydrolytic glass type I (Ph.
+Powder vial: 6 ml colourless glass vial, hydrolytic glass type I (Ph.
 Eur.).
 
 Solvent ampoule: 5-ml colourless glass ampoule.

@@ -1,12 +1,15 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
+
 Within three days after Zometa administration, an acute phase reaction has commonly been reported, with symptoms including bone pain, fever, fatigue, arthralgia, myalgia, rigors and arthritis with subsequent joint swelling; these symptoms usually resolve within a few days (see description of selected adverse reactions).
 
 The following are the important identified risks with Zometa in the approved indications:
 Renal function impairment, osteonecrosis of the jaw, acute phase reaction, hypocalcaemia, atrial fibrillation, anaphylaxis, interstitial lung disease.
 The frequencies for each of these identified risks are shown in Table 1.
+
 Tabulated list of adverse reactions
+
 The following adverse reactions, listed in Table 1, have been accumulated from clinical studies and post-marketing reports following predominantly chronic treatment with 4 mg zoledronic acid:
 
 Table 1
@@ -114,16 +117,17 @@ Uncommon: Hypomagnesaemia, hypokalaemia
 Rare: Hyperkalaemia, hypernatraemia
 
 Description of selected adverse reactions
+
 Renal function impairment
 Zometa has been associated with reports of renal dysfunction.
 In a pooled analysis of safety data from Zometa registration trials for the prevention of skeletal-related events in patients with advanced malignancies involving bone, the frequency of renal impairment adverse events suspected to be related to Zometa (adverse reactions) was as follows: multiple myeloma (3.2%), prostate cancer (3.1%), breast cancer (4.3%), lung and other solid tumours (3.2%).
 Factors that may increase the potential for deterioration in renal function include dehydration, pre-existing renal impairment, multiple cycles of Zometa or other bisphosphonates, as well as concomitant use of nephrotoxic medicinal products or using a shorter infusion time than currently recommended.
 Renal deterioration, progression to renal failure and dialysis have been reported in patients after the initial dose or a single dose of 4 mg zoledronic acid (see section 4.4).
-
 Osteonecrosis of the jaw
 Cases of osteonecrosis of the jaw have been reported, predominantly in cancer patients treated with medicinal products that inhibit bone resorption, such as Zometa (see section 4.4).
 Many of these patients were also receiving chemotherapy and corticosteroids and had signs of local infection including osteomyelitis.
 The majority of the reports refer to cancer patients following tooth extractions or other dental surgeries.
+
 Atrial fibrillation
 In one 3-year, randomised, double-blind controlled trial that evaluated the efficacy and safety of zoledronic acid 5 mg once yearly vs. placebo in the treatment of postmenopausal osteoporosis (PMO), the overall incidence of atrial fibrillation was 2.5% (96 out of 3,862) and 1.9% (75 out of 3,852) in patients receiving zoledronic acid 5 mg and placebo, respectively.
 The rate of atrial fibrillation serious adverse events was 1.3% (51 out of 3,862) and 0.6% (22 out of 3,852) in patients receiving zoledronic acid 5 mg and placebo, respectively.
@@ -143,6 +147,7 @@ Based on the review of both clinical trial and post-marketing cases, there is su
 Furthermore, there is evidence of an association between hypocalcaemia and secondary neurological events reported in these cases including; convulsions, hypoaesthesia and tetany (see section 4.4).
 
 Reporting of suspected adverse reactions
+
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
