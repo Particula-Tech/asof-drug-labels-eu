@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Laboratoire HRA Pharma
-15 rue Béranger
-75003 Paris
+LABORATOIRE HRA PHARMA
+200 avenue de Paris
+92320 CHATILLON
 France
