@@ -17,14 +17,13 @@ Hepatic impairment
 There is limited experience in clinical studies in patients with hepatic impairment.
 Dapagliflozin exposure is increased in patients with severe hepatic impairment (see sections 4.2 and 5.2).
 
-Use in patients at risk for volume depletion, hypotension and/or electrolyte imbalances
-Due to its mechanism of action, dapagliflozin increases diuresis associated with a modest decrease in blood pressure (see section 5.1), which may be more pronounced in patients with very high blood glucose concentrations.
+Use in patients at risk for volume depletion and/or hypotension
+Due to its mechanism of action, dapagliflozin increases diuresis which may lead to the modest decrease in blood pressure observed in clinical studies (see section 5.1).
+It may be more pronounced in patients with very high blood glucose concentrations.
 
-Dapagliflozin is not recommended for use in patients receiving loop diuretics (see section 4.5) or who are volume depleted, e.g. due to acute illness (such as gastrointestinal illness).
+Caution should be exercised in patients for whom a dapagliflozin-induced drop in blood pressure could pose a risk, such as patients on anti-hypertensive therapy with a history of hypotension or elderly patients.
 
-Caution should be exercised in patients for whom a dapagliflozin-induced drop in blood pressure could pose a risk, such as patients with known cardiovascular disease, patients on anti-hypertensive therapy with a history of hypotension or elderly patients.
-
-For patients receiving dapagliflozin, in case of intercurrent conditions that may lead to volume depletion, careful monitoring of volume status (e.g. physical examination, blood pressure measurements, laboratory tests including haematocrit) and electrolytes is recommended.
+In case of intercurrent conditions that may lead to volume depletion (e.g. gastrointestinal illness), careful monitoring of volume status (e.g. physical examination, blood pressure measurements, laboratory tests including haematocrit and electrolytes) is recommended.
 Temporary interruption of treatment with dapagliflozin is recommended for patients who develop volume depletion until the depletion is corrected (see section 4.8).
 
 Diabetic ketoacidosis
@@ -38,10 +37,10 @@ Before initiating dapagliflozin, factors in the patient history that may predisp
 
 Treatment should be interrupted in patients who are hospitalised for major surgical procedures or acute serious medical illnesses.
 In both cases, treatment with dapagliflozin may be restarted once the patient’s condition has stabilised.
+
 Type 2 diabetes mellitus
 Rare cases of DKA, including life-threatening and fatal cases, have been reported in patients treated with SGLT2 inhibitors, including dapagliflozin.
 In a number of cases, the presentation of the condition was atypical with only moderately increased blood glucose values, below 14 mmol/L (250 mg/dL).
-
 In patients where DKA is suspected or diagnosed, dapagliflozin treatment should be stopped immediately.
 
 Restarting SGLT2 inhibitor treatment in patients experiencing a DKA while on SGLT2 inhibitor treatment is not recommended, unless another clear precipitating factor is identified and resolved.
@@ -77,8 +76,8 @@ Insulin injections should be given within 2 hours of an unexplained high blood g
   Supplemental carbohydrate may be required in addition to hydration and additional rapid insulin (see Table 1 in section 4.2).
 
 In patients where DKA is suspected or diagnosed, dapagliflozin treatment should be stopped immediately.
-Restarting SGLT2 inhibitor treatment in patients experiencing a DKA while on SGLT2 inhibitor treatment is not recommended, unless another clear precipitating factor is identified and resolved.
 
+Restarting SGLT2 inhibitor treatment in patients experiencing a DKA while on SGLT2 inhibitor treatment is not recommended, unless another clear precipitating factor is identified and resolved.
 During treatment with dapagliflozin:
 
 - Insulin therapy should be continuously optimised.
@@ -103,31 +102,16 @@ Be aware that either uro-genital infection or perineal abscess may precede necro
 If Fournier’s gangrene is suspected, Forxiga should be discontinued and prompt treatment (including antibiotics and surgical debridement) should be instituted.
 
 Urinary tract infections
-Urinary tract infections were more frequently reported for dapagliflozin 10 mg compared to placebo in a pooled analysis up to 24 weeks (see section 4.8).
-Pyelonephritis was uncommon and occurred at a similar frequency to control.
 Urinary glucose excretion may be associated with an increased risk of urinary tract infection; therefore, temporary interruption of dapagliflozin should be considered when treating pyelonephritis or urosepsis.
 
 Elderly (≥65 years)
+Elderly patients may be at a greater risk for volume depletion and are more likely to be treated with diuretics.
+
 Elderly patients are more likely to have impaired renal function, and/or to be treated with anti-hypertensive medicinal products that may cause changes in renal function such as angiotensin-converting enzyme inhibitors (ACE-I) and angiotensin II type 1 receptor blockers (ARB).
 The same recommendations for renal function apply to elderly patients as to all patients (see sections 4.2, 4.4, 4.8 and 5.1).
 
-In subjects ≥65 years of age, a higher proportion of subjects treated with dapagliflozin had adverse reactions related to renal impairment or failure compared with placebo.
-The most commonly reported adverse reaction related to renal function was serum creatinine increases, the majority of which were transient and reversible (see section 4.8).
-
-Elderly patients may be at a greater risk for volume depletion and are more likely to be treated with diuretics.
-In subjects ≥65 years of age, a higher proportion of subjects treated with dapagliflozin had adverse reactions related to volume depletion (see section 4.8).
-
-Therapeutic experience in patients 75 years and older is limited.
-Initiation of dapagliflozin therapy in this population is not recommended (see sections 4.2 and 5.2).
 Cardiac failure
-Experience in NYHA class I-II is limited, and there is no experience in clinical studies with dapagliflozin in NYHA class III-IV.
-
-Use in patients treated with pioglitazone
-While a causal relationship between dapagliflozin and bladder cancer is unlikely (see sections 4.8 and 5.3), as a precautionary measure, dapagliflozin is not recommended for use in patients concomitantly treated with pioglitazone.
-Available epidemiological data for pioglitazone suggest a small increased risk of bladder cancer in diabetic patients treated with pioglitazone.
-
-Elevated haematocrit
-Haematocrit increase was observed with dapagliflozin treatment (see section 4.8); therefore, caution in patients with already elevated haematocrit is warranted.
+There is no experience in clinical studies with dapagliflozin in NYHA class IV.
 
 Lower limb amputations
 An increase in cases of lower limb amputation (primarily of the toe) has been observed in ongoing long-term, clinical studies with another SGLT2 inhibitor.

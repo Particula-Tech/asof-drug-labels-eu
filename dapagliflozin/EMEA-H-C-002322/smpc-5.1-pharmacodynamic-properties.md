@@ -4,7 +4,6 @@ Pharmacotherapeutic group: Drugs used in diabetes, Sodium-glucose co-transporter
 
 Mechanism of action
 Dapagliflozin is a highly potent (Ki: 0.55 nM), selective and reversible inhibitor of SGLT2.
-
 The SGLT2 is selectively expressed in the kidney with no expression detected in more than 70 other tissues including liver, skeletal muscle, adipose tissue, breast, bladder and brain.
 SGLT2 is the predominant transporter responsible for reabsorption of glucose from the glomerular filtrate back into the circulation.
 Despite the presence of hyperglycaemia in type 2 diabetes, reabsorption of filtered glucose continues.
@@ -26,21 +25,26 @@ Approximately 70 g of glucose was excreted in the urine per day (corresponding t
 Evidence of sustained glucose excretion was seen in subjects with type 2 diabetes mellitus given dapagliflozin 10 mg/day for up to 2 years.
 
 This urinary glucose excretion with dapagliflozin also results in osmotic diuresis and increases in urinary volume in subjects with type 2 diabetes mellitus.
-Urinary volume increases in subjects with type 2 diabetes mellitus treated with dapagliflozin 10 mg were sustained at 12 weeks and amounted to approximately 375 ml/day.
+Urinary volume increases in subjects with type 2 diabetes mellitus treated with dapagliflozin 10 mg were sustained at 12 weeks and amounted to approximately 375 mL/day.
 The increase in urinary volume was associated with a small and transient increase in urinary sodium excretion that was not associated with changes in serum sodium concentrations.
 
 Urinary uric acid excretion was also increased transiently (for 3-7 days) and accompanied by a sustained reduction in serum uric acid concentration.
-At 24 weeks, reductions in serum uric acid concentrations ranged from -48.3 to -18.3 micromoles/l (-0.87 to -0.33 mg/dl).
+At 24 weeks, reductions in serum uric acid concentrations ranged from -48.3 to -18.3 micromoles/L (-0.87 to -0.33 mg/dL).
+
 Clinical efficacy and safety
 Type 2 diabetes mellitus
-Fourteen double-blind, randomised, controlled clinical studies were conducted with 7,056 subjects with type 2 diabetes to evaluate the efficacy and safety of Forxiga; 4,737 subjects in these studies were treated with dapagliflozin.
-Twelve studies had a treatment period of 24 weeks duration, 8 with long-term extensions ranging from 24 to 80 weeks (up to a total study duration of 104 weeks), one study had a 28-week treatment period, and one study was 52 weeks in duration with long-term extensions of 52 and 104 weeks (total study duration of 208 weeks).
+Both improvement of glycaemic control and reduction of cardiovascular morbidity and mortality are an integral part of the treatment of type 2 diabetes.
+
+Fourteen double-blind, randomised, controlled clinical studies were conducted with 7,056 subjects with type 2 diabetes to evaluate the glycaemic efficacy and safety of Forxiga; 4,737 subjects in these studies were treated with dapagliflozin.
+Twelve studies had a treatment period of 24 weeks duration,
+8 with long-term extensions ranging from 24 to 80 weeks (up to a total study duration of 104 weeks), one study had a 28-week treatment period, and one study was 52 weeks in duration with long-term extensions of 52 and 104 weeks (total study duration of 208 weeks).
 Mean duration of diabetes ranged from 1.4 to 16.9 years.
 Fifty percent (50%) had mild renal impairment and 11% had moderate renal impairment.
 Fifty-one percent (51%) of the subjects were men, 84% were White, 8% were Asian,
 4% were Black and 4% were of other racial groups.
 Eighty-one percent (81%) of the subjects had a body mass index (BMI) ≥27.
 Furthermore, two 12-week, placebo-controlled studies were conducted in patients with inadequately controlled type 2 diabetes and hypertension.
+A cardiovascular outcomes study (DECLARE) was conducted with dapagliflozin 10 mg compared with placebo in 17,160 patients with type 2 diabetes mellitus with or without established cardiovascular disease to evaluate the effect on cardiovascular and renal events.
 
 Glycaemic control
 Monotherapy
@@ -90,7 +94,6 @@ At Week 104, adjusted mean change from baseline in HbA1c was -0.32% for dapaglif
 At Week 208, adjusted mean change from baseline in HbA1c was -0.10% for dapagliflozin and 0.20% for glipizide.
 At 52, 104 and 208 weeks, a significantly lower proportion of subjects in the group treated with dapagliflozin (3.5%, 4.3% and 5.0%, respectively) experienced at least one event of hypoglycaemia compared to the group treated with glipizide (40.8%, 47.0% and 50.0%, respectively).
 The proportion of subjects remaining in the study at Week 104 and Week 208 was 56.2% and 39.7% for the group treated with dapagliflozin and 50.0% and 34.6% for the group treated with glipizide.
-
 Table 4.
 Results at Week 52 (LOCFa) in an active-controlled study comparing dapagliflozin to glipizide as add-on to metformin
 
@@ -323,10 +326,10 @@ P-values are all adjusted p-values for multiplicity.
 Analyses exclude measurements post rescue therapy and post premature discontinuation of study medicinal product.
 
 Fasting plasma glucose
-Treatment with dapagliflozin 10 mg as a monotherapy or as an add-on to either metformin, glimepiride, metformin and a sulphonylurea, sitagliptin (with or without metformin) or insulin resulted in statistically significant reductions in FPG (-1.90 to -1.20 mmol/l [-34.2 to -21.7 mg/dl]) compared to placebo (-0.33 to 0.21 mmol/l [-6.0 to 3.8 mg/dl]).
+Treatment with dapagliflozin 10 mg as a monotherapy or as an add-on to either metformin, glimepiride, metformin and a sulphonylurea, sitagliptin (with or without metformin) or insulin resulted in statistically significant reductions in FPG (-1.90 to -1.20 mmol/L [-34.2 to -21.7 mg/dL]) compared to placebo (-0.33 to 0.21 mmol/L [-6.0 to 3.8 mg/dL]).
 This effect was observed at Week 1 of treatment and maintained in studies extended through Week 104.
 
-Combination therapy of dapagliflozin 10 mg and prolonged-release exenatide resulted in significantly greater reductions in FPG at Week 28: -3.66 mmol/l (-65.8 mg/dl), compared to -2.73 mmol/l (-49.2 mg/dl) for dapagliflozin alone (p < 0.001) and -2.54 mmol/l (-45.8 mg/dl) for exenatide alone
+Combination therapy of dapagliflozin 10 mg and prolonged-release exenatide resulted in significantly greater reductions in FPG at Week 28: -3.66 mmol/L (-65.8 mg/dL), compared to -2.73 mmol/L (-49.2 mg/dL) for dapagliflozin alone (p < 0.001) and -2.54 mmol/L (-45.8 mg/dL) for exenatide alone
 (p < 0.001).
 
 In a dedicated study in diabetic patients with an eGFR ≥45 to < 60 mL/min/1.73 m2, treatment with dapagliflozin demonstrated reductions in FPG at Week 24: -1.19 mmol/L (-21.46 mg/dL) compared to -0.27 mmol/L (-4.87 mg/dL) for placebo (p=0.001).
@@ -362,19 +365,11 @@ At Week 12 for both studies, dapagliflozin 10 mg plus usual antidiabetic treatme
 
 In a dedicated study in diabetic patients with an eGFR ≥45 to < 60 mL/min/1.73 m2, treatment with dapagliflozin demonstrated reductions in seated systolic blood pressure at Week 24: -4.8 mmHg compared to -1.7 mmHg for placebo (p < 0.05).
 
-Cardiovascular safety
-A meta-analysis of cardiovascular events in the clinical program was performed.
-In the clinical program, 34.4% of subjects had a history of cardiovascular disease (excluding hypertension) at baseline and 67.9% had hypertension.
-Cardiovascular episodes were adjudicated by an independent adjudication committee.
-The primary end point was the time-to-first event of one of the following outcomes: cardiovascular death, stroke, myocardial infarction (MI) or hospitalisation for unstable angina.
-Primary episodes occurred at a rate of 1.62% per patient-year in subjects treated with dapagliflozin and 2.06% in comparator-treatment subjects, per patient-year.
-The hazard ratio comparing dapagliflozin to comparator was 0.79 (95% Confidence interval [CI]: 0.58, 1.07), indicating that in this analysis Forxiga is not associated with an increase in cardiovascular risk in patients with type 2 diabetes mellitus.
-Cardiovascular death, MI and stroke were observed with a hazard ratio of 0.77 (95% CI: 0.54, 1.10).
-
-Renal impairment
-Moderate renal impairment CKD 3A (eGFR ≥45 to < 60 mL/min/1.73 m2)
+Glycaemic control in patients with moderate renal impairment CKD 3A
+(eGFR ≥45 to < 60 mL/min/1.73 m2)
 The efficacy of dapagliflozin was assessed in a dedicated study in diabetic patients with an eGFR ≥45 to < 60 mL/min/1.73 m2 who had inadequate glycaemic control on usual care.
 Treatment with dapagliflozin resulted in reductions in HbA1c and body weight compared with placebo (Table 10).
+
 Table 10.
 Results at Week 24 of a placebo-controlled study of dapagliflozin in diabetic patients with an eGFR ≥45 to < 60 mL/min/1.73 m2
 
@@ -395,15 +390,68 @@ Body weight (kg)
 
 Baseline (mean) 92.51 88.30
 Percent change from baselinec -3.42 -2.02
-Difference in percent change from placeboc -1.43*
-(95% CI) (-2.15, -0.69)
+Difference in percent change from -1.43*
+placeboc (-2.15, -0.69)
 
-a Metformin or metformin hydrochloride were part of the usual care in 69.4% and 64.0% of the patients for the dapagliflozin and placebo groups, respectively.
+(95% CI) a Metformin or metformin hydrochloride were part of the usual care in 69.4% and 64.0% of the patients for the dapagliflozin and placebo groups, respectively.
 b Least squares mean adjusted for baseline value c Derived from least squares mean adjusted for baseline value
 * p<0.001
 
 Patients with baseline HbA1c ≥9%
 In a pre-specified analysis of subjects with baseline HbA1c ≥9.0%, treatment with dapagliflozin 10 mg resulted in statistically significant reductions in HbA1c at Week 24 as a monotherapy (adjusted mean change from baseline: -2.04% and 0.19% for dapagliflozin 10 mg and placebo, respectively) and as an add-on to metformin (adjusted mean change from baseline: -1.32% and -0.53% for dapagliflozin and placebo, respectively).
+Cardiovascular and renal outcomes
+Dapagliflozin Effect on Cardiovascular Events (DECLARE) was an international, multicentre, randomised, double-blind, placebo-controlled clinical study conducted to determine the effect of dapagliflozin compared with placebo on cardiovascular outcomes when added to current background therapy.
+All patients had type 2 diabetes mellitus and either at least two additional cardiovascular risk factors (age ≥55 years in men or ≥60 years in women and one or more of dyslipidaemia, hypertension or current tobacco use) or established cardiovascular disease.
+
+Of 17,160 randomised patients, 6,974 (40.6%) had established cardiovascular disease and 10,186 (59.4%) did not have established cardiovascular disease.
+8,582 patients were randomised to dapagliflozin 10 mg and 8,578 to placebo, and were followed for a median of 4.2 years.
+
+The mean age of the study population was 63.9 years, 37.4% were female.
+In total, 22.4% had had diabetes for ≤5 years, mean duration of diabetes was 11.9 years.
+Mean HbA1c was 8.3% and mean BMI was 32.1 kg/m2.
+
+At baseline, 10.0% of patients had a history of heart failure.
+Mean eGFR was 85.2 mL/min/1.73 m2, 7.4% of patients had eGFR < 60 mL/min/1.73 m2, and 30.3% of patients had micro- or macroalbuminuria (urine albumin to creatinine ratio [UACR] ≥30 to ≤300 mg/g or > 300 mg/g, respectively).
+
+Most patients (98%) used one or more diabetic medications at baseline, including metformin (82%), insulin (41%) and sulfonylurea (43%).
+
+The primary endpoints were time to first event of the composite of cardiovascular death, myocardial infarction or ischaemic stroke (MACE) and time to first event of the composite of hospitalisation for heart failure or cardiovascular death.
+The secondary endpoints were a renal composite endpoint and all-cause mortality.
+
+Major adverse cardiovascular events
+Dapagliflozin 10 mg demonstrated non-inferiority versus placebo for the composite of cardiovascular death, myocardial infarction or ischaemic stroke (one-sided p < 0.001).
+
+Heart failure or cardiovascular death
+Dapagliflozin 10 mg demonstrated superiority versus placebo in preventing the composite of hospitalisation for heart failure or cardiovascular death (Figure 1).
+The difference in treatment effect was driven by hospitalisation for heart failure, with no difference in cardiovascular death (Figure 2).
+
+The treatment benefit of dapagliflozin over placebo was observed both in patients with and without established cardiovascular disease, with and without heart failure at baseline, and was consistent across key subgroups, including age, gender, renal function (eGFR) and region.
+Figure 1: Time to first occurrence of hospitalisation for heart failure or cardiovascular death
+
+Patients at risk is the number of patients at risk at the beginning of the period.
+HR=Hazard ratio CI=Confidence interval.
+
+Results on primary and secondary endpoints are displayed in Figure 2.
+Superiority of dapagliflozin over placebo was not demonstrated for MACE (p=0.172).
+The renal composite endpoint and all-cause mortality were therefore not tested as part of the confirmatory testing procedure.
+
+Figure 2: Treatment effects for the primary composite endpoints and their components, and the secondary endpoints and components
+
+Renal composite endpoint defined as: sustained confirmed ≥40% decrease in eGFR to eGFR <60 mL/min/1.73 m2 and/or end-stage renal disease (dialysis ≥90 days or kidney transplantation, sustained confirmed eGFR < 15 mL/min/1.73 m2) and/or renal or cardiovascular death.
+p-values are two-sided. p-values for the secondary endpoints and for single components are nominal.
+Time to first event was analysed in a Cox proportional hazards model.
+The number of first events for the single components are the actual number of first events for each component and does not add up to the number of events in the composite endpoint.
+CI=confidence interval.
+
+Nephropathy
+Dapagliflozin reduced the incidence of events of the composite of confirmed sustained eGFR decrease, end-stage renal disease, renal or cardiovascular death.
+The difference between groups was driven by reductions in events of the renal components; sustained eGFR decrease, end-stage renal disease and renal death (Figure 2).
+
+The hazard ratio for time to nephropathy (sustained eGFR decrease, end-stage renal disease and renal death) was 0.53 (95% CI 0.43, 0.66) for dapagliflozin versus placebo.
+
+In addition, dapagliflozin reduced the new onset of sustained albuminuria (hazard ratio 0.79
+[95% CI 0.72, 0.87]) and led to greater regression of macroalbuminuria (hazard ratio 1.82
+[95% CI 1.51, 2.20]) compared with placebo.
 
 Type 1 diabetes mellitus
 Dapagliflozin as an adjunct to adjustable insulin was studied in two 24-week randomised, double-blind, placebo-controlled clinical studies with a 28-week extension to evaluate the efficacy and safety in adult patients with type 1 diabetes mellitus and inadequate glycaemic control (defined as
@@ -419,6 +467,7 @@ Treatment with dapagliflozin was not associated with an increase in percentage o
 The number of patients with severe hypoglycaemia was balanced across treatment groups (6.9% and 7.5% at Week 24 in the dapagliflozin 5 mg and placebo groups, respectively).
 
 The percentage of patients achieving ≥0.5% reductions in HbA1c without severe hypoglycaemia was significantly higher in patients treated with dapagliflozin compared with placebo (Table 11).
+
 Table 11.
 Results at Week 24 of two placebo-controlled clinical studies of dapagliflozin as an adjunct to insulin in adults with type 1 diabetes mellitus
 
@@ -434,6 +483,10 @@ Baseline (mean) 8.52 8.50 8.45 8.40
 Change from baseline -0.45 -0.03 -0.34 0.03
 Difference from placebo -0.42* -0.37*
 95% CI (-0.56, -0.28) (-0.49, -0.26)
+Study MB102229 Study MB102230
+Efficacy Parameter Dapagliflozin Placebo Dapagliflozin Placebo
+5 mg + Insulin 5 mg + Insulin
++ Insulin + Insulin
 Subjects (%) achieving 49.6* 25.3 39.5* 20.1
 
 ≥0.5% reductions in HbA1c without severe hypoglycaemia
@@ -478,6 +531,9 @@ Dapagliflozin as an add-on with either metformin, glimepiride, metformin and a s
 Treatment with dapagliflozin 10 mg in combination with metformin (up to 2000 mg per day) provided significant improvements in HbA1c compared to the individual components (Table 7), and led to greater reductions in fasting plasma glucose (FPG) (compared to the individual components) and body weight (compared to metformin).
 
 The combination treatment with dapagliflozin 10 mg and prolonged-release exenatide group showed superior reductions in HbA1c from baseline compared to dapagliflozin alone and prolonged-release exenatide alone (Table 8).
+
+Combination therapy of dapagliflozin 10 mg and prolonged-release exenatide resulted in significantly greater reductions in FPG at Week 28: -3.66 mmol/L (-65.8 mg/dL), compared to -2.73 mmol/L
+(-49.2 mg/dL) for dapagliflozin alone (p < 0.001) and -2.54 mmol/L (-45.8 mg/dL) for exenatide alone (p < 0.001).
 
 Dapagliflozin 10 mg as an add-on to metformin, glimepiride, metformin and a sulphonylurea, sitagliptin (with or without metformin) or insulin resulted in statistically significant body weight reduction at 24 weeks (p < 0.0001, Tables 4 and 5).
 

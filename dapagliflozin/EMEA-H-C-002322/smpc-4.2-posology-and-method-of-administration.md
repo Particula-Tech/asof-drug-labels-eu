@@ -2,7 +2,8 @@
 
 Posology
 Type 2 diabetes mellitus
-The recommended dose is 10 mg dapagliflozin once daily for monotherapy and add-on combination therapy with other glucose-lowering medicinal products, including insulin.
+The recommended dose is 10 mg dapagliflozin once daily.
+
 When dapagliflozin is used in combination with insulin or an insulin secretagogue, such as a sulphonylurea, a lower dose of insulin or insulin secretagogue may be considered to reduce the risk of hypoglycaemia (see sections 4.5 and 4.8).
 
 Type 1 diabetes mellitus
@@ -11,18 +12,17 @@ Treatment with Forxiga is to be initiated and supervised by specialists in type 
 The recommended dose is 5 mg once daily.
 
 Dapagliflozin must only be administered as an adjunct to insulin.
-
 Before initiating treatment with dapagliflozin:
 
 - Risk factors for diabetic ketoacidosis (DKA) should be assessed (see section 4.4).
 - It should be ensured that ketone levels are normal.
   If ketones are elevated (blood beta-hydroxybutyrate reading greater than 0.6 mmol/L or urine ketones one plus (+)), treatment with dapagliflozin should not be started until the ketone levels are normal (see section 4.4).
 - It should be ensured that the patient demonstrates the ability to monitor ketone levels.
-- It is recommended that patients obtain several baseline ketone levels over one to two weeks prior to initiation of dapagliflozin therapy, and, patients should become familiar with how their behaviours and circumstances affect their ketone levels.
+- It is recommended that patients obtain several baseline ketone levels over one to two weeks prior to initiation of dapagliflozin therapy, and patients should become familiar with how their behaviours and circumstances affect their ketone levels.
 - Patients should be informed, in a dedicated education session, on the risk of DKA, how to recognize DKA risk factors, signs or symptoms, how and when to monitor ketone levels and what actions to take at elevated ketone readings (see section 4.4).
 - Correction of volume depletion prior to initiation of dapagliflozin is recommended in patients with this condition (see section 4.4).
 
-In order to avoid hypoglycaemia with the first dose of dapagliflozin a 20% reduction in the first mealtime bolus insulin may be considered.
+In order to avoid hypoglycaemia with the first dose of dapagliflozin, a 20% reduction in the first mealtime bolus insulin may be considered.
 Subsequent bolus doses should be adjusted individually based on blood glucose results.
 No reduction in basal insulin is recommended when initiating dapagliflozin.
 Subsequently, basal insulin should be adjusted based on blood glucose results.
@@ -52,12 +52,11 @@ No dose adjustment is required based on renal function.
 Hepatic impairment
 No dose adjustment is necessary for patients with mild or moderate hepatic impairment.
 In patients with severe hepatic impairment, a starting dose of 5 mg is recommended.
-If well tolerated, the dose may be increased to 10 mg (see sections 4.4 and 5.2).
+If well tolerated, the dose may be increased to 10 mg when indicated (see sections 4.1 of the 10 mg SmPC, 4.4 and 5.2).
 
 Elderly (≥65 years)
 In general, no dose adjustment is recommended based on age.
 Renal function and risk of volume depletion should be taken into account (see sections 4.4 and 5.2).
-Due to the limited therapeutic experience in patients 75 years and older, initiation of dapagliflozin therapy is not recommended.
 
 Paediatric population
 The safety and efficacy of dapagliflozin in children aged 0 to < 18 years have not yet been established.
@@ -66,3 +65,7 @@ No data are available.
 Method of administration
 Forxiga can be taken orally once daily at any time of day with or without food.
 Tablets are to be swallowed whole.
+
+[Forxiga 10 mg film-coated tablets]
+
+If well tolerated, the dose may be increased to 10 mg (see sections 4.4 and 5.2).
