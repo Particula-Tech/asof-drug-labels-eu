@@ -1,7 +1,6 @@
 # 5.3 Preclinical safety data
 
 As mepolizumab is a monoclonal antibody, no genotoxicity or carcinogenicity studies have been conducted.
-
 Animal toxicology and/or pharmacology
 
 Non-clinical data reveal no special hazards for humans based on conventional studies of safety pharmacology or repeated dose toxicity studies in monkeys.

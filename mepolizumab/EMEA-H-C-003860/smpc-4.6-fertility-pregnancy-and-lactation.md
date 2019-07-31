@@ -18,6 +18,5 @@ However, mepolizumab was excreted into the milk of cynomolgous monkeys at concen
 A decision must be made whether to discontinue breast-feeding or to discontinue Nucala therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
 
 Fertility
-
 There are no fertility data in humans.
 Animal studies showed no adverse effects of anti-IL5 treatment on fertility (see section 5.3).
