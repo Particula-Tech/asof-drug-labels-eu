@@ -1,12 +1,13 @@
 # 4.4 Special warnings and precautions for use
 
 Cardio-vascular disorders
-Treatment with febuxostat in patients with ischaemic heart disease or congestive heart failure is not recommended.
+Treatment with febuxostat in patients with pre-existing major cardiovascular diseases (e.g. myocardial infarction, stroke or unstable angina) should be avoided, unless no other therapy options are appropriate.
 A numerical greater incidence of investigator-reported cardiovascular APTC events (defined endpoints from the Anti-Platelet Trialists’ Collaboration (APTC) including cardiovascular death, non-fatal myocardial infarction, non-fatal stroke) was observed in the febuxostat total group compared to the allopurinol group in the APEX and FACT studies (1.3 vs. 0.3 events per 100 Patient Years (PYs)), but not in the CONFIRMS study (see section 5.1 for detailed characteristics of the studies).
 The incidence of investigator-reported cardiovascular APTC events in the combined Phase 3 studies (APEX, FACT and CONFIRMS studies) was 0.7 vs. 0.6 events per 100 PYs.
 In the long-term extension studies the incidences of investigator-reported APTC events were 1.2 and 0.6 events per 100 PYs for febuxostat and allopurinol, respectively.
 No statistically significant differences were found and no causal relationship with febuxostat was established.
 Identified risk factors among these patients were a medical history of atherosclerotic disease and/or myocardial infarction, or of congestive heart failure.
+In the post registrational CARES trial (see section 5.1 for detailed characteristics of the study) the rate of MACE events was similar in febuxostat versus allopurinol treated patients (HR 1.03; 95% CI 0.87-1.23), but a higher rate of cardiovascular deaths was observed (4.3% vs. 3.2% of patients; HR 1.34; 95% CI 1.03-1.73).
 
 Medicinal product allergy / hypersensitivity
 Rare reports of serious allergic/hypersensitivity reactions, including life-threatening Stevens-Johnson Syndrome, Toxic epidermal necrolysis and acute anaphylactic reaction/shock, have been collected in the post-marketing experience.
@@ -60,6 +61,8 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 [ADENURIC 120 mg film-coated tablets]
 
 Treatment of chronic hyperuricaemia
+
+In the post registrational CARES trial (see section 5.1 for detailed characteristics of the study) the rate of MACE events was similar in febuxostat versus allopurinol treated patients (HR 1.03;95% CI 0.87-1.23), but a higher rate of cardiovascular deaths was observed (4.3% vs. 3.2% of patients; HR 1.34; 95% CI 1.03-1.73).
 
 Prevention and treatment of hyperuricaemia in patients at risk of TLS
 Patients undergoing chemotherapy for haematologic malignancies at intermediate to high risk of Tumor Lysis Syndrome treated with ADENURIC should be under cardiac monitoring as clinically appropriate.

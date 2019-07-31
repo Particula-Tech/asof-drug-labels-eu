@@ -28,6 +28,7 @@ FACT Study: The Febuxostat Allopurinol Controlled Trial (FACT) Study was a Phase
 Seven hundred sixty (760) patients were randomized: ADENURIC 80 mg QD (n=256), ADENURIC 120 mg QD (n=251), or allopurinol 300 mg QD (n=253).
 
 The FACT study showed the statistically significant superiority of both ADENURIC 80 mg and ADENURIC 120 mg QD treatment arms versus the conventionally used dose of allopurinol 300 mg treatment arm in reducing and maintaining sUA below 6 mg/dL (357 µmol/L).
+
 Table 2 summarises the primary efficacy endpoint results:
 
 Table 2
@@ -105,11 +106,11 @@ Gout flares during the last 4 weeks of the study (Weeks 24-28) were observed in 
 FACT study: During the 8-week prophylaxis period, a greater proportion of subjects in the febuxostat 120 mg (36%) treatment group required treatment for a gout flare compared to both the febuxostat 80 mg (22%) and allopurinol 300 mg (21%) treatment groups.
 After the 8-week prophylaxis period, the incidences of flares increased and gradually decreased over time (64% and 70% of subjects received treatment for gout flares from Week 8-52).
 Gout flares during the last 4 weeks of the study (Weeks 49-52) were observed in 6-8% (febuxostat 80 mg, 120 mg) and 11% (allopurinol 300 mg) of subjects.
+
 The proportion of subjects requiring treatment for a gout flare (APEX and FACT Study) was numerically lower in the groups that achieved an average post-baseline serum urate level <6.0 mg/dL, <5.0 mg/dL, or <4.0 mg/dL compared to the group that achieved an average post-baseline serum urate level ≥6.0 mg/dL during the last 32 weeks of the treatment period (Week 20-Week 24 to Week 49 - 52 intervals).
 
 During the CONFIRMS study, the percentages of patients who required treatment for gout flares (Day 1 through Month 6) were 31% and 25% for the febuxostat 80 mg and allopurinol groups, respectively.
 No difference in the proportion of patients requiring treatment for gout flares was observed between the febuxostat 80 mg and 40 mg groups.
-
 Long-term, open label extension Studies
 EXCEL Study (C02-021): The Excel study was a three years Phase 3, open label, multicenter, randomised, allopurinol-controlled, safety extension study for patients who had completed the pivotal Phase 3 studies (APEX or FACT).
 A total of 1,086 patients were enrolled: ADENURIC 80 mg QD (n=649), Adenuric 120 mg QD (n=292) and allopurinol 300/100 mg QD (n=145).
@@ -130,6 +131,19 @@ The proportion of patients with serum urate levels of <6.0 mg/dL (357 µmol/L) a
 During the phase 3 clinical studies, mild liver function test abnormalities were observed in patients treated with febuxostat (5.0%).
 These rates were similar to the rates reported on allopurinol (4.2%) (see section 4.4).
 Increased TSH values (>5.5 µIU/mL) were observed in patients on long-term treatment with febuxostat (5.5%) and patients with allopurinol (5.8%) in the long term open label extension studies (see section 4.4).
+
+Post Marketing long term studies
+CARES Study was a multicenter, randomized, double-blind, non inferiority trial comparing CV outcomes with febuxostat versus allopurinol in patients with gout and a history of major CV disease including MI, hospitalization for unstable angina, coronary or cerebral revascularization procedure, stroke, hospitalized transient ischemic attack, peripheral vascular disease, or diabetes mellitus with evidence of microvascular or macrovascular disease.
+To achieve sUA less than 6 mg/dL, the dose of febuxostat was titrated from 40 mg up to 80 mg (regardless of renal function) and the dose of allopurinol was titrated in 100 mg increments from 300 to 600 mg in patients with normal renal function and mild renal impairment and from 200 to 400 mg in patients with moderate renal impairment.
+The primary endpoint in CARES was the time to first occurrence of MACE, a composite of non-fatal MI, non-fatal stroke, CV death and unstable angina with urgent coronary revascularization.
+The endpoints (primary and secondary) were analysed according to the intention-to-treat (ITT) analysis including all subjects who were randomized and received at least one dose of double-blind study medication.
+Overall 56.6% of patients discontinued trial treatment prematurely and 45% of patients did not complete all trial visits.
+In total, 6,190 patients were followed for a median of 32 months and the median duration of exposure was 728 days for patients in febuxostat group (n 3098) and 719 days in allopurinol group (n 3092).
+The primary MACE endpoint occurred at similar rates in the febuxostat and allopurinol treatment groups (10.8% vs. 10.4% of patients, respectively; hazard ratio [HR] 1.03; two-sided repeated 95% confidence interval [CI] 0.87-1.23).
+In the analysis of the individual components of MACE, the rate of CV deaths was higher with febuxostat than allopurinol (4.3% vs. 3.2% of patients; HR 1.34; 95% CI 1.03-1.73).
+The rates of the other MACE events were similar in the febuxostat and allopurinol groups, i.e. non-fatal MI (3.6% vs. 3.8% of patients; HR 0.93; 95% CI 0.72-1.21), non-fatal stroke (2.3% vs. 2.3% of patients; HR 1.01; 95% CI 0.73-1.41) and urgent revascularization due to unstable angina (1.6% vs. 1.8% of patients; HR 0.86; 95% CI 0.59-1.26).
+The rate of all-cause mortality was also higher with febuxostat than allopurinol (7.8% vs. 6.4% of patients; HR 1.22; 95% CI 1.01-1.47), which was mainly driven by the higher rate of CV deaths in that group (see section 4.4).
+Rates of adjudicated hospitalization for heart failure, hospital admissions for arrhythmias not associated with ischemia, venous thromboembolic events and hospitalization for transient ischemic attacks were comparable for febuxostat and allopurinol.
 
 [ADENURIC 120 mg film-coated tablets]
 

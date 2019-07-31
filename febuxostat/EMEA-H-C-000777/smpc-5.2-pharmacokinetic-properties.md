@@ -7,6 +7,7 @@ Febuxostat has an apparent mean terminal elimination half-life (t1/2) of approxi
 
 Population pharmacokinetic/pharmacodynamic analyses were conducted in 211 patients with hyperuricaemia and gout, treated with ADENURIC 40-240 mg QD.
 In general, febuxostat pharmacokinetic parameters estimated by these analyses are consistent with those obtained from healthy subjects, indicating that healthy subjects are representative for pharmacokinetic/pharmacodynamic assessment in the patient population with gout.
+
 Absorption
 Febuxostat is rapidly (tmax of 1.0-1.5 h) and well absorbed (at least 84%).
 After single or multiple oral 80 and 120 mg once daily doses, Cmax is approximately 2.8-3.2 µg/mL, and 5.0-5.3 µg/mL, respectively.
@@ -30,7 +31,6 @@ Elimination
 Febuxostat is eliminated by both hepatic and renal pathways.
 Following an 80 mg oral dose of 14C-labeled febuxostat, approximately 49% of the dose was recovered in the urine as unchanged febuxostat (3%), the acyl glucuronide of the active substance (30%), its known oxidative metabolites and their conjugates (13%), and other unknown metabolites (3%).
 In addition to the urinary excretion, approximately 45% of the dose was recovered in the faeces as the unchanged febuxostat (12%), the acyl glucuronide of the active substance (1%), its known oxidative metabolites and their conjugates (25%), and other unknown metabolites (7%).
-
 Renal impairment
 Following multiple doses of 80 mg of ADENURIC in patients with mild, moderate or severe renal impairment, the Cmax of febuxostat did not change, relative to subjects with normal renal function.
 The mean total AUC of febuxostat increased by approximately 1.8-fold from 7.5 µg⋅h/mL in the normal renal function group to 13.2 µg.h/mL in the severe renal dysfunction group.
