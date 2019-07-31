@@ -26,7 +26,6 @@ For the full list of excipients, see section 6.1.
 
 Each ml of syrup contains 10 mg lacosamide.
 1 bottle of 200 ml contains 2,000 mg lacosamide.
-1 bottle of 465 ml contains 4,650 mg lacosamide.
 
 Excipients with known effect:
 Each ml of Vimpat syrup contains 187 mg sorbitol (E420), 2.60 mg sodium methyl parahydroxybenzoate (E219), 0.032 mg aspartame (E951), and 1.42 mg sodium.

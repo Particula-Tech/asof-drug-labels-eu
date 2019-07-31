@@ -11,14 +11,17 @@ Patients (and caregivers of patients) should be advised to seek medical advice s
 Cardiac rhythm and conduction
 
 Dose-related prolongations in PR interval with lacosamide have been observed in clinical studies.
-Lacosamide should be used with caution in patients with known conduction problems, severe cardiac disease (e.g. history of myocardial infarction or heart failure), in elderly patients, or when lacosamide is used in combination with products known to be associated with PR prolongation.
+Lacosamide should be used with caution in patients with underlying proarrhythmic conditions such as patients with known cardiac conduction problems or severe cardiac disease (e.g. myocardial ischaemia/infarction, heart failure, structural heart disease or cardiac sodium channelopathies) or patients treated with medicinal products affecting cardiac conduction, including antiarrhythmics and sodium channel blocking antiepileptic medicinal products (see section 4.5), as well as in elderly patients.
 In these patients it should be considered to perform an ECG before a lacosamide dose increase above 400 mg/day and after lacosamide is titrated to steady-state.
 
-Second-degree or higher AV block has been reported in post-marketing experience.
-In the placebo-controlled trials of lacosamide in epilepsy patients, atrial fibrillation or flutter were not reported; however, both have been reported in open-label epilepsy trials and in post-marketing experience (see section 4.8).
+In the placebo-controlled trials of lacosamide in epilepsy patients, atrial fibrillation or flutter were not reported; however, both have been reported in open-label epilepsy trials and in post-marketing experience.
 
-Patients should be made aware of the symptoms of second-degree or higher AV block (e.g. slow or irregular pulse, feeling of lightheaded and fainting) and of the symptoms of atrial fibrillation and flutter (e.g. palpitations, rapid or irregular pulse, shortness of breath).
-Patients should be counselled to seek medical advice should any of these symptoms occur.
+In post-marketing experience, AV block (including second degree or higher AV block) has been reported.
+In patients with proarrhythmic conditions, ventricular tachyarrhythmia has been reported.
+In rare cases, these events have led to asystole, cardiac arrest and death in patients with underlying proarrhythmic conditions.
+
+Patients should be made aware of the symptoms of cardiac arrhythmia (e.g. slow, rapid or irregular pulse, palpitations, shortness of breath, feeling lightheaded, fainting).
+Patients should be counselled to seek immediate medical advice if these symptoms occur.
 
 Dizziness
 

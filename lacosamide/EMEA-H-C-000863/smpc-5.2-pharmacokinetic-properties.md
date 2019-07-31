@@ -7,7 +7,6 @@ The oral bioavailability of lacosamide tablets is approximately 100 %.
 Following oral administration, the plasma concentration of unchanged lacosamide increases rapidly and reaches Cmax about 0.5 to 4 hours post-dose.
 Vimpat tablets and oral syrup are bioequivalent.
 Food does not affect the rate and extent of absorption.
-
 Distribution
 
 The volume of distribution is approximately 0.6 L/kg.
@@ -36,6 +35,7 @@ Following twice daily dosing, steady state plasma concentrations are achieved af
 The plasma concentration increases with an accumulation factor of approximately 2.
 
 A single loading dose of 200 mg approximates steady-state concentrations comparable to 100 mg twice daily oral administration.
+
 Pharmacokinetics in special patient groups
 
 Gender
@@ -65,10 +65,10 @@ The renal clearance of lacosamide was only slightly reduced in elderly subjects 
 A general dose reduction is not considered to be necessary unless indicated due to reduced renal function (see section 4.2).
 
 Paediatric population
-The paediatric pharmacokinetic profile of lacosamide was determined in a population pharmacokinetic analysis using sparse plasma concentration data obtained in two open-label studies in 79 children with epilepsy aged 6 months to 17 years.
-The administered lacosamide doses ranged from 2 to 12 mg/kg/day (irrespective of the weight band of the child) in twice daily intake, with a maximum of 400 mg/day for children weighing 50 kg or more.
-The typical plasma clearance was 1.08 L/h, 1.40 L/h and 1.92 L/h for children weighing 20 kg, 30 kg and 50 kg, respectively.
-In comparison, plasma clearance was estimated at 1.92 L/h in adult patients (70 kg body weight).
+The paediatric pharmacokinetic profile of lacosamide was determined in a population pharmacokinetic analysis using sparse plasma concentration data obtained in one placebo-controlled randomised study and three open-label studies in 414 children with epilepsy aged 6 months to 17 years.
+The administered lacosamide doses ranged from 2 to 17.8 mg/kg/day in twice daily intake, with a maximum of 600 mg/day for children weighing 50 kg or more.
+The typical plasma clearance was estimated to be 1.04 L/h, 1.32 L/h and 1.86 L/h for children weighing 20 kg, 30 kg and 50 kg respectively.
+In comparison, plasma clearance was estimated at 1.92 L/h in adults (70 kg body weight).
 
 [Treatment initiation pack (in adolescent and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
 

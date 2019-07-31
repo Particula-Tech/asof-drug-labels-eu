@@ -7,6 +7,7 @@ Mechanism of action
 The active substance, lacosamide (R-2-acetamido-N-benzyl-3-methoxypropionamide) is a functionalised amino acid.
 The precise mechanism by which lacosamide exerts its antiepileptic effect in humans remains to be fully elucidated.
 In vitro electrophysiological studies have shown that lacosamide selectively enhances slow inactivation of voltage-gated sodium channels, resulting in stabilization of hyperexcitable neuronal membranes.
+
 Pharmacodynamic effects
 
 Lacosamide protected against seizures in a broad range of animal models of partial and primary generalised seizures and delayed kindling development.
@@ -18,7 +19,7 @@ Adult population
 Monotherapy
 Efficacy of lacosamide as monotherapy was established in a double-blind, parallel group, non-inferiority comparison to carbamazepine CR in 886 patients 16 years of age or older with newly or recently diagnosed epilepsy.
 The patients had to present with unprovoked partial-onset seizures with or without secondary generalisation.
-The patients were randomized to carbamazepine CR or lacosamide, provided as tablets, in a 1:1 ratio.
+The patients were randomised to carbamazepine CR or lacosamide, provided as tablets, in a 1:1 ratio.
 The dose was based on dose-response and ranged from 400 to 1,200 mg/day for carbamazepine CR and from 200 to 600 mg/day for lacosamide.
 The duration of the treatment was up to 121 weeks depending on the response.
 The estimated 6-month seizure freedom rates were 89.8 % for lacosamide-treated patients and 91.1 % for carbamazepine CR treated patients using the Kaplan-Meier survival analysis method.
@@ -30,12 +31,12 @@ The rates were also similar to those observed in the overall population.
 In the elderly population, the maintenance lacosamide dose was 200 mg/day in 55 patients (88.7 %), 400 mg/day in 6 patients (9.7 %) and the dose was escalated to over 400 mg/day in 1 patient (1.6 %).
 
 Conversion to monotherapy
-The efficacy and safety of lacosamide in conversion to monotherapy has been assessed in a historical-controlled, multicentre, double-blind, randomized trial.
-In this study, 425 patients aged 16 to 70 years with uncontrolled partial-onset seizures taking stable doses of 1 or 2 marketed antiepileptic medicinal products were randomized to be converted to lacosamide monotherapy (either 400 mg/day or 300 mg/day in a 3:1 ratio).
+The efficacy and safety of lacosamide in conversion to monotherapy has been assessed in a historical-controlled, multicentre, double-blind, randomised trial.
+In this study, 425 patients aged 16 to 70 years with uncontrolled partial-onset seizures taking stable doses of 1 or 2 marketed antiepileptic medicinal products were randomised to be converted to lacosamide monotherapy (either 400 mg/day or 300 mg/day in a 3:1 ratio).
 In treated patients who completed titration and started withdrawing antiepileptic medicinal products (284 and 99 respectively), monotherapy was maintained in 71.5 % and 70.7 % of patients respectively for 57-105 days (median 71 days), over the targeted observation period of 70 days.
 
 Adjunctive therapy
-The efficacy of lacosamide as adjunctive therapy at recommended doses (200 mg/day, 400 mg/day) was established in 3 multicenter, randomized, placebo-controlled clinical trials with a 12-week maintenance period.
+The efficacy of lacosamide as adjunctive therapy at recommended doses (200 mg/day, 400 mg/day) was established in 3 multicenter, randomised, placebo-controlled clinical trials with a 12-week maintenance period.
 Lacosamide 600 mg/day was also shown to be effective in controlled adjunctive therapy trials, although the efficacy was similar to 400 mg/day and patients were less likely to tolerate this dose because of CNS- and gastrointestinal-related adverse reactions.
 Thus, the 600 mg/day dose is not recommended.
 The maximum recommended dose is 400 mg/day.
@@ -48,3 +49,28 @@ Paediatric population
 
 Partial-onset seizures have a similar clinical expression in children from 4 years of age and in adults.
 The efficacy of lacosamide in children aged 4 years and older has been extrapolated from data of adolescents and adults with partial-onset seizures, for whom a similar response was expected provided the paediatric dose adaptations are established (see section 4.2) and safety has been demonstrated (see section 4.8).
+The efficacy supported by the extrapolation principle stated above was confirmed by a double-blind, randomised, placebo-controlled study.
+The study consisted of an 8-week baseline period followed by a 6-week titration period.
+Eligible patients on a stable dose regimen of 1 to ≤ 3 antiepileptic medicinal products, who still experienced at least 2 partial-onset seizures during the 4 weeks prior to screening with seizure-free phase no longer than 21 days in the 8-week period prior to entry into the baseline period, were randomised to receive either placebo (n=172) or lacosamide (n=171).
+Dosing was initiated at a dose of 2 mg/kg/day in subjects weighing less than 50 kg or 100 mg/day in subjects weighing 50 kg or more in 2 divided doses.
+During the titration period, lacosamide doses were adjusted in 1or 2 mg/kg/day increments in subjects weighing less than 50 kg or 50 or 100 mg/day in subjects weighing 50 kg or more at weekly intervals to achieve the target maintenance period dose range.
+Subjects must have achieved the minimum target dose for their body weight category for the final 3 days of the titration period to be eligible for entry into the 10-week maintenance period.
+Subjects were to remain on stable lacosamide dose throughout the maintenance period or were withdrawn and entered in the blinded taper period.
+Statistically significant (p=0.0003) and clinically relevant reduction in partial-onset seizure frequency per 28 days from baseline to the maintenance period was observed between the lacosamide and the placebo group.
+The percent reduction over placebo based on analysis of covariance was 31.72 %
+(95 % CI: 16.342, 44.277).
+Overall, the proportion of subjects with at least a 50 % reduction in partial-onset seizure frequency per 28 days from baseline to the maintenance period was 52.9 % in the lacosamide group compared with 33.3 % in the placebo group.
+The quality of life assessed by the Pediatric Quality of Life Inventory indicated that subjects in both lacosamide and placebo groups had a similar and stable health-related quality of life during the entire treatment period.
+
+[Treatment initiation pack (in adolescent and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
+
+(all sentences already above)
+
+[Vimpat 10 mg/ml syrup]
+
+Eligible patients on a stable dose regimen of 1 to ≤ 3 antiepileptic medicinal products, who still experienced at least 2 partial onset-seizures during the 4 weeks prior to screening with seizure-free phase no longer than 21 days in the 8-week period prior to entry into the baseline period, were randomised to receive either placebo (n=172) or lacosamide (n=171).
+
+[Vimpat 10 mg/ml solution for infusion]
+
+Eligible patients on a stable dose regimen of 1 to ≤ 3 antiepileptic medicinal products, who still experienced at least 2 partial onset seizures during the 4 weeks prior to screening with seizure-free phase no longer than 21 days in the 8-week period prior to entry into the baseline period, were randomised to receive either placebo (n=172) or lacosamide (n=171).
+(95 % CI: 16.342,44.277).

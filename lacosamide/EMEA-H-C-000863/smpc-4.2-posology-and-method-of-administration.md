@@ -34,10 +34,11 @@ Initiation of lacosamide treatment with a loading dose
 Lacosamide treatment may also be initiated with a single loading dose of 200 mg, followed approximately 12 hours later by a 100 mg twice a day (200 mg/day) maintenance dose regimen.
 Subsequent dose adjustments should be performed according to individual response and tolerability as described above.
 A loading dose may be initiated in patients in situations when the physician determines that rapid attainment of lacosamide steady state plasma concentration and therapeutic effect is warranted.
-It should be administered under medical supervision with consideration of the potential for increased incidence of central nervous system adverse reactions (see section 4.8).
+It should be administered under medical supervision with consideration of the potential for increased incidence of serious cardiac arrhythmia and central nervous system adverse reactions (see section 4.8).
 Administration of a loading dose has not been studied in acute conditions such as status epilepticus.
 Discontinuation
 In accordance with current clinical practice, if lacosamide has to be discontinued, it is recommended this be done gradually (e.g. taper the daily dose by 200 mg/week).
+In patients who develop serious cardiac arrhythmia, clinical benefit/risk assessment should be performed and if needed lacosamide should be discontinued.
 
 Special populations
 

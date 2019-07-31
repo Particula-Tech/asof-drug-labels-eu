@@ -31,7 +31,7 @@ The treatment initiation pack contains 4 cartons, each carton with 14 Vimpat fil
 
 [Vimpat 10 mg/ml syrup]
 
-200 ml and 465 ml amber glass bottles with white polypropylene screw cap, a measuring cup and an oral syringe with an adaptor.
+A 200 ml amber glass bottle with white polypropylene screw cap, a measuring cup and an oral syringe with an adaptor.
 Each graduation mark (5 ml) of the 30 ml measuring cup corresponds to 50 mg of lacosamide (for example 2 graduation marks correspond to 100 mg).
 One full 10 ml oral syringe corresponds to 100 mg of lacosamide.
 The minimum extractable volume is 1 ml which is 10 mg of lacosamide.

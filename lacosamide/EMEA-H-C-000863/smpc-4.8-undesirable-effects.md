@@ -2,15 +2,14 @@
 
 Summary of safety profile
 
-Based on the analysis of pooled placebo-controlled clinical trials in adjunctive therapy in 1,308 patients with partial-onset seizures, a total of 61.9 % of patients randomized to lacosamide and 35.2 % of patients randomized to placebo reported at least 1 adverse reaction.
+Based on the analysis of pooled placebo-controlled clinical trials in adjunctive therapy in 1,308 patients with partial-onset seizures, a total of 61.9 % of patients randomised to lacosamide and 35.2 % of patients randomised to placebo reported at least 1 adverse reaction.
 The most frequently reported adverse reactions (≥ 10 %) with lacosamide treatment were dizziness, headache, nausea and diplopia.
 They were usually mild to moderate in intensity.
 Some were dose-related and could be alleviated by reducing the dose.
 Incidence and severity of central nervous system (CNS) and gastrointestinal (GI) adverse reactions usually decreased over time.
-In all of these controlled studies, the discontinuation rate due to adverse reactions was 12.2 % for patients randomized to lacosamide and 1.6 % for patients randomized to placebo.
+In all of these controlled studies, the discontinuation rate due to adverse reactions was 12.2 % for patients randomised to lacosamide and 1.6 % for patients randomised to placebo.
 The most common adverse reaction resulting in discontinuation of lacosamide therapy was dizziness.
 Incidence of CNS adverse reactions such as dizziness may be higher after a loading dose.
-
 Based on the analysis of data from a non-inferiority monotherapy clinical trial comparing lacosamide to carbamazepine controlled release (CR), the most frequently reported adverse reactions (≥ 10 %) for lacosamide were headache and dizziness.
 The discontinuation rate due to adverse reactions was 10.6 % for patients treated with lacosamide and 15.6 % for patients treated with carbamazepine CR.
 
@@ -25,29 +24,16 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Blood and lymphatic disorders |  |  |  | Agranulocytosis(1) |
 | Immune system disorders |  |  | Drug hypersensitivity(1) | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1,2) |
 | Psychiatric disorders |  | Depression Confusional state Insomnia(1) | Aggression Agitation(1) Euphoric mood(1) Psychotic disorder(1) Suicide attempt (1) Suicidal ideation Hallucination (1) |  |
-| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope(2) | Convulsion(3) |
+| Nervous system disorders | Dizziness Headache | Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope(2) Coordination abnormal | Convulsion(3) |
 | Eye disorders | Diplopia | Vision blurred |  |  |
 | Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
-| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) A(1,2tr) ial Fibrillation Atrial Flutter (1,2) |  |
+| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) Atrial Fibrillation (1,2) Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1) |
 | Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
 | Hepatobiliary disorders |  |  | Liver function test abnormal(2) Hepatic enzyme increased (> 2x ULN) (1) |  |
-| Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) |
-
-System organ class Very Common Uncommon Not known
-common
-Toxic epidermal
-necrolysis(1)
-Musculoskeletal Muscle spasms
-and connective
-tissue disorders
-General disorders Gait disturbance
-and administration Asthenia
-site conditions Fatigue
-Irritability
-Feeling drunk
-Injury, poisoning Fall
-and procedural Skin laceration
-complications Contusion
+| Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) Toxic epidermal necrolysis(1) |
+| Musculoskeletal and connective tissue disorders |  | Muscle spasms |  |  |
+| General disorders and administration site conditions |  | Gait disturbance Asthenia Fatigue Irritability Feeling drunk |  |  |
+| Injury, poisoning and procedural complications |  | Fall Skin laceration Contusion |  |  |
 
 (1) Adverse reactions reported in post marketing experience.
 (2) See Description of selected adverse reactions.
@@ -66,20 +52,19 @@ In the monotherapy clinical trial comparing lacosamide to carbamazepine CR, sync
 Atrial fibrillation or flutter were not reported in short term clinical trials; however, both have been reported in open-label epilepsy trials and in post-marketing experience.
 
 Laboratory abnormalities
-Abnormalities in liver function tests have been observed in controlled trials with lacosamide in adult patients with partial-onset seizures who were taking 1 to 3 concomitant antiepileptic medicinal products.
+Abnormalities in liver function tests have been observed in placebo-controlled trials with lacosamide in adult patients with partial-onset seizures who were taking 1 to 3 concomitant antiepileptic medicinal products.
 Elevations of ALT to ≥ 3x ULN occurred in 0.7 % (7/935) of Vimpat patients and 0 % (0/356) of placebo patients.
 
 Multiorgan hypersensitivity reactions
 Multiorgan hypersensitivity reactions (also known as Drug Reaction with Eosinophilia and Systemic Symptoms, DRESS) have been reported in patients treated with some antiepileptic medicinal products.
 These reactions are variable in expression, but typically present with fever and rash and can be associated with involvement of different organ systems.
 If multiorgan hypersensitivity reaction is suspected, lacosamide should be discontinued.
-
 Paediatric population
 
-The safety profile of lacosamide in open-label studies in adjunctive therapy in children from 4 years to less than 16 years was consistent with the safety profile observed in adults.
-In the paediatric population the most frequently reported adverse reactions were vomiting (17.1 %), dizziness (16.7 %), somnolence (12.1 %), headache (11.7 %) and convulsion (10.1 %).
-Additional adverse reactions reported in children were decreased appetite (6.6 %), lethargy (4.3 %) and abnormal behaviour
-(1.9 %).
+The safety profile of lacosamide in placebo-controlled (see study details in section 5.1) and in open-label studies (n=408) in adjunctive therapy in children from 4 years of age was consistent with the safety profile observed in adults although the frequency of some adverse reactions (somnolence, vomiting and convulsion) was increased and additional adverse reactions (nasopharyngitis, pyrexia, pharyngitis, decreased appetite, lethargy and abnormal behaviour) have been reported in paediatric patients: nasopharyngitis (15.7 %), vomiting (14.7 %), somnolence (14.0 %), dizziness (13.5 %), pyrexia (13.0 %), convulsion (7.8 %), decreased appetite (5.9 %), pharyngitis (4.7 %), lethargy
+(2.7 %) and abnormal behaviour (1.7 %).
+A total of 67.8 % of patients randomised to lacosamide and 58.1 % of patients randomised to placebo reported at least 1 adverse reaction.
+Behavioural, cognition and emotional functioning were measured by the questionnaires Achenbach CBCL and BRIEF that were applied at baseline and throughout the studies and where mainly stable during the course of the trials.
 
 Elderly population
 
@@ -100,42 +85,11 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 Based on the analysis of data from a non-inferiority monotherapy clinical trial comparing lacosamide to carbamazepine controlled release (CR), the most frequently reported adverse reactions (≥10%) for lacosamide were headache and dizziness.
 
-| System organ class | Very common | Common | Uncommon | Not known |
-| --- | --- | --- | --- | --- |
-| Blood and lymphatic disorders |  |  |  | Agranulocytosis(1) |
-| Immune system disorders |  |  | Drug hypersensitivity(1) | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1,2) |
-| Psychiatric disorders |  | Depression Confusional state Insomnia(1) | Aggression Agitation(1) Euphoric mood(1) Psychotic disorder(1) Suicide attempt (1) Suicidal ideation Hallucination (1) |  |
-| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder Somnolence Tremor Nystagmus HypoesthesiaDysart hria Disturbance in attention Paraesthesia | Syncope(2) | Convulsion(3) |
-| Eye disorders | Diplopia | Vision blurred |  |  |
-| Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
-| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) A(1,2tr) ial Fibrillation Atrial Flutter (1,2) |  |
-| Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
-| Hepatobiliary disorders |  |  | Liver function test abnormal(2) Hepatic enzyme increased (> 2x ULN) (1) |  |
-| Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) Toxic epidermal necrolysis(1) |
-| Musculoskeletal and connective tissue disorders |  | Muscle spasms |  |  |
-| General disorders and administration site conditions |  | Gait disturbance Asthenia Fatigue Irritability Feeling drunk |  |  |
-| Injury, poisoning |  | Fall |  |  |
-| and procedural complications |  | Skin laceration Contusion |  |  |
-
 These reactions are variable in expression but typically present with fever and rash and can be associated with involvement of different organ systems.
 
 [Vimpat 10 mg/ml syrup]
 
-| System organ class | Very common | Common | Uncommon | Not known |
-| --- | --- | --- | --- | --- |
-| Blood and lymphatic disorders |  |  |  | Agranulocytosis(1) |
-| Immune system disorders |  |  | Drug hypersensitivity(1) | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1,2) |
-| Psychiatric disorders |  | Depression Confusional state Insomnia(1) | Aggression Agitation(1) Euphoric mood(1) Psychotic disorder(1) Suicide attempt (1) Suicidal ideation Hallucination (1) |  |
-| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope(2) | Convulsion(3) |
-| Eye disorders | Diplopia | Vision blurred |  |  |
-| Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
-| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) A(1,2tr) ial Fibrillation Atrial Flutter (1,2) |  |
-| Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
-| Hepatobiliary disorders |  |  | Liver function test abnormal(2) Hepatic enzyme increased (> 2x ULN) (1) |  |
-| Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) Toxic epidermal necrolysis(1) |
-| Musculoskeletal and connective tissue disorders |  | Muscle spasms |  |  |
-| General disorders and administration site conditions |  | Gait disturbance Asthenia Fatigue Irritability Feeling drunk |  |  |
-| Injury, poisoning and procedural complications |  | Fall Skin laceration Contusion |  |  |
+(all sentences already above)
 
 [Vimpat 10 mg/ml solution for infusion]
 
@@ -144,11 +98,10 @@ These reactions are variable in expression but typically present with fever and 
 | Blood and lymphatic disorders |  |  |  | Agranulocytosis(1) |
 | Immune system disorders |  |  | Drug hypersensitivity(1) | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1,2) |
 | Psychiatric disorders |  | Depression Confusional state Insomnia(1) | Aggression Agitation(1) Euphoric mood(1) Psychotic disorder(1) Suicide attempt (1) Suicidal ideation Hallucination (1) |  |
-| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder Somnolence Tremor Nystagmus | Syncope(2) | Convulsion(3) |
-|  |  | Hypoesthesia Dysarthria Disturbance in attention Paraesthesia |  |  |
+| Nervous system disorders | Dizziness Headache | Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope(2) Coordination abnormal | Convulsion(3) |
 | Eye disorders | Diplopia | Vision blurred |  |  |
 | Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
-| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) A(1,2tr) ial Fibrillation Atrial Flutter (1,2) |  |
+| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) Atrial Fibrillation (1,2) Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1) |
 | Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
 | Hepatobiliary disorders |  |  | Liver function test abnormal(2) Hepatic enzyme increased (> 2x ULN) (1) |  |
 | Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) Toxic epidermal necrolysis(1) |

@@ -3,7 +3,7 @@
 Pregnancy
 
 Risk related to epilepsy and antiepileptic medicinal products in general
-For all antiepileptic medicinal products, it has been shown that in the offspring of women treated with epilepsy, the prevalence of malformations is two to three times greater than the rate of approximately 3 % in the general population.
+For all antiepileptic medicinal products, it has been shown that in the offspring of treated women with epilepsy, the prevalence of malformations is two to three times greater than the rate of approximately 3 % in the general population.
 In the treated population, an increase in malformations has been noted with polytherapy, however, the extent to which the treatment and/or the illness is responsible has not been elucidated.
 Moreover, effective antiepileptic therapy must not be interrupted, since the aggravation of the illness is detrimental to both the mother and the foetus.
 
