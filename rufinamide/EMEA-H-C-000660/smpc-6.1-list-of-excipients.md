@@ -1,6 +1,7 @@
 # 6.1 List of excipients
 
 Core
+
 Lactose monohydrate
 Cellulose, microcrystalline
 Maize starch
@@ -10,7 +11,8 @@ Magnesium stearate
 Sodium laurilsulfate
 Silica colloidal, anhydrous
 
-Film coating:
+Film coating
+
 Hypromellose
 Macrogols (8000)
 Titanium dioxide (E171)

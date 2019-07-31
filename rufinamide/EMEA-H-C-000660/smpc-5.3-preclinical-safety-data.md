@@ -23,4 +23,5 @@ In the 13-week study, female bone marrow and lymphoid changes are reported at th
 In rats, decreased cellularity of the bone marrow and thymic atrophy were observed only in the carcinogenicity study.
 
 Environmental Risk Assessment (ERA):
+
 Environmental risk assessment studies have shown that rufinamide is very persistent in the environment (see section 6.6).

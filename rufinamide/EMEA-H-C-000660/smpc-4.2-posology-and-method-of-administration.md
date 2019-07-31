@@ -2,12 +2,11 @@
 
 Treatment with rufinamide should be initiated by a physician specialised in paediatrics or neurology with experience in the treatment of epilepsy.
 
-Inovelon oral suspension and Inovelon film coated tablets may be interchanged at equal doses.
+Inovelon oral suspension and Inovelon film-coated tablets may be interchanged at equal doses.
 Patients should be monitored during the switch over period.
-
 Posology
 
-Use in children from one year to less than four years of age
+Use in children from 1 year to less than 4 years of age
 
 Patients not receiving valproate:
 Treatment should be initiated at a dose of 10 mg/kg/day administered in two equally divided doses separated by approximately 12 hours.
@@ -22,21 +21,22 @@ For this patient population, the maximum recommended dose is 30 mg/kg/day.
 
 If the recommended calculated dose of Inovelon is not achievable, the dose should be given to the nearest whole 100 mg tablet.
 
-Use in children four years of age or older and less than 30 kg
+Use in children 4 years of age or older and less than 30 kg
 
-Patients <30 kg not receiving valproate:
+Patients < 30 kg not receiving valproate:
 Treatment should be initiated at a daily dose of 200 mg.
-According to clinical response and tolerability, the dose may be increased by 200 mg/day increments, as frequently as every third day, up to a maximum recommended dose of 1000 mg/day.
+According to clinical response and tolerability, the dose may be increased by 200 mg/day increments, as frequently as every third day, up to a maximum recommended dose of 1,000 mg/day.
 
-Doses of up to 3600 mg/day have been studied in a limited number of patients.
-Patients <30 kg also receiving valproate:
-As valproate significantly decreases clearance of rufinamide, a lower maximum dose of Inovelon is recommended for patients <30 kg being co-administered valproate.
+Doses of up to 3,600 mg/day have been studied in a limited number of patients.
+
+Patients < 30 kg also receiving valproate:
+As valproate significantly decreases clearance of rufinamide, a lower maximum dose of Inovelon is recommended for patients < 30 kg being co-administered valproate.
 Treatment should be initiated at a daily dose of 200 mg.
 According to clinical response and tolerability, after a minimum of 2 days the dose may be increased by 200 mg/day, to the maximum recommended dose of 600 mg/day.
 
-Use in adults, adolescents and children four years of age or older of 30 kg or over
+Use in adults, adolescents and children 4 years of age or older of 30 kg or over
 
-Patients >30 kg not receiving valproate:
+Patients > 30 kg not receiving valproate:
 Treatment should be initiated at a daily dose of 400 mg.
 According to clinical response and tolerability, the dose may be increased by 400 mg/day increments, as frequently as every other day, up to a maximum recommended dose as indicated in the table below.
 
@@ -44,9 +44,8 @@ According to clinical response and tolerability, the dose may be increased by 40
 | --- | --- | --- | --- |
 | Maximum recommended dose | 1,800 mg/day | 2,400 mg/day | 3,200 mg/day |
 
-Doses of up to 4,000 mg/day (in the 30 -50 kg range) or 4,800 mg/day (in the over 50 kg) have been studied in a limited number of patients.
-
-Patients >30 kg also receiving valproate:
+Doses of up to 4,000 mg/day (in the 30 - -50 kg range) or 4,800 mg/day (in the over 50 kg) have been studied in a limited number of patients.
+Patients > 30 kg also receiving valproate:
 Treatment should be initiated at a daily dose of 400 mg.
 According to clinical response and tolerability, the dose may be increased by 400 mg/day increments, as frequently as every other day, up to a maximum recommended dose as indicated in the table below.
 
@@ -57,6 +56,7 @@ According to clinical response and tolerability, the dose may be increased by 40
 Elderly
 There is limited information on the use of rufinamide in older people.
 Since the pharmacokinetics of rufinamide are not altered in older people (see section 5.2), dosage adjustment is not required in patients over 65 years of age.
+
 Renal impairment
 A study in patients with severe renal impairment indicated that no dose adjustments are required for these patients (see section 5.2).
 
@@ -80,27 +80,29 @@ No data are available (see section 5.2).
 Method of administration
 
 Rufinamide is for oral use.
+
 The tablet should be taken twice daily with water in the morning and in the evening, in two equally divided doses.
+
 Inovelon should be administered with food (see section 5.2).
 If the patient has difficulty with swallowing, tablets can be crushed and administered in half a glass of water.
 Alternatively, use the score line to break the tablet into two equal halves.
 
 [Inovelon 40 mg/ml oral suspension]
 
-Treatment should be initiated at a dose of 10 mg/kg/day (0.25 mL/kg/day) administered in two equally divided doses separated by approximately 12 hours.
-According to clinical response and tolerability, the dose may be increased by up to 10 mg/kg/day (0.25 mL/kg/day) every third day to a target dose of 45 mg/kg/day (1.125 mL/kg/day) administered in two equally divided doses separated by approximately 12 hours.
-For this patient population, the maximum recommended dose is 45 mg/kg/day (1.125 mL/kg/day).
+Treatment should be initiated at a dose of 10 mg/kg/day (0.25 ml/kg/day) administered in two equally divided doses separated by approximately 12 hours.
+According to clinical response and tolerability, the dose may be increased by up to 10 mg/kg/day (0.25 ml/kg/day) every third day to a target dose of 45 mg/kg/day (1.125 ml/kg/day) administered in two equally divided doses separated by approximately 12 hours.
+For this patient population, the maximum recommended dose is 45 mg/kg/day (1.125 ml/kg/day).
 
-According to clinical response and tolerability, the dose may be increased by up to 10 mg/kg/day (0.25 mL/kg/day) every third day to a target dose of 30 mg/kg/day
-(0.75 mL/kg/day) administered in two equally divided doses separated by approximately 12 hours.
-For this patient population, the maximum recommended dose is 30 mg/kg/day (0.75 mL/kg/day).
+According to clinical response and tolerability, the dose may be increased by up to 10 mg/kg/day (0.25 ml/kg/day) every third day to a target dose of 30 mg/kg/day
+(0.75 ml/kg/day) administered in two equally divided doses separated by approximately 12 hours.
+For this patient population, the maximum recommended dose is 30 mg/kg/day (0.75 ml/kg/day).
 
 If the recommended calculated dose of Inovelon is not achievable, the dose should be given to the nearest 0.5 ml of rufinamide.
 
 Treatment should be initiated at a daily dose of 200 mg (5 ml dosing suspension given as two 2.5 ml doses, one in the morning and one in the evening).
-According to clinical response and tolerability, the dose may be increased by 200 mg/day increments, as frequently as every third day, up to a maximum recommended dose of 1000 mg/day (25 ml/day).
+According to clinical response and tolerability, the dose may be increased by 200 mg/day increments, as frequently as every third day, up to a maximum recommended dose of 1,000 mg/day (25 ml/day).
 
-Doses of up to 3600 mg/day (90 ml/day) have been studied in a limited number of patients.
+Doses of up to 3,600 mg/day (90 ml/day) have been studied in a limited number of patients.
 
 (15 ml/day).
 
@@ -117,5 +119,10 @@ Doses of up to 4,000 mg/day (100 ml/day) in the 30 -50 kg range or 4,800 mg/day 
 | Maximum recommended dose | 1,200 mg/day or 30 ml/day | 1,600 mg/day or 40 ml/day | 2,200 mg/day or 55 ml/day |
 
 The suspension should be taken twice daily in the morning and in the evening, in two equally divided doses.
+
 The oral suspension should be shaken vigorously before every administration.
-Please refer to section 6.6 for further details.
+See section 6.6 for further details.
+
+The prescribed dose of Inovelon oral suspension can be administered via an enteral feeding tube.
+Follow the manufacturer’s instructions for the feeding tube to administer the medicine.
+To ensure adequate dosing, after administration of the oral suspension, the enteral feeding tube must be flushed at least once with 1 ml of water.
