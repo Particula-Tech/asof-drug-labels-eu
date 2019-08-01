@@ -18,6 +18,7 @@ The study included 423 patients whose disease had recurred or progressed during 
 This study compared the efficacy and safety of Faslodex 500 mg (n=362) with Faslodex 250 mg (n=374).
 Progression-free survival (PFS) was the primary endpoint; key secondary efficacy endpoints included objective response rate (ORR), clinical benefit rate (CBR) and overall survival (OS).
 Efficacy results for the CONFIRM study are summarized in Table 3.
+
 Table 3 Summary of results of the primary efficacy endpoint (PFS) and key secondary efficacy endpoints in the CONFIRM study
 
 Variable Type of Faslodex Faslodex Comparison between groups
@@ -165,11 +166,10 @@ Table 5 Efficacy results – PALOMA3 study (Investigator assessment, intent-to-t
 | Secondary end points* |  |  |
 | OR [% (95% CI)] | 26.2 (21.7, 31.2) | 13.8 (9.0, 19.8) |
 | OR (measurable disease) [% (95% CI)] | 33.7 (28.1, 39.7) | 17.4 (11.5, 24.8) |
-| DOR (measurable disease) [months (95% CI)] | 9.2 (7.2, 10.4) | 7.4 (3.9, NE) |
 | CBR [% (95% CI)] | 68.0 (62.8, 72.9) | 39.7 (32.3, 47.3) |
 
 *Response endpoints based on confirmed and unconfirmed responses.
-N=number of patients; CI=confidence interval; NE=not estimable; OR=objective response; CBR=clinical benefit response; DOR=duration of response
+N=number of patients; CI=confidence interval; OR=objective response; CBR=clinical benefit response
 Figure 2.
 Kaplan-Meier plot of progression-free survival (investigator assessment, intent-to-treat population) – PALOMA3 study
 

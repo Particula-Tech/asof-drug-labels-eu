@@ -53,6 +53,7 @@ f ADR was not observed in FALCON.
 Description of selected adverse reactions
 
 The descriptions included below are based on the safety analysis set of 228 patients who received at least one (1) dose of fulvestrant and 232 patients who received at least one (1) dose of anastrozole, respectively in the Phase 3 FALCON study.
+
 Joint and musculoskeletal pain
 In the FALCON study, the number of patients who reported an adverse reaction of joint and musculoskeletal pain was 65 (31.2%) and 48 (24.1%) for fulvestrant and anastrozole arms, respectively.
 Of the 65 patients in the Faslodex arm, 40% (26/65) of patients reported joint and musculoskeletal pain within the first month of treatment, and 66.2% (43/65) of patients within the first 3 months of treatment.
@@ -128,7 +129,6 @@ e Anaemia includes the following PTs: Anaemia, Haemoglobin decreased, Haematocri
 f Thrombocytopenia includes the following PTs: Thrombocytopenia, Platelet count decreased.
 g Stomatitis includes the following PTs: Aphthous stomatitis, Cheilitis, Glossitis, Glossodynia, Mouth ulceration, Mucosal inflammation, Oral pain, Oropharyngeal discomfort, Oropharyngeal pain, Stomatitis.
 h Rash includes the following PTs: Rash, Rash maculo-papular, Rash pruritic, Rash erythematous, Rash papular, Dermatitis, Dermatitis acneiform, Toxic skin eruption.
-
 Description of selected adverse reactions
 Neutropenia
 In patients receiving fulvestrant in combination with palbociclib in the PALOMA3 study, neutropenia of any grade was reported in 287 (83.2%) patients, with Grade 3 neutropenia being reported in 191 (55.4%) patients, and Grade 4 neutropenia being reported in 37 (10.7%) patients.
@@ -137,6 +137,7 @@ There were no reports of Grade 4 neutropenia in the fulvestrant + placebo arm.
 
 In patients receiving fulvestrant in combination with palbociclib, the median time to first episode of any grade neutropenia was 15 days (range: 13-317) and the median duration of Grade ≥3 neutropenia was 7 days.
 Febrile neutropenia has been reported in 0.9% patients receiving fulvestrant in combination with palbociclib.
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.

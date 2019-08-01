@@ -7,7 +7,6 @@ The recommended dose is 500 mg at intervals of one month, with an additional 500
 When Faslodex is used in combination with palbociclib, please also refer to the Summary of Product Characteristics of palbociclib.
 
 Prior to the start of treatment with the combination of Faslodex plus palbociclib, and throughout its duration, pre/perimenopausal women should be treated with LHRH agonists according to local clinical practice.
-
 Special populations
 Renal impairment
 No dose adjustments are recommended for patients with mild to moderate renal impairment (creatinine clearance ≥30 ml/min).
