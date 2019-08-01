@@ -16,9 +16,10 @@ In order to improve the traceability of biological medicinal products, the name 
 
 Hypersensitivity
 
-If a systemic hypersensitivity reaction (immediate or delayed) occurs, administration of dupilumabshould be discontinued immediately and appropriate therapy initiated.
+If a systemic hypersensitivity reaction (immediate or delayed) occurs, administration of dupilumab should be discontinued immediately and appropriate therapy initiated.
 Very rare cases of serum sickness/serum sickness-like reactions have been reported in the atopic dermatitis development program following the administration of dupilumab.
-Anaphylactic reaction has been reported very rarely in the asthma development program following the administration of dupilumab(section 4.8).
+Anaphylactic reaction has been reported very rarely in the asthma development program following the administration of dupilumab (section 4.8).
+
 Eosinophilic conditions
 
 Cases of eosinophilic pneumonia and cases of vasculitis consistent with eosinophilic granulomatosis with polyangiitis have been reported with dupilumab in adult patients who participated in the asthma development program.
@@ -47,14 +48,10 @@ Vaccinations
 Live and live attenuated vaccines should not be given concurrently with dupilumab as clinical safety and efficacy has not been established.
 Immune responses to TdaP vaccine and meningococcal polysaccharide vaccine were assessed, see section 4.5.
 It is recommended that patients should be brought up to date with live and live attenuated immunisations in agreement with current immunisation guidelines prior to treatment with dupilumab.
-
 Sodium content
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per 300 mg dose, i.e. essentially “sodium-free”.
 
 [Dupixent 200 mg solution for injection in pre-filled syringe]
-
-If a systemic hypersensitivity reaction (immediate or delayed) occurs, administration of dupilumab should be discontinued immediately and appropriate therapy initiated.
-Anaphylactic reaction has been reported very rarely in the asthma development program following the administration of dupilumab (section 4.8).
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per 200 mg dose, i.e. essentially “sodium-free”.

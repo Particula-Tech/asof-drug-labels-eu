@@ -1,7 +1,6 @@
 # 5.2 Pharmacokinetic properties
 
 The pharmacokinetics of dupilumab is similar in patients with atopic dermatitis and asthma.
-
 Absorption
 
 After a single subcutaneous (SC) dose of 75-600 mg dupilumab, median times to maximum concentration in serum (tmax) were 3-7 days.
@@ -18,6 +17,7 @@ Biotransformation
 
 Specific metabolism studies were not conducted because dupilumab is a protein.
 Dupilumab is expected to degrade to small peptides and individual amino acids.
+
 Elimination
 
 Dupilumab elimination is mediated by parallel linear and nonlinear pathways.
@@ -34,7 +34,7 @@ Gender
 Gender was not found to be associated with any clinically meaningful impact on the systemic exposure of dupilumab determined by population PK analysis.
 
 Elderly patients
-Of the 1,472 patients with atopic dermatitis exposed to dupilumabin a phase 2 dose-ranging study or phase 3 placebo-controlled studies, a total of 67 were 65 years or older.
+Of the 1,472 patients with atopic dermatitis exposed to dupilumab in a phase 2 dose-ranging study or phase 3 placebo-controlled studies, a total of 67 were 65 years or older.
 Although no differences in safety or efficacy were observed between older and younger adult atopic dermatitis patients, the number of patients aged 65 and over is not sufficient to determine whether they respond differently from younger patients.
 
 Age was not found to be associated with any clinically meaningful impact on the systemic exposure of dupilumab determined by population PK analysis.
@@ -42,7 +42,6 @@ However, there were only 61 patients over 65 years of age included in this analy
 
 Of the 1,977 patients with asthma exposed to dupilumab, a total of 240 patients were 65 years or older and 39 patients were 75 years or older.
 Efficacy and safety in this age group were similar to the overall study population.
-
 Race
 Race was not found to be associated with any clinically meaningful impact on the systemic exposure of dupilumab by population PK analysis.
 
@@ -60,12 +59,10 @@ Body Weight
 Dupilumab trough concentrations were lower in subjects with higher body weight with no meaningful impact on efficacy.
 
 Paediatric population
-The pharmacokinetics of dupilumab in paediatric patients (< 18 years of age) with atopic dermatitis has not been studied.
+The pharmacokinetics of dupilumab in paediatric patients (< 12 years of age) with atopic dermatitis has not been studied.
+
+For adolescents 12 to 17 years of age with atopic dermatitis receiving every other week dosing (Q2W) with either 200 mg (<60 kg) or 300 mg (≥60 kg), the mean ±SD steady state trough concentration of dupilumab was 54.5±27.0 mcg/ml.
 
 A total of 107 adolescents aged 12 to 17 years with asthma were enrolled in QUEST study.
 The mean ±SD steady-state trough concentrations of dupilumab were 107±51.6 mcg/mL and 46.7±26.9 mcg/mL, respectively, for 300 mg or 200 mg administered every other week.
 No age-related pharmacokinetic difference was observed in adolescent patients after correction for body weight.
-
-[Dupixent 200 mg solution for injection in pre-filled syringe]
-
-Of the 1,472 patients with atopic dermatitis exposed to dupilumab in a phase 2 dose-ranging study or phase 3 placebo-controlled studies, a total of 67 were 65 years or older.

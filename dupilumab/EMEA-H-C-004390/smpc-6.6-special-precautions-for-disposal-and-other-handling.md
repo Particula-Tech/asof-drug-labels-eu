@@ -4,7 +4,6 @@ The instructions for the preparation and administration of Dupixent in a pre-fil
 
 The solution should be clear to slightly opalescent, colourless to pale yellow.
 If the solution is cloudy, discoloured or contains visible particulate matter, the solution should not be used.
-
 After removing the 300 mg pre-filled syringe from the refrigerator, it should be allowed to reach room temperature by waiting for 45 min before injecting Dupixent.
 
 The pre-filled syringe should not be exposed to heat or direct sunlight and should not be shaken.

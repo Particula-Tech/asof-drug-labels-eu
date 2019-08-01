@@ -4,6 +4,7 @@ Immune responses to vaccination were assessed in a study in which patients with 
 After 12 weeks of dupilumab administration, patients were vaccinated with a Tdap vaccine (T cell-dependent), and a meningococcal polysaccharide vaccine (T cell-independent) and immune responses were assessed 4 weeks later.
 Antibody responses to both tetanus vaccine and meningococcal polysaccharide vaccine were similar in dupilumab-treated and placebo-treated patients.
 No adverse interactions between either of the non-live vaccines and dupilumab were noted in the study.
+
 Therefore, patients receiving dupilumab may receive concurrent inactivated or non-live vaccinations.
 For information on live vaccines see section 4.4.
 
