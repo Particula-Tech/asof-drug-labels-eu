@@ -15,7 +15,6 @@ Breast-feeding
 It is not known whether ibrutinib or its metabolites are excreted in human milk.
 A risk to breast-fed children cannot be excluded.
 Breast-feeding should be discontinued during treatment with IMBRUVICA.
-
 Fertility
 No effects on fertility or reproductive capacities were observed in male or female rats up to the maximum dose tested, 100 mg/kg/day (Human Equivalent Dose [HED]16 mg/kg/day) (see section 5.3).
 No human data on the effects of ibrutinib on fertility are available.

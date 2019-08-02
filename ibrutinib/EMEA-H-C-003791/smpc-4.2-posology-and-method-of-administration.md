@@ -11,10 +11,13 @@ The recommended dose for the treatment of CLL, either as a single agent or in co
 The recommended dose for the treatment of WM is 420 mg (three capsules) once daily.
 
 Treatment should continue until disease progression or no longer tolerated by the patient.
+
+When administering IMBRUVICA in combination with anti-CD20 therapies, it is recommended to administer IMBRUVICA prior to rituximab or obinutuzumab when given on the same day.
 Dose adjustments
 Moderate and strong CYP3A4 inhibitors increase the exposure of ibrutinib (see sections 4.4 and 4.5).
 
 The dose of ibrutinib should be reduced to 280 mg once daily (two capsules) when used concomitantly with moderate CYP3A4 inhibitors.
+
 The dose of ibrutinib should be reduced to 140 mg once daily (one capsule) or withheld for up to 7 days when it is used concomitantly with strong CYP3A4 inhibitors.
 
 IMBRUVICA therapy should be withheld for any new onset or worsening grade ≥3 non-haematological toxicity, grade 3 or greater neutropenia with infection or fever, or grade 4 haematological toxicities.
@@ -45,7 +48,7 @@ No specific clinical studies have been conducted in patients with renal impairme
 Patients with mild or moderate renal impairment were treated in IMBRUVICA clinical studies.
 No dose adjustment is needed for patients with mild or moderate renal impairment (greater than 30 mL/min creatinine clearance).
 Hydration should be maintained and serum creatinine levels monitored periodically.
-Administer IMBRUVICA to patients with severe renal impairment (< 30 mL/min creatinine clearance) only if the benefit outweighs the risk and monitor patients closely for signs of toxicity.
+Administer IMBRUVICA to patients with severe renal impairment (<30 mL/min creatinine clearance) only if the benefit outweighs the risk and monitor patients closely for signs of toxicity.
 There are no data in patients with severe renal impairment or patients on dialysis (see section 5.2).
 
 Hepatic impairment
@@ -58,7 +61,6 @@ It is not recommended to administer IMBRUVICA to patients with severe hepatic im
 
 Severe cardiac disease
 Patients with severe cardiovascular disease were excluded from IMBRUVICA clinical studies.
-
 Paediatric population
 The safety and efficacy of IMBRUVICA in children and adolescents aged 0 to 18 years have not been established.
 No data are available.

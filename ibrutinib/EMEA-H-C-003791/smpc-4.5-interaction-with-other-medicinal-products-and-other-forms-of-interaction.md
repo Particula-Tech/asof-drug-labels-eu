@@ -19,13 +19,12 @@ If a moderate CYP3A4 inhibitor (e.g., fluconazole, erythromycin, amprenavir, apr
 Monitor patient closely for toxicity and follow dose modification guidance as needed (see sections 4.2 and 4.4).
 
 Mild CYP3A4 inhibitors
-Simulations using fasted conditions suggested that the mild CYP3A4 inhibitors azithromycin and fluvoxamine may increase the AUC of ibrutinib by < 2-fold.
+Simulations using fasted conditions suggested that the mild CYP3A4 inhibitors azithromycin and fluvoxamine may increase the AUC of ibrutinib by <2-fold.
 No dose adjustment is required in combination with mild inhibitors.
 Monitor patient closely for toxicity and follow dose modification guidance as needed.
 
 Co-administration of grapefruit juice, containing CYP3A4 inhibitors, in eight healthy subjects, increased exposure (Cmax and AUC) of ibrutinib by approximately 4- and 2-fold, respectively.
 Grapefruit and Seville oranges should be avoided during IMBRUVICA treatment, as these contain moderate inhibitors of CYP3A4 (see section 4.2).
-
 Agents that may decrease ibrutinib plasma concentrations
 Administration of IMBRUVICA with inducers of CYP3A4 can decrease ibrutinib plasma concentrations.
 

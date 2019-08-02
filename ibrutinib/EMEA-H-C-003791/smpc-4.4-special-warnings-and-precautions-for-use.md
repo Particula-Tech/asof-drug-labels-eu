@@ -16,8 +16,8 @@ Patients with congenital bleeding diathesis have not been studied.
 
 Leukostasis
 Cases of leukostasis have been reported in patients treated with IMBRUVICA.
-A high number of circulating lymphocytes (> 400,000/mcL) may confer increased risk.
-Consider temporarily holding IMBRUVICA.
+A high number of circulating lymphocytes (>400,000/mcL) may confer increased risk.
+Consider temporarily withholding IMBRUVICA.
 Patients should be closely monitored.
 Administer supportive care including hydration and/or cytoreduction as indicated.
 
@@ -36,6 +36,7 @@ If any doubt exists, referral to a neurologist and appropriate diagnostic measur
 Cytopenias
 Treatment-emergent grade 3 or 4 cytopenias (neutropenia, thrombocytopenia and anaemia) were reported in patients treated with IMBRUVICA.
 Monitor complete blood counts monthly.
+
 Interstitial Lung Disease (ILD)
 Cases of ILD have been reported in patients treated with IMBRUVICA.
 Monitor patients for pulmonary symptoms indicative of ILD.
@@ -69,6 +70,9 @@ Hepatitis B virus (HBV) status should be established before initiating treatment
 For patients who test positive for HBV infection, consultation with a physician with expertise in the treatment of hepatitis B is recommended.
 If patients have positive hepatitis B serology, a liver disease expert should be consulted before the start of treatment and the patient should be monitored and managed following local medical standards to prevent hepatitis B reactivation.
 
+Hypertension
+Hypertension has occurred in patients treated with IMBRUVICA (see section 4.8).
+Regularly monitor blood pressure in patients treated with IMBRUVICA and initiate or adjust antihypertensive medication throughout treatment with IMBRUVICA as appropriate.
 Drug-drug interactions
 Co-administration of strong or moderate CYP3A4 inhibitors with IMBRUVICA may lead to increased ibrutinib exposure and consequently a higher risk for toxicity.
 On the contrary, co-administration of CYP3A4 inducers may lead to decreased IMBRUVICA exposure and consequently a risk for lack of efficacy.
