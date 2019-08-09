@@ -36,6 +36,7 @@ A single dose administration of digoxin 1 mg with liraglutide resulted in a redu
 Digoxin median tmax was delayed from 1 h to 1.5 h. No adjustment of digoxin dose is required based on these results.
 
 Lisinopril
+
 A single dose administration of lisinopril 20 mg with liraglutide resulted in a reduction of lisinopril AUC by 15%; Cmax decreased by 27%.
 Lisinopril median tmax was delayed from 6 h to 8 h with liraglutide.
 No dose adjustment of lisinopril is required based on these results.
@@ -50,3 +51,7 @@ The contraceptive effect is therefore anticipated to be unaffected when co-admin
 Insulin
 
 No pharmacokinetic or pharmacodynamic interactions were observed between liraglutide and insulin detemir when administering a single dose of insulin detemir 0.5 U/kg with liraglutide 1.8 mg at steady state in patients with type 2 diabetes.
+
+Paediatric Population
+
+Interaction studies have only been performed in adults.

@@ -1,15 +1,16 @@
 # 5.2 Pharmacokinetic properties
 
 Absorption
+
 The absorption of liraglutide following subcutaneous administration is slow, reaching maximum concentration 8–12 hours post dosing.
-Estimated maximum liraglutide concentration was 9.4 nmol/l for a subcutaneous single dose of liraglutide 0.6 mg.
-At 1.8 mg liraglutide, the average steady state concentration of liraglutide (AUCτ/24) reached approximately 34 nmol/l.
+Estimated maximum liraglutide concentration was 9.4 nmol/l (mean body weight approximately 73 kg) for a subcutaneous single dose of liraglutide 0.6 mg.
+At 1.8 mg liraglutide, the average steady state concentration of liraglutide (AUCτ/24) reached approximately 34 nmol/l (mean body weight approximately 76 kg).
+The exposure of liraglutide decreases with increasing body weight.
 Liraglutide exposure increased proportionally with dose.
 The intra-subject coefficient of variation for liraglutide AUC was 11% following single dose administration.
 Absolute bioavailability of liraglutide following subcutaneous administration is approximately 55%.
 
 Distribution
-
 The apparent volume of distribution after subcutaneous administration is 11–17 l. The mean volume of distribution after intravenous administration of liraglutide is 0.07 l/kg.
 Liraglutide is extensively bound to plasma proteins (>98%).
 
@@ -51,3 +52,7 @@ Liraglutide exposure was reduced in patients with renal impairment compared to i
 Liraglutide exposure was lowered by 33%, 14%, 27% and 26% in patients with mild (creatinine clearance, CrCl 50–80 ml/min), moderate (CrCl 30–50 ml/min), and severe (CrCl <30 ml/min) renal impairment and in end-stage renal disease requiring dialysis, respectively.
 
 Similarly, in a 26-week clinical trial, patients with type 2 diabetes and moderate renal impairment (CrCL 30–59 ml/min, see section 5.1) had 26% lower liraglutide exposure when compared with a separate trial including patients with type 2 diabetes with normal renal function or mild renal impairment.
+
+Paediatric population
+Pharmacokinetic properties were assessed in clinical studies in the paediatric population with type 2 diabetes aged 10 years and above.
+The liraglutide exposure in adolescents and children was comparable to that observed in the adult population.

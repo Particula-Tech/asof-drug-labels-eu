@@ -2,7 +2,7 @@
 
 Summary of the safety profile
 
-In five large long-term clinical phase 3a trials over 2,500 patients have received treatment with Victoza alone or in combination with metformin, a sulfonylurea (with or without metformin) or metformin plus rosiglitazone.
+In five large long-term clinical phase 3a trials over 2,500 adult patients have received treatment with Victoza alone or in combination with metformin, a sulfonylurea (with or without metformin) or metformin plus rosiglitazone.
 
 The most frequently reported adverse reactions during clinical trials were gastrointestinal disorders: nausea and diarrhoea were very common, whereas vomiting, constipation, abdominal pain, and dyspepsia were common.
 At the beginning of the therapy, these gastrointestinal adverse reactions may occur more frequently.
@@ -27,12 +27,20 @@ Table 1 Adverse reactions from long-term controlled phase 3a trials, the long-te
 | Metabolism and nutrition disorders |  | Hypoglycaemia Anorexia Appetite decreased | Dehydration |  |  |
 | Nervous system disorders |  | Headache Dizziness |  |  |  |
 | Cardiac disorders |  | Increased heart rate |  |  |  |
-| Gastrointestinal disorders | Nausea Diarrhoea | Vomiting Dyspepsia Abdominal pain upper Constipation Gastritis Flatulence Abdominal distension Gastroesophageal reflux disease Abdominal discomfort Toothache |  | Intestinal obstruction | Pancreatitis (including necrotising pancreatitis) |
+| Gastrointestina l disorders | Nausea Diarrhoea | Vomiting Dyspepsia Abdominal pain upper Constipation Gastritis Flatulence Abdominal distension Gastroesophageal reflux disease Abdominal discomfort Toothache |  | Intestinal obstruction | Pancreatitis (including necrotising pancreatitis) |
 | Hepatobiliary disorders |  |  | Cholelithiasis Cholecystitis |  |  |
-| Skin and subcutaneous tissue disorder |  | Rash | Urticaria Pruritus |  |  |
-| Renal and urinary disorders |  |  | Renal impairment Renal failure acute |  |  |
-| General disorders and administration site conditions |  | Fatigue Injection site reactions | Malaise |  |  |
 
+Skin and Rash Urticaria
+subcutaneous Pruritus
+tissue disorder
+Renal and Renal
+urinary impairment
+disorders Renal failure
+acute
+General Fatigue Malaise
+disorders and Injection site
+administration reactions
+site conditions
 Investigations Increased lipase*
 Increased amylase*
 
@@ -55,7 +63,7 @@ For patients treated with premix insulin at baseline and at least for the follow
 Gastrointestinal adverse reactions
 When combining liraglutide with metformin, 20.7% of patients reported at least one episode of nausea, and 12.6% of patients reported at least one episode of diarrhoea.
 When combining liraglutide with a sulfonylurea, 9.1% of patients reported at least one episode of nausea and 7.9% of patients reported at least one episode of diarrhoea.
-Most episodes were mild to moderate and occurred in a dose­dependent fashion.
+Most episodes were mild to moderate and occurred in a dose-dependent fashion.
 With continued therapy, the frequency and severity decreased in most patients who initially experienced nausea.
 
 Patients >70 years may experience more gastrointestinal effects when treated with liraglutide.
@@ -66,9 +74,8 @@ Few cases of cholelithiasis (0.4%) and cholecystitis (0.1%) have been reported d
 In the LEADER trial, the frequency of cholelithiasis and cholecystitis was 1.5% and 1.1% for liraglutide and 1.1% and 0.7% for placebo, respectively (see section 5.1).
 
 Withdrawal
-The incidence of withdrawal due to adverse reactions was 7.8% for liraglutide-treated patients and 3.4% for comparator­treated patients in the long-term controlled trials (26 weeks or longer).
+The incidence of withdrawal due to adverse reactions was 7.8% for liraglutide-treated patients and 3.4% for comparator-treated patients in the long-term controlled trials (26 weeks or longer).
 The most frequent adverse reactions leading to withdrawal for liraglutide-treated patients were nausea (2.8% of patients) and vomiting (1.5%).
-
 Injection site reactions
 Injection site reactions have been reported in approximately 2% of patients receiving Victoza in long-term (26 weeks or longer) controlled trials.
 These reactions have usually been mild.
@@ -77,10 +84,17 @@ Pancreatitis
 Few cases of acute pancreatitis (<0.2%) have been reported during long-term, controlled phase 3 clinical trials with Victoza.
 Pancreatitis was also reported from marketed use.
 In the LEADER trial, the frequency of acute pancreatitis confirmed by adjudication was 0.4% for liraglutide and 0.5% for placebo, respectively (see sections 4.4 and 5.1).
+
 Allergic reactions
 Allergic reactions including urticaria, rash and pruritus have been reported from marketed use of Victoza.
 Few cases of anaphylactic reactions with additional symptoms such as hypotension, palpitations, dyspnoea and oedema have been reported with marketed use of Victoza.
 Few cases (0.05%) of angioedema have been reported during all long-term clinical trials with Victoza.
+
+Paediatric population
+Overall, frequency, type and severity of adverse reactions in adolescents and children aged 10 years and above were comparable to that observed in the adult population.
+Rate of confirmed hypoglycaemic episodes was higher with liraglutide (0.58 events/patient year) compared to placebo (0.29 events/patient year).
+In patients treated with insulin prior to a confirmed hypoglycaemic episode the rate was higher with liraglutide (1.82 events/patient year) compared to placebo (0.91 events/patient years).
+No severe hypoglycaemic episodes occurred in the liraglutide treatment group.
 
 Reporting of suspected adverse reactions
 

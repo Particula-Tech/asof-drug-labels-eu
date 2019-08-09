@@ -1,7 +1,7 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 1 ml of solution contains 6 mg of liraglutide*.
-One pre­filled pen contains 18 mg liraglutide in 3 ml.
+One pre-filled pen contains 18 mg liraglutide in 3 ml.
 
 * human glucagon-like peptide-1 (GLP-1) analogue produced by recombinant DNA technology in
 Saccharomyces cerevisiae.

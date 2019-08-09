@@ -7,20 +7,17 @@ After at least one week, the dose should be increased to 1.2 mg.
 Some patients are expected to benefit from an increase in dose from 1.2 mg to 1.8 mg and based on clinical response, after at least one week, the dose can be increased to 1.8 mg to further improve glycaemic control.
 Daily doses higher than 1.8 mg are not recommended.
 
-Victoza can be added to existing metformin or to a combination of metformin and thiazolidinedione therapy.
-The current dose of metformin and thiazolidinedione can be continued unchanged.
-
-Victoza can be added to existing sulfonylurea or to a combination of metformin and sulfonylurea therapy or insulin.
-When Victoza is added to sulfonylurea therapy or insulin, a reduction in the dose of sulfonylurea or insulin should be considered to reduce the risk of hypoglycaemia (see section 4.4).
+When Victoza is added to a sulfonylurea or insulin, a reduction in the dose of sulfonylurea or insulin should be considered to reduce the risk of hypoglycaemia (see section 4.4).
+Combination therapy with sulfonylurea is only valid for adult patients.
 
 Self-monitoring of blood glucose is not needed in order to adjust the dose of Victoza.
-However, when initiating treatment with Victoza in combination with a sulfonylurea or insulin, blood glucose self-monitoring may become necessary to adjust the dose of the sulfonylurea or the insulin.
+Blood glucose self-monitoring is necessary to adjust the dose of sulfonylurea and insulin, particularly when Victoza therapy is started and insulin is reduced.
+A stepwise approach to insulin dose reduction is recommended.
 
 Special populations
 
 Elderly patients (>65 years old)
 No dose adjustment is required based on age (see section 5.2).
-
 Renal impairment
 No dose adjustment is required for patients with mild, moderate or severe renal impairment.
 There is no therapeutic experience in patients with end-stage renal disease, and Victoza is therefore not recommended for use in these patients (see sections 5.1 and 5.2).
@@ -30,8 +27,8 @@ No dose adjustment is recommended for patients with mild or moderate hepatic imp
 Victoza is not recommended for use in patients with severe hepatic impairment (see section 5.2).
 
 Paediatric population
-The safety and efficacy of Victoza in children and adolescents below age 18 have not been established (see section 5.1).
-No data are available.
+No dose adjustment is required for adolescents and children aged 10 years and above.
+No data are available for children below 10 years of age (see sections 5.1 and 5.2).
 
 Method of administration
 

@@ -3,6 +3,7 @@
 Liraglutide should not be used in patients with type 1 diabetes mellitus or for the treatment of diabetic ketoacidosis.
 
 Liraglutide is not a substitute for insulin.
+Diabetic ketoacidosis has been reported in insulin-dependent patients after rapid discontinuation or dose reduction of insulin (see section 4.2).
 
 There is no therapeutic experience in patients with congestive heart failure New York Heart Association (NYHA) class IV, and liraglutide is therefore not recommended for use in these patients.
 
@@ -21,6 +22,7 @@ Thyroid adverse events, such as goitre, have been reported in clinical trials an
 Liraglutide should therefore be used with caution in these patients.
 
 Hypoglycaemia
+
 Patients receiving liraglutide in combination with a sulfonylurea or insulin may have an increased risk of hypoglycaemia (see section 4.8).
 The risk of hypoglycaemia can be lowered by a reduction in the dose of sulfonylurea or insulin.
 
@@ -28,3 +30,7 @@ Dehydration
 
 Signs and symptoms of dehydration, including renal impairment and acute renal failure, have been reported in patients treated with liraglutide.
 Patients treated with liraglutide should be advised of the potential risk of dehydration in relation to gastrointestinal side effects and take precautions to avoid fluid depletion.
+
+Excipients
+
+Victoza contains less than 1 mmol sodium (23 mg) per dose, therefore the medicinal product is essentially ‘sodium-free’.
