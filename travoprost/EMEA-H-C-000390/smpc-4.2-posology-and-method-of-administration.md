@@ -1,6 +1,7 @@
 # 4.2 Posology and method of administration
 
 Posology
+
 Use in adults, including elderly population
 The dose is one drop of TRAVATAN in the conjunctival sac of the affected eye(s) once daily.
 Optimal effect is obtained if the dose is administered in the evening.
@@ -17,6 +18,7 @@ When substituting another ophthalmic antiglaucoma medicinal product with TRAVATA
 Hepatic and renal impairment
 TRAVATAN has been studied in patients with mild to severe hepatic impairment and in patients with mild to severe renal impairment (creatinine clearance as low as 14 ml/min).
 No dosage adjustment is necessary in these patients (see section 5.2).
+
 Paediatric population
 TRAVATAN can be used in paediatric patients from 2 months to < 18 years at the same posology as in adults.
 However, data in the age group 2 months to < 3 years (9 patients) is limited (see section 5.1).
@@ -25,6 +27,7 @@ The safety and efficacy of TRAVATAN in children below the age of 2 months have n
 No data are available.
 
 Method of Administration
+
 For ocular use.
 
 For patients who wear contact lenses, please refer to section 4.4.

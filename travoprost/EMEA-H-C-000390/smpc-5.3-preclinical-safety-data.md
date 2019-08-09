@@ -2,7 +2,6 @@
 
 In ocular toxicity studies in monkeys, administration of travoprost at a dose of 0.45 microgram, twice a day, was shown to induce increased palpebral fissure.
 Topical ocular administration of travoprost to monkeys at concentrations of up to 0.012% to the right eye, twice daily for one year resulted in no systemic toxicity.
-
 Reproduction toxicity studies have been undertaken in rat, mice and rabbit by systemic route.
 Findings are related to FP receptor agonist activity in uterus with early embryolethality, post-implantation loss, foetotoxicity.
 In pregnant rat, systemic administration of travoprost at doses more than 200 times the clinical dose during the period of organogenesis resulted in an increased incidence of malformations.

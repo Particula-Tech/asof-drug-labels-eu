@@ -1,6 +1,6 @@
 # 3. PHARMACEUTICAL FORM
 
 Eye drops, solution.
-(Eye drops)
+(eye drops)
 
 Clear, colourless solution.
