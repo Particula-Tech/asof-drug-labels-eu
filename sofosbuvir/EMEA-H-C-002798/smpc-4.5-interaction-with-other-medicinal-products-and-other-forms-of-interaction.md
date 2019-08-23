@@ -21,11 +21,14 @@ Patients treated with vitamin K antagonists
 
 As liver function may change during treatment with Sovaldi, a close monitoring of International Normalised Ratio (INR) values is recommended.
 
+Impact of DAA therapy on drugs metabolized by the liver
+
+The pharmacokinetics of drugs that are metabolized by the liver (e.g. immunosuppressive agents such as calcineurin inhibitors) may be impacted by changes in liver function during DAA therapy, related to clearance of HCV.
+
 Other interactions
 
 Drug interaction information for Sovaldi with potential concomitant medicinal products is summarised in Table 5 below (where 90% confidence interval (CI) of the geometric least-squares mean (GLSM) ratio were within “↔”, extended above “↑”, or extended below “↓” the predetermined equivalence boundaries).
 The table is not all-inclusive.
-
 Table 5: Interactions between Sovaldi and other medicinal products
 
 | Medicinal product by therapeutic areas | Effects on drug levels. Mean ratio (90% confidence interval) for AUC, Cmax, Cmina,b | Recommendation concerning co-administration with Sovaldi |
@@ -33,7 +36,7 @@ Table 5: Interactions between Sovaldi and other medicinal products
 | ANALEPTICS |  |  |
 | Modafinil | Interaction not studied. Expected: ↓ Sofosbuvir ↔ GS-331007 | Co-administration of Sovaldi with modafinil is expected to decrease the concentration of sofosbuvir, leading to reduced therapeutic effect of Sovaldi. Such co-administration is not recommended. |
 | ANTIARRHYTHMICS |  |  |
-| Amiodarone | Interaction not studied. | Use only if no other alternative is available. Close monitoring is recommended if this medicinal product is administered with Sovaldi and another DAA (see sections 4.4 and 4.8). |
+| Amiodarone | Interaction not studied. | Use only if no other alternative is available. Close monitoring is recommended if this medicinal product is administered with Sovaldi (see sections 4.4 and 4.8). |
 | ANTICOAGULANTS |  |  |
 | Vitamin K antagonists | Interaction not studied | Close monitoring of INR is recommended with all vitamin K antagonists. This is due to liver function changes during treatment with Sovaldi. |
 | ANTICONVULSANTS |  |  |
@@ -46,14 +49,11 @@ Table 5: Interactions between Sovaldi and other medicinal products
 | St. John’s wort (Hypericum perforatum) | Interaction not studied. Expected: ↓ Sofosbuvir ↔ GS-331007 | Sovaldi is contraindicated with St. John’s wort, a potent intestinal P-gp inducer (see section 4.3). |
 | HCV ANITIVIRAL AGENTS: HCV PROTEASE INHIBITORS |  |  |
 | Boceprevir (BOC) Telaprevir (TPV) | Interaction not studied. Expected: ↑ Sofosbuvir (TPV) ↔ Sofosbuvir (BOC) ↔ GS-331007 (TPV or BOC) | No drug-drug interaction data exists regarding the co-administration of Sovaldi with boceprevir or telaprevir. |
-
-| Medicinal product by therapeutic areas | Effects on drug levels. Mean ratio (90% confidence interval) for AUC, Cmax, Cmina,b | Recommendation concerning co-administration with Sovaldi |
-| --- | --- | --- |
 | NARCOTIC ANALGESICS |  |  |
 | Methadonef (Methadone maintenance therapy [30 to 130 mg/daily]) | R-methadone ↔ Cmax 0.99 (0.85, 1.16) ↔ AUC 1.01 (0.85, 1.21) ↔ Cmin 0.94 (0.77, 1.14) S-methadone ↔ Cmax 0.95 (0.79, 1.13) ↔ AUC 0.95 (0.77, 1.17) ↔ Cmin 0.95 (0.74, 1.22) Sofosbuvir ↓ Cmax 0.95c (0.68, 1.33) ↑ AUC 1.30c (1.00, 1.69) Cmin (NA) GS-331007 ↓ Cmax 0.73c (0.65, 0.83) ↔ AUC 1.04c (0.89, 1.22) Cmin (NA) | No dose adjustment of sofosbuvir or methadone is required when sofosbuvir and methadone are used concomitantly. |
 | IMMUNOSUPPRESSANTS |  |  |
-| Ciclosporine (600 mg single dose) | Ciclosporin ↔ Cmax 1.06 (0.94, 1.18) ↔ AUC 0.98 (0.85, 1.14) Cmin (NA) Sofosbuvir ↑ Cmax 2.54 (1.87, 3.45) ↑ AUC 4.53 (3.26, 6.30) Cmin (NA) GS-331007 ↓ Cmax 0.60 (0.53, 0.69) ↔ AUC 1.04 (0.90, 1.20) Cmin (NA) | No dose adjustment of sofosbuvir or ciclosporin is required when sofosbuvir and ciclosporin are used concomitantly. |
-| Tacrolimuse (5 mg single dose) | Tacrolimus ↓ Cmax 0.73 (0.59, 0.90) ↔ AUC 1.09 (0.84, 1.40) Cmin (NA) Sofosbuvir ↓ Cmax 0.97 (0.65, 1.43) ↑ AUC 1.13 (0.81, 1.57) Cmin (NA) GS-331007 ↔ Cmax 0.97 (0.83, 1.14) ↔ AUC 1.00 (0.87, 1.13) Cmin (NA) | No dose adjustment of sofosbuvir or tacrolimus is required when sofosbuvir and tacrolimus are used concomitantly. |
+| Ciclosporine (600 mg single dose) | Ciclosporin ↔ Cmax 1.06 (0.94, 1.18) ↔ AUC 0.98 (0.85, 1.14) Cmin (NA) Sofosbuvir ↑ Cmax 2.54 (1.87, 3.45) ↑ AUC 4.53 (3.26, 6.30) Cmin (NA) GS-331007 ↓ Cmax 0.60 (0.53, 0.69) ↔ AUC 1.04 (0.90, 1.20) Cmin (NA) | No dose adjustment of sofosbuvir or ciclosporin is required at initiation of co-administration. Afterwards, close monitoring and potential dose adjustment of ciclosporin may be required. |
+| Tacrolimuse (5 mg single dose) | Tacrolimus ↓ Cmax 0.73 (0.59, 0.90) ↔ AUC 1.09 (0.84, 1.40) Cmin (NA) Sofosbuvir ↓ Cmax 0.97 (0.65, 1.43) ↑ AUC 1.13 (0.81, 1.57) Cmin (NA) GS-331007 ↔ Cmax 0.97 (0.83, 1.14) ↔ AUC 1.00 (0.87, 1.13) Cmin (NA) | No dose adjustment of sofosbuvir or tacrolimus is required at initiation of co-administration. Afterwards, close monitoring and potential dose adjustment of tacrolimus may be required. |
 | HIV ANTIVIRAL AGENTS: REVERSE TRANSCRIPTASE INHIBITORS |  |  |
 | Efavirenzf (600 mg once daily)d | Efavirenz ↔ Cmax 0.95 (0.85, 1.06) ↔ AUC 0.96 (0.91, 1.03) ↔ Cmin 0.96 (0.93, 0.98) Sofosbuvir ↓ Cmax 0.81 (0.60, 1.10) ↔ AUC 0.94 (0.76, 1.16) Cmin (NA) GS-331007 ↓ Cmax 0.77 (0.70, 0.84) ↔ AUC 0.84 (0.76, 0.92) Cmin (NA) | No dose adjustment of sofosbuvir or efavirenz is required when sofosbuvir and efavirenz are used concomitantly. |
 | Emtricitabinef (200 mg once daily)d | Emtricitabine ↔ Cmax 0.97 (0.88, 1.07) ↔ AUC 0.99 (0.94, 1.05) ↔ Cmin 1.04 (0.98, 1.11) Sofosbuvir ↓ Cmax 0.81 (0.60, 1.10) ↔ AUC 0.94 (0.76, 1.16) Cmin (NA) GS-331007 ↓ Cmax 0.77 (0.70, 0.84) ↔ AUC 0.84 (0.76, 0.92) Cmin (NA) | No dose adjustment of sofosbuvir or emtricitabine is required when sofosbuvir and emtricitabine are used concomitantly. |

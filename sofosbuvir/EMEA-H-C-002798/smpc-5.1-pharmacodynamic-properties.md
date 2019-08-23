@@ -219,7 +219,6 @@ c. Other includes patients who did not achieve SVR12 and did not meet virologic 
 
 Table 14 presents the subgroup analysis by genotype for cirrhosis and response to prior
 HCV treatment.
-
 Table 14: SVR12 rates for selected subgroups by genotype in study FUSION
 
 |  | Genotype 2 |  | Genotype 3 |  |
@@ -228,7 +227,6 @@ Table 14: SVR12 rates for selected subgroups by genotype in study FUSION
 | Cirrhosis |  |  |  |  |
 | No | 90% (26/29) | 92% (24/26) | 37% (14/38) | 63% (25/40) |
 | Yes | 60% (6/10) | 78% (7/9) | 19% (5/26) | 61% (14/23) |
-|  | SOF+RBV 12 weeks (n = 39) | SOF+RBV 16 weeks (n = 35) | SOF+RBV 12 weeks (n = 64) | SOF+RBV 16 weeks (n = 63) |
 | Response to prior HCV treatment |  |  |  |  |
 | Relapser | 86% (25/29) | 89% (24/27) | 31% (15/49) | 65% (30/46) |
 | Nonresponder | 70% (7/10) | 88% (7/8) | 27% (4/15) | 53% (9/17) |
@@ -274,6 +272,7 @@ Table 16: SVR12 rates for selected subgroups by genotype in study VALENCE
 
 SVR12 to SVR24 concordance
 The concordance between SVR12 and SVR24 (SVR 24 weeks after the end of the treatment) following treatment with sofosbuvir in combination with ribavirin or ribavirin and pegylated interferon demonstrates a positive predictive value of 99% and a negative predictive value of 99%.
+
 Clinical efficacy and safety in special populations
 HCV/HIV co-infected adult patients - PHOTON-1 (study 123)
 Sofosbuvir was studied in an open-label clinical study evaluating the safety and efficacy of 12 or 24 weeks of treatment with sofosbuvir and ribavirin in patients with genotype 1, 2 or 3 chronic hepatitis C co-infected with HIV-1.
@@ -343,7 +342,6 @@ Forty patients (33 with HCV genotype 1 infection, 6 with HCV genotype 3 infectio
 All patients who achieved SVR12 achieved SVR24 and SVR48.
 
 Overview of outcomes by therapeutic regimen and treatment duration, a comparison across studies The following tables (Table 20 to Table 23) present data from Phase 2 and Phase 3 studies relevant to the dosing to help clinicians determine the best regimen for individual patients.
-
 Table 20: Outcomes by therapeutic regimen and treatment duration, a comparison across studies in genotype 1 HCV infection
 
 | Patient population (Study number/name) | Regimen/Duration | Subgroup | SVR12 rate % (n/N) |
@@ -370,7 +368,6 @@ Consideration should be given to treating these patients, and potentially extend
 b. These are exploratory or Phase 2 studies.
 The outcomes should be interpreted with caution, as subject numbers are small and SVR rates may be impacted by the selection of patients.
 c. Summary data from both studies.
-
 Table 21: Outcomes by therapeutic regimen and treatment duration, a comparison across studies in genotype 2 HCV infection
 
 | Patient population (Study number/name) | Regimen/Duration | Subgroup | SVR12 rate % (n/N) |
@@ -410,7 +407,6 @@ b. These are exploratory or Phase 2 studies.
 The outcomes should be interpreted with caution, as subject numbers are small and SVR rates may be impacted by the selection of patients.
 In the ELECTRON study (N = 11), the duration of peginterferon alfa ranged from 4-12 weeks in combination with sofosbuvir + ribavirin.
 c. All patients were non-cirrhotic in these two studies.
-
 Table 22: Outcomes by therapeutic regimen and treatment duration, a comparison across studies in genotype 3 HCV infection
 
 | Patient population (Study number/name) | Regimen/Duration | Subgroup | SVR12 rate % (n/N) |

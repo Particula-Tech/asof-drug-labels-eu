@@ -34,7 +34,6 @@ Sofosbuvir is extensively metabolised in the liver to form the pharmacologically
 The metabolic activation pathway involves sequential hydrolysis of the carboxyl ester moiety catalysed by human cathepsin A (CatA) or carboxylesterase 1 (CES1) and phosphoramidate cleavage by histidine triad nucleotide-binding protein 1 (HINT1) followed by phosphorylation by the pyrimidine nucleotide biosynthesis pathway.
 Dephosphorylation results in the formation of nucleoside metabolite GS-331007 that cannot be efficiently rephosphorylated and lacks anti-HCV activity in vitro.
 Sofosbuvir and GS-331007 are not substrates or inhibitors of UGT1A1 or CYP3A4, CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, and CYP2D6 enzymes.
-
 After a single 400 mg oral dose of [14C]-sofosbuvir, sofosbuvir and GS-331007 accounted for approximately 4% and >90% of drug-related material (sum of molecular weight-adjusted AUC of sofosbuvir and its metabolites) systemic exposure, respectively.
 
 Elimination
@@ -80,6 +79,7 @@ No dose adjustment of sofosbuvir is recommended for patients with mild, moderate
 Paediatric population
 Sofosbuvir and GS-331007 exposures in adolescents aged 12 to <18 years were similar to those in adults from Phase 2/3 studies following administration of sofosbuvir (400 mg).
 The pharmacokinetics of sofosbuvir and GS-331007 have not been established in paediatric patients < 12 years of age.
+
 Pharmacokinetic/pharmacodynamic relationship(s)
 
 Efficacy, in terms of rapid virologic response, has been shown to correlate with exposure to sofosbuvir as well as GS 331007.

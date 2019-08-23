@@ -55,7 +55,7 @@ a. SOF = sofosbuvir; b. RBV = ribavirin; c. PEG = peginterferon alfa.
 Description of selected adverse reactions
 
 Cardiac arrhythmias
-Cases of severe bradycardia and heart block have been observed when sofosbuvir is used in combination with another DAA (including daclatasvir, simeprevir and ledipasvir) and concomitant amiodarone and/or other medicinal products that lower heart rate (see sections 4.4 and 4.5).
+Cases of severe bradycardia and heart block have been observed when sofosbuvir containing-regimes are used in combination with amiodarone and/or other medicinal products that lower heart rate (see sections 4.4 and 4.5).
 
 Other special population(s)
 
@@ -74,6 +74,9 @@ In 5 patients (12.5%), study drugs were discontinued, modified or interrupted du
 Paediatric population
 The safety and efficacy of Sovaldi in adolescents aged 12 to <18 years are based on data from 50 patients who were treated with Sovaldi and ribavirin for 12 weeks (genotype 2 patients) and 24 weeks (genotype 3 patients) in a Phase 2, open-label clinical trial.
 The adverse reactions observed were consistent with those observed in clinical studies of Sovaldi plus ribavirin in adults (see Table 6).
+
+Skin disorders
+Frequency Not known: Stevens-Johnson syndrome
 
 Reporting of suspected adverse reactions
 
