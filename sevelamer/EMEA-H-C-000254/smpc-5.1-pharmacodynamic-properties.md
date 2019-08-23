@@ -2,6 +2,7 @@
 
 Pharmacotherapeutic group: Treatment of hyperphosphatemia.
 ATC code: V03AE02.
+
 Renagel contains sevelamer, a non-absorbed phosphate binding poly (allylamine hydrochloride) polymer, free of metal and calcium.
 It contains multiple amines separated by one carbon from the polymer backbone.
 These amines become partially protonated in the intestine and interact with phosphate molecules through ionic and hydrogen bonding.

@@ -34,7 +34,6 @@ Metabolic acidosis
 Patients with chronic renal failure are predisposed to developing metabolic acidosis.
 Worsening of acidosis has been reported upon switching from other phosphate binders to sevelamer in a number of studies where lower bicarbonate levels in the sevelamer-treated patients compared to patients treated with calcium-based binders were observed.
 Closer monitoring of serum bicarbonate levels is therefore recommended.
-
 Peritonitis
 Patients receiving dialysis are subject to certain risks for infection specific to the dialysis modality.
 Peritonitis is a known complication in patients receiving peritoneal dialysis (PD) and in a clinical study with Renagel, a number of peritonitis cases were reported.
@@ -61,6 +60,6 @@ Although no clinically significant serum chloride increase has been observed in 
 One gram of Renagel contains approximately 180 mg (5.1 mEq) chloride.
 
 Inflammatory Gastrointestinal Disorders
-Cases of serious inflammatory disorders of different parts of the gastrointestinal tract (including serious complications such as bleeding, perforation, ulceration, necrosis, colitis, …) associated with the presence of sevelamer crystals have been reported in literature.
-However, the causality of the sevelamer crystals in initiating such disorders has not been demonstrated.
+Cases of serious inflammatory disorders of different parts of the gastrointestinal tract (including serious complications such as haemorrhage, perforation, ulceration, necrosis, colitis and colonic/caecal mass) associated with the presence of sevelamer crystals have been reported (see section 4.8).
+Inflammatory disorders may resolve upon sevelamer discontinuation.
 Sevelamer hydrochloride treatment should be re-evaluated in patients who develop severe gastrointestinal symptoms.

@@ -12,10 +12,12 @@ The reporting rate is classified as very common (≥1/10), common (≥1/100 to <
 | --- | --- | --- | --- | --- | --- |
 | Immune system disorders |  |  |  | Hypersensitivity* |  |
 | Metabolism and nutrition disorders |  |  | Acidosis, increased serum chloride levels |  |  |
-| Gastrointestinal disorders | Nausea, vomiting | Diarrhoea, dyspepsia, flatulence, upper abdominal pain, constipation |  |  | Abdominal pain, intestinal obstruction, ileus/subileus, diverticulitis, intestinal perforation |
+| Gastrointestinal disorders | Nausea, vomiting | Diarrhoea, dyspepsia, flatulence, upper abdominal pain, constipation |  |  | Abdominal pain, intestinal obstruction, ileus/subileus, diverticulitis, intestinal perforation1, gastrointestinal hemorrhage*1, intestinal ulceration*1, gastrointestinal necrosis*1, colitis*1, intestinal mass*1 |
 | Skin and subcutaneous tissue disorders |  |  |  |  | Pruritus, rash |
+| Investigations |  |  |  |  | Crystal deposit intestine*1 |
 
 *post-marketing experience
+1 See inflammatory gastrointestinal disorders warning in section 4.4
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

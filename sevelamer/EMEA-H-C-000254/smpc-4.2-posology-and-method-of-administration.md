@@ -20,9 +20,9 @@ Serum phosphate should be tested every two to three weeks until a stable serum p
 
 The dose range may vary between 1 and 10 tablets per meal.
 The average actual daily dose used in the chronic phase of a one year clinical study was 7 grams of sevelamer.
+
 Paediatric population
 The safety and efficacy of this product have not been established in patients below the age of 18 years.
-
 Renal impairment
 The safety and efficacy of this product have not been established in predialysis patients.
 
