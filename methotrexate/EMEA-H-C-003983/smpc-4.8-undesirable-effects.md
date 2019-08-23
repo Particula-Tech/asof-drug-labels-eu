@@ -93,7 +93,7 @@ Very rare: Loss of libido, impotence, gynaecomastia, oligospermia, impaired mens
 
 General disorders and administration site conditions
 Rare: Fever, wound-healing impairment.
-Not known: Asthenia.
+Not known: Asthenia, injection site necrosis.
 
 Description of selected adverse reactions
 Lymphoma/Lymphoproliferative disorders: there have been reports of individual cases of lymphoma and other lymphoproliferative disorders which subsided in a number of cases once treatment with methotrexate had been discontinued.

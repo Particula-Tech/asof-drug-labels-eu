@@ -2,43 +2,59 @@
 
 Nordimet 7.5 mg solution for injection in pre-filled pen
 EU/1/16/1124/001 - 1 pack
-EU/1/16/1124/009 - 4 pack
+EU/1/16/1124/009 - 4 pack (4 packs of 1)
 EU/1/16/1124/010 - 6 pack
+EU/1/16/1124/057 - 4 pack (1 pack of 4)
+EU/1/16/1124/058 - 12 pack
 
 Nordimet 10 mg solution for injection in pre-filled pen
 EU/1/16/1124/002 - 1 pack
-EU/1/16/1124/011 - 4 pack
+EU/1/16/1124/011 - 4 pack (4 packs of 1)
 EU/1/16/1124/012 - 6 pack
+EU/1/16/1124/059 - 4 pack (1 pack of 4)
+EU/1/16/1124/060 - 12 pack
 
 Nordimet 12.5 mg solution for injection in pre-filled pen
 EU/1/16/1124/003 - 1 pack
-EU/1/16/1124/013 - 4 pack
+EU/1/16/1124/013 - 4 pack (4 packs of 1)
 EU/1/16/1124/014 - 6 pack
+EU/1/16/1124/061 - 4 pack (1 pack of 4)
+EU/1/16/1124/062 - 12 pack
 
 Nordimet 15 mg solution for injection in pre-filled pen
 EU/1/16/1124/004 - 1 pack
-EU/1/16/1124/015 - 4 pack
+EU/1/16/1124/015 - 4 pack (4 packs of 1)
 EU/1/16/1124/016 - 6 pack
+EU/1/16/1124/063 - 4 pack (1 pack of 4)
+EU/1/16/1124/064 - 12 pack
 
 Nordimet 17.5 mg solution for injection in pre-filled pen
 EU/1/16/1124/005 - 1 pack
-EU/1/16/1124/017 - 4 pack
+EU/1/16/1124/017 - 4 pack (4 packs of 1)
 EU/1/16/1124/018 - 6 pack
+EU/1/16/1124/065 - 4 pack (1 pack of 4)
+EU/1/16/1124/066 - 12 pack
 
 Nordimet 20 mg solution for injection in pre-filled pen
 EU/1/16/1124/006 - 1 pack
-EU/1/16/1124/019 - 4 pack
+EU/1/16/1124/019 - 4 pack (4 packs of 1)
 EU/1/16/1124/020 - 6 pack
+EU/1/16/1124/067 - 4 pack (1 pack of 4)
+EU/1/16/1124/068 - 12 pack
 
 Nordimet 22.5 mg solution for injection in pre-filled pen
 EU/1/16/1124/007 - 1 pack
-EU/1/16/1124/021 - 4 pack
+EU/1/16/1124/021 - 4 pack (4 packs of 1)
 EU/1/16/1124/022 - 6 pack
+EU/1/16/1124/069 - 4 pack (1 pack of 4)
+EU/1/16/1124/070 - 12 pack
 
 Nordimet 25 mg solution for injection in pre-filled pen
 EU/1/16/1124/008 - 1 pack
-EU/1/16/1124/023 - 4 pack
+EU/1/16/1124/023 - 4 pack (4 packs of 1)
 EU/1/16/1124/024 - 6 pack
+EU/1/16/1124/071 - 4 pack (1 pack of 4)
+EU/1/16/1124/072 - 12 pack
 
 Nordimet 7.5 mg solution for injection in pre-filled syringe
 EU/1/16/1124/025 - 1 pack
