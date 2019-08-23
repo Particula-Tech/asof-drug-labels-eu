@@ -7,6 +7,7 @@ Carcinogenic potential
 Carcinogenicity and genotoxicity studies have not been conducted with Nutropin Aq.
 In genotoxicity studies with other recombinant growth hormone preparations, there was no evidence of gene mutation in bacterial reverse mutation assays, chromosomal damage in human lymphocyte and mouse bone marrow cells, gene conversion in yeast or unscheduled DNA synthesis in human carcinoma cells.
 In carcinogenicity studies testing biologically recombinant active growth hormone in rats and mice, no increase in the incidence of tumors was shown.
+
 Toxicity to reproduction and development
 
 No conventional reproduction studies were performed.

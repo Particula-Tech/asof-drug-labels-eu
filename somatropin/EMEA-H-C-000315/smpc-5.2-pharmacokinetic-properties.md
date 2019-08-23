@@ -1,26 +1,28 @@
 # 5.2 Pharmacokinetic properties
 
-Introduction
-
 The pharmacokinetic properties of NutropinAq have only been investigated in healthy adult males.
 
 General characteristics
 
-Absorption: The absolute bioavailability of recombinant human growth hormone after subcutaneous administration is about 80%.
+Absorption
+The absolute bioavailability of recombinant human growth hormone after subcutaneous administration is about 80%.
 
-Distribution: Animal studies with somatropin showed that growth hormone localises to highly perfused organs, particularly the liver and kidney.
+Distribution
+Animal studies with somatropin showed that growth hormone localises to highly perfused organs, particularly the liver and kidney.
 The volume of distribution at steady state for somatropin in healthy adult males is about 50 ml/kg bodyweight, approximating the serum volume.
 
-Biotransformation: Both the liver and the kidney have been shown to be important protein catabolising organs for growth hormone.
+Biotransformation
+Both the liver and the kidney have been shown to be important protein catabolising organs for growth hormone.
 Animal studies suggest that the kidney is the dominant organ of clearance.
 Growth hormone is filtered at the glomerulus and reabsorbed in the proximal tubules.
 It is then cleaved within renal cells into its constituent amino acids, which return to the systemic circulation.
 
-Elimination: After subcutaneous bolus administration, the mean terminal half-life t½ of somatropin is about 2.3 hours.
+Elimination
+After subcutaneous bolus administration, the mean terminal half-life t½ of somatropin is about 2.3 hours.
 After intravenous bolus administration of somatropin, the mean terminal half-life t½β or t½γ is about 20 minutes and the mean clearance is reported to be in the range of 116 - 174 ml/h/kg.
 Available literature data suggest that somatropin clearance is similar in adults and children.
 
-Special population
+Special populations
 
 Information about the pharmacokinetics of somatropin in elderly and paediatric populations, in different races or genders and in patients with renal or hepatic impairment is incomplete.
 

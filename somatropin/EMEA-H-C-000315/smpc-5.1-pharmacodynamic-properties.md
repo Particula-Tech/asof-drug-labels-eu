@@ -3,7 +3,6 @@
 Pharmacotherapeutic group: Pituitary and hypothalamic hormones and analogues, Somatropin and analogues, ATC Code: H01 AC 01
 
 Mechanism of action
-
 Somatropin stimulates growth rate and increases adult height in children who lack endogenous growth hormone and in children who have growth failure due to Turner Syndrome or CRI.
 Treatment of growth hormone deficient adults with somatropin results in reduced fat mass, increased lean body mass and increased spine bone mineral density.
 Metabolic alterations in these patients include normalisation of IGF-I serum levels.
@@ -83,7 +82,8 @@ Height gains were maintained in the patients treated for 36 or 48 months.
 A total of 58% and 65% of somatropin-treated patients, who were below normal range at baseline, had reached heights within the normal range by Month 24.
 The results to Month 60 show continued improvement, and more patients reached height SDS in the normal range.
 The average change in height SDS after 5 years of treatment was close to 2 standard deviations (SDs).
-A statistically significant increase in mean PAH SDS was observed, from -1.6 or -1.7 at baseline to -0.7 or -0.9 at Month 24.
+A statistically significant increase in mean PAH SDS was observed, from -1.6 or
+-1.7 at baseline to -0.7 or -0.9 at Month 24.
 This continued to increase in those patients treated for 36 and 48 months.
 
 IGF-I levels, which were low at study entry, were restored to within the normal range with somatropin therapy.
@@ -99,6 +99,7 @@ Patients under 11 years of age were also randomised to receive oestrogen therapy
 
 A total of 117 patients were treated with somatropin; 36 received somatropin 0.125 mg/kg three times a week and 81 patients received 0.054 mg/kg somatropin daily.
 The average treatment time was 4.7 years in the somatropin three times a week group and 4.6 years in the somatropin daily group.
+
 Growth rate increased significantly from 3.6-4.1 cm/year at baseline to 6.7-8.1 cm/year at Month 12, 6.7-6.8 cm/year at Month 24 and 4.5-5.1 cm/year at Month 48.
 This was accompanied by a significant increase in height SDS from -0.1 to 0.5 at baseline to 0.0 to 0.7 at Month 12 and 1.6 to 1.7 at Month 48.
 Compared with matched historical controls, early somatropin therapy (mean duration of 5.6 years) combined with oestrogen replacement at age 12 years resulted in an adult height gain of 5.9 cm (n=26), whereas girls who initiated oestrogen at age 15 years (mean duration of somatropin therapy 6.1 years) had a mean adult height gain of 8.3 cm (n=29).

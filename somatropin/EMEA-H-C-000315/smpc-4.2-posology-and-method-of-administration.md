@@ -4,6 +4,7 @@ Diagnosis and therapy with somatropin should be initiated and monitored by physi
 Posology
 
 The NutropinAq dosage and administration schedule should be individualised for each patient.
+
 Paediatric population
 
 Growth failure in children due to inadequate growth hormone secretion
@@ -28,7 +29,7 @@ In general, the lowest efficacious dose should be administered.
 In older or overweight patients, lower doses may be necessary.
 
 Women may require higher doses than men, with men showing an increasing IGF-I sensitivity over time.
-This means that there is a risk that women, especially those on oral oestrogen replacement therapy, are under-treated while men are over-treated.
+This means that there is a risk that women, especially those on oral oestrogen therapy, are under-treated while men are over-treated.
 
 Method of administration
 
@@ -36,6 +37,7 @@ The solution for injection should be administered subcutaneously each day.
 The site of injection should be changed.
 
 Precaution to be taken before manipulating or administering the product
+
 NutropinAq is supplied as a multi-dose solution.
 After removal from the refrigerator, if the solution is cloudy, the content must not be injected.
 Gently swirl.

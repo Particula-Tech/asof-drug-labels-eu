@@ -17,11 +17,11 @@ It is typically associated with papilloedema, visual changes, headache, nausea, 
 
 NutropinAq reduces insulin sensitivity; glucose tolerance impairment was reported in both the pivotal and supportive clinical trials and the post-marketing surveillance survey.
 Events of diabetes mellitus and hyperglycaemia were reported in the post-marketing surveillance survey (see section 4.4).
-
 Injection site reactions such as haemorrhage, atrophy, urticaria and pruritus were reported in the pivotal and supportive clinical trials and/or the post-marketing surveillance survey.
 These events can be avoided by correct injection technique and rotation of injection sites.
 A small percentage of patients may develop antibodies to the protein somatropin.
 The binding capacity of growth hormone antibodies was lower than 2 mg/l in NutropinAq subjects tested, which has not been associated with adversely affected growth rate.
+
 Tabulated summary of adverse reactions
 
 Table 1 contains very common (≥ 1/10), common (≥ 1/100, < 1/10); uncommon (≥ 1/1000, < 1/100); rare (≥ 1/10,000, < 1/1,000) adverse reactions which occurred in clinical trials and a post-marketing surveillance survey.
@@ -29,7 +29,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 Other adverse reactions have been identified during post approval use of NutropinAq.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency.
 
-| System Organ Class | Reactions observed in Pivotal and Supportive Clinical Trials (in 642 patients) | Reactions observed from the postmarketing environment |
+| System Organ Class | Reactions observed in Pivotal and Supportive Clinical Trials (in 642 patients) | Reactions observed from the post marketing environment |
 | --- | --- | --- |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) | Uncommon: Neoplasm malignant, neoplasm benign | Rare: Neoplasm malignant recurrence, melanocytic naevus |
 | Blood and lymphatic system disorders | Uncommon: Anaemia |  |
@@ -52,9 +52,9 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Description of selected adverse reactions
 
-Neoplams
+Neoplasm
 There is a risk of neoplasia due to treatment with GH.
-The underlying risk varies according to the underlying cause for growth hormone deficiency (e.g. secondary to intracranial lesion), associated co-morbidities and treatment(s) undertaken.
+The underlying risk varies according to the underlying cause for growth hormone deficiency (e.g. secondary to intracranial lesion), associated co- morbidities and treatment(s) undertaken.
 NutropinAq therapy must not be initiated when there is evidence of tumour activity.
 Patients with pre-existing tumours or growth hormone deficiency secondary to an intracranial lesion should be examined routinely for progression or recurrence of the underlying disease process.
 Treatment must be discontinued if there is evidence of tumour growth.
@@ -75,6 +75,7 @@ Patients with diabetes or glucose intolerance should be monitored closely during
 
 Injection site reactions
 Injection site reactions may be avoided by using the correct injection technique and rotation of injection sites.
+
 Slipped capital femoral epiphysis
 Patients with endocrinological disorders are more prone to develop a slipped capital femoral epiphysis.
 
@@ -88,8 +89,10 @@ See also section 4.4.
 
 Girls with growth failure associated with Turner syndrome (n=108)
 Common: menorrhagia.
+
 Children with growth failure associated with chronic renal insufficiency (n=171)
-Common: renal failure, peritonitis, osteonecrosis, blood creatinine increase.Children with chronic renal insufficiency receiving NutropinAq are more likely to develop intracranial hypertension, although children with organic GHD and Turner syndrome also have an increased incidence.
+Common: renal failure, peritonitis, osteonecrosis, blood creatinine increase.
+Children with chronic renal insufficiency receiving NutropinAq are more likely to develop intracranial hypertension, although children with organic GHD and Turner syndrome also have an increased incidence.
 The greatest risk is at the beginning of treatment.
 
 Adult population
