@@ -1,6 +1,7 @@
 # 4.2 Posology and method of administration
 
 Treatment with TAGRISSO should be initiated by a physician experienced in the use of anticancer therapies.
+
 When considering the use of TAGRISSO, EGFR mutation status in tumour or plasma specimens should be determined using a validated test method (see section 4.4).
 
 Posology
@@ -21,7 +22,7 @@ Recommended dose modifications for TAGRISSO
 
 | Target organ | Adverse reactiona | Dose modification |
 | --- | --- | --- |
-| Pulmonary | ILD/Pneumonitis | Permanently discontinue TAGRISSO |
+| Pulmonary | ILD/Pneumonitis | Discontinue TAGRISSO (see Section 4.4) |
 | Cardiac | QTc interval greater than 500 msec on at least 2 separate ECGs | Withhold TAGRISSO until QTc interval is less than 481 msec or recovery to baseline if baseline QTc is greater than or equal to 481 msec, then restart at a reduced dose (40 mg) |
 |  | QTc interval prolongation with signs/symptoms of serious arrhythmia | Permanently discontinue TAGRISSO |
 | Other | Grade 3 or higher adverse reaction | Withhold TAGRISSO for up to 3 weeks |
@@ -38,6 +39,7 @@ Hepatic impairment
 Based on clinical studies, no dose adjustments are necessary in patients with mild hepatic impairment (Child Pugh A) or moderate hepatic impairment (Child Pugh B). Similarly, based on population pharmacokinetic analysis, no dose adjustment is recommended in patients with mild hepatic impairment (total bilirubin ≤upper limit of normal (ULN) and aspartate aminotransferase (AST) >ULN or total bilirubin >1.0 to 1.5x ULN and any AST) or moderate hepatic impairment (total bilirubin between 1.5 to 3 times ULN and any AST).
 The safety and efficacy of this medicinal product has not been established in patients with severe hepatic impairment.
 Until additional data become available, use in patients with severe hepatic impairment is not recommended (see section 5.2).
+
 Renal impairment
 No clinical studies have been conducted to specifically evaluate the effect of renal impairment on the pharmacokinetics of osimertinib.
 No dose adjustment is recommended in patients with mild, moderate, or severe renal impairment.

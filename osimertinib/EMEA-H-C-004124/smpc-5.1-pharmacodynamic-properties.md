@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: antineoplastic agents, protein kinase inhibitors; ATC code: L01XE35.
-
 Mechanism of action
 Osimertinib is a Tyrosine Kinase Inhibitor (TKI).
 It is an irreversible inhibitor of Epidermal Growth Factor Receptors (EGFRs) harboring sensitising-mutations (EGFRm) and TKI-resistance mutation T790M.
@@ -94,7 +93,9 @@ CNS efficacy by BICR in patients with CNS metastases on a baseline brain scan in
 | Median, Months (95% CI) | NC (16.5, NC) | 13.9 (8.3, NC) |
 | HR (95% CI); P-value | 0.48 (0.26, 0.86); P=0.014† |  |
 | CNS progression free and alive at 6 months (%) (95% CI) | 87 (74, 94) | 71 (57, 81) |
-| CNS progression free and alive at 12 months (%) (95% CI) | 77 (62, 86) | 56 (42, 68) |
+| CNS progression free and alive at 12 | 77 (62, 86) | 56 (42, 68) |
+
+months (%) (95% CI)
 
 HR=Hazard Ratio; CI=Confidence Interval, NC=Not Calculable
 A HR< 1 favours TAGRISSO, an Odds ratio of >1 favours TAGRISSO
@@ -118,7 +119,9 @@ Compliance over the first 9 months was generally high (≥70%) and similar in bo
 
 Key lung cancer symptoms analysis
 Data collected from baseline up to month 9 showed similar improvements in TAGRISSO and EGFR TKI comparator groups for the five pre-specified primary PRO symptoms (cough, dyspnoea, chest pain, fatigue, and appetite loss) with improvement in cough reaching the established clinically relevant cutoff.
-Up to month 9 there were no clinically meaningful differences in patient-reported symptoms between TAGRISSO and EGFR TKI comparator groups (as assessed by a difference of ≥10 points).
+Up to month 9 there were no clinically meaningful differences in patient-reported symptoms between TAGRISSO and EGFR TKI comparator groups (as assessed by a difference of
+≥10 points).
+
 HRQL and physical functioning improvement analysis
 Both groups reported similar improvements in most functioning domains and global health status/HRQL, indicating that patients’ overall health status improved.
 Up to month 9, there were no clinically meaningful differences between the TAGRISSO and EGFR TKI comparator groups in functioning or HRQL.

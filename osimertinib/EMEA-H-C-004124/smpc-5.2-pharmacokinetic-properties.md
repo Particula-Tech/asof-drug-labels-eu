@@ -36,6 +36,7 @@ Intestinal inhibition of UGT1A1 is possible but the clinical impact is unknown.
 Elimination
 Following a single oral dose of 20 mg, 67.8% of the dose was recovered in faeces (1.2% as parent) while 14.2% of the administered dose (0.8% as parent) was found in urine by 84 days of sample collection.
 Unchanged osimertinib accounted for approximately 2% of the elimination with 0.8% in urine and 1.2% in faeces.
+
 Interactions with transport proteins
 In vitro studies have shown that osimertinib is not a substrate of OATP1B1 and OATP1B3.
 In vitro, osimertinib does not inhibit OAT1, OAT3, OATP1B1, OATP1B3, MATE1, OCT2 and MATE2K at clinically relevant concentrations.

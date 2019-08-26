@@ -32,6 +32,5 @@ In a clinical PK study, co-administration of TAGRISSO with simvastatin (sensitiv
 These changes are small and not likely to be of clinical significance.
 Clinical PK interactions with CYP3A4 substrates are unlikely.
 A risk for decreased exposure of hormonal contraceptives cannot be excluded.
-
 In a clinical Pregnane X Receptor (PXR) interaction study, co-administration of TAGRISSO with fexofenadine (P-gp substrate) increased the AUC and Cmax of fexofenadine by 56% (90% CI 35, 79) and 76% (90% CI 49, 108) after a single dose and 27% (90% CI 11, 46) and 25% (90% CI 6, 48) at steady state, respectively.
 Patients taking concomitant medications with disposition dependent upon P-gp and with narrow therapeutic index (e.g. digoxin, dabigatran, aliskiren) should be closely monitored for signs of changed tolerability as a result of increased exposure of the concomitant medication whilst receiving TAGRISSO (see section 5.2).

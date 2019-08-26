@@ -8,17 +8,22 @@ Only robust, reliable and sensitive tests with demonstrated utility for the dete
 
 Positive determination of EGFR mutation status using either a tissue-based or plasma-based test indicates eligibility for treatment with TAGRISSO.
 However, if a plasma-based ctDNA test is used and the result is negative, it is advisable to follow-up with a tissue test wherever possible due to the potential for false negative results using a plasma-based test.
-
 Interstitial Lung Disease (ILD)
 Severe, life-threatening or fatal Interstitial Lung Disease (ILD) or ILD-like adverse reactions (e.g. pneumonitis) have been observed in patients treated with TAGRISSO in clinical studies.
 Most cases improved or resolved with interruption of treatment.
 Patients with a past medical history of ILD, drug-induced ILD, radiation pneumonitis that required steroid treatment, or any evidence of clinically active ILD were excluded from clinical studies (see section 4.8).
+
 Interstitial Lung Disease (ILD) or ILD-like adverse reactions (e.g. pneumonitis) were reported in 3.9% and were fatal in 0.4% of the 1142 patients who received TAGRISSO in FLAURA and AURA studies.
 The incidence of ILD was 10.4% in patients of Japanese ethnicity, 1.8% in patients of Asian ethnicity and 2.8% in non-Asian patients (see section 4.8).
 
 Careful assessment of all patients with an acute onset and/or unexplained worsening of pulmonary symptoms (dyspnoea, cough, fever) should be performed to exclude ILD.
 Treatment with this medicinal product should be interrupted pending investigation of these symptoms.
-If ILD is diagnosed, TAGRISSO should be permanently discontinued and appropriate treatment initiated as necessary.
+If ILD is diagnosed, TAGRISSO should be discontinued and appropriate treatment initiated as necessary.
+Reintroduction of TAGRISSO should be considered only after careful consideration of the individual patient’s benefits and risk.
+Stevens-Johnson syndrome
+Case reports of Stevens-Johnson syndrome (SJS) have been reported rarely in association with TAGRISSO treatment.
+Before initiating treatment, patients should be advised of signs and symptoms of SJS.
+If signs and symptoms suggestive of SJS appear, TAGRISSO should be interrupted or discontinued immediately.
 
 QTc interval prolongation
 QTc interval prolongation occurs in patients treated with TAGRISSO.
@@ -33,7 +38,6 @@ Osimertinib should be permanently discontinued in patients who develop QTc inter
 
 Changes in cardiac contractility
 Across clinical trials, Left Ventricular Ejection Fraction (LVEF) decreases greater than or equal to 10% and a drop to less than 50% occurred in 3.9% (35/908) of patients treated with TAGRISSO who had baseline and at least one follow-up LVEF assessment.
-Based on the available clinical trial data, it is not possible to determine a causal relationship between effects on changes in cardiac contractility and TAGRISSO.
 In patients with cardiac risk factors and those with conditions that can affect LVEF, cardiac monitoring, including an assessment of LVEF at baseline and during treatment, should be considered.
 In patients who develop relevant cardiac signs/symptoms during treatment, cardiac monitoring including LVEF assessment should be considered.
 

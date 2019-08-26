@@ -10,7 +10,6 @@ The most commonly reported adverse drug reactions (ADRs) were diarrhoea (49%) an
 Grade 3 and Grade 4 adverse reactions across both studies were 9.7% and 0.9%, respectively.
 In patients treated with TAGRISSO 80 mg once daily, dose reductions due to adverse reactions occurred in 2.1% of the patients.
 Discontinuation due to adverse reactions was 4.3%.
-
 Patients with a medical history of ILD, drug-induced ILD, radiation pneumonitis that required steroid treatment, or any evidence of clinically active ILD were excluded from clinical studies.
 Patients with clinically important abnormalities in rhythm and conduction as measured by resting electrocardiogram (ECG) (e.g. QTc interval greater than 470 ms) were excluded from these studies.
 Patients were evaluated for LVEF at screening and every 12 weeks thereafter.
@@ -36,25 +35,32 @@ Adverse reactions reported in FLAURA and AURA studiesa
 |  | Dry sking | Very common (33%) | 0.1% |
 |  | Paronychiah | Very common (31%) | 0.3% |
 |  | Pruritusi | Very common (17%) | 0.1% |
-| Investigations | QTc interval prolongationj | Uncommon (0.9%) |  |
-| (Findings based on test results presented as CTCAE grade shifts) | Platelet count decreasedk | Very common (54%) | 1.6% |
-|  | Leucocytes decreasedk | Very common (68%) | 1.5% |
-|  | Lymphocytes decreasedk | Very common (67%) | 7.2% |
-|  | Neutrophils decreasedk | Very common (35%) | 4.1% |
+|  | Stevens-Johnson syndromej | Rare (0.02%) |  |
+
+| MedDRA SOC | MedDRA term | CIOMS descriptor/ overall frequency (all CTCAE grades)b | Frequency of CTCAE grade 3 or higher |
+| --- | --- | --- | --- |
+| Investigations | QTc interval prolongationk | Uncommon (0.9%) |  |
+| (Findings based on test results presented as CTCAE grade shifts) | Platelet count decreasedl | Very common (54%) | 1.6% |
+|  | Leucocytes decreasedl | Very common (68%) | 1.5% |
+|  | Lymphocytes decreasedl | Very common (67%) | 7.2% |
+|  | Neutrophils decreasedl | Very common (35%) | 4.1% |
 
 a Data is cumulative from FLAURA and AURA (AURA3, AURAex, AURA 2 and AURA1) studies; only events for patients receiving at least one dose of TAGRISSO as their randomised treatment are summarised.
 b National Cancer Institute Common Terminology Criteria for Adverse Events, version 4.0.
 c Includes cases reported within the clustered terms: Interstitial lung disease, pneumonitis.
 d 5 CTCAE grade 5 events (fatal) were reported.
-e Includes cases reported within the clustered terms: Keratitis, punctate keratitis, corneal erosion, corneal epithelium defect. f Includes cases reported within the clustered terms for rash AEs: Rash, rash generalised, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pustular, rash pruritic, rash vesicular, rash follicular, erythema, folliculitis, acne, dermatitis, dermatitis acneiform, drug eruption, skin erosion.
+e Includes cases reported within the clustered terms: Keratitis, punctate keratitis, corneal erosion, corneal epithelium defect.
+f Includes cases reported within the clustered terms for rash AEs: Rash, rash generalised, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pustular, rash pruritic, rash vesicular, rash follicular, erythema, folliculitis, acne, dermatitis, dermatitis acneiform, drug eruption, skin erosion.
 g Includes cases reported within the clustered terms: Dry skin, skin fissures, xerosis, eczema, xeroderma.
 h Includes cases reported within the clustered terms: Nail bed disorder, nail bed inflammation, nail bed infection, nail discolouration, nail pigmentation, nail disorder, nail toxicity, nail dystrophy, nail infection, nail ridging, onychoclasis, onycholysis, onychomadesis, onychomalacia, paronychia.
 i Includes cases reported within the clustered terms: pruritus, pruritus generalised, eyelid pruritus.
-j Representsthe incidence of patients who had a QTcF prolongation >500msec.
-k Represents the incidence of laboratory findings, not of reported adverse events.
+j One event was reported in a post-marketing study, and the frequency has been derived from the FLAURA and AURA studies and the post-marketing study (N=4720).
+k Representsthe incidence of patients who had a QTcF prolongation >500msec.
+l Represents the incidence of laboratory findings, not of reported adverse events.
 
 Safety findings in the single-arm Phase 2 AURAex and AURA2 studies were generally consistent with those observed in the AURA3 TAGRISSO arm.
 No additional or unexpected toxicity has been observed and adverse events have been aligned in type, severity and frequency.
+
 Description of selected adverse reactions
 
 Interstitial lung disease (ILD)
@@ -65,7 +71,6 @@ QTc interval prolongation
 Of the 1142 patients in FLAURA and AURA studies treated with TAGRISSO 80 mg, 0.9% of patients (n=10) were found to have a QTc greater than 500 msec, and 3.6% of patients (n=41) had an increase from baseline QTc greater than 60 msec.
 A pharmacokinetic/pharmacodynamic analysis with TAGRISSO predicted a concentration-dependent increase in QTc interval prolongation.
 No QTc-related arrhythmias were reported in the FLAURA or AURA studies (see sections 4.4 and 5.1).
-
 Gastrointestinal effects
 In the FLAURA and AURA studies, diarrhoea was reported in 49% of patients of which 39% were Grade 1 events, 8.0% Grade 2 and 1.2% were Grade 3; no Grade 4 or 5 events were reported.
 Dose reduction was required in 0.2% of patients and dose interruption in 1.4%.
