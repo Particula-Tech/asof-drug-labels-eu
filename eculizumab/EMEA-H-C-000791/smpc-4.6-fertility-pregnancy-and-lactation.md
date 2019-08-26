@@ -8,7 +8,6 @@ Data on a limited number of pregnancies exposed to eculizumab (less than 300 pre
 However, due to the lack of well-controlled studies, uncertainties remain.
 Therefore, an individual risk benefit analysis is recommended before starting and during treatment with eculizumab in pregnant women.
 Should such a treatment be considered necessary during pregnancy, a close maternal and foetal monitoring according to local guidelines is recommended.
-
 Animal reproduction studies have not been conducted with eculizumab (see section 5.3).
 
 Human IgG are known to cross the human placental barrier, and thus eculizumab may potentially cause terminal complement inhibition in the foetal circulation.

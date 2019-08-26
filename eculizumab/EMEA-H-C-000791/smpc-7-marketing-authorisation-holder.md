@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Alexion Europe SAS
-1-15, avenue Edouard Belin
-92500 Rueil-Malmaison
+103-105 rue Anatole France
+92300 Levallois-Perret
 FRANCE

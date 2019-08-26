@@ -5,6 +5,7 @@ The specificity of eculizumab for C5 in human serum was evaluated in two in vitr
 The tissue cross-reactivity of eculizumab was evaluated by assessing binding to a panel of 38 human tissues.
 C5 expression in the human tissue panel examined in this study is consistent with published reports of C5 expression, as C5 has been reported in smooth muscle, striated muscle, and renal proximal tubular epithelium.
 No unexpected tissue cross-reactivity was observed.
+
 Animal reproduction studies have not been conducted with eculizumab due to lack of pharmacologic activity in non-human species.
 
 In a 26 week toxicity study performed in mice with a surrogate antibody directed against murine C5, treatment did not affect any of the toxicity parameters examined.

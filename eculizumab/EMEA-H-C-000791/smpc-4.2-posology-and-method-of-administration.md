@@ -1,7 +1,6 @@
 # 4.2 Posology and method of administration
 
-Soliris must be administered by a healthcare professional and under the supervision of a physician experienced in the management of patients with haematological, renal or neuromuscular disorders.
-
+Soliris must be administered by a healthcare professional and under the supervision of a physician experienced in the management of patients with haematological, renal, neuromuscular or neuro-inflammatory disorders.
 Posology
 
 Adult Patients:
@@ -12,8 +11,8 @@ The PNH dosing regimen for adult patients (≥18 years of age) consists of a 4-w
 - Initial phase: 600 mg of Soliris administered via a 25 – 45 minute intravenous infusion every week for the first 4 weeks.
 - Maintenance phase: 900 mg of Soliris administered via a 25 – 45 minute intravenous infusion for the fifth week, followed by 900 mg of Soliris administered via a 25 – 45 minute intravenous infusion every 14 ± 2 days (see section 5.1).
 
-In atypical Haemolytic Uremic Syndrome (aHUS) and refractory generalized Myasthenia Gravis (gMG):
-The aHUS and refractory gMG dosing regimen for adult patients (≥18 years of age) consists of a 4 week initial phase followed by a maintenance phase:
+In atypical Haemolytic Uremic Syndrome (aHUS), refractory generalized Myasthenia Gravis (gMG) and Neuromyelitis Optica Spectrum Disorder (NMOSD):
+The aHUS, refractory gMG and NMOSD dosing regimen for adult patients (≥18 years of age) consists of a 4 week initial phase followed by a maintenance phase:
 
 - Initial phase: 900 mg of Soliris administered via a 25 – 45 minute intravenous infusion every week for the first 4 weeks.
 - Maintenance phase: 1,200 mg of Soliris administered via a 25 – 45 minute intravenous infusion for the fifth week, followed by 1,200 mg of Soliris administered via a 25 – 45 minute intravenous infusion every 14 ± 2 days (see section 5.1).
@@ -33,9 +32,9 @@ In paediatric PNH and aHUS patients with body weight below 40 kg, the Soliris do
 Soliris has not been studied in patients with PNH who weigh less than 40kg.
 The posology of Soliris for PNH patients less than 40kg weight is based on the posology used for patients with aHUS and who weigh less than 40kg.
 
-Soliris has not been studied in paediatric patients with refractory gMG.
+Soliris has not been studied in paediatric patients with refractory gMG or NMOSD.
 
-For adult aHUS and refractory gMG patients and paediatric aHUS patients supplemental dosing of Soliris is required in the setting of concomitant PE/PI (plasmapheresis or plasma exchange, or fresh frozen plasma infusion):
+For adult aHUS, refractory gMG and NMOSD patients and paediatric aHUS patients supplemental dosing of Soliris is required in the setting of concomitant PE/PI (plasmapheresis or plasma exchange, or fresh frozen plasma infusion):
 
 | Type of Plasma Intervention | Most Recent Soliris Dose | Supplemental Soliris Dose With Each PE/PI Intervention | Timing of Supplemental Soliris Dose |
 | --- | --- | --- | --- |

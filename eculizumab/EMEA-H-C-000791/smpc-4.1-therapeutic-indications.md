@@ -11,3 +11,4 @@ Evidence of clinical benefit is demonstrated in patients with haemolysis with cl
 Soliris is indicated in adults for the treatment of:
 
 - Refractory generalized myasthenia gravis (gMG) in patients who are anti-acetylcholine receptor (AChR) antibody-positive (see section 5.1).
+- Neuromyelitis optica spectrum disorder (NMOSD) in patients who are anti-aquaporin-4 (AQP4) antibody-positive with a relapsing course of the disease (see section 5.1).

@@ -17,12 +17,16 @@ Eculizumab preserves the early components of complement activation that are esse
 In PNH patients, uncontrolled terminal complement activation and the resulting complement-mediated intravascular haemolysis are blocked with Soliris treatment.
 In most PNH patients, eculizumab serum concentrations of approximately 35 microgram/mL are sufficient for essentially complete inhibition of terminal complement-mediated intravascular haemolysis.
 In PNH, chronic administration of Soliris resulted in a rapid and sustained reduction in complement-mediated haemolytic activity.
+
 In aHUS patients, uncontrolled terminal complement activation and the resulting complement-mediated thrombotic microangiopathy are blocked with Soliris treatment.
 All patients treated with Soliris when administered as recommended demonstrated rapid and sustained reduction in terminal complement activity.
 In all aHUS patients, eculizumab serum concentrations of approximately 50 - 100 microgram/mL are sufficient for essentially complete inhibition of terminal complement activity.
 In aHUS, chronic administration of Soliris resulted in a rapid and sustained reduction in complement-mediated thrombotic microangiopathy.
 
 In refractory gMG patients, uncontrolled terminal complement activation causes membrane attack complex (MAC) dependent lysis and C5a-dependent inflammation at the Neuromuscular Junction (NMJ) leading to failure of neuromuscular transmission.
+Chronic administration of Soliris results in immediate, complete, and sustained inhibition of terminal complement activity.
+
+In patients with NMOSD, uncontrolled terminal complement activation caused by autoantibodies against AQP4 leads to the formation of the MAC and C5a-dependent inflammation which results in astrocyte necrosis and increased permeability of the blood brain barrier, as well as death of the surrounding oligodendrocytes and neurons.
 Chronic administration of Soliris results in immediate, complete, and sustained inhibition of terminal complement activity.
 
 Clinical efficacy and safety
@@ -57,8 +61,6 @@ Mean Age (SD) 38.4 (13.4) 42.1 (15.5) 41.1 (14.4)
 Gender - Female (%) 29 (65.9) 23 (53.5) 49 (50.5)
 History of Aplastic Anaemia or MDS (%) 12 (27.3) 8 (18.7) 29 (29.9)
 Concomitant Anticoagulants (%) 20 (45.5) 24 (55.8) 59 (61)
-C04-001 C04-002
-Parameter Placebo N = 44 N = 43 Soliris N = 97 Soliris
 Concomitant Steroids/Immunosuppressant Treatments (%) 16 (36.4) 14 (32.6) 46 (47.4)
 Discontinued treatment 10 2 1
 PRBC in previous 12 months (median (Q1,Q3)) 17.0 (13.5, 25.0) 18.0 (12.0, 24.0) 8.0 (4.0, 24.0)
@@ -76,7 +78,6 @@ Because of the study sample size and duration, the effects of Soliris on thrombo
 In SHEPHERD study, 96 of the 97 enrolled patients completed the study (one patient died following a thrombotic event).
 A reduction in intravascular haemolysis as measured by serum LDH levels was sustained for the treatment period and resulted in increased transfusion avoidance, a reduced need for RBC transfusion and less fatigue.
 See Table 3.
-
 Table 3: Efficacy Outcomes in C04-001 and C04-002
 
 |  | C04-001 |  |  | C04-002* |  |  |
@@ -98,11 +99,12 @@ There were fewer thrombotic events with Soliris treatment than during the same p
 However, this finding was shown in non-controlled clinical trials.
 
 The PNH registry (M07-001) was used to evaluate the efficacy of Soliris in PNH patients with no history of RBC transfusion.
-These patients had high disease activity as defined by elevated haemolysis (LDH ≥1.5x ULN) and the presence of related clinical symptom(s): fatigue, haemoglobinuria, abdominal pain, shortness of breath (dyspnoea), anaemia (haemoglobin <100 g/L), major adverse vascular event (including thrombosis), dysphagia, or erectile dysfunction.
+These patients had high disease activity as defined by elevated haemolysis (LDH
+≥1.5x ULN) and the presence of related clinical symptom(s): fatigue, haemoglobinuria, abdominal pain, shortness of breath (dyspnoea), anaemia (haemoglobin <100 g/L), major adverse vascular event (including thrombosis), dysphagia, or erectile dysfunction.
+
 In the PNH Registry, patients treated with Soliris were observed to have a reduction in haemolysis and associated symptoms.
 At 6 months, patients treated with Soliris with no history of RBC transfusion had significantly (p<0.001) reduced LDH levels (median LDH of 305 U/L; Table 4).
 Furthermore, 74% of the patients without a history of transfusion and treated with Soliris experienced clinically meaningful improvements in FACIT-Fatigue score (i.e., increase by 4 points or more) and 84% in EORTC fatigue score (i.e., decrease by 10 points or more).
-
 Table 4: Efficacy Outcomes (LDH level and FACIT-Fatigue) in Patients with PNH with No History of Transfusion in M07-001
 M07-001
 
@@ -139,11 +141,9 @@ Primary endpoints included platelet count change from baseline in study C08-002A
 Additional endpoints included TMA intervention rate, haematologic normalization, complete TMA response, changes in LDH, renal function and quality of life.
 TMA-event free status was defined as the absence for at least 12 weeks of the following: decrease in platelet count of > 25% from baseline, PE/PI, and new dialysis.
 TMA interventions were defined as PE/PI or new dialysis.
-Haematologic normalization was defined as normalization of platelet counts and LDH levels sustained for ≥2 consecutive measurements for
-≥4 weeks.
+Haematologic normalization was defined as normalization of platelet counts and LDH levels sustained for ≥2 consecutive measurements for ≥4 weeks.
 Complete TMA response was defined as haematologic normalization and a ≥25% reduction in serum creatinine sustained in ≥ 2 consecutive measurements for ≥ 4 weeks.
 Baseline characteristics are shown in Table 5.
-
 Table 5: Patient Demographics and Characteristics in C08-002A/B and C08-003A/B
 
 | Parameter | C08-002A/B | C08-003A/B |
@@ -242,7 +242,6 @@ Table 8: Efficacy Outcomes in Prospective aHUS Study C10-004
 | Daily TMA Intervention Rate, median (range) Before eculizumab On eculizumab treatment | 0.63 (0, 1.38) 0 (0, 0.58) |
 
 1 Through data cut-off (September 4, 2012), with median duration of Soliris therapy of 50 weeks (range: 13 weeks to 86 weeks).
-
 Longer term treatment with Soliris (median 52 weeks ranging from 15 to 126 weeks) was associated with an increased rate of clinically meaningful improvements in adult patients with aHUS.
 When Soliris treatment was continued for more than 26 weeks, three additional patients (63% of patients in total) achieved Complete TMA response and four additional patients (98% of patients in total) achieved hematologic normalization.
 At the last evaluation, 25 of 41 patients (61%) achieved eGFR improvement of ≥ 15 mL/min/1.73 m2 from baseline.
@@ -296,7 +295,6 @@ The key secondary endpoint was the change from baseline in the Quantitative MG S
 The primary analysis of the QMG was a Worst-Rank ANCOVA with a mean rank of 54.7 for Soliris and 70.7 for placebo, based on 125 study patients (p=0.0129).
 
 Efficacy outcomes for the pre-specified repeated measures analyses of the primary and secondary endpoints are provided in Table 10.
-
 Table 10: ECU-MG-301 Efficacy Outcomes Change from Baseline to Week 26
 
 | Efficacy Endpoints: Total score change from baseline at Week 26 | Soliris (n=62) (SEM) | Placebo (n=63) (SEM) | Soliris change relative to placebo – LS Mean Difference (95% CI) | p-value (using repeated measures analysis) |
@@ -307,12 +305,14 @@ Table 10: ECU-MG-301 Efficacy Outcomes Change from Baseline to Week 26
 | MG-QoL-15 | -12.6 (1.52) | -5.4 (1.49) | -7.2 (-11.5, -3.0) | 0.0010 |
 
 SEM= Standard Error of the Mean CI= Confidence Interval, MGC= Myasthenia Gravis Composite, MG-QoL15= Myasthenia Gravis Qualtiy of Life 15
+
 In Study ECU-MG-301, a clinical responder in the MG-ADL total score was defined as having at least a 3-point improvement.
 The proportion of clinical responders at Week 26 with no rescue therapy was 59.7% on Soliris compared with 39.7% on placebo (p=0.0229).
 In Study ECU-MG-301, a clinical responder in the QMG total score was defined as having at least a 5-point improvement.
 The proportion of clinical responders at Week 26 with no rescue therapy was 45.2% on Soliris compared with 19% on placebo (p=0.0018).
 
 Table 11 presents an overview of the patients reporting clinical deterioration and patients requiring rescue therapy over the 26 weeks.
+
 Table 11: Clinical deterioration and rescue therapy in ECU-MG-301
 
 | Variable | Statistic | Placebo (N=63) | Soliris (N=62) |
@@ -357,16 +357,92 @@ Figure 1: Mean changes from baseline in MG-ADL (1A) and QMG (1B) over Studies EC
 Twenty-two (22) (17.6%) elderly refractory gMG patients (> 65 years of age) were treated with Soliris in the clinical trials.
 No substantial differences were seen in safety and efficacy related to age.
 
+Neuromyelitis Optica Spectrum Disorder
+
+Data from 143 patients in one controlled study (Study ECU-NMO-301) and from 119 patients who continued in one open-label extension trial (Study ECU-NMO-302) were used to evaluate the efficacy and safety of Soliris in the treatment of patients with NMOSD.
+
+Study ECU-NMO-301 was a double-blind, randomized, placebo-controlled, multi-center, Phase 3 study of Soliris in patients with NMOSD.
+
+In Study ECU-NMO-301, patients with NMOSD with a positive serologic test for anti-AQP4 antibodies, a history of at least 2 relapses in last 12 months or 3 relapses in the last 24 months with at least 1 relapse in the 12 months prior to screening and an Expanded Disability Status Scale (EDSS) score ≤ 7, were randomized 2:1 to either Soliris (n = 96) or placebo (n = 47).
+Patients were permitted to receive background immunosuppressant therapies at stable dose during the study, with the exclusion of rituximab and mitoxantrone.
+
+Patients either received meningococcal vaccination at least 2 weeks prior to initiating treatment with Soliris or received prophylactic treatment with appropriate antibiotics until 2 weeks after vaccination.
+In the eculizumab NMOSD clinical development program, the dose of Soliris in adult patients with NMOSD was 900 mg every 7 ± 2 days for 4 weeks, followed by 1200 mg at Week 5 ± 2 days, then 1200 mg every 14 ± 2 days for the study duration.
+Soliris was administered as an intravenous infusion over 35 minutes.
+
+The majority (90.9%) of patients were female.
+Approximately half were White (49.0%).
+The median age at first dose of study drug was 45 years.
+Table 12: Patient Disease history and Baseline Characteristics in Study ECU-NMO-301
+
+| Variable | Statistic | Placebo (N = 47) | Eculizumab (N = 96) | Total (N = 143) |
+| --- | --- | --- | --- | --- |
+| NMOSD History |  |  |  |  |
+| Age at NMOSD Initial Clinical Presentation (years) | Mean (SD) | 38.5 (14.98) | 35.8 (14.03) | 36.6 (14.35) |
+|  | Median | 38.0 | 35.5 | 36.0 |
+|  | Min, Max | 12, 73 | 5, 66 | 5, 73 |
+| Time from NMOSD initial clinical presentation to first dose of study drug (years) | Mean (SD) | 6.601 (6.5863) | 8.156 (8.5792) | 7.645 (7.9894) |
+|  | Median | 3.760 | 5.030 | 4.800 |
+|  | Min, Max | 0.51, 29.10 | 0.41, 44.85 | 0.41, 44.85 |
+| Historical Annualized Relapse Rate within 24 months prior to Screening | Mean (SD) | 2.07 (1.037) | 1.94 (0.896) | 1.99 (0.943) |
+|  | Median | 1.92 | 1.85 | 1.92 |
+|  | Min, Max | 1.0, 6.4 | 1.0, 5.7 | 1.0, 6.4 |
+| Baseline characteristics |  |  |  |  |
+| Baseline EDSS score | Mean (SD) | 4.26 (1.510) | 4.15 (1.646) | 4.18 (1.598) |
+|  | Median | 4.00 | 4.00 | 4.00 |
+|  | Min, Max | 1.0, 6.5 | 1.0, 7.0 | 1.0, 7.0 |
+| No IST usage at baseline | n (%) | 13 (27.7) | 21 (21.9) | 34 (23.8) |
+
+Abbreviations: ARR = adjudicated relapse rate; EDSS = Expanded Disability Status Scale; IST = immunosupressant therapy; Max = maximum; Min = minimum; NMOSD = neuromyelitis optica spectrum disorder; SD = standard deviation.
+
+The primary endpoint for Study ECU-NMO-301 was the time to first on-trial relapse as adjudicated by an independent committee who were blinded to treatment.
+A significant effect on the time to first adjudicated On-trial Relapse was observed for eculizumab compared with placebo (relative risk reduction 94%; hazard ratio 0.058; p<0.0001) (Figure 2).
+Soliris-treated patients experienced similar improvement in time to first adjudicated on-trial relapse with or without concomitant IST treatment.
+Figure 2: Kaplan-Meier Survival Estimates for Time to First Adjudicated On-Trial Relapse – Full Analysis Set
+Note: Patients who did not experience an adjudicated On-trial Relapse were censored at the end of the Study Period.
+Stratified analyses are based on four randomization strata:
+(i) low EDSS at randomization (<=2.0), (ii) high EDSS (>=2.5 to <=7) and treatment naive at randomization, (iii) high EDSS (>=2.5 to <=7) and continuing on the same IST(s) since last relapse at randomization, (iv) high EDSS (>=2.5 to <=7) and changes in IST(s) since last relapse at randomization.
+1 Based on the Kaplan-Meier product limit method.
+2 Based on the complementary log-log transformation.
+3 Based on a stratified log-rank test.
+4 Based on a stratified Cox proportional hazards model.
+5 Wald confidence interval.
+Abbreviations: CI = confidence interval; EDSS = Expanded Disability Status Scale; IST = immunosuppressive therapy
+
+The adjudicated on-trial annualized relapse rate (ARR) ratio (95% CI) for eculizumab compared with placebo was 0.045 (0.013, 0.151), representing a 95.5% relative reduction in adjudicated On-trial ARR for patients treated with eculizumab compared with placebo (p<0.0001) (Table 13).
+Table 13: Adjudicated On-trial Annualized Relapse Rate – Full Analysis Set
+
+| Variable | Statistic | Placebo (N = 47) | Eculizumab (N = 96) |
+| --- | --- | --- | --- |
+| Total number of relapses | Sum | 21 | 3 |
+| Total number of patient-years in study period | n | 52.41 | 171.32 |
+| Adjusted adjudicated ARRa | Rate | 0.350 | 0.016 |
+|  | 95% CI | 0.199, 0.616 | 0.005, 0.050 |
+| Treatment effecta | Rate ratio (eculizumab/placebo) | … | 0.045 |
+|  | 95% CI | … | 0.013, 0.151 |
+|  | p-value | … | <0.0001 |
+
+a Based on a Poisson regression adjusted for randomization strata and historical ARR in 24 months prior to Screening.
+Abbreviations: ARR = annualized relapse rate; CI = confidence interval.
+
+Compared to placebo-treated patients, Soliris-treated patients had reduced annualized rates of hospitalizations (0.04 for Soliris versus 0.31 for placebo), of intravenous corticosteroid administrations to treat acute relapses (0.07 for Soliris versus 0.42 for placebo), and of plasma exchange treatments (0.02 for Soliris versus 0.19 for placebo).
+
+The distribution of changes from Baseline to End of Study on other secondary endpoints favored eculizumab treatment over placebo across all neurologic disability (EDSS score [nominal p=0.0597] and mRS [nominal p=0.0154]), functional disability (HAI [nominal p=0.0002]) and quality of life (EQ-5D VAS [nominal p=0.0309] and EQ-5D Index [nominal p= 0.0077]) measures.
+
+An interim analysis of Study ECU-NMO-302 demonstrates a significant and clinically meaningful reduction in On-trial ARR (as determined by the Treating Physician) on eculizumab treatment, based on the median (min, max) change (-1.829 [-6.38, 1.63], p<0.0001) from historical ARR (24 months prior to screening in Study ECU-NMO-301).
+
+Soliris (eculizumab) has not been studied for the treatment of acute relapses in NMOSD patients.
+
 Paediatric population
 
 Paroxysmal Nocturnal Haemoglobinuria
 
 A total of 7 PNH paediatric patients, with a median weight of 57.2 kg (range of 48.6 to 69.8 kg) and aged from 11 to 17 years (median age : 15.6 years), received Soliris in study M07-005.
+
 Treatment with eculizumab at the proposed dosing regimen in the paediatric population was associated with a reduction of intravascular haemolysis as measured by serum LDH level.
 It also resulted in a marked decrease or elimination of blood transfusions, and a trend towards an overall improvement in general function.
-The efficacy of eculizumab treatment in paediatric PNH patients appears to be consistent with that observed in adult PNH patients enrolled in PNH pivotal Studies (C04-001 and C04-002) (Table 3 and 12).
-
-Table 12: Efficacy Outcomes in Paediatric PNH Study M07-005
+The efficacy of eculizumab treatment in paediatric PNH patients appears to be consistent with that observed in adult PNH patients enrolled in PNH pivotal Studies (C04-001 and C04-002) (Table 3 and 14).
+Table 14: Efficacy Outcomes in Paediatric PNH Study M07-005
 
 |  |  | P – Value |  |
 | --- | --- | --- | --- |
@@ -384,13 +460,12 @@ Atypical Haemolytic Uremic Syndrome
 
 A total of 15 paediatric patients (aged 2 months to 12 years) received Soliris in aHUS Study C09-001r.
 Forty seven percent of patients had an identified complement regulatory factor mutation or auto-antibody.
-The median time from aHUS diagnosis to first dose of Soliris was 14 months (range <1,
-110 months).
+The median time from aHUS diagnosis to first dose of Soliris was 14 months (range <1, 110 months).
 The median time from current thrombotic microangiopathy manifestation to first dose of Soliris was 1 month (range <1 to 16 months).
 The median duration of Soliris therapy was 16 weeks (range 4 to 70 weeks) for children < 2 years of age (n=5) and 31 weeks (range 19 to 63 weeks) for children 2 to <12 years of age (n=10).
 Overall, the efficacy results for these paediatric patients appeared consistent with what was observed in patients enrolled in aHUS pivotal Studies C08-002 and C08-003 (Table 6).
 No paediatric patient required new dialysis during treatment with Soliris.
-Table 13: Efficacy Results in Paediatric Patients Enrolled in aHUS C09-001r
+Table 15: Efficacy Results in Paediatric Patients Enrolled in aHUS C09-001r
 
 | Efficacy Parameter | <2 years (n=5) | 2 to <12 years (n=10) | <12 years (n=15) |
 | --- | --- | --- | --- |
@@ -399,11 +474,11 @@ Table 13: Efficacy Results in Paediatric Patients Enrolled in aHUS C09-001r
 | Daily TMA intervention rate, median (range) Before eculizumab On eculizumab treatment | 1 (0, 2) <1 (0, <1) | <1 (0.07, 1.46) 0 (0, <1) | <1 (0, 2) 0 (0, <1) |
 | Patients with eGFR improvement ≥15 mL/min/1.73 m2, n (%) | 2 (40) | 6 (60) | 8 (53) |
 
-In paediatric patients with shorter duration of current severe clinical thrombotic microangiopathy (TMA) manifestation prior to eculizumab, there was TMA control and improvement of renal function with eculizumab treatment (Table 13).
+In paediatric patients with shorter duration of current severe clinical thrombotic microangiopathy (TMA) manifestation prior to eculizumab, there was TMA control and improvement of renal function with eculizumab treatment (Table 15).
 In paediatric patients with longer duration of current severe clinical TMA manifestation prior to eculizumab, there was TMA control with eculizumab treatment.
-However, renal function was not changed due to prior irreversible kidney damage (Table 14).
+However, renal function was not changed due to prior irreversible kidney damage (Table 16).
 
-Table 14: Efficacy Outcomes in Paediatric Patients in Study C09-001r according to duration of current severe clinical thrombotic microangiopathy (TMA) manifestation
+Table 16: Efficacy Outcomes in Paediatric Patients in Study C09-001r according to duration of current severe clinical thrombotic microangiopathy (TMA) manifestation
 
 |  | Duration of current severe clinical TMA manifestation |  |
 | --- | --- | --- |
@@ -422,8 +497,8 @@ The median patient age was 6.5 years (range: 5 months to 17 years).
 Patients enrolled in aHUS C10-003 had an ADAMTS-13 level above 5%.
 Fifty percent of patients had an identified complement regulatory factor mutation or auto-antibody.
 A total of 10 patients received PE/PI prior to eculizumab.
-Table 15 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in aHUS Study C10-003.
-Table 15: Baseline Characteristics of Paediatric and Adolescents Patients Enrolled in aHUS Study C10-003
+Table 17 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in aHUS Study C10-003.
+Table 17: Baseline Characteristics of Paediatric and Adolescents Patients Enrolled in aHUS Study C10-003
 
 | Parameter | 1 month to <12 years (N = 18) | All Patients (N = 22) |
 | --- | --- | --- |
@@ -443,9 +518,8 @@ Nine of the 11 patients who required dialysis at baseline no longer required dia
 Responses were similar across all ages from 5 months to 17 years of age.
 In aHUS C10-003, responses to Soliris were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins or auto-antibodies to factor H.
 
-Table 16 summarizes the efficacy results for aHUS C10-003.
-
-Table 16: Efficacy Outcomes in Prospective aHUS Study C10-003
+Table 18 summarizes the efficacy results for aHUS C10-003.
+Table 18: Efficacy Outcomes in Prospective aHUS Study C10-003
 
 | Efficacy Parameter | 1 month to <12 years (N = 18) At 26-weeks | All Patients (N = 22) At 26-weeks |
 | --- | --- | --- |
@@ -468,3 +542,7 @@ No patient required new dialysis with Soliris.
 Refractory Generalized Myasthenia Gravis
 Soliris has not been evaluated in paediatric patients with refractory gMG.
 The European Medicines Agency has deferred the obligation to submit the results of studies with Soliris in one or more subsets of the paediatric population in the treatment of refractory gMG (see section 4.2 for information on paediatric use).
+
+Neuromyelitis Optica Spectrum Disorder
+Soliris has not been evaluated in paediatric patients with NMOSD.
+The European Medicines Agency has deferred the obligation to submit the results of studies with Soliris in one or more subsets of the paediatric population in the treatment of NMOSD (see section 4.2 for information on paediatric use).

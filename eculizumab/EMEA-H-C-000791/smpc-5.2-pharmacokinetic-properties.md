@@ -13,8 +13,9 @@ In normal kidneys, antibodies are not excreted and are excluded from filtration 
 
 Pharmacokinetic Parameters
 In 40 patients with PNH, a 1-compartmental model was used to estimate pharmacokinetic parameters after multiple doses.
-Mean clearance was 0.31 ± 0.12 mL/hr/kg, mean volume of distribution was 110.3 ± 17.9 mL/kg, and mean elimination half-life was 11.3 ± 3.4 days.
-Based on these data, the onset of steady state is predicted to be approximately 49 – 56 days.
+Mean clearance was 0.31 ± 0.12 mL/hr/kg, mean volume of distribution was 110.3 ±
+17.9 mL/kg, and mean elimination half-life was 11.3 ± 3.4 days.
+The steady state is achieved by 4 weeks using the PNH adult dosing regimen.
 
 In PNH patients, pharmacodynamic activity correlates directly with eculizumab serum concentrations and maintenance of trough levels above ≥ 35 microgram/mL results in essentially complete blockade of haemolytic activity in the majority of PNH patients.
 
@@ -33,22 +34,18 @@ Supplemental dosing is recommended when Soliris is administered to aHUS patients
 All aHUS patients treated with Soliris when administered as recommended demonstrated rapid and sustained reduction in terminal complement activity.
 In aHUS patients, pharmacodynamic activity correlates directly with eculizumab serum concentrations and maintenance of trough levels of approximately 50-100 microgram/ml results in essentially complete blockade of terminal complement activity in all aHUS patients.
 
-PK parameters observed in the refractory gMG population are consistent with what has been observed in PNH and aHUS populations.
-Pharmacodynamic activity measured by free C5 concentrations of <0.5 ug/mL, is correlated with essentially complete blockade of terminal complement activity in PNH, aHUS, and refractory gMG patients.
+PK parameters are consistent across PNH, aHUS, refractory gMG and NMOSD patient populations.
+Pharmacodynamic activity measured by free C5 concentrations of <0.5 ug/mL, is correlated with essentially complete blockade of terminal complement activity in PNH, aHUS, refractory gMG and NMOSD patients.
 
 Special Populations
 
-PNH and refractory gMG
-Dedicated studies have not been conducted to evaluate the pharmacokinetics of Soliris in special PNH or refractory gMG patient populations identified by gender, race, age (geriatric), or the presence of renal or hepatic impairment.
+Dedicated studies have not been conducted to evaluate the pharmacokinetics of Soliris in special patient populations identified by gender, race, age (geriatric), or the presence of renal or hepatic impairment.
+Population PK analysis on data collected across studies in PNH, aHUS, gMG and NMOSD patients showed gender, race, age (geriatric), or the presence of renal or hepatic impairment.function do not influence the PK of eculizumab.
+Body weight was a significant covariate resulting in a lower eculizumab clearance in pediatric patients requiring body weight based dosing in pediatric patients.
 
 Paediatric population
 
-The pharmacokinetics of eculizumab was evaluated in Study M07-005 including 7 PNH paediatric patients (aged from 11 to less than 18 years).
+The pharmacokinetics of eculizumab was evaluated in Study M07-005 in PNH paediatric patients (aged from 11 to less than 18 years) and in Studies C08-002, C08-003, C09-001r and C10-003 in aHUS pediatric patients (aged 2 months to less than 18 years) with body-weight based dose regimen.
 
-Weight was a significant covariate resulting in a lower eculizumab clearance 0.0105 L/h in the adolescent patients.
+Weight was a significant covariate resulting in a lower eculizumab clearance 0.0105 L/h in the adolescent PNH patients.
 Dosing for paediatric patients <40 kg is based on paediatric patients with aHUS.
-
-aHUS
-
-The pharmacokinetics of Soliris have been studied in aHUS patients with a range of renal impairment and age.
-There have been no observed differences in pharmacokinetic parameters noted in these subpopulations of aHUS patients.
