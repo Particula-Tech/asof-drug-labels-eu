@@ -3,9 +3,7 @@
 PREVYMIS should be initiated by a physician experienced in the management of patients who have had an allogeneic haematopoietic stem cell transplant.
 
 Posology
-
 PREVYMIS is also available as concentrate for solution for infusion (240 mg and 480 mg).
-
 PREVYMIS tablets and concentrate for solution for infusion may be used interchangeably at the discretion of the physician, and no dose adjustment is necessary.
 
 The recommended dosage of PREVYMIS is one 480 mg tablet once daily.
@@ -47,12 +45,12 @@ Renal impairment
 No dose adjustment of PREVYMIS is recommended for patients with mild, moderate, or severe renal impairment.
 No dose recommendation can be made for patients with end stage renal disease (ESRD) with or without dialysis.
 Efficacy and safety has not been demonstrated for patients with ESRD.
+
 Paediatric population
 The safety and efficacy of PREVYMIS in patients below 18 years of age have not been established.
 No data are available (see section 5.1).
 
 Method of administration
-
 For oral use.
 The tablet should be swallowed whole and may be taken with or without food.
 The tablet should not be divided, crushed, or chewed.
@@ -74,11 +72,8 @@ In patients with moderate or severe renal impairment (creatinine clearance less 
 Serum creatinine levels should be closely monitored in these patients.
 
 For intravenous use only.
-
 PREVYMIS concentrate for solution for infusion requires dilution (see section 6.6) prior to administration.
-
 PREVYMIS should be administered as an intravenous (IV) infusion only.
 PREVYMIS should not be administered as an intravenous push or bolus.
-
 After dilution, PREVYMIS should be administered by intravenous infusion via peripheral or central venous catheter using a total time of approximately 60 minutes.
 The entire contents of the IV bag should be administered.

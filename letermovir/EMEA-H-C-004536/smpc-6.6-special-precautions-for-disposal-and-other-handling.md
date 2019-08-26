@@ -5,21 +5,16 @@ Any unused medicinal product or waste material should be disposed of in accordan
 [PREVYMIS 240 mg concentrate for solution for infusion]
 
 PREVYMIS vials are for single use only.
+
 Preparation
-
 The preparation and administration instructions are the same for either dose.
-
 PREVYMIS concentrate for solution for infusion must be diluted prior to intravenous use.
-
 Inspect vial contents for discolouration and particulate matter prior to dilution.
 PREVYMIS concentrate for solution for infusion is a clear, colourless solution.
 Do not use the vial if the solution is discoloured or contains visible particles.
-
 Do not shake PREVYMIS vial.
-
 Add one single-dose vial (either 12 mL (240 mg dose) or 24 mL (480 mg dose)) of PREVYMIS concentrate for solution for infusion to a 250 mL pre-filled IV bag containing either 0.9% sodium chloride or 5% dextrose, and mix the diluted solution by gentle inversion.
 Do not shake.
-
 Once diluted, the solution of PREVYMIS is clear, and ranges from colourless to yellow.
 Variations of colour within this range do not affect the quality of the product.
 The diluted solution should be inspected visually for particulate matter and discolouration prior to administration, whenever solution and container permit.
@@ -28,17 +23,15 @@ If a vial is added to a 250 mL IV diluent bag, the final concentration ranges of
 
 Administration
 See section 4.2.
-
 Compatible intravenous solutions and other medicinal products
 PREVYMIS concentrate for solution for infusion is compatible with 0.9% sodium chloride and 5% dextrose solutions.
 
 PREVYMIS should not be co-administered through the same intravenous line (or cannula) with other medicinal products and diluent combinations except those listed below.
+
 List of compatible medicinal products when PREVYMIS and medicinal products* are prepared in 0.9% sodium chloride
 
 - Ampicillin sodium • Fluconazole
-
 - Ampicillin sodium/Sulbactam sodium • Human insulin
-
 - Anti-thymocyte globulin • Magnesium sulfate
 - Caspofungin • Methotrexate
 - Daptomycin • Micafungin
@@ -63,7 +56,6 @@ List of compatible medicinal products when PREVYMIS and medicinal products* are 
 However, Amphotericin B (liposomal) is incompatible (see section 6.2).
 
 Compatible intravenous bags and infusion set materials
-
 PREVYMIS is compatible with the following intravenous bags and infusion set materials.
 Any intravenous bags or infusion set materials not listed below should not be used.
 

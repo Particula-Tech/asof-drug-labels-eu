@@ -3,13 +3,11 @@
 Pharmacotherapeutic group: Antivirals for systemic use, direct acting antivirals, ATC code: J05AX18
 
 Mechanism of action
-
 Letermovir inhibits the CMV DNA terminase complex which is required for cleavage and packaging of viral progeny DNA.
 Letermovir affects the formation of proper unit length genomes and interferes with virion maturation.
+
 Antiviral activity
-
 The median EC50 value of letermovir against a collection of clinical CMV isolates in a cell-culture model of infection was 2.1 nM (range = 0.7 nM to 6.1 nM, n=74).
-
 Viral resistance
 
 In cell culture
@@ -22,19 +20,16 @@ No known letermovir resistance mutations map to UL89.
 In clinical studies
 In a Phase 2b trial evaluating letermovir doses of 60, 120, or 240 mg/day or placebo for up to 84 days in 131 HSCT recipients, DNA sequence analysis of a select region of UL56 (amino acids 231 to 369) was performed on samples obtained from 12 letermovir-treated subjects who experienced prophylaxis failure and for whom samples were available for analysis.
 One subject (who received 60 mg/day) had a letermovir resistant genotypic variant (GV) (V236M).
-
 In a Phase 3 trial (P001), DNA sequence analysis of the entire coding regions of UL56 and UL89 was performed on samples obtained from 22 letermovir-treated subjects, in the FAS population who experienced prophylaxis failure and for whom samples were available for analysis.
 One subject had a letermovir-resistant GV (V236M).
 
 Cross-resistance
-
 Cross-resistance is not likely with medicinal products with a different mechanism of action.
 Letermovir is fully active against viral populations with substitutions conferring resistance to CMV DNA polymerase inhibitors (ganciclovir, cidofovir, and foscarnet).
 These DNA polymerase inhibitors are fully active against viral populations with substitutions conferring resistance to letermovir.
 
 Cardiac electrophysiology
-
-The effect of letermovir on doses up to 960 mg given IV on the QTc interval was evaluated in a randomised, single-dose, placebo- and active-controlled (moxifloxacin 400 mg oral) 4-period crossover thorough QT trial in 33 healthy subjects.
+The effect of letermovir on doses up to 960 mg given IV on the QTc interval was evaluated in a randomised, single-dose, placebo- and active-controlled (moxifloxacin 400 mg oral) 4-period crossover thorough QT trial in 38 healthy subjects.
 Letermovir does not prolong QTc to any clinically relevant extent following the 960 mg IV dose with plasma concentrations approximately 2-fold higher than the 480 mg IV dose.
 
 Clinical efficacy and safety
@@ -46,6 +41,7 @@ Randomisation was stratified by investigational site and risk (high vs. low) for
 Letermovir was initiated after HSCT (Day 0-28 post-transplant) and continued through Week 14 post-transplant.
 Letermovir was administered either orally or IV; the dose of letermovir was the same regardless of the route of administration.
 Subjects were monitored through Week 24 post-transplant for the primary efficacy endpoint with continued follow-up through Week 48 post-transplant.
+
 Subjects received CMV DNA monitoring weekly until post-transplant week 14 and then bi-weekly until post-transplant week 24, with initiation of standard-of-care CMV pre-emptive therapy if CMV DNAemia was considered clinically significant.
 Subjects had continued follow-up through Week 48 post-transplant.
 
@@ -69,8 +65,9 @@ Table 3: P001: Efficacy results in HSCT recipients (NC=F Approach, FAS Populatio
 
 | Parameter | Letermovir (N=325) n (%) | Placebo (N=170) n (%) |
 | --- | --- | --- |
-| Primary efficacy endpoint (Proportion of subjects who failed prophylaxis by Week 24) Reasons for Failures† Clinically significant CMV infection CMV DNAemia warranting anti-CMV PET CMV end-organ disease Discontinued from study Missing outcome Stratum-adjusted treatment difference (Letermovir-Placebo)§ Difference (95% CI) p-value | 122 (37.5) | 103 (60.6) |
-|  | 57 (17.5) 52 (16.0) 5 (1.5) 56 (17.2) 9 (2.8) -23.5 (-32.5, -14.6) <0.0001 | 71 (41.8) 68 (40.0) 3 (1.8) 27 (15.9) 5 (2.9) |
+| Primary efficacy endpoint (Proportion of subjects who failed prophylaxis by Week 24) | 122 (37.5) | 103 (60.6) |
+| Reasons for Failures† Clinically significant CMV infection CMV DNAemia warranting anti-CMV PET CMV end-organ disease Discontinued from study Missing outcome | 57 (17.5) 52 (16.0) 5 (1.5) 56 (17.2) 9 (2.8) | 71 (41.8) 68 (40.0) 3 (1.8) 27 (15.9) 5 (2.9) |
+| Stratum-adjusted treatment difference (Letermovir-Placebo)§ Difference (95% CI) p-value | -23.5 (-32.5, -14.6) <0.0001 |  |
 | † The categories of failure are mutually exclusive and based on the hierarchy of categories in the order listed. § 95% CIs and p-value for the treatment differences in percent response were calculated using stratum-adjusted Mantel-Haenszel method with the difference weighted by the harmonic mean of sample size per arm for each stratum (high or low risk). A 1-sided p-value ≤0.0249 was used for declaring statistical significance. FAS=Full analysis set; FAS includes randomised subjects who received at least one dose of study medicine, and excludes subjects with detectable CMV DNA at baseline. Approach to handling missing values: Non-Completer=Failure (NC=F) approach. With NC=F approach, failure was defined as all subjects with clinically significant CMV infection or who prematurely discontinued from the study or had a missing outcome through Week 24 post-transplant visit window. N = number of subjects in each treatment group. n (%) = Number (percent) of subjects in each sub-category. Note: The proportion of subjects with detectable CMV viral DNA on Day 1 that developed clinically significant CMV infection in the letermovir group was 64.6% (31/48) compared to 90.9% (20/22) in the placebo group through Week 24 post-transplant. The estimated difference (95% CI for the difference) was -26.1% (-45.9%, -6.3%), with a nominal one-sided p-value <0.0048. |  |  |
 
 Factors associated with CMV DNAemia after Week 14 post-transplant among letermovir-treated subjects included high risk for CMV reactivation at baseline, GVHD, use of corticosteroids, and CMV negative donor serostatus.
@@ -114,6 +111,7 @@ Overall (N=325, 170)
 Risk stratum
 High Risk (n=102, 45)
 Low Risk (n=223, 125)
+
 Stem Cell Source
 Peripheral blood (n=241, 117)
 Bone marrow (n=72, 43)
@@ -127,10 +125,12 @@ Mismatched unrelated (n=43, 24)
 Haploidentical donor
 Yes (n=49, 17)
 No (n=276, 153)
+
 Conditioning Regimen
 Myeloablative (n=154, 85)
 Reduced intensity conditioning (n=86, 48)
 Non-myeloablative (n=85, 37)
+
 Immunosuppressive Regimen
 Cyclosporin A (n=162, 90)
 Tacrolimus (n=145, 69)
@@ -143,5 +143,4 @@ NC=F, Non-Completer=Failure.
 With NC=F approach, subjects who discontinued from the study prior to Week 24 post-transplant or had a missing outcome at Week 24 post-transplant were counted as failures.
 
 Paediatric population
-
 The European Medicines Agency has deferred the obligation to submit the results of studies with PREVYMIS in one or more subsets of the paediatric population for prophylaxis of cytomegalovirus infection (see section 4.2 for information on paediatric use).

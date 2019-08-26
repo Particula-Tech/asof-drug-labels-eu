@@ -1,7 +1,6 @@
 # 6.1 List of excipients
 
 Tablet core
-
 Microcrystalline cellulose (E460)
 Croscarmellose sodium (E468)
 Povidone (E1201)
@@ -9,7 +8,6 @@ Colloidal anhydrous silica (E551)
 Magnesium stearate (E470b)
 
 Film-coating
-
 Lactose monohydrate
 Hypromellose (E464)
 Titanium dioxide (E171)

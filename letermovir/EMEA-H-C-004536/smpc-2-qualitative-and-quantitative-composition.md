@@ -1,18 +1,14 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 PREVYMIS 240 mg film-coated tablets
-
 Each film-coated tablet contains 240 mg of letermovir.
 
 PREVYMIS 480 mg film-coated tablets
-
 Each film-coated tablet contains 480 mg of letermovir.
 
 Excipients with known effect
-
 Each 240 mg film-coated tablet contains 4 mg of lactose (as monohydrate).
 Each 480 mg film-coated tablet contains 6.4 mg of lactose (as monohydrate).
-
 Each 240 mg film-coated tablet contains less than 1 mmol sodium (23 mg).
 Each 480 mg film-coated tablet contains less than 1 mmol sodium (23 mg).
 
