@@ -5,10 +5,12 @@ Summary of the safety profile
 The safety of atezolizumab as monotherapy is based on pooled data in 3,178 patients across multiple tumour types.
 The most common adverse reactions (> 10%) were fatigue (35.9%), decreased appetite (25.5%), nausea (23.5%), cough (20.8%), dyspnoea (20.5%), pyrexia (20.1%), diarrhoea (19.7%), rash (19.5%), back pain (15.3%), vomiting (15.1%), asthenia (14.5%), arthralgia (13.9%), musculoskeletal pain (13.1%), pruritus (12.6%) and urinary tract infection (11.6%).
 
-The safety of atezolizumab given in combination with other agents, has been evaluated in 1345 patients across multiple tumour types.
-The most common adverse reactions (≥ 20%) were fatigue (33.2%), rash (30.4%), nausea (30.2%), peripheral neuropathy (28.3%), diarrhea (27.6%), arthralgia (24.7%), constipation (24.0%), decreased appetite (23.3%), anaemia (23.0%) and musculoskeletal pain (22.9%).
+The safety of atezolizumab given in combination with other medicinal products, has been evaluated in 1,797 patients across multiple tumour types.
+The most common adverse reactions (≥ 20%) were fatigue (36.6%), nausea (34.2%), peripheral neuropathy (31.8%), rash (31.3%), diarrhea (28.8%), constipation (24.3%), anaemia (24.2%), arthralgia (23.0%), neutropenia (22.8%), decreased appetite (22.5%), musculoskeletal pain (22.0%) and cough (20.6%).
 
-Further details on serious adverse events are provided in Section 4.4 Warnings & Precautions.
+For the description of Tecentriq trials, refer to the Tecentriq 1,200 mg concentrate for solution for infusion Summary of Product Characteristics (SmPC) section 5.1.
+
+Further details on serious adverse reactions are provided in Section 4.4 Warnings & Precautions.
 
 Tabulated list of adverse reactions
 
@@ -32,73 +34,73 @@ Table 2: Summary of adverse reactions occurring in patients treated with atezoli
 | Very common |  | anaemia, thrombocytopeniab, neutropeniac |
 | Common | thrombocytopeniab |  |
 | Immune system disorders |  |  |
-| Common | hypersensitivity |  |
+| Common | infusion-related reactiond |  |
 | Endocrine disorders |  |  |
-| Very common |  | hypothyroidismd |
-| Common | hypothyroidismd |  |
-| Uncommon | hyperthyroidisme, diabetes mellitusf, adrenal insufficiencyg |  |
+| Very common |  | hypothyroidisme |
+| Common | hypothyroidisme |  |
+| Uncommon | hyperthyroidismf, diabetes mellitusg, adrenal insufficiencyh |  |
 | Rare | hypophysitis |  |
 | Metabolism and nutrition disorders |  |  |
 | Very common | decreased appetite | decreased appetite, |
 | Common | hypokalaemia, hyponatraemia, hyperglycaemia | hypokalaemia, hyponatraemia, hypomagnesaemia |
 | Nervous system disorders |  |  |
-| Very Common |  | peripheral neuropathyh |
-| Uncommon | Guillain-Barré syndromei, meningoencephalitisj |  |
+| Very Common |  | peripheral neuropathyi |
+| Uncommon | Guillain-Barré syndromej, meningoencephalitisk |  |
 | Rare | myasthenic syndrome |  |
 | Cardiac disorders |  |  |
-| Rare | myocarditisk |  |
+| Rare | myocarditisl |  |
 | Vascular disorders |  |  |
 | Common | hypotension |  |
 | Respiratory, thoracic, and mediastinal disorders |  |  |
-| Very common | cough, dyspnoea | dyspnoea |
-| Common | pneumonitisl, hypoxia, nasal congestion, nasopharyngitis | dysphonia |
+| Very common | cough, dyspnoea | dyspnoea, cough |
+| Common | pneumonitism, hypoxia, nasal congestion, nasopharyngitis | dysphonia |
 | Gastrointestinal disorders |  |  |
-| Very common | nausea, vomiting, diarrhoeam | nausea, diarrhoeam, constipation |
-| Common | abdominal pain, colitisn, dysphagia, oropharyngeal paino | stomatitis |
-| Uncommon | pancreatitisp |  |
+| Very common | nausea, vomiting, diarrhoean | nausea, diarrhoean, constipation |
+| Common | abdominal pain, colitiso, dysphagia, oropharyngeal painp | stomatitis |
+| Uncommon | pancreatitisq |  |
 | Hepatobiliary disorders |  |  |
-| Common | AST increased, ALT increased, hepatitisq |  |
+| Common | AST increased, ALT increased, hepatitisr |  |
 | Skin and subcutaneous tissue disorders |  |  |
-| Very Common | rashr, pruritus | rashr, pruritus |
+| Very Common | rashs, pruritus | rashs, pruritus |
 | Musculoskeletal and connective tissue disorders |  |  |
-| Very common | arthralgia, back pain | arthralgia |
-| Common | musculoskeletal pain |  |
-| Uncommon | Myositiss |  |
+| Very common | arthralgia, back pain, musculoskeletal painw | arthralgia, musculoskeletal painw |
+| Uncommon | Myositist |  |
 | Renal and urinary disorders |  |  |
-| Very common |  | proteinuriat |
-| Rare | nephritisu |  |
+| Very common |  | proteinuriau |
+| Rare | nephritisv |  |
 | General disorders and administration site conditions |  |  |
 | Very Common | pyrexia, fatigue, asthenia | pyrexia, fatigue, headache |
-| Common | infusion-related reactionv, influenza like illness, chills |  |
+| Common | influenza like illness, chills |  |
 
 a Includes reports of urinary tract infection, cystitis, pyelonephritis, escherichia urinary tract infection, urinary tract infection bacterial, kidney infection, pyelonephritis acute, urinary tract infection fungal, urinary tract infection pseudomonal.
 b Includes reports of thrombocytopenia and platelet count decreased.
 c Includes reports of neutropenia, neutrophil count decreased, febrile neutropenia, neutropenic sepsis.
-d Includes reports of hypothyroidism, blood thyroid stimulating hormone increased, thyroiditis, autoimmune thyroiditis, blood thyroid stimulating hormone decreased, autoimmune hypothyroidism, euthyroid sick syndrome, myxoedema, thyroid function test abnormal, thyroiditis acute, thyroxine decreased, goitre.
-e Includes reports of hyperthyroidism, endocrine ophthalmopathy, and exophthalmos.
-f Includes reports of diabetes mellitus, type 1 diabetes mellitus, diabetic ketoacidosis and ketoacidosis.
-g Includes reports of adrenal insufficiency and primary adrenal insufficiency.
-h Includes reports of neuropathy peripheral, peripheral sensory neuropathy, polyneuropathy, herpes zoster, peripheral motor neuropathy, neuralgic amyotrophy, peripheral sensorimotor neuropathy, toxic neuropathy.
-i Includes reports of Guillain-Barré syndrome and demyelinating polyneuropathy.
-j Includes reports of encephalitis, meningitis, photophobia.
-k Reported in studies outside the pooled dataset.
+d Includes reports of cytokine release syndrome, hypersensitivity, anaphylaxis.
+e Includes reports of hypothyroidism, blood thyroid stimulating hormone increased, thyroiditis, autoimmune thyroiditis, blood thyroid stimulating hormone decreased, autoimmune hypothyroidism, euthyroid sick syndrome, myxoedema, thyroid function test abnormal, thyroiditis acute, thyroxine decreased, goitre, thyroxine free increased, thyroid disorder, thyroxine free decreased, thyroxine increased, tri-iodothyronine decreased, tri-iodothyronine increased.
+f Includes reports of hyperthyroidism, endocrine ophthalmopathy, and exophthalmos.
+g Includes reports of diabetes mellitus, type 1 diabetes mellitus, diabetic ketoacidosis and ketoacidosis.
+h Includes reports of adrenal insufficiency and primary adrenal insufficiency.
+i Includes reports of neuropathy peripheral, autoimmune neuropathy, peripheral sensory neuropathy, polyneuropathy, herpes zoster, peripheral motor neuropathy, neuralgic amyotrophy, peripheral sensorimotor neuropathy, toxic neuropathy, axonal neuropathy, lumbosacral plexopathy, neuropathic arthropathy.
+j Includes reports of Guillain-Barré syndrome and demyelinating polyneuropathy.
+k Includes reports of encephalitis, meningitis, photophobia.
+l Reported in studies outside the pooled dataset.
 The frequency is based on the program wide exposure.
-l Includes reports of pneumonitis, lung infiltration, bronchiolitis, interstitial lung disease, radiation pneumonitis. m Includes reports of diarrhoea, frequent bowel movements, and gastrointestinal hypermotility.
-n Includes reports of colitis, autoimmune colitis, colitis ischaemic, colitis microscopic, colitis ulcerative.
-o Includes reports of oropharyngeal pain, oropharyngeal discomfort and throat irritation.
-p Includes reports of pancreatitis, pancreatitis acute, lipase increased and amylase increased.
-q Includes reports of ascites, autoimmune hepatitis, hepatocellular injury, hepatitis, hepatitis acute, hepatotoxicity, liver disorder, drug-induced liver injury, hepatic failure, hepatic steatosis, hepatic lesion, oesophageal varices haemorrhage, varices oesophageal.
-r Includes reports of acne, eczema, erythema, erythema of eyelid, erythema multiforme, generalised erythema, exfoliative rash, eyelid rash, folliculitis, furuncle, dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis bullous, dermatitis exfoliative, drug eruption, palmar-plantar erythrodysaesthesia syndrome, rash, rash erythematous, rash generalised, rash macular, rash maculo-papular, rash papular, rash papulosquamous, rash pruritic, rash pustular, rash vesicular, seborrhoeic dermatitis, skin exfoliation, skin toxicity, skin ulcer, toxic epidermal necrolysis, toxic skin eruption, eczema infected.
-s Includes reports of myositis, rhabdomyolysis, polymyalgia rheumatica, dermatomyositis, myoglobin urine present.
-t Includes reports of proteinuria, protein urine present.
-u Includes report of Henoch-Schonlein Purpura nephritis.
-v Includes infusion-related reaction and cytokine release syndrome.
+m Includes reports of pneumonitis, lung infiltration, bronchiolitis, interstitial lung disease, radiation pneumonitis. n Includes reports of diarrhoea, defaecation urgency, frequent bowel movements, and gastrointestinal hypermotility.
+o Includes reports of colitis, autoimmune colitis, colitis ischaemic, colitis microscopic, colitis ulcerative.
+p Includes reports of oropharyngeal pain, oropharyngeal discomfort and throat irritation.
+q Includes reports of pancreatitis, pancreatitis acute, lipase increased and amylase increased.
+r Includes reports of ascites, autoimmune hepatitis, hepatocellular injury, hepatitis, hepatitis acute, hepatotoxicity, liver disorder, drug-induced liver injury, hepatic failure, hepatic steatosis, hepatic lesion, oesophageal varices haemorrhage, varices oesophageal.
+s Includes reports of acne, eczema, erythema, erythema of eyelid, erythema multiforme, generalised erythema, exfoliative rash, eyelid rash, folliculitis, furuncle, dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis bullous, dermatitis exfoliative, drug eruption, palmar-plantar erythrodysaesthesia syndrome, rash, rash erythematous, rash generalised, rash macular, rash maculo-papular, rash papular, rash papulosquamous, rash pruritic, rash pustular, rash vesicular, seborrhoeic dermatitis, skin exfoliation, skin toxicity, skin ulcer, toxic epidermal necrolysis, toxic skin eruption, eczema infected, dermatitis exfoliative generalised.
+t Includes reports of myositis, rhabdomyolysis, polymyalgia rheumatica, dermatomyositis, myoglobin urine present.
+u Includes reports of proteinuria, protein urine present, haemoglobinurea, nephrotic syndrome.
+v Includes report of Henoch-Schonlein Purpura nephritis.
+w Includes reports of musculoskeletal pain and myalgia.
+
 Description of selected adverse reactions
 
 The data below reflect information for significant adverse reactions for atezolizumab as monotherapy in clinical studies (see section 5.1).
 Details for the significant adverse reactions for atezolizumab when given in combination are presented if clinically relevant differences were noted in comparison to atezolizumab monotherapy.
 The management guidelines for these adverse reactions are described in sections 4.2 and 4.4.
-
 Immune-related pneumonitis
 Pneumonitis occurred in 2.7% (87/3,178) of patients who received atezolizumab monotherapy.
 Of the 87 patients, one experienced a fatal event.
@@ -148,12 +150,12 @@ One patient required the use of corticosteroids and treatment with atezolizumab 
 Hypophysitis occurred in 0.8% (3/393) of patients who received atezolizumab with bevacizumab, paclitaxel, and carboplatin.
 The median time to onset was 7.7 months (range: 5.0 to 8.8 months).
 Two patients required the use of corticosteroids.
+
 Diabetes mellitus
 
 Diabetes mellitus occurred in 0.3% (11/3,178) of patients who received atezolizumab monotherapy.
 The median time to onset was 3.6 months (range 3 days to 9.9 months).
 Diabetes mellitus led to the discontinuation of atezolizumab in < 0.1% (3/3,178) patients.
-
 Immune-related meningoencephalitis
 Meningoencephalitis occurred in 0.4% (13/3,178) of patients who received atezolizumab monotherapy.
 The median time to onset was 15 days (range: 0 day to 12.5 months).
@@ -192,28 +194,20 @@ Nephritis led to discontinuation of atezolizumab in 2 (<0.1%) patients.
 One patient required corticosteroids and discontinued atezolizumab.
 
 Immune-related myositis
-Myositis occurred in 0.4% (12/3178) of patients who received Tecentriq monotherapy.
+Myositis occurred in 0.4% (12/3178) of patients who received atezolizumab monotherapy.
 The median time to onset was 5.4 months (range: 0.7 to 11.0 months).
 The median duration was 3.5 months (range 0.1 to 22.6+ months; + denotes a censored value).
-Myositis led to discontinuation of Tecentriq in 1 (<0.1%) patient.
+Myositis led to discontinuation of atezolizumab in 1 (<0.1%) patient.
 Seven (0.2%) patients required the use of corticosteroids.
-
-Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin
-In the first-line NSCLC study (IMpower150), an overall higher frequency of adverse events was observed in the four-drug regimen of atezolizumab, bevacizumab, paclitaxel, and carboplatin compared to atezolizumab, paclitaxel and carboplatin, including Grade 3 and 4 events (63.6% compared to 57.5%), Grade 5 events (6.1% compared to 2.5%), adverse events of special interest to atezolizumab (52.4% compared to 48.0%), as well as adverse events leading to withdrawal of any study treatment (33.8% compared to 13.3%).
-Nausea, diarrhoea, stomatitis, fatigue, pyrexia, mucosal inflammation, decreased appetite, weight decreased, hypertension and proteinuria were reported higher (≥5% difference) in patients receiving atezolizumab in combination with bevacizumab, paclitaxel and carboplatin.
-Other clinically significant adverse events which were observed more frequently in the atezolizumab, bevacizumab, paclitaxel, and carboplatin arm were epistaxis, haemoptysis, cerebrovascular accident, including fatal events.
 
 Immunogenicity
 In pooled assessment of studies IMvigor211 and OAK, 31.7% of patients tested positive for treatment-emergent anti-atezolizumab antibodies (ADAs) at one or more post-dose time points.
-
-In study IMpower150, 36.4% of patients treated with atezolizumab, bevacizumab, paclitaxel and carboplatin tested positive for treatment-emergent ADAs at one or more time points.
-Overall, ADA positivity by Week 4 appeared to have no clinically relevant impact on pharmacokinetics, efficacy or safety.
+Amongst 434 patients in study IMpassion130, 13% (n=57) tested positive for treatment-emergent antibodies (ADAs) at one or more post-dose time points.
+Overall, ADA status appeared to have no clinically relevant impact on safety.
 
 No data are available to allow conclusions to be drawn on possible effects of neutralising antibodies.
-
 Elderly patients
 No overall differences in safety were observed between patients ≥ 65 years of age and younger patients receiving atezolizumab monotherapy.
-In study IMpower150, age ≥ 65 was associated with an increased risk of developing adverse events in patients receiving atezolizumab in combination with bevacizumab, carboplatin and paclitaxel.
 Data for patients ≥75 years of age are too limited to draw conclusions on this population (see section 5.1).
 
 Reporting of suspected adverse reactions
@@ -221,3 +215,18 @@ Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions the national reporting system listed in Appendix V.
+
+[Tecentriq 1,200 mg concentrate for solution for infusion.]
+
+clinical trials with combination therapy.
+The following categories of frequency have been used: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000).
+
+Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin
+In the first-line NSCLC study (IMpower150), an overall higher frequency of adverse events was observed in the four-drug regimen of atezolizumab, bevacizumab, paclitaxel, and carboplatin compared to atezolizumab, paclitaxel and carboplatin, including Grade 3 and 4 events (63.6% compared to 57.5%), Grade 5 events (6.1% compared to 2.5%), adverse events of special interest to atezolizumab (52.4% compared to 48.0%), as well as adverse events leading to withdrawal of any study treatment (33.8% compared to 13.3%).
+Nausea, diarrhoea, stomatitis, fatigue, pyrexia, mucosal inflammation, decreased appetite, weight decreased, hypertension and proteinuria were reported higher (≥5% difference) in patients receiving atezolizumab in combination with bevacizumab, paclitaxel and carboplatin.
+Other clinically significant adverse events which were observed more frequently in the atezolizumab, bevacizumab, paclitaxel, and carboplatin arm were epistaxis, haemoptysis, cerebrovascular accident, including fatal events.
+
+In study IMpower150, 36.4% of patients treated with atezolizumab, bevacizumab, paclitaxel and carboplatin tested positive for treatment-emergent ADAs at one or more time points.
+Overall, ADA positivity by Week 4 appeared to have no clinically relevant impact on pharmacokinetics, efficacy or safety.
+
+In study IMpower150, age ≥ 65 was associated with an increased risk of developing adverse events in patients receiving atezolizumab in combination with bevacizumab, carboplatin and paclitaxel.

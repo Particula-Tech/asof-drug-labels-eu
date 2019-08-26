@@ -3,6 +3,7 @@
 Unopened vial
 
 3 years.
+
 Diluted solution
 
 Chemical and physical in-use stability has been demonstrated for up to 24 hours at ≤ 30 °C and for up to 30 days at 2 C to 8 C from the time of preparation.

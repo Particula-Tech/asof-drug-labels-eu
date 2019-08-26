@@ -1,39 +1,39 @@
 # 4.2 Posology and method of administration
 
 Tecentriq must be initiated and supervised by physicians experienced in the treatment of cancer.
-PD-L1 testing for patients with UC
+PD-L1 testing for patients with UC or TNBC
 
-Patients with previously untreated UC should be selected for treatment based on the tumour expression of PD-L1 confirmed by a validated test (see section 5.1).
+Patients with previously untreated UC and TNBC should be selected for treatment based on the tumour expression of PD-L1 confirmed by a validated test (see section 5.1).
 
 Posology
 
 Tecentriq monotherapy
 
-The recommended dose of Tecentriq is 1,200 mg administered intravenously every three weeks.
+The recommended dose of Tecentriq is:
 
-Tecentriq in combination therapy
+- 840 mg administered intravenously every two weeks, or
+- 1,680 mg administered intravenously every four weeks.
 
-Please also refer to the full prescribing information for the combination products (see also section 5.1).
+Tecentriq in combination with nab-paclitaxel in 1L mTNBC
 
-1L non-squamous NSCLC
-
-Tecentriq in combination with bevacizumab, paclitaxel, and carboplatin
-
-During the induction phase, the recommended dose of Tecentriq is 1,200 mg administered by intravenous infusion, followed by bevacizumab, paclitaxel, and then carboplatin every three weeks for four or six cycles.
-
-The induction phase is followed by a maintenance phase without chemotherapy in which 1,200 mg Tecentriq followed by bevacizumab, is administered by intravenous infusion every three weeks.
+The recommended dose of Tecentriq is 840 mg administered by intravenous infusion, followed by 100 mg/m2 nab-paclitaxel.
+For each 28-day cycle, Tecentriq is administered on days 1 and 15, and nab-paclitaxel is administered on days 1, 8, and 15.
+Refer to the full prescribing information for the combination product (see also section 5.1).
 
 Duration of treatment
 It is recommended that patients are treated with Tecentriq until loss of clinical benefit (see section 5.1) or unmanageable toxicity.
 
+For TNBC, it is recommended that patients are treated with Tecentriq until disease progression or unmanageable toxicity (see section 5.1).
+
 Delayed or missed doses
 If a planned dose of Tecentriq is missed, it should be administered as soon as possible.
-The schedule of administration must be adjusted to maintain a 3-week interval between doses.
+The schedule of administration must be adjusted to maintain the appropriate interval between doses.
 
 Dose modifications during treatment
 Dose reductions of Tecentriq are not recommended.
 
 Dose delay or discontinuation (see also sections 4.4 and 4.8)
+
 Table 1: Dose modification advice for Tecentriq
 
 | Immune related adverse reaction | Severity | Treatment modification |
@@ -67,8 +67,6 @@ Table 1: Dose modification advice for Tecentriq
 
 Note: Toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Event Version 4.0 (NCI-CTCAE v.4.).
 
-Patients treated with Tecentriq must be given the Patient Alert Card and be informed about the risks of Tecentriq (see also package leaflet).
-
 Special populations
 
 Paediatric population
@@ -77,9 +75,6 @@ No data are available.
 
 Elderly
 Based on a population pharmacokinetic analysis, no dose adjustment of Tecentriq is required in patients ≥ 65 years of age (see sections 4.8 and 5.1).
-
-Asian patients
-Due to increased haematologic toxicities observed in Asian patients in IMpower150, it is recommended that the starting dose of paclitaxel should be 175 mg/m2 every three weeks.
 
 Renal impairment
 Based on a population pharmacokinetic analysis, no dose adjustment is required in patients with mild or moderate renal impairment (see section 5.2).
@@ -90,7 +85,8 @@ Based on a population pharmacokinetic analysis, no dose adjustment is required f
 Tecentriq has not been studied in patients with moderate or severe hepatic impairment (see section 5.2).
 
 Eastern Cooperative Oncology Group (ECOG) performance status ≥ 2
-Patients with ECOG performance status ≥ 2 were excluded from the clinical trials in NSCLC and 2nd line UC (see sections 4.4 and 5.1).
+Patients with ECOG performance status ≥ 2 were excluded from the clinical trials in NSCLC, TNBC and 2nd line UC (see sections 4.4 and 5.1).
+
 Method of administration
 
 Tecentriq is for intravenous use.
@@ -100,3 +96,28 @@ The initial dose of Tecentriq must be administered over 60 minutes.
 If the first infusion is well tolerated, all subsequent infusions may be administered over 30 minutes.
 
 For instructions on dilution and handling of the medicinal product before administration, see section 6.6.
+
+[Tecentriq 1,200 mg concentrate for solution for infusion.]
+
+PD-L1 testing for patients with UC
+
+Patients with previously untreated UC should be selected for treatment based on the tumour expression of PD-L1 confirmed by a validated test (see section 5.1).
+
+The recommended dose of Tecentriq is 1,200 mg administered intravenously every three weeks.
+
+Tecentriq in combination therapy
+
+Please also refer to the full prescribing information for the combination products (see also section 5.1).
+
+Tecentriq in combination with bevacizumab, paclitaxel, and carboplatin
+
+During the induction phase, the recommended dose of Tecentriq is 1,200 mg administered by intravenous infusion, followed by bevacizumab, paclitaxel, and then carboplatin every three weeks for four or six cycles.
+
+The induction phase is followed by a maintenance phase without chemotherapy in which 1,200 mg Tecentriq followed by bevacizumab, is administered by intravenous infusion every three weeks.
+
+The schedule of administration must be adjusted to maintain a 3-week interval between doses.
+
+Asian patients
+Due to increased haematologic toxicities observed in Asian patients in IMpower150, it is recommended that the starting dose of paclitaxel should be 175 mg/m2 every three weeks.
+
+Patients with ECOG performance status ≥ 2 were excluded from the clinical trials in NSCLC and 2nd line UC (see sections 4.4 and 5.1).
