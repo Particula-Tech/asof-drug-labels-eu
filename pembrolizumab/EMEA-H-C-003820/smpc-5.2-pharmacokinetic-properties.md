@@ -12,10 +12,10 @@ As expected for an antibody, pembrolizumab does not bind to plasma proteins in a
 
 Biotransformation
 Pembrolizumab is catabolised through non-specific pathways; metabolism does not contribute to its clearance.
+
 Elimination
 Pembrolizumab CL is approximately 23% lower (geometric mean, 195 mL/day [CV%: 40%]) after achieving maximal change at steady-state compared with the first dose (252 mL/day [CV%: 37%]); this decrease in CL with time is not considered clinically meaningful.
 The geometric mean value (CV%) for the terminal half-life is 22 days (32%) at steady-state.
-
 Linearity/non-linearity
 Exposure to pembrolizumab as expressed by peak concentration (Cmax) or area under the plasma concentration time curve (AUC) increased dose proportionally within the dose range for efficacy.
 Steady-state concentrations of pembrolizumab were reached by 16 weeks of repeated dosing with an every 3 week regimen and the systemic accumulation was 2.1-fold.
@@ -30,6 +30,7 @@ Special populations
 The effects of various covariates on the pharmacokinetics of pembrolizumab were assessed in population pharmacokinetic analyses.
 The following factors had no clinically important effect on the clearance of pembrolizumab: age (range 15-94 years), gender, race, mild or moderate renal impairment, mild hepatic impairment and tumour burden.
 The relationship between body weight and clearance supports the use of either fixed dose or body weight-based dosing to provide adequate and similar control of exposure.
+Pembrolizumab concentrations with weight-based dosing at 2 mg/kg every 3 weeks in paediatric patients (2 to 17 years) are comparable to those of adults at the same dose.
 
 Renal impairment
 The effect of renal impairment on the clearance of pembrolizumab was evaluated by population pharmacokinetic analyses in patients with mild or moderate renal impairment compared to patients with normal renal function.

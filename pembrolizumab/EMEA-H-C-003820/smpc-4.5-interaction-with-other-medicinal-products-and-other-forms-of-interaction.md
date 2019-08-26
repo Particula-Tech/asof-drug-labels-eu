@@ -5,3 +5,4 @@ Since pembrolizumab is cleared from the circulation through catabolism, no metab
 
 The use of systemic corticosteroids or immunosuppressants before starting pembrolizumab should be avoided because of their potential interference with the pharmacodynamic activity and efficacy of pembrolizumab.
 However, systemic corticosteroids or other immunosuppressants can be used after starting pembrolizumab to treat immune-related adverse reactions (see section 4.4).
+Corticosteroids can also be used as premedication, when pembrolizumab is used in combination with chemotherapy, as antiemetic prophylaxis and/or to alleviate chemotherapy-related adverse reactions.
