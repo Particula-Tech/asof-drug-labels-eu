@@ -2,132 +2,64 @@
 
 Summary of the safety profile
 
-The safety population of Gilenya is derived from two Phase III placebo-controlled clinical studies and one Phase III active-controlled clinical study in adult patients with relapsing remitting multiple sclerosis.
-It includes a total of 2,431 adult patients on Gilenya (0.5 or 1.25 mg).
-Study D2301 (FREEDOMS) was a 2-year placebo-controlled clinical study in 854 adult patients treated with fingolimod (placebo: 418).
-Study D2309 (FREEDOMS II) was a 2-year placebo-controlled clinical study in 728 multiple sclerosis adult patients treated with fingolimod (placebo: 355).
-In the pooled data from these two studies the most serious adverse reactions on Gilenya 0.5 mg were infections, macular oedema and transient atrioventricular block at treatment initiation.
-The most frequent adverse reactions (incidence ≥10%) on Gilenya 0.5 mg were influenza, sinusitis, headache, diarrhoea, back pain, hepatic enzyme increased and cough.
-The most frequent adverse reaction reported for Gilenya 0.5 mg leading to treatment interruption was ALT elevations (2.2%).
-The adverse reactions in
-Study D2302 (TRANSFORMS), a 1-year study in 849 adult patients treated with fingolimod which used interferon beta-1a as comparator, were generally similar to placebo-controlled studies, taking into account the differences in study duration.
 Adverse reactions reported with Gilenya 0.5 mg in Studies D2301 (FREEDOMS) and D2309 (FREEDOMS II) are shown below.
+Adverse reactions derived from post-marketing experience with Gilenya via spontaneous case reports or literature cases are also reported.
 Frequencies were defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
-
 Tabulated list of adverse reactions
 
-Infections and infestations
-
-Very common: Influenza
-
-Sinusitis
-
-Common: Herpes viral infections
-
-Bronchitis
-Tinea versicolor
-
-Uncommon: Pneumonia
-Not known: Progressive multifocal leukoencephalopathy (PML)**
-
-Cryptococcal infections**
-Neoplasms benign, malignant and unspecified (incl cysts and polyps)
-
-Common: Basal cell carcinoma
-Uncommon: Malignant melanoma****
-Rare: Lymphoma***
-
-Squamous cell carcinoma****
-
-Very rare: Kaposi’s sarcoma****
-Not known Merkel cell carcinoma***
-
-Blood and lymphatic system disorders
-
-Common: Lymphopenia
-
-Leucopenia
-
-Uncommon: Thrombocytopenia
-Not known: Peripheral oedema***
-
-Immune system disorders
-
-Not known: Hypersensitivity reactions, including rash, urticaria and angioedema
-
-upon treatment initiation***
-Psychiatric disorders
-
-Common: Depression
-Uncommon: Depressed mood
-
-Nervous system disorders
-
-Very common: Headache
-Common: Dizziness
-
-Migraine
-
-Uncommon: Seizure
-Rare: Posterior reversible encephalopathy syndrome (PRES)*
-
-Eye disorders
-
-Common: Vision blurred
-Uncommon: Macular oedema
-
-Cardiac disorders
-
-Common: Bradycardia
-
-Atrioventricular block
-
-Very rare: T-wave inversion***
-
-Vascular disorders
-
-Common: Hypertension
-
-Respiratory, thoracic and mediastinal disorders
-
-Very common: Cough
-Common: Dyspnoea
-
-Gastrointestinal disorders
-
-Very common: Diarrhoea
-Uncommon: Nausea***
-
-Skin and subcutaneous tissue disorders
-
-Common: Eczema
-
-Alopecia
-Pruritus
-Musculoskeletal and connective tissue disorders
-
-Very common: Back pain
-Common: Myalgia
-
-Arthralgia
-General disorders and administration site conditions
-
-Common: Asthenia
-
-Investigations
-
-Very common: Hepatic enzyme increased (increased ALT, Gamma
-
-glutamyltransferase, Aspartate transaminase)
-
-Common: Blood triglycerides increased
-Uncommon: Neutrophil count decreased
-
-* Not reported in Studies FREEDOMS, FREEDOMS II and TRANSFORMS.
-The frequency category was based on an estimated exposure of approximately 10,000 patients to fingolimod in all clinical trials.
-** PML and cryptococcal infections (including cases of cryptococcal meningitis) have been reported in the post-marketing setting (see section 4.4).
-*** Adverse drug reactions from spontaneous reports and literature
-**** The frequency category and risk assessment were based on an estimated exposure of more than 24,000 patients to fingolimod 0.5 mg in all clinical trials.
+| Infections and infestations |  |
+| --- | --- |
+| Very common: | Influenza Sinusitis |
+| Common: | Herpes viral infections Bronchitis Tinea versicolor |
+| Uncommon: | Pneumonia |
+| Not known: | Progressive multifocal leukoencephalopathy (PML)** Cryptococcal infections** |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) |  |
+| Common: | Basal cell carcinoma |
+| Uncommon: | Malignant melanoma**** |
+| Rare: | Lymphoma*** Squamous cell carcinoma**** |
+| Very rare: | Kaposi’s sarcoma**** |
+| Not known | Merkel cell carcinoma*** |
+| Blood and lymphatic system disorders |  |
+| Common: | Lymphopenia Leucopenia |
+| Uncommon: | Thrombocytopenia |
+| Not known: | Peripheral oedema*** |
+| Immune system disorders |  |
+| Not known: | Hypersensitivity reactions, including rash, urticaria and angioedema upon treatment initiation*** |
+| Psychiatric disorders |  |
+| Common: | Depression |
+| Uncommon: | Depressed mood |
+| Nervous system disorders |  |
+| Very common: | Headache |
+| Common: | Dizziness Migraine |
+| Uncommon: | Seizure |
+| Rare: | Posterior reversible encephalopathy syndrome (PRES)* |
+| Not known: | Severe exacerbation of disease after Gilenya discontinuation*** |
+| Eye disorders |  |
+| Common: | Vision blurred |
+| Uncommon: | Macular oedema |
+| Cardiac disorders |  |
+| Common: | Bradycardia Atrioventricular block |
+| Very rare: | T-wave inversion*** |
+| Vascular disorders |  |
+| Common: | Hypertension |
+| Respiratory, thoracic and mediastinal disorders |  |
+| Very common: | Cough |
+| Common: | Dyspnoea |
+| Gastrointestinal disorders |  |
+| Very common: | Diarrhoea |
+| Uncommon: | Nausea*** |
+| Skin and subcutaneous tissue disorders |  |
+| Common: | Eczema Alopecia Pruritus |
+| Musculoskeletal and connective tissue disorders |  |
+| Very common: | Back pain |
+| Common: | Myalgia Arthralgia |
+| General disorders and administration site conditions |  |
+| Common: | Asthenia |
+| Investigations |  |
+| Very common: | Hepatic enzyme increased (increased ALT, Gamma glutamyltransferase, Aspartate transaminase) |
+| Common: | Blood triglycerides increased |
+| Uncommon: | Neutrophil count decreased |
+| * Not reported in Studies FREEDOMS, FREEDOMS II and TRANSFORMS. The frequency category was based on an estimated exposure of approximately 10,000 patients to fingolimod in all clinical trials. ** PML and cryptococcal infections (including cases of cryptococcal meningitis) have been reported in the post-marketing setting (see section 4.4). *** Adverse drug reactions from spontaneous reports and literature **** The frequency category and risk assessment were based on an estimated exposure of more than 24,000 patients to fingolimod 0.5 mg in all clinical trials. |  |
 
 Description of selected adverse reactions
 
@@ -149,10 +81,10 @@ The majority of cases occurred within the first 3-4 months of therapy.
 Some patients presented with blurred vision or decreased visual acuity, but others were asymptomatic and diagnosed on routine ophthalmological examination.
 The macular oedema generally improved or resolved spontaneously after discontinuation of Gilenya.
 The risk of recurrence after re-challenge has not been evaluated.
+
 Macular oedema incidence is increased in multiple sclerosis patients with a history of uveitis (17% with a history of uveitis vs. 0.6% without a history of uveitis).
 Gilenya has not been studied in multiple sclerosis patients with diabetes mellitus, a disease which is associated with an increased risk for macular oedema (see section 4.4).
 In renal transplant clinical studies in which patients with diabetes mellitus were included, therapy with fingolimod 2.5 mg and 5 mg resulted in a 2-fold increase in the incidence of macular oedema.
-
 Bradyarrhythmia
 Initiation of Gilenya treatment results in a transient decrease in heart rate and may also be associated with atrioventricular conduction delays.
 In multiple sclerosis clinical studies the maximal decline in heart rate was seen within 6 hours after treatment initiation, with declines in mean heart rate of 12-13 beats per minute for Gilenya 0.5 mg.

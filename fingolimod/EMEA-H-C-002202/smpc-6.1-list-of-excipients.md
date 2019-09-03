@@ -24,11 +24,11 @@ Gilenya 0.5 mg hard capsules
 Capsule fill
 Mannitol
 Magnesium stearate
-
 Capsule shell
 Gelatin
 Titanium dioxide (E171)
 Yellow iron oxide (E172)
+
 Printing ink
 Shellac (E904)
 Ethanol, anhydrous

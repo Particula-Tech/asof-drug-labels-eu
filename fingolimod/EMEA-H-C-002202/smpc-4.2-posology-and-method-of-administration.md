@@ -40,16 +40,11 @@ Hepatic impairment
 Gilenya must not be used in patients with severe hepatic impairment (Child-Pugh class C) (see section 4.3).
 Although no dose adjustments are needed in patients with mild or moderate hepatic impairment, caution should be exercised when initiating treatment in these patients (see sections 4.4 and 5.2).
 
-Diabetic patients
-Gilenya has not been studied in multiple sclerosis patients with concomitant diabetes mellitus.
-Gilenya should be used with caution in these patients due to a potential increase in the risk of macular oedema (see sections 4.4 and 4.8).
-Regular ophthalmological examinations should be conducted in these patients to detect macular oedema.
 Paediatric population
 The safety and efficacy of Gilenya in children aged below 10 years have not yet been established.
 No data are available.
 
 There are very limited data available in children between 10–12 years old (see sections 4.4, 4.8 and 5.1).
-
 Method of administration
 
 This medicinal product is for oral use.

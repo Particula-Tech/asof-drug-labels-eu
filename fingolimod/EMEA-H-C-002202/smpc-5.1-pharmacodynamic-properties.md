@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Selective immunosuppressants, ATC code: L04AA27
+Pharmacotherapeutic group: Immunosuppressants, selective immunosuppressants, ATC code: L04AA27
 
 Mechanism of action
 
@@ -44,15 +44,14 @@ Subjects on fingolimod treatment have a normal bronchodilator response to inhale
 Clinical efficacy and safety
 
 The efficacy of Gilenya has been demonstrated in two studies which evaluated once-daily doses of fingolimod 0.5 mg and 1.25 mg in adult patients with relapsing-remitting multiple sclerosis (RRMS).
-Both studies included adult patients who had experienced ≥2 relapses in the prior 2 years or
-≥1 relapse during the prior year.
+Both studies included adult patients who had experienced ≥2 relapses in the prior 2 years or ≥1 relapse during the prior year.
 Expanded Disability Status Score (EDSS) was between 0 and 5.5.
 A third study targeting the same adult patient population was completed after registration of Gilenya.
+
 Study D2301 (FREEDOMS) was a 2-year randomised, double-blind, placebo-controlled Phase III study of 1,272 patients (n=425 on 0.5 mg, 429 on 1.25 mg, 418 on placebo).
 Median values for baseline characteristics were: age 37 years, disease duration 6.7 years, and EDSS score 2.0.
 Outcome results are shown in Table 1.
 There were no significant differences between the 0.5 mg and the 1.25 mg doses as regards either endpoint.
-
 Table 1 Study D2301 (FREEDOMS): main results
 
 |  | Fingolimod 0.5 mg | Placebo |
@@ -72,9 +71,9 @@ In total, 920 patients entered (n=331 continued on 0.5 mg, 289 continued on 1.25
 After 12 months (month 36), 856 patients (93%) were still enrolled.
 Between months 24 and 36, the annualised relapse rate (ARR) for patients on fingolimod 0.5 mg in the core study who remained on 0.5 mg was 0.17 (0.21 in the core study).
 The ARR for patients who switched from placebo to fingolimod 0.5 mg was 0.22 (0.42 in the core study).
+
 Comparable results were shown in a replicate 2-year randomised, double-blind, placebo-controlled Phase III study on fingolimod in 1,083 patients (n=358 on 0.5 mg, 370 on 1.25 mg, 355 on placebo) with RRMS (D2309; FREEDOMS 2).
 Median values for baseline characteristics were: age 41 years, disease duration 8.9 years, EDSS score 2.5.
-
 Table 2 Study D2309 (FREEDOMS 2): main results
 
 |  | Fingolimod 0.5 mg | Placebo |
@@ -117,6 +116,7 @@ The ARR for patients who switched from interferon beta-1a to fingolimod 0.5 mg w
 Pooled results of Studies D2301 and D2302 showed a consistent and statistically significant reduction in annualised relapse rate compared to comparator in subgroups defined by gender, age, prior multiple sclerosis therapy, disease activity or disability levels at baseline.
 
 Further analyses of clinical trial data demonstrate consistent treatment effects in highly active subgroups of relapsing remitting multiple sclerosis patients.
+
 Paediatric population
 
 The efficacy and safety of once-daily doses of fingolimod 0.25 mg or 0.5 mg (dose selected based on body weight and exposure measurements) have been established in paediatric patients aged 10 to
