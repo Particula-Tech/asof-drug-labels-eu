@@ -1,11 +1,12 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Ophthalmologicals, antineovascularisation agents, ATC code: S01LA04 Mechanism of action
+Pharmacotherapeutic group: Ophthalmologicals, antineovascularisation agents, ATC code: S01LA04
+
+Mechanism of action
 
 Ranibizumab is a humanised recombinant monoclonal antibody fragment targeted against human vascular endothelial growth factor A (VEGF-A).
 It binds with high affinity to the VEGF-A isoforms (e.g. VEGF110, VEGF121 and VEGF165), thereby preventing binding of VEGF-A to its receptors VEGFR-1 and VEGFR-2.
-Binding of VEGF-A to its receptors leads to endothelial cell proliferation and neovascularisation, as well as vascular leakage, all of which are thought to contribute to the progression of the neovascular form of age-related macular degeneration, pathologic myopia and CNV or to visual impairment caused by either diabetic macular oedema or macular oedema secondary to RVO.
-
+Binding of VEGF-A to its receptors leads to endothelial cell proliferation and neovascularisation, as well as vascular leakage, all of which are thought to contribute to the progression of the neovascular form of age-related macular degeneration, pathologic myopia and CNV or to visual impairment caused by either diabetic macular oedema or macular oedema secondary to RVO in adults and retinopathy of prematurity in preterm infants.
 Clinical efficacy and safety
 
 Treatment of wet AMD
@@ -42,7 +43,8 @@ Study FVF2598g (MARINA)
 
 0
 
--5 + 21.5
++ 21.5
+-5
 
 -10
 
@@ -65,7 +67,6 @@ Study FVF2587g (ANCHOR)
 -10 -9.8
 
 -15
-
 0 2 4 6 8 10 12 14 16 18 20 22 24
 
 Month
@@ -137,24 +138,31 @@ Patients randomised to vPDT were allowed to receive ranibizumab treatment as of 
 Figure 2 Mean change from baseline BCVA over time to Month 12 (RADIANCE)
 
 20
-+14.4
-15 +12.5
+
++14.4 15 +12.5
+
 +13.8
+
 10 +12.1
+
 +9.3
+
 5
+
 +1.4
 0
+
 Ranibizumab allowed
+
 -5
-0 1 2 3 4 5 6 7 8 9 10 11 12
-Month
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 Month
+
 Ranibizumab 0.5 mg Group I Ranibizumab 0.5 mg Group II
 by stabilisation (n=105) by disease activity (n=116)
 Verteporfin PDT Group III (n=55) Ranibizumab 0.5 mg/Verteporfin PDT
-Group III from Month 3 onwards (n=55)
 
-The improvement of vision was accompanied by a reduction in central retinal thickness.
+Group III from Month 3 onwards (n=55) The improvement of vision was accompanied by a reduction in central retinal thickness.
 
 Patient-reported benefits were observed with ranibizumab treatment arms over vPDT (p-value <0.05) in terms of improvement in the composite score and several subscales (general vision, near activities, mental health and dependency) of the NEI VFQ-25.
 
@@ -199,7 +207,6 @@ Month
 Treatment: Ranibizumab 0.5 mg (N=119) Sham (N=59)
 
 * Observed mean BCVA may differ from the Least Squares Mean BCVA (applicable only at Month 2) When comparing ranibizumab versus sham control at Month 2, a consistent treatment effect both overall and across baseline aetiology subgroups was observed:
-
 Table 4 Treatment effect overall and across baseline aetiology subgroups
 
 | Overall and per baseline aetiology | Treatment effect over sham [letters] | Patient numbers [n] (treatment +sham) |
@@ -211,7 +218,9 @@ Table 4 Treatment effect overall and across baseline aetiology subgroups
 | Idiopathic chorioretinopathy | 11.4 | 63 |
 | Miscellaneous aetiologiesa | 10.6 | 37 |
 
-a encompasses different aetiologies of low frequency of occurrence not included in the other subgroups In the pivotal study G2301 (MINERVA), five adolescent patients aged 12 to 17 years with visual impairment secondary to CNV received open-label treatment with ranibizumab 0.5 mg at baseline followed by an individualised treatment regimen as for the adult population.
+a encompasses different aetiologies of low frequency of occurrence not included in the other subgroups
+
+In the pivotal study G2301 (MINERVA), five adolescent patients aged 12 to 17 years with visual impairment secondary to CNV received open-label treatment with ranibizumab 0.5 mg at baseline followed by an individualised treatment regimen as for the adult population.
 BCVA improved from baseline to Month 12 in all five patients, ranging from 5 to 38 letters (mean of 16.6 letters).
 The improvement of vision was accompanied by a stabilisation or reduction in central subfield thickness over the 12-month period.
 The mean number of ranibizumab injections given in the study eye over 12 months was 3 (ranged from 2 to 5).
@@ -269,7 +278,8 @@ to baseline in study D2301 (RESTORE) 0.5 mg 0.5 mg + Laser
 n=115 n=118 n=110
 Mean average change in BCVA from 6.1 (6.4)a 5.9 (7.9)a 0.8 (8.6)
 Month 1 to Month 12a (±SD)
-Mean change in BCVA at Month 12 (±SD) 6.8 (8.3)a 6.4 (11.8)a 0.9 (11.4)
+Mean change in BCVA at Month 12 6.8 (8.3)a 6.4 (11.8)a 0.9 (11.4)
+(±SD)
 Gain of ≥15 letters or BCVA ≥84 letters at 22.6 22.9 8.2
 Month 12 (%)
 Mean number of injections (Months 0-11) 7.0 6.8 7.3 (sham)
@@ -390,6 +400,7 @@ Figure 6 Mean change from baseline BCVA over time to Month 6 and Month 12 (CRUIS
 18 + 14.9
 
 16
+
 14 + 13.9
 
 12
@@ -455,19 +466,45 @@ The corresponding visual acuity gain in patients with ≥12 months disease durat
 Treatment initiation at the time of diagnosis should be considered.
 
 The long-term safety profile of ranibizumab observed in the 24-month studies is consistent with the known Lucentis safety profile.
-
 Paediatric population
 
-The safety and efficacy of ranibizumab have not yet been established in paediatric patients.
-The European Medicines Agency has waived the obligation to submit the results of studies with Lucentis in all subsets of the paediatric population in neovascular AMD, visual impairment due to DME, visual impairment due to macular oedema secondary to RVO and visual impairment due to CNV (see section 4.2 for information on paediatric use).
+Treatment of ROP in preterm infants
+The clinical safety and efficacy of Lucentis 0.2 mg for the treatment of ROP in preterm infants have been assessed based on the 6-month data of the randomised, open-label, 3-arm, parallel-group superiority study H2301 (RAINBOW), which was designed to evaluate ranibizumab 0.2 mg and 0.1 mg given as intravitreal injections in comparison to laser therapy.
+Eligible patients had one of the following retinal findings in each eye:
+
+- Zone I, stage 1+, 2+, 3 or 3+ disease, or
+- Zone II, stage 3+ disease, or
+- Aggressive posterior (AP)-ROP
+
+In this study, 225 patients were randomised in a 1:1:1 ratio to receive intravitreal ranibizumab 0.2 mg (n=74), 0.1 mg (n=77), or laser therapy (n=74).
+
+Treatment success, as measured by the absence of active ROP and absence of unfavourable structural outcomes in both eyes 24 weeks after the first study treatment, was highest with ranibizumab 0.2 mg (80%) compared to laser therapy (66.2%) (see Table 9).
+The majority of patients treated with ranibizumab 0.2 mg (78.1%) received a single injection per eye.
+
+Table 9 Outcomes at Week 24 (RAINBOW)
+
+|  | Treatment success |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Treatment | n/M (%) | 95% CI | Comparison | Odds ratio (OR)a | 95% CI | p-valueb |
+| Ranibizumab 0.2 mg (N=74) | 56/70 (80.0) | (0.6873, 0.8861) | Ranibizumab 0.2 mg vs laser | 2.19 | (0.9932, 4.8235) | 0.0254 |
+| Laser therapy (N=74) | 45/68 (66.2) | (0.5368, 0.7721) |  |  |  |  |
+| CI = confidence interval, M = total number of patients with non-missing value on primary efficacy outcome (including imputed values), n = number of patients with absence of active ROP and absence of unfavourable structural outcome in both eyes 24 weeks after the first study treatment (including imputed values). If a patient died or switched study treatment before or at week 24, then the patient was considered as having active ROP and unfavourable structural outcomes at week 24. a Odds ratio is calculated by using Cochran-Mantel-Haenszel test with ROP zone at baseline (zone I and II; per CRF) as stratum factor. b p-value for pairwise comparison is one-sided. For the primary endpoint the pre-specified significance level for the one-sided p-value was 0.025. |  |  |  |  |  |  |
+
+During the 24 weeks of the study, fewer patients in the ranibizumab 0.2 mg group switched to another treatment modality due to lack of response compared with the laser group (14.9% vs. 24.3%).
+Unfavourable structural outcomes were less frequently reported for ranibizumab 0.2 mg (1 patient, 1.4%) compared with laser therapy (7 patients, 10.1%).
+
+The European Medicines Agency has waived the obligation to submit the results of studies with Lucentis in all subsets of the paediatric population in neovascular AMD, visual impairment due to DME, visual impairment due to macular oedema secondary to RVO, visual impairment due to CNV and diabetic retinopathy (see section 4.2 for information on paediatric use).
+In addition the European Medicines Agency has waived the obligation to submit the results of studies with Lucentis in the following subsets of the paediatric population for ROP: term newborn infants, infants, children and adolescents.
 
 [Lucentis 10 mg/ml solution for injection in pre-filled syringe]
+
+Binding of VEGF-A to its receptors leads to endothelial cell proliferation and neovascularisation, as well as vascular leakage, all of which are thought to contribute to the progression of the neovascular form of age-related macular degeneration, pathologic myopia and CNV or to visual impairment caused by either diabetic macular oedema or macular oedema secondary to RVO.
 
 Double-masked, Open-label,
 randomised, Ranibizumab allowed in both arms
 
 Ranibizumab vs Sham
 
-* Observed mean BCVA may differ from the Least Squares Mean BCVA (applicable only at Month 2)
+The safety and efficacy of ranibizumab have not yet been established in paediatric patients.
 
-When comparing ranibizumab versus sham control at Month 2, a consistent treatment effect both overall and across baseline aetiology subgroups was observed:
+The European Medicines Agency has waived the obligation to submit the results of studies with Lucentis in all subsets of the paediatric population in neovascular AMD, visual impairment due to DME, visual impairment due to macular oedema secondary to RVO and visual impairment due to CNV (see section 4.2 for information on paediatric use).

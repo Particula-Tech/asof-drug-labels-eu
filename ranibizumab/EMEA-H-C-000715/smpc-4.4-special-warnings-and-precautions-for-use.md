@@ -6,10 +6,9 @@ Intravitreous injections, including those with Lucentis, have been associated wi
 Proper aseptic injection techniques must always be used when administering Lucentis.
 In addition, patients should be monitored during the week following the injection to permit early treatment if an infection occurs.
 Patients should be instructed to report any symptoms suggestive of endophthalmitis or any of the above mentioned events without delay.
-
 Intraocular pressure increases
 
-Transient increases in intraocular pressure (IOP) have been seen within 60 minutes of injection of Lucentis.
+In adults transient increases in intraocular pressure (IOP) have been seen within 60 minutes of injection of Lucentis.
 Sustained IOP increases have also been identified (see section 4.8).
 Both intraocular pressure and the perfusion of the optic nerve head must be monitored and managed appropriately.
 
@@ -24,11 +23,12 @@ Immunogenicity
 There is a potential for immunogenicity with Lucentis.
 Since there is a potential for an increased systemic exposure in subjects with DME, an increased risk for developing hypersensitivity in this patient population cannot be excluded.
 Patients should also be instructed to report if an intraocular inflammation increases in severity, which may be a clinical sign attributable to intraocular antibody formation.
+
 Concomitant use of other anti-VEGF (vascular endothelial growth factor)
 
 Lucentis should not be administered concurrently with other anti-VEGF medicinal products (systemic or ocular).
 
-Withholding Lucentis
+Withholding Lucentis in adults
 
 The dose should be withheld and treatment should not be resumed earlier than the next scheduled treatment in the event of:
 
@@ -43,9 +43,13 @@ Retinal pigment epithelial tear
 Risk factors associated with the development of a retinal pigment epithelial tear after anti-VEGF therapy for wet AMD and potentially also other forms of CNV, include a large and/or high pigment epithelial retinal detachment.
 When initiating ranibizumab therapy, caution should be used in patients with these risk factors for retinal pigment epithelial tears.
 
-Rhegmatogenous retinal detachment or macular holes
+Rhegmatogenous retinal detachment or macular holes in adults
 
 Treatment should be discontinued in subjects with rhegmatogenous retinal detachment or stage 3 or 4 macular holes.
+Paediatric population
+
+The warnings and precautions for adults also apply to preterm infants with ROP.
+The long-term safety profile in preterm infants has not been established.
 
 Populations with limited data
 
@@ -65,3 +69,11 @@ Systemic adverse events including non-ocular haemorrhages and arterial thromboem
 
 There are limited data on safety in the treatment of DME, macular oedema due to RVO and CNV secondary to PM patients with prior history of stroke or transient ischaemic attacks.
 Caution should be exercised when treating such patients (see section 4.8).
+
+[Lucentis 10 mg/ml solution for injection in pre-filled syringe]
+
+Transient increases in intraocular pressure (IOP) have been seen within 60 minutes of injection of Lucentis.
+
+Withholding Lucentis
+
+Rhegmatogenous retinal detachment or macular holes
