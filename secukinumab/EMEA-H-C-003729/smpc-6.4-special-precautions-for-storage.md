@@ -6,7 +6,6 @@ For storage conditions after reconstitution of the medicinal product, see sectio
 [Cosentyx 150 mg solution for injection in pre-filled syringe]
 
 Do not freeze.
-If necessary, Cosentyx may be stored unrefrigerated for a single period of up to 4 days at room temperature, not above 30°C.
 Store the syringes in the original package in order to protect from light.
 
 [Cosentyx 150 mg solution for injection in pre-filled pen]
