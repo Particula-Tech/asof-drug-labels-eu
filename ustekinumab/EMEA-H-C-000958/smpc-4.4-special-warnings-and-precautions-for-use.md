@@ -17,19 +17,27 @@ Patients receiving STELARA should be monitored closely for signs and symptoms of
 
 Patients should be instructed to seek medical advice if signs or symptoms suggestive of an infection occur.
 If a patient develops a serious infection, the patient should be closely monitored and STELARA should not be administered until the infection resolves.
-
 Malignancies
 Immunosuppressants like ustekinumab have the potential to increase the risk of malignancy.
 Some patients who received STELARA in clinical studies developed cutaneous and non-cutaneous malignancies (see section 4.8).
 
 No studies have been conducted that include patients with a history of malignancy or that continue treatment in patients who develop malignancy while receiving STELARA.
 Thus, caution should be exercised when considering the use of STELARA in these patients.
+
 All patients, in particular those greater than 60 years of age, patients with a medical history of prolonged immunosuppressant therapy or those with a history of PUVA treatment, should be monitored for the appearance of non-melanoma skin cancer (see section 4.8).
 
-Hypersensitivity reactions
+Systemic and respiratory hypersensitivity reactions
+Systemic
 Serious hypersensitivity reactions have been reported in the postmarketing setting, in some cases several days after treatment.
 Anaphylaxis and angioedema have occurred.
 If an anaphylactic or other serious hypersensitivity reaction occurs, appropriate therapy should be instituted and administration of STELARA should be discontinued (see section 4.8).
+
+Respiratory
+Cases of allergic alveolitis and eosinophilic pneumonia have been reported during post-approval use of ustekinumab.
+Clinical presentations included cough, dyspnoea, and interstitial infiltrates following one to three doses.
+Serious outcomes have included respiratory failure and prolonged hospitalisation.
+Improvement has been reported after discontinuation of ustekinumab and also, in some cases, administration of corticosteroids.
+If infection has been excluded and diagnosis is confirmed, discontinue ustekinumab and institute appropriate treatment (see section 4.8).
 
 Vaccinations
 It is recommended that live viral or live bacterial vaccines (such as Bacillus of Calmette and Guérin (BCG)) should not be given concurrently with STELARA.
@@ -45,13 +53,12 @@ Long term treatment with STELARA does not suppress the humoral immune response t
 Concomitant immunosuppressive therapy
 In psoriasis studies, the safety and efficacy of STELARA in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated.
 In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of STELARA.
-In Crohn’s disease studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of STELARA.
+In Crohn’s disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of STELARA.
 Caution should be exercised when considering concomitant use of other immunosuppressants and STELARA or when transitioning from other immunosuppressive biologics (see section 4.5).
 
 Immunotherapy
 STELARA has not been evaluated in patients who have undergone allergy immunotherapy.
 It is not known whether STELARA may affect allergy immunotherapy.
-
 Serious skin conditions
 In patients with psoriasis, exfoliative dermatitis has been reported following ustekinumab treatment (see section 4.8).
 Patients with plaque psoriasis may develop erythrodermic psoriasis, with symptoms that may be clinically indistinguishable from exfoliative dermatitis, as part of the natural course of their disease.
@@ -61,7 +68,7 @@ STELARA should be discontinued if a drug reaction is suspected.
 
 Special populations
 Elderly (≥65 years)
-No overall differences in efficacy or safety in patients age 65 and older who received STELARA were observed compared to younger patients, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients.
+No overall differences in efficacy or safety in patients age 65 and older who received STELARA were observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients.
 Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
 
 Sodium content

@@ -1,15 +1,14 @@
 # 4.2 Posology and method of administration
 
-STELARA concentrate for solution for infusion is intended for use under the guidance and supervision of physicians experienced in the diagnosis and treatment of Crohn's disease.
+STELARA concentrate for solution for infusion is intended for use under the guidance and supervision of physicians experienced in the diagnosis and treatment of Crohn's disease or ulcerative colitis.
 STELARA concentrate for solution for infusion should only be used for the intravenous induction dose.
 
 Posology
 
-Crohn’s Disease
+Crohn’s Disease and Ulcerative Colitis
 STELARA treatment is to be initiated with a single intravenous dose based on body weight.
 The infusion solution is to be composed of the number of vials of STELARA 130 mg as specified in
 Table 1 (see section 6.6 for preparation).
-
 Table 1 Initial intravenous dosing of STELARA
 Body weight of patient at the Recommended Number of 130 mg
 
@@ -22,6 +21,7 @@ a Approximately 6 mg/kg
 
 The first subcutaneous dose should be given at week 8 following the intravenous dose.
 For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the STELARA solution for injection (vial) and solution for injection in pre-filled syringe SmPC.
+
 Elderly (≥65 years)
 No dose adjustment is needed for elderly patients (see section 4.4).
 
@@ -30,7 +30,7 @@ STELARA has not been studied in these patient populations.
 No dose recommendations can be made.
 
 Paediatric population
-The safety and efficacy of STELARA for the treatment of Crohn’s disease in children less than 18 years have not yet been established.
+The safety and efficacy of STELARA for the treatment of Crohn’s disease or ulcerative colitis in children less than 18 years have not yet been established.
 No data are available.
 
 Method of administration
@@ -58,7 +58,6 @@ Psoriatic arthritis (PsA)
 Alternatively, 90 mg may be used in patients with a body weight > 100 kg.
 
 The safety and efficacy of STELARA in children with psoriasis less than 12 years of age or in children with psoriatic arthritis less than 18 years of age have not yet been established.
-
 Paediatric plaque psoriasis (12 years and older)
 The recommended dose of STELARA based on body weight is shown below (Tables 1 and 2).
 STELARA should be administered at Weeks 0 and 4, then every 12 weeks thereafter.
@@ -112,24 +111,23 @@ Table 2 Injection volumes of STELARA for paediatric psoriasis patients < 60 kg
 
 In the treatment regimen, the first dose of STELARA is administered intravenously.
 For the posology of the intravenous dosing regimen, see section 4.2 of the STELARA 130 mg Concentrate for solution for infusion SmPC.
-
 The first subcutaneous administration of 90 mg STELARA should take place at week 8 after the intravenous dose.
 After this, dosing every 12 weeks is recommended.
 
 Patients who have not shown adequate response at 8 weeks after the first subcutaneous dose, may receive a second subcutaneous dose at this time (see section 5.1).
 
-Patients who lose response on dosing every 12 weeks may benefit from an increase in dosing frequency to every 8 weeks (see section 5.1).
+Patients who lose response on dosing every 12 weeks may benefit from an increase in dosing frequency to every 8 weeks (see section 5.1, section 5.2).
 
 Patients may subsequently be dosed every 8 weeks or every 12 weeks according to clinical judgment (see section 5.1).
 
-Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit by week 16 or 16 weeks after switching to the 8-weekly dose.
+Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit 16 weeks after the IV induction dose or 16 weeks after switching to the 8-weekly maintenance dose.
 
 Immunomodulators and/or corticosteroids may be continued during treatment with STELARA.
 In patients who have responded to treatment with STELARA, corticosteroids may be reduced or discontinued in accordance with standard of care.
 
-If therapy is interrupted, resumption of treatment with subcutaneous dosing every 8 weeks is safe and effective.
+In Crohn’s disease, if therapy is interrupted, resumption of treatment with subcutaneous dosing every 8 weeks is safe and effective.
 
-The safety and efficacy of STELARA in treatment of Crohn’s disease in children less than 18 years have not yet been established.
+The safety and efficacy of STELARA in treatment of Crohn’s disease or ulcerative colitis in children less than 18 years have not yet been established.
 
 STELARA 45 mg and 90 mg vials or pre-filled syringes are for subcutaneous injection only.
 If possible, areas of the skin that show psoriasis should be avoided as injection sites.

@@ -3,6 +3,9 @@
 Crohn’s Disease
 STELARA is indicated for the treatment of adult patients with moderately to severely active Crohn’s disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist or have medical contraindications to such therapies.
 
+Ulcerative colitis
+STELARA is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a biologic or have medical contraindications to such therapies (see section 5.1).
+
 [STELARA 45 mg solution for injection]
 
 Plaque psoriasis
