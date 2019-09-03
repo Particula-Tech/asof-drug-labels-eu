@@ -12,5 +12,14 @@ Tecentriq in combination with nab-paclitaxel is indicated for the treatment of a
 
 [Tecentriq 1,200 mg concentrate for solution for infusion.]
 
+Urothelial carcinoma
+
+Non-small cell lung cancer
+
 Tecentriq, in combination with bevacizumab, paclitaxel and carboplatin, is indicated for the first-line treatment of adult patients with metastatic non-squamous non-small cell lung cancer (NSCLC).
 In patients with EGFR mutant or ALK-positive NSCLC, Tecentriq, in combination with bevacizumab, paclitaxel and carboplatin, is indicated only after failure of appropriate targeted therapies (see section 5.1).
+
+Tecentriq, in combination with nab-paclitaxel and carboplatin, is indicated for the first-line treatment of adult patients with metastatic non-squamous NSCLC who do not have EGFR mutant or ALK-positive NSCLC (see section 5.1).
+Small cell lung cancer
+
+Tecentriq, in combination with carboplatin and etoposide, is indicated for the first-line treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC) (see section 5.1).

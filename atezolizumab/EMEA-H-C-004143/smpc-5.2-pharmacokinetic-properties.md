@@ -36,10 +36,10 @@ No dedicated studies of atezolizumab have been conducted in elderly patients.
 The effect of age on the pharmacokinetics of atezolizumab was assessed in a population pharmacokinetic analysis.
 Age was not identified as a significant covariate influencing atezolizumab pharmacokinetics based on patients of age range of 21-89 years (n=472), and median of 62 years of age.
 No clinically important difference was observed in the pharmacokinetics of atezolizumab among patients < 65 years (n=274), patients between 65−75 years (n=152) and patients > 75 years (n=46) (see section 4.2).
+
 Paediatric population
 
 No studies have been conducted to investigate the pharmacokinetics of atezolizumab in children or adolescents.
-
 Renal impairment
 
 No dedicated studies of atezolizumab have been conducted in patients with renal impairment.

@@ -2,7 +2,7 @@
 
 One 14 mL vial of concentrate contains 840 mg of atezolizumab*.
 
-After dilution (see section 6.6), one mL of solution contains approximately 3.2 mg of atezolizumab for the 840 mg dose and approximately 6.0 mg of atezolizumab for the 1680 mg dose..
+After dilution (see section 6.6), one mL of solution contains approximately 3.2 mg of atezolizumab for the 840 mg dose and approximately 6.0 mg of atezolizumab for the 1680 mg dose.
 
 *Atezolizumab is an Fc-engineered, humanised IgG1 anti-programmed death-ligand 1 (PD-L1) monoclonal antibody produced in Chinese hamster ovary cells by recombinant DNA technology.
 
