@@ -23,7 +23,10 @@ Skin infection* 14 3
 Common Sepsis*# 5 4
 Urinary tract infection 10 2
 Sinusitis* 10 1
-Uncommon Hepatitis B reactivation@ <1 <1
+Uncommon Cryptococcal infections* <1 0
+Pneumocystis infections* # 1 1
+Aspergillus infections* 1 <1
+Hepatitis B reactivation@ <1 <1
 Neoplasms benign and Common Non-melanoma skin cancer* 6 1
 malignant (incl cysts and Basal cell carcinoma 3 <1
 polyps) Squamous cell carcinoma 2 <1
@@ -53,7 +56,7 @@ Vomiting 13 <1
 Stomatitis* 12 1
 Nausea 25 1
 Constipation 16 <1
-Hepatobiliary disorders Not known Hepatic failure*,a Not known Not known
+Hepatobiliary disorders Uncommon Hepatic failure*,a <1 <1
 Skin and subcutaneous Very common Rash* 31 3
 tissue disorders Common Urticariaa 1 <1
 Erythemaa 2 0
@@ -91,6 +94,7 @@ The median duration of treatment for MCL was 11 months with 31% and 14% of patie
 The overall known safety profile of IMBRUVICA-exposed patients remained consistent, other than an increasing prevalence of hypertension, with no new safety concerns identified.
 The prevalence for Grade 3 or greater hypertension was 4% (year 0-1), 6% (year 1-2), 8% (year 2-3), and 8% (year 3-4).
 The incidence for the 4-year period was 10%.
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
@@ -99,12 +103,16 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 [IMBRUVICA 140 mg film-coated tablets]
 
 Infections and Very common Pneumonia*# 16 10
-infestations Upper respiratory tract infection 18 1
+infestations Upper respiratory tract 18 1
+infection 14 3
+Skin infection*
 Immune system Common Interstitial lung disease*,#,a 2 <1
 disorders
 Metabolism and Common Tumour lysis syndromea 1 1
 nutrition disorders Hyperuricaemia 8 2
 Nervous system Very common Headache 13 1
 disorders Common Peripheral neuropathy*,a 5 <1
+Uncommon Ventricular 1 <1
+tachyarrhythmia*,a,b
 Gastrointestinal Very common Diarrhoea 39 3
 disorders Vomiting 13 <1

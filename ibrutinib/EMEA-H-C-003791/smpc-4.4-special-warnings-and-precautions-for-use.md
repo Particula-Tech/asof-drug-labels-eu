@@ -28,6 +28,8 @@ Most patients with fatal infections also had neutropenia.
 Patients should be monitored for fever, neutropenia and infections and appropriate anti-infective therapy should be instituted as indicated.
 Consider prophylaxis according to standard of care in patients who are at increased risk for opportunistic infections.
 
+Cases of invasive fungal infections, including cases of Aspergillosis, Cryptococcosis and Pneumocystis jiroveci infections have been reported following the use of ibrutinib.
+Reported cases of invasive fungal infections have been associated with fatal outcomes.
 Cases of progressive multifocal leukoencephalopathy (PML) including fatal ones have been reported following the use of ibrutinib within the context of a prior or concomitant immunosuppressive therapy.
 Physicians should consider PML in the differential diagnosis in patients with new or worsening neurological, cognitive or behavioral signs or symptoms.
 If PML is suspected then appropriate diagnostic evaluations should be undertaken and treatment suspended until PML is excluded.
@@ -69,10 +71,10 @@ Cases of hepatitis B reactivation have been reported in patients receiving IMBRU
 Hepatitis B virus (HBV) status should be established before initiating treatment with IMBRUVICA.
 For patients who test positive for HBV infection, consultation with a physician with expertise in the treatment of hepatitis B is recommended.
 If patients have positive hepatitis B serology, a liver disease expert should be consulted before the start of treatment and the patient should be monitored and managed following local medical standards to prevent hepatitis B reactivation.
-
 Hypertension
 Hypertension has occurred in patients treated with IMBRUVICA (see section 4.8).
 Regularly monitor blood pressure in patients treated with IMBRUVICA and initiate or adjust antihypertensive medication throughout treatment with IMBRUVICA as appropriate.
+
 Drug-drug interactions
 Co-administration of strong or moderate CYP3A4 inhibitors with IMBRUVICA may lead to increased ibrutinib exposure and consequently a higher risk for toxicity.
 On the contrary, co-administration of CYP3A4 inducers may lead to decreased IMBRUVICA exposure and consequently a risk for lack of efficacy.

@@ -25,6 +25,7 @@ Monitor patient closely for toxicity and follow dose modification guidance as ne
 
 Co-administration of grapefruit juice, containing CYP3A4 inhibitors, in eight healthy subjects, increased exposure (Cmax and AUC) of ibrutinib by approximately 4- and 2-fold, respectively.
 Grapefruit and Seville oranges should be avoided during IMBRUVICA treatment, as these contain moderate inhibitors of CYP3A4 (see section 4.2).
+
 Agents that may decrease ibrutinib plasma concentrations
 Administration of IMBRUVICA with inducers of CYP3A4 can decrease ibrutinib plasma concentrations.
 

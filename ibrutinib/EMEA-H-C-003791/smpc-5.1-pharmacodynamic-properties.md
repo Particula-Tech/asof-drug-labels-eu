@@ -18,7 +18,6 @@ In both disease types, lymphocytosis typically occurs during the first month of 
 A large increase in the number of circulating lymphocytes (e.g., >400,000/mcL) has been observed in some patients.
 
 Lymphocytosis was not observed in patients with WM treated with IMBRUVICA.
-
 In vitro platelet aggregation
 In an in vitro study, ibrutinib demonstrated inhibition of collagen-induced platelet aggregation.
 Ibrutinib did not show meaningful inhibition of platelet aggregation using other agonists of platelet aggregation.
@@ -66,6 +65,7 @@ Treatment on both arms continued until disease progression or unacceptable toxic
 The median age was 68 years (range, 34; 88 years), 74% were male and 87% were Caucasian.
 The median time since diagnosis was 43 months, and median number of prior treatments was 2 (range: 1 to 9 treatments), including 51% with prior high-dose chemotherapy, 18% with prior bortezomib, 5% with prior lenalidomide, and 24% with prior stem cell transplant.
 At baseline, 53% of patients had bulky disease (≥5 cm), 21% had high-risk score by Simplified MIPI, 60% had extranodal disease and 54% had bone marrow involvement at screening.
+
 Progression-free survival (PFS) was assessed by IRC according to the revised International Working Group (IWG) for non-Hodgkin’s lymphoma (NHL) criteria.
 Efficacy results for Study MCL3001 are shown in Table 3 and the Kaplan-Meier curve for PFS in Figure 1.
 
@@ -84,7 +84,6 @@ NE=not estimable; HR=hazard ratio; CI=confidence interval; ORR=overall response 
 A smaller proportion of patients treated with ibrutinib experienced a clinically meaningful worsening of lymphoma symptoms versus temsirolimus (27% versus 52%) and time to worsening of symptoms occurred more slowly with ibrutinib versus temsirolimus (HR 0.27, p<0.0001).
 
 Figure 1: Kaplan-Meier curve of PFS (ITT Population) in Study MCL3001
-
 CLL
 Patients previously untreated for CLL
 Single agent
