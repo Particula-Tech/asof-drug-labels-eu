@@ -1,10 +1,10 @@
 # 4.2 Posology and method of administration
 
-Treatment should be initiated by and remain under the guidance of an appropriately qualified specialist in transplantation.
-
 Posology
 
 Prophylaxis of organ rejection
+
+Treatment should be initiated by and remain under the guidance of an appropriately qualified specialist in transplantation.
 
 Initial therapy (2 to 3 months post-transplantation)
 The usual dose regimen for Rapamune is a 6 mg single oral loading dose, administered as soon as possible after transplantation, followed by 2 mg once daily until results of therapeutic monitoring of the medicinal product are available (see Therapeutic monitoring of the medicinal product and dose adjustment).
@@ -59,6 +59,8 @@ Physicians should therefore remain continuously informed by responsible represen
 
 Patients with sporadic lymphangioleiomyomatosis (S-LAM)
 
+Treatment should be initiated by and remain under the guidance of an appropriately qualified specialist.
+
 For patients with S-LAM, the initial Rapamune dose should be 2 mg/day.
 Sirolimus whole blood trough concentrations should be measured in 10 to 20 days, with dosage adjustment to maintain concentrations between 5 to 15 ng/mL.
 
@@ -87,8 +89,8 @@ In patients with severe hepatic impairment, it is recommended that the maintenan
 
 It is recommended that sirolimus whole blood trough levels be closely monitored in patients with impaired hepatic function (see Therapeutic monitoring of the medicinal product and dose adjustment).
 It is not necessary to modify the Rapamune loading dose.
-
 In patients with severe hepatic impairment, monitoring should be performed every 5 to 7 days until 3 consecutive trough levels have shown stable concentrations of sirolimus after dose adjustment or after loading dose due to the delay in reaching steady-state because of the prolonged half-life.
+
 Paediatric population
 The safety and efficacy of Rapamune in children and adolescents less than 18 years of age have not been established.
 

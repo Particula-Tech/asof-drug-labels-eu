@@ -4,7 +4,7 @@ Each mL contains 1 mg sirolimus.
 Each 60 mL bottle contains 60 mg sirolimus.
 
 Excipients with known effect
-Each mL contains 20 mg of ethanol and 20 mg of soya oil.
+Each mL contains up to 25 mg of ethanol, approximately 350 mg of propylene glycol (E1520), and 20 mg of soya oil.
 
 For the full list of excipients, see section 6.1.
 

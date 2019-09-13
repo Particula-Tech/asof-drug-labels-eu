@@ -3,7 +3,6 @@
 Undesirable effects observed with prophylaxis of organ rejection in renal transplantation
 
 The most commonly reported adverse reactions (occurring in >10% of patients) are thrombocytopaenia, anaemia, pyrexia, hypertension, hypokalaemia, hypophosphataemia, urinary tract infection, hypercholesterolaemia, hyperglycaemia, hypertriglyceridaemia, abdominal pain, lymphocoele, peripheral oedema, arthralgia, acne, diarrhoea, pain, constipation, nausea, headache, increased blood creatinine, and increased blood lactate dehydrogenase (LDH).
-
 The incidence of any adverse reaction(s) may increase as the trough sirolimus level increases.
 
 The following list of adverse reactions is based on experience from clinical studies and on postmarketing experience.
@@ -49,7 +48,6 @@ Rare reports of fatal hepatic necrosis have been reported with elevated trough s
 Cases of interstitial lung disease (including pneumonitis and infrequently bronchiolitis obliterans organising pneumonia (BOOP) and pulmonary fibrosis), some fatal, with no identified infectious aetiology have occurred in patients receiving immunosuppressive regimens including Rapamune.
 In some cases, the interstitial lung disease has resolved upon discontinuation or dose reduction of Rapamune.
 The risk may be increased as the trough sirolimus level increases.
-
 Impaired healing following transplant surgery has been reported, including fascial dehiscence, incisional hernia, and anastomotic disruption (e.g. wound, vascular, airway, ureteral, biliary).
 
 Impairments of sperm parameters have been observed among some patients treated with Rapamune.
@@ -60,6 +58,7 @@ In patients with delayed graft function, sirolimus may delay recovery of renal f
 The concomitant use of sirolimus with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced HUS/TTP/TMA.
 
 Focal segmental glomerulosclerosis has been reported.
+
 There have also been reports of fluid accumulation, including peripheral oedema, lymphoedema, pleural effusion and pericardial effusions (including haemodynamically significant effusions in children and adults) in patients receiving Rapamune.
 
 In a study evaluating the safety and efficacy of conversion from calcineurin inhibitors to sirolimus (target levels of 12 - 20 ng/mL in maintenance renal transplant patients, enrollment was stopped in the subset of patients (n=90) with a baseline glomerular filtration rate of less than 40 mL/min (see section 5.1).
@@ -83,7 +82,6 @@ Among 89 patients known to be Epstein-Barr virus (EBV) seronegative prior to tra
 All patients who developed PTLD were aged below 18 years.
 
 There is insufficient experience to recommend the use of Rapamune in children and adolescents (see section 4.2).
-
 Undesirable effects observed with patients with S-LAM
 
 Safety was assessed in a controlled study involving 89 patients with LAM, of which 81 patients had S-LAM and 42 of whom were treated with Rapamune (see section 5.1).

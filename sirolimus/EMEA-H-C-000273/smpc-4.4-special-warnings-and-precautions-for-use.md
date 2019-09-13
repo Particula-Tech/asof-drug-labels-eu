@@ -21,6 +21,7 @@ Caution should be exercised when co-administering other agents that are known to
 Patients treated with ciclosporin and Rapamune beyond 3 months had higher serum creatinine levels and lower calculated glomerular filtration rates compared to patients treated with ciclosporin and placebo or azathioprine controls.
 Patients who were successfully withdrawn from ciclosporin had lower serum creatinine levels and higher calculated glomerular filtration rates, as well as lower incidence of malignancy, compared to patients remaining on ciclosporin.
 The continued co-administration of ciclosporin and Rapamune as maintenance therapy cannot be recommended.
+
 Based on information from subsequent clinical studies, the use of Rapamune, mycophenolate mofetil, and corticosteroids, in combination with IL-2 receptor antibody (IL2R Ab) induction, is not recommended in the de novo renal transplant setting (see section 5.1).
 
 Periodic quantitative monitoring of urinary protein excretion is recommended.
@@ -54,10 +55,10 @@ Malignancy
 
 Increased susceptibility to infection and the possible development of lymphoma and other malignancies, particularly of the skin, may result from immunosuppression (see section 4.8).
 As usual for patients with increased risk for skin cancer, exposure to sunlight and ultraviolet (UV) light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
-
 Infections
 
 Oversuppression of the immune system can also increase susceptibility to infection, including opportunistic infections (bacterial, fungal, viral and protozoal), fatal infections, and sepsis.
+
 Among these conditions in renal transplant patients are BK virus-associated nephropathy and JC virus-associated progressive multifocal leukoencephalopathy (PML).
 These infections are often related to a high total immunosuppressive burden and may lead to serious or fatal conditions that physicians should consider in the differential diagnosis in immunosuppressed patients with deteriorating renal function or neurological symptoms.
 
@@ -89,8 +90,8 @@ Systemic effects
 
 There have been reports of impaired or delayed wound healing in patients receiving Rapamune, including lymphocele in renal transplant patients and wound dehiscence.
 Patients with a body mass index (BMI) greater than 30 kg/m2 may be at increased risk of abnormal wound healing based on data from the medical literature.
-
 There have also been reports of fluid accumulation, including peripheral oedema, lymphoedema, pleural effusion and pericardial effusions (including haemodynamically significant effusions in children and adults), in patients receiving Rapamune.
+
 The use of Rapamune was associated with increased serum cholesterol and triglycerides that may require treatment.
 Patients administered Rapamune should be monitored for hyperlipidaemia using laboratory tests and if hyperlipidaemia is detected, subsequent interventions such as diet, exercise, and lipid-lowering agents should be initiated.
 The risk/benefit should be considered in patients with established hyperlipidaemia before initiating an immunosuppressive regimen, including Rapamune.
@@ -98,8 +99,8 @@ Similarly the risk/benefit of continued Rapamune therapy should be re-evaluated 
 
 Ethanol
 
-Rapamune oral solution contains up to 2.5 vol % ethanol (alcohol).
-A 6 mg loading dose contains up to 150 mg of alcohol which is equivalent to 3 mL beer or 1.25 mL wine.
+Rapamune oral solution contains up to 3.17 vol % ethanol (alcohol).
+A 6 mg loading dose contains up to 150 mg of alcohol which is equivalent to 3.80 mL beer or 1.58 mL wine.
 This dose could potentially be harmful for those suffering from alcoholism and should be taken into account in pregnant or breast-feeding women, children and high-risk groups such as patients with liver disease or epilepsy.
 
 Maintenance doses of 4 mg or less contain small amounts of ethanol (100 mg or less) that are likely to be too low to be harmful.

@@ -2,7 +2,7 @@
 
 Polysorbate 80 (E433)
 
-Phosal 50 PG (phosphatidylcholine, propylene glycol, mono-and diglycerides, ethanol, soya fatty acids and ascorbyl palmitate).
+Phosal 50 PG (phosphatidylcholine, propylene glycol [E1520], mono-and diglycerides, ethanol, soya fatty acids and ascorbyl palmitate).
 
 [Rapamune 0.5 mg coated tablets]
 
@@ -27,7 +27,7 @@ Brown iron oxide (E172)
 Poloxamer 188 α-tocopherol
 Povidone
 Carnauba wax
-Printing ink (Shellac, Iron Oxide Red, Propylene Glycol, Ammonium Hydroxide, Simethicone) Rapamune 1 mg coated tablets
-Printing ink (Shellac, Iron Oxide Red, Propylene Glycol, Ammonium Hydroxide, Simethicone)
+Printing ink (Shellac, Iron Oxide Red, Propylene Glycol [E1520], Concentrated Ammonia Solution, Simethicone)
+Rapamune 1 mg coated tablets
 
 Rapamune 2 mg coated tablets

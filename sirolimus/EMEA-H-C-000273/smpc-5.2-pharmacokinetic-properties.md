@@ -28,7 +28,6 @@ At steady-state, 8 children aged 6-11 years received mean ± SD doses of 1.75 ±
 The younger children had a higher weight-normalized Cl/F (214 mL/h/kg) compared with the adolescents (136 mL/h/kg).
 These data indicate that younger children might require higher bodyweight-adjusted doses than adolescents and adults to achieve similar target concentrations.
 However, the development of such special dosing recommendations for children requires more data to be definitely confirmed.
-
 In mild and moderate hepatically impaired patients (Child-Pugh classification A or B), mean values for sirolimus AUC and t1/2 were increased 61% and 43%, respectively, and CL/F was decreased 33% compared to normal healthy subjects.
 In severe hepatically impaired patients (Child-Pugh classification C), mean values for sirolimus AUC and t1/2 were increased 210% and 170% respectively, and CL/F was decreased by 67% compared to normal healthy subjects.
 The longer half-lives observed in hepatically impaired patients delay reaching steady state.
@@ -36,6 +35,7 @@ The longer half-lives observed in hepatically impaired patients delay reaching s
 Pharmacokinetic/pharmacodynamic relationship
 
 The pharmacokinetics of sirolimus were similar in various populations with renal function ranging from normal to absent (dialysis patients).
+
 Lymphangioleiomyomatosis (LAM)
 
 In a clinical trial of patients with LAM, the median whole blood sirolimus trough concentration after 3 weeks of receiving sirolimus tablets at a dose of 2 mg/day was 6.8 ng/mL (interquartile range 4.6 to 9.0 ng/mL; n=37).

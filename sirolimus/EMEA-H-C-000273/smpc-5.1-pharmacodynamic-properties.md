@@ -28,6 +28,7 @@ At 12, 24 and 36 months, graft and patient survival were similar for both groups
 At 48 months, there was a statistically significant difference in graft survival in favour of the Rapamune following ciclosporin elimination group compared to the Rapamune with ciclosporin therapy group (including and excluding loss to follow-up).
 There was a significantly higher rate of first biopsy-proven rejection in the ciclosporin elimination group compared to the ciclosporin maintenance group during the period post-randomisation to 12 months (9.8% vs. 4.2%, respectively).
 Thereafter, the difference between the two groups was not significant.
+
 The mean calculated glomerular filtration rate (GFR) at 12, 24, 36, 48 and 60 months was significantly higher for patients receiving Rapamune following ciclosporin elimination than for those in the Rapamune with ciclosporin therapy group.
 Based upon the analysis of data from 36 months and beyond, which showed a growing difference in graft survival and renal function, as well as significantly lower blood pressure in the ciclosporin elimination group, it was decided to discontinue subjects from the Rapamune with ciclosporin group.
 By 60 months, the incidence of non-skin malignancies was significantly higher in the cohort who continued ciclosporin as compared with the cohort who had ciclosporin withdrawn (8.4% vs. 3.8%, respectively).
@@ -57,6 +58,7 @@ A lower incidence of squamous cell carcinoma of the skin was observed in the sir
 In two multi-centre clinical studies, de novo renal transplant patients treated with sirolimus, mycophenolate mofetil (MMF), corticosteroids, and an IL-2 receptor antagonist had significantly higher acute rejection rates and numerically higher death rates compared to patients treated with a calcineurin inhibitor, MMF, corticosteroids, and an IL-2 receptor antagonist (see section 4.4).
 Renal function was not better in the treatment arms with de novo sirolimus without a calcineurin inhibitor.
 An abbreviated dosing schedule of daclizumab was used in one of the studies.
+
 In a randomised, comparative evaluation of ramipril versus placebo for the prevention of proteinuria in kidney transplant patients converted from calcineurin inhibitors to sirolimus, a difference in the number of patients with BCAR through 52 weeks was observed [13 (9.5%) vs. 5 (3.2%), respectively; p=0.073].
 Patients initiated on ramipril 10 mg had a higher rate of BCAR (15%) compared to patients initiated on ramipril 5 mg (5%).
 Most rejections occurred within the first six months following conversion and were mild in severity; no graft losses were reported during the study (see section 4.4).

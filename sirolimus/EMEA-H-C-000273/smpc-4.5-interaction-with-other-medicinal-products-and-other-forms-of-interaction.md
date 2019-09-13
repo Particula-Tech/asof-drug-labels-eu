@@ -22,13 +22,13 @@ Voriconazole (CYP3A4 inhibitor)
 
 Co-administration of sirolimus (2 mg single dose) with multiple-dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 100 mg every 12 hours for 8 days) in healthy subjects has been reported to increase sirolimus Cmax and AUC by an average of 7-fold and 11-fold respectively.
 Co-administration of sirolimus and voriconazole is not recommended (see section 4.4).
-
 Diltiazem (CYP3A4 inhibitor)
 
 The simultaneous oral administration of 10 mg of Rapamune oral solution and 120 mg of diltiazem significantly affected the bioavailability of sirolimus.
 Sirolimus Cmax, tmax, and AUC were increased 1.4-fold, 1.3-fold, and 1.6-fold, respectively.
 Sirolimus did not affect the pharmacokinetics of either diltiazem or its metabolites desacetyldiltiazem and desmethyldiltiazem.
 If diltiazem is administered, sirolimus blood levels should be monitored and a dose adjustment may be necessary.
+
 Verapamil (CYP3A4 inhibitor)
 
 Multiple-dose administration of verapamil and sirolimus oral solution significantly affected the rate and extent of absorption of both medicinal products.
@@ -70,6 +70,7 @@ Inhibitors of P-gp may decrease the efflux of sirolimus from intestinal cells an
 Grapefruit juice affects CYP3A4-mediated metabolism, and should therefore be avoided.
 
 Pharmacokinetic interactions may be observed with gastrointestinal prokinetic agents, such as cisapride and metoclopramide.
+
 No clinically significant pharmacokinetic interaction was observed between sirolimus and any of the following substances: acyclovir, atorvastatin, digoxin, glibenclamide, methylprednisolone, nifedipine, prednisolone, and trimethoprim/sulfamethoxazole.
 
 Paediatric population
