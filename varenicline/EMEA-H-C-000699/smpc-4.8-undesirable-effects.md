@@ -50,6 +50,9 @@ Uncommon Seizure, tremor, lethargy, hypoaesthesia
 Rare Cerebrovascular accident, hypertonia, dysarthria, coordination abnormal,
 
 hypogeusia, circadian rhythm sleep disorder
+
+Not known Transient loss of consciousness
+
 System Organ Adverse Drug Reactions
 Class
 Eye disorders

@@ -24,12 +24,12 @@ In patients with severe renal impairment, the concomitant use of cimetidine and 
 Digoxin
 
 Varenicline did not alter the steady-state pharmacokinetics of digoxin.
+
 Warfarin
 
 Varenicline did not alter the pharmacokinetics of warfarin.
 Prothrombin time (INR) was not affected by varenicline.
 Smoking cessation itself may result in changes to warfarin pharmacokinetics (see section 4.4).
-
 Alcohol
 
 There are limited clinical data on any potential interaction between alcohol and varenicline.

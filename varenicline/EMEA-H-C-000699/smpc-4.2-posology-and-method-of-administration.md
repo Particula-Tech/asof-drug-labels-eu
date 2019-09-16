@@ -20,8 +20,8 @@ Patients should reduce smoking during the first 12 weeks of treatment and quit b
 Patients should then continue taking CHAMPIX for an additional 12 weeks for a total of 24 weeks of treatment (see section 5.1).
 
 Patients who are motivated to quit and who did not succeed in stopping smoking during prior CHAMPIX therapy, or who relapsed after treatment, may benefit from another quit attempt with CHAMPIX (see section 5.1).
-Patients who cannot tolerate adverse reactions of CHAMPIX may have the dose lowered temporarily or permanently to 0.5 mg twice daily.
 
+Patients who cannot tolerate adverse reactions of CHAMPIX may have the dose lowered temporarily or permanently to 0.5 mg twice daily.
 In smoking cessation therapy, risk for relapse to smoking is elevated in the period immediately following the end of treatment.
 In patients with a high risk of relapse, dose tapering may be considered (see section 4.4).
 
@@ -42,8 +42,7 @@ Hepatic impairment
 No dosage adjustment is necessary for patients with hepatic impairment (see section 5.2).
 
 Paediatric population
-The safety and efficacy of CHAMPIX in children or adolescents below 18 years have not yet been established.
-Currently available data are described in section 5.2 but no recommendation on a posology can be made.
+CHAMPIX is not recommended for use in paediatric patients because its efficacy in this population was not demonstrated (see sections 5.1 and 5.2).
 
 Method of administration
 

@@ -4,14 +4,15 @@ Effect of smoking cessation
 
 Physiological changes resulting from smoking cessation, with or without treatment with CHAMPIX, may alter the pharmacokinetics or pharmacodynamics of some medicinal products, for which dosage adjustment may be necessary (examples include theophylline, warfarin and insulin).
 As smoking induces CYP1A2, smoking cessation may result in an increase of plasma levels of CYP1A2 substrates.
+
 Neuropsychiatric symptoms
 
 Changes in behaviour or thinking, anxiety, psychosis, mood swings, aggressive behaviour, depression, suicidal ideation and behaviour and suicide attempts have been reported in patients attempting to quit smoking with CHAMPIX in the post-marketing experience.
-
 A large randomised, double-blind, active and placebo-controlled study was conducted to compare the risk of serious neuropsychiatric events in patients with and without a history of psychiatric disorder treated for smoking cessation with varenicline, bupropion, nicotine replacement therapy patch (NRT) or placebo.
 The primary safety endpoint was a composite of neuropsychiatric adverse events that have been reported in post-marketing experience.
 
-The use of varenicline in patients with or without a history of psychiatric disorder was not associated with an increased risk of serious neuropsychiatric adverse events in the composite primary endpoint compared with placebo (see section 5.1 Pharmacodynamic properties - Study in Subjects with and without a History of Psychiatric Disorder).
+The use of varenicline in patients with or without a history of psychiatric disorder was not associated with an increased risk of serious neuropsychiatric adverse events in the composite primary endpoint compared with placebo (see section 5.1 Pharmacodynamic properties - Study in
+Subjects with and without a History of Psychiatric Disorder).
 
 Depressed mood, rarely including suicidal ideation and suicide attempt, may be a symptom of nicotine withdrawal.
 
@@ -37,6 +38,7 @@ Treatment discontinuation
 
 At the end of treatment, discontinuation of CHAMPIX was associated with an increase in irritability, urge to smoke, depression, and/or insomnia in up to 3% of patients.
 The prescriber should inform the patient accordingly and discuss or consider the need for dose tapering.
+
 Cardiovascular events
 
 Patients taking CHAMPIX should be instructed to notify their doctor of new or worsening cardiovascular symptoms and to seek immediate medical attention if they experience signs and symptoms of myocardial infarction or stroke (see section 5.1).
