@@ -3,6 +3,7 @@
 Summary of the safety profile
 
 The most frequently reported adverse drug reactions (ADRs) are upper respiratory tract infections (most frequently nasopharyngitis, rhinitis).
+
 Tabulated list of adverse reactions
 
 ADRs from clinical studies and post-marketing reports (Table 1) are listed by MedDRA system organ class.
@@ -23,12 +24,14 @@ Table 1 List of adverse reactions in clinical studies1) and post-marketing exper
 |  | Uncommon | Oral candidiasis |
 |  |  | Tinea pedis |
 |  |  | Otitis externa |
+|  |  | Lower respiratory tract infections |
 |  | Not known | Mucosal and cutaneous candidiasis (including oesophageal candidiasis) |
 | Blood and lymphatic system disorders | Uncommon | Neutropenia |
 | Immune system disorders | Rare | Anaphylactic reactions |
 | Eye disorders | Uncommon | Conjunctivitis |
 | Respiratory, thoracic and mediastinal disorders | Common | Rhinorrhoea |
 | Gastrointestinal disorders | Common | Diarrhoea |
+|  | Uncommon | Inflammatory bowel disease |
 | Skin and subcutaneous tissue disorders | Uncommon | Urticaria |
 | 1) Placebo-controlled clinical studies (phase III) in plaque psoriasis, PsA and AS patients exposed to 300 mg, 150 mg, 75 mg or placebo up to 12 weeks (psoriasis) or 16 weeks (PsA and AS) treatment duration |  |  |
 
@@ -39,6 +42,7 @@ In the placebo-controlled period of clinical studies in plaque psoriasis (a tota
 The majority of infections consisted of non-serious and mild to moderate upper respiratory tract infections, such as nasopharyngitis, which did not necessitate treatment discontinuation.
 There was an increase in mucosal or cutaneous candidiasis, consistent with the mechanism of action, but the cases were mild or moderate in severity, non-serious, responsive to standard treatment and did not necessitate treatment discontinuation.
 Serious infections occurred in 0.14% of patients treated with secukinumab and in 0.3% of patients treated with placebo (see section 4.4).
+
 Over the entire treatment period (a total of 3,430 patients treated with secukinumab for up to 52 weeks for the majority of patients), infections were reported in 47.5% of patients treated with secukinumab (0.9 per patient-year of follow-up).
 Serious infections were reported in 1.2% of patients treated with secukinumab (0.015 per patient-year of follow-up).
 
