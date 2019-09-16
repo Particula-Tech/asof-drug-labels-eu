@@ -33,7 +33,7 @@ Anaphylaxis and angioedema have occurred.
 If an anaphylactic or other serious hypersensitivity reaction occurs, appropriate therapy should be instituted and administration of STELARA should be discontinued (see section 4.8).
 
 Respiratory
-Cases of allergic alveolitis and eosinophilic pneumonia have been reported during post-approval use of ustekinumab.
+Cases of allergic alveolitis, eosinophilic pneumonia, and non-infectious organising pneumonia have been reported during post-approval use of ustekinumab.
 Clinical presentations included cough, dyspnoea, and interstitial infiltrates following one to three doses.
 Serious outcomes have included respiratory failure and prolonged hospitalisation.
 Improvement has been reported after discontinuation of ustekinumab and also, in some cases, administration of corticosteroids.

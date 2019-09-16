@@ -10,9 +10,9 @@ STELARA treatment is to be initiated with a single intravenous dose based on bod
 The infusion solution is to be composed of the number of vials of STELARA 130 mg as specified in
 Table 1 (see section 6.6 for preparation).
 Table 1 Initial intravenous dosing of STELARA
-Body weight of patient at the Recommended Number of 130 mg
 
-time of dosing dosea STELARA Vials
+Body weight of patient at the time of Recommended dosea Number of 130 mg
+dosing STELARA Vials
 ≤55 kg 260 mg 2
 > 55 kg to ≤85 kg 390 mg 3
 > 85 kg 520 mg 4

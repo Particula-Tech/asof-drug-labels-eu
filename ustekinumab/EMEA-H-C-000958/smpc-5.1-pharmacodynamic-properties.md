@@ -9,8 +9,8 @@ Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12Rβ1 cel
 Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors.
 IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL-23 induces the T helper 17 (Th17) pathway.
 However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis.
-
 By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
+
 In patients with Crohn’s disease and ulcerative colitis, treatment with ustekinumab resulted in a decrease in inflammatory markers including C-Reactive Protein (CRP) and fecal calprotectin during the induction phase, which were then maintained throughout the maintenance phase.
 
 Immunisation
@@ -38,7 +38,6 @@ Patients in UNITI-2 had failed at least one conventional therapy, including cort
 In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 3).
 Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8.
 In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
-
 Table 3: Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
 
 |  | UNITI-1* |  | UNITI-2** |  |

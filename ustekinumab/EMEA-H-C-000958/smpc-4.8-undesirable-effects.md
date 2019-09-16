@@ -35,6 +35,7 @@ Respiratory, thoracic and Common: Oropharyngeal pain
 mediastinal disorders Uncommon: Nasal congestion
 
 Rare: Allergic alveolitis, eosinophilic pneumonia
+Very rare: Organising pneumonia*
 
 Gastrointestinal disorders Common: Diarrhoea, nausea, vomiting
 
@@ -49,6 +50,8 @@ Musculoskeletal and connective Common: Back pain, myalgia, arthralgia tissue dis
 General disorders and Common: Fatigue, injection site erythema, injection site pain
 
 administration site conditions Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia
+
+* See section 4.4, Systemic and respiratory hypersensitivity reactions.
 
 Description of selected adverse reactions
 Infections
