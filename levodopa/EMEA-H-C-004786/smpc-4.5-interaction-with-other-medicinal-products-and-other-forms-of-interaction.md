@@ -1,0 +1,45 @@
+# 4.5 Interaction with other medicinal products and other forms of interaction
+
+Non-selective Monoamine Oxidase (MAO) inhibitors
+
+The use of non-selective MAO inhibitors with levodopa is contraindicated (see section 4.3).
+Any non-selective MAO inhibitors should be discontinued at least 14 days prior to initiating levodopa.
+
+Selective Monoamine Oxidase (MAO) inhibitors
+
+The use of selective MAO-B inhibitors (e.g. rasagiline, selegiline, and safinamide) with levodopa may be associated with orthostatic hypotension.
+Patients who are taking these medicinal products should be monitored closely.
+
+Dopamine D2 receptor antagonists and isoniazid
+
+Dopamine D2 receptor antagonists (e.g. phenothiazines, butyrophenones, risperidone, metoclopramide) and isoniazid may reduce the effectiveness of levodopa.
+Patients who are taking these medicinal products should be monitored for worsening Parkinson’s symptoms (see section 4.4).
+
+Antihypertensives
+Symptomatic postural hypotension has occurred when combinations of levodopa and a dopa-decarboxylase inhibitor are added to the treatment of patients already receiving certain antihypertensives.
+Dose adjustment of the antihypertensive medicinal products may be required during concomitant use of Inbrija.
+
+Anticholinergics
+
+Anticholinergic medicinal products can work synergistically with levodopa, in order to improve tremor.
+Concurrent use can, however, cause a worsening of involuntary motor disorders.
+Anticholinergic medicinal products may impair the effect of oral levodopa medicinal products, due to a delayed absorption.
+A dose adjustment of levodopa may be required.
+
+COMT inhibitors
+
+The addition of entacapone to a levodopa/dopa-decarboxylase inhibitor has been demonstrated to increase the levodopa bioavailability by 30%.
+A dose adjustment of levodopa may be required with concomitant use of COMT inhibitors.
+
+Tricyclic antidepressants
+
+There have been rare reports of adverse reactions, including hypertension and dyskinesia, resulting from the concomitant use of tricyclic antidepressants and a levodopa/dopa-decarboxylase inhibitor.
+
+Amantadine
+
+Concurrent administration of levodopa and amantadine may increase confusion, hallucinations, nightmares, gastro-intestinal disturbances, or other atropine-like side effects.
+Psychotic reactions have been observed in patients receiving amantadine and levodopa.
+
+Local or systemic pulmonary medicinal products
+
+Interactions of Inbrija with local or systemic pulmonary medicinal products were not investigated because Inbrija is not recommended in patients with asthma, chronic obstructive pulmonary disease (COPD), or other chronic underlying lung disease (see section 4.4).
