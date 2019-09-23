@@ -293,6 +293,8 @@ Of the 418 patients treated with Caelyx 50 mg/m2/cycle, and having a baseline me
 Only 13 of these 88 patients (15%) had at least one clinically significant change in their LVEF, defined as an LVEF value less than 45% or a decrease of at least 20 points from baseline.
 Furthermore, only 1 patient (cumulative anthracycline dose of 944 mg/m2), discontinued study treatment because of clinical symptoms of congestive heart failure.
 
+In a pooled analysis of 4,231 patients receiving Caelyx for breast cancer, ovarian cancer, multiple myeloma, or AIDS-related KS, ventricular arrythmia, palpitations, cardiac failure, cardiac arrest, bundle branch block right, and ejection fraction decreased were reported uncommonly, and atrioventricular block, cyanosis, and conduction disorder were reported rarely.
+
 As with other DNA-damaging antineoplastic agents, secondary acute myeloid leukemias and myelodysplasias have been reported in patients having received combined treatment with doxorubicin.
 Therefore, any patient treated with doxorubicin should be kept under haematological supervision.
 
@@ -301,12 +303,12 @@ Animal studies indicate that administration of doxorubicin hydrochloride as a li
 If any signs or symptoms of extravasation occur (e.g., stinging, erythema) terminate the infusion immediately and restart in another vein.
 The application of ice over the site of extravasation for approximately 30 minutes may be helpful in alleviating the local reaction.
 Caelyx must not be given by the intramuscular or subcutaneous route.
-
 Recall of skin reaction due to prior radiotherapy has rarely occurred with Caelyx administration.
 
 Post-marketing experience
 Adverse drug reactions identified during the post-marketing experience with Caelyx are described in Table 9.
 The frequencies are provided according to the following convention:
+
 Very common ≥1/10
 
 Common ≥1/100 and < 1/10
@@ -323,6 +325,7 @@ Adverse drug reactions identified during the post-marketing experience with Cael
 | Vascular disorders |  |
 | uncommon | venous thromboembolism, including thrombophlebitis, venous thrombosis and pulmonary embolism |
 | Skin and subcutaneous tissue disorders |  |
+| rare | lichenoid keratosis |
 | very rare | erythema multiforme, Stevens Johnson syndrome and toxic epidermal necrolysis |
 
 1 Cases of secondary oral cancer have been reported in patients with long-term (more than one year) exposure to Caelyx or those receiving a cumulative Caelyx dose greater than 720 mg/m2 (see section 4.4).
