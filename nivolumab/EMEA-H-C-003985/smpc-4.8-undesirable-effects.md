@@ -39,6 +39,7 @@ Endocrine disorders
 Common hypothyroidism, hyperthyroidism
 Uncommon adrenal insufficiency, hypopituitarism, hypophysitis, thyroiditis, diabetes mellitus
 Rare diabetic ketoacidosis
+Not known hypoparathyroidismh
 Metabolism and nutrition disorders
 Common decreased appetite
 Uncommon dehydration, metabolic acidosis
@@ -156,6 +157,7 @@ Table 6: Adverse reactions with nivolumab in combination with ipilimumab
 | Very common | hypothyroidism | hypothyroidism, hyperthyroidism |
 | Common | adrenal insufficiency, hypopituitarism, hypophysitis, hyperthyroidism, thyroiditis | adrenal insufficiencyc, hypophysitisc, thyroiditis, diabetes mellitusc |
 | Uncommon | diabetic ketoacidosisc, diabetes mellitusc | diabetic ketoacidosisc, hypopituitarism |
+| Not known | hypoparathyroidismh | hypoparathyroidismh |
 | Metabolism and nutrition disorders |  |  |
 | Very common | decreased appetite | decreased appetite |
 | Common | dehydration | dehydration |
