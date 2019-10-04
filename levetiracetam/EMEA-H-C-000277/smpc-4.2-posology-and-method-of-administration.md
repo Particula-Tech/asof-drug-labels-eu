@@ -47,7 +47,7 @@ Group Creatinine clearance Dose and frequency
 
 (ml/min/1.73m2)
 
-Normal > 80 500 to 1,500 mg twice daily
+Normal ≥ 80 500 to 1,500 mg twice daily
 Mild 50-79 500 to 1,000 mg twice daily
 Moderate 30-49 250 to 750 mg twice daily
 Severe < 30 250 to 500 mg twice daily
@@ -61,22 +61,21 @@ For children with renal impairment, levetiracetam dose needs to be adjusted base
 This recommendation is based on a study in adult renally impaired patients.
 
 The CLcr in ml/min/1.73 m2 may be estimated from serum creatinine (mg/dl) determination, for young adolescents, children and infants, using the following formula (Schwartz formula):
+
 Height (cm) x ks
 CLcr (ml/min/1.73 m2) = ------------------------------------
-Serum Creatinine (mg/dl)
-
-ks= 0.45 in Term infants to 1 year old; ks= 0.55 in Children to less than 13 years and in adolescent female; ks= 0.7 in adolescent male
+Serum Creatinine (mg/dl) ks= 0.45 in Term infants to 1 year old; ks= 0.55 in Children to less than 13 years and in adolescent female; ks= 0.7 in adolescent male
 
 Dosing adjustment for infants, children and adolescents patients weighing less than 50 kg with impaired renal function:
 
 | Group | Creatinine clearance (ml/min/1.73 m2) | Dose and frequency (1) |  |
 | --- | --- | --- | --- |
 |  |  | Infants 1 to less than 6 months | Infants 6 to 23 months, children and adolescents weighing less than 50 kg |
-| Normal | > 80 | 7 to 21 mg/kg (0.07 to 0.21 ml/kg) twice daily | 10 to 30 mg/kg (0.10 to 0.30 ml/kg) twice daily |
+| Normal | ≥ 80 | 7 to 21 mg/kg (0.07 to 0.21 ml/kg) twice daily | 10 to 30 mg/kg (0.10 to 0.30 ml/kg) twice daily |
 | Mild | 50-79 | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) twice daily | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) twice daily |
 | Moderate | 30-49 | 3.5 to 10.5 mg/kg (0.035 to 0.105 ml/kg) twice daily | 5 to 15 mg/kg (0.05 to 0.15 ml/kg) twice daily |
 | Severe | < 30 | 3.5 to 7 mg/kg (0.035 to 0.07 ml/kg) twice daily | 5 to 10 mg/kg (0.05 to 0.10 ml/kg) twice daily |
-| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0(2.) 1(44) ml/kg) once daily | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
+| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) once daily (2) (4) | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
 
 (1) Keppra oral solution should be used for doses under 250 mg, for doses not multiple of 250 mg when dosing recommendation is not achievable by taking multiple tablets and for patients unable to swallow tablets.
 (2) A 10.5 mg/kg (0.105 ml/kg) loading dose is recommended on the first day of treatment with levetiracetam.
@@ -98,6 +97,7 @@ The tablet formulation is not adapted for use in infants and children under the 
 Keppra oral solution is the preferred formulation for use in this population.
 In addition, the available dose strengths of the tablets are not appropriate for initial treatment in children weighing less than 25 kg, for patients unable to swallow tablets or for the administration of doses below 250 mg.
 In all of the above cases Keppra oral solution should be used.
+
 Monotherapy
 
 The safety and efficacy of Keppra in children and adolescents below 16 years as monotherapy treatment have not been established.
@@ -128,17 +128,28 @@ CLcr (ml/min/1.73 m2) = -------------------------------------
 | Group | Creatinine clearance (ml/min/1.73m2) | Dose and frequency (1) |  |
 | --- | --- | --- | --- |
 |  |  | Infants 1 to less than 6 months | Infants 6 to 23 months, children and adolescents weighing less than 50 kg |
-| Normal | > 80 | 7 to 21 mg/kg (0.07 to 0.21 ml/kg) twice daily | 10 to 30 mg/kg (0.10 to 0.30 ml/kg) twice daily |
+| Normal | ≥80 | 7 to 21 mg/kg (0.07 to 0.21 ml/kg) twice daily | 10 to 30 mg/kg (0.10 to 0.30 ml/kg) twice daily |
 | Mild | 50-79 | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) twice daily | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) twice daily |
 | Moderate | 30-49 | 3.5 to 10.5 mg/kg (0.035 to 0.105 ml/kg) twice daily | 5 to 15 mg/kg (0.05 to 0.15 ml/kg) twice daily |
 | Severe | < 30 | 3.5 to 7 mg/kg (0.035 to 0.07 ml/kg) twice daily | 5 to 10 mg/kg (0.05 to 0.10 ml/kg) twice daily |
-| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0(4.) 14 ml/kg) once daily (2) | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
+| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) once daily (2) (4) | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
 
 Add-on therapy for infants aged 6 to 23 months, children (2 to 11 years) and adolescents (12 to 17 years) weighing less than 50 kg
 
 [Keppra 750 mg film-coated tablets]
 
-(all sentences already above)
+Serum Creatinine (mg/dl)
+
+ks= 0.45 in Term infants to 1 year old; ks= 0.55 in Children to less than 13 years and in adolescent female; ks= 0.7 in adolescent male
+
+| Group | Creatinine clearance (ml/min/1.73m2) | Dose and frequency (1) |  |
+| --- | --- | --- | --- |
+|  |  | Infants 1 to less than 6 months | Infants 6 to 23 months, children and adolescents weighing less than 50 kg |
+| Normal | ≥ 80 | 7 to 21 mg/kg (0.07 to 0.21 ml/kg) twice daily | 10 to 30 mg/kg (0.10 to 0.30 ml/kg) twice daily |
+| Mild | 50-79 | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) twice daily | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) twice daily |
+| Moderate | 30-49 | 3.5 to 10.5 mg/kg (0.035 to 0.105 ml/kg) twice daily | 5 to 15 mg/kg (0.05 to 0.15 ml/kg) twice daily |
+| Severe | < 30 | 3.5 to 7 mg/kg (0.035 to 0.07 ml/kg) twice daily | 5 to 10 mg/kg (0.05 to 0.10 ml/kg) twice daily |
+| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) once daily (2) (4) | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
 
 [Keppra 1000 mg film-coated tablets]
 
@@ -215,7 +226,7 @@ Dosing adjustment for children and adolescents patients weighing less than 50 kg
 | Group | Creatinine clearance (ml/min/1.73m2) | Dose and frequency |
 | --- | --- | --- |
 |  |  | Children from 4 years and adolescents weighing less than 50 kg |
-| Normal | > 80 | 10 to 30 mg/kg (0.10 to 0.30 ml/kg) twice daily |
+| Normal | ≥ 80 | 10 to 30 mg/kg (0.10 to 0.30 ml/kg) twice daily |
 | Mild | 50-79 | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) twice daily |
 | Moderate | 30-49 | 5 to 15 mg/kg (0.05 to 0.15 ml/kg) twice daily |
 | Severe | < 30 | 5 to 10 mg/kg (0.05 to 0.10 ml/kg) twice daily |

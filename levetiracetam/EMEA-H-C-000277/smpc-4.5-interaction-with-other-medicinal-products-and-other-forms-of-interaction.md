@@ -23,7 +23,6 @@ Co-administration with digoxin, oral contraceptives and warfarin did not influen
 Laxatives
 There have been isolated reports of decreased levetiracetam efficacy when the osmotic laxative macrogol has been concomitantly administered with oral levetiracetam.
 Therefore, macrogol should not be taken orally for one hour before and for one hour after taking levetiracetam.
-
 Food and alcohol
 The extent of absorption of levetiracetam was not altered by food, but the rate of absorption was slightly reduced.
 No data on the interaction of levetiracetam with alcohol are available.
