@@ -27,7 +27,7 @@ Table 1 Adverse reactions from long-term controlled phase 3a trials, the long-te
 | Metabolism and nutrition disorders |  | Hypoglycaemia Anorexia Appetite decreased | Dehydration |  |  |
 | Nervous system disorders |  | Headache Dizziness |  |  |  |
 | Cardiac disorders |  | Increased heart rate |  |  |  |
-| Gastrointestina l disorders | Nausea Diarrhoea | Vomiting Dyspepsia Abdominal pain upper Constipation Gastritis Flatulence Abdominal distension Gastroesophageal reflux disease Abdominal discomfort Toothache |  | Intestinal obstruction | Pancreatitis (including necrotising pancreatitis) |
+| Gastrointestina l disorders | Nausea Diarrhoea | Vomiting Dyspepsia Abdominal pain upper Constipation Gastritis Flatulence Abdominal distension Gastroesophageal reflux disease Abdominal discomfort Toothache | Delayed gastric emptying | Intestinal obstruction | Pancreatitis (including necrotising pancreatitis) |
 | Hepatobiliary disorders |  |  | Cholelithiasis Cholecystitis |  |  |
 
 Skin and Rash Urticaria

@@ -185,7 +185,7 @@ Other secondary endpoints:
 
 All cause death (0.74-0.97) 0.85 (8.2) 381 (9.6) 447
 Non-cardiovascular death (0.77-1.18) 0.95 (3.5) 162 (3.6) 169
-CI: confidence interval FAS: full analysis set 0.7 0.8 0.9 1 1.1 1.2
+FAS: full analysis set CI: confidence interval 0.7 0.8 0.9 1 1.1 1.2
 MACE: major adverse cardiovascular event Favours Victoza Favours Placebo
 
 %: proportion in percent of subjects with an event
