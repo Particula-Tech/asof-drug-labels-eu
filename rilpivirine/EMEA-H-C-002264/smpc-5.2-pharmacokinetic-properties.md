@@ -2,33 +2,39 @@
 
 The pharmacokinetic properties of rilpivirine have been evaluated in adult healthy subjects and in antiretroviral treatment-naïve HIV-1 infected patients 12 years of age and older.
 Exposure to rilpivirine was generally lower in HIV-1 infected patients than in healthy subjects.
-
 Absorption
+
 After oral administration, the maximum plasma concentration of rilpivirine is generally achieved within 4-5 hours.
 The absolute bioavailability of EDURANT is unknown.
+
 Effect of food on absorption
+
 The exposure to rilpivirine was approximately 40% lower when EDURANT was taken in a fasted condition as compared to a normal caloric meal (533 kcal) or high-fat high-caloric meal (928 kcal).
 When EDURANT was taken with only a protein-rich nutritional drink, exposures were 50% lower than when taken with a meal.
 EDURANT must be taken with a meal to obtain optimal absorption.
 Taking EDURANT in fasted condition or with only a nutritional drink may result in decreased plasma concentrations of rilpivirine, which could potentially reduce the therapeutic effect of EDURANT (see section 4.2).
 
 Distribution
+
 Rilpivirine is approximately 99.7% bound to plasma proteins in vitro, primarily to albumin.
 The distribution of rilpivirine into compartments other than plasma (e.g., cerebrospinal fluid, genital tract secretions) has not been evaluated in humans.
 
 Biotransformation
+
 In vitro experiments indicate that rilpivirine primarily undergoes oxidative metabolism mediated by the cytochrome P450 (CYP) 3A system.
 
 Elimination
+
 The terminal elimination half-life of rilpivirine is approximately 45 hours.
 After single dose oral administration of 14C-rilpivirine, on average 85% and 6.1% of the radioactivity could be retrieved in faeces and urine, respectively.
 In faeces, unchanged rilpivirine accounted for on average 25% of the administered dose.
 Only trace amounts of unchanged rilpivirine (< 1% of dose) were detected in urine.
 
 Additional information on special populations
+
 Paediatric population (less than 18 years of age)
 The pharmacokinetics of rilpivirine in antiretroviral treatment-naïve HIV-1 infected adolescent subjects receiving EDURANT 25 mg once daily were comparable to those in treatment-naïve HIV-1 infected adults receiving EDURANT 25 mg once daily.
-There was no impact of body weight on rilpivirine pharmacokinetics in paediatric subjects in trial C213 (33 to 93 kg), similar to what was observed in adults.
+There was no impact of body weight on rilpivirine pharmacokinetics in paediatric subjects in trial TMC278-C213 (33 to 93 kg), similar to what was observed in adults.
 
 The pharmacokinetics of rilpivirine in paediatric patients less than 12 years of age are under investigation.
 Dosing recommendations for paediatric patients less than 12 years of age cannot be made due to insufficient data (see section 4.2).
@@ -40,7 +46,6 @@ EDURANT should be used with caution in this population (see section 4.2).
 
 Gender
 No clinically relevant differences in the pharmacokinetics of rilpivirine have been observed between men and women.
-
 Race
 Population pharmacokinetic analysis of rilpivirine in HIV infected patients indicated that race had no clinically relevant effect on the exposure to rilpivirine.
 
@@ -48,6 +53,7 @@ Hepatic impairment
 Rilpivirine is primarily metabolised and eliminated by the liver.
 In a study comparing 8 patients with mild hepatic impairment (Child-Pugh score A) to 8 matched controls, and 8 patients with moderate hepatic impairment (Child-Pugh score B) to 8 matched controls, the multiple dose exposure of rilpivirine was 47% higher in patients with mild hepatic impairment and 5% higher in patients with moderate hepatic impairment.
 However, it may not be excluded that the pharmacologically active, unbound, rilpivirine exposure is significantly increased in moderate hepatic impairment.
+
 No dose adjustment is suggested but caution is advised in patients with moderate hepatic impairment.
 EDURANT has not been studied in patients with severe hepatic impairment (Child-Pugh score C). Therefore, EDURANT is not recommended in patients with severe hepatic impairment (see section 4.2).
 
@@ -63,15 +69,15 @@ In patients with severe renal impairment or end-stage renal disease, the combina
 As rilpivirine is highly bound to plasma proteins, it is unlikely that it will be significantly removed by haemodialysis or peritoneal dialysis (see section 4.2).
 
 Pregnancy and Postpartum
-The exposure to total rilpivirine after intake of rilpivirine 25 mg once daily as part of an antiretroviral regimen was lower during pregnancy (similar for the 2nd and 3rd trimester) compared with postpartum (see table 6).
+The exposure to total rilpivirine after intake of rilpivirine 25 mg once daily as part of an antiretroviral regimen was lower during pregnancy (similar for the 2nd and 3rd trimester) compared with postpartum (see table 7).
 The decrease in unbound (ie, active) rilpivirine pharmacokinetic parameters during pregnancy compared to postpartum was less pronounced than for total rilpivirine.
 
 In women receiving rilpivirine 25 mg once daily during the 2nd trimester of pregnancy, mean intra-individual values for total rilpivirine Cmax, AUC24h and Cmin values were, respectively, 21%, 29% and 35% lower as compared to postpartum; during the 3rd trimester of pregnancy, Cmax, AUC24h and Cmin values were, respectively, 20%, 31% and 42% lower as compared to postpartum.
 
-| Table 6: Pharmacokinetic Results of Total Rilpivirine After Administration of Rilpivirine 25 mg Once Daily as Part of an Antiretroviral Regimen, During the 2nd Trimester of Pregnancy, the 3rd Trimester of Pregnancy and Postpartum |  |  |  |
+| Table 7: Pharmacokinetic Results of Total Rilpivirine After Administration of Rilpivirine 25 mg Once Daily as Part of an Antiretroviral Regimen, During the 2nd Trimester of Pregnancy, the 3rd Trimester of Pregnancy and Postpartum |  |  |  |
 | --- | --- | --- | --- |
 | Pharmacokinetics of total rilpivirine (mean ± SD, tmax: median [range]) | Postpartum (6-12 Weeks) (n=11) | 2nd Trimester of pregnancy (n=15) | 3rd Trimester of pregnancy (n=13) |
-| Cmin, ng/mL | 84.0 ± 58.8 | 54.3 ± 25.8 | 52.9 ± 24.4 |
-| Cmax, ng/mL | 167 ± 101 | 121 ± 45.9 | 123 ± 47.5 |
+| Cmin, ng/ml | 84.0 ± 58.8 | 54.3 ± 25.8 | 52.9 ± 24.4 |
+| Cmax, ng/ml | 167 ± 101 | 121 ± 45.9 | 123 ± 47.5 |
 | tmax, h | 4.00 (2.03-25.08) | 4.00 (1.00-9.00) | 4.00 (2.00-24.93) |
-| AUC24h, ng.h/mL | 2714 ± 1535 | 1792 ± 711 | 1762 ± 662 |
+| AUC24h, ng.h/ml | 2714 ± 1535 | 1792 ± 711 | 1762 ± 662 |

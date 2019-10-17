@@ -3,6 +3,7 @@
 Therapy should be initiated by a physician experienced in the management of HIV infection.
 
 Posology
+
 The recommended dose of EDURANT is one 25 mg tablet taken once daily.
 EDURANT must be taken with a meal (see section 5.2).
 
@@ -17,6 +18,7 @@ If a patient misses a dose of EDURANT by more than 12 hours, the patient should 
 If a patient vomits within 4 hours of taking the medicine, another EDURANT tablet should be taken with a meal.
 If a patient vomits more than 4 hours after taking the medicine, the patient does not need to take another dose of EDURANT until the next regularly scheduled dose.
 Special populations
+
 Elderly
 There is limited information regarding the use of EDURANT in patients > 65 years of age.
 No dose adjustment of EDURANT is required in older patients (see section 5.2).
@@ -44,5 +46,6 @@ Lower exposures of rilpivirine were observed during pregnancy, therefore viral l
 Alternatively, switching to another ART regimen could be considered (see sections 4.4, 4.6, 5.1 and 5.2).
 
 Method of administration
+
 EDURANT must be taken orally, once daily with a meal (see section 5.2).
 It is recommended that the film-coated tablet be swallowed whole with water and not be chewed or crushed.
