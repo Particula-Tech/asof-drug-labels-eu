@@ -12,6 +12,7 @@ The incidence of ADRs reported in clinical trials is tabulated by frequency cate
 The following terms and frequencies are applied: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare
 (<1 /10,000) and not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
 Table 1
 
 | System Organ Class | Very Common | Common | Uncommon | Rare | Frequency not known |
@@ -39,7 +40,6 @@ Table 1
 **Parkinsonism includes adverse reaction terms: bradykinesia, cogwheel rigidity, drooling, extrapyramidal disorder, hypokinesia, muscle rigidity, parkinsonism, psychomotor retardation, and tremor
 ***Dystonia includes adverse reaction terms: dystonia, oculogyric crisis, oromandibular dystonia, tongue spasm, torticollis, and trismus.
 ****ADRs noted in Phase 2 and 3 controlled and uncontrolled studies; however, the incidence of occurrence for these are too low to estimate frequencies.
-
 Description of selected adverse reactions
 
 Post marketing reports of clinically serious cases of skin and other hypersensitivity reactions have been reported in association with lurasidone treatment, including some reports of Stevens-Johnson syndrome.
@@ -47,6 +47,7 @@ Post marketing reports of clinically serious cases of skin and other hypersensit
 Events of interest to the class
 Extrapyramidal symptoms (EPS): In the short-term placebo controlled studies, the incidence of reported events related to EPS, excluding akathisia and restlessness, was 13.5% for lurasidone-treated subjects versus 5.8% for placebo-treated subjects.
 The incidence of akathisia for lurasidone-treated subjects was 12.9% versus 3.0% for placebo-treated subjects.
+
 Dystonia: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, difficulty swallowing, difficulty breathing, and/or protrusion of the tongue.
 While these symptoms can occur at low doses, they occur more frequently and with greater severity, higher potency and at higher doses of first generation antipsychotic medicinal products.
@@ -58,7 +59,7 @@ Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Healthcare professionals are asked to report any suspected adverse reactions via the following website: www.mhra.gov.uk/yellowcard.
 
 [Latuda 37 mg film-coated tablets]
 

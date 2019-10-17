@@ -41,7 +41,7 @@ The maximum daily dose in moderate hepatic impairment patients should not exceed
 
 Paediatric population
 The safety and efficacy of lurasidone in children aged less than 18 years have not been established.
-Current available data are described in section 5.2, but no recommendation on a posology can be made.
+Current available data are described in section 5.1 and 5.2, but no recommendation on a posology can be made.
 
 Method of administration
 

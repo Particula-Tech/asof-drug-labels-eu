@@ -21,6 +21,9 @@ Lurasidone is contraindicated with strong CYP3A4 inhibitors (e.g. boceprevir, cl
 
 Coadministration of lurasidone with the strong CYP3A4 inhibitor ketoconazole resulted in a 9- and 6-fold increase in exposure of lurasidone and its active metabolite ID-14283 respectively.
 
+Co-administration of lurasidone and posaconazole (strong CYP3A4 inhibitor) resulted in an approximate 4-5 fold increase in lurasidone exposure.
+A persistent effect of posaconazole on lurasidone exposure was observed up to 2-3 weeks after stop of posaconazole co-administration.
+
 Coadministration of lurasidone with medicinal products that moderately inhibit CYP3A4 (e.g. diltiazem, erythromycin, fluconazole verapamil) may increase exposure to lurasidone.
 Moderate CYP3A4 inhibitors are estimated to result in a 2-5 fold increase in exposure of CYP3A4 substrates.
 
@@ -51,9 +54,9 @@ Concomitant administration of the P-gp substrate dabigatran etexilate may result
 
 Lurasidone is an in vitro inhibitor of the efflux transporter BCRP and the clinical relevance of intestinal BCRP inhibition cannot be excluded.
 Concomitant administration of BCRP substrates may result in increases in the plasma concentrations of these substrates.
-
 Coadministration of lurasidone with lithium indicated that lithium had clinically negligible effects on the pharmacokinetics of lurasidone, therefore no dose adjustment of lurasidone is required when coadministered with lithium.
 Lurasidone does not impact concentrations of lithium.
+
 A clinical drug interaction study investigating the effect of coadministration of lurasidone on patients taking oral combination contraceptives including norgestimate and ethinyl estradiol, indicated that lurasidone had no clinically or statistically meaningful effects on the pharmacokinetics of the contraceptive or sex hormone binding globulin (SHBG) levels.
 Therefore, lurasidone can be coadministered with oral contraceptives.
 
