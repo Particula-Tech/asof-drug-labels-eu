@@ -6,7 +6,6 @@ EU/1/16/1124/009 - 4 pack (4 packs of 1)
 EU/1/16/1124/010 - 6 pack
 EU/1/16/1124/057 - 4 pack (1 pack of 4)
 EU/1/16/1124/058 - 12 pack
-
 Nordimet 10 mg solution for injection in pre-filled pen
 EU/1/16/1124/002 - 1 pack
 EU/1/16/1124/011 - 4 pack (4 packs of 1)
@@ -61,7 +60,6 @@ EU/1/16/1124/025 - 1 pack
 EU/1/16/1124/026 - 4 pack
 EU/1/16/1124/027 - 6 pack
 EU/1/16/1124/049 - 12 pack
-
 Nordimet 10 mg solution for injection in pre-filled syringe
 EU/1/16/1124/028 - 1 pack
 EU/1/16/1124/029 - 4 pack

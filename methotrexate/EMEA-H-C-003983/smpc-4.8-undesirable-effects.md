@@ -7,7 +7,6 @@ Most frequently (very common) observed adverse reactions of methotrexate include
 Other frequently (common) occurring adverse reactions are leukopenia, anaemia, thrombopenia, headache, tiredness, drowsiness, pneumonia, interstitial alveolitis/pneumonitis often associated with eosinophilia, oral ulcers, diarrhoea, exanthema, erythema and pruritus.
 
 The most relevant adverse reaction is suppression of the haematopoietic system and gastrointestinal disorders.
-
 List of adverse reactions
 Frequencies are defined using the following convention:
 very common (≥ 1/10) common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare
@@ -17,6 +16,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 Infections and infestations
 Uncommon: Pharyngitis.
 Rare: Infection (incl. reactivation of inactive chronic infection), sepsis, conjunctivitis.
+
 Neoplasms benign, malignant and unspecified (including cysts and polyps)
 Very rare: lymphoma (see “description” below)
 
@@ -57,7 +57,6 @@ Common: Pneumonia, interstitial alveolitis/pneumonitis often associated with eos
 Symptoms indicating potentially severe lung injury (interstitial pneumonitis) are: dry, not productive cough, shortness of breath and fever.
 Rare: Pulmonary fibrosis, Pneumocystis jiroveci pneumonia, shortness of breath and bronchial asthma, pleural effusion.
 Not known: Epistaxis, pulmonary alveolar haemorrhage.
-
 Gastrointestinal disorders
 Very common: Stomatitis, dyspepsia, nausea, loss of appetite, abdominal pain.
 Common: Oral ulcers, diarrhoea.
@@ -101,7 +100,6 @@ Lymphoma/Lymphoproliferative disorders: there have been reports of individual ca
 The appearance and degree of severity of undesirable effects depends on the dosage level and the frequency of administration.
 However, as severe undesirable effects can occur even at lower doses, it is indispensable that patients are monitored regularly by the doctor at short intervals.
 Only mild local skin reactions (such as burning sensations, erythema, swelling, discolouration, pruritus, severe itching, pain) were observed with subcutaneous use, decreasing during therapy.
-
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.

@@ -1,14 +1,17 @@
 # 4.2 Posology and method of administration
 
-Nordimet should only be prescribed by physicians with experience in the various properties of the medicinal product and its mode of action.
+Methotrexate should only be prescribed by physicians with expertise in the use of methotrexate and a full understanding of the risks of methotrexate therapy.
 
-Important warning with reference to the dosing of methotrexate: methotrexate for the therapy of rheumatic diseases or diseases of the skin must only be used once weekly.
-Faulty dosing of methotrexate may lead to serious adverse effects including fatal course.
-Please read this paragraph of the SmPC very carefully.
+Important warning about the dosage of Nordimet
 
+In the treatment of rheumatoid arthritis, active juvenile idiopathic arthritis,psoriasis and psoriatic arthritis requiring dosing once a week.
+Nordimet must only be used once a week.
+Dosage errors in the use of Nordimet can result in serious adverse reactions, including death.
+Please read this section of the summary of product characteristics very carefully.
 When switching from oral use to subcutaneous use, a reduction in the dose may be required, due to the variable bioavailability of methotrexate after oral administration.
 
 Folic acid or folinic acid supplementation may be considered in accordance with current therapeutic guidelines.
+
 The overall duration of treatment is decided by the doctor.
 
 Posology
@@ -58,6 +61,7 @@ Methotrexate is contraindicated if bilirubin values are > 5 mg/dl (85.5 µmol/L)
 
 Use in patient with a third distribution space (pleural effusions, ascitis)
 As the half-life of methotrexate can be prolonged to 4 times the normal length in patients who possess a third distribution space, dose reduction or, in some cases, discontinuation of methotrexate administration may be required (see sections 5.2 and 4.4).
+
 Paediatric population
 
 Dosage in children and adolescents below 16 years with polyarthritic forms of juvenile idiopathic arthritis

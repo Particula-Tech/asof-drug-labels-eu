@@ -3,7 +3,6 @@
 Patients must be clearly advised that the therapy is to be administered once a week, and not every day.
 Incorrect administration of methotrexate can lead to severe, including potentially lethal adverse reactions.
 Healthcare professionals and patients should be clearly instructed.
-
 Patients receiving therapy should be appropriately monitored, so that signs of possible toxic effects or adverse reactions can be recognised and assessed without delay.
 Hence, methotrexate should be only administered by, or under the supervision of, doctors whose knowledge and experience include the use of antimetabolite therapy.
 Due to the risk of severe or even fatal toxic reactions, patients should be thoroughly informed by the doctor about the risks (including early signs and symptoms of toxicity) and recommended safety measures.
@@ -53,6 +52,7 @@ Such abnormalities should return to normal within two weeks; after which, treatm
 
 Temporary increases in transaminases to two or three times the upper limit of normal have been reported in patients at a frequency of 13-20 %.
 Persistent anomalies of liver-related enzymes and/or decrease in serum albumin may be indicative for severe hepatotoxicity.
+
 Enzyme diagnostics does not allow any reliable prediction of the development of a morphologically detectable hepatotoxicity, i.e. even in case of normal transaminases, hepatic fibrosis only histologically identifiable or, more rarely, also hepatocirrhosis may be present.
 
 In rheumatological indications, there is no evidence to support use of liver biopsies in monitoring hepatotoxicity.
@@ -89,6 +89,7 @@ Methotrexate should be discontinued in patients with pulmonary symptoms and a th
 If methotrexate induced lung disease is suspected, treatment with corticosteroids should be initiated and treatment with methotrexate should not be restarted.
 
 Pulmonary diseases induced by methotrexate were not always completely reversible.
+
 Pulmonary symptoms require a quick diagnosis and discontinuation of methotrexate therapy.
 Pulmonary diseases induced by methotrexate, like pneumonitis, can occur acutely at any time of therapy, they were not always completely reversible and have been reported already at all doses (inclusive low doses of 7.5 mg/week).
 
