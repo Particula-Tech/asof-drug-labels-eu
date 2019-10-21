@@ -3,6 +3,6 @@
 EU/1/03/261/001
 EU/1/03/261/002
 
-[Emtriva 10 mg/ml oral solution]
+[Emtriva 10 mg/mL oral solution]
 
 EU/1/03/261/003

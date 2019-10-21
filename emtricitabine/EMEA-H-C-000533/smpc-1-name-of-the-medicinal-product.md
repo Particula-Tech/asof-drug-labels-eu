@@ -2,6 +2,6 @@
 
 Emtriva 200 mg hard capsules
 
-[Emtriva 10 mg/ml oral solution]
+[Emtriva 10 mg/mL oral solution]
 
-Emtriva 10 mg/ml oral solution
+Emtriva 10 mg/mL oral solution

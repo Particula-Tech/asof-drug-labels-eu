@@ -2,7 +2,7 @@
 
 This medicinal product does not require any special storage conditions.
 
-[Emtriva 10 mg/ml oral solution]
+[Emtriva 10 mg/mL oral solution]
 
 Store in a refrigerator (2°C – 8°C).
 

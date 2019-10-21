@@ -5,6 +5,7 @@ Crospovidone
 Magnesium stearate (E572)
 Microcrystalline cellulose (E460)
 Povidone (E1201)
+
 Capsule shell
 Gelatin
 Indigotine (E132)
@@ -14,7 +15,7 @@ Printing ink containing
 Black iron oxide (E172)
 Shellac (E904)
 
-[Emtriva 10 mg/ml oral solution]
+[Emtriva 10 mg/mL oral solution]
 
 Cotton candy flavouring
 Disodium edetate
