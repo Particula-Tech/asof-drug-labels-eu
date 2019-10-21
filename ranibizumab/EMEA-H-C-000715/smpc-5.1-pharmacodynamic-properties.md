@@ -7,6 +7,7 @@ Mechanism of action
 Ranibizumab is a humanised recombinant monoclonal antibody fragment targeted against human vascular endothelial growth factor A (VEGF-A).
 It binds with high affinity to the VEGF-A isoforms (e.g. VEGF110, VEGF121 and VEGF165), thereby preventing binding of VEGF-A to its receptors VEGFR-1 and VEGFR-2.
 Binding of VEGF-A to its receptors leads to endothelial cell proliferation and neovascularisation, as well as vascular leakage, all of which are thought to contribute to the progression of the neovascular form of age-related macular degeneration, pathologic myopia and CNV or to visual impairment caused by either diabetic macular oedema or macular oedema secondary to RVO in adults and retinopathy of prematurity in preterm infants.
+
 Clinical efficacy and safety
 
 Treatment of wet AMD
@@ -33,47 +34,6 @@ Table 1 Outcomes at Month 12 and Month 24 in study FVF2598g (MARINA) and FVF2587
 
 a p<0.01
 Figure 1 Mean change in visual acuity from baseline to Month 24 in study FVF2598g (MARINA) and study FVF2587g (ANCHOR)
-
-Study FVF2598g (MARINA)
-15
-
-10
-
-5 +6.6
-
-0
-
-+ 21.5
--5
-
--10
-
--15 -14.9
-
-0 2 4 6 8 10 12 14 16 18 20 22 24
-
-Month
-
-Study FVF2587g (ANCHOR)
-15
-10 +10.7
-
-5
-
-0 +20.5
-
--5
-
--10 -9.8
-
--15
-0 2 4 6 8 10 12 14 16 18 20 22 24
-
-Month
-
-MARINA ANCHOR
-LUCENTIS 0.5 mg (n=240) LUCENTIS 0.5 mg (n=140)
-Sham (n=238) Verteporfin PDT (n=143)
 
 Results from both trials indicated that continued ranibizumab treatment may also be of benefit in patients who lost ≥15 letters of best-corrected visual acuity (BCVA) in the first year of treatment.
 
@@ -137,32 +97,7 @@ a p<0.00001 comparison with vPDT control b Comparative control up to Month 3.
 Patients randomised to vPDT were allowed to receive ranibizumab treatment as of Month 3 (in Group III, 38 patients received ranibizumab as of Month 3)
 Figure 2 Mean change from baseline BCVA over time to Month 12 (RADIANCE)
 
-20
-
-+14.4 15 +12.5
-
-+13.8
-
-10 +12.1
-
-+9.3
-
-5
-
-+1.4
-0
-
-Ranibizumab allowed
-
--5
-
-0 1 2 3 4 5 6 7 8 9 10 11 12 Month
-
-Ranibizumab 0.5 mg Group I Ranibizumab 0.5 mg Group II
-by stabilisation (n=105) by disease activity (n=116)
-Verteporfin PDT Group III (n=55) Ranibizumab 0.5 mg/Verteporfin PDT
-
-Group III from Month 3 onwards (n=55) The improvement of vision was accompanied by a reduction in central retinal thickness.
+The improvement of vision was accompanied by a reduction in central retinal thickness.
 
 Patient-reported benefits were observed with ranibizumab treatment arms over vPDT (p-value <0.05) in terms of improvement in the composite score and several subscales (general vision, near activities, mental health and dependency) of the NEI VFQ-25.
 
@@ -193,20 +128,7 @@ a One-sided p<0.001 comparison with sham control b CSFT - central retinal subfie
 
 Figure 3 Mean change from baseline BCVA over time to Month 12 (MINERVA)
 
-11.0 9.4*
-9.3
-
--0.3*
-Double-masked,
-
-randomised, Open-label,
-Ranibizumab vs Sham Ranibizumab allowed in both arms
-
-Month
-
-Treatment: Ranibizumab 0.5 mg (N=119) Sham (N=59)
-
-* Observed mean BCVA may differ from the Least Squares Mean BCVA (applicable only at Month 2) When comparing ranibizumab versus sham control at Month 2, a consistent treatment effect both overall and across baseline aetiology subgroups was observed:
+When comparing ranibizumab versus sham control at Month 2, a consistent treatment effect both overall and across baseline aetiology subgroups was observed:
 Table 4 Treatment effect overall and across baseline aetiology subgroups
 
 | Overall and per baseline aetiology | Treatment effect over sham [letters] | Patient numbers [n] (treatment +sham) |
@@ -239,32 +161,6 @@ Patients were treated with ranibizumab 0.5 mg pro re nata (PRN) in the same eye 
 Key outcome measures are summarised in Table 5 (RESTORE and Extension) and Figure 4 (RESTORE).
 
 Figure 4 Mean change in visual acuity from baseline over time in study D2301 (RESTORE)
-
-12
-
-10
-
-8
-+ 6.8/+ 6.4
-6
-
-4
-+ 6.2/+ 5.4*
-
-2
-+ 0.9
-0
-
--2
-
--4
-0 1 2 3 4 5 6 7 8 9 10 11 12
-Month
-
-Treatment group Ranibizumab 0.5 mg (N = 115)
-
-Ranibizumab 0.5 mg + Laser (N = 118)
-Laser (N = 110)
 
 BL=baseline; SE=standard error of mean
 * Difference in least square means, p<0.0001/0.0004 based on two-sided stratified Cochran-Mantel-Haenszel test
@@ -346,7 +242,42 @@ ap<0.0001 for assessment of non-inferiority to PRN
 
 In DME studies, the improvement in BCVA was accompanied by a reduction over time in mean CSFT in all the treatment groups.
 
-Diabetic retinopathy severity score (DRSS) was assessed in three separate active-controlled phase III DME studies (ranibizumab 0.5 mg PRN vs laser) that included a total of 875 patients, of whom approximately 75% were of Asian origin.
+Treatment of PDR
+The clinical safety and efficacy of Lucentis in patients with PDR have been assessed in Protocol S which evaluated the treatment with ranibizumab 0.5 mg intravitreal injections compared with panretinal photocoagulation (PRP).
+The primary endpoint was the mean visual acuity change at year 2.
+Additionally, change in diabetic retinopathy (DR) severity was assessed based on fundus photographs using the DR severity score (DRSS).
+
+Protocol S was a multicentre, randomised, active-controlled, parallel-assignment, non-inferiority phase III study in which 305 patients (394 study eyes) with PDR with or without DME at baseline were enrolled.
+The study compared ranibizumab 0.5 mg intravitreal injections to standard treatment with PRP.
+A total of 191 eyes (48.5%) were randomised to ranibizumab 0.5 mg and 203 eyes (51.5%) eyes were randomised to PRP.
+A total of 88 eyes (22.3%) had baseline DME: 42 (22.0%) and 46 (22.7%) eyes in the ranibizumab and PRP groups, respectively.
+
+In this study, the mean visual acuity change at year 2 was +2.7 letters in the ranibizumab group compared to -0.7 letters in the PRP group.
+The difference in least square means was 3.5 letters (95% CI: [0.2 to 6.7]).
+
+At year 1, 41.8% of eyes experienced a ≥2-step improvement in the DRSS when treated with ranibizumab (n=189) compared to 14.6% of eyes treated with PRP (n=199).
+The estimated difference between ranibizumab and laser was 27.4% (95% CI: [18.9, 35.9]).
+Table 7 DRSS improvement or worsening of ≥2 or ≥3 steps at year 1 in Protocol S (LOCF Method)
+
+| Categorised change from baseline | Protocol S |  |  |
+| --- | --- | --- | --- |
+|  | Ranibizumab 0.5 mg (N=189) | PRP (N=199) | Difference in proportion (%), CI |
+| ≥2-step improvement |  |  |  |
+| n (%) | 79 (41.8%) | 29 (14.6%) | 27.4 (18.9, 35.9) |
+| ≥3-step improvement |  |  |  |
+| n (%) | 54 (28.6%) | 6 (3.0%) | 25.7 (18.9, 32.6) |
+| ≥2-step worsening |  |  |  |
+| n (%) | 3 (1.6%) | 23 (11.6%) | -9.9 (-14.7, -5.2) |
+| ≥3-step worsening |  |  |  |
+| n (%) | 1 (0.5%) | 8 (4.0%) | -3.4 (-6.3, -0.5) |
+| DRSS = diabetic retinopathy severity score, n = number of patients who satisfied the condition at the visit, N = total number of study eyes. |  |  |  |
+
+At year 1 in the ranibizumab-treated group in Protocol S, ≥2-step improvement in DRSS was consistent in eyes without DME (39.9%) and with baseline DME (48.8%).
+
+An analysis of year 2 data from Protocol S demonstrated that 42.3% (n=80) of eyes in the ranibizumab-treated group had ≥2-step improvement in DRSS from baseline compared with 23.1% (n=46) of eyes in the PRP group.
+In the ranibizumab-treated group, ≥2-step improvement in DRSS from baseline was observed in 58.5% (n=24) of eyes with baseline DME and 37.8% (n=56) of eyes without DME.
+
+DRSS was also assessed in three separate active-controlled phase III DME studies (ranibizumab 0.5 mg PRN vs laser) that included a total of 875 patients, of whom approximately 75% were of Asian origin.
 In a meta-analysis of these studies, 48.4% of the 315 patients with gradable DRSS scores in the subgroup of patients with moderately severe non-proliferative DR (NPDR) or worse at baseline experienced a ≥2-step improvement in the DRSS at Month 12 when treated with ranibizumab (n=192) vs 14.6% of patients treated with laser (n=123).
 The estimated difference between ranibizumab and laser was 29.9% (95% CI: [20.0, 39.7]).
 In the 405 DRSS gradable patients with moderate NPDR or better, a ≥2-step DRSS improvement was observed in 1.4% and 0.9% of the ranibizumab and laser groups, respectively.
@@ -354,10 +285,10 @@ In the 405 DRSS gradable patients with moderate NPDR or better, a ≥2-step DRSS
 Treatment of visual impairment due to macular oedema secondary to RVO
 The clinical safety and efficacy of Lucentis in patients with visual impairment due to macular oedema secondary to RVO have been assessed in the randomised, double-masked, controlled studies BRAVO and CRUISE that recruited subjects with BRVO (n=397) and CRVO (n=392), respectively.
 In both studies, subjects received either 0.3 mg or 0.5 mg ranibizumab or sham injections.
-After 6 months, patients in the sham-control arms switched to 0.5 mg ranibizumab
-Key outcome measures from BRAVO and CRUISE are summarised in Table 7 and Figures 5 and 6.
+After 6 months, patients in the sham-control arms switched to 0.5 mg ranibizumab.
+Key outcome measures from BRAVO and CRUISE are summarised in Table 8 and Figures 5 and 6.
 
-Table 7 Outcomes at Month 6 and 12 (BRAVO and CRUISE)
+Table 8 Outcomes at Month 6 and 12 (BRAVO and CRUISE)
 
 |  | BRAVO |  | CRUISE |  |
 | --- | --- | --- | --- | --- |
@@ -370,62 +301,7 @@ Table 7 Outcomes at Month 6 and 12 (BRAVO and CRUISE)
 
 ap<0.0001for both studies
 
-Figure 5 Mean change from baseline BCVA over time to Month 6 and Month 12 (BRAVO)
-
-+ 18.3
-20
-+ 18.3
-18
-16
-14
-12 + 12.1
-10
-8
-6
-+ 7.3
-4
-2 sham-controlled arm
-sham-controlled crossed-over to ranibizumab
-0
-0 1 2 3 4 5 6 7 8 9 10 11 12
-Month
-Treatment group Sham/Ranibizumab 0.5 mg (n=132)
-Ranibizumab 0.5 mg (n=131)
-
-BL=baseline; SE=standard error of mean
-Figure 6 Mean change from baseline BCVA over time to Month 6 and Month 12 (CRUISE)
-
-20 sham-controlled crossed-over to ranibizumab sham-controlled arm
-
-18 + 14.9
-
-16
-
-14 + 13.9
-
-12
-
-10
-
-8 + 7.3
-
-6
-
-4 + 0.8
-
-2
-
-0
-
--2
-0 1 2 3 4 5 6 7 8 9 10 11 12
-Month
-
-Treatment group Sham/Ranibizumab 0.5 mg (n=130)
-
-Ranibizumab 0.5 mg (n=130)
-
-BL=baseline; SE=standard error of mean
+Figure 5 Mean change from baseline BCVA over time to Month 6 and Month 12 (BRAVO) Figure 6 Mean change from baseline BCVA over time to Month 6 and Month 12 (CRUISE)
 
 In both studies, the improvement of vision was accompanied by a continuous and significant reduction in the macular oedema as measured by central retinal thickness.
 
@@ -438,9 +314,9 @@ In both studies, subjects received a 0.5 mg ranibizumab PRN dosing regimen drive
 BRIGHTER was a 3-arm randomised active-controlled study that compared 0.5 mg ranibizumab given as monotherapy or in combination with adjunctive laser photocoagulation to laser photocoagulation alone.
 After 6 months, subjects in the laser arm could receive 0.5 mg ranibizumab.
 CRYSTAL was a single-arm study with 0.5 mg ranibizumab monotherapy.
-Key outcome measures from BRIGHTER and CRYSTAL are shown in Table 8.
+Key outcome measures from BRIGHTER and CRYSTAL are shown in Table 9.
 
-Table 8 Outcomes at Months 6 and 24 (BRIGHTER and CRYSTAL)
+Table 9 Outcomes at Months 6 and 24 (BRIGHTER and CRYSTAL)
 
 |  | BRIGHTER |  |  | CRYSTAL |
 | --- | --- | --- | --- | --- |
@@ -478,10 +354,10 @@ Eligible patients had one of the following retinal findings in each eye:
 
 In this study, 225 patients were randomised in a 1:1:1 ratio to receive intravitreal ranibizumab 0.2 mg (n=74), 0.1 mg (n=77), or laser therapy (n=74).
 
-Treatment success, as measured by the absence of active ROP and absence of unfavourable structural outcomes in both eyes 24 weeks after the first study treatment, was highest with ranibizumab 0.2 mg (80%) compared to laser therapy (66.2%) (see Table 9).
+Treatment success, as measured by the absence of active ROP and absence of unfavourable structural outcomes in both eyes 24 weeks after the first study treatment, was highest with ranibizumab 0.2 mg (80%) compared to laser therapy (66.2%) (see Table 10).
 The majority of patients treated with ranibizumab 0.2 mg (78.1%) received a single injection per eye.
 
-Table 9 Outcomes at Week 24 (RAINBOW)
+Table 10 Outcomes at Week 24 (RAINBOW)
 
 |  | Treatment success |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -500,11 +376,6 @@ In addition the European Medicines Agency has waived the obligation to submit th
 
 Binding of VEGF-A to its receptors leads to endothelial cell proliferation and neovascularisation, as well as vascular leakage, all of which are thought to contribute to the progression of the neovascular form of age-related macular degeneration, pathologic myopia and CNV or to visual impairment caused by either diabetic macular oedema or macular oedema secondary to RVO.
 
-Double-masked, Open-label,
-randomised, Ranibizumab allowed in both arms
-
-Ranibizumab vs Sham
-
 The safety and efficacy of ranibizumab have not yet been established in paediatric patients.
 
-The European Medicines Agency has waived the obligation to submit the results of studies with Lucentis in all subsets of the paediatric population in neovascular AMD, visual impairment due to DME, visual impairment due to macular oedema secondary to RVO and visual impairment due to CNV (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with Lucentis in all subsets of the paediatric population in neovascular AMD, visual impairment due to DME, visual impairment due to macular oedema secondary to RVO and visual impairment due to CNV and diabetic retinopathy (see section 4.2 for information on paediatric use).

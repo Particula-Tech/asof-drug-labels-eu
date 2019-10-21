@@ -11,11 +11,11 @@ The most frequently reported non-ocular adverse reactions are headache, nasophar
 Less frequently reported, but more serious, adverse reactions include endophthalmitis, blindness, retinal detachment, retinal tear and iatrogenic traumatic cataract (see section 4.4).
 
 The adverse reactions experienced following administration of Lucentis in clinical trials are summarised in the table below.
-
 Tabulated list of adverse reactions#
 
 The adverse reactions are listed by system organ class and frequency using the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
 Infections and infestations
 
 Very common Nasopharyngitis
@@ -73,12 +73,13 @@ Very common Intraocular pressure increased
 
 # Adverse reactions were defined as adverse events (in at least 0.5 percentage points of patients) which occurred at a higher rate (at least 2 percentage points) in patients receiving treatment with Lucentis 0.5 mg than in those receiving control treatment (sham or verteporfin PDT).
 * observed only in DME population
+
 Product-class-related adverse reactions
 
 In the wet AMD phase III studies, the overall frequency of non-ocular haemorrhages, an adverse event potentially related to systemic VEGF (vascular endothelial growth factor) inhibition, was slightly increased in ranibizumab-treated patients.
 However, there was no consistent pattern among the different haemorrhages.
 There is a theoretical risk of arterial thromboembolic events, including stroke and myocardial infarction, following intravitreal use of VEGF inhibitors.
-A low incidence rate of arterial thromboembolic events was observed in the Lucentis clinical trials in patients with AMD, CNV, DME and RVO and there were no major differences between the groups treated with ranibizumab compared to control.
+A low incidence rate of arterial thromboembolic events was observed in the Lucentis clinical trials in patients with AMD, DME, PDR, RVO and CNV and there were no major differences between the groups treated with ranibizumab compared to control.
 
 Paediatric population
 

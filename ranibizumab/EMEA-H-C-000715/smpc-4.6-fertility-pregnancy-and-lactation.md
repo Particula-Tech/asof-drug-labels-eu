@@ -3,6 +3,7 @@
 Women of childbearing potential/contraception in females
 
 Women of childbearing potential should use effective contraception during treatment.
+
 Pregnancy
 
 For ranibizumab no clinical data on exposed pregnancies are available.

@@ -54,8 +54,8 @@ The long-term safety profile in preterm infants has not been established.
 Populations with limited data
 
 There is only limited experience in the treatment of subjects with DME due to type I diabetes.
-Lucentis has not been studied in patients who have previously received intravitreal injections, in patients with active systemic infections, proliferative diabetic retinopathy, or in patients with concurrent eye conditions such as retinal detachment or macular hole.
-There is also no experience of treatment with Lucentis in diabetic patients with an HbA1c over 12% and uncontrolled hypertension.
+Lucentis has not been studied in patients who have previously received intravitreal injections, in patients with active systemic infections, or in patients with concurrent eye conditions such as retinal detachment or macular hole.
+There is limited experience of treatment with Lucentis in diabetic patients with an HbA1c over 108 mmol/mol (12%) and no experience in patients with uncontrolled hypertension.
 This lack of information should be considered by the physician when treating such patients.
 
 There are insufficient data to conclude on the effect of Lucentis in patients with RVO presenting irreversible ischaemic visual function loss.

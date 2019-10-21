@@ -18,5 +18,4 @@ Not all pack sizes may be marketed.
 
 0.165 ml sterile solution in a pre-filled syringe (type I glass) with a bromobutyl rubber plunger stopper and a syringe cap consisting of a white, tamper-evident rigid seal with a grey bromobutyl rubber tip cap including a Luer lock adapter.
 The pre-filled syringe has a plunger rod and a finger grip, and is packed in a sealed tray.
-
 Pack size of one pre-filled syringe.

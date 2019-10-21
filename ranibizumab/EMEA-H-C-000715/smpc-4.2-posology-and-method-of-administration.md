@@ -10,16 +10,16 @@ This corresponds to an injection volume of 0.05 ml.
 The interval between two doses injected into the same eye should be at least four weeks.
 
 Treatment in adults is initiated with one injection per month until maximum visual acuity is achieved and/or there are no signs of disease activity i.e. no change in visual acuity and in other signs and symptoms of the disease under continued treatment.
-In patients with wet AMD, DME and RVO, initially, three or more consecutive, monthly injections may be needed.
-
+In patients with wet AMD, DME, PDR and RVO, initially, three or more consecutive, monthly injections may be needed.
 Thereafter, monitoring and treatment intervals should be determined by the physician and should be based on disease activity, as assessed by visual acuity and/or anatomical parameters.
+
 If, in the physician’s opinion, visual and anatomic parameters indicate that the patient is not benefiting from continued treatment, Lucentis should be discontinued.
 
 Monitoring for disease activity may include clinical examination, functional testing or imaging techniques (e.g. optical coherence tomography or fluorescein angiography).
 
 If patients are being treated according to a treat-and-extend regimen, once maximum visual acuity is achieved and/or there are no signs of disease activity, the treatment intervals can be extended stepwise until signs of disease activity or visual impairment recur.
 The treatment interval should be extended by no more than two weeks at a time for wet AMD and may be extended by up to one month at a time for DME.
-For RVO, treatment intervals may also be gradually extended, however there are insufficient data to conclude on the length of these intervals.
+For PDR and RVO, treatment intervals may also be gradually extended, however there are insufficient data to conclude on the length of these intervals.
 If disease activity recurs, the treatment interval should be shortened accordingly.
 
 The treatment of visual impairment due to CNV should be determined individually per patient based on disease activity.
@@ -54,10 +54,10 @@ Dose adjustment is not needed in patients with renal impairment (see section 5.2
 Elderly
 No dose adjustment is required in the elderly.
 There is limited experience in patients older than 75 years with DME.
-
 Paediatric population
 The safety and efficacy of Lucentis in children and adolescents below 18 years of age for indications other than retinopathy of prematurity have not been established.
 Available data in adolescent patients aged 12 to 17 years with visual impairment due to CNV are described in section 5.1 but no recommendation on a posology can be made.
+
 Method of administration
 
 Single-use vial for intravitreal use only.

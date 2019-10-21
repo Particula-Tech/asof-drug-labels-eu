@@ -39,6 +39,7 @@ Re-use may lead to infection or other illness/injury.
 All components are sterile.
 Any component with packaging showing signs of damage or tampering must not be used.
 The sterility cannot be guaranteed unless the component packaging seal remains intact.
+
 The syringe provided in the pack is only for use in adults.
 For treatment of preterm infants the separate VISISURE kit including a low volume high accuracy syringe and an injection needle (30G x ½″) should be used.
 
