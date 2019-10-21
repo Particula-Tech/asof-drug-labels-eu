@@ -37,7 +37,7 @@ Typically, such reactions have been observed within the first weeks or months of
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections and pneumonia caused by Pneumocystis jiroveci (formerly known as Pneumocystis carinii).
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 
-Autoimmune disorders (such as Graves’ disease) have also been reported to occur in the setting of immune reactivation: however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
+Autoimmune disorders (such as Graves’ disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reactivation: however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
 
 Antacids
 

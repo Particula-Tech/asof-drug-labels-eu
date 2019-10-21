@@ -8,12 +8,12 @@ Raltegravir is an integrase strand transfer inhibitor active against the Human I
 Raltegravir inhibits the catalytic activity of integrase, an HIV-encoded enzyme that is required for viral replication.
 Inhibition of integrase prevents the covalent insertion, or integration, of the HIV genome into the host cell genome.
 HIV genomes that fail to integrate cannot direct the production of new infectious viral particles, so inhibiting integration prevents propagation of the viral infection.
-
 Antiviral activity in vitro
 
 Raltegravir at concentrations of 31 ±20 nM resulted in 95 % inhibition (IC95) of HIV-1 replication (relative to an untreated virus-infected culture) in human T-lymphoid cell cultures infected with the cell-line adapted HIV-1 variant H9IIIB.
 In addition, raltegravir inhibited viral replication in cultures of mitogen-activated human peripheral blood mononuclear cells infected with diverse, primary clinical isolates of HIV-1, including isolates from 5 non-B subtypes, and isolates resistant to reverse transcriptase inhibitors and protease inhibitors.
 In a single-cycle infection assay, raltegravir inhibited infection of 23 HIV isolates representing 5 non-B subtypes and 5 circulating recombinant forms with IC50 values ranging from 5 to 12 nM.
+
 Resistance
 
 Most viruses isolated from patients failing raltegravir had high-level raltegravir resistance resulting from the appearance of two or more mutations in integrase.
@@ -41,7 +41,6 @@ A median of 4 ARTs was used in OBT.
 
 Results 48 week and 96 week analyses
 Durable outcomes (Week 48 and Week 96) for patients on the recommended dose raltegravir 400 mg twice daily from the pooled studies BENCHMRK 1 and BENCHMRK 2 are shown in Table 2.
-
 Table 2
 Efficacy Outcome at Weeks 48 and 96
 
@@ -64,13 +63,6 @@ HIV-RNA > 100,000 copies/mL 62 (53, 69) 17 (9, 27) 53 (45, 61) 15 (8, 25)
 CD4-count ≤50 cells/mm3 61 (53, 69) 21 (13, 32) 51 (42, 60) 14 (7, 24)
 > 50 and ≤200 cells/mm3 80 (73, 85) 44 (33, 55) 70 (62, 77) 36 (25, 48)
 > 200 cells/mm3 83 (76, 89) 51 (39, 63) 78 (70, 85) 42 (30, 55)
-BENCHMRK 1 and 2 Pooled 48 Weeks 96 Weeks
-
-Raltegravir Placebo + Raltegravir Placebo +
-
-Parameter 400 mg twice OBT 400 mg twice OBT
-daily + OBT (N = 237) daily + OBT (N = 237)
-(N = 462) (N = 462)
 
 Sensitivity score (GSS) §
 
@@ -128,7 +120,6 @@ Raltegravir achieved virologic responses (using Not Completer=Failure approach) 
 < 50 copies/mL in 61.7 % of patients at Week 16, in 62.1 % at Week 48 and in 57.0 % at Week 96.
 Some patients experienced viral rebound between Week 16 and Week 96.
 Factors associated with failure include high baseline viral load and OBT that did not include at least one potent active agent.
-
 Switch to raltegravir
 The SWITCHMRK 1 & 2 (Protocols 032 & 033) studies evaluated HIV-infected patients receiving suppressive (screening HIV RNA < 50 copies/mL; stable regimen > 3 months) therapy with lopinavir 200 mg (+) ritonavir 50 mg 2 tablets twice daily plus at least 2 nucleoside reverse transcriptase inhibitors and randomised them 1:1 to continue lopinavir (+) ritonavir 2 tablets twice daily (n=174 and n=178, respectively) or replace lopinavir (+) ritonavir with raltegravir 400 mg twice daily (n=174 and n=176, respectively).
 Patients with a prior history of virological failure were not excluded and the number of previous antiretroviral therapies was not limited.
@@ -149,7 +140,6 @@ With respect to the primary efficacy endpoint, the proportion of patients achiev
 The treatment difference (raltegravir – efavirenz) was 4.2 % with an associated 95 % CI of (-1.9, 10.3) establishing that raltegravir is non-inferior to efavirenz (p-value for non-inferiority < 0.001).
 At Week 240, the treatment difference (raltegravir – efavirenz) was 9.5 % with an associated 95 % CI of (1.7, 17.3).
 Week 48 and Week 240 outcomes for patients on the recommended dose of raltegravir 400 mg twice daily from STARTMRK are shown in Table 3.
-
 Table 3
 Efficacy Outcome at Weeks 48 and 240
 
@@ -195,6 +185,7 @@ Percent of patients with response and associated 95 % confidence interval (CI) a
 For mean CD4 changes, baseline-carry-forward was used for virologic failures.
 Notes: The analysis is based on all available data.
 Raltegravir and efavirenz were administered with emtricitabine (+) tenofovir disoproxil fumarate.
+
 Paediatric population
 
 Children and adolescents 2 to 18 years of age
@@ -208,7 +199,6 @@ The initial dose finding stage included intensive pharmacokinetic evaluation.
 Dose selection was based upon achieving similar raltegravir plasma exposure and trough concentration as seen in adults, and acceptable short term safety.
 After dose selection, additional patients were enrolled for evaluation of long term safety, tolerability and efficacy.
 Of the 126 patients, 96 received the recommended dose of raltegravir (see section 4.2).
-
 Table 4
 Baseline Characteristics and Efficacy Outcomes at Weeks 24 and 48 from IMPAACT P1066
 (2 to 18 years of age)
@@ -250,7 +240,8 @@ Mean CD4 cell count (%) increase from baseline 119 cells/mm3 156 cells/mm3
 
 Infants and toddlers 4 weeks to less than 2 years of age
 IMPAACT P1066 also enrolled HIV-infected, infants and toddlers 4 weeks to less than 2 years of age who had received prior antiretroviral therapy either as prophylaxis for prevention of mother to child transmission (PMTCT) and/or as combination antiretroviral therapy for treatment of HIV infection.
-Raltegravir was administered as granules for oral suspension formulation without regard to food in combination with an optimisedbackground regimen that included lopinavir plus ritonavir in two-thirds of patients.
+Raltegravir was administered as granules for oral suspension formulation without regard to food in combination with an optimised background regimen that included lopinavir plus ritonavir in two-thirds of patients.
+
 Table 5
 Baseline Characteristics and Efficacy Outcomes at Weeks 24 and 48 from IMPAACT P1066
 (4 weeks to less than 2 years of age)
@@ -280,6 +271,7 @@ Prior ART Use by Class
 NNRTI 73 %
 NRTI 46%
 PI 19 %
+Parameter N=26
 Response Week 24 Week 48
 
 Achieved ≥1 log10 HIV RNA drop from baseline or
@@ -314,6 +306,7 @@ Treatment-naïve adult patients (1,200 mg [2 x 600 mg] once daily)
 ONCEMRK (multi-centre, randomised, double-blind, active-control trial; Protocol 292) evaluated the safety and anti-retroviral activity of raltegravir 1,200 mg once daily + emtricitabine (+) tenofovir disoproxil fumarate vs. raltegravir 400 mg twice daily, in combination with emtricitabine (+) tenofovir disoproxil fumarate, in treatment-naïve HIV-infected patients with HIV RNA > 1,000 copies/mL.
 Randomisation was stratified by screening HIV RNA level (≤100,000 copies/mL; and
 > 100,000 copies/mL) and by hepatitis B or C status (positive or negative).
+
 Patient demographics (gender, age and race) and baseline characteristics were comparable between the group receiving raltegravir 1,200 mg once daily and the group receiving raltegravir 400 mg twice daily.
 
 Results of Week 48 and 96 analyses
@@ -385,9 +378,9 @@ This study enrolled 126 treatment experienced children and adolescents 2 to 18 y
 
 Table 6
 
-Achieved HIV RNA <50 copies/mL 54 % 57 %
+CD4 cell count (cells/mm3), median [range] 481 [0 – 2361]
 
-Raltegravir was administered as granules for oral suspension formulation without regard to food in combination with an optimised background regimen that included lopinavir plus ritonavir in two-thirds of patients.
+Achieved HIV RNA <50 copies/mL 54 % 57 %
 
 Table 7
 

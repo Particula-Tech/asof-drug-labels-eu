@@ -27,7 +27,7 @@ Less potent UGT1A1 inhibitors (e.g., indinavir, saquinavir) may also increase pl
 In addition, tenofovir disoproxil fumarate may increase plasma levels of raltegravir, however, the mechanism for this effect is unknown (see Table 1).
 From the clinical trials, a large proportion of patients used atazanavir and / or tenofovir disoproxil fumarate, both agents that result in increases in raltegravir plasma levels, in the optimised background regimens.
 The safety profile observed in patients who used atazanavir and / or tenofovir disoproxil fumarate was generally similar to the safety profile of patients who did not use these agents.
-Therefore no dose adjustment is required.
+Therefore, no dose adjustment is required.
 
 Co-administration of raltegravir with antacids containing divalent metal cations may reduce raltegravir absorption by chelation, resulting in a decrease of raltegravir plasma levels.
 Taking an aluminium and magnesium antacid within 6 hours of raltegravir administration significantly decreased raltegravir plasma levels.
@@ -37,7 +37,7 @@ Therefore, when raltegravir is co-administered with calcium carbonate containing
 
 Co-administration of raltegravir with other agents that increase gastric pH (e.g., omeprazole and famotidine) may increase the rate of raltegravir absorption and result in increased plasma levels of raltegravir (see Table 1).
 Safety profiles in the subgroup of patients in Phase III trials taking proton pump inhibitors or H2 antagonists were comparable with those who were not taking these antacids.
-Therefore no dose adjustment is required with use of proton pump inhibitors or H2 antagonists.
+Therefore, no dose adjustment is required with use of proton pump inhibitors or H2 antagonists.
 
 All interaction studies were performed in adults.
 
@@ -78,6 +78,12 @@ Pharmacokinetic Interaction Data
 
 [ISENTRESS 600 mg film-coated tablets]
 
+In vitro, raltegravir is a weak inhibitor of organic anion transporter (OAT) 1 (IC50 of 109 µM) and OAT3 (IC50 of 18.8 µM).
+Caution is recommended when co-administering raltegravir 1,200 mg once daily with sensitive OAT1 and/or OAT3 substrates.
+
+In vitro studies indicate that raltegravir is not a substrate of cytochrome P450 (CYP) enzymes, does not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A, does not inhibit UDP glucuronosyltransferases (UGTs) 1A1 and 2B7, does not induce CYP3A4 and is not an inhibitor of P-glycoprotein (P-gp), breast cancer resistance protein (BCRP), organic anion-transporting polypeptides (OATP) 1B1, OATP1B3, organic cation transporters (OCT)1 and OCT2, or multidrug and toxin extrusion proteins (MATE)1 and MATE2-K.
+Based on these data, raltegravir is not expected to affect the pharmacokinetics of medicinal products that are substrates of these enzymes or transporters.
+
 In drug interaction studies performed using raltegravir 400 mg twice daily, raltegravir did not have a clinically meaningful effect on the pharmacokinetics of etravirine, maraviroc, tenofovir disoproxil fumarate, hormonal contraceptives, methadone, midazolam or boceprevir.
 These findings can be extended to raltegravir 1,200 mg once daily and no dosage adjustment is required for these agents.
 
@@ -111,6 +117,7 @@ Emtricitabine/tenofovir disaproxil fumarate was identified to increase raltegrav
 Therefore, co-administration of emtricitabine/tenofovir disaproxil fumarate and raltegravir 1,200 mg once daily is permitted.
 
 Comprehensive drug interaction studies were performed with raltegravir 400 mg twice daily and a limited number of drug interaction studies were performed for raltegravir 1,200 mg once daily.
+
 Table 1 displays all available interaction study data along with recommendations for co-administration.
 
 | Medicinal products by therapeutic area | Interaction (mechanism, if known) | Recommendations concerning co-administration |

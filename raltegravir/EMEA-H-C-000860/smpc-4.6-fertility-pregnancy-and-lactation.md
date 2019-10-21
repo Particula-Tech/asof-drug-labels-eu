@@ -2,10 +2,9 @@
 
 Pregnancy
 
-There are no data from the use of raltegravir in pregnant women.
-Studies in animals have shown reproductive toxicity (see section 5.3).
-The potential risk for humans is unknown.
-Raltegravir is not recommended during pregnancy.
+A moderate amount of data on pregnant women (between 300 – 1,000 pregnancy outcomes from first trimester exposure) indicate no malformative or feto/neonatal toxicity of raltegravir 400 mg twice daily.
+Animal studies have shown reproductive toxicity (see section 5.3).
+Raltegravir 400 mg twice daily should be used during pregnancy only if the expected benefit justifies the potential risk to the foetus.
 
 Anti-retroviral Pregnancy Registry
 To monitor maternal-foetal outcomes in patients inadvertently administered raltegravir while pregnant, an Anti-retroviral Pregnancy Registry has been established.
@@ -22,20 +21,23 @@ A risk to the newborns/infants cannot be excluded.
 
 Raltegravir should not be used during breast-feeding.
 As a general rule, it is recommended that mothers infected by HIV do not breast-feed their babies in order to avoid transmission of HIV.
-
 Fertility
 
 No effect on fertility was seen in male and female rats at doses up to 600 mg/kg/day which resulted in 3-fold exposure above the exposure at the recommended human dose.
 
 [ISENTRESS 600 mg film-coated tablets]
 
-There are no data from the use of raltegravir 1,200 mg once daily in pregnant women.
-Raltegravir 1,200 mg once daily is not recommended during pregnancy.
+There are no data for the use of raltegravir 1,200 mg once daily in pregnant women.
+Raltegravir 1,200 mg is not recommended during pregnancy.
 
 [ISENTRESS 25 mg chewable tablets]
 
-(all sentences already above)
+There are no data for the use of raltegravir chewable tablets in pregnant women.
+A moderate amount of data on pregnant women (between 300 – 1,000 pregnancy outcomes from first trimester exposure) indicate no malformative or feto/neonatal toxicity of raltegravir 400 mg film-coated tablets twice daily.
+Raltegravir chewable tablets should be used during pregnancy only if the expected benefit justifies the potential risk to the foetus.
+See section 4.2 for dosing recommendations.
 
 [ISENTRESS 100 mg granules for oral suspension]
 
-(all sentences already above)
+There are no data for the use of raltegravir granules for oral suspension in pregnant women.
+Raltegravir granules for oral suspension should be used during pregnancy only if the expected benefit justifies the potential risk to the foetus.

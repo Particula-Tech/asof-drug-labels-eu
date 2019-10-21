@@ -6,6 +6,7 @@ Effects at exposure levels sufficiently in excess of clinical exposure levels in
 Mutagenicity
 
 No evidence of mutagenicity or genotoxicity was observed in in vitro microbial mutagenesis (Ames) tests, in vitro alkaline elution assays for DNA breakage and in vitro and in vivo chromosomal aberration studies.
+
 Carcinogenicity
 
 A carcinogenicity study of raltegravir in mice did not show any carcinogenic potential.
@@ -18,7 +19,7 @@ Standard genotoxicity studies to evaluate mutagenicity and clastogenicity were n
 Developmental toxicity
 
 Raltegravir was not teratogenic in developmental toxicity studies in rats and rabbits.
-A slight increase in incidence of supernumerary ribs was observed in rat pups of dams exposed to raltegravir at approximately 4.4-fold human exposure at 400 mg twice daily based on AUC0-24 hr. No development effects were seen at 3.4-fold human exposure at 400 mg twice daily based on AUC0-24 hr (see section 4.6).
+A slight increase in incidence of supernumerary ribs, a variant in the normal developmental process, was observed in rat foetuses of dams exposed to raltegravir at approximately 4.4-fold human exposure at the recommended human dose (RHD) based on AUC0-24 hr. No development effects were seen at 3.4-fold human exposure at the RHD.
 Similar findings were not observed in rabbits.
 
 [ISENTRESS 600 mg film-coated tablets]
@@ -26,11 +27,9 @@ Similar findings were not observed in rabbits.
 At the highest dose levels, 400 mg/kg/day in females and 250 mg/kg/day in males, systemic exposure was similar to that at the clinical dose of 1,200 mg once daily.
 At the NOAEL, systemic exposure was similar to that at the clinical dose of 1,200 mg once daily.
 
-A slight increase in incidence of supernumerary ribs was observed in rat pups of dams exposed to raltegravir at approximately 4.4-fold human exposure at 1,200 mg once daily based on AUC0-24 hr. No development effects were seen at 3.4-fold human exposure at 1,200 mg once daily based on AUC0-24 hr (see section 4.6).
-
 [ISENTRESS 25 mg chewable tablets]
 
-(all sentences already above)
+A slight increase in incidence of supernumerary ribs, a variant in the normal developmental process, was observed in rat foetuses of dams exposed to raltegravir at approximately 4.4-fold human exposure at 400 mg twice daily based on AUC0-24 hr. No development effects were seen at 3.4-fold human exposure at 400 mg twice daily based on AUC0-24 hr. Similar findings were not observed in rabbits.
 
 [ISENTRESS 100 mg granules for oral suspension]
 

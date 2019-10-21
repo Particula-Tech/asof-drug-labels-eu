@@ -17,6 +17,7 @@ Raltegravir C12 hr was 66 % higher and Cmax was 5 % higher following a moderate-
 Administration of raltegravir following a high-fat meal increased AUC and Cmax by approximately 2-fold and increased C12 hr by 4.1-fold.
 Administration of raltegravir following a low-fat meal decreased AUC and Cmax by 46 % and 52 %, respectively; C12 hr was essentially unchanged.
 Food appears to increase pharmacokinetic variability relative to fasting.
+
 Overall, considerable variability was observed in the pharmacokinetics of raltegravir.
 For observed C12 hr in BENCHMRK 1 and 2 the coefficient of variation (CV) for inter-subject variability = 212 % and the CV for intra-subject variability = 122 %.
 Sources of variability may include differences in co-administration with food and concomitant medicines.
@@ -30,7 +31,6 @@ In two studies of HIV-1 infected patients who received raltegravir 400 mg twice 
 In the first study(n=18), the median cerebrospinal fluid concentration was 5.8 % (range 1 to 53.5 %) of the corresponding plasma concentration.
 In the second study (n=16), the median cerebrospinal fluid concentration was 3 % (range 1 to 61 %) of the corresponding plasma concentration.
 These median proportions are approximately 3- to 6-fold lower than the free fraction of raltegravir in plasma.
-
 Biotransformation and excretion
 
 The apparent terminal half-life of raltegravir is approximately 9 hours, with a shorter α-phase half-life (~1 hour) accounting for much of the AUC.
@@ -39,7 +39,7 @@ In faeces, only raltegravir was present, most of which is likely to be derived f
 Two components, namely raltegravir and raltegravir-glucuronide, were detected in urine and accounted for approximately 9 and 23 % of the dose, respectively.
 The major circulating entity was raltegravir and represented approximately 70 % of the total radioactivity; the remaining radioactivity in plasma was accounted for by raltegravir-glucuronide.
 Studies using isoform-selective chemical inhibitors and cDNA-expressed UDP-glucuronosyltransferases (UGT) show that UGT1A1 is the main enzyme responsible for the formation of raltegravir-glucuronide.
-Thus the data indicate that the major mechanism of clearance of raltegravir in humans is UGT1A1-mediated glucuronidation.
+Thus, the data indicate that the major mechanism of clearance of raltegravir in humans is UGT1A1-mediated glucuronidation.
 
 UGT1A1 Polymorphism
 In a comparison of 30 subjects with *28/*28 genotype to 27 subjects with wild-type genotype, the geometric mean ratio (90 % CI) of AUC was 1.41 (0.96, 2.09) and the geometric mean ratio of C12 hr was 1.91 (1.43, 2.55).
@@ -55,6 +55,7 @@ Administration of the chewable tablet with a high fat meal does not affect ralte
 The effect of food on the granules for oral suspension formulation was not studied.
 
 Table 6 displays pharmacokinetic parameters in the 400 mg tablet, the chewable tablet, and the granules for oral suspension, by body weight.
+
 Table 6
 Raltegravir Pharmacokinetic Parameters IMPAACT P1066 Following Administration of Doses in Section 4.2 (excluding neonates)
 
@@ -99,7 +100,6 @@ Administration of a high fat meal resulted in a 1.9% increase in AUC0-last, 28% 
 62 % decrease in Cmax, and 188 % increase in C12 hr compared to administration in the fasted state.
 
 Table 5 displays pharmacokinetic parameters in the 400 mg tablet, the chewable tablet, and the granules for oral suspension, by body weight.
-
 Table 5
 
 There was no clinically meaningful effect of age on raltegravir pharmacokinetics over the age range studied with raltegravir 400 mg twice daily.
@@ -147,7 +147,7 @@ Raltegravir Pharmacokinetic Parameters IMPAACT P1066 Following Administration of
 
 HIV-1 Exposed Neonates
 IMPAACT P1110 is a Phase I trial to evaluate the safety and pharmacokinetics of raltegravir granules for suspension (GFS) with standard care PMTCT in full term HIV-1-exposed neonates.
-Cohort 1 (N=16,10 exposed and 6 unexposed to raltegravir in utero) received 2 single doses of raltegravir GFS (within 48 hours and 7 - 10 days after birth); Cohort 2 (N=26, all raltegravir unexposed in utero) received raltegravir GFS for 6 weeks: 1.5 mg/kg once daily starting within 48 hours of birth through Week 1; 3 mg/kg twice daily Weeks 2 to 4; and 6 mg/kg twice daily Weeks 5 and 6.
+Cohort 1 (N=16, 10 exposed and 6 unexposed to raltegravir in utero) received 2 single doses of raltegravir GFS (within 48 hours and 7 - 10 days after birth); Cohort 2 (N=26, all raltegravir unexposed in utero) received raltegravir GFS for 6 weeks: 1.5 mg/kg once daily starting within 48 hours of birth through Week 1; 3 mg/kg twice daily Weeks 2 to 4; and 6 mg/kg twice daily Weeks 5 and 6.
 
 Table 9 displays pharmacokinetic parameters for neonates in Cohort 2 at birth and at 2 weeks of age.
 Elimination of raltegravir in vivo in human is primarily through the UGT1A1-mediated glucuronidation pathway.

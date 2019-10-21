@@ -100,7 +100,6 @@ No data are available in pre-term neonates.
 The use of ISENTRESS is not recommended in pre-term neonates.
 
 Patients should be instructed to keep scheduled appointments because the ISENTRESS dosage should be adjusted as the child grows.
-
 ISENTRESS is also available in a 400 mg tablet and as granules for oral suspension for use.
 Refer to the 400 mg tablet and granules for oral suspension SmPCs for additional dosing information.
 

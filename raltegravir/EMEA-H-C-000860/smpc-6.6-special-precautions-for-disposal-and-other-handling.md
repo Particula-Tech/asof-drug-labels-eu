@@ -17,7 +17,6 @@ Any unused medicinal product or waste material should be disposed of in accordan
 Each single-use sachet contains 100 mg of raltegravir which is to be suspended in 10 mL of water giving a final concentration of 10 mg per mL.
 
 After administration of the required volume, the remaining suspension in the mixing cup cannot be re-used and must be discarded.
-
 Parents and/or caregivers should be instructed to read the instructions for use booklet before preparing and administering ISENTRESS granules for oral suspension to paediatric patients.
 
 The dose should be administered orally within 30 minutes of mixing.
