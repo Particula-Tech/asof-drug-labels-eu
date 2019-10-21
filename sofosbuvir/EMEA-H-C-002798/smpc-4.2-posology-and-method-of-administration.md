@@ -42,6 +42,7 @@ Refer to the peginterferon alfa Summary of Product Characteristics for additiona
 
 If a patient has a serious adverse reaction potentially related to ribavirin, the ribavirin dose should be modified or discontinued, if appropriate, until the adverse reaction abates or decreases in severity.
 Table 2 provides guidelines for dose modifications and discontinuation based on the patient’s haemoglobin concentration and cardiac status.
+
 Table 2: Ribavirin dose modification guideline for co-administration with Sovaldi in adults
 
 | Laboratory values | Reduce ribavirin dose to 600 mg/day if: | Discontinue ribavirin if: |
@@ -89,9 +90,9 @@ Dose reduction of Sovaldi is not recommended.
 
 If a patient has a serious adverse reaction potentially related to ribavirin, the ribavirin dose should be modified or discontinued, if appropriate, until the adverse reaction abates or decreases in severity.
 Refer to the ribavirin prescribing information for guidance on dose modification or discontinuation.
+
 Discontinuation of dosing in adults and adolescents
 If the other medicinal products used in combination with Sovaldi are permanently discontinued, Sovaldi should also be discontinued (see section 4.4).
-
 Vomiting and missed doses
 Patients should be instructed that if vomiting occurs within 2 hours of dosing an additional tablet should be taken.
 If vomiting occurs more than 2 hours after dosing, no further dose is needed.
@@ -108,7 +109,9 @@ No dose adjustment is warranted for elderly patients (see section 5.2).
 
 Renal impairment
 No dose adjustment of Sovaldi is required for patients with mild or moderate renal impairment.
-The safety and appropriate dose of Sovaldi have not been established in patients with severe renal impairment (estimated glomerular filtration rate [eGFR] <30 mL/min/1.73 m2) or end stage renal disease (ESRD) requiring haemodialysis (see section 5.2).
+
+Safety data are limited in patients with severe renal impairment (estimated glomerular filtration rate [eGFR] <30 mL/min/1.73 m2) and end stage renal disease (ESRD) requiring haemodialysis.
+Sovaldi can be used in these patients with no dose adjustment when no other relevant treatment options are available (see section 4.4, 4.8, 5.1 and 5.2).
 
 Hepatic impairment
 No dose adjustment of Sovaldi is required for patients with mild, moderate or severe hepatic impairment (Child-Pugh-Turcotte [CPT] class A, B or C) (see section 5.2).

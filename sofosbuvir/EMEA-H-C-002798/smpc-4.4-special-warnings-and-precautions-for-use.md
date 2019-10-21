@@ -22,6 +22,12 @@ Due to the long half-life of amiodarone, appropriate monitoring should also be c
 
 All patients receiving Sovaldi in combination with amiodarone with or without other medicinal products that lower heart rate should also be warned of the symptoms of bradycardia and heart block and should be advised to seek medical advice urgently should they experience them.
 
+HCV/HBV (hepatitis B virus) co-infection
+
+Cases of hepatitis B virus (HBV) reactivation, some of them fatal, have been reported during or after treatment with direct-acting antiviral agents.
+HBV screening should be performed in all patients before initiation of treatment.
+HBV/HCV co-infected patients are at risk of HBV reactivation, and should therefore be monitored and managed according to current clinical guidelines.
+
 Treatment-experienced patients with genotype 1, 4, 5 and 6 HCV infection
 
 Sovaldi has not been studied in a Phase 3 study in treatment-experienced patients with genotype 1, 4, 5 and 6 HCV infection.
@@ -51,7 +57,7 @@ Refer to the Summary of Product Characteristics for ribavirin for additional inf
 
 Use with moderate P-gp inducers
 
-Medicinal products that are moderate P-gp inducers in the intestine (e.g. oxcarbazepine and modafinil) may decrease sofosbuvir plasma concentration leading to reduced therapeutic effect of Sovaldi.
+Medicinal products that are moderate P-gp inducers in the intestine (e.g. modafinil, oxcarbazepine and rifapentine) may decrease sofosbuvir plasma concentration leading to reduced therapeutic effect of Sovaldi.
 Co-administration of such medicinal products is not recommended with Sovaldi (see section 4.5).
 
 Use in diabetic patients
@@ -62,13 +68,6 @@ The physician in charge of the diabetic care of the patient should be informed w
 
 Renal impairment
 
-The safety of Sovaldi has not been assessed in patients with severe renal impairment (eGFR
-<30 mL/min/1.73 m2) or ESRD requiring haemodialysis.
-Furthermore, the appropriate dose has not been established.
+Safety data are limited in patients with severe renal impairment (eGFR <30 mL/min/1.73 m2) and ESRD requiring haemodialysis.
+Sovaldi can be used in these patients with no dose adjustment when no other relevant treatment options are available (see sections 4.8, 5.1 and 5.2).
 When Sovaldi is used in combination with ribavirin or peginterferon alfa/ribavirin, refer also to the Summary of Product Characteristics for ribavirin for patients with creatinine clearance (CrCl) <50 mL/min (see also section 5.2).
-
-HCV/HBV (hepatitis B virus) co-infection
-
-Cases of hepatitis B virus (HBV) reactivation, some of them fatal, have been reported during or after treatment with direct-acting antiviral agents.
-HBV screening should be performed in all patients before initiation of treatment.
-HBV/HCV co-infected patients are at risk of HBV reactivation, and should therefore be monitored and managed according to current clinical guidelines.

@@ -33,6 +33,7 @@ Very common headache dizziness, headache
 Common disturbance in attention migraine, memory impairment, disturbance in attention
 Eye disorders:
 Common vision blurred
+Frequency SOFa + RBVb SOF + PEGc + RBV
 Respiratory, thoracic and mediastinal disorders:
 Very common dyspnoea, cough
 Common dyspnoea, dyspnoea exertional, cough dyspnoea exertional
@@ -52,10 +53,14 @@ Very common fatigue, irritability chills, fatigue, influenza-like illness, irrit
 Common pyrexia, asthenia chest pain, asthenia
 
 a. SOF = sofosbuvir; b. RBV = ribavirin; c. PEG = peginterferon alfa.
+
 Description of selected adverse reactions
 
 Cardiac arrhythmias
 Cases of severe bradycardia and heart block have been observed when sofosbuvir containing-regimes are used in combination with amiodarone and/or other medicinal products that lower heart rate (see sections 4.4 and 4.5).
+
+Skin disorders
+Frequency not known: Stevens-Johnson syndrome
 
 Other special population(s)
 
@@ -64,6 +69,12 @@ The safety profile of sofosbuvir and ribavirin in HCV/HIV co-infected adult pati
 
 Patients awaiting liver transplantation
 The safety profile of sofosbuvir and ribavirin in HCV infected adult patients prior to liver transplantation was similar to that observed in patients treated with sofosbuvir and ribavirin in Phase 3 clinical studies (see section 5.1).
+
+Patients with Renal Impairment
+Sofosbuvir in a fixed dose combination with ledipasvir was administered for 12 weeks to 18 patients with genotype 1 CHC and severe renal impairment in an open-label study (Study 0154).
+The safety of sofosbuvir in a fixed dose combination with either ledipasvir or velpatasvir has been studied in 154 patients with ESRD requiring dialysis (Study 4062 and Study 4063).
+In this setting, exposure of sofosbuvir metabolite GS-331007 is 20-fold increased, exceeding levels where adverse reactions have been observed in preclinical trials.
+In this limited clinical safety data set, the rate of adverse events and deaths was not clearly elevated from what is expected in ESRD patients.
 
 Liver transplant recipients
 The safety profile of sofosbuvir and ribavirin in liver transplant adult recipients with chronic hepatitis C was similar to that observed in patients treated with sofosbuvir and ribavirin in Phase 3 clinical studies (see section 5.1).
@@ -74,9 +85,6 @@ In 5 patients (12.5%), study drugs were discontinued, modified or interrupted du
 Paediatric population
 The safety and efficacy of Sovaldi in adolescents aged 12 to <18 years are based on data from 50 patients who were treated with Sovaldi and ribavirin for 12 weeks (genotype 2 patients) and 24 weeks (genotype 3 patients) in a Phase 2, open-label clinical trial.
 The adverse reactions observed were consistent with those observed in clinical studies of Sovaldi plus ribavirin in adults (see Table 6).
-
-Skin disorders
-Frequency Not known: Stevens-Johnson syndrome
 
 Reporting of suspected adverse reactions
 

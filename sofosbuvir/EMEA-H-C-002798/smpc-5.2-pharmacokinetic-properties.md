@@ -34,6 +34,7 @@ Sofosbuvir is extensively metabolised in the liver to form the pharmacologically
 The metabolic activation pathway involves sequential hydrolysis of the carboxyl ester moiety catalysed by human cathepsin A (CatA) or carboxylesterase 1 (CES1) and phosphoramidate cleavage by histidine triad nucleotide-binding protein 1 (HINT1) followed by phosphorylation by the pyrimidine nucleotide biosynthesis pathway.
 Dephosphorylation results in the formation of nucleoside metabolite GS-331007 that cannot be efficiently rephosphorylated and lacks anti-HCV activity in vitro.
 Sofosbuvir and GS-331007 are not substrates or inhibitors of UGT1A1 or CYP3A4, CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, and CYP2D6 enzymes.
+
 After a single 400 mg oral dose of [14C]-sofosbuvir, sofosbuvir and GS-331007 accounted for approximately 4% and >90% of drug-related material (sum of molecular weight-adjusted AUC of sofosbuvir and its metabolites) systemic exposure, respectively.
 
 Elimination
@@ -59,17 +60,25 @@ Clinical studies of sofosbuvir included 65 patients aged 65 and over.
 The response rates observed for patients over 65 years of age were similar to that of younger patients across treatment groups.
 
 Renal impairment
-The pharmacokinetics of sofosbuvir were studied in HCV negative patients with mild (eGFR ≥50 and <80 mL/min/1.73 m2), moderate (eGFR ≥30 and <50 mL/min/1.73 m2), severe renal impairment (eGFR <30 mL/min/1.73 m2) and patients with ESRD requiring haemodialysis following a single 400 mg dose of sofosbuvir.
-Relative to patients with normal renal function
-(eGFR >80 mL/min/1.73 m2), the sofosbuvir AUC0-inf was 61%, 107% and 171% higher in mild, moderate and severe renal impairment, while the GS-331007 AUC0-inf was 55%, 88% and 451% higher, respectively.
-In patients with ESRD, relative to patients with normal renal function, sofosbuvir AUC0-inf was 28% higher when sofosbuvir was dosed 1 hour before haemodialysis compared with 60% higher when sofosbuvir was dosed 1 hour after haemodialysis.
-The AUC0-inf of GS-331007 in patients with ESRD could not be reliably determined.
-However, data indicate at least 10-fold and 20-fold higher exposure to GS-331007 in ESRD compared to normal patients when Sovaldi was administered 1 hour before or 1 hour after haemodialysis, respectively.
+A summary of the effect of varying degrees of renal impairment (RI) on the exposures of sofosbuvir and GS-331007 compared to subjects with normal renal function, as described in the text below, are provided in Table 24.
 
-Haemodialysis can efficiently remove (53% extraction ratio) the predominant circulating metabolite GS-331007.
-A 4-hour haemodialysis session removed approximately 18% of administered dose.
-No dose adjustment is required for patients with mild or moderate renal impairment.
-The safety of Sovaldi has not been assessed in patients with severe renal impairment or ESRD (see section 4.4).
+Table 24: Effect of varying degrees of renal impairment on exposures (AUC) of sofosbuvir and GS-331007 compared to subjects with normal renal function
+
+|  | HCV-Negative Subjects |  |  |  |  | HCV-Infected Subjects |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Mild RI (eGFR ≥50 and <80 mL/min/1.73 m2) | Moderate RI (eGFR ≥30 and <50 mL/min/1.73 m2) | Severe RI (eGFR <30 mL/min/1.7 3m2) | ESRD Requiring Dialysis |  | Severe RI (eGFR <30 mL/min/1. 73m2) | ESRD Requirin g Dialysis |
+|  |  |  |  | Dosed 1 hr Before Dialysis | Dosed 1 hr After Dialysis |  |  |
+| Sofosbuvir | 1.6-fold↑ | 2.1-fold↑ | 2.7-fold↑ | 1.3-fold↑ | 1.6-fold↑ | ~2-fold↑ | 1.9-fold↑ |
+| GS-331007 | 1.6-fold↑ | 1.9-fold↑ | 5.5-fold↑ | ≥10-fold↑ | ≥20-fold↑ | ~7-fold↑ | 21-fold↑ |
+
+The pharmacokinetics of sofosbuvir were studied in HCV negative patients with mild (eGFR ≥50 and <80 mL/min/1.73 m2), moderate (eGFR ≥30 and <50 mL/min/1.73 m2), severe renal impairment (eGFR <30 mL/min/1.73 m2) and patients with ESRD requiring haemodialysis following a single 400 mg dose of sofosbuvir, relative to patients with normal renal function
+(eGFR >80 mL/min/1.73 m2).
+GS-331007 is efficiently removed by haemodialysis with an extraction coefficient of approximately 53%.
+Following a single 400 mg dose of sofosbuvir, a 4 hour haemodialysis removed 18% of administered sofosbuvir dose.
+
+In HCV-infected patients with severe renal impairment treated with sofosbuvir 200 mg with ribavirin (n=10) or sofosbuvir 400 mg with ribavirin (n=10) for 24 weeks or ledipasvir/sofosbuvir 90/400 mg (n=18) for 12 weeks, the pharmacokinetics of sofosbuvir and GS-331007 were consistent with that observed in HCV negative patients with severe renal impairment.
+
+The pharmacokinetics of sofosbuvir, and GS-331007 were studied in HCV-infected patients with ESRD requiring dialysis treated with ledipasvir/sofosbuvir (n = 94) for 8, 12, or 24 weeks or sofosbuvir/velpatasvir (n = 59) for 12 weeks, and compared to patients without renal impairment in the ledipasvir/sofosbuvir and sofosbuvir/velpatasvir Phase 2/3 trials (see section 4.4).
 
 Hepatic impairment
 The pharmacokinetics of sofosbuvir were studied following 7-day dosing of 400 mg sofosbuvir in HCV infected patients with moderate and severe hepatic impairment (CPT class B and C). Relative to patients with normal hepatic function, the sofosbuvir AUC0-24 was 126% and 143% higher in moderate and severe hepatic impairment, while the GS-331007 AUC0-24 was 18% and 9% higher, respectively.

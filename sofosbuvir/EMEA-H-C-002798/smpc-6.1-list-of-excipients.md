@@ -7,6 +7,7 @@ Microcrystalline cellulose (E460(i))
 Croscarmellose sodium
 Colloidal anhydrous silica (E551)
 Magnesium stearate (E470b)
+
 Film-coating
 
 Polyvinyl alcohol (E1203)

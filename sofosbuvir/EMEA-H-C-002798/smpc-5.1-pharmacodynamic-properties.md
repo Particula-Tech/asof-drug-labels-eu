@@ -58,7 +58,6 @@ HCV replicons expressing the sofosbuvir-associated resistance substitution S282T
 Sofosbuvir retained activity against the
 NS5B substitutions L159F and L320F associated with resistance to other nucleoside inhibitors.
 Sofosbuvir was fully active against substitutions associated with resistance to other direct-acting antivirals with different mechanisms of actions, such as NS5B non-nucleoside inhibitors, NS3 protease inhibitors and NS5A inhibitors.
-
 Clinical efficacy and safety
 
 The efficacy of sofosbuvir was evaluated in five Phase 3 studies in a total of 1,568 adult patients with genotypes 1 to 6 chronic hepatitis C. One study was conducted in treatment-naïve patients with genotype 1, 4, 5 or 6 chronic hepatitis C in combination with peginterferon alfa 2a and ribavirin and the other four studies were conducted in patients with genotype 2 or 3 chronic hepatitis C in combination with ribavirin including one in treatment-naïve patients, one in interferon intolerant, ineligible or unwilling patients, one in patients previously treated with an interferon-based regimen, and one in all patients irrespective of prior treatment history or ability to receive treatment with interferon.
@@ -93,7 +92,6 @@ a. The denominator for relapse is the number of patients with HCV RNA <LLOQ at t
 b. Other includes patients who did not achieve SVR12 and did not meet virologic failure criteria (e.g., lost to follow-up).
 
 Response rates for selected subgroups are presented in Table 8.
-
 Table 8: SVR12 rates for selected subgroups in NEUTRINO
 
 |  | SOF+PEG+RBV 12 weeks (n = 327) |
@@ -123,6 +121,7 @@ Patients with genotype 2 or 3 HCV were enrolled in an approximately 1:3 ratio.
 
 Treated patients (n = 499) had a median age of 50 years (range: 19 to 77); 66% of the patients were male; 87% were White; 3% were Black; 14% were Hispanic or Latino; mean body mass index was 28 kg/m2 (range: 17 to 52 kg/m2); 57% had baseline HCV RNA levels greater than 6 log10 IU/mL; 20% had cirrhosis; 72% had HCV genotype 3.
 Table 9 presents the response rates for the treatment groups of sofosbuvir + ribavirin and peginterferon alfa + ribavirin.
+
 Table 9: Response rates in study FISSION
 
 |  | SOF+RBV 12 weeks (n = 256)a | PEG+RBV 24 weeks (n = 243) |
@@ -142,7 +141,6 @@ c. Other includes patients who did not achieve SVR12 and did not meet virologic 
 The difference in the overall SVR12 rates between sofosbuvir + ribavirin and peginterferon alfa + ribavirin treatment groups was 0.3% (95% confidence interval: -7.5% to 8.0%) and the study met the predefined non-inferiority criterion.
 
 Response rates for patients with cirrhosis at baseline are presented in Table 10 by HCV genotype.
-
 Table 10: SVR12 rates by cirrhosis and genotype in study FISSION
 
 |  | Genotype 2 |  | Genotype 3 |  |
@@ -177,6 +175,7 @@ Table 11: Response rates in study POSITRON
 
 a. The denominator for relapse is the number of patients with HCV RNA <LLOQ at their last on-treatment assessment.
 b. Other includes patients who did not achieve SVR12 and did not meet virologic failure criteria (e.g., lost to follow-up).
+
 The SVR12 rate in the sofosbuvir + ribavirin treatment group was statistically significant when compared to placebo (p <0.001).
 
 Table 12 presents the subgroup analysis by genotype for cirrhosis and interferon classification.
@@ -219,6 +218,7 @@ c. Other includes patients who did not achieve SVR12 and did not meet virologic 
 
 Table 14 presents the subgroup analysis by genotype for cirrhosis and response to prior
 HCV treatment.
+
 Table 14: SVR12 rates for selected subgroups by genotype in study FUSION
 
 |  | Genotype 2 |  | Genotype 3 |  |
@@ -240,7 +240,6 @@ Eleven HCV genotype 3 patients had already completed treatment with sofosbuvir a
 
 Treated patients (n = 419) had a median age of 51 years (range: 19 to 74); 60% of the patients were male; median body mass index was 25 kg/m2 (range: 17 to 44 kg/m2); the mean baseline HCV RNA level was 6.4 log10 IU/mL; 21% had cirrhosis; 78% had HCV genotype 3; 65% were prior relapsers.
 Table 15 presents the response rates for the treatment groups of sofosbuvir + ribavirin for 12 weeks and 24 weeks.
-
 Placebo recipients are not included in the tables since none achieved SVR12.
 
 Table 15: Response rates in study VALENCE
@@ -284,7 +283,6 @@ Patients were either not on antiretroviral therapy with a CD4+ cell count >500 c
 Preliminary SVR12 data are available for 210 patients.
 
 Table 17 presents the response rates by genotype and exposure to prior HCV treatment.
-
 Table 17: Response rates in study PHOTON-1
 
 |  | Genotype 2/3 treatment-naïve SOF+RBV 12 weeks (n = 68) | Genotype 2/3 treatment-experienced SOF+RBV 24 weeks (n = 28) | Genotype 1 treatment-naïve SOF+RBV 24 weeks (n = 114) |
@@ -342,6 +340,7 @@ Forty patients (33 with HCV genotype 1 infection, 6 with HCV genotype 3 infectio
 All patients who achieved SVR12 achieved SVR24 and SVR48.
 
 Overview of outcomes by therapeutic regimen and treatment duration, a comparison across studies The following tables (Table 20 to Table 23) present data from Phase 2 and Phase 3 studies relevant to the dosing to help clinicians determine the best regimen for individual patients.
+
 Table 20: Outcomes by therapeutic regimen and treatment duration, a comparison across studies in genotype 1 HCV infection
 
 | Patient population (Study number/name) | Regimen/Duration | Subgroup | SVR12 rate % (n/N) |
@@ -368,6 +367,7 @@ Consideration should be given to treating these patients, and potentially extend
 b. These are exploratory or Phase 2 studies.
 The outcomes should be interpreted with caution, as subject numbers are small and SVR rates may be impacted by the selection of patients.
 c. Summary data from both studies.
+
 Table 21: Outcomes by therapeutic regimen and treatment duration, a comparison across studies in genotype 2 HCV infection
 
 | Patient population (Study number/name) | Regimen/Duration | Subgroup | SVR12 rate % (n/N) |
@@ -407,6 +407,7 @@ b. These are exploratory or Phase 2 studies.
 The outcomes should be interpreted with caution, as subject numbers are small and SVR rates may be impacted by the selection of patients.
 In the ELECTRON study (N = 11), the duration of peginterferon alfa ranged from 4-12 weeks in combination with sofosbuvir + ribavirin.
 c. All patients were non-cirrhotic in these two studies.
+
 Table 22: Outcomes by therapeutic regimen and treatment duration, a comparison across studies in genotype 3 HCV infection
 
 | Patient population (Study number/name) | Regimen/Duration | Subgroup | SVR12 rate % (n/N) |
@@ -456,6 +457,20 @@ Table 23: Outcomes by therapeutic regimen and treatment duration, a comparison a
 |  |  | Cirrhosis | 50% (1/2) |
 
 n = number of patients with SVR12 response; N = total number of patients per group.
+
+Patients with renal impairment
+Study 0154 was an open-label clinical study that evaluated the safety and efficacy of 24 weeks of treatment with sofosbuvir in combination with ribavirin in 20 genotype 1 or 3 HCV-infected patients with severe renal impairment not requiring dialysis.
+Following treatment with sofosbuvir 200 mg or 400 mg in combination with ribavirin the SVR12 rate in patients with ESRD was 40% and 60%, respectively.
+The safety and efficacy of 12 weeks of treatment with ledipasvir/sofosbuvir in 18 genotype 1 HCV-infected patients with severe renal impairment not requiring dialysis was also studied in Study 0154.
+At baseline, two patients had cirrhosis and the mean eGFR was 24.9 mL/min (range: 9.0-39.6).
+SVR12 was achieved in 100 % (18/18) of patients treated with ledipasvir/sofosbuvir.
+
+Study 4063 was an open-label study that evaluated a fixed dose combination of sofosbuvir and ledipasvir in 95 patients with HCV-infection and ESRD requiring dialysis.
+The SVR rates for the 8, 12, and 24 week ledipasvir/sofosbuvir treatment groups were 93% (42/45), 100% (31/31), and 79% (15/19), respectively.
+Of the seven patients who did not achieve SVR12, none experienced virologic failure or relapsed.
+
+Study 4062 was an open-label study that evaluated a fixed dose combination of sofosbuvir and velpatasvir in 59 HCV-infected patients with ESRD requiring dialysis.
+The SVR rate was 95% (56/59); of the three patients that did not achieve SVR12, one had completed sofosbuvir with velpatasvir treatment and relapsed.
 
 Paediatric population
 The efficacy of sofosbuvir in HCV-infected patients aged 12 to <18 years was evaluated in a Phase 2, open label clinical trial that enrolled 50 patients with genotype 2 (n = 13) or genotype 3 (n = 37) chronic HCV infection.
