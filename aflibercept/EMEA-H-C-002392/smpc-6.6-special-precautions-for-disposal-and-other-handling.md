@@ -52,6 +52,7 @@ Remove the plastic cap and disinfect the outer part of the rubber stopper of the
 Attach the 18 G, 5-micron filter needle supplied in the carton to a 1-ml sterile, Luer-lock syringe.
 
 Push the filter needle into the centre of the vial stopper until the needle is completely inserted into the vial and the tip touches the bottom or bottom edge of the vial.
+
 Using aseptic technique withdraw all of the Eylea vial contents into the syringe, keeping the vial in an upright position, slightly inclined to ease complete withdrawal.
 To deter the introduction of air, ensure the bevel of the filter needle is submerged into the liquid.
 Continue to tilt the vial during withdrawal keeping the bevel of the filter needle submerged in the liquid.

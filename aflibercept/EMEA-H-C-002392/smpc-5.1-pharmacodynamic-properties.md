@@ -32,6 +32,7 @@ The reduction of CNV size and reduction in CRT were generally maintained in the 
 The ALTAIR study was conducted in Japanese patients with treatment naïve wet AMD, showing similar outcomes to the VIEW studies using 3 initial monthly Eylea 2 mg injections, followed by one injection after a further 2 months, and then continued with a treat-and-extend regimen with variable treatment intervals (2- week or 4- week adjustments) up to a maximum 16 week interval according to pre-specified criteria.
 At week 52, there were mean decreases in central retinal thickness (CRT) on OCT of -134.4 and –126.1 microns for the 2-week adjustment group and the 4-week adjustment group, respectively.
 The proportion of patients without fluid on OCT at week 52 was 68.3% and 69.1% in the 2- and 4-week adjustment groups, respectively.
+The reduction in CRT was generally maintained in both treatment arms in the second year of the ALTAIR study.
 
 Macular oedema secondary to CRVO and BRVO
 
@@ -123,7 +124,7 @@ Decreases in mean CNV area were evident in all dose groups in both studies.
 
 Efficacy results in all evaluable subgroups (e.g. age, gender, race, baseline visual acuity, lesion type, lesion size) in each study and in the combined analysis were consistent with the results in the overall populations.
 
-ALTAIR is a multicentre, randomised, open-label study in 247 Japanese patients with treatment naïve wet AMD, designed to assess the efficacy and safety of Eylea following two different adjustment intervals (2- weeks and 4- weeks) of a treat-and-extend dosing regimen.
+ALTAIR was a 96 week multicentre, randomised, open-label study in 247 Japanese patients with treatment naïve wet AMD, designed to assess the efficacy and safety of Eylea following two different adjustment intervals (2- weeks and 4- weeks) of a treat-and-extend dosing regimen.
 
 All patients received monthly doses of Eylea 2 mg for 3 months, followed by one injection after a further 2 month interval.
 At week 16, patients were randomised 1:1 into two treatment groups: 1) Eylea treat-and-extend with 2-week adjustments and 2) Eylea treat-and-extend with 4-week adjustments.
@@ -135,9 +136,16 @@ The secondary efficacy endpoints were the proportion of patients who did not los
 At week 52, patients in the treat-and-extend arm with 2-week adjustments gained a mean of 9.0 letters from baseline as compared to 8.4 letters for those in the 4-week adjustment group [LS mean difference in letters (95% CI): -0.4 (-3.8,3.0), ANCOVA].
 The proportion of patients who did not lose ≥15 letters in the two treatment arms was similar (96.7% in the 2-week and 95.9% in the 4-week adjustment groups).
 The proportion of patients who gained ≥15 letters at week 52 was 32.5% in the 2-week adjustment group and 30.9% in the 4-week adjustment group.
-The proportion of patients who extended their treatment interval to 12 weeks and beyond was 42.3% in the 2-week adjustment group and 49.6 % in the 4-week adjustment group.
+The proportion of patients who extended their treatment interval to 12 weeks or beyond was 42.3% in the 2-week adjustment group and 49.6 % in the 4-week adjustment group.
 Furthermore, in the 4-week adjustment group 40.7% of patients were extended to 16 week intervals.
-At the last visit prior to week 52, 56.7% and 57.8% of patients in the 2-week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of 12 weeks or more.
+At the last visit up to week 52, 56.8% and 57.8% of patients in the 2- week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of 12 weeks or beyond.
+
+In the second year of the study, efficacy was generally maintained up to and including the last assessment at week 96, with a mean gain from baseline of 7.6 letters for the 2-week adjustment group and 6.1 letters for the 4-week adjustment group.
+The proportion of patients who extended their treatment interval to 12 weeks or beyond was 56.9% in the 2-week adjustment group and 60.2% in the 4-week adjustment group.
+At the last visit prior to week 96, 64.9% and 61.2% of patients in the 2- week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of 12 weeks or beyond.
+During the second year of treatment patients in both the 2-week and 4-week adjustment groups received an average of 3.6 and 3.7 injections, respectively.
+Over the 2 year treatment period patients received an average of 10.4 injections.
+
 Ocular and systemic safety profiles were similar to the safety observed in the pivotal studies VIEW1 and VIEW2.
 
 Macular oedema secondary to CRVO
@@ -350,6 +358,9 @@ The safety and efficacy of Eylea were assessed in two randomised, multi-centre, 
 | DifferenceC) (95% CI)D) | -1.5% (-6.8, 3.8) | 1.8% (-3.5, 7.1) |  |  |
 
 In combined data analysis of VIEW1 and VIEW2 Eylea demonstrated clinically meaningful changes from baseline in pre-specified secondary efficacy endpoint National Eye Institute Visual Function Questionnaire (NEI VFQ-25) without clinically meaningful differences to ranibizumab.
+
+At the last visit up to week 52, 56.
+8% and 57.8% of patients in the 2- week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of 12 weeks or beyond.
 
 | Efficacy Outcomes | COPERNICUS |  |  |  |  |  | GALILEO |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
