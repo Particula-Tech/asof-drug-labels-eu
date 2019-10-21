@@ -1,12 +1,13 @@
 # 5.2 Pharmacokinetic properties
 
-Most pharmacokinetics properties observed in patients with plaque psoriasis, psoraitic arthritis and ankylosing spondylitis were similar.
+Most pharmacokinetics properties observed in patients with plaque psoriasis, psoriatic arthritis and ankylosing spondylitis were similar.
 
 Absorption
 
 Following a single subcutaneous dose of 300 mg as a liquid formulation in healthy volunteers, secukinumab reached peak serum concentrations of 43.2±10.4 μg/ml between 2 and 14 days post dose.
 
 Based on population pharmacokinetic analysis, following a single subcutaneous dose of either 150 mg or 300 mg in plaque psoriasis patients, secukinumab reached peak serum concentrations of 13.7±4.8 µg/ml or 27.3±9.5 µg/ml, respectively, between 5 and 6 days post dose.
+
 After initial weekly dosing during the first month, time to reach the maximum concentration was between 31 and 34 days based on population pharmacokinetic analysis.
 
 On the basis of simulated data, peak concentrations at steady-state (Cmax,ss) following subcutaneous administration of 150 mg or 300 mg were 27.6 µg/ml and 55.2 µg/ml, respectively.
@@ -16,7 +17,6 @@ Compared with exposure after a single dose, the population pharmacokinetic analy
 
 Population pharmacokinetic analysis showed that secukinumab was absorbed with an average absolute bioavailability of 73% in patients with plaque psoriasis.
 Across studies, absolute bioavailabilities in the range between 60 and 77% were calculated.
-
 The bioavailability of secukinumab in PsA patients was 85% on the basis of the population pharmacokinetic model.
 
 Distribution
@@ -45,6 +45,7 @@ Special populations
 
 Elderly patients
 Based on population pharmacokinetic analysis with a limited number of elderly patients (n=71 for age ≥65 years and n=7 for age ≥75 years), clearance in elderly patients and patients less than 65 years of age was similar.
+
 Patients with renal or hepatic impairment
 No pharmacokinetic data are available in patients with renal or hepatic impairment.
 The renal elimination of intact secukinumab, an IgG monoclonal antibody, is expected to be low and of minor importance.

@@ -3,7 +3,6 @@
 Summary of the safety profile
 
 The most frequently reported adverse drug reactions (ADRs) are upper respiratory tract infections (most frequently nasopharyngitis, rhinitis).
-
 Tabulated list of adverse reactions
 
 ADRs from clinical studies and post-marketing reports (Table 1) are listed by MedDRA system organ class.
@@ -11,8 +10,8 @@ Within each system organ class, the ADRs are ranked by frequency, with the most 
 Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness.
 In addition, the corresponding frequency category for each adverse drug reaction is based on the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); and not known (cannot be estimated from the available data).
 
-Over 11,900 patients have been treated with secukinumab in blinded and open-label clinical studies in various indications (plaque psoriasis, psoriatic arthritis, ankylosing spondylitis and other autoimmune conditions), representing 20,995 patient years of exposure.
-Of these, over 7,100 patients were exposed to secukinumab for at least one year.
+Over 17,900 patients have been treated with secukinumab in blinded and open-label clinical studies in various indications (plaque psoriasis, psoriatic arthritis, ankylosing spondylitis and other autoimmune conditions), representing 29,978 patient years of exposure.
+Of these, over 11,700 patients were exposed to secukinumab for at least one year.
 The safety profile of secukinumab is consistent across all indications.
 
 Table 1 List of adverse reactions in clinical studies1) and post-marketing experience
@@ -33,7 +32,8 @@ Table 1 List of adverse reactions in clinical studies1) and post-marketing exper
 | Gastrointestinal disorders | Common | Diarrhoea |
 |  | Uncommon | Inflammatory bowel disease |
 | Skin and subcutaneous tissue disorders | Uncommon | Urticaria |
-| 1) Placebo-controlled clinical studies (phase III) in plaque psoriasis, PsA and AS patients exposed to 300 mg, 150 mg, 75 mg or placebo up to 12 weeks (psoriasis) or 16 weeks (PsA and AS) treatment duration |  |  |
+|  | Rare | Exfoliative dermatitis2) |
+| 1) Placebo-controlled clinical studies (phase III) in plaque psoriasis, PsA and AS patients exposed to 300 mg, 150 mg, 75 mg or placebo up to 12 weeks (psoriasis) or 16 weeks (PsA and AS) treatment duration 2) Cases were reported in patients with psoriasis diagnosis |  |  |
 
 Description of selected adverse reactions
 
@@ -42,7 +42,6 @@ In the placebo-controlled period of clinical studies in plaque psoriasis (a tota
 The majority of infections consisted of non-serious and mild to moderate upper respiratory tract infections, such as nasopharyngitis, which did not necessitate treatment discontinuation.
 There was an increase in mucosal or cutaneous candidiasis, consistent with the mechanism of action, but the cases were mild or moderate in severity, non-serious, responsive to standard treatment and did not necessitate treatment discontinuation.
 Serious infections occurred in 0.14% of patients treated with secukinumab and in 0.3% of patients treated with placebo (see section 4.4).
-
 Over the entire treatment period (a total of 3,430 patients treated with secukinumab for up to 52 weeks for the majority of patients), infections were reported in 47.5% of patients treated with secukinumab (0.9 per patient-year of follow-up).
 Serious infections were reported in 1.2% of patients treated with secukinumab (0.015 per patient-year of follow-up).
 

@@ -3,7 +3,6 @@
 The single-use vial contains 150 mg secukinumab for reconstitution with sterile water for injections.
 The resulting solution should be clear and colourless to slightly yellow.
 Do not use if the lyophilised powder has not fully dissolved or if the liquid contains easily visible particles, is cloudy or is distinctly brown.
-
 Reconstitution
 Cosentyx 150 mg powder for solution for injection must be prepared by a healthcare professional.
 The preparation of the solution for subcutaneous injection must be done without interruption and ensuring that aseptic technique is used.

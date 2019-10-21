@@ -16,6 +16,8 @@ Based on clinical response, the dose can be increased to 300 mg.
 
 Ankylosing spondylitis
 The recommended dose is 150 mg by subcutaneous injection with initial dosing at weeks 0, 1, 2, 3 and 4, followed by monthly maintenance dosing.
+Based on clinical response, the dose can be increased to 300 mg.
+Each 300 mg dose is given as two subcutaneous injections of 150 mg.
 
 For all of the above indications, available data suggest that a clinical response is usually achieved within 16 weeks of treatment.
 Consideration should be given to discontinuing treatment in patients who have shown no response by 16 weeks of treatment.

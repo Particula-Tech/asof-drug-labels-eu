@@ -333,11 +333,11 @@ There were also statistically significant improvements demonstrated in explorato
 
 Similar responses were seen in PsA study 1 and efficacy was maintained up to week 52.
 Ankylosing spondylitis
-The safety and efficacy of secukinumab were assessed in 590 patients in two randomised, double-blind, placebo-controlled phase III studies in patients with active ankylosing spondylitis (AS) with a Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) ≥4 despite non-steroidal anti-inflammatory drug (NSAID), corticosteroid or disease-modifying anti-rheumatic drug (DMARD) therapy.
-Patients in these studies had a diagnosis of AS for a median of 2.7 to 5.8 years.
+The safety and efficacy of secukinumab were assessed in 816 patients in three randomised, double-blind, placebo-controlled phase III studies in patients with active ankylosing spondylitis (AS) with a Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) ≥4 despite non-steroidal anti-inflammatory drug (NSAID), corticosteroid or disease-modifying anti-rheumatic drug (DMARD) therapy.
+Patients in Ankylosing Spondylitis study 1 (AS study 1) and Ankylosing Spondylitis study 2 (AS study 2) had a diagnosis of AS for a median of 2.7 to 5.8 years.
 For both studies, the primary endpoint was at least a 20% improvement in Assessment of Spondyloarthritis International Society (ASAS 20) criteria at week 16.
 
-In Ankylosing Spondylitis study 1 (AS study 1) and Ankylosing Spondylitis study 2 (AS study 2) 27.0% and 38.8% of patients, respectively, were previously treated with an anti-TNFα agent and discontinued the anti-TNFα agent for either lack of efficacy or intolerance (anti-TNFα-IR patients).
+In Ankylosing Spondylitis study 1 (AS study 1), Ankylosing Spondylitis study 2 (AS study 2), and Ankylosing Spondylitis study 3 (AS study 3), 27.0%, 38.8%, and 23.5% of patients, respectively, were previously treated with an anti-TNFα agent and discontinued the anti-TNFα agent for either lack of efficacy or intolerance (anti-TNFα-IR patients).
 
 AS study 1 (MEASURE 1) evaluated 371 patients, of whom 14.8% and 33.4% used concomitant MTX or sulfasalazine, respectively.
 Patients randomised to secukinumab received 10 mg/kg intravenously at weeks 0, 2, and 4, followed by either 75 mg or 150 mg subcutaneously every month starting at week 8.
@@ -347,6 +347,11 @@ AS study 2 (MEASURE 2) evaluated 219 patients, of whom 11.9% and 14.2% used conc
 Patients randomised to secukinumab received 75 mg or 150 mg subcutaneously at weeks 0, 1, 2, 3 and 4, followed by the same dose every month.
 At week 16, patients who were randomised to placebo at baseline were re-randomised to receive secukinumab (either 75 mg or 150 mg subcutaneously) every month.
 
+AS study 3 (MEASURE 3) evaluated 226 patients, of whom 13.3% and 23.5% used concomitant MTX or sulfasalazine, respectively.
+Patients randomised to secukinumab received 10 mg/kg intravenously at weeks 0, 2, and 4, followed by either 150 mg or 300 mg subcutaneously every month.
+At week 16, patients who were randomised to placebo at baseline were re-randomised to receive secukinumab (either 150 mg or 300 mg subcutaneously) every month.
+The primary endpoint was ASAS 20 at week 16.
+Patients were blinded to the treatment regimen up to week 52, and the study continued to week 156.
 Signs and symptoms
 In AS study 2, treatment with secukinumab 150 mg resulted in greater improvement in measures of disease activity compared with placebo at week 16 (see Table 7).
 
@@ -367,10 +372,16 @@ The onset of action of secukinumab 150 mg occurred as early as week 1 for ASAS 2
 
 ASAS 20 responses were improved at week 16 in both anti-TNFα-naïve patients (68.2% versus 31.1%; p<0.05) and anti-TNFα-IR patients (50.0% versus 24.1%; p<0.05) for secukinumab 150 mg compared with placebo, respectively.
 
-In both AS studies, secukinumab-treated patients (150 mg in AS study 2 and both regimens in AS study 1) demonstrated significantly improved signs and symptoms at week 16, with comparable magnitude of response and efficacy maintained up to week 52 in both anti-TNFα-naive and anti-TNFα-IR patients.
+In AS study 1 and AS study 2, secukinumab-treated patients (150 mg in AS study 2 and both regimens in AS study 1) demonstrated significantly improved signs and symptoms at week 16, with comparable magnitude of response and efficacy maintained up to week 52 in both anti-TNFα-naive and anti-TNFα-IR patients.
 In AS study 2, among 72 patients initially randomised to secukinumab 150 mg, 61 (84.7%) patients were still on treatment at week 52.
 Of the 72 patients randomised to secukinumab 150 mg, 45 and 35 had an ASAS 20/40 response, respectively.
 
+In AS study 3, patients treated with secukinumab (150 mg and 300 mg) demonstrated improved signs and symptoms, and had comparable efficacy responses regardless of dose that were superior to placebo at week 16 for the primary endpoint (ASAS 20).
+Overall, the efficacy response rates for the 300 mg group were consistently greater compared to the 150 mg group for the secondary endpoints.
+During the blinded period, the ASAS 20 and ASAS 40 responses were 69.7% and 47.6% for 150 mg and 74.3% and 57.4% for 300 mg at week 52, respectively.
+The ASAS 20 and ASAS 40 responses were maintained up to week 156 (69.5% and 47.6% for 150 mg versus 74.8% and 55.6% for 300 mg).
+Greater response rates favouring 300 mg were also observed for ASAS partial remission (ASAS PR) response at week 16 and were maintained up to week 156.
+Larger differences in response rates, favouring 300 mg over 150 mg, were observed in anti-TNFα-IR patients (n=36) compared to anti-TNFα-naïve patients (n=114).
 Spinal mobility
 Patients treated with secukinumab 150 mg showed improvements in spinal mobility as measured by change from baseline in BASMI at week 16 for both AS study 1 (-0.40 versus -0.12 for placebo; p=0.0114) and AS study 2 (-0.51 versus -0.22 for placebo; p=0.0533).
 These improvements were sustained up to week 52.
