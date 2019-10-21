@@ -18,7 +18,6 @@ Median IgG levels at Week 52 were reduced by 11% in patients receiving Benlysta 
 
 In patients with anti-dsDNA antibodies at baseline, median anti-dsDNA antibodies levels at Week 52 were reduced by 56% in patients receiving Benlysta compared with 41% in patients receiving placebo.
 In patients with anti-dsDNA antibodies at baseline, by Week 52, 18% of patients treated with Benlysta had converted to anti-dsDNA negative compared with 15% of the patients receiving placebo.
-
 In patients with low complement levels, normalization of C3 and C4 was observed by Week 52 in 42% and 53% of patients receiving Benlysta and in 21% and 20% of patients receiving placebo, respectively.
 
 Benlysta significantly reduced circulating overall, transitional, naïve, and SLE B cells, as well as plasma cells at Week 52.
@@ -60,8 +59,7 @@ Table 1: Response rate at week 52
 
 | Response | Placebo (n=279) | Benlysta 200 mg weekly (n=554) |
 | --- | --- | --- |
-| SLE responder index | 48.4% | 61.4% (p=0.0006) |
-| Observed difference vs placebo Odds ratio (95% CI) vs placebo |  | 12.98% 1.68 (1.25, 2.25) |
+| SLE responder index Observed difference vs placebo Odds ratio (95% CI) vs placebo | 48.4% | 61.4% (p=0.0006) 12.98% 1.68 (1.25, 2.25) |
 | Components of SLE responder index |  |  |
 | Percent of patients with reduction in SELENA-SLEDAI ≥4 | 49.1% | 62.3% (p=0.0005) |
 | Percent of patients with no worsening by BILAG index | 74.2% | 80.9% (p=0.0305) |
@@ -102,12 +100,10 @@ Table 2: Patients with low complement and positive anti-dsDNA at baseline
 | Subgroup | Anti-dsDNA positive AND low complement |  |
 | --- | --- | --- |
 |  | Placebo | Benlysta 200 mg weekly |
-|  | (n=108) | (n=246) |
-| SRI response rate at week 52 (%) | 47.2 | 64.6 (p=0.0014) |
+| SRI response rate at week 52 (%) | (n=108) 47.2 | (n=246) 64.6 (p=0.0014) |
 | Observed treatment difference vs. placebo (%) |  | 17.41 |
 | Severe flares over 52 weeks: | (n=108) | (n=248) |
-| Patients experiencing a severe flare (%) | 31.5 | 14.1 |
-| Observed treatment difference vs. placebo (%) |  | 17.4 |
+| Patients experiencing a severe flare (%) Observed treatment difference vs. placebo (%) | 31.5 | 14.1 17.4 |
 | Time to severe flare [Hazard ratio (95% CI)] |  | 0.38 (0.24, 0.61) (p<0.0001) |
 |  | (n=70) | (n=164) |
 | Prednisone reduction by ≥25% from baseline to ≤7.5 mg/day during weeks 24 through 52* (%) | 11.4 | 20.7 (p=0.0844) |
@@ -119,16 +115,20 @@ Table 2: Patients with low complement and positive anti-dsDNA at baseline
 
 Age and race
 
-There were too few patients ≥65 years of age, or black/African American patients enrolled in the controlled clinical trials to draw meaningful conclusions about the effects of age or race on clinical outcomes.
+There were too few patients ≥65 years of age or black patients enrolled in the controlled clinical trials with subcutaneous Benlysta to draw meaningful conclusions about the effects of age or race on clinical outcomes.
+
+The safety and efficacy of Benlysta administered intravenously have been studied in black patients.
+The currently available data are described in the Summary of Product Characteristics of Benlysta 120 mg and 400 mg powder for concentrate for solution for infusion.
 
 Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Benlysta in one or more subsets of the paediatric population in SLE (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with Benlysta subcutaneous administration in one or more subsets of the paediatric population in SLE (see section 4.2 for information on paediatric use).
 
 [Benlysta 120 mg powder for concentrate for solution for infusion.]
 
 Changes in biomarkers were seen in clinical trials with Benlysta administered intravenously.
-In patients with hypergammaglobulinemia, normalization of IgG levels was observed by Week 52 in 49% and 20% of patients receiving Benlysta and placebo, respectively.
+In adult patients with hypergammaglobulinemia, normalization of IgG levels was observed by Week 52 in 49% and 20% of patients receiving Benlysta and placebo, respectively.
+
 In patients with anti-dsDNA antibodies, 16% of patients treated with Benlysta converted to anti-dsDNA negative compared with 7% of the patients receiving placebo by Week 52.
 
 In patients with low complement levels, normalization of C3 and C4 was observed by Week 52 in 38% and 44% of patients receiving Benlysta and in 17% and 18% of patients receiving placebo, respectively.
@@ -138,16 +138,19 @@ For anti-cardiolipin IgA antibody a 37% reduction at Week 52 was seen (p=0.0003)
 
 Changes in B cells (including naïve, memory and activated B cells, and plasma cells) and IgG levels occurring in patients during ongoing treatment with intravenous belimumab were followed in a long-term uncontrolled extension study.
 
+In one study in paediatric patients (6 to 17 years of age) the pharmacodynamic response was consistent with the adult data.
+
 Assay sensitivity for neutralising antibodies and non-specific anti-drug antibody (ADA) is limited by the presence of active drug in the collected samples.
 The true occurrence of neutralising antibodies and non-specific anti-drug antibody in the study population is therefore not known.
-In the two Phase III studies, 4 out of 563 (0.7%) patients in the 10 mg/kg group and 27 out of 559 (4.8%) patients in the 1 mg/kg group tested positive for persistent presence of anti-belimumab antibodies.
-
+In the two Phase III studies in adults, 4 of the 563 (0.7%) patients in the 10 mg/kg group and 27 out of 559 (4.8%) patients in the 1 mg/kg group tested positive for persistent presence of anti-belimumab antibodies.
 Among persistent-positive subjects in the Phase III studies, 1/10 (10%), 2/27 (7%) and 1/4 (25%) subjects in the placebo, 1 mg/kg and 10 mg/kg groups, respectively, experienced infusion reactions on a dosing day; these infusion reactions were all non-serious and mild to moderate in severity.
 Few patients with ADA reported serious/severe AEs.
 The rates of infusion reactions among persistent-positive subjects were comparable to the rates for ADA negative patients of 75/552 (14%), 78/523 (15%), and 83/559 (15%) in the placebo, 1 mg/kg and 10 mg/kg groups, respectively.
 
-Intravenous infusion
-The efficacy of Benlysta administered intravenously was evaluated in 2 randomized, double-blind, placebo-controlled studies in 1,684 patients with a clinical diagnosis of SLE according to the American College of Rheumatology classification criteria.
+In one study in 6 to 17-year-old paediatric patients (n=53), none of the patients developed anti-belimumab antibodies.
+
+Intravenous infusion in adults
+The efficacy of Benlysta administered intravenously was evaluated in 2 randomized, double-blind, placebo-controlled studies in 1,684 patients with a clinical diagnosis of SLE according to the American College of Rheumatology (ACR) classification criteria.
 Patients had active SLE disease, defined as a SELENA-SLEDAI (SELENA=Safety of Estrogens in Systemic Lupus Erythematosus National Assessment; SLEDAI=Systemic Lupus Erythematosus Disease Activity Index) score ≥6 and positive anti-nuclear antibody (ANA) test results (ANA titre ≥1:80 and/or a positive anti-dsDNA [≥30 units/ml]) at screening.
 Patients were on a stable SLE treatment regimen consisting of (alone or in combination): corticosteroids, anti-malarials, NSAIDs or other immunosuppressives.
 The two studies were similar in design except that BLISS-76 was a 76-week study and BLISS-52 was a 52-week study.
@@ -157,6 +160,7 @@ Patients who had severe active lupus nephritis and patients who had severe activ
 
 BLISS-76 was conducted primarily in North America and Western Europe.
 Background medicinal products included corticosteroids (76%; >7.5 mg/day 46%), immunosuppressives (56%), and anti-malarials (63%).
+
 BLISS-52 was conducted in South America, Eastern Europe, Asia, and Australia.
 Background medicinal products included corticosteroids (96%; >7.5 mg/day 69%), immunosuppressives (42%), and anti-malarials (67%).
 
@@ -174,6 +178,7 @@ At baseline 52% of patients had high disease activity (SELENA SLEDAI score ≥10
 | Percent of patients with no worsening by PGA | 62.9% | 69.2% (p=0.13) | 69.3% | 79.7% (p=0.0048) | 66.2% | 74.6% (p=0.0017) |
 
 * All patients received standard therapy
+
 In a pooled analysis of the two studies, the percentage of patients receiving >7.5 mg/day prednisone (or equivalent) at baseline, whose average corticosteroid dose was reduced by at least 25% to a dose equivalent to prednisone ≤7.5 mg/day during Weeks 40 through 52, was 17.9% in the group receiving Benlysta and 12.3% in the group receiving placebo (p=0.0451).
 
 The median time to the first flare was delayed in the pooled group receiving Benlysta compared to the group receiving placebo (110 vs 84 days, hazard ratio=0.84, p=0.012).
@@ -182,8 +187,7 @@ Severe flares were observed in 15.6% of the Benlysta group compared to 23.7% of 
 Benlysta demonstrated improvement in fatigue compared with placebo measured by the FACIT-Fatigue scale in the pooled analysis.
 The mean change of score at Week 52 from baseline is significantly greater with Benlysta compared to placebo (4.70 vs 2.46, p=0.0006).
 
-Univariate and multivariate analysis of the primary endpoint in pre-specified subgroups demonstrated that the greatest benefit was observed in patients with higher disease activity including patients with SELENA SLEDAI scores ≥ 10 or patients requiring steroids to control their disease or patients with low complement levels.
-
+Univariate and multivariate analysis of the primary endpoint in pre-specified subgroups demonstrated that the greatest benefit was observed in patients with higher disease activity including patients with SELENA SLEDAI scores ≥ 10, or patients requiring steroids to control their disease, or patients with low complement levels.
 Post-hoc analysis has identified high responding subgroups such as those patients with low complement and positive anti-dsDNA at baseline, see Table 2 for results of this example of a higher disease activity group.
 Of these patients, 64.5% had SELENA SLEDAI scores ≥ 10 at baseline.
 
@@ -194,12 +198,59 @@ Of these patients, 64.5% had SELENA SLEDAI scores ≥ 10 at baseline.
 | Observed treatment difference vs placebo (%) |  | 19.8 |
 | SRI response rate (excluding complement and anti-dsDNA changes) at week 52 (%) | 28.9 | 46.2 (p<0.0001) |
 | Observed treatment difference vs placebo (%) |  | 17.3 |
-| Severe flares over 52 weeks Patients experiencing a severe flare (%) | 29.6 | 19.0 |
-| Observed treatment difference vs. placebo (%) Time to severe flare [Hazard ratio (95% CI)] |  | 10.6 0.61 (0.44, 0.85) (p=0.0038) |
+| Severe flares over 52 weeks Patients experiencing a severe flare (%) Observed treatment difference vs. placebo (%) Time to severe flare [Hazard ratio (95% CI)] | 29.6 | 19.0 10.6 0.61 (0.44, 0.85) (p=0.0038) |
 | Prednisone reduction by ≥25% from baseline to ≤7.5 mg/day during weeks 40 through 52* (%) | (n=173) 12.1 | (n=195) 18.5 (p=0.0964) |
 | Observed treatment difference vs placebo (%) |  | 6.3 |
 | FACIT-fatigue score improvement from baseline at week-52 (mean) | 1.99 | 4.21 (p=0.0048) |
 | Observed treatment difference vs placebo (mean difference) |  | 2.21 |
 | BLISS-76 Study only | Placebo (n=131) | Benlysta 10 mg/kg (n=134) |
-| SRI response rate at week-76 (%) | 27.5 | 39.6 (p=0.0160) |
-| Observed treatment difference vs placebo (%) |  | 12.1 |
+| SRI response rate at week-76 (%) Observed treatment difference vs placebo (%) | 27.5 | 39.6 (p=0.0160) 12.1 |
+
+Age
+There were too few patients ≥65 years of age enrolled in the controlled clinical trials to draw meaningful conclusions about the effects of age on clinical outcomes.
+Black patients
+Benlysta was administered intravenously to black patients in a randomised (2:1), double-blind, placebo-controlled, 52-week Phase III/IV study (EMBRACE).
+Efficacy was evaluated in 448 patients.
+The proportion of black patients achieving an SRI-S2K response was higher in patients receiving Benlysta but the difference was not statistically significant compared with placebo.
+However, consistent with results from other studies, in black patients with high disease activity (low complement and positive anti-dsDNA at baseline, n=141) the SRI-S2K response was 45.1% for Benlysta 10 mg/kg compared with 24.0% for placebo (odds ratio 3.00; 95% CI: 1.35, 6.68).
+
+The safety and efficacy of Benlysta was evaluated in a randomised, double-blind, placebo-controlled, 52-week study (PLUTO) in 93 paediatric patients with a clinical diagnosis of SLE according to the ACR classification criteria.
+Patients had active SLE disease, defined as a SELENA-SLEDAI score ≥6 and positive autoantibodies at screening as described in the adult trials.
+Patients were on a stable SLE treatment regimen (standard of care) and had similar inclusion criteria as the adult studies.
+Patients who had severe active lupus nephritis, severe active CNS lupus, primary immunodeficiency, IgA deficiency or acute or chronic infections requiring management were excluded from the study.
+The study was conducted in the US, South America, Europe, and Asia.
+Patient median age was 15 years (range 6 to 17 years).
+In the 5- to 11-year-old-group (n=13) the SELENA-SLEDAI score ranged from 4 to 13, and in 12- to 17-year-old-group (n=79) the SELENA-SLEDAI score ranged from 4 to 20.
+The majority (94.6%) of patients were female.
+The study was not powered for any statistical comparisons and all data are descriptive.
+
+The primary efficacy endpoint was the SLE Responder Index (SRI) at Week 52 as described in the adult intravenous trials.
+There was a higher proportion of paediatric patients achieving an SRI response in patients receiving Benlysta compared with placebo.
+The response for the individual components of the endpoint were consistent with that of the SRI (Table 3).
+
+Table 3 – Paediatric response rate at Week 52
+
+| Response | Placebo (n=40) | Benlysta 10 mg/kg (n=53) |
+| --- | --- | --- |
+| SLE Responder Index (%) Odds ratio (95% CI) vs placebo | 43.6 (17/39) | 52.8 (28/53) 1.49 (0.64, 3.46) |
+| Components of SLE Responder Index |  |  |
+| Percent of patients with reduction in SELENA-SLEDAI ≥4 (%) Odds ratio (95% CI) vs placebo | 43.6 (17/39) | 54.7 (29/53) 1.62 (0.69, 3.78) |
+| Percent of patients with no worsening by BILAG index (%) Odds ratio (95% CI) vs placebo | 61.5 (24/39) | 73.6 (39/53) 1.96 (0.77, 4.97) |
+| Percent of patients with no worsening by PGA (%) Odds ratio (95% CI) vs placebo | 66.7 (26/39) | 75.5 (40/53) 1.70 (0.66, 4.39) |
+
+Among patients experiencing a severe flare, the median study day of the first severe flare was Day 159.5 in the Benlysta group and Day 82 in the placebo group.
+Severe flares were observed in 22.6% of the Benlysta group compared to 42.5% of the placebo group over the 52 weeks of observation (observed treatment difference = 19.9%; hazard ratio= 0.38, 95% CI: 0.18, 0.82).
+This was consistent with the findings from the adult intravenous clinical trials.
+
+Using the Paediatric Rheumatology International Trials Organisation/American College of Rheumatology (PRINTO/ACR) Juvenile SLE Response Evaluation Criteria, a higher proportion of paediatric patients receiving Benlysta demonstrated improvement compared with placebo (Table 4).
+
+Table 4 – PRINTO/ACR response rate at Week 52
+
+|  | Proportion of patients with at least 50% improvement in any 2 of 5 components* and no more than one of the remaining worsening by more than 30% |  | Proportion of patients with at least 30% improvement in 3 of 5 components* and no more than one of the remaining worsening more than 30% |  |
+| --- | --- | --- | --- | --- |
+|  | Placebo n=40 | Benlysta 10 mg/kg n=53 | Placebo n=40 | Benlysta 10 mg/kg n=53 |
+| Response, n (%) | 14/40 (35.0) | 32/53 (60.4) | 11/40 (27.5) | 28/53 (52.8) |
+| Observed difference vs Placebo |  | 25.38 |  | 25.33 |
+| Odds ratio (95% CI) vs Placebo |  | 2.74 (1.15, 6.54) |  | 2.92 (1.19, 7.17) |
+
+*The five PRINTO/ACR components were percent change at Week 52 in: Parent’s Global Assessment (Parent GA), PGA, SELENA SLEDAI score, 24-hour proteinuria, and, Paediatric Quality of Life Inventory – Generic Core Scale (PedsQL GC) physical functioning domain score.

@@ -42,7 +42,7 @@ No specific studies with Benlysta have been conducted in patients with hepatic i
 Patients with hepatic impairment are unlikely to require dose adjustment (see section 5.2).
 
 Paediatric population
-The safety and efficacy of Benlysta in children and adolescents (< 18 years of age) has not been established.
+The safety and efficacy of Benlysta subcutaneous administration in children and adolescents (< 18 years of age) has not been established.
 No data are available.
 
 Method of administration
@@ -69,7 +69,9 @@ Premedication including an antihistamine, with or without an antipyretic, may be
 
 The recommended dose regimen is 10 mg/kg Benlysta on Days 0, 14 and 28, and at 4-week intervals thereafter.
 
-The safety and efficacy of Benlysta in children and adolescents (<18 years of age) has not been established.
+The recommended dose regimen for children aged 5 years and older is 10 mg/kg Benlysta on Days 0, 14 and 28, and at 4-week intervals thereafter.
+
+The safety and efficacy of Benlysta in children aged below 5 years has not been established.
 
 Benlysta is administered intravenously by infusion, and must be reconstituted and diluted before administration.
 For instructions on reconstitution, dilution, and storage of the medicinal product before administration, see section 6.6.

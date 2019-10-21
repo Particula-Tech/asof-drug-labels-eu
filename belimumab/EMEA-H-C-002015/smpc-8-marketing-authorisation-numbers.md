@@ -9,5 +9,6 @@
 
 [Benlysta 120 mg powder for concentrate for solution for infusion.]
 
-EU/1/11/700/001 1 vial – 120 mg
-EU/1/11/700/002 1 vial – 400 mg
+| EU/1/11/700/001 | 1 vial – 120 mg |
+| --- | --- |
+| EU/1/11/700/002 | 1 vial – 400 mg |

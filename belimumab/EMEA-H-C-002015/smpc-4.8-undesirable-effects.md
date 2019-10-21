@@ -7,12 +7,12 @@ The safety of belimumab in patients with SLE has been evaluated in 3 pre-registr
 The data presented in the table below reflect exposure to Benlysta administered (10 mg/kg intravenously over a 1-hour period on Days 0, 14, 28, and then every 28 days for up to 52 weeks) in 674 patients with SLE, including 472 exposed for at least 52 weeks, and 556 patients exposed to 200 mg Benlysta subcutaneously once weekly for up to 52 weeks.
 The safety data presented include data beyond Week 52 in some patients.
 Data from post-marketing reports are also included.
-
 The majority of patients were also receiving one or more of the following concomitant treatments for SLE: corticosteroids, immunomodulatory medicinal products, anti-malarials, non-steroidal anti-inflammatory medicinal products.
 
 Adverse reactions were reported in 87% of Benlysta-treated patients and 90% of placebo-treated patients.
 The most frequently reported adverse reactions (≥5% of patients with SLE treated with Benlysta plus standard of care and at a rate ≥1% greater than placebo) were viral upper respiratory tract infections, bronchitis, and diarrhoea.
 The proportion of patients who discontinued treatment due to adverse reactions was 7% for Benlysta-treated patients and 8% for placebo-treated patients.
+
 Tabulated list of adverse reactions
 
 Adverse reactions are listed below by MedDRA system organ class and by frequency.
@@ -41,7 +41,9 @@ The frequency given is the highest seen with either formulation.
 | Skin and subcutaneous tissue disorders | Common | Injection site reactions** |
 |  | Uncommon | Angioedema, urticaria, rash |
 | Musculoskeletal and connective tissue disorders | Common | Pain in extremity |
-| General disorders and administration site conditions | Common | Infusion or injection-related systemic reactions*, pyrexia |
+
+General disorders and Common Infusion or injection-related systemic
+administration site conditions reactions*, pyrexia
 
 *‘Hypersensitivity reactions’ covers a group of terms, including anaphylaxis, and can manifest as a range of symptoms including hypotension, angioedema, urticaria or other rash, pruritus, and dyspnoea. ‘Infusion or injection-related systemic reactions’ covers a group of terms and can manifest as a range of symptoms including bradycardia, myalgia, headache, rash, urticaria, pyrexia, hypotension, hypertension, dizziness, and arthralgia.
 Due to overlap in signs and symptoms, it is not possible to distinguish between hypersensitivity reactions and infusion reactions in all cases.
@@ -76,7 +78,6 @@ The overall incidence of serious suicidal ideation or behaviour or self-injury w
 No suicide was reported in either group.
 
 The intravenous studies did not exclude patients with a history of psychiatric disorders.
-
 In the subcutaneous clinical study, which excluded patients with a history of psychiatric disorders, serious psychiatric events were reported in 0.2% (1/556) of patients receiving Benlysta and in no patients receiving placebo.
 There were no serious depression-related events or suicides reported in either group.
 
@@ -85,6 +86,7 @@ Leucopenia: The incidence of leucopenia reported as an adverse event was 3% in t
 Injection site reactions: In the subcutaneous trial, the frequency of injection site reactions was 6.1% (34/556) and 2.5% (7/280) for patients receiving Benlysta and placebo, respectively.
 These injection site reactions (most commonly pain, erythema, hematoma, pruritus and induration) were mild to moderate in severity.
 The majority did not necessitate drug discontinuation.
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
@@ -93,6 +95,38 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [Benlysta 120 mg powder for concentrate for solution for infusion.]
 
+Summary of the safety profile in adults
+
+| System organ class | Frequency | Adverse reaction(s) |
+| --- | --- | --- |
+| Infections and infestations | Very common | Bacterial infections, e.g. bronchitis, urinary tract infection |
+|  | Common | Gastroenteritis viral, pharyngitis, nasopharyngitis, viral upper respiratory tract infection |
+| Blood and lymphatic system disorders | Common | Leucopenia |
+| Immune system disorders | Common | Hypersensitivity reactions* |
+|  | Uncommon | Anaphylactic reaction |
+|  | Rare | Delayed-type, non-acute hypersensitivity reactions |
+| Psychiatric disorders | Common | Depression |
+|  | Uncommon | Suicidal behaviour, suicidal ideation |
+| Nervous system disorders | Common | Migraine |
+| Gastrointestinal disorders | Very common | Diarrhoea, nausea |
+| Skin and subcutaneous tissue disorders | Common | Injection site reactions** |
+|  | Uncommon | Angioedema, urticaria, rash |
+| Musculoskeletal and connective tissue disorders | Common | Pain in extremity |
+| General disorders and administration site conditions | Common | Infusion or injection-related systemic reactions*, pyrexia |
+
+For information on infections observed in paediatric patients see Paediatric population section below.
+
 Gastrointestinal disorders: Obese patients [Body mass index (BMI) >30 kg/m2] treated with intravenously administered.
 Benlysta reported higher rates of nausea, vomiting and diarrhoea relative to placebo, and compared with normal-weight patients (BMI ≥18.5 to ≤30 kg/m2).
 None of these gastrointestinal events in obese patients were serious.
+
+Paediatric population
+
+The adverse reaction profile in paediatric patients is based on 52-week safety data from a placebo-controlled study in which 53 patients (6 to 17 years of age) with SLE received Benlysta (10 mg/kg intravenously on Days 0, 14, 28, and then every 28 days, on a background of concomitant treatments).
+No new safety signals were observed in the paediatric population 12 years of age and above (n=43).
+Safety data in children younger than 12 years of age (n=10) are limited.
+
+Infections
+5- to 11-year-old group: infections were reported in 8/10 patients receiving Benlysta and 3/3 patients receiving placebo, and serious infections were reported in 1/10 patients receiving Benlysta and 2/3 patients receiving placebo (see section 4.4).
+12- to 17-year-old group: infections were reported in 22/43 patients receiving Benlysta and 25/37 patients receiving placebo, and serious infections were reported in 3/43 patients receiving Benlysta and 3/37 patients receiving placebo.
+In the open-label extension phase there was one fatal infection in a patient receiving Benlysta.

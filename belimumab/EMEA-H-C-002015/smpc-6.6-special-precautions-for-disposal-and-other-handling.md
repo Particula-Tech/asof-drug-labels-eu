@@ -15,6 +15,7 @@ Reconstitution and dilution must be carried out under aseptic conditions.
 Allow 10 to 15 minutes for the vial to warm to room temperature (15°C to 25°C).
 
 It is recommended that a 21-25 gauge needle be used when piercing the vial stopper for reconstitution and dilution.
+
 The 120 mg single-use vial of belimumab is reconstituted with 1.5 ml of water for injections to yield a final concentration of 80 mg/ml belimumab.
 
 The stream of water for injections should be directed toward the side of the vial to minimize foaming.
@@ -33,12 +34,12 @@ Small air bubbles, however, are expected and acceptable.
 After reconstitution, a volume of 1.5 ml (corresponding to 120 mg belimumab) can be withdrawn from each vial.
 
 Dilution
-
 The reconstituted medicinal product is diluted to 250 ml with sodium chloride 9 mg/ml (0.9%), sodium chloride 4.5 mg/ml (0.45%), or Lactated Ringer’s solution for injection.
+For patients whose body weight is less than or equal to 40 kg, infusion bags with 100 ml of these diluents may be considered providing that the resulting belimumab concentration in the infusion bag does not exceed 4 mg/ml.
 
 5% glucose intravenous solutions are incompatible with Benlysta and must not be used.
 
-From a 250 ml infusion bag or bottle of sodium chloride 9 mg/ml (0.9%), sodium chloride 4.5 mg/ml (0.45%), or Lactated Ringer’s solution for injection, withdraw and discard a volume equal to the volume of the reconstituted Benlysta solution required for the patient’s dose.
+From a 250 ml (or 100 ml) infusion bag or bottle of sodium chloride 9 mg/ml (0.9%), sodium chloride 4.5 mg/ml (0.45%), or Lactated Ringer’s solution for injection, withdraw and discard a volume equal to the volume of the reconstituted Benlysta solution required for the patient’s dose.
 Then add the required volume of the reconstituted Benlysta solution into the infusion bag or bottle.
 Gently invert the bag or bottle to mix the solution.
 Any unused solution in the vials must be discarded.
@@ -52,7 +53,11 @@ Preparation of 400 mg solution for infusion
 
 The 400 mg single-use vial of belimumab is reconstituted with 4.8 ml of water for injections to yield a final concentration of 80 mg/ml belimumab.
 
+Once reconstitution is complete, the solution should be opalescent and colourless to pale yellow and without particles.
+
 After reconstitution, a volume of 5 ml (corresponding to 400 mg belimumab) can be withdrawn from each vial.
+
+From a 250 ml infusion bag or bottle of sodium chloride 9 mg/ml (0.9%), sodium chloride 4.5 mg/ml (0.45%), or Lactated Ringer’s solution for injection, withdraw and discard a volume equal to the volume of the reconstituted Benlysta solution required for the patient’s dose.
 
 Method of administration
 

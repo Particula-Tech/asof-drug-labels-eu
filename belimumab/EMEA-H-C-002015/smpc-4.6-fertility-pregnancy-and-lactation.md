@@ -3,6 +3,7 @@
 Women of childbearing potential/Contraception in males and females
 
 Women of childbearing potential must use effective contraception during Benlysta treatment and for at least 4 months after the last treatment.
+
 Pregnancy
 
 There are a limited amount of data from the use of Benlysta in pregnant women.
