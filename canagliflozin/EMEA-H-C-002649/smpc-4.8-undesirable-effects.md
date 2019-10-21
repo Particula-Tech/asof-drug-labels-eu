@@ -18,51 +18,55 @@ Adverse reactions reported from world-wide postmarketing use of canagliflozin ar
 Adverse reactions listed below are classified according to frequency and system organ class.
 Frequency categories are defined according to the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data).
 
-Table 1: Tabulated list of adverse reactions (MedDRA) from placebo-a and active-controlled studiesa and from postmarketing experience
+Table 1: Tabulated list of adverse reactions (MedDRA) from placebo-e and active-controlled studiese and from postmarketing experience
 
 | System organ class Frequency | Adverse reaction |
 | --- | --- |
+| Infections and infestations |  |
+| not known | Necrotising fasciitis of the perineum (Fournier’s gangrene)d |
 | Immune system disorders |  |
-| rare | Anaphylactic reactiond |
+| rare | Anaphylactic reactionh |
 | Metabolism and nutrition disorders |  |
-| very common uncommon rare | Hypoglycaemia in combination with insulin or sulphonylurea*** Dehydration* Diabetic ketoacidosis**, d |
+| very common uncommon rare | Hypoglycaemia in combination with insulin or sulphonylureac Dehydrationa Diabetic ketoacidosisb, h |
 | Nervous system disorders |  |
-| uncommon | Dizziness postural*, Syncope* |
+| uncommon | Dizziness posturala, Syncopea |
 | Vascular disorders |  |
-| uncommon | Hypotension*, Orthostatic hypotension* |
+| uncommon | Hypotensiona, Orthostatic hypotensiona |
 | Gastrointestinal disorders |  |
-| common | Constipation, Thirstb, Nausea |
+| common | Constipation, Thirstf, Nausea |
 | Skin and subcutaneous tissue disorders |  |
-| uncommon rare | Rashc, Urticaria Angioedemad |
+| uncommon rare | Rashg, Urticaria Angioedemah |
 | Musculoskeletal and connective tissue disorders |  |
-| uncommon | Bone fracturee |
+| uncommon | Bone fracturei |
 | Renal and urinary disorders |  |
-| common uncommon | Polyuria or Pollakiuriaf, Urinary tract infection*** (pyelonephritis and urosepsis have been reported postmarketing) Renal failured (mainly in the context of volume depletion) |
+| common uncommon | Polyuria or Pollakiuriaj, Urinary tract infectionc (pyelonephritis and urosepsis have been reported postmarketing) Renal failureh (mainly in the context of volume depletion) |
 | Reproductive system and breast disorders |  |
-| very common common | Vulvovaginal candidiasis**, g Balanitis or balanoposthitis**, h |
+| very common common | Vulvovaginal candidiasisb, k Balanitis or balanoposthitisb, l |
 | Investigations |  |
-| common uncommon | Dyslipidemiai, Haematocrit increased**, j Blood creatinine increased**, k, Blood urea increased**, l, Blood potassium increased**, m, Blood phosphate increasedn |
+| common uncommon | Dyslipidemiam, Haematocrit increasedb, n Blood creatinine increasedb, o, Blood urea increasedb, p, Blood potassium increasedb, q, Blood phosphate increasedr |
 | Surgical and medical procedures |  |
-| uncommon | Lower limb amputations (mainly of the toe and midfoot) especially in patients at high risk for heart disease** |
+| uncommon | Lower limb amputations (mainly of the toe and midfoot) especially in patients at high risk for heart diseaseb |
 
-* Related to volume depletion; see section 4.4 and description of adverse reaction (AR) below.
-** See section 4.4 and description of AR below.
-***See description of AR below.
-a Safety data profiles from individual pivotal studies (including studies in moderately renally impaired patients; older patients [≥55 years of age to ≤80 years of age]; patients with increased CV-risk) were generally consistent with the adverse reactions identified in this table.
-b Thirst includes the terms thirst, dry mouth, and polydipsia.
-c Rash includes the terms rash erythematous, rash generalised, rash macular, rash maculopapular, rash papular, rash pruritic, rash pustular, and rash vesicular.
-d Based on postmarketing experience with canagliflozin.
-e Related to bone fracture; see description of AR below.
-f Polyuria or pollakiuria includes the terms polyuria, pollakiuria, micturition urgency, nocturia, and urine output increased.
-g Vulvovaginal candidiasis includes the terms vulvovaginal candidiasis, vulvovaginal mycotic infection, vulvovaginitis, vaginal infection, vulvitis, and genital infection fungal.
-h Balanitis or balanoposthitis includes the terms balanitis, balanoposthitis, balanitis candida, and genital infection fungal.
-i Mean percent increases from baseline for canagliflozin 100 mg and 300 mg versus placebo, respectively, were total cholesterol 3.4% and 5.2% versus 0.9%; HDL-cholesterol 9.4% and 10.3% versus 4.0%; LDL-cholesterol 5.7% and 9.3% versus 1.3%; non-HDL-cholesterol 2.2% and 4.4% versus 0.7%; triglycerides 2.4% and 0.0% versus 7.6%.
-j Mean changes from baseline in haematocrit were 2.4% and 2.5% for canagliflozin 100 mg and 300 mg, respectively, compared to 0.0% for placebo.
-k Mean percent changes from baseline in creatinine were 2.8% and 4.0% for canagliflozin 100 mg and 300 mg, respectively, compared to 1.5% for placebo.
-l Mean percent changes from baseline in blood urea nitrogen were 17.1% and 18.0% for canagliflozin 100 mg and 300 mg, respectively, compared to 2.7% for placebo.
-m Mean percent changes from baseline in blood potassium were 0.5% and 1.0% for canagliflozin 100 mg and 300 mg, respectively, compared to 0.6% for placebo.
-n Mean percent changes from baseline in serum phosphate were 3.6% and 5.1% for canagliflozin 100 mg and 300 mg, compared to 1.5% for placebo.
+a Related to volume depletion; see section 4.4 and description of adverse reaction (AR) below.
+b See section 4.4 and description of AR below.
+c See description of AR below.
+d See section 4.4.
+e Safety data profiles from individual pivotal studies (including studies in moderately renally impaired patients; older patients [≥55 years of age to ≤80 years of age]; patients with increased CV-risk) were generally consistent with the adverse reactions identified in this table.
+f Thirst includes the terms thirst, dry mouth, and polydipsia.
+g Rash includes the terms rash erythematous, rash generalised, rash macular, rash maculopapular, rash papular, rash pruritic, rash pustular, and rash vesicular.
+h Based on postmarketing experience with canagliflozin.
+i Related to bone fracture; see description of AR below.
+j Polyuria or pollakiuria includes the terms polyuria, pollakiuria, micturition urgency, nocturia, and urine output increased.
+k Vulvovaginal candidiasis includes the terms vulvovaginal candidiasis, vulvovaginal mycotic infection, vulvovaginitis, vaginal infection, vulvitis, and genital infection fungal.
+l Balanitis or balanoposthitis includes the terms balanitis, balanoposthitis, balanitis candida, and genital infection fungal.
+m Mean percent increases from baseline for canagliflozin 100 mg and 300 mg versus placebo, respectively, were total cholesterol 3.4% and 5.2% versus 0.9%; HDL-cholesterol 9.4% and 10.3% versus 4.0%; LDL-cholesterol 5.7% and 9.3% versus 1.3%; non-HDL-cholesterol 2.2% and 4.4% versus 0.7%; triglycerides 2.4% and 0.0% versus 7.6%.
+n Mean changes from baseline in haematocrit were 2.4% and 2.5% for canagliflozin 100 mg and 300 mg, respectively, compared to 0.0% for placebo.
 
+- Mean percent changes from baseline in creatinine were 2.8% and 4.0% for canagliflozin 100 mg and 300 mg, respectively, compared to 1.5% for placebo.
+
+p Mean percent changes from baseline in blood urea nitrogen were 17.1% and 18.0% for canagliflozin 100 mg and 300 mg, respectively, compared to 2.7% for placebo.
+q Mean percent changes from baseline in blood potassium were 0.5% and 1.0% for canagliflozin 100 mg and 300 mg, respectively, compared to 0.6% for placebo.
+r Mean percent changes from baseline in serum phosphate were 3.6% and 5.1% for canagliflozin 100 mg and 300 mg, compared to 1.5% for placebo.
 Description of selected adverse reactions
 
 Lower limb amputation
@@ -74,6 +78,7 @@ Regardless of treatment with canagliflozin or placebo, the risk of amputation wa
 The risk of lower limb amputation was not dose-dependent.
 The amputation results for the Integrated CANVAS Program are shown in table 2.
 In other type 2 diabetes studies with canagliflozin, which enrolled a general diabetic population of 8,114 patients, no difference in lower limb amputation risk was observed relative to control.
+
 Table 2: Integrated Analysis of Amputations in CANVAS AND CANVAS-R
 
 |  | Placebo N = 4344 | canagliflozin N = 5790 |

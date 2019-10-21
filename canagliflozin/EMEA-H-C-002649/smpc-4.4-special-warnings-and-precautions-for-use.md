@@ -66,6 +66,15 @@ Before initiating Invokana, consider factors in the patient history that may inc
 As precautionary measures, consideration should be given to carefully monitoring patients with a higher risk for amputation events and counselling patients about the importance of routine preventative foot care and maintaining adequate hydration.
 Consideration may also be given to stopping treatment with Invokana in patients who develop events which may precede amputation such as lower-extremity skin ulcer, infection, osteomyelitis or gangrene.
 
+Necrotising fasciitis of the perineum (Fournier’s gangrene)
+
+Post-marketing cases of necrotising fasciitis of the perineum, (also known as Fournier's gangrene), have been reported in female and male patients taking SGLT2 inhibitors.
+This is a rare but serious and potentially life-threatening event that requires urgent surgical intervention and antibiotic treatment.
+
+Patients should be advised to seek medical attention if they experience a combination of symptoms of pain, tenderness, erythema, or swelling in the genital or perineal area, with fever or malaise.
+Be aware that either uro-genital infection or perineal abscess may precede necrotising fasciitis.
+If Fournier's gangrene is suspected, Invokana should be discontinued and prompt treatment (including antibiotics and surgical debridement) should be instituted.
+
 Elevated haematocrit
 
 Haematocrit increase was observed with canagliflozin treatment (see section 4.8); therefore, careful monitoring in patients with already elevated haematocrit is warranted.
