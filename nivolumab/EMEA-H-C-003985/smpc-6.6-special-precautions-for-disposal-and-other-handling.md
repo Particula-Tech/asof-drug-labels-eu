@@ -11,8 +11,7 @@ More than one vial of OPDIVO concentrate may be needed to give the total dose fo
 Nivolumab monotherapy:
 The prescribed dose for the patient is 240 mg or 480 mg given regardless of body weight depending on indication (see section 4.2).
 
-Nivolumab monotherapy (for the adjuvant treatment of melanoma) or nivolumab in combination with ipilimumab:
-
+Nivolumab in combination with ipilimumab:
 The prescribed dose for the patient is given in mg/kg.
 Based on this prescribed dose, calculate the total dose to be given.
 

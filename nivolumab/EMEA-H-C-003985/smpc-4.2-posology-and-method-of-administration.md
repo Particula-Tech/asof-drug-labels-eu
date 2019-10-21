@@ -11,7 +11,7 @@ Table 1: Recommended dose and infusion time for intravenous administration of ni
 
 | Indication* | Recommended dose and infusion time |
 | --- | --- |
-| Melanoma | 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 60 minutes |
+| Melanoma (advanced or adjuvant treatment) | 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 60 minutes |
 | Renal Cell Carcinoma | 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 60 minutes |
 | Non-Small Cell Lung Cancer | 240 mg every 2 weeks over 30 minutes |
 | Classical Hodgkin lymphoma | 240 mg every 2 weeks over 30 minutes |
@@ -22,11 +22,6 @@ Table 1: Recommended dose and infusion time for intravenous administration of ni
 
 If melanoma or RCC patients need to be switched from the 240 mg every 2 weeks schedule to the 480 mg every 4 weeks schedule, the first 480 mg dose should be administered two weeks after the last 240 mg dose.
 Conversely, if patients need to be switched from the 480 mg every 4 weeks schedule to the 240 mg every 2 weeks schedule, the first 240 mg dose should be administered four weeks after the last 480 mg dose.
-
-Adjuvant treatment of melanoma
-The recommended dose of OPDIVO is 3 mg/kg nivolumab administered intravenously over 60 minutes every 2 weeks.
-
-For adjuvant therapy, the maximum treatment duration with OPDIVO is 12 months.
 
 OPDIVO in combination with ipilimumab
 
@@ -60,8 +55,10 @@ Table 3: Recommended doses and infusion times for intravenous administration of 
 | Nivolumab | 3 mg/kg over 30 minutes | 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 60 minutes |
 | Ipilimumab | 1 mg/kg over 30 minutes | - |
 
+Duration of treatment
 Treatment with OPDIVO, either as a monotherapy or in combination with ipilimumab, should be continued as long as clinical benefit is observed or until treatment is no longer tolerated by the patient.
 
+For adjuvant therapy, the maximum treatment duration with OPDIVO is 12 months.
 Atypical responses (i.e., an initial transient increase in tumour size or small new lesions within the first few months followed by tumour shrinkage) have been observed.
 It is recommended to continue treatment with nivolumab or nivolumab in combination with ipilimumab for clinically stable patients with initial evidence of disease progression until disease progression is confirmed.
 
@@ -86,12 +83,12 @@ Table 4: Recommended treatment modifications for OPDIVO or OPDIVO in combination
 |  | Grade 4 creatinine elevation | Permanently discontinue treatment |
 | Immune-related endocrinopathies | Symptomatic Grade 2 or 3 hypothyroidism, hyperthyroidism, hypophysitis, Grade 2 adrenal insufficiency Grade 3 diabetes | Withhold dose(s) until symptoms resolve and management with corticosteroids (if needed for symptoms of acute inflammation) is complete. Treatment should be continued in the presence of hormone replacement therapyb as long as no symptoms are present |
 |  | Grade 4 hypothyroidism Grade 4 hyperthyroidism Grade 4 hypophysitis Grade 3 or 4 adrenal insufficiency Grade 4 diabetes | Permanently discontinue treatment |
+| Immune-related skin adverse reactions | Grade 3 rash | Withhold dose(s) until symptoms resolve and management with corticosteroids is complete |
 
 Table 4: Recommended treatment modifications for OPDIVO or OPDIVO in combination with ipilimumab
 
 | Immune-related adverse reaction | Severity | Treatment modification |
 | --- | --- | --- |
-| Immune-related skin adverse reactions | Grade 3 rash | Withhold dose(s) until symptoms resolve and management with corticosteroids is complete |
 |  | Grade 4 rash | Permanently discontinue treatment |
 |  | Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) | Permanently discontinue treatment (see section 4.4) |
 | Other immune-related adverse reactions | Grade 3 (first occurrence) | Withhold dose(s) |
@@ -130,7 +127,6 @@ Hepatic impairment
 Based on the population PK results, no dose adjustment is required in patients with mild hepatic impairment (see section 5.2).
 Data from patients with moderate or severe hepatic impairment are too limited to draw conclusions on these populations.
 OPDIVO must be administered with caution in patients with moderate (total bilirubin > 1.5 × to 3 × the upper limit of normal [ULN] and any AST) or severe (total bilirubin > 3 × ULN and any AST) hepatic impairment.
-
 Method of administration
 
 OPDIVO is for intravenous use only.

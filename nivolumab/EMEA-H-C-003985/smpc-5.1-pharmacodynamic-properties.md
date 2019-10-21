@@ -15,7 +15,7 @@ In murine syngeneic tumour models, dual blockade of PD-1 and CTLA-4 resulted in 
 Clinical efficacy and safety
 
 Based on modelling of dose/exposure efficacy and safety relationships, there are no clinically significant differences in efficacy and safety between a nivolumab dose of 240 mg every 2 weeks or 3 mg/kg every 2 weeks.
-Additionally, based on these relationships, there were no clinically significant differences between a nivolumab dose of 480 mg every 4 weeks or 3 mg/kg every 2 weeks in advanced melanoma and RCC.
+Additionally, based on these relationships, there were no clinically significant differences between a nivolumab dose of 480 mg every 4 weeks or 3 mg/kg every 2 weeks in adjuvant treatment of melanoma, advanced melanoma and advanced RCC.
 
 Melanoma
 
