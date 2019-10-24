@@ -12,6 +12,7 @@ Breast-feeding
 
 It is unknown whether eribulin/metabolites are excreted in human or animal breast milk.
 A risk to newborns/infants cannot be excluded and therefore HALAVEN must not be used during breast-feeding (see section 4.3).
+
 Fertility
 
 Testicular toxicity has been observed in rats and dogs (see section 5.3).

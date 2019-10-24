@@ -11,7 +11,7 @@ Tabulated list of adverse reactions
 
 Unless otherwise noted, the table shows the incidence rates of adverse reactions observed in breast cancer and soft tissue sarcoma patients who received the recommended dose in Phase 2 and Phase 3 studies.
 
-Frequency categories are defined as: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000) and very rare (< 1/10,000).
+Frequency categories are defined as: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and very rare (< 1/10,000).
 Within each frequency grouping, undesirable effects are presented in order of decreasing frequency.
 Where Grade 3 or 4 reactions occurred, the actual total frequency and the frequency of Grade 3 or 4 reactions are given.
 
@@ -21,7 +21,7 @@ Where Grade 3 or 4 reactions occurred, the actual total frequency and the freque
 | Infections and infestations |  | Urinary tract infection (8.5%) (G3/4: 0.7%) Pneumonia (1.6%) (G3/4: 1.0%) Oral candidiasis Oral herpes Upper respiratory tract infection Nasopharyngitis Rhinitis Herpes zoster | Sepsis (0.5%) (G3/4: 0.5%)a Neutropenic sepsis (0.2%) (G3/4: 0.2%)a Septic Shock (0.2%) (G3/4:0.2%)a |  |
 | Blood and lymphatic system disorders | Neutropenia (53.6%) (G3/4: 46.0%) Leukopenia (27.9%) (G3/4: 17.0%) Anaemia (21.8%) (G3/4: 3.0%) | Lymphopenia (5.7%) (G3/4: 2.1%) Febrile neutropenia (4.5%) (G3/4: 4.4%)a Thrombocytopenia (4.2%) (G3/4: 0.7%) |  | *Disseminated intravascular coagulationb |
 |  | Very Common (Frequency %) | Common (Frequency %) | Uncommon (Frequency %) | Rare or not known |
-| Metabolism and nutrition disorders | Decreased appetite (22.5%) (G3/4: 0.7%)d | Hypokalaemia (6.8%) (G3/4: 2.0%) Hypomagnesaemia (2.8%) (G3/4: 0.3%) Dehydration (2.8 %) (G3/4: 0.5%)d Hyperglycaemia Hypophosphataemia |  |  |
+| Metabolism and nutrition disorders | Decreased appetite (22.5%) (G3/4: 0.7%)d | Hypokalaemia (6.8%) (G3/4: 2.0%) Hypomagnesaemia (2.8%) (G3/4: 0.3%) Dehydration (2.8 %) (G3/4: 0.5%)d Hyperglycaemia Hypophosphataemia Hypocalcaemia |  |  |
 | Psychiatric disorders |  | Insomnia Depression |  |  |
 | Nervous system disorders | Peripheral neuropathyc (35.9%) (G3/4: 7.3%) Headache (17.5%) (G3/4: 0.7%) | Dysgeusia Dizziness (9.0%) (G3/4: 0.4%)d Hypoaesthesia Lethargy Neurotoxicity |  |  |
 | Eye disorders |  | Lacrimation increased (5.8%) (G3/4: 0.1%)d Conjunctivitis |  |  |
@@ -80,9 +80,9 @@ Such elevations appeared to have occurred early with eribulin treatment in cycle
 Special populations
 
 Elderly population
-Of the 1559 breast cancer patients treated with the recommended dose of eribulin, 283 patients (18.2%) were ≥65 years of age.
+Of the 1559 breast cancer patients treated with the recommended dose of eribulin, 283 patients (18.2%) were ≥ 65 years of age.
 In the 404 sarcoma patient population, 90 patients (22.3%) treated with eribulin were ≥ 65 years of age.
-The safety profile of eribulin in elderly patients (≥65 years of age) was similar to that of patients <65 years of age except for asthenia/fatigue which showed an increasing trend with age.
+The safety profile of eribulin in elderly patients (≥ 65 years of age) was similar to that of patients <65 years of age except for asthenia/fatigue which showed an increasing trend with age.
 No dose adjustments are recommended for the elderly population.
 
 Patients with hepatic impairment

@@ -4,7 +4,7 @@ Haematology
 
 Myelosuppression is dose dependent and primarily manifested as neutropenia (section 4.8).
 Monitoring of complete blood counts should be performed on all patients prior to each dose of eribulin.
-Treatment with eribulin should only be initiated in patients with ANC values ≥1.5 x 109/l and platelets > 100 x 109/l.
+Treatment with eribulin should only be initiated in patients with ANC values ≥ 1.5 x 109/l and platelets > 100 x 109/l.
 
 Febrile neutropenia occurred in < 5% of patients treated with eribulin.
 Patients experiencing febrile neutropenia, severe neutropenia or thrombocytopenia, should be treated according to the recommendations in section 4.2.
@@ -23,11 +23,12 @@ The development of severe peripheral neurotoxicity requires a delay or reduction
 
 In clinical trials, patients with pre-existing neuropathy greater than Grade 2 were excluded.
 However, patients with pre-existing neuropathy Grade 1 or 2 were no more likely to develop new or worsening symptoms than those who entered the study without the condition.
+
 QT prolongation
 
 In an uncontrolled open-label ECG study in 26 patients, QT prolongation was observed on Day 8, independent of eribulin concentration, with no QT prolongation observed on Day 1.
 ECG monitoring is recommended if therapy is initiated in patients with congestive heart failure, bradyarrhythmias or concomittant treatment with medicinal products known to prolong the QT interval, including Class Ia and III antiarrhythmics, and electrolyte abnormalities.
-Hypokalemia or hypomagnesemia should be corrected prior to initiating HALAVEN and these electrolytes should be monitored periodically during therapy.
+Hypokalaemia, hypocalcaemia or hypomagnesaemia should be corrected prior to initiating HALAVEN and these electrolytes should be monitored periodically during therapy.
 Eribulin should be avoided in patients with congenital long QT syndrome.
 
 Excipients

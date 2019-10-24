@@ -33,8 +33,7 @@ HALAVEN
 0.5 (TPC) Nominal P value 0.014b
 
 (log rank)
-0.4 aCox proportional hazard bStratified by geographic region, HER2/neu status,
-0.3 and prior capecitabine therapy.
+0.4 aCox proportional hazard bStratified by geographic region, HER2/neu status, 0.3 and prior capecitabine therapy.
 0.2
 0.1
 0.0
@@ -108,7 +107,6 @@ The overall survival in patients in HER2 negative and HER2 positive patients in 
 | p-value (log rank) | 0.030 |  | 0.837 |  |
 
 Note: Concomitant anti-HER2 therapy was not included in Study 305 and Study 301.
-
 Liposarcoma
 
 In liposarcoma the efficacy of eribulin is supported by the pivotal Phase 3 sarcoma study (Study 309).
