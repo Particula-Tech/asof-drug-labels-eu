@@ -98,35 +98,3 @@ Zonegran hard capsules are for oral use.
 Effect of food
 
 Zonegran may be taken with or without food (see section 5.2).
-
-[Zonegran 50 mg hard capsules]
-
-(all sentences already above)
-
-[Zonegran 100 mg hard capsules]
-
-(all sentences already above)
-
-[Zonegran 25 mg orodispersible tablets]
-
-It is not always possible to precisely achieve the calculated dose with the commercially available tablet strengths of Zonegran.
-In these cases it is therefore recommended that the Zonegran total dose should be rounded up or down to the nearest available dose that can be achieved with commercially available tablet strengths of Zonegran (25 mg, 50 mg, 100 mg and 300 mg).
-
-Zonegran orodispersible tablets are for oral use.
-
-The Zonegran orodispersible tablet should be placed in the mouth on the tongue, where it will rapidly disperse in saliva.
-Removal of the intact orodispersible tablet from the mouth is difficult.
-Since the orodispersible tablet is moisture sensitive, it should be taken immediately after opening the blister.
-It can be taken with or without liquid.
-
-[Zonegran 50 mg orodispersible tablets]
-
-(all sentences already above)
-
-[Zonegran 100 mg orodispersible tablets]
-
-(all sentences already above)
-
-[Zonegran 300 mg orodispersible tablets]
-
-(all sentences already above)

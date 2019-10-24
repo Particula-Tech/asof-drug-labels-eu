@@ -179,19 +179,3 @@ In a zonisamide placebo-controlled study conducted in paediatric and adolescent 
 Excipients
 
 Zonegran 100 mg hard capsules contain a yellow colour called sunset yellow FCF (E110), and a red colour called allura red AC (E129), which may cause allergic reactions.
-
-[Zonegran 25 mg orodispersible tablets]
-
-Zonegran orodispersible tablets contain a sweetener called aspartame (E951), which is a source of phenylalanine and may be harmful for people with phenylketonuria.
-
-[Zonegran 50 mg orodispersible tablets]
-
-(all sentences already above)
-
-[Zonegran 100 mg orodispersible tablets]
-
-(all sentences already above)
-
-[Zonegran 300 mg orodispersible tablets]
-
-(all sentences already above)

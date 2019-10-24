@@ -52,28 +52,3 @@ Patients with an impaired liver function: The pharmacokinetics of zonisamide in 
 Elderly: No clinically significant differences were observed in the pharmacokinetics between young (aged 21-40 years) and elderly (65-75 years).
 
 Children and adolescents (5-18 years): Limited data indicate that pharmacokinetics in children and adolescents dosed to steady state at 1, 7 or 12 mg/kg daily, in divided doses, are similar to those observed in adults, after adjustment for bodyweight.
-
-[Zonegran 50 mg hard capsules]
-
-(all sentences already above)
-
-[Zonegran 100 mg hard capsules]
-
-(all sentences already above)
-
-[Zonegran 25 mg orodispersible tablets]
-
-Zonegran orodispersible tablets are bioequivalent to zonisamide hard capsules, with a similar rate and extent of absorption.
-Zonegran orodispersible tablets may be used as an alternative to Zonegran hard capsules.
-
-[Zonegran 50 mg orodispersible tablets]
-
-(all sentences already above)
-
-[Zonegran 100 mg orodispersible tablets]
-
-(all sentences already above)
-
-[Zonegran 300 mg orodispersible tablets]
-
-(all sentences already above)
