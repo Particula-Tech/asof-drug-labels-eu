@@ -41,10 +41,8 @@ The safety and efficacy of this medicinal product has not been established in pa
 Until additional data become available, use in patients with severe hepatic impairment is not recommended (see section 5.2).
 
 Renal impairment
-No clinical studies have been conducted to specifically evaluate the effect of renal impairment on the pharmacokinetics of osimertinib.
-No dose adjustment is recommended in patients with mild, moderate, or severe renal impairment.
-Limited data are available in patients with severe renal impairment.
-The safety and efficacy of this medicinal product has not been established in patients with end-stage renal disease [creatinine clearance (CLcr) <15 mL/min, calculated by the Cockcroft and Gault equation], or on dialysis.
+Based on clinical studies and population PK analysis, no dose adjustments are necessary in patients with mild, moderate, or severe renal impairment.
+The safety and efficacy of this medicinal product has not been established in patients with end-stage renal disease [creatinine clearance (CLcr) less than 15 mL/min, calculated by the Cockcroft and Gault equation], or on dialysis.
 Caution should be exercised when treating patients with severe and end-stage renal impairment (see section 5.2).
 
 Paediatric population

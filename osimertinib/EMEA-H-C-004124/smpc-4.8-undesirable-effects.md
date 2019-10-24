@@ -52,7 +52,7 @@ d 5 CTCAE grade 5 events (fatal) were reported.
 e Includes cases reported within the clustered terms: Keratitis, punctate keratitis, corneal erosion, corneal epithelium defect.
 f Includes cases reported within the clustered terms for rash AEs: Rash, rash generalised, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pustular, rash pruritic, rash vesicular, rash follicular, erythema, folliculitis, acne, dermatitis, dermatitis acneiform, drug eruption, skin erosion.
 g Includes cases reported within the clustered terms: Dry skin, skin fissures, xerosis, eczema, xeroderma.
-h Includes cases reported within the clustered terms: Nail bed disorder, nail bed inflammation, nail bed infection, nail discolouration, nail pigmentation, nail disorder, nail toxicity, nail dystrophy, nail infection, nail ridging, onychoclasis, onycholysis, onychomadesis, onychomalacia, paronychia.
+h Includes cases reported within the clustered terms: Nail bed disorder, nail bed inflammation, nail bed infection, nail discolouration, nail pigmentation, nail disorder, nail toxicity, nail dystrophy, nail infection, nail ridging, onychalgia, onychoclasis, onycholysis, onychomadesis, onychomalacia, paronychia.
 i Includes cases reported within the clustered terms: pruritus, pruritus generalised, eyelid pruritus.
 j One event was reported in a post-marketing study, and the frequency has been derived from the FLAURA and AURA studies and the post-marketing study (N=4720).
 k Representsthe incidence of patients who had a QTcF prolongation >500msec.

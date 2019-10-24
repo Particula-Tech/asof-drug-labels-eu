@@ -8,6 +8,7 @@ Only robust, reliable and sensitive tests with demonstrated utility for the dete
 
 Positive determination of EGFR mutation status using either a tissue-based or plasma-based test indicates eligibility for treatment with TAGRISSO.
 However, if a plasma-based ctDNA test is used and the result is negative, it is advisable to follow-up with a tissue test wherever possible due to the potential for false negative results using a plasma-based test.
+
 Interstitial Lung Disease (ILD)
 Severe, life-threatening or fatal Interstitial Lung Disease (ILD) or ILD-like adverse reactions (e.g. pneumonitis) have been observed in patients treated with TAGRISSO in clinical studies.
 Most cases improved or resolved with interruption of treatment.
@@ -20,6 +21,7 @@ Careful assessment of all patients with an acute onset and/or unexplained worsen
 Treatment with this medicinal product should be interrupted pending investigation of these symptoms.
 If ILD is diagnosed, TAGRISSO should be discontinued and appropriate treatment initiated as necessary.
 Reintroduction of TAGRISSO should be considered only after careful consideration of the individual patient’s benefits and risk.
+
 Stevens-Johnson syndrome
 Case reports of Stevens-Johnson syndrome (SJS) have been reported rarely in association with TAGRISSO treatment.
 Before initiating treatment, patients should be advised of signs and symptoms of SJS.
