@@ -53,7 +53,7 @@ It should be noted that in the majority of these reports tuberculosis was extrap
 Before starting treatment with Remicade, all patients must be evaluated for both active and inactive (‘latent’) tuberculosis.
 This evaluation should include a detailed medical history with personal history of tuberculosis or possible previous contact with tuberculosis and previous and/or current immunosuppressive therapy.
 Appropriate screening tests (e.g. tuberculin skin test, chest X-ray, and/or Interferon Gamma Release Assay), should be performed in all patients (local recommendations may apply).
-It is recommended that the conduct of these tests should be recorded in the patient’s alert card.
+It is recommended that the conduct of these tests should be recorded in the patient’s reminder card.
 Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised.
 
 If active tuberculosis is diagnosed, Remicade therapy must not be initiated (see section 4.3).

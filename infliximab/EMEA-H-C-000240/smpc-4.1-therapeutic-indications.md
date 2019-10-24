@@ -37,4 +37,4 @@ Remicade should be administered
 Remicade has been shown to improve physical function in patients with psoriatic arthritis, and to reduce the rate of progression of peripheral joint damage as measured by X-ray in patients with polyarticular symmetrical subtypes of the disease (see section 5.1).
 
 Psoriasis
-Remicade is indicated for treatment of moderate to severe plaque psoriasis in adult patients who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapy including cyclosporine, methotrexate or PUVA (see section 5.1).
+Remicade is indicated for treatment of moderate to severe plaque psoriasis in adult patients who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapy including ciclosporin, methotrexate or PUVA (see section 5.1).

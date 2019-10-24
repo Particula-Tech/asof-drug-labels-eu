@@ -3,7 +3,7 @@
 Remicade treatment is to be initiated and supervised by qualified physicians experienced in the diagnosis and treatment of rheumatoid arthritis, inflammatory bowel diseases, ankylosing spondylitis, psoriatic arthritis or psoriasis.
 Remicade should be administered intravenously.
 Remicade infusions should be administered by qualified healthcare professionals trained to detect any infusion-related issues.
-Patients treated with Remicade should be given the package leaflet and the patient alert card.
+Patients treated with Remicade should be given the package leaflet and the patient reminder card.
 
 During Remicade treatment, other concomitant therapies, e.g., corticosteroids and immunosuppressants should be optimised.
 
@@ -91,7 +91,7 @@ Elderly
 Specific studies of Remicade in elderly patients have not been conducted.
 No major age-related differences in clearance or volume of distribution were observed in clinical studies.
 No dose adjustment is required (see section 5.2).
-For more information about the safety of Remicade in elderly patients see sections 4.4 and 4.8.
+For more information about the safety of Remicade in elderly patients (see sections 4.4 and 4.8).
 
 Renal and/or hepatic impairment
 Remicade has not been studied in these patient populations.
