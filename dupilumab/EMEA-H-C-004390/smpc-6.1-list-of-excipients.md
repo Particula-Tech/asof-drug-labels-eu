@@ -1,3 +1,3 @@
 # 6.1 List of excipients
 
-arginine hydrochloride histidine polysorbate 80 sodium acetate trihydrate glacial acetic acid sucrose water for injections
+arginine hydrochloride histidine polysorbate 80 (E433) sodium acetate trihydrate glacial acetic acid (E260) sucrose water for injections

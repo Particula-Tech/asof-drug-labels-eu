@@ -28,7 +28,7 @@ Asthma
 
 The recommended dose of dupilumab for adults and adolescents (12 years of age and older) is:
 
-- For patients with severe asthma and who are on oral corticosteroids or for patients with severe asthma and co-morbid moderate-to-severe atopic dermatitis, an initial dose of 600 mg (two 300 mg injections), followed by 300 mg every other week administered as subcutaneous injection.
+- For patients with severe asthma and who are on oral corticosteroids or for patients with severe asthma and co-morbid moderate-to-severe atopic dermatitis or adults with co-morbid severe chronic rhinosinusitis with nasal polyposis, an initial dose of 600 mg (two 300 mg injections), followed by 300 mg every other week administered as subcutaneous injection.
 - For all other patients, an initial dose of 400 mg (two 200 mg injections), followed by 200 mg every other week administered as subcutaneous injection.
 
 Patients receiving concomitant oral corticosteroids may reduce their steroid dose once clinical improvement with dupilumab has occurred (see section 5.1).
@@ -37,10 +37,18 @@ Steroid reductions should be accomplished gradually (see section 4.4).
 Dupilumab is intended for long-term treatment.
 The need for continued therapy should be considered at least on an annual basis as determined by physician assessment of the patient’s level of asthma control.
 
+Chronic rhinosinusitis with nasal polyposis (CRSwNP)
+
+The recommended dose of dupilumab for adult patients is an initial dose of 300 mg followed by 300 mg given every other week.
+
+Dupilumab is intended for long-term treatment.
+Consideration should be given to discontinuing treatment in patients who have shown no response after 24 weeks of treatment for CRSwNP.
+Some patients with initial partial response may subsequently improve with continued treatment beyond 24 weeks.
 Missed dose
 
 If a dose is missed, administer the dose as soon as possible.
 Thereafter, resume dosing at the regular scheduled time.
+
 Special populations
 
 Elderly patients (≥ 65 years)
@@ -54,7 +62,7 @@ Hepatic impairment
 No data are available in patients with hepatic impairment (see section 5.2).
 
 Body weight
-No dose adjustment for body weight is recommended for patients with asthma 12 years of age and older or in adults with atopic dermatitis (see section 5.2).
+No dose adjustment for body weight is recommended for patients with asthma 12 years of age and older or in adults with atopic dermatitis or CRSwNP (see section 5.2).
 
 For patients 12 to 17 years of age with atopic dermatitis, the recommended every other week dose is 200 mg (< 60 kg) or 300 mg (≥ 60 kg).
 
@@ -63,6 +71,10 @@ The safety and efficacy of dupilumab in children with atopic dermatitis below th
 No data are available.
 
 The safety and efficacy of dupilumab in children with severe asthma below the age of 12 years have not been established (see section 5.2).
+No data are available.
+
+CRSwNP does not normally occur in children.
+The safety and efficacy in children with CRSwNP below the age of 18 years have not been established (see section 5.2).
 No data are available.
 
 Method of administration
@@ -83,6 +95,8 @@ Proper training should be provided to patients and/or caregivers on the preparat
 [Dupixent 200 mg solution for injection in pre-filled syringe]
 
 - An initial dose of 400 mg (two 200 mg injections), followed by 200 mg given every other week administered as subcutaneous injection.
+
+No dose adjustment for body weight is recommended for patients with asthma 12 years of age and older or in adults with atopic dermatitis (see section 5.2).
 
 For patients 12 to 17 years of age with atopic dermatitis, the recommended every other week dose is 200 mg (<60 kg) or 300 mg (≥60 kg).
 

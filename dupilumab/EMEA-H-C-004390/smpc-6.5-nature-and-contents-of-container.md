@@ -1,7 +1,6 @@
 # 6.5 Nature and contents of container
 
 2 ml solution in a siliconised type-1 clear glass pre-filled syringe with or without needle shield, with a fixed 27 gauge 12.7 mm (½ inch), thin wall stainless steel staked needle.
-
 Dupixent 300 mg solution for injection in pre-filled syringe
 
 Pack size:

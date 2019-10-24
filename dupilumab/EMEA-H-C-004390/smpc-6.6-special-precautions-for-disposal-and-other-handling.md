@@ -4,7 +4,8 @@ The instructions for the preparation and administration of Dupixent in a pre-fil
 
 The solution should be clear to slightly opalescent, colourless to pale yellow.
 If the solution is cloudy, discoloured or contains visible particulate matter, the solution should not be used.
-After removing the 300 mg pre-filled syringe from the refrigerator, it should be allowed to reach room temperature by waiting for 45 min before injecting Dupixent.
+
+After removing the 300 mg pre-filled syringe from the refrigerator, it should be allowed to reach room temperature up to 25°C by waiting for 45 min before injecting Dupixent.
 
 The pre-filled syringe should not be exposed to heat or direct sunlight and should not be shaken.
 
@@ -17,7 +18,7 @@ Keep the container out of sight and reach of children.
 
 The instructions for the preparation and administration of Dupixent in a pre-filled syringe or in a pre-filled pen are given in the package leaflet.
 
-After removing the 200 mg pre-filled syringe or pre-filled pen from the refrigerator, it should be allowed to reach room temperature by waiting for 30 min before injecting Dupixent.
+After removing the 200 mg pre-filled syringe or pre-filled pen from the refrigerator, it should be allowed to reach room temperature up to 25°C by waiting for 30 min before injecting Dupixent.
 
 The pre-filled syringe or the pre-filled pen should not be exposed to heat or direct sunlight and should not be shaken.
 
