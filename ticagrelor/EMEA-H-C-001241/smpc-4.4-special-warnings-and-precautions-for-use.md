@@ -31,11 +31,12 @@ Use of ticagrelor is contraindicated in patients with severe hepatic impairment 
 There is limited experience with ticagrelor in patients with moderate hepatic impairment, therefore, caution is advised in these patients (see sections 4.2 and 5.2).
 
 Patients at risk for bradycardic events
-Due to observations of mostly asymptomatic ventricular pauses in an earlier clinical study, patients with an increased risk of bradycardic events (e.g. patients without a pacemaker who have sick sinus syndrome, 2nd or 3rd degree AV block or bradycardic-related syncope) were excluded from the main studies evaluating the safety and efficacy of ticagrelor.
+Holter ECG monitoring has shown an increased frequency of mostly asymptomatic ventricular pauses during treatment with ticagrelor compared with clopidogrel.
+Patients with an increased risk of bradycardic events (e.g. patients without a pacemaker who have sick sinus syndrome, 2nd or 3rd degree AV block or bradycardic-related syncope) have been excluded from the main studies evaluating the safety and efficacy of ticagrelor.
 Therefore, due to the limited clinical experience, ticagrelor should be used with caution in these patients (see section 5.1).
-In addition, caution should be exercised when administering ticagrelor concomitantly with medicinal products known to induce bradycardia.
-However, no evidence of clinically significant adverse reactions was observed in the PLATO trial after concomitant administration with one or more medicinal products known to induce bradycardia (e.g. 96% beta blockers, 33% calcium channel blockers diltiazem and verapamil, and 4% digoxin) (see section 4.5).
 
+In addition, caution should be exercised when administering ticagrelor concomitantly with medicinal products known to induce bradycardia.
+However, no evidence of clinically significant adverse reactions was observed in the PLATO trial after concomitant administration with one or more medicinal products known to induce bradycardia (e.g. 96% beta blockers, 33% calcium channel blockers diltiazem and verapamil and 4% digoxin) (see section 4.5).
 During the Holter substudy in PLATO, more patients had ventricular pauses >3 seconds with ticagrelor than with clopidogrel during the acute phase of their ACS.
 The increase in Holter-detected ventricular pauses with ticagrelor was higher in patients with chronic heart failure (CHF) than in the overall study population during the acute phase of ACS, but not at one month with ticagrelor or compared to clopidogrel.
 There were no adverse clinical consequences associated with this imbalance (including syncope or pacemaker insertion) in this patient population (see section 5.1).
@@ -60,9 +61,21 @@ Hyperuricaemia may occur during treatment with ticagrelor (see section 4.8).
 Caution is advised in patients with history of hyperuricaemia or gouty arthritis.
 As a precautionary measure, the use of ticagrelor in patients with uric acid nephropathy is discouraged.
 
+Thrombotic Thrombocytopenic Purpura (TTP)
+Thrombotic Thrombocytopenic Purpura (TTP) has been reported very rarely with the use of ticagrelor.
+It is characterised by thrombocytopenia and microangiopathic haemolytic anaemia associated with either neurological findings, renal dysfunction or fever.
+TTP is a potentially fatal condition requiring prompt treatment including plasmapheresis.
+
+Interference with platelet function tests to diagnose heparin induced thrombocytopenia (HIT)
+In the heparin induced platelet activation (HIPA) test used to diagnose HIT, anti-platelet factor 4/heparin antibodies in patient serum activate platelets of healthy donors in the presence of heparin.
+False negative results in a platelet function test (to include, but may not be limited to the HIPA test) for HIT have been reported in patients administered ticagrelor.
+This is related to inhibition of the P2Y12-receptor on the healthy donor platelets in the test by ticagrelor in the patient’s sera/plasma.
+Information on concomitant treatment with ticagrelor is required for interpretation of HIT platelet function tests.
+In patients who have developed HIT, the benefit-risk of continued treatment with ticagrelor should be assessed, taking both the prothrombotic state of HIT and the increased risk of bleeding with concomitant anticoagulant and ticagrelor treatment into consideration.
+
 Other
 Based on a relationship observed in PLATO between maintenance ASA dose and relative efficacy of ticagrelor compared to clopidogrel, co-administration of ticagrelor and high maintenance dose ASA (>300 mg) is not recommended (see section 5.1).
 
 Premature discontinuation
-Premature discontinuation with any antiplatelet therapy, including Brilique, could result in an increased risk of cardiovascular (CV) death or MI due to the patient’s underlying disease.
+Premature discontinuation with any antiplatelet therapy, including Brilique, could result in an increased risk of cardiovascular (CV) death, MI or stroke due to the patient’s underlying disease.
 Therefore, premature discontinuation of treatment should be avoided.

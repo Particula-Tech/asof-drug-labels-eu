@@ -24,7 +24,6 @@ The steady state volume of distribution of ticagrelor is 87.5 l. Ticagrelor and 
 
 Biotransformation
 CYP3A4 is the major enzyme responsible for ticagrelor metabolism and the formation of the active metabolite and their interactions with other CYP3A substrates ranges from activation through to inhibition.
-
 The major metabolite of ticagrelor is AR-C124910XX, which is also active as assessed by in vitro binding to the platelet P2Y12 ADP-receptor.
 The systemic exposure to the active metabolite is approximately 30-40% of that obtained for ticagrelor.
 
@@ -34,6 +33,7 @@ When radiolabelled ticagrelor is administered, the mean recovery of radioactivit
 Recoveries of ticagrelor and the active metabolite in urine were both less than 1% of the dose.
 The primary route of elimination for the active metabolite is most likely via biliary secretion.
 The mean t1/2 was approximately 7 hours for ticagrelor and 8.5 hours for the active metabolite.
+
 Special populations
 
 Elderly
@@ -49,7 +49,12 @@ These differences are not considered clinically significant.
 
 Renal impairment
 Exposure to ticagrelor was approximately 20% lower and exposure to the active metabolite was approximately 17% higher in patients with severe renal impairment (creatinine clearance
-<30 ml/min) compared to subjects with normal renal function (see section 4.2).
+<30 ml/min) compared to subjects with normal renal function.
+
+In patients with end stage renal disease on haemodialysis AUC and Cmax of ticagrelor 90 mg administered on a day without dialysis were 38% and 51% higher compared to subjects with normal renal function.
+A similar increase in exposure was observed when ticagrelor was administered immediately prior to dialysis (49% and 61%, respectively) showing that ticagrelor is not dialysable.
+Exposure of the active metabolite increased to a lesser extent (AUC 13-14% and Cmax 17-36%).
+The inhibition of platelet aggregation (IPA) effect of ticagrelor was independent of dialysis in patients with end stage renal disease and similar to subjects with normal renal function (see section 4.2).
 
 Hepatic impairment
 Cmax and AUC for ticagrelor were 12% and 23% higher in patients with mild hepatic impairment compared to matched healthy subjects, respectively, however, the IPA effect of ticagrelor was similar between the two groups.
@@ -57,7 +62,6 @@ No dose adjustment is needed for patients with mild hepatic impairment.
 Ticagrelor has not been studied in patients with severe hepatic impairment and there is no pharmacokinetic information in patients with moderate hepatic impairment.
 In patients that had moderate or severe elevation in one or more liver function tests at baseline, ticagrelor plasma concentrations were on average similar or slightly higher as compared to those without baseline elevations.
 No dose adjustment is recommended in patients with moderate hepatic impairment (see sections 4.2 and 4.4).
-
 Ethnicity
 Patients of Asian descent have a 39% higher mean bioavailability compared to Caucasian patients.
 Patients self-identified as black had an 18% lower bioavailability of ticagrelor compared to Caucasian patients, in clinical pharmacology studies, the exposure (Cmax and AUC) to ticagrelor in Japanese subjects was approximately 40% (20% after adjusting for body weight) higher compared to that in Caucasians.
@@ -65,7 +69,7 @@ The exposure in patients self-identified as Hispanic or Latino was similar to th
 
 [Brilique 90 mg film-coated tablets]
 
-(all sentences already above)
+The inhibition of platelet (IPA) effect of ticagrelor was independent of dialysis in patients with end stage renal disease and similar to subjects with normal renal function (see section 4.2).
 
 [Brilique 90 mg orodispersible tablets]
 

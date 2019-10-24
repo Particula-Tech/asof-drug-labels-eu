@@ -16,35 +16,35 @@ Frequency categories are defined according to the following conventions: Very co
 
 Table 1 – Adverse reactions by frequency and system organ class (SOC)
 
-| SOC | Very common | Common | Uncommon |
-| --- | --- | --- | --- |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  | Tumour bleedingsa |
-| Blood and lymphatic system disorders | Blood disorder bleedingsb |  |  |
-| Immune system disorders |  |  | Hypersensitivity including angioedemac |
-| Metabolism and nutrition disorders | Hyperuricaemiad | Gout/Gouty Arthritis |  |
-| Psychiatric disorders |  |  | Confusion |
-| Nervous system disorders |  | Dizziness, Syncope, Headache | Intracranial haemorrhage |
-| Eye disorders |  |  | Eye haemorrhagee |
-| Ear and labyrinth disorders |  | Vertigo | Ear haemorrhage |
-| Vascular disorders |  | Hypotension |  |
-| Respiratory, thoracic and mediastinal disorders | Dyspnoea | Respiratory system bleedingsf |  |
-| Gastrointestinal disorders |  | Gastrointestinal haemorrhageg, Diarrhoea, Nausea, Dyspepsia, Constipation | Retroperitoneal haemorrhage |
-| Skin and subcutaneous tissue disorders |  | Subcutaneous or dermal bleedingh, Rash, Pruritus |  |
-| Musculoskeletal connective tissue and bone |  |  | Muscular bleedingsi |
-| Renal and urinary disorders |  | Urinary tract bleedingj |  |
-| Reproductive system and breast disorders |  |  | Reproductive system bleedingsk |
-| Investigations |  | Blood creatinine increasedd |  |
-| Injury, poisoning and procedural complications |  | Post procedural haemorrhage, Traumatic bleedingsl |  |
+| SOC | Very common | Common | Uncommon | Not known |
+| --- | --- | --- | --- | --- |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  | Tumour bleedingsa |  |
+| Blood and lymphatic system disorders | Blood disorder bleedingsb |  |  | Thrombotic Thrombocytopenic Purpurac |
+| Immune system disorders |  |  | Hypersensitivity including angioedemac |  |
+| Metabolism and nutrition disorders | Hyperuricaemiad | Gout/Gouty Arthritis |  |  |
+| Psychiatric disorders |  |  | Confusion |  |
+| Nervous system disorders |  | Dizziness, Syncope, Headache | Intracranial haemorrhage |  |
+| Eye disorders |  |  | Eye haemorrhagee |  |
+| Ear and labyrinth disorders |  | Vertigo | Ear haemorrhage |  |
+| Vascular disorders |  | Hypotension |  |  |
+| Respiratory, thoracic and mediastinal disorders | Dyspnoea | Respiratory system bleedingsf |  |  |
+| Gastrointestinal disorders |  | Gastrointestinal haemorrhageg, Diarrhoea, Nausea, Dyspepsia, Constipation | Retroperitoneal haemorrhage |  |
+| Skin and subcutaneous tissue disorders |  | Subcutaneous or dermal bleedingh, Rash, Pruritus |  |  |
+| Musculoskeletal connective tissue and bone |  |  | Muscular bleedingsi |  |
+| Renal and urinary disorders |  | Urinary tract bleedingj |  |  |
+| Reproductive system and breast disorders |  |  | Reproductive system bleedingsk |  |
+| Investigations |  | Blood creatinine increasedd |  |  |
+| Injury, poisoning and procedural complications |  | Post procedural haemorrhage, Traumatic bleedingsl |  |  |
 
 a e.g. bleeding from bladder cancer, gastric cancer, colon cancer b e.g. increased tendency to bruise, spontaneous haematoma, haemorrhagic diathesis c Identified in post-marketing experience d Frequencies derived from lab observations (Uric acid increases to >upper limit of normal from baseline below or within reference range.
 Creatinine increases of >50% from baseline.) and not crude adverse event report frequency.
 e e.g. conjunctival, retinal, intraocular bleeding f e.g. epistaxis, haemoptysis g e.g. gingival bleeding, rectal haemorrhage, gastric ulcer haemorrhage h e.g. ecchymosis, skin haemorrhage, petechiae i e.g. haemarthrosis, muscle haemorrhage j e.g. haematuria, cystitis haemorrhagic k e.g. vaginal haemorrhage, haematospermia, postmenopausal haemorrhage l e.g. contusion, traumatic haematoma, traumatic haemorrhage
-
 Description of selected adverse reactions
 
 Bleeding
 Bleeding findings in PLATO
 Overall outcome of bleeding rates in the PLATO study are shown in Table 2.
+
 Table 2 – Analysis of overall bleeding events, Kaplan-Meier estimates at 12 months (PLATO)
 
 |  | Ticagrelor 90 mg twice daily N=9235 | Clopidogrel N=9186 | p-value* |
@@ -70,8 +70,8 @@ Ticagrelor and clopidogrel did not differ in rates of PLATO Major Fatal/Life-thr
 However, more PLATO combined Major + Minor bleeding occurred with ticagrelor compared with clopidogrel.
 Few patients in PLATO had fatal bleeds: 20 (0.2%) for ticagrelor and 23 (0.3%) for clopidogrel (see section 4.4).
 
-Age, sex, weight, race, geographic region, concurrent conditions, concomitant therapy, and medical history, including a previous stroke or transient ischaemic attack, all did not predict either overall or non-procedural PLATO Major bleeding.
-Thus no particular group was identified at risk for any subset of bleeding.
+Age, sex, weight, race, geographic region, concurrent conditions, concomitant therapy and medical history, including a previous stroke or transient ischaemic attack, all did not predict either overall or non-procedural PLATO Major bleeding.
+Thus, no particular group was identified at risk for any subset of bleeding.
 
 CABG-related bleeding:
 In PLATO, 42% of the 1584 patients (12% of cohort) who underwent coronary artery bypass graft (CABG) surgery had a PLATO Major Fatal/Life-threatening bleeding with no difference between treatment groups.
@@ -85,6 +85,7 @@ Discontinuation of treatment due to non-procedural bleeding was more common for 
 Intracranial bleeding:
 There were more intracranial non-procedural bleeds with ticagrelor (n=27 bleeds in 26 patients, 0.3%) than with clopidogrel (n=14 bleeds, 0.2%), of which 11 bleeds with ticagrelor and 1 with clopidogrel were fatal.
 There was no difference in overall fatal bleeds.
+
 Bleeding findings in PEGASUS
 Overall outcome of bleeding events in the PEGASUS study are shown in Table 3.
 
@@ -112,11 +113,12 @@ Fatal: A bleeding event that directly led to death within 7 days.
 ICH: Intracranial haemorrhage.
 Other TIMI Major: Non-fatal non-ICH TIMI Major bleeding.
 TIMI Minor: Clinically apparent with 30-50 g/L decrease in haemoglobin.
-TIMI Requiring medical attention: Requiring intervention, OR leading to hospitalization, OR prompting evaluation.
+TIMI Requiring medical attention: Requiring intervention, OR leading to hospitalisation, OR prompting evaluation.
 PLATO Major Fatal/life-threatening: Fatal bleeding, OR any intracranial bleeding, OR intrapericardial with cardiac tamponade, OR with hypovolaemic shock or severe hypotension requiring pressors/inotropes or surgery OR clinically apparent with >50 g/L decrease in haemoglobin or ≥4 red cell units transfused.
 PLATO Major Other: Significantly disabling, OR clinically apparent with 30-50 g/L decrease in haemoglobin, OR
 2-3 red cell units transfused.
 PLATO Minor: Requires medical intervention to stop or treat bleeding.
+
 In PEGASUS, TIMI Major bleeding for ticagrelor 60 mg twice daily was higher than for ASA alone.
 No increased bleeding risk was seen for fatal bleeding and only a minor increase was observed in intracranial haemorrhages, as compared to ASA therapy alone.
 There were few fatal bleeding events in the study, 11 (0.3%) for ticagrelor 60 mg and 12 (0.3%) for ASA therapy alone.
@@ -126,7 +128,7 @@ Increased bleeding patterns similar to TIMI Major were seen for TIMI Major or Mi
 Discontinuation of treatment due to bleeding was more common with ticagrelor 60 mg compared to ASA therapy alone (6.2% and 1.5%, respectively).
 The majority of these bleedings were of less severity (classified as TIMI Requiring medical attention), e.g. epistaxis, bruising and haematomas.
 
-The bleeding profile of ticagrelor 60 mg was consistent across multiple pre-defined subgroups (e.g. by age, gender, weight, race, geographic region, concurrent conditions, concomitant therapy, and medical history) for TIMI Major, TIMI Major or Minor and PLATO Major bleeding events.
+The bleeding profile of ticagrelor 60 mg was consistent across multiple pre-defined subgroups (e.g. by age, gender, weight, race, geographic region, concurrent conditions, concomitant therapy and medical history) for TIMI Major, TIMI Major or Minor and PLATO Major bleeding events.
 
 Intracranial bleeding:
 Spontaneous ICHs were reported in similar rates for ticagrelor 60 mg and ASA therapy alone (n=13, 0.2% in both treatment groups).
@@ -145,7 +147,7 @@ In absolute terms, this risk was higher than in the overall PLATO population.
 Ticagrelor should be used with caution in patients with history of asthma and/or COPD (see section 4.4).
 
 About 30% of episodes resolved within 7 days.
-PLATO included patients with baseline congestive heart failure, COPD, or asthma; these patients, and the elderly, were more likely to report dyspnoea.
+PLATO included patients with baseline congestive heart failure, COPD or asthma; these patients, and the elderly, were more likely to report dyspnoea.
 For ticagrelor, 0.9% of patients discontinued study drug because of dyspnoea compared with 0.1% taking clopidogrel.
 The higher incidence of dyspnoea with ticagrelor is not associated with new or worsening heart or lung disease (see section 4.4).
 Ticagrelor does not affect tests of pulmonary function.
@@ -167,11 +169,3 @@ Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-[Brilique 90 mg film-coated tablets]
-
-Thus, no particular group was identified at risk for any subset of bleeding.
-
-[Brilique 90 mg orodispersible tablets]
-
-(all sentences already above)

@@ -25,7 +25,6 @@ No dose adjustment is required in elderly (see section 5.2).
 
 Renal impairment
 No dose adjustment is necessary for patients with renal impairment (see section 5.2).
-No information is available concerning treatment of patients on renal dialysis and therefore ticagrelor is not recommended in these patients.
 
 Hepatic impairment
 Ticagrelor has not been studied in patients with severe hepatic impairment and its use in these patients is therefore contraindicated (see section 4.3).
@@ -44,6 +43,10 @@ For patients who are unable to swallow the tablet(s) whole, the tablets can be c
 The glass should be rinsed with a further half glass of water and the contents drunk.
 The mixture can also be administered via a nasogastric tube (CH8 or greater).
 It is important to flush the nasogastric tube through with water after administration of the mixture.
+
+[Brilique 90 mg film-coated tablets]
+
+Brilique treatment should be initiated with a single 180 mg loading dose (two tablets of 90 mg) and then continued at 90 mg twice daily.Treatment with Brilique 90 mg twice daily is recommended for 12 months in ACS patients unless discontinuation is clinically indicated (see section 5.1).
 
 [Brilique 90 mg orodispersible tablets]
 

@@ -1,6 +1,7 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 Each film-coated tablet contains 60 mg ticagrelor.
+Brilique contains less than 1 mmol sodium (23 mg) per dose, i.e. is essentially ‘sodium-free’.
 
 For the full list of excipients, see section 6.1.
 
