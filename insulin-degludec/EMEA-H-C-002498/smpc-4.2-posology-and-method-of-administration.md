@@ -6,6 +6,7 @@ This medicinal product is a basal insulin for once-daily subcutaneous administra
 The potency of insulin analogues, including insulin degludec, is expressed in units.
 One (1) unit of insulin degludec corresponds to 1 international unit of human insulin, 1 unit of insulin glargine
 (100 units/mL), or 1 unit of insulin detemir.
+
 In patients with type 2 diabetes mellitus, this medicinal product can be administered alone or in any combination with oral antidiabetic medicinal products, GLP-1 receptor agonists and bolus insulin (see section 5.1).
 
 In type 1 diabetes mellitus, Tresiba must be combined with short-/rapid-acting insulin to cover mealtime insulin requirements.

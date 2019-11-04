@@ -3,6 +3,7 @@
 Absorption
 After subcutaneous injection, soluble and stable multi-hexamers are formed creating a depot of insulin in the subcutaneous tissue.
 Insulin degludec monomers gradually separate from the multi-hexamers thus resulting in a slow and continuous delivery of insulin degludec into the circulation.
+
 Steady-state serum concentration is reached after 2–3 days of daily Tresiba administration.
 
 During a period of 24 hours with once-daily treatment, the exposure of insulin degludec was evenly distributed between the first and second 12 hours.

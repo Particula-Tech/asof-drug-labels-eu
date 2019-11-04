@@ -35,7 +35,6 @@ Continuous rotation of the injection site within the particular injection area m
 Injection site reactions
 Injection site reactions (including injection site haematoma, pain, haemorrhage, erythema, nodules, swelling, discolouration, pruritus, warmth and injection site mass) occurred in patients treated with Tresiba.
 These reactions are usually mild and transitory and they normally disappear during continued treatment.
-
 Paediatric population
 Tresiba has been administered to children and adolescents up to 18 years of age for the investigation of pharmacokinetic properties (see section 5.2).
 Safety and efficacy have been demonstrated in a long term trial in children aged 1 to less than 18 years.
