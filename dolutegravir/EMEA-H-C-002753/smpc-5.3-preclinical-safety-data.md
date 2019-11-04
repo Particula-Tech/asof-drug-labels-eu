@@ -4,7 +4,6 @@ Dolutegravir was not mutagenic or clastogenic using in vitro tests in bacteria a
 Dolutegravir was not carcinogenic in long term studies in the mouse and rat.
 
 Dolutegravir did not affect male or female fertility in rats at doses up to 1000 mg/kg/day, the highest dose tested (24 times the 50 mg twice daily human clinical exposure based on AUC).
-
 Oral administration of dolutegravir to pregnant rats at doses up to 1000 mg/kg daily from days 6 to 17 of gestation did not elicit maternal toxicity, developmental toxicity or teratogenicity (27 times the 50 mg twice daily human clinical exposure based on AUC).
 
 Oral administration of dolutegravir to pregnant rabbits at doses up to 1000 mg/kg daily from days 6 to 18 of gestation did not elicit developmental toxicity or teratogenicity (0.40 times the 50 mg twice daily human clinical exposure based on AUC).

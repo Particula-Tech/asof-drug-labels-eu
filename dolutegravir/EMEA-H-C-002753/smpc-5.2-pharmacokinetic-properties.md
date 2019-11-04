@@ -34,6 +34,7 @@ In 13 treatment-naïve subjects on a stable dolutegravir plus abacavir/lamivudin
 Dolutegravir is present in the female and male genital tract.
 AUC in cervicovaginal fluid, cervical tissue and vaginal tissue were 6-10% of those in corresponding plasma at steady state.
 AUC in semen was 7% and 17% in rectal tissue of those in corresponding plasma at steady state.
+
 Biotransformation
 
 Dolutegravir is primarily metabolized through glucuronidation via UGT1A1 with a minor CYP3A component.
@@ -73,6 +74,7 @@ There is no clinical data on the safety or efficacy of the 100 mg twice daily do
 Co-treatment with atazanavir increases the exposure of dolutegravir markedly, and should not be used in combination with this high dose, since safety with the resulting dolutegravir exposure has not been established.
 
 Special patient populations
+
 Children
 The pharmacokinetics of dolutegravir in 10 antiretroviral treatment-experienced HIV-1 infected adolescents (12 to <18 years of age) showed that Tivicay 50 mg once daily oral dosage resulted in dolutegravir exposure comparable to that observed in adults who received Tivicay 50 mg orally once daily.
 The pharmacokinetics was evaluated in 11 children 6 to 12 years of age and showed that 25 mg once daily in patients weighing at least 20 kg and 35 mg once daily in patients weighing at least 30 kg resulted in dolutegravir exposure comparable to adults.

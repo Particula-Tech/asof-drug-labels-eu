@@ -1,12 +1,22 @@
 # 4.6 Fertility, pregnancy and lactation
 
-Pregnancy
+Women of childbearing potential
+Women of childbearing potential (WOCBP) should undergo pregnancy testing before initiation of dolutegravir.
+WOCBP who are taking dolutegravir should use effective contraception throughout treatment.
 
-There are limited amount of data from the use of dolutegravir in pregnant women.
-The effect of dolutegravir on human pregnancy is unknown.
-In reproductive toxicity studies in animals, dolutegravir was shown to cross the placenta.
-Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
-Dolutegravir should be used during pregnancy only if the expected benefit justifies the potential risk to the foetus.
+Pregnancy
+Preliminary data from a surveillance study has suggested an increased incidence of neural tube defects (0.9%) in mothers exposed to dolutegravir at the time of conception compared with mothers exposed to non-dolutegravir containing regimens (0.1%).
+The incidence of neural tube defects in the general population ranges from 0.5-1 case per 1,000 live births (0.05-0.1%).
+As neural tube defects occur within the first 4 weeks of foetal development (at which time the neural tubes are sealed) this potential risk would concern women exposed to dolutegravir at the time of conception and in early pregnancy.
+Due to the potential risk of neural tube defects, dolutegravir should not be used during the first trimester unless there is no alternative.
+
+More than 1000 outcomes from second and third trimester exposure in pregnant women indicate no evidence of increased risk of malformative and foeto/neonatal negative effects.
+However, as the mechanism by which dolutegravir may interfere in human pregnancy is unknown, the safety in use during the second and third trimester cannot be confirmed.
+Dolutegravir should only be used during the second and third trimester of pregnancy when the expected benefit justifies the potential risk to the foetus.
+
+In animal reproductive toxicity studies, no adverse development outcomes, including neural tube defects, were identified (see section 5.3).
+Dolutegravir was shown to cross the placenta in animals.
+
 Breast-feeding
 
 It is unknown whether dolutegravir is excreted in human milk.

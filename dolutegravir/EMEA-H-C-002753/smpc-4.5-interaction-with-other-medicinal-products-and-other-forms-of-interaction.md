@@ -1,6 +1,7 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Effect of other agents on the pharmacokinetics of dolutegravir
+
 All factors that decrease dolutegravir exposure should be avoided in the presence of integrase class resistance.
 
 Dolutegravir is eliminated mainly through metabolism by UGT1A1.
@@ -35,7 +36,8 @@ Table 2: Drug Interactions
 | --- | --- | --- |
 | HIV-1 Antiviral Agents |  |  |
 | Non-nucleoside Reverse Transcriptase Inhibitors |  |  |
-| Etravirine without boosted protease inhibitors | Dolutegravir ↓ AUC ↓ 71% Cmax ↓ 52% Cτ ↓ 88% Etravirine ↔ (induction of UGT1A1 and CYP3A enzymes) | Etravirine without boosted protease inhibitors decreased plasma dolutegravir concentration. The recommended adult dose of dolutegravir is 50 mg twice daily when co-administered with etravirine without boosted protease inhibitors. In paediatric patients the weight-based once daily dose should be administered twice daily. Dolutegravir should not be used with etravirine without co-administration of atazanavir/ritonavir, darunavir/ritonavir or lopinavir/ritonavir in INI-resistant patients (see further below in table). |
+| Etravirine without boosted protease inhibitors | Dolutegravir ↓ AUC ↓ 71% Cmax ↓ 52% Cτ ↓ 88% Etravirine ↔ | Etravirine without boosted protease inhibitors decreased plasma dolutegravir concentration. The recommended adult dose of dolutegravir is 50 mg twice daily when co-administered with etravirine without boosted protease inhibitors. In paediatric patients the weight-based once daily dose should |
+|  | (induction of UGT1A1 and CYP3A enzymes) | be administered twice daily. Dolutegravir should not be used with etravirine without co-administration of atazanavir/ritonavir, darunavir/ritonavir or lopinavir/ritonavir in INI-resistant patients (see further below in table). |
 | Lopinavir/ritonavir + etravirine | Dolutegravir ↔ AUC ↑ 11% Cmax ↑ 7% Cτ ↑ 28% LPV ↔ RTV ↔ | No dose adjustment is necessary. |
 | Darunavir/ritonavir + etravirine | Dolutegravir ↓ AUC ↓ 25% Cmax ↓ 12% Cτ ↓ 36% DRV ↔ RTV ↔ | No dose adjustment is necessary. |
 | Efavirenz | Dolutegravir ↓ AUC ↓ 57% Cmax ↓ 39% Cτ ↓ 75% Efavirenz ↔ (historical controls) (induction of UGT1A1 and CYP3A enzymes) | The recommended adult dose of dolutegravir is 50 mg twice daily when co-administered with efavirenz. In paediatric patients the weight-based once daily dose should be administered twice daily. In the presence of integrase class resistance alternative combinations that do not include efavirenz should be considered (see section 4.4). |
@@ -45,8 +47,7 @@ Table 2: Drug Interactions
 | Tenofovir | Dolutegravir ↔ AUC ↑ 1% Cmax ↓ 3% Cτ ↓ 8% Tenofovir ↔ | No dose adjustment is necessary. |
 | Protease Inhibitors |  |  |
 | Atazanavir | Dolutegravir ↑ AUC ↑ 91% Cmax ↑ 50% Cτ ↑ 180% Atazanavir ↔ (historical controls) (inhibition of UGT1A1 and CYP3A enzymes) | No dose adjustment is necessary. Tivicay should not be dosed higher than 50 mg twice daily in combination with atazanavir (see section 5.2) due to lack of data. |
-| Atazanavir/ritonavir | Dolutegravir ↑ AUC ↑ 62% Cmax ↑ 34% Cτ ↑ 121% | No dose adjustment is necessary. Tivicay should not be dosed higher than 50 mg twice daily in combination with atazanavir (see section 5.2) due to lack of data. |
-|  | Atazanavir ↔ Ritonavir ↔ (inhibition of UGT1A1 and CYP3A enzymes) |  |
+| Atazanavir/ritonavir | Dolutegravir ↑ AUC ↑ 62% Cmax ↑ 34% Cτ ↑ 121% Atazanavir ↔ Ritonavir ↔ (inhibition of UGT1A1 and CYP3A enzymes) | No dose adjustment is necessary. Tivicay should not be dosed higher than 50 mg twice daily in combination with atazanavir (see section 5.2) due to lack of data. |
 | Tipranavir/ritonavir (TPV+RTV) | Dolutegravir ↓ AUC ↓ 59% Cmax ↓ 47% Cτ ↓ 76% (induction of UGT1A1 and CYP3A enzymes) | The recommended adult dose of dolutegravir is 50 mg twice daily when co-administered with tipranavir/ritonavir. In paediatric patients the weight-based once daily dose should be administered twice daily. In the presence of integrase class resistance this combination should be avoided (see section 4.4). |
 | Fosamprenavir/ ritonavir (FPV+RTV) | Dolutegravir ↓ AUC ↓ 35% Cmax ↓ 24% Cτ ↓ 49% (induction of UGT1A1 and CYP3A enzymes) | No dose adjustment is necessary in the absence of integrase class resistance. In the presence of integrase class resistance alternative combinations that do not include fosamprenavir/ritonavir should be considered. |
 | Nelfinavir | Dolutegravir ↔ (Not studied) | No dose adjustment is necessary. |
@@ -59,7 +60,8 @@ Table 2: Drug Interactions
 | Antiarrhythmics |  |  |
 | Dofetilide | Dofetilide ↑ (Not studied, potential increase via inhibition of OCT2 transporter) | Dolutegravir and dofetilide co-administration is contraindicated due to potential life-threatening toxicity caused by high dofetilide concentration (see section 4.3). |
 | Anticonvulsants |  |  |
-| Carbamazepine | Dolutegravir ↓ AUC ↓ 49% Cmax ↓ 33% Cτ ↓ 73% | The recommended adult dose of dolutegravir is 50 mg twice daily when co-administered with carbamazepine. In paediatric patients the weight-based once daily dose should be administered twice daily. Alternatives to carbamazepine should be used where possible for INI resistant patients. |
+| Carbamazepine | Dolutegravir ↓ | The recommended adult dose of dolutegravir is 50 |
+|  | AUC ↓ 49% Cmax ↓ 33% Cτ ↓ 73% | mg twice daily when co-administered with carbamazepine. In paediatric patients the weight-based once daily dose should be administered twice daily. Alternatives to carbamazepine should be used where possible for INI resistant patients. |
 | Oxcarbazepine Phenytoin Phenobarbital | Dolutegravir ↓ (Not studied, decrease expected due to induction of UGT1A1 and CYP3A enzymes, a similar reduction in exposure as observed with carbamazepine is expected) | The recommended adult dose of dolutegravir is 50 mg twice daily when co-administered with these metabolic inducers. In paediatric patients the weight-based once daily dose should be administered twice daily. Alternative combinations that do not include these metabolic inducers should be used where possible in INI-resistant patients. |
 | Azole anti-fungal agents |  |  |
 | Ketoconazole Fluconazole Itraconazole Posaconazole Voriconazole | Dolutegravir ↔ (Not studied) | No dose adjustment is necessary. Based on data from other CYP3A4 inhibitors, a marked increase is not expected. |
@@ -71,7 +73,8 @@ Table 2: Drug Interactions
 | Iron supplements | Dolutegravir ↓ AUC ↓ 54% Cmax ↓ 57% C24 ↓ 56% (Complex binding to polyvalent ions) |  |
 | Multivitamin | Dolutegravir ↓ AUC ↓ 33% Cmax ↓ 35% C24 ↓ 32% (Complex binding to polyvalent ions) |  |
 | Corticosteroids |  |  |
-| Prednisone | Dolutegravir ↔ AUC ↑ 11% Cmax ↑ 6% Cτ ↑ 17% | No dose adjustment is necessary. |
+| Prednisone | Dolutegravir ↔ AUC ↑ 11% | No dose adjustment is necessary. |
+|  | Cmax ↑ 6% Cτ ↑ 17% |  |
 | Antidiabetics |  |  |
 | Metformin | Metformin ↑ When co-administered with dolutegravir 50mg once daily: Metformin AUC ↑ 79% Cmax ↑ 66% When co-administered with dolutegravir 50mg twice daily: Metformin AUC ↑ 145 % Cmax ↑ 111% | A dose adjustment of metformin should be considered when starting and stopping coadministration of dolutegravir with metformin, to maintain glycaemic control. In patients with moderate renal impairment a dose adjustment of metformin should be considered when coadministered with dolutegravir, because of the increased risk for lactic acidosis in patients with moderate renal impairment due to increased metformin concentration (section 4.4). |
 | Antimycobacterials |  |  |

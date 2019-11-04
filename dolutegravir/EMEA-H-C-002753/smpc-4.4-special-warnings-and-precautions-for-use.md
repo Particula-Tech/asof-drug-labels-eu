@@ -21,7 +21,7 @@ In HIV-infected patients with severe immune deficiency at the time of institutio
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis jirovecii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
-Autoimmune disorders (such as Graves’ disease) have also been reported to occur in the setting of immune reconstitution, however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
+Autoimmune disorders (such as Graves’ disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reconstitution, however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
 
 Liver biochemistry elevations consistent with immune reconstitution syndrome were observed in some hepatitis B and/or C co-infected patients at the start of dolutegravir therapy.
 Monitoring of liver biochemistries is recommended in patients with hepatitis B and/or C co-infection.
@@ -47,3 +47,7 @@ Osteonecrosis
 
 Although the aetiology is considered to be multifactorial (including corticosteroid use, biphosphonates, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported in patients with advanced HIV-disease and/or long-term exposure to CART.
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
+
+Lamivudine and dolutegravir
+The two-drug regimen of dolutegravir 50 mg once daily and lamivudine 300 mg once daily was explored in two large randomized and blinded studies, GEMINI 1 and GEMINI 2 (see section 5.1).
+This regimen is only suitable for the treatment of HIV-1 infection where there is no known or suspected resistance to the integrase inhibitor class, or to lamivudine.
