@@ -51,7 +51,6 @@ Ketoconazole is mainly metabolised through CYP3A4.
 Coadministration of potent enzyme inducers of CYP3A4 may decrease the bioavailibity of ketoconazole.
 A review of concomitant medicinal products should be conducted when initiating ketoconazole treatment since ketoconazole is a known strong CYP3A4 inhibitor.
 The SmPC for concomitantly used products must be consulted for the recommendations regarding co-administration with strong CYP3A4 inhibitors.
-
 Ketoconazole is a potent inhibitor of CYP3A4: inhibition of CYP3A4 by ketoconazole can increase patients’ exposure to a number of medicinal products which are metabolised through this enzymatic system (see section 4.5).
 
 Ketoconazole is also a potent inhibitor of P-gp: inhibition of P-gp by ketoconazole can increase patients’ exposure to medicinal products which are P-gp substrates (see section 4.5).

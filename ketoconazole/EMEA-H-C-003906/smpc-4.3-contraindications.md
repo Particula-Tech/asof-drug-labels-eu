@@ -23,7 +23,6 @@ o everolimus, sirolimus (also known as rapamycin) due to an increase of the plas
 o vardenafil in men older than 75-years due to increased risk of adverse reactions;
 o paritaprevir/ombitasvir (ritonavir) due to increased risk of adverse reactions;
 o fesoterodine and solifenacin in patients with renal impairment;
-
 o tolvaptan used for a specific disease called “syndrome of inappropriate antidiuretic hormone secretion”.
 
 The list above is not an inclusive list of compounds that may interact with ketoconazole and result in potentially life-threatening reactions.
