@@ -100,17 +100,18 @@ CI = confidence interval, HRA+G/G = hazard ratio of Abraxane+gemcitabine/gemcita
 
 There was a statistically significant improvement in OS for patients treated with Abraxane/gemcitabine versus gemcitabine alone, with 1.8 months increase in median OS, 28% overall reduction in risk of death, 59% improvement in 1-year survival, and 125% improvement in 2-year survival rates.
 Figure 1: Kaplan-Meier curve of overall survival (intent-to-treat population)
-1.0 ABRAXANE+Gemcitabine 0.9 Gemcitabine
+1.0 ABRAXANE+Gemcitabine
+
+0.9 Gemcitabine
 
 0.8
 
 0.7
 
-0.6
-Survival of 0.5
+Survival 0.6 of
+0.5
 
 0.4
-
 Proportion
 0.3
 
@@ -120,8 +121,8 @@ Proportion
 
 0.0
 
-(PT at Risk)
-ABX/GEM :
+(PT at Risk )
+ABX/GEM:
 GEM :
 Time (months)
 

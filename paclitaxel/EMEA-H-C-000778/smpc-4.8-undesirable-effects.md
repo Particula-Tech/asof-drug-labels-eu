@@ -177,6 +177,7 @@ Using repeated measure analysis, 3 of the 4 subscales (peripheral neuropathy, pa
 For the other subscale (oedema), there was no difference in the treatment arms.
 
 Post-marketing experience
+
 Cranial nerve palsies, vocal cord paresis, and rare reports of severe hypersensitivity reactions have been reported during post-marketing surveillance of Abraxane.
 
 There have been rare reports of reduced visual acuity due to cystoid macular oedema during treatment with Abraxane.
@@ -184,6 +185,7 @@ Upon diagnosis of cystoid macular oedema, treatment with Abraxane should be disc
 
 There have been reports of tumour lysis syndrome during treatment with Abraxane.
 
+Scleroderma of the skin has been reported.
 In some patients previously exposed to capecitabine, reports of palmar-plantar erythrodysaesthesiae have been reported as part of the continuing surveillance of Abraxane.
 Because these events have been reported voluntarily during clinical practice, true estimates of frequency cannot be made and a causal relationship to the events has not been established.
 
