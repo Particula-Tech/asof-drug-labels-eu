@@ -1,5 +1,5 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Sanofi Clir SNC
+sanofi-aventis groupe
 54, rue La Boétie
 F-75008 Paris - France
