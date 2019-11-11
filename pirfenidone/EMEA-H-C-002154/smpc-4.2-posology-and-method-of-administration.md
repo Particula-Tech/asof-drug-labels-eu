@@ -23,7 +23,6 @@ Dose adjustments and other considerations for safe use
 Gastrointestinal events: In patients who experience intolerance to therapy due to gastrointestinal undesirable effects, patients should be reminded to take the medicinal product with food.
 If symptoms persist, the dose of pirfenidone may be reduced to 1-2 capsules (267 mg – 534 mg) two to three times/day with food with re-escalation to the recommended daily dose as tolerated.
 If symptoms continue, patients may be instructed to interrupt treatment for one to two weeks to allow symptoms to resolve.
-
 Photosensitivity reaction or rash: Patients who experience a mild to moderate photosensitivity reaction or rash should be reminded to use a sunblock daily and to avoid exposure to the sun (see section 4.4).
 The dose of pirfenidone may be reduced to 3 capsules/day (1 capsule three times a day).
 If the rash persists after 7 days, Esbriet should be discontinued for 15 days, with re-escalation to the recommended daily dose in the same manner as the dose escalation period.

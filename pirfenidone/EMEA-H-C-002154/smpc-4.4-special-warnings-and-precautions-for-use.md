@@ -31,14 +31,15 @@ Patients should be instructed to report symptoms of photosensitivity reaction or
 Severe photosensitivity reactions are uncommon.
 Dose adjustments or temporary treatment discontinuation may be necessary in mild to severe cases of photosensitivity reaction or rash (see section 4.2).
 
-Angioedema
+Angioedema/Anaphylaxis
 
 Reports of angioedema (some serious) such as swelling of the face, lips and/or tongue which may be associated with difficulty breathing or wheezing have been received in association with use of Esbriet in the post-marketing setting.
-Therefore, patients who develop signs or symptoms of angioedema following administration of Esbriet should immediately discontinue treatment.
-Patients with angioedema should be managed according to standard of care.
-Esbriet must not be used in patients with a history of angioedema due to Esbriet (see section 4.3).
+Reports of anaphylactic reactions have also been received.
+Therefore, patients who develop signs or symptoms of angioedema or severe allergic reactions following administration of Esbriet should immediately discontinue treatment.
+Patients with angioedema or severe allergic reactions should be managed according to standard of care.
+Esbriet must not be used in patients with a history of angioedema or hypersensitivity due to Esbriet (see section 4.3).
 
-Dizzines
+Dizziness
 
 Dizziness has been reported in patients taking Esbriet.
 Therefore, patients should know how they react to this medicinal product before they engage in activities requiring mental alertness or coordination (see section 4.7).
@@ -53,7 +54,3 @@ Weight loss
 
 Weight loss has been reported in patients treated with Esbriet (see section 4.8).
 Physicians should monitor patient’s weight, and when appropriate encourage increased caloric intake if weight loss is considered to be of clinical significance.
-
-[Esbriet 267 mg film-coated tablets]
-
-Dizziness

@@ -9,7 +9,7 @@ More than 170 patients have been investigated in open studies for more than five
 
 Table 1 shows the adverse reactions reported at a frequency of ≥2% in 623 patients receiving Esbriet at the recommended dose of 2,403 mg/day in three pooled pivotal Phase 3 studies.
 Adverse reactions from post-marketing experience are also listed in Table 1.
-Adverse reactions are listed by System Organ Class (SOC) and within each frequency grouping [Very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000)] the adverse reactions are presented in order of decreasing seriousness.
+Adverse reactions are listed by System Organ Class (SOC) and within each frequency grouping [Very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), not known (cannot be estimated from the available data)] the adverse reactions are presented in order of decreasing seriousness.
 
 | Table 1 Adverse reactions by SOC and MedDRA frequency |  |
 | --- | --- |
@@ -19,6 +19,7 @@ Adverse reactions are listed by System Organ Class (SOC) and within each frequen
 | Rare | Agranulocytosis1 |
 | Immune system disorders |  |
 | Uncommon | Angioedema1 |
+| Not known | Anaphylaxis1 |
 | Metabolism and nutrition disorders |  |
 | Very Common | Anorexia |
 | Common | Weight decreased; decreased appetite |
@@ -50,7 +51,6 @@ Adverse reactions are listed by System Organ Class (SOC) and within each frequen
 
 1.
 Identified through post-marketing surveillance
-
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
