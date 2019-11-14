@@ -30,6 +30,7 @@ The incidence of the adverse reactions below are expressed according to the foll
 |  | Progressive multifocal leukoencephalopathy (PML) 1 | Not known |
 | Blood and lymphatic system disorders | Lymphopenia | Common |
 |  | Leucopenia | Common |
+|  | Thrombocytopenia | Uncommon |
 | Immune system disorders | Hypersensitivity | Uncommon |
 |  | Anaphylaxis1 | Not known |
 |  | Dyspnoea1 | Not known |
@@ -60,6 +61,7 @@ The incidence of the adverse reactions below are expressed according to the foll
 |  | White blood cell count decreased | Common |
 
 1 Adverse reactions derived only during post marketing experience
+
 Description of selected adverse reactions
 
 Flushing
@@ -115,7 +117,7 @@ A transient increase in mean eosinophil counts was seen during the first 2 month
 Paediatric population
 
 The safety of Tecfidera in paediatric patients with multiple sclerosis below the age of 18 has not yet been established.
-In a small 24-week open-label uncontrolled study in paediatric patients with RRMS aged 13 to 17 years (120 mg twice a day for 7 days followed by 240 mg twice a day for the remainder of treatment; safety population, n=22), the safety profile appeared similar to that observed in adult patients.
+In a small 24-week open-label uncontrolled study in paediatric patients with RRMS aged 13 to 17 years (120 mg twice a day for 7 days followed by 240 mg twice a day for the remainder of treatment; safety population, n=22), followed by a 96 week extension study (240mg twice per day ; safety population n=20), the safety profile appeared similar to that observed in adult patients.
 
 Reporting of suspected adverse reactions
 

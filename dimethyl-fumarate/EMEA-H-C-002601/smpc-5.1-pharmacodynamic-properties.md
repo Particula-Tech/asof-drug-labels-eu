@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Other nervous system drugs, ATC code: N07XX09
+Pharmacotherapeutic group: Antineoplastic and immunomodulating agents, ATC code: L04AX07
 
 Mechanism of action
 
@@ -75,4 +75,7 @@ Paediatric population
 Tecfidera was evaluated in a prospective open-label, uncontrolled study in 22 paediatric patients with RRMS aged 13 to 17 years (4 patients aged ≤14 years).
 Subjects received Tecfidera 120 mg twice a day for 7 days followed by 240 mg twice a day for 24 weeks.
 The median number of new or newly enlarging T2 hyperintense lesions changed from 2 in the 8 week pre-treatment evaluation period to 0 in the final 8 weeks of the treatment period (median change -2, n=16).
+Patients subsequently entered an extension study for a further 96 weeks.
+Among the 10 patients with MRI data between weeks 64 and week 72 of the extension study, the median number of subjects with new or newly enlarging T2 hyperintense lesions was 0 (range 0,2).
+Over the full treatment period (120-week), ARR was 0.2 representing an 84.5% relative reduction in relapses (n=20; 95% CI [66.8, 92.8], p<0.0001), when compared to the year prior to treatment initiation.
 These data should be considered cautiously regarding limitations of the study design (no control arm, pre- versus post-dose comparison) (see section 4.2).
