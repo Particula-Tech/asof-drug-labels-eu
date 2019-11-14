@@ -6,14 +6,14 @@ Mechanism of action
 
 Docetaxel is an antineoplastic agent which acts by promoting the assembly of tubulin into stable microtubules and inhibits their disassembly which leads to a marked decrease of free tubulin.
 The binding of docetaxel to microtubules does not alter the number of protofilaments.
-Docetaxel has been shown in vitro to disrupt the microtubular network in cells which is essential for vital mitotic and interphase cellular functions.
 
+Docetaxel has been shown in vitro to disrupt the microtubular network in cells which is essential for vital mitotic and interphase cellular functions.
 Pharmacodynamic effects
 
 Docetaxel was found to be cytotoxic in vitro against various murine and human tumour cell lines and against freshly excised human tumour cells in clonogenic assays.
 Docetaxel achieves high intracellular concentrations with a long cell residence time.
 In addition, docetaxel was found to be active on some but not all cell lines over expressing the p-glycoprotein which is encoded by the multidrug resistance gene.
-In vivo, docetaxel is schedule independent and has a broad spectrum of experimental antitumour activity against advanced murine and human grafted tumours.
+In vivo, docetaxel is schedule independent and has a broad spectrum of experimental anti-tumour activity against advanced murine and human grafted tumours.
 
 Clinical efficacy and safety
 
@@ -23,17 +23,17 @@ TAXOTERE in combination with doxorubicin and cyclophosphamide: adjuvant therapy
 
 Patients with operable node-positive breast cancer (TAX 316)
 
-Data from a multicenter open label randomized study support the use of docetaxel for the adjuvant treatment of patients with operable node-positive breast cancer and KPS ≥ 80%, between 18 and 70 years of age.
+Data from a multi-centre open label randomised study support the use of docetaxel for the adjuvant treatment of patients with operable node-positive breast cancer and KPS ≥ 80%, between 18 and 70 years of age.
 After stratification according to the number of positive lymph nodes (1-3, 4+),
-1491 patients were randomized to receive either docetaxel 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclosphosphamide 500 mg/m2 (FAC arm).
+1491 patients were randomised to receive either docetaxel 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclophosphamide 500 mg/m2 (FAC arm).
 Both regimens were administered once every 3 weeks for 6 cycles.
 Docetaxel was administered as a 1-hour infusion, all other medicinal products were given as intravenous bolus on day one.
 G-CSF was administered as secondary prophylaxis to patients who experienced complicated neutropenia (febrile neutropenia, prolonged neutropenia, or infection).
 Patients on the TAC arm received antibiotic prophylaxis with ciprofloxacin 500 mg orally twice daily for 10 days starting on day 5 of each cycle, or equivalent.
-In both arms, after the last cycle of chemotherapy, patients with positive estrogen and/or progesterone receptors received tamoxifen 20 mg daily for up to 5 years.
+In both arms, after the last cycle of chemotherapy, patients with positive eostrogen and/or progesterone receptors received tamoxifen 20 mg daily for up to 5 years.
 Adjuvant radiation therapy was prescribed according to guidelines in place at participating institutions and was given to 69% of patients who received TAC and 72% of patients who received FAC.
 Two interim analyses and one final analysis were performed.
-The first interim analysis was planned 3 years after the date when half of study enrollment was done.
+The first interim analysis was planned 3 years after the date when half of study enrolment was done.
 The second interim analysis was done after 400 DFS events had been recorded overall, which led to a median follow-up of 55 months.
 The final analysis was performed when all patients had reached their 10-year follow-up visit (unless they had a DFS event or were lost to follow-up before).
 Disease-free survival (DFS) was the primary efficacy endpoint and Overall survival (OS) was the secondary efficacy endpoint.
@@ -45,7 +45,7 @@ Overall survival at 10 years was also significantly increased with TAC compared 
 As the benefit observed in patients with 4+ nodes was not statistically significant on DFS and OS, the positive benefit/risk ratio for TAC in patients with 4+ nodes was not fully demonstrated at the final analysis.
 
 Overall, the study results demonstrate a positive benefit risk ratio for TAC compared to FAC.
-TAC-treated patient subsets according to prospectively defined major prognostic factors were analyzed:
+TAC-treated patient subsets according to prospectively defined major prognostic factors were analysed:
 
 |  |  | Disease free survival |  |  | Overall survival |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -56,11 +56,11 @@ TAC-treated patient subsets according to prospectively defined major prognostic 
 
 Patients with operable node-negative breast cancer eligible to receive chemotherapy (GEICAM 9805)
 
-Data from a multicenter open label randomized trial support the use of TAXOTERE for the adjuvant treatment of patients with operable node-negative breast cancer eligible to receive chemotherapy.
-1060 patients were randomized to receive either TAXOTERE 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (539 patients in TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclosphosphamide 500 mg/m2 (521 patients in FAC arm), as adjuvant treatment of operable node-negative breast cancer patients with high risk of relapse according to 1998 St. Gallen criteria (tumour size >2 cm and/or negative ER and PR and/or high histological/nuclear grade (grade 2 to 3) and /or age <35 years).
+Data from a multi-centre open label randomised trial support the use of TAXOTERE for the adjuvant treatment of patients with operable node-negative breast cancer eligible to receive chemotherapy.
+1060 patients were randomised to receive either TAXOTERE 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (539 patients in TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclophosphamide 500 mg/m2 (521 patients in FAC arm), as adjuvant treatment of operable node-negative breast cancer patients with high risk of relapse according to 1998 St. Gallen criteria (tumour size >2 cm and/or negative ER and PR and/or high histological/nuclear grade (grade 2 to 3) and /or age <35 years).
 Both regimens were administered once every 3 weeks for 6 cycles.
 TAXOTERE was administered as a 1-hour infusion, all other medicinal products were given intraveinously on day 1 every three weeks.
-Primary prophylactic G-CSF was made mandatory in TAC arm after 230 patients were randomized.
+Primary prophylactic G-CSF was made mandatory in TAC arm after 230 patients were randomised.
 The incidence of
 Grade 4 neutropenia, febrile neutropenia and neutropenic infection was decreased in patients who received primary G-CSF prophylaxis (see section 4.8).
 In both arms, after the last cycle of chemotherapy, patients with ER+ and/or PgR+ tumours received tamoxifen 20 mg once a day for up to 5 years.
@@ -79,7 +79,7 @@ DFS data were not statistically significant but were still associated with a pos
 At the median follow-up time of 77 months, overall survival (OS) was longer in the TAC arm with TAC-treated patients having a 24% reduction in the risk of death compared to FAC (hazard ratio = 0.76, 95% CI (0.46-1.26, p = 0.29).
 However, the distribution of OS was not significantly different between the 2 groups.
 At the median follow up time of 10 years and 5 months, TAC-treated patients had a 9% reduction in the risk of death compared to FAC-treated patients (hazard ratio = 0.91, 95% CI (0.63-1.32)).
-The survival rate was 93.7% in the TAC arm and 91.4 % in the FAC arm, at the 8-year follow-up timepoint, and 91.3 % in the TAC arm and 89 % in the FAC arm, at the 10-year follow-up timepoint.
+The survival rate was 93.7% in the TAC arm and 91.4 % in the FAC arm, at the 8-year follow-up time point, and 91.3 % in the TAC arm and 89 % in the FAC arm, at the 10-year follow-up time point.
 
 The positive benefit risk ratio for TAC compared to FAC remained unchanged.
 
@@ -95,7 +95,8 @@ Subset Analyses-Adjuvant Therapy in Patients with Node-negative Breast Cancer St
 | Age category 2 <35 years ≥35 years | 42 497 | 0.31 0.73 | 0.11-0.89 0.52-1.01 |
 | Hormonal receptor status Negative Positive | 195 344 | 0.7 0.62 | 0.45-1.1 0.4-0.97 |
 | Tumour size ≤2 cm >2 cm | 285 254 | 0.69 0.68 | 0.43-1.1 0.45-1.04 |
-| Histological grade Grade1 (includes grade not assessed) Grade 2 Grade 3 | 64 216 259 | 0.79 0.77 0.59 | 0.24-2.6 0.46-1.3 0.39-0.9 |
+| Histological grade Grade1 (includes grade not assessed) Grade 2 Grade 3 | 64 | 0.79 | 0.24-2.6 |
+|  | 216 259 | 0.77 0.59 | 0.46-1.3 0.39-0.9 |
 | Menopausal status Pre-Menopausal Post-Menopausal | 285 254 | 0.64 0.72 | 0.40-1 0.47-1.12 |
 
 *a hazard ratio (TAC/FAC) of less than 1 indicates that TAC is associated with a longer disease free survival compared to FAC.
@@ -110,9 +111,9 @@ Exploratory subgroup analyses for disease-free survival for patients who meet th
 | Yes | 48/325 (14.8%) | 69/294 (23.5%) | 0.606 (0.42 - 0.877) | 0.0072 |
 
 TAC = docetaxel, doxorubicin and cyclophosphamide
-FAC = 5-fluorouracil, doxorubicin and cyclophospamide
-CI = confidence interval; ER = estrogen receptor
-PR = progesterone receptor a ER/PR-negative or Grade 3 or tumor size >5 cm
+FAC = 5-fluorouracil, doxorubicin and cyclophosphamide
+CI = confidence interval; ER = eostrogen receptor
+PR = progesterone receptor a ER/PR-negative or Grade 3 or tumour size >5 cm
 
 The estimated hazard ratio was using Cox proportional hazard model with treatment group as the factor.
 
@@ -130,15 +131,15 @@ Docetaxel increased response rate (33% vs. 12%, p < 0.0001), prolonged time to p
 
 During these two phase III studies, the safety profile of docetaxel was consistent with the safety profile observed in phase II studies (see section 4.8).
 
-An open-label, multicenter, randomized phase III study was conducted to compare docetaxel monotherapy and paclitaxel in the treatment of advanced breast cancer in patients whose previous therapy should have included an anthracycline.
-A total of 449 patients were randomized to receive either docetaxel monotherapy 100 mg/m² as a 1 hour infusion or paclitaxel 175 mg/m² as a 3 hour infusion.
+An open-label, multi-centre, randomised phase III study was conducted to compare docetaxel monotherapy and paclitaxel in the treatment of advanced breast cancer in patients whose previous therapy should have included an anthracycline.
+A total of 449 patients were randomised to receive either docetaxel monotherapy 100 mg/m² as a 1 hour infusion or paclitaxel 175 mg/m² as a 3 hour infusion.
 Both regimens were administered every 3 weeks.
 Without affecting the primary endpoint, overall response rate (32% vs 25%, p = 0.10), docetaxel prolonged median time to progression (24.6 weeks vs 15.6 weeks; p < 0.01) and median survival (15.3 months vs 12.7 months; p = 0.03).
 More grade 3/4 adverse events were observed for docetaxel monotherapy (55.4%) compared to paclitaxel (23.0%).
 
 TAXOTERE in combination with doxorubicin
 
-One large randomized phase III study, involving 429 previously untreated patients with metastatic disease, has been performed with doxorubicin (50 mg/m²) in combination with docetaxel (75 mg/m²) (AT arm) versus doxorubicin (60 mg/m²) in combination with cyclophosphamide (600 mg/m²) (AC arm).
+One large randomised phase III study, involving 429 previously untreated patients with metastatic disease, has been performed with doxorubicin (50 mg/m²) in combination with docetaxel (75 mg/m²) (AT arm) versus doxorubicin (60 mg/m²) in combination with cyclophosphamide (600 mg/m²) (AC arm).
 Both regimens were administered on day 1 every 3 weeks.
 
 - Time to progression (TTP) was significantly longer in the AT arm versus AC arm, p = 0.0138.
@@ -151,14 +152,14 @@ The median TTP was 37.3 weeks (95% CI: 33.4 - 42.1) in AT arm and 31.9 weeks (95
 The ORR was 59.3% (95% CI: 52.8 - 65.9) in AT arm versus 46.5% (95% CI: 39.8 - 53.2) in AC arm.
 
 In this study, AT arm showed a higher incidence of severe neutropenia (90% versus 68.6%), febrile neutropenia (33.3% versus 10%), infection (8% versus 2.4%), diarrhoea (7.5% versus 1.4%), asthenia (8.5% versus 2.4%), and pain (2.8% versus 0%) than AC arm.
-On the other hand, AC arm showed a higher incidence of severe anemia (15.8% versus 8.5%) than AT arm, and, in addition, a higher incidence of severe cardiac toxicity: congestive heart failure (3.8% versus 2.8%), absolute LVEF decrease ≥ 20% (13.1% versus 6.1%), absolute LVEF decrease ≥ 30% (6.2% versus 1.1%).
+On the other hand, AC arm showed a higher incidence of severe anaemia (15.8% versus 8.5%) than AT arm, and, in addition, a higher incidence of severe cardiac toxicity: congestive heart failure (3.8% versus 2.8%), absolute LVEF decrease ≥ 20% (13.1% versus 6.1%), absolute LVEF decrease ≥ 30% (6.2% versus 1.1%).
 Toxic deaths occurred in 1 patient in the AT arm (congestive heart failure) and in 4 patients in the AC arm (1 due to septic shock and 3 due to congestive heart failure).
 In both arms, quality of life measured by the EORTC questionnaire was comparable and stable during treatment and follow-up.
 
 TAXOTERE in combination with trastuzumab
 
 Docetaxel in combination with trastuzumab was studied for the treatment of patients with metastatic breast cancer whose tumours over express HER2, and who previously had not received chemotherapy for metastatic disease.
-One hundred eighty six patients were randomized to receive docetaxel
+One hundred eighty six patients were randomised to receive docetaxel
 (100 mg/m2) with or without trastuzumab; 60% of patients received prior anthracycline-based adjuvant chemotherapy.
 Docetaxel plus trastuzumab was efficacious in patients whether or not they had received prior adjuvant anthracyclines.
 The main test method used to determine HER2 positivity in this pivotal study was immunohistochemistry (IHC).
@@ -179,11 +180,10 @@ TTP = time to progression; “ne” indicates that it could not be estimated or 
 
 TAXOTERE in combination with capecitabine
 
-Data from one multicenter, randomised, controlled phase III clinical study support the use of docetaxel in combination with capecitabine for treatment of patients with locally advanced or metastatic breast cancer after failure of cytotoxic chemotherapy, including an anthracycline.
+Data from one multi-centre, randomised, controlled phase III clinical study support the use of docetaxel in combination with capecitabine for treatment of patients with locally advanced or metastatic breast cancer after failure of cytotoxic chemotherapy, including an anthracycline.
 In this study, 255 patients were randomised to treatment with docetaxel (75 mg/m2 as a 1 hour intravenous infusion every 3 weeks) and capecitabine (1250 mg/m2 twice daily for 2 weeks followed by 1-week rest period).
 256 patients were randomised to treatment with docetaxel alone (100 mg/m2 as a 1 hour intravenous infusion every 3 weeks).
-Survival was superior in the docetaxel + capecitabine combination arm
-(p = 0.0126).
+Survival was superior in the docetaxel + capecitabine combination arm (p = 0.0126).
 Median survival was 442 days (docetaxel + capecitabine) vs. 352 days (docetaxel alone).
 The overall objective response rates in the all-randomised population (investigator assessment) were 41.6% (docetaxel + capecitabine) vs. 29.7% (docetaxel alone); p = 0.0058.
 Time to progressive disease was superior in the docetaxel + capecitabine combination arm (p < 0.0001).
@@ -219,14 +219,17 @@ For docetaxel/carboplatin combination, neither equivalent nor non-inferior effic
 
 Prostate cancer
 
-The safety and efficacy of docetaxel in combination with prednisone or prednisolone in patients with hormone refractory metastatic prostate cancer were evaluated in a randomized multicenter phase III study.
-A total of 1006 patients with KPS ≥ 60 were randomized to the following treatment groups:
+Metastatic castration-resistant prostate cancer
+
+The safety and efficacy of docetaxel in combination with prednisone or prednisolone in patients with metastatic castration-resistant prostate cancer were evaluated in a randomised multi-centre phase III study (TAX 327).
+A total of 1006 patients with KPS ≥ 60 were randomised to the following treatment groups:
 
 - Docetaxel 75 mg/m2 every 3 weeks for 10 cycles.
 - Docetaxel 30 mg/m2 administered weekly for the first 5 weeks in a 6 week cycle for 5 cycles.
 - Mitoxantrone 12 mg/m2 every 3 weeks for 10 cycles.
 
 All 3 regimens were administered in combination with prednisone or prednisolone 5 mg twice daily, continuously.
+
 Patients who received docetaxel every three weeks demonstrated significantly longer overall survival compared to those treated with mitoxantrone.
 The increase in survival seen in the docetaxel weekly arm was not statistically significant compared to the mitoxantrone control arm.
 Efficacy endpoints for the docetaxel arms versus the control arm are summarized in the following table:
@@ -238,7 +241,7 @@ Efficacy endpoints for the docetaxel arms versus the control arm are summarized 
 | Number of patients Pain response rate (%) 95% CI p-value* | 153 34.6 (27.1-42.7) 0.0107 | 154 31.2 (24.0-39.1) 0.0798 | 157 21.7 (15.5-28.9) -- |
 | Number of patients Tumour response rate (%) 95% CI p-value* | 141 12.1 (7.2-18.6) 0.1112 | 134 8.2 (4.2-14.2) 0.5853 | 137 6.6 (3.0-12.1) -- |
 
-†Stratified log rank test
+†Stratified log-rank test
 *Threshold for statistical significance = 0.0175
 **PSA: Prostate-Specific Antigen
 
@@ -246,17 +249,72 @@ Given the fact that docetaxel every week presented a slightly better safety prof
 
 No statistical differences were observed between treatment groups for Global Quality of Life.
 
+Metastatic hormone-sensitive prostate cancer
+STAMPEDE study
+The safety and efficacy of docetaxel administered concomitantly with standard of care (ADT) in patients with high-risk locally advanced or metastatic hormone-sensitive prostate cancer were evaluated in a randomised multi-centre, multi-arm multi-stage (MAMS) study with a seamless phase II/III design (STAMPEDE – MRC PR08).
+A total of 1776 male patients were allocated to the treatment arms of interest:
+
+- Standard of care + docetaxel 75 mg/m², administered every 3 weeks for 6 cycles
+- Standard of care alone
+
+Docetaxel regimen was administered in combination with prednisone or prednisolone 5 mg twice daily continuously.
+Among the 1776 randomised patients 1086 (61%) had metastatic disease, 362 were randomised to docetaxel in combination with standard of care, 724 received standard of care alone.
+
+In these metastatic prostate cancer patients, the median overall survival was significantly longer in docetaxel treatment groups than in the standard of care alone group, with a median overall survival 19 months longer with the addition of docetaxel to standard of care (HR = 0.76, 95% CI = 0.62-0.92, p=0.005).
+Efficacy results in metastatic prostate cancer patients for docetaxel arm versus control arm are summarized in the following table:
+
+Efficacy of docetaxel in combination with prednisone or prednisolone and standard of care in the treatment of patients with metastatic hormone-sensitive prostate cancer (STAMPEDE)
+
+| Endpoint | Docetaxel + standard of care | Standard of care alone |
+| --- | --- | --- |
+| Number of metastatic prostate cancer patients Median overall survival (months) 95% CI Adjusted hazard ratio 95% CI p-valuea | 362 724 62 43 51-73 40-48 0.76 (0.62-0.92) 0.005 |  |
+| Failure-Free survivalb Median (months) 95% CI | 20.4 12 16.8-25.2 9.6-12 |  |
+| Adjusted hazard ratio 95% CI p-valuea | 0.66 (0.57-0.76) < 0.001 |  |
+
+a p-value calculated from the likelihood ratio test and adjusted for all stratification factors (except center and planned hormone therapy) and stratified by trial period b Failure-free survival: time from randomization to first evidence of at least one of: biochemical failure (defined as a rise in PSA of 50% above the within-24-week nadir and above 4 ng/mL and confirmed by retest or treatment); progression either locally, in lymph nodes, or in distant metastases; skeletal-related event; or death from prostate cancer.
+
+CHAARTED study
+
+The safety and efficacy of docetaxel administered at the beginning of androgen-deprivation therapy (ADT) in patients with metastatic hormone-sensitive prostate cancer were evaluated in a randomised Phase III multi-centre study (CHAARTED).
+A total of 790 male patients were allocated to the 2 treatment groups.
+
+- ADT + docetaxel 75 mg/m² given at the beginning of ADT, administered every 3 weeks for 6 cycles
+- ADT alone
+
+The median overall survival was significantly longer in docetaxel treatment group than in the ADT alone group, with a median overall survival 13.6 months longer with the addition of docetaxel to ADT (hazard ratio (HR) = 0.61, 95% confidence interval (CI) = 0.47-0.80, p=0.0003).
+
+Efficacy results or the docetaxel arm versus the control arm are summarized in the following table: Efficacy of docetaxel and ADT in the treatment of patients with metastatic hormone-sensitive prostate cancer (CHAARTED)
+
+| Endpoint | Docetaxel +ADT | ADT alone |
+| --- | --- | --- |
+| Number of patients Median overall survival (months) All patients 95% CI Adjusted hazard ratio 95% CI p-valuea | 397 | 393 |
+|  | 57.6 49.1-72.8 0.61 (0.47-0.80) 0.0003 | 44.0 34.4-49.1 -- -- -- |
+| Progression Free Survival Median (months) 95% CI Adjusted hazard ratio 95% CI p-value* | 19.8 16.7-22.8 0.60 0.51-0.72 P<0.0001 | 11.6 10.8-14.3 -- -- -- |
+| PSA response** at 6 months – N(%) p-valuea* | 127 (32.0) <0.0001 | 77 (19.6) -- |
+| PSA response** at 12 months – N(%) p-valuea* | 110 (27.7) <0.0001 | 66 (16.8) -- |
+| Time to castration-resistant prostate cancerb Median (months) 95% CI Adjusted hazard ratio 95% CI p-valuea* | 20.2 (17.2-23.6) 0.61 (0.51-0.72) <0.0001 | 11.7 (10.8-14.7) -- -- -- |
+| Time to clinical progressionc Median (months) 95% CI Adjusted hazard ratio 95% CI p-valuea* | 33.0 (27.3-41.2) 0.61 (0.50-0.75) <0.0001 | 19.8 (17.9-22.8) -- -- -- |
+
+a Time to event variables: Stratified log-rank test.
+Response rate variables: Fisher's Exact test
+* p-value for descriptive purpose.
+** PSA response: Prostate-Specific Antigen response: PSA level <0.2 ng/mL measured for two consecutive measurements at least 4 weeks apart.
+b Time to castration-resistant prostate cancer = time from randomization to PSA progression or clinical progression (i.e., increasing symptomatic bone metastases, progression per Response Evaluation Criteria in Solid Tumours (RECIST) criteria, or clinical deterioration due to cancer per the Investigator’s opinion), whichever occurred first.
+c The time to clinical progression = the time from randomization until clinical progression (i.e., increased symptoms of bone metastases; progression according to RECIST; or clinical deterioration due to cancer according to the investigator’s opinion).
+
 Gastric adenocarcinoma
 
-A multicenter, open-label, randomized study was conducted to evaluate the safety and efficacy of docetaxel for the treatment of patients with metastatic gastric adenocarcinoma, including adenocarcinoma of the gastroesophageal junction, who had not received prior chemotherapy for metastatic disease.
+A multi-centre, open-label, randomised study was conducted to evaluate the safety and efficacy of docetaxel for the treatment of patients with metastatic gastric adenocarcinoma, including adenocarcinoma of the gastroesophageal junction, who had not received prior chemotherapy for metastatic disease.
 A total of 445 patients with KPS > 70 were treated with either docetaxel (T)
 (75 mg/m2 on day 1) in combination with cisplatin (C) (75 mg/m2 on day 1) and 5-fluorouracil (F) (750 mg/m2 per day for 5 days) or cisplatin (100 mg/m2 on day 1) and 5-fluorouracil (1000 mg/m2 per day for 5 days).
 The length of a treatment cycle was 3 weeks for the TCF arm and 4 weeks for the CF arm.
 The median number of cycles administered per patient was 6 (with a range of 1-16) for the TCF arm compared to 4 (with a range of 1-12) for the CF arm.
 Time to progression (TTP) was the primary endpoint.
-The risk reduction of progression was 32.1% and was associated with a significantly longer TTP (p = 0.0004) in favor of the TCF arm.
-Overall survival was also significantly longer (p = 0.0201) in favor of the TCF arm with a risk reduction of mortality of 22.7%.
+The risk reduction of progression was 32.1% and was associated with a significantly longer TTP (p = 0.0004) in favour of the TCF arm.
+Overall survival was also significantly longer
+(p = 0.0201) in favour of the TCF arm with a risk reduction of mortality of 22.7%.
 Efficacy results are summarized in the following table:
+
 Efficacy of docetaxel in the treatment of patients with gastric adenocarcinoma
 
 | Endpoint | TCF n = 221 | CF n = 224 |
@@ -271,19 +329,19 @@ Efficacy of docetaxel in the treatment of patients with gastric adenocarcinoma
 
 *Unstratified logrank test
 
-Subgroup analyses across age, gender and race consistently favored the TCF arm compared to the CF arm.
+Subgroup analyses across age, gender and race consistently favoured the TCF arm compared to the CF arm.
 
 A survival update analysis conducted with a median follow-up time of 41.6 months no longer showed a statistically significant difference although always in favour of the TCF regimen and showed that the benefit of TCF over CF is clearly observed between 18 and 30 months of follow up.
 
-Overall, quality of life (QoL) and clinical benefit results consistently indicated improvement in favor of the TCF arm.
+Overall, quality of life (QoL) and clinical benefit results consistently indicated improvement in favour of the TCF arm.
 Patients treated with TCF had a longer time to 5% definitive deterioration of global health status on the QLQ-C30 questionnaire (p = 0.0121) and a longer time to definitive worsening of Karnofsky performance status (p = 0.0088) compared to patients treated with CF.
 
 Head and neck cancer
 
 - Induction chemotherapy followed by radiotherapy (TAX323)
 
-The safety and efficacy of docetaxel in the induction treatment of patients with squamous cell carcinoma of the head and neck (SCCHN) was evaluated in a phase III, multicenter, open-label, randomized study (TAX323).
-In this study, 358 patients with inoperable locally advanced SCCHN, and WHO perfomance status 0 or 1, were randomized to one of two treatment arms.
+The safety and efficacy of docetaxel in the induction treatment of patients with squamous cell carcinoma of the head and neck (SCCHN) was evaluated in a phase III, multi-centre, open-label, randomised study (TAX323).
+In this study, 358 patients with inoperable locally advanced SCCHN, and WHO performance status 0 or 1, were randomised to one of two treatment arms.
 Patients on the docetaxel arm received docetaxel (T) 75 mg/m2 followed by cisplatin (P) 75 mg/m2 followed by 5-fluorouracil (F) 750 mg/m2 per day as a continuous infusion for 5 days.
 This regimen was administered every three weeks for 4 cycles in case at least a minor response (≥ 25% reduction in bidimensionally measured tumour size) was observed after 2 cycles.
 At the end of chemotherapy, with a minimal interval of 4 weeks and a maximal interval of 7 weeks, patients whose disease did not progress received radiotherapy (RT) according to institutional guidelines for 7 weeks (TPF/RT).
@@ -296,7 +354,7 @@ A total of 70 Gy was recommended for accelerated regimens and 74 Gy for hyperfra
 Surgical resection was allowed following chemotherapy, before or after radiotherapy.
 Patients on the TPF arm received antibiotic prophylaxis with ciprofloxacin 500 mg orally twice daily for 10 days starting on day 5 of each cycle, or equivalent.
 The primary endpoint in this study, progression-free survival (PFS), was significantly longer in the TPF arm compared to the PF arm, p = 0.0042 (median PFS: 11.4 vs. 8.3 months respectively) with an overall median follow up time of 33.7 months.
-Median overall survival was also significantly longer in favor of the TPF arm compared to the PF arm (median OS: 18.6 vs. 14.5 months respectively) with a 28% risk reduction of mortality, p = 0.0128.
+Median overall survival was also significantly longer in favour of the TPF arm compared to the PF arm (median OS: 18.6 vs. 14.5 months respectively) with a 28% risk reduction of mortality, p = 0.0128.
 Efficacy results are presented in the table below:
 
 Efficacy of docetaxel in the induction treatment of patients with inoperable locally advanced SCCHN (Intent-to-Treat Analysis)
@@ -314,23 +372,22 @@ Efficacy of docetaxel in the induction treatment of patients with inoperable loc
 | Median duration of response to chemotherapy ± radiotherapy (months) (95% CI) Hazard ratio (95% CI) **p-value | n = 128 15.7 (13.4-24.6) | n = 106 11.7 (10.2-17.4) |
 |  | 0.72 (0.52-0.99) 0.0457 |  |
 
-A hazard ratio of less than 1 favors docetaxel + cisplatin + 5-FU
+A hazard ratio of less than 1 favours docetaxel + cisplatin + 5-FU
 *Cox model (adjustment for Primary tumour site, T and N clinical stages and PSWHO)
 **Logrank test
 *** Chi-square test
 
 Quality of life parameters
 Patients treated with TPF experienced significantly less deterioration of their Global health score compared to those treated with PF (p = 0.01, using the EORTC QLQ-C30 scale).
-
 Clinical benefit parameters
-The performance status scale, for head and neck (PSS-HN) subscales designed to measure understandability of speech, ability to eat in public, and normalcy of diet, was significantly in favor of TPF as compared to PF.
+The performance status scale, for head and neck (PSS-HN) subscales designed to measure understandability of speech, ability to eat in public, and normalcy of diet, was significantly in favour of TPF as compared to PF.
 Median time to first deterioration of WHO performance status was significantly longer in the TPF arm compared to PF.
 Pain intensity score improved during treatment in both groups indicating adequate pain management.
 
 - Induction chemotherapy followed by chemoradiotherapy (TAX324)
 
-The safety and efficacy of docetaxel in the induction treatment of patients with locally advanced squamous cell carcinoma of the head and neck (SCCHN) was evaluated in a randomized, multicenter open-label, phase III study (TAX324).
-In this study, 501 patients, with locally advanced SCCHN, and a WHO performance status of 0 or 1, were randomized to one of two arms.
+The safety and efficacy of docetaxel in the induction treatment of patients with locally advanced squamous cell carcinoma of the head and neck (SCCHN) was evaluated in a randomised, multi-centre open-label, phase III study (TAX324).
+In this study, 501 patients, with locally advanced SCCHN, and a WHO performance status of 0 or 1, were randomised to one of two arms.
 The study population comprised patients with technically unresectable disease, patients with low probability of surgical cure and patients aiming at organ preservation.
 The efficacy and safety evaluation solely addressed survival endpoints and the success of organ preservation was not formally addressed.
 Patients on the docetaxel arm received docetaxel (T) 75 mg/m² by intravenous infusion on day 1 followed by cisplatin (P)
@@ -343,7 +400,7 @@ All patients who did not have progressive disease were to receive CRT as per pro
 Patients in both treatment arms were to receive 7 weeks of CRT following induction chemotherapy with a minimum interval of 3 weeks and no later than 8 weeks after start of the last cycle (day 22 to day 56 of last cycle).
 During radiotherapy, carboplatin (AUC 1.5) was given weekly as a one-hour intravenous infusion for a maximum of 7 doses.
 Radiation was delivered with megavoltage equipment using once daily fractionation (2 Gy per day, 5 days per week for 7 weeks, for a total dose of 70-72 Gy).
-Surgery on the primary site of disease and/or neck could be considered at anytime following completion of CRT.
+Surgery on the primary site of disease and/or neck could be considered at any time following completion of CRT.
 All patients on the docetaxel-containing arm of the study received prophylactic antibiotics.
 The primary efficacy endpoint in this study, overall survival (OS) was significantly longer (log-rank test, p = 0.0058) with the docetaxel-containing regimen compared to PF (median OS: 70.6 versus 30.1 months respectively), with a 30% risk reduction in mortality compared to PF (hazard ratio (HR) = 0.70, 95% confidence interval (CI) = 0.54-0.90) with an overall median follow up time of 41.9 months.
 The secondary endpoint, PFS, demonstrated a 29% risk reduction of progression or death and a 22 month improvement in median PFS (35.5 months for TPF and 13.1 for PF).
@@ -362,7 +419,7 @@ Efficacy of docetaxel in the induction treatment of patients with locally advanc
 | Best overall response (CR + PR) to study treatment [chemotherapy +/- chemoradiotherapy] (%) (95%CI) ***p-value | 76.5 (70.8-81.5) | 71.5 (65.5-77.1) |  |
 |  | 0.209 |  |  |
 
-A hazard ratio of less than 1 favors docetaxel + cisplatin + fluorouracil
+A hazard ratio of less than 1 favours docetaxel + cisplatin + fluorouracil
 *un-adjusted log-rank test
 **un-adjusted log-rank test, not adjusted for multiple comparisons
 ***Chi square test, not adjusted for multiple comparisons
@@ -370,13 +427,11 @@ NA-not applicable
 
 Paediatric population
 
-The European Medicines Agency has waived the obligation to submit the results of studies with TAXOTERE in all subsets of the paediatric population in breast cancer, non-small cell lung cancer, prostated cancer, gastric carcinoma and head and neck cancer, not including type II and III less differentiated nasopharyngeal carcinoma (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with TAXOTERE in all subsets of the paediatric population in breast cancer, non-small cell lung cancer, prostate cancer, gastric carcinoma and head and neck cancer, not including type II and III less differentiated nasopharyngeal carcinoma (see section 4.2 for information on paediatric use).
 
 [TAXOTERE 80 mg/2 ml concentrate and solvent for solution for infusion]
 
 TAXOTERE was administered as a 1-hour infusion, all other medicinal products were given as intraveinously on day 1 every three weeks.
-
-TAC-treated patient subsets according to prospectively defined major prognostic factors were analyzed in the primary analysis (at the median follow-up time of 77 months) (see table below):
 
 | Patient subset | Number of patients in TAC group | Disease Free Survival |  |
 | --- | --- | --- | --- |
@@ -387,17 +442,58 @@ TAC-treated patient subsets according to prospectively defined major prognostic 
 | Age category 2 <35 years ≥35 years | 42 497 | 0.31 0.73 | 0.11-0.89 0.52-1.01 |
 | Hormonal receptor status Negative Positive | 195 344 | 0.7 0.62 | 0.45-1.1 0.4-0.97 |
 | Tumour size ≤2 cm >2 cm | 285 254 | 0.69 0.68 | 0.43-1.1 0.45-1.04 |
-| Histological grade Grade1 (includes grade not assessed) Grade 2 Grade 3 | 64 216 259 | 0.79 0.77 0.59 | 0.24-2.6 0.46-1.3 0.39-0.9 |
+| Histological grade Grade1 (includes grade not assessed) Grade 2 Grade 3 | 64 | 0.79 | 0.24-2.6 |
+|  | 216 259 | 0.77 0.59 | 0.46-1.3 0.39-0.9 |
 | Menopausal status Pre-Menopausal Post-Menopausal | 285 254 | 0.64 0.72 | 0.40-1 0.47-1.12 |
 
 CI = confidence interval
-ER = estrogen receptor
+ER = eostrogen receptor
+
+| Endpoint | Docetaxel + standard of care | Standard of care alone |
+| --- | --- | --- |
+| Number of metastatic prostate cancer patients Median overall survival (months) 95% CI Adjusted hazard ratio 95% CI p-valuea | 362 724 62 43 51-73 40-48 0.76 (0.62-0.92) 0.005 |  |
+| Failure-Free survivalb Median (months) 95% CI Adjusted hazard ratio 95% CI p-valuea | 20.4 12 16.8-25.2 9.6-12 0.66 (0.57-0.76) < 0.001 |  |
+
+a p-value calculated from the likelihood ratio test and adjusted for all stratification factors
+(except center and planned hormone therapy) and stratified by trial period b Failure-free survival: time from randomization to first evidence of at least one of: biochemical failure (defined as a rise in PSA of 50% above the within-24-week nadir and above 4 ng/mL and confirmed by retest or treatment); progression either locally, in lymph nodes, or in distant metastases; skeletal-related event; or death from prostate cancer.
+
+The safety and efficacy of docetaxel administered at the beginning of androgen-deprivation therapy (ADT) in patients with metastatic hormone-sensitive prostate cancer were evaluated in a randomised Phase III study (CHAARTED).
+
+Efficacy results or the docetaxel arm versus the control arm are summarized in the following table:
+
+Efficacy of docetaxel and ADT in the treatment of patients with metastatic hormone-sensitive prostate cancer (CHAARTED)
+
+| Endpoint | Docetaxel +ADT | ADT alone |
+| --- | --- | --- |
+| Number of patients Median overall survival (months) All patients 95% CIAdjusted hazard ratio 95% CI | 397 57.6 49.1-72.8 0.61 (0.47-0.80) | 393 44.0 34.4-49.1 -- -- |
+| p-valuea | 0.0003 | -- |
+| Progression Free Survival Median (months) 95% CI Adjusted hazard ratio 95% CI p-value* | 19.8 16.7-22.8 0.60 0.51-0.72 P<0.0001 | 11.6 10.8-14.3 -- -- -- |
+| PSA response** at 6 months – N(%) p-valuea* | 127 (32.0) <0.0001 | 77 (19.6) -- |
+| PSA response** at 12 months – N(%) p-valuea* | 110 (27.7) <0.0001 | 66 (16.8) -- |
+| Time to castration-resistant prostate cancerb Median (months) 95% CI Adjusted hazard ratio 95% CI p-valuea* | 20.2 (17.2-23.6) 0.61 (0.51-0.72) <0.0001 | 11.7 (10.8-14.7) -- -- -- |
+| Time to clinical progressionc Median (months) 95% CI Adjusted hazard ratio 95% CI p-valuea* | 33.0 (27.3-41.2) 0.61 (0.50-0.75) <0.0001 | 19.8 (17.9-22.8) -- -- -- |
+
+The safety and efficacy of docetaxel in the induction treatment of patients with squamous cell carcinoma of the head and neck (SCCHN) was evaluated in a phase III, multicenter, open-label, randomised study (TAX323).
 
 [TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
 
 Pharmacotherapeutic group: Taxanes, ATC Code: L01CD02
 
-1060 patients were randomized to receive either TAXOTERE 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (539 patients in TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclosphosphamide 500 mg/m2 (521 patients in FAC arm), as adjuvant treatment of operable node-negative breast cancer patients with high risk of relapse according to 1998 St. Gallen criteria (tumour size >2 cm and/or negative ER and PR and/or high histological/nuclear grade (grade 2 to 3) and /or age <35 years).).
+1060 patients were randomised to receive either TAXOTERE 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (539 patients in TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclophosphamide 500 mg/m2 (521 patients in FAC arm), as adjuvant treatment of operable node-negative breast cancer patients with high risk of relapse according to 1998 St. Gallen criteria (tumour size >2 cm and/or negative ER and PR and/or high histological/nuclear grade (grade 2 to 3) and /or age <35 years).).
+
+| Patient subset | Number of patients in TAC group | Disease Free Survival |  |
+| --- | --- | --- | --- |
+|  |  | Hazard ratio* | 95% CI |
+| Overall | 539 | 0.68 | 0.49-0.93 |
+| Age category 1 <50 years ≥50 years | 260 279 | 0.67 0.67 | 0.43-1.05 0.43-1.05 |
+| Age category 2 <35 years ≥35 years | 42 497 | 0.31 0.73 | 0.11-0.89 0.52-1.01 |
+| Hormonal receptor status Negative Positive | 195 344 | 0.7 0.62 | 0.45-1.1 0.4-0.97 |
+| Tumour size ≤2 cm >2 cm | 285 254 | 0.69 0.68 | 0.43-1.1 0.45-1.04 |
+| Histological grade Grade1 (includes grade not assessed) Grade 2 Grade 3 | 64 | 0.79 | 0.24-2.6 |
+|  | 216 259 | 0.77 0.59 | 0.46-1.3 0.39-0.9 |
+| Menopausal status Pre-Menopausal | 285 | 0.64 | 0.40-1 |
+
+Post-Menopausal 254 0.72 0.47-1.12
 
 Hazard ratio
 
@@ -411,14 +507,21 @@ No 18/214 26/227 0.796 (0.434 - 1.459) 0.4593
 Yes 48/325 69/294 0.606 (0.42 - 0.877) 0.0072
 (14.8%) (23.5%)
 
-One large randomized phase III study, involving 429 previously untreated patients with metastatic disease, has been performed with doxorubicin (50 mg/m²) in combination with docetaxel (75 mg/m²) (AT arm) versus doxorubicin (60 mg/m²) in combination with cyclophosphamide (600 mg/m²)
+One large randomised phase III study, involving 429 previously untreated patients with metastatic disease, has been performed with doxorubicin (50 mg/m²) in combination with docetaxel (75 mg/m²) (AT arm) versus doxorubicin (60 mg/m²) in combination with cyclophosphamide (600 mg/m²)
 (AC arm).
-
-On the other hand, AC arm showed a higher incidence of severe anaemia (15.8% versus 8.5%) than AT arm, and, in addition, a higher incidence of severe cardiac toxicity: congestive heart failure (3.8% versus 2.8%), absolute LVEF decrease ≥ 20% (13.1% versus 6.1%), absolute LVEF decrease ≥ 30% (6.2% versus 1.1%).
 
 Docetaxel in combination with trastuzumab was studied for the treatment of patients with metastatic breast cancer whose tumours overexpress HER2, and who previously had not received chemotherapy for metastatic disease.
 
 There was less use of morphinic analgesic (p < 0.01), non-morphinic analgesics (p < 0.01), other disease-related medicinal products (p = 0.06) and radiotherapy (p < 0.01) in patients treated with docetaxel at 75 mg/m² compared to those with BSC.
+
+| Endpoint | Docetaxel +ADT | ADT alone |
+| --- | --- | --- |
+| Number of patients Median overall survival (months) All patients 95% CIAdjusted hazard ratio 95% CI p-valuea | 397 57.6 49.1-72.8 0.61 (0.47-0.80) 0.0003 | 393 44.0 34.4-49.1 -- -- -- |
+| Progression Free Survival Median (months) 95% CI Adjusted hazard ratio 95% CI p-value* | 19.8 16.7-22.8 0.60 0.51-0.72 P<0.0001 | 11.6 10.8-14.3 -- -- -- |
+| PSA response** at 6 months – N(%) p-valuea* | 127 (32.0) <0.0001 | 77 (19.6) -- |
+| PSA response** at 12 months – N(%) p-valuea* | 110 (27.7) <0.0001 | 66 (16.8) -- |
+| Time to castration-resistant prostate cancerb Median (months) 95% CI Adjusted hazard ratio 95% CI p-valuea* | 20.2 (17.2-23.6) 0.61 (0.51-0.72) <0.0001 | 11.7 (10.8-14.7) -- -- -- |
+| Time to clinical progressionc Median (months) 95% CI Adjusted hazard ratio 95% CI p-valuea* | 33.0 (27.3-41.2) 0.61 (0.50-0.75) <0.0001 | 19.8 (17.9-22.8) -- -- -- |
 
 | Endpoint | Docetaxel + Cis + 5-FU n = 255 | Cis + 5-FU n = 246 |
 | --- | --- | --- |
@@ -435,8 +538,10 @@ There was less use of morphinic analgesic (p < 0.01), non-morphinic analgesics (
 
 Overall survival at 10 years was also significantly increased with TAC compared to FAC (76%versus 69%, respectively) i.e. an absolute reduction of the risk of death by 7% (p = 0.002).
 
-TAC-treated patient subsets according to prospectively defined major prognostic factors were analyzed in the primary analysis (at the median follow-up time of 77 months) (see table below): Subset Analyses-Adjuvant Therapy in Patients with Node-negative Breast Cancer Study (Intent-to-Treat Analysis)
+A total of 1776 male patients were allocated to the treatment armss of interest:
 
 [TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
 
-(all sentences already above)
+multi
+
+(p = 0.0201) in favor of the TCF arm with a risk reduction of mortality of 22.7%.

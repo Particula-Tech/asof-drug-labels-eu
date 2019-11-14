@@ -1,10 +1,12 @@
 # 6.1 List of excipients
 
 Concentrate vial:
-polysorbate 80 citric acid.
+Polysorbate 80
+Citric acid.
 
 Solvent vial:
-ethanol 95% water for injections.
+Ethanol 95%
+Water for injections.
 
 [TAXOTERE 80 mg/2 ml concentrate and solvent for solution for infusion]
 
@@ -12,14 +14,8 @@ ethanol 95% water for injections.
 
 [TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
 
-Polysorbate 80
 Ethanol anhydrous
-Citric acid
 
 [TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
-
-(all sentences already above)
-
-[TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
 
 (all sentences already above)

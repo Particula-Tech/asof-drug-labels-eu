@@ -3,7 +3,7 @@
 Absorption
 
 The pharmacokinetics of docetaxel have been evaluated in cancer patients after administration of 20-115 mg/m2 in phase I studies.
-The kinetic profile of docetaxel is dose independent and consistent with a three-compartment pharmacokinetic model with half lives for the α, β and γ phases of 4 min, 36 min and 11.1 h, respectively.
+The kinetic profile of docetaxel is dose independent and consistent with a three-compartment pharmacokinetic model with half-lives for the α, β and γ phases of 4 min, 36 min and 11.1 h, respectively.
 The late phase is due, in part, to a relatively slow efflux of docetaxel from the peripheral compartment.
 
 Distribution

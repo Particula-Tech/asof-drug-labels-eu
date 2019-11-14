@@ -9,10 +9,11 @@ The adverse reactions considered to be possibly or probably related to the admin
 - 406 patients who received docetaxel in combination with cisplatin.
 - 92 patients treated with docetaxel in combination with trastuzumab.
 - 255 patients who received docetaxel in combination with capecitabine.
-- 332 patients who received docetaxel in combination with prednisone or prednisolone (clinically important treatment related adverse events are presented).
+- 332 patients (TAX327) who received docetaxel in combination with prednisone or prednisolone (clinically important treatment related adverse events are presented).
 - 1276 patients (744 and 532 in TAX 316 and GEICAM 9805 respectively) who received docetaxel in combination with doxorubicin and cyclophosphamide (clinically important treatment related adverse events are presented).
 - 300 gastric adenocarcinoma patients (221 patients in the phase III part of the study and 79 patients in the phase II part) who received docetaxel in combination with cisplatin and 5-fluorouracil (clinically important treatment related adverse events are presented).
 - 174 and 251 head and neck cancer patients who received docetaxel in combination with cisplatin and 5-fluorouracil (clinically important treatment related adverse events are presented).
+- 545 patients (STAMPEDE study) who received docetaxel in combination with prednisone or prednisolone and ADT.
 
 These reactions were described using the NCI Common Toxicity Criteria (grade 3 = G3;
 grade 3-4 = G3/4; grade 4 = G4), the COSTART and the MedDRA terms.
@@ -26,6 +27,8 @@ For combination with trastuzumab, adverse events (all grades) reported in ≥ 10
 There was an increased incidence of SAEs (40% vs. 31%) and Grade 4 AEs (34% vs. 23%) in the trastuzumab combination arm compared to docetaxel monotherapy.
 
 For combination with capecitabine, the most frequent treatment-related undesirable effects (≥ 5%) reported in a phase III study in breast cancer patients failing anthracycline treatment are presented (see capecitabine summary of product characteristics).
+
+For combination with ADT and with prednisone or prednisolone (STAMPEDE study), adverse events occurring over the 6 cycles of treatment with docetaxel and having at least 2% higher incidence in the docetaxel treatment arm by comparison to the control arm, are presented, using the CTCAE grading scale.
 
 The following adverse reactions are frequently observed with docetaxel:
 
@@ -55,13 +58,11 @@ Infusion site reactions were generally mild and consisted of hyper pigmentation,
 Fluid retention includes events such as peripheral oedema and less frequently pleural effusion, pericardial effusion, ascites and weight gain.
 The peripheral oedema usually starts at the lower extremities and may become generalised with a weight gain of 3 kg or more.
 Fluid retention is cumulative in incidence and severity (see section 4.4).
-
 Tabulated list of adverse reactions in breast cancer for TAXOTERE 100 mg/m² single agent
 
 | MedDRA system organ classes | Very common adverse reactions | Common adverse reactions | Uncommon adverse reactions |
 | --- | --- | --- | --- |
-| Infections and infestations | Infections (G3/4: 5.7%; including sepsis and pneumonia, fatal in | Infection associated with G4 neutropenia (G3/4: 4.6%) |  |
-|  | 1.7%) |  |  |
+| Infections and infestations | Infections (G3/4: 5.7%; including sepsis and pneumonia, fatal in 1.7%) | Infection associated with G4 neutropenia (G3/4: 4.6%) |  |
 | Blood and lymphatic system disorders | Neutropenia (G4: 76.4%); Anaemia (G3/4: 8.9%); Febrile neutropenia | Thrombocytopenia (G4: 0.2%) |  |
 | Immune system disorders | Hypersensitivity (G3/4: 5.3%) |  |  |
 | Metabolism and nutrition disorders | Anorexia |  |  |
@@ -73,7 +74,8 @@ Tabulated list of adverse reactions in breast cancer for TAXOTERE 100 mg/m² sin
 | Skin and subcutaneous tissue disorders | Alopecia; Skin reaction (G3/4: 5.9%); Nail disorders (severe: 2.6%) |  |  |
 | Musculoskeletal and connective tissue disorders | Myalgia (severe: 1.4%) | Arthralgia |  |
 | General disorders and administration site conditions | Fluid retention (severe: 6.5%); Asthenia (severe: 11.2%); Pain | Infusion site reaction; Non-cardiac chest pain (severe: 0.4%) |  |
-| Investigations |  | G3/4 Blood bilirubin increased (< 5%); G3/4 Blood alkaline phosphatase increased (< 4%); G3/4 AST increased (< 3%); G3/4 ALT increased (< 2%) |  |
+| Investigations |  | G3/4 Blood bilirubin increased (< 5%); G3/4 Blood alkaline phosphatase increased (< 4%); |  |
+|  |  | G3/4 AST increased (< 3%); G3/4 ALT increased (< 2%) |  |
 
 Description of selected adverse reactions in breast cancer for TAXOTERE 100 mg/m2 single agent
 
@@ -117,6 +119,8 @@ Musculoskeletal and connective Myalgia
 tissue disorders
 General disorders and Asthenia (severe: 12.4%);
 administration site conditions Fluid retention (severe: 0.8%);
+MedDRA system organ classes Very common adverse Common adverse reactions
+reactions
 Pain
 Investigations G3/4 Blood bilirubin increased
 (< 2%)
@@ -269,7 +273,7 @@ disorders Anaemia (G3/4: 10%)
 Metabolism and nutrition Anorexia (G3/4: 1%); Dehydration (G3/4: 2%)
 disorders Decreased appetite
 Nervous system disorders Dysgeusia (G3/4: < 1%); Dizziness;
-Paraesthesia (G3/4: < 1%) Headache (G3/4: < 1%);
+Pareaesthesia (G3/4: < 1%) Headache (G3/4: < 1%);
 Neuropathy peripheral
 Eye disorders Lacrimation increased
 Respiratory, thoracic and Pharyngolaryngeal pain (G3/4: Dyspnoea (G3/4: 1%);
@@ -297,7 +301,7 @@ Investigations Weight decreased;
 G3/4 Blood bilirubin increased
 (9%)
 
-Tabulated list of adverse reactions in prostate cancer for TAXOTERE 75 mg/m² in combination with prednisone or prednisolone
+Tabulated list of adverse reactions in metastatic castration-resistant prostate cancer for TAXOTERE 75 mg/m² in combination with prednisone or prednisolone
 
 MedDRA system organ classes Very common adverse Common adverse reactions
 reactions
@@ -330,6 +334,26 @@ bone disorders Myalgia (G3/4: 0.3%)
 General disorders and Fatigue (G3/4: 3.9%);
 administration site conditions Fluid retention (severe: 0.6%)
 
+Tabulated list of adverse reactions in high-risk locally advanced or metastatic hormone-sensitive prostate cancer for TAXOTERE 75 mg/m² in combination with prednisone or prednisolone and ADT (STAMPEDE study)
+
+| MedDRA system organ classes | Very common adverse reactions | Common adverse reactions |
+| --- | --- | --- |
+| Blood and lymphatic system disorders | Neutropenia (G3-4: 12 %) Anaemia Febrile neutropenia (G3-4: 15%) |  |
+| Immune system disorders |  | Hypersensitivity (G3-4: 1%) |
+| Endocrine disorders |  | Diabetes (G3-4: 1%) |
+| Metabolism and nutrition disorders |  | Anorexia |
+| Psychiatric disorders | Insomnia (G3: 1%) |  |
+| Nervous system disorders | Peripheral sensory neuropathy (≥G3: 2%)a Headache | Dizziness |
+| Eye disorders |  | Blurred vision |
+| Cardiac disorders |  | Hypotension (G3: 0%) |
+| Respiratory, thoracic and mediastinal disorders | Dyspnea (G3: 1%) Coughing (G3: 0%) Upper respiratory tract infection (G3: 1%) | Pharyngitis (G3: 0%) |
+| Gastrointestinal disorders | Diarrhea (G3: 3%) Stomatitis (G3: 0%) Constipation (G3: 0%) Nausea (G3: 1%) Dyspepsia Abdominal pain (G3: 0%) Flatulence | Vomiting (G3: 1%) |
+| Skin and subcutaneous tissue disorders | Alopecia (G3: 3%)a Nail changes (G3: 1%) | Rash |
+| Musculoskeletal and connective tissue disorders | Myalgia |  |
+| General disorders and administration site conditions | Lethargy (G3-4: 2%) Flu-like symptoms (G3: 0%) Asthenia (G3: 0%) Fluid retention | Fever (G3: 1%) Oral candidiasis Hypocalcaemia (G3: 0%) Hypophosphataemia (G3-4: 1%) Hypokalaemia (G3: 0%) |
+
+a From the GETUG AFU15 study
+
 Tabulated list of adverse reactions for adjuvant therapy with TAXOTERE 75 mg/m² in combination with doxorubicin and cyclophosphamide in patients with node-positive (TAX 316) and node-negative (GEICAM 9805) breast cancer - pooled data
 
 | MedDRA System Organ classes | Very common adverse reactions | Common adverse reactions | Uncommon adverse reactions |
@@ -348,7 +372,8 @@ Tabulated list of adverse reactions for adjuvant therapy with TAXOTERE 75 mg/m²
 | Musculoskeletal and connective tissue disorders | Myalgia (G3/4: 0.7%); Arthralgia (G3/4: 0.2%) |  |  |
 | Reproductive system and breast disorders | Amenorrhoea (G3/4: NA) |  |  |
 | General disorders and administration site conditions | Asthenia (G3/4: 10.0%); Pyrexia (G3/4: NA); Oedema peripheral (G3/4: 0.2%) |  |  |
-| Investigations |  | Weight increased (G3/4: 0%); Weight decreased (G3/4: 0.2%) |  |
+| Investigations |  | Weight increased (G3/4: 0%); Weight decreased |  |
+|  |  | (G3/4: 0.2%) |  |
 
 Description of selected adverse reactions for adjuvant therapy with TAXOTERE 75 mg/m² in combination with doxorubicin and cyclophosphamide in patients with node-positive (TAX 316) and node-negative (GEICAM 9805) breast cancer
 
@@ -406,13 +431,9 @@ Table below shows that the incidence of Grade 4 neutropenia, febrile neutropenia
 
 Neutropenic complications in patients receiving TAC with or without primary G-CSF prophylaxis (GEICAM 9805)
 
-Without primary With primary
-G-CSF prophylaxis G-CSF prophylaxis
-(n = 111) (n = 421)
-n (%) n (%)
-
-| Neutropenia (Grade 4) | 104 (93.7) | 135 (32.1) |
+|  | Without primary G-CSF prophylaxis (n = 111) n (%) | With primary G-CSF prophylaxis (n = 421) n (%) |
 | --- | --- | --- |
+| Neutropenia (Grade 4) | 104 (93.7) | 135 (32.1) |
 | Febrile neutropenia | 28 (25.2) | 23 (5.5) |
 | Neutropenic infection | 14 (12.6) | 21 (5.0) |
 | Neutropenic infection (Grade 3-4) | 2 (1.8) | 5 (1.2) |
@@ -457,14 +478,17 @@ Blood and lymphatic system disorders
 Febrile neutropenia and neutropenic infection occurred in 17.2% and 13.5% of patients respectively, regardless of G-CSF use.
 G-CSF was used for secondary prophylaxis in 19.3% of patients (10.7% of the cycles).
 Febrile neutropenia and neutropenic infection occurred respectively in 12.1% and 3.4% of patients when patients received prophylactic G-CSF, in 15.6% and 12.9% of patients without prophylactic G-CSF (see section 4.2).
+
 Tabulated list of adverse reactions in head and neck cancer for TAXOTERE 75 mg/m² in combination with cisplatin and 5-fluorouracil
 
 - Induction chemotherapy followed by radiotherapy (TAX 323)
 
-MedDRA ystem organ Very common adverse Common adverse Uncommon adverse
-classes reactions reactions reactions
+MedDRA system Very common adverse Common adverse Uncommon adverse
+organ classes reactions reactions reactions
 Infections and Infection (G3/4: 6.3%);
 infestations Neutropenic infection
+MedDRA system Very common adverse Common adverse Uncommon adverse
+organ classes reactions reactions reactions
 Neoplasms benign, Cancer pain (G3/4:
 malignant and 0.6%)
 unspecified (incl cysts
@@ -514,6 +538,8 @@ Investigations Weight increased
 
 - Induction chemotherapy followed by chemoradiotherapy (TAX 324)
 
+MedDRA system Very common adverse Common adverse Uncommon adverse
+organ classes reactions reactions reactions
 MedDRA system Very common adverse Common adverse Uncommon adverse
 organ classes reactions reactions reactions
 Infections and Infection (G3/4: 3.6%) Neutropenic infection
@@ -566,18 +592,16 @@ administration site Pyrexia (G3/4: 3.6%);
 conditions Fluid retention (G3/4:
 1.2%);
 Oedema (G3/4: 1.2%)
-MedDRA system Very common adverse Common adverse Uncommon adverse
-organ classes reactions reactions reactions
 Investigations Weight decreased Weight increased
 
 Post-marketing experience
-
 Neoplasms benign, malignant and unspecified (incl cysts and polyps)
-Cases of acute myeloid leukaemia and myelodysplastic syndrome have been reported in association with docetaxel when used in combination with other chemotherapy agents and/or radiotherapy.
+Second primary malignancies (frequency not known), including non-Hodgkin lymphoma have been reported in association with docetaxel when used in combination with other anticancer treatments known to be associated with second primary malignancies.
+Acute myeloid leukaemia and myelodysplastic syndrome have been reported (frequency uncommon) in pivotal clinical studies in breast cancer with TAC regimen.
 
 Blood and lymphatic system disorders
 Bone marrow suppression and other haematologic adverse reactions have been reported.
-Disseminated intravascular coagulation (DIC), often in association with sepsis or multiorgan failure, has been reported.
+Disseminated intravascular coagulation (DIC), often in association with sepsis or multi-organ failure, has been reported.
 
 Immune system disorders
 Some cases of anaphylactic shock, sometimes fatal, have been reported.
@@ -611,13 +635,12 @@ Gastrointestinal disorders
 Rare cases of enterocolitis, including colitis, ischemic colitis, and neutropenic enterocolitis, have been reported with a potential fatal outcome (frequency not known).
 Rare occurrences of dehydration have been reported as a consequence of gastrointestinal events including enterocolitis and gastrointestinal perforation.
 Rare cases of ileus and intestinal obstruction have been reported.
+
 Hepatobiliary disorders
 Very rare cases of hepatitis, sometimes fatal primarily in patients with pre-existing liver disorders, have been reported.
-
 Skin and subcutaneous tissue disorders
-Very rare cases of cutaneous lupus erythematosus and bullous eruptions such as erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, have been reported with docetaxel.
-In some cases concomitant factors may have contributed to the development of these effects.
-Sclerodermal-like changes usually preceded by peripheral lymphoedema have been reported with docetaxel.
+Cases of cutaneous lupus erythematosus, bullous eruptions such as erythema multiforme and severe cutaneous adverse reactions such as Stevens-Johnson Syndrome (SJS), Toxic Epidermal Necrolysis (TEN) and Acute Generalized Exanthematous Pustulosis (AGEP) have been reported with docetaxel.
+Scleroderma-like changes usually preceded by peripheral lymphoedema have been reported with docetaxel.
 Cases of permanent alopecia (frequency not known) have been reported.
 
 Renal and urinary disorders
@@ -642,29 +665,35 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [TAXOTERE 80 mg/2 ml concentrate and solvent for solution for infusion]
 
+Tabulated list of adverse reactions in high-risk locally advanced or metastatic hormone-sensitive prostate cancer for TAXOTERE 75 mg/m² in combination with prednisone or prednisolone and ADT (STAMPEDE sutdy)
+
 Tabulated list of adverse reactions in breast cancer for adjuvant therapy with TAXOTERE 75 mg/m² in combination with doxorubicin and cyclophosphamide in patients with node-positive (TAX 316) and node-negative (GEICAM 9805) breast cancer - pooled data
+
+| MedDRA System Organ classes | Very common adverse reactions | Common adverse reactions | Uncommon adverse reactions |
+| --- | --- | --- | --- |
+| Infections and infestations | Infection (G3/4: 2.4%); Neutropenic infection (G3/4: 2.6%) |  |  |
+| Blood and lymphatic system disorders | Anaemia (G3/4: 3%); Neutropenia (G3/4: 59.2%); Thrombocytopenia (G3/4: 1.6%); Febrile neutropenia (G3/4: NA) |  |  |
+| Immune system disorders |  | Hypersensitivity (G3/4: 0.6%) |  |
+| Metabolism and nutrition disorders | Anorexia (G3/4: 1.5%) |  |  |
+| Nervous system disorders | Dysgeusia (G3/4: 0.6%); Peripheral sensory neuropathy (G3/4: <0.1%) | Peripheral motor neuropathy (G3/4: 0%) | Syncope (G3/4: 0%); Neurotoxicity (G3/4: 0%); Somnolence (G3/4: 0%) |
+| Eye disorders | Conjunctivitis (G3/4: <0.1%) | Lacrimation increased (G3/4: <0.1%) |  |
+| Cardiac disorders |  | Arrhythmia (G3/4: 0.2%) |  |
+| Vascular disorders | Hot flush (G3/4: 0.5%) | Hypotension (G3/4: 0%); Phlebitis (G3/4: 0%) | Lymphoedema (G3/4: 0%) |
+| Respiratory, thoracic and mediastinal disorders |  | Cough (G3/4: 0%) |  |
+| Gastrointestinal disorders | Nausea (G3/4: 5.0%); Stomatitis (G3/4: 6.0%); Vomiting (G3/4: 4.2%); Diarrhoea (G3/4: 3.4%); Constipation (G3/4: 0.5%) | Abdominal pain (G3/4: 0.4%) |  |
+| Skin and subcutaneous tissue disorders | Alopecia (persisting: <3%); Skin disorder (G3/4: 0.6%); Nail disorders (G3/4: 0.4%) |  |  |
+| Musculoskeletal and connective tissue disorders | Myalgia (G3/4: 0.7%); Arthralgia (G3/4: 0.2%) |  |  |
+| Reproductive system and breast disorders | Amenorrhoea (G3/4: NA) |  |  |
+| General disorders and administration site conditions | Asthenia (G3/4: 10.0%); Pyrexia (G3/4: NA); Oedema peripheral (G3/4: 0.2%) |  |  |
+| Investigations |  | Weight increased (G3/4: 0%); Weight decreased (G3/4: 0.2%) |  |
 
 Table below shows that the incidence of Grade 4 neutropenia, febrile neutropenia and neutropenic infection was decreased in patients who received primary G-CSF prophylaxis after it was made mandatory in the TAC arm. – GEICAM study.
 
-|  | Without primary G-CSF prophylaxis (n = 111) n (%) | With primary G-CSF prophylaxis (n = 421) n (%) |
-| --- | --- | --- |
-| Neutropenia (Grade 4) | 104 (93.7) | 135 (32.1) |
-| Febrile neutropenia | 28 (25.2) | 23 (5.5) |
-| Neutropenic infection | 14 (12.6) | 21 (5.0) |
-| Neutropenic infection (Grade 3-4) | 2 (1.8) | 5 (1.2) |
-
-| Immune system disorders | Hypersensitivity (G3/4: 1.7%) |  |
-| --- | --- | --- |
-| Metabolism and nutrition disorders | Anorexia (G3/4: 11.7%) |  |
-| Nervous system disorders | Peripheral sensory neuropathy (G3/4: 8.7%) | Dizziness (G3/4: 2.3%); Peripheral motor neuropathy (G3/4: 1.3%) |
-| Eye disorders |  | Lacrimation increased (G3/4: 0%) |
-| Ear and labyrinth disorders |  | Hearing impaired (G3/4: 0%) |
-| Cardiac disorders |  | Arrhythmia (G3/4: 1.0%) |
-| Gastrointestinal disorders | Diarrhoea (G3/4: 19.7%); Nausea (G3/4: 16%); Stomatitis (G3/4: 23.7%); Vomiting (G3/4: 14.3%) | Constipation (G3/4: 1.0%); Gastrointestinal pain (G3/4: 1.0%); Oesophagitis/dysphagia/odynop hagia (G3/4: 0.7%) |
-| Skin and subcutaneous tissue disorders | Alopecia (G3/4: 4.0%) | Rash pruritus (G3/4: 0.7%); Nail disorders (G3/4: 0.7%); Skin exfoliation (G3/4: 0%) |
-| General disorders and administration site conditions | Lethargy (G3/4: 19.0%); Fever (G3/4: 2.3%); Fluid retention (severe/life-threatening: 1%) |  |
+Disseminated intravascular coagulation (DIC), often in association with sepsis or multiorgan failure, has been reported.
 
 [TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
+
+For combination with ADT and with prednisone or prednisolone (STAMPEDE study), adverse events occurring occurring over the 6 cycles of treatment with docetaxel and having at least 2% higher incidence in the docetaxel treatment arm by comparison to the control arm, are presented, using the CTCAE grading scale.
 
 Infections and Infections (G3/4: 5.7%; Infection associated
 infestations including sepsis and with G4 neutropenia
@@ -738,5 +767,18 @@ listed in Appendix V.
 
 [TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
 
+- 545 patients (STAMPEDE study) who received docetaxel in combination with prednisone or prednisolone ADT.
+
 Description of selected adverse reactions in breast cancer for adjuvant therapy with TAXOTERE
 75 mg/m² in combination with doxorubicin and cyclophosphamide in patients with node-positive (TAX 316) and node-negative (GEICAM 9805) breast cancer
+
+Without primary With primary
+G-CSF prophylaxis G-CSF prophylaxis
+(n = 111) (n = 421)
+n (%) n (%)
+
+| Neutropenia (Grade 4) | 104 (93.7) | 135 (32.1) |
+| --- | --- | --- |
+| Febrile neutropenia | 28 (25.2) | 23 (5.5) |
+| Neutropenic infection | 14 (12.6) | 21 (5.0) |
+| Neutropenic infection (Grade 3-4) | 2 (1.8) | 5 (1.2) |

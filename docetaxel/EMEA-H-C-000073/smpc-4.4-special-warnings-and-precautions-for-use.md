@@ -2,6 +2,7 @@
 
 For breast and non-small cell lung cancers, premedication consisting of an oral corticosteroid, such as dexamethasone 16 mg per day (e.g. 8 mg BID) for 3 days starting 1 day prior to docetaxel administration, unless contraindicated, can reduce the incidence and severity of fluid retention as well as the severity of hypersensitivity reactions.
 For prostate cancer, the premedication is oral dexamethasone 8 mg, 12 hours, 3 hours and 1 hour before the docetaxel infusion (see section 4.2).
+
 Haematology
 
 Neutropenia is the most frequent adverse reaction of docetaxel.
@@ -40,9 +41,14 @@ Cutaneous reactions
 Localised skin erythema of the extremities (palms of the hands and soles of the feet) with oedema followed by desquamation has been observed.
 Severe symptoms such as eruptions followed by desquamation which lead to interruption or discontinuation of docetaxel treatment were reported (see section 4.2).
 
+Severe Cutaneous Adverse Reactions (SCARs) such as Stevens-Johnson Syndrome (SJS), Toxic Epidermal Necrolysis (TEN) and Acute Generalized Exanthematous Pustulosis (AGEP) have been reported with docetaxel treatment.
+Patients should be informed about the signs and symptoms of serious skin manifestations and closely monitored.
+If signs and symptoms suggestive of these reactions appear discontinuation of docetaxel should be considered.
+
 Fluid retention
 
 Patients with severe fluid retention such as pleural effusion, pericardial effusion and ascites should be monitored closely.
+
 Respiratory disorders
 
 Acute respiratory distress syndrome, interstitial pneumonia/pneumonitis, interstitial lung disease, pulmonary fibrosis and respiratory failure have been reported and may be associated with fatal outcome.
@@ -63,7 +69,6 @@ No data are available in patients with hepatic impairment treated by docetaxel i
 Patients with renal impairment
 
 There are no data available in patients with severely impaired renal function treated with docetaxel.
-
 Nervous system
 
 The development of severe peripheral neurotoxicity requires a reduction of dose (see section 4.2).
@@ -81,16 +86,22 @@ Ventricular arrhythmia including ventricular tachycardia (sometimes fatal) has b
 Baseline cardiac assessment is recommended.
 
 Eye disorders
+
 Cystoid macular oedema (CMO) has been reported in patients treated with docetaxel.
 Patients with impaired vision should undergo a prompt and complete ophthalmologic examination.
 In case CMO is diagnosed, docetaxel treatment should be discontinued and appropriate treatment initiated (see section 4.8).
+
+Second primary malignancies
+
+Second primary malignancies have been reported when docetaxel was given in combination with anticancer treatments known to be associated with second primary malignancies.
+Second primary malignancies (including acute myeloid leukaemia, myelodysplastic syndrome and non-Hodgkin lymphoma) may occur several months or years after docetaxel-containing therapy.
+Patients should be monitored for second primary malignancies (see section 4.8).
 
 Others
 
 Contraceptive measures must be taken by both men and women during treatment and for men at least 6 months after cessation of therapy (see section 4.6).
 
 The concomitant use of docetaxel with strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin and voriconazole) should be avoided (see section 4.5).
-
 Additional cautions for use in adjuvant treatment of breast cancer
 
 Complicated neutropenia
@@ -103,19 +114,27 @@ Congestive heart failure (CHF)
 Patients should be monitored for symptoms of congestive heart failure during therapy and during the follow up period.
 In patients treated with the TAC regimen for node positive breast cancer, the risk of CHF has been shown to be higher during the first year after treatment (see sections 4.8 and 5.1).
 
-Leukaemia
-In the docetaxel, doxorubicin and cyclophosphamide (TAC) treated patients, the risk of delayed myelodysplasia or myeloid leukaemia requires haematological follow-up.
-
 Patients with 4+ nodes
 As the benefit observed in patient with 4+ nodes was not statistically significant on disease-free survival (DFS) and overall survival (OS), the positive benefit/risk ratio for TAC in patients with 4+ nodes was not fully demonstrated at the final analysis (see section 5.1).
 
-Older people
+Elderly
+
+Cautions for use in adjuvant treatment of breast cancer
 There are limited data available in patients > 70 years of age on docetaxel use in combination with doxorubicin and cyclophosphamide.
 
-Of the 333 patients treated with docetaxel every three weeks in a prostate cancer study, 209 patients were 65 years of age or greater and 68 patients were older than 75 years.
-In patients treated with docetaxel every three weeks, the incidence of related nail changes occurred at a rate ≥ 10% higher in patients who were 65 years of age or greater compared to younger patients.
+Cautions for use in castration-resistant prostate cancer
+Of the 333 patients treated with docetaxel every three weeks in a prostate cancer study (TAX 327), 209 patients were 65 years of age or greater and 68 patients were older than 75 years.
+In patients treated with docetaxel every three weeks, the incidence of related nail changes occurred at a rate
+≥ 10% higher in patients who were 65 years of age or greater compared to younger patients.
 The incidence of related fever, diarrhoea, anorexia, and peripheral oedema occurred at rates ≥ 10% higher in patients who were 75 years of age or greater versus less than 65 years.
 
+Cautions for use in hormone-sensitive prostate cancer
+Of the 545 patients treated with docetaxel every 3 weeks in a hormone-sensitive prostate cancer study (STAMPEDE), 296 patients were 65 years of age or older, and 48 patients were 75 years of age or older.
+More patients aged ≥65 years in the docetaxel arm reported hypersensitivity reaction, neutropenia, anaemia, fluid retention, dyspnea, and nail changes when compared to the patients aged less than 65 years.
+None of these increases in frequency reached 10% difference with the control arm.
+In patients who were 75 years of age or older, when compared to younger patients, neutropenia, anaemia, diarrhea, dyspnea and upper respiratory tract infection were reported with a greater incidence (at least 10% higher).
+
+Cautions for use in gastric adenocarcinoma cancer
 Among the 300 (221 patients in the phase III part of the study and 79 patients in the phase II part) patients treated with docetaxel in combination with cisplatin and 5-fluorouracil in the gastric cancer study, 74 were 65 years of age or older and 4 patients were 75 years of age or older.
 The incidence of serious adverse events was higher in older people compared to younger patients.
 The incidence of the following adverse events (all grades): lethargy, stomatitis, neutropenic infection occurred at rates
@@ -132,9 +151,14 @@ Consideration should be given to possible effects on the central nervous system.
 
 [TAXOTERE 80 mg/2 ml concentrate and solvent for solution for infusion]
 
+Cautions for use in castration-resistant prostate cancerOf the 333 patients treated with docetaxel every three weeks in a prostate cancer study (TAX 327), 209 patients were 65 years of age or greater and 68 patients were older than 75 years.
+In patients treated with docetaxel every three weeks, the incidence of related nail changes occurred at a rate ≥ 10% higher in patients who were 65 years of age or greater compared to younger patients.
+
 This medicinal product contains 13 % (w/w) ethanol 95% v/v (alcohol), i.e. up to 932 mg ethanol 95% v/v per solvent vial, equivalent to 23 ml of beer or 9.5 ml wine.
 
 [TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
+
+Of the 333 patients treated with docetaxel every three weeks in a prostate cancer study(TAX 327), 209 patients were 65 years of age or greater and 68 patients were older than 75 years.
 
 This medicinal product contains 50 vol % ethanol anhydrous (alcohol), i.e. up to 395 mg ethanol anhydrous per vial, equivalent to 10 ml of beer or 4 ml wine.
 To be taken into account in pregnant or breast-feeding women, children and high-risk groups such as patients with liver disease, or epilepsy.

@@ -5,7 +5,8 @@ The use of docetaxel should be confined to units specialised in the administrati
 Posology
 
 For breast, non-small cell lung, gastric, and head and neck cancers, premedication consisting of an oral corticosteroid, such as dexamethasone 16 mg per day (e.g. 8 mg BID) for 3 days starting 1 day prior to docetaxel administration, unless contraindicated, can be used (see section 4.4).
-For prostate cancer, given the concurrent use of prednisone or prednisolone the recommended premedication regimen is oral dexamethasone 8 mg, 12 hours, 3 hours and 1 hour before the docetaxel infusion (see section 4.4).
+For metastatic castration-resistant prostate cancer, given the concurrent use of prednisone or prednisolone the recommended premedication regimen is oral dexamethasone 8 mg, 12 hours, 3 hours and 1 hour before the docetaxel infusion (see section 4.4).
+For metastatic hormone-sensitive prostate cancer, irrespective of the concurrent use of prednisone or prednisolone, the recommended premedication regimen is oral dexamethasone 8 mg 12 hours, 3 hours, and 1 hour before docetaxel infusion (see section 4.4).
 
 Prophylactic G-CSF may be used to mitigate the risk of haematological toxicities.
 
@@ -15,7 +16,6 @@ Breast cancer
 In the adjuvant treatment of operable node-positive and node-negative breast cancer, the recommended dose of docetaxel is 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 every 3 weeks for 6 cycles (TAC regimen) (see also Dose adjustments during treatment).
 For the treatment of patients with locally advanced or metastatic breast cancer, the recommended dose of docetaxel is 100 mg/m2 in monotherapy.
 In first-line treatment, docetaxel 75 mg/m2 is given in combination therapy with doxorubicin (50 mg/m2).
-
 In combination with trastuzumab the recommended dose of docetaxel is 100 mg/m2 every three weeks, with trastuzumab administered weekly.
 In the pivotal study the initial docetaxel infusion was started the day following the first dose of trastuzumab.
 The subsequent docetaxel doses were administered immediately after completion of the trastuzumab infusion, if the preceding dose of trastuzumab was well tolerated.
@@ -29,8 +29,13 @@ In chemotherapy naïve patients treated for non-small cell lung cancer, the reco
 For treatment after failure of prior platinum-based chemotherapy, the recommended dose is 75 mg/m² as a single agent.
 
 Prostate cancer
+Metastatic castration-resistant prostate cancer
 The recommended dose of docetaxel is 75 mg/m2.
 Prednisone or prednisolone 5 mg orally twice daily is administered continuously (see section 5.1).
+
+Metastatic hormone-sensitive prostate cancer
+The recommended dose of docetaxel is 75 mg/m2 every 3 weeks for 6 cycles.
+Prednisone or prednisolone 5 mg orally twice daily may be administered continuously.
 
 Gastric adenocarcinoma
 The recommended dose of docetaxel is 75 mg/m2 as a 1-hour infusion, followed by cisplatin 75 mg/m2, as a 1- to 3-hour infusion (both on day 1 only), followed by 5-fluorouracil 750 mg/m2 per day given as a 24-hour continuous infusion for 5 days, starting at the end of the cisplatin infusion.
@@ -54,7 +59,6 @@ Following chemotherapy, patients should receive radiotherapy.
 For the induction treatment of patients with locally advanced (technically unresectable, low probability of surgical cure, and aiming at organ preservation) squamous cell carcinoma of the head and neck (SCCHN), the recommended dose of docetaxel is 75 mg/m2 as a 1 hour intravenous infusion on day 1, followed by cisplatin 100 mg/m2 administered as a 30-minute to 3-hour infusion, followed by 5-fluorouracil 1000 mg/m2/day as a continuous infusion from day 1 to day 4.
 This regimen is administered every 3 weeks for 3 cycles.
 Following chemotherapy, patients should receive chemoradiotherapy.
-
 For cisplatin and 5-fluorouracil dose modifications, see the corresponding summary of product characteristics.
 
 Dose adjustments during treatment
@@ -102,6 +106,7 @@ Recommended dose modifications for toxicities in patients treated with docetaxel
 | Stomatitis/mucositis grade 4 | First episode: stop 5-FU only, at all subsequent cycles. Second episode: reduce docetaxel dose by 20%. |
 
 For cisplatin and 5-fluorouracil dose adjustments, see the corresponding summary of product characteristics.
+
 In the pivotal SCCHN studies patients who experienced complicated neutropenia (including prolonged neutropenia, febrile neutropenia, or infection), it was recommended to use G-CSF to provide prophylactic coverage (eg, day 6-15) in all subsequent cycles.
 
 Special populations:
@@ -129,11 +134,27 @@ Based on a population pharmacokinetic analysis, there are no special instruction
 
 [TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
 
+Prostate cancer Metastatic castration-resistant prostate cancer
+
 Discontinue treatment if these toxicities persist (see section 4.4).
+
+Toxicity Dose adjustment
+
+| Diarrhoea grade 3 | First episode: reduce 5-FU dose by 20%. Second episode: then reduce docetaxel dose by 20%. |
+| --- | --- |
+| Diarrhoea grade 4 | First episode: reduce docetaxel and 5-FU doses by 20%. Second episode: discontinue treatment. |
+| Stomatitis/mucositis grade 3 | First episode: reduce 5-FU dose by 20%. Second episode: stop 5-FU only, at all subsequent cycles. Third episode: reduce docetaxel dose by 20%. |
+| Stomatitis/mucositis grade 4 | First episode: stop 5-FU only, at all subsequent cycles. Second episode: reduce docetaxel dose by 20%. |
 
 [TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
 
-(all sentences already above)
+| Toxicity | Dose adjustment |
+| --- | --- |
+| Diarrhoea grade 3 | First episode: reduce 5-FU dose by 20%. |
+|  | Second episode: then reduce docetaxel dose by 20%. |
+| Diarrhoea grade 4 | First episode: reduce docetaxel and 5-FU doses by 20%. Second episode: discontinue treatment. |
+| Stomatitis/mucositis grade 3 | First episode: reduce 5-FU dose by 20%. Second episode: stop 5-FU only, at all subsequent cycles. Third episode: reduce docetaxel dose by 20%. |
+| Stomatitis/mucositis grade 4 | First episode: stop 5-FU only, at all subsequent cycles. Second episode: reduce docetaxel dose by 20%. |
 
 [TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
 
