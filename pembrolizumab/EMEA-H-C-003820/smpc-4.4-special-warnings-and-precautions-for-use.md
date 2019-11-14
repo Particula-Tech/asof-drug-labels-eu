@@ -31,6 +31,7 @@ Colitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of colitis, and other causes excluded.
 Corticosteroids should be administered for Grade ≥2 events (initial dose of 1-2 mg/kg/day prednisone or equivalent followed by a taper); pembrolizumab should be withheld for Grade 2 or Grade 3 colitis, and permanently discontinued for Grade 4 colitis (see section 4.2).
 The potential risk of gastrointestinal perforation should be taken into consideration.
+
 Immune-related hepatitis
 Hepatitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for changes in liver function (at the start of treatment, periodically during treatment and as indicated based on clinical evaluation) and symptoms of hepatitis, and other causes excluded.
@@ -42,13 +43,15 @@ Patients should be monitored for changes in renal function, and other causes of 
 Corticosteroids should be administered for Grade ≥2 events (initial dose of 1-2 mg/kg/day prednisone or equivalent followed by a taper) and, based on severity of creatinine elevations, pembrolizumab should be withheld for Grade 2, and permanently discontinued for Grade 3 or Grade 4 nephritis (see section 4.2).
 
 Immune-related endocrinopathies
-Severe endocrinopathies, including hypophysitis, type 1 diabetes mellitus, diabetic ketoacidosis, hypothyroidism, and hyperthyroidism have been observed with pembrolizumab treatment.
+Severe endocrinopathies, including adrenal insufficiency, hypophysitis, type 1 diabetes mellitus, diabetic ketoacidosis, hypothyroidism, and hyperthyroidism have been observed with pembrolizumab treatment.
 
 Long-term hormone replacement therapy may be necessary in cases of immune-related endocrinopathies.
 
-Hypophysitis has been reported in patients receiving pembrolizumab (see section 4.8).
-Patients should be monitored for signs and symptoms of hypophysitis (including hypopituitarism and secondary adrenal insufficiency) and other causes excluded.
-Corticosteroids to treat secondary adrenal insufficiency and other hormone replacement should be administered as clinically indicated, and pembrolizumab should be withheld for symptomatic hypophysitis until the event is controlled with hormone replacement.
+Adrenal insufficiency (primary and secondary) has been reported in patients receiving pembrolizumab.
+Hypophysitis has also been reported in patients receiving pembrolizumab.
+(See section 4.8).
+Patients should be monitored for signs and symptoms of adrenal insufficiency and hypophysitis (including hypopituitarism) and other causes excluded.
+Corticosteroids to treat adrenal insufficiency and other hormone replacement should be administered as clinically indicated, and pembrolizumab should be withheld for adrenal insufficiency or symptomatic hypophysitis until the event is controlled with hormone replacement.
 Continuation of pembrolizumab may be considered, after corticosteroid taper, if needed (see section 4.2).
 Pituitary function and hormone levels should be monitored to ensure appropriate hormone replacement.
 
@@ -110,6 +113,7 @@ Use of pembrolizumab in urothelial carcinoma patients who have received prior pl
 Physicians should consider the delayed onset of pembrolizumab effect before initiating treatment in patients with poorer prognostic features and/or aggressive disease.
 In urothelial cancer, a higher number of deaths within 2 months was observed in pembrolizumab compared to chemotherapy (see section 5.1).
 Factors associated with early deaths were fast progressive disease on prior platinum therapy and liver metastases.
+
 Use of pembrolizumab in urothelial cancer for patients who are considered ineligible for cisplatin-containing chemotherapy and whose tumours express PD-L1 with CPS ≥10
 The baseline and prognostic disease characteristics of the study population of KEYNOTE-052 included a proportion of patients eligible for a carboplatin-based combination, for whom the benefit is being assessed in a comparative study, and patients eligible for mono-chemotherapy, for whom no randomised data are available.
 In addition, no safety and efficacy data are available in frailer patients (e.g., ECOG performance status 3) considered not eligible for chemotherapy.
@@ -124,6 +128,11 @@ Physicians should consider the benefit/risk balance of the available treatment o
 Efficacy and safety data from patients ≥75 years are limited.
 For patients ≥75 years, pembrolizumab combination therapy should be used with caution after careful consideration of the potential benefit/risk on an individual basis (see section 5.1).
 
+Use of pembrolizumab for first-line treatment of patients with HNSCC
+In general, the frequency of adverse reactions for pembrolizumab combination therapy is observed to be higher than for pembrolizumab monotherapy or chemotherapy alone, reflecting the contributions of each of these components (see section 4.8).
+
+Physicians should consider the benefit/risk balance of the available treatment options (pembrolizumab monotherapy or pembrolizumab in combination with chemotherapy) before initiating treatment in patients with head and neck squamous cell carcinoma whose tumours express PD-L1 (see section 5.1).
+
 Use of pembrolizumab for adjuvant treatment of patients with melanoma
 A trend toward increased frequency of severe and serious adverse reactions in patients ≥75 years was observed.
 Safety data of pembrolizumab in the adjuvant melanoma setting in patients ≥75 years are limited.
@@ -133,7 +142,6 @@ When pembrolizumab is given with axitinib, higher than expected frequencies of G
 Liver enzymes should be monitored before initiation of and periodically throughout treatment.
 More frequent monitoring of liver enzymes as compared to when the medicines are used in monotherapy may be considered.
 Medical management guidelines for both medicines should be followed (see section 4.2 and refer to the SmPC for axitinib).
-
 Patients excluded from clinical trials
 Patients with the following conditions were excluded from clinical trials: active CNS metastases; ECOG PS ≥2 (except for urothelial carcinoma and RCC); HIV, hepatitis B or hepatitis C infection; active systemic autoimmune disease; interstitial lung disease; prior pneumonitis requiring systemic corticosteroid therapy; a history of severe hypersensitivity to another monoclonal antibody; receiving immunosuppressive therapy and a history of severe immune-related adverse reactions from treatment with ipilimumab, defined as any Grade 4 toxicity or Grade 3 toxicity requiring corticosteroid treatment (> 10 mg/day prednisone or equivalent) for greater than 12 weeks.
 Patients with active infections were excluded from clinical trials and were required to have their infection treated prior to receiving pembrolizumab.
@@ -143,6 +151,7 @@ Patients with clinically significant renal (creatinine > 1.5 x ULN) or hepatic (
 For subjects with relapsed or refractory classical Hodgkin lymphoma, clinical data for the use of pembrolizumab in patients ineligible to ASCT due to reasons other than failure to salvage chemotherapy are limited (see section 5.1).
 
 After careful consideration of the potential increased risk, pembrolizumab may be used with appropriate medical management in these patients.
+
 Patient Alert Card
 All prescribers of KEYTRUDA must be familiar with the Physician Information and Management Guidelines.
 The prescriber must discuss the risks of KEYTRUDA therapy with the patient.

@@ -9,7 +9,6 @@ Animal reproduction studies have not been conducted with pembrolizumab; however,
 These results indicate a potential risk, based on its mechanism of action, that administration of pembrolizumab during pregnancy could cause foetal harm, including increased rates of abortion or stillbirth.
 Human immunoglobulins G4 (IgG4) are known to cross the placental barrier; therefore, being an IgG4, pembrolizumab has the potential to be transmitted from the mother to the developing foetus.
 Pembrolizumab should not be used during pregnancy unless the clinical condition of the woman requires treatment with pembrolizumab.
-
 Breast-feeding
 It is unknown whether pembrolizumab is secreted in human milk.
 Since it is known that antibodies can be secreted in human milk, a risk to the newborns/infants cannot be excluded.

@@ -4,21 +4,20 @@ Summary of the safety profile
 Pembrolizumab is most commonly associated with immune-related adverse reactions.
 Most of these, including severe reactions, resolved following initiation of appropriate medical therapy or withdrawal of pembrolizumab (see “Description of selected adverse reactions” below).
 
-The safety of pembrolizumab as monotherapy has been evaluated in 4,948 patients with advanced melanoma, resected Stage III melanoma (adjuvant therapy), NSCLC, cHL, urothelial carcinoma, or HNSCC across four doses (2 mg/kg every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg every 2 or 3 weeks) in clinical studies.
+The safety of pembrolizumab as monotherapy has been evaluated in 5,884 patients with advanced melanoma, resected Stage III melanoma (adjuvant therapy), NSCLC, cHL, urothelial carcinoma, or HNSCC across four doses (2 mg/kg every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg every 2 or 3 weeks) in clinical studies.
 The frequencies included below and in Table 2 are based on all reported adverse drug reactions, regardless of the investigator assessment of causality.
-In this patient population, the median observation time was 7.3 months (range: 1 day to 31 months) and the most frequent adverse reactions with pembrolizumab were fatigue (34.1%), rash (22.7%), nausea (21.7%), diarrhoea (21.5%), and pruritus (20.2%).
+In this patient population, the median observation time was 7.3 months (range: 1 day to 31 months) and the most frequent adverse reactions with pembrolizumab were fatigue (32%), nausea (20%), and diarrhoea (20%).
 The majority of adverse reactions reported for monotherapy were of Grades 1 or 2 severity.
 The most serious adverse reactions were immune-related adverse reactions and severe infusion-related reactions (see section 4.4).
 
-The safety of pembrolizumab in combination with chemotherapy has been evaluated in 791 patients with NSCLC receiving 200 mg, 2 mg/kg or 10 mg/kg pembrolizumab every 3 weeks, in clinical studies.
+The safety of pembrolizumab in combination with chemotherapy has been evaluated in 1,067 patients with NSCLC or HNSCC receiving 200 mg, 2 mg/kg or 10 mg/kg pembrolizumab every 3 weeks, in clinical studies.
 The frequencies included below and in Table 2 are based on all reported adverse drug reactions, regardless of the investigator assessment of causality.
-In this patient population, the most frequent adverse reactions were nausea (49%), anaemia (48%), fatigue (38%), constipation (34%), diarrhoea (31%), neutropaenia (29%), and decreased appetite (28%).
-Incidences of Grades 3-5 adverse reactions were 67% for pembrolizumab combination therapy and 66% for chemotherapy alone.
+In this patient population, the most frequent adverse reactions were anaemia (50%), nausea (50%), fatigue (37%), constipation (35%), diarrhoea (30%), neutropaenia (30%), decreased appetite (28%) and vomiting (25%).
+Incidences of Grades 3-5 adverse reactions in patients with NSCLC were 67% for pembrolizumab combination therapy and 66% for chemotherapy alone and in patients with HNSCC were 85% for pembrolizumab combination therapy and 84% for chemotherapy plus cetuximab.
 
 The safety of pembrolizumab in combination with axitinib has been evaluated in a clinical study of 429 patients with advanced RCC receiving 200 mg pembrolizumab every 3 weeks and 5 mg axitinib twice daily.
 In this patient population, the most frequent adverse reactions were diarrhoea (54%), hypertension (45%), fatigue (38%), hypothyroidism (35%), decreased appetite (30%), palmar-plantar erythrodysaesthesia syndrome (28%), nausea (28%), ALT increased (27%), AST increased (26%), dysphonia (25%), cough (21%), and constipation (21%).
 Incidences of Grades 3-5 adverse reactions were 76% for pembrolizumab combination therapy and 71% for sunitinib alone.
-
 Tabulated list of adverse reactions
 Adverse reactions observed in clinical studies of pembrolizumab as monotherapy or in combination with chemotherapy or other anti-tumour medicines or reported from post-marketing use of pembrolizumab are listed in Table 2.
 Adverse reactions known to occur with pembrolizumab or chemotherapies given alone may occur during treatment with these medicinal products in combination, even if these reactions were not reported in clinical trials with combination therapy.
@@ -33,77 +32,75 @@ Table 2: Adverse reactions in patients treated with pembrolizumab*
 | Infections and infestations |  |  |  |
 | Common | pneumonia | pneumonia | pneumonia |
 | Blood and lymphatic system disorders |  |  |  |
-| Very common | anaemia | neutropaenia, anaemia, thrombocytopaenia |  |
+| Very common | anaemia | anaemia, neutropaenia, thrombocytopaenia |  |
 | Common | thrombocytopaenia, lymphopaenia | febrile neutropaenia, leukopaenia, lymphopaenia | anaemia, neutropaenia, leukopaenia, thrombocytopaenia |
-| Uncommon | neutropaenia, leukopaenia, eosinophilia | eosinophilia | lymphopaenia, eosinophilia |
-| Rare | immune thrombocytopenic purpura, haemolytic anaemia, pure red cell aplasia, haemophagocytic lymphohistiocytosis |  |  |
+| Uncommon | neutropaenia, leukopaenia, eosinophilia |  | lymphopaenia, eosinophilia |
+| Rare | immune thrombocytopenic purpura, haemolytic anaemia, pure red cell aplasia, haemophagocytic lymphohistiocytosis | eosinophilia |  |
 | Immune system disorders |  |  |  |
 | Common | infusion related reactiona | infusion related reactiona | infusion related reactiona |
 | Uncommon | sarcoidosis |  |  |
 | Not known | solid organ transplant rejection |  |  |
 | Endocrine disorders |  |  |  |
-| Very common | hypothyroidismb |  | hyperthyroidism. hypothyroidismb |
-| Common | hyperthyroidism | hypothyroidism, hyperthyroidism | hypophysitisc, thyroiditisd, adrenal insufficiency |
-| Uncommon | hypophysitisc, thyroiditisd, adrenal insufficiency | hypophysitisc, thyroiditis, adrenal insufficiency |  |
+| Very common | hypothyroidismb |  | hyperthyroidism, hypothyroidismb |
+| Common | hyperthyroidism | hypothyroidism, hyperthyroidism | hypophysitisd, thyroiditise, adrenal insufficiencyc |
+| Uncommon | adrenal insufficiencyc, hypophysitisd, thyroiditise | hypophysitisd, thyroiditise, adrenal insufficiencyc |  |
 | Metabolism and nutrition disorders |  |  |  |
-| Very common | decreased appetite | decreased appetite | decreased appetite |
-| Common | hyponatraemia, hypokalaemia, hypocalcaemia | hyponatraemia, hypokalaemia, hypocalcaemia | hypokalaemia, hyponatraemia, hypocalcaemia |
-| Uncommon | type 1 diabetes mellituse | type 1 diabetes mellitus | type 1 diabetes mellituse |
+| Very common | decreased appetite | hypokalaemia, decreased appetite | decreased appetite |
+| Common | hyponatraemia, hypokalaemia, hypocalcaemia | hyponatraemia, hypocalcaemia | hypokalaemia, hyponatraemia, hypocalcaemia |
+| Uncommon | type 1 diabetes mellitusf | type 1 diabetes mellitus | type 1 diabetes mellitusf |
 | Psychiatric disorders |  |  |  |
 | Common | insomnia | insomnia | insomnia |
 | Nervous system disorders |  |  |  |
-| Very common | headache | dizziness, neuropathy peripheral, dysgeusia, headache | headache, dysgeusia |
+| Very common | headache | dizziness, headache, neuropathy peripheral, dysgeusia | headache, dysgeusia |
 | Common | dizziness, neuropathy peripheral, lethargy, dysgeusia | lethargy | dizziness, lethargy, neuropathy peripheral |
-| Uncommon | epilepsy | epilepsy | myasthenic syndromeg |
-| Rare | Guillain-Barré syndromef, myasthenic syndromeg, meningitis (aseptic), encephalitis |  |  |
+| Uncommon | epilepsy | epilepsy | myasthenic syndromeh |
+| Rare | Guillain-Barré syndromeg, myasthenic syndromeh, meningitis (aseptic)i, encephalitis |  |  |
 | Eye disorders |  |  |  |
 | Common | dry eye | dry eye | dry eye |
-| Uncommon | uveitish |  | uveitish |
+| Uncommon | uveitisj |  | uveitisj |
 | Rare | Vogt-Koyanagi-Harada syndrome |  |  |
 | Cardiac disorders |  |  |  |
 | Common | cardiac arrhythmia† (including atrial fibrillation) | cardiac arrhythmia† (including atrial fibrillation) | cardiac arrhythmia† (including atrial fibrillation) |
-| Uncommon | pericardial effusion, pericarditis | pericardial effusion, pericarditis | myocarditis |
-| Rare | myocarditis |  |  |
+| Uncommon | pericardial effusion, pericarditis | pericardial effusion | myocarditisk |
+| Rare | myocarditisk | myocarditisk, pericarditis |  |
 | Vascular disorders |  |  |  |
 | Very common |  |  | hypertension |
 | Common | hypertension | hypertension |  |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |
 | Very common | dyspnoea, cough | dyspnoea, cough | dyspnoea, cough, dysphonia |
-| Common | pneumonitisi | pneumonitisi | pneumonitisi |
+| Common | pneumonitisl | pneumonitisl | pneumonitisl |
 | Gastrointestinal disorders |  |  |  |
-| Very common | diarrhoea, abdominal painj, nausea, vomiting, constipation | diarrhoea, nausea, vomiting, constipation, abdominal painj | diarrhoea, abdominal painj, nausea, vomiting, constipation |
-| Common | colitisk, dry mouth | colitisk, dry mouth | colitisk, dry mouth |
-| Uncommon | pancreatitisl | pancreatitisl | pancreatitisl |
+| Very common | diarrhoea, abdominal painm, nausea, vomiting, constipation | diarrhoea, nausea, vomiting, constipation, abdominal painm | diarrhoea, abdominal painm, nausea, vomiting, constipation |
+| Common | colitisn, dry mouth | colitisn, dry mouth | colitisn, dry mouth |
+| Uncommon | pancreatitiso | pancreatitiso | pancreatitiso |
 | Rare | small intestinal perforation |  |  |
 | Hepatobiliary disorders |  |  |  |
-| Common |  | hepatitism | hepatitism |
-| Uncommon | hepatitism |  |  |
+| Common |  |  | hepatitisp |
+| Uncommon | hepatitisp | hepatitisp |  |
 | Skin and subcutaneous tissue disorders |  |  |  |
-| Very common | rashn, prurituso | rashn, alopecia, prurituso | palmar-plantar erythrodysaesthesia syndrome, rashn, prurituso |
-| Common | severe skin reactionsp, erythema, vitiligoq, dry skin, alopecia, eczema, dermatitis acneiform | severe skin reactionsp, erythema, dermatitis acneiform, dry skin | severe skin reactionsp, dermatitis acneiform, dermatitis, dry skin, alopecia, eczema, erythema |
-| Uncommon | lichenoid keratosisr, psoriasis, dermatitis, papule, hair colour changes | psoriasis, dermatitis, eczema, hair colour changes, lichenoid keratosis, papule, vitiligoq | hair colour changes, lichenoid keratosisr, papule, psoriasis, vitiligoq |
-| Rare | toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema nodosum |  |  |
+| Very common | rashq, pruritusr | rashq, alopecia, pruritusr | palmar-plantar erythrodysaesthesia syndrome, rashq, pruritusr |
+| Common | severe skin reactionss, erythema, dry skin, vitiligot, eczema, alopecia, dermatitis acneiform | severe skin reactionss, erythema, dry skin | severe skin reactionss, dermatitis acneiform, dermatitis, dry skin, alopecia, eczema, erythema |
+| Uncommon | lichenoid keratosisu, psoriasis, dermatitis, papule, hair colour changes | psoriasis, dermatitis acneiform, dermatitis, vitiligot, eczema | hair colour changes, lichenoid keratosis, papule, psoriasis, vitiligot |
+| Rare | toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema nodosum | hair colour changes, lichenoid keratosis, papule |  |
 | Musculoskeletal and connective tissue disorders |  |  |  |
-| Very common | musculoskeletal pains, arthralgia | musculoskeletal pains, arthralgia | musculoskeletal pains, arthralgia, pain in extremity |
-| Common | pain in extremity, myositist, arthritisu | myositist, pain in extremity, arthritisu | myositist, arthritisu, tenosynovitisv |
-| Uncommon | tenosynovitisv | tenosynovitisv |  |
+| Very common | musculoskeletal painv, arthralgia | musculoskeletal painv, arthralgia | musculoskeletal painv, arthralgia, pain in extremity |
+| Common | pain in extremity, myositisw, arthritisx | myositisw, pain in extremity, arthritisx | myositisw, arthritisx, tenosynovitisy |
+| Uncommon | tenosynovitisy | tenosynovitisy |  |
 | Renal and urinary disorders |  |  |  |
-| Common |  | nephritisw, acute kidney injury | acute kidney injury, nephritisw |
-| Uncommon | nephritisw |  |  |
+| Common |  | nephritisz, acute kidney injury | acute kidney injury, nephritisz |
+| Uncommon | nephritisz |  |  |
 | General disorders and administration site conditions |  |  |  |
-| Very common | fatigue, asthenia, oedemax, pyrexia | fatigue, asthenia, oedemax, pyrexia | fatigue, asthenia, pyrexia |
-| Common | influenza like illness, chills | chills, influenza-like illness | oedemax, influenza like illness, chills |
+| Very common | fatigue, asthenia, oedemaaa, pyrexia | fatigue, asthenia, pyrexia, oedemaaa | fatigue, asthenia, pyrexia |
+| Common | influenza like illness, chills | chills, influenza-like illness | oedemaaa, influenza like illness, chills |
 | Investigations |  |  |  |
-| Very common |  | alanine aminotransferase increased, blood creatinine increased | alanine aminotransferase increased, aspartate aminotransferase increased, blood creatinine increased |
-| Common | aspartate aminotransferase increased, alanine aminotransferase increased, hypercalcaemia, blood alkaline phosphatase increased, blood bilirubin increased, blood creatinine increased | aspartate aminotransferase increased, hypercalcaemia, blood alkaline phosphatase increased | blood alkaline phosphatase increased, hypercalcaemia, blood bilirubin increased |
-
-Uncommon amylase increased amylase increased, blood amylase increased
-bilirubin increased
+| Very common |  | blood creatinine increased | alanine aminotransferase increased, aspartate aminotransferase increased, blood creatinine increased |
+| Common | aspartate aminotransferase increased, alanine aminotransferase increased, hypercalcaemia, blood alkaline phosphatase increased, blood bilirubin increased, blood creatinine increased | hypercalcaemia, alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased | blood alkaline phosphatase increased, hypercalcaemia, blood bilirubin increased |
+| Uncommon | amylase increased | blood bilirubin increased, amylase increased | amylase increased |
 
 *Adverse reaction frequencies presented in Table 2 may not be fully attributable to pembrolizumab alone but may contain contributions from the underlying disease or from other medicinal products used in a combination.
 †Based upon a standard query including bradyarrhythmias and tachyarrhythmias.
 The following terms represent a group of related events that describe a medical condition rather than a single event.
-a. infusion-related reaction (drug hypersensitivity, anaphylactic reaction, anaphylactoid reaction, hypersensitivity and cytokine release syndrome) b. hypothyroidism (myxoedema) c. hypophysitis (hypopituitarism) d. thyroiditis (autoimmune thyroiditis and thyroid disorder) e. type 1 diabetes mellitus (diabetic ketoacidosis) f. Guillain-Barré syndrome (axonal neuropathy and demyelinating polyneuropathy) g. myasthenic syndrome (myasthenia gravis, including exacerbation) h. uveitis (iritis and iridocyclitis) i. pneumonitis (interstitial lung disease) j. abdominal pain (abdominal discomfort, abdominal pain upper and abdominal pain lower) k. colitis (colitis microscopic, enterocolitis, enterocolitis haemorrhagic, and autoimmune colitis) l. pancreatitis (autoimmune pancreatitis and pancreatitis acute) m.hepatitis (autoimmune hepatitis, immune-mediated hepatitis and drug induced liver injury) n. rash (rash erythematous, rash follicular, rash generalised, rash macular, rash maculo-papular, rash papular, rash pruritic, rash vesicular and genital rash) o. pruritus (urticaria, urticaria papular, pruritus generalised and pruritus genital) p. severe skin reactions (dermatitis bullous, dermatitis exfoliative, erythema multiforme, exfoliative rash, pemphigus, skin necrosis, toxic skin eruption and Grade ≥3 of the following: acute febrile neutrophilic dermatosis, contusion, decubitus ulcer, dermatitis psoriasiform, drug eruption, jaundice, pemphigoid, pruritus, pruritus generalised, rash, rash erythematous, rash generalised, rash maculo-papular, rash pruritic, rash pustular and skin lesion) q. vitiligo (skin depigmentation, skin hypopigmentation and hypopigmentation of the eyelid) r. lichenoid keratosis (lichen planus and lichen sclerosus) s. musculoskeletal pain (musculoskeletal discomfort, back pain, musculoskeletal stiffness, musculoskeletal chest pain and torticollis) t. myositis (myalgia, myopathy, polymyalgia rheumatica and rhabdomyolysis) u. arthritis (joint swelling, polyarthritis and joint effusion) v. tenosynovitis (tendonitis, synovitis and tendon pain) w. nephritis (nephritis autoimmune, tubulointerstitial nephritis and renal failure, renal failure acute, or acute kidney injury with evidence of nephritis, nephrotic syndrome) x. oedema (oedema peripheral, generalised oedema, fluid overload, fluid retention, eyelid oedema and lip oedema, face oedema, localised oedema and periorbital oedema)
+a. infusion-related reaction (drug hypersensitivity, anaphylactic reaction, anaphylactoid reaction, hypersensitivity and cytokine release syndrome) b. hypothyroidism (myxoedema) c. adrenal insufficiency (Addison’s disease, adrenocortical insufficiency acute, secondary adrenocortical insufficiency) d. hypophysitis (hypopituitarism) e. thyroiditis (autoimmune thyroiditis and thyroid disorder) f. type 1 diabetes mellitus (diabetic ketoacidosis) g. Guillain-Barré syndrome (axonal neuropathy and demyelinating polyneuropathy) h. myasthenic syndrome (myasthenia gravis, including exacerbation) i. meningitis aseptic (meningitis, meningitis non-infective) j. uveitis (iritis and iridocyclitis) k. myocarditis (autoimmune myocarditis) l. pneumonitis (interstitial lung disease) m. abdominal pain (abdominal discomfort, abdominal pain upper and abdominal pain lower) n. colitis (colitis microscopic, enterocolitis, enterocolitis haemorrhagic, and autoimmune colitis) o. pancreatitis (autoimmune pancreatitis and pancreatitis acute) p. hepatitis (autoimmune hepatitis, immune-mediated hepatitis and drug induced liver injury) q. rash (rash erythematous, rash follicular, rash generalised, rash macular, rash maculo-papular, rash papular, rash pruritic, rash vesicular and genital rash) r. pruritus (urticaria, urticaria papular, pruritus generalised and pruritus genital) s. severe skin reactions (dermatitis bullous, dermatitis exfoliative, erythema multiforme, exfoliative rash, pemphigus, skin necrosis, toxic skin eruption and Grade ≥3 of the following: acute febrile neutrophilic dermatosis, contusion, decubitus ulcer, dermatitis psoriasiform, drug eruption, jaundice, pemphigoid, pruritus, pruritus generalised, rash, rash erythematous, rash generalised, rash maculo-papular, rash pruritic, rash pustular and skin lesion) t. vitiligo (skin depigmentation, skin hypopigmentation and hypopigmentation of the eyelid) u. lichenoid keratosis (lichen planus and lichen sclerosus) v. musculoskeletal pain (musculoskeletal discomfort, back pain, musculoskeletal stiffness, musculoskeletal chest pain and torticollis) w. myositis (myalgia, myopathy, polymyalgia rheumatica and rhabdomyolysis) x. arthritis (joint swelling, polyarthritis and joint effusion) y. tenosynovitis (tendonitis, synovitis and tendon pain) z. nephritis (nephritis autoimmune, tubulointerstitial nephritis and renal failure, renal failure acute, or acute kidney injury with evidence of nephritis, nephrotic syndrome) aa. oedema (oedema peripheral, generalised oedema, fluid overload, fluid retention, eyelid oedema and lip oedema, face oedema, localised oedema and periorbital oedema)
 
 Description of selected adverse reactions
 Data for the following immune-related adverse reactions are based on patients who received pembrolizumab across four doses (2 mg/kg every 3 weeks, 10 mg/kg every 2 or 3 weeks, or 200 mg every 3 weeks) in clinical studies (see section 5.1).
@@ -112,65 +109,73 @@ The management guidelines for these adverse reactions are described in section 4
 Immune-related adverse reactions (see section 4.4)
 
 Immune-related pneumonitis
-Pneumonitis occurred in 182 (3.7%) patients, including Grade 2, 3, 4 or 5 cases in 78 (1.6%),
-48 (1.0%), 9 (0.2%) and 7 (0.1%) patients, respectively, receiving pembrolizumab.
-The median time to onset of pneumonitis was 3.7 months (range 2 days to 21.3 months).
-The median duration was 1.9 months (range 1 day to 17.2+ months).
-Pneumonitis occurred more frequently in patients with a history of prior thoracic radiation (8.1%) than in patients who did not receive prior thoracic radiation (3.3%).
-Pneumonitis led to discontinuation of pembrolizumab in 75 (1.5%) patients.
-Pneumonitis resolved in 101 patients, 2 with sequelae.
+Pneumonitis occurred in 253 (4.3%) patients, including Grade 2, 3, 4 or 5 cases in 106 (1.8%),
+69 (1.2%), 13 (0.2%) and 9 (0.2%) patients, respectively, receiving pembrolizumab.
+The median time to onset of pneumonitis was 3.3 months (range 2 days to 26.8 months).
+The median duration was 1.9 months (range 1 day to 25.3+ months).
+Pneumonitis occurred more frequently in patients with a history of prior thoracic radiation (8.1%) than in patients who did not receive prior thoracic radiation (3.4%).
+Pneumonitis led to discontinuation of pembrolizumab in 98 (1.7%) patients.
+Pneumonitis resolved in 138 patients, 2 with sequelae.
 
 In patients with NSCLC, pneumonitis occurred in 107 (4.9%), including Grade 2, 3, 4 or 5 cases in 39 (1.8%), 30 (1.4%), 10 (0.5%) and 9 (0.4%), respectively.
 In patients with NSCLC, pneumonitis occurred in 8.1% with a history of prior thoracic radiation.
 
 Immune-related colitis
-Colitis occurred in 97 (2.0%) patients, including Grade 2, 3 or 4 cases in 28 (0.6%), 56 (1.1%) and 3 (< 0.1%) patients, respectively, receiving pembrolizumab.
-The median time to onset of colitis was 3.8 months (range 7 days to 20.2 months).
-The median duration was 1.2 months (range 1 day to 8.7+ months).
-Colitis led to discontinuation of pembrolizumab in 28 (0.6%) patients.
-Colitis resolved in 75 patients, 1 with sequelae.
+Colitis occurred in 107 (1.8%) patients, including Grade 2, 3 or 4 cases in 31 (0.5%), 62 (1.1%) and 3 (< 0.1%) patients, respectively, receiving pembrolizumab.
+The median time to onset of colitis was 4.3 months (range 7 days to 24.3 months).
+The median duration was 0.9 months (range 1 day to 8.7+ months).
+Colitis led to discontinuation of pembrolizumab in 29 (0.5%) patients.
+Colitis resolved in 84 patients, 2 with sequelae.
 Immune-related hepatitis
-Hepatitis occurred in 39 (0.8%) patients, including Grade 2, 3 or 4 cases in 7 (0.1%), 26 (0.5%) and 4 (< 0.1%) patients, respectively, receiving pembrolizumab.
-The median time to onset of hepatitis was 2.8 months (range 8 days to 21.4 months).
+Hepatitis occurred in 50 (0.8%) patients, including Grade 2, 3 or 4 cases in 8 (0.1%), 31 (0.5%) and 8 (0.1%) patients, respectively, receiving pembrolizumab.
+The median time to onset of hepatitis was 3.6 months (range 8 days to 21.4 months).
 The median duration was 1.1 months (range 1 day to 20.9+ months).
-Hepatitis led to discontinuation of pembrolizumab in 14 (0.3%) patients.
-Hepatitis resolved in 27 patients.
+Hepatitis led to discontinuation of pembrolizumab in 19 (0.3%) patients.
+Hepatitis resolved in 36 patients.
 
 Immune-related nephritis
-Nephritis occurred in 17 (0.3%) patients, including Grade 2, 3 or 4 cases in 3 (0.1%), 12 (0.2%) and 1 (< 0.1%) patients, respectively, receiving pembrolizumab as monotherapy.
-The median time to onset of nephritis was 5.1 months (range 12 days to 12.8 months).
-The median duration was 1.8 months (range 6 days to 10.5+ months).
-Nephritis led to discontinuation of pembrolizumab in 7 (0.1%) patients.
-Nephritis resolved in 9 patients, 1 with sequelae.
+Nephritis occurred in 22 (0.4%) patients, including Grade 2, 3 or 4 cases in 5 (0.1%), 14 (0.2%) and 1 (< 0.1%) patients, respectively, receiving pembrolizumab as monotherapy.
+The median time to onset of nephritis was 5.0 months (range 12 days to 21.4 months).
+The median duration was 2.6 months (range 6 days to 12.0 months).
+Nephritis led to discontinuation of pembrolizumab in 10 (0.2%) patients.
+Nephritis resolved in 13 patients, 3 with sequelae.
 In patients with non-squamous NSCLC treated with pembrolizumab in combination with pemetrexed and platinum chemotherapy (n=488), the incidence of nephritis was 1.4% (all Grades) with 0.8% Grade 3 and 0.4% Grade 4.
 
 Immune-related endocrinopathies
-Hypophysitis occurred in 32 (0.6%) patients, including Grade 2, 3 or 4 cases in 13 (0.3%), 15 (0.3%) and 1 (< 0.1%) patients, respectively, receiving pembrolizumab.
-The median time to onset of hypophysitis was 5.3 months (range 1 day to 17.7 months).
-The median duration was 1.7 months (range 3 days to 18.1+ months).
-Hypophysitis led to discontinuation of pembrolizumab in 8 (0.2%) patients.
-Hypophysitis resolved in 9 patients, 7 with sequelae.
+Adrenal insufficiency occurred in 46 (0.8%) patients, including Grade 2, 3 or 4 cases in 19 (0.3%),
+20 (0.3%) and 3 (0.1%) patients, respectively, receiving pembrolizumab.
+The median time to onset of adrenal insufficiency was 5.4 months (range 1 day to 17.7 months).
+The median duration was not reached (range 3 days to 26.2+ months).
+Adrenal insufficiency led to discontinuation of pembrolizumab in 4 (0.1%) patients.
+Adrenal insufficiency resolved in 16 patients, 4 with sequelae.
 
-Hyperthyroidism occurred in 197 (4.0%) patients, including Grade 2 or 3 cases in 52 (1.1%) and 5 (0.1%) patients, respectively, receiving pembrolizumab.
-The median time to onset of hyperthyroidism was 1.4 months (range 1 day to 21.9 months).
-The median duration was 1.7 months (range 4 days to 15.5+ months).
+Hypophysitis occurred in 36 (0.6%) patients, including Grade 2, 3 or 4 cases in 13 (0.2%), 19 (0.3%) and 1 (< 0.1%) patients, respectively, receiving pembrolizumab.
+The median time to onset of hypophysitis was 5.9 months (range 1 day to 17.7 months).
+The median duration was 3.3 months (range 3 days to 18.1+ months).
+Hypophysitis led to discontinuation of pembrolizumab in 8 (0.1%) patients.
+Hypophysitis resolved in 17 patients, 8 with sequelae.
+
+Hyperthyroidism occurred in 244 (4.1%) patients, including Grade 2 or 3 cases in 64 (1.1%) and 7 (0.1%) patients, respectively, receiving pembrolizumab.
+The median time to onset of hyperthyroidism was 1.4 months (range 1 day to 22.5 months).
+The median duration was 1.8 months (range 4 days to 29.2+ months).
 Hyperthyroidism led to discontinuation of pembrolizumab in 3 (0.1%) patients.
-Hyperthyroidism resolved in 152 (77.2%) patients, 1 with sequelae.
+Hyperthyroidism resolved in 191 (78.3%) patients, 5 with sequelae.
 
-Hypothyroidism occurred in 514 (10.4%) patients, including Grade 2 or 3 cases in 377 (7.6%) and 7 (0.1%) patients, respectively, receiving pembrolizumab.
-The median time to onset of hypothyroidism was 3.5 months (range 1 day to 18.9 months).
-The median duration was not reached (range 2 days to 29.9+ months).
+Hypothyroidism occurred in 645 (11.0%) patients, including Grade 2 or 3 cases in 475 (8.1%) and 8 (0.1%) patients, respectively, receiving pembrolizumab.
+The median time to onset of hypothyroidism was 3.5 months (range 1 day to 19.6 months).
+The median duration was not reached (range 2 days to 32.6+ months).
 Two patients (< 0.1%) discontinued pembrolizumab due to hypothyroidism.
-Hypothyroidism resolved in 107 (20.8%) patients, 9 with sequelae.
+Hypothyroidism resolved in 153 (23.7%) patients, 10 with sequelae.
 In patients with cHL (n=241) the incidence of hypothyroidism was 14.1% (all Grades) with 0.4% Grade 3.
-In patients with HNSCC (n=609), the incidence of hypothyroidism was 15.1% (all Grades) with 0.5% Grade 3.
+In patients with HNSCC treated with pembrolizumab as monotherapy (n=909), the incidence of hypothyroidism was 16.1% (all Grades) with 0.3% Grade 3.
+In patients with HNSCC treated with pembrolizumab in combination with platinum and 5-FU chemotherapy (n=276), the incidence of hypothyroidism was 15.2%, all of which were Grade 1 or 2.
 
 Immune-related skin adverse reactions
-Immune-related severe skin reactions occurred in 66 (1.3%) patients, including Grade 2, 3 or 5 cases in 6 (0.1%), 48 (1.0%) and 1 (< 0.1%) patients, respectively, receiving pembrolizumab.
-The median time to onset of severe skin reactions was 3.2 months (range 4 days to 19.4 months).
-The median duration was 1.6 months (range 1 day to 16.1+ months).
-Severe skin reactions led to discontinuation of pembrolizumab in 5 (0.2%) patients.
-Severe skin reactions resolved in 46 patients.
+Immune-related severe skin reactions occurred in 89 (1.5%) patients, including Grade 2, 3 or 5 cases in 10 (0.2%), 65 (1.1%) and 1 (< 0.1%) patients, respectively, receiving pembrolizumab.
+The median time to onset of severe skin reactions was 3.3 months (range 3 days to 19.4 months).
+The median duration was 1.6 months (range 1 day to 27.3+ months).
+Severe skin reactions led to discontinuation of pembrolizumab in 9 (0.2%) patients.
+Severe skin reactions resolved in 64 patients.
 
 Rare cases of SJS and TEN, some of them with fatal outcome, have been observed (see sections 4.2 and 4.4).
 
@@ -189,9 +194,9 @@ Of these patients, 55% had no recurrence of ALT > 3 times ULN, and of those pati
 There were no Grade 5 hepatic events.
 
 Laboratory abnormalities
-In patients treated with pembrolizumab monotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 10.8% for lymphocytes decreased, 7.6% for sodium decreased, 6.5% for haemoglobin decreased, 5.2% for phosphate decreased, 5.2% for glucose increased, 2.9% for alkaline phosphatase increased, 2.6% for AST increased, 2.3% for ALT increased, 2% for potassium decreased, 1.8% for bilirubin increased, 1.6% for potassium increased, 1.5% for albumin decreased, 1.5% for calcium increased, 1.4% for creatinine increased, 1.4% for platelets decreased, 1.4% for neutrophils decreased, 1.2% for calcium decreased, 0.8% for magnesium increased, 0.6% for leucocytes decreased, 0.5% for glucose decreased, 0.2% for magnesium decreased, and 0.2% for sodium increased.
+In patients treated with pembrolizumab monotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 10.9% for lymphocytes decreased, 8.2% for sodium decreased, 6.3% for haemoglobin decreased, 5.2% for phosphate decreased, 4.8% for glucose increased, 2.8% for AST increased, 2.7% for alkaline phosphatase increased, 2.7% for ALT increased, 2.2% for potassium decreased, 1.8% for calcium increased, 1.8% for neutrophils decreased, 1.8% for potassium increased, 1.7% for bilirubin increased, 1.7% for platelets decreased, 1.6% for albumin decreased, 1.5% for calcium decreased, 1.3% for creatinine increased, 0.8% for leucocytes decreased, 0.7% for magnesium increased, 0.6% for glucose decreased, 0.2% for magnesium decreased, and 0.2% for sodium increased.
 
-In patients treated with pembrolizumab in combination with chemotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 23.8% for neutrophils decreased, 20.2% for lymphocytes decreased, 16.2% for haemoglobin decreased, 14.6% for leucocytes decreased, 10.3% for platelets decreased, 7.9% for glucose increased, 7.8% for phosphate decreased, 7.4% for sodium decreased, 4.6% for potassium decreased, 3.7% for ALT increased, 3.6% for creatinine increased, 3.5% for AST increased, 2.9% for calcium decreased, 2.6% for potassium increased, 2.5% for albumin decreased, 1.7% for calcium increased, 1.2% for alkaline phosphatase increased, 0.9% for glucose decreased, 0.7% for bilirubin increased, and 0.1% for sodium increased.
+In patients treated with pembrolizumab in combination with chemotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 26.7% for neutrophils decreased, 23.9% for lymphocytes decreased, 19.1% for haemoglobin decreased, 17.9% for leucocytes decreased, 12.2% for platelets decreased, 10.2% for sodium decreased, 8.9% for phosphate decreased, 7.4% for glucose increased, 6.5% for potassium decreased, 3.3 for creatinine increased, 3.1% for ALT increased, 3.1% for AST increased, 3.1% for calcium decreased, 3.0% for potassium increased, 2.9% for albumin decreased, 2.3% for calcium increased, 1.2% for alkaline phosphatase increased, 0.8% for glucose decreased, 0.7% for bilirubin increased, and 0.3% for sodium increased.
 
 In patients treated with pembrolizumab in combination with axitinib, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 20.1% for ALT increased, 13.2% for AST increased, 10.8% for lymphocytes decreased, 8.9% for glucose increased, 7.8% for sodium decreased, 6.4% for phosphate decreased, 6.2% for potassium increased, 4.3% for creatinine increased, 3.6% for potassium decreased, 2.1% for bilirubin increased, 2.1% for haemoglobin decreased, 1.7% for alkaline phosphatase increased, 1.5% for prothrombin INR increased, 1.4% for leukocytes decreased, 1.4% for platelets decreased, 1.2% for activated partial thromboplastin time prolonged, 1.2% for neutrophils decreased, 1.2% for sodium increased, 0.7% for calcium decreased, 0.7% for calcium increased, 0.5% for albumin decreased, and 0.2% for glucose decreased.
 
@@ -214,74 +219,6 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [KEYTRUDA 25 mg/mL concentrate for solution for infusion.]
 
-|  | Monotherapy | Combination with chemotherapy | Combination with axitinib |
-| --- | --- | --- | --- |
-| Infections and infestations |  |  |  |
-| Common | pneumonia | pneumonia | pneumonia |
-| Blood and lymphatic system disorders |  |  |  |
-| Very common | anaemia | neutropaenia, anaemia, thrombocytopaenia |  |
-| Common | thrombocytopaenia, lymphopaenia | febrile neutropaenia, leukopaenia, lymphopaenia | anaemia, neutropaenia, leukopaenia, thrombocytopaenia |
-| Uncommon | neutropaenia, leukopaenia, eosinophilia | eosinophilia | lymphopaenia, eosinophilia |
-| Rare | immune thrombocytopenic purpura, haemolytic anaemia, pure red cell aplasia, haemophagocytic lymphohistiocytosis |  |  |
-| Immune system disorders |  |  |  |
-| Common | infusion related reactiona | infusion related reactiona | infusion related reactiona |
-| Uncommon | sarcoidosis |  |  |
-| Not known | solid organ transplant rejection |  |  |
-| Endocrine disorders |  |  |  |
-| Very common | hypothyroidismb |  | hyperthyroidism. hypothyroidismb |
-| Common | hyperthyroidism | hypothyroidism, hyperthyroidism | hypophysitisc, thyroiditisd, adrenal insufficiency |
-| Uncommon | hypophysitisc, thyroiditisd, adrenal insufficiency | hypophysitisc, thyroiditis, adrenal insufficiency |  |
-| Metabolism and nutrition disorders |  |  |  |
-| Very common | decreased appetite | decreased appetite | decreased appetite |
-| Common | hyponatraemia, hypokalaemia, hypocalcaemia | hyponatraemia, hypokalaemia, hypocalcaemia | hypokalaemia, hyponatraemia, hypocalcaemia |
-| Uncommon | type 1 diabetes mellituse | type 1 diabetes mellitus | type 1 diabetes mellituse |
-| Psychiatric disorders |  |  |  |
-| Common | insomnia | insomnia | insomnia |
-| Nervous system disorders |  |  |  |
-| Very common | headache | dizziness, neuropathy peripheral, dysgeusia, headache | headache, dysgeusia |
-| Common | dizziness, neuropathy peripheral, lethargy, dysgeusia | lethargy | dizziness, lethargy, neuropathy peripheral |
-| Uncommon | epilepsy | epilepsy | myasthenic syndromeg |
-| Rare | Guillain-Barré syndromef, myasthenic syndromeg, meningitis (aseptic), encephalitis |  |  |
-| Eye disorders |  |  |  |
-| Common | dry eye | dry eye | dry eye |
-| Uncommon | uveitish |  | uveitish |
-| Rare | Vogt-Koyanagi-Harada syndrome |  |  |
-| Cardiac disorders |  |  |  |
-| Common | cardiac arrhythmia† (including atrial fibrillation) | cardiac arrhythmia† (including atrial fibrillation) | cardiac arrhythmia† (including atrial fibrillation) |
-| Uncommon | pericardial effusion, pericarditis | pericardial effusion, pericarditis | myocarditis |
-| Rare | myocarditis |  |  |
-| Vascular disorders |  |  |  |
-| Very common |  |  | hypertension |
-| Common | hypertension | hypertension |  |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |
-| Very common | dyspnoea, cough | dyspnoea, cough | dyspnoea, cough, dysphonia |
-| Common | pneumonitisi | pneumonitisi | pneumonitisi |
-| Gastrointestinal disorders |  |  |  |
-| Very common | diarrhoea, abdominal painj, nausea, vomiting, constipation | diarrhoea, nausea, vomiting, constipation, abdominal painj | diarrhoea, abdominal painj, nausea, vomiting, constipation |
-| Common | colitisk, dry mouth | colitisk, dry mouth | colitisk, dry mouth |
-| Uncommon | pancreatitisl | pancreatitisl | pancreatitisl |
-| Rare | small intestinal perforation |  |  |
-| Hepatobiliary disorders |  |  |  |
-| Common |  | hepatitism | hepatitism |
-| Uncommon | hepatitism |  |  |
-| Skin and subcutaneous tissue disorders |  |  |  |
-| Very common | rashn, prurituso | rashn, alopecia, prurituso | palmar-plantar erythrodysaesthesia syndrome, rashn, prurituso |
-| Common | severe skin reactionsp, erythema, vitiligoq, dry skin, alopecia, eczema, dermatitis acneiform | severe skin reactionsp, erythema, dermatitis acneiform, dry skin | severe skin reactionsp, dermatitis acneiform, dermatitis, dry skin, alopecia, eczema, erythema |
-| Uncommon | lichenoid keratosisr, psoriasis, dermatitis, papule, hair colour changes | psoriasis, dermatitis, eczema, hair colour changes, lichenoid keratosis, papule, vitiligoq | hair colour changes, lichenoid keratosisr, papule, psoriasis, vitiligoq |
-| Rare | toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema nodosum |  |  |
-| Musculoskeletal and connective tissue disorders |  |  |  |
-| Very common | musculoskeletal pains, arthralgia | musculoskeletal pains, arthralgia | musculoskeletal pains, arthralgia, pain in extremity |
-| Common | pain in extremity, myositist, arthritisu | myositist, pain in extremity, arthritisu | myositist, arthritisu, tenosynovitisv |
-| Uncommon | tenosynovitisv | tenosynovitisv |  |
-| Renal and urinary disorders |  |  |  |
-| Common |  | nephritisw, acute kidney injury | acute kidney injury, nephritisw |
-| Uncommon | nephritisw |  |  |
-| General disorders and administration site conditions |  |  |  |
-| Very common | fatigue, asthenia, oedemax, pyrexia | fatigue, asthenia, oedemax, pyrexia | fatigue, asthenia, pyrexia |
-| Common | influenza like illness, chills | chills, influenza-like illness | oedemax, influenza like illness, chills |
-| Investigations |  |  |  |
-| Very common |  | alanine aminotransferase increased, blood creatinine increased | alanine aminotransferase increased, aspartate aminotransferase increased, blood creatinine increased |
-| Common | aspartate aminotransferase increased, alanine aminotransferase increased, hypercalcaemia, blood alkaline phosphatase increased, blood bilirubin increased, blood creatinine increased | aspartate aminotransferase increased, hypercalcaemia, blood alkaline phosphatase increased | blood alkaline phosphatase increased, hypercalcaemia, blood bilirubin increased |
-| Uncommon | amylase increased | amylase increased, blood bilirubin increased | amylase increased |
-
 Data for the following immune-related adverse reactions are based on patients who received pembrolizumab across four doses (2 mg/kg every 3 weeks or 10 mg/kg every 2 or 3 weeks, or 200 mg every 3 weeks) in clinical studies (see section 5.1).
+
+Hepatitis occurred in 50 (0.8%) patients, including Grade 2, 3 or 4 cases in 8 (0.1%), 31 (0.5%) and 8 ( 0.1%) patients, respectively, receiving pembrolizumab.

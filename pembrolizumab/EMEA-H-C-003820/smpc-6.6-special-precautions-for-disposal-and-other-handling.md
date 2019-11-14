@@ -17,9 +17,10 @@ Preparation and administration
   Mix diluted solution by gentle inversion.
 - From a microbiological point of view, the reconstituted or diluted solution should be used immediately.
   The reconstituted or diluted solution must not be frozen.
-  If not used immediately, chemical and physical in-use stability of KEYTRUDA has been demonstrated for 24hours at 2°C to 8°C.
-  This 24 hour total hold from reconstitution may include up to 6 hours at room temperature (at or below 25°C).
+  If not used immediately, chemical and physical in-use stability of KEYTRUDA has been demonstrated for 96 hours at 2°C to 8°C.
+  This 96 hour total hold from reconstitution may include up to 6 hours at room temperature (at or below 25°C).
   If refrigerated, the vials and/or intravenous bags must be allowed to come to room temperature prior to use.
+  Translucent to white proteinaceous particles may be seen in diluted solution.
   Administer the infusion solution intravenously over 30 minutes using a sterile, non-pyrogenic, low-protein binding 0.2 to 5 µm in-line or add-on filter.
 - Do not co-administer other medicinal products through the same infusion line.
 - KEYTRUDA is for single use only.
@@ -38,5 +39,5 @@ Preparation and administration of the infusion
   Each vial contains an excess fill of 0.25 ml (total content per vial 4.25 ml) to ensure the recovery of 4 ml of concentrate.
 - From a microbiological point of view, the product, once diluted, should be used immediately.
   The diluted solution must not be frozen.
-  If not used immediately, chemical and physical in-use stability of KEYTRUDA has been demonstrated for 24hours at 2ºC to 8ºC.
-  This 24 hour hold may include up to 6 hours at room temperature (at or below 25°C).
+  If not used immediately, chemical and physical in-use stability of KEYTRUDA has been demonstrated for 96 hours at 2ºC to 8ºC.
+  This 96 hour hold may include up to 6 hours at room temperature (at or below 25°C).

@@ -18,6 +18,8 @@ KEYTRUDA as monotherapy is indicated for the treatment of locally advanced or me
 
 KEYTRUDA as monotherapy is indicated for the treatment of locally advanced or metastatic urothelial carcinoma in adults who are not eligible for cisplatin-containing chemotherapy and whose tumours express PD-L1 with a combined positive score (CPS) ≥10 (see section 5.1).
 
-KEYTRUDA as monotherapy is indicated for the treatment of recurrent or metastatic head and neck squamous cell carcinoma (HNSCC) in adults whose tumours express PD-L1 with a ≥50% TPS and progressing on or after platinum-containing chemotherapy (see section 5.1).
+KEYTRUDA, as monotherapy or in combination with platinum and 5-fluorouracil (5-FU) chemotherapy, is indicated for the first-line treatment of metastatic or unresectable recurrent head and neck squamous cell carcinoma (HNSCC) in adults whose tumours express PD-L1 with a CPS ≥1 (see section 5.1).
+
+KEYTRUDA as monotherapy is indicated for the treatment of recurrent or metastatic HNSCC in adults whose tumours express PD-L1 with a ≥50% TPS and progressing on or after platinum-containing chemotherapy (see section 5.1).
 
 KEYTRUDA, in combination with axitinib, is indicated for the first-line treatment of advanced renal cell carcinoma (RCC) in adults (see section 5.1).
