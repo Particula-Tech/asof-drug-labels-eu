@@ -14,7 +14,6 @@ Gelatin
 Titanium dioxide (E171)
 Red iron oxide (E172)
 Yellow iron oxide (E172)
-
 Printing ink
 Shellac
 Black iron oxide (E172)

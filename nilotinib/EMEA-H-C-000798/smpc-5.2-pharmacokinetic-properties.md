@@ -10,7 +10,6 @@ In healthy volunteers, Cmax and area under the serum concentration-time curve (A
 Administration of Tasigna 30 minutes or 2 hours after food increased bioavailability of nilotinib by 29% or 15%, respectively (see sections 4.2, 4.4 and 4.5).
 
 Nilotinib absorption (relative bioavailability) might be reduced by approximately 48% and 22% in patients with total gastrectomy and partial gastrectomy, respectively.
-
 Distribution
 
 The blood-to-plasma ratio of nilotinib is 0.71.
@@ -30,6 +29,7 @@ Unchanged nilotinib accounted for 69% of the dose.
 
 The apparent elimination half-life estimated from the multiple-dose pharmacokinetics with daily dosing was approximately 17 hours.
 Inter-patient variability in nilotinib pharmacokinetics was moderate to high.
+
 Linearity/non-linearity
 
 Steady-state nilotinib exposure was dose-dependent, with less than dose-proportional increases in systemic exposure at dose levels higher than 400 mg given as once-daily dosing.

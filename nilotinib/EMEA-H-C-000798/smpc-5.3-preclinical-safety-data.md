@@ -16,6 +16,7 @@ In general the changes in clinical chemistry were fully reversible after a four-
 Exposures at the lowest dose levels at which the liver effects were seen were lower than the exposure in humans at a dose of 800 mg/day.
 Only minor liver alterations were seen in mice or rats treated for up to 26 weeks.
 Mainly reversible increases in cholesterol levels were seen in rats, dogs and monkeys.
+
 Genotoxicity studies
 
 Genotoxicity studies in bacterial in vitro systems and in mammalian in vitro and in vivo systems with and without metabolic activation did not reveal any evidence for a mutagenic potential of nilotinib.
@@ -29,7 +30,6 @@ Exposures (in terms of AUC) at the highest dose level represented approximately 
 In the 26-week Tg.rasH2 mouse carcinogenicity study, in which nilotinib was administered at 30, 100 and 300 mg/kg/day, skin papillomas/carcinomas were detected at 300 mg/kg, representing approximately 30 to 40 times (based on AUC) the human exposure at the maximum approved dose of 800 mg/day (administered as 400 mg twice daily).
 The No-Observed-Effect-Level for the skin neoplastic lesions was 100 mg/kg/day, representing approximately 10 to 20 times the human exposure at the maximum approved dose of 800 mg/day (administered as 400 mg twice daily).
 The major target organs for non-neoplastic lesions were the skin (epidermal hyperplasia), the growing teeth (degeneration/atrophy of the enamel organ of upper incisors and inflammation of the gingiva/odontogenic epithelium of incisors) and the thymus (increased incidence and/or severity of decreased lymphocytes).
-
 Reproductive toxicity and fertility studies
 
 Nilotinib did not induce teratogenicity, but did show embryo- and foetotoxicity at doses that also showed maternal toxicity.

@@ -72,8 +72,8 @@ A total of 305 (36.1%) of all patients were not evaluable for MMR at 48 months (
 A total of 322 (38.1%) of all patients were not evaluable for MMR at 60 months (99 in the nilotinib 300 mg twice daily group, 93 in the nilotinib 400 mg twice daily group and 130 in the imatinib group) due to missing/unevaluable PCR assessments (n=9), atypical transcripts at baseline (n=8) or discontinuation prior to the 60-month time point (n=305).
 5 Only patients who were in MMR at a specific time point are included as responders for that time point.
 A total of 395 (46.7%) of all patients were not evaluable for MMR at 72 months (130 in the nilotinib 300 mg twice daily group, 110 in the nilotinib 400 mg twice daily group and 155 in the imatinib group) due to missing/unevaluable PCR assessments (n=25), atypical transcripts at baseline (n=8) or discontinuation prior to the 72-month time point (n=362).
-MMR rates by different time points (including patients who achieved MMR at or before those time points as responders) are presented in the cumulative incidence of MMR (see Figure 1).
 
+MMR rates by different time points (including patients who achieved MMR at or before those time points as responders) are presented in the cumulative incidence of MMR (see Figure 1).
 Figure 1 Cumulative incidence of MMR
 
 100 Nilotinib 300 mg twice daily (n = 282)
@@ -104,9 +104,9 @@ In a retrospective analysis, 91% (234/258) of patients on nilotinib 300 mg twice
 Patients with BCR-ABL levels ≤10% at 3 months of treatment show a greater overall survival at 72 months compared to those who did not achieve this molecular response level (94.5% vs. 77.1% respectively [p=0.0005]).
 
 Based on the Kaplan-Meier analysis of time to first MMR the probability of achieving MMR at different time points was higher for both nilotinib at 300 mg and 400 mg twice daily compared to imatinib 400 mg once daily (HR=2.17 and stratified log-rank p<0.0001 between nilotinib 300 mg twice daily and imatinib 400 mg once daily, HR=1.88 and stratified log-rank p<0.0001 between nilotinib 400 mg twice daily and imatinib 400 mg once daily).
+
 The proportion of patients who had a molecular response of ≤0.01% and ≤0.0032% by IS at different time points are presented in Table 8 and the proportion of patients who had a molecular response of ≤0.01% and ≤0.0032% by IS by different time points are presented in Figures 2 and 3.
 Molecular responses of ≤0.01% and ≤0.0032% by IS correspond to a ≥4 log reduction and ≥4.5 log reduction, respectively, of BCR-ABL transcripts from a standardised baseline.
-
 Table 8 Proportions of patients who had molecular response of ≤0.01% (4 log reduction) and ≤0.0032% (4.5 log reduction)
 
 |  | Nilotinib 300 mg twice daily n=282 (%) |  | Nilotinib 400 mg twice daily n=281 (%) |  | Imatinib 400 mg once daily n=283 (%) |  |
@@ -148,34 +148,33 @@ Months since randomisation
 Figure 3 Cumulative incidence of molecular response of ≤0.0032% (4.5 log reduction)
 
 100 Nilotinib 300 mg twice daily (n = 282)
-
 Nilotinib 400 mg twice daily (n = 281)
 90 Imatinib 400 mg once daily (n = 283)
 
 80
 
 70
-60 54%; P < .0001 By 5 years 56%; P < .0001 By 6 years
 
-50 40%; P < .0001 By 4 years 52%; 55%; P < .0001
+60 By 5 years 56%; P < .0001 By 6 years
+54%; P < .0001
+50 By 4 years 55%; P < .0001
+40%; P < .0001 52%;
 40 By 3 years P < .0001
 30 11%; P < .0001 By 1 year 25%; P < .0001 By 2 years 32%; P < .0001 P = .0002 37%; 31% 33%
-20 7%; P < .0001 P = .0003 28%; 23%
-1% 19%;
+20 7%; P < .0001 1% 19%; P = .0003 28%; 23%
 10 P = .0006 15%
-
 9%
+
 0
 0 6 12 18 24 30 36 42 48 54 60 66 72
-
 Months since randomisation
 
 Based on Kaplan-Meier estimates of the duration of first MMR, the proportions of patients who were maintaining response for 72 months among patients who achieved MMR were 92.5% (95% CI: 88.6-96.4%) in the nilotinib 300 mg twice daily group, 92.2% (95% CI: 88.5-95.9%) in the nilotinib 400 mg twice daily group and 88.0% (95% CI: 83.0-93.1%) in the imatinib 400 mg once daily group.
+
 Complete cytogenetic response (CCyR) was defined as 0% Ph+ metaphases in the bone marrow based on a minimum of 20 metaphases evaluated.
 Best CCyR rate by 12 months (including patients who achieved CCyR at or before the 12 month time point as responders) was statistically higher for both nilotinib 300 mg and 400 mg twice daily compared to imatinib 400 mg once daily, see Table 9.
 
 CCyR rate by 24 months (includes patients who achieved CCyR at or before the 24 month time point as responders) was statistically higher for both the nilotinib 300 mg twice daily and 400 mg twice daily groups compared to the imatinib 400 mg once daily group.
-
 Table 9 Best CCyR rate
 
 |  | Nilotinib 300 mg twice daily n=282 (%) | Nilotinib 400 mg twice daily n=281 (%) | Imatinib 400 mg once daily n=283 (%) |
@@ -198,11 +197,11 @@ No new events of progression to AP/BC were reported on-treatment since the 2-yea
 
 Including clonal evolution as a criterion for progression, a total of 25 patients progressed to accelerated phase or blast crisis on treatment by the cut-off date (3 in the nilotinib 300 mg twice daily group, 5 in the nilotinib 400 mg twice daily group and 17 in the imatinib 400 mg once daily group).
 The estimated rates of patients free from progression to accelerated phase or blast crisis including clonal evolution at 72 months were 98.7%, 97.9% and 93.2%, respectively (HR=0.1626 and stratified log-rank p=0.0009 between nilotinib 300 mg twice daily and imatinib once daily, HR=0.2848 and stratified log-rank p=0.0085 between nilotinib 400 mg twice daily and imatinib once daily).
+
 A total of 55 patients died during treatment or during the follow-up after discontinuation of treatment (21 in the nilotinib 300 mg twice daily group, 11 in the nilotinib 400 mg twice daily group and 23 in the imatinib 400 mg once daily group).
 Twenty-six (26) of these 55 deaths were related to CML (6 in the nilotinib 300 mg twice daily group, 4 in the nilotinib 400 mg twice daily group and 16 in the imatinib 400 mg once daily group).
 The estimated rates of patients alive at 72 months were 91.6%, 95.8% and 91.4%, respectively (HR=0.8934 and stratified log-rank p=0.7085 between nilotinib 300 mg twice daily and imatinib, HR=0.4632 and stratified log-rank p=0.0314 between nilotinib 400 mg twice daily and imatinib).
 Considering only CML-related deaths as events, the estimated rates of overall survival at 72 months were 97.7%, 98.5% and 93.9%, respectively (HR=0.3694 and stratified log-rank p=0.0302 between nilotinib 300 mg twice daily and imatinib, HR=0.2433 and stratified log-rank p=0.0061 between nilotinib 400 mg twice daily and imatinib).
-
 Clinical studies in imatinib-resistant or intolerant CML in chronic phase and accelerated phase
 An open-label, uncontrolled, multicentre Phase II study was conducted to determine the efficacy of nilotinib in adult patients with imatinib resistant or intolerant CML with separate treatment arms for chronic and accelerated phase disease.
 Efficacy was based on 321 CP patients and 137 AP patients enrolled.
@@ -218,6 +217,7 @@ Table 10 Duration of exposure with nilotinib
 
 Resistance to imatinib included failure to achieve a complete haematological response (by 3 months), cytogenetic response (by 6 months) or major cytogenetic response (by 12 months) or progression of disease after a previous cytogenetic or haematological response.
 Imatinib intolerance included patients who discontinued imatinib because of toxicity and were not in major cytogenetic response at time of study entry.
+
 Overall, 73% of patients were imatinib-resistant, while 27% were imatinib-intolerant.
 The majority of patients had a long history of CML that included extensive prior treatment with other antineoplastic agents, including imatinib, hydroxyurea, interferon, and some had even failed organ transplant
 (Table 11).
@@ -240,7 +240,6 @@ Table 11 CML disease history characteristics
 The primary endpoint in the CP patients was major cytogenetic response (MCyR), defined as elimination (CCyR, complete cytogenetic response) or significant reduction to <35% Ph+ metaphases (partial cytogenetic response) of Ph+ haematopoietic cells.
 Complete haematological response (CHR) in CP patients was evaluated as a secondary endpoint.
 The primary endpoint in the AP patients was overall confirmed haematological response (HR), defined as either a complete haematological response, no evidence of leukaemia or return to chronic phase.
-
 Chronic phase
 The MCyR rate in 321 CP patients was 51%.
 Most responders achieved their MCyR rapidly within 3 months (median 2.8 months) of starting nilotinib treatment and these were sustained.
@@ -261,13 +260,14 @@ MCyR rate was 30% with a median time to response of 2.8 months.
 Of the patients who achieved MCyR, 63% (95% CI: 45% - 80%) were maintaining response at 24 months.
 Median duration of MCyR was 32.7 months.
 The estimated 24-month overall survival rate in CML-AP patients was 70%.
+
 The rates of response for the two treatment arms are reported in Table 12.
 
 Table 12 Response in CML
 
 | (Best response rate) | Chronic phase |  |  | Accelerated phase |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Intolerant (n=95) | Resistant (n=226) | Total (n=321) | Intolerant (n=27) | Resistant (n=109) | Total* (n=137) |
+|  | Intoleran t (n=95) | Resistant (n=226) | Total (n=321) | Intoleran t (n=27) | Resistant (n=109) | Total* (n=137) |
 | Haematological Response (%) |  |  |  |  |  |  |
 | Overall (95%CI) Complete NEL Return to CP | - 87 (74-94) - - | - 65 (56-72) - - | - 701 (63-76) - | 48 (29-68) 37 7 4 | 51 (42-61) 28 10 13 | 50 (42-59) 30 9 11 |
 | Cytogenetic Response (%) |  |  |  |  |  |  |
@@ -282,7 +282,6 @@ Separate treatment arms were also included in the Phase II study to investigate 
 Of these patients 30/36 (83%) were treatment resistant not intolerant.
 In 22 CP patients evaluated for efficacy nilotinib induced a 32% MCyR rate and a 50% CHR rate.
 In 11 AP patients, evaluated for efficacy, treatment induced a 36% overall HR rate.
-
 After imatinib failure, 24 different BCR-ABL mutations were noted in 42% of chronic phase and 54% of accelerated phase CML patients who were evaluated for mutations.
 Tasigna demonstrated efficacy in patients harboring a variety of BCR-ABL mutations associated with imatinib resistance, except T315I.
 
@@ -298,6 +297,7 @@ In an open-label, single-arm study, 215 adult patients with Ph+ CML in chronic p
 
 The primary endpoint was the percentage of patients in MMR at 48 weeks after starting the TFR phase (considering any patient who required re-initiation of treatment as non-responder).
 Of the 190 patients who entered the TFR phase, 98 patients (51.6% [95% CI: 44.2, 58.9]) were in MMR at 48 weeks.
+
 Eighty-eight patients (46.3%) discontinued the TFR phase due to loss of MMR, and 1 (0.5%),
 1 (0.5%), and 3 patients (1.6%) due to death from unknown cause, physician decision and subject decision, respectively.
 Among these 88 patients, 86 patients restarted nilotinib treatment and 2 patients permanently discontinued the study.
@@ -307,27 +307,27 @@ The Kaplan-Meier (KM) estimated median time on nilotinib treatment to regain MMR
 The KM estimated MMR and MR4.5 rates at 24 weeks of re-initiation were 98.8 % (95% CI: 94.2, 99.9) and 90.9 % (95% CI: 83.2, 96.0), respectively.
 
 The KM estimate of median treatment-free survival (TFS) has not yet been reached (Figure 4); 99 of 190 patients (52.1%) did not have a TFS event.
-
 Figure 4 Kaplan-Meier estimate of treatment-free survival after start of TFR (full analysis set)
 
 100
 90
 80
 70
+
 60
 50
 40
-30
 
-20 Pat Evt Cen
+30
+20
+Pat Evt Cen
 190 91 99
 10 Censored observations
-
 0
 
 0 12 24 36 48 60 72 84 96
 At risk : Events Time since TFR (weeks)
-190:0 165:25 120:70 108:81 90:89 38:91 12:91 1:91 0:91
+190: 165:2 120:70 108:8 90:8 38:9 12:9 1:9 0:9
 
 Treatment discontinuation in adult CML patients in chronic phase who have achieved a sustained deep molecular response on nilotinib treatment following prior imatinib therapy
 In an open-label, single-arm study, 163 adult patients with Ph+ CML in chronic phase taking tyrosine kinase inhibitors (TKIs) for ≥3 years (imatinib as initial TKI therapy for more than 4 weeks without documented MR4.5 on imatinib at the time of switch to nilotinib, then switched to nilotinib for at least two years), and who achieved MR4.5 on nilotinib treatment as measured with the MolecularMD MRDx BCR-ABL test were enrolled to continue nilotinib treatment for additional 52 weeks (nilotinib consolidation phase).
@@ -337,6 +337,7 @@ In an open-label, single-arm study, 163 adult patients with Ph+ CML in chronic p
 
 The primary endpoint was the proportion of patients without confirmed loss of MR4.0 or loss of MMR within 48 weeks following treatment discontinuation.
 Of the 126 patients who entered the TFR phase, 73 patients (57.9%, [95% CI: 48.8, 66.7]) had no loss of MMR, no confirmed loss of MR4.0, and no re-initiation of nilotinib within 48 weeks.
+
 Among the 53 patients who discontinued the TFR phase due to confirmed loss of MR4.0 or loss of MMR, 51 patients restarted nilotinib and 2 patients discontinued the study.
 Forty-eight of these 51 patients (94.1%) regained MR4.0 and 47 patients (92.2%) regained MR4.5 by the time of the cut-off date.
 
@@ -379,6 +380,7 @@ In the resistant or intolerant CML patients, the major molecular response (MMR; 
 In the newly diagnosed CML patients, the MMR rate was 60.0% (95% CI: 38.7, 78.9) at 12 cycles, with 15 patients achieving MMR.
 In resistant or intolerant CML patients, the cumulative MMR rate was 47.7% by cycle 12.
 In newly diagnosed CML patients, the cumulative MMR rate was 64.0% by cycle 12.
+
 Among the 21 resistant or intolerant CML patients who were in MMR at any time on treatment, the median time to first MMR was 2.76 months (95% CI: 0.03, 5.55).
 For the 17 newly diagnosed CML patients who achieved MMR, the median time to first MMR was 5.55 months (95% CI: 5.52, 5.75).
 
