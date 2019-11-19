@@ -6,7 +6,7 @@ As an IgG1қ monoclonal antibody, renal excretion and hepatic enzyme-mediated me
 As such, variations in drug-metabolising enzymes are not expected to affect the elimination of daratumumab.
 Due to the high affinity to a unique epitope on CD38, daratumumab is not anticipated to alter drug-metabolising enzymes.
 
-Clinical pharmacokinetic assessments of pomalidomide, thalidomide, and bortezomib indicated no clinically-relevant drug-drug interaction between DARZALEX and these combination therapies.
+Clinical pharmacokinetic assessments of daratumumab in combination with lenalidomide, pomalidomide, thalidomide, bortezomib and dexamethasone indicated no clinically-relevant drug-drug interaction between DARZALEX and these small molecule medicinal products.
 
 Interference with Indirect Antiglobulin Test (Indirect Coombs Test)
 Daratumumab binds to CD38 on RBCs and interferes with compatibility testing, including antibody screening and cross matching (see section 4.4).
