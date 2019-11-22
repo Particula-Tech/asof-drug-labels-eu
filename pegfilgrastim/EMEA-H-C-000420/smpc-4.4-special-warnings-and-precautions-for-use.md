@@ -8,7 +8,6 @@ Limited clinical data suggest a comparable effect on time to recovery of severe 
 However, the long-term effects of pegfilgrastim have not been established in AML; therefore, it should be used with caution in this patient population.
 
 Granulocyte-colony stimulating factor can promote growth of myeloid cells in vitro and similar effects may be seen on some non-myeloid cells in vitro.
-
 The safety and efficacy of pegfilgrastim have not been investigated in patients with myelodysplastic syndrome, chronic myelogenous leukaemia, and in patients with secondary AML; therefore, it should not be used in such patients.
 Particular care should be taken to distinguish the diagnosis of blast transformation of chronic myeloid leukaemia from AML.
 
@@ -47,7 +46,6 @@ Thrombocytopenia and anaemia
 Treatment with pegfilgrastim alone does not preclude thrombocytopenia and anaemia because full dose myelosuppressive chemotherapy is maintained on the prescribed schedule.
 Regular monitoring of platelet count and haematocrit is recommended.
 Special care should be taken when administering single or combination chemotherapeutic agents which are known to cause severe thrombocytopenia.
-
 Medication error as a result of device failure
 
 There is a risk of medication error, particularly a partial or missed dose of pegfilgrastim, in the event of a device failure or malfunction with the on-body injector.
@@ -58,12 +56,8 @@ The patient should also be given the Patient Alert Card.
 
 Sickle cell anaemia
 
-Sickle cell crises have been associated with the use of pegfilgrastim in patients with sickle cell trait or
-
-sickle cell disease (see section 4.8). Therefore, physicians should use caution when prescribing
-pegfilgrastim in patients with sickle cell trait or sickle cell disease, should monitor appropriate clinical
-parameters and laboratory status and be attentive to the possible association of this medicine with
-splenic enlargement and vaso-occlusive crisis.
+Sickle cell crises have been associated with the use of pegfilgrastim in patients with sickle cell trait or sickle cell disease (see section 4.8).
+Therefore, physicians should use caution when prescribing pegfilgrastim in patients with sickle cell trait or sickle cell disease, should monitor appropriate clinical parameters and laboratory status and be attentive to the possible association of this medicine with splenic enlargement and vaso-occlusive crisis.
 
 Leukocytosis
 
@@ -80,6 +74,11 @@ Permanently discontinue pegfilgrastim in patients with clinically significant hy
 Do not administer pegfilgrastim to patients with a history of hypersensitivity to pegfilgrastim or filgrastim.
 If a serious allergic reaction occurs, appropriate therapy should be administered, with close patient follow-up over several days.
 
+Stevens-Johnson syndrome
+
+Stevens-Johnson syndrome (SJS), which can be life-threatening or fatal, has been reported rarely in association with pegfilgrastim treatment.
+If the patient has developed SJS with the use of pegfilgrastim, treatment with pegfilgrastim must not be restarted in this patient at any time.
+
 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
@@ -92,7 +91,6 @@ Aortitis has been reported after G-CSF administration in healthy subjects and in
 The symptoms experienced included fever, abdominal pain, malaise, back pain and increased inflammatory markers (e.g. c-reactive protein and white blood cell count).
 In most cases aortitis was diagnosed by CT scan and generally resolved after withdrawal of GCSF.
 See also section 4.8.
-
 Other warnings
 
 The safety and efficacy of Neulasta for the mobilisation of blood progenitor cells in patients or healthy donors has not been adequately evaluated.
@@ -104,6 +102,7 @@ For patients who have reactions to acrylic adhesives, use of this product may re
 
 Increased haematopoietic activity of the bone marrow in response to growth factor therapy has been associated with transient positive bone-imaging findings.
 This should be considered when interpreting bone-imaging results.
+
 Neulasta contains sorbitol.
 Patients with rare hereditary problems of fructose intolerance should not take this medicine.
 
