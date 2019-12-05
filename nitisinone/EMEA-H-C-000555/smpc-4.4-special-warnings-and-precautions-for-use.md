@@ -17,6 +17,12 @@ Platelet and white blood cell (WBC) monitoring
 It is recommended that platelet and WBC counts are monitored regularly, as a few cases of reversible thrombocytopenia and leucopenia were observed during clinical evaluation.
 Monitoring visits should be performed every 6 months; shorter intervals between visits are recommended in case of adverse events.
 
+Concomitant use with other medicinal products
+Nitisinone is a moderate CYP2C9 inhibitor.
+Nitisinone treatment may therefore result in increased plasma concentrations of co-administered medicinal products metabolized primarily via CYP2C9.
+Nitisinone treated patients who are concomitantly treated with medicinal products with a narrow therapeutic window metabolized through CYP2C9, such as warfarin and phenytoin, should be carefully monitored.
+Dose-adjustment of these co-administered medicinal products may be needed (see section 4.5).
+
 [Orfadin 4 mg/ml oral suspension]
 
 Excipients with known effect:

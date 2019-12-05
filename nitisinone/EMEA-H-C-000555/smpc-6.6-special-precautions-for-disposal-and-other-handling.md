@@ -11,7 +11,6 @@ It is important to carefully follow the instructions given below for preparation
 
 Three oral syringes (1 ml, 3 ml and 5 ml) are provided for accurate measurement of the prescribed dose.
 It is recommended that the healthcare professional advises the patient or carer giver how to use the oral syringes to ensure that the correct volume is administered.
-
 How to prepare a new bottle of medicine for first time use:
 
 Before taking the first dose, the bottle should be shaken vigorously since during long-term storage the particles will form a solid cake at the bottom of the bottle.
@@ -28,6 +27,7 @@ The child-resistant screw cap should be removed by pushing it down firmly and tu
 The open bottle should be placed upright on a table, and the plastic adapter pushed firmly into the neck of the bottle as far as possible (Figure C). The bottle should be closed with the child resistant screw cap.
 
 For subsequent dosing see the instructions below ‘How to prepare a dose of medicine’
+
 How to prepare a dose of medicine
 
 Figure D. Figure E. Figure F.

@@ -37,7 +37,6 @@ Data from a study used as a historical control (van Spronsen et al., 1994) showe
 
 Treatment with nitisinone was also found to result in reduced risk for the development of hepatocellular carcinoma compared to historical data on treatment with dietary restriction alone.
 It was found that the early initiation of treatment resulted in a further reduced risk for the development of hepatocellular carcinoma.
-
 The 2-, 4-, and 6-year probability of no occurrence of HCC during nitisinone treatment for patients aged 24 months or younger at the start of treatment and for those older than 24 months at the start of treatment is shown in the following table:
 
 | NTBC study (N=250) |  |  |  |  |  |  |  |

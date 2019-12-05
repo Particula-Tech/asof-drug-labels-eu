@@ -61,7 +61,7 @@ Dose conversion tables respectively for the three oral syringe sizes:
 |  | 3.75 | 0.94 |
 |  | 4.00 | 1.00 |
 
-| 3-ml oral syringe (0.1 ml graduation ) | Dose Orfadin |  |
+| 3-ml oral syringe (0.1 ml graduation) | Dose Orfadin |  |
 | --- | --- | --- |
 |  | mg | ml |
 |  | 4.5 | 1.1 |
@@ -81,7 +81,7 @@ Dose conversion tables respectively for the three oral syringe sizes:
 |  | 11.5 | 2.9 |
 |  | 12.0 | 3.0 |
 
-| 5-ml oral syringe (0.2 ml graduation ) | Dose Orfadin |  |
+| 5-ml oral syringe (0.2 ml graduation) | Dose Orfadin |  |
 | --- | --- | --- |
 |  | mg | ml |
 |  | 13.0 | 3.2 |
@@ -100,7 +100,7 @@ The dose should be withdrawn and administered immediately after re-dispersion.
 It is important to carefully follow the instructions given in section 6.6 for preparation and administration of the dose, in order to ensure the dosing accuracy.
 It is recommended that the healthcare professional advises the patient or care giver how to use the oral syringes to ensure that the correct volume is administered and that the prescription is given in ml.
 
-Orfadin is also available in 2 mg, 5 mg, 10mg and 20 mg capsules, if considered more suitable for the patient.
+Orfadin is also available in 2 mg, 5 mg, 10 mg and 20 mg capsules, if considered more suitable for the patient.
 
 It is recommended that the oral suspension is taken with food, see section 4.5.
 Precautions to be taken before handling or administering the medicinal product
