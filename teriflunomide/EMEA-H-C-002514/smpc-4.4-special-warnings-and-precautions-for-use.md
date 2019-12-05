@@ -28,9 +28,8 @@ Hepatic effects
 Elevations of liver enzymes have been observed in patients receiving teriflunomide (see section 4.8).
 These elevations occurred mostly within the first 6 months of treatment.
 Teriflunomide therapy should be discontinued if liver injury is suspected; consider discontinuing teriflunomide therapy if elevated liver enzymes (greater than 3-fold ULN) are confirmed.
-Patients with pre-existing liver disease may be at increased risk of developing elevated liver enzymes when taking teriflunomide and should be closely monitored for signals of liver disease.
 
-The medicinal product should be used with caution in patients who consume substantial quantities of alcohol.
+Patients with pre-existing liver disease and/or who consume substantial quantities of alcohol may be at increased risk of developing elevated liver enzymes when taking teriflunomide and should be closely monitored for signals of liver disease.
 
 Hypoproteinaemia
 
@@ -95,13 +94,13 @@ Vaccination
 
 Two clinical studies have shown that vaccinations to inactivated neoantigen (first vaccination), or recall antigen (reexposure) were safe and effective during AUBAGIO treatment.
 The use of live attenuated vaccines may carry a risk of infections and should therefore be avoided.
+
 Immunosuppressive or immunomodulating therapies
 
 As leflunomide is the parent compound of teriflunomide, co-administration of teriflunomide with leflunomide is not recommended.
 Co-administration with antineoplastic or immunosuppressive therapies used for treatment of MS has not been evaluated.
 Safety studies, in which teriflunomide was concomitantly administered with interferon beta or with glatiramer acetate for up to one year did not reveal any specific safety concerns, but a higher adverse reaction rate as compared to teriflunomide monotherapy was observed.
 The long term safety of these combinations in the treatment of multiple sclerosis has not been established.
-
 Switching to or from AUBAGIO
 
 Based on the clinical data related to concomitant administration of teriflunomide with interferon beta or with glatiramer acetate, no waiting period is required when initiating teriflunomide after interferon beta or glatiramer acetate or when starting interferon beta or glatiramer acetate, after teriflunomide.

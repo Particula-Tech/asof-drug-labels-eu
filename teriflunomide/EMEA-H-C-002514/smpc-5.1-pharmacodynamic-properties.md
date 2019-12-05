@@ -20,7 +20,6 @@ Effect on renal tubular functions
 In the placebo-controlled studies, mean decreases in serum uric acid at a range of 20 to 30% were observed in patients treated with teriflunomide compared to placebo.
 Mean decrease in serum phosphorus was around 10% in the teriflunomide group compared to placebo.
 These effects are considered to be related to increase in renal tubular excretion and not related to changes in glomerular functions.
-
 Clinical efficacy and safety
 
 The efficacy of AUBAGIO was demonstrated in two placebo controlled studies, the TEMSO and the TOWER study, that evaluated once daily doses of teriflunomide 7 mg and 14 mg in patients with RMS.
@@ -35,6 +34,8 @@ The median EDSS score at baseline was 2.50; 249 patients (22.9%) had an EDSS sco
 The mean duration of disease, since first symptoms, was 8.7 years.
 A majority of patients (73%) had not received disease-modifying therapy during the 2 years before study entry.
 The study results are shown in Table 1.
+
+Long term follow-up results from TEMSO long term extension safety study (overall median treatment duration approximately 5 years, maximum treatment duration approximately 8.5 years) did not present any new or unexpected safety findings.
 
 A total of 1169 patients with RMS were randomised in TOWER to receive 7 mg (n=408) or 14 mg (n=372) of teriflunomide or placebo (n= 389) for a variable treatment duration ending at 48 weeks after last patient randomised.
 All patients had a definite diagnosis of MS (based on McDonald criteria (2005)), exhibited a relapsing clinical course, with or without progression, and experienced at least 1 relapse over the year preceding the trial or at least 2 relapses over the 2 years preceding the trial.

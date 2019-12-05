@@ -16,12 +16,13 @@ Adverse reactions reported with AUBAGIO in placebo-controlled studies, reported 
 Frequencies were defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are ranked in order of decreasing seriousness.
 
-System organ Very Common Uncommo Rare Very rare Not known
-class common n
-Infections and Influenza, Upper Severe
-infestations respiratory tract infections
-infection, including
-Urinary tract sepsisa
+System organ Very Common Uncommon Rare Very Not known
+class common rare
+Infections and Influenza, Severe
+infestations Upper infections
+respiratory tract including
+infection, sepsisa
+Urinary tract
 infection,
 Bronchitis,
 Sinusitis,
@@ -34,9 +35,8 @@ Tooth infection,
 Laryngitis,
 Tinea pedis
 Blood and Neutropeniab, Mild
-lymphatic Anaemia thrombocy
-system disorders topenia
-(platelets
+lymphatic Anaemia thrombocytopen
+system disorders ia (platelets
 <100G/l)
 Immune system Mild allergic Hyper-
 disorders reactions sensitivity
@@ -49,11 +49,10 @@ and
 angioedema
 Psychiatric Anxiety
 disorders
-Nervous system Headache Paraesthesia, Hyperaest
-disorders Sciatica, hesia,
-Carpal tunnel Neuralgia,
-syndrome Peripheral
-neuropathy
+Nervous system Headache Paraesthesia, Hyperaesthesia,
+disorders Sciatica, Neuralgia,
+Carpal tunnel Peripheral
+syndrome neuropathy
 Cardiac Palpitations
 disorders
 Vascular Hypertensionb
@@ -67,18 +66,20 @@ disorders Nausea upper, Stomatitis
 Vomiting,
 Toothache
 Hepatobiliary Alanine Gamma- Acute
-disorders aminotransf glutamyltransfera hepatitis
-erase (ALT) se (GGT)
+disorders aminotransfer glutamyltransfer hepatitis
+ase (ALT) ase (GGT)
 increaseb increaseb,
 Aspartate
-aminotransferase
-System organ Very Common Uncommo Rare Very rare Not known
-class common n
-increaseb
-Skin and Alopecia Rash, Severe skin
-subcutaneous Acne reactionsa
-tissue disorders Nail
+aminotransferas
+System organ Very Common Uncommon Rare Very Not known
+class common rare
+e increaseb
+Metabolism and Dyslipidaem
+nutrition ia
 disorders
+Skin and Alopecia Rash, Acne Nail disorders Severe skin
+subcutaneous reactionsa
+tissue disorders
 Musculoskeletal Musculoskeletal
 and connective pain,
 tissue disorders Myalgia,
@@ -88,21 +89,21 @@ urinary disorders
 Reproductive Menorrhagia
 system and
 breast disorders
-General Pain Asthenia
+General Pain, Astheniaa
 disorders and
 administration
 site conditions
-Investigations Weight decrease,
-Neutrophil count
-decreaseb,
+Investigations Weight
+decrease,
+Neutrophil
+count decreaseb,
 White blood cell
 count decreaseb,
 Blood creatine
 phosphokinase
 increased
-Injury, Post-
-poisoning and traumatic
-procedural pain
+Injury, poisoning Post-traumatic
+and procedural pain
 complications
 
 a: please refer to the detailed description section b: see section 4.4
@@ -123,13 +124,13 @@ Placebo Teriflunomide 14 mg
 (N=997) (N=1002)
 >3 ULN 66/994 (6.6%) 80/999 (8.0%)
 >5 ULN 37/994 (3.7%) 31/999 (3.1%)
->10 ULN 16/994 (1.6%) 9/999 (0.9%)
->20 ULN 4/994 (0.4%) 3/999 (0.3%)
 
 ALT increase (based on laboratory data) according to baseline status - Safety population in placebo-controlled studies
 
 Placebo Teriflunomide 14 mg
 (N=997) (N=1002)
+>10 ULN 16/994 (1.6%) 9/999 (0.9%)
+>20 ULN 4/994 (0.4%) 3/999 (0.3%)
 ALT >3 ULN and TBILI >2 ULN 5/994 (0.5%) 3/999 (0.3%)
 
 Mild increases in transaminase, ALT below or equal to 3-fold ULN were more frequently seen in teriflunomide-treated groups as compared to placebo.
@@ -167,6 +168,8 @@ The risk of malignancy, particularly lymphoproliferative disorders, is increased
 Severe skin reactions
 Cases of severe skin reactions have been reported with teriflunomide post-marketing (see section 4.4).
 
+Asthenia
+In placebo-controlled studies, frequencies for asthenia were 2.0%, 1.6% and 2.2% in the placebo, teriflunomide 7 mg and teriflunomide 14 mg group, respectively.
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

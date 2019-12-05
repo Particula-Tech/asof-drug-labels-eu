@@ -39,6 +39,7 @@ Breast-feeding
 
 Animal studies have shown excretion of teriflunomide in milk.
 Teriflunomide is contraindicated during breast-feeding (see section 4.3).
+
 Fertility
 
 Results of studies in animals have not shown an effect on fertility (see section 5.3).
