@@ -2,7 +2,7 @@
 
 4 years.
 
-[Kalydeco 50 mg granules in sachet]
+[Kalydeco 25 mg granules in sachet]
 
 3 years.
 

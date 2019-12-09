@@ -1,29 +1,32 @@
 # 6.1 List of excipients
 
 Tablet core
+
 Cellulose, microcrystalline
 Lactose monohydrate
 Hypromellose acetate succinate
 Croscarmellose sodium
 Sodium laurilsulfate (E487)
-Colloidal silicon dioxide
+Silica, colloidal anhydrous
 Magnesium stearate
 
 Tablet film coat
+
 Polyvinyl alcohol
 Titanium dioxide (E171)
 Macrogol (PEG 3350)
 Talc
-Indigo carmine aluminum lake (E132)
+Indigo carmine aluminium lake (E132)
 Carnauba wax
 
 Printing ink
+
 Shellac
 Iron oxide black (E172)
 Propylene glycol (E1520)
-Ammonium hydroxide
+Ammonia solution, concentrated
 
-[Kalydeco 50 mg granules in sachet]
+[Kalydeco 25 mg granules in sachet]
 
 Mannitol
 Sucralose
