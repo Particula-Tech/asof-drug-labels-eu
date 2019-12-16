@@ -95,14 +95,17 @@ A multidisciplinary consultation (i.e. infectious disease specialist) should be 
 
 Progressive multifocal leukoencephalopathy (PML) has been reported under fingolimod treatment since marketing authorisation (see section 4.8).
 PML is an opportunistic infection caused by John Cunningham virus (JCV), which may be fatal or result in severe disability.
-Cases of PML have occurred after approximately 2-3 years of monotherapy treatment without previous exposure to natalizumab, although an exact relationship with the duration of treatment is unknown.
+Cases of PML have occurred after approximately 2-3 years of monotherapy treatment without previous exposure to natalizumab.
+Although the estimated risk appears to increase with cumulative exposure over time, an exact relationship with the duration of treatment is unknown.
 Additional PML cases have occurred in patients who had been treated previously with natalizumab, which has a known association with PML.
 PML can only occur in the presence of a JCV infection.
 If JCV testing is undertaken, it should be considered that the influence of lymphopenia on the accuracy of anti-JCV antibody testing has not been studied in fingolimod-treated patients.
 It should also be noted that a negative anti-JCV antibody test does not preclude the possibility of subsequent JCV infection.
 Before initiating treatment with fingolimod, a baseline MRI should be available (usually within 3 months) as a reference.
+MRI findings may be apparent before clinical signs or symptoms.
 During routine MRI (in accordance with national and local recommendations), physicians should pay attention to PML suggestive lesions.
 MRI may be considered as part of increased vigilance in patients considered at increased risk of PML.
+Cases of asymptomatic PML based on MRI findings and positive JCV DNA in the cerebrospinal fluid have been reported in patients treated with fingolimod.
 If PML is suspected, MRI should be performed immediately for diagnostic purposes and treatment with fingolimod should be suspended until PML has been excluded.
 
 Human papilloma virus (HPV) infection, including papilloma, dysplasia, warts and HPV-related cancer, has been reported under treatment with fingolimod in the post-marketing setting.
@@ -153,10 +156,10 @@ Interference with serological testing
 
 Since fingolimod reduces blood lymphocyte counts via re-distribution in secondary lymphoid organs, peripheral blood lymphocyte counts cannot be utilised to evaluate the lymphocyte subset status of a patient treated with Gilenya.
 Laboratory tests involving the use of circulating mononuclear cells require larger blood volumes due to reduction in the number of circulating lymphocytes.
+
 Blood pressure effects
 
 Patients with hypertension uncontrolled by medication were excluded from participation in premarketing clinical trials and special care is indicated if patients with uncontrolled hypertension are treated with Gilenya.
-
 In MS clinical trials, patients treated with fingolimod 0.5 mg had an average increase of approximately 3 mmHg in systolic pressure, and approximately 1 mmHg in diastolic pressure, first detected approximately 1 month after treatment initiation, and persisting with continued treatment.
 In the two-year placebo-controlled study, hypertension was reported as an adverse event in 6.5% of patients on fingolimod 0.5 mg and in 3.3% of patients on placebo.
 Therefore, blood pressure should be regularly monitored during treatment with Gilenya.
@@ -194,19 +197,27 @@ Alemtuzumab has profound and prolonged immunosuppressive effects.
 As the actual duration of these effects is unknown, initiating treatment with Gilenya after alemtuzumab is not recommended unless the benefits of such treatment clearly outweigh the risks for the individual patient.
 
 A decision to use prolonged concomitant treatment with corticosteroids should be taken after careful consideration.
+
 Co-administration with potent CYP450 inducers
 
 The combination of fingolimod with potent CYP450 inducers should be used with caution.
 Concomitant administration with St John’s wort is not recommended (see section 4.5).
+Malignancies
 
-Cutaneous neoplasms
-
+Cutaneous malignancies
 Basal cell carcinoma (BCC) and other cutaneous neoplasms, including malignant melanoma, squamous cell carcinoma, Kaposi’s sarcoma and Merkel cell carcinoma, have been reported in patients receiving Gilenya (see section 4.8).
 Vigilance for skin lesions is warranted and a medical evaluation of the skin is recommended at initiation, and then every 6 to 12 months taking into consideration clinical judgement.
 The patient should be referred to a dermatologist in case suspicious lesions are detected.
 
 Since there is a potential risk of malignant skin growths, patients treated with fingolimod should be cautioned against exposure to sunlight without protection.
 These patients should not receive concomitant phototherapy with UV-B-radiation or PUVA-photochemotherapy.
+
+Lymphomas
+There have been cases of lymphoma in clinical studies and the post-marketing setting (see section 4.8).
+The cases reported were heterogeneous in nature, mainly non-Hodgkin’s lymphoma, including B-cell and T-cell lymphomas.
+Cases of cutaneous T-cell lymphoma (mycosis fungoides) have been observed.
+A fatal case of Epstein-Barr virus (EBV) positive B-cell lymphoma has also been observed.
+If lymphoma is suspected, Gilenya should be discontinued.
 
 Women of childbearing potential
 

@@ -22,7 +22,7 @@ Tabulated list of adverse reactions
 | Blood and lymphatic system disorders |  |
 | Common: | Lymphopenia Leucopenia |
 | Uncommon: | Thrombocytopenia |
-| Not known: | Peripheral oedema*** |
+| Not known: | Autoimmune haemolytic anaemia*** Peripheral oedema*** |
 | Immune system disorders |  |
 | Not known: | Hypersensitivity reactions, including rash, urticaria and angioedema upon treatment initiation*** |
 | Psychiatric disorders |  |
@@ -57,7 +57,7 @@ Tabulated list of adverse reactions
 | Common: | Asthenia |
 | Investigations |  |
 | Very common: | Hepatic enzyme increased (increased ALT, Gamma glutamyltransferase, Aspartate transaminase) |
-| Common: | Blood triglycerides increased |
+| Common: | Weight decreased*** Blood triglycerides increased |
 | Uncommon: | Neutrophil count decreased |
 | * Not reported in Studies FREEDOMS, FREEDOMS II and TRANSFORMS. The frequency category was based on an estimated exposure of approximately 10,000 patients to fingolimod in all clinical trials. ** PML and cryptococcal infections (including cases of cryptococcal meningitis) have been reported in the post-marketing setting (see section 4.4). *** Adverse drug reactions from spontaneous reports and literature **** The frequency category and risk assessment were based on an estimated exposure of more than 24,000 patients to fingolimod 0.5 mg in all clinical trials. |  |
 
@@ -81,10 +81,10 @@ The majority of cases occurred within the first 3-4 months of therapy.
 Some patients presented with blurred vision or decreased visual acuity, but others were asymptomatic and diagnosed on routine ophthalmological examination.
 The macular oedema generally improved or resolved spontaneously after discontinuation of Gilenya.
 The risk of recurrence after re-challenge has not been evaluated.
-
 Macular oedema incidence is increased in multiple sclerosis patients with a history of uveitis (17% with a history of uveitis vs. 0.6% without a history of uveitis).
 Gilenya has not been studied in multiple sclerosis patients with diabetes mellitus, a disease which is associated with an increased risk for macular oedema (see section 4.4).
 In renal transplant clinical studies in which patients with diabetes mellitus were included, therapy with fingolimod 2.5 mg and 5 mg resulted in a 2-fold increase in the incidence of macular oedema.
+
 Bradyarrhythmia
 Initiation of Gilenya treatment results in a transient decrease in heart rate and may also be associated with atrioventricular conduction delays.
 In multiple sclerosis clinical studies the maximal decline in heart rate was seen within 6 hours after treatment initiation, with declines in mean heart rate of 12-13 beats per minute for Gilenya 0.5 mg.
@@ -132,7 +132,7 @@ For DLCO the reductions at month 24 were 3.3% for fingolimod 0.5 mg and 2.7% for
 
 Lymphomas
 There have been cases of lymphoma of different varieties, in both clinical studies and the post-marketing setting, including a fatal case of Epstein-Barr virus (EBV) positive B-cell lymphoma.
-The incidence of lymphoma (B-cell and T-cell) cases was higher in clinical trials than expected in the general population.
+The incidence of non-Hodgkin’s lymphoma (B-cell and T-cell) cases was higher in clinical trials than expected in the general population.
 Some T-cell lymphoma cases were also reported in the post-marketing setting, including cases of cutaneous T-cell lymphoma (mycosis fungoides).
 
 Haemophagocytic syndrome
