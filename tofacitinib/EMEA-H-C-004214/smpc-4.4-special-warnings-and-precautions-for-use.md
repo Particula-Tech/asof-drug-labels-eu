@@ -33,6 +33,7 @@ Risk of infection may be higher with increasing degrees of lymphopenia and consi
 Discontinuation and monitoring criteria for lymphopenia are discussed in section 4.2.
 
 Tuberculosis
+
 The risks and benefits of treatment should be considered prior to initiating tofacitinib in patients:
 
 - who have been exposed to TB,
@@ -47,6 +48,7 @@ Consultation with a healthcare professional with expertise in the treatment of T
 Patients should be closely monitored for the development of signs and symptoms of TB, including patients who tested negative for latent TB infection prior to initiating therapy.
 
 Viral reactivation
+
 Viral reactivation and cases of herpes virus reactivation (e.g., herpes zoster) were observed in clinical studies with tofacitinib.
 In patients treated with tofacitinib, the incidence of herpes zoster appears to be increased in:
 
@@ -58,7 +60,6 @@ In patients treated with tofacitinib, the incidence of herpes zoster appears to 
 The impact of tofacitinib on chronic viral hepatitis reactivation is unknown.
 Patients screened positive for hepatitis B or C were excluded from clinical trials.
 Screening for viral hepatitis should be performed in accordance with clinical guidelines before starting therapy with tofacitinib.
-
 Malignancy and lymphoproliferative disorder
 
 The risks and benefits of tofacitinib treatment should be considered prior to initiating therapy in patients with current or a history of malignancy other than a successfully treated non-melanoma skin cancer (NMSC) or when considering continuing tofacitinib in patients who develop a malignancy.
@@ -73,15 +74,17 @@ Other malignancies were observed in clinical studies and the post-marketing sett
 The effect of tofacitinib on the development and course of malignancies is not known.
 
 Non-melanoma skin cancer
+
 NMSCs have been reported in patients treated with tofacitinib.
 The risk of NMSC may be higher in patients treated with tofacitinib 10 mg twice daily than in patients treated with 5 mg twice daily.
 Periodic skin examination is recommended for patients who are at increased risk for skin cancer (see Table 6 in section 4.8).
 
 Pulmonary embolism
 
-Pulmonary embolism (PE) has been observed in patients taking tofacitinib in clinical trials and post marketing reports.
+Pulmonary embolism (PE) has been observed in patients taking tofacitinib in clinical trials and post-marketing reports.
 Tofacitinib 10 mg twice daily is contraindicated in patients who are at high risk for pulmonary embolism (see also section 4.3).
 Additional risk factors that should be considered in determining the patient’s risk for PE are older age, obesity, smoking status, and immobilisation.
+
 Interstitial lung disease
 
 Caution is also recommended in patients with a history of chronic lung disease as they may be more prone to infections.
@@ -93,7 +96,6 @@ Gastrointestinal perforations
 Events of gastrointestinal perforation have been reported in clinical trials although the role of JAK inhibition in these events is not known.
 Tofacitinib should be used with caution in patients who may be at increased risk for gastrointestinal perforation (e.g., patients with a history of diverticulitis, patients with concomitant use of corticosteroids and/or nonsteroidal anti-inflammatory drugs).
 Patients presenting with new onset abdominal signs and symptoms should be evaluated promptly for early identification of gastrointestinal perforation.
-
 Cardiovascular risk
 
 RA and PsA patients have an increased risk for cardiovascular disorders.
@@ -154,7 +156,32 @@ If the history of chickenpox is considered doubtful or unreliable it is recommen
 Vaccination with live vaccines should occur at least 2 weeks but preferably 4 weeks prior to initiation of tofacitinib or in accordance with current vaccination guidelines regarding immunomodulatory medicinal products.
 No data are available on the secondary transmission of infection by live vaccines to patients receiving tofacitinib.
 
-Lactose
+Excipients with known effect
 
 This medicinal product contains lactose.
-Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+
+[XELJANZ 11 mg prolonged-release tablets]
+
+Tofacitinib has not been studied and its use should be avoided in combination with biologics such as TNF antagonists, interleukin (IL)-1R antagonists, IL-6R antagonists, anti-CD20 monoclonal antibodies, selective co-stimulation modulators and potent immunosuppressants such as azathioprine, 6-mercaptopurine, ciclosporine and tacrolimus because of the possibility of increased immunosuppression and increased risk of infection.
+
+Pulmonary embolism (PE) has been observed in patients taking tofacitinib in clinical trials and post marketing reports.
+Tofacitinib 10 mg twice daily is contraindicated in patients who are at high risk for pulmonary embolism.
+
+RA patients have an increased risk for cardiovascular disorders.
+
+For recommended modifications based on lymphocyte counts (see section 4.2).
+
+For recommended modifications based on ANC (see section 4.2).
+
+For recommended modifications based on haemoglobin level (see section 4.2).
+
+Gastrointestinal obstruction with a non-deformable prolonged-release formulation
+
+Caution should be used when administering tofacitinib 11 mg prolonged-release tablets to patients with pre-existing severe gastrointestinal narrowing (pathologic or iatrogenic).
+There have been rare reports of obstructive symptoms in patients with known strictures in association with the ingestion of other medicinal products utilising a non-deformable prolonged-release formulation.
+
+Tofacitinib 11 mg prolonged-release tablets contains sorbitol.
+The additive effect of concomitantly administered products containing sorbitol (or fructose) and dietary intake of sorbitol (or fructose) should be taken into account.
+
+The content of sorbitol in medicinal products for oral use may affect the bioavailability of other medicinal products for oral use administered concomitantly.

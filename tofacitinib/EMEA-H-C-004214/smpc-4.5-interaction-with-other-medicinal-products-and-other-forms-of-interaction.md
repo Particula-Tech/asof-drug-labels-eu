@@ -13,36 +13,33 @@ Coadministration of tofacitinib with potent CYP inducers (e.g., rifampicin) may 
 Coadministration of potent inducers of CYP3A4 with tofacitinib is not recommended.
 Coadministration with ketoconazole and fluconazole increased tofacitinib Cmax, while tacrolimus, ciclosporine and rifampicin decreased tofacitinib Cmax.
 Concomitant administration with MTX 15-25 mg once weekly had no effect on the PK of tofacitinib in RA patients (see Figure 1).
-
 Figure 1.
-Impact of Other Medicinal Products on PK of Tofacitinib
+Impact of other medicinal products on PK of tofacitinib
 
-Coadministered P Ratio and 90% CI Recommendation
+Coadministered PK Ratio and 90% CI Recommendation
 
-Dru
+Drug
 
-CYP3A Inhibitor
+CYP3A InhibitorKetoconazole AUC Tofacitinib dose should be reduced a
 
-Ketoconazol AU Reduce Tofacitinib Dosea
+Cmax
 
-Cma
+CYP3A & CYP2C19 Inhibitor Fluconazole AUC Tofacitinib dose should be reduced a
 
-CYP3A & CYP2C19 Inhibitor Fluconazol AU Reduce Tofacitinib Dosea
+Cmax
 
-Cma
+CYP InducerRifampicin AUC Efficacy may be decreased
 
-CYP Inducer Rifampicin AU May Decrease
+Cmax
 
-Cma
+Methotrexate AUC No dose adjustment
 
-Methotrexate AU No Dose Adjustment
+Cmax
 
-Cma
-
-Tacrolimus AU Combined use of Tofacitinib with
-Cma Tacrolimus should be avoided
-Ciclosporine AU Combined use of Tofacitinib with
-Cma Ciclosporine should be avoided
+Tacrolimus AUC Combined use of tofacitinib with
+Cmax tacrolimus should be avoided
+Ciclosporine AUC Combined use of tofacitinib with
+Cmax ciclosporine should be avoided
 
 0 0.5 1 1.5 2 2.5
 Ratio relative to reference
@@ -57,3 +54,9 @@ Coadministration of tofacitinib did not have an effect on the PK of oral contrac
 
 In RA patients, coadministration of tofacitinib with MTX 15-25 mg once weekly decreased the AUC and Cmax of MTX by 10% and 13%, respectively.
 The extent of decrease in MTX exposure does not warrant modifications to the individualised dosing of MTX.
+
+[XELJANZ 11 mg prolonged-release tablets]
+
+CYP3A & CYP2C19 InhibitorFluconazole AUC Tofacitinib dose should be reduced a
+
+a Tofacitinib dose should be reduced to 5 mg (as film-coated tablet) once daily in patients receiving 11 mg (as prolonged-release tablet) once daily (see section 4.2).

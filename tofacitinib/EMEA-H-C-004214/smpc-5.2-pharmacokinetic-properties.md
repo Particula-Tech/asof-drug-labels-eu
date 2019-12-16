@@ -17,12 +17,11 @@ Biotransformation and elimination
 
 Clearance mechanisms for tofacitinib are approximately 70% hepatic metabolism and 30% renal excretion of the parent drug.
 The metabolism of tofacitinib is primarily mediated by CYP3A4 with minor contribution from CYP2C19.
-In a human radiolabeled study, more than 65% of the total circulating radioactivity was accounted for by unchanged active substance, with the remaining 35% attributed to 8 metabolites, each accounting for less than 8% of total radioactivity.
+In a human radiolabelled study, more than 65% of the total circulating radioactivity was accounted for by unchanged active substance, with the remaining 35% attributed to 8 metabolites, each accounting for less than 8% of total radioactivity.
 All metabolites have been observed in animal species and are predicted to have less than 10-fold potency than tofacitinib for JAK1/3 inhibition.
 No evidence of stereo conversion in human samples was detected.
 The pharmacologic activity of tofacitinib is attributed to the parent molecule.
-Tofacitinib is not an inhibitor or inducer of CYPs (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4) and is not an inhibitor of UGTs (UGT1A1, UGT1A4, UGT1A6, UGT1A9, and UGT2B7).
-In vitro, tofacitinib is a substrate for MDR1, but not for breast cancer resistance protein (BCRP), OATP1B1/1B3, or OCT1/2, and is not an inhibitor of MDR1, OATP1B1/1B3, OCT2, OAT1/3, or MRP at clinically meaningful concentrations.
+In vitro, tofacitinib is a substrate for MDR1, but not for breast cancer resistance protein (BCRP), OATP1B1/1B3, or OCT1/2.
 Pharmacokinetics in patients
 
 The enzymatic activity of CYP enzymes is reduced in RA patients due to chronic inflammation.
@@ -49,3 +48,16 @@ Hepatic impairment
 
 Subjects with mild (Child Pugh A) and moderate (Child Pugh B) hepatic impairment had 3%, and 65% higher AUC, respectively, compared to subjects with normal hepatic function.
 In clinical trials, tofacitinib was not evaluated in subjects with severe (Child Pugh C) hepatic impairment (see sections 4.2 and 4.4), or in patients screened positive for hepatitis B or C.
+
+Drug interactions
+
+Tofacitinib is not an inhibitor or inducer of CYPs (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4) and is not an inhibitor of UGTs (UGT1A1, UGT1A4, UGT1A6, UGT1A9, and UGT2B7).
+Tofacitinib is not an inhibitor of MDR1, OATP1B1/1B3, OCT2, OAT1/3, or MRP at clinically meaningful concentrations.
+
+[XELJANZ 11 mg prolonged-release tablets]
+
+Following oral administration of tofacitinib 11 mg prolonged-release tablet, peak plasma concentrations are reached at 4 hours and half-life is ~6 hours.
+Steady state concentrations are achieved within 48 hours with negligible accumulation after once daily administration.
+Steady-state AUC and Cmax of tofacitinib for tofacitinib 11 mg prolonged-release tablet administered once daily are equivalent to those of tofacitinib 5 mg film-coated tablets administered twice daily.
+
+Coadministration of tofacitinib 11 mg prolonged-release tablet with a high-fat meal resulted in no changes in AUC while Cmax was increased by 27%.

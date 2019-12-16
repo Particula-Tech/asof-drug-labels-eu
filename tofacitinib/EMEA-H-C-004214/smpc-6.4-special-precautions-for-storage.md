@@ -2,4 +2,4 @@
 
 This medicinal product does not require any special temperature storage conditions.
 
-Store in the original, bottle and/or blister, in order to protect from moisture.
+Store in the original package in order to protect from moisture.

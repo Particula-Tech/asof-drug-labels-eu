@@ -2,3 +2,7 @@
 
 XELJANZ 5 mg film-coated tablets
 XELJANZ 10 mg film-coated tablets
+
+[XELJANZ 11 mg prolonged-release tablets]
+
+XELJANZ 11 mg prolonged-release tablets
