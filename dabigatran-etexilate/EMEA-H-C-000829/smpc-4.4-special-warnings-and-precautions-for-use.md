@@ -145,6 +145,11 @@ Interaction with P-gp inducers
 
 Concomitant administration of P-gp inducers is expected to result in decreased dabigatran plasma concentrations, and should be avoided (see sections 4.5 and 5.2).
 
+Patients with antiphospholipid syndrome
+
+Direct acting Oral Anticoagulants (DOACs) including dabigatran etexilate are not recommended for patients with a history of thrombosis who are diagnosed with antiphospholipid syndrome.
+In particular for patients that are triple positive (for lupus anticoagulant, anticardiolipin antibodies, and anti–beta 2-glycoprotein I antibodies), treatment with DOACs could be associated with increased rates of recurrent thrombotic events compared with vitamin K antagonist therapy.
+
 [Pradaxa 110 mg hard capsules]
 
 In clinical trials, Pradaxa was associated with higher rates of major gastrointestinal (GI) bleeding.
@@ -194,7 +199,6 @@ In the three active controlled DVT/PE phase III studies, a higher rate of MI was
 The increase was statistically significant in this study (p=0.022).
 
 In the RE-SONATE study, which compared dabigatran etexilate to placebo, the rate of MI was 0.1% for patients who received dabigatran etexilate and 0.2% for patients who received placebo
-
 Active Cancer Patients (DVT/PE)
 
 The efficacy and safety have not been established for DVT/PE patients with active cancer.

@@ -58,6 +58,7 @@ Table 8: Adverse reactions
 | Hyperbilirubinaemia | Uncommon |
 | Skin and subcutaneous tissue disorder |  |
 | Skin haemorrhage | Uncommon |
+| Alopecia | Not known |
 | Musculoskeletal and connective tissue disorders |  |
 | Haemarthrosis | Uncommon |
 | Renal and urinary disorders |  |
@@ -111,7 +112,6 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 [Pradaxa 110 mg hard capsules]
 
 The safety of Pradaxa has been evaluated in ten phase III studies including 23,393 patients exposed to Pradaxa (see Table 10).
-
 Table 10: Number of patients studied, maximum daily dose in phase III studies
 
 | Indication | Number of patients treated with Pradaxa | Maximum daily dose |
@@ -130,7 +130,7 @@ Since the patient populations treated in the three indications are not comparabl
 
 Although low in frequency in clinical trials, major or severe bleeding may occur and, regardless of location, may lead to disabling, life-threatening or even fatal outcomes.
 
-Table 11 shows the adverse reactions identified from the primary VTE prevention studies after hip or knee replacement surgery, the study in the prevention of thromboembolic stroke and systemic embolism in patients with atrial fibrillation, and the studies in DVT/PE treatment and in DVT/PE prevention.
+Table 11 shows the adverse reactions identified from studies and post-marketing data in the indications primary VTE prevention after hip or knee replacement surgery, prevention of thromboembolic stroke and systemic embolism in patients with atrial fibrillation, DVT/PE treatment and DVT/PE prevention.
 They are ranked under headings of System Organ Class (SOC) and frequency using the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data).
 
 Table 11: Adverse reactions
@@ -181,6 +181,7 @@ Table 11: Adverse reactions
 | Hyperbilirubinaemia | Uncommon | Rare | Not known |
 | Skin and subcutaneous tissue disorder |  |  |  |
 | Skin haemorrhage | Uncommon | Common | Common |
+| Alopecia | Not known | Not known | Not known |
 | Musculoskeletal and connective tissue disorders |  |  |  |
 | Haemarthrosis | Uncommon | Rare | Uncommon |
 | Renal and urinary disorders |  |  |  |
@@ -204,6 +205,7 @@ Table 11: Adverse reactions
 Primary Prevention of Venous Thromboembolism in Orthopaedic Surgery
 
 The table 12 shows the number (%) of patients experiencing the adverse reaction bleeding during the treatment period in the VTE prevention in the two pivotal clinical trials, according to dose.
+
 Table 12: Number (%) of patients experiencing the adverse reaction bleeding
 
 |  | Pradaxa 150 mg once daily N (%) | Pradaxa 220 mg once daily N (%) | Enoxaparin N (%) |
@@ -301,7 +303,6 @@ On treatment 2 (22.1 %) patients experienced mild related adverse events (gastro
 
 The safety of Pradaxa has been evaluated in a pivotal study investigating the prevention of stroke and systemic embolism in patients with atrial fibrillation, in two active controlled DVT/PE treatment trials and in one active controlled DVT/PE prevention trial.
 In these four phase III trials, 16,709 patients were exposed to Pradaxa (see Table 9).
-
 Table 9: Number of patients studied, maximum daily dose in phase III studies
 
 | Indication | Number of patients treated with Pradaxa | Maximum daily dose |
@@ -316,8 +317,9 @@ The most commonly reported events are bleedings occurring in approximately 16.6 
 
 Since the patient populations treated in the three indications are not comparable and bleeding events are distributed over several System Organ Classes (SOC), a summary description of major and any bleeding are broken down by indication and are provided in tables 11-14 below.
 
-Table 10 shows the adverse reactions identified from the study in the prevention of thromboembolic stroke and systemic embolism in patients with atrial fibrillation and the studies in DVT/PE treatment and in DVT/PE prevention.
-They are ranked under headings of System Organ Class (SOC) and frequency using the following convention.very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data).
+Table 10 shows the adverse reactions identified studies and post-marketing data in the indications prevention of thromboembolic stroke and systemic embolism in patients with atrial fibrillation, DVT/PE treatment and DVT/PE prevention.
+They are ranked under headings of System Organ Class (SOC) and frequency using the following convention.very common (≥1/10), common (≥1/100 to
+< 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data).
 Table 10: Adverse reactions
 
 |  | Frequency |  |
@@ -365,6 +367,7 @@ Table 10: Adverse reactions
 | Hyperbilirubinaemia | Rare | Not known |
 | Skin and subcutaneous tissue disorder |  |  |
 | Skin haemorrhage | Common | Common |
+| Alopecia | Not known | Not known |
 | Musculoskeletal and connective tissue disorders |  |  |
 | Haemarthrosis | Rare | Uncommon |
 | Renal and urinary disorders |  |  |
