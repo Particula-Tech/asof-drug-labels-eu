@@ -71,7 +71,7 @@ If PML is confirmed, treatment must be discontinued permanently.
 
 Hepatitis B reactivation
 
-Hepatitis B virus (HBV) reactivation, in some cases resulting in fulminant hepatitis, hepatic failure and death, has been reported in patients treated with other anti-CD20 antibodies.
+Hepatitis B virus (HBV) reactivation, in some cases resulting in fulminant hepatitis, hepatic failure and death, has been reported in patients treated with anti-CD20 antibodies.
 
 HBV screening should be performed in all patients before initiation of treatment with Ocrevus as per local guidelines.
 Patients with active HBV (i.e. an active infection confirmed by positive results for HBsAg and anti HB testing) should not be treated with Ocrevus.
@@ -120,8 +120,8 @@ Physicians should review the immunisation status of patients being considered fo
 Patients who require vaccination should complete their immunisation at least 6 weeks prior to initiation of Ocrevus.
 
 See section 4.5 and 5.1 for further information about vaccinations.
-
 Exposure in utero to ocrelizumab and vaccination of neonates and infants with live or live attenuated vaccines
+
 Due to the potential depletion of B cells in infants of mothers who have been exposed to Ocrevus during pregnancy, it is recommended that vaccination with live or live-attenuated vaccines should be delayed until B-cell levels have recovered; therefore, measuring CD19-positive B-cell levels, in neonates and infants, prior to vaccination is recommended
 
 It is recommended that all vaccinations other than live or live-attenuated should follow the local immunisation schedule and measurement of vaccine-induced response titers should be considered to check whether individuals have mounted a protective immune response because the efficacy of the vaccination may be decreased.
