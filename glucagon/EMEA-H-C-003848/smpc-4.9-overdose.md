@@ -1,0 +1,5 @@
+# 4.9 Overdose
+
+If overdose occurs, the patient may experience nausea, vomiting, inhibition of gastro-intestinal tract motility, increase in blood pressure and pulse rate.
+In case of suspected overdosing, serum potassium may decrease and should be monitored and corrected if needed.
+If the patient develops a dramatic increase in blood pressure, use of non-selective α-adrenergic blockade has been shown to be effective in lowering blood pressure for the short time that control would be needed (see section 4.4).
