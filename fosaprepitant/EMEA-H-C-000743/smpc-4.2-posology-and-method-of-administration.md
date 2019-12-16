@@ -6,7 +6,7 @@ The recommended dose is 150 mg administered as an infusion over 20-30 minutes on
 IVEMEND should be administered in conjunction with a corticosteroid and a 5-HT3 antagonist as specified in the tables below.
 The following regimens are recommended for the prevention of nausea and vomiting associated with emetogenic cancer chemotherapy.
 
-Highly Emetogenic Chemotherapy Regimen
+Table 1: Recommended dosing for the prevention of nausea and vomiting associated with highly emetogenic chemotherapy regimen in adults
 
 |  | Day 1 | Day 2 | Day 3 | Day 4 |
 | --- | --- | --- | --- | --- |
@@ -19,7 +19,7 @@ Dexamethasone should also be administered in the evenings on
 Days 3 and 4.
 The dose of dexamethasone accounts for active substance interactions.
 
-Moderately Emetogenic Chemotherapy Regimen
+Table 2: Recommended dosing for the prevention of nausea and vomiting associated with moderately emetogenic chemotherapy regimen in adults
 
 |  | Day 1 |
 | --- | --- |
@@ -32,18 +32,19 @@ The dose of dexamethasone accounts for active substance interactions.
 
 Paediatric population
 Paediatric patients aged 6 months and older, and not less than 6 kg
-The recommended dose regimen of IVEMEND, to be administered with a 5-HT3 antagonist, with or without a corticosteroid, for the prevention of nausea and vomiting associated with administration of single or multi-day chemotherapy regimens of Highly Emetogenic Chemotherapy (HEC) or Moderately Emetogenic Chemotherapy (MEC), is shown in Table 1.
+The recommended dose regimen of IVEMEND, to be administered with a 5-HT3 antagonist, with or without a corticosteroid, for the prevention of nausea and vomiting associated with administration of single or multi-day chemotherapy regimens of Highly Emetogenic Chemotherapy (HEC) or Moderately Emetogenic Chemotherapy (MEC), is shown in Table 3.
 Single day chemotherapy regimens include those regimens in which HEC or MEC is administered for a single day only.
 Multi-day chemotherapy regimens include chemotherapy regimens in which HEC or MEC is administered for 2 or more days.
 
-An alternative dose regimen that may be used with single-day chemotherapy regimens is shown in Table 2.
+An alternative dose regimen that may be used with single-day chemotherapy regimens is shown in Table 4.
 
 Dosing for Single or Multi-Day Chemotherapy Regimens
 For paediatric patients receiving single or multi-day regimens of HEC or MEC, administer IVEMEND as an intravenous infusion through a central venous catheter on Days 1, 2, and 3.
-EMEND capsules or EMEND for oral suspension may be used on Days 2 and 3 instead of IVEMEND, as shown in Table 1.
+EMEND capsules or EMEND for oral suspension may be used on Days 2 and 3 instead of IVEMEND, as shown in
+Table 3.
 See the Summary of Product Characteristics (SmPC) for EMEND capsules or EMEND for oral suspension for appropriate dosing instructions.
-Table 1
-Recommended dosing for the prevention of nausea and vomiting associated with single or multi-day regimens of HEC or MEC
+
+Table 3: Recommended dosing for the prevention of nausea and vomiting associated with single or multi-day regimens of HEC or MEC in paediatric patients
 
 |  | Population | Day 1 | Day 2 | Day 3 |
 | --- | --- | --- | --- | --- |
@@ -59,8 +60,7 @@ For paediatric patients less than 12 years, administer IVEMEND intravenously ove
 
 Alternative Dosing for Single Day Chemotherapy Regimens
 For paediatric patients receiving single day HEC or MEC, IVEMEND may be administered as an intravenous infusion through a central venous catheter on Day 1.
-Table 2
-Alternative dosing for the prevention of nausea and vomiting associated with single day regimens of HEC or MEC
+Table 4: Alternative dosing for the prevention of nausea and vomiting associated with single day regimens of HEC or MEC in paediatric patients
 
 |  | Population | Day 1 |
 | --- | --- | --- |

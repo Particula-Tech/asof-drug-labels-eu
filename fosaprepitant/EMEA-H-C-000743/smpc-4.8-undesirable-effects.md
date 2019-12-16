@@ -18,6 +18,8 @@ Some less common ADRs in the adult population were not observed in the paediatri
 
 Frequencies are defined as: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000) and very rare (<1/10,000), not known (cannot be estimated from the available data).
 
+Table 5: Tabulated list of adverse reactions – aprepitant
+
 | System organ class | Adverse reaction | Frequency |
 | --- | --- | --- |
 | Infection and infestations | candidiasis, staphylococcal infection | rare |
@@ -35,7 +37,8 @@ Frequencies are defined as: very common (≥1/10); common (≥1/100 to <1/10); u
 | Cardiac disorders | palpitations | uncommon |
 |  | bradycardia, cardiovascular disorder | rare |
 | Vascular disorders | hot flush/flushing | uncommon |
-| Respiratory, thoracic and mediastinal disorders | hiccups oropharyngeal pain, sneezing, cough, postnasal drip, throat irritation | common rare |
+| Respiratory, thoracic and mediastinal disorders | hiccups | common |
+|  | oropharyngeal pain, sneezing, cough, postnasal drip, throat irritation | rare |
 | Gastrointestinal disorders | constipation, dyspepsia | common |
 |  | eructation, nausea*, vomiting*, gastroesophageal reflux disease, abdominal pain, dry mouth, flatulence | uncommon |
 |  | duodenal ulcer perforation, stomatitis, abdominal distension, faeces hard, neutropenic colitis | rare |
@@ -65,6 +68,7 @@ Additional adverse reactions were observed in adult patients treated with aprepi
 Fosaprepitant
 In an active-controlled clinical study in adult patients receiving HEC, safety was evaluated for 1,143 patients receiving the 1-day regimen of IVEMEND 150 mg compared to 1,169 patients receiving the 3-day regimen of aprepitant.
 Additionally, in a placebo-controlled clinical trial in adult patients receiving MEC, safety was evaluated for 504 patients receiving a single dose of IVEMEND 150 mg compared to 497 patients receiving the control regimen.
+
 In a pooled analysis of 3 active-controlled clinical studies in paediatric patients (aged 6 months to 17 years) receiving either HEC or MEC and a single dose of IVEMEND at or above the recommended 1-day regimen dose, safety was evaluated for 139 patients receiving the 1-day regimen of IVEMEND.
 In the same analysis, safety was evaluated for 199 patients receiving either HEC or MEC and a single dose of IVEMEND at or above the recommended 3-day regimen of IVEMEND.
 Safety data following the administration of the 3-day IV/oral/oral regimen were also included.
@@ -78,8 +82,11 @@ Tabulated list of adverse reactions – fosaprepitant
 The following are adverse reactions reported in adult patients receiving fosaprepitant in clinical studies or postmarketing that have not been reported with aprepitant as described above.
 The frequency categories in the table are based on studies in adults; the observed frequencies in the paediatric studies were similar or lower.
 Some adverse reactions that are commonly observed in the adult population were not observed in the paediatric studies.
+Infusion site reactions (ISRs) have been reported with the use of IVEMEND (see section 4.4).
 
 Frequencies are defined as: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000) and very rare (<1/10,000), not known (cannot be estimated from the available data).
+
+Table 6: Tabulated list of adverse reactions – fosaprepitant
 
 | System organ class | Adverse reaction | Frequency |
 | --- | --- | --- |

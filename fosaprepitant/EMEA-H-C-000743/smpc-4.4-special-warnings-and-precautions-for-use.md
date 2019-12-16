@@ -21,7 +21,10 @@ These hypersensitivity reactions have generally responded to discontinuation of 
 It is not recommended to reinitiate the infusion in patients who experience hypersensitivity reactions.
 
 Administration and infusion site reactions
+Infusion site reactions (ISRs) have been reported with the use of IVEMEND (see section 4.8).
+The majority of severe ISRs, including thrombophlebitis and vasculitis, were reported with concomitant vesicant (e.g., anthracycline-based) chemotherapy administration, particularly when associated with extravasation.
+Necrosis was also reported in some patients with concomitant vesicant chemotherapy.
+Mild injection site thrombosis has been observed at higher doses without concomitant vesicant chemotherapy.
 IVEMEND should not be given as a bolus injection, but should always be diluted and given as a slow intravenous infusion (see section 4.2).
 IVEMEND should not be administered intramuscularly or subcutaneously (see section 5.3).
-Mild injection site thrombosis has been observed at higher doses.
 If signs or symptoms of local irritation occur, the injection or infusion should be terminated and restarted in another vein.

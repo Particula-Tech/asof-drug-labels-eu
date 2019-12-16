@@ -2,6 +2,7 @@
 
 Fosaprepitant, a prodrug of aprepitant, when administered intravenously is rapidly converted to aprepitant.
 Plasma concentrations of fosaprepitant are below quantifiable levels within 30 minutes of the completion of infusion.
+
 Aprepitant after fosaprepitant administration
 Following a single intravenous 150-mg dose of fosaprepitant administered as a 20-minute infusion to healthy adult volunteers, the mean AUC0-∞of aprepitant was 35.0 µg•hr/ml and the mean maximal aprepitant concentration was 4.01 µg/ml.
 
@@ -41,6 +42,7 @@ Conclusions regarding the influence of moderate hepatic impairment (Child-Pugh c
 There are no clinical or pharmacokinetic data in patients with severe hepatic impairment (Child-Pugh class C).
 
 Renal impairment: A single 240 mg dose of oral aprepitant was administered to patients with severe renal impairment (CrCl< 30 ml/min) and to patients with end stage renal disease (ESRD) requiring haemodialysis.
+
 In patients with severe renal impairment, the AUC0-∞of total aprepitant (unbound and protein bound) decreased by 21 % and Cmax decreased by 32 %, relative to healthy subjects.
 In patients with ESRD undergoing haemodialysis, the AUC0-∞of total aprepitant decreased by 42 % and Cmax decreased by 32 %.
 Due to modest decreases in protein binding of aprepitant in patients with renal disease, the AUC of pharmacologically active unbound aprepitant was not significantly affected in patients with renal impairment compared with healthy subjects.
@@ -48,9 +50,9 @@ Haemodialysis conducted 4 or 48 hours after dosing had no significant effect on 
 
 No dose adjustment is necessary for patients with renal impairment or for patients with ESRD undergoing haemodialysis.
 
-Paediatric population: As part of a 3-day IV/IV/IV regimen, simulated median AUC0-24hr of aprepitant with median peak plasma concentration (Cmax) on Day 1 and the median concentrations at the end of Day 1, Day 2 and Day 3 in paediatric patients (6 months to 17 years old) are shown in Table 5.
+Paediatric population: As part of a 3-day IV/IV/IV regimen, simulated median AUC0-24hr of aprepitant with median peak plasma concentration (Cmax) on Day 1 and the median concentrations at the end of Day 1, Day 2 and Day 3 in paediatric patients (6 months to 17 years old) are shown in Table 9.
 
-Table 5: Pharmacokinetic parameters of aprepitant for 3-day IV fosaprepitant regimen in paediatric patients
+Table 9: Pharmacokinetic parameters of aprepitant for 3-day IV fosaprepitant regimen in paediatric patients
 
 | Population | 3-day IV/IV/IV dose | AUC 0-24 hr. (ng*hr/mL) | Cmax (ng/mL) | C24 (ng/mL) | C48 (ng/mL) | C72 (ng/mL) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -59,18 +61,19 @@ Table 5: Pharmacokinetic parameters of aprepitant for 3-day IV fosaprepitant reg
 | 2 - < 6 years old |  | 20568 | 2335 | 336 | 248 | 232 |
 | 6 months – < 2 years old |  | 16979 | 1916 | 256 | 179 | 167 |
 
-In the 1-day IV fosaprepitant setting, simulated median AUC0-24hr of aprepitant with median peak plasma concentration (Cmax) on Day 1 and the median concentrations at the end of Day 1, Day 2 and Day 3 in paediatric patients (6 months to < 12 years old) and observed mean AUC0-24hr with median peak plasma concentration (Cmax) on Day 1 and mean concentrations at the end of Day 1, Day 2 and Day 3 in paediatric patients (12 to 17 years old) are shown in Table 6.
+In the 1-day IV fosaprepitant setting, simulated median AUC0-24hr of aprepitant with median peak plasma concentration (Cmax) on Day 1 and the median concentrations at the end of Day 1, Day 2 and Day 3 in paediatric patients (6 months to < 12 years old) and observed mean AUC0-24hr with median peak plasma concentration (Cmax) on Day 1 and mean concentrations at the end of Day 1, Day 2 and Day 3 in paediatric patients (12 to 17 years old) are shown in Table 10.
 
-Table 6: Pharmacokinetic parameters of aprepitant for 1-day IV fosaprepitant regimen in paediatric patients
+Table 10: Pharmacokinetic parameters of aprepitant for 1-day IV fosaprepitant regimen in paediatric patients
 
 | Population | 1-day IV dose | AUC 0-24 hr. (ng*hr/mL) | Cmax (ng/mL) | C24 (ng/mL) | C48 (ng/mL) | C72 (ng/mL) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 12 - 17 years old | 150 mg | 30400 | 3500 | 735 | NR* | NR* |
+| 12 - 17 years old | 150 mg | 30400 | 3500 | 735 | NR | NR |
 | 6 - < 12 years old | 4 mg/kg | 35766 | 3637 | 746 | 227 | 69.2 |
 | 2 - < 6 years old |  | 28655 | 3150 | 494 | 108 | 23.5 |
 | 6 months – <2 years old | 5 mg/kg | 30484 | 3191 | 522 | 112 | 24.4 |
 
-*NR = Not Reported
+NR = Not Reported
+
 A population pharmacokinetic analysis of aprepitant in paediatric patients (aged 6 months through 17 years) suggests that gender and race have no clinically meaningful effect on the pharmacokinetics of aprepitant.
 
 Relationship between concentration and effect

@@ -19,10 +19,8 @@ See the product information for the selected 5-HT3 antagonist for appropriate do
 
 Efficacy was based on evaluation of the following composite measures: complete response in both the overall and delayed phases and no vomiting in the overall phase.
 IVEMEND 150 mg was shown to be non-inferior to that of the 3-day regimen of aprepitant.
-A summary of the primary and secondary endpoints is shown in Table 1.
-
-Table 3
-Percent of adult patients receiving Highly Emetogenic Chemotherapy responding by treatment group and phase — Cycle 1
+A summary of the primary and secondary endpoints is shown in Table 7.
+Table 7: Percent of adult patients receiving Highly Emetogenic Chemotherapy responding by treatment group and phase — Cycle 1
 
 ENDPOINTS* Fosaprepitant Aprepitant Difference†
 regimen regimen (95 % CI)
@@ -47,6 +45,7 @@ Miettinen and Nurminen and adjusted for gender.
 ‡Complete response = no vomiting and no use of rescue therapy.
 §Overall = 0 to 120 hours post-initiation of cisplatin chemotherapy.
 §§Delayed phase = 25 to 120 hours post-initiation of cisplatin chemotherapy.
+
 Moderately Emetogenic Chemotherapy (MEC)
 In a randomized, parallel, double-blind, placebo-controlled study, IVEMEND 150 mg (N=502) in combination with ondansetron and dexamethasone was compared with ondansetron and dexamethasone alone (control regimen) (N=498) in adult patients receiving a moderately emetogenic chemotherapy regimen.
 The fosaprepitant regimen consisted of fosaprepitant 150 mg on Day 1 in combination with oral ondansetron 8 mg for 2 doses and oral dexamethasone 12 mg.
@@ -55,10 +54,9 @@ The control regimen consisted of fosaprepitant placebo 150 mg IV on Day 1 in com
 On Days 2 and 3, patients in the control group received 8 mg oral ondansetron every 12 hours.
 Fosaprepitant placebo and dexamethasone placebo (on Day 1) were used to maintain blinding.
 
-The efficacy of fosaprepitant was evaluated based on the primary and secondary endpoints listed in Table 2 and was shown to be superior to the control regimen with regard to complete response in the delayed and overall phases.
+The efficacy of fosaprepitant was evaluated based on the primary and secondary endpoints listed in Table 8 and was shown to be superior to the control regimen with regard to complete response in the delayed and overall phases.
 
-Table 4
-Percent of adult patients receiving Moderately Emetogenic Chemotherapy responding by treatment group and phase
+Table 8: Percent of adult patients receiving Moderately Emetogenic Chemotherapy responding by treatment group and phase
 
 ENDPOINTS* Fosaprepitant Control P-Value
 regimen regimen
@@ -84,8 +82,8 @@ Acute phase§§ 93.2 91 0.184
 §§Acute= 0 to 24 hours post-initiation of chemotherapy.
 
 The estimated time to first emesis is depicted by the Kaplan-Meier plot in Figure 1.
-Figure 1
-Percent of adult patients receiving Moderately Emetogenic Chemotherapy who remain emesis free over time
+
+Figure 1: Percent of adult patients receiving Moderately Emetogenic Chemotherapy who remain emesis free over time
 
 100
 
