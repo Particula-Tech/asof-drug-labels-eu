@@ -5,7 +5,7 @@ When lenalidomide is given in combination with other medicinal products, the cor
 Pregnancy warning
 Lenalidomide is structurally related to thalidomide.
 Thalidomide is a known human teratogenic active substance that causes severe life-threatening birth defects.
-Lenalidomide induced in monkeys malformations similar to those described with thalidomide (see sections 4.6 and 5.3).
+Lenalidomide induced in monkeys’ malformations similar to those described with thalidomide (see sections 4.6 and 5.3).
 If lenalidomide is taken during pregnancy, a teratogenic effect of lenalidomide in humans is expected.
 
 The conditions of the Pregnancy Prevention Programme must be fulfilled for all patients unless there is reliable evidence that the patient does not have childbearing potential.
@@ -125,11 +125,12 @@ The patient should continue anticoagulation therapy during the course of lenalid
 Neutropenia and thrombocytopenia
 The major dose limiting toxicities of lenalidomide include neutropenia and thrombocytopenia.
 A complete blood cell count, including white blood cell count with differential count, platelet count, haemoglobin, and haematocrit should be performed at baseline, every week for the first 8 weeks of lenalidomide treatment and monthly thereafter to monitor for cytopenias.
-In mantle cell lymphoma patients, the monitoring scheme should be every 2 weeks in Cycles 3 and 4, and then at the start of each cycle.
-A dose reduction may be required (see section 4.2).
+In mantle cell lymphoma patients, the monitoring scheme should be every 2 weeks in cycles 3 and 4, and then at the start of each cycle.
+In follicular lymphoma, the monitoring scheme should be weekly for the first 3 weeks of cycle 1 (28 days), every 2 weeks during cycles 2 through 4, and then at the start of each cycle thereafter.
+A dose interruption and/or a dose reduction may be required (see section 4.2).
 In case of neutropenia, the physician should consider the use of growth factors in patient management.
 Patients should be advised to promptly report febrile episodes.
-Patients and physicians are advised to be observant for signs and symptoms of bleeding, including petechiae and epistaxes, especially in patients receiving concomitant medicinal products susceptible to induce bleeding (see section 4.8, Haemorrhagic disorders).
+Patients and physicians are advised to be observant for signs and symptoms of bleeding, including petechiae and epistaxis, especially in patients receiving concomitant medicinal products susceptible to induce bleeding (see section 4.8, Haemorrhagic disorders).
 Co-administration of lenalidomide with other myelosuppressive agents should be undertaken with caution.
 
 - Newly diagnosed multiple myeloma: patients who have undergone ASCT treated with lenalidomide maintenance
@@ -138,7 +139,7 @@ The adverse reactions from CALGB 100104 included events reported post-high dose 
 A second analysis identified events that occurred after the start of maintenance treatment.
 In IFM 2005-02, the adverse reactions were from the maintenance treatment period only.
 
-Overall, grade 4 neutropenia was observed at a higher frequency in the lenalidomide maintenance arms compared to the placebo maintenance arms in the 2 studies evaluating lenalidomide maintenance in NDMM patients who have undergone ASCT (32.1% vs 26.7% [16.1% vs 1.8% after the start of maintenance treatment] in CALGB 100104 and 16.4% vs 0.7% in IFM 2005-02, respectively).
+Overall, Grade 4 neutropenia was observed at a higher frequency in the lenalidomide maintenance arms compared to the placebo maintenance arms in the 2 studies evaluating lenalidomide maintenance in NDMM patients who have undergone ASCT (32.1% vs 26.7% [16.1% vs 1.8% after the start of maintenance treatment] in CALGB 100104 and 16.4% vs 0.7% in IFM 2005-02, respectively).
 Treatment-emergent AEs of neutropenia leading to lenalidomide discontinuation were reported in 2.2% of patients in CALGB 100104 and 2.4% of patients in IFM 2005-02, respectively.
 Grade 4 febrile neutropenia was reported at similar frequencies in the lenalidomide maintenance arms compared to placebo maintenance arms in both studies (0.4% vs 0.5% [0.4% vs 0.5% after the start of maintenance treatment] in CALGB 100104 and 0.3% vs 0% in IFM 2005-02, respectively).
 Patients should be advised to promptly report febrile episodes, a treatment interruption and/or dose reduction may be required (see section 4.2).
@@ -151,6 +152,7 @@ Patients and physicians are advised to be observant for signs and symptoms of bl
 Grade 4 neutropenia was observed at a lower frequency in the lenalidomide in combination with bortezomib and dexamethasone (RVd) arm compared to the Rd comparator arm (2.7% vs 5.9%) in the SWOG S0777 study.
 Grade 4 febrile neutropenia was reported at similar frequencies in the RVd arm and Rd arm (0.0% vs 0.4%).
 Patients should be advised to promptly report febrile episodes; a treatment interruption and/or dose reduction may be required (see section 4.2).
+
 Grade 3 or 4 thrombocytopenia was observed at a higher frequency in the RVd arm compared to the Rd comparator arm (17.2 % vs 9.4%).
 
 - Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with low dose dexamethasone
@@ -162,25 +164,30 @@ Grade 3 or 4 thrombocytopenia was observed to a lesser extent in the Rd and Rd18
 
 - Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with melphalan and prednisone
 
-The combination of lenalidomide with melphalan and prednisone in clinical trials of newly diagnosed multiple myeloma patients is associated with a higher incidence of grade 4 neutropenia (34.1% in melphalan, prednisone and lenalidomide arm followed by lenalidomide [MPR+R] and melphalan, prednisone and lenalidomide followed by placebo [MPR+p] treated patients compared with 7.8% in MPp+p-treated patients; see section 4.8).
+The combination of lenalidomide with melphalan and prednisone in clinical trials of newly diagnosed multiple myeloma patients is associated with a higher incidence of Grade 4 neutropenia (34.1% in melphalan, prednisone and lenalidomide arm followed by lenalidomide [MPR+R] and melphalan, prednisone and lenalidomide followed by placebo [MPR+p] treated patients compared with 7.8% in MPp+p-treated patients; see section 4.8).
 Grade 4 febrile neutropenia episodes were observed infrequently (1.7% in MPR+R/MPR+p treated patients compared to 0.0% in MPp+p treated patients; see section 4.8).
 
-The combination of lenalidomide with melphalan and prednisone in multiple myeloma patients is associated with a higher incidence of grade 3 and grade 4 thrombocytopenia (40.4% in MPR+R/MPR+p treated patients, compared with 13.7% in MPp+p-treated patients; see section 4.8).
+The combination of lenalidomide with melphalan and prednisone in multiple myeloma patients is associated with a higher incidence of Grade 3 and Grade 4 thrombocytopenia (40.4% in MPR+R/MPR+p treated patients, compared with 13.7% in MPp+p-treated patients; see section 4.8).
 
 - Multiple myeloma: patients with at least one prior therapy
 
-The combination of lenalidomide with dexamethasone in multiple myeloma patients with at least one prior therapy is associated with a higher incidence of grade 4 neutropenia (5.1% in lenalidomide/dexamethasone-treated patients compared with 0.6% in placebo/dexamethasone-treated patients; see section 4.8).
+The combination of lenalidomide with dexamethasone in multiple myeloma patients with at least one prior therapy is associated with a higher incidence of Grade 4 neutropenia (5.1% in lenalidomide/dexamethasone-treated patients compared with 0.6% in placebo/dexamethasone-treated patients; see section 4.8).
 Grade 4 febrile neutropenia episodes were observed infrequently (0.6% in lenalidomide/dexamethasone-treated patients compared to 0.0% in placebo/dexamethasone treated patients; see section 4.8).
 
-The combination of lenalidomide with dexamethasone in multiple myeloma patients is associated with a higher incidence of grade 3 and grade 4 thrombocytopenia (9.9% and 1.4%, respectively, in lenalidomide/dexamethasone-treated patients compared to 2.3% and 0.0% in placebo/dexamethasone-treated patients; see section 4.8).
+The combination of lenalidomide with dexamethasone in multiple myeloma patients is associated with a higher incidence of Grade 3 and Grade 4 thrombocytopenia (9.9% and 1.4%, respectively, in lenalidomide/dexamethasone-treated patients compared to 2.3% and 0.0% in placebo/dexamethasone-treated patients; see section 4.8).
 
 - Myelodysplastic syndromes
 
-Lenalidomide treatment in myelodysplastic syndromes patients is associated with a higher incidence of grade 3 and 4 neutropenia and thrombocytopenia compared to patients on placebo (see section 4.8).
+Lenalidomide treatment in myelodysplastic syndromes patients is associated with a higher incidence of Grade 3 and 4 neutropenia and thrombocytopenia compared to patients on placebo (see section 4.8).
 
 - Mantle cell lymphoma
 
-Lenalidomide treatment in mantle cell lymphoma patients is associated with a higher incidence of grade 3 and 4 neutropenia compared with patients on the control arm (see section 4.8).
+Lenalidomide treatment in mantle cell lymphoma patients is associated with a higher incidence of Grade 3 and 4 neutropenia compared with patients on the control arm (see section 4.8).
+
+- Follicular lymphoma
+
+The combination of lenalidomide with rituximab in follicular lymphoma patients is associated with a higher incidence of Grade 3 or 4 neutropenia compared with patients on the placebo/rituximab arm.
+Febrile neutropenia and Grade 3 or 4 thrombocytopenia were more commonly observed in the lenalidomide/ rituximab arm (see section 4.8).
 
 Thyroid disorders
 Cases of hypothyroidism and cases of hyperthyroidism have been reported.
@@ -190,6 +197,7 @@ Baseline and ongoing monitoring of thyroid function is recommended.
 Peripheral neuropathy
 Lenalidomide is structurally related to thalidomide, which is known to induce severe peripheral neuropathy.
 There was no increase in peripheral neuropathy observed with lenalidomide in combination with dexamethasone or melphalan and prednisone or lenalidomide monotherapy or with long term use of lenalidomide for the treatment of newly diagnosed multiple myeloma.
+
 The combination of lenalidomide with intravenous bortezomib and dexamethasone in multiple myeloma patients is associated with a higher frequency of peripheral neuropathy.
 The frequency was lower when bortezomib was administered subcutaneously.
 For additional information, see Section 4.8 and the SmPC for bortezomib.
@@ -202,6 +210,24 @@ The patients at risk of TLS and TFR are those with high tumour burden prior to t
 Caution should be practiced when introducing these patients to lenalidomide.
 These patients should be monitored closely, especially during the first cycle or dose-escalation, and appropriate precautions taken.
 There have been rare reports of TLS in patients with MM treated with lenalidomide, and no reports in patients with MDS treated with lenalidomide.
+
+- Mantle cell lymphoma
+
+Careful monitoring and evaluation for TFR is recommended.
+Patients with high mantle cell lymphoma International Prognostic Index (MIPI) at diagnosis or bulky disease (at least one lesion that is ≥ 7 cm in the longest diameter) at baseline may be at risk of TFR.
+Tumour flare reaction may mimic progression of disease (PD).
+Patients in studies MCL-002 and MCL-001 that experienced Grade 1 and 2 TFR were treated with corticosteroids, NSAIDs and/or narcotic analgesics for management of TFR symptoms.
+The decision to take therapeutic measures for TFR should be made after careful clinical assessment of the individual patient (see sections 4.2 and 4.8).
+
+- Follicular lymphoma
+
+Careful monitoring and evaluation for TFR is recommended.
+Tumour flare may mimic PD.
+Patients who experienced Grade 1 and 2 TFR were treated with corticosteroids, NSAIDs and/or narcotic analgesics for management of TFR symptoms.
+The decision to take therapeutic measures for TFR should be made after careful clinical assessment of the individual patient (see sections 4.2 and 4.8).
+
+Careful monitoring and evaluation for TLS is recommended.
+Patients should be well hydrated and receive TLS prophylaxis, in addition to weekly chemistry panels during the first cycle or longer, as clinically indicated (see sections 4.2 and 4.8).
 
 Tumour burden
 
@@ -220,16 +246,6 @@ The main reason for treatment withdrawal for patients with high tumour burden du
 Patients with high tumour burden should therefore be closely monitored for adverse reactions (see Section 4.8) including signs of tumour flare reaction (TFR).
 Please refer to section 4.2 for dose adjustments for TFR.
 High tumour burden was defined as at least one lesion ≥5 cm in diameter or 3 lesions ≥3 cm.
-
-Tumour flare reaction
-
-- Mantle cell lymphoma
-
-Careful monitoring and evaluation for TFR is recommended.
-Patients with high mantle cell lymphoma International Prognostic Index (MIPI) at diagnosis or bulky disease (at least one lesion that is ≥ 7 cm in the longest diameter) at baseline may be at risk of TFR.
-Tumour flare reaction may mimic progression of disease (PD).
-Patients in studies MCL-002 and MCL-001 that experienced Grade 1 and 2 TFR were treated with corticosteroids, non-steroidal anti-inflammatory drugs (NSAIDs) and/or narcotic analgesics for management of TFR symptoms.
-The decision to take therapeutic measures for TFR should be made after careful clinical assessment of the individual patient (see section 4.2).
 
 Allergic reactions
 Cases of allergic reaction/hypersensitivity reactions have been reported in patients treated with lenalidomide (see section 4.8).
@@ -286,7 +302,17 @@ A TP53 mutation is present in 20 to 25% of lower-risk MDS Del 5q patients and is
 In a post-hoc analysis of a clinical trial of lenalidomide in low- or intermediate-1-risk myelodysplastic syndromes (MDS-004), the estimated 2-year rate of progression to AML was 27.5 % in patients with IHC-p53 positivity (1% cut-off level of strong nuclear staining, using immunohistochemical assessment of p53 protein as a surrogate for TP53 mutation status) and 3.6% in patients with IHC-p53 negativity (p=0.0038) (see section 4.8)
 
 Progression to other malignancies in mantle cell lymphoma
-In mantle cell lymphoma, AML, B-cell malignancies and non-melanoma skin cancer (NMSC) are potential risks.
+In mantle cell lymphoma, AML, B-cell malignancies and non-melanoma skin cancer (NMSC) are identified risks.
+
+Second primary malignancies in follicular lymphoma
+In a relapsed/refractory iNHL study which included follicular lymphoma patients, no increased risk of SPMs in the lenalidomide/rituximab arm, compared to the placebo/rituximab arm, was observed.
+Hematologic SPM of AML occurred in 0.29 per 100 person-years in the lenalidomide/rituximab arm compared with 0.29 per 100 person-years in patients receiving placebo/rituximab.
+The incidence rate of hematologic plus solid tumour SPMs (excluding non-melanoma skin cancers) was 0.87 per 100 person-years in the lenalidomide/rituximab arm, compared to 1.17 per 100 person-years in patients receiving placebo/rituximab with a median follow-up of 30.59 months (range 0.6 to 50.9 months).
+
+Non-melanoma skin cancers are identified risks and comprise squamous cell carcinomas of skin or basal cell carcinomas.
+
+Physicians should monitor patients for the development of SPMs.
+Both the potential benefit of lenalidomide and the risk of SPMs should be considered when considering treatment with lenalidomide.
 
 Hepatic disorders
 Hepatic failure, including fatal cases, has been reported in patients treated with lenalidomide in combination therapy: acute hepatic failure, toxic hepatitis, cytolytic hepatitis, cholestatic hepatitis, and mixed cytolytic/cholestatic hepatitis have been reported.
@@ -308,7 +334,6 @@ All patients should be advised to seek medical attention promptly at the first s
 
 Viral reactivation
 Cases of viral reactivation have been reported in patients receiving lenalidomide, including serious cases of herpes zoster or hepatitis B virus (HBV) reactivation.
-
 Some of the cases of viral reactivation had a fatal outcome.
 
 Some of the cases of herpes zoster reactivation resulted in disseminated herpes zoster, meningitis herpes zoster or ophthalmic herpes zoster requiring a temporary hold or permanent discontinuation of the treatment with lenalidomide and adequate antiviral treatment.
@@ -335,7 +360,7 @@ If PML is suspected, further dosing must be suspended until PML has been exclude
 If PML is confirmed, lenalidomide must be permanently discontinued.
 
 Newly diagnosed multiple myeloma patients
-There was a higher rate of intolerance (grade 3 or 4 adverse events, serious adverse events, discontinuation) in patients with age > 75 years, ISS stage III, ECOG PS≥2 or CLcr<60 mL/min when lenalidomide is given in combination.
+There was a higher rate of intolerance (Grade 3 or 4 adverse events, serious adverse events, discontinuation) in patients with age > 75 years, ISS stage III, ECOG PS≥2 or CLcr<60 mL/min when lenalidomide is given in combination.
 Patients should be carefully assessed for their ability to tolerate lenalidomide in combination, with consideration to age, ISS stage III, ECOG PS≥2 or CLcr<60 mL/min (see sections 4.2 and 4.8).
 
 Cataract

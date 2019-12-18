@@ -13,13 +13,12 @@ As a precaution, and taking into account special populations with prolonged elim
 Pregnancy
 Lenalidomide is structurally related to thalidomide.
 Thalidomide is a known human teratogenic active substance that causes severe life-threatening birth defects.
-
-Lenalidomide induced in monkeys malformations similar to those described with thalidomide (see section 5.3).
+Lenalidomide induced malformation in monkeys similar to those described with thalidomide (see section 5.3).
 Therefore, a teratogenic effect of lenalidomide is expected and lenalidomide is contraindicated during pregnancy (see section 4.3).
 
 Breast-feeding
 It is not known whether lenalidomide is excreted in breast milk.
-Therefore breast-feeding should be discontinued during therapy with lenalidomide.
+Therefore, breast-feeding should be discontinued during therapy with lenalidomide.
 
 Fertility
 A fertility study in rats with lenalidomide doses up to 500 mg/kg (approximately 200 to 500 times the human doses of 25 mg and 10 mg, respectively, based on body surface area) produced no adverse effects on fertility and no parental toxicity.
