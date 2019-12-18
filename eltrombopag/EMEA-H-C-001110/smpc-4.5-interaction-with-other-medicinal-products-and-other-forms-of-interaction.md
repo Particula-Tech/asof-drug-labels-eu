@@ -4,8 +4,6 @@ Effects of eltrombopag on other medicinal products
 
 HMG CoA reductase inhibitors
 
-In vitro studies demonstrated that eltrombopag is not a substrate for the organic anion transporter polypeptide, OATP1B1, but is an inhibitor of this transporter.
-In vitro studies also demonstrated that eltrombopag is a breast cancer resistance protein (BCRP) substrate and inhibitor.
 Administration of eltrombopag 75 mg once daily for 5 days with a single 10 mg dose of the OATP1B1 and BCRP substrate rosuvastatin to 39 healthy adult subjects increased plasma rosuvastatin Cmax 103% (90% confidence interval [CI]: 82%, 126%) and AUC0-∞ 55% (90% CI: 42%, 69%).
 Interactions are also expected with other HMG-CoA reductase inhibitors, including atorvastatin, fluvastatin, lovastatin, pravastatin and simvastatin.
 When co-administered with eltrombopag, a reduced dose of statins should be considered and careful monitoring for statin adverse reactions should be undertaken (see section 5.2).
@@ -31,8 +29,9 @@ Effects of other medicinal products on eltrombopag
 
 Ciclosporin
 
-In vitro studies demonstrated that eltrombopag is a breast cancer resistance protein (BCRP) substrate and inhibitor.
-A decrease in eltrombopag exposure was observed with co-administration of 200 mg and 600 mg ciclosporin (a BCRP inhibitor) (see section 5.2).
+A decrease in eltrombopag exposure was observed with co-administration of 200 mg and 600 mg ciclosporin (a BCRP inhibitor).
+The co-administration of 200 mg ciclosporin decreased the Cmax and the AUCinf of eltrombopag by 25% and 18%, respectively.
+The co-administration of 600 mg ciclosporin decreased the Cmax and the AUCinf of eltrombopag by 39% and 24%, respectively.
 Eltrombopag dose adjustment is permitted during the course of the treatment based on the patient’s platelet count (see section 4.2).
 Platelet count should be monitored at least weekly for 2 to 3 weeks when eltrombopag is co-administered with ciclosporin.
 Eltrombopag dose may need to be increased based on these platelet counts.
@@ -43,27 +42,34 @@ Eltrombopag chelates with polyvalent cations such as iron, calcium, magnesium, a
 Administration of a single dose of eltrombopag 75 mg with a polyvalent cation-containing antacid (1524 mg aluminium hydroxide and 1425 mg magnesium carbonate) decreased plasma eltrombopag AUC0-∞ by 70% (90% CI: 64%, 76%) and Cmax by 70% (90% CI: 62%, 76%).
 Eltrombopag should be taken at least two hours before or four hours after any products such as antacids, dairy products or mineral supplements containing polyvalent cations to avoid significant reduction in eltrombopag absorption due to chelation (see sections 4.2 and 5.2).
 
-Food interaction
-
-The administration of eltrombopag tablet or powder for oral suspension with a high-calcium meal (e.g. a meal that included dairy products) significantly reduced plasma eltrombopag AUC0-∞ and Cmax.
-In contrast, the administration of eltrombopag 2 hours before or 4 hours after a high-calcium meal or with low-calcium food [< 50 mg calcium] did not alter plasma eltrombopag exposure to a clinically significant extent (see sections 4.2 and 5.2).
-
 Lopinavir/ritonavir
 
-Co-administration of eltrombopag with lopinavir/ritonavir (LPV/RTV) may cause a decrease in the concentration of eltrombopag.
-A study in 40 healthy volunteers showed that the co-administration of single dose eltrombopag 100 mg with repeat dose LPV/RTV 400 /100 mg twice daily resulted in a reduction in eltrombopag plasma AUC(0-∞) by 17% (90% CI: 6.6%, 26.6%).
-Therefore, caution should be used when co-administration of eltrombopag with LPV/RTV takes place.
+Co-administration of eltrombopag with lopinavir/ritonavir may cause a decrease in the concentration of eltrombopag.
+A study in 40 healthy volunteers showed that the co-administration of a single 100 mg dose of eltrombopag with repeat dose lopinavir/ritonavir 400/100 mg twice daily resulted in a reduction in eltrombopag plasma AUCinf by 17% (90% CI: 6.6%, 26.6%).
+Therefore, caution should be used when co-administration of eltrombopag with lopinavir/ritonavir takes place.
 Platelet count should be closely monitored in order to ensure appropriate medical management of the dose of eltrombopag when lopinavir/ritonavir therapy is initiated or discontinued.
 
 CYP1A2 and CYP2C8 inhibitors and inducers
 
 Eltrombopag is metabolised through multiple pathways including CYP1A2, CYP2C8, UGT1A1, and UGT1A3 (see section 5.2).
-Medicinal products that inhibit or induce a single enzyme are unlikely to significantly affect plasma eltrombopag concentrations; whereas medicinal products that inhibit or induce multiple enzymes have the potential to increase (e.g. fluvoxamine) or decrease (e.g. rifampicin) eltrombopag concentrations.
+Medicinal products that inhibit or induce a single enzyme are unlikely to significantly affect plasma eltrombopag concentrations, whereas medicinal products that inhibit or induce multiple enzymes have the potential to increase (e.g. fluvoxamine) or decrease (e.g. rifampicin) eltrombopag concentrations.
 
 HCV protease inhibitors
 
 Results of a drug-drug pharmacokinetic (PK) interaction study show that co-administration of repeat doses of boceprevir 800 mg every 8 hours or telaprevir 750 mg every 8 hours with a single dose of eltrombopag 200 mg did not alter plasma eltrombopag exposure to a clinically significant extent.
+
 Medicinal products for treatment of ITP
 
 Medicinal products used in the treatment of ITP in combination with eltrombopag in clinical studies included corticosteroids, danazol, and/or azathioprine, intravenous immunoglobulin (IVIG), and anti-D immunoglobulin.
 Platelet counts should be monitored when combining eltrombopag with other medicinal products for the treatment of ITP in order to avoid platelet counts outside of the recommended range (see section 4.2).
+Food interaction
+
+The administration of eltrombopag tablet or powder for oral suspension formulations with a high-calcium meal (e.g. a meal that included dairy products) significantly reduced plasma eltrombopag AUC0-∞ and Cmax.
+In contrast, the administration of eltrombopag 2 hours before or 4 hours after a high-calcium meal or with low-calcium food [<50 mg calcium] did not alter plasma eltrombopag exposure to a clinically significant extent (see section 4.2).
+
+Administration of a single 50 mg dose of eltrombopag in tablet form with a standard high-calorie, high-fat breakfast that included dairy products reduced plasma eltrombopag mean AUC0-∞ by 59% and mean Cmax by 65%.
+
+Administration of a single 25 mg dose of eltrombopag as powder for oral suspension with a high-calcium, moderate-fat and moderate-calorie meal reduced plasma eltrombopag mean AUC0-∞ by 75% and mean Cmax by 79%.
+This decrease of exposure was attenuated when a single 25 mg dose of eltrombopag powder for oral suspension was administered 2 hours before a high-calcium meal (mean AUC0-∞ was decreased by 20% and mean Cmax by 14%).
+
+Food low in calcium (<50 mg calcium), including fruit, lean ham, beef and unfortified (no added calcium, magnesium or iron) fruit juice, unfortified soya milk and unfortified grain, did not significantly impact plasma eltrombopag exposure, regardless of calorie and fat content (see sections 4.2 and 4.5).
