@@ -1,6 +1,6 @@
 # 6.1 List of excipients
 
-Capsule content:
+Capsule content
 Hypromellose
 Hypromellose acetate succinate
 Sucrose
@@ -8,7 +8,8 @@ Sugar spheres
 Talc
 Titanium dioxide (E171)
 Triethyl citrate
-Capsule shell:
+
+Capsule shell
 
 Cymbalta 30 mg
 Gelatin

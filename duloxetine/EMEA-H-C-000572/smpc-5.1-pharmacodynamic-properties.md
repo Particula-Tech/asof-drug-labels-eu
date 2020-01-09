@@ -2,6 +2,7 @@
 
 Pharmacotherapeutic group: Other antidepressants.
 ATC code: N06AX21.
+
 Mechanism of action
 Duloxetine is a combined serotonin (5-HT) and noradrenaline (NA) reuptake inhibitor.
 It weakly inhibits dopamine reuptake with no significant affinity for histaminergic, dopaminergic, cholinergic and adrenergic receptors.
@@ -27,7 +28,6 @@ The incidence of relapse during the 6-months double-blind follow-up period was 1
 During 52 weeks of placebo-controlled double blind treatment, duloxetine-treated patients with recurrent MDD had a significantly longer symptom free period (p<0.001) compared with patients randomised to placebo.
 All patients had previously responded to duloxetine during open-label duloxetine treatment (28 to 34 weeks) at a dose of 60 to 120 mg/day.
 During the 52-week placebo-controlled double blind treatment phase 14.4% of the duloxetine-treated patients and 33.1% of the placebo-treated patients experience a return of their depressive symptoms (p<0.001).
-
 The effect of Cymbalta 60 mg once a day in elderly depressed patients (≥65 years) was specifically examined in a study that showed a statistically significant difference in the reduction of the HAMD17 score for duloxetine-treated patients compared to placebo.
 Tolerability of Cymbalta 60 mg once daily in elderly patients was comparable to that seen in the younger adults.
 However, data on elderly patients exposed to the maximum dose (120mg per day) are limited and thus, caution is recommended when treating this population.
@@ -37,6 +37,7 @@ Generalised Anxiety Disorder: Cymbalta demonstrated statistically significant su
 Cymbalta demonstrated statistically significant superiority over placebo as measured by improvement in the Hamilton Anxiety Scale (HAM-A) total score and by the Sheehan Disability Scale (SDS) global functional impairment score.
 Response and remission rates were also higher with Cymbalta compared to placebo.
 Cymbalta showed comparable efficacy results to venlafaxine in terms of improvements on the HAM-A total score.
+
 In a relapse prevention study, patients responding to 6 months of acute treatment with open-label Cymbalta were randomised to either Cymbalta or placebo for a further 6-months.
 Cymbalta 60 mg to 120 mg once daily demonstrated statistically significant superiority compared to placebo (p<0.001) on the prevention of relapse, as measured by time to relapse.
 The incidence of relapse during the 6-months double-blind follow-up period was 14% for Cymbalta and 42% for placebo.
@@ -63,7 +64,6 @@ In an open label long-term uncontrolled study, the pain reduction in patients re
 
 Paediatric population
 Duloxetine has not been studied in patients under the age of 7.
-
 Two randomized, double-blind, parallel clinical trials were performed in 800 paediatric patients aged 7 to 17 years with major depressive disorder (see section 4.2).
 These two studies included a 10 week placebo and active (fluoxetine) controlled acute phase followed by six months period of active controlled extension treatment.
 Neither duloxetine (30-120 mg) nor the active control arm (fluoxetine 20-40 mg) statistically separated from placebo on change from baseline to endpoint in the Children´s Depression Rating Scale-Revised (CDRS-R) total score.
@@ -80,6 +80,13 @@ The maintenance of the effect has not been evaluated.
 There was no statistically significant difference in discontinuation due to adverse events between duloxetine and placebo groups during the 10 week acute treatment phase.
 Two patients who transitioned from placebo to duloxetine after the acute phase experienced suicidal behaviours while taking duloxetine during the extension phase.
 A conclusion on the overall benefit/risk in this age group has not been established (see also sections 4.2 and 4.8).
+
+A single study has been performed in paediatric patients with juvenile primary fibromyalgia syndrome (JPFS) in which the duloxetine-treated group did not separate from placebo group for the primary efficacy measure.
+Therefore, there is no evidence of efficacy in this paediatric patient population.
+The randomised, double-blind, placebo-controlled, parallel study of duloxetine was conducted in 184 adolescents aged 13 to 18 years (mean age 15.53 years) with JPFS.
+The study included a 13-week double-blind period where patients were randomised to duloxetine 30 mg/60 mg, or placebo daily.
+Duloxetine did not show efficacy in reducing pain as measured by primary outcome measure of Brief Pain Inventory (BPI) average pain score endpoint: least squares (LS) mean change from baseline in BPI average pain score at 13 weeks was -0.97 in the placebo group, compared with -1.62 in the duloxetine 30/60 mg group (p = 0.052).
+The safety results from this study were consistent with the known safety profile of duloxetine.
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Cymbalta in all subsets of the paediatric population in the treatment of major depressive disorder, diabetic neuropathic pain and generalised anxiety disorder.
 See section 4.2 for information on paediatric use.

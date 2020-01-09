@@ -1,6 +1,7 @@
 # 4.2 Posology and method of administration
 
 Posology
+
 Major depressive disorder
 The starting and recommended maintenance dose is 60 mg once daily with or without food.
 Dosages above 60 mg once daily, up to a maximum dose of 120 mg per day have been evaluated from a safety perspective in clinical trials.

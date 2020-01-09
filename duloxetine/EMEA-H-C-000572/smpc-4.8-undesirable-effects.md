@@ -25,8 +25,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Psychiatric disorders |  |  |  |  |
 |  | Insomnia Agitation Libido decreased Anxiety Orgasm abnormal Abnormal dreams | Suicidal ideation5,7 Sleep disorder Bruxism Disorientation Apathy | Suicidal behaviour5,7 Mania Hallucinations Aggression and anger4 |  |
 | Nervous system disorders |  |  |  |  |
-| Headache Somnolence | Dizziness Lethargy Tremor Paraesthesia | Myoclonus Akathisia7 Nervousness Disturbance in attention Dysgeusia Dyskinesia Restless legs syndrome | Serotonin syndrome6 Convulsion1 Psychomotor restlessness6 Extra-pyramidal symptoms6 |  |
-|  |  | Poor quality sleep |  |  |
+| Headache Somnolence | Dizziness Lethargy Tremor Paraesthesia | Myoclonus Akathisia7 Nervousness Disturbance in attention Dysgeusia Dyskinesia Restless legs syndrome Poor quality sleep | Serotonin syndrome6 Convulsion1 Psychomotor restlessness6 Extra-pyramidal symptoms6 |  |
 | Eye disorders |  |  |  |  |
 |  | Blurred vision | Mydriasis Visual impairment | Glaucoma |  |
 | Ear and labyrinth disorders |  |  |  |  |
@@ -36,20 +35,20 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Vascular disorders |  |  |  |  |
 |  | Blood pressure increase3 Flushing | Syncope2 Hypertension3,7 Orthostatic hypotension2 Peripheral coldness | Hypertensive crisis3,6 |  |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |
-|  | Yawning | Throat tightness Epistaxis |  |  |
+|  | Yawning | Throat tightness Epistaxis | Interstitial lung disease10 Eosinophilic pneumonia6 |  |
 | Gastrointestinal disorders |  |  |  |  |
 | Nausea Dry mouth | Constipation Diarrhoea Abdominal pain Vomiting Dyspepsia Flatulence | Gastrointestinal haemorrhage7 Gastroenteritis Eructation Gastritis Dysphagia | Stomatitis Haematochezia Breath odour Microscopic colitis9 |  |
 | Hepato-biliary disorders |  |  |  |  |
 |  |  | Hepatitis3 Elevated liver enzymes (ALT, AST, alkaline phosphatase) Acute liver injury | Hepatic failure6 Jaundice6 |  |
 | Skin and subcutaneous tissue disorders |  |  |  |  |
-|  | Sweating increased Rash | Night sweats Urticaria Dermatitis contact Cold sweat Photo-sensitivity reactions Increased tendency to bruise | Stevens-Johnson Syndrome6 Angio-neurotic oedema6 | Cutaneous vasculitis |
+|  | Sweating increased Rash | Night sweats Urticaria Dermatitis contact Cold sweat | Stevens-Johnson Syndrome6 Angio-neurotic oedema6 | Cutaneous vasculitis |
+|  |  | Photo-sensitivity reactions Increased tendency to bruise |  |  |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
 |  | Musculo-skeletal pain Muscle spasm | Muscle tightness Muscle twitching | Trismus |  |
 | Renal and urinary disorders |  |  |  |  |
-|  | Dysuria Pollakiuria | Urinary retention Urinary hesitation Nocturia | Urine odour abnormal |  |
-|  |  | Polyuria Urine flow decreased |  |  |
+|  | Dysuria Pollakiuria | Urinary retention Urinary hesitation Nocturia Polyuria Urine flow decreased | Urine odour abnormal |  |
 | Reproductive system and breast disorders |  |  |  |  |
-|  | Erectile dysfunction Ejaculation disorder Ejaculation delayed | Gynaecological haemorrhage Menstrual disorder Sexual dysfunction Testicular pain | Menopausal symptoms Galactorrhoea Hyperprolactinae mia |  |
+|  | Erectile dysfunction Ejaculation disorder Ejaculation delayed | Gynaecological haemorrhage Menstrual disorder Sexual dysfunction Testicular pain | Menopausal symptoms Galactorrhoea Hyperprolactinae mia Postpartum haemorrhage6 |  |
 | General disorders and administration site conditions |  |  |  |  |
 |  | Falls8 Fatigue | Chest pain7 Feeling abnormal Feeling cold Thirst Chills Malaise Feeling hot Gait disturbance |  |  |
 | Investigations |  |  |  |  |
@@ -64,7 +63,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 7 Not statistically significantly different from placebo.
 8 Falls were more common in the elderly (≥65 years old).
 9 Estimated frequency based on all clinical trial data.
-
+10Estimated frequency based on placebo-controlled clinical trials.
 c. Description of selected adverse reactions
 Discontinuation of duloxetine (particularly when abrupt) commonly leads to withdrawal symptoms.
 Dizziness, sensory disturbances (including paraesthesia or electric shock-like sensations, particularly in the head), sleep disturbances (including insomnia and intense dreams), fatigue, somnolence, agitation or anxiety, nausea and/or vomiting, tremor, headache, myalgia, irritability, diarrhoea, hyperhydrosis and vertigo are the most commonly reported reactions.

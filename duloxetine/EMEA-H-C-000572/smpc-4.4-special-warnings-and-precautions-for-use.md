@@ -59,6 +59,7 @@ In addition, long-term safety data in children and adolescents concerning growth
 
 Haemorrhage
 There have been reports of bleeding abnormalities, such as ecchymoses, purpura and gastrointestinal haemorrhage with selective serotonin reuptake inhibitors (SSRIs) and serotonin/noradrenaline reuptake inhibitors (SNRIs), including duloxetine.
+Duloxetine may increase the risk of postpartum haemorrhage (see section 4.6).
 Caution is advised in patients taking anticoagulants and/or medicinal products known to affect platelet function (e.g. NSAIDs or acetylsalicylic acid (ASA)), and in patients with known bleeding tendencies.
 
 Hyponatraemia
@@ -95,6 +96,10 @@ Most of them occurred during the first months of treatment.
 The pattern of liver damage was predominantly hepatocellular.
 Duloxetine should be used with caution in patients treated with other medicinal products associated with hepatic injury.
 
+Sexual dysfunction
+Selective serotonin reuptake inhibitors (SSRIs)/serotonin norepinephrine reuptake inhibitors (SNRIs) may cause symptoms of sexual dysfunction (see section 4.8).
+There have been reports of long-lasting sexual dysfunction where the symptoms have continued despite discontinuation of SSRIs/SNRIs.
+
 Sucrose
 Cymbalta hard gastro-resistant capsules contain sucrose.
-Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrose-isomaltase insufficiency should not take this medicine.
+Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine.

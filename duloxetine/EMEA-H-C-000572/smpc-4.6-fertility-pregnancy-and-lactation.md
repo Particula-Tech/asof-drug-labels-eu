@@ -5,6 +5,7 @@ In animal studies, duloxetine had no effect on male fertility, and effects in fe
 
 Pregnancy
 There are no adequate data on the use of duloxetine in pregnant women.
+
 Studies in animals have shown reproductive toxicity at systemic exposure levels (AUC) of duloxetine lower than the maximum clinical exposure (see section 5.3).
 
 The potential risk for humans is unknown.
@@ -16,6 +17,7 @@ As with other serotonergic medicinal products, discontinuation symptoms may occu
 Discontinuation symptoms seen with duloxetine may include hypotonia, tremor, jitteriness, feeding difficulty, respiratory distress and seizures.
 The majority of cases have occurred either at birth or within a few days of birth.
 
+Observational data have provided evidence of an increased risk (less than 2-fold) of postpartum haemorrhage following duloxetine exposure within the month prior to birth.
 Cymbalta should be used in pregnancy only if the potential benefit justifies the potential risk to the foetus.
 Women should be advised to notify their physician if they become pregnant, or intend to become pregnant, during therapy.
 
