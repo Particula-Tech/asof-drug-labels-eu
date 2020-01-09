@@ -44,10 +44,10 @@ The annualised relapse rate for glatiramer acetate and placebo was 0.286 and 0.4
 | No. subjects | 408 | 410 | 363 | 359 | 350 |
 | Annualised relapse rate | 0.364 | 0.172*** | 0.401 | 0.224*** | 0.286* |
 | Rate ratio (95% CI) |  | 0.47 (0.37, 0.61) |  | 0.56 (0.42, 0.74) | 0.71 (0.55, 0.93) |
-|  | Placebo | Tecfidera 240 mg twice a day | Placebo | Tecfidera 240 mg twice a day | Glatiramer acetate |
 | Proportion relapsed | 0.461 | 0.270*** | 0.410 | 0.291** | 0.321** |
 | Hazard ratio (95% CI) |  | 0.51 (0.40, 0.66) |  | 0.66 (0.51, 0.86) | 0.71 (0.55, 0.92) |
 | Proportion with 12-week confirmed disability progression | 0.271 | 0.164** | 0.169 | 0.128# | 0.156# |
+|  | Placebo | Tecfidera 240 mg twice a day | Placebo | Tecfidera 240 mg twice a day | Glatiramer acetate |
 | Hazard ratio (95% CI) |  | 0.62 (0.44, 0.87) |  | 0.79 (0.52, 1.19) | 0.93 (0.63, 1.37) |
 | Proportion with 24 week confirmed disability progression | 0.169 | 0.128# | 0.125 | 0.078# | 0.108# |
 | Hazard ratio (95% CI) |  | 0.77 (0.52, 1.14) |  | 0.62 (0.37, 1.03) | 0.87 (0.55, 1.38) |

@@ -14,11 +14,11 @@ Dimethyl fumarate was administered orally at doses of 25, 75, 200 and 400 mg/kg/
 In mice, the incidence of renal tubular carcinoma was increased at 75 mg/kg/day, at equivalent exposure (AUC) to the recommended human dose.
 In rats, the incidence of renal tubular carcinoma was increased at 100 mg/kg/day, approximately 2 times higher exposure than the recommended human dose.
 The relevance of these findings to human risk is unknown.
+
 The incidence of squamous cell papilloma and carcinoma in the nonglandular stomach (forestomach) was increased at equivalent exposure to the recommended human dose in mice and below exposure to the recommended human dose in rats (based on AUC).
 The forestomach in rodents does not have a human counterpart.
 
 Toxicology
-
 Nonclinical studies in rodent, rabbits, and monkeys were conducted with a dimethyl fumarate suspension (dimethyl fumarate in 0.8% hydroxypropyl methylcellulose) administered by oral gavage.
 The chronic dog study was conducted with oral administration of the dimethyl fumarate capsule.
 

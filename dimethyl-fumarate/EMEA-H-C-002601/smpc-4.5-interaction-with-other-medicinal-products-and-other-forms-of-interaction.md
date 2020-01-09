@@ -16,7 +16,6 @@ During treatment with Tecfidera, simultaneous use of other fumaric acid derivati
 
 In humans, dimethyl fumarate is extensively metabolised by esterases before it reaches the systemic circulation and further metabolism occurs through the tricarboxylic acid cycle, with no involvement of the cytochrome P450 (CYP) system.
 Potential drug interaction risks were not identified from in vitro CYP-inhibition and induction studies, a p-glycoprotein study, or studies of the protein binding of dimethyl fumarate and monomethyl fumarate (a primary metabolite of dimethyl fumarate).
-
 Commonly used medicinal products in patients with multiple sclerosis, intramuscular interferon beta-1a and glatiramer acetate, were clinically tested for potential interactions with dimethyl fumarate and did not alter the pharmacokinetic profile of dimethyl fumarate.
 
 Evidence from healthy volunteer studies suggests that Tecfidera-associated flushing is likely to be prostaglandin mediated.

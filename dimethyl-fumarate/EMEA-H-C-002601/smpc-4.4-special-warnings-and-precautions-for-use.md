@@ -93,6 +93,25 @@ Patients with serious infections should not start treatment with Tecfidera until
 There was no increased incidence of serious infections observed in patients with lymphocyte counts <0.8x109/L or <0.5x109/L (see Section 4.8).
 If therapy is continued in the presence of moderate to severe prolonged lymphopenia, the risk of an opportunistic infection, including PML, cannot be ruled out (see section 4.4 subsection PML).
 
+Herpes zoster infections
+
+Cases of herpes zoster have occurred with Tecfidera.
+The majority of cases were non-serious, however, serious cases, including disseminated herpes zoster, herpes zoster ophthalmicus, herpes zoster oticus, herpes zoster infection neurological, herpes zoster meningoencephalitis and herpes zoster meningomyelitis have been reported.
+These events may occur at any time during treatment.
+Monitor patients taking Tecfidera for signs and symptoms of herpes zoster especially when concurrent lymphocytopenia is reported.
+If herpes zoster occurs, appropriate treatment for herpes zoster should be administered.
+Consider withholding Tecfidera treatment in patients with serious infections until the infection has resolved (see section 4.8).
+
 Treatment initiation
 
 Tecfidera treatment should be started gradually to reduce the occurrence of flushing and gastrointestinal adverse reactions (see section 4.2).
+
+Fanconi syndrome
+
+Cases of Fanconi syndrome have been reported for a medicinal product containing dimethyl fumarate in combination with other fumaric acid esters.
+Early diagnosis of Fanconi syndrome and discontinuation of dimethyl fumarate treatment are important to prevent the onset of renal impairment and osteomalacia, as the syndrome is usually reversible.
+The most important signs are: proteinuria, glucosuria (with normal blood sugar levels), hyperaminoaciduria and phosphaturia (possibly concurrent with hypophosphatemia).
+Progression might involve symptoms such as polyuria, polydipsia and proximal muscle weakness.
+In rare cases hypophosphataemic osteomalacia with non-localised bone pain, elevated alkaline phosphatase in serum and stress fractures may occur.
+Importantly, Fanconi syndrome can occur without elevated creatinine levels or low glomerular filtration rate.
+In case of unclear symptoms Fanconi syndrome should be considered and appropriate examinations should be performed.

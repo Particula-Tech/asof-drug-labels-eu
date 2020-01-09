@@ -8,6 +8,7 @@ The most commonly reported adverse reactions leading to discontinuation (inciden
 In placebo-controlled and uncontrolled clinical studies, a total of 2,468 patients have received Tecfidera and been followed for periods up to 4 years with an overall exposure equivalent to 3,588 person-years.
 Approximately 1,056 patients have received more than 2 years of treatment with Tecfidera.
 The experience in uncontrolled clinical trials is consistent with the experience in the placebo-controlled clinical trials.
+
 Tabulated summary of adverse reactions
 
 Adverse reactions, which were more frequently reported in Tecfidera versus placebo-treated patients, are presented in the table below.
@@ -28,6 +29,7 @@ The incidence of the adverse reactions below are expressed according to the foll
 | --- | --- | --- |
 | Infections and infestations | Gastroenteritis | Common |
 |  | Progressive multifocal leukoencephalopathy (PML) 1 | Not known |
+|  | Herpes zoster1 | Not known |
 | Blood and lymphatic system disorders | Lymphopenia | Common |
 |  | Leucopenia | Common |
 |  | Thrombocytopenia | Uncommon |
@@ -73,7 +75,6 @@ Flushing events tend to begin early in the course of treatment (primarily during
 In patients with flushing, the majority had flushing events that were mild or moderate in severity.
 Overall, 3% of patients treated with Tecfidera discontinued due to flushing.
 The incidence of serious flushing, which may be characterised by generalised erythema, rash and/or pruritus, was seen in less than 1% of patients treated with Tecfidera (see sections 4.2, 4.4 and 4.5).
-
 Gastrointestinal
 
 The incidence of gastrointestinal events (e.g. diarrhoea [14% versus 10%], nausea [12% versus 9%], upper abdominal pain [10% versus 6%], abdominal pain [9% versus 4%], vomiting [8% versus 5%] and dyspepsia [5% versus 3%]) was increased in patients treated with Tecfidera compared to placebo, respectively.
@@ -92,6 +93,16 @@ Elevations in transaminases ≥3 times ULN with concomitant elevations in total 
 
 Increase of liver enzymes and cases of drug-induced liver injury (elevations in transaminases ≥3 times ULN with concomitant elevations in total bilirubin >2 times ULN), have been reported in post marketing experience following Tecfidera administration, which resolved upon treatment discontinuation.
 
+Infections
+
+Herpes zoster infections have been reported with Tecfidera use.
+In an ongoing long-term extension study, in which 1736 MS patients are treated with Tecfidera, approximately 5% experienced one or more events of herpes zoster, the majority of which were mild to moderate in severity.
+Most subjects, including those who experienced a serious herpes zoster infection, had lymphocyte counts above the lower limit of normal.
+Grade 2 and 3 lymphopenia prevailed in subjects with concurrent lymphocytopenia.
+In the post-marketing setting most cases of herpes zoster infection were non-serious and resolved with treatment.
+Limited data is available on ALC in patients with herpes zoster infection in the post-marketing setting.
+However, when reported, most patients experienced grade 2 (< 0.8 × 109/L to 0.5 × 109/L) or grade 3 (<0.5 × 109/L to 0.2 × 109/L) lymphopenia (see section 4.4).
+
 Lymphopenia
 
 In the placebo-controlled studies most patients (>98%) had normal lymphocyte values prior to initiating treatment.
@@ -101,7 +112,6 @@ Mean and median lymphocyte counts remained within normal limits.
 Lymphocyte counts <0.5x109/l were observed in <1% of patients treated with placebo and 6% of patients treated with Tecfidera.
 A lymphocyte count <0.2x109/l was observed in 1 patient treated with Tecfidera and in no patients treated with placebo.
 In clinical studies (both controlled and uncontrolled), 9% of patients had lymphocyte counts ≥0.5 x 109/L and <0.8 x 109/L for at least six months; 2% of patients experienced lymphocyte counts <0.5 x 109/L for at least six months, and in this group the majority of lymphocyte counts remained <0.5 x 109/L with continued therapy.
-
 PML has occurred in the setting of moderate to severe prolonged lymphopenia (see section 4.4).
 
 Laboratory abnormalities
