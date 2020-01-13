@@ -32,8 +32,8 @@ Less than 1% of unchanged parent drug was recovered in the urine.
 Approximately 28% of the urinary metabolites are unidentified minor metabolites.
 
 Special Populations
-No major pharmacokinetic differences have been observed based on gender or age.
 
+No major pharmacokinetic differences have been observed based on gender or age.
 Dexmedetomidine plasma protein binding is decreased in subjects with hepatic impairment compared with healthy subjects.
 The mean percentage of unbound dexmedetomidine in plasma ranged from 8.5% in healthy subjects to 17.9% in subjects with severe hepatic impairment.
 Subjects with varying degrees of hepatic impairment (Child-Pugh Class A, B, or C) had decreased hepatic clearance of dexmedetomidine and prolonged plasma elimination t1/2.

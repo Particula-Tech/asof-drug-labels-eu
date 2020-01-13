@@ -42,19 +42,19 @@ The pharmacokinetic distribution half –life of Dexdor has been estimated to be
 Initiation of Procedural Sedation:
 
 - A loading infusion of 1.0 microgram/kg over 10 minutes.
-For less invasive procedures such as ophthalmic surgery, a loading infusion of 0.5 micrograms/kg given over 10 minutes may be suitable.
+  For less invasive procedures such as ophthalmic surgery, a loading infusion of 0.5 micrograms/kg given over 10 minutes may be suitable.
 
 Maintenance of Procedural Sedation:
 
 - The maintenance infusion is generally initiated at 0.6-0.7 microgram/kg/hour and titrated to achieve desired clinical effect with doses ranging from 0.2 to 1 microgram/kg/hour.
-The rate of the maintenance infusion should be adjusted to achieve the targeted level of sedation.
+  The rate of the maintenance infusion should be adjusted to achieve the targeted level of sedation.
 
 Special populations
 
 Elderly
+
 No dose adjustment is normally required for elderly patients (see section 5.2).
 Elderly patients appear to have an increased risk for hypotension (see section 4.4) but the limited data available from procedural sedation do not suggest a clear dose dependency.
-
 Renal impairment
 
 No dose adjustment is required for patients with renal impairment.

@@ -17,7 +17,6 @@ Users should therefore be ready to use an alternative sedative for acute control
 During procedural sedation a small bolus of another sedative may be used if a rapid increase in sedation level is required.
 Some patients receiving Dexdor have been observed to be arousable and alert when stimulated.
 This alone should not be considered as evidence of lack of efficacy in the absence of other clinical signs and symptoms.
-
 Dexmedetomidine normally does not cause deep sedation and patients may be easily roused.
 Dexmedetomidine is therefore not suitable in patients who will not tolerate this profile of effects, for example those requiring continuous deep sedation.
 
@@ -47,6 +46,7 @@ Caution should be exercised when administering dexmedetomidine to patients with 
 Data on the effects of Dexdor in patients with heart rate <60 are very limited and particular care should be taken with such patients.
 Bradycardia does not normally require treatment, but has commonly responded to anti-cholinergic medicine or dose reduction where needed.
 Patients with high physical fitness and slow resting heart rate may be particularly sensitive to bradycardic effects of alpha-2 receptor agonists and cases of transient sinus arrest have been reported.
+Also cases of cardiac arrest, often preceded by bradycardia or atrioventricular block, have been reported (see section 4.8).
 
 The hypotensive effects of dexmedetomidine may be of greater significance in those patients with pre-existing hypotension (especially if not responsive to vasopressors), hypovolaemia, chronic hypotension or reduced functional reserve such as patients with severe ventricular dysfunction and the elderly and special care is warranted in these cases (see section 4.3).
 Hypotension does not normally require specific treatment but, where needed, users should be ready to intervene with dose reduction, fluids and/or vasoconstrictors .
@@ -55,7 +55,6 @@ Patients with impaired peripheral autonomic activity (e.g. due to spinal cord in
 
 Transient hypertension has been observed primarily during the loading dose in association with the peripheral vasoconstrictive effects of dexmedetomidine and a loading dose is not recommended in ICU sedation.
 Treatment of hypertension has generally not been necessary but decreasing the continuous infusion rate may be advisable.
-
 Local vasoconstriction at higher concentration may be of greater significance in patients with ischaemic heart disease or severe cerebrovascular disease who should be monitored closely.
 Dose reduction or discontinuation should be considered in a patient developing signs of myocardial or cerebral ischaemia.
 

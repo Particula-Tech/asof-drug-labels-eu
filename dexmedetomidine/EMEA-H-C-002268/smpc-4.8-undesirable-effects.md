@@ -16,8 +16,8 @@ The most frequently reported adverse reactions with dexmedetomidine in procedura
 Tabulated list of adverse reactions
 
 The adverse reactions listed in Table 1 have been accumulated from pooled data of clinical trials in intensive care.
-Adverse reactions are ranked under headings of frequency, the most frequent first, using the following convention: Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000), very rare (<1/10,000).
 
+Adverse reactions are ranked under headings of frequency, the most frequent first, using the following convention: Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000), very rare (<1/10,000).
 Table 1.
 Adverse reactions
 
@@ -32,7 +32,7 @@ Uncommon: Hallucination
 Cardiac disorders
 Very common: Bradycardia1,2
 Common: Myocardial ischaemia or infarction, tachycardia
-Uncommon: Atrioventricular block first degree, cardiac output decreased
+Uncommon: Atrioventricular block1, cardiac output decreased, cardiac arrest1
 
 Vascular disorders:
 Very common: Hypotension1,2, hypertension1,2
@@ -63,8 +63,10 @@ Clinically significant hypotension or bradycardia should be treated as described
 In relatively healthy non-ICU subjects treated with dexmedetomidine, bradycardia has occasionally led to sinus arrest or pause.
 The symptoms responded to leg raising and anticholinergics such as atropine or glycopyrrolate.
 In isolated cases bradycardia has progressed to periods of asystole in patients with pre-existing bradycardia.
+Also cases of cardiac arrest, often preceded by bradycardia or atrioventricular block, have been reported.
 
 Hypertension has been associated with the use of a loading dose and this reaction can be reduced by avoiding such a loading dose or reducing the infusion rate or size of the loading dose.
+
 Paediatric population
 
 Children > 1 month post-natal, predominantly post-operative, have been evaluated for treatment up to 24 hours in the ICU and demonstrated a similar safety profile as in adults.
