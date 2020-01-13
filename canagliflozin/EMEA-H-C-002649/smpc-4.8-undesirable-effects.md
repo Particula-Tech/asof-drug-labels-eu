@@ -23,11 +23,15 @@ Table 1: Tabulated list of adverse reactions (MedDRA) from placebo-e and active-
 | System organ class Frequency | Adverse reaction |
 | --- | --- |
 | Infections and infestations |  |
+| very common | Vulvovaginal candidiasisb,k |
+| common | Balanitis or balanoposthitisb,l, Urinary tract infectionc (pyelonephritis and urosepsis have been reported postmarketing) |
 | not known | Necrotising fasciitis of the perineum (Fournier’s gangrene)d |
 | Immune system disorders |  |
 | rare | Anaphylactic reactionh |
 | Metabolism and nutrition disorders |  |
-| very common uncommon rare | Hypoglycaemia in combination with insulin or sulphonylureac Dehydrationa Diabetic ketoacidosisb, h |
+| very common | Hypoglycaemia in combination with insulin or sulphonylureac |
+| uncommon | Dehydrationa |
+| rare | Diabetic ketoacidosisb,h |
 | Nervous system disorders |  |
 | uncommon | Dizziness posturala, Syncopea |
 | Vascular disorders |  |
@@ -35,15 +39,16 @@ Table 1: Tabulated list of adverse reactions (MedDRA) from placebo-e and active-
 | Gastrointestinal disorders |  |
 | common | Constipation, Thirstf, Nausea |
 | Skin and subcutaneous tissue disorders |  |
-| uncommon rare | Rashg, Urticaria Angioedemah |
+| uncommon | Photosensitivity, Rashg, Urticaria |
+| rare | Angioedemah |
 | Musculoskeletal and connective tissue disorders |  |
 | uncommon | Bone fracturei |
 | Renal and urinary disorders |  |
-| common uncommon | Polyuria or Pollakiuriaj, Urinary tract infectionc (pyelonephritis and urosepsis have been reported postmarketing) Renal failureh (mainly in the context of volume depletion) |
-| Reproductive system and breast disorders |  |
-| very common common | Vulvovaginal candidiasisb, k Balanitis or balanoposthitisb, l |
+| common | Polyuria or Pollakiuriaj |
+| uncommon | Renal failureh (mainly in the context of volume depletion) |
 | Investigations |  |
-| common uncommon | Dyslipidemiam, Haematocrit increasedb, n Blood creatinine increasedb, o, Blood urea increasedb, p, Blood potassium increasedb, q, Blood phosphate increasedr |
+| common | Dyslipidemiam, Haematocrit increasedb,n |
+| uncommon | Blood creatinine increasedb,o, Blood urea increasedb,p, Blood potassium increasedb,q, Blood phosphate increasedr |
 | Surgical and medical procedures |  |
 | uncommon | Lower limb amputations (mainly of the toe and midfoot) especially in patients at high risk for heart diseaseb |
 
@@ -67,6 +72,7 @@ n Mean changes from baseline in haematocrit were 2.4% and 2.5% for canagliflozin
 p Mean percent changes from baseline in blood urea nitrogen were 17.1% and 18.0% for canagliflozin 100 mg and 300 mg, respectively, compared to 2.7% for placebo.
 q Mean percent changes from baseline in blood potassium were 0.5% and 1.0% for canagliflozin 100 mg and 300 mg, respectively, compared to 0.6% for placebo.
 r Mean percent changes from baseline in serum phosphate were 3.6% and 5.1% for canagliflozin 100 mg and 300 mg, compared to 1.5% for placebo.
+
 Description of selected adverse reactions
 
 Lower limb amputation
@@ -86,8 +92,8 @@ Table 2: Integrated Analysis of Amputations in CANVAS AND CANVAS-R
 | Total number of subjects with events, n (%) | 47 (1.1) | 140 (2.4) |
 | Incidence rate (per 100 subject-years) | 0.34 | 0.63 |
 | HR (95% CI) vs. placebo |  | 1.97 (1.41, 2.75) |
-| Minor Amputation, n (%) * | 34/47 (72.3) | 99/140 (70.7) |
-| Major Amputation, n (%) † | 13/47 (27.7) | 41/140 (29.3) |
+| Minor Amputation, n (%)* | 34/47 (72.3) | 99/140 (70.7) |
+| Major Amputation, n (%)† | 13/47 (27.7) | 41/140 (29.3) |
 
 Note: Incidence is based on the number of patients with at least one amputation, and not the total number of amputation events.
 A patient’s follow-up is calculated from Day 1 to the first amputation event date.
@@ -153,7 +159,6 @@ After 104 weeks of treatment, canagliflozin did not adversely affect bone minera
 Special populations
 
 Elderly (≥65 years old)
-
 In a pooled analysis of 13 placebo-controlled and active-controlled studies, the safety profile of canagliflozin in elderly patients was generally consistent with younger patients.
 Patients ≥75 years of age had a higher incidence of adverse reactions related to volume depletion (such as postural dizziness, orthostatic hypotension, hypotension) with incidence rates of 5.3, 6.1, and 2.4 events per 100 patient-years of exposure for canagliflozin 100 mg, canagliflozin 300 mg, and in the control group, respectively.
 Decreases in eGFR (-3.4 and -4.7 mL/min/1.73 m2) were reported with canagliflozin 100 mg and canagliflozin 300 mg, respectively, compared to the control group
@@ -161,9 +166,7 @@ Decreases in eGFR (-3.4 and -4.7 mL/min/1.73 m2) were reported with canagliflozi
 Mean baseline eGFR was 62.5, 64.7, and 63.5 mL/min/1.73 m2 for canagliflozin 100 mg, canagliflozin 300 mg, and the control group, respectively (see sections 4.2 and 4.4).
 
 Renal impairment
-
 Patients with a baseline eGFR < 60 mL/min/1.73 m2 had a higher incidence of adverse reactions associated with volume depletion (e.g., postural dizziness, orthostatic hypotension, hypotension) with incidence rates of 5.3, 5.1, and 3.1 events per 100 patient-years of exposure for canagliflozin 100 mg, canagliflozin 300 mg, and placebo, respectively (see sections 4.2 and 4.4).
-
 The overall incidence rate of elevated serum potassium was higher in patients with moderate renal impairment with incidence rates of 4.9, 6.1, and 5.4 events per 100 patient-years of exposure for canagliflozin 100 mg, canagliflozin 300 mg, and placebo, respectively.
 In general, elevations were transient and did not require specific treatment.
 

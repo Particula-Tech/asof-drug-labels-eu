@@ -24,7 +24,6 @@ Biotransformation
 
 O-glucuronidation is the major metabolic elimination pathway for canagliflozin, which is mainly glucuronidated by UGT1A9 and UGT2B4 to two inactive O-glucuronide metabolites.
 CYP3A4-mediated (oxidative) metabolism of canagliflozin is minimal (approximately 7%) in humans.
-
 In in vitro studies, canagliflozin neither inhibited cytochrome P450 CYP1A2, CYP2A6, CYP2C19, CYP2D6, or CYP2E1, CYP2B6, CYP2C8, CYP2C9, nor induced CYP1A2, CYP2C19, CYP2B6, CYP3A4 at higher than therapeutic concentrations.
 No clinically relevant effect on CYP3A4 was observed in vivo (see section 4.5).
 
@@ -42,7 +41,6 @@ Canagliflozin is a low-clearance substance, with a mean systemic clearance of ap
 Special populations
 
 Renal impairment
-
 A single-dose, open-label study evaluated the pharmacokinetics of canagliflozin 200 mg in subjects with varying degrees of renal impairment (classified using CrCl based on the Cockroft-Gault equation) compared to healthy subjects.
 The study included 8 subjects with normal renal function
 (CrCl ≥80 mL/min), 8 subjects with mild renal impairment (CrCl 50 mL/min to < 80 mL/min),
@@ -54,21 +52,18 @@ Compared to healthy subjects, plasma AUC of canagliflozin was increased by appro
 Canagliflozin was negligibly removed by haemodialysis.
 
 Hepatic impairment
-
 Relative to subjects with normal hepatic function, the geometric mean ratios for Cmax and AUC∞of canagliflozin were 107% and 110%, respectively, in subjects with Child-Pugh class A (mild hepatic impairment) and 96% and 111%, respectively, in subjects with Child-Pugh class B (moderate) hepatic impairment following administration of a single 300 mg dose of canagliflozin.
 
 These differences are not considered to be clinically meaningful.
 There is no clinical experience in patients with Child-Pugh class C (severe) hepatic impairment.
 
 Elderly (≥65 years old)
-
 Age had no clinically meaningful effect on the pharmacokinetics of canagliflozin based on a population pharmacokinetic analysis (see sections 4.2, 4.4, and 4.8).
 
 Paediatric population
 
 A paediatric phase 1 study examined the pharmacokinetics and pharmacodynamics of canagliflozin in children and adolescents ≥10 to < 18 years of age with type 2 diabetes mellitus.
 The observed pharmacokinetic and pharmacodynamic responses were consistent with those found in adult subjects.
-
 Other special populations
 
 Pharmacogenetics

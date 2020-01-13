@@ -45,7 +45,9 @@ Patients should be assessed for ketoacidosis immediately if these symptoms occur
 In patients where DKA is suspected or diagnosed, treatment with canagliflozin should be discontinued immediately.
 
 Treatment should be interrupted in patients who are hospitalised for major surgical procedures or acute serious medical illnesses.
-In both cases, treatment with canagliflozin may be restarted once the patient’s condition has stabilised.
+Monitoring of ketones is recommended in these patients.
+Measurement of blood ketone levels is preferred to urine.
+Treatment with canagliflozin may be restarted when the ketone values are normal and the patient’s condition has stabilised.
 
 Before initiating canagliflozin, factors in the patient history that may predispose to ketoacidosis should be considered.
 
