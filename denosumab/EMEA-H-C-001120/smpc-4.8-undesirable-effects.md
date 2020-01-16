@@ -2,8 +2,8 @@
 
 Summary of the safety profile
 
-The most common side effects with Prolia (seen in more than one patient in ten) are musculoskeletal pain and pain in the extremity.
-Uncommon cases of cellulitis, rare cases of hypocalcaemia, hypersensitivity, osteonecrosis of the jaw and atypical femoral fractures (see section 4.4 and section 4.8 - description of selected adverse reactions) have been observed in patients taking Prolia.
+The most common side effects with denosumab (seen in more than one patient in ten) are musculoskeletal pain and pain in the extremity.
+Uncommon cases of cellulitis, rare cases of hypocalcaemia, hypersensitivity, osteonecrosis of the jaw and atypical femoral fractures (see sections 4.4 and 4.8 - description of selected adverse reactions) have been observed in patients taking denosumab.
 
 Tabulated list of adverse reactions
 
@@ -37,23 +37,25 @@ Hypocalcaemia
 In two phase III placebo-controlled clinical trials in postmenopausal women with osteoporosis, approximately 0.05% (2 out of 4,050) of patients had declines of serum calcium levels (less than 1.88 mmol/l) following Prolia administration.
 Declines of serum calcium levels (less than 1.88 mmol/l) were not reported in either the two phase III placebo-controlled clinical trials in patients receiving hormone ablation or the phase III placebo-controlled clinical trial in men with osteoporosis.
 
-In the post-marketing setting, rare cases of severe symptomatic hypocalcaemia have been reported predominantly in patients at increased risk of hypocalcaemia receiving Prolia, with most cases occurring in the first weeks of initiating therapy.
+In the post-marketing setting, rare cases of severe symptomatic hypocalcaemia have been reported predominantly in patients at increased risk of hypocalcaemia receiving denosumab, with most cases occurring in the first weeks of initiating therapy.
 Examples of the clinical manifestations of severe symptomatic hypocalcaemia have included QT interval prolongation, tetany, seizures and altered mental status (see section 4.4).
 Symptoms of hypocalcaemia in denosumab clinical studies included paraesthesias or muscle stiffness, twitching, spasms and muscle cramps.
 
 Skin infections
-In phase III placebo-controlled clinical trials, the overall incidence of skin infections was similar in the placebo and the Prolia groups: in postmenopausal women with osteoporosis (placebo [1.2%, 50 out of 4,041] versus Prolia [1.5%, 59 out of 4,050]); in men with osteoporosis (placebo [0.8%, 1 out of 120] versus Prolia [0%, 0 out of 120]); in breast or prostate cancer patients receiving hormone ablation (placebo [1.7%, 14 out of 845] versus Prolia [1.4%, 12 out of 860]).
+In phase III placebo-controlled clinical trials, the overall incidence of skin infections was similar in the placebo and the denosumab groups: in postmenopausal women with osteoporosis (placebo [1.2%, 50 out of 4,041] versus Prolia [1.5%, 59 out of 4,050]); in men with osteoporosis (placebo [0.8%,
+1 out of 120] versus Prolia [0%, 0 out of 120]); in breast or prostate cancer patients receiving hormone ablation (placebo [1.7%, 14 out of 845] versus Prolia [1.4%, 12 out of 860]).
 Skin infections leading to hospitalisation were reported in 0.1% (3 out of 4,041) of postmenopausal women with osteoporosis receiving placebo versus 0.4% (16 out of 4,050) of women receiving Prolia.
 These cases were predominantly cellulitis.
 Skin infections reported as serious adverse reactions were similar in the placebo (0.6%, 5 out of 845) and the Prolia (0.6%, 5 out of 860) groups in the breast and prostate cancer studies.
 
 Osteonecrosis of the jaw
 ONJ has been reported rarely, in 16 patients, in clinical trials in osteoporosis and in breast or prostate cancer patients receiving hormone ablation including a total of 23,148 patients (see section 4.4).
-Thirteen of these ONJ cases occurred in postmenopausal women with osteoporosis during the phase III clinical trial extension following treatment with Prolia for up to 10 years.
-Incidence of ONJ was 0.04% at 3 years, 0.06% at 5 years and 0.44% at 10 years of Prolia treatment.
-The risk of ONJ increased with duration of exposure to Prolia.
+Thirteen of these ONJ cases occurred in postmenopausal women with osteoporosis during the phase III clinical trial extension following treatment with denosumab for up to 10 years.
+Incidence of ONJ was 0.04% at 3 years, 0.06% at 5 years and 0.44% at 10 years of denosumab treatment.
+The risk of ONJ increased with duration of exposure to denosumab.
+
 Atypical fractures of the femur
-In the osteoporosis clinical trial program, atypical femoral fractures were reported rarely in patients treated with Prolia (see section 4.4).
+In the osteoporosis clinical trial program, atypical femoral fractures were reported rarely in patients treated with denosumab (see section 4.4).
 
 Diverticulitis
 In a single phase III placebo-controlled clinical trial in patients with prostate cancer receiving ADT an imbalance in diverticulitis adverse events was observed (1.2% denosumab, 0% placebo).
@@ -68,7 +70,7 @@ In clinical trials, musculoskeletal pain was very common in both denosumab and p
 Musculoskeletal pain leading to discontinuation of study treatment was uncommon.
 
 Lichenoid drug eruptions
-Lichenoid drug eruptions (e.g. lichen planus-like reactions), have been reported in patients in the post-marketing setting.
+Lichenoid drug eruptions (e.g. lichen planus-like reactions) have been reported in patients in the post-marketing setting.
 
 Other special populations
 

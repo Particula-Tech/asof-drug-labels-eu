@@ -4,6 +4,7 @@ Absorption
 
 Following subcutaneous administration of a 1.0 mg/kg dose, which approximates the approved 60 mg dose, exposure based on AUC was 78% as compared to intravenous administration at the same dose level.
 For a 60 mg subcutaneous dose, maximum serum denosumab concentrations (Cmax) of 6 mcg/mL (range 1-17 μg/mL) occurred in 10 days (range 2-28 days).
+
 Biotransformation
 
 Denosumab is composed solely of amino acids and carbohydrates as native immunoglobulin and is unlikely to be eliminated via hepatic metabolic mechanisms.

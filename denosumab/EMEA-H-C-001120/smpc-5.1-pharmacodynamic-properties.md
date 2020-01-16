@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Drugs for the treatment of bone diseases – Other drugs affecting bone structure and mineralisation, ATC code: M05BX04
+Pharmacotherapeutic group: Drugs for treatment of bone diseases – Other drugs affecting bone structure and mineralisation, ATC code: M05BX04
 Mechanism of action
 
 Denosumab is a human monoclonal antibody (IgG2) that targets and binds with high affinity and specificity to RANKL, preventing activation of its receptor, RANK, on the surface of osteoclast precursors and osteoclasts.
@@ -21,7 +21,7 @@ Using a sensitive immunoassay < 1% of patients treated with denosumab for up to 
 
 Clinical efficacy and safety in postmenopausal women with osteoporosis
 
-Efficacy and safety of Prolia administered once every 6 months for 3 years were investigated in postmenopausal women (7,808 women aged 60-91 years, of which 23.6% had prevalent vertebral fractures) with baseline bone mineral density (BMD) T-scores at the lumbar spine or total hip between –2.5 and –4.0 and a mean absolute 10-year fracture probability of 18.60% (deciles: 7.9-32.4%) for major osteoporotic fracture and 7.22% (deciles: 1.4-14.9%) for hip fracture.
+Efficacy and safety of denosumab administered once every 6 months for 3 years were investigated in postmenopausal women (7,808 women aged 60-91 years, of which 23.6% had prevalent vertebral fractures) with baseline bone mineral density (BMD) T-scores at the lumbar spine or total hip between –2.5 and –4.0 and a mean absolute 10-year fracture probability of 18.60% (deciles: 7.9-32.4%) for major osteoporotic fracture and 7.22% (deciles: 1.4-14.9%) for hip fracture.
 Women with other diseases or on therapies that may affect bone were excluded from this study.
 Women received calcium (at least 1,000 mg) and vitamin D (at least 400 IU) supplementation daily.
 

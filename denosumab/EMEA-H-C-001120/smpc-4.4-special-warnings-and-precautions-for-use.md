@@ -1,6 +1,6 @@
 # 4.4 Special warnings and precautions for use
 
-Calcium and Vitamin D supplementation
+Calcium and vitamin D supplementation
 
 Adequate intake of calcium and vitamin D is important in all patients.
 
@@ -22,7 +22,7 @@ The risks of developing hypocalcaemia and accompanying parathyroid hormone eleva
 Adequate intake of calcium, vitamin D and regular monitoring of calcium is especially important in these patients, see above.
 
 Skin infections
-Patients receiving Prolia may develop skin infections (predominantly cellulitis) leading to hospitalisation (see section 4.8).
+Patients receiving denosumab may develop skin infections (predominantly cellulitis) leading to hospitalisation (see section 4.8).
 Patients should be advised to seek prompt medical attention if they develop signs or symptoms of cellulitis.
 
 Osteonecrosis of the Jaw (ONJ)
@@ -39,7 +39,7 @@ The following risk factors should be considered when evaluating a patient’s ri
 - poor oral hygiene, periodontal disease, poorly fitting dentures, history of dental disease, invasive dental procedures e.g. tooth extractions.
 
 All patients should be encouraged to maintain good oral hygiene, receive routine dental check-ups, and immediately report any oral symptoms such as dental mobility, pain or swelling or non-healing of sores or discharge during treatment with denosumab.
-While on treatment, invasive dental procedures should be performed only after careful consideration and be avoided in close proximity to Prolia administration.
+While on treatment, invasive dental procedures should be performed only after careful consideration and be avoided in close proximity to denosumab administration.
 
 The management plan of the patients who develop ONJ should be set up in close collaboration between the treating physician and a dentist or oral surgeon with expertise in ONJ.
 Temporary interruption of treatment should be considered until the condition resolves and contributing risk factors are mitigated where possible.
@@ -53,10 +53,10 @@ Atypical fractures of the femur
 Atypical femoral fractures have been reported in patients receiving denosumab (see section 4.8).
 Atypical femoral fractures may occur with little or no trauma in the subtrochanteric and diaphyseal regions of the femur.
 Specific radiographic findings characterise these events.
-Atypical femoral fractures have also been reported in patients with certain co-morbid conditions (e.g. vitamin D deficiency, rheumatoid arthritis, hypophosphatasia) and with use of certain pharmaceutical agents (e.g. bisphosphonates, glucocorticoids, proton pump inhibitors).
+Atypical femoral fractures have also been reported in patients with certain co-morbid conditions (e.g. vitamin D deficiency, rheumatoid arthritis, hypophosphatasia) and with use of certain medicinal products (e.g. bisphosphonates, glucocorticoids, proton pump inhibitors).
 These events have also occurred without antiresorptive therapy.
-Similar fractures reported in association with bisphosphonates are often bilateral; therefore the contralateral femur should be examined in denosumab-treated patients who have sustained a femoral shaft fracture.
-Discontinuation of Prolia therapy in patients suspected to have an atypical femur fracture should be considered pending evaluation of the patient based on an individual benefit-risk assessment.
+Similar fractures reported in association with bisphosphonates are often bilateral; therefore, the contralateral femur should be examined in denosumab-treated patients who have sustained a femoral shaft fracture.
+Discontinuation of denosumab therapy in patients suspected to have an atypical femur fracture should be considered pending evaluation of the patient based on an individual benefit-risk assessment.
 During denosumab treatment, patients should be advised to report new or unusual thigh, hip, or groin pain.
 Patients presenting with such symptoms should be evaluated for an incomplete femoral fracture.
 
@@ -64,7 +64,7 @@ Long-term antiresorptive treatment
 Long-term antiresorptive treatment (including both denosumab and bisphosphonates) may contribute to an increased risk for adverse outcomes such as osteonecrosis of the jaw and atypical femur fractures due to significant suppression of bone remodelling (see section 4.2).
 
 Concomitant treatment with other denosumab-containing medicinal products
-Patients being treated with Prolia should not be treated concomitantly with other denosumab-containing medicinal products (for prevention of skeletal related events in adults with bone metastases from solid tumours).
+Patients being treated with denosumab should not be treated concomitantly with other denosumab-containing medicinal products (for prevention of skeletal related events in adults with bone metastases from solid tumours).
 
 Dry natural rubber
 The needle cover of the pre-filled syringe contains dry natural rubber (a derivative of latex), which may cause allergic reactions.
