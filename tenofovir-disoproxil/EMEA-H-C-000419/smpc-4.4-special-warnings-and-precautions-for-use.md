@@ -15,11 +15,7 @@ Co-administration of other medicinal products
 
 - Viread should not be administered concomitantly with other medicinal products containing tenofovir disoproxil or tenofovir alafenamide.
 - Viread should not be administered concomitantly with adefovir dipivoxil.
-- Co-administration of tenofovir disoproxil and didanosine is not recommended.
-  Co-administration of tenofovir disoproxil and didanosine results in a 40-60% increase in systemic exposure to didanosine that may increase the risk of didanosine-related adverse reactions (see section 4.5).
-  Rarely, pancreatitis and lactic acidosis, sometimes fatal, have been reported.
-  Co-administration of tenofovir disoproxil and didanosine at a dose of 400 mg daily has been associated with a significant decrease in CD4 cell count, possibly due to an intracellular interaction increasing phosphorylated (i.e. active) didanosine.
-  A decreased dosage of 250 mg didanosine co-administered with tenofovir disoproxil therapy has been associated with reports of high rates of virological failure within several tested combinations for the treatment of HIV-1 infection.
+- Co-administration of tenofovir disoproxil and didanosine is not recommended (see Section 4.5).
 
 Triple therapy with nucleosides/nucleotides
 There have been reports of a high rate of virological failure and of emergence of resistance at an early stage in HIV patients when tenofovir disoproxil was combined with lamivudine and abacavir as well as with lamivudine and didanosine as a once-daily regimen.
@@ -28,6 +24,7 @@ Renal and bone effects in adult population
 Renal effects
 Tenofovir is principally eliminated via the kidney.
 Renal failure, renal impairment, elevated creatinine, hypophosphataemia and proximal tubulopathy (including Fanconi syndrome) have been reported with the use of tenofovir disoproxil in clinical practice (see section 4.8).
+
 Renal impairment
 Renal safety with tenofovir has only been studied to a very limited degree in adult patients with impaired renal function (creatinine clearance < 80 ml/min).
 
@@ -70,7 +67,6 @@ If tenofovir disoproxil is co-administered with an NSAID, renal function should 
 A higher risk of renal impairment has been reported in patients receiving tenofovir disoproxil in combination with a ritonavir or cobicistat boosted protease inhibitor.
 A close monitoring of renal function is required in these patients (see section 4.5).
 In patients with renal risk factors, the co-administration of tenofovir disoproxil with a boosted protease inhibitor should be carefully evaluated.
-
 Tenofovir disoproxil has not been clinically evaluated in patients receiving medicinal products which are secreted by the same renal pathway, including the transport proteins human organic anion transporter (hOAT) 1 and 3 or MRP 4 (e.g. cidofovir, a known nephrotoxic medicinal product).
 These renal transport proteins may be responsible for tubular secretion and in part, renal elimination of tenofovir and cidofovir.
 Consequently, the pharmacokinetics of these medicinal products, which are secreted by the same renal pathway including transport proteins hOAT 1 and 3 or MRP 4, might be modified if they are co-administered.
@@ -105,6 +101,7 @@ If appropriate, resumption of hepatitis B therapy may be warranted.
 In patients with advanced liver disease or cirrhosis, treatment discontinuation is not recommended since post-treatment exacerbation of hepatitis may lead to hepatic decompensation.
 
 Liver flares are especially serious, and sometimes fatal in patients with decompensated liver disease.
+
 Co-infection with hepatitis C or D: There are no data on the efficacy of tenofovir in patients co-infected with hepatitis C or D virus.
 
 Co-infection with HIV-1 and hepatitis B: Due to the risk of development of HIV resistance, tenofovir disoproxil should only be used as part of an appropriate antiretroviral combination regimen in HIV/HBV co-infected patients.
@@ -140,12 +137,12 @@ In HIV infected patients with severe immune deficiency at the time of institutio
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis jirovecii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
+
 Autoimmune disorders (such as Graves’ disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
 
 Osteonecrosis
 Although the aetiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported, particularly in patients with advanced HIV disease and/or long-term exposure to CART.
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
-
 Viread 123 mg film-coated tablets contain lactose monohydrate.
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency, or glucose-galactose malabsorption should not take this medicine.
 

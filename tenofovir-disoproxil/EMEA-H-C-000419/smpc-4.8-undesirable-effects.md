@@ -8,9 +8,6 @@ HIV-1: Approximately one third of patients can be expected to experience adverse
 These reactions are usually mild to moderate gastrointestinal events.
 Approximately 1% of tenofovir disoproxil-treated adult patients discontinued treatment due to the gastrointestinal events.
 
-Co-administration of Viread and didanosine is not recommended as this may result in an increased risk of adverse reactions (see section 4.5).
-Rarely, pancreatitis and lactic acidosis, sometimes fatal, have been reported (see section 4.4).
-
 Hepatitis B: Approximately one quarter of patients can be expected to experience adverse reactions following treatment with tenofovir disoproxil, most of which are mild.
 In clinical trials of
 HBV infected patients, the most frequently occurring adverse reaction to tenofovir disoproxil was nausea (5.4%).
@@ -26,8 +23,8 @@ HIV-1 clinical studies: Assessment of adverse reactions from HIV-1 clinical stud
 Hepatitis B clinical studies: Assessment of adverse reactions from HBV clinical study data is primarily based on experience in two double-blind comparative controlled studies in which 641 adult patients with chronic hepatitis B and compensated liver disease received treatment with tenofovir disoproxil 245 mg daily (n = 426) or adefovir dipivoxil 10 mg daily (n = 215) for 48 weeks.
 The adverse reactions observed with continued treatment for 384 weeks were consistent with the safety profile of tenofovir disoproxil.
 After an initial decline of approximately -4.9 ml/min (using Cockcroft-Gault equation) or -3.9 ml/min/1.73 m2 (using modification of diet in renal disease [MDRD] equation) after the first 4 weeks of treatment, the rate of annual decline post baseline of renal function reported in tenofovir disoproxil treated patients was -1.41 ml/min per year (using Cockcroft-Gault equation) and -0.74 ml/min/1.73 m2 per year (using MDRD equation).
-
 Patients with decompensated liver disease: The safety profile of tenofovir disoproxil in patients with decompensated liver disease was assessed in a double-blind active controlled study (GS-US-174-0108) in which adult patients received treatment with tenofovir disoproxil (n = 45) or emtricitabine plus tenofovir disoproxil (n = 45) or entecavir (n = 22) for 48 weeks.
+
 In the tenofovir disoproxil treatment arm, 7% of patients discontinued treatment due to an adverse event; 9% of patients experienced a confirmed increase in serum creatinine of ≥ 0.5 mg/dl or confirmed serum phosphate of < 2 mg/dl through week 48; there were no statistically significant differences between the combined tenofovir-containing arms and the entecavir arm.
 After 168 weeks, 16% (7/45) of the tenofovir disoproxil group, 4% (2/45) of the emtricitabine plus tenofovir disoproxil group, and 14% (3/22) of the entecavir group experienced tolerability failure.
 Thirteen percent (6/45) of the tenofovir disoproxil group, 13% (6/45) of the emtricitabine plus tenofovir disoproxil group, and 9% (2/22) of the entecavir group had a confirmed increase in serum creatinine ≥ 0.5 mg/dl or confirmed serum phosphate of < 2 mg/dl.
@@ -63,10 +60,10 @@ Rare: hepatic steatosis, hepatitis
 Skin and subcutaneous tissue disorders:
 Very common: rash
 Rare: angioedema
+Frequency Tenofovir disoproxil
 Musculoskeletal and connective tissue disorders:
 Uncommon: rhabdomyolysis1, muscular weakness1
 Rare: osteomalacia (manifested as bone pain and infrequently contributing to fractures)1, 2, myopathy1
-Frequency Tenofovir disoproxil
 Renal and urinary disorders:
 Uncommon: increased creatinine, proximal renal tubulopathy (including Fanconi syndrome)
 Rare: acute renal failure, renal failure, acute tubular necrosis, nephritis (including acute interstitial nephritis)2, nephrogenic diabetes insipidus
@@ -86,11 +83,11 @@ Proximal renal tubulopathy generally resolved or improved after tenofovir disopr
 However, in some patients, declines in creatinine clearance did not completely resolve despite tenofovir disoproxil discontinuation.
 Patients at risk of renal impairment (such as patients with baseline renal risk factors, advanced HIV disease, or patients receiving concomitant nephrotoxic medications) are at increased risk of experiencing incomplete recovery of renal function despite tenofovir disoproxil discontinuation (see section 4.4).
 
-HIV-1:
-Interaction with didanosine
-Co-administration of tenofovir disoproxil and didanosine is not recommended as it results in a 40-60% increase in systemic exposure to didanosine that may increase the risk of didanosine-related adverse reactions (see section 4.5).
-Rarely, pancreatitis and lactic acidosis, sometimes fatal, have been reported.
+Lactic acidosis
+Cases of lactic acidosis have been reported with tenofovir disoproxil alone or in combination with other antiretrovirals.
+Patients with predisposing factors such as patients with decompensated liver disease, or patients receiving concomitant medications known to induce lactic acidosis are at increased risk of experiencing severe lactic acidosis during tenofovir disoproxil treatment, including fatal outcomes.
 
+HIV-1:
 Metabolic parameters
 Weight and levels of blood lipids and glucose may increase during antiretroviral therapy (see section 4.4).
 
@@ -107,6 +104,7 @@ Exacerbations of hepatitis during treatment
 In studies with nucleoside-naïve patients, on-treatment ALT elevations > 10 times ULN (upper limit of normal) and > 2 times baseline occurred in 2.6% of tenofovir disoproxil-treated patients.
 ALT elevations had a median time to onset of 8 weeks, resolved with continued treatment, and, in a majority of cases, were associated with a ≥ 2 log10 copies/ml reduction in viral load that preceded or coincided with the ALT elevation.
 Periodic monitoring of hepatic function is recommended during treatment (see section 4.4).
+
 Exacerbations of hepatitis after discontinuation of treatment
 In HBV infected patients, clinical and laboratory evidence of exacerbations of hepatitis have occurred after discontinuation of HBV therapy (see section 4.4).
 
@@ -137,7 +135,6 @@ The use of tenofovir disoproxil is not recommended in paediatric patients with r
 
 Exacerbations of hepatitis after discontinuation of treatment
 In HIV infected patients co-infected with HBV, clinical and laboratory evidence of hepatitis have occurred after discontinuation of tenofovir disoproxil (see section 4.4).
-
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
