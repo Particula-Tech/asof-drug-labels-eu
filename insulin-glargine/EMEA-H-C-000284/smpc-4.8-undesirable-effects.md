@@ -4,18 +4,18 @@ Summary of the safety profile
 Hypoglycaemia (very common), in general the most frequent adverse reaction of insulin therapy, may occur if the insulin dose is too high in relation to the insulin requirement (see section 4.4).
 
 Tabulated list of adverse reactions
-The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence (very common: ≥1/10; common: ≥1/100 to <1/10; uncommon: ≥1/1,000 to <1/100; rare: ≥1/10,000 to <1/1,000; very rare: <1/10,000).
+The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence (very common: ≥1/10; common: ≥1/100 to <1/10; uncommon: ≥1/1,000 to <1/100; rare: ≥1/10,000 to <1/1,000; very rare: <1/10,000; not known: cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-| MedDRA system organ classes | Very common | Common | Uncommon | Rare | Very rare |
-| --- | --- | --- | --- | --- | --- |
-| Immune system disorders |  |  |  | Allergic reactions |  |
-| Metabolism and nutrition disorders | Hypoglycaemia |  |  |  |  |
-| Nervous system disorders |  |  |  |  | Dysgeusia |
-| Eyes disorders |  |  |  | Visual impairment Retinopathy |  |
-| Skin and subcutaneous tissue disorders |  | Lipohypertro-phy | Lipoatrophy |  |  |
-| Musculoskeletal and connective tissue disorders |  |  |  |  | Myalgia |
-| General disorders and administration site conditions |  | Injection site reactions |  | Oedema |  |
+| MedDRA system organ classes | Very common | Common | Uncommon | Rare | Very rare | Not known |
+| --- | --- | --- | --- | --- | --- | --- |
+| Immune system disorders |  |  |  | Allergic reactions |  |  |
+| Metabolism and nutrition disorders | Hypoglycaemia |  |  |  |  |  |
+| Nervous system disorders |  |  |  |  | Dysgeusia |  |
+| Eyes disorders |  |  |  | Visual impairment Retinopathy |  |  |
+| Skin and subcutaneous tissue disorders |  | Lipohypertro-phy | Lipoatrophy |  |  | Cutaneous amyloidosis |
+| Musculoskeletal and connective tissue disorders |  |  |  |  | Myalgia |  |
+| General disorders and administration site conditions |  | Injection site reactions |  | Oedema |  |  |
 
 Description of selected adverse reactions
 Metabolism and nutrition disorders
@@ -37,7 +37,7 @@ However, intensification of insulin therapy with abrupt improvement in glycaemic
 In patients with proliferative retinopathy, particularly if not treated with photocoagulation, severe hypoglycaemic episodes may result in transient amaurosis.
 
 Skin and subcutaneous tissue disorders
-Lipodystrophy may occur at the injection site and delay local insulin absorption.
+Lipodystrophy and cutaneous amyloidosis may occur at the injection site and delay local insulin absorption.
 Continuous rotation of the injection site within the given injection area may help to reduce or prevent these reactions.
 General disorders and administration site conditions
 Injection site reactions include redness, pain, itching, hives, swelling, or inflammation.

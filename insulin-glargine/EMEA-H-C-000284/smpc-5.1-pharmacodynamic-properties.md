@@ -64,6 +64,7 @@ Similar effects on glycohemoglobin and the incidence of symptomatic hypoglycemia
 There was less severe hypoglycaemia in the insulin glargine group as well.
 One hundred forty three of the patients treated with insulin glargine in this study continued treatment with insulin glargine in an uncontrolled extension study with mean duration of follow-up of 2 years.
 No new safety signals were seen during this extended treatment with insulin glargine.
+
 A crossover study comparing insulin glargine plus lispro insulin to NPH plus regular human insulin (each treatment administered for 16 weeks in random order) in 26 adolescent type 1 diabetic patients aged 12 to 18 years was also performed.
 As in the paediatric study described above, fasting plasma glucose reduction from baseline was greater in the insulin glargine group than in the NPH group.
 HbA1c changes from baseline were similar between treatment groups; however blood glucose values recorded overnight were significantly higher in the insulin glargine/ lispro group than the NPH/regular group, with a mean nadir of 5.4 mM versus 4.1 mM.

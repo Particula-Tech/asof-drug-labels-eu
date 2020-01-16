@@ -6,6 +6,7 @@ Since Lantus is a solution, it does not require resuspension before use.
 Lantus must not be mixed with any other insulin or diluted.
 Mixing or diluting can change its time/action profile and mixing can cause precipitation.
 Insulin label must always be checked before each injection to avoid medication errors between insulin glargine and other insulins (see section 4.4).
+
 Lantus 100 units/ml solution for injection in a cartridge
 Insulin pen
 Lantus 100 units/ml in cartridges is only suitable for subcutaneous injections from a reusable pen.
