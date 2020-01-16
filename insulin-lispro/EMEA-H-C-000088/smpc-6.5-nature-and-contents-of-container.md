@@ -47,3 +47,12 @@ The suspension is contained in type I flint glass cartridges, sealed with halobu
 [Humalog Mix50 100 units/ml, suspension for injection in cartridge]
 
 (all sentences already above)
+
+[Humalog 200 units/ml KwikPen, solution for injection in a pre-filled pen]
+
+Type I glass cartridges, sealed with halobutyl disc seals and plunger heads and secured with aluminium seals.
+The 3 ml cartridges which contain 600 units insulin lispro (200 units/ml), are sealed in a disposable pen injector, called the “KwikPen”.
+1 pre-filled pen of 3 ml
+2 pre-filled pens of 3 ml
+5 pre-filled pens of 3 ml
+Multipacks containing 10 (2 packs of 5) pre-filled pens of 3 ml

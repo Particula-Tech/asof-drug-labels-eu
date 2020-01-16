@@ -25,3 +25,10 @@ EU/1/96/007/006
 EU/1/96/007/025
 EU/1/96/007/035
 EU/1/96/007/036
+
+[Humalog 200 units/ml KwikPen, solution for injection in a pre-filled pen]
+
+EU/1/96/007/039
+EU/1/96/007/040
+EU/1/96/007/041
+EU/1/96/007/042

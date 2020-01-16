@@ -35,3 +35,13 @@ Each pre-filled pen contains 300 units of insulin lispro in 3 ml suspension.
 [Humalog Mix50 100 units/ml, suspension for injection in cartridge]
 
 Humalog Mix50 consists of 50% insulin lispro solution and 50% insulin lispro protamine suspension.
+
+[Humalog 200 units/ml KwikPen, solution for injection in a pre-filled pen]
+
+Each ml contains 200 units insulin lispro*(equivalent to 6.9 mg).
+
+Each pre-filled pen contains 600 units of insulin lispro in 3 ml solution.
+
+* produced in E.coli by recombinant DNA technology.
+
+For the full list of excipients, see section 6.1.

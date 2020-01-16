@@ -7,6 +7,7 @@ The patient should discard the needle after every injection.
 
 The Humalog solution should be clear and colourless.
 Humalog should not be used if it appears cloudy, thickened, or slightly coloured or if solid particles are visible.
+
 Do not mix insulin in vials with insulin in cartridges.
 See section 6.2.
 
@@ -69,7 +70,6 @@ Making sure the tip of the needle is in the Humalog, withdraw the correct dose o
 Before removing the needle from the vial, check the syringe for air bubbles that reduce the amount of Humalog in it.
 If bubbles are present, hold the syringe straight up and tap its side until the bubbles float to the top.
 Push them out with the plunger and withdraw the correct dose.
-
 7.
 Remove the needle from the vial of Humalog and insert it into the vial of the longer-acting insulin.
 Turn the vial and syringe upside down.
@@ -78,6 +78,7 @@ Making sure the tip of the needle is in the insulin, withdraw the dose of longer
 
 8.
 Withdraw the needle and lay the syringe down so that the needle does not touch anything.
+
 Cartridge
 Humalog cartridges are to be used with a Lilly reusable insulin pen and should not be used with any other reusable pen as the dosing accuracy has not been established with other pens.
 
@@ -155,3 +156,9 @@ Humalog Mix50 cartridges are to be used with a Lilly reusable insulin pen and sh
 Using the outer needle cap, unscrew the needle and dispose of it safely.
 
 Use of injection sites should be rotated so that the same site is not used more than approximately once a month.
+
+[Humalog 200 units/ml KwikPen, solution for injection in a pre-filled pen]
+
+To prevent the possible transmission of disease, each pen must be used by one patient only, even if the needle is changed.
+
+Handling of the pre-filled pen

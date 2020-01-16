@@ -18,3 +18,7 @@ Hydrochloric acid and sodium hydroxide may be used to adjust pH.
 [Humalog Mix50 100 units/ml, suspension for injection in cartridge]
 
 (all sentences already above)
+
+[Humalog 200 units/ml KwikPen, solution for injection in a pre-filled pen]
+
+Trometamol

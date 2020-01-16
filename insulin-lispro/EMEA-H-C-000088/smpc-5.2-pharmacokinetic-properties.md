@@ -15,3 +15,8 @@ The pharmacokinetics of Humalog Mix25 are representative of the individual pharm
 [Humalog Mix50 100 units/ml, suspension for injection in cartridge]
 
 The pharmacokinetics of Humalog Mix50 are representative of the individual pharmacokinetic properties of the two components.
+
+[Humalog 200 units/ml KwikPen, solution for injection in a pre-filled pen]
+
+Insulin lispro 200 units/ml solution for injection was bioequivalent to insulin lispro 100 units/ml solution for injection after subcutaneous administration of a single 20 unit dose in healthy subjects.
+Time to maximum concentration was also similar between formulations.

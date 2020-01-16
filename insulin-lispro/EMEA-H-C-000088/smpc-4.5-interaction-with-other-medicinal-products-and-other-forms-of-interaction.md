@@ -23,3 +23,9 @@ Insulin requirements may be reduced in the presence of substances with hypoglyca
 Mixing Humalog Mix50 with other insulins has not been studied.
 
 The physician should be consulted when using other medications in addition to Humalog Mix50 (see section 4.4).
+
+[Humalog 200 units/ml KwikPen, solution for injection in a pre-filled pen]
+
+Insulin requirements may be reduced in the presence of medicinal products with hypoglycaemic activity, such as oral hypoglycemics, salicylates (for example, acetylsalicylic acid), sulpha antibiotics, certain antidepressants (monoamine oxidase inhibitors, selective serotonin reuptake inhibitors), certain angiotensin converting enzyme inhibitors (captopril, enalapril), angiotensin II receptor blockers, beta-blockers, octreotide or alcohol.
+
+The physician should be consulted when using other medicinal products in addition to Humalog 200 units/ml KwikPen (see section 4.4).

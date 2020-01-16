@@ -6,9 +6,9 @@ The primary activity of insulin lispro is the regulation of glucose metabolism.
 
 In addition, insulins have several anabolic and anti-catabolic actions on a variety of different tissues.
 Within muscle tissue this includes increasing glycogen, fatty acid, glycerol and protein synthesis and amino acid uptake, while decreasing glycogenolysis, gluconeogenesis, ketogenesis, lipolysis, protein catabolism and amino acid output.
-
 Insulin lispro has a rapid onset of action (approximately 15 minutes), thus allowing it to be given closer to a meal (within zero to 15 minutes of the meal) when compared to soluble insulin (30 to 45 minutes before).
 Insulin lispro takes effect rapidly and has a shorter duration of activity (2 to 5 hours) when compared to soluble insulin.
+
 Clinical trials in patients with type 1 and type 2 diabetes have demonstrated reduced postprandial hyperglycaemia with insulin lispro compared to soluble human insulin.
 
 As with all insulin preparations, the time course of insulin lispro action may vary in different individuals or at different times in the same individual and is dependent on dose, site of injection, blood supply, temperature and physical activity.
@@ -27,7 +27,6 @@ The reduction of HbA1c would also be expected with other insulin products e.g. s
 
 Clinical trials in patients with type 1 and type 2 diabetes have demonstrated a reduced number of episodes of nocturnal hypoglycaemia with insulin lispro compared to soluble human insulin.
 In some studies, reduction of nocturnal hypoglycaemia was associated with increased episodes of daytime hypoglycaemia.
-
 The glucodynamic response to insulin lispro is not affected by renal or hepatic function impairment.
 Glucodynamic differences between insulin lispro and soluble human insulin, as measured during a glucose clamp procedure, were maintained over a wide range of renal function.
 
@@ -74,6 +73,44 @@ Detailed information can be found in the following table.
 
 The rapid onset and early peak of activity of insulin lispro is observed following the subcutaneous administration of Humalog Mix50.
 In the figure below the pharmacodynamics of Humalog Mix50 and BASAL are illustrated.
+
 Humalog Mix50
 
 Hypoglycaemic activity
+
+[Humalog 200 units/ml KwikPen, solution for injection in a pre-filled pen]
+
+Insulin lispro has a rapid onset of action (approximately 15 minutes), thus allowing it to be given closer to a meal (within zero to 15 minutes of the meal) when compared to soluble insulin
+(30 to 45 minutes before).
+
+The time course of insulin lispro action may vary in different individuals or at different times in the same individual and is dependent on dose, site of injection, blood supply, temperature and physical activity.
+
+Figure 1:
+
+The above representation (figure 1) reflects the relative amount of glucose over time required to maintain the subject's whole blood glucose concentrations near fasting levels and is an indicator of the effect of these insulins (100 units/ml) on glucose metabolism over time.
+
+The pharmacodynamic responses of insulin lispro 200 units/ml solution for injection were similar to those for insulin lispro 100 units/ml solution for injection after subcutaneous administration of a single 20 unit dose in healthy subjects as shown in the graph below (figure 2).
+800
+
+700
+Insulin lispro 200 units/ml
+
+Glucose 600 Insulin lispro 100 units/ml
+
+Infusion
+500
+Rate
+(mg/min) 400
+
+300
+
+200
+
+100
+0
+
+0 1 2 3 4 5 6 7 8
+
+Time (hr)
+
+Figure 2: Arithmetic mean glucose infusion rate versus time profiles following subcutaneous administration of 20 units of insulin lispro 200 units/ml or insulin lispro 100 units/ml

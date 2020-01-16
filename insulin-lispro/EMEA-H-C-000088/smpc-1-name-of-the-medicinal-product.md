@@ -15,3 +15,7 @@ Humalog Mix25 100 units/ml KwikPen, suspension for injection in a pre-filled pen
 
 Humalog Mix50 100 units/ml, suspension for injection in cartridge
 Humalog Mix50 100 units/ml KwikPen, suspension for injection in a pre-filled pen
+
+[Humalog 200 units/ml KwikPen, solution for injection in a pre-filled pen]
+
+Humalog 200 units/ml KwikPen, solution for injection in a pre-filled pen

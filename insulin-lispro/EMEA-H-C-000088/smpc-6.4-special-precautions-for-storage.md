@@ -2,6 +2,7 @@
 
 Do not freeze.
 Do not expose to excessive heat or direct sunlight.
+
 Before use
 Store in a refrigerator (2°C - 8°C).
 
@@ -29,3 +30,7 @@ KwikPen
 [Humalog Mix50 100 units/ml, suspension for injection in cartridge]
 
 After first use/ after cartridge insertion
+
+[Humalog 200 units/ml KwikPen, solution for injection in a pre-filled pen]
+
+After first use

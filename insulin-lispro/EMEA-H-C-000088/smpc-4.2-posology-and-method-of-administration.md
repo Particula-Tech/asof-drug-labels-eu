@@ -107,3 +107,20 @@ As with all insulin preparations, the duration of action of Humalog Mix50 is dep
 Administration of Humalog Mix50 to children below 12 years of age should be considered only in case of an expected benefit when compared to soluble insulin.
 
 When administered subcutaneously care should be taken when injecting Humalog Mix50 to ensure that a blood vessel has not been entered.
+
+[Humalog 200 units/ml KwikPen, solution for injection in a pre-filled pen]
+
+This rapid onset of activity allows a Humalog injection to be given very close to mealtime.
+The duration of action of Humalog is dependent on dose, site of injection, blood supply, temperature, and physical activity.
+
+Humalog can be used in conjunction with a longer-acting insulin or oral sulphonylurea medicinal products, on the advice of a physician.
+
+Humalog KwikPen is available in two strengths.The Humalog 200 units/ml KwikPen (and Humalog 100 units/ml KwikPen, see separate SmPC) delivers 1 – 60 units in steps of 1 unit in a single injection.
+Humalog 200 units/ml KwikPen should be reserved for the treatment of patients with diabetes requiring daily doses of more than 20 units of rapid-acting insulin.
+The insulin lispro solution containing 200 units/ml should not be withdrawn from the pre-filled pen (the KwikPen) or mixed with any other insulin (see section 4.4 and section 6.2).
+
+Humalog solution for injection should be given subcutaneously.
+
+Humalog 200 units/ml KwikPen solution for injection should not be used in an insulin infusion pump.
+
+Humalog 200 units/ml KwikPen solution for injection should not be used intravenously.

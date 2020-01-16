@@ -10,5 +10,6 @@ Careful monitoring of glucose control, as well as general health, is essential i
 
 Breast-feeding
 Patients with diabetes who are breast-feeding may require adjustments in insulin dose, diet or both.
+
 Fertility
 Insulin lispro did not induce fertility impairment in animal studies (see section 5.3).
