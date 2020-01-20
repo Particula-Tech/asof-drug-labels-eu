@@ -36,10 +36,25 @@ a First dose of the every-3-week dosing schedule is given at Week 7 b First dose
 Bortezomib is given twice weekly at Weeks 1, 2, 4 and 5 for the first 6-week cycle, followed by once weekly at Weeks 1, 2, 4 and 5 for eight more 6-week cycles.
 For information on the VMP dose and dosing schedule when administered with DARZALEX, see section 5.1.
 
-Dosing schedule in combination with bortezomib (3-week cycle regimen):
+Dosing schedule in combination with bortezomib, thalidomide and dexamethasone (4-week cycle regimens) for treatment of newly diagnosed patients eligible for autologous stem cell transplant (ASCT):
 The recommended dose is DARZALEX 16 mg/kg body weight administered as an intravenous infusion according to the following dosing schedule in Table 3.
 
-Table 3: DARZALEX dosing schedule in combination with bortezomib (3-week cycle dosing regimen)
+Table 3: DARZALEX dosing schedule in combination with bortezomib, thalidomide and dexamethasone ([VTd]; 4-week cycle dosing regimen)
+
+| Treatment phase | Weeks | Schedule |
+| --- | --- | --- |
+| Induction | Weeks 1 to 8 | weekly (total of 8 doses) |
+|  | Weeks 9 to 16a | every two weeks (total of 4 doses) |
+| Stop for high dose chemotherapy and ASCT |  |  |
+| Consolidation | Weeks 1 to 8b | every two weeks (total of 4 doses) |
+
+a First dose of the every-2-week dosing schedule is given at Week 9 b First dose of the every-2-week dosing schedule is given at Week 1 upon re-initiation of treatment following ASCT
+
+For dose and schedule of medicinal products administered with DARZALEX, see section 5.1 and the corresponding Summary of Product Characteristics.
+Dosing schedule in combination with bortezomib (3-week cycle regimen):
+The recommended dose is DARZALEX 16 mg/kg body weight administered as an intravenous infusion according to the following dosing schedule in Table 4.
+
+Table 4: DARZALEX dosing schedule in combination with bortezomib (3-week cycle dosing regimen)
 
 | Weeks | Schedule |
 | --- | --- |
@@ -52,10 +67,11 @@ a First dose of the every-3-week dosing schedule is given at Week 10 b First dos
 For dose and schedule of medicinal products administered with DARZALEX, see section 5.1 and the corresponding Summary of Product Characteristics.
 
 Infusion rates
-Following dilution the DARZALEX infusion should be intravenously administered at the initial infusion rate presented in Table 4 below.
+Following dilution the DARZALEX infusion should be intravenously administered at the initial infusion rate presented in Table 5 below.
 Incremental escalation of the infusion rate should be considered only in the absence of infusion reactions.
-To facilitate administration, the first prescribed 16 mg/kg dose at Week 1 may be split over two consecutive days i.e. 8 mg/kg on Day 1 and Day 2 respectively, see Table 4 below.
-Table 4: Infusion rates for DARZALEX (16 mg/kg) administration
+To facilitate administration, the first prescribed 16 mg/kg dose at Week 1 may be split over two consecutive days i.e. 8 mg/kg on Day 1 and Day 2 respectively, see Table 5 below.
+
+Table 5: Infusion rates for DARZALEX (16 mg/kg) administration
 
 |  | Dilution volume | Initial rate (first hour) | Rate Incrementa | Maximum rate |
 | --- | --- | --- | --- | --- |
@@ -83,9 +99,9 @@ For IRRs of any grade/severity, immediately interrupt the DARZALEX infusion and 
 Management of IRRs may further require reduction in the rate of infusion, or treatment discontinuation of DARZALEX as outlined below (see section 4.4).
 
 - Grade 1-2 (mild to moderate): Once reaction symptoms resolve, the infusion should be resumed at no more than half the rate at which the IRR occurred.
-  If the patient does not experience any further IRR symptoms, infusion rate escalation may be resumed at increments and intervals as clinically appropriate up to the maximum rate of 200 mL/hour (Table 4).
+  If the patient does not experience any further IRR symptoms, infusion rate escalation may be resumed at increments and intervals as clinically appropriate up to the maximum rate of 200 mL/hour (Table 5).
 - Grade 3 (severe): Once reaction symptoms resolve, restarting of the infusion may be considered at no more than half the rate at which the reaction occurred.
-  If the patient does not experience additional symptoms, infusion rate escalation may be resumed at increments and intervals as appropriate (Table 4).
+  If the patient does not experience additional symptoms, infusion rate escalation may be resumed at increments and intervals as appropriate (Table 5).
   The procedure above should be repeated in the event of recurrence of Grade 3 symptoms.
   Permanently discontinue DARZALEX upon the third occurrence of a Grade 3 or greater infusion reaction.
 - Grade 4 (life-threatening): Permanently discontinue DARZALEX treatment.
@@ -129,7 +145,6 @@ However, if a background regimen-specific corticosteroid (e.g. dexamethasone, pr
 
 Additionally, for patients with a history of chronic obstructive pulmonary disease, the use of post-infusion medications including short and long acting bronchodilators, and inhaled corticosteroids should be considered.
 Following the first four infusions, if the patient experiences no major IRRs, these inhaled post-infusion medications may be discontinued at the discretion of the physician.
-
 Prophylaxis for herpes zoster virus reactivation
 Anti-viral prophylaxis should be considered for the prevention of herpes zoster virus reactivation.
 
@@ -148,6 +163,7 @@ No dose adjustments are considered necessary (see section 5.2).
 Paediatric population
 The safety and efficacy of DARZALEX in children aged below 18 years of age have not been established.
 No data are available (see section 5.1).
+
 Method of administration
 DARZALEX is for intravenous use.
 It is administered as an intravenous infusion following dilution with sodium chloride 9 mg/mL (0.9%) solution for injection.

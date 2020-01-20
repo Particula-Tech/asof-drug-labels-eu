@@ -5,6 +5,7 @@ No chronic toxicity testing has been conducted.
 
 Carcinogenicity and mutagenicity
 No animal studies have been performed to establish the carcinogenic potential of daratumumab.
+
 Reproductive toxicology
 No animal studies have been performed to evaluate the potential effects of daratumumab on reproduction or development.
 

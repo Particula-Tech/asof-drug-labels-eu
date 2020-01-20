@@ -25,6 +25,7 @@ The mean (SD) central volume of distribution is 56.98 (18.07) mL/kg.
 Three additional population PK analyses (Analysis 2, Analysis 3 and Analysis 4) were conducted in patients with multiple myeloma that received daratumumab combination therapies.
 Daratumumab concentration-time profiles were similar following the monotherapy and combination therapies.
 The mean estimated terminal half-life associated with linear clearance in combination therapy was approximately 15-23 days.
+
 Based on the four population PK analyses (Analyses 1-4) body weight was identified as a statistically significant covariate for daratumumab clearance.
 Therefore, body weight based dosing is an appropriate dosing strategy for the multiple myeloma patients.
 

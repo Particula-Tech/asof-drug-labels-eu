@@ -19,7 +19,6 @@ DARZALEX infusion should be interrupted for IRRs of any severity and medical man
 For patients with Grade 1, 2, or 3 IRRs, the infusion rate should be reduced when re-starting the infusion.
 If an anaphylactic reaction or life-threatening (Grade 4) infusion reaction occurs, appropriate emergency resuscitation should be initiated immediately.
 DARZALEX therapy should be discontinued immediately and permanently (see sections 4.2 and 4.3).
-
 To reduce the risk of delayed IRRs, oral corticosteroids should be administered to all patients following DARZALEX infusions.
 Additionally the use of post-infusion medications (e.g. inhaled corticosteroids, short and long acting bronchodilators) should be considered for patients with a history of chronic obstructive pulmonary disease to manage respiratory complications should they occur (see section 4.2).
 
@@ -36,6 +35,7 @@ Daratumumab binds to CD38 found at low levels on red blood cells (RBCs) and may 
 Daratumumab-mediated positive indirect Coombs test may persist for up to 6 months after the last daratumumab infusion.
 It should be recognised that daratumumab bound to RBCs may mask detection of antibodies to minor antigens in the patient’s serum.
 The determination of a patient’s ABO and Rh blood type are not impacted.
+
 Patients should be typed and screened prior to starting daratumumab treatment.
 Phenotyping may be considered prior to starting daratumumab treatment as per local practice.
 Red blood cell genotyping is not impacted by daratumumab and may be performed at any time.

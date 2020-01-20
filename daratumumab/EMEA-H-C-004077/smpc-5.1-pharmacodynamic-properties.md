@@ -25,8 +25,8 @@ Decreases in absolute counts and percentages of total NK cells (CD16+CD56+) and 
 However, baseline levels of NK cells did not show an association with clinical response.
 
 Immunogenicity
-Patients treated with daratumumab monotherapy (n=199) and combination therapy (n=750) were evaluated for anti-therapeutic antibody responses to daratumumab at multiple time points during treatment and up to 8 weeks following the end of treatment.
-Following the start of daratumumab treatment, none of the monotherapy patients and 2 of the 750 combination therapy patients tested positive for anti-daratumumab antibodies; 1 of the combination therapy patients developed transient neutralising antibodies against daratumumab.
+Patients treated with daratumumab monotherapy (n=199) and combination therapy (n=1051) were evaluated for anti-therapeutic antibody responses to daratumumab at multiple time points during treatment and up to 8 weeks following the end of treatment.
+Following the start of daratumumab treatment, none of the monotherapy patients and 2 of the 1051 combination therapy patients tested positive for anti-daratumumab antibodies; 1 of the combination therapy patients developed transient neutralising antibodies against daratumumab.
 However, the employed assay has limitations in detecting anti-daratumumab antibodies in the presence of high concentrations of daratumumab.
 Therefore, the incidence of antibody development might not have been reliably determined.
 
@@ -45,15 +45,14 @@ The median age was 73 (range: 45-90) years, with 44% of the patients ≥75 years
 The majority were white (92%), male (52%), 34% had an Eastern Cooperative Oncology Group (ECOG) performance score of 0, 49.5% had an ECOG performance score of 1 and 17% had an ECOG performance score of ≥2.
 Twenty-seven percent had International Staging System (ISS) Stage I, 43% had ISS Stage II and 29% had ISS Stage III disease.
 Efficacy was evaluated by progression free survival (PFS) based on International Myeloma Working Group (IMWG) criteria.
-
 Study MMY3008 showed an improvement in Progression Free Survival (PFS) in the DRd arm as compared to the Rd arm; the median PFS had not been reached in the DRd arm and was 31.9 months in the Rd arm (hazard ratio [HR]=0.56; 95% CI: 0.43, 0.73; p<0.0001), representing 44% reduction in the risk of disease progression or death in patients treated with DRd.
 Results of an updated PFS analysis approximately 9 months after the original clinical cutoff, continued to show an improvement in PFS for patients in the DRd arm compared with the Rd arm.
 Median PFS was not reached in the DRd arm and was 33.8 months in the Rd arm (HR=0.56; 95% CI: 0.44, 0.71; p<0.0001).
 
 Figure 1: Kaplan-Meier Curve of PFS in Study MMY3008
 
-Additional efficacy results from Study MMY3008 are presented in Table 6 below.
-Table 6: Additional efficacy results from Study MMY3008a
+Additional efficacy results from Study MMY3008 are presented in Table 7 below.
+Table 7: Additional efficacy results from Study MMY3008a
 
 DRd (n=368) Rd (n=369)
 Overall response (sCR+CR+VGPR+PR) n(%)a 342 (92.9%) 300 (81.3%)
@@ -96,9 +95,9 @@ Results of an updated PFS analysis approximately 4 months after the original cli
 Median PFS was not reached in the D-VMP arm and was 19.3 months in the VMP arm (HR=0.46; 95% CI: 0.36, 0.60; p<0.0001).
 Figure 2: Kaplan-Meier Curve of Primary Analysis of PFS in Study MMY3007
 
-Additional efficacy results from Study MMY3007 are presented in Table 7 below.
+Additional efficacy results from Study MMY3007 are presented in Table 8 below.
 
-Table 7: Additional efficacy results from Study MMY3007a
+Table 8: Additional efficacy results from Study MMY3007a
 
 |  | D-VMP (n=350) | VMP (n=356) |
 | --- | --- | --- |
@@ -127,6 +126,50 @@ The overall response rate was 90% in the D-VMP group and 74% in theVMP group (VG
 The safety results of this subgroup were consistent with the overall population.
 Furthermore, safety analysis of the subgroup of patients with an ECOG performance score of 2 (D-VMP: n=89, VMP: n=84), was also consistent with the overall population.
 
+Combination treatment with bortezomib, thalidomide and dexamethasone (VTd) in patients eligible for autologous stem cell transplant (ASCT):
+Study MMY3006 is a 2 Part, open-label, randomized, active-controlled Phase 3 study.
+Part 1 compared induction and consolidation treatment with DARZALEX 16 mg/kg in combination with bortezomib, thalidomide and dexamethasone (D-VTd) to treatment with bortezomib, thalidomide and dexamethasone (VTd) in patients with newly diagnosed multiple myeloma eligible for ASCT.
+The consolidation phase of treatment began a minimum of 30 days post-ASCT, when the patient had recovered sufficiently, and engraftment was complete.
+In Part 2, subjects with at least a partial response (PR) by Day 100 post-transplant were re-randomized in a 1:1 ratio to daratumumab maintenance or observation only.
+Only results from Part 1 are described henceforth.
+
+Bortezomib was administered by SC injection or IV injection at a dose of 1.3 mg/m2 body surface area twice weekly for two weeks (Days 1, 4, 8, and 11) of repeated 28 day (4-week) induction treatment cycles (Cycles 1-4) and two consolidation cycles (Cycles 5 and 6) following ASCT after Cycle 4.
+Thalidomide was administered orally at 100 mg daily during the six bortezomib cycles.
+Dexamethasone (oral or intravenous) was administered at 40 mg on Days 1, 2, 8, 9, 15, 16, 22 and 23 of Cycles 1 and 2, and at 40 mg on Days 1-2 and 20 mg on subsequent dosing days (Days 8, 9, 15, 16) of Cycles 3-4.
+Dexamethasone 20 mg was administered on Days 1, 2, 8, 9, 15, 16 in Cycles 5 and 6.
+On the days of DARZALEX infusion, the dexamethasone dose was administered intravenously as a pre-infusion medication.
+Dose adjustments for bortezomib, thalidomide and dexamethasone were applied according to manufacturer’s prescribing information.
+
+A total of 1085 patients were randomized: 543 to the D-VTd arm and 542 to the VTd arm.
+The baseline demographic and disease characteristics were similar between the two treatment groups.
+The median age was 58 (range: 22 to 65) years.
+All patients were ≤65 years: 43% were in the age group ≥60-65 years, 41% were in the age group ≥50-60 years and 16% below age of 50 years.
+The majority were male (59%), 48% had an ECOG performance score of 0, 42% had an ECOG performance score of 1 and 10% had an ECOG performance score of 2.
+Forty percent had International Staging System (ISS) Stage I, 45% had ISS Stage II and 15% had ISS Stage III disease.
+
+Efficacy was evaluated by the stringent Complete Response (sCR) rate at Day 100 post-transplant and Progression free survival (PFS).
+Table 9: Efficacy results from Study MMY3006a
+
+D-VTd (n=543) VTd (n=542) P valueb
+Response assessment Day 100 post-
+transplant
+Stringent Complete Response (sCR) 157 (28.9%) 110 (20.3%) 0.0010
+CR or better (sCR+CR) 211 (38.9%) 141 (26.0%) <0.0001
+Very Good Partial Response or better
+(sCR+CR+VGPR) 453 (83.4%) 423 (78.0%)
+MRD negativityc, d n(%) 346 (63.7%) 236 (43.5%) <0.0001
+95% CI (%) (59.5%, 67.8%) (39.3%, 47.8%)
+Odds ratio with 95% CIe 2.27 (1.78, 2.90)
+MRD negativity in combination with CR or 183 (33.7%) 108 (19.9%) <0.0001
+betterc n(%)
+95% CI (%) (29.7%, 37.9%) (16.6%, 23.5%)
+Odds ratio with 95% CIe 2.06 (1.56, 2.72)
+
+D-VTd=daratumumab-bortezomib-thalidomide-dexamethasone; VTd=bortezomib-thalidomide-dexamethasone; MRD=minimal residual disease; CI=confidence interval a Based on intent-to-treat population b p-value from Cochran Mantel-Haenszel Chi-Squared test.
+c Based on threshold of 10-5 d Regardless of response per IMWG e Mantel-Haenszel estimate of the common odds ratio for stratified tables is used.
+
+Results of a PFS analysis by censoring patients who were randomized to daratumumab maintenance in the second randomization, at the date of the second randomization showed HR=0.50; 95% CI: 0.34, 0.75; p=0.0005.
+
 Relapsed/Refractory multiple myeloma
 Monotherapy:
 The clinical efficacy and safety of DARZALEX monotherapy for the treatment of adult patients with relapsed and refractory multiple myeloma whose prior therapy included a proteasome inhibitor and an immunomodulatory agent and who had demonstrated disease progression on the last therapy, was demonstrated in two open-label studies.
@@ -138,9 +181,9 @@ Eighty percent of patients had received prior autologous stem cell transplantati
 Prior therapies included bortezomib (99%), lenalidomide (99%), pomalidomide (63%) and carfilzomib (50%).
 At baseline, 97% of patients were refractory to the last line of treatment, 95% were refractory to both, a proteasome inhibitor (PI) and immunomodulatory agent (IMiD), 77% were refractory to alkylating agents, 63% were refractory to pomalidomide and 48% of patients were refractory to carfilzomib.
 
-Efficacy results of the pre-planned interim analysis based on Independent Review Committee (IRC) assessment are presented in Table 8 below.
+Efficacy results of the pre-planned interim analysis based on Independent Review Committee (IRC) assessment are presented in Table 10 below.
 
-Table 8: IRC assessed efficacy results for study MMY2002
+Table 10: IRC assessed efficacy results for study MMY2002
 
 | Efficacy endpoint | DARZALEX 16 mg/kg N=106 |
 | --- | --- |
@@ -165,6 +208,7 @@ Patients in the study had received a median of 4 prior lines of therapy.
 Seventy-four percent of patients had received prior ASCT.
 Prior therapies included bortezomib (100%), lenalidomide (95%), pomalidomide (36%) and carfilzomib (19%).
 At baseline, 76% of patients were refractory to the last line of treatment, 64% were refractory to both a PI and IMiD, 60% were refractory to alkylating agents, 36% were refractory to pomalidomide and 17% were refractory to carfilzomib.
+
 Pre-planned interim analysis showed that treatment with daratumumab at 16 mg/kg led to a 36% ORR with 5% CR and 5% VGPR.
 The median time to response was 1 (range: 0.5 to 3.2) month.
 The median duration of response was not reached (95% CI: 5.6 months, not estimable).
@@ -186,11 +230,11 @@ Eighteen percent (18%) of patients were refractory to a PI only, and 21% were re
 Patients refractory to lenalidomide were excluded from the study.
 
 Study MMY3003 demonstrated an improvement in PFS in the DRd arm as compared to the Rd arm; the median PFS had not been reached in the DRd arm and was 18.4 months in the Rd arm (HR=0.37; 95% CI: 0.27, 0.52; p<0.0001), representing 63% reduction in the risk of disease progression or death in patients treated with DRd (see Figure 3).
-
 Figure 3: Kaplan-Meier Curve of PFS in Study MMY3003
-Additional efficacy results from Study MMY3003 are presented in Table 9 below.
 
-Table 9: Additional efficacy results from Study MMY3003
+Additional efficacy results from Study MMY3003 are presented in Table 11 below.
+
+Table 11: Additional efficacy results from Study MMY3003
 
 | Response evaluable patient number | DRd (n=281) | Rd (n=276) |
 | --- | --- | --- |
@@ -226,11 +270,11 @@ Patients refractory to bortezomib were excluded from the study.
 
 Study MMY3004 demonstrated an improvement in PFS in the DVd arm as compared to the Vd arm; the median PFS had not been reached in the DVd arm and was 7.2 months in the Vd arm (HR [95% CI]: 0.39 [0.28, 0.53]; p-value<0.0001), representing a 61% reduction in the risk of disease progression or death for patients treated with DVd versus Vd.
 (see Figure 4).
+
 Figure 4: Kaplan-Meier Curve of PFS in Study MMY3004
 
-Additional efficacy results from Study MMY3004 are presented in Table 10 below.
-
-Table 10: Additional efficacy results from Study MMY3004
+Additional efficacy results from Study MMY3004 are presented in Table 12 below.
+Table 12: Additional efficacy results from Study MMY3004
 
 | Response evaluable patient number | DVd (n=240) | Vd (n=234) |
 | --- | --- | --- |
@@ -251,5 +295,6 @@ Cardiac electrophysiology
 Daratumumab as a large protein has a low likelihood of direct ion channel interactions.
 The effect of daratumumab on the QTc interval was evaluated in an open-label study for 83 patients (Study GEN501) with relapsed and refractory multiple myeloma following daratumumab infusions (4 to 24 mg/kg).
 Linear mixed PK-PD analyses indicated no large increase in mean QTcF interval (i.e. greater than 20 ms) at daratumumab Cmax.
+
 Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with DARZALEX in all subsets of the paediatric population in multiple myeloma (see section 4.2 for information on paediatric use).
