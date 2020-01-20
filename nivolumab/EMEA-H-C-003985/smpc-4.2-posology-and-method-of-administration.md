@@ -91,13 +91,15 @@ Table 4: Recommended treatment modifications for OPDIVO or OPDIVO in combination
 | --- | --- | --- |
 |  | Grade 4 rash | Permanently discontinue treatment |
 |  | Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) | Permanently discontinue treatment (see section 4.4) |
+| Immune-related myocarditis | Grade 2 myocarditis | Withhold dose(s) until symptoms resolve and management with corticosteroids is completec |
+|  | Grade 3 or 4 myocarditis | Permanently discontinue treatment |
 | Other immune-related adverse reactions | Grade 3 (first occurrence) | Withhold dose(s) |
-|  | Grade 3 myocarditis | Permanently discontinue treatment |
 |  | Grade 4 or recurrent Grade 3 ; persistent Grade 2 or 3 despite treatment modification; inability to reduce corticosteroid dose to 10 mg prednisone or equivalent per day | Permanently discontinue treatment |
 
 Note: Toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0 (NCI-CTCAE v4).
 a During administration of the second phase of treatment (nivolumab monotherapy) following combination treatment, permanently discontinue treatment if Grade 3 diarrhoea or colitis occurs.
 b Recommendation for the use of hormone replacement therapy is provided in section 4.4.
+c The safety of re-initiating nivolumab or nivolumab in combination with ipilimumab therapy in patients previously experiencing immune-related myocarditis is not known.
 
 OPDIVO or OPDIVO in combination with ipilimumab should be permanently discontinued for:
 
@@ -127,6 +129,7 @@ Hepatic impairment
 Based on the population PK results, no dose adjustment is required in patients with mild hepatic impairment (see section 5.2).
 Data from patients with moderate or severe hepatic impairment are too limited to draw conclusions on these populations.
 OPDIVO must be administered with caution in patients with moderate (total bilirubin > 1.5 × to 3 × the upper limit of normal [ULN] and any AST) or severe (total bilirubin > 3 × ULN and any AST) hepatic impairment.
+
 Method of administration
 
 OPDIVO is for intravenous use only.

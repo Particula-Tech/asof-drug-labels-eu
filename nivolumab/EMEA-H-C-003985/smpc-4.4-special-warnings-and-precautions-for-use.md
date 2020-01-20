@@ -18,6 +18,7 @@ Non-corticosteroid immunosuppressive therapy should be added if there is worseni
 
 Nivolumab or nivolumab in combination with ipilimumab should not be resumed while the patient is receiving immunosuppressive doses of corticosteroids or other immunosuppressive therapy.
 Prophylactic antibiotics should be used to prevent opportunistic infections in patients receiving immunosuppressive therapy.
+
 Nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued for any severe immune-related adverse reaction that recurs and for any life-threatening immune-related adverse reaction.
 
 Immune-related pneumonitis
@@ -49,7 +50,6 @@ For Grade 2 diarrhoea or colitis, nivolumab or nivolumab in combination with ipi
 Persistent diarrhoea or colitis should be managed with corticosteroids at a dose of 0.5 to 1 mg/kg/day methylprednisolone equivalents.
 Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper, if needed.
 If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents and nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued.
-
 Immune-related hepatitis
 Severe hepatitis has been observed with nivolumab monotherapy or nivolumab in combination with ipilimumab (see section 4.8).
 Patients should be monitored for signs and symptoms of hepatitis such as transaminase and total bilirubin elevations.
@@ -87,6 +87,7 @@ Corticosteroids at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents sho
 Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper, if needed.
 Monitoring of thyroid function should continue to ensure appropriate hormone replacement is utilised.
 Nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued for life-threatening hyperthyroidism or hypothyroidism.
+
 For symptomatic Grade 2 adrenal insufficiency, nivolumab or nivolumab in combination with ipilimumab should be withheld, and physiologic corticosteroid replacement should be initiated as needed.
 Nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued for severe (Grade 3) or life-threatening (Grade 4) adrenal insufficiency.
 Monitoring of adrenal function and hormone levels should continue to ensure appropriate corticosteroid replacement is utilised.
@@ -120,9 +121,14 @@ For suspected immune-related adverse reactions, adequate evaluation should be pe
 Based on the severity of the adverse reaction, nivolumab or nivolumab in combination with ipilimumab should be withheld and corticosteroids administered.
 Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper.
 Nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued for any severe immune-related adverse reaction that recurs and for any life-threatening immune-related adverse reaction.
-Rare cases of myotoxicity (myositis, myocarditis, and rhabdomyolysis), some with fatal outcome, have been reported with nivolumab or nivolumab in combination with ipilimumab.
+
+Cases of myotoxicity (myositis, myocarditis, and rhabdomyolysis), some with fatal outcome, have been reported with nivolumab or nivolumab in combination with ipilimumab.
 If a patient develops signs and symptoms of myotoxicity, close monitoring should be implemented, and the patient referred to a specialist for assessment and treatment without delay.
 Based on the severity of myotoxicity, nivolumab or nivolumab in combination with ipilimumab should be withheld or discontinued (see section 4.2), and appropriate treatment instituted.
+The diagnosis of myocarditis requires a high index of suspicion.
+Patients with cardiac or cardio-pulmonary symptoms should be assessed for potential myocarditis.
+If myocarditis is suspected, prompt initiation of a high dose of steroids (prednisone 1 to 2 mg/kg/day or methylprednisolone 1 to 2 mg/kg/day) and prompt cardiology consultation with diagnostic workup according to current clinical guidelines should be initiated.
+Once a diagnosis of myocarditis is established, nivolumab or nivolumab in combination with ipilimumab should be withheld or permanently discontinued (see section 4.2).
 
 Solid organ transplant rejection has been reported in the post-marketing setting in patients treated with PD-1 inhibitors.
 Treatment with nivolumab may increase the risk of rejection in solid organ transplant recipients.
@@ -148,21 +154,13 @@ Before initiating treatment with the combination, physicians are advised to care
 
 Use of nivolumab in melanoma patients with rapidly progressing disease
 Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with rapidly progressing disease (see section 5.1).
-
 Adjuvant treatment of melanoma
 There are no data on adjuvant treatment in patients with melanoma with the following risk factors (see sections 4.5 and 5.1
 
-- patients with prior autoimmune disease, and any condition requiring systemic treatment with
+- patients with prior autoimmune disease, and any condition requiring systemic treatment with either corticosteroids (≥ 10 mg daily prednisone or equivalent) or other immunosuppressive medications,
+- patients with prior therapy for melanoma (except patients with surgery, adjuvant radiotherapy after neurosurgical resection for lesions of the central nervous system, and prior adjuvant interferon completed ≥ 6 months prior to randomisation),
+- patients treated with prior therapy with anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CD137, or anti CTLA-4 antibody (including ipilimumab or any other antibody or drug specifically targeting
 
-either corticosteroids (≥ 10 mg daily prednisone or equivalent) or other immunosuppressive medications,
-
-- patients with prior therapy for melanoma (except patients with surgery, adjuvant radiotherapy
-
-after neurosurgical resection for lesions of the central nervous system, and prior adjuvant interferon completed ≥ 6 months prior to randomisation),
-
-- patients treated with prior therapy with anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CD137, or anti
-
-CTLA-4 antibody (including ipilimumab or any other antibody or drug specifically targeting
 T cell co-stimulation or checkpoint pathways),
 
 - subjects under the age of 18 years.
@@ -192,7 +190,6 @@ Until further data become available, careful consideration to the potential bene
 In patients treated with nivolumab after allogeneic HSCT, rapid-onset and severe GVHD, some with fatal outcome, have been reported in the post-marketing setting.
 Treatment with nivolumab may increase the risk of severe GVHD and death in patients who have had prior allogeneic HSCT, mainly in those with prior history of GVHD.
 The benefit of treatment with nivolumab versus the possible risk should be considered in these patients (see section 4.8).
-
 Head and Neck Cancer
 Patients with a baseline performance score ≥ 2, active brain or leptomeningeal metastases, active autoimmune disease, medical conditions requiring systemic immunosuppression, or carcinoma of the nasopharynx or salivary gland as the primary tumour sites were excluded from the SCCHN clinical trial (see sections 4.5 and 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.

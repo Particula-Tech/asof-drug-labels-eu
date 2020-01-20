@@ -6,7 +6,7 @@ Summary of the safety profile
 
 In the pooled dataset of nivolumab 3 mg/kg as monotherapy across tumour types (n = 2578) with minimum follow-up ranging from 2.3 to 28 months, the most frequent adverse reactions (≥ 10%) were fatigue (30%), rash (17%), pruritus (13%), diarrhoea (13%), and nausea (12%).
 The majority of adverse reactions were mild to moderate (Grade 1 or 2).
-With a minimum of 24 months follow-up in NSCLC, no new safety signals were identified.
+With a minimum of 63 months follow-up in NSCLC, no new safety signals were identified.
 
 Adjuvant treatment of melanoma
 In the dataset of nivolumab 3 mg/kg as monotherapy for the adjuvant treatment of melanoma
@@ -137,7 +137,6 @@ Adverse reactions reported in the pooled dataset for patients treated with nivol
 These reactions are presented by system organ class and by frequency.
 Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from available post-marketing data).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
-
 Table 6: Adverse reactions with nivolumab in combination with ipilimumab
 
 |  | Nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg* | Nivolumab 3 mg/kg in combination with ipilimumab 1 mg/kg** |
@@ -230,6 +229,7 @@ Permanent discontinuation of treatment was required in a greater proportion of p
 Table 7 presents the percentage for immune-related adverse reactions who were permanently discontinued from treatment by dosing regimen.
 Additionally, for patients who experienced an event, Table 7 presents the percentage of patients who required high-dose corticosteroids (at least 40 mg daily prednisone equivalents) by dosing regimen.
 The management guidelines for these adverse reactions are described in section 4.4.
+
 Table 7: Immune-related adverse reactions leading to permanent discontinuation or requiring high-dose corticosteroids by dosing regimen
 
 |  | Nivolumab 3 mg/kg monotherapy % | Nivolumab 1 mg/kg in Combination with Ipilimumab 3 mg/kg % | Nivolumab 3 mg/kg in Combination with Ipilimumab 1 mg/kg % |
@@ -242,7 +242,11 @@ Table 7: Immune-related adverse reactions leading to permanent discontinuation o
 | Endocrinopathies | 0.1 | 2.7 | 2.9 |
 | Skin | 0.3 | 0.9 | 1.5 |
 | Hypersensitivity/Infusion Reaction | 0.2 | 0 | 0 |
+
+Table 7: Immune-related adverse reactions leading to permanent discontinuation or requiring high-dose corticosteroids by dosing regimen
+
 | Immune-related adverse reaction requiring high-dose corticosteroidsa,b |  |  |  |
+| --- | --- | --- | --- |
 | Pneumonitis | 69 | 63 | 59 |
 | Colitis | 15 | 46 | 26 |
 | Hepatitis | 21 | 46 | 35 |
@@ -273,6 +277,7 @@ No
 Grade 4 or 5 cases were reported in this study.
 Median time to onset was 2.6 months (range: 0.25-20.6).
 Resolution occurred in 31 patients (91.2%) with a median time to resolution of 6.1 weeks (range: 0.7-85.9+).
+
 Immune-related colitis
 In patients treated with nivolumab monotherapy, the incidence of diarrhoea, colitis, or frequent bowel movements was 13.1% (339/2578).
 The majority of cases were Grade 1 or 2 in severity reported in 8.5% (220/2578) and 3.0% (78/2578) of patients respectively.
@@ -344,7 +349,6 @@ No Grade 5 cases were reported in these studies.
 Median time to onset of these endocrinopathies was 2.8 months (range: 0.3-29.1).
 Resolution occurred in 117 patients (42.9%).
 Time to resolution ranged from 0.4 to 144.1+ weeks.
-
 In patients treated with nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg in melanoma, the incidence of thyroid disorders was 25.2% (113/448).
 Grade 2 and Grade 3 thyroid disorders were reported in 14.5% (65/448) and 1.3% (6/448) of patients, respectively.
 Grade 2 and Grade 3 hypophysitis (including lymphocytic hypophysitis) occurred in 5.8% (26/448) and 2.0% (9/448) of patients, respectively.
@@ -397,7 +401,6 @@ In patients treated with nivolumab monotherapy, the incidence of hypersensitivit
 In patients treated with nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg, the incidence of hypersensitivity/infusion reactions was 3.8% (17/448); all were Grade 1 or 2 in severity.
 Grade 2 cases were reported in 2.2% (10/448) of patients.
 No Grade 3-5 cases were reported.
-
 In patients treated with nivolumab 3 mg/kg in combination with ipilimumab 1 mg//kg, the incidence of hypersensitivity/infusion reactions was 4.0% (22/547); all were Grade 1 or 2 in severity.
 Grade 2 cases were reported in 2.4% (13/547) of patients.
 No Grade 3-5 cases were reported.
