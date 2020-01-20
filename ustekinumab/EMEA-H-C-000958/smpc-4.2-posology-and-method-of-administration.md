@@ -57,8 +57,8 @@ Table 4)
 Psoriatic arthritis (PsA)
 Alternatively, 90 mg may be used in patients with a body weight > 100 kg.
 
-The safety and efficacy of STELARA in children with psoriasis less than 12 years of age or in children with psoriatic arthritis less than 18 years of age have not yet been established.
-Paediatric plaque psoriasis (12 years and older)
+The safety and efficacy of STELARA in children with psoriasis less than 6 years of age or in children with psoriatic arthritis less than 18 years of age have not yet been established.
+Paediatric plaque psoriasis (6 years and older)
 The recommended dose of STELARA based on body weight is shown below (Tables 1 and 2).
 STELARA should be administered at Weeks 0 and 4, then every 12 weeks thereafter.
 
@@ -66,11 +66,11 @@ Table 1 Recommended dose of STELARA for paediatric psoriasis
 
 | Body weight at the time of dosing | Recommended Dose |
 | --- | --- |
-| < 60 kg | 0.75 mg/kga |
+| < 60 kg | 0.75 mg/kg |
 | ≥60-≤100 kg | 45 mg |
 | > 100 kg | 90 mg |
 
-a To calculate the volume of injection (mL) for patients < 60 kg, use the following formula: body weight (kg) x 0.0083 (mL/kg) or see Table 2.
+To calculate the volume of injection (mL) for patients < 60 kg, use the following formula: body weight (kg) x 0.0083 (mL/kg) or see Table 2.
 The calculated volume should be rounded to the nearest 0.01 mL and administered using a 1 mL graduated syringe.
 A 45 mg vial is available for paediatric patients who need to receive less than the full 45 mg dose.
 
@@ -78,6 +78,21 @@ Table 2 Injection volumes of STELARA for paediatric psoriasis patients < 60 kg
 
 | Body weight at time of dosing (kg) | Dose (mg) | Volume of injection (mL) |
 | --- | --- | --- |
+| 15 | 11.3 | 0.12 |
+| 16 | 12.0 | 0.13 |
+| 17 | 12.8 | 0.14 |
+| 18 | 13.5 | 0.15 |
+| 19 | 14.3 | 0.16 |
+| 20 | 15.0 | 0.17 |
+| 21 | 15.8 | 0.17 |
+| 22 | 16.5 | 0.18 |
+| 23 | 17.3 | 0.19 |
+| 24 | 18.0 | 0.20 |
+| 25 | 18.8 | 0.21 |
+| 26 | 19.5 | 0.22 |
+| 27 | 20.3 | 0.22 |
+| 28 | 21.0 | 0.23 |
+| 29 | 21.8 | 0.24 |
 | 30 | 22.5 | 0.25 |
 | 31 | 23.3 | 0.26 |
 | 32 | 24.0 | 0.27 |
@@ -111,6 +126,7 @@ Table 2 Injection volumes of STELARA for paediatric psoriasis patients < 60 kg
 
 In the treatment regimen, the first dose of STELARA is administered intravenously.
 For the posology of the intravenous dosing regimen, see section 4.2 of the STELARA 130 mg Concentrate for solution for infusion SmPC.
+
 The first subcutaneous administration of 90 mg STELARA should take place at week 8 after the intravenous dose.
 After this, dosing every 12 weeks is recommended.
 

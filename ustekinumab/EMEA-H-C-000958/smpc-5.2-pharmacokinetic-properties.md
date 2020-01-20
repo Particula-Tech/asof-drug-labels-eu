@@ -75,4 +75,5 @@ The impact of these covariates was within ± 20% of the typical or reference val
 
 In the population pharmacokinetic analysis, there were no indications of an effect of tobacco or alcohol on the pharmacokinetics of ustekinumab.
 
-Serum ustekinumab concentrations in paediatric psoriasis patients 12 to 17 years of age, treated with the recommended weight-based dose were generally comparable to those in the adult psoriasis population treated with the adult dose, while serum ustekinumab concentrations in paediatric psoriasis patients treated with half of the recommended weight-based dose were generally lower than those in adults.
+Serum ustekinumab concentrations in paediatric psoriasis patients 6 to 17 years of age, treated with the recommended weight-based dose were generally comparable to those in the adult psoriasis population treated with the adult dose.
+Serum ustekinumab concentrations in paediatric psoriasis patients 12-17 years of age (CADMUS) treated with half of the recommended weight-based dose were generally lower than those in adults.

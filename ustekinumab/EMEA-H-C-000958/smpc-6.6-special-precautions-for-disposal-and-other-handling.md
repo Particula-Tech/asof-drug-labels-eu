@@ -43,3 +43,5 @@ STELARA does not contain preservatives; therefore any unused medicinal product r
 STELARA is supplied as a sterile, single-use vial or single-use pre-filled syringe.
 The syringe, needle and vial must never be re-used.
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+When using the single-dose vial, a 1 mL syringe with a 27 gauge, ½ inch (13 mm) needle is recommended.

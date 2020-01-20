@@ -81,9 +81,10 @@ In Crohn’s disease and ulcerative colitis intravenous induction studies, no ev
 In these studies, 2.2% of 785 placebo treated patients and 1.9% of 790 patients treated with the recommended dose of ustekinumab reported adverse events occurring during or within an hour of the infusion.
 
 Paediatric population
-Undesirable effects in paediatric patients 12 years and older with plaque psoriasis
-The safety of ustekinumab has been studied in a phase 3 study of 110 patients from 12 to 17 years of age for up to 60 weeks.
-In this study, the adverse events reported were similar to those seen in previous studies in adults with plaque psoriasis.
+Paediatric patients 6 years and older with plaque psoriasis
+The safety of ustekinumab has been studied in two phase 3 studies of paediatric patients with moderate to severe plaque psoriasis.
+The first study was in 110 patients from 12 to 17 years of age treated for up to 60 weeks and the second study was in 44 patients from 6 to 11 years of age treated for up to 56 weeks.
+In general, the adverse events reported in these two studies with safety data up to 1 year were similar to those seen in previous studies in adults with plaque psoriasis.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
