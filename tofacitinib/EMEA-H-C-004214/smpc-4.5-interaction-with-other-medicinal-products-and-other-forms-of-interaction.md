@@ -16,19 +16,16 @@ Concomitant administration with MTX 15-25 mg once weekly had no effect on the PK
 Figure 1.
 Impact of other medicinal products on PK of tofacitinib
 
-Coadministered PK Ratio and 90% CI Recommendation
-
+Coadminist PK Ratio and 90% CI Recommendation
 Drug
 
-CYP3A InhibitorKetoconazole AUC Tofacitinib dose should be reduced a
-
-Cmax
-
+CYP3A Inhibitor Ketoconaz AUC Tofacitinib dose should be reduced a
+l Cmax
 CYP3A & CYP2C19 Inhibitor Fluconazole AUC Tofacitinib dose should be reduced a
 
 Cmax
 
-CYP InducerRifampicin AUC Efficacy may be decreased
+CYP Inducer Rifampicin AUC Efficacy may be decreased
 
 Cmax
 
@@ -57,6 +54,8 @@ The extent of decrease in MTX exposure does not warrant modifications to the ind
 
 [XELJANZ 11 mg prolonged-release tablets]
 
-CYP3A & CYP2C19 InhibitorFluconazole AUC Tofacitinib dose should be reduced a
+Coadministered PK Ratio and 90% CI Recommendation
+
+CYP3A Inhibitor Ketoconazole AUC Tofacitinib dose should be reduced a
 
 a Tofacitinib dose should be reduced to 5 mg (as film-coated tablet) once daily in patients receiving 11 mg (as prolonged-release tablet) once daily (see section 4.2).

@@ -22,6 +22,7 @@ All metabolites have been observed in animal species and are predicted to have l
 No evidence of stereo conversion in human samples was detected.
 The pharmacologic activity of tofacitinib is attributed to the parent molecule.
 In vitro, tofacitinib is a substrate for MDR1, but not for breast cancer resistance protein (BCRP), OATP1B1/1B3, or OCT1/2.
+
 Pharmacokinetics in patients
 
 The enzymatic activity of CYP enzymes is reduced in RA patients due to chronic inflammation.

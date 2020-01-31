@@ -8,6 +8,21 @@ There was a higher incidence of adverse events for the combination of tofacitini
 
 The use of tofacitinib in combination with phosphodiesterase 4 inhibitors has not been studied in tofacitinib clinical studies.
 
+Venous thromboembolism (VTE)
+
+Serious VTE events including pulmonary embolism (PE), some of which were fatal, and deep vein thrombosis (DVT), have been observed in patients taking tofacitinib.
+A dose dependent increased risk for VTE was observed in a clinical study with tofacitinib compared to TNF inhibitors (see sections 4.8 and 5.1).
+
+Tofacitnib should be used with caution in patients with known risk factors for VTE, regardless of indication and dosage.
+
+Tofacitinib 10 mg twice daily for maintenance treatment is not recommended in patients with UC who have known VTE risk factors, unless there is no suitable alternative treatment available (see section 4.2).
+
+VTE risk factors include previous VTE, patients undergoing major surgery, immobilisation, myocardial infarction (within previous 3 months), heart failure, use of combined hormonal contraceptives or hormone replacement therapy, inherited coagulation disorder, malignancy.
+Additional VTE risk factors such as age, obesity (BMI ≥30), diabetes, hypertension, smoking status should also be considered.
+Patients should be re-evaluated periodically during tofacitinib treatment to assess for changes in VTE risk.
+
+Promptly evaluate patients with signs and symptoms of VTE and discontinue tofacitinib in patients with suspected VTE, regardless of dose or indication.
+
 Serious infections
 
 Serious and sometimes fatal infections due to bacterial, mycobacterial, invasive fungal, viral, or other opportunistic pathogens have been reported in patients receiving tofacitinib.
@@ -15,19 +30,20 @@ The risk of opportunistic infections is higher in Asian geographic regions (see 
 Rheumatoid arthritis patients taking corticosteroids may be predisposed to infection.
 
 Tofacitinib should not be initiated in patients with active infections, including localised infections.
-
 The risks and benefits of treatment should be considered prior to initiating tofacitinib in patients:
 
 - with recurrent infections,
 - with a history of a serious or an opportunistic infection,
 - who have resided or travelled in areas of endemic mycoses,
-- who have underlying conditions that may predispose them to infection.
+- who have underlying conditions that may predispose them to infection,
+- who are over 65 years of age
 
 Patients should be closely monitored for the development of signs and symptoms of infection during and after treatment with tofacitinib.
 Treatment should be interrupted if a patient develops a serious infection, an opportunistic infection, or sepsis.
 A patient who develops a new infection during treatment with tofacitinib should undergo prompt and complete diagnostic testing appropriate for an immunocompromised patient, appropriate antimicrobial therapy should be initiated, and the patient should be closely monitored.
 
 As there is a higher incidence of infections in the elderly and in the diabetic populations in general, caution should be used when treating the elderly and patients with diabetes (see section 4.8).
+In patients over 65 years of age tofacitinib should only be considered if no suitable alternative treatment is available (see section 5.1).
 
 Risk of infection may be higher with increasing degrees of lymphopenia and consideration should be given to lymphocyte counts when assessing individual patient risk of infection.
 Discontinuation and monitoring criteria for lymphopenia are discussed in section 4.2.
@@ -60,6 +76,7 @@ In patients treated with tofacitinib, the incidence of herpes zoster appears to 
 The impact of tofacitinib on chronic viral hepatitis reactivation is unknown.
 Patients screened positive for hepatitis B or C were excluded from clinical trials.
 Screening for viral hepatitis should be performed in accordance with clinical guidelines before starting therapy with tofacitinib.
+
 Malignancy and lymphoproliferative disorder
 
 The risks and benefits of tofacitinib treatment should be considered prior to initiating therapy in patients with current or a history of malignancy other than a successfully treated non-melanoma skin cancer (NMSC) or when considering continuing tofacitinib in patients who develop a malignancy.
@@ -79,12 +96,6 @@ NMSCs have been reported in patients treated with tofacitinib.
 The risk of NMSC may be higher in patients treated with tofacitinib 10 mg twice daily than in patients treated with 5 mg twice daily.
 Periodic skin examination is recommended for patients who are at increased risk for skin cancer (see Table 6 in section 4.8).
 
-Pulmonary embolism
-
-Pulmonary embolism (PE) has been observed in patients taking tofacitinib in clinical trials and post-marketing reports.
-Tofacitinib 10 mg twice daily is contraindicated in patients who are at high risk for pulmonary embolism (see also section 4.3).
-Additional risk factors that should be considered in determining the patient’s risk for PE are older age, obesity, smoking status, and immobilisation.
-
 Interstitial lung disease
 
 Caution is also recommended in patients with a history of chronic lung disease as they may be more prone to infections.
@@ -96,6 +107,7 @@ Gastrointestinal perforations
 Events of gastrointestinal perforation have been reported in clinical trials although the role of JAK inhibition in these events is not known.
 Tofacitinib should be used with caution in patients who may be at increased risk for gastrointestinal perforation (e.g., patients with a history of diverticulitis, patients with concomitant use of corticosteroids and/or nonsteroidal anti-inflammatory drugs).
 Patients presenting with new onset abdominal signs and symptoms should be evaluated promptly for early identification of gastrointestinal perforation.
+
 Cardiovascular risk
 
 RA and PsA patients have an increased risk for cardiovascular disorders.
@@ -152,7 +164,6 @@ Prophylactic zoster vaccination should be considered in accordance with vaccinat
 Particular consideration should be given to patients with longstanding RA who have previously received two or more biological DMARDs.
 If live zoster vaccine is administered; it should only be administered to patients with a known history of chickenpox or those that are seropositive for varicella zoster virus (VZV).
 If the history of chickenpox is considered doubtful or unreliable it is recommended to test for antibodies against VZV.
-
 Vaccination with live vaccines should occur at least 2 weeks but preferably 4 weeks prior to initiation of tofacitinib or in accordance with current vaccination guidelines regarding immunomodulatory medicinal products.
 No data are available on the secondary transmission of infection by live vaccines to patients receiving tofacitinib.
 
@@ -163,10 +174,7 @@ Patients with rare hereditary problems of galactose intolerance, total lactase d
 
 [XELJANZ 11 mg prolonged-release tablets]
 
-Tofacitinib has not been studied and its use should be avoided in combination with biologics such as TNF antagonists, interleukin (IL)-1R antagonists, IL-6R antagonists, anti-CD20 monoclonal antibodies, selective co-stimulation modulators and potent immunosuppressants such as azathioprine, 6-mercaptopurine, ciclosporine and tacrolimus because of the possibility of increased immunosuppression and increased risk of infection.
-
-Pulmonary embolism (PE) has been observed in patients taking tofacitinib in clinical trials and post marketing reports.
-Tofacitinib 10 mg twice daily is contraindicated in patients who are at high risk for pulmonary embolism.
+Tofacitinib has not been studied and its use should be avoided in combination with biologics such as TNF antagonists, interleukin (IL)-1R antagonists, IL-6R antagonists, anti-CD20 monoclonal antibodies, selective co-stimulation modulators and potent immunosuppressants such as azathioprine, 6- mercaptopurine, ciclosporine and tacrolimus because of the possibility of increased immunosuppression and increased risk of infection.
 
 RA patients have an increased risk for cardiovascular disorders.
 

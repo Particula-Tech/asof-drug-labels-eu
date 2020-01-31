@@ -6,7 +6,7 @@ Posology
 
 Rheumatoid arthritis and psoriatic arthritis
 
-The recommended dose is 5 mg administered twice daily.
+The recommended dose is 5 mg administered twice daily, which should not be exceeded.
 
 Rheumatoid arthritis
 
@@ -21,13 +21,19 @@ No dose adjustment is required when used in combination with MTX.
 
 Ulcerative colitis
 
-The recommended dose is 10 mg given orally twice daily for induction for 8 weeks and 5 mg given twice daily for maintenance.
+Induction treatment
+The recommended dose is 10 mg given orally twice daily for induction for 8 weeks.
 
 For patients who do not achieve adequate therapeutic benefit by week 8, the induction dose of 10 mg twice daily can be extended for an additional 8 weeks (16 weeks total), followed by 5 mg twice daily for maintenance.
 Tofacitinib induction therapy should be discontinued in any patient who shows no evidence of therapeutic benefit by week 16.
-For some patients, such as those who have failed prior tumour necrosis factor (TNF) antagonist therapy, consideration should be given to continuation of the 10 mg twice daily dose for maintenance in order to maintain therapeutic benefit (see section 5.1).
 
-Patients who experience a decrease in response on tofacitinib 5 mg twice daily maintenance therapy may benefit from an increase to tofacitinib 10 mg administered twice daily.
+Maintenance treatment
+The recommended dose for maintenance treatment is tofacitinib 5 mg given orally twice daily.
+
+Tofacitinib 10 mg twice daily for maintenance treatment is not recommended in patients with UC who have known venous thromboembolism (VTE) risk factors, unless there is no suitable alternative treatment available (see section 4.4 and 4.8).
+For patients with UC who are not at increased risk for VTE (see section 4.4), tofacitinib 10 mg orally twice daily may be considered if the patient experiences a decrease in response on tofacitinib 5 mg twice daily and failed to respond to alternative treatment options for ulcerative colitis such as tumour necrosis factor inhibitor (TNF inhibitor) treatment.
+Tofacitinib 10 mg twice daily for maintenance treatment should be used for the shortest duration possible.
+The lowest effective dose needed to maintain response should be used.
 
 In patients who have responded to treatment with tofacitinib, corticosteroids may be reduced and/or discontinued in accordance with standard of care.
 
@@ -123,7 +129,8 @@ For patients who have difficulties swallowing, tofacitinib tablets may be crushe
 
 Treatment should be initiated and supervised by specialist physicians experienced in the diagnosis and treatment of rheumatoid arthritis.
 
-The recommended dose is one 11 mg prolonged-release tablet administered once daily.
+The recommended dose is one 11 mg prolonged-release tablet administered once daily, which should not be exceeded.
+
 Switching between tofacitinib 11 mg prolonged-release tablets and tofacitinib 5mg film-coated tablets
 
 Tofacitinib 11 mg prolonged-release tablets once daily has demonstrated pharmacokinetic equivalence (AUC and Cmax) to tofacitinib 5 mg film-coated tablets twice daily.
