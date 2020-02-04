@@ -4,7 +4,7 @@ Pharmacokinetics do not vary after single or repeated administration.
 In the dose range of 10 to 80 mg, the plasma kinetics of pantoprazole are linear after both oral and intravenous administration.
 Absorption
 Pantoprazole is completely and rapidly absorbed after oral administration.
-The absolute bioavailability from the tablet was found to be about 77 %.
+The absolute bioavailability from the tablet was found to be about 77%.
 On average, at about 2.0 h - 2.5 h post administration (tmax) of a single 20 mg oral dose, the maximum serum concentrations (Cmax) of about 1-1.5 µg/ml are achieved, and these values remain constant after multiple administration.
 Concomitant intake of food had no influence on bioavailability (AUC or Cmax), but increased the variability of the lag-time (tlag).
 

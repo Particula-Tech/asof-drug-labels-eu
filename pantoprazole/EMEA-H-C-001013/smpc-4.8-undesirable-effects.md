@@ -9,8 +9,8 @@ The following adverse reactions have been reported with pantoprazole.
 
 Within the following table, adverse reactionsare ranked under the MedDRA frequency classification:
 
-Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare
-(≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
+Very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare
+(≥1/10,000 to < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping adverse reactions are presented in order of decreasing seriousness.
 Table 1.
@@ -20,11 +20,11 @@ Adverse reactions with pantoprazole in clinical trials and post-marketing experi
 | --- | --- | --- | --- | --- | --- |
 | Blood and lymphatic system disorders |  |  | Agranulocytosis | Thrombocytopenia; Leukopenia, Pancytopenia |  |
 | Immune system disorders |  |  | Hypersensitivity (incl. anaphylactic reactions and anaphylactic shock) |  |  |
-| Metabolism and nutrition disorders |  |  | Hyperlipidaemias and lipid increases (triglycerides, cholesterol); Weight changes |  | Hyponatraemia, Hypomagnesae-mia H(1)y pocalcaemia |
+| Metabolism and nutrition disorders |  |  | Hyperlipidaemias and lipid increases (triglycerides, cholesterol); Weight changes |  | Hyponatraemia, Hypomagnesae-mia H(1)ypocalcaemia |
 | Psychiatric disorders |  | Sleep disorders | Depression (and all aggravations) | Disorientation (and all aggravations) | Hallucination; Confusion (especially in pre-disposed patients, as well as the aggravation of these symptoms in case of pre-existence) |
 | Nervous system disorders |  | Headache; Dizziness | Taste disorders |  | Paraesthesia |
 | Eye disorders |  |  | Disturbances in vision / blurred vision |  |  |
-| Gastrointestinal disorders | Fundic gland polyps (benign) | Diarrhoea; Nausea / vomiting; Abdominal distension and bloating; Constipation; Dry mouth; Abdominal pain and discomfort |  |  |  |
+| Gastrointestinal disorders | Fundic gland polyps (benign) | Diarrhoea; Nausea / vomiting; Abdominal distension and bloating; Constipation; Dry mouth; Abdominal pain and discomfort |  |  | Microscopic colitis |
 | Hepatobiliary disorders |  | Liver enzymes increased (transaminases, γ-GT) | Bilirubin increased |  | Hepatocellular injury; Jaundice; Hepatocellular failure |
 | Skin and subcutaneous tissue disorders |  | Rash / exanthema / eruption; Pruritus | Urticaria; Angioedema |  | Stevens-Johnson syndrome; Lyell syndrome; Erythema multiforme; Photosensitivity Subacute cutaneous lupus erythematosus (see section 4.4). |
 | Musculoskeletal and connective tissue disorders |  | Fracture of wrist, hip and spine. | Arthralgia; Myalgia |  |  |

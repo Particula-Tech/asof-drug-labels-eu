@@ -8,7 +8,6 @@ The potential risk for humans is unknown.
 Pantoprazole should not be used during pregnancy.
 
 Breast-feeding
-
 Pantoprazole/metabolites have been identified in human milk.
 The effect of pantoprazole on newborns/infants is unknown.
 PANTOZOL Control should not be used during breast-feeding.
