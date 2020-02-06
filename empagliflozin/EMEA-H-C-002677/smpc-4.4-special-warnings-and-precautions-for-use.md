@@ -10,7 +10,9 @@ Patients should be assessed for ketoacidosis immediately if these symptoms occur
 In patients where DKA is suspected or diagnosed, treatment with empagliflozin should be discontinued immediately.
 
 Treatment should be interrupted in patients who are hospitalised for major surgical procedures or acute serious medical illnesses.
-In both cases, treatment with empagliflozin may be restarted once the patient’s condition has stabilised.
+Monitoring of ketones is recommended in these patients.
+Measurement of blood ketone levels is preferred to urine.
+Treatment with empagliflozin may be restarted when the ketone values are normal and the patient’s condition has stabilised.
 
 Before initiating empagliflozin, factors in the patient history that may predispose to ketoacidosis should be considered.
 
@@ -42,7 +44,6 @@ A causal relationship between empagliflozin and hepatic injury has not been esta
 
 Elevated haematocrit
 Haematocrit increase was observed with empagliflozin treatment (see section 4.8).
-
 Risk for volume depletion
 Based on the mode of action of SGLT-2 inhibitors, osmotic diuresis accompanying therapeutic glucosuria may lead to a modest decrease in blood pressure (see section 5.1).
 Therefore, caution should be exercised in patients for whom an empagliflozin-induced drop in blood pressure could pose a risk, such as patients with known cardiovascular disease, patients on anti-hypertensive therapy with a history of hypotension or patients aged 75 years and older.
@@ -63,6 +64,14 @@ In a pool of placebo-controlled double-blind trials of 18 to 24 weeks duration, 
 Post-marketing cases of complicated urinary tract infections including pyelonephritis and urosepsis have been reported in patients treated with empagliflozin.
 Temporary interruption of empagliflozin should be considered in patients with complicated urinary tract infections.
 
+Necrotising fasciitis of the perineum (Fournier’s gangrene)
+Post-marketing cases of necrotising fasciitis of the perineum, (also known as Fournier’s gangrene), have been reported in female and male patients taking SGLT2 inhibitors.
+This is a rare but serious and potentially life-threatening event that requires urgent surgical intervention and antibiotic treatment.
+
+Patients should be advised to seek medical attention if they experience a combination of symptoms of pain, tenderness, erythema, or swelling in the genital or perineal area, with fever or malaise.
+Be aware that either uro-genital infection or perineal abscess may precede necrotising fasciitis.
+If Fournier´s gangrene is suspected, Jardiance should be discontinued and prompt treatment (including antibiotics and surgical debridement) should be instituted.
+
 Lower limb amputations
 An increase in cases of lower limb amputation (primarily of the toe) has been observed in long-term clinical studies with another SGLT2 inhibitor.
 It is unknown whether this constitutes a class effect.
@@ -75,7 +84,6 @@ The reduction of cardiovascular death in these patients was consistent with the 
 
 Urine laboratory assessments
 Due to its mechanism of action, patients taking Jardiance will test positive for glucose in their urine.
-
 Lactose
 The tablets contain lactose.
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency, or glucose-galactose malabsorption should not take this medicinal product.

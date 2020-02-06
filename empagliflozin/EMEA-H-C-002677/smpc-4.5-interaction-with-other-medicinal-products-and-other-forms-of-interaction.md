@@ -8,6 +8,7 @@ Empagliflozin may add to the diuretic effect of thiazide and loop diuretics and 
 Insulin and insulin secretagogues
 Insulin and insulin secretagogues, such as sulphonylureas, may increase the risk of hypoglycaemia.
 Therefore, a lower dose of insulin or an insulin secretagogue may be required to reduce the risk of hypoglycaemia when used in combination with empagliflozin (see sections 4.2 and 4.8).
+
 Pharmacokinetic interactions
 
 Effects of other medicinal products on empagliflozin
