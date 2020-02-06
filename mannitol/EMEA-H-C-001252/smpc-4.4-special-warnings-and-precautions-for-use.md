@@ -12,6 +12,7 @@ A patient is defined as hyperresponsive to inhaled mannitol and must not be pres
 - FEV1 has fallen ≥50% (from baseline) at the end of the assessment.
 
 If a therapy induced hyperresponsive reaction is suspected, Bronchitol should be discontinued.
+All patients should be monitored until their FEV1 has returned to baseline levels.
 
 Bronchospasm
 Bronchospasm can occur with inhalation of medicinal product and has been reported with Bronchitol in clinical studies, even in patients who were not hyperresponsive to the initiation dose of inhaled mannitol (see section 4.8).
@@ -23,7 +24,7 @@ All patients should be formally reviewed after approximately six weeks of Bronch
 The initiation dose assessment described in section 4.2 should be repeated if uncertainty exists.
 
 Asthma
-The safety/efficacy of mannitol in patients with asthma has not been properly studied.
+The safety/efficacy of Bronchitol in patients with asthma has not been formally studied.
 Patients with asthma must be carefully monitored for worsening signs and symptoms of asthma after the initiation dose of Bronchitol.
 
 Patients must be advised to report worsening signs and symptoms of asthma during therapeutic use to their physician.
@@ -42,7 +43,7 @@ A massive/serious haemoptysis is considered to be:
 The reinstitution or withholding of Bronchitol following smaller episodes of haemoptysis should be based on clinical judgement.
 
 Cough
-Cough was very commonly reported with use of Bronchitol in clinical studies (see section 4.8).
+Cough was commonly reported with use of Bronchitol in clinical studies (see section 4.8).
 Patients should be trained to practice correct inhaler technique during treatment and advised to report persistent cough with the use of Bronchitol to their physician.
 
 Impaired lung function

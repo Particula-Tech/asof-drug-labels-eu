@@ -1,11 +1,10 @@
 # 4.2 Posology and method of administration
 
-The patient’s initiation dose of Bronchitol must be used under the supervision and monitoring of an experienced physician or another health care professional appropriately trained and equipped to perform spirometry, monitor oxygen saturation (SpO2), and manage acute bronchospasm (see sections 4.4 and 4.8) including appropriate use of resuscitation equipment.
-
 Posology
 
 Initiation dose assessment
-Before commencing treatment with Bronchitol, all patients should be assessed for bronchial hyperresponsiveness to inhaled mannitol during administration of their initiation dose (see sections 4.4 and 5.1).
+Before commencing treatment with Bronchitol all patients should be assessed for bronchial hyperresponsiveness to inhaled mannitol during administration of their initiation dose (see sections 4.4 and 5.1).
+The patient’s initiation dose of Bronchitol must be used under the supervision and monitoring of an experienced physician or another health care professional appropriately trained and equipped to perform spirometry, monitor oxygen saturation (SpO2), and manage acute bronchospasm (see sections 4.4 and 4.8) including appropriate use of resuscitation equipment.
 
 The patient should be pre-medicated with a bronchodilator 5-15 minutes prior to the initiation dose but after the baseline FEV1 and SpO2 (Oxygen saturation in the blood) measurement.
 All FEV1 measurements and SpO2 monitoring should be performed 60 seconds after dose inhalation.
@@ -50,7 +49,7 @@ Elderly patients (≥65 years)
 There are insufficient data in this population to support a recommendation for or against dose adjustment.
 
 Renal or hepatic impairment
-Bronchitol has not specifically been studied in patients with impaired renal and hepatic function.
+Bronchitol has not formally been studied in patients with impaired renal and hepatic function.
 Available data from studies DPM-CF-301 and 302 suggest that no dose adjustments are required for these patient populations.
 
 Paediatric population
@@ -68,8 +67,8 @@ The capsules must not be swallowed.
 Each of the capsules is loaded into the device separately.
 The contents of the capsules are inhaled via the inhaler device with one or two breaths.
 After inhalation, each empty capsule is discarded before inserting the next capsule into the inhaler device with as little delay as possible between capsules.
-
 The inhaler device is to be replaced after one week of use.
 If the inhaler does require cleaning, it must be ensured that the device is empty, then it should be washed in warm water and before re-use,the inhaler should be allowed to thoroughly air dry.
+
 Detailed instructions on how to use the inhaler can be found in the patient information leaflet.
 Patients should be advised to carefully read them.

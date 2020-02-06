@@ -2,3 +2,5 @@
 
 No formal interaction studies have been conducted.
 However, Bronchitol has been used in clinical studies in conjunction with standard cystic fibrosis therapies such as mucolytics, antibiotics (including tobramycin and colistimethate sodium), bronchodilators, pancreatic enzymes, vitamins, inhaled and systemic corticosteroids, and analgesics.
+
+There are no data on concomitant use of hypertonic saline with Bronchitol as it was excluded from the Phase 3 studies.

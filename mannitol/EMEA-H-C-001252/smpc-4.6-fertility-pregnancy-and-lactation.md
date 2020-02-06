@@ -3,7 +3,7 @@
 Pregnancy
 There are limited data from the use of mannitol in pregnant women.
 Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
-As the effects of a possible hyperresponsive reaction on the mother and/or foetus are unknown, caution should be exercised when prescribing bronchitol to pregnant women.
+As the effects of a possible hyperresponsive reaction on the mother and/or foetus are unknown, caution should be exercised when prescribing Bronchitol to pregnant women.
 As a precautionary measure, it is preferable to avoid the use of Bronchitol during pregnancy.
 
 Breastfeeding
