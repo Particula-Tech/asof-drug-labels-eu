@@ -4,7 +4,7 @@ For single use only.
 Once an ampoule is opened, the contents should be used immediately.
 Any unused product must be discarded.
 
-Quinsair is administered by inhalation over a 5 minute period using a Quinsair specific Zirela Nebuliser Handset and Zirela Aerosol Head connected to an eBase Controller or an eFlow rapid Control Unit (see section 4.2).
+Quinsair is administered by inhalation over a 5-minute period using a Quinsair specific Zirela Nebuliser Handset and Zirela Aerosol Head connected to an eBase Controller or an eFlow rapid Control Unit (see section 4.2).
 Quinsair should not be used with any other type of handset or aerosol head.
 
 Basic instructions for use are given below.
@@ -21,6 +21,7 @@ Keeping the handset level, place the mouthpiece in the patient’s mouth making 
 Ask the patient to inhale and exhale through the mouthpiece until the treatment is finished.
 When the treatment is complete, the controller will ‘beep’ twice.
 Disconnect the controller and dismantle the Zirela Nebuliser Handset for cleaning and disinfection.
+
 Do not put other medicinal products into the Zirela Nebuliser Handset.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

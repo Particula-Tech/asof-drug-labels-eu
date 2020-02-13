@@ -12,41 +12,41 @@ Table 3: Comparison of mean (SD) multiple dose levofloxacin pharmacokinetic para
 | Pharmacokinetic parameter | Quinsair | Systemic levofloxacin |  |
 | --- | --- | --- | --- |
 |  | 240 mg Inhalation BID | 500 mg Oral QD* | 500 mg IV QD* |
-| Cmax (μg/ml) | 2.4 (1.0) | 5.7 (1.4) | 6.4 (0.8) |
-| AUC(0-24) (µg•h/ml) | 20.9 (12.5) | 47.5 (6.7) | 54.6 (11.1) |
+| Cmax (μg/mL) | 2.4 (1.0) | 5.7 (1.4) | 6.4 (0.8) |
+| AUC(0-24) (µg•h/mL) | 20.9 (12.5) | 47.5 (6.7) | 54.6 (11.1) |
 | IV = intravenous; QD = quaque die (once a day); BID = bis in die (twice a day) * Predicted value from population PK analysis in CF patients ** Healthy males 18-53 years old |  |  |  |
 
-High levofloxacin concentrations were observed in sputum following Quinsair 240 mg twice daily dosing in patients with CF. The mean post-dose sputum concentrations were approximately 500-1900 µg/ml and were approximately 400-1700 times higher than those observed in serum.
+High levofloxacin concentrations were observed in sputum following Quinsair 240 mg twice daily dosing in patients with CF. The mean post-dose sputum concentrations were approximately 500-1,900 µg/mL and were approximately 400-1,700 times higher than those observed in serum.
 
 Distribution
 
 Approximately 30 to 40% of levofloxacin is bound to serum protein.
 The mean apparent volume of distribution of levofloxacin in serum is approximately 250 L following inhalation of Quinsair 240 mg twice daily.
-
 Biotransformation
 
 Levofloxacin is metabolised to a very small extent, the metabolites being desmethyl-levofloxacin and levofloxacin N-oxide.
 These metabolites account for ˂ 5% of the dose following systemic administration and are excreted in urine.
 Levofloxacin is stereochemically stable and does not undergo chiral inversion.
+
 Elimination
 
 Levofloxacin is systemically absorbed following inhalation of Quinsair and eliminated similarly to levofloxacin following systemic administration.
-Following oral and intravenous administration, levofloxacin is eliminated relatively slowly from the plasma (t1/2: 6 to 8 hours).
+Following oral and intravenous administration, levofloxacin is eliminated relatively slowly from the plasma (t½: 6 to 8 hours).
 The half-life of levofloxacin following inhalation of Quinsair is approximately 5 to 7 hours.
 Elimination is primarily by the renal route (> 85% of the dose following oral or intravenous administration).
-The mean apparent total body clearance of levofloxacin following systemic administration of a 500 mg single dose was 175 +/- 29.2 ml/min.
+The mean apparent total body clearance of levofloxacin following systemic administration of a 500 mg single dose was 175 +/- 29.2 mL/min.
 The apparent clearance (CL/F) of levofloxacin following inhalation of Quinsair 240 mg twice daily is 31.8 +/- 22.4 L/hour.
 
 Linearity
 
-Following systemic administration, levofloxacin obeys linear pharmacokinetics over a range of 50 to 1000 mg.
+Following systemic administration, levofloxacin obeys linear pharmacokinetics over a range of 50 to 1,000 mg.
 
 Patients with renal impairment
 
 The effects of renal impairment on the pharmacokinetics of levofloxacin administered by inhalation have not been studied.
-However, dose adjustments were not employed in clinical studies of Quinsair which allowed for the inclusion of patients with mild to moderate renal impairment (estimated creatinine clearance ≥ 20 ml/min using the Cockcroft-Gault formula in adult patients and
-≥ 20 ml/min/1.73 m2 using the Bedside Schwartz formula in patients < 18 years old).
-Studies using systemic administration of levofloxacin show that the pharmacokinetics of levofloxacin are affected by renal impairment; with decreasing renal function (estimated creatinine clearance < 50 ml/min), renal elimination and clearance are decreased, and elimination half-life increased.
+However, dose adjustments were not employed in clinical studies of Quinsair which allowed for the inclusion of patients with mild to moderate renal impairment (estimated creatinine clearance ≥ 20 mL/min using the Cockcroft-Gault formula in adult patients and
+≥ 20 mL/min/1.73 m2 using the Bedside Schwartz formula in patients < 18 years old).
+Studies using systemic administration of levofloxacin show that the pharmacokinetics of levofloxacin are affected by renal impairment; with decreasing renal function (estimated creatinine clearance < 50 mL/min), renal elimination and clearance are decreased, and elimination half-life increased.
 
 Therefore, doses of Quinsair do not need to be adjusted in patients with mild to moderate renal impairment.
 However, Quinsair is not recommended for use in patients with severe renal impairment (creatinine clearance ˂ 20 ml/min, see section 4.2).
@@ -63,7 +63,6 @@ The safety and efficacy of Quinsair in children aged ˂ 18 years old have not ye
 The pharmacokinetics of levofloxacin following inhalation of Quinsair 240 mg twice daily were investigated in paediatric patients with CF aged 12 years and older and weighing ≥ 30 kg.
 A population PK model based on sparse sampling determined that levofloxacin serum concentrations were comparable between paediatric and adult patients following 28 days of treatment.
 Higher sputum concentrations were observed in adults compared to paediatric patients in Study 207; similar sputum concentrations were observed in adult and paediatric patients in Study 209.
-
 In addition, the pharmacokinetics of weight-based doses of levofloxacin administered by inhalation once daily for 14 days in paediatric patients with CF (≥ 6 to < 12 years old, n = 14 and
 ≥ 12 to < 17 years old, n = 13) were evaluated in Study 206.
 Patients weighing 22 to 30 kg received 180 mg levofloxacin/day and patients weighing ˃ 30 kg received 240 mg levofloxacin/day.

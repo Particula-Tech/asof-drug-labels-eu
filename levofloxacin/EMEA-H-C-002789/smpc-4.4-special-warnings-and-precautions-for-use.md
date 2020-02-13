@@ -2,6 +2,7 @@
 
 The use of levofloxacin should be avoided in patients who have experienced serious adverse reactions in the past when using quinolone or fluoroquinolone containing products (see section 4.8).
 Treatment of these patients with levofloxacin should only be initiated in the absence of alternative treatment options and after careful benefit/risk assessment (see also section 4.3).
+
 Hypersensitivity reactions
 
 Levofloxacin can cause serious, potentially fatal hypersensitivity reactions (e.g. including angioedema and anaphylactic shock).
@@ -9,7 +10,6 @@ Levofloxacin can cause serious, potentially fatal hypersensitivity reactions (e.
 Severe bullous reactions
 
 Cases of severe bullous skin reactions such as Stevens-Johnson syndrome or toxic epidermal necrolysis have been reported with systemic administration of levofloxacin (see section 4.8).
-
 Hepatobiliary disorders
 
 Cases of hepatic necrosis up to fatal hepatic failure have been reported with systemically administered levofloxacin, primarily in patients with severe underlying diseases (e.g. sepsis, see section 4.8).
@@ -51,8 +51,8 @@ Levofloxacin is not recommended in patients with a known history of myasthenia g
 
 Tendinitis and tendon rupture
 
-Tendinitis and tendon rupture (especially but not limited to Achilles tendon), sometimes bilateral, may occur as early as within 48 hours of starting treatment with quinolones and fluoroquinolones and have been reported to occur even up to several months after discontinuation of treatment.
-The risk of tendinitis and tendon rupture is increased in older patients, patients with renal impairment, patients with solid organ transplants, patients receiving daily doses of 1000 mg levofloxacin, and those treated concurrently with corticosteroids.
+Tendinitis and tendon rupture (especially, but not limited to Achilles tendon), sometimes bilateral, may occur as early as within 48 hours of starting treatment with quinolones and fluoroquinolones and have been reported to occur even up to several months after discontinuation of treatment.
+The risk of tendinitis and tendon rupture is increased in older patients, patients with renal impairment, patients with solid organ transplants, patients receiving daily doses of 1,000 mg levofloxacin, and those treated concurrently with corticosteroids.
 Therefore, concomitant use of corticosteroids should be avoided.
 At the first sign of tendinitis (e.g. painful swelling, inflammation) the treatment with levofloxacin should be discontinued and alternative treatment should be considered.
 The affected limb(s) should be appropriately treated (e.g. immobilisation).
@@ -72,7 +72,7 @@ Administration of Quinsair in patients with clinically significant haemoptysis s
 
 Patients with glucose-6-phosphate dehydrogenase deficiency
 
-Patients with latent or actual defects in glucose-6-phosphate dehydrogenase activity may be prone to haemolytic reactions when treated with quinolone antibacterial agents.
+Patients with latent or actual defects in glucose-6-phosphate dehydrogenase activity may be prone to haemolytic reactions when treated with quinolone medicinal products.
 Therefore, if levofloxacin has to be used in these patients, potential occurrence of haemolysis should be monitored.
 
 Patients treated with vitamin K antagonists
@@ -81,14 +81,15 @@ Due to possible increases in coagulation tests (PT/INR) and/or bleeding in patie
 
 Dysglycaemia
 
-As with all quinolones, disturbances in blood glucose, including both hypoglycaemia and hyperglycaemia have been reported, usually in diabetic patients receiving concomitant treatment with an oral hypoglycaemic agent (e.g. glibenclamide) or with insulin.
+Disturbances in blood glucose, including both hypoglycaemia and hyperglycaemia have been reported, usually in diabetic patients receiving concomitant treatment with an oral hypoglycaemic medicinal product (e.g. glibenclamide) or with insulin.
 In diabetic patients, careful monitoring of blood glucose is recommended (see section 4.8).
 
 Clostridium difficile-associated disease
 
 Diarrhoea, particularly if severe, persistent and/or bloody, during or after treatment with levofloxacin (including several weeks after treatment), may be symptomatic of Clostridium difficile-associated disease (CDAD).
 CDAD may range in severity from mild to life-threatening, the most severe form of which is pseudomembranous colitis.
-Resistance to levofloxacin, other antibacterial agents and treatment-emergent microorganisms
+
+Resistance to levofloxacin, other antibacterial medicinal products and treatment-emergent microorganisms
 
 The development of fluoroquinolone-resistant P. aeruginosa and superinfection with fluoroquinolone-insusceptible microorganisms represent potential risks associated with the use of Quinsair.
 If superinfection occurs during therapy, appropriate measures should be taken.
@@ -96,7 +97,6 @@ If superinfection occurs during therapy, appropriate measures should be taken.
 Vision disorders
 
 If vision becomes impaired or any effects on the eyes are experienced, an eye specialist should be consulted immediately (see sections 4.7 and 4.8).
-
 Prevention of photosensitisation
 
 Photosensitisation has been reported with levofloxacin (see section 4.8).

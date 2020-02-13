@@ -1,13 +1,9 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: antibacterials for systemic use, fluoroquinolones
-ATC code: J01MA12
-
-Levofloxacin is an antibacterial agent of the fluoroquinolone class and is the S (-) enantiomer of the racemic active substance ofloxacin.
-
-Mechanism of action
+Pharmacotherapeutic group: antibacterials for systemic use, fluoroquinolones ATC code: J01MA12 Mechanism of action
 
 The mechanism of action of levofloxacin and other fluoroquinolone antimicrobials involves inhibition of bacterial DNA gyrase and topoisomerase IV enzymes.
+
 PK/PD relationship
 
 The parameters associated with the antibacterial effects of levofloxacin are the Cmax/MIC and AUC/MIC ratios (Cmax = maximum concentration at the site of infection, AUC = area under the curve and MIC = minimal inhibitory concentration).
@@ -81,7 +77,13 @@ During the Extension Phase, the LS Mean change for FEV1 percent predicted ranged
 For the subgroup of patients who received TIS during the Core Phase and switched to Quinsair in the Extension Phase, the improvement in FEV1 percent predicted was more marked on Quinsair than on TIS (LS Mean change in FEV1 percent predicted on TIS ranged between 0.97% to 3.60% across Cycles 1 to 3 and between 4.00% to 6.91% across
 Cycles 4 to 6 on Quinsair).
 For the subgroup of patients who received Quinsair throughout the Core and Extension Phases (i.e. Cycles 1 to 6), the LS Mean change in FEV1 percent predicted ranged between 3.6% to 4.6% except in Cycle 6, where it was close to baseline (-0.15%).
-The proportion of patients who received Quinsair throughout Study 209 Core and Extension Phases (with a highest levofloxacin MIC P. aeruginosa isolate exceeding 1 µg/ml) was similar at the end of treatment during Cycles 1 and 3 in the Core Phase (76.6% to 83.3%) and at the end of treatment during Cycles 4 to 6 in the Extension Phase (77.8% to 87.5%).
+The proportion of patients who received Quinsair throughout Study 209 Core and Extension Phases (with a highest levofloxacin MIC P. aeruginosa isolate exceeding 1 µg/mL) was similar at the end of treatment during Cycles 1 and 3 in the Core Phase (76.6% to 83.3%) and at the end of treatment during Cycles 4 to 6 in the Extension Phase (77.8% to 87.5%).
+
+In the clinical studies described above, the Zirela Nebuliser System was used to administer Quinsair.
+In vitro studies using the Zirela Nebuliser System with Quinsair have demonstrated the following drug delivery characteristics: mass median aerodynamic diameter (droplet size distribution):
+3.56 micrometres (1.51 geometric standard deviation); drug delivery rate: 24.86 mg/minute
+(4.05 standard deviation, SD) and total drug delivered: 236.1 mg (7.1 SD).
+
 Paediatric population
 
 In Studies 204, 207 and 209, the relative change in FEV1 percent predicted from baseline to the end of treatment in Cycle 1 was of similar magnitude in the 51 adolescents with CF (≥ 12 to < 18 years old and weighing ≥ 30 kg) receiving Quinsair 240 mg twice daily to that in adults.

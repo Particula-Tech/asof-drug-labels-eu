@@ -4,6 +4,7 @@ Effect of other medicinal products on levofloxacin
 
 Levofloxacin is primarily excreted unchanged in the urine and metabolism is minimal (see section 5.2).
 Interactions with CYP inhibitors or inducers are thus not expected.
+
 Theophylline, fenbufen or similar non-steroidal anti-inflammatory drugs
 No pharmacokinetic interactions of levofloxacin were found with theophylline in a clinical study.
 However, a pronounced lowering of the cerebral seizure threshold may occur when quinolones are given concurrently with theophylline, non-steroidal anti-inflammatory drugs, or other substances which lower the seizure threshold.
