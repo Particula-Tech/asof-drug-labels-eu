@@ -21,7 +21,7 @@ Not all pack sizes may be marketed.
 
 [Ebixa 5 mg/pump actuation oral solution.]
 
-Brown glass bottles (Hydrolytic Class III) containing either 50 ml, 100 ml or 10 x 50 ml solution.
+50 ml (and 10 x 50 ml) in brown glass bottles (Hydrolytic Class II) and 100 ml in brown glass bottles (Hydrolytic Class III).
 
 [Ebixa 5 mg film-coated tablets.]
 
