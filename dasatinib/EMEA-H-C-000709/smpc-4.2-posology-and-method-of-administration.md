@@ -144,7 +144,7 @@ The film-coated tablets must not be crushed, cut or chewed in order to maintain 
 Film-coated tablets should not be dispersed as the exposure in patients receiving a dispersed tablet is lower than in those swallowing a whole tablet.
 SPRYCEL powder for oral suspension is also available for paediatric
 Ph+ CML-CP and Ph+ ALL patients, and adult CML-CP patients, who cannot swallow tablets.
-SPRYCEL can be taken with or without a meal and should be taken consistently either in the morning or in the evening.
+SPRYCEL can be taken with or without a meal and should be taken consistently either in the morning or in the evening (see section 5.2).
 SPRYCEL should not be taken with grapefruit or grapefruit juice (see section 4.5).
 
 [SPRYCEL 10 mg/mL powder for oral suspension]
@@ -198,7 +198,7 @@ Powder for oral suspension
 30 to less than 45 10.5 mL (105 mg) 2 mL (20 mg)
 at least 45 12 mL (120 mg) 2.5 mL (25 mg)
 
-It can be taken with or without a meal and should be taken consistently either in the morning or in the evening.
+It can be taken with or without a meal and should be taken consistently either in the morning or in the evening (see section 5.2).
 The oral suspension should not be taken with grapefruit or grapefruit juice (see section 4.5).
 Constituted oral suspension may be further mixed with milk, yogurt, apple juice, or applesauce.
 

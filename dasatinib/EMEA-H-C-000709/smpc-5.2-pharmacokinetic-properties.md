@@ -10,6 +10,10 @@ The overall mean terminal half-life of dasatinib is approximately 5-6 hours in p
 Data from healthy subjects administered a single 100 mg dose of dasatinib 30 minutes following a high-fat meal indicated a 14% increase in the mean AUC of dasatinib.
 A low-fat meal 30 minutes prior to dasatinib resulted in a 21% increase in the mean AUC of dasatinib.
 The observed food effects do not represent clinically relevant changes in exposure.
+Dasatinib exposure variability is higher under fasted conditions (47% CV) compared to light-fat meal (39% CV) and high-fat meal (32% CV) conditions.
+
+Based on the patient population PK analysis, variability in dasatinib exposure was estimated to be mainly due to inter-occasion variability in bioavailability (44% CV) and, to a lesser extent, due to inter-individual variability in bioavailability and inter-individual variability in clearance (30% and 32% CV, respectively).
+The random inter-occasion variability in exposure is not expected to affect the cumulative exposure and efficacy or safety.
 
 Distribution
 In patients, dasatinib has a large apparent volume of distribution (2,505 L), coefficient of variation (CV% 93%), suggesting that the medicinal product is extensively distributed in the extravascular space.
@@ -20,7 +24,6 @@ Dasatinib is extensively metabolised in humans with multiple enzymes involved in
 In healthy subjects administered 100 mg of [14C]-labelled dasatinib, unchanged dasatinib represented 29% of circulating radioactivity in plasma.
 Plasma concentration and measured in vitro activity indicate that metabolites of dasatinib are unlikely to play a major role in the observed pharmacology of the product.
 CYP3A4 is a major enzyme responsible for the metabolism of dasatinib.
-
 Elimination
 The mean terminal half-life of dasatinib is 3 hours to 5 hours.
 The mean apparent oral clearance is 363.8 L/hr (CV% 81.3%).
@@ -28,6 +31,7 @@ The mean apparent oral clearance is 363.8 L/hr (CV% 81.3%).
 Elimination is predominantly in the faeces, mostly as metabolites.
 Following a single oral dose of [14C]-labelled dasatinib, approximately 89% of the dose was eliminated within 10 days, with 4% and 85% of the radioactivity recovered in the urine and faeces, respectively.
 Unchanged dasatinib accounted for 0.1% and 19% of the dose in urine and faeces, respectively, with the remainder of the dose as metabolites.
+
 Hepatic and renal impairment
 The effect of hepatic impairment on the single-dose pharmacokinetics of dasatinib was assessed in 8 moderately hepatic-impaired subjects who received a 50 mg dose and 5 severely hepatic-impaired subjects who received a 20 mg dose compared to matched healthy subjects who received a 70 mg dose of dasatinib.
 The mean Cmax and AUC of dasatinib adjusted for the 70 mg dose were decreased by 47% and 8%, respectively, in subjects with moderate hepatic impairment compared to subjects with normal hepatic function.

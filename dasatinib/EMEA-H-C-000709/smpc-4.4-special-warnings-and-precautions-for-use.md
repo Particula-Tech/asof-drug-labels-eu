@@ -26,10 +26,9 @@ Treatment with dasatinib is associated with anaemia, neutropaenia and thrombocyt
 Their occurrence is earlier and more frequent in patients with advanced phase CML or Ph+ ALL than in chronic phase CML.
 In adult patients with advanced phase CML or Ph+ ALL treated with dasatinib as monotherapy, complete blood counts (CBCs) should be performed weekly for the first 2 months, and then monthly thereafter, or as clinically indicated.
 In adult and paediatric patients with chronic phase CML, complete blood counts should be performed every 2 weeks for 12 weeks, then every 3 months thereafter or as clinically indicated.
-Myelosuppression is generally reversible and usually managed by withholding dasatinib temporarily or by dose reduction.
 In paediatric patients with Ph+ ALL treated with dasatinib in combination with chemotherapy, CBCs should be performed prior to the start of each block of chemotherapy and as clinically indicated.
 During the consolidation blocks of chemotherapy, CBCs should be performed every 2 days until recovery (see sections 4.2 and 4.8).
-
+Myelosuppression is generally reversible and usually managed by withholding dasatinib temporarily or by dose reduction.
 Bleeding
 In patients with chronic phase CML (n=548), 5 patients (1%) receiving dasatinib had grade 3 or 4 haemorrhage.
 In clinical studies in patients with advanced phase CML receiving the recommended dose of SPRYCEL (n=304), severe central nervous system (CNS) haemorrhage occurred in 1% of patients.
@@ -104,7 +103,6 @@ Some cases resulted in acute hepatic failure or fulminant hepatitis leading to l
 Patients should be tested for HBV infection before initiating treatment with SPRYCEL.
 Experts in liver disease and in the treatment of hepatitis B should be consulted before treatment is initiated in patients with positive hepatitis B serology (including those with active disease) and for patients who test positive for HBV infection during treatment.
 Carriers of HBV who require treatment with SPRYCEL should be closely monitored for signs and symptoms of active HBV infection throughout therapy and for several months following termination of therapy (see section 4.8).
-
 Effects on growth and development in paediatric patients
 In paediatric trials of SPRYCEL in imatinib-resistant/intolerant Ph+ CML-CP paediatric patients and treatment-naive Ph+ CML-CP paediatric patients after at least 2 years of treatment, treatment-related adverse events associated with bone growth and development were reported in 6 (4.6%) patients, one of which was severe in intensity (Growth Retardation Grade 3).
 These 6 cases included cases of epiphyses delayed fusion, osteopaenia, growth retardation, and gynecomastia (see section 5.1).

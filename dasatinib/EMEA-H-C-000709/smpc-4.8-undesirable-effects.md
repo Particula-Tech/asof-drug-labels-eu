@@ -3,6 +3,7 @@
 Summary of the safety profile
 The data described below reflect the exposure to SPRYCEL as single-agent therapy at all doses tested in clinical studies (N=2,900), including 324 adult patients with newly diagnosed chronic phase CML, 2,388 adult patients with imatinib-resistant or -intolerant chronic or advanced phase CML or
 Ph+ ALL, and 188 paediatric patients.
+
 In the 2,712 adult patients with either chronic phase CML, advanced phase CML or Ph+ ALL, the median duration of therapy was 19.2 months (range 0 to 93.2 months).
 In a randomized trial in patients with newly diagnosed chronic phase CML, the median duration of therapy was approximately 60 months.
 The median duration of therapy in 1,618 adult patients with chronic phase CML was 29 months (range 0 to 92.9 months).
@@ -132,9 +133,9 @@ Description of selected adverse reactions
 Myelosuppression
 Treatment with SPRYCEL is associated with anaemia, neutropaenia and thrombocytopaenia.
 Their occurrence is earlier and more frequent in patients with advanced phase CML or Ph+ ALL than in chronic phase CML (see section 4.4).
-
 Bleeding
 Bleeding drug-related adverse reactions, ranging from petechiae and epistaxis to grade 3 or 4 gastrointestinal haemorrhage and CNS bleeding, were reported in patients taking SPRYCEL (see section 4.4).
+
 Fluid retention
 Miscellaneous adverse reactions such as pleural effusion, ascites, pulmonary oedema and pericardial effusion with or without superficial oedema may be collectively described as “fluid retention”.
 In the newly diagnosed chronic phase CML study after a minimum of 60 months follow-up, dasatinib-related fluid retention adverse reactions included pleural effusion (28%), superficial oedema (14%), pulmonary hypertension (5%), generalised oedema (4%), and pericardial effusion (4%).
@@ -169,9 +170,9 @@ QT interval was corrected for heart rate by Fridericia's method.
 At all post-dose time points on day 8, the mean changes from baseline in QTcF interval were 4 - 6 msec, with associated upper 95% confidence intervals < 7 msec.
 Of the 2,182 patients with resistance or intolerance to prior imatinib therapy who received SPRYCEL in clinical studies, 15 (1%) had QTc prolongation reported as an adverse reaction.
 Twenty-one patients (1%) experienced a QTcF > 500 msec (see section 4.4).
-
 Cardiac adverse reactions
 Patients with risk factors or a history of cardiac disease should be monitored carefully for signs or symptoms consistent with cardiac dysfunction and should be evaluated and treated appropriately (see section 4.4).
+
 Hepatitis B reactivation
 Hepatitis B reactivation has been reported in association with BCR-ABL TKIs.
 Some cases resulted in acute hepatic failure or fulminant hepatitis leading to liver transplantation or a fatal outcome (see section 4.4).

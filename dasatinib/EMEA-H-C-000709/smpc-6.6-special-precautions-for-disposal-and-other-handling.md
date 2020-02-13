@@ -69,6 +69,7 @@ by shaking for 30 seconds. bottle repeatedly
 for 30
 
 - Shake well before each seconds.
+
 use.
 
 2.
@@ -81,9 +82,9 @@ Look at the measurements on the side of the syringe so you can see how much to f
 Note that the markings on the syringe are in mL.
 Find the marking that matches the dose that was prescribed by your doctor.
 Before each use, make sure the syringe plunger is pushed to the bottom of the syringe barrel.
-
 4.
 With the bottle in an upright position, insert the tip of the syringe firmly into the bottle adapter.
+
 5.
 Holding the syringe tip firmly into the bottle, turn the bottle with the syringe upside down.
 
@@ -97,6 +98,7 @@ Slowly withdraw the amount of SPRYCEL oral suspension prescribed by pulling the 
 
 7.
 Holding the syringe tip firmly in the bottle, turn the bottle with the syringe upright again.
+
 8.
 Remove the syringe from the bottle being careful not to depress the plunger.
 
@@ -121,13 +123,13 @@ order to avoid damaging it.
 
 ALLOW TO
 
-11. Refer to the bottle AIR DRY AFTER
-label for instructions EACH USE
+11. Refer to the AIR DRY AFTER
+package leaflet (see EACH USE
 
-on discarding any unused medicine, syringe and bottle.
+section 5 ‘How to store SPRYCEL’) for instructions on discarding any unused medicine,
 
-DO NOT
-TAKE APART
+syringe and bottle. TAKE APART DO NOT
+
 THE SYRINGE
 
 Once constituted, the oral suspension should only be administered using the oral dosing syringe supplied with each pack.
