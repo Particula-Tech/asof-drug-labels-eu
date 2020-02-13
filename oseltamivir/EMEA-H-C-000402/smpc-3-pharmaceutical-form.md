@@ -16,7 +16,3 @@ Imprints are blue.
 
 Powder for oral suspension
 The powder is a granulate or clumped granulate with a white to light yellow colour.
-
-[Tamiflu 12 mg/ml powder for oral suspension]
-
-(all sentences already above)

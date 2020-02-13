@@ -23,7 +23,6 @@ No difference in the incidence of complications was observed between the treatme
 
 Paediatric population
 No data allowing a dose recommendation for premature children (< 36 weeks post-conceptual age) are currently available.
-
 Severe renal impairment
 Dose adjustment is recommended for both treatment and prevention in adolescents (13 to 17 years of age) and adults with severe renal impairment.
 There is insufficient clinical data available in infants and children (1 year of age or older) with renal impairment to be able to make any dosing recommendation (see sections 4.2 and 5.2).
@@ -40,7 +39,3 @@ No data allowing a dose recommendation for premature children (<36 weeks post-co
 This medicinal product contains sorbitol.
 Patients with rare hereditary problems of fructose intolerance should not take this medicine.
 Sorbitol can have a mild laxative effect.
-
-[Tamiflu 12 mg/ml powder for oral suspension]
-
-Dose adjustment is recommended for both treatment and prevention in adolescents (13 to 17 years or age) and adults with severe renal impairment.

@@ -15,9 +15,9 @@ The following serious adverse reactions have been rarely reported since oseltami
 Tabulated list of adverse reactions
 The ARs listed in the tables below fall into the following categories: Very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), and very rare (< 1/10,000).
 ARs are added to the appropriate category in the tables according to the pooled analysis from clinical studies.
-
 Treatment and prevention of influenza in adults and adolescents:
 In adult/adolescent treatment and prevention studies, ARs that occurred the most frequently at the recommended dose (75 mg bid for 5 days for treatment and 75 mg od for up to 6 weeks for prophylaxis) are shown in Table 1.
+
 The safety profile reported in subjects who received the recommended dose of Tamiflu for prophylaxis (75 mg once daily for up to 6 weeks) was qualitatively similar to that seen in the treatment studies, despite a longer duration of dosing in the prophylaxis studies.
 
 Table 1 Adverse reactions in studies investigating Tamiflu for treatment and prevention of influenza in adults and adolescents or through post-marketing surveillance
@@ -35,8 +35,9 @@ Table 1 Adverse reactions in studies investigating Tamiflu for treatment and pre
 | Respiratory, thoracic and mediastinal disorders |  | Cough, Sore throat, Rhinorrhea |  |  |
 | Gastrointestinal disorders | Nausea | Vomiting Abdominal pain (incl. upper abdominal pain), Dyspepsia |  | Gastrointestinal bleedings, Haemorrhagic colitis |
 | Hepatobiliary disorders |  |  | Elevated liver enzymes | Fulminant hepatitis, Hepatic failure, Hepatitis |
-| Skin and subcutaneous tissue disorders |  |  | Eczema, Dermatitis, Rash, Urticaria | Angioneurotic oedema, Erythema multiforme, Stevens-Johnson syndrome, Toxic epidermal necrolysis |
+| Skin and subcutaneous tissue disorders |  |  | Eczema, Dermatitis, Rash, Urticaria | Angioneurotic oedema, Erythema multiforme, |
 |  | Very common | Common | Uncommon | Rare |
+|  |  |  |  | Stevens-Johnson syndrome, Toxic epidermal necrolysis |
 | General disorders and administration site conditions |  | Pain Dizziness (incl. vertigo), Fatigue, Pyrexia, Pain in limb |  |  |
 
 Treatment and prevention of influenza in children:
@@ -93,9 +94,9 @@ The safety profile of Tamiflu observed in this study was consistent with that ob
 The percentage of patients reporting adverse events was lower in the standard dose group compared to the double dose group (49.0% vs 59.4 %, respectively) (See section 5.1).
 
 In a 12-week prophylaxis study in 475 immunocompromised patients, including 18 children 1 to 12 years of age and older, the safety profile in the 238 patients who received oseltamivir was consistent with that previously observed in Tamiflu prophylaxis clinical studies.
-
 Children with pre-existing bronchial asthma
 In general, the adverse reaction profile in children with pre-existing bronchial asthma was qualitatively similar to that of otherwise healthy children.
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
@@ -116,25 +117,6 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 | Cardiac disorders |  |  | Cardiac arrhythmia |  |
 | Respiratory, thoracic and mediastinal disorders |  | Cough, Sore throat, Rhinorrhea |  |  |
 | Gastrointestinal disorders | Nausea | Vomiting Abdominal pain (incl. upper abdominal pain), Dyspepsia |  | Gastrointestinal bleedings, Haemorrhagic colitis |
-| Hepatobiliary disorders |  |  | Elevated liver enzymes | Fulminant hepatitis, Hepatic failure, Hepatitis |
-| Skin and subcutaneous tissue disorders |  |  | Eczema, Dermatitis, Rash, Urticaria | Angioneurotic oedema, Erythema multiforme, Stevens-Johnson syndrome, Toxic epidermal necrolysis |
-| General disorders and administration site conditions |  | Pain Dizziness (incl. vertigo), Fatigue, Pyrexia, Pain in limb |  |  |
-
-[Tamiflu 12 mg/ml powder for oral suspension]
-
-| System Organ Class (SOC) | Adverse reactions according to frequency |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Very common | Common | Uncommon | Rare |
-| Infections and infestations |  | Bronchitis, Herpes simplex, Nasopharyngitis, Upper respiratory tract infections, Sinusitis |  |  |
-| Blood and lymphatic system disorders |  |  |  | Thrombocytopenia |
-| Immune system disorders |  |  | Hypersensitivity reaction | Anaphylactic reactions, Anaphylactoid reactions |
-| Psychiatric disorders |  |  |  | Agitation, Abnormal behaviour, Anxiety, Confusion, Delusions, Delirium, Hallucination, Nightmares, Self-injury |
-| Nervous system disorders | Headache | Insomnia | Altered level of consciousness, Convulsion |  |
-| Eye disorders |  |  |  | Visual disturbance |
-| Cardiac disorders |  |  | Cardiac arrhythmia |  |
-| Respiratory, thoracic and mediastinal disorders |  | Cough, Sore throat, Rhinorrhea |  |  |
-| Gastrointestinal disorders | Nausea | Vomiting Abdominal pain (incl. upper abdominal pain), Dyspepsia |  | Gastrointestinal bleedings, Haemorrhagic colitis |
-|  | Very common | Common | Uncommon | Rare |
 | Hepatobiliary disorders |  |  | Elevated liver enzymes | Fulminant hepatitis, Hepatic failure, Hepatitis |
 | Skin and subcutaneous tissue disorders |  |  | Eczema, Dermatitis, Rash, Urticaria | Angioneurotic oedema, Erythema multiforme, Stevens-Johnson syndrome, Toxic epidermal necrolysis |
 | General disorders and administration site conditions |  | Pain Dizziness (incl. vertigo), Fatigue, Pyrexia, Pain in limb |  |  |

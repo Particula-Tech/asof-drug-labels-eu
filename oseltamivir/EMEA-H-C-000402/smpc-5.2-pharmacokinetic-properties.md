@@ -57,9 +57,9 @@ On the basis of drug exposure and tolerability, dosage adjustments are not requi
 Renal impairment
 Administration of 100 mg oseltamivir phosphate twice daily for 5 days to patients with various degrees of renal impairment showed that exposure to oseltamivir carboxylate is inversely proportional to declining renal function.
 For dosing, see section 4.2.
-
 Hepatic impairment
 In vitro studies have concluded that exposure to oseltamivir is not expected to be increased significantly nor is exposure to the active metabolite expected to be significantly decreased in patients with hepatic impairment (see section 4.2).
+
 Pregnant Women
 A pooled population pharmacokinetic analysis indicates that the Tamiflu dosage regimen described in Section 4.2 Posology and method of administration results in lower exposure (30% on average across all trimesters) to the active metabolite in pregnant women compared to non-pregnant women.
 The lower predicted exposure however, remains above inhibitoy concentrations (IC95 values) and at a therapeutic level for a range of influenza virus strains.
@@ -72,11 +72,3 @@ Posology and method of administration) results in an increased exposure (of up t
 Due to the wide safety margin of the active metabolite, no dose adjustments are required in adults due to their immunocompromised status.
 However, for adult immunocompromised patients with renal impairment, doses should be adjusted as outlined in section 4.2.
 Posology and method of administration.
-
-[Tamiflu 6 mg/ml powder for oral suspension]
-
-(all sentences already above)
-
-[Tamiflu 12 mg/ml powder for oral suspension]
-
-Older people

@@ -198,12 +198,3 @@ Close the bottle tightly with the cap (on the top of the bottle adapter).
 This will make sure that the bottle adapter fits in the bottle in the right position.
 
 Tamiflu powder for suspension will appear as an opaque and white to light yellow suspension after reconstitution.
-
-[Tamiflu 12 mg/ml powder for oral suspension]
-
-After reconstitution with 52 ml of water, the usable volume of oral suspension allows for the retrieval of a total of 10 doses of 75 mg oseltamivir.
-Only the syringe included in the package with doses indicated in mg should be used.
-It cannot be replaced by a syringe with ml markings.
-
-Measure 52 ml of water by filling the measuring cup to the indicated level (measuring cup included in the box).
-Add all 52 ml of water into the bottle, recap the bottle and shake the closed bottle well for 15 seconds.

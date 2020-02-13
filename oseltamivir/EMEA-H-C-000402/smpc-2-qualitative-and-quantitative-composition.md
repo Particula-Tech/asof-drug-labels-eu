@@ -22,13 +22,3 @@ Excipients with known effect:
 7.5 ml oseltamivir suspension delivers 1.3 g of sorbitol.
 10 ml oseltamivir suspension delivers 1.7 g of sorbitol.
 12.5 ml oseltamivir suspension delivers 2.1 g of sorbitol.
-
-[Tamiflu 12 mg/ml powder for oral suspension]
-
-Each ml of reconstituted suspension contains oseltamivir phosphate equivalent to 12 mg of oseltamivir.
-One bottle of reconstituted suspension (75 ml) contains 900 mg of oseltamivir.
-
-30 mg oseltamivir suspension delivers 0.9 g of sorbitol.
-45 mg oseltamivir suspension delivers 1.3 g of sorbitol.
-60 mg oseltamivir suspension delivers 1.7 g of sorbitol.
-75 mg oseltamivir suspension delivers 2.1 g of sorbitol.

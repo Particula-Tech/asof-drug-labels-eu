@@ -64,7 +64,3 @@ Xanthan gum (E415)
 Sodium benzoate (E211)
 Saccharin sodium (E954)
 Tutti frutti flavour (including maltodextrins [maize], propylene glycol, arabic gum E414 and natural identical flavouring substances [mainly consisting of banana, pineapple and peach flavour]).
-
-[Tamiflu 12 mg/ml powder for oral suspension]
-
-(all sentences already above)

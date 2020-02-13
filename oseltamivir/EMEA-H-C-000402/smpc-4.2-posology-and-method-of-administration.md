@@ -235,24 +235,3 @@ The recommended dose for adults and adolescents for prevention of influenza duri
 
 For dosing, a 3 ml and 10 ml oral dispenser is provided in the box.
 It is recommended that Tamiflu powder for oral suspension be constituted by a pharmacist prior to dispensing to the patient (see section 6.6).
-
-[Tamiflu 12 mg/ml powder for oral suspension]
-
-For infants less than 1 year of age: This formulation is not suitable for dosing in infants less than 1 year age.
-For details, see sections below.
-
-For infants and children 1 year of age or older: The recommended dose of Tamiflu oral suspension is indicated in the table below.
-Tamiflu 30 mg and 45 mg capsules are available as an alternative to the recommended dose of Tamiflu suspension.
-
-For infants less than 1 year of age: This formulation (Tamiflu 12 mg/ml powder for oral suspension) is unsuitable since the syringe provided in the pack (with mg markings) does not allow for appropriate dose adjustments and the use of syringes with ml markings may lead to unacceptable dosing inaccuracies.
-In the absence of the 6 mg/ml oral suspension formulation, the pharmacy compounded preparation should preferentially be used.
-Please refer to the SmPC for the 30 mg, 45 mg and 75 mg capsules (section 6.6).
-
-For infants and children1 year of age or older: Tamiflu 30 mg and 45 mg capsules are available as an alternative to the recommended dose of Tamiflu suspension.
-
-In the absence of a suitable formulation (6 mg/ml oral suspension), the pharmacy compounded preparation should preferentially be used.
-Please refer to the SmPC for the 30 mg.
-45 mg and 75 mg capsules (section 4.2).
-
-For dosing, an oral dispenser with 30 mg, 45 mg and 60 mg graduations is provided in the box.
-For accurate dosing, the oral dispenser supplied should be used exclusively (a syringe with ml markings cannot be used).

@@ -20,7 +20,6 @@ Clinical studies
 Treatment of influenza infection
 
 The indication is based on clinical studies of naturally occurring influenza in which the predominant infection was influenza A.
-
 Oseltamivir is effective only against illnesses caused by influenza virus.
 Statistical analyses are therefore presented only for influenza-infected subjects.
 In the pooled treatment study population, which included both influenza-positive and -negative subjects (ITT), primary efficacy was reduced proportionally to the number of influenza-negative individuals.
@@ -49,9 +48,9 @@ Oseltamivir reduced the incidence of acute otitis media from 26.5 % (53/200) in 
 A second study was completed in 334 asthmatic children aged 6 to 12 years old of which 53.6 % were influenza-positive.
 In the oseltamivir treated group, the median duration of illness was not reduced significantly.
 By day 6 (the last day of treatment) FEV1 had increased by 10.8 % in the oseltamivir treated group compared to 4.7 % on placebo (p = 0.0148) in this population.
-
 The European Medicines Agency has deferred the obligation to submit the results of studies with Tamiflu in one or more subsets of the paediatric population in influenza.
 See section 4.2 for information on paediatric use.
+
 The indication in infants below the age of 1 is based upon extrapolation of efficacy data from older children and the recommended posology is based upon pharmacokinetic modelling data (see Section 5.2).
 
 Treatment of influenza B infection: Overall, 15 % of the influenza-positive population were infected by influenza B, proportions ranging from 1 to 33 % in individual studies.
@@ -149,14 +148,3 @@ In influenza-positive older people, oseltamivir significantly reduced the incide
 | Adults and adolescents | 0.88% (21/2377) | 1.12% (27/2391) |
 | Children (1-12 years) | 3.89% (66/1698) | 4.24% (72/1698) |
 | Infant (<1 year) | 18.31% (13/71) | 18.31 (13/71) |
-
-[Tamiflu 12 mg/ml powder for oral suspension]
-
-| Patient Population | Patients with Resistance Mutations (%) |  |
-| --- | --- | --- |
-|  | Phenotyping* | Geno- and Phenotyping* |
-| Adults and adolescents | 0.88% (21/2377) | 1.12% (27/2391) |
-| Children (1-12 years) | 3.89% (66/1698) | 4.24% (72/1698) |
-| Infants (<1 year) | 18.31% (13/71) | 18.31% (13/71) |
-
-Since 2007 naturally occurring resistance associated with theH275Y mutation in seasonal H1N1 strains has been sporadically detected .
