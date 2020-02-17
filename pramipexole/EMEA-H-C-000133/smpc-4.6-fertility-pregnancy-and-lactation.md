@@ -11,6 +11,7 @@ The excretion of pramipexole into breast milk has not been studied in women.
 In rats, the concentration of active substance-related radioactivity was higher in breast milk than in plasma.
 In the absence of human data, SIFROL should not be used during breast-feeding.
 However, if its use is unavoidable, breast-feeding should be discontinued.
+
 Fertility
 No studies on the effect on human fertility have been conducted.
 In animal studies, pramipexole affected oestrous cycles and reduced female fertility as expected for a dopamine agonist.

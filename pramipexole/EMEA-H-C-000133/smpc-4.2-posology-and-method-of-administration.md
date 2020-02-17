@@ -29,10 +29,10 @@ In advanced Parkinson’s disease, pramipexole doses higher than 1.1 mg of base 
 It is recommended that the dose of levodopa is reduced during both the dose escalation and the maintenance treatment with SIFROL, depending on reactions in individual patients (see section 4.5).
 
 Treatment discontinuation
-Abrupt discontinuation of dopaminergic therapy can lead to the development of a neuroleptic malignant syndrome.
+Abrupt discontinuation of dopaminergic therapy can lead to the development of a neuroleptic malignant syndrome or a dopamine agonist withdrawal syndrome.
 Pramipexole should be tapered off at a rate of 0.54 mg of base (0.75 mg of salt) per day until the daily dose has been reduced to 0.54 mg of base (0.75 mg of salt).
 Thereafter the dose should be reduced by 0.264 mg of base (0.375 mg of salt) per day (see section 4.4).
-
+Dopamine agonist withdrawal syndrome could still appear while tapering and a temporary increase of the dose could be necessary before resuming tapering (see section 4.4).
 Renal impairment
 The elimination of pramipexole is dependent on renal function.
 The following dose schedule is suggested for initiation of therapy:
@@ -70,6 +70,7 @@ For patients requiring additional symptomatic relief, the dose may be increased 
 | 4* | 0.54 | 0.75 |
 
 * if needed
+
 Patient’s response should be evaluated after 3 months treatment and the need for treatment continuation should be reconsidered.
 If treatment is interrupted for more than a few days it should be re-initiated by dose titration carried out as above.
 

@@ -64,12 +64,12 @@ Other significant adverse events leading to discontinuation of study medication 
 
 The safety and efficacy of SIFROL prolonged-release tablets in the treatment of Parkinson's disease was evaluated in a multinational drug development program consisting of three randomised, controlled trials.
 Two trials were conducted in patients with early Parkinson's disease and one trial was conducted in patients with advanced Parkinson's disease.
-
 Superiority of SIFROL prolonged-release tablets over placebo was demonstrated after 18 weeks of treatment on both the primary (UPDRS Parts II+III score) and the key secondary (CGI-I and PGI-I responder rates) efficacy endpoints in a double-blind placebo-controlled trial including a total of 539 patients with early Parkinson’s disease.
 Maintenance of efficacy was shown in patients treated for 33 weeks.
 SIFROL prolonged-release tablets were non-inferior to pramipexole immediate release tablets as assessed on the UPDRS Parts II+III score at week 33.
 
 In a double-blind placebo-controlled trial including a total of 517 patients with advanced Parkinson’s disease who were on concomitant levodopa therapy superiority of SIFROL prolonged-release tablets over placebo was demonstrated after 18 weeks of treatment on both the primary (UPDRS Parts II+III score) and the key secondary (off-time) efficacy endpoints.
+
 The efficacy and tolerability of an overnight switch from SIFROL tablets to SIFROL prolonged-release tablets at the same daily dose were evaluated in a double-blind clinical study in patients with early Parkinson’s disease.
 Efficacy was maintained in 87 of 103 patients switched to SIFROL prolonged-release tablets.
 Out of these 87 patients, 82.8% did not change their dose, 13.8% increased and 3.4% decreased their dose.

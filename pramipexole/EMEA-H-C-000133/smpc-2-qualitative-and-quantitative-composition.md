@@ -12,9 +12,6 @@ Each tablet contains 0.5 mg pramipexole dihydrochloride monohydrate equivalent t
 SIFROL 0.7 mg tablets
 Each tablet contains 1.0 mg pramipexole dihydrochloride monohydrate equivalent to 0.7 mg pramipexole.
 
-SIFROL 1.1 mg tablets
-Each tablet contains 1.5 mg pramipexole dihydrochloride monohydrate equivalent to 1.1 mg pramipexole.
-
 Please note:
 Pramipexole doses as published in the literature refer to the salt form.
 Therefore, doses will be expressed in terms of both pramipexole base and pramipexole salt (in brackets).

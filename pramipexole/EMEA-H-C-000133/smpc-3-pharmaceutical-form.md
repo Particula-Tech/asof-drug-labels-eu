@@ -12,12 +12,9 @@ Tablets can be divided into equal halves.
 SIFROL 0.35 mg tablets
 The tablets are white, flat, of oval shape, scored on both sides, and have a code embossed (one side with the code P8, and one side with the Boehringer Ingelheim company symbol).
 Tablets can be divided into equal halves.
+
 SIFROL 0.7 mg tablets
 The tablets are white, flat, of round shape, scored on both sides, and have a code embossed (one side with the code P9, and one side with the Boehringer Ingelheim company symbol).
-Tablets can be divided into equal halves.
-
-SIFROL 1.1 mg tablets
-The tablets are white, flat, of round shape, scored on both sides, and have a code embossed (one side with the code P11, and one side with the Boehringer Ingelheim company symbol).
 Tablets can be divided into equal halves.
 
 [SIFROL 0.26 mg prolonged-release tablets]

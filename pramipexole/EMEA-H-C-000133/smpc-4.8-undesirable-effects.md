@@ -121,5 +121,9 @@ Based on the analysis of pooled placebo-controlled trials, comprising a total of
 | Respiratory, thoracic, and mediastinal disorders |  |  | Dyspnoea Hiccups |  |  |
 | Gastrointestinal disorders | nausea | constipation vomiting |  |  |  |
 | Skin and subcutaneous tissue disorders |  |  | hypersensitivity pruritus rash |  |  |
-| General disorders and administration site conditions |  | fatigue peripheral oedema |  |  | Dopamine agonist withdrawal syndrome including apathy, anxiety, depression, fatigue, sweating and pain. |
-| Investigations |  | weight decrease | weight increase |  |  |
+| General disorders and administration site conditions |  | fatigue peripheral oedema |  |  | Dopamine agonist withdrawal syndrome including |
+
+apathy,
+anxiety,
+sweating
+and pain.
