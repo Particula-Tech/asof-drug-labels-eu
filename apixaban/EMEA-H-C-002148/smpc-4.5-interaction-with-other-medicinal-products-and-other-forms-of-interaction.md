@@ -5,7 +5,7 @@ Coadministration of apixaban with ketoconazole (400 mg once a day), a strong inh
 
 The use of Eliquis is not recommended in patients receiving concomitant systemic treatment with strong inhibitors of both CYP3A4 and P-gp, such as azole-antimycotics (e.g., ketoconazole, itraconazole, voriconazole and posaconazole) and HIV protease inhibitors (e.g., ritonavir) (see section 4.4).
 
-Active substances which are not considered strong inhibitors of both CYP3A4 and P-gp, (eg., diltiazem, naproxen, clarithromycin, amiodarone, verapamil, quinidine) are expected to increase apixaban plasma concentration to a lesser extent.
+Active substances which are not considered strong inhibitors of both CYP3A4 and P-gp, (eg., amiodarone, clarithromycin, diltiazem, fluconazole, naproxen, quinidine, verapamil) are expected to increase apixaban plasma concentration to a lesser extent.
 No dose adjustment for apixaban is required when coadministered with agents that are not strong inhibitors of both CYP3A4 and P-gp.
 For example, diltiazem (360 mg once a day), considered a moderate CYP3A4 and a weak P-gp inhibitor, led to a 1.4-fold increase in mean apixaban AUC and a 1.3-fold increase in Cmax.
 Naproxen (500 mg, single dose) an inhibitor of P-gp but not an inhibitor of CYP3A4, led to a 1.5-fold and 1.6-fold increase in mean apixaban AUC and Cmax, respectively.
@@ -69,7 +69,7 @@ Administration of activated charcoal reduces apixaban exposure (see section 4.9)
 [Eliquis 5 mg film-coated tablets]
 
 Active substances which are not considered strong inhibitors of both CYP3A4 and P-gp,
-(e.g., diltiazem, naproxen, clarithromycin, amiodarone, verapamil, quinidine) are expected to increase apixaban plasma concentration to a lesser extent.
+(e.g., amiodarone, clarithromycin, diltiazem, fluconazole, naproxen, quinidine, verapamil) are expected to increase apixaban plasma concentration to a lesser extent.
 
 No dose adjustment for apixaban is required during concomitant therapy with such medicinal products, however in patients receiving concomitant systemic treatment with strong inducers of both CYP3A4 and P-gp apixaban should be used with caution for the prevention of stroke and systemic embolism in patients with NVAF and for the prevention of recurrent DVT and PE.
 

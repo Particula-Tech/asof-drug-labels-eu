@@ -7,6 +7,8 @@ Eliquis administration should be discontinued if severe haemorrhage occurs (see 
 
 Although treatment with apixaban does not require routine monitoring of exposure, a calibrated quantitative anti-Factor Xa assay may be useful in exceptional situations where knowledge of apixaban exposure may help to inform clinical decisions, e.g., overdose and emergency surgery (see section 5.1).
 
+An agent to reverse the anti-factor Xa activity of apixaban is available.
+
 Interaction with other medicinal products affecting haemostasis
 Due to an increased bleeding risk, concomitant treatment with any other anticoagulants is contraindicated (see section 4.3).
 
@@ -33,6 +35,7 @@ Therefore, the use of Eliquis is not recommended in this setting.
 Patients with antiphospholipid syndrome
 Direct acting Oral Anticoagulants (DOACs) including apixaban are not recommended for patients with a history of thrombosis who are diagnosed with antiphospholipid syndrome.
 In particular for patients that are triple positive (for lupus anticoagulant, anticardiolipin antibodies, and anti-beta 2-glycoprotein I antibodies), treatment with DOACs could be associated with increased rates of recurrent thrombotic events compared with vitamin K antagonist therapy.
+
 Surgery and invasive procedures
 Eliquis should be discontinued at least 48 hours prior to elective surgery or invasive procedures with a moderate or high risk of bleeding.
 This includes interventions for which the probability of clinically significant bleeding cannot be excluded or for which the risk of bleeding would be unacceptable.
@@ -45,7 +48,7 @@ This risk of bleeding should be weighed against the urgency of intervention.
 
 Eliquis should be restarted after the invasive procedure or surgical intervention as soon as possible provided the clinical situation allows and adequate haemostasis has been established (for cardioversion see section 4.2).
 
-For patients undergoing catheter ablation for atrial fibrillation, Eliquis treatment does not need to be interrupted (see sections 4.3, 4.4 and 4.5).
+For patients undergoing catheter ablation for atrial fibrillation, Eliquis treatment does not need to be interrupted (see sections 4.2, 4.3 and 4.5).
 
 Temporary discontinuation
 Discontinuing anticoagulants, including Eliquis, for active bleeding, elective surgery, or invasive procedures places patients at an increased risk of thrombosis.
@@ -67,9 +70,9 @@ As with all new anticoagulant medicinal products, experience with neuraxial bloc
 
 Haemodynamically unstable PE patients or patients who require thrombolysis or pulmonary embolectomy
 Eliquis is not recommended as an alternative to unfractionated heparin in patients with pulmonary embolism who are haemodynamically unstable or may receive thrombolysis or pulmonary embolectomy since the safety and efficacy of apixaban have not been established in these clinical situations.
-
 Patients with active cancer
 Efficacy and safety of apixaban in the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE (VTEt) in patients with active cancer have not been established.
+
 Patients with renal impairment
 Limited clinical data indicate that apixaban plasma concentrations are increased in patients with severe renal impairment (creatinine clearance 15-29 mL/min) which may lead to an increased bleeding risk.
 For the prevention of VTE in elective hip or knee replacement surgery (VTEp), the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE (VTEt), apixaban is to be used with caution in patients with severe renal impairment (creatinine clearance 15-29 mL/min) (see sections 4.2 and 5.2).

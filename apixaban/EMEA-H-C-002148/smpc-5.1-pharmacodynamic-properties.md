@@ -1,8 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antithrombotic agents, direct factor Xa inhibitors, ATC code: B01AF02
-
-Mechanism of action
+Pharmacotherapeutic group: Antithrombotic agents, direct factor Xa inhibitors, ATC code: B01AF02 Mechanism of action
 Apixaban is a potent, oral, reversible, direct and highly selective active site inhibitor of factor Xa.
 It does not require antithrombin III for antithrombotic activity.
 Apixaban inhibits free and clot-bound factor Xa, and prothrombinase activity.
@@ -42,8 +40,8 @@ In patients taking apixaban for the treatment of DVT and PE or prevention of rec
 | 10 mg twice daily | 251 [111, 572] | 120 [41, 335] | 4.2 [1.8, 10.8] | 1.9 [0.64, 5.8] |
 
 * Dose adjusted population based on 2 of 3 dose reduction criteria in the ARISTOTLE study.
-
 Although treatment with apixaban does not require routine monitoring of exposure, a calibrated quantitative anti-Factor Xa assay may be useful in exceptional situations where knowledge of apixaban exposure may help to inform clinical decisions, e.g., overdose and emergency surgery.
+
 Clinical efficacy and safety
 
 Prevention of VTE (VTEp): elective hip or knee replacement surgery
@@ -315,6 +313,10 @@ Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with Eliquis in one or more subsets of the paediatric population in venous and arterial embolism and thrombosis (see section 4.2 for information on paediatric use).
 
 [Eliquis 5 mg film-coated tablets]
+
+Pharmacotherapeutic group: Antithrombotic agents, direct factor Xa inhibitors, ATC code: B01AF02
+
+Mechanism of action
 
 Table 3 below shows the predicted steady state exposure and anti-Factor Xa activity.
 
