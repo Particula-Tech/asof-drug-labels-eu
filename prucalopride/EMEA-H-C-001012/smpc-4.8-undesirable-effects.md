@@ -3,13 +3,13 @@
 Summary of the safety profile
 In an integrated analysis of 17 double-blind placebo-controlled studies, Resolor was given orally to approximately 3,300 patients with chronic constipation.
 Of these, over 1,500 patients received Resolor at the recommended dose of 2 mg per day, while approximately 1,360 patients were treated with 4 mg prucalopride daily.
-The most frequently reported adverse reactions associated with Resolor 2mg therapy are headache (17.8%) and gastrointestinal symptoms (abdominal pain (13.7%), nausea (13.7%) and diarrhoea (12.0%)).
+The most frequently reported adverse reactions associated with Resolor 2 mg therapy are headache (17.8%) and gastrointestinal symptoms (abdominal pain (13.7%), nausea (13.7%) and diarrhoea (12.0%)).
 The adverse reactions occur predominantly at the start of therapy and usually disappear within a few days with continued treatment.
 Other adverse reactions have been reported occasionally.
 The majority of adverse events were mild to moderate in intensity.
 
 Tabulated list of adverse reactions
-The following adverse reactions were reported in controlled clinical studies at the recommended dose of 2 mg with frequencies corresponding to very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and very rare (< 1/10,000) and not known (cannot be estimated from the available data).
+The following adverse reactions were reported in controlled clinical studies at the recommended dose of 2 mg with frequencies corresponding to very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000) and not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 Frequencies are calculated based on the integrated analysis of 17 double-blind placebo-controlled clinical studies.
 
@@ -19,11 +19,12 @@ Frequencies are calculated based on the integrated analysis of 17 double-blind p
 | Metabolism and nutrition disorders | Common | Decreased appetite |
 | Nervous system disorders | Very common | Headache |
 |  | Common | Dizziness |
-|  | Uncommon | Tremors |
+|  | Uncommon | Tremors, migraine |
 | Cardiac disorders | Uncommon | Palpitations |
-| Gastrointestinal disorders | Very common | Nausea, diarrhea, abdominal pain |
+| Ear and labyrinth disorders | Uncommon | Vertigo |
+| Gastrointestinal disorders | Very common | Nausea, diarrhoea, abdominal pain |
 |  | Common | Vomiting, dyspepsia, flatulence, gastrointestinal sounds abnormal |
-|  | Uncommon | Rectal hemorrhage |
+|  | Uncommon | Rectal haemorrhage |
 | Renal and urinary disorders | Uncommon | Pollakiuria |
 | General disorders and administration site conditions | Common | Fatigue |
 |  | Uncommon | Pyrexia, malaise |
@@ -42,4 +43,4 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [Resolor 2 mg film-coated tablets]
 
-The following adverse reactions were reported in controlled clinical studies at the recommended dose of 2 mg with frequencies corresponding to very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and very rare (< 1/10,000) and not known (cannot be estimated from available data).
+The following adverse reactions were reported in controlled clinical studies at the recommended dose of 2 mg with frequencies corresponding to very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000) and very rare (<1/10,000) and not known (cannot be estimated from available data).

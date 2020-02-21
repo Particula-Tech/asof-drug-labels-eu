@@ -1,12 +1,12 @@
 # 5.2 Pharmacokinetic properties
 
 Absorption
-Prucalopride is rapidly absorbed; after a single oral dose of 2 mg, Cmax was attained in 2-3 hours.
+Prucalopride is rapidly absorbed; after a single oral dose of 2 mg in healthy subjects, Cmax was attained in 2-3 hours.
 The absolute oral bioavailability is >90%.
 Concomitant intake of food does not influence the oral bioavailability of prucalopride.
 
 Distribution
-Prucalopride is extensively distributed, and has a steady-state volume of distribution (Vdss) of 567 litre.
+Prucalopride is extensively distributed, and has a steady-state volume of distribution (Vdss) of 567 litres.
 The plasma protein binding of prucalopride is about 30%.
 
 Biotransformation
@@ -19,7 +19,7 @@ Unchanged active substance made up about 92-94% of the total radioactivity in pl
 R107504, R084536 and R104065 (formed by O-demethylation) were identified as minor plasma metabolites.
 
 Elimination
-A large fraction of the active substance is excreted unchanged (60-65% of the administered dose in urine and at about 5% in faeces).
+A large fraction of the active substance is excreted unchanged (60-65% of the administered dose in urine and about 5% in faeces).
 Renal excretion of unchanged prucalopride involves both passive filtration and active secretion.
 The plasma clearance of prucalopride averages 317 ml/min.
 Its terminal half-life is about one day.
@@ -40,11 +40,7 @@ This effect can be attributed to a diminished renal function in older people.
 
 Renal impairment
 Compared to subjects with normal renal function, plasma concentrations of prucalopride after a single 2 mg dose were on average 25% and 51% higher in subjects with mild (ClCR 50-79 ml/min) and moderate (ClCR 25-49 ml/min) renal impairment, respectively.
-In subjects with severe renal impairment (ClCR ≤ 24 ml/min), plasma concentrations were 2.3 times the levels in healthy subjects (see section 4.2 and 4.4).
+In subjects with severe renal impairment (ClCR ≤24 ml/min), plasma concentrations were 2.3 times the levels in healthy subjects (see section 4.2 and 4.4).
 Hepatic impairment
 Non-renal elimination contributes to about 35% of total elimination.
 In a small pharmacokinetic study, the Cmax and AUC of prucalopride were, on average, 10-20% higher in patients with moderate to severe hepatic impairment compared with healthy subjects (see sections 4.2 and 4.4).
-
-[Resolor 2 mg film-coated tablets]
-
-A large fraction of the active substance is excreted unchanged (60-65% of the administered dose in urine and about 5% in faeces).
