@@ -55,6 +55,11 @@ Reduced lower gastrointestinal tract function
 There are postmarketing reports of events related to reduced lower gastrointestinal tract function (e.g. intestinal obstruction, paralytic ileus, constipation) when pregabalin was co-administered with medications that have the potential to produce constipation, such as opioid analgesics.
 When pregabalin and opioids will be used in combination, measures to prevent constipation may be considered (especially in female patients and elderly).
 
+Concomitant use with opioids
+Caution is advised when prescribing pregabalin concomitantly with opioids due to risk of CNS depression (see section 4.5).
+In a case-control study of opioid users, those patients who took pregabalin concomitantly with an opioid had an increased risk for opioid-related death compared to opioid use alone (adjusted odds ratio [aOR], 1.68 [95% CI, 1.19 – 2.36]).
+This increased risk was observed at low doses of pregabalin (≤ 300 mg, aOR 1.52 [95% CI, 1.04 – 2.22]) and there was a trend for a greater risk at high doses of pregabalin (> 300 mg, aOR 2.51 [95% CI 1.24 – 5.06]).
+
 Misuse, abuse potential or dependence
 Cases of misuse, abuse and dependence have been reported.
 Caution should be exercised in patients with a history of substance abuse and the patient should be monitored for symptoms of pregabalin misuse, abuse or dependence (development of tolerance, dose escalation, drug-seeking behaviour have been reported).

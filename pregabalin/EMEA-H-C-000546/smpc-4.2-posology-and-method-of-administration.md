@@ -28,7 +28,7 @@ Renal impairment
 Pregabalin is eliminated from the systemic circulation primarily by renal excretion as unchanged drug.
 As pregabalin clearance is directly proportional to creatinine clearance (see section 5.2), dose reduction in patients with compromised renal function must be individualised according to creatinine clearance (CLcr), as indicated in Table 1 determined using the following formula:
 
-CLcr(ml/min) = 1.23 × [140 - age (years) ] × weight (kg)  (× 0.85 for female patients)
+CLcr(ml/min) = 1.23×[140 - age (years)] × weight (kg)  (× 0.85 for female patients)
 
  serum creatinine (μmol/l) 
 
@@ -58,7 +58,7 @@ No dose adjustment is required for patients with hepatic impairment (see section
 
 Paediatric population
 The safety and efficacy of Lyrica in children below the age of 12 years and in adolescents (12-17 years of age) have not been established.
-Currently available data are described in section 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
+Currently available data are described in sections 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
 
 Elderly
 Elderly patients may require a dose reduction of pregabalin due to a decreased renal function (see section 5.2).

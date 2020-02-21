@@ -19,7 +19,6 @@ Shellac
 Black iron oxide (E172)
 Propylene glycol
 Potassium hydroxide
-
 Lyrica 75 mg, 100 mg, 200 mg, 225 mg, 300 mg hard capsules
 
 Capsules content:
@@ -34,6 +33,7 @@ Sodium laurilsulphate
 Silica, colloidal anhydrous
 Purified water
 Red iron oxide (E172)
+
 Printing ink:
 Shellac
 Black iron oxide (E172)

@@ -1,6 +1,7 @@
 # 5.2 Pharmacokinetic properties
 
 Pregabalin steady-state pharmacokinetics are similar in healthy volunteers, patients with epilepsy receiving anti-epileptic drugs and patients with chronic pain.
+
 Absorption
 Pregabalin is rapidly absorbed when administered in the fasted state, with peak plasma concentrations occurring within 1 hour following both single and multiple dose administration.
 Pregabalin oral bioavailability is estimated to be ≥ 90% and is independent of dose.
@@ -47,6 +48,7 @@ Since pregabalin does not undergo significant metabolism and is excreted predomi
 
 Paediatric population
 Pregabalin pharmacokinetics were evaluated in paediatric patients with epilepsy (age groups: 1 to 23 months, 2 to 6 years, 7 to 11 years and 12 to 16 years) at dose levels of 2.5, 5, 10 and 15 mg/kg/day in a pharmacokinetic and tolerability study.
+
 After oral administration of pregabalin in paediatric patients in the fasted state, in general, time to reach peak plasma concentration was similar across the entire age group and occurred 0.5 hours to 2 hours postdose.
 
 Pregabalin Cmax and AUC parameters increased in a linear manner with increasing dose within each age group.

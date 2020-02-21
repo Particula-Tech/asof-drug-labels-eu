@@ -5,7 +5,6 @@ No special requirements for disposal.
 [Lyrica 20 mg/ml oral solution]
 
 Method of Administration
-
 1.
 Open bottle and at first use insert the Press-In Bottle Adapter (PIBA) (Figures 1 and 2).
 

@@ -2,6 +2,7 @@
 
 Women of childbearing potential/Contraception in males and females
 As the potential risk for humans is unknown, effective contraception must be used in women of child bearing potential.
+
 Pregnancy
 There are no adequate data from the use of pregabalin in pregnant women.
 
