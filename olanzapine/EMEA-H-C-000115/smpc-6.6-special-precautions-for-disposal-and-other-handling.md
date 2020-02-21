@@ -14,7 +14,6 @@ Inject into a vial of ZYPREXA.
 2.
 Rotate the vial until the contents have completely dissolved, giving a yellow coloured solution.
 The vial contains 11.0 mg olanzapine as a solution of 5 mg/ml (1 mg olanzapine is retained in the vial and syringe, thus allowing delivery of 10 mg olanzapine).
-
 3.
 The following table provides injection volumes for delivering various doses of olanzapine:
 
@@ -31,6 +30,7 @@ Do not administer intravenously or subcutaneously.
 
 5.
 Discard the syringe and any unused solution in accordance with appropriate clinical procedures.
+
 6.
 Use the solution immediately within 1 hour of reconstitution.
 

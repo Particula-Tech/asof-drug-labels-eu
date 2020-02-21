@@ -16,8 +16,8 @@ The frequency terms listed are defined as follows: Very common (≥ 1/10), commo
 |  | Eosinophilia Leukopenia10 Neutropenia10 |  | Thrombocytopenia11 |  |
 | Immune system disorders |  |  |  |  |
 |  |  | Hypersensitivity11 |  |  |
-| Metabolism and nutrition disorders |  |  |  |  |
 
+Metabolism and nutrition disorders
 Weight Elevated cholesterol Development or Hypothermia12
 gain1 levels2,3 exacerbation of
 Elevated glucose diabetes occasionally
@@ -39,7 +39,7 @@ Amnesia 9
 Dysarthria
 Stuttering11
 Restless Legs
-Syndrome
+Syndrome11
 Cardiac disorders
 Bradycardia Ventricular
 QTc prolongation (see tachycardia/fibrillation,
@@ -56,8 +56,8 @@ Epistaxis9
 Gastrointestinal disorders
 Mild, transient Abdominal Pancreatitis11
 anticholinergic distension9
-effects including
-constipation and dry
+effects including Salivary
+constipation and dry hypersecretion11
 mouth
 Hepatobiliary disorders
 Transient, Hepatitis (including
@@ -120,7 +120,6 @@ Patients gaining ≥ 7 %, ≥ 15 % and ≥ 25 % of their baseline body weight wi
 3 Observed for fasting normal levels at baseline (< 5.17 mmol/l) which increased to high
 (≥ 6.2 mmol/l).
 Changes in total fasting cholesterol levels from borderline at baseline (≥ 5.17 - < 6.2 mmol/l) to high (≥ 6.2 mmol/l) were very common.
-
 4 Observed for fasting normal levels at baseline (< 5.56 mmol/l) which increased to high (≥ 7 mmol/l).
 Changes in fasting glucose from borderline at baseline (≥ 5.56 - < 7 mmol/l) to high (≥ 7 mmol/l) were very common.
 
@@ -128,6 +127,7 @@ Changes in fasting glucose from borderline at baseline (≥ 5.56 - < 7 mmol/l) t
 (≥ 2.26 mmol/l).
 Changes in fasting triglycerides from borderline at baseline (≥ 1.69 mmol/l -
 < 2.26 mmol/l) to high (≥ 2.26 mmol/l) were very common.
+
 6 In clinical trials, the incidence of Parkinsonism and dystonia in olanzapine-treated patients was numerically higher, but not statistically significantly different from placebo.
 Olanzapine-treated patients had a lower incidence of Parkinsonism, akathisia and dystonia compared with titrated doses of haloperidol.
 In the absence of detailed information on the pre-existing history of individual acute and tardive extrapyramidal movement disorders, it cannot be concluded at present that olanzapine produces less tardive dyskinesia and/or other tardive extrapyramidal syndromes.
@@ -166,6 +166,7 @@ Long-term olanzapine treatment (up to 12 months) for recurrence prevention in pa
 Paediatric population
 Olanzapine is not indicated for the treatment of children and adolescent patients below 18 years.
 Although no clinical studies designed to compare adolescents to adults have been conducted, data from the adolescent trials were compared to those of the adult trials.
+
 The following table summarises the adverse reactions reported with a greater frequency in adolescent patients (aged 13-17 years) than in adult patients or adverse reactions only identified during short-term clinical trials in adolescent patients.
 Clinically significant weight gain (≥ 7 %) appears to occur more frequently in the adolescent population compared to adults with comparable exposures.
 The magnitude of weight gain and the proportion of adolescent patients who had clinically significant weight gain were greater with long-term exposure (at least 24 weeks) than with short-term exposure.
@@ -240,7 +241,7 @@ were reported11 symptoms7,12
 oculogyration)11
 Amnesia9
 Stuttering11, 13
-constipation and
+constipation and hypersecretion11
 dry mouth
 elevations of cholestatic or mixed
 hepatic liver injury)11
@@ -256,13 +257,13 @@ neonatal
 section
 4.6)
 Glutamyltransferase
+10
 
 Following short term treatment (median duration 47 days), weight gain ≥ 7% of baseline body weight was very common (22.2 %), ≥ 15 % was common (4.2 %) and ≥ 25 % was uncommon (0.8 %).
 
 8 In clinical trials of up to 12 weeks, plasma prolactin concentrations exceeded the upper limit of normal range in approximately 30% of olanzapine treated patients with normal baseline prolactin value.
 
 12 Adverse event identified from spontaneous post-marketing reporting with frequency estimated at the upper limit of the 95% confidence interval utilising the Olanzapine Integrated Database.
-
 13Undesirable effects listed and observed following administration of oral and LAIM olanzapine, which may also occur following administration of RAIM olanzapine.
 
 In one clinical trial in patients with bipolar mania, valproate combination therapy with olanzapine resulted in an incidence of neutropenia of 4.1%; a potential contributing factor could be high plasma valproate levels.

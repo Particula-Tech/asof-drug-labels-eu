@@ -14,7 +14,6 @@ Unlike some other antipsychotic agents, olanzapine increases responding in an â€
 
 In a single oral dose (10 mg) Positron Emission Tomography (PET) study in healthy volunteers, olanzapine produced a higher 5 HT2A than dopamine D2 receptor occupancy.
 In addition, a Single Photon Emission Computed Tomography (SPECT) imaging study in schizophrenic patients revealed that olanzapine-responsive patients had lower striatal D2 occupancy than some other antipsychotic-and risperidone-responsive patients, while being comparable to clozapine-responsive patients.
-
 Clinical efficacy
 In two of two placebo and two of three comparator controlled trials with over 2,900 schizophrenic patients presenting with both positive and negative symptoms, olanzapine was associated with statistically significantly greater improvements in negative as well as positive symptoms.
 
@@ -44,7 +43,6 @@ Information on long term safety is primarily limited to open-label, uncontrolled
 In a multinational, double-blind, comparative study of schizophrenia, schizoaffective, and related disorders which included 1,481 patients with varying degrees of associated depressive symptoms (baseline mean of 16.6 on the Montgomery-Asberg Depression Rating Scale), a prospective secondary analysis of baseline to endpoint mood score change demonstrated a statistically significant improvement (p= 0.001) favouring olanzapine (-6.0) versus haloperidol (-3.1).
 
 In a 12-month recurrence prevention study in manic episode patients who achieved remission on olanzapine and were then randomised to olanzapine or placebo, olanzapine demonstrated statistically significant superiority over placebo on the primary endpoint of bipolar recurrence.
-
 In a second 12-month recurrence prevention study in manic episode patients who achieved remission with a combination of olanzapine and lithium and were then randomised to olanzapine or lithium alone, olanzapine was statistically non-inferior to lithium on the primary endpoint of bipolar recurrence (olanzapine 30.0%, lithium 38.3%; p = 0.055).
 
 In an 18-month co-therapy study in manic or mixed episode patients stabilised with olanzapine plus a mood stabiliser (lithium or valproate), long-term olanzapine co-therapy with lithium or valproate was not statistically significantly superior to lithium or valproate alone in delaying bipolar recurrence, defined according to syndromic (diagnostic) criteria.

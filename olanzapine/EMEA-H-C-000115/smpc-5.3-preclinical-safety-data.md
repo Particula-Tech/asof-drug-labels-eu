@@ -40,5 +40,4 @@ In cytopenic dogs, there were no undesirable effects on progenitor and prolifera
 Oestrous cycles were affected at doses of 1.1 mg/kg (3 times the maximum human dose) and reproduction parameters were influenced in rats given 3 mg/kg (9 times the maximum human dose).
 
 Olanzapine was not mutagenic or clastogenic in a full range of standard tests, which included bacterial mutation tests and in vitro and oral in vivo mammalian tests.
-
 Based on the results of oral studies in mice and rats, it was concluded that olanzapine is not carcinogenic.
