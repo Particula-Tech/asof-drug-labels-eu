@@ -30,10 +30,10 @@ Paediatric population
 Clinical studies in CSU included some patients aged 12 to 17 years taking Xolair in conjunction with antihistamines (anti-H1, anti-H2) and LTRAs.
 No studies have been performed in children under 12 years.
 
-[Xolair 75 mg solution for injection]
+[Xolair 75 mg solution for injection in pre-filled syringe]
 
 (all sentences already above)
 
-[Xolair 150 mg solution for injection]
+[Xolair 150 mg solution for injection in pre-filled syringe]
 
 (all sentences already above)

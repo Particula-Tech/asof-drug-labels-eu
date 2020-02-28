@@ -9,10 +9,10 @@ For storage conditions after reconstitution of the medicinal product, see sectio
 
 (all sentences already above)
 
-[Xolair 75 mg solution for injection]
+[Xolair 75 mg solution for injection in pre-filled syringe]
 
 Store in the original package in order to protect from light.
 
-[Xolair 150 mg solution for injection]
+[Xolair 150 mg solution for injection in pre-filled syringe]
 
 (all sentences already above)

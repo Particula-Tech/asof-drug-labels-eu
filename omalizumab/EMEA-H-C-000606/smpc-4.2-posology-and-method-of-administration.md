@@ -54,7 +54,8 @@ Xolair doses (milligrams per dose) administered by subcutaneous injection every 
 |  | Body weight (kg) |  |
 | --- | --- | --- |
 | Baseline IgE (IU/ml) | ≥20- >25- >30- >40- >50- >60- >70- >80-25 30 40 50 60 70 80 90 >90-125 | >125-150 |
-| ≥30-100 >100-200 >200-300 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 375 |  |
+| ≥30-100 >100-200 | ADMINISTRATION EVERY 4 WEEKS SEE TABLE 2 |  |
+| >200-300 | 375 |  |
 | >300-400 | 450 525 |  |
 | >400-500 | 375 375 525 600 |  |
 | >500-600 | 375 450 450 600 |  |
@@ -134,7 +135,7 @@ In allergic asthma, the safety and efficacy of Xolair in paediatric patients bel
 
 In CSU, the safety and efficacy of Xolair in paediatric patients below the age of 12 years have not been established.
 
-[Xolair 75 mg solution for injection]
+[Xolair 75 mg solution for injection in pre-filled syringe]
 
 Table 1 Conversion from dose to number of syringes, number of injections and total injection volume for each administration
 
@@ -155,7 +156,7 @@ The patient or the caregiver must have been trained in the correct injection tec
 
 Patients or caregivers should be instructed to inject the full amount of Xolair according to the instructions provided in the package leaflet.
 
-[Xolair 150 mg solution for injection]
+[Xolair 150 mg solution for injection in pre-filled syringe]
 
 |  | Body weight (kg) |
 | --- | --- |

@@ -15,11 +15,11 @@ Water for injections
 
 (all sentences already above)
 
-[Xolair 75 mg solution for injection]
+[Xolair 75 mg solution for injection in pre-filled syringe]
 
 L-arginine hydrochloride
 L-histidine hydrochloride
 
-[Xolair 150 mg solution for injection]
+[Xolair 150 mg solution for injection in pre-filled syringe]
 
 (all sentences already above)

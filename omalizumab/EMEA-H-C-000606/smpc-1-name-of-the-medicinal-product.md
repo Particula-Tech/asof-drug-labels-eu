@@ -6,10 +6,10 @@ Xolair 75 mg powder and solvent for solution for injection
 
 Xolair 150 mg powder and solvent for solution for injection
 
-[Xolair 75 mg solution for injection]
+[Xolair 75 mg solution for injection in pre-filled syringe]
 
-Xolair 75 mg solution for injection
+Xolair 75 mg solution for injection in pre-filled syringe
 
-[Xolair 150 mg solution for injection]
+[Xolair 150 mg solution for injection in pre-filled syringe]
 
-Xolair 150 mg solution for injection
+Xolair 150 mg solution for injection in pre-filled syringe

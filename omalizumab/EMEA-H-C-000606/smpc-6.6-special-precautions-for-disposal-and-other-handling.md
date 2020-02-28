@@ -16,7 +16,7 @@ Xolair 150 mg powder for solution for injection is supplied in a single-use vial
 
 Because of the viscosity of the reconstituted medicinal product care must be taken to withdraw all of the medicinal product from the vial before expelling any air or excess solution from the syringe in order to obtain the 1.2 ml.
 
-[Xolair 75 mg solution for injection]
+[Xolair 75 mg solution for injection in pre-filled syringe]
 
 Xolair 75 mg solution for injection is supplied in a single-use pre-filled syringe for individual use.
 The syringe should be taken out of the refrigerator 20 minutes before injecting to allow it to reach room temperature.
@@ -25,6 +25,6 @@ Disposal instructions
 
 Dispose of the used syringe immediately in a sharps container.
 
-[Xolair 150 mg solution for injection]
+[Xolair 150 mg solution for injection in pre-filled syringe]
 
 Xolair 150 mg solution for injection is supplied in a single-use pre-filled syringe for individual use.

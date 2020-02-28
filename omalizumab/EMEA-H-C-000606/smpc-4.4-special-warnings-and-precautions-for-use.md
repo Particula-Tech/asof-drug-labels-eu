@@ -55,7 +55,7 @@ If patients do not respond to recommended anti-helminth treatment, discontinuati
 
 In patients at chronic high risk of helminth infection, a placebo-controlled trial in allergic patients showed a slight increase in infection rate with omalizumab, although the course, severity, and response to treatment of infection were unaltered.
 
-[Xolair 75 mg solution for injection]
+[Xolair 75 mg solution for injection in pre-filled syringe]
 
 Therefore, the first 3 doses must be administered either by or under the supervision of a healthcare professional.
 Therefore for patients with a known history of anaphylaxis, Xolair must be administered by a health care professional, who should always have medicinal products for the treatment of anaphylactic reactions available for immediate use following administration of Xolair.
@@ -66,6 +66,6 @@ The removable needle cap of this pre-filled syringe contains a derivative of nat
 No natural rubber latex has to date been detected in the removable needle cap.
 Nevertheless, the use of Xolair solution for injection in pre-filled syringe in latex-sensitive individuals has not been studied and thus there is a potential risk for hypersensitivity reactions which cannot be completely ruled out.
 
-[Xolair 150 mg solution for injection]
+[Xolair 150 mg solution for injection in pre-filled syringe]
 
 (all sentences already above)

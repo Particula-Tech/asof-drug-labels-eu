@@ -20,10 +20,10 @@ Chronic spontaneous urticaria (CSU)
 
 Xolair is indicated as add-on therapy for the treatment of chronic spontaneous urticaria in adult and adolescent (12 years and above) patients with inadequate response to H1 antihistamine treatment.
 
-[Xolair 75 mg solution for injection]
+[Xolair 75 mg solution for injection in pre-filled syringe]
 
 (all sentences already above)
 
-[Xolair 150 mg solution for injection]
+[Xolair 150 mg solution for injection in pre-filled syringe]
 
 (all sentences already above)

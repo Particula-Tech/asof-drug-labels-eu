@@ -58,12 +58,13 @@ Patients with CSU
 The effects of demographic characteristics and other factors on omalizumab exposure were evaluated based on population pharmacokinetics.
 In addition, covariate effects were evaluated by analysing the relationship between omalizumab concentrations and clinical responses.
 These analyses suggest that no dose adjustments are necessary in patients with CSU for age (12-75 years), race/ethnicity, gender, body weight, body mass index, baseline IgE, anti-FcεRI autoantibodies or concomitant use of H2 antihistamines or LTRAs.
+
 There are no pharmacokinetic or pharmacodynamic data in allergic asthma or CSU patients with renal or hepatic impairment (see sections 4.2 and 4.4).
 
-[Xolair 75 mg solution for injection]
+[Xolair 75 mg solution for injection in pre-filled syringe]
 
 (all sentences already above)
 
-[Xolair 150 mg solution for injection]
+[Xolair 150 mg solution for injection in pre-filled syringe]
 
 (all sentences already above)

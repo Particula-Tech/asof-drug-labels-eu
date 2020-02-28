@@ -13,7 +13,7 @@ If not used immediately, in-use storage times and conditions prior to use are th
 
 (all sentences already above)
 
-[Xolair 75 mg solution for injection]
+[Xolair 75 mg solution for injection in pre-filled syringe]
 
 15 months.
 
@@ -21,6 +21,6 @@ The shelf life includes potential temperature excursions.
 The product may be kept for a total of 4 hours at 25°C.
 If necessary, the product may be returned to the refrigerator for later use, but this must not be done more than once.
 
-[Xolair 150 mg solution for injection]
+[Xolair 150 mg solution for injection in pre-filled syringe]
 
 (all sentences already above)

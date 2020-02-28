@@ -9,12 +9,12 @@ Solvent: clear and colourless solution
 
 (all sentences already above)
 
-[Xolair 75 mg solution for injection]
+[Xolair 75 mg solution for injection in pre-filled syringe]
 
-Solution for injection.
+Solution for injection in pre-filled syringe (injection).
 
 Clear to slightly opalescent, colourless to pale brownish-yellow solution.
 
-[Xolair 150 mg solution for injection]
+[Xolair 150 mg solution for injection in pre-filled syringe]
 
 (all sentences already above)

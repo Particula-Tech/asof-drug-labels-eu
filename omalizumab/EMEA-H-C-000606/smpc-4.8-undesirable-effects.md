@@ -66,7 +66,6 @@ No pattern of persistent decrease in platelet counts, as observed in non-human p
 Parasitic infections
 In patients at chronic high risk of helminth infection, a placebo-controlled trial showed a slight numerical increase in infection rate with omalizumab that was not statistically significant.
 The course, severity, and response to treatment of infections were unaltered (see section 4.4).
-
 Systemic lupus erythematosus
 Clinical trial and post-marketing cases of systemic lupus erythematosus (SLE) have been reported in patients with moderate to severe asthma and CSU.
 The pathogenesis of SLE is not well understood.
@@ -115,7 +114,6 @@ The safety and tolerability of omalizumab were investigated with doses of 75 mg,
 Overall, 733 patients were treated with omalizumab for up to 12 weeks and 490 patients for up to 24 weeks.
 Of those,
 412 patients were treated for up to 12 weeks and 333 patients were treated for up to 24 weeks at the 300 mg dose.
-
 A separate table (Table 5) shows the adverse reactions for the CSU indication resulting from differences in dosages and treatment populations (with significantly different risk factors, comorbidities, co-medications and ages [e.g. asthma trials included children from 6-12 years of age]).
 
 Table 5 lists the adverse reactions (events occurring in ≥1% of patients in any treatment group and
@@ -125,6 +123,7 @@ The adverse reactions presented are divided into two groups: those identified in
 The adverse reactions are listed by MedDRA system organ class.
 Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions listed first.
 The corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1000); very rare (<1/10,000) and not known (cannot be estimated from the available data).
+
 Table 5 Adverse reactions from the pooled CSU safety database (day 1 to week 24) at 300 mg omalizumab
 
 Omalizumab studies 1, 2 and 3 Pooled Frequency category 12-Week
@@ -165,10 +164,10 @@ No relevant data was obtained in clinical studies in CSU that would require a mo
 
 In allergic patients at chronic high risk of helminth infection, a placebo-controlled trial showed a slight numerical increase in infection rate with omalizumab that was not statistically significant.
 
-[Xolair 75 mg solution for injection]
+[Xolair 75 mg solution for injection in pre-filled syringe]
 
 (all sentences already above)
 
-[Xolair 150 mg solution for injection]
+[Xolair 150 mg solution for injection in pre-filled syringe]
 
 (all sentences already above)
