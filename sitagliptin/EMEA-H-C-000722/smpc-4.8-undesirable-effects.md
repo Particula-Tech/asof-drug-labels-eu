@@ -17,7 +17,7 @@ The frequency of adverse reactions identified from placebo-controlled clinical s
 | Blood and lymphatic system disorders |  |
 | thrombocytopenia | Rare |
 | Immune system disorders |  |
-| hypersensitivity reactions including anaphylactic responses *,† | Frequency not known |
+| hypersensitivity reactions including anaphylactic responses*,† | Frequency not known |
 | Metabolism and nutrition disorders |  |
 | hypoglycaemia† | Common |
 | Nervous system disorders |  |
@@ -47,7 +47,7 @@ The frequency of adverse reactions identified from placebo-controlled clinical s
 | impaired renal function* | Frequency not known |
 | acute renal failure* | Frequency not known |
 
-*Adverse reactions were identified through postmarketing surveillance.
+*Adverse reactions were identified through post-marketing surveillance.
 † See section 4.4.
 ‡ See TECOS Cardiovascular Safety Study below.
 
@@ -58,8 +58,11 @@ Additional adverse experiences reported regardless of causal relationship to med
 Some adverse reactions were observed more frequently in studies of combination use of sitagliptin with other anti-diabetic medicinal products than in studies of sitagliptin monotherapy.
 These included hypoglycaemia (frequency very common with the combination of sulphonylurea and metformin), influenza (common with insulin (with or without metformin)), nausea and vomiting (common with metformin), flatulence (common with metformin or pioglitazone), constipation (common with the combination of sulphonylurea and metformin), peripheral oedema (common with pioglitazone or the combination of pioglitazone and metformin), somnolence and diarrhoea (uncommon with metformin), and dry mouth (uncommon with insulin (with or without metformin)).
 
+Paediatric population
+In clinical trials with sitagliptin in paediatric patients with type 2 diabetes mellitus aged 10 to17 years, the profile of adverse reactions was comparable to that observed in adults.
+
 TECOS Cardiovascular Safety Study
-The Trial Evaluating Cardiovascular Outcomes with sitagliptin (TECOS) included 7,332 patients treated with sitagliptin, 100 mg daily (or 50 mg daily if the baseline eGFR was ≥30 and
+The Trial Evaluating Cardiovascular Outcomes with Sitagliptin (TECOS) included 7,332 patients treated with sitagliptin, 100 mg daily (or 50 mg daily if the baseline eGFR was ≥30 and
 < 50 mL/min/1.73 m2), and 7,339 patients treated with placebo in the intention-to-treat population.
 Both treatments were added to usual care targeting regional standards for HbA1c and CV risk factors.
 The overall incidence of serious adverse events in patients receiving sitagliptin was similar to that in patients receiving placebo.

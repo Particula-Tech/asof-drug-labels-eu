@@ -2,17 +2,17 @@
 
 For adult patients with type 2 diabetes mellitus, Januvia is indicated to improve glycaemic control:
 
-as monotherapy
+as monotherapy:
 
 - in patients inadequately controlled by diet and exercise alone and for whom metformin is inappropriate due to contraindications or intolerance.
 
-as dual oral therapy in combination with
+as dual oral therapy in combination with:
 
 - metformin when diet and exercise plus metformin alone do not provide adequate glycaemic control.
 - a sulphonylurea when diet and exercise plus maximal tolerated dose of a sulphonylurea alone do not provide adequate glycaemic control and when metformin is inappropriate due to contraindications or intolerance.
 - a peroxisome proliferator-activated receptor gamma (PPARγ) agonist (i.e. a thiazolidinedione) when use of a PPARγagonist is appropriate and when diet and exercise plus the PPARγagonist alone do not provide adequate glycaemic control.
 
-as triple oral therapy in combination with
+as triple oral therapy in combination with:
 
 - a sulphonylurea and metformin when diet and exercise plus dual therapy with these medicinal products do not provide adequate glycaemic control.
 - a PPARγagonist and metformin when use of a PPARγagonist is appropriate and when diet and exercise plus dual therapy with these medicinal products do not provide adequate glycaemic control.

@@ -4,6 +4,7 @@ Absorption
 Following oral administration of a 100-mg dose to healthy subjects, sitagliptin was rapidly absorbed, with peak plasma concentrations (median Tmax) occurring 1 to 4 hours post-dose, mean plasma AUC of sitagliptin was 8.52 μM•hr, Cmax was 950 nM.
 The absolute bioavailability of sitagliptin is approximately 87 %.
 Since co-administration of a high-fat meal with sitagliptin had no effect on the pharmacokinetics, Januvia may be administered with or without food.
+
 Plasma AUC of sitagliptin increased in a dose-proportional manner.
 Dose-proportionality was not established for Cmax and C24hr (Cmax increased in a greater than dose-proportional manner and C24hr increased in a less than dose-proportional manner).
 
@@ -25,7 +26,7 @@ Elimination
 Following administration of an oral [14C]sitagliptin dose to healthy subjects, approximately 100 % of the administered radioactivity was eliminated in faeces (13 %) or urine (87 %) within one week of dosing.
 The apparent terminal t1/2 following a 100-mg oral dose of sitagliptin was approximately 12.4 hours.
 Sitagliptin accumulates only minimally with multiple doses.
-The renal clearance was approximately 350 ml/min.
+The renal clearance was approximately 350 mL/min.
 
 Elimination of sitagliptin occurs primarily via renal excretion and involves active tubular secretion.
 Sitagliptin is a substrate for human organic anion transporter-3 (hOAT-3), which may be involved in the renal elimination of sitagliptin.
@@ -35,7 +36,6 @@ However, ciclosporin, a p-glycoprotein inhibitor, did not reduce the renal clear
 Sitagliptin is not a substrate for OCT2 or OAT1 or PEPT1/2 transporters.
 In vitro, sitagliptin did not inhibit OAT3 (IC50=160 μM) or p-glycoprotein (up to 250 μM) mediated transport at therapeutically relevant plasma concentrations.
 In a clinical study sitagliptin had a small effect on plasma digoxin concentrations indicating that sitagliptin may be a mild inhibitor of p-glycoprotein.
-
 Characteristics in patients
 The pharmacokinetics of sitagliptin were generally similar in healthy subjects and in patients with type 2 diabetes.
 
@@ -62,8 +62,11 @@ No dose adjustment is required based on age.
 Age did not have a clinically meaningful impact on the pharmacokinetics of sitagliptin based on a population pharmacokinetic analysis of Phase I and Phase II data.
 Elderly subjects (65 to 80 years) had approximately 19 % higher plasma concentrations of sitagliptin compared to younger subjects.
 
-Paediatric
-No studies with Januvia have been performed in paediatric patients.
+Paediatric population
+The pharmacokinetics of sitagliptin (single dose of 50 mg, 100 mg or 200 mg) were investigated in paediatric patients (10 to 17 years of age) with type 2 diabetes.
+In this population, the dose-adjusted AUC of sitagliptin in plasma was approximately 18 % lower compared to adult patients with type 2 diabetes for a 100 mg dose.
+This is not considered to be a clinically meaningful difference compared to adult patients based on the flat PK/PD relationship between the dose of 50 mg and 100 mg.
+No studies with sitagliptin have been performed in paediatric patients with age <10 years.
 
 Other patient characteristics
 No dose adjustment is necessary based on gender, race, or body mass index (BMI).

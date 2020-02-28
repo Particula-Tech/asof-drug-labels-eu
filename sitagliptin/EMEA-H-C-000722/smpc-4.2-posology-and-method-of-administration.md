@@ -13,7 +13,7 @@ Special populations
 Renal impairment
 When considering the use of sitagliptin in combination with another anti-diabetic medicinal product, its conditions for use in patients with renal impairment should be checked.
 
-For patients with mild renal impairment (glomerular filtration rate [GFR] ≥60 to < 90 ml/min), no dose adjustment is required.
+For patients with mild renal impairment (glomerular filtration rate [GFR] ≥60 to < 90 mL/min), no dose adjustment is required.
 
 For patients with moderate renal impairment (GFR ≥45 to < 60 mL/min), no dosage adjustment is required.
 
@@ -34,8 +34,9 @@ Elderly
 No dose adjustment is necessary based on age.
 
 Paediatric population
-The safety and efficacy of sitagliptin in children and adolescents under 18 years of age have not yet been established.
-No data are available.
+Sitagliptin should not be used in children and adolescents 10 to 17 years of age because of insufficient efficacy.
+Currently available data are described in sections 4.8, 5.1, and 5.2.
+Sitagliptin has not been studied in paediatric patients under 10 years of age.
 
 Method of administration
 Januvia can be taken with or without food.

@@ -22,13 +22,13 @@ By enhancing active incretin levels, sitagliptin increases insulin release and d
 In patients with type 2 diabetes with hyperglycaemia, these changes in insulin and glucagon levels lead to lower haemoglobin A1c (HbA1c) and lower fasting and postprandial glucose concentrations.
 The glucose-dependent mechanism of sitagliptin is distinct from the mechanism of sulphonylureas, which increase insulin secretion even when glucose levels are low and can lead to hypoglycaemia in patients with type 2 diabetes and in normal subjects.
 Sitagliptin is a potent and highly selective inhibitor of the enzyme DPP-4 and does not inhibit the closely-related enzymes DPP-8 or DPP-9 at therapeutic concentrations.
-
 In a two-day study in healthy subjects, sitagliptin alone increased active GLP-1 concentrations, whereas metformin alone increased active and total GLP-1 concentrations to similar extents.
 Co-administration of sitagliptin and metformin had an additive effect on active GLP-1 concentrations.
 Sitagliptin, but not metformin, increased active GIP concentrations.
 
 Clinical efficacy and safety
-Overall, sitagliptin improved glycaemic control when used as monotherapy or in combination treatment (see Table 2).
+Overall, sitagliptin improved glycaemic control when used as monotherapy or in combination treatment in adult patients with type 2 diabetes (see Table 2).
+
 Two studies were conducted to evaluate the efficacy and safety of sitagliptin monotherapy.
 Treatment with sitagliptin at 100 mg once daily as monotherapy provided significant improvements in HbA1c, fasting plasma glucose (FPG), and 2-hour post-prandial glucose (2-hour PPG), compared to placebo in two studies, one of 18- and one of 24-weeks duration.
 Improvement of surrogate markers of beta cell function, including HOMA-β (Homeostasis Model Assessment-β), proinsulin to insulin ratio, and measures of beta cell responsiveness from the frequently-sampled meal tolerance test were observed.
@@ -57,7 +57,6 @@ There was no meaningful change from baseline in body weight in either group.
 In a 24-week placebo-controlled factorial study of initial therapy, sitagliptin 50 mg twice daily in combination with metformin (500 mg or 1,000 mg twice daily) provided significant improvements in glycaemic parameters compared with either monotherapy.
 The decrease in body weight with the combination of sitagliptin and metformin was similar to that observed with metformin alone or placebo; there was no change from baseline for patients on sitagliptin alone.
 The incidence of hypoglycaemia was similar across treatment groups.
-
 Table 2.
 HbA1c results in placebo-controlled monotherapy and combination therapy studies*
 
@@ -110,7 +109,7 @@ The difference was mainly due to a higher percentage of patients in the placebo 
 There was no difference in the incidence of severe hypoglycaemia.
 
 A study comparing sitagliptin at 25 or 50 mg once daily to glipizide at 2.5 to 20 mg/day was conducted in patients with moderate to severe renal impairment.
-This study involved 423 patients with chronic renal impairment (estimated glomerular filtration rate < 50 ml/min).
+This study involved 423 patients with chronic renal impairment (estimated glomerular filtration rate < 50 mL/min).
 After 54 weeks, the mean reduction from baseline in HbA1c was -0.76 % with sitagliptin and -0.64 % with glipizide (Per-Protocol Analysis).
 In this study, the efficacy and safety profile of sitagliptin at 25 or 50 mg once daily was generally similar to that observed in other monotherapy studies in patients with normal renal function.
 The incidence of hypoglycaemia in the sitagliptin group (6.2 %) was significantly lower than that in the glipizide group (17.0 %).
@@ -121,9 +120,8 @@ After 54 weeks, the mean reduction from baseline in HbA1c was -0.72 % with sitag
 In this study, the efficacy and safety profile of sitagliptin at 25 mg once daily was generally similar to that observed in other monotherapy studies in patients with normal renal function.
 The incidence of hypoglycaemia was not significantly different between the treatment groups (sitagliptin, 6.3 %; glipizide, 10.8 %).
 
-In another study involving 91 patients with type 2 diabetes and chronic renal impairment (creatinine clearance < 50 ml/min), the safety and tolerability of treatment with sitagliptin at 25 or 50 mg once daily were generally similar to placebo.
+In another study involving 91 patients with type 2 diabetes and chronic renal impairment (creatinine clearance < 50 mL/min), the safety and tolerability of treatment with sitagliptin at 25 or 50 mg once daily were generally similar to placebo.
 In addition, after 12 weeks, the mean reductions in HbA1c (sitagliptin -0.59 %; placebo -0.18 %) and FPG (sitagliptin -25.5 mg/dL; placebo -3.0 mg/dL) were generally similar to those observed in other monotherapy studies in patients with normal renal function (see section 5.2).
-
 The TECOS was a randomised study in 14,671 patients in the intention-to-treat population with an HbA1c of ≥6.5 to 8.0 % with established CV disease who received sitagliptin (7,332) 100 mg daily (or 50 mg daily if the baseline eGFR was ≥30 and < 50 mL/min/1.73 m2) or placebo (7,339) added to usual care targeting regional standards for HbA1c and CV risk factors.
 Patients with an eGFR
 < 30 mL/min/1.73 m2 were not to be enrolled in the study.
@@ -161,4 +159,10 @@ For all other endpoints, the p-values correspond to a test of differences in haz
 ‡ The analysis of hospitalization for heart failure was adjusted for a history of heart failure at baseline.
 
 Paediatric population
-The European Medicines Agency has deferred the obligation to submit the results of studies with Januvia in one or more subsets of the paediatric population in type 2 diabetes mellitus (see section 4.2 for information on paediatric use).
+A 54-week, double-blind study was conducted to evaluate the efficacy and safety of sitagliptin 100 mg once daily in paediatric patients (10 to 17 years of age) with type 2 diabetes who were not on anti-hyperglycaemic therapy for at least 12 weeks (with HbA1c 6.5% to 10%) or were on a stable dose of insulin for at least 12 weeks (with HbA1c 7% to 10%).
+Patients were randomised to sitagliptin 100 mg once daily or placebo for 20 weeks.
+
+Mean baseline HbA1c was 7.5%.
+Treatment with sitagliptin 100 mg did not provide significant improvement in HbA1c at 20 weeks.
+The reduction in HbA1c in patients treated with sitagliptin (N=95) was 0.0% compared to 0.2% in patients treated with placebo (N=95), a difference of -0.2% (95% CI: -0.7, 0.3).
+See section 4.2.

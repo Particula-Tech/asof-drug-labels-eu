@@ -18,7 +18,7 @@ Therefore, to reduce the risk of hypoglycaemia, a lower dose of sulphonylurea or
 Renal impairment
 Sitagliptin is renally excreted.
 To achieve plasma concentrations of sitagliptin similar to those in patients with normal renal function, lower dosages are recommended in patients with GFR
-< 45 mL/min, as well as in ESRD patients requiring haemodialysis or peritoneal dialysis (see section 4.2 and 5.2).
+< 45 mL/min, as well as in ESRD patients requiring haemodialysis or peritoneal dialysis (see sections 4.2 and 5.2).
 
 When considering the use of sitagliptin in combination with another anti-diabetic medicinal product, its conditions for use in patients with renal impairment should be checked.
 
