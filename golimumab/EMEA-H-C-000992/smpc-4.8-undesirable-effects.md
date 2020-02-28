@@ -11,7 +11,6 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 Table 2
 Tabulated list of ARs
-
 Infections and infestations
 Very common: Upper respiratory tract infection (nasopharyngitis, pharyngitis, laryngitis and rhinitis)
 Common: Bacterial infections (such as cellulitis), lower respiratory tract infection (such as pneumonia), viral infections (such as influenza and herpes), bronchitis, sinusitis, superficial fungal infections, abscess
@@ -19,7 +18,8 @@ Uncommon: Sepsis including septic shock, pyelonephritis
 Rare: Tuberculosis, opportunistic infections (such as invasive fungal infections [histoplasmosis, coccidioidomycosis, pneumocytosis], bacterial, atypical mycobacterial infection and protozoal), hepatitis B reactivation, bacterial arthritis, infective bursitis
 Neoplasms, benign, malignant and unspecified
 Uncommon: Neoplasms (such as skin cancer, squamous cell carcinoma and melanocytic naevus)
-Rare: Lymphoma, leukaemia, melanoma, Merkel cell carcinoma Not known: Hepatosplenic T-cell lymphoma*
+Rare: Lymphoma, leukaemia, melanoma, Merkel cell carcinoma
+Not known: Hepatosplenic T-cell lymphoma*
 Blood and lymphatic system disorders
 Common: Leukopenia (including neutropenia), anaemia
 Uncommon: Thrombocytopenia, pancytopenia
@@ -55,8 +55,7 @@ Common: Alanine aminotransferase increased, aspartate aminotransferase increased
 Uncommon: Cholelithiasis, hepatic disorders
 Skin and subcutaneous tissue disorders
 Common: Pruritus, rash, alopecia, dermatitis
-Uncommon: Bullous skin reactions, psoriasis (new onset or worsening of pre-existing psoriasis, palmar/plantar and pustular), urticaria Rare: Skin exfoliation, vasculitis (cutaneous)
-Musculoskeletal and connective tissue disorders
+Uncommon: Bullous skin reactions, psoriasis (new onset or worsening of pre-existing psoriasis, palmar/plantar and pustular), urticaria Rare: Lichenoid reactions, skin exfoliation, vasculitis (cutaneous) Musculoskeletal and connective tissue disorders
 Rare: Lupus-like syndrome
 Renal and urinary disorders
 Rare: Bladder disorders, renal disorders
@@ -71,6 +70,7 @@ Common: Bone fractures
 
 Throughout this section, median duration of follow-up (approximately 4 years) is generally presented for all golimumab use.
 Where golimumab use is described by dose, the median duration of follow-up varies (approximately 2 years for 50 mg dose, approximately 3 years for 100 mg dose) as patients may have switched between doses.
+
 Description of selected adverse reactions
 
 Infections
@@ -100,6 +100,7 @@ In the controlled periods of pivotal trials and through approximately 4 years of
 Through approximately 4 years of follow-up, the incidence of non-lymphoma malignancies (excluding non-melanoma skin cancer) was similar to the general population.
 
 In the controlled and uncontrolled periods of pivotal trials with a median follow-up of up to 3 years, non-melanoma skin cancer was diagnosed in 5 placebo-treated, 10 golimumab 50 mg-treated and 31 golimumab 100 mg-treated subjects with an incidence (95% CI) per 100 subject-years of follow-up of 0.36 (0.26, 0.49) for combined golimumab and 0.87 (0.28, 2.04) for placebo.
+
 In the controlled and uncontrolled period of pivotal trials with a median follow-up of up to 3 years, malignancies besides melanoma, non-melanoma skin cancer and lymphoma were diagnosed in 5 placebo-treated, 21 golimumab 50 mg-treated and 34 golimumab 100 mg-treated subjects with an incidence (95% CI) per 100 subject-years of follow-up of 0.48 (0.36, 0.62) for combined golimumab and 0.87 (0.28, 2.04) for placebo (see section 4.4).
 
 Cases reported in clinical studies in asthma
@@ -129,7 +130,6 @@ In general these elevations were asymptomatic and the abnormalities decreased or
 No cases were reported in the controlled and uncontrolled periods of the nr-Axial SpA study (up to 1 year).
 In the controlled periods of the pivotal UC trials, of golimumab induction, ALT elevations ≥5 x ULN occurred in similar proportions of golimumab-treated patients compared to placebo-treated patients (0.3% to 1.0%, respectively).
 In the controlled and uncontrolled periods of the pivotal UC trials with a median follow-up of approximately 2 years, the proportion of patients with ALT elevations ≥5 x ULN was 0.8% in patients receiving golimumab during the maintenance portion of the UC study.
-
 Within the RA, PsA, AS, and nr-Axial SpA pivotal trials, one patient in an RA trial with pre-existing liver abnormalities and confounding medicinal products treated with golimumab developed non-infectious fatal hepatitis with jaundice.
 The role of golimumab as a contributing or aggravation factor cannot be excluded.
 
@@ -161,8 +161,6 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 ARs observed in clinical studies and reported from world-wide post-marketing use of golimumab are listed in Table 1.
 
 Table 1
-Rare: Lymphoma, leukaemia, melanoma, Merkel cell carcinoma
-Not known: Hepatosplenic T-cell lymphoma*
 
 [Simponi 100 mg solution for injection in pre-filled pen.]
 

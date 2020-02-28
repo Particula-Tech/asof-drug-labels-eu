@@ -1,6 +1,7 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 No interaction studies have been performed.
+
 Concurrent use with other biological therapeutics
 The combination of golimumab with other biological therapeutics used to treat the same conditions as golimumab, including anakinra and abatacept is not recommended (see section 4.4).
 

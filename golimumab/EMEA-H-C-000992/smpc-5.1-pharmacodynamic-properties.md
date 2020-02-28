@@ -8,6 +8,7 @@ Golimumab is a human monoclonal antibody that forms high affinity, stable comple
 Pharmacodynamic effects
 The binding of human TNF by golimumab was shown to neutralise TNF-α-induced cell-surface expression of the adhesion molecules E-selectin, vascular cell adhesion molecule (VCAM)-1 and intercellular adhesion molecule (ICAM)-1 by human endothelial cells.
 In vitro, TNF-induced secretion of interleukin (IL)-6, IL-8 and granulocyte-macrophage colony stimulating factor (GM-CSF) by human endothelial cells was also inhibited by golimumab.
+
 Improvement in C-reactive protein (CRP) levels were observed relative to placebo groups and treatment with Simponi resulted in significant reductions from baseline in serum levels of IL-6, ICAM-1, matrix-metalloproteinase (MMP)-3 and vascular endothelial growth factor (VEGF) compared to control treatment.
 In addition, levels of TNF-αwere reduced in RA and AS patients and levels of IL-8 were reduced in PsA patients.
 These changes were observed at the first assessment (week 4) after the initial Simponi administration and were generally maintained through week 24.
@@ -20,7 +21,7 @@ Children with polyarticular course JIA (rheumatoid factor positive or negative p
 The baseline median number of active joints was 12, and median CRP was 0.17 mg/dL.
 
 Part 1 of the study consisted of a 16-week open-label phase in which 173 enrolled children received Simponi 30 mg/m2 (maximum 50 mg) subcutaneously every 4 weeks and MTX.
-The 154 children who achieved an ACR Ped 30 response at week 16 entered Part 2 of the study, the randomised withdrawal phase, and received Simponi 30 mg/m2 (maximum 50 mg) + MTX or placebo + MTX every 4 weeks.
+The 154 children who achieved an American College of Rheumatology (ACR) Ped 30 response at week 16 entered Part 2 of the study, the randomised withdrawal phase, and received Simponi 30 mg/m2 (maximum 50 mg) + MTX or placebo + MTX every 4 weeks.
 After disease flare, children received Simponi 30 mg/m2 (maximum 50 mg) + MTX.
 At week 48, children entered a long-term extension.
 
@@ -46,6 +47,7 @@ Improvements from baseline in ACR Ped components at week 16a
 | ESR (mm/h)e | 33% |
 
 a baseline = week 0 b “n” reflects enrolled patients c VAS: Visual Analogue Scale d CHAQ: Child Health Assessment Questionaire e ESR (mm/h): erythrocyte sedimentation rate (millimetres per hour)
+
 The primary endpoint, the proportion of children who were ACR Ped 30 responders at week 16 and who did not experience a flare between week 16 and week 48, was not achieved.
 The majority of children did not experience a flare between week 16 and week 48 (59% in the Simponi + MTX and 53% in the placebo + MTX groups, respectively; p = 0.41).
 
@@ -72,14 +74,14 @@ GO-BEFORE evaluated 637 patients with active RA who were MTX-naïve and had not 
 Patients were randomised to receive placebo + MTX, Simponi 50 mg + MTX, Simponi 100 mg + MTX or Simponi 100 mg + placebo.
 At week 52, patients entered an open label long-term extension in which patients receiving placebo + MTX who had at least 1 tender or swollen joint were switched to Simponi 50 mg + MTX.
 
-In GO-FORWARD, the (co-)primary endpoints were the percentage of patients achieving an
-ACR 20 response at week 14 and the improvement from baseline in Health Assessment Questionnaire (HAQ) at week 24.
+In GO-FORWARD, the (co-)primary endpoints were the percentage of patients achieving an ACR 20 response at week 14 and the improvement from baseline in Health Assessment Questionnaire (HAQ) at week 24.
 In GO-AFTER, the primary endpoint was the percentage of patients achieving an ACR 20 response at week 14.
 In GO-BEFORE, the co-primary endpoints were the percentage of patients achieving ACR 50 response at week 24 and the change from baseline in the van der Heijde-modified Sharp (vdH-S) score at week 52.
 In addition to the primary endpoint(s), additional assessments of the impact of Simponi treatment on the signs and symptoms of arthritis, radiographic response, physical function and health-related quality of life were performed.
 
 In general, no clinically meaningful differences in measures of efficacy were observed between the Simponi 50 mg and 100 mg dosing regimens with concomitant MTX, through week 104 in GO-FORWARD and GO-BEFORE and through week 24 in GO-AFTER.
 In each of the RA studies by study design, patients in the long-term extension may have switched between the 50 mg and 100 mg Simponi doses at the discretion of the study physician.
+
 Signs and symptoms
 Key ACR results for the Simponi 50 mg dose at weeks 14, 24 and 52 for GO-FORWARD, GO-AFTER and GO-BEFORE are shown in Table 4 and are described below.
 Responses were observed at the first assessment (week 4) after the initial Simponi administration.
@@ -120,7 +122,6 @@ In GO-BEFORE the primary analysis in patients with moderate to severe rheumatoid
 At week 52 in the overall population, the percentage of patients in the Simponi 50 mg + MTX group who achieved an ACR response was generally higher but not significantly different when compared with MTX alone (see Table 4).
 Additional analyses were performed in subsets representative of the indicated population of patients with severe, active and progressive RA.
 A generally greater effect of Simponi 50 mg + MTX versus MTX alone was demonstrated in the indicated population compared with the overall population.
-
 In GO-FORWARD and GO-AFTER, clinically meaningful and statistically significant responses in Disease Activity Scale (DAS)28 were observed at each prespecified time point, at week 14 and at week 24 (p ≤0.001).
 Among patients who remained on the Simponi treatment to which they were randomised at study start, DAS28 responses were maintained through week 104.
 Among patients remaining in the study and treated with Simponi, DAS28 responses were similar from week 104 through week 256.
@@ -211,7 +212,6 @@ Key efficacy outcomes from GO-REVEAL
 
 * p < 0.05 for all comparisons;
 a n reflects randomised patients; actual number of patients evaluable for each endpoint may vary by timepoint b Psoriasis Area and Severity Index c Based on the subset of patients with ≥3% BSA involvement at baseline, 79 patients (69.9%) in the placebo group and 109 (74.3%) in the Simponi 50 mg group.
-
 Responses were observed at the first assessment (week 4) after the initial Simponi administration.
 Similar ACR 20 responses at week 14 were observed in patients with polyarticular arthritis with no rheumatoid nodules and asymmetric peripheral arthritis PsA subtypes.
 The number of patients with other PsA subtypes was too small to allow meaningful assessment.
@@ -420,6 +420,8 @@ Among patients who received Simponi maintenance treatment, the improvement in qu
 Approximately 63% of patients who were receiving Simponi at the beginning of the study extension (week 56), remained on treatment through the end of the study (last golimumab administration at week 212).
 
 Paediatric population
+
+The 154 children who achieved an ACR Ped 30 response at week 16 entered Part 2 of the study, the randomised withdrawal phase, and received Simponi 30 mg/m2 (maximum 50 mg) + MTX or placebo + MTX every 4 weeks.
 
 At week 16, all ACR Ped components demonstrated clinically relevant improvement from baseline (see Table 8).
 

@@ -71,7 +71,7 @@ A risk for the development of malignancies in children and adolescents treated w
 
 Lymphoma and leukaemia
 In the controlled portions of clinical trials of all the TNF-blocking agents including golimumab, more cases of lymphoma have been observed among patients receiving anti-TNF treatment compared with control patients.
-During the Simponi Phase IIb and Phase III clinical trials in RA, PsA and AS, the incidence of lymphoma in golimumab-treated patients was higher than expected in the general population.
+During the Simponi Phase IIb and Phase III clinical trials in rheumatoid arthritis (RA), psoriatic arthritis (PsA) and ankylosing spondylitis (AS), the incidence of lymphoma in golimumab-treated patients was higher than expected in the general population.
 Cases of leukaemia have been reported in patients treated with golimumab.
 There is an increased background risk for lymphoma and leukaemia in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates risk estimation.
 
@@ -82,7 +82,7 @@ The potential risk with the combination of AZA or 6-MP and golimumab should be c
 A risk for the development for hepatosplenic T-cell lymphoma in patients treated with TNF-blockers cannot be excluded.
 
 Malignancies other than lymphoma
-In the controlled portions of the Simponi Phase IIb and Phase III clinical trials in RA, PsA, AS, and UC, the incidence of non-lymphoma malignancies (excluding non-melanoma skin cancer) was similar between the golimumab and the control groups.
+In the controlled portions of the Simponi Phase IIb and Phase III clinical trials in RA, PsA, AS, and ulcerative colitis (UC), the incidence of non-lymphoma malignancies (excluding non-melanoma skin cancer) was similar between the golimumab and the control groups.
 
 Colon dysplasia/carcinoma
 It is not known if golimumab treatment influences the risk for developing dysplasia or colon cancer.
@@ -107,7 +107,7 @@ Some cases had a fatal outcome.
 In a clinical trial with another TNF-antagonist worsening congestive heart failure and increased mortality due to CHF have been observed.
 Golimumab has not been studied in patients with CHF.
 Golimumab should be used with caution in patients with mild heart failure (NYHA class I/II).
-Patients should be closely monitored and Simponi must be discontinued in patients who develop new or worsening symptoms of heart failure (see section 4.3).
+Patients should be closely monitored and golimumab must be discontinued in patients who develop new or worsening symptoms of heart failure (see section 4.3).
 
 Neurological events
 Use of TNF-blocking agents, including golimumab, has been associated with cases of new onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disorders, including multiple sclerosis and peripheral demyelinating disorders.
@@ -143,9 +143,9 @@ The combination of golimumab and abatacept is not recommended.
 Concurrent administration with other biological therapeutics
 There is insufficient information regarding the concomitant use of golimumab with other biological therapeutics used to treat the same conditions as golimumab.
 The concomitant use of golimumab with these biologics is not recommended because of the possibility of an increased risk of infection, and other potential pharmacological interactions.
-
-Switching between biological DMARDs
+Switching between biological disease modifying anti-rheumatic drugs (DMARDs)
 Care should be taken and patients should continue to be monitored when switching from one biologic to another, since overlapping biological activity may further increase the risk for adverse events, including infection.
+
 Vaccinations/therapeutic infectious agents
 Patients treated with golimumab may receive concurrent vaccinations, except for live vaccines (see sections 4.5 and 4.6).
 In patients receiving anti-TNF therapy, limited data are available on the response to vaccination with live vaccines or on the secondary transmission of infection by live vaccines.
@@ -167,7 +167,7 @@ Special populations
 Elderly (≥65 years)
 In the Phase III studies in RA, PsA, AS, and UC, no overall differences in adverse events (AEs), serious adverse events (SAEs), and serious infections in patients age 65 or older who received golimumab were observed compared with younger patients.
 However, caution should be exercised when treating the elderly and particular attention paid with respect to occurrence of infections.
-There were no patients age 45 and over in the nr-Axial SpA study.
+There were no patients age 45 and over in the non-radiographic axial spondyloarthritis (nr-Axial SpA) study.
 
 Renal and hepatic impairment
 Specific studies of golimumab have not been conducted in patients with renal or hepatic impairment.
@@ -187,9 +187,15 @@ Care should be taken to ensure that patients are not underdosed or overdosed.
 
 [Simponi 50 mg solution for injection in pre-filled pen.]
 
-Patients should be closely monitored and golimumab must be discontinued in patients who develop new or worsening symptoms of heart failure (see section 4.3).
+During the Simponi Phase IIb and Phase III clinical trials in RA, PsA and AS, the incidence of lymphoma in golimumab-treated patients was higher than expected in the general population.
+
+In the controlled portions of the Simponi Phase IIb and Phase III clinical trials in RA, PsA, AS, and UC, the incidence of non-lymphoma malignancies (excluding non-melanoma skin cancer) was similar between the golimumab and the control groups.
+
+Switching between biological DMARDs
 
 The needle cover on the pre-filled pen or the pre-filled syringe is manufactured from dry natural rubber containing latex, and may cause allergic reactions in individuals sensitive to latex.
+
+There were no patients age 45 and over in the nr-Axial SpA study.
 
 If possible, it is recommended that prior to initiating golimumab therapy, paediatric patients be brought up to date with all immunisations in agreement with current immunisation guidelines (see Vaccinations/therapeutic infectious agents above).
 
