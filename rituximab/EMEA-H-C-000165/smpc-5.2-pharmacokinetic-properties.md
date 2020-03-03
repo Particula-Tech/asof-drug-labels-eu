@@ -1,6 +1,6 @@
 # 5.2 Pharmacokinetic properties
 
-Non-Hodgkin’s lymphoma
+Adult Non-Hodgkin’s lymphoma
 
 Based on a population pharmacokinetic analysis in 298 NHL patients who received single or multiple infusions of MabThera as a single agent or in combination with CHOP therapy (applied MabThera doses ranged from 100 to 500 mg/m2), the typical population estimates of nonspecific clearance (CL1), specific clearance (CL2) likely contributed by B cells or tumour burden, and central compartment volume of distribution (V1) were 0.14 L/day, 0.59 L/day, and 2.7 L, respectively.
 The estimated median terminal elimination half-life of MabThera was 22 days (range, 6.1 to 52 days).
@@ -16,7 +16,29 @@ MabThera, administered as an intravenous infusion at a dose of 375 mg/m2 at week
 Rituximab was detectable in the serum of patients 3 – 6 months after completion of last treatment.
 
 Upon administration of MabThera at a dose of 375 mg/m2 as an intravenous infusion at weekly intervals for 8 doses to 37 patients with NHL, the mean Cmax increased with each successive infusion, spanning from a mean of 243 µg/mL (range, 16 – 582 µg/mL) after the first infusion to 550 µg/mL (range, 171 – 1177 µg/mL) after the eighth infusion.
+
 The pharmacokinetic profile of MabThera when administered as 6 infusions of 375 mg/m2 in combination with 6 cycles of CHOP chemotherapy was similar to that seen with MabThera alone.
+
+Paediatric DLBCL/BL/BAL/BLL
+
+In the clinical trial studying paediatric DLBCL/BL/BAL/BLL, the PK was studied in a subset of 35 patients aged 3 years and older.
+The PK was comparable between the two age groups (ε3 to <12 years vs. ε12 to <18 years).
+After two MabThera IV infusions of 375 mg/m2 in each of the two induction cycles (cycle 1 and 2) followed by one MabThera IV infusion of 375 mg/m2 in each of the consolidation cycles (cycle 3 and 4) the maximum concentration was highest after the fourth infusion (cycle 2) with a geometric mean of 347 g/mL followed by lower geometric mean maximum concentrations thereafter (Cycle 4: 247 g/mL).
+With this dose regimen, trough levels were sustained (geometric means: 41.8 µg/mL (pre-dose Cycle 2; after 1 cycle), 67.7 µg/mL (pre-dose Cycle 3, after 2 cycles) and 58.5 µg/mL (pre-dose Cycle 4, after 3 cycles)).
+The median elimination half-life in paediatric patients aged 3 years and older was 26 days.
+
+The PK characteristics of MabThera in paediatric patients with DLBCL/BL/BAL/BLL were similar to what has been observed in adult NHL patients.
+
+No PK data are available in the ≥ 6 months to < 3 years age group, however, population PK prediction supports comparable systemic exposure (AUC, Ctrough) in this age group compared to ≥ 3 years (Table 23).
+Smaller baseline tumor size is related to higher exposure due to lower time dependent clearance, however, systemic exposures impacted by different tumor sizes remain in the range of exposure that was efficacious and had an acceptable safety profile.
+Table 23: Predicted PK Parameters following the Rituximab Dosing Regimen in Paediatric DLBCL/BL/BAL/BLL
+
+| Age group | ≥ 6 mo to < 3 years | ≥ 3 to < 12 years | ≥ 12 to < 18 years |
+| --- | --- | --- | --- |
+| Ctrough (µg/mL) | 47.5 (0.01-179) | 51.4 (0.00-182) | 44.1 (0.00-149) |
+| AUC1-4 cycles (µg*day/mL) | 13501 (278-31070) | 11609 (135-31157) | 11467 (110-27066) |
+
+Results are presented as median (min – max); Ctrough is pre-dose Cycle 4.
 
 Chronic lymphocytic leukaemia
 
@@ -45,16 +67,21 @@ Mean terminal elimination half-life after the second infusion, following the sec
 PK parameters for rituximab were comparable over the two treatment courses.
 
 The pharmacokinetic (PK) parameters in the anti-TNF inadequate responder population, following the same dosage regimen (2 x 1000 mg, IV, 2 weeks apart), were similar with a mean maximum serum concentration of 369 µg/mL and a mean terminal half-life of 19.2 days.
+Granulomatosis with polyangiitis (GPA) and microscopic polyangiitis (MPA)
 
-Granulomatosis with polyangiitis and microscopic polyangiitis
+Adult Population
 
 Based on the population pharmacokinetic analysis of data in 97 patients with granulomatosis with polyangiitis and microscopic polyangiitis who received 375 mg/m2 MabThera once weekly for four doses, the estimated median terminal elimination half-life was 23 days (range, 9 to 49 days).
 Rituximab mean clearance and volume of distribution were 0.313 L/day (range, 0.116 to 0.726 L/day) and 4.50 L (range 2.25 to 7.39 L) respectively.
-The PK parameters of rituximab in these patients appear similar to what has been observed in rheumatoid arthritis patients.
+Maximum concentration during the first 180 days (Cmax), minimum concentration at Day 180 (C180) and Cumulative area under the curve over 180 days (AUC180) were (median [range]) 372.6 (252.3-533.5) µg/mL, 2.1 (0-29.3) µg/mL and 10302 (3653-21874)µg/mL*days, respectively.
+The PK parameters of rituximab in adult GPA and MPA patients appear similar to what has been observed in rheumatoid arthritis patients.
 
-[MabThera 500 mg concentrate for solution for infusion]
+Paediatric Population
 
-(all sentences already above)
+Based on the population pharmacokinetic analysis of 25 children (6-17 years old) with GPA and MPA who received 375 mg/m2 MabThera once weekly for four doses, the estimated median terminal elimination half-life was 22 days (range, 11 to 42 days).
+Rituximab mean clearance and volume of distribution were 0.221 L/day (range, 0.
+0996 to 0.381 L/day) and 2.27 L (range 1.43 to 3.17 L) respectively.
+Maximum concentration during the first 180 days (Cmax), minimum concentration at Day 180 (C180) and Cumulative area under the curve over 180 days (AUC180) were (median [range]) 382.8 (270.6-513.6) µg/mL, 0.9 (0-17.7) µg/mL and 9787 (4838-20446) µg/mL*day, respectively.The PK parameters of rituximab in paediatric patients with GPA or MPA were similar to those in adults with GPA or MPA, once taking into account the BSA effect on clearance and volume of distribution parameters.
 
 [MabThera 1400 mg solution for subcutaneous injection]
 

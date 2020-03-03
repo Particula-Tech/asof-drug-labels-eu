@@ -13,10 +13,6 @@ No long-term animal studies have been performed to establish the carcinogenic po
 Specific studies to determine the effects of rituximab on fertility have not been performed.
 In general toxicity studies in cynomolgus monkeys no deleterious effects on reproductive organs in males or females were observed.
 
-[MabThera 500 mg concentrate for solution for infusion]
-
-(all sentences already above)
-
 [MabThera 1400 mg solution for subcutaneous injection]
 
 B cell counts returned to normal in these animals within 6 months of birth and did not compromise the reaction to immunization.

@@ -10,10 +10,6 @@ In the postmarketing setting five cases of MabThera overdose have been reported.
 Three cases had no reported adverse event.
 The two adverse events that were reported were flu-like symptoms, with a dose of 1.8 g of rituximab and fatal respiratory failure, with a dose of 2 g of rituximab.
 
-[MabThera 500 mg concentrate for solution for infusion]
-
-(all sentences already above)
-
 [MabThera 1400 mg solution for subcutaneous injection]
 
 Three patients in the MabThera subcutaneous formulation trial SABRINA (BO22334) were inadvertently administered subcutaneous formulation through the intravenous route up to a maximum rituximab dose of 2780 mg with no untoward effect.

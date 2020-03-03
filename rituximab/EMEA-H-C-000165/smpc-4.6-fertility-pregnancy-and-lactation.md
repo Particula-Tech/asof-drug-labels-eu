@@ -22,10 +22,6 @@ Fertility
 
 Animal studies did not reveal deleterious effects of rituximab on reproductive organs.
 
-[MabThera 500 mg concentrate for solution for infusion]
-
-(all sentences already above)
-
 [MabThera 1400 mg solution for subcutaneous injection]
 
 Due to the long retention time of rituximab in B cell depleted patients, women of childbearing potential must employ effective contraceptive methods during and for 12 months after treatment with MabThera.

@@ -1,6 +1,6 @@
 # 4.8 Undesirable effects
 
-Experience from non-Hodgkin’s lymphoma and chronic lymphocytic leukaemia
+Experience from non-Hodgkin’s lymphoma and chronic lymphocytic leukaemia in adults
 
 Summary of the safety profile
 
@@ -11,6 +11,7 @@ The most frequently observed adverse drug reactions (ADRs) in patients receiving
 The incidence of infusion-related symptoms decreases substantially with subsequent infusions and is less than 1% after eight doses of MabThera.
 
 Infectious events (predominantly bacterial and viral) occurred in approximately 30-55% of patients during clinical trials in patients with NHL and in 30-50% of patients during clinical trials in patients with CLL.
+
 The most frequent reported or observed serious adverse drug reactions were:
 
 - IRRs (including cytokine-release syndrome, tumour-lysis syndrome), see section 4.4.
@@ -21,32 +22,34 @@ Other serious ADRs reported include hepatitis B reactivation and PML (see sectio
 
 Tabulated list of adverse reactions
 
-The frequencies of ADRs reported with MabThera alone or in combination with chemotherapy are summarised in Table 1.
+The frequencies of ADRs reported with MabThera alone or in combination with chemotherapy are summarised in Table 3.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to
 < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1000), very rare (< 1/10,000) and not known (cannot be estimated from the available data).
-
 The ADRs identified only during post-marketing surveillance, and for which a frequency could not be estimated, are listed under “not known”.
 
-Table 1 ADRs reported in clinical trials or during postmarketing surveillance in patients with NHL and CLL disease treated with MabThera monotherapy/maintenance or in combination with chemotherapy
+Table 3 ADRs reported in clinical trials or during postmarketing surveillance in patients with NHL and CLL disease treated with MabThera monotherapy/maintenance or in combination with chemotherapy
 
 | System Organ Class | Very Common | Common | Uncommon | Rare | Very Rare | Not known |
 | --- | --- | --- | --- | --- | --- | --- |
 | Infections and infestations | bacterial infections, viral infections, +bronchitis | sepsis, +pneumonia, +febrile infection, +herpes zoster, +respiratory tract infection, fungal infections, infections of unknown aetiology, +acute bronchitis, +sinusitis, hepatitis B1 |  | serious viral infection2 Pneumocystis jirovecii | PML |  |
 | Blood and lymphatic system disorders | neutropenia, leucopenia, +febrile neutropenia, +thrombocyt openia | anaemia, +pancytopenia, +granulocytopeni a | coagulation disorders, aplastic anaemia, haemolytic anaemia, lymphadenopa thy |  | transient increase in serum IgM levels3 | late neutropenia3 |
-| Immune system disorders | infusion-related reactions4, angioedema | hypersensitivity |  | anaphylaxis | tumour lysis syndrome, cytokine release syndrome4, serum sickness | infusion-related acute reversible t4 hrombocytopenia |
+| Immune system disorders | infusion-related reactions4, angioedema | hypersensitivity |  | anaphylaxis | tumour lysis syndrome, cytokine release syndrome4, serum sickness | infusion-related acute reversible t4h rombocytopenia |
 | Metabolism and nutrition disorders |  | hyperglycaemia, weight decrease, peripheral oedema, face oedema, increased LDH, hypocalcaemia |  |  |  |  |
 | Psychiatric disorders |  |  | depression, nervousness, |  |  |  |
 | Nervous system disorders |  | paraesthesia, hypoaesthesia, agitation, insomnia, vasodilatation, dizziness, anxiety | Dysgeusia |  | peripheral neuropathy, facial nerve palsy5 | cranial neuropathy, loss of other senses5 |
 | Eye disorders |  | lacrimation disorder, conjunctivitis |  |  | severe vision loss5 |  |
 | Ear and labyrinth disorders |  | tinnitus, ear pain |  |  |  | hearing loss5 |
-| Cardiac disorders |  | +myocardial infarction4 and 6, arrhythmia, +atrial fibrillation, tachycardia, +cardiac disorder | +left ventricular failure, +supraventricu lar tachycardia, +ventricular tachycardia, +angina, +myocardial ischaemia, bradycardia | severe cardiac disorders 4 and 6 | haneda 6r t failure4 |  |
+| Cardiac disorders |  | +myocardial infarction4 and 6, arrhythmia, +atrial fibrillation, tachycardia, +cardiac disorder | +left ventricular failure, +supraventricu lar tachycardia, +ventricular tachycardia, +angina, +myocardial ischaemia, bradycardia | severe cardiac disorders 4 and 6 | haned a6r t failure4 |  |
 | Vascular disorders |  | hypertension, orthostatic hypotension, hypotension |  |  | vasculitis (predominatel y cutaneous), leukocytoclast ic vasculitis |  |
 | Respiratory, thoracic and mediastinal disorders |  | Bronchospasm4, respiratory disease, chest pain, dyspnoea, increased cough, rhinitis | asthma, bronchiolitis obliterans, lung disorder, hypoxia | interstitial lung disease7 | respiratory failure4, | lung infiltration, |
 | Gastrointestin al disorders | nausea | vomiting , diarrhoea, abdominal pain, dysphagia, stomatitis, constipation, dyspepsia, anorexia, throat irritation | abdominal enlargement |  | gastro-intestin al perforation7 |  |
 | Skin and subcutaneous tissue disorders | pruritus, rash, +alopecia | urticaria, sweating, night sweats, +skin disorder |  |  | severe bullous skin reactions, Stevens-Johns on syndrome toxic epidermal necrolysis (Lyell’s syndrome) 7 |  |
 | Musculoskelet al, connective tissue and bone disorders |  | hypertonia, myalgia, arthralgia, back pain, neck pain, pain |  |  |  |  |
 | Renal and urinary disorders |  |  |  |  | renal failure4 |  |
+
+| System Organ Class | Very Common | Common | Uncommon | Rare | Very Rare | Not known |
+| --- | --- | --- | --- | --- | --- | --- |
 | General disorders and administration site conditions | fever , chills, asthenia, headache | tumour pain, flushing, malaise, cold syndrome, +fatigue, +shivering, +multi-organ failure4 | infusion site pain |  |  |  |
 | Investigations | decreased IgG levels |  |  |  |  |  |
 | For each term, the frequency count was based on reactions of all grades (from mild to severe), except for terms marked with "+" where the frequency count was based only on severe (≥ grade 3 NCI common toxicity criteria) reactions. Only the highest frequency observed in the trials is reported 1 includes reactivation and primary infections; frequency based on R-FC regimen in relapsed/refractory CLL 2 see also section infection below 3 see also section haematologic adverse reactions below 4 see also section infusionrelated reactions below. Rarely fatal cases reported 5 signs and symptoms of cranial neuropathy. Occurred at various times up to several months after completion of MabThera therapy 6 observed mainly in patients with prior cardiac condition and/or cardiotoxic chemotherapy and were mostly associated with infusion-related reactions 7 includes fatal cases |  |  |  |  |  |  |
@@ -147,6 +150,18 @@ Patient subpopulations - MabThera combination therapy
 Elderly patients (≥ 65 years)
 The incidence of grade 3/4 blood and lymphatic adverse events was higher in elderly patients compared to younger patients (<65 years), with previously untreated or relapsed/refractory CLL.
 
+Experience from paediatric DLBCL/BL/BAL/BLL
+
+Summary of safety profile
+
+A multicenter, open-label randomized study of Lymphome Malin B chemotherapy (LMB) with or without MabThera was conducted in paediatric patients (aged ≥ 6 months to < 18 years old) with previously untreated advanced stage CD20 positive DLBCL/BL/BAL/BLL.
+
+A total of 309 paediatric patients received MabThera and were included in the safety analysis population.
+Paediatric patients randomized to the LMB chemotherapy arm with MabThera, or enrolled in the single arm part of the study, were administered MabThera at a dose of 375mg/m2 BSA and received a total of six IV infusions of MabThera (two during each of the two induction courses and one during each of the two consolidation courses of the LMB scheme).
+
+The safety profile of MabThera in paediatric patients (aged ≥ 6 months to < 18 years old) with previously untreated advanced stage CD20 positive DLBCL/BL/BAL/BLL was generally consistent in type, nature and severity with the known safety profile in adult NHL and CLL patients.
+Addition of MabThera to chemotherapy did result in an increased risk of some events including infections (including sepsis) compared to chemotherapy only.
+
 Experience from rheumatoid arthritis
 
 Summary of the safety profile
@@ -162,7 +177,7 @@ MabThera infusions were administered after an intravenous infusion of 100 mg met
 
 Tabulated list of adverse reactions
 
-Adverse reactions are listed in Table 2.
+Adverse reactions are listed in Table 4.
 Frequencies are defined as very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), and very rare (<1/10,000).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
@@ -170,11 +185,11 @@ The most frequent adverse reactions considered due to receipt of MabThera were I
 The overall incidence of IRRs in clinical trials was 23% with the first infusion and decreased with subsequent infusions.
 Serious IRRs were uncommon (0.5% of patients) and were predominantly seen during the initial course.
 In addition to adverse reactions seen in RA clinical trials for MabThera, progressive multifocal leukoencephalopathy (PML) (see section 4.4) and serum sickness-like reaction have been reported during post marketing experience.
-Table 2 Summary of adverse drug reactions reported in clinical trials or during postmarketing surveillance occurring in patients with rheumatoid arthritis receiving MabThera
+Table 4 Summary of adverse drug reactions reported in clinical trials or during postmarketing surveillance occurring in patients with rheumatoid arthritis receiving MabThera
 
 | System Organ Class | Very Common | Common | Uncommon | Rare | Very rare |
 | --- | --- | --- | --- | --- | --- |
-| Infections and Infestations | upper respiratory tract infection, urinary tract infections | Bronchitis, sinusitis, gastroenteritis, tinea pedis |  |  | PML, reactivation of hepatitis B |
+| Infections and Infestations | upper respiratory tract infection, urinary tract infections | Bronchitis, sinusitis, gastroenteritis, tinea pedís |  |  | PML, reactivation of hepatitis B |
 | Blood and lymphatic system disorders |  | neutropenia1 |  | late neutropenia2 | Serum sickness-like reaction |
 | Cardiac disorders |  |  |  | Angina pectoris, atrial fibrillation, heart failure, myocardial infarction | Atrial flutter |
 | Immune system disorders | 3Infusion-related reactions (hypertension, nausea, rash, pyrexia, pruritus, urticaria, throat irritation, hot flush, hypotension, rhinitis, rigors, tachycardia, fatigue, oropharyngeal pain, peripheral oedema, erythema) |  | 3Infusion related reactions (generalized oedema, bronchospasm, wheezing, laryngeal oedema, angioneurotic oedema, generalized pruritus, anaphylaxis, anaphylactoid reaction) |  |  |
@@ -196,7 +211,7 @@ This is mostly accounted for by IRRs (most frequent during the first treatment c
 Description of selected adverse reactions
 
 Infusion-related reactions
-The most frequent ADRs following receipt of MabThera in clinical studies were IRRs (refer to Table 2).
+The most frequent ADRs following receipt of MabThera in clinical studies were IRRs (refer to Table 4).
 Among the 3189 patients treated with MabThera, 1135 (36%) experienced at least one IRR with 733/3189 (23%) of patients experiencing an IRR following first infusion of the first exposure to MabThera.
 The incidence of IRRs declined with subsequent infusions.
 In clinical trials fewer than 1% (17/3189) of patients experienced a serious IRR.
@@ -250,14 +265,13 @@ There was no increased rate in overall infections or serious infections after th
 A small number of spontaneous and literature cases of hypogammaglobulinaemia have been observed in paediatric patients treated with MabThera, in some cases severe and requiring long-term immunoglobulin substitution therapy.
 The consequences of long term B cell depletion in paediatric patients are unknown.
 
-Experience from granulomatosis with polyangiitis and microscopic polyangiitis
+Experience from granulomatosis with polyangiitis (GPA) and microscopic polyangiitis (MPA)
 
-Induction of remission
-Ninety-nine patients were treated for induction of remission of GPA and MPA in a clinical trial with MabThera (375 mg/m2, once weekly for 4 weeks) and glucocorticoids (see section 5.1).
+Adult induction of remission
+Ninety-nine adult patients were treated for induction of remission of GPA and MPA in a clinical trial with MabThera (375 mg/m2, once weekly for 4 weeks) and glucocorticoids (see section 5.1).
 
-The ADRs listed in Table 3 were all adverse events which occurred at an incidence of ≥ 5% in the MabThera group and at a higher frequency than the comparator group.
-
-Table 3 Adverse drug reactions occurring at 6-months in ≥ 5% of patients receiving MabThera for induction of remission of GPA and MPA, and at a higher frequency than the comparator group.
+The ADRs listed in Table 5 were all adverse events which occurred at an incidence of ≥ 5% in the MabThera group and at a higher frequency than the comparator group.
+Table 5 Adverse drug reactions occurring at 6-months in ≥ 5% of adult patients receiving MabThera for induction of remission of GPA and MPA, and at a higher frequency than the comparator group.
 
 | Body system Adverse event | Rituximab (n=99) |
 | --- | --- |
@@ -303,9 +317,10 @@ Table 3 Adverse drug reactions occurring at 6-months in ≥ 5% of patients recei
 | Hypertension | 12% |
 | Flushing | 5% |
 
-Maintenance treatment
-In a further clinical study, a total of 57 severe, active GPA and MPA patients in disease remission were treated with MabThera for the maintenance of remission (see section 5.1).
-Table 4 Adverse drug reactions occurring in ≥ 5% of patients receiving MabThera for maintenance treatment of GPA and MPA, and at a higher frequency than the comparator group
+Adult maintenance treatment
+In a further clinical study, a total of 57 adult patients with severe, active GPA and MPA were treated with MabThera for the maintenance of remission (see section 5.1).
+
+Table 6 Adverse drug reactions occurring in ≥ 5% of adult patients receiving MabThera for maintenance treatment of GPA and MPA, and at a higher frequency than the comparator group
 
 | System Organ Class Adverse drug reaction1 | Rituximab (n=57) |
 | --- | --- |
@@ -324,45 +339,70 @@ Table 4 Adverse drug reactions occurring in ≥ 5% of patients receiving MabTher
 | Infusion-related reactions2 | 12% |
 | 1 Events were considered ADRs only after thorough assessment and where a causal relationship between the medicinal product and the adverse event was at least a reasonable possibility. 2Details on infusion related reactions are provided in the description of selected adverse drug reactions section. |  |
 
-The overall safety profile was consistent with the well-established safety profile for MabThera in approved autoimmune indications, including GPA/MPA.
+The overall safety profile was consistent with the well-established safety profile for MabThera in approved autoimmune indications, including GPA and MPA.
 Overall, 4% of patients in the MabThera arm experienced adverse events leading to discontinuation.
 Most adverse events in the MabThera arm were mild or moderate in intensity.
 No patients in the MabThera arm had fatal adverse events.
 
 The most commonly reported events considered as ADRs were infusion-related reactions and infections.
 
-In a long-term observational safety study, 97 GPA/MPA patients received treatment with MabThera (mean of 8 infusions [range 1-28]) for up to 4 years, according to their physician’s standard practice and discretion.
-The overall safety profile was consistent with the well-established safety profile of MabThera in RA and GPA/MPA and no new adverse drug reactions were reported.
+In a long-term observational safety study, 97 GPA and MPA patients received treatment with MabThera (mean of 8 infusions [range 1-28]) for up to 4 years, according to their physician’s standard practice and discretion.
+The overall safety profile was consistent with the well-established safety profile of MabThera in RA and GPA and MPA and no new adverse drug reactions were reported.
+
+Paediatric population
+An open-label, single arm study was conducted in 25 paediatric patients with severe, active GPA or MPA.
+The overall study period consisted of a 6-month remission induction phase with a minimum 18-month follow-up, up to 4.5 years overall.
+During the follow-up phase, MabThera was given at the discretion of the investigator (17 out of 25 patients received additional MabThera treatment).
+Concomitant treatment with other immunosuppressive therapy was permitted (see section 5.1).
+
+ADRs were considered as adverse events that occurred at an incidence of ≥ 10%.
+These included: infections (17 patients [68%] in the remission induction phase; 23 patients [92%] in the overall study period), IRRs (15 patients [60%] in the remission induction phase; 17 patients [68%] in the overall study period), and nausea (4 patients [16%] in the remission induction phase; 5 patients [20%] in the overall study period).
+
+During the overall study period, the safety profile of MabThera was consistent with that reported during the remission induction phase.
+
+The safety profile of MabThera in paediatric GPA or MPA patients was consistent in type, nature and severity with the known safety profile in adult patients in the approved autoimmune indications, including adult GPA or MPA.
 
 Description of selected adverse drug reactions
 
 Infusion-related reactions
-In the clinical trial studying induction of remission with severe active GPA and MPA, IRRs were defined as any adverse event occurring within 24 hours of an infusion and considered to be infusion-related by investigators in the safety population.
+In the clinical trial studying induction of remission in adult patients with severe active GPA and MPA, IRRs were defined as any adverse event occurring within 24 hours of an infusion and considered to be infusion-related by investigators in the safety population.
 Of the 99 patients treated with MabThera, 12 (12%) experienced at least one IRR.
 All IRRs were CTC Grade 1 or 2.
 The most common IRRs included cytokine release syndrome, flushing, throat irritation, and tremor.
 MabThera was given in combination with intravenous glucocorticoids which may reduce the incidence and severity of these events.
 
-In the maintenance therapy clinical trial, 7/57 (12%) patients in the MabThera arm experienced at least one infusion-related reaction.
+In the maintenance therapy clinical trial in adult patients, 7/57 (12%) patients in the MabThera arm experienced at least one infusion-related reaction.
 The incidence of IRR symptoms was highest during or after the first infusion (9%) and decreased with subsequent infusions (<4%).
 All IRR symptoms were mild or moderate and most of them were reported from the SOCs Respiratory, Thoracic and Mediastinal Disorders and Skin and Subcutaneous Tissue disorders.
 
+In the clinical trial in paediatric patients with GPA or MPA, the reported IRRs were predominantly seen with the first infusion (8 patients [32%]), and then decreased over time with the number of MabThera infusions (20% with the second infusion, 12% with the third infusion and 8% with the fourth infusion).
+The most common IRR symptoms reported during the remission induction phase were: headache, rash, rhinorrhea and pyrexia (8%, for each symptom).
+The observed symptoms of IRRs were similar to those known in adult GPA or MPA patients treated with MabThera.
+The majority of IRRs were Grade 1 and Grade 2, there were two non-serious Grade 3 IRRs, and no Grade 4 or 5 IRRs reported.
+One serious Grade 2 IRR (generalized oedema which resolved with treatment) was reported in one patient (see section 4.4).
+
 Infections
-In the clinical trial on induction of remission, which included 99 MabThera-treated patients, the overall rate of infection was approximately 237 per 100 patient years (95% CI 197 - 285) at the 6-month primary endpoint.
+In the clinical trial on induction of remission, which included 99 adult patients with severe GPA and MPA, the overall rate of infection was approximately 237 per 100 patient years (95% CI 197 - 285) at the 6-month primary endpoint.
 Infections were predominately mild to moderate and consisted mostly of upper respiratory tract infections, herpes zoster and urinary tract infections.
 The rate of serious infections was approximately 25 per 100 patient years.
 The most frequently reported serious infection in the MabThera group was pneumonia at a frequency of 4%.
 
-In the maintenance therapy clinical trial, 30/57 (53%) patients in the MabThera arm experienced infections.
+In the maintenance therapy clinical trial in adult patients, 30/57 (53%) patients in the MabThera arm experienced infections.
 The incidence of all grade infections was similar between the arms.
 Infections were predominately mild to moderate.
 The most common infections in the MabThera arm included upper respiratory tract infections, gastroenteritis, urinary tract infections and herpes zoster.
 The incidence of serious infections was similar in both arms (approximately 12%).
 The most commonly reported serious infection in the MabThera group was mild or moderate bronchitis.
 
+In the clinical trial in paediatric patients with severe, active GPA and MPA, 91% of reported infections were non-serious and 90% were mild to moderate.
+The most common infections in the overall phase were: upper respiratory tract infections (URTIs) (48%), influenza (24%), conjunctivitis (20%), nasopharyngitis (20%), lower respiratory tract infections (16%), sinusitis (16%), viral URTIs (16%), ear infection (12%), gastroenteritis (12%), pharyngitis (12%), urinary tract infection (12%).
+Serious infections were reported in 7 patients (28%), and included: influenza (2 patients [8%]) and lower respiratory tract infection (2 patients [8%]) as the most frequently reported events.
+
 Malignancies
-In the clinical trial on induction of remission, the incidence of malignancy in MabThera treated patients in the granulomatosis with polyangiitis and microscopic polyangiitis clinical study was 2.00 per 100 patient years at the study common closing date (when the final patient had completed the follow-up period).
+In the clinical trial on induction of remission in adult patients, the incidence of malignancy in MabThera treated patients in the GPA and MPA clinical study was 2.00 per 100 patient years at the study common closing date (when the final patient had completed the follow-up period).
 On the basis of standardised incidence ratios, the incidence of malignancies appears to be similar to that previously reported in patients with ANCA-associated vasculitis.
+
+In the paediatric clinical trial, no malignancies were reported with a follow-up period of up to 54 months.
 
 Cardiovascular adverse reactions
 In the clinical trial on induction of remission, cardiac events occurred at a rate of approximately 273 per 100 patient years (95% CI 149-470) at the 6-month primary endpoint.
@@ -379,12 +419,17 @@ Hepatitis-B reactivation
 A small number of cases of hepatitis-B reactivation, some with fatal outcome, have been reported in granulomatosis with polyangiitis and microscopic polyangiitis patients receiving MabThera in the postmarketing setting.
 
 Hypogammaglobulinaemia
-Hypogammaglobulinaemia (IgA, IgG or IgM below the lower limit of normal) has been observed in granulomatosis with polyangiitis and microscopic polyangiitis patients treated with MabThera.
+Hypogammaglobulinaemia (IgA, IgG or IgM below the lower limit of normal) has been observed in adult and pediatric GPA and MPA patients treated with MabThera.
+
+In the induction of remission clinical trial in adult patients, at 6 months, in the MabThera group, 27%, 58% and 51% of patients with normal immunoglobulin levels at baseline had low IgA, IgG and IgM levels, respectively, compared to 25%, 50% and 46% in the cyclophosphamide group.
 The rate of overall infections and serious infections was not increased after the development of low IgA, IgG or IgM.
 
-In the induction of remission clinical trial, at 6 months, in the MabThera group, 27%, 58% and 51% of patients with normal immunoglobulin levels at baseline had low IgA, IgG and IgM levels, respectively, compared to 25%, 50% and 46% in the cyclophosphamide group.
-In the maintenance therapy clinical trial, no clinically meaningful differences between the two treatment arms or decreases in total immunoglobulin, IgG, IgM or IgA levels were observed throughout the trial.
+In the maintenance therapy clinical trial in adult patients, no clinically meaningful differences between the two treatment arms or decreases in total immunoglobulin, IgG, IgM or IgA levels were observed throughout the trial.
 
+In the paediatric clinical trial, during the overall study period, 3/25 (12%) patients reported an event of hypogammaglobulinaemia, 18 patients (72%) had prolonged (defined as Ig levels below lower limit of normal for at least 4 months) low IgG levels (of whom 15 patients also had prolonged low IgM).
+Three patients received treatment with intravenous immunoglobulin (IV-IG).
+Based on limited data, no firm conclusions can be drawn regarding whether prolonged low IgG and IgM led to an increased risk of serious infection in these patients.
+The consequences of long term B cell depletion in paediatric patients are unknown.
 Neutropenia
 In the induction of remission clinical trial, 24% of patients in the MabThera group (single course) and 23% of patients in the cyclophosphamide group developed CTC grade 3 or greater neutropenia.
 Neutropenia was not associated with an observed increase in serious infection in MabThera-treated patients.
@@ -407,9 +452,9 @@ The safety profile of MabThera in patients with PV was consistent with that obse
 
 Tabulated list of adverse reactions
 
-Adverse drug reactions presented in Table 5 were adverse events which occurred at a rate of ≥ 5% among MabThera-treated PV patients, with a ≥ 2% absolute difference in incidence between the MabThera-treated group and the standard-dose prednisone group up to month 24.
+Adverse drug reactions presented in Table 7 were adverse events which occurred at a rate of ≥ 5% among MabThera-treated PV patients, with a ≥ 2% absolute difference in incidence between the MabThera-treated group and the standard-dose prednisone group up to month 24.
 No patients were withdrawn due to ADRs.
-Table 5 Adverse drugs reactions for MabThera-treated pemphigus vulgaris patients in the clinical study up to month 24
+Table 7 Adverse drugs reactions for MabThera-treated pemphigus vulgaris patients in the clinical study up to month 24
 
 | System Organ Class Adverse drug reaction | MabThera + low-dose prednisone (n = 38) |
 | --- | --- |
@@ -465,105 +510,6 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-[MabThera 500 mg concentrate for solution for infusion]
-
-| System Organ Class | Very Common | Common | Uncommon | Rare | Very Rare | Not known |
-| --- | --- | --- | --- | --- | --- | --- |
-| Infections and infestations | bacterial infections, viral infections, +bronchitis | sepsis, +pneumonia, +febrile infection, +herpes zoster, +respiratory tract infection, fungal infections, infections of unknown aetiology, +acute bronchitis, +sinusitis, hepatitis B1 |  | serious viral infection2 Pneumocystis jirovecii | PML |  |
-| Blood and lymphatic system disorders | neutropenia, leucopenia, +febrile neutropenia, +thrombocyt openia | anaemia, +pancytopenia, +granulocytopeni a | coagulation disorders, aplastic anaemia, haemolytic anaemia, lymphadenopa thy |  | transient increase in serum IgM levels3 | late neutropenia3 |
-| Immune system disorders | infusion-related reactions4, angioedema | hypersensitivity |  | anaphylaxis | tumour lysis syndrome, cytokine release syndrome4, serum sickness | infusion-related acute reversible t4 hrombocytopenia |
-| Metabolism and nutrition disorders |  | hyperglycaemia, weight decrease, peripheral oedema, face oedema, increased LDH, hypocalcaemia |  |  |  |  |
-| Psychiatric disorders |  |  | depression, nervousness, |  |  |  |
-| Nervous system disorders |  | paraesthesia, hypoaesthesia, agitation, insomnia, vasodilatation, dizziness, anxiety | dysgeusia |  | peripheral neuropathy, facial nerve palsy5 | cranial neuropathy8, loss of other senses5 |
-| Eye disorders |  | lacrimation disorder, conjunctivitis |  |  | severe vision loss5 |  |
-| Ear and labyrinth disorders |  | tinnitus, ear pain |  |  |  | hearing loss5 |
-| Cardiac disorders |  | +myocardial infarction4 and 6, arrhythmia, +atrial fibrillation, tachycardia, +cardiac disorder | +left ventricular failure, +supraventricu lar tachycardia, +ventricular tachycardia, +angina, +myocardial ischaemia, bradycardia | severe cardiac disoders 4 and 6 | haneda 6r t failure4 |  |
-| Vascular disorders |  | hypertension, orthostatic hypotension, hypotension |  |  | vasculitis (predominatel y cutaneous), leukocytoclast ic vasculiti |  |
-| Respiratory, thoracic and mediastinal disorders |  | Bronchospasm4, respiratory disease, chest pain, dyspnoea, increased cough, rhinitis | asthma, bronchiolitis obliterans, lung disorder, hypoxia | interstitial lung disease7 | respiratory failure4 | lung infiltration |
-| Gastrointestin al disorders | nausea | vomiting , diarrhoea, abdominal pain, dysphagia, stomatitis, constipation, dyspepsia, anorexia, throat irritation | abdominal enlargement |  | gastro-intestin al perforation7 |  |
-| Skin and subcutaneous tissue disorders | pruritus, rash, +alopecia | urticaria, sweating, night sweats, +skin disorder |  |  | severe bullous skin reactions, Stevens-Johns on Syndrome toxic epidermal necrolysis (Lyell’s Syndrome) 7, |  |
-| Musculoskelet al, connective tissue and bone disorders |  | hypertonia, myalgia, arthralgia, back pain, neck pain, pain |  |  |  |  |
-| Renal and urinary disorders |  |  |  |  | renal failure4 |  |
-| General disorders and administration site conditions | fever , chills, asthenia, headache | tumour pain, flushing, malaise, cold syndrome, +fatigue, +shivering, +multi-organ failure4 | infusion site pain |  |  |  |
-| Investigations | decreased IgG levels |  |  |  |  |  |
-| For each term, the frequency count was based on reactions of all grades (from mild to severe), except for terms marked with "+" where the frequency count was based only on severe (≥ grade 3 NCI common toxicity criteria) reactions. Only the highest frequency observed in the trials is reported 1 includes reactivation and primary infections; frequency based on R-FC regimen in relapsed/refractory CLL 2 see also section infection below 3 see also section haematologic adverse reactions below 4 see also section infusionrelated reactions below. Rarely fatal cases reported 5 signs and symptoms of cranial neuropathy. Occurred at various times up to several months after completion of MabThera therapy 6 observed mainly in patients with prior cardiac condition and/or cardiotoxic chemotherapy and were mostly associated with IRRs 7 includes fatal cases |  |  |  |  |  |  |
-
-The following terms have been reported as adverse events during clinical trials, however, were reported at a similar or lower incidence in the MabThera-arms compared to control arms: haematotoxicity, neutropenic infection, urinary tract infection, sensory disturbance, pyrexia.
-
-Signs and symptoms suggestive of an IRR were reported in more than 50% of patients in clinical trials, and were predominantly seen during the first infusion, usually in the first one to two hours.
-Severe IRRs (such as bronchospasm, hypotension) occurred in up to 12% of the cases.
-The incidence of infusion-related symptoms decreased substantially with subsequent infusions and is <1% of patients by the eighth cycle of MabThera-containing treatment.
-
-The incidence of thrombocytopenia was low ( <1% , grade 3/4 ) and was not different between treatment arms.
-
-During the treatment period (induction treatment phase comprising of R-CHOP for at most eight cycles), four patients (2 %) treated with R-CHOP, all with cardiovascular risk factors, experienced thromboembolic cerebrovascular accidents during the first treatment cycle.
-In contrast, three patients (1.5 %) had cerebrovascular events in the CHOP group, all of which occurred during the follow-up period.
-
-Gastrointestinal perforation in some cases leading to death has been observed in patients receiving MabThera for treatment of non-Hodgkgin lymphoma.
-
-The incidence of ADRs of all grades and grade 3 /4 ADR was similar in elderly patients compared to younger patients (<65 years).
-
-There was a higher incidence of grade 3/4 ADRs in patients with bulky disease than in patients without bulky disease (25.6 % vs. 15.4 %).
-
-Frequencies are defined as very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100) and very rare (<1/10,000).
-
-The most frequent adverse reactions considered due to receipt of MabThera IRRs.
-
-| System Organ Class | Very Common | Common | Uncommon | Rare | Very rare |
-| --- | --- | --- | --- | --- | --- |
-| Infections and infestations | upper respiratory tract infection, urinary tract infections | Bronchitis, sinusitis, gastroenteritis, tinea pedis |  |  | PML, reactivation of hepatitis B |
-| Blood and lymphatic system disorders |  | neutropenia1 |  | late neutropenia2 | Serum sickness-like reaction |
-| Cardiac disorders |  |  |  | Angina pectoris, atrial fibrillation, heart failure, myocardial infarction | Atrial flutter |
-| Immune system disorders | 3Infusion-related reactions (hypertension, nausea, rash, pyrexia, pruritus, urticaria, throat irritation, hot flush, hypotension, rhinitis, rigors, tachycardia, fatigue, oropharyngeal pain, peripheral oedema, erythma) |  | 3Infusion related reactions (generalized oedema, bronchospasm, wheezing, laryngeal oedema, angioneurotic oedema, generalized pruritis, anaphylaxis, anaphylactoid reaction) |  |  |
-| General disorders and administration site conditions |  |  |  |  |  |
-| Metabolism and nutritional disorders |  | hypercholesterolemia |  |  |  |
-| Nervous system disorders | headache | paraesthesia, migraine, dizziness, sciatica |  |  |  |
-| Skin and subcutaneous tissue disorders |  | alopecia |  |  | Toxic Epidermal Necrolysis (Lyell’s Syndrome), Stevens-Johnson Syndrome5 |
-| Psychiatric disorders |  | depression, anxiety |  |  |  |
-| Gastrointestinal disorders |  | dyspepsia, diarrhoea, gastro-oesophageal reflux, mouth ulceration, upper abdominal pain |  |  |  |
-| Musculo skeletal disorders |  | arthralgia / musculoskeletal pain, osteoarthritis, bursitis |  |  |  |
-| Investigations | decreased IgM levels4 | decreased IgG levels4 |  |  |  |
-| 1 Frequency category derived from laboratory values collected as part of routine laboratory monitoring in clinical trials 2 Frequency category derived from post-marketing data. 3 Reactions occurring during or within 24 hours of infusion. See also infusionrelated reactions below. IRRs may occur as a result of hypersensitivity and/or to the mechanism of action. 4 Includes observations collected as part of routine laboratory monitoring. 5 Includes fatal cases |  |  |  |  |  |
-
-This is mostly accounted for by IRRs (most frequent during the first treatment course), RA exacerbation and infections all of which were more frequent in the first 6 months of treatment.
-
-The proportion of CTC Grade 3 events, and of IRRs leading to withdrawal decreased by course and were rare from course 3 onwards.
-
-The incidence of infections that were serious or required IV antibiotics, was approximately 4 per 100 patient years.
-Lower respiratory tract infections (including pneumonia) have been reported during clinical trials, at a similar incidence in the MabThera-arms compared to control arms.
-
-Reactivation of hepatitis B infection has also been very rarely reported in rheumatoid arthritis patients receiving MabThera (see Section 4.4).
-
-In a further clinical study, a total of 57 severe active GPA and MPA patients in disease remission were treated with MabThera for the maintenance of remission (see section 5.1)
-
-| System Organ Class Adverse drug reaction1 | Rituximab (n=57) |
-| --- | --- |
-| Infections and infestations |  |
-| Bronchitis | 14% |
-| Rhinitis | 5% |
-| General disroders and administration site conditions |  |
-| Pyrexia | 9% |
-| Influenza-like illness | 5% |
-| Oedema peripheral | 5% |
-| Gastrointestinal disorders |  |
-| Diarrhoea | 7% |
-| Respiratory, thoracic and mediastinal disorders |  |
-| Dyspnoea | 9% |
-| Injury, poisoning and procedural complications |  |
-| Infusion related reactions2 | 12% |
-| 1 Events were considered ADRs only after thorough assessment and where a causal relationship between the medicinal product and the adverse event was at least a reasonable possibility. 2Details on infusion related reactions are provided in the description of selected adverse drug reactions section. |  |
-
-In the maintenance therapy clinical trial, 7/57 (12%) patients in the MabThera arm expererienced at least one infusion-related reaction.
-
-In the clinical trial on induction of remission, the incidence of malignancy in MabThera treated patients in the granulomatosis with polyangiitis and microscopic polyangiitis clinical trial was 2.00 per 100 patient years at the trial common closing date (when the final patient had completed the follow-up period).
-
-The rate of overall infections or serious infections was not increased after the development of low IgA, IgG or IgM.
-
-The safety profile of MabThera in patients with PV was consistent with that observed in RA and GPA/ MPA patients.
-
-Adverse drug reactions presented in Table 4 were adverse events which occurred at a rate of ≥ 5% among MabThera-treated PV patients, with a ≥ 2% absolute difference in incidence between the MabThera-treated group and the standard-dose prednisone group up to month 24.
-Table 5 Adverse drugs reactions for MabThera-treated pemphigus vulgaris patients from clinical study up to month 24
-
 [MabThera 1400 mg solution for subcutaneous injection]
 
 The information provided in this section pertains to the use of MabThera in oncology.
@@ -584,12 +530,18 @@ InSparkThera, no severe administration-related reactions were reported.
 
 Adverse reactions reported in MabThera intravenous formulation usage
 
+Experience from non-Hodgkin’s lymphoma and chronic lymphocytic leukaemia
+
 The most frequently observed adverse drug reactions (ADRs) in patients receiving MabThera were infusion-related reactions which occurred in the majority of patients during the first infusion.
 The incidence of infusion-related symptoms decreases substantially with subsequent infusions and is less than 1 % after eight doses of MabThera.
 Infectious events (predominantly bacterial and viral) occurred in approximately 30-55 % of patients during clinical trials in patients with NHL and in 30-50 % of patients during clinical trial in patients with CLL.
 
 - Infusion-related reactions (including cytokine-release syndrome, tumour-lysis syndrome), see section 4.4.
 - Cardiovascular disorders, see section 4.4.
+
+The frequencies of ADRs reported with MabThera alone or in combination with chemotherapy are summarised in Table 1.
+
+Table 1 ADRs reported in clinical trials or during postmarketing surveillance in patients with NHL and CLL disease treated with MabThera monotherapy/maintenance or in combination with chemotherapy
 
 | System Organ Class | Very Common | Common | Uncommon | Rare | Very Rare | Not known |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -601,7 +553,7 @@ Infectious events (predominantly bacterial and viral) occurred in approximately 
 | Nervous system disorders |  | paraesthesia, hypoaesthesia, agitation, insomnia, vasodilatation, dizziness, anxiety | dysgeusia |  | peripheral neuropathy, facial nerve palsy5 | cranial neuropathy, loss of other senses5 |
 | Eye disorders |  | lacrimation disorder, conjunctivitis |  |  | severe vision loss5 |  |
 | Ear and labyrinth disorders |  | tinnitus, ear pain |  |  |  | hearing loss5 |
-| Cardiac disorders |  | +myocardial infarction4 and 6, arrhythmia, +atrial fibrillation, tachycardia, +cardiac disorder | +left ventricular failure, +supraventricu lar tachycardia, +ventricular tachycardia, +angina, +myocardial ischaemia, bradycardia | severe cardiac disorders 4 and 6 | haneda 6r t failure4 |  |
+| Cardiac disorders |  | +myocardial infarction4 and 6, arrhythmia, +atrial fibrillation, tachycardia, +cardiac disorder | +left ventricular failure, +supraventricu lar tachycardia, +ventricular tachycardia, +angina, +myocardial ischaemia, bradycardia | severe cardiac disorders 4 and 6 | haned a6r t failure4 |  |
 | Vascular disorders |  | hypertension, orthostatic hypotension, hypotension |  |  | vasculitis (predominatel y cutaneous), leukocytoclast ic vasculitis |  |
 | Respiratory, thoracic and mediastinal disorders |  | Bronchospasm4, respiratory disease, chest pain, dyspnoea, increased cough, rhinitis | asthma, bronchiolitis obliterans, lung disorder, hypoxia | interstitial lung disease7 | respiratory failure4, | lung infiltration, |
 | Gastrointestin al disorders | nausea | vomiting , diarrhoea, abdominal pain, dysphagia, stomatitis, constipation, dyspepsia, anorexia, throat irritation | abdominal enlargement |  | gastro-intestin al perforation7 |  |
@@ -611,6 +563,8 @@ Infectious events (predominantly bacterial and viral) occurred in approximately 
 | General disorders and administration site conditions | fever , chills, asthenia, headache | tumour pain, flushing, malaise, cold syndrome, +fatigue, +shivering, +multi-organ failure4 | infusion site pain |  |  |  |
 | Investigations | decreased IgG levels |  |  |  |  |  |
 | For each term, the frequency count was based on reactions of all grades (from mild to severe), except for terms marked with "+" where the frequency count was based only on severe (≥ grade 3 NCI common toxicity criteria) reactions. Only the highest frequency observed in the trials is reported 1 includes reactivation and primary infections; frequency based on R-FC regimen in relapsed/refractory CLL 2 see also section infection below 3 see also section haematologic adverse reactions below 4 see also section infusion-related reactions below. Rarely fatal cases reported 5 signs and symptoms of cranial neuropathy. Occurred at various times up to several months after completion of MabThera therapy 6 observed mainly in patients with prior cardiac condition and/or cardiotoxic chemotherapy and were mostly associated with infusion-related reactions 7 includes fatal cases |  |  |  |  |  |  |
+
+The following terms have been reported as adverse events during clinical trials, however, were reported at a similar or lower incidence in the MabThera-arms compared to control arms: haematotoxicity, neutropenic infection, urinary tract infection, sensory disturbance, pyrexia.
 
 Signs and symptoms suggestive of an infusion-related reaction were reported in more than 50 % of patients in clinical trials involving MabThera intravenous formulation, and were predominantly seen during the first infusion, usually in the first one to two hours.
 Severe infusion-related reactions (such as bronchospasm, hypotension) occurred in up to 12 % of the cases.
@@ -631,9 +585,14 @@ level within 4 months.
 
 Cardiac events were reported as serious adverse events (including atrial fibrillation, myocardial infarction, left ventricular failure, myocardial ischemia) in 3% of patients treated with MabThera compared to <1% on observation.
 
+During the treatment period (induction treatment phase comprising of R-CHOP for at most eight cycles), four patients (2 %) treated with R-CHOP, all with cardiovascular risk factors, experienced thromboembolic cerebrovascular accidents during the first treatment cycle.
 The reported cases had recognized risk factors for PRES/RPLS, including the patients’ underlying disease, hypertension, immunosuppressive therapy and/or chemotherapy.
 
 Gastrointestinal perforation in some cases leading to death has been observed in patients receiving MabThera for treatment of Non-Hodgkin’s lymphoma (NHL).
+
+The incidence of ADRs of all grades and grade 3 /4 ADR was similar in elderly patients compared to younger patients (<65 years).
+
+There was a higher incidence of grade 3/4 ADRs in patients with bulky disease than in patients without bulky disease (25.6 % vs. 15.4 %).
 
 [MabThera 1600 mg solution for subcutaneous injection]
 

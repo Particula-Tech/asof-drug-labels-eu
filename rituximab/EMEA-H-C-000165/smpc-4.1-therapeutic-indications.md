@@ -4,13 +4,14 @@ MabThera is indicated in adults for the following indications:
 
 Non-Hodgkin’s lymphoma (NHL)
 
-MabThera is indicated for the treatment of previously untreated patients with stage III-IV follicular lymphoma in combination with chemotherapy.
+MabThera is indicated for the treatment of previously untreated adult patients with stage III-IV follicular lymphoma in combination with chemotherapy.
 
-MabThera maintenance therapy is indicated for the treatment of follicular lymphoma patients responding to induction therapy.
+MabThera maintenance therapy is indicated for the treatment of adult follicular lymphoma patients responding to induction therapy.
 
-MabThera monotherapy is indicated for treatment of patients with stage III-IV follicular lymphoma who are chemoresistant or are in their second or subsequent relapse after chemotherapy.
+MabThera monotherapy is indicated for treatment of adult patients with stage III-IV follicular lymphoma who are chemoresistant or are in their second or subsequent relapse after chemotherapy.
 
-MabThera is indicated for the treatment of patients with CD20 positive diffuse large B cell non-Hodgkin’s lymphoma in combination with CHOP (cyclophosphamide, doxorubicin, vincristine, prednisolone) chemotherapy.
+MabThera is indicated for the treatment of adult patients with CD20 positive diffuse large B cell non-Hodgkin’s lymphoma in combination with CHOP (cyclophosphamide, doxorubicin, vincristine, prednisolone) chemotherapy.
+MabThera in combination with chemotherapy is indicated for the treatment of paediatric patients (aged ≥ 6 months to < 18 years old) with previously untreated advanced stage CD20 positive diffuse large B-cell lymphoma (DLBCL), Burkitt lymphoma (BL)/Burkitt leukaemia (mature B-cell acute leukaemia) (BAL) or Burkitt-like lymphoma (BLL).
 
 Chronic lymphocytic leukaemia (CLL)
 
@@ -29,17 +30,21 @@ Granulomatosis with polyangiitis and microscopic polyangiitis
 
 MabThera, in combination with glucocorticoids, is indicated for the treatment of adult patients with severe, active granulomatosis with polyangiitis (Wegener’s) (GPA) and microscopic polyangiitis (MPA).
 
+MabThera, in combination with glucocorticoids, is indicated for the induction of remission in paediatric patients (aged ≥ 2 to < 18 years old) with severe, active GPA (Wegener’s) and MPA.
+
 Pemphigus vulgaris
 
 MabThera is indicated for the treatment of patients with moderate to severe pemphigus vulgaris (PV).
 
-[MabThera 500 mg concentrate for solution for infusion]
-
-(all sentences already above)
-
 [MabThera 1400 mg solution for subcutaneous injection]
 
 MabThera is indicated in adults for Non-Hodgkin’s lymphoma (NHL):
+
+MabThera is indicated for the treatment of previously untreated patients with stage III-IV follicular lymphoma in combination with chemotherapy.
+
+MabThera maintenance therapy is indicated for the treatment of follicular lymphoma patients responding to induction therapy.
+
+MabThera is indicated for the treatment of patients with CD20 positive diffuse large B cell non-Hodgkin’s lymphoma in combination with CHOP (cyclophosphamide, doxorubicin, vincristine, prednisolone) chemotherapy.
 
 [MabThera 1600 mg solution for subcutaneous injection]
 
