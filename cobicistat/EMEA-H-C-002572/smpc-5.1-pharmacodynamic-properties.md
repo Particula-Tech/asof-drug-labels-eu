@@ -8,9 +8,9 @@ Cobicistat is a selective, mechanism-based inhibitor of cytochromes P450 of the 
 Inhibition of CYP3A-mediated metabolism by cobicistat enhances the systemic exposure of CYP3A substrates (such as atazanavir or darunavir) that have limited oral bioavailability and a short half-life due to CYP3A-dependent metabolism.
 
 The effect of cobicistat on atazanavir pharmacokinetics was demonstrated in the pharmacokinetic sub-study (n = 48) of the phase 3 Study GS-US-216-0114 in which HIV-1 infected patients received atazanavir 300 mg + cobicistat 150 mg or atazanavir 300 mg + ritonavir 100 mg, both in combination with emtricitabine and tenofovir disoproxil fumarate fixed-dose combination.
-The steady-state pharmacokinetic parameters of atazanavir were comparable when boosted with cobicistat versus ritonavir (see Table 4).
+The steady-state pharmacokinetic parameters of atazanavir were comparable when boosted with cobicistat versus ritonavir (see Table 5).
 
-Table 4: Pharmacokinetic parameters [mean ± SD (%CV)] of atazanavir in the pharmacokinetic sub-study of phase 3 Study GS-US-216-0114
+Table 5: Pharmacokinetic parameters [mean ± SD (%CV)] of atazanavir in the pharmacokinetic sub-study of phase 3 Study GS-US-216-0114
 
 | Atazanavir pharmacokinetics parameters | Atazanavir + cobicistata (n = 22) | Atazanavir + ritonavira (n = 26) |
 | --- | --- | --- |
@@ -21,9 +21,9 @@ Table 4: Pharmacokinetic parameters [mean ± SD (%CV)] of atazanavir in the phar
 a Plus background regimen of emtricitabine 200 mg and tenofovir disoproxil fumarate 300 mg fixed-dose combination
 
 The pharmacokinetic enhancing effect of cobicistat on darunavir was evaluated in a phase 1 clinical Study GS-US-216-0115 in 31 healthy subjects that were administered darunavir 800 mg in combination with cobicistat 150 mg or ritonavir 100 mg, all once daily, for 10 days.
-The steady-state pharmacokinetic parameters of darunavir were comparable when boosted with cobicistat versus ritonavir (see Table 5).
+The steady-state pharmacokinetic parameters of darunavir were comparable when boosted with cobicistat versus ritonavir (see Table 6).
 
-Table 5: Pharmacokinetic parameters [mean ± SD (%CV)] of darunavir 800 mg co-administered with cobicistat 150 mg or ritonavir 100 mg once daily
+Table 6: Pharmacokinetic parameters [mean ± SD (%CV)] of darunavir 800 mg co-administered with cobicistat 150 mg or ritonavir 100 mg once daily
 
 | Darunavir pharmacokinetics parameters | Darunavir 800 mg + cobicistat 150 mg once daily (n = 31) | Darunavir 800 mg + ritonavir 100 mg once daily (n = 31) |
 | --- | --- | --- |
@@ -34,10 +34,10 @@ Table 5: Pharmacokinetic parameters [mean ± SD (%CV)] of darunavir 800 mg co-ad
 Antiviral activity in vitro
 
 Cobicistat has no detectable antiviral activity against HIV-1, HBV or HCV and does not antagonise the antiviral effect of HIV inhibitors.
-
 Clinical experience
 
 Antiviral efficacy data from randomised controlled studies is available for cobicistat-boosted atazanavir, but not for cobicistat-boosted darunavir (see sections 4.4 and 5.2).
+
 In treatment-naïve HIV-1 infected patients
 The safety and efficacy of cobicistat with atazanavir in HIV-1 infected patients were evaluated in the randomised, double-blind, active-controlled phase 3 Study GS-US-216-0114 in HIV-1 infected patients with baseline estimated creatinine clearance above 70 ml/min who were treatment-naïve
 (n = 692).
@@ -49,9 +49,9 @@ Virologic response rate was evaluated in both treatment arms and virologic respo
 (< 50 HIV-1 RNA copies/ml).
 Viruses were known to be susceptible to atazanavir, emtricitabine and tenofovir disoproxil fumarate at baseline.
 
-Baseline characteristics and treatment outcomes at weeks 48 and 144 for Study GS-US-216-0114 are presented in Tables 6 and 7, respectively.
+Baseline characteristics and treatment outcomes at weeks 48 and 144 for Study GS-US-216-0114 are presented in Tables 7 and 8, respectively.
 
-Table 6: Demographic and baseline disease characteristics of antiretroviral treatment-naïve HIV-1 infected adult subjects in Study GS-US-216-0114
+Table 7: Demographic and baseline disease characteristics of antiretroviral treatment-naïve HIV-1 infected adult subjects in Study GS-US-216-0114
 
 |  |  | Atazanavir + |
 | --- | --- | --- |
@@ -81,7 +81,7 @@ Table 6: Demographic and baseline disease characteristics of antiretroviral trea
 | ≤ 200 cells/mm3 |  |  |
 
 a Plus background regimen of emtricitabine 200 mg and tenofovir disoproxil fumarate 300 mg fixed-dose combination
-Table 7: Virologic outcome of randomised treatment of Study GS-US-216-0114 at weeks 48 and
+Table 8: Virologic outcome of randomised treatment of Study GS-US-216-0114 at weeks 48 and
 
 |  | Week 48a |  | Week 144b |  |
 | --- | --- | --- | --- | --- |
@@ -114,9 +114,9 @@ f Plus background regimen of emtricitabine 200 mg and tenofovir disoproxil fumar
 Atazanavir + cobicistat + emtricitabine and tenofovir disoproxil fumarate fixed-dose combination was non-inferior in achieving HIV-1 RNA < 50 copies/ml when compared to atazanavir + ritonavir
 + emtricitabine and tenofovir disoproxil fumarate fixed-dose combination.
 
-Changes in CD4+ cell counts through 48 and 144 weeks in Study GS-US-216-0114 are presented in Table 8.
+Changes in CD4+ cell counts through 48 and 144 weeks in Study GS-US-216-0114 are presented in Table 9.
 
-Table 8: Changes in CD4+ cell counts through weeks 48 and 144 in Study GS-US-216-0114
+Table 9: Changes in CD4+ cell counts through weeks 48 and 144 in Study GS-US-216-0114
 
 |  | Week 48 |  | Week 144 |  |
 | --- | --- | --- | --- | --- |
@@ -133,5 +133,18 @@ Among the 19 patients,
 1 developed the emtricitabine-associated resistance substitution M184V with no tenofovir- or primary protease inhibitor-associated resistance substitutions.
 
 Paediatric population
+
+The safety and efficacy of cobicistat with atazanavir or darunavir were evaluated in an open-label phase 2/3 Study GS-US-216-0128 in 21 HIV-1 infected virologically suppressed paediatric patients between the ages of 12 and < 18 years with baseline estimated creatinine clearance ≥90 mL/min.
+Patients received cobicistat 150 mg once daily with either atazanavir 300 mg once daily (n = 14) or darunavir 800 mg once daily (n = 7), each administered with a background regimen containing two NRTIs.
+
+The mean age of patients was 14 years (range: 12 to 17); 62% were male; 38% were Asian, 33% were White, and 19% were Black.
+At baseline, 20/21 subjects had plasma HIV-1 RNA < 50 copies/mL and 1 subject had plasma HIV-1 RNA = 50 copies/mL.
+
+In patients treated with cobicistat + atazanavir, the median baseline CD4+ cell count and CD4+% was 770 cells/mm3 (range: 486 to 1765) and 33% (range: 23% to 45%), respectively.
+At Week 48, 93% (13/14) of patients retained HIV-1 RNA < 50 copies/mL and the median change from baseline in CD4+ cell count and CD4+% was -60 cells/mm3 and -0.3%, respectively.
+In patients treated with cobicistat + darunavir, the median baseline CD4+ cell count and CD4+% was 1117 cells/mm3
+(range: 658 to 2416) and 45% (range: 28% to 56%), respectively.
+At Week 48, 86% (6/7) of patients retained HIV-1 RNA < 50 copies/mL (1 subject had missing data) and the median change from baseline in CD4+ cell count and CD4+% was -342 cells/mm3 and -6%, respectively.
+Overall, 3 of 21 patients qualified for resistance analysis: 1 patient showed no resistance in protease or reverse transcriptase and 2 had missing data due to assay failure.
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with cobicistat in one or more subsets of the paediatric population in treatment of HIV-1 infection (see section 4.2 for information on paediatric use).

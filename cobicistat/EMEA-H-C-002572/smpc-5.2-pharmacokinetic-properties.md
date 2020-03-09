@@ -18,7 +18,6 @@ Biotransformation
 Cobicistat is metabolised via CYP3A (major)- and CYP2D6 (minor)-mediated oxidation and does not undergo glucuronidation.
 Following oral administration of [14C]cobicistat, 99% of circulating radioactivity in plasma was unchanged cobicistat.
 Low levels of metabolites are observed in urine and faeces and do not contribute to the CYP3A inhibitory activity of cobicistat.
-
 Elimination
 
 Following oral administration of [14C]cobicistat, 86% and 8.2% of the dose were recovered in faeces and urine, respectively.
@@ -35,13 +34,16 @@ Pharmacokinetics of cobicistat have not been fully evaluated in the elderly (65 
 Gender
 
 No clinically relevant pharmacokinetic differences due to gender have been identified for cobicistat.
+
 Ethnicity
 
 No clinically relevant pharmacokinetic differences due to ethnicity have been identified for cobicistat.
 
 Paediatric population
 
-The pharmacokinetics of cobicistat in paediatric subjects have not been established.
+In paediatric patients aged 12 to < 18 years who received cobicistat-boosted atazanavir (n = 14) or darunavir (n = 7) in Study GS-US-216-0128, exposures of atazanavir and cobicistat (AUCtau, Cmax, and Ctrough) were higher (24% to 180%) than in adults; however, the increases were not considered clinically significant as the safety profiles were similar in adult and paediatric patients.
+Mean darunavir Ctrough was lower (61%) in the paediatric patients relative to adults but was not considered clinically significant based on exposure-response relationships.
+The pharmacokinetics of cobicistat in paediatric subjects < 12 years of age or < 35 kg have not been established.
 
 Renal impairment
 

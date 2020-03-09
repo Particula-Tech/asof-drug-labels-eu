@@ -3,18 +3,18 @@
 Summary of the safety profile
 
 Adverse reactions for cobicistat-boosted atazanavir were consistent with the safety profile of ritonavir-boosted atazanavir.
-The most frequently reported adverse reactions to cobicistat-boosted atazanavir were associated with elevated bilirubin levels (see Table 3).
+The most frequently reported adverse reactions to cobicistat-boosted atazanavir were associated with elevated bilirubin levels (see Table 4).
 
 Tabulated summary of adverse reactions
 
 The safety of cobicistat is based on 144-week data from a phase 3, randomised, active-controlled clinical Study (GS-US-216-0114), in which 692 treatment-naïve patients received at least one dose of cobicistat-boosted atazanavir (n = 344) or ritonavir-boosted atazanavir (n = 348) administered with emtricitabine and tenofovir disoproxil fumarate fixed-dose combination.
 Of these 692 patients, 613 (300 atazanavir/cobicistat and 313 atazanavir/ritonavir) and 496 (250 atazanavir/cobicistat and 246 atazanavir/ritonavir) received at least 48 and 144 weeks of treatment, respectively.
 
-Adverse reactions to cobicistat-boosted atazanavir during 144 weeks of clinical trial experience from Study GS-US-216-0114 are listed in Table 3, below, by body system organ class and frequency.
+Adverse reactions to cobicistat-boosted atazanavir during 144 weeks of clinical trial experience from Study GS-US-216-0114 are listed in Table 4, below, by body system organ class and frequency.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000), and not known (frequency cannot be estimated from the available data).
 
-Table 3: Tabulated summary of adverse reactions to cobicistat-boosted atazanavir based on experience of 144 weeks from phase 3 Study GS-US-216-0114
+Table 4: Tabulated summary of adverse reactions to cobicistat-boosted atazanavir based on experience of 144 weeks from phase 3 Study GS-US-216-0114
 
 | Frequency | Adverse reaction |
 | --- | --- |
@@ -58,6 +58,11 @@ In Study GS-US-216-0114, hyperbilirubinaemia (> 1 x ULN) was common: 97.7% in th
 However, a higher percentage of subjects in the cobicistat-boosted group had increases in total bilirubin > 2 x ULN than those in the ritonavir-boosted group (88.0% versus 80.9%).
 The rates of study drug discontinuation due to bilirubin-related adverse events were low and similar in both groups (4.9% in the cobicistat-boosted group and 4.0% in the ritonavir-boosted group).
 An increase of > 3 x ULN in alanine aminotransferase or aspartate aminotransferase was recorded in 12.8% of subjects in the cobicistat-boosted group and 9.0% in the ritonavir-boosted group.
+
+Paediatric population
+
+The safety of cobicistat was evaluated in 21 HIV-1 infected virologically suppressed paediatric patients between the ages of 12 to < 18 years through 48 weeks in an open-label clinical study (GS-US-216-0128) of cobicistat-boosted atazanavir (n = 14) or darunavir (n = 7) plus two NRTIs.
+In this study, the safety profile of cobicistat was similar to that in adults.
 
 Other special population(s)
 

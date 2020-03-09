@@ -27,6 +27,7 @@ Alternative or additional contraceptive measures are recommended when oestrogen-
 
 Plasma concentrations of drospirenone are increased following administration of drospirenone/ethinyloestradiol with atazanavir/cobicistat or with darunavir/cobicistat.
 If drospirenone/ethinyloestradiol is co-administered with atazanavir/cobicistat or darunavir/cobicistat clinical monitoring is recommended due to the potential for hyperkalemia.
+
 Data are not available to make recommendations on the use of atazanavir/cobicistat or darunavir/cobicistat with other oral contraceptives.
 Alternative forms of contraception should be considered (see section 4.5).
 
@@ -49,7 +50,6 @@ This effect on serum creatinine, leading to a decrease in the estimated creatine
 
 Tybost should not be initiated in patients with creatinine clearance less than 70 ml/min if one or more co-administered agent requires dose adjustment based on creatinine clearance (e.g. emtricitabine, lamivudine, tenofovir disoproxil or adefovir).
 See sections 4.2, 4.8 and 5.2.
-
 There are currently inadequate data to determine whether co-administration of tenofovir disoproxil and cobicistat is associated with a greater risk of renal adverse reactions compared with regimens that include tenofovir disoproxil without cobicistat.
 
 Liver disease

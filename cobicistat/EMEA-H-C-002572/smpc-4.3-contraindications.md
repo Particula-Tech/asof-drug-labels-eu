@@ -1,7 +1,6 @@
 # 4.3 Contraindications
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-
 Co-administration is contraindicated with medicinal products that are highly dependent on CYP3A for clearance and for which elevated plasma concentrations are associated with serious and/or life-threatening events.
 Therefore, Tybost should not be co-administered with medicinal products that include, but are not limited to, the following (see sections 4.4 and 4.5):
 

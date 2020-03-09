@@ -8,14 +8,22 @@ Tybost is used in combination with atazanavir or darunavir, therefore the atazan
 
 Tybost must be taken orally, once daily with food.
 
-The doses of Tybost and the co-administered protease inhibitor, atazanavir or darunavir, are presented in Table 1.
+The doses of Tybost and the co-administered protease inhibitor, atazanavir or darunavir, are presented in Tables 1 and 2.
 
-Table 1: Dosing regimens
+Table 1: Dosing regimens in adults
 
 | Dose of Tybost | Dose of HIV-1 protease inhibitor |
 | --- | --- |
 | 150 mg once daily | Atazanavir 300 mg once daily |
 |  | Darunavir 800 mg once daily |
+
+Table 2: Dosing regimens in adolescents aged 12 years and older, weighing ≥ 35 kg
+
+| Body Weight (kg) | Dose of Tybost | Dose of HIV-1 protease inhibitor |
+| --- | --- | --- |
+| ≥ 40 | 150 mg once daily | Atazanavir 300 mg once daily |
+|  |  | Darunavir 800 mg once daily |
+| 35 to < 40 | 150 mg once daily | Atazanavir 300 mg once daily |
 
 If the patient misses a dose of Tybost within 12 hours of the time it is usually taken, the patient should take Tybost with food as soon as possible and resume their normal dosing schedule in combination with atazanavir or darunavir.
 If a patient misses a dose of Tybost by more than 12 hours, the patient should not take the missed dose and simply resume the usual dosing schedule.
@@ -37,7 +45,8 @@ Hepatic impairment
 No dose adjustment of cobicistat is required in patients with mild (Child-Pugh Class A) or moderate hepatic impairment (Child-Pugh Class B). Cobicistat has not been studied in patients with severe hepatic impairment (Child-Pugh Class C). Therefore, the use of Tybost is not recommended in these patients (see sections 4.4 and 5.2).
 
 Paediatric population
-The safety and efficacy of cobicistat in children aged 0 to less than 18 years have not been established (see section 5.1).
+The safety and efficacy of cobicistat co-administered with atazanavir in children aged 0 to less than 12 years, or weighing less than 35 kg have not been established.
+The safety and efficacy of cobicistat co-administered with darunavir in children aged 0 to less than 12 years, or weighing less than 40 kg have not been established.
 No data are available.
 
 Pregnancy

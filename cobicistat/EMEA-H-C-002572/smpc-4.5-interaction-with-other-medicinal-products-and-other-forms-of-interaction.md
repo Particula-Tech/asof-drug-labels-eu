@@ -26,21 +26,22 @@ Co-administration of cobicistat with medicinal products that are strong inducers
 Concomitant use not recommended
 
 Co-administration of cobicistat with medicinal products that are moderate to weak inducers of CYP3A may result in decreased plasma concentration of cobicistat and consequently that of atazanavir or darunavir being boosted, leading to loss of therapeutic effect and possible development of resistance.
-Some examples include, but are not limited to, etravirine, efavirenz, nevirapine, and bosentan (see Table 2).
+Some examples include, but are not limited to, etravirine, efavirenz, nevirapine, and bosentan (see Table 3).
+
 Co-administration of cobicistat with medicinal products that inhibit CYP3A may result in increased plasma concentration of cobicistat.
-Some examples include, but are not limited to, itraconazole, ketoconazole, and voriconazole (see Table 2).
+Some examples include, but are not limited to, itraconazole, ketoconazole, and voriconazole (see Table 3).
 
 Cobicistat co-administered with atazanavir or darunavir should not be used in combination with another antiretroviral agent that requires pharmacoenhancement by means of co-administration with an inhibitor of CYP3A4 to reach the desired therapeutic plasma concentrations (i.e., another protease inhibitor).
 Dosing recommendations for such combinations have not been established and may result in decreased plasma concentrations of atazanavir, darunavir and/or the other antiretroviral agents that require pharmacoenhancement leading to loss of antiviral activity and development of resistance.
 
 Other interactions
 
-Interactions of cobicistat and potential co-administered medicinal products are listed in Table 2 below (increase is indicated as “↑”, decrease as “↓”, no change as “↔”).
+Interactions of cobicistat and potential co-administered medicinal products are listed in Table 3 below (increase is indicated as “↑”, decrease as “↓”, no change as “↔”).
 These interactions are based on either drug interaction studies or predicted interactions due to the expected magnitude of interaction and potential for serious and/or life-threatening events or loss of efficacy.
 
 For additional drug-drug interactions with atazanavir or darunavir, consult their respective Summary of Product Characteristics when using Tybost.
 
-Table 2: Interactions between cobicistat and other medicinal products
+Table 3: Interactions between cobicistat and other medicinal products
 
 | Medicinal product by therapeutic areas | Effects on drug levels Mean percent change in AUC, Cmax, Cmin | Recommendation concerning co-administration with cobicistat 150 mg and atazanavir or darunavir |
 | --- | --- | --- |
@@ -64,9 +65,6 @@ Table 2: Interactions between cobicistat and other medicinal products
 | Clarithromycin | Interaction not studied. Concentrations of clarithromycin may be increased upon co-administration with cobicistat. | Concentrations of clarithromycin may be increased upon co-administration of cobicistat. Alternative antibiotics should be considered for co-administration with atazanavir/cobicistat. Consult atazanavir Summary of Product Characteristics for dosing recommendations. When clarithromycin is co-administered with darunavir/cobicistat, consult the darunavir Summary of Product Characteristics for dosing recommendations. |
 | ANTI-NEOPLASTICS |  |  |
 | Dasatinib Nilotinib Vinblastine Vincristine | Interaction not studied. Concentrations of these medicinal products may be increased when co-administered with cobicistat. | Concentrations of these medicinal products may be increased when co-administered with Tybost resulting in the potential for increased adverse events usually associated with these anticancer medicinal products. |
-
-| Medicinal product by therapeutic areas | Effects on drug levels Mean percent change in AUC, Cmax, Cmin | Recommendation concerning co-administration with cobicistat 150 mg and atazanavir or darunavir |
-| --- | --- | --- |
 | GLUCOCORTICOIDS |  |  |
 | All corticosteroids excluding cutaneous products |  |  |
 | Corticosteroids primarily metabolised by CYP3A (including betamethasone, budesonide, fluticasone, mometasone, prednisone, triamcinolone). | Interaction not studied. Plasma concentrations of these medicinal products may be increased when co-administered with cobicistat, resulting in reduced serum cortisol concentrations. | Concomitant use of cobicistat and corticosteroids that are metabolised by CYP3A (e.g. fluticasone propionate or other inhaled or nasal corticosteroids) may increase the risk of development of systemic corticosteroid effects, including Cushing’s syndrome and adrenal suppression. Co-administration with CYP3A-metabolised corticosteroids is not recommended unless the potential benefit to the patient outweighs the risk, in which case patients should be monitored for systemic corticosteroid effects. Alternative corticosteroids which are less dependent on CYP3A metabolism e.g. beclomethasone for intranasal or inhalational use should be considered, particularly for long-term use. |
@@ -74,7 +72,7 @@ Table 2: Interactions between cobicistat and other medicinal products
 | Metformin | Interaction not studied. Cobicistat reversibly inhibits MATE1, and concentrations of metformin may be increased when co-administered with cobicistat. | Careful patient monitoring and dose adjustment of metformin is recommended in patients who are taking Tybost. |
 | NARCOTIC ANALGESICS |  |  |
 | Methadone | Methadone: AUC: ↔ Cmax: ↔ Cmin: ↔ | No dose adjustment of methadone is required. |
-| Buprenorphine/Naloxone | Buprenorphine: AUC: ↑ 35% Cmax: ↑ 12% Cmin: ↑ 66% Naloxone: AUC: ↓ 28% Cmax: ↓ 28% | No dose adjustment of cobicistat is required. |
+| Buprenorphine/Naloxone | Buprenorphine: AUC: ↑ 35% Cmax: ↔ Cmin: ↑ 66% Naloxone: AUC: ↓ 28% Cmax: ↓ 28% | No dose adjustment of cobicistat is required. |
 
 | Medicinal product by therapeutic areas | Effects on drug levels Mean percent change in AUC, Cmax, Cmin | Recommendation concerning co-administration with cobicistat 150 mg and atazanavir or darunavir |
 | --- | --- | --- |
