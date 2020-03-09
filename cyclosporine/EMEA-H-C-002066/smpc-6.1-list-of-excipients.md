@@ -5,5 +5,5 @@ Cetalkonium chloride
 Glycerol
 Tyloxapol
 Poloxamer 188
-Sodium hydroxide (to adjust pH)
+Sodium hydroxide (for pH adjustment)
 Water for injections

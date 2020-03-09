@@ -1,35 +1,38 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-In five clinical studies including 532 patients who received IKERVIS and 398 who received IKERVIS vehicle (control), IKERVIS was administered at least once a day in both eyes, for up to one year.
-The most common adverse reactions were eye pain (19.2%), eye irritation (17.8%), lacrimation (6.4%), ocular hyperaemia (5.5%) and eyelid erythema (1.7%) which were usually transitory and occurred during instillation.
-The majority of adverse reactions reported in clinical studies with the use of IKERVIS were ocular and mild to moderate in severity.
+
+The most common adverse reactions are eye pain (19.0%), eye irritation (17.5%), ocular hyperaemia (5.5%), lacrimation increased (4.9%) and eyelid erythema (1.7%) which are usually transitory and occurred during instillation.These adverse reactions are consistent with those that have been reported during post-marketing experience.
 
 Tabulated list of adverse reactions
-The following adverse reactions listed below were observed in clinical studies.
+
+The following adverse reactions listed below were observed in clinical studies or during post-marketing experience.
 They are ranked according to system organ class and classified according to the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), or not known (cannot be estimated from the available data).
 
-| Infections and infestations | Uncommon | Keratitis bacterial, herpes zoster ophthalmic. |
+| System Organ Class | Frequency | Adverse reactions |
 | --- | --- | --- |
-| Eye disorders | Common | Erythema of eyelid, lacrimation increased, ocular hyperaemia, vision blurred, eyelid oedema, conjunctival hyperaemia, eye irritation, eye pain. |
-|  | Uncommon | Conjunctival oedema, lacrimal disorder, eye discharge, eye pruritus, conjunctival irritation, conjunctivitis, foreign body sensation in eyes, deposit eye, keratitis, blepharitis, corneal decompensation, chalazion, corneal infiltrates, corneal scar, eyelid pruritus, iridocyclitis. |
-| General disorders and administration site conditions | Very common | Instillation site pain. |
-|  | Common | Instillation site irritation, instillation site erythema, instillation site lacrimation. |
-|  | Uncommon | Instillation site reaction, instillation site discomfort, instillation site pruritus, instillation site foreign body sensation. |
+| Infections and infestations | Uncommon | Keratitis bacterial, Herpes zoster ophthalmic. |
+| Eye disorders | Very common | Eye pain, Eye irritation |
+|  | Common | Erythema of eyelid, Lacrimation increased, Ocular hyperaemia, Vision blurred, Eyelid oedema, Conjunctival hyperaemia, Eye pruritus |
+|  | Uncommon | Conjunctival oedema, Lacrimal disorder, Eye discharge, Conjunctival irritation, Conjunctivitis, Foreign body sensation in eyes, Deposit eye, Keratitis, Blepharitis, Chalazion, Corneal infiltrates, Corneal scar, Eyelid pruritus, Iridocyclitis. Ocular discomfort |
+| General disorders and administration site conditions | Uncommon | Instillation site reaction |
+| Nervous system disorders | Uncommon | Headache |
 
 Description of selected adverse reactions
-Instillation site pain was a frequently reported local adverse reaction associated with the use of IKERVIS during clinical trials.
+
+Eye pain
+A frequently reported local adverse reaction associated with the use of IKERVIS during clinical trials.
 It is likely to be attributable to ciclosporin.
 
-One case of severe epithelial erosion of the cornea identified as corneal decompensation by the investigator resolved without sequeleae was reported.
-
+Generalised and localised infections
 Patients receiving immunosuppressive therapies, including ciclosporin, are at increased risk of infections.
 Both generalised and localised infections can occur.
 Pre-existing infections may also be aggravated (see section 4.3).
 Cases of infections have been reported uncommonly in association with the use of IKERVIS.
-To reduce the systemic absorption, see section 4.2.
+As precautionary measure, action should be taken to reduce the systemic absorption (see section 4.2).
 
 Reporting of suspected adverse reactions
+
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

@@ -1,5 +1,5 @@
 # 4.3 Contraindications
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-Ocular or peri-ocular malignancies or premalignant conditions
+Ocular or peri-ocular malignancies or premalignant conditions.
 Active or suspected ocular or peri-ocular infection.
