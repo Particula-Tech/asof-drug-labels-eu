@@ -47,7 +47,6 @@ Linagliptin also showed significant improvements in patients fasting plasma gluc
 Linagliptin as add-on to a combination of metformin and empagliflozin therapy
 In patients inadequately controlled with metformin and empagliflozin (10 mg (n=247) or 25 mg (n=217)), 24-weeks treatment with add-on therapy of linagliptin 5 mg provided adjusted mean HbA1c reductions from baseline by -0.53% (significant difference to add-on placebo -0.32% (95% CI -0.52, -0.13) and -0.58% (significant difference to add-on placebo -0.47% (95% CI -0.66; -0.28), respectively.
 A statistically significant greater proportion of patients with a baseline HbA1c ≥7.0% and treated with linagliptin 5 mg achieved a target HbA1c of <7% compared to placebo.
-
 Linagliptin as add-on to insulin therapy
 The efficacy and safety of the addition of linagliptin 5 mg to insulin alone or in combination with metformin and/or pioglitazone has been evaluated in a double-blind placebo-controlled study of 24 weeks duration.
 Linagliptin provided significant improvements in HbA1c (-0.65% compared to placebo) from a mean baseline HbA1c of 8.3%.
@@ -68,7 +67,7 @@ Most patients (80.5%) received insulin as background therapy, alone or in combin
 There was a further follow up 40 week treatment period during which dose adjustments in antidiabetes background therapies were allowed.
 
 Linagliptin provided significant improvements in HbA1c (-0.59 % change compared to placebo after 12 weeks), from a mean baseline HbA1c of 8.2%.
-The observed difference in HbA1c over placebo was -0.72% after 52 weeks.
+The observed difference in HbA1c over placebo was - 0.72% after 52 weeks.
 
 Body weight did not differ significantly between the groups.
 The observed incidence of hypoglycaemia in patients treated with linagliptin was higher than placebo, due to an increase in asymptomatic hypoglycaemic events.
@@ -82,12 +81,60 @@ Linagliptin provided significant improvements in HbA1c (-0.64 % change compared 
 Linagliptin also showed significant improvements in fasting plasma glucose (FPG) compared to placebo.
 Body weight did not differ significantly between the groups.
 
-Cardiovascular (CV) risk
-In a prospective meta-analysis of independently adjudicated CV events from 19 clinical studies (ranging from 18 weeks to 24 months duration) involving 9,459 patients with type 2 diabetes, linagliptin treatment was not associated with an increase in CV risk.
-The primary endpoint, the composite of: the occurrence or time to first occurrence of CV death, non-fatal myocardial infarction, non-fatal stroke or hospitalization for unstable angina, was non-significantly lower for linagliptin versus combined active and placebo comparators [Hazard ratio 0.78 (95% confidence interval 0.55;1.12)].
-In total there were 60 primary events on linagliptin and 62 on comparators.
-To date there is no evidence for an increased CV risk but the number of events in the clinical studies precludes firm conclusions.
-However, CV events were similar between linagliptin and placebo (1.03% with linagliptin vs 1.35% with placebo).
+Linagliptin cardiovascular and renal safety study (CARMELINA)
+CARMELINA was a randomized study in 6979 patients with type 2 diabetes with increased CV risk evidenced by a history of established macrovascular or renal disease who were treated with linagliptin 5 mg (3494) or placebo (3485) added to standard of care targeting regional standards for HbA1c, CV risk factors and renal disease.
+The study population included 1211 (17.4%) patients ≥ 75 years of age and 4348 (62.3%) patients with renal impairment.
+Approximately 19% of the population had eGFR
+≥45 to <60 mL/min/1.73 m2, 28% of the population had eGFR ≥30 to <45 mL/min/1.73 m2 and 15% had eGFR < 30 mL/min/1.73 m2.
+The mean HbA1c at baseline was 8.0%.
+The study was designed to demonstrate non-inferiority for the primary cardiovascular endpoint which was a composite of the first occurrence of cardiovascular death or a non-fatal myocardial infarction (MI) or a non-fatal stroke (3P-MACE).
+The renal composite endpoint was defined as renal death or sustained end stage renal disease or sustained decrease of 40% or more in eGFR.
+
+After a median follow up of 2.2 years, linagliptin, when added to usual care, did not increase the risk of major adverse cardiovascular events or renal outcome events.
+There was no increased risk in hospitalization for heart failure which was an additional adjudicated endpoint observed compared to usual care without linagliptin in patients with type 2 diabetes (see table 2).
+
+Table 2 Cardiovascular and renal outcomes by treatment group in the CARMELINA study
+
+|  | Linagliptin 5mg |  | Placebo |  | Hazard Ratio |
+| --- | --- | --- | --- | --- | --- |
+|  | Number of Subjects (%) | Incidence Rate per 1000 PY* | Number of Subjects (%) | Incidence Rate per 1000 PY* | (95% CI) |
+| Number of patients | 3494 |  | 3485 |  |  |
+| Primary CV composite (Cardiovascular death, non-fatal MI, non-fatal stroke) | 434 (12.4) | 57.7 | 420 (12.1) | 56.3 | 1.02 (0.89, 1.17)** |
+| Secondary renal composite (renal death, ESRD, 40% sustained decrease in eGFR) | 327 (9.4) | 48.9 | 306 (8.8) | 46.6 | 1.04 (0.89, 1.22) |
+| All-cause mortality | 367 (10.5) | 46.9 | 373 (10.7) | 48.0 | 0.98 (0.84, 1.13) |
+| CV death | 255 (7.3) | 32.6 | 264 (7.6) | 34 | 0.96 (0.81, 1.14) |
+| Hospitalization for heart failure | 209 (6.0) | 27.7 | 226 (6.5) | 30.4 | 0.90 (0.74, 1.08) |
+
+* PY=patient years
+** Test on non-inferiority to demonstrate that the upper bound of the 95% CI for the hazard ratio is less than 1.3
+
+In analyses for albuminuria progression (change from normoalbuminuria to micro- or macroalbuminuria, or from microalbuminuria to macroalbuminuria) the estimated hazard ratio was 0.86 (95% CI 0.78, 0.95) for linagliptin versus placebo.
+
+Linagliptin cardiovascular safety study (CAROLINA)
+CAROLINA was a randomized study in 6033 patients with early type 2 diabetes and increased CV risk or established complications who were treated with linagliptin 5 mg (3023) or glimepiride 1-4mg (3010) added to standard of care (including background therapy with metformin in 83% of patients) targeting regional standards for HbA1c and CV risk factors.
+The mean age for study population was 64 years and included 2030 (34%) patients ≥ 70 years of age.
+The study population included 2089 (35%) patients with cardiovascular disease and 1130 (19%) patients with renal impairment with an eGFR < 60ml/min/1.73m2 at baseline.
+The mean HbA1c at baseline was 7.15%.
+
+The study was designed to demonstrate non-inferiority for the primary cardiovascular endpoint which was a composite of the first occurrence of cardiovascular death or a non-fatal myocardial infarction (MI) or a non-fatal stroke (3P-MACE).
+After a median follow up of 6.25 years, linagliptin did not increase the risk of major adverse cardiovascular events (see table 3) as compared to glimepiride.
+Results were consistent for patients treated with or without metformin.
+
+Table 3 Major adverse cardiovascular events (MACE) and mortality by treatment group in the CAROLINA study
+
+|  | Linagliptin 5mg |  | Glimepiride (1-4mg) |  | Hazard Ratio |
+| --- | --- | --- | --- | --- | --- |
+|  | Number of Subjects (%) | Incidence Rate per 1000 PY* | Number of Subjects (%) | Incidence Rate per 1000 PY* | (95% CI) |
+| Number of patients | 3023 |  | 3010 |  |  |
+| Primary CV composite (Cardiovascular death, non-fatal MI, non-fatal stroke) | 356 (11.8) | 20.7 | 362 (12.0) | 21.2 | 0.98 (0.84, 1.14)** |
+| All-cause mortality | 308 (10.2) | 16.8 | 336 (11.2) | 18.4 | 0.91 (0.78,1.06) |
+| CV death | 169 (5.6) | 9.2 | 168 (5.6) | 9.2 | 1.00 (0.81, 1.24) |
+| Hospitalization for heart failure (HHF) | 112 (3.7) | 6.4 | 92 (3.1) | 5.3 | 1.21 (0.92, 1.59) |
+
+* PY=patient years
+** Test on non-inferiority to demonstrate that the upper bound of the 95% CI for the hazard ratio is less than 1.3
+
+For the entire treatment period (median time on treatment 5.9 years) the rate of patients with moderate or severe hypoglycaemia was 6.5% on linagliptin versus 30.9% on glimepiride, severe hypoglycaemia occurred in 0.3% of patients on linagliptin versus 2.2% on glimepiride.
 
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with linagliptin in one or more subsets of the paediatric population in Type 2 diabetes (see section 4.2 for information on paediatric use).

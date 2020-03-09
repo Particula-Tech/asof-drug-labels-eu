@@ -15,11 +15,13 @@ A dose reduction of the sulphonylurea or insulin may be considered (see section 
 
 Acute pancreatitis
 Use of DPP-4 inhibitors has been associated with a risk of developing acute pancreatitis.
-In post-marketing experience of linagliptin there have been spontaneously reported adverse reactions of acute pancreatitis.
+Acute pancreatitis has been observed in patients taking linagliptin.
+In a cardiovascular and renal safety study (CARMELINA) with median observation period of 2.2 years, adjudicated acute pancreatitis was reported in 0.3% of patients treated with linagliptin and in 0.1% of patients treated with placebo.
 Patients should be informed of the characteristic symptoms of acute pancreatitis.
 If pancreatitis is suspected, Trajenta should be discontinued; if acute pancreatitis is confirmed, Trajenta should not be restarted.
 Caution should be exercised in patients with a history of pancreatitis.
 
 Bullous pemphigoid
-There have been post-marketing reports of bullous pemphigoid in patients taking linagliptin.
+Bullous pemphigoid has been observed in patients taking linagliptin.
+In the CARMELINA study, bullous pemphigoid was reported in 0.2% of patients on treatment with linagliptin and in no patient on placebo.
 If bullous pemphigoid is suspected, Trajenta should be discontinued.

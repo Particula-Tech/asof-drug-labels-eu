@@ -10,7 +10,6 @@ Plasma AUC of linagliptin increased approximately 33% following 5 mg doses at st
 The intra-subject and inter-subject coefficients of variation for linagliptin AUC were small (12.6% and 28.5%, respectively).
 Due to the concentration dependent binding of linagliptin to DPP-4, the pharmacokinetics of linagliptin based on total exposure is not linear; indeed total plasma AUC of linagliptin increased in a less than dose-proportional manner while unbound AUC increases in a roughly dose-proportional manner.
 The pharmacokinetics of linagliptin was generally similar in healthy subjects and in patients with type 2 diabetes.
-
 Absorption
 The absolute bioavailability of linagliptin is approximately 30%.
 Co-administration of a high-fat meal with linagliptin prolonged the time to reach Cmax by 2 hours and lowered Cmax by 15% but no influence on AUC 0-72h was observed.
