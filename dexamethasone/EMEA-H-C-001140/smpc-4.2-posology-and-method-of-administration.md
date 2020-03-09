@@ -56,13 +56,14 @@ Remove the foil pouch from the carton and examine for damage (see section 6.6).
 Then, in a sterile field, open the foil pouch and gently place the applicator on a sterile tray.
 Carefully remove the cap from the applicator.
 Once the foil pouch is opened the applicator should be used immediately.
-
 Hold the applicator in one hand and pull the safety tab straight off the applicator.
 Do not twist or flex the tab.
 With the bevel of the needle up away from the sclera, advance the needle about 1 mm into the sclera then redirect toward the centre of the eye into the vitreous cavity until the silicone sleeve is against the conjunctiva.
 Slowly press the actuator button until an audible click is noted.
 Before withdrawing the applicator from the eye, make sure that the actuator button is fully pressed and has locked flush with the applicator surface.
 Remove the needle in the same direction as used to enter the vitreous.
+
+For instructions on the administration of the intravitreal implant, see section 6.6
 
 Immediately after injecting OZURDEX, use indirect ophthalmoscopy in the quadrant of injection to confirm successful implantation.
 Visualisation is possible in the large majority of cases.

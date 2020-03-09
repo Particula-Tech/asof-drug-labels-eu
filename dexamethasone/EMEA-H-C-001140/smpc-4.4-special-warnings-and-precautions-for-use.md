@@ -53,3 +53,7 @@ For patients using concomitant and anti-platelet medication, haemorrhagic advers
 The most common haemorrhagic adverse event reported was conjunctival haemorrhage (up to 24%).
 
 OZURDEX should be used with caution in patients taking anti-coagulant or anti-platelet medicinal products.
+
+Visual disturbance
+Visual disturbance may be reported with systemic and topical corticosteroid use.
+If a patient presents with symptoms such as blurred vision or other visual disturbances, consider evaluating for possible causes which may include cataract, glaucoma or rare diseases such as central serous chorioretinopathy (CSCR) which have been reported after use of systemic and topical corticosteroids.
