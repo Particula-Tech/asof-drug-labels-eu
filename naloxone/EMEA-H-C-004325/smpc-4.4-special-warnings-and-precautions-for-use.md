@@ -29,6 +29,6 @@ Reversal of buprenorphine-induced respiratory depression may be incomplete.
 If an incomplete response occurs, respiration should be mechanically assisted.
 
 Intranasal absorption and efficacy of naloxone can be altered in patients with damaged nasal mucosa and septal defects.
-
 Paediatric population
+
 Opioid withdrawal may be life-threatening in neonates if not recognised and properly treated and may include the following signs and symptoms: convulsions, excessive crying and hyperactive reflexes.

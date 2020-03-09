@@ -1,6 +1,7 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
+
 The most common adverse drug reaction (ADR) seen with naloxone administration is nausea (frequency very common).
 Typical opioid withdrawal syndrome is expected with naloxone which may be caused by the abrupt withdrawal of opioid in persons physically dependent on them.
 
@@ -18,12 +19,15 @@ Very rare: Hypersensitivity, Anaphylactic shock
 Nervous system disorders
 
 Common Dizziness, Headache
+
 Uncommon Tremor
 
 Cardiac disorders
 
 Common Tachycardia
+
 Uncommon Arrhythmia, Bradycardia
+
 Very rare Cardiac fibrillation, Cardiac arrest
 
 Vascular disorders
@@ -33,17 +37,20 @@ Common Hypotension, Hypertension
 Respiratory, thoracic and mediastinal disorders
 
 Uncommon Hyperventilation
+
 Very rare Pulmonary oedema
 
 Gastrointestinal disorders
 
 Very common Nausea
-Common Vomiting
-Uncommon Diarrhoea, Dry mouth
 
+Common Vomiting
+
+Uncommon Diarrhoea, Dry mouth
 Skin and subcutaneous tissue disorders
 
 Uncommon Hyperhidrosis
+
 Very rare Erythema multiforme
 
 General disorders and administration site conditions
