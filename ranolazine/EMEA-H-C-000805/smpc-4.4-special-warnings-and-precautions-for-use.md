@@ -28,6 +28,8 @@ Ranexa should not be used in patients treated with CYP3A4 inducers (e.g. rifampi
 
 Renal impairment: Renal function decreases with age and it is therefore important to check renal function at regular intervals during treatment with ranolazine (see sections 4.2, 4.3, 4.8, and 5.2).
 
+Sodium: This medicine contains less than 1 mmol sodium (23 mg) per prolonged-release tablet, that is to say essentially ‘sodium-free’.
+
 [Ranexa 500 mg prolonged-release tablets]
 
 (all sentences already above)

@@ -32,8 +32,8 @@ Effects of ranolazine on other medicinal products
 
 Ranolazine is a moderate to potent inhibitor of P-gp and a mild inhibitor of CYP3A4, and may increase plasma concentrations of P-gp or CYP3A4 substrates.
 Tissue distribution of drugs which are transported by P-gp may be increased.
-Dose adjustment of sensitive CYP3A4 substrates (e.g. simvastatin, lovastatin) and CYP3A4 substrates with a narrow therapeutic range (e.g. ciclosporin, tacrolimus, sirolimus, everolimus) may be required as RANEXA may increase plasma concentrations of these drugs.
 
+Dose adjustment of sensitive CYP3A4 substrates (e.g. simvastatin, lovastatin) and CYP3A4 substrates with a narrow therapeutic range (e.g. ciclosporin, tacrolimus, sirolimus, everolimus) may be required as RANEXA may increase plasma concentrations of these drugs.
 Available data suggest that ranolazine is a mild inhibitor of CYP2D6.
 Ranexa 750 mg twice daily increased plasma concentrations of metoprolol by 1.8-fold.
 Therefore the exposure to metoprolol or other CYP2D6 substrates (e.g. propafenone and flecainide or, to a lesser extent, tricyclic antidepressants and antipsychotics) may be increased during co-administration with Ranexa, and lower doses of these medicinal products may be required.

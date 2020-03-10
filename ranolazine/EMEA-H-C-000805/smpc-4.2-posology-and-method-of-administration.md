@@ -1,7 +1,5 @@
 # 4.2 Posology and method of administration
 
-Patients should be given the Ranexa package leaflet and the Patient Alert Card and instructed to present their Patient Alert Card and medication list to their health care professional at each visit.
-
 Posology
 Ranexa is available as 375 mg, 500 mg, and 750 mg prolonged-release tablets.
 
@@ -20,10 +18,10 @@ Ranexa is contraindicated in patients with severe renal impairment (creatinine c
 
 Hepatic impairment: Careful dose titration is recommended in patients with mild hepatic impairment (see sections 4.4 and 5.2).
 Ranexa is contraindicated in patients with moderate or severe hepatic impairment (see sections 4.3 and 5.2).
+
 Elderly: Dose titration in elderly patients should be exercised with caution (see section 4.4).
 Elderly may have increased ranolazine exposure due to age-related decrease in renal function (see section 5.2).
 The incidence of adverse events was higher in the elderly (see section 4.8).
-
 Low weight: The incidence of adverse events was higher in patients with low weight (≤ 60 kg).
 Dose titration in patients with low weight should be exercised with caution (see sections 4.4, 4.8, and 5.2).
 

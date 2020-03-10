@@ -21,7 +21,6 @@ These effects of ranolazine on the surface electrocardiogram are believed to res
 A population analysis of combined data from 1,308 patients and healthy volunteers demonstrated a mean increase in QTc from baseline of 2.4 msec per 1000 ng/ml ranolazine plasma concentration.
 This value is consistent with data from pivotal clinical studies, where mean changes from baseline in QTcF (Fridericia’s correction) after doses of 500 and 750 mg twice daily were 1.9 and 4.9 msec, respectively.
 The slope is higher in patients with clinically significant hepatic impairment.
-
 In a large outcome study (MERLIN-TIMI 36) in 6,560 patients with UA/NSTEMI ACS, there was no difference between Ranexa and placebo in the risk of all-cause mortality (relative risk ranolazine:placebo 0.99), sudden cardiac death (relative risk ranolazine:placebo 0.87), or the frequency of symptomatic documented arrhythmias (3.0% versus 3.1%).
 
 No proarrhythmic effects were observed in 3,162 patients treated with Ranexa based on 7-day Holter monitoring in the MERLIN-TIMI 36 study.
