@@ -18,7 +18,7 @@ Preparation and administration
 - From a microbiological point of view, the reconstituted or diluted solution should be used immediately.
   The reconstituted or diluted solution must not be frozen.
   If not used immediately, chemical and physical in-use stability of KEYTRUDA has been demonstrated for 96 hours at 2°C to 8°C.
-  This 96 hour total hold from reconstitution may include up to 6 hours at room temperature (at or below 25°C).
+  This 96-hour total hold from reconstitution may include up to 6 hours at room temperature (at or below 25°C).
   If refrigerated, the vials and/or intravenous bags must be allowed to come to room temperature prior to use.
   Translucent to white proteinaceous particles may be seen in diluted solution.
   Administer the infusion solution intravenously over 30 minutes using a sterile, non-pyrogenic, low-protein binding 0.2 to 5 µm in-line or add-on filter.
@@ -36,8 +36,8 @@ Preparation and administration of the infusion
 - Prior to dilution, the vial of liquid can be out of refrigeration (temperatures at or below 25°C) for up to 24 hours.
   The concentrate is a clear to slightly opalescent, colourless to slightly yellow solution.
 - Withdraw the required volume up to 4 mL (100 mg) of concentrate and transfer into an intravenous bag containing sodium chloride 9 mg/mL (0.9%) or glucose 50 mg/mL (5%) to prepare a diluted solution with a final concentration ranging from 1 to 10 mg/mL.
-  Each vial contains an excess fill of 0.25 ml (total content per vial 4.25 ml) to ensure the recovery of 4 ml of concentrate.
+  Each vial contains an excess fill of 0.25 mL (total content per vial 4.25 mL) to ensure the recovery of 4 mL of concentrate.
 - From a microbiological point of view, the product, once diluted, should be used immediately.
   The diluted solution must not be frozen.
   If not used immediately, chemical and physical in-use stability of KEYTRUDA has been demonstrated for 96 hours at 2ºC to 8ºC.
-  This 96 hour hold may include up to 6 hours at room temperature (at or below 25°C).
+  This 96-hour hold may include up to 6 hours at room temperature (at or below 25°C).

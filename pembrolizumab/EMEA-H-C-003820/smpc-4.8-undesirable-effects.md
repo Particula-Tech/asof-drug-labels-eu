@@ -18,9 +18,10 @@ Incidences of Grades 3-5 adverse reactions in patients with NSCLC were 67% for p
 The safety of pembrolizumab in combination with axitinib has been evaluated in a clinical study of 429 patients with advanced RCC receiving 200 mg pembrolizumab every 3 weeks and 5 mg axitinib twice daily.
 In this patient population, the most frequent adverse reactions were diarrhoea (54%), hypertension (45%), fatigue (38%), hypothyroidism (35%), decreased appetite (30%), palmar-plantar erythrodysaesthesia syndrome (28%), nausea (28%), ALT increased (27%), AST increased (26%), dysphonia (25%), cough (21%), and constipation (21%).
 Incidences of Grades 3-5 adverse reactions were 76% for pembrolizumab combination therapy and 71% for sunitinib alone.
+
 Tabulated list of adverse reactions
 Adverse reactions observed in clinical studies of pembrolizumab as monotherapy or in combination with chemotherapy or other anti-tumour medicines or reported from post-marketing use of pembrolizumab are listed in Table 2.
-Adverse reactions known to occur with pembrolizumab or chemotherapies given alone may occur during treatment with these medicinal products in combination, even if these reactions were not reported in clinical trials with combination therapy.
+Adverse reactions known to occur with pembrolizumab or chemotherapies given alone may occur during treatment with these medicinal products in combination, even if these reactions were not reported in clinical studies with combination therapy.
 These reactions are presented by system organ class and by frequency.
 Frequencies are defined as: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000); and not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
@@ -91,7 +92,7 @@ Table 2: Adverse reactions in patients treated with pembrolizumab*
 | Uncommon | nephritisz |  |  |
 | General disorders and administration site conditions |  |  |  |
 | Very common | fatigue, asthenia, oedemaaa, pyrexia | fatigue, asthenia, pyrexia, oedemaaa | fatigue, asthenia, pyrexia |
-| Common | influenza like illness, chills | chills, influenza-like illness | oedemaaa, influenza like illness, chills |
+| Common | influenza-like illness, chills | chills, influenza-like illness | oedemaaa, influenza-like illness, chills |
 | Investigations |  |  |  |
 | Very common |  | blood creatinine increased | alanine aminotransferase increased, aspartate aminotransferase increased, blood creatinine increased |
 | Common | aspartate aminotransferase increased, alanine aminotransferase increased, hypercalcaemia, blood alkaline phosphatase increased, blood bilirubin increased, blood creatinine increased | hypercalcaemia, alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased | blood alkaline phosphatase increased, hypercalcaemia, blood bilirubin increased |
@@ -179,7 +180,7 @@ Severe skin reactions resolved in 64 patients.
 
 Rare cases of SJS and TEN, some of them with fatal outcome, have been observed (see sections 4.2 and 4.4).
 
-Complications of allogeneic HSCT in classical Hodgkin lymphoma
+Complications of allogeneic HSCT in cHL
 Of 23 patients with cHL who proceeded to allogeneic HSCT after treatment with pembrolizumab,
 6 patients (26%) developed GVHD, one of which was fatal, and 2 patients (9%) developed severe hepatic VOD after reduced-intensity conditioning, one of which was fatal.
 The 23 patients had a median follow-up from subsequent allogeneic HSCT of 5.1 months (range: 0-26.2 months).
@@ -208,7 +209,7 @@ Paediatric population
 The safety of pembrolizumab as monotherapy has been evaluated in 154 paediatric patients with advanced melanoma, lymphoma, or PD-L1 positive advanced, relapsed, or refractory solid tumours at 2 mg/kg every 3 weeks in the Phase I/II study KEYNOTE-051.
 The safety profile in these paediatric patients was generally similar to that seen in adults treated with pembrolizumab.
 The most common adverse reactions (reported in at least 20% of paediatric patients) were pyrexia (31%), vomiting (26%), headache (22%), abdominal pain (21%), anaemia (21%) and constipation (20%).
-The majority of adverse reactions reported for monotherapy were of Grade 1 or 2 severity.
+The majority of adverse reactions reported for monotherapy were of Grades 1 or 2 severity.
 Sixty-nine (44.8%) patients had 1 or more Grades 3 to 5 adverse reactions of which 6 (3.9%) patients had 1 or more adverse reactions that resulted in death.
 The frequencies are based on all reported adverse drug reactions, regardless of the investigator assessment of causality.
 
@@ -216,9 +217,3 @@ Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-[KEYTRUDA 25 mg/mL concentrate for solution for infusion.]
-
-Data for the following immune-related adverse reactions are based on patients who received pembrolizumab across four doses (2 mg/kg every 3 weeks or 10 mg/kg every 2 or 3 weeks, or 200 mg every 3 weeks) in clinical studies (see section 5.1).
-
-Hepatitis occurred in 50 (0.8%) patients, including Grade 2, 3 or 4 cases in 8 (0.1%), 31 (0.5%) and 8 ( 0.1%) patients, respectively, receiving pembrolizumab.
