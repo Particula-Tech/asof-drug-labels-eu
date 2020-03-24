@@ -4,9 +4,6 @@ Methylxanthines
 Methylxanthines (e.g., caffeine and theophylline) are non-specific adenosine receptor antagonists and may interfere with the vasodilation activity of regadenoson (see section 5.1).
 Patients should avoid consumption of any medicinal products containing methylxanthines as well as any medicinal products containing theophylline for at least 12 hours before regadenoson administration (see section 4.2).
 
-Aminophylline (100 mg, administered by slow intravenous injection over 60 seconds) injected 1 minute after 400 micrograms regadenoson in subjects undergoing cardiac catheterisation, was shown to shorten the duration of the coronary blood flow response to regadenoson as measured by pulsed- wave Doppler ultrasonography.
-Aminophylline has been used to attenuate adverse reactions to regadenoson (see section 4.4).
-
 Dipyridamole
 Dipyridamole increases blood adenosine levels and the response to regadenoson may be altered when blood adenosine levels are increased.
 When possible, dipyridamole should be withheld for at least two days prior to regadenoson administration (see section 4.2).
@@ -19,6 +16,5 @@ Regadenoson does not inhibit the metabolism of substrates for CYP1A2, CYP2C8, CY
 
 Regadenoson does not significantly inhibit the transporters OAT1, OAT3, OCT1, OATP1B1, OATP1B3, MATE1, MATE2-K, BCRP, P-gp, BSEP, ENT 1 or ENT2 at 1 µM.
 The data are insufficient to conclude about the risk of interactions at the level of these transporters given that a single concentration was evaluated in most instances.
-
 Regadenoson may have a modest inhibitory effect on the active renal transporter, OCT2, and has been found to be likely substrate for BCRP, ENT1 or ENT2 mediated transport.
 However, given the proposed duration of use, the effects of the drug transporters are unlikely to be clinically relevant.

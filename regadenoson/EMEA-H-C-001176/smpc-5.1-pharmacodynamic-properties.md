@@ -89,6 +89,31 @@ Rate Difference (regadenoson – Adenosine) (± 1 ± 4% -1 ± 5% 0 ± 3%
 
 In ADVANCE MPI 1 and ADVANCE MPI 2, the Cicchetti-Allison and Fleiss-Cohen weighted kappas of the median score of three blinded readers with respect to ischaemia size category (not counting segments with normal rest uptake and mild/equivocal reduction in stress uptake as ischaemic) for the combined studies of regadenoson with the adenosine scan were moderate, 0.53 and 0.61, respectively; as were the weighted kappas of two consecutive adenosine scans, 0.50 and 0.55, respectively.
 
+Suboptimal Exercise Stress Test
+
+In the EXERRT trial the efficacy and safety of regadenoson was evaluated in patients with suboptimal Exercise Stress in an open-label randomized, multi-center, non-inferiority study when regadenoson administered either at 3 minutes during recovery (exercise with regadenoson) or at rest 1 hour later (regadenoson only).
+
+All 1404 patients initially had a baseline MPI scan at rest in accordance with ASNC 2009 guidelines.
+
+Patients initiated exercise using a standard or modified Bruce protocol.
+Patients who did not achieve ≥ 85% maximum predicted heart rate (MPHR) and/or ≥ 5 METS (metabolic equivalents), transitioned into a 3-5 minutes walking recovery where during the first 3 minutes of recovery, patients were randomized 1:1.
+
+Therefore, 1147 patients were randomized in two groups: 578 patients from the exercise with regadenoson group and 569 from the regadenoson only group to either 3 minutes recovery (for the exercise with regadenoson group) or at rest 1 hour later (for the regadenoson only group).
+
+Patients from both groups (exercise with regadenoson and regadenoson only) underwent a SPECT Myocardial Perfusion Imaging (MPI) at 60-90 minutes post-regadenoson administration.
+
+The baseline MPI scan at rest, and the MPI scans for the exercise with regadenoson and regadenoson only groups constituted the MPI 1 phase.
+
+Subsequentially, patients from both groups, returned 1-14 days later, to undergo a second stress MPI regadenoson study without exercise.
+The baseline MPI scans at rest and those without exercise at 1-14 days later from both groups, constituted the MPI 2 phase.
+
+The images from MPI 1 and MPI 2 were compared for presence or absence of perfusion defects.
+The level of agreement between the MPI 1 (exercise with regadenoson) and the MPI 2 reads was similar to the level of agreement between MPI 1 (regadenoson only) and MPI 2 reads.
+
+For two patients from the exercise with regadenoson group, a serious cardiac adverse reaction was reported.
+Upon case review, both patients, experienced ischemic symptoms and ECG changes during exercise or recovery prior to regadenoson administration.
+No serious cardiac adverse reactions occurred in patients receiving regadenoson 1 hour following inadequate exercise stress.
+
 Measurement of FFR
 For the measurement of FFR, five independent studies have been conducted.
 A total of 249 patients, who were clinically indicated to undergo coronary angiography with invasive measurement of FFR, received regadenoson, with 88 of those patients receiving regadenoson twice.
@@ -105,10 +130,16 @@ Adenosine was treated as a gold standard to estimate sensitivity, specificity, a
 | Stolker et al. 2015 (n=149) | 98% | 97% | 0.94 |
 | van Nunen et al. 2015 (n=98) | 98% | 95% | 0.94 |
 
+Aminophylline
+
+Aminophylline (100 mg, administered by slow intravenous injection over 60 seconds) injected 1 minute after 400 micrograms regadenoson in subjects undergoing cardiac catheterisation, was shown to shorten the duration of the coronary blood flow response to regadenoson as measured by pulsed- wave Doppler ultrasonography.
+Aminophylline has been used to attenuate adverse reactions to regadenoson (see section 4.4).
+
 Effect of caffeine
 In a study of adult patients undergoing pharmacological stress radionuclide MPI with regadenoson , randomized to placebo (n=66) or caffeine (200 mg, n=70 or 400 mg, n=71) administered 90 minutes before the test, caffeine compromised the diagnostic accuracy of detecting reversible perfusion defects (p<0.001).
 There was no statistical difference between 200 mg and 400 mg caffeine with regadenoson .
 Also, there was no apparent effect of 200 mg or 400 mg of caffeine on regadenoson plasma concentrations.
+
 Safety and tolerability testing
 In ADVANCE MPI 1 and ADVANCE MPI 2, the following pre-specified safety and tolerability endpoints comparing regadenoson to adenosine achieved statistical significance: (1) a summed score of both the presence and severity of the symptom groups of flushing, chest pain, and dyspnoea was lower with regadenoson (0.9 ± 0.03) than with adenosine (1.3 ± 0.05); and (2) the symptom groups of flushing (21% vs 32%), chest pain (28% vs 40%), and ‘throat, neck or jaw pain’ (7% vs 13%) were less frequent with regadenoson ; the incidence of headache (25% vs 16%) was more frequent with regadenoson .
 
