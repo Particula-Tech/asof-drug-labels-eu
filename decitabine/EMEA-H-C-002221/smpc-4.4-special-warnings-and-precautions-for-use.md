@@ -2,7 +2,7 @@
 
 Myelosuppression
 Myelosuppression and complications of myelosuppression, including infections and bleeding that occur in patients with AML may be exacerbated with Dacogen treatment.
-Therefore patients are at increased risk for severe infections (due to any pathogen such as bacterial, fungal and viral), with potentially fatal outcome (see section 4.8).
+Therefore, patients are at increased risk for severe infections (due to any pathogen such as bacterial, fungal and viral), with potentially fatal outcome (see section 4.8).
 Patients should be monitored for signs and symptoms of infection and treated promptly.
 
 In clinical studies, the majority of patients had baseline Grade 3/4 myelosuppression.
@@ -28,7 +28,7 @@ Caution should be exercised in the administration of Dacogen to patients with se
 Renal function tests should be performed prior to initiation of therapy and prior to each treatment cycle, and as clinically indicated (see section 4.2).
 
 Cardiac disease
-Patients with a history of severe congestive heart failure or clinically unstable cardiac disease were excluded from clinical studies and therefore the safety and efficacy of Dacogen in these patients has not been established.
+Patients with a history of severe congestive heart failure or clinically unstable cardiac disease were excluded from clinical studies and therefore, the safety and efficacy of Dacogen in these patients has not been established.
 Cases of cardiomyopathy with cardiac decompensation, in some cases reversible after treatment discontinuation, dose reduction or corrective treatment, have been reported in the postmarketing setting.
 Patients, especially those with cardiac disease history, should be monitored for signs and symptoms of heart failure.
 

@@ -17,7 +17,6 @@ Vdss (L) 116 84.1 - 153
 CL (L/h) 298 249 - 359
 
 a The total dose per cycle was 100 mg/m2
-
 Decitabine exhibits linear PK and following the intravenous infusion, steady-state concentrations are reached within 0.5 hour.
 Based on model simulation, PK parameters were independent of time (i.e., did not change from cycle to cycle) and no accumulation was observed with this dosing regimen.
 Plasma protein binding of decitabine is negligible (< 1%).
@@ -58,6 +57,7 @@ Population pharmacokinetic analysis of decitabine did not show any clinically re
 Race
 Most of the patients studied were Caucasian.
 However, the population pharmacokinetic analysis of decitabine indicated that race had no apparent effect on the exposure to decitabine.
+
 Hepatic impairment
 The PK of decitabine have not been formally studied in patients with hepatic impairment.
 Results from a human mass-balance study and in vitro experiments mentioned above indicated that the CYP enzymes are unlikely to be involved in the metabolism of decitabine.

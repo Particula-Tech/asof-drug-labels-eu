@@ -37,6 +37,7 @@ Table 1: Adverse drug reactions identified with Dacogen
 |  |  | leukopaenia | 20 | 18 |
 |  | Uncommon | pancytopaenia* | < 1 | < 1 |
 | Immune system disorders | Common | hypersensitivity including anaphylactic reactionf | 1 | < 1 |
+| Metabolism and nutrition disorders | Very common | hyperglycaemia | 13 | 3 |
 | Nervous system disorders | Very common | headache | 16 | 1 |
 | Cardiac disorders | Uncommon | Cardiomyopathy | < 1 | < 1 |
 | Respiratory, thoracic and mediastinal disorders | Very common | epistaxis | 14 | 2 |

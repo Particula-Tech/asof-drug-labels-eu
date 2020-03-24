@@ -108,8 +108,6 @@ PFS = progression-free survival, OR = odds ratio, HR = hazard ratio
 
 Overall survival and complete remission rates in pre-specified disease-related sub-groups (i.e., cytogenetic risk, Eastern Cooperative Oncology Group [ECOG] score, age, type of AML, and baseline bone marrow blast count) were consistent with results for the overall study population.
 
-Dacogen-treated subjects (11%, 24/223) experienced worsening of hyperglycaemia compared with subjects in the TC arm (6%, 13/212).
-
 The use of Dacogen as initial therapy was also evaluated in an open-label, single-arm, Phase II study (DACO-017) in 55 subjects > 60 years with AML according to the WHO classification.
 The primary endpoint was complete remission (CR) rate that was assessed by independent expert review.
 The secondary endpoint of the study was overall survival.

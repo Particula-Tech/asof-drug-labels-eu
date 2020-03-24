@@ -16,7 +16,7 @@ If Dacogen is used during pregnancy, or if a patient becomes pregnant while rece
 
 Breast-feeding
 It is not known whether decitabine or its metabolites are excreted in breast milk.
-Dacogen is contraindicated during breast-feeding; therefore if treatment with this medicine is required, breast-feeding must be discontinued (see section 4.3).
+Dacogen is contraindicated during breast-feeding; therefore, if treatment with this medicine is required, breast-feeding must be discontinued (see section 4.3).
 
 Fertility
 No human data on the effect of decitabine on fertility are available.

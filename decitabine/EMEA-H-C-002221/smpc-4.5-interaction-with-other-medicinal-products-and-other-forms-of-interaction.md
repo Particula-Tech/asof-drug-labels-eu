@@ -9,4 +9,4 @@ Cytochrome (CYP) 450-mediated metabolic interactions are not anticipated as deci
 
 Impact of decitabine on co-administered medicinal products
 Given its low in vitro plasma protein binding (<1%), decitabine is unlikely to displace co-administered medicinal products from their plasma protein binding.
-Decitabine has been shown to be a weak inhibitor of P-gp mediated transport in vitro and is therefore also not expected to affect P-gp mediated transport of co-administered medicinal products (see section 5.2).
+Decitabine has been shown to be a weak inhibitor of P-gp mediated transport in vitro and is therefore, also not expected to affect P-gp mediated transport of co-administered medicinal products (see section 5.2).
