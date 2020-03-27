@@ -22,8 +22,10 @@ Table 1 Adverse reactions from long-term controlled phase 3a trials including th
 | Nervous system disorders |  | Dizziness | Dysgeusia |  |
 | Eye disorders |  | Diabetic retinopathy complicationsb |  |  |
 | Cardiac disorders |  |  | Increased heart rate |  |
-| Gastrointestinal disorders | Nausea Diarrhoea | Vomiting Abdominal pain Abdominal distension Constipation Dyspepsia Gastritis Gastro-oesophageal reflux disease Eructation Flatulence |  |  |
+| Gastrointestinal disorders | Nausea Diarrhoea | Vomiting Abdominal pain Abdominal distension Constipation Dyspepsia Gastritis Gastro-oesophageal reflux disease | Acute pancreatitis |  |
 
+Eructation
+Flatulence
 Hepatobiliary Cholelithiasis
 disorders
 General Fatigue Injection site
@@ -54,6 +56,10 @@ The events led to treatment discontinuation in 3.9% and 5% of patients.
 The events were most frequently reported during the first months on treatment.
 Patients with low body weight may experience more gastrointestinal side effects when treated with semaglutide.
 
+Acute pancreatitis
+The frequency of adjudication-confirmed acute pancreatitis reported in phase 3a clinical trials was 0.3% for semaglutide and 0.2% for the comparator, respectively.
+In the 2-year cardiovascular outcomes trial the frequency of acute pancreatitis confirmed by adjudication was 0.5% for semaglutide and 0.6% for placebo (see section 4.4).
+
 Diabetic retinopathy complications
 A 2-year clinical trial investigated 3,297 patients with type 2 diabetes, with high cardiovascular risk, long duration of diabetes and poorly controlled blood glucose.
 In this trial, adjudicated events of diabetic retinopathy complications occurred in more patients treated with semaglutide (3.0%) compared to placebo (1.8%).
@@ -61,7 +67,6 @@ This was observed in insulin-treated patients with known diabetic retinopathy.
 The treatment difference appeared early and persisted throughout the trial.
 Systematic evaluation of diabetic retinopathy complication was only performed in the cardiovascular outcomes trial.
 In clinical trials up to 1 year involving 4,807 patients with type 2 diabetes, adverse events related to diabetic retinopathy were reported in similar proportions of subjects treated with semaglutide (1.7%) and comparators (2.0%).
-
 Discontinuation due to an adverse event
 The incidence of discontinuation of treatment due to adverse events was 6.1% and 8.7% for patients treated with semaglutide 0.5 mg and 1 mg, respectively, versus 1.5% for placebo.
 The most frequent adverse events leading to discontinuation were gastrointestinal.
@@ -69,6 +74,7 @@ The most frequent adverse events leading to discontinuation were gastrointestina
 Injection site reactions
 Injection site reactions (e.g. injection site rash, erythema) have been reported by 0.6% and 0.5% of patients receiving semaglutide 0.5 mg and 1 mg, respectively.
 These reactions have usually been mild.
+
 Immunogenicity
 Consistent with the potentially immunogenic properties of medicinal products containing proteins or peptides, patients may develop antibodies following treatment with semaglutide.
 The proportion of patients tested positive for anti-semaglutide antibodies at any time point post-baseline was low (1−2%) and no patients had anti-semaglutide neutralising antibodies or anti-semaglutide antibodies with endogenous GLP-1 neutralising effect at end-of-trial.

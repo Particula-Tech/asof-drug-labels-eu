@@ -26,7 +26,6 @@ In patients with type 2 diabetes clearance of semaglutide was approximately 0.05
 With an elimination half-life of approximately 1 week, semaglutide will be present in the circulation for about 5 weeks after the last dose.
 
 Special population
-
 Elderly
 Age had no effect on the pharmacokinetics of semaglutide based on data from phase 3a studies including patients of 20–86 years of age.
 

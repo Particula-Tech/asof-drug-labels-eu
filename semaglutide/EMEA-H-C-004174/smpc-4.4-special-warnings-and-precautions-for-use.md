@@ -2,6 +2,7 @@
 
 Semaglutide should not be used in patients with type 1 diabetes mellitus or for the treatment of diabetic ketoacidosis.
 Semaglutide is not a substitute for insulin.
+Diabetic ketoacidosis has been reported in insulin-dependent patients whom had rapid discontinuation or dose reduction of insulin when treatment with a GLP-1 receptor agonist is started (see section 4.2).
 
 There is no experience in patients with congestive heart failure NYHA class IV and semaglutide is therefore not recommended in these patients.
 

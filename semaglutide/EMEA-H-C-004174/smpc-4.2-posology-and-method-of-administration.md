@@ -13,7 +13,8 @@ When Ozempic is added to existing metformin and/or thiazolidinedione therapy, th
 When Ozempic is added to existing therapy of sulfonylurea or insulin, a reduction in the dose of sulfonylurea or insulin should be considered to reduce the risk of hypoglycaemia (see sections 4.4 and 4.8).
 
 Self-monitoring of blood glucose is not needed in order to adjust the dose of Ozempic.
-However, when initiating treatment with Ozempic in combination with a sulfonylurea or an insulin, blood glucose self-monitoring may become necessary to adjust the dose of the sulfonylurea or the insulin to reduce the risk of hypoglycaemia (see section 4.4).
+Blood glucose self-monitoring is necessary to adjust the dose of sulfonylurea and insulin, particularly when Ozempic is started and insulin is reduced.
+A stepwise approach to insulin reduction is recommended.
 
 Missed dose
 If a dose is missed, it should be administered as soon as possible and within 5 days after the missed dose.

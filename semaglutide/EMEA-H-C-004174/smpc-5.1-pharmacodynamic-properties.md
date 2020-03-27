@@ -5,13 +5,13 @@ Pharmacotherapeutic group: Drugs used in diabetes, Glucagon-like peptide-1 (GLP-
 Mechanism of action
 Semaglutide is a GLP-1 analogue with 94% sequence homology to human GLP-1.
 Semaglutide acts as a GLP-1 receptor agonist that selectively binds to and activates the GLP-1 receptor, the target for native GLP-1.
-
 GLP--1 is a physiological hormone that has multiple actions in glucose and appetite regulation, and in the cardiovascular system.
 The glucose and appetite effects are specifically mediated via GLP-1 receptors in the pancreas and the brain.
 
 Semaglutide reduces blood glucose in a glucose dependent manner by stimulating insulin secretion and lowering glucagon secretion when blood glucose is high.
 The mechanism of blood glucose lowering also involves a minor delay in gastric emptying in the early postprandial phase.
 During hypoglycaemia, semaglutide diminishes insulin secretion and does not impair glucagon secretion.
+
 Semaglutide reduces body weight and body fat mass through lowered energy intake, involving an overall reduced appetite.
 In addition, semaglutide reduces the preference for high fat foods.
 
@@ -52,6 +52,7 @@ This was supported by a semaglutide-induced suppression of appetite in the fasti
 Fasting and postprandial lipids
 Semaglutide compared to placebo lowered fasting triglyceride and very low density lipoproteins (VLDL) cholesterol concentrations by 12% and 21%, respectively.
 The postprandial triglyceride and VLDL cholesterol response to a high fat meal was reduced by >40%.
+
 Cardiac electrophysiology (QTc)
 The effect of semaglutide on cardiac repolarization was tested in a thorough QTc trial.
 Semaglutide did not prolong QTc intervals at supra-therapeutic dose levels (up to 1.5 mg at steady state).
@@ -88,7 +89,9 @@ Table 2 SUSTAIN 1: Results at week 30
 | Body weight (kg) |  |  |  |
 | Baseline (mean) | 89.8 | 96.9 | 89.1 |
 | Change from baseline at week 30 | -3.7 | -4.5 | -1.0 |
-| Difference from placebo [95% CI] | -2.7 [-3.9, -1.6]a | -3.6 [-4.7, -2.4]a | - |
+
+Difference from placebo [95% -2.7 [-3.9, -1.6]a -3.6 [-4.7, -2.4]a -
+CI]
 
 ap <0.0001 (2-sided) for superiority
 
@@ -121,8 +124,7 @@ ap <0.0001 (2-sided) for superiority
 . . .
 . . . . . . .
 . . . . .
-. . . . . . . .
-. . . .
+. . . . . . . . . . . .
 . . .
 Time since randomisation (week) Time since randomisation (week)
 Sitagliptin Ozempic 0.5 mg Ozempic 1 mg Ozempic 0.5 mg Sitagliptin Ozempic 1 mg
@@ -130,7 +132,7 @@ Sitagliptin Ozempic 0.5 mg Ozempic 1 mg Ozempic 0.5 mg Sitagliptin Ozempic 1 mg
 Figure 1 Mean change in HbA1c (%) and body weight (kg) from baseline to week 56
 
 SUSTAIN 7 – Ozempic vs. dulaglutide both in combination with metformin
-In a 40-week, open-label trial, 1,201 patients on metformin were randomised 1:1:1:1 to once weekly Ozempic 0.5 mg, dulaglutide 0.75 mg , Ozempic 1 mg or dulaglutide 1.5 mg, respectively.
+In a 40-week, open-label trial, 1,201 patients on metformin were randomised 1:1:1:1 to once weekly Ozempic 0.5 mg, dulaglutide 0.75 mg , Ozempic 1 mg or dulaglutide 1.5 mg, respectively .
 The trial compared 0.5 mg of Ozempic to 0.75 mg of dulaglutide and 1 mg of Ozempic to 1.5 mg of dulaglutide.
 
 Gastrointestinal disorders were the most frequent adverse events, and occurred in similar proportion of patients receiving Ozempic 0.5 mg (129 patients [43%]), Ozempic 1 mg (133 [44%]), and dulaglutide 1.5 mg (143 [48%]); fewer patients had gastrointestinal disorders with dulaglutide 0.75 mg (100 [33%]).
@@ -192,6 +194,7 @@ Table 5 SUSTAIN 3: Results at week 56
 | Difference from exenatide [95% CI] | -3.8 [-4.6, -3.0]a | - |
 
 ap <0.0001 (2-sided) for superiority
+
 SUSTAIN 4 – Ozempic vs. insulin glargine both in combination with 1–2 oral antidiabetic drugs (metformin or metformin and sulfonylurea)
 In a 30-week open-label comparator trial 1,089 patients were randomised to Ozempic 0.5 mg once weekly, Ozempic 1 mg once weekly, or insulin glargine once-daily on a background of metformin (48%) or metformin and sulfonylurea (51%).
 
@@ -265,7 +268,6 @@ See figure 4 for results on primary and secondary cardiovascular endpoints.
 Treatment with semaglutide resulted in a 26% risk reduction in the primary composite outcome of death from cardiovascular causes, non-fatal myocardial infarction or non-fatal stroke.
 The total numbers of cardiovascular deaths, non-fatal myocardial infarctions and non-fatal strokes were 90, 111, and 71, respectively, including 44 (2.7%), 47 (2.9%), and 27 (1.6%), respectively, with semaglutide (figure 4).
 The risk reduction in the primary composite outcome was mainly driven by decreases in the rate of non-fatal stroke (39%) and non-fatal myocardial infarction (26%) (figure 3).
-
 HR: 0.74
 95% CI 0.58: 0.95
 
@@ -278,6 +280,7 @@ Time from randomisation (week)
 Ozempic Placebo
 
 Figure 3 Kaplan-Meier plot of time to first occurrence of the composite outcome: cardiovascular death, non-fatal myocardial infarction or non-fatal stroke (SUSTAIN 6)
+
 Hazard Ratio Ozempic Placebo
 
 (95% CI) N (%) N (%)
@@ -303,7 +306,6 @@ The hazard ratio [95% CI] for time to nephropathy (new onset of persistent macro
 
 Body weight
 After one year of treatment, a weight loss of ≥5% and ≥10% was achieved for more subjects with Ozempic 0.5 mg (46% and 13%) and 1 mg (52 – 62% and 21 – 24%) compared with the active comparators sitagliptin (18% and 3%) and exenatide ER (17% and 4%).
-
 In the 40-week trial versus dulaglutide a weight loss of ≥5% and ≥10% was achieved for more subjects with Ozempic 0.5 mg (44% and 14%) compared with dulaglutide 0.75 mg (23% and 3%) and Ozempic 1 mg (up to 63% and 27%) compared with dulaglutide 1.5 mg (30% and 8%).
 
 A significant and sustained reduction in body weight from baseline to week 104 was observed with Ozempic 0.5 mg and 1 mg vs placebo 0.5 mg and 1 mg, in addition to standard-of-care (-3.6 kg and -4.9 kg vs -0.7 kg and -0.5 kg , respectively) in SUSTAIN 6.
