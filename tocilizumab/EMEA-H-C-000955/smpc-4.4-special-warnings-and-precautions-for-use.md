@@ -29,7 +29,6 @@ Complications of diverticulitis
 Events of diverticular perforations as complications of diverticulitis have been reported uncommonly with RoActemra in RA patients (see section 4.8).
 RoActemra should be used with caution in patients with previous history of intestinal ulceration or diverticulitis.
 Patients presenting with symptoms potentially indicative of complicated diverticulitis, such as abdominal pain, haemorrhage and/or unexplained change in bowel habits with fever should be evaluated promptly for early identification of diverticulitis which can be associated with gastrointestinal perforation.
-
 Hypersensitivity reactions
 Serious hypersensitivity reactions have been reported in association with infusion of RoActemra (see section 4.8).
 Such reactions may be more severe, and potentially fatal in patients who have experienced hypersensitivity reactions during previous infusions even if they have received premedication with steroids and antihistamines.
@@ -39,19 +38,22 @@ If an anaphylactic reaction or other serious hypersensitivity / serious infusion
 Active hepatic disease and hepatic impairment
 Treatment with RoActemra, particularly when administered concomitantly with MTX, may be associated with elevations in hepatic transaminases, therefore, caution should be exercised when considering treatment of patients with active hepatic disease or hepatic impairment (see sections 4.2 and 4.8).
 
-Hepatic transaminase elevations
-In clinical trials, transient or intermittent mild and moderate elevations of hepatic transaminases have been reported commonly with RoActemra treatment, without progression to hepatic injury (see section 4.8).
+Hepatotoxicity
+Transient or intermittent mild and moderate elevations of hepatic transaminases have been reported commonly with RoActemra treatment (see section 4.8).
 An increased frequency of these elevations was observed when potentially hepatotoxic drugs (e.g. MTX) were used in combination with RoActemra.
 When clinically indicated, other liver function tests including bilirubin should be considered.
+
+Serious drug-induced liver injury, including acute liver failure, hepatitis and jaundice, have been observed with RoActemra (see section 4.8).
+Serious hepatic injury occurred between 2 weeks to more than 5 years after initiation of RoActemra.
+Cases of liver failure resulting in liver transplantation have been reported.
+Patients should be advised to immediately seek medical help if they experience signs and symptoms of hepatic injury.
 
 Caution should be exercised when considering initiation of RoActemra treatment in patients with elevated ALT or AST > 1.5 x ULN.
 In patients with baseline ALT or AST > 5 x ULN, treatment is not recommended.
 
-In RA patients, ALT and AST levels should be monitored every 4 to 8 weeks for the first 6 months of treatment followed by every 12 weeks thereafter.
-For recommended modifications based on transaminases see section 4.2.
+In RA, pJIA and sJIA patients, ALT/AST should be monitored every 4 to 8 weeks for the first 6 months of treatment followed by every 12 weeks thereafter.
+For recommended modifications, including RoActemra discontinuation, based on transaminases levels see section 4.2.
 For ALT or AST elevations > 3–5 x ULN, confirmed by repeat testing, RoActemra treatment should be interrupted.
-
-In sJIA and pJIA patients, ALT and AST levels should be monitored at the time of the second infusion and thereafter according to good clinical practice, see section 4.2.
 
 Haematological abnormalities
 Decreases in neutrophil and platelet counts have occurred following treatment with tocilizumab 8 mg/kg in combination with MTX (see section 4.8).
@@ -65,12 +67,12 @@ Severe neutropenia may be associated with an increased risk of serious infection
 
 In RA patients, neutrophils and platelets should be monitored 4 to 8 weeks after start of therapy and thereafter according to standard clinical practice.
 For recommended dose modifications based on ANC and platelet counts, see section 4.2.
-
 In sJIA and pJIA patients, neutrophils and platelets should be monitored at the time of second infusion and thereafter according to good clinical practice, see section 4.2.
 
 Lipid parameters
 Elevations in lipid parameters including total cholesterol, low-density lipoprotein (LDL), high-density lipoprotein (HDL) and triglycerides were observed in patients treated with tocilizumab (see section 4.8).
 In the majority of patients, there was no increase in atherogenic indices, and elevations in total cholesterol responded to treatment with lipid lowering agents.
+
 In sJIA, pJIA and RA patients, assessment of lipid parameters should be performed 4 to 8 weeks following initiation of RoActemra therapy.
 Patients should be managed according to local clinical guidelines for management of hyperlipidaemia.
 
@@ -119,28 +121,25 @@ Vigilance for the timely detection of serious infection is recommended for patie
 
 As recommended for other biological treatments, all patients should be screened for latent tuberculosis (TB) infection prior to starting RoActemra therapy.
 
-Patients should be advised to seek medical advice if signs/symptoms (e.g., persistent cough, wasting/weight loss, low grade (fever) suggestive of a tuberculosis infection occur during or after therapy with RoActemra.
+Patients and parents/guardians of sJIA or pJIA patients should be advised to seek medical advice if signs/symptoms (e.g., persistent cough, wasting/weight loss, low grade (fever) suggestive of a tuberculosis infection occur during or after therapy with RoActemra.
 
 In clinical studies with RoActemra, patients who screened positive for hepatitis were excluded.
 
 Events of diverticular perforations as complications of diverticulitis have been reported uncommonly in patients treated with RoActemra (see section 4.8).
-
 Serious hypersensitivity reactions, including anaphylaxis have been reported in association with RoActemra (see section 4.8).
 Such reactions may be more severe, and potentially fatal in patients who have experienced hypersensitivity reactions during previous treatment with RoActemra even if they have received premedication with steroids and antihistamines.
 If an anaphylactic reaction or other serious hypersensitivity reaction occurs, administration of RoActemra should be stopped immediately, appropriate therapy initiated and tocilizumab should be permanently discontinued.
 
-In RA and GCA patients, ALT and AST levels should be monitored every 4 to 8 weeks for the first 6 months of treatment followed by every 12 weeks thereafter.
+In RA, GCA, pJIA and sJIA patients, ALT/AST should be monitored every 4 to 8 weeks for the first 6 months of treatment followed by every 12 weeks thereafter.
 For ALT or AST elevations > 3–5 x ULN, RoActemra treatment should be interrupted.
-
-In sJIA and pJIA patients, ALT and AST should be monitored at the time of the second administration and thereafter according to good clinical practice (see section 4.2).
 
 In patients not previously treated with RoActemra, initiation is not recommended in patients with an ANC below 2 x 109/L.
 
 In RA and GCA patients, neutrophils and platelets should be monitored 4 to 8 weeks after start of therapy and thereafter according to standard clinical practice.
-
 In sJIA and pJIA patients, neutrophils and platelets should be monitored at the time of the second administration and thereafter according to good clinical practice (see section 4.2).
 
 Elevations in lipid parameters including total cholesterol, low-density lipoprotein (LDL), high-density lipoprotein (HDL) and triglycerides were observed in patients treated with RoActemra (see section 4.8).
+
 In all patients, assessment of lipid parameters should be performed 4 to 8 weeks following initiation of RoActemra therapy.
 
 It is recommended that all patients particularly paediatric or elderly patients, be brought up to date with all immunisations in agreement with current immunisation guidelines prior to initiating RoActemra therapy.
@@ -158,9 +157,10 @@ In clinical trials, RoActemra has not been studied in patients during an episode
 
 [RoActemra 162 mg solution for injection in pre-filled pen.]
 
-Vigilance for the timely detection of serious infection is recommended for patients receiving immunosuppressive agents such as RoActemra for moderate to severe RA or GCA as signs and symptoms of acute inflammation may be lessened, due to suppression of the acute phase reactants.
 The effects of RoActemra on C-reactive protein (CRP), neutrophils and signs and symptoms of infection should be considered when evaluating a patient for a potential infection.
-Patients should be instructed to contact their healthcare professional immediately when any symptoms suggesting infection appear, in order to assure rapid evaluation and appropriate treatment.
+Patients, and parents/guardians of sJIA or pJIA patients, should be instructed to contact their healthcare professional immediately when any symptoms suggesting infection appear, in order to assure rapid evaluation and appropriate treatment.
+
+Patients, and parents/guardians of sJIA or pJIA patients should be advised to seek medical advice if signs/symptoms (e.g., persistent cough, wasting/weight loss, low grade (fever) suggestive of a tuberculosis infection occur during or after therapy with RoActemra.
 
 If an anaphylactic reaction or other serious hypersensitivity reaction occurs, administration of RoActemra should be stopped immediately, appropriate therapy initiated and RoActemra should be permanently discontinued.
 

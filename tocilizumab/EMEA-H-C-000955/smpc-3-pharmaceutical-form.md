@@ -6,7 +6,7 @@ Clear to opalescent, colourless to pale yellow solution.
 
 [RoActemra 162 mg solution for injection in pre-filled syringe.]
 
-Solution for injection (injection).
+Solution for injection in pre-filled syringe.
 
 A colourless to slightly yellowish solution.
 

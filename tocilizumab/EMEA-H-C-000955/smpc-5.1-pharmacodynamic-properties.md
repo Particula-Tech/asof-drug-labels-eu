@@ -19,7 +19,6 @@ In tocilizumab-treated patients, decreases in the levels of CRP to within normal
 In healthy subjects administered tocilizumab in doses from 2 to 28 mg/kg, absolute neutrophil counts decreased to their lowest 3 to 5 days following administration.
 Thereafter, neutrophils recovered towards baseline in a dose dependent manner.
 Rheumatoid arthritis patients demonstrated a similar pattern of absolute neutrophil counts following tocilizumab administration (see section 4.8).
-
 Clinical efficacy and safety
 The efficacy of tocilizumab in alleviating the signs and symptoms of RA was assessed in five randomised, double-blind, multi-centre studies.
 Studies I-V enrolled patients ≥ 18 years of age with active RA diagnosed according to the American College of Rheumatology (ACR) criteria and who had at least eight tender and six swollen joints at baseline.
@@ -60,7 +59,6 @@ Time to onset was rapid (as early as week 2) and the magnitude of response conti
 Continued durable responses were seen for over 3 years in the open label extension studies I-V.
 
 In patients treated with tocilizumab 8 mg/kg, significant improvements were noted on all individual components of the ACR response including: tender and swollen joint counts; patients and physician global assessment; disability index scores; pain assessment and CRP compared to patients receiving placebo plus MTX or other DMARDs in all studies.
-
 Patients in studies I – V had a mean Disease Activity Score (DAS28) of 6.5–6.8 at baseline.
 Significant reduction in DAS28 from baseline (mean improvement) of 3.1–3.4 were observed in tocilizumab-treated patients compared to control patients (1.3-2.1).
 The proportion of patients achieving a DAS28 clinical remission (DAS28 < 2.6) was significantly higher in patients receiving tocilizumab (28–34%) compared to 1–12% of control patients at 24 weeks.
@@ -101,9 +99,9 @@ After 2 years of treatment with tocilizumab plus MTX, 14% of patients achieved a
 Radiographic response
 In Study II, in patients with an inadequate response to MTX, inhibition of structural joint damage was assessed radiographically and expressed as change in modified Sharp score and its components, the erosion score and joint space narrowing score.
 Inhibition of joint structural damage was shown with significantly less radiographic progression in patients receiving tocilizumab compared to control (Table 4).
-
 In the open-label extension of Study II the inhibition of progression of structural joint damage in tocilizumab plus MTX-treated patients was maintained in the second year of treatment.
 The mean change from baseline at week 104 in total Sharp-Genant score was significantly lower for patients randomised to tocilizumab 8 mg/kg plus MTX (p<0.0001) compared with patients who were randomised to placebo plus MTX.
+
 Table 4.
 Radiographic mean changes over 52 weeks in Study II
 
@@ -211,7 +209,6 @@ Clinical efficacy
 The efficacy of tocilizumab for the treatment of active sJIA was assessed in a 12 week randomised, double blind, placebo-controlled, parallel group, two arm study.
 Patients included in the trial had a total disease duration of at least 6 months and active disease but were not experiencing an acute flare requiring corticosteroid doses of more than 0.5 mg/kg prednisone equivalent.
 Efficacy for the treatment of macrophage activation syndrome has not been investigated.
-
 Patients (treated with or without MTX) were randomised (tocilizumab:placebo = 2:1) to one of two treatment groups, 75 patients received tocilizumab infusions every two weeks, either 8 mg/kg for patients ≥ 30 kg or 12 mg/kg for patients < 30 kg and 37 patients were assigned to receiving placebo infusions every two weeks.
 Corticosteroid tapering was permitted from week six for patients who achieved a JIA ACR70 response.
 After 12 weeks or at the time of escape, due to disease worsening, patients were treated in the open label phase at weight appropriate dosing.
@@ -251,7 +248,6 @@ At week 12, the proportion of tocilizumab treated patients showing a minimally c
 Laboratory Parameters
 Fifty out of seventy five (67%) tocilizumab treated patients had a haemoglobin < LLN at baseline.
 Forty (80%) of these patients had an increase in their haemoglobin to within the normal range at week 12, in comparison to 2 out of 29 (7%) of placebo treated patients with haemoglobin < LLN at baseline (p<0.0001).
-
 pJIA Patients
 Clinical efficacy
 The efficacy of tocilizumab was assessed in a three-part study WA19977 including an open-label extension in children with active pJIA.
@@ -325,95 +321,11 @@ In RoActemra -treated patients, decreases in the levels of CRP to within normal 
 
 In GCA clinical study WA28119, similar rapid decreases in CRP and ESR were observed along with slight increases in mean corpuscular haemoglobin concentration.
 In healthy subjects administered RoActemra in doses from 2 to 28 mg/kg intravenously and 81 to 162 mg subcutaneously, absolute neutrophil counts decreased to their lowest 2 to 5 days following administration.
+
 Patients demonstrate a comparable (to healthy subjects) decrease of absolute neutrophil counts following RoActemra administration (see section 4.8).
 
-RA
-Intravenous use
-The efficacy of RoActemra in alleviating the signs and symptoms of RA was assessed in five randomised, double-blind, multi-centre studies.
-
-In Study I, RoActemra was administered intravenously every four weeks as monotherapy.
-In Studies II, III and V, RoActemra was administered intravenously every four weeks in combination with MTX vs. placebo and MTX.
-In Study IV, RoActemra was administered intravenously every 4 weeks in combination with other DMARDs vs. placebo and other DMARDs.
-
-Doses of 8 mg/kg of RoActemra were given every four weeks as monotherapy.
-
-Study II, a two year study with planned analyses at week 24, week 52 and week 104, evaluated 1196 patients who had an inadequate clinical response to MTX.
-Doses of 4 or 8 mg/kg of RoActemra or placebo were given every four weeks as blinded therapy for 52 weeks in combination with stable MTX (10 mg to 25 mg weekly).
-After week 52, all patients could receive open-label treatment with RoActemra 8 mg/kg.
-Of the patients who completed the study who were originally randomised to placebo + MTX, 86% received open-label RoActemra 8 mg/kg in year 2.
-
-Doses of 4 or 8 mg/kg RoActemra or placebo were given every four weeks, in combination with stable MTX (10 mg to 25 mg weekly).
-
-Doses of 8 mg/kg RoActemra or placebo were given every four weeks in combination with stable DMARDs.
-
-Doses of 4 or 8 mg/kg RoActemra or placebo were given every four weeks in combination with stable MTX (10 mg to 25 mg weekly).
-
-In all studies, patients treated with RoActemra 8 mg/kg had statistically significant higher ACR 20, 50, 70 response rates at 6 months compared to control (Table 2).
-In study I, superiority of RoActemra 8 mg/kg was demonstrated against the active comparator MTX.
-
-In patients treated with RoActemra 8 mg/kg, significant improvements were noted on all individual components of the ACR response including: tender and swollen joint counts; patients and physician global assessment; disability index scores; pain assessment and CRP compared to patients receiving placebo plus MTX or other DMARDs in all studies.
-
-Significant reduction in DAS28 from baseline (mean improvement) of 3.1–3.4 was observed in RoActemra-treated patients compared to control patients (1.3-2.1).
-The proportion of patients achieving a DAS28 clinical remission (DAS28 < 2.6) was significantly higher in patients receiving RoActemra (28–34%) compared to 1–12% of control patients at 24 weeks.
-
-Similarly the proportion of patients achieving a DAS 28 remission (DAS28 < 2.6) was significantly higher (31% vs. 16% respectively) in patients receiving RoActemra 8 mg/kg plus DMARD than in patients receiving RoActemra 4 mg/kg plus DMARD (p< 0.0001).
-
-Table 2.
-
-|  | Study I AMBITION |  | Study II LITHE |  | Study III OPTION |  | Study IV TOWARD |  | Study V RADIATE |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Wee k | TCZ 8 mg/k g | MT X | TCZ 8 mg/k g + MT X | PBO + MT X | TCZ 8 mg/k g + MT X | PBO + MT X | TCZ 8 mg/kg + DMAR D | PBO + DMAR D | TCZ 8 mg/k g + MT X | PBO + MTX |
-|  | N = 286 | N = 284 | N = 398 | N = 393 | N = 205 | N = 204 | N = 803 | N = 413 | N = 170 | N = 158 |
-| ACR 20 |  |  |  |  |  |  |  |  |  |  |
-| 24 | 70%** * | 52% | 56%** * | 27% | 59%** * | 26% | 61%*** | 24% | 50%** * | 10% |
-| 52 |  |  | 56%** * | 25% |  |  |  |  |  |  |
-| ACR 50 |  |  |  |  |  |  |  |  |  |  |
-| 24 | 44%** | 33% | 32%** * | 10% | 44%** * | 11% | 38%*** | 9% | 29%** * | 4% |
-| 52 |  |  | 36%** * | 10% |  |  |  |  |  |  |
-| ACR 70 |  |  |  |  |  |  |  |  |  |  |
-| 24 | 28%** | 15% | 13%** * | 2% | 22%** * | 2% | 21%*** | 3% | 12%** | 1% |
-| 52 |  |  | 20%** 4% * |  |  |  |  |  |  |  |
-
-After 2 years of treatment with RoActemra plus MTX, 14% of patients achieved a major clinical response (maintenance of an ACR70 response for 24 weeks or more).
-
-Inhibition of joint structural damage was shown with significantly less radiographic progression in patients receiving RoActemra compared to control (Table 3).
-
-In the open-label extension of Study II the inhibition of progression of structural joint damage in RoActemra plus MTX-treated patients was maintained in the second year of treatment.
-The mean change from baseline at week 104 in total Sharp-Genant score was significantly lower for patients randomised to RoActemra 8 mg/kg plus MTX (p<0.0001) compared with patients who were randomised to placebo plus MTX.
-
-Following 1 year of treatment with RoActemra plus MTX, 85% of patients(n=348) had no progression of structural joint damage, as defined by a change in the Total Sharp Score of zero or less, compared with 67% of placebo plus MTX-treated patients(n=290) (p ≤ 0.001).
-
-RoActemra -treated patients reported an improvement in all patient-reported outcomes (Health Assessment Questionnaire Disability Index - HAQ-DI), Short Form-36 and Functional Assessment of Chronic Illness Therapy questionnaires.
-At Week 52, the mean change in HAQ-DI was -0.58 in the RoActemra 8 mg/kg plus MTX group compared with -0.39 in the placebo + MTX group.
-The mean change in HAQ-DI was maintained at Week 104 in the RoActemra 8 mg/kg plus MTX group (-0.61).
-
-Statistically significant improvements in haemoglobin levels were observed with RoActemra compared with DMARDs (p< 0.0001) at week 24.
-
-RoActemra versus adalimumab in monotherapy
-Study VI (WA19924), a 24 week double-blinded study that compared RoActemra monotherapy with adalimumab monotherapy, evaluated 326 patients with RA who were intolerant of MTX or where continued treatment with MTX was considered inappropriate (including MTX inadequate responders).
-Patients in the RoActemra arm received an intravenous (IV) infusion of RoActemra (8 mg/kg) every 4 weeks (q4w) and a subcutaneous (SC) placebo injection every 2 weeks (q2w).
-
-A statistically significant superior treatment effect was seen in favour of RoActemra over adalimumab in control of disease activity from baseline to week 24 for the primary endpoint of change in DAS28 and for all secondary endpoints (Table 4).
-Table 4: Efficacy Results for Study VI (WA19924)
-ADA + Placebo TCZ + Placebo
-
-(IV) (SC)
-
-Difference in adjusted mean (95% -1.5 (-1.8, -1.1) <0.0001
-
-CI)
-
-The overall clinical adverse event profile was similar between RoActemra and adalimumab.
-The proportion of patients with serious adverse events was balanced between the treatment groups (RoActemra 11.7% vs. adalimumab 9.9%).
-The types of adverse drug reactions in the RoActemra arm were consistent with the known safety profile of RoActemra and adverse drug reactions were reported at a similar frequency compared with Table 1.
-A higher incidence of infections and infestations was reported in the RoActemra arm (48% vs. 42%), with no difference in the incidence of serious infections (3.1%).
-Both study treatments induced the same pattern of changes in laboratory safety parameters (decreases in neutrophil and platelet counts, increases in ALT, AST and lipids), however, the magnitude of change and the frequency of marked abnormalities was higher with RoActemra compared with adalimumab.
-Four (2.5%) patients in the RoActemra arm and two (1.2%) patients in the adalimumab arm experienced CTC grade 3 or 4 neutrophil count decreases.
-Eleven (6.8%) patients in the RoActemra arm and five (3.1%) patients in the adalimumab arm experienced ALT increases of CTC grade 2 or higher.
-The mean LDL increase from baseline was 0.64 mmol/L (25 mg/dL) for patients in the RoActemra arm and 0.19 mmol/L (7 mg/dL) for patients in the adalimumab arm.
-The safety observed in the tocilizumab arm was consistent with the known safety profile of RoActemra and no new or unexpected adverse drug reactions were observed (see Table 1).
-
 Subcutaneous use
+RA
 The efficacy of subcutaneous administered RoActemra in alleviating the signs and symptoms of RA and radiographic response, was assessed in two randomised, double-blind, controlled, multi-center studies.
 For study I (SC-I), patients were required to be >18 years of age with moderate to severe active RA diagnosed according to ACR criteria who had at least 4 tender and 4 swollen joints at baseline.
 All patients received background non-biologic DMARD(s).
@@ -426,9 +338,8 @@ Study SC-I evaluated patients with moderate to severe active RA who had an inade
 In SC-I,
 1262 patients were randomized 1:1 to receive RoActemra subcutaneous 162 mg every week or RoActemra intravenous 8 mg/kg every four weeks in combination with non-biologic DMARD(s).
 The primary endpoint in the study was the difference in the proportion of patients who achieved an ACR20 response at week 24.
-The results from study SC-I is shown in Table 5.
-
-Table 5.
+The results from study SC-I is shown in Table 2.
+Table 2.
 ACR responses in study SC-I (% patients) at Week 24
 
 |  | SC-Ia |  |
@@ -457,6 +368,7 @@ These results are consistent with those observed in patients treated with intrav
 In study SC-II, at week 24 there was ACR20 of 60.9%, ACR50 of 39.8% and ACR70 of 19.7% for patients treated with RoActemra subcutaneous every other week versus placebo ACR20 of 31.5%, ACR50 of 12.3% and ACR70 of 5.0%.
 Patients had mean DAS28 at baseline of 6.7 on subcutaneous and 6.6 on placebo arms.
 At week 24, a significant reduction in DAS28 from baseline of 3.1 was observed on subcutaneous and 1.7 on placebo arm, and for DAS28 < 2.6, 32.0% was observed on subcutaneous and 4.0% on placebo arm.
+
 In study SC-I, the mean decrease in HAQ-DI from baseline to week 24 was 0.6 on both the subcutaneous and intravenous arms.
 The proportion of patients achieving a clinically relevant improvement in HAQ-DI at week 24 (change from baseline of ≥ 0.3 units) was also comparable on the subcutaneous (65.2%) versus intravenous (67.4%) arms, with a weighted difference in proportions of - 2.3% (95% CI - 8.1, 3.4).
 For SF-36, the mean change from baseline at week 24 in the mental component score was 6.22 for the subcutaneous arm and 6.54 for the intravenous arm, and for the physical component score was also similar with 9.49 for the subcutaneous arm and 9.65 for the intravenous arm.
@@ -465,7 +377,7 @@ In study SC-II, mean decrease in HAQ-DI from baseline to week 24 was significant
 Proportion of patients achieving a clinically relevant improvement in HAQ-DI at week 24 (change from baseline of ≥ 0.3 units) was higher for RoActemra subcutaneous every other week (58%) versus placebo (46.8%).
 SF-36 (mean change in mental and physical component scores) was significantly greater with RoActemra subcutaneous group (6.5 and 5.3) versus placebo (3.8 and 2.9).
 
-sJIA
+sJIA (SC)
 A 52-week, open-label, multi-centre, PK/PD and safety study (WA28118) was conducted in paediatric patients with sJIA, aged 1 to 17 years, to determine the appropriate SC dose of RoActemra that achieved comparable PK/PD and safety profiles to the IV regimen.
 
 Eligible patients received RoActemra dosed according to body weight (BW), with patients weighing
@@ -474,6 +386,7 @@ Of these 51 patients, 26 (51%) were naive to RoActemra and 25 (49%) had been rec
 
 Exploratory efficacy results showed that RoActemra SC improved all exploratory efficacy parameters including Juvenile Arthritis Disease Activity Score (JADAS)-71, for TCZ naïve patients and maintained all exploratory efficacy parameters for patients who switched from RoActemra IV to RoActemra SC treatment over the entire course of the study for patients in both body weight groups (below 30 kg and ≥30 kg).
 
+pJIA (SC)
 A 52-week, open-label, multicenter, PK-PD and safety study was conducted in paediatric patients with pJIA, aged 1 to 17 years old, to determine the appropriate subcutaneous dose of RoActemra that achieved comparable PK/PD and safety profiles to the IV regimen.
 
 Eligible patients received tocilizumab dosed according to body weight (BW), with patients weighing ≥30 kg (n = 25) dosed with 162 mg of RoActemra every 2 weeks (Q2W) and patients weighing below 30 kg (n = 27) dosed with 162 mg of RoActemra every 3 weeks (Q3W) for 52 weeks.
@@ -482,7 +395,8 @@ Of these 52 patients, 37 (71%) were naive to RoActemra and 15 (29%) had been rec
 The RoActemra SC regimens of 162 mg Q3W for patients weighing below 30 kg and of 162 mg Q2W for patients weighing ≥ 30 kg respectively provide PK exposure and PD responses to support efficacy and safety outcomes similar to those achieved with the approved RoActemra IV regimens for pJIA.
 
 Exploratory efficacy results showed that RoActemra SC improved median Juvenile Arthritis Disease Activity Score (JADAS)-71 for RoActemra naïve patients and maintained the median JADAS-71 for patients who switched from IV to SC RoActemra treatment over the entire course of the study for patients in both body weight groups (below 30 kg and ≥ 30 kg).
-GCA
+
+GCA (SC)
 Study WA28119 was a randomized, multi-center, double-blind placebo-controlled Phase III superiority study conducted to assess the efficacy and safety of RoActemra in patients with GCA.
 
 Two hundred and fifty one (251) patients with new-onset or relapsing GCA were enrolled and assigned to one of four treatment arms.
@@ -494,9 +408,10 @@ Two subcutaneous doses of RoActemra (162 mg every week and 162 mg every other we
 All patients received background glucocorticoid (prednisone) therapy.
 Each of the RoActemra-treated groups and one of the placebo-treated groups followed a pre-specified prednisone-taper regimen over 26 weeks, while the second placebo-treated group followed a pre-specified prednisone-taper regimen over 52 weeks, designed to be more in keeping with standard practice.
 
-The duration of glucocorticoid therapy during screening and before RoActemra (or placebo) was initiated, was similar in all 4 treatment groups (see Table 6).
-Table 6.
+The duration of glucocorticoid therapy during screening and before RoActemra (or placebo) was initiated, was similar in all 4 treatment groups (see Table 3).
+
 Duration of Corticosteroid Therapy During Screening in Study WA28119
+
 Placebo + 26 Placebo + 52 RoActemra 162mg SC RoActemra 162 mg SC
 
 weeks prednisone weeks weekly + 26 weeks every other weekly + 26
@@ -513,13 +428,14 @@ Median 42.0 41.0 41.0 42.0
 Min - 6 - 63 12 – 82 1 - 87 9 - 87
 
 Max
-The primary efficacy endpoint assessed by the proportion of patients achieving steroid free sustained remission at week 52 on RoActemra plus 26 weeks prednisone taper compared with placebo plus 26 weeks prednisone taper, was met (Table 7).
 
-The key secondary efficacy endpoint also based on the proportion of patients achieving sustained remission at week 52, comparing tocilizumab plus 26 weeks prednisone taper with placebo plus 52 weeks prednisone taper, was also met (Table 7).
+The primary efficacy endpoint assessed by the proportion of patients achieving steroid free sustained remission at week 52 on RoActemra plus 26 weeks prednisone taper compared with placebo plus 26 weeks prednisone taper, was met (Table 4).
+
+The key secondary efficacy endpoint also based on the proportion of patients achieving sustained remission at week 52, comparing tocilizumab plus 26 weeks prednisone taper with placebo plus 52 weeks prednisone taper, was also met (Table 4).
 
 A statistically significant superior treatment effect was seen in favour of RoActemra over placebo in achieving steroid-free sustained remission at week 52 on RoActemra plus 26 weeks prednisone taper compared with placebo plus 26 weeks prednisone taper and with placebo plus 52 weeks prednisone taper.
 
-The percentage of patients achieving sustained remission at week 52, are shown in the Table 7.
+The percentage of patients achieving sustained remission at week 52, are shown in the Table 4.
 
 Secondary Endpoints
 
@@ -529,15 +445,14 @@ placebo plus 52 weeks prednisone taper groups and for the RoActemra subcutaneous
 weekly group compared to placebo plus 26 weeks prednisone (when compared at a 0.01 significance
 level). RoActemra subcutaneous weekly dose also showed a clinically meaningful decrease in the risk
 
-for flare compared to placebo plus 26 weeks prednisone in patients who entered the trial with relapsing GCA as well as those with new-onset disease (Table 7).
-
+for flare compared to placebo plus 26 weeks prednisone in patients who entered the trial with relapsing GCA as well as those with new-onset disease (Table 4).
 Cumulative glucocorticoid dose
-
-The cumulative prednisone dose at week 52 was significantly lower in the two RoActemra dose groups compared to the two placebo groups (Table 6).
+The cumulative prednisone dose at week 52 was significantly lower in the two RoActemra dose groups compared to the two placebo groups (Table 4).
 In a separate analysis of the patients who received escape prednisone to treat GCA flare during the first 52 weeks, the cumulative prednisone dose varied greatly.
 The median doses for escape patients in the RoActemra weekly and every other weekly groups were 3129.75 mg and 3847 mg, respectively.
 Both considerably lower than in the placebo plus 26 weeks and the placebo plus 52 weeks prednisone taper groups, 4023.5 mg and 5389.5 mg respectively.
 Efficacy results from Study WA28119
+
 Placebo + 26 Placebo + 52 RoActemra 162mg RoActemra 162 mg
 
 weeks weeks SC weekly + 26 SC every other
@@ -625,6 +540,91 @@ Change in EQ5D scores from baseline to week 52 were RoActemra weekly plus 26 wee
 
 Higher scores signal improvement in both FACIT-Fatigue and EQ5D.
 
+Intravenous use
+The efficacy of RoActemra in alleviating the signs and symptoms of RA was assessed in five randomised, double-blind, multi-centre studies.
+
+In Study I, RoActemra was administered intravenously every four weeks as monotherapy.
+In Studies II, III and V, RoActemra was administered intravenously every four weeks in combination with MTX vs. placebo and MTX.
+In Study IV, RoActemra was administered intravenously every 4 weeks in combination with other DMARDs vs. placebo and other DMARDs.
+
+Doses of 8 mg/kg of RoActemra were given every four weeks as monotherapy.
+Study II, a two year study with planned analyses at week 24, week 52 and week 104, evaluated 1196 patients who had an inadequate clinical response to MTX.
+Doses of 4 or 8 mg/kg of RoActemraor placebo were given every four weeks as blinded therapy for 52 weeks in combination with stable MTX (10 mg to 25 mg weekly).
+After week 52, all patients could receive open-label treatment with RoActemra 8 mg/kg.
+Of the patients who completed the study who were originally randomised to placebo + MTX, 86% received open-label RoActemra 8 mg/kg in year 2.
+
+Doses of 4 or 8 mg/kg RoActemra or placebo were given every four weeks, in combination with stable MTX (10 mg to 25 mg weekly).
+
+Doses of 8 mg/kg RoActemra or placebo were given every four weeks in combination with stable DMARDs.
+
+Doses of 4 or 8 mg/kg RoActemra or placebo were given every four weeks in combination with stable MTX (10 mg to 25 mg weekly).
+
+In all studies, patients treated with RoActemra 8 mg/kg had statistically significant higher ACR 20, 50, 70 response rates at 6 months compared to control (Table 5).
+In study I, superiority of RoActemra 8 mg/kg was demonstrated against the active comparator MTX.
+
+In patients treated with RoActemra 8 mg/kg, significant improvements were noted on all individual components of the ACR response including: tender and swollen joint counts; patients and physician global assessment; disability index scores; pain assessment and CRP compared to patients receiving placebo plus MTX or other DMARDs in all studies.
+
+Significant reduction in DAS28 from baseline (mean improvement) of 3.1–3.4 was observed in RoActemra-treated patients compared to control patients (1.3-2.1).
+The proportion of patients achieving a DAS28 clinical remission (DAS28 < 2.6) was significantly higher in patients receiving RoActemra (28–34%) compared to 1–12% of control patients at 24 weeks.
+
+Similarly the proportion of patients achieving a DAS 28 remission (DAS28 < 2.6) was significantly higher (31% vs. 16% respectively) in patients receiving RoActemra 8 mg/kg plus DMARD than in patients receiving RoActemra 4 mg/kg plus DMARD (p< 0.0001).
+Table 5.
+
+|  | Study I AMBITION |  | Study II LITHE |  | Study III OPTION |  | Study IV TOWARD |  | Study V RADIATE |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Wee k | TCZ 8 mg/k g | MT X | TCZ 8 mg/k g + MT X | PBO + MT X | TCZ 8 mg/k g + MT X | PBO + MT X | TCZ 8 mg/kg + DMAR D | PBO + DMAR D | TCZ 8 mg/k g + MT X | PBO + MTX |
+|  | N = 286 | N = 284 | N = 398 | N = 393 | N = 205 | N = 204 | N = 803 | N = 413 | N = 170 | N = 158 |
+| ACR 20 |  |  |  |  |  |  |  |  |  |  |
+| 24 | 70%** * | 52% | 56%** * | 27% | 59%** * | 26% | 61%*** | 24% | 50%** * | 10% |
+| 52 |  |  | 56%** * | 25% |  |  |  |  |  |  |
+| ACR 50 |  |  |  |  |  |  |  |  |  |  |
+| 24 | 44%** | 33% | 32%** * | 10% | 44%** * | 11% | 38%*** | 9% | 29%** * | 4% |
+| 52 |  |  | 36%** * | 10% |  |  |  |  |  |  |
+| ACR 70 |  |  |  |  |  |  |  |  |  |  |
+| 24 | 28%** | 15% | 13%** * | 2% | 22%** * | 2% | 21%*** | 3% | 12%** | 1% |
+| 52 |  |  | 20%** 4% * |  |  |  |  |  |  |  |
+
+After 2 years of treatment with RoActemra plus MTX, 14% of patients achieved a major clinical response (maintenance of an ACR70 response for 24 weeks or more).
+
+Inhibition of joint structural damage was shown with significantly less radiographic progression in patients receiving RoActemra compared to control (Table 6).
+
+In the open-label extension of Study II the inhibition of progression of structural joint damage in RoActemra plus MTX-treated patients was maintained in the second year of treatment.
+The mean change from baseline at week 104 in total Sharp-Genant score was significantly lower for patients randomised to RoActemra 8 mg/kg plus MTX (p<0.0001) compared with patients who were randomised to placebo plus MTX.
+Table 6.
+
+Following 1 year of treatment with RoActemra plus MTX, 85% of patients(n=348) had no progression of structural joint damage, as defined by a change in the Total Sharp Score of zero or less, compared with 67% of placebo plus MTX-treated patients(n=290) (p ≤ 0.001).
+
+RoActemra -treated patients reported an improvement in all patient-reported outcomes (Health Assessment Questionnaire Disability Index - HAQ-DI), Short Form-36 and Functional Assessment of Chronic Illness Therapy questionnaires.
+At Week 52, the mean change in HAQ-DI was -0.58 in the RoActemra 8 mg/kg plus MTX group compared with -0.39 in the placebo + MTX group.
+The mean change in HAQ-DI was maintained at Week 104 in the RoActemra 8 mg/kg plus MTX group (-0.61).
+
+Statistically significant improvements in haemoglobin levels were observed with RoActemra compared with DMARDs (p< 0.0001) at week 24.
+
+RoActemra versus adalimumab in monotherapy
+Study VI (WA19924), a 24 week double-blinded study that compared RoActemra monotherapy with adalimumab monotherapy, evaluated 326 patients with RA who were intolerant of MTX or where continued treatment with MTX was considered inappropriate (including MTX inadequate responders).
+Patients in the RoActemra arm received an intravenous (IV) infusion of RoActemra (8 mg/kg) every 4 weeks (q4w) and a subcutaneous (SC) placebo injection every 2 weeks (q2w).
+
+A statistically significant superior treatment effect was seen in favour of RoActemra over adalimumab in control of disease activity from baseline to week 24 for the primary endpoint of change in DAS28 and for all secondary endpoints (Table 7).
+Table 7: Efficacy Results for Study VI (WA19924)
+
+ADA + Placebo TCZ + Placebo
+
+(IV) (SC)
+
+Difference in adjusted mean (95% -1.5 (-1.8, -1.1) <0.0001
+
+CI)
+
+The overall clinical adverse event profile was similar between RoActemra and adalimumab.
+The proportion of patients with serious adverse events was balanced between the treatment groups (RoActemra 11.7% vs. adalimumab 9.9%).
+The types of adverse drug reactions in the RoActemra arm were consistent with the known safety profile of RoActemra and adverse drug reactions were reported at a similar frequency compared with Table 1.
+A higher incidence of infections and infestations was reported in the RoActemra arm (48% vs. 42%), with no difference in the incidence of serious infections (3.1%).
+Both study treatments induced the same pattern of changes in laboratory safety parameters (decreases in neutrophil and platelet counts, increases in ALT, AST and lipids), however, the magnitude of change and the frequency of marked abnormalities was higher with RoActemra compared with adalimumab.
+Four (2.5%) patients in the RoActemra arm and two (1.2%) patients in the adalimumab arm experienced CTC grade 3 or 4 neutrophil count decreases.
+Eleven (6.8%) patients in the RoActemra arm and five (3.1%) patients in the adalimumab arm experienced ALT increases of CTC grade 2 or higher.
+The mean LDL increase from baseline was 0.64 mmol/L (25 mg/dL) for patients in the RoActemra arm and 0.19 mmol/L (7 mg/dL) for patients in the adalimumab arm.
+The safety observed in the tocilizumab arm was consistent with the known safety profile of RoActemra and no new or unexpected adverse drug reactions were observed (see Table 1).
+
 [RoActemra 162 mg solution for injection in pre-filled pen.]
 
 Pharmacotherapeutic group: Immunosupressants, Interleukin inhibitors; ATC code: L04AC07.
@@ -636,13 +636,24 @@ In RA clinical studies with RoActemra, rapid decreases in CRP, erythrocyte sedim
 
 RA and GCA patients demonstrate a comparable (to healthy subjects) decrease of absolute neutrophil counts following RoActemra administration (see section 4.8).
 
+Subcutaneous Use sJIA
+
+Subcutaneous Use pJIA
+
+GCA
+
+Placebo + 26 weeks Placebo + 52 weeks RoActemra 162mg SC RoActemra 162 mg SC every
+
+prednisone taper prednisone taper weekly + 26 weeks other weekly + 26 weeks
+N=50 N=51 prednisone taper prednisone taper
+N=100 N=49
+
+Doses of 4 or 8 mg/kg of RoActemra or placebo were given every four weeks as blinded therapy for 52 weeks in combination with stable MTX (10 mg to 25 mg weekly).
+
 Continued durable responses were seen for over 3 years in the ongoing open label extension studies I-V.
 
 Significant reduction in DAS28 from baseline (mean improvement) of 3.1–3.4 were observed in RoActemra-treated patients compared to control patients (1.3-2.1).
+
 In a pooled analysis of studies II, III and IV, the proportion of patients achieving an ACR 20, 50 and 70 response was significantly higher (59% vs. 50%, 37% vs. 27%, 18% vs. 11%, respectively) in the RoActemra 8 mg/kg plus DMARD vs. the RoActemra 4 mg/kg plus DMARD group (p< 0.03).
 
 The safety observed in the RoActemra arm was consistent with the known safety profile of RoActemra and no new or unexpected adverse drug reactions were observed (see Table 1).
-
-weeks weeks weekly + 26 weeks every other weekly + 26
-
-prednisone taper prednisone taper prednisone taper weeks prednisone taper

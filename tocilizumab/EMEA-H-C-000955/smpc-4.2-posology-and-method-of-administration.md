@@ -133,7 +133,8 @@ Reduction of tocilizumab dose due to laboratory abnormalities has not been studi
 Available data suggest that clinical improvement is observed within 12 weeks of initiation of treatment with RoActemra.
 Continued therapy should be carefully reconsidered in a patient exhibiting no improvement within this timeframe.
 
-Elderly No dose adjustment is required in patients aged 65 years and older.
+Elderly
+No dose adjustment is required in elderly patients >65 years of age.
 
 Renal impairment
 No dose adjustment is required in patients with mild renal impairment.
@@ -207,14 +208,13 @@ Missed dose
 If a patient misses a subcutaneous weekly injection of RoActemra within 7 days of the scheduled dose, he/she should be instructed to take the missed dose on the next scheduled day.
 If a patient misses a subcutaneous once every other week injection of RoActemra within 7 days of the scheduled dose, he/she should be instructed to take the missed dose immediately and the next dose on the next scheduled day.
 
-Elderly:
-No dose adjustment is required in patients aged 65 years and older.
+No dose adjustment is required in elderly patients > 65 years of age.
 
 No dose adjustment is required in patients with mild or moderate renal impairment.
 RoActemra has not been studied in patients with severe renal impairment (see section 5.2).
 
 The safety and efficacy of RoActemra subcutaneous formulation in children from birth to less than 1 year have not been established.
-There is no data.
+No data are available.
 
 RoActemra can be used alone or in combination with MTX.
 
@@ -267,11 +267,19 @@ Comprehensive instructions for the administration of RoActemra in a pre-filled s
 
 [RoActemra 162 mg solution for injection in pre-filled pen.]
 
-Treatment should be initiated by healthcare professionals experienced in the diagnosis and treatment of RA and/or GCA.
-Suitability of the patient for subcutaneous home use should be assessed and patients should be instructed to inform a healthcare professional if they experience symptoms of an allergic reaction before administering the next dose.
-Patients should seek immediate medical attention if they develop symptoms of serious allergic reactions (see section 4.4).
+Tocilizumab SC formulation is administered with a single-use pre-filled pen.
+Treatment should be initiated by healthcare professionals experienced in the diagnosis and treatment of RA, sJIA, pJIA and/or GCA.
 
-No data are available
+The pre-filled pen should not be used to treat paediatric patients < 12 years of age since there is a potential risk of intramuscular injection due to thinner subcutaneous tissue layer.
+A patient or parent/guardian can inject RoActemra only if the physician determines that it is appropriate and the patient or parent/guardian agrees to medical follow-up as necessary and has been trained in proper injection technique.
+
+Suitability of the patient or parent/guardian for subcutaneous home use should be assessed and patients or their parent/guardian should be instructed to inform a healthcare professional before administering the next dose if they experience symptoms of an allergic reaction.
+
+The recommended posology in patients above 12 years of age is 162 mg subcutaneously once every week in patients weighing greater than or equal to 30 kg or 162 mg subcutaneously once every 2 weeks in patients weighing less than 30 kg.
+
+The pre-filled pen should not be used to treat paediatric patients < 12 years of age.
+
+The recommended posology in patients above 12 years of age is 162 mg subcutaneously once every 2 weeks in patients weighing greater than or equal to 30 kg or 162 mg subcutaneously once every 3 weeks in patients weighing less than 30 kg.
 
 The total content (0.9 mL) of the pre-filled pen should be administered as a subcutaneous injection.
 
