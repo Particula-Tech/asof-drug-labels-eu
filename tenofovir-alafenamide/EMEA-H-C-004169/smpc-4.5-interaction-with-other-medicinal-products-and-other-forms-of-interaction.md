@@ -2,7 +2,7 @@
 
 Interaction studies have only been performed in adults.
 
-Vemlidy should not be co-administered with medicinal products containing tenofovir disoproxil fumarate, tenofovir alafenamide or adefovir dipivoxil.
+Vemlidy should not be co-administered with medicinal products containing tenofovir disoproxil, tenofovir alafenamide or adefovir dipivoxil.
 
 Medicinal products that may affect tenofovir alafenamide
 
@@ -11,8 +11,8 @@ Medicinal products that are P-gp inducers (e.g., rifampicin, rifabutin, carbamaz
 St. John’s wort) are expected to decrease plasma concentrations of tenofovir alafenamide, which may lead to loss of therapeutic effect of Vemlidy.
 Co-administration of such medicinal products with Vemlidy is not recommended.
 
-Co-administration of Vemlidy with medicinal products that inhibit P-gp and BCRP may increase plasma concentration of tenofovir alafenamide.
-Co-administration of strong inhibitors of P-gp with Vemlidy is not recommended.
+Co-administration of tenofovir alafenamide with medicinal products that inhibit P-gp and BCRP may increase plasma concentrations of tenofovir alafenamide.
+Co-administration of strong inhibitors of P-gp with tenofovir alafenamide is not recommended.
 
 Tenofovir alafenamide is a substrate of OATP1B1 and OATP1B3 in vitro.
 The distribution of tenofovir alafenamide in the body may be affected by the activity of OATP1B1 and/or OATP1B3.
@@ -68,8 +68,16 @@ Table 1: Interactions between Vemlidy and other medicinal products
 | HIV ANTIRETROVIRAL AGENTS – CCR5 RECEPTOR ANTAGONIST |  |  |
 | Maraviroc | Interaction not studied. Expected: ↔ Tenofovir alafenamide ↔ Maraviroc | No dose adjustment of Vemlidy or maraviroc is required. |
 | HERBAL SUPPLEMENTS |  |  |
-| St. John’s wort (hypericum perforatum) | Interaction not studied. Expected: ↓ Tenofovir alafenamide | Co-administration is not recommended. |
+| St. John’s wort (Hypericum perforatum) | Interaction not studied. Expected: ↓ Tenofovir alafenamide | Co-administration is not recommended. |
 | ORAL CONTRACEPTIVES |  |  |
-| Norgestimate (0.180 mg/0.215 mg/ 0.250 mg orally, q.d.) Ethinyl estradiol (0.025 mg orally, q.d.) Tenofovir alafenamidec (25 mg orally, q.d.) | Norelgestromin ↔ Cmax 1.17 (1.07, 1.26) ↔ AUC 1.12 (1.07, 1.17) ↔ Cmin 1.16 (1.08, 1.24) Norgestrel ↔ Cmax 1.10 (1.02, 1.18) ↔ AUC 1.09 (1.01, 1.18) ↔ Cmin 1.11 (1.03, 1.20) Ethinyl estradiol ↔ Cmax 1.22 (1.15, 1.29) ↔ AUC 1.11 (1.07, 1.16) ↔ Cmin 1.02 (0.93, 1.12) | No dose adjustment of Vemlidy or norgestimate/ethinyl estradiol is required. |
+| Norgestimate (0.180 mg/0.215 mg/ 0.250 mg orally, q.d.) Ethinylestradiol (0.025 mg orally, q.d.) Tenofovir alafenamidec (25 mg orally, q.d.) | Norelgestromin ↔ Cmax 1.17 (1.07, 1.26) ↔ AUC 1.12 (1.07, 1.17) ↔ Cmin 1.16 (1.08, 1.24) Norgestrel ↔ Cmax 1.10 (1.02, 1.18) ↔ AUC 1.09 (1.01, 1.18) ↔ Cmin 1.11 (1.03, 1.20) Ethinylestradiol ↔ Cmax 1.22 (1.15, 1.29) ↔ AUC 1.11 (1.07, 1.16) ↔ Cmin 1.02 (0.93, 1.12) | No dose adjustment of Vemlidy or norgestimate/ethinyl estradiol is required. |
 
-a. All interaction studies are conducted in healthy volunteers b. All No Effect Boundaries are 70% - 143% c. Study conducted with emtricitabine/tenofovir alafenamide fixed-dose combination tablet d. A sensitive CYP3A4 substrate e. Study conducted with elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide fixed-dose combination tablet f. Study conducted with emtricitabine/rilpivirine/tenofovir alafenamide fixed-dose combination tablet g. The predominant circulating nucleoside metabolite of sofosbuvir h. Study conducted with tenofovir alafenamide 40 mg and emtricitabine 200 mg i. Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients.
+a All interaction studies are conducted in healthy volunteers.
+b All No Effect Boundaries are 70%-143%.
+c Study conducted with emtricitabine/tenofovir alafenamide fixed-dose combination tablet.
+d A sensitive CYP3A4 substrate.
+e Study conducted with elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide fixed-dose combination tablet.
+f Study conducted with emtricitabine/rilpivirine/tenofovir alafenamide fixed-dose combination tablet.
+g The predominant circulating nucleoside metabolite of sofosbuvir.
+h Study conducted with tenofovir alafenamide 40 mg and emtricitabine 200 mg.
+i Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV infected patients.

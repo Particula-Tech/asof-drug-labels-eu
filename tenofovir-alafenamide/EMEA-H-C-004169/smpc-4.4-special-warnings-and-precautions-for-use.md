@@ -4,9 +4,10 @@ HBV transmission
 
 Patients must be advised that Vemlidy does not prevent the risk of transmission of HBV to others through sexual contact or contamination with blood.
 Appropriate precautions must continue to be used.
+
 Patients with decompensated liver disease
 
-There are no data on the safety and efficacy of Vemlidy in HBV-infected patients with decompensated liver disease and who have a Child Pugh Turcotte (CPT) score > 9 (i.e. class C). These patients may be at higher risk of experiencing serious hepatic or renal adverse reactions.
+There are no data on the safety and efficacy of Vemlidy in HBV infected patients with decompensated liver disease and who have a Child Pugh Turcotte (CPT) score > 9 (i.e. class C). These patients may be at higher risk of experiencing serious hepatic or renal adverse reactions.
 Therefore, hepatobiliary and renal parameters should be closely monitored in this patient population (see section 5.2).
 
 Exacerbation of hepatitis
@@ -28,7 +29,8 @@ Renal impairment
 
 Patients with creatinine clearance < 30 mL/min
 The use of Vemlidy once daily in patients with CrCl ≥ 15 mL/min but < 30 mL/min and in patients with CrCl < 15 mL/min who are receiving haemodialysis is based on very limited pharmacokinetic data and on modelling and simulation.
-There are no safety data on the use of Vemlidy to treat HBV-infected patients with CrCl < 30 mL/min.
+There are no safety data on the use of Vemlidy to treat
+HBV infected patients with CrCl < 30 mL/min.
 
 The use of Vemlidy is not recommended in patients with CrCl < 15 mL/min who are not receiving haemodialysis (see section 4.2).
 
@@ -43,11 +45,11 @@ Co-administration guidance for the treatment of hepatitis C should be followed (
 
 Hepatitis B and HIV co-infection
 
-HIV antibody testing should be offered to all HBV-infected patients whose HIV-1 infection status is unknown before initiating therapy with Vemlidy.
+HIV antibody testing should be offered to all HBV infected patients whose HIV-1 infection status is unknown before initiating therapy with Vemlidy.
 In patients who are co-infected with HBV and HIV, Vemlidy should be co-administered with other antiretroviral agents to ensure that the patient receives an appropriate regimen for treatment of HIV (see section 4.5).
 Co-administration with other medicinal products
 
-Vemlidy should not be co-administered with products containing tenofovir alafenamide, tenofovir disoproxil fumarate or adefovir dipivoxil.
+Vemlidy should not be co-administered with medicinal products containing tenofovir alafenamide, tenofovir disoproxil or adefovir dipivoxil.
 
 Co-administration of Vemlidy with certain anticonvulsants (e.g. carbamazepine, oxcarbazepine, phenobarbital and phenytoin), antimycobacterials (e.g. rifampicin, rifabutin and rifapentine) or
 St. John’s wort, all of which are inducers of P-glycoprotein (P-gp) and may decrease tenofovir alafenamide plasma concentrations, is not recommended.
@@ -58,4 +60,4 @@ Co-administration is not recommended.
 Lactose intolerance
 
 Vemlidy contains lactose monohydrate.
-Consequently, patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency, or glucose-galactose malabsorption should not take this medicinal product.
+Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
