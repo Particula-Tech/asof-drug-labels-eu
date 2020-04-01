@@ -19,6 +19,7 @@ Mirvaso topical gel.
 
 In case worsening of erythema occurs, Mirvaso topical gel should be discontinued.
 Symptomatic measures, such as cooling, NSAID and antihistamines, may help in alleviating symptoms.
+
 Recurrences of aggravated erythema and flushing have been reported after re-administration of Mirvaso topical gel.
 Prior to resuming treatment after temporary discontinuation due to aggravated erythema or flushing, perform a test application on a small area of the face for at least one day before full facial application is resumed.
 
