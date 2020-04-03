@@ -128,9 +128,9 @@ The primary efficacy variable was the rate of haematological response, reported 
 In this study, 31% of patients achieved a haematological response (36% in previously untreated patients and 22% in previously treated patients).
 The rate of response was also higher in the patients treated at 600 mg (33%) as compared to the patients treated at 400 mg (16%, p=0.0220).
 The current estimate of the median survival of the previously untreated and treated patients was 7.7 and 4.7 months, respectively.
-
 Lymphoid blast crisis: a limited number of patients were enrolled in phase I studies (n=10).
 The rate of haematological response was 70% with a duration of 2–3 months.
+
 Table 3 Response in adult CML studies
 
 |  | Study 0110 37-month data Chronic phase, IFN failure (n=532) | Study 0109 40.5-month data Accelerated phase (n=235) | Study 0102 38-month data Myeloid blast crisis (n=260) |
@@ -261,7 +261,6 @@ Prednisolone 200 mg oral, 5 days per month for 13 months
 All treatment regimens include administration of steroids for CNS prophylaxis.
 Ara-C: cytosine arabinoside; CP: cyclophosphamide; DEX: dexamethasone; MTX: methotrexate; 6-MP: 6-mercaptopurine VM26: Teniposide; VCR: vincristine; IDA: idarubicine; i.v.:
 intravenous
-
 Paediatric patients: In study I2301, a total of 93 paediatric, adolescent and young adult patients (from 1 to 22 years old) with Ph+ ALL were enrolled in an open-label, multicentre, sequential cohort, non-randomised phase III trial, and were treated with Glivec (340 mg/m2/day) in combination with intensive chemotherapy after induction therapy.
 Glivec was administered intermittently in cohorts 1-5, with increasing duration and earlier start of Glivec from cohort to cohort; cohort 1 receiving the lowest intensitiy and cohort 5 receiving the highest intensity of Glivec (longest duration in days with continuous daily Glivec dosing during the first chemotherapy treatment courses).
 Continuous daily exposure to Glivec early in the course of treatment in combination with chemotherapy in cohort 5-patients (n=50) improved the 4-year event-free survival (EFS) compared to historical controls (n=120), who received standard chemotherapy without Glivec (69.6% vs. 31.6%, respectively).
@@ -273,9 +272,7 @@ Table 5 Chemotherapy regimen used in combination with imatinib in study I2301
 | Consolidation block 1 (3 weeks) | VP-16 (100 mg/m2/day, IV): days 1-5 Ifosfamide (1.8 g/m2/day, IV): days 1-5 MESNA (360 mg/m2/dose q3h, x 8 doses/day, IV): days 1-5 G-CSF (5 μg/kg, SC): days 6-15 or until ANC > 1500 post nadir IT Methotrexate (age-adjusted): day 1 ONLY Triple IT therapy (age-adjusted): day 8, 15 |
 | --- | --- |
 | Consolidation block 2 (3 weeks) | Methotrexate (5 g/m2 over 24 hours, IV): day 1 Leucovorin (75 mg/m2 at hour 36, IV; 15 mg/m2 IV or PO q6h x 6 doses)iii: Days 2 and 3 Triple IT therapy (age-adjusted): day 1 ARA-C (3 g/m2/dose q 12 h x 4, IV): days 2 and 3 G-CSF (5 μg/kg, SC): days 4-13 or until ANC > 1500 post nadir |
-
 | Reinduction block 1 (3 weeks) | VCR (1.5 mg/m2/day, IV): days 1, 8, and 15 DAUN (45 mg/m2/day bolus, IV): days 1 and 2 CPM (250 mg/m2/dose q12h x 4 doses, IV): days 3 and 4 PEG-ASP (2500 IUnits/m2, IM): day 4 G-CSF (5 μg/kg, SC): days 5-14 or until ANC > 1500 post nadir Triple IT therapy (age-adjusted): days 1 and 15 DEX (6 mg/m2/day, PO): days 1-7 and 15-21 |
-| --- | --- |
 | Intensification block 1 (9 weeks) | Methotrexate (5 g/m2 over 24 hours, IV): days 1 and 15 Leucovorin (75 mg/m2 at hour 36, IV; 15 mg/m2 IV or PO q6h x 6 doses)iii: Days 2, 3, 16, and 17 Triple IT therapy (age-adjusted): days 1 and 22 VP-16 (100 mg/m2/day, IV): days 22-26 CPM (300 mg/m2/day, IV): days 22-26 MESNA (150 mg/m2/day, IV): days 22-26 G-CSF (5 μg/kg, SC): days 27-36 or until ANC > 1500 post nadir ARA-C (3 g/m2, q12h, IV): days 43, 44 L-ASP (6000 IUnits/m2, IM): day 44 |
 | Reinduction block 2 (3 weeks) | VCR (1.5 mg/m2/day, IV): days 1, 8 and 15 DAUN (45 mg/m2/day bolus, IV): days 1 and 2 CPM (250 mg/m2/dose q12h x 4 doses, iv): Days 3 and 4 PEG-ASP (2500 IUnits/m2, IM): day 4 G-CSF (5 μg/kg, SC): days 5-14 or until ANC > 1500 post nadir Triple IT therapy (age-adjusted): days 1 and 15 DEX (6 mg/m2/day, PO): days 1-7 and 15-21 |
 | Intensification block 2 (9 weeks) | Methotrexate (5 g/m2 over 24 hours, IV): days 1 and 15 Leucovorin (75 mg/m2 at hour 36, IV; 15 mg/m2 IV or PO q6h x 6 doses)iii: days 2, 3, 16, and 17 Triple IT therapy (age-adjusted): days 1 and 22 VP-16 (100 mg/m2/day, IV): days 22-26 CPM (300 mg/m2/day, IV): days 22-26 MESNA (150 mg/m2/day, IV): days 22-26 G-CSF (5 μg/kg, SC): days 27-36 or until ANC > 1500 post nadir ARA-C (3 g/m2, q12h, IV): days 43, 44 L-ASP (6000 IUnits/m2, IM): day 44 |
@@ -292,7 +289,6 @@ Relapsed/refractory Ph+ ALL: When imatinib was used as single agent in patients 
 (Of note, out of the 411 patients, 353 were treated in an expanded access program without primary response data collected.)
 The median time to progression in the overall population of 411 patients with relapsed/refractory Ph+ ALL ranged from 2.6 to 3.1 months, and median overall survival in the 401 evaluable patients ranged from 4.9 to 9 months.
 The data was similar when re-analysed to include only those patients age 55 or older.
-
 Clinical studies in MDS/MPD
 Experience with Glivec in this indication is very limited and is based on haematological and cytogenetic response rates.
 There are no controlled trials demonstrating a clinical benefit or increased survival.
@@ -307,6 +303,7 @@ The 23 patients enrolled in this registry received Glivec at a median daily dose
 Due to the observational nature of this registry, haematologic, cytogenetic and molecular assessment data were available for 22, 9 and 17 of the 23 enrolled patients, respectively.
 When assuming conservatively that patients with missing data were non-responders, CHR was observed in 20/23 (87%) patients, CCyR in 9/23 (39.1%) patients, and MR in 11/23 (47.8%) patients, respectively.
 When the response rate is calculated from patients with at least one valid assessment, the response rate for CHR, CCyR and MR was 20/22 (90.9%), 9/9 (100%) and 11/17 (64.7%), respectively.
+
 In addition a further 24 patients with MDS/MPD were reported in 13 publications.
 21 patients were treated with Glivec 400 mg daily, while the other 3 patients received lower doses.
 In eleven patients PDGFR gene rearrangements was detected, 9 of them achieved a CHR and 1 PHR.
@@ -348,6 +345,7 @@ One phase II, open-label, randomised, uncontrolled multinational study was condu
 In this study 147 patients were enrolled and randomised to receive either 400 mg or 600 mg orally once daily for up to 36 months.
 These patients ranged in age from 18 to 83 years old and had a pathologic diagnosis of Kit-positive malignant GIST that was unresectable and/or metastatic.
 Immunohistochemistry was routinely performed with Kit antibody (A-4502, rabbit polyclonal antiserum, 1:100; DAKO Corporation, Carpinteria, CA) according to analysis by an avidin-biotin-peroxidase complex method after antigen retrieval.
+
 The primary evidence of efficacy was based on objective response rates.
 Tumours were required to be measurable in at least one site of disease, and response characterisation based on Southwestern Oncology Group (SWOG) criteria.
 Results are provided in Table 6.
@@ -377,7 +375,6 @@ The Kaplan-Meier estimate for survival after 36-month follow-up is 68%.
 In two clinical studies (study B2222 and an intergroup study S0033) the daily dose of Glivec was escalated to 800 mg in patients progressing at the lower daily doses of 400 mg or 600 mg.
 The daily dose was escalated to 800 mg in a total of 103 patients; 6 patients achieved a partial response and 21 stabilisation of their disease after dose escalation for an overall clinical benefit of 26%.
 From the safety data available, escalating the dose to 800 mg daily in patients progressing at lower doses of 400 mg or 600 mg daily does not seem to affect the safety profile of Glivec.
-
 Clinical studies in adjuvant GIST
 In the adjuvant setting, Glivec was investigated in a multicentre, double-blind, long-term, placebo-controlled phase III study (Z9001) involving 773 patients.
 The ages of these patients ranged from 18 to 91 years.
@@ -389,6 +386,7 @@ The primary endpoint of the study was recurrence-free survival (RFS), defined as
 Glivec significantly prolonged RFS, with 75% of patients being recurrence-free at 38 months in the Glivec group vs. 20 months in the placebo group (95% CIs, [30 - non-estimable]; [14 - non-estimable], respectively); (hazard ratio = 0.398 [0.259-0.610], p<0.0001).
 At one year the overall RFS was significantly better for Glivec (97.7%) vs. placebo (82.3%), (p<0.0001).
 The risk of recurrence was thus reduced by approximately 89% as compared with placebo (hazard ratio = 0.113 [0.049-0.264]).
+
 The risk of recurrence in patients after surgery of their primary GIST was retrospectively assessed based on the following prognostic factors: tumour size, mitotic index, tumour location.
 Mitotic index data were available for 556 of the 713 intention-to-treat (ITT) population.
 The results of subgroup analyses according to the United States National Institutes of Health (NIH) and the Armed Forces Institute of Pathology (AFIP) risk classifications are shown in Table 7.
@@ -411,7 +409,6 @@ There were a total of 397 patients consented and randomised to the study (199 pa
 The median time of follow-up was 54 months (from date of randomisation to data cut-off), with a total of 83 months between the first patient randomised and the cut-off date.
 
 The primary endpoint of the study was recurrence-free survival (RFS), defined as the time from date of randomisation to the date of recurrence or death from any cause.
-
 Thirty-six (36) months of Glivec treatment significantly prolonged RFS compared to 12 months of Glivec treatment (with overall Hazard Ratio (HR) = 0.46 [0.32, 0.65], p<0.0001) (Table 8, Figure 1).
 
 In addition, thirty-six (36) months of Glivec treatment significantly prolonged overall survival (OS) compared to 12 months of Glivec treatment (HR = 0.45 [0.22, 0.89], p=0.0187) (Table 8, Figure 2).
@@ -423,6 +420,7 @@ The total number of deaths were 25 for the 12-month treatment arm and 12 for the
 Treatment with imatinib for 36 months was superior to treatment for 12 months in the ITT analysis, i.e. including the entire study population.
 In a planned subgroup analysis by mutation type, the HR for RFS for 36 months of treatment for patients with mutations of exon 11 was 0.35 [95% CI: 0.22, 0.56].
 No conclusions can be drawn for other less common mutation subgroups due to the low number of observed events.
+
 Table 8 12-month and 36-month Glivec treatment (SSGXVIII/AIO Trial)
 
 12-month treatment arm 36-month treatment arm
@@ -496,18 +494,5 @@ The age of these patients ranged from newborn to 14 years and imatinib was given
 All patients achieved partial and/or complete response.
 
 [Glivec 100 mg film-coated tablets]
-
-| Consolidation block 1 (3 weeks) | VP-16 (100 mg/m2/day, IV): days 1-5 Ifosfamide (1.8 g/m2/day, IV): days 1-5 MESNA (360 mg/m2/dose q3h, x 8 doses/day, IV): days 1-5 G-CSF (5 μg/kg, SC): days 6-15 or until ANC > 1500 post nadir IT Methotrexate (age-adjusted): day 1 ONLY Triple IT therapy (age-adjusted): day 8, 15 |
-| --- | --- |
-| Consolidation block 2 (3 weeks) | Methotrexate (5 g/m2 over 24 hours, IV): day 1 Leucovorin (75 mg/m2 at hour 36, IV; 15 mg/m2 IV or PO q6h x 6 doses)iii: Days 2 and 3 Triple IT therapy (age-adjusted): day 1 ARA-C (3 g/m2/dose q 12 h x 4, IV): days 2 and 3 G-CSF (5 μg/kg, SC): days 4-13 or until ANC > 1500 post nadir |
-| Reinduction block 1 (3 weeks) | VCR (1.5 mg/m2/day, IV): days 1, 8, and 15 DAUN (45 mg/m2/day bolus, IV): days 1 and 2 CPM (250 mg/m2/dose q12h x 4 doses, IV): days 3 and 4 PEG-ASP (2500 IUnits/m2, IM): day 4 G-CSF (5 μg/kg, SC): days 5-14 or until ANC > 1500 post nadir Triple IT therapy (age-adjusted): days 1 and 15 DEX (6 mg/m2/day, PO): days 1-7 and 15-21 |
-| Intensification block 1 (9 weeks) | Methotrexate (5 g/m2 over 24 hours, IV): days 1 and 15 Leucovorin (75 mg/m2 at hour 36, IV; 15 mg/m2 IV or PO q6h x 6 doses)iii: Days 2, 3, 16, and 17 Triple IT therapy (age-adjusted): days 1 and 22 VP-16 (100 mg/m2/day, IV): days 22-26 CPM (300 mg/m2/day, IV): days 22-26 MESNA (150 mg/m2/day, IV): days 22-26 G-CSF (5 μg/kg, SC): days 27-36 or until ANC > 1500 post nadir ARA-C (3 g/m2, q12h, IV): days 43, 44 L-ASP (6000 IUnits/m2, IM): day 44 |
-| Reinduction block 2 (3 weeks) | VCR (1.5 mg/m2/day, IV): days 1, 8 and 15 DAUN (45 mg/m2/day bolus, IV): days 1 and 2 CPM (250 mg/m2/dose q12h x 4 doses, iv): Days 3 and 4 PEG-ASP (2500 IUnits/m2, IM): day 4 G-CSF (5 μg/kg, SC): days 5-14 or until ANC > 1500 post nadir Triple IT therapy (age-adjusted): days 1 and 15 DEX (6 mg/m2/day, PO): days 1-7 and 15-21 |
-| Intensification block 2 (9 weeks) | Methotrexate (5 g/m2 over 24 hours, IV): days 1 and 15 Leucovorin (75 mg/m2 at hour 36, IV; 15 mg/m2 IV or PO q6h x 6 doses)iii: days 2, 3, 16, and 17 Triple IT therapy (age-adjusted): days 1 and 22 VP-16 (100 mg/m2/day, IV): days 22-26 CPM (300 mg/m2/day, IV): days 22-26 MESNA (150 mg/m2/day, IV): days 22-26 G-CSF (5 μg/kg, SC): days 27-36 or until ANC > 1500 post nadir ARA-C (3 g/m2, q12h, IV): days 43, 44 L-ASP (6000 IUnits/m2, IM): day 44 |
-| Maintenance (8-week cycles) Cycles 1–4 | MTX (5 g/m2 over 24 hours, IV): day 1 Leucovorin (75 mg/m2 at hour 36, IV; 15 mg/m2 IV or PO q6h x 6 doses)iii: days 2 and 3 Triple IT therapy (age-adjusted): days 1, 29 VCR (1.5 mg/m2, IV): days 1, 29 DEX (6 mg/m2/day PO): days 1-5; 29-33 6-MP (75 mg/m2/day, PO): days 8-28 Methotrexate (20 mg/m2/week, PO): days 8, 15, 22 VP-16 (100 mg/m2, IV): days 29-33 CPM (300 mg/m2, IV): days 29-33 MESNA IV days 29-33 G-CSF (5 μg/kg, SC): days 34-43 |
-
-| Maintenance (8-week cycles) Cycle 5 | Cranial irradiation (Block 5 only) 12 Gy in 8 fractions for all patients that are CNS1 and CNS2 at diagnosis 18 Gy in 10 fractions for patients that are CNS3 at diagnosis VCR (1.5 mg/m2/day, IV): days 1, 29 DEX (6 mg/m2/day, PO): days 1-5; 29-33 6-MP (75 mg/m2/day, PO): days 11-56 (Withhold 6-MP during the 6-10 days of cranial irradiation beginning on day 1 of Cycle 5. Start 6-MP the 1st day after cranial irradiation completion.) Methotrexate (20 mg/m2/week, PO): days 8, 15, 22, 29, 36, 43, 50 |
-| --- | --- |
-| Maintenance (8-week cycles) Cycles 6-12 | VCR (1.5 mg/m2/day, IV): days 1, 29 DEX (6 mg/m2/day, PO): days 1-5; 29-33 6-MP (75 mg/m2/day, PO): days 1-56 Methotrexate (20 mg/m2/week, PO): days 1, 8, 15, 22, 29, 36, 43, 50 |
 
 Complete response 1(0.7)

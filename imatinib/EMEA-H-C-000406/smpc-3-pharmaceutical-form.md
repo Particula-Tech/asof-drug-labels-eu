@@ -2,7 +2,7 @@
 
 Hard capsule
 
-Glivec 50 mg hard capsules
+Glivec 50 mg hard capsulesweh
 White to yellow powder in a light yellow to orange-yellow opaque capsule, marked “NVR SH”.
 
 Glivec 100 mg hard capsules
