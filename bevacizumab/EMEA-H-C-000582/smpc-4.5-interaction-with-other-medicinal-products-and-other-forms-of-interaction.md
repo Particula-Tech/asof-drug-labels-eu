@@ -5,7 +5,7 @@ No clinically relevant interaction of co-administered chemotherapy on bevacizuma
 There were neither statistically significant nor clinically relevant differences in bevacizumab clearance in patients receiving Avastin monotherapy compared to patients receiving Avastin in combination with interferon alfa-2a, erlotinib or chemotherapies (IFL, 5-FU/LV, carboplatin/paclitaxel, capecitabine, doxorubicin or cisplatin/gemcitabine).
 
 Effect of bevacizumab on the pharmacokinetics of other antineoplastic agents
-No clinically relevant interaction of bevacizumab was observed on the pharmacokinetics of co-administered interferon alpha 2a, erlotinib (and its active metabolite OSI-420), or the chemotherapies irinotecan (and its active metabolite SN38), capecitabine, oxaliplatin (as determined by measurement of free and total platinum), and cisplatin.
+No clinically relevant interaction of bevacizumab was observed on the pharmacokinetics of co-administered interferon alfa 2a, erlotinib (and its active metabolite OSI-420), or the chemotherapies irinotecan (and its active metabolite SN38), capecitabine, oxaliplatin (as determined by measurement of free and total platinum), and cisplatin.
 Conclusions on the impact of bevacizumab on gemcitabine pharmacokinetics cannot be drawn.
 
 Combination of bevacizumab and sunitinib malate

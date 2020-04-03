@@ -1,5 +1,6 @@
 # 4.4 Special warnings and precautions for use
 
+Traceability
 In order to improve the traceability of biological medicinal products, the trade name and the batch number of the administered product should be clearly recorded (or stated) in the patient file.
 
 Gastrointestinal (GI) perforations and Fistulae (see section 4.8)
@@ -83,11 +84,14 @@ Pulmonary haemorrhage/haemoptysis
 Patients with non-small cell lung cancer treated with Avastin may be at risk of serious, and in some cases fatal, pulmonary haemorrhage/haemoptysis.
 Patients with recent pulmonary haemorrhage/ haemoptysis (> 2.5 ml of red blood) should not be treated with Avastin.
 
+Aneurysms and artery dissections
+The use of VEGF pathway inhibitors in patients with or without hypertension may promote the formation of aneurysms and/or artery dissections.
+Before initiating Avastin, this risk should be carefully considered in patients with risk factors such as hypertension or history of aneurysm.
+
 Congestive heart failure (CHF) (see section 4.8)
 Reactions consistent with CHF were reported in clinical trials.
 The findings ranged from asymptomatic declines in left ventricular ejection fraction to symptomatic CHF, requiring treatment or hospitalisation.
 Caution should be exercised when treating patients with clinically significant cardiovascular disease such as pre-existing coronary artery disease, or congestive heart failure with Avastin.
-
 Most of the patients who experienced CHF had metastatic breast cancer and had received previous treatment with anthracyclines, prior radiotherapy to the left chest wall or other risk factors for CHF were present.
 
 In patients in AVF3694g who received treatment with anthracyclines and who had not received anthracyclines before, no increased incidence of all Grade CHF was observed in the anthracycline + bevacizumab group compared to the treatment with anthracyclines only.

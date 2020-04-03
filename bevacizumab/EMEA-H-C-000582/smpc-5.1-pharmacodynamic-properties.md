@@ -191,9 +191,11 @@ Progression-free survival and objective response rate were inferior in the Avast
 
 ML18147
 This was a Phase III randomised, controlled, open-label trial investigating Avastin 5.0 mg/kg every 2 weeks or 7.5 mg/kg every 3 weeks in combination with fluoropyrimidine-based chemotherapy versus fluoropyrimidine-based chemotherapy alone in patients with mCRC who have progressed on a first-line bevacizumab-containing regimen.
+
 Patients with histologically confirmed mCRC and disease progression were randomised 1:1 within 3 months after discontinuation of bevacizumab first-line therapy to receive fluoropyrimidine/oxaliplatin-or fluoropyrimidine/irinotecan-based chemotherapy (chemotherapy switched depending on first-line chemotherapy) with or without bevacizumab.
 Treatment was given until progressive disease or unacceptable toxicity.
 The primary outcome measure was overall survival defined as the time from randomisation until death from any cause.
+
 A total of 820 patients were randomised.
 The addition of bevacizumab to fluoropyrimidine-based chemotherapy resulted in a statistically significant prolongation of survival in patients with mCRC who have progressed on a first-line bevacizumab-containing regimen (ITT = 819) (see Table 9).
 
@@ -382,8 +384,10 @@ First-line treatment of non-squamous NSCLC with EGFR activating mutations in com
 
 JO25567
 Study JO25567 was a randomized, open-label, multi-center Phase II study conducted in Japan to evaluate the efficacy and safety of Avastin used in addition to erlotinib in patients with non-squamous NSCLC with EGFR activating mutations (exon 19 deletion or exon 21 L858R mutation) who had not received prior systemic therapy for Stage IIIB/IV or recurrent disease.
+
 The primary endpoint was progression-free survival (PFS) based on independent review assessment.
 Secondary endpoints included overall survival, response rate, disease control rate, duration of response, and safety.
+
 EGFR mutation status was determined for each patient prior to patient screening and 154 patients were randomised to receive either erlotinib + Avastin (erlotinib 150 mg oral daily + Avastin [15 mg/kg IV every 3 weeks]) or erlotinib monotherapy (150 mg oral daily) until disease progression (PD) or unacceptable toxicity.
 In the absence of PD, discontinuation of one component of study treatment in the erlotinib + Avastin arm did not lead to discontinuation of the other component of study treatment as specified in the study protocol.
 The efficacy results of the study are presented in Table 14.
@@ -394,12 +398,13 @@ Table 14 Efficacy results for study JO25567
 | --- | --- | --- |
 | PFS^ (months) Median HR (95% CI) p-value | 9.7 16.0 0.54 (0.36; 0.79) 0.0015 |  |
 | Overall Response Rate Rate (n) p-value | 63.6% (49) 69.3% (52) 0.4951 |  |
-| Overall Survival* (months) Median HR (95% CI) p-value | 48.5 48.4 0.91 (0.56; 1.46) 0.6838 |  |
+| Overall Survival* (months) Median HR (95% CI) p-value | 47.4 47.0 0.81 (0.53; 1.23) 0.3267 |  |
 
 # A total of 154 patients (ECOG Performance Status 0 or 1) were randomized.
 However two of the randomized patients discontinued the study before receiving any study treatment
 ^ Blinded independent review (protocol-defined primary analysis)
-* Exploratory analysis; OS updated analysis at clinical cut-off on 28 October 2015, approx. 45% patient had died and OS is therefore considered immature.
+* Exploratory analysis: final OS analysis at clinical cut off on 31 October 2017, approx. 59% of patients had died.
+
 CI, confidence interval; HR, Hazard ratio from unstratified Cox regression analysis; NR, not reached.
 
 Advanced and/or metastatic renal cell cancer (mRCC)
@@ -479,7 +484,7 @@ The majority of patients included in the study were White (87% in all three arms
 Overall approximately 50% of patients had a GOG PS of 0 at baseline, 43% a GOG PS score of 1, and 7% a GOG PS score of 2.
 Most patients had EOC (82% in CPP and CPB15, 85% in CPB15+) followed by PPC (16% in CPP, 15% in CPB15, 13% in CPB15+) and FTC (1% in CPP, 3% in CPB15, 2% in CPB15+).
 The majority of patients had serous adenocarcinoma histologic type (85% in CPP and CPB15, 86% in CPB15+).
-Overall approximately 34% of patients were FIGO Stage III optimally debulked with gross residual disease, 40% Stage III sub-optimally debulked, and 26% were Stage IV patients.
+Overall approximately 34% of patients were FIGO Stage III optimally debulked with gross residual disease, 40% Stage III suboptimally debulked, and 26% were Stage IV patients.
 The primary endpoint was PFS based on investigator’s assessment of disease progression based on radiological scans or CA 125 levels, or symptomatic deterioration per protocol.
 In addition, a prespecified analysis of the data censoring for CA-125 progression events was conducted, as well as an independent review of PFS as determined by radiological scans.
 
@@ -862,6 +867,7 @@ Paclitaxel 175 mg/m2 IV over 3 hours on Day 1 and cisplatin 50 mg/m2 IV on Day 1
 Eligible patients had persistent, recurrent or metastatic squamous cell carcinoma, adenosquamous carcinoma, or adenocarcinoma of the cervix which was not amenable to curative treatment with surgery and/or radiation therapy and who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor–targeted agents.
 The median age was 46.0 years (range: 20−83) in the Chemo alone group and 48.0 years
 (range: 22−85) in the Chemo+Avastin group; with 9.3% of patients in the Chemo alone group and 7.5% of patients in the Chemo+Avastin group over the age of 65 years.
+
 Of the 452 patients randomized at baseline, the majority of patients were white (80.0% in the Chemo alone group and 75.3% in the Chemo+Avastin group), had squamous cell carcinoma (67.1% in the Chemo alone group and 69.6% in the Chemo+Avastin group), had persistent/recurrent disease (83.6% in the Chemo alone group and 82.8% in the Chemo+Avastin group), had 1-2 metastatic sites (72.0% in the Chemo alone group and 76.2% in the Chemo+Avastin group), had lymph node involvement (50.2% in the Chemo alone group and 56.4% in the Chemo+Avastin group), and had a platinum free interval ≥ 6 months (72.5% in the Chemo alone group and 64.4% in the Chemo+Avastin group).
 
 The primary efficacy endpoint was overall survival.
@@ -900,19 +906,17 @@ Table 25 Efficacy results from study GOG-0240 by Avastin Treatment
 8 p-value displayed for descriptive purpose only
 Table 26 Overall survival results from study GOG-0240 by Trial Treatment
 
-| Treatment | Other Factor | Overall survival – Primary analysis1 | Overall survival - Follow-up analysis2 |
-| --- | --- | --- | --- |
-| Comparison |  | Hazard Ratio (95% CI) | Hazard Ratio (95% CI) |
-| Avastin vs. | Cisplatin+ Paclitaxel | 0.72 (0.51, 1.02) | 0.75 (0.55, 1.01) |
-| No Avastin |  | (17.5 vs.14.3 months; p = 0.0609) | (17.5 vs.15.0 months; p = 0.0584) |
-|  | Topotecan+ Paclitaxel | 0.76 (0.55, 1.06) | 0.79 (0.59, 1.07) |
-|  |  | (14.9 vs. 11.9 months; p = 0.1061) | (16.2 vs. 12.0 months; p = 0.1342) |
-| Topotecan+ | Avastin | 1.15 (0.82, 1.61) | 1.15 (0.85, 1.56) |
-| Paclitaxel vs. |  | (14.9 vs. 17.5 months; p = 0.4146) | (16.2 vs 17.5 months; p = 0.3769) |
-| Cisplatin+ |  |  |  |
-|  | No Avastin | 1.13 (0.81, 1.57) | 1.08 (0.80, 1.45) |
-| Paclitaxel |  |  |  |
-|  |  | (11.9 vs.14.3 months; p = 0.4825) | (12.0 vs 15.0 months; p = 0.6267) |
+Treatment Overall survival – Primary analysis1 Overall survival - Follow-up analysis2
+Comparison Other Factor Hazard Ratio (95% CI) Hazard Ratio (95% CI)
+Avastin vs. Cisplatin+ 0.72 (0.51, 1.02) 0.75 (0.55, 1.01)
+No Avastin Paclitaxel (17.5 vs.14.3 months; p = 0.0609) (17.5 vs.15.0 months; p = 0.0584)
+Topotecan+ 0.76 (0.55, 1.06) 0.79 (0.59, 1.07)
+Paclitaxel (14.9 vs. 11.9 months; p = 0.1061) (16.2 vs. 12.0 months; p = 0.1342)
+Topotecan+ Avastin 1.15 (0.82, 1.61) 1.15 (0.85, 1.56)
+Paclitaxel vs. (14.9 vs. 17.5 months; p = 0.4146) (16.2 vs 17.5 months; p = 0.3769)
+Cisplatin+
+Paclitaxel No Avastin 1.13 (0.81, 1.57) 1.08 (0.80, 1.45)
+(11.9 vs.14.3 months; p = 0.4825) (12.0 vs 15.0 months; p = 0.6267)
 
 1 Primary analysis was performed with a data cut-off date of 12 December 2012 and is considered the final analysis
 2 Follow-up analysis was performed with a data cut-off date of 07 March 2014; all p-values are displayed for descriptive purpose only

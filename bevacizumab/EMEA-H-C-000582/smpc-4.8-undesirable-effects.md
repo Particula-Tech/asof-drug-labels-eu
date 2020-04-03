@@ -18,8 +18,7 @@ Tabulated list of adverse reactions
 
 The adverse reactions listed in this section fall into the following frequency categories: Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 
-Tables 1 and 2 list adverse reactions associated with the use of Avastin in combination with different chemotherapy regimens in multiple indications.
-
+Tables 1 and 2 list adverse reactions associated with the use of Avastin in combination with different chemotherapy regimens in multiple indications, by MedDRA system organ class.
 Table 1 provides all adverse reactions by frequency that were determined to have a causal relationship with Avastin through:
 
 - comparative incidences noted between clinical trial treatment arms (with at least a 10% difference compared to the control arm for NCI-CTCAE Grade 1-5 reactions or at least a 2% difference compared to the control arm for NCI-CTCAE Grade 3-5 reactions,
@@ -40,7 +39,6 @@ Within each frequency category, adverse reactions are presented in the order of 
 
 Some of the adverse reactions are reactions commonly seen with chemotherapy; however, Avastin may exacerbate these reactions when combined with chemotherapeutic agents.
 Examples include palmar-plantar erythrodysaesthesia syndrome with pegylated liposomal doxorubicin or capecitabine, peripheral sensory neuropathy with paclitaxel or oxaliplatin, nail disorders or alopecia with paclitaxel, and paronychia with erlotinib.
-
 Table 1: Adverse Reactions by Frequency
 
 | System organ class | Very Common | Common | Uncommon | Rare | Very Rare | Frequency Not Known |
@@ -52,7 +50,7 @@ Table 1: Adverse Reactions by Frequency
 | Nervous system disorders | Peripheral sensory neuropathyb, Dysarthria, Headache, Dysguesia | Cerebrovascular accident, Syncope, Somnolence |  | Posterior reversible encephalo-pathy synad,br,od me | Hypertensive encephalo-pathya |  |
 | Eye disorders | Eye disorder, Lacrimation increased |  |  |  |  |  |
 | Cardiac disorders |  | Congestive heart failureb,d, Supraventricular tachycardia |  |  |  |  |
-| Vascular disorders | Hypertensionb,d, Thrombo-embolism (venous)b,d | Thrombo-embolism (arterial)b,d, Haemorrhageb,d, Deep vein thrombosis |  |  |  | Renal thrombotic microangiopathya,b |
+| Vascular disorders | Hypertensionb,d, Thrombo-embolism (venous)b,d | Thrombo-embolism (arterial)b,d, Haemorrhageb,d, Deep vein thrombosis |  |  |  | Renal thrombotic microangiopathya,b, Aneurysms and artery dissections |
 | Respiratory, thoracic and mediastinal disorders | Dyspnoea, Rhinitis Epistaxis Cough | Pulmonary haemorrhage/ Haemoptysisb,d, Pulmonary embolism, Hypoxia, Dysphoniaa |  |  |  | Pulmonary hypertensiona, Nasal septum perforationa |
 | Gastrointestinal disorders | Rectal haemorrhage, Stomatitis, Constipation, Diarrhoea, Nausea, Vomiting, Abdominal pain | Gastrointestinal perforationb,d, Intestinal perforation, Ileus, Intestinal obstruction, Recto-vaginal fistulaed,e, Gastrointestinal Disorder, Proctalgia |  |  |  | Gastrointestinal ulcera |
 | Hepatobiliary disorders |  |  |  |  |  | Gallbladder perforationa,b |
@@ -78,11 +76,11 @@ Table 2: Severe Adverse Reactions by Frequency
 | --- | --- | --- | --- | --- | --- | --- |
 | Infections and infestations |  | Sepsis, Cellulitis, Abscessa,b, Infection, Urinary tract infection |  |  |  | Necrotising fasciitisc |
 | Blood and lymphatic system disorders | Febrile neutropenia, Leucopenia, Neutropeniaa, Thrombo-cytopenia | Anaemia, Lymphopenia |  |  |  |  |
-| Immune system disorders |  |  |  |  |  | Hypersensitivity, infusiona, br,ec actions |
+| Immune system disorders |  |  |  |  |  | Hypersensitivity, infusiona ,br,ec actions |
 | Metabolism and nutrition disorders |  | Dehydration Hyponatraemia |  |  |  |  |
 | Nervous system disorders | Peripheral sensory neuropathya | Cerebrovascular accident, Syncope, Somnolence, Headache |  |  |  | Posterior reversible encephalo-pathy syndrome a,b,c, Hypertensive encephalo-pathyc |
 | Cardiac disorders |  | Congestive heart failurea,b, Supraventricular tachycardia |  |  |  |  |
-| Vascular disorders | Hypertensiona,b | Thromboembolism arteriala,b, Haemorrhagea,b, Thromboembolism (venous)a,b Deep vein thrombosis |  |  |  | Renal thrombotic microangiopathyb,c |
+| Vascular disorders | Hypertensiona,b | Thromboembolism arteriala,b, Haemorrhagea,b, Thromboembolism (venous)a,b Deep vein thrombosis |  |  |  | Renal thrombotic microangiopathyb,c, Aneurysms and artery dissections |
 | Respiratory, thoracic and mediastinal disorders |  | Pulmonary haemorrhage/ Haemoptysisa,b, Pulmonary embolism, Epistaxis, Dyspnoea, Hypoxia |  |  |  | Pulmonary hypertensionc, Nasal septum perforationc |
 | Gastrointestinal disorders | Diarrhoea, Nausea, Vomiting, Abdominal pain | Intestinal perforation, Ileus, Intestinal obstruction, Recto-vaginal fistulaec,d, Gastrointestinal disorder, Stomatitis, Proctalgia |  |  |  | Gastrointestinal perforationa,b, Gastrointestinal ulcerc, Rectal haemorrhage |
 | Hepatobiliary disorders |  |  |  |  |  | Gallbladder perforation b,c |
@@ -206,6 +204,7 @@ Tumour-associated haemorrhage was also seen rarely in other tumour types and loc
 The incidence of CNS bleeding in patients with untreated CNS metastases receiving bevacizumab has not been prospectively evaluated in randomised clinical trials.
 In an exploratory retrospective analysis of data from 13 completed randomised trials in patients with various tumour types, 3 patients out of 91 (3.3%) with brain metastases experienced CNS bleeding (all Grade 4) when treated with bevacizumab, compared to 1 case (Grade 5) out of 96 patients (1%) that were not exposed to bevacizumab.
 In two subsequent studies in patients with treated brain metastases (which included around 800 patients), one case of Grade 2 CNS haemorrhage was reported in 83 subjects treated with bevacizumab (1.2%) at the time of interim safety analysis (NCI-CTCAE v.3).
+
 Across all clinical trials, mucocutaneous haemorrhage has been seen in up to 50% of Avastin-treated patients.
 These were most commonly NCI-CTCAE v.3 Grade 1 epistaxis that lasted less than 5 minutes, resolved without medical intervention and did not require any changes in the Avastin treatment regimen.
 Clinical safety data suggest that the incidence of minor mucocutaneous haemorrhage (e.g. epistaxis) may be dose-dependent.
@@ -307,7 +306,6 @@ Table 3 Adverse reactions reported in post-marketing setting
 
 * if specified, the frequency has been derived from clinical trial data
 Reporting of suspected adverse reactions
-
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

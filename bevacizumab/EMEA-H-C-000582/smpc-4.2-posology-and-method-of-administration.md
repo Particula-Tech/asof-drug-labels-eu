@@ -28,6 +28,7 @@ First-line treatment of non-squamous NSCLC with EGFR activating mutations in com
 EGFR mutation testing should be performed prior to initiation of treatment with the combination of Avastin and erlotinib.
 It is important that a well-validated and robust methodology is chosen to avoid false negative or false positive determinations.
 The recommended dose of Avastin when used in addition to erlotinib is 15 mg/kg of body weight given once every 3 weeks as an intravenous infusion.
+
 It is recommended that the treatment with Avastin in addition to erlotinib is continued until disease progression.
 
 For the posology and method of administration of erlotinib, please refer to the full erlotinib prescribing information.
@@ -52,19 +53,21 @@ It is recommended that treatment be continued until disease progression or unacc
 Cervical Cancer
 
 Avastin is administered in combination with one of the following chemotherapy regimens: paclitaxel and cisplatin or paclitaxel and topotecan.
+
 The recommended dose of Avastin is 15 mg/kg of body weight given once every 3 weeks as an intravenous infusion.
+
 It is recommended that treatment be continued until progression of the underlying disease or until unacceptable toxicity (see section 5.1).
 
 Special populations
 
-Elderly patients: No dose adjustment is required in the elderly.
+Elderly patients: No dose adjustment is required in the patients ≥ 65 years of age.
 
 Patients with renal impairment: The safety and efficacy have not been studied in patients with renal impairment (see section 5.2).
-
 Patients with hepatic impairment: The safety and efficacy have not been studied in patients with hepatic impairment (see section 5.2).
+
 Paediatric population
 
-The safety and efficacy of bevacizumab in children less than 18 years old have not been established.
+The safety and efficacy of bevacizumab in children aged less than 18 years old have not been established.
 Currently available data are described in sections 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
 
 There is no relevant use of bevacizumab in the paediatric population in the indications for treatment of cancers of the colon, rectum, breast, lung, ovarian, fallopian tube, peritoneum, cervix and kidney.
