@@ -1,0 +1,16 @@
+{
+  "active_substance": "treprostinil sodium",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/005207",
+  "eu_number": "EU/1/19/1419",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2020-04-03",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/trepulmix",
+  "molecule": "treprostinil",
+  "molecule_name": "TREPROSTINIL",
+  "name": "Trepulmix",
+  "register_name": "Trepulmix",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h1419.htm"
+}
