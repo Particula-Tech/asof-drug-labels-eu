@@ -33,7 +33,7 @@ Table 1: ADRs reported in patients with MDS or AML treated with azacitidine (cli
 | Psychiatric disorders | insomnia | confusional state, anxiety |  |  |  |
 | Nervous system disorders | dizziness, headache | intracranial haemorrhage*, syncope, somnolence, lethargy |  |  |  |
 | Eye disorders |  | eye haemorrhage, conjunctival haemorrhage |  |  |  |
-| Cardiac disorders |  | pericardial effusion | pericarditis |  |  |
+| Cardiac disorders |  | pericardial effusion |  |  |  |
 | Vascular disorders |  | hypotension*, hypertension, orthostatic hypotension, haematoma |  |  |  |
 | Respiratory, thoracic and mediastinal disorders | dyspnoea, epistaxis | pleural effusion, dyspnoea exertional, pharyngolaryngeal pain |  | interstitial lung disease |  |
 | Gastrointestinal disorders | diarrhoea, vomiting, constipation, nausea, abdominal pain (includes upper and abdominal discomfort) | gastrointestinal haemorrhage* (includes mouth haemorrhage), haemorrhoidal haemorrhage, stomatitis, gingival bleeding, dyspepsia |  |  |  |
