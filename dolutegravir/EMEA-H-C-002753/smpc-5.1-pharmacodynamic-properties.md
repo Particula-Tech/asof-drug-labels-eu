@@ -237,8 +237,13 @@ VO Population (HIV-1 RNA <50 c/mL, Snapshot algorithm)
 | No primary IN mutation1 | 2/2 (100%) | 15/20 (75%) | 19/21 (90%) | 9/12 (75%) | 45/55 (82%) | 38/55 (69%) |
 | Primary mutation other than Q148H/K/R2 | 2/2 (100%) | 20/20 (100%) | 21/27 (78%) | 8/10 (80%) | 51/59 (86%) | 50/58 (86%) |
 | Q148 + 1 secondary mutation3 | 2/2 (100%) | 8/12 (67%) | 10/17 (59%) | - | 20/31 (65%) | 19/31 (61%) |
-| Q148 +≥2 secondary mutations 3 | 1/2 (50%) | 2/11 (18%) | 1/3 (33%) | - | 4/16 (25%) | 4/16 (25%) |
-| 1 Historical or phenotypic evidence of INI resistance only. 2 N155H, Y143C/H/R, T66A, E92Q 3 G140A/C/S, E138A/K/T, L74I OSS: combined genotypic and phenotypic resistance (Monogram Biosciences Net Assessment) |  |  |  |  |  |  |
+
+Q148 +≥2 secondary
+mutations 3 1/2 (50%) 2/11 (18%) 1/3 (33%) - 4/16 (25%)4/16 (25%)
+1 Historical or phenotypic evidence of INI resistance only.
+2 N155H, Y143C/H/R, T66A, E92Q
+3 G140A/C/S, E138A/K/T, L74I
+OSS: combined genotypic and phenotypic resistance (Monogram Biosciences Net Assessment)
 
 The median change in CD4+ T cell count from baseline for VIKING-3 based on observed data was 61 cells/mm3 at Week 24 and 110 cells/mm3 at Week 48.
 
