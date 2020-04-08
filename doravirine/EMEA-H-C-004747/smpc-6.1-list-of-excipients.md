@@ -7,6 +7,7 @@ Lactose monohydrate
 Magnesium stearate (E470b)
 Microcrystalline cellulose (E460)
 Silica, colloidal anhydrous (E551)
+
 Film-coating
 Carnauba wax (E903)
 Hypromellose (E464)
