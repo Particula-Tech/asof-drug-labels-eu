@@ -2,7 +2,7 @@
 
 Summary of the safety profile
 The overall safety profile of Tamiflu is based on data from 6049 adult/adolescent and 1473 paediatric patients treated with Tamiflu or placebo for influenza, and on data from 3990 adult/adolescent and 253 paediatric patients receiving Tamiflu or placebo/no treatment for the prophylaxis of influenza in clinical trials.
-In addition, 199 immunocompromised adult patients received Tamiflu for the treatment of influenza and 475 immunocompromised patients (including 18 children, of these 10 Tamiflu and 8 placebo) received Tamiflu or placebo for the prophylaxis of influenza.
+In addition, 245 immunocompromised patients (including 7 adolescents and 39 children) received Tamiflu for the treatment of influenza and 475 immunocompromised patients (including 18 children, of these 10 Tamiflu and 8 placebo) received Tamiflu or placebo for the prophylaxis of influenza.
 
 In adults/adolescents, the most commonly reported adverse reactions (ARs) were nausea and vomiting in the treatment studies, and nausea in the prevention studies.
 The majority of these ARs were reported on a single occasion on either the first or second treatment day and resolved spontaneously within 1-2 days.
@@ -15,6 +15,7 @@ The following serious adverse reactions have been rarely reported since oseltami
 Tabulated list of adverse reactions
 The ARs listed in the tables below fall into the following categories: Very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), and very rare (< 1/10,000).
 ARs are added to the appropriate category in the tables according to the pooled analysis from clinical studies.
+
 Treatment and prevention of influenza in adults and adolescents:
 In adult/adolescent treatment and prevention studies, ARs that occurred the most frequently at the recommended dose (75 mg bid for 5 days for treatment and 75 mg od for up to 6 weeks for prophylaxis) are shown in Table 1.
 
@@ -32,12 +33,11 @@ Table 1 Adverse reactions in studies investigating Tamiflu for treatment and pre
 | Nervous system disorders | Headache | Insomnia | Altered level of consciousness, Convulsion |  |
 | Eye disorders |  |  |  | Visual disturbance |
 | Cardiac disorders |  |  | Cardiac arrhythmia |  |
+|  | Very common | Common | Uncommon | Rare |
 | Respiratory, thoracic and mediastinal disorders |  | Cough, Sore throat, Rhinorrhea |  |  |
 | Gastrointestinal disorders | Nausea | Vomiting Abdominal pain (incl. upper abdominal pain), Dyspepsia |  | Gastrointestinal bleedings, Haemorrhagic colitis |
 | Hepatobiliary disorders |  |  | Elevated liver enzymes | Fulminant hepatitis, Hepatic failure, Hepatitis |
-| Skin and subcutaneous tissue disorders |  |  | Eczema, Dermatitis, Rash, Urticaria | Angioneurotic oedema, Erythema multiforme, |
-|  | Very common | Common | Uncommon | Rare |
-|  |  |  |  | Stevens-Johnson syndrome, Toxic epidermal necrolysis |
+| Skin and subcutaneous tissue disorders |  |  | Eczema, Dermatitis, Rash, Urticaria | Angioneurotic oedema, Erythema multiforme, Stevens-Johnson syndrome, Toxic epidermal necrolysis |
 | General disorders and administration site conditions |  | Pain Dizziness (incl. vertigo), Fatigue, Pyrexia, Pain in limb |  |  |
 
 Treatment and prevention of influenza in children:
@@ -47,7 +47,6 @@ Of those, 851 children received treatment with oseltamivir suspension.
 A total of 158 children received the recommended dose of Tamiflu once daily in a post-exposure prophylaxis study in households (n = 99), a 6-week paediatric seasonal prophylaxis study (n = 49) and a 12-week paediatric seasonal prophylaxis study in immunocompromised subjects (n = 10).
 
 Table 2 shows the most frequently reported ARs from paediatric clinical trials.
-
 Table 2 Adverse reactions in studies investigating Tamiflu for treatment and prevention of influenza in children (age/weight-based dosing [30 mg to 75 mg o.d.])
 
 | System Organ Class (SOC) | Adverse reactions according to frequency |  |  |  |
@@ -89,11 +88,13 @@ The population included in the influenza treatment studies is comprised of other
 In general, the safety profile in the patients “at risk” was qualitatively similar to that in otherwise healthy adults/adolescents.
 
 Immunocompromised patients
-In a double blind study for the treatment of influenza, a total of 199 adult immunocompromised patients (evaluable for safety) were randomized to receive Tamiflu for 10 days: 98 patients received the standard dose (75 mg twice daily) and 101 patients received the double dose (150 mg twice daily).
-The safety profile of Tamiflu observed in this study was consistent with that observed in previous clinical trials where Tamiflu was administered for treatment of influenza in non-immunocompromised patients (otherwise healthy patients or “at risk” patients [i.e., those with respiratory and/or cardiac co-morbidities]).
-The percentage of patients reporting adverse events was lower in the standard dose group compared to the double dose group (49.0% vs 59.4 %, respectively) (See section 5.1).
+
+The treatment of influenza in immunocompromised patients were evaluated in two studies receiving standard dose or high dose regimens (double dose or triple dose) of Tamiflu (see section 5.1).
+The safety profile of Tamiflu observed in these studies was consistent with that observed in previous clinical trials where Tamiflu was administered for treatment of influenza in non-immunocompromised patients across all age groups (otherwise healthy patients or “at risk” patients [i.e., those with respiratory and/or cardiac co-morbidities]).
+The most frequent adverse reaction reported in immunocompromised children was vomiting (28%).
 
 In a 12-week prophylaxis study in 475 immunocompromised patients, including 18 children 1 to 12 years of age and older, the safety profile in the 238 patients who received oseltamivir was consistent with that previously observed in Tamiflu prophylaxis clinical studies.
+
 Children with pre-existing bronchial asthma
 In general, the adverse reaction profile in children with pre-existing bronchial asthma was qualitatively similar to that of otherwise healthy children.
 
@@ -112,7 +113,6 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 | Immune system disorders |  |  | Hypersensitivity reaction | Anaphylactic reactions, Anaphylactoid reactions |
 | Psychiatric disorders |  |  |  | Agitation, Abnormal behaviour, Anxiety, Confusion, Delusions, Delirium, Hallucination, Nightmares, Self-injury |
 | Nervous system disorders | Headache | Insomnia | Altered level of consciousness, Convulsion |  |
-|  | Very common | Common | Uncommon | Rare |
 | Eye disorders |  |  |  | Visual disturbance |
 | Cardiac disorders |  |  | Cardiac arrhythmia |  |
 | Respiratory, thoracic and mediastinal disorders |  | Cough, Sore throat, Rhinorrhea |  |  |

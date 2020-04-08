@@ -12,10 +12,8 @@ Therefore, prescribers should take into account the most recent information avai
 
 Severe concomitant condition
 No information is available regarding the safety and efficacy of oseltamivir in patients with any medical condition sufficiently severe or unstable to be considered at imminent risk of requiring hospitalisation.
-
 Immunocompromised patients
-The efficacy of oseltamivir in either treatment or prophylaxis of influenza in immunocompromised patients has not been firmly established.
-However, the duration of treatment of influenza in immunocompromised adult patients should be 10 days, as there are no studies of a shorter course of oseltamivir in this patient group (see section 5.1).
+The efficacy of oseltamivir in either treatment or prophylaxis of influenza in immunocompromised patients has not been firmly established (see section 5.1).
 
 Cardiac / respiratory disease
 Efficacy of oseltamivir in the treatment of subjects with chronic cardiac disease and/or respiratory disease has not been established.
@@ -23,6 +21,7 @@ No difference in the incidence of complications was observed between the treatme
 
 Paediatric population
 No data allowing a dose recommendation for premature children (< 36 weeks post-conceptual age) are currently available.
+
 Severe renal impairment
 Dose adjustment is recommended for both treatment and prevention in adolescents (13 to 17 years of age) and adults with severe renal impairment.
 There is insufficient clinical data available in infants and children (1 year of age or older) with renal impairment to be able to make any dosing recommendation (see sections 4.2 and 5.2).
@@ -33,6 +32,8 @@ These events are also experienced by patients with influenza without oseltamivir
 Patients should be closely monitored for behavioural changes, and the benefits and risks of continuing treatment should be carefully evaluated for each patient (see section 4.8).
 
 [Tamiflu 6 mg/ml powder for oral suspension]
+
+The efficacy of oseltamivir in either treatment or prophylaxis of influenza in immunocompromised patients has not been firmly established(see section 5.1).
 
 No data allowing a dose recommendation for premature children (<36 weeks post-conceptual age) are currently available.
 

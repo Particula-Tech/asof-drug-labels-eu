@@ -18,6 +18,7 @@ Biotransformation
 Oseltamivir is extensively converted to oseltamivir carboxylate by esterases located predominantly in the liver.
 In vitro studies demonstrated that neither oseltamivir nor the active metabolite is a substrate for, or an inhibitor of, the major cytochrome P450 isoforms.
 No phase 2 conjugates of either compound have been identified in vivo.
+
 Elimination
 Absorbed oseltamivir is primarily (> 90 %) eliminated by conversion to oseltamivir carboxylate.
 It is not further metabolised and is eliminated in the urine.
@@ -25,7 +26,6 @@ Peak plasma concentrations of oseltamivir carboxylate decline with a half-life o
 The active metabolite is eliminated entirely by renal excretion.
 Renal clearance (18.8 l/h) exceeds glomerular filtration rate (7.5 l/h) indicating that tubular secretion occurs in addition to glomerular filtration.
 Less than 20 % of an oral radiolabelled dose is eliminated in faeces.
-
 Other special populations
 
 Paediatric population
@@ -57,6 +57,7 @@ On the basis of drug exposure and tolerability, dosage adjustments are not requi
 Renal impairment
 Administration of 100 mg oseltamivir phosphate twice daily for 5 days to patients with various degrees of renal impairment showed that exposure to oseltamivir carboxylate is inversely proportional to declining renal function.
 For dosing, see section 4.2.
+
 Hepatic impairment
 In vitro studies have concluded that exposure to oseltamivir is not expected to be increased significantly nor is exposure to the active metabolite expected to be significantly decreased in patients with hepatic impairment (see section 4.2).
 
@@ -67,8 +68,14 @@ In addition, there is evidence from observational studies showing benefit of the
 Therefore, dose adjustments are not recommended for pregnant women in the treatment or prophylaxis of influenza (see section 4.6 Fertility, pregnancy and lactation).
 
 Immunocompromised Patients
-Population pharmacokinetic analysis indicates that treatment of adult immunocompromised patients with oseltamivir (as described in Section 4.2.
-Posology and method of administration) results in an increased exposure (of up to 50%) to the active metabolite when compared to adult non-immunocompromised patients with comparable creatinine clearance.
-Due to the wide safety margin of the active metabolite, no dose adjustments are required in adults due to their immunocompromised status.
-However, for adult immunocompromised patients with renal impairment, doses should be adjusted as outlined in section 4.2.
+Population pharmacokinetic analyses indicate that treatment of adult and paediatric (<18 years old) immunocompromised patients with oseltamivir (as described in Section 4.2.
+Posology and method of administration) results in an increased predicted exposure (from approximately 5% up to 50%) to the active metabolite when compared to non-immunocompromised patients with comparable creatinine clearance.
+Due to the wide safety margin of the active metabolite, no dose adjustments are required in patients due to their immunocompromised status.
+However, for immunocompromised patients with renal impairment, doses should be adjusted as outlined in section 4.2.
 Posology and method of administration.
+
+Pharmacokinetic and pharmacodynamic analyses from two studies in immunocompromised patients indicated that there was no meaningful additional benefit in exposures higher than those achieved after the administration of the standard dose.
+
+[Tamiflu 6 mg/ml powder for oral suspension]
+
+Pharmacokinetics and pharmacodynamics analyses from two studies in immunocompromised patients indicated that there was no meaningful additional benefit in exposures higher than those achieved after the administration of the standard dose.
