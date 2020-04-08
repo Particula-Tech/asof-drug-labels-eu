@@ -82,7 +82,7 @@ Insuman Rapid 100 IU/ml in cartridges is only suitable for subcutaneous injectio
 If administration by syringe or intravenous injection is necessary, a vial should be used.
 The Insuman Rapid cartridges should only be used with the following pens:
 - JuniorSTAR which delivers Insuman Rapid in 0.5 unit dose increments
-- OptiPen, ClikSTAR, Tactipen, Autopen 24, AllStar and AllStar PRO which all deliver Insuman Rapid in 1 unit dose increments.
+- ClikSTAR, Tactipen, Autopen 24, AllStar and AllStar PRO which all deliver Insuman Rapid in 1 unit dose increments.
 These cartridges should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens (see section 4.2 and 6.6).
 Not all of these pens may be marketed in your country.
 
@@ -106,7 +106,7 @@ Insuman Basal 100 IU/ml in cartridges is only suitable for subcutaneous injectio
 If administration by syringe is necessary, a vial should be used.
 The Insuman Basal cartridges should only be used with the following pens:
 - JuniorSTAR which delivers Insuman Basal in 0.5 unit dose increments
-- OptiPen, ClikSTAR, Tactipen, Autopen 24, and AllStar and AllStar PRO which all deliver Insuman Basal in 1 unit dose increments.
+- ClikSTAR, Tactipen, Autopen 24, and AllStar and AllStar PRO which all deliver Insuman Basal in 1 unit dose increments.
 These cartridges should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens.
 Not all of these pens may be marketed in your country (see section 4.2 and 6.6).
 
@@ -127,7 +127,7 @@ Pens to be used with Insuman Comb 15 100 IU/ml in cartridges
 Insuman Comb 15 100 IU/ml in cartridges is only suitable for subcutaneous injections from a reusable pen.
 The Insuman Com 15 cartridges should only be used with the following pens:
 - JuniorSTAR which delivers Insuman Comb 15 in 0.5 unit dose increments
-- OptiPen, ClikSTAR, Tactipen, Autopen 24, AllStar and AllStar PRO which all deliver Insuman Comb 15 in 1 unit dose increments.
+- ClikSTAR, Tactipen, Autopen 24, AllStar and AllStar PRO which all deliver Insuman Comb 15 in 1 unit dose increments.
 
 Insuman Comb 15 SoloStar 100 IU/ml in a pre-filled pen
 Insuman Comb 15 SoloStar 100 IU/ml in pre-filled pen is only suitable for subcutaneous injections.
@@ -145,7 +145,7 @@ Pens to be used with Insuman Comb 25 100 IU/ml in cartridges
 Insuman Comb 25 100 IU/ml in cartridges is only suitable for subcutaneous injections from a reusable pen.
 The Insuman Comb 25 cartridges should only be used with the following pens:
 - JuniorSTAR which delivers Insuman Comb 25 in 0.5 unit dose increments
-- OptiPen, ClikSTAR, Tactipen, Autopen 24, AllStar and AllStar PRO which all deliver Insuman Comb 25 in 1 unit dose increments.
+- ClikSTAR, Tactipen, Autopen 24, AllStar and AllStar PRO which all deliver Insuman Comb 25 in 1 unit dose increments.
 
 Insuman Comb 25 SoloStar 100 IU/ml in a pre-filled pen
 Insuman Comb 25 SoloStar 100 IU/ml in pre-filled pen is only suitable for subcutaneous injections.
@@ -163,7 +163,7 @@ Pens to be used with Insuman Comb 30 100 IU/ml in cartridges
 Insuman Comb 30 100 IU/ml in cartridges is only suitable for subcutaneous injections from a reusable pen.
 The Insuman Comb 30 cartridges should only be used with the following pens:
 - JuniorSTAR which delivers Insuman Comb 30 in 0.5 unit dose increments
-- OptiPen, ClikSTAR, Tactipen, Autopen 24, AllStar and AllStar PRO which all deliver Insuman Comb 30 in 1 unit dose increments.
+- ClikSTAR, Tactipen, Autopen 24, AllStar and AllStar PRO which all deliver Insuman Comb 30 in 1 unit dose increments.
 Not all of these pens may be marketed in your country(see section 4.2 and 6.6).
 
 Insuman Comb 30 SoloStar 100 IU/ml in a pre-filled pen
@@ -182,7 +182,7 @@ Pens to be used with Insuman Comb 50 100 IU/ml in cartridges
 Insuman Comb 50 100 IU/ml in cartridges is only suitable for subcutaneous injections from a reusable pen.
 The Insuman Comb 50 cartridges should only be used with the following pens:
 - JuniorSTAR which delivers Insuman Comb 50 in 0.5 unit dose increments
-- OptiPen, ClikSTAR, Tactipen, Autopen 24, AllStar and AllStar PRO which all deliver Insuman Comb 50 in 1 unit dose increments.
+- ClikSTAR, Tactipen, Autopen 24, AllStar and AllStar PRO which all deliver Insuman Comb 50 in 1 unit dose increments.
 
 Insuman Comb 50 SoloStar 100 IU/ml in a pre-filled pen
 Insuman Comb 50 SoloStar 100 IU/ml in pre-filled pen is only suitable for subcutaneous injections.

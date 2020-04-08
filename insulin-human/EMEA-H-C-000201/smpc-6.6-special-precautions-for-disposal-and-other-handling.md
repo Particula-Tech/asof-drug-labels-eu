@@ -28,7 +28,7 @@ Insuman Rapid 100 IU/ml in a cartridge
 Insulin pen
 Insuman Rapid 100 IU/ml in cartridges is only suitable for subcutaneous injections from a reusable pen.
 If administration by syringe or intravenous injection is necessary, a vial should be used.
-The Insuman Rapid cartridges are to be used only in conjunction with the pens: OptiPen, ClikSTAR, Autopen 24, Tactipen, AllStar, AllStar PRO or JuniorSTAR (see section 4.2 and 4.4).
+The Insuman Rapid cartridges are to be used only in conjunction with the pens: ClikSTAR, Autopen 24, Tactipen, AllStar, AllStar PRO or JuniorSTAR (see section 4.2 and 4.4).
 Not all of these pens may be marketed in your country.
 
 The pen should be used as recommended in the information provided by the device manufacturer.
@@ -78,7 +78,7 @@ Insuman Basal may be mixed with all insulin human formulations, but not with tho
 Insuman Basal 100 IU/ml in a cartridge
 Insuman Basal 100 IU/ml in cartridges is only suitable for subcutaneous injections from a reusable pen.
 If administration by syringe is necessary, a vial should be used.
-The Insuman Basal cartridges are to be used only in conjunction with the pens: OptiPen, ClikSTAR, Autopen 24, Tactipen, AllStar , AllStar PRO or JuniorSTAR (see section 4.2 and 4.4).
+The Insuman Basal cartridges are to be used only in conjunction with the pens: ClikSTAR, Autopen 24, Tactipen, AllStar , AllStar PRO or JuniorSTAR (see section 4.2 and 4.4).
 
 Before insertion into the pen, Insuman Basal must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 This is best done by gently tilting the cartridge back and forth (at least ten times).
@@ -120,7 +120,7 @@ Insuman Comb 15 may be mixed with all insulin human formulations, but not with t
 
 Insuman Comb 15 100 IU/ml in a cartridge
 Insuman Comb 15 100 IU/ml in cartridges is only suitable for subcutaneous injections from a reusable pen.
-The Insuman Comb 15 cartridges are to be used only in conjunction with the pens: OptiPen, ClikSTAR, Autopen 24, Tactipen, AllStar, AllStar PRO or JuniorSTAR (see section 4.2 and 4.4).
+The Insuman Comb 15 cartridges are to be used only in conjunction with the pens: ClikSTAR, Autopen 24, Tactipen, AllStar, AllStar PRO or JuniorSTAR (see section 4.2 and 4.4).
 
 Before insertion into the pen, Insuman Comb 15 must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 
@@ -145,7 +145,7 @@ Insuman Comb 25 may be mixed with all insulin human formulations, but not with t
 
 Insuman Comb 25 100 IU/ml in a cartridge
 Insuman Comb 25 100 IU/ml in cartridges is only suitable for subcutaneous injections from a reusable pen.
-The Insuman Comb 25 cartridges are to be used only in conjunction with the pens: OptiPen, ClikSTAR, Autopen 24, Tactipen, AllStar, AllStar PRO or JuniorSTAR (see section 4.2 and 4.4).
+The Insuman Comb 25 cartridges are to be used only in conjunction with the pens: ClikSTAR, Autopen 24, Tactipen, AllStar, AllStar PRO or JuniorSTAR (see section 4.2 and 4.4).
 
 Before insertion into the pen, Insuman Comb 25 must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 
@@ -172,7 +172,7 @@ Insuman Comb 30 may be mixed with all insulin human formulations, but not with t
 
 Insuman Comb 30 100 IU/ml in a cartridge
 Insuman Comb 30 100 IU/ml in cartridges is only suitable for subcutaneous injections from a reusable pen.
-The Insuman Comb 30 cartridges are to be used only in conjunction with the pens: OptiPen, ClikSTAR, Autopen 24, Tactipen, AllStar , AllStar PRO or JuniorSTAR (see section 4.2 and 4.4).
+The Insuman Comb 30 cartridges are to be used only in conjunction with the pens: ClikSTAR, Autopen 24, Tactipen, AllStar , AllStar PRO or JuniorSTAR (see section 4.2 and 4.4).
 
 Before insertion into the pen, Insuman Comb 30 must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 
@@ -197,7 +197,7 @@ Insuman Comb 50 may be mixed with all insulin human formulations, but not with t
 
 Insuman Comb 50 100 IU/ml in a cartridge
 Insuman Comb 50 100 IU/ml in cartridges is only suitable for subcutaneous injections from a reusable pen.
-The Insuman comb 50 cartridges are to be used only in conjunction with the pens: OptiPen, ClikSTAR, Autopen 24, Tactipen, AllStar, AllStar PRO or JuniorSTAR (see section 4.2 and 4.4).
+The Insuman comb 50 cartridges are to be used only in conjunction with the pens: ClikSTAR, Autopen 24, Tactipen, AllStar, AllStar PRO or JuniorSTAR (see section 4.2 and 4.4).
 
 Before insertion into the pen, Insuman Comb 50 must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 
