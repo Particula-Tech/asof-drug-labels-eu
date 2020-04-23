@@ -9,7 +9,7 @@ Breast-feeding
 It is unknown whether sugammadex is excreted in human breast milk.
 Animal studies have shown excretion of sugammadex in breast milk.
 Oral absorption of cyclodextrins in general is low and no effect on the suckling child is anticipated following a single dose to the breast-feeding woman.
-Sugammadex can be used during breast-feeding.
+A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from sugammadex therapy, taking into account the benefit of breast feeding for the child and the benefit of therapy for the woman.
 
 Fertility
 The effects with sugammadex on human fertility have not been investigated.
