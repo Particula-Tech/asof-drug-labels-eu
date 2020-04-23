@@ -1,12 +1,12 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-In an analysis of adverse reactions of composite Phase 3 studies with ZYTIGA, adverse reactions that were observed in ≥10% of patients were peripheral oedema, hypokalaemia, hypertension urinary tract infection, and alanine aminotransferase increased and/or aspartate aminotransferase increased.
+In an analysis of adverse reactions of composite Phase 3 studies with ZYTIGA, adverse reactions that were observed in ≥10% of patients were peripheral oedema, hypokalaemia, hypertension, urinary tract infection, and alanine aminotransferase increased and/or aspartate aminotransferase increased.
 Other important adverse reactions include, cardiac disorders, hepatotoxicity, fractures, and allergic alveolitis.
 
 ZYTIGA may cause hypertension, hypokalaemia and fluid retention as a pharmacodynamic consequence of its mechanism of action.
 In Phase 3 studies, anticipated mineralocorticoid adverse reactions were seen more commonly in patients treated with abiraterone acetate than in patients treated with placebo: hypokalaemia 18% vs.8%, hypertension 22% vs. 16% and fluid retention (peripheral oedema) 23% vs. 17%, respectively.
-In patients treated with abiraterone acetate, CTCAE (version 4.0) Grades 3 and 4 hypokalaemia were observed in 6% and 2% of patients, CTCAE (version 4.0) Grades 3 and 4 hypertension were observed in 8% and 5% of patients, and fluid retention (peripheral oedema) Grades 3 and 4 were observed in 1% and 1% of patients, respectively.
+In patients treated with abiraterone acetate versus patients treated with placebo: CTCAE (version 4.0) Grades 3 and 4 hypokalaemia were observed in 6% versus 1%, CTCAE (version 4.0) Grades 3 and 4 hypertension were observed in 7% versus 5%, and fluid retention (peripheral oedema) Grades 3 and 4 were observed in 1% versus 1% of patients, respectively.
 Mineralocorticoid reactions generally were able to be successfully managed medically.
 Concomitant use of a corticosteroid reduces the incidence and severity of these adverse reactions (see section 4.4).
 Tabulated list of adverse reactions
@@ -85,5 +85,7 @@ It allows continued monitoring of the benefit/risk balance of the medicinal prod
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [ZYTIGA 500 mg film-coated tablets]
+
+In an analysis of adverse reactions of composite Phase 3 studies with ZYTIGA, adverse reactions that were observed in ≥10% of patients were peripheral oedema, hypokalaemia, hypertension urinary tract infection, and alanine aminotransferase increased and/or aspartate aminotransferase increased.
 
 The incidence and severity of adverse events was higher in the subgroup of patients with baseline ECOG2 performance status grade and also in elderly patients (≥75 years ).

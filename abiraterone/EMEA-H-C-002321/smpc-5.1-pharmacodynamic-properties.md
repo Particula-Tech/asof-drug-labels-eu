@@ -69,41 +69,30 @@ b Hazard ratio is from stratified proportional hazards model. Hazard ratio <1 fa
 Figure 1: Kaplan-Meier Plot of Radiographic Progression-free Survival; Intent-to-treat Population (Study
 PCR3011)
 
-A statistically significant improvement in OS in favor of AA-P plus ADT was observed with a 38% reduction in the risk of death compared to Placebo plus ADT (HR=0.621; 95% CI: 0.509, 0.756; p<0.0001), crossing the pre-specified boundary for OS at Interim Analysis 1 of 0.010 (see Table 3 and Figure 2).
+A statistically significant improvement in OS in favor of AA-P plus ADT was observed with a 34% reduction in the risk of death compared to Placebo plus ADT (HR=0.66; 95% CI: 0.56, 0.78; p<0.0001), (see Table 3 and Figure 2).
 
-Table 3: Overall Survival, Stratified Analysis; Intent-to-treat Population (Study PCR3011)
-AA-P Placebo
-Subjects randomised 597 602
-Event 169 (28.3%) 237 (39.4%)
-Censored 428 (71.7%) 365 (60.6%)
-Overall Survival (months)
-Median (95% CI) NE (NE, NE) 34.73 (33.05, NE)
-Range (0.1, 43.5+) (1.4+, 43.5+)
-p valuea < 0.0001
-Hazard ratio (95% CI)b 0.621 (0.509, 0.756)
-Note:+= censored observation, NE = not estimable. AA-P= subjects who received abiraterone acetate and
-prednisone
-a p value is from log-rank test stratified by ECOG PS score (0/1 or 2) and visceral lesion (absent or present).
-b Hazard ratio is from stratified proportional hazards model. Hazard ratio <1 favors AA-P.
-Figure 2: Kaplan-Meier Plot of Overall Survival; Intent-to-treat Population (Study PCR3011)
+Table 3: Overall Survival of Patients Treated with Either ZYTIGA or Placebos in Study PCR3011 (Intent-to-Treat Analysis)
+
+Overall Survival ZYTIGA with Placebos
+Prednisone (N=602)
+
+(N=597)
+
+Deaths (%) 275 (46%) 343 (57%)
+Median survival (months) 53.3 36.5
+(95% CI) (48.2, NE) (33.5, 40.0)
+Hazard ratio (95% CI)1 0.66 (0.56, 0.78)
+
+NE=Not estimable
+1 Hazard Ratio is derived from a stratified proportional hazards model.
+Hazard ratio <1 favors ZYTIGA with prednisone.
+
+Figure 2: Kaplan-Meier Plot of Overall Survival; Intent-to-treat Population in Study PCR3011 Analysis
 
 Subgroup analyses consistently favor treatment with ZYTIGA.
 The treatment effect of AA-P on rPFS and OS across the pre-specified subgroups was favorable and consistent with the overall study population, except for the subgroup of ECOG score of 2 where no trend towards benefit was observed, however the small sample size (n=40) limits drawing any meaningful conclusion.
 
-In addition to the observed improvements in overall survival and rPFS, benefit was demonstrated for ZYTIGA vs. placebo treatment in all prospectively-defined secondary endpoint measures as follows:
-
-Time to skeletal-related event (SRE): There was a 30% reduction in the risk of skeletal-related events (HR = 0.703; 95% CI: [0.539, 0.916], p = 0.0086).
-The median time to SRE has not been reached for the ZYTIGA or placebo study arm.
-
-Time to PSA progression based on PCWG2 criteria: The median time to PSA progression was 33.2 months for patients receiving ZYTIGA and 7.4 months for patients receiving placebo
-(HR = 0.299; 95% CI: [0.255, 0.352], p <0.0001).
-
-Time to subsequent therapy: The median time to subsequent therapy at the time of interim analysis was not reached for patients receiving ZYTIGA and was 21.6 months for patients receiving placebo (HR = 0.415; 95% CI: [0.346, 0.497], p <0.0001).
-
-Time to initiation of chemotherapy: The median time to initiation of chemotherapy was not reached for patients receiving ZYTIGA and was 38.9 months for patients receiving placebo (HR = 0.443; 95% CI: [0.349, 0.561], p < 0.0001).
-
-Time to pain progression: The median time to pain progression was not reached for patients receiving ZYTIGA and was 16.6 months for patients receiving placebo (HR = 0.695; 95% CI: [0.583, 0.829], p <0.0001).
-The majority of exploratory endpoints favored treatment with abiraterone acetate and prednisone (AA-P) over Placebo.
+In addition to the observed improvements in overall survival and rPFS, benefit was demonstrated for ZYTIGA vs. placebo treatment in all prospectively-defined secondary endpoints.
 
 Study 302 (chemotherapy naïve patients)
 This study enrolled chemotherapy naïve patients who were asymptomatic or mildly symptomatic and for whom chemotherapy was not yet clinically indicated.
@@ -144,10 +133,10 @@ Hazard ratio** (95% CI) 0.425 (0.347; 0.522)
 NE = Not estimated
 * p-value is derived from a log-rank test stratified by baseline ECOG score (0 or 1)
 ** Hazard ratio < 1 favours ZYTIGA
+
 Figure 3: Kaplan Meier curves of radiographic progression-free survival in patients treated with either ZYTIGA or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy
 
 AA = ZYTIGA
-
 However, subject data continued to be collected through the date of the second interim analysis of Overall survival (OS).
 The investigator radiographic review of rPFS performed as a follow up sensitivity analysis is presented in Table 5 and Figure 4.
 
@@ -175,10 +164,10 @@ Hazard ratio**
 (95% CI)
 * p-value is derived from a log-rank test stratified by baseline ECOG score (0 or 1)
 ** Hazard ratio < 1 favours ZYTIGA
+
 Figure 4: Kaplan Meier curves of radiographic progression-free survival in patients treated with either ZYTIGA or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy (At second interim analysis of OS-Investigator Review)
 
 AA = ZYTIGA
-
 A planned interim analysis (IA) for OS was conducted after 333 deaths were observed.
 The study was unblinded based on the magnitude of clinical benefit observed and patients in the placebo group were offered treatment with ZYTIGA.
 Overall survival was longer for ZYTIGA than placebo with a 25% reduction in risk of death (HR = 0.752; 95% CI: [0.606; 0.934], p = 0.0097), but OS was not mature and interim results did not meet the pre-specified stopping boundary for statistical significance (see Table 4).
@@ -219,7 +208,6 @@ Hazard ratio** (95% CI) 0.806 (0.697; 0.931)
 NE = Not Estimated
 * p-value is derived from a log-rank test stratified by baseline ECOG score (0 or 1)
 ** Hazard ratio < 1 favours ZYTIGA
-
 Figure 5: Kaplan Meier survival curves of patients treated with either ZYTIGA or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy, final analysis
 
 AA = ZYTIGA
@@ -233,12 +221,12 @@ The proportion of subjects with a confirmed PSA response was greater in the ZYTI
 In subjects with measurable soft tissue disease, significantly increased numbers of complete and partial tumor responses were seen with ZYTIGA treatment.
 
 Time to opiate use for cancer pain: The median time to opiate use for prostate cancer pain at the time of final analysis was 33.4 months for patients receiving ZYTIGA and was 23.4 months for patients receiving placebo (HR = 0.721; 95% CI: [0.614; 0.846], p < 0.0001).
+
 Time to initiation of cytotoxic chemotherapy: The median time to initiation of cytotoxic chemotherapy was 25.2 months for patients receiving ZYTIGA and 16.8 months for patients receiving placebo (HR = 0.580; 95% CI: [0.487; 0.691], p < 0.0001).
 
 Time to deterioration in ECOG performance score by ≥1 point: The median time to deterioration in ECOG performance score by ≥1 point was 12.3 months for patients receiving ZYTIGA and 10.9 months for patients receiving placebo (HR = 0.821; 95% CI: [0.714; 0.943], p = 0.0053).
 
 The following study endpoints demonstrated a statistically significant advantage in favour of ZYTIGA treatment:
-
 Objective response: Objective response was defined as the proportion of subjects with measurable disease achieving a complete or partial response according to RECIST criteria (baseline lymph node size was required to be ≥2 cm to be considered a target lesion).
 The proportion of subjects with measurable disease at baseline who had an objective response was 36% in the ZYTIGA group and 16% in the placebo group (p < 0.0001).
 
@@ -293,7 +281,6 @@ Hazard ratio (95% CI)b 0.740 (0.638; 0.859)
 a p-value is derived from a log-rank test stratified by ECOG performance status score (0-1 vs. 2), pain score (absent vs. present), number of prior chemotherapy regimens (1 vs. 2), and type of disease progression (PSA only vs. radiographic).
 b Hazard ratio is derived from a stratified proportional hazards model.
 Hazard ratio < 1 favours ZYTIGA
-
 At all evaluation time points after the initial few months of treatment, a higher proportion of patients treated with ZYTIGA remained alive, compared with the proportion of patients treated with placebo (see Figure 6).
 
 Figure 6: Kaplan Meier survival curves of patients treated with either ZYTIGA or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy
@@ -332,4 +319,7 @@ See section 4.2 for information on paediatric use.
 
 [ZYTIGA 500 mg film-coated tablets]
 
-A statistically significant improvement in OS in favor of AA-P plus ADT was observed with a 38% reduction in the risk of death compared to Placebo plus ADT (HR=0.621; 95% CI: 0.509, 0.756; p<0.0001, crossing the pre-specified boundary for OS at Interim Analysis 1 of 0.010 (see Table 3 and Figure 2).
+A statistically significant improvement in OS in favor of AA-P plus ADT was observed with a 34% reduction in the risk of death compared to Placebo plus ADT (HR=0.66; 95% CI: 0.56, 0.78; p<0.0001, (see Table 3 and Figure 2).
+
+Overall Survival ZYTIGA with Prednisone Placebos
+(N=597) (N=602)

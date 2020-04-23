@@ -9,7 +9,7 @@ Following oral administration of abiraterone acetate in the fasting state, the t
 Administration of abiraterone acetate with food, compared with administration in a fasted state, results in up to a 10-fold (AUC) and up to a 17-fold (Cmax) increase in mean systemic exposure of abiraterone, depending on the fat content of the meal.
 Given the normal variation in the content and composition of meals, taking ZYTIGA with meals has the potential to result in highly variable exposures.
 Therefore, ZYTIGA must not be taken with food.
-It should be taken at least two hours after eating and no food should be eaten for at least one hour after taking ZYTIGA.
+It should be taken at least one hour before or at least two hours after eating.
 The tablets should be swallowed whole with water (see section 4.2).
 
 Distribution
