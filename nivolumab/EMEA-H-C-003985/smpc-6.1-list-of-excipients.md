@@ -4,7 +4,7 @@ Sodium citrate dihydrate
 Sodium chloride
 Mannitol (E421)
 Pentetic acid (diethylenetriaminepentaacetic acid)
-Polysorbate 80
+Polysorbate 80 (E433)
 Sodium hydroxide (for pH adjustment)
 Hydrochloric acid (for pH adjustment)
 Water for injections

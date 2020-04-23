@@ -1,10 +1,14 @@
 # 4.4 Special warnings and precautions for use
 
+Traceability
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+Immune-related adverse reactions
 When nivolumab is administered in combination with ipilimumab, refer to the Summary of Product Characteristics for ipilimumab prior to initiation of treatment.
 Immune-related adverse reactions have occurred at higher frequencies when nivolumab was administered in combination with ipilimumab compared with nivolumab as monotherapy.
 Most immune-related adverse reactions improved or resolved with appropriate management, including initiation of corticosteroids and treatment modifications (see section 4.2).
 
-Cardiac and pulmonary adverse events including pulmonary embolism have also been reported with combination therapy.
+Cardiac and pulmonary adverse reactions including pulmonary embolism have also been reported with combination therapy.
 Patients should be monitored for cardiac and pulmonary adverse reactions continuously, as well as for clinical signs, symptoms, and laboratory abnormalities indicative of electrolyte disturbances and dehydration prior to and periodically during treatment.
 Nivolumab in combination with ipilimumab should be discontinued for life-threatening or recurrent severe cardiac and pulmonary adverse reactions (see section 4.2).
 
@@ -15,7 +19,6 @@ Based on the severity of the adverse reaction, nivolumab or nivolumab in combina
 If immunosuppression with corticosteroids is used to treat an adverse reaction, a taper of at least 1 month duration should be initiated upon improvement.
 Rapid tapering may lead to worsening or recurrence of the adverse reaction.
 Non-corticosteroid immunosuppressive therapy should be added if there is worsening or no improvement despite corticosteroid use.
-
 Nivolumab or nivolumab in combination with ipilimumab should not be resumed while the patient is receiving immunosuppressive doses of corticosteroids or other immunosuppressive therapy.
 Prophylactic antibiotics should be used to prevent opportunistic infections in patients receiving immunosuppressive therapy.
 
@@ -50,6 +53,7 @@ For Grade 2 diarrhoea or colitis, nivolumab or nivolumab in combination with ipi
 Persistent diarrhoea or colitis should be managed with corticosteroids at a dose of 0.5 to 1 mg/kg/day methylprednisolone equivalents.
 Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper, if needed.
 If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents and nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued.
+
 Immune-related hepatitis
 Severe hepatitis has been observed with nivolumab monotherapy or nivolumab in combination with ipilimumab (see section 4.8).
 Patients should be monitored for signs and symptoms of hepatitis such as transaminase and total bilirubin elevations.
@@ -151,46 +155,54 @@ In the absence of data for patients who had been receiving systemic immunosuppre
 Relative to nivolumab monotherapy, an increase in PFS for the combination of nivolumab with ipilimumab is established only in patients with low tumour PD-L1 expression.
 The improvement in OS was similar between nivolumab in combination with ipilimumab and nivolumab monotherapy in patients with high tumour PD-L1 expression (PD-L1 ≥ 1%).
 Before initiating treatment with the combination, physicians are advised to carefully evaluate the individual patient and tumour characteristics, taking into consideration the observed benefits and the toxicity of the combination relative to nivolumab monotherapy (see sections 4.8 and 5.1).
-
 Use of nivolumab in melanoma patients with rapidly progressing disease
 Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with rapidly progressing disease (see section 5.1).
+
 Adjuvant treatment of melanoma
-There are no data on adjuvant treatment in patients with melanoma with the following risk factors (see sections 4.5 and 5.1
+There are no data on adjuvant treatment in patients with melanoma with the following risk factors (see sections 4.5 and 5.1):
 
-- patients with prior autoimmune disease, and any condition requiring systemic treatment with either corticosteroids (≥ 10 mg daily prednisone or equivalent) or other immunosuppressive medications,
-- patients with prior therapy for melanoma (except patients with surgery, adjuvant radiotherapy after neurosurgical resection for lesions of the central nervous system, and prior adjuvant interferon completed ≥ 6 months prior to randomisation),
-- patients treated with prior therapy with anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CD137, or anti CTLA-4 antibody (including ipilimumab or any other antibody or drug specifically targeting
+- patients with prior autoimmune disease, and any condition requiring systemic treatment with
 
+either corticosteroids (≥ 10 mg daily prednisone or equivalent) or other immunosuppressive medications,
+
+- patients with prior therapy for melanoma (except patients with surgery, adjuvant radiotherapy
+
+after neurosurgical resection for lesions of the central nervous system, and prior adjuvant interferon completed ≥ 6 months prior to randomisation),
+
+- patients treated with prior therapy with anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CD137, or anti
+
+CTLA-4 antibody (including ipilimumab or any other antibody or drug specifically targeting
 T cell co-stimulation or checkpoint pathways),
 
 - subjects under the age of 18 years.
 
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
-Non-Small Cell Lung Cancer
+Non-small cell lung cancer
 Patients with a baseline performance score ≥ 2, active brain metastases or autoimmune disease, symptomatic interstitial lung disease, and patients who had been receiving systemic immunosuppressants prior to study entry were excluded from the pivotal clinical trials of NSCLC (see sections 4.5 and 5.1).
 Patients with baseline performance score of 2 were included in study CA209171 (see section 5.1).
-In the absence of data for patients with autoimmune disease, symptomatic interstitial lung disease, active brain metastases and patients who had been receiving systemic immunosuppressants prior to study entry, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis
+In the absence of data for patients with autoimmune disease, symptomatic interstitial lung disease, active brain metastases and patients who had been receiving systemic immunosuppressants prior to study entry, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with poorer prognostic features and/or aggressive disease.
 In non-squamous NSCLC, a higher number of deaths within 3 months was observed in nivolumab compared to docetaxel.
 Factors associated with early deaths were poorer prognostic factors and/or more aggressive disease combined with low or no tumour PD-L1 expression (see section 5.1).
 
-Renal Cell Carcinoma
+Renal cell carcinoma
 Patients with any history of or concurrent brain metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trials of nivolumab or nivolumab in combination with ipilimumab (see sections 4.5 and 5.1).
 In the absence of data, nivolumab or nivolumab in combination with ipilimumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
-Classical Hodgkin Lymphoma
+Classical Hodgkin lymphoma
 Patients with active autoimmune disease and symptomatic interstitial lung disease were excluded from clinical trials of cHL (see section 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
-Complications of allogeneic Haematopoietic Stem Cell Transplant (HSCT) in classical Hodgkin Lymphoma
+Complications of allogeneic haematopoietic stem cell transplant (HSCT) in classical Hodgkin lymphoma
 Preliminary results from the follow-up of patients with cHL undergoing allogeneic HSCT after previous exposure to nivolumab showed a higher than expected number of cases of acute graft-versus-host disease (GVHD) and transplant related mortality (TRM).
 Until further data become available, careful consideration to the potential benefits of HSCT and the possible increased risk of transplant related complications should be made case-by-case (see section 4.8).
 
 In patients treated with nivolumab after allogeneic HSCT, rapid-onset and severe GVHD, some with fatal outcome, have been reported in the post-marketing setting.
 Treatment with nivolumab may increase the risk of severe GVHD and death in patients who have had prior allogeneic HSCT, mainly in those with prior history of GVHD.
 The benefit of treatment with nivolumab versus the possible risk should be considered in these patients (see section 4.8).
-Head and Neck Cancer
+
+Head and neck cancer
 Patients with a baseline performance score ≥ 2, active brain or leptomeningeal metastases, active autoimmune disease, medical conditions requiring systemic immunosuppression, or carcinoma of the nasopharynx or salivary gland as the primary tumour sites were excluded from the SCCHN clinical trial (see sections 4.5 and 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
@@ -198,15 +210,15 @@ Physicians should consider the delayed onset of nivolumab effect before initiati
 In head and neck cancer, a higher number of deaths within 3 months was observed in nivolumab compared to docetaxel.
 Factors associated with early deaths were ECOG performance status, fast progressive disease on prior platinum therapy and high tumour burden.
 
-Urothelial Carcinoma
+Urothelial carcinoma
 Patients with a baseline performance score ≥2, active brain metastases or leptomeningeal metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trials of urothelial carcinoma (see sections 4.5 and 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
 Patients on controlled sodium diet
 Each mL of this medicinal product contains 0.1 mmol (or 2.5 mg) sodium.
-To be taken into consideration when treating patients on a controlled sodium diet.
+This medicinal product contains 10 mg sodium per 4 ml vial, 25 mg sodium per 10 ml vial or 60 mg sodium per 24 ml vial, which is equivalent to 0.5%, 1.25% or 3% respectively, of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 
-Patient Alert Card
-All prescribers of OPDIVO must be familiar with the Physician Information and Management Guidelines.
+Patient alert card
+All prescribers of OPDIVO must be familiar with the physician information and management guidelines.
 The prescriber must discuss the risks of OPDIVO therapy with the patient.
-The patient will be provided with the Patient Alert Card with each prescription.
+The patient will be provided with the patient alert card with each prescription.
