@@ -1,5 +1,9 @@
 # 4.4 Special warnings and precautions for use
 
+Traceability
+
+In order to improve the traceability of biological medicinal products, the name and batch number of the administered product should be clearly recorded.
+
 Progressive Multifocal Leukoencephalopathy (PML)
 
 Use of TYSABRI has been associated with an increased risk of PML, an opportunistic infection caused by JC virus, which may be fatal or result in severe disability.
@@ -18,6 +22,10 @@ Patients who are anti-JCV antibody positive are at an increased risk of developi
 Patients who have all three risk factors for PML (i.e., are anti-JCV antibody positive and have received more than 2 years of TYSABRI therapy, and have received prior immunosuppressant therapy) have a significantly higher risk of PML.
 In anti-JCV antibody positive TYSABRI treated patients who have not used prior immunosuppressants the level of anti-JCV antibody response (index) is associated with the level of risk for PML.
 
+In anti-JCV antibody positive patients, extended interval dosing of TYSABRI (average dosing interval of approximately 6 weeks) is suggested to be associated with a lower PML risk compared to approved dosing.
+If utilising extended interval dosing, caution is required because the efficacy of extended interval dosing has not been established and the associated benefit risk balance is currently unknown (see section 5.1).
+For further information, refer to the Physician Information and Management Guidelines.
+
 In patients considered at high risk treatment with TYSABRI should only be continued if the benefits outweigh the risks.
 For the estimation of PML risk in the different patient subgroups, please refer to the Physician Information and Management Guidelines.
 
@@ -30,7 +38,7 @@ Re-testing of anti-JCV antibody negative patients every 6 months is recommended.
 Retesting low index patients who have no history of prior immunosuppressant use every 6 months once they reach the 2 year treatment point is recommended.
 
 The anti-JCV antibody assay (ELISA) should not be used to diagnose PML.
-Use of plasmapheresis (PLEX) or intravenous immunoglobulin (IVIg) can affect meaningful interpretation of serum anti-JCV antibody testing.
+Use of plasmapheresis/plasma exchange (PLEX) or intravenous immunoglobulin (IVIg) can affect meaningful interpretation of serum anti-JCV antibody testing.
 Patients should not be tested for anti-JCV antibodies within 2 weeks of PLEX due to removal of antibodies from the serum, or within 6 months of IVIg (i.e. 6 months = 5x half-life for immunoglobulins).
 
 For further information on anti-JCV antibody testing please see Physician Information and Management Guidelines.
@@ -51,9 +59,9 @@ Current evidence suggests that the risk of PML is low at an index equal to or be
 
 No studies have been performed to evaluate the efficacy and safety of TYSABRI when switching patients from DMTs with an immunosuppressant effect.
 It is unknown if patients switching from these therapies to TYSABRI have an increased risk of PML, therefore these patients should be monitored more frequently (i.e. similarly to patients switching from immunosuppressants to TYSABRI).
-
 PML should be considered as a differential diagnosis in any MS patient taking TYSABRI presenting with neurological symptoms and/or new brain lesions in MRI.
 Cases of asymptomatic PML based on MRI and positive JCV DNA in the cerebrospinal fluid have been reported.
+
 Physicians should refer to the Physician Information and Management Guidelines for further information on managing the risk of PML in TYSABRI-treated patients.
 
 If PML or JCV GCN is suspected, further dosing must be suspended until PML has been excluded.
@@ -72,17 +80,19 @@ If a patient develops PML the dosing of TYSABRI must be permanently discontinued
 
 Following reconstitution of the immune system in immunocompromised patients with PML improved outcome has been seen.
 
+Based on a retrospective analysis of natalizumab-treated patients since its approval, no difference was observed on 2-year survival after PML diagnosis between patients who received PLEX and those who did not.
+For other considerations on the management of PML, see the Physician Informaion and Management Guidelines.
+
 PML and IRIS (Immune Reconstitution Inflammatory Syndrome)
 
-IRIS occurs in almost all TYSABRI PML patients after withdrawal or removal of the medicinal product, e.g. by plasma exchange (see section 5.2).
+IRIS occurs in almost all TYSABRI PML patients after withdrawal or removal of the medicinal product.
 IRIS is thought to result from the restoration of immune function in patients with PML, which can lead to serious neurological complications and may be fatal.
-Monitoring for development of IRIS, which has occurred within days to several weeks after plasma exchange in TYSABRI treated patients with PML, and appropriate treatment of the associated inflammation during recovery from PML should be undertaken (see the Physician Information and Management Guidelines for further information).
+Monitoring for development of IRIS and appropriate treatment of the associated inflammation during recovery from PML should be undertaken (see the Physician Information and Management Guidelines for further information).
 
 Infections including other opportunistic infections
 
 Other opportunistic infections have been reported with use of TYSABRI, primarily in patients with Crohn’s disease who were immunocompromised or where significant co-morbidity existed, however increased risk of other opportunistic infections with use of the medicinal product in patients without these co-morbidities cannot currently be excluded.
 Opportunistic infections were also detected in MS patients treated with TYSABRI as a monotherapy (see section 4.8).
-
 TYSABRI increases the risk of developing encephalitis and meningitis caused by herpes simplex and varicella zoster viruses.
 Serious, life-threatening, and sometimes fatal cases have been reported in the postmarketing setting in multiple sclerosis patients receiving TYSABRI (see section 4.8).
 If herpes encephalitis or meningitis occurs, the medicinal product should be discontinued, and appropriate treatment for herpes encephalitis or meningitis should be administered.
@@ -90,7 +100,7 @@ If herpes encephalitis or meningitis occurs, the medicinal product should be dis
 Acute retinal necrosis (ARN) is a rare fulminant viral infection of the retina caused by the family of herpes viruses (e.g. varicella zoster).
 ARN has been observed in patients being administered TYSABRI and can be potentially blinding.
 Patients presenting with eye symptoms such as decreased visual acuity, redness and painful eye should be referred for retinal screening for ARN.
-Following clinical diagnosis of ARN, discontinuation of TYSBABRI should be considered in these patients.
+Following clinical diagnosis of ARN, discontinuation of TYSABRI should be considered in these patients.
 
 Prescribers should be aware of the possibility that other opportunistic infections may occur during TYSABRI therapy and should include them in the differential diagnosis of infections that occur in TYSABRI-treated patients.
 If an opportunistic infection is suspected, dosing with TYSABRI is to be suspended until such infections can be excluded through further evaluations.
@@ -124,7 +134,6 @@ Concurrent treatment with immunosuppressants
 
 The safety and efficacy of TYSABRI in combination with other immunosuppressive and antineoplastic therapies have not been fully established.
 Concurrent use of these agents with TYSABRI may increase the risk of infections, including opportunistic infections, and is contraindicated (see section 4.3).
-
 In Phase 3 MS clinical trials, concomitant treatment of relapses with a short course of corticosteroids was not associated with an increased rate of infection.
 Short courses of corticosteroids can be used in combination with TYSABRI.
 
@@ -160,7 +169,6 @@ Disease exacerbations or infusion related events may indicate the development of
 In these cases the presence of antibodies should be evaluated and if these remain positive in a confirmatory test after at least 6 weeks, treatment should be discontinued, as persistent antibodies are associated with a substantial decrease in efficacy of TYSABRI and an increased incidence of hypersensitivity reactions (see section 4.8).
 
 Since patients who have received an initial short exposure to TYSABRI and then had an extended period without treatment are at a higher risk of developing anti-natalizumab antibodies and/or hypersensitivity upon redosing, the presence of antibodies should be evaluated and if these remain positive in a confirmatory test after at least 6 weeks, the patient should not receive further treatment with TYSABRI.
-
 Hepatic events
 
 Spontaneous serious adverse reactions of liver injury have been reported during the post marketing phase.

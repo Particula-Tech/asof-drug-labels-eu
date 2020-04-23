@@ -18,7 +18,6 @@ Under normal conditions, VCAM-1 is not expressed in the brain parenchyma.
 However, in the presence of pro-inflammatory cytokines, VCAM-1 is upregulated on endothelial cells and possibly on glial cells near the sites of inflammation.
 In the setting of central nervous system (CNS) inflammation in MS, it is the interaction of α4β1 with VCAM-1, CS-1 and osteopontin that mediates the firm adhesion and transmigration of leukocytes into the brain parenchyma and may perpetuate the inflammatory cascade in CNS tissue.
 Blockade of the molecular interactions of α4β1 with its targets reduces inflammatory activity present in the brain in MS and inhibits further recruitment of immune cells into inflamed tissue, thus reducing the formation or enlargement of MS lesions.
-
 Clinical efficacy
 
 Efficacy as monotherapy has been evaluated in one randomised, double-blind, placebo-controlled study lasting 2 years (AFFIRM study) in relapsing-remitting MS patients who had experienced at least 1 clinical relapse during the year prior to entry and had a Kurtzke Expanded Disability Status Scale (EDSS) score between 0 and 5.
@@ -78,5 +77,13 @@ Mean EDSS scores remained stable over 5 years.
 Consistent with efficacy results observed for patients switching from beta interferon or glatiramer acetate to TYSABRI, for patients switching from fingolimod (n=147) to TYSABRI, a significant decrease in annualised relapse rate (ARR) was observed, which remained stable over 2 years, and mean EDSS scores remained similar from baseline to Year 2.
 The limited sample size and shorter duration of TYSABRI exposure for this subgroup of patients should be considered when interpreting these data.
 A post-marketing meta-analysis was conducted using data from 621 paediatric MS patients treated with TYSABRI (median age 17 years, range was 7-18 years, 91% aged ≥14 years).
-Within this analysis, a limited subset of patients with data available prior to treatment (158 of the 621 patients) demonstrated a reduction in ARR from 1.466 (95% CI 1.337, 1.604) prior to treatment to 0.110
-(95% CI 0.094, 0.128).
+Within this analysis, a limited subset of patients with data available prior to treatment (158 of the 621 patients) demonstrated a reduction in ARR from 1.466 (95% CI 1.337, 1.604) prior to treatment to 0.110 (95% CI 0.094, 0.128).
+
+In a pre-specified, retrospective analysis of US anti-JCV antibody positive TYSABRI patients (TOUCH registry), the risk of PML was compared between patients treated with the approved dosing interval and patients treated with extended interval dosing as identified in the last 18 months of exposure (EID, average dosing intervals of approximately 6 weeks).
+The majority (85%) of patients dosed with EID had received the approved dosing for ≥1 year prior to switching to EID.
+The interim analysis showed a lower risk of PML in patients treated with EID (hazard ratio = 0.06 95% CI of hazard ratio = 0.01- 0.22).
+The efficacy of TYSABRI when administered with EID has not been established, and therefore the benefit/risk balance of EID is unknown (see section 4.4).
+
+Efficacy has been modelled for patients who switch to longer dosing after ≥1 year of approved TYSABRI dosing and who did not experience a relapse in the year prior to switching.
+Current pharmacokinetic/pharmacodynamic statistical modelling and simulation indicate that the risk of MS disease activity for patients switching to longer dosing intervals may be higher for patients with body weight >80kg or those with dosing intervals ≥7 weeks.
+No prospective clinical studies have been completed to validate these findings.

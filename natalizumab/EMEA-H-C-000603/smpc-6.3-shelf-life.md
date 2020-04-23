@@ -2,6 +2,7 @@
 
 Unopened vial
 4 years
+
 Diluted solution
 
 After dilution with sodium chloride 9 mg/ml (0.9%) solution for injection, immediate use is recommended.

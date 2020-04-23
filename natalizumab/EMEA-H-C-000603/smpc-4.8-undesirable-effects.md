@@ -14,25 +14,25 @@ Adverse reactions reported with natalizumab with an incidence of 0.5% greater th
 The reactions are reported as MedDRA preferred terms under the MedDRA primary system organ class.
 Frequencies were defined as follows:
 
-Common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100).
+Very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 | MedDRA System Organ Class | Adverse reaction | Frequency category |
 | --- | --- | --- |
-| Infections and infestations | Urinary tract infection | Common |
-|  | Nasopharyngitis | Common |
+| Infections and infestations | Urinary tract infection | Very common |
+|  | Nasopharyngitis | Very common |
 | Immune system disorders | Urticaria | Common |
 |  | Hypersensitivity | Uncommon |
-| Nervous system disorders | Headache | Common |
-|  | Dizziness | Common |
+| Nervous system disorders | Headache | Very common |
+|  | Dizziness | Very common |
 |  | Progressive Multifocal Leukoencephalopathy (PML) | Uncommon |
 | Gastrointestinal disorders | Vomiting | Common |
-|  | Nausea | Common |
-| Musculoskeletal and connective tissue disorders | Arthralgia | Common |
+|  | Nausea | Very common |
+| Musculoskeletal and connective tissue disorders | Arthralgia | Very common |
 | General disorders and administration site conditions | Rigors | Common |
 |  | Pyrexia | Common |
-|  | Fatigue | Common |
+|  | Fatigue | Very common |
 
 Description of selected adverse reactions
 
@@ -59,7 +59,6 @@ Additional infusion-related reactions associated with persistent antibodies incl
 
 If, after approximately 6 months of therapy, persistent antibodies are suspected, either due to reduced efficacy or due to occurrence of infusion-related events, they may be detected and confirmed with a subsequent test 6 weeks after the first positive test.
 Given that efficacy may be reduced or the incidence of hypersensitivity or infusion-related reactions may be increased in a patient with persistent antibodies, treatment should be discontinued in patients who develop persistent antibodies.
-
 Infections, including PML and opportunistic infections
 
 In 2-year controlled clinical trials in MS patients, the rate of infection was approximately 1.5 per patient-year in both natalizumab- and placebo-treated patients.
@@ -105,13 +104,13 @@ During treatment with TYSABRI, small reductions in haemoglobin (mean decrease 0.
 All changes in haematological variables returned to pre-treatment values, usually within 16 weeks of last dose of the medicinal product and the changes were not associated with clinical symptoms.
 In post-marketing experience, there have also been reports of eosinophilia (eosinophil count >1,500/mm3) without clinical symptoms.
 In such cases where TYSABRI therapy was discontinued the elevated eosinophil levels resolved.
-
 Paediatric population
 
 Serious adverse events were evaluated in 621 MS paediatric patients included in a meta-analysis (see also Section 5.1).
 Within the limitations of these data, there were no new safety signals identified in this patient population.
 1 case of herpes meningitis was reported in the meta-analysis.
 No cases of PML were identified in the meta-analysis, however, PML has been reported in natalizumab treated paediatric patients in the post-marketing setting.
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

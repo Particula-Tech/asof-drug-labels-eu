@@ -11,9 +11,9 @@ There were 316 live births, 29 of which were reported to have birth defects.
 Sixteen of the 29 were classified as major defects.
 The rate of defects corresponds to the defect rates reported in other pregnancy registries involving MS patients.
 There is no evidence of a specific pattern of birth defects with TYSABRI.
-
 Cases from published literature reported transient mild to moderate thrombocytopenia and anaemia observed in infants born to women exposed to TYSABRI in their third trimester of pregnancy.
 Therefore, it is recommended that newborns of women exposed to the medicinal product during the third trimester of pregnancy are monitored for potential haematological abnormalities.
+
 If a woman becomes pregnant while taking TYSABRI, discontinuation of the medicinal product should be considered.
 A benefit-risk evaluation of the use of TYSABRI during pregnancy should take into account the patient’s clinical condition and the possible return of disease activity after stopping the medicinal product.
 

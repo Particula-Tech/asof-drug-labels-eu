@@ -42,8 +42,8 @@ Paediatric population
 The safety and efficacy of TYSABRI in children and adolescents up to 18 years have not been established.
 No recommendation on a posology can be made.
 Currently available data are described in sections 4.8 and 5.1
-Method of administration
 
+Method of administration
 TYSABRI is for intravenous use.
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.
