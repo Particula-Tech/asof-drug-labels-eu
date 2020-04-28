@@ -8,4 +8,4 @@ The effect of vedolizumab on the pharmacokinetics of commonly co-administered me
 
 Vaccinations
 
-Live vaccines, in particular live oral vaccines, should be used with caution concurrently with Entyvio (see section 4.4).
+Live vaccines, in particular live oral vaccines, should be used with caution concurrently with vedolizumab (see section 4.4).

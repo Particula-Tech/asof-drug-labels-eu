@@ -1,3 +1,3 @@
 # 4.7 Effects on ability to drive and use machines
 
-Entyvio has minor influence on the ability to drive and use machines, as dizziness has been reported in a small number of patients.
+Vedolizumab has minor influence on the ability to drive and use machines, as dizziness has been reported in a small number of patients.

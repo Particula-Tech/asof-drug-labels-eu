@@ -31,6 +31,23 @@ Administer the infusion solution over 30 minutes (see section 4.2).
 Once reconstituted, the infusion solution should be used as soon as possible.
 
 Do not store any unused portion of the reconstituted solution or infusion solution for reuse.
-Each vial is for single-use only.
+Each vial is for single use only.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+[Entyvio 108 mg solution for injection in pre-filled syringe]
+
+Instructions for administration
+
+After removing the pre-filled syringe or pre-filled pen from the refrigerator, wait 30 minutes before injecting to allow the solution to reach room temperature.
+
+Do not leave the pre-filled syringe or pre-filled pen in direct sunlight.
+
+Do not freeze.
+Do not use if it has been frozen.
+
+Inspect the solution visually for particulate matter and discoloration prior to administration.
+The solution should be colourless to yellow.
+Do not use pre-filled syringe or pre-filled pen with visible particulate matter or discoloration.
+
+Each pre-filled syringe or pre-filled pen is for single use only.

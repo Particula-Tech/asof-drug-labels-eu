@@ -4,6 +4,16 @@ Each vial contains 300 mg of vedolizumab.
 
 After reconstitution, each mL contains 60 mg of vedolizumab.
 
-Vedolizumab is a humanised IgG1 monoclonal antibody that binds to the human α4β7 integrin and is produced using recombinant DNA technology in Chinese hamster ovary (CHO) cells.
+Vedolizumab is a humanised IgG1 monoclonal antibody produced in Chinese hamster ovary (CHO) cells by recombinant DNA technology.
 
 For the full list of excipients, see section 6.1.
+
+[Entyvio 108 mg solution for injection in pre-filled syringe]
+
+Entyvio 108 mg solution for injection in pre-filled syringe
+
+Each pre-filled syringe contains 108 mg of vedolizumab in 0.68 mL.
+
+Entyvio 108 mg solution for injection in pre-filled pen
+
+Each pre-filled pen contains 108 mg of vedolizumab in 0.68 mL.

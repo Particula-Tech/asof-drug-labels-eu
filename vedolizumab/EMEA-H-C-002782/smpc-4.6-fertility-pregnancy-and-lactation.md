@@ -10,7 +10,7 @@ There are limited amount of data from the use of vedolizumab in pregnant women.
 
 Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
 
-As a precautionary measure, it is preferable to avoid the use of Entyvio during pregnancy unless the benefits clearly outweigh any potential risk to both the mother and foetus.
+As a precautionary measure, it is preferable to avoid the use of vedolizumab during pregnancy unless the benefits clearly outweigh any potential risk to both the mother and foetus.
 
 Breast-feeding
 
