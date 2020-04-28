@@ -7,6 +7,7 @@ Posology
 Plaque psoriasis
 The recommended dose is 300 mg of secukinumab by subcutaneous injection with initial dosing at weeks 0, 1, 2, 3 and 4, followed by monthly maintenance dosing.
 Each 300 mg dose is given as two subcutaneous injections of 150 mg.
+
 Psoriatic arthritis
 For patients with concomitant moderate to severe plaque psoriasis or who are anti-TNFα inadequate responders (IR), the recommended dose is 300 mg by subcutaneous injection with initial dosing at weeks 0, 1, 2, 3 and 4, followed by monthly maintenance dosing.
 Each 300 mg dose is given as two subcutaneous injections of 150 mg.
@@ -14,10 +15,14 @@ Each 300 mg dose is given as two subcutaneous injections of 150 mg.
 For other patients, the recommended dose is 150 mg by subcutaneous injection with initial dosing at weeks 0, 1, 2, 3 and 4, followed by monthly maintenance dosing.
 Based on clinical response, the dose can be increased to 300 mg.
 
-Ankylosing spondylitis
+Axial spondyloarthritis (axSpA)
+Ankylosing spondylitis (AS, radiographic axial spondyloarthritis)
 The recommended dose is 150 mg by subcutaneous injection with initial dosing at weeks 0, 1, 2, 3 and 4, followed by monthly maintenance dosing.
 Based on clinical response, the dose can be increased to 300 mg.
 Each 300 mg dose is given as two subcutaneous injections of 150 mg.
+
+Non-radiographic axial spondyloarthritis (nr-axSpA)
+The recommended dose is 150 mg by subcutaneous injection with initial dosing at weeks 0, 1, 2, 3 and 4, followed by monthly maintenance dosing.
 
 For all of the above indications, available data suggest that a clinical response is usually achieved within 16 weeks of treatment.
 Consideration should be given to discontinuing treatment in patients who have shown no response by 16 weeks of treatment.

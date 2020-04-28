@@ -4,4 +4,4 @@ Live vaccines should not be given concurrently with secukinumab (see also sectio
 
 In a study in subjects with plaque psoriasis, no interaction was observed between secukinumab and midazolam (CYP3A4 substrate).
 
-No interaction was seen when secukinumab was administered concomitantly with methotrexate (MTX) and/or corticosteroids in arthritis studies (including in patients with psoriatic arthritis and ankylosing spondylitis).
+No interaction was seen when secukinumab was administered concomitantly with methotrexate (MTX) and/or corticosteroids in arthritis studies (including in patients with psoriatic arthritis and axial spondyloarthritis).

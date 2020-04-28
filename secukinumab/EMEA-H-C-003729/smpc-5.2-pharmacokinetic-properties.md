@@ -12,11 +12,11 @@ After initial weekly dosing during the first month, time to reach the maximum co
 
 On the basis of simulated data, peak concentrations at steady-state (Cmax,ss) following subcutaneous administration of 150 mg or 300 mg were 27.6 µg/ml and 55.2 µg/ml, respectively.
 Population pharmacokinetic analysis suggests that steady-state is reached after 20 weeks with monthly dosing regimens.
-
 Compared with exposure after a single dose, the population pharmacokinetic analysis showed that patients exhibited a 2-fold increase in peak serum concentrations and area under the curve (AUC) following repeated monthly dosing during maintenance.
 
 Population pharmacokinetic analysis showed that secukinumab was absorbed with an average absolute bioavailability of 73% in patients with plaque psoriasis.
 Across studies, absolute bioavailabilities in the range between 60 and 77% were calculated.
+
 The bioavailability of secukinumab in PsA patients was 85% on the basis of the population pharmacokinetic model.
 
 Distribution

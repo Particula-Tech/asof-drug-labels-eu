@@ -3,6 +3,7 @@
 Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
 Infections
 
 Secukinumab has the potential to increase the risk of infections.
@@ -31,7 +32,6 @@ Hypersensitivity reactions
 
 In clinical studies, rare cases of anaphylactic reactions have been observed in patients receiving secukinumab.
 If an anaphylactic or other serious allergic reactions occur, administration of secukinumab should be discontinued immediately and appropriate therapy initiated.
-
 Vaccinations
 
 Live vaccines should not be given concurrently with secukinumab.

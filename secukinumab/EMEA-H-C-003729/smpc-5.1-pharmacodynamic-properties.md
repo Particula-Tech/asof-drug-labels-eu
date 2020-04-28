@@ -11,8 +11,10 @@ Clinically relevant levels of secukinumab reach the skin and reduce local inflam
 As a direct consequence treatment with secukinumab reduces erythema, induration and desquamation present in plaque psoriasis lesions.
 
 IL-17A is a naturally occurring cytokine that is involved in normal inflammatory and immune responses.
-IL-17A plays a key role in the pathogenesis of plaque psoriasis, psoriatic arthritis and ankylosing spondylitis and is up-regulated in lesional skin in contrast to non-lesional skin of plaque psoriasis patients and in synovial tissue of psoriatic arthritis patients.
+IL-17A plays a key role in the pathogenesis of plaque psoriasis, psoriatic arthritis and axial spondyloarthritis (ankylosing spondylitis and non-radiographic axial spondyloarthritis) and is up-regulated in lesional skin in contrast to non-lesional skin of plaque psoriasis patients and in synovial tissue of psoriatic arthritis patients.
 The frequency of IL-17-producing cells was also significantly higher in the subchondral bone marrow of facet joints from patients with ankylosing spondylitis.
+Increased numbers of IL-17A producing lymphocytes have also been found in patients with non-radiographic axial spondyloarthritis.
+Inhibition of IL-17A was shown to be effective in the treatment of ankylosing spondylitis, thus establishing the key role of this cytokine in axial spondyloarthritis.
 
 Pharmacodynamic effects
 
@@ -48,9 +50,9 @@ Patients were also randomised to receive placebo at weeks 0, 1, 2, 3 and 4, foll
 Psoriasis study 5 (SCULPTURE) evaluated 966 patients.
 All patients received secukinumab 150 mg or 300 mg doses at weeks 0, 1, 2, 3, 4, 8 and 12 and then were randomised to receive either a maintenance regimen of the same dose every month starting at week 12 or a “retreatment as needed” regimen of the same dose.
 Patients randomised to “retreatment as needed” did not achieve adequate maintenance of response and therefore a fixed monthly maintenance regimen is recommended.
+
 The co-primary endpoints in the placebo and active-controlled studies were the proportion of patients who achieved a PASI 75 response and IGA mod 2011 “clear” or “almost clear” response versus placebo at week 12 (see Tables 2 and 3).
 The 300 mg dose provided improved skin clearance particularly for “clear” or “almost clear” skin across the efficacy endpoints of PASI 90, PASI 100, and IGA mod 2011 0 or 1 response across all studies with peak effects seen at week 16, therefore this dose is recommended.
-
 Table 2 Summary of PASI 50/75/90/100 & IGA⃰ mod 2011 “clear” or “almost clear” clinical response in psoriasis studies 1, 3 and 4 (ERASURE, FEATURE and JUNCTURE)
 
 Week 12 Week 16 Week 52
@@ -251,9 +253,9 @@ PsA study 3 (FUTURE 5) evaluated 996 patients, of whom 50.1% had concomitant MTX
 Patients were randomised to receive secukinumab 150 mg, 300 mg or placebo subcutaneously at weeks 0, 1, 2, 3 and 4, followed by the same dose every month, or a once monthly injection of secukinumab 150 mg (without loading).
 Patients randomised to receive placebo who were non-responders at week 16 (early rescue) were then crossed over to receive secukinumab (either 150 mg or 300 mg subcutaneously) at week 16 followed by the same dose every month.
 Patients randomised to receive placebo who were responders at week 16 were crossed over to receive secukinumab (either 150 mg or 300 mg subcutaneously) at week 24 followed by the same dose every month.
+
 Signs and symptoms
 Treatment with secukinumab resulted in significant improvement in measures of disease activity compared to placebo at weeks 16 and 24 (see Table 5).
-
 Table 5 Clinical response in PsA study 2 and PsA study 3 at week 16 and week 24
 
 |  | PsA study 2 PsA study 3 |  |
@@ -303,9 +305,9 @@ Radiographic response
 In PsA study 3, inhibition of progression of structural damage was assessed radiographically and expressed by the modified Total Sharp Score (mTSS) and its components, the Erosion Score (ES) and the Joint Space Narrowing Score (JSN).
 Radiographs of hands, wrists, and feet were obtained at baseline, week 16 and/or week 24 and scored independently by at least two readers who were blinded to treatment group and visit number.
 Secukinumab 150 mg and 300 mg treatment significantly inhibited the rate of progression of peripheral joint damage compared with placebo treatment as measured by change from baseline in mTSS at week 24 (Table 6).
+
 Inhibition of progression of structural damage was also assessed in PsA study 1 at weeks 24 and 52, compared to baseline.
 Week 24 data are presented in Table 6.
-
 Table 6 Change in modified Total Sharp Score in psoriatic arthritis
 
 |  | PsA study 3 Placebo secukinumab secukinumab n=296 150 mg1 300 mg1 n=213 n=217 | PsA study 1 Placebo secukinumab n=179 150 mg2 n=185 |
@@ -332,7 +334,8 @@ Secukinumab-treated patients reported significant improvements in health-related
 There were also statistically significant improvements demonstrated in exploratory endpoints assessed by the Functional Assessment of Chronic Illness Therapy – Fatigue (FACIT-F) scores for 150 mg and 300 mg compared to placebo (7.97, 5.97 versus 1.63, respectively) and these improvements were maintained up to week 104 in PsA study 2.
 
 Similar responses were seen in PsA study 1 and efficacy was maintained up to week 52.
-Ankylosing spondylitis
+Axial spondyloarthritis (axSpA)
+Ankylosing spondylitis (AS) / Radiographic axial spondyloarthritis
 The safety and efficacy of secukinumab were assessed in 816 patients in three randomised, double-blind, placebo-controlled phase III studies in patients with active ankylosing spondylitis (AS) with a Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) ≥4 despite non-steroidal anti-inflammatory drug (NSAID), corticosteroid or disease-modifying anti-rheumatic drug (DMARD) therapy.
 Patients in Ankylosing Spondylitis study 1 (AS study 1) and Ankylosing Spondylitis study 2 (AS study 2) had a diagnosis of AS for a median of 2.7 to 5.8 years.
 For both studies, the primary endpoint was at least a 20% improvement in Assessment of Spondyloarthritis International Society (ASAS 20) criteria at week 16.
@@ -352,9 +355,9 @@ Patients randomised to secukinumab received 10 mg/kg intravenously at weeks 0, 2
 At week 16, patients who were randomised to placebo at baseline were re-randomised to receive secukinumab (either 150 mg or 300 mg subcutaneously) every month.
 The primary endpoint was ASAS 20 at week 16.
 Patients were blinded to the treatment regimen up to week 52, and the study continued to week 156.
-Signs and symptoms
-In AS study 2, treatment with secukinumab 150 mg resulted in greater improvement in measures of disease activity compared with placebo at week 16 (see Table 7).
 
+Signs and symptoms:
+In AS study 2, treatment with secukinumab 150 mg resulted in greater improvement in measures of disease activity compared with placebo at week 16 (see Table 7).
 Table 7 Clinical response in AS study 2 at week 16
 
 | Outcome (p-value versus placebo) | Placebo (n = 74) | 75 mg (n = 73) | 150 mg (n = 72) |
@@ -382,14 +385,71 @@ During the blinded period, the ASAS 20 and ASAS 40 responses were 69.7% and 47.6
 The ASAS 20 and ASAS 40 responses were maintained up to week 156 (69.5% and 47.6% for 150 mg versus 74.8% and 55.6% for 300 mg).
 Greater response rates favouring 300 mg were also observed for ASAS partial remission (ASAS PR) response at week 16 and were maintained up to week 156.
 Larger differences in response rates, favouring 300 mg over 150 mg, were observed in anti-TNFα-IR patients (n=36) compared to anti-TNFα-naïve patients (n=114).
-Spinal mobility
+
+Spinal mobility:
 Patients treated with secukinumab 150 mg showed improvements in spinal mobility as measured by change from baseline in BASMI at week 16 for both AS study 1 (-0.40 versus -0.12 for placebo; p=0.0114) and AS study 2 (-0.51 versus -0.22 for placebo; p=0.0533).
 These improvements were sustained up to week 52.
-
-Physical function and health-related quality of life
+Physical function and health-related quality of life:
 In AS study 1 and study 2, patients treated with secukinumab 150 mg showed improvements in health-related quality of life as measured by AS Quality of Life Questionnaire (ASQoL) (p=0.001) and SF-36 Physical Component Summary (SF-36PCS) (p<0.001).
 Patients treated with secukinumab 150 mg also showed statistically significant improvements on exploratory endpoints in physical function as assessed by the Bath Ankylosing Spondylitis Functional Index (BASFI) compared to placebo (-2.15 versus -0.68), and in fatigue as assessed by the Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-Fatigue) scale compared to placebo (8.10 versus 3.30).
 These improvements were sustained up to week 52.
+
+Non-radiographic axial spondyloarthritis (nr-axSpA)
+The safety and efficacy of secukinumab were assessed in 555 patients in one randomised, double-blind, placebo-controlled phase III study (PREVENT), consisting of a 2-year core phase and a 2-year extension phase, in patients with active non-radiographic axial spondyloarthritis (nr-axSpA) fulfilling the Assessment of Spondyloarthritis International Society (ASAS) classification criteria for axial spondyloarthritis (axSpA) with no radiographic evidence of changes in the sacroiliac joints that would meet the modified New York criteria for ankylosing spondylitis (AS).
+Patients enrolled had active disease, defined as a Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) ≥4, a Visual Analogue Scale (VAS) for total back pain of ≥40 (on a scale of 0-100 mm), despite current or previous non-steroidal anti-inflammatory drug (NSAID) therapy and increased C-reactive protein (CRP) and/or evidence of sacroiliitis on Magnetic Resonance Imaging (MRI).
+Patients in this study had a diagnosis of axSpA for a mean of 2.1 to 3.0 years and 54% of the study participants were female.
+
+In the PREVENT study, 9.7% of patients were previously treated with an anti-TNFα agent and discontinued the anti-TNFα agent for either lack of efficacy or intolerance (anti-TNFα-IR patients).
+
+In the PREVENT study, 9.9% and 14.8% of patients used concomitant MTX or sulfasalazine, respectively.
+In the double-blind period, patients received either placebo or secukinumab for 52 weeks.
+Patients randomised to secukinumab received 150 mg subcutaneously at weeks 0, 1, 2, 3 and 4 followed by the same dose every month, or a once monthly injection of secukinumab 150 mg.
+The primary endpoint was at least 40% improvement in Assessment of Spondyloarthritis International Society (ASAS 40) at Week 16 in anti-TNFα-naive patients.
+
+Signs and symptoms:
+In the PREVENT study, treatment with secukinumab 150 mg resulted in significant improvements in the measures of disease activity compared to placebo at week 16.
+These measures include ASAS 40, ASAS 5/6, BASDAI score, BASDAI 50, high-sensitivity CRP (hsCRP), ASAS 20 and ASAS partial remission response compared to placebo (Table 8).
+Responses were maintained up to week 52.
+Table 8 Clinical response in the PREVENT study at week 16
+
+| Outcome (p-value versus placebo) | Placebo | 150 mg1 |
+| --- | --- | --- |
+| Number of anti-TNFα-naive patients randomised | 171 | 164 |
+| ASAS 40 response, % | 29.2 | 41.5* |
+| Total number of patients randomised | 186 | 185 |
+| ASAS 40 response, % | 28.0 | 40.0* |
+| ASAS 5/6, % | 23.7 | 40.0* |
+| BASDAI, LS mean change from baseline score | -1.46 | -2.35* |
+| BASDAI 50, % | 21.0 | 37.3* |
+| hsCRP, (post-BSL/BSL ratio) | 0.91 | 0.64* |
+| ASAS 20 response, % | 45.7 | 56.8* |
+| ASAS partial remission, % | 7.0 | 21.6* |
+| *p<0.05 versus placebo All p-values adjusted for multiplicity of testing based on pre-defined hierarchy Non-responder imputation used for missing binary endpoint 1secukinumab 150 mg s.c. at weeks 0, 1, 2, 3, and 4 followed by the same dose every month ASAS: Assessment of SpondyloArthritis International Society Criteria; BASDAI: Bath Ankylosing Spondylitis Disease Activity Index; hsCRP: high-sensitivity C-reactive protein; BSL: baseline; LS: Least square |  |  |
+
+The onset of action of secukinumab 150 mg occurred as early as week 3 for ASAS 40 in anti-TNFα naive patients (superior to placebo) in the PREVENT study.
+The percentage of patients achieving an ASAS 40 response in anti-TNFα naive patients by visit is shown in Figure 3.
+
+Figure 3 ASAS 40 responses in anti-TNFα naive patients in the PREVENT study over time up to week 16
+
+Percentage of responders
+
+Time (Weeks)
+Secukinumab 150 mg Load Placebo
+
+ASAS 40 responses were also improved at week 16 in anti-TNFα-IR patients for secukinumab 150 mg compared with placebo.
+Physical function and health-related quality of life:
+Patients treated with secukinumab 150 mg showed statistically significant improvements by week 16 compared to placebo-treated patients in physical function as assessed by the BASFI (week 16: -1.75 versus -1.01, p<0.05).
+Patients treated with secukinumab reported significant improvements compared to placebo-treated patients by week 16 in health-related quality of life as measured by ASQoL (LS mean change: week 16: -3.45 versus -1.84, p<0.05) and SF-36 Physical Component Summary (SF-36 PCS) (LS mean change: week 16: 5.71 versus 2.93, p<0.05).
+These improvements were sustained up to week 52.
+
+Spinal mobility:
+Spinal mobility was assessed by BASMI up to week 16.
+Numerically greater improvements were demonstrated in patients treated with secukinumab compared with placebo-treated patients at weeks 4, 8, 12 and 16.
+
+Inhibition of inflammation in magnetic resonance imaging (MRI):
+Signs of inflammation were assessed by MRI at baseline and week 16 and expressed as change from baseline in Berlin SI-joint oedema score for sacroiliac joints and ASspiMRI-a score and Berlin spine score for the spine.
+Inhibition of inflammatory signs in both sacroiliac joints and the spine was observed in patients treated with secukinumab.
+Mean change from baseline in Berlin SI-joint oedema score was -1.68 for patients treated with secukinumab 150 mg (n=180) versus -0.39 for the placebo-treated patients (n=174) (p<0.05).
 
 Paediatric population
 
