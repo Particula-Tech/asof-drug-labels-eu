@@ -49,7 +49,6 @@ Mean steady-state trough levels of approximately 7 μg/ml were observed in Crohn
 In adult patients with uveitis, a loading dose of 80 mg adalimumab on Week 0 followed by 40 mg adalimumab every other week starting at Week 1, resulted in mean steady-state concentrations of approximately 8 to 10 μg/mL.
 
 Population pharmacokinetic and pharmacokinetic/pharmacodynamic modelling and simulation predicted comparable adalimumab exposure and efficacy in patients treated with 80 mg every other week when compared with 40 mg every week (including adult patients with RA, HS, UC, CD or Ps, patients with adolescent HS, and paediatric patients ≥40 kg with CD).
-
 Elimination
 
 Population pharmacokinetic analyses with data from over 1,300 RA patients revealed a trend toward higher apparent clearance of adalimumab with increasing body weight.
@@ -63,10 +62,6 @@ Humira has not been studied in patients with hepatic or renal impairment.
 [Humira 40 mg/0.8 ml solution for injection]
 
 In patients with polyarticular JIA who were 2 to <4 years old or aged 4 and above weighing <15 kg dosed with adalimumab 24 mg/m2, the mean trough steady-state serum adalimumab concentrations was 6.0 ± 6.1 µg/ml (101% CV) for adalimumab without concomitant methotrexate and 7.9 ± 5.6 µg/ml (71.2% CV) with concomitant methotrexate.
-
-Following the administration of 24 mg/m2 (up to a maximum of 40 mg) subcutaneously every other week
-
-to patients with enthesitis-related arthritis who were 6 to 17 years, the mean trough steady-state (values measured at Week 24) serum adalimumab concentrations were 8.8 ± 6.6 μg/ml for adalimumab without concomitant methotrexate and 11.8 ± 4.3 μg/ml with concomitant methotrexate.
 
 Adalimumab exposure in adolescent HS patients was predicted using population pharmacokinetic modelling and simulation based on cross-indication pharmacokinetics in other paediatric patients (paediatric psoriasis, juvenile idiopathic arthritis, paediatric Crohn’s disease, and enthesitis-related arthritis).
 The recommended adolescent HS dosing schedule is 40 mg every other week.

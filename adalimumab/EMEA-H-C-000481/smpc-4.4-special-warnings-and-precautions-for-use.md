@@ -85,7 +85,7 @@ If an anaphylactic reaction or other serious allergic reaction occurs, administr
 
 Immunosuppression
 
-In a study of 64 patients with rheumatoid arthritis that were treated with Humira, there was no evidence of depression of delayed-type hypersensitivity, depression of immunoglobulin levels, or change in enumeration of effector T-, B, - NK-cells, monocyte/macrophages, and neutrophils.
+In a study of 64 patients with rheumatoid arthritis that were treated with Humira, there was no evidence of depression of delayed-type hypersensitivity, depression of immunoglobulin levels, or change in enumeration of effector T-, B-, NK-cells, monocyte/macrophages, and neutrophils.
 
 Malignancies and lymphoproliferative disorders
 

@@ -50,7 +50,7 @@ Humira is indicated for the treatment of adults with severe active ankylosing sp
 
 Axial spondyloarthritis without radiographic evidence of AS
 
-Humira is indicated for the treatment of adults with severe axial spondyloarthritis without radiographic evidence of AS but with objective signs of inflammation by elevated CRP and / or MRI, who have had an inadequate response to, or are intolerant to nonsteroidal anti-inflammatory drugs.
+Humira is indicated for the treatment of adults with severe axial spondyloarthritis without radiographic evidence of AS but with objective signs of inflammation by elevated CRP and / or MRI, who have had an inadequate response to, or are intolerant to non-steroidal anti-inflammatory drugs (NSAIDs).
 
 Psoriatic arthritis
 
