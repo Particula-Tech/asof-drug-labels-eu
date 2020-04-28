@@ -27,7 +27,7 @@ Very common: pyrexia
 Investigations:
 Common: lung function test decreased1
 
-1 See section c. Description of selected adverse reactions
+1 See section Description of selected adverse reactions
 
 Description of selected adverse reactions
 

@@ -1,6 +1,6 @@
 # 6.5 Nature and contents of container
 
-Powder vial: Type I amber glass vial with siliconised grey rubber stopper and aluminium tear off overseal with or without a blue cap.
+Powder vial: Type I amber glass vial with siliconised grey rubber stopper and aluminium tear off overseal with a blue cap.
 
 Solvent: 1 ml low density polyethylene ampoule.
 

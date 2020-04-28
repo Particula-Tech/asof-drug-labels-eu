@@ -7,7 +7,7 @@ Following reconstitution, Cayston is a clear, colourless to slightly coloured so
 
 It is recommended that Cayston be administered immediately after reconstitution with solvent.
 Cayston should not be reconstituted until a dose is ready to be administered.
-One glass vial containing Cayston is opened by tearing and flipping up the blue cap or lifting up the metal flap, the metal ring is removed by carefully pulling the flap (tweezers or small pliers may be used to remove the metal ring if necessary) and the grey rubber stopper removed.
+One glass vial containing Cayston is opened by carefully removing the blue cap and the metal ring, and then the grey rubber stopper.
 The liquid is squeezed out of one solvent ampoule into the glass vial.
 The vial is then gently swirled until contents have completely dissolved.
 The reconstituted Cayston is then poured into the Altera Nebuliser Handset and the dose administered.
