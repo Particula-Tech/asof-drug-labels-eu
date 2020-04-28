@@ -9,11 +9,11 @@ ABILIFY is indicated for the treatment up to 12 weeks of moderate to severe mani
 
 (all sentences already above)
 
-[ABILIFY 1 mg/ml oral solution]
+[ABILIFY 1 mg/mL oral solution]
 
 (all sentences already above)
 
-[ABILIFY 7.5 mg/ml solution for injection]
+[ABILIFY 7.5 mg/mL solution for injection]
 
 ABILIFY solution for injection is indicated for the rapid control of agitation and disturbed behaviours in adult patients with schizophrenia or with manic episodes in Bipolar I Disorder, when oral therapy is not appropriate.
 

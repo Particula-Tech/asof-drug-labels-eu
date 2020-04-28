@@ -6,11 +6,11 @@
 
 (all sentences already above)
 
-[ABILIFY 1 mg/ml oral solution]
+[ABILIFY 1 mg/mL oral solution]
 
 After first opening: 6 months.
 
-[ABILIFY 7.5 mg/ml solution for injection]
+[ABILIFY 7.5 mg/mL solution for injection]
 
 18 months
 After opening: use product immediately.

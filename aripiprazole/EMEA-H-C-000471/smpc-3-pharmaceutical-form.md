@@ -27,12 +27,12 @@ ABILIFY 15 mg orodispersible tablets
 ABILIFY 30 mg orodispersible tablets
 30 mg: Round and pink, marked with "A" over "643" on one side and "30" on the other.
 
-[ABILIFY 1 mg/ml oral solution]
+[ABILIFY 1 mg/mL oral solution]
 
 Oral solution
 Clear, colourless to light yellow liquid solution.
 
-[ABILIFY 7.5 mg/ml solution for injection]
+[ABILIFY 7.5 mg/mL solution for injection]
 
 Solution for injection
 

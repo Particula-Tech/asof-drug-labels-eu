@@ -47,12 +47,12 @@ Therefore, aripiprazole should be used with caution in patients who have a histo
 Elderly patients with dementia-related psychosis
 
 Increased mortality
-In three placebo-controlled trials (n = 938; mean age: 82.4 years; range: 56-99 years) of aripiprazole in elderly patients with psychosis associated with Alzheimer's disease, patients treated with aripiprazole were at increased risk of death compared to placebo.
+In three placebo-controlled trials (n = 938; mean age: 82.4 years; range: 56 to 99 years) of aripiprazole in elderly patients with psychosis associated with Alzheimer's disease, patients treated with aripiprazole were at increased risk of death compared to placebo.
 The rate of death in aripiprazole-treated patients was 3.5 % compared to 1.7 % in the placebo group.
 Although the causes of deaths were varied, most of the deaths appeared to be either cardiovascular (e.g. heart failure, sudden death) or infectious (e.g. pneumonia) in nature (see section 4.8).
 
 Cerebrovascular adverse reactions
-In the same trials, cerebrovascular adverse reactions (e.g. stroke, transient ischaemic attack), including fatalities, were reported in patients (mean age: 84 years; range: 78-88 years).
+In the same trials, cerebrovascular adverse reactions (e.g. stroke, transient ischaemic attack), including fatalities, were reported in patients (mean age: 84 years; range: 78 to 88 years).
 Overall, 1.3 % of aripiprazole-treated patients reported cerebrovascular adverse reactions compared with 0.6 % of placebo-treated patients in these trials.
 This difference was not statistically significant.
 However, in one of these trials, a fixed-dose trial, there was a significant dose response relationship for cerebrovascular adverse reactions in patients treated with aripiprazole (see section 4.8).
@@ -94,12 +94,13 @@ It is important for prescribers to ask patients or their caregivers specifically
 It should be noted that impulse-control symptoms can be associated with the underlying disorder; however, in some cases, urges were reported to have stopped when the dose was reduced or the medication was discontinued.
 Impulse control disorders may result in harm to the patient and others if not recognised.
 Consider dose reduction or stopping the medication if a patient develops such urges while taking aripiprazole (see section 4.8).
+
 Lactose
 
 ABILIFY tablets contain lactose.
-Patients with rare hereditary problems of galactose intolerance, the lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
-Patients with ADHD comorbidity
+Patients with attention deficit hyperactivity disorder (ADHD) comorbidity
 
 Despite the high comorbidity frequency of Bipolar I Disorder and ADHD, very limited safety data are available on concomitant use of aripiprazole and stimulants; therefore, extreme caution should be taken when these medicinal products are co-administered.
 
@@ -110,22 +111,37 @@ Caution should be taken when treating patients at higher risk, and a lower start
 
 [ABILIFY 10 mg orodispersible tablets]
 
-Phenylketonurics
+Aspartame
 
-ABILIFY orodispersible tablets contain aspartame, a source of phenylalanine which may be harmful for people with phenylketonuria.
+ABILIFY orodispersible tablets contain aspartame.
+Aspartame is a source of phenylalanine.
+It may be harmful for people with phenylketonuria (PKU), a rare genetic disorder in which phenylalanine builds up because the body cannot remove it properly.
 
 ABILIFY orodispersible tablets contain lactose.
 
-[ABILIFY 1 mg/ml oral solution]
+Sodium
 
-Intolerance
+ABILIFY orodispersible tablets contain sodium.
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
+
+[ABILIFY 1 mg/mL oral solution]
+
+Fructose and sucrose
 
 The oral solution contains fructose and sucrose.
-Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take the oral solution.
+Fructose may damage teeth.
+Sucrose may be harmful to the teeth.
+Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicinal product.
 
-The oral solution contains methyl parahydroxybenzoate and propyl parahydroxybenzoate which may cause allergic reactions (possibly delayed).
+Parahydroxybenzoate
 
-[ABILIFY 7.5 mg/ml solution for injection]
+The oral solution contains methyl parahydroxybenzoate and propyl parahydroxybenzoate.
+May cause allergic reactions (possibly delayed).
+
+The oral solution contains sodium.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially ‘sodium-free’.
+
+[ABILIFY 7.5 mg/mL solution for injection]
 
 The efficacy of ABILIFY solution for injection in patients with agitation and disturbed behaviours has not been established related to conditions other than schizophrenia and manic episodes in Bipolar I Disorder.
 
@@ -142,3 +158,5 @@ Since patients treated with antipsychotics often present with acquired risk fact
 In clinical trials of treatment with oral aripiprazole, the incidence of QT prolongation was comparable to placebo.
 
 Weight gain has been reported post-marketing among patients prescribed oral aripiprazole.
+
+ABILIFY solution for injection contains sodium.

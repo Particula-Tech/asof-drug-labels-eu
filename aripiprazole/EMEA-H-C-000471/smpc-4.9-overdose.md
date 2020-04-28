@@ -24,11 +24,11 @@ Although there is no information on the effect of haemodialysis in treating an o
 
 (all sentences already above)
 
-[ABILIFY 1 mg/ml oral solution]
+[ABILIFY 1 mg/mL oral solution]
 
 (all sentences already above)
 
-[ABILIFY 7.5 mg/ml solution for injection]
+[ABILIFY 7.5 mg/mL solution for injection]
 
 No cases of overdose associated with adverse reactions were reported in clinical studies with ABILIFY solution for injection.
 Care must be taken to avoid inadvertent injection of this medicinal product into a blood vessel.

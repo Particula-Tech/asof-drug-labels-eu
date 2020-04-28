@@ -40,24 +40,25 @@ When either valproate or lithium was administered concomitantly with aripiprazol
 
 Potential for aripiprazole to affect other medicinal products
 
-In clinical studies, 10-30 mg/day doses of aripiprazole had no significant effect on the metabolism of substrates of CYP2D6 (dextromethorphan/3-methoxymorphinan ratio), CYP2C9 (warfarin), CYP2C19 (omeprazole), and CYP3A4 (dextromethorphan).
+In clinical studies, 10 mg/day to 30 mg/day doses of aripiprazole had no significant effect on the metabolism of substrates of CYP2D6 (dextromethorphan/3-methoxymorphinan ratio),
+CYP2C9 (warfarin), CYP2C19 (omeprazole), and CYP3A4 (dextromethorphan).
 Additionally, aripiprazole and dehydro-aripiprazole did not show potential for altering CYP1A2-mediated metabolism in vitro.
 Thus, aripiprazole is unlikely to cause clinically important medicinal product interactions mediated by these enzymes.
 
 When aripiprazole was administered concomitantly with either valproate, lithium or lamotrigine, there was no clinically important change in valproate, lithium or lamotrigine concentrations.
 
 Serotonin syndrome
-Cases of serotonin syndrome have been reported in patients taking aripiprazole, and possible signs and symptoms for this condition can occur especially in cases of concomitant use with other serotonergic medicinal products, such as SSRI/SNRI, or with medicinal products that are known to increase aripiprazole concentrations (see section 4.8).
+Cases of serotonin syndrome have been reported in patients taking aripiprazole, and possible signs and symptoms for this condition can occur especially in cases of concomitant use with other serotonergic medicinal products, such as selective serotonin reuptake inhibitor/selective serotonin noradrenaline reuptake inhibitor (SSRI/SNRI), or with medicinal products that are known to increase aripiprazole concentrations (see section 4.8).
 
 [ABILIFY 10 mg orodispersible tablets]
 
 (all sentences already above)
 
-[ABILIFY 1 mg/ml oral solution]
+[ABILIFY 1 mg/mL oral solution]
 
 (all sentences already above)
 
-[ABILIFY 7.5 mg/ml solution for injection]
+[ABILIFY 7.5 mg/mL solution for injection]
 
 No specific interaction studies have been performed with ABILIFY solution for injection.
 The information below is obtained from studies with oral aripiprazole.
@@ -74,5 +75,4 @@ In a clinical trial of oral aripiprazole in healthy subjects, a strong inhibitor
 The administration of ABILIFY solution for injection had no effect on the pharmacokinetics of lorazepam solution for injection when administered concomitantly.
 However, in a single-dose, intramuscular study of aripiprazole (dose 15 mg) in healthy subjects, administered simultaneously with intramuscular lorazepam (dose 2 mg), the orthostatic hypotension observed was greater with the combination as compared to that observed with lorazepam alone.
 
-In clinical studies, oral doses of 10-30 mg/day of aripiprazole had no significant effect on the metabolism of substrates of CYP2D6 (dextromethorphan/3-methoxymorphinan ratio),
-CYP2C9 (warfarin), CYP2C19 (omeprazole), and CYP3A4 (dextromethorphan).
+In clinical studies, oral doses of 10 mg/day to 30 mg/day of aripiprazole had no significant effect on the metabolism of substrates of CYP2D6 (dextromethorphan/3-methoxymorphinan ratio),

@@ -6,10 +6,10 @@ Not applicable.
 
 (all sentences already above)
 
-[ABILIFY 1 mg/ml oral solution]
+[ABILIFY 1 mg/mL oral solution]
 
 The oral solution should not be diluted with other liquids or mixed with any food prior to administration.
 
-[ABILIFY 7.5 mg/ml solution for injection]
+[ABILIFY 7.5 mg/mL solution for injection]
 
 (all sentences already above)

@@ -2,14 +2,14 @@
 
 Absorption
 
-Aripiprazole is well absorbed, with peak plasma concentrations occurring within 3-5 hours after dosing.
+Aripiprazole is well absorbed, with peak plasma concentrations occurring within 3 to 5 hours after dosing.
 Aripiprazole undergoes minimal pre-systemic metabolism.
 The absolute oral bioavailability of the tablet formulation is 87 %.
 There is no effect of a high fat meal on the pharmacokinetics of aripiprazole.
 
 Distribution
 
-Aripiprazole is widely distributed throughout the body with an apparent volume of distribution of 4.9 l/kg, indicating extensive extravascular distribution.
+Aripiprazole is widely distributed throughout the body with an apparent volume of distribution of 4.9 L/kg, indicating extensive extravascular distribution.
 At therapeutic concentrations, aripiprazole and dehydro-aripiprazole are greater than 99 % bound to serum proteins, binding primarily to albumin.
 
 Biotransformation
@@ -23,7 +23,7 @@ Elimination
 
 The mean elimination half-lives for aripiprazole are approximately 75 hours in extensive metabolisers of CYP2D6 and approximately 146 hours in poor metabolisers of CYP2D6.
 
-The total body clearance of aripiprazole is 0.7 ml/min/kg, which is primarily hepatic.
+The total body clearance of aripiprazole is 0.7 mL/min/kg, which is primarily hepatic.
 
 Following a single oral dose of [14C]-labelled aripiprazole, approximately 27 % of the administered radioactivity was recovered in the urine and approximately 60 % in the faeces.
 Less than 1 % of unchanged aripiprazole was excreted in the urine and approximately 18 % was recovered unchanged in the faeces.
@@ -31,7 +31,6 @@ Less than 1 % of unchanged aripiprazole was excreted in the urine and approximat
 Paediatric population
 
 The pharmacokinetics of aripiprazole and dehydro-aripiprazole in paediatric patients 10 to 17 years of age were similar to those in adults after correcting for the differences in body weights.
-
 Pharmacokinetics in special patient groups
 
 Elderly
@@ -56,7 +55,7 @@ A single-dose study in subjects with varying degrees of liver cirrhosis (Child-P
 
 (all sentences already above)
 
-[ABILIFY 1 mg/ml oral solution]
+[ABILIFY 1 mg/mL oral solution]
 
 Oral Solution
 Aripiprazole is well absorbed when administered orally as the solution.
@@ -64,12 +63,12 @@ At equivalent doses, the peak plasma concentrations of aripiprazole (Cmax) from 
 In a relative bioavailability study comparing the pharmacokinetics of 30 mg aripiprazole as the oral solution to 30 mg aripiprazole tablets in healthy subjects, the solution to the tablet ratio of geometric mean Cmax values was 122 % (n = 30).
 The single-dose pharmacokinetics of aripiprazole was linear and dose-proportional.
 
-[ABILIFY 7.5 mg/ml solution for injection]
+[ABILIFY 7.5 mg/mL solution for injection]
 
 Aripiprazole administered intramuscularly as a single-dose to healthy subjects is well absorbed and has an absolute bioavailability of 100 %.
 The aripiprazole AUC in the first 2 hours after an intramuscular injection was 90 % greater than the AUC after the same dose as a tablet; systemic exposure was generally similar between the 2 formulations.
 In 2 studies in healthy subjects the median times to the peak plasma concentrations were 1 and 3 hours after dosing.
 
-Based on results from trials with oral administration of aripiprazole, aripiprazole is widely distributed throughout the body with an apparent volume of distribution of 4.9 l/kg, indicating extensive extravascular distribution.
+Based on results from trials with oral administration of aripiprazole, aripiprazole is widely distributed throughout the body with an apparent volume of distribution of 4.9 L/kg, indicating extensive extravascular distribution.
 
 Population pharmacokinetic evaluation of oral aripiprazole has revealed no evidence of clinically relevant effects from smoking on the pharmacokinetics of aripiprazole.

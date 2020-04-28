@@ -40,7 +40,7 @@ ABILIFY 15 mg orodispersible tablets
 
 ABILIFY 30 mg orodispersible tablets
 
-[ABILIFY 1 mg/ml oral solution]
+[ABILIFY 1 mg/mL oral solution]
 
 Disodium edetate
 Fructose
@@ -51,9 +51,10 @@ Propylene glycol
 Propyl parahydroxybenzoate (E 216)
 Sodium hydroxide
 Sucrose
-Purified water orange flavour
+Purified water
+Orange flavour
 
-[ABILIFY 7.5 mg/ml solution for injection]
+[ABILIFY 7.5 mg/mL solution for injection]
 
 Sulfobutylether β-cyclodextrin (SBECD)
 Water for injections
