@@ -22,7 +22,12 @@ Adverse reaction frequencies: Very common (≥1/10), Common (≥1/100 to <1/10),
 
 Description of selected adverse reactions
 The most serious adverse reaction reported in clinical trials with deferiprone is agranulocytosis (neutrophils <0.5x109/l), with an incidence of 1.1% (0.6 cases per 100 patient-years of treatment) (see section 4.4).
-The observed incidence of the less severe form of neutropenia (neutrophils <1.5x109/l) is 4.9% (2.5 cases per 100 patient-years).
+Data from pooled clinical studies in patients with systemic iron overload show that 63% of the episodes of agranulocytosis occurred within the first six months of treatment, 74% within the first year and 26% after one year of therapy.
+The median time to onset of the first episode of agranulocytosis was 190 days (ranged 22 days- 17.6 years) and median duration was 10 days in clinical trials.
+A fatal outcome was observed in 8.3% of the reported episodes of agranulocytosis from clinical trials and post-marketing experience.
+
+The observed incidence of the less severe form of neutropenia (neutrophils <1.5x109/l) is 4.9%
+(2.5 cases per 100 patient-years).
 This rate should be considered in the context of the underlying elevated incidence of neutropenia in thalassaemia patients, particularly in those with hypersplenism.
 
 Episodes of diarrhoea, mostly mild and transient, have been reported in patients treated with deferiprone.
@@ -38,7 +43,6 @@ Some patients experienced progression of fibrosis associated with an increase in
 
 Low plasma zinc levels have been associated with deferiprone in a minority of patients.
 The levels normalised with oral zinc supplementation.
-
 Neurological disorders (such as cerebellar symptoms, diplopia, lateral nystagmus, psychomotor slowdown, hand movements and axial hypotonia) have been observed in children who had been voluntarily prescribed more than 2.5 times the maximum recommended dose of 100 mg/kg/day for several years.
 Episodes of hypotonia, instability, inability to walk, and hypertonia with inability of limb movement, have been reported in children in the post-marketing setting with standard doses of deferiprone.
 The neurological disorders progressively regressed after deferiprone discontinuation (see sections 4.4 and 4.9).

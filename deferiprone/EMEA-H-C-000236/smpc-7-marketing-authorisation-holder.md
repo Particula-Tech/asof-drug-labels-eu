@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Apotex B.V.
-Keizersgracht 311
-1016 EE Amsterdam
-Netherlands
+Chiesi Farmaceutici S.p.A.
+Via Palermo 26/A
+43122 Parma
+Italy

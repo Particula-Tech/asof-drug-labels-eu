@@ -28,7 +28,6 @@ No significant effect of renal impairment was seen on systemic exposure to defer
 Systemic exposure to the inactive 3-O-glucuronide increased with decreasing eGFR.
 Based on the results of this study, no adjustment of the Ferriprox dosage regimen is required in patients with impaired renal function.
 The safety and pharmacokinetics of Ferriprox in patients with end stage renal disease is unknown.
-
 Hepatic impairment
 An open-label, non-randomized, parallel group clinical study was conducted to evaluate the effect of impaired hepatic function on the safety, tolerability, and pharmacokinetics of a single 33 mg/kg oral dose of Ferriprox.
 Subjects were categorized into 3 groups based on the Child-Pugh classification score: healthy volunteers, mild hepatic impairment (Class A: 5– 6 points), and moderate hepatic impairment (Class B: 7– 9 points).

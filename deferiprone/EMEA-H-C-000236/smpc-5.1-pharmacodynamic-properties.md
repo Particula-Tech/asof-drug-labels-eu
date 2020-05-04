@@ -3,8 +3,7 @@
 Pharmacotherapeutic group: Iron chelating agents, ATC code: V03AC02
 
 Mechanism of action
-The active substance is deferiprone (3-hydroxy-1,2-dimethylpyridin-4-one), a bidentate ligand which binds to iron in a 3:1 molar ratio.
-
+The active substance is deferiprone (3-hydroxy-1,2-dimethylpyridin-4-one), a bidentate ligand which binds iron in a 3:1 molar ratio.
 Pharmacodynamic effects
 Clinical studies have demonstrated that Ferriprox is effective in promoting iron excretion and that a dose of 25 mg/kg three times per day can prevent the progression of iron accumulation as assessed by serum ferritin, in patients with transfusion-dependent thalassaemia.
 Data from the published literature on iron balance studies in patients with thalassaemia major show that the use of Ferriprox concurrently with deferoxamine (coadministration of both chelators during the same day, either simultaneously or sequentially, e.g., Ferriprox during the day and deferoxamine during the night), promotes greater iron excretion than either drug alone.
