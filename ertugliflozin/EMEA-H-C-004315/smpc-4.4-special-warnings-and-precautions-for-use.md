@@ -27,7 +27,9 @@ Patients should be assessed for ketoacidosis immediately if these symptoms occur
 In patients where DKA is suspected or diagnosed, treatment with ertugliflozin should be discontinued immediately.
 
 Treatment should be interrupted in patients who are hospitalised for major surgical procedures or acute serious medical illnesses.
-In both cases, treatment with ertugliflozin may be restarted once the patient’s condition has stabilised.
+Monitoring of ketones is recommended in these patients.
+Measurement of blood ketone levels is preferred to urine.
+Treatment with ertugliflozin may be restarted when the ketone values are normal and the patient’s condition has stabilised.
 
 Before initiating ertugliflozin, factors in the patient history that may predispose to ketoacidosis should be considered.
 
@@ -74,10 +76,19 @@ The incidence of urinary tract infections was not notably different in the ertug
 Most of the events were mild or moderate and no serious case was reported.
 Temporary interruption of ertugliflozin should be considered when treating pyelonephritis or urosepsis.
 
+Necrotising fasciitis of the perineum (Fournier’s gangrene)
+Post-marketing cases of necrotising fasciitis of the perineum, (also known as Fournier’s gangrene), have been reported in female and male patients taking SGLT2 inhibitors.
+This is a rare but serious and potentially life-threatening event that requires urgent surgical intervention and antibiotic treatment.
+
+Patients should be advised to seek medical attention if they experience a combination of symptoms of pain, tenderness, erythema, or swelling in the genital or perineal area, with fever or malaise.
+Be aware that either uro-genital infection or perineal abscess may precede necrotising fasciitis.
+If Fournier’s gangrene is suspected, Steglatro should be discontinued and prompt treatment (including antibiotics and surgical debridement) should be instituted.
+
 Elderly patients
 Elderly patients may be at an increased risk of volume depletion.
 Patients 65 years and older treated with ertugliflozin had a higher incidence of adverse reactions related to volume depletion compared to younger patients.
 Ertugliflozin is expected to have diminished efficacy in elderly patients with renal impairment (see sections 4.2 and 4.8).
+
 Cardiac failure
 Experience in New York Heart Association (NYHA) class I-II is limited, and there is no experience in clinical studies with ertugliflozin in NYHA class III-IV.
 
