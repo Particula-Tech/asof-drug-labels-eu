@@ -1,4 +1,5 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 AstraZeneca AB
-SE-151 85 Södertälje Sweden
+SE-151 85 Södertälje
+Sweden

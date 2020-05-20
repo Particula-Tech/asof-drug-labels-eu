@@ -3,6 +3,7 @@
 Pharmacotherapeutic group: Drugs for obstructive airway diseases, other systemic drugs for obstructive airway diseases, ATC code: R03DX07
 
 Mechanism of action
+
 Roflumilast is a PDE4 inhibitor, a non-steroid, anti-inflammatory active substance designed to target both the systemic and pulmonary inflammation associated with COPD.
 The mechanism of action is the inhibition of PDE4, a major cyclic adenosine monophosphate (cAMP)-metabolizing enzyme found in structural and inflammatory cells important to the pathogenesis of COPD.
 Roflumilast targets the PDE4A, 4B and 4D splicing variants with similar potency in the nanomolar range.
@@ -10,12 +11,15 @@ The affinity to the PDE4C splicing variants is 5 to 10-fold lower.
 This mechanism of action and the selectivity also apply to roflumilast N-oxide, which is the major active metabolite of roflumilast.
 
 Pharmacodynamic effects
+
 Inhibition of PDE4 leads to elevated intracellular cAMP levels and mitigates COPD-related malfunctions of leukocytes, airway and pulmonary vascular smooth muscle cells, endothelial and airway epithelial cells and fibroblasts in experimental models.
 Upon in vitro stimulation of human neutrophils, monocytes, macrophages or lymphocytes, roflumilast and roflumilast N-oxide suppress the release of inflammatory mediators e.g. leukotriene B4, reactive oxygen species, tumour necrosis factor α, interferon γ and granzyme B.
 
 In patients with COPD, roflumilast reduced sputum neutrophils.
 Furthermore, roflumilast attenuated influx of neutrophils and eosinophils into the airways of endotoxin challenged healthy volunteers.
+
 Clinical efficacy and safety
+
 In two confirmative replicate one-year studies (M2-124 and M2-125) and two supplementary six-month studies (M2-127 and M2-128), a total number of 4,768 patients were randomised and treated, of whom 2,374 were treated with roflumilast.
 The design of the studies was parallel-group, double-blind and placebo-controlled.
 
@@ -49,7 +53,7 @@ Both studies included moderate to severe patients with a non-reversible airway o
 Roflumilast or placebo treatment was added to continuous treatment with a long-acting bronchodilator, in particular salmeterol in Study M2-127 or tiotropium in Study M2-128.
 In the two six-month studies, pre-bronchodilator FEV1 was significantly improved by 49 ml (primary endpoint, p<0.0001) beyond the bronchodilator effect of concomitant treatment with salmeterol in Study M2-127 and by 80 ml (primary endpoint, p<0.0001) incremental to concomitant treatment with tiotropium in Study M2-128.
 
-Study RO-2455-404-RD was a one year study in COPD patients with a baseline (pre-bronchodilator)
+Study RO-2455-404-RD was a one-year study in COPD patients with a baseline (pre-bronchodilator)
 FEV1 <50% of predicted normal and a history of frequent exacerbations. The study assessed the effect
 of roflumilast on COPD exacerbation rate in patients treated with fixed combinations of LABA and
 inhaled corticosteroids, compared to placebo. A total of 1935 patients were randomised to double-
@@ -61,9 +65,9 @@ in FEV1 were evaluated as key secondary endpoints.
 Table 2.
 Summary of COPD exacerbation endpoints in Study RO-2455-404-RD
 
-Roflumilast Placebo Ratio Roflumilast/Placebo
-Exacerbation Analysis (N=969) (N=966) Rate Change 2-Sided
-Category model Rate (n) Rate (n) Ratio (%) 95% CI p-value
+Roflumilast Placebo Ratio Roflumilast/Placebo 2-Sided
+Exacerbation Analysis (N=969) (N=966) Rate Change p-
+Category model Rate (n) Rate (n) Ratio (%) 95% CI value
 Moderate or Poisson 0.805 0.927 0.753,
 0.868 -13.2 0.0529
 severe regression (380) (432) 1.002
@@ -89,14 +93,16 @@ to 1.12).
 The rate of severe exacerbations was reduced in the overall patient group (rate ratio: 0.76; 95% CI: 0.60 to 0.95) with a rate of 0.24 per patient/year compared to a rate of 0.32 per patient/year in patients treated with placebo.
 A similar reduction was achieved in the subgroup of patients concomitantly treated with LAMA (rate ratio: 0.77; 95% CI: 0.60 to 0.99) and in the subgroup not treated with LAMA (rate ratio: 0.71; 95% CI: 0.42 to 1.20).
 
-Roflumilast improved lung function after 4 weeks (sustained over 52 weeks).
-Post-bronchodilator FEV1 increased for the roflumilast group by 52 mL (95% CI: 40, 65 mL) and decreased for the placebo group by 4 mL (95% CI: -16, 9 mL).
-Post-bronchodilator FEV1 showed a clinically significant improvement in favour of roflumilast by 56 mL over placebo (95% CI: 38, 73 mL).
-
-Seventeen (1.8%) patients in the roflumilast group and 18 (1.9%) patients in the placebo group died during the double-blind treatment period due to any reason and 7 (0.7%) patients in each group due to a COPD exacerbation.
-The proportion of patients who experienced at least 1 adverse event during the double-blind treatment period were 648 (66.9%) patients and 572 (59.2%) patients in the roflumilast and placebo groups, respectively.
-The observed adverse reactions for roflumilast in Study RO-2455-404-RD were in line with those already included in section 4.8.
-
+Roflumilast improved lung function after 4 weeks (sustained over 52 weeks). Post-bronchodilator
+FEV1 increased for the roflumilast group by 52 mL (95% CI: 40, 65 mL) and decreased for the placebo
+group by 4 mL (95% CI: -16, 9 mL). Post-bronchodilator FEV1 showed a clinically significant
+improvement in favour of roflumilast by 56 mL over placebo (95% CI: 38, 73 mL).
+Seventeen (1.8%) patients in the roflumilast group and 18 (1.9%) patients in the placebo group died
+during the double-blind treatment period due to any reason and 7 (0.7%) patients in each group due to
+a COPD exacerbation. The proportion of patients who experienced at least 1 adverse event during the
+double-blind treatment period were 648 (66.9%) patients and 572 (59.2%) patients in the roflumilast
+and placebo groups, respectively. The observed adverse reactions for roflumilast in Study RO-2455-
+404-RD were in line with those already included in section 4.8.
 More patients in the roflumilast group (27.6%) than placebo (19.8%) withdrew study medication due
 to any reason (risk ratio: 1.40; 95% CI: 1.19 to 1.65). The major reasons for trial discontinuation were
 withdrawal of consent and reported adverse events.
@@ -117,6 +123,7 @@ Long-term administration at the 250 micrograms dose level may not induce suffici
 250 micrograms once a day is a sub-therapeutic dose, and should be used only as a starting dose for the first 28 days (see sections 4.2 and 5.2).
 
 Paediatric population
+
 The European Medicines Agency has waived the obligation to submit the results of studies with roflumilast in all subsets of the paediatric population in chronic obstructive pulmonary disease (see section 4.2 for information on paediatric use).
 
 [Daxas 500 micrograms film-coated tablets]

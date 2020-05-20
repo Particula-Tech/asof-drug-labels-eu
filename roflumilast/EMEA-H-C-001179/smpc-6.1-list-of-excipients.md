@@ -11,6 +11,6 @@ Core
 
 Coating
 Hypromellose
-Macrogol 4000
+Macrogol (4000)
 Titanium dioxide (E171)
 Iron oxide yellow (E172)
