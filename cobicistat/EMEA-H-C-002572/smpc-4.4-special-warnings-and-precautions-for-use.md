@@ -14,7 +14,6 @@ Co-administration of cobicistat with medicinal products that inhibit CYP3A may d
 
 Cobicistat is a weak CYP2D6 inhibitor and is metabolised to a minor extent by CYP2D6.
 Co-administration with cobicistat can increase plasma concentrations of medicinal products that are metabolised by CYP2D6 (see sections 4.3 and 4.5).
-
 Cobicistat inhibits the transporters P-gp, BCRP, MATE1, OATP1B1 and OATP1B3.
 Co-administration of cobicistat in patients receiving medicinal products that are substrates of these transporters may result in increased plasma concentrations of the co-administered medicinal products (see section 4.5).
 
@@ -50,6 +49,7 @@ This effect on serum creatinine, leading to a decrease in the estimated creatine
 
 Tybost should not be initiated in patients with creatinine clearance less than 70 ml/min if one or more co-administered agent requires dose adjustment based on creatinine clearance (e.g. emtricitabine, lamivudine, tenofovir disoproxil or adefovir).
 See sections 4.2, 4.8 and 5.2.
+
 There are currently inadequate data to determine whether co-administration of tenofovir disoproxil and cobicistat is associated with a greater risk of renal adverse reactions compared with regimens that include tenofovir disoproxil without cobicistat.
 
 Liver disease
@@ -58,11 +58,11 @@ Cobicistat has not been studied in patients with severe hepatic impairment (Chil
 
 Pregnancy
 
-Treatment with cobicistat and darunavir during the second and third trimesters of pregnancy has been shown to result in lower darunavir exposure compared to postpartum.
+Treatment with cobicistat and atazanavir or darunavir during the second and third trimesters of pregnancy has been shown to result in lower atazanavir or darunavir exposure compared to postpartum.
 Cobicistat levels decrease and may not provide sufficient boosting.
-The substantial reduction in darunavir exposure may result in virological failure and an increased risk of mother-to-child transmission of HIV infection.
-Therefore, therapy with cobicistat and darunavir should not be initiated during pregnancy, and women who become pregnant during therapy with cobicistat and darunavir should be switched to an alternative regimen (see sections 4.2 and 4.6).
-Darunavir given with low dose ritonavir may be considered as an alternative.
+The substantial reduction in atazanavir or darunavir exposure may result in virological failure and an increased risk of mother-to-child transmission of HIV infection.
+Therefore, therapy with cobicistat and atazanavir or darunavir should not be initiated during pregnancy, and women who become pregnant during therapy with cobicistat and atazanavir or darunavir should be switched to an alternative regimen (see sections 4.2 and 4.6).
+Darunavir given with low dose ritonavir may be considered as an alternative regimen.
 
 Excipients
 

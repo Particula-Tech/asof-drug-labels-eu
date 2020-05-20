@@ -15,7 +15,6 @@ Cobicistat is not expected to induce CYP3A4 or P-gp (MDR1).
 
 Unlike ritonavir, cobicistat is not an inducer of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19 or UGT1A1.
 If switching pharmacoenhancer from ritonavir to cobicistat, caution is required during the first two weeks of treatment with Tybost, particularly if doses of any concomitantly administered medicinal products have been titrated or adjusted during use of ritonavir as a pharmacoenhancer (see section 4.4).
-
 Concomitant use contraindicated
 
 Medicinal products that are extensively metabolised by CYP3A and have high first pass metabolism appear to be the most susceptible to large increases in exposure when co-administered with cobicistat.
@@ -40,7 +39,6 @@ Interactions of cobicistat and potential co-administered medicinal products are 
 These interactions are based on either drug interaction studies or predicted interactions due to the expected magnitude of interaction and potential for serious and/or life-threatening events or loss of efficacy.
 
 For additional drug-drug interactions with atazanavir or darunavir, consult their respective Summary of Product Characteristics when using Tybost.
-
 Table 3: Interactions between cobicistat and other medicinal products
 
 | Medicinal product by therapeutic areas | Effects on drug levels Mean percent change in AUC, Cmax, Cmin | Recommendation concerning co-administration with cobicistat 150 mg and atazanavir or darunavir |
@@ -73,9 +71,6 @@ Table 3: Interactions between cobicistat and other medicinal products
 | NARCOTIC ANALGESICS |  |  |
 | Methadone | Methadone: AUC: ↔ Cmax: ↔ Cmin: ↔ | No dose adjustment of methadone is required. |
 | Buprenorphine/Naloxone | Buprenorphine: AUC: ↑ 35% Cmax: ↔ Cmin: ↑ 66% Naloxone: AUC: ↓ 28% Cmax: ↓ 28% | No dose adjustment of cobicistat is required. |
-
-| Medicinal product by therapeutic areas | Effects on drug levels Mean percent change in AUC, Cmax, Cmin | Recommendation concerning co-administration with cobicistat 150 mg and atazanavir or darunavir |
-| --- | --- | --- |
 | ORAL CONTRACEPTIVES |  |  |
 | Drospirenone/Ethinyloestradiol (3 mg/0.02 mg single dose)/ Darunavir (800 mg once daily)/Cobicistat (150 mg once daily) | Drospirenone: AUC: ↑ 58% Cmax: ↔ Cmin: NC Ethinyloestradiol: AUC: ↓ 30% Cmax: ↔ Cmin: NC | Plasma concentrations of ethinyloestradiol are decreased following co-administration of drospirenone/ethinyloestradiol with darunavir/cobicistat. Alternative or additional contraceptive measures are recommended when oestrogen-based contraceptives are co-administered with darunavir/cobicistat. Plasma concentrations of drospirenone are increased following co-administration of drospirenone/ethinyloestradiol with darunavir/cobicistat. If drospirenone/ethinyloestradiol is co-administered with darunavir/cobicistat clinical monitoring is recommended due to the potential for hyperkalemia. |
 | Drospirenone/Ethinyloestradiol (3 mg/0.02 mg single dose)/Atazanavir (300 mg once daily)/Cobicistat (150 mg once daily) | Drospirenone: AUC: ↑ 130% Cmax: ↔ Cmin: NC Ethinyloestradiol: AUC: ↔ Cmax: ↔ Cmin: NC | Plasma concentrations of drospirenone are increased following co-administration of drospirenone/ethinyloestradiol with atazanavir/cobicistat. If drospirenone/ethinyloestradiol is co-administered with atazanavir/cobicistat clinical monitoring is recommended due to the potential for hyperkalemia. |

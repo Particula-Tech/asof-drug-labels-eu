@@ -9,7 +9,6 @@ Tybost is used in combination with atazanavir or darunavir, therefore the atazan
 Tybost must be taken orally, once daily with food.
 
 The doses of Tybost and the co-administered protease inhibitor, atazanavir or darunavir, are presented in Tables 1 and 2.
-
 Table 1: Dosing regimens in adults
 
 | Dose of Tybost | Dose of HIV-1 protease inhibitor |
@@ -50,10 +49,9 @@ The safety and efficacy of cobicistat co-administered with darunavir in children
 No data are available.
 
 Pregnancy
-Treatment with cobicistat and darunavir during pregnancy results in lower darunavir exposure.
-Therefore, therapy with cobicistat and darunavir should not be initiated during pregnancy, and women who become pregnant during therapy with cobicistat and darunavir should be switched to an alternative regimen (see sections 4.4 and 4.6).
-Darunavir/ritonavir may be considered as an alternative.
-
+Treatment with cobicistat and atazanavir or darunavir during pregnancy results in lower atazanavir or darunavir exposure.
+Therefore, therapy with cobicistat and atazanavir or darunavir should not be initiated during pregnancy, and women who become pregnant during therapy with cobicistat and atazanavir or darunavir should be switched to an alternative regimen (see sections 4.4 and 4.6).
+Darunavir/ritonavir may be considered as an alternative regimen.
 Method of administration
 
 Tybost should be taken orally, once daily with food (see section 5.2).
