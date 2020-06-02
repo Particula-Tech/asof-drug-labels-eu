@@ -39,7 +39,6 @@ Single oral doses of sildenafil up to 100 mg in healthy volunteers produced no c
 In a study of the hemodynamic effects of a single oral 100 mg dose of sildenafil in 14 patients with severe coronary artery disease (CAD) (>70% stenosis of at least one coronary artery), the mean resting systolic and diastolic blood pressures decreased by 7% and 6% respectively compared to baseline.
 Mean pulmonary systolic blood pressure decreased by 9%.
 Sildenafil showed no effect on cardiac output, and did not impair blood flow through the stenosed coronary arteries.
-
 A double-blind, placebo-controlled exercise stress trial evaluated 144 patients with erectile dysfunction and chronic stable angina who regularly received anti-anginal medicinal products (except nitrates).
 The results demonstrated no clinically relevant differences between sildenafil and placebo in time to limiting angina.
 
@@ -59,6 +58,7 @@ In fixed dose studies, the proportions of patients reporting that treatment impr
 In controlled clinical trials, the discontinuation rate due to sildenafil was low and similar to placebo.
 Across all trials, the proportion of patients reporting improvement on sildenafil were as follows: psychogenic erectile dysfunction (84%), mixed erectile dysfunction (77%), organic erectile dysfunction (68%), elderly (67%), diabetes mellitus (59%), ischaemic heart disease (69%), hypertension (68%), TURP (61%), radical prostatectomy (43%), spinal cord injury (83%), depression (75%).
 The safety and efficacy of sildenafil was maintained in long-term studies.
+
 Paediatric population
 
 The European Medicines Agency has waived the obligation to submit the results of studies with VIAGRA in all subsets of the paediatric population for the treatment of erectile dysfunction.

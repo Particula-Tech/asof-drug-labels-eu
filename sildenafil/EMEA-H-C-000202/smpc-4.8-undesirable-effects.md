@@ -7,12 +7,17 @@ The most commonly reported adverse reactions in clinical studies among sildenafi
 
 Adverse reactions from post-marketing surveillance has been gathered covering an estimated period >10 years.
 Because not all adverse reactions are reported to the Marketing Authorisation Holder and included in the safety database, the frequencies of these reactions cannot be reliably determined.
+
 Tabulated list of adverse reactions
 
 In the table below all medically important adverse reactions, which occurred in clinical trials at an incidence greater than placebo are listed by system organ class and frequency (very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Table 1: Medically important adverse reactions reported at an incidence greater than placebo in controlled clinical studies and medically important adverse reactions reported through post-marketing surveillance
+
+System Organ Very Common Uncommon Rare (≥1/10,000 and
+Class common (≥1/100 and (≥1/1,000 and <1/1,000)
+(≥1/10) <1/10) <1/100)
 
 | System Organ Class | Very common (≥1/10) | Common (≥1/100 and <1/10) | Uncommon (≥1/1,000 and <1/100) | Rare (≥1/10,000 and <1/1,000) |
 | --- | --- | --- | --- | --- |
@@ -34,6 +39,7 @@ Table 1: Medically important adverse reactions reported at an incidence greater 
 
 *Reported during post-marketing surveillance only
 **Visual colour distortions: Chloropsia, Chromatopsia, Cyanopsia, Erythropsia and Xanthopsia ***Lacrimation disorders: Dry eye, Lacrimal disorder and Lacrimation increased
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.

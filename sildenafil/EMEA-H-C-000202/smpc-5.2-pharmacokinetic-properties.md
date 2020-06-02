@@ -10,7 +10,6 @@ After oral dosing of sildenafil AUC and Cmax increase in proportion with dose ov
 When sildenafil is taken with food, the rate of absorption is reduced with a mean delay in tmax of 60 minutes and a mean reduction in Cmax of 29%.
 
 Distribution
-
 The mean steady state volume of distribution (Vd) for sildenafil is 105 l, indicating distribution into the tissues.
 After a single oral dose of 100 mg, the mean maximum total plasma concentration of sildenafil is approximately 440 ng/mL (CV 40%).
 Since sildenafil (and its major circulating N-desmethyl metabolite) is 96% bound to plasma proteins, this results in the mean maximum free plasma concentration for sildenafil of 18 ng/mL (38 nM).
@@ -35,6 +34,7 @@ Pharmacokinetics in special patient groups
 Elderly
 Healthy, elderly volunteers (65 years or over) had a reduced clearance of sildenafil, resulting in approximately 90% higher plasma concentrations of sildenafil and the active N-desmethyl metabolite compared to those seen in healthy younger volunteers (18-45 years).
 Due to age-differences in plasma protein binding, the corresponding increase in free sildenafil plasma concentration was approximately 40%.
+
 Renal insufficiency
 In volunteers with mild to moderate renal impairment (creatinine clearance = 30-80 mL/min), the pharmacokinetics of sildenafil were not altered after receiving a 50 mg single oral dose.
 The mean AUC and Cmax of the N-desmethyl metabolite increased up to 126% and up to 73% respectively, compared to age-matched volunteers with no renal impairment.

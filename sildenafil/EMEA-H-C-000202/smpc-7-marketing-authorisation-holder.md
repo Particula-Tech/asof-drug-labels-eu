@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Pfizer Europe MA EEIG
-Boulevard de la Plaine 17
-1050 Bruxelles
-Belgium
+Upjohn EESV
+Rivium Westlaan 142
+2909 LD Capelle aan den IJssel
+Netherlands
