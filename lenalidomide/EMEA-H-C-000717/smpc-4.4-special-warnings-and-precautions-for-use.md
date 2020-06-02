@@ -84,6 +84,9 @@ Patients should be instructed never to give this medicinal product to another pe
 
 Patients should not donate blood during therapy or for at least 7 days following discontinuation of lenalidomide.
 
+Healthcare professionals and caregivers should wear disposable gloves when handling the blister or capsule.
+Women who are pregnant or suspect they may be pregnant should not handle the blister or capsule (see section 6.6).
+
 Educational materials, prescribing and dispensing restrictions
 In order to assist patients in avoiding foetal exposure to lenalidomide, the marketing authorisation holder will provide educational material to health care professionals to reinforce the warnings about the expected teratogenicity of lenalidomide, to provide advice on contraception before therapy is started, and to provide guidance on the need for pregnancy testing.
 The prescriber must inform male and female patients about the expected teratogenic risk and the strict pregnancy prevention measures as specified in the Pregnancy Prevention Programme and provide patients with appropriate patient educational brochure, patient card and/or equivalent tool in accordance to the national implemented patient card system.
@@ -91,7 +94,7 @@ A national controlled distribution system has been implemented in collaboration 
 The controlled distribution system includes the use of a patient card and/or equivalent tool for prescribing and/or dispensing controls, and the collecting of detailed data relating to the indication in order to monitor closely the off-label use within the national territory.
 Ideally, pregnancy testing, issuing a prescription and dispensing should occur on the same day.
 Dispensing of lenalidomide to women of childbearing potential should occur within 7 days of the prescription and following a medically supervised negative pregnancy test result.
-Prescriptions for women of childbearing potential can be for a maximum duration of treatment of 4 weeks, and prescriptions for all other patients can be for a maximum duration of treatment of 12 weeks.
+Prescriptions for women of childbearing potential can be for a maximum duration of treatment of 4 weeks according to the approved indications dosing regimens (see section 4.2), and prescriptions for all other patients can be for a maximum duration of treatment of 12 weeks.
 
 Other special warnings and precautions for use
 Myocardial infarction
@@ -247,17 +250,13 @@ Patients with high tumour burden should therefore be closely monitored for adver
 Please refer to section 4.2 for dose adjustments for TFR.
 High tumour burden was defined as at least one lesion ≥5 cm in diameter or 3 lesions ≥3 cm.
 
-Allergic reactions
-Cases of allergic reaction/hypersensitivity reactions have been reported in patients treated with lenalidomide (see section 4.8).
-Patients who had previous allergic reactions while treated with thalidomide should be monitored closely, as a possible cross-reaction between lenalidomide and thalidomide has been reported in the literature.
-
-Severe skin reactions
-Severe cutaneous reactions including SJS, and TEN and DRESS have been reported with the use of lenalidomide.
+Allergic reactions and severe skin reactions
+Cases of allergic reactions including angioedema, anaphylactic reaction and severe cutaneous reactions including SJS, TEN and DRESS have been reported in patients treated with lenalidomide (see section 4.8).
 Patients should be advised of the signs and symptoms of these reactions by their prescribers and should be told to seek medical attention immediately if they develop these symptoms.
-Lenalidomide must be discontinued for exfoliative or bullous rash, or if SJS, TEN or DRESS is suspected, and should not be resumed following discontinuation for these reactions.
+Lenalidomide must be discontinued for angioedema, anaphylactic reaction, exfoliative or bullous rash, or if SJS, TEN or DRESS is suspected, and should not be resumed following discontinuation for these reactions.
 Interruption or discontinuation of lenalidomide should be considered for other forms of skin reaction depending on severity.
+Patients who had previous allergic reactions while treated with thalidomide should be monitored closely, as a possible cross-reaction between lenalidomide and thalidomide has been reported in the literature.
 Patients with a history of severe rash associated with thalidomide treatment should not receive lenalidomide.
-
 Lactose intolerance
 Revlimid capsules contain lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
@@ -275,7 +274,7 @@ In patients receiving lenalidomide in combination with dexamethasone until progr
 
 A 1.3-fold increase in incidence rate of solid tumour SPM has been observed in patients receiving lenalidomide in combination with dexamethasone until progression or for 18 months (1.58 per 100 person-years) compared to thalidomide in combination with melphalan and prednisone (1.19 per 100 person-years).
 
-In newly diagnosed multiple myeloma patients receiving lenalidomide in combination with bortezomib and dexamethasone, the hematologic SPM incidence rate was 0.00 – 0.16 per 100 person-years and the incidence rate of solid tumour SPM 0.21 – 1.04 per 100 person-years.
+In newly diagnosed multiple myeloma patients receiving lenalidomide in combination with bortezomib and dexamethasone, the hematologic SPM incidence rate was 0.00 – 0.16 per 100 person-years and the incidence rate of solid tumour SPM was 0.21 – 1.04 per 100 person-years.
 
 The increased risk of secondary primary malignancies associated with lenalidomide is relevant also in the context of NDMM after stem cell transplantation.
 Though this risk is not yet fully characterized, it should be kept in mind when considering and using Revlimid in this setting.
@@ -293,7 +292,6 @@ Progression to acute myeloid leukaemia in low- and intermediate-1-risk MDS
 Baseline variables including complex cytogenetics are associated with progression to AML in subjects who are transfusion dependent and have a Del (5q) abnormality.
 In a combined analysis of two clinical trials of lenalidomide in low- or intermediate-1-risk myelodysplastic syndromes, subjects who had a complex cytogenetics had the highest estimated 2-year cumulative risk of progression to AML (38.6%).
 The estimated 2-year rate of progression to AML in patients with an isolated Del (5q) abnormality was 13.8%, compared to 17.3% for patients with Del (5q) and one additional cytogenetic abnormality.
-
 As a consequence, the benefit/risk ratio of lenalidomide when MDS is associated with Del (5q) and complex cytogenetics is unknown.
 
 - TP53 status
@@ -334,11 +332,12 @@ All patients should be advised to seek medical attention promptly at the first s
 
 Viral reactivation
 Cases of viral reactivation have been reported in patients receiving lenalidomide, including serious cases of herpes zoster or hepatitis B virus (HBV) reactivation.
+
 Some of the cases of viral reactivation had a fatal outcome.
 
 Some of the cases of herpes zoster reactivation resulted in disseminated herpes zoster, meningitis herpes zoster or ophthalmic herpes zoster requiring a temporary hold or permanent discontinuation of the treatment with lenalidomide and adequate antiviral treatment.
 
-Reactivation of hepatitis B has been reported rarely in patients receiving lenalidomide who have previously been infected with the hepatitis B virus (HBV).
+Reactivation of hepatitis B has been reported rarely in patients receiving lenalidomide who have previously been infected with the hepatitis B virus.
 Some of these cases have progressed to acute hepatic failure resulting in discontinuation of lenalidomide and adequate antiviral treatment.
 Hepatitis B virus status should be established before initiating treatment with lenalidomide.
 For patients who test positive for HBV infection, consultation with a physician with expertise in the treatment of hepatitis B is recommended.

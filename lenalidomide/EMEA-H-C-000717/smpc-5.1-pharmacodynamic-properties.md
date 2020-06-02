@@ -68,6 +68,7 @@ e Exploratory endpoint (PFS2).
 Lenalidomide received by subjects in the placebo arm who crossed over prior to PD upon study unblinding was not considered as a second-line therapy.
 f Median follow-up post-ASCT for all surviving subjects.
 Data cuts: 17 Dec 2009 and 01 Feb 2016
+
 IFM 2005-02
 Patients aged < 65 years at diagnosis who had undergone ASCT and had achieved at least a stable disease response at the time of hematologic recovery were eligible.
 Patients were randomised 1:1 to receive either lenalidomide or placebo maintenance (10 mg once daily on days 1-28 of repeated 28-day cycles increased up to 15 mg once daily after 3 months in the absence of dose-limiting toxicity) following 2 courses of lenalidomide consolidation (25 mg/day, days 1-21 of a 28-day cycle).
@@ -84,12 +85,11 @@ The results of PFS at unblinding, following a preplanned interim analysis, using
 The median overall PFS was 40.1 months (95% CI 35.7, 42.4) in the lenalidomide arm versus 22.8 months (95% CI 20.7, 27.4) in the placebo arm.
 
 The PFS benefit was less in the subgroup of patients with CR than in the subgroup of patients who had not achieved a CR.
-
 The updated PFS, using a cut-off of 1 February 2016 (96.7 months follow up) continues to show a PFS advantage: HR = 0.57 (95% CI 0.47, 0.68; p < 0.001).
 The median overall PFS was 44.4 months (39.6, 52.0) in the lenalidomide arm versus 23.8 months (95% CI 21.2, 27.3) in the placebo arm.
 For PFS2, the observed HR was 0.80 (95% CI 0.66, 0.98; p = 0.026) for lenalidomide versus placebo.
 The median overall PFS2 was 69.9 months (95% CI 58.1, 80.0) in the lenalidomide arm versus 58.4 months (95% CI 51.1, 65.0) in the placebo arm.
-For OS, the observed HR was 0.90: (95% CI 0.72, 1.13; p = 0.355) for lenalidomide versus placebo.
+For OS, the observed HR was 0.90 (95% CI 0.72, 1.13; p = 0.355) for lenalidomide versus placebo.
 The median overall survival time was 105.9 months (95% CI 88.8, NE) in the lenalidomide arm versus 88.1 months (95% CI 80.7, 108.4) in the placebo arm.
 
 - Lenalidomide in combination with bortezomib and dexamethasone in patients who are not eligible for stem cell transplantation
@@ -97,7 +97,7 @@ The median overall survival time was 105.9 months (95% CI 88.8, NE) in the lenal
 The SWOG S0777 study evaluated the addition of bortezomib to a foundation of lenalidomide and dexamethasone, as initial treatment, followed by continued Rd until disease progression, in patients with previously untreated multiple myeloma who are either ineligible for transplant or eligible for transplant with no plan to undertake immediate transplant.
 
 Patients in the lenalidomide, bortezomib and dexamethasone (RVd) arm received lenalidomide 25 mg/day orally on days 1-14, intravenous bortezomib 1.3 mg/m2 on days 1, 4, 8, and 11, and dexamethasone 20 mg/day orally on days 1, 2, 4, 5, 8, 9, 11, and 12 of repeated 21-day cycles for up to eight 21-day cycles (24 weeks).
-Patients in the lenalidomide and dexamethasone (Rd) arm received lenalidomide 25 mg/day orally on days 1-21, and dexamethasone 40 mg/day orally on days 1, 8, 15, and 22 of repeated 28-day cycles for up to six 21-day cycles (24 weeks).
+Patients in the lenalidomide and dexamethasone (Rd) arm received lenalidomide 25 mg/day orally on days 1-21, and dexamethasone 40 mg/day orally on days 1, 8, 15, and 22 of repeated 28-day cycles for up to six 28-day cycles (24 weeks).
 Patients in both arms took continued Rd: lenalidomide 25 mg/day orally on days 1-21 and dexamethasone 40 mg/day orally on days 1, 8, 15, and 22 of repeated 28-day cycles.
 Treatment was to be continued until disease progression.
 
@@ -123,18 +123,19 @@ Summary of overall efficacy data
 | HR [95% CI]c; p-valued | 0.76 (0.62, 0.94); 0.010 |  |
 | Overall survival (months) |  |  |
 | Mediana OS time, months (95% CI)b | 89.1 (76.1, NE) | 67.2 (58.4, 90.8) |
-| HR [95% CI]c; p-valuee | 0.72 (0.56, 0.94); 0.013 |  |
-| Responsef – n (%) |  |  |
+| HR [95% CI]c; p-valued | 0.72 (0.56, 0.94); 0.013 |  |
+| Response – n (%) |  |  |
 | Overall response: CR, VGPR, or PR | 199 (75.7) | 170 (65.4) |
 | ≥ VGPR | 153 (58.2) | 83 (31.9) |
 | Follow-up (months) |  |  |
-| Medianf (min, max): all patients | 61.6 (0.2, 99.4) | 59.4 (0.4, 99.1) |
+| Mediane (min, max): all patients | 61.6 (0.2, 99.4) | 59.4 (0.4, 99.1) |
 
-a CI = confidence interval; HR = hazard ratio; max = maximum; min = minimum; NE = not estimable; OS = overall survival; PFS = progression-free survival; Median follow-up was calculated from the date of randomization.
-b The median is based on Kaplan-Meier estimate.
-c Two-sided 95% CI about the median time.
-d Based on unstratified Cox proportional hazards model comparing hazard functions associated with treatment arms (RVd:Rd).
-e The p-value is based on unstratified log-rank test.
+CI = confidence interval; HR = hazard ratio; max = maximum; min = minimum; NE = not estimable; OS = overall survival; PFS = progression-free survival.
+a The median is based on Kaplan-Meier estimate.
+b Two-sided 95% CI about the median time.
+c Based on unstratified Cox proportional hazards model comparing hazard functions associated with treatment arms (RVd:Rd).
+d The p-value is based on unstratified log-rank test.
+e Median follow-up was calculated from the date of randomization.
 Data cutoff date = 01 Dec 2016.
 
 Updated OS results, using a cut-off of 01 May 2018 (84.2 months median follow-up for surviving subjects) continue to show an OS advantage favouring RVd: HR = 0.73 (95% CI 0.57, 0.94; p=0.014).
@@ -196,7 +197,7 @@ Summary of overall efficacy data
 
 AMT = antimyeloma therapy; CI = confidence interval; CR = complete response; d = low-dose dexamethasone; HR = hazard ratio;
 IMWG = International Myeloma Working Group; IRAC = Independent Response Adjudication Committee; M = melphalan; max = maximum; min = minimum; NE = not estimable; OS = overall survival; P = prednisone; PFS = progression-free survival; PR = partial response;
-R = lenalidomide; Rd = Rd given until documentation of progressive disease; Rd18 = Rd given for ≥ 18 cycles; SE = standard error;
+R = lenalidomide; Rd = Rd given until documentation of progressive disease; Rd18 = Rd given for ≤ 18 cycles; SE = standard error;
 T = thalidomide; VGPR = very good partial response; vs = versus.
 a The median is based on the Kaplan-Meier estimate.
 b The 95% CI about the median.
@@ -212,6 +213,7 @@ The safety and efficacy of lenalidomide was assessed in a phase 3 multicentre, r
 The study compared lenalidomide in combination with melphalan and prednisone (MPR) with or without lenalidomide maintenance therapy until disease progression, to that of melphalan and prednisone for a maximum of 9 cycles.
 Patients were randomised in a 1:1:1 ratio to one of 3 treatment arms.
 Patients were stratified at randomisation by age (≤ 75 vs. > 75 years) and stage (ISS; Stages I and II vs. stage III).
+
 This study investigated the use of combination therapy of MPR (melphalan 0.18 mg/kg orally on days 1 to 4 of repeated 28-day cycles; prednisone 2 mg/kg orally on days 1 to 4 of repeated 28-day cycles; and lenalidomide 10 mg/day orally on days 1 to 21 of repeated 28-day cycles) for induction therapy, up to 9 cycles.
 Patients who completed 9 cycles or who were unable to complete 9 cycles due to intolerance proceeded to maintenance therapy starting with lenalidomide 10 mg orally on days 1 to 21 of repeated 28-day cycles until disease progression.
 
@@ -259,6 +261,7 @@ CI = confidence interval; CR = complete response; HR = Hazard Rate; M = melphala
 PD = progressive disease; PR = partial response; R = lenalidomide; SD = stable disease; VGPR = very good partial response.
 ª The median is based on the Kaplan-Meier estimate
 ¤ PFS2 (an exploratory endpoint) was defined for all patients (ITT) as time from randomisation to start of 3rd line antimyeloma therapy (AMT) or death for all randomised patients
+
 Supportive newly diagnosed multiple myeloma studies
 An open-label, randomised, multicentre, phase 3 study (ECOG E4A03) was conducted in 445 patients with newly diagnosed multiple myeloma; 222 patients were randomised to the lenalidomide/low dose dexamethasone arm, and 223 were randomised to the lenalidomide/standard dose dexamethasone arm.
 Patients randomised to the lenalidomide/standard dose dexamethasone arm received lenalidomide 25 mg/day, days 1 to 21 every 28 days plus dexamethasone 40 mg/day on days 1 to 4, 9 to 12, and 17 to 20 every 28 days for the first four cycles.
@@ -331,6 +334,7 @@ Patients who had evidence of at least a minor erythroid response could continue 
 Patients, who initially received placebo or 5 mg lenalidomide and did not achieve at least a minor erythroid response after 16 weeks of treatment were permitted to switch from placebo to 5 mg lenalidomide or continue lenalidomide treatment at higher dose (5 mg to 10 mg).
 
 In, study MDS-003, in which 148 patients received lenalidomide at a dose of 10 mg, the primary efficacy analysis consisted of an evaluation of the efficacy of lenalidomide treatments to achieve haematopoietic improvement in subjects with low- or intermediate-1 risk myelodysplastic syndromes.
+
 Table 12.
 Summary of efficacy results – studies MDS-004 (double-blind phase) and MDS-003, intent-to-treat populationEndpoint
 
@@ -374,6 +378,7 @@ Patients were required to have received adequate previous treatment with at leas
 Also, patients had to be ineligible for intensive chemotherapy and/or transplant at time of inclusion in the study.
 Patients were randomised 2:1 to the lenalidomide or the control arm.
 The investigator’s choice treatment was selected before randomisation and consisted of monotherapy with either chlorambucil, cytarabine, rituximab, fludarabine, or gemcitabine.
+
 Lenalidomide was administered orally 25 mg once daily for the first 21 days (D1 to D21) of repeating 28-day cycles until progression or unacceptable toxicity.
 Patients with moderate renal insufficiency were to receive a lower starting dose of lenalidomide 10 mg daily on the same schedule.
 
@@ -428,7 +433,6 @@ Efficacy determination was based upon PFS as the primary endpoint, as assessed b
 
 The secondary objectives of the study were to compare the safety of lenalidomide in combination with rituximab versus rituximab plus placebo.
 Further secondary objectives were to compare the efficacy of rituximab plus lenalidomide versus rituximab plus placebo using the following other parameters of efficacy: Overall response rate (ORR), CR rate, and duration of response (DoR) by IWG 2007 without PET and OS.
-
 Results from the overall population including FL and MZL showed that at a median follow up of 28.3°months, the study met its primary endpoint of PFS with a hazard ratio (HR) (95% confidence interval [CI]) of 0.45 (0.33,0.61) p-value < 0.0001.
 The efficacy results from the follicular lymphoma population are presented in Table 14.
 
@@ -464,7 +468,6 @@ In contrast to study NHL-007, the NHL-008 study included patients who were refra
 During the induction treatment period, lenalidomide 20 mg was given on Days 1-21 of repeated 28-day cycles for up to 12 cycles or until unacceptable toxicity, or withdrawal of consent or disease progression.
 The dose of rituximab was 375 mg/m2 every week in Cycle 1 (Days 1, 8, 15, and 22) and on Day 1 of every other 28-day cycle (cycles 3, 5, 7, 9, and 11) up to 12 cycles therapy.
 All dosage calculations for rituximab were based on the patient body surface area (BSA) and actual weight.
-
 The data presented are based on an interim analysis focusing on the single-arm induction treatment period..
 Efficacy determinations are based on ORR by best response as the primary endpoint, using a modification of the 1999 International Working Group Response Criteria (IWGRC).
 The secondary objective was to evaluate other parameters of efficacy, such as DoR.

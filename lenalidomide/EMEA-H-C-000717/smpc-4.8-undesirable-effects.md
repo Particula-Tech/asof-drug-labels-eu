@@ -168,6 +168,7 @@ ADRs reported in clinical studies in patients with multiple myeloma treated with
 ◊ Adverse reactions reported as serious in clinical trials in patients with multiple myeloma treated with lenalidomide in combination with dexamethasone, or with melphalan and prednisone
 + Applies to serious adverse drug reactions only
 * Squamous skin cancer was reported in clinical trials in previously treated myeloma patients with lenalidomide/dexamethasone compared to controls ** Squamous cell carcinoma of skin was reported in a clinical trial in newly diagnosed myeloma patients with lenalidomide/dexamethasone compared to controls
+
 Tabulated summary from monotherapy
 The following tables are derived from data gathered during the main studies in monotherapy for myelodysplastic syndromes and mantle cell lymphoma.
 
@@ -248,6 +249,9 @@ The following table is derived from data gathered during the main studies (NHL-0
 
 Table 5: ADRs reported in clinical trials in patients with follicular lymphoma treated with lenalidomide in combination with rituximab
 
+System Organ Class / All ADRs/Frequency Grade 3−4 ADRs/Frequency
+Preferred Term
+
 | System Organ Class / Preferred Term | All ADRs/Frequency | Grade 3−4 ADRs/Frequency |
 | --- | --- | --- |
 | Infections and Infestations | Very Common Upper respiratory tract infection Common Pneumonia◊, Influenza, Bronchitis, Sinusitis, Urinary tract infection | Common Pneumonia◊, Sepsis◊, Lung infection, Bronchitis, Gastroenteritis, Sinusitis, Urinary tract infection, Cellulitis◊ |
@@ -297,7 +301,7 @@ ADRs reported in post-marketing use in patients treated with lenalidomide
 | Infections and Infestations | Not Known Viral infections, including herpes zoster and hepatitis B virus reactivation | Not Known Viral infections, including herpes zoster and hepatitis B virus reactivation |
 | Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) |  | Rare Tumour lysis syndrome |
 | Blood and Lymphatic System Disorders | Not Known Acquired haemophilia |  |
-| Immune System Disorders | Not Known Solid organ transplant rejection |  |
+| Immune System Disorders | Rare Anaphylactic reaction^ Not Known Solid organ transplant rejection | Rare Anaphylactic reaction^ |
 | Endocrine Disorders | Common Hyperthyroidism |  |
 | Respiratory, Thoracic and Mediastinal Disorders |  | Not Known Interstitial pneumonitis |
 | Gastrointestinal Disorders |  | Not Known Pancreatitis, Gastrointestinal perforation (including diverticular, intestinal and large intestine perforations)^ |
@@ -305,6 +309,7 @@ ADRs reported in post-marketing use in patients treated with lenalidomide
 | Skin and Subcutaneous Tissue Disorders |  | Uncommon Angioedema Rare Stevens-Johnson Syndrome^, Toxic epidermal necrolysis^ Not Known Leukocytoclastic vasculitis, Drug Reaction with Eosinophilia and Systemic Symptoms^ |
 
 ^see section 4.8 description of selected adverse reactions
+
 Description of selected adverse reactions
 Teratogenicity
 Lenalidomide is structurally related to thalidomide.
@@ -319,7 +324,6 @@ Neutropenia and thrombocytopenia
 Lenalidomide maintenance after ASCT is associated with a higher frequency of Grade 4 neutropenia compared to placebo maintenance (32.1% vs 26.7% [16.1% vs 1.8% after the start of maintenance treatment] in CALGB 100104 and 16.4% vs 0.7% in IFM 2005-02, respectively).
 Treatment-emergent AEs of neutropenia leading to lenalidomide discontinuation were reported in 2.2% of patients in CALGB 100104 and 2.4% of patients in IFM 2005-02, respectively.
 Grade 4 febrile neutropenia was reported at similar frequencies in the lenalidomide maintenance arms compared to placebo maintenance arms in both studies (0.4% vs 0.5% [0.4% vs 0.5% after the start of maintenance treatment] in CALGB 100104 and 0.3% vs 0% in IFM 2005-02, respectively).
-
 Lenalidomide maintenance after ASCT is associated with a higher frequency of Grade 3 or 4 thrombocytopenia compared to placebo maintenance (37.5% vs 30.3% [17.9% vs 4.1% after the start of maintenance treatment] in CALGB 100104 and 13.0% vs 2.9% in IFM 2005-02, respectively).
 
 - Newly diagnosed multiple myeloma patients who are not eligible for transplant receiving lenalidomide in combination with bortezomib and dexamethasone
@@ -334,7 +338,7 @@ Grade 3 or 4 thrombocytopenia was observed in the RVd arm to a greater extent th
 The combination of lenalidomide with dexamethasone in newly diagnosed multiple myeloma patients is associated with a lower frequency of Grade 4 neutropenia (8.5% in Rd and Rd18, compared with MPT (15%).
 Grade 4 febrile neutropenia was observed infrequently (0.6% in Rd and Rd18 compared with 0.7% in MPT).
 
-The combination of lenalidomide with dexamethasone in newly diagnosed multiple myeloma patients is associated with a lower frequency of Grade 3 and 4 thrombocytopenia (8.1% in Rd and Rd18) compared with MPT (11%).
+The combination of lenalidomide with dexamethasone in newly diagnosed multiple myeloma patients is associated with a lower frequency of Grade 3 and 4 thrombocytopenia (8.1% in Rd and Rd18) compared with MPT (11.1%).
 
 - Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with melphalan and prednisone
 
@@ -379,11 +383,10 @@ Myocardial infarction has been reported in patients receiving lenalidomide, part
 Haemorrhagic disorders
 Haemorrhagic disorders are listed under several system organ classes: Blood and lymphatic system disorders; nervous system disorders (intracranial haemorrhage); respiratory, thoracic and mediastinal disorders (epistaxis); gastrointestinal disorders (gingival bleeding, haemorrhoidal haemorrhage, rectal haemorrhage); renal and urinary disorders (haematuria); injury, poisoning and procedural complications (contusion) and vascular disorders (ecchymosis).
 
-Allergic reactions
-Cases of allergic reaction/hypersensitivity reactions have been reported.
+Allergic reactions and severe skin reactions
+
+Cases of allergic reactions including angioedema, anaphylactic reaction and severe cutaneous reactions including SJS, TEN and DRESS have been reported with the use of lenalidomide.
 A possible cross-reaction between lenalidomide and thalidomide has been reported in the literature.
-Severe skin reactions
-Severe cutaneous reactions including SJS, TEN and DRESS have been reported with the use of lenalidomide.
 Patients with a history of severe rash associated with thalidomide treatment should not receive lenalidomide (see section 4.4).
 
 Second primary malignancies

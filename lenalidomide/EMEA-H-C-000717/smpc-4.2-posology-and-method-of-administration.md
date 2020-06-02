@@ -14,8 +14,7 @@ Newly diagnosed multiple myeloma (NDMM)
 
 - Lenalidomide in combination with dexamethasone until disease progression in patients who are not eligible for transplant
 
-Lenalidomide treatment must not be started if the ANC is < 1.0 x 109/L, and/or platelet counts are
-< 50 x 109/L.
+Lenalidomide treatment must not be started if the Absolute Neutrophil Count (ANC) is < 1.0 x 109/L, and/or platelet counts are < 50 x 109/L.
 
 Recommended dose
 The recommended starting dose of lenalidomide is 25 mg orally once daily on days 1 to 21 of repeated 28-day cycles.
@@ -45,7 +44,7 @@ at next cycle ª If Dose limiting toxicity (DLT) occurs on > day15 of a cycle, l
 
 - Absolute neutrophil count (ANC) - neutropenia
 
-When ANC Recommended course
+When ANC Recommended courseª
 First falls to < 0.5 x 109/L Interrupt lenalidomide treatment
 
 Returns to ≥ 1 x 109/L when neutropenia is the only Resume lenalidomide at starting dose once daily observed toxicity
@@ -76,7 +75,7 @@ Up to eight 21-day treatment cycles (24 weeks of initial treatment) are recommen
 
 Continued treatment: Lenalidomide in combination with dexamethasone until progression
 Continue lenalidomide 25 mg orally once daily on days 1-21 of repeated 28-day cycles in combination with dexamethasone.
-Treatment should be continued until disease progression or unaccepToxicity.
+Treatment should be continued until disease progression or unacceptable toxicity.
 
 - Dose reduction steps
 
@@ -152,7 +151,7 @@ Returns to ≥ 30 x 109/L Resume lenalidomide at next lower dose level
 
 - Absolute neutrophil count (ANC) - neutropenia
 
-When ANC Recommended course
+When ANC Recommended courseª
 First falls to < 0.5 x 109/L Interrupt lenalidomide treatment
 
 Returns to ≥ 0.5 x 109/L when neutropenia is the only Resume lenalidomide at starting dose once daily observed toxicity
@@ -170,7 +169,7 @@ a At the physician’s discretion, if neutropenia is the only toxicity at any do
 - Lenalidomide maintenance in patients who have undergone autologous stem cell transplantation (ASCT)
 
 Lenalidomide maintenance should be initiated after adequate haematologic recovery following ASCT in patients without evidence of progression.
-Lenalidomide must not be started if the Absolute Neutrophil Count (ANC) is < 1.0 x 109/L, and/or platelet counts are < 75 x 109/L.
+Lenalidomide must not be started if the ANC is < 1.0 x 109/L, and/or platelet counts are < 75 x 109/L.
 
 Recommended dose
 The recommended starting dose is lenalidomide 10 mg orally once daily continuously (on days 1 to 28 of repeated 28-day cycles) given until disease progression or intolerance.
@@ -236,7 +235,7 @@ Do not dose below 5 mg once daily.
 
 - Absolute neutrophil count (ANC) - neutropenia
 
-When ANC Recommended course
+When ANC Recommended coursea
 First falls to < 0.5 x 109/L Interrupt lenalidomide treatment
 
 Returns to ≥ 0.5 x 109/L when neutropenia is the only Resume lenalidomide at starting dose once daily observed toxicity
@@ -423,7 +422,7 @@ All indications
 For other Grade 3 or 4 toxicities judged to be related to lenalidomide, treatment should be stopped and only restarted at next lower dose level when toxicity has resolved to ≤ Grade 2 depending on the physician’s discretion.
 
 Lenalidomide interruption or discontinuation should be considered for Grade 2 or 3 skin rash.
-Lenalidomide must be discontinued for angioedema, Grade 4 rash, exfoliative or bullous rash, or if Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN) or Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) is suspected, and should not be resumed following discontinuation from these reactions.
+Lenalidomide must be discontinued for angioedema, anaphylactic reaction, Grade 4 rash, exfoliative or bullous rash, or if Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN) or Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) is suspected, and should not be resumed following discontinuation from these reactions.
 
 Special populations
 

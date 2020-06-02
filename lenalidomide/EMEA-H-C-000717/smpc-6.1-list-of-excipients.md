@@ -29,6 +29,6 @@ Indigo carmine (E132)
 
 Printing ink
 Shellac
-Propylene glycol
+Propylene glycol (E1520)
 Black iron oxide (E172)
 Potassium hydroxide
