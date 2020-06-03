@@ -51,9 +51,9 @@ Table 3: DARZALEX dosing schedule in combination with bortezomib, thalidomide an
 a First dose of the every-2-week dosing schedule is given at Week 9 b First dose of the every-2-week dosing schedule is given at Week 1 upon re-initiation of treatment following ASCT
 
 For dose and schedule of medicinal products administered with DARZALEX, see section 5.1 and the corresponding Summary of Product Characteristics.
+
 Dosing schedule in combination with bortezomib (3-week cycle regimen):
 The recommended dose is DARZALEX 16 mg/kg body weight administered as an intravenous infusion according to the following dosing schedule in Table 4.
-
 Table 4: DARZALEX dosing schedule in combination with bortezomib (3-week cycle dosing regimen)
 
 | Weeks | Schedule |
@@ -145,9 +145,9 @@ However, if a background regimen-specific corticosteroid (e.g. dexamethasone, pr
 
 Additionally, for patients with a history of chronic obstructive pulmonary disease, the use of post-infusion medications including short and long acting bronchodilators, and inhaled corticosteroids should be considered.
 Following the first four infusions, if the patient experiences no major IRRs, these inhaled post-infusion medications may be discontinued at the discretion of the physician.
+
 Prophylaxis for herpes zoster virus reactivation
 Anti-viral prophylaxis should be considered for the prevention of herpes zoster virus reactivation.
-
 Special populations
 Renal impairment
 No formal studies of daratumumab in patients with renal impairment have been conducted.
@@ -168,3 +168,81 @@ Method of administration
 DARZALEX is for intravenous use.
 It is administered as an intravenous infusion following dilution with sodium chloride 9 mg/mL (0.9%) solution for injection.
 For instructions on dilution of the medicinal product before administration, see section 6.6.
+
+[DARZALEX 1,800 mg solution for injection.]
+
+DARZALEX subcutaneous formulation is not intended for intravenous administration and should be given by subcutaneous injection only, using the doses specified.
+
+DARZALEX should be administered by a healthcare professional, and the first dose should be administered in an environment where resuscitation facilities are available.
+
+It is important to check the vial labels to ensure that the appropriate formulation (intravenous or subcutaneous formulation) and dose is being given to the patient as prescribed.
+For patients currently receiving daratumamab intravenous formulation, DARZALEX solution for subcutaneous injection may be used as an alternative to the intravenous daratumumab formulation starting at the next scheduled dose.
+
+Pre- and post-injection medicinal products should be administered to reduce the risk of infusion-related reactions (IRRs) with daratumumab.
+See below “Recommended concomitant medicinal products” and section 4.4.
+
+The recommended dose is 1,800 mg of DARZALEX solution for subcutaneous injection administered over approximately 3-5 minutes according to the following dosing schedule in Table 1.
+
+For dose and schedule of medicinal products administered with DARZALEX solution for subcutaneous injection, see section 5.1 and the corresponding Summary of Product Characteristics.
+
+The recommended dose is 1,800 mg of DARZALEX solution for subcutaneous injection administered over approximately 3-5 minutes according to the following dosing schedule in Table 2.
+
+For information on the VMP dose and dosing schedule when administered with DARZALEX solution for subcutaneous injection, see section 5.1.
+
+The recommended dose is 1,800 mg of DARZALEX solution for subcutaneous injection administered over approximately 3-5 minutes according to the following dosing schedule in Table 3.
+
+The recommended dose is 1,800 mg of DARZALEX solution for subcutaneous injection administered over approximately 3-5 minutes according to the following dosing schedule in Table 4.
+
+Missed dose
+
+In clinical studies, no modification to rate or dose of DARZALEX solution for subcutaneous injection was required to manage IRRs.
+
+Recommended concomitant medicinal products
+
+Pre-injection medicinal product
+Pre-injection medicinal products (oral or intravenous) should be administered to reduce the risk of IRRs to all patients 1-3 hours prior to every administration of DARZALEX solution for subcutaneous injection as follows:
+
+Methylprednisolone 100 mg, or equivalent.
+Following the second injection, the dose of corticosteroid may be reduced to methylprednisolone 60 mg.
+
+Dexamethasone 20 mg (or equivalent), administered prior to every DARZALEX solution for subcutaneous injection.
+When dexamethasone is the background-regimen specific corticosteroid, the dexamethasone treatment dose will instead serve as pre-injection medicinal product on DARZALEX administration days (see section 5.1).
+Additional background regimen specific corticosteroids (e.g. prednisone) should not be taken on DARZALEX administration days when patients have received dexamethasone (or equivalent) as a pre-injection medicinal product.
+
+- Antipyretics (paracetamol 650 to 1,000 mg).
+
+Post-injection medicinal product
+Post-injection medicinal products should be administered to reduce the risk of delayed IRRs as follows:
+
+Oral corticosteroid (20 mg methylprednisolone or equivalent dose of an intermediate-acting or long-acting corticosteroid in accordance with local standards) should be administered on each of the two days following all injections (beginning the day after the injection).
+
+Consider administering low-dose oral methylprednisolone (≤20 mg) or equivalent the day after the DARZALEX injection.
+However, if a background regimen specific corticosteroid (e.g. dexamethasone, prednisone) is administered the day after the DARZALEX injection, additional post-injection medicinal products may not be needed (see section 5.1).
+
+If the patient experiences no major IRRs after the first three injections, post-injection corticosteroids (excluding any background regimen corticosteroids) may be discontinued.
+
+Additionally, for patients with a history of chronic obstructive pulmonary disease, the use of post-injection medicinal products including short and long acting bronchodilators, and inhaled corticosteroids should be considered.
+Following the first four injections, if the patient experiences no major IRRs, these inhaled post-injection medicinal products may be discontinued at the discretion of the physician.
+
+No dosage adjustments are necessary for patients with hepatic impairment (see section 5.2).
+
+Body weight (>120 kg)
+Limited number of patients with body weight >120 kg have been studied using flat-dose (1,800 mg) DARZALEX solution for subcutaneous injection and efficacy in these patients has not been established.
+No dose adjustment based on body weight can currently be recommended (see sections 4.4 and 5.2).
+
+See section 6.6 for special precautions prior to administration.
+
+To avoid needle clogging, attach the hypodermic injection needle or subcutaneous infusion set to the syringe immediately prior to injection.
+
+Inject 15 mL DARZALEX solution for subcutaneous injection into the subcutaneous tissue of the abdomen approximately 7.5 cm to the right or left of the navel over approximately
+3-5 minutes.
+Do not inject DARZALEX solution for subcutaneous injection at other sites of the body as no data are available.
+
+Injection sites should be rotated for successive injections.
+
+DARZALEX solution for subcutaneous injection should never be injected into areas where the skin is red, bruised, tender, hard or areas where there are scars.
+
+Pause or slow down delivery rate if the patient experiences pain.
+In the event pain is not alleviated by slowing down the injection, a second injection site may be chosen on the opposite side of the abdomen to deliver the remainder of the dose.
+
+During treatment with DARZALEX solution for subcutaneous injection, do not administer other medicinal products for subcutaneous use at the same site as DARZALEX.

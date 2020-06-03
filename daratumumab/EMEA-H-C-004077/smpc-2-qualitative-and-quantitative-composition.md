@@ -9,3 +9,9 @@ Excipients with known effect
 Each 5 mL and 20 mL vial of DARZALEX contains 0.4 mmol and 1.6 mmol (9.3 mg and 37.3 mg) sodium, respectively.
 
 For the full list of excipients, see section 6.1.
+
+[DARZALEX 1,800 mg solution for injection.]
+
+Each 15 mL vial of solution for injection contains 1,800 mg of daratumumab (120 mg daratumumab per mL).
+
+Each 15 mL vial of solution for injection contains 735.1 mg of sorbitol (E420).

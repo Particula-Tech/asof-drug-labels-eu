@@ -15,5 +15,12 @@ Maternal IgG is excreted in human milk, but does not enter the neonatal and infa
 
 The effect of daratumumab on newborns/infants is unknown.
 A decision should be made whether to discontinue breast-feeding or to discontinue DARZALEX therapy taking into account the benefit of breast feeding for the child and the benefit of therapy for the woman.
+
 Fertility
 No data are available to determine potential effects of daratumumab on fertility in males or females (see section 5.3).
+
+[DARZALEX 1,800 mg solution for injection.]
+
+Maternal IgG is excreted in human milk, but does not enter the neonatal and newborn/infant circulations in substantial amounts as they are degraded in the gastrointestinal tract and not absorbed.
+
+A decision should be made whether to discontinue breast-feeding or to discontinue DARZALEX therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.

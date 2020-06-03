@@ -19,6 +19,7 @@ DARZALEX infusion should be interrupted for IRRs of any severity and medical man
 For patients with Grade 1, 2, or 3 IRRs, the infusion rate should be reduced when re-starting the infusion.
 If an anaphylactic reaction or life-threatening (Grade 4) infusion reaction occurs, appropriate emergency resuscitation should be initiated immediately.
 DARZALEX therapy should be discontinued immediately and permanently (see sections 4.2 and 4.3).
+
 To reduce the risk of delayed IRRs, oral corticosteroids should be administered to all patients following DARZALEX infusions.
 Additionally the use of post-infusion medications (e.g. inhaled corticosteroids, short and long acting bronchodilators) should be considered for patients with a history of chronic obstructive pulmonary disease to manage respiratory complications should they occur (see section 4.2).
 
@@ -62,3 +63,38 @@ This corresponds to 0.46% and 1.86% of the WHO recommended maximum daily intake 
 
 Traceability
 In order to improve the traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded.
+
+[DARZALEX 1,800 mg solution for injection.]
+
+DARZALEX solution for subcutaneous injection can cause severe and/or serious IRRs, including anaphylactic reactions.
+In clinical studies, approximately 11% (52/490) of patients experienced an IRR.
+Most IRRs occurred following the first injection and were Grade 1-2.
+IRRs occurring with subsequent injections were seen in less than 1% of patients (see section 4.8).
+
+The median time to onset of IRRs following DARZALEX injection was 3.7 hours (range 0.15-83 hours).
+The majority of IRRs occurred on the day of treatment.
+Delayed IRRs have occurred in less than 1% of patients.
+
+Signs and symptoms of IRRs may include respiratory symptoms, such as nasal congestion, cough, throat irritation, allergic rhinitis, wheezing as well as pyrexia, chest pain, pruritis, chills, vomiting, nausea, and hypotension.
+Severe reactions have occurred, including bronchospasm, hypoxia, dyspnoea, hypertension and tachycardia (see section 4.8).
+
+Patients should be pre-medicated with antihistamines, antipyretics, and corticosteroids as well as monitored and counselled regarding IRRs, especially during and following the first and second injections.
+If an anaphylactic reaction or life-threatening (Grade 4) reactions occur, appropriate emergency care should be initiated immediately.
+
+To reduce the risk of delayed IRRs, oral corticosteroids should be administered to all patients following DARZALEX injection (see section 4.2).
+Patients with a history of chronic obstructive pulmonary disease may require additional post-injection medicinal products to manage respiratory complications.
+The use of post-injection medicinal products (e.g. short- and long-acting bronchodilators and inhaled corticosteroids) should be considered for patients with chronic obstructive pulmonary disease (see section 4.2).
+
+Complete blood cell counts should be monitored periodically during treatment according to manufacturer’s prescribing information for background therapies.
+Patients with neutropenia should be monitored for signs of infection.
+In lower body weight patients receiving DARZALEX subcutaneous formulation, higher rates of neutropenia were observed; however, this was not associated with higher rates of serious infections.
+
+Daratumumab-mediated positive indirect Coombs test may persist for up to 6 months after the last daratumumab administration.
+
+Body weight (>120 kg)
+There is a potential for reduced efficacy with DARZALEX solution for subcutaneous injection in patients with body weight >120 kg (see sections 4.2 and 5.2).
+
+This medicinal product contains sorbitol (E420).
+Patients with rare hereditary fructose intolerance (HFI) should not take this medicinal product (see section 2).
+
+This medicinal product also contains less than 1 mmol (23 mg) sodium per dose, that is to say essentially ‘sodium-free’.

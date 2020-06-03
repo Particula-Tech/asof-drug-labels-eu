@@ -18,3 +18,7 @@ Interference with Serum Protein Electrophoresis and Immunofixation Tests
 Daratumumab may be detected on serum protein electrophoresis (SPE) and immunofixation (IFE) assays used for monitoring disease monoclonal immunoglobulins (M protein).
 This can lead to false positive SPE and IFE assay results for patients with IgG kappa myeloma protein impacting initial assessment of complete responses by International Myeloma Working Group (IMWG) criteria.
 In patients with persistent very good partial response, where daratumumab interference is suspected, consider using a validated daratumumab-specific IFE assay to distinguish daratumumab from any remaining endogenous M protein in the patient’s serum, to facilitate determination of a complete response.
+
+[DARZALEX 1,800 mg solution for injection.]
+
+Clinical pharmacokinetic assessments with daratumumab and lenalidomide, pomalidomide, thalidomide, bortezomib, melphalan, prednisone, carfilzomib and dexamethasone indicated no clinically-relevant drug-drug interaction between daratumumab and these small molecule medicinal products.
