@@ -9,10 +9,7 @@ Clinical efficacy in patients with the G970R mutation of the CFTR gene could not
 Efficacy results from a Phase 2 study in patients with CF who are homozygous for the F508del mutation in the CFTR gene showed no statistically significant difference in FEV1 over 16 weeks of ivacaftor treatment compared to placebo (see section 5.1).
 Therefore, use of Kalydeco monotherapy in these patients is not recommended.
 
-Efficacy was not demonstrated in patients aged 6 to 11 years with CF who have an R117H mutation while only two adolescent patients were enrolled in study 6 (see section 5.1).
-
-Less evidence of a positive effect of ivacaftor has been shown for patients with an R117H-7T mutation associated with less severe disease (see section 5.1).
-Whenever possible the phase of the poly-T variant identified with the R117H mutation should be determined as this may be informative in considering treatment of patients with an R117H mutation (see section 4.2).
+Less evidence of a positive effect of ivacaftor has been shown for patients with an R117H-7T mutation associated with less severe disease in study 6 (see section 5.1).
 
 Kalydeco in combination with tezacaftor/ivacaftor should not be prescribed in patients with CF who are heterozygous for the F508del mutation and have a second CFTR mutation not listed in section 4.1.
 
@@ -40,10 +37,12 @@ See section 4.5 for interactions with ciclosporin or tacrolimus.
 Interactions with medicinal products
 
 CYP3A inducers
+
 Exposure to ivacaftor may be reduced by the concomitant use of CYP3A inducers, potentially resulting in the loss of ivacaftor efficacy.
 Therefore, co-administration of Kalydeco (monotherapy or in combination with tezacaftor/ivacaftor) with strong CYP3A inducers is not recommended (see section 4.5).
 
 CYP3A inhibitors
+
 The dose of Kalydeco (monotherapy or in combination with tezacaftor/ivacaftor) must be adjusted when used concomitantly with strong or moderate CYP3A inhibitors (see sections 4.2 and 4.5).
 
 Cataracts

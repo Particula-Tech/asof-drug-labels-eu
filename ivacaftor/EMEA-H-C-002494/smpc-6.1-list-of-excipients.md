@@ -9,7 +9,6 @@ Croscarmellose sodium
 Sodium laurilsulfate (E487)
 Silica, colloidal anhydrous
 Magnesium stearate
-
 Tablet film coat
 
 Polyvinyl alcohol

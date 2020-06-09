@@ -7,12 +7,13 @@ In vitro studies showed that ivacaftor is not a substrate for P-gp.
 Medicinal products affecting the pharmacokinetics of ivacaftor
 
 CYP3A inducers
+
 Co-administration of ivacaftor with rifampicin, a strong CYP3A inducer, decreased ivacaftor exposure (AUC) by 89% and decreased hydroxymethyl ivacaftor (M1) to a lesser extent than ivacaftor.
 Co-administration of Kalydeco (as monotherapy or in a combination regimen with tezacaftor/ivacaftor) with strong CYP3A inducers, such as rifampicin, rifabutin, phenobarbital, carbamazepine, phenytoin and St. John’s wort (Hypericum perforatum), is not recommended (see section 4.4).
 
 No dose adjustment is recommended when Kalydeco (as monotherapy or in a combination regimen with tezacaftor/ivacaftor) is used with moderate or weak CYP3A inducers.
-
 CYP3A inhibitors
+
 Ivacaftor is a sensitive CYP3A substrate.
 Co-administration with ketoconazole, a strong CYP3A inhibitor, increased ivacaftor exposure (measured as area under the curve [AUC]) by 8.5-fold and increased M1 to a lesser extent than ivacaftor.
 A reduction of the Kalydeco dose (as monotherapy or in a combination regimen with tezacaftor/ivacaftor) is recommended for co-administration with strong CYP3A inhibitors, such as ketoconazole, itraconazole, posaconazole, voriconazole, telithromycin and clarithromycin (see sections 4.2 and 4.4).
@@ -24,27 +25,30 @@ Co-administration of ivacaftor with grapefruit juice, which contains one or more
 Food or drink containing grapefruit or Seville oranges should be avoided during treatment with Kalydeco (as monotherapy or in a combination regimen with tezacaftor/ivacaftor, see section 4.2).
 
 Ciprofloxacin
+
 Co-administration of ciprofloxacin with ivacaftor did not affect the exposure of ivacaftor.
 No dose adjustment is required when Kalydeco (as monotherapy or in a combination regimen with tezacaftor/ivacaftor) is co-administered with ciprofloxacin.
 
-Medicinal products affected by ivacaftor:
+Medicinal products affected by ivacaftor
 
 Administration of ivacaftor may increase systemic exposure of medicinal products that are sensitive substrates of CYP2C9, and/or P-gp, and/or CYP3A which may increase or prolong their therapeutic effect and adverse reactions.
 
 CYP2C9 substrates
+
 Ivacaftor may inhibit CYP2C9.
 Therefore, monitoring of the international normalised ratio (INR) is recommended during co-administration of warfarin with Kalydeco (as monotherapy or in a combination regimen with tezacaftor/ivacaftor).
 Other medicinal products for which exposure may be increased include glimepiride and glipizide; these medicinal products should be used with caution.
 
 Digoxin and other P-gp substrates
+
 Co-administration with digoxin, a sensitive P-gp substrate, increased digoxin exposure by 1.3-fold, consistent with weak inhibition of P-gp by ivacaftor.
 Administration of Kalydeco (as monotherapy or in a combination regimen with tezacaftor/ivacaftor) may increase systemic exposure of medicinal products that are sensitive substrates of P-gp, which may increase or prolong their therapeutic effect and adverse reactions.
 When used concomitantly with digoxin or other substrates of P-gp with a narrow therapeutic index, such as ciclosporin, everolimus, sirolimus or tacrolimus, caution and appropriate monitoring should be used.
 
 CYP3A substrates
+
 Co-administration with (oral) midazolam, a sensitive CYP3A substrate, increased midazolam exposure 1.5-fold, consistent with weak inhibition of CYP3A by ivacaftor.
 No dose adjustment of CYP3A substrates, such as midazolam, alprazolam, diazepam or triazolam, is required when these are co-administered with ivacaftor (as monotherapy or in a combination regimen with tezacaftor/ivacaftor).
-
 Hormonal contraceptives
 
 Ivacaftor (as monotherapy or in a combination regimen with tezacaftor/ivacaftor) has been studied with an oestrogen/progesterone oral contraceptive and was found to have no significant effect on the exposures of the oral contraceptive.

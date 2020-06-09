@@ -1,6 +1,8 @@
 # 5.2 Pharmacokinetic properties
 
-The pharmacokinetics of ivacaftor are similar between healthy adult volunteers and patients with CF. After oral administration of a single 150 mg dose to healthy volunteers in a fed state, the mean (± SD) for AUC and Cmax were 10600 (5260) ng*hr/mL and 768 (233) ng/mL, respectively.
+The pharmacokinetics of ivacaftor are similar between healthy adult volunteers and patients with CF.
+
+After oral administration of a single 150 mg dose to healthy volunteers in a fed state, the mean (± SD) for AUC and Cmax were 10600 (5260) ng*hr/mL and 768 (233) ng/mL, respectively.
 After every 12-hour dosing, steady-state plasma concentrations of ivacaftor were reached by days 3 to 5, with an accumulation ratio ranging from 2.2 to 2.9.
 
 Absorption
@@ -45,11 +47,13 @@ After oral administration of ivacaftor 150 mg every 12 hours in combination with
 After steady-state dosing of ivacaftor in combination with tezacaftor in CF patients, the mean (SD) terminal half-life of ivacaftor was approximately 9.3 (1.7) hours.
 
 Linearity/non-linearity
+
 The pharmacokinetics of ivacaftor are generally linear with respect to time or dose ranging from 25 mg to 250 mg.
 
 Special populations
 
 Hepatic impairment
+
 Following a single dose of 150 mg of ivacaftor, adult subjects with moderately impaired hepatic function (Child-Pugh Class B, score 7 to 9) had similar ivacaftor Cmax (mean [± SD] of 735
 [331] ng/mL) but an approximately two-fold increase in ivacaftor AUC0-∞ (mean [± SD] of 16800 [6140] ng*hr/mL) compared with healthy subjects matched for demographics.
 Simulations for predicting the steady-state exposure of ivacaftor showed that by reducing the dosage from 150 mg q12h to 150 mg once daily, adults with moderate hepatic impairment would have comparable steady-state Cmin values as those obtained with a dose of 150 mg q12h in adults without hepatic impairment.
@@ -65,6 +69,7 @@ The use of Kalydeco monotherapy or in combination with tezacaftor/ivacaftor in p
 No dose adjustment is considered necessary for patients with mild hepatic impairment.
 
 Renal impairment
+
 Pharmacokinetic studies have not been performed with ivacaftor in patients with renal impairment, either as monotherapy or in a combination regimen with tezacaftor/ivacaftor.
 In a human pharmacokinetic study with ivacaftor monotherapy, there was minimal elimination of ivacaftor and its metabolites in urine (only 6.6% of total radioactivity was recovered in the urine).
 There was negligible urinary excretion of ivacaftor as unchanged parent (less than 0.01% following a single oral dose of 500 mg).
@@ -73,6 +78,7 @@ No dose adjustments are recommended for mild and moderate renal impairment.
 Caution is recommended when administering ivacaftor, either as monotherapy or in combination with tezacaftor, to patients with severe renal impairment (creatinine clearance less than or equal to 30 mL/min) or end-stage renal disease (see sections 4.2 and 4.4).
 
 Race
+
 Race had no clinically meaningful effect on the PK of ivacaftor in white (n = 379) and non-white
 (n = 29) patients based on a population PK analysis.
 
@@ -80,7 +86,9 @@ Gender
 The pharmacokinetic parameters of ivacaftor, either as monotherapy or in combination with tezacaftor, are similar in males and females.
 
 Elderly
+
 Clinical studies of ivacaftor monotherapy did not include sufficient numbers of patients age 65 years and older to determine whether pharmacokinetic parameters are similar or not to those in younger adults.
+
 Clinical studies of ivacaftor in combination regimen with tezacaftor did not include patients over 75 years of age.
 The pharmacokinetic parameters of ivacaftor in combination with tezacaftor in the elderly patients (65-72 years) are comparable to those in younger adults.
 
@@ -108,7 +116,6 @@ Table 7: Mean (SD) ivacaftor exposure by age group
 
 The pharmacokinetic parameters of ivacaftor in combination with tezacaftor in adolescent patients
 (12 to 17 year-olds) are comparable to those in adults (see Table 8).
-
 Table 8: Mean (SD) of ivacaftor exposure when used in combination with tezacaftor, by age group
 
 | Age group | Dose | Ivacaftor Mean (SD) Cmin, ss (ng/mL) | Ivacaftor Mean (SD) AUCτ,ss (ng*h/mL) |
@@ -118,9 +125,7 @@ Table 8: Mean (SD) of ivacaftor exposure when used in combination with tezacafto
 
 [Kalydeco 25 mg granules in sachet]
 
-The pharmacokinetics of ivacaftor are similar between healthy adult volunteers and patients with CF.
-
-After oral administration of a single 150 mg dose to healthy volunteers in a fed state, the mean (± SD) for AUC and Cmax were 10600 (5260) ng*hr/mL and 768 (233) ng/mL, respectively.
+The pharmacokinetics of ivacaftor are similar between healthy adult volunteers and patients with CF. After oral administration of a single 150 mg dose to healthy volunteers in a fed state, the mean (± SD) for AUC and Cmax were 10600 (5260) ng*hr/mL and 768 (233) ng/mL, respectively.
 
 Ivacaftor should be administered with fat-containing food.
 
@@ -129,6 +134,7 @@ After oral administration of ivacaftor 150 mg every 12 hours for 7 days in healt
 The apparent clearance (CL/F) of ivacaftor was similar for healthy subjects and patients with CF. The mean (±SD) CL/F for a single 150 mg dose was 17.3 (8.4) L/hr in healthy subjects.
 
 Based on these results, a modified regimen of Kalydeco monotherapy is recommended for patients with moderate hepatic impairment (see section 4.2)
+
 The impact of severe hepatic impairment (Child Pugh Class C, score 10 to15) on the pharmacokinetics of ivacaftor have not been studied.
 The use of Kalydeco in patients with severe hepatic impairment is therefore not recommended unless the benefits outweigh the risks (see section 4.2 and section 4.4).
 

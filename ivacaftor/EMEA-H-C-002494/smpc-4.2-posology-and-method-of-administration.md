@@ -7,17 +7,21 @@ The phase of the poly-T variant identified with the R117H mutation should be det
 Posology
 
 Kalydeco monotherapy in adults, adolescents, and children aged 6 years and older and weighing 25 kg or more
+
 The recommended dose is one Kalydeco 150 mg tablet taken orally every 12 hours (300 mg total daily dose) with fat-containing food (see Method of administration).
 Kalydeco in a combination regimen with tezacaftor/ivacaftor in adults and adolescents aged 12 years and older
+
 The recommended dose is one tezacaftor 100 mg/ivacaftor 150 mg tablet taken in the morning and one Kalydeco 150 mg tablet taken in the evening, approximately 12 hours apart with fat-containing food (see Method of administration).
 
 Missed dose
+
 If a dose is missed within 6 hours of the time it is usually taken, the patient should be told to take it as soon as possible and then take the next dose at the regularly scheduled time.
 If more than 6 hours have passed since the time the dose is usually taken, the patient should be told to wait until the next scheduled dose.
 
 Patients receiving Kalydeco in combination with tezacaftor/ivacaftor should be told not to take more than one dose of either tablet at the same time.
 
 Concomitant use of CYP3A inhibitors
+
 Kalydeco monotherapy
 
 When co-administered with strong inhibitors of CYP3A, the Kalydeco dose should be reduced to 150 mg twice a week (see sections 4.4 and 4.5).
@@ -25,6 +29,7 @@ When co-administered with strong inhibitors of CYP3A, the Kalydeco dose should b
 When co-administered with moderate inhibitors of CYP3A, the Kalydeco dose should be reduced to 150 mg once daily (see sections 4.4 and 4.5).
 
 Kalydeco in a combination regimen with tezacaftor/ivacaftor
+
 When co-administered with strong inhibitors of CYP3A, the Kalydeco evening dose should not be administered (see sections 4.4 and 4.5).
 One tablet of tezacaftor 100 mg/ivacaftor 150 mg should be taken twice a week, taken approximately 3 to 4 days apart.
 
@@ -45,14 +50,17 @@ Table 1: Dosing recommendations for concomitant use with moderate CYP3A inhibito
 Special populations
 
 Elderly
+
 Very limited data are available for elderly patients treated with ivacaftor (administered as monotherapy or in a combination regimen with tezacaftor/ivacaftor).
 No dose adjustment is considered necessary unless moderate hepatic impairment exists.
 Caution is recommended for patients with severe renal impairment or end-stage renal disease (see section 5.2).
-
 Renal impairment
+
 No dose adjustment is necessary for patients with mild to moderate renal impairment.
 Caution is recommended in patients with severe renal impairment (creatinine clearance less than or equal to 30 mL/min) or end-stage renal disease (see sections 4.4 and 5.2).
+
 Hepatic impairment
+
 No dose adjustment is necessary for patients with mild hepatic impairment (Child-Pugh Class A). For patients with moderate hepatic impairment (Child-Pugh Class B), the dose should be reduced (see Table 2).
 There is no experience of the use of Kalydeco monotherapy or in combination with tezacaftor/ivacaftor in patients with severe hepatic impairment.
 Therefore, its use is not recommended unless the benefits outweigh the risks (see Table 2 and sections 4.4 and 5.2).
@@ -67,13 +75,13 @@ Table 2: Dosing recommendations for patients with hepatic impairment for Kalydec
 
 Paediatric population
 
-The safety and efficacy of Kalydeco monotherapy in children aged less than 6 months with a gating (class III) mutation have not been established.
+The safety and efficacy of Kalydeco monotherapy in children aged less than 6 months have not been established.
 No data are available.
 
 An appropriate dose for children under 6 years of age and weighing less than 25 kg cannot be achieved with Kalydeco tablets.
 
-The efficacy of Kalydeco monotherapy in patients less than 18 years of age with an R117H mutation in the CFTR gene has not been established.
-Currently available data are described in sections 4.4, 4.8 and 5.1, but no recommendation on a posology can be made.
+Limited data are available in patients less than 6 years of age with an R117H mutation in the CFTR gene.
+Available data in patients aged 6 years and older are described in sections 4.8, 5.1 and 5.2.
 
 The safety and efficacy of Kalydeco in a combination regimen with tezacaftor/ivacaftor in children aged less than 12 years have not been established.
 No data are available.
@@ -116,6 +124,7 @@ Dosing intervals should be modified according to clinical response and tolerabil
 The safety and efficacy of Kalydeco in children aged less than 6 months have not been established.
 
 Each sachet is for single use only.
+
 Each sachet of granules should be mixed with 5 mL of age-appropriate soft food or liquid and completely and immediately consumed.
 Food or liquid should be at room temperature or below.
 If not immediately consumed, the mixture has been shown to be stable for one hour and therefore should be ingested during this period.

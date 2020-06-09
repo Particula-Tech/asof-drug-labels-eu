@@ -1,6 +1,7 @@
 # 5.3 Preclinical safety data
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, and carcinogenic potential.
+
 Pregnancy and fertility
 
 Ivacaftor was associated with slight decreases of the seminal vesicle weights, a decrease of overall fertility index and number of pregnancies in females mated with treated males and significant reductions in number of corpora lutea and implantation sites with subsequent reductions in the average litter size and average number of viable embryos per litter in treated females.

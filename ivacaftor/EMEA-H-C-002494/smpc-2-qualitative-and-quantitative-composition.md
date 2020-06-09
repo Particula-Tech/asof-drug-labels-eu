@@ -3,6 +3,7 @@
 Each film-coated tablet contains 150 mg of ivacaftor.
 
 Excipient with known effect
+
 Each film-coated tablet contains 167.2 mg of lactose (as monohydrate)
 
 For the full list of excipients, see section 6.1.

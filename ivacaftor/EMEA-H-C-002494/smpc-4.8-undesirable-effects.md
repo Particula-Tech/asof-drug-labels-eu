@@ -10,6 +10,7 @@ In patients aged 2 to less than 6 years the most common adverse reactions were n
 Serious adverse reactions in patients who received ivacaftor included abdominal pain and transaminase elevations (see section 4.4).
 
 Tabulated list of adverse reactions
+
 Table 3 reflects the adverse reactions observed with ivacaftor monotherapy in clinical trials (placebo-controlled and uncontrolled studies) in which the length of exposure to ivacaftor ranged from 16 weeks to 144 weeks.
 Additional adverse reactions observed with ivacaftor in combination with tezacaftor/ivacaftor are also provided in Table 3.
 The frequency of adverse reactions is defined as follows: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
@@ -47,12 +48,12 @@ Table 3: Adverse reactions in patients treated with ivacaftor monotherapy or in 
 | Investigations | Bacteria in sputum | very common |
 
 * Adverse reaction and frequency reported only in clinical studies with ivacaftor in combination with tezacaftor/ivacaftor.
-
 Description of selected adverse reactions
 
 Hepatobiliary disorders
 
 Transaminase elevations
+
 During the 48-week placebo-controlled studies 1 and 2 of ivacaftor monotherapy in patients aged 6 years and older, the incidence of maximum transaminase (ALT or AST) > 8, > 5 or > 3 x ULN was 3.7%, 3.7% and 8.3% in ivacaftor-treated patients and 1.0%, 1.9% and 8.7% in placebo-treated patients, respectively.
 Two patients, one on placebo and one on ivacaftor permanently discontinued treatment for elevated transaminases, each > 8 x ULN.
 No ivacaftor-treated patients experienced a transaminase elevation > 3 x ULN associated with elevated total bilirubin > 1.5 x ULN.
@@ -85,7 +86,6 @@ During the 24-week, open-label, Phase 3 clinical study of ivacaftor in patients 
 In the cohort of patients aged 6 months to less than 12 months one patient (9.1%) had elevated ALT of > 3 to ≤5 x ULN.
 No patients had elevations in total bilirubin or discontinued ivacaftor treatment due to transaminase elevations in either cohort.
 The two patients with elevations of ALT or AST > 8 x ULN interrupted treatment and subsequently resumed ivacaftor successfully (see section 4.4 for management of elevated transaminases).
-
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
