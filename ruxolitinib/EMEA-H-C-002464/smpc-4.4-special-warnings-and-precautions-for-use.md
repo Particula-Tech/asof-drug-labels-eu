@@ -58,7 +58,6 @@ Lipid abnormalities/elevations
 
 Treatment with Jakavi has been associated with increases in lipid parameters including total cholesterol, high-density lipoprotein (HDL) cholesterol, low-density lipoprotein (LDL) cholesterol, and triglycerides.
 Lipid monitoring and treatment of dyslipidaemia according to clinical guidelines is recommended.
-
 Special populations
 
 Renal impairment
@@ -75,8 +74,7 @@ Interactions
 
 If Jakavi is to be co-administered with strong CYP3A4 inhibitors or dual inhibitors of CYP3A4 and CYP2C9 enzymes (e.g. fluconazole), the unit dose of Jakavi should be reduced by approximately 50%, to be administered twice daily (for monitoring frequency see sections 4.2 and 4.5).
 
-The concomitant use of cytoreductive therapies or haematopoietic growth factors with Jakavi has not been studied.
-The safety and efficacy of these co-administrations are not known (see section 4.5).
+The concomitant use of cytoreductive therapies with Jakavi was associated with manageable cytopenias (see section 4.2 for dose modifications during cytopenias).
 
 Withdrawal effects
 

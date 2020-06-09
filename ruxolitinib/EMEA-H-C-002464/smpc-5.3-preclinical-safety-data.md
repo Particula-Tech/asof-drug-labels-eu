@@ -7,6 +7,14 @@ Adverse decreases in blood pressure along with increases in heart rate were note
 The margins (based on unbound Cmax) at the non-adverse level in the dog and rat studies were 15.7-fold and 10.4-fold greater, respectively, than the maximum human recommended dose of 25 mg twice daily.
 No effects were noted in an evaluation of the neuropharmacological effects of ruxolitinib.
 
+In juvenile rat studies, administration of ruxolitinib resulted in effects on growth and bone measures.
+Reduced bone growth was observed at doses ≥5 mg/kg/day when treatment started on postnatal day 7 (comparable to human newborn) and at ≥15 mg/kg/day when treatment started on postnatal days 14 or 21 (comparable to human infant, 1–3 years).
+Fractures and early termination of rats were observed at doses ≥30 mg/kg/day when treatment was started on postnatal day 7.
+Based on unbound AUC, the exposure at the NOAEL (no observed adverse effect level) in juvenile rats treated as early as postnatal day 7 was 0.3-fold that of adult patients at 25 mg twice daily, while reduced bone growth and fractures occurred at exposures that were 1.5- and 13-fold that of adult patients at 25 mg twice daily, respectively.
+The effects were generally more severe when administration was initiated earlier in the postnatal period.
+Other than bone development, the effects of ruxolitinib in juvenile rats were similar to those in adult rats.
+Juvenile rats are more sensitive than adult rats to ruxolitinib toxicity.
+
 Ruxolitinib decreased foetal weight and increased post-implantation loss in animal studies.
 There was no evidence of a teratogenic effect in rats and rabbits.
 However, the exposure margins compared to the highest clinical dose were low and the results are therefore of limited relevance for humans.
