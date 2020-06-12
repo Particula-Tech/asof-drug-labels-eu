@@ -20,9 +20,9 @@ lymphatic system
 disorders
 Immune system Hypersensitivity
 disorders
-Metabolism and Decreased appetite
 Table 3. Adverse reactions listed by body system
 System Organ Class Very common Common Uncommon Not known
+Metabolism and Decreased appetite
 nutrition disorders
 Psychiatric Insomnia Anxiety Hallucinations
 disorders Agitation Euphoric mood
@@ -81,9 +81,9 @@ Neck pain
 Bone pain
 Renal and urinary Urinary retention
 disorders
-Reproductive Dysmenorrhoea
 Table 3. Adverse reactions listed by body system
 System Organ Class Very common Common Uncommon Not known
+Reproductive Dysmenorrhoea
 system and breast
 disorders
 General disorders Hyperhidrosis Injection site pain Injection site
