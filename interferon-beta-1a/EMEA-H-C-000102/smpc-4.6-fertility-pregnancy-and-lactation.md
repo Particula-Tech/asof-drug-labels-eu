@@ -2,29 +2,28 @@
 
 Pregnancy
 
-There is limited information on the use of AVONEX in pregnancy.
-Available data indicates that there may be an increased risk of spontaneous abortion.
-Initiation of treatment is contraindicated during pregnancy (see section 4.3).
+A large amount of data (more than 1000 pregnancy outcomes) from registries and post-marketing experience indicates no increased risk of major congenital anomalies after pre-conception exposure to interferon beta or such exposure during the first trimester of pregnancy.
+However, the duration of exposure during the first trimester is uncertain, because data were collected when interferon beta use was contraindicated during pregnancy, and treatment likely interrupted when pregnancy was detected and/or confirmed.
+Experience with exposure during the second and third trimester is very limited.
 
-Women of child-bearing potential have to take appropriate contraceptive measures.
-If the patient becomes pregnant or plans to become pregnant while taking AVONEX she should be informed of the potential hazards and discontinuation of therapy should be considered (see section 5.3).
-In patients with a high relapse rate before treatment started, the risk of a severe relapse following discontinuation of AVONEX in the event of pregnancy should be weighed against a possible increased risk of spontaneous abortion.
+Based on animal data (see section 5.3), there is a possibly increased risk for spontaneous abortion.
+The risk of spontaneous abortions in pregnant women exposed to interferon beta cannot adequately be evaluated based on the currently available data, but the data do not suggest an increased risk so far.
 
-Lactation
+If clinically needed, the use of Avonex may be considered during pregnancy.
 
-It is not known whether AVONEX is excreted in human milk.
-Because of the potential for serious adverse reactions in nursing infants, a decision should be made either to discontinue breast-feeding or AVONEX therapy.
+Breast-feeding
+
+Limited information available on the transfer of interferon beta-1a into breast milk, together with the chemical / physiological characteristics of interferon beta, suggests that levels of interferon beta-1a excreted in human milk are negligible.
+No harmful effects on the breastfed newborn/infant are anticipated.
+
+Avonex can be used during breast-feeding.
 
 Fertility
 
-Fertility and developmental studies in rhesus monkeys have been carried out with a related form of interferon beta-1a.
+Fertility and developmental studies in rhesus monkeys have been carried out with a related form of interferon beta 1a.
 At very high doses, anovulatory and abortifacient effects in test animals were observed (see section 5.3).
 No information is available on the effects of interferon beta-1a on male fertility.
 
-[AVONEX 30 micrograms/0.5 ml solution for injection.]
-
-Fertility and developmental studies in rhesus monkeys have been carried out with a related form of interferon beta 1a.
-
 [AVONEX 30 micrograms/0.5ml solution for injection in pre-filled pen.]
 
-(all sentences already above)
+Fertility and developmental studies in rhesus monkeys have been carried out with a related form of interferon beta-1a.

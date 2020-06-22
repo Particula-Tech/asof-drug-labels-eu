@@ -1,11 +1,16 @@
 # 4.4 Special warnings and precautions for use
 
+Traceability
+
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
 AVONEX should be administered with caution to patients with previous or current depressive disorders, in particular to those with antecedents of suicidal ideation (see section 4.3).
 Depression and suicidal ideation are known to occur in increased frequency in the multiple sclerosis population and in association with interferon use.
 Patients should be advised to immediately report any symptoms of depression and/or suicidal ideation to their prescribing physician.
 
 Patients exhibiting depression should be monitored closely during therapy and treated appropriately.
 Cessation of therapy with AVONEX should be considered (see also sections 4.3 and 4.8).
+
 AVONEX should be administered with caution to patients with a history of seizures, to those receiving treatment with anti-epileptics, particularly if their epilepsy is not adequately controlled with anti-epileptics (see sections 4.5 and 4.8).
 
 Caution should be used and close monitoring considered when administering AVONEX to patients with severe renal and hepatic failure and to patients with severe myelosuppression.
@@ -38,13 +43,6 @@ Patients may develop antibodies to AVONEX.
 The antibodies of some of those patients reduce the activity of interferon beta-1a in vitro (neutralising antibodies).
 Neutralising antibodies are associated with a reduction in the in vivo biological effects of AVONEX and may potentially be associated with a reduction of clinical efficacy.
 It is estimated that the plateau for the incidence of neutralising antibody formation is reached after 12 months of treatment.
-Data from patients treated up to two years with AVONEX suggests that approximately 8% develop neutralising antibodies.
-The use of various assays to detect serum antibodies to interferons limits the ability to compare antigenicity among different products.
-
-[AVONEX 30 micrograms/0.5 ml solution for injection.]
-
 Recent clinical studies with patients treated up to three years with AVONEX suggest that approximately 5% to 8% develop neutralising antibodies.
 
-[AVONEX 30 micrograms/0.5ml solution for injection in pre-filled pen.]
-
-(all sentences already above)
+The use of various assays to detect serum antibodies to interferons limits the ability to compare antigenicity among different products.

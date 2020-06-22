@@ -1,13 +1,5 @@
 # 6.4 Special precautions for storage
 
-Store below 25°C.
-
-DO NOT FREEZE the powder or the reconstituted product.
-
-For storage conditions after reconstitution of the medicinal product see section 6.3.
-
-[AVONEX 30 micrograms/0.5 ml solution for injection.]
-
 Store in a refrigerator (2°C - 8°C).
 
 DO NOT FREEZE.

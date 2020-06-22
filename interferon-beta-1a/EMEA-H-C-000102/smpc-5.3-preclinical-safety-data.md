@@ -2,7 +2,7 @@
 
 Carcinogenesis: No carcinogenicity data for interferon beta-1a are available in animals or humans.
 
-Chronic Toxicity: In a 26-week repeated-dose toxicity study in rhesus monkeys by intramuscular route once per week, administered in combination with another immunomodulating agent, an anti CD40 ligand monoclonal antibody, no immune response toward interferon beta-1a and no signs of toxicity were demonstrated.
+Chronic Toxicity: In a 26-week repeated dose toxicity study in rhesus monkeys by intramuscular route once per week, administered in combination with another immunomodulating agent, an anti CD40 ligand monoclonal antibody, no immune response toward interferon beta-1a and no signs of toxicity were demonstrated.
 
 Local Tolerance: Intramuscular irritation has not been evaluated in animals following repeated administration to the same injection site.
 
@@ -15,11 +15,3 @@ Similar reproductive dose-related effects have also been observed with other for
 No teratogenic effects or effects on foetal development have been observed, but the available information on the effects of interferon beta-1a in the peri- and postnatal periods is limited.
 
 No information is available on the effects of interferon beta-1a on male fertility.
-
-[AVONEX 30 micrograms/0.5 ml solution for injection.]
-
-Chronic Toxicity: In a 26-week repeated dose toxicity study in rhesus monkeys by intramuscular route once per week, administered in combination with another immunomodulating agent, an anti CD40 ligand monoclonal antibody, no immune response toward interferon beta-1a and no signs of toxicity were demonstrated.
-
-[AVONEX 30 micrograms/0.5ml solution for injection in pre-filled pen.]
-
-(all sentences already above)
