@@ -8,19 +8,16 @@ Consult the Summary of Product Characteristics for co-prescribed medicinal produ
 
 Severe bradycardia and heart block
 
-Cases of severe bradycardia and heart block have been observed when sofosbuvir-containing regimens are used in combination with amiodarone with or without other medicinal products that lower heart rate.
-The mechanism is not established.
+Life-threatening cases of severe bradycardia and heart block have been observed when sofosbuvir-containing regimens are used in combination with amiodarone.
+Bradycardia has generally occurred within hours to days, but cases with a longer time to onset have been observed mostly up to 2 weeks after initiating HCV treatment.
 
-The concomitant use of amiodarone was limited through the clinical development of sofosbuvir .
-Cases are potentially life threatening, therefore amiodarone should only be used in patients on Sovaldi when other alternative anti-arrhythmic treatments are not tolerated or are contraindicated.
-Patients also taking beta blockers, or those with underlying cardiac comorbidities and/or advanced liver disease may be at increased risk for symptomatic bradycardia with coadministration of amiodarone.
+Amiodarone should only be used in patients on Sovaldi when other alternative anti-arrhythmic treatments are not tolerated or are contraindicated.
 
-Should concomitant use of amiodarone be considered necessary it is recommended that patients are closely monitored when initiating Sovaldi.
-Patients who are identified as being at high risk of bradyarrhythmia should be continuously monitored for 48 hours in an appropriate clinical setting.
+Should concomitant use of amiodarone be considered necessary it is recommended that patients undergo cardiac monitoring in an in-patient setting for the first 48 hours of coadministration, after which outpatient or self-monitoring of the heart rate should occur on a daily basis through at least the first 2 weeks of treatment.
 
-Due to the long half-life of amiodarone, appropriate monitoring should also be carried out for patients who have discontinued amiodarone within the past few months and are to be initiated on Sovaldi.
+Due to the long half-life of amiodarone, cardiac monitoring as outlined above should also be carried out for patients who have discontinued amiodarone within the past few months and are to be initiated on Sovaldi.
 
-All patients receiving Sovaldi in combination with amiodarone with or without other medicinal products that lower heart rate should also be warned of the symptoms of bradycardia and heart block and should be advised to seek medical advice urgently should they experience them.
+All patients with concurrent or recent use of amiodarone should be warned of the symptoms of bradycardia and heart block and should be advised to seek medical advice urgently should they experience them.
 
 HCV/HBV (hepatitis B virus) co-infection
 

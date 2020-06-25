@@ -48,9 +48,7 @@ Baseline NS5B sequences were obtained for 1,292 patients from Phase 3 studies by
 In an analysis evaluating the effect of baseline polymorphisms on treatment outcome, no statistically significant association was observed between the presence of any HCV NS5B variant at baseline and treatment outcome.
 
 Paediatric population
-Baseline NS5B sequences were obtained for 47 patients in the Phase 2 study.
-Among these, one patient was found to have a NS5B RAV substitution (F289L).
-This patient achieved SVR12.
+The presence of NS5B RAVs did not impact treatment outcome; all patients with baseline NS5B nucleoside inhibitor RAVs achieved SVR following treatment with sofosbuvir.
 
 Cross-resistance
 
@@ -58,13 +56,15 @@ HCV replicons expressing the sofosbuvir-associated resistance substitution S282T
 Sofosbuvir retained activity against the
 NS5B substitutions L159F and L320F associated with resistance to other nucleoside inhibitors.
 Sofosbuvir was fully active against substitutions associated with resistance to other direct-acting antivirals with different mechanisms of actions, such as NS5B non-nucleoside inhibitors, NS3 protease inhibitors and NS5A inhibitors.
+
 Clinical efficacy and safety
 
 The efficacy of sofosbuvir was evaluated in five Phase 3 studies in a total of 1,568 adult patients with genotypes 1 to 6 chronic hepatitis C. One study was conducted in treatment-naïve patients with genotype 1, 4, 5 or 6 chronic hepatitis C in combination with peginterferon alfa 2a and ribavirin and the other four studies were conducted in patients with genotype 2 or 3 chronic hepatitis C in combination with ribavirin including one in treatment-naïve patients, one in interferon intolerant, ineligible or unwilling patients, one in patients previously treated with an interferon-based regimen, and one in all patients irrespective of prior treatment history or ability to receive treatment with interferon.
 Patients in these studies had compensated liver disease including cirrhosis.
 Sofosbuvir was administered at a dose of 400 mg once daily.
 The ribavirin dose was weight-based at 1,000-1,200 mg daily administered in two divided doses, and the peginterferon alfa 2a dose, where applicable, was 180 μg per week.
-Treatment duration was fixed in each study and was not guided by patients’ HCV RNA levels (no response guided algorithm).
+Treatment duration was fixed in each study and was not guided by patients’
+HCV RNA levels (no response guided algorithm).
 
 Plasma HCV RNA values were measured during the clinical studies using the COBAS TaqMan
 HCV test (version 2.0), for use with the High Pure System.
@@ -234,8 +234,7 @@ Table 14: SVR12 rates for selected subgroups by genotype in study FUSION
 Treatment-naïve and previously treated adults - VALENCE (study 133)
 VALENCE was a Phase 3 study that evaluated sofosbuvir in combination with weight-based ribavirin for the treatment of genotype 2 or 3 HCV infection in treatment-naïve patients or patients who did not achieve SVR with prior interferon-based treatment, including patients with compensated cirrhosis.
 The study was designed as a direct comparison of sofosbuvir and ribavirin versus placebo for 12 weeks.
-However, based on emerging data, the study was unblinded and all HCV genotype 2 patients continued to receive sofosbuvir and ribavirin for 12 weeks, whilst treatment for
-HCV genotype 3 patients was extended to 24 weeks.
+However, based on emerging data, the study was unblinded and all HCV genotype 2 patients continued to receive sofosbuvir and ribavirin for 12 weeks, whilst treatment for HCV genotype 3 patients was extended to 24 weeks.
 Eleven HCV genotype 3 patients had already completed treatment with sofosbuvir and ribavirin for 12 weeks at the time of the amendment.
 
 Treated patients (n = 419) had a median age of 51 years (range: 19 to 74); 60% of the patients were male; median body mass index was 25 kg/m2 (range: 17 to 44 kg/m2); the mean baseline HCV RNA level was 6.4 log10 IU/mL; 21% had cirrhosis; 78% had HCV genotype 3; 65% were prior relapsers.
@@ -473,12 +472,34 @@ Study 4062 was an open-label study that evaluated a fixed dose combination of so
 The SVR rate was 95% (56/59); of the three patients that did not achieve SVR12, one had completed sofosbuvir with velpatasvir treatment and relapsed.
 
 Paediatric population
-The efficacy of sofosbuvir in HCV-infected patients aged 12 to <18 years was evaluated in a Phase 2, open label clinical trial that enrolled 50 patients with genotype 2 (n = 13) or genotype 3 (n = 37) chronic HCV infection.
+The efficacy of sofosbuvir in HCV-infected patients aged 3 years and above was evaluated in a
+Phase 2, open label clinical trial that enrolled 106 patients with genotype 2 (n = 31) or genotype 3
+(n = 75) chronic HCV infection.
 Patients with HCV genotype 2 or 3 infection in the trial were treated with sofosbuvir with ribavirin for 12 or 24 weeks, respectively.
 
-Of the 50 treated patients, the median age was 15 years (range: 12 to 17); 42% of the patients were female; 90% were White, 4% were Black, and 2% were Asian; 4% were Hispanic/Latino; mean body mass index was 22 kg/m2 (range: 16 to 32 kg/m2); 18% were treatment experienced; 66% had baseline HCV RNA levels greater than or equal to 800,000 IU/mL; 74% of patients had non-CC IL28B alleles (CT or TT); and no patients had known cirrhosis.
+Patients aged 12 to < 18 Years:
+Sofosbuvir was evaluated in 52 patients 12 to < 18 years with genotype 2 (n = 13) or genotype 3 (n = 39) HCV infection.
+The median age was 15 years (range: 12 to 17); 40% of the patients were female; 90% were White, 4% were Black, and 2% were Asian; 4% were Hispanic/Latino; mean weight was 60.4 kg (range: 29.6 to 75.6 kg); 17% were treatment experienced; 65% had baseline HCV RNA levels greater than or equal to 800,000 IU/mL; and no patients had known cirrhosis.
 The majority of patients (69%) had been infected through vertical transmission.
+The SVR12 rate was 98% overall (100% [13/13] in genotype 2 patients and 97% [38/39]) in genotype 3 patients.
+No patient experienced on-treatment virologic failure or relapse; one patient with genotype 3 HCV infection achieved SVR4 but did not return for the SVR12 visit.
 
-The SVR12 rate was 100% (13/13) in genotype 2 patients and 97% (36/37) in genotype 3 patients.
-No patient experienced on-treatment virologic failure or relapse.
-One patient with genotype 3 HCV infection achieved SVR4 but did not return for the SVR12 visit.
+Patients aged 6 to < 12 Years:
+Sofosbuvir was evaluated in 41 patients 6 to < 12 years of age with genotype 2 (n = 13), or genotype 3 (n = 28) HCV infection.
+The median age was 9 years (range: 6 to 11); 73% of the patients were female; 71% were White and 20% were Asian; 15% were Hispanic/Latino; mean weight was 33.7 kg (range: 15.1 to 80.0 kg); 98% were treatment naive; 46% had baseline HCV RNA levels greater than or equal to 800,000 IU /mL; and no patients had known cirrhosis.
+The majority of patients (98%) had been infected through vertical transmission.
+
+The SVR12 rate was 100% (100% [13/13] in genotype 2 patients and 100% [28/28] in genotype 3 patients).
+No patients experienced on-treatment virologic failure or relapse.
+
+Patients aged 3 to < 6 Years:
+Sofosbuvir was evaluated in 13 patients 3 to < 6 years with genotype 2 (n = 5) or genotype 3 (n = 8) HCV infection.
+The median age was 4 years (range: 3 to 5); 77% of the patients were female; 69% were White, 8% were Black, and 8% were Asian; 8% were Hispanic/Latino; mean weight was 16.8 kg (range: 13.0 to 19.2 kg); 100% were treatment naive; 23% had baseline HCV RNA levels greater than or equal to 800,000 IU/mL; and no patients had known cirrhosis.
+The majority of patients (85%) had been infected through vertical transmission.
+
+The SVR12 rate was 92% overall (80% [4/5] in genotype 2 patients and 100% [8/8] in genotype 3 patients).
+No patients experienced on-treatment virologic failure or relapse; one patient with genotype 2 HCV prematurely discontinued study treatment after three days due to abnormal taste of the medication and did not return for post-treatment Week 12.
+
+[Sovaldi 150 mg coated granules in sachet]
+
+The efficacy of sofosbuvir in HCV-infected patients aged 3years and above was evaluated in a

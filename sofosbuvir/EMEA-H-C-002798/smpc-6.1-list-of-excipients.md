@@ -3,15 +3,28 @@
 Tablet core
 
 Mannitol (E421)
-Microcrystalline cellulose (E460(i))
+Microcrystalline cellulose
 Croscarmellose sodium
-Colloidal anhydrous silica (E551)
-Magnesium stearate (E470b)
+Colloidal anhydrous silica
+Magnesium stearate
 
 Film-coating
 
-Polyvinyl alcohol (E1203)
-Titanium dioxide (E171)
-Macrogol 3350 (E1521)
-Talc (E553b)
-Yellow iron oxide (E172)
+Polyvinyl alcohol
+Titanium dioxide
+Macrogol
+Talc
+Iron oxide yellow
+
+[Sovaldi 150 mg coated granules in sachet]
+
+Granule Cores
+Lactose monohydrate
+Hydroxypropyl cellulose
+Sodium stearyl fumarate
+
+Hypromellose
+Macrogol 400
+Amino methacrylate copolymer
+Stearic acid
+Sodium lauryl sulfate

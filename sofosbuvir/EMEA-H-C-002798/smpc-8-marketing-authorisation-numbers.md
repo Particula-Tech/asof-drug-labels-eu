@@ -2,3 +2,9 @@
 
 EU/1/13/894/001
 EU/1/13/894/002
+EU/1/13/894/003
+
+[Sovaldi 150 mg coated granules in sachet]
+
+EU/1/13/894/004
+EU/1/13/894/005

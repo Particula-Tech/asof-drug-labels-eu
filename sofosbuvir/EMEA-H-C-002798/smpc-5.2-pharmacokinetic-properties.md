@@ -61,35 +61,49 @@ The response rates observed for patients over 65 years of age were similar to th
 
 Renal impairment
 A summary of the effect of varying degrees of renal impairment (RI) on the exposures of sofosbuvir and GS-331007 compared to subjects with normal renal function, as described in the text below, are provided in Table 24.
-
 Table 24: Effect of varying degrees of renal impairment on exposures (AUC) of sofosbuvir and GS-331007 compared to subjects with normal renal function
 
 |  | HCV-Negative Subjects |  |  |  |  | HCV-Infected Subjects |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Mild RI (eGFR ≥50 and <80 mL/min/1.73 m2) | Moderate RI (eGFR ≥30 and <50 mL/min/1.73 m2) | Severe RI (eGFR <30 mL/min/1.7 3m2) | ESRD Requiring Dialysis |  | Severe RI (eGFR <30 mL/min/1. 73m2) | ESRD Requirin g Dialysis |
+|  | Mild RI (eGFR ≥50 and <80 mL/min/ 1.73m2) | Moderate RI (eGFR ≥30 and <50 mL/min/ 1.73m2) | Severe RI (eGFR <30 mL/min/ 1.73m2) | ESRD Requiring Dialysis |  | Severe RI (eGFR <30 mL/min/ 1.73m2) | ESRD Requiring Dialysis |
 |  |  |  |  | Dosed 1 hr Before Dialysis | Dosed 1 hr After Dialysis |  |  |
 | Sofosbuvir | 1.6-fold↑ | 2.1-fold↑ | 2.7-fold↑ | 1.3-fold↑ | 1.6-fold↑ | ~2-fold↑ | 1.9-fold↑ |
 | GS-331007 | 1.6-fold↑ | 1.9-fold↑ | 5.5-fold↑ | ≥10-fold↑ | ≥20-fold↑ | ~7-fold↑ | 21-fold↑ |
 
-The pharmacokinetics of sofosbuvir were studied in HCV negative patients with mild (eGFR ≥50 and <80 mL/min/1.73 m2), moderate (eGFR ≥30 and <50 mL/min/1.73 m2), severe renal impairment (eGFR <30 mL/min/1.73 m2) and patients with ESRD requiring haemodialysis following a single 400 mg dose of sofosbuvir, relative to patients with normal renal function
+The pharmacokinetics of sofosbuvir were studied in adult HCV negative patients with mild
+(eGFR ≥50 and <80 mL/min/1.73 m2), moderate (eGFR ≥30 and <50 mL/min/1.73 m2), severe renal impairment (eGFR <30 mL/min/1.73 m2) and patients with ESRD requiring haemodialysis following a single 400 mg dose of sofosbuvir, relative to adult patients with normal renal function
 (eGFR >80 mL/min/1.73 m2).
 GS-331007 is efficiently removed by haemodialysis with an extraction coefficient of approximately 53%.
 Following a single 400 mg dose of sofosbuvir, a 4 hour haemodialysis removed 18% of administered sofosbuvir dose.
 
-In HCV-infected patients with severe renal impairment treated with sofosbuvir 200 mg with ribavirin (n=10) or sofosbuvir 400 mg with ribavirin (n=10) for 24 weeks or ledipasvir/sofosbuvir 90/400 mg (n=18) for 12 weeks, the pharmacokinetics of sofosbuvir and GS-331007 were consistent with that observed in HCV negative patients with severe renal impairment.
+In HCV-infected adult patients with severe renal impairment treated with sofosbuvir 200 mg with ribavirin (n=10) or sofosbuvir 400 mg with ribavirin (n=10) for 24 weeks or ledipasvir/sofosbuvir 90/400 mg (n=18) for 12 weeks, the pharmacokinetics of sofosbuvir and GS-331007 were consistent with that observed in HCV negative adult patients with severe renal impairment.
 
-The pharmacokinetics of sofosbuvir, and GS-331007 were studied in HCV-infected patients with ESRD requiring dialysis treated with ledipasvir/sofosbuvir (n = 94) for 8, 12, or 24 weeks or sofosbuvir/velpatasvir (n = 59) for 12 weeks, and compared to patients without renal impairment in the ledipasvir/sofosbuvir and sofosbuvir/velpatasvir Phase 2/3 trials (see section 4.4).
+The pharmacokinetics of sofosbuvir, and GS-331007 were studied in HCV-infected adult patients with ESRD requiring dialysis treated with ledipasvir/sofosbuvir (n = 94) for 8, 12, or 24 weeks or sofosbuvir/velpatasvir (n = 59) for 12 weeks, and compared to patients without renal impairment in the ledipasvir/sofosbuvir and sofosbuvir/velpatasvir Phase 2/3 trials (see section 4.4).
 
 Hepatic impairment
-The pharmacokinetics of sofosbuvir were studied following 7-day dosing of 400 mg sofosbuvir in HCV infected patients with moderate and severe hepatic impairment (CPT class B and C). Relative to patients with normal hepatic function, the sofosbuvir AUC0-24 was 126% and 143% higher in moderate and severe hepatic impairment, while the GS-331007 AUC0-24 was 18% and 9% higher, respectively.
-Population pharmacokinetics analysis in HCV infected patients indicated that cirrhosis had no clinically relevant effect on the exposure to sofosbuvir and GS-331007.
+The pharmacokinetics of sofosbuvir were studied following 7-day dosing of 400 mg sofosbuvir in adult HCV-infected patients with moderate and severe hepatic impairment (CPT class B and C). Relative to patients with normal hepatic function, the sofosbuvir AUC0-24 was 126% and 143% higher in moderate and severe hepatic impairment, while the GS-331007 AUC0-24 was 18% and 9% higher, respectively.
+Population pharmacokinetics analysis in adult HCV-infected patients indicated that cirrhosis had no clinically relevant effect on the exposure to sofosbuvir and GS-331007.
 No dose adjustment of sofosbuvir is recommended for patients with mild, moderate and severe hepatic impairment (see section 4.2).
 
 Paediatric population
-Sofosbuvir and GS-331007 exposures in adolescents aged 12 to <18 years were similar to those in adults from Phase 2/3 studies following administration of sofosbuvir (400 mg).
-The pharmacokinetics of sofosbuvir and GS-331007 have not been established in paediatric patients < 12 years of age.
+Sofosbuvir and GS-331007 exposures in paediatric patients aged 3 years and above were similar to those in adults from Phase 2/3 studies following administration of sofosbuvir.
+The pharmacokinetics of sofosbuvir and GS-331007 have not been established in paediatric patients aged < 3 years (see section 4.2).
 
 Pharmacokinetic/pharmacodynamic relationship(s)
 
 Efficacy, in terms of rapid virologic response, has been shown to correlate with exposure to sofosbuvir as well as GS 331007.
 However, neither of these entities has been evidenced to be a general surrogate marker for efficacy (SVR12) at the therapeutic 400 mg dose.
+
+[Sovaldi 150 mg coated granules in sachet]
+
+Population pharmacokinetic analysis in HCV infected patients showed that within the age range
+(19 to 75 years) analysed, age did not have a clinically relevant effect on the exposure to sofosbuvir and GS-331007.
+
+|  | HCV-Negative Subjects |  |  |  |  | HCV-Infected Subjects |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Mild RI (eGFR ≥50 and <80 mL/min/1.73 m2) | Moderate RI (eGFR ≥30 and <50 mL/min/1.73 m2) | Severe RI (eGFR <30 mL/min/1.7 3m2) | ESRD Requiring Dialysis |  | Severe RI (eGFR <30 mL/min/1. 73m2) | ESRD Requiring Dialysis |
+|  |  |  |  | Dosed 1 hr Before Dialysis | Dosed 1 hr After Dialysis |  |  |
+| Sofosbuvir | 1.6-fold↑ | 2.1-fold↑ | 2.7-fold↑ | 1.3-fold↑ | 1.6-fold↑ | ~2-fold↑ | 1.9-fold↑ |
+| GS-331007 | 1.6-fold↑ | 1.9-fold↑ | 5.5-fold↑ | ≥10-fold↑ | ≥20-fold↑ | ~7-fold↑ | 21-fold↑ |
+
+The pharmacokinetics of sofosbuvir were studied in HCV negative adult patients with mild

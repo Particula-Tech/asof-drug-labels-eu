@@ -20,26 +20,29 @@ Frequency SOFa + RBVb SOF + PEGc + RBV
 Infections and infestations:
 Common nasopharyngitis
 Blood and lymphatic system disorders:
-Very common haemoglobin decreased anaemia, neutropenia, lymphocyte count decreased, platelet count decreased
+Very common haemoglobin decreased anaemia, neutropenia, lymphocyte count
+decreased, platelet count decreased
 Common anaemia
 Metabolism and nutrition disorders:
-Very common decreased appetite
+Very common decreased appetited decreased appetite
 Common weight decreased
 Psychiatric disorders:
 Very common insomnia insomnia
 Common depression depression, anxiety, agitation
 Nervous system disorders:
 Very common headache dizziness, headache
-Common disturbance in attention migraine, memory impairment, disturbance in attention
+Common disturbance in attention migraine, memory impairment,
+disturbance in attention
 Eye disorders:
 Common vision blurred
-Frequency SOFa + RBVb SOF + PEGc + RBV
 Respiratory, thoracic and mediastinal disorders:
 Very common dyspnoea, cough
-Common dyspnoea, dyspnoea exertional, cough dyspnoea exertional
+Common dyspnoea, dyspnoea dyspnoea exertional
+exertional, cough
 Gastrointestinal disorders:
 Very common nausea diarrhoea, nausea, vomiting
-Common abdominal discomfort, constipation, dyspepsia constipation, dry mouth, gastroesophageal reflux
+Common abdominal discomfort, constipation, dry mouth,
+constipation, dyspepsia gastroesophageal reflux
 Hepatobiliary disorders:
 Very common blood bilirubin increased blood bilirubin increased
 Skin and subcutaneous tissue disorders:
@@ -47,12 +50,14 @@ Very common rash, pruritus
 Common alopecia, dry skin, pruritus alopecia, dry skin
 Musculoskeletal and connective tissue disorders:
 Very common arthralgia, myalgia
-Common arthralgia, back pain, muscle spasms, myalgia back pain, muscle spasms
+Common arthralgia, back pain, back pain, muscle spasms
+muscle spasms, myalgia
 General disorders and administration site conditions:
-Very common fatigue, irritability chills, fatigue, influenza-like illness, irritability, pain, pyrexia
+Very common fatigue, irritability chills, fatigue, influenza-like illness,
+irritability, pain, pyrexia
 Common pyrexia, asthenia chest pain, asthenia
 
-a. SOF = sofosbuvir; b. RBV = ribavirin; c. PEG = peginterferon alfa.
+a. SOF = sofosbuvir; b. RBV = ribavirin; c. PEG = peginterferon alfa; d. Decreased appetite was identified as an adverse drug reaction to Sovaldi in combination with ribavirin oral solution in paediatric patients aged 3 to < 12 years
 
 Description of selected adverse reactions
 
@@ -76,18 +81,31 @@ The safety of sofosbuvir in a fixed dose combination with either ledipasvir or v
 In this setting, exposure of sofosbuvir metabolite GS-331007 is 20-fold increased, exceeding levels where adverse reactions have been observed in preclinical trials.
 In this limited clinical safety data set, the rate of adverse events and deaths was not clearly elevated from what is expected in ESRD patients.
 
-Liver transplant recipients
+Adult liver transplant recipients
 The safety profile of sofosbuvir and ribavirin in liver transplant adult recipients with chronic hepatitis C was similar to that observed in patients treated with sofosbuvir and ribavirin in Phase 3 clinical studies (see section 5.1).
 In study 0126, decreases in haemoglobin during treatment were very common with 32.5% (13/40 patients) experiencing a decline in haemoglobin to <10 g/dL, 1 of whom also had a decline to <8.5 g/dL.
 Eight patients (20%) received epoetin and/or a blood product.
 In 5 patients (12.5%), study drugs were discontinued, modified or interrupted due to adverse events.
 
 Paediatric population
-The safety and efficacy of Sovaldi in adolescents aged 12 to <18 years are based on data from 50 patients who were treated with Sovaldi and ribavirin for 12 weeks (genotype 2 patients) and 24 weeks (genotype 3 patients) in a Phase 2, open-label clinical trial.
-The adverse reactions observed were consistent with those observed in clinical studies of Sovaldi plus ribavirin in adults (see Table 6).
+The safety and efficacy of Sovaldi in paediatric patients aged 3 years and above are based on data from 106 patients who were treated with Sovaldi and ribavirin for 12 weeks (genotype 2 patients) and for 24 weeks (genotype 3 patients) in a Phase 2, open-label clinical trial.
+No adverse drug reactions specific to Sovaldi have been identified.
+The adverse reactions observed were generally consistent with those observed in clinical studies of Sovaldi plus ribavirin in adults (see Table 6).
+Decreased appetite was observed as a very common adverse drug reaction to Sovaldi when given in combination with ribavirin oral solution in paediatric patients aged 3 to < 12 years.
 
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+[Sovaldi 150 mg coated granules in sachet]
+
+Very common haemoglobin decreased anaemia, neutropenia, lymphocyte count decreased, platelet count decreased
+Common disturbance in attention migraine, memory impairment, disturbance in attention
+Common dyspnoea, dyspnoea exertional, cough dyspnoea exertional
+Common abdominal discomfort, constipation, dyspepsia constipation, dry mouth, gastroesophageal reflux
+Common arthralgia, back pain, muscle spasms, myalgia back pain, muscle spasms
+Very common fatigue, irritability chills, fatigue, influenza-like illness, irritability, pain, pyrexia
+
+Decreased appetite was observed as a very common adverse drug reaction to Sovaldi when given in combination with ribavirin oral solution in paediatric patients 3 to < 12 years.
