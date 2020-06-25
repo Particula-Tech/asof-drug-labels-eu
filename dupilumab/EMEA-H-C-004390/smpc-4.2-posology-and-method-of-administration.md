@@ -1,6 +1,7 @@
 # 4.2 Posology and method of administration
 
 Treatment should be initiated by healthcare professionals experienced in the diagnosis and treatment of conditions for which dupilumab is indicated (see section 4.1).
+
 Posology
 
 Atopic Dermatitis
@@ -40,10 +41,10 @@ The need for continued therapy should be considered at least on an annual basis 
 Chronic rhinosinusitis with nasal polyposis (CRSwNP)
 
 The recommended dose of dupilumab for adult patients is an initial dose of 300 mg followed by 300 mg given every other week.
-
 Dupilumab is intended for long-term treatment.
 Consideration should be given to discontinuing treatment in patients who have shown no response after 24 weeks of treatment for CRSwNP.
 Some patients with initial partial response may subsequently improve with continued treatment beyond 24 weeks.
+
 Missed dose
 
 If a dose is missed, administer the dose as soon as possible.
@@ -51,7 +52,7 @@ Thereafter, resume dosing at the regular scheduled time.
 
 Special populations
 
-Elderly patients (≥ 65 years)
+Elderly (≥ 65 years)
 No dose adjustment is recommended for elderly patients (see section 5.2).
 
 Renal impairment

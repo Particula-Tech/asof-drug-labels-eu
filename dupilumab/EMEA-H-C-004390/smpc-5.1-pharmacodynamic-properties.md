@@ -35,6 +35,7 @@ Patients who received rescue treatment were considered non-responders.
 SOLO 1 enrolled 671 patients (224 to placebo, 224 to dupilumab 300 mg Q2W, and 223 to dupilumab 300 mg QW) and had a treatment period of 16 weeks.
 
 SOLO 2 enrolled 708 patients (236 to placebo, 233 to dupilumab 300 mg Q2W, and 239 to dupilumab 300 mg QW) and had a treatment period of 16 weeks.
+
 CHRONOS enrolled 740 patients (315 to placebo + topical corticosteroid (TCS), 106 to dupilumab 300 mg Q2W + TCS, and 319 to dupilumab 300 mg QW + TCS) and had a treatment period of 52 weeks.
 Patients received dupilumab or placebo with concomitant use of TCS starting at baseline using a standardized regimen.
 Patients were also permitted to use topical calcineurin inhibitors (TCI).
@@ -56,7 +57,6 @@ The baseline mean EASI score was 32.5, the baseline weekly pruritus NRS was 7.3,
 Clinical Response
 
 16-Week Monotherapy Studies (SOLO 1 and SOLO 2)
-
 In SOLO 1 and SOLO 2, from baseline to week 16, a significantly greater proportion of patients randomized to dupilumab achieved an IGA 0 or 1 response, EASI-75, and/or an improvement of > 4 points on the pruritus NRS compared to placebo (see Table 5).
 
 A significantly greater proportion of patients randomized to dupilumab achieved a rapid improvement in the pruritus NRS compared to placebo (defined as ≥ 4-point improvement as early as week 2;
@@ -64,6 +64,7 @@ p < 0.01) and the proportion of patients responding on the pruritus NRS continue
 The improvement in pruritus NRS occurred in conjunction with the improvement of objective signs of atopic dermatitis.
 
 Figure 1 and Figure 2 show the mean percent change from baseline in EASI and the mean percent change from baseline in NRS, respectively up to week 16.
+
 Table 5: Efficacy results of dupilumab monotherapy at week 16 (FAS)
 
 SOLO 1 (FAS)a SOLO 2 (FAS)a
@@ -110,20 +111,21 @@ b Responder was defined as a patient with IGA 0 or 1 (“clear” or “almost c
 c Patients who received rescue treatment or with missing data were considered as non-responders.
 d a significantly greater proportion of patients on dupilumab had improvement in pruritus NRS of ≥ 4 points compared to placebo at week 2 (p <0.01).
 e p-value <0.0001
+
 Figure 1: Mean percent change from baseline in EASI in SOLO 1a and SOLO 2a (FAS)b
 
-SO SO
+SOLO 1 SOLO 2
 
 LS = least squares a In the primary analyses of the efficacy endpoints, patients who received rescue treatment or with missing data were considered non-responders.
 b Full analysis set (FAS) includes all patients randomized.
 
 Figure 2: Mean percent change from baseline in NRS in SOLO 1a and SOLO 2a (FAS)b
 
-SO SO
+SOLO 1 SOLO 2
 
 LS = least squares a In the primary analyses of the efficacy endpoints, patients who received rescue treatment or with missing data were considered non-responders b Full analysis set (FAS) includes all patients randomized.
-
 Treatment effects in subgroups (weight, age, gender, race, and background treatment, including immunosuppressants) in SOLO 1 and SOLO 2 were consistent with the results in the overall study population.
+
 52-Week Concomitant TCS Study (CHRONOS)
 
 In CHRONOS, a significantly greater proportion of patients randomized to dupilumab 300 mg Q2W + TCS achieved an IGA 0 or 1 response, EASI-75, and/or an improvement of > 4 points on the pruritis NRS from baseline to week 16 and week 52 compared to placebo + TCS (see Table 6).
@@ -186,13 +188,13 @@ f p-value < 0.0001 g p-value = 0.0015 h p-value = 0.0003 i p-value = 0.0005
 
 Figure 3: Mean percent change from baseline in EASI in CHRONOSa (FAS Week 52)b
 
-CHR
+CHRONOS
 
 LS = least squares a In the primary analyses of the efficacy endpoints, patients who received rescue treatment or with missing data were considered non-responders.
 b FAS week 52 includes all patients randomized at least one year before the cutoff date of the primary analysis.
 Figure 4: Mean percent change from baseline in NRS in CHRONOSa (FAS Week 52)b
 
-CHR
+CHRONOS
 
 LS = least squares aIn the primary analyses of the efficacy endpoints, patients who received rescue treatment or with missing data were considered non-responders.
 bFAS week 52 includes all patients randomized at least one year before the cutoff date of the primary analysis.
@@ -208,6 +210,7 @@ The mean age was 38.4 years, 38.8 % were female, the baseline mean EASI score wa
 
 The primary endpoint was the proportion of patients with EASI-75 at week 16.
 Primary and secondary endpoints for the 16 week CAFE study are summarized in table 7.
+
 Table 7: Results of the primary and secondary endpoints in CAFE study
 
 |  | Placebo + TCS | Dupilumab 300 mg Q2W + TCS | Dupilumab 300 mg QW+TCS |
@@ -216,7 +219,8 @@ Table 7: Results of the primary and secondary endpoints in CAFE study
 | EASI-75, % responders | 29.6 % | 62.6 % | 59.1 % |
 | EASI, LS mean % change from baseline (+/- SE) | -46.6 (2.76) | -79.8 (2.59) | -78.2 (2.55) |
 | Pruritus NRS, LS mean % change from baseline (+/- SE) | -25.4 % (3.39) | -53.9 % (3.14) | -51.7 % (3.09) |
-| SCORAD, LS mean % change from baseline (+/- SE) | -29.5 % (2.55) | -62.4 % (2.48) | -58.3 % (2.45) |
+| SCORAD, LS mean % change | -29.5 % | -62.4 % | -58.3 % |
+| from baseline (+/- SE) | (2.55) | (2.48) | (2.45) |
 | DLQI, LS mean change from baseline (SE) | -4.5 (0.49) | -9.5 (0.46) | -8.8 (0.45) |
 
 (all p values <0.0001)
@@ -233,6 +237,7 @@ The co-primary endpoints were the difference between baseline (week 0) and week 
 Patients who continued on the same dose regimen received in the SOLO 1 and SOLO 2 studies (300 mg Q2W or 300 mg QW) showed the optimal effect in maintaining clinical response while efficacy for other dose regimens diminished in a dose-dependent manner.
 
 Primary and secondary endpoints for the 52 week SOLO CONTINUE study are summarized in table 8.
+
 Table 8: Results of the primary and secondary endpoints in SOLO CONTINUE study
 
 |  | Placebo | Dupilumab 300 mg |  |  |
@@ -247,7 +252,6 @@ Table 8: Results of the primary and secondary endpoints in SOLO CONTINUE study
 | Percent of patients whose peak pruritus NRS increased by ≥ 3 points from baseline to week 35 in the subset of patients with peak pruritus NRS ≤ 7 at baseline, n (%) | 56/80 (70.0) | 45/81 (55.6) | 41/83† (49.4) | 57/168*** (33.9) |
 
 †P< 0.05, *P< 0.01, **P< 0.001, ***P≤ 0.0001
-
 In SOLO CONTINUE, a trend for increased treatment-emergent ADA positivity with increased dosing intervals was observed.
 Treatment-emergent ADA: QW: 1.2%; Q2W: 4.3%; Q4W: 6.0%; Q8W: 11.7%.
 ADA responses lasting more than 12 weeks: QW: 0.0%; Q2W: 1.4%; Q4W: 0.0%; Q8W: 2.6%.
@@ -258,6 +262,7 @@ In both monotherapy studies (SOLO 1 and SOLO 2), both dupilumab 300 mg Q2W and 3
 A significantly larger proportion of patients administered dupilumab groups had clinically meaningful reductions in POEM and DLQI total score (each defined as ≥ 4 points improvement) from baseline to week 16 compared to placebo group.
 In addition, anxiety and depression symptoms as measured by the HADS total score were significantly reduced in the dupilumab groups compared to placebo at 16 weeks.
 In a subset of patients with HADS-anxiety or HADS-depression subscale scores ≥ 8 at baseline (the cut-off value for anxiety or depression), a larger proportion of patients in the dupilumab groups achieved HADS-anxiety and HADS-depression scores < 8 at week 16 compared to placebo (See Table 9).
+
 Table 9: Additional secondary endpoint results of dupilumab monotherapy at Week 16
 
 Monotherapy
@@ -287,15 +292,12 @@ POEM
 improvement), (≥ 4-point 26.9 % 67.6 %a 63.1 %a 24.4 % 71.7 %a 64.0 %a
 % responders
 Number of
-patients with
-HADS-anxiety ≥ 8 or HADS- 97 100 102 115 129 136
-depression ≥ 8
-at baseline
-Patients
-achieving
-HADS-anxiety and HADS- 12.4 % 41.0 %a 36.3 %b 6.1 % 39.5 %a 41.2 %a
-depression score
-< 8, %
+patients with 97 100 102 115 129 136
+HADS-anxiety
+
+| ≥ 8 or HADS-depression ≥ 8 at baseline |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Patients achieving HADS-anxiety and HADS-depression score < 8, % | 12.4 % | 41.0 %a | 36.3 %b | 6.1 % | 39.5 %a | 41.2 %a |
 
 LS = least squares; SE = standard error a p-value < 0.0001 b p-value < 0.001
 
@@ -327,23 +329,12 @@ baseline
 DLQI
 improvement), (≥ 4-point 43.0 % 81.0 %a 74.3 %a 30.3 % 80.0 %a 63.3 %a
 % responders
-Number of
-patients with POEM ≥4 at 312 106 318 261 89 269
-baseline
-POEM
-improvement), (≥ 4-point 36.9 % 77.4 %a 77.4 %a 26.1 % 76.4 %a 64.7 %a
-% responders
-Number of
-patients with
-HADS-anxiety ≥ 8 or HADS- 148 59 154 133 53 138
-depression ≥ 8
-at baseline
-Patients 26.4 % 47.5 %c 47.4 %b 18.0 % 43.4 %b 44.9 %a
-achieving
-HADS-anxiety
-and HADS-
-depression < 8,
-%
+
+| Number of patients with POEM ≥4 at baseline | 312 | 106 | 318 | 261 | 89 | 269 |
+| --- | --- | --- | --- | --- | --- | --- |
+| POEM (≥ 4-point improvement), % responders | 36.9 % | 77.4 %a | 77.4 %a | 26.1 % | 76.4 %a | 64.7 %a |
+| Number of patients with HADS-anxiety ≥ 8 or HADS-depression ≥ 8 at baseline | 148 | 59 | 154 | 133 | 53 | 138 |
+| Patients achieving HADS-anxiety and HADS-depression < 8, % | 26.4 % | 47.5 %c | 47.4 %b | 18.0 % | 43.4 %b | 44.9 %a |
 
 LS = least squares; SE = standard error a p-value < 0.0001 b p-value < 0.001 c p-value < 0.05
 
@@ -371,6 +362,7 @@ Additional secondary endpoints included mean change from baseline to week 16 in 
 Clinical Response
 
 The efficacy results at week 16 for adolescent atopic dermatitis study are presented in Table 11.
+
 Table 11: Efficacy results of dupilumab in the adolescent atopic dermatitis study at Week 16 (FAS)
 
 AD-1526(FAS)a
@@ -433,7 +425,6 @@ Dupilumab compared with placebo was evaluated in adult patients with moderate to
 The primary endpoint was change from baseline to week 12 in FEV1 (L).
 Annualized rate of severe asthma exacerbation events during the 24-week placebo controlled treatment period was also determined.
 Results were evaluated in the overall population (unrestricted by minimum baseline eosinophils or other type 2 inflammatory biomarkers) and subgroups based on baseline blood eosinophils count.
-
 QUEST was a 52-week confirmatory study which included 1,902 patients (12 years of age and older).
 Dupilumab compared with placebo was evaluated in 107 adolescent and 1,795 adult patients with persistent asthma on a medium-to-high dose inhaled corticosteroid (ICS) and a second controller medication.
 Patients requiring a third controller were allowed to participate in this trial.
@@ -468,10 +459,7 @@ Table 12: Demographics and Baseline Characteristics of Asthma Trials
 | % patients with FeNO ppb ≥ 25 ≥ 50 | 49.9 21.6 | 49.6 20.5 | 54.3 25.2 |
 | Mean total IgE IU/mL (± SD) | 435.05 (753.88) | 432.40 (746.66) | 430.58 (775.96) |
 | Mean baseline Eosinophil count (± SD) cells/mcL | 350 (430) | 360 (370) | 350 (310) |
-
-% patients with EOS
-≥ 150 cells/mcL 77.8 71.4 71.4
-≥ 300 cells/mcL 41.9 43.7 42.4
+| % patients with EOS ≥ 150 cells/mcL ≥ 300 cells/mcL | 77.8 41.9 | 71.4 43.7 | 71.4 42.4 |
 
 ICS = inhaled corticosteroid; FEV1 = Forced expiratory volume in 1 second; ACQ-5 = Asthma Control Questionnaire-5; AQLQ = Asthma Quality of Life Questionnaire; AD = atopic dermatitis; NP = nasal polyposis; AR = allergic rhinitis; FeNO = fraction of exhaled nitric oxide; EOS = blood eosinophil aThe population in dupilumab asthma trials included patients on medium and high dose ICS.
 The medium ICS dose was defined as equal to 500 mcg fluticasone or equivalent per day.
@@ -568,8 +556,8 @@ Table 16: Mean Change from Baseline in Pre-Bronchodilator FEV1 at Week 12 and We
 | Placebo | 73 | 0.19 (13.0%) |  | 0.25 (13.6%) |  |
 
 ap-value < 0.0001
-Quality of Life/Patient-Reported Outcomes in Asthma
 
+Quality of Life/Patient-Reported Outcomes in Asthma
 Pre-specified secondary endpoint of ACQ-5 and AQLQ(S) responder rates were analysed at 24 weeks (DRI12544 and VENTURE) and at 52 weeks (QUEST).
 The responder rate was defined as an improvement in score of 0.5 or more (scale range 0-6 for ACQ-5 and 1-7 for AQLQ(S)).
 Improvements in ACQ-5 and AQLQ(S) were observed as early as week 2 and maintained for 24 weeks in DRI12544 study and 52 weeks in QUEST study.
@@ -693,19 +681,20 @@ NC = nasal congestion, NPS = nasal polyposis score; LMK = Lund-MacKay total CT s
 (all p values <0.0001, nominal for VAS)
 
 The results of SINUS-52 study at week 52 are presented in Table 21.
+
 Table 21: Results of the efficacy at week 52 in SINUS-52 study
 
-|  | Placebo (n=153) |  | Dupilumab 300mg Q2W (n=150) |  | LS mean difference vs. Placebo (95%CI) | Dupilumab 300mg Q2W-Q4W (n=145) |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Baseline mean | LS mean change | Baseline mean | LS mean change |  | Baseline mean | LS mean change |
-| NPS | 5.96 | 0.15 | 6.07 | -2.24 | -2.40 (-2.77, -2.02) | 6.29 | -2.06 |
-| NC | 2.38 | -0.37 | 2.48 | -1.35 | -0.98 (-1.17, -0.79) | 2.44 | -1.48 |
-| LMK sinus CT scan score | 17.65 | 0.11 | 18.42 | -6.83 | -6.94 (-7.87, -6.01) | 17.81 | -5.60 |
-| Total symptom score | 7.08 | -0.94 | 7.31 | -3.79 | -2.85 (-3.35, -2.35) | 7.28 | -4.16 |
-| UPSIT | 13.78 | -0.77 | 13.46 | 9.53 | 10.30 (8.50, 12.10) | 13.60 | 9.99 |
-| Loss of Smell | 2.72 | -0.19 | 2.81 | -1.29 | -1.10 (-1.31, -0.89) | 2.73 | -1.49 |
-| SNOT-22 | 53.48 | -8.88 | 50.16 | -29.84 | -20.96 (-25.03, -16.89) | 51.89 | -30.52 |
-| VAS | 7.98 | -0.93 | 8.24 | -4.74 | -3.81 (-4.46, -3.17) | 7.78 | -4.39 |
+|  | Placebo (n=153) |  | Dupilumab 300mg Q2W (n=150) |  | LS mean difference vs. Placebo (95%CI) | Dupilumab 300mg Q2W-Q4W (n=145) |  | LS mean difference vs. Placebo (95%CI) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Baseline mean | LS mean change | Baseline mean | LS mean change |  | Baseline mean | LS mean change |  |
+| NPS | 5.96 | 0.15 | 6.07 | -2.24 | -2.40 (-2.77, -2.02) | 6.29 | -2.06 | -2.21 (-2.59, -1.83) |
+| NC | 2.38 | -0.37 | 2.48 | -1.35 | -0.98 (-1.17, -0.79) | 2.44 | -1.48 | -1.10 (-1.29, -0.91) |
+| LMK sinus CT scan score | 17.65 | 0.11 | 18.42 | -6.83 | -6.94 (-7.87, -6.01) | 17.81 | -5.60 | -5.71 (-6.64, -4.77) |
+| Total symptom score | 7.08 | -0.94 | 7.31 | -3.79 | -2.85 (-3.35, -2.35) | 7.28 | -4.16 | -3.22 (-3.73, -2.72) |
+| UPSIT | 13.78 | -0.77 | 13.46 | 9.53 | 10.30 (8.50, 12.10) | 13.60 | 9.99 | 10.76 (8.95, 12.57) |
+| Loss of Smell | 2.72 | -0.19 | 2.81 | -1.29 | -1.10 (-1.31, -0.89) | 2.73 | -1.49 | -1.30 (-1.51, -1.09) |
+| SNOT-22 | 53.48 | -8.88 | 50.16 | -29.84 | -20.96 (-25.03, -16.89) | 51.89 | -30.52 | -21.65 (-25.71, -17.58) |
+| VAS | 7.98 | -0.93 | 8.24 | -4.74 | -3.81 (-4.46, -3.17) | 7.78 | -4.39 | -3.46 (-4.10, -2.81) |
 
 A reduction in score indicates improvement, except UPSIT where an increase indicates improvement.
 Total symptom score is a composite severity score consisting of the sum of daily symptoms of NC, loss of smell, and anterior/posterior rhinorrhoea.
@@ -715,6 +704,7 @@ NC = nasal congestion, NPS = nasal polyposis score; LMK = Lund-MacKay total CT s
 Statistically significant and clinically meaningful efficacy was observed in SINUS-24 with regard to improvement in bilateral endoscopic NPS score at week 24.
 In the post-treatment period when patients were off dupilumab, the treatment effect diminished over time (see Figure 7a).
 Similar results were also seen in SINUS-52 at both week 24 and week 52 with a progressive improvement over time (see Figure 7b).
+
 Figure 7.
 LS mean change from baseline in bilateral nasal polyps score (NPS) in SINUS-24 and SINUS-52 - ITT population.
 
@@ -735,6 +725,7 @@ The proportion of patients who required systemic corticosteroids was reduced by 
 The total number of systemic corticosteroid courses per year was reduced by 75% (RR of 0.25; 95% CI: 0.17, 0.37).
 The mean individual annualised prescribed total dose of systemic corticosteroids (in mg) during the treatment period was 71% lower in the pooled dupilumab group compared with the pooled placebo group (60.5 [531.3] mg versus 209.5 [497.2] mg, respectively).
 The proportion of patients who required surgery was reduced by 83% (HR of 0.17; 95% CI: 0.07, 0.46).
+
 Figure 8.
 Kaplan Meier Curve for time to first systemic corticosteroid use and/or sino-nasal surgery during treatment period - ITT population [SINUS-24 and SINUS-52 pooled]
 
@@ -746,7 +737,6 @@ In addition, improvements in FEV1 were noted from the first post-baseline assess
 Improvements in ACQ-6 in patients with co-morbid asthma were observed in both studies.
 A response was defined as an improvement in score of 0.5 or more.
 The LS mean difference in the dupilumab group versus placebo at week 24 was ­0.76 (95% CI: ­1.00 to ­0.51) in SINUS-24 and ­0.94 (95% CI: ­1.19, ­0.69) in SINUS-52.
-
 The ACQ-6 responder rate for dupilumab 300 mg Q2W for SINUS-24 at week 24 was 56% versus 28% in placebo (odds ratio 3.17; 95% CI: 1.65, 6.09).
 The ACQ-6 responder rate for dupilumab 300 mg Q2W for SINUS-52 was 46% versus 14% placebo at week 52 (odds ratio 7.02; 95% CI: 3.10, 15.90).
 
@@ -779,36 +769,16 @@ Figure 1: Proportion of adolescent patients with ≥4-point improvement on the p
 For clinical data in adults with atopic dermatitis please refer to the dupilumab 300 mg Summary of Product Characteristics.
 
 Patients were enrolled without requiring a minimum baseline blood eosinophil or other type 2 inflammatory biomarkers (e.g. FeNO or IgE) level.
-
 Results were evaluated in the overall population (unrestricted by minimum baseline eosinophils or other type 2 inflammatory biomarkers) and subgroups based on baseline blood eosinophil count.
 
 The primary endpoints were the annualized rate of severe exacerbation events during the 52-week placebo controlled period and change from baseline in pre-bronchodilator FEV1 at week 12 in the overall population (unrestricted by minimum baseline eosinophils or other type 2 inflammatory biomarkers) and subgroups based on baseline blood eosinophils count and FeNO.
 
 The demographics and baseline characteristics of these 3 studies are provided in Table 5 below.
+
 Table 5: Demographics and Baseline Characteristics of Asthma Trials
 
-| Parameter | DRI12544 (n = 776) | QUEST (n = 1902) | VENTURE (n=210) |
-| --- | --- | --- | --- |
-| Mean age (years) (SD) | 48.6 (13.0) | 47.9 (15.3) | 51.3 (12.6) |
-| % Female | 63.1 | 62.9 | 60.5 |
-| % White | 78.2 | 82.9 | 93.8 |
-| Duration of Asthma (years), mean ± SD | 22.03 (15.42) | 20.94 (15.36) | 19.95 (13.90) |
-| Never smoked, (%) | 77.4 | 80.7 | 80.5 |
-| Mean exacerbations in previous year ± SD | 2.17 (2.14) | 2.09 (2.15) | 2.09 (2.16) |
-| High dose ICS use (%)a | 49.5 | 51.5 | 88.6 |
-| Pre-dose FEV1 (L) at baseline ± SD | 1.84 (0.54) | 1.78 (0.60) | 1.58 (0.57) |
-| Mean percent predicted FEV1 at baseline (%)(± SD) | 60.77 (10.72) | 58.43 (13.52) | 52.18 (15.18) |
-| % Reversibility (± SD) | 26.85 (15.43) | 26.29 (21.73) | 19.47 (23.25) |
-| Mean ACQ-5 score (± SD) | 2.74 (0.81) | 2.76 (0.77) | 2.50 (1.16) |
-| Mean AQLQ score (± SD) | 4.02 (1.09) | 4.29 (1.05) | 4.35 (1.17) |
-| Atopic Medical History % Overall (AD %, NP %, AR %) | 72.9 (8.0, 10.6, 61.7) | 77.7 (10.3, 12.7, 68.6) | 72.4 (7.6, 21.0, 55.7) |
-| Mean FeNO ppb (± SD) | 39.10 (35.09) | 34.97 (32.85) | 37.61 (31.38) |
-| % patients with FeNO ppb ≥ 25 ≥ 50 | 49.9 21.6 | 49.6 20.5 | 54.3 25.2 |
-| Mean total IgE IU/mL (± SD) | 435.05 (753.88) | 432.40 (746.66) | 430.58 (775.96) |
-| Mean baseline Eosinophil count (± SD) cells/mcL | 350 (430) | 360 (370) | 350 (310) |
-| % patients with EOS ≥ 150 cells/mcL ≥ 300 cells/mcL | 77.8 41.9 | 71.4 43.7 | 71.4 42.4 |
-
 There were greater reductions in exacerbations in subjects with higher baseline levels of type 2 inflammatory biomarkers such as blood eosinophils or FeNO (Table 6 and Table 7).
+
 Table 6: Rate of Severe Exacerbations in DRI12544 and QUEST (Baseline Blood Eosinophil Levels ≥ 150 and ≥ 300 cells/mcL)
 
 | Treatment |  | Baseline Blood EOS |  |  |  |  |  |  |  |  |  |
@@ -830,6 +800,7 @@ Table 6: Rate of Severe Exacerbations in DRI12544 and QUEST (Baseline Blood Eosi
 Table 7: Rate of Severe Exacerbations in QUEST Defined by Baseline FeNO Subgroups
 
 There were greater improvements in FEV1 in the subjects with higher baseline levels of type 2 inflammatory biomarkers such as blood eosinophils or FeNO (Table 8 and Table 9).
+
 Significant improvements in FEV1 were observed as early as week 2 following the first dose of dupilumab for both the 200 mg and 300 mg dose strengths and were maintained through week 24 (DRI12544) and week 52 in QUEST (see Figure 2).
 
 Figure 2: Mean Change from Baseline in Pre-Bronchodilator FEV1 (L) Over Time (Baseline Eosinophils ≥ 150 and ≥ 300 cells/mcL and FeNO ≥25 ppb) in QUEST
@@ -842,9 +813,11 @@ The ACQ-5 and AQLQ(S) responder rate results in patients with elevated baseline 
 
 Table 10: ACQ-5 and AQLQ(S) Responder Rates at Week 52 in QUEST
 
-| PRO | Treatment | EOS ≥150 cells/mcL |  | EOS ≥300 cells/mcL |  | FeNO ≥25 ppb |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+PRO Treatment EOS EOS FeNO
+≥150 cells/mcL ≥300 cells/mcL ≥25 ppb
+
 |  |  | N | Responder rate % | N | Responder rate (%) | N | Responder rate (%) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | ACQ-5 | Dupilumab 200 mg Q2W | 39 5 | 72.9 | 239 | 74.5 | 262 | 74.4 |
 |  | Placebo | 20 1 | 64.2 | 124 | 66.9 | 141 | 65.2 |
 |  | Dupilumab 300 mg Q2W | 40 8 | 70.1 | 248 | 71.0 | 277 | 75.8 |
@@ -859,3 +832,19 @@ Baseline characteristics are presented in Table 5.
 The results for VENTURE by baseline biomarkers are presented in the Table 11.
 
 Table 11: Effect of dupilumab on OCS dose reduction, VENTURE (Baseline Blood Eosinophil Levels ≥ 150 and ≥ 300 cells/mcL and FeNO ≥ 25 ppb)
+
+|  | Baseline Blood EOS ≥ 150 cells/mcL |  | Baseline Blood EOS ≥ 300 cells/mcL |  | FeNO ≥ 25 ppb |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Dupilumab 300 mg Q2W N=81 | Placebo N=69 | Dupilumab 300 mg Q2W N=48 | Placebo N=41 | Dupilumab 300 mg Q2W N=57 | Placebo N=57 |
+| Primary endpoint (week 24) |  |  |  |  |  |  |
+| Percent reduction in OCS from baseline |  |  |  |  |  |  |
+| Mean overall percent reduction from baseline (%) Difference (% [95% CI]) (Dupilumab vs. placebo) | 75.91 | 46.51 | 79.54 | 42.71 | 77.46 | 42.93 |
+|  | 29.39b (15.67, 43.12) |  | 36.83b (18.94, 54.71) |  | 34.53b (19.08, 49.97) |  |
+| Median % reduction in daily OCS dose from baseline | 100 | 50 | 100 | 50 | 100 | 50 |
+| Percent reduction from baseline 100% | 54.3 | 33.3 | 60.4 | 31.7 | 52.6 | 28.1 |
+
+| ≥ 90% ≥ 75% ≥ 50% > 0% No reduction or any increase in OCS dose, or dropped out of study | 58.0 72.8 82.7 87.7 12.3 | 34.8 44.9 55.1 66.7 33.3 |  | 66.7 77.1 85.4 85.4 14.6 | 34.1 41.5 53.7 63.4 36.6 | 54.4 73.7 86.0 89.5 10.5 | 29.8 36.8 50.9 66.7 33.3 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Secondary endpoint (week 24)a |  |  |  |  |  |  |  |
+| Proportion of patients achieving a reduction of OCS dose to <5 mg/day | 77 |  | 44 | 84 | 40 | 79 | 34 |
+| Odds ratio (95% CI) | 4.29c (2.04, 9.04) |  |  | 8.04d (2.71, 23.82) |  | 7.21b (2.69, 19.28) |  |

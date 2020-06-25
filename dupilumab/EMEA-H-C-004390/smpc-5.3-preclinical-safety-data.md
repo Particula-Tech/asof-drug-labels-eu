@@ -1,6 +1,7 @@
 # 5.3 Preclinical safety data
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of repeated dose toxicity (including safety pharmacology endpoints) and toxicity to reproduction and development.
+
 The mutagenic potential of dupilumab has not been evaluated; however monoclonal antibodies are not expected to alter DNA or chromosomes.
 
 Carcinogenicity studies have not been conducted with dupilumab.

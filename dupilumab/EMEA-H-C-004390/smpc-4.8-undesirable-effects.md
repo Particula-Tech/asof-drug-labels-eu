@@ -7,7 +7,7 @@ Adults with atopic dermatitis
 Summary of the safety profile
 
 The most common adverse reactions were injection site reactions, conjunctivitis, blepharitis, and oral herpes.
-Very rare cases of serum sickness/serum sickness-like reactions have been reported in the atopic dermatitis development program (see section 4.4).
+Very rare cases of serum sickness/serum sickness-like reaction have been reported in the atopic dermatitis development program (see section 4.4).
 
 In the monotherapy studies, the proportion of patients who discontinued treatment due to adverse events was 1.9 % of the placebo group, 1.9 % of the dupilumab 300 mg Q2W group, 1.5 % of the dupilumab 300 mg QW group.
 In the concomitant TCS study, the proportion of patients who discontinued treatment due to adverse events was 7.6 % of the placebo + TCS group, 1.8 % of the dupilumab 300 mg Q2W + TCS group, and 2.9 % of the dupilumab 300 mg QW + TCS group.
@@ -18,7 +18,7 @@ The safety of dupilumab was evaluated in four randomized, double-blind, placebo-
 In these 5 trials, 1,689 subjects were treated with subcutaneous injections of dupilumab, with or without concomitant topical corticosteroids (TCS).
 A total of 305 patients were treated with dupilumab for at least 1 year.
 
-Listed in Table 2 are adverse reactions observed in atopic dermatitis clinical trials presented by system organ class and frequency, using the following categories: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000).
+Listed in Table 2 are adverse reactions observed in atopic dermatitis clinical trials and/or postmarketing setting presented by system organ class and frequency, using the following categories: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Table 2: List of adverse reactions in atopic dermatitis
@@ -27,10 +27,13 @@ Table 2: List of adverse reactions in atopic dermatitis
 | --- | --- | --- |
 | Infections and infestations | Common | Conjunctivitis Oral herpes |
 | Blood and lymphatic system disorders | Common | Eosinophilia |
-| Immune system disorders | Very rare | Serum sickness/serum sickness-like reactions |
+| Immune system disorders | Very rare Not known | Serum sickness/serum sickness-like reactions Anaphylactic reaction* Angioedema* |
 | Nervous system disorders | Common | Headache |
-| Eye disorders | Common | Conjunctivitis allergic Eye pruritus Blepharitis |
+| Eye disorders | Common | Conjunctivitis allergic |
+|  |  | Eye pruritus Blepharitis |
 | General disorders and administration site conditions | Very common | Injection site reactions |
+
+* From postmarketing reporting.
 
 Adolescents with atopic dermatitis
 
@@ -56,15 +59,16 @@ A total of 2,888 adult and adolescent patients with moderate-to-severe asthma we
 Of these, 2,678 had a history of 1 or more severe exacerbations in the year prior to enrolment despite regular use of medium-to-high dose inhaled corticosteroids plus an additional controller(s) (DRI12544 and QUEST).
 A total of 210 patients with oral corticosteroid-dependent asthma receiving high-dose inhaled corticosteroids plus up to two additional controllers were enrolled (VENTURE).
 
-Listed in Table 3 are adverse reactions observed in asthma clinical trials presented by system organ class and frequency, using the following categories: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000).
+Listed in Table 3 are adverse reactions observed in asthma clinical trials and/or postmarketing setting presented by system organ class and frequency, using the following categories: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-
 Table 3: List of adverse reactions in asthma
 
 | MedDRA System Organ Class | Frequency | Adverse Reaction |
 | --- | --- | --- |
-| Immune system disorders | Very rare | Anaphylactic reaction |
+| Immune system disorders | Very rare Not known | Anaphylactic reaction Angioedema* |
 | General disorders and administration site conditions | Very common Common Common Common | Injection site erythema Injection site oedema Injection site pain Injection site pruritus |
+
+* From postmarketing reporting.
 
 Chronic rhinosinusitis with nasal polyposis (CRSwNP)
 
@@ -79,23 +83,26 @@ Tabulated list of adverse reactions
 A total of 722 adult patients with CRSwNP were evaluated in 2 randomised, placebo-controlled, multicentre trials of 24 to 52 weeks duration (SINUS-24 and SINUS-52).
 The safety pool consisted of data from the first 24 weeks of treatment.
 
-Listed in Table 4 are adverse reactions observed in CRSwNP clinical trials presented by system organ class and frequency, using the following categories: very common (≥ 1/10); common (≥ 1/100 to
-< 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000).
+Listed in Table 4 are adverse reactions observed in CRSwNP clinical trials and/or postmarketing setting presented by system organ class and frequency, using the following categories: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to
+< 1/1,000); very rare (< 1/10,000).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Table 4.
-List of adverse reactions in CRSwNP clinical studies
+List of adverse reactions in CRSwNP
 
 | MedDRA System Organ Class | Frequency | Adverse Reaction |
 | --- | --- | --- |
 | Infections and infestations | Common | Conjunctivitis |
 | Blood and lymphatic system disorders | Common | Eosinophilia |
+| Immune system disorders | Not known | Anaphylactic reaction* Angioedema* |
 | General disorders and administration site conditions | Common | Injection site reaction Injection site swelling |
+
+* From postmarketing reporting.
 
 Description of selected adverse reactions in atopic dermatitis, asthma, and CRSwNP indications
 
 Hypersensitivity
-Very rare cases of serum sickness/serum sickness-like reactions and anaphylactic reaction have been reported following administration of dupilumab (see section 4.4).
+Cases of anaphylactic reaction, angioedema, and serum sickness/serum sickness-like reaction have been reported following administration of dupilumab (see section 4.4).
 
 Conjunctivitis and related events
 Conjunctivitis occurred more frequently in atopic dermatitis patients who received dupilumab.
@@ -110,11 +117,13 @@ In the 52-week atopic dermatitis dupilumab + TCS study, eczema herpeticum was re
 Eosinophilia
 Dupilumab-treated patients had a greater mean initial increase from baseline in eosinophil count compared to patients treated with placebo.
 Eosinophil counts declined to near baseline levels during study treatment.
+
 Treatment-emergent eosinophilia (≥ 5,000 cells/mcL) was reported in < 2 % of dupilumab-treated patients and < 0.5 % in placebo-treated patients.
 
 Infections
 In the 16-week atopic dermatitis monotherapy clinical studies, serious infections were reported in 1.0 % of patients treated with placebo and 0.5 % of patients treated with dupilumab.
 In the 52-week atopic dermatitis CHRONOS study, serious infections were reported in 0.6 % of patients treated with placebo and 0.2 % of patients treated with dupilumab.
+
 No increase was observed in the overall incidence of infections with dupilumab compared to placebo in the safety pool for CRSwNP clinical studies.
 In the 52-week SINUS-52 study, serious infections were reported in 1.3% of patients treated with dupilumab and 1.3 % of patients treated with placebo.
 
@@ -133,7 +142,6 @@ Less than 0.6% of patients exhibited high titer ADA responses associated with re
 In addition, there was one patient with serum sickness and one with serum sickness-like reaction (< 0.1 %) associated with high ADA titers (see section 4.4).
 
 Paediatric population
-
 The safety profile observed in adolescents aged 12 to 17 years in atopic dermatitis clinical trials was similar to that seen in adults.
 
 A total of 107 adolescents aged 12 to 17 years with asthma were enrolled in the 52 week QUEST study.
@@ -146,6 +154,15 @@ It allows continued monitoring of the benefit/risk balance of the medicinal prod
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [Dupixent 200 mg solution for injection in pre-filled syringe]
+
+| MedDRA System Organ Class | Frequency | Adverse Reaction |
+| --- | --- | --- |
+| Infections and infestations | Common | Conjunctivitis Oral herpes |
+| Blood and lymphatic system disorders | Common | Eosinophilia |
+| Immune system disorders | Very rare Not known | Serum sickness/serum sickness-like reactions Anaphylactic reaction* Angioedema* |
+| Nervous system disorders | Common | Headache |
+| Eye disorders | Common | Conjunctivitis allergic Eye pruritus Blepharitis |
+| General disorders and administration site conditions | Very common | Injection site reactions |
 
 Description of selected adverse reactions in atopic dermatitis and asthma indications
 

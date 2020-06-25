@@ -20,7 +20,6 @@ Specific metabolism studies were not conducted because dupilumab is a protein.
 Dupilumab is expected to degrade to small peptides and individual amino acids.
 
 Elimination
-
 Dupilumab elimination is mediated by parallel linear and nonlinear pathways.
 At higher concentrations, dupilumab elimination is primarily through a non-saturable proteolytic pathway, while at lower concentrations, the non-linear saturable IL-4R α target-mediated elimination predominates.
 After the last steady state dose, the median time for dupilumab concentrations to decrease below the lower limit of detection, estimated by population PK analysis, was 9 weeks for the 200 mg Q2W, 10-11 weeks for the 300 mg Q2W regimen and 13 weeks for the 300 mg QW regimen.
@@ -34,7 +33,7 @@ Special populations
 Gender
 Gender was not found to be associated with any clinically meaningful impact on the systemic exposure of dupilumab determined by population PK analysis.
 
-Elderly patients
+Elderly
 Of the 1,472 patients with atopic dermatitis exposed to dupilumab in a phase 2 dose-ranging study or phase 3 placebo-controlled studies, a total of 67 were 65 years or older.
 Although no differences in safety or efficacy were observed between older and younger adult atopic dermatitis patients, the number of patients aged 65 and over is not sufficient to determine whether they respond differently from younger patients.
 
@@ -62,7 +61,6 @@ Very limited data are available in patients with severe renal impairment.
 Body Weight
 Dupilumab trough concentrations were lower in subjects with higher body weight with no meaningful impact on efficacy.
 There were only 6 patients exposed to dupilumab with body weight ≥130 kg in CRSwNP clinical studies.
-
 Paediatric population
 The pharmacokinetics of dupilumab in paediatric patients (< 12 years of age) with atopic dermatitis has not been studied.
 
