@@ -2,12 +2,14 @@
 
 Treatment must be initiated under the supervision of an appropriate specialist in childhood and/or adolescent behavioural disorders.
 
-Pre-treatment screening:
+Pre-treatment screening
+
 Prior to prescribing, it is necessary to conduct a baseline evaluation to identify patients at increased risk of somnolence and sedation, hypotension and bradycardia, QT-prolongation arrhythmia and weight increase/risk of obesity.
 This evaluation should address a patient’s cardiovascular status including blood pressure and heart rate, documenting comprehensive history of concomitant medications, past and present co-morbid medical and psychiatric disorders or symptoms, family history of sudden cardiac/unexplained death and accurate recording of pre-treatment height and weight on a growth chart (see section 4.4).
 
 Posology
-Careful dose titration and monitoring is necessary at the start of treatment with Intuniv since clinical improvement and risks for several clinically significant adverse reactions (syncope, hypotension, bradycardia, somnolence and sedation) are dose- and exposure-related.
+
+Careful dose titration and monitoring is necessary at the start of treatment since clinical improvement and risks for several clinically significant adverse reactions (syncope, hypotension, bradycardia, somnolence and sedation) are dose- and exposure-related.
 Patients should be advised that somnolence and sedation can occur, particularly early in treatment or with dose increases.
 If somnolence and sedation are judged to be clinically concerning or persistent, a dose decrease or discontinuation should be considered.
 
@@ -34,16 +36,17 @@ During the first year of treatment, the patient should be assessed at least ever
 
 It is recommended clinical judgement be exercised during this period.
 6 monthly monitoring should follow thereafter, with more frequent monitoring following any dose adjustments (see section 4.4).
+
 Table 1
 
-| Dose Titration Schedule for Children Aged 6-12 years |  |  |  |  |
+| Dose titration schedule for children aged 6-12 years |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Weight Group | Week 1 | Week 2 | Week 3 | Week 4 |
 | 25 kg and up Max Dose= 4 mg | 1 mg | 2 mg | 3 mg | 4 mg |
 
 Table 2
 
-| Dose Titration Schedule for Adolescents (Aged 13-17 Years) |  |  |  |  |  |  |  |
+| Dose titration schedule for adolescents (aged 13-17 Years) |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Weight Groupa | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 | Week 7 |
 | 34-41.4 kg Max Dose= 4 mg | 1 mg | 2 mg | 3 mg | 4 mg |  |  |  |
@@ -53,17 +56,17 @@ Table 2
 
 a Adolescent subjects must weigh at least 34 kg.
 b Adolescents weighing 58.5 kg and above may be titrated to a 7 mg/day dose after the subject has completed a minimum of 1 week of therapy on a 6 mg/day dose and the physician has performed a thorough review of the subject’s tolerability and efficacy.
-
 The physician who elects to use guanfacine for extended periods (over 12 months) should re-evaluate the usefulness of guanfacine every 3 months for the first year and then at least yearly based on clinical judgement (see section 4.4), and consider trial periods off medication to assess the patient’s functioning without pharmacotherapy, preferably during times of school holidays.
 
 Downward titration and discontinuation
 Patients/caregivers should be instructed not to discontinue guanfacine without consulting their physician.
 
-When stopping Intuniv, the dose must be tapered with decrements of no more than 1 mg every 3 to 7 days, and blood pressure and pulse should be monitored in order to minimise potential withdrawal effects, in particular increases in blood pressure and heart rate (see section 4.4).
+When stopping treatment, the dose must be tapered with decrements of no more than 1 mg every 3 to 7 days, and blood pressure and pulse should be monitored in order to minimise potential withdrawal effects, in particular increases in blood pressure and heart rate (see section 4.4).
 
 In a maintenance of efficacy study, upon switching from guanfacine to placebo, 7/158 (4.4%) subjects experienced increases in blood pressure to values above 5 mmHg and also above the 95th percentile for age, sex and stature (see sections 4.8 and 5.1).
+
 Missed dose
-In the event of a missed dose, Intuniv dosing can resume the next day.
+If a dose is missed, the prescribed dose can resume the next day.
 If two or more consecutive doses are missed, re-titration is recommended based on the patient’s tolerability to guanfacine.
 
 Switching from other formulations of guanfacine
@@ -72,37 +75,40 @@ Immediate-release guanfacine tablets should not be substituted on a mg/mg basis,
 Special populations
 
 Adults and elderly
-The safety and efficacy of guanfacine in adult and the elderly with ADHD has not been established and therefore should not be used in this group.
+The safety and efficacy of guanfacine in adult and the elderly with ADHD has not been established.
+Therefore, guanfacine should not be used in this group.
 
 Hepatic impairment
-Guanfacine is cleared both by the liver and the kidneys, and at least 50% of the clearance of guanfacine is hepatic.
-Dose reduction may be required in patients with different degrees of hepatic impairment.
+Dose reduction may be required in patients with different degrees of hepatic impairment (see section 5.2).
 The impact of hepatic impairment on the pharmacokinetics of guanfacine in paediatric patients (children and adolescents 6-17 years old) was not assessed.
 
 Renal impairment
-Guanfacine is cleared both by the liver and the kidneys, with approximately 30% of an intact medicinal product excreted with urine.
 Dose reduction may be required in patients with severe renal impairment (GFR 29-15 ml/min) and an end stage renal disease (GFR<15 ml/min) or requiring dialysis.
-The impact of renal impairment on the pharmacokinetics of guanfacine in paediatric patients (children and adolescents 6-17 years old) was not assessed.
+The impact of renal impairment on the pharmacokinetics of guanfacine in paediatric patients (children and adolescents 6-17 years old) was not assessed (see section 5.2).
 
 Children under 6 years
-Intuniv should not be used in children under the age of 6 years because efficacy and safety in this patient population has not been studied.
+The safety and efficacy of guanfacine in children aged less than 6 years have not yet been established.
+No data are available.
 
 Patients treated with CYP3A4 and CYP3A5 inhibitors/inducers
+
 CYP3A4/5 inhibitors have been shown to have a significant effect on the pharmacokinetics of guanfacine when co-administered.
 Dose adjustment is recommended with concomitant use of moderate/strong CYP3A4/5 inhibitors (e.g., ketoconazole, grapefruit juice), or strong CYP3A4 inducers (e.g., carbamazepine) (see section 4.5).
+
 In case of concomitant use of strong and moderate CYP3A inhibitors, a 50% reduction of the guanfacine dose is recommended.
 Due to variability in interaction effect, further dose titration may be needed (see above).
-If guanfacine is combined with strong enzyme inducers, a retitration to increase the dose up to a maximum daily dose 7 mg (see section 4.2), may be considered if needed.
+If guanfacine is combined with strong enzyme inducers, a retitration to increase the dose up to a maximum daily dose of 7 mg may be considered if needed.
 If the inducing treatment is ended, retitration to reduce the guanfacine dose is recommended during the following weeks (see section 4.5).
 
 Method of administration
+
 Oral use.
 
-Intuniv is taken once daily either morning or evening.
-Intuniv should not be crushed, chewed or broken before swallowing because this increases the rate of guanfacine release.
+Guanfacine is taken once daily either morning or evening.
+Tablets should not be crushed, chewed or broken before swallowing because this increases the rate of guanfacine release.
 
 Treatment is recommended only for children who are able to swallow the tablet whole without problems.
 
-Intuniv can be administered with or without food but should not be administered with high fat meals, due to increased exposure (see section 5.2).
+Guanfacine can be administered with or without food but should not be administered with high fat meals, due to increased exposure (see sections 4.5 and 5.2).
 
-Intuniv should not be administered together with grapefruit juice (see section 4.5).
+Guanfacine should not be administered together with grapefruit juice (see section 4.5).

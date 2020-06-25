@@ -1,25 +1,22 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-In the data set from controlled, doubled blinded and open-label clinical studies with Intuniv the most frequently reported adverse reactions (very common) include somnolence (40.6%), headache (27.4%), fatigue (18.1%), abdominal pain upper (12.0%), and sedation (10.2%).
-Serious adverse reactions commonly reported include hypotension (3.2%), weight increase (2.9%), bradycardia (1.5%) and syncope (uncommon) (0.7%).
+
+The most frequently reported adverse reactions include somnolence (40.6%), headache (27.4%), fatigue (18.1%), abdominal pain upper (12.0%), and sedation (10.2%).
+The most serious adverse reactions commonly reported include hypotension (3.2%), weight increase (2.9%), bradycardia (1.5%) and syncope (0.7%).
 The adverse reactions somnolence and sedation occurred predominantly at the start of treatment and may typically last for 2-3 weeks and longer in some cases.
 
 Tabulated list of adverse reactions
+
 The following table presents all adverse reactions based on clinical trials and spontaneous reporting.
 All adverse reactions from post-marketing experience are italicised.
 
 The following definitions apply to the frequency terminology used hereafter:
-Very common (≥1/10)
-Common (≥1/100 to <1/10)
-Uncommon (≥1/1,000 to <1/100)
-Rare (≥1/10,000 to <1/1,000)
-Very rare (<1/10,000)
-Not known (cannot be estimated from the available data).
+very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000) and not known (cannot be estimated from the available data).
 
-| Table 4. Adverse Drug Reactions Reported with Intuniv |  |
+| Table 4. Adverse reactions |  |
 | --- | --- |
-| System/Organ Class Adverse Drug Reaction | Incidence Category |
+| System/Organ Class Adverse reaction | Incidence Category |
 | Immune system disorders |  |
 | Hypersensitivity | Uncommon |
 | Metabolism and nutrition disorders |  |
@@ -30,6 +27,7 @@ Not known (cannot be estimated from the available data).
 | Affect lability | Common |
 | Insomnia | Common |
 | Middle insomnia | Common |
+| System/Organ Class Adverse reaction | Incidence Category |
 | Nightmare | Common |
 | Agitation | Uncommon |
 | Hallucination | Uncommon |
@@ -41,7 +39,7 @@ Not known (cannot be estimated from the available data).
 | Lethargy | Common |
 | Convulsion | Uncommon |
 | Syncope/loss of consciousness | Uncommon |
-| Dizziness postural | Uncommon |
+| Postural dizziness | Uncommon |
 | Hypersomnia | Rare |
 | Cardiac disorders |  |
 | Bradycardia | Common |
@@ -62,7 +60,6 @@ Not known (cannot be estimated from the available data).
 | Diarrhoea | Common |
 | Nausea | Common |
 | Constipation | Common |
-| System/Organ Class Adverse Drug Reaction | Incidence Category |
 | Abdominal/stomach discomfort | Common |
 | Dry mouth | Common |
 | Dyspepsia | Uncommon |
@@ -74,7 +71,8 @@ Not known (cannot be estimated from the available data).
 | Pollakiuria | Uncommon |
 | Reproductive system and breast disorders |  |
 | Erectile dysfunction | Not known |
-| General disorders |  |
+| System/Organ Class Adverse reaction | Incidence Category |
+| General disorders and administration site conditions |  |
 | Fatigue | Very common |
 | Irritability | Common |
 | Asthenia | Uncommon |
@@ -95,28 +93,31 @@ Bradycardia occurred in 1.5%, hypotension in 3.2% and syncope occurred in 0.7% o
 The occurrence of somnolence/sedation and hypotension was most prominent in the first few weeks of treatment and diminished gradually thereafter.
 
 Effects on height, weight and body Mass index (BMI)
-Careful follow-up for weight suggests that children and adolescents who took Intuniv in the study (i.e., treatment for 7 days per week throughout the year) have demonstrated by an age- and sex-normalised mean change from baseline in BMI percentile, 4.3 over 1 year (average percentiles at baseline and 12 months were 68.3 and 73.1, respectively).
-Consequently, as part of routine monitoring height, weight and BMI should be monitored at the start of treatment and every 3 months during the first year, then 6 monthly taking in to consideration clinical judgement with maintenance of a growth chart.
+Careful follow-up for weight suggests that children and adolescents who took guanfacine in the study (i.e., treatment for 7 days per week throughout the year) have demonstrated by an age- and sex-normalised mean change from baseline in BMI percentile, 4.3 over 1 year (average percentiles at baseline and 12 months were 68.3 and 73.1, respectively).
+Consequently, as part of routine monitoring height, weight and BMI should be monitored at the start of treatment and every 3 months during the first year, then 6 monthly taking into consideration clinical judgement with maintenance of a growth chart.
 
 Thorough QT /QTc study
 The effect of 2 dose levels of immediate-release guanfacine (4 mg and 8 mg) on QT interval was evaluated in a double-blind, randomised, placebo- and active-controlled, cross-over study in healthy adults.
 An apparent increase in mean QTc was observed for both doses.
 This finding has no known clinical relevance.
-In phase II-III randomised double-blind monotherapy studies respective increases in QTc interval prolongation that exceeded change from baseline greater than 60 ms Fridericia-correction and Bazett-correction were 0 (0.0%) and 2 (0.3%) among placebo and 1 (0.1%) and 1 (0.1%) among Intuniv patients.
+
+In phase II-III randomised double-blind monotherapy studies respective increases in QTc interval prolongation that exceeded change from baseline greater than 60 ms Fridericia-correction and Bazett-correction were 0 (0.0%) and 2 (0.3%) among placebo and 1 (0.1%) and 1 (0.1%) among guanfacine patients.
 The clinical relevance of this finding is uncertain.
 
-Blood pressure and heart rate increase upon discontinuation of Intuniv
-Blood pressure and pulse may increase following discontinuation of Intuniv.
-In post-marketing experience, hypertensive encephalopathy has been very rarely reported upon abrupt discontinuation of Intuniv (see section 4.4).
+Blood pressure and heart rate increase upon discontinuation of guanfacine
+Blood pressure and pulse may increase following discontinuation of guanfacine.
+In post-marketing experience, hypertensive encephalopathy has been very rarely reported upon abrupt discontinuation of guanfacine (see section 4.4).
 
-In a maintenance of efficacy study in children and adolescents, increases in mean systolic and diastolic blood pressure of approximately 3 mmHg and 1 mmHg, respectively, above original baseline were observed upon discontinuation of Intuniv.
+In a maintenance of efficacy study in children and adolescents, increases in mean systolic and diastolic blood pressure of approximately 3 mmHg and 1 mmHg, respectively, above original baseline were observed upon discontinuation of guanfacine.
 However, individuals may have larger increases than reflected by the mean changes.
 The increases in blood pressure were observed in some individuals at the end of the follow up period which ranged between 3 and 26 weeks post final dose (see sections 4.2 and 5.1).
 
 Adult patients
-Intuniv has not been studied in adults with ADHD.
+
+Guanfacine has not been studied in adults with ADHD.
 
 Reporting of suspected adverse reactions
+
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
