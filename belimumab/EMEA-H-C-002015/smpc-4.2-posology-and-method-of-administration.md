@@ -27,10 +27,9 @@ If a patient is being transitioned from Benlysta intravenous administration to s
 Special populations
 
 Elderly
-The efficacy and safety of Benlysta in the elderly has not been established.
-Data on patients ≥65 years are limited to <1.8% of the studied population.
-Therefore, the use of Benlysta in elderly patients is not recommended unless the benefits are expected to outweigh the risks.
-In case administration of Benlysta to elderly patients is deemed necessary, dose adjustment is not required (see section 5.2).
+Data on patients ≥65 years are limited (see section 5.1).
+Benlysta should be used with caution in the elderly.
+Dose adjustment is not required (see section 5.2).
 
 Renal impairment
 Belimumab has been studied in a limited number of SLE patients with renal impairment.

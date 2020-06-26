@@ -3,7 +3,6 @@
 Traceability
 
 In order to improve traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded.
-
 Benlysta has not been studied in the following patient groups and is not recommended in:
 
 - severe active central nervous system lupus
@@ -41,7 +40,6 @@ Severe infections, including fatal cases, have been reported in SLE patients rec
 Physicians should exercise caution when considering the use of Benlysta in patients with severe or chronic infections or a history of recurrent infection.
 Patients who develop an infection while undergoing treatment with Benlysta should be monitored closely and careful consideration given to interrupting immunosuppressant therapy including belimumab until the infection is resolved.
 The risk of using Benlysta in patients with active or latent tuberculosis is unknown.
-
 Depression and suicidality
 
 In controlled clinical intravenous and subcutaneous studies, psychiatric disorders (depression, suicidal ideation and behaviour including suicides) have been reported more frequently in patients receiving Benlysta (see section 4.8).

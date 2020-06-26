@@ -1,6 +1,7 @@
 # 5.2 Pharmacokinetic properties
 
 The subcutaneous pharmacokinetic parameters below are based on population parameter estimates from 661 subjects, comprised of 554 SLE patients and 107 healthy subjects, who received Benlysta subcutaneously.
+
 Absorption
 
 Benlysta in pre-filled pen or pre-filled syringe is administered by subcutaneous injection.
@@ -40,7 +41,6 @@ Therefore, no dose adjustment is recommended for patients with renal impairment.
 
 Hepatic impairment: No specific studies have been conducted to examine the effects of hepatic impairment on the pharmacokinetics of belimumab.
 IgG1 molecules such as belimumab are catabolised by widely distributed proteolytic enzymes, which are not restricted to hepatic tissue and changes in hepatic function are unlikely to have any effect on the elimination of belimumab.
-
 Body weight/Body mass index (BMI)
 
 The effects of body weight and BMI on belimumab exposure after subcutaneous administration were not considered clinically meaningful.
@@ -48,6 +48,7 @@ There was no significant impact on efficacy and safety based on weight.
 Therefore, no dose adjustment is recommended.
 
 Transitioning from intravenous to subcutaneous administration
+
 SLE patients transitioning from 10 mg/kg intravenously every 4 weeks to 200 mg subcutaneously weekly using a 1 to 4 week switching interval had pre-dose belimumab serum concentrations at their first subcutaneous dose close to their eventual subcutaneous steady-state trough concentration (see section 4.2).
 
 Based on simulations with population PK parameters the steady-state average belimumab concentrations for 200 mg subcutaneous every week were similar to 10 mg/kg intravenous every 4 weeks.

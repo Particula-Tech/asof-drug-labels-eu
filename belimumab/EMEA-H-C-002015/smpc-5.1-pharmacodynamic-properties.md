@@ -18,6 +18,7 @@ Median IgG levels at Week 52 were reduced by 11% in patients receiving Benlysta 
 
 In patients with anti-dsDNA antibodies at baseline, median anti-dsDNA antibodies levels at Week 52 were reduced by 56% in patients receiving Benlysta compared with 41% in patients receiving placebo.
 In patients with anti-dsDNA antibodies at baseline, by Week 52, 18% of patients treated with Benlysta had converted to anti-dsDNA negative compared with 15% of the patients receiving placebo.
+
 In patients with low complement levels, normalization of C3 and C4 was observed by Week 52 in 42% and 53% of patients receiving Benlysta and in 21% and 20% of patients receiving placebo, respectively.
 
 Benlysta significantly reduced circulating overall, transitional, naïve, and SLE B cells, as well as plasma cells at Week 52.
@@ -115,7 +116,9 @@ Table 2: Patients with low complement and positive anti-dsDNA at baseline
 
 Age and race
 
-There were too few patients ≥65 years of age or black patients enrolled in the controlled clinical trials with subcutaneous Benlysta to draw meaningful conclusions about the effects of age or race on clinical outcomes.
+There were no observed differences in efficacy or safety in patients ≥65 years who received Benlysta intravenously or subcutaneously compared to the overall population in placebo-controlled studies; however, the number of patients aged ≥65 years (62 patients for efficacy and 219 for safety) is not sufficient to determine whether they respond differently to younger patients.
+
+There were too few black patients enrolled in the placebo-controlled studies with subcutaneous Benlysta to draw meaningful conclusions about the effects of race on clinical outcomes.
 
 The safety and efficacy of Benlysta administered intravenously have been studied in black patients.
 The currently available data are described in the Summary of Product Characteristics of Benlysta 120 mg and 400 mg powder for concentrate for solution for infusion.
@@ -207,7 +210,7 @@ Of these patients, 64.5% had SELENA SLEDAI scores ≥ 10 at baseline.
 | SRI response rate at week-76 (%) Observed treatment difference vs placebo (%) | 27.5 | 39.6 (p=0.0160) 12.1 |
 
 Age
-There were too few patients ≥65 years of age enrolled in the controlled clinical trials to draw meaningful conclusions about the effects of age on clinical outcomes.
+
 Black patients
 Benlysta was administered intravenously to black patients in a randomised (2:1), double-blind, placebo-controlled, 52-week Phase III/IV study (EMBRACE).
 Efficacy was evaluated in 448 patients.
