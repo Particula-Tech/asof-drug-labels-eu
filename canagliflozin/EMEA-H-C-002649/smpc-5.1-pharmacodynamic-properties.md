@@ -10,12 +10,14 @@ Patients with diabetes have been shown to have elevated renal glucose reabsorpti
 Canagliflozin is an orally-active inhibitor of SGLT2.
 By inhibiting SGLT2, canagliflozin reduces reabsorption of filtered glucose and lowers the renal threshold for glucose (RTG), and thereby increases UGE, lowering elevated plasma glucose concentrations by this insulin-independent mechanism in patients with type 2 diabetes.
 The increased UGE with SGLT2 inhibition also translates to an osmotic diuresis, with the diuretic effect leading to a reduction in systolic blood pressure; the increase in UGE results in a loss of calories and therefore a reduction in body weight, as has been demonstrated in studies of patients with type 2 diabetes.
+
 Canagliflozin’s action to increase UGE directly lowering plasma glucose is independent of insulin.
 Improvement in homeostasis model assessment for beta-cell function (HOMA beta-cell) and improved beta-cell insulin secretion response to a mixed-meal challenge has been observed in clinical studies with canagliflozin.
-
 In phase 3 studies, pre-meal administration of canagliflozin 300 mg provided a greater reduction in postprandial glucose excursion than observed with the 100 mg dose.
 This effect at the 300 mg dose of canagliflozin may, in part, be due to local inhibition of intestinal SGLT1 (an important intestinal glucose transporter) related to transient high concentrations of canagliflozin in the intestinal lumen prior to medicinal product absorption (canagliflozin is a low potency inhibitor of the SGLT1 transporter).
 Studies have shown no glucose malabsorption with canagliflozin.
+
+Canagliflozin increases the delivery of sodium to the distal tubule by blocking SGLT2-dependent glucose and sodium reabsorption thereby increasing tubuloglomerular feedback, which is associated with a reduction in intraglomerular pressure and a decrease in hyperfiltration in preclinical models of diabetes and clinical studies.
 
 Pharmacodynamic effects
 
@@ -31,7 +33,7 @@ In a single-dose study in patients with type 2 diabetes, treatment with 300 mg b
 
 Clinical efficacy and safety
 
-Both improvement in glycaemic control and reduction of cardiovascular morbidity and mortality are an integral part of the treatment of type 2 diabetes.
+Improvement in glycaemic control and reduction of cardiovascular and renal morbidity and mortality are integral parts of the treatment of type 2 diabetes.
 
 Glycaemic efficacy and safety
 A total of 10,501 patients with type 2 diabetes participated in ten double-blind, controlled clinical efficacy and safety studies conducted to evaluate the effects of Invokana on glycaemic control.
@@ -44,14 +46,14 @@ In the clinical development programme, 1,085 patients with a baseline eGFR 30 mL
 
 Placebo-controlled studies
 
-Canagliflozin was studied as monotherapy, dual therapy with metformin, dual therapy with a sulphonylurea, triple therapy with metformin and a sulphonylurea, triple therapy with metformin and pioglitazone, and as an add-on therapy with insulin (table 3).
+Canagliflozin was studied as monotherapy, dual therapy with metformin, dual therapy with a sulphonylurea, triple therapy with metformin and a sulphonylurea, triple therapy with metformin and pioglitazone, and as an add-on therapy with insulin (table 4).
 In general, canagliflozin produced clinically and statistically significant (p < 0.001) results relative to placebo in glycaemic control, including HbA1c, the percentage of patients achieving HbA1c < 7%, change from baseline fasting plasma glucose (FPG), and 2-hour postprandial glucose (PPG).
 In addition, reductions in body weight and systolic blood pressure relative to placebo were observed.
-Furthermore, canagliflozin was studied as triple therapy with metformin and sitagliptin and dosed with a titration regimen, using a starting dose of 100 mg and titrated to 300 mg as early as week 6 in patients requiring additional glycaemic control who had appropriate eGFR and were tolerating canagliflozin 100 mg (table 3).
+Furthermore, canagliflozin was studied as triple therapy with metformin and sitagliptin and dosed with a titration regimen, using a starting dose of 100 mg and titrated to 300 mg as early as week 6 in patients requiring additional glycaemic control who had appropriate eGFR and were tolerating canagliflozin 100 mg (table 4).
 Canagliflozin dosed with a titration regimen produced clinically and statistically significant (p < 0.001) results relative to placebo in glycaemic control, including HbA1c and change from baseline fasting plasma glucose (FPG), and a statistically significant (p < 0.01) improvement in the percentage of patients achieving HbA1c < 7%.
 In addition, reductions in body weight and systolic blood pressure relative to placebo were observed.
 
-Table 3: Efficacy results from placebo-controlled clinical studiesa
+Table 4: Efficacy results from placebo-controlled clinical studiesa
 
 | Monotherapy (26 weeks) |  |  |  |
 | --- | --- | --- | --- |
@@ -86,11 +88,11 @@ Table 3: Efficacy results from placebo-controlled clinical studiesa
 | Change from baseline (adjusted mean) | -0.85 | -1.06 | -0.13 |
 | Difference from placebo (adjusted mean) (95% CI) | -0.71b (-0.90; -0.52) | -0.92b (-1.11; -0.73) | N/Ac |
 | Patients (%) achieving HbA1c < 7% | 43.2b | 56.6b | 18.0 |
-| Body weight |  |  |  |
-| Baseline (mean) in kg | 93.5 | 93.5 | 90.8 |
 
-| % change from baseline (adjusted mean) | -2.1 | -2.6 |  | -0.7 |
+| Body weight |  |  |  |  |
 | --- | --- | --- | --- | --- |
+| Baseline (mean) in kg | 93.5 | 93.5 |  | 90.8 |
+| % change from baseline (adjusted mean) | -2.1 | -2.6 |  | -0.7 |
 | Difference from placebo (adjusted mean) (95% CI) | -1.4b (-2.1; -0.7) | -2.0b (-2.7; -1.3) |  | N/Ac |
 | Add-on therapy with insulind (18 weeks) |  |  |  |  |
 |  | Canagliflozin + insulin |  |  | Placebo + insulin (N = 565) |
@@ -124,19 +126,19 @@ a Intent-to-treat population using last observation in study prior to glycaemic 
 b p < 0.001 compared to placebo.
 c Not applicable.
 d Canagliflozin as add-on therapy to insulin (with or without other glucose-lowering medicinal products).
-e Canagliflozin 100 mg titrated to 300 mg f p < 0.01 compared to placebo g 90.7% of subjects in the canagliflozin group uptitrated to 300 mg
-
+e Canagliflozin 100 mg uptitrated to 300 mg f p < 0.01 compared to placebo g 90.7% of subjects in the canagliflozin group uptitrated to 300 mg
 In addition to the studies presented above, glycaemic efficacy results observed in an 18-week dual therapy sub-study with a sulphonylurea and a 26-week triple therapy study with metformin and pioglitazone were generally comparable with those observed in other studies.
+
 Active-controlled studies
 
-Canagliflozin was compared to glimepiride as dual therapy with metformin and compared to sitagliptin as triple therapy with metformin and a sulphonylurea (table 4).
+Canagliflozin was compared to glimepiride as dual therapy with metformin and compared to sitagliptin as triple therapy with metformin and a sulphonylurea (table 5).
 Canagliflozin 100 mg as dual therapy with metformin produced similar reductions in HbA1c from baseline and 300 mg produced superior (p < 0.05) reductions in HbA1c compared to glimepiride, thus demonstrating non-inferiority.
 A lower proportion of patients treated with canagliflozin 100 mg (5.6%) and canagliflozin 300 mg (4.9%) experienced at least one episode/event of hypoglycaemia over 52 weeks of treatment compared to the group treated with glimepiride (34.2%).
 In a study comparing canagliflozin 300 mg to sitagliptin 100 mg in triple therapy with metformin and a sulphonylurea, canagliflozin demonstrated non-inferior (p < 0.05) and superior (p < 0.05) reduction in HbA1c relative to sitagliptin.
 The incidence of hypoglycaemia episodes/events with canagliflozin 300 mg and sitagliptin 100 mg was 40.7% and 43.2%, respectively.
 Significant improvements in body weight and reductions in systolic blood pressure compared to both glimepiride and sitagliptin were also observed.
 
-Table 4: Efficacy results from active-controlled clinical studiesa
+Table 5: Efficacy results from active-controlled clinical studiesa
 
 | Compared to glimepiride as dual therapy with metformin (52 weeks) |  |  |  |
 | --- | --- | --- | --- |
@@ -167,12 +169,13 @@ a Intent-to-treat population using last observation in study prior to glycaemic 
 b p < 0.05.
 c Not applicable.
 d p < 0.001.
+
 Canagliflozin as initial combination therapy with metformin
 
 Canagliflozin was evaluated in combination with metformin as initial combination therapy in patients with type 2 diabetes failing diet and exercise.
-Canagliflozin 100 mg and canagliflozin 300 mg in combination with metformin XR resulted in a statistically significant greater improvement in HbA1C compared to their respective canagliflozin doses (100 mg and 300 mg) alone or metformin XR alone (table 5).
+Canagliflozin 100 mg and canagliflozin 300 mg in combination with metformin XR resulted in a statistically significant greater improvement in HbA1C compared to their respective canagliflozin doses (100 mg and 300 mg) alone or metformin XR alone (table 6).
 
-Table 5: Results from 26-Week Active-Controlled Clinical Study of Canagliflozin as Initial Combination Therapy with Metformin*
+Table 6: Results from 26-week active-controlled clinical study of canagliflozin as initial combination therapy with metformin*
 
 | Efficacy Parameter | Metformin XR (N = 237) | Canagliflozin 100 mg (N = 237) | Canagliflozin 300 mg (N = 238) | Canagliflozin 100 mg + Metformin XR (N = 237) | Canagliflozin 300 mg + Metformin XR (N = 237) |
 | --- | --- | --- | --- | --- | --- |
@@ -193,6 +196,7 @@ Table 5: Results from 26-Week Active-Controlled Clinical Study of Canagliflozin 
 ‡ Adjusted p = 0.001
 § Adjusted p < 0.01
 §§ Adjusted p < 0.05
+
 Special populations
 
 In three studies conducted in special populations (older patients, patients with an eGFR of 30 mL/min/1.73 m2 to < 50 mL/min/1.73 m2 and patients with or at high risk for cardiovascular disease), canagliflozin was added to patients’ current stable diabetes treatments (diet, monotherapy, or combination therapy).
@@ -224,6 +228,7 @@ Body weight
 
 Canagliflozin 100 mg and 300 mg as monotherapy and as dual or triple add-on therapy resulted in statistically significant reductions in the percentage of body weight at 26 weeks relative to placebo.
 In two 52-week active-controlled studies comparing canagliflozin to glimepiride and sitagliptin, sustained and statistically significant mean reductions in the percentage of body weight for canagliflozin as add-on therapy to metformin were -4.2% and -4.7% for canagliflozin 100 mg and 300 mg, respectively, compared to the combination of glimepiride and metformin (1.0%) and -2.5% for canagliflozin 300 mg in combination with metformin and a sulphonylurea compared to sitagliptin in combination with metformin and a sulphonylurea (0.3%).
+
 A subset of patients (N = 208) from the active-controlled dual therapy study with metformin who underwent dual energy X-ray densitometry (DXA) and abdominal computed tomography (CT) scans for evaluation of body composition demonstrated that approximately two-thirds of the weight loss with canagliflozin was due to loss of fat mass with similar amounts of visceral and abdominal subcutaneous fat being lost.
 Two hundred eleven (211) patients from the clinical study in older patients participated in a body composition substudy using DXA body composition analysis.
 This demonstrated that approximately two-thirds of the weight loss associated with canagliflozin was due to loss of fat mass relative to placebo.
@@ -238,25 +243,25 @@ Patients with baseline HbA1c > 10% to ≤12%
 
 A substudy of patients with baseline HbA1c > 10% to ≤12% with canagliflozin as monotherapy resulted in reductions from baseline in HbA1c (not placebo-adjusted) of -2.13% and -2.56% for canagliflozin 100 mg and 300 mg, respectively.
 
-Cardiovascular outcomes
+Cardiovascular outcomes in the CANVAS Program
 
 The effect of canagliflozin on cardiovascular events in adults with type 2 diabetes who had established cardiovascular (CV) disease or were at risk for CVD (two or more CV risk factors), was evaluated in the CANVAS Program (integrated analysis of the CANVAS and the CANVAS-R study).
-These studies were multicenter, multi-national, randomised, double-blind, parallel group, with similar inclusion and exclusion criteria and patient populations.
+These studies were multi-centre, multi-national, randomised, double-blind, parallel group, with similar inclusion and exclusion criteria and patient populations.
 The CANVAS Program compared the risk of experiencing a Major Adverse Cardiovascular Event (MACE) defined as the composite of cardiovascular death, nonfatal myocardial infarction and nonfatal stroke, between canagliflozin and placebo on a background of standard of care treatments for diabetes and atherosclerotic cardiovascular disease.
 
 In CANVAS, subjects were randomly assigned 1:1:1 to canagliflozin 100 mg, canagliflozin 300 mg, or matching placebo.
 In CANVAS-R, subjects were randomly assigned 1:1 to canagliflozin 100 mg or matching placebo, and titration to 300 mg was permitted (based on tolerability and glycaemic needs) after Week 13.
 Concomitant antidiabetic and atherosclerotic therapies could be adjusted, according to the standard care for these diseases.
 
-A total of 10,134 patients were treated (4,327 in CANVAS and 5,807 in CANVAS-R; total of 4,344 randomly assigned to placebo and 5,790 to canagliflozin) and exposed for a mean of 149 weeks (exposed for a mean of 223 weeks in CANVAS and 94 weeks in CANVAS-R).
+A total of 10,134 patients were treated (4,327 in CANVAS and 5,807 in CANVAS-R; total of 4,344 randomly assigned to placebo and 5,790 to canagliflozin) for a mean exposure duration of 149 weeks (223 weeks in CANVAS and 94 weeks in CANVAS-R).
 Vital status was obtained for 99.6% of subjects across the studies.
 The mean age was 63 years and 64% were male.
 Sixty-six percent of subjects had a history of established cardiovascular disease, with 56% having a history of coronary disease, 19% with cerebrovascular disease, and 21% with peripheral vascular disease; 14% had a history of heart failure.
 
 The mean HbA1c at baseline was 8.2% and mean duration of diabetes was 13.5 years.
-
 Baseline renal function was normal or mildly impaired in 80% of patients and moderately impaired in 20% of patients (mean eGFR 77 mL/min/1.73 m2).
-At baseline, patients were treated with one or more antidiabetic medications including metformin (77%), insulin (50%), and sulfonylurea (43%).
+At baseline, patients were treated with one or more antidiabetic medicinal product including metformin (77%), insulin (50%), and sulfonylurea (43%).
+
 The primary endpoint in the CANVAS Program was the time to first occurrence of a MACE.
 Secondary endpoints within a sequential conditional hypothesis testing were all-cause mortality and cardiovascular mortality.
 
@@ -264,7 +269,7 @@ Patients in the pooled canagliflozin groups (pooled analysis of canagliflozin 10
 
 Based on the Kaplan-Meier plot for the first occurrence of MACE, shown below, the reduction in MACE in the canagliflozin group was observed as early as Week 26 and was maintained throughout the remainder of the study (see Figure 1).
 
-Figure 1: Time to First Occurrence of MACE
+Figure 1: Time to first occurrence of MACE
 
 There were 2,011 patients with eGFR 30 to < 60 mL/min/1.73 m2.
 The MACE findings in this subgroup were consistent with the overall findings.
@@ -272,23 +277,62 @@ The MACE findings in this subgroup were consistent with the overall findings.
 Each MACE component positively contributed to the overall composite, as shown in Figure 2.
 Results for the 100 mg and 300 mg canagliflozin doses were consistent with results for the combined dose groups.
 
-Figure 2: Treatment Effect for the Primary Composite Endpoint and its Components
+Figure 2: Treatment effect for the primary composite endpoint and its components
 
 1 P value for superiority (2-sided) = 0.0158.
-All-cause mortality
+All-cause mortality in the CANVAS Program
 
-In the combined canagliflozin group, the HR for all-cause mortality versus placebo was 0.87 (0.74, 1.01).
+In the combined canagliflozin group, the HR for all-cause mortality versus placebo was 0.87; 95% CI (0.74, 1.01).
 
-Heart failure requiring hospitalization
+Heart failure requiring hospitalization in the CANVAS Program
 
 Canagliflozin reduced the risk for heart failure requiring hospitalization compared to placebo (HR: 0.67; 95% CI (0.52, 0.87)).
 
-Renal Endpoints
+Renal endpoints in the CANVAS Program
 
-In the CANVAS Program, for time to first adjudicated nephropathy event (doubling of serum creatinine, need for renal-replacement therapy, and renal death), the HR was 0.53 (95% CI: 0.33, 0.84) for canagliflozin (0.15 events per 100 patient-years) versus placebo (0.28 events per
-100 patient-years).
+For time to first adjudicated nephropathy event (doubling of serum creatinine, need for renal-replacement therapy, and renal death), the HR was 0.53 (95% CI: 0.33, 0.84) for canagliflozin (0.15 events per 100 patient-years) versus placebo (0.28 events per 100 patient-years).
 In addition, canagliflozin reduced progression of albuminuria 25.8% versus placebo 29.2% (HR: 0.73; 95% CI: 0.67, 0.79) in patients with baseline normo- or micro-albuminuria.
 
+Renal outcomes in the CREDENCE study
+
+The effect of canagliflozin 100 mg on renal events in adults with type 2 diabetes and diabetic kidney disease (DKD) with estimated glomerular filtration rate (eGFR) 30 to < 90 mL/min/1.73 m2 and albuminuria (˃ 300 to 5000 mg/g of creatinine), was evaluated in the Canagliflozin and Renal Events in Diabetes with Established Nephropathy Clinical Evaluation Trial (CREDENCE).
+This was a multi-centre, multi-national, randomised, double-blind, event-driven, placebo-controlled, parallel-group study.
+The CREDENCE study compared the risk of experiencing DKD defined as the composite of end-stage kidney disease, doubling of serum creatinine, and renal or cardiovascular death, between canagliflozin 100 mg and placebo on a background of standard of care treatments for DKD, including angiotensin-converting enzyme inhibitor (ACEi) or angiotensin receptor blocker (ARB).
+Canagliflozin 300 mg was not investigated in this study.
+
+In CREDENCE, subjects were randomly assigned 1:1 to canagliflozin 100 mg or placebo, stratified by screening eGFR 30 to <45, 45 to <60, 60 to <90 mL/min/1.73 m2.
+Treatment with canagliflozin 100 mg was continued in patients until the initiation of dialysis or in the event of renal transplantation.
+
+A total of 4,397 subjects were treated and exposed for a mean of 115 weeks.
+The mean age was 63 years and 66% were male.
+
+The mean baseline HbA1c was 8.3% and baseline median urine albumin/creatinine was 927 mg/g.
+The most frequent antihyperglycaemic agents (AHA) used at baseline were insulin (65.5%), biguanides (57.8%), and sulfonylureas (28.8%).
+Nearly all subjects (99.9%) were on ACEi or ARB at randomisation.
+About 92% of the subjects were on cardiovascular therapies (not including ACEi/ARBs) at baseline, with approximately 60% taking an anti-thrombotic agent (including acetylsalicylic acid) and 69% on statins.
+
+The mean baseline eGFR was 56.2 mL/min/1.73 m2 and approximately 60% of the population had a baseline eGFR of < 60 mL/min/1.73 m2.
+The proportion of subjects with prior CV disease was 50.4%; 14.8% had a history of heart failure.
+
+The primary composite endpoint in the CREDENCE study was the time to first occurrence of ESKD (defined as an eGFR < 15 mL/min/1.73 m2, initiation of chronic dialysis or renal transplant), doubling of serum creatinine, and renal or CV death.
+
+Canagliflozin 100 mg significantly reduced the risk of first occurrence of the primary composite endpoint of ESKD, doubling of serum creatinine, and renal or CV death [p<0.0001; HR: 0.70; 95% CI: 0.57, 0.84] (see Figure 4).
+Treatment effect was consistent across subgroups, including all three eGFR strata and subjects with or without a history of CV disease.
+
+Based on the Kaplan-Meier plot for the time to first occurrence of the primary composite endpoint shown below, the treatment effect was evident beginning from Week 52 with canagliflozin 100 mg and was maintained through the end of study (see Figure 3).
+
+Canagliflozin 100 mg significantly reduced the risk of cardiovascular secondary endpoints, as shown in Figure 4.
+
+Figure 3: CREDENCE: Time to first occurrence of the primary composite endpoint
+
+* 95% RCI (Repeated Confidence Interval) for the primary endpoint with family-wise type I error-rate controlled at a 2-sided significance level of 0.05.
+Figure 4: Treatment effect for the primary composite endpoint and its components and secondary endpoints
+
+As shown in Figure 5, the eGFR in placebo-treated patients demonstrated a progressive linear decline over time; in contrast, the canagliflozin group showed an acute decrease at Week 3, followed by an attenuated decline over time; after Week 52, the LS mean decrease in eGFR was smaller in the canagliflozin group than in the placebo group, and the treatment effect was maintained through the end of treatment.
+
+Figure 5: LS mean change from baseline in eGFR over time (on-treatment analysis set)
+
+In CREDENCE, the incidence rate for renal-related adverse events was lower in the canagliflozin 100 mg group compared with the placebo group (5.71 and 7.91 per 100 patient-years in canagliflozin 100 mg and placebo, respectively).
 Paediatric population
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with canagliflozin in one or more subsets of the paediatric population in type 2 diabetes (see section 4.2 for information on paediatric use).

@@ -2,20 +2,19 @@
 
 Renal impairment
 
-The efficacy of canagliflozin is dependent on renal function, and efficacy is reduced in patients who have moderate renal impairment and likely absent in patients with severe renal impairment (see section 4.2).
+The efficacy of canagliflozin for glycaemic control is dependent on renal function, and efficacy is reduced in patients who have moderate renal impairment and likely absent in patients with severe renal impairment (see section 4.2).
 
 In patients with an eGFR < 60 mL/min/1.73 m2 or CrCl < 60 mL/min, a higher incidence of adverse reactions associated with volume depletion (e.g., postural dizziness, orthostatic hypotension, hypotension) was reported, particularly with the 300 mg dose.
 In addition, in such patients more events of elevated potassium and greater increases in serum creatinine and blood urea nitrogen (BUN) were reported (see section 4.8).
 
-Therefore, the canagliflozin dose should be limited to 100 mg once daily in patients with eGFR < 60 mL/min/1.73 m2 or CrCl < 60 mL/min and canagliflozin should not be used in patients with an eGFR < 45 mL/min/1.73 m2 or CrCl < 45 mL/min (see section 4.2).
-Canagliflozin has not been studied in severe renal impairment (eGFR < 30 mL/min/1.73 m2 or CrCl < 30 mL/min) or ESRD.
+Therefore, the canagliflozin dose should be limited to 100 mg once daily in patients with eGFR < 60 mL/min/1.73 m2 or CrCl < 60 mL/min (see section 4.2).
+
+Regardless of pretreatment eGFR, patients on canagliflozin experienced an initial fall in eGFR that thereafter attenuated over time (see sections 4.8 and 5.1).
 
 Monitoring of renal function is recommended as follows:
 
 - Prior to initiation of canagliflozin and at least annually, thereafter (see sections 4.2, 4.8, 5.1, and 5.2)
-- Prior to initiation of concomitant medicinal products that may reduce renal function and periodically thereafter
-- For renal function approaching moderate renal impairment, at least 2 times to 4 times per year.
-  If renal function falls persistently below eGFR 45 mL/min/1.73 m2 or CrCl < 45 mL/min, canagliflozin treatment should be discontinued.
+- Prior to initiation of concomitant medicinal products that may reduce renal function and periodically thereafter.
 
 Use in patients at risk for adverse reactions related to volume depletion
 
@@ -29,6 +28,7 @@ In patients susceptible to greater reductions in intravascular volume as describ
 
 Patients should be advised to report symptoms of volume depletion.
 Canagliflozin is not recommended for use in patients receiving loop diuretics (see section 4.5) or who are volume depleted, e.g., due to acute illness (such as gastrointestinal illness).
+
 For patients receiving canagliflozin, in case of intercurrent conditions that may lead to volume depletion (such as a gastrointestinal illness), careful monitoring of volume status (e.g., physical examination, blood pressure measurements, laboratory tests including renal function tests), and serum electrolytes is recommended.
 Temporary interruption of treatment with canagliflozin may be considered for patients who develop volume depletion while on canagliflozin therapy until the condition is corrected.
 If interrupted, consideration should be given to more frequent glucose monitoring.
@@ -36,8 +36,9 @@ If interrupted, consideration should be given to more frequent glucose monitorin
 Diabetic ketoacidosis
 
 Rare cases of diabetic ketoacidosis (DKA), including life-threatening and fatal cases, have been reported in patients treated with SGLT2 inhibitors, including canagliflozin.
-In a number of cases, the presentation of the condition was atypical with only moderately increased blood glucose values, below 14 mmol/l (250 mg/dL).
+In a number of cases, the presentation of the condition was atypical with only moderately increased blood glucose values, below 14 mmol/L (250 mg/dL).
 It is not known if DKA is more likely to occur with higher doses of canagliflozin.
+Risk of DKA appears to be higher in patients with moderately to severely decreased renal function who require insulin.
 
 The risk of diabetic ketoacidosis must be considered in the event of non-specific symptoms such as nausea, vomiting, anorexia, abdominal pain, excessive thirst, difficulty breathing, confusion, unusual fatigue or sleepiness.
 Patients should be assessed for ketoacidosis immediately if these symptoms occur, regardless of blood glucose level.
@@ -55,13 +56,14 @@ Patients who may be at higher risk of DKA include patients with a low beta-cell 
 SGLT2 inhibitors should be used with caution in these patients.
 
 Restarting SGLT2 inhibitor treatment in patients with previous DKA while on SGLT2 inhibitor treatment is not recommended unless another clear precipitating factor is identified and resolved.
-
 The safety and efficacy of canagliflozin in patients with type 1 diabetes have not been established and canagliflozin should not be used for treatment of patients with type 1 diabetes.
 Limited data from clinical studies suggest that DKA occurs with common frequency when patients with type 1 diabetes are treated with SGLT2 inhibitors.
 
 Lower limb amputations
 
-In long-term clinical studies of canagliflozin in type 2 diabetes patients with established cardiovascular disease (CVD) or at least 2 risk factors for CVD, an approximately 2-fold increased risk of lower limb amputation (primarily of the toe and midfoot), has been observed in patients treated with canagliflozin (see section 4.8).
+In long-term clinical studies of canagliflozin in patients with type 2 diabetes with established cardiovascular disease (CVD) or at least 2 risk factors for CVD, Invokana was associated with an increased risk of lower limb amputation versus placebo (0.63 vs 0.34 events per 100 patient-years, respectively), and this increase occurred primarily in the toe and midfoot (see section 4.8).
+In a long-term clinical study in patients with type 2 diabetes and diabetic kidney disease, no difference in lower limb amputation risk was observed in patients treated with canagliflozin 100 mg relative to placebo.
+In this study precautionary measures as outlined below were applied.
 As an underlying mechanism has not been established, risk factors, apart from general risk factors, for amputation are unknown.
 
 Before initiating Invokana, consider factors in the patient history that may increase the risk for amputation.
@@ -105,4 +107,8 @@ Due to its mechanism of action, patients taking canagliflozin will test positive
 Lactose intolerance
 
 The tablets contain lactose.
-Patients with rare hereditary problems of galactose intolerance, total lactase deficiency, or glucose-galactose malabsorption should not take this medicine.
+Patients with rare hereditary problems of galactose intolerance, total lactase deficiency, or glucose-galactose malabsorption should not take this medicinal product.
+
+Sodium
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.

@@ -37,6 +37,7 @@ Digoxin
 The combination of canagliflozin 300 mg once daily for 7 days with a single dose of digoxin 0.5 mg followed by 0.25 mg daily for 6 days resulted in a 20% increase in AUC and a 36% increase in Cmax of digoxin, probably due to inhibition of P-gp.
 Canagliflozin has been observed to inhibit P-gp in vitro.
 Patients taking digoxin or other cardiac glycosides (e.g., digitoxin) should be monitored appropriately.
+
 Dabigatran
 The effect of concomitant administration of canagliflozin (a weak P-gp inhibitor) on dabigatran etexilate (a P-gp substrate) has not been studied.
 As dabigatran concentrations may be increased in the presence of canagliflozin, monitoring (looking for signs of bleeding or anaemia) should be exercised when dabigatran is combined with canagliflozin.
@@ -53,6 +54,6 @@ Medicinal product/Laboratory test interference
 
 1,5-AG assay
 
-Increases in urinary glucose excretion with Invokana can falsely lower 1,5-anhydroglucitol (1,5-AG) levels and make measurements of 1,5-AG unreliable in assessing glycemic control.
-Therefore, 1,5-AG assays should not be used for assessment of glycemic control in patients on canagliflozin.
+Increases in urinary glucose excretion with Invokana can falsely lower 1,5-anhydroglucitol (1,5-AG) levels and make measurements of 1,5-AG unreliable in assessing glycaemic control.
+Therefore, 1,5-AG assays should not be used for assessment of glycaemic control in patients on canagliflozin.
 For further detail, it may be advisable to contact the specific manufacturer of the 1,5-AG assay.

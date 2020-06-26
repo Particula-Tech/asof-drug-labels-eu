@@ -4,7 +4,8 @@ Posology
 
 The recommended starting dose of canagliflozin is 100 mg once daily.
 In patients tolerating canagliflozin 100 mg once daily who have an estimated glomerular filtration rate
-(eGFR) ≥60 mL/min/1.73 m2 or CrCl ≥60 mL/min and need tighter glycaemic control, the dose can be increased to 300 mg once daily orally (see below and section 4.4).
+(eGFR) ≥60 mL/min/1.73 m2 or CrCl ≥60 mL/min and need tighter glycaemic control, the dose can be increased to 300 mg once daily (see section 4.4).
+For dose adjustment recommendations according to eGFR refer to table 1.
 
 Care should be taken when increasing the dose in patients ≥75 years of age, patients with known cardiovascular disease, or other patients for whom the initial canagliflozin-induced diuresis poses a risk (see section 4.4).
 In patients with evidence of volume depletion, correcting this condition prior to initiation of canagliflozin is recommended (see section 4.4).
@@ -18,19 +19,24 @@ Elderly (≥65 years old)
 Renal function and risk of volume depletion should be taken into account (see section 4.4).
 
 Renal impairment
-For patients with an eGFR 60 mL/min/1.73 m2 to < 90 mL/min/1.73 m2 or CrCl 60 mL/min to
-< 90 mL/min, no dose adjustment is needed.
+For treatment of diabetic kidney disease as add on to standard of care (eg ACE-inhibitors or ARBs), a dose of 100 mg canagliflozin once daily should be used (see table 1).
+Because the glycaemic lowering efficacy of canagliflozin is reduced in patients with moderate renal impairment and likely absent in patients with severe renal impairment, if further glycaemic control is needed, the addition of other anti-hyperglycaemic agents should be considered.
+For dose adjustment recommendations according to eGFR refer to table 1.
 
-Canagliflozin should not be initiated in patients with an eGFR < 60 mL/min/1.73 m2 or
-CrCl < 60 mL/min.
-In patients tolerating canagliflozin whose eGFR falls persistently below 60 mL/min/1.73 m2 or CrCl 60 mL/min, the dose of canagliflozin should be adjusted to or maintained at 100 mg once daily.
-Canagliflozin should be discontinued when eGFR is persistently below 45 mL/min/1.73 m2 or CrCl persistently below 45 mL/min (see sections 4.4, 4.8, 5.1, and 5.2).
+Table 1: Dose adjustment recommendationsa
 
-Canagliflozin should also not be used in patients with end stage renal disease (ESRD) or in patients on dialysis as it is not expected to be effective in such populations (see sections 4.4 and 5.2).
+| eGFR (mL/min/1.73 m2) or CrCl (mL/min) | Total daily dose of canagliflozin |
+| --- | --- |
+| ≥60 | Initiate with 100 mg. In patients tolerating 100 mg and requiring additional glycaemic control, the dose can be increased to 300 mg. |
+| 45 to < 60b | Initiate with 100 mg. Continue 100 mg for patients already taking Invokana. |
+| 30 to < 45b, c | Initiate with 100 mg. Continue 100 mg for patients already taking Invokana. |
+| < 30b, c | Continue 100 mg for patients already taking Invokanad. Invokana should not be initiated. |
+
+a See sections 4.4, 4.8, 5.1, and 5.2.
+b If further glycaemic control is needed, the addition of other anti hyperglycaemic agents should be considered c With urinary albumin/creatinine ratio ˃ 300 mg/g d Continue dosing until dialysis or renal transplantation.
 
 Hepatic impairment
 For patients with mild or moderate hepatic impairment, no dose adjustment is required.
-
 Canagliflozin has not been studied in patients with severe hepatic impairment and is not recommended for use in these patients (see section 5.2).
 
 Paediatric population

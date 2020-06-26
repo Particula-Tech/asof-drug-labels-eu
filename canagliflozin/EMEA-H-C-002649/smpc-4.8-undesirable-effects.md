@@ -2,36 +2,37 @@
 
 Summary of the safety profile
 
-The safety of canagliflozin was evaluated in 18,248 patients with type 2 diabetes, including 11,078 patients treated with canagliflozin and 7,170 patients treated with comparator who received medicinal product in 14 double-blind, controlled phase 3 and phase 4 clinical studies.
-A total of 10,134 patients were treated in two dedicated cardiovascular studies, exposed for a mean of 149 weeks (exposed for a mean of 223 weeks in CANVAS and 94 weeks in CANVAS-R), and 8,114 patients treated in 12 double blind, controlled phase 3 and phase 4 clinical studies, followed for a mean of 49 weeks.
+The safety of canagliflozin was evaluated in 22,645 patients with type 2 diabetes, including 13,278 patients treated with canagliflozin and 9,367 patients treated with comparator in
+15 double-blind, controlled phase 3 and phase 4 clinical studies.
+A total of 10,134 patients were treated in two dedicated cardiovascular studies for a mean exposure duration of 149 weeks (223 weeks in CANVAS and 94 weeks in CANVAS-R), and 8,114 patients were treated in 12 double blind, controlled phase 3 and phase 4 clinical studies, for a mean exposure duration of 49 weeks.
+In a dedicated renal outcomes study, a total of 4,397 patients with type 2 diabetes and diabetic kidney disease had a mean exposure duration of 115 weeks.
 
 The primary assessment of safety and tolerability was conducted in a pooled analysis (n = 2,313) of four 26-week placebo-controlled clinical studies (monotherapy and add-on therapy with metformin, metformin and a sulphonylurea, and metformin and pioglitazone).
 The most commonly reported adverse reactions during treatment were hypoglycaemia in combination with insulin or a sulphonylurea, vulvovaginal candidiasis, urinary tract infection, and polyuria or pollakiuria
 (i.e., urinary frequency).
 Adverse reactions leading to discontinuation of ≥0.5% of all canagliflozin-treated patients in these studies were vulvovaginal candidiasis (0.7% of female patients) and balanitis or balanoposthitis (0.5% of male patients).
-Additional safety analyses (including long-term data) from data across the entire canagliflozin programme (placebo- and active-controlled studies) were conducted to assess reported adverse reactions in order to identify adverse reactions (see table 1) (see sections 4.2 and 4.4).
-
+Additional safety analyses (including long-term data) from data across the entire canagliflozin programme (placebo- and active-controlled studies) were conducted to assess reported adverse reactions in order to identify adverse reactions (table 2) (see sections 4.2 and 4.4).
 Tabulated list of adverse reactions
 
-Adverse reactions in table 1 are based on the pooled analysis of the placebo- and active-controlled studies described above.
+Adverse reactions in table 2 are based on the pooled analysis of the placebo- and active-controlled studies described above.
 Adverse reactions reported from world-wide postmarketing use of canagliflozin are also included in this tabulation.
 Adverse reactions listed below are classified according to frequency and system organ class.
 Frequency categories are defined according to the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data).
 
-Table 1: Tabulated list of adverse reactions (MedDRA) from placebo-e and active-controlled studiese and from postmarketing experience
+Table 2: Tabulated list of adverse reactions (MedDRA) from placebo-e and active-controlled studiese and from postmarketing experience
 
 | System organ class Frequency | Adverse reaction |
 | --- | --- |
 | Infections and infestations |  |
-| very common | Vulvovaginal candidiasisb,k |
-| common | Balanitis or balanoposthitisb,l, Urinary tract infectionc (pyelonephritis and urosepsis have been reported postmarketing) |
+| very common | Vulvovaginal candidiasisb, j |
+| common | Balanitis or balanoposthitisb, k, Urinary tract infectionc (pyelonephritis and urosepsis have been reported postmarketing) |
 | not known | Necrotising fasciitis of the perineum (Fournier’s gangrene)d |
 | Immune system disorders |  |
-| rare | Anaphylactic reactionh |
+| rare | Anaphylactic reaction |
 | Metabolism and nutrition disorders |  |
 | very common | Hypoglycaemia in combination with insulin or sulphonylureac |
 | uncommon | Dehydrationa |
-| rare | Diabetic ketoacidosisb,h |
+| rare | Diabetic ketoacidosisb |
 | Nervous system disorders |  |
 | uncommon | Dizziness posturala, Syncopea |
 | Vascular disorders |  |
@@ -40,15 +41,15 @@ Table 1: Tabulated list of adverse reactions (MedDRA) from placebo-e and active-
 | common | Constipation, Thirstf, Nausea |
 | Skin and subcutaneous tissue disorders |  |
 | uncommon | Photosensitivity, Rashg, Urticaria |
-| rare | Angioedemah |
+| rare | Angioedema |
 | Musculoskeletal and connective tissue disorders |  |
-| uncommon | Bone fracturei |
+| uncommon | Bone fractureh |
 | Renal and urinary disorders |  |
-| common | Polyuria or Pollakiuriaj |
-| uncommon | Renal failureh (mainly in the context of volume depletion) |
+| common | Polyuria or Pollakiuriai |
+| uncommon | Renal failure (mainly in the context of volume depletion) |
 | Investigations |  |
-| common | Dyslipidemiam, Haematocrit increasedb,n |
-| uncommon | Blood creatinine increasedb,o, Blood urea increasedb,p, Blood potassium increasedb,q, Blood phosphate increasedr |
+| common | Dyslipidemial, Haematocrit increasedb, m |
+| uncommon | Blood creatinine increasedb, n, Blood urea increasedb, o, Blood potassium increasedb, p, Blood phosphate increasedq |
 | Surgical and medical procedures |  |
 | uncommon | Lower limb amputations (mainly of the toe and midfoot) especially in patients at high risk for heart diseaseb |
 
@@ -56,41 +57,46 @@ a Related to volume depletion; see section 4.4 and description of adverse reacti
 b See section 4.4 and description of AR below.
 c See description of AR below.
 d See section 4.4.
-e Safety data profiles from individual pivotal studies (including studies in moderately renally impaired patients; older patients [≥55 years of age to ≤80 years of age]; patients with increased CV-risk) were generally consistent with the adverse reactions identified in this table.
+e Safety data profiles from individual pivotal studies (including studies in moderately renally impaired patients; older patients [≥55 years of age to ≤80 years of age]; patients with increased CV- and renal-risk) were generally consistent with the adverse reactions identified in this table.
 f Thirst includes the terms thirst, dry mouth, and polydipsia.
 g Rash includes the terms rash erythematous, rash generalised, rash macular, rash maculopapular, rash papular, rash pruritic, rash pustular, and rash vesicular.
-h Based on postmarketing experience with canagliflozin.
-i Related to bone fracture; see description of AR below.
-j Polyuria or pollakiuria includes the terms polyuria, pollakiuria, micturition urgency, nocturia, and urine output increased.
-k Vulvovaginal candidiasis includes the terms vulvovaginal candidiasis, vulvovaginal mycotic infection, vulvovaginitis, vaginal infection, vulvitis, and genital infection fungal.
-l Balanitis or balanoposthitis includes the terms balanitis, balanoposthitis, balanitis candida, and genital infection fungal.
-m Mean percent increases from baseline for canagliflozin 100 mg and 300 mg versus placebo, respectively, were total cholesterol 3.4% and 5.2% versus 0.9%; HDL-cholesterol 9.4% and 10.3% versus 4.0%; LDL-cholesterol 5.7% and 9.3% versus 1.3%; non-HDL-cholesterol 2.2% and 4.4% versus 0.7%; triglycerides 2.4% and 0.0% versus 7.6%.
-n Mean changes from baseline in haematocrit were 2.4% and 2.5% for canagliflozin 100 mg and 300 mg, respectively, compared to 0.0% for placebo.
+h Related to bone fracture; see description of AR below.
+i Polyuria or pollakiuria includes the terms polyuria, pollakiuria, micturition urgency, nocturia, and urine output increased.
+j Vulvovaginal candidiasis includes the terms vulvovaginal candidiasis, vulvovaginal mycotic infection, vulvovaginitis, vaginal infection, vulvitis, and genital infection fungal.
+k Balanitis or balanoposthitis includes the terms balanitis, balanoposthitis, balanitis candida, and genital infection fungal.
+l Mean percent increases from baseline for canagliflozin 100 mg and 300 mg versus placebo, respectively, were total cholesterol 3.4% and 5.2% versus 0.9%; HDL-cholesterol 9.4% and 10.3% versus 4.0%; LDL-cholesterol 5.7% and 9.3% versus 1.3%; non-HDL-cholesterol 2.2% and 4.4% versus 0.7%; triglycerides 2.4% and 0.0% versus 7.6%.
+m Mean changes from baseline in haematocrit were 2.4% and 2.5% for canagliflozin 100 mg and 300 mg, respectively, compared to 0.0% for placebo.
+n Mean percent changes from baseline in creatinine were 2.8% and 4.0% for canagliflozin 100 mg and 300 mg, respectively, compared to 1.5% for placebo.
 
-- Mean percent changes from baseline in creatinine were 2.8% and 4.0% for canagliflozin 100 mg and 300 mg, respectively, compared to 1.5% for placebo.
+- Mean percent changes from baseline in blood urea nitrogen were 17.1% and 18.0% for canagliflozin 100 mg and 300 mg, respectively, compared to 2.7% for placebo.
 
-p Mean percent changes from baseline in blood urea nitrogen were 17.1% and 18.0% for canagliflozin 100 mg and 300 mg, respectively, compared to 2.7% for placebo.
-q Mean percent changes from baseline in blood potassium were 0.5% and 1.0% for canagliflozin 100 mg and 300 mg, respectively, compared to 0.6% for placebo.
-r Mean percent changes from baseline in serum phosphate were 3.6% and 5.1% for canagliflozin 100 mg and 300 mg, compared to 1.5% for placebo.
+p Mean percent changes from baseline in blood potassium were 0.5% and 1.0% for canagliflozin 100 mg and 300 mg, respectively, compared to 0.6% for placebo.
+q Mean percent changes from baseline in serum phosphate were 3.6% and 5.1% for canagliflozin 100 mg and 300 mg, compared to 1.5% for placebo.
 
 Description of selected adverse reactions
 
+Diabetic ketoacidosis
+
+In a long-term renal outcomes study in patients with type 2 diabetes and diabetic kidney disease, incidence rates of adjudicated events of diabetic ketoacidosis (DKA) were 0.21 (0.5%, 12/2,200) and 0.03 (0.1%, 2/2,197) per 100 patient-years of follow-up with canagliflozin 100 mg and placebo, respectively; of the 14 patients with DKA, 8 (7 on canagliflozin 100 mg and 1 on placebo) had a pretreatment eGFR of 30 to ˂ 45 mL/min/1.73 m2 (see section 4.4).
+
 Lower limb amputation
 
-In patients with type 2 diabetes who had established cardiovascular disease or at least two risk factors for cardiovascular disease, canagliflozin was associated with an approximately 2-fold increased risk of lower limb amputation as observed in the Integrated CANVAS Program comprised of CANVAS and CANVAS-R, two large, long-term, randomised, placebo-controlled trials evaluating 10,134 patients.
+In patients with type 2 diabetes who had established cardiovascular disease or at least two risk factors for cardiovascular disease, canagliflozin was associated with an increased risk of lower limb amputation as observed in the Integrated CANVAS Program comprised of CANVAS and CANVAS-R, two large, long-term, randomised, placebo-controlled trials evaluating 10,134 patients.
 The imbalance occurred as early as the first 26 weeks of therapy.
 Patients in CANVAS and CANVAS-R were followed for an average of 5.7 and 2.1 years, respectively.
 Regardless of treatment with canagliflozin or placebo, the risk of amputation was highest in patients with a baseline history of prior amputation, peripheral vascular disease, and neuropathy.
 The risk of lower limb amputation was not dose-dependent.
-The amputation results for the Integrated CANVAS Program are shown in table 2.
+The amputation results for the Integrated CANVAS Program are shown in table 3.
+There was no difference in risk of lower limb amputations associated with the use of canagliflozin 100 mg relative to placebo (1.2 vs 1.1 events per 100 patient-years, respectively [HR: 1.11; 95%
+CI 0.79, 1.56]) in CREDENCE, a long-term renal outcomes study of 4,397 patients with type 2 diabetes and diabetic kidney disease (see section 4.4).
 In other type 2 diabetes studies with canagliflozin, which enrolled a general diabetic population of 8,114 patients, no difference in lower limb amputation risk was observed relative to control.
 
-Table 2: Integrated Analysis of Amputations in CANVAS AND CANVAS-R
+Table 3: Integrated analysis of amputations in CANVAS AND CANVAS-R
 
 |  | Placebo N = 4344 | canagliflozin N = 5790 |
 | --- | --- | --- |
 | Total number of subjects with events, n (%) | 47 (1.1) | 140 (2.4) |
-| Incidence rate (per 100 subject-years) | 0.34 | 0.63 |
+| Incidence rate (per 100 patient-years) | 0.34 | 0.63 |
 | HR (95% CI) vs. placebo |  | 1.97 (1.41, 2.75) |
 | Minor Amputation, n (%)* | 34/47 (72.3) | 99/140 (70.7) |
 | Major Amputation, n (%)† | 13/47 (27.7) | 41/140 (29.3) |
@@ -102,8 +108,9 @@ The percentage of minor and major amputations is based on the highest level ampu
 * Toe and midfoot
 † Ankle, below knee and above knee
 
-Of the subjects who had an amputation, the toe and midfoot were the most frequent sites (71%) in both treatment groups (see table 2).
+Of the subjects, within the CANVAS Program, who had an amputation, the toe and midfoot were the most frequent sites (71%) in both treatment groups (table 3).
 Multiple amputations (some involving both lower limbs) were observed infrequently and in similar proportions in both treatment groups.
+
 Lower limb infections, diabetic foot ulcers, peripheral arterial disease, and gangrene, were the most common medical events associated with the need for an amputation in both treatment groups (see section 4.4).
 
 Adverse reactions related to volume depletion
@@ -119,7 +126,11 @@ For patients on loop diuretics, the incidence rates were 5.0 on canagliflozin 10
 For patients with a baseline eGFR 30 mL/min/1.73 m2 to < 60 mL/min/1.73 m2, the incidence rates were 5.2 on canagliflozin 100 mg and 5.4 on canagliflozin 300 mg compared to 3.1 events per 100 patient-years of exposure in the control group.
 In patients ≥75 years of age, the incidence rates were 5.3 on canagliflozin 100 mg and 6.1 on canagliflozin 300 mg compared to 2.4 events per 100 patient-years of exposure in the control group (see sections 4.2 and 4.4).
 
-In the dedicated cardiovascular study and the larger pooled analysis, discontinuations due to adverse reactions related to volume depletion and serious adverse reactions related to volume depletion were not increased with canagliflozin.
+In a long-term renal outcomes study in patients with type 2 diabetes and diabetic kidney disease, incidence rate of events related to volume depletion was 2.84 and 2.35 events per 100 patient-years for canagliflozin 100 mg and placebo, respectively.
+The incidence rate was observed to increase with decreasing eGFR.
+In subjects with eGFR 30 to <45 mL/min/1.73 m2, the incidence rate of volume depletion was higher in the canagliflozin group (4.91 events per 100 patient-years) compared to the placebo group (2.60 events per 100 patient-years); however, in the subgroups eGFR ≥45 to <60 and eGFR 60 to <90 mL/min/1.73 m2, the between-group incidence rate was similar.
+
+In the dedicated cardiovascular study and the larger pooled analysis, as well as in a dedicated renal outcomes study, discontinuations due to adverse reactions related to volume depletion and serious adverse reactions related to volume depletion were not increased with canagliflozin.
 
 Hypoglycaemia in add-on therapy with insulin or insulin secretagogues
 
@@ -151,9 +162,12 @@ Subjects responded to standard treatments while continuing canagliflozin treatme
 Bone fracture
 
 In a cardiovascular study (CANVAS) of 4,327 treated subjects with established or at least two risk factors for cardiovascular disease, the incidence rates of all adjudicated bone fracture were 1.6, 1.8, and 1.1 per 100 patient-years of follow-up to canagliflozin 100 mg, canagliflozin 300 mg, and placebo, respectively, with the fracture imbalance initially occurring within the first 26 weeks of therapy.
+
+In two other long-term studies and in studies conducted in the general diabetes population, no difference in fracture risk was observed with canagliflozin relative to control.
 In a second cardiovascular study (CANVAS-R) of 5,807 treated subjects with established or at least two risk factors for cardiovascular disease, the incidence rates of all adjudicated bone fracture were 1.1 and 1.3 events per 100 patient-years of follow-up to canagliflozin and placebo, respectively.
-In other type 2 diabetes studies with canagliflozin, which enrolled a general diabetes population of 8,114 patients, no difference in fracture risk was observed relative to control.
-The incidence rates of all adjudicated bone fracture were 1.2 and 1.1 per 100 patient-years of follow-up to canagliflozin and control, respectively.
+
+In a long-term renal outcomes study of 4,397 treated subjects with type 2 diabetes and diabetic kidney disease, the incidence rates of all adjudicated bone fracture were 1.2 events per 100 patient-years of follow-up for both canagliflozin 100 mg and placebo.
+In other type 2 diabetes studies with canagliflozin, which enrolled a general diabetes population of 7,729 patients and where bone fractures were adjudicated, the incidence rates of all adjudicated bone fracture were 1.2 and 1.1 per 100 patient-years of follow-up to canagliflozin and control, respectively.
 After 104 weeks of treatment, canagliflozin did not adversely affect bone mineral density.
 
 Special populations
@@ -165,18 +179,31 @@ Decreases in eGFR (-3.4 and -4.7 mL/min/1.73 m2) were reported with canagliflozi
 (-4.2 mL/min/1.73 m2).
 Mean baseline eGFR was 62.5, 64.7, and 63.5 mL/min/1.73 m2 for canagliflozin 100 mg, canagliflozin 300 mg, and the control group, respectively (see sections 4.2 and 4.4).
 
-Renal impairment
+Renal impairment in patients with insufficiently controlled type 2 diabetes mellitus
 Patients with a baseline eGFR < 60 mL/min/1.73 m2 had a higher incidence of adverse reactions associated with volume depletion (e.g., postural dizziness, orthostatic hypotension, hypotension) with incidence rates of 5.3, 5.1, and 3.1 events per 100 patient-years of exposure for canagliflozin 100 mg, canagliflozin 300 mg, and placebo, respectively (see sections 4.2 and 4.4).
+
 The overall incidence rate of elevated serum potassium was higher in patients with moderate renal impairment with incidence rates of 4.9, 6.1, and 5.4 events per 100 patient-years of exposure for canagliflozin 100 mg, canagliflozin 300 mg, and placebo, respectively.
 In general, elevations were transient and did not require specific treatment.
 
 In patients with moderate renal impairment, increases in serum creatinine of 9.2 µmol/L and BUN of approximately 1.0 mmol/L were observed with both doses of canagliflozin.
+
 The incidence rates for larger decreases in eGFR (> 30%) at any time during treatment were 7.3, 8.1, and 6.5 events per 100 patient-years of exposure for canagliflozin 100 mg, canagliflozin 300 mg, and placebo, respectively.
 At the last post-baseline value, incidence rates of such decreases were 3.3 for patients treated with canagliflozin 100 mg, 2.7 for canagliflozin 300 mg, and 3.7 events per 100 patient-years of exposure for placebo (see section 4.4).
 
 Patients treated with canagliflozin regardless of baseline eGFR experienced an initial fall in mean eGFR.
 Thereafter, eGFR was maintained or gradually increased during continued treatment.
 Mean eGFR returned to baseline after treatment discontinuation suggesting that haemodynamic changes may play a role in these renal function changes.
+
+Renal impairment in patients with diabetic kidney disease in type 2 diabetes mellitus
+In a long-term renal outcomes study in patients with type 2 diabetes and diabetic kidney disease, the incidence of renal-related events occurred frequently in both groups but less frequent in the canagliflozin group (5.71 events per 100 patient-years) compared with the placebo group (7.91 events per 100 patient-years).
+Serious and severe renal-related events were also lower in the canagliflozin group versus placebo.
+The incidence rates of renal-related events were lower with canagliflozin relative to placebo across all three eGFR strata; the highest incidence rate of renal-related events was seen in the eGFR 30 to <45 mL/min/1.73 m2 stratum (9.47 vs 12.80 events per 100 patient-years for canagliflozin versus placebo, respectively).
+
+In the long-term renal outcomes study, no difference in serum potassium, no increase in adverse events of hyperkalaemia, and no absolute (> 6.5 mEq/L) or relative (> upper limit of normal and
+> 15% increase from baseline) increases in serum potassium were observed with canagliflozin 100 mg relative to placebo.
+
+In general, there were no imbalances between treatment groups observed for abnormalities of phosphate, overall or in either eGFR category (45 to < 60 or 30 to < 45 mL/min/1.73 m2
+[CrCl 45 to < 60 or 30 to < 45 mL/min]).
 
 Reporting of suspected adverse reactions
 
