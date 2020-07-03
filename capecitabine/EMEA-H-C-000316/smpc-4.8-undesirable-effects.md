@@ -13,10 +13,10 @@ Tabulated list of adverse reactions
 ADRs considered by the investigator to be possibly, probably, or remotely related to the administration of capecitabine are listed in table 4 for capecitabine given as monotherapy and in table 5 for capecitabine given in combination with different chemotherapy regimens in multiple indications.
 The following headings are used to rank the ADRs by frequency: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000).
 Within each frequency grouping, ADRs are presented in order of decreasing seriousness.
+
 Capecitabine Monotherapy:
 Table 4 lists ADRs associated with the use of capecitabine monotherapy based on a pooled analysis of safety data from three major studies including over 1900 patients (studies M66001, SO14695, and SO14796).
 ADRs are added to the appropriate frequency grouping according to the overall incidence from the pooled analysis.
-
 Table 4 Summary of related ADRs reported in patients treated with capecitabine monotherapy
 
 | Body System | Very Common All grades | Common All grades | Uncommon Severe and/or Life-threatening (grade 3-4) or considered medically relevant | Rare/Very Rare (Post-Marketing Experience) |
@@ -48,13 +48,13 @@ Table 5 lists ADRs associated with the use of capecitabine in combination with d
 ADRs are added to the appropriate frequency grouping (Very common or Common) according to the highest incidence seen in any of the major clinical trials and are only added when they were seen in addition to those seen with capecitabine monotherapy or seen at a higher frequency grouping compared to capecitabine monotherapy (see table 4).
 Uncommon ADRs reported for capecitabine in combination therapy are consistent with the ADRs reported for capecitabine monotherapy or reported for monotherapy with the combination medicinal product (in literature and/or respective summary of product characteristics).
 
-Some of the ADRs are reactions commonly seen with the combination medicinal product (e.g. peripheral sensory neuropathy with docetaxel or oxaliplatin, hypertension seen with bevacizumab); however an exacerbation by capecitabine therapy can not be excluded.
+Some of the ADRs are reactions commonly seen with the combination medicinal product (e.g. peripheral sensory neuropathy with docetaxel or oxaliplatin, hypertension seen with bevacizumab); however an exacerbation by capecitabine therapy cannot be excluded.
 Table 5 Summary of related ADRs reported in patients treated with capecitabine in combination treatment in addition to those seen with capecitabine monotherapy or seen at a higher frequency grouping compared to capecitabine monotherapy
 
 | Body System | Very common All grades | Common All grades | Rare/Very Rare (Post-Marketing Experience) |
 | --- | --- | --- | --- |
 | Infections and infestations | - | Herpes zoster, Urinary tract infection, Oral candidiasis, Upper respiratory tract infection , Rhinitis, Influenza, +Infection, Oral herpes |  |
-| Blood and lymphatic system disorders | +Neutropenia, +Leucopenia, +Anaemia, +Neutropenic fever, Thrombocytopen ia | Bone marrow depression, +Febrile Neutropenia |  |
+| Blood and lymphatic system disorders | +Neutropenia, +Leucopenia, +Anaemia, +Neutropenic fever, Thrombocytopenia | Bone marrow depression, +Febrile Neutropenia |  |
 | Immune system disorders | - | Hypersensitivity |  |
 | Metabolism and nutrition disorders | Appetite decreased | Hypokalaemia, Hyponatraemia, Hypomagnesaemia, Hypocalcaemia, Hyperglycaemia |  |
 | Psychiatric disorders | - | Sleep disorder, Anxiety |  |
