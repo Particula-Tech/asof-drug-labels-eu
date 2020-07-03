@@ -11,22 +11,24 @@ The median EC50 value of letermovir against a collection of clinical CMV isolate
 Viral resistance
 
 In cell culture
-The CMV genes UL56 and UL89 encode subunits of CMV DNA terminase.
+The CMV genes UL51, UL56, and UL89 encode subunits of CMV DNA terminase.
 CMV mutants with reduced susceptibility to letermovir have been confirmed in cell culture.
-The mutations map to UL56 and occur in amino acid residues between 231 and 369 (V231A, V231L, V236L, V236M, E237D, L241P, T244K, T244R, L257I, F261C, F261L, F261S, Y321C, C325F, C325R, C325W, C325Y, M329T, R369G, R369M, R369S).
-EC50 values for these mutations are 13- to 8,262-fold higher than those for the wild-type reference virus.
-No known letermovir resistance mutations map to UL89.
+EC50 values for recombinant CMV mutants expressing the substitutions map to pUL51 (P91S), pUL56 (C25F, S229F, V231A, V231L, V236A, T244K, T244R, L254F, L257F, L257I, F261C, F261L, F261S, Y321C, L328V, M329T, A365S, N368D), and pUL89 (N320H, D344E) were 1.6- to <10-fold higher than those for wild-type reference virus; these substitutions are not likely to be clinically relevant.
+EC50 values for recombinant CMV mutants expressing pUL56 substitutions N232Y, V236L, V236M, E237D, E237G, L241P, K258E, C325F, C325R, C325W, C325Y, R369G, R369M, R369S and R369T were 10- to 9,300-fold higher than those for the wild-type reference virus; some of these substitutions have been observed in patients who have experienced prophylaxis failure in clinical studies (see below).
 
 In clinical studies
 In a Phase 2b trial evaluating letermovir doses of 60, 120, or 240 mg/day or placebo for up to 84 days in 131 HSCT recipients, DNA sequence analysis of a select region of UL56 (amino acids 231 to 369) was performed on samples obtained from 12 letermovir-treated subjects who experienced prophylaxis failure and for whom samples were available for analysis.
 One subject (who received 60 mg/day) had a letermovir resistant genotypic variant (GV) (V236M).
-In a Phase 3 trial (P001), DNA sequence analysis of the entire coding regions of UL56 and UL89 was performed on samples obtained from 22 letermovir-treated subjects, in the FAS population who experienced prophylaxis failure and for whom samples were available for analysis.
-One subject had a letermovir-resistant GV (V236M).
+
+In a Phase 3 trial (P001), DNA sequence analysis of the entire coding regions of UL56 and UL89 was performed on samples obtained from 40 letermovir-treated subjects in the FAS population who experienced prophylaxis failure and for whom samples were available for analysis.
+Two subjects had letermovir-resistant GVs detected, both with substitutions mapping to pUL56.
+One subject had the substitution V236M and the other subject had the substitution E237G.
+One additional subject, who had detectable CMV DNA at baseline (and was therefore not in the FAS population), had pUL56 substitutions, C325W and R369T, detected after discontinuing letermovir.
 
 Cross-resistance
 Cross-resistance is not likely with medicinal products with a different mechanism of action.
 Letermovir is fully active against viral populations with substitutions conferring resistance to CMV DNA polymerase inhibitors (ganciclovir, cidofovir, and foscarnet).
-These DNA polymerase inhibitors are fully active against viral populations with substitutions conferring resistance to letermovir.
+A panel of recombinant CMV strains with substitutions conferring resistance to letermovir was fully susceptible to cidofovir, foscarnet and ganciclovir with the exception of a recombinant strain with the pUL56 E237G substitution which confers a 2.1-fold reduction in ganciclovir susceptibility relative to wild-type.
 
 Cardiac electrophysiology
 The effect of letermovir on doses up to 960 mg given IV on the QTc interval was evaluated in a randomised, single-dose, placebo- and active-controlled (moxifloxacin 400 mg oral) 4-period crossover thorough QT trial in 38 healthy subjects.

@@ -29,9 +29,14 @@ Letermovir may increase the plasma concentrations of medicinal products transpor
 
 Excipients
 PREVYMIS contains lactose monohydrate.
-Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency, or glucose-galactose malabsorption should not take this medicinal product.
+Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
 
 [PREVYMIS 240 mg concentrate for solution for infusion]
+
+Administration through a sterile 0.2 or 0.22 micron PES in-line filter
+PREVYMIS concentrate for solution for infusion may contain a few product-related small translucent or white particles.
+Administration of PREVYMIS diluted solution always requires the use of a sterile 0.2 micron or 0.22 micron PES in-line filter, regardless of whether these product-related particles are visible in the vial or diluted solution (see sections 4.2 and 6.6).
 
 PREVYMIS 240 mg concentrate for solution for infusion contains 23 mg (or 1.0 mmol) sodium per dose.
 This should be taken into consideration by patients on a controlled sodium diet.

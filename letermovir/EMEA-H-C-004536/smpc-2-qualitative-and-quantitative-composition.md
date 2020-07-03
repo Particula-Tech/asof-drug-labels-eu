@@ -9,8 +9,6 @@ Each film-coated tablet contains 480 mg of letermovir.
 Excipients with known effect
 Each 240 mg film-coated tablet contains 4 mg of lactose (as monohydrate).
 Each 480 mg film-coated tablet contains 6.4 mg of lactose (as monohydrate).
-Each 240 mg film-coated tablet contains less than 1 mmol sodium (23 mg).
-Each 480 mg film-coated tablet contains less than 1 mmol sodium (23 mg).
 
 For the full list of excipients, see section 6.1.
 

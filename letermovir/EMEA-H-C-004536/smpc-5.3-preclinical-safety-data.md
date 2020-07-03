@@ -19,7 +19,8 @@ Letermovir was not genotoxic in a battery of in vitro or in vivo assays, includi
 Reproduction
 Fertility
 In the fertility and early embryonic development studies in the rat, there were no effects of letermovir on female fertility.
-In male rats, reduced sperm concentration, reduced sperm motility, and decreased fertility were observed at systemic exposures ≥ 3-fold the AUC in humans at the RHD (see General toxicology).
+In male rats, reduced sperm concentration, reduced sperm motility, and decreased fertility were observed at systemic exposures ≥ 3-fold the AUC in humans at the RHD (see General toxicity).
+
 In monkeys administered letermovir, there was no evidence of testicular toxicity based on histopathologic evaluation, measurement of testicular size, blood hormone analysis (follicle stimulating hormone, inhibin B and testosterone) and sperm evaluation (sperm count, motility and morphology) at systemic exposures approximately 2-fold the AUC in humans at the RHD.
 
 Development

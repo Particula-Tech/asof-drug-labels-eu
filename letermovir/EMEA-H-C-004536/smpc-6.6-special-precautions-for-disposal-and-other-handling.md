@@ -10,19 +10,24 @@ Preparation
 The preparation and administration instructions are the same for either dose.
 PREVYMIS concentrate for solution for infusion must be diluted prior to intravenous use.
 Inspect vial contents for discolouration and particulate matter prior to dilution.
-PREVYMIS concentrate for solution for infusion is a clear, colourless solution.
-Do not use the vial if the solution is discoloured or contains visible particles.
+PREVYMIS concentrate for solution for infusion is a clear, colourless solution and may contain a few product-related small translucent or white particles.
+Do not use the vial if the solution is cloudy, discoloured or contains matter other than a few small translucent or white particles.
+Do not use PREVYMIS concentrate for solution for infusion with IV bags and infusion set materials containing polyurethane or the plasticizer diethylhexyl phthalate (DEHP).
+Materials that are phthalate-free are also DEHP-free.
 Do not shake PREVYMIS vial.
 Add one single-dose vial (either 12 mL (240 mg dose) or 24 mL (480 mg dose)) of PREVYMIS concentrate for solution for infusion to a 250 mL pre-filled IV bag containing either 0.9% sodium chloride or 5% dextrose, and mix the diluted solution by gentle inversion.
 Do not shake.
 Once diluted, the solution of PREVYMIS is clear, and ranges from colourless to yellow.
 Variations of colour within this range do not affect the quality of the product.
-The diluted solution should be inspected visually for particulate matter and discolouration prior to administration, whenever solution and container permit.
-Discard if discolouration or visible particles are observed.
+The diluted solution should be inspected visually for particulate matter and discolouration prior to administration.
+Discard if the diluted solution is cloudy, discoloured or contains matter other than a few small translucent or white particles.
 If a vial is added to a 250 mL IV diluent bag, the final concentration ranges of letermovir would be 0.9 mg/mL (for 240 mg dose) and 1.8 mg/mL (for 480 mg dose).
 
 Administration
 See section 4.2.
+
+PREVYMIS diluted solution must be administered through a sterile 0.2 micron or 0.22 micron polyethersulfone (PES) in-line filter.
+
 Compatible intravenous solutions and other medicinal products
 PREVYMIS concentrate for solution for infusion is compatible with 0.9% sodium chloride and 5% dextrose solutions.
 
@@ -64,9 +69,8 @@ Polyvinyl chloride (PVC), ethylene vinyl acetate (EVA) and polyolefin (polypropy
 
 Infusion set materials
 PVC, polyethylene (PE), polybutadiene (PBD), silicone rubber (SR), styrene–butadiene copolymer (SBC), styrene-butadiene-styrene copolymer (SBS), polystyrene (PS)
-
 Plasticizers
-Diethylhexyl-phthalate (DEHP), tris (2-ethylhexyl) trimellitate (TOTM), butyl benzyl phthalate (BBP)
+Tris (2-ethylhexyl) trimellitate (TOTM), butyl benzyl phthalate (BBP)
 
 Catheters
 Radiopaque polyurethane

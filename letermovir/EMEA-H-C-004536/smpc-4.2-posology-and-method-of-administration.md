@@ -73,6 +73,8 @@ Serum creatinine levels should be closely monitored in these patients.
 
 For intravenous use only.
 PREVYMIS concentrate for solution for infusion requires dilution (see section 6.6) prior to administration.
+PREVYMIS diluted solution must be administered through a sterile 0.2 micron or 0.22 micron polyethersulfone (PES) in-line filter.
+Do not administer the diluted solution through a filter other than a sterile 0.2 micron or 0.22 micron PES in-line filter.
 PREVYMIS should be administered as an intravenous (IV) infusion only.
 PREVYMIS should not be administered as an intravenous push or bolus.
 After dilution, PREVYMIS should be administered by intravenous infusion via peripheral or central venous catheter using a total time of approximately 60 minutes.

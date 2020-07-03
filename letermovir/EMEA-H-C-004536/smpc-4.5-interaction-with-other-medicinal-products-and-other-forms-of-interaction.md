@@ -12,8 +12,8 @@ After uptake, glucuronidation of letermovir is mediated by UGT1A1 and 3.
 Letermovir also appears to be subject to P-gp and BCRP mediated efflux in the liver and intestine (see section 5.2).
 
 Inducers of drug metabolizing enzymes or transporters
-Co-administration of PREVYMIS (with or without cyclosporine) with strong and moderate inducers of transporters (e.g. P-gp) and/or enzymes (e.g. UGTs) is not recommended, as it may lead to subtherapeutic letermovir exposure (see Table 1).
--Examples of strong inducers include rifampicin, phenytoin, carbamazepine, St. John´s wort (Hypericum perforatum), rifabutin and phenobarbital.
+Co-administration of PREVYMIS (with or without cyclosporine) with strong and moderate inducers of transporters (e.g., P-gp) and/or enzymes (e.g., UGTs) is not recommended, as it may lead to subtherapeutic letermovir exposure (see Table 1).
+-Examples of strong inducers include rifampicin, phenytoin, carbamazepine, St. John’s wort (Hypericum perforatum), rifabutin and phenobarbital.
 -Examples of moderate inducers include thioridazine, modafinil, ritonavir, lopinavir, efavirenz and etravirine.
 
 Rifampicin co-administration resulted in an initial increase in letermovir plasma concentrations (due to OATP1B1/3 and/or P-gp inhibition) that is not clinically relevant, followed by clinically relevant decreases in letermovir plasma concentrations (due to induction of P-gp/UGT) with continued rifampicin co-administration (see Table 1).
@@ -28,9 +28,7 @@ Caution is advised if other OATP1B1/3 inhibitors are added to letermovir combine
 
 Inhibitors of P-gp/BCRP
 In vitro results indicate that letermovir is a substrate of P-gp/BCRP.
-Changes in letermovir plasma concentrations due to inhibition of P-gp/BCRP are not anticipated to be clinically relevant.
-However, caution is advised if P-gp/BCRP inhibitors are added to letermovir combined with cyclosporine.
-- Examples of P-gp/BCRP inhibitors include clarithromycin,erythromycin, azitromycin, itraconazole, ketoconazole, verapamil, quinidine, fluvoxamine, ranolazine, and some of the HIV protease inhibitors.
+Changes in letermovir plasma concentrations due to inhibition of P-gp/BCRP by itraconazole were not clinically relevant.
 
 Effect of letermovir on other medicinal products
 
@@ -38,6 +36,7 @@ Medicinal products mainly eliminated through metabolism or influenced by active 
 Letermovir is a general inducer in vivo of enzymes and transporters.
 Unless a particular enzyme or transporter is also inhibited (see below) induction can be expected.
 Therefore, letermovir may potentially lead to decreased plasma exposure and possibly reduced efficacy of co-administered medicinal products that are mainly eliminated through metabolism or by active transport.
+
 The size of the induction effect is dependent on letermovir route of administration and whether cyclosporine is concomitantly used.
 The full induction effect can be expected after 10-14 days of letermovir treatment.
 The time needed to reach steady state of a specific affected medicinal product will also influence the time needed to reach full effect on the plasma concentrations.
@@ -65,7 +64,7 @@ If monitoring is applied, this is recommended the first 2 weeks after initiating
 Medicinal products transported by OATP1B1/3
 Letermovir is an inhibitor of OATP1B1/3 transporters.
 Administration of PREVYMIS may result in a clinically relevant increase in plasma concentrations of co-administered medicinal products that are OATP1B1/3 substrates.
--Examples of such medicinal products include HMG Co-A reductase inhibitors, fexofenadine, repaglinide and glyburide (see Table 1).
+-Examples of such medicinal products include HMG-CoA reductase inhibitors, fexofenadine, repaglinide and glyburide (see Table 1).
 Comparing letermovir regimen administered without cyclosporine, the effect is more marked after iv than oral letermovir.
 The magnitude of the OATP1B1/3 inhibition on co-administered medicinal products is likely greater when PREVYMIS is co-administered with cyclosporine (a potent OATP1B1/3 inhibitor).
 This needs to be considered when the letermovir regimen is changed during treatment with an OATP1B1/3 substrate.
@@ -101,7 +100,7 @@ Additional monitoring may be recommended; refer to the prescribing information f
 - An example of a medicinal product transported by OATP2B1 is celiprolol.
 
 Medicinal products transported by the renal transporter OAT3
-In vitro data indicate that letermovir is an inhibitor of OAT3; therefore, letemovir may be an OAT3 inhibitor in vivo.
+In vitro data indicate that letermovir is an inhibitor of OAT3; therefore, letermovir may be an OAT3 inhibitor in vivo.
 Plasma concentrations of medicinal products transported by OAT3 may be increased. -Examples of medicinal products transported by OAT3 includes ciprofloxacin, tenofovir, imipenem, and cilastin.
 
 General information
@@ -124,13 +123,11 @@ When changing the route of administration, or if changing immunosuppressant, the
 | nafcillin | Interaction not studied. Expected: ↓ letermovir (P-gp/UGT induction) | Nafcillin may decrease plasma concentrations of letermovir. Co-administration of PREVYMIS and nafcillin is not recommended. |
 | Antifungals |  |  |
 | fluconazole (400 mg single dose)/letermovir (480 mg single dose) | ↔ fluconazole AUC 1.03 (0.99, 1.08) Cmax 0.95 (0.92, 0.99) ↔ letermovir AUC 1.11 (1.01, 1.23) Cmax 1.06 (0.93, 1.21) Interaction at steady state not studied. Expected; ↔ fluconazole ↔ letermovir | No dose adjustment required. |
+| itraconazole (200 mg once daily PO)/letermovir (480 mg once daily PO) | ↔ itraconazole AUC 0.76 (0.71, 0.81) Cmax 0.84 (0.76, 0.92) ↔ letermovir AUC 1.33 (1.17, 1.51) Cmax 1.21 (1.05, 1.39) | No dose adjustment required. |
 | posaconazole‡ (300 mg single dose)/ letermovir (480 mg daily) | ↔ posaconazole AUC 0.98 (0.82, 1.17) Cmax 1.11 (0.95, 1.29) | No dose adjustment required. |
 | voriconazole‡ (200 mg twice daily)/ letermovir (480 mg daily) | ↓ voriconazole AUC 0.56 (0.51, 0.62) Cmax 0.61 (0.53, 0.71) (CYP2C9/19 induction) | If concomitant administration is necessary, TDM for voriconazole is recommended the first 2 weeks after initiating or ending letermovir, as well as after changing route of administration of letermovir or immunosuppressant. |
-
-| Concomitant medicinal product | Effect on concentration† Mean ratio (90 % confidence interval) for AUC, Cmax (likely mechanism of action) | Recommendations concerning co-administration with PREVYMIS |
-| --- | --- | --- |
 | Antimycobacterials |  |  |
-| rifabutin | Interaction not studied. Expected: ↓ letermovir (P-gp/UGT induction) | Rifabutin may decrease plasma concentrations of letermovir. Co-administration of PREVYMIS and rifabutin is not recommended. |
+| rifabutin | Interaction not studied. Expected: ↓letermovir (P-gp/UGT induction) | Rifabutin may decrease plasma concentrations of letermovir. Co-administration of PREVYMIS and rifabutin is not recommended. |
 | rifampicin |  | Multiple dose rifampicin decreases plasma concentrations of letermovir. Co-administration of PREVYMIS and rifampicin is not recommended. |
 | (600 mg single dose PO)/ letermovir (480 mg single dose PO) | ↔letermovir AUC 2.03 (1.84, 2.26) Cmax 1.59 (1.46, 1.74) C24 2.01 (1.59, 2.54) (OATP1B1/3 and/or P-gp inhibition) |  |
 | (600 mg single dose IV)/ letermovir (480 mg single dose PO) | ↔letermovir AUC 1.58 (1.38, 1.81) Cmax 1.37 (1.16, 1.61) C24 0.78 (0.65, 0.93) (OATP1B1/3 and/or P-gp inhibition) |  |
@@ -143,16 +140,11 @@ When changing the route of administration, or if changing immunosuppressant, the
 | Antivirals |  |  |
 | acyclovir‡ (400 mg single dose)/ letermovir (480 mg daily) | ↔ acyclovir AUC 1.02 (0.87, 1.2) Cmax 0.82 (0.71, 0.93) | No dose adjustment required. |
 | valacyclovir | Interaction not studied. Expected: ↔ valacyclovir | No dose adjustment required. |
-| HIV antivirals (ritonavir, lopinavir) | Interaction not studied. Expected: ↓ letermovir (P-gp/UGT induction) | These antivirals may decrease plasma concentration of letermovir. Co-administration of PREVYMIS with these antivirals is not recommended. |
 | Herbal products |  |  |
 | St. John’s wort (Hypericum perforatum) | Interaction not studied. Expected: ↓ letermovir (P-gp/UGT induction) | St. John’s wort may decrease plasma concentrations of letermovir. Co-administration of PREVYMIS and St. John’s wort is contraindicated. |
 | HIV medicinal products |  |  |
 | efavirenz | Interaction not studied. Expected: ↓ letermovir (P-gp/UGT induction) ↑ or ↓ efavirenz (CYP2B6 inhibition or induction) | Efavirenz may decrease plasma concentrations of letermovir. Co-administration of PREVYMIS and efavirenz is not recommended. |
-| etravirine | Interaction not studied. Expected: ↓ letermovir (P-gp/UGT induction) | Etravirine may decrease plasma concentrations of letermovir. Co-administration of PREVYMIS and etravirine is not recommended. |
-| nevirapine | Interaction not studied. Expected: ↓ letermovir (P-gp/UGT induction) | Nevirapine may decrease plasma concentrations of letermovir. Co-administration of PREVYMIS and nevirapine is not recommended. |
-
-| Concomitant medicinal product | Effect on concentration† Mean ratio (90 % confidence interval) for AUC, Cmax (likely mechanism of action) | Recommendations concerning co-administration with PREVYMIS |
-| --- | --- | --- |
+| etravirine, nevirapine, ritonavir, lopinavir | Interaction not studied. Expected: ↓ letermovir (P-gp/UGT induction) | These antivirals may decrease plasma concentrations of letermovir. Co-administration of PREVYMIS with these antivirals is not recommended. |
 | HMG-CoA reductase inhibitors |  |  |
 | atorvastatin‡ (20 mg single dose)/ letermovir (480 mg daily) | ↑ atorvastatin AUC 3.29 (2.84, 3.82) Cmax 2.17 (1.76, 2.67) (CYP3A, OATP1B1/3 inhibition) | Statin-associated adverse events such as myopathy should be closely monitored. The dose of atorvastatin should not exceed 20 mg daily when co-administered with PREVYMIS#. Although not studied, when PREVYMIS is co-administered with cyclosporine, the magnitude of the increase in atorvastatin plasma concentrations is expected to be greater than with PREVYMIS alone. When PREVYMIS is co-administered with cyclosporine, atorvastatin is contraindicated. |
 | simvastatin, pitavastatin, rosuvastatin | Interaction not studied. Expected: ↑ HMG-CoA reductase inhibitors | Letermovir may substantially increase plasma concentrations of these statins. Concomitant use is not recommended with PREVYMIS alone. |
@@ -162,7 +154,10 @@ When changing the route of administration, or if changing immunosuppressant, the
 | cyclosporine (50 mg single dose)/ letermovir (240 mg daily) | ↑ cyclosporine AUC 1.66 (1.51, 1.82) Cmax 1.08 (0.97, 1.19) (CYP3A inhibition) | If PREVYMIS is co-administered with cyclosporine, the dosage of PREVYMIS should be decreased to 240 mg once daily (see sections 4.2 and 5.1). Frequent monitoring of cyclosporine whole blood concentrations should be performed during treatment, when changing PREVYMIS administration route, and at discontinuation of PREVYMIS and the dose of cyclosporine adjusted accordingly#. |
 | cyclosporine (200 mg single dose)/ letermovir (240 mg daily) | ↑ letermovir AUC 2.11 (1.97, 2.26) Cmax 1.48 (1.33, 1.65) (OATP1B1/3 inhibition) |  |
 | mycophenolate mofetil (1 g single dose)/ letermovir (480 mg daily) | ↔mycophenolic acid AUC 1.08 (0.97, 1.20) Cmax 0.96 (0.82, 1.12) ↔ letermovir AUC 1.18 (1.04, 1.32) Cmax 1.11 (0.92, 1.34) | No dose adjustment required. |
-| sirolimus‡ (2 mg single dose)/ letermovir (480 mg daily) | ↑ sirolimus AUC 3.40 (3.01, 3.85) Cmax 2.76 (2.48, 3.06) (CYP3A inhibition) Interaction not studied. Expected: ↔ letermovir | Frequent monitoring of sirolimus whole blood concentrations should be performed during treatment, when changing PREVYMIS administration route, and at discontinuation of PREVYMIS and the dose of sirolimus adjusted accordingly#. Frequent monitoring of sirolimus concentrations is recommended at initiation or discontinuation of cyclosporine co administration with PREVYMIS. When PREVYMIS is co-administered with cyclosporine, also refer to the sirolimus prescribing information for specific dosing recommendations for use of sirolimus with cyclosporine. When PREVYMIS is co-administered with cyclosporine, the magnitude of the increase in concentrations of sirolimus may be greater than with PREVYMIS alone. |
+
+| Concomitant medicinal product | Effect on concentration† Mean ratio (90 % confidence interval) for AUC, Cmax (likely mechanism of action) | Recommendations concerning co-administration with PREVYMIS |
+| --- | --- | --- |
+| sirolimus‡ (2 mg single dose)/ letermovir (480 mg daily) | ↑ sirolimus AUC 3.40 (3.01, 3.85) Cmax 2.76 (2.48, 3.06) (CYP3A inhibition) Interaction not studied. Expected: ↔ letermovir | Frequent monitoring of sirolimus whole blood concentrations should be performed during treatment, when changing PREVYMIS administration route, and at discontinuation of PREVYMIS and the dose of sirolimus adjusted accordingly#. Frequent monitoring of sirolimus concentrations is recommended at initiation or discontinuation of cyclosporine co-administration with PREVYMIS. When PREVYMIS is co-administered with cyclosporine, also refer to the sirolimus prescribing information for specific dosing recommendations for use of sirolimus with cyclosporine. When PREVYMIS is co-administered with cyclosporine, the magnitude of the increase in concentrations of sirolimus may be greater than with PREVYMIS alone. |
 | tacrolimus (5 mg single dose)/ letermovir (480 mg daily) | ↑ tacrolimus AUC 2.42 (2.04, 2.88) Cmax 1.57 (1.32, 1.86) (CYP3A inhibition) | Frequent monitoring of tacrolimus whole blood concentrations should be performed during treatment, when changing PREVYMIS administration route, and at discontinuation of PREVYMIS and the dose of tacrolimus adjusted accordingly#. |
 | tacrolimus (5 mg single dose)/ letermovir (80 mg twice daily) | ↔ letermovir AUC 1.02 (0.97, 1.07) Cmax 0.92 (0.84, 1.00) |  |
 | Oral contraceptives |  |  |
@@ -189,7 +184,8 @@ When changing the route of administration, or if changing immunosuppressant, the
 | Concomitant medicinal product | Effect on concentration† Mean ratio (90 % confidence interval) for AUC, Cmax (likely mechanism of action) | Recommendations concerning co-administration with PREVYMIS |
 | --- | --- | --- |
 | Sedatives |  |  |
-| midazolam (1 mg single dose IV)/ letermovir (240 mg once daily PO) midazolam (2 mg single dose PO) / letermovir (240 mg once daily PO) | ↑ midazolam IV: AUC 1.47 (1.37, 1.58) Cmax 1.05 (0.94, 1.17) PO: AUC 2.25 (2.04, 2.48) Cmax 1.72 (1.55, 1.92) (CYP3A inhibition) | Close clinical monitoring for respiratory depression and/or prolonged sedation should be exercised during co-administration of PREVYMIS with midazolam. Dose adjustment of midazolam should be considered#. The increase in midazolam plasma concentration may be greater when oral midazolam is administered with letermovir at the clinical dose than with the dose studied. |
+| midazolam (1 mg single dose IV)/ letermovir (240 mg once daily PO) | ↑ midazolam IV: AUC 1.47 (1.37, 1.58) Cmax 1.05 (0.94, 1.17) | Close clinical monitoring for respiratory depression and/or prolonged sedation should be exercised during co-administration of PREVYMIS with midazolam. Dose adjustment of midazolam |
+| midazolam (2 mg single dose PO) / letermovir (240 mg once daily PO) | PO: AUC 2.25 (2.04, 2.48) Cmax 1.72 (1.55, 1.92) (CYP3A inhibition) | should be considered#. The increase in midazolam plasma concentration may be greater when oral midazolam is administered with letermovir at the clinical dose than with the dose studied. |
 | Opioid agonists |  |  |
 | Examples: alfentanil, fentanyl | Interaction not studied. Expected: ↑ CYP3A metabolised opioids (CYP3A inhibition) | Frequent monitoring for adverse reactions related to these medicinal products is recommended during co-administration. Dose adjustment of CYP3A metabolised opioids may be needed# (see section 4.4). Monitoring is also recommended if changing route of administration. When PREVYMIS is co-administered with cyclosporine, the magnitude of the increase in plasma concentrations of CYP3A metabolised opioids may be greater. Close clinical monitoring for respiratory depression and/or prolonged sedation should be exercised during co-administration of PREVYMIS in combination with cyclosporine and alfentanil or fentanyl. Refer to the respective prescribing information (see section 4.4). |
 | Anti-arrhythmic medicinal products |  |  |
@@ -213,11 +209,6 @@ Interaction studies have only been performed in adults.
 
 [PREVYMIS 240 mg concentrate for solution for infusion]
 
-Co-administration of PREVYMIS (with or without cyclosporine) with strong and moderate inducers of transporters (e.g., P-gp) and/or enzymes (e.g., UGTs) is not recommended, as it may lead to subtherapeutic letermovir exposure (see Table 1).
--Examples of strong inducers include rifampicin, phenytoin, carbamazepine, St. John’s wort (Hypericum perforatum), rifabutin and phenobarbital.
-
--Examples of P-gp/BCRP inhibitors include clarithromycin,erythromycin, azitromycin, itraconazole, ketoconazole, verapamil, quinidine, fluvoxamine, ranolazine, and some of the HIV protease inhibitors.
-
 -An example of a medicinal product which is mainly eliminated by CYP2C8 is repaglinide (see Table 1).
 
 -Examples of medicinal products that are metabolised by CYP2B6 include bupropion.
@@ -227,6 +218,32 @@ Co-administration of PREVYMIS (with or without cyclosporine) with strong and mod
 
 | Concomitant medicinal product | Effect on concentration† Mean ratio (90 % confidence interval) for AUC, Cmax (likely mechanism of action) | Recommendations concerning co-administration with PREVYMIS |
 | --- | --- | --- |
+| Antibiotics |  |  |
+| nafcillin | Interaction not studied. Expected: ↓ letermovir (P-gp/UGT induction) | Nafcillin may decrease plasma concentrations of letermovir. Co-administration of PREVYMIS and nafcillin is not recommended. |
+| Antifungals |  |  |
+| fluconazole (400 mg single dose)/letermovir (480 mg single dose) | ↔ fluconazole AUC 1.03 (0.99, 1.08) Cmax 0.95 (0.92, 0.99) ↔ letermovir AUC 1.11 (1.01, 1.23) Cmax 1.06 (0.93, 1.21) Interaction at steady state not studied. Expected; ↔ fluconazole ↔ letermovir | No dose adjustment required. |
+| itraconazole (200 mg once daily PO)/letermovir (480 mg once daily PO) | ↔ itraconazole AUC 0.76 (0.71, 0.81) Cmax 0.84 (0.76, 0.92) ↔ letermovir AUC 1.33 (1.17, 1.51) Cmax 1.21 (1.05, 1.39) | No dose adjustment required. |
+| posaconazole‡ (300 mg single dose)/ letermovir (480 mg daily) | ↔ posaconazole AUC 0.98 (0.82, 1.17) Cmax 1.11 (0.95, 1.29) | No dose adjustment required. |
+| voriconazole‡ (200 mg twice daily)/ letermovir (480 mg daily) | ↓ voriconazole AUC 0.56 (0.51, 0.62) Cmax 0.61 (0.53, 0.71) (CYP2C9/19 induction) | If concomitant administration is necessary, TDM for voriconazole is recommended the first 2 weeks after initiating or ending letermovir, as well as after changing route of administration of letermovir or immunosuppressant. |
+| Antimycobacterials |  |  |
+| rifabutin | Interaction not studied. Expected: ↓ letermovir (P-gp/UGT induction) | Rifabutin may decrease plasma concentrations of letermovir. Co-administration of PREVYMIS and rifabutin is not recommended. |
+| Rifampicin |  | Multiple dose rifampicin decreases plasma concentrations of letermovir. Co-administration of PREVYMIS and rifampicin is not recommended. |
+| (600 mg single dose PO)/ letermovir (480 mg single dose PO) | ↔letermovir AUC 2.03 (1.84, 2.26) Cmax 1.59 (1.46, 1.74) C24 2.01 (1.59, 2.54) (OATP1B1/3 and/or P-gp inhibition) |  |
+| (600 mg single dose IV)/ letermovir (480 mg single dose PO) | ↔letermovir AUC 1.58 (1.38, 1.81) Cmax 1.37 (1.16, 1.61) C24 0.78 (0.65, 0.93) (OATP1B1/3 and/or P-gp inhibition) |  |
+| (600 mg once daily PO)/ letermovir (480 mg once daily PO) | ↓ letermovir AUC 0.81 (0.67, 0.98) Cmax 1.01 (0.79, 1.28) C24 0.14 (0.11, 0.19) (Sum of OATP1B1/3 and/or P-gp inhibition and P-gp/UGT induction) |  |
+| (600 mg once daily PO (24 hours after rifampicin))§/ letermovir (480 mg once daily PO) | ↓ letermovir AUC 0.15 (0.13, 0.17) Cmax 0.27 (0.22, 0.31) C24 0.09(0.06, 0.12) (P-gp/UGT induction) |  |
+| Antipsychotics |  |  |
+| thioridazine | Interaction not studied. Expected: ↓ letermovir (P-gp/UGT induction) | Thioridazine may decrease plasma concentrations of letermovir. Co-administration of PREVYMIS and thioridazine is not recommended. |
+| Endothelin antagonists |  |  |
+| bosentan | Interaction not studied. Expected: ↓ letermovir (P-gp/UGT induction) | Bosentan may decrease plasma concentrations of letermovir. Co-administration of PREVYMIS and bosentan is not recommended. |
+| Antivirals |  |  |
+| acyclovir‡ (400 mg single dose)/ letermovir (480 mg daily) | ↔ acyclovir AUC 1.02 (0.87, 1.2) Cmax 0.82 (0.71, 0.93) | No dose adjustment required. |
+| valacyclovir | Interaction not studied. Expected: ↔ valacyclovir | No dose adjustment required. |
+| Herbal products |  |  |
+| St. John’s wort (Hypericum perforatum) | Interaction not studied. Expected: ↓ letermovir (P-gp/UGT induction) | St. John’s wort may decrease plasma concentrations of letermovir. Co-administration of PREVYMIS and St. John’s wort is contraindicated. |
+| HIV medicinal products |  |  |
+| efavirenz | Interaction not studied. Expected: ↓ letermovir (P-gp/UGT induction) ↑ or ↓ efavirenz (CYP2B6 inhibition or induction) | Efavirenz may decrease plasma concentrations of letermovir. Co-administration of PREVYMIS and efavirenz is not recommended. |
+| etravirine, nevirapine, ritonavir, lopinavir | Interaction not studied. Expected: ↓ letermovir (P-gp/UGT induction) | These antivirals may decrease plasma concentrations of letermovir. Co-administration of PREVYMIS with these antivirals is not recommended. |
 | HMG-CoA reductase inhibitors |  |  |
 | atorvastatin‡ (20 mg single dose)/ letermovir (480 mg daily) | ↑ atorvastatin AUC 3.29 (2.84, 3.82) Cmax 2.17 (1.76, 2.67) (CYP3A, OATP1B1/3 inhibition) | Statin-associated adverse events such as myopathy should be closely monitored. The dose of atorvastatin should not exceed 20 mg daily when co-administered with PREVYMIS#. Although not studied, when PREVYMIS is co-administered with cyclosporine, the magnitude of the increase in atorvastatin plasma concentrations is expected to be greater than with PREVYMIS alone. When PREVYMIS is co-administered with cyclosporine, atorvastatin is contraindicated. |
 | simvastatin, pitavastatin, rosuvastatin | Interaction not studied. Expected: ↑ HMG-CoA reductase inhibitors | Letermovir may substantially increase plasma concentrations of these statins. Concomitant use is not recommended with PREVYMIS alone. |
@@ -236,14 +253,3 @@ Co-administration of PREVYMIS (with or without cyclosporine) with strong and mod
 | cyclosporine (50 mg single dose)/ letermovir (240 mg daily) | ↑ cyclosporine AUC 1.66 (1.51, 1.82) Cmax 1.08 (0.97, 1.19) (CYP3A inhibition) | If PREVYMIS is co-administered with cyclosporine, the dosage of PREVYMIS should be decreased to 240 mg once daily (see sections 4.2 and 5.1). Frequent monitoring of cyclosporine whole blood concentrations should be performed during treatment, when changing PREVYMIS administration route, and at discontinuation of PREVYMIS and the dose of cyclosporine adjusted accordingly#. |
 | cyclosporine (200 mg single dose)/ letermovir (240 mg daily) | ↑ letermovir AUC 2.11 (1.97, 2.26) Cmax 1.48 (1.33, 1.65) (OATP1B1/3 inhibition) |  |
 | mycophenolate mofetil (1 g single dose)/ letermovir (480 mg daily) | ↔mycophenolic acid AUC 1.08 (0.97, 1.20) Cmax 0.96 (0.82, 1.12) ↔ letermovir AUC 1.18 (1.04, 1.32) Cmax 1.11 (0.92, 1.34) | No dose adjustment required. |
-| sirolimus‡ (2 mg single dose)/ letermovir (480 mg daily) | ↑ sirolimus AUC 3.40 (3.01, 3.85) Cmax 2.76 (2.48, 3.06) (CYP3A inhibition) Interaction not studied. Expected: ↔ letermovir | Frequent monitoring of sirolimus whole blood concentrations should be performed during treatment, when changing PREVYMIS administration route, and at discontinuation of PREVYMIS and the dose of sirolimus adjusted accordingly#. Frequent monitoring of sirolimus concentrations is recommended at initiation or discontinuation of cyclosporine co-administration with PREVYMIS. When PREVYMIS is co-administered with cyclosporine, also refer to the sirolimus prescribing information for specific dosing recommendations for use of sirolimus with cyclosporine. When PREVYMIS is co-administered with cyclosporine, the magnitude of the increase in concentrations of sirolimus may be greater than with PREVYMIS alone. |
-| tacrolimus (5 mg single dose)/ letermovir (480 mg daily) | ↑ tacrolimus AUC 2.42 (2.04, 2.88) Cmax 1.57 (1.32, 1.86) (CYP3A inhibition) | Frequent monitoring of tacrolimus whole blood concentrations should be performed during treatment, when changing PREVYMIS administration route, and at discontinuation of PREVYMIS and the dose of tacrolimus adjusted accordingly#. |
-| tacrolimus (5 mg single dose)/ letermovir (80 mg twice daily) | ↔ letermovir AUC 1.02 (0.97, 1.07) Cmax 0.92 (0.84, 1.00) |  |
-| Oral contraceptives |  |  |
-| ethinylestradiol (EE) (0.03 mg)/ levonorgestrel (LNG)‡ (0.15 mg) single dose/ letermovir (480 mg daily) | ↔ EE AUC 1.42 (1.32, 1.52) Cmax 0.89 (0.83, 0.96) ↔ LNG AUC 1.36 (1.30, 1.43) Cmax 0.95 (0.86, 1.04) | No dose adjustment required. |
-| Other systemically acting oral contraceptive steroids | Risk of ↓ contraceptive steroids | Letermovir may reduce plasma concentrations of other oral contraceptive steroids thereby affecting their efficacy. For adequate contraceptive effect to be ensured with an oral contraceptive, products containing EE and LNG should be chosen. |
-| Antidiabetic medicinal products |  |  |
-| repaglinide | Interaction not studied. Expected: ↑ or ↓ repaglinide | Letermovir may increase or decrease the plasma concentrations of repaglinide. (The net effect is not known). |
-|  | (CYP2C8 induction, CYP2C8 and OATP1B inhibition) | Concomitant use is not recommended. When PREVYMIS is co-administered with cyclosporine, the plasma concentrations of repaglinide is expected to increase due to the additional OATP1B inhibition by cyclosporine. Concomitant use is not recommended#. |
-| glyburide | Interaction not studied. Expected: ↑ glyburide | Letermovir may increase the plasma concentrations of glyburide. |
-|  | (OATP1B1/3 inhibition CYP3A inhibition, CYP2C9 induction) | Frequent monitoring of glucose concentrations is recommended the first 2 weeks after initiating or ending letermovir, as well as after changing route of administration of letermovir. When PREVYMIS is co-administered with cyclosporine, refer also to the glyburide prescribing information for specific dosing recommendations. |

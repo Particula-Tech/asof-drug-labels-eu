@@ -2,11 +2,11 @@
 
 240 mg film-coated tablets
 Polyamide/Aluminium/PVC – Aluminium blister card.
-Each carton contains four (4) cardboard cards, each containing a 7-count blister card for a total of 28 tablets.
+Each carton contains four (4) 7-count blister cards for a total of 28 tablets.
 
 480 mg film-coated tablets
 Polyamide/Aluminium/PVC – Aluminium blister cards.
-Each carton contains four (4) cardboard, each containing a 7-count blister card for a total of 28 tablets.
+Each carton contains four (4) 7-count blister cards for a total of 28 tablets.
 
 [PREVYMIS 240 mg concentrate for solution for infusion]
 
