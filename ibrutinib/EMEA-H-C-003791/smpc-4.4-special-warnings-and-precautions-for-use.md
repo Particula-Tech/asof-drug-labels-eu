@@ -1,13 +1,17 @@
 # 4.4 Special warnings and precautions for use
 
 Bleeding-related events
-There have been reports of haemorrhagic events in patients treated with IMBRUVICA, both with and without thrombocytopenia.
-These include minor haemorrhagic events such as contusion, epistaxis, and petechiae; and major haemorrhagic events, some fatal, including gastrointestinal bleeding, intracranial haemorrhage, and haematuria.
+There have been reports of bleeding events in patients treated with IMBRUVICA, both with and without thrombocytopenia.
+These include minor bleeding events such as contusion, epistaxis, and petechiae; and major bleeding events, some fatal, including gastrointestinal bleeding, intracranial haemorrhage, and haematuria.
 
-Patients were excluded from participation in IMBRUVICA phase 2 and 3 studies if they required warfarin or other vitamin K antagonists.
 Warfarin or other vitamin K antagonists should not be administered concomitantly with IMBRUVICA.
+
+Use of either anticoagulants or medicinal products that inhibit platelet function (antiplatelet agents) concomitantly with IMBRUVICA increases the risk of major bleeding.
+A higher risk for major bleeding was observed with anticoagulant than with antiplatelet agents.
+Consider the risks and benefits of anticoagulant or antiplatelet therapy when co-administered with IMBRUVICA.
+Monitor for signs and symptoms of bleeding.
+
 Supplements such as fish oil and vitamin E preparations should be avoided.
-Use of IMBRUVICA in patients requiring other anticoagulants or medicinal products that inhibit platelet function may increase the risk of bleeding, and particular care should be taken if anticoagulant therapy is used.
 
 IMBRUVICA should be held at least 3 to 7 days pre- and post-surgery depending upon the type of surgery and the risk of bleeding.
 
@@ -27,9 +31,9 @@ Some of these infections have been associated with hospitalisation and death.
 Most patients with fatal infections also had neutropenia.
 Patients should be monitored for fever, neutropenia and infections and appropriate anti-infective therapy should be instituted as indicated.
 Consider prophylaxis according to standard of care in patients who are at increased risk for opportunistic infections.
-
 Cases of invasive fungal infections, including cases of Aspergillosis, Cryptococcosis and Pneumocystis jiroveci infections have been reported following the use of ibrutinib.
 Reported cases of invasive fungal infections have been associated with fatal outcomes.
+
 Cases of progressive multifocal leukoencephalopathy (PML) including fatal ones have been reported following the use of ibrutinib within the context of a prior or concomitant immunosuppressive therapy.
 Physicians should consider PML in the differential diagnosis in patients with new or worsening neurological, cognitive or behavioral signs or symptoms.
 If PML is suspected then appropriate diagnostic evaluations should be undertaken and treatment suspended until PML is excluded.
@@ -57,20 +61,24 @@ In patients with preexisting atrial fibrillation requiring anticoagulant therapy
 In patients who develop atrial fibrillation on therapy with IMBRUVICA a thorough assessment of the risk for thromboembolic disease should be undertaken.
 In patients at high risk and where alternatives to IMBRUVICA are non-suitable, tightly controlled treatment with anticoagulants should be considered.
 
+Cerebrovascular accidents
+Cases of cerebrovascular accident, transient ischaemic attack and ischaemic stroke including fatalities have been reported with the use of ibrutinib, with and without concomitant atrial fibrillation and/or hypertension.
+Latency from the initiation of treatment with ibrutinib to the onset of ischaemic central nervous vascular conditions was in the most cases after several months (more than 1 month in 78% and more than 6 months in 44% of cases) emphasising the need for regular monitoring of patients (please see section 4.4 Cardiac arrhythmia and Hypertension and section 4.8).
+
 Tumour lysis syndrome
 Tumour lysis syndrome has been reported with IMBRUVICA therapy.
 Patients at risk of tumour lysis syndrome are those with high tumour burden prior to treatment.
 Monitor patients closely and take appropriate precautions.
-
 Non-melanoma skin cancer
 Non-melanoma skin cancers were reported more frequently in patients treated with IMBRUVICA than in patients treated with comparators in pooled comparative randomised phase 3 studies.
 Monitor patients for the appearance of non-melanoma skin cancer.
 
 Viral reactivation
-Cases of hepatitis B reactivation have been reported in patients receiving IMBRUVICA.
+Cases of hepatitis B reactivation, including fatal events, have been reported in patients receiving IMBRUVICA.
 Hepatitis B virus (HBV) status should be established before initiating treatment with IMBRUVICA.
 For patients who test positive for HBV infection, consultation with a physician with expertise in the treatment of hepatitis B is recommended.
 If patients have positive hepatitis B serology, a liver disease expert should be consulted before the start of treatment and the patient should be monitored and managed following local medical standards to prevent hepatitis B reactivation.
+
 Hypertension
 Hypertension has occurred in patients treated with IMBRUVICA (see section 4.8).
 Regularly monitor blood pressure in patients treated with IMBRUVICA and initiate or adjust antihypertensive medication throughout treatment with IMBRUVICA as appropriate.

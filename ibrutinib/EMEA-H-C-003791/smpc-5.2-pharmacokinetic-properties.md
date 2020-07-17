@@ -55,12 +55,6 @@ The effect of impaired liver function varied substantially between individuals, 
 The free fraction of ibrutinib also increased with degree of impairment, with 3.0, 3.8 and 4.8% in subjects with mild, moderate and severe liver impairment, respectively, compared to 3.3% in plasma from matched healthy controls within this study.
 The corresponding increase in unbound ibrutinib exposure (AUCunbound, last) is estimated to be 4.1-, 9.8-, and 13-fold in subjects with mild, moderate, and severe hepatic impairment, respectively (see section 4.2).
 
-Co-administration with CYP substrates
-In vitro studies indicated that ibrutinib is a weak reversible inhibitor toward CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and intestinal (but not hepatic) CYP3A4 and does not display clinically relevant time-dependent inhibition of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19 and CYP2D6.
-The dihydrodiol metabolite of ibrutinib is a weak inhibitor toward CYP2B6, CYP2C8, CYP2C9, and CYP2D6.
-The dihydrodiol metabolite is at most a weak inducer of CYP450 isoenzymes in vitro.
-Although ibrutinib is a sensitive CYP3A4 substrate, it does not have a clinically relevant effect on its own exposure.
-
 Co-administration with transport substrates/inhibitors
 In vitro studies indicated that ibrutinib is not a substrate of P-gp, nor other major transporters, except OCT2.
 The dihydrodiol metabolite and other metabolites are P-gp substrates.

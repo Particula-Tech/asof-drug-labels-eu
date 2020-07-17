@@ -26,7 +26,7 @@ Sinusitis* 10 1
 Uncommon Cryptococcal infections* <1 0
 Pneumocystis infections* # 1 1
 Aspergillus infections* 1 <1
-Hepatitis B reactivation@ <1 <1
+Hepatitis B reactivation@ # <1 <1
 Neoplasms benign and Common Non-melanoma skin cancer* 6 1
 malignant (incl cysts and Basal cell carcinoma 3 <1
 polyps) Squamous cell carcinoma 2 <1
@@ -42,6 +42,9 @@ disorders Hyperuricaemia 8 2
 Nervous system disorders Very common Headache 13 1
 Common Peripheral neuropathy*,a 5 <1
 Dizziness 9 0
+Uncommon Cerebrovascular accident a, # <1 <1
+Transient ischaemic attacka 1 <1
+Ischaemic stroke a, # <1 <1
 Eye disorders Common Vision blurred 7 0
 Cardiac disorders Common Atrial fibrillation 7 4
 Uncommon Ventricular tachyarrhythmia*,a,b 1 <1
@@ -56,7 +59,7 @@ Vomiting 13 <1
 Stomatitis* 12 1
 Nausea 25 1
 Constipation 16 <1
-Hepatobiliary disorders Uncommon Hepatic failure*,a <1 <1
+Hepatobiliary disorders Uncommon Hepatic failure*,a # <1 <1
 Skin and subcutaneous Very common Rash* 31 3
 tissue disorders Common Urticariaa 1 <1
 Erythemaa 2 0
@@ -82,18 +85,17 @@ Discontinuation and dose reduction due to adverse reactions
 Of the 1200 patients treated with IMBRUVICA for B-cell malignancies, 5% discontinued treatment primarily due to adverse reactions.
 These included pneumonia, atrial fibrillation, haemorrhage, and thrombocytopenia.
 Adverse reactions leading to dose reduction occurred in approximately 7% of patients.
-
 Elderly
 Of the 1200 patients treated with IMBRUVICA, 64% were 65 years of age or older.
 Grade 3 or higher pneumonia occurred more frequently among elderly patients treated with IMBRUVICA (12% of patients age ≥65 versus 7% of patients <65 years of age).
 
 Long-term safety
-The long-term safety data over 4 years from 1177 patients (CLL/SLL n=807 and MCL n=370) treated with IMBRUVICA were analyzed.
-The median duration of treatment for CLL/SLL was 45 months with 70% and 40% of patients receiving treatment for more than 2 years and 4 years.
-The median duration of treatment for MCL was 11 months with 31% and 14% of patients receiving treatment for more than 2 years and 4 years.
+The long-term safety data over 5 years from 1178 patients (treatment-naïve CLL/SLL n = 162, relapsed/refractory CLL/SLL n = 646, and relapsed/refractory MCL n = 370) treated with IMBRUVICA were analysed.
+The median duration of treatment for CLL/SLL was 51 months (range, 0.2 to 98 months) with 70% and 52% of patients receiving treatment for more than 2 years and 4 years, respectively.
+The median duration of treatment for MCL was 11 months (range, 0 to 87 months) with 31% and 17% of patients receiving treatment for more than 2 years and 4 years, respectively.
 The overall known safety profile of IMBRUVICA-exposed patients remained consistent, other than an increasing prevalence of hypertension, with no new safety concerns identified.
-The prevalence for Grade 3 or greater hypertension was 4% (year 0-1), 6% (year 1-2), 8% (year 2-3), and 8% (year 3-4).
-The incidence for the 4-year period was 10%.
+The prevalence for Grade 3 or greater hypertension was 4% (year 0-1), 6% (year 1-2), 8% (year 2-3), 9% (year 3-4), and 9% (year 4-5).
+The incidence for the 5-year period was 11%.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

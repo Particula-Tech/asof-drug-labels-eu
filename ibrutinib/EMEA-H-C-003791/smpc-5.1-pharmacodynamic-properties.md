@@ -18,6 +18,7 @@ In both disease types, lymphocytosis typically occurs during the first month of 
 A large increase in the number of circulating lymphocytes (e.g., >400,000/mcL) has been observed in some patients.
 
 Lymphocytosis was not observed in patients with WM treated with IMBRUVICA.
+
 In vitro platelet aggregation
 In an in vitro study, ibrutinib demonstrated inhibition of collagen-induced platelet aggregation.
 Ibrutinib did not show meaningful inhibition of platelet aggregation using other agonists of platelet aggregation.
@@ -56,7 +57,6 @@ CI=confidence interval; CR=complete response; DOR=duration of response; ORR=over
 
 The efficacy data was further evaluated by an Independent Review Committee (IRC) demonstrating an ORR of 69%, with a 21% complete response (CR) rate and a 48% partial response (PR) rate.
 The IRC estimated median DOR was 19.6 months.
-
 The overall response to IMBRUVICA was independent of prior treatment including bortezomib and lenalidomide or underlying risk/prognostic factors, bulky disease, gender or age.
 
 The safety and efficacy of IMBRUVICA were demonstrated in a randomised phase 3, open-label, multicenter study including 280 patients with MCL who received at least one prior therapy (Study MCL3001).
@@ -82,8 +82,8 @@ Table 3: Efficacy Results in patients with relapsed or refractory MCL (Study MCL
 NE=not estimable; HR=hazard ratio; CI=confidence interval; ORR=overall response rate; PFS=progression-free survival a IRC evaluated.
 
 A smaller proportion of patients treated with ibrutinib experienced a clinically meaningful worsening of lymphoma symptoms versus temsirolimus (27% versus 52%) and time to worsening of symptoms occurred more slowly with ibrutinib versus temsirolimus (HR 0.27, p<0.0001).
-
 Figure 1: Kaplan-Meier curve of PFS (ITT Population) in Study MCL3001
+
 CLL
 Patients previously untreated for CLL
 Single agent
@@ -95,14 +95,13 @@ After confirmed disease progression, patients on chlorambucil were able to cross
 The median age was 73 years (range, 65 to 90 years), 63% were male, and 91% were Caucasian.
 Ninety one percent of patients had a baseline ECOG performance status of 0 or 1 and 9% had an ECOG performance status of 2.
 The study enrolled 269 patients with CLL.
-At baseline, 45% had advanced clinical stage (Rai Stage III or IV), 35% of patients had at least one tumor ≥5 cm, 39% with baseline anemia, 23% with baseline thrombocytopenia, 65% had elevated β2 microglobulin
->3500 mcg/L, 47% had a CrCL <60 mL/min, 20% of patients presented with del11q, 6% of patients presented with del 17p/tumor protein 53 (TP53) mutation, and 44% of patients presented with unmutated immunoglobulin heavy chain variable region (IGHV).
+At baseline, 45% had advanced clinical stage (Rai Stage III or IV), 35% of patients had at least one tumor ≥5 cm, 39% with baseline anaemia, 23% with baseline thrombocytopenia, 65% had elevated β2 microglobulin
+>3500 mcg/L, 47% had a CrCL <60 mL/min, 20% of patients presented with del11q, 6% of patients presented with del17p/tumor protein 53 (TP53) mutation, and 44% of patients presented with unmutated immunoglobulin heavy chain variable region (IGHV).
 
 Progression free survival (PFS) as assessed by IRC according to International Workshop on CLL (IWCLL) criteria indicated an 84% statistically significant reduction in the risk of death or progression in the IMBRUVICA arm.
 Efficacy results for Study PCYC-1115-CA are shown in Table 4 and the Kaplan-Meier curves for PFS and OS are shown in Figures 2 and 3, respectively.
-
-There was a statistically significant sustained platelet or hemoglobin improvement in the ITT population in favor of ibrutinib versus chlorambucil.
-In patients with baseline cytopenias, sustained hematologic improvement was: platelets 77.1% versus 42.9%; hemoglobin 84.3% versus 45.5% for ibrutinib and chlorambucil respectively.
+There was a statistically significant sustained platelet or haemoglobin improvement in the ITT population in favor of ibrutinib versus chlorambucil.
+In patients with baseline cytopenias, sustained haematologic improvement was: platelets 77.1% versus 42.9%; haemoglobin 84.3% versus 45.5% for ibrutinib and chlorambucil respectively.
 
 Table 4: Efficacy results in Study PCYC-1115-CA
 
@@ -118,10 +117,10 @@ Table 4: Efficacy results in Study PCYC-1115-CA
 | Number of deaths (%) | 3 (2.2) | 17 (12.8) |
 | HR (95% CI) | 0.163 (0.048, 0.558) |  |
 
-CI=confidence interval; HR=hazard ratio; CR=complete response; ORR=overall response rate; OS=overall survival; PFS=progression-free survival; PR=partial response a IRC evaluated, median follow--up 18.4 months.
+CI=confidence interval; HR=hazard ratio; CR=complete response; ORR=overall response rate; OS=overall survival; PFS=progression-free survival; PR=partial response a IRC evaluated, median follow-up 18.4 months.
 b Median OS not reached for both arms. p<0.005 for OS
-Figure 2: Kaplan-Meier curve of PFS (ITT Population) in Study PCYC-1115-CA
 
+Figure 2: Kaplan-Meier curve of PFS (ITT Population) in Study PCYC-1115-CA
 Figure 3: Kaplan-Meier curve of OS (ITT Population) in Study PCYC-1115-CA
 
 48-month follow-up
@@ -131,30 +130,27 @@ The 4-year PFS estimate was 73.9% in the IMBRUVICA arm and 15.5% in the chloramb
 The updated Kaplan-Meier curve for PFS is shown in Figure 4.
 The investigator-assessed ORR was 91.2% in the IMBRUVICA arm versus 36.8% in the chlorambucil arm.
 The CR rate according to IWCLL criteria was 16.2% in the IMBRUVICA arm versus 3.0% in the chlorambucil arm.
-At the time of long-term follow-up, a total of 73 subjects (54.9%) originally randomized to the chlorambucil arm subsequently received ibrutinib as cross-over treatment.
+At the time of long-term follow-up, a total of 73 subjects (54.9%) originally randomised to the chlorambucil arm subsequently received ibrutinib as cross-over treatment.
 The Kaplan-Meier landmark estimate for OS at 48-months was 85.5% in the IMBRUVICA arm.
 
-The treatment effect of ibrutinib in Study PCYC-1115-CA was consistent across high-risk patients with del 17p/TP53 mutation, del 11q, and/or unmutated IGHV.
-
+The treatment effect of ibrutinib in Study PCYC-1115-CA was consistent across high-risk patients with del17p/TP53 mutation, del11q, and/or unmutated IGHV.
 Figure 4: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1115-CA with 48 Months Follow-up
 
 Combination therapy
-The safety and efficacy of IMBRUVICA in patients with treatment naïve CLL/SLL were further evaluated in a randomized, multi-center, open-label, Phase 3 study (PCYC-1130-CA) of IMBRUVICA in combination with obinutuzumab versus chlorambucil in combination with obinutuzumab.
-The study enrolled patients who were 65 years of age or older or <65 years of age with coexisting medical conditions, reduced renal function as measured by creatinine clearance
-<70 mL/min, or presence of del17p/TP53 mutation.
-Patients (n=229) were randomized 1:1 to receive either IMBRUVICA 420 mg daily until disease progression or unacceptable toxicity or chlorambucil at a dose of 0.5 mg/kg on Days 1 and 15 of each 28-day cycle for 6 cycles.
+The safety and efficacy of IMBRUVICA in patients with treatment naïve CLL/SLL were further evaluated in a randomised, multi-center, open-label, phase 3 study (PCYC-1130-CA) of IMBRUVICA in combination with obinutuzumab versus chlorambucil in combination with obinutuzumab.
+The study enrolled patients who were 65 years of age or older or <65 years of age with coexisting medical conditions, reduced renal function as measured by creatinine clearance <70 mL/min, or presence of del17p/TP53 mutation.
+Patients (n=229) were randomised 1:1 to receive either IMBRUVICA 420 mg daily until disease progression or unacceptable toxicity or chlorambucil at a dose of 0.5 mg/kg on Days 1 and 15 of each 28-day cycle for 6 cycles.
 In both arms, patients received 1000 mg of obinutuzumab on Days 1, 8 and 15 of the first cycle, followed by treatment on the first day of 5 subsequent cycles (total of 6 cycles, 28 days each).
 The first dose of obinutuzumab was divided between day 1 (100 mg) and day 2 (900 mg).
 
 The median age was 71 years (range, 40 to 87 years), 64% were male, and 96% were Caucasian.
 All patients had a baseline ECOG performance status of 0 (48%) or 1-2 (52%).
-At baseline, 52% had advanced clinical stage (Rai Stage III or IV), 32% of patients had bulky disease (≥5 cm), 44% with baseline anemia, 22% with baseline thrombocytopenia, 28% had a CrCL <60 mL/min, and the median Cumulative Illness Rating Score for Geriatrics (CIRS-G) was 4 (range, 0 to 12).
+At baseline, 52% had advanced clinical stage (Rai Stage III or IV), 32% of patients had bulky disease (≥5 cm), 44% with baseline anaemia, 22% with baseline thrombocytopenia, 28% had a CrCL <60 mL/min, and the median Cumulative Illness Rating Score for Geriatrics (CIRS-G) was 4 (range, 0 to 12).
 At baseline, 65% of patients presented with CLL/SLL with high risk factors (del17p/TP53 mutation [18%], del11q [15%], or unmutated IGHV [54%]).
 
 Progression-free survival (PFS) was assessed by IRC according to IWCLL criteria indicated a 77% statistically significant reduction in the risk of death or progression in the IMBRUVICA arm.
 With a median follow-up time on study of 31 months, the median PFS was not reached in the IMBRUVICA+obinutuzumab arm and was 19 months in the chlorambucil+obinutuzumab arm.
 Efficacy results for Study PCYC-1130-CA are shown in Table 5 and the Kaplan-Meier curve for PFS is shown in Figure 5.
-
 Table 5: Efficacy results in Study PCYC-1130-CA
 
 | Endpoint | IMBRUVICA+Obinutuzumab N=113 | Chlorambucil+Obinutuzumab N=116 |
@@ -174,7 +170,7 @@ c PR=PR+nPR.
 
 Figure 5: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1130-CA
 
-The treatment effect of ibrutinib was consistent across the high-risk CLL/SLL population (del 17p/TP53 mutation, del 11q, or unmutated IGHV), with a PFS HR of 0.15 [95% CI (0.09, 0.27)], as shown in Table 6.
+The treatment effect of ibrutinib was consistent across the high-risk CLL/SLL population (del17p/TP53 mutation, del11q, or unmutated IGHV), with a PFS HR of 0.15 [95% CI (0.09, 0.27)], as shown in Table 6.
 The 2-year PFS rate estimates for the high-risk CLL/SLL population were 78.8% [95% CI (67.3, 86.7)] and 15.5% [95% CI (8.1, 25.2)] in the IMBRUVICA+obinutuzumab and chlorambucil+obinutuzumab arms, respectively.
 
 Table 6: Subgroup Analysis of PFS (Study PCYC-1130-CA)
@@ -267,18 +263,19 @@ Table 8: Subgroup analysis of PFS (Study PCYC-1112-CA)
 Hazard ratio based on non-stratified analysis
 The Kaplan-Meier curve for PFS is shown in Figure 6.
 
-Figure 6: Kaplan-Meier curve of PFS (ITT Population) in Study PCYC-1112- CA
+Figure 6: Kaplan-Meier curve of PFS (ITT Population) in Study PCYC-1112-CA
 
-56-month follow-up
-With a median follow-up time on study of 56 months in Study PCYC-1112-CA, an 86% reduction in the risk of death or progression by investigator assessment was observed for patients in the IMBRUVICA arm.
-The median investigator-assessed PFS according to IWCLL criteria was 44.1 months [95% CI (38.54, 56.87)] in the IMBRUVICA arm and 8.1 months [95% CI (7.79, 8.25)] in the ofatumumab arm, respectively; HR=0.14 [95% CI (0.11, 0.19)].
+Final Analysis at 65-month follow-up
+With a median follow-up time on study of 65 months in Study PCYC-1112-CA, an 85% reduction in the risk of death or progression by investigator assessment was observed for patients in the IMBRUVICA arm.
+The median investigator-assessed PFS according to IWCLL criteria was 44.1 months [95% CI (38.47, 56.18)] in the IMBRUVICA arm and 8.1 months [95% CI (7.79, 8.25)] in the ofatumumab arm, respectively; HR=0.15 [95% CI (0.11, 0.20)].
 The updated Kaplan-Meier curve for PFS is shown in Figure 7.
-The investigator-assessed ORR in the IMBRUVICA arm was 87.2% versus 22.4% in the ofatumumab arm.
-At the time of long-term follow-up, 133 (67.9%) of the 196 subjects originally randomized to the ofatumumab treatment arm had crossed over to ibrutinib treatment.
-The Kaplan-Meier landmark estimate for OS at 60-months was 62.2% in the IMBRUVICA arm.
+The investigator-assessed ORR in the IMBRUVICA arm was 87.7% versus 22.4% in the ofatumumab arm.
+At the time of final analysis, 133 (67.9%) of the 196 subjects originally randomised to the ofatumumab treatment arm had crossed over to ibrutinib treatment.
+The median investigator-assessed PFS2 (time from randomisation until PFS event after first subsequent anti-neoplastic therapy) according to IWCLL criteria was 65.4 months [95% CI (51.61, not estimable)] in the IMBRUVICA arm and 38.5 months [95% CI (19.98, 47.24)] in the ofatumumab arm, respectively; HR=0.54 [95% CI (0.41, 0.71)].
+The median OS was 67.7 months [95% CI (61.0, not estimable)] in the IMBRUVICA arm.
 
 The treatment effect of ibrutinib in Study PCYC-1112-CA was consistent across high-risk patients with deletion 17p/TP53 mutation, deletion 11q, and/or unmutated IGHV.
-Figure 7: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1112-CA with 56 Months Follow-up
+Figure 7: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1112-CA at Final Analysis with 65 Months Follow-up
 
 Combination therapy
 The safety and efficacy of IMBRUVICA in patients previously treated for CLL were further evaluated in a randomised, multicenter, double-blinded phase 3 study of IMBRUVICA in combination with BR versus placebo+BR (Study CLL3001).
@@ -308,14 +305,13 @@ Table 9: Efficacy Results in patients with CLL (Study CLL3001)
 CI=confidence interval; HR=hazard ratio; ORR=overall response rate; OS=overall survival; PFS=progression-free survival a IRC evaluated.
 b IRC evaluated, ORR (complete response, complete response with incomplete marrow recovery, nodular partial response, partial response).
 c Median OS not reached for both arms.
-
 WM
 Single agent
 The safety and efficacy of IMBRUVICA in WM (IgM-excreting lymphoplasmacytic lymphoma) were evaluated in an open-label, multi-center, single-arm trial of 63 previously treated patients.
 The median age was 63 years (range: 44 to 86 years), 76% were male, and 95% were Caucasian.
 All patients had a baseline ECOG performance status of 0 or 1.
 The median time since diagnosis was 74 months, and the median number of prior treatments was 2 (range: 1 to 11 treatments).
-At baseline, the median serum IgM value was 3.5 g/dL, and 60% of patients were anemic (haemoglobin ≤11 g/dL or 6.8 mmol/L).
+At baseline, the median serum IgM value was 3.5 g/dL, and 60% of patients were anaemic (haemoglobin ≤11 g/dL or 6.8 mmol/L).
 
 IMBRUVICA was administered orally at 420 mg once daily until disease progression or unacceptable toxicity.
 The primary endpoint in this study was ORR per investigator assessment.
@@ -340,8 +336,8 @@ The median time to response was 1.0 month (range: 0.7-13.4 months).
 Efficacy results were also assessed by an IRC demonstrating an ORR of 83%, with a 11% VGPR rate and a 51% PR rate.
 
 Combination therapy
-The safety and efficacy of IMBRUVICA in WM were further evaluated in patients with treatment-naïve or previously treated WM in a randomized, multicenter, double-blinded phase 3 study of IMBRUVICA in combination with rituximab versus placebo in combination with rituximab (PCYC-1127-CA).
-Patients (n=150) were randomized 1:1 to receive either IMBRUVICA 420 mg daily or placebo in combination with rituximab until disease progression or unacceptable toxicity.
+The safety and efficacy of IMBRUVICA in WM were further evaluated in patients with treatment-naïve or previously treated WM in a randomised, multicenter, double-blinded phase 3 study of IMBRUVICA in combination with rituximab versus placebo in combination with rituximab (PCYC-1127-CA).
+Patients (n=150) were randomised 1:1 to receive either IMBRUVICA 420 mg daily or placebo in combination with rituximab until disease progression or unacceptable toxicity.
 Rituximab was administered weekly at a dose of 375 mg/m2 for 4 consecutive weeks (weeks 1-4) followed by a second course of weekly rituximab for 4 consecutive weeks (weeks 17-20).
 
 The median age was 69 years (range, 36 to 89 years), 66% were male, and 79% were Caucasian.
@@ -349,12 +345,11 @@ Ninety-three percent of patients had a baseline ECOG performance status of 0 or 
 Forty-five percent of patients were treatment-naïve, and 55% of patients were previously treated.
 The median time since diagnosis was 52.6 months (treatment-naïve patients=6.5 months and previously treated patients=94.3 months).
 Among previously treated patients, the median number of prior treatments was 2 (range, 1 to 6 treatments).
-At baseline, the median serum IgM value was 3.2 g/dL (range, 0.6 to 8.3 g/dL), 63% of patients were anemic (hemoglobin ≤11 g/dL) and MYD88 L265P mutations were present in 77% of patients, absent in 13% of patients, and 9% of patients were not evaluable for mutation status.
+At baseline, the median serum IgM value was 3.2 g/dL (range, 0.6 to 8.3 g/dL), 63% of patients were anaemic (haemoglobin ≤11 g/dL or 6.8 mmol/L) and MYD88 L265P mutations were present in 77% of patients, absent in 13% of patients, and 9% of patients were not evaluable for mutation status.
 
 Progression free survival (PFS) as assessed by IRC indicated an 80% statistically significant reduction in the risk of death or progression in the IMBRUVICA arm.
 Efficacy results for Study PCYC-1127-CA are shown in Table 11 and the Kaplan-Meier curve for PFS is shown in Figure 8.
 PFS hazard ratios for treatment-naïve patients, previously treated patients, and patients with or without MYD88 L265P mutations were consistent with the PFS hazard ratio for the ITT population.
-
 Table 11: Efficacy results in Study PCYC-1127-CA
 
 | Endpoint | IMBRUVICA+R N=75 | Placebo+R N=75 |
@@ -375,7 +370,7 @@ Table 11: Efficacy results in Study PCYC-1127-CA
 | Median duration of overall response, months (range) | Not reached (1.9+, 36.4+) | 24.8 (1.9, 30.3+) |
 | Response Rate (CR, VGPR, PR)b (%) | 72.0 | 32.0 |
 | Median duration of response, months (range) | Not reached (1.9+, 36.4+) | 21.2 (4.6, 25.8) |
-| Rate of Sustained Hemoglobin Improvementb, c (%) | 73.3 | 41.3 |
+| Rate of Sustained Haemoglobin Improvementb, c (%) | 73.3 | 41.3 |
 
 CI=confidence interval; CR=complete response; HR=hazard ratio; MR=minor response; NE=not estimable; PR=partial response; R=Rituximab; TTnT=time to next treatment; VGPR=very good partial response a IRC evaluated.
 b p-value associated with response rate was <0.0001.
@@ -399,7 +394,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 [IMBRUVICA 140 mg film-coated tablets]
 
->3500 mcg/L, 47% had a CrCL<60 mL/min, 20% of patients presented with del11q, 6% of patients presented with del 17p/tumor protein 53 (TP53) mutation, and 44% of patients presented with unmutated immunoglobulin heavy chain variable region (IGHV).
+>3500 mcg/L, 47% had a CrCL<60 mL/min, 20% of patients presented with del11q, 6% of patients presented with del17p/tumor protein 53 (TP53) mutation, and 44% of patients presented with unmutated immunoglobulin heavy chain variable region (IGHV).
 
 |  | N | Hazard Ratio | 95% CI |
 | --- | --- | --- | --- |

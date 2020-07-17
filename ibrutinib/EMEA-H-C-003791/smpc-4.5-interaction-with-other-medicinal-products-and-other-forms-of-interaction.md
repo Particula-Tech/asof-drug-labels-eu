@@ -46,12 +46,8 @@ As no clinical data are available on this interaction, it cannot be excluded tha
 To minimise the potential for an interaction in the GI tract, oral narrow therapeutic range, P-gp or BCRP substrates such as digoxin or methotrexate should be taken at least 6 hours before or after IMBRUVICA.
 Ibrutinib may also inhibit BCRP in the liver and increase the exposure of medicinal products that undergo BCRP-mediated hepatic efflux, such as rosuvastatin.
 
-Based on in vitro data, ibrutinib is a weak reversible inhibitor towards CYP3A4 at the intestinal level and may therefore increase the exposure to CYP3A4 substrates sensitive to gut CYP3A metabolism.
-No clinical data are available on this interaction.
-Caution should be exercised if co-administering ibrutinib with CYP3A4 substrates administered orally with narrow therapeutic range (such as dihydroergotamine, ergotamine, fentanyl, cyclosporine, sirolimus and tacrolimus).
-
-Based on in vitro data, ibrutinib is a weak CYP2B6 inducer and may have the potential to affect the expression of other enzymes and transporters regulated via the constitutive androstane receptor (CAR), e.g. CYP2C9, CYP2C19, UGT1A1 and MRP2.
-The clinical relevance is not known, but the exposure to substrates of CYP2B6 (such as efavirenz and bupropion) and of co-regulated enzymes may be reduced upon co-administration with ibrutinib.
+In a drug interaction study in patients with B-cell malignancies, a single 560 mg dose of ibrutinib did not have a clinically meaningful effect on the exposure of the CYP3A4 substrate midazolam.
+In the same study, 2 weeks of treatment with ibrutinib at 560 mg daily had no clinically relevant effect on the pharmacokinetics of oral contraceptives (ethinylestradiol and levonorgestrel), the CYP3A4 substrate midazolam, nor the CYP2B6 substrate bupropion.
 
 [IMBRUVICA 140 mg film-coated tablets]
 
