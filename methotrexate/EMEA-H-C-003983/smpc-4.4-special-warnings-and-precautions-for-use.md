@@ -3,6 +3,7 @@
 Patients must be clearly advised that the therapy is to be administered once a week, and not every day.
 Incorrect administration of methotrexate can lead to severe, including potentially lethal adverse reactions.
 Healthcare professionals and patients should be clearly instructed.
+
 Patients receiving therapy should be appropriately monitored, so that signs of possible toxic effects or adverse reactions can be recognised and assessed without delay.
 Hence, methotrexate should be only administered by, or under the supervision of, doctors whose knowledge and experience include the use of antimetabolite therapy.
 Due to the risk of severe or even fatal toxic reactions, patients should be thoroughly informed by the doctor about the risks (including early signs and symptoms of toxicity) and recommended safety measures.
@@ -24,7 +25,6 @@ The absence of pregnancy must be confirmed before Nordimet is used.
 If women of a sexually mature age are treated, effective contraception must be performed during treatment and for at least six months after.
 
 For contraception advice for men, see section 4.6.
-
 Recommended examinations and safety measures
 
 Before initiating therapy or upon resuming therapy after a rest period
@@ -64,7 +64,6 @@ In the event of a constant increase in liver-related enzymes, consideration shou
 
 Due to the potentially toxic effect on the liver, additional hepatotoxic medicinal products should not be given during treatment with methotrexate unless clearly necessary and alcohol consumption should be avoided or greatly reduced (see section 4.5).
 Closer monitoring of liver enzymes should be undertaken in patients concomitantly taking other hepatotoxic medicinal products (e.g. leflunomide).
-
 Increased caution should generally be exercised in patients with insulin-dependent diabetes mellitus, as during methotrexate therapy hepatocirrhosis developed in isolated cases without intermittent increase in transaminases.
 
 - Renal function should be monitored via renal function tests and urinanalysis (see sections 4.2 and 4.3).
@@ -102,7 +101,6 @@ Special caution is required in patients with impaired pulmonary function.
   Concurrent vaccination using live vaccines must not be carried out.
 
 Particular caution should be exercised in the presence of inactive, chronic infections (e.g. herpes zoster, tuberculosis, hepatitis B or C) due to possible activation.
-
 Malignant lymphomas may occur in patients receiving low-dose methotrexate; in which case, methotrexate must be discontinued.
 If lymphomas should fail to regress spontaneously, initiation of cytotoxic therapy is required.
 In patients with pathological accumulation of liquid in body cavities (“third space”), such as ascites or pleural effusions, the plasma elimination half-life of methotrexate is prolonged.

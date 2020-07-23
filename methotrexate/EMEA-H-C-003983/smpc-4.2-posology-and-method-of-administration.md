@@ -2,12 +2,15 @@
 
 Methotrexate should only be prescribed by physicians with expertise in the use of methotrexate and a full understanding of the risks of methotrexate therapy.
 
+Patients must be educated and trained in the proper injection technique when self-administering methotrexate.
+The first injection of Nordimet should be performed under direct medical supervision.
 Important warning about the dosage of Nordimet
 
 In the treatment of rheumatoid arthritis, active juvenile idiopathic arthritis,psoriasis and psoriatic arthritis requiring dosing once a week.
 Nordimet must only be used once a week.
 Dosage errors in the use of Nordimet can result in serious adverse reactions, including death.
 Please read this section of the summary of product characteristics very carefully.
+
 When switching from oral use to subcutaneous use, a reduction in the dose may be required, due to the variable bioavailability of methotrexate after oral administration.
 
 Folic acid or folinic acid supplementation may be considered in accordance with current therapeutic guidelines.
@@ -44,7 +47,6 @@ Special populations
 
 Elderly
 Dose reduction should be considered in elderly patients due to reduced liver and kidney function as well as lower folate reserves which occur with increased age (see sections 4.4, 4.5, 4.8 or 5.2)
-
 Renal impairment
 Methotrexate should be used with caution in patients with impaired renal function (see sections 4.3 and 4.4).
 The dose should be adjusted as follows:

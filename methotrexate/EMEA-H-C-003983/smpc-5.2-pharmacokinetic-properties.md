@@ -5,6 +5,7 @@ After oral application, methotrexate is absorbed from the gastrointestinal tract
 When administered in low doses (7.5 mg/m2 to 80 mg/m2 BSA), methotrexate has a mean bioavailability of approximately 70%, although considerable inter- and intra-subject variations are possible (25-100%).
 Plasma peak concentrations are attained within 1-2 hours.
 Subcutaneous, intravenous and intramuscular administration demonstrated similar bioavailability.
+
 Distribution
 Approximately 50% of methotrexate is bound to serum proteins.
 Upon being distributed into body tissues, high concentrations particularly in liver, kidneys and spleen in form of polyglutamates can be found, which can be retained for weeks or months.

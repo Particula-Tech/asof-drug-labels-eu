@@ -7,6 +7,7 @@ Most frequently (very common) observed adverse reactions of methotrexate include
 Other frequently (common) occurring adverse reactions are leukopenia, anaemia, thrombopenia, headache, tiredness, drowsiness, pneumonia, interstitial alveolitis/pneumonitis often associated with eosinophilia, oral ulcers, diarrhoea, exanthema, erythema and pruritus.
 
 The most relevant adverse reaction is suppression of the haematopoietic system and gastrointestinal disorders.
+
 List of adverse reactions
 Frequencies are defined using the following convention:
 very common (≥ 1/10) common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare
@@ -25,7 +26,6 @@ Common: Leukopenia, anaemia, thrombopenia.
 Uncommon: Pancytopenia.
 Very rare: Agranulocytosis, severe courses of bone marrow depression, lymphoproliferative disorders (see “description below”).
 Not known: Eosinophilia
-
 Immune system disorders
 Rare: Allergic reactions, anaphylactic shock, hypogammaglobulinaemia.
 
@@ -39,7 +39,7 @@ Rare: Mood alterations.
 Nervous system disorders
 Common: Headache, tiredness, drowsiness.
 Uncommon: Dizziness.
-Very rare: Pain, muscular asthenia or paraesthesia in the extremities, changes in sense of taste (metallic taste), convulsions, meningism, acute aseptic meningitis, paralysis.
+Very rare: Pain, muscular asthenia, paraesthesia/hypoaesthesia, changes in sense of taste (metallic taste), convulsions, meningism, acute aseptic meningitis, paralysis.
 Not known: Encephalopathy/ Leukoencephalopathy.
 
 Eye disorders
@@ -57,6 +57,7 @@ Common: Pneumonia, interstitial alveolitis/pneumonitis often associated with eos
 Symptoms indicating potentially severe lung injury (interstitial pneumonitis) are: dry, not productive cough, shortness of breath and fever.
 Rare: Pulmonary fibrosis, Pneumocystis jiroveci pneumonia, shortness of breath and bronchial asthma, pleural effusion.
 Not known: Epistaxis, pulmonary alveolar haemorrhage.
+
 Gastrointestinal disorders
 Very common: Stomatitis, dyspepsia, nausea, loss of appetite, abdominal pain.
 Common: Oral ulcers, diarrhoea.
@@ -75,7 +76,7 @@ Common: Exanthema, erythema, pruritus.
 Uncommon: Photosensitisation, loss of hair, increase in rheumatic nodules, skin ulcer, herpes zoster, vasculitis, herpetiform eruptions of the skin, urticaria.
 Rare: Increased pigmentation, acne, petechiae, ecchymosis, allergic vasculitis.
 Very rare: Stevens-Johnson syndrome, toxic epidermal necrolysis (Lyell’s syndrome), increased pigmentary changes of the nails, acute paronychia, furunculosis, telangiectasia.
-
+Not known: Skin exfoliation / dermatitis exfoliative
 Musculoskeletal and connective tissue disorders
 Uncommon: Arthralgia, myalgia, osteoporosis.
 Rare: Stress fracture.
@@ -92,7 +93,7 @@ Very rare: Loss of libido, impotence, gynaecomastia, oligospermia, impaired mens
 
 General disorders and administration site conditions
 Rare: Fever, wound-healing impairment.
-Not known: Asthenia, injection site necrosis.
+Not known: Asthenia, injection site necrosis, oedema.
 
 Description of selected adverse reactions
 Lymphoma/Lymphoproliferative disorders: there have been reports of individual cases of lymphoma and other lymphoproliferative disorders which subsided in a number of cases once treatment with methotrexate had been discontinued.
@@ -100,6 +101,7 @@ Lymphoma/Lymphoproliferative disorders: there have been reports of individual ca
 The appearance and degree of severity of undesirable effects depends on the dosage level and the frequency of administration.
 However, as severe undesirable effects can occur even at lower doses, it is indispensable that patients are monitored regularly by the doctor at short intervals.
 Only mild local skin reactions (such as burning sensations, erythema, swelling, discolouration, pruritus, severe itching, pain) were observed with subcutaneous use, decreasing during therapy.
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.

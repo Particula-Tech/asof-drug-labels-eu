@@ -28,7 +28,6 @@ Methotrexate is a powerful human teratogen, with an increased risk of spontaneou
 Insufficient data is available for methotrexate exposure during pregnancy higher than 30 mg/week, but higher rates of spontaneous abortions and congenital malformations are expected.
 
 When methotrexate was discontinued prior to conception, normal pregnancies have been reported.
-
 Breast-feeding
 As methotrexate is transferred into human milk and may cause toxicity in breast-feeding children, treatment is contraindicated during breast-feeding (see section 4.3).
 If use of methotrexate during the breast-feeding period should become necessary, breast-feeding is to be stopped prior to treatment.
