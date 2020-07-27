@@ -46,8 +46,10 @@ Medicinal products that inhibit CYP3A4
 Medicinal product interactions following oromucosal administration of midazolam are likely to be similar to those observed after intravenous midazolam rather than oral administration.
 
 Food
+
 Grapefruit juice reduces the clearance of midazolam and potentiates its action.
 Azole antifungals
+
 Ketoconazole increased the plasma concentrations of intravenous midazolam by 5-fold while the terminal half-life increased by about 3-fold.
 
 Voriconazole increased the exposure of intravenous midazolam by 3-fold whereas its elimination half-life increased by about 3-fold.
@@ -57,35 +59,41 @@ Fluconazole and itraconazole both increased the plasma concentrations of intrave
 Posaconazole increased the plasma concentrations of intravenous midazolam by about 2-fold.
 
 Macrolide antibiotics
+
 Erythromycin resulted in an increase in the plasma concentrations of intravenous midazolam by about 1.6 to 2 –fold associated with an increase of the terminal half-life of midazolam by 1.5 to 1.8-fold.
 
 Clarithromycin increased the plasma concentrations of intravenous midazolam by up to 2.5-fold associated with an increase in terminal half-life by 1.5 to 2-fold.
 
 HIV Protease inhibitors
+
 Co-administration with protease inhibitors (e.g. Saquinavir and other HIV protease inhibitors) may cause a large increase in the concentration of midazolam.
 Upon co-administration with ritonavir-boosted lopinavir, the plasma concentrations of intravenous midazolam increased by 5.4-fold, associated with a similar increase in terminal half-life.
 
 Calcium-channel blockers
+
 A single dose of diltiazem increased the plasma concentrations of intravenous midazolam by about 25% and the terminal half-life was prolonged by 43%.
 
 Various medicinal products
+
 Atorvastatin showed a 1.4-fold increase in plasma concentrations of intravenous midazolam compared to control group.
 
 Medicinal products that induce CYP3A4
 
 Rifampicin
+
 7 days of 600 mg once daily decreased the plasma concentrations of intravenous midazolam by about 60%.
 The terminal half-life decreased by about 50-60%.
 
 Herbs
+
 St John’s Wort decreased plasma concentrations of midazolam by about 20-40% associated with a decrease in terminal half life of about 15-17%.
 Depending on the specific St John's Wort extract, the CYP3A4-inducing effect may vary.
 
 Pharmacodynamic Drug-Drug Interactions (DDI)
 
 The co-administration of midazolam with other sedative/hypnotic medicinal products and CNS depressants, including alcohol, is likely to result in enhanced sedation and respiratory depression.
-
 Examples include opiate derivatives (used as analgesics, antitussives or substitutive treatments), antipsychotics, other benzodiazepines used as anxiolytics or hypnotics, barbiturates, propofol, ketamine, etomidate; sedative antidepressants, non-recent H1-antihistamines and centrally acting antihypertensive medicinal products.
+
 Alcohol (including alcohol-containing medicinal products may markedly enhance the sedative effect of midazolam.
 Alcohol intake should be strongly avoided in case of midazolam administration (see section 4.4).
 

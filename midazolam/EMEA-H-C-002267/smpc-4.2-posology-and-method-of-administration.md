@@ -20,16 +20,19 @@ A second or repeat dose when seizures re-occur after an initial response should 
 Special populations
 
 Renal impairment
+
 No dose adjustment is required, however, BUCCOLAM should be used with caution in patients with chronic renal failure as elimination of midazolam may be delayed and the effects prolonged.
 (see section 4.4)
 
 Hepatic impairment
+
 Hepatic impairment reduces the clearance of midazolam with a subsequent increase in terminal half-life.
 Therefore, the clinical effects may be stronger and prolonged, hence careful monitoring of the clinical effects and vital signs is recommended following administration of midazolam in patients with hepatic impairment (see section 4.4).
 
 BUCCOLAM is contraindicated in patients with severe hepatic impairment (see section 4.3).
 
 Paediatric population
+
 The safety and efficacy of midazolam in children aged 0 to 3 months has not been established.
 No data are available.
 

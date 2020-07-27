@@ -45,26 +45,31 @@ Elimination
 Plasma clearance of midazolam in children following oromucosal administration is 30 ml/kg/min.
 The initial and terminal elimination half-lives are 27 and 204 minutes, respectively.
 Midazolam is excreted mainly by the renal route (60-80% of the injected dose) and recovered as glucuroconjugated alpha-hydroxy-midazolam.
-Less than 1% of the dose is recovered in urine as unchanged medicinal product..
-
+Less than 1% of the dose is recovered in urine as unchanged medicinal product.
 Pharmacokinetics in special populations
 
 Obese
+
 The mean half-life is greater in obese than in non-obese patients (5.9 versus 2.3 hours).
 This is due to an increase of approximately 50% in the volume of distribution corrected for total body weight.
 The clearance is not significantly different in obese and non-obese patients.
 
 Hepatic impairment
+
 The elimination half-life in cirrhotic patients may be longer and the clearance lower as compared to those in healthy volunteers (see section 4.4).
+
 Renal impairment
+
 The elimination half-life in patients with chronic renal failure is similar to that in healthy volunteers.
 
 The elimination half-life of midazolam is prolonged up to six times in the critically ill.
 
 Cardiac insufficiency
+
 The elimination half-life is longer in patients with congestive heart failure compared with that in healthy subjects (see section 4.4).
 
 Exposure following a second dose in the same seizure episode
+
 Simulated exposure data show that the overall AUC approximately doubles when a second dose is administered at 10, 30 and 60 minutes following the first dose.
 A second dose at 10 minutes results in a significant increase in mean Cmax of between 1.7 to 1.9 fold.
 At 30 and 60 minutes, significant elimination of midazolam has already occurred and therefore the increase in mean Cmax is less pronounced; 1.3 to 1.6 and 1.2 to 1.5 fold respectively.
