@@ -1,0 +1,16 @@
+{
+  "active_substance": "alpelisib",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/004804",
+  "eu_number": "EU/1/20/1455",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2020-07-27",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/piqray",
+  "molecule": "alpelisib",
+  "molecule_name": "ALPELISIB",
+  "name": "Piqray",
+  "register_name": "Piqray",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h1455.htm"
+}
