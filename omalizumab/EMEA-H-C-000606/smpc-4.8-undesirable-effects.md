@@ -1,19 +1,20 @@
 # 4.8 Undesirable effects
 
-Summary of the safety profile
+Allergic asthma and chronic rhinosinusitis with nasal polyps (CRSwNP)
 
-During clinical trials in adult and adolescent patients 12 years of age and older, the most commonly reported adverse reactions were headaches and injection site reactions, including injection site pain, swelling, erythema and pruritus.
+Summary of the safety profile
+During allergic asthma clinical trials in adult and adolescent patients 12 years of age and older, the most commonly reported adverse reactions were headaches and injection site reactions, including injection site pain, swelling, erythema and pruritus.
 In clinical trials in children 6 to <12 years of age, the most commonly reported adverse reactions were headache, pyrexia and upper abdominal pain.
 Most of the reactions were mild or moderate in severity.
+In clinical trials in patients ≥18 years of age in CRSwNP, the most commonly reported adverse reactions were headache, dizziness, arthralgia, abdominal pain upper and injection site reactions.
 
 Tabulated list of adverse reactions
-
-Table 4 lists the adverse reactions recorded in clinical studies in the total safety population treated with Xolair by MedDRA system organ class and frequency.
+Table 4 lists the adverse reactions recorded in clinical studies in the total allergic asthma and CRSwNP safety population treated with Xolair by MedDRA system organ class and frequency.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 Frequency categories are defined as: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000) and very rare (<1/10,000).
 Reactions reported in the post-marketing setting are listed with frequency not known (cannot be estimated from the available data).
 
-Table 4 Adverse reactions
+Table 4 Adverse reactions in allergic asthma and CRSwNP
 
 | Infections and infestations |  |
 | --- | --- |
@@ -23,24 +24,24 @@ Table 4 Adverse reactions
 | Immune system disorders |  |
 | Rare Not known | Anaphylactic reaction, other serious allergic conditions, anti-omalizumab antibody development Serum sickness, may include fever and lymphadenopathy |
 | Nervous system disorders |  |
-| Common Uncommon | Headache* Syncope, paraesthesia, somnolence, dizziness |
+| Common Uncommon | Headache* Syncope, paraesthesia, somnolence, dizziness# |
 | Vascular disorders |  |
 | Uncommon | Postural hypotension, flushing |
 | Respiratory, thoracic and mediastinal disorders |  |
 | Uncommon Rare Not known | Allergic bronchospasm, coughing Laryngoedema Allergic granulomatous vasculitis (i.e. Churg-Strauss syndrome) |
 | Gastrointestinal disorders |  |
-| Common Uncommon | Abdominal pain upper** Dyspeptic signs and symptoms, diarrhoea, nausea |
+| Common Uncommon | Abdominal pain upper**,# Dyspeptic signs and symptoms, diarrhoea, nausea |
 | Skin and subcutaneous tissue disorders |  |
 | Uncommon Rare Not known | Photosensitivity, urticaria, rash, pruritus Angioedema Alopecia |
 | Musculoskeletal and connective tissue disorders |  |
-| Rare | Systemic lupus erythematosus (SLE) |
-| Not known | Arthralgia, myalgia, joint swelling |
+| Common Rare Not known | Athralgia† Systemic lupus erythematosus (SLE) Myalgia, joint swelling |
 | General disorders and administration site conditions |  |
 | Very common Common Uncommon | Pyrexia** Injection site reactions such as swelling, erythema, pain, pruritus Influenza-like illness, swelling arms, weight increase, fatigue |
 
 *: Very common in children 6 to <12 years of age
 **: In children 6 to <12 years of age
-
+#: Common in nasal polyp trials
+†: Unknown in allergic asthma trials
 Description of selected adverse reactions
 
 Immune system disorders
@@ -66,6 +67,7 @@ No pattern of persistent decrease in platelet counts, as observed in non-human p
 Parasitic infections
 In patients at chronic high risk of helminth infection, a placebo-controlled trial showed a slight numerical increase in infection rate with omalizumab that was not statistically significant.
 The course, severity, and response to treatment of infections were unaltered (see section 4.4).
+
 Systemic lupus erythematosus
 Clinical trial and post-marketing cases of systemic lupus erythematosus (SLE) have been reported in patients with moderate to severe asthma and CSU.
 The pathogenesis of SLE is not well understood.
@@ -78,35 +80,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [Xolair 150 mg powder and solvent for solution for injection]
 
-Allergic asthma
-
 Summary of safety profile
-
-Table 4 Adverse reactions in allergic asthma
-
-| Infections and infestations |  |
-| --- | --- |
-| Uncommon | Pharyngitis |
-| Rare | Parasitic infection |
-| Blood and lymphatic system disorders |  |
-| Not known | Idiopathic thrombocytopenia, including severe cases |
-| Immune system disorders |  |
-| Rare Not known | Anaphylactic reaction, other serious allergic conditions, anti-omalizumab antibody development Serum sickness, may include fever and lymphadenopathy |
-| Nervous system disorders |  |
-| Common Uncommon | Headache* Syncope, paraesthesia, somnolence, dizziness |
-| Vascular disorders |  |
-| Uncommon | Postural hypotension, flushing |
-| Respiratory, thoracic and mediastinal disorders |  |
-| Uncommon Rare Not known | Allergic bronchospasm, coughing Laryngoedema Allergic granulomatous vasculitis (i.e. Churg-Strauss syndrome) |
-| Gastrointestinal disorders |  |
-| Common Uncommon | Abdominal pain upper** Dyspeptic signs and symptoms, diarrhoea, nausea |
-| Skin and subcutaneous tissue disorders |  |
-| Uncommon Rare Not known | Photosensitivity, urticaria, rash, pruritus Angioedema Alopecia |
-| Musculoskeletal and connective tissue disorders |  |
-| Rare | Systemic lupus erythematosus (SLE) |
-| Not known | Arthralgia, myalgia, joint swelling |
-| General disorders and administration site conditions |  |
-| Very common Common Uncommon | Pyrexia** Injection site reactions such as swelling, erythema, pain, pruritus Influenza-like illness, swelling arms, weight increase, fatigue |
 
 Chronic spontaneous urticaria (CSU)
 
@@ -114,6 +88,7 @@ The safety and tolerability of omalizumab were investigated with doses of 75 mg,
 Overall, 733 patients were treated with omalizumab for up to 12 weeks and 490 patients for up to 24 weeks.
 Of those,
 412 patients were treated for up to 12 weeks and 333 patients were treated for up to 24 weeks at the 300 mg dose.
+
 A separate table (Table 5) shows the adverse reactions for the CSU indication resulting from differences in dosages and treatment populations (with significantly different risk factors, comorbidities, co-medications and ages [e.g. asthma trials included children from 6-12 years of age]).
 
 Table 5 lists the adverse reactions (events occurring in ≥1% of patients in any treatment group and
@@ -145,9 +120,8 @@ Arthralgia 1 (0.4%) 12 (2.9%) Common
 General disorder and administration site conditions
 
 Injection site reaction* 2 (0.8%) 11 (2.7%) Common
-Omalizumab studies 1 and 3 Pooled Frequency category
 
-24-Week
+Omalizumab studies 1 and 3 Pooled Frequency category 24-Week
 
 Placebo N=163 300 mg N=333
 
@@ -157,10 +131,6 @@ Upper respiratory tract
 
 infection
 * Despite not showing a 2% difference to placebo, injection site reactions were included as all cases were assessed causally related to study treatment.
-
-Description of selected adverse reactions pertinent to allergic asthma and CSU indications
-
-No relevant data was obtained in clinical studies in CSU that would require a modification of the sections below.
 
 In allergic patients at chronic high risk of helminth infection, a placebo-controlled trial showed a slight numerical increase in infection rate with omalizumab that was not statistically significant.
 

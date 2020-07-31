@@ -1,5 +1,9 @@
 # 4.4 Special warnings and precautions for use
 
+Traceability
+
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
 General
 
 Xolair is not indicated for the treatment of acute asthma exacerbations, acute bronchospasm or status asthmaticus.
@@ -10,8 +14,9 @@ Xolair is not indicated for the treatment of these conditions.
 Xolair therapy has not been studied in patients with autoimmune diseases, immune complex-mediated conditions, or pre-existing renal or hepatic impairment (see section 4.2).
 Caution should be exercised when administering Xolair in these patient populations.
 
-Abrupt discontinuation of systemic or inhaled corticosteroids after initiation of Xolair therapy is not recommended.
+Abrupt discontinuation of systemic or inhaled corticosteroids after initiation of Xolair therapy in allergic asthma or CRSwNP is not recommended.
 Decreases in corticosteroids should be performed under the direct supervision of a physician and may need to be performed gradually.
+
 Immune system disorders
 
 Allergic reactions type I
@@ -20,8 +25,8 @@ However, most of these reactions occurred within 2 hours after the first and sub
 The majority of anaphylactic reactions occurred within the first 3 doses of Xolair.
 A history of anaphylaxis unrelated to omalizumab may be a risk factor for anaphylaxis following Xolair administration.
 Therefore medicinal products for the treatment of anaphylactic reactions should always be available for immediate use following administration of Xolair.
-If an anaphylactic or other serious allergic reaction occurs, administration of Xolair must be discontinued immediately and appropriate therapy initiated.
-Patients should be informed that such reactions are possible and prompt medical attention should be sought if allergic reactions occur.
+If an anaphylactic or other serious allergic reaction occurs, administration of Xolair must be discontinued immediately, and appropriate therapy initiated.
+Patients should be informed that such reactions are possible, and prompt medical attention should be sought if allergic reactions occur.
 
 Antibodies to omalizumab have been detected in a low number of patients in clinical trials (see section 4.8).
 The clinical relevance of anti-Xolair antibodies is not well understood.
@@ -32,7 +37,6 @@ The suggested pathophysiologic mechanism includes immune-complex formation and d
 The onset has typically been 1-5 days after administration of the first or subsequent injections, also after long duration of treatment.
 Symptoms suggestive of serum sickness include arthritis/arthralgias, rash (urticaria or other forms), fever and lymphadenopathy.
 Antihistamines and corticosteroids may be useful for preventing or treating this disorder, and patients should be advised to report any suspected symptoms.
-
 Churg-Strauss syndrome and hypereosinophilic syndrome
 Patients with severe asthma may rarely present systemic hypereosinophilic syndrome or allergic eosinophilic granulomatous vasculitis (Churg-Strauss syndrome), both of which are usually treated with systemic corticosteroids.
 

@@ -7,23 +7,30 @@ The antibody is an IgG1 kappa that contains human framework regions with the com
 
 Mechanism of action
 
-Omalizumab binds to IgE and prevents binding of IgE to FcεRI (high-affinity IgE receptor), thereby reducing the amount of free IgE that is available to trigger the allergic cascade.
+Omalizumab binds to IgE and prevents binding of IgE to FcεRI (high-affinity IgE receptor) on basophils and mast cells, thereby reducing the amount of free IgE that is available to trigger the allergic cascade.
 Treatment of atopic subjects with omalizumab resulted in a marked down-regulation of FcεRI receptors on basophils.
+Treatment with Xolair inhibits IgE-mediated inflammation, as evidenced by reduced blood and tissue eosinophils and reduced inflammatory mediators, including IL-4, IL-5, and IL-13 by innate, adaptive and non-immune cells.
 
 Pharmacodynamic effects
 
+Allergic asthma
 The in vitro histamine release from basophils isolated from Xolair-treated subjects was reduced by approximately 90% following stimulation with an allergen compared to pre-treatment values.
 
-In clinical studies, serum free IgE levels were reduced in a dose-dependent manner within one hour following the first dose and maintained between doses.
+In clinical studies in allergic asthma patients, serum free IgE levels were reduced in a dose-dependent manner within one hour following the first dose and maintained between doses.
 One year after discontinuation of Xolair dosing, the IgE levels had returned to pre-treatment levels with no observed rebound in IgE levels after washout of the medicinal product.
+
+Chronic rhinosinusitis with nasal polyps (CRSwNP)
+In clinical studies in patients with CRSwNP, Xolair treatment led to a reduction in serum free IgE (approx. 95%) and an increase in serum total IgE levels, to a similar extent as observed in patients with allergic asthma.
+Total IgE levels in serum increased due to the formation of omalizumab-IgE complexes that have a slower elimination rate compared with free IgE.
+
 Clinical efficacy and safety
 
+Allergic asthma
 Adults and adolescents ≥12 years of age
 The efficacy and safety of Xolair were demonstrated in a 28-week double-blind placebo-controlled study (study 1) involving 419 severe allergic asthmatics, ages 12-79 years, who had reduced lung function (FEV1 40-80% predicted) and poor asthma symptom control despite receiving high dose inhaled corticosteroids and a long-acting beta2-agonist.
 Eligible patients had experienced multiple asthma exacerbations requiring systemic corticosteroid treatment or had been hospitalised or attended an emergency room due to a severe asthma exacerbation in the past year despite continuous treatment with high-dose inhaled corticosteroids and a long-acting beta2-agonist.
 Subcutaneous Xolair or placebo were administered as add-on therapy to >1,000 micrograms beclomethasone dipropionate (or equivalent) plus a long-acting beta2-agonist.
 Oral corticosteroid, theophylline and leukotriene-modifier maintenance therapies were allowed (22%, 27%, and 35% of patients, respectively).
-
 The rate of asthma exacerbations requiring treatment with bursts of systemic corticosteroids was the primary endpoint.
 Omalizumab reduced the rate of asthma exacerbations by 19% (p = 0.153).
 Further evaluations which did show statistical significance (p<0.05) in favour of Xolair included reductions in severe exacerbations (where patient’s lung function was reduced to below 60% of personal best and requiring systemic corticosteroids) and asthma-related emergency visits (comprised of hospitalisations, emergency room, and unscheduled doctor visits), and improvements in Physician’s overall assessment of treatment effectiveness, Asthma-related Quality of Life (AQL), asthma symptoms and lung function.
@@ -67,6 +74,7 @@ p-value 0.008
 
 * marked improvement or complete control
 ** p-value for overall distribution of assessment
+
 Study 2 assessed the efficacy and safety of Xolair in a population of 312 severe allergic asthmatics which matched the population in study 1.
 Treatment with Xolair in this open label study led to a 61% reduction in clinically significant asthma exacerbation rate compared to current asthma therapy alone.
 
@@ -77,7 +85,6 @@ Studies 3-5 used exacerbation as primary endpoint, whereas study 6 primarily eva
 In studies 3, 4 and 5 patients treated with Xolair had respective reductions in asthma exacerbation rates of 37.5% (p = 0.027), 40.3% (p<0.001) and 57.6% (p<0.001) compared to placebo.
 
 In study 6, significantly more severe allergic asthma patients on Xolair were able to reduce their fluticasone dose to ≤500 micrograms/day without deterioration of asthma control (60.3%) compared to the placebo group (45.8%, p<0.05).
-
 Quality of life scores were measured using the Juniper Asthma-related Quality of Life Questionnaire.
 For all six studies there was a statistically significant improvement from baseline in quality of life scores for Xolair patients versus the placebo or control group.
 
@@ -99,16 +106,123 @@ At 24 weeks, the difference in rates between treatment groups represented a 34% 
 In the second double-blind 28-week treatment period the difference in rates between treatment groups represented a 63% (rate ratio 0.37, p<0.001) decrease relative to placebo for omalizumab patients.
 
 During the 52-week double-blind treatment period (including the 24-week fixed-dose steroid phase and the 28-week steroid adjustment phase) the difference in rates between treatment groups represented a 50% (rate ratio 0.504, p<0.001) relative decrease in exacerbations for omalizumab patients.
+
 The omalizumab group showed greater decreases in beta-agonist rescue medication use than the placebo group at the end of the 52-week treatment period, although the difference between treatment groups was not statistically significant.
 For the global evaluation of treatment effectiveness at the end of the 52-week double-blind treatment period in the subgroup of severe patients on high-dose inhaled corticosteroids plus long-acting beta agonists, the proportion of patients rated as having ‘excellent’ treatment effectiveness was higher, and the proportions having ‘moderate’ or ‘poor’ treatment effectiveness lower in the omalizumab group compared to the placebo group; the difference between groups was statistically significant (p<0.001), while there were no differences between the omalizumab and placebo groups for patients’ subjective Quality of Life ratings.
+Chronic rhinosinusitis with nasal polyps (CRSwNP)
+The safety and efficacy of Xolair were evaluated in two randomised, double-blind, placebo-controlled trials in patients with CRSwNP (Table 7).
+Patients received Xolair or placebo subcutaneously every 2 or 4 weeks (see section 4.2).
+All patients received background intranasal mometasone therapy throughout the study.
+Prior sino-nasal surgery or prior systemic corticosteroid usage were not required for inclusion in the studies.
+Patients received Xolair or placebo for 24 weeks followed by a 4-week follow-up period.
+Demographics and baseline characteristics, including allergic comorbidities, are described in Table 6.
+
+Table 6 Demographics and baseline characteristics of nasal polyp studies
+
+| Parameter | Nasal polyp study 1 N=138 | Nasal polyp study 2 N=127 |
+| --- | --- | --- |
+| Mean age (years) (SD) | 51.0 (13.2) | 50.1 (11.9) |
+| % Male | 63.8 | 65.4 |
+| Patients with systemic corticosteroid use in the previous year (%) | 18.8 | 26.0 |
+| Bilateral endoscopic nasal polyp score (NPS): mean (SD), range 0-8 | 6.2 (1.0) | 6.3 (0.9) |
+| Nasal congestion score (NCS): mean (SD), range 0-3 | 2.4 (0.6) | 2.3 (0.7) |
+| Sense of smell score: mean (SD), range 0-3 | 2.7 (0.7) | 2.7 (0.7) |
+| SNOT-22 total score: mean (SD) range 0-110 | 60.1 (17.7) | 59.5 (19.3) |
+| Blood eosinophils (cells/µl): mean (SD) | 346.1 (284.1) | 334.6 (187.6) |
+| Total IgE IU/ml: mean (SD) | 160.9 (139.6) | 190.2 (200.5) |
+| Asthma (%) | 53.6 | 60.6 |
+| Mild (%) | 37.8 | 32.5 |
+| Moderate (%) | 58.1 | 58.4 |
+| Severe (%) | 4.1 | 9.1 |
+| Aspirin exacerbated respiratory disease (%) | 19.6 | 35.4 |
+| Allergic rhinitis | 43.5 | 42.5 |
+
+SD = standard deviation; SNOT-22 = Sino-Nasal Outcome Test 22 Questionnaire; IgE = Immunoglobulin E; IU = international units.
+For NPS, NCS, and SNOT-22 higher scores indicate greater disease severity.
+The co-primary endpoints were bilateral nasal polyps score (NPS) and average daily nasal congestion score (NCS) at Week 24.
+In both nasal polyp studies 1 and 2, patients who received Xolair had statistically significant greater improvements from baseline at Week 24 in NPS and weekly average NCS than patients who received placebo.
+Results from nasal polyp studies 1 and 2 are shown in
+Table 7.
+
+Table 7 Change from baseline at Week 24 in clinical scores from nasal polyp study 1, nasal polyp study 2, and pooled data
+
+Nasal polyp Nasal polyp Nasal polyp
+study 1 study 2 pooled results
+
+Placebo Xolair Placebo Xolair Placebo Xolair
+
+N 66 72 65 62 131 134
+
+Nasal polyp score
+
+Baseline mean 6.32 6.19 6.09 6.44 6.21 6.31
+LS mean change at 0.06 -1.08 -0.31 -0.90 -0.13 -0.99
+
+Week 24
+Difference (95%) -1.14 (-1.59, -0.69) -0.59 (-1.05, -0.12) -0.86 (-1.18, -0.54) CI
+
+p-value <0.0001 0.0140 <0.0001
+
+7-day average of daily nasal congestion score
+
+Baseline mean 2.46 2.40 2.29 2.26 2.38 2.34
+
+LS mean change at -0.35 -0.89 -0.20 -0.70 -0.28 -0.80 Week 24
+Difference (95%) -0.55 (-0.84, -0.25) -0.50 (-0.80, -0.19) -0.52 (-0.73, -0.31) CI
+
+p-value 0.0004 0.0017 <0.0001
+
+TNSS
+
+Baseline mean 9.33 8.56 8.73 8.37 9.03 8.47
+
+LS mean change at -1.06 -2.97 -0.44 -2.53 -0.77 -2.75 Week 24
+Difference (95%) -1.91 (-2.85, -0.96) -2.09 (-3.00, -1.18) -1.98 (-2.63, -1.33)
+
+p-value 0.0001 <0.0001 <0.0001
+
+SNOT-22
+
+Baseline mean 60.26 59.82 59.80 59.21 60.03 59.54
+
+LS mean change at -8.58 -24.70 -6.55 -21.59 -7.73 -23.10 Week 24
+Difference (95%) -16.12 (-21.86, -10.38) -15.04 (-21.26, -8.82) -15.36 (-19.57, -11.16)
+
+p-value <0.0001 <0.0001 <0.0001
+
+(MID = 8.9)
+UPSIT
+
+Baseline mean 13.56 12.78 13.27 12.87 13.41 12.82
+LS mean change at 0.63 4.44 0.44 4.31 0.54 4.38
+
+Week 24
+
+Difference (95%) 3.81 (1.38, 6.24) 3.86 (1.57, 6.15) 3.84 (2.17, 5.51)
+p-value 0.0024 0.0011 <0.0001
+
+LS=least-square; CI = confidence interval; TNSS = Total nasal symptom score; SNOT-22 = Sino-Nasal Outcome Test 22 Questionnaire; UPSIT = University of Pennsylvania Smell Identification Test; MID = minimal important difference.
+Figure 1 Mean change from baseline in nasal congestion score and mean change from baseline in nasal polyp score by treatment group in nasal polyp study 1 and study 2
+
+0.25 Study 1 / Placebo (N=66) Study 2 / Placebo (N=65) 0.25 Study 1 / Placebo (N=66) Study 2 / Placebo (N=65)
+Study 1 / Omalizumab (N=72) Study 2 / Omalizumab (N=62) Study 1 / Omalizumab (N=72) Study 2 / Omalizumab (N=62)
+0.00 0.00
+-0.25 -0.25
+-0.50 -0.50
+-0.75 -0.75
+-1.00 -1.00
+-1.25 Secondary Primary efficacy -1.25 Secondary Primary efficacy
+efficacy analysis analysis efficacy analysis analysis
+Baseline 4 8 12 16 20 24 Baseline 4 8 12 16 20 24
+Week Week
+
+In a pre-specified pooled analysis of rescue treatment (systemic corticosteroids for ≥3 consecutive days or nasal polypectomy) during the 24-week treatment period, the proportion of patients requiring rescue treatment was lower in Xolair compared to placebo (2.3% versus 6.2%, respectively).
+The odds-ratio of having taken rescue treatment in Xolair compared to placebo was 0.38 (95% CI: 0.10, 1.49).
+There were no sino-nasal surgeries reported in either study.
 
 [Xolair 150 mg powder and solvent for solution for injection]
 
-Allergic asthma
-
-Omalizumab binds to IgE and prevents binding of IgE to FcεRI (high-affinity IgE receptor) on basophils and mast cells, thereby reducing the amount of free IgE that is available to trigger the allergic cascade.
-
-In clinical studies in allergic asthma patients, serum free IgE levels were reduced in a dose-dependent manner within one hour following the first dose and maintained between doses.
+Allergic asthma and chronic rhinosinusitis with nasal polyps (CRSwNP)
 
 Chronic spontaneous urticaria (CSU)
 
@@ -121,31 +235,36 @@ In clinical studies in CSU patients, maximum suppression of free IgE was observe
 After repeated dosing once every 4 weeks, pre-dose serum free IgE levels remained stable between 12 and 24 weeks of treatment.
 After discontinuation of Xolair, free IgE levels increased towards pre-treatment levels over a 16-week treatment-free follow-up period.
 
-Clinical efficacy and safety in allergic asthma
-
 Table 6 includes results in the study 1 population.
 
 Table 6 Results of study 1
 
-Clinical efficacy and safety in chronic spontaneous urticaria (CSU)
+The safety and efficacy of Xolair were evaluated in two randomised, double-blind, placebo-controlled trials in patients with CRSwNP (Table 8).
+Demographics and baseline characteristics, including allergic comorbidities, are described in Table 7.
+
+Table 7 Demographics and baseline characteristics of nasal polyp studies
+
+Table 8.
+
+Table 8 Change from baseline at Week 24 in clinical scores from nasal polyp study 1, nasal polyp study 2, and pooled data
 
 The efficacy and safety of Xolair were demonstrated in two randomised, placebo-controlled phase III studies (study 1 and 2) in patients with CSU who remained symptomatic despite H1 antihistamine therapy at the approved dose.
 A third study (study 3) primarily evaluated the safety of Xolair in patients with CSU who remained symptomatic despite treatment with H1 antihistamines at up to four times the approved dose and H2 antihistamine and/or LTRA treatment.
 The three studies enrolled 975 patients aged between 12 and 75 years (mean age 42.3 years; 39 patients 12-17 years, 54 patients ≥65 years; 259 males and 716 females).
 All patients were required to have inadequate symptom control, as assessed by a weekly urticaria activity score (UAS7, range 0-42) of ≥16, and a weekly itch severity score (which is a component of the UAS7; range 0-21) of ≥8 for the 7 days prior to randomisation, despite having used an antihistamine for at least 2 weeks beforehand.
+
 In studies 1 and 2, patients had a mean weekly itch severity score of between 13.7 and 14.5 at baseline and a mean UAS7 score of 29.5 and 31.7 respectively.
 Patients in safety study 3 had a mean weekly itch severity score of 13.8 and a mean UAS7 score of 31.2 at baseline.
 Across all three studies, patients reported receiving on average 4 to 6 medications (including H1 antihistamines) for CSU symptoms prior to study enrollment.
 Patients received Xolair at 75 mg, 150 mg or 300 mg or placebo by subcutaneous injection every 4 weeks for 24 and 12 weeks in studies 1 and 2, respectively, and 300 mg or placebo by subcutaneous injection every 4 weeks for 24 weeks in study 3.
 All studies had a 16-week treatment-free follow-up period.
-
 The primary endpoint was the change from baseline to week 12 in weekly itch severity score.
-Omalizumab at 300 mg reduced the weekly itch severity score by 8.55 to 9.77 (p <0.0001) compared to a reduction of 3.63 to 5.14 for placebo (see Table 7).
+Omalizumab at 300 mg reduced the weekly itch severity score by 8.55 to 9.77 (p <0.0001) compared to a reduction of 3.63 to 5.14 for placebo (see Table 9).
 Statistically significant results were further observed in the responder rates for UAS7≤6 (at week 12) which were higher for the 300 mg treatment groups, ranging from 52-66% (p<0.0001) compared to 11-19% for the placebo groups, and complete response (UAS7=0) was achieved by 34-44% (p<0.0001) of patients treated with 300 mg compared to 5-9% of patients in the placebo groups.
 Patients in the 300 mg treatment groups achieved the highest mean proportion of angioedema-free days from week 4 to week 12, (91.0-96.1%; p<0.001) compared to the placebo groups (88.1-89.2%).
 Mean change from baseline to week 12 in the overall DLQI for the 300 mg treatment groups was greater (p<0.001) than for placebo showing an improvement ranging from 9.7-10.3 points compared to 5.1-6.1 points for the corresponding placebo groups.
 
-Table 7 Change from baseline to week 12 in weekly itch severity score, studies 1, 2 and 3 (mITT population*)
+Table 9 Change from baseline to week 12 in weekly itch severity score, studies 1, 2 and 3 (mITT population*)
 
 Omalizumab
 
@@ -179,13 +298,13 @@ BOCF (Baseline Observation Carried Forward) was used to impute missing data.
 The strata were baseline weekly itch severity score (<13 vs. ≥13) and baseline weight (<80 kg vs. ≥80 kg).
 2 p-value is derived from ANCOVA t-test.
 
-Figure 1 shows the mean weekly itch severity score over time in study 1.
+Figure 2 shows the mean weekly itch severity score over time in study 1.
 The mean weekly itch severity scores significantly decreased with a maximum effect around week 12 that was sustained over the 24-week treatment period.
 The results were similar in study 3.
+
 In all three studies the mean weekly itch severity score increased gradually during the 16-week treatment-free follow-up period, consistent with symptom re-occurrence.
 Mean values at the end of the follow-up period were similar to the placebo group, but lower than respective mean baseline values.
-
-Figure 1 Mean weekly itch severity score over time, study 1 (mITT population)
+Figure 2 Mean weekly itch severity score over time, study 1 (mITT population)
 
 Week 12
 Primary Placebo
@@ -213,9 +332,11 @@ The responder rates were: 33% at week 12 and 67% at week 24 for UAS7=0, and 56% 
 
 [Xolair 75 mg solution for injection in pre-filled syringe]
 
-(all sentences already above)
+Difference (95%) -1.14 (-1.59, -069) -0.59 (-1.05, -012) -0.86 (-1.18, -0.54) CI
 
 [Xolair 150 mg solution for injection in pre-filled syringe]
+
+Figure 2 Mean change from baseline in nasal congestion score and mean change from baseline in nasal polyp score by treatment group in nasal polyp study 1 and study 2
 
 Placebo
 Primary

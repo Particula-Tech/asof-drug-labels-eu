@@ -24,6 +24,7 @@ The interpretation of data may be impacted due to methodological limitations of 
 Given orally, immunoglobulin G proteins undergo intestinal proteolysis and have poor bioavailability.
 No effects on the breast-fed newborns/infants are anticipated.
 Consequently, if clinically needed, the use of Xolair may be considered during breast-feeding.
+
 Fertility
 
 There are no human fertility data for omalizumab.
