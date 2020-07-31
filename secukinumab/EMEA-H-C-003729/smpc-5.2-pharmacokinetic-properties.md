@@ -12,8 +12,8 @@ After initial weekly dosing during the first month, time to reach the maximum co
 
 On the basis of simulated data, peak concentrations at steady-state (Cmax,ss) following subcutaneous administration of 150 mg or 300 mg were 27.6 µg/ml and 55.2 µg/ml, respectively.
 Population pharmacokinetic analysis suggests that steady-state is reached after 20 weeks with monthly dosing regimens.
-Compared with exposure after a single dose, the population pharmacokinetic analysis showed that patients exhibited a 2-fold increase in peak serum concentrations and area under the curve (AUC) following repeated monthly dosing during maintenance.
 
+Compared with exposure after a single dose, the population pharmacokinetic analysis showed that patients exhibited a 2-fold increase in peak serum concentrations and area under the curve (AUC) following repeated monthly dosing during maintenance.
 Population pharmacokinetic analysis showed that secukinumab was absorbed with an average absolute bioavailability of 73% in patients with plaque psoriasis.
 Across studies, absolute bioavailabilities in the range between 60 and 77% were calculated.
 
@@ -53,3 +53,15 @@ IgGs are mainly eliminated via catabolism and hepatic impairment is not expected
 
 Effect of weight on pharmacokinetics
 Secukinumab clearance and volume of distribution increase as body weight increases.
+Paediatric population
+In a pool of the two paediatric studies, patients with moderate to severe plaque psoriasis (6 to less than 18 years of age) were administered secukinumab at the recommended paediatric dosing regimen.
+At week 24, patients weighing ≥25 and <50 kg had a mean ± SD steady-state trough concentration of 19.8 ± 6.96 µg/ml (n=24) after 75 mg of secukinumab and patients weighing ≥50 kg had mean ±SD trough concentration of 27.3 ± 10.1 µg/ml (n=36) after 150 mg of secukinumab.
+The mean ± SD steady-state trough concentration in patients weighing <25 kg (n=8) was 32.6 ± 10.8 µg/ml at week 24 after 75 mg dose.
+
+[Cosentyx 150 mg solution for injection in pre-filled syringe]
+
+(all sentences already above)
+
+[Cosentyx 150 mg solution for injection in pre-filled pen]
+
+At week 24, patients weighing ≥25 and <50 kg, had a mean ± SD steady-state trough concentration of 19.8 ± 6.96 µg/ml (n=24) after 75 mg of secukinumab and patients weighing ≥50 kg had mean ±SD trough concentration of 27.3 ± 10.1 µg/ml (n=36) after 150 mg of secukinumab.

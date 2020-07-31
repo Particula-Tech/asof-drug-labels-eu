@@ -36,6 +36,12 @@ Prepare the required number of vials (2 vials for the 300 mg dose).
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
+Use in the paediatric population
+
+For paediatric patients receiving the 75 mg dose, it is currently recommended to use the single-use vial containing 150 mg secukinumab for reconstitution with sterile water for injections.
+Slightly more than 0.5 ml of the reconstituted solution for subcutaneous injection have to be withdrawn and the rest of the solution must be discarded immediately.
+Detailed instructions for use are provided in the package leaflet.
+
 [Cosentyx 150 mg solution for injection in pre-filled syringe]
 
 Cosentyx 150 mg solution for injection is supplied in a single-use pre-filled syringe for individual use.
@@ -45,7 +51,6 @@ Prior to use, a visual inspection of the pre-filled syringe is recommended.
 The liquid should be clear.
 You may see a small air bubble, which is normal.
 Do not use if the liquid contains easily visible particles, is cloudy or is distinctly brown.
-Detailed instructions for use are provided in the package leaflet.
 
 [Cosentyx 150 mg solution for injection in pre-filled pen]
 

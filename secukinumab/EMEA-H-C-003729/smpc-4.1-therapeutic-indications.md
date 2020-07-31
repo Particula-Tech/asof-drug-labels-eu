@@ -1,8 +1,12 @@
 # 4.1 Therapeutic indications
 
-Plaque psoriasis
+Adult plaque psoriasis
 
 Cosentyx is indicated for the treatment of moderate to severe plaque psoriasis in adults who are candidates for systemic therapy.
+
+Paediatric plaque psoriasis
+
+Cosentyx is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescents from the age of 6 years who are candidates for systemic therapy.
 
 Psoriatic arthritis
 

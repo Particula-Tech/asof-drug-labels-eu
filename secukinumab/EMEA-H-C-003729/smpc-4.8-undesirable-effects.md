@@ -6,7 +6,7 @@ The most frequently reported adverse drug reactions (ADRs) are upper respiratory
 
 Tabulated list of adverse reactions
 
-ADRs from clinical studies and post-marketing reports (Table 1) are listed by MedDRA system organ class.
+ADRs from clinical studies and post-marketing reports (Table 2) are listed by MedDRA system organ class.
 Within each system organ class, the ADRs are ranked by frequency, with the most frequent reactions first.
 Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness.
 In addition, the corresponding frequency category for each adverse drug reaction is based on the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); and not known (cannot be estimated from the available data).
@@ -14,7 +14,7 @@ In addition, the corresponding frequency category for each adverse drug reaction
 Over 18,000 patients have been treated with secukinumab in blinded and open-label clinical studies in various indications (plaque psoriasis, psoriatic arthritis, axial spondyloarthritis and other autoimmune conditions), representing 30,565 patient years of exposure.
 Of these, over 11,700 patients were exposed to secukinumab for at least one year.
 The safety profile of secukinumab is consistent across all indications.
-Table 1 List of adverse reactions in clinical studies1) and post-marketing experience
+Table 2 List of adverse reactions in clinical studies1) and post-marketing experience
 
 | System Organ Class | Frequency | Adverse reaction |
 | --- | --- | --- |
@@ -48,7 +48,7 @@ Serious infections were reported in 1.2% of patients treated with secukinumab (0
 
 Infection rates observed in psoriatic arthritis and axial spondyloarthritis (ankylosing spondylitis and non-radiographic axial spondyloarthritis) clinical studies were similar to those observed in the psoriasis studies.
 Neutropenia
-In psoriasis phase 3 clinical studies, neutropenia was more frequently observed with secukinumab than with placebo, but most cases were mild, transient and reversible.
+In psoriasis phase III clinical studies, neutropenia was more frequently observed with secukinumab than with placebo, but most cases were mild, transient and reversible.
 Neutropenia <1.0-0.5x109/l (CTCAE grade 3) was reported in 18 out of 3,430 (0.5%) patients on secukinumab, with no dose dependence and no temporal relationship to infections in 15 out of 18 cases.
 There were no reported cases of more severe neutropenia.
 Non-serious infections with usual response to standard care and not requiring discontinuation of secukinumab were reported in the remaining 3 cases.
@@ -63,6 +63,14 @@ In clinical studies, urticaria and rare cases of anaphylactic reaction to secuki
 Immunogenicity
 In psoriasis, psoriatic arthritis and axial spondyloarthritis (ankylosing spondylitis and non-radiographic axial spondyloarthritis) clinical studies, less than 1% of patients treated with secukinumab developed antibodies to secukinumab up to 52 weeks of treatment.
 About half of the treatment-emergent anti-drug antibodies were neutralising, but this was not associated with loss of efficacy or pharmacokinetic abnormalities.
+
+Paediatric population
+
+Undesirable effects in paediatric patients from the age of 6 years with plaque psoriasis
+The safety of secukinumab was assessed in two phase III studies in paediatric patients with plaque psoriasis.
+The first study (paediatric study 1) was a double-blind, placebo-controlled study of 162 patients from 6 to less than 18 years of age with severe plaque psoriasis.
+The second study (paediatric study 2) is an open-label study of 84 patients from 6 to less than 18 years of age with moderate to severe plaque psoriasis.
+The safety profile reported in these two studies was consistent with the safety profile reported in adult plaque psoriasis patients.
 
 Reporting of suspected adverse reactions
 

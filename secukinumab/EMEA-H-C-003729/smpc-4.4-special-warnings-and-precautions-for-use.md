@@ -17,7 +17,6 @@ In clinical studies, infections have been observed in patients receiving secukin
 Most of these were mild or moderate upper respiratory tract infections such as nasopharyngitis and did not require treatment discontinuation.
 
 Related to the mechanism of action of secukinumab, non-serious mucocutaneous candida infections were more frequently reported for secukinumab than placebo in the psoriasis clinical studies (3.55 per 100 patient years for secukinumab 300 mg versus 1.00 per 100 patient years for placebo) (see section 4.8).
-
 No increased susceptibility to tuberculosis was reported from clinical studies.
 However, secukinumab should not be given to patients with active tuberculosis.
 Anti-tuberculosis therapy should be considered prior to initiation of secukinumab in patients with latent tuberculosis.
@@ -32,6 +31,7 @@ Hypersensitivity reactions
 
 In clinical studies, rare cases of anaphylactic reactions have been observed in patients receiving secukinumab.
 If an anaphylactic or other serious allergic reactions occur, administration of secukinumab should be discontinued immediately and appropriate therapy initiated.
+
 Vaccinations
 
 Live vaccines should not be given concurrently with secukinumab.
@@ -39,6 +39,8 @@ Live vaccines should not be given concurrently with secukinumab.
 Patients receiving secukinumab may receive concurrent inactivated or non-live vaccinations.
 In a study, after meningococcal and inactivated influenza vaccinations, a similar proportion of healthy volunteers treated with 150 mg of secukinumab and those treated with placebo were able to mount an adequate immune response of at least a 4-fold increase in antibody titres to meningococcal and influenza vaccines.
 The data suggest that secukinumab does not suppress the humoral immune response to the meningococcal or influenza vaccines.
+
+Prior to initiating therapy with Cosentyx, it is recommended that paediatric patients receive all age-appropriate immunisations as per current immunisation guidelines.
 
 Concomitant immunosuppressive therapy
 
