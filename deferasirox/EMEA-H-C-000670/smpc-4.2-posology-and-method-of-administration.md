@@ -16,6 +16,7 @@ Caution should be taken during chelation therapy to minimise the risk of overche
 In case of switching from film-coated tablets/granules to dispersible tablets, the dose of dispersible tablets should be 40% higher than the dose of film-coated tablets/granules, rounded to the nearest whole tablet.
 
 The corresponding doses for the different formulations are shown in the table below.
+
 Table 1 Recommended doses for transfusional iron overload
 Film-coated Dispersible tablets Transfusions Serum
 tablets/granules ferritin
@@ -58,9 +59,12 @@ An initial daily dose of 10 mg/kg may be considered for patients who do not requ
 iron levels and who are also receiving less than 7 ml/kg/month of packed red blood cells
 (approximately <2 units/month for an adult). The patient’s response must be monitored and a dose
 increase should be considered if sufficient efficacy is not obtained (see section 5.1).
-
-For patients already well managed on treatment with deferoxamine, a starting dose of EXJADE dispersible tablets that is numerically half that of the deferoxamine dose could be considered (e.g. a patient receiving 40 mg/kg/day of deferoxamine for 5 days per week (or equivalent) could be transferred to a starting daily dose of 20 mg/kg/day of EXJADE dispersible tablets).
-When this results in a daily dose less than 20 mg/kg body weight, the patient’s response must be monitored and a dose increase should be considered if sufficient efficacy is not obtained (see section 5.1).
+For patients already well managed on treatment with deferoxamine, a starting dose of EXJADE
+dispersible tablets that is numerically half that of the deferoxamine dose could be considered (e.g. a
+patient receiving 40 mg/kg/day of deferoxamine for 5 days per week (or equivalent) could be
+transferred to a starting daily dose of 20 mg/kg/day of EXJADE dispersible tablets). When this results
+in a daily dose less than 20 mg/kg body weight, the patient’s response must be monitored and a dose
+increase should be considered if sufficient efficacy is not obtained (see section 5.1).
 
 Dose adjustment
 It is recommended that serum ferritin be monitored every month and that the dose of EXJADE be adjusted, if necessary, every 3 to 6 months based on the trends in serum ferritin.
@@ -84,6 +88,7 @@ Caution should be taken during chelation therapy to minimise the risk of overche
 In case of switching from film-coated tablets/granules to dispersible tablets, the dose of dispersible tablets should be 40% higher than the dose of film-coated tablets/granules, rounded to the nearest whole tablet.
 
 The corresponding doses for the different formulations are shown in the table below.
+
 Table 2 Recommended doses for non-transfusion-dependent thalassaemia syndromes
 Film-coated Dispersible Liver iron Serum
 tablets/granules tablets concentration ferritin
@@ -109,8 +114,8 @@ Dose adjustment
 It is recommended that serum ferritin be monitored every month to assess the patient’s response to
 therapy and to minimise the risk of overchelation (see section 4.4). After every 3 to 6 months of
 treatment, a dose increase in increments of 5 to 10 mg/kg should be considered if the patient’s LIC is
-≥7 mg Fe/g dw, or if serum ferritin is consistently >2,000 µg/l and not showing a downward trend,
-and the patient is tolerating the medicinal product well. Doses above 20 mg/kg are not recommended
+≥7 mg Fe/g dw, or if serum ferritin is consistently >2,000 µg/l and not showing a downward trend, and
+the patient is tolerating the medicinal product well. Doses above 20 mg/kg are not recommended
 because there is no experience with doses above this level in patients with non-transfusion-dependent
 thalassaemia syndromes.
 In patients in whom LIC was not assessed and serum ferritin is ≤2,000 µg/l, dosing should not exceed
@@ -171,9 +176,10 @@ In case of switching from dispersible tablets to film-coated tablets, the dose o
 The recommended initial daily dose of EXJADE film-coated tablets is 14 mg/kg body weight.
 An initial daily dose of 21 mg/kg may be considered for patients who require reduction of elevated
 An initial daily dose of 7 mg/kg may be considered for patients who do not require reduction of body
-
-For patients already well managed on treatment with deferoxamine, a starting dose of EXJADE film-coated tablets that is numerically one third that of the deferoxamine dose could be considered (e.g. a patient receiving 40 mg/kg/day of deferoxamine for 5 days per week (or equivalent) could be transferred to a starting daily dose of 14 mg/kg/day of EXJADE film-coated tablets).
-When this results in a daily dose less than 14 mg/kg body weight, the patient’s response must be monitored and a dose increase should be considered if sufficient efficacy is not obtained (see section 5.1).
+film-coated tablets that is numerically one third that of the deferoxamine dose could be considered
+(e.g. a patient receiving 40 mg/kg/day of deferoxamine for 5 days per week (or equivalent) could be
+transferred to a starting daily dose of 14 mg/kg/day of EXJADE film-coated tablets). When this results
+in a daily dose less than 14 mg/kg body weight, the patient’s response must be monitored and a dose
 
 Dose adjustments may be made in steps of 3.5 to 7 mg/kg and are to be tailored to the individual patient’s response and therapeutic goals (maintenance or reduction of iron burden).
 In patients not adequately controlled with doses of 21 mg/kg (e.g. serum ferritin levels persistently above 2,500 µg/l and not showing a decreasing trend over time), doses of up to 28 mg/kg may be considered.
@@ -188,7 +194,7 @@ In patients whose serum ferritin level has reached the target (usually between 5
 The recommended initial daily dose of EXJADE film-coated tablets in patients with
 non-transfusion-dependent thalassaemia syndromes is 7 mg/kg body weight.
 treatment, a dose increase in increments of 3.5 to 7 mg/kg should be considered if the patient’s LIC is
-and the patient is tolerating the medicinal product well. Doses above 14 mg/kg are not recommended
+the patient is tolerating the medicinal product well. Doses above 14 mg/kg are not recommended
 7 mg/kg.
 For patients in whom the dose was increased to >7 mg/kg, dose reduction to 7 mg/kg or less is
 
@@ -208,8 +214,11 @@ EXJADE granules demonstrate higher bioavailability compared to the EXJADE disper
 In case of switching from dispersible tablets to granules, the dose of the granules should be 30% lower than the dose of the dispersible tablets, rounded to the nearest whole sachet.
 
 The recommended initial daily dose of EXJADE granules is 14 mg/kg body weight.
-
-For patients already well managed on treatment with deferoxamine, a starting dose of EXJADE granules that is numerically one third that of the deferoxamine dose could be considered (e.g. a patient receiving 40 mg/kg/day of deferoxamine for 5 days per week (or equivalent) could be transferred to a starting daily dose of 14 mg/kg/day of EXJADE granules).
+granules that is numerically one third that of the deferoxamine dose could be considered (e.g. a patient
+receiving 40 mg/kg/day of deferoxamine for 5 days per week (or equivalent) could be transferred to a
+starting daily dose of 14 mg/kg/day of EXJADE granules). When this results in a daily dose less than
+14 mg/kg body weight, the patient’s response must be monitored and a dose increase should be
+considered if sufficient efficacy is not obtained (see section 5.1).
 
 The recommended initial daily dose of EXJADE granules in patients with non-transfusion-dependent
 thalassaemia syndromes is 7 mg/kg body weight.

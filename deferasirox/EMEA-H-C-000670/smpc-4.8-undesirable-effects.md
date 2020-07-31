@@ -73,7 +73,7 @@ Description of selected adverse reactions
 Gallstones and related biliary disorders were reported in about 2% of patients.
 Elevations of liver transaminases were reported as an adverse reaction in 2% of patients.
 Elevations of transaminases greater than 10 times the upper limit of the normal range, suggestive of hepatitis, were uncommon (0.3%).
-During post-marketing experience, hepatic failure, sometimes fatal, has been reported with the deferasirox dispersible tablet formulation, especially in patients with pre-existing liver cirrhosis (see section 4.4).
+During post-marketing experience, hepatic failure, sometimes fatal, has been reported with deferasirox (see section 4.4).
 There have been post-marketing reports of metabolic acidosis.
 The majority of these patients had renal impairment, renal tubulopathy (Fanconi syndrome) or diarrhoea, or conditions where acid-base imbalance is a known complication (see section 4.4).
 Cases of serious acute pancreatitis were observed without documented underlying biliary conditions.
@@ -117,17 +117,16 @@ Gallstones and related biliary disorders were reported in about 2% of patients. 
 transaminases were reported as an adverse reaction in 2% of patients. Elevations of transaminases
 greater than 10 times the upper limit of the normal range, suggestive of hepatitis, were uncommon
 (0.3%). During post-marketing experience, hepatic failure, sometimes fatal, has been reported with
-the deferasirox dispersible tablet formulation, especially in patients with pre-existing liver cirrhosis
-(see section 4.4). There have been post-marketing reports of metabolic acidosis. The majority of these
-patients had renal impairment, renal tubulopathy (Fanconi syndrome) or diarrhoea, or conditions
-where acid-base imbalance is a known complication (see section 4.4). Cases of serious acute
-pancreatitis were observed without documented underlying biliary conditions. As with other iron
+deferasirox (see section 4.4). There have been post-marketing reports of metabolic acidosis. The
+majority of these patients had renal impairment, renal tubulopathy (Fanconi syndrome) or diarrhoea,
+or conditions where acid-base imbalance is a known complication (see section 4.4). Cases of serious
+acute pancreatitis were observed without documented underlying biliary conditions. As with other iron
 chelator treatment, high-frequency hearing loss and lenticular opacities (early cataracts) have been
 uncommonly observed in patients treated with deferasirox (see section 4.4).
 In a retrospective meta-analysis of 2,102 adult and paediatric beta-thalassaemia patients with
 transfusional iron overload treated with deferasirox dispersible tablets in two randomised and four
-open label studies of up to five years’ duration, a mean creatinine clearance decrease of 13.2% in
-adult patients (95% CI: -14.4% to -12.1%; n=935) and 9.9% (95% CI: -11.1% to -8.6%; n=1,142) in
+open label studies of up to five years’ duration, a mean creatinine clearance decrease of 13.2% in adult
+patients (95% CI: -14.4% to -12.1%; n=935) and 9.9% (95% CI: -11.1% to -8.6%; n=1,142) in
 paediatric patients was observed during the first year of treatment. In 250 patients who were followed
 for up to five years, no further decrease in mean creatinine clearance levels was observed.
 

@@ -18,8 +18,8 @@ Particular attention should therefore be paid to monitoring of serum creatinine 
 While no increase in renal adverse events was observed after dose escalation of EXJADE dispersible tablets to doses above 30 mg/kg in clinical studies, an increased risk of renal adverse events with EXJADE dispersible tablet doses above 30 mg/kg cannot be excluded.
 
 It is recommended that serum creatinine be assessed in duplicate before initiating therapy.
-Serum creatinine, creatinine clearance (estimated with the Cockcroft-Gault or MDRD formula in adults and with the Schwartz formula in children) and/or plasma cystatin C levels should be monitored prior to therapy, weekly in the first month after initiation or modification of therapy with
-EXJADE (including switch of formulation), and monthly thereafter.
+Serum creatinine, creatinine clearance (estimated with the Cockcroft-Gault or MDRD formula in adults and with the Schwartz formula in children) and/or plasma cystatin C levels should be monitored prior to therapy, weekly in the first month after initiation or modification of therapy with EXJADE
+(including switch of formulation), and monthly thereafter.
 Patients with pre-existing renal conditions and patients who are receiving medicinal products that depress renal function may be more at risk of complications.
 Care should be taken to maintain adequate hydration in patients who develop diarrhoea or vomiting.
 
@@ -46,12 +46,13 @@ of formulation)
 Reduction of daily dose by 10 mg/kg/day (dispersible tablet formulation),
 if following renal parameters are observed at two consecutive visits and cannot be attributed to
 other causes
-Adult patients >33% above pre- and Decreases <LLN* (<90 ml/min)
-treatment average
-Paediatric patients > age appropriate ULN** and/or Decreases <LLN* (<90 ml/min)
+Adult patients >33% above pre- and Decreases <LLN*
+treatment average (<90 ml/min)
+Paediatric patients > age appropriate and/or Decreases <LLN*
+ULN** (<90 ml/min)
 After dose reduction, interrupt treatment, if
-Adult and paediatric Remains >33% above and/or Decreases <LLN* (<90 ml/min)
-pre-treatment average
+Adult and paediatric Remains >33% above and/or Decreases <LLN*
+pre-treatment average (<90 ml/min)
 *LLN: lower limit of the normal range
 **ULN: upper limit of the normal range
 Treatment may be reinitiated depending on the individual clinical circumstances.
@@ -60,13 +61,12 @@ renal tubular function and/or as clinically indicated:
 - Proteinuria (test should be performed prior to therapy and monthly thereafter)
 - Glycosuria in non-diabetics and low levels of serum potassium, phosphate, magnesium or urate,
 phosphaturia, aminoaciduria (monitor as needed).
-Renal tubulopathy has been mainly reported in children and adolescents with beta-thalassaemia
-treated with EXJADE.
+Renal tubulopathy has been mainly reported in children and adolescents with beta-thalassaemia treated
+with EXJADE.
 Patients should be referred to a renal specialist, and further specialised investigations (such as renal
 biopsy) may be considered if the following occur despite dose reduction and interruption:
 - Serum creatinine remains significantly elevated and
-- Persistent abnormality in another marker of renal function (e.g. proteinuria, Fanconi
-Syndrome).
+- Persistent abnormality in another marker of renal function (e.g. proteinuria, Fanconi Syndrome).
 Hepatic function
 Liver function test elevations have been observed in patients treated with deferasirox. Post-marketing
 cases of hepatic failure, some of which were fatal, have been reported. Severe forms associated with
@@ -76,8 +76,9 @@ encephalopathy be considered and ammonia levels measured in patients who develop
 changes in mental status while on Exjade therapy. Care should be taken to maintain adequate
 hydration in patients who experience volume-depleting events (such as diarrhoea or vomiting),
 particularly in children with acute illness. Most reports of hepatic failure involved patients with
-significant morbidities including pre-existing liver cirrhosis. However, the role of deferasirox as a
-contributing or aggravating factor cannot be excluded (see section 4.8).
+significant comorbidities including pre-existing chronic liver conditions (including cirrhosis and
+hepatitis C) and multi-organ failure. The role of deferasirox as a contributing or aggravating factor
+cannot be excluded (see section 4.8).
 It is recommended that serum transaminases, bilirubin and alkaline phosphatase be checked before the
 initiation of treatment, every 2 weeks during the first month and monthly thereafter. If there is a
 persistent and progressive increase in serum transaminase levels that cannot be attributed to other
@@ -90,13 +91,13 @@ Table 4 Summary of safety monitoring recommendations
 Test Frequency
 Serum creatinine In duplicate prior to therapy.
 Weekly during first month of therapy or
-after dose modification (including switch of
-formulation).
+after dose modification (including switch
+of formulation).
 Monthly thereafter.
 Creatinine clearance and/or plasma Prior to therapy.
 cystatin C Weekly during first month of therapy or
-after dose modification (including switch of
-formulation).
+after dose modification (including switch
+of formulation).
 Monthly thereafter.
 Proteinuria Prior to therapy.
 Monthly thereafter.
@@ -128,7 +129,8 @@ Upper gastrointestinal ulceration and haemorrhage have been reported in patients
 Multiple ulcers have been observed in some patients (see section 4.8).
 There have been reports of ulcers complicated with digestive perforation.
 Also, there have been reports of fatal gastrointestinal haemorrhages, especially in elderly patients who had haematological malignancies and/or low platelet counts.
-Physicians and patients should remain alert for signs and symptoms of gastrointestinal ulceration and haemorrhage during EXJADE therapy and promptly initiate additional evaluation and treatment if a serious gastrointestinal adverse reaction is suspected.
+Physicians and patients should remain alert for signs and symptoms of gastrointestinal ulceration and haemorrhage during EXJADE therapy.
+In case of gastrointestinal ulceration or haemorrhage, EXJADE should be discontinued and additional evaluation and treatment must be promptly initiated.
 Caution should be exercised in patients who are taking EXJADE in combination with substances that have known ulcerogenic potential, such as NSAIDs, corticosteroids, or oral bisphosphonates, in patients receiving anticoagulants and in patients with platelet counts below 50,000/mm3 (50 x 109/l) (see section 4.5).
 
 Skin disorders
@@ -182,8 +184,8 @@ In patients with a short life expectancy (e.g. high-risk myelodysplastic syndrom
 co-morbidities could increase the risk of adverse events, the benefit of EXJADE might be limited and
 may be inferior to risks. As a consequence, treatment with EXJADE is not recommended in these
 patients.
-Caution should be used in elderly patients due to a higher frequency of adverse reactions (in
-particular, diarrhoea).
+Caution should be used in elderly patients due to a higher frequency of adverse reactions (in particular,
+diarrhoea).
 Data in children with non-transfusion-dependent thalassaemia are very limited (see section 5.1). As a
 consequence, EXJADE therapy should be closely monitored to detect adverse reactions and to follow
 iron burden in the paediatric population. In addition, before treating heavily iron-overloaded children

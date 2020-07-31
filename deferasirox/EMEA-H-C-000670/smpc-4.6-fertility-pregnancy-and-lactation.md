@@ -6,7 +6,6 @@ Studies in animals have shown some reproductive toxicity at maternally toxic dos
 The potential risk for humans is unknown.
 
 As a precaution, it is recommended that EXJADE is not used during pregnancy unless clearly necessary.
-
 EXJADE may decrease the efficacy of hormonal contraceptives (see section 4.5).
 Women of childbearing potential are recommended to use additional or alternative non-hormonal methods of contraception when using EXJADE.
 

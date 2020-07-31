@@ -5,9 +5,9 @@ Deferasirox (dispersible tablet formulation) is absorbed following oral administ
 The absolute bioavailability (AUC) of deferasirox (dispersible tablet formulation) is about 70% compared to an intravenous dose.
 Total exposure (AUC) was approximately doubled when taken along with a high-fat breakfast (fat content >50% of calories) and by about 50% when taken along with a standard breakfast.
 The bioavailability (AUC) of deferasirox was moderately (approx. 13–25%) elevated when taken 30 minutes before meals with normal or high fat content.
-
 Distribution
 Deferasirox is highly (99%) protein bound to plasma proteins, almost exclusively serum albumin, and has a small volume of distribution of approximately 14 litres in adults.
+
 Biotransformation
 Glucuronidation is the main metabolic pathway for deferasirox, with subsequent biliary excretion.
 Deconjugation of glucuronidates in the intestine and subsequent reabsorption (enterohepatic recycling) is likely to occur: in a healthy volunteer study, the administration of cholestyramine after a single dose of deferasirox resulted in a 45% decrease in deferasirox exposure (AUC).
