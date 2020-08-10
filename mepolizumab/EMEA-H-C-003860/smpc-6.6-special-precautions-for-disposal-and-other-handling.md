@@ -20,7 +20,6 @@ Instructions for reconstitution for each vial
 Reconstitute the contents of the vial with 1.2 mL of sterile water for injections preferably using a 2 to 3 mL syringe and a 21 gauge needle.
 The stream of sterile water should be directed vertically, onto the centre of the lyophilised cake.
 Allow the vial to sit at room temperature during reconstitution, gently swirling the vial for 10 seconds with circular motion at 15-second intervals until the powder is dissolved.
-
 Note: The reconstituted solution must not be shaken during the procedure as this may lead to product foaming or precipitation.
 Reconstitution is typically complete within 5 minutes after the sterile water has been added, but it may take additional time.
 

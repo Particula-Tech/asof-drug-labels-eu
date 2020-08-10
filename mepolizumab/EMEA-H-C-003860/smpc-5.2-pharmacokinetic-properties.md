@@ -15,6 +15,7 @@ Distribution
 Following a single intravenous administration to patients with asthma, mepolizumab distributes into a mean volume of distribution of 55 to 85 mL/kg.
 
 Biotransformation
+
 Mepolizumab is a humanized IgG1 monoclonal antibody degraded by proteolytic enzymes which are widely distributed in the body and not restricted to hepatic tissue.
 
 Elimination
@@ -22,20 +23,6 @@ Elimination
 Following a single intravenous administration to patients with asthma, the mean systemic clearance (CL) ranged from 1.9 to 3.3 mL/day/kg, with a mean terminal half-life of approximately 20 days.
 Following subcutaneous administration of mepolizumab the mean terminal half-life (t1/2) ranged from 16 to 22 days.
 In the population pharmacokinetic analysis estimated mepolizumab systemic clearance was 3.1 mL/day/kg.
-
-Paediatric population
-
-There are limited pharmacokinetic data available in the paediatric population (59 subjects with eosinophilic esophagitis, 55 subjects with severe refractory eosinophilic asthma).
-Intravenous mepolizumab pharmacokinetics was evaluated by population pharmacokinetic analysis in a paediatric study conducted in subjects aged 2–17 years old with eosinophilic esophagitis.
-Paediatric pharmacokinetics was largely predictable from adults, after taking into account bodyweight.
-Mepolizumab pharmacokinetics in adolescent subjects with severe refractory eosinophilic asthma included in the phase 3 studies were consistent with adults (see section 4.2).
-
-Paediatric pharmacokinetics following subcutaneous administration in subjects 6 to 11 years old with severe refractory eosinophilic asthma was investigated in an open label, uncontrolled study of 12-weeks duration.
-Paediatric pharmacokinetics were broadly consistent with adults and adolescents after accounting for bodyweight and bioavailability.
-The absolute subcutaneous bioavailability appears complete compared to that observed in adults and adolescents of 76%.
-Exposure following subcutaneous administration of either 40 mg (for a weight < 40kg) or 100 mg (for a weight ≥ 40 kg) was 1.32 and 1.97 times of that observed in adults at 100 mg.
-Investigation of a 40 mg subcutaneous dosing regimen administered every 4 weeks in children 6 to 11 years old over a 15-70 kg broad weight range by PK modelling and simulation predicts that the exposure of this dosing regimen would remain on average within 38% of adults at 100 mg.
-This dosing regimen is considered acceptable due to the wide therapeutic index of mepolizumab.
 
 Special populations
 
@@ -52,3 +39,16 @@ There are limited data available in patients with creatinine clearance values <5
 Hepatic impairment
 No formal studies have been conducted to investigate the effect of hepatic impairment on the pharmacokinetics of mepolizumab.
 Since mepolizumab is degraded by widely distributed proteolytic enzymes, not restricted to hepatic tissue, changes in hepatic function are unlikely to have any effect on the elimination of mepolizumab.
+
+Paediatric population
+There are limited pharmacokinetic data available in the paediatric population (59 subjects with eosinophilic esophagitis, 55 subjects with severe refractory eosinophilic asthma).
+Intravenous mepolizumab pharmacokinetics was evaluated by population pharmacokinetic analysis in a paediatric study conducted in subjects aged 2–17 years old with eosinophilic esophagitis.
+Paediatric pharmacokinetics was largely predictable from adults, after taking into account bodyweight.
+Mepolizumab pharmacokinetics in adolescent subjects with severe refractory eosinophilic asthma included in the phase 3 studies were consistent with adults (see section 4.2).
+
+Paediatric pharmacokinetics following subcutaneous administration in subjects 6 to 11 years old with severe refractory eosinophilic asthma was investigated in an open label, uncontrolled study of 12-weeks duration.
+Paediatric pharmacokinetics were broadly consistent with adults and adolescents after accounting for bodyweight and bioavailability.
+The absolute subcutaneous bioavailability appears complete compared to that observed in adults and adolescents of 76%.
+Exposure following subcutaneous administration of either 40 mg (for a weight < 40kg) or 100 mg (for a weight ≥ 40 kg) was 1.32 and 1.97 times of that observed in adults at 100 mg.
+Investigation of a 40 mg subcutaneous dosing regimen administered every 4 weeks in children 6 to 11 years old over a 15-70 kg broad weight range by PK modelling and simulation predicts that the exposure of this dosing regimen would remain on average within 38% of adults at 100 mg.
+This dosing regimen is considered acceptable due to the wide therapeutic index of mepolizumab.

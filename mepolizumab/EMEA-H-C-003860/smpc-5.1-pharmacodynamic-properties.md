@@ -36,6 +36,7 @@ The proportion of patients on maintenance OCS was 31% and 24%, respectively.
 Patients were required to have a history of two or more severe asthma exacerbations requiring oral or systemic corticosteroid treatment in the past 12 months and reduced lung function at baseline (pre-bronchodilator FEV1<80% in adults and <90% in adolescents).
 The mean number of exacerbations in the previous year was 3.6 and the mean predicted pre-bronchodilator FEV1 was 60%.
 Patients continued to receive their existing asthma medicine during the studies.
+
 For the oral corticosteroid-sparing study MEA115575, a total of 135 patients were enrolled (55% were female; mean age of 50 years) who were being treated daily with OCS (5-35 mg per day), and high-dose ICS plus an additional maintenance medicine.
 
 Dose-ranging efficacy MEA112997 (DREAM) study
@@ -44,7 +45,7 @@ In MEA112997, a randomised, double-blind, placebo-controlled, parallel-group, mu
 
 Table 1: Frequency of clinically significant exacerbations at week 52 in the intent to treat population
 
-|  | Intravenous Mepolizumab |  |  | Placebo |
+|  | Intravenous mepolizumab |  |  | Placebo |
 | --- | --- | --- | --- | --- |
 |  | 75mg n=153 | 250mg n=152 | 750mg n=156 | n= 155 |
 | Exacerbation rate/year | 1.24 | 1.46 | 1.15 | 2.40 |
@@ -59,7 +60,6 @@ MEA115588 was a randomised, double-blind, placebo-controlled, parallel-group, mu
 Patients received mepolizumab 100 mg administered subcutaneously, mepolizumab 75 mg administered intravenously or placebo treatment once every 4 weeks over 32 weeks.
 The primary endpoint was the frequency of clinically significant exacerbations of asthma and the reductions for both mepolizumab treatment arms compared to placebo were statistically significant (p<0.001).
 Table 2 provides the results of the primary and secondary endpoints for patients treated with subcutaneous mepolizumab or placebo.
-
 Table 2: Results of primary and secondary endpoints at week 32 in the intent to treat population (MEA115588)
 
 |  | Mepolizumab 100 mg (subcutaneous) N= 194 | Placebo N= 191 |
@@ -80,13 +80,13 @@ Table 2: Results of primary and secondary endpoints at week 32 in the intent to 
 | p-value | 0.034 |  |
 | Pre-bronchodilator FEV1 (mL) at week 32 |  |  |
 | Baseline (SD) | 1730 (659) | 1860 (631) |
-| Mean Change from Baseline (SE) | 183 (31) | 86 (31) |
+| Mean change from baseline (SE) | 183 (31) | 86 (31) |
 | Difference (mepolizumab vs. placebo) | 98 |  |
 | 95% CI | (11, 184) |  |
 | p-value | 0.028 |  |
 | St. George’s Respiratory Questionnaire (SGRQ) at week 32 |  |  |
 | Baseline (SD) | 47.9 (19. 5) | 46.9 (19.8) |
-| Mean Change From Baseline (SE) | -16.0 (1.1) | -9.0 (1.2) |
+| Mean change from baseline (SE) | -16.0 (1.1) | -9.0 (1.2) |
 | Difference (mepolizumab vs. placebo) | -7.0 |  |
 | 95% CI | (-10.2, -3.8) |  |
 | p-value | <0.001 |  |
@@ -151,7 +151,6 @@ Table 4: Results of the primary and secondary endpoints in MEA115575
 | Reduction in the daily OCS dose to 0 mg/d | 10 (14%) | 5 (8%) |
 | Odds ratio (95% CI) | 1.67 (0.49, 5.75) |  |
 | p-value | 0. 414 |  |
-|  | Mepolizumab 100 mg (subcutaneous) N= 69 | Placebo N= 66 |
 | Reduction in the daily OCS dose to ≤5mg/day | 37 (54%) | 21 (32%) |
 | Odds ratio (95% CI) | 2.45 (1.12, 5.37) |  |
 | p-value | 0.025 |  |
@@ -161,7 +160,7 @@ Table 4: Results of the primary and secondary endpoints in MEA115575
 
 Open-label extension studies in severe refractory eosinophilic asthma MEA115666 (COLUMBA), MEA115661 (COSMOS) and 201312 (COSMEX)
 
-The long-term efficacy profile of Nucala in severe refractory eosinophilic asthma patients (n=998) treated for a median of 2.8 years (range 4 weeks to 4.5 years) in open-label extension studies MEA115666, MEA115661 and 201312 was generally consistent with the 3 placebo-controlled studies.
+The long-term efficacy profile of mepolizumab in severe refractory eosinophilic asthma patients (n=998) treated for a median of 2.8 years (range 4 weeks to 4.5 years) in open-label extension studies MEA115666, MEA115661 and 201312 was generally consistent with the 3 placebo-controlled studies.
 
 Paediatric population
 
@@ -169,24 +168,3 @@ Severe refractory eosinophilic asthma
 In MEA115588 and in the double-blind placebo-controlled study 200862, there were 34 adolescents (12 to 17 years old).
 Of these 34 subjects: 12 received placebo, 9 received mepolizumab 75 mg intravenously, and 13 received 100 mg subcutaneously.
 In a combined analysis of these studies, a 40% reduction in clinically significant exacerbations was observed in adolescents following mepolizumab treatment compared to placebo (rate ratio 0.60; 95% CI: 0.17, 2.10).
-
-[Nucala 100 mg powder for solution for injection]
-
-|  | ITT Population |  |
-| --- | --- | --- |
-|  | Mepolizumab 100 mg (subcutaneous) N= 69 | Placebo N= 66 |
-| Primary endpoint |  |  |
-| Percent reduction in OCS from baseline (weeks 20-24) |  |  |
-| 90% - 100% 75% - <90% 50% - <75% >0% - <50% No decrease in OCS/lack of asthma control/ withdrawal from treatment | 16 (23%) 12 (17%) 9 (13%) 7 (10%) 25 (36%) | 7(11%) 5 (8%) 10 (15%) 7(11%) 37 (56%) |
-| Odds ratio (95% CI) | 2.39 (1.25, 4.56) |  |
-| p-value | 0.008 |  |
-| Secondary endpoints (weeks 20-24) |  |  |
-| Reduction in the daily OCS dose to 0 mg/d | 10 (14%) | 5 (8%) |
-| Odds ratio (95% CI) | 1.67 (0.49, 5.75) |  |
-| p-value | 0. 414 |  |
-| Reduction in the daily OCS dose to ≤5mg/day | 37 (54%) | 21 (32%) |
-| Odds ratio (95% CI) | 2.45 (1.12, 5.37) |  |
-| p-value | 0.025 |  |
-| Median % reduction in daily OCS dose from baseline (95% CI) | 50.0 (20.0, 75.0) | 0.0 (-20.0, 33.3) |
-| Median difference (95% CI) | -30.0 (-66.7, 0.0) |  |
-| p-value | 0.007 |  |
