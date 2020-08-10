@@ -12,7 +12,7 @@ Strong CYP3A4 inhibitors and UGT1A1 inhibitors
 Patients receiving concomitant non-liposomal irinotecan and ketoconazole, a CYP3A4 and
 UGT1A1 inhibitor, have increased SN-38 exposure by 109%.
 Therefore, co-administration of ONIVYDE pegylated liposomal with other inhibitors of CYP3A4 (e.g. grapefruit juice, clarithromycin, indinavir, itraconazole, lopinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telaprevir, voriconazole) may increase systemic exposure of ONIVYDE pegylated liposomal.
-Based on the drug interaction of non-liposomal irinotecan and ketoconazole, co-administration of ONIVYDE pegylated liposomal with other inhibitors of UGT1A1 (e.g. atazanavir, gemfibrozil, indinavir) may also increase systemic exposure of ONIVYDE pegylated liposomal.
+Based on the drug interaction of non-liposomal irinotecan and ketoconazole, co-administration of ONIVYDE pegylated liposomal with other inhibitors of UGT1A1 (e.g. atazanavir, gemfibrozil, indinavir, regorafenib) may also increase systemic exposure of ONIVYDE pegylated liposomal.
 
 Co-administration of ONIVYDE pegylated liposomal +5-FU/LV does not alter the pharmacokinetics of ONIVYDE pegylated liposomal based on the population pharmacokinetic analysis.
 
