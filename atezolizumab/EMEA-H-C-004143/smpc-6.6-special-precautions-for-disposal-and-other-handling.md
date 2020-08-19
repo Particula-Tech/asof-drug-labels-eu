@@ -1,6 +1,7 @@
 # 6.6 Special precautions for disposal and other handling
 
 Tecentriq does not contain any antimicrobial preservative or bacteriostatic agents and should be prepared by a healthcare professional using aseptic technique to ensure the sterility of prepared solutions.
+
 Aseptic preparation, handling and storage
 
 Aseptic handling must be ensured when preparing the infusion.
@@ -14,11 +15,11 @@ Do not shake.
 
 Instructions for dilution
 
-For the recommended dose of 840 mg: fourteen mL of Tecentriq concentrate should be withdrawn from the vial and diluted into a 250 mL polyvinyl chloride (PVC), polyolefin (PO), polyethylene (PE), or polypropylene (PP) infusion bag containing sodium chloride 9 mg/mL (0.9%) solution for injection.
-After dilution, one mL of solution should contain approximately 3.2 mg of Tecentriq (840 mg/264 mL).
+For the recommended dose of 840 mg: fourteen mL of Tecentriq concentrate should be withdrawn from the vial and diluted into a polyvinyl chloride (PVC), polyolefin (PO), polyethylene (PE), or polypropylene (PP) infusion bag containing sodium chloride 9 mg/mL (0.9%) solution for injection.
 
-For the recommended dose of 1680 mg: twenty-eight mL of Tecentriq concentrate should be withdrawn from two vials of Tecentriq 840 mg and diluted into a 250 mL polyvinyl chloride (PVC), polyolefin (PO), polyethylene (PE), or polypropylene (PP) infusion bag containing sodium chloride 9 mg/mL (0.9%) solution for injection.
-After dilution, one mL of solution should contain approximately 6.0 mg of Tecentriq (1680 mg/278 mL).
+For the recommended dose of 1680 mg: twenty-eight mL of Tecentriq concentrate should be withdrawn from two vials of Tecentriq 840 mg and diluted into a polyvinyl chloride (PVC), polyolefin (PO), polyethylene (PE), or polypropylene (PP) infusion bag containing sodium chloride 9 mg/mL (0.9%) solution for injection.
+
+After dilution, the final concentration of the diluted solution should be between 3.2 and 16.8 mg/mL.
 
 The bag should be gently inverted to mix the solution in order to avoid foaming.
 Once the infusion is prepared it should be administered immediately (see section 6.3).
@@ -39,17 +40,4 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 [Tecentriq 1,200 mg concentrate for solution for infusion.]
 
-- performed under aseptic conditions by trained personnel in accordance with good practice rules
-
-especially with respect to the aseptic preparation of parenteral products.
-
-- prepared in a laminar flow hood or biological safety cabinet using standard precautions for the
-
-safe handling of intravenous agents.
-
-- followed by adequate storage of the prepared solution for intravenous infusion to ensure
-
-maintenance of the aseptic conditions.
-
-Twenty mL of Tecentriq concentrate should be withdrawn from the vial and diluted into a 250 mL polyvinyl chloride (PVC), polyolefin (PO), polyethylene (PE) or polypropylene (PP) infusion bag containing sodium chloride 9 mg/mL (0.9%) solution for injection.
-After dilution, one mL of solution should contain approximately 4.4 mg of Tecentriq (1,200 mg/270 mL).
+Twenty mL of Tecentriq concentrate should be withdrawn from the vial and diluted into a polyvinyl chloride (PVC), polyolefin (PO), polyethylene (PE) or polypropylene (PP) infusion bag containing sodium chloride 9 mg/mL (0.9%) solution for injection.

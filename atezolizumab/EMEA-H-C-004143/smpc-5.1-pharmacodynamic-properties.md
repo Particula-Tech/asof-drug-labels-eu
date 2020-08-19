@@ -25,6 +25,7 @@ Treatment with atezolizumab until loss of clinical benefit was permitted as defi
 - Evidence of clinical benefit as assessed by the investigator
 
 Patients with locally advanced or metastatic UC who are ineligible for cisplatin therapy and locally advanced unresectable or metastatic TNBC were treated with atezolizumab until disease progression.
+
 Urothelial carcinoma
 
 IMvigor211 (GO29294): Randomised trial in locally advanced or metastatic UC patients previously treated with chemotherapy
@@ -33,7 +34,6 @@ A phase III, open-label, multi-center, international, randomised study, (IMvigor
 This study excluded patients who had a history of autoimmune disease; active or corticosteroid-dependent brain metastases; administration of a live, attenuated vaccine within 28 days prior to enrolment; and administration of systemic immunostimulatory agents within 4 weeks or systemic immunosuppressive medicinal product within 2 weeks prior to enrolment.
 Tumour assessments were conducted every 9 weeks for the first 54 weeks, and every 12 weeks thereafter.
 Tumour specimens were evaluated prospectively for PD-L1 expression on tumour-infiltrating immune cells (IC) and the results were used to define the PD-L1 expression subgroups for the analyses described below.
-
 A total of 931 patients were enrolled.
 Patients were randomised (1:1) to receive either atezolizumab or chemotherapy.
 Randomisation was stratified by chemotherapy (vinflunine vs. taxane), PD-L1 expression status on IC (< 5% vs. ≥ 5%), number of prognostic risk factors (0 vs. 1-3), and liver metastases (yes vs. no). Prognostic risk factors included time from prior chemotherapy of < 3 months, ECOG performance status > 0 and haemoglobin < 10 g/dL.
@@ -67,6 +67,10 @@ As a consequence, no formal tests of statistical significance could be performed
 The key results in the all comer population are summarised in Table 3.
 The Kaplan-Meier curve for OS in the all comer population is presented in Figure 1.
 
+An exploratory updated survival analysis was performed with a median duration of survival follow up of 34 months in the ITT population.
+The median OS was 8.6 months (95% CI: 7.8, 9.6) in the atezolizumab arm and 8.0 months (95% CI: 7.2, 8.6) in the chemotherapy arm with a hazard ratio of 0.82 (95% CI: 0.71, 0.94).
+Consistent with the trend observed at primary analysis for 12-month OS rates, numerically higher 24-month and 30-month OS rates were observed for patients in the atezolizumab arm compared with the chemotherapy arm in the ITT population.
+The percentage of patients alive at 24 months (KM estimate) was 12.7% in the chemotherapy arm and 22.5% in the atezolizumab arm; and at 30 months (KM estimate) was 9.8% in the chemotherapy arm and 18.1% in the atezolizumab arm.
 Table 3: Summary of efficacy in all comers (IMvigor211)
 
 Atezolizumab Chemotherapy
@@ -121,7 +125,6 @@ The median age was 73 years.
 Most patients were male (81%), and the majority of patients were White (91%).
 
 Cohort 1 included 45 patients (38%) with ECOG performance status of 0, 50 patients (42%) with ECOG performance status of 1 and 24 patients (20%) with ECOG performance status of 2, 35 patients (29%) with no Bajorin risk factors (ECOG performance status ≥ 2 and visceral metastasis), 66 patients (56%) with one Bajorin risk factor and 18 patients (15 %) with two Bajorin risk factors, 84 patients (71%) with impaired renal function (glomerular filtration rate [GFR] < 60 mL/min), and 25 patients (21%) with liver metastasis.
-
 The primary efficacy endpoint for Cohort 1 was confirmed objective response rate (ORR) as assessed by an independent review facility (IRF) using RECIST v1.1.
 The primary analysis was performed when all patients had at least 24 weeks of follow-up.
 Median duration of treatment was 15.0 weeks and median duration of survival follow-up was 8.5 months in all comers.
@@ -166,7 +169,6 @@ In Cohort 2, the co-primary efficacy endpoints were confirmed ORR as assessed by
 There were 310 patients treated with atezolizumab 1,200 mg by intravenous infusion every 3 weeks until loss of clinical benefit.
 The primary analysis of Cohort 2 was performed when all patients had at least 24 weeks of follow-up.
 The study met its co-primary endpoints in Cohort 2, demonstrating statistically significant ORRs per IRF-assessed RECIST v1.1 and investigator-assessed mRECIST compared to a pre-specified historical control response rate of 10%.
-
 An analysis was also performed with a median duration of survival follow-up of 21.1 months for Cohort 2.
 The confirmed ORRs per IRF-RECIST v1.1 were 28.0% (95% CI: 19.5, 37.9) in patients with PD-L1 expression ≥ 5%, 19.3% (95% CI: 14.2, 25.4) in patients with PD-L1 expression ≥ 1%, and 15.8% (95% CI: 11.9, 20.4) in all comers.
 The confirmed ORR per investigator-assessed mRECIST was 29.0% (95% CI: 20.4, 38.9) in patients with PD-L1 expression ≥ 5%, 23.7% (95% CI: 18.1, 30.1) in patients with PD-L1 expression ≥ 1%, and 19.7% (95% CI: 15.4, 24.6) in all comers.
@@ -374,10 +376,10 @@ Efficacy in elderly patients
 
 No overall differences in efficacy were observed between patients ≥ 65 years of age and younger patients receiving atezolizumab monotherapy.
 Data for patients ≥75 years of age are too limited to draw conclusions on this population.
-
 Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with atezolizumab in all subsets of the paediatric population in the treatment of malignant neoplasms (except central nervous system tumours, haematopoietic and lymphoid tissue neoplasms) (see section 4.2 for information on paediatric use).
+An early phase, multi-centre open-label study was conducted in paediatric (<18, n=69) and young adult patients (18-30 years, n=18) with relapsed or progressive solid tumours as well as with Hodgkin’s and non-Hodgkin’s lymphoma, to evaluate the safety and pharmacokinetics of atezolizumab.
+Patients were treated with 15 mg/kg atezolizumab IV every 3 weeks (see section 5.2).
 
 [Tecentriq 1,200 mg concentrate for solution for infusion.]
 
@@ -412,7 +414,7 @@ B Atezolizumaba (1,200 mg) + bevacizumabd Atezolizumaba (1,200 mg)
 
 C Bevacizumabd (15 mg/kg) + paclitaxel Bevacizumabd (15 mg/kg)
 
-a Atezolizumab is administered until loss of clinical benefit as assessed by the investigator b The paclitaxel starting dose for patients of Asian race/ethnicity was 175 mg/m2 due to higher overall level of haematologic toxicities in patients from Asian countries compared with those from non-Asian countries c Paclitaxel and carboplatin are administered until completion of 4 or 6 cycles, or progressive disease, or unacceptable toxicity whichever occurs first d. Bevacizumab is administered until progressive disease or unacceptable toxicity
+(200 mg/m2)b,c + carboplatinc (AUC 6) a Atezolizumab is administered until loss of clinical benefit as assessed by the investigator b The paclitaxel starting dose for patients of Asian race/ethnicity was 175 mg/m2 due to higher overall level of haematologic toxicities in patients from Asian countries compared with those from non-Asian countries c Paclitaxel and carboplatin are administered until completion of 4 or 6 cycles, or progressive disease, or unacceptable toxicity whichever occurs first d. Bevacizumab is administered until progressive disease or unacceptable toxicity
 
 The demographics and baseline disease characteristics of the study population were well balanced between the treatment arms.
 The median age was 63 years (range: 31 to 90), and 60% of patients were male.
@@ -601,6 +603,7 @@ Figure 11 summarises the results of OS in the ITT and PD-L1 subgroups, demonstra
 Table 10: Summary of efficacy in the primary analysis population (all comers)* (OAK)
 
 * The primary analysis population consists of the first 850 randomised patients
+ǂ Stratified by PD-L1 expression in tumour infiltrating immune cells, the number of prior chemotherapy regimens, and histology
 Figure 10: Kaplan-Meier curve for overall survival in the primary analysis population (all comers) (OAK)
 
 Figure 11: Forest plot of overall survival by PD-L1 expression in the primary analysis population (OAK)
