@@ -22,7 +22,6 @@ Lymphocytosis was not observed in patients with WM treated with IMBRUVICA.
 In vitro platelet aggregation
 In an in vitro study, ibrutinib demonstrated inhibition of collagen-induced platelet aggregation.
 Ibrutinib did not show meaningful inhibition of platelet aggregation using other agonists of platelet aggregation.
-
 Effect on QT/QTc interval and cardiac electrophysiology
 The effect of ibrutinib on the QTc interval was evaluated in 20 healthy male and female subjects in a randomised, double-blind thorough QT study with placebo and positive controls.
 At a supratherapeutic dose of 1,680 mg, ibrutinib did not prolong the QTc interval to any clinically relevant extent.
@@ -57,6 +56,7 @@ CI=confidence interval; CR=complete response; DOR=duration of response; ORR=over
 
 The efficacy data was further evaluated by an Independent Review Committee (IRC) demonstrating an ORR of 69%, with a 21% complete response (CR) rate and a 48% partial response (PR) rate.
 The IRC estimated median DOR was 19.6 months.
+
 The overall response to IMBRUVICA was independent of prior treatment including bortezomib and lenalidomide or underlying risk/prognostic factors, bulky disease, gender or age.
 
 The safety and efficacy of IMBRUVICA were demonstrated in a randomised phase 3, open-label, multicenter study including 280 patients with MCL who received at least one prior therapy (Study MCL3001).
@@ -82,8 +82,8 @@ Table 3: Efficacy Results in patients with relapsed or refractory MCL (Study MCL
 NE=not estimable; HR=hazard ratio; CI=confidence interval; ORR=overall response rate; PFS=progression-free survival a IRC evaluated.
 
 A smaller proportion of patients treated with ibrutinib experienced a clinically meaningful worsening of lymphoma symptoms versus temsirolimus (27% versus 52%) and time to worsening of symptoms occurred more slowly with ibrutinib versus temsirolimus (HR 0.27, p<0.0001).
-Figure 1: Kaplan-Meier curve of PFS (ITT Population) in Study MCL3001
 
+Figure 1: Kaplan-Meier curve of PFS (ITT Population) in Study MCL3001
 CLL
 Patients previously untreated for CLL
 Single agent
@@ -100,6 +100,7 @@ At baseline, 45% had advanced clinical stage (Rai Stage III or IV), 35% of patie
 
 Progression free survival (PFS) as assessed by IRC according to International Workshop on CLL (IWCLL) criteria indicated an 84% statistically significant reduction in the risk of death or progression in the IMBRUVICA arm.
 Efficacy results for Study PCYC-1115-CA are shown in Table 4 and the Kaplan-Meier curves for PFS and OS are shown in Figures 2 and 3, respectively.
+
 There was a statistically significant sustained platelet or haemoglobin improvement in the ITT population in favor of ibrutinib versus chlorambucil.
 In patients with baseline cytopenias, sustained haematologic improvement was: platelets 77.1% versus 42.9%; haemoglobin 84.3% versus 45.5% for ibrutinib and chlorambucil respectively.
 
@@ -119,8 +120,8 @@ Table 4: Efficacy results in Study PCYC-1115-CA
 
 CI=confidence interval; HR=hazard ratio; CR=complete response; ORR=overall response rate; OS=overall survival; PFS=progression-free survival; PR=partial response a IRC evaluated, median follow-up 18.4 months.
 b Median OS not reached for both arms. p<0.005 for OS
-
 Figure 2: Kaplan-Meier curve of PFS (ITT Population) in Study PCYC-1115-CA
+
 Figure 3: Kaplan-Meier curve of OS (ITT Population) in Study PCYC-1115-CA
 
 48-month follow-up
@@ -134,6 +135,7 @@ At the time of long-term follow-up, a total of 73 subjects (54.9%) originally ra
 The Kaplan-Meier landmark estimate for OS at 48-months was 85.5% in the IMBRUVICA arm.
 
 The treatment effect of ibrutinib in Study PCYC-1115-CA was consistent across high-risk patients with del17p/TP53 mutation, del11q, and/or unmutated IGHV.
+
 Figure 4: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1115-CA with 48 Months Follow-up
 
 Combination therapy
@@ -147,10 +149,10 @@ The median age was 71 years (range, 40 to 87 years), 64% were male, and 96% were
 All patients had a baseline ECOG performance status of 0 (48%) or 1-2 (52%).
 At baseline, 52% had advanced clinical stage (Rai Stage III or IV), 32% of patients had bulky disease (≥5 cm), 44% with baseline anaemia, 22% with baseline thrombocytopenia, 28% had a CrCL <60 mL/min, and the median Cumulative Illness Rating Score for Geriatrics (CIRS-G) was 4 (range, 0 to 12).
 At baseline, 65% of patients presented with CLL/SLL with high risk factors (del17p/TP53 mutation [18%], del11q [15%], or unmutated IGHV [54%]).
-
 Progression-free survival (PFS) was assessed by IRC according to IWCLL criteria indicated a 77% statistically significant reduction in the risk of death or progression in the IMBRUVICA arm.
 With a median follow-up time on study of 31 months, the median PFS was not reached in the IMBRUVICA+obinutuzumab arm and was 19 months in the chlorambucil+obinutuzumab arm.
 Efficacy results for Study PCYC-1130-CA are shown in Table 5 and the Kaplan-Meier curve for PFS is shown in Figure 5.
+
 Table 5: Efficacy results in Study PCYC-1130-CA
 
 | Endpoint | IMBRUVICA+Obinutuzumab N=113 | Chlorambucil+Obinutuzumab N=116 |
@@ -172,7 +174,6 @@ Figure 5: Kaplan-Meier Curve of PFS (ITT Population) in Study PCYC-1130-CA
 
 The treatment effect of ibrutinib was consistent across the high-risk CLL/SLL population (del17p/TP53 mutation, del11q, or unmutated IGHV), with a PFS HR of 0.15 [95% CI (0.09, 0.27)], as shown in Table 6.
 The 2-year PFS rate estimates for the high-risk CLL/SLL population were 78.8% [95% CI (67.3, 86.7)] and 15.5% [95% CI (8.1, 25.2)] in the IMBRUVICA+obinutuzumab and chlorambucil+obinutuzumab arms, respectively.
-
 Table 6: Subgroup Analysis of PFS (Study PCYC-1130-CA)
 
 |  | N | Hazard Ratio | 95% CI |

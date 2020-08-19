@@ -25,12 +25,18 @@ Consider temporarily withholding IMBRUVICA.
 Patients should be closely monitored.
 Administer supportive care including hydration and/or cytoreduction as indicated.
 
+Splenic rupture
+Cases of splenic rupture have been reported following discontinuation of IMBRUVICA treatment.
+Disease status and spleen size should be carefully monitored (e.g. clinical examination, ultrasound) when IMBRUVICA treatment is interrupted or ceased.
+Patients who develop left upper abdominal or shoulder tip pain should be evaluated and a diagnosis of splenic rupture should be considered.
+
 Infections
 Infections (including sepsis, neutropenic sepsis, bacterial, viral, or fungal infections) were observed in patients treated with IMBRUVICA.
 Some of these infections have been associated with hospitalisation and death.
 Most patients with fatal infections also had neutropenia.
 Patients should be monitored for fever, neutropenia and infections and appropriate anti-infective therapy should be instituted as indicated.
 Consider prophylaxis according to standard of care in patients who are at increased risk for opportunistic infections.
+
 Cases of invasive fungal infections, including cases of Aspergillosis, Cryptococcosis and Pneumocystis jiroveci infections have been reported following the use of ibrutinib.
 Reported cases of invasive fungal infections have been associated with fatal outcomes.
 
@@ -48,11 +54,10 @@ Cases of ILD have been reported in patients treated with IMBRUVICA.
 Monitor patients for pulmonary symptoms indicative of ILD.
 If symptoms develop, interrupt IMBRUVICA and manage ILD appropriately.
 If symptoms persist, consider the risks and benefits of IMBRUVICA treatment and follow the dose modification guidelines.
-
-Cardiac arrhythmia
-Atrial fibrillation, atrial flutter and cases of ventricular tachyarrhythmia have been reported in patients treated with IMBRUVICA.
+Cardiac arrhythmia and cardiac failure
+Atrial fibrillation, atrial flutter, and cases of ventricular tachyarrhythmia and cardiac failure have been reported in patients treated with IMBRUVICA.
 Cases of atrial fibrillation and atrial flutter have been reported particularly in patients with cardiac risk factors, hypertension, acute infections, and a previous history of atrial fibrillation.
-Periodically monitor all patients clinically for cardiac arrhythmia.
+Periodically monitor all patients clinically for cardiac manifestations, including cardiac arrhythmia and cardiac failure.
 Patients who develop arrhythmic symptoms or new onset of dyspnoea, dizziness or fainting should be evaluated clinically and if indicated have an electrocardiogram (ECG) performed.
 
 In patients who develop signs and/or symptoms of ventricular tachyarrhythmia, IMBRUVICA should be temporarily discontinued and a thorough clinical benefit/risk assessment should be performed before possibly restarting therapy.
@@ -60,6 +65,9 @@ In patients who develop signs and/or symptoms of ventricular tachyarrhythmia, IM
 In patients with preexisting atrial fibrillation requiring anticoagulant therapy, alternative treatment options to IMBRUVICA should be considered.
 In patients who develop atrial fibrillation on therapy with IMBRUVICA a thorough assessment of the risk for thromboembolic disease should be undertaken.
 In patients at high risk and where alternatives to IMBRUVICA are non-suitable, tightly controlled treatment with anticoagulants should be considered.
+
+Patients should be monitored for signs and symptoms of cardiac failure during IMBRUVICA treatment.
+In some of these cases cardiac failure resolved or improved after IMBRUVICA withdrawal or dose reduction.
 
 Cerebrovascular accidents
 Cases of cerebrovascular accident, transient ischaemic attack and ischaemic stroke including fatalities have been reported with the use of ibrutinib, with and without concomitant atrial fibrillation and/or hypertension.
@@ -69,6 +77,7 @@ Tumour lysis syndrome
 Tumour lysis syndrome has been reported with IMBRUVICA therapy.
 Patients at risk of tumour lysis syndrome are those with high tumour burden prior to treatment.
 Monitor patients closely and take appropriate precautions.
+
 Non-melanoma skin cancer
 Non-melanoma skin cancers were reported more frequently in patients treated with IMBRUVICA than in patients treated with comparators in pooled comparative randomised phase 3 studies.
 Monitor patients for the appearance of non-melanoma skin cancer.
@@ -82,6 +91,13 @@ If patients have positive hepatitis B serology, a liver disease expert should be
 Hypertension
 Hypertension has occurred in patients treated with IMBRUVICA (see section 4.8).
 Regularly monitor blood pressure in patients treated with IMBRUVICA and initiate or adjust antihypertensive medication throughout treatment with IMBRUVICA as appropriate.
+
+Haemophagocytic lymphohistiocytosis (HLH)
+Cases of HLH (including fatal cases) have been reported in patients treated with IMBRUVICA.
+HLH is a life-threatening syndrome of pathologic immune activation characterised by clinical signs and symptoms of extreme systemic inflammation.
+HLH is characterised by fever, hepatosplenomegaly, hypertriglyceridaemia, high serum ferritin and cytopenias.
+Patients should be informed about symptoms of HLH.
+Patients who develop early manifestations of pathologic immune activation should be evaluated immediately, and a diagnosis of HLH should be considered.
 
 Drug-drug interactions
 Co-administration of strong or moderate CYP3A4 inhibitors with IMBRUVICA may lead to increased ibrutinib exposure and consequently a higher risk for toxicity.

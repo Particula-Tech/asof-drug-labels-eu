@@ -4,6 +4,7 @@ Women of child-bearing potential/Contraception in females
 Based on findings in animals, IMBRUVICA may cause foetal harm when administered to pregnant women.
 Women should avoid becoming pregnant while taking IMBRUVICA and for up to 3 months after ending treatment.
 Therefore, women of child-bearing potential must use highly effective contraceptive measures while taking IMBRUVICA and for three months after stopping treatment.
+
 Pregnancy
 IMBRUVICA should not be used during pregnancy.
 There are no data from the use of IMBRUVICA in pregnant women.

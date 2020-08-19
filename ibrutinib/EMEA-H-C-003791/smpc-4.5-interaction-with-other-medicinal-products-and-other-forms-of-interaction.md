@@ -52,5 +52,4 @@ In the same study, 2 weeks of treatment with ibrutinib at 560 mg daily had no cl
 [IMBRUVICA 140 mg film-coated tablets]
 
 If the benefit outweighs the risk and a strong CYP3A4 inhibitor must be used, reduce the IMBRUVICA dose to 140 mg for the duration of the inhibitor use or withhold IMBRUVICA temporarily (for 7 days or less).
-
 If a moderate CYP3A4 inhibitor (e.g., fluconazole, erythromycin, amprenavir, aprepitant, atazanavir, ciprofloxacin, crizotinib, diltiazem, fosamprenavir, imatinib, verapamil, amiodarone and dronedarone) is indicated, reduce IMBRUVICA dose to 280 mg for the duration of the inhibitor use.

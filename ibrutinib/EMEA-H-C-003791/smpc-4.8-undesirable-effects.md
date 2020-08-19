@@ -13,12 +13,13 @@ Adverse reactions in patients treated with ibrutinib for B-cell malignancies and
 Frequencies are defined as follows: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Table 1: Adverse reactions reported in clinical studies or during post marketing surveillance
-in patients with B-cell malignancies†
-System organ class Frequency Adverse reactions All Grades Grade ≥3
-(All grades) (%) (%)
-Infections and infestations Very common Pneumonia*# 16 10
-Upper respiratory tract infection 18 1
+Table 1: Adverse reactions reported in clinical studies or during post marketing
+surveillance in patients with B-cell malignancies†
+System organ class Frequency Adverse reactions All
+(All grades) Grades Grade ≥3
+(%) (%)
+Infections and Very common Pneumonia*# 16 10
+infestations Upper respiratory tract infection 18 1
 Skin infection* 14 3
 Common Sepsis*# 5 4
 Urinary tract infection 10 2
@@ -46,7 +47,8 @@ Uncommon Cerebrovascular accident a, # <1 <1
 Transient ischaemic attacka 1 <1
 Ischaemic stroke a, # <1 <1
 Eye disorders Common Vision blurred 7 0
-Cardiac disorders Common Atrial fibrillation 7 4
+Cardiac disorders Common Cardiac failurea,* 2 1
+Atrial fibrillation 7 4
 Uncommon Ventricular tachyarrhythmia*,a,b 1 <1
 Vascular disorders Very common Haemorrhage*# 31 1
 Bruising* 22 1
@@ -66,6 +68,7 @@ Erythemaa 2 0
 Onychoclasisa 3 0
 Uncommon Angioedemaa <1 <1
 Panniculitis*,a 1 0
+Neutrophilic dermatoses*, a <1 <1
 Not known Stevens-Johnson syndromea Not known Not known
 Musculoskeletal and Very common Arthralgia 14 1
 connective tissue Muscle spasms 14 <1
@@ -85,6 +88,7 @@ Discontinuation and dose reduction due to adverse reactions
 Of the 1200 patients treated with IMBRUVICA for B-cell malignancies, 5% discontinued treatment primarily due to adverse reactions.
 These included pneumonia, atrial fibrillation, haemorrhage, and thrombocytopenia.
 Adverse reactions leading to dose reduction occurred in approximately 7% of patients.
+
 Elderly
 Of the 1200 patients treated with IMBRUVICA, 64% were 65 years of age or older.
 Grade 3 or higher pneumonia occurred more frequently among elderly patients treated with IMBRUVICA (12% of patients age ≥65 versus 7% of patients <65 years of age).
@@ -104,10 +108,13 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [IMBRUVICA 140 mg film-coated tablets]
 
-Infections and Very common Pneumonia*# 16 10
+System organ class Frequency Adverse reactions All Grades Grade ≥3
+(All grades) (%) (%)
 infestations Upper respiratory tract 18 1
 infection 14 3
 Skin infection*
+malignant (incl cysts Basal cell carcinoma 3 <1
+and polyps) Squamous cell carcinoma 2 <1
 Immune system Common Interstitial lung disease*,#,a 2 <1
 disorders
 Metabolism and Common Tumour lysis syndromea 1 1
