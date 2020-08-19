@@ -2,14 +2,6 @@
 
 4 years
 
-[EMEND 165 mg hard capsules]
-
-(all sentences already above)
-
-[EMEND 125 mg hard capsules]
-
-(all sentences already above)
-
 [EMEND 125 mg powder for oral suspension]
 
 Unopened sachet: 2 years

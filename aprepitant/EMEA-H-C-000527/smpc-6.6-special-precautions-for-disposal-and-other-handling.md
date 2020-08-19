@@ -2,14 +2,6 @@
 
 No special requirements for disposal.
 
-[EMEND 165 mg hard capsules]
-
-(all sentences already above)
-
-[EMEND 125 mg hard capsules]
-
-(all sentences already above)
-
 [EMEND 125 mg powder for oral suspension]
 
 The content of each single-use sachet is to be suspended in 4.6 mL of water giving a final concentration of 25 mg per mL.
