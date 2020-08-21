@@ -3,57 +3,54 @@
 Kalydeco should only be prescribed by physicians with experience in the treatment of cystic fibrosis.
 If the patient's genotype is unknown, an accurate and validated genotyping method should be performed before starting treatment to confirm the presence of an indicated mutation in the CFTR gene (see section 4.1).
 The phase of the poly-T variant identified with the R117H mutation should be determined in accordance with local clinical recommendations.
-
 Posology
 
-Kalydeco monotherapy in adults, adolescents, and children aged 6 years and older and weighing 25 kg or more
+Adults, adolescents and children aged 6 years and older should be dosed according to Table 1.
 
-The recommended dose is one Kalydeco 150 mg tablet taken orally every 12 hours (300 mg total daily dose) with fat-containing food (see Method of administration).
-Kalydeco in a combination regimen with tezacaftor/ivacaftor in adults and adolescents aged 12 years and older
+Table 1: Dosing recommendations
 
-The recommended dose is one tezacaftor 100 mg/ivacaftor 150 mg tablet taken in the morning and one Kalydeco 150 mg tablet taken in the evening, approximately 12 hours apart with fat-containing food (see Method of administration).
+|  | Morning | Evening |
+| --- | --- | --- |
+| Ivacaftor as monotherapy |  |  |
+| 6 years and older, ≥25 kg | One ivacaftor 150 mg tablet | One ivacaftor 150 mg tablet |
+| Ivacaftor in combination with tezacaftor/ivacaftor |  |  |
+| 12 years and older | One tezacaftor 100 mg/ivacaftor 150 mg tablet | One ivacaftor 150 mg tablet |
+| Ivacaftor in combination with ivacaftor/tezacaftor/elexacaftor |  |  |
+| 12 years and older | Two ivacaftor 75 mg/tezacaftor 50 mg/elexacaftor 100 mg tablets | One ivacaftor 150 mg tablet |
+
+The morning and evening dose should be taken approximately 12 hours apart with fat-containing food (see Method of administration).
 
 Missed dose
 
-If a dose is missed within 6 hours of the time it is usually taken, the patient should be told to take it as soon as possible and then take the next dose at the regularly scheduled time.
+If 6 hours or less have passed since the missed morning or evening dose, the patient should take it as soon as possible and continue on the original schedule.
 If more than 6 hours have passed since the time the dose is usually taken, the patient should be told to wait until the next scheduled dose.
 
-Patients receiving Kalydeco in combination with tezacaftor/ivacaftor should be told not to take more than one dose of either tablet at the same time.
+Patients receiving ivacaftor in a combination regimen should not take more than one dose of either medicine at the same time.
 
 Concomitant use of CYP3A inhibitors
 
-Kalydeco monotherapy
+When co-administered with moderate or strong inhibitors of CYP3A, either as monotherapy or in a combination regimen with tezacaftor/ivacaftor or ivacaftor/tezacaftor/elexacaftor, the dose should be reduced (see Table 2 for the recommended dose).
+Dosing intervals should be modified according to clinical response and tolerability (see sections 4.4 and 4.5).
 
-When co-administered with strong inhibitors of CYP3A, the Kalydeco dose should be reduced to 150 mg twice a week (see sections 4.4 and 4.5).
+Table 2: Dosing recommendations for concomitant use with moderate or strong CYP3A inhibitors
 
-When co-administered with moderate inhibitors of CYP3A, the Kalydeco dose should be reduced to 150 mg once daily (see sections 4.4 and 4.5).
-
-Kalydeco in a combination regimen with tezacaftor/ivacaftor
-
-When co-administered with strong inhibitors of CYP3A, the Kalydeco evening dose should not be administered (see sections 4.4 and 4.5).
-One tablet of tezacaftor 100 mg/ivacaftor 150 mg should be taken twice a week, taken approximately 3 to 4 days apart.
-
-When co-administered with moderate inhibitors of CYP3A, the dose of Kalydeco and tezacaftor/ivacaftor should be adjusted according to the recommendations in Table 1 (see section 4.4 and 4.5).
-
-Table 1: Dosing recommendations for concomitant use with moderate CYP3A inhibitors
-
-|  | Day 1 | Day 2 | Day 3 | Day 4* |
-| --- | --- | --- | --- | --- |
-| Morning Dose |  |  |  |  |
-| Tezacaftor 100 mg/ ivacaftor 150 mg tablet | ✓ | - | ✓ | - |
-| Ivacaftor 150 mg tablet | - | ✓ | - | ✓ |
-| Evening Dose |  |  |  |  |
-| Ivacaftor 150 mg tablet | - | - | - | - |
-
-* Continue dosing with tezacaftor 100 mg/ivacaftor 150 mg or ivacaftor 150 mg tablets on alternate days.
+|  | Moderate CYP3A inhibitors | Strong CYP3A inhibitors |
+| --- | --- | --- |
+| Ivacaftor as monotherapy |  |  |
+| 6 years and older, ≥25 kg | One morning tablet of ivacaftor 150 mg once daily. | One morning tablet of ivacaftor 150 mg twice a week, approximately 3 to 4 days apart. |
+|  | No evening dose. | No evening dose. |
+| Ivacaftor in a combination regimen with tezacaftor/ivacaftor |  |  |
+| 12 yea rs and older | Alternate each morning: - one tablet of tezacaftor 100 mg/ivacaftor 150 mg on the first day - one tablet of ivacaftor 150 mg on the next day Continue alternating tablets each day. No evening dose. | One morning tablet of tezacaftor 100 mg/ivacaftor 150 mg twice a week, approximately 3 to 4 days apart. No evening dose. |
+| Ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor |  |  |
+| 12 yea rs and older | Alternate each morning: - two tablets of ivacaftor 75 mg/tezacaftor 50 mg/elexacaftor 100 mg on the first day - one tablet of ivacaftor 150 mg on the next day Continue alternating tablets each day. No evening dose. | Two morning dose tablets of ivacaftor 75 mg/tezacaftor 50 mg/elexacaftor 100 mg twice a week, approximately 3 to 4 days apart. No evening dose. |
 
 Special populations
 
 Elderly
 
-Very limited data are available for elderly patients treated with ivacaftor (administered as monotherapy or in a combination regimen with tezacaftor/ivacaftor).
-No dose adjustment is considered necessary unless moderate hepatic impairment exists.
-Caution is recommended for patients with severe renal impairment or end-stage renal disease (see section 5.2).
+Very limited data are available for elderly patients treated with ivacaftor (administered as monotherapy or in a combination regimen).
+No dose adjustment specific to this patient population is required (see section 5.2).
+
 Renal impairment
 
 No dose adjustment is necessary for patients with mild to moderate renal impairment.
@@ -61,29 +58,37 @@ Caution is recommended in patients with severe renal impairment (creatinine clea
 
 Hepatic impairment
 
-No dose adjustment is necessary for patients with mild hepatic impairment (Child-Pugh Class A). For patients with moderate hepatic impairment (Child-Pugh Class B), the dose should be reduced (see Table 2).
-There is no experience of the use of Kalydeco monotherapy or in combination with tezacaftor/ivacaftor in patients with severe hepatic impairment.
-Therefore, its use is not recommended unless the benefits outweigh the risks (see Table 2 and sections 4.4 and 5.2).
+No dose adjustment is necessary for ivacaftor as monotherapy or in a combination regimen in patients with mild hepatic impairment (Child-Pugh Class A).
 
-Table 2: Dosing recommendations for patients with hepatic impairment for Kalydeco monotherapy and in a combination regimen with tezacaftor/ivacaftor
+For patients with moderate hepatic impairment (Child-Pugh Class B) the dose of ivacaftor as monotherapy should be reduced to 150 mg once daily.
 
-|  | Kalydeco monotherapy | Kalydeco in a combination regimen with tezacaftor/ivacaftor |
+For patients with severe hepatic impairment (Child-Pugh Class C), the dose of ivacaftor as monotherapy should be reduced to 150 mg every other day or less frequently.
+
+For use as an evening dose in a combination regimen with tezacaftor/ivacaftor or ivacaftor/tezacaftor/elexacaftor see Table 3 for dosing regimen recommendations.
+
+Table 3: Recommendations for patients with moderate or severe hepatic impairment
+
+|  | Moderate (Child-Pugh Class B) | Severe (Child-Pugh Class C) |
 | --- | --- | --- |
-| Mild (Child-Pugh Class A) | No dose adjustment | No dose adjustment |
-| Moderate (Child-Pugh Class B) | One tablet of ivacaftor 150 mg once daily | One tablet of tezacaftor 100 mg/ivacaftor 150 mg once daily |
-| Severe (Child-Pugh Class C) | Starting dose: One tablet of ivacaftor 150 mg every other day. Dosing intervals should be modified according to clinical response and tolerability. | Starting dose: One tablet of tezacaftor 100 mg/ivacaftor 150 mg once daily. Dosing intervals should be modified according to clinical response and tolerability. |
+| Ivacaftor as monotherapy |  |  |
+| 6 years and older, ≥25 kg | One morning tablet of ivacaftor 150 mg once daily. No evening dose. | Use is not recommended unless the benefits are expected to outweigh the risks. In such cases, take one morning tablet of ivacaftor 150 mg every other day or less frequently. Dosing interval should be modified according to clinical response and tolerability. No evening dose. |
+| Ivacaftor in a combination regimen with tezacaftor/ivacaftor |  |  |
+| 12 years and older | One morning tablet of tezacaftor 100 mg/ivacaftor 150 mg once daily. No evening dose. | Use is not recommended unless the benefits are expected to outweigh the risks. In such cases, take one morning tablet of tezacaftor 100 mg/ivacaftor 150 mg once daily or less frequently. Dosing interval should be modified according to clinical response and tolerability. No evening dose. |
+| Ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor |  |  |
+| 12 years and older | Use not recommended. Use should only be considered when there is a clear medical need and the benefits are expected to outweigh the risks. | Should not be used. No morning ivacaftor 75 mg/tezacaftor 50 mg/elexacaftor 100 mg dose. |
+|  | If used: alternate each day between two ivacaftor 75 mg/tezacaftor 50 mg/elexacaftor 100 mg tablets and one ivacaftor 75 mg/tezacaftor 50 mg/elexacaftor 100 mg tablet. No evening dose. | No evening dose. |
 
 Paediatric population
 
-The safety and efficacy of Kalydeco monotherapy in children aged less than 6 months have not been established.
+The safety and efficacy of ivacaftor monotherapy in children aged less than 6 months have not been established.
 No data are available.
 
-An appropriate dose for children under 6 years of age and weighing less than 25 kg cannot be achieved with Kalydeco tablets.
+An appropriate dose for children under 6 years of age and weighing less than 25 kg cannot be achieved with ivacaftor tablets.
 
 Limited data are available in patients less than 6 years of age with an R117H mutation in the CFTR gene.
-Available data in patients aged 6 years and older are described in sections 4.8, 5.1 and 5.2.
+Available data in patients aged 6 years and older are described in sections 4.8, 5.1, and 5.2.
 
-The safety and efficacy of Kalydeco in a combination regimen with tezacaftor/ivacaftor in children aged less than 12 years have not been established.
+The safety and efficacy of ivacaftor in a combination regimen with tezacaftor/ivacaftor and ivacaftor/tezacaftor/elexacaftor in children aged less than 12 years have not been established.
 No data are available.
 
 Method of administration
@@ -91,15 +96,16 @@ Method of administration
 For oral use.
 
 Patients should be instructed to swallow the tablets whole.
-The tablets should not be chewed, crushed, or broken before swallowing.
+The tablets should not be chewed, crushed, or broken before swallowing because there are no clinical data currently available to support other methods of administration.
 
-Kalydeco tablets should be taken with fat-containing food.
+Ivacaftor tablets should be taken with fat-containing food.
 
 Food or drink containing grapefruit or Seville oranges should be avoided during treatment (see section 4.5).
 
 [Kalydeco 25 mg granules in sachet]
 
 If the patient's genotype is unknown, an accurate and validated genotyping method should be performed before starting treatment to confirm the presence of an indicated mutation in at least one allele of the CFTR gene (see section 4.1).
+The phase of the poly-T variant identified with the R117H mutation should be determined in accordance with local clinical recommendation.
 
 Infants aged at least 6 months, toddlers, children, adolescents and adults should be dosed according to Table 1.
 
@@ -112,16 +118,18 @@ Table 1: Dosing recommendations for patients aged 6 months and older
 | ≥ 14 kg to < 25 kg | 75 mg granules taken orally every 12 hours with fat-containing food | 150 mg |
 | ≥ 25 kg | See Kalydeco tablets SmPC for further details. |  |
 
-When co-administered with strong inhibitors of CYP3A, the Kalydeco dose should be reduced to one sachet (ivacaftor 25 mg for patients 5 kg to < 7 kg; ivacaftor 50 mg for patients 7 kg to < 14 kg; ivacaftor 75 mg for patients 14 kg to < 25 kg) twice a week (see sections 4.4 and 4.5).
+When co-administered with strong inhibitors of CYP3A, the ivacaftor dose should be reduced to one sachet (ivacaftor 25 mg for patients 5 kg to < 7 kg; ivacaftor 50 mg for patients 7 kg to < 14 kg; ivacaftor 75 mg for patients 14 kg to < 25 kg) twice a week (see sections 4.4 and 4.5).
 
-When co-administered with moderate inhibitors of CYP3A, the Kalydeco dose is as above recommended, but administered once daily (see sections 4.4 and 4.5).
+When co-administered with moderate inhibitors of CYP3A, the ivacaftor dose is as above recommended but administered once daily (see sections 4.4 and 4.5).
 
 No dose adjustment is necessary for patients with mild hepatic impairment (Child-Pugh Class A). For patients with moderate hepatic impairment (Child-Pugh Class B), a reduced dose of one sachet (ivacaftor 25 mg for patients 5 kg to < 7 kg; ivacaftor 50 mg for patients 7 kg to < 14 kg; ivacaftor 75 mg for patients 14 kg to < 25 kg) once daily is recommended.
-There is no experience of the use of Kalydeco in patients with severe hepatic impairment; therefore, its use is not recommended unless the benefits outweigh the risks.
+There is no experience of the use of ivacaftor in patients with severe hepatic impairment; therefore, its use is not recommended unless the benefits outweigh the risks.
 In such cases, the starting dose should be as above recommended, but administered every other day.
 Dosing intervals should be modified according to clinical response and tolerability (see sections 4.4 and 5.2).
 
-The safety and efficacy of Kalydeco in children aged less than 6 months have not been established.
+The safety and efficacy of ivacaftor in children aged less than 6 months have not been established.
+
+Available data in patients aged 6 years and older are described in sections 4.8, 5.1 and 5.2.
 
 Each sachet is for single use only.
 

@@ -13,7 +13,7 @@ The exact mechanism leading ivacaftor to potentiate the gating activity of norma
 
 Pharmacodynamic effects
 
-Ivacaftor monotherapy
+Ivacaftor as monotherapy
 
 In studies 1 and 2 in patients with the G551D mutation in one allele of the CFTR gene, ivacaftor led to rapid (15 days), substantial (the mean change in sweat chloride from baseline through week 24 was -48 mmol/L [95% CI -51, -45] and -54 mmol/L [95% CI -62, -47], respectively) and sustained (through 48 weeks) reductions in sweat chloride concentration.
 
@@ -31,15 +31,20 @@ Ivacaftor in a combination regimen with tezacaftor/ivacaftor
 
 In patients homozygous for the F508del mutation, the treatment difference between ivacaftor in combination with tezacaftor/ivacaftor and placebo in mean absolute change from baseline in sweat chloride through week 24, was -10.1 mmol/L (95% CI: -11.4, -8.8).
 
-In patients heterozygous for the F508del mutation and a second mutation associated with residual CFTR activity, the treatment difference in mean absolute change from baseline in sweat chloride through week 8 was -9.5 mmol/L (95% CI: -11.7, -7.3) between ivacaftor in combination with tezacaftor/ivacaftor and placebo, and -4.5 mmol/L (95% CI: -6.7, -2.3) between ivacaftor and placebo.
+In patients heterozygous for the F508del mutation and a second mutation associated with residual CFTR activity, the treatment difference in mean absolute change from baseline in sweat chloride through week 8 was -9.5 mmol/L (95% CI: -11.7, -7.3) between tezacaftor/ivacaftor and placebo, and -4.5 mmol/L (95% CI: -6.7, -2.3) between ivacaftor and placebo.
 
+Ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor
+
+In patients with an F508del mutation on one allele and a mutation on the second allele that results in either no CFTR protein or a CFTR protein that is not responsive to ivacaftor and tezacaftor/ivacaftor, the treatment difference between ivacaftor/tezacaftor/elexacaftor and placebo for mean absolute change in sweat chloride from baseline through week 24 was -41.8 mmol/L (95% CI: -44.4, -39.3).
+
+In patients homozygous for the F508del mutation, the treatment difference between ivacaftor/tezacaftor/elexacaftor and tezacaftor/ivacaftor for mean absolute change in sweat chloride from baseline at week 4 was -45.1 mmol/L (95% CI: -50.1, -40.1).
 Clinical efficacy and safety
 
-Kalydeco monotherapy
+Ivacaftor as monotherapy
 
 Study 1 and 2: studies in patients with CF with G551D gating mutations
 
-The efficacy of Kalydeco has been evaluated in two Phase 3 randomised, double-blind, placebo-controlled, multi-centre studies of clinically stable patients with CF who had the G551D mutation in the CFTR gene on at least 1 allele and had FEV1 ≥ 40% predicted.
+The efficacy of ivacaftor has been evaluated in two Phase 3 randomised, double-blind, placebo-controlled, multi-centre studies of clinically stable patients with CF who had the G551D mutation in the CFTR gene on at least 1 allele and had FEV1 ≥ 40% predicted.
 
 Patients in both studies were randomised 1:1 to receive either 150 mg of ivacaftor or placebo every 12 hours with food containing fat for 48 weeks in addition to their prescribed CF therapies (e.g., tobramycin, dornase alfa).
 The use of inhaled hypertonic sodium chloride was not permitted.
@@ -62,15 +67,16 @@ In both studies, improvements in FEV1 were rapid in onset (day 15) and durable t
 The treatment difference between ivacaftor and placebo for the mean absolute change (95% CI) in percent predicted FEV1 from baseline through week 24 in patients 12 to 17 years of age in study 1 was 11.9 percentage points (5.9, 17.9).
 The treatment difference between ivacaftor and placebo for the mean absolute change (95% CI) in percent predicted FEV1 from baseline through week 24 in patients with baseline predicted FEV1 greater than 90% in study 2 was 6.9 percentage points (-3.8, 17.6).
 
-The results for clinically relevant secondary endpoints are shown in Table 4.
+The results for clinically relevant secondary endpoints are shown in Table 6.
 
-Table 4: Effect of ivacaftor on other efficacy endpoints in studies 1 and 2
+Table 6: Effect of ivacaftor on other efficacy endpoints in studies 1 and 2
 
 | Endpoint | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
 |  | Treatment differencea (95% CI) | P value | Treatment differencea (95% CI) | P value |
 | Mean absolute change from baseline in CFQ-Rb respiratory domain score (points)c |  |  |  |  |
 | Through week 24 | 8.1 (4.7, 11.4) | < 0.0001 | 6.1 (-1.4, 13.5) | 0.1092 |
+|  | Treatment differencea (95% CI) | P value | Treatment differencea (95% CI) | P value |
 | Through week 48 | 8.6 (5.3, 11.9) | < 0.0001 | 5.1 (-1.6, 11.8) | 0.1354 |
 | Relative risk of pulmonary exacerbation |  |  |  |  |
 | Through week 24 | 0.40d | 0.0016 | NA | NA |
@@ -107,10 +113,10 @@ The mean overall post-baseline value was 76.0% and 83.7%, respectively.
 The mean absolute change from baseline through week 8 in percent predicted FEV1 (primary efficacy endpoint) was 7.5% in the ivacaftor period and -3.2% in the placebo period.
 The observed treatment difference (95% CI) between ivacaftor and placebo was 10.7% (7.3, 14.1) (P < 0.0001).
 
-The effect of ivacaftor in the overall population of study 5 (including the secondary endpoints absolute change in BMI at 8 weeks of treatment and absolute change in the respiratory domain score of the CFQ-R through 8 weeks of treatment) and by individual mutation (absolute change in sweat chloride and in percent predicted FEV1 at week 8) is shown in Table 5.
+The effect of ivacaftor in the overall population of study 5 (including the secondary endpoints absolute change in BMI at 8 weeks of treatment and absolute change in the respiratory domain score of the CFQ-R through 8 weeks of treatment) and by individual mutation (absolute change in sweat chloride and in percent predicted FEV1 at week 8) is shown in Table 7.
 Based on clinical (percent predicted FEV1) and pharmacodynamic (sweat chloride) responses to ivacaftor, efficacy in patients with the G970R mutation could not be established.
 
-Table 5: Effect of ivacaftor for efficacy variables in the overall population and for specific CFTR mutations
+Table 7: Effect of ivacaftor for efficacy variables in the overall population and for specific CFTR mutations
 
 | Absolute change in percent predicted FEV1 |  | BMI (kg/m2) |  | CFQ-R respiratory domain score (points) |
 | --- | --- | --- | --- | --- |
@@ -146,10 +152,10 @@ In study 4 patients who completed treatment in studies 1 and 2 with placebo were
 One hundred and forty-four (144) patients from study 1 were rolled over in study 4, 67 in the placebo/ivacaftor group and 77 in the ivacaftor/ivacaftor group.
 Forty-eight (48) patients from study 2 were rolled over in study 4, 22 in the placebo/ivacaftor group and 26 in the ivacaftor/ivacaftor group.
 
-Table 6 shows the results of the mean (SD) absolute change in percent predicted FEV1 for both groups of patients.
+Table 8 shows the results of the mean (SD) absolute change in percent predicted FEV1 for both groups of patients.
 For patients in the placebo/ivacaftor group baseline percent predicted FEV1 is that of study 4 while for patients in the ivacaftor/ivacaftor group the baseline value is that of studies 1 and 2.
 
-Table 6: Effect of ivacaftor on percent predicted FEV1 in study 4
+Table 8: Effect of ivacaftor on percent predicted FEV1 in study 4
 
 | Original study and treatment group | Duration of ivacaftor treatment (weeks) | Absolute change from baseline in percent predicted FEV1 (percentage points) |  |
 | --- | --- | --- | --- |
@@ -171,12 +177,12 @@ Table 6: Effect of ivacaftor on percent predicted FEV1 in study 4
 When the mean (SD) absolute change in percent predicted FEV1 is compared from study 4 baseline for patients in the ivacaftor/ivacaftor group (n = 72) who rolled over from study 1, the mean (SD) absolute change in percent predicted FEV1 was 0.0% (9.05), while for patients in the ivacaftor/ivacaftor group (n = 25) who rolled over from study 2 this figure was 0.6% (9.1).
 This shows that patients in the ivacaftor/ivacaftor group maintained the improvement seen at week 48 of the initial study (day 0 through week 48) in percent predicted FEV1 through week 144.
 There were no additional improvements in study 4 (week 48 through week 144).
+
 For patients in the placebo/ivacaftor group from study 1, the annualised rate of pulmonary exacerbations was higher in the initial study when patients were on placebo (1.34 events/year) than during the subsequent study 4 when patients rolled over to ivacaftor (0.48 events/year across day 1 to week 48, and 0.67 events/year across weeks 48 to 96).
 For patients in the ivacaftor/ivacaftor group from study 1, the annualised rate of pulmonary exacerbations was 0.57 events/year across day 1 to week 48 when patients were on ivacaftor.
 When they rolled over into study 4, the rate of annualised pulmonary exacerbations was 0.91 events/year across day 1 to week 48 and 0.77 events/year across weeks 48 to 96.
 
 For patients who rolled over from study 2 the number of events was, overall, low.
-
 Study 6: study in patients with CF with an R117H mutation in the CFTR gene
 
 Study 6 evaluated 69 patients who were 6 years of age or older; 53 (76.8%) patients had the F508del mutation in the second allele.
@@ -192,13 +198,20 @@ The estimated treatment difference for ivacaftor versus placebo was 5.0 percenta
 In a subgroup analysis in patients with a confirmed R117H-5T genetic variant, the difference in the mean absolute change from baseline through week 24 in percent predicted FEV1 between ivacaftor and placebo was 5.3% (95% CI 1.3, 9.3).
 In patients with a confirmed R117H-7T genetic variant, the treatment difference between ivacaftor and placebo was 0.2% (95% CI -8.1, 8.5).
 
-For secondary efficacy variables, no treatment differences were observed for ivacaftor versus placebo in absolute change from baseline in BMI at week 24 or time to first pulmonary exacerbation.Treatment differences were observed in absolute change in CFQ-R respiratory domain score through week 24 (treatment difference of ivacaftor versus placebo was 8.4 [95% CI 2.2, 14.6] points) and for the mean change from baseline in sweat chloride (see Pharmacodynamic effects).
+For secondary efficacy variables, no treatment differences were observed for ivacaftor versus placebo in absolute change from baseline in BMI at week 24 or time to first pulmonary exacerbation.
+Treatment differences were observed in absolute change in CFQ-R respiratory domain score through week 24 (treatment difference of ivacaftor versus placebo was 8.4 [95% CI 2.2, 14.6] points) and for the mean change from baseline in sweat chloride (see Pharmacodynamic effects).
 
-Kalydeco in a combination regimen with tezacaftor/ivacaftor
-The efficacy and safety of Kalydeco in a combination regimen with tezacaftor/ivacaftor in patients with CF was assessed in two clinical studies; a 24 week, randomized, double-blind, placebo-controlled study with 504 patients aged 12 years and older who were homozygous for the F508del mutation; and a randomized, double-blind, placebo-controlled and ivacaftor controlled, 2 period, 3 treatment, 8-week crossover study with 244 patients aged 12 years and older who were heterozygous for the F508del mutation and a second mutation associated with residual CFTR activity.
-An open-label, rollover,
-96 week study is on-going to evaluate the long-term safety and efficacy of the combination regimen in both patient populations.
+Ivacaftor in a combination regimen with tezacaftor/ivacaftor or with ivacaftor/tezacaftor/elexacaftor
+
+The efficacy and safety of ivacaftor in a combination regimen with tezacaftor/ivacaftor in patients with CF aged 12 years and older was assessed in two clinical studies; a 24 week, randomized, double-blind, placebo-controlled study with 504 patients who were homozygous for the F508del mutation; and a randomized, double-blind, placebo-controlled and ivacaftor controlled, 2 period, 3 treatment, 8-week crossover study with 244 patients who were heterozygous for the F508del mutation and a second mutation associated with residual CFTR activity.
+The long-term safety and efficacy of the combination regimen was also assessed in both patient populations in a 96-week open-label, rollover, long-term extension study.
 Refer to the Summary of Product Characteristics of tezacaftor/ivacaftor for additional data.
+
+The efficacy and safety of ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor in patients aged 12 years and older was demonstrated in two, phase 3 studies, randomised, double blind, placebo-controlled (heterozygous F508del patients, n=403) and active-controlled (homozygous F508del patients, n=107) of 24 and 4 weeks of duration, respectively.
+Heterozygous F508del patients had a minimal function mutation on the second allele defined as one that either leads to no CFTR protein being produced (e.g. Class I) or a CFTR protein that does not function to transport chloride and is unlikely to respond to other CFTR modulators (tezacaftor, ivacaftor or the combination of both).
+Homozygous F508del patients received tezacaftor/ivacaftor and ivacaftor regimen during a 4-week open-label run-in period and were then randomised and dosed to receive ivacaftor in combination with ivacaftor/tezacaftor/elexacaftor during a 4-week double-blind treatment period.
+Patients from both studies were eligible to enter an open-label, rollover, 96-week study.
+Refer to the Summary of Product Characteristics of ivacaftor/tezacaftor/elexacaftor for additional data.
 
 Paediatric population
 
@@ -206,21 +219,39 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 [Kalydeco 25 mg granules in sachet]
 
-Ivacaftor also potentiated the channel open probability of R117H CFTR, which has both low channel open probability (gating) and reduced channel current amplitude (conductance).
-
 In study 7 in patients aged 2 to less than 6 years with a gating mutation on at least 1 allele of the CFTR gene administered either 50 mg or 75 mg of ivacaftor twice daily, the mean absolute change from baseline in sweat chloride was -47 mmol/L (95% CI -58, -36) at week 24.
 
 In study 8 in patients with CF aged less than 24 months, the mean absolute change from baseline in sweat chloride was -67.9 mmol/L (95% CI -77.6, -58.2) at week 24.
 Results were consistent in both the 12 months to less than 24 months and 6 months to less than 12 months age cohorts.
 
-The results for clinically relevant secondary endpoints are shown in Table 3.
-Table 3: Effect of ivacaftor on other efficacy endpoints in studies 1 and 2
+The results for clinically relevant secondary endpoints are shown in Table 4.
+
+Table 4: Effect of ivacaftor on other efficacy endpoints in studies 1 and 2
+
+| Endpoint | Study 1 |  | Study 2 |  |
+| --- | --- | --- | --- | --- |
+|  | Treatment differencea (95% CI) | P value | Treatment differencea (95% CI) | P value |
+| Mean absolute change from baseline in CFQ-Rb respiratory domain score (points)c |  |  |  |  |
+| Through week 24 | 8.1 (4.7, 11.4) | < 0.0001 | 6.1 (-1.4, 13.5) | 0.1092 |
+| Through week 48 | 8.6 (5.3, 11.9) | < 0.0001 | 5.1 (-1.6, 11.8) | 0.1354 |
+| Relative risk of pulmonary exacerbation |  |  |  |  |
+| Through week 24 | 0.40d | 0.0016 | NA | NA |
+| Through week 48 | 0.46d | 0.0012 | NA | NA |
+| Mean absolute change from baseline in body weight (kg) |  |  |  |  |
+| At week 24 | 2.8 (1.8, 3.7) | < 0.0001 | 1.9 (0.9, 2.9) | 0.0004 |
+| At week 48 | 2.7 (1.3, 4.1) | 0.0001 | 2.8 (1.3, 4.2) | 0.0002 |
+| Mean absolute change from baseline in BMI (kg/m2) |  |  |  |  |
+| At week 24 | 0.94 (0.62, 1.26) | < 0.0001 | 0.81 (0.34, 1.28) | 0.0008 |
+| At week 48 | 0.93 (0.48, 1.38) | < 0.0001 | 1.09 (0.51, 1.67) | 0.0003 |
+| Mean change from baseline in z-scores |  |  |  |  |
+| Weight-for-age z-score at week 48e | 0.33 (0.04, 0.62) | 0.0260 | 0.39 (0.24, 0.53) | < 0.0001 |
+| BMI-for-age z-score at week 48e | 0.33 (0.002, 0.65) | 0.0490 | 0.45 (0.26, 0.65) | < 0.0001 |
 
 The duration of continuous ivacaftor treatment was 24 weeks for patients randomised to the part 1 placebo/ivacaftor treatment sequence and 16 weeks for patients randomised to part 1 ivacaftor/placebo treatment sequence.
 
-The effect of ivacaftor in the overall population of study 5 (including the secondary endpoints absolute change in BMI at 8 weeks of treatment and absolute change in the respiratory domain score of the CFQ-R through 8 weeks of treatment) and by individual mutation (absolute change in sweat chloride and in percent predicted FEV1 at week 8) is shown in Table 4.
+The effect of ivacaftor in the overall population of study 5 (including the secondary endpoints absolute change in BMI at 8 weeks of treatment and absolute change in the respiratory domain score of the CFQ-R through 8 weeks of treatment) and by individual mutation (absolute change in sweat chloride and in percent predicted FEV1 at week 8) is shown in Table 5.
 
-Table 4: Effect of ivacaftor for efficacy variables in the overall population and for specific CFTR mutations
+Table 5: Effect of ivacaftor for efficacy variables in the overall population and for specific CFTR mutations
 
 | Absolute change in percent predicted FEV1 |  | BMI (kg/m2) |  | CFQ-R respiratory domain score (points) |
 | --- | --- | --- | --- | --- |
@@ -237,14 +268,11 @@ At the follow up visit 4 weeks after ivacaftor dosing had ended, the mean (SD) a
 
 In study 4, patients who completed treatment in studies 1 and 2 with placebo were switched to ivacaftor while patients on ivacaftor continued to receive it for a minimum of 96 weeks, i.e., the length of treatment with ivacaftor was at least 96 weeks for patients in the placebo/ivacaftor group and at least 144 weeks for patients in the ivacaftor/ivacaftor group.
 
-Table 5 shows the results of the mean (SD) absolute change in percent predicted FEV1 for both groups of patients.
+Table 6 shows the results of the mean (SD) absolute change in percent predicted FEV1 for both groups of patients.
 
-Table 5: Effect of ivacaftor on percent predicted FEV1 in study 4
+Table 6: Effect of ivacaftor on percent predicted FEV1 in study 4
 
 Study 6 evaluated 69 patients who were 6 years of age or older; 53 (76.8%) of patients had the F508del mutation in the second allele.
-
-For secondary efficacy variables, no treatment differences were observed for ivacaftor versus placebo in absolute change from baseline in BMI at week 24 or time to first pulmonary exacerbation.
-Treatment differences were observed in absolute change in CFQ-R respiratory domain score through week 24 (treatment difference of ivacaftor versus placebo was 8.4 [95% CI 2.2, 14.6] points) and for the mean change from baseline in sweat chloride (see Pharmacodynamic effects).
 
 Study 7: study in paediatric patients with CF aged 2 to less than 6 years with G551D or another gating mutation
 
@@ -259,6 +287,7 @@ The mean (SD) Faecal Elastase-1 value at baseline (n = 27) was 28 µg/g (95).
 The primary endpoint of safety was evaluated through week 24 (see section 4.8).
 Secondary and exploratory efficacy endpoints evaluated were absolute change from baseline in sweat chloride through 24 weeks of treatment, absolute change from baseline in weight, body mass index (BMI) and stature (supported by weight, BMI and stature z-scores) at 24 weeks of treatment, and measures of pancreatic function such as Faecal Elastase-1.
 Data on percent predicted FEV1 (exploratory endpoint) were available for 3 patients in the ivacaftor 50 mg group and 17 patients in the 75 mg dosing group.
+
 The mean (SD) overall (both ivacaftor dosing groups combined) absolute change from baseline in BMI at week 24 was 0.32 kg/m2 (0.54) and the mean (SD) overall change in BMI-for-age z-score was 0.37 (0.42).
 The mean (SD) overall change in stature-for-age z-score was -0.01 (0.33).
 The mean (SD) overall change from baseline in Faecal Elastase-1 (n = 27) was 99.8 µg/g (138.4).
@@ -278,9 +307,9 @@ In part B of study 8, the primary endpoint of safety was evaluated through 24 we
 Secondary endpoints were evaluation of pharmacokinetics and the absolute change from baseline in sweat chloride through 24 weeks of treatment (see Pharmacodynamic effects).
 Tertiary endpoints included efficacy measures such as Faecal Elastase-1 and growth parameters.
 
-For patients aged 6 months to less than 24 months, with both baseline and week 24 values available, mean (SD) weight-for-age, length-for-age, and weight-for-length z-scores are provided in Table 6.
+For patients aged 6 months to less than 24 months, with both baseline and week 24 values available, mean (SD) weight-for-age, length-for-age, and weight-for-length z-scores are provided in Table 7.
 
-Table 6: Effect of ivacaftor on growth parameters in patients aged 6 months to less than 24 months with baseline and week 24 values
+Table 7: Effect of ivacaftor on growth parameters in patients aged 6 months to less than 24 months with baseline and week 24 values
 
 | Parameter | Number of patients | Baseline |  | Absolute change at week 24 |  |
 | --- | --- | --- | --- | --- | --- |
