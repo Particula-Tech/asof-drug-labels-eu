@@ -1,11 +1,11 @@
 # 4.9 Overdose
 
 Management of overdose
+There is no specific antidote to lurasidone, therefore, appropriate supportive measures should be instituted, and close medical supervision and monitoring should continue until the patient recovers.
 
-There is no specific antidote to lurasidone, therefore, appropriate supportive measures should be instituted and close medical supervision and monitoring should continue until the patient recovers.
 Cardiovascular monitoring should commence immediately, including continuous electrocardiographic monitoring for possible arrhythmias.
 If antiarrhythmic therapy is administered, disopyramide, procainamide, and quinidine carry a theoretical hazard of QT-prolonging effects when administered in patients with an acute overdose of lurasidone.
-Similarly the alpha-blocking properties of bretylium might be additive to those of lurasidone, resulting in problematic hypotension.
+Similarly, the alpha-blocking properties of bretylium might be additive to those of lurasidone, resulting in problematic hypotension.
 
 Hypotension and circulatory collapse should be treated with appropriate measures.
 Adrenaline and dopamine should not be used, or other sympathomimetics with beta agonist activity, since beta stimulation may worsen hypotension in the setting of lurasidone-induced alpha blockade.

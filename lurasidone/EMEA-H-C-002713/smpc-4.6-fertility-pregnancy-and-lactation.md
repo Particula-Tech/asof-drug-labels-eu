@@ -1,7 +1,6 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Pregnancy
-
 There are no or limited amount of data (less than 300 pregnancy outcomes) from the use of lurasidone in pregnant women.
 Animal studies are insufficient with respect to effects on pregnancy, embryonal/foetal development, parturition and postnatal development (see section 5.3).
 The potential risk for humans is unknown.
@@ -12,11 +11,17 @@ There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence,
 Consequently, newborns should be monitored carefully.
 
 Breast-feeding
-
 Lurasidone was excreted in milk of rats during lactation (see section 5.3).
 It is not known whether lurasidone or its metabolites are excreted in human milk.
 Breast feeding in women receiving lurasidone should be considered only if the potential benefit of treatment justifies the potential risk to the child.
 
 Fertility
-
 Studies in animals have shown a number of effects on fertility, mainly related to prolactin increase, which are not considered to be relevant to human reproduction (see section 5.3).
+
+[Latuda 37 mg film-coated tablets]
+
+(all sentences already above)
+
+[Latuda 74 mg film-coated tablets]
+
+PregnancyThere are no or limited amount of data (less than 300 pregnancy outcomes) from the use of lurasidone in pregnant women.

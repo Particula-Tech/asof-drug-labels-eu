@@ -1,21 +1,19 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Pharmacodynamic interactions
-
 Given the primary central nervous system effects of lurasidone, lurasidone should be used with caution in combination with other centrally acting medicinal products and alcohol.
 
 Caution is advised when prescribing lurasidone with medicinal products known to prolong the QT interval, e.g. class IA antiarrhythmics (e.g. quinidine, disopyramide) and class III antiarrhythmics (e.g. amiodarone, sotalol), some antihistaminics, some other antipsychotics and some antimalarials (e.g. mefloquine).
 
 Pharmacokinetic interactions
-
 The concomitant administration of lurasidone and grapefruit juice has not been assessed.
 Grapefruit juice inhibits CYP3A4 and may increase the serum concentration of lurasidone.
 Grapefruit juice should be avoided during treatment with lurasidone.
 
 Potential for other medicinal products to affect lurasidone
-
 Lurasidone and its active metabolite ID-14283 both contribute to the pharmacodynamic effect at the dopaminergic and serotonergic receptors.
 Lurasidone and its active metabolite ID-14283 are primarily metabolised by CYP3A4.
+
 CYP3A4 inhibitors
 Lurasidone is contraindicated with strong CYP3A4 inhibitors (e.g. boceprevir, clarithromycin, cobicistat, indinavir, itraconazole, ketoconazole, nefazodone, nelfinavir, posaconazole, ritonavir, saquinavir, telaprevir, telithromycin, voriconazole) (see section 4.3).
 
@@ -44,7 +42,6 @@ Lurasidone is a substrate of P-gp and BCRP in vitro and the in vivo relevance of
 Coadministration of lurasidone with P-gp and BCRP inhibitors may increase exposure to lurasidone.
 
 Potential for lurasidone to affect other medicinal products
-
 Coadministration of lurasidone with midazolam, a sensitive CYP3A4 substrate, resulted in a < 1.5-fold increase in midazolam exposure.
 Monitoring is recommended when lurasidone and CYP3A4 substrates known to have a narrow therapeutic index (e.g. astemizole, terfenadine, cisapride, pimozide, quinidine, bepridil or ergot alkaloids [ergotamine, dihydroergotamine]) are coadministered.
 
@@ -54,6 +51,7 @@ Concomitant administration of the P-gp substrate dabigatran etexilate may result
 
 Lurasidone is an in vitro inhibitor of the efflux transporter BCRP and the clinical relevance of intestinal BCRP inhibition cannot be excluded.
 Concomitant administration of BCRP substrates may result in increases in the plasma concentrations of these substrates.
+
 Coadministration of lurasidone with lithium indicated that lithium had clinically negligible effects on the pharmacokinetics of lurasidone, therefore no dose adjustment of lurasidone is required when coadministered with lithium.
 Lurasidone does not impact concentrations of lithium.
 
@@ -65,5 +63,7 @@ Therefore, lurasidone can be coadministered with oral contraceptives.
 Grapefruit juice inhibits CYP 3A4 and may increase the serum concentration of lurasidone.
 
 [Latuda 74 mg film-coated tablets]
+
+Co-administration of lurasidone and posaconazole (strong CYP3A4 inhibitor) resulted in an approximate 4-5-fold increase in lurasidone exposure.
 
 Moderate CYP3A4 inhibitors are estimated to result in a 2-5-fold increase in exposure of CYP3A4 substrates.

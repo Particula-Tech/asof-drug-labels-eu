@@ -1,16 +1,14 @@
 # 5.2 Pharmacokinetic properties
 
 Absorption
-
 Lurasidone reaches peak serum concentrations in approximately 1-3 hours.
+
 In a food effect study, lurasidone mean Cmax and AUC increased approximately by 2-3-times and 1.5-2-times, respectively, when administered with food compared to the levels observed under fasting conditions.
 
 Distribution
-
 Following administration of 37 mg of lurasidone, the mean approximate apparent volume of distribution was 6000 L. Lurasidone is highly bound (~99%) to serum proteins.
 
 Biotransformation
-
 Lurasidone is metabolised mainly via CYP3A4.
 The major biotransformation pathways are oxidative N-dealkylation, hydroxylation of norbornane ring, and S-oxidation.
 
@@ -31,17 +29,15 @@ Lurasidone is not subject to active uptake transport by OATP1B1 or OATP1B3.
 
 Lurasidone is an inhibitor of P-gp, BCRP and OCT1 in vitro (see section 4.5).
 Lurasidone is not expected to have a clinically relevant inhibitory potential on transporters OATP1B1, OATP1B3, OCT2, OAT1, OAT3, MATE1, MATE2K or BSEP based on in vitro data.
-
 Elimination
-
 Following administration of lurasidone, the elimination half-life was 20-40 hours.
 Following oral administration of a radiolabelled dose, approximately 67% dose was recovered in faeces and 19% in urine.
 Urine comprised mostly of a number of metabolites with minimal renal excretion of parent compound.
 
 Linearity/non-linearity
-
 The pharmacokinetics of lurasidone is dose-proportional within a total daily dose range of 18.5 mg to 148 mg.
 Steady-state concentrations of lurasidone are reached within 7 days of starting lurasidone.
+
 Pharmacokinetics in special patient groups:
 
 Elderly people
@@ -67,16 +63,17 @@ Smoking
 Based on in vitro studies utilising human liver enzymes, lurasidone is not a substrate for CYP1A2; smoking should, therefore, not have an effect on the pharmacokinetics of lurasidone.
 
 Paediatric population
-The pharmacokinetics of lurasidone in paediatric patients was investigated in 49 children aged 6-12 years and 56 adolescents aged 13-17 years.
-Lurasidone was administered as lurasidone hydrochloride at daily doses of either 20, 40, 80, 120 mg (6-17 years) or 160 mg (10-17 years only) for 7 days.
-There was no clear correlation between obtained plasma exposure and age or body weight.
+The pharmacokinetics of lurasidone in paediatric patients was evaluated in 47 children aged 6-12 years and 234 adolescents aged 13-17 years.
+Lurasidone was administered as lurasidone hydrochloride at daily doses of either 20, 40, 80, 120 mg (6-17 years) or 160 mg (10-17 years only) for up to 42 days.
+There was no clear correlation between obtained serum exposure and age or body weight.
 The pharmacokinetics of lurasidone in paediatric patients aged 6–17 years was generally comparable to those observed in adults.
 
 [Latuda 37 mg film-coated tablets]
 
 It was noted that Asian subjects had 1.5-fold increased exposure to lurasidone compared to Caucasian subjects.
 
+Lurasidone was administered as lurasidone hydrochloride at daily doses of either 20, 40, 80, 120 mg (6-17 years) or 160 mg (10-17 years only)up to 42 days.
+
 [Latuda 74 mg film-coated tablets]
 
-In vitro, lurasidone demonstrated no direct, or weak inhibition (direct or time-dependent)
-(IC50>5.9 μM) of the enzymes cytochrome P450 (CYP)1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A4.
+Lurasidone was administered as lurasidone hydrochloride at daily doses of either 20, 40, 80, 120 mg (6-17 years) or 160 mg (10-17 years only) up to 42 days.

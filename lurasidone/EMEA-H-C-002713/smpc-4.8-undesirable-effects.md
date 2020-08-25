@@ -7,46 +7,127 @@ The most common adverse drug reactions (ADRs) (≥ 10%) were akathisia and somno
 
 Tabulated summary of adverse reactions
 
-Adverse drug reactions (ADRs) based upon pooled data are shown by system, organ class and by preferred term are listed below.
+Adverse drug reactions (ADRs) based upon pooled data are shown by system, organ class and by preferred term are listed in Table 1 below.
 The incidence of ADRs reported in clinical trials is tabulated by frequency category.
-The following terms and frequencies are applied: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare
-(<1 /10,000) and not known (cannot be estimated from the available data).
-Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The following terms and frequencies are applied: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (<1 /10,000) and not known (cannot be estimated from the available data).
 
-Table 1
+Table 1: Adverse drug reactions (ADRs) Based Upon Pooled Data for Adults
 
 | System Organ Class | Very Common | Common | Uncommon | Rare | Frequency not known |
 | --- | --- | --- | --- | --- | --- |
-| Infections and infestations |  |  | Nasopharyngitis |  |  |
+| Infections and infestations |  |  | Nasopharyngit is |  |  |
 | Blood and lymphatic system disorders |  |  |  | Eosinophilia | Leukopenia**** Neutropenia**** Anemia**** |
-| Immune system disorders |  | Hypersensitivity |  |  |  |
-| Metabolism and nutrition disorders |  | Weight increased | Decreased appetite Blood glucose increased Hyponatraemia |  |  |
+| Immune system disorders |  | Hypersensitiv ity |  |  |  |
+| Metabolism and nutrition disorders |  | Weight increased | Decreased appetite Blood glucose increased Hyponatraemi a |  |  |
 | Psychiatric disorders |  | Insomnia Agitation Anxiety Restlessness | Nightmare Catatonia |  | Suicidal behaviour**** Panic attack**** Sleep disorder**** |
-| Nervous system disorders | Akathisia Somnolence* | Parkinsonism** Dizziness Dystonia*** Dyskinesia | Lethargy Dysarthria Tardive dyskinesia | Neuroleptic malignant syndrome (NMS) | Convulsion**** |
+| Nervous system disorders | Akathisia Somnolenc e* | Parkinsonism ** Dizziness Dystonia*** Dyskinesia | Lethargy Dysarthria Tardive dyskinesia | Neuroleptic malignant syndrome (NMS) | Convulsion**** |
 | Eye disorders |  |  | Blurred vision |  |  |
 | Ear and labyrinth disorders |  |  |  |  | Vertigo**** |
 | Cardiac disorders |  |  | Tachycardia |  | Angina**** AV block first degree**** Bradycardia**** |
 | Vascular disorders |  |  | Hypertension Hypotension Orthostatic hypotension Hot flush Blood pressure increased |  |  |
-| Gastrointestinal disorders |  | Nausea Vomiting Dyspepsia Salivary hypersecretion Dry mouth Upper abdominal pain Stomach discomfort | Flatulence |  | Diarrhoea**** Dysphagia**** Gastritis**** |
-| Hepatobiliary disorders |  |  | Alanine aminotransferase increased |  |  |
+| Gastrointestin al disorders |  | Nausea Vomiting Dyspepsia Salivary hypersecretio n Dry mouth Upper abdominal pain Stomach discomfort | Flatulence |  | Diarrhoea**** Dysphagia**** Gastritis**** |
+| Hepatobiliary disorders |  |  | Alanine aminotransfer ase increased |  |  |
 | Skin and subcutaneous tissue disorders |  | Rash Pruritus | Hyperhidrosis | Angioedema | Stevens-Johnson syndrome |
-| Musculoskeletal and connective tissue disorders |  | Musculoskeletal stiffness Blood creatine phosphokinase increase | Joint stiffness Myalgia Neck pain Back pain | Rhabdomyolysis |  |
+| Musculoskele tal and connective tissue disorders |  | Musculoskele tal stiffness Blood creatine phosphokinas e increase | Joint stiffness Myalgia Neck pain Back pain | Rhabdomyoly sis |  |
 | Renal and urinary disorders |  | Serum creatinine increased | Dysuria |  | Renal failure**** |
 | Pregnancy, puerperium and perinatal conditions |  |  |  |  | Drug withdrawal syndrome neonatal (see 4.6) |
-| Reproductive system and breast disorders |  |  | Blood prolactin increased |  | Breast enlargement**** Breast pain**** Galactorrhoea**** Erectile dysfunction**** Amenorrhoea**** Dysmenorrhoea**** |
-| General disorders and administration site conditions |  | Fatigue | Gait disturbance |  | Sudden death attributable to underlying cardiovascular disease observed during the clinical development programme**** |
+| Reproductive system and breast disorders |  |  | Blood prolactin increased |  | Breast enlargement**** Breast pain**** Galactorrhoea*** * Erectile dysfunction**** Amenorrhoea*** * Dysmenorrhoea* *** |
+| General disorders and administratio n site conditions |  | Fatigue | Gait disturbance |  | Sudden death attributable to underlying cardiovascular disease observed during the clinical development programme**** |
 
 *Somnolence includes adverse reaction terms: hypersomnia, hypersomnolence, sedation, and somnolence
 **Parkinsonism includes adverse reaction terms: bradykinesia, cogwheel rigidity, drooling, extrapyramidal disorder, hypokinesia, muscle rigidity, parkinsonism, psychomotor retardation, and tremor
 ***Dystonia includes adverse reaction terms: dystonia, oculogyric crisis, oromandibular dystonia, tongue spasm, torticollis, and trismus.
 ****ADRs noted in Phase 2 and 3 controlled and uncontrolled studies; however, the incidence of occurrence for these are too low to estimate frequencies.
-Description of selected adverse reactions
 
+Table 2: Adverse Drug Reactions (ADRs) for Adolescents
+
+| System Organ Class | Very Common | Common | Uncommon | Rare | Frequency not known |
+| --- | --- | --- | --- | --- | --- |
+| Infections and infestations |  |  | Nasopharyngitis Rhinitis Upper respiratory tract infection |  |  |
+| Blood and lymphatic system disorders |  |  | Neutropenia |  |  |
+| Immune System Disorders |  |  | Hypersensitivity |  |  |
+| Endocrine disorders |  | Hyperprolactinaemia (including blood prolactin increased) | Autoimmune thyroiditis Hyperandrogenism Hypothyroidism |  |  |
+| Metabolism and nutrition disorders |  | Decreased appetite Increased appetite | Hyperinsulinemia |  |  |
+| Psychiatric Disorders |  | Abnormal dreams Agitation Anxiety Depression Insomnia Psychotic disorder Schizophrenia Tension | Aggression Apathy Confusional state Depressed mood Dissociation Hallucination (auditory) |  |  |
+
+System Organ Very Common Uncommon Rare Frequency not
+Class Common known
+Hallucination
+(visual)
+Homicidal
+ideation
+Impulsive
+behaviour
+Initial insomnia
+Libido decreased
+Libido increased
+Listless
+Mental status
+changes
+Obsessive
+thoughts
+Panic Attack
+Psychomotor
+hyperactivity
+Restlessness
+Sleep disorder
+Suicidal ideation
+Terminal insomnia
+Thinking
+abnormal
+Nervous Akathisia Disturbance in Dizziness postural
+System Headache attention Dysgeusia
+Disorders Somnolence* Dizziness Hyperkinesia
+Dyskinesia Memory
+Dystonia*** impairment
+Parkinsonism** Migraine
+Paraesthesia
+Psychomotor
+hyperactivity
+Restless legs
+syndrome
+Tardive dyskinesia
+Tension headache
+Eye Disorders Accommodation
+disorder
+Vision blurred
+Ear and Hyperacusis
+labyrinth
+disorders
+Cardiac Tachycardia Palpitations
+disorders Supraventricular
+extrasystoles
+Vascular Orthostatic
+disorders hypotension
+Hypertension
+Respiratory, Oropharyngeal
+thoracic and pain
+mediastinal Dyspnoea
+disorders
+
+| System Organ Class | Very Common | Common | Uncommon | Rare | Frequency not known |
+| --- | --- | --- | --- | --- | --- |
+| Gastrointestinal disorders | Nausea | Constipation Dry mouth Salivary hypersecretion Vomiting | Abdominal discomfort Abdominal pain upper Aptyalism Diarrhoea Dyspepsia Lip dry Toothache |  |  |
+| Skin and subcutaneous tissue disorders |  | Hyperhidrosis | Alopecia Hair growth abnormal Rash Urticaria |  |  |
+| Musculoskeletal and connective tissue disorders |  | Muscle rigidity | Arthralgia Muscle tightness Musculoskeletal stiffness Myalgia Pain in extremity Pain in jaw |  |  |
+| Renal and urinary disorders |  |  | Bilirubinuria Dysuria Micturition disorder Polyuria Proteinuria Renal disorder |  |  |
+| Reproductive system and breast disorders |  | Erectile dysfunction | Amenorrhoea Breast pain Ejaculation disorder Galactorrhoea Gynaecomastia Menstruation irregular Oligomenorrhoea Sexual dysfunction |  |  |
+| Congenital, familial and genetic disorders |  |  | Tourette's disorder |  |  |
+| General disorders and administration site conditions |  | Asthenia Fatigue Irritability | Chills Gait disturbance Malaise Non-cardiac chest pain Pyrexia |  |  |
+| Investigations |  | Blood creatine phosphokinase increased C-reactive protein increased Weight decreased Weight increased | Alanine aminotransferase increased Anti-thyroid antibody positive Aspartate aminotransferase increased Blood alkaline phosphatase decreased Blood alkaline phosphokinase increased Blood cholesterol increased Blood glucose increased Blood insulin increased Blood testosterone decreased Blood thyroid stimulating hormone increased Blood triglycerides increased Electrocardiogram PR shortened Haemoglobin decreased High density lipoprotein decreased Low density lipoprotein decreased |  |  |
+| Injury, poisoning and procedural complications |  |  | Intentional overdose |  |  |
+
+*Somnolence includes the following adverse reactions observed in adolescents: hypersomnia, sedation, and somnolence. **Parkinsonism includes the following adverse reactions observed in adolescents: cogwheel rigidity, extrapyramidal disorder, hypokinesia, parkinsonism, and tremor.
+*** Dystonia includes the following adverse reactions observed in adolescents: dystonia, oculogyric crisis and torticollis.
+
+Description of selected adverse reactions
 Post marketing reports of clinically serious cases of skin and other hypersensitivity reactions have been reported in association with lurasidone treatment, including some reports of Stevens-Johnson syndrome.
 
 Events of interest to the class
-Extrapyramidal symptoms (EPS): In the short-term placebo controlled studies, the incidence of reported events related to EPS, excluding akathisia and restlessness, was 13.5% for lurasidone-treated subjects versus 5.8% for placebo-treated subjects.
+Extrapyramidal symptoms (EPS): In the adult short-term placebo-controlled studies, the incidence of reported events related to EPS, excluding akathisia and restlessness, was 13.5% for lurasidone-treated subjects versus 5.8% for placebo-treated subjects.
 The incidence of akathisia for lurasidone-treated subjects was 12.9% versus 3.0% for placebo-treated subjects.
+In the adolescent short-term placebo-controlled study, the incidence of reported events related to EPS, excluding akathisia, was 5.1% for lurasidone-treated subjects versus 1.8% for placebo-treated subjects.
+The incidence of akathisia for lurasidone-treated subjects was 8.9% versus 1.8% for placebo-treated subjects.
 
 Dystonia: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, difficulty swallowing, difficulty breathing, and/or protrusion of the tongue.
@@ -56,15 +137,91 @@ An elevated risk of acute dystonia is observed in males and younger age groups.
 Venous thromboembolism: Cases of venous thromboembolism, including cases of pulmonary embolism and cases of deep vein thrombosis have been reported with antipsychotic drugs -Frequency unknown.
 
 Reporting of suspected adverse reactions
-
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the following website: www.mhra.gov.uk/yellowcard.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [Latuda 37 mg film-coated tablets]
 
-The following terms and frequencies are applied: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1000 to < 1/100), rare (≥ 1/10,000 to < 1/1000), very rare
+Adverse drug reactions (ADRs) based upon pooled data are shown by system, organ class and by preferred term are listed below.
+The following terms and frequencies are applied: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1000 to < 1/100), rare (≥ 1/10,000 to < 1/1000), very rare (<1 /10,000) and not known (cannot be estimated from the available data).
+
+| System Organ Class | Very Common | Common | Uncommon | Rare | Frequency not known |
+| --- | --- | --- | --- | --- | --- |
+| Infections and infestations |  |  | Nasopharyngit is |  |  |
+| Blood and lymphatic system disorders |  |  |  | Eosinophilia | Leukopenia**** Neutropenia**** Anemia**** |
+| Immune system disorders |  | Hypersensitiv ity |  |  |  |
+| Metabolism and nutrition disorders |  | Weight increased | Decreased appetite Blood glucose increased Hyponatraemi a |  |  |
+| Psychiatric disorders |  | Insomnia Agitation Anxiety Restlessness | Nightmare Catatonia |  | Suicidal behaviour**** Panic attack**** Sleep disorder**** |
+| Nervous system disorders | Akathisia Somnolenc e* | Parkinsonism ** Dizziness Dystonia*** Dyskinesia | Lethargy Dysarthria Tardive dyskinesia | Neuroleptic malignant syndrome (NMS) | Convulsion**** |
+| Eye disorders |  |  | Blurred vision |  |  |
+| Ear and labyrinth disorders |  |  |  |  | Vertigo**** |
+| Cardiac disorders |  |  | Tachycardia |  | Angina**** AV block first degree**** Bradycardia**** |
+| Vascular disorders |  |  | Hypertension Hypotension Orthostatic hypotension Hot flush Blood pressure increased |  |  |
+| Gastrointestin al disorders |  | Nausea Vomiting Dyspepsia Salivary hypersecretio n Dry mouth Upper abdominal pain | Flatulence |  | Diarrhoea**** Dysphagia**** Gastritis**** |
+|  |  | Stomach discomfort |  |  |  |
+| Hepatobiliary disorders |  |  | Alanine aminotransfer ase increased |  |  |
+| Skin and subcutaneous tissue disorders |  | Rash Pruritus | Hyperhidrosis | Angioedema | Stevens-Johnson syndrome |
+| Musculoskele tal and connective tissue disorders |  | Musculoskele tal stiffness Blood creatine phosphokinas e increase | Joint stiffness Myalgia Neck pain Back pain | Rhabdomyoly sis |  |
+| Renal and urinary disorders |  | Serum creatinine increased | Dysuria |  | Renal failure**** |
+| Pregnancy, puerperium and perinatal conditions |  |  |  |  | Drug withdrawal syndrome neonatal (see 4.6) |
+| Reproductive system and breast disorders |  |  | Blood prolactin increased |  | Breast enlargement**** Breast pain**** Galactorrhoea*** * Erectile dysfunction**** Amenorrhoea*** * Dysmenorrhoea* *** |
+| General disorders and administratio n site conditions |  | Fatigue | Gait disturbance |  | Sudden death attributable to underlying cardiovascular disease observed during the clinical development programme**** |
+
+| System Organ Class | Very Common | Common | Uncommon | Rare | Frequency not known |
+| --- | --- | --- | --- | --- | --- |
+| Infections and infestations |  |  | Nasopharyngitis Rhinitis Upper respiratory tract infection |  |  |
+| Blood and lymphatic system disorders |  |  | Neutropenia |  |  |
+| Immune System Disorders |  |  | Hypersensitivity |  |  |
+| Endocrine disorders |  | Hyperprolactinaemia (including blood prolactin increased) | Autoimmune thyroiditis Hyperandrogenism Hypothyroidism |  |  |
+| Metabolism and nutrition disorders |  | Decreased appetite Increased appetite | Hyperinsulinaemia |  |  |
+| Psychiatric Disorders |  | Abnormal dreams Agitation Anxiety Depression Insomnia Psychotic disorder Schizophrenia Tension | Aggression Apathy Confusional state Depressed mood Dissociation Hallucination (auditory) Hallucination (visual) Homicidal ideation Impulsive behaviour Initial insomnia Libido decreased Libido increased Listless Mental status changes Obsessive thoughts Panic Attack Psychomotor hyperactivity Restlessness Sleep disorder Suicidal ideation Terminal insomnia Thinking abnormal |  |  |
+| Nervous System Disorders | Akathisia Headache Somnolence* | Disturbance in attention Dizziness Dyskinesia Dystonia*** Parkinsonism** | Dizziness postural Dysgeusia Hyperkinesia Memory impairment Migraine Paraesthesia Psychomotor hyperactivity Restless legs syndrome Tardive dyskinesia Tension headache |  |  |
+| Eye Disorders |  |  | Accommodation disorder Vision blurred |  |  |
+| Ear and labyrinth disorders |  |  | Hyperacusis |  |  |
+| Cardiac disorders |  | Tachycardia | Palpitations Supraventricular extrasystoles |  |  |
+| Vascular disorders |  |  | Orthostatic hypotension Hypertension |  |  |
+| Respiratory, thoracic and mediastinal disorders |  |  | Oropharyngeal pain Dyspnoea |  |  |
+| Gastrointestinal disorders | Nausea | Constipation Dry mouth Salivary hypersecretion Vomiting | Abdominal discomfort Abdominal pain upper Aptyalism Diarrhoea Dyspepsia Lip dry Toothache |  |  |
+| Skin and subcutaneous tissue disorders |  | Hyperhidrosis | Alopecia Hair growth abnormal Rash Urticaria |  |  |
+| Musculoskeletal and connective tissue disorders |  | Muscle rigidity | Arthralgia Muscle tightness Musculoskeletal stiffness Myalgia Pain in extremity Pain in jaw |  |  |
+| Renal and urinary disorders |  |  | Bilirubinuria Dysuria Micturition disorder Polyuria Proteinuria Renal disorder |  |  |
+| Reproductive system and breast disorders |  | Erectile dysfunction | Amenorrhoea Breast pain Ejaculation disorder Galactorrhoea Gynaecomastia Menstruation irregular Oligomenorrhoea Sexual dysfunction |  |  |
+| Congenital, familial and genetic disorders |  |  | Tourette's disorder |  |  |
+| General disorders and administration site conditions |  | Asthenia Fatigue Irritability | Chills Gait disturbance Malaise Non-cardiac chest pain Pyrexia |  |  |
+
+| System Organ Class | Very Common | Common | Uncommon | Rare | Frequency not known |
+| --- | --- | --- | --- | --- | --- |
+| Investigations |  | Blood creatine phosphokinase increased C-reactive protein increased Weight decreased Weight increased | Alanine aminotransferase increased Anti-thyroid antibody positive Aspartate aminotransferase increased Blood alkaline phosphatase decreased Blood alkaline phosphokinase increased Blood cholesterol increased Blood glucose increased Blood insulin increased Blood testosterone decreased Blood thyroid stimulating hormone increased Blood triglycerides increased Electrocardiogram PR shortened Haemoglobin decreased High density lipoprotein decreased Low density lipoprotein decreased |  |  |
+| Injury, poisoning and procedural complications |  |  | Intentional overdose |  |  |
 
 [Latuda 74 mg film-coated tablets]
 
-(all sentences already above)
+The following terms and frequencies are applied: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1000 to < 1/100), rare
+(≥ 1/10,000 to < 1/1000), very rare (<1 /10,000) and not known (cannot be estimated from the available data).
+
+| System Organ Class | Very Common | Common | Uncommon | Rare | Frequency not known |
+| --- | --- | --- | --- | --- | --- |
+| Infections and infestations |  |  | Nasopharyngitis Rhinitis Upper respiratory tract infection |  |  |
+| Blood and lymphatic system disorders |  |  | Neutropenia |  |  |
+| Immune System Disorders |  |  | Hypersensitivity |  |  |
+| Endocrine disorders |  | Hyperprolactinaemia (including blood prolactin increased) | Autoimmune thyroiditis Hyperandrogenism Hypothyroidism |  |  |
+| Metabolism and nutrition disorders |  | Decreased appetite Increased appetite | Hyperinsulinaemia |  |  |
+| Psychiatric Disorders |  | Abnormal dreams Agitation Anxiety Depression Insomnia Psychotic disorder Schizophrenia Tension | Aggression Apathy Confusional state Depressed mood Dissociation Hallucination (auditory) Hallucination (visual) Homicidal ideation Impulsive behaviour Initial insomnia Libido decreased Libido increased Listless Mental status changes Obsessive thoughts Panic Attack Psychomotor hyperactivity Restlessness Sleep disorder Suicidal ideation Terminal insomnia Thinking abnormal |  |  |
+| Nervous System Disorders | Akathisia Headache Somnolence* | Disturbance in attention Dizziness Dyskinesia Dystonia*** Parkinsonism** | Dizziness postural Dysgeusia Hyperkinesia Memory impairment Migraine Paraesthesia Psychomotor hyperactivity Restless legs syndrome Tardive dyskinesia Tension headache |  |  |
+| Eye Disorders |  |  | Accommodation disorder Vision blurred |  |  |
+| Ear and labyrinth disorders |  |  | Hyperacusis |  |  |
+| Cardiac disorders |  | Tachycardia | Palpitations Supraventricular extrasystoles |  |  |
+| Vascular disorders |  |  | Orthostatic hypotension Hypertension |  |  |
+| Respiratory, thoracic and mediastinal disorders |  |  | Oropharyngeal pain Dyspnoea |  |  |
+| Gastrointestinal disorders | Nausea | Constipation Dry mouth Salivary hypersecretion Vomiting | Abdominal discomfort Abdominal pain upper Aptyalism Diarrhoea Dyspepsia Lip dry Toothache |  |  |
+| Skin and subcutaneous tissue disorders |  | Hyperhidrosis | Alopecia Hair growth abnormal Rash Urticaria |  |  |
+| Musculoskeletal and connective tissue disorders |  | Muscle rigidity | Arthralgia Muscle tightness Musculoskeletal stiffness Myalgia Pain in extremity Pain in jaw |  |  |
+| Renal and urinary disorders |  |  | Bilirubinuria Dysuria Micturition disorder Polyuria Proteinuria Renal disorder |  |  |
+| Reproductive system and breast disorders |  | Erectile dysfunction | Amenorrhoea Breast pain Ejaculation disorder Galactorrhoea Gynaecomastia Menstruation irregular Oligomenorrhoea Sexual dysfunction |  |  |
+| Congenital, familial and genetic disorders |  |  | Tourette's disorder |  |  |
+| General disorders and administration site conditions |  | Asthenia Fatigue Irritability | Chills Gait disturbance Malaise Non-cardiac chest pain Pyrexia |  |  |
+| Investigations |  | Blood creatine phosphokinase increased C-reactive protein increased Weight decreased Weight increased | Alanine aminotransferase increased Anti-thyroid antibody positive Aspartate aminotransferase increased Blood alkaline phosphatase decreased Blood alkaline phosphokinase increased Blood cholesterol increased Blood glucose increased Blood insulin increased Blood testosterone decreased Blood thyroid stimulating hormone increased Blood triglycerides increased Electrocardiogram PR shortened Haemoglobin decreased High density lipoprotein decreased Low density lipoprotein decreased |  |  |
+| Injury, poisoning and procedural complications |  |  | Intentional overdose |  |  |
+
+Dystonic symptoms include; spasm of the neck muscles, sometimes progressing to tightness of the throat, difficulty swallowing, difficulty breathing, and/or protrusion of the tongue.

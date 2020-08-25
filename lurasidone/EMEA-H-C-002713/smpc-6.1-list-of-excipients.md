@@ -6,9 +6,7 @@ Mannitol (E 421)
 Starch, pregelatinised
 Croscarmellose sodium (E468)
 Hypromellose 2910 (E 464)
-Magnesium stearate (E 470b)
-
-Tablet coating
+Magnesium stearate (E 470b)Tablet coating
 
 Hypromellose 2910 (E 464)
 Titanium dioxide (E 171)
@@ -17,7 +15,9 @@ Carnauba wax (E 903)
 
 [Latuda 37 mg film-coated tablets]
 
-(all sentences already above)
+Magnesium stearate (E 470b)
+
+Tablet coating
 
 [Latuda 74 mg film-coated tablets]
 
