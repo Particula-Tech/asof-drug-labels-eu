@@ -161,11 +161,7 @@ Table 6: Median changes from double-blind baseline in lipid laboratory tests at 
 | Total Cholesterol to HDL ratio | 3.1 (2.5, 3.7) | 0.2 (-0.1, 0.7)a | 0.4 (0.0, 1.0)b |
 
 TAF = tenofovir alafenamide
-TDF = tenofovir disoproxil
-
-a. P-value was calculated for change from double blind baseline at Week 96, from Wilcoxon Signed Rank test and
-
-was statistically significant (p < 0.001).
+TDF = tenofovir disoproxil a. P-value was calculated for change from double blind baseline at Week 96, from Wilcoxon Signed Rank test and was statistically significant (p < 0.001).
 b. P-value was calculated for change from double blind baseline at Week 144, from Wilcoxon Signed Rank test and was statistically significant (p < 0.001).
 
 Virologically suppressed adult patients in Study 4018
@@ -204,6 +200,7 @@ b. As determined by the modified US FDA-defined snapshot algorithm.
 c. No patient discontinued treatment due to lack of efficacy.
 d. Adjusted by baseline age groups (< 50, ≥ 50 years) and baseline HBeAg status strata.
 e. Includes patients who discontinued for reasons other than an AE, death or lack of efficacy, e.g., withdrew consent, loss to follow-up, etc.
+
 Table 8: Additional efficacy parameters at Week 48a
 
 |  | TAF (N=243) | TDF (N=245) |
@@ -220,10 +217,8 @@ Table 8: Additional efficacy parameters at Week 48a
 TDF = tenofovir disoproxil
 TAF = tenofovir alafenamide a. Missing = failure analysis b. The population used for analysis of ALT normalization included only patients with ALT above upper limit of normal (ULN) of the central laboratory range (> 43 U/L males 18 to < 69 years and > 35 U/L males ≥ 69 years; > 34 U/L females 18 to < 69 years and > 32 U/L females ≥ 69 years) at baseline.
 c. Proportion of patients at Week 48: TAF, 16/32; TDF, 7/19.
-d. The population used for analysis of ALT normalization included only patients with ALT above ULN of the 2018 American Association of the Study of Liver Diseases (AASLD) criteria (35 U/L males and 25 U/L females) at baseline.
-e. Proportion of patients at Week 48: TAF, 26/52; TDF, 14/53.
+d. The population used for analysis of ALT normalization included only patients with ALT above ULN of the 2018 American Association of the Study of Liver Diseases (AASLD) criteria (35 U/L males and 25 U/L females) at baseline. e. Proportion of patients at Week 48: TAF, 26/52; TDF, 14/53.
 f. The population used for serology analysis included only patients with antigen (HBeAg) positive and anti-body (HBeAb) negative or missing at baseline.
-
 Changes in bone mineral density in Study 4018
 The mean percentage change in BMD from baseline to Week 48 as assessed by DXA was +1.7% with tenofovir alafenamide compared to −0.1% with tenofovir disoproxil at the lumbar spine and +0.7% compared to −0.5% at the total hip.
 BMD declines of greater than 3% at the lumbar spine were experienced by 4% of tenofovir alafenamide patients and 17% of tenofovir disoproxil patients at Week 48.
@@ -236,6 +231,7 @@ Further, median percentage decreases from baseline were observed in the tenofovi
 
 Changes in lipid laboratory tests in Study 4018
 Changes from baseline to Week 48 in total cholesterol, HDL-cholesterol, LDL-cholesterol, triglycerides, and total cholesterol to HDL ratio among subjects treated with tenofovir alafenamide and tenofovir disoproxil are presented in Table 9.
+
 Table 9: Median changes in lipid laboratory tests at Week 48
 
 |  | TAF (N=243) |  | TDF (N=245) |  |

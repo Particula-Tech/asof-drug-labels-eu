@@ -21,6 +21,7 @@ In vivo, tenofovir alafenamide is hydrolysed within cells to form tenofovir (maj
 
 In vitro, tenofovir alafenamide is not metabolised by CYP1A2, CYP2C8, CYP2C9, CYP2C19, or CYP2D6.
 Tenofovir alafenamide is minimally metabolised by CYP3A4.
+
 Elimination
 
 Renal excretion of intact tenofovir alafenamide is a minor pathway with < 1% of the dose eliminated in urine.

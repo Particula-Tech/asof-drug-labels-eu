@@ -38,6 +38,9 @@ Nephrotoxicity
 
 A potential risk of nephrotoxicity resulting from chronic exposure to low levels of tenofovir due to dosing with tenofovir alafenamide cannot be excluded (see section 5.3).
 
+It is recommended that renal function is assessed in all patients prior to, or when initiating, therapy with Vemlidy and that it is also monitored during therapy in all patients as clinically appropriate.
+In patients who develop clinically significant decreases in renal function, or evidence of proximal renal tubulopathy, discontinuation of Vemlidy should be considered.
+
 Patients co-infected with HBV and hepatitis C or D virus
 
 There are no data on the safety and efficacy of Vemlidy in patients co-infected with hepatitis C or D virus.
@@ -47,6 +50,7 @@ Hepatitis B and HIV co-infection
 
 HIV antibody testing should be offered to all HBV infected patients whose HIV-1 infection status is unknown before initiating therapy with Vemlidy.
 In patients who are co-infected with HBV and HIV, Vemlidy should be co-administered with other antiretroviral agents to ensure that the patient receives an appropriate regimen for treatment of HIV (see section 4.5).
+
 Co-administration with other medicinal products
 
 Vemlidy should not be co-administered with medicinal products containing tenofovir alafenamide, tenofovir disoproxil or adefovir dipivoxil.
@@ -61,3 +65,7 @@ Lactose intolerance
 
 Vemlidy contains lactose monohydrate.
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+
+Excipients
+
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.

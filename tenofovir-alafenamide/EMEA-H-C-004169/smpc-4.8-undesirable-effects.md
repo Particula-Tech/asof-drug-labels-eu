@@ -50,9 +50,9 @@ In the open label phase, median (Q1, Q3) change from Week 96 to Week 144 in tota
 In Study 4018, median changes in fasting lipid parameters from baseline to Week 48 were observed in both treatment groups.
 In the group that switched from tenofovir disoproxil to tenofovir alafenamide, increases in median fasting total cholesterol, LDL, HDL, and triglycerides were observed, while the group continuing treatment with tenofovir disoproxil demonstrated reductions in median fasting total cholesterol, HDL, and triglycerides, and a minimal median increase in LDL (p < 0.001 for the difference between treatment groups in all parameters).
 Median (Q1, Q3) change from baseline at Week 48 in total cholesterol to HDL ratio was 0.2 (-0.1, 0.5) in the tenofovir alafenamide group and 0.0 (-0.3, 0.3) in the tenofovir disoproxil group (p < 0.001 for the difference between treatment groups).
+
 Metabolic parameters
 Body weight and levels of blood lipids and glucose may increase during therapy.
-
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

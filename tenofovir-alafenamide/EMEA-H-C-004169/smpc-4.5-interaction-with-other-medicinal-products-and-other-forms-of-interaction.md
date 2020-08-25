@@ -25,9 +25,9 @@ It is not an inhibitor or inducer of CYP3A in vivo.
 Tenofovir alafenamide is not an inhibitor of human uridine diphosphate glucuronosyltransferase (UGT) 1A1 in vitro.
 It is not known whether tenofovir alafenamide is an inhibitor of other
 UGT enzymes.
-
 Drug interaction information for Vemlidy with potential concomitant medicinal products is summarised in Table 1 below (increase is indicated as “↑”, decrease as “↓”, no change as “↔”; twice daily as “b.i.d.”, single dose as “s.d.”, once daily as “q.d.”; and intravenously as “IV”).
 The drug interactions described are based on studies conducted with tenofovir alafenamide, or are potential drug interactions that may occur with Vemlidy.
+
 Table 1: Interactions between Vemlidy and other medicinal products
 
 | Medicinal product by therapeutic areas | Effects on drug levels.a,b Mean ratio (90% confidence interval) for AUC, Cmax, Cmin | Recommendation concerning co-administration with Vemlidy |
