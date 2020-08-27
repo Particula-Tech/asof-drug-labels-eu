@@ -2,8 +2,8 @@
 
 Contraception in males and females
 
-Both sexually active men and women should use effective methods of contraception during treatment with nelarabine and for at least three months following cessation of treatment.
-
+Both sexually active men and women should use effective methods of contraception during treatment with nelarabine.
+Men with partners who are pregnant or could become pregnant should use condoms during treatment with nelarabine and for at least three months following cessation of treatment.
 Pregnancy
 
 There are no or limited amount of data from the use of nelarabine in pregnant women.

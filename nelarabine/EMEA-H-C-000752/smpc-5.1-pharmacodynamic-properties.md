@@ -12,7 +12,7 @@ In vitro, T-cells are more sensitive than B-cells to the cytotoxic effects of ne
 
 Clinical efficacy and data
 
-Adult studies
+Adult clinical study in relapsed or refractory T-ALL and T-LBL
 In an open-label study carried out by the Cancer and Leukaemia Group B and the Southwest Oncology Group, the safety and efficacy of nelarabine were evaluated in 39 adults with T-cell acute lymphoblastic leukaemia (T-ALL) or lymphoblastic lymphoma (T-LBL).
 Twenty–eight of the 39 adults had relapsed or were refractory to at least two prior induction regimens and aged between 16 to 65 years of age (mean 34 years).
 Nelarabine at a dose of 1500 mg/m2/day was administered intravenously over two hours on days 1, 3 and 5 of a 21 day cycle.
@@ -24,7 +24,7 @@ Duration of response (in both classifications of response (n=5) ranged between 1
 Median overall survival was 20.6 weeks [95 % CI: 10.4–36.4].
 Survival at one year was 29 % [95 % CI: 12 %–45 %].
 
-Paediatric studies
+Paediatric clinical study in relapsed or refractory T-ALL and T-LBL
 In an open-label, multicenter study carried out by Childrens Oncology Group, nelarabine was administered intravenously over 1 hour for 5 days to 151 patients ≤ 21 years of age, 149 of whom had relapsed or refractory T-cell acute lymphoblastic leukaemia (T-ALL) or T-cell lymphoblastic lymphoma (T-LBL).
 Eighty-four (84) patients, 39 of whom had received two or more prior induction regimens and 31 whom had received one prior induction regimen, were treated with 650 mg/m2/day of nelarabine administered intravenously over 1 hour daily for 5 consecutive days repeated every 21 days.
 
@@ -34,7 +34,7 @@ Duration of response in both classifications of response ranged between 4.7 and 
 Thirteen (42 %) of the 31 patients treated with one prior induction regimen achieved a complete response overall.
 Nine of these 31 patients failed to respond to prior induction (refractory patients).
 Four (44 %) of the nine refractory patients experienced a complete response to nelarabine.
+
 This medicinal product has been authorised under “exceptional circumstances”.
 This means that due to the rarity of the disease it has not been possible to obtain complete information on this medicinal product.
-
 The European Medicines Agency will review any new information which may become available every year and this SmPC will be updated as necessary.
