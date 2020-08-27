@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Immunosuppressants, interleukin inhibitors, ATC code: Not yet assigned
+Pharmacotherapeutic group: Immunosuppressants, interleukin inhibitors, ATC code: L04AC18
 
 Mechanism of action
 
@@ -23,7 +23,7 @@ Overall, subjects had a median baseline PASI score of 17.8, a median BSA of 20.0
 Baseline sPGA score was severe in 19.3% of subjects and moderate in 80.7% of subjects.
 A total of 9.8% of study subjects had a history of diagnosed psoriatic arthritis.
 
-Across all studies, 30.9% of subjects were naïve to any systemic therapy (including non-biologic and biologic), 38.1% had received prior phototherapy or photochemotherapy, 48.3% had received prior non-biologic systemic therapy, 42.1% had received prior biologic therapy, and 23.7% had received at least one anti-TNF alpha agent for the treatment of psoriasis.
+Across all studies, 30.9% of subjects were naïve to any systemic therapy (including non-biologic and biologic), 38.1% had received prior phototherapy or photochemotherapy, 48.3% had received prior non‐biologic systemic therapy, 42.1% had received prior biologic therapy, and 23.7% had received at least one anti-TNF alpha agent for the treatment of psoriasis.
 
 ULTIMMA-1 and ULTIMMA-2
 
@@ -63,25 +63,25 @@ Figure 1: Time course of mean percent change from baseline of PASI in ULTIMMA-1 
 
 0
 
--10
+‐10
 
--20
+‐20
 
--30
+‐30
 RZB
--40
+‐40
 UST
--50
+‐50
 PBO
--60
+‐60
 
--70
+‐70
 
--80
+‐80
 
--90
+‐90
 
--100
+‐100
 0 4 8 12 16 22 28 34 40 46 52
 
 Weeks
@@ -118,13 +118,18 @@ IMMHANCE
 
 IMMHANCE enrolled 507 subjects (407 randomised to risankizumab 150 mg and 100 to placebo).
 Subjects received treatment at week 0, week 4 and every 12 weeks thereafter.
-Subjects who were originally on risankizumab and had a sPGA response of clear or almost clear at week 28 were re-randomised to continue risankizumab every 12 weeks or have treatment withdrawn.
+Subjects who were originally on risankizumab and had a sPGA response of clear or almost clear at week 28 were re-randomised to continue risankizumab every 12 weeks through week 88 (with follow-up 16 weeks after last risankizumab dose) or have treatment withdrawn.
 
 At week 16, risankizumab was superior to placebo on the co-primary endpoints of sPGA of clear or almost clear (83.5% risankizumab vs 7.0% placebo) and PASI 90 (73.2% risankizumab vs 2.0% placebo).
 Of the 31 subjects from the IMMHANCE study with latent tuberculosis (TB) who did not receive prophylaxis during the study, none developed active TB during the mean follow-up of 55 weeks on risankizumab.
 
 Among subjects with sPGA of clear or almost clear at week 28 in IMMHANCE, 81.1% (90/111) of subjects re-randomised to continued treatment with risankizumab maintained this response at week 104 compared to 7.1% (16/225) who were re-randomised to withdrawal from risankizumab.
 Of these subjects, 63.1% (70/111) of subjects re-randomised to continued treatment with risankizumab achieved a sPGA clear response at week 104 compared to 2.2% (5/225) who were re-randomised to withdrawal from risankizumab.
+
+Among subjects who achieved sPGA of clear or almost clear at week 28 and relapsed to sPGA of moderate or severe following withdrawal from risankizumab, 83.7% (128/153) regained sPGA of clear or almost clear after 16 weeks of retreatment.
+Loss of sPGA of clear or almost clear was observed as early as 12 weeks after a missed dose.
+Of those subjects who were re-randomised to withdraw from treatment, 80.9% (182/225) relapsed and the median time to relapse was 295 days.
+No characteristics were identified to predict the time to loss of response or likelihood of regaining response at the individual patient level.
 
 IMMVENT
 
