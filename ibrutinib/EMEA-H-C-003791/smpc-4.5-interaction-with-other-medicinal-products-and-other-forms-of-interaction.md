@@ -4,7 +4,6 @@ Ibrutinib is primarily metabolised by cytochrome P450 enzyme 3A4 (CYP3A4).
 
 Agents that may increase ibrutinib plasma concentrations
 Concomitant use of IMBRUVICA and medicinal products that strongly or moderately inhibit CYP3A4 can increase ibrutinib exposure and strong CYP3A4 inhibitors should be avoided.
-
 Strong CYP3A4 inhibitors
 Co-administration of ketoconazole, a very strong CYP3A4 inhibitor, in 18 fasted healthy subjects, increased exposure (Cmax and AUC) of ibrutinib by 29- and 24-fold, respectively.
 Simulations using fasted conditions suggested that the strong CYP3A4 inhibitor clarithromycin may increase the AUC of ibrutinib by a factor of 14.

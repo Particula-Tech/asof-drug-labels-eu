@@ -54,6 +54,7 @@ Cases of ILD have been reported in patients treated with IMBRUVICA.
 Monitor patients for pulmonary symptoms indicative of ILD.
 If symptoms develop, interrupt IMBRUVICA and manage ILD appropriately.
 If symptoms persist, consider the risks and benefits of IMBRUVICA treatment and follow the dose modification guidelines.
+
 Cardiac arrhythmia and cardiac failure
 Atrial fibrillation, atrial flutter, and cases of ventricular tachyarrhythmia and cardiac failure have been reported in patients treated with IMBRUVICA.
 Cases of atrial fibrillation and atrial flutter have been reported particularly in patients with cardiac risk factors, hypertension, acute infections, and a previous history of atrial fibrillation.
@@ -70,8 +71,8 @@ Patients should be monitored for signs and symptoms of cardiac failure during IM
 In some of these cases cardiac failure resolved or improved after IMBRUVICA withdrawal or dose reduction.
 
 Cerebrovascular accidents
-Cases of cerebrovascular accident, transient ischaemic attack and ischaemic stroke including fatalities have been reported with the use of ibrutinib, with and without concomitant atrial fibrillation and/or hypertension.
-Latency from the initiation of treatment with ibrutinib to the onset of ischaemic central nervous vascular conditions was in the most cases after several months (more than 1 month in 78% and more than 6 months in 44% of cases) emphasising the need for regular monitoring of patients (please see section 4.4 Cardiac arrhythmia and Hypertension and section 4.8).
+Cases of cerebrovascular accident, transient ischaemic attack and ischaemic stroke including fatalities have been reported in patients treated with IMBRUVICA, with and without concomitant atrial fibrillation and/or hypertension.
+Among cases with reported latency, the initiation of treatment with IMBRUVICA to the onset of ischaemic central nervous vascular conditions was in the most cases after several months (more than 1 month in 78% and more than 6 months in 44% of cases) emphasising the need for regular monitoring of patients (please see section 4.4 Cardiac arrhythmia and Hypertension and section 4.8).
 
 Tumour lysis syndrome
 Tumour lysis syndrome has been reported with IMBRUVICA therapy.

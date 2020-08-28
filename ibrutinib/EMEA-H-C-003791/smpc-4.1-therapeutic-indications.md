@@ -2,7 +2,7 @@
 
 IMBRUVICA as a single agent is indicated for the treatment of adult patients with relapsed or refractory mantle cell lymphoma (MCL).
 
-IMBRUVICA as a single agent or in combination with obinutuzumab is indicated for the treatment of adult patients with previously untreated chronic lymphocytic leukaemia (CLL) (see section 5.1).
+IMBRUVICA as a single agent or in combination with rituximab or obinutuzumab is indicated for the treatment of adult patients with previously untreated chronic lymphocytic leukaemia (CLL) (see section 5.1).
 
 IMBRUVICA as a single agent or in combination with bendamustine and rituximab (BR) is indicated for the treatment of adult patients with CLL who have received at least one prior therapy.
 

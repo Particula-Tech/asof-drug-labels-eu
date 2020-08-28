@@ -7,12 +7,11 @@ MCL
 The recommended dose for the treatment of MCL is 560 mg (four capsules) once daily.
 
 CLL and WM
-The recommended dose for the treatment of CLL, either as a single agent or in combination, is 420 mg (three capsules) once daily (for details of the combination regimen, see section 5.1).
-The recommended dose for the treatment of WM is 420 mg (three capsules) once daily.
+The recommended dose for the treatment of CLL and WM, either as a single agent or in combination, is 420 mg (three capsules) once daily (for details of the combination regimens, see section 5.1).
 
 Treatment should continue until disease progression or no longer tolerated by the patient.
 
-When administering IMBRUVICA in combination with anti-CD20 therapies, it is recommended to administer IMBRUVICA prior to rituximab or obinutuzumab when given on the same day.
+When administering IMBRUVICA in combination with anti-CD20 therapy, it is recommended to administer IMBRUVICA prior to anti-CD20 therapy when given on the same day.
 Dose adjustments
 Moderate and strong CYP3A4 inhibitors increase the exposure of ibrutinib (see sections 4.4 and 4.5).
 
@@ -74,8 +73,7 @@ IMBRUVICA must not be taken with grapefruit juice or Seville oranges (see sectio
 
 The recommended dose for the treatment of MCL is 560 mg once daily.
 
-The recommended dose for the treatment of CLL, either as a single agent or in combination, is 420 mg once daily (for details of the combination regimen, see section 5.1).
-The recommended dose for the treatment of WM is 420 mg once daily.
+The recommended dose for the treatment of CLL and WM, either as a single agent or in combination, is 420 mg once daily (for details of the combination regimens, see section 5.1).
 
 The dose of ibrutinib should be reduced to 280 mg once daily when used concomitantly with moderate CYP3A4 inhibitors.
 
