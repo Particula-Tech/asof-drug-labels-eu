@@ -18,6 +18,7 @@ In contrast, the 3-factor PCC had a greater and more rapid overall effect on rev
 The activated partial thomboplastin time (aPTT) and HepTest are also prolonged dose-dependently; however, they are not recommended to assess the pharmacodynamic effect of rivaroxaban.
 There is no need for monitoring of coagulation parameters during treatment with rivaroxaban in clinical routine.
 However, if clinically indicated, rivaroxaban levels can be measured by calibrated quantitative anti-factor-Xa tests (see section 5.2).
+
 Clinical efficacy and safety
 ACS
 The rivaroxaban clinical programme was designed to demonstrate the efficacy of Xarelto for the prevention of cardiovascular (CV) death, myocardial infarction (MI) or stroke in subjects with a recent ACS (ST-elevation myocardial infarction [STEMI], non- ST-elevation myocardial infarction [NSTEMI] or unstable angina [UA]).
@@ -49,16 +50,13 @@ Table 4: Efficacy results from phase III ATLAS ACS 2 TIMI 51
 | All-cause death, MI or stroke | 320 (6.3%) 0.83 (0.72, 0.97) p = 0.016* | 386 (7.5%) |
 | Cardiovascular death | 94 (1.8%) 0.66 (0.51, 0.86) p = 0.002** | 143 (2.8%) |
 | All-cause death | 103 (2.0%) 0.68 (0.53, 0.87) p = 0.002** | 153 (3.0%) |
-| MI | 205 (4.0%) | 229 (4.5%) |
-| Treatment dose | Xarelto 2.5 mg, twice daily, N=5,114 n (%) Hazard Ratio (HR) (95% CI) p-value b) | Placebo N=5,113 n (%) |
-|  | 0.90 (0.75, 1.09) p = 0.270 |  |
+| MI | 205 (4.0%) 0.90 (0.75, 1.09) p = 0.270 | 229 (4.5%) |
 | Stroke | 46 (0.9%) 1.13 (0.74, 1.73) p = 0.562 | 41 (0.8%) |
 | Stent thrombosis | 61 (1.2%) 0.70 (0.51, 0.97) p = 0.033** | 87 (1.7%) |
 
 a) modified intent to treat analysis set (intent to treat total analysis set for stent thrombosis) b) vs. placebo; Log-Rank p-value
 * statistically superior
 ** nominally significant
-
 Table 5: Efficacy results from phase III ATLAS ACS 2 TIMI 51 in patients undergoing PCI
 
 | Study population | Patients with recent acute coronary syndrome undergoing PCI a) |  |
@@ -73,6 +71,7 @@ Table 5: Efficacy results from phase III ATLAS ACS 2 TIMI 51 in patients undergo
 
 a) modified intent to treat analysis set (intent to treat total analysis set for stent thrombosis) b) vs. placebo; Log-Rank p-value
 ** nominally significant
+
 Table 6: Safety results from phase III ATLAS ACS 2 TIMI 51
 
 | Study population | Patients with recent acute coronary syndrome a) |  |
@@ -87,7 +86,6 @@ Table 6: Safety results from phase III ATLAS ACS 2 TIMI 51
 
 a) safety population, on treatment b) vs. placebo; Log-Rank p-value
 * statistically significant
-
 Figure 1: Time to first occurrence of primary efficacy endpoint (CV death, MI or stroke)
 
 15
@@ -135,6 +133,9 @@ There was a significant increase of the primary safety outcome (modified ISTH ma
 For the primary efficacy outcome, the observed benefit of Xarelto 2.5 mg twice daily plus ASA
 100 mg once daily compared with ASA 100 mg once daily was HR=0.89 (95% CI 0.7-1.1) in patients ≥75 years (incidence: 6.3% vs 7.0%) and HR=0.70 (95% CI 0.6-0.8) in patients <75 years (3.6% vs 5.0%).
 For modified ISTH major bleeding, the observed risk increase was HR=2.12 (95% CI 1.5-3.0) in patients ≥75 years (5.2% vs 2.5%) and HR=1.53 (95% CI 1.2-1.9) in patients <75 years (2.6% vs 1.7%).
+
+The use of pantoprazole 40 mg once daily in addition to antithrombotic study medication in patients with no clinical need for a proton pump inhibitor showed no benefit in the prevention of upper gastrointestinal events (i.e. composite of upper gastrointestinal bleeding, upper gastrointestinal ulceration, or upper gastrointestinal obstruction or perforation); the incidence rate of upper gastrointestinal events was 0.39/100 patient-years in the pantoprazole 40 mg once daily group and 0.44/100 patient-years in the placebo once daily group.
+
 Table 7: Efficacy results from phase III COMPASS
 
 | Study Population | Patients with CAD/PAD a) |  |  |  |  |  |
@@ -159,12 +160,12 @@ Table 8: Safety results from phase III COMPASS
 | Treatment Dose | Xarelto 2.5 mg bid in combination with ASA 100 mg od, N=9152 n (Cum. risk %) | ASA 100 mg od N=9126 n (Cum.risk %) | Hazard Ratio (95 % CI) p-value b) |
 | Modified ISTH major bleeding | 288 (3.9%) | 170 (2.5%) | 1.70 (1.40;2.05) p < 0.00001 |
 | - Fatal bleeding event | 15 (0.2%) | 10 (0.2%) | 1.49 (0.67;3.33) p = 0.32164 |
+| Treatment Dose | Xarelto 2.5 mg bid in combination with ASA 100 mg od, N=9152 n (Cum. risk %) | ASA 100 mg od N=9126 n (Cum.risk %) | Hazard Ratio (95 % CI) p-value b) |
 | - Symptomatic bleeding in critical organ (non-fatal) | 63 (0.9%) | 49 (0.7%) | 1.28 (0.88;1.86) p = 0.19679 |
 | - Bleeding into the surgical site requiring reoperation (non-fatal, not in critical organ) | 10 (0.1%) | 8 (0.1%) | 1.24 (0.49;3.14) p = 0.65119 |
 | - Bleeding leading to hospitalisation (non-fatal, not in critical organ, not requiring reoperation) | 208 (2.9%) | 109 (1.6%) | 1.91 (1.51;2.41) p < 0.00001 |
 | - With overnight stay | 172 (2.3%) | 90 (1.3%) | 1.91 (1.48;2.46) p < 0.00001 |
 | - Without overnight stay | 36 (0.5%) | 21 (0.3%) | 1.70 (0.99;2.92) p = 0.04983 |
-| Treatment Dose | Xarelto 2.5 mg bid in combination with ASA 100 mg od, N=9152 n (Cum. risk %) | ASA 100 mg od N=9126 n (Cum.risk %) | Hazard Ratio (95 % CI) p-value b) |
 | Major gastrointestinal bleeding | 140 (2.0%) | 65 (1.1%) | 2.15 (1.60;2.89) p < 0.00001 |
 | Major intracranial bleeding | 28 (0.4%) | 24 (0.3%) | 1.16 (0.67;2.00) p = 0.59858 |
 
@@ -176,9 +177,28 @@ Figure 2: Time to first occurrence of primary efficacy outcome (stroke, myocardi
 
 Kaplan-Meier Estimates (%) at 30 months:
 Xarelto 2.5mg bid + ASA 100mg od: 5.2 (4.7 - 5.8)
-ASA 100mg od: 7.2 (6.5 - 7.9)
+ASA 100mg od: 7.2 (6.5 - 7.9) bid: twice daily; od: once daily; CI: confidence interval
 
-bid: twice daily; od: once daily; CI: confidence interval
+CAD with heart failure
+The COMMANDER HF study included 5,022 patients with heart failure and significant coronary artery disease (CAD) following a hospitalization of decompensated heart failure (HF) which were randomly assigned into one of the two treatment groups: rivaroxaban 2.5 mg twice daily (N=2,507) or matching placebo (N=2,515), respectively.
+The overall median study treatment duration was 504 days.
+Patients must have had symptomatic HF for at least 3 months and left ventricular ejection fraction (LVEF) of ≤40% within one year of enrollment.
+At baseline, the median ejection fraction was 34% (IQR: 28%-38%) and 53% of subjects were NYHA Class III or IV.
+The primary efficacy analysis (i.e. composite of all-cause mortality, MI, or stroke) showed no statistically significant difference between the rivaroxaban 2.5 mg bid group and the placebo group with a HR=0.94 (95% CI 0.84 - 1.05), p=0.270.
+For all-cause mortality, there was no difference between rivaroxaban and placebo in the number of events (event rate per 100 patient-years; 11.41 vs. 11.63, HR: 0.98; 95% CI: 0.87 to 1.10; p=0.743).
+The event rates for MI per 100 patient-years (rivaroxaban vs placebo) were 2.08 vs 2.52 (HR 0.83; 95% CI: 0.63 to 1.08; p=0.165) and for stroke the event rates per 100 patient-years were 1.08 vs 1.62 (HR: 0.66; 95% CI: 0.47 to 0.95; p=0.023).
+The principal safety outcome (i.e. composite of fatal bleeding or bleeding into a critical space with a potential for permanent disability), occurred in 18 (0.7%) patients in the rivaroxaban 2.5 mg twice daily treatment group and in 23 (0.9%) patients in the placebo group, respectively (HR=0.80; 95% CI 0.43 - 1.49; p=0.484).
+There was a statistically significant increase in ISTH major bleeding in the rivaroxaban group compared with placebo (event rate per 100 patient-years: 2.04 vs 1.21, HR 1.68; 95% CI: 1.18 to 2.39; p=0.003).
+In patients with mild and moderate heart failure the treatment effects for the COMPASS study subgroup were similar to those of the entire study population (see section CAD/PAD).
+
+Patients with high risk triple positive antiphospholipid syndrome
+In an investigator sponsored, randomized open-label multicenter study with blinded endpoint adjudication, rivaroxaban was compared to warfarin in patients with a history of thrombosis, diagnosed with antiphospholipid syndrome and at high risk for thromboembolic events (positive for all 3 antiphospholipid tests: lupus anticoagulant, anticardiolipin antibodies, and anti-beta 2-glycoprotein I antibodies).
+The trial was terminated prematurely after the enrolment of 120 patients due to an excess of events among patients in the rivaroxaban arm.
+Mean follow-up was 569 days.
+59 patients were randomized to rivaroxaban 20 mg (15 mg for patients with creatinine clearance (CrCl) <50 mL/min) and 61 to warfarin (INR 2.0-3.0).
+Thromboembolic events occurred in 12% of patients randomized to rivaroxaban (4 ischaemic strokes and 3 myocardial infarctions).
+No events were reported in patients randomized to warfarin.
+Major bleeding occurred in 4 patients (7%) of the rivaroxaban group and 2 patients (3%) of the warfarin group.
 
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with Xarelto in one or more subsets of the paediatric population in the treatment of thromboembolic events.

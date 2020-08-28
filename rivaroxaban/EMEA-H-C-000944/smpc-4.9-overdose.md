@@ -2,14 +2,15 @@
 
 Rare cases of overdose up to 600 mg have been reported without bleeding complications or other adverse reactions.
 Due to limited absorption a ceiling effect with no further increase in average plasma exposure is expected at supratherapeutic doses of 50 mg rivaroxaban or above.
-A specific antidote antagonising the pharmacodynamic effect of rivaroxaban is not available.
+A specific reversal agent (andexanet alfa) antagonising the pharmacodynamic effect of rivaroxaban is available (refer to the Summary of Product Characteristics of andexanet alfa).
 The use of activated charcoal to reduce absorption in case of rivaroxaban overdose may be considered.
+
 Management of bleeding
 Should a bleeding complication arise in a patient receiving rivaroxaban, the next rivaroxaban administration should be delayed or treatment should be discontinued as appropriate.
 Rivaroxaban has a half-life of approximately 5 to 13 hours (see section 5.2).
 Management should be individualised according to the severity and location of the haemorrhage.
 Appropriate symptomatic treatment could be used as needed, such as mechanical compression (e.g. for severe epistaxis), surgical haemostasis with bleeding control procedures, fluid replacement and haemodynamic support, blood products (packed red cells or fresh frozen plasma, depending on associated anaemia or coagulopathy) or platelets.
-If bleeding cannot be controlled by the above measures, administration of a specific procoagulant reversal agent should be considered, such as prothrombin complex concentrate (PCC), activated prothrombin complex concentrate (APCC) or recombinant factor VIIa (r-FVIIa).
+If bleeding cannot be controlled by the above measures, either the administration of a specific factor Xa inhibitor reversal agent (andexanet alfa), which antagonises the pharmacodynamic effect of rivaroxaban, or a specific procoagulant reversal agent, such as prothrombin complex concentrate (PCC), activated prothrombin complex concentrate (APCC) or recombinant factor VIIa (r-FVIIa), should be considered.
 However, there is currently very limited clinical experience with the use of these medicinal products in individuals receiving rivaroxaban.
 The recommendation is also based on limited non-clinical data.
 Re-dosing of recombinant factor VIIa shall be considered and titrated depending on improvement of bleeding.

@@ -9,7 +9,7 @@ Clinical surveillance in line with anticoagulation practice is recommended throu
 Haemorrhagic risk
 As with other anticoagulants, patients taking Xarelto are to be carefully observed for signs of bleeding.
 It is recommended to be used with caution in conditions with increased risk of haemorrhage.
-Xarelto administration should be discontinued if severe haemorrhage occurs.
+Xarelto administration should be discontinued if severe haemorrhage occurs (see section 4.9).
 
 In the clinical studies mucosal bleedings (i.e. epistaxis, gingival, gastrointestinal, genito urinary including abnormal vaginal or increased menstrual bleeding) and anaemia were seen more frequently during long term rivaroxaban treatment on top of single or dual anti-platelet therapy.
 Thus, in addition to adequate clinical surveillance, laboratory testing of haemoglobin/haematocrit could be of value to detect occult bleeding and quantify the clinical relevance of overt bleeding, as judged to be appropriate.
@@ -31,7 +31,7 @@ Interaction with other medicinal products
 The use of Xarelto is not recommended in patients receiving concomitant systemic treatment with azole-antimycotics (such as ketoconazole, itraconazole, voriconazole and posaconazole) or HIV protease inhibitors (e.g. ritonavir).
 These active substances are strong inhibitors of both CYP3A4 and P-gp and therefore may increase rivaroxaban plasma concentrations to a clinically relevant degree (2.6 fold on average) which may lead to an increased bleeding risk (see section 4.5).
 Care is to be taken if patients are treated concomitantly with medicinal products affecting haemostasis such as non-steroidal anti-inflammatory medicinal products (NSAIDs), acetylsalicylic acid (ASA) and platelet aggregation inhibitors or selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs).
-For patients at risk of ulcerative gastrointestinal disease an appropriate prophylactic treatment may be considered (see section 4.5).
+For patients at risk of ulcerative gastrointestinal disease an appropriate prophylactic treatment may be considered (see sections 4.5 and 5.1).
 Patients on treatment with Xarelto and ASA or with Xarelto and ASA plus clopidogrel/ticlopidine should only receive concomitant treatment with NSAIDs if the benefit outweighs the bleeding risk.
 
 Other haemorrhagic risk factors
@@ -48,10 +48,17 @@ It should be used with caution in ACS and CAD/PAD patients:
 - ≥ 75 years of age if co-administered with ASA alone or with ASA plus clopidogrel or ticlopidine.
   The benefit-risk of the treatment should be individually assessed on a regular basis.
 - with lower body weight (< 60 kg) if co-administered with ASA alone or with ASA plus clopidogrel or ticlopidine.
+- CAD patients with severe symptomatic heart failure.
+  Study data indicate that such patients may benefit less from treatment with rivaroxaban (see section 5.1).
 
 Patients with prosthetic valves
+Rivaroxaban should not be used for thromboprophylaxis in patients having recently undergone transcatheter aortic valve replacement (TAVR).
 Safety and efficacy of Xarelto have not been studied in patients with prosthetic heart valves; therefore, there are no data to support that Xarelto provides adequate anticoagulation in this patient population.
 Treatment with Xarelto is not recommended for these patients.
+
+Patients with antiphospholipid syndrome
+Direct acting Oral Anticoagulants (DOACs) including rivaroxaban are not recommended for patients with a history of thrombosis who are diagnosed with antiphospholipid syndrome.
+In particular for patients that are triple positive (for lupus anticoagulant, anticardiolipin antibodies, and anti-beta 2-glycoprotein I antibodies), treatment with DOACs could be associated with increased rates of recurrent thrombotic events compared with vitamin K antagonist therapy.
 
 Patients with prior stroke and/or TIA
 Patients with ACS
@@ -100,12 +107,13 @@ These patients are to be carefully monitored for signs and symptoms of bleeding 
 In patients receiving Xarelto for VTE prevention following elective hip or knee replacement surgery, this may be done by regular physical examination of the patients, close observation of the surgical wound drainage and periodic measurements of haemoglobin.
 
 Care is to be taken if patients are treated concomitantly with medicinal products affecting haemostasis such as non-steroidal anti-inflammatory medicinal products (NSAIDs), acetylsalicylic acid (ASA) and platelet aggregation inhibitors or selective serotonin reuptake inhibitors (SSRIs), and serotonin norepinephrine reuptake inhibitors (SNRIs).
+For patients at risk of ulcerative gastrointestinal disease an appropriate prophylactic treatment may be considered (see section 4.5).
 
 Hip fracture surgery
 Rivaroxaban has not been studied in interventional clinical studies in patients undergoing hip fracture surgery to evaluate efficacy and safety.
-
 Haemodynamically unstable PE patients or patients who require thrombolysis or pulmonary embolectomy
 Xarelto is not recommended as an alternative to unfractionated heparin in patients with pulmonary embolism who are haemodynamically unstable or may receive thrombolysis or pulmonary embolectomy since the safety and efficacy of Xarelto have not been established in these clinical situations.
+
 At least 18 hours should elapse after the last administration of rivaroxaban before removal of an epidural catheter.
 Following removal of the catheter, at least 6 hours should elapse before the next rivaroxaban dose is administered.
 If traumatic puncture occurs the administration of rivaroxaban is to be delayed for 24 hours.

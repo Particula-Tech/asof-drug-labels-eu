@@ -4,7 +4,6 @@ CYP3A4 and P-gp inhibitors
 Co-administration of rivaroxaban with ketoconazole (400 mg once a day) or ritonavir (600 mg twice a day) led to a 2.6 fold / 2.5 fold increase in mean rivaroxaban AUC and a 1.7 fold / 1.6 fold increase in mean rivaroxaban Cmax, with significant increases in pharmacodynamic effects which may lead to an increased bleeding risk.
 Therefore, the use of Xarelto is not recommended in patients receiving concomitant systemic treatment with azole-antimycotics such as ketoconazole, itraconazole, voriconazole and posaconazole or HIV protease inhibitors.
 These active substances are strong inhibitors of both CYP3A4 and P-gp (see section 4.4).
-
 Active substances strongly inhibiting only one of the rivaroxaban elimination pathways, either CYP3A4 or P-gp, are expected to increase rivaroxaban plasma concentrations to a lesser extent.
 Clarithromycin (500 mg twice a day), for instance, considered as a strong CYP3A4 inhibitor and moderate P-gp inhibitor, led to a 1.5 fold increase in mean rivaroxaban AUC and a 1.4 fold increase in Cmax.
 The interaction with clarithromycin is likely not clinically relevant in most patients but can be potentially significant in high-risk patients.
@@ -44,6 +43,7 @@ If it is desired to test the pharmacodynamic effects of rivaroxaban during the c
 On the fourth day after the last dose of warfarin, all tests (including PT, aPTT, inhibition of factor Xa activity and ETP) reflected only the effect of rivaroxaban.
 If it is desired to test the pharmacodynamic effects of warfarin during the conversion period, INR measurement can be used at the Ctrough of rivaroxaban (24 hours after the previous intake of rivaroxaban) as this test is minimally affected by rivaroxaban at this time point.
 No pharmacokinetic interaction was observed between warfarin and rivaroxaban.
+
 CYP3A4 inducers
 Co-administration of rivaroxaban with the strong CYP3A4 inducer rifampicin led to an approximate 50% decrease in mean rivaroxaban AUC, with parallel decreases in its pharmacodynamic effects.
 The concomitant use of rivaroxaban with other strong CYP3A4 inducers (e.g. phenytoin, carbamazepine, phenobarbital or St. John’s Wort (Hypericum perforatum)) may also lead to reduced rivaroxaban plasma concentrations.

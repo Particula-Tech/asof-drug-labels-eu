@@ -2,6 +2,7 @@
 
 Summary of the safety profile
 The safety of rivaroxaban has been evaluated in thirteen phase III studies including 53,103 patients exposed to rivaroxaban (see Table 1).
+
 Table 1: Number of patients studied, total daily dose and maximum treatment duration in phase III studies
 
 | Indication | Number of patients* | Total daily dose | Maximum treatment duration |
@@ -17,7 +18,6 @@ Table 1: Number of patients studied, total daily dose and maximum treatment dura
 
 The most commonly reported adverse reactions in patients receiving rivaroxaban were bleedings (see section 4.4. and ‘Description of selected adverse reactions’ below) (Table 2).
 The most commonly reported bleedings were epistaxis (4.5 %) and gastrointestinal tract haemorrhage (3.8 %).
-
 Table 2: Bleeding* and anaemia events rates in patients exposed to rivaroxaban across the completed phase III studies
 
 | Indication | Any bleeding | Anaemia |
@@ -31,6 +31,7 @@ Table 2: Bleeding* and anaemia events rates in patients exposed to rivaroxaban a
 
 * For all rivaroxaban studies all bleeding events are collected, reported and adjudicated.
 ** In the COMPASS study, there is a low anaemia incidence as a selective approach to adverse event collection was applied
+
 Tabulated list of adverse reactions
 The frequencies of adverse reactions reported with Xarelto are summarised in Table 3 below by system organ class (in MedDRA) and by frequency.
 
@@ -39,49 +40,24 @@ very common (≥ 1/10) common (≥ 1/100 to < 1/10) uncommon (≥ 1/1,000 to < 1
 
 Table 3: All adverse reactions reported in patients in phase III clinical trials or through post-marketing use*
 
-Common Uncommon Rare Very rare Not known
-Blood and lymphatic system disorders
-Anaemia (incl. Thrombocytosis
-respective (incl. platelet count
-laboratory increased)A,
-parameters) Thrombocytopenia
-Immune system disorders
-Allergic reaction, Anaphylactic
-dermatitis allergic, reactions including
-Angioedema and anaphylactic shock
-allergic oedema
-Nervous system disorders
-Dizziness, Cerebral and
-headache intracranial
-haemorrhage,
-syncope
-Eye disorders
-Eye haemorrhage
-(incl. conjunctival
-haemorrhage)
-Cardiac disorders
-Tachycardia
-Vascular disorders
-Hypotension,
-haematoma
-Respiratory, thoracic and mediastinal disorders
-Epistaxis,
-haemoptysis
-Gastrointestinal disorders
-Gingival bleeding, Dry mouth
-gastrointestinal
-tract haemorrhage
-(incl. rectal
-haemorrhage),
-gastrointestinal and
-abdominal pains,
-dyspepsia, nausea,
-constipationA,
-diarrhoea,
-vomitingA
-
 | Common | Uncommon | Rare | Very rare | Not known |
 | --- | --- | --- | --- | --- |
+| Blood and lymphatic system disorders |  |  |  |  |
+| Anaemia (incl. respective laboratory parameters) | Thrombocytosis (incl. platelet count increased)A, Thrombocytopenia |  |  |  |
+| Immune system disorders |  |  |  |  |
+|  | Allergic reaction, dermatitis allergic, Angioedema and allergic oedema |  | Anaphylactic reactions including anaphylactic shock |  |
+| Nervous system disorders |  |  |  |  |
+| Dizziness, headache | Cerebral and intracranial haemorrhage, syncope |  |  |  |
+| Eye disorders |  |  |  |  |
+| Eye haemorrhage (incl. conjunctival haemorrhage) |  |  |  |  |
+| Cardiac disorders |  |  |  |  |
+|  | Tachycardia |  |  |  |
+| Vascular disorders |  |  |  |  |
+| Hypotension, haematoma |  |  |  |  |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
+| Epistaxis, haemoptysis |  |  |  |  |
+| Gastrointestinal disorders |  |  |  |  |
+| Gingival bleeding, gastrointestinal tract haemorrhage (incl. rectal haemorrhage), gastrointestinal and abdominal pains, dyspepsia, nausea, constipationA, diarrhoea, vomitingA | Dry mouth |  |  |  |
 | Hepatobiliary disorders |  |  |  |  |
 | Increase in transaminases | Hepatic impairment, Increased bilirubin, increased blood alkaline phosphataseA, increased GGTA | Jaundice, Bilirubin conjugated increased (with or without concomitant increase of ALT), Cholestasis, Hepatitis (incl. hepatocellular injury) |  |  |
 | Skin and subcutaneous tissue disorders |  |  |  |  |
@@ -131,39 +107,6 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 | Prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation | 7,750 | 20 mg | 41 months |
 | Prevention of atherothrombotic events in patients after an acute coronary syndrome (ACS) | 10,225 | 5 mg or 10 mg respectively, co-administered with either ASA or ASA plus clopidogrel or ticlopidine | 31 months |
 | Prevention of atherothrombotic events in patients with CAD/PAD | 18,244 | 5 mg co-administered with ASA or 10 mg alone | 47 months |
-
-| Common | Uncommon | Rare | Very rare | Not known |
-| --- | --- | --- | --- | --- |
-| Blood and lymphatic system disorders |  |  |  |  |
-| Anaemia (incl. respective laboratory parameters) | Thrombocytosis (incl. platelet count increased)A, Thrombocytopenia |  |  |  |
-| Immune system disorders |  |  |  |  |
-|  | Allergic reaction, dermatitis allergic, Angioedema and allergic oedema |  | Anaphylactic reactions including anaphylactic shock |  |
-| Nervous system disorders |  |  |  |  |
-| Dizziness, headache | Cerebral and intracranial haemorrhage, syncope |  |  |  |
-| Eye disorders |  |  |  |  |
-| Eye haemorrhage (incl. conjunctival haemorrhage) |  |  |  |  |
-| Cardiac disorders |  |  |  |  |
-|  | Tachycardia |  |  |  |
-| Vascular disorders |  |  |  |  |
-| Hypotension, haematoma |  |  |  |  |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
-| Epistaxis, haemoptysis |  |  |  |  |
-| Gastrointestinal disorders |  |  |  |  |
-| Gingival bleeding, gastrointestinal tract haemorrhage (incl. rectal haemorrhage), gastrointestinal and abdominal pains, dyspepsia, nausea, constipationA, diarrhoea, vomitingA | Dry mouth |  |  |  |
-| Hepatobiliary disorders |  |  |  |  |
-| Increase in transaminases | Hepatic impairment, Increased bilirubin, increased blood alkaline phosphataseA, increased GGTA | Jaundice, Bilirubin conjugated increased (with or without concomitant increase of ALT), Cholestasis, Hepatitis (incl. hepatocellular injury) |  |  |
-| Skin and subcutaneous tissue disorders |  |  |  |  |
-| Pruritus (incl. uncommon cases of generalised pruritus), rash, ecchymosis, cutaneous and subcutaneous haemorrhage | Urticaria |  | Stevens-Johnson syndrome/ Toxic Epidermal Necrolysis , DRESS syndrome |  |
-| Musculoskeletal and connective tissue disorders |  |  |  |  |
-| Pain in extremityA | Haemarthrosis | Muscle haemorrhage |  | Compartment syndrome secondary to a bleeding |
-| Renal and urinary disorders |  |  |  |  |
-| Urogenital tract haemorrhage (incl. haematuria and menorrhagiaB), renal impairment (incl. blood creatinine increased, blood urea increased) |  |  |  | Renal failure/acute renal failure secondary to a bleeding sufficient to cause hypoperfusion |
-| General disorders and administration site conditions |  |  |  |  |
-| FeverA, peripheral oedema, decreased general strength and energy (incl. fatigue and asthenia) | Feeling unwell (incl. malaise) | Localised oedemaA |  |  |
-| Investigations |  |  |  |  |
-|  | Increased LDHA, increased lipaseA, increased amylaseA |  |  |  |
-| Injury, poisoning and procedural complications |  |  |  |  |
-| Postprocedural haemorrhage (incl. postoperative anaemia, and wound haemorrhage), contusion, wound secretionA |  | Vascular pseudoaneurysmC |  |  |
 
 [Xarelto 15 mg film-coated tablets]
 

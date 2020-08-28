@@ -43,9 +43,9 @@ No dose adjustment is necessary.
 Different weight categories
 Extremes in body weight (< 50 kg or > 120 kg) had only a small influence on rivaroxaban plasma concentrations (less than 25%).
 No dose adjustment is necessary.
+
 Inter-ethnic differences
 No clinically relevant inter-ethnic differences among Caucasian, African-American, Hispanic, Japanese or Chinese patients were observed regarding rivaroxaban pharmacokinetics and pharmacodynamics.
-
 Hepatic impairment
 Cirrhotic patients with mild hepatic impairment (classified as Child Pugh A) exhibited only minor changes in rivaroxaban pharmacokinetics (1.2 fold increase in rivaroxaban AUC on average), nearly comparable to their matched healthy control group.
 In cirrhotic patients with moderate hepatic impairment (classified as Child Pugh B), rivaroxaban mean AUC was significantly increased by 2.3 fold compared to healthy volunteers.
@@ -85,7 +85,6 @@ Safety and efficacy have not been established for children and adolescents up to
 Variability in rivaroxaban pharmacokinetics is moderate with inter-individual variability (CV%) ranging from 30% to 40%, apart from on the day of surgery and the following day when variability in exposure is high (70%).
 
 In patients receiving rivaroxaban for prevention of VTE 10 mg once daily the geometric mean concentration (90% prediction interval) 2 - 4 h and about 24 h after dose (roughly representing maximum and minimum concentrations during the dose interval) was 101 (7 - 273) and 14 (4 ‑ 51) mcg/l, respectively.
-
 The pharmacokinetic/pharmacodynamic (PK/PD) relationship between rivaroxaban plasma concentration and several PD endpoints (factor Xa inhibition, PT, aPTT, Heptest) has been evaluated after administration of a wide range of doses (5 - 30 mg twice a day).
 The relationship between rivaroxaban concentration and factor Xa activity was best described by an Emax model.
 When Neoplastin PT was used, baseline PT was about 13 s and the slope was around 3 to 4 s/(100 mcg/l).
