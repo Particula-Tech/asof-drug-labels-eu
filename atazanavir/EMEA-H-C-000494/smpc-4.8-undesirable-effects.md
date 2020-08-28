@@ -13,7 +13,6 @@ Chronic kidney disease in HIV-infected patients treated with atazanavir, with or
 A large prospective observational study has shown an association between an increased incidence of chronic kidney disease and cumulative exposure to atazanavir/ritonavir-containing regimen in HIV-infected patients with an initially normal eGFR.
 This association was observed independently of exposure to tenofovir disoproxil.
 Regular monitoring of the renal function of patients should be maintained throughout the treatment duration (see section 4.4).
-
 Tabulated list of adverse reactions
 Assessment of adverse reactions for REYATAZ is based on safety data from clinical studies and post-marketing experience.
 Frequency is defined using the following convention: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000).
@@ -68,7 +67,9 @@ Reproductive system and breast uncommon: gynaecomastia disorders:
 General disorders and common: fatigue;
 
 administration site conditions: uncommon: chest pain, malaise, pyrexia, asthenia;
-rare: gait disturbance a These adverse reactions were identified through post-marketing surveillance, however, the frequencies were estimated from a statistical calculation based on the total number of patients exposed to REYATAZ in randomised controlled and other available clinical trials (n = 2321).
+rare: gait disturbance
+
+a These adverse reactions were identified through post-marketing surveillance, however, the frequencies were estimated from a statistical calculation based on the total number of patients exposed to REYATAZ in randomised controlled and other available clinical trials (n = 2321).
 b See description of selected adverse reactions for more details.
 
 Description of selected adverse reactions
@@ -121,9 +122,5 @@ It allows continued monitoring of the benefit/risk balance of the medicinal prod
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [REYATAZ 50 mg oral powder]
-
-rare: gait disturbance
-
-a These adverse reactions were identified through post-marketing surveillance, however, the frequencies were estimated from a statistical calculation based on the total number of patients exposed to REYATAZ in randomised controlled and other available clinical trials (n = 2321).
 
 The most frequently reported laboratory abnormalities in paediatric patients receiving REYATAZ was elevation of total bilirubin (≥ 2.6 times ULN, Grade 3-4) which occurred in 45% of patients.

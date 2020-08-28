@@ -7,7 +7,6 @@ Atazanavir is an azapeptide HIV-1 protease inhibitor (PI).
 The compound selectively inhibits the virus-specific processing of viral Gag-Pol proteins in HIV-1 infected cells, thus preventing formation of mature virions and infection of other cells.
 
 Antiviral activity in vitro: atazanavir exhibits anti-HIV-1 (including all clades tested) and anti-HIV-2 activity in cell culture.
-
 Resistance
 Antiretroviral treatment naive adult patients
 In clinical trials of antiretroviral treatment naive patients treated with unboosted atazanavir, the I50L substitution, sometimes in combination with an A71V change, is the signature resistance substitution for atazanavir.
@@ -38,7 +37,7 @@ Frequency de novo PI substitution (n=35)a,b
 >20% M36, M46, I54, A71, V82
 10-20% L10, I15, K20, V32, E35, S37, F53, I62, G73, I84, L90
 
-a Number of patients with paired genotypes classified as virological failures (HIV RNA ≥400 copies/ml).
+a Number of patients with paired genotypes classified as virological failures (HIV RNA ≥ 400 copies/ml).
 b Ten patients had baseline phenotypic resistance to atazanavir + ritonavir (fold change [FC]>5.2).
 FC susceptibility in cell culture relative to the wild-type reference was assayed using PhenoSenseTM (Monogram Biosciences, South San
 Francisco, California, USA)
@@ -181,6 +180,7 @@ Study 138 is an international randomised, open-label, multicenter, prospective t
 
 The mean baseline CD4 cell count was 214 cells/mm3 (range: 2 to 810 cells/mm3) and mean baseline plasma HIV-1 RNA was 4.94 log10 copies/ml (range: 2.6 to 5.88 log10 copies/ml).
 The REYATAZ/ritonavir arm has similar (non-inferior) antiviral efficacy compared to the lopinavir/ritonavir arm, as assessed by the proportion of patients with HIV RNA < 50 copies/ml at week 48: 78% of patients on REYATAZ/ritonavir compared to 76% on lopinavir/ritonavir (difference estimate of ATV/RTV-LPV/RTV: 1.7% [95% CI, -3.8%, 7.1%] according to the Confirmed Virologic Response (CVR) Non-Completer = Failure (NC = F) definition of response.
+
 In a per protocol analysis which excluded non-completers (i.e. patients who discontinued before the week 48 HIV RNA assessment) and patients with major protocol deviations, the proportion of patients with HIV RNA < 50 copies/ml at week 48 was 86% (338/392) for REYATAZ/ritonavir and 89% (332/372) for lopinavir/ritonavir (difference estimate of ATV/RTV-LPV/RTV: -3% [95% CI, -7.6%, 1.5%].
 
 Study 045 is a randomised, multicenter trial comparing REYATAZ/ritonavir (300/100 mg once daily) and REYATAZ/saquinavir (400/1,200 mg once daily), to lopinavir + ritonavir (400/100 mg fixed dose combination twice daily), each in combination with tenofovi disoproxil fumarate (see sections 4.5 and 4.8) and one NRTI, in patients with virologic failure on two or more prior regimens containing at least one PI, NRTI, and NNRTI.
@@ -195,8 +195,10 @@ c PI major L24I, D30N, V32I, L33F, M46IL, I47AV, G48V, I50LV, F53LY, I54ALMSTV, 
 
 Paediatric trials with REYATAZ oral powder
 Assessment of the pharmacokinetics, safety, tolerability, and virologic response of REYATAZ oral powder was based on data from two open-label, multicenter clinical trials.
- AI424-397 (PRINCE I): In paediatric patients from 3 months to less than 6 years of age
- AI424-451 (PRINCE II): In paediatric patients from 3 months to less than 11 years of age
+
+- AI424-397 (PRINCE I): In paediatric patients from 3 months to less than 6 years of age
+- AI424-451 (PRINCE II): In paediatric patients from 3 months to less than 11 years of age
+
 In these studies, 155 patients (59 antiretroviral-naive and 96 antiretroviral-experienced) received once daily REYATAZ oral powder and ritonavir, in combination with two NRTIs.
 
 For inclusion in both trials, treatment-naive patients had to have genotypic sensitivity to REYATAZ and two NRTIs, and treatment-experienced patients had to have documented genotypic and phenotypic sensitivity at screening to REYATAZ and at least 2 NRTIs.

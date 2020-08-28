@@ -47,16 +47,20 @@ REYATAZ 300 mg with ritonavir 100 mg may not provide sufficient exposure to ataz
 Since there are limited data available and due to inter-patient variability during pregnancy, Therapeutic Drug Monitoring (TDM) may be considered to ensure adequate exposure.
 
 The risk of a further decrease in atazanavir exposure is expected when atazanavir is given with medicinal products known to reduce its exposure (e.g., tenofovir disoproxil or H2-receptor antagonists).
- If tenofovir disoproxil or an H2-receptor antagonist is needed, a dose increase to REYATAZ
+
+- If tenofovir disoproxil or an H2-receptor antagonist is needed, a dose increase to REYATAZ
+
 400 mg with ritonavir 100 mg with TDM may be considered (see sections 4.6 and 5.2).
- It is not recommended to use REYATAZ with ritonavir for pregnant patients who are receiving both tenofovir disoproxil and an H2-receptor antagonist.
+
+- It is not recommended to use REYATAZ with ritonavir for pregnant patients who are receiving both tenofovir disoproxil and an H2-receptor antagonist.
 
 (See section 4.4 Withdrawal of ritonavir only under restrictive conditions).
 
 During postpartum:
 Following a possible decrease in atazanavir exposure during the second and third trimester, atazanavir exposures might increase during the first two months after delivery (see section 5.2).
 Therefore, postpartum patients should be closely monitored for adverse reactions.
- During this time, postpartum patients should follow the same dose recommendation as for non-pregnant patients, including those for co-administration of medicinal products known to affect atazanavir exposure (see section 4.5).
+
+- During this time, postpartum patients should follow the same dose recommendation as for non-pregnant patients, including those for co-administration of medicinal products known to affect atazanavir exposure (see section 4.5).
 
 Paediatric patients (less than 3 months of age)
 REYATAZ should not be used in children less than 3 months because of safety concerns especially taking into account the potential risk of kernicterus.
