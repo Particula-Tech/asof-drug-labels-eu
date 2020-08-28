@@ -17,7 +17,7 @@ This protein binding is concentration-dependent indicative for saturation of bin
 Therefore, protein displacement of medicinal products highly bound to α1-acid glycoprotein cannot be ruled out (see section 4.5).
 
 ART-experienced patients – once daily dosing
-PREZISTA used in combination with cobicistat or low dose ritonavir once daily in ART-experienced patients should not be used in patients with one or more darunavir resistance associated mutations (DRV-RAMs) or HIV-1 RNA ≥100,000 copies/ml or CD4+ cell count < 100 cells x 106/l (see section 4.2).
+PREZISTA used in combination with cobicistat or low dose ritonavir once daily in ART-experienced patients should not be used in patients with one or more darunavir resistance associated mutations (DRV-RAMs) or HIV-1 RNA ≥100,000 copies/ml or CD4+ cell count < 100 cells x 106/L (see section 4.2).
 Combinations with optimised background regimen (OBRs) other than ≥2 NRTIs have not been studied in this population.
 Limited data are available in patients with HIV-1 clades other than B (see section 5.1).
 
@@ -93,7 +93,6 @@ Lipid disorders should be managed as clinically appropriate.
 Osteonecrosis
 Although the aetiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV disease and/or long-term exposure to combination antiretroviral therapy (CART).
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
-
 Immune reconstitution inflammatory syndrome
 In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first weeks or months of initiation of CART.
@@ -107,6 +106,7 @@ Interactions with medicinal products
 Several of the interaction studies have been performed with darunavir at lower than recommended doses.
 The effects on co-administered medicinal products may thus be underestimated and clinical monitoring of safety may be indicated.
 For full information on interactions with other medicinal products see section 4.5.
+
 Pharmacokinetic enhancer and concomitant medications
 Darunavir has different interaction profiles depending on whether the compound is boosted with ritonavir or cobicistat:
 
@@ -118,7 +118,7 @@ Darunavir has different interaction profiles depending on whether the compound i
 
 Efavirenz in combination with boosted PREZISTA may result in sub-optimal darunavir Cmin.
 If efavirenz is to be used in combination with PREZISTA, the PREZISTA/ritonavir 600/100 mg twice daily regimen should be used.
-See the Summary of Product Characteristics for PREZISTA 75 mg, 150 mg, 300 mg and 600 mg tablets (see section 4.5).
+See the Summary of Product Characteristics for PREZISTA 75 mg, 150 mg and 600 mg tablets (see section 4.5).
 
 Life-threatening and fatal drug interactions have been reported in patients treated with colchicine and strong inhibitors of CYP3A and P-glycoprotein (P-gp; see sections 4.3 and 4.5).
 
@@ -139,12 +139,10 @@ If there is evidence of new or worsening liver dysfunction (including clinically
 Efavirenz in combination with boosted PREZISTA once daily may result in sub-optimal darunavir Cmin.
 If efavirenz is to be used in combination with PREZISTA, the PREZISTA/ritonavir 600/100 mg twice daily regimen should be used (see section 4.5).
 
-PREZISTA 300 mg tablets and 600 mg tablets contain sunset yellow FCF (E110) which may cause an allergic reaction.
+PREZISTA 600 mg tablets contain sunset yellow FCF (E110) which may cause an allergic reaction.
 
 [PREZISTA 400 mg film-coated tablets]
 
 PREZISTA 400 mg or 800 mg must always be given orally with cobicistat or low dose ritonavir as a pharmacokinetic enhancer and in combination with other antiretroviral medicinal products (see section 5.2).
-
-Efavirenz in combination with PREZISTA may result in sub-optimal darunavir Cmin.
 
 PREZISTA 400 mg tablets contain sunset yellow FCF (E110) which may cause an allergic reaction.

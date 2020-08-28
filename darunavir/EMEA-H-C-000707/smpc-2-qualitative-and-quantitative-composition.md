@@ -14,10 +14,6 @@ Each film-coated tablet contains 75 mg of darunavir (as ethanolate).
 PREZISTA 150 mg film-coated tablets
 Each film-coated tablet contains 150 mg of darunavir (as ethanolate).
 
-PREZISTA 300 mg film-coated tablets
-Each film-coated tablet contains 300 mg of darunavir (as ethanolate).
-Excipient with known effect: Each tablet contains 1.375 mg sunset yellow FCF (E110).
-
 PREZISTA 600 mg film-coated tablets
 Each film-coated tablet contains 600 mg of darunavir (as ethanolate).
 Excipient with known effect: Each tablet contains a maximum of 2.750 mg sunset yellow FCF (E110).

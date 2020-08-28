@@ -6,7 +6,6 @@ The increased exposure to darunavir in HIV-1 infected patients compared to healt
 
 Darunavir is primarily metabolised by CYP3A.
 Cobicistat and ritonavir inhibit CYP3A, thereby increasing the plasma concentrations of darunavir considerably.
-
 For information on cobicistat pharmacokinetic properties, consult the cobicistat Summary of Product Characteristics.
 
 Absorption
@@ -47,17 +46,37 @@ The pharmacokinetics of darunavir in combination with ritonavir taken twice dail
 The pharmacokinetics of darunavir in combination with ritonavir taken twice daily in
 14 treatment-experienced paediatric patients, aged 3 to < 6 years and weighing at least 15 kg to
 < 20 kg, showed that weight-based dosages resulted in darunavir exposure that was comparable to that achieved in adults receiving PREZISTA/ritonavir 600/100 mg twice daily (see section 4.2).
-
 The pharmacokinetics of darunavir in combination with ritonavir taken once daily in 12 ART-naïve paediatric patients, aged 12 to < 18 years and weighing at least 40 kg, showed that PREZISTA/ritonavir 800/100 mg once daily results in darunavir exposure that was comparable to that achieved in adults receiving PREZISTA/ritonavir 800/100 mg once daily.
-Therefore the same once daily dosage may be used in treatment-experienced adolescents aged 12 to < 18 years and weighing at least 40 kg without darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥100 cells x 106/l (see section 4.2).
+Therefore the same once daily dosage may be used in treatment-experienced adolescents aged 12 to < 18 years and weighing at least 40 kg without darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥100 cells x 106/L (see section 4.2).
 * DRV-RAMs: V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V and L89V
 
 The pharmacokinetics of darunavir in combination with ritonavir taken once daily in
 10 treatment-experienced paediatric patients, aged 3 to < 6 years and weighing at least 14 kg to
 < 20 kg, showed that weight-based dosages resulted in darunavir exposure that was comparable to that achieved in adults receiving PREZISTA/ritonavir 800/100 mg once daily (see section 4.2).
-In addition, pharmacokinetic modeling and simulation of darunavir exposures in paediatric patients across the ages of 3 to < 18 years confirmed the darunavir exposures as observed in the clinical studies and allowed the identification of weight-based PREZISTA/ritonavir once daily dosing regimens for paediatric patients weighing at least 15 kg that are either ART-naïve or treatment-experienced paediatric patients without DRV-RAMs* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥100 cells x 106/l (see section 4.2).
+In addition, pharmacokinetic modeling and simulation of darunavir exposures in paediatric patients across the ages of 3 to < 18 years confirmed the darunavir exposures as observed in the clinical studies and allowed the identification of weight-based PREZISTA/ritonavir once daily dosing regimens for paediatric patients weighing at least 15 kg that are either ART-naïve or treatment-experienced paediatric patients without DRV-RAMs* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥100 cells x 106/L (see section 4.2).
 * DRV-RAMs: V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V and L89V
 
+The pharmacokinetics of darunavir 800 mg co-administered with cobicistat 150 mg in paediatric patients have been studied in 7 adolescents aged 12 to less than 18 years, weighing at least 40 kg in Study GS-US-216-0128.
+The geometric mean adolescent exposure (AUCtau) was similar for darunavir and increased 19% for cobicistat compared to exposures achieved in adults who received darunavir 800 mg co-administered with cobicistat 150 mg in Study GS-US-216-0130.
+The difference observed for cobicistat was not considered clinically relevant.
+
+|  | Adults in Study GS-US-216-0130, week 24 (Reference)a Mean (%CV) GLSM | Adolescents in Study GS-US-216-0128, day 10 (Test)b Mean (%CV) GLSM | GLSM Ratio (90% CI) (Test/Reference) |
+| --- | --- | --- | --- |
+| N | 60c | 7 |  |
+| DRV PK Parameter |  |  |  |
+| AUCtau (h.ng/mL)d | 81,646 (32.2) 77,534 | 80,877 (29.5) 77,217 | 1.00 (0.79-1.26) |
+| Cmax (ng/mL) | 7,663 (25.1) 7,422 | 7,506 (21.7) 7,319 | 0.99 (0.83-1.17) |
+| Ctau (ng/mL)d | 1,311 (74.0) 947 | 1,087 (91.6) 676 | 0.71 (0.34-1.48) |
+| COBI PK Parameter |  |  |  |
+| AUCtau (h.ng/mL)d | 7,596 (48.1) 7,022 | 8,741 (34.9) 8,330 | 1.19 (0.95-1.48) |
+| Cmax (ng/mL) | 991 (33.4) 945 | 1,116 (20.0) 1,095 | 1.16 (1.00-1.35) |
+| Ctau (ng/mL)d | 32.8 (289.4) 17.2e | 28.3 (157.2) 22.0e | 1.28 (0.51-3.22) |
+
+a Week 24 intensive PK data from subjects who received DRV 800 mg + COBI 150 mg.
+b Day 10 intensive PK data from subjects who received DRV 800 mg + COBI 150 mg.
+c N=59 for AUCtau and Ctau.
+d Concentration at predose (0 hours) was used as surrogate for concentration at 24 hours for the purposes of estimating AUCtau and Ctau in Study GS-US-216-0128.
+e N=57 and N=5 for GLSM of Ctau in Study GS-US-216-0130 and Study GS-US-216-0128, respectively.
 Elderly
 Population pharmacokinetic analysis in HIV infected patients showed that darunavir pharmacokinetics are not considerably different in the age range (18 to 75 years) evaluated in HIV infected patients (n=12, age ≥65) (see section 4.4).
 However, only limited data were available in patients above the age of 65 year.
@@ -70,6 +89,7 @@ Renal impairment
 Results from a mass balance study with 14C-darunavir with ritonavir showed that approximately 7.7% of the administered dose of darunavir is excreted in the urine unchanged.
 
 Although darunavir has not been studied in patients with renal impairment, population pharmacokinetic analysis showed that the pharmacokinetics of darunavir were not significantly affected in HIV infected patients with moderate renal impairment (CrCl between 30-60 ml/min, n=20) (see sections 4.2 and 4.4).
+
 Hepatic impairment
 Darunavir is primarily metabolised and eliminated by the liver.
 In a multiple dose study with PREZISTA co-administered with ritonavir (600/100 mg) twice daily, it was demonstrated that the total plasma concentrations of darunavir in subjects with mild (Child-Pugh Class A, n=8) and moderate (Child-Pugh Class B, n=8) hepatic impairment were comparable with those in healthy subjects.

@@ -23,6 +23,7 @@ Exposure in plasma, liver and brain was considerably higher than in adult rats a
 After day 23 of life, the exposure was comparable to that in adult rats.
 The increased exposure was likely at least partly due to immaturity of the drug-metabolising enzymes in juvenile animals.
 No treatment related mortalities were noted in juvenile rats dosed at 1,000 mg/kg darunavir (single dose) on day 26 of age or at 500 mg/kg (repeated dose) from day 23 to 50 of age, and the exposures and toxicity profile were comparable to those observed in adult rats.
+
 Due to uncertainties regarding the rate of development of the human blood brain barrier and liver enzymes, PREZISTA with low dose ritonavir should not be used in paediatric patients below 3 years of age.
 
 Darunavir was evaluated for carcinogenic potential by oral gavage administration to mice and rats up to 104 weeks.
