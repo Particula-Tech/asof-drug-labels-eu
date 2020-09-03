@@ -44,13 +44,13 @@ Excipients which may cause intolerance
 Vimpat syrup contains sodium methyl parahydroxybenzoate (E219), which may cause allergic reactions (possibly delayed).
 Vimpat syrup contains sorbitol (E420).
 Patients with rare hereditary problems of fructose intolerance should not take this medicine.
+Sorbitol may cause gastrointestinal discomfort and mild laxative effect.
 Vimpat syrup contains aspartame (E951), a source of phenylalanine, which may be harmful for people with phenylketonuria.
+Vimpat syrup contains propylene glycol (E1520).
 
 Sodium content
-Vimpat syrup contains sodium.
-To be taken into consideration by patients on a controlled sodium diet.
+Vimpat syrup contains 1.42 mg sodium per ml, equivalent to 0.07 % of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 
 [Vimpat 10 mg/ml solution for infusion]
 
-This medicinal product contains 2.6 mmol (or 59.8 mg) sodium per vial.
-To be taken into consideration for patients on a controlled sodium diet.
+This medicinal product contains 59.8 mg sodium per vial, equivalent to 3% of the WHO recommended maximum daily intake of 2 g sodium for an adult.

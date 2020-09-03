@@ -41,8 +41,8 @@ Sodium chloride
 Citric acid, anhydrous
 Acesulfame potassium (E950)
 Sodium methyl parahydroxybenzoate (E219)
-Strawberry flavour (contains propylene glycol, maltol)
-Masking flavour (contains propylene glycol, aspartame (E951), acesulfame potassium (E950), maltol, deionised water) purified water
+Strawberry flavour (contains propylene glycol (E1520), maltol)
+Masking flavour (contains propylene glycol (E1520), aspartame (E951), acesulfame potassium (E950), maltol, deionised water) purified water
 
 [Vimpat 10 mg/ml solution for infusion]
 

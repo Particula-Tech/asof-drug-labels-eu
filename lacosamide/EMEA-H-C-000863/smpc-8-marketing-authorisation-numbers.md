@@ -24,6 +24,10 @@ EU/1/08/470/028
 EU/1/08/470/029
 EU/1/08/470/030
 EU/1/08/470/031
+EU/1/08/470/032
+EU/1/08/470/033
+EU/1/08/470/034
+EU/1/08/470/035
 
 [Treatment initiation pack (in adolescent and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
 

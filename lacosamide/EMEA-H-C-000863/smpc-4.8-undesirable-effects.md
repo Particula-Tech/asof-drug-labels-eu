@@ -27,7 +27,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Nervous system disorders | Dizziness Headache | Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope(2) Coordination abnormal | Convulsion(3) |
 | Eye disorders | Diplopia | Vision blurred |  |  |
 | Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
-| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) Atrial Fibrillation (1,2) Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1) |
+| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) A(1,2tr) ial Fibrillation Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1) |
 | Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
 | Hepatobiliary disorders |  |  | Liver function test abnormal(2) Hepatic enzyme increased (> 2x ULN) (1) |  |
 | Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) Toxic epidermal necrolysis(1) |
@@ -101,7 +101,7 @@ These reactions are variable in expression but typically present with fever and 
 | Nervous system disorders | Dizziness Headache | Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope(2) Coordination abnormal | Convulsion(3) |
 | Eye disorders | Diplopia | Vision blurred |  |  |
 | Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
-| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) Atrial Fibrillation (1,2) Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1) |
+| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) A(1,2tr) ial Fibrillation Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1) |
 | Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
 | Hepatobiliary disorders |  |  | Liver function test abnormal(2) Hepatic enzyme increased (> 2x ULN) (1) |  |
 | Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) Toxic epidermal necrolysis(1) |

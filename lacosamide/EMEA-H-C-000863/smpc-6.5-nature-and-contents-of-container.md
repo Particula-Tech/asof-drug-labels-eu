@@ -4,23 +4,27 @@ Vimpat 50 mg film-coated tablets
 
 Packs of 14, 28, 56 and 168 film-coated tablets in PVC/PVDC blister sealed with an aluminium foil.
 Packs of 14 x 1 and 56 x 1 film-coated tablet in PVC/PVDC perforated unit dose blisters sealed with an aluminium foil.
+Packs of 60 film-coated tablets in HDPE bottle with a child-resistant closure.
 
 Vimpat 100 mg film-coated tablets
 
 Packs of 14, 28, 56 and 168 film-coated tablets in PVC/PVDC blister sealed with an aluminium foil.
 Packs of 14 x 1 and 56 x 1 film-coated tablet in PVC/PVDC perforated unit dose blisters sealed with an aluminium foil.
+Packs of 60 film-coated tablets in HDPE bottle with a child-resistant closure.
 
 Vimpat 150 mg film-coated tablets
 
 Packs of 14, 28 and 56 film-coated tablets in PVC/PVDC blister sealed with an aluminium foil.
 Multipacks containing 168 (3 packs of 56 tablets) film-coated tablets in PVC/PVDC blister sealed with an aluminium foil.
 Packs of 14 x 1 and 56 x 1 film-coated tablet in PVC/PVDC perforated unit dose blisters sealed with an aluminium foil.
+Packs of 60 film-coated tablets in HDPE bottle with a child-resistant closure.
 
 Vimpat 200 mg film-coated tablets
 
 Packs of 14, 28 and 56 film-coated tablets in PVC/PVDC blister sealed with an aluminium foil.
 Multipacks containing 168 (3 packs of 56 tablets) film-coated tablets in PVC/PVDC blister sealed with an aluminium foil.
 Packs of 14 x 1 and 56 x 1 film-coated tablet in PVC/PVDC perforated unit dose blisters sealed with an aluminium foil.
+Packs of 60 film-coated tablets in HDPE bottle with a child-resistant closure.
 
 Not all pack sizes may be marketed.
 
