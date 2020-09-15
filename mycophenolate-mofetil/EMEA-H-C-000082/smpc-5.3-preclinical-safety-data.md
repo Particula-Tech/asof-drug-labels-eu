@@ -20,7 +20,7 @@ The haematopoietic and lymphoid systems were the primary organs affected in toxi
 These effects occurred at systemic exposure levels that are equivalent to or less than the clinical exposure at the recommended dose of 2 g/day for renal transplant recipients.
 Gastrointestinal effects were observed in the dog at systemic exposure levels equivalent to or less than the clinical exposure at the recommended dose.
 Gastrointestinal and renal effects consistent with dehydration were also observed in the monkey at the highest dose (systemic exposure levels equivalent to or greater than clinical exposure).
-The nonclinical toxicity profile of mycophenolate mofetil appears to be consistent with adverse events observed in human clinical trials which now provide safety data of more relevance to the patient population (see section 4.8).
+The nonclinical toxicity profile of mycophenolate mofetil appears to be consistent with adverse events observed in human clinical trials, which now provide safety data of more relevance to the patient population (see section 4.8).
 
 [CellCept 500 mg powder for concentrate for solution for infusion.]
 
@@ -35,7 +35,7 @@ These effects occurred at systemic exposure levels that are equivalent to or les
 
 [CellCept 1 g/5 ml powder for oral suspension.]
 
-In a female fertility and reproduction study conducted in rats, oral doses of 4.5 mg/kg-/day caused malformations (including anophthalmia, agnathia, and hydrocephaly) in the first generation offspring in the absence of maternal toxicity.
+(all sentences already above)
 
 [CellCept 500 mg film-coated tablets.]
 

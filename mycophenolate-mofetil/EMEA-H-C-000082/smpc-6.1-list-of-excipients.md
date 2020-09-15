@@ -12,10 +12,9 @@ CellCept 500 mg powder for concentrate for solution for infusion polysorbate 80 
 
 CellCept 1 g/5 ml powder for oral suspension sorbitol silica, colloidal anhydrous sodium citrate soybean lecithin mixed fruit flavour xanthan gum aspartame* (E951) methyl parahydroxybenzoate (E218) citric acid anhydrous
 
-* contains phenylalanine equivalent to 2.78 mg/5 mL of suspension.
+* contains phenylalanine equivalent to 2.78 mg/5 ml of suspension.
 
 [CellCept 500 mg film-coated tablets.]
 
 CellCept tablets microcrystalline cellulose polyvidone (K-90) croscarmellose sodium magnesium stearate
-
 Tablet coating hydroxypropyl methylcellulose hydroxypropyl cellulose titanium dioxide (E171) polyethylene glycol 400 indigo carmine aluminium lake (E132) red iron oxide (E172)

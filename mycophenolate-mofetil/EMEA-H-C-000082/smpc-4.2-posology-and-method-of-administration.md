@@ -9,7 +9,6 @@ Use in renal transplant
 Adults
 Oral CellCept should be initiated within 72 hours following transplantation.
 The recommended dose in renal transplant patients is 1 g administered twice daily (2 g daily dose).
-
 Paediatric population aged 2 to 18 years
 The recommended dose of mycophenolate mofetil is 600 mg/m2 administered orally twice daily (up to a maximum of 2 g daily).
 CellCept capsules should only be prescribed to patients with a body surface area of at least 1.25 m2.
@@ -45,7 +44,7 @@ The recommended dose of 1 g administered twice a day for renal transplant patien
 
 Renal impairment
 In renal transplant patients with severe chronic renal impairment (glomerular filtration rate
-< 25 mL/min/1.73 m2), outside the immediate post-transplant period, doses greater than 1 g administered twice a day should be avoided.
+< 25 ml/min/1.73 m2), outside the immediate post-transplant period, doses greater than 1 g administered twice a day should be avoided.
 These patients should also be carefully observed.
 No dose adjustments are needed in patients experiencing delayed renal graft function post-operatively (see section 5.2).
 No data are available for cardiac or hepatic transplant patients with severe chronic renal impairment.
@@ -59,6 +58,9 @@ Mycophenolic acid (MPA) is the active metabolite of mycophenolate mofetil.
 Renal transplant rejection does not lead to changes in MPA pharmacokinetics; dosage reduction or interruption of CellCept is not required.
 There is no basis for CellCept dose adjustment following cardiac transplant rejection.
 No pharmacokinetic data are available during hepatic transplant rejection.
+
+Paediatric population
+No data are available for treatment of first or refractory rejection in paediatric transplant patients
 
 Method of administration
 
@@ -83,7 +85,7 @@ The recommended dose of CellCept for infusion in hepatic transplant patients is 
 IV CellCept should continue for the first 4 days following hepatic transplant, with oral CellCept initiated as soon after this as it can be tolerated.
 The recommended dose of oral CellCept in hepatic transplant patients is 1.5 g administered twice daily (3 g daily dose).
 
-Safety and efficacy of CellCept for infusion in paediatric patients have not been established.
+The safety and efficacy of CellCept for infusion in paediatric patients have not been established.
 No pharmacokinetic data with CellCept for infusion are available for paediatric renal transplant patients.
 No pharmacokinetic data are available for paediatric patients following hepatic transplants.
 
@@ -91,7 +93,7 @@ The recommended dose of 1 g administered twice a day for renal or hepatic transp
 
 No data are available for hepatic transplant patients with severe chronic renal impairment.
 
-Following reconstitution to a concentration of 6 mg/mL, CellCept 500 mg powder for concentrate for solution for infusion must be administered by slow intravenous infusion over a period of 2 hours by either a peripheral or a central vein (see section 6.6).
+Following reconstitution to a concentration of 6 mg/ml, CellCept 500 mg powder for concentrate for solution for infusion must be administered by slow intravenous infusion over a period of 2 hours by either a peripheral or a central vein (see section 6.6).
 
 Because mycophenolate mofetil has demonstrated teratogenic effects in rats and rabbits, avoid direct contact of the dry powder or prepared solutions of CellCept 500 mg powder for concentrate for solution for infusion with skin or mucous membranes.
 
@@ -100,9 +102,9 @@ For instructions on reconstitution and dilution of the medicinal product before 
 [CellCept 1 g/5 ml powder for oral suspension.]
 
 Oral CellCept 1 g/5 ml powder for oral suspension should be initiated within 72 hours following transplantation.
-The recommended dose in renal transplant patients is 1 g administered twice daily (2 g daily dose), i.e. 5 mL oral suspension twice daily.
+The recommended dose in renal transplant patients is 1 g administered twice daily (2 g daily dose), i.e. 5 ml oral suspension twice daily.
 
-The recommended dose of CellCept 1 g/5 ml powder for oral suspension is 600 mg/m2 administered twice daily (up to a maximum of 2 g/10 mL oral suspension daily).
+The recommended dose of CellCept 1 g/5 ml powder for oral suspension is 600 mg/m2 administered twice daily (up to a maximum of 2 g/10 ml oral suspension daily).
 
 These are insufficient to make dosage recommendations, and therefore use in this age group is not recommended.
 
@@ -110,7 +112,6 @@ No dose adjustments are needed in patients experiencing delayed renal graft func
 (see section 5.2).
 
 Note: If required, CellCept 1 g/5 ml powder for oral suspension can be administered via a nasogastric tube with a minimum size of 8 French (minimum 1.7 mm interior diameter).
-
 Because mycophenolate mofetil has demonstrated teratogenic effects in rats and rabbits, avoid inhalation or direct contact with skin or mucous membranes of the dry powder as well as direct contact of the reconstituted suspension with the skin.
 
 For instruction on reconstitution of the medicinal product before administration, see section 6.6.

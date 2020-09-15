@@ -1,8 +1,8 @@
 # 3. PHARMACEUTICAL FORM
 
-Capsules, hard.
+Capsules, hard (capsules).
 
-CellCept capsules: oblong, blue/brown, branded with black "CellCept 250" on the capsule cap and "Roche" name on the capsule body.
+CellCept capsules: oblong, blue/brown, branded with black "CellCept 250" on the capsule cap and "Roche" on the capsule body.
 
 [CellCept 500 mg powder for concentrate for solution for infusion.]
 
@@ -16,6 +16,6 @@ Powder for oral suspension.
 
 [CellCept 500 mg film-coated tablets.]
 
-Film coated tablets.
+Film-coated tablets (tablets).
 
-CellCept tablets: lavender coloured caplet-shaped tablet, engraved with "CellCept 500" on one side and "ROCHE" name on the other.
+CellCept tablets: lavender-coloured caplet-shaped tablet, engraved with "CellCept 500" on one side and "ROCHE" on the other.
