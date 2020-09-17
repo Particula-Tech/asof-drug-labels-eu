@@ -21,11 +21,11 @@ No increased susceptibility to tuberculosis was reported from clinical studies.
 However, secukinumab should not be given to patients with active tuberculosis.
 Anti-tuberculosis therapy should be considered prior to initiation of secukinumab in patients with latent tuberculosis.
 
-Inflammatory bowel disease
+Inflammatory bowel disease (including Crohn’s disease and ulcerative colitis)
 
-Cases of new or exacerbations of Crohn’s disease and ulcerative colitis have been reported.
-Caution should be exercised when prescribing secukinumab to patients with inflammatory bowel disease, including Crohn’s disease and ulcerative colitis.
-Patients should be closely monitored.
+Cases of new or exacerbations of inflammatory bowel disease have been reported with secukinumab (see section 4.8).
+Secukinumab is not recommended in patients with inflammatory bowel disease.
+If a patient develops signs and symptoms of inflammatory bowel disease or experiences an exacerbation of pre-existing inflammatory bowel disease, secukinumab should be discontinued and appropriate medical management should be initiated.
 
 Hypersensitivity reactions
 

@@ -27,12 +27,15 @@ Table 2 List of adverse reactions in clinical studies1) and post-marketing exper
 |  | Not known | Mucosal and cutaneous candidiasis (including oesophageal candidiasis) |
 | Blood and lymphatic system disorders | Uncommon | Neutropenia |
 | Immune system disorders | Rare | Anaphylactic reactions |
+| Nervous system disorders | Common | Headache |
 | Eye disorders | Uncommon | Conjunctivitis |
 | Respiratory, thoracic and mediastinal disorders | Common | Rhinorrhoea |
 | Gastrointestinal disorders | Common | Diarrhoea |
+|  | Common | Nausea |
 |  | Uncommon | Inflammatory bowel disease |
 | Skin and subcutaneous tissue disorders | Uncommon | Urticaria |
 |  | Rare | Exfoliative dermatitis2) |
+| General disorders and administration site conditions | Common | Fatigue |
 | 1) Placebo-controlled clinical studies (phase III) in plaque psoriasis, PsA, AS and nr-axSpA patients exposed to 300 mg, 150 mg, 75 mg or placebo up to 12 weeks (psoriasis) or 16 weeks (PsA, AS and nr-axSpA) treatment duration 2) Cases were reported in patients with psoriasis diagnosis |  |  |
 
 Description of selected adverse reactions

@@ -355,9 +355,9 @@ Patients randomised to secukinumab received 10 mg/kg intravenously at weeks 0, 2
 At week 16, patients who were randomised to placebo at baseline were re-randomised to receive secukinumab (either 150 mg or 300 mg subcutaneously) every month.
 The primary endpoint was ASAS 20 at week 16.
 Patients were blinded to the treatment regimen up to week 52, and the study continued to week 156.
-
 Signs and symptoms:
 In AS study 2, treatment with secukinumab 150 mg resulted in greater improvement in measures of disease activity compared with placebo at week 16 (see Table 8).
+
 Table 8 Clinical response in AS study 2 at week 16
 
 | Outcome (p-value versus placebo) | Placebo (n = 74) | 75 mg (n = 73) | 150 mg (n = 72) |
