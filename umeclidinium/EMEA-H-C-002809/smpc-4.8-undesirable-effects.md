@@ -18,7 +18,7 @@ The frequency of adverse reactions is defined using the following convention: ve
 | Eye disorders | Glaucoma Vision blurred Eye pain Intraocular pressure increased | Not known Not known Rare Not known |
 | Cardiac disorders | Atrial fibrillation Rhythm idioventricular Supraventricular tachycardia Supraventricular extrasystoles Tachycardia | Uncommon Uncommon Uncommon Uncommon Common |
 | Respiratory, thoracic and mediastinal disorders | Cough | Common |
-| Gastrointestinal disorders | Constipation Dry mouth | Uncommon Uncommon |
+| Gastrointestinal disorders | Constipation Dry mouth | common Uncommon |
 | Skin and subcutaneous tissue disorders | Rash | Uncommon |
 | Renal and urinary disorders | Urinary retention Dysuria | Not known Not known |
 
