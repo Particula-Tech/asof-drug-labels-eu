@@ -11,37 +11,36 @@ Tabulated list of adverse reactions
 
 Adverse reactions are presented by system organ class and frequency in Table 1 below.
 Frequency categories are defined as follows: very common (≥1/10), common (≥1/100 to <1/10), not known (cannot be estimated from the available data).
-The not known column represents adverse reactions reported for other oral levodopa medicinal products.
 
 Table 1: Adverse reactions
 
-|  | Adverse reactions in clinical trials with Inbrija |  | Adverse reactions reported with oral levodopa |
-| --- | --- | --- | --- |
-| System Organ Class | Very common | Common | Not known |
-| Neoplasm benign, malignant and unspecified (incl. cysts and polyps) |  |  | Malignant melanoma |
-| Blood and lymphatic system disorders |  |  | Anaemia, Agranulocytosis, Thrombocytopenia, Leukopenia |
-| Immune system disorder |  |  | Allergic oedema |
-| Metabolism and nutrition disorders |  |  | Decreased appetite |
-| Psychiatric disorders |  |  | Confusional state, Hallucination, Depression, Anxiety, Abnormal dreams, Insomnia, Psychotic disorder, Impulse-control disorder (see section 4.4), Agitation, |
-| System Organ Class | Very common | Common | Not known |
-|  |  |  | Suicide attempt (see section 4.4), Disorientation, Dopamine dysregulation syndrome, Euphoric mood, Libido increased, Bruxism, Paranoia, Delusion |
-| Nervous system disorders |  | Dyskinesia | Dystonia, On and off phenomenon, Somnolence, Dizziness, Worsening of Parkinson’s disease, Paraesthesia, Headache, Tremor, Seizure, Sudden onset of sleep (see section 4.4), Restless legs syndrome, Neuroleptic malignant syndrome (see section 4.4), Ataxia, Dysgeusia, Cognitive disorder, Horner's syndrome, Dementia |
-| Eye disorders |  |  | Vision blurred, Diplopia, Mydriasis, Oculogyric crisis, Blepharospasm |
-| Cardiac disorders |  |  | Cardiac rhythm disordersa (see section 4.4), Palpitations |
-| Vascular disorders |  |  | Orthostatic hypotension (see section 4.4), Hypertension, Syncope, Thrombophlebitis, Hot flush |
-| Respiratory, thoracic and mediastinal disorders | Cough | Upper respiratory tract infection, Sputum discoloured, Nasal discharge discolouration, Throat irritation | Dyspnoea, Respiration abnormal, Dysphonia, Hiccups |
-| Gastrointestinal disorders |  | Nausea, Vomiting | Abdominal pain, Constipation, Diarrhoea, |
-| System Organ Class | Very common | Common | Not known |
-|  |  |  | Dry mouth, Gastrointestinal haemorrhage, Peptic ulcer (see section 4.4), Dysphagia, Dyspepsia, Glossodynia, Flatulence, Saliva discolouration, Salivary hypersecretion |
-| Skin and subcutaneous tissue disorders |  |  | Angioedema, Hyperhidrosis, Rash, Pruritus, Henoch-Schonlein purpura, Urticaria, Alopecia, Sweat discolouration |
-| Musculoskeletal and connective tissue disorders |  |  | Muscle spasms, Trismus |
-| Renal and urinary disorders |  |  | Urinary retention, Chromaturia, Urinary incontinence |
-| Reproductive system and breast disorders |  |  | Priapism |
-| General disorders and administration site conditions |  |  | Oedema peripheral, Asthenia, Fatigue, Malaise, Gait disturbance, Chest pain |
-| Investigations |  |  | Aspartate aminotransferase increased, Alanine aminotransferase increased, Blood lactate dehydrogenase increased, Blood bilirubin increased, Blood glucose increased, Blood creatinine increased, Blood uric acid increased, Haemoglobin decreased, Haematocrit decreased, Blood urine present, Blood urea increased, Blood alkaline phosphatase increased, Coombs test positive, White blood cells urine positive, Bacterial test positive, Weight decreased, |
-| System Organ Class | Very common | Common | Not known |
-|  |  |  | Weight increased |
-| Injury, poisoning and procedural complications |  | Fall |  |
+|  | Adverse reactions with Inbrija |  |  | Adverse reactions reported with oral levodopa |
+| --- | --- | --- | --- | --- |
+| System Organ Class | Very common | Common | Not known | Not known |
+| Neoplasm benign, malignant and unspecified (incl. cysts and polyps) |  |  |  | Malignant melanoma |
+| Blood and lymphatic system disorders |  |  |  | Anaemia, Agranulocytosis, Thrombocytopenia, Leukopenia |
+| Immune system disorder |  |  |  | Allergic oedema |
+| Metabolism and nutrition disorders |  |  |  | Decreased appetite |
+| Psychiatric disorders |  |  |  | Confusional state, Hallucination, Depression, Anxiety, Abnormal dreams, Insomnia, Psychotic disorder, Impulse-control disorder (see section 4.4), |
+| System Organ Class | Very common | Common | Not known | Not known |
+|  |  |  |  | Agitation, Suicide attempt (see section 4.4), Disorientation, Dopamine dysregulation syndrome, Euphoric mood, Libido increased, Bruxism, Paranoia, Delusion |
+| Nervous system disorders |  | Dyskinesia |  | Dystonia, On and off phenomenon, Somnolence, Dizziness, Worsening of Parkinson’s disease, Paraesthesia, Headache, Tremor, Seizure, Sudden onset of sleep (see section 4.4), Restless legs syndrome, Neuroleptic malignant syndrome (see section 4.4), Ataxia, Dysgeusia, Cognitive disorder, Horner's syndrome, Dementia |
+| Eye disorders |  |  |  | Vision blurred, Diplopia, Mydriasis, Oculogyric crisis, Blepharospasm |
+| Cardiac disorders |  |  |  | Cardiac rhythm disordersa (see section 4.4), Palpitations |
+| Vascular disorders |  |  |  | Orthostatic hypotension (see section 4.4), Hypertension, Syncope, Thrombophlebitis, Hot flush |
+| Respiratory, thoracic and | Cough | Upper respiratory tract infection, | Sensation of choking | Dyspnoea, Respiration abnormal, Dysphonia, |
+| System Organ Class | Very common | Common | Not known | Not known |
+| mediastinal disorders |  | Sputum discoloured, Nasal discharge discolouration, Throat irritation |  | Hiccups |
+| Gastrointestinal disorders |  | Nausea, Vomiting |  | Abdominal pain, Constipation, Diarrhoea, Dry mouth, Gastrointestinal haemorrhage, Peptic ulcer (see section 4.4), Dysphagia, Dyspepsia, Glossodynia, Flatulence, Saliva discolouration, Salivary hypersecretion |
+| Skin and subcutaneous tissue disorders |  |  |  | Angioedema, Hyperhidrosis, Rash, Pruritus, Henoch-Schonlein purpura, Urticaria, Alopecia, Sweat discolouration |
+| Musculoskeletal and connective tissue disorders |  |  |  | Muscle spasms, Trismus |
+| Renal and urinary disorders |  |  |  | Urinary retention, Chromaturia, Urinary incontinence |
+| Reproductive system and breast disorders |  |  |  | Priapism |
+| General disorders and administration site conditions |  |  |  | Oedema peripheral, Asthenia, Fatigue, Malaise, Gait disturbance, Chest pain |
+| Investigations |  |  |  | Aspartate aminotransferase increased, Alanine aminotransferase increased, Blood lactate dehydrogenase increased, |
+| System Organ Class | Very common | Common | Not known | Not known |
+|  |  |  |  | Blood bilirubin increased, Blood glucose increased, Blood creatinine increased, Blood uric acid increased, Haemoglobin decreased, Haematocrit decreased, Blood urine present, Blood urea increased, Blood alkaline phosphatase increased, Coombs test positive, White blood cells urine positive, Bacterial test positive, Weight decreased, Weight increased |
+| Injury, poisoning and procedural complications |  | Fall |  |  |
 
 a Cardiac rhythm disorder here is a combined term representing atrial fibrillation, atrial flutter, atrioventricular block, bundle branch block, sick sinus syndrome, bradycardia, and tachycardia.
 
@@ -56,6 +55,9 @@ Pathological gambling, increased libido, hypersexuality, compulsive spending or 
 Coughing
 Most cough reported in the clinical studies with Inbrija were mild to moderate in intensity, and usually reported within the first 30 days of the treatment.
 Due to cough, 2% of subjects withdrew from the clinical studies with Inbrija.
+
+Sensation of choking
+In post-marketing experience, there have been reports of the sensation of choking associated with the drug powder impacting the back of the throat, immediately following administration.
 
 Reporting of suspected adverse reactions
 

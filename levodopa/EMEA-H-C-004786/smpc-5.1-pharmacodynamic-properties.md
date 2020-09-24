@@ -5,6 +5,7 @@ Pharmacotherapeutic group: Anti-Parkinson drugs, dopaminergic agents, ATC code: 
 Mechanism of action
 
 Levodopa is a precursor of dopamine, and is given as dopamine replacement therapy in Parkinson’s disease.
+
 Clinical efficacy and safety
 
 The effectiveness of Inbrija for the treatment of OFF episodes in patients with Parkinson’s disease given on top of background dopaminergic treatment was evaluated in a 12-week, randomised, placebo-controlled, double-blind study.
