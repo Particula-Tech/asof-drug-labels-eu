@@ -200,7 +200,7 @@ once daily
 
 When ANC Recommended coursea
 Falls to < 0.5 x 109/L Interrupt lenalidomide treatment
-Returns to ≥0.5 x 109/L Resume lenalidomide at dose level -1 once daily
+Returns to ≥ 0.5 x 109/L Resume lenalidomide at dose level -1 once daily
 For each subsequent drop below < 0.5 x 109/L Interrupt lenalidomide treatment
 Returns to ≥ 0.5 x 109/L Resume lenalidomide at next lower dose level
 
@@ -226,7 +226,7 @@ Prescribing physicians should carefully evaluate which dose of dexamethasone to 
 
 When platelets Recommended course
 First falls to < 30 x 109/L Interrupt lenalidomide treatment
-Returns to ≥30 x 109/L Resume lenalidomide at dose level -1
+Returns to ≥ 30 x 109/L Resume lenalidomide at dose level -1
 For each subsequent drop below 30 x 109/L Interrupt lenalidomide treatment
 Returns to ≥ 30 x 109/L Resume lenalidomide at next lower dose level
 
@@ -269,12 +269,10 @@ The recommended starting dose of lenalidomide is 10 mg orally once daily on days
 
 When platelets Recommended course
 Falls to < 25 x 109/L Interrupt lenalidomide treatment
-
 Returns to ≥ 25 x 109/L - < 50 x 109/L on at least 2 Resume lenalidomide at next lower dose level
-
 occasions for ≥ 7 days or when the platelet count (dose level -1, -2 or -3)
 
-recovers to ≥50 x 109/L at any time
+recovers to ≥ 50 x 109/L at any time
 
 - Absolute neutrophil count (ANC) - neutropenia
 
@@ -475,7 +473,7 @@ Multiple myeloma
 
 | Renal function (CLcr) | Dose adjustment |
 | --- | --- |
-| Moderate renal impairment (30 ≤CLcr < 50 mL/min) | 10 mg once daily1 |
+| Moderate renal impairment (30 ≤ CLcr < 50 mL/min) | 10 mg once daily1 |
 | Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis) | 7.5 mg once daily2 15 mg every other day |
 | End Stage Renal Disease (ESRD) (CLcr < 30 mL/min, requiring dialysis) | 5 mg once daily. On dialysis days, the dose should be administered following dialysis. |
 
@@ -502,7 +500,7 @@ Mantle cell lymphoma
 
 | Renal function (CLcr) | Dose adjustment (days 1 to 21 of repeated 28-day cycles) |
 | --- | --- |
-| Moderate renal impairment (30 ≤CLcr < 50 mL/min) | 10 mg once daily1 |
+| Moderate renal impairment (30 ≤ CLcr < 50 mL/min) | 10 mg once daily1 |
 | Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis) | 7.5 mg once daily2 15 mg every other day |
 | End Stage Renal Disease (ESRD) (CLcr < 30 mL/min, requiring dialysis) | 5 mg once daily. On dialysis days, the dose should be administered following dialysis. |
 
@@ -512,7 +510,7 @@ Follicular lymphoma
 
 | Renal function (CLcr) | Dose adjustment (days 1 to 21 of repeated 28-day cycles) |
 | --- | --- |
-| Moderate renal impairment (30 ≤CLcr < 60 mL/min) | 10 mg once daily1, 2 |
+| Moderate renal impairment (30 ≤ CLcr < 60 mL/min) | 10 mg once daily1, 2 |
 | Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis) | No data available3 |
 | End Stage Renal Disease (ESRD) (CLcr < 30 mL/min, requiring dialysis) | No data available3 |
 

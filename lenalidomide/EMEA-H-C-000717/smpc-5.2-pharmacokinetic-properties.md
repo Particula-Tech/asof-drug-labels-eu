@@ -43,7 +43,6 @@ Older people
 No dedicated clinical studies have been conducted to evaluate pharmacokinetics of lenalidomide in the elderly.
 Population pharmacokinetic analyses included patients with ages ranging from 39 to 85 years old and indicate that age does not influence lenalidomide clearance (exposure in plasma).
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it would be prudent to monitor renal function.
-
 Renal impairment
 The pharmacokinetics of lenalidomide was studied in subjects with renal impairment due to nonmalignant conditions.
 In this study, two methods were used to classify renal function: the urinary creatinine clearance measured over 24 hours and the creatinine clearance estimated by Cockcroft-Gault formula.

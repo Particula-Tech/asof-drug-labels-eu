@@ -22,6 +22,7 @@ In the SWOG S0777 study, the serious adverse reactions observed more frequently 
 - Hypotension (6.5%), lung infection (5.7%), dehydration (5.0%)
 
 The adverse reactions observed more frequently with lenalidomide in combination with bortezomib and dexamethasone than with lenalidomide in combination with dexamethasone were: Fatigue (73.7%), peripheral neuropathy (71.8%), thrombocytopenia (57.6%), constipation (56.1%), hypocalcaemia (50.0%).
+
 Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with low dose dexamethasone
 The serious adverse reactions observed more frequently (≥5%) with lenalidomide in combination with low dose dexamethasone (Rd and Rd18) than with melphalan, prednisone and thalidomide (MPT) were:
 
@@ -61,6 +62,7 @@ Serious adverse reactions include:
 - Grade 3 or 4 neutropenia, febrile neutropenia and Grade 3 or 4 thrombocytopenia (see section 4.4).
 
 The most commonly observed adverse reactions which occurred more frequently in the lenalidomide groups compared to the control arm in the phase 3 study were neutropenia (76.8%), thrombocytopenia (46.4%), diarrhoea (34.8%), constipation (19.6%), nausea (19.6%), pruritus (25.4%), rash (18.1%), fatigue (18.1%) and muscle spasms (16.7%).
+
 Mantle cell lymphoma
 The overall safety profile of lenalidomide in patients with mantle cell lymphoma is based on data from 254 patients from a phase 2 randomised, controlled study MCL-002 (see section 5.1).
 Additionally, adverse drug reactions from supportive study MCL-001 have been included in table 3.
@@ -103,6 +105,7 @@ Adverse reactions have been included under the appropriate category in the table
 Tabulated summary for monotherapy in MM
 The following table is derived from data gathered during NDMM studies in patients who have undergone ASCT treated with lenalidomide maintenance.
 The data were not adjusted according to the longer duration of treatment in the lenalidomide-containing arms continued until disease progression versus the placebo arms in the pivotal multiple myeloma studies (see section 5.1).
+
 Table 1.
 ADRs reported in clinical trials in patients with multiple myeloma treated with lenalidomide maintenance therapy
 
@@ -118,7 +121,8 @@ ADRs reported in clinical trials in patients with multiple myeloma treated with 
 | Gastrointestinal Disorders | Very Common Diarrhoea, Constipation, Abdominal pain, Nausea Common Vomiting, Abdominal pain upper | Common Diarrhoea, Vomiting, Nausea |
 | Hepatobiliary Disorders | Very Common Abnormal liver function tests | Common Abnormal liver function tests |
 | Skin and Subcutaneous Tissue Disorders | Very Common Rash, Dry skin | Common Rash, Pruritus |
-| Musculoskeletal and Connective Tissue Disorders | Very Common Muscle spasms Common Myalgia, Musculoskeletal pain |  |
+| Musculoskeletal and Connective Tissue Disorders | Very Common Muscle spasms Common |  |
+|  | Myalgia, Musculoskeletal pain |  |
 | General Disorders and Administration Site Conditions | Very Common Fatigue, Asthenia, Pyrexia | Common Fatigue, Asthenia |
 
 ◊ Adverse reactions reported as serious in clinical trials in patients with NDMM who had undergone ASCT
@@ -246,11 +250,7 @@ ADRs reported in clinical trials in patients with mantle cell lymphoma treated w
 
 Tabulated summary for combination therapy in FL
 The following table is derived from data gathered during the main studies (NHL-007 and NHL-008) using lenalidomide in combination with rituximab for patients with follicular lymphoma.
-
 Table 5: ADRs reported in clinical trials in patients with follicular lymphoma treated with lenalidomide in combination with rituximab
-
-System Organ Class / All ADRs/Frequency Grade 3−4 ADRs/Frequency
-Preferred Term
 
 | System Organ Class / Preferred Term | All ADRs/Frequency | Grade 3−4 ADRs/Frequency |
 | --- | --- | --- |
@@ -303,7 +303,7 @@ ADRs reported in post-marketing use in patients treated with lenalidomide
 | Blood and Lymphatic System Disorders | Not Known Acquired haemophilia |  |
 | Immune System Disorders | Rare Anaphylactic reaction^ Not Known Solid organ transplant rejection | Rare Anaphylactic reaction^ |
 | Endocrine Disorders | Common Hyperthyroidism |  |
-| Respiratory, Thoracic and Mediastinal Disorders |  | Not Known Interstitial pneumonitis |
+| Respiratory, Thoracic and Mediastinal Disorders | Uncommon Pulmonary hypertension | Rare Pulmonary hypertension Not Known Interstitial pneumonitis |
 | Gastrointestinal Disorders |  | Not Known Pancreatitis, Gastrointestinal perforation (including diverticular, intestinal and large intestine perforations)^ |
 | Hepatobiliary Disorders | Not Known Acute hepatic failure^, Hepatitis toxic^, Cytolytic hepatitis^, Cholestatic hepatitis^, Mixed cytolytic/cholestatic hepatitis^ | Not Known Acute hepatic failure^, Hepatitis toxic^ |
 | Skin and Subcutaneous Tissue Disorders |  | Uncommon Angioedema Rare Stevens-Johnson Syndrome^, Toxic epidermal necrolysis^ Not Known Leukocytoclastic vasculitis, Drug Reaction with Eosinophilia and Systemic Symptoms^ |
@@ -324,6 +324,7 @@ Neutropenia and thrombocytopenia
 Lenalidomide maintenance after ASCT is associated with a higher frequency of Grade 4 neutropenia compared to placebo maintenance (32.1% vs 26.7% [16.1% vs 1.8% after the start of maintenance treatment] in CALGB 100104 and 16.4% vs 0.7% in IFM 2005-02, respectively).
 Treatment-emergent AEs of neutropenia leading to lenalidomide discontinuation were reported in 2.2% of patients in CALGB 100104 and 2.4% of patients in IFM 2005-02, respectively.
 Grade 4 febrile neutropenia was reported at similar frequencies in the lenalidomide maintenance arms compared to placebo maintenance arms in both studies (0.4% vs 0.5% [0.4% vs 0.5% after the start of maintenance treatment] in CALGB 100104 and 0.3% vs 0% in IFM 2005-02, respectively).
+
 Lenalidomide maintenance after ASCT is associated with a higher frequency of Grade 3 or 4 thrombocytopenia compared to placebo maintenance (37.5% vs 30.3% [17.9% vs 4.1% after the start of maintenance treatment] in CALGB 100104 and 13.0% vs 2.9% in IFM 2005-02, respectively).
 
 - Newly diagnosed multiple myeloma patients who are not eligible for transplant receiving lenalidomide in combination with bortezomib and dexamethasone
