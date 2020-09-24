@@ -5,14 +5,14 @@ Eylea is administered directly into the vitreous to exert local effects in the e
 Absorption / Distribution
 Aflibercept is slowly absorbed from the eye into the systemic circulation after intravitreal administration and is predominately observed in the systemic circulation as an inactive, stable complex with VEGF; however only “free aflibercept” is able to bind endogenous VEGF.
 
-In a pharmacokinetic sub-study in 6 neovascular wet AMD patients with frequent sampling, maximum plasma concentrations of free aflibercept (systemic Cmax) were low, with a mean of approximately 0.02 microgram/ml (range 0 to 0.054) within 1 to 3 days after a 2 mg intravitreal injection, and were undetectable two weeks following dosage in almost all patients.
+In a pharmacokinetic sub-study in 6 neovascular wet AMD patients with frequent sampling, maximum plasma concentrations of free aflibercept (systemic Cmax) were low, with a mean of approximately 0.02 microgram/mL (range 0 to 0.054) within 1 to 3 days after a 2 mg intravitreal injection, and were undetectable two weeks following dosage in almost all patients.
 Aflibercept does not accumulate in the plasma when administered intravitreally every 4 weeks.
 
-The mean maximum plasma concentration of free aflibercept is approximately 50 to 500 times below the aflibercept concentration required to inhibit the biologic activity of systemic VEGF by 50% in animal models, in which blood pressure changes were observed after circulating levels of free aflibercept attained approximately 10 microgram/ml and returned to baseline when levels fell below approximately 1 microgram/ml.
-It is estimated that after intravitreal administration of 2 mg to patients, the mean maximum plasma concentration of free aflibercept is more than 100-fold lower than the concentration of aflibercept required to half-maximally bind systemic VEGF (2.91 microgram/ml) in a study of healthy volunteers.
+The mean maximum plasma concentration of free aflibercept is approximately 50 to 500 times below the aflibercept concentration required to inhibit the biologic activity of systemic VEGF by 50% in animal models, in which blood pressure changes were observed after circulating levels of free aflibercept attained approximately 10 microgram/mL and returned to baseline when levels fell below approximately 1 microgram/mL.
+It is estimated that after intravitreal administration of 2 mg to patients, the mean maximum plasma concentration of free aflibercept is more than 100-fold lower than the concentration of aflibercept required to half-maximally bind systemic VEGF (2.91 microgram/mL) in a study of healthy volunteers.
 Therefore, systemic pharmacodynamic effects such as blood pressure changes are unlikely.
 
-In pharmacokinetic sub-studies in patients with CRVO, BRVO, DME or myopic CNV mean Cmax of free aflibercept in plasma were similar with values in the range of 0.03 to 0.05 microgram/ml and individual values not exceeding 0.14 microgram/ml.
+In pharmacokinetic sub-studies in patients with CRVO, BRVO, DME or myopic CNV mean Cmax of free aflibercept in plasma were similar with values in the range of 0.03 to 0.05 microgram/mL and individual values not exceeding 0.14 microgram/mL.
 Thereafter, plasma concentrations of free aflibercept declined to values below or close to the lower limit of quantitation generally within one week; undetectable concentrations were reached before the next administration after 4 weeks in all patients.
 
 Elimination

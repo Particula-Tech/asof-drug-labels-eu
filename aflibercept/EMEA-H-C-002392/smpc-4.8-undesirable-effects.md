@@ -7,7 +7,7 @@ Among those, 2,501 patients were treated with the recommended dose of 2 mg.
 
 Serious ocular adverse reactions in the study eye related to the injection procedure have occurred in less than 1 in 1,900 intravitreal injections with Eylea and included blindness, endophthalmitis, retinal detachment, cataract traumatic, cataract, vitreous haemorrhage, vitreous detachment, and intraocular pressure increased (see section 4.4).
 
-The most frequently observed adverse reactions (in at least 5% of patients treated with Eylea) were conjunctival haemorrhage (25%), visual acuity reduced (11%), eye pain (10%), cataract (8%), intraocular pressure increased (8%), vitreous detachment (7%), and vitreous floaters (7%).
+The most frequently observed adverse reactions (in at least 5% of patients treated with Eylea) were conjunctival haemorrhage (25%), retinal haemorrhage (11%), visual acuity reduced (11%), eye pain (10%), cataract (8%), intraocular pressure increased (8%), vitreous detachment (7%), and vitreous floaters (7%).
 
 Tabulated list of adverse reactions
 
@@ -23,7 +23,7 @@ Table 1: All treatment-emergent adverse drug reactions reported in patients in p
 | System Organ Class | Very common | Common | Uncommon | Rare |
 | --- | --- | --- | --- | --- |
 | Immune system disorders |  |  | Hypersensitivity*** |  |
-| Eye disorders | Visual acuity reduced, Conjunctival haemorrhage, Eye pain | Retinal pigment epithelial tear*, Detachment of the retinal pigment epithelium, Retinal degeneration, Vitreous haemorrhage, Cataract, Cataract cortical, Cataract nuclear, Cataract subcapsular, Corneal erosion, Corneal abrasion, Intraocular pressure increased, Vision blurred, Vitreous floaters, Vitreous detachment, Injection site pain, Foreign body sensation in eyes, Lacrimation increased, Eyelid oedema, Injection site haemorrhage, Punctate keratitis, Conjunctival hyperaemia, Ocular hyperaemia | Endophthalmitis**, Retinal detachment, Retinal tear, Iritis, Uveitis, Iridocyclitis, Lenticular opacities, Corneal epithelium defect, Injection site irritation, Abnormal sensation in eye, Eyelid irritation, Anterior chamber flare, Corneal oedema | Blindness, Cataract traumatic, Vitritis, Hypopyon |
+| Eye disorders | Visual acuity reduced, Retinal haemorrhage, Conjunctival haemorrhage, Eye pain | Retinal pigment epithelial tear*, Detachment of the retinal pigment epithelium, Retinal degeneration, Vitreous haemorrhage, Cataract, Cataract cortical, Cataract nuclear, Cataract subcapsular, Corneal erosion, Corneal abrasion, Intraocular pressure increased, Vision blurred, Vitreous floaters, Vitreous detachment, Injection site pain, Foreign body sensation in eyes, Lacrimation increased, Eyelid oedema, Injection site haemorrhage, Punctate keratitis, Conjunctival hyperaemia, Ocular hyperaemia | Endophthalmitis**, Retinal detachment, Retinal tear, Iritis, Uveitis, Iridocyclitis, Lenticular opacities, Corneal epithelium defect, Injection site irritation, Abnormal sensation in eye, Eyelid irritation, Anterior chamber flare, Corneal oedema | Blindness, Cataract traumatic, Vitritis, Hypopyon |
 
 * Conditions known to be associated with wet AMD.
 Observed in the wet AMD studies only.

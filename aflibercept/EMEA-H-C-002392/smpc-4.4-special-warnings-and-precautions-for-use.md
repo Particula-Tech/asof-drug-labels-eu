@@ -1,5 +1,8 @@
 # 4.4 Special warnings and precautions for use
 
+Traceability
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
 Intravitreal injection-related reactions
 Intravitreal injections, including those with Eylea, have been associated with endophthalmitis, intraocular inflammation, rhegmatogenous retinal detachment, retinal tear and iatrogenic traumatic cataract (see section 4.8).
 Proper aseptic injection techniques must always be used when administering Eylea.
@@ -50,3 +53,6 @@ There is also no experience of treatment with Eylea in diabetic patients with un
 This lack of information should be considered by the physician when treating such patients.
 
 In myopic CNV there is no experience with Eylea in the treatment of non-Asian patients, patients who have previously undergone treatment for myopic CNV, and patients with extrafoveal lesions.
+
+Information about excipients
+This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially ’sodium-free’.

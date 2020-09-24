@@ -136,7 +136,7 @@ The secondary efficacy endpoints were the proportion of patients who did not los
 At week 52, patients in the treat-and-extend arm with 2-week adjustments gained a mean of 9.0 letters from baseline as compared to 8.4 letters for those in the 4-week adjustment group [LS mean difference in letters (95% CI): -0.4 (-3.8,3.0), ANCOVA].
 The proportion of patients who did not lose ≥15 letters in the two treatment arms was similar (96.7% in the 2-week and 95.9% in the 4-week adjustment groups).
 The proportion of patients who gained ≥15 letters at week 52 was 32.5% in the 2-week adjustment group and 30.9% in the 4-week adjustment group.
-The proportion of patients who extended their treatment interval to 12 weeks or beyond was 42.3% in the 2-week adjustment group and 49.6 % in the 4-week adjustment group.
+The proportion of patients who extended their treatment interval to 12 weeks or beyond was 42.3% in the 2-week adjustment group and 49.6% in the 4-week adjustment group.
 Furthermore, in the 4-week adjustment group 40.7% of patients were extended to 16 week intervals.
 At the last visit up to week 52, 56.8% and 57.8% of patients in the 2- week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of 12 weeks or beyond.
 
@@ -264,6 +264,7 @@ Beginning at week 24, patients meeting a pre-specified threshold of vision loss 
 
 In both studies, the primary efficacy endpoint was the mean change from baseline in BCVA at week 52 and both Eylea 2Q8 and Eylea 2Q4 groups demonstrated statistical significance and were superior to the control group.
 This benefit was maintained through week 100.
+
 Detailed results from the analysis of the VIVIDDME and VISTADME studies are shown in Table 5 and Figure 4 below.
 Table 5: Efficacy outcomes at week 52 and week 100 (Full Analysis Set with LOCF) in VIVIDDME and VISTADME studies
 
@@ -341,7 +342,7 @@ Paediatric population
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Eylea in all subsets of the paediatric population in wet AMD, CRVO, BRVO, DME and myopic CNV populations (see section 4.2 for information on paediatric use).
 
-[Eylea 40 mg/ml solution for injection in a vial.]
+[Eylea 40 mg/mL solution for injection in a vial.]
 
 The safety and efficacy of Eylea were assessed in two randomised, multi-centre, double-masked, active-controlled studies in patients with wet AMD (VIEW1 and VIEW2) with a. total of 2,412 patients treated and evaluable for efficacy (1,817 with Eylea).
 
@@ -359,6 +360,7 @@ The safety and efficacy of Eylea were assessed in two randomised, multi-centre, 
 
 In combined data analysis of VIEW1 and VIEW2 Eylea demonstrated clinically meaningful changes from baseline in pre-specified secondary efficacy endpoint National Eye Institute Visual Function Questionnaire (NEI VFQ-25) without clinically meaningful differences to ranibizumab.
 
+The proportion of patients who extended their treatment interval to 12 weeks or beyond was 42.3% in the 2-week adjustment group and 49.6 % in the 4-week adjustment group.
 At the last visit up to week 52, 56.
 8% and 57.8% of patients in the 2- week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of 12 weeks or beyond.
 

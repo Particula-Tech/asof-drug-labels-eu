@@ -84,7 +84,7 @@ In general, adequate anaesthesia and asepsis, including topical broad spectrum m
 Surgical hand disinfection, sterile gloves, a sterile drape, and a sterile eyelid speculum (or equivalent) are recommended.
 
 The injection needle should be inserted 3.5-4.0 mm posterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe.
-The injection volume of 0.05 ml is then delivered; a different scleral site should be used for subsequent injections.
+The injection volume of 0.05 mL is then delivered; a different scleral site should be used for subsequent injections.
 
 Immediately following the intravitreal injection, patients should be monitored for elevation in intraocular pressure.
 Appropriate monitoring may consist of a check for perfusion of the optic nerve head or tonometry.
@@ -99,13 +99,16 @@ The pre-filled syringe contains more than the recommended dose of 2 mg afliberce
 The extractable volume of the syringe (90 microlitres) is not to be used in total.
 The excess volume should be expelled before injecting.
 
-Injecting the entire volume of the prefilled syringe could result in overdose.
+Injecting the entire volume of the pre-filled syringe could result in overdose.
 To expel the air bubble along with excess medicinal product, slowly depress the plunger to align the cylindrical base of the dome plunger with the black dosing line on the syringe (equivalent to 50 microlitres i.e. 2 mg aflibercept).
 
 After injection any unused product must be discarded.
 For handling of the medicinal product before administration, see section 6.6.
 
-[Eylea 40 mg/ml solution for injection in a vial.]
+[Eylea 40 mg/mL solution for injection in a vial.]
+
+Treatment intervals greater than four months between injections have not been studied (see
+Section 5.1).
 
 Each vial should only be used for the treatment of a single eye.
 Extraction of multiple doses from a single vial may increase the risk of contamination and subsequent infection.
