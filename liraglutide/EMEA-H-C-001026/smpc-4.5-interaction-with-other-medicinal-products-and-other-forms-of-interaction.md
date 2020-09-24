@@ -29,7 +29,6 @@ Griseofulvin
 Liraglutide did not change the overall exposure of griseofulvin following administration of a single dose of griseofulvin 500 mg.
 Griseofulvin Cmax increased by 37% while median tmax did not change.
 Dose adjustments of griseofulvin and other compounds with low solubility and high permeability are not required.
-
 Digoxin
 
 A single dose administration of digoxin 1 mg with liraglutide resulted in a reduction of digoxin AUC by 16%; Cmax decreased by 31%.

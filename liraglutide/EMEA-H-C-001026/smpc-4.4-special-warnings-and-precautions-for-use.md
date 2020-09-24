@@ -34,3 +34,7 @@ Patients treated with liraglutide should be advised of the potential risk of deh
 Excipients
 
 Victoza contains less than 1 mmol sodium (23 mg) per dose, therefore the medicinal product is essentially ‘sodium-free’.
+
+Traceability
+
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.

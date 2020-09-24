@@ -27,9 +27,13 @@ Table 1 Adverse reactions from long-term controlled phase 3a trials, the long-te
 | Metabolism and nutrition disorders |  | Hypoglycaemia Anorexia Appetite decreased | Dehydration |  |  |
 | Nervous system disorders |  | Headache Dizziness |  |  |  |
 | Cardiac disorders |  | Increased heart rate |  |  |  |
-| Gastrointestina l disorders | Nausea Diarrhoea | Vomiting Dyspepsia Abdominal pain upper Constipation Gastritis Flatulence Abdominal distension Gastroesophageal reflux disease Abdominal discomfort Toothache | Delayed gastric emptying | Intestinal obstruction | Pancreatitis (including necrotising pancreatitis) |
-| Hepatobiliary disorders |  |  | Cholelithiasis Cholecystitis |  |  |
+| Gastrointestina l disorders | Nausea Diarrhoea | Vomiting Dyspepsia Abdominal pain upper Constipation Gastritis Flatulence Abdominal distension Gastroesophageal reflux disease | Delayed gastric emptying | Intestinal obstruction | Pancreatitis (including necrotising pancreatitis) |
 
+Abdominal
+discomfort
+Toothache
+Hepatobiliary Cholelithiasis
+disorders Cholecystitis
 Skin and Rash Urticaria
 subcutaneous Pruritus
 tissue disorder
@@ -76,6 +80,7 @@ In the LEADER trial, the frequency of cholelithiasis and cholecystitis was 1.5% 
 Withdrawal
 The incidence of withdrawal due to adverse reactions was 7.8% for liraglutide-treated patients and 3.4% for comparator-treated patients in the long-term controlled trials (26 weeks or longer).
 The most frequent adverse reactions leading to withdrawal for liraglutide-treated patients were nausea (2.8% of patients) and vomiting (1.5%).
+
 Injection site reactions
 Injection site reactions have been reported in approximately 2% of patients receiving Victoza in long-term (26 weeks or longer) controlled trials.
 These reactions have usually been mild.

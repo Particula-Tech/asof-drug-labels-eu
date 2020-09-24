@@ -46,6 +46,7 @@ A large cardiovascular outcomes trial (the LEADER trial) was also conducted with
 
 Monotherapy
 Liraglutide monotherapy for 52 weeks resulted in statistically significant and sustained reductions in HbA1c compared with glimepiride 8 mg (-0.84% for 1.2 mg, -1.14% for 1.8 mg vs -0.51% for comparator) in patients previously treated with either diet and exercise or OAD monotherapy at no more than half-maximal dose (Table 2).
+
 Combination with oral antidiabetics
 Liraglutide in combination therapy, for 26 weeks, with metformin, glimepiride or metformin and rosiglitazone or SGLT2i ± metformin resulted in statistically significant and sustained reductions in HbA1c compared with patients receiving placebo (Table 2).
 
