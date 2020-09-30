@@ -6,3 +6,5 @@ Do not dilute with glucose solutions since these cause aggregation of the protei
 [Herceptin 600 mg solution for injection in vial]
 
 Herceptin subcutaneous formulation is a ready to use solution which should not be mixed or diluted with other products.
+
+No incompatibilities between Herceptin subcutaneous formulation and polypropylene or polycarbonate syringe material or stainless steel transfer and injection needles and polyethylene Luer cone stoppers have been observed.

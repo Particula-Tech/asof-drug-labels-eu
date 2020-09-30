@@ -15,7 +15,6 @@ If not used immediately, in-use storage times and conditions prior to use are th
 
 21 months.
 
-Once transferred from the vial to the syringe the medicinal product is physically and chemically stable for 48 hours at 2°C – 8°C and subsequently 6 hours at ambient temperature (max.
+Once transferred from the vial to the syringe the medicinal product is physically and chemically stable for 28 days at 2°C – 8°C and for 6 hours (cumulative time in the vial and the syringe) at ambient temperature (max.
 30°C) in diffused daylight.
-
 As Herceptin does not contain any antimicrobial-preservative, from a microbiological point of view, the medicine should be used immediately.
