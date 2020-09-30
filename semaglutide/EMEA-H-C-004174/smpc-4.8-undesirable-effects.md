@@ -17,13 +17,21 @@ Table 1 Adverse reactions from long-term controlled phase 3a trials including th
 
 | MedDRA system organ class | Very common | Common | Uncommon | Rare |
 | --- | --- | --- | --- | --- |
-| Immune system disorders |  |  |  | Anaphylactic reaction |
+| Immune system disorders |  |  | Hypersensitivityc | Anaphylactic reaction |
 | Metabolism and nutrition disorders | Hypoglycaemiaa when used with insulin or sulfonylurea | Hypoglycaemiaa when used with other OADs Decreased appetite |  |  |
 | Nervous system disorders |  | Dizziness | Dysgeusia |  |
 | Eye disorders |  | Diabetic retinopathy complicationsb |  |  |
 | Cardiac disorders |  |  | Increased heart rate |  |
-| Gastrointestinal disorders | Nausea Diarrhoea | Vomiting Abdominal pain Abdominal distension Constipation Dyspepsia Gastritis Gastro-oesophageal reflux disease | Acute pancreatitis |  |
+| Gastrointestinal disorders | Nausea Diarrhoea | Vomiting Abdominal pain | Acute pancreatitis |  |
 
+Abdominal
+distension
+Constipation
+Dyspepsia
+Gastritis
+Gastro-
+oesophageal
+reflux disease
 Eructation
 Flatulence
 Hepatobiliary Cholelithiasis
@@ -38,6 +46,7 @@ Weight decreased
 
 a) Hypoglycaemia defined as severe (requiring the assistance of another person) or symptomatic in combination with a blood glucose <3.1 mmol/L b) Diabetic retinopathy complications is a composite of: retinal photocoagulation, treatment with intravitreal agents, vitreous haemorrhage, diabetes-related blindness (uncommon).
 Frequency based on cardiovascular outcomes trial.
+c) Grouped term covering also adverse events related to hypersensitivity such as rash and urticaria.
 
 2-year cardiovascular outcomes and safety trial
 In cardiovascular high risk population the adverse reaction profile was similar to that seen in the other phase 3a trials (described in section 5.1).
@@ -67,6 +76,7 @@ This was observed in insulin-treated patients with known diabetic retinopathy.
 The treatment difference appeared early and persisted throughout the trial.
 Systematic evaluation of diabetic retinopathy complication was only performed in the cardiovascular outcomes trial.
 In clinical trials up to 1 year involving 4,807 patients with type 2 diabetes, adverse events related to diabetic retinopathy were reported in similar proportions of subjects treated with semaglutide (1.7%) and comparators (2.0%).
+
 Discontinuation due to an adverse event
 The incidence of discontinuation of treatment due to adverse events was 6.1% and 8.7% for patients treated with semaglutide 0.5 mg and 1 mg, respectively, versus 1.5% for placebo.
 The most frequent adverse events leading to discontinuation were gastrointestinal.

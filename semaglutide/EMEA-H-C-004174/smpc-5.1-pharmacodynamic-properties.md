@@ -5,6 +5,7 @@ Pharmacotherapeutic group: Drugs used in diabetes, Glucagon-like peptide-1 (GLP-
 Mechanism of action
 Semaglutide is a GLP-1 analogue with 94% sequence homology to human GLP-1.
 Semaglutide acts as a GLP-1 receptor agonist that selectively binds to and activates the GLP-1 receptor, the target for native GLP-1.
+
 GLP--1 is a physiological hormone that has multiple actions in glucose and appetite regulation, and in the cardiovascular system.
 The glucose and appetite effects are specifically mediated via GLP-1 receptors in the pancreas and the brain.
 
@@ -39,7 +40,6 @@ In patients with type 2 diabetes, semaglutide resulted in the following relative
 Glucose dependent insulin and glucagon secretion
 Semaglutide lowered high blood glucose concentrations by stimulating insulin secretion and lowering glucagon secretion in a glucose dependent manner.
 With semaglutide, the insulin secretion rate in patients with type 2 diabetes was comparable to that of healthy subjects.
-
 During induced hypoglycaemia, semaglutide compared to placebo did not alter the counter regulatory responses of increased glucagon and did not impair the decrease of C-peptide in patients with type 2-diabetes.
 
 Gastric emptying
@@ -89,9 +89,7 @@ Table 2 SUSTAIN 1: Results at week 30
 | Body weight (kg) |  |  |  |
 | Baseline (mean) | 89.8 | 96.9 | 89.1 |
 | Change from baseline at week 30 | -3.7 | -4.5 | -1.0 |
-
-Difference from placebo [95% -2.7 [-3.9, -1.6]a -3.6 [-4.7, -2.4]a -
-CI]
+| Difference from placebo [95% CI] | -2.7 [-3.9, -1.6]a | -3.6 [-4.7, -2.4]a | - |
 
 ap <0.0001 (2-sided) for superiority
 
@@ -130,7 +128,6 @@ Time since randomisation (week) Time since randomisation (week)
 Sitagliptin Ozempic 0.5 mg Ozempic 1 mg Ozempic 0.5 mg Sitagliptin Ozempic 1 mg
 
 Figure 1 Mean change in HbA1c (%) and body weight (kg) from baseline to week 56
-
 SUSTAIN 7 – Ozempic vs. dulaglutide both in combination with metformin
 In a 40-week, open-label trial, 1,201 patients on metformin were randomised 1:1:1:1 to once weekly Ozempic 0.5 mg, dulaglutide 0.75 mg , Ozempic 1 mg or dulaglutide 1.5 mg, respectively .
 The trial compared 0.5 mg of Ozempic to 0.75 mg of dulaglutide and 1 mg of Ozempic to 1.5 mg of dulaglutide.

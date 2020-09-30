@@ -28,3 +28,6 @@ Rapid improvement in glucose control has been associated with a temporary worsen
 
 Sodium content
 This medicine contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially ‘sodium-free’.
+
+Traceability
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.

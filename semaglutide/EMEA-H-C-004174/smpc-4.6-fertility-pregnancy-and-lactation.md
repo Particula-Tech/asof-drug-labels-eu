@@ -13,7 +13,6 @@ Semaglutide should be discontinued at least 2 months before a planned pregnancy 
 Breast-feeding
 In lactating rats, semaglutide was excreted in milk.
 As a risk to a breast-fed child cannot be excluded, semaglutide should not be used during breast-feeding.
-
 Fertility
 The effect of semaglutide on fertility in humans is unknown.
 Semaglutide did not affect male fertility in rats.
