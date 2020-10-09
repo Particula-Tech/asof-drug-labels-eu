@@ -2,7 +2,7 @@
 
 This medicinal product does not require any special storage condition.
 
-[CELSENTRI 20 mg/ml oral solution]
+[CELSENTRI 20 mg/mL oral solution]
 
 Store below 30 ºC.
 Discard 60 days after first opening.

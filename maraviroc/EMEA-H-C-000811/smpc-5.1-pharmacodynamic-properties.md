@@ -89,8 +89,9 @@ The OBT was selected on the basis of the subject’s prior treatment history and
 
 Table 5: Demographic and baseline characteristics of patients (pooled studies MOTIVATE 1 and MOTIVATE 2)
 
-| Demographic and Baseline Characteristics | Maraviroc 300 mg twice daily + OBT N = 426 | Placebo + OBT N = 209 |
+| Demographic and Baseline Characteristics | Maraviroc 300 mg twice daily + OBT | Placebo + OBT |
 | --- | --- | --- |
+|  | N = 426 | N = 209 |
 | Age (years) (Range, years) | 46.3 21-73 | 45.7 29-72 |
 | Male Sex | 89.7% | 88.5% |
 | Race (White/Black/Other) | 85.2% / 12% / 2.8% | 85.2% / 12.4% / 2.4% |
@@ -178,7 +179,7 @@ At baseline, mean plasma HIV-1 RNA was 4.3 log10 copies/mL (range 2.4 to 6.2 log
 At 48 weeks, using a missing, switch or discontinuation equals failure analysis, 48% of subjects treated with maraviroc and OBT achieved plasma HIV-1 RNA less than 48 copies/mL and 65% of subjects achieved plasma HIV-1 RNA less than 400 copies per mL.
 The mean CD4+ cell count (percent) increase from baseline to Week 48 was 247 cells/mm3 (5%).
 
-[CELSENTRI 20 mg/ml oral solution]
+[CELSENTRI 20 mg/mL oral solution]
 
 | Subgroups | HIV-1 RNA <50 copies/mL |  |
 | --- | --- | --- |

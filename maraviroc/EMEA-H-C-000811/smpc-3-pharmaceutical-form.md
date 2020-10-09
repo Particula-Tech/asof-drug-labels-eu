@@ -18,7 +18,7 @@ CELSENTRI 300 mg film-coated tablets
 
 Blue, biconvex, oval film-coated tablets, approximate dimensions 10.5 mm x 19.0 mm and debossed with “MVC 300”.
 
-[CELSENTRI 20 mg/ml oral solution]
+[CELSENTRI 20 mg/mL oral solution]
 
 Oral solution.
 

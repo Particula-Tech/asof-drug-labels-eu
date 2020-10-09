@@ -82,7 +82,15 @@ CCR5 antagonists could potentially impair the immune response to certain infecti
 This should be taken into consideration when treating infections such as active tuberculosis and invasive fungal infections.
 The incidence of AIDS-defining infections was similar between maraviroc and placebo arms in the pivotal studies.
 
-Soya lecithin
+Excipients
 
 CELSENTRI contains soya lecithin.
 If a patient is hypersensitive to peanut or soya, CELSENTRI should not be used.
+
+CELSENTRI contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium free’.
+
+[CELSENTRI 20 mg/mL oral solution]
+
+CELSENTRI contains 1 mg sodium benzoate (E211) in each mL.
+
+CELSENTRI contains less than 1 mmol sodium (23 mg) in each mL, that is to say essentially ‘sodium free’.

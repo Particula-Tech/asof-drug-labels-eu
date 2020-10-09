@@ -16,11 +16,11 @@ Talc
 Soya lecithin
 Indigo carmine aluminium lake (E132)
 
-[CELSENTRI 20 mg/ml oral solution]
+[CELSENTRI 20 mg/mL oral solution]
 
 Citric acid (anhydrous)
 Sodium citrate dihydrate
 Sucralose
-Sodium benzoate
+Sodium benzoate (E211)
 Strawberry flavouring
 Purified water

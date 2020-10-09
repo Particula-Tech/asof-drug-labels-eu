@@ -22,7 +22,7 @@ Polyvinyl chloride (PVC) blisters with child-resistant (CR) aluminium/polyethyle
 
 Not all pack sizes may be marketed.
 
-[CELSENTRI 20 mg/ml oral solution]
+[CELSENTRI 20 mg/mL oral solution]
 
 High density polyethylene (HDPE) bottle, with a child resistant closure, containing 230 mL maraviroc 20 mg/mL solution.
 The pack also includes a thermoplastic elastomeric press in bottle adapter, and a 10 ml oral applicator comprised of a polypropylene barrel (with mL graduations) and a polyethylene plunger.

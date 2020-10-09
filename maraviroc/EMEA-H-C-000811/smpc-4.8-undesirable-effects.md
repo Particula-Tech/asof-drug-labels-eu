@@ -96,7 +96,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 listed in Appendix V.
 
-[CELSENTRI 20 mg/ml oral solution]
+[CELSENTRI 20 mg/mL oral solution]
 
 Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥1/1000 to <1/100), rare (≥1/10,000 to <1/1000) , or not known (cannot be estimated from the available data).
 

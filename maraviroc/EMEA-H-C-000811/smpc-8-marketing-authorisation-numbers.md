@@ -21,6 +21,6 @@ EU/1/07/418/008 (60 tablets)
 EU/1/07/418/009 (90 tablets)
 EU/1/07/418/010 (2 x 90 tablets - multipack)
 
-[CELSENTRI 20 mg/ml oral solution]
+[CELSENTRI 20 mg/mL oral solution]
 
 EU/1/07/418/013

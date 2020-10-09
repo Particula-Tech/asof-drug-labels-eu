@@ -22,6 +22,8 @@ Excipient with known effect: each 300 mg film-coated tablet contains 1.68 mg of 
 
 For the full list of excipients, see section 6.1.
 
-[CELSENTRI 20 mg/ml oral solution]
+[CELSENTRI 20 mg/mL oral solution]
 
-Each ml of oral solution contains 20 mg maraviroc.
+Each mL of oral solution contains 20 mg maraviroc.
+
+Excipient with known effect: Each mL of oral solution contains 1 mg sodium benzoate (E211).

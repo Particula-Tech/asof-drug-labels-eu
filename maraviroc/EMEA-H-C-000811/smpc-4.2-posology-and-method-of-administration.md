@@ -70,7 +70,7 @@ Method of administration
 Oral use.
 CELSENTRI can be taken with or without food.
 
-[CELSENTRI 20 mg/ml oral solution]
+[CELSENTRI 20 mg/mL oral solution]
 
 CELSENTRI oral solution (20 mg per mL) formulation should be prescribed if a child is unable to reliably swallow CELSENTRI tablets.
 
