@@ -4,7 +4,6 @@
 
 [Briviact 10 mg/ml oral solution]
 
-3 years.
 After first opening: 5 months
 
 [Briviact 10 mg/ml solution for injection/infusion]

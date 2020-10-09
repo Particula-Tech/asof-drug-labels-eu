@@ -14,27 +14,27 @@ Hepatic impairment
 There are limited clinical data on the use of brivaracetam in patients with pre-existing hepatic impairment.
 Dose adjustments are recommended for patients with hepatic impairment (see section 4.2).
 
-Lactose intolerance
+Excipients
 
+Lactose intolerance
 Brivaracetam film-coated tablets contain lactose.
-Patients with rare heriditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+
+Sodium content
+Brivaracetam film-coated tablets contain less than 1 mmol sodium (23mg) per tablet, that is to say essentially ‘sodium free’.
 
 [Briviact 10 mg/ml oral solution]
 
-Excipients
-
-Sodium content
-Brivaracetam oral solution contains sodium.
-To be taken into consideration by patients on a controlled sodium diet.
+Brivaracetam oral solution contains less than 1 mmol sodium (23mg) per ml, that is to say essentially ‘sodium free’.
 
 Fructose intolerance
-The oral solution contains sorbitol (E420).
-Patients with rare hereditary problems of fructose intolerance should not take this medicine.
+This medicine contains 239.8 mg sorbitol (E420) in each ml.
+Patients with hereditary fructose intolerance (HFI) should not take this medicinal product.
 
 Excipients which may cause intolerance
 The oral solution contains methyl parahydroxybenzoate (E218), which may cause allergic reactions (possibly delayed).
+Brivaracetam oral solution contains propylene glycol (E1520).
 
 [Briviact 10 mg/ml solution for injection/infusion]
 
-The solution for injection/infusion contains 0.83 mmol (or 19.14 mg) sodium per vial.
-To be taken into consideration for patients on a controlled sodium diet.
+This medicinal product contains 19.1 mg sodium per vial, equivalent to 1 % of the WHO recommended maximum daily intake of 2 g sodium for an adult.

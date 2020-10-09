@@ -8,6 +8,7 @@ Absorption
 Brivaracetam is rapidly and completely absorbed after oral administration and the absolute bioavailablity is approximately 100 %.
 The median tmax for tablets taken without food is 1 hour (tmax range is 0.25 to 3 h).
 Coadministration with a high-fat meal slowed down the absorption rate (median tmax 3 h) and decreased the maximum plasma concentration (37 % lower) of brivaracetam, while the extent of absorption remained unchanged.
+
 Distribution
 
 Brivaracetam is weakly bound (≤ 20 %) to plasma proteins.
@@ -43,7 +44,7 @@ In vitro assays showed that brivaracetam disposition should not be significantly
 CYP1A, 2C8, 2C9, 2D6 and 3A4) inhibitors.
 
 In vitro, brivaracetam was not an inhibitor of the CYP1A2, 2A6, 2B6, 2C8, 2C9, 2D6, 3A4, or the transporters P-gp, BCRP, BSEP MRP2, MATE-K, MATE-1, OATP1B1, OATP1B3, OAT1 and OCT1 at clinically relevant concentrations.
-In vitro, brivaracetam did ot induce CYP1A2.
+In vitro, brivaracetam did not induce CYP1A2.
 
 Pharmacokinetics in special patient groups
 
@@ -58,19 +59,8 @@ The hydroxyacid metabolite did not reveal any safety concerns in non clinical st
 Brivaracetam has not been studied in patients undergoing hemodialysis (see section 4.2).
 
 Hepatic impairment
-A pharmacokinetic study in subjects with hepatic cirrhosis (Child-Pugh grades A, B, and C) showed similar increases in exposure to brivaracetam irrespective of disease severity (50 %, 57 % and 59 %), relative to matched healthy controls.
-(see section 4.2)
-
-Paediatric population
-In a pharmacokinetic study with a 3-week evaluation period and weekly fixed 3-step up-titration using the brivaracetam oral solution, 99 subjects aged 1 month to <16 years were evaluated.
-Brivaracetam was administered at weekly increasing doses of approximately 1 mg/kg/day, 2 mg/kg/day, and 4 mg/kg/day.
-All doses were adjusted by body weight, and did not exceed a maximum of 50 mg/day, 100 mg/day, and 200 mg/day.
-At the end of the evaluation period, subjects may have been eligible for entry into a long-term follow-up study continuing on their last received dose (see section 4.8).
-Plasma concentrations were shown to be dose-proportional in all age groups.
-Population pharmacokinetics modeling indicated that the dose of 2.0 mg/kg twice a day provides the same steady-state average plasma concentration as in adults receiving 100 mg twice daily.
-The estimated plasma clearance was 1.61 L/h, 2.18 L/h and 3.19 L/h for children weighing 20 kg, 30 kg and 50 kg, respectively.
-In comparison, plasma clearance was estimated at 3.58 L/h in adult patients (70 kg body weight).
-Currently, no clinical data are available in neonates.
+A pharmacokinetic study in subjects with hepatic cirrhosis (Child-Pugh classes A, B, and C) showed similar increases in exposure to brivaracetam irrespective of disease severity (50 %, 57 % and 59 %), relative to matched healthy controls.
+(see section 4.2).
 
 Body weight
 A 40 % decrease in steady-state plasma concentration has been estimated across a body weight range from 46 kg to 115 kg.
@@ -88,6 +78,18 @@ Pharmacokinetic/pharmacodynamics relationship
 The EC50 (brivaracetam plasma concentration corresponding to 50 % of the maximum effect) was estimated to be 0.57 mg/L.
 This plasma concentration is slightly above the median exposure obtained after brivaracetam doses of 50 mg/day.
 Further seizure frequency reduction is obtained by increasing the dose to 100 mg/day and reaches a plateau at 200 mg/day.
+
+Paediatric population
+
+In a pharmacokinetic study with a 3-week evaluation period and weekly fixed 3-step up-titration using the brivaracetam oral solution, 99 subjects aged 1 month to <16 years were evaluated.
+Brivaracetam was administered at weekly increasing doses of approximately 1 mg/kg/day, 2 mg/kg/day, and 4 mg/kg/day.
+All doses were adjusted by body weight, and did not exceed a maximum of 50 mg/day, 100 mg/day, and 200 mg/day.
+At the end of the evaluation period, subjects may have been eligible for entry into a long-term follow-up study continuing on their last received dose (see section 4.8).
+Plasma concentrations were shown to be dose-proportional in all age groups.
+Population pharmacokinetics modeling indicated that the dose of 2.0 mg/kg twice a day provides the same steady-state average plasma concentration as in adults receiving 100 mg twice daily.
+The estimated plasma clearance was 1.61 L/h, 2.18 L/h and 3.19 L/h for children weighing 20 kg, 30 kg and 50 kg, respectively.
+In comparison, plasma clearance was estimated at 3.58 L/h in adult patients (70 kg body weight).
+Currently, no clinical data are available in neonates.
 
 [Briviact 10 mg/ml oral solution]
 

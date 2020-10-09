@@ -81,6 +81,7 @@ Open label extension studies
 Across all studies, 81.7 % of the patients who completed randomized studies were enrolled in the long-term open-label extension studies.
 From entry into the randomized studies,5.3 % of the subjects exposed to brivaracetam for 6 months (n=1,500) were seizure free compared to 4.6 % and 3.7 % for subjects exposed for 12 months (n=1,188) and 24 months (n=847), respectively.
 However, as a high proportion of subjects (26%) discontinued from the open-label studies due to lack of efficacy, a selection bias may have occurred, as the subjects who stayed in the study responded better than those who have terminated prematurely.
+In patients who were followed up in the open-label extension studies for up to 8 years, the safety profile was similar to that observed in the short-term, placebo-controlled studies.
 
 Paediatric population
 
@@ -98,7 +99,7 @@ From the pooled open-label safety and PK studies in adjunctive therapy, 149 chil
 The efficacy and tolerability of brivaracetam in paediatric patients less than 4 years of age have not been established (see section 4.2).
 Brivaracetam was evaluated in these patients in a short term open-label pharmacokinetic study and an ongoing open-label extension study, in 16 subjects from 1 month to <4 years of age (see section 5.2).
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with brivaracetam in one or more subsets of the paediatric population in epilepsy with partial onset seizures.
+The European Medicines Agency has deferred the obligation to submit the results of studies with brivaracetam in one or more subsets of the paediatric population in epilepsy with partial onset seizures (see section 4.2 for information on paediatric use).
 
 [Briviact 10 mg/ml oral solution]
 

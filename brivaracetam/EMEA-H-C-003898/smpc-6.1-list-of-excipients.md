@@ -2,7 +2,7 @@
 
 Core
 
-Croscarmellose Sodium,
+Croscarmellose sodium,
 Lactose monohydrate
 Betadex
 Lactose anhydrous
@@ -11,40 +11,39 @@ Magnesium stearate
 Coating
 
 Briviact 10 mg film-coated tablets
-Polyvinyl alcohol
+Poly(vinyl alcohol)
 Titanium dioxide (E171)
-Macrogol 3350
-Talc.
+Macrogol (3350)
+Talc
 
 Briviact 25 mg film-coated tablets
-Polyvinyl alcohol
+Poly(vinyl alcohol)
 Titanium dioxide (E171)
-Macrogol 3350
+Macrogol (3350)
 Talc
 Iron oxide yellow (E172)
-Iron oxide black (E172).
-
+Iron oxide black (E172)
 Briviact 50 mg film-coated tablets
-Polyvinyl alcohol
+Poly(vinyl alcohol)
 Titanium dioxide (E171)
-Macrogol 3350
-Talc
-Iron oxide yellow (E172)
-Iron oxide red (E172).
-
-Briviact 75 mg film-coated tablets
-Polyvinyl alcohol
-Titanium dioxide (E171)
-Macrogol 3350
+Macrogol (3350)
 Talc
 Iron oxide yellow (E172)
 Iron oxide red (E172)
-Iron oxide black (E172).
+
+Briviact 75 mg film-coated tablets
+Poly(vinyl alcohol)
+Titanium dioxide (E171)
+Macrogol (3350)
+Talc
+Iron oxide yellow (E172)
+Iron oxide red (E172)
+Iron oxide black (E172)
 
 Briviact 100 mg film-coated tablets
-Polyvinyl alcohol
+Poly(vinyl alcohol)
 Titanium dioxide (E171)
-Macrogol 3350
+Macrogol (3350)
 Talc
 Iron oxide yellow (E172)
 Iron oxide black (E172)
@@ -56,10 +55,10 @@ Citric acid anhydrous (for pH-adjustment)
 Methyl parahydroxybenzoate (E218)
 Carmellose sodium
 Sucralose
-Sorbitol liquid
+Sorbitol liquid (E420)
 Glycerol (E422)
-Raspberry flavour (propylene glycol 90 % - 98 %)
-Purified water.
+Raspberry flavour (propylene glycol (E1520) 90 % - 98 %)
+Purified water
 
 [Briviact 10 mg/ml solution for injection/infusion]
 

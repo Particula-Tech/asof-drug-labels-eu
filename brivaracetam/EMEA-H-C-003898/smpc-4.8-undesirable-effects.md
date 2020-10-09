@@ -2,12 +2,10 @@
 
 Summary of the safety profile
 
-In all controlled and uncontrolled trials in patients with epilepsy, 2,388 subjects have received brivaracetam, of whom 1,740 have been treated for ≥ 6 months,1,363 for ≥ 12 months, 923 for ≥24 months and 569 for ≥ 60 months (5 years).
-
 The most frequently reported adverse reactions (>10 %) with brivaracetam treatment were: somnolence (14.3 %) and dizziness (11.0 %).
 They were usually mild to moderate in intensity.
 Somnolence and fatigue (8.2 %) were reported at a higher incidence with increasing dose.
-The types of adverse reactions reported during the first 7 days of treatment were similar to those reported for the overall treatment period.
+
 The discontinuation rate due to adverse reactions was 3.5 %, 3.4 % and 4.0 % for patients randomized to brivaracetam at respectively the dose of 50 mg/day, 100 mg/day and 200 mg/day and 1.7 % for patients randomized to placebo.
 The adverse reactions most frequently resulting in discontinuation of brivaracetam therapy were dizziness (0.8 %) and convulsion (0.8 %).
 
@@ -21,8 +19,8 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | --- | --- | --- |
 | Infections and infestations | Common | Influenza |
 | Blood and lymphatic system disorders | Uncommon | Neutropenia |
-| Metabolism and nutrition disorders | Common | Decreased appetite |
 | Immune system disorders | Uncommon | Type I hypersensitivity |
+| Metabolism and nutrition disorders | Common | Decreased appetite |
 | Psychiatric disorders | Common | Depression, anxiety, insomnia, irritability |
 |  | Uncommon | Suicidal ideation, psychotic disorder, aggression, agitation |
 | Nervous system disorders | Very common | Dizziness, somnolence |
@@ -42,10 +40,8 @@ In the short-term clinical studies of brivaracetam in epilepsy patients, there w
 
 Reactions suggestive of immediate (Type I) hypersensitivity have been reported in a small number of brivaracetam patients (9/3022) during clinical development.
 
-Open-label extension studies
-
-In patients who were followed up in the open-label extension studies for up to 8 years, the safety profile was similar to that observed in the short-term, placebo-controlled studies.
 Paediatric population
+
 The safety profile of brivaracetam observed in children was consistent with the safety profile observed in adults.
 In the open label, uncontrolled, long-term studies suicidal ideation was reported in 4.7 % of paediatric patients (more common in adolescents) compared with 2.4 % of adults and behavioural disorders were reported in 24.8 % of paediatric patients compared with 15.1 % of adults.
 The majority of events were mild or moderate in intensity, were non-serious, and did not lead to discontinuation of study drug.
@@ -69,14 +65,12 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [Briviact 10 mg/ml oral solution]
 
-In all controlled and uncontrolled trials in patients with epilepsy, 2,388 subjects have received brivaracetam, of whom 1,740 have been treated for ≥ 6 months,1,363 for ≥ 12 months, 923 for ≥
-24 months and 569 for ≥ 60 months (5 years).
-
 The discontinuation rate due to adverse reactions was 3.5 %, 3.4 % and 4.0 % for patients randomized to brivaracetam at respectively the dose of 50 mg/day, 100 mg/day and 200 mg/day and 1.7% for patients randomized to placebo.
 
 The frequencies are defined as follows: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥ 1/1,000 to < 1/100).
 
 Neutropenia has been reported in 0.5 % (6/1,099) brivaracetam patients and 0 % (0/459) placebo patients.
+
 Suicidal ideation has been reported in 0.3 % (3/1,099) brivaracetam patients and 0.7 % (3/459) placebo patients.
 
 [Briviact 10 mg/ml solution for injection/infusion]

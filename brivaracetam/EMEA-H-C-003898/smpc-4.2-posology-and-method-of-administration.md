@@ -2,10 +2,34 @@
 
 Posology
 
+The physician should prescribe the most appropriate formulation and strength according to weight and dose.
+
 Adults
-The recommended starting dose is either 50 mg/day or 100 mg/day based on physician assessment of required seizure reduction versus potential side effects.
+The recommended starting dose is either 50 mg/day or 100 mg/day based on physician’s assessment of required seizure reduction versus potential side effects.
 The dose should be administered in two equally divided doses, once in the morning and once in the evening.
 Based on individual patient response and tolerability, the dose may be adjusted in the dose range of 50 mg/day to 200 mg/day.
+
+Children (from 4 years of age) and adolescents weighing 50 kg or more
+The recommended starting dose is 50mg/day.
+Brivaracetam may also be initiated at 100 mg/day based on physician’s assessment of need for seizure control.
+The dose should be administered in two equally divided doses, once in the morning and once in the evening.
+The recommended maintenance dose is 100 mg/day.
+Based on individual patient response, the dose may be adjusted in the effective dose range of 50 mg/day to 200 mg/day.
+Children (from 4 years of age) and adolescents weighing less than 50 kg
+The recommended starting dose is 1 mg/kg/day.
+Brivaracetam may also be initiated at 2 mg/kg/day based on physician’s assessment of need for seizure control.
+The dose should be administered in two equally divided doses, once in the morning and once in the evening.The recommended maintenance dose is 2 mg/kg/day.
+Based on individual patient response, the dose may be adjusted in the effective dose range of 1 mg/kg/day to 4 mg/kg/day.
+
+The following table summarises the recommended posology for children from 4 years of age and adolescents.
+
+|  | Children (≥4 years) and adolescents ≥50 kg Administered in 2 equally divided doses | Children (≥4 years) and adolescents <50 kg Administered in 2 equally divided doses |
+| --- | --- | --- |
+| Therapeutic dose range | 50 - 200 mg/day | 1 - 4 mg/kg/day |
+| Recommended starting dose | 50 mg/day (or 100 mg/day)* | 1 mg/kg/day (or 2 mg/kg/day)* |
+| Recommended maintenance dose | 100 mg/day | 2 mg/kg/day |
+
+* Based on physician’s assessment of need for seizure control.
 
 Missed doses
 If patients missed one dose or more, it is recommended that they take a single dose as soon as they remember and take the following dose at the usual morning or evening time.
@@ -30,39 +54,10 @@ Hepatic impairment
 Exposure to brivaracetam was increased in adult patients with chronic liver disease.
 In adults, a 50 mg/day starting dose should be considered.
 In children and adolescents weighing 50 kg or greater, a 50 mg/day starting dose is recommended.
-A maximum daily dose of 150 mg administered in 2 divided doses is recommended for all stages of hepatic impairment (see section 4.4 and 5.2).
+A maximum daily dose of 150 mg administered in 2 divided doses is recommended for all stages of hepatic impairment (see sections 4.4 and 5.2).
 In children and adolescents weighing less than 50 kg, a 1 mg/kg/day starting dose is recommended.
 The maximum dose should not exceed 3 mg/kg/day.
 No clinical data are available in paediatric patients with hepatic impairment.
-
-Paediatric population
-The physician should prescribe the most appropriate formulation and strength according to weight and dose.
-
-The following table summarises the recommended posology for children from 4 years of age and adolescents.
-More details are provided below the table.
-
-|  | Children (≥4 years) and adolescents ≥50 kg | Children (≥4 years) and adolescents <50 kg |
-| --- | --- | --- |
-|  | Administered in 2 equally divided doses | Administered in 2 equally divided doses |
-| Therapeutic dose range | 50 - 200 mg/day | 1 - 4 mg/kg/day |
-| Recommended starting dose | 50 mg/day (or 100 mg/day)* | 1 mg/kg/day (or 2 mg/kg/day)* |
-| Recommended maintenance dose | 100 mg/day | 2 mg/kg/day |
-
-* Based on physician assessment of need for seizure control.
-
-Children (from 4 years of age) and adolescents weighing 50 kg or more
-The recommended starting dose is 50mg/day.
-Brivaracetam may also be initiated at 100 mg/day based on physician assessment of need for seizure control.
-The dose should be administered in two equally divided doses, once in the morning and once in the evening.
-The recommended maintenance dose is 100 mg/day.
-Based on individual patient response, the dose may be adjusted in the effective dose range of 50 mg/day and 200 mg/day.
-
-Children (from 4 years of age) and adolescents weighing less than 50 kg
-The recommended starting dose is 1 mg/kg/day.
-Brivaracetam may also be initiated at 2 mg/kg/day based on physician assessment of need for seizure control.
-The dose should be administered in two equally divided doses, once in the morning and once in the evening.The recommended maintenance dose is 2 mg/kg/day.
-Based on individual patient response, the dose may be adjusted in the effective dose range of 1 mg/kg/day and 4 mg/kg/day.
-
 Children less than 4 years
 The safety and efficacy of brivaracetam in children aged less than 4 years have not yet been established.
 Currently available data are described in section 4.8, 5.1, and 5.2 but no recommendation on a posology can be made.
@@ -79,6 +74,7 @@ The dose should be administered in two equally divided doses, once in the mornin
 
 The recommended starting dose is 1mg/kg/day.
 The recommended maintenance dose is 2 mg/kg/day.
+
 The dose per intake for each patient should be calculated using the following formula:
 
 Volume per administration (ml) = [weight (kg) x daily dose (mg/kg/day) ] x 0.05
@@ -88,9 +84,7 @@ The precise volume of oral solution is to be calculated according to the exact b
 
 |  | Volumes of oral solution to be taken per administration |  |  |  |
 | --- | --- | --- | --- | --- |
-| Weight | For a dose of 1 mg/kg/day | For a dose of 2 mg/kg/day | For a dose of 3 mg/kg/day | For a dose of 4 mg/kg/day |
-|  | 0.05 ml/kg/intake | 0.1 ml/kg/intake | 0.15 ml/kg/intake | 0.2 ml/kg/intake |
-|  | (corresponding to 0.5 mg/kg/intake) | (corresponding to 1 mg/kg/intake) | (corresponding to 1.5 mg/kg/intake) | (corresponding to 2 mg/kg/intake) |
+| Weight | For a dose of 1 mg/kg/day 0.05 ml/kg/intake (corresponding to 0.5 mg/kg/intake) | For a dose of 2 mg/kg/day 0.1 ml/kg/intake (corresponding to 1 mg/kg/intake) | For a dose of 3 mg/kg/day 0.15 ml/kg/intake (corresponding to 1.5 mg/kg/intake) | For a dose of 4 mg/kg/day 0.2 ml/kg/intake (corresponding to 2 mg/kg/intake) |
 | 10 kg | 0.5 ml (5 mg) | 1 ml (10 mg) | 1.5 ml (15 mg) | 2 ml (20 mg) |
 | 15 kg | 0.75 ml (7.5 mg) | 1.5 ml (15 mg) | 2.25 ml (22.5 mg) | 3 ml (30 mg) |
 | 20 kg | 1 ml (10 mg) | 2 ml (20 mg) | 3 ml (30 mg) | 4 ml (40 mg) |
@@ -112,6 +106,7 @@ One full 5 ml oral dosing syringe corresponds to 50 mg of brivaracetam.
 The minimum extractible volume is 0.25 ml which is 2.5 mg of brivaracetam.
 As from the 0.1 ml graduation mark, each graduation corresponds to 0.1 ml which is 1 mg of brivaracetam.
 Additional graduations at 0.25 ml and 0.75 ml starting at 0.25 ml up to 5 ml are shown.
+
 Oral dosing syringe (10 ml graduated every 0.25 ml) with an adaptor, recommended for use by patients weighing more than 20 kg or needing a dose between 50 mg and 100 mg (5 ml to 10 ml) brivaracetam per administration.
 One full 10 ml oral dosing syringe corresponds to 100 mg of brivaracetam.
 The minimum extractible volume is 1 ml which is 10 mg of brivaracetam.
@@ -121,13 +116,11 @@ Instructions for use are provided in the package leaflet.
 
 [Briviact 10 mg/ml solution for injection/infusion]
 
-Brivaracetam may be initiated with either intravenous or oral administration.
-When converting from oral to intravenous administration or vice versa, the total daily dose and frequency of administration should be maintained.
-Brivaracetam solution for injection/infusion is an alternative for patients when oral administration is temporarily not feasible.
-
+Brivaracetam solution for injection/infusion is an alternative route of administration for patients when oral administration is temporarily not feasible.
 There is no experience with twice daily intravenous administration of brivaracetam for a period longer than 4 days.
 
-As in adults, brivaracetam solution for injection/infusion is an alternative route of administration for patients when oral administration is temporarily not feasible.
+Brivaracetam may be initiated with either intravenous or oral administration.
+When converting from oral to intravenous administration or vice versa, the total daily dose and frequency of administration should be maintained.
 
 - Intravenous bolus: brivaracetam may be administered as an intravenous bolus without dilution. - Intravenous infusion: brivaracetam may be diluted in a compatible diluent and administered as a 15-minute intravenous infusion (see section 6.6).
 This medicinal product must not be mixed with other medicinal products.
