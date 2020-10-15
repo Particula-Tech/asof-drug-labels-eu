@@ -2,7 +2,7 @@
 
 Bleeding and haematological disorders
 Due to the risk of bleeding and haematological adverse reactions, blood cell count determination and/or other appropriate testing should be promptly considered whenever clinical symptoms suggestive of bleeding arise during the course of treatment (see section 4.8).
-As with other antiplatelet agents, clopidogrel should be used with caution in patients who may be at risk of increased bleeding from trauma, surgery or other pathological conditions and in patients receiving treatment with ASA, heparin, glycoprotein IIb/IIIa inhibitors or non-steroidal anti-inflammatory drugs (NSAIDs) including Cox-2 inhibitors, or selective serotonin reuptake inhibitors (SSRIs), or other medicinal products associated with bleeding risk such as pentoxifylline (see section 4.5).
+As with other antiplatelet agents, clopidogrel should be used with caution in patients who may be at risk of increased bleeding from trauma, surgery or other pathological conditions and in patients receiving treatment with ASA, heparin, glycoprotein IIb/IIIa inhibitors or non-steroidal anti-inflammatory drugs (NSAIDs) including Cox-2 inhibitors, or selective serotonin reuptake inhibitors (SSRIs), CYP2C19 strong inducers or other medicinal products associated with bleeding risk such as pentoxifylline (see section 4.5).
 Patients should be followed carefully for any signs of bleeding including occult bleeding, especially during the first weeks of treatment and/or after invasive cardiac procedures or surgery.
 The concomitant administration of clopidogrel with oral anticoagulants is not recommended since it may increase the intensity of bleedings (see section 4.5).
 
@@ -32,6 +32,9 @@ Tests are available to identify a patient's CYP2C19 genotype.
 Since clopidogrel is metabolised to its active metabolite partly by CYP2C19, use of medicinal products that inhibit the activity of this enzyme would be expected to result in reduced drug levels of the active metabolite of clopidogrel.
 The clinical relevance of this interaction is uncertain.
 As a precaution concomitant use of strong or moderate CYP2C19 inhibitors should be discouraged (see section 4.5 for a list of CYP2C19 inhibitors, see also section 5.2).
+Use of medicinal products that induce the activity of CYP2C19 would be expected to result in increased drug levels of the active metabolite of clopidogrel and might potentiate the bleeding risk.
+As a precaution concomitant use of strong CYP2C19 inducers should be discouraged (see section 4.5).
+
 CYP2C8 substrates
 Caution is required in patients treated concomitantly with clopidogrel and CYP2C8 substrate medicinal products (see section 4.5).
 
@@ -51,6 +54,6 @@ Clopidogrel should therefore be used with caution in this population (see sectio
 
 Excipients
 Iscover contains lactose.
-Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
 This medicinal product contains hydrogenated castor oil which may cause stomach upset and diarrhoea.

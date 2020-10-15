@@ -33,7 +33,8 @@ In the intention to treat analysis, 939 events were observed in the clopidogrel 
 Analysis of total mortality as a secondary endpoint did not show any significant difference between clopidogrel (5.8%) and ASA (6.0%).
 
 In a subgroup analysis by qualifying condition (myocardial infarction, ischaemic stroke, and PAD) the benefit appeared to be strongest (achieving statistical significance at p=0.003) in patients enrolled due to PAD (especially those who also had a history of myocardial infarction) (RRR = 23.7%; CI: 8.9 to 36.2) and weaker (not significantly different from ASA) in stroke patients (RRR = 7.3%; CI: -5.7 to 18.7 [p=0.258]).
-In patients who were enrolled in the trial on the sole basis of a recent myocardial infarction, clopidogrel was numerically inferior, but not statistically different from ASA (RRR = -4.0%; CI: -22.5 to 11.7 [p=0.639]).
+In patients who were enrolled in the trial on the sole basis of a recent myocardial infarction, clopidogrel was numerically inferior, but not statistically different from ASA (RRR
+= -4.0%; CI: -22.5 to 11.7 [p=0.639]).
 In addition, a subgroup analysis by age suggested that the benefit of clopidogrel in patients over 75 years was less than that observed in patients ≤75 years.
 
 Since the CAPRIE trial was not powered to evaluate efficacy of individual subgroups, it is not clear whether the differences in relative risk reduction across qualifying conditions are real, or a result of chance.
@@ -85,6 +86,42 @@ The population included 27.8% women, 58.4% patients ≥ 60 years (26% ≥ 70 yea
 
 Clopidogrel significantly reduced the relative risk of death from any cause by 7% (p=0.029), and the relative risk of the combination of re-infarction, stroke or death by 9% (p=0.002), representing an absolute reduction of 0.5% and 0.9%, respectively.
 This benefit was consistent across age, gender and with or without fibrinolytics, and was observed as early as 24 hours.
+
+De-escalation of P2Y12 Inhibitor Agents in Acute Coronary Syndrome
+Switching from a more potent P2Y12 receptor inhibitor to clopidogrel in association with aspirin after acute phase in Acute Coronary Syndrome (ACS) has been evaluated in two randomized investigator-sponsored studies (ISS) – TOPIC and TROPICAL-ACS – with clinical outcome data.
+
+The clinical benefit provided by the more potent P2Y12 inhibitors, ticagrelor and prasugrel, in their pivotal studies is related to a significant reduction in recurrent ischaemic events (including acute and subacute stent thrombosis (ST), myocardial infarction (MI), and urgent revascularization).
+Although the ischaemic benefit was consistent throughout the first year, greater reduction in ischaemic recurrence after ACS was observed during the initial days following the treatment initiation.
+In contrast, post-hoc analyses demonstrated statistically significant increases in the bleeding risk with the more potent P2Y12 inhibitors, occurring predominantly during the maintenance phase, after the first month post-ACS.
+TOPIC and TROPICAL-ACS were designed to study how to mitigate the bleeding events while maintaining efficacy.
+
+TOPIC (Timing Of Platelet Inhibition after acute Coronary syndrome)
+This randomized, open-label trial included ACS patients requiring percutaneous coronary intervention (PCI).
+Patients on aspirin and a more potent P2Y12 blocker and without adverse event at one month were assigned to switch to fixed-dose aspirin plus clopidogrel (de-escalated dual antiplatelet therapy (DAPT)) or continuation of their drug regimen (unchanged DAPT).
+Overall, 645 of 646 patients with ST-elevation-MI (STEMI) or non-ST-elevation-MI (NSTEMI) or unstable angina were analyzed (de-escalated DAPT (n=322); unchanged DAPT (n=323)).
+Follow-up at one year was performed for 316 patients (98.1%) in the de-escalated DAPT group and 318 patients (98.5%) in the unchanged DAPT group.
+The median follow-up for both groups was 359 days.
+The characteristics of the studied cohort were similar in the 2 groups.
+
+The primary outcome, a composite of cardiovascular death, stroke, urgent revascularization, and BARC (Bleeding Academic Research Consortium) bleeding ≥2 at 1 year post ACS, occurred in 43 patients (13.4%) in the de-escalated DAPT group and in 85 patients (26.3%) in the unchanged DAPT group (p<0.01).
+This statistically significant difference was mainly driven by fewer bleeding events, with no difference reported in ischaemic endpoints (p=0.36), while BARC ≥2 bleeding occurred less frequently in the de-escalated DAPT group (4.0%) versus 14.9% in the unchanged DAPT group (p<0.01).
+Bleeding events defined as all BARC occurred in 30 patients (9.3%) in the de-escalated DAPT group and in 76 patients (23.5%) in the unchanged DAPT group (p<0.01).
+
+TROPICAL-ACS (Testing Responsiveness to Platelet Inhibition on Chronic Antiplatelet Treatment for Acute Coronary Syndromes)
+This randomized, open-label trial included 2,610 biomarker-positive ACS patients after successful PCI.
+Patients were randomized to receive either prasugrel 5 or 10 mg/d (Days 0-14) (n=1306), or prasugrel 5 or 10 mg/d (Days 0-7) then de-escalated to clopidogrel 75 mg/d (Days 8-14) (n=1304), in combination with ASA (<100 mg/day).
+At Day 14, platelet function testing (PFT) was performed.
+The prasugrel-only patients were continued on prasugrel for 11.5 months.
+
+The de-escalated patients underwent high platelet reactivity (HPR) testing.
+If HPR≥46 units, the patients were escalated back to prasugrel 5 or 10 mg/d for 11.5 months; if HPR<46 units, the patients continued on clopidogrel 75 mg/d for 11.5 months.
+Therefore, the guided de-escalation arm had patients on either prasugrel (40%) or clopidogrel (60%).
+All patients were continued on aspirin and were followed for one year.
+
+The primary endpoint (the combined incidence of CV death, MI, stroke and BARC bleeding grade ≥2 at 12 months) was met showing non-inferiority.
+Ninety five patients (7%) in the guided de-escalation group and 118 patients (9%) in the control group (p non-inferiority=0.0004) had an event.
+The guided de-escalation did not result in an increased combined risk of ischemic events (2.5% in the de-escalation group vs 3.2% in the control group; p non-inferiority=0.0115), nor in the key secondary endpoint of BARC bleeding ≥2 ((5%) in the de-escalation group versus 6% in the control group (p=0.23)).
+The cumulative incidence of all bleeding events (BARC class 1 to 5) was 9% (114 events) in the guided de-escalation group versus 11% (137 events) in the control group (p=0.14).
 
 Atrial fibrillation
 

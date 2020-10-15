@@ -11,6 +11,7 @@ Bleeding is the most common reaction reported both in clinical studies as well a
 
 In CAPRIE, in patients treated with either clopidogrel or ASA, the overall incidence of any bleeding was 9.3%.
 The incidence of severe cases was similar for clopidogrel and ASA.
+
 In CURE, there was no excess in major bleeds with clopidogrel plus ASA within 7 days after coronary bypass graft surgery in patients who stopped therapy more than five days prior to surgery.
 In patients who remained on therapy within five days of bypass graft surgery, the event rate was 9.6% for clopidogrel plus ASA, and 6.3% for placebo plus ASA.
 
@@ -25,7 +26,6 @@ There was an excess of intracranial bleeding in the clopidogrel + ASA treatment 
 There was no statistically significant difference in the rates of fatal bleeding (1.1% in the clopidogrel + ASA group and 0.7% in the placebo +ASA group) and haemorrhagic stroke (0.8% and 0.6%, respectively) between groups.
 
 Tabulated list of adverse reactions
-
 Adverse reactions that occurred either during clinical studies or that were spontaneously reported are presented in the table below.
 Their frequency is defined using the following conventions: common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
 Within each system organ class, adverse reactions are presented in order of decreasing seriousness.
@@ -43,6 +43,9 @@ Within each system organ class, adverse reactions are presented in order of decr
 | Respiratory, thoracic and mediastinal disorders | Epistaxis |  |  | Respiratory tract bleeding (haemoptysis, pulmonary haemorrhage), bronchospasm, interstitial pneumonitis, eosinophilic pneumonia |
 | Gastrointestinal disorders | Gastrointestinal haemorrhage, diarrhoea, abdominal pain, dyspepsia | Gastric ulcer and duodenal ulcer, gastritis, vomiting, nausea, constipation, flatulence | Retroperitoneal haemorrhage | Gastrointestinal and retroperitoneal haemorrhage with fatal outcome, pancreatitis, colitis (including ulcerative or lymphocytic colitis), stomatitis |
 | Hepato-biliary disorders |  |  |  | Acute liver failure, hepatitis, abnormal liver function test |
+
+| System Organ Class | Common | Uncommon | Rare | Very rare, not known* |
+| --- | --- | --- | --- | --- |
 | Skin and subcutaneous tissue disorders | Bruising | Rash, pruritus, skin bleeding (purpura) |  | Bullous dermatitis (toxic epidermal necrolysis, Stevens Johnson Syndrome, erythema multiforme, acute generalised exanthematous pustulosis (AGEP)), angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), rash erythematous or exfoliative, urticaria, eczema, lichen planus |
 | Reproductive systems and breast disorders |  |  | Gynaecomastia |  |
 | Musculoskeletal, connective tissue and bone disorders |  |  |  | Musculo-skeletal bleeding (haemarthrosis), arthritis, arthralgia, myalgia |

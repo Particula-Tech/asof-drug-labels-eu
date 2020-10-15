@@ -13,7 +13,6 @@ However, concomitant administration of 500 mg of ASA twice a day for one day did
 A pharmacodynamic interaction between clopidogrel and acetylsalicylic acid is possible, leading to increased risk of bleeding.
 Therefore, concomitant use should be undertaken with caution (see section 4.4).
 However, clopidogrel and ASA have been administered together for up to one year (see section 5.1).
-
 Heparin: in a clinical study conducted in healthy subjects, clopidogrel did not necessitate modification of the heparin dose or alter the effect of heparin on coagulation.
 Co-administration of heparin had no effect on the inhibition of platelet aggregation induced by clopidogrel.
 A pharmacodynamic interaction between clopidogrel and heparin is possible, leading to increased risk of bleeding.
@@ -28,7 +27,16 @@ Consequently, NSAIDs including Cox-2 inhibitors and clopidogrel should be co-adm
 
 SSRIs: since SSRIs affect platelet activation and increase the risk of bleeding, the concomitant administration of SSRIs with clopidogrel should be undertaken with caution.
 
-Other concomitant therapy: Since clopidogrel is metabolised to its active metabolite partly by CYP2C19, use of medicinal products that inhibit the activity of this enzyme would be expected to result in reduced drug levels of the active metabolite of clopidogrel.
+Other concomitant therapy:
+
+Inducers of CYP2C19
+Since clopidogrel is metabolised to its active metabolite partly by CYP2C19, use of medicinal products that induce the activity of this enzyme would be expected to result in increased drug levels of the active metabolite of clopidogrel.
+
+Rifampicin strongly induces CYP2C19, resulting in both an increased level of clopidogrel active metabolite and platelet inhibition, which in particular might potentiate the risk of bleeding.
+As a precaution, concomitant use of strong CYP2C19 inducers should be discouraged (see section 4.4).
+
+Inhibitors of CYP2C19
+Since clopidogrel is metabolised to its active metabolite partly by CYP2C19, use of medicinal products that inhibit the activity of this enzyme would be expected to result in reduced drug levels of the active metabolite of clopidogrel.
 The clinical relevance of this interaction is uncertain.
 As a precaution concomitant use of strong or moderate CYP2C19 inhibitors should be discouraged (see sections 4.4 and 5.2).
 
@@ -49,9 +57,17 @@ These results indicate that clopidogrel can be administered with pantoprazole.
 
 There is no evidence that other medicinal products that reduce stomach acid such as H2 blockers or antacids interfere with antiplatelet activity of clopidogrel.
 
+Boosted anti-retroviral therapy (ART): HIV patients treated with boosted anti-retroviral therapies (ART) are at high risk of vascular events.
+
+A significantly reduced platelet inhibition has been shown in HIV patients treated with ritonavir-or cobicistat-boosted ART.
+Although the clinical relevance of these findings is uncertain, there have been spontaneous reports of HIV-infected patients treated with ritonavir boosted ART, who have experienced re-occlusive events after de-obstruction or have suffered thrombotic events under a clopidogrel loading treatment schedule.
+Average platelet inhibition can be decreased with concomitant use of clopidogrel and ritonavir.
+Therefore, concomitant use of clopidogrel with ART boosted therapies should be discouraged.
+
 Other medicinal products: A number of other clinical studies have been conducted with clopidogrel and other concomitant medicinal products to investigate the potential for pharmacodynamic and pharmacokinetic interactions.
 No clinically significant pharmacodynamic interactions were observed when clopidogrel was co-administered with atenolol, nifedipine, or both atenolol and nifedipine.
 Furthermore, the pharmacodynamic activity of clopidogrel was not significantly influenced by the co-administration of phenobarbital or oestrogen.
+
 The pharmacokinetics of digoxin or theophylline were not modified by the co-administration of clopidogrel.
 Antacids did not modify the extent of clopidogrel absorption.
 
@@ -63,3 +79,7 @@ Due to the risk of increased plasma concentrations, concomitant administration o
 
 Apart from the specific medicinal product interaction information described above, interaction studies with clopidogrel and some medicinal products commonly administered in patients with atherothrombotic disease have not been performed.
 However, patients entered into clinical trials with clopidogrel received a variety of concomitant medicinal products including diuretics, beta blockers, ACEI, calcium antagonists, cholesterol lowering agents, coronary vasodilators, antidiabetic agents (including insulin), antiepileptic agents and GPIIb/IIIa antagonists without evidence of clinically significant adverse interactions.
+
+As with other oral P2Y12 inhibitors, co-administration of opioid agonists has the potential to delay and reduce the absorption of clopidogrel presumably because of slowed gastric emptying.
+The clinical relevance is unknown.
+Consider the use of a parenteral antiplatelet agent in acute coronary syndrome patients requiring co-administration of morphine or other opioid agonists.

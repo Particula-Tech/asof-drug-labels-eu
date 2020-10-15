@@ -19,4 +19,4 @@ EU/1/98/070/019 - Cartons of 14 film-coated tablets in all aluminium blisters
 EU/1/98/070/020 - Cartons of 7 film-coated tablets in all aluminium blisters
 
 Iscover 300 mg film-coated tablets
-EU/1/98/070/008 - Cartons of 4x1 film-coated tablets in all aluminium perforated unit-dose blisters EU/1/98/070/009 - Cartons of 30x1 film-coated tablets in all aluminium perforated unit-dose blisters EU/1/98/070/010 - Cartons of 100x1 film-coated tablets in all aluminium perforated unit-dose blisters EU/1/98/070/012 - Cartons of 10x1 film-coated tablets in all aluminium perforated unit-dose blisters
+EU/1/98/070/008 - Cartons of 4x1 film-coated tablets in all aluminium unit-dose blisters EU/1/98/070/009 - Cartons of 30x1 film-coated tablets in all aluminium unit-dose blisters EU/1/98/070/010 - Cartons of 100x1 film-coated tablets in all aluminium unit-dose blisters EU/1/98/070/012 - Cartons of 10x1 film-coated tablets in all aluminium unit-dose blisters
