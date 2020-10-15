@@ -24,7 +24,6 @@ Posaconazole is slowly eliminated with a mean half-life (t½) of 35 hours (range
 After administration of 14C-posaconazole, radioactivity was predominantly recovered in the faeces (77 % of the radiolabelled dose) with the major component being parent compound (66 % of the radiolabelled dose).
 Renal clearance is a minor elimination pathway, with 14 % of the radiolabelled dose excreted in urine (< 0.2 % of the radiolabelled dose is parent compound).
 Steady-state is attained following 7 to 10 days of multiple-dose administration.
-
 Pharmacokinetics in special populations
 Children (< 18 years)
 Following administration of 800 mg per day of posaconazole as a divided dose for treatment of invasive fungal infections, mean trough plasma concentrations from 12 patients 8 - 17 years of age (776 ng/mL) were similar to concentrations from 194 patients 18 - 64 years of age (817 ng/mL).
@@ -44,7 +43,7 @@ There was a slight decrease (16 %) in the AUC and Cmax of posaconazole oral susp
 However, the safety profile of posaconazole between the Black and Caucasian subjects was similar.
 
 Weight
-Pharmacokinetic modeling with an oral tablet formulation suggests that patients weighing greater than 120 kg may have lower posaconazole exposure.
+Pharmacokinetic modelling with an oral tablet formulation suggests that patients weighing greater than 120 kg may have lower posaconazole exposure.
 It is, therefore, suggested to closely monitor for breakthrough fungal infections in patients weighing more than 120 kg.
 Patients with a low body weight (< 60 kg) are more likely to experience higher plasma concentrations of posaconazole and should be closely monitored for adverse events.
 
@@ -92,6 +91,7 @@ The pharmacokinetics of posaconazole tablets are comparable in men and women.
 Elderly
 The pharmacokinetics of posaconazole tablets are comparable in young and elderly subjects.
 No overall differences in safety were observed between the geriatric patients and younger patients; therefore, no dosage adjustment is recommended for geriatric patients.
+
 There is insufficient data among different races with posaconazole tablets.
 
 Patients, in particular those receiving posaconazole after HSCT, who have a low body weight

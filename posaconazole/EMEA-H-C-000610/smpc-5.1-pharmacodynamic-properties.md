@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antimycotics for systemic use, triazole derivatives, ATC code: J02AC04.
+
 Mechanism of action
 Posaconazole inhibits the enzyme lanosterol 14α-demethylase (CYP51), which catalyses an essential step in ergosterol biosynthesis.
 
@@ -35,7 +36,6 @@ EUCAST MIC breakpoints for posaconazole [susceptible (S); resistant (R)]:
 - Candida parapsilosis: S ≤0.06 mg/L, R >0.06 mg/L
 
 There are currently insufficient data to set clinical breakpoints for other Candida species.
-
 Combination with other antifungal agents
 The use of combination antifungal therapies should not decrease the efficacy of either posaconazole or the other therapies; however, there is currently no clinical evidence that combination therapy will provide an added benefit.
 
@@ -43,6 +43,7 @@ Pharmacokinetic / Pharmacodynamic relationships
 A correlation between total medicinal product exposure divided by MIC (AUC/MIC) and clinical outcome was observed.
 The critical ratio for subjects with Aspergillus infections was ~200.
 It is particularly important to try to ensure that maximal plasma levels are achieved in patients infected with Aspergillus (see sections 4.2 and 5.2 on recommended dose regimens and the effects of food on absorption).
+
 Clinical experience
 
 Summary of posaconazole oral suspension studies
@@ -72,6 +73,7 @@ Fusarium spp.
 11 of 24 patients who had proven or probable fusariosis were successfully treated with posaconazole oral suspension 800 mg/day in divided doses for a median of 124 days and up to 212 days.
 Among eighteen patients who were intolerant or had infections refractory to amphotericin B or itraconazole, seven patients were classed as responders.
 
+1 Includes other less common species or species unknown
 Chromoblastomycosis/Mycetoma
 9 of 11 patients were successfully treated with posaconazole oral suspension 800 mg/day in divided doses for a median of 268 days and up to 377 days.
 Five of these patients had chromoblastomycosis due to Fonsecaea pedrosoi and 4 had mycetoma, mostly due to Madurella species.
@@ -82,9 +84,7 @@ Coccidioidomycosis
 Treatment of azole-susceptible Oropharyngeal Candidiasis (OPC)
 A randomised, evaluator-blind, controlled study was completed in HIV-infected patients with azole-susceptible oropharyngeal candidiasis (most patients studied had C. albicans isolated at baseline).
 The primary efficacy variable was the clinical success rate (defined as cure or improvement) after 14 days of treatment.
-Patients were treated with posaconazole or fluconazole oral suspension (both
-
-1 Includes other less common species or species unknown posaconazole and fluconazole were given as follows: 100 mg twice a day for 1 day followed by 100 mg once a day for 13 days).
+Patients were treated with posaconazole or fluconazole oral suspension (both posaconazole and fluconazole were given as follows: 100 mg twice a day for 1 day followed by 100 mg once a day for 13 days).
 
 The clinical response rates from the above study are shown in the Table 4 below.
 Posaconazole was shown to be non-inferior to fluconazole for clinical success rates at Day 14 as well as 4 weeks after the end of treatment.
@@ -103,21 +103,20 @@ Prophylaxis of Invasive Fungal Infections (IFIs) (Studies 316 and 1899)
 Two randomised, controlled prophylaxis studies were conducted among patients at high risk for developing invasive fungal infections.
 
 Study 316 was a randomised, double-blind trial of posaconazole oral suspension (200 mg three times a day) versus fluconazole capsules (400 mg once daily) in allogeneic hematopoietic stem cell transplant recipients with graft-versus-host disease (GVHD).
-The primary efficacy endpoint was the incidence of proven/probable IFIs at 16 weeks post-randomization as determined by an independent, blinded external expert panel.
+The primary efficacy endpoint was the incidence of proven/probable IFIs at 16 weeks post-randomisation as determined by an independent, blinded external expert panel.
 A key secondary endpoint was the incidence of proven/probable IFIs during the on-treatment period (first dose to last dose of study medicinal product + 7 days).
 The majority (377/600, [63 %]) of patients included had Acute Grade 2 or 3 or chronic extensive (195/600, [32.5 %]) GVHD at study start.
 The mean duration of therapy was 80 days for posaconazole and 77 days for fluconazole.
 
 Study 1899 was a randomised, evaluator-blinded study of posaconazole oral suspension (200 mg three times a day) versus fluconazole suspension (400 mg once daily) or itraconazole oral solution (200 mg twice a day) in neutropenic patients who were receiving cytotoxic chemotherapy for acute myelogenous leukaemia or myelodysplastic syndromes.
 The primary efficacy endpoint was the incidence of proven/probable IFIs as determined by an independent, blinded external expert panel during the on-treatment period.
-A key secondary endpoint was the incidence of proven/probable IFIs at 100 days post-randomization.
+A key secondary endpoint was the incidence of proven/probable IFIs at 100 days post-randomisation.
 New diagnosis of acute myelogenous leukaemia was the most common underlying condition (435/602, [72 %]).
 The mean duration of therapy was 29 days for posaconazole and 25 days for fluconazole/itraconazole.
 
 In both prophylaxis studies, aspergillosis was the most common breakthrough infection.
 See Table 5 and 6 for results from both studies.
 There were fewer breakthrough Aspergillus infections in patients receiving posaconazole prophylaxis when compared to control patients.
-
 Table 5.
 Results from clinical studies in prophylaxis of Invasive Fungal Infections
 
@@ -129,14 +128,13 @@ Results from clinical studies in prophylaxis of Invasive Fungal Infections
 | 316e | 7/291 (2) | 22/288 (8) | 0.0038 |
 | Fixed-time periodc |  |  |  |
 | 1899d | 14/304 (5) | 33/298 (11) | 0.0031 |
-| Proportion (%) of patients with proven/probable IFIs |  |  |  |
 | 316 d | 16/301 (5) | 27/299 (9) | 0.0740 |
 
 FLU = fluconazole; ITZ = itraconazole; POS = posaconazole.
 a: FLU/ITZ (1899); FLU (316).
-b: In 1899 this was the period from randomization to last dose of study medicinal product plus 7 days; in 316 it was the period from first dose to last dose of study medicinal product plus 7 days.
-c: In 1899, this was the period from randomization to 100 days post-randomization; in 316 it was the period from the baseline day to 111 days post-baseline.
-d: All randomized e: All treated
+b: In 1899 this was the period from randomisation to last dose of study medicinal product plus 7 days; in 316 it was the period from first dose to last dose of study medicinal product plus 7 days.
+c: In 1899, this was the period from randomisation to 100 days post-randomisation; in 316 it was the period from the baseline day to 111 days post-baseline.
+d: All randomised e: All treated
 
 Table 6.
 Results from clinical studies in prophylaxis of Invasive Fungal Infections
@@ -153,23 +151,23 @@ Results from clinical studies in prophylaxis of Invasive Fungal Infections
 
 FLU = fluconazole; ITZ = itraconazole; POS = posaconazole.
 a: FLU/ITZ (1899); FLU (316).
-b: In 1899 this was the period from randomization to last dose of study medicinal product plus 7 days; in 316 it was the period from first dose to last dose of study medicinal product plus 7 days.
-c: In 1899, this was the period from randomization to 100 days post-randomization; in 316 it was the period from the baseline day to 111 days post-baseline.
-d: All randomized e: All treated
+b: In 1899 this was the period from randomisation to last dose of study medicinal product plus 7 days; in 316 it was the period from first dose to last dose of study medicinal product plus 7 days.
+c: In 1899, this was the period from randomisation to 100 days post-randomisation; in 316 it was the period from the baseline day to 111 days post-baseline.
+d: All randomised e: All treated
 
 In Study 1899, a significant decrease in all cause mortality in favour of posaconazole was observed [POS 49/304 (16 %) vs. FLU/ITZ 67/298 (22 %) p= 0.048].
-Based on Kaplan-Meier estimates, the probability of survival up to day 100 after randomization, was significantly higher for posaconazole recipients; this survival benefit was demonstrated when the analysis considered all causes of death (P= 0.0354) as well as IFI-related deaths (P = 0.0209).
+Based on Kaplan-Meier estimates, the probability of survival up to day 100 after randomisation, was significantly higher for posaconazole recipients; this survival benefit was demonstrated when the analysis considered all causes of death (P= 0.0354) as well as IFI-related deaths (P = 0.0209).
 
 In Study 316, overall mortality was similar (POS, 25 %; FLU, 28 %); however, the proportion of IFI-related deaths was significantly lower in the POS group (4/301) compared with the FLU group (12/299; P= 0.0413).
 
 Paediatric population
 Sixteen patients 8-17 years of age were treated with posaconazole oral suspension 800 mg/day in a study for invasive fungal infections (Study 0041).
 Based on the available data in 16 of these paediatric patients, the safety profile appears to be similar to patients ≥18 years of age.
-
 Additionally, twelve patients 13-17 years of age received posaconazole oral suspension 600 mg/day for prophylaxis of invasive fungal infections (Studies 316 and 1899).
 The safety profile in these patients < 18 years of age appears similar to the safety profile observed in adults.
 Based on pharmacokinetic data in 10 of these paediatric patients, the pharmacokinetic profile appears to be similar to patients ≥18 years of age.
 In a study (Study 03579) of 136 neutropenic paediatric patients 11 months – 17 years treated with posaconazole oral suspension at doses up to 18 mg/kg/day divided TID, approximately 50% met the pre-specified target (Day 7 Cav between 500 ng/mL-2,500 ng/mL) (see section 5.2).
+
 Safety and efficacy in paediatric patients below the age of 18 years have not been established.
 
 Electrocardiogram evaluation
@@ -195,7 +193,6 @@ Subjects achieved a mean predicted Cav at steady state of 1,970 ng/mL.
 
 In Table 3 a comparison is shown of exposure (Cav) after administration of posaconazole tablet and posaconazole oral suspension at therapeutic doses in patients depicted as quartile analysis.
 Exposures after tablet administration are generally higher than, but overlapping with, exposures after administration of posaconazole oral suspension.
-
 Cav quartile analyses of pivotal patient studies with posaconazole tablet and oral suspension
 
 |  | Posaconazole tablet | Posaconazole oral suspension |  |  |
@@ -220,9 +217,9 @@ As shown in Table 4, a successful response (complete or partial resolution) at t
 | A. terreus | 4/14 (29 %) | 2/13 (15 %) |
 | A. niger | 3/5 (60 %) | 2/7 (29 %) |
 
-The primary efficacy endpoint was the incidence of proven/probable IFIs at 16 weeks post-randomization as determined by an independent,
+Among
 
-2 Includes other less common species or species unknown blinded external expert panel.
+2 Includes other less common species or species unknown eighteen patients who were intolerant or had infections refractory to amphotericin B or itraconazole, seven patients were classed as responders.
 
 | Study | Posaconazole oral suspension | Controla | P-Value |
 | --- | --- | --- | --- |
@@ -232,6 +229,7 @@ The primary efficacy endpoint was the incidence of proven/probable IFIs at 16 we
 | 316e | 7/291 (2) | 22/288 (8) | 0.0038 |
 | Fixed-time periodc |  |  |  |
 | 1899d | 14/304 (5) | 33/298 (11) | 0.0031 |
+| Proportion (%) of patients with proven/probable IFIs |  |  |  |
 | 316 d | 16/301 (5) | 27/299 (9) | 0.0740 |
 
 There is no paediatric experience for posaconazole tablets.

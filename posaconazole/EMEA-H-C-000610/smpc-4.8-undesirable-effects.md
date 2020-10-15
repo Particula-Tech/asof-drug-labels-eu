@@ -8,15 +8,14 @@ The safety of posaconazole tablet has been assessed in 336 patients and healthy 
 The safety profile of tablets was similar to that of the oral suspension.
 
 Tabulated list of adverse reactions
-Within the organ system classes, adverse reactions are listed under headings of frequency using the following categories: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥ 1/10,000 to <1/1,000); very rare (<1/10,000); not known.
-
+Within the organ system classes, adverse reactions are listed under headings of frequency using the following categories: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥ 1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 Table 2.
-Adverse reactions by body system and frequency*
+Adverse reactions by body system and frequency reported in clinical trials and/or post-marketing use *
 
 | Blood and lymphatic system disorders Common: Uncommon: Rare: | neutropenia thrombocytopenia, leukopenia, anaemia, eosinophilia, lymphadenopathy, splenic infarction haemolytic uraemic syndrome, thrombotic thrombocytopenic purpura, pancytopenia, coagulopathy, haemorrhage |
 | --- | --- |
 | Immune system disorders Uncommon: Rare: | allergic reaction hypersensitivity reaction |
-| Endocrine disorders Rare: | adrenal insufficiency, blood gonadotropin decreased |
+| Endocrine disorders Rare: Not known: | adrenal insufficiency, blood gonadotropin decreased pseudoaldosteronism |
 | Metabolism and nutrition disorders Common: Uncommon: | electrolyte imbalance, anorexia, decreased appetite, hypokalaemia, hypomagnesaemia hyperglycaemia, hypoglycaemia |
 | Psychiatric disorders Uncommon: Rare: | abnormal dreams, confusional state, sleep disorder psychotic disorder, depression |
 | Nervous system disorders Common: Uncommon: Rare: | paresthesia, dizziness, somnolence, headache, dysgeusia convulsions, neuropathy, hypoaesthesia, tremor, aphasia, insomnia cerebrovascular accident, encephalopathy, peripheral neuropathy, syncope |
@@ -64,27 +63,7 @@ Twenty patients received 200 mg daily dose and 210 patients received 300 mg dail
 
 Posaconazole tablet and oral suspension safety
 
-| Blood and lymphatic system disorders Common: Uncommon: Rare: | neutropenia thrombocytopenia, leukopenia, anaemia, eosinophilia, lymphadenopathy, splenic infarction haemolytic uraemic syndrome, thrombotic thrombocytopenic purpura, pancytopenia, coagulopathy, haemorrhage |
-| --- | --- |
-| Immune system disorders Uncommon: Rare: | allergic reaction hypersensitivity reaction |
-| Endocrine disorders Rare: | adrenal insufficiency, blood gonadotropin decreased |
-| Metabolism and nutrition disorders Common: Uncommon: | electrolyte imbalance, anorexia, decreased appetite, hypokalaemia, hypomagnesaemia hyperglycaemia, hypoglycaemia |
-| Psychiatric disorders Uncommon: Rare: | abnormal dreams, confusional state, sleep disorder psychotic disorder, depression |
-| Nervous system disorders Common: Uncommon: Rare: | paresthesia, dizziness, somnolence, headache, dysgeusia convulsions, neuropathy, hypoaesthesia, tremor, aphasia, insomnia cerebrovascular accident, encephalopathy, peripheral neuropathy, syncope |
-| Eye disorders Uncommon: Rare: | blurred vision, photophobia, visual acuity reduced diplopia, scotoma |
-| Ear and labyrinth disorder Rare: | hearing impairment |
-| Cardiac disorders Uncommon: Rare: | long QT syndrome§, electrocardiogram abnormal§, palpitations, bradycardia, supraventricular extrasystoles, tachycardia torsade de pointes, sudden death, ventricular tachycardia, cardio-respiratory arrest, cardiac failure, myocardial infarction |
-| Vascular disorders Common: Uncommon: Rare: | hypertension hypotension, vasculitis pulmonary embolism, deep vein thrombosis |
-| Respiratory, thoracic and mediastinal disorders Uncommon: Rare: | cough, epistaxis, hiccups, nasal congestion, pleuritic pain, tachypnoea pulmonary hypertension, interstitial pneumonia, pneumonitis |
-| Gastrointestinal disorders Very Common: Common: | nausea vomiting, abdominal pain, diarrhoea, dyspepsia, dry mouth, flatulence, constipation, anorectal discomfort |
-| Uncommon: Rare: | pancreatitis, abdominal distension, enteritis, epigastric discomfort, eructation, gastrooesophageal reflux disease, oedema mouth gastrointestinal haemorrhage, ileus |
-| Hepatobiliary disorders Common: Uncommon: Rare: | liver function tests raised (ALT increased, AST increased, bilirubin increased, alkaline phosphatase increased, GGT increased) hepatocellular damage, hepatitis, jaundice, hepatomegaly, cholestasis, hepatic toxicity, hepatic function abnormal hepatic failure, hepatitis cholestatic, hepatosplenomegaly, liver tenderness, asterixis |
-| Skin and subcutaneous tissue disorders Common: Uncommon: Rare: | rash, pruritis mouth ulceration, alopecia, dermatitis, erythema, petechiae Stevens Johnson syndrome, vesicular rash |
-| Musculoskeletal and connective tissue disorders Uncommon: | back pain, neck pain, musculoskeletal pain, pain in extremity |
-| Renal and urinary disorders Uncommon: Rare: | acute renal failure, renal failure, blood creatinine increased renal tubular acidosis, interstitial nephritis |
-| Reproductive system and breast disorders Uncommon: Rare: | menstrual disorder breast pain |
-| General disorders and administration site conditions Common: Uncommon: Rare: | pyrexia (fever), asthenia, fatigue oedema, pain, chills, malaise, chest discomfort, drug intolerance, feeling jittery, mucosal inflammation tongue oedema, face oedema |
-| Investigations Uncommon: | altered medicine levels, blood phosphorus decreased, chest x-ray abnormal |
+Adverse reactions by body system and frequency reported in clinical trials and/or post-marketing use*
 
 [Noxafil 300 mg concentrate for solution for infusion]
 
@@ -113,7 +92,7 @@ The most common adverse reaction (>1 %) leading to discontinuation of posaconazo
 | Blood and lymphatic system disorders Common: Uncommon: Rare: | neutropenia thrombocytopenia, leukopenia, anaemia, eosinophilia, lymphadenopathy, splenic infarction haemolytic uraemic syndrome, thrombotic thrombocytopenic purpura, pancytopenia, coagulopathy, haemorrhage |
 | --- | --- |
 | Immune system disorders Uncommon: Rare: | allergic reaction hypersensitivity reaction |
-| Endocrine disorders Rare: | adrenal insufficiency, blood gonadotropin decreased |
+| Endocrine disorders Rare: Not known: | adrenal insufficiency, blood gonadotropin decreased pseudoaldosteronism |
 | Metabolism and nutrition disorders Common: Uncommon: | electrolyte imbalance, anorexia, decreased appetite, hypokalaemia, hypomagnesaemia Hyperglycaemia, hypoglycaemia |
 | Psychiatric disorders Uncommon: Rare: | abnormal dreams, confusional state, sleep disorder psychotic disorder, depression |
 | Nervous system disorders Common: Uncommon: Rare: | paresthesia, dizziness, somnolence, headache, dysgeusia convulsions, neuropathy, hypoaesthesia, tremor, aphasia, insomnia cerebrovascular accident, encephalopathy, peripheral neuropathy, syncope |
