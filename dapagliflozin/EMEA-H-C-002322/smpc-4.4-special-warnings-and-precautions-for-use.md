@@ -36,7 +36,9 @@ Patients should be assessed for ketoacidosis immediately if these symptoms occur
 Before initiating dapagliflozin, factors in the patient history that may predispose to ketoacidosis should be considered.
 
 Treatment should be interrupted in patients who are hospitalised for major surgical procedures or acute serious medical illnesses.
-In both cases, treatment with dapagliflozin may be restarted once the patient’s condition has stabilised.
+Monitoring of ketones is recommended in these patients.
+Measurement of blood ketone levels is preferred to urine.
+Treatment with dapagliflozin may be restarted when the ketone values are normal and the patient’s condition has stabilised.
 
 Type 2 diabetes mellitus
 Rare cases of DKA, including life-threatening and fatal cases, have been reported in patients treated with SGLT2 inhibitors, including dapagliflozin.
@@ -94,7 +96,7 @@ Patients must be informed about what actions to take if ketone levels are elevat
 The recommended actions are listed in Table 1 (see section 4.2).
 
 Necrotising fasciitis of the perineum (Fournier’s gangrene)
-Post-marketing cases of necrotising fasciitis of the perineum (also known as Fournier’s gangrene) have been reported in female and male patients taking SGLT2 inhibitors.
+Postmarketing cases of necrotising fasciitis of the perineum (also known as Fournier’s gangrene) have been reported in female and male patients taking SGLT2 inhibitors (see section 4.8).
 This is a rare but serious and potentially life-threatening event that requires urgent surgical intervention and antibiotic treatment.
 
 Patients should be advised to seek medical attention if they experience a combination of symptoms of pain, tenderness, erythema, or swelling in the genital or perineal area, with fever or malaise.
@@ -120,7 +122,6 @@ Like for all diabetic patients it is important to counsel patients on routine pr
 
 Urine laboratory assessments
 Due to its mechanism of action, patients taking Forxiga will test positive for glucose in their urine.
-
 Lactose
 The tablets contain lactose.
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.

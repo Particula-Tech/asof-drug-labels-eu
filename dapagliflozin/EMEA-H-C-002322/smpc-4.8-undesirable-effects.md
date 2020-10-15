@@ -13,10 +13,10 @@ The most frequently reported adverse reactions across the clinical studies were 
 
 Type 1 diabetes mellitus
 In two placebo-controlled studies in subjects with type 1 diabetes mellitus, 548 subjects were treated with dapagliflozin 5 mg plus adjustable insulin and 532 were treated with placebo plus adjustable insulin.
-
 The most frequently reported adverse reactions associated with dapagliflozin in patients with type 1 diabetes mellitus were genital infections, which were more frequent in females.
 Diabetic ketoacidosis was reported with common frequency.
 See “Description of selected adverse reactions” and section 4.4.
+
 Tabulated list of adverse reactions
 The following adverse reactions have been identified in the placebo-controlled clinical studies and postmarketing surveillance.
 None were found to be dose-related.
@@ -26,17 +26,17 @@ Frequency categories are defined according to the following convention: very com
 Table 2.
 Adverse reactions in placebo-controlled clinical studiesa and postmarketing experience
 
-| System organ class | Very common | Common* | Uncommon** | Rare | Very rare | Not known |
-| --- | --- | --- | --- | --- | --- | --- |
-| Infections and infestations |  | Vulvovaginitis, balanitis and related genital infections*,b,c Urinary tract infection*,b,d | Fungal infection** |  |  | Necrotising fasciitis of the perineum (Fournier's gangrene)i |
-| Metabolism and nutrition disorders | Hypoglycaemia (when used with SU or insulin)b | Diabetic ketoacidosis (when used in type 1 diabetes mellitus)b,i,k | Volume depletionb,e Thirst** | Diabetic ketoacidosis (when used in type 2 diabetes mellitus)b,i,l |  |  |
-| Nervous system disorders |  | Dizziness |  |  |  |  |
-| Gastrointestinal disorders |  |  | Constipation** Dry mouth** |  |  |  |
-| Skin and subcutaneous tissue disorders |  | Rashj |  |  | Angioedema |  |
-| Musculoskeletal and connective tissue disorders |  | Back pain* |  |  |  |  |
-| Renal and urinary disorders |  | Dysuria Polyuria*,f | Nocturia** |  |  |  |
-| Reproductive system and breast disorders |  |  | Vulvovaginal pruritus** Pruritus genital** |  |  |  |
-| Investigations |  | Haematocrit increasedg Creatinine renal clearance decreased during initial treatmentb Dyslipidaemiah | Blood creatinine increased during initial treatment**,b Blood urea increased** Weight decreased** |  |  |  |
+| System organ class | Very common | Common* | Uncommon** | Rare | Very rare |
+| --- | --- | --- | --- | --- | --- |
+| Infections and infestations |  | Vulvovaginitis, balanitis and related genital infections*,b,c Urinary tract infection*,b,d | Fungal infection** |  | Necrotising fasciitis of the perineum (Fournier's gangrene)b,i |
+| Metabolism and nutrition disorders | Hypoglycaemia (when used with SU or insulin)b | Diabetic ketoacidosis (when used in type 1 diabetes mellitus)b,i,k | Volume depletionb,e Thirst** | Diabetic ketoacidosis (when used in type 2 diabetes mellitus)b,i,l |  |
+| Nervous system disorders |  | Dizziness |  |  |  |
+| Gastrointestinal disorders |  |  | Constipation** Dry mouth** |  |  |
+| Skin and subcutaneous tissue disorders |  | Rashj |  |  | Angioedema |
+| Musculoskeletal and connective tissue disorders |  | Back pain* |  |  |  |
+| Renal and urinary disorders |  | Dysuria Polyuria*,f | Nocturia** |  |  |
+| Reproductive system and breast disorders |  |  | Vulvovaginal pruritus** Pruritus genital** |  |  |
+| Investigations |  | Haematocrit increasedg Creatinine renal clearance decreased during initial treatmentb Dyslipidaemiah | Blood creatinine increased during initial treatment**,b Blood urea increased** Weight decreased** |  |  |
 
 aThe table shows up to 24-week (short-term) data regardless of glycaemic rescue.
 bSee corresponding subsection below for additional information.
@@ -64,13 +64,17 @@ These infections were more frequent in females (8.4% and 1.2% for dapagliflozin 
 
 In the dapagliflozin cardiovascular outcomes study, the number of patients with serious adverse events of genital infections were few and balanced: 2 patients in each of the dapagliflozin and placebo groups.
 
+Necrotising fasciitis of the perineum (Fournier’s gangrene)
+Cases of Fournier’s gangrene have been reported postmarketing in patients taking SGLT2 inhibitors, including dapagliflozin (see section 4.4).
+
+In the dapagliflozin cardiovascular outcomes study with 17,160 type 2 diabetes mellitus patients and a median exposure time of 48 months, a total of 6 cases of Fournier’s gangrene were reported, one in the dapagliflozin-treated group and 5 in the placebo group.
+
 Hypoglycaemia
 The frequency of hypoglycaemia depended on the type of background therapy used in each study.
 
 For studies of dapagliflozin in monotherapy, as add-on to metformin or as add-on to sitagliptin (with or without metformin), the frequency of minor episodes of hypoglycaemia was similar (< 5%) between treatment groups, including placebo up to 102 weeks of treatment.
 Across all studies, major events of hypoglycaemia were uncommon and comparable between the groups treated with dapagliflozin or placebo.
 Studies with add-on sulphonylurea and add-on insulin therapies had higher rates of hypoglycaemia (see section 4.5).
-
 In an add-on to glimepiride study, at Weeks 24 and 48, minor episodes of hypoglycaemia were reported more frequently in the group treated with dapagliflozin 10 mg plus glimepiride (6.0% and 7.9%, respectively) than in the placebo plus glimepiride group (2.1% and 2.1%, respectively).
 
 In an add-on to insulin study, episodes of major hypoglycaemia were reported in 0.5% and 1.0% of subjects treated with dapagliflozin 10 mg plus insulin at Weeks 24 and 104, respectively, and in 0.5% of subjects treated with placebo plus insulin groups at Weeks 24 and 104.
@@ -108,6 +112,7 @@ Adverse reactions related to increased creatinine were grouped (e.g. decreased r
 This grouping of reactions was reported in 3.2% and 1.8% of patients who received dapagliflozin 10 mg and placebo, respectively.
 In patients with normal renal function or mild renal impairment (baseline eGFR ≥60 mL/min/1.73 m2) this grouping of reactions were reported in 1.3% and 0.8% of patients who received dapagliflozin 10 mg and placebo, respectively.
 These reactions were more common in patients with baseline eGFR ≥30 and < 60 mL/min/1.73 m2 (18.5% dapagliflozin 10 mg versus 9.3% placebo).
+
 Further evaluation of patients who had renal-related adverse events showed that most had serum creatinine changes of ≤0.5 mg/dL from baseline.
 The increases in creatinine were generally transient during continuous treatment or reversible after discontinuation of treatment.
 
@@ -133,16 +138,17 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 Table 1.
 
-| System organ class | Very common | Common* | Uncommon** | Rare | Very rare | Not known |
-| --- | --- | --- | --- | --- | --- | --- |
-| Infections and infestations |  | Vulvovaginitis, balanitis and related genital infections*,b,c Urinary tract infection*,b,d | Fungal infection** |  |  | Necrotising fasciitis of the perineum (Fournier's gangrene)i |
-| Metabolism and nutrition disorders | Hypoglycaemia (when used with SU or insulin)b |  | Volume depletionb,e Thirst** | Diabetic ketoacidosisb,i,k |  |  |
-| Nervous system disorders |  | Dizziness |  |  |  |  |
-| Gastrointestinal disorders |  |  | Constipation** Dry mouth** |  |  |  |
-| Skin and subcutaneous tissue disorders |  | Rashj |  |  | Angioedema |  |
-| Musculoskeletal and connective tissue disorders |  | Back pain* |  |  |  |  |
-| Renal and urinary disorders |  | Dysuria Polyuria*,f | Nocturia** |  |  |  |
-| Reproductive system and breast disorders |  |  | Vulvovaginal pruritus** Pruritus genital** |  |  |  |
-| Investigations |  | Haematocrit increasedg Creatinine renal clearance decreased during initial treatmentb Dyslipidaemiah | Blood creatinine increased during initial treatment**,b Blood urea increased** Weight decreased** |  |  |  |
+| System organ class | Very common | Common* | Uncommon** | Rare | Very rare |
+| --- | --- | --- | --- | --- | --- |
+| Infections and infestations |  | Vulvovaginitis, balanitis and related genital infections*,b,c Urinary tract infection*,b,d | Fungal infection** |  | Necrotising fasciitis of the perineum (Fournier's gangrene)b,i |
+| Metabolism and nutrition disorders | Hypoglycaemia (when used with SU or insulin)b |  | Volume depletionb,e Thirst** | Diabetic ketoacidosisb,i,k |  |
+| Nervous system disorders |  | Dizziness |  |  |  |
+| Gastrointestinal disorders |  |  | Constipation** Dry mouth** |  |  |
+| Skin and subcutaneous tissue disorders |  | Rashj |  |  | Angioedema |
+| Musculoskeletal and connective tissue disorders |  | Back pain* |  |  |  |
+| Renal and urinary disorders |  | Dysuria Polyuria*,f | Nocturia** |  |  |
+| Reproductive system and breast disorders |  |  | Vulvovaginal pruritus** Pruritus genital** |  |  |
+| Investigations |  | Haematocrit increasedg Creatinine renal clearance decreased during initial treatmentb Dyslipidaemiah | Blood creatinine increased during initial treatment**,b Blood urea increased** |  |  |
+|  |  |  | Weight decreased** |  |  |
 
 kReported in the cardiovascular outcomes study in patients with type 2 diabetes.

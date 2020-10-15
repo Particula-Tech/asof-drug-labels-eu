@@ -4,6 +4,7 @@ Pharmacotherapeutic group: Drugs used in diabetes, Sodium-glucose co-transporter
 
 Mechanism of action
 Dapagliflozin is a highly potent (Ki: 0.55 nM), selective and reversible inhibitor of SGLT2.
+
 The SGLT2 is selectively expressed in the kidney with no expression detected in more than 70 other tissues including liver, skeletal muscle, adipose tissue, breast, bladder and brain.
 SGLT2 is the predominant transporter responsible for reabsorption of glucose from the glomerular filtrate back into the circulation.
 Despite the presence of hyperglycaemia in type 2 diabetes, reabsorption of filtered glucose continues.
@@ -44,6 +45,7 @@ Fifty-one percent (51%) of the subjects were men, 84% were White, 8% were Asian,
 4% were Black and 4% were of other racial groups.
 Eighty-one percent (81%) of the subjects had a body mass index (BMI) ≥27.
 Furthermore, two 12-week, placebo-controlled studies were conducted in patients with inadequately controlled type 2 diabetes and hypertension.
+
 A cardiovascular outcomes study (DECLARE) was conducted with dapagliflozin 10 mg compared with placebo in 17,160 patients with type 2 diabetes mellitus with or without established cardiovascular disease to evaluate the effect on cardiovascular and renal events.
 
 Glycaemic control
@@ -94,6 +96,7 @@ At Week 104, adjusted mean change from baseline in HbA1c was -0.32% for dapaglif
 At Week 208, adjusted mean change from baseline in HbA1c was -0.10% for dapagliflozin and 0.20% for glipizide.
 At 52, 104 and 208 weeks, a significantly lower proportion of subjects in the group treated with dapagliflozin (3.5%, 4.3% and 5.0%, respectively) experienced at least one event of hypoglycaemia compared to the group treated with glipizide (40.8%, 47.0% and 50.0%, respectively).
 The proportion of subjects remaining in the study at Week 104 and Week 208 was 56.2% and 39.7% for the group treated with dapagliflozin and 50.0% and 34.6% for the group treated with glipizide.
+
 Table 4.
 Results at Week 52 (LOCFa) in an active-controlled study comparing dapagliflozin to glipizide as add-on to metformin
 

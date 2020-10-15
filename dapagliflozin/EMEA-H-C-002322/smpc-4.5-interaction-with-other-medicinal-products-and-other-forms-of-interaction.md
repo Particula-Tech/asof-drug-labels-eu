@@ -32,9 +32,9 @@ Effect of dapagliflozin on other medicinal products
 In interaction studies conducted in healthy subjects, using mainly a single-dose design, dapagliflozin did not alter the pharmacokinetics of metformin, pioglitazone, sitagliptin, glimepiride, hydrochlorothiazide, bumetanide, valsartan, digoxin (a P-gp substrate) or warfarin (S-warfarin, a CYP2C9 substrate), or the anticoagulatory effects of warfarin as measured by INR.
 Combination of a single dose of dapagliflozin 20 mg and simvastatin (a CYP3A4 substrate) resulted in a 19% increase in AUC of simvastatin and 31% increase in AUC of simvastatin acid.
 The increase in simvastatin and simvastatin acid exposures are not considered clinically relevant.
-
 Interference with 1,5-anhydroglucitol (1,5-AG) assay
 Monitoring glycaemic control with 1,5-AG assay is not recommended as measurements of 1,5-AG are unreliable in assessing glycaemic control in patients taking SGLT2 inhibitors.
 Use of alternative methods to monitor glycaemic control is advised.
+
 Paediatric population
 Interaction studies have only been performed in adults.
