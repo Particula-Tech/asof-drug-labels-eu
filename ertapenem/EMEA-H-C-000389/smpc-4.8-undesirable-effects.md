@@ -11,12 +11,12 @@ For patients who received only INVANZ, the most common adverse reactions reporte
 
 For patients who received only INVANZ, the most frequently reported laboratory abnormalities and their respective incidence rates during therapy plus follow-up for 14 days after treatment was stopped were: elevations in ALT (4.6 %), AST (4.6 %), alkaline phosphatase (3.8 %) and platelet count
 (3.0 %).
-
 Paediatric population (3 months to 17 years of age):
 The total number of patients treated with ertapenem in clinical studies was 384.
 The overall safety profile is comparable to that in adult patients.
 Adverse reactions (i.e., considered by the investigator to be possibly, probably, or definitely related to the medicinal product) were reported in approximately 20.8 % of patients treated with ertapenem.
 Treatment was discontinued due to adverse reactions in 0.5 % of patients.
+
 For patients who received only INVANZ, the most common adverse reactions reported during therapy plus follow-up for 14 days after treatment was stopped were: diarrhoea (5.2 %) and infusion site pain (6.1 %).
 
 For patients who received only INVANZ, the most frequently reported laboratory abnormalities and their respective incidence rates during therapy plus follow-up for 14 days after treatment was stopped were: decreases in neutrophil count (3.0 %), and elevations in ALT (2.9 %) and AST (2.8 %).
@@ -40,7 +40,7 @@ Common (≥1/100 to < 1/10); Uncommon (≥1/1,000 to < 1/100); Rare (≥1/10,000
 | Respiratory, thoracic and mediastinal disorders | Uncommon: Dyspnoea, pharyngeal discomfort Rare: Nasal congestion, cough, epistaxis, rales/rhonchi, wheezing |  |
 | Gastrointestinal disorders | Common: Diarrhoea, nausea, vomiting Uncommon: Constipation, acid regurgitation, dry mouth, dyspepsia, abdominal pain Rare: Dysphagia, faecal incontinence, pelvic peritonitis Not known: teeth staining | Common: Diarrhoea Uncommon: Faeces discoloured, melaena |
 | Hepato-biliary disorders | Rare: Cholecystitis, jaundice, liver disorder |  |
-| Skin and subcutaneous tissue disorders | Common: Rash, pruritus Uncommon: Erythema, urticaria Rare: Dermatitis, desquamation Not known: Drug Rash with Eosinophilia and Systemic Symptoms (DRESS syndrome) | Common: Diaper dermatitis Uncommon: Erythema, rash, petechiae |
+| Skin and subcutaneous tissue disorders | Common: Rash, pruritus Uncommon: Erythema, urticaria Rare: Dermatitis, desquamation Not known: Acute Generalised Exanthematous Pustulosis (AGEP), Drug Rash with Eosinophilia and Systemic Symptoms (DRESS syndrome) | Common: Diaper dermatitis Uncommon: Erythema, rash, petechiae |
 | Musculoskeletal and connective tissue disorders | Rare: Muscle cramp, shoulder pain Not known: Muscular weakness |  |
 | Renal and urinary disorders | Rare: Renal insufficiency, acute renal insufficiency |  |
 | Pregnancy, puerperium and perinatal conditions | Rare: Abortion |  |

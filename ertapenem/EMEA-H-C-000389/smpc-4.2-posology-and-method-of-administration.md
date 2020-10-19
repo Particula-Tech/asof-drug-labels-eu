@@ -6,9 +6,9 @@ Treatment
 Adults and adolescents (13 to 17 years of age): The dose of INVANZ is 1 gram (g) given once a day by the intravenous route (see section 6.6).
 
 Infants and children (3 months to 12 years of age): The dose of INVANZ is 15 mg/kg given twice daily (not to exceed 1 g/day) by the intravenous route (see section 6.6).
-
 Prevention
 Adults: To prevent surgical site infections following elective colorectal surgery, the recommended dosage is 1 g administered as a single intravenous dose to be completed within 1 hour prior to the surgical incision.
+
 Paediatric population
 The safety and efficacy of INVANZ in children below 3 months of age have not yet been established.
 No data are available.

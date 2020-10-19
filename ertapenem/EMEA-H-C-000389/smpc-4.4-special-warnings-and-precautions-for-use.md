@@ -6,11 +6,11 @@ These reactions are more likely to occur in individuals with a history of sensit
 Before initiating therapy with ertapenem, careful inquiry should be made concerning previous hypersensitivity reactions to penicillins, cephalosporins, other beta-lactams and other allergens (see section 4.3).
 If an allergic reaction to ertapenem occurs (see section 4.8), discontinue the therapy immediately.
 Serious anaphylactic reactions require immediate emergency treatment.
-
 Superinfection
 Prolonged use of ertapenem may result in overgrowth of non-susceptible organisms.
 Repeated evaluation of the patient's condition is essential.
 If superinfection occurs during therapy, appropriate measures should be taken.
+
 Antibiotic-associated colitis
 Antibiotic-associated colitis and pseudomembranous colitis have been reported with ertapenem and may range in severity from mild to life-threatening.
 Therefore, it is important to consider this diagnosis in patients who present with diarrhoea subsequent to the administration of antibacterial agents.
@@ -36,7 +36,7 @@ Considerations for use in particular populations
 Experience in the use of ertapenem in the treatment of severe infections is limited.
 In clinical studies for the treatment of community-acquired pneumonia, in adults, 25 % of evaluable patients treated with ertapenem had severe disease (defined as pneumonia severity index > III).
 In a clinical study for the treatment of acute gynaecologic infections, in adults, 26 % of evaluable patients treated with ertapenem had severe disease (defined as temperature ≥39°C and/or bacteraemia); ten patients had bacteraemia.
-Of evaluable patients treated with ertapenem in a clinical study for the treatment of intra-abdominal infections, in adults, 30 % had generalized peritonitis and 39 % had infections involving sites other than the appendix including the stomach, duodenum, small bowel, colon, and gallbladder; there were limited numbers of evaluable patients who were enrolled with APACHE II scores ≥15 and efficacy in these patients has not been established.
+Of evaluable patients treated with ertapenem in a clinical study for the treatment of intra-abdominal infections, in adults, 30 % had generalised peritonitis and 39 % had infections involving sites other than the appendix including the stomach, duodenum, small bowel, colon, and gallbladder; there were limited numbers of evaluable patients who were enrolled with APACHE II scores ≥15 and efficacy in these patients has not been established.
 
 The efficacy of INVANZ in the treatment of community acquired pneumonia due to penicillin-resistant Streptococcus pneumoniae has not been established.
 

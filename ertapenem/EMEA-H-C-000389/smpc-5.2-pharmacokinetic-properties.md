@@ -17,6 +17,7 @@ Average plasma concentrations of ertapenem following a single 30 minute intraven
 170.4 micrograms/mL (Cmax) at 0.5 hour postdose (end of infusion), 7.0 micrograms/mL at 12 hour postdose, and 1.1 microgram/mL at 24 hour postdose.
 
 Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 1 g dose in three patients 13 to 17 years of age were 155.9 micrograms/mL (Cmax) at 0.5 hour postdose (end of infusion), and 6.2 micrograms/mL at 12 hour postdose.
+
 Distribution
 Ertapenem is highly bound to human plasma proteins.
 In healthy young adults (25 to 45 years of age), the protein binding of ertapenem decreases, as plasma concentrations increase, from approximately 95 % bound at an approximate plasma concentration of < 50 micrograms/mL to approximately 92 % bound at an approximate plasma concentration of 155 micrograms/mL (average concentration achieved at the end of infusion following 1 g intravenously).
@@ -25,19 +26,19 @@ The volume of distribution (Vdss) of ertapenem in adults is approximately 8 litr
 
 Concentrations of ertapenem achieved in adult skin blister fluid at each sampling point on the third day of 1 g once daily intravenous doses showed a ratio of AUC in skin blister fluid: AUC in plasma of 0.61.
 
-In-vitro studies indicate that the effect of ertapenem on the plasma protein binding of highly protein bound medicinal products (warfarin, ethinyl estradiol, and norethindrone) was small.
+In vitro studies indicate that the effect of ertapenem on the plasma protein binding of highly protein bound medicinal products (warfarin, ethinyl estradiol, and norethindrone) was small.
 The change in binding was < 12 % at peak plasma ertapenem concentration following a 1 g dose.
 In vivo, probenecid (500 mg every 6 hours) decreased the bound fraction of ertapenem in plasma at the end of infusion in subjects administered a single 1 g intravenous dose from approximately 91 % to approximately 87 %.
 The effects of this change are anticipated to be transient.
 A clinically significant interaction due to ertapenem displacing another medicinal product or another medicinal product displacing ertapenem is unlikely.
 
-In-vitro studies indicate that ertapenem does not inhibit P-glycoprotein-mediated transport of digoxin or vinblastine and that ertapenem is not a substrate for P-glycoprotein-mediated transport.
+In vitro studies indicate that ertapenem does not inhibit P-glycoprotein-mediated transport of digoxin or vinblastine and that ertapenem is not a substrate for P-glycoprotein-mediated transport.
 
 Biotransformation
 In healthy young adults (23 to 49 years of age), after intravenous infusion of radiolabelled 1 g ertapenem, the plasma radioactivity consists predominantly (94 %) of ertapenem.
 The major metabolite of ertapenem is the ring-opened derivative formed by dehydropeptidase-I-mediated hydrolysis of the beta-lactam ring.
 
-In-vitro studies in human liver microsomes indicate that ertapenem does not inhibit metabolism mediated by any of the six major CYP isoforms: 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4.
+In vitro studies in human liver microsomes indicate that ertapenem does not inhibit metabolism mediated by any of the six major CYP isoforms: 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4.
 
 Elimination
 Following administration of a 1 g radiolabelled intravenous dose of ertapenem to healthy young adults (23 to 49 years of age), approximately 80 % is recovered in urine and 10 % in faeces.
@@ -62,7 +63,7 @@ Plasma concentrations of ertapenem are comparable in paediatric patients 13 to 1
 Following the 20 mg/kg dose (up to a maximum dose of 1 g), the pharmacokinetic parameter values in patients 13 to 17 years of age were generally comparable to those in healthy young adults.
 To provide an estimate of the pharmacokinetic data if all patients in this age group were to receive a 1 g dose, the pharmacokinetic data were calculated adjusting for a 1 g dose, assuming linearity.
 A comparison of results show that a 1 g once daily dose of ertapenem achieves a pharmacokinetic profile in patients 13 to 17 years of age comparable to that of adults.
-The ratios (13 to 17 years/Adults) for AUC, the end of infusion concentration and the concentration at the midpoint of the dosing interval were 0.99, 1.20, and 0.84, respectively.
+The ratios (13 to 17 years/adults) for AUC, the end of infusion concentration and the concentration at the midpoint of the dosing interval were 0.99, 1.20, and 0.84, respectively.
 
 Plasma concentrations at the midpoint of the dosing interval following a single 15 mg/kg intravenous dose of ertapenem in patients 3 months to 12 years of age are comparable to plasma concentrations at the midpoint of the dosing interval following a 1 g once daily intravenous dose in adults (see Plasma concentrations).
 The plasma clearance (mL/min/kg) of ertapenem in patients 3 months to 12 years of age is approximately 2-fold higher as compared to that in adults.
@@ -80,6 +81,5 @@ AUCs of total ertapenem and of unbound ertapenem are increased in patients with 
 AUCs of total ertapenem and of unbound ertapenem are increased in patients who require haemodialysis approximately 2.9-fold and 6.0-fold, respectively, between dialysis sessions, compared with healthy subjects.
 Following a single 1 g intravenous dose given immediately prior to a haemodialysis session, approximately 30 % of the dose is recovered in the dialysate.
 There are no data in paediatric patients with renal impairment.
-
 There are inadequate data on the safety and efficacy of ertapenem in patients with advanced renal impairment and patients who require haemodialysis to support a dose recommendation.
 Therefore, ertapenem should not be used in these patients.

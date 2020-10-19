@@ -12,4 +12,5 @@ INVANZ is indicated in paediatric patients (3 months to 17 years of age) and in 
 Prevention
 
 INVANZ is indicated in adults for the prophylaxis of surgical site infection following elective colorectal surgery (see section 4.4).
+
 Consideration should be given to official guidance on the appropriate use of antibacterial agents.
