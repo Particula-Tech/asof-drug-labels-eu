@@ -98,7 +98,6 @@ Patients involved in the placebo-controlled study had an MMSE (Mini-Mental State
 Efficacy was established by the use of independent, domain-specific assessment tools which were applied at regular intervals during the 24-week treatment period.
 These include the ADAS-Cog (Alzheimer’s Disease Assessment Scale – Cognitive subscale, a performance-based measure of cognition) and the ADCS-CGIC (Alzheimer’s Disease Cooperative Study – Clinician’s Global Impression of Change, a comprehensive global assessment of the patient by the physician incorporating caregiver input), and the ADCS-ADL (Alzheimer’s Disease Cooperative Study – Activities of Daily Living, a caregiver-rated assessment of the activities of daily living including personal hygiene, feeding, dressing, household chores such as shopping, retention of ability to orient oneself to surroundings as well as involvement in activities related to finances).
 The 24-week results for the three assessment tools are summarised in Table 2.
-
 Table 2
 
 | ITT-LOCF population | Exelon transdermal patches 9.5 mg/24 h N = 251 | Exelon capsules 12 mg/day N = 256 | Placebo N = 282 |
@@ -114,6 +113,7 @@ Negative ADAS-Cog changes indicate improvement.
 Positive ADCS-ADL changes indicate improvement.
 2 Based on CMH test (van Elteren test) blocking for country.
 ADCS-CGIC scores <4 indicate improvement.
+
 The results for clinically relevant responders from the 24-week placebo-controlled study are provided in Table 3.
 Clinically relevant improvement was defined a priori as at least 4-point improvement on the ADAS-Cog, no worsening on the ADCS-CGIC, and no worsening on the ADCS-ADL.
 
@@ -128,6 +128,7 @@ Table 3
 *p<0.05 versus placebo
 
 As suggested by compartmental modelling, 9.5 mg/24 h transdermal patches exhibited exposure similar to that provided by an oral dose of 12 mg/day.
+
 48-week active comparator controlled study
 Patients involved in the active comparator controlled study had an initial baseline MMSE score of 10-24.
 The study was designed to compare the efficacy of the 13.3 mg/24 h transdermal patch against the 9.5 mg/24 h transdermal patch during a 48-week double-blind treatment phase in Alzheimer’s disease patients who demonstrated functional and cognitive decline after an initial 24-48 week open-label treatment phase while on a maintenance dose of 9.5 mg/24 h transdermal patch.
@@ -135,20 +136,23 @@ Functional decline was assessed by the investigator and cognitive decline was de
 Efficacy was established by the use of ADAS-Cog (Alzheimer’s Disease Assessment Scale – Cognitive subscale, a performance-based measure of cognition) and the ADCS-IADL (Alzheimer’s Disease Cooperative Study – Instrumental Activities of Daily Living) assessing instrumental activities which include maintaining finances, meal preparation, shopping, ability to orient oneself to surroundings, ability to be left unattended.
 The 48-week results for the two assessment tools are summarised in Table 4.
 
-Exelon 15 cm2 Exelon 10 cm2 Exelon 15 cm2 Exelon
-Population/Visit N = 265 N = 271 10 cm2
+Exelon Exelon Exelon 15 cm2 Exelon
+Population/Visit 15 cm2 10 cm2 10 cm2
+N = 265 N = 271
 
-n Mean n Mean DLSM 95% CI p-value ADAS-Cog
+n Mean n Mean DLS 95% CI p-value
+M
+ADAS-Cog
 
 LOCF Baseline 264 34.4 268 34.9
-DB-week 48 Value 264 38.5 268 39.7
 
+DB-week 48 Value 264 38.5 268 39.7
 Change 264 4.1 268 4.9 -0.8 (-2.1, 0.5) 0.227
 ADCS-IADL
 
 LOCF Baseline 265 27.5 271 25.8
-Week 48 Value 265 23.1 271 19.6
 
+Week 48 Value 265 23.1 271 19.6
 Change 265 -4.4 271 -6.2 2.2 (0.8, 3.6) 0.002*
 CI – confidence interval.
 DLSM – difference in least square means.

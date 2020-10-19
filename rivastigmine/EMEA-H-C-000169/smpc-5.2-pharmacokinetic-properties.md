@@ -79,6 +79,7 @@ Elimination was absorption rate limited (flip-flop kinetics), which explains the
 Based on in vitro studies, no pharmacokinetic interaction is expected with medicinal products metabolised by the following cytochrome isoenzymes: CYP1A2, CYP2D6, CYP3A4/5, CYP2E1, CYP2C9, CYP2C8, CYP2C19, or CYP2B6.
 Based on evidence from animal studies, the major cytochrome P450 isoenzymes are minimally involved in rivastigmine metabolism.
 Total plasma clearance of rivastigmine was approximately 130 litres/h after a 0.2 mg intravenous dose and decreased to 70 litres/h after a 2.7 mg intravenous dose, which is consistent with the non-linear, over-proportional pharmacokinetics of rivastigmine due to saturation of its elimination.
+
 The metabolite-to-parent AUC∞ ratio was around 0.7 after transdermal patch administration versus 3.5 after oral administration, indicating that much less metabolism occurred after dermal compared to oral treatment.
 Less NAP226-90 is formed following application of the transdermal patch, presumably because of the lack of presystemic (hepatic first pass) metabolism, in contrast to oral administration.
 

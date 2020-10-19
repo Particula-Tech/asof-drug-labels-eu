@@ -72,7 +72,6 @@ Benzoic acid is a mild irritant to the skin, eyes and mucous membrane.
 
 The incidence and severity of adverse reactions generally increase with increasing doses, particularly at dose changes.
 If treatment is interrupted for more than three days, it should be re-initiated with 4.6 mg/24 h.
-
 Misuse of the medicinal product and dosing errors resulting in overdose
 
 Misuse of the medicinal product and dosing errors with Exelon transdermal patch have resulted in serious adverse reactions; some cases have required hospitalisation, and rarely led to death (see section 4.9).
@@ -87,6 +86,7 @@ Weight loss
 
 Patients with Alzheimer’s disease may lose weight whilst taking cholinesterase inhibitors, including rivastigmine.
 The patient’s weight should be monitored during therapy with Exelon transdermal patches.
+
 Bradycardia
 
 Other adverse reactions

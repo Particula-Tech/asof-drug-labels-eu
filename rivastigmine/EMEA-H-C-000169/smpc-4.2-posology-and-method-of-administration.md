@@ -82,6 +82,7 @@ Discontinuation should also be considered when evidence of a therapeutic effect 
 Treatment should be temporarily interrupted if gastrointestinal adverse reactions are observed until these adverse reactions resolve.
 Transdermal patch treatment can be resumed at the same dose if treatment is not interrupted for more than three days.
 Otherwise treatment should be re-initiated with 4.6 mg/24 h.
+
 Switching from capsules or oral solution to transdermal patches
 Based on comparable exposure between oral and transdermal rivastigmine (see section 5.2), patients treated with Exelon capsules or oral solution can be switched to Exelon transdermal patches as follows:
 
@@ -92,7 +93,6 @@ Based on comparable exposure between oral and transdermal rivastigmine (see sect
 - A patient on a dose of 12 mg/day oral rivastigmine can be switched to 9.5 mg/24 h transdermal patches.
 
 After switching to 4.6 mg/24 h transdermal patches, provided these are well tolerated after a minimum of four weeks of treatment, the dose of 4.6 mg/24 h should be increased to 9.5 mg/24 h, which is the recommended effective dose.
-
 It is recommended to apply the first transdermal patch on the day following the last oral dose.
 
 - Paediatric population: There is no relevant use of Exelon in the paediatric population in the treatment of Alzheimer’s disease.
@@ -111,6 +111,7 @@ It is not recommended to apply the transdermal patch to the thigh or to the abdo
 
 The transdermal patch should not be applied to skin that is red, irritated or cut.
 Reapplication to the exact same skin location within 14 days should be avoided to minimise the potential risk of skin irritation.
+
 Patients and caregivers should be instructed on important administration instructions:
 
 - The previous day’s patch must be removed before applying a new one every day (see section 4.9).

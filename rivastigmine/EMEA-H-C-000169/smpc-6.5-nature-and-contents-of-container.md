@@ -15,8 +15,7 @@ The oral solution is packaged with an oral dosing syringe in a plastic tube cont
 
 [Exelon 4.6 mg/24 h transdermal patch]
 
-Each child-resistant sachet is made of a paper/polyester/aluminium/polyacrylonitrile multilaminated material.
-One sachet contains one transdermal patch.
+Exelon 9 mg/5 cm2, 18 mg/10 cm2 and 27 mg/15 cm2 transdermal patches are individually packaged in child-resistant, heat-sealed sachets made of a paper/polyethyleneterephthalate/aluminum/polyacrylnitrile (PAN) multi-laminated material (paper/PET/alu/PAN) or in heat-sealed, child-resistant sachets made of multi-layer composite laminate consisting of paper/polyethylene terephthalate/polyethylene/aluminum/polyamide (paper/PET/PE/alu/PA).
 
 Exelon 4.6 mg/24 h transdermal patch
 
