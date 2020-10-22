@@ -3,18 +3,26 @@
 Pharmacotherapeutic group: Other alimentary tract and metabolism products, Various alimentary tract and metabolism products, ATC code: A16A X04.
 
 Mechanism of action
-The biochemical defect in hereditary tyrosinemia type 1 (HT-1) is a deficiency of fumarylacetoacetate hydrolase, which is the final enzyme of the tyrosine catabolic pathway.
-Nitisinone is a competitive inhibitor of 4-hydroxyphenylpyruvate dioxygenase, an enzyme which precedes fumarylacetoacetate hydrolase in the tyrosine catabolic pathway.
-By inhibiting the normal catabolism of tyrosine in patients with HT-1, nitisinone prevents the accumulation of the toxic intermediates maleylacetoacetate and fumarylacetoacetate.
-In patients with HT-1, these intermediates are converted to the toxic metabolites succinylacetone and succinylacetoacetate.
+Nitisinone is a competitive inhibitor of 4-hydroxyphenylpyruvate dioxygenase, the second step in the tyrosine metabolism.
+By inhibiting the normal catabolism of tyrosine in patients with HT-1 and AKU, nitisinone prevents the accumulation of harmful metabolites downstream of 4-hydroxyphenylpyruvate dioxygenase.
+
+The biochemical defect in HT-1 is a deficiency of fumarylacetoacetate hydrolase, which is the final enzyme of the tyrosine catabolic pathway.
+Nitisinone prevents the accumulation of the toxic intermediates maleylacetoacetate and fumarylacetoacetate.
+These intermediates are otherwise converted to the toxic metabolites succinylacetone and succinylacetoacetate.
 Succinylacetone inhibits the porphyrin synthesis pathway leading to the accumulation of 5-aminolevulinate.
 
+The biochemical defect in AKU is a deficiency of homogentisate 1,2 dioxygenase, the third enzyme of the tyrosine catabolic pathway.
+Nitisinone prevents the accumulation of the harmful metabolite homogentisic acid (HGA), which otherwise leads to ochronosis of joints and cartilage and thereby the development of the clinical features of the disease.
+
 Pharmacodynamic effects
-Nitisinone treatment leads to normalised porphyrin metabolism with normal erythrocyte porphobilinogen synthase activity and urine 5-aminolevulinate, decreased urinary excretion of succinylacetone, increased plasma tyrosine concentration and increased urinary excretion of phenolic acids.
+In patients with HT-1, nitisinone treatment leads to normalised porphyrin metabolism with normal erythrocyte porphobilinogen synthase activity and urine 5-aminolevulinate, decreased urinary excretion of succinylacetone, increased plasma tyrosine concentration and increased urinary excretion of phenolic acids.
 Available data from a clinical study indicates that in more than 90% of the patients urine succinylacetone was normalized during the first week of treatment.
 Succinylacetone should not be detectable in urine or plasma when the nitisinone dose is properly adjusted.
 
-Clinical efficacy and safety
+In patients with AKU, nitisinone treatment reduces the accumulation of HGA.
+Available data from a clinical study shows a 99.7% reduction of urinary HGA, and a 98.8% reduction of serum HGA, following nitisinone treatment compared to untreated control patients after 12 months of treatment.
+
+Clinical efficacy and safety in HT-1
 The clinical study was open-labelled and uncontrolled.
 The dosing frequency in the study was twice daily.
 Survival probabilities after 2, 4 and 6 years of treatment with nitisinone are summarized in the table below.
@@ -54,3 +62,23 @@ There were no clinically important differences in AEs or other safety assessment
 No patient had detectable succinylacetone (SA) levels at the end of the once-daily treatment period.
 The study indicates that once daily administration is safe and efficacious across all ages of patients.
 Data is, however, limited in patients with body weight <20 kg.
+
+Clinical efficacy and safety in AKU
+The efficacy and safety of 10 mg once daily nitisinone in the treatment of adult patients with AKU have been demonstrated in a randomized, evaluator-blinded, no-treatment controlled, parallel-group 48-months study in 138 patients (69 treated with nitisinone).
+The primary endpoint was the effect on urinary HGA levels; a 99.7% reduction following nitisinone treatment compared to untreated control patients was seen after 12 months.
+Treatment with nitisinone was shown to have a statistically significant positive effect on cAKUSSI, eye pigmentation, ear pigmentation, osteopenia of the hip, and number of spinal regions with pain compared to the untreated control. cAKUSSI is a composite score including eye and ear pigmentation, kidney and prostate stones, aortic stenosis, osteopenia, bone fractures, tendon/ligament/muscle ruptures, kyphosis, scoliosis, joint replacements, and other manifestations of AKU.
+Thus, the lowered HGA levels in nitisinone-treated patients resulted in a reduction of the ochronotic process and reduced clinical manifestations, supporting a decreased disease progression.
+
+Ocular events, such as keratopathy and eye pain, infections, headache and weight gain were reported with a higher incidence in nitisinone-treated than in untreated patients.
+Keratopathy led to temporary or permanent treatment discontinuation in 14% of nitisinone-treated patients but was reversible upon withdrawal of nitisinone.
+
+No data is available for patients > 70 years.
+
+[Orfadin 4 mg/ml oral suspension]
+
+Available data from a clinical study shows a 99.7 % reduction of urinary HGA, and a 98.8 % reduction of serum HGA, following nitisinone treatment compared to untreated control patients after 12 months of treatment.
+
+The efficacy and safety of 10 mg once daily nitisinone in the treatment of adult patients with AKU have been demonstrated in a randomized, evaluator blinded, no-treatment controlled, parallel-group 48-months study in 138 patients (69 treated with nitisinone).
+The primary endpoint was the effect on urinary HGA levels; a 99.7% reduction following nitisinone treatment compared to untreated control patients was seen after 12 months.Treatment with nitisinone was shown to have a statistically significant positive effect on cAKUSSI, eye pigmentation, ear pigmentation, osteopenia of the hip, and number of spinal regions with pain compared to the untreated control. cAKUSSI is a composite score including eye and ear pigmentation, kidney and prostate stones, aortic stenosis, osteopenia, bone fractures, tendon/ligament/muscle ruptures, kyphosis, scoliosis, joint replacements, and other manifestations of AKU.
+
+Ocular events such as keratopathy and eye pain, infections, headache and weight gain were reported with a higher incidence in nitisinone-treated than in untreated patients.

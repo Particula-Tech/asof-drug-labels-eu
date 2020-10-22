@@ -1,17 +1,20 @@
 # 4.2 Posology and method of administration
 
+Posology
+
+HT-1:
 Nitisinone treatment should be initiated and supervised by a physician experienced in the treatment of HT-1 patients.
 
-Posology
 Treatment of all genotypes of the disease should be initiated as early as possible to increase overall survival and avoid complications such as liver failure, liver cancer and renal disease.
 Adjunct to the nitisinone treatment, a diet deficient in phenylalanine and tyrosine is required and should be followed by monitoring of plasma amino acids (see sections 4.4 and 4.8).
 
+Starting dose HT-1
 The recommended initial daily dose in the paediatric and adult population is 1 mg/kg body weight administered orally.
 The dose of nitisinone should be adjusted individually.
 It is recommended to administer the dose once daily.
 However, due to the limited data in patients with body weight <20 kg, it is recommended to divide the total daily dose into two daily administrations in this patient population.
 
-Dose adjustment
+Dose adjustment HT-1
 During regular monitoring, it is appropriate to follow urine succinylacetone, liver function test values and alpha-fetoprotein levels (see section 4.4).
 If urine succinylacetone is still detectable one month after the start of nitisinone treatment, the nitisinone dose should be increased to 1.5 mg/kg body weight/day.
 A dose of 2 mg/kg body weight/day may be needed based on the evaluation of all biochemical parameters.
@@ -20,17 +23,25 @@ If the biochemical response is satisfactory, the dose should be adjusted only ac
 
 However, in addition to the tests above, during the initiation of therapy, switch from twice daily to once daily dosing or if there is a deterioration, it may be necessary to follow more closely all available biochemical parameters (i.e. plasma succinylacetone, urine 5-aminolevulinate (ALA) and erythrocyte porphobilinogen (PBG)-synthase activity).
 
+AKU:
+Nitisinone treatment should be initiated and supervised by a physician experienced in the treatment of AKU patients.
+
+The recommended dose in the adult AKU population is 10 mg once daily.
+
 Special populations
 There are no specific dose recommendations for elderly or patients that have renal or hepatic impairment.
 
 Paediatric population
-The dose recommendation in mg/kg body weight is the same in children and adults.
+HT-1: The dose recommendation in mg/kg body weight is the same in children and adults.
 However, due to the limited data in patients with body weight <20 kg, it is recommended to divide the total daily dose into two daily administrations in this patient population.
+
+AKU: The safety and efficacy of Orfadin in children aged 0 to 18 years with AKU have not been established.
+No data are available.
 
 Method of administration
 The capsule may be opened and the content suspended in a small amount of water or formula diet immediately before intake.
 
-Orfadin is also available as a 4 mg/ml oral suspension for paediatric patients who have difficulties swallowing capsules.
+Orfadin is also available as a 4 mg/ml oral suspension for paediatric and other patients who have difficulties swallowing capsules.
 
 It is recommended that if nitisinone treatment is initiated with food, this should be maintained on a routine basis, see section 4.5.
 
@@ -41,7 +52,6 @@ A 1 ml,
 3 ml and 5 ml oral syringes are included in the pack to measure the dose in ml in accordance with the prescribed posology.
 The oral syringes are graduated in 0.01 ml, 0.1 ml and 0.2 ml steps respectively.
 The table below shows the dose conversion (mg/ml) for the three oral syringes sizes.
-
 Dose conversion tables respectively for the three oral syringe sizes:
 
 | 1-ml oral syringe (0.01 ml graduation) | Dose Orfadin |  |
@@ -103,6 +113,7 @@ It is recommended that the healthcare professional advises the patient or care g
 Orfadin is also available in 2 mg, 5 mg, 10 mg and 20 mg capsules, if considered more suitable for the patient.
 
 It is recommended that the oral suspension is taken with food, see section 4.5.
+
 Precautions to be taken before handling or administering the medicinal product
 No needle, intravenous tubing or any other device for parenteral administration should be attached to the oral syringe.
 Orfadin is for oral use only.

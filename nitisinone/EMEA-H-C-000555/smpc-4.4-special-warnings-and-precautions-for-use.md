@@ -1,29 +1,36 @@
 # 4.4 Special warnings and precautions for use
 
+Monitoring visits should be performed every 6 months; shorter intervals between visits are recommended in case of adverse events.
 Monitoring of plasma tyrosine levels
 It is recommended that a slit-lamp examination of the eyes is performed before initiation of nitisinone treatment and thereafter regularly, at least once a year.
 A patient displaying visual disorders during treatment with nitisinone should without delay be examined by an ophthalmologist.
-It should be established that the patient is adhering to his/her dietary regimen and the plasma tyrosine concentration should be measured.
+
+HT-1: It should be established that the patient is adhering to his/her dietary regimen and the plasma tyrosine concentration should be measured.
 A more restricted tyrosine and phenylalanine diet should be implemented in case the plasma tyrosine level is above 500 micromol/l.
 It is not recommended to lower the plasma tyrosine concentration by reduction or discontinuation of nitisinone, since the metabolic defect may result in deterioration of the patient’s clinical condition.
 
+AKU: In patients who develop keratopathies, plasma tyrosine levels should be monitored.
+A diet restricted in tyrosine and phenylalanine should be implemented to keep the plasma tyrosine level below 500 micromol/l.
+In addition, nitisinone should be temporarily discontinued and may be reintroduced when the symptoms have been resolved.
+
 Liver monitoring
-The liver function should be monitored regularly by liver function tests and liver imaging.
+HT-1: The liver function should be monitored regularly by liver function tests and liver imaging.
 It is recommended to also monitor serum alpha-fetoprotein concentrations.
 Increase in serum alpha-fetoprotein concentration may be a sign of inadequate treatment.
 Patients with increasing alpha-fetoprotein or signs of nodules in the liver should always be evaluated for hepatic malignancy.
 
 Platelet and white blood cell (WBC) monitoring
-It is recommended that platelet and WBC counts are monitored regularly, as a few cases of reversible thrombocytopenia and leucopenia were observed during clinical evaluation.
-Monitoring visits should be performed every 6 months; shorter intervals between visits are recommended in case of adverse events.
+It is recommended that platelet and WBC counts are monitored regularly for both HT-1 and AKU patients, as a few cases of reversible thrombocytopenia and leucopenia were observed during clinical evaluation of HT-1.
 
 Concomitant use with other medicinal products
 Nitisinone is a moderate CYP2C9 inhibitor.
 Nitisinone treatment may therefore result in increased plasma concentrations of co-administered medicinal products metabolized primarily via CYP2C9.
-Nitisinone treated patients who are concomitantly treated with medicinal products with a narrow therapeutic window metabolized through CYP2C9, such as warfarin and phenytoin, should be carefully monitored.
+Nitisinone-treated patients who are concomitantly treated with medicinal products with a narrow therapeutic window metabolized through CYP2C9, such as warfarin and phenytoin, should be carefully monitored.
 Dose-adjustment of these co-administered medicinal products may be needed (see section 4.5).
 
 [Orfadin 4 mg/ml oral suspension]
+
+HT:1: It should be established that the patient is adhering to his/her dietary regimen and the plasma tyrosine concentration should be measured.
 
 Excipients with known effect:
 Glycerol
