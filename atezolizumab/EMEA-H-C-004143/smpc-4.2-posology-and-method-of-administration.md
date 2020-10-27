@@ -45,8 +45,10 @@ Table 1: Dose modification advice for Tecentriq
 
 | Immune related adverse reaction | Severity | Treatment modification |
 | --- | --- | --- |
-| Hepatitis | Grade 2: (ALT or AST > 3 to 5 x upper limit of normal [ULN] or blood bilirubin > 1.5 to 3 x ULN) | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
+| Hepatitis in patients without hepatocellular carcinoma (HCC) | Grade 2: (ALT or AST > 3 to 5 x upper limit of normal [ULN] or blood bilirubin > 1.5 to 3 x ULN) | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 3 or 4: (ALT or AST > 5 x ULN or blood bilirubin > 3 x ULN) | Permanently discontinue Tecentriq |
+| Hepatitis in patients with HCC | If AST/ALT is within normal limits at baseline and increases to >3x to ≤10x ULN or If AST/ALT is >1 to ≤3x ULN at baseline and increases to >5x to ≤10x ULN or If AST/ALT is >3x to ≤5x ULN at baseline and increases to >8x to ≤10x ULN | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
+|  | If AST/ALT increases to >10x ULN or total bilirubin increases to >3x ULN | Permanently discontinue Tecentriq |
 | Colitis | Grade 2 or 3 Diarrhoea (increase of ≥ 4 stools/day over baseline) or Symptomatic Colitis | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 4 Diarrhoea or Colitis (life threatening; urgent intervention indicated) | Permanently discontinue Tecentriq |
 | Hypothyroidism or hyperthyroidism | Symptomatic | Withhold Tecentriq Hypothyroidism: Treatment may be resumed when symptoms are controlled by thyroid replacement therapy and TSH levels are decreasing Hyperthyroidism: Treatment may be resumed when symptoms are controlled by anti-thyroid medicinal product and thyroid function is improving |
@@ -90,12 +92,11 @@ Data from patients with severe renal impairment are too limited to draw conclusi
 
 Hepatic impairment
 
-Based on a population pharmacokinetic analysis, no dose adjustment is required for patients with mild hepatic impairment.
-Tecentriq has not been studied in patients with moderate or severe hepatic impairment (see section 5.2).
-
+Based on a population pharmacokinetic analysis, no dose adjustment is required for patients with mild or moderate hepatic impairment.
+Tecentriq has not been studied in patients with severe hepatic impairment (see section 5.2).
 Eastern Cooperative Oncology Group (ECOG) performance status ≥ 2
 
-Patients with ECOG performance status ≥ 2 were excluded from the clinical trials in NSCLC, TNBC and 2nd line UC (see sections 4.4 and 5.1).
+Patients with ECOG performance status ≥ 2 were excluded from the clinical trials in NSCLC, TNBC 2nd line UC and HCC (see sections 4.4 and 5.1, for HCC see sections 4.4 and 5.1 of the Tecentriq 1,200 mg concentrate for solution for infusion SmPC).
 
 Method of administration
 
@@ -134,7 +135,6 @@ For each 21-day cycle, Tecentriq, nab-paclitaxel, and carboplatin are administer
 In addition, nab-paclitaxel is administered on days 8 and 15.
 
 The induction phase is followed by a maintenance phase without chemotherapy in which 1,200 mg Tecentriq is administered by intravenous infusion every three weeks.
-
 1L ES-SCLC
 
 Tecentriq in combination with carboplatin and etoposide
@@ -142,6 +142,12 @@ Tecentriq in combination with carboplatin and etoposide
 During the induction phase, the recommended dose of Tecentriq is 1,200 mg administered by intravenous infusion followed by carboplatin, and then etoposide administered by intravenous infusion on day 1.
 Etoposide is also administered by intravenous infusion on days 2 and 3.
 This regimen is administered every three weeks for four cycles.
+
+HCC
+
+Tecentriq in combination with bevacizumab
+
+The recommended dose of Tecentriq is 1,200 mg followed by bevacizumab 15 mg/kg of body weight, administered by intravenous infusion every three weeks.
 
 For ES-SCLC and for first-line NSCLC, in patients given Tecentriq in combination with carboplatin and nab-paclitaxel, it is recommended that patients are treated with Tecentriq until disease progression or unmanageable toxicity.
 Treatment beyond disease progression may be considered at the discretion of the physician (see section 5.1).
@@ -152,8 +158,10 @@ The schedule of administration must be adjusted to maintain a 3-week interval be
 | --- | --- | --- |
 | Pneumonitis | Grade 2 | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 3 or 4 | Permanently discontinue Tecentriq |
-| Hepatitis | Grade 2: (ALT or AST > 3 to 5 x upper limit of normal [ULN] or blood bilirubin > 1.5 to 3 x ULN) | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
+| Hepatitis in patients without HCC | Grade 2: (ALT or AST > 3 to 5 x upper limit of normal [ULN] or blood bilirubin > 1.5 to 3 x ULN) | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 3 or 4: (ALT or AST > 5 x ULN or blood bilirubin > 3 x ULN) | Permanently discontinue Tecentriq |
+| Hepatitis in patients with HCC | If AST/ALT is within normal limits at baseline and increases to >3x to ≤10x ULN or If AST/ALT is >1 to ≤3x ULN at baseline and increases to >5x to ≤10x ULN or If AST/ALT is >3x to ≤5x ULN at baseline and increases to >8x to ≤10x ULN | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
+|  | If AST/ALT increases to >10x ULN or total bilirubin increases to >3x ULN | Permanently discontinue Tecentriq |
 | Colitis | Grade 2 or 3 Diarrhoea (increase of ≥ 4 stools/day over baseline) or Symptomatic Colitis | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 4 Diarrhoea or Colitis (life threatening; urgent intervention indicated) | Permanently discontinue Tecentriq |
 | Hypothyroidism or hyperthyroidism | Symptomatic | Withhold Tecentriq Hypothyroidism: Treatment may be resumed when symptoms are controlled by thyroid replacement therapy and TSH levels are decreasing Hyperthyroidism: Treatment may be resumed when symptoms are controlled by anti-thyroid medicinal product and thyroid function is improving |
@@ -181,4 +189,4 @@ Asian patients
 
 Due to increased haematologic toxicities observed in Asian patients in IMpower150, it is recommended that the starting dose of paclitaxel should be 175 mg/m2 every three weeks.
 
-Patients with ECOG performance status ≥ 2 were excluded from the clinical trials in NSCLC, ES-SCLC and 2nd line UC (see sections 4.4 and 5.1).
+Patients with ECOG performance status ≥ 2 were excluded from the clinical trials in NSCLC, ES-SCLC, 2nd line UC and HCC (see sections 4.4 and 5.1).

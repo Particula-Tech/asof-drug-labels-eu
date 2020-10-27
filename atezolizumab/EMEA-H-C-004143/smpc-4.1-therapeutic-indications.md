@@ -24,3 +24,7 @@ Tecentriq, in combination with nab-paclitaxel and carboplatin, is indicated for 
 Small cell lung cancer
 
 Tecentriq, in combination with carboplatin and etoposide, is indicated for the first-line treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC) (see section 5.1).
+
+Hepatocellular carcinoma
+
+Tecentriq, in combination with bevacizumab, is indicated for the treatment of adult patients with advanced or unresectable hepatocellular carcinoma (HCC) who have not received prior systemic therapy (see section 5.1).

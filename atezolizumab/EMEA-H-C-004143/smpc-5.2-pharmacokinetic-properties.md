@@ -52,10 +52,10 @@ The effect of severe renal impairment on the pharmacokinetics of atezolizumab is
 Hepatic impairment
 
 No dedicated studies of atezolizumab have been conducted in patients with hepatic impairment.
-In the population pharmacokinetic analysis, there were no clinically important differences in the clearance of atezolizumab between patients with mild hepatic impairment (bilirubin ≤ ULN and AST > ULN or bilirubin > 1.0 × to 1.5 × ULN and any AST, n= 71) and normal hepatic function (bilirubin and AST ≤ ULN, n = 401).
-No data are available in patients with either moderate or severe hepatic impairment.
-Hepatic impairment was defined by the National Cancer Institute (NCI) criteria of hepatic dysfunction (see section 4.2).
-The effect of moderate or severe hepatic impairment (bilirubin > 1.5 × to 3 × ULN and any AST or bilirubin > 3 × ULN and any AST) on the pharmacokinetics of atezolizumab is unknown.
+In the population pharmacokinetic analysis, there were no clinically important differences in the clearance of atezolizumab observed in patients with mild hepatic impairment (bilirubin ≤ ULN and AST > ULN or bilirubin > 1.0 × to 1.5 × ULN and any AST) or moderate hepatic impairment (bilirubin > 1.5 to 3x ULN and any AST) in comparison to patients with normal hepatic function (bilirubin ≤ ULN and AST ≤ ULN).
+No data are available in patients with severe hepatic impairment (bilirubin >3 X ULN and any AST).
+Hepatic impairment was defined by the National Cancer Institute-Organ Dysfunction Working Group (NCI-ODWG) criteria of hepatic dysfunction (see section 4.2).
+The effect of severe hepatic impairment (bilirubin > 3 × ULN and any AST) on the pharmacokinetics of atezolizumab is unknown.
 
 [Tecentriq 1,200 mg concentrate for solution for infusion.]
 
