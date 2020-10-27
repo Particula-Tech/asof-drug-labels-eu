@@ -3,7 +3,7 @@
 Clinically unstable APL patients are especially at risk and will require more frequent monitoring of electrolyte and glycaemia levels as well as more frequent haematologic, hepatic, renal and coagulation parameter tests.
 
 Leukocyte activation syndrome (APL differentiation syndrome)
-27 % of patients with APL, in the relapsed/refractory setting, treated with arsenic trioxide have experienced symptoms similar to a syndrome called the retinoic-acid-acute promyelocytic leukaemia (RA-APL) or APL differentiation syndrome, characterised by fever, dyspnoea, weight gain, pulmonary infiltrates and pleural or pericardial effusions, with or without leukocytosis.
+27 % of patients with APL, in the relapsed/refractory setting, treated with arsenic trioxide have experienced symptoms similar to a syndrome called the retinoic-acid-acute promyelocytic leukaemia (RA-APL) or APL differentiation syndrome, characterised by fever, dyspnoea, weight gain, pulmonary infiltrates and pleural or pericardial effusions, with or without leucocytosis.
 This syndrome can be fatal.
 In newly diagnosed APL patients treated with arsenic trioxide and all-trans-retinoic acid (ATRA), APL differentiation syndrome was observed in 19 % including 5 severe cases.
 At the first signs that could suggest the syndrome (unexplained fever, dyspnoea and/or weight gain, abnormal chest auscultatory findings or radiographic abnormalities), treatment with TRISENOX must be temporarily discontinued and high-dose steroids (dexamethasone 10 mg intravenously twice a day) must be immediately initiated, irrespective of the leukocyte count and continued for at least 3 days or longer until signs and symptoms have abated.
@@ -21,14 +21,15 @@ Electrocardiogram (ECG) abnormalities
 Arsenic trioxide can cause QT interval prolongation and complete atrioventricular block.
 QT prolongation can lead to a torsade de pointes-type ventricular arrhythmia, which can be fatal.
 Previous treatment with anthracyclines may increase the risk of QT prolongation.
-The risk of torsade de pointes is related to the extent of QT prolongation, concomitant administration of QT prolonging medicinal products (such as class Ia and III antiarrythmics (e.g. quinidine, amiodarone, sotalol, dofetilide), antipsychotics (e.g. thioridazine), antidepressants (e.g. amitriptyline), some macrolides (e.g. erythromycin), some antihistamines (e.g. terfenadine and astemizole), some quinolone antibiotics (e.g. sparfloxacin), and other individual medicinal products known to increase QT interval (e.g. cisapride)), a history of torsade de pointes, pre-existing QT interval prolongation, congestive heart failure, administration of potassium-wasting diuretics, amphotericin B or other conditions that result in hypokalemia or hypomagnesaemia.
-In clinical trials, in the relapsed/refractory setting, 40% of patients treated with TRISENOX experienced at least one QT corrected (QTc) interval prolongation greater than 500 msec.
+The risk of torsade de pointes is related to the extent of QT prolongation, concomitant administration of QT prolonging medicinal products (such as class Ia and III antiarrythmics (e.g. quinidine, amiodarone, sotalol, dofetilide), antipsychotics (e.g. thioridazine), antidepressants (e.g. amitriptyline), some macrolides (e.g. erythromycin), some antihistamines (e.g. terfenadine and astemizole), some quinolone antibiotics (e.g. sparfloxacin), and other individual medicinal products known to increase QT interval (e.g. cisapride)), a history of torsade de pointes, pre-existing QT interval prolongation, congestive heart failure, administration of potassium-wasting diuretics, amphotericin B or other conditions that result in hypokalaemia or hypomagnesaemia.
+In clinical trials, in the relapsed/refractory setting, 40 % of patients treated with TRISENOX experienced at least one QT corrected (QTc) interval prolongation greater than 500 msec.
 Prolongation of the QTc was observed between 1 and 5 weeks after TRISENOX infusion, and then returned to baseline by the end of 8 weeks after TRISENOX infusion.
 One patient (receiving multiple, concomitant medicinal products, including amphotericin B) had asymptomatic torsade de pointes during induction therapy for relapsed APL with arsenic trioxide.
 In newly diagnosed APL patients 15.6 % showed QTc prolongation with arsenic trioxide in combination with ATRA (see section 4.8).
 In one newly diagnosed patient induction treatment was terminated because of severe prolongation of the QTc interval and electrolyte abnormalities on day 3 of induction treatment.
+
 ECG and electrolyte monitoring recommendations
-Prior to initiating therapy with TRISENOX, a 12-lead ECG must be performed and serum electrolytes (potassium, calcium, and magnesium) and creatinine must be assessed; preexisting electrolyte abnormalities must be corrected and, if possible, medicinal products that are known to prolong the QT interval must be discontinued.
+Prior to initiating therapy with TRISENOX, a 12-lead ECG must be performed and serum electrolytes (potassium, calcium, and magnesium) and creatinine must be assessed; pre-existing electrolyte abnormalities must be corrected and, if possible, medicinal products that are known to prolong the QT interval must be discontinued.
 Patients with risk factors of QTc prolongation or risk factors of torsade de pointes should be monitored with continuous cardiac monitoring (ECG).
 For QTc greater than 500 msec, corrective measures must be completed and the QTc reassessed with serial ECGs and, if available, a specialist advice could be sought prior to considering using TRISENOX.
 During therapy with TRISENOX, potassium concentrations must be kept above 4 mEq/l and magnesium concentrations must be kept above 1.8 mg/dl.
@@ -60,25 +61,25 @@ Renal impairment
 Since no data are available across all renal impairment groups, caution is advised in the use of TRISENOX in patients with renal impairment.
 The experience in patients with severe renal impairment is insufficient to determine if dose adjustment is required.
 The use of TRISENOX in patients on dialysis has not been studied.
-
 Hepatic impairment
 Since no data are available across all hepatic impairment groups and hepatotoxic effects may occur during the treatment with arsenic trioxide caution is advised in the use of TRISENOX in patients with hepatic impairment (see section 4.4 on hepatotoxicity and section 4.8).
 The experience in patients with severe hepatic impairment is insufficient to determine if dose adjustment is required.
+
 Elderly
 There is limited clinical data on the use of TRISENOX in the elderly population.
 Caution is needed in these patients.
 
-Hyperleukocytosis
-Treatment with arsenic trioxide has been associated with the development of hyperleukocytosis
+Hyperleucocytosis
+Treatment with arsenic trioxide has been associated with the development of hyperleucocytosis
 (≥ 10 x 103/μl) in some relapsed/refractory APL patients.
-There did not appear to be a relationship between baseline white blood cell (WBC) counts and development of hyperleukocytosis nor did there appear to be a correlation between baseline WBC count and peak WBC counts.
-Hyperleukocytosis was never treated with additional chemotherapy and resolved on continuation of TRISENOX.
+There did not appear to be a relationship between baseline white blood cell (WBC) counts and development of hyperleucocytosis nor did there appear to be a correlation between baseline WBC count and peak WBC counts.
+Hyperleucocytosis was never treated with additional chemotherapy and resolved on continuation of TRISENOX.
 WBC counts during consolidation were not as high as during induction treatment and were < 10 x 103/μl, except in one patient who had a WBC count of 22 x 103/μl during consolidation.
-Twenty relapsed/refractory APL patients (50 %) experienced leukocytosis; however, in all these patients, the WBC count was declining or had normalized by the time of bone marrow remission and cytotoxic chemotherapy or leukopheresis was not required.
-In newly diagnosed patients with low to intermediate risk APL leukocytosis developed during induction therapy in 35 of 74 (47 %) patients (see section 4.8).
+Twenty relapsed/refractory APL patients (50 %) experienced leucocytosis; however, in all these patients, the WBC count was declining or had normalized by the time of bone marrow remission and cytotoxic chemotherapy or leucopheresis was not required.
+In newly diagnosed patients with low to intermediate risk APL leucocytosis developed during induction therapy in 35 of 74 (47 %) patients (see section 4.8).
 However all cases were successfully managed with hydroxyurea therapy.
 
-In newly diagnosed and relapsed/refractory APL patients who develop sustained leukocytosis after initiation of therapy, hydroxyurea should be administered.
+In newly diagnosed and relapsed/refractory APL patients who develop sustained leucocytosis after initiation of therapy, hydroxyurea should be administered.
 Hydroxyurea should be continued at a given dose to keep the white blood cell count ≤ 10 x 103/μl and subsequently tapered.
 
 Table 1 Recommendation for initiation of hydroxyurea

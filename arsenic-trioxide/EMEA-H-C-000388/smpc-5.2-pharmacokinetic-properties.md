@@ -4,7 +4,7 @@ The inorganic, lyophilized form of arsenic trioxide, when placed into solution, 
 AsIII is the pharmacologically active species of arsenic trioxide.
 
 Distribution
-The volume of distribution (Vd) for AsIII is large (>400 l) indicating significant distribution into the tissues with negligible protein binding.
+The volume of distribution (Vd) for AsIII is large (> 400 l) indicating significant distribution into the tissues with negligible protein binding.
 Vd is also weight dependent, increasing with increasing body weight.
 Total arsenic accumulates mainly in the liver, kidney, and heart and, to a lesser extent, in the lung, hair, and nails.
 
@@ -17,9 +17,8 @@ AsV is present in plasma only at relatively low levels.
 
 In vitro enzymatic studies with human liver microsomes revealed that arsenic trioxide has no inhibitory activity on substrates of the major cytochrome P450 enzymes such as 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, 3A4/5, 4A9/11.
 Substances that are substrates for these P450 enzymes are not expected to interact with TRISENOX.
-
 Elimination
-Approximately 15% of the administered TRISENOX dose is excreted in the urine as unchanged AsIII.
+Approximately 15 % of the administered TRISENOX dose is excreted in the urine as unchanged AsIII.
 The methylated metabolites of AsIII (MMAV, DMAV) are primarily excreted in the urine.
 The plasma concentration of AsIII declines from peak plasma concentration in a biphasic manner with a mean terminal elimination half-life of 10 to 14 hours.
 The total clearance of AsIII over the single-dose range of 7-32 mg (administered as 0.15 mg/kg) is 49 l/h and the renal clearance is 9 l/h.
@@ -28,7 +27,7 @@ The mean estimated terminal elimination half-lives of the metabolites MMAV and D
 
 Renal impairment
 Plasma clearance of AsIII was not altered in patients with mild renal impairment (creatinine clearance of 50-80 ml/min) or moderate renal impairment (creatinine clearance of 30-49 ml/min).
-The plasma clearance of AsIII in patients with severe renal impairment (creatinine clearance less than 30 ml/min) was 40% lower when compared with patients with normal renal function (see section 4.4).
+The plasma clearance of AsIII in patients with severe renal impairment (creatinine clearance less than 30 ml/min) was 40 % lower when compared with patients with normal renal function (see section 4.4).
 
 Systemic exposure to MMAV and DMAV tended to be larger in patients with renal impairment; the clinical consequence of this is unknown but no increased toxicity was noted.
 

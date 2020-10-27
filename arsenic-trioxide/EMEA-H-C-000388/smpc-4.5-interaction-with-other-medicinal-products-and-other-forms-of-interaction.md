@@ -2,10 +2,12 @@
 
 No formal assessments of pharmacokinetic interactions between TRISENOX and other therapeutic medicinal products have been conducted.
 
-Medicinal products known to cause QT/QTc interval prolongation, hypokalemia or hypomagnesaemia QT/QTc prolongation is expected during treatment with arsenic trioxide, and torsade de pointes and complete heart block have been reported.
-Patients who are receiving, or who have received, medicinal products known to cause hypokalemia or hypomagnesaemia, such as diuretics or amphotericin B, may be at higher risk for torsade de pointes.
-Caution is advised when TRISENOX is co-administered with other medicinal products known to cause QT/QTc interval prolongation such as macrolide antibiotics, the antipsychotic thioridazine, or medicinal products known to cause hypokalemia or hypomagnesaemia.
+Medicinal products known to cause QT/QTc interval prolongation, hypokalaemia or hypomagnesaemia
+QT/QTc prolongation is expected during treatment with arsenic trioxide, and torsade de pointes and complete heart block have been reported.
+Patients who are receiving, or who have received, medicinal products known to cause hypokalaemia or hypomagnesaemia, such as diuretics or amphotericin B, may be at higher risk for torsade de pointes.
+Caution is advised when TRISENOX is co-administered with other medicinal products known to cause QT/QTc interval prolongation such as macrolide antibiotics, the antipsychotic thioridazine, or medicinal products known to cause hypokalaemia or hypomagnesaemia.
 Additional information about QT prolonging medicinal agents, is provided in section 4.4.
+
 Medicinal products known to cause hepatotoxic effects
 Hepatotoxic effects may occur during the treatment with arsenic trioxide, caution is advised when TRISENOX is co-administered with other medicinal products known to cause hepatotoxic effects (see section 4.4 and 4.8).
 

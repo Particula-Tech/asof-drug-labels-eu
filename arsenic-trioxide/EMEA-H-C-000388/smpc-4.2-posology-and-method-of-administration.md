@@ -5,7 +5,6 @@ TRISENOX must be administered under the supervision of a physician who is experi
 Posology
 
 The same dose is recommended for adults and elderly.
-
 Newly diagnosed low-to-intermediate risk acute promyelocytic leukaemia (APL)
 
 Induction treatment schedule
@@ -19,7 +18,7 @@ Treatment should be continued for 4 weeks on and 4 weeks off, for a total of 4 c
 Relapsed/refractory acute promyelocytic leukaemia (APL)
 
 Induction treatment schedule
-TRISENOX must be administered intravenously at a fixed dose of 0.15 mg/kg/day given daily until complete remission is achieved (less than 5% blasts present in cellular bone marrow with no evidence of leukaemic cells).
+TRISENOX must be administered intravenously at a fixed dose of 0.15 mg/kg/day given daily until complete remission is achieved (less than 5 % blasts present in cellular bone marrow with no evidence of leukaemic cells).
 If complete remission has not occurred by day 50, dosing must be discontinued.
 
 Consolidation schedule
@@ -30,8 +29,8 @@ Dose delay, modification and reinitiation
 
 Treatment with TRISENOX must be temporarily interrupted before the scheduled end of therapy at any time that a toxicity grade 3 or greater on the National Cancer Institute Common Toxicity Criteria is observed and judged to be possibly related to TRISENOX treatment.
 Patients who experience such reactions that are considered TRISENOX related must resume treatment only after resolution of the toxic event or after recovery to baseline status of the abnormality that prompted the interruption.
-In such cases, treatment must resume at 50% of the preceding daily dose.
-If the toxic event does not recur within 7 days of restarting treatment at the reduced dose, the daily dose can be escalated back to 100% of the original dose.
+In such cases, treatment must resume at 50 % of the preceding daily dose.
+If the toxic event does not recur within 7 days of restarting treatment at the reduced dose, the daily dose can be escalated back to 100 % of the original dose.
 Patients who experience a recurrence of toxicity must be removed from treatment.
 For ECG, electrolytes abnormalities and hepatotoxicity see section 4.4.
 

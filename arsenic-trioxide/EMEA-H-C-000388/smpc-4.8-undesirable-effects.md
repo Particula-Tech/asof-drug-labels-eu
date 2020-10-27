@@ -1,23 +1,24 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-Related adverse reactions of CTC grade 3 and 4 occurred in 37% of relapsed/refractory APL patients in clinical trials.
+Related adverse reactions of CTC grade 3 and 4 occurred in 37 % of relapsed/refractory APL patients in clinical trials.
 The most commonly reported reactions were hyperglycaemia, hypokalaemia, neutropenia, and increased alanine amino transferase (ALT).
-Leukocytosis occurred in 50% of patients with relapsed/refractory APL, as determined by haematology assessments.
+Leucocytosis occurred in 50 % of patients with relapsed/refractory APL, as determined by haematology assessments.
 
-Serious adverse reactions were common (1-10%) and not unexpected in the relapsed/refractory population.
-Those serious adverse reactions attributed to arsenic trioxide included APL differentiation syndrome (3), leukocytosis (3), prolonged QT interval (4, 1 with torsade de pointes), atrial fibrillation/atrial flutter (1), hyperglycaemia (2) and a variety of serious adverse reactions related to haemorrhage, infections, pain, diarrhoea, nausea.
+Serious adverse reactions were common (1-10 %) and not unexpected in the relapsed/refractory population.
+Those serious adverse reactions attributed to arsenic trioxide included APL differentiation syndrome (3), leucocytosis (3), prolonged QT interval (4, 1 with torsade de pointes), atrial fibrillation/atrial flutter (1), hyperglycaemia (2) and a variety of serious adverse reactions related to haemorrhage, infections, pain, diarrhoea, nausea.
 
 In general, treatment-emergent adverse events tended to decrease over time, in relapsed/refractory APL patients perhaps accounted for by amelioration of the underlying disease process.
 Patients tended to tolerate consolidation and maintenance treatment with less toxicity than in induction.
 This is probably due to the confounding of adverse events by the uncontrolled disease process early on in the treatment course and the myriad concomitant medicinal products required to control symptoms and morbidity.
 
-In a phase 3, multicenter, noninferiority trial comparing all-trans-retinoic acid (ATRA) plus chemotherapy with ATRA plus arsenic trioxide in newly diagnosed low-to-intermediate risk APL patients (Study APL0406; see also section 5.1), serious adverse reactions including hepatic toxicity, thrombocytopenia, neutropenia and QTc prolongation were observed in patients treated with arsenic trioxide.
+In a phase 3, multicentre, non-inferiority trial comparing all-trans-retinoic acid (ATRA) plus chemotherapy with ATRA plus arsenic trioxide in newly diagnosed low-to-intermediate risk APL patients (Study APL0406; see also section 5.1), serious adverse reactions including hepatic toxicity, thrombocytopenia, neutropenia and QTc prolongation were observed in patients treated with arsenic trioxide.
 
 Tabulated list of adverse reactions
 The following undesirable effects have been reported in the APL0406 study in newly diagnosed patients and in clinical trials and/or post-marketing experience in relapsed/refractory APL patients.
 Undesirable effects are listed in table 2 below as MedDRA preferred term by system organ class and frequencies observed during TRISENOX clinical trials in 52 patients with refractory/relapsed APL.
-Frequencies are defined as: (very common ≥ 1/10), (common ≥ 1/100 to < 1/10), (uncommon ≥ 1/1,000 to < 1/100), not known (cannot be estimated from available data).
+Frequencies are defined as: (very common ≥ 1/10), (common ≥ 1/100 to < 1/10),
+(uncommon ≥ 1/1,000 to < 1/100), not known (cannot be estimated from available data).
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
@@ -34,7 +35,7 @@ Pneumonia Not known Not known
 Blood and lymphatic system disorders
 
 Febrile neutropenia Common Common
-Leukocytosis Common Common
+Leucocytosis Common Common
 Neutropenia Common Common
 Pancytopenia Common Common
 Thrombocytopenia Common Common
@@ -63,11 +64,13 @@ Paraesthesia Very Common Common
 Dizziness Very Common Not known
 Headache Very Common Not known
 Convulsion Common Not known
-Encephalopathy, Wernicke encephalopathy Not known Not known
+Encephalopathy, Wernicke Not known Not known
 
+encephalopathy
 Eye disorders
 
 Vision blurred Common Not known
+All grades Grades ≥ 3
 
 Cardiac disorders
 
@@ -80,7 +83,6 @@ Ventricular tachycardia Not known Not known
 Vascular disorders
 
 Vasculitis Common Common
-All grades Grades ≥ 3
 Hypotension Common Not known
 
 Respiratory, thoracic and mediastinal disorders
@@ -137,19 +139,18 @@ Weight increased Common Not known
 Gamma-glutamyltransferase increased* Not known* Not known*
 
 *In the CALGB study C9710, 2 cases of grade ≥3 increased GGT were reported out of the 200 patients who received TRISENOX consolidation cycles (cycle 1 and cycle 2) versus none in the control arm.
-
 Description of selected adverse reactions
 
 Differentiation syndrome
-During TRISENOX treatment, 14 of the 52 patients in the APL studies in the relapsed setting had one or more symptoms of APL differentiation syndrome, characterised by fever, dyspnoea, weight gain, pulmonary infiltrates and pleural or pericardial effusions, with or without leukocytosis (see section 4.4).
-Twenty-seven patients had leukocytosis (WBC ≥ 10 x 103/µl) during induction, 4 of whom had values above 100,000/µl.
-Baseline white blood cell (WBC) counts did not correlate with development of leukocytosis on study, and WBC counts during consolidation therapy were not as high as during induction.
-In these studies, leukocytosis was not treated with chemotherapeutic medicinal products.
-Medicinal products that are used to lower the white blood cell count often exacerbate the toxicities associated with leukocytosis, and no standard approach has proven effective.
-One patient treated under a compassionate use program died from cerebral infarct due to leukocytosis, following treatment with chemotherapeutic medicinal products to lower WBC count.
+During TRISENOX treatment, 14 of the 52 patients in the APL studies in the relapsed setting had one or more symptoms of APL differentiation syndrome, characterised by fever, dyspnoea, weight gain, pulmonary infiltrates and pleural or pericardial effusions, with or without leucocytosis (see section 4.4).
+Twenty-seven patients had leucocytosis (WBC ≥ 10 x 103/μl) during induction, 4 of whom had values above 100,000/μl.
+Baseline white blood cell (WBC) counts did not correlate with development of leucocytosis on study, and WBC counts during consolidation therapy were not as high as during induction.
+In these studies, leucocytosis was not treated with chemotherapeutic medicinal products.
+Medicinal products that are used to lower the white blood cell count often exacerbate the toxicities associated with leucocytosis, and no standard approach has proven effective.
+One patient treated under a compassionate use program died from cerebral infarct due to leucocytosis, following treatment with chemotherapeutic medicinal products to lower WBC count.
 Observation is the recommended approach with intervention only in selected cases.
 
-Mortality in the pivotal studies in the relapsed setting from disseminated intravascular coagulation (DIC) associated haemorrhage was very common (> 10%), which is consistent with the early mortality reported in the literature.
+Mortality in the pivotal studies in the relapsed setting from disseminated intravascular coagulation (DIC) associated haemorrhage was very common (> 10 %), which is consistent with the early mortality reported in the literature.
 
 In newly diagnosed patients with low to intermediate risk APL, differentiation syndrome was observed in 19 % including 5 severe cases.
 
@@ -158,7 +159,7 @@ In post marketing experience, a differentiation syndrome, like retinoic acid syn
 QT interval prolongation
 Arsenic trioxide can cause QT interval prolongation (see section 4.4).
 QT prolongation can lead to a torsade de pointes-type ventricular arrhythmia, which can be fatal.
-The risk of torsade de pointes is related to the extent of QT prolongation, concomitant administration of QT prolonging medicinal products, a history of torsade de pointes, preexisting QT interval prolongation, congestive heart failure, administration of potassium-wasting diuretics, or other conditions that result in hypokalaemia or hypomagnesaemia.
+The risk of torsade de pointes is related to the extent of QT prolongation, concomitant administration of QT prolonging medicinal products, a history of torsade de pointes, pre-existing QT interval prolongation, congestive heart failure, administration of potassium-wasting diuretics, or other conditions that result in hypokalaemia or hypomagnesaemia.
 One patient (receiving multiple, concomitant medicinal products, including amphotericin B) had asymptomatic torsade de pointes during induction therapy for relapsed APL with arsenic trioxide.
 She went onto consolidation without further evidence of QT prolongation.
 
@@ -166,9 +167,9 @@ In newly diagnosed patients, with low to intermediate risk APL, QTc prolongation
 In one patient induction treatment was terminated because of severe prolongation of the QTc interval and electrolyte abnormalities on day 3.
 
 Peripheral neuropathy
-Peripheral neuropathy, characterised by paresthesia/dysesthesia, is a common and well known effect of environmental arsenic.
+Peripheral neuropathy, characterised by paraesthesia/dysaesthisia, is a common and well known effect of environmental arsenic.
 Only 2 relapsed/refractory APL patients discontinued treatment early due to this adverse event and one went on to receive additional TRISENOX on a subsequent protocol.
-Forty-four percent of relapsed/refractory APL patients experienced symptoms that could be associated with neuropathy; most were mild to moderate and were reversible upon cessation of treatment with TRISENOX.
+Forty-four per cent of relapsed/refractory APL patients experienced symptoms that could be associated with neuropathy; most were mild to moderate and were reversible upon cessation of treatment with TRISENOX.
 
 Hepatotoxicity (grade 3-4)
 In newly diagnosed patients with low to intermediate risk APL 63.2 % developed grade 3 or 4 hepatic toxic effects during induction or consolidation treatment with TRISENOX in combination with ATRA.
