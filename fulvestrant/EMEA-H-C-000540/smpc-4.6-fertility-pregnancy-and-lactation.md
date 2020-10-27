@@ -1,7 +1,7 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Women of childbearing potential
-Patients of childbearing potential should be advised to use effective contraception while on treatment.
+Patients of childbearing potential should use effective contraception during treatment with Faslodex and for 2 years after the last dose.
 
 Pregnancy
 Faslodex is contraindicated in pregnancy (see section 4.3).

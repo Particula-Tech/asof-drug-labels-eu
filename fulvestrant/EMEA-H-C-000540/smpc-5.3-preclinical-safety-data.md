@@ -11,7 +11,6 @@ In dog studies following oral and intravenous administration, effects on the car
 These occurred at exposure levels higher than in patients (Cmax >15 times) and are likely to be of limited significance for human safety at the clinical dose.
 
 Fulvestrant showed no genotoxic potential.
-
 Fulvestrant showed effects upon reproduction and embryo/foetal development consistent with its antiestrogenic activity, at doses similar to the clinical dose.
 In rats, a reversible reduction in female fertility and embryonic survival, dystocia and an increased incidence of foetal abnormalities including tarsal flexure were observed.
 Rabbits given fulvestrant failed to maintain pregnancy.
@@ -22,7 +21,7 @@ A two-year oncogenicity study in rats (intramuscular administration of Faslodex)
 In a two-year mouse oncogenicity study (daily oral administration) there was an increased incidence of ovarian sex cord stromal tumours (both benign and malignant) at doses of 150 and 500 mg/kg/day.
 At the no-effect level for these findings, systemic exposure levels (AUC) were, in rats, approximately 1.5–fold the expected human exposure levels in females and 0.8-fold in males, and in mice, approximately 0.8-fold the expected human exposure levels in both males and females.
 Induction of such tumours is consistent with pharmacology-related endocrine feedback alterations in gonadotropin levels caused by antiestrogens in cycling animals.
-Therefore these findings are not considered to be relevant to the use of fulvestrant in postmenopausal women with advanced breast cancer.
+Therefore, these findings are not considered to be relevant to the use of fulvestrant in postmenopausal women with advanced breast cancer.
 
-Environmental Risk Assessment (ERA)
+Environmental risk assessment (ERA)
 Environmental risk assessment studies have shown that fulvestrant may have potential to cause adverse effects to the aquatic environment (see section 6.6).

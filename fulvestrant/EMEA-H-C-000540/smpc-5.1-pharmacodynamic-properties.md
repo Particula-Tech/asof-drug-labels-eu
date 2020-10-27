@@ -73,7 +73,6 @@ c Nominal p-value with no adjustments made for multiplicity between the initial 
 d ORR was assessed in patients who were evaluable for response at baseline (i.e. those with measurable disease at baseline: 240 patients in the Faslodex 500 mg group and 261 patients in the Faslodex 250 mg group).
 e Patients with a best objective response of complete response, partial response or stable disease ≥24 weeks.
 PFS:Progression-free survival; ORR:Objective response rate; OR:Objective response; CBR:Clinical benefit rate; CB:Clinical benefit; OS:Overall survival; K-M:Kaplan-Meier; CI:Confidence interval; AI:Aromatase inhibitor; AE:Antiestrogen.
-
 A Phase 3, randomised, double-blind, double-dummy, multicentre study of Faslodex 500 mg versus anastrozole 1 mg was conducted in postmenopausal women with ER-positive and/or PgR-positive locally advanced or metastatic breast cancer who had not previously been treated with any hormonal therapy.
 A total of 462 patients were randomised 1:1 sequentially to receive either fulvestrant 500 mg or anastrozole 1 mg.
 Randomisation was stratified by disease setting (locally advanced or metastatic), prior chemotherapy for advanced disease, and measurable disease.
@@ -150,10 +149,17 @@ More than half (62%) had an ECOG PS of 0, 60% had visceral metastases, and 60% h
 
 The primary endpoint of the study was investigator-assessed PFS evaluated according to RECIST 1.1.
 Supportive PFS analyses were based on an Independent Central Radiology Review.
-Secondary endpoints included OR, CBR, OS, safety, and time-to-deterioration (TTD) in pain endpoint.
+Secondary endpoints included OR, CBR, overall survival (OS), safety, and time-to-deterioration (TTD) in pain endpoint.
 
 The study met its primary endpoint of prolonging investigator-assessed PFS at the interim analysis conducted on 82% of the planned PFS events; the results crossed the pre-specified Haybittle-Peto efficacy boundary (α=0.00135), demonstrating a statistically significant prolongation in PFS and a clinically meaningful treatment effect.
 A more mature update of efficacy data is reported in Table 5.
+
+After a median follow-up time of 45 months, the final OS analysis was performed based on 310 events (60% of randomised patients).
+A 6.9-month difference in median OS in the palbociclib plus fulvestrant arm compared with the placebo plus fulvestrant arm was observed; this result was not statistically significant at the prespecified significance level of 0.0235 (1-sided).
+In the placebo plus fulvestrant arm, 15.5% of randomised patients received palbociclib and other CDK inhibitors as post-progression subsequent treatments.
+
+The results from the investigator-assessed PFS and final OS data from PALOMA3 study are presented in Table 5.
+The relevant Kaplan-Meier plots are shown in Figures 2 and 3, respectively.
 
 Table 5 Efficacy results – PALOMA3 study (Investigator assessment, intent-to-treat population)
 
@@ -163,15 +169,20 @@ Table 5 Efficacy results – PALOMA3 study (Investigator assessment, intent-to-t
 | Progression-Free Survival |  |  |
 | Median [months (95% CI)] | 11.2 (9.5, 12.9) | 4.6 (3.5, 5.6) |
 | Hazard ratio (95% CI) and p-value | 0.497 (0.398, 0.620), p <0.000001 |  |
-| Secondary end points* |  |  |
+| Secondary endpoints |  |  |
 | OR [% (95% CI)] | 26.2 (21.7, 31.2) | 13.8 (9.0, 19.8) |
 | OR (measurable disease) [% (95% CI)] | 33.7 (28.1, 39.7) | 17.4 (11.5, 24.8) |
 | CBR [% (95% CI)] | 68.0 (62.8, 72.9) | 39.7 (32.3, 47.3) |
+| Final overall survival (OS) (13 April 2018 cutoff) |  |  |
+| Number of events (%) | 201 (57.9) | 109 (62.6) |
+| Median [months (95% CI)] | 34.9 (28.8, 40.0) | 28.0 (23.6, 34.6) |
+| Hazard ratio (95% CI) and p-value† | 0.814 (0.644, 1.029) p=0.0429†* |  |
 
-*Response endpoints based on confirmed and unconfirmed responses.
-N=number of patients; CI=confidence interval; OR=objective response; CBR=clinical benefit response
+CBR=clinical benefit response; CI=confidence interval; N=number of patients; OR=objective response Secondary endpoint results are based on confirmed and unconfirmed responses according to RECIST 1.1.
+* Not statistically significant.
+† 1-sided p-value from the log-rank test stratified by the presence of visceral metastases and sensitivity to prior endocrine therapy per randomisation.
 Figure 2.
-Kaplan-Meier plot of progression-free survival (investigator assessment, intent-to-treat population) – PALOMA3 study
+Kaplan-Meier plot of progression-free survival (investigator assessment, intent-to-treat population) – PALOMA3 study (23 October 2015 cutoff)
 
 100 palbociclib+fulvestrant
 
@@ -196,24 +207,46 @@ FUL=fulvestrant; PAL=palbociclib; PCB=placebo.
 A reduction in the risk of disease progression or death in the Faslodex plus palbociclib arm was observed in all individual patient subgroups defined by stratification factors and baseline characteristics.
 This was evident for pre/perimenopausal women (HR of 0.46 [95% CI: 0.28, 0.75]) and postmenopausal women (HR of 0.52 [95% CI: 0.40, 0.66]) and patients with visceral site of metastatic disease (HR of 0.50 [95% CI: 0.38, 0.65]) and non-visceral site of metastatic disease (HR of 0.48 [95% CI: 0.33, 0.71]).
 Benefit was also observed regardless of lines of prior therapy in the metastatic setting, whether 0 (HR of 0.59 [95% CI: 0.37, 0.93]), 1 (HR of 0.46 [95% CI: 0.32, 0.64]), 2 (HR of 0.48 [95% CI: 0.30, 0.76]), or ≥3 lines (HR of 0.59 [95% CI: 0.28, 1.22]).
+Figure 3.
+Kaplan-Meier plot of overall survival (intent-to-treat population) – PALOMA3 study (13 April 2018 cutoff)
+
+100 palbociclib+fulvestrant
+90 placebo+fulvestrant
+
+80
+70
+60
+50
+40
+30
+20
+10
+0
+0 6 12 18 24 30 36 42 48 54
+Time (Month)
+Number of patients at risk
+
+PAL+FUL 347 321 286 247 209 165 148 126 17
+PCB+FUL 174 155 135 115 86 68 57 43 7
+
+FUL=fulvestrant; PAL=palbociclib; PCB=placebo.
+
 Additional efficacy measures (OR and TTR) assessed in the sub-groups of patients with or without visceral disease are displayed in Table 6.
 
 Table 6 Efficacy results in visceral and non-visceral disease from PALOMA3 study (intent-to-treat population)
 
-Visceral Disease Non-visceral Disease
-Faslodex plus Faslodex plus Faslodex plus Faslodex plus
-palbociclib placebo palbociclib placebo
-(N=206) (N=105) (N=141) (N=69)
-OR [% (95% CI)] 35.0 13.3 13.5 14.5
-(28.5, 41.9) (7.5, 21.4) (8.3, 20.2) (7.2, 25.0)
-TTR*, Median 3.8 5.4 3.7 3.6
-[months (range)] (3.5, 16.7) (3.5, 16.7) (1.9, 13.7) (3.4, 3.7)
+|  | Visceral Disease |  | Non-visceral Disease |  |
+| --- | --- | --- | --- | --- |
+|  | Faslodex plus palbociclib (N=206) | Faslodex plus placebo (N=105) | Faslodex plus palbociclib (N=141) | Faslodex plus placebo (N=69) |
+| OR [% (95% CI)] | 35.0 (28.5, 41.9) | 13.3 (7.5, 21.4) | 13.5 (8.3, 20.2) | 14.5 (7.2, 25.0) |
+| TTR*, Median [months (range)] | 3.8 (3.5, 16.7) | 5.4 (3.5, 16.7) | 3.7 (1.9, 13.7) | 3.6 (3.4, 3.7) |
 
 *Response results based on confirmed and unconfirmed responses.
 N=number of patients; CI=confidence interval; OR= objective response; TTR=time to first tumour response.
 
 Patient-reported symptoms were assessed using the European Organization for Research and Treatment of Cancer (EORTC) quality of life questionnaire (QLQ)-C30 and its Breast Cancer Module (EORTC QLQ-BR23).
 A total of 335 patients in the Faslodex plus palbociclib arm and 166 patients in the Faslodex plus placebo arm completed the questionnaire at baseline and at least 1 post-baseline visit.
+
 Time-to-Deterioration was pre-specified as time between baseline and first occurrence of ≥10 points increase from baseline in pain symptom scores.
 Addition of palbociclib to Faslodex resulted in a symptom benefit by significantly delaying Time-to-Deterioration in pain symptom compared with Faslodex plus placebo (median 8.0 months versus 2.8 months; HR of 0.64 [95% CI: 0.49, 0.85]; p<0.001).
 
