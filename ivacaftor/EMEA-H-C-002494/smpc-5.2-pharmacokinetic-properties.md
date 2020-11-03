@@ -88,7 +88,7 @@ No patients aged 65 years and older were included in the clinical studies of iva
 
 Paediatric population
 
-Predicted ivacaftor exposure based on observed ivacaftor concentrations in Phase 2 and 3 studies as determined using population PK analysis is presented by age group in Table 9.
+Predicted ivacaftor exposure based on observed ivacaftor concentrations in phase 2 and 3 studies as determined using population PK analysis is presented by age group in Table 9.
 
 Table 9: Mean (SD) ivacaftor exposure by age group
 
@@ -109,6 +109,7 @@ Table 9: Mean (SD) ivacaftor exposure by age group
 † Exposures in 6- to 11-year-olds are predictions based on simulations from the population PK model using data obtained for this age group.
 
 The pharmacokinetic parameters of ivacaftor in combination with tezacaftor and with tezacaftor/elexacaftor in adolescent patients (12 to 17-year-olds) are similar to that of adult patients (see Table 10).
+
 Table 10: Mean (SD) of ivacaftor exposure when used in combination with tezacaftor and in combination with tezacaftor/elexacaftor, by age group
 
 | Age group | Dose | Ivacaftor Mean (SD) AUC0-12h,ss (ng*h/mL) |
@@ -147,12 +148,13 @@ The pharmacokinetic parameters of ivacaftor are similar in males and females.
 
 Clinical studies of ivacaftor as monotherapy did not include sufficient numbers of patients aged 65 years and older to determine whether pharmacokinetic parameters are similar or not to those in younger adults.
 
-Predicted ivacaftor exposure based on observed ivacaftor concentrations in Phase 2 and 3 studies as determined using population PK analysis is presented by age group in Table 8.
+Predicted ivacaftor exposure based on observed ivacaftor concentrations in phase 2 and 3 studies as determined using population PK analysis is presented by age group in Table 8.
 
 Table 8: Mean (SD) ivacaftor exposure by age group
 
 | Age group | Dose | Cmin, ss (ng/mL) | AUCτ,ss (ng*h/mL) |
 | --- | --- | --- | --- |
+| 4 months to less than 6 months (≥5 kg) | 25 mg q12h | 371 (183) | 6480 (2520) |
 | 6 months to less than 12 months (5 kg to < 7 kg) * | 25 mg q12h | 336 | 5410 |
 | 6 months to less than 12 months (7 kg to < 14 kg) | 50 mg q12h | 508 (252) | 9140 (4200) |
 | 12 months to less than 24 months (7 kg to < 14 kg) | 50 mg q12h | 440 (212) | 9050 (3050) |

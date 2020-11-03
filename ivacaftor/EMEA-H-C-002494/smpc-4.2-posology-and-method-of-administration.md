@@ -80,7 +80,7 @@ Table 3: Recommendations for patients with moderate or severe hepatic impairment
 
 Paediatric population
 
-The safety and efficacy of ivacaftor monotherapy in children aged less than 6 months have not been established.
+The safety and efficacy of ivacaftor monotherapy in children aged less than 4 months have not been established.
 No data are available.
 
 An appropriate dose for children under 6 years of age and weighing less than 25 kg cannot be achieved with ivacaftor tablets.
@@ -100,34 +100,41 @@ The tablets should not be chewed, crushed, or broken before swallowing because t
 
 Ivacaftor tablets should be taken with fat-containing food.
 
-Food or drink containing grapefruit or Seville oranges should be avoided during treatment (see section 4.5).
+Food or drink containing grapefruit should be avoided during treatment (see section 4.5).
 
 [Kalydeco 25 mg granules in sachet]
 
 If the patient's genotype is unknown, an accurate and validated genotyping method should be performed before starting treatment to confirm the presence of an indicated mutation in at least one allele of the CFTR gene (see section 4.1).
 The phase of the poly-T variant identified with the R117H mutation should be determined in accordance with local clinical recommendation.
 
-Infants aged at least 6 months, toddlers, children, adolescents and adults should be dosed according to Table 1.
+Infants aged at least 4 months, toddlers, children, adolescents and adults should be dosed according to Table 1.
 
-Table 1: Dosing recommendations for patients aged 6 months and older
+Table 1: Dosing recommendations for patients aged 4 months and older
 
-| Weight | Dose | Total daily dose |
-| --- | --- | --- |
-| ≥5 kg to < 7 kg | 25 mg granules taken orally every 12 hours with fat-containing food | 50 mg |
-| ≥ 7 kg to < 14 kg | 50 mg granules taken orally every 12 hours with fat-containing food | 100 mg |
-| ≥ 14 kg to < 25 kg | 75 mg granules taken orally every 12 hours with fat-containing food | 150 mg |
-| ≥ 25 kg | See Kalydeco tablets SmPC for further details. |  |
+| Age | Weight | Dose | Total daily dose |
+| --- | --- | --- | --- |
+| 4 months to less than 6 months | ≥5 kg | 25 mg granules taken orally every 12 hours with fat-containing food | 50 mg |
+| 6 months and older | ≥5 kg to < 7 kg | 25 mg granules taken orally every 12 hours with fat-containing food | 50 mg |
+|  | ≥ 7 kg to < 14 kg | 50 mg granules taken orally every 12 hours with fat-containing food | 100 mg |
+|  | ≥ 14 kg to < 25 kg | 75 mg granules taken orally every 12 hours with fat-containing food | 150 mg |
+|  | ≥ 25 kg | See Kalydeco tablets SmPC for further details. |  |
 
-When co-administered with strong inhibitors of CYP3A, the ivacaftor dose should be reduced to one sachet (ivacaftor 25 mg for patients 5 kg to < 7 kg; ivacaftor 50 mg for patients 7 kg to < 14 kg; ivacaftor 75 mg for patients 14 kg to < 25 kg) twice a week (see sections 4.4 and 4.5).
+When co-administered with strong inhibitors of CYP3A in patients aged 6 months and older, the ivacaftor dose should be reduced to one sachet (ivacaftor 25 mg for patients 5 kg to < 7 kg; ivacaftor 50 mg for patients 7 kg to < 14 kg; ivacaftor 75 mg for patients 14 kg to < 25 kg) twice a week (see sections 4.4 and 4.5).
 
-When co-administered with moderate inhibitors of CYP3A, the ivacaftor dose is as above recommended but administered once daily (see sections 4.4 and 4.5).
+When co-administered with moderate inhibitors of CYP3A in patients aged 6 months and older, the ivacaftor dose is as above recommended but administered once daily (see sections 4.4 and 4.5).
 
-No dose adjustment is necessary for patients with mild hepatic impairment (Child-Pugh Class A). For patients with moderate hepatic impairment (Child-Pugh Class B), a reduced dose of one sachet (ivacaftor 25 mg for patients 5 kg to < 7 kg; ivacaftor 50 mg for patients 7 kg to < 14 kg; ivacaftor 75 mg for patients 14 kg to < 25 kg) once daily is recommended.
-There is no experience of the use of ivacaftor in patients with severe hepatic impairment; therefore, its use is not recommended unless the benefits outweigh the risks.
-In such cases, the starting dose should be as above recommended, but administered every other day.
-Dosing intervals should be modified according to clinical response and tolerability (see sections 4.4 and 5.2).
+Due to the variability in maturation of the cytochrome (CYP) enzymes involved in ivacaftor metabolism, treatment with ivacaftor is not recommended when co-administered with moderate or strong inhibitors of CYP3A in patients aged 4 months to less than 6 months, unless the benefits outweigh the risks.
+In such cases, the recommended dose is one packet of 25 mg granules twice weekly or less frequently (see sections 4.4 and 4.5).
+Dosing intervals should be modified according to clinical response and tolerability (see sections 4.4 and 5.2)
 
-The safety and efficacy of ivacaftor in children aged less than 6 months have not been established.
+No dose adjustment is necessary for patients aged 6 months and older with mild hepatic impairment (Child-Pugh Class A). For patients aged 6 months and older with moderate hepatic impairment (Child-Pugh Class B), a reduced dose of one sachet (ivacaftor 25 mg for patients 5 kg to < 7 kg; ivacaftor 50 mg for patients 7 kg to < 14 kg; ivacaftor 75 mg for patients 14 kg to < 25 kg) once daily is recommended.
+There is no experience of the use of ivacaftor in patients aged 6 months and older with severe hepatic impairment (Child-Pugh Class C); therefore, its use is not recommended unless the benefits outweigh the risks.
+In such cases, the starting dose should be as above recommended, administered every other day.
+
+Due to variability in maturation of cytochrome (CYP) enzymes involved in ivacaftor metabolism, treatment with ivacaftor is not recommended in patients aged 4 months to less than 6 months with hepatic impairment, unless the benefits outweigh the risks.
+In such cases, the recommended dose is one sachet (ivacaftor 25 mg) once daily or less frequently.
+
+The safety and efficacy of ivacaftor in children aged less than 4 months have not been established.
 
 Available data in patients aged 6 years and older are described in sections 4.8, 5.1 and 5.2.
 

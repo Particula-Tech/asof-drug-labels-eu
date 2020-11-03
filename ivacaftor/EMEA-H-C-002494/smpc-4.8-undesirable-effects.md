@@ -78,7 +78,7 @@ During the placebo controlled phase 3 studies (up to 24 weeks) of tezacaftor/iva
 One patient (0.2%) on therapy and 2 patients (0.4%) on placebo permanently discontinued treatment for elevated transaminases.
 No patients treated with tezacaftor/ivacaftor experienced a transaminase elevation >3 x ULN associated with elevated total bilirubin >2 x ULN.
 
-During the 24-week, placebo-controlled, Phase 3 study of ivacaftor/tezacaftor/elexacaftor, these figures were 1.5%, 2.5%, and 7.9% in ivacaftor/tezacaftor/elexacaftor-treated patients and 1.0%, 1.5%, and 5.5% in placebo-treated patients.
+During the 24-week, placebo-controlled, phase 3 study of ivacaftor/tezacaftor/elexacaftor, these figures were 1.5%, 2.5%, and 7.9% in ivacaftor/tezacaftor/elexacaftor-treated patients and 1.0%, 1.5%, and 5.5% in placebo-treated patients.
 The incidence of adverse reactions of transaminase elevations was 10.9% in ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor treated patients and 4.0% in placebo-treated patients.
 
 Rash events
@@ -95,7 +95,7 @@ Increased blood pressure
 An increase from baseline in mean systolic and diastolic blood pressure of 3.5 mmHg and 1.9 mmHg, respectively was observed in patients treated with ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor.
 Paediatric population
 
-The safety data of ivacaftor as monotherapy were evaluated in 11 patients between 6 months to less than 12 months of age, 19 patients between 12 months to less than 24 months of age, 34 patients between 2 to less than 6 years of age, 61 patients between 6 to less than 12 years of age and 94 patients between 12 to less than 18 years of age.
+The safety data of ivacaftor as monotherapy were evaluated in 6 patients between 4 months to less than 6 months of age, 11 patients between 6 months to less than 12 months of age, 19 patients between 12 months to less than 24 months of age, 34 patients between 2 to less than 6 years of age, 61 patients between 6 to less than 12 years of age and 94 patients between 12 to less than 18 years of age.
 
 The safety profile of ivacaftor (as monotherapy or in a combination regimen) is generally consistent among paediatric patients and is also consistent with adult patients.
 
@@ -106,7 +106,7 @@ Cases suggestive of positive rechallenge were observed.
 In study 7 ivacaftor was permanently discontinued in one patient.
 In study 8 no patients had elevations in total bilirubin or discontinued ivacaftor treatment due to transaminase elevations in either cohort (see section 4.4 for management of elevated transaminases).
 
-Table 5: Transaminase elevations in patients 6 months to < 12 years treated with ivacaftor as monotherapy
+Table 5: Transaminase elevations in patients 4 months to < 12 years treated with ivacaftor as monotherapy
 
 |  | n | % of Patients > 3 x ULN | % of Patients >5 x ULN | % of Patients > 8 x ULN |
 | --- | --- | --- | --- | --- |
@@ -114,6 +114,7 @@ Table 5: Transaminase elevations in patients 6 months to < 12 years treated with
 | 2 to <6 years | 34 | 14.7% (5) | 14.7% (5) | 14.7% (5) |
 | 12 to <24 months | 18 | 27.8% (5) | 11.1% (2) | 11.1% (2) |
 | 6 to <12 months | 11 | 9.1% (1) | 0.0% (0) | 0.0% (0) |
+| 4 to <6 months | 6 | 0.0% (0) | 0.0% (0) | 0.0% (0) |
 
 Reporting of suspected adverse reactions
 
@@ -126,8 +127,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 The most common adverse reactions experienced by patients aged 6 years and older are headache (23.9%), oropharyngeal pain (22.0%), upper respiratory tract infection (22.0%), nasal congestion (20.2%), abdominal pain (15.6%), nasopharyngitis (14.7%), diarrhoea (12.8%), dizziness (9.2%), rash (12.8%) and bacteria in sputum (12.8%).
 
 Table 2 reflects the adverse reactions observed with ivacaftor in clinical trials (placebo-controlled and uncontrolled studies) in which the length of exposure to ivacaftor ranged from 16 weeks to 144 weeks.
-
-Table 2: Adverse reactions in ivacaftor-treated patients aged 6 months and older
+Table 2: Adverse reactions in ivacaftor-treated patients aged 4 months and older
 
 | System organ class | Adverse reactions | Frequency |
 | --- | --- | --- |
@@ -162,11 +162,11 @@ Two patients, one on placebo and one on ivacaftor, permanently discontinued trea
 No ivacaftor-treated patients experienced a transaminase elevation
 > 3 x ULN associated with elevated total bilirubin > 1.5 x ULN.
 
-The safety data of ivacaftor were evaluated in 11 patients between 6 months to less than 12 months of age, 19 patients between 12 months to less than 24 months of age, 34 patients between 2 to less than 6 years of age, 61 patients between 6 to less than 12 years of age and 94 patients between 12 to less than 18 years of age.
+The safety data of ivacaftor were evaluated in 6 patients between 4 months to less than 6 months of age, 11 patients between 6 months to less than 12 months of age, 19 patients between 12 months to less than 24 months of age, 34 patients between 2 to less than 6 years of age, 61 patients between 6 to less than 12 years of age and 94 patients between 12 to less than 18 years of age.
 
-The safety profile is generally consistent among paediatric patients aged 6 months and older and is also consistent with adult patients.
+The safety profile is generally consistent among paediatric patients aged 4 months and older and is also consistent with adult patients.
 
 The incidence of transaminase elevations (ALT or AST) observed in studies 2, 5 and 6 (patients aged 6 to less than 12 years), study 7 (patients aged 2 to less than 6 years), and study 8 (patients aged 6 to less than 24 months) are described in Table 3.
 In the placebo controlled studies, the incidence of transaminase elevations were similar between treatment with ivacaftor (15.0%) and placebo(14.6%)Across all populations, peak LFT elevations returned to baseline levels following interruption, and in almost all instances where dosing was interrupted for elevated transaminases and subsequently resumed, ivacaftor dosing was able to be resumed successfully (see section 4.4).
 
-Table 3: Transaminase elevations in patients 6 months to < 12 years treated with ivacaftor as monotherapy
+Table 3: Transaminase elevations in patients 4 months to < 12 years treated with ivacaftor as monotherapy

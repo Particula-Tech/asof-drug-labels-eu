@@ -8,4 +8,4 @@ Kalydeco tablets are indicated:
 
 [Kalydeco 25 mg granules in sachet]
 
-Kalydeco granules are indicated for the treatment of infants aged at least 6 months, toddlers and children weighing 5 kg to less than 25 kg with cystic fibrosis (CF) who have an R117H CFTR mutation or one of the following gating (class III) mutations in the CFTR gene: G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N or S549R (see sections 4.4 and 5.1).
+Kalydeco granules are indicated for the treatment of infants aged at least 4 months, toddlers and children weighing 5 kg to less than 25 kg with cystic fibrosis (CF) who have an R117H CFTR mutation or one of the following gating (class III) mutations in the CFTR gene: G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N or S549R (see sections 4.4 and 5.1).

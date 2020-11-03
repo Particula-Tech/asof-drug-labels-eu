@@ -6,7 +6,7 @@ In study 5, four patients with the G970R mutation were included.
 In three of four patients the change in the sweat chloride test was < 5 mmol/L and this group did not demonstrate a clinically relevant improvement in FEV1 after 8 weeks of treatment.
 Clinical efficacy in patients with the G970R mutation of the CFTR gene could not be established (see section 5.1).
 
-Efficacy results from a Phase 2 study in patients with CF who are homozygous for the F508del mutation in the CFTR gene showed no statistically significant difference in FEV1 over 16 weeks of ivacaftor treatment compared to placebo (see section 5.1).
+Efficacy results from a phase 2 study in patients with CF who are homozygous for the F508del mutation in the CFTR gene showed no statistically significant difference in FEV1 over 16 weeks of ivacaftor treatment compared to placebo (see section 5.1).
 Therefore, use of ivacaftor as monotherapy in these patients is not recommended.
 
 Less evidence of a positive effect of ivacaftor has been shown for patients with an R117H-7T mutation associated with less severe disease in study 6 (see section 5.1).
@@ -80,7 +80,7 @@ Only patients with CF who had a G551D, G1244E, G1349D, G178R, G551S, S1251N, S12
 Moderate transaminase (alanine transaminase [ALT] or aspartate transaminase [AST]) elevations are common in subjects with CF. Transaminase elevations have been observed in some patients treated with ivacaftor monotherapy.
 
 Use of ivacaftor is not recommended in patients with severe hepatic impairment unless the benefits are expected to outweigh the risks (see sections 4.2 and 5.2).
-No safety data are available in infants aged 6 to less than 12 months of age with moderate or severe hepatic impairment treated with ivacaftor.
+No safety data are available in infants aged 4 to less than 12 months of age with moderate or severe hepatic impairment treated with ivacaftor.
 
 Caution is recommended while using ivacaftor in patients with severe renal impairment or end-stage renal disease (see sections 4.2 and 5.2).
 
@@ -90,7 +90,7 @@ Exposure to ivacaftor is significantly decreased by the concomitant use of CYP3A
 
 Exposure to ivacaftor is increased when co-administered with strong or moderate CYP3A inhibitors.
 The dose of ivacaftor must be adjusted when used concomitantly with strong or moderate CYP3A inhibitors (see sections 4.2 and 4.5).
-No safety data are available in infants aged 6 to less than 12 months of age who are treated with ivacaftor and moderate or strong CYP3A inhibitors (see sections 4.2 and 4.5).
+No safety data are available in infants aged 4 to less than 12 months of age who are treated with ivacaftor and moderate or strong CYP3A inhibitors (see sections 4.2 and 4.5).
 
 Cases of non-congenital lens opacities/cataracts without impact on vision have been reported in paediatric patients treated with ivacaftor.
 Baseline and follow-up ophthalmological examinations are recommended in paediatric patients initiating ivacaftor treatment.

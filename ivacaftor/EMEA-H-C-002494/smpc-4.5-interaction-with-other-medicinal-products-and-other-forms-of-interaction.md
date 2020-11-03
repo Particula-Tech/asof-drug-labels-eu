@@ -21,8 +21,9 @@ A reduction of the ivacaftor dose (as monotherapy or in a combination regimen wi
 
 Co-administration with fluconazole, a moderate inhibitor of CYP3A, increased ivacaftor exposure by 3-fold and increased M1 to a lesser extent than ivacaftor.
 A reduction of the ivacaftor dose (as monotherapy or in a combination regimen with tezacaftor/ivacaftor or ivacaftor/tezacaftor/elexacaftor) is recommended for patients taking concomitant moderate CYP3A inhibitors, such as fluconazole, erythromycin, and verapamil (see sections 4.2 and 4.4).
+
 Co-administration of ivacaftor with grapefruit juice, which contains one or more components that moderately inhibit CYP3A, may increase exposure to ivacaftor.
-Food or drink containing grapefruit or Seville oranges should be avoided during treatment with ivacaftor (as monotherapy or in a combination regimen with tezacaftor/ivacaftor or ivacaftor/tezacaftor/elexacaftor, see section 4.2).
+Food or drink containing grapefruit should be avoided during treatment with ivacaftor (as monotherapy or in a combination regimen with tezacaftor/ivacaftor or ivacaftor/tezacaftor/elexacaftor, see section 4.2).
 
 Potential for ivacaftor to interact with transporters
 
@@ -76,7 +77,7 @@ A reduction of the ivacaftor dose is recommended for co-administration with stro
 
 A reduction of the ivacaftor dose is recommended for patients taking concomitant moderate CYP3A inhibitors, such as fluconazole, erythromycin, and verapamil (see sections 4.2 and 4.4).
 
-Food or drink containing grapefruit or Seville oranges should be avoided during treatment with ivacaftor (see section 4.2).
+Food or drink containing grapefruit should be avoided during treatment with ivacaftor (see section 4.2).
 
 No dose adjustment is required when ivacaftor is co-administered with ciprofloxacin.
 
