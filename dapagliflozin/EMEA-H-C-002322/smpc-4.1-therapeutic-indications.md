@@ -1,6 +1,7 @@
 # 4.1 Therapeutic indications
 
 Type 2 diabetes mellitus
+
 Forxiga is indicated in adults for the treatment of insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise
 
 - as monotherapy when metformin is considered inappropriate due to intolerance.
@@ -9,4 +10,9 @@ Forxiga is indicated in adults for the treatment of insufficiently controlled ty
 For study results with respect to combination of therapies, effects on glycaemic control and cardiovascular events, and the populations studied, see sections 4.4, 4.5 and 5.1.
 
 Type 1 diabetes mellitus
+
 Forxiga is indicated in adults for the treatment of insufficiently controlled type 1 diabetes mellitus as an adjunct to insulin in patients with BMI ≥27 kg/m2, when insulin alone does not provide adequate glycaemic control despite optimal insulin therapy.
+
+Heart failure
+
+Forxiga is indicated in adults for the treatment of symptomatic chronic heart failure with reduced ejection fraction.
