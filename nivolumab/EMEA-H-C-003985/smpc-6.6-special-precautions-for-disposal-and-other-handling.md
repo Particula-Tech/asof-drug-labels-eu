@@ -18,6 +18,9 @@ Based on this prescribed dose, calculate the total dose to be given.
 - The total nivolumab dose in mg = the patient’s weight in kg × the prescribed dose in mg/kg.
 - The volume of OPDIVO concentrate to prepare the dose (mL) = the total dose in mg, divided by 10 (the OPDIVO concentrate strength is 10 mg/mL).
 
+Nivolumab in combination with ipilimumab and chemotherapy
+The prescribed dose for the patient is 360 mg given regardless of body weight.
+
 Preparing the infusion
 Take care to ensure aseptic handling when you prepare the infusion.
 

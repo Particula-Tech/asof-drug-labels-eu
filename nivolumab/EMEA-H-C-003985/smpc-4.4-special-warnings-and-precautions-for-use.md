@@ -4,7 +4,7 @@ Traceability
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
 Immune-related adverse reactions
-When nivolumab is administered in combination with ipilimumab, refer to the Summary of Product Characteristics for ipilimumab prior to initiation of treatment.
+When nivolumab is administered in combination, refer to the Summary of Product Characteristics of the other combination therapy components prior to initiation of treatment.
 Immune-related adverse reactions have occurred at higher frequencies when nivolumab was administered in combination with ipilimumab compared with nivolumab as monotherapy.
 Most immune-related adverse reactions improved or resolved with appropriate management, including initiation of corticosteroids and treatment modifications (see section 4.2).
 
@@ -19,6 +19,7 @@ Based on the severity of the adverse reaction, nivolumab or nivolumab in combina
 If immunosuppression with corticosteroids is used to treat an adverse reaction, a taper of at least 1 month duration should be initiated upon improvement.
 Rapid tapering may lead to worsening or recurrence of the adverse reaction.
 Non-corticosteroid immunosuppressive therapy should be added if there is worsening or no improvement despite corticosteroid use.
+
 Nivolumab or nivolumab in combination with ipilimumab should not be resumed while the patient is receiving immunosuppressive doses of corticosteroids or other immunosuppressive therapy.
 Prophylactic antibiotics should be used to prevent opportunistic infections in patients receiving immunosuppressive therapy.
 
@@ -110,7 +111,6 @@ Immune-related skin adverse reactions
 Severe rash has been observed with nivolumab in combination with ipilimumab and, less commonly, with nivolumab as monotherapy (see section 4.8).
 Nivolumab or nivolumab in combination with ipilimumab should be withheld for Grade 3 rash and discontinued for Grade 4 rash.
 Severe rash should be managed with high-dose corticosteroid at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
-
 Rare cases of SJS and TEN some of them with fatal outcome have been observed.
 If symptoms or signs of SJS or TEN appear, treatment with nivolumab or nivolumab in combination with ipilimumab should be discontinued and the patient referred to a specialised unit for assessment and treatment.
 If the patient has developed SJS or TEN with the use of nivolumab or nivolumab in combination with ipilimumab, permanent discontinuation of treatment is recommended (see section 4.2).
@@ -138,6 +138,10 @@ Solid organ transplant rejection has been reported in the post-marketing setting
 Treatment with nivolumab may increase the risk of rejection in solid organ transplant recipients.
 The benefit of treatment with nivolumab versus the risk of possible organ rejection should be considered in these patients.
 
+Haemophagocytic lymphohistiocytosis (HLH) has been observed with nivolumab as monotherapy and nivolumab in combination with ipilimumab.
+Caution should be taken when nivolumab is administered as monotherapy or in combination with ipilimumab.
+If HLH is confirmed, administration of nivolumab or nivolumab in combination with ipilimumab should be discontinued and treatment for HLH initiated.
+
 Infusion reactions
 Severe infusion reactions have been reported in clinical trials of nivolumab or nivolumab in combination with ipilimumab (see section 4.8).
 In case of a severe or life-threatening infusion reaction, the nivolumab or nivolumab in combination with ipilimumab infusion must be discontinued and appropriate medical therapy administered.
@@ -155,23 +159,17 @@ In the absence of data for patients who had been receiving systemic immunosuppre
 Relative to nivolumab monotherapy, an increase in PFS for the combination of nivolumab with ipilimumab is established only in patients with low tumour PD-L1 expression.
 The improvement in OS was similar between nivolumab in combination with ipilimumab and nivolumab monotherapy in patients with high tumour PD-L1 expression (PD-L1 ≥ 1%).
 Before initiating treatment with the combination, physicians are advised to carefully evaluate the individual patient and tumour characteristics, taking into consideration the observed benefits and the toxicity of the combination relative to nivolumab monotherapy (see sections 4.8 and 5.1).
+
 Use of nivolumab in melanoma patients with rapidly progressing disease
 Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with rapidly progressing disease (see section 5.1).
 
 Adjuvant treatment of melanoma
 There are no data on adjuvant treatment in patients with melanoma with the following risk factors (see sections 4.5 and 5.1):
 
-- patients with prior autoimmune disease, and any condition requiring systemic treatment with
+- patients with prior autoimmune disease, and any condition requiring systemic treatment with either corticosteroids (≥ 10 mg daily prednisone or equivalent) or other immunosuppressive medications,
+- patients with prior therapy for melanoma (except patients with surgery, adjuvant radiotherapy after neurosurgical resection for lesions of the central nervous system, and prior adjuvant interferon completed ≥ 6 months prior to randomisation),
+- patients treated with prior therapy with anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CD137, or anti CTLA-4 antibody (including ipilimumab or any other antibody or drug specifically targeting
 
-either corticosteroids (≥ 10 mg daily prednisone or equivalent) or other immunosuppressive medications,
-
-- patients with prior therapy for melanoma (except patients with surgery, adjuvant radiotherapy
-
-after neurosurgical resection for lesions of the central nervous system, and prior adjuvant interferon completed ≥ 6 months prior to randomisation),
-
-- patients treated with prior therapy with anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CD137, or anti
-
-CTLA-4 antibody (including ipilimumab or any other antibody or drug specifically targeting
 T cell co-stimulation or checkpoint pathways),
 
 - subjects under the age of 18 years.
@@ -179,6 +177,11 @@ T cell co-stimulation or checkpoint pathways),
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
 Non-small cell lung cancer
+First-line treatment of NSCLC
+Patients with active autoimmune disease, symptomatic interstitial lung disease, medical conditions requiring systemic immunosuppression, active (untreated) brain metastasis, who received prior systemic treatment for advanced disease, or who had sensitising EGFR mutations or ALK translocations were excluded from the pivotal trial in first-line treatment of NSCLC (see sections 4.5 and 5.1).
+Limited data are available in elderly patients (≥ 75 years) (see section 5.1).
+In these patients, nivolumab in combination with ipilimumab and chemotherapy should be used with caution after careful consideration of the potential benefit/risk on an individual basis.
+Treatment of NSCLC after prior chemotherapy
 Patients with a baseline performance score ≥ 2, active brain metastases or autoimmune disease, symptomatic interstitial lung disease, and patients who had been receiving systemic immunosuppressants prior to study entry were excluded from the pivotal clinical trials of NSCLC (see sections 4.5 and 5.1).
 Patients with baseline performance score of 2 were included in study CA209171 (see section 5.1).
 In the absence of data for patients with autoimmune disease, symptomatic interstitial lung disease, active brain metastases and patients who had been receiving systemic immunosuppressants prior to study entry, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.

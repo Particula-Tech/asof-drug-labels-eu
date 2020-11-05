@@ -12,11 +12,13 @@ OPDIVO as monotherapy is indicated for the adjuvant treatment of adults with mel
 
 Non-small cell lung cancer (NSCLC)
 
-OPDIVO as monotherapy is indicated for the treatment of locally advanced or metastatic non-small cell lung cancer after prior chemotherapy in adults.
+OPDIVO in combination with ipilimumab and 2 cycles of platinum-based chemotherapy is indicated for the first-line treatment of metastatic non-small cell lung cancer in adults whose tumours have no sensitising EGFR mutation or ALK translocation.
 
+OPDIVO as monotherapy is indicated for the treatment of locally advanced or metastatic non-small cell lung cancer after prior chemotherapy in adults.
 Renal cell carcinoma (RCC)
 
 OPDIVO as monotherapy is indicated for the treatment of advanced renal cell carcinoma after prior therapy in adults.
+
 OPDIVO in combination with ipilimumab is indicated for the first-line treatment of adult patients with intermediate/poor-risk advanced renal cell carcinoma (see section 5.1).
 
 Classical Hodgkin lymphoma (cHL)
