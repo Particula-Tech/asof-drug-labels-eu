@@ -17,11 +17,11 @@ Patients should not take Nexium Control as a long term preventive medicinal prod
 Treatment with proton pump inhibitors (PPIs) may lead to a slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and in hospitalised patients, also possibly Clostridium difficile (see section 5.1).
 
 Patients should consult their doctor before taking this medicinal product if they are due to have an endoscopy or urea breath test.
+
 Combination with other medicinal products
 Co-administration of esomeprazole with atazanavir is not recommended (see section 4.5).
 If the combination of atazanavir with a PPI is judged unavoidable, close clinical monitoring is recommended in combination with an increase in the dose of atazanavir to 400 mg with 100 mg of ritonavir.
 Esomeprazole 20 mg should not be exceeded.
-
 Esomeprazole is a CYP2C19 inhibitor.
 When starting or ending treatment with esomeprazole, the potential for interactions with medicinal products metabolised through CYP2C19 should be considered.
 An interaction is observed between clopidogrel and esomeprazole.

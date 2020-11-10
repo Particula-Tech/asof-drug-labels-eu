@@ -18,7 +18,6 @@ The co-administration of omeprazole (20 mg once a day) with atazanavir 400 mg/ri
 Co-administration of omeprazole
 (40 mg once a day) reduced mean nelfinavir AUC, Cmax and Cmin by 36–39 % and mean AUC, Cmax and Cmin for the pharmacologically active metabolite M8 was reduced by 75-92%.
 Due to the similar pharmacodynamic effects and pharmacokinetic properties of omeprazole and esomeprazole, concomitant administration with esomeprazole and atazanavir is not recommended and concomitant administration with esomeprazole and nelfinavir is contraindicated (see section 4.3 and 4.4).
-
 For saquinavir (with concomitant ritonavir), increased serum levels (80-100%) have been reported during concomitant omeprazole treatment (40 mg once a day).
 Treatment with omeprazole 20 mg once a day had no effect on the exposure of darunavir (with concomitant ritonavir) and amprenavir (with concomitant ritonavir).
 
@@ -54,9 +53,9 @@ Monitoring is recommended when initiating and ending concomitant esomeprazole tr
 
 Clopidogrel
 Results from studies in healthy subjects have shown a pharmacokinetic (PK)/pharmacodynamic (PD) interaction between clopidogrel (300 mg loading dose/75 mg daily maintenance dose) and esomeprazole (40 mg orally daily) resulting in decreased exposure to the active metabolite of clopidogrel by an average of 40%, and resulting in decreased maximum inhibition of (ADP induced) platelet aggregation by an average of 14%.
+
 In a study in healthy subjects, there was a decreased exposure by almost 40% of the active metabolite of clopidogrel when a fixed dose combination of esomeprazole 20 mg + acetylsalicylic acid 81 mg was given with clopidogrel compared to clopidogrel alone.
 However, the maximum levels of inhibition of (ADP induced) platelet aggregation in these subjects were the same in both groups.
-
 Inconsistent data on the clinical implications of this PK/PD interaction in terms of major cardiovascular events have been reported from both observational and clinical studies.
 As a precaution, concomitant use of esomeprazole and clopidogrel should be discouraged.
 
@@ -93,6 +92,7 @@ Concomitant administration of esomeprazole and a combined inhibitor of CYP2C19 a
 The CYP2C19 and CYP3A4 inhibitor voriconazole increased omeprazole AUCt by 280%.
 A dose adjustment of esomeprazole is not regularly required in either of these situations.
 However, dose adjustment should be considered in patients with severe hepatic impairment and if long-term treatment is indicated.
+
 Medicinal products which induce CYP2C19 and/or CYP3A4
 Medicinal products known to induce CYP2C19 or CYP3A4 or both (such as rifampicin and St. John’s wort (Hypericum perforatum)) may lead to decreased esomeprazole serum levels by increasing the esomeprazole metabolism.
 
