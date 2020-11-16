@@ -7,7 +7,6 @@ Mechanism of action
 Temozolomide is a triazene, which undergoes rapid chemical conversion at physiologic pH to the active monomethyl triazenoimidazole carboxamide (MTIC).
 The cytotoxicity of MTIC is thought to be due primarily to alkylation at the O6 position of guanine with additional alkylation also occurring at the N7 position.
 Cytotoxic lesions that develop subsequently are thought to involve aberrant repair of the methyl adduct.
-
 Clinical efficacy and safety
 
 Newly-diagnosed glioblastoma multiforme
@@ -23,6 +22,7 @@ TMZ was administered as salvage therapy in the follow-up phase in 161 patients o
 The hazard ratio (HR) for overall survival was 1.59 (95 % CI for HR=1.33 -1.91) with a log-rank p < 0.0001 in favour of the TMZ arm.
 The estimated probability of surviving 2 years or more (26 % vs 10 %) is higher for the RT + TMZ arm.
 The addition of concomitant TMZ to RT, followed by TMZ monotherapy in the treatment of patients with newly-diagnosed glioblastoma multiforme demonstrated a statistically significant improvement in overall survival (OS) compared with RT alone (Figure 1).
+
 H R (95% C .I.) = 1.59 (1.33 – 1.91) log-rank p-value < .0001
 
 26%
@@ -90,5 +90,7 @@ HR (95% C.I.) = 1.59 (1.33 – 1.91) log-rank p-value < .0001
 (all sentences already above)
 
 [Temodal 2.5 mg/ml powder for solution for infusion]
+
+Pharmacotherapeutic group: Antineoplastic agents - Other alkylating agents, ATC code: L01A X03 Mechanism of action
 
 Figure 1 Kaplan-Meier curves for overall survival (Intent to treat population)

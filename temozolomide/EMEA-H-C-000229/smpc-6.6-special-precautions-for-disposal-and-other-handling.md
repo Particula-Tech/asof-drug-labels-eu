@@ -34,7 +34,6 @@ Any unused medicinal product or waste material should be disposed of in accordan
 Caution must be exercised in handling Temodal 2.5 mg/ml powder for solution for infusion.
 The use of gloves and aseptic technique is required.
 If Temodal 2.5 mg/ml comes into contact with skin or mucosa, it should be washed immediately and thoroughly with soap and water.
-
 Each vial must be reconstituted with 41 ml sterilised water for injections.
 The resulting solution contains 2.5 mg/ml TMZ.
 The vials should be gently swirled and not shaken.

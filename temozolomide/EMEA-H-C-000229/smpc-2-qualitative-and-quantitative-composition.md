@@ -2,7 +2,7 @@
 
 Each hard capsule contains 5 mg temozolomide.
 
-Excipient with known effect:
+Excipient(s) with known effect:
 Each hard capsule contains 132.8 mg of anhydrous lactose.
 
 For the full list of excipients, see section 6.1.
@@ -42,4 +42,4 @@ Each hard capsule contains 154.3 mg of anhydrous lactose.
 Each vial contains 100 mg of temozolomide.
 After reconstitution, 1 ml solution for infusion contains 2.5 mg temozolomide.
 
-Each vial contains 2.4 mmol sodium.
+Each vial contains 55.2 mg sodium.

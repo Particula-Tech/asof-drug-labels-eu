@@ -14,7 +14,6 @@ After oral administration of 14C-labelled TMZ, mean faecal excretion of 14C over
 Distribution
 
 TMZ demonstrates low protein binding (10 % to 20 %), and thus it is not expected to interact with highly protein-bound substances.
-
 PET studies in humans and preclinical data suggest that TMZ crosses the blood-brain barrier rapidly and is present in the CSF.
 CSF penetration was confirmed in one patient; CSF exposure based on AUC of TMZ was approximately 30 % of that in plasma, which is consistent with animal data.
 
@@ -31,6 +30,7 @@ Special populations
 
 Analysis of population-based pharmacokinetics of TMZ revealed that plasma TMZ clearance was independent of age, renal function or tobacco use.
 In a separate pharmacokinetic study, plasma pharmacokinetic profiles in patients with mild to moderate hepatic impairment were similar to those observed in patients with normal hepatic function.
+
 Paediatric patients had a higher AUC than adult patients; however, the maximum tolerated dose (MTD) was 1,000 mg/m2 per cycle both in children and in adults.
 
 [Temodal 20 mg hard capsules]
