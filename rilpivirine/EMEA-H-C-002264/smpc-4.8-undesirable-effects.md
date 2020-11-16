@@ -52,13 +52,13 @@ The median duration of exposure for patients was 63.5 weeks.
 There were no patients who discontinued treatment due to ADRs.
 No new ADRs were identified compared to those seen in adults.
 
-Most ADRs were Grade 1 or 2.
+Most ADRs were grade 1 or 2.
 The most common ADRs (all grades, greater than or equal to 10%) were headache (19.4%), depression (19.4%), somnolence (13.9%), and nausea (11.1%).
 No grade 3-4 laboratory abnormalities for AST/ALT or grade 3-4 ADRs of transaminase increased were reported.
 
 There were no new safety concerns identified in the Week 240 analysis of the TMC278-C213 trial in adolescents.
 
-The safety and efficacy of rilpivirine in children aged < 12 years have not yet been established.
+The safety and efficacy of rilpivirine in children aged <12 years have not yet been established.
 No data are available.
 
 Other special populations

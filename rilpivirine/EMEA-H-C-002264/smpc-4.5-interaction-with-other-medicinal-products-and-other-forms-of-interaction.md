@@ -31,7 +31,7 @@ Interactions between rilpivirine and co-administered medicinal products are list
 | HIV NRTIs/N[t]RTIs |  |  |
 | Didanosine*# 400 mg once daily | didanosine AUC ↑ 12% didanosine Cmin NA didanosine Cmax ↔ rilpivirine AUC ↔ rilpivirine Cmin ↔ rilpivirine Cmax ↔ | No dose adjustment is required. Didanosine should be administered at least two hours before or at least four hours after rilpivirine. |
 
-| Tenofovir disoproxil fumarate*# 300 mg once daily | tenofovir AUC ↑ 23% tenofovir Cmin ↑ 24% tenofovir Cmax ↑ 19% rilpivirine AUC ↔ rilpivirine Cmin ↔ rilpivirine Cmax ↔ |  | No dose adjustment is required. |  |
+| Tenofovir disoproxil *# 245 mg once daily | tenofovir AUC ↑ 23% tenofovir Cmin ↑ 24% tenofovir Cmax ↑ 19% rilpivirine AUC ↔ rilpivirine Cmin ↔ rilpivirine Cmax ↔ |  | No dose adjustment is required. |  |
 | --- | --- | --- | --- | --- |
 | Other NRTIs (abacavir, emtricitabine, lamivudine, stavudine and zidovudine) | Not studied. No clinically relevant drug-drug interactions are expected. |  | No dose adjustment is required. |  |
 | HIV NNRTIs |  |  |  |  |

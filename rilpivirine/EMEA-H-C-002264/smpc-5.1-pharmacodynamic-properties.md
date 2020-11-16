@@ -71,7 +71,7 @@ Steady-state administration of rilpivirine 75 mg once daily and 300 mg once dail
 Clinical efficacy and safety
 
 Treatment-naïve HIV-1 infected adult patients
-The evidence of efficacy of rilpivirine is based on the analyses of 96 week data from 2 randomised, double-blinded, active-controlled, Phase III trials TMC278-C209 (ECHO) and TMC278-C215 (THRIVE).
+The evidence of efficacy of rilpivirine is based on the analysis of 96 week data from 2 randomised, double-blinded, active-controlled, Phase III trials TMC278-C209 (ECHO) and TMC278-C215 (THRIVE).
 The trials were identical in design, with the exception of the background regimen (BR).
 In the week 96 efficacy analysis, the virologic response rate [confirmed undetectable viral load
 (< 50 HIV-1 RNA copies/ml)] was evaluated in patients receiving rilpivirine 25 mg once daily in addition to a BR versus patients receiving efavirenz 600 mg once daily in addition to a BR.
@@ -136,7 +136,7 @@ Most of these discontinuations occurred in the first 48 weeks of treatment.
 | ≥200-< 350 | 86.9% (272/313) | 82.4% (253/307) | 4.5 (-1.2; 10.2) | 80.5% (252/313) | 79.5% (244/307) | 1.0 (-5.3; 7.3) |
 | ≥350 | 90.3% (130/144) | 82.9% (136/164) | 7.4 (-0.3; 15.0) | 85.4% (123/144) | 78.7% (129/164) | 6.8 (-1.9; 15.4) |
 
-N=number of subjects per treatment group; ND=not determined.
+BR=background regimen; CI=confidence interval; N=number of subjects per treatment group; ND=not determined.
 * Intent-to-treat time to loss of virologic response.
 ± Based on normal approximation.
 § Subjects achieved virologic response (two consecutive viral loads < 50 copies/ml) and maintained it through week 48/96.
