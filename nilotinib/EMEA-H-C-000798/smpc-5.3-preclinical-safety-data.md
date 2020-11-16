@@ -1,7 +1,6 @@
 # 5.3 Preclinical safety data
 
 Nilotinib has been evaluated in safety pharmacology, repeated-dose toxicity, genotoxicity, reproductive toxicity, phototoxicity and carcinogenicity (rats and mice) studies.
-
 Safety pharmacology studies
 
 Nilotinib did not have effects on CNS or respiratory functions.
@@ -30,6 +29,7 @@ Exposures (in terms of AUC) at the highest dose level represented approximately 
 In the 26-week Tg.rasH2 mouse carcinogenicity study, in which nilotinib was administered at 30, 100 and 300 mg/kg/day, skin papillomas/carcinomas were detected at 300 mg/kg, representing approximately 30 to 40 times (based on AUC) the human exposure at the maximum approved dose of 800 mg/day (administered as 400 mg twice daily).
 The No-Observed-Effect-Level for the skin neoplastic lesions was 100 mg/kg/day, representing approximately 10 to 20 times the human exposure at the maximum approved dose of 800 mg/day (administered as 400 mg twice daily).
 The major target organs for non-neoplastic lesions were the skin (epidermal hyperplasia), the growing teeth (degeneration/atrophy of the enamel organ of upper incisors and inflammation of the gingiva/odontogenic epithelium of incisors) and the thymus (increased incidence and/or severity of decreased lymphocytes).
+
 Reproductive toxicity and fertility studies
 
 Nilotinib did not induce teratogenicity, but did show embryo- and foetotoxicity at doses that also showed maternal toxicity.
@@ -37,7 +37,6 @@ Increased post-implantation loss was observed in both the fertility study, which
 Embryo-lethality and foetal effects (mainly decreased foetal weights, premature fusion of the facial bones (fused maxilla/zygomatic) visceral and skeletal variations) in rats and increased resorption of foetuses and skeletal variations in rabbits were present in the embryotoxicity studies.
 In a pre- and postnatal development study in rats, maternal exposure to nilotinib caused reduced pup body weight with associated changes in physical development parameters as well as reduced mating and fertility indices in the offspring.
 Exposure to nilotinib in females at No-Observed-Adverse-Effect-Levels was generally less or equal to that in humans at 800 mg/day.
-
 No effects on sperm count/motility or on fertility were noted in male and female rats up to the highest tested dose, approximately 5 times the recommended dosage for humans.
 
 Juvenile animal studies

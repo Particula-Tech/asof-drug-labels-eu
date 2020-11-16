@@ -3,8 +3,7 @@
 Summary of the safety profile
 
 The data described below reflect exposure to nilotinib in a total of 737 adult patients from a randomised Phase III study in patients with newly diagnosed Ph+ CML in chronic phase treated at the recommended dose of 300 mg twice daily (n=279) and from an open-label multicentre Phase II study in adult patients with imatinib-resistant or intolerant CML in chronic phase (n=321) and accelerated phase (n=137) treated at the recommended dose of 400 mg twice daily.
-Safety information from two Tasigna treatment discontinuation studies is also provided.
-
+Safety information from two Tasigna treatment discontinuation studies, and from a prospective non-interventional study in adult patients with imatinib-resistant or intolerant CML in chronic phase with a two-year observation period (n=507) is also provided.
 In adult patients with newly diagnosed CML in chronic phase
 The median duration of exposure was 60.5 months (range 0.1-70.8 months).
 
@@ -16,6 +15,7 @@ Treatment-emergent haematological toxicities include myelosuppression: thrombocy
 Biochemical adverse drug reactions include alanine aminotransferase increased (24%), hyperbilirubinaemia (16%), aspartate aminotransferase increased (12%), lipase increased (11%), blood bilirubin increased (10%), hyperglycaemia (4%), hypercholesterolaemia (3%) and hypertriglyceridaemia (<1%).
 Pleural and pericardial effusions, regardless of causality, occurred in 2% and <1% of patients, respectively, receiving nilotinib 300 mg twice daily.
 Gastrointestinal haemorrhage, regardless of causality, was reported in 3% of these patients.
+
 The change from baseline in mean time-averaged QTcF interval at steady state was 6 msec.
 No patient had an absolute QTcF >500 msec while on the study medicinal product.
 QTcF increase from baseline exceeding 60 msec was observed in <1% of patients while on the study medicinal product.
@@ -40,7 +40,6 @@ Gastrointestinal and CNS haemorrhage were reported in 1% and <1% of patients, re
 
 QTcF exceeding 500 msec was observed in <1% of patients.
 No episodes of torsade de pointes (transient or sustained) were observed.
-
 Tabulated list of adverse reactions
 
 The adverse reactions are ranked under heading of frequency using the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000) and not known (cannot be estimated from the available data).
@@ -48,6 +47,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 Most frequently reported adverse reactions in Tasigna clinical studies
 Non-haematological adverse reactions (excluding laboratory abnormalities) that are reported in at least 5% of the adult patients in Tasigna clinical studies that serve as the basis for the approved indications are shown in Table 3.
+
 Table 3 Non-haematological adverse reactions (≥5% of all patients)*
 
 |  | Newly diagnosed CML-CP 300 mg twice daily n=279 |  |  | Imatinib-resistant or intolerant CML-CP and CML-AP 400 mg twice daily n=458 |  |  |  |  |
@@ -72,9 +72,7 @@ Table 3 Non-haematological adverse reactions (≥5% of all patients)*
 | Alopecia | Very common | 10 | 0 | Common | 9 | 0 | 0 | 0 |
 | Dry skin | Common | 10 | 0 | Common | 5 | 0 | 0 | 0 |
 | Erythema | Common | 3 | 0 | Common | 5 | <1 | <1 | 0 |
-
 | Musculoskeletal and connective tissue disorders |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Myalgia | Very common | 10 | <1 | Very common | 10 | <1 | <1 | <1 |
 | Muscle spasms | Common | 9 | 0 | Common | 8 | <1 | <1 | 0 |
 | Arthralgia | Common | 8 | <1 | Common | 7 | <1 | 1 | 0 |
@@ -97,8 +95,8 @@ Table 4 Adverse reactions in adult patients in Tasigna clinical studies (<5% of 
 
 | Infections and infestations |  |
 | --- | --- |
-| Common: | Folliculitis, upper respiratory tract infection (including pharyngitis, nasopharyngitis, rhinitis) |
-| Uncommon: | Pneumonia, urinary tract infection, gastroenteritis, bronchitis, herpes virus infection, candidiasis (including oral candidiasis) |
+| Common: | Folliculitis, upper respiratory tract infection (including pharyngitis, nasopharyngitis, rhinitis), pneumonia* |
+| Uncommon: | Urinary tract infection, gastroenteritis, bronchitis, herpes virus infection, candidiasis (including oral candidiasis) |
 | Not known: | Sepsis, subcutaneous abscess, anal abscess, furuncle, tinea pedis, hepatitis B reactivation |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |
 | Common: | Skin papilloma |
@@ -131,8 +129,8 @@ Table 4 Adverse reactions in adult patients in Tasigna clinical studies (<5% of 
 | Common: | Vertigo |
 | Not known: | Hearing impaired, ear pain, tinnitus |
 | Cardiac disorders |  |
-| Common: | Angina pectoris, arrhythmia (including atroventricular block, cardiac flutter, extrasystoles, tachycardia, atrial fibrillation, bradycardia), palpitations, electrocardiogram QT prolonged |
-| Uncommon: | Cardiac failure, myocardial infarction, coronary artery disease, cardiac murmur, pericardial effusion, cyanosis |
+| Common: | Angina pectoris, arrhythmia (including atroventricular block, cardiac flutter, extrasystoles, tachycardia, atrial fibrillation, bradycardia), palpitations, electrocardiogram QT prolonged, cardiac failure* |
+| Uncommon: | Myocardial infarction, coronary artery disease, cardiac murmur, pericardial effusion, cyanosis |
 | Not known: | Ventricular dysfunction, pericarditis, ejection fraction decreased |
 | Vascular disorders |  |
 | Common: | Hypertension, flushing, peripheral artery stenosis |
@@ -160,9 +158,9 @@ Table 4 Adverse reactions in adult patients in Tasigna clinical studies (<5% of 
 | Uncommon: | Musculoskeletal stiffness, joint swelling |
 | Not known: | Arthritis |
 | Renal and urinary disorders |  |
-| Common: | Pollakiuria |
+| Common: | Pollakiuria, renal failure* |
 | Uncommon: | Dysuria, micturition urgency, nocturia |
-| Not known: | Renal failure, haematuria, urinary incontinence, chromaturia |
+| Not known: | Haematuria, urinary incontinence, chromaturia |
 | Reproductive system and breast disorders |  |
 | Uncommon: | Breast pain, gynaecomastia, erectile dysfunction |
 | Not known: | Breast induration, menorrhagia, nipple swelling |
@@ -176,7 +174,8 @@ Table 4 Adverse reactions in adult patients in Tasigna clinical studies (<5% of 
 | Uncommon: | Blood lactate dehydrogenase increased, blood glucose decreased, blood urea increased |
 | Not known: | Troponin increased, blood bilirubin unconjugated increased, blood insulin decreased, insulin C-peptide decreased, blood parathyroid hormone increased |
 
-Clinically relevant or severe abnormalities of routine haematological or biochemistry laboratory values in adult patients are presented in Table 5.
+* Frequency estimates based on data from a prospective non-interventional study in adult patients with imatinib-resistant or intolerant CML in chronic phase with a two-year observation period (n=507) Clinically relevant or severe abnormalities of routine haematological or biochemistry laboratory values in adult patients are presented in Table 5.
+
 Table 5 Grade 3-4 laboratory abnormalities*
 
 |  | Newly diagnosed CML-CP 300 mg twice daily | Imatinib-resistant or intolerant CML-CP and CML-AP 400 mg twice daily |  |
@@ -212,10 +211,10 @@ Description of selected adverse reactions
 
 Sudden death
 Uncommon cases (0.1 to 1%) of sudden deaths have been reported in Tasigna clinical trials and/or compassionate use programs in patients with imatinib-resistant or intolerant CML in chronic phase or accelerated phase with a past medical history of cardiac disease or significant cardiac risk factors (see section 4.4).
-
 Hepatitis B reactivation
 Hepatitis B reactivation has been reported in association with BCR-ABL TKIs.
 Some cases resulted in acute hepatic failure or fulminant hepatitis leading to liver transplantation or a fatal outcome (see section 4.4).
+
 Post-marketing experience
 
 The following adverse reactions have been derived from post-marketing experience with Tasigna via spontaneous case reports, literature cases, expanded access programmes, and clinical studies other than the global registration trials.
@@ -224,6 +223,8 @@ Since these reactions are reported voluntarily from a population of uncertain si
 Frequency very common: Growth retardation has been documented in paediatric patients treated with nilotinib.
 
 Frequency rare: Cases of tumour lysis syndrome have been reported in patients treated with nilotinib.
+
+Frequency unknown: Cases of facial paralysis have been reported in patients treated with nilotinib.
 
 Paediatric population
 
@@ -278,7 +279,6 @@ Non-haematological adverse reactions (excluding laboratory abnormalities) that a
 Adverse reactions that were reported in adult patients in the Tasigna Phase III study at a frequency of less than 5% are shown in Table 4.
 For laboratory abnormalities, very common events (≥1/10) not included in Table 3 are also reported.
 These adverse reactions are included based on clinical relevance and ranked in order of decreasing seriousness within each category using the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), not known (cannot be estimated from the available data).
-
 Table 4 Adverse reactions in adult patients in the Tasigna Phase III study (<5% of all patients)
 
 | Infections and infestations |  |
@@ -355,6 +355,8 @@ Table 4 Adverse reactions in adult patients in the Tasigna Phase III study (<5% 
 | Very common: | Alanine aminotransferase increased, aspartate aminotransferase increased, lipase increased, lipoprotein cholesterol (including low density and high density) increased, total cholesterol increased, blood triglycerides increased |
 | Common: | Haemoglobin decreased, blood amylase increased, blood alkaline phosphatase increased, gamma-glutamyltransferase increased, weight increased, blood insulin increased, globulins decreased |
 | Not known: | Blood parathyroid hormone increased, blood insulin decreased, insulin C-peptide decreased, weight decreased |
+
+Clinically relevant or severe abnormalities of routine haematological or biochemistry laboratory values in adult patients are presented in Table 5.
 
 |  | n=279 (%) |
 | --- | --- |

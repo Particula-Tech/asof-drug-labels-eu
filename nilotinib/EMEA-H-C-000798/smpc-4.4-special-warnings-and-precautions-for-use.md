@@ -37,13 +37,13 @@ Tasigna should be used with caution in patients who have or who are at significa
 
 Close monitoring for an effect on the QTc interval is advisable and a baseline ECG is recommended prior to initiating nilotinib therapy and as clinically indicated.
 Hypokalaemia or hypomagnesaemia must be corrected prior to Tasigna administration and should be monitored periodically during therapy.
-
 Sudden death
 
 Uncommon cases (0.1 to 1%) of sudden deaths have been reported in patients with imatinib-resistant or intolerant CML in chronic phase or accelerated phase with a past medical history of cardiac disease or significant cardiac risk factors.
 Co-morbidities in addition to the underlying malignancy were also frequently present as were concomitant medicinal products.
 Ventricular repolarisation abnormalities may have been contributory factors.
 No cases of sudden death were reported in the Phase III study in newly diagnosed patients with CML in chronic phase.
+
 Fluid retention and oedema
 
 Severe forms of drug-related fluid retention such as pleural effusion, pulmonary oedema, and pericardial effusion were uncommonly (0.1 to 1%) observed in a Phase III study of newly diagnosed CML patients.

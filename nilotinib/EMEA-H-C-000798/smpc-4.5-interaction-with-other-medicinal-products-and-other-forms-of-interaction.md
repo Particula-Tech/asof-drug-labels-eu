@@ -49,6 +49,8 @@ Nilotinib is a moderate CYP3A4 inhibitor.
 As a result, the systemic exposure of other medicinal products primarily metabolised by CYP3A4 (e.g. certain HMG-CoA reductase inhibitors) may be increased when co-administered with nilotinib.
 Appropriate monitoring and dose adjustment may be necessary for medicinal products that are CYP3A4 substrates and have a narrow therapeutic index (including but not limited to alfentanil, cyclosporine, dihydroergotamine, ergotamine, fentanyl, sirolimus and tacrolimus) when co-administered with nilotinib.
 
+The combination of nilotinib with those statins that are mainly eliminated by CYP3A4, may increase the potential for statin-induced myopathy, including rhabdomyolysis.
+
 Anti-arrhythmic medicinal products and other substances that may prolong the QT interval
 
 Nilotinib should be used with caution in patients who have or may develop prolongation of the QT interval, including those patients taking anti-arrhythmic medicinal products such as amiodarone, disopyramide, procainamide, quinidine and sotalol or other medicinal products that may lead to QT prolongation such as chloroquine, halofantrine, clarithromycin, haloperidol, methadone and moxifloxacin (see section 4.4).

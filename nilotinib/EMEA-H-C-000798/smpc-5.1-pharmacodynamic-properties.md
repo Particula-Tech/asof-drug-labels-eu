@@ -72,8 +72,8 @@ A total of 305 (36.1%) of all patients were not evaluable for MMR at 48 months (
 A total of 322 (38.1%) of all patients were not evaluable for MMR at 60 months (99 in the nilotinib 300 mg twice daily group, 93 in the nilotinib 400 mg twice daily group and 130 in the imatinib group) due to missing/unevaluable PCR assessments (n=9), atypical transcripts at baseline (n=8) or discontinuation prior to the 60-month time point (n=305).
 5 Only patients who were in MMR at a specific time point are included as responders for that time point.
 A total of 395 (46.7%) of all patients were not evaluable for MMR at 72 months (130 in the nilotinib 300 mg twice daily group, 110 in the nilotinib 400 mg twice daily group and 155 in the imatinib group) due to missing/unevaluable PCR assessments (n=25), atypical transcripts at baseline (n=8) or discontinuation prior to the 72-month time point (n=362).
-
 MMR rates by different time points (including patients who achieved MMR at or before those time points as responders) are presented in the cumulative incidence of MMR (see Figure 1).
+
 Figure 1 Cumulative incidence of MMR
 
 100 Nilotinib 300 mg twice daily (n = 282)
@@ -319,15 +319,17 @@ Figure 4 Kaplan-Meier estimate of treatment-free survival after start of TFR (fu
 40
 
 30
+
 20
 Pat Evt Cen
 190 91 99
-10 Censored observations
+10
+Censored observations
 0
 
 0 12 24 36 48 60 72 84 96
-At risk : Events Time since TFR (weeks)
-190: 165:2 120:70 108:8 90:8 38:9 12:9 1:9 0:9
+At risk: Events Time since TFR (weeks)
+190:0 165:25 120:70 108:81 90:89 38:91 12:91 1:91 0:91
 
 Treatment discontinuation in adult CML patients in chronic phase who have achieved a sustained deep molecular response on nilotinib treatment following prior imatinib therapy
 In an open-label, single-arm study, 163 adult patients with Ph+ CML in chronic phase taking tyrosine kinase inhibitors (TKIs) for ≥3 years (imatinib as initial TKI therapy for more than 4 weeks without documented MR4.5 on imatinib at the time of switch to nilotinib, then switched to nilotinib for at least two years), and who achieved MR4.5 on nilotinib treatment as measured with the MolecularMD MRDx BCR-ABL test were enrolled to continue nilotinib treatment for additional 52 weeks (nilotinib consolidation phase).
@@ -364,7 +366,7 @@ Figure 5 Kaplan-Meier estimate of treatment-free survival after start of TFR (fu
 0
 
 0 12 24 36 48 60 72 84 96
-At risk : Events Time since TFR (weeks)
+At risk: Events Time since TFR (weeks)
 126:0 107:19 76:49 74:51 61:52 36:52 14:52 1:52 0:52
 
 Paediatric population
@@ -398,20 +400,26 @@ No deaths were reported on treatment or after treatment discontinuation in both 
 
 MMR was defined as ≤0.1% BCR-ABL/ABL% by international scale (IS) measured by RQvPCR, which corresponds to a ≥3 log reduction of BCR-ABL transcript from standardised baseline.
 
-|  | Nilotinib 300 mg twice daily n=282 (%) | Nilotinib 400 mg twice daily n=281 (%) | Imatinib 400 mg once daily n=283 (%) |
-| --- | --- | --- | --- |
-| MMR at 12 months |  |  |  |
-| Response (95% CI) | 44.31 (38.4; 50.3) | 42.71 (36.8; 48.7) | 22.3 (17.6; 27.6) |
-| MMR at 24 months |  |  |  |
-| Response (95% CI) | 61.71 (55.8; 67.4) | 59.11 (53.1; 64.9) | 37.5 (31.8; 43.4) |
-| MMR at 36 months2 |  |  |  |
-| Response (95% CI) | 58.51 (52.5; 64.3) | 57.31 (51.3; 63.2) | 38.5 (32.8; 44.5) |
-| MMR at 48 months3 |  |  |  |
-| Response (95% CI) | 59.91 (54.0; 65.7) | 55.2 (49.1; 61.1) | 43.8 (38.0; 49.8) |
-| MMR at 60 months4 |  |  |  |
-| Response (95% CI) | 62.8 (56.8; 68.4) | 61.2 (55.2; 66.9) | 49.1 (43.2; 55.1) |
-| MMR at 72 months5 |  |  |  |
-| Response (95% CI) | 52.5 (46.5; 58.4) | 57.7 (51.6; 63.5) | 41.7 (35.9; 47.7) |
+| Nilotinib 300 mg twice daily n=282 (%) | Nilotinib 400 mg twice daily n=281 (%) |
+| --- | --- |
+| 44.31 (38.4; 50.3) | 42.71 (36.8; 48.7) |
+| 61.71 (55.8; 67.4) | 59.11 (53.1; 64.9) |
+| 58.51 (52.5; 64.3) | 57.31 (51.3; 63.2) |
+| 59.91 (54.0; 65.7) | 55.2 (49.1; 61.1) |
+| 62.8 (56.8; 68.4) | 61.2 (55.2; 66.9) |
+| 52.5 (46.5; 58.4) | 57.7 (51.6; 63.5) |
+
+MMR at 12 months
+
+MMR at 24 months
+
+MMR at 36 months2
+
+MMR at 48 months3
+
+MMR at 60 months4
+
+MMR at 72 months5
 
 A total of 305 (36.1%) of all patients were not evaluable for MMR at 48 months (98 in the nilotinib 300 mg twice daily group, 88 in the nilotinib 400 mg twice daily group and 119 in the imatinib group) due to missing/unevaluable PCR assessments (n=18), atypical transcripts at baseline (n=8), or discontinuation prior to the 48-month time point (n=279).
 
@@ -421,6 +429,8 @@ A total of 55 patients died during treatment or during the follow-up after disco
 (21 in the nilotinib 300 mg twice daily group, 11 in the nilotinib 400 mg twice daily group and 23 in the imatinib 400 mg once daily group).
 
 The KM estimated MMR and MR4.5 rates at 24 weeks of re-initiation were 98.8% (95% CI: 94.2, 99.9) and 90.9% (95% CI: 83.2, 96.0), respectively.
+
+At risk : Events Time since TFR (weeks)
 
 None of the 21 resistant or intolerant CML patients who were in MMR on treatment, had confirmed loss of MMR.
 Among the 17 newly diagnosed CML patients who achieved MMR, one patient had confirmed loss of MMR (the patient lost CHR due to an increase in basophil count, however, did not progress to AP/BC).
