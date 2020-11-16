@@ -3,7 +3,6 @@
 Pharmacotherapeutic group: Antivirals for systemic use, other antivirals, ATC code: J05AX12
 
 Mechanism of action
-
 Dolutegravir inhibits HIV integrase by binding to the integrase active site and blocking the strand transfer step of retroviral Deoxyribonucleic acid (DNA) integration which is essential for the HIV replication cycle.
 
 Pharmacodynamic effects
@@ -16,6 +15,7 @@ The mean IC50 for 3 HIV-2 isolates was 0.18 nM (range 0.09-0.61).
 Antiviral activity in combination with other antiviral agents
 No antagonistic effects in vitro were seen with dolutegravir and other antiretrovirals tested: stavudine, abacavir, efavirenz, nevirapine, lopinavir, amprenavir, enfuvirtide, maraviroc and raltegravir.
 In addition, no antagonistic effects were seen for dolutegravir and adefovir, and ribavirin had no apparent effect on dolutegravir activity.
+
 Effect of human serum
 In 100% human serum, the mean protein fold shift was 75 fold, resulting in protein adjusted IC90 of 0.064 µg/mL.
 
@@ -52,6 +52,7 @@ In previously untreated patients receiving dolutegravir + lamivudine in the GEMI
 In patients with prior failed therapies, but naïve to the integrase class (SAILING study), integrase inhibitor substitutions were observed in 4/354 patients (follow-up 48 weeks) treated with dolutegravir, which was given in combination with an investigator selected background regimen (BR).
 Of these four, two subjects had a unique R263K integrase substitution, with a maximum FC of 1.93, one subject had a polymorphic V151V/I integrase substitution, with maximum FC of 0.92, and one subject had pre-existing integrase mutations and is assumed to have been integrase experienced or infected with integrase resistant virus by transmission.
 The R263K mutation was also selected in vitro (see above).
+
 In the presence of integrase class-resistance (VIKING-3 study) the following mutations were selected in 32 patients with protocol defined virological failure (PDVF) through Week 24 and with paired genotypes (all treated with dolutegravir 50 mg twice daily + optimized background agents): L74L/M (n=1), E92Q (n=2), T97A (n=9), E138K/A/T (n=8), G140S (n=2), Y143H (n=1), S147G (n=1), Q148H/K/R (n=4), and N155H (n=1) and E157E/Q (n=1).
 Treatment emergent integrase resistance typically appeared in patients with a history of the Q148-mutation (baseline or historic).
 Five further subjects experienced PDVF between weeks 24 and 48, and 2 of these 5 had treatment emergent mutations.
@@ -76,7 +77,6 @@ At baseline, median patient age was 36 years, 14% were female, 15% non-white, 11
 
 In SINGLE, 833 subjects were randomized and received at least one dose of either dolutegravir 50 mg once daily with fixed-dose abacavir-lamivudine (DTG + ABC/3TC) or fixed-dose efavirenz-tenofovir-emtricitabine (EFV/TDF/FTC).
 At baseline, median patient age was 35 years, 16% were female, 32% non-white, 7% had hepatitis C co-infection and 4% were CDC Class C, these characteristics were similar between treatment groups.
-
 The primary endpoint and other week 48 outcomes (including outcomes by key baseline covariates) for SPRING-2 and SINGLE are shown in Table 4.
 
 Table 4 Response in SPRING-2 and SINGLE at 48 Weeks (Snapshot algorithm, <50 copies/mL)
@@ -88,8 +88,7 @@ Table 4 Response in SPRING-2 and SINGLE at 48 Weeks (Snapshot algorithm, <50 cop
 | Treatment Difference* | 2.5% (95% CI: -2.2%, 7.1%) |  | 7.4% (95% CI: 2.5%, 12.3%) |  |
 | Virologic non-response† | 5% | 8% | 5% | 6% |
 | HIV-1 RNA <50 copies/mL by baseline covariates |  |  |  |  |
-| Baseline Viral Load |  |  |  |  |
-| (cps/mL) |  |  |  |  |
+| Baseline Viral Load (cps/mL) |  |  |  |  |
 | ≤100,000 >100,000 | 267 / 297 (90%) 94 / 114 (82%) | 264 / 295 (89%) 87 / 116 (75%) | 253 / 280 (90%) 111 / 134 (83%) | 238 / 288 (83%) 100 / 131 (76%) |
 | Baseline CD4+ (cells/ mm3) |  |  |  |  |
 | <200 200 to <350 ≥350 | 43 / 55 (78%) 128 / 144 (89%) 190 / 212 (90%) | 34 / 50 (68%) 118 / 139 (85%) 199 / 222 (90%) | 45 / 57 (79%) 143 / 163 (88%) 176 / 194 (91%) | 48 / 62 (77%) 126 / 159 (79%) 164 / 198 (83%) |
@@ -112,7 +111,6 @@ At week 96, results were consistent with those seen at week 48.
 In SPRING-2, dolutegravir was still non-inferior to raltegravir (viral suppression in 81% vs 76% of patients), and with a median change in CD4 count of 276 vs 264 cells/mm3, respectively.
 In SINGLE, dolutegravir + ABC/3TC was still superior to EFV/TDF/FTC (viral suppression in 80% vs 72%, treatment difference 8.0% (2.3, 13.8), p=0.006, and with an adjusted mean change in CD4 count of 325 vs 281 cells/ mm3, respectively.
 At 144 weeks in the open-label phase of SINGLE, virologic suppression was maintained, the dolutegravir + ABC/3TC arm (71%) was superior to the EFV/TDF/FTC arm (63%), treatment difference was 8.3% (2.0, 14.6).
-
 In FLAMINGO (ING114915), an open-label, randomised and active-controlled study, 484 HIV-1 infected antiretroviral naïve adults received one dose of either dolutegravir 50 mg once daily (n=242) or darunavir/ritonavir (DRV/r) 800 mg/100 mg once daily (n=242), both administered with either ABC/3TC or TDF/FTC.
 At baseline, median patient age was 34 years, 15% were female, 28% non-white, 10% had hepatitis B and/or C co-infection, and 3% were CDC Class C; these characteristics were similar between treatment groups.
 Virologic suppression (HIV-1 RNA <50 copies/mL) in the dolutegravir group (90%) was superior to the DRV/r group (83%) at 48 weeks.
@@ -157,6 +155,7 @@ In the international multicentre, double-blind SAILING study (ING111762), 719 HI
 At baseline, median patient age was 43 years, 32% were female, 50% non-white, 16% had hepatitis B and/or C co-infection, and 46% were CDC Class C. All patients had at least two class ART resistance, and 49% of subjects had at least 3-class ART resistance at baseline.
 
 Week 48 outcomes (including outcomes by key baseline covariates) for SAILING are shown in Table 6.
+
 Table 6 Response in SAILING at 48 Weeks (Snapshot algorithm, <50 copies/mL)
 
 |  | Dolutegravir 50 mg Once Daily + BR N=354§ | RAL 400 mg Twice Daily + BR N=361§ |
@@ -170,8 +169,7 @@ Table 6 Response in SAILING at 48 Weeks (Snapshot algorithm, <50 copies/mL)
 | Baseline CD4+ (cells/ mm3) |  |  |
 | <50 50 to <200 200 to <350 ≥350 | 33 / 62 (53%) 77 / 111 (69%) 64 / 82 (78%) 77 / 99 (78%) | 30 / 59 (51%) 76 / 125 (61%) 53 / 79 (67%) 71 / 98 (72%) |
 | Background Regimen |  |  |
-| Genotypic Susceptibility Score* <2 Genotypic Susceptibility Score* =2 Use of DRV in background regimen No DRV use DRV use with primary PI mutations DRV use without primary PI mutations | 155 / 216 (72%) 96 / 138 (70%) | 129 / 192 (67%) 101 / 169 (60%) |
-|  | 143 / 214 (67%) 58 / 68 (85%) 50 / 72 (69%) | 126 / 209 (60%) 50 / 75 (67%) 54 / 77 (70%) |
+| Genotypic Susceptibility Score* <2 Genotypic Susceptibility Score* =2 Use of DRV in background regimen No DRV use DRV use with primary PI mutations DRV use without primary PI mutations | 155 / 216 (72%) 96 / 138 (70%) 143 / 214 (67%) 58 / 68 (85%) 50 / 72 (69%) | 129 / 192 (67%) 101 / 169 (60%) 126 / 209 (60%) 50 / 75 (67%) 54 / 77 (70%) |
 | Gender |  |  |
 | Male | 172 / 247 (70%) | 156 / 238 (66%) |
 | Female | 79 / 107 (74%) | 74 / 123 (60%) |
@@ -186,7 +184,10 @@ Table 6 Response in SAILING at 48 Weeks (Snapshot algorithm, <50 copies/mL)
 | Clade C | 34 / 55 (62%) | 29 / 48 (60%) |
 | Other† | 43 / 57 (75%) | 42 / 67 (63%) |
 | Mean increase in CD4+ T cell (cells/mm3) | 162 | 153 |
-| ‡ Adjusted for baseline stratification factors. § 4 subjects were excluded from the efficacy analysis due to data integrity at one study site *The Genotypic Susceptibility Score (GSS) was defined as the total number of ARTs in BR to which a subject’s viral isolate showed susceptibility at baseline based upon genotypic resistance tests. †Other clades included: Complex (43), F1 (32), A1 (18), BF (14), all others <10. |  |  |
+| ‡ Adjusted for baseline stratification factors. § 4 subjects were excluded from the efficacy analysis due to data integrity at one study site |  |  |
+
+*The Genotypic Susceptibility Score (GSS) was defined as the total number of ARTs in BR to which a subject’s viral isolate showed susceptibility at baseline based upon genotypic resistance tests.
+†Other clades included: Complex (43), F1 (32), A1 (18), BF (14), all others <10.
 
 In the SAILING study, virologic suppression (HIV-1 RNA <50 copies/mL) in the Tivicay arm (71%) was statistically superior to the raltegravir arm (64%), at Week 48 (p=0.03).
 
@@ -206,8 +207,8 @@ Table 7 Virologic response (day 8) after 7 days of functional monotherapy, in pa
 
 Baseline parameters DTG 50 mg BID
 N=88*
-n Mean (SD) Plasma HIV-1 Median
-RNA log10 c/mL
+n Mean (SD) Plasma HIV- Median
+1 RNA log10 c/mL
 Derived IN mutation group at
 Baseline with ongoing RAL/EVG
 Primary mutation other than 48 -1.59 (0.47) -1.64
@@ -224,7 +225,6 @@ In patients without a primary mutation detected at baseline (N=60) (i.e. RAL/EVG
 After the functional monotherapy phase, subjects had the opportunity to re-optimize their background regimen when possible.
 The overall response rate through 24 weeks of therapy, 69% (126/183), was generally sustained through 48 weeks with 116/183 (63%) of patients with HIV-1 RNA <50c/mL (ITT-E, Snapshot algorithm).
 When excluding patients who stopped therapy for non-efficacy reasons, and those with major protocol deviations (incorrect dolutegravir dosing, intake of prohibited co-medication), namely, “the Virological Outcome (VO)-population)”, the corresponding response rates were 75% (120/161, week 24) and 69% (111/160, week 48).
-
 The response was lower when the Q148-mutation was present at baseline, and in particular in the presence of ≥2 secondary mutations, Table 8.
 The overall susceptibility score (OSS) of the optimised background regimen (OBR) was not associated with Week 24 response, nor with the week 48 response.
 
@@ -237,13 +237,8 @@ VO Population (HIV-1 RNA <50 c/mL, Snapshot algorithm)
 | No primary IN mutation1 | 2/2 (100%) | 15/20 (75%) | 19/21 (90%) | 9/12 (75%) | 45/55 (82%) | 38/55 (69%) |
 | Primary mutation other than Q148H/K/R2 | 2/2 (100%) | 20/20 (100%) | 21/27 (78%) | 8/10 (80%) | 51/59 (86%) | 50/58 (86%) |
 | Q148 + 1 secondary mutation3 | 2/2 (100%) | 8/12 (67%) | 10/17 (59%) | - | 20/31 (65%) | 19/31 (61%) |
-
-Q148 +≥2 secondary
-mutations 3 1/2 (50%) 2/11 (18%) 1/3 (33%) - 4/16 (25%)4/16 (25%)
-1 Historical or phenotypic evidence of INI resistance only.
-2 N155H, Y143C/H/R, T66A, E92Q
-3 G140A/C/S, E138A/K/T, L74I
-OSS: combined genotypic and phenotypic resistance (Monogram Biosciences Net Assessment)
+| Q148 +≥2 secondary mutations 3 | 1/2 (50%) | 2/11 (18%) | 1/3 (33%) | - | 4/16 (25%) | 4/16 (25%) |
+| 1 Historical or phenotypic evidence of INI resistance only. 2 N155H, Y143C/H/R, T66A, E92Q 3 G140A/C/S, E138A/K/T, L74I OSS: combined genotypic and phenotypic resistance (Monogram Biosciences Net Assessment) |  |  |  |  |  |  |
 
 The median change in CD4+ T cell count from baseline for VIKING-3 based on observed data was 61 cells/mm3 at Week 24 and 110 cells/mm3 at Week 48.
 
@@ -275,6 +270,7 @@ Table 9 Virologic (Snapshot algorithm) and Immunologic Activity of Treatment for
 | CD4+ Cell Count Median Change from Baseline, cells/mm3 Median Percent Change from Baseline | 84a 5%a | 209b 8%b |
 
 a 22 subjects contributed Week 48 CD4+ cell count data b 21 subjects contributed Week 24 CD4+ cell count data
+
 The European Medicines Agency has deferred the obligation to submit the results of studies with Tivicay in paediatric patients aged 4 weeks to below 6 years with HIV infection (see section 4.2 for information on paediatric use).
 
 There are no data available on the use of dolutegravir plus lamivudine as a two-drug regimen in paediatric patients.

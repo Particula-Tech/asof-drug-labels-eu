@@ -48,6 +48,13 @@ Osteonecrosis
 Although the aetiology is considered to be multifactorial (including corticosteroid use, biphosphonates, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported in patients with advanced HIV-disease and/or long-term exposure to CART.
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
 
+Weight and metabolic parameters
+An increase in weight and in levels of blood lipids and glucose may occur during antiretroviral therapy.
+Such changes may in part be linked to disease control and lifestyle.
+For lipids, there is in some cases evidence for a treatment effect, while for weight gain there is no strong evidence relating this to any particular treatment.
+For monitoring of blood lipids and glucose reference is made to established HIV treatment guidelines.
+Lipid disorders should be managed as clinically appropriate.
+
 Lamivudine and dolutegravir
 The two-drug regimen of dolutegravir 50 mg once daily and lamivudine 300 mg once daily was explored in two large randomized and blinded studies, GEMINI 1 and GEMINI 2 (see section 5.1).
 This regimen is only suitable for the treatment of HIV-1 infection where there is no known or suspected resistance to the integrase inhibitor class, or to lamivudine.

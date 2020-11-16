@@ -107,7 +107,6 @@ In a meta-analysis using pharmacogenomics samples collected in clinical studies 
 
 Gender
 Population PK analyses using pooled pharmacokinetic data from Phase IIb and Phase III adult trials revealed no clinically relevant effect of gender on the exposure of dolutegravir.
-
 Race
 Population PK analyses using pooled pharmacokinetic data from Phase IIb and Phase III adult trials revealed no clinically relevant effect of race on the exposure of dolutegravir.
 The pharmacokinetics of dolutegravir following single dose oral administration to Japanese subjects appear similar to observed parameters in Western (US) subjects.
