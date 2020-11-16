@@ -1,6 +1,6 @@
 # 4.6 Fertility, pregnancy and lactation
 
-Women of childbearing potential / Contraception in females
+Women of childbearing potential/Contraception in females
 
 Fingolimod is contraindicated in women of childbearing potential not using effective contraception (see section 4.3).
 Therefore, before initiation of treatment in women of childbearing potential, a negative pregnancy test result must be available and counselling should be provided regarding the serious risk to the foetus.

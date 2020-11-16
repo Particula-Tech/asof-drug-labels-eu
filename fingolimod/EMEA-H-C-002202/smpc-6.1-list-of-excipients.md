@@ -15,15 +15,15 @@ Yellow iron oxide (E172)
 
 Printing ink
 Shellac (E904)
-Iron oxide black (E172)
+Black iron oxide (E172)
 Propylene glycol (E1520)
-Ammonia solution, concentrated(E527)
-
+Ammonia solution, concentrated (E527)
 Gilenya 0.5 mg hard capsules
 
 Capsule fill
 Mannitol
 Magnesium stearate
+
 Capsule shell
 Gelatin
 Titanium dioxide (E171)

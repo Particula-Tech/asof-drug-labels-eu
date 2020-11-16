@@ -2,10 +2,12 @@
 
 Summary of the safety profile
 
-Adverse reactions reported with Gilenya 0.5 mg in Studies D2301 (FREEDOMS) and D2309 (FREEDOMS II) are shown below.
-Adverse reactions derived from post-marketing experience with Gilenya via spontaneous case reports or literature cases are also reported.
-Frequencies were defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
+The most frequent adverse reactions (incidence ≥10%) at the 0.5 mg dose were headache (24.5%), hepatic enzyme increased (15.2%), diarrhoea (12.6%), cough (12.3%), influenza (11.4%), sinusitis (10.9%) and back pain (10.0%).
 Tabulated list of adverse reactions
+
+Adverse reactions reported in clinical trials and derived from post-marketing experience via spontaneous case reports or literature cases are shown below.
+Frequencies were defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
+Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 | Infections and infestations |  |
 | --- | --- |
@@ -33,7 +35,7 @@ Tabulated list of adverse reactions
 | Common: | Dizziness Migraine |
 | Uncommon: | Seizure |
 | Rare: | Posterior reversible encephalopathy syndrome (PRES)* |
-| Not known: | Severe exacerbation of disease after Gilenya discontinuation*** |
+| Not known: | Severe exacerbation of disease after fingolimod discontinuation*** |
 | Eye disorders |  |
 | Common: | Vision blurred |
 | Uncommon: | Macular oedema |
@@ -56,16 +58,16 @@ Tabulated list of adverse reactions
 | General disorders and administration site conditions |  |
 | Common: | Asthenia |
 | Investigations |  |
-| Very common: | Hepatic enzyme increased (increased ALT, Gamma glutamyltransferase, Aspartate transaminase) |
+| Very common: | Hepatic enzyme increased (increased alanine transaminase, gamma glutamyltransferase, aspartate transaminase) |
 | Common: | Weight decreased*** Blood triglycerides increased |
 | Uncommon: | Neutrophil count decreased |
-| * Not reported in Studies FREEDOMS, FREEDOMS II and TRANSFORMS. The frequency category was based on an estimated exposure of approximately 10,000 patients to fingolimod in all clinical trials. ** PML and cryptococcal infections (including cases of cryptococcal meningitis) have been reported in the post-marketing setting (see section 4.4). *** Adverse drug reactions from spontaneous reports and literature **** The frequency category and risk assessment were based on an estimated exposure of more than 24,000 patients to fingolimod 0.5 mg in all clinical trials. |  |
+| * The frequency category was based on an estimated exposure of approximately 10,000 patients to fingolimod in all clinical trials. ** PML and cryptococcal infections (including cases of cryptococcal meningitis) have been reported in the post-marketing setting (see section 4.4). *** Adverse reactions from spontaneous reports and literature **** The frequency category and risk assessment were based on an estimated exposure of more than 24,000 patients to fingolimod 0.5 mg in all clinical trials. |  |
 
 Description of selected adverse reactions
 
 Infections
 In multiple sclerosis clinical studies the overall rate of infections (65.1%) at the 0.5 mg dose was similar to placebo.
-However, lower respiratory tract infections, primarily bronchitis and to a lesser extent herpes infection and pneumonia were more common in Gilenya-treated patients.
+However, lower respiratory tract infections, primarily bronchitis and to a lesser extent herpes infection and pneumonia were more common in fingolimod-treated patients.
 
 Some cases of disseminated herpes infection, including fatal cases, have been reported even at the 0.5 mg dose.
 
@@ -79,48 +81,48 @@ Macular oedema
 In multiple sclerosis clinical studies macular oedema occurred in 0.5% of patients treated with the recommended dose of 0.5 mg and 1.1% of patients treated with the higher dose of 1.25 mg.
 The majority of cases occurred within the first 3-4 months of therapy.
 Some patients presented with blurred vision or decreased visual acuity, but others were asymptomatic and diagnosed on routine ophthalmological examination.
-The macular oedema generally improved or resolved spontaneously after discontinuation of Gilenya.
+The macular oedema generally improved or resolved spontaneously after discontinuation of treatment.
 The risk of recurrence after re-challenge has not been evaluated.
 Macular oedema incidence is increased in multiple sclerosis patients with a history of uveitis (17% with a history of uveitis vs. 0.6% without a history of uveitis).
 Gilenya has not been studied in multiple sclerosis patients with diabetes mellitus, a disease which is associated with an increased risk for macular oedema (see section 4.4).
 In renal transplant clinical studies in which patients with diabetes mellitus were included, therapy with fingolimod 2.5 mg and 5 mg resulted in a 2-fold increase in the incidence of macular oedema.
 
 Bradyarrhythmia
-Initiation of Gilenya treatment results in a transient decrease in heart rate and may also be associated with atrioventricular conduction delays.
-In multiple sclerosis clinical studies the maximal decline in heart rate was seen within 6 hours after treatment initiation, with declines in mean heart rate of 12-13 beats per minute for Gilenya 0.5 mg.
-Heart rate below 40 beats per minute in adults, and below 50 beats per minute in paediatric patients, was rarely observed in patients on Gilenya 0.5 mg.
+Initiation of treatment results in a transient decrease in heart rate and may also be associated with atrioventricular conduction delays.
+In multiple sclerosis clinical studies the maximal decline in heart rate was seen within 6 hours after treatment initiation, with declines in mean heart rate of 12-13 beats per minute for fingolimod 0.5 mg.
+Heart rate below 40 beats per minute in adults, and below 50 beats per minute in paediatric patients, was rarely observed in patients on fingolimod 0.5 mg.
 The average heart rate returned towards baseline within 1 month of chronic treatment.
 Bradycardia was generally asymptomatic but some patients experienced mild to moderate symptoms, including hypotension, dizziness, fatigue and/or palpitations, which resolved within the first 24 hours after treatment initiation (see also sections 4.4 and 5.1).
 
 In multiple sclerosis clinical studies first-degree atrioventricular block (prolonged PR interval on ECG) was detected after treatment initiation in adult and paediatric patients.
 In adult clinical trials it occurred in 4.7% of patients on fingolimod 0.5 mg, in 2.8% of patients on intramuscular interferon beta-1a, and in 1.6% of patients on placebo.
-Second-degree atrioventricular block was detected in less than 0.2% adult patients on Gilenya 0.5 mg.
+Second-degree atrioventricular block was detected in less than 0.2% adult patients on fingolimod 0.5 mg.
 In the post-marketing setting, isolated reports of transient, spontaneously resolving complete AV block have been observed during the six hour monitoring period following the first dose of Gilenya.
 The patients recovered spontaneously.
 The conduction abnormalities observed both in clinical trials and post-marketing were typically transient, asymptomatic and resolved within the first 24 hours after treatment initiation.
-Although most patients did not require medical intervention, one patient on Gilenya 0.5 mg received isoprenaline for asymptomatic second-degree Mobitz I atrioventricular block.
+Although most patients did not require medical intervention, one patient on fingolimod 0.5 mg received isoprenaline for asymptomatic second-degree Mobitz I atrioventricular block.
 
 In the post-marketing setting, isolated delayed onset events, including transient asystole and unexplained death, have occurred within 24 hours of the first dose.
 These cases have been confounded by concomitant medicinal products and/or pre-existing disease.
 The relationship of such events to Gilenya is uncertain.
 
 Blood pressure
-In multiple sclerosis clinical studies Gilenya 0.5 mg was associated with an average increase of approximately 3 mmHg in systolic pressure and approximately 1 mmHg in diastolic pressure, manifesting approximately 1 month after treatment initiation.
+In multiple sclerosis clinical studies fingolimod 0.5 mg was associated with an average increase of approximately 3 mmHg in systolic pressure and approximately 1 mmHg in diastolic pressure, manifesting approximately 1 month after treatment initiation.
 This increase persisted with continued treatment.
 Hypertension was reported in 6.5% of patients on fingolimod 0.5 mg and in 3.3% of patients on placebo.
 In the post-marketing setting, cases of hypertension have been reported within the first month of treatment initiation and on the first day of treatment that may require treatment with antihypertensive agents or discontinuation of Gilenya (see also section 4.4, Blood pressure effects).
 
 Liver function
 Increased hepatic enzymes have been reported in adult and paediatric multiple sclerosis patients treated with Gilenya.
-In clinical studies 8.0% and 1.8% of adult patients treated with Gilenya 0.5 mg experienced an asymptomatic elevation in serum levels of ALT of ≥3x ULN (upper limit of normal) and ≥5x ULN, respectively.
+In clinical studies 8.0% and 1.8% of adult patients treated with fingolimod 0.5 mg experienced an asymptomatic elevation in serum levels of ALT of ≥3x ULN (upper limit of normal) and ≥5x ULN, respectively.
 Recurrence of liver transaminase elevations has occurred upon re-challenge in some patients, supporting a relationship to the medicinal product.
 In clinical studies, transaminase elevations occurred at any time during treatment although the majority occurred within the first 12 months.
-ALT levels returned to normal within approximately 2 months after discontinuation of Gilenya.
-In a small number of patients (N=10 on 1.25 mg, N=2 on 0.5 mg) who experienced ALT elevations ≥5x ULN and who continued on Gilenya therapy, the ALT levels returned to normal within approximately 5 months (see also section 4.4, Liver function).
+ALT levels returned to normal within approximately 2 months after discontinuation of treatment.
+In a small number of patients (N=10 on 1.25 mg, N=2 on 0.5 mg) who experienced ALT elevations ≥5x ULN and who continued on fingolimod therapy, the ALT levels returned to normal within approximately 5 months (see also section 4.4, Liver function).
 Nervous system disorders
 In clinical studies, rare events involving the nervous system occurred in patients treated with fingolimod at higher doses (1.25 or 5.0 mg) including ischaemic and haemorrhagic strokes and neurological atypical disorders, such as acute disseminated encephalomyelitis (ADEM)-like events.
 
-Cases of seizures, including status epilepticus, have been reported with the use of Gilenya in clinical studies and in the post-marketing setting.
+Cases of seizures, including status epilepticus, have been reported with the use of fingolimod in clinical studies and in the post-marketing setting.
 
 Vascular disorders
 Rare cases of peripheral arterial occlusive disease occurred in patients treated with fingolimod at higher doses (1.25 mg).
@@ -128,12 +130,12 @@ Rare cases of peripheral arterial occlusive disease occurred in patients treated
 Respiratory system
 Minor dose-dependent reductions in values for forced expiratory volume (FEV1) and diffusion capacity for carbon monoxide (DLCO) were observed with Gilenya treatment starting at month 1 and remaining stable thereafter.
 At month 24, the reduction from baseline values in percentage of predicted FEV1 was 2.7% for fingolimod 0.5 mg and 1.2% for placebo, a difference that resolved after treatment discontinuation.
-For DLCO the reductions at month 24 were 3.3% for fingolimod 0.5 mg and 2.7% for placebo.
+For DLCO the reductions at month 24 were 3.3% for fingolimod 0.5 mg and 2.7% for placebo (see also section 4.4, Respiratory effects).
 
 Lymphomas
 There have been cases of lymphoma of different varieties, in both clinical studies and the post-marketing setting, including a fatal case of Epstein-Barr virus (EBV) positive B-cell lymphoma.
 The incidence of non-Hodgkin’s lymphoma (B-cell and T-cell) cases was higher in clinical trials than expected in the general population.
-Some T-cell lymphoma cases were also reported in the post-marketing setting, including cases of cutaneous T-cell lymphoma (mycosis fungoides).
+Some T-cell lymphoma cases were also reported in the post-marketing setting, including cases of cutaneous T-cell lymphoma (mycosis fungoides) (see also section 4.4, Malignancies).
 
 Haemophagocytic syndrome
 Very rare cases of haemophagocytic syndrome (HPS) with fatal outcome have been reported in patients treated with fingolimod in the context of an infection.

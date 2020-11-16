@@ -22,7 +22,7 @@ Fingolimod and fingolimod phosphate are highly protein bound (>99%).
 
 Fingolimod is extensively distributed to body tissues with a volume of distribution of about 1,200±260 litres.
 A study in four healthy subjects who received a single intravenous dose of a radioiodolabelled analogue of fingolimod demonstrated that fingolimod penetrates into the brain.
-In a study in 13 male multiple sclerosis patients who received Gilenya 0.5 mg/day, the mean amount of fingolimod (and fingolimod phosphate) in seminal ejaculate, at steady-state, was approximately 10,000 times lower than the oral dose administered (0.5 mg).
+In a study in 13 male multiple sclerosis patients who received fingolimod 0.5 mg/day, the mean amount of fingolimod (and fingolimod phosphate) in seminal ejaculate, at steady-state, was approximately 10,000 times lower than the oral dose administered (0.5 mg).
 
 Biotransformation
 
@@ -47,8 +47,10 @@ Fingolimod and fingolimod phosphate concentrations increase in an apparently dos
 
 Characteristics in specific groups of patients
 
+Gender, ethnicity and renal impairment
 The pharmacokinetics of fingolimod and fingolimod phosphate do not differ in males and females, in patients of different ethnic origin, or in patients with mild to severe renal impairment.
 
+Hepatic impairment
 In subjects with mild, moderate, or severe hepatic impairment (Child-Pugh class A, B, and C), no change in fingolimod Cmax was observed, but fingolimod AUC was increased respectively by 12%, 44%, and 103%.
 In patients with severe hepatic impairment (Child-Pugh class C), fingolimod-phosphate Cmax was decreased by 22% and AUC was not substantially changed.
 The pharmacokinetics of fingolimod-phosphate were not evaluated in patients with mild or moderate hepatic impairment.
@@ -57,6 +59,7 @@ The apparent elimination half-life of fingolimod is unchanged in subjects with m
 Fingolimod should not be used in patients with severe hepatic impairment (Child-Pugh class C) (see section 4.3).
 Fingolimod should be introduced cautiously in mild and moderate hepatic impaired patients (see section 4.2).
 
+Elderly population
 Clinical experience and pharmacokinetic information in patients aged above 65 years are limited.
 Gilenya should be used with caution in patients aged 65 years and over (see section 4.2).
 
