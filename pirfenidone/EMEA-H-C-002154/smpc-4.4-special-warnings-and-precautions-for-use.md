@@ -2,20 +2,23 @@
 
 Hepatic function
 
-Elevations in ALT and AST >3 × upper limit of normal (ULN) have been reported in patients receiving therapy with Esbriet.
-Rarely these have been associated with concomitant elevations in total serum bilirubin.
-Liver function tests (ALT, AST and bilirubin) should be conducted prior to the initiation of treatment with Esbriet, and subsequently at monthly intervals for the first 6 months and then every 3 months thereafter (see section 4.8).
-In the event of significant elevation of liver aminotransferases the dose of Esbriet should be adjusted or treatment discontinued according to the guidelines listed below.
-For patients with confirmed elevations in ALT, AST or bilirubin during treatment, the following dose adjustments may be necessary.
-
-Recommendations in case of ALT/AST elevations
-If a patient exhibits an aminotransferase elevation to >3 to ≤5 x ULN after starting Esbriet therapy, confounding medicinal products should be discontinued, other causes excluded, and the patient monitored closely.
-If clinically appropriate the dose of Esbriet should be reduced or interrupted.
+Elevated transaminases have been commonly reported in patients treated with Esbriet.
+Liver function tests (ALT, AST and bilirubin) should be performed prior to the initiation of treatment with Esbriet, and subsequently at monthly intervals for the first 6 months and then every 3 months thereafter (see section 4.8).
+If a patient exhibits an aminotransferase elevation >3 to <5 x ULN without bilirubin elevation and without symptoms or signs of drug-induced liver injury after starting Esbriet therapy, other causes should be excluded, and the patient monitored closely.
+Discontinuation of other medicines associated with liver toxicity should be considered.
+If clinically appropriate, the dose of Esbriet should be reduced or interrupted.
 Once liver function tests are within normal limits Esbriet may be re-escalated to the recommended daily dose if tolerated.
 
-If a patient exhibits an aminotransferase elevation to ≤5 x ULN accompanied by symptoms or hyperbilirubinaemia, Esbriet should be discontinued and the patient should not be rechallenged.
+Drug-induced liver injury
 
-If a patient exhibits an aminotransferase elevation to >5 x ULN, Esbriet should be discontinued and the patient should not be rechallenged.
+Uncommonly, elevations in AST and ALT were associated with concomitant bilirubin increases.
+Cases of severe drug-induced liver injury, including isolated cases with fatal outcome, have been reported post-marketing (see section 4.8).
+
+In addition to the recommended regular monitoring of liver function tests, prompt clinical evaluation and measurement of liver function tests should be performed in patients who report symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine, or jaundice.
+
+If a patient exhibits an aminotransferase elevation >3 to <5 x ULN accompanied by hyperbilirubinaemia or clinical signs or symptoms indicative of liver injury, Esbriet should be permanently discontinued and the patient should not be rechallenged.
+
+If a patient exhibits an aminotransferase elevation to ≥5 x ULN, Esbriet should be permanently discontinued and the patient should not be rechallenged.
 
 Hepatic impairment
 In subjects with moderate hepatic impairment (i.e. Child-Pugh Class B), pirfenidone exposure was increased by 60%.
@@ -45,12 +48,17 @@ Dizziness has been reported in patients taking Esbriet.
 Therefore, patients should know how they react to this medicinal product before they engage in activities requiring mental alertness or coordination (see section 4.7).
 In clinical studies, most patients who experienced dizziness had a single event, and most events resolved, with a median duration of 22 days.
 If dizziness does not improve or if it worsens in severity, dose adjustment or even discontinuation of Esbriet may be warranted.
-
 Fatigue
 
 Fatigue has been reported in patients taking Esbriet.
 Therefore, patients should know how they react to this medicinal product before they engage in activities requiring mental alertness or coordination (see section 4.7).
+
 Weight loss
 
 Weight loss has been reported in patients treated with Esbriet (see section 4.8).
 Physicians should monitor patient’s weight, and when appropriate encourage increased caloric intake if weight loss is considered to be of clinical significance.
+
+Hyponatraemia
+
+Hyponatraemia has been reported in patients treated with Esbriet (see section 4.8).
+As the symptoms of hyponatraemia may be subtle and masked by the presence of concomitant morbidities, regular monitoring of the relevant laboratory parameters is recommended, especially in the presence of evocative signs and symptoms such as nausea, headache or dizziness.

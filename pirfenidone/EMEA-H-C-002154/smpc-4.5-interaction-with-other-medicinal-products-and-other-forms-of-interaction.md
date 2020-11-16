@@ -25,7 +25,6 @@ Esbriet should be used with caution when ciprofloxacin is used at a dose of 250 
 Esbriet should be used with caution in patients treated with other moderate inhibitors of CYP1A2 (e.g. amiodarone, propafenone).
 
 Special care should also be exercised if CYP1A2 inhibitors are being used concomitantly with potent inhibitors of one or more other CYP isoenzymes involved in the metabolism of pirfenidone such as CYP2C9 (e.g. amiodarone, fluconazole), 2C19 (e.g. chloramphenicol) and 2D6 (e.g. fluoxetine, paroxetine).
-
 Cigarette smoking and inducers of CYP1A2
 
 A Phase 1 interaction study evaluated the effect of cigarette smoking (CYP1A2 inducer) on the pharmacokinetics of pirfenidone.
@@ -35,6 +34,7 @@ Concomitant use of strong inducers of CYP1A2 including smoking should be avoided
 Patients should be encouraged to discontinue use of strong inducers of CYP1A2 and to stop smoking before and during treatment with pirfenidone.
 
 In the case of moderate inducers of CYP1A2 (e.g. omeprazole), concomitant use may theoretically result in a lowering of pirfenidone plasma levels.
+
 Co-administration of medicinal products that act as potent inducers of both CYP1A2 and the other CYP isoenzymes involved in the metabolism of pirfenidone (e.g. rifampicin) may result in significant lowering of pirfenidone plasma levels.
 These medicinal products should be avoided whenever possible.
 

@@ -12,12 +12,12 @@ A reduced incidence of adverse events (nausea and dizziness) was observed in fed
 Therefore, it is recommended that Esbriet be administered with food to reduce the incidence of nausea and dizziness.
 
 The absolute bioavailability of pirfenidone has not been determined in humans.
-
 Distribution
 
 Pirfenidone binds to human plasma proteins, primarily to serum albumin.
 The overall mean binding ranged from 50% to 58% at concentrations observed in clinical studies (1 to 100 μg/ml).
 Mean apparent oral steady-state volume of distribution is approximately 70 l, indicating that pirfenidone distribution to tissues is modest.
+
 Biotransformation
 
 Approximately 70–80% of pirfenidone is metabolised via CYP1A2 with minor contributions from other CYP isoenzymes including CYP2C9, 2C19, 2D6, and 2E1.
@@ -56,7 +56,8 @@ The mean (SD) AUC0-∞ of 5-carboxy-pirfenidone was significantly higher in the 
 
 AUC0-∞ = area under the concentration-time curve from time zero to infinity.
 a p-value versus Normal = 1.00 (pair-wise comparison with Bonferroni) b p-value versus Normal = 0.009 (pair-wise comparison with Bonferroni) c p-value versus Normal < 0.0001 (pair-wise comparison with Bonferroni)
-Exposure to 5-carboxy-pirfenidone increases 3.5 fold or more in patients with moderate renal impairment.
+
+Exposure to 5-carboxy-pirfenidone increases 3.5-fold or more in patients with moderate renal impairment.
 Clinically relevant pharmacodynamic activity of the metabolite in patients with moderate renal impairment cannot be excluded.
 No dose adjustment is required in patients with mild renal impairment who are receiving pirfenidone.
 Pirfenidone should be used with caution in patients with moderate renal impairment.

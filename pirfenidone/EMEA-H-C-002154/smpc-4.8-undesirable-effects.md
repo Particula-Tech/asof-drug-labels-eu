@@ -23,6 +23,7 @@ Adverse reactions are listed by System Organ Class (SOC) and within each frequen
 | Metabolism and nutrition disorders |  |
 | Very Common | Anorexia |
 | Common | Weight decreased; decreased appetite |
+| Uncommon | Hyponatraemia1 |
 | Psychiatric disorders |  |
 | Common | Insomnia |
 | Nervous system disorders |  |
@@ -37,7 +38,7 @@ Adverse reactions are listed by System Organ Class (SOC) and within each frequen
 | Common | Gastroesophageal reflux disease; vomiting; abdominal distension; abdominal discomfort; abdominal pain; abdominal pain upper; stomach discomfort; gastritis; constipation; flatulence |
 | Hepatobiliary disorders |  |
 | Common | ALT increased; AST increased; gamma glutamyl transferase increased |
-| Rare | Total serum bilirubin increased in combination with increases of ALT and AST1 |
+| Uncommon | Total serum bilirubin increased in combination with increases of ALT and AST1; Drug-induced liver injury2 |
 | Skin and subcutaneous tissue disorders |  |
 | Very Common | Photosensitivity reaction; rash |
 | Common | Pruritus; erythema; dry skin; rash erythematous; rash macular; rash pruritic |
@@ -51,7 +52,14 @@ Adverse reactions are listed by System Organ Class (SOC) and within each frequen
 
 1.
 Identified through post-marketing surveillance
+2.
+Cases of severe drug-induced liver injury, including reports with fatal outcome have been identified through post-marketing surveillance (see sections 4.3, 4.4).
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+[Esbriet 267 mg film-coated tablets]
+
+Cases of severe drug-induced liver injury, including reports with fatal outcome have been identified through post-marketing surveillance (see section 4.3, 4.4).

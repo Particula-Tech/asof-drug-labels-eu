@@ -9,7 +9,7 @@ These hepatic findings are consistent with an induction of hepatic microsomal en
 These findings are not considered relevant to humans.
 
 A statistically significant increase in uterine tumours was observed in female rats administered 1,500 mg/kg/day, 37 times the human dose of 2,403 mg/day.
-The results of mechanistic studies indicate that the occurrence of uterine tumours is probably related to a chronic dopamine-mediated sex hormone imbalance involving a species specific endocrine mechanism in the rat which is not present in humans.
+The results of mechanistic studies indicate that the occurrence of uterine tumours is probably related to a chronic dopamine-mediated sex hormone imbalance involving a species-specific endocrine mechanism in the rat which is not present in humans.
 
 Reproductive toxicology studies demonstrated no adverse effects on male and female fertility or postnatal development of offspring in rats and there was no evidence of teratogenicity in rats
 (1,000 mg/kg/day) or rabbits (300 mg/kg/day).
@@ -17,7 +17,6 @@ In animals placental transfer of pirfenidone and/or its metabolites occurs with 
 At high doses (≥450 mg/kg/day) rats exhibited a prolongation of oestrous cycle and a high incidence of irregular cycles.
 At high doses (≥1,000 mg/kg/day) rats exhibited a prolongation of gestation and reduction in fetal viability.
 Studies in lactating rats indicate that pirfenidone and/or its metabolites are excreted in milk with the potential for accumulation of pirfenidone and/or its metabolites in milk.
-
 Pirfenidone showed no indication of mutagenic or genotoxic activity in a standard battery of tests and when tested under UV exposure was not mutagenic.
 When tested under UV exposure pirfenidone was positive in a photoclastogenic assay in Chinese hamster lung cells.
 

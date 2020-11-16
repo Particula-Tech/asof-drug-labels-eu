@@ -54,7 +54,6 @@ Treatment was administered three times daily for 52 weeks.
 The primary endpoint was the change from Baseline to Week 52 in percent predicted FVC.
 In a total of 555 patients, the median baseline percent predicted FVC and %DLCO were 68% (range: 48–91%) and 42% (range: 27–170%), respectively.
 Two percent of patients had percent predicted FVC below 50% and 21% of patients had a percent predicted DLCO below 35% at Baseline.
-
 In study PIPF-016, the decline of percent predicted FVC from Baseline at Week 52 of treatment was significantly reduced in patients receiving Esbriet (N=278) compared with patients receiving placebo (N=277; p<0.000001, rank ANCOVA).
 Treatment with Esbriet also significantly reduced the decline of percent predicted FVC from Baseline at Weeks 13 (p<0.000001), 26 (p<0.000001), and 39 (p=0.000002).
 At Week 52, a decline from Baseline in percent predicted FVC of ≥10% or death was seen in 17% of patients receiving Esbriet compared to 32% receiving placebo (Table 4).
