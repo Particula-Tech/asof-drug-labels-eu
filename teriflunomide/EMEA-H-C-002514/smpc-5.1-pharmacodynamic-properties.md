@@ -48,7 +48,7 @@ The median EDSS score at baseline was 2.50; 298 patients (25.5%) had an EDSS sco
 The mean duration of disease, since first symptoms, was 8.0 years.
 A majority of patients (67.2%) had not received disease-modifying therapy during the 2 years before study entry.
 The study results are shown in Table 1.
-Table 1 - Main Results ( for the approved dose, ITT population)
+Table 1 ­ Main Results ( for the approved dose, ITT population)
 
 |  | TEMSO-study |  | TOWER-study |  |
 | --- | --- | --- | --- | --- |

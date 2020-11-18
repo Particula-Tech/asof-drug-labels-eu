@@ -78,8 +78,10 @@ Metabolism and Dyslipidaem
 nutrition ia
 disorders
 Skin and Alopecia Rash, Acne Nail disorders Severe skin
-subcutaneous reactionsa
-tissue disorders
+subcutaneous reactionsa,
+tissue disorders Psoriasis
+(including
+pustular)b
 Musculoskeletal Musculoskeletal
 and connective pain,
 tissue disorders Myalgia,
@@ -117,18 +119,12 @@ Discontinuation because of alopecia was 1.3% in the teriflunomide 14 mg teriflun
 
 Hepatic effects
 During placebo-controlled studies the following was detected:
-
 ALT increase (based on laboratory data) according to baseline status - Safety population in placebo-controlled studies
 
 Placebo Teriflunomide 14 mg
 (N=997) (N=1002)
 >3 ULN 66/994 (6.6%) 80/999 (8.0%)
 >5 ULN 37/994 (3.7%) 31/999 (3.1%)
-
-ALT increase (based on laboratory data) according to baseline status - Safety population in placebo-controlled studies
-
-Placebo Teriflunomide 14 mg
-(N=997) (N=1002)
 >10 ULN 16/994 (1.6%) 9/999 (0.9%)
 >20 ULN 4/994 (0.4%) 3/999 (0.3%)
 ALT >3 ULN and TBILI >2 ULN 5/994 (0.5%) 3/999 (0.3%)
@@ -166,7 +162,7 @@ There does not appear to be an increased risk of malignancy with teriflunomide i
 The risk of malignancy, particularly lymphoproliferative disorders, is increased with use of some other agents that affect the immune system (class effect).
 
 Severe skin reactions
-Cases of severe skin reactions have been reported with teriflunomide post-marketing (see section 4.4).
+Cases of severe skin reactions have been reported with teriflunomide postmarketing (see section 4.4).
 
 Asthenia
 In placebo-controlled studies, frequencies for asthenia were 2.0%, 1.6% and 2.2% in the placebo, teriflunomide 7 mg and teriflunomide 14 mg group, respectively.

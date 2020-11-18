@@ -36,7 +36,6 @@ Both cholestyramine and activated powdered charcoal may influence the absorption
 Use of alternative contraceptive methods is recommended.
 
 Breast-feeding
-
 Animal studies have shown excretion of teriflunomide in milk.
 Teriflunomide is contraindicated during breast-feeding (see section 4.3).
 

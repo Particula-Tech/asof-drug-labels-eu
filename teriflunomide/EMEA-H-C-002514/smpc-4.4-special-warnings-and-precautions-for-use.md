@@ -83,6 +83,9 @@ In case of ulcerative stomatitis, teriflunomide administration should be discont
 If skin and /or mucosal reactions are observed which raise the suspicion of severe generalised major skin reactions (Stevens-Johnson syndrome, or toxic epidermal necrolysis-Lyell’s syndrome), teriflunomide and any other possibly associated treatment must be discontinued, and an accelerated procedure initiated immediately.
 In such cases patients should not be re-exposed to teriflunomide (see section 4.3).
 
+New onset of psoriasis (including pustular psoriasis) and worsening of pre-existing psoriasis have been reported during the use of teriflunomide.
+Treatment withdrawal and initiation of an accelerated elimination procedure may be considered taking into account patient’s disease and medical history.
+
 Peripheral neuropathy
 
 Cases of peripheral neuropathy have been reported in patients receiving AUBAGIO (see section 4.8).
@@ -94,13 +97,13 @@ Vaccination
 
 Two clinical studies have shown that vaccinations to inactivated neoantigen (first vaccination), or recall antigen (reexposure) were safe and effective during AUBAGIO treatment.
 The use of live attenuated vaccines may carry a risk of infections and should therefore be avoided.
-
 Immunosuppressive or immunomodulating therapies
 
 As leflunomide is the parent compound of teriflunomide, co-administration of teriflunomide with leflunomide is not recommended.
 Co-administration with antineoplastic or immunosuppressive therapies used for treatment of MS has not been evaluated.
 Safety studies, in which teriflunomide was concomitantly administered with interferon beta or with glatiramer acetate for up to one year did not reveal any specific safety concerns, but a higher adverse reaction rate as compared to teriflunomide monotherapy was observed.
 The long term safety of these combinations in the treatment of multiple sclerosis has not been established.
+
 Switching to or from AUBAGIO
 
 Based on the clinical data related to concomitant administration of teriflunomide with interferon beta or with glatiramer acetate, no waiting period is required when initiating teriflunomide after interferon beta or glatiramer acetate or when starting interferon beta or glatiramer acetate, after teriflunomide.
@@ -119,6 +122,10 @@ This may lead to an additive effect on the immune system and caution is, therefo
 Lactose
 
 Since AUBAGIO tablets contain lactose, patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption, should not take this medicinal product.
+
+Sodium
+
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially “sodium free”.
 
 Interference with determination of ionised calcium levels
 
