@@ -52,10 +52,10 @@ pressure glucose Hyperkaliemia
 
 Decreased heart rate
 Neutropenia
-
 Description of selected adverse reactions
 Concerning the lower respiratory tract infections like bronchitis or bronchiolitis, an aggravation of symptoms (including bronchospasm) has been observed in patients treated with HEMANGIOL due to the bronchoconstrictive effect of propranolol.
 These effects rarely led to definitive treatment discontinuation (see section 4.4).
+
 Sleep disorders corresponded to insomnia, poor quality of sleep and hypersomnia.
 Other Central Nervous System disorders were principally observed during the early periods of treatment.
 

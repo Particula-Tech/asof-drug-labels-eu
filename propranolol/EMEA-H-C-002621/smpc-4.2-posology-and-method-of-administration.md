@@ -8,7 +8,7 @@ The recommended starting dose is 1 mg/kg/day which is divided into two separate 
 It is recommended to increase the dose up to the therapeutic dose under medical supervision as follows: 1 mg/kg/day for 1 week, then 2 mg/kg/day for 1 week and then 3 mg/kg/day as a maintenance dose.
 The therapeutic dose is 3 mg/kg/day, which is to be administered into 2 separate doses of 1.5 mg/kg, one in the morning and one in late afternoon, with a time interval of at least 9 hours between two intakes.
 HEMANGIOL is to be given during or right after a feed to avoid the risk of hypoglycaemia.
-If the child is not eating or is vomiting it is recommended to skip the dose.
+If the child is not eating enough or is vomiting it is recommended to skip the dose.
 In case the child spits up a dose or does not take all of the medicinal product no other dose should be given before the next scheduled dose.
 
 During the titration phase, each dose increase must be managed and monitored by a physician in the same conditions as the administration of the initial dose.

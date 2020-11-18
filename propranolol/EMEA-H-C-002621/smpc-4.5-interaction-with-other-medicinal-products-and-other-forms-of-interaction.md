@@ -41,6 +41,7 @@ Concomitant use may reduce the reflex sympathetic response involved when excessi
 Antihypertensives (ACE Inhibitors, angiotensin II-receptors antagonists, diuretics, alpha-blockers whatever the indication, centrally-acting antihypertensives, reserpine, etc)
 When combined with beta-blockers, medicinal products that decrease arterial pressure can cause or increase hypotension, notably orthostatic.
 With regard to centrally-acting antihypertensives, beta-blockers may exacerbate the rebound hypertension after clonidine abrupt withdrawal, and propranolol should be stopped several days before discontinuing clonidine.
+
 Non-cardiovascular medicinal products
 
 Corticosteroids

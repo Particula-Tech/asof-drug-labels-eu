@@ -6,6 +6,29 @@ An analysis of the medical history and a full clinical examination must be perfo
 In case of suspected cardiac abnormality, a specialist advice must be sought before treatment initiation to determine any subjacent contra-indication.
 In case of acute broncho-pulmonary abnormality, the initiation of the treatment should be postponed.
 
+Hypoglycaemia
+Propranolol prevents the response of endogenous catecholamines to correct hypoglycaemia.
+It masks the adrenergic warning signs of hypoglycaemia, particularly tachycardia, shakiness, anxiety and hunger.
+It can aggravate hypoglycaemia in children, especially during fasting period (e.g. poor oral food intake, infection, vomiting), when glucose demands are increased (cold, stress, infections), or in case of overdose.
+Hypoglycaemic episodes associated with the taking of propranolol may present exceptionally in the form of seizures and/or coma.
+If clinical signs of hypoglycaemia occur, it is necessary to make the child drink a sugary liquid solution and to temporarily stop the treatment.
+Appropriate monitoring of the child is required until symptoms disappear.
+
+Prescribers should inform carers/parents on the risk of serious hypoglycaemia that remains equally prominent throughout the whole treatment period. and emphasize the need to respect the dosing recommendations (see section 4.2).
+
+Carers should be provided guidance on how to recognise the clinical signs of hypoglycaemia in order to :
+
+- immediately treat the hypoglycaemic condition to prevent life-threatening situations,
+- contact a doctor or to go straight to hospital,
+- discontinue the treatment.
+
+In children with diabetes, blood glucose monitoring should be more frequent and followed by the endocrinologist.
+
+Respiratory disorders
+In the event of lower respiratory tract infection associated with dyspnoea and wheezing, treatment should be temporarily discontinued.
+The administration of beta2 agonists and inhaled corticosteroids is possible.
+The readministration of propranolol may be considered when the child has fully recovered; in case of reoccurrence, treatment should be permanently discontinued.
+In the event of isolated bronchospasm, treatment must be permanently discontinued.
 Cardiovascular disorders
 Propranolol, due to its pharmacological action, may cause or worsen bradycardia or blood pressure abnormalities.
 Bradycardia should be diagnosed if the heart rate declines by more than 30 bpm from baseline.
@@ -15,24 +38,10 @@ Bradycardia is defined below the following limits:
 | --- | --- | --- | --- |
 | Heart rate (beats/min) | 100 | 90 | 80 |
 
-After the first intake and each dose increase, a clinical monitoring, including blood pressure and heart rate must be performed at least hourly for at least 2 hours.
+After the first intake and each dose increase, a clinical monitoring including blood pressure and heart rate must be performed at least hourly for at least 2 hours.
 In case of symptomatic bradycardia or bradycardia under 80 bpm, immediate specialist advice must be sought.
 In case of severe and/or symptomatic bradycardia or hypotension occurring at any time during treatment, treatment must be discontinued and a specialist advice should be sought.
 
-Hypoglycaemia
-Propranolol prevents the response of endogenous catecholamines to correct hypoglycaemia.
-It masks the adrenergic warning signs of hypoglycaemia, particularly tachycardia, shakiness, anxiety and hunger.
-It can aggravate hypoglycaemia in children, especially in case of fasting, vomiting or overdose.
-These hypoglycaemic episodes associated with the taking of propranolol may present exceptionally in the form of seizures and/or coma.
-If clinical signs of hypoglycaemia occur, it is necessary to make the child drink a sugary liquid solution and to temporarily stop the treatment.
-Appropriate monitoring of the child is required until symptoms disappear.
-In children with diabetes, blood glucose monitoring should be more frequent and followed by the endocrinologist.
-
-Respiratory disorders
-In the event of lower respiratory tract infection associated with dyspnoea and wheezing, treatment should be temporarily discontinued.
-The administration of beta2 agonists and inhaled corticosteroids is possible.
-The readministration of propranolol may be considered when the child has fully recovered; in case of reoccurrence, treatment should be permanently discontinued.
-In the event of isolated bronchospasm, treatment must be permanently discontinued.
 Cardiac failure:
 Sympathetic stimulation may be a vital component supporting circulatory function in patients with congestive heart failure, and its inhibition by beta blockade may precipitate more severe failure.
 In children with cardiac failure, the treatment should be managed by the cardiologist.
@@ -66,7 +75,6 @@ A monitoring of electrolyte should be performed in these patients.
 Psoriasis
 Worsening of disease has been reported with beta-blockers in patients suffering from psoriasis.
 Therefore the need for treatment should be carefully weighed up.
-
 Excipients with known effects
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially ‘sodium-free’.
 This medicinal product contains 2.08 mg of propylene glycol/kg/day.
