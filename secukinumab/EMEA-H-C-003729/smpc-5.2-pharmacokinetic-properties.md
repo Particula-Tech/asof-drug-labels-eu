@@ -60,8 +60,4 @@ The mean ± SD steady-state trough concentration in patients weighing <25 kg (n=
 
 [Cosentyx 150 mg solution for injection in pre-filled syringe]
 
-(all sentences already above)
-
-[Cosentyx 150 mg solution for injection in pre-filled pen]
-
-At week 24, patients weighing ≥25 and <50 kg, had a mean ± SD steady-state trough concentration of 19.8 ± 6.96 µg/ml (n=24) after 75 mg of secukinumab and patients weighing ≥50 kg had mean ±SD trough concentration of 27.3 ± 10.1 µg/ml (n=36) after 150 mg of secukinumab.
+Following a single subcutaneous injection of 300 mg solution for injection in pre-filled syringe in plaque psoriasis patients, secukinumab systemic exposure was similar to what was observed previously with two injections of 150 mg.

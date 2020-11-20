@@ -11,7 +11,3 @@ From a microbiological point of view, unless the method of reconstitution preclu
 
 18 months
 If necessary, Cosentyx may be stored unrefrigerated for a single period of up to 4 days at room temperature, not above 30°C.
-
-[Cosentyx 150 mg solution for injection in pre-filled pen]
-
-(all sentences already above)

@@ -17,10 +17,10 @@ In clinical studies, infections have been observed in patients receiving secukin
 Most of these were mild or moderate upper respiratory tract infections such as nasopharyngitis and did not require treatment discontinuation.
 
 Related to the mechanism of action of secukinumab, non-serious mucocutaneous candida infections were more frequently reported for secukinumab than placebo in the psoriasis clinical studies (3.55 per 100 patient years for secukinumab 300 mg versus 1.00 per 100 patient years for placebo) (see section 4.8).
+
 No increased susceptibility to tuberculosis was reported from clinical studies.
 However, secukinumab should not be given to patients with active tuberculosis.
 Anti-tuberculosis therapy should be considered prior to initiation of secukinumab in patients with latent tuberculosis.
-
 Inflammatory bowel disease (including Crohn’s disease and ulcerative colitis)
 
 Cases of new or exacerbations of inflammatory bowel disease have been reported with secukinumab (see section 4.8).
@@ -50,14 +50,8 @@ Caution should be exercised when considering concomitant use of other immunosupp
 
 [Cosentyx 150 mg solution for injection in pre-filled syringe]
 
-Latex-sensitive individuals
+Latex-sensitive individuals – Cosentyx 150 mg solution for injection in pre-filled syringe and 150 mg solution for injection in pre-filled pen only
 
-The removable needle cap of the Cosentyx pre-filled syringe contains a derivative of natural rubber latex.
+The removable needle cap of Cosentyx 150 mg solution for injection in pre-filled syringe and Cosentyx 150 mg solution for injection in pre-filled pen contains a derivative of natural rubber latex.
 No natural rubber latex has to date been detected in the removable needle cap.
-Nevertheless, the use of Cosentyx pre-filled syringes in latex-sensitive individuals has not been studied and there is therefore a potential risk of hypersensitivity reactions which cannot be completely ruled out.
-
-[Cosentyx 150 mg solution for injection in pre-filled pen]
-
-The removable cap of the Cosentyx pre-filled pen contains a derivative of natural rubber latex.
-No natural rubber latex has to date been detected in the removable cap.
-Nevertheless, the use of Cosentyx pre-filled pens in latex-sensitive individuals has not been studied and there is therefore a potential risk for hypersensitivity reactions which cannot be completely ruled out.
+Nevertheless, the use of Cosentyx 150 mg solution for injection in pre-filled syringe and Cosentyx 150 mg solution for injection in pre-filled pen in latex-sensitive individuals has not been studied and there is therefore a potential risk of hypersensitivity reactions which cannot be completely ruled out.

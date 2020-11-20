@@ -9,7 +9,3 @@ The powder is a white solid lyophilisate.
 Solution for injection (injection)
 
 The solution is clear and colourless to slightly yellow.
-
-[Cosentyx 150 mg solution for injection in pre-filled pen]
-
-Solution for injection in pre-filled pen (SensoReady pen)

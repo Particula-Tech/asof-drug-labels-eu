@@ -44,17 +44,26 @@ Detailed instructions for use are provided in the package leaflet.
 
 [Cosentyx 150 mg solution for injection in pre-filled syringe]
 
+Cosentyx 150 mg solution for injection in pre-filled syringe
+
 Cosentyx 150 mg solution for injection is supplied in a single-use pre-filled syringe for individual use.
 The syringe should be taken out of the refrigerator 20 minutes before injecting to allow it to reach room temperature.
 
-Prior to use, a visual inspection of the pre-filled syringe is recommended.
-The liquid should be clear.
-You may see a small air bubble, which is normal.
-Do not use if the liquid contains easily visible particles, is cloudy or is distinctly brown.
+Cosentyx 300 mg solution for injection in pre-filled syringe
 
-[Cosentyx 150 mg solution for injection in pre-filled pen]
+Cosentyx 300 mg solution for injection is supplied in a single-use pre-filled syringe for individual use.
+The syringe should be taken out of the refrigerator 30-45 minutes before injecting to allow it to reach room temperature.
+
+Cosentyx 150 mg solution for injection in pre-filled pen
 
 Cosentyx 150 mg solution for injection is supplied in a single-use pre-filled pen for individual use.
 The pen should be taken out of the refrigerator 20 minutes before injecting to allow it to reach room temperature.
 
-Prior to use, a visual inspection of the pre-filled pen is recommended.
+Cosentyx 300 mg solution for injection in pre-filled pen
+
+Cosentyx 300 mg solution for injection is supplied in a single-use pre-filled pen for individual use.
+The pen should be taken out of the refrigerator 30-45 minutes before injecting to allow it to reach room temperature.
+Prior to use, a visual inspection of the pre-filled syringe or pre-filled pen is recommended.
+The liquid should be clear.
+You may see a small air bubble, which is normal.
+Do not use if the liquid contains easily visible particles, is cloudy or is distinctly brown.

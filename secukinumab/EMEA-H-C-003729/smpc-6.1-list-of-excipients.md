@@ -10,7 +10,3 @@ Polysorbate 80
 Trehalose dihydrate
 Methionine
 Water for injections
-
-[Cosentyx 150 mg solution for injection in pre-filled pen]
-
-(all sentences already above)

@@ -6,8 +6,4 @@ For storage conditions after reconstitution of the medicinal product, see sectio
 [Cosentyx 150 mg solution for injection in pre-filled syringe]
 
 Do not freeze.
-Store the syringes in the original package in order to protect from light.
-
-[Cosentyx 150 mg solution for injection in pre-filled pen]
-
-Store the pens in the original package in order to protect from light.
+Store in the original package in order to protect from light.

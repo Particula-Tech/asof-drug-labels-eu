@@ -24,6 +24,7 @@ This is followed by a slow decrease due to reduced clearance of secukinumab-boun
 In a study with secukinumab, infiltrating epidermal neutrophils and various neutrophil-associated markers that are increased in lesional skin of plaque psoriasis patients were significantly reduced after one to two weeks of treatment.
 
 Secukinumab has been shown to lower (within 1 to 2 weeks of treatment) levels of C-reactive protein, which is a marker of inflammation.
+
 Clinical efficacy and safety
 
 Adult plaque psoriasis
@@ -33,7 +34,6 @@ In addition, one study assessed a chronic treatment regimen versus a “retreatm
 
 Of the 2,403 patients who were included in the placebo-controlled studies, 79% were biologic-naive, 45% were non-biologic failures and 8% were biologic failures (6% were anti-TNF failures, and 2% were anti-p40 failures).
 Approximately 15 to 25% of patients in phase III studies had psoriatic arthritis (PsA) at baseline.
-
 Psoriasis study 1 (ERASURE) evaluated 738 patients.
 Patients randomised to secukinumab received 150 mg or 300 mg doses at weeks 0, 1, 2, 3 and 4, followed by the same dose every month.
 Psoriasis study 2 (FIXTURE) evaluated 1,306 patients.
@@ -253,9 +253,9 @@ PsA study 3 (FUTURE 5) evaluated 996 patients, of whom 50.1% had concomitant MTX
 Patients were randomised to receive secukinumab 150 mg, 300 mg or placebo subcutaneously at weeks 0, 1, 2, 3 and 4, followed by the same dose every month, or a once monthly injection of secukinumab 150 mg (without loading).
 Patients randomised to receive placebo who were non-responders at week 16 (early rescue) were then crossed over to receive secukinumab (either 150 mg or 300 mg subcutaneously) at week 16 followed by the same dose every month.
 Patients randomised to receive placebo who were responders at week 16 were crossed over to receive secukinumab (either 150 mg or 300 mg subcutaneously) at week 24 followed by the same dose every month.
+
 Signs and symptoms
 Treatment with secukinumab resulted in significant improvement in measures of disease activity compared to placebo at weeks 16 and 24 (see Table 6).
-
 Table 6 Clinical response in PsA study 2 and PsA study 3 at week 16 and week 24
 
 |  | PsA study 2 PsA study 3 |  |
@@ -355,9 +355,9 @@ Patients randomised to secukinumab received 10 mg/kg intravenously at weeks 0, 2
 At week 16, patients who were randomised to placebo at baseline were re-randomised to receive secukinumab (either 150 mg or 300 mg subcutaneously) every month.
 The primary endpoint was ASAS 20 at week 16.
 Patients were blinded to the treatment regimen up to week 52, and the study continued to week 156.
+
 Signs and symptoms:
 In AS study 2, treatment with secukinumab 150 mg resulted in greater improvement in measures of disease activity compared with placebo at week 16 (see Table 8).
-
 Table 8 Clinical response in AS study 2 at week 16
 
 | Outcome (p-value versus placebo) | Placebo (n = 74) | 75 mg (n = 73) | 150 mg (n = 72) |
@@ -385,10 +385,10 @@ During the blinded period, the ASAS 20 and ASAS 40 responses were 69.7% and 47.6
 The ASAS 20 and ASAS 40 responses were maintained up to week 156 (69.5% and 47.6% for 150 mg versus 74.8% and 55.6% for 300 mg).
 Greater response rates favouring 300 mg were also observed for ASAS partial remission (ASAS PR) response at week 16 and were maintained up to week 156.
 Larger differences in response rates, favouring 300 mg over 150 mg, were observed in anti-TNFα-IR patients (n=36) compared to anti-TNFα-naïve patients (n=114).
+
 Spinal mobility:
 Patients treated with secukinumab 150 mg showed improvements in spinal mobility as measured by change from baseline in BASMI at week 16 for both AS study 1 (-0.40 versus -0.12 for placebo; p=0.0114) and AS study 2 (-0.51 versus -0.22 for placebo; p=0.0533).
 These improvements were sustained up to week 52.
-
 Physical function and health-related quality of life:
 In AS study 1 and study 2, patients treated with secukinumab 150 mg showed improvements in health-related quality of life as measured by AS Quality of Life Questionnaire (ASQoL) (p=0.001) and SF-36 Physical Component Summary (SF-36PCS) (p<0.001).
 Patients treated with secukinumab 150 mg also showed statistically significant improvements on exploratory endpoints in physical function as assessed by the Bath Ankylosing Spondylitis Functional Index (BASFI) compared to placebo (-2.15 versus -0.68), and in fatigue as assessed by the Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-Fatigue) scale compared to placebo (8.10 versus 3.30).
@@ -578,7 +578,3 @@ The European Medicines Agency has deferred the obligation to submit the results 
 [Cosentyx 150 mg solution for injection in pre-filled syringe]
 
 * Patients treated with secukinumab received 300 mg doses at weeks 0, 1, 2 3 and 4, followed by the same dose every 4 weeks until week 52.
-
-[Cosentyx 150 mg solution for injection in pre-filled pen]
-
-(all sentences already above)

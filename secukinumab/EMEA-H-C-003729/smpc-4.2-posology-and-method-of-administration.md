@@ -43,11 +43,11 @@ The recommended dose is 150 mg by subcutaneous injection with initial dosing at 
 For all of the above indications, available data suggest that a clinical response is usually achieved within 16 weeks of treatment.
 Consideration should be given to discontinuing treatment in patients who have shown no response by 16 weeks of treatment.
 Some patients with an initial partial response may subsequently improve with continued treatment beyond 16 weeks.
+
 Special populations
 
 Elderly patients (aged 65 years and over)
 No dose adjustment is required (see section 5.2).
-
 Renal impairment / hepatic impairment
 Cosentyx has not been studied in these patient populations.
 No dose recommendations can be made.
@@ -69,18 +69,14 @@ For instructions on reconstitution of the medicinal product before administratio
 
 [Cosentyx 150 mg solution for injection in pre-filled syringe]
 
+Each 300 mg dose is given as one subcutaneous injection of 300 mg or as two subcutaneous injections of 150 mg.
+
 The 150 mg solution for injection in pre-filled syringe is not indicated for administration to paediatric patients with a weight <50 kg.
 The 150 mg powder for solution for injection presentation is appropriate for administration to this population.
 
-The solution/the syringe must not be shaken.
+The solution in the syringe or pen must not be shaken.
 
 After proper training in subcutaneous injection technique, patients may self-inject Cosentyx or be injected by a caregiver if a physician determines that this is appropriate.
 However, the physician should ensure appropriate follow-up of patients.
 Patients or caregivers should be instructed to inject the full amount of Cosentyx according to the instructions provided in the package leaflet.
 Comprehensive instructions for administration are given in the package leaflet.
-
-[Cosentyx 150 mg solution for injection in pre-filled pen]
-
-The 150 mg solution for injection in pre-filled pen is not indicated for administration to paediatric patients with a weight <50 kg.
-
-The solution/the pen must not be shaken.

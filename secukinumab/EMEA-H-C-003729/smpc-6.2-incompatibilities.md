@@ -5,7 +5,3 @@ This medicinal product must not be mixed with other medicinal products except th
 [Cosentyx 150 mg solution for injection in pre-filled syringe]
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
-
-[Cosentyx 150 mg solution for injection in pre-filled pen]
-
-(all sentences already above)
