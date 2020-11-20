@@ -20,7 +20,6 @@ These changes were not considered clinically relevant.
 
 Nivolumab in combination with ipilimumab and chemotherapy
 When nivolumab 360 mg every 3 weeks was administered in combination with ipilimumab 1 mg/kg every 6 weeks and with 2 cycles of chemotherapy, the CL of nivolumab decreased approximately 10% and the CL of ipilimumab increased approximately 22%, which were not considered clinically relevant.
-
 Special populations
 
 A population PK analysis suggested no difference in CL of nivolumab based on age, gender, race, solid tumour type, tumour size, and hepatic impairment.

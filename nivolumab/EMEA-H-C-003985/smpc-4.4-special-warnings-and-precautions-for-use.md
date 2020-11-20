@@ -217,6 +217,15 @@ Urothelial carcinoma
 Patients with a baseline performance score ≥2, active brain metastases or leptomeningeal metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trials of urothelial carcinoma (see sections 4.5 and 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
+Oesophageal squamous cell carcinoma
+The majority of clinical data available in oesophageal squamous cell carcinoma are in patients of Asian origin (see section 5.1).
+Patients with a baseline performance score ≥ 2, brain metastases that were symptomatic or required treatment, apparent tumour invasion in organs located adjacent to the oesophagus (e.g. the aorta or respiratory tract), active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical study in OSCC (see sections 4.5 and 5.1).
+In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+
+Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with OSCC.
+A higher number of deaths within 2.5 months after randomisation was observed with nivolumab compared to chemotherapy.
+No specific factor(s) associated with early deaths could be identified (see section 5.1).
+
 Patients on controlled sodium diet
 Each mL of this medicinal product contains 0.1 mmol (or 2.5 mg) sodium.
 This medicinal product contains 10 mg sodium per 4 ml vial, 25 mg sodium per 10 ml vial or 60 mg sodium per 24 ml vial, which is equivalent to 0.5%, 1.25% or 3% respectively, of the WHO recommended maximum daily intake of 2 g sodium for an adult.

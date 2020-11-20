@@ -253,6 +253,7 @@ p < 0.0001).
 The median PFS was 11.5 months in the nivolumab in combination with ipilimumab group, as compared with 2.9 months in the ipilimumab group (HR = 0.42, 99.5% CI: 0.31, 0.57;
 p < 0.0001).
 PFS results from descriptive analysis (with minimum follow up of 60 months) are shown in Figure 2 (all randomised population), Figure 3 (at the tumour PD-L1 5% cut off), and Figure 4 (at the tumour PD-L1 1% cut off).
+
 Figure 2: Progression-free survival (CA209067)
 
 Progression-free survival per investigator (months)
@@ -1551,6 +1552,76 @@ CA209032 was a Phase 1/2 open-label multi-cohort study which included a cohort o
 At a minimum follow-up of 9 months, investigator-assessed confirmed ORR was 24.4% (95% CI: 15.3, 35.4).
 The median duration of response was not reached (range: 4.4-16.6+ months).
 The median OS was 9.7 months (95% CI:7.26, 16.16) and the estimated OS rates were 69.2% (CI: 57.7, 78.2) at 6 months and 45.6% (CI: 34.2, 56.3) at 12 months.
+
+Oesophageal squamous cell carcinoma
+
+The safety and efficacy of nivolumab 240 mg monotherapy for the treatment of unresectable advanced, recurrent or metastatic oesophageal squamous cell carcinoma (OSCC) was evaluated in a phase 3 randomised active-controlled, open-label study (ONO-4538-24/CA209473).
+The study included adult patients (20 years or older) who were refractory or intolerant to at least one fluoropyrimidine- and platinum-based combination regimen, and patients were enrolled regardless of tumour PD-L1 expression level.
+Patients who were refractory or intolerant to taxane therapy, had brain metastases that were symptomatic or required treatment, had active autoimmune disease, medical conditions requiring systemic immunosuppression, and patients with apparent tumour invasion in organs located adjacent to the oesophagus (e.g. the aorta or respiratory tract), were excluded from the study.
+
+A total of 419 patients were randomised 1:1 to receive either nivolumab 240 mg administered intravenously over 30 minutes every 2 weeks (n=210) or investigator’s choice of taxane chemotherapy: either docetaxel (n=65) 75 mg/m2 intravenously every 3 weeks, or paclitaxel (n=144) 100 mg/m2 intravenously once a week for 6 weeks followed by 1 week off.
+Randomisation was stratified by location (Japan vs. rest of world), number of organs with metastases (≤1 vs. ≥2) and tumour PD-L1 expression (≥1% vs. <1% or indeterminate).
+Treatment continued until disease progression, assessed by the investigator per RECIST version 1.1, or unacceptable toxicity.
+Tumour assessments were conducted every 6 weeks for 1 year, and every 12 weeks thereafter.
+Treatment beyond initial investigator-assessed progression was permitted in patients receiving nivolumab with no rapid progression, investigator-assessed benefit, tolerance to treatment, stable performance status, and for whom treatment beyond progression would not delay an imminent intervention to prevent serious complications associated with disease progression (e.g brain metastasis).
+The primary efficacy outcome measure was OS.
+Key secondary efficacy outcome measures were investigator-assessed ORR and PFS.
+Additional prespecified subgroup analyses were conducted to evaluate the efficacy by tumour PD-L1 expression at a predefined level of 1%.
+Tumour PD-L1 expression was determined using the PD-L1 IHC 28-8 pharmDx assay.
+
+Baseline characteristics were generally balanced between the two groups.
+The median age was 65 years (range: 33 to 87 years), 53% were ≥65 years of age, 10% were aged ≥75 years, 87% were male, 96% were Asian and 4% were white.
+Baseline ECOG performance status was 0 (50%) or 1 (50%).
+
+With a minimum follow-up of 17.6 months, the study demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with investigator’s choice taxane chemotherapy.
+Efficacy results are shown in Table 29 and Figure 15.
+
+A higher proportion of patients experienced death within the first 2.5 months in the nivolumab arm (32/210, 15.2%) as compared to the chemotherapy arm (15/209, 7.2%).
+No specific factor(s) associated with early deaths could be identified.
+Table 29: Efficacy results (ONO-4538-24/CA209473)
+
+nivolumab investigator’s choice
+(n = 210) (n = 209)
+
+Overall Survivala
+
+Events (%) 160 (76%) 173 (83%)
+Hazard ratio (95% CI)b 0.77 (0.62, 0.96)
+p-valuec 0.0189
+Median (95% CI) (months) 10.9 (9.2, 13.3) 8.4 (7.2, 9.9)
+Objective Response Rated,e 33 (19.3%) 34 (21.5%)
+(95% CI) (13.7, 26.0) (15.4, 28.8)
+Complete response 1 (0.6%) 2 (1.3%)
+Partial response 32 (18.7%) 32 (20.3%)
+Stable disease 31 (18.1%) 65 (41.1%)
+Median duration of response (95% CI) (months) 6.9 (5.4, 11.1) 3.9 (2.8, 4.2)
+
+Progression-Free Survivala
+
+Events (%) 187 (89%) 176 (84%)
+Median (95% CI) (months) 1.7 (1.5, 2.7) 3.4 (3.0, 4.2)
+Hazard ratio (95% CI)b 1.1 (0.9, 1.3)
+
+a Based on ITT analysis.
+b Based on a stratified proportional hazards model.
+c Based on a stratified log-rank test.
+d Based on Response Evaluable Set (RES) analysis, n=171 in nivolumab group and n=158 in investigator’s choice group.
+e Not significant, p-value 0.6323.
+
+Figure 15: Kaplan-Meier curves of OS (ONO-4538-24/CA209473)
+
+Overall Survival (Months)
+
+Number of Subjects at Risk
+Nivolumab
+210 182 167 147 126 111 95 82 70 60 43 25 17 13 7 4 3 0 0 Investigator’s choice
+209 196 169 126 105 84 68 57 49 40 27 17 12 6 2 1 1 1 0
+
+──── Nivolumab - - - - - - Investigator’s choice
+Of the 419 patients, 48% had tumour PD-L1 expression ≥1%.
+The remaining 52% of patients had tumour PD-L1 expression <1%.
+The hazard ratio (HR) for OS was 0.69 (95% CI: 0.51, 0.94) with median survivals of 10.9 and 8.1 months for the nivolumab and investigator’s choice taxane chemotherapy arms, respectively, in the tumour PD-L1 positive subgroup.
+In the tumour PD-L1 negative OSCC subgroup, the HR for OS was 0.84 (95% CI: 0.62, 1.14) with median survivals of 10.9 and 9.3 months for the nivolumab and chemotherapy arms, respectively.
 
 Safety and efficacy in elderly patients
 No overall differences in safety or efficacy were reported between elderly (≥ 65 years) and younger patients (< 65 years).

@@ -32,3 +32,7 @@ OPDIVO as monotherapy is indicated for the treatment of recurrent or metastatic 
 Urothelial carcinoma
 
 OPDIVO as monotherapy is indicated for the treatment of locally advanced unresectable or metastatic urothelial carcinoma in adults after failure of prior platinum-containing therapy.
+
+Oesophageal squamous cell carcinoma (OSCC)
+
+OPDIVO as monotherapy is indicated for the treatment of adult patients with unresectable advanced, recurrent or metastatic oesophageal squamous cell carcinoma after prior fluoropyrimidine- and platinum-based combination chemotherapy.

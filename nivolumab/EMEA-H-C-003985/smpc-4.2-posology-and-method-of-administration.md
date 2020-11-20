@@ -11,15 +11,10 @@ Table 1: Recommended dose and infusion time for intravenous administration of ni
 
 | Indication* | Recommended dose and infusion time |
 | --- | --- |
-| Melanoma (advanced or adjuvant treatment) | 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 60 minutes |
-| Renal cell carcinoma | 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 60 minutes |
-| Non-small cell lung cancer | 240 mg every 2 weeks over 30 minutes |
-| Classical Hodgkin lymphoma | 240 mg every 2 weeks over 30 minutes |
-| Squamous cell cancer of the head and neck | 240 mg every 2 weeks over 30 minutes |
-| Urothelial carcinoma | 240 mg every 2 weeks over 30 minutes |
+| Melanoma (advanced or adjuvant treatment) Renal cell carcinoma | 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 60 minutes |
+| Non-small cell lung cancer Classical Hodgkin lymphoma Squamous cell cancer of the head and neck Urothelial carcinoma Oesophageal squamous cell carcinoma | 240 mg every 2 weeks over 30 minutes |
 
 *As per monotherapy indication in section 4.1.
-
 If melanoma or RCC patients need to be switched from the 240 mg every 2 weeks schedule to the 480 mg every 4 weeks schedule, the first 480 mg dose should be administered two weeks after the last 240 mg dose.
 Conversely, if patients need to be switched from the 480 mg every 4 weeks schedule to the 240 mg every 2 weeks schedule, the first 240 mg dose should be administered four weeks after the last 480 mg dose.
 
@@ -88,12 +83,12 @@ Table 4: Recommended treatment modifications for OPDIVO or OPDIVO in combination
 | Immune-related hepatitis | Grade 2 elevation in aspartate aminotransferase (AST), alanine aminotransferase (ALT), or total bilirubin | Withhold dose(s) until laboratory values return to baseline and management with corticosteroids, if needed, is complete |
 |  | Grade 3 or 4 elevation in AST, ALT, or total bilirubin | Permanently discontinue treatment |
 | Immune-related nephritis and renal dysfunction | Grade 2 or 3 creatinine elevation | Withhold dose(s) until creatinine returns to baseline and management with corticosteroids is complete |
-|  | Grade 4 creatinine elevation | Permanently discontinue treatment |
 
 Table 4: Recommended treatment modifications for OPDIVO or OPDIVO in combination with ipilimumab
 
 | Immune-related adverse reaction | Severity | Treatment modification |
 | --- | --- | --- |
+|  | Grade 4 creatinine elevation | Permanently discontinue treatment |
 | Immune-related endocrinopathies | Symptomatic Grade 2 or 3 hypothyroidism, hyperthyroidism, hypophysitis, Grade 2 adrenal insufficiency Grade 3 diabetes | Withhold dose(s) until symptoms resolve and management with corticosteroids (if needed for symptoms of acute inflammation) is complete. Treatment should be continued in the presence of hormone replacement therapyb as long as no symptoms are present |
 |  | Grade 4 hypothyroidism Grade 4 hyperthyroidism Grade 4 hypophysitis Grade 3 or 4 adrenal insufficiency Grade 4 diabetes | Permanently discontinue treatment |
 | Immune-related skin adverse reactions | Grade 3 rash | Withhold dose(s) until symptoms resolve and management with corticosteroids is complete |
