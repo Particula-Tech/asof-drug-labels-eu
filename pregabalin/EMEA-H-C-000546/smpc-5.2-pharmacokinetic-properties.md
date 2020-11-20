@@ -33,7 +33,6 @@ Pregabalin pharmacokinetics are linear over the recommended daily dose range.
 Inter-subject pharmacokinetic variability for pregabalin is low (< 20%).
 Multiple dose pharmacokinetics are predictable from single-dose data.
 Therefore, there is no need for routine monitoring of plasma concentrations of pregabalin.
-
 Gender
 Clinical trials indicate that gender does not have a clinically significant influence on the plasma concentrations of pregabalin.
 

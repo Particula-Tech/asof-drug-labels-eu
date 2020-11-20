@@ -15,7 +15,6 @@ Efficacy has not been studied in other models of neuropathic pain.
 
 Pregabalin has been studied in 10 controlled clinical trials of up to 13 weeks with twice a day dosing (BID) and up to 8 weeks with three times a day (TID) dosing.
 Overall, the safety and efficacy profiles for BID and TID dosing regimens were similar.
-
 In clinical trials up to 12 weeks for both peripheral and central neuropathic pain, a reduction in pain was seen by Week 1 and was maintained throughout the treatment period.
 
 In controlled clinical trials in peripheral neuropathic pain 35% of the pregabalin treated patients and 18% of the patients on placebo had a 50% improvement in pain score.
@@ -34,7 +33,7 @@ A reduction in seizure frequency was observed by Week 1.
 Paediatric population
 The efficacy and safety of pregabalin as adjunctive treatment for epilepsy in paediatric patients below the age of 12 and adolescents has not been established.
 The adverse events observed in a pharmacokinetic and tolerability study that enrolled patients from 3 months to 16 years of age (n=65) with partial onset seizures were similar to those observed in adults.
-Results of a 12-week placebo-controlled study of 295 paediatric patients aged 4 to 16 years and a 14-day placebo-controlled study of 175 paediatric patients aged 1 month to younger than 4 years of age performed to evaluate the efficacy and safety of pregabalin as adjunctive therapy for the treatment of partial onset seizures and a 1 year open label safety study in 54 paediatric patients from 3 months to 16 years of age with epilepsy indicate that the adverse events of pyrexia and upper respiratory infections were observed more frequently than in adult studies of patients with epilepsy (see sections 4.2, 4.8 and 5.2).
+Results of a 12-week placebo-controlled study of 295 paediatric patients aged 4 to 16 years and a 14-day placebo-controlled study of 175 paediatric patients aged 1 month to younger than 4 years of age performed to evaluate the efficacy and safety of pregabalin as adjunctive therapy for the treatment of partial onset seizures and two 1 year open label safety studies in 54 and 431 paediatric patients respectively, from 3 months to 16 years of age with epilepsy indicate that the adverse events of pyrexia and upper respiratory infections were observed more frequently than in adult studies of patients with epilepsy (see sections 4.2, 4.8 and 5.2).
 
 In the 12-week placebo-controlled study, paediatric patients (4 to 16 years of age) were assigned to pregabalin 2.5 mg/kg/day (maximum, 150 mg/day), pregabalin 10 mg/kg/day (maximum,
 600 mg/day), or placebo.
@@ -51,10 +50,10 @@ Pregabalin and lamotrigine were similarly safe and well tolerated.
 
 Generalised Anxiety Disorder
 Pregabalin has been studied in 6 controlled trials of 4-6 week duration, an elderly study of 8 week duration and a long-term relapse prevention study with a double-blind relapse prevention phase of 6 months duration.
-
 Relief of the symptoms of GAD as reflected by the Hamilton Anxiety Rating Scale (HAM-A) was observed by Week 1.
 
 In controlled clinical trials (4-8 week duration) 52% of the pregabalin treated patients and 38% of the patients on placebo had at least a 50% improvement in HAM-A total score from baseline to endpoint.
+
 In controlled trials, a higher proportion of patients treated with pregabalin reported blurred vision than did patients treated with placebo which resolved in a majority of cases with continued dosing.
 Ophthalmologic testing (including visual acuity testing, formal visual field testing and dilated funduscopic examination) was conducted in over 3600 patients within controlled clinical trials.
 In these patients, visual acuity was reduced in 6.5% of patients treated with pregabalin, and 4.8% of placebo-treated patients.

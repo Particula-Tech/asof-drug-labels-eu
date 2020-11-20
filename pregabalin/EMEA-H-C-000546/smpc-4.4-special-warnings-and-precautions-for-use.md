@@ -44,13 +44,18 @@ In the treatment of central neuropathic pain due to spinal cord injury the incid
 This may be attributed to an additive effect due to concomitant medicinal products (e.g. anti-spasticity agents) needed for this condition.
 This should be considered when prescribing pregabalin in this condition.
 
+Respiratory depression
+There have been reports of severe respiratory depression in relation to pregabalin use.
+Patients with compromised respiratory function, respiratory or neurological disease, renal impairment, concomitant use of CNS depressants and the elderly may be at higher risk of experiencing this severe adverse reaction.
+Dose adjustments may be necessary in these patients (see section 4.2).
+
 Suicidal ideation and behaviour
 Suicidal ideation and behaviour have been reported in patients treated with anti-epileptic agents in several indications.
 A meta-analysis of randomised placebo controlled studies of anti-epileptic drugs has also shown a small increased risk of suicidal ideation and behaviour.
 The mechanism of this risk is not known and the available data do not exclude the possibility of an increased risk for pregabalin.
-
 Therefore patients should be monitored for signs of suicidal ideation and behaviours and appropriate treatment should be considered.
 Patients (and caregivers of patients) should be advised to seek medical advice should signs of suicidal ideation or behaviour emerge.
+
 Reduced lower gastrointestinal tract function
 There are postmarketing reports of events related to reduced lower gastrointestinal tract function (e.g. intestinal obstruction, paralytic ileus, constipation) when pregabalin was co-administered with medications that have the potential to produce constipation, such as opioid analgesics.
 When pregabalin and opioids will be used in combination, measures to prevent constipation may be considered (especially in female patients and elderly).
@@ -71,7 +76,13 @@ Lactose intolerance
 Lyrica contains lactose monohydrate.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
+Sodium content
+Lyrica contains less than 1 mmol sodium (23 mg) per hard capsule.
+Patients on low sodium diets can be informed that this medicinal product is essentially ‘sodium-free’.
+
 [Lyrica 20 mg/ml oral solution]
 
 Excipients which may cause allergic reactions
 Lyrica oral solution contains methyl parahydroxybenzoate and propyl parahydroxybenzoate which may cause allergic reactions (possibly delayed).
+
+Lyrica contains less than 1 mmol sodium (23 mg) per maximum daily dose of 600 mg (30 ml).

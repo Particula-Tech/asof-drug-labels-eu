@@ -8,12 +8,12 @@ Population pharmacokinetic analysis indicated that oral antidiabetics, diuretics
 
 Oral contraceptives, norethisterone and/or ethinyl oestradiol
 Co-administration of pregabalin with the oral contraceptives norethisterone and/or ethinyl oestradiol does not influence the steady-state pharmacokinetics of either substance.
-
 Central nervous system influencing medical products
 Pregabalin may potentiate the effects of ethanol and lorazepam.
 
 In the postmarketing experience, there are reports of respiratory failure, coma and deaths in patients taking pregabalin and opioids and/or other central nervous system (CNS) depressant medicinal products.
 Pregabalin appears to be additive in the impairment of cognitive and gross motor function caused by oxycodone.
+
 Interactions and the elderly
 No specific pharmacodynamic interaction studies were conducted in elderly volunteers.
 Interaction studies have only been performed in adults.

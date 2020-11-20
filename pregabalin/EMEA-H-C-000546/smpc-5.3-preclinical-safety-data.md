@@ -3,6 +3,7 @@
 In conventional safety pharmacology studies in animals, pregabalin was well-tolerated at clinically relevant doses.
 In repeated dose toxicity studies in rats and monkeys CNS effects were observed, including hypoactivity, hyperactivity and ataxia.
 An increased incidence of retinal atrophy commonly observed in aged albino rats was seen after long-term exposure to pregabalin at exposures ≥ 5 times the mean human exposure at the maximum recommended clinical dose.
+
 Pregabalin was not teratogenic in mice, rats or rabbits.
 Foetal toxicity in rats and rabbits occurred only at exposures sufficiently above human exposure.
 In prenatal/postnatal toxicity studies, pregabalin induced offspring developmental toxicity in rats at exposures > 2 times the maximum recommended human exposure.
