@@ -84,8 +84,8 @@ Humira Dose for Paediatric Patients with Crohn’s disease
 
 | Patient Weight | Induction Dose | Maintenance Dose Starting at Week 4 |
 | --- | --- | --- |
-| < 40 kg | •40 mg at week 0 and 20 mg at week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: •80 mg at week 0 and 40 mg at week 2 | 20 mg every other week |
-| ≥ 40 kg | •80 mg at week 0 and 40 mg at week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: •160 mg at week 0 and 80 mg at week 2 | 40 mg every other week |
+| < 40 kg | • 40 mg at week 0 and 20 mg at week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: • 80 mg at week 0 and 40 mg at week 2 | 20 mg every other week |
+| ≥ 40 kg | • 80 mg at week 0 and 40 mg at week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: • 160 mg at week 0 and 80 mg at week 2 | 40 mg every other week |
 
 Patients who experience insufficient response may benefit from an increase in dosage:
 
@@ -108,17 +108,13 @@ In paediatric uveitis, there is no experience in the treatment with Humira witho
 Table 5.
 Humira Dose for Paediatric Patients with Uveitis
 
-Patient Weight Dosing Regimen
-< 30 kg 20 mg every other week in
-
-combination with methotrexate
-
-≥ 30 kg 40 mg every other week in
-
-combination with methotrexate
+| Patient Weight | Dosing Regimen |
+| --- | --- |
+| < 30 kg | 20 mg every other week in combination with methotrexate |
+| ≥ 30 kg | 40 mg every other week in combination with methotrexate |
 
 When Humira therapy is initiated, a loading dose of 40 mg for patients < 30 kg or 80 mg for patients
-≥30 kg may be administered one week prior to the start of maintenance therapy.
+≥ 30 kg may be administered one week prior to the start of maintenance therapy.
 No clinical data are available on the use of a Humira loading dose in children < 6 years of age (see section 5.2).
 There is no relevant use of Humira in children aged less than 2 years in this indication.
 
@@ -143,6 +139,7 @@ Humira is available in other strengths and presentations.
 Adolescent hidradenitis suppurativa (from 12 years of age, weighing at least 30 kg)
 
 There are no clinical trials with Humira in adolescent patients with HS.
+
 The posology of Humira in these patients has been determined from pharmacokinetic modelling and simulation (see section 5.2).
 
 The recommended Humira dose is 80 mg at Week 0 followed by 40 mg every other week starting at Week 1 via subcutaneous injection.
@@ -160,6 +157,42 @@ The benefit and risk of continued long-term treatment should be periodically eva
 
 There is no relevant use of Humira in children aged less than 12 years in this indication.
 
+| Patient Weight | Induction Dose | Maintenance Dose Starting at Week 4 |
+| --- | --- | --- |
+| < 40 kg | • 40 mg at week 0 and 20 mg at week 2 | 20 mg every other week |
+|  | In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: • 80 mg at week 0 and 40 mg at week 2 |  |
+| ≥ 40 kg | • 80 mg at week 0 and 40 mg at week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: • 160 mg at week 0 and 80 mg at week 2 | 40 mg every other week |
+
+Paediatric ulcerative colitis
+
+The recommended dose of Humira for patients from 6 to 17 years of age with ulcerative colitis is based on body weight (Table 5).
+
+Humira Dose for Paediatric Patients with Ulcerative Colitis
+
+| Patient Weight | Induction Dose | Maintenance Dose Starting at Week 4* |
+| --- | --- | --- |
+| < 40 kg | • 80 mg at Week 0 (given as two 40 mg injections in one day) and • 40 mg at Week 2 (given as one 40 mg injection) | • 40 mg every other week |
+| ≥ 40 kg | • 160 mg at Week 0 (given as four 40 mg injections in one day or two 40 mg injections per day for two consecutive days) and • 80 mg at Week 2 (given as two 40 mg injections in one day) | • 80 mg every other week |
+
+* Paediatric patients who turn 18 years of age while on Humira should continue their prescribed maintenance dose.
+
+Continued therapy beyond 8 weeks should be carefully considered in patients not showing signs of response within this time period.
+There is no relevant use of Humira in children aged less than 6 years in this indication.
+
+Humira may be available in different strengths and/or presentations depending on the individual treatment needs.
+
+The recommended dose of Humira for paediatric patients with uveitis from 2 years of age is based on body weight (Table 6).
+
+Table 6.
+
+| Patient Weight | Dosing Regimen |
+| --- | --- |
+| < 30 kg | 20 mg every other week in combination with methotrexate |
+
+≥ 30 kg 40 mg every other week in
+
+combination with methotrexate
+
 When Humira therapy is initiated, a loading dose of 40 mg for patients < 30 kg or 80 mg for patients ≥ 30 kg may be administered one week prior to the start of maintenance therapy.
 
 [Humira 40 mg solution for injection in pre-filled syringe]
@@ -168,9 +201,9 @@ Rheumatoid arthritis
 
 The recommended dose of Humira for adult patients with rheumatoid arthritis is 40 mg adalimumab administered every other week as a single dose via subcutaneous injection.
 Methotrexate should be continued during treatment with Humira.
-
 Glucocorticoids, salicylates, non-steroidal anti-inflammatory drugs, or analgesics can be continued during treatment with Humira.
 Regarding combination with disease modifying anti-rheumatic drugs other than methotrexate see sections 4.4 and 5.1.
+
 In monotherapy, some patients who experience a decrease in their response to Humira 40 mg every other week may benefit from an increase in dosage to 40 mg adalimumab every week or 80 mg every other week.
 
 Available data suggest that the clinical response is usually achieved within 12 weeks of treatment.
@@ -197,7 +230,6 @@ The benefits and risks of continued 40 mg weekly or 80 mg every other week thera
 If adequate response is achieved with 40 mg every week or 80 mg every other week, the dosage may subsequently be reduced to 40 mg every other week.
 
 Hidradenitis suppurativa
-
 The recommended Humira dose regimen for adult patients with hidradenitis suppurativa (HS) is 160 mg initially at Day 1 (given as four 40 mg injections in one day or as two 40 mg injections per day for two consecutive days), followed by 80 mg two weeks later at Day 15 (given as two 40 mg injections in one day).
 Two weeks later (Day 29) continue with a dose of 40 mg every week or 80 mg every other week (given as two 40 mg injections in one day).
 
@@ -208,7 +240,7 @@ The benefit and risk of continued long-term treatment should be periodically eva
 Crohn’s disease
 
 The recommended Humira induction dose regimen for adult patients with moderately to severely active Crohn’s disease is 80 mg at Week 0 followed by 40 mg at Week 2.
-In case there is a need for a more rapid response to therapy, the regimen 160 mg at Week 0 (given as four 40 mg injections in one day or as two 40 mg injections per day for two consecutive days), 80 mg at Week 2 (given as two 40 mg injections in one day), can be used with the awareness that the risk for adverse events is higher during induction.
+In case there is a need for a more rapid response to therapy, the regimen 160 mg at Week 0 (given as four 40 mg injections in one day or as two 40 mg injections per day for two consecutive days), followed by 80 mg at Week 2 (given as two 40 mg injections in one day), can be used with the awareness that the risk for adverse events is higher during induction.
 
 After induction treatment, the recommended dose is 40 mg every other week via subcutaneous injection.
 Alternatively, if a patient has stopped Humira and signs and symptoms of disease recur, Humira may be re-administered.
@@ -240,15 +272,6 @@ Elderly
 
 No dose adjustment is required.
 
-The recommended dose of Humira for patients with polyarticular juvenile idiopathic arthritisfrom 2 years of age is based on body weight (Table 1).
-
-The recommended dose of Humira for patients with enthesitis-related arthritis from 6 years of age is based on body weight (Table 2).Humira is administered every other week via subcutaneous injection.
-
-Paediatric ulcerative colitis
-
-The safety and efficacy of Humira in children aged 4-17 years have not yet been established.
-No data are available.
-
 Psoriatic arthritis and axial spondyloarthritis including ankylosing spondylitis
 
 There is no relevant use of Humira in the paediatric population for the indications of ankylosing spondylitis and psoriatic arthritis.
@@ -257,13 +280,20 @@ There is no relevant use of Humira in the paediatric population for the indicati
 
 Some patients who experience decrease in their response to 40 mg every other week may benefit from an increase in dosage to 40 mg Humira every week or 80 mg every other week.
 
-The recommended dose of Humira for patients with polyarticular juvenile idiopathic arthritis from 2 years of age is based on body weight (Table 1).Humira is administered every other week via subcutaneous injection.
+| Patient Weight | Dosing Regimen |
+| --- | --- |
+| 15 kg to < 30 kg | Initial dose of 20 mg, followed by 20 mg given every other week starting one week after the initial dose |
 
-| Patient Weight | Induction Dose | Maintenance Dose Starting at Week 4 |
+| Patient Weight | Induction Dose | Maintenance Dose Starting at Week 4* |
 | --- | --- | --- |
-| < 40 kg | •40 mg at week 0 and 20 mg at week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: •80 mg at week 0 and 40 mg at week 2 | 20 mg every other week |
-| ≥ 40 kg | •80 mg at week 0 and 40 mg at week 2 | 40 mg every other week |
-|  | In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: •160 mg at week 0 and 80 mg at week 2 |  |
+| < 40 kg | • 80 mg at Week 0 (given as two 40 mg injections in one day) and • 40 mg at Week 2 (given as one 40 mg injection) | • 40 mg every other week |
+
+≥ 40 kg • 160 mg at Week 0 (given as four • 80 mg every other week
+40 mg injections in one day or
+two 40 mg injections per day for
+two consecutive days) and
+- 80 mg at Week 2 (given as two 40
+mg injections in one day)
 
 [Humira 80 mg solution for injection in pre-filled syringe]
 
@@ -274,13 +304,20 @@ Humira 40 mg solution for injection in pre-filled syringe and/or pre-filled pen 
 The recommended Humira dose regimen for adult patients with hidradenitis suppurativa (HS) is 160 mg initially at Day 1 (given as two 80 mg injections in one day or as one 80 mg injection per day for two consecutive days), followed by 80 mg two weeks later at Day 15.
 Two weeks later (Day 29) continue with a dose of 40 mg every week or 80 mg every other week.
 
-In case there is a need for a more rapid response to therapy, the regimen 160 mg at Week 0 (given as two 80 mg injections in one day or as one 80 mg injection per day for two consecutive days), 80 mg at Week 2, can be used with the awareness that the risk for adverse events is higher during induction.
+In case there is a need for a more rapid response to therapy, the regimen 160 mg at Week 0 (given as two 80 mg injections in one day or as one 80 mg injection per day for two consecutive days), followed by 80 mg at Week 2, can be used with the awareness that the risk for adverse events is higher during induction.
 
 The recommended Humira induction dose regimen for adult patients with moderate to severe ulcerative colitis is 160 mg at Week 0 (given as two 80 mg injections in one day or as one 80 mg injection per day for two consecutive days) and 80 mg at Week 2.
 
-The recommended dose of Humira for patients with Crohn’s disease from 6 to 17 years of age is based on body weight (Table 1).
-
-The recommended dose of Humira for paediatric patients with uveitis from 2 years of age is based on body weight (Table 2).
-
 The safety and efficacy of Humira in children aged 4-17 years have been established for plaque psoriasis.
 The recommended Humira dose is up to a maximum of 40 mg per dose.
+
+The recommended dose of Humira for patients with Crohn’s disease from 6 to 17 years of age is based on body weight (Table 1).
+
+The recommended dose of Humira for patients from 6 to 17 years of age with ulcerative colitis is based on body weight (Table 2).
+
+| Patient Weight | Induction Dose | Maintenance Dose Starting at Week 4* |
+| --- | --- | --- |
+| < 40 kg | • 80 mg at Week 0 (given as one 80 mg injection) and • 40 mg at Week 2 (given as one 40 mg injection) | • 40 mg every other week |
+| ≥ 40 kg | • 160 mg at Week 0 (given as two 80 mg injections in one day or one 80 mg injection per day for two consecutive days) and • 80 mg at Week 2 (given as one 80 mg injection) | • 80 mg every other week |
+
+The recommended dose of Humira for paediatric patients with uveitis from 2 years of age is based on body weight (Table 3).

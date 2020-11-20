@@ -95,7 +95,7 @@ In the post marketing setting, cases of leukaemia have been reported in patients
 There is an increased background risk for lymphoma and leukaemia in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates the risk estimation.
 With the current knowledge, a possible risk for the development of lymphomas, leukaemia, and other malignancies in patients treated with a TNF-antagonist cannot be excluded.
 
-Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-antagonists (initiation of therapy ≤18 years of age), including adalimumab in the post marketing setting.
+Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-antagonists (initiation of therapy ≤ 18 years of age), including adalimumab in the post marketing setting.
 Approximately half the cases were lymphomas.
 The other cases represented a variety of different malignancies and included rare malignancies usually associated with immunosuppression.
 A risk for the development of malignancies in children and adolescents treated with TNF-antagonists cannot be excluded.
@@ -107,7 +107,7 @@ The potential risk with the combination of azathioprine or 6-mercaptopurine and 
 A risk for the development of hepatosplenic T-cell lymphoma in patients treated with Humira cannot be excluded (see section 4.8).
 
 No studies have been conducted that include patients with a history of malignancy or in whom treatment with Humira is continued following development of malignancy.
-Thus additional caution should be exercised in considering Humira treatment of these patients (see section 4.8).
+Thus, additional caution should be exercised in considering Humira treatment of these patients (see section 4.8).
 
 All patients, and in particular patients with a medical history of extensive immunosuppressant therapy or psoriasis patients with a history of PUVA treatment should be examined for the presence of non-melanoma skin cancer prior to and during treatment with Humira.
 Melanoma and Merkel cell carcinoma have also been reported in patients treated with TNF-antagonists including adalimumab (see section 4.8).
@@ -187,8 +187,6 @@ Administration of Humira should be discontinued if a patient develops a new seri
 
 If latent tuberculosis is diagnosed, appropriate treatment must be started with anti-tuberculosis prophylaxis treatment before the initiation of Humira, and in accordance with local recommendations.
 
-Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-antagonists (initiation of therapy ≤ 18 years of age), including adalimumab in the post marketing setting.
-
 Excipients with known effects
 
 This medicinal product contains less than 1 mmol of sodium (23 mg) per 0.8 ml dose, i.e. essentially ‘sodium-free’.
@@ -199,7 +197,7 @@ This medicinal product contains less than 1 mmol of sodium (23 mg) per 0.8 ml do
 
 [Humira 40 mg solution for injection in pre-filled syringe (SmPC 4)]
 
-In order to improve traceability of biological medicinal products, the nameand the batch number of the administered product should be clearly recorded.
+(all sentences already above)
 
 [Humira 80 mg solution for injection in pre-filled syringe]
 

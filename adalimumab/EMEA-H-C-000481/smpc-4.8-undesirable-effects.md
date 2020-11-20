@@ -23,7 +23,7 @@ In general, the adverse events in paediatric patients were similar in frequency 
 Tabulated list of adverse reactions
 
 The following list of adverse reactions is based on experience from clinical trials and on postmarketing experience and are displayed by system organ class and frequency in Table 6 below: very common
-(≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); and not known (cannot be estimated from the available data).
+(≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); and not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 The highest frequency seen among the various indications has been included.
 An asterisk (*) appears in the SOC column if further information is found elsewhere in sections 4.3, 4.4 and 4.8.
@@ -39,7 +39,7 @@ Undesirable Effects
 | Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common | Skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), benign neoplasm |
 |  | Uncommon | Lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma** |
 |  | Rare | Leukaemia1) |
-|  | Not known | Hepatosplenic T-cell lymphoma1) Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1) |
+|  | Not known | Hepatosplenic T-cell lymphoma1) Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1), Kaposi’s sarcoma |
 | Blood and the lymphatic system disorders* | Very common | Leukopenia (including neutropenia and agranulocytosis), anaemia |
 |  | Common | Leucocytosis, thrombocytopenia |
 |  | Uncommon | Idiopathic thrombocytopenic purpura |
@@ -113,7 +113,7 @@ In the pivotal controlled trials in adults and children, the rate of infection w
 The infections consisted primarily of nasopharyngitis, upper respiratory tract infection, and sinusitis.
 Most patients continued on Humira after the infection resolved.
 
-The incidence of serious infections was 0.04 per patient year in Humira treated patients and 0.03 per patient year in placebo and active control −treated patients.
+The incidence of serious infections was 0.04 per patient year in Humira treated patients and 0.03 per patient year in placebo and active control − treated patients.
 
 In controlled and open label adult and paediatric studies with Humira, serious infections (including fatal infections, which occurred rarely) have been reported, which include reports of tuberculosis (including miliary and extra-pulmonary locations) and invasive opportunistic infections (e.g. disseminated or extrapulmonary histoplasmosis, blastomycosis, coccidioidomycosis, pneumocystis, candidiasis, aspergillosis and listeriosis).
 Most of the cases of tuberculosis occurred within the first eight months after initiation of therapy and may reflect recrudescence of latent disease.
@@ -140,29 +140,29 @@ Rare post-marketing cases of hepatosplenic T-cell lymphoma have been reported in
 
 Autoantibodies
 
-Patients had serum samples tested for autoantibodies at multiple time points in rheumatoid arthritis studies I −V.
-In these trials, 11.9% of patients treated with Humira and 8.1% of placebo and active control −treated patients that had negative baseline anti-nuclear antibody titres reported positive titres at Week 24.
+Patients had serum samples tested for autoantibodies at multiple time points in rheumatoid arthritis studies I − V. In these trials, 11.9% of patients treated with Humira and 8.1% of placebo and active control − treated patients that had negative baseline anti-nuclear antibody titres reported positive titres at Week 24.
 Two patients out of 3,441 treated with Humira in all rheumatoid arthritis and psoriatic arthritis studies developed clinical signs suggestive of new-onset lupus-like syndrome.
 The patients improved following discontinuation of therapy.
 No patients developed lupus nephritis or central nervous system symptoms.
+
 Hepato-biliary events
 
-In controlled Phase 3 trials of Humira in patients with rheumatoid arthritis and psoriatic arthritis with a control period duration ranging from 4 to 104 weeks, ALT elevations ≥3 x ULN occurred in 3.7% of Humira-treated patients and 1.6% of control-treated patients.
+In controlled Phase 3 trials of Humira in patients with rheumatoid arthritis and psoriatic arthritis with a control period duration ranging from 4 to 104 weeks, ALT elevations ≥ 3 x ULN occurred in 3.7% of Humira-treated patients and 1.6% of control-treated patients.
 
-In controlled Phase 3 trials of Humira in patients with polyarticular juvenile idiopathic arthritis who were 4 to 17 years and enthesitis-related arthritis who were 6 to 17 years, ALT elevations ≥3 x ULN occurred in 6.1% of Humira-treated patients and 1.3% of control-treated patients.
+In controlled Phase 3 trials of Humira in patients with polyarticular juvenile idiopathic arthritis who were 4 to 17 years and enthesitis-related arthritis who were 6 to 17 years, ALT elevations ≥ 3 x ULN occurred in 6.1% of Humira-treated patients and 1.3% of control-treated patients.
 Most ALT elevations occurred with concomitant methotrexate use.
-No ALT elevations ≥3 x ULN occurred in the Phase 3 trial of Humira in patients with polyarticular juvenile idiopathic arthritis who were 2 to < 4 years.
+No ALT elevations ≥ 3 x ULN occurred in the Phase 3 trial of Humira in patients with polyarticular juvenile idiopathic arthritis who were 2 to < 4 years.
 
 In controlled Phase 3 trials of Humira in patients with Crohn’s disease and ulcerative colitis with a control period ranging from 4 to 52 weeks.
-ALT elevations ≥3 x ULN occurred in 0.9% of Humira-treated patients and 0.9% of controlled-treated patients.
+ALT elevations ≥ 3 x ULN occurred in 0.9% of Humira-treated patients and 0.9% of controlled-treated patients.
 
-In the Phase 3 trial of Humira in patients with paediatric Crohn’s disease which evaluated efficacy and safety of two body weight adjusted maintenance dose regimens following body weight adjusted induction therapy up to 52 weeks of treatment, ALT elevations ≥3 x ULN occurred in 2.6% (5/192) of patients of whom 4 were receiving concomitant immunosuppressants at baseline.
+In the Phase 3 trial of Humira in patients with paediatric Crohn’s disease which evaluated efficacy and safety of two body weight adjusted maintenance dose regimens following body weight adjusted induction therapy up to 52 weeks of treatment, ALT elevations ≥ 3 x ULN occurred in 2.6% (5/192) of patients of whom 4 were receiving concomitant immunosuppressants at baseline.
 
-In controlled Phase 3 trials of Humira in patients with plaque psoriasis with a control period duration ranging from 12 to 24 weeks, ALT elevations ≥3 x ULN occurred in 1.8% of Humira-treated patients and 1.8% of control-treated patients.
+In controlled Phase 3 trials of Humira in patients with plaque psoriasis with a control period duration ranging from 12 to 24 weeks, ALT elevations ≥ 3 x ULN occurred in 1.8% of Humira-treated patients and 1.8% of control-treated patients.
 
-No ALT elevations ≥3 x ULN occurred in the Phase 3 trial of Humira in paediatric patients with plaque psoriasis.
+No ALT elevations ≥ 3 x ULN occurred in the Phase 3 trial of Humira in paediatric patients with plaque psoriasis.
 
-In controlled trials of Humira (initial doses of 80 mg at Week 0 followed by 40 mg every other week starting at Week 1) in adult patients with uveitis up to 80 weeks with a median exposure of 166.5 days and 105.0 days in Humira-treated and control-treated patients, respectively, ALT elevations ≥3 x ULN occurred in 2.4% of Humira-treated patients and 2.4% of control-treated patients.
+In controlled trials of Humira (initial doses of 80 mg at Week 0 followed by 40 mg every other week starting at Week 1) in adult patients with uveitis up to 80 weeks with a median exposure of 166.5 days and 105.0 days in Humira-treated and control-treated patients, respectively, ALT elevations ≥ 3 x ULN occurred in 2.4% of Humira-treated patients and 2.4% of control-treated patients.
 
 Across all indications in clinical trials patients with raised ALT were asymptomatic and in most cases elevations were transient and resolved on continued treatment.
 However, there have also been post-marketing reports of liver failure as well as less severe liver disorders that may precede liver failure, such as hepatitis including autoimmune hepatitis in patients receiving adalimumab.
@@ -179,7 +179,9 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [Humira 40 mg/0.8 ml solution for injection]
 
-(≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to< 1/100); rare (≥1/10,000 to < 1/1,000); and not known (cannot be estimated from the available data).
+The following list of adverse reactions is based on experience from clinical trials and on postmarketing experience and are displayed by system organ class and frequency in Table 7 below: very common
+(≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to< 1/100); rare (≥ 1/10,000 to < 1/1,000); and not known (cannot be estimated from the available data).
+Table 7
 
 | System Organ Class | Frequency | Adverse Reaction |
 | --- | --- | --- |
@@ -189,7 +191,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 | Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common | Skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), benign neoplasm |
 |  | Uncommon | Lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma** |
 |  | Rare | Leukaemia1) |
-|  | Not known | Hepatosplenic T-cell lymphoma1), Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1) |
+|  | Not known | Hepatosplenic T-cell lymphoma1), Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1), Kaposi’s sarcoma |
 | Blood and the lymphatic system disorders* | Very common | Leukopenia (including neutropenia and agranulocytosis), anaemia |
 |  | Common | Leucocytosis, thrombocytopenia |
 |  | Uncommon | Idiopathic thrombocytopenic purpura |
@@ -246,12 +248,25 @@ Hidradenitis suppurativa
 
 The safety profile for patients with HS treated with Humira weekly was consistent with the known safety profile of Humira.
 
-In controlled Phase 3 trials of Humira in patients with rheumatoid arthritis and psoriatic arthritis with a control period duration ranging from 4 to 104 weeks, ALT elevations ≥ 3 x ULN occurred in 3.7% of Humira-treated patients and 1.6% of control-treated patients.
+No malignancies were observed in 77 paediatric patients with an exposure of 80.0 patient years during a
 
-In controlled Phase 3 trials of Humira in patients with polyarticular juvenile idiopathic arthritis who were 4 to 17 years and enthesitis-related arthritis who were 6 to 17 years, ALT elevations ≥ 3 x ULN occurred in 6.1% of Humira-treated patients and 1.3% of control-treated patients.
+Humira trial in paediatric patients with chronic plaque psoriasis. No malignancies were observed in 93
+paediatric patients with an exposure of 65.3 patient years during a Humira trial in paediatric patients with
+ulcerative colitis. No malignancies were observed in 60 paediatric patients with an exposure of 58.4
+
+patient years during a Humira trial in paediatric patients with uveitis.
+
 No ALT elevations ≥ 3 x ULN occurred in the Phase 3 trial of Humira in patients with polyarticular juvenile idiopathic arthritis who were 2 to <4 years.
 
-In controlled trials of Humira (initial doses of 160 mg at Week 0 and 80 mg at Week 2, followed by 40 mg every week starting at Week 4), in patients with hidradenitis suppurativa with a control period duration ranging from 12 to 16 weeks, ALT elevations ≥3 x ULN occurred in 0.3% of Humira-treated patients and 0.6% of control-treated patients.
+In controlled trials of Humira (initial doses of 160 mg at Week 0 and 80 mg at Week 2, followed by 40 mg every week starting at Week 4), in patients with hidradenitis suppurativa with a control period duration ranging from 12 to 16 weeks, ALT elevations ≥ 3 x ULN occurred in 0.3% of Humira-treated patients and 0.6% of control-treated patients.
+
+In the controlled Phase 3 trial of Humira in patients with paediatric ulcerative colitis (N=93) which
+evaluated efficacy and safety of a maintenance dose of 0.6 mg/kg (maximum of 40 mg) every other week
+(N=31) and a maintenance dose of 0.6 mg/kg (maximum of 40 mg) every Week (N=32), following body
+weight adjusted induction dosing of 2.4 mg/kg (maximum of 160 mg) at Week 0 and Week 1, and 1.2
+mg/kg (maximum of 80 mg) at Week 2 (N=63), or an induction dose of 2.4 mg/kg (maximum of 160 mg)
+at Week 0, placebo at Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2 (N=30), ALT elevations ≥
+3 X ULN occurred in 1.1% (1/93) of patients.
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
@@ -263,7 +278,8 @@ In controlled trials of Humira (initial doses of 160 mg at Week 0 and 80 mg at W
 | Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common | Skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), benign neoplasm |
 |  | Uncommon | Lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma** |
 |  | Rare | Leukaemia1) |
-|  | Not known | Hepatosplenic T-cell lymphoma1), Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1) |
+|  | Not known | Hepatosplenic T-cell lymphoma1), |
+|  |  | Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1), Kaposi’s sarcoma |
 | Blood and the lymphatic system disorders* | Very common | Leukopenia (including neutropenia and agranulocytosis), anaemia |
 |  | Common | Leucocytosis, thrombocytopenia |
 |  | Uncommon | Idiopathic thrombocytopenic purpura |
@@ -316,15 +332,7 @@ In controlled trials of Humira (initial doses of 160 mg at Week 0 and 80 mg at W
 | Investigations* | Common | Coagulation and bleeding disorders (including activated partial thromboplastin time prolonged), autoantibody test positive (including double stranded DNA antibody), blood lactate dehydrogenase increased |
 | Injury, poisoning and procedural complications | Common | Impaired healing |
 
-ALT elevations ≥ 3 x ULN occurred in 0.9% of Humira-treated patients and 0.9% of controlled-treated patients.
-
-In the Phase 3 trial of Humira in patients with paediatric Crohn’s disease which evaluated efficacy and safety of two body weight adjusted maintenance dose regimens following body weight adjusted induction therapy up to 52 weeks of treatment, ALT elevations ≥ 3 x ULN occurred in 2.6% (5/192) of patients of whom 4 were receiving concomitant immunosuppressants at baseline.
-
-In controlled Phase 3 trials of Humira in patients with plaque Psoriasis with a control period duration ranging from 12 to 24 weeks, ALT elevations ≥ 3 x ULN occurred in 1.8% of Humira-treated patients and 1.8% of control-treated patients.
-
-In controlled trials of Humira (initial doses of 160 mg at Week 0 and 80 mg at Week 2, followed by 40 mg every week starting at Week 4), in patients with hidradenitis suppurativa with a control period duration ranging from 12 to 16 weeks, ALT elevations ≥ 3 x ULN occurred in 0.3% of Humira-treated patients and 0.6% of control-treated patients.
-
-In controlled trials of Humira (initial doses of 80 mg at Week 0 followed by 40 mg every other week starting at Week 1) in adult patients with uveitis up to 80 weeks with a median exposure of 166.5 days and 105.0 days in Humira-treated and control-treated patients, respectively, ALT elevations ≥ 3 x ULN occurred in 2.4% of Humira-treated patients and 2.4% of control-treated patients.
+No ALT elevations ≥3 X ULN occurred in the Phase 3 trial of Humira in paediatric patients with plaque psoriasis.
 
 [Humira 40 mg solution for injection in pre-filled syringe (SmPC 4)]
 
@@ -332,8 +340,9 @@ In controlled trials of Humira (initial doses of 80 mg at Week 0 followed by 40 
 
 [Humira 80 mg solution for injection in pre-filled syringe]
 
-The following list of adverse reactions is based on experience from clinical trials and on postmarketing experience and are displayed by system organ class and frequency in Table 3 below: very common
-Table 3
+The following list of adverse reactions is based on experience from clinical trials and on postmarketing experience and are displayed by system organ class and frequency in Table 4 below: very common
+
+Table 4
 
 | System Organ Class | Frequency | Adverse Reaction |
 | --- | --- | --- |
@@ -343,7 +352,7 @@ Table 3
 | Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common | Skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), benign neoplasm |
 |  | Uncommon | Lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma** |
 |  | Rare | Leukaemia1) |
-|  | Not known | Hepatosplenic T-cell lymphoma1) Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1) |
+|  | Not known | Hepatosplenic T-cell lymphoma1) Merkel cell carcinoma (neuroendocrine carcinoma of the skin)1), Kaposi’s sarcoma |
 | Blood and the lymphatic system disorders* | Very common | Leukopenia (including neutropenia and agranulocytosis), anaemia |
 |  | Common | Leucocytosis, thrombocytopenia |
 |  | Uncommon | Idiopathic thrombocytopenic purpura |

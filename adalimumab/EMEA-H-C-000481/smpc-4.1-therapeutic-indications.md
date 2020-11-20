@@ -29,6 +29,10 @@ Adolescent hidradenitis suppurativa
 
 Humira is indicated for the treatment of active moderate to severe hidradenitis suppurativa (acne inversa) in adolescents from 12 years of age with an inadequate response to conventional systemic HS therapy (see sections 5.1 and 5.2).
 
+Paediatric ulcerative colitis
+
+Humira is indicated for the treatment of moderately to severely active ulcerative colitis in paediatric patients (from 6 years of age) who have had an inadequate response to conventional therapy including corticosteroids and/or 6-mercaptopurine (6-MP) or azathioprine (AZA), or who are intolerant to or have medical contraindications for such therapies.
+
 [Humira 40 mg solution for injection in pre-filled syringe]
 
 Rheumatoid arthritis

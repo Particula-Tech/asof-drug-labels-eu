@@ -1,6 +1,6 @@
 # 4.6 Fertility, pregnancy and lactation
 
-Women of child bearing potential
+Women of childbearing potential
 
 Women of childbearing potential should consider the use of adequate contraception to prevent pregnancy and continue its use for at least five months after the last Humira treatment.
 
