@@ -10,21 +10,23 @@ Drug-induced liver injury, including liver enzyme increase (≥ 3 upper limit of
 The time to onset can be directly, several weeks or longer.
 Resolution of the adverse reactions has been observed after treatment was discontinued.
 Assessment of serum aminotransferases (e.g. alanine aminotransferase (ALT), aspartate aminotransferase (AST)) and total bilirubin levels are recommended prior to treatment initiation and during treatment as clinically indicated.
-Patients treated with Tecfidera may develop severe prolonged lymphopenia (see section 4.8).
-Dimethyl fumarate has not been studied in patients with pre-existing low lymphocyte counts and caution should be exercised when treating these patients.
+Patients treated with Tecfidera may develop lymphopenia (see section 4.8).
 Prior to initiating treatment with Tecfidera, a current complete blood count, including lymphocytes, must be performed.
 If lymphocyte count is found to be below the normal range, thorough assessment of possible causes should be completed prior to initiation of treatment with Tecfidera.
+Dimethyl fumarate has not been studied in patients with pre-existing low lymphocyte counts and caution should be exercised when treating these patients.
+Tecfidera should not be initiated in patients with severe lymphopenia (lymphocyte counts <0.5 x 109/L).
 
 After starting therapy, complete blood counts, including lymphocytes, must be performed every 3 months.
 
-Interruption of Tecfidera should be considered in patients with lymphocyte counts <0.5x109/L persisting for more than 6 months.
-The benefit/risk balance of the therapy should be reconsidered in discussion with the patient in the context of other therapeutic options available.
-Clinical factors, evaluation of any laboratory and imaging investigations could be included as part of this re-consideration.
-If treatment is continued despite a persistent lymphocyte count < 0.5x109/L, enhanced vigilance is recommended (see also subsection on PML).
+Enhanced vigilance due to an increased risk for Progressive Multifocal Leukoencephalopathy (PML) is recommended in patients with lymphopenia as follows:
+
+- Tecfidera should be discontinued in patients with prolonged severe lymphopenia (lymphocyte counts <0.5 x 109/L) persisting for more than 6 months.
+- In patients with sustained moderate reductions of absolute lymphocyte counts ≥0.5 x 109/L and < 0.8 x 109/L for more than six months, the benefit/risk of Tecfidera treatment should be re-assessed.
+- In patients with lymphocyte counts below lower limit of normal (LLN) as defined by local laboratory reference range, regular monitoring of absolute lymphocyte counts is recommended.
+  Additional factors that might further augment the individual PML risk should be considered (see subsection on PML below).
+
 Lymphocyte counts should be followed until recovery.
 Upon recovery and in the absence of alternative treatment options, decisions about whether or not to restart Tecfidera after treatment discontinuation should be based on clinical judgement.
-
-The benefit/risk in patients with lymphocyte counts ≥0.5 x 109/L and <0.8 x 109/L for more than six months should be assessed.
 
 Magnetic Resonance imaging (MRI)
 
@@ -35,24 +37,44 @@ In case of clinical suspicion of PML, MRI should be performed immediately for di
 
 Progressive Multifocal Leukoencephalopathy (PML)
 
-PML cases have occurred with dimethyl fumarate and other medicinal products containing fumarates in the setting of moderate to severe prolonged lymphopenia.
+PML has been reported in patients treated with Tecfidera (see section 4.8).
 PML is an opportunistic infection caused by John-Cunningham virus (JCV), which may be fatal or result in severe disability.
-PML can only occur in the presence of a JCV infection.
-If JCV testing is undertaken, it should be considered that the influence of lymphopenia on the accuracy of anti-JCV antibody test has not been studied in dimethyl fumarate treated patients.
-It should also be noted that a negative anti JCV antibody test (in the presence of normal lymphocyte counts) does not preclude the possibility of subsequent JCV infection.
 
-At the first sign or symptom suggestive of PML, Tecfidera should be withheld and appropriate diagnostic evaluations need to be performed.
+PML cases have occurred with dimethyl fumarate and other medicinal products containing fumarates in the setting of lymphopenia (lymphocyte counts below LLN).
+Prolonged moderate to severe lymphopenia appears to increase the risk of PML with Tecfidera, however, risk cannot be excluded in patients with mild lymphopenia.
+Additional factors that might contribute to an increased risk for PML in the setting of lymphopenia are:
+- duration of Tecfidera therapy.
+Cases of PML have occurred after approximately1 to 5 years of treatment, although the exact relationship with duration of treatment is unknown.
+
+- profound decreases in CD4+ and especially in CD8+ T cell counts, which are important for immunological defence (see section 4.8), and
+
+- prior immunosuppressive or immunomodulatory therapy (see below).
+
+Physicians should evaluate their patients to determine if the symptoms are indicative of neurological dysfunction and, if so, whether these symptoms are typical of MS or possibly suggestive of PML.
+
+At the first sign or symptom suggestive of PML, Tecfidera should be withheld and appropriate diagnostic evaluations, including determination of JCV DNA in cerebrospinal fluid (CSF) by quantitative polymerase chain reaction (PCR) methodology, need to be performed.
 The symptoms of PML may be similar to an MS relapse.
 Typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
+Physicians should be particularly alert to symptoms suggestive of PML that the patient may not notice.
+Patients should also be advised to inform their partner or caregivers about their treatment, since they may notice symptoms that the patient is not aware of.
+
+PML can only occur in the presence of a JCV infection.
+It should be considered that the influence of lymphopenia on the accuracy of serum anti-JCV antibody testing has not been studied in dimethyl fumarate treated patients.
+It should also be noted that a negative anti-JCV antibody test (in the presence of normal lymphocyte counts) does not preclude the possibility of subsequent JCV infection.
+
+If a patient develops PML, Tecfidera must be permanently discontinued.
 
 Prior treatment with immunosuppressive or immunomodulating therapies
 
 No studies have been performed evaluating the efficacy and safety of Tecfidera when switching patients from other disease modifying therapies to Tecfidera.
-The contribution of prior immunosuppressive therapy to the development of PML in dimethyl fumarate treated patients is unknown.
-When switching patients from another disease modifying therapy to Tecfidera, the half-life and mode of action of the other therapy should be considered in order to avoid an additive immune effect while at the same time, reducing the risk of reactivation of MS.
+The contribution of prior immunosuppressive therapy to the development of PML in dimethyl fumarate treated patients is possible.
 
-A complete blood count is recommended prior to initiating Tecfidera and regularly during treatment (see Blood/laboratory tests above).
-Tecfidera can generally be started immediately after discontinuation of interferon or glatiramer acetate.
+PML cases have occurred in patients who had previously been treated with natalizumab, for which PML is an established risk.
+Physicians should be aware that cases of PML occurring following recent discontinuation of natalizumab may not have lymphopenia.
+
+In addition, a majority of confirmed PML cases with Tecfidera occurred in patients with prior immunomodulatory treatment.
+
+When switching patients from another disease modifying therapy to Tecfidera, the half-life and mode of action of the other therapy should be considered in order to avoid an additive immune effect while at the same time, reducing the risk of reactivation of MS. A complete blood count is recommended prior to initiating Tecfidera and regularly during treatment (see Blood/laboratory tests above).
 
 Severe renal and hepatic impairment
 
@@ -73,7 +95,6 @@ In two healthy volunteer studies, the occurrence and severity of flushing over t
 In clinical trials, 3 patients out of a total of 2,560 patients treated with dimethyl fumarate experienced serious flushing symptoms that were probable hypersensitivity or anaphylactoid reactions.
 These events were not life-threatening, but led to hospitalisation.
 Prescribers and patients should be alert to this possibility in the event of severe flushing reactions (see sections 4.2, 4.5 and 4.8).
-
 Anaphylactic reactions
 
 Cases of anaphylaxis/anaphylactoid reaction have been reported following Tecfidera administration in the post-marketing setting.

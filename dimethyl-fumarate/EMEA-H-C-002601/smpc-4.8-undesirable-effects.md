@@ -28,7 +28,7 @@ The incidence of the adverse reactions below are expressed according to the foll
 | MedDRA System Organ Class | Adverse reaction | Frequency category |
 | --- | --- | --- |
 | Infections and infestations | Gastroenteritis | Common |
-|  | Progressive multifocal leukoencephalopathy (PML) 1 | Not known |
+|  | Progressive multifocal leukoencephalopathy (PML) | Not known |
 |  | Herpes zoster1 | Not known |
 | Blood and lymphatic system disorders | Lymphopenia | Common |
 |  | Leucopenia | Common |
@@ -63,7 +63,6 @@ The incidence of the adverse reactions below are expressed according to the foll
 |  | White blood cell count decreased | Common |
 
 1 Adverse reactions derived only during post marketing experience
-
 Description of selected adverse reactions
 
 Flushing
@@ -75,6 +74,7 @@ Flushing events tend to begin early in the course of treatment (primarily during
 In patients with flushing, the majority had flushing events that were mild or moderate in severity.
 Overall, 3% of patients treated with Tecfidera discontinued due to flushing.
 The incidence of serious flushing, which may be characterised by generalised erythema, rash and/or pruritus, was seen in less than 1% of patients treated with Tecfidera (see sections 4.2, 4.4 and 4.5).
+
 Gastrointestinal
 
 The incidence of gastrointestinal events (e.g. diarrhoea [14% versus 10%], nausea [12% versus 9%], upper abdominal pain [10% versus 6%], abdominal pain [9% versus 4%], vomiting [8% versus 5%] and dyspepsia [5% versus 3%]) was increased in patients treated with Tecfidera compared to placebo, respectively.
@@ -93,16 +93,6 @@ Elevations in transaminases ≥3 times ULN with concomitant elevations in total 
 
 Increase of liver enzymes and cases of drug-induced liver injury (elevations in transaminases ≥3 times ULN with concomitant elevations in total bilirubin >2 times ULN), have been reported in post marketing experience following Tecfidera administration, which resolved upon treatment discontinuation.
 
-Infections
-
-Herpes zoster infections have been reported with Tecfidera use.
-In an ongoing long-term extension study, in which 1736 MS patients are treated with Tecfidera, approximately 5% experienced one or more events of herpes zoster, the majority of which were mild to moderate in severity.
-Most subjects, including those who experienced a serious herpes zoster infection, had lymphocyte counts above the lower limit of normal.
-Grade 2 and 3 lymphopenia prevailed in subjects with concurrent lymphocytopenia.
-In the post-marketing setting most cases of herpes zoster infection were non-serious and resolved with treatment.
-Limited data is available on ALC in patients with herpes zoster infection in the post-marketing setting.
-However, when reported, most patients experienced grade 2 (< 0.8 × 109/L to 0.5 × 109/L) or grade 3 (<0.5 × 109/L to 0.2 × 109/L) lymphopenia (see section 4.4).
-
 Lymphopenia
 
 In the placebo-controlled studies most patients (>98%) had normal lymphocyte values prior to initiating treatment.
@@ -111,8 +101,31 @@ On average, lymphocyte counts decreased by approximately 30% of baseline value.
 Mean and median lymphocyte counts remained within normal limits.
 Lymphocyte counts <0.5x109/l were observed in <1% of patients treated with placebo and 6% of patients treated with Tecfidera.
 A lymphocyte count <0.2x109/l was observed in 1 patient treated with Tecfidera and in no patients treated with placebo.
-In clinical studies (both controlled and uncontrolled), 9% of patients had lymphocyte counts ≥0.5 x 109/L and <0.8 x 109/L for at least six months; 2% of patients experienced lymphocyte counts <0.5 x 109/L for at least six months, and in this group the majority of lymphocyte counts remained <0.5 x 109/L with continued therapy.
-PML has occurred in the setting of moderate to severe prolonged lymphopenia (see section 4.4).
+
+In clinical studies (both controlled and uncontrolled), 41% of patients treated with Tecfidera had lymphopenia (defined in these studies as <0.91x109/L).
+Mild lymphopenia (counts ≥0.8x109/L and <0.91 x109/L) was observed in 28% of patients; moderate lymphopenia (counts ≥0.5x109/L and <0.8x109/L) persisting for at least six months was observed in 10% of patients; severe lymphopenia (counts <0.5x109/L) persisting for at least six months was observed in 2% of patients.
+In the group with severe lymphopenia, the majority of lymphocyte counts remained <0.5x109/L with continued therapy.
+
+In addition, in an uncontrolled, prospective, post-marketing study, at week 48 of treatment with Tecfidera (n=185) CD4+ T cells were moderately (counts ≥0.2x109/L to <0.4x109/L) or severely (<0.2x109/L) decreased in up to 37 % or 6 % of patients, respectively, while CD8+ T cells were more frequently reduced with up to 59 % of patients at counts <0.2x109/L and 25 % of patients at counts <0.1x109/L.Infections, including PML and opportunistic infections
+Cases of infections with John Cunningham virus (JCV) causing Progressive Multifocal Leukoencephalopathy (PML) have been reported with Tecfidera (see section 4.4).
+PML may be fatal or result in severe disability.
+In one of the clinical trials, one patient taking Tecfidera developed PML in the setting of prolonged severe lymphopenia (lymphocyte counts predominantly <0.5x109/L for 3.5 years), with a fatal outcome.
+In the post-marketing setting, PML has also occurred in the presence of moderate and mild lymphopenia (>0.5x109/L to <LLN, as defined by local laboratory reference range).
+
+In several PML cases with determination of T cell subsets at the time of diagnosis of PML, CD8+
+T cell counts were found to be decreased to <0.1x109/L, whereas reductions in CD4+ T cells counts were variable (ranging from <0.05 to 0.5x109/L) and correlated more with the overall severity of lymphopenia (<0.5 x109/L to <LLN).
+Consequently, the CD4+/CD8+ ratio was increased in these patients.
+
+Prolonged moderate to severe lymphopenia appears to increase the risk of PML with Tecfidera, however, PML also occurred in patients with mild lymphopenia.
+Additionally, the majority of PML cases in the post-marketing setting have occurred in patients >50 years.
+
+Herpes zoster infections have been reported with Tecfidera use.
+In an ongoing long-term extension study, in which 1736 MS patients are treated with Tecfidera, approximately 5% experienced one or more events of herpes zoster, the majority of which were mild to moderate in severity.
+Most subjects, including those who experienced a serious herpes zoster infection, had lymphocyte counts above the lower limit of normal.
+In a majority of subjects with concurrent lymphocyte counts below the LLN, lymphopenia was rated moderate or severe.
+In the post-marketing setting, most cases of herpes zoster infection were non-serious and resolved with treatment.
+Limited data is available on ALC in patients with herpes zoster infection in the post-marketing setting.
+However, when reported, most patients experienced moderate (<0.8x109/L to 0.5x109/L) or severe (<0.5x109/L to 0.2x109/L) lymphopenia (see section 4.4).
 
 Laboratory abnormalities
 
@@ -125,7 +138,6 @@ Mean values for both parameters remained within normal range.
 A transient increase in mean eosinophil counts was seen during the first 2 months of therapy.
 
 Paediatric population
-
 The safety of Tecfidera in paediatric patients with multiple sclerosis below the age of 18 has not yet been established.
 In a small 24-week open-label uncontrolled study in paediatric patients with RRMS aged 13 to 17 years (120 mg twice a day for 7 days followed by 240 mg twice a day for the remainder of treatment; safety population, n=22), followed by a 96 week extension study (240mg twice per day ; safety population n=20), the safety profile appeared similar to that observed in adult patients.
 

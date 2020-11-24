@@ -19,6 +19,7 @@ The incidence of squamous cell papilloma and carcinoma in the nonglandular stoma
 The forestomach in rodents does not have a human counterpart.
 
 Toxicology
+
 Nonclinical studies in rodent, rabbits, and monkeys were conducted with a dimethyl fumarate suspension (dimethyl fumarate in 0.8% hydroxypropyl methylcellulose) administered by oral gavage.
 The chronic dog study was conducted with oral administration of the dimethyl fumarate capsule.
 

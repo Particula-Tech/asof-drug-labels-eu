@@ -13,7 +13,6 @@ Otherwise the patient should wait until the next scheduled dose.
 
 Temporary dose reduction to 120 mg twice a day may reduce the occurrence of flushing and gastrointestinal adverse reactions.
 Within 1 month, the recommended maintenance dose of 240 mg twice a day should be resumed.
-
 Tecfidera should be taken with food (see section 5.2).
 For those patients who may experience flushing or gastrointestinal adverse reactions, taking Tecfidera with food may improve tolerability (see sections 4.4, 4.5 and 4.8).
 
