@@ -15,7 +15,6 @@ Traceability
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
 Hypersensitivity
-
 If a systemic hypersensitivity reaction (immediate or delayed) occurs, administration of dupilumab should be discontinued immediately and appropriate therapy initiated.
 Cases of anaphylactic reaction, angioedema, and serum sickness/serum sickness-like reaction have been reported.
 Anaphylactic reactions and angioedema have occurred from minutes to up to seven days after the dupilumab injection (section 4.8).
@@ -36,6 +35,7 @@ Patients with pre-existing helminth infections should be treated before initiati
 If patients become infected while receiving treatment with dupilumab and do not respond to anti-helminth treatment, treatment with dupilumab should be discontinued until infection resolves.
 
 Conjunctivitis related events
+
 Patients treated with dupilumab who develop conjunctivitis that does not resolve following standard treatment should undergo ophthalmological examination (section 4.8).
 
 Atopic dermatitis or CRSwNP patients with comorbid asthma
