@@ -19,6 +19,7 @@ The main disposition pathway of brivaracetam is by CYP-independent hydrolysis.
 A second disposition pathway involves hydroxylation mediated by CYP2C19 (see section 5.2).
 
 Brivaracetam plasma concentrations may increase when coadministered with CYP2C19 strong inhibitors (e.g. fluconazole, fluvoxamine), but the risk of a clinically relevant CYP2C19-mediated interaction is considered to be low.
+Limited clinical data are available implying that coadministration of cannabidiol may increase the plasma exposure of brivaracetam, possibly through CYP2C19 inhibition, but the clinical relevance is uncertain.
 
 Rifampicin
 In healthy subjects, coadministration with the strong enzyme inducer rifampicin (600 mg/day for 5 days), decreased brivaracetam area under the plasma concentration curve (AUC) by
@@ -49,6 +50,7 @@ Antiepileptic drugs
 
 Potential interactions between brivaracetam (50 mg/day to 200 mg/day) and other AEDs were investigated in a pooled analysis of plasma drug concentrations from all phase 2-3 studies, in a population pharmacokinetic analysis of placebo-controlled phase 2-3 studies, and in dedicated drug-drug interaction studies (for the following AEDs: carbamazepine, lamotrigine, phenytoin and topiramate).
 The effect of the interactions on the plasma concentration is summarised in table 1 (increase is indicated as “↑” and decrease as “↓”, area under the plasma concentration versus time curve as “AUC”, maximum observed concentration as Cmax).
+
 Table 1: Pharmacokinetic interactions between brivaracetam and other AEDs
 
 | AED coadministered | Influence of AED on brivaracetam plasma concentration | Influence of brivaracetam on AED plasma concentration |
