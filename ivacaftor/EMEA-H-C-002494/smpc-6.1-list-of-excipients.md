@@ -18,6 +18,7 @@ Macrogol (PEG 3350)
 Talc
 Indigo carmine aluminium lake (E132)
 Carnauba wax
+
 Printing ink
 
 Shellac

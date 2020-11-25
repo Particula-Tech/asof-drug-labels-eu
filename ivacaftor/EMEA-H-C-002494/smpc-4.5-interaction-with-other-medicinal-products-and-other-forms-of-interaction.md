@@ -4,7 +4,7 @@ Ivacaftor is a substrate of CYP3A4 and CYP3A5.
 It is a weak inhibitor of CYP3A and P-gp and a potential inhibitor of CYP2C9.
 In vitro studies showed that ivacaftor is not a substrate for P-gp.
 
-Medicinal products affecting the pharmacokinetics of ivacaftor, tezacaftor and/or elexacaftor
+Medicinal products affecting the pharmacokinetics of ivacaftor
 
 CYP3A inducers
 
@@ -17,10 +17,9 @@ CYP3A inhibitors
 
 Ivacaftor is a sensitive CYP3A substrate.
 Co-administration with ketoconazole, a strong CYP3A inhibitor, increased ivacaftor exposure (measured as area under the curve [AUC]) by 8.5-fold and increased M1 to a lesser extent than ivacaftor.
-A reduction of the ivacaftor dose (as monotherapy or in a combination regimen with tezacaftor/ivacaftor or ivacaftor/tezacaftor/elexacaftor) is recommended for co-administration with strong CYP3A inhibitors, such as ketoconazole, itraconazole, posaconazole, voriconazole, telithromycin and clarithromycin (see sections 4.2 and 4.4).
-
+A reduction of the ivacaftor dose (as monotherapy or in a combination regimen with tezacaftor/ivacaftor or ivacaftor/tezacaftor/elexacaftor) is recommended for co-administration with strong CYP3A inhibitors, such as ketoconazole, itraconazole, posaconazole, voriconazole, telithromycin and clarithromycin (see Table 2 and sections 4.2 and 4.4).
 Co-administration with fluconazole, a moderate inhibitor of CYP3A, increased ivacaftor exposure by 3-fold and increased M1 to a lesser extent than ivacaftor.
-A reduction of the ivacaftor dose (as monotherapy or in a combination regimen with tezacaftor/ivacaftor or ivacaftor/tezacaftor/elexacaftor) is recommended for patients taking concomitant moderate CYP3A inhibitors, such as fluconazole, erythromycin, and verapamil (see sections 4.2 and 4.4).
+A reduction of the ivacaftor dose (as monotherapy or in a combination regimen with tezacaftor/ivacaftor or ivacaftor/tezacaftor/elexacaftor) is recommended for patients taking concomitant moderate CYP3A inhibitors, such as fluconazole, erythromycin, and verapamil (see Table 2 and sections 4.2 and 4.4).
 
 Co-administration of ivacaftor with grapefruit juice, which contains one or more components that moderately inhibit CYP3A, may increase exposure to ivacaftor.
 Food or drink containing grapefruit should be avoided during treatment with ivacaftor (as monotherapy or in a combination regimen with tezacaftor/ivacaftor or ivacaftor/tezacaftor/elexacaftor, see section 4.2).
@@ -36,7 +35,7 @@ Ciprofloxacin
 Co-administration of ciprofloxacin with ivacaftor did not affect the exposure of ivacaftor.
 No dose adjustment is required when ivacaftor (as monotherapy or in a combination regimen with tezacaftor/ivacaftor or ivacaftor/tezacaftor/elexacaftor) is co-administered with ciprofloxacin.
 
-Medicinal products affected by ivacaftor, tezacaftor and/or elexacaftor
+Medicinal products affected by ivacaftor
 
 Administration of ivacaftor may increase systemic exposure of medicinal products that are sensitive substrates of CYP2C9, and/or P-gp, and/or CYP3A which may increase or prolong their therapeutic effect and adverse reactions.
 
@@ -56,18 +55,16 @@ CYP3A substrates
 
 Co-administration with (oral) midazolam, a sensitive CYP3A substrate, increased midazolam exposure 1.5-fold, consistent with weak inhibition of CYP3A by ivacaftor.
 No dose adjustment of CYP3A substrates, such as midazolam, alprazolam, diazepam or triazolam, is required when these are co-administered with ivacaftor (as monotherapy or in a combination regimen with tezacaftor/ivacaftor or ivacaftor/tezacaftor/elexacaftor).
-
 Hormonal contraceptives
 
 Ivacaftor (as monotherapy or in a combination regimen with tezacaftor/ivacaftor or ivacaftor/tezacaftor/elexacaftor) has been studied with an oestrogen/progesterone oral contraceptive and was found to have no significant effect on the exposures of the oral contraceptive.
 Therefore, no dose adjustment of oral contraceptives is necessary.
+
 Paediatric population
 
 Interaction studies have only been performed in adults.
 
 [Kalydeco 25 mg granules in sachet]
-
-Medicinal products affecting the pharmacokinetics of ivacaftor
 
 Co-administration of ivacaftor with strong CYP3A inducers, such as rifampicin, rifabutin, phenobarbital, carbamazepine, phenytoin and St. John’s wort (Hypericum perforatum), is not recommended (see section 4.4).
 
@@ -80,8 +77,6 @@ A reduction of the ivacaftor dose is recommended for patients taking concomitant
 Food or drink containing grapefruit should be avoided during treatment with ivacaftor (see section 4.2).
 
 No dose adjustment is required when ivacaftor is co-administered with ciprofloxacin.
-
-Medicinal products affected by ivacaftor
 
 Therefore, monitoring of the international normalised ratio (INR) is recommended during co-administration of warfarin with ivacaftor.
 

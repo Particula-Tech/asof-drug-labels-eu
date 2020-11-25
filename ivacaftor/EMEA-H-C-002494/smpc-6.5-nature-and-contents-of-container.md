@@ -2,6 +2,13 @@
 
 The film-coated tablets are packed in a thermoform (PolyChloroTriFluoroEthylene [PCTFE]/foil) blister or a High-Density PolyEthylene (HDPE) bottle with a polypropylene child-resistant closure, foil-lined induction seal and molecular sieve desiccant.
 
+Kalydeco 75 mg film-coated tablets
+
+The following pack sizes are available:
+− Blister card pack containing 28 film-coated tablets
+
+Kalydeco 150 mg film-coated tablets
+
 The following pack sizes are available:
 − Blister card pack containing 28 film-coated tablets
 − Blister pack containing 56 film-coated tablets

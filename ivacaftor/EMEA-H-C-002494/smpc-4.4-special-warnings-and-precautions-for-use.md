@@ -30,6 +30,7 @@ Patients with severe hepatic impairment should not be treated with ivacaftor in 
 For patients with moderate hepatic impairment, use of ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor is not recommended.
 Treatment should only be considered when there is a clear medical need and the benefits are expected to outweigh the risks.
 If used, it should be used with caution at a reduced dose (see Table 3 and sections 4.2 and 5.2).
+
 Renal impairment
 
 Caution is recommended while using ivacaftor, either as monotherapy or in a combination regimen with tezacaftor/ivacaftor or ivacaftor/tezacaftor/elexacaftor, in patients with severe renal impairment or end-stage renal disease (see sections 4.2 and 5.2).
@@ -53,7 +54,6 @@ Interactions with medicinal products
 CYP3A inducers
 
 Exposure to ivacaftor is significantly decreased and exposures to elexacaftor and tezacaftor are expected to decrease by the concomitant use of CYP3A inducers, potentially resulting in the loss of ivacaftor efficacy; therefore, co-administration of ivacaftor (as monotherapy or in a combination regimen with tezacaftor/ivacaftor or ivacaftor/tezacaftor/elexacaftor) with strong CYP3A inducers is not recommended (see section 4.5).
-
 CYP3A inhibitors
 
 Exposure to ivacaftor, tezacaftor and elexacaftor are increased when co-administered with strong or moderate CYP3A inhibitors.
@@ -69,6 +69,7 @@ Lactose content
 
 Kalydeco contains lactose.
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+
 Sodium content
 
 This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ‘sodium-free’.
@@ -77,7 +78,7 @@ This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say 
 
 Only patients with CF who had a G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N or S549R gating (class III) or G970R mutation in at least one allele of the CFTR gene were included in studies 1, 2, 5 and 7 (see section 5.1).
 
-Moderate transaminase (alanine transaminase [ALT] or aspartate transaminase [AST]) elevations are common in subjects with CF. Transaminase elevations have been observed in some patients treated with ivacaftor monotherapy.
+Moderate transaminase (alanine transaminase [ALT] or aspartate transaminase [AST]) elevations are common in subjects with CF. Transaminase elevations have been observed in some patients treated with ivacaftor as monotherapy.
 
 Use of ivacaftor is not recommended in patients with severe hepatic impairment unless the benefits are expected to outweigh the risks (see sections 4.2 and 5.2).
 No safety data are available in infants aged 4 to less than 12 months of age with moderate or severe hepatic impairment treated with ivacaftor.

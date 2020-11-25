@@ -31,8 +31,8 @@ M1 and M6 are the two major metabolites of ivacaftor in humans.
 M1 has approximately one-sixth the potency of ivacaftor and is considered pharmacologically active.
 M6 has less than one-fiftieth the potency of ivacaftor and is not considered pharmacologically active.
 
-The effect of the CYP3A4*22 heterozygous genotype on tezacaftor, ivacaftor and elexacaftor exposure is consistent with the effect of co-administration of a weak CYP3A4 inhibitor, which is not clinically relevant.
-No dose-adjustment of tezacaftor, ivacaftor or elexacaftor is considered necessary.
+The effect of the CYP3A4*22 heterozygous genotype on ivacaftor, tezacaftor, and elexacaftor exposure is consistent with the effect of co-administration of a weak CYP3A4 inhibitor, which is not clinically relevant.
+No dose-adjustment of ivacaftor, tezacaftor, or elexacaftor is considered necessary.
 The effect in CYP3A4*22 homozygous genotype patients is expected to be stronger.
 However, no data are available for such patients.
 
@@ -43,6 +43,7 @@ The major metabolites M1 and M6 accounted for approximately 65% of the total dos
 There was negligible urinary excretion of ivacaftor as unchanged parent.
 The apparent terminal half-life was approximately 12 hours following a single dose in the fed state.
 The apparent clearance (CL/F) of ivacaftor was similar for healthy subjects and patients with CF. The mean (± SD) CL/F for a single 150 mg dose was 17.3 (8.4) L/hr in healthy subjects.
+
 Linearity/non-linearity
 
 The pharmacokinetics of ivacaftor are generally linear with respect to time or dose ranging from 25 mg to 250 mg.
@@ -79,9 +80,10 @@ Race had no clinically meaningful effect on the PK of ivacaftor in white (n = 37
 Gender
 
 The pharmacokinetic parameters of ivacaftor, either as monotherapy or in combination with tezacaftor/ivacaftor or ivacaftor/tezacaftor/elexacaftor, are similar in males and females.
+
 Elderly
 
-Clinical studies of ivacaftor monotherapy did not include sufficient numbers of patients aged 65 years and older to determine whether pharmacokinetic parameters are similar or not to those in younger adults.
+Clinical studies of ivacaftor as monotherapy did not include sufficient numbers of patients aged 65 years and older to determine whether pharmacokinetic parameters are similar or not to those in younger adults.
 
 The pharmacokinetic parameters of ivacaftor in combination with tezacaftor in the elderly patients (65-72 years) are comparable to those in younger adults.
 No patients aged 65 years and older were included in the clinical studies of ivacaftor/tezacaftor/elexacaftor and therefore it cannot be determined whether pharmacokinetic parameters are similar or not to those in younger adults.
@@ -103,21 +105,26 @@ Table 9: Mean (SD) ivacaftor exposure by age group
 | 6- to 11-year-olds † (≥ 14 kg to < 25 kg) | 75 mg q12h | 641 (329) | 10760 (4470) |
 | 6- to 11-year-olds † (≥ 25 kg) | 150 mg q12h | 958 (546) | 15300 (7340) |
 | 12- to 17-year-olds | 150 mg q12h | 564 (242) | 9240 (3420) |
-| Adults (≥ 18 years old) | 150 mg q12h | 701 (317) | 10700 (4100) |
+
+Adults (≥ 18 years old) 150 mg q12h 701 (317) 10700 (4100)
 
 * Values based on data from a single patient; standard deviation not reported.
 † Exposures in 6- to 11-year-olds are predictions based on simulations from the population PK model using data obtained for this age group.
 
-The pharmacokinetic parameters of ivacaftor in combination with tezacaftor and with tezacaftor/elexacaftor in adolescent patients (12 to 17-year-olds) are similar to that of adult patients (see Table 10).
+Ivacaftor exposure in combination with tezacaftor and with tezacaftor/elexacaftor is presented in Table 10.
 
-Table 10: Mean (SD) of ivacaftor exposure when used in combination with tezacaftor and in combination with tezacaftor/elexacaftor, by age group
+Table 10: Mean (SD) ivacaftor exposure when used in combination, by age group
 
 | Age group | Dose | Ivacaftor Mean (SD) AUC0-12h,ss (ng*h/mL) |
 | --- | --- | --- |
-| Adolescent patients (12 to <18 years) n = 97 | tezacaftor 100 mg qd/ ivacaftor 150 mg q12h | 11400 (5500) |
-| Adult patients (≥ 18 years) n = 389 |  | 11400 (4140) |
-| Adolescent patients (12 to <18 years) n = 69 | elexacaftor 200 mg qd/ tezacaftor 100 mg qd/ ivacaftor 150 mg q12h | 10600 (3350) |
-| Adult patients (≥18 years) n = 186 |  | 12100 (4170) |
+| Children (6 years to less than 12 years; <30 kg) n = 71 | tezacaftor 50 mg qd/ ivacaftor 75 mg q12h | 7100 (1950) |
+| Children (6 years to less than 12 years; ≥30 kg)* n = 51 | tezacaftor 100 mg qd/ ivacaftor 150 mg q12h | 11800 (3890) |
+| Adolescent patients (12 to less than18 years) n = 97 | tezacaftor 100 mg qd/ ivacaftor 150 mg q12h | 11400 (5500) |
+| Adult patients (18 years and older) n = 389 |  | 11400 (4140) |
+| Adolescent patients (12 to less than 18 years) n = 69 | elexacaftor 200 mg qd/ tezacaftor 100 mg qd/ ivacaftor 150 mg q12h | 10600 (3350) |
+| Adult patients (18 years and older) n = 186 |  | 12100 (4170) |
+
+* Exposures in ≥30 kg to <40 kg weight range are predictions derived from the population PK model.
 
 [Kalydeco 25 mg granules in sachet]
 
@@ -128,11 +135,10 @@ After oral administration of ivacaftor 150 mg every 12 hours for 7 days in healt
 
 The effect of the CYP3A4*22 heterozygous genotype on ivacaftor exposure is consistent with the effect of co-administration of a weak CYP3A4 inhibitor, which is not clinically relevant.
 No dose adjustment of ivacaftor is considered necessary.
-The effect of CYP3A4*22 homozygous genotype patients is expected to be stronger.
 
 The apparent clearance (CL/F) of ivacaftor was similar for healthy subjects and patients with CF. The mean (±SD) CL/F for a single 150 mg dose was 17.3 (8.4) L/hr in healthy subjects.
 
-Based on these results, a modified regimen of Kalydeco monotherapy is recommended for patients with moderate hepatic impairment (see section 4.2)
+Based on these results, a modified regimen of Kalydeco as monotherapy is recommended for patients with moderate hepatic impairment (see section 4.2)
 
 The impact of severe hepatic impairment (Child Pugh Class C, score 10 to15) on the pharmacokinetics of ivacaftor have not been studied.
 The use of Kalydeco in patients with severe hepatic impairment is therefore not recommended unless the benefits outweigh the risks (see section 4.2 and section 4.4).
@@ -145,8 +151,6 @@ In a human pharmacokinetic study, there was minimal elimination of ivacaftor and
 However, caution is recommended when administering ivacaftor to patients with severe renal impairment (creatinine clearance less than or equal to 30 mL/min) or end-stage renal disease (see sections 4.2 and 4.4).
 
 The pharmacokinetic parameters of ivacaftor are similar in males and females.
-
-Clinical studies of ivacaftor as monotherapy did not include sufficient numbers of patients aged 65 years and older to determine whether pharmacokinetic parameters are similar or not to those in younger adults.
 
 Predicted ivacaftor exposure based on observed ivacaftor concentrations in phase 2 and 3 studies as determined using population PK analysis is presented by age group in Table 8.
 

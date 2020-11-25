@@ -8,7 +8,6 @@ Transaminase elevations occurred in 12.8% of ivacaftor-treated patients versus 1
 In patients aged 2 to less than 6 years the most common adverse reactions were nasal congestion (26.5%), upper respiratory tract infection (23.5%), transaminase elevations (14.7%), rash (11.8%), and bacteria in sputum (11.8%).
 
 Serious adverse reactions in patients who received ivacaftor included abdominal pain and transaminase elevations (see section 4.4).
-
 Tabulated list of adverse reactions
 
 Table 4 reflects the adverse reactions observed with ivacaftor monotherapy in clinical trials (placebo-controlled and uncontrolled studies) in which the length of exposure to ivacaftor ranged from 16 weeks to 144 weeks.
@@ -16,7 +15,7 @@ Additional adverse reactions observed with ivacaftor in a combination regimen wi
 The frequency of adverse reactions is defined as follows: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Table 4: Adverse reactions in patients treated with ivacaftor monotherapy and/or in a combination regimen
+Table 4: Adverse reactions
 
 | System organ class | Adverse reactions | Frequency |
 | --- | --- | --- |
@@ -89,10 +88,10 @@ See section 4.4.
 Increased creatine phosphokinase
 
 Generally transient and asymptomatic increases in creatine phosphokinase were observed in patients treated with ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor, which did not lead to treatment discontinuation.
-
 Increased blood pressure
 
 An increase from baseline in mean systolic and diastolic blood pressure of 3.5 mmHg and 1.9 mmHg, respectively was observed in patients treated with ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor.
+
 Paediatric population
 
 The safety data of ivacaftor as monotherapy were evaluated in 6 patients between 4 months to less than 6 months of age, 11 patients between 6 months to less than 12 months of age, 19 patients between 12 months to less than 24 months of age, 34 patients between 2 to less than 6 years of age, 61 patients between 6 to less than 12 years of age and 94 patients between 12 to less than 18 years of age.
@@ -101,10 +100,11 @@ The safety profile of ivacaftor (as monotherapy or in a combination regimen) is 
 
 The incidence of transaminase elevations (ALT or AST) observed in studies 2, 5 and 6 (patients aged 6 to less than 12 years), study 7 (patients aged 2 to less than 6 years), and study 8 (patients aged 6 to less than 24 months) are described in Table 5.
 In the placebo controlled studies, the incidence of transaminase elevations were similar between treatment with ivacaftor (15.0%) and placebo (14.6%).
+Peak LFT elevations were generally higher in paediatric patients than in older patients.
 Across all populations, peak LFT elevations returned to baseline levels following interruption, and in almost all instances where dosing was interrupted for elevated transaminases and subsequently resumed, ivacaftor dosing was able to be resumed successfully (see section 4.4).
 Cases suggestive of positive rechallenge were observed.
 In study 7 ivacaftor was permanently discontinued in one patient.
-In study 8 no patients had elevations in total bilirubin or discontinued ivacaftor treatment due to transaminase elevations in either cohort (see section 4.4 for management of elevated transaminases).
+In study 8 no patients had elevations in total bilirubin or discontinued ivacaftor treatment due to transaminase elevations in either age cohort (see section 4.4 for management of elevated transaminases).
 
 Table 5: Transaminase elevations in patients 4 months to < 12 years treated with ivacaftor as monotherapy
 
@@ -127,7 +127,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 The most common adverse reactions experienced by patients aged 6 years and older are headache (23.9%), oropharyngeal pain (22.0%), upper respiratory tract infection (22.0%), nasal congestion (20.2%), abdominal pain (15.6%), nasopharyngitis (14.7%), diarrhoea (12.8%), dizziness (9.2%), rash (12.8%) and bacteria in sputum (12.8%).
 
 Table 2 reflects the adverse reactions observed with ivacaftor in clinical trials (placebo-controlled and uncontrolled studies) in which the length of exposure to ivacaftor ranged from 16 weeks to 144 weeks.
-Table 2: Adverse reactions in ivacaftor-treated patients aged 4 months and older
+Table 2: Adverse reactions
 
 | System organ class | Adverse reactions | Frequency |
 | --- | --- | --- |
@@ -167,6 +167,5 @@ The safety data of ivacaftor were evaluated in 6 patients between 4 months to le
 The safety profile is generally consistent among paediatric patients aged 4 months and older and is also consistent with adult patients.
 
 The incidence of transaminase elevations (ALT or AST) observed in studies 2, 5 and 6 (patients aged 6 to less than 12 years), study 7 (patients aged 2 to less than 6 years), and study 8 (patients aged 6 to less than 24 months) are described in Table 3.
-In the placebo controlled studies, the incidence of transaminase elevations were similar between treatment with ivacaftor (15.0%) and placebo(14.6%)Across all populations, peak LFT elevations returned to baseline levels following interruption, and in almost all instances where dosing was interrupted for elevated transaminases and subsequently resumed, ivacaftor dosing was able to be resumed successfully (see section 4.4).
 
 Table 3: Transaminase elevations in patients 4 months to < 12 years treated with ivacaftor as monotherapy

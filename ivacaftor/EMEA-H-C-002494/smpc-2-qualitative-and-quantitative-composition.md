@@ -1,5 +1,15 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
+Kalydeco 75 mg film-coated tablets
+
+Each film-coated tablet contains 75 mg of ivacaftor.
+
+Excipient with known effect
+
+Each film-coated tablet contains 83.6 mg of lactose monohydrate.
+
+Kalydeco 150 mg film-coated tablets
+
 Each film-coated tablet contains 150 mg of ivacaftor.
 
 Excipient with known effect
