@@ -1,11 +1,12 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Lacosamide should be used with caution in patients treated with medicinal products known to be associated with PR prolongation (including sodium channel blocking antiepileptic medicinal products) and in patients treated with antiarrhythmics.
-However, subgroup analysis in clinical trials did not identify an increased magnitude of PR prolongation in patients with concomitant administration of carbamazepine or lamotrigine.
+However, subgroup analysis in clinical studies did not identify an increased magnitude of PR prolongation in patients with concomitant administration of carbamazepine or lamotrigine.
+
 In vitro data
 
 Data generally suggest that lacosamide has a low interaction potential.
-In vitro studies indicate that the enzymes CYP1A2, CYP2B6, and CYP2C9 are not induced and that CYP1A1, CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2D6, and CYP2E1 are not inhibited by lacosamide at plasma concentrations observed in clinical trials.
+In vitro studies indicate that the enzymes CYP1A2, CYP2B6, and CYP2C9 are not induced and that CYP1A1, CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2D6, and CYP2E1 are not inhibited by lacosamide at plasma concentrations observed in clinical studies.
 An in vitro study indicated that lacosamide is not transported by P-glycoprotein in the intestine.
 In vitro data show that CYP2C9, CYP2C19 and CYP3A4 are capable of catalysing the formation of the O-desmethyl metabolite.
 
@@ -24,18 +25,17 @@ Therefore, starting or ending treatment with these enzyme inducers should be don
 
 Antiepileptic medicinal products
 
-In interaction trials lacosamide did not significantly affect the plasma concentrations of carbamazepine and valproic acid.
+In interaction studies lacosamide did not significantly affect the plasma concentrations of carbamazepine and valproic acid.
 Lacosamide plasma concentrations were not affected by carbamazepine and by valproic acid.
 Population pharmacokinetic analyses in different age groups estimated that concomitant treatment with other antiepileptic medicinal products known to be enzyme inducers (carbamazepine, phenytoin, phenobarbital, in various doses) decreased the overall systemic exposure of lacosamide by 25 % in adults and 17 % in paediatric patients.
-
 Oral contraceptives
 
-In an interaction trial there was no clinically relevant interaction between lacosamide and the oral contraceptives ethinylestradiol and levonorgestrel.
+In an interaction study there was no clinically relevant interaction between lacosamide and the oral contraceptives ethinylestradiol and levonorgestrel.
 Progesterone concentrations were not affected when the medicinal products were co-administered.
 
 Others
 
-Interaction trials showed that lacosamide had no effect on the pharmacokinetics of digoxin.
+Interaction studies showed that lacosamide had no effect on the pharmacokinetics of digoxin.
 There was no clinically relevant interaction between lacosamide and metformin.
 Co-administration of warfarin with lacosamide does not result in a clinically relevant change in the pharmacokinetics and pharmacodynamics of warfarin.
 Although no pharmacokinetic data on the interaction of lacosamide with alcohol are available, a pharmacodynamic effect cannot be excluded.

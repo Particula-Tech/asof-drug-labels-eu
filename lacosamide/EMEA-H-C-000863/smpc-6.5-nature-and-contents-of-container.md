@@ -25,7 +25,6 @@ Packs of 14, 28 and 56 film-coated tablets in PVC/PVDC blister sealed with an al
 Multipacks containing 168 (3 packs of 56 tablets) film-coated tablets in PVC/PVDC blister sealed with an aluminium foil.
 Packs of 14 x 1 and 56 x 1 film-coated tablet in PVC/PVDC perforated unit dose blisters sealed with an aluminium foil.
 Packs of 60 film-coated tablets in HDPE bottle with a child-resistant closure.
-
 Not all pack sizes may be marketed.
 
 [Treatment initiation pack (in adolescent and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]

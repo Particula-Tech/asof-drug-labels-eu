@@ -20,22 +20,23 @@ More details are provided in the table below.
 | Titration (incremental steps) | 50 mg twice a day (100 mg/day) at weekly intervals | 50 mg twice a day (100 mg/day) at weekly intervals |
 | Maximum recommended dose | up to 600 mg/day | up to 400 mg/day |
 
-Monotherapy
+Monotherapy (in the treatment of partial-onset seizures)
 The recommended starting dose is 50 mg twice a day which should be increased to an initial therapeutic dose of 100 mg twice a day after one week.
 Lacosamide can also be initiated at the dose of 100 mg twice a day based on the physician's assessment of required seizure reduction versus potential side effects.
 Depending on response and tolerability, the maintenance dose can be further increased at weekly intervals by 50 mg twice a day (100 mg/day), up to a maximum recommended daily dose of 300 mg twice a day (600 mg/day).
 In patients having reached a dose greater than 400 mg/day and who need an additional antiepileptic medicinal product, the posology that is recommended for adjunctive therapy below should be followed.
 
-Adjunctive therapy
+Adjunctive therapy (in the treatment of partial-onset seizures or in the treatment of primary generalised tonic-clonic seizures)
 The recommended starting dose is 50 mg twice a day which should be increased to an initial therapeutic dose of 100 mg twice a day after one week.
 Depending on response and tolerability, the maintenance dose can be further increased at weekly intervals by 50 mg twice a day (100 mg/day), up to a maximum recommended daily dose of 400 mg (200 mg twice a day).
 
-Initiation of lacosamide treatment with a loading dose
+Initiation of lacosamide treatment with a loading dose (initial monotherapy or conversion to monotherapy in the treatment of partial-onset seizures or adjunctive therapy in the treatment of partial-onset seizures or adjunctive therapy in the treatment of primary generalised tonic-clonic seizures)
 Lacosamide treatment may also be initiated with a single loading dose of 200 mg, followed approximately 12 hours later by a 100 mg twice a day (200 mg/day) maintenance dose regimen.
 Subsequent dose adjustments should be performed according to individual response and tolerability as described above.
 A loading dose may be initiated in patients in situations when the physician determines that rapid attainment of lacosamide steady state plasma concentration and therapeutic effect is warranted.
 It should be administered under medical supervision with consideration of the potential for increased incidence of serious cardiac arrhythmia and central nervous system adverse reactions (see section 4.8).
 Administration of a loading dose has not been studied in acute conditions such as status epilepticus.
+
 Discontinuation
 In accordance with current clinical practice, if lacosamide has to be discontinued, it is recommended this be done gradually (e.g. taper the daily dose by 200 mg/week).
 In patients who develop serious cardiac arrhythmia, clinical benefit/risk assessment should be performed and if needed lacosamide should be discontinued.
@@ -71,12 +72,11 @@ The physician should prescribe the most appropriate formulation and strength acc
 
 Adolescents and children weighing 50 kg or more
 Dosage in adolescents and children weighing 50 kg or more is the same as in adults (see above).
-
 Children (from 4 years of age) and adolescents weighing less than 50 kg
 The dose is determined based on body weight.
 It is therefore recommended to initiate treatment with the syrup and switch to tablets, if desired.
 
-Monotherapy
+Monotherapy (in the treatment of partial-onset seizures)
 The recommended starting dose is 2 mg/kg/day which should be increased to an initial therapeutic dose of 4 mg/kg/day after one week.
 Depending on response and tolerability, the maintenance dose can be further increased by 2 mg/kg/day every week.
 The dose should be gradually increased until the optimum response is obtained.
@@ -92,7 +92,7 @@ The following table summarises the recommended posology in monotherapy for child
 | Maximum recommended dose in patients < 40 kg | up to 12 mg/kg/day |
 | Maximum recommended dose in patients ≥ 40 kg to < 50 kg | up to 10 mg/kg/day |
 
-Adjunctive therapy
+Adjunctive therapy (in the treatment of partial-onset seizures or in the treatment of primary generalised tonic-clonic seizures)
 The recommended starting dose is 2 mg/kg/day which should be increased to an initial therapeutic dose of 4 mg/kg/day after one week.
 Depending on response and tolerability, the maintenance dose can be further increased by 2 mg/kg/day every week.
 The dose should be gradually adjusted until the optimum response is obtained.
@@ -116,7 +116,6 @@ Use of a loading dose is not recommended in adolescents and children weighing le
 Children less than 4 years
 The safety and efficacy of lacosamide in children aged below 4 years have not yet been established.
 No data are available.
-
 Method of administration
 
 Lacosamide film-coated tablets are for oral use.
@@ -133,6 +132,8 @@ Depending on response and tolerability, Vimpat 150 mg tablets may be taken twice
 A maximum dose of 250 mg/day is recommended for paediatric patients weighing 50 kg or more and for adult patients with severe renal impairment (CLCR ≤ 30 ml/min) or with end-stage renal disease.
 In all patients with renal impairment, the dose titration should be performed with caution (see section 5.2).
 
+A maximum dose of 300 mg/day is recommended for paediatric patients weighing g or more and for adult patients with mild to moderate hepatic impairment.
+
 Children (from 4 years of age) and adolescents weighing below 50 kg
 This presentation is not suitable for this category of patients.
 
@@ -144,6 +145,7 @@ When prescribing the syrup the dose should be expressed in volume (ml) rather th
 
 The tables below provide examples of volumes of syrup per intake depending on prescribed dose and body weight.
 The precise volume of syrup is to be calculated according to the exact body weight of the child.
+
 Monotherapy doses to be taken twice daily for children from 4 years of age weighing less than 40 kg(1):
 
 | Weight | 0.1 ml/kg (1 mg/kg) Starting dose | 0.2 ml/kg (2 mg/kg) | 0.3 ml/kg (3 mg/kg) | 0.4 ml/kg (4 mg/kg) | 0.5 ml/kg (5 mg/kg) | 0.6 ml/kg (6 mg/kg) Maximum recommended dose |
@@ -218,12 +220,10 @@ Instructions for use are provided in the package leaflet.
 
 Lacosamide therapy can be initiated with either oral or intravenous administration.
 Solution for infusion is an alternative for patients when oral administration is temporarily not feasible.
-The overall duration of treatment with intravenous lacosamide is at the physician’s discretion; there is experience from clinical trials with twice daily infusions of lacosamide for up to 5 days in adjunctive therapy.
+The overall duration of treatment with intravenous lacosamide is at the physician’s discretion; there is experience from clinical studies with twice daily infusions of lacosamide for up to 5 days in adjunctive therapy.
 Conversion to or from oral and intravenous administration can be done directly without titration.
 The total daily dose and twice daily administration should be maintained.
 Monitor closely patients with known cardiac conduction problems, on concomitant medications that prolong PR interval, or with severe cardiac disease (e.g. myocardial ischemia, heart failure) when lacosamide dose is higher than 400 mg/day (see Method of administration below and section 4.4).
-
-Based on data in adults, in paediatric patients weighing less than 50 kg with mild to moderate hepatic impairment a reduction of 25% of the maximum dose should be applied.
 
 The following table below summarises the recommended posology in monotherapy for children and adolescents weighing less than 50 kg.
 

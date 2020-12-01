@@ -7,6 +7,7 @@ The oral bioavailability of lacosamide tablets is approximately 100 %.
 Following oral administration, the plasma concentration of unchanged lacosamide increases rapidly and reaches Cmax about 0.5 to 4 hours post-dose.
 Vimpat tablets and oral syrup are bioequivalent.
 Food does not affect the rate and extent of absorption.
+
 Distribution
 
 The volume of distribution is approximately 0.6 L/kg.
@@ -21,7 +22,7 @@ A polar fraction proposed to be serine derivatives accounted for approximately 2
 Small amounts (0.5-2 %) of additional metabolites were found in the urine.
 In vitro data show that CYP2C9, CYP2C19 and CYP3A4 are capable of catalysing the formation of the O-desmethyl metabolite but the main contributing isoenzyme has not been confirmed in vivo.
 No clinically relevant difference in lacosamide exposure was observed comparing its pharmacokinetics in extensive metabolisers (EMs, with a functional CYP2C19) and poor metabolisers (PMs, lacking a functional CYP2C19).
-Furthermore an interaction trial with omeprazole (CYP2C19-inhibitor) demonstrated no clinically relevant changes in lacosamide plasma concentrations indicating that the importance of this pathway is minor.
+Furthermore an interaction study with omeprazole (CYP2C19-inhibitor) demonstrated no clinically relevant changes in lacosamide plasma concentrations indicating that the importance of this pathway is minor.
 The plasma concentration of O-desmethyl-lacosamide is approximately 15 % of the concentration of lacosamide in plasma.
 This major metabolite has no known pharmacological activity.
 
@@ -35,11 +36,10 @@ Following twice daily dosing, steady state plasma concentrations are achieved af
 The plasma concentration increases with an accumulation factor of approximately 2.
 
 A single loading dose of 200 mg approximates steady-state concentrations comparable to 100 mg twice daily oral administration.
-
 Pharmacokinetics in special patient groups
 
 Gender
-Clinical trials indicate that gender does not have a clinically significant influence on the plasma concentrations of lacosamide.
+Clinical studies indicate that gender does not have a clinically significant influence on the plasma concentrations of lacosamide.
 
 Renal impairment
 The AUC of lacosamide was increased by approximately 30 % in mildly and moderately and 60 % in severely renal impaired patients and patients with end-stage renal disease requiring haemodialysis compared to healthy subjects, whereas Cmax was unaffected.
@@ -69,6 +69,7 @@ The paediatric pharmacokinetic profile of lacosamide was determined in a populat
 The administered lacosamide doses ranged from 2 to 17.8 mg/kg/day in twice daily intake, with a maximum of 600 mg/day for children weighing 50 kg or more.
 The typical plasma clearance was estimated to be 1.04 L/h, 1.32 L/h and 1.86 L/h for children weighing 20 kg, 30 kg and 50 kg respectively.
 In comparison, plasma clearance was estimated at 1.92 L/h in adults (70 kg body weight).
+Population pharmacokinetic analysis using sparse pharmacokinetic samples from PGTCS study showed a similar exposure in patients with PGTCS and in patients with partial-onset seizures.
 
 [Treatment initiation pack (in adolescent and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
 

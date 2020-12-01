@@ -2,7 +2,7 @@
 
 Summary of safety profile
 
-Based on the analysis of pooled placebo-controlled clinical trials in adjunctive therapy in 1,308 patients with partial-onset seizures, a total of 61.9 % of patients randomised to lacosamide and 35.2 % of patients randomised to placebo reported at least 1 adverse reaction.
+Based on the analysis of pooled placebo-controlled clinical studies in adjunctive therapy in 1,308 patients with partial-onset seizures, a total of 61.9 % of patients randomised to lacosamide and 35.2 % of patients randomised to placebo reported at least 1 adverse reaction.
 The most frequently reported adverse reactions (≥ 10 %) with lacosamide treatment were dizziness, headache, nausea and diplopia.
 They were usually mild to moderate in intensity.
 Some were dose-related and could be alleviated by reducing the dose.
@@ -10,12 +10,19 @@ Incidence and severity of central nervous system (CNS) and gastrointestinal (GI)
 In all of these controlled studies, the discontinuation rate due to adverse reactions was 12.2 % for patients randomised to lacosamide and 1.6 % for patients randomised to placebo.
 The most common adverse reaction resulting in discontinuation of lacosamide therapy was dizziness.
 Incidence of CNS adverse reactions such as dizziness may be higher after a loading dose.
-Based on the analysis of data from a non-inferiority monotherapy clinical trial comparing lacosamide to carbamazepine controlled release (CR), the most frequently reported adverse reactions (≥ 10 %) for lacosamide were headache and dizziness.
+
+Based on the analysis of data from a non-inferiority monotherapy clinical study comparing lacosamide to carbamazepine controlled release (CR), the most frequently reported adverse reactions (≥ 10 %) for lacosamide were headache and dizziness.
 The discontinuation rate due to adverse reactions was 10.6 % for patients treated with lacosamide and 15.6 % for patients treated with carbamazepine CR.
+
+The safety profile of lacosamide reported in a study conducted in patients aged 4 years and older with idiopathic generalised epilepsy with primary generalised tonic-clonic seizures (PGTCS) was consistent with the safety profile reported from the pooled placebo-controlled clinical studies in partial-onset seizures.
+Additional adverse reactions reported in PGTCS patients were myoclonic epilepsy (2.5 % in the lacosamide-group and 0 % in the placebo-group) and ataxia (3.3 % in the lacosamide-group and 0 % in the placebo-group).
+The most frequently reported adverse reactions were dizziness and somnolence.
+The most common adverse reactions resulting in discontinuation of lacosamide therapy were dizziness and suicidal ideation.
+The discontinuation rate due to adverse reactions was 9.1 % in the lacosamide group and 4.1 % in the placebo group.
 
 Tabulated list of adverse reactions
 
-The table below shows the frequencies of adverse reactions which have been reported in clinical trials and post-marketing experience.
+The table below shows the frequencies of adverse reactions which have been reported in clinical studies and post-marketing experience.
 The frequencies are defined as follows: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100) and not known (frequency cannot be estimated from available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
@@ -24,7 +31,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Blood and lymphatic disorders |  |  |  | Agranulocytosis(1) |
 | Immune system disorders |  |  | Drug hypersensitivity(1) | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1,2) |
 | Psychiatric disorders |  | Depression Confusional state Insomnia(1) | Aggression Agitation(1) Euphoric mood(1) Psychotic disorder(1) Suicide attempt (1) Suicidal ideation Hallucination (1) |  |
-| Nervous system disorders | Dizziness Headache | Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope(2) Coordination abnormal | Convulsion(3) |
+| Nervous system disorders | Dizziness Headache | Myoclonic seizures(3) Ataxia Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope(2) Coordination abnormal | Convulsion |
 | Eye disorders | Diplopia | Vision blurred |  |  |
 | Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
 | Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) A(1,2tr) ial Fibrillation Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1) |
@@ -37,34 +44,34 @@ Within each frequency grouping, undesirable effects are presented in order of de
 
 (1) Adverse reactions reported in post marketing experience.
 (2) See Description of selected adverse reactions.
-(3) Reported in open-label studies.
-
+(3) Reported in PGTCS studies.
 Description of selected adverse reactions
 
 The use of lacosamide is associated with dose-related increase in the PR interval.
 Adverse reactions associated with PR interval prolongation (e.g. atrioventricular block, syncope, bradycardia) may occur.
-In adjunctive clinical trials in epilepsy patients, the incidence rate of reported first-degree AV Block is uncommon, 0.7 %, 0 %, 0.5 % and 0 % for lacosamide 200 mg, 400 mg, 600 mg or placebo, respectively.
+In adjunctive clinical studies in epilepsy patients, the incidence rate of reported first-degree AV Block is uncommon, 0.7 %, 0 %, 0.5 % and 0 % for lacosamide 200 mg, 400 mg, 600 mg or placebo, respectively.
 No second- or higher degree AV Block was seen in these studies.
 However, cases with second- and third-degree AV Block associated with lacosamide treatment have been reported in post-marketing experience.
-In the monotherapy clinical trial comparing lacosamide to carbamazepine CR, the extent of increase in PR interval was comparable between lacosamide and carbamazepine.
-The incidence rate for syncope reported in pooled adjunctive therapy clinical trials is uncommon and did not differ between lacosamide (n=944) treated epilepsy patients (0.1 %) and placebo (n=364) treated epilepsy patients (0.3 %).
-In the monotherapy clinical trial comparing lacosamide to carbamazepine CR, syncope was reported in 7/444 (1.6 %) lacosamide patients and in 1/442 (0.2 %) carbamazepine CR patients.
-Atrial fibrillation or flutter were not reported in short term clinical trials; however, both have been reported in open-label epilepsy trials and in post-marketing experience.
+In the monotherapy clinical study comparing lacosamide to carbamazepine CR, the extent of increase in PR interval was comparable between lacosamide and carbamazepine.
+The incidence rate for syncope reported in pooled adjunctive therapy clinical studies is uncommon and did not differ between lacosamide (n=944) treated epilepsy patients (0.1 %) and placebo (n=364) treated epilepsy patients (0.3 %).
+In the monotherapy clinical study comparing lacosamide to carbamazepine CR, syncope was reported in 7/444 (1.6 %) lacosamide patients and in 1/442 (0.2 %) carbamazepine CR patients.
+Atrial fibrillation or flutter were not reported in short term clinical studies; however, both have been reported in open-label epilepsy studies and in post-marketing experience.
 
 Laboratory abnormalities
-Abnormalities in liver function tests have been observed in placebo-controlled trials with lacosamide in adult patients with partial-onset seizures who were taking 1 to 3 concomitant antiepileptic medicinal products.
+Abnormalities in liver function tests have been observed in placebo-controlled studies with lacosamide in adult patients with partial-onset seizures who were taking 1 to 3 concomitant antiepileptic medicinal products.
 Elevations of ALT to ≥ 3x ULN occurred in 0.7 % (7/935) of Vimpat patients and 0 % (0/356) of placebo patients.
 
 Multiorgan hypersensitivity reactions
 Multiorgan hypersensitivity reactions (also known as Drug Reaction with Eosinophilia and Systemic Symptoms, DRESS) have been reported in patients treated with some antiepileptic medicinal products.
 These reactions are variable in expression, but typically present with fever and rash and can be associated with involvement of different organ systems.
 If multiorgan hypersensitivity reaction is suspected, lacosamide should be discontinued.
+
 Paediatric population
 
-The safety profile of lacosamide in placebo-controlled (see study details in section 5.1) and in open-label studies (n=408) in adjunctive therapy in children from 4 years of age was consistent with the safety profile observed in adults although the frequency of some adverse reactions (somnolence, vomiting and convulsion) was increased and additional adverse reactions (nasopharyngitis, pyrexia, pharyngitis, decreased appetite, lethargy and abnormal behaviour) have been reported in paediatric patients: nasopharyngitis (15.7 %), vomiting (14.7 %), somnolence (14.0 %), dizziness (13.5 %), pyrexia (13.0 %), convulsion (7.8 %), decreased appetite (5.9 %), pharyngitis (4.7 %), lethargy
-(2.7 %) and abnormal behaviour (1.7 %).
+The safety profile of lacosamide in placebo-controlled (see study details in section 5.1) and in open-label studies (n=408) in adjunctive therapy in children from 4 years of age with partial-onset seizures was consistent with the safety profile observed in adults although the frequency of some adverse reactions (somnolence, vomiting and convulsion) was increased and additional adverse reactions (nasopharyngitis, pyrexia, pharyngitis, decreased appetite, lethargy and abnormal behaviour) have been reported in paediatric patients: nasopharyngitis (15.7 %), vomiting (14.7 %), somnolence
+(14.0 %), dizziness (13.5 %), pyrexia (13.0 %), convulsion (7.8 %), decreased appetite (5.9 %), pharyngitis (4.7 %), lethargy (2.7 %) and abnormal behaviour (1.7 %).
 A total of 67.8 % of patients randomised to lacosamide and 58.1 % of patients randomised to placebo reported at least 1 adverse reaction.
-Behavioural, cognition and emotional functioning were measured by the questionnaires Achenbach CBCL and BRIEF that were applied at baseline and throughout the studies and where mainly stable during the course of the trials.
+Behavioural, cognition and emotional functioning were measured by the questionnaires Achenbach CBCL and BRIEF that were applied at baseline and throughout the studies and were mainly stable during the course of the studies.
 
 Elderly population
 
@@ -83,13 +90,28 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [Treatment initiation pack (in adolescent and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
 
-Based on the analysis of data from a non-inferiority monotherapy clinical trial comparing lacosamide to carbamazepine controlled release (CR), the most frequently reported adverse reactions (≥10%) for lacosamide were headache and dizziness.
+Based on the analysis of data from a non-inferiority monotherapy clinical study comparing lacosamide to carbamazepine controlled release (CR), the most frequently reported adverse reactions (≥10 %) for lacosamide were headache and dizziness.
 
 These reactions are variable in expression but typically present with fever and rash and can be associated with involvement of different organ systems.
 
 [Vimpat 10 mg/ml syrup]
 
-(all sentences already above)
+| System organ class | Very common | Common | Uncommon | Not known |
+| --- | --- | --- | --- | --- |
+| Blood and lymphatic disorders |  |  |  | Agranulocytosis(1) |
+| Immune system disorders |  |  | Drug hypersensitivity(1) | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1,2) |
+| Psychiatric disorders |  | Depression Confusional state Insomnia(1) | Aggression Agitation(1) Euphoric mood(1) Psychotic disorder(1) Suicide attempt (1) Suicidal ideation Hallucination (1) |  |
+| Nervous system disorders | Dizziness Headache | Myoclonic seizures(3) Ataxia Balance disorder Memory impairment Cognitive disorder | Syncope(2) Coordination abnormal | Convulsion |
+|  |  | Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia |  |  |
+| Eye disorders | Diplopia | Vision blurred |  |  |
+| Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
+| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) A(1,2tr) ial Fibrillation Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1) |
+| Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
+| Hepatobiliary disorders |  |  | Liver function test abnormal(2) Hepatic enzyme increased (> 2x ULN) (1) |  |
+| Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) Toxic epidermal necrolysis(1) |
+| Musculoskeletal and connective tissue disorders |  | Muscle spasms |  |  |
+| General disorders and administration site conditions |  | Gait disturbance Asthenia Fatigue Irritability Feeling drunk |  |  |
+| Injury, poisoning and procedural complications |  | Fall Skin laceration Contusion |  |  |
 
 [Vimpat 10 mg/ml solution for infusion]
 
@@ -98,11 +120,12 @@ These reactions are variable in expression but typically present with fever and 
 | Blood and lymphatic disorders |  |  |  | Agranulocytosis(1) |
 | Immune system disorders |  |  | Drug hypersensitivity(1) | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1,2) |
 | Psychiatric disorders |  | Depression Confusional state Insomnia(1) | Aggression Agitation(1) Euphoric mood(1) Psychotic disorder(1) Suicide attempt (1) Suicidal ideation Hallucination (1) |  |
-| Nervous system disorders | Dizziness Headache | Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope(2) Coordination abnormal | Convulsion(3) |
+| Nervous system disorders | Dizziness Headache | Myoclonic seizures(3) Ataxia Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope(2) Coordination abnormal | Convulsion |
 | Eye disorders | Diplopia | Vision blurred |  |  |
 | Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
 | Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) A(1,2tr) ial Fibrillation Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1) |
-| Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
+| Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth |  |  |
+|  |  | Diarrhoea |  |  |
 | Hepatobiliary disorders |  |  | Liver function test abnormal(2) Hepatic enzyme increased (> 2x ULN) (1) |  |
 | Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) Toxic epidermal necrolysis(1) |
 | Musculoskeletal and connective tissue disorders |  | Muscle spasms |  |  |
@@ -111,5 +134,5 @@ These reactions are variable in expression but typically present with fever and 
 
 (4) Local adverse reactions associated with intravenous administration.
 
-In adjunctive clinical trials in epilepsy patients the incidence rate of reported first-degree AV Block is uncommon, 0.7 %, 0 %, 0.5 % and 0 % for lacosamide 200 mg, 400 mg, 600 mg or placebo, respectively.
-In the monotherapy clinical trial comparing lacosamide to carbamazepine CR the extent of increase in PR interval was comparable between lacosamide and carbamazepine.
+In adjunctive clinical studies in epilepsy patients the incidence rate of reported first-degree AV Block is uncommon, 0.7 %, 0 %, 0.5 % and 0 % for lacosamide 200 mg, 400 mg, 600 mg or placebo, respectively.
+In the monotherapy clinical study comparing lacosamide to carbamazepine CR the extent of increase in PR interval was comparable between lacosamide and carbamazepine.

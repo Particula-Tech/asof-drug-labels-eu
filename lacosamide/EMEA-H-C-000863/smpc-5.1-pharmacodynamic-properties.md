@@ -12,8 +12,7 @@ Pharmacodynamic effects
 
 Lacosamide protected against seizures in a broad range of animal models of partial and primary generalised seizures and delayed kindling development.
 In non-clinical experiments lacosamide in combination with levetiracetam, carbamazepine, phenytoin, valproate, lamotrigine, topiramate or gabapentin showed synergistic or additive anticonvulsant effects.
-
-Clinical efficacy and safety
+Clinical efficacy and safety (partial-onset seizures)
 Adult population
 
 Monotherapy
@@ -36,11 +35,11 @@ In this study, 425 patients aged 16 to 70 years with uncontrolled partial-onset 
 In treated patients who completed titration and started withdrawing antiepileptic medicinal products (284 and 99 respectively), monotherapy was maintained in 71.5 % and 70.7 % of patients respectively for 57-105 days (median 71 days), over the targeted observation period of 70 days.
 
 Adjunctive therapy
-The efficacy of lacosamide as adjunctive therapy at recommended doses (200 mg/day, 400 mg/day) was established in 3 multicenter, randomised, placebo-controlled clinical trials with a 12-week maintenance period.
-Lacosamide 600 mg/day was also shown to be effective in controlled adjunctive therapy trials, although the efficacy was similar to 400 mg/day and patients were less likely to tolerate this dose because of CNS- and gastrointestinal-related adverse reactions.
+The efficacy of lacosamide as adjunctive therapy at recommended doses (200 mg/day, 400 mg/day) was established in 3 multicenter, randomised, placebo-controlled clinical studies with a 12-week maintenance period.
+Lacosamide 600 mg/day was also shown to be effective in controlled adjunctive therapy studies, although the efficacy was similar to 400 mg/day and patients were less likely to tolerate this dose because of CNS- and gastrointestinal-related adverse reactions.
 Thus, the 600 mg/day dose is not recommended.
 The maximum recommended dose is 400 mg/day.
-These trials, involving 1,308 patients with a history of an average of 23 years of partial-onset seizures, were designed to evaluate the efficacy and safety of lacosamide when administered concomitantly with 1-3 antiepileptic medicinal products in patients with uncontrolled partial-onset seizures with or without secondary generalisation.
+These studies, involving 1,308 patients with a history of an average of 23 years of partial-onset seizures, were designed to evaluate the efficacy and safety of lacosamide when administered concomitantly with 1-3 antiepileptic medicinal products in patients with uncontrolled partial-onset seizures with or without secondary generalisation.
 Overall the proportion of subjects with a 50 % reduction in seizure frequency was 23 %, 34 %, and 40 % for placebo, lacosamide 200 mg/day and lacosamide 400 mg/day.
 
 The pharmacokinetics and safety of a single loading dose of intravenous lacosamide were determined in a multicenter, open-label study designed to assess the safety and tolerability of rapid initiation of lacosamide using a single intravenous loading dose (including 200 mg) followed by twice daily oral dosing (equivalent to the intravenous dose) as adjunctive therapy in adult subjects 16 to 60 years of age with partial-onset seizures.
@@ -62,15 +61,41 @@ The percent reduction over placebo based on analysis of covariance was 31.72 %
 Overall, the proportion of subjects with at least a 50 % reduction in partial-onset seizure frequency per 28 days from baseline to the maintenance period was 52.9 % in the lacosamide group compared with 33.3 % in the placebo group.
 The quality of life assessed by the Pediatric Quality of Life Inventory indicated that subjects in both lacosamide and placebo groups had a similar and stable health-related quality of life during the entire treatment period.
 
+Clinical efficacy and safety (primary generalized tonic-clonic seizures)
+
+The efficacy of lacosamide as adjunctive therapy in patients 4 years of age and older with idiopathic generalized epilepsy experiencing primary generalized tonic-clonic seizures (PGTCS) was established in a 24-week double-blind, randomized, placebo-controlled, parallel-group, multi-center study.
+The study consisted of a 12-week historical baseline period, a 4-week prospective baseline period and a 24-week treatment period (which included a 6-week titration period and an 18-week maintenance period).
+Eligible patients on a stable dose of 1 to 3 antiepileptic drugs experiencing at least 3 documented PGTCS during the 16-week combined baseline period were randomized 1 to 1 to receive lacosamide or placebo (patients in the full analysis set: lacosamide n=118, placebo n=121; of them 8 patients in the ≥ 4 to < 12 years age group and 16 patients in the ≥ 12 to < 18 years range were treated with LCM and 9 and 16 patients, respectively with placebo).
+Patients were titrated up to the target maintenance period dose of 12 mg/kg/day in patients weighing less than 30 kg, 8 mg/kg/day in patients weighing from 30 to less than 50 kg or 400 mg/day in patients weighing 50 kg or more.
+
+| Efficacy variable Parameter | Placebo N=121 | Lacosamide N=118 |
+| --- | --- | --- |
+| Time to second PGTCS |  |  |
+| Median (days) | 77.0 | - |
+| 95 % CI | 49.0, 128.0 | - |
+| Lacosamide – Placebo |  |  |
+| Hazard Ratio | 0.540 |  |
+| 95 % CI | 0.377, 0.774 |  |
+| p-value | < 0.001 |  |
+| Seizure freedom |  |  |
+| Stratified Kaplan-Meier estimate (%) | 17.2 | 31.3 |
+| 95 % CI | 10.4, 24.0 | 22.8, 39.9 |
+| Lacosamide – Placebo | 14.1 |  |
+| 95 % CI | 3.2, 25.1 |  |
+| p-value | 0.011 |  |
+
+Note: For the lacosamide group, the median time to second PGTCS could not be estimated by Kaplan-Meier methods because ˃ 50% of patients did not experience a second PGTCS by Day 166.
+
+The findings in the pediatric subgroup were consistent with the results of the overall population for the primary, secondary and other efficacy endpoints.
+
 [Treatment initiation pack (in adolescent and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
 
 (all sentences already above)
 
 [Vimpat 10 mg/ml syrup]
 
-Eligible patients on a stable dose regimen of 1 to ≤ 3 antiepileptic medicinal products, who still experienced at least 2 partial onset-seizures during the 4 weeks prior to screening with seizure-free phase no longer than 21 days in the 8-week period prior to entry into the baseline period, were randomised to receive either placebo (n=172) or lacosamide (n=171).
+(all sentences already above)
 
 [Vimpat 10 mg/ml solution for infusion]
 
-Eligible patients on a stable dose regimen of 1 to ≤ 3 antiepileptic medicinal products, who still experienced at least 2 partial onset seizures during the 4 weeks prior to screening with seizure-free phase no longer than 21 days in the 8-week period prior to entry into the baseline period, were randomised to receive either placebo (n=172) or lacosamide (n=171).
 (95 % CI: 16.342,44.277).
