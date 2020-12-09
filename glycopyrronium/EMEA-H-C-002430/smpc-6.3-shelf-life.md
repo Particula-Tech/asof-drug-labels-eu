@@ -2,4 +2,4 @@
 
 2 years
 
-Each inhaler should be disposed of after 30 days of use.
+Each inhaler should be disposed of after all capsules have been used.
