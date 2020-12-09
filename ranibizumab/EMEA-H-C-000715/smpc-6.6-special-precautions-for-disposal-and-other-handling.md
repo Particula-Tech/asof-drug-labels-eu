@@ -32,17 +32,6 @@ For preparation and intravitreal injection the following medical devices for sin
 
 (30G x ½″) in the VISISURE kit (not included within this pack), for preterm infants
 
-Vial + injection kit
-
-The vial, injection needle, filter needle and syringe are for single use only.
-Re-use may lead to infection or other illness/injury.
-All components are sterile.
-Any component with packaging showing signs of damage or tampering must not be used.
-The sterility cannot be guaranteed unless the component packaging seal remains intact.
-
-The syringe provided in the pack is only for use in adults.
-For treatment of preterm infants the separate VISISURE kit including a low volume high accuracy syringe and an injection needle (30G x ½″) should be used.
-
 To prepare Lucentis for intravitreal administration to adults, please adhere to the following instructions:
 
 1.
@@ -61,7 +50,6 @@ Ensure that the plunger rod is drawn sufficiently back when emptying the vial in
 5.
 Leave the blunt filter needle in the vial and disconnect the syringe from the blunt filter needle.
 The filter needle should be discarded after withdrawal of the vial contents and should not be used for the intravitreal injection.
-
 6.
 Aseptically and firmly assemble an injection needle (30G x ½″, 0.3 mm x 13 mm) onto the syringe.
 

@@ -127,8 +127,8 @@ Table 3 Outcomes at Month 2 (MINERVA)
 a One-sided p<0.001 comparison with sham control b CSFT - central retinal subfield thickness
 
 Figure 3 Mean change from baseline BCVA over time to Month 12 (MINERVA)
-
 When comparing ranibizumab versus sham control at Month 2, a consistent treatment effect both overall and across baseline aetiology subgroups was observed:
+
 Table 4 Treatment effect overall and across baseline aetiology subgroups
 
 | Overall and per baseline aetiology | Treatment effect over sham [letters] | Patient numbers [n] (treatment +sham) |
