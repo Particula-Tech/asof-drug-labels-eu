@@ -33,7 +33,7 @@ This can include medical history, possible previous contact with tuberculosis, a
 Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised.
 
 Hepatitis B viral load (HBV-DNA titre) increases, with and without associated elevations in alanine aminotransferase and aspartate aminotransferase, have been reported in patients with chronic HBV infections taking Jakavi.
-The effect of Jakavi on viral replication in patients with chronic HBV infection is unknown.
+It is recommended to screen for HBV prior to commencing treatment with Jakavi.
 Patients with chronic HBV infection should be treated and monitored according to clinical guidelines.
 
 Herpes zoster

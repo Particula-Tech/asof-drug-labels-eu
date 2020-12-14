@@ -2,102 +2,93 @@
 
 Summary of the safety profile
 
-The safety assessment was based on a total of 982 patients (with MF or PV) receiving Jakavi in phase 2 and 3 studies.
-
 Myelofibrosis
-In the randomised period of the two pivotal studies, COMFORT-I and COMFORT-II, the median duration of exposure to Jakavi was 10.8 months (range 0.3 to 23.5 months).
-The majority of patients (68.4%) were treated for at least 9 months.
-Of 301 patients, 111 (36.9%) had a baseline platelet count of between 100,000/mm3 and 200,000/mm3 and 190 (63.1%) had a baseline platelet count of >200,000/mm3.
-
-In these clinical studies, discontinuation due to adverse events, regardless of causality, was observed in 11.3% of patients.
-
 The most frequently reported adverse drug reactions were thrombocytopenia and anaemia.
-Haematological adverse drug reactions (any Common Terminology Criteria for Adverse Events [CTCAE] grade) included anaemia (82.4%), thrombocytopenia (69.8%) and neutropenia (16.6%).
+
+Haematological adverse drug reactions (any Common Terminology Criteria for Adverse Events [CTCAE] grade) included anaemia (83.8%), thrombocytopenia (80.5%) and neutropenia (20.8%).
 
 Anaemia, thrombocytopenia and neutropenia are dose-related effects.
 
-The three most frequent non-haematological adverse drug reactions were bruising (21.3%), dizziness (15.3%) and headache (14.0%).
+The three most frequent non-haematological adverse drug reactions were bruising (33.3%), other bleeding (including epistaxis, post-procedural haemorrhage and haematuria) (24.3%) and dizziness (21.9%).
+The three most frequent non-haematological laboratory abnormalities were raised alanine aminotransferase (40.7%), raised aspartate aminotransferase (31.5%) and hypertriglyceridaemia (25.2%).
+In phase 3 clinical studies in MF, neither CTCAE grade 3 or 4 hypertriglyceridaemia or raised aspartate aminotransferase, nor CTCAE grade 4 raised alanine aminotransferase or hypercholesterolaemia were observed.
 
-The three most frequent non-haematological laboratory abnormalities were raised alanine aminotransferase (27.2%), raised aspartate aminotransferase (19.9%) and hypercholesterolaemia (16.9%).
-In phase 3 clinical studies in MF, neither CTCAE grade 3 or 4 hypercholesterolaemia, raised aspartate aminotransferase nor CTCAE grade 4 raised alanine aminotransferase were observed.
-
-Long-term safety:
-Long term safety data from two pivotal phase 3 studies assessed 457 patients with MF who were treated with ruxolitinib, including patients initially randomised to ruxolitinib (n=301; exposure 0.3–68.1 months, median exposure 33.4 months) and patients who received ruxolitinib after crossing over from control treatments (n=156; exposure: 0.5–59.8 months, median exposure 25.0 months).
-The cumulative frequency of adverse events in these studies increased proportionally to the increase in the follow-up time.
-With these updated data, therapy discontinuation due to adverse events was observed in 27.4% of patients treated with ruxolitinib.
+Discontinuation due to adverse events, regardless of causality, was observed in 30.0% of patients.
 
 Polycythaemia vera
-The safety of Jakavi was assessed in 184 patients with PV in two open-label, randomised, controlled studies, the phase 3 RESPONSE study and the phase 3b RESPONSE 2 study.
-The adverse drug reactions listed below reflect the randomised study period (up to week 32 for RESPONSE and up to week 28 for RESPONSE 2) with equivalent exposure to ruxolitinib and Best Available Therapy (BAT).
-The median duration of exposure to Jakavi during the randomised study periods was 7.85 months (range 0.03 to 7.85 months).
+Haematological adverse reactions (any CTCAE grade) included anaemia (61.8%) and thrombocytopenia (25.0%).
+Anaemia and thrombocytopenia CTCAE grade 3 or 4 were reported in respectively 2.9% and 2.6%.
 
-Discontinuation due to adverse events, regardless of causality, was observed in 2.2% of patients.
+The three most frequent non-haematological adverse reactions were weight gain (20.3%), dizziness (19.4%) and headache (17.9%).
 
-Haematological adverse reactions (any CTCAE grade) included anaemia (40.8%) and thrombocytopenia (16.8%).
-Anaemia or thrombocytopenia CTCAE grade 3 and 4 were reported in respectively 1.1% or 3.3%.
+The three most frequent non-haematological laboratory abnormalities (any CTCAE grade) identified as adverse reactions were raised alanine aminotransferase (45.3%), raised aspartate aminotransferase (42.6%), and hypercholesterolaemia (34.7%).
+No CTCAE grade 4 raised alanine aminotransferase or hypercholesterolaemia, and one CTCAE grade 4 raised aspartate aminotransferase were observed.
 
-The three most frequent non-haematological adverse reactions were dizziness (9.2%), constipation (8.7%) and hypertension (6.5%).
+Discontinuation due to adverse events, regardless of causality, was observed in 19.4% of patients.
 
-The three most frequent non-haematological laboratory abnormalities (any CTCAE grade) identified as adverse reactions were raised aspartate aminotransferase (26.1%), raised alanine aminotransferase (22.3%) and hypercholesterolaemia (20.7%).
-These were all CTCAE grade 1 and 2 with the exception of one CTCAE grade 3 raised alanine aminotransferase event.
-
-Long-term safety was evaluated using data from two phase 3 studies including data from patients initially randomised to ruxolitinib (n=184; exposure 0.03 to 43.5 months, median exposure 18.9 months) and patients who received ruxolitinib after crossing over from control treatments (n=149; exposure: 0.2 to 33.5 months, median exposure 12.0 months): With longer exposure, the cumulative frequency of adverse events increased but no new safety findings emerged.
-When adjusted for exposure, the adverse events rates were generally comparable with those observed during the comparative periods of the randomised studies.
 Tabulated list of adverse drug reactions from clinical studies
+
+Safety in MF patients was evaluated using the long-term follow-up data from two phase 3 studies (COMFORT-I and COMFORT-II) including data from patients initially randomised to ruxolitinib (n=301) and patients who received ruxolitinib after crossing over from control treatments (n=156).
+The median exposure upon which the ADR frequencies categories for MF patients are based was 30.5 months (range 0.3 to 68.1 months).
+
+Safety in PV patients was evaluated using the long-term follow-up data from two phase 3 studies (RESPONSE, RESPONSE 2) including data from patients initially randomised to ruxolitinib (n=184) and patients who received ruxolitinib after crossing over from control treatments (n=156).
+The median exposure upon which the ADR frequencies categories for PV patients are based was 41.7 months (range 0.03 to 59.7 months).
 
 In the clinical study programme the severity of adverse drug reactions was assessed based on the CTCAE, defining grade 1 = mild, grade 2 = moderate, grade 3 = severe and grade 4=life-threatening.
 
 Adverse drug reactions from clinical studies (Table 1) are listed by MedDRA system organ class.
 Within each system organ class, the adverse drug reactions are ranked by frequency, with the most frequent reactions first.
-In addition, the corresponding frequency category for each adverse drug reaction is based on the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000).
-
+In addition, the corresponding frequency category for each adverse drug reaction is based on the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 Table 1 Frequency category of adverse drug reactions reported in the phase 3 studies (COMFORT-I, COMFORT-II, RESPONSE, RESPONSE 2)
 
 | Adverse drug reaction | Frequency category for MF patients | Frequency category for PV patients |
 | --- | --- | --- |
 | Infections and infestations |  |  |
-| Urinary tract infectionsa,d | Very common | Common |
-| Pneumonia | Common | - |
-| Herpes zostera,d | Common | Common |
-| Sepsis | Common | - |
-| Tuberculosise | Uncommon | - |
-| Blood and lymphatic system disordersb,d |  |  |
-| Anaemiab | - | - |
-| CTCAEc grade 4 (<6.5g/dl) | Very common | Uncommon |
-| CTCAEc grade 3 (<8.0 – 6.5g/dl) | Very common | Uncommon |
-| Any CTCAEc grade | Very common | Very common |
+| Urinary tract infectionsa,e | Very common | Very common |
+| Herpes zostera,e | Very common | Very common |
+| Pneumonia | Very common | Common |
+| Sepsis | Common | Uncommon |
+| Tuberculosisf | Uncommon | Not knowng |
+| HBV reactivation | Not knowng | Uncommon |
+| Blood and lymphatic system disordersb,e |  |  |
+| Anaemiab |  |  |
+| CTCAEd grade 4 (<6.5g/dl) | Very common | Uncommon |
+| CTCAEd grade 3 (<8.0 – 6.5g/dl) | Very common | Common |
+| Any CTCAEd grade | Very common | Very common |
 | Thrombocytopeniab |  |  |
-| CTCAEc grade 4 (<25,000/mm3) | Common | Uncommon |
-| CTCAEc grade 3 (50,000 – 25,000/mm3) | Common | Common |
-| Any CTCAEc grade | Very common | Very common |
+| CTCAEd grade 4 (<25,000/mm3) | Common | Uncommon |
+| CTCAEd grade 3 (50,000 – 25,000/mm3) | Very common | Common |
+| Any CTCAEd grade | Very common | Very common |
 | Neutropeniab |  |  |
-| CTCAEc grade 4 (<500/mm3) | Common | - |
-| CTCAEc grade 3 (<1,000 – 500/mm3) | Common | - |
-| Any CTCAEc grade | Very common | - |
+| CTCAEd grade 4 (<500/mm3) | Common | Uncommon |
+| CTCAEd grade 3 (<1,000 – 500/mm3) | Common | Uncommon |
+| Any CTCAEd grade | Very common | Common |
+| Pancytopeniab, c | Common | Common |
 | Bleeding (any bleeding including intracranial, and gastrointestinal bleeding, bruising and other bleeding) | Very common | Very common |
-| Intracranial bleeding | Common | - |
-| Gastrointestinal bleeding | Common | - |
 | Bruising | Very common | Very common |
-| Other bleeding (including epistaxis, post-procedural haemorrhage and haematuria) | Common | Very common |
+| Gastrointestinal bleeding | Very common | Common |
+| Intracranial bleeding | Common | Uncommon |
+| Other bleeding (including epistaxis, post-procedural haemorrhage and haematuria) | Very common | Very common |
 | Metabolism and nutrition disorders |  |  |
-| Weight gaina | Very common | Common |
-| Hypercholesterolaemiab CTCAEc grade 1 and 2 | Very common | Very common |
-| Hypertriglyceridaemiab CTCAEc grade 1 | - | Very common |
+| Hypercholesterolaemiab any CTCAEd grade | Very common | Very common |
+| Hypertriglyceridaemiab any CTCAEd grade | Very common | Very common |
+| Weight gaina | Very common | Very common |
 | Nervous system disorders |  |  |
 | Dizzinessa | Very common | Very common |
-| Headachea | Very common | - |
+| Headachea | Very common | Very common |
 | Gastrointestinal disorders |  |  |
-| Flatulencea | Common | - |
-| Constipationa | - | Common |
+| Elevated lipase, any CTCAEd grade | Very common | Very common |
+| Constipationa | Very common | Very common |
+| Flatulencea | Common | Common |
 | Hepatobiliary disorders |  |  |
 | Raised alanine aminotransferaseb |  |  |
-| CTCAEc grade 3 (> 5x – 20 x ULN) | Common | Uncommon |
-| Any CTCAEc grade | Very common | Very common |
+| CTCAEd grade 3 (> 5x – 20 x ULN) | Common | Common |
+| Any CTCAEd grade | Very common | Very common |
 | Raised aspartate aminotransferaseb |  |  |
-| Any CTCAEc grade | Very common | Very common |
+| Any CTCAEd grade | Very common | Very common |
 | Vascular disorders |  |  |
-| Hypertensiona | - | Very common |
-| a Frequency is based on adverse event data. - A subject with multiple occurrence of an adverse drug reaction (ADR) is counted only once in that ADR category. - ADRs reported are on treatment or up to 28 days post treatment end date. b Frequency is based on laboratory values. - A subject with multiple occurrences of an ADR is counted only once in that ADR category. - ADRs reported are on treatment or up to 28 days post treatment end date. c Common Terminology Criteria for Adverse Events (CTCAE) version 3.0; grade 1 = mild, grade 2 = moderate, grade 3 = severe, grade 4 = life-threatening d These ADRs are discussed in the text. e Frequency is based on all patients exposed to ruxolitinib in clinical studies (N=4755) |  |  |
+| Hypertensiona | Very common | Very common |
+| a Frequency is based on adverse event data. - A subject with multiple occurrence of an adverse drug reaction (ADR) is counted only once in that ADR category. - ADRs reported are on treatment or up to 28 days post treatment end date. b Frequency is based on laboratory values. - A subject with multiple occurrences of an ADR is counted only once in that ADR category. - ADRs reported are on treatment or up to 28 days post treatment end date. c Pancytopenia is defined as haemoglobin level <100 g/l, platelet count <100x109/l, and neutrophil count <1.5x109/l (or low white blood cell count of grade 2 if neutrophil count is missing), simultaneously in the same lab assessment d Common Terminology Criteria for Adverse Events (CTCAE) version 3.0; grade 1 = mild, grade 2 = moderate, grade 3 = severe, grade 4 = life-threatening e These ADRs are discussed in the text. f Frequency is based on all patients exposed to ruxolitinib in clinical studies (N=4755) g ADR derived from post-marketing experience |  |  |
 
 Upon discontinuation, MF patients may experience a return of MF symptoms such as fatigue, bone pain, fever, pruritus, night sweats, symptomatic splenomegaly and weight loss.
 In clinical studies in MF the total symptom score for MF symptoms gradually returned to baseline value within 7 days after dose discontinuation (see section 4.4).
@@ -110,9 +101,9 @@ One patient (0.3%) discontinued treatment because of anaemia.
 
 In patients receiving ruxolitinib mean decreases in haemoglobin reached a nadir of approximately 10 g/litre below baseline after 8 to 12 weeks of therapy and then gradually recovered to reach a new steady state that was approximately 5 g/litre below baseline.
 This pattern was observed in patients regardless of whether they had received transfusion during therapy.
+
 In the randomised, placebo-controlled study COMFORT-I 60.6% of Jakavi-treated MF patients and 37.7% of placebo-treated MF patients received red blood cell transfusions during randomised treatment.
 In the COMFORT-II study the rate of packed red blood cell transfusions was 53.4% in the Jakavi arm and 41.1% in the best available therapy arm.
-
 In the randomised period of the pivotal studies, anaemia was less frequent in PV patients than in MF patients (40.8% versus 82.4%).
 In the PV population, the CTCAE grade 3 and 4 events were reported in 2.7%, while in the MF patients the frequency was 42.56%.
 
@@ -131,7 +122,9 @@ Neutropenia
 In the phase 3 clinical studies in MF, in patients who developed grade 3 or 4 neutropenia, the median time to onset was 12 weeks.
 During the randomised period, dose holding or reductions due to neutropenia were reported in 1.0% of patients, and 0.3% of patients discontinued treatment because of neutropenia.
 
-In the randomised period of the pivotal study in PV patients, neutropenia was reported in three patients (1.6%) of which one patient developed CTCAE grade 4 neutropenia.
+In the randomised period of the phase 3 studies in PV patients, neutropenia was reported in 1.6% of patients exposed to ruxolitinib compared to 7% in reference treatments.
+In the ruxolitinib arm one patient developed CTCAE grade 4 neutropenia.
+An extended follow-up of patients treated with ruxolitinib showed 2 patients reporting CTCAE grade 4 neutropenia.
 
 Bleeding
 In the phase 3 pivotal studies in MF bleeding events (including intracranial and gastrointestinal, bruising and other bleeding events) were reported in 32.6% of patients exposed to ruxolitinib and 23.2% of patients exposed to the reference treatments (placebo or best available therapy).
@@ -142,26 +135,48 @@ Intracranial bleeding was reported in 1% of patients exposed to ruxolitinib and 
 Gastrointestinal bleeding was reported in 5.0% of patients exposed to ruxolitinib compared to 3.1% exposed to reference treatments.
 Other bleeding events (including events such as epistaxis, post-procedural haemorrhage and haematuria) were reported in 13.3% of patients treated with ruxolitinib and 10.3% treated with reference treatments.
 
+During the long-term follow-up of phase 3 clinical studies in MF, the cumulative frequency of bleeding events increased proportionally to the increase in the follow-up time.
+Bruising events were the most frequently reported bleeding events (33.3%).
+Intracranial and gastrointestinal bleeding events were reported in 1.3% and 10.1% of patients respectively.
 In the comparative period of phase 3 studies in PV patients, bleeding events (including intracranial and gastrointestinal, bruising and other bleeding events) were reported in 16.8% of patients treated with ruxolitinib, 15.3% of patients receiving best available therapy in RESPONSE study and 12.0% of patients receiving best available therapy in RESPONSE 2 study.
 Bruising was reported in 10.3% of patients treated with ruxolitinib, 8.1% of patients receiving best available therapy in RESPONSE study and 2.7% of patients receiving best available therapy in RESPONSE 2 study.
 No intracranial bleeding or gastrointestinal haemorrhage events were reported in patients receiving ruxolitinib.
 One patient treated with ruxolitinib experienced a grade 3 bleeding event (post-procedural bleeding); no grade 4 bleeding was reported.
 Other bleeding events (including events such as epistaxis, post-procedural haemorrhage, gingival bleeding) were reported in 8.7% of patients treated with ruxolitinib, 6.3% of patients treated with best available therapy in RESPONSE study and 6.7% of patients treated with best available therapy in RESPONSE 2 study.
 
+During the long-term follow-up of phase 3 studies in PV, the cumulative frequency of bleeding events increased proportionally to the increase in the follow-up time.
+Bruising events were the most frequently reported bleeding events (17.4%).
+Intracranial and gastrointestinal bleeding events were reported in 0.3% and 3.5% of patients respectively.
+
 Infections
 In the phase 3 pivotal studies in MF, grade 3 or 4 urinary tract infection was reported in 1.0% of patients, herpes zoster in 4.3% and tuberculosis in 1.0%.
 In phase 3 clinical studies sepsis was reported in 3.0% of patients.
 An extended follow-up of patients treated with ruxolitinib showed no trends towards an increase in the rate of sepsis over time.
 
-In the randomised period of the pivotal study in PV patients, one (0.5%) CTCAE grade 3 and no grade 4 urinary tract infection was reported.
+In the randomised period of the phase 3 studies in PV patients, one (0.5%) CTCAE grade 3 and no grade 4 urinary tract infection was reported.
 The rate of herpes zoster was similar in PV (4.3%) patients and MF (4.0%) patients.
 There was one report of CTCAE grade 3 post-herpetic neuralgia amongst the PV patients.
+Pneumonia was reported in 0.5% of patients treated with ruxolitinib compared to 1.6% of patients in reference treatments.
+No patients in the ruxolitinib arm reported sepsis or tuberculosis.
+
+During long-term follow-up of phase 3 studies in PV, frequently reported infections were urinary tract infections (11.8%), herpes zoster (14.7%) and pneumonia (7.1%).
+Sepsis was reported in 0.6% of patients.
+No patients reported tuberculosis in long-term follow-up.
+
+Elevated lipase
+In the randomised period of the RESPONSE study, the worsening of lipase values was higher in the ruxolitinib arm compared to the control arm, mainly due to the differences among grade 1 elevations (18.2% vs 8.1%).
+Grade ≥2 elevations were similar between treatment arms.
+In RESPONSE 2, the frequencies were comparable between the ruxolitinib and the control arm (10.8% vs 8%).
+During long-term follow-up of phase 3 PV studies, 7.4% and 0.9% of patients reported grade 3 and grade 4 elevation of lipase values.
+No concurrent signs and symptoms of pancreatitis with elevated lipase values were reported in these patients.
+
+In phase 3 studies in MF, high lipase values were reported in 18.7% and 19.3% of patients in the ruxolitinib arms compared to 16.6% and 14.0% in the control arms in COMFORT-I and COMFORT-II studies, respectively.
+In patients with elevated lipase values, no concurrent signs and symptoms of pancreatitis were reported.
 
 Increased systolic blood pressure
 In the phase 3 pivotal clinical studies in MF an increase in systolic blood pressure of 20 mmHg or more from baseline was recorded in 31.5% of patients on at least one visit compared with 19.5% of the control-treated patients.
 In COMFORT-I (MF patients) the mean increase from baseline in systolic BP was 0-2 mmHg on ruxolitinib versus a decrease of 2-5 mmHg in the placebo arm.
 In COMFORT-II mean values showed little difference between the ruxolitinib-treated and the control-treated MF patients.
-
 In the randomised period of the pivotal study in PV patients, the mean systolic blood pressure increased by 0.65 mmHg in the ruxolitinib arm versus a decrease of 2 mmHg in the BAT arm.
 
 Reporting of suspected adverse reactions

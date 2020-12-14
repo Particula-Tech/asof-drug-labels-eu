@@ -8,7 +8,6 @@ Based on a human mass balance study, oral absorption of ruxolitinib, as ruxoliti
 Mean ruxolitinib Cmax and total exposure (AUC) increased proportionally over a single dose range of 5-200 mg.
 There was no clinically relevant change in the pharmacokinetics of ruxolitinib upon administration with a high-fat meal.
 The mean Cmax was moderately decreased (24%) while the mean AUC was nearly unchanged (4% increase) on dosing with a high-fat meal.
-
 Distribution
 
 The mean volume of distribution at steady state is approximately 75 litres in MF and PV patients.
@@ -43,6 +42,7 @@ Based on studies in healthy subjects, no relevant differences in ruxolitinib pha
 In a population pharmacokinetic evaluation in MF patients, no relationship was apparent between oral clearance and patient age or race.
 The predicted oral clearance was 17.7 l/h in women and 22.1 l/h in men, with 39% inter-subject variability in MF patients.
 Clearance was 12.7 l/h in PV patients, with a 42% inter-subject variability and no relationship was apparent between oral clearance and gender, patient age or race, based on a population pharmacokinetic evaluation in PV patients.
+
 Paediatric population
 The safety and effectiveness of Jakavi in paediatric patients have not been established (see section 5.1, “Paediatric population”).
 
@@ -53,7 +53,6 @@ However, plasma AUC values of ruxolitinib metabolites tended to increase with in
 It is unknown whether the increased metabolite exposure is of safety concern.
 A dose modification is recommended in patients with severe renal impairment and end-stage renal disease (see section 4.2).
 Dosing only on dialysis days reduces the metabolite exposure, but also the pharmacodynamic effect, especially on the days between dialysis.
-
 Hepatic impairment
 Following a single ruxolitinib dose of 25 mg in patients with varying degrees of hepatic impairment, the mean AUC for ruxolitinib was increased in patients with mild, moderate and severe hepatic impairment by 87%, 28% and 65%, respectively, compared to patients with normal hepatic function.
 There was no clear relationship between AUC and the degree of hepatic impairment based on Child-Pugh scores.
