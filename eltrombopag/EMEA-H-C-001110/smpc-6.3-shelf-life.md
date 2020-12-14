@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-4 years.
+3 years.
 
 [Revolade 25 mg powder for oral suspension]
 

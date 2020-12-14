@@ -14,6 +14,7 @@ Immune (primary) thrombocytopenia (ITP) studies
 
 Two phase III, randomised, double-blind, placebo-controlled studies RAISE (TRA102537) and TRA100773B and two open-label studies REPEAT (TRA108057) and EXTEND (TRA105325) evaluated the safety and efficacy of eltrombopag in adult patients with previously treated ITP.
 Overall, eltrombopag was administered to 277 ITP patients for at least 6 months and 202 patients for at least 1 year.
+
 Double-blind placebo-controlled studies
 RAISE: 197 ITP patients were randomised 2:1, eltrombopag (n=135) to placebo (n=62), and randomisation was stratified based upon splenectomy status, use of ITP medicinal products at baseline and baseline platelet count.
 The dose of eltrombopag was adjusted during the 6-month treatment period based on individual platelet counts.
@@ -29,7 +30,6 @@ Median platelet counts at baseline were 16,000/μl for both treatment groups and
 Platelet count response between 50,000-400,000/μl in the absence of rescue treatment was achieved by significantly more patients in the eltrombopag treated group during the 6 month treatment period, p <0.001.
 Fifty-four percent of the eltrombopag-treated patients and 13% of placebo-treated patients achieved this level of response after 6 weeks of treatment.
 A similar platelet response was maintained throughout the study, with 52% and 16% of patients responding at the end of the 6-month treatment period.
-
 Table 4 Secondary efficacy results from RAISE
 
 |  | Eltrombopag N=135 | Placebo N=62 |
@@ -52,6 +52,7 @@ a Logistic regression model adjusted for randomisation stratification variables 
 
 At baseline, more than 70% of ITP patients in each treatment group reported any bleeding (WHO Grades 1-4) and more than 20% reported clinically significant bleeding (WHO Grades 2-4), respectively.
 The proportion of eltrombopag-treated patients with any bleeding (Grades 1-4) and clinically significant bleeding (Grades 2-4) was reduced from baseline by approximately 50% from Day 15 to the end of treatment throughout the 6-month treatment period.
+
 TRA100773B: The primary efficacy endpoint was the proportion of responders, defined as ITP patients who had an increase in platelet counts to ≥50,000/μl at Day 43 from a baseline of <30,000/μl; patients who withdrew prematurely due to a platelet count >200,000/μl were considered responders, those that discontinued for any other reason were considered non-responders irrespective of platelet count.
 A total of 114 patients with previously treated ITP were randomised 2:1 eltrombopag (n=76) to placebo (n=38).
 
@@ -69,7 +70,6 @@ Table 5 Efficacy results from TRA100773B
 |  | 0.029 |  |
 
 a Logistic regression model adjusted for randomisation stratification variables
-
 In both RAISE and TRA100773B the response to eltrombopag relative to placebo was similar irrespective of ITP medicinal product use, splenectomy status and baseline platelet count (≤15,000/µl, >15,000/µl) at randomisation.
 
 In RAISE and TRA100773B studies, in the subgroup of ITP patients with baseline platelet count ≤15,000/μl the median platelet counts did not reach the target level (>50,000/μl), although in both studies 43% of these patients treated with eltrombopag responded after 6 weeks of treatment.
@@ -87,6 +87,7 @@ The long-term safety of eltrombopag should be considered prior to starting thera
 
 Paediatric population (aged 1 to 17 years)
 The safety and efficacy of eltrombopag in paediatric patients have been investigated in two studies.
+
 TRA115450 (PETIT2): The primary endpoint was a sustained response, defined as the proportion of patients receiving eltrombopag, compared to placebo, achieving platelet counts ≥50,000/µl for at least 6 out of 8 weeks (in the absence of rescue therapy), between weeks 5 to 12 during the double-blind randomised period.
 Patients were diagnosed with chronic ITP for at least 1 year and were refractory or relapsed to at least one prior ITP therapy or unable to continue other ITP treatments for a medical reason and had platelet count <30,000/µl.
 Ninety-two patients were randomised by three age cohort strata (2:1) to eltrombopag (n=63) or placebo (n=29).
@@ -117,6 +118,7 @@ Overall, a significantly greater proportion of eltrombopag patients (62%) compar
 
 Sustained response was seen in 50% of the initial responders during 20 out of 24 weeks in the
 PETIT 2 study and 15 out of 24 weeks in the PETIT study.
+
 Chronic hepatitis C associated thrombocytopenia studies
 
 The efficacy and safety of eltrombopag for the treatment of thrombocytopenia in patients with HCV infection were evaluated in two randomised, double-blind, placebo-controlled studies.

@@ -29,6 +29,7 @@ Eltrombopag should be discontinued if ALT levels increase
 Caution is required when administering eltrombopag to patients with hepatic disease.
 In ITP and SAA patients a lower starting dose of eltrombopag should be used.
 Close monitoring is required when administering to patients with hepatic impairment (see section 4.2).
+
 Hepatic decompensation (use with interferon)
 
 Hepatic decompensation in patients with chronic hepatitis C: Monitoring is required in patients with low albumin levels (≤35 g/l) or with MELD score ≥10 at baseline.
@@ -62,12 +63,12 @@ In eltrombopag clinical studies in ITP thromboembolic events were observed at lo
 Caution should be used when administering eltrombopag to patients with known risk factors for thromboembolism including but not limited to inherited (e.g. Factor V Leiden) or acquired risk factors (e.g. ATIII deficiency, antiphospholipid syndrome), advanced age, patients with prolonged periods of immobilisation, malignancies, contraceptives and hormone replacement therapy, surgery/trauma, obesity and smoking.
 Platelet counts should be closely monitored and consideration given to reducing the dose or discontinuing eltrombopag treatment if the platelet count exceeds the target levels (see section 4.2).
 The risk-benefit balance should be considered in patients at risk of TEEs of any aetiology.
+
 No case of TEE was identified from a clinical study in refractory SAA, however the risk of these events cannot be excluded in this patient population due to the limited number of exposed patients.
 As the highest authorised dose is indicated for patients with SAA (150 mg/day) and due to the nature of the reaction, TEEs might be expected in this patient population.
 
 Eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥5) unless the expected benefit outweighs the identified risk of portal venous thrombosis.
 When treatment is considered appropriate, caution is required when administering eltrombopag to patients with hepatic impairment (see sections 4.2 and 4.8).
-
 Bleeding following discontinuation of eltrombopag
 
 Thrombocytopenia is likely to reoccur in ITP patients upon discontinuation of treatment with eltrombopag.
@@ -98,12 +99,12 @@ The TPO-R is predominantly expressed on the surface of cells of the myeloid line
 For TPO-R agonists there is a concern that they may stimulate the progression of existing haematopoietic malignancies such as MDS.
 
 In clinical studies with a TPO-R agonist in patients with MDS, cases of transient increases in blast cell counts were observed and cases of MDS disease progression to acute myeloid leukaemia (AML) were reported.
+
 The diagnosis of ITP or SAA in adults and elderly patients should be confirmed by the exclusion of other clinical entities presenting with thrombocytopenia, in particular the diagnosis of MDS must be excluded.
 Consideration should be given to performing a bone marrow aspirate and biopsy over the course of the disease and treatment, particularly in patients over 60 years of age, those with systemic symptoms, or abnormal signs such as increased peripheral blast cells.
 
 The effectiveness and safety of Revolade have not been established for the treatment of thrombocytopenia due to MDS.
 Revolade should not be used outside of clinical studies for the treatment of thrombocytopenia due to MDS.
-
 Cytogenetic abnormalities and progression to MDS/AML in patients with SAA
 
 Cytogenetic abnormalities are known to occur in SAA patients.
@@ -138,6 +139,7 @@ The clinical significance of these QTc prolongation events is unknown.
 Loss of response to eltrombopag
 
 A loss of response or failure to maintain a platelet response with eltrombopag treatment within the recommended dosing range should prompt a search for causative factors, including an increased bone marrow reticulin.
+
 Paediatric population
 
 The above warnings and precautions for ITP also apply to the paediatric population.

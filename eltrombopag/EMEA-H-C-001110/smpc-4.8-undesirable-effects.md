@@ -86,6 +86,7 @@ ITP study population
 ♦ Additional adverse reactions observed in paediatric studies (aged 1to 17 years).
 † Increase of alanine aminotransferase and aspartate aminotransferase may occur simultaneously, although at a lower frequency.
 ‡ Grouped term with preferred terms acute kidney injury and renal failure
+
 HCV study population (in combination with anti-viral interferon and ribavirin therapy)
 
 | System organ class | Frequency | Adverse reaction |
@@ -112,9 +113,7 @@ HCV study population (in combination with anti-viral interferon and ribavirin th
 |  | Uncomon | Oesophageal varices haemorrhage, gastritis, aphthous stomatitis |
 | Hepatobiliary disorders | Common | Hyperbilirubinaemia, jaundice, drug-induced liver injury |
 |  | Uncommon | Portal vein thrombosis, hepatic failure |
-
 | Skin and subcutaneous tissue disorders | Very common | Pruritus |
-| --- | --- | --- |
 |  | Common | Rash, dry skin, eczema, rash pruritic, erythema, hyperhidrosis, pruritus generalised, alopecia |
 |  | Uncommon | Skin lesion, skin discolouration, skin hyperpigmentation, night sweats |
 | Musculoskeletal and connective tissue disorder | Very common | Myalgia |
@@ -127,7 +126,6 @@ HCV study population (in combination with anti-viral interferon and ribavirin th
 |  | Uncommon | Electrocardiogram QT prolonged |
 
 † Grouped term with preferred terms oliguria, renal failure and renal impairment
-
 SAA study population
 
 | System organ class | Frequency | Adverse reaction |
@@ -140,9 +138,7 @@ SAA study population
 | Eye disorders | Common | Dry eye, cataract, ocular icterus, vision blurred, visual impairment, vitreous floaters |
 | Respiratory, thoracic and mediastinal disorders | Very common | Cough, oropharyngeal pain, rhinorrhoea |
 |  | Common | Epistaxis |
-
 | Gastrointestinal disorders | Very common | Diarrhoea, nausea, gingival bleeding, abdominal pain |
-| --- | --- | --- |
 |  | Common | Oral mucosal blistering, oral pain, vomiting, abdominal discomfort, constipation, abdominal distension, dysphagia, faeces discoloured, swollen tongue, gastrointestinal motility disorder, flatulence |
 | Hepatobiliary disorders | Very common | Transaminases increased |
 |  | Common | Blood bilirubin increased (hyperbilirubinemia), jaundice |
@@ -166,7 +162,6 @@ In a placebo-controlled study (n=288, Safety population), following 2 weeks’ t
 Five of the 6 patients treated with eltrombopag experienced the TEE at a platelet count >200,000/µl
 
 No specific risk factors were identified in those patients who experienced a TEE with the exception of platelet counts ≥200,000/µl (see section 4.4).
-
 In controlled studies in thrombocytopenic patients with HCV (n=1,439), 38 out of 955 patients (4%) treated with eltrombopag experienced a TEE and 6 out of 484 patients (1%) in the placebo group experienced TEEs.
 Portal vein thrombosis was the most common TEE in both treatment groups (2% in patients treated with eltrombopag versus < 1% for placebo) (see section 4.4).
 Patients with low albumin levels (≤ 35 g/l) or MELD ≥10 had a 2-fold greater risk of TEEs than those with higher albumin levels; those aged ≥60 years had a 2-fold greater risk of TEEs compared to younger patients.
@@ -202,7 +197,6 @@ Increased bone marrow reticulin
 
 Across the programme, no patients had evidence of clinically relevant bone marrow abnormalities or clinical findings that would indicate bone marrow dysfunction.
 In a small number of ITP patients, eltrombopag treatment was discontinued due to bone marrow reticulin (see section 4.4).
-
 Cytogenetic abnormalities
 
 In the phase II refractory SAA clinical study with eltrombopag with a starting dose of 50 mg/day (escalated every 2 weeks to a maximum of 150 mg/day) (ELT112523), the incidence of new cytogenetic abnormalities was observed in 17.1% of adult patients [7/41 (where 4 of them had changes in chromosome 7)].
@@ -211,6 +205,7 @@ The median time on study to a cytogenetic abnormality was 2.9 months.
 In the phase II refractory SAA clinical study with eltrombopag at a dose of 150 mg/day (with ethnic or age related modifications as indicated) (ELT116826), the incidence of new cytogenetic abnormalities was observed in 22.6% of adult patients [7/31 (where 3 of them had changes in chromosome 7)].
 All 7 patients had normal cytogenetics at baseline.
 Six patients had cytogenetic abnormality at Month 3 of eltrombopag therapy and one patient had cytogenetic abnormality at Month 6.
+
 Haematologic malignancies
 
 In the single-arm, open-label study in SAA, three (7%) patients were diagnosed with MDS following treatment with eltrombopag, in the two ongoing studies (ELT116826 and ELT116643), 1/28 (4%) and 1/62 (2%) patient has been diagnosed with MDS or AML in each study.

@@ -23,9 +23,9 @@ No hepatic effects were observed after chronic dosing in rats (28 weeks) and in 
 
 At poorly tolerated doses in rats and dogs (>10 or 7 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and>4 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC), decreased reticulocyte counts and regenerative bone marrow erythroid hyperplasia (rats only) were observed in short-term studies.
 There were no effects of note on red cell mass or reticulocyte counts after dosing for up to 28 weeks in rats, 52 weeks in dogs and 2 years in mice or rats at maximally tolerated doses which were 2 to 4 times human clinical exposure in adult or paediatric ITP patients at 75 mg/day and ≤2 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC.
+
 Endosteal hyperostosis was observed in a 28-week toxicity study in rats at a non-tolerated dose of 60 mg/kg/day (6 times or 4 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 3 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC).
 There were no bone changes observed in mice or rats after lifetime exposure (2 years) at 4 times or 2 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 2 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC.
-
 Carcinogenicity and mutagenicity
 
 Eltrombopag was not carcinogenic in mice at doses up to 75 mg/kg/day or in rats at doses up to 40 mg/kg/day (exposures up to 4 or 2 times the human clinical exposure in adult or paediatric ITP patients at 75 mg/day and 2 times the human clinical exposure in HCV patients at 100 mg/day, based on AUC).
@@ -49,6 +49,7 @@ In vitro studies with eltrombopag suggest a potential phototoxicity risk; howeve
 Furthermore, a clinical pharmacology study in 36 subjects showed no evidence that photosensitivity was increased following administration of eltrombopag 75 mg.
 This was measured by delayed phototoxic index.
 Nevertheless, a potential risk of photoallergy cannot be ruled out since no specific preclinical study could be performed.
+
 Juvenile animal studies
 
 At non-tolerated doses in pre-weaning rats, ocular opacities were observed.

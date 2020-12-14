@@ -55,6 +55,7 @@ Treatment with eltrombopag should be discontinued if the platelet count does not
 Patients should be clinically evaluated periodically and continuation of treatment should be decided on an individual basis by the treating physician.
 In non-splenectomised patients this should include evaluation relative to splenectomy.
 The reoccurrence of thrombocytopenia is possible upon discontinuation of treatment (see section 4.4).
+
 Chronic hepatitis C (HCV) associated thrombocytopenia
 
 When eltrombopag is given in combination with antivirals reference should be made to the full summary of product characteristics of the respective coadministered medicinal products for comprehensive details of relevant safety information or contraindications.
@@ -94,12 +95,12 @@ Table 2 Dose adjustments of eltrombopag in HCV patients during antiviral therapy
 
 * For patients taking 25 mg eltrombopag once daily, consideration should be given to reinitiating dosing at 25 mg every other day.
 ♦ On initiation of antiviral therapy the platelet count may fall, so immediate eltrombopag dose reductions should be avoided.
+
 Discontinuation
 If after 2 weeks of eltrombopag therapy at 100 mg the required platelet level to initiate antiviral therapy is not achieved, eltrombopag should be discontinued.
 
 Eltrombopag treatment should be terminated when antiviral therapy is discontinued unless otherwise justified.
 Excessive platelet count responses or important liver test abnormalities also necessitate discontinuation.
-
 Severe aplastic anaemia
 
 Initial dose regimen
@@ -133,12 +134,12 @@ Discontinuation
 If no haematological response has occurred after 16 weeks of therapy with eltrombopag, therapy should be discontinued.
 If new cytogenetic abnormalities are detected, it must be evaluated whether continuation of eltrombopag is appropriate (see sections 4.4 and 4.8).
 Excessive platelet count responses (as outlined in Table 3) or important liver test abnormalities also necessitate discontinuation of eltrombopag (see section 4.8).
+
 Special populations
 
 Renal impairment
 No dose adjustment is necessary in patients with renal impairment.
 Patients with impaired renal function should use eltrombopag with caution and close monitoring, for example by testing serum creatinine and/or performing urine analysis (see section 5.2).
-
 Hepatic impairment
 Eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥5) unless the expected benefit outweighs the identified risk of portal venous thrombosis (see section 4.4).
 
@@ -168,6 +169,7 @@ Paediatric population
 Revolade is not recommended for use in children under the age of one year with ITP due to insufficient data on safety and efficacy.
 The safety and efficacy of eltrombopag has not been established in children and adolescents (<18 years) with chronic HCV related thrombocytopenia or SAA.
 No data are available.
+
 Method of administration
 
 Oral use.
