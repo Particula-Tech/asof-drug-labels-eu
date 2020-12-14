@@ -10,6 +10,7 @@ Specific measures are also included in the Physician Information Pack.
 These measures must be implemented before fingolimod is prescribed to female patients and during treatment.
 
 When stopping fingolimod therapy for planning a pregnancy the possible return of disease activity should be considered (see section 4.4).
+
 Pregnancy
 
 Based on human experience, post-marketing data suggest that use of fingolimod is associated with a 2-fold increased risk of major congenital malformations when administered during pregnancy compared with the rate observed in the general population (2-3%; EUROCAT).

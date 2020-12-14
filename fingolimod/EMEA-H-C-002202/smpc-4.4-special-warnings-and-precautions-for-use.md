@@ -81,11 +81,14 @@ Suspension of Gilenya should be considered if a patient develops a serious infec
 Elimination of fingolimod following discontinuation of therapy may take up to two months and vigilance for infection should therefore be continued throughout this period.
 Patients should be instructed to report symptoms of infection up to 2 months after discontinuation of fingolimod.
 
-Varicella zoster virus infection
+Herpes viral infection
+Serious, life-threatening, and sometimes fatal cases of encephalitis, meningitis or meningoencephalitis caused by herpes simplex and varicella zoster viruses have occurred with Gilenya at any time during treatment.
+If herpes encephalitis, meningitis or meningoencephalitis occur, Gilenya should be discontinued and appropriate treatment for the respective infection should be administered.
 Patients need to be assessed for their immunity to varicella (chickenpox) prior to Gilenya treatment.
 It is recommended that patients without a health care professional confirmed history of chickenpox or documentation of a full course of vaccination with varicella vaccine undergo antibody testing to varicella zoster virus (VZV) before initiating fingolimod therapy.
 A full course of vaccination for antibody-negative patients with varicella vaccine is recommended prior to commencing treatment with Gilenya (see section 4.8).
 Initiation of treatment with fingolimod should be postponed for 1 month to allow full effect of vaccination to occur.
+
 Cryptococcal meningitis
 Cases of cryptococcal meningitis (a fungal infection), sometimes fatal, have been reported in the post-marketing setting after approximately 2-3 years of treatment, although an exact relationship with the duration of treatment is unknown (see section 4.8).
 Patients with symptoms and signs consistent with cryptococcal meningitis (e.g. headache accompanied by mental changes such as confusion, hallucinations, and/or personality changes) should undergo prompt diagnostic evaluation.
@@ -118,7 +121,6 @@ Macular oedema
 Macular oedema with or without visual symptoms has been reported in 0.5% of patients treated with fingolimod 0.5 mg, occurring predominantly in the first 3-4 months of therapy (see section 4.8).
 An ophthalmological evaluation is therefore recommended at 3-4 months after treatment initiation.
 If patients report visual disturbances at any time while on therapy, evaluation of the fundus, including the macula, should be carried out.
-
 Patients with history of uveitis and patients with diabetes mellitus are at increased risk of macular oedema (see section 4.8).
 Fingolimod has not been studied in multiple sclerosis patients with concomitant diabetes mellitus.
 It is recommended that multiple sclerosis patients with diabetes mellitus or a history of uveitis undergo an ophthalmological evaluation prior to initiating therapy and have follow-up evaluations while receiving therapy.
@@ -126,9 +128,12 @@ It is recommended that multiple sclerosis patients with diabetes mellitus or a h
 Continuation of treatment in patients with macular oedema has not been evaluated.
 It is recommended that Gilenya be discontinued if a patient develops macular oedema.
 A decision on whether or not therapy should be re-initiated after resolution of macular oedema needs to take into account the potential benefits and risks for the individual patient.
-Liver function
+
+Liver injury
 
 Increased hepatic enzymes, in particular alanine aminotransaminase (ALT) but also gamma glutamyltransferase (GGT) and aspartate transaminase (AST) have been reported in multiple sclerosis patients treated with fingolimod.
+Some cases of acute liver failure requiring liver transplant and clinically significant liver injury have also been reported.
+Signs of liver injury, including markedly elevated serum hepatic enzymes and elevated total bilirubin, have occurred as early as ten days after the first dose and have also been reported after prolonged use.
 In clinical trials, elevations 3-fold the upper limit of normal (ULN) or greater in ALT occurred in 8.0% of adult patients treated with fingolimod 0.5 mg compared to 1.9% of placebo patients.
 Elevations 5-fold the ULN occurred in 1.8% of patients on fingolimod and 0.9% of patients on placebo.
 In clinical trials, fingolimod was discontinued if the elevation exceeded 5 times the ULN.
@@ -141,15 +146,16 @@ Fingolimod has not been studied in patients with severe pre-existing hepatic inj
 Due to the immunosuppressive properties of fingolimod, initiation of treatment should be delayed in patients with active viral hepatitis until resolution.
 
 Recent (i.e. within last 6 months) transaminase and bilirubin levels should be available before initiation of treatment.
-In the absence of clinical symptoms, liver transaminases should be monitored at months 1, 3, 6, 9 and 12 on therapy and periodically thereafter.
-If liver transaminases rise above 5 times the ULN, more frequent monitoring should be instituted, including serum bilirubin and alkaline phosphatase (ALP) measurement.
-With repeated confirmation of liver transaminases above 5 times the ULN, treatment with Gilenya should be interrupted and only re-commenced once liver transaminase values have normalised.
+In the absence of clinical symptoms, liver transaminases and serum bilirubin should be monitored at months 1, 3, 6, 9 and 12 on therapy and periodically thereafter until 2 months after Gilenya discontinuation.
+In the absence of clinical symptoms, if liver transaminases are greater than 3 but less than 5 times the ULN without increase in serum bilirubin, more frequent monitoring including serum bilirubin and alkaline phosphatase (ALP) measurement should be instituted to determine if further increases occur and in order to discern if an alternative aetiology of hepatic dysfunction is present.
+If liver transaminases are at least 5 times the ULN or at least 3 times the ULN associated with any increase in serum bilirubin, Gilenya should be discontinued.
+Hepatic monitoring should be continued.
+If serum levels return to normal (including if an alternative cause of the hepatic dysfunction is discovered), Gilenya may be restarted based on a careful benefit-risk assessment of the patient.
 
-Patients who develop symptoms suggestive of hepatic dysfunction, such as unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine, should have liver enzymes checked and treatment should be discontinued if significant liver injury is confirmed (for example liver transaminase levels greater than 5-fold the ULN and/or serum bilirubin elevations).
-Resumption of therapy will be dependent on whether or not another cause of liver injury is determined and on the benefits to patient of resuming therapy versus the risks of recurrence of liver dysfunction.
+Patients who develop symptoms suggestive of hepatic dysfunction, such as unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine, should have liver enzymes and bilirubin checked promptly and treatment should be discontinued if significant liver injury is confirmed.
+Treatment should not be resumed unless a plausible alternative aetiology for the signs and symptoms of liver injury can be established.
 
 Although there are no data to establish that patients with pre-existing liver disease are at increased risk of developing elevated liver function tests when taking Gilenya, caution in the use of Gilenya should be exercised in patients with a history of significant liver disease.
-
 Blood pressure effects
 
 Patients with hypertension uncontrolled by medication were excluded from participation in premarketing clinical trials and special care is indicated if patients with uncontrolled hypertension are treated with Gilenya.
@@ -162,6 +168,7 @@ Respiratory effects
 
 Minor dose-dependent reductions in values for forced expiratory volume (FEV1) and diffusion capacity for carbon monoxide (DLCO) were observed with fingolimod treatment starting at month 1 and remaining stable thereafter.
 Gilenya should be used with caution in patients with severe respiratory disease, pulmonary fibrosis and chronic obstructive pulmonary disease (see section 4.8).
+
 Posterior reversible encephalopathy syndrome
 
 Rare cases of posterior reversible encephalopathy syndrome (PRES) have been reported at the 0.5 mg dose in clinical trials and in the post-marketing setting (see section 4.8).
@@ -190,7 +197,6 @@ Alemtuzumab has profound and prolonged immunosuppressive effects.
 As the actual duration of these effects is unknown, initiating treatment with Gilenya after alemtuzumab is not recommended unless the benefits of such treatment clearly outweigh the risks for the individual patient.
 
 A decision to use prolonged concomitant treatment with corticosteroids should be taken after careful consideration.
-
 Co-administration with potent CYP450 inducers
 
 The combination of fingolimod with potent CYP450 inducers should be used with caution.
@@ -205,6 +211,7 @@ The patient should be referred to a dermatologist in case suspicious lesions are
 
 Since there is a potential risk of malignant skin growths, patients treated with fingolimod should be cautioned against exposure to sunlight without protection.
 These patients should not receive concomitant phototherapy with UV-B-radiation or PUVA-photochemotherapy.
+
 Lymphomas
 There have been cases of lymphoma in clinical studies and the post-marketing setting (see section 4.8).
 The cases reported were heterogeneous in nature, mainly non-Hodgkin’s lymphoma, including B-cell and T-cell lymphomas.
@@ -229,7 +236,6 @@ In the post-marketing setting, severe exacerbation of disease has been observed 
 This has generally been observed within 12 weeks after stopping fingolimod, but has also been reported up to 24 weeks after fingolimod discontinuation.
 Caution is therefore indicated when stopping fingolimod therapy.
 If discontinuation of fingolimod is deemed necessary, the possibility of recurrence of exceptionally high disease activity should be considered and patients should be monitored for relevant signs and symptoms and appropriate treatment initiated as required (see “Stopping therapy” below).
-
 Stopping therapy
 
 If a decision is made to stop treatment with Gilenya a 6 week interval without therapy is needed, based on half-life, to clear fingolimod from the circulation (see section 5.2).
@@ -244,6 +250,7 @@ Interference with serological testing
 
 Since fingolimod reduces blood lymphocyte counts via re-distribution in secondary lymphoid organs, peripheral blood lymphocyte counts cannot be utilised to evaluate the lymphocyte subset status of a patient treated with Gilenya.
 Laboratory tests involving the use of circulating mononuclear cells require larger blood volumes due to reduction in the number of circulating lymphocytes.
+
 Paediatric population
 
 The safety profile in paediatric patients is similar to that in adults and the warnings and precautions for adults therefore also apply to paediatric patients.

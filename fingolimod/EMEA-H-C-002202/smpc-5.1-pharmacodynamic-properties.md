@@ -10,6 +10,7 @@ Fingolimod phosphate binds at low nanomolar concentrations to sphingosine 1-phos
 By acting as a functional antagonist of S1P receptors on lymphocytes, fingolimod phosphate blocks the capacity of lymphocytes to egress from lymph nodes, causing a redistribution, rather than depletion, of lymphocytes.
 Animal studies have shown that this redistribution reduces the infiltration of pathogenic lymphocytes, including pro-inflammatory Th17 cells, into the CNS, where they would be involved in nerve inflammation and nervous tissue damage.
 Animal studies and in vitro experiments indicate that fingolimod may also act via interaction with S1P receptors on neural cells.
+
 Pharmacodynamic effects
 
 Within 4-6 hours after the first dose of fingolimod 0.5 mg, the lymphocyte count decreases to approximately 75% of baseline in peripheral blood.
@@ -35,11 +36,11 @@ Autonomic responses of the heart, including diurnal variation of heart rate and 
 S1P4 could partially contribute to the effect but was not the main receptor responsible for the lymphoid depletion.
 The mechanism of action of bradycardia and vasoconstriction were also studied in vitro in guinea pigs and isolated rabbit aorta and coronary artery.
 It was concluded that bradycardia could be mediated primarily by activation of inward-rectifying potassium channel or G-protein activated inwardly rectifying K+ channel (IKACh/GIRK) and that vasoconstriction seems to be mediated by a Rho kinase and calcium dependent mechanism.
-
 Fingolimod treatment with single or multiple doses of 0.5 and 1.25 mg for two weeks is not associated with a detectable increase in airway resistance as measured by FEV1 and forced expiratory flow rate (FEF) 25-75.
 However, single fingolimod doses ≥5 mg (10-fold the recommended dose) are associated with a dose-dependent increase in airway resistance.
 Fingolimod treatment with multiple doses of 0.5, 1.25, or 5 mg is not associated with impaired oxygenation or oxygen desaturation with exercise or an increase in airway responsiveness to methacholine.
 Subjects on fingolimod treatment have a normal bronchodilator response to inhaled beta-agonists.
+
 Clinical efficacy and safety
 
 The efficacy of fingolimod has been demonstrated in two studies which evaluated once-daily doses of fingolimod 0.5 mg and 1.25 mg in adult patients with relapsing-remitting multiple sclerosis (RRMS).
@@ -71,9 +72,9 @@ In total, 920 patients entered (n=331 continued on 0.5 mg, 289 continued on 1.25
 After 12 months (month 36), 856 patients (93%) were still enrolled.
 Between months 24 and 36, the annualised relapse rate (ARR) for patients on fingolimod 0.5 mg in the core study who remained on 0.5 mg was 0.17 (0.21 in the core study).
 The ARR for patients who switched from placebo to fingolimod 0.5 mg was 0.22 (0.42 in the core study).
-
 Comparable results were shown in a replicate 2-year randomised, double-blind, placebo-controlled Phase III study on fingolimod in 1,083 patients (n=358 on 0.5 mg, 370 on 1.25 mg, 355 on placebo) with RRMS (D2309; FREEDOMS 2).
 Median values for baseline characteristics were: age 41 years, disease duration 8.9 years, EDSS score 2.5.
+
 Table 2 Study D2309 (FREEDOMS 2): main results
 
 |  | Fingolimod 0.5 mg | Placebo |
@@ -116,7 +117,6 @@ The ARR for patients who switched from interferon beta-1a to fingolimod 0.5 mg w
 Pooled results of Studies D2301 and D2302 showed a consistent and statistically significant reduction in annualised relapse rate compared to comparator in subgroups defined by gender, age, prior multiple sclerosis therapy, disease activity or disability levels at baseline.
 
 Further analyses of clinical trial data demonstrate consistent treatment effects in highly active subgroups of relapsing remitting multiple sclerosis patients.
-
 Paediatric population
 
 The efficacy and safety of once-daily doses of fingolimod 0.25 mg or 0.5 mg (dose selected based on body weight and exposure measurements) have been established in paediatric patients aged 10 to
