@@ -2,6 +2,6 @@
 
 5 years
 
-After first opening: 40 days
+After first opening: 90 days
 
 After dilution in the dosing cups, the preparation should be used within 24 hours.

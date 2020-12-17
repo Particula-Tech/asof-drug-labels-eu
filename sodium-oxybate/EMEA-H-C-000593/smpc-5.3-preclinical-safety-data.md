@@ -13,5 +13,13 @@ Perinatal mortality was increased and mean pup weight was decreased during the l
 The association of these developmental effects with maternal toxicity could not be established.
 In rabbits, slight foetotoxicity was observed.
 
+In a 10-week repeat dose toxicity study conducted in juvenile rats treated from postnatal day 21 to 90, sodium oxybate produced adverse effects including mortalities during the first week of treatment, when animals were 21 to 27 days old, corresponding to an approximate age of 3-4 years in children.
+Acute toxicity appeared at exposures below those expected in paediatric patients and mortality was preceded by sodium oxybate-related clinical signs (bradypnea, deep breathing, decreased activity, uncoordinated gait, impaired righting reflex), in line with its expected pharmacology.
+The reason for this relatively stronger toxicity during the first week of treatment is not fully clear.
+It could be related to the fact that young animals appear to exhibit higher systemic exposure than older juvenile rats.
+It could also be due to higher sensitivity of pups to sodium oxybate compared to older juvenile and adult rats and/or to a tolerance development phenomenon.
+Reduced body weight and food consumption similarly as in adults were also observed, with additional respiratory signs (deep and slow breathing).
+Sodium oxybate did not produce adverse effects on growth and development up to exposure levels 2-to 4-fold higher than the exposure expected at the maximum recommended dose in paediatric subjects (200mg/kg/day in paediatric patients with body weight less than 45kg or 9g/day for paediatric patients with body weight ≥45kg).
+
 Drug discrimination studies show that GHB produces a unique discriminative stimulus that in some respects is similar to that of alcohol, morphine and certain GABA-mimetic medicinal products.
 Self-administration studies in rats, mice and monkeys have produced conflicting results, whereas tolerance to GHB as well as cross-tolerance to alcohol and baclofen has been clearly demonstrated in rodents.

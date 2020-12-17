@@ -4,11 +4,13 @@ Xyrem has the potential to induce respiratory depression
 
 Respiratory and CNS depression
 Sodium oxybate also has the potential to induce respiratory depression.
-Apnoea and respiratory depression have been observed in a fasting healthy subject after a single intake of 4.5 g (twice the recommended starting dose).
+Patients should be assessed before treatment for sleep apnoea and caution should be exercised when considering treatment.
+Apnoea and respiratory depression have been observed in a fasting healthy subject after a single intake of 4.5g (twice the recommended starting dose).
+During post-marketing surveillance, it has been observed that the use of sodium oxybate may predispose the patients to choking sensation during sleep.
 Patients should be questioned regarding signs of Central Nervous System (CNS) or respiratory depression.
 Special caution should be observed in patients with an underlying respiratory disorder.
-Because of the higher risk of sleep apnoea, patients with a BMI
-≥40 kg/m2 should be monitored closely when taking sodium oxybate.
+Patients should be monitored for signs of respiratory depression during treatment.
+Because of the higher risk of sleep apnoea, patients with a BMI ≥40 kg/m2 should be monitored closely when taking sodium oxybate.
 
 Approximately 80% of patients who received sodium oxybate during clinical trials maintained CNS stimulant use.
 Whether this affected respiration during the night is unknown.
@@ -52,18 +54,41 @@ Other neuropsychiatric events include anxiety, psychosis, paranoia, hallucinatio
 The emergence of thought disorders including thoughts of committing violent acts (including harming others) and/or behavioural abnormalities when patients are treated with sodium oxybate requires careful and immediate evaluation.
 
 The emergence of depression when patients are treated with sodium oxybate requires careful and immediate evaluation.
-Patients with a previous history of a depressive illness and/or suicide attempt should be monitored especially carefully for the emergence of depressive symptoms while taking sodium oxybate.
-Major depression is contraindicated for use with Xyrem (section 4.3).
+Patients with a previous history of affective disorders (including depressive illness, anxiety and bipolar disorder), suicide attempt and psychosis should be monitored especially carefully for the emergence of depressive symptoms and/or suicidal ideation while taking sodium oxybate.
+Major depression is contraindicated for use with sodium oxybate.(see section 4.3).
 
 If a patient experiences urinary or faecal incontinence during sodium oxybate therapy, the prescriber should consider pursuing investigations to rule out underlying aetiologies.
+
 Sleepwalking has been reported in patients treated in clinical trials with sodium oxybate.
 It is unclear if some or all of these episodes correspond to true somnambulism (a parasomnia occurring during non-REM sleep) or to any other specific medical disorder.
 The risk of injury or self-harm should be borne in mind in any patient with sleepwalking.
 Therefore, episodes of sleepwalking should be fully evaluated and appropriate interventions considered.
 
+Paediatric Population:
+
+Monitoring during titration phase
+The patient’s tolerability, especially with regards to potential signs of central nervous system and respiratory depression, should be carefully monitored with each dose increase during titration.
+Careful monitoring should include that the parent/caregivers observe the child’s breath after sodium oxybate intake to assess if there is any abnormality in breathing during the first two hours, for example rude breathing, sleep apnoea, cyanosis of lips/face.
+If abnormality in breathing is observed medical support should be sought.
+If any abnormality is noted after the first dose, the second dose should not be administered.
+If no abnormality is noted the second dose can be administered.
+The second dose should not be given earlier than 2.5 hours or later than 4 hours after the first dose.
+In individual cases, e.g. if it is uncertain that the parent/caregivers can manage careful monitoring as described, sodium oxybate is not recommended unless medical supervision of treatment can be organized.
+If in doubt about administration of a dose, do not re-administer the dose to reduce the risk of overdose.
+
+Weight Loss
+Weight decrease is common amongst patients treated with sodium oxybate (see section 4.8).
+For paediatric patients it is important that their weight is checked at regular intervals especially during dose titration to ensure that the appropriate dose of sodium oxybate is being administered (see section 4.2).
+
+Neuropsychiatric events
+For children and adolescents extra care should be taken to assess any potential suicidal or depressive conditions before starting treatment with sodium oxybate (see section 4.8) and to monitor any treatment-emergent events.
+
+Alcohol and CNS depressants
+Given the risk of alcohol intake among adolescents, it is noted that alcohol may further increase the CNS and respiratory depressant effects of sodium oxybate in children – adolescents taking sodium oxybate (see section 4.5).
+
 Sodium intake
-Patients taking sodium oxybate will have an additional daily intake of sodium that ranges from 0.82 g (for a 4.5 g/day Xyrem dose) to 1.6 g (for a 9 g/day Xyrem dose).
-A recommendation to reduce sodium intake should be carefully considered in the management of patients with heart failure, hypertension or compromised renal function (see sections 4.2 and 4.9).
+Patients taking sodium oxybate will have an additional daily intake of 0.18g of sodium per 1 gram of sodium oxybate dose.
+A recommendation to reduce sodium intake should be carefully considered in the management of patients with heart failure, hypertension or compromised renal function (see section 4.2 and 4.9)
 
 Elderly
 There is very limited experience with sodium oxybate in the elderly.
@@ -77,3 +102,7 @@ Rebound effects and withdrawal syndrome
 The discontinuation effects of sodium oxybate have not been systematically evaluated in controlled clinical trials.
 In some patients, cataplexy may return at a higher frequency on cessation of sodium oxybate therapy, however this may be due to the normal variability of the disease.
 Although the clinical trial experience with sodium oxybate in narcolepsy/cataplexy patients at therapeutic doses does not show clear evidence of a withdrawal syndrome, in rare cases, events such as insomnia, headache, anxiety, dizziness, sleep disorder, somnolence, hallucination, and psychotic disorders were observed after GHB discontinuation.
+
+Educational Materials
+In order to assist prescribers, and patients/caregivers about the important information for Xyrem educational materials will be provided to them.
+In particular the materials will reinforce that for paediatric patients, an initial assessment of the patient should be performed with regard to growth and learning ability and that in addition to any side effects, any behaviour changes (social and learning), should be reported to the child’s healthcare provider.

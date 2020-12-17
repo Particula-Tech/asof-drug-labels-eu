@@ -14,6 +14,7 @@ When higher doses up to 9 g/d of sodium oxybate are combined with higher doses o
 Tramadol
 A drug interaction study in healthy adults with sodium oxybate (single dose of 2.25 g) and tramadol (single dose of 100 mg) demonstrated no pharmacokinetic/pharmacodynamic interaction.
 When higher doses up to 9 g/day of sodium oxybate are combined with higher doses of opioids (within the recommended dose range) pharmacodynamic interactions associated with symptoms of CNS depression and/or respiratory depression cannot be excluded (see sections 4.3).
+
 Antidepressants
 Drug interaction studies in healthy adults demonstrated no pharmacokinetic interactions between sodium oxybate (single dose of 2.25 g) and the antidepressants protriptyline hydrochloride (single dose of 10 mg) and duloxetine (60 mg at steady state).
 No additional effect on sleepiness was observed when comparing single doses of sodium oxybate alone (2.25 g) and sodium oxybate (2.25 g) in combination with duloxetine (60 mg at steady state).
@@ -35,8 +36,7 @@ Drug interaction studies in healthy adults demonstrated no pharmacokinetic inter
 
 Diclofenac
 Drug interaction studies in healthy adults demonstrated no pharmacokinetic interactions between sodium oxybate and diclofenac.
-Co-administration of sodium oxybate and diclofenac in healthy volunteers reduced the attention deficit caused by the administration of Xyrem alone as measured by psychometric tests.
-
+Co-administration of sodium oxybate and diclofenac in healthy volunteers reduced the attention deficit caused by the administration of sodium oxybate alone as measured by psychometric tests.
 GHB dehydrogenase inhibitors
 Since sodium oxybate is metabolised by GHB dehydrogenase there is a potential risk of an interaction with medicinal products that stimulate or inhibit this enzyme (e.g. valproate, phenytoin or ethosuximide) (see section 4.4).
 

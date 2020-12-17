@@ -3,14 +3,14 @@
 Sodium oxybate is rapidly and almost completely absorbed after oral administration; absorption is delayed and decreased by a high fat meal.
 It is eliminated mainly by metabolism with a half-life of 0.5 to 1 hour.
 Pharmacokinetics is nonlinear with the area under the plasma concentration curve (AUC) versus time curve increasing 3.8-fold as dose is doubled from 4.5 g to 9 g. The pharmacokinetics is not altered with repeat dosing.
-
 Absorption
 Sodium oxybate is absorbed rapidly following oral administration with an absolute bioavailability of about 88 %.
 The average peak plasma concentrations (1st and 2nd peak) following administration of a 9 g daily dose divided into two equivalent doses given four hours apart were 78 and 142 µg/mL, respectively.
 The average time to peak plasma concentration (Tmax) ranged from 0.5 to 2 hours in eight pharmacokinetic studies.
 Following oral administration, the plasma levels of sodium oxybate increase more than proportionally with increasing dose.
 Single doses greater than 4.5 g have not been studied.
-Administration of sodium oxybate immediately after a high fat meal resulted in delayed absorption (average Tmax increased from 0.75 hr to 2.0 hr) and a reduction in peak plasma level (Cmax) by a mean of 58% and of systemic exposure (AUC) by 37%.
+Administration of sodium oxybate immediately after a high fat meal resulted in delayed absorption (average Tmax increased from 0.75 hr to 2.0 hr) and a reduction in peak plasma level (Cmax) by a mean of 58% and of systemic exposure (AUC) by 37%
+
 Distribution
 Sodium oxybate is a hydrophilic compound with an apparent volume of distribution averaging 190-384 mL/kg.
 At sodium oxybate concentrations ranging from 3 to 300 µg/mL, less than 1% is bound to plasma proteins.
@@ -31,15 +31,19 @@ The clearance of sodium oxybate is almost entirely by biotransformation to carbo
 On average, less than 5% of unchanged medicinal product appears in human urine within 6 to 8 hours after dosing.
 Faecal excretion is negligible.
 
+Special populations
+
 Elderly
 In a limited number of patients greater than the age of 65 years the pharmacokinetics of sodium oxybate was not different compared to patients younger than 65 years of age.
 
 Paediatric population
-The pharmacokinetics of sodium oxybate in paediatric patients under the age of 18 years have not been studied.
+The major pharmacokinetic characteristics of sodium oxybate in paediatric subjects are the same as those reported in pharmacokinetic studies of sodium oxybate in adults
+
+Paediatric and adult subjects receiving the same mg/kg dose have similar plasma concentration-time profiles.
+(see section 4.2)
 
 Renal impairment
 Because the kidney does not have a significant role in the excretion of sodium oxybate, no pharmacokinetic study in patients with renal dysfunction has been conducted; no effect of renal function on sodium oxybate pharmacokinetics would be expected.
-
 Hepatic impairment
 Sodium oxybate undergoes significant presystemic (hepatic first-pass) metabolism.
 After a single oral dose of 25 mg/kg, AUC values were double in cirrhotic patients, with apparent oral clearance reduced from 9.1 in healthy adults to 4.5 and 4.1 mL/min/kg in Class A (without ascites) and Class C (with ascites) patients, respectively.

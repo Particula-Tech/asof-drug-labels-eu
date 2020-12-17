@@ -1,7 +1,7 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Pregnancy
-Animal studies have shown no evidence of teratogenicity but embryolethality was seen in both rat and rabbit studies (see section 5.3).
+Animal studies have shown no evidence of teratogenicity but embryo lethality was seen in both rat and rabbit studies (see section 5.3).
 
 Data from a limited number of pregnant women exposed in the first trimester indicate a possible increased risk of spontaneous abortions.
 To date no other relevant epidemiological data are available.
