@@ -45,9 +45,10 @@ The efficacy analysis consisted of 109 patients who had at least 24 hours of vid
 The results are consistent across age group.
 With continued long-term treatment, 8.6 % of the patients were seizure-free for at least 6 months and 7.8 % were seizure-free for at least 1 year.
 35 infants aged less than 1 year with partial onset seizures have been exposed in placebo-control clinical studies of which only 13 were aged < 6 months.
+
 Monotherapy in the treatment of partial onset seizures with or without secondary generalisation in patients from 16 years of age with newly diagnosed epilepsy.
 
-Efficacy of levetiracetam as monotherapy was established in a double-blind, parallel group, non-inferiority comparison to carbamazepine controlled release (CR) in 576 patients 16 years of age or older with newly or recently diagnosed epilepsy.
+Efficacy of levetiracetam as monotherapy was established in a double-blind, parallel group, non-inferiority comparison to carbamazepine-controlled release (CR) in 576 patients 16 years of age or older with newly or recently diagnosed epilepsy.
 The patients had to present with unprovoked partial seizures or with generalized tonic-clonic seizures only.
 The patients were randomized to carbamazepine CR 400 – 1200 mg/day or levetiracetam 1000 - 3000 mg/day, the duration of the treatment was up to 121 weeks depending on the response.
 Six-month seizure freedom was achieved in 73.0 % of levetiracetam-treated patients and 72.8 % of carbamazepine-CR treated patients; the adjusted absolute difference between treatments was 0.2 % (95 % CI: -7.8 8.2).
@@ -72,6 +73,8 @@ With continued long-term treatment, 47.4 % of the patients were free of tonic-cl
 
 [Keppra 500 mg film-coated tablets]
 
+In addition, it partially reverses the reductions in GABA- and glycine-gated currents induced by zinc and β-carbolines.
+
 Levetiracetam efficacy was established in a 24-week double-blind, placebo-controlled study, which included adults, adolescents and a limited number of children suffering from idiopathic generalized epilepsy with primary generalized tonic-clonic (PGTC) seizures in different syndromes (juvenile myoclonic epilepsy, juvenile absence epilepsy, childhood absence epilepsy, or epilepsy with Grand Mal seizures on awakening).
 
 [Keppra 750 mg film-coated tablets]
@@ -92,7 +95,6 @@ Six-month seizure freedom was achieved in 73.0 % of levetiracetam-treated patien
 
 [Keppra 100 mg/ml concentrate for solution for infusion]
 
-In addition, it partially reverses the reductions in GABA- and glycine-gated currents induced by zinc and β-carbolines.
 Levetiracetam and related analogues show a rank order of affinity for binding to the synaptic vesicle protein 2A which correlates with the potency of their anti-seizure protection in the mouse audiogenic model of epilepsy.
 
 Adjunctive therapy in the treatment of partial onset seizures with or without secondary generalisation in adults, adolescents and children from 4 years of age with epilepsy.

@@ -2,20 +2,27 @@
 
 Posology
 
-Monotherapy for adults and adolescents from 16 years of age
+Partial onset seizures
+The recommended dosing for monotherapy (from 16 years of age) and adjunctive therapy is the same; as outlined below.
 
-The recommended starting dose is 250 mg twice daily which should be increased to an initial therapeutic dose of 500 mg twice daily after two weeks.
-The dose can be further increased by 250 mg twice daily every two weeks depending upon the clinical response.
-The maximum dose is 1500 mg twice daily.
+All indications
 
-Add-on therapy for adults (≥18 years) and adolescents (12 to 17 years) weighing 50 kg or more
+Adults (≥18 years) and adolescents (12 to 17 years) weighing 50 kg or more
 
 The initial therapeutic dose is 500 mg twice daily.
 This dose can be started on the first day of treatment.
+However, a lower initial dose of 250 mg twice daily may be given based on physician assessment of seizure reduction versus potential side effects.
+This can be increased to 500 mg twice daily after two weeks.
+
 Depending upon the clinical response and tolerability, the daily dose can be increased up to 1,500 mg twice daily.
-Dose changes can be made in 500 mg twice daily increases or decreases every two to four weeks.
+Dose changes can be made in 250 mg or 500 mg twice daily increases or decreases every two to four weeks.
+Adolescents (12 to 17 years) weighing below 50 kg and children from 1 month of age
+
+The physician should prescribe the most appropriate pharmaceutical form, presentation and strength according to weight, age and dose.
+Refer to Paediatric population section for dosing adjustments based on weight.
+
 Discontinuation
-If levetiracetam has to be discontinued it is recommended to withdraw it gradually (e.g. in adults and adolescents weighing more than 50 kg: 500 mg decreases twice daily every two to four weeks; in infants older than 6 months, children and adolescents weighting less than 50 kg: dose decrease should not exceed 10 mg/kg twice daily every two weeks; in infants (less than 6 months): dose decrease should not exceed 7 mg/kg twice daily every two weeks).
+If levetiracetam has to be discontinued it is recommended to withdraw it gradually (e.g. in adults and adolescents weighing more than 50 kg: 500 mg decreases twice daily every two to four weeks; in infants older than 6 months, children and adolescents weighing less than 50 kg: dose decrease should not exceed 10 mg/kg twice daily every two weeks; in infants (less than 6 months): dose decrease should not exceed 7 mg/kg twice daily every two weeks).
 
 Special populations
 
@@ -29,7 +36,7 @@ The daily dose must be individualised according to renal function.
 
 For adult patients, refer to the following table and adjust the dose as indicated.
 To use this dosing table, an estimate of the patient's creatinine clearance (CLcr) in ml/min is needed.
-The CLcr in ml/min may be estimated from serum creatinine (mg/dl) determination, for adults and adolescents weighting 50 kg or more, the following formula:
+The CLcr in ml/min may be estimated from serum creatinine (mg/dl) determination, for adults and adolescents weighing 50 kg or more, the following formula:
 
 [140-age (years)] x weight (kg)
 CLcr (ml/min) = ----------------------------------------- (x 0.85 for women)
@@ -41,7 +48,7 @@ CLcr (ml/min)
 CLcr (ml/min/1.73 m2) = ---------------------------- x 1.73
 BSA subject (m2)
 
-Dosing adjustment for adult and adolescents patients weighing more than 50 kg with impaired renal function:
+Dosing adjustment for adult and adolescent patients weighing more than 50 kg with impaired renal function:
 
 Group Creatinine clearance Dose and frequency
 
@@ -59,14 +66,15 @@ undergoing dialysis (1)
 
 For children with renal impairment, levetiracetam dose needs to be adjusted based on the renal function as levetiracetam clearance is related to renal function.
 This recommendation is based on a study in adult renally impaired patients.
-
 The CLcr in ml/min/1.73 m2 may be estimated from serum creatinine (mg/dl) determination, for young adolescents, children and infants, using the following formula (Schwartz formula):
 
 Height (cm) x ks
 CLcr (ml/min/1.73 m2) = ------------------------------------
-Serum Creatinine (mg/dl) ks= 0.45 in Term infants to 1 year old; ks= 0.55 in Children to less than 13 years and in adolescent female; ks= 0.7 in adolescent male
+Serum Creatinine (mg/dl)
 
-Dosing adjustment for infants, children and adolescents patients weighing less than 50 kg with impaired renal function:
+ks= 0.45 in Term infants to 1 year old; ks= 0.55 in Children to less than 13 years and in adolescent female; ks= 0.7 in adolescent male
+
+Dosing adjustment for infants, children and adolescent patients weighing less than 50 kg with impaired renal function:
 
 | Group | Creatinine clearance (ml/min/1.73 m2) | Dose and frequency (1) |  |
 | --- | --- | --- | --- |
@@ -75,7 +83,7 @@ Dosing adjustment for infants, children and adolescents patients weighing less t
 | Mild | 50-79 | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) twice daily | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) twice daily |
 | Moderate | 30-49 | 3.5 to 10.5 mg/kg (0.035 to 0.105 ml/kg) twice daily | 5 to 15 mg/kg (0.05 to 0.15 ml/kg) twice daily |
 | Severe | < 30 | 3.5 to 7 mg/kg (0.035 to 0.07 ml/kg) twice daily | 5 to 10 mg/kg (0.05 to 0.10 ml/kg) twice daily |
-| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) once daily (2) (4) | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
+| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0(2.) 1(44) ml/kg) once daily | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
 
 (1) Keppra oral solution should be used for doses under 250 mg, for doses not multiple of 250 mg when dosing recommendation is not achievable by taking multiple tablets and for patients unable to swallow tablets.
 (2) A 10.5 mg/kg (0.105 ml/kg) loading dose is recommended on the first day of treatment with levetiracetam.
@@ -103,14 +111,19 @@ Monotherapy
 The safety and efficacy of Keppra in children and adolescents below 16 years as monotherapy treatment have not been established.
 No data are available.
 
+Adolescents (16 and 17 years of age) weighing 50 kg or more with partial onset seizures with or without secondary generalisation with newly diagnosed epilepsy.
+Please refer to the above section on Adults (≥18 years) and adolescents (12 to 17 years) weighing 50 kg or more.
+
 Add-on therapy for infants aged from 6 to 23 months, children (2 to 11 years) and adolescents (12 to 17 years) weighing less than 50 kg
 
 Keppra oral solution is the preferred formulation for use in infants and children under the age of 6 years.
 
 For children 6 years and above, Keppra oral solution should be used for doses under 250 mg, for doses not multiple of 250 mg when dosing recommendation is not achievable by taking multiple tablets and for patients unable to swallow tablets
-The lowest effective dose should be used.
+The lowest effective dose should be used for all indications.
 The starting dose for a child or adolescent of 25kg should be 250mg twice daily with a maximum dose of 750mg twice daily.
-Dose in children 50 kg or greater is the same as in adults.
+
+Dose in children 50 kg or greater is the same as in adults for all indications.
+Please refer to the above section on Adults (≥18 years) and adolescents (12 to 17 years) weighing 50 kg or more for all indications.
 
 Add-on therapy for infants aged from 1 month to less than 6 months
 
@@ -132,15 +145,13 @@ CLcr (ml/min/1.73 m2) = -------------------------------------
 | Mild | 50-79 | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) twice daily | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) twice daily |
 | Moderate | 30-49 | 3.5 to 10.5 mg/kg (0.035 to 0.105 ml/kg) twice daily | 5 to 15 mg/kg (0.05 to 0.15 ml/kg) twice daily |
 | Severe | < 30 | 3.5 to 7 mg/kg (0.035 to 0.07 ml/kg) twice daily | 5 to 10 mg/kg (0.05 to 0.10 ml/kg) twice daily |
-| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) once daily (2) (4) | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
+| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0(4.) 14 ml/kg) once daily (2) | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
+
+Adolescents (16 and 17 years of age) weighing 50 kg or more with partial onset seizures with or without secondary generalisation with newly diagnosed epilepsy: Please refer to the above section on
 
 Add-on therapy for infants aged 6 to 23 months, children (2 to 11 years) and adolescents (12 to 17 years) weighing less than 50 kg
 
 [Keppra 750 mg film-coated tablets]
-
-Serum Creatinine (mg/dl)
-
-ks= 0.45 in Term infants to 1 year old; ks= 0.55 in Children to less than 13 years and in adolescent female; ks= 0.7 in adolescent male
 
 | Group | Creatinine clearance (ml/min/1.73m2) | Dose and frequency (1) |  |
 | --- | --- | --- | --- |
@@ -149,7 +160,7 @@ ks= 0.45 in Term infants to 1 year old; ks= 0.55 in Children to less than 13 yea
 | Mild | 50-79 | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) twice daily | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) twice daily |
 | Moderate | 30-49 | 3.5 to 10.5 mg/kg (0.035 to 0.105 ml/kg) twice daily | 5 to 15 mg/kg (0.05 to 0.15 ml/kg) twice daily |
 | Severe | < 30 | 3.5 to 7 mg/kg (0.035 to 0.07 ml/kg) twice daily | 5 to 10 mg/kg (0.05 to 0.10 ml/kg) twice daily |
-| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) once daily (2) (4) | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
+| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0(4.) 14 ml/kg) once daily (2) | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
 
 [Keppra 1000 mg film-coated tablets]
 
@@ -157,10 +168,10 @@ ks= 0.45 in Term infants to 1 year old; ks= 0.55 in Children to less than 13 yea
 
 [Keppra 100 mg/ml oral solution]
 
-If levetiracetam has to be discontinued it is recommended to withdraw it gradually (e.g. in adults and adolescents weighing more than 50 kg: 500 mg decreases twice daily every two to four weeks; in infants older than 6 months, children and adolescents weighting less than 50 kg: dose decrease should not exceed 10 mg/kg twice daily every two weeks; in infants (less than 6 months): dose decrease should not exceed 7 mg/ kg twice daily every two weeks).
+If levetiracetam has to be discontinued it is recommended to withdraw it gradually (e.g. in adults and adolescents weighing more than 50 kg: 500 mg decreases twice daily every two to four weeks; in infants older than 6 months, children and adolescents weighing less than 50 kg: dose decrease should not exceed 10 mg/kg twice daily every two weeks; in infants (less than 6 months): dose decrease should not exceed 7 mg/ kg twice daily every two weeks).
 
 The initial therapeutic dose is 10 mg/kg twice daily.
-Depending upon the clinical response and tolerability, the dose can be increased up to 30 mg/kg twice daily.
+Depending upon the clinical response and tolerability, the dose can be increased by 10 mg/kg twice daily every 2 weeks up to 30 mg/kg twice daily.
 Dose changes should not exceed increases or decreases of 10 mg/kg twice daily every two weeks.
 
 Dose recommendations for infants from 6 months of age, children and adolescents:
@@ -178,15 +189,18 @@ Dose recommendations for infants from 6 months of age, children and adolescents:
 (2) Dose in children and adolescents 50 kg or more is the same as in adults.
 
 The initial therapeutic dose is 7 mg/kg twice daily.
-Depending upon the clinical response and tolerability, the dose can be increased up to 21 mg/kg twice daily.
+Depending upon the clinical response and tolerability, the dose can be increased by 7 mg/kg twice daily every 2 weeks up to recommended dose of 21 mg/kg twice daily.
 Dose changes should not exceed increases or decreases of 7 mg/kg twice daily every two weeks.
+The lowest effective dose should be used.
 Infants should start the treatment with Keppra 100 mg/ml oral solution.
 
 Dose recommendations for infants aged from 1 month to less than 6 months:
 
-| Weight | Starting dose: 7 mg/kg twice daily | Maximum dose: 21 mg/kg twice daily |
-| --- | --- | --- |
+Weight Starting dose: Maximum dose:
+7 mg/kg twice daily 21 mg/kg twice daily
+
 | 4 kg | 28 mg (0.3 ml) twice daily | 84 mg (0.85 ml) twice daily |
+| --- | --- | --- |
 | 5 kg | 35 mg (0.35 ml) twice daily | 105 mg (1.05 ml) twice daily |
 | 7 kg | 49 mg (0.5 ml)twice daily | 147 mg (1.5 ml) twice daily |
 
@@ -215,13 +229,13 @@ The total daily dose and frequency of administration should be maintained.
 Duration of treatment
 There is no experience with administration of intravenous levetiracetam for longer period than 4 days.
 
-If levetiracetam has to be discontinued it is recommended to withdraw it gradually (e.g. in adults and adolescents weighing more than 50 kg: 500 mg decreases twice daily every two to four weeks; in children and adolescents weighting less than 50 kg: dose decrease should not exceed 10 mg/kg twice daily every two weeks).
+If levetiracetam has to be discontinued it is recommended to withdraw it gradually (e.g. in adults and adolescents weighing more than 50 kg: 500 mg decreases twice daily every two to four weeks; in children and adolescents weighing less than 50 kg: dose decrease should not exceed 10 mg/kg twice daily every two weeks).
 
 The CLcr in ml/min/1.73 m2 may be estimated from serum creatinine (mg/dl) determination, for young adolescents and children using the following formula (Schwartz formula):
 
 ks= 0.55 in Children to less than 13 years and in adolescent female; ks= 0.7 in adolescent male
 
-Dosing adjustment for children and adolescents patients weighing less than 50 kg with impaired renal function:
+Dosing adjustment for children and adolescent patients weighing less than 50 kg with impaired renal function:
 
 | Group | Creatinine clearance (ml/min/1.73m2) | Dose and frequency |
 | --- | --- | --- |
@@ -235,9 +249,9 @@ Dosing adjustment for children and adolescents patients weighing less than 50 kg
 (1) A 15 mg/kg (0.15 ml/kg) loading dose is recommended on the first day of treatment with levetiracetam.
 (2) Following dialysis, a 5 to 10 mg/kg (0.05 to 0.10 ml/kg) supplemental dose is recommended.
 
-The safety and efficacy of Keppra in children below and adolescents 16 years as monotherapy treatment have not been established.
-
 Add-on therapy for children aged 4 to 11 years and adolescents (12 to 17 years) weighing less than 50 kg
+
+Depending upon the clinical response and tolerability, the dose can be increased up to 30 mg/kg twice daily.
 
 Dose recommendations for children and adolescents:
 

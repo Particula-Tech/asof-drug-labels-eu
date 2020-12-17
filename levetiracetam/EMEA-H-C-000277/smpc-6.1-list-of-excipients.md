@@ -25,7 +25,8 @@ Iron oxide red (E172)
 
 [Keppra 1000 mg film-coated tablets]
 
-(all sentences already above)
+Polyvinyl alcohol-part.
+Hydrolyzed
 
 [Keppra 100 mg/ml oral solution]
 
