@@ -49,3 +49,8 @@ A causal relationship has not been established.
 Patients should be observed closely for possible liver abnormalities.
 Obtain liver function tests promptly in patients with symptoms suggestive of liver injury.
 If an abnormality is found and an alternative etiology is not established, consider discontinuation of alogliptin treatment.
+
+Bullous Pemphigoid
+
+There have been post-marketing reports of bullous pemphigoid in patients taking DPP-4 inhibitors including alogliptin.
+If bullous pemphigoid is suspected, alogliptin should be discontinued.

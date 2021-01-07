@@ -13,7 +13,7 @@ The safety of alogliptin between the elderly (≥ 65 years old) and non-elderly 
 Tabulated list of adverse reactions
 
 The adverse reactions are listed by system organ class and frequency.
-Frequencies are defined as very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from available data).
+Frequencies are defined as very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from available data).
 
 In the pooled pivotal phase 3 controlled clinical studies of alogliptin as monotherapy and as add-on combination therapy involving 5,659 patients, the observed adverse reactions are listed below
 (Table 1).
@@ -28,7 +28,8 @@ Table 1: Adverse reactions
 | Nervous system disorders headache | common |
 | Gastrointestinal disorders abdominal pain gastroesophageal reflux disease diarrhoea acute pancreatitis | common common common not known |
 | Hepatobiliary disorders hepatic dysfunction including hepatic failure | not known |
-| Skin and subcutaneous tissue disorders pruritus rash exfoliative skin conditions including Stevens-Johnson syndrome erythema multiforme angioedema urticaria | common common not known not known not known not known |
+| Skin and subcutaneous tissue disorders pruritus rash exfoliative skin conditions including Stevens-Johnson syndrome erythema multiforme angioedema urticaria bullous pemphigoid | common common not known not known not known not known not known |
+| Renal and urinary disorders interstitial nephritis | not known |
 
 Reporting of suspected adverse reactions
 
