@@ -56,7 +56,7 @@ Clinical remission is defined as CDAI score < 150; Clinical response is defined 
 ** Conventional therapy failures a p < 0.001 b p < 0.01
 
 The maintenance study (IM-UNITI), evaluated 388 patients who achieved 100 point clinical response at week 8 of induction with ustekinumab in studies UNITI-1 and UNITI-2.
-Patients were randomized to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2 of the STELARA Solution for injection (vial) and Solution for injection in pre filled syringe SmPC).
+Patients were randomized to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2 of the STELARA Solution for injection (vial) and Solution for injection in pre-filled syringe SmPC).
 
 Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 4).
 
@@ -147,7 +147,7 @@ Table 5: Summary of Key Efficacy Outcomes in UNIFI-I (Week 8)
 | In patients who failed conventional therapy, but not a biologic | 21% (33/158) | 33% (52/156)c |
 | In patients who failed biological therapy | 7% (11/161) | 21% (35/166)b |
 | Symptomatic Remission‡ | 23% | 45%b |
-| Combined Symptomatic Remission and Mucosal Healing� | 8% | 21%b |
+| Combined Symptomatic Remission and Mucosal Healing⸸ | 8% | 21%b |
 
 £ Infusion dose of ustekinumab using the weight-based dosage regimen specified in Table 1.
 * Clinical remission is defined as Mayo score ≤2 points, with no individual subscore > 1.
@@ -155,11 +155,11 @@ Table 5: Summary of Key Efficacy Outcomes in UNIFI-I (Week 8)
 ¥ A TNFα antagonist and/or vedolizumab.
 † Mucosal healing is defined as a Mayo endoscopic subscore of 0 or 1.
 ‡ Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0.
-� Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
+⸸ Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
 a p < 0.001 b Nominally significant (p < 0.001) c Nominally significant (p < 0.05)
 
 UNIFI-M, evaluated 523 patients who achieved clinical response with single IV administration of ustekinumab in UNIFI-I.
-Patients were randomized to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2 of the STELARA Solution for injection (vial) and Solution for injection in pre filled syringe SmPC).
+Patients were randomized to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2 of the STELARA Solution for injection (vial) and Solution for injection in pre-filled syringe SmPC).
 
 Significantly greater proportions of patients were in clinical remission in both ustekinumab treated groups compared to the placebo group at week 44 (see Table 6).
 
@@ -180,7 +180,7 @@ Table 6: Summary of Key Efficacy Measures in UNIFI-M (week 44; 52 weeks from ini
 | Corticosteroid Free Clinical Remission€ | 23% | 42% a | 38% b |
 | Durable Remissionǁ | 35% | 57% c | 48% d |
 | Symptomatic Remission‡ | 45% | 68% c | 62% d |
-| Combined Symptomatic Remission and Mucosal Healing� | 28% | 48% c | 41% d |
+| Combined Symptomatic Remission and Mucosal Healing⸸ | 28% | 48% c | 41% d |
 
 * Following response to IV ustekinumab.
 ** Clinical remission is defined as Mayo score ≤2 points, with no individual subscore > 1.
@@ -191,7 +191,7 @@ Table 6: Summary of Key Efficacy Measures in UNIFI-M (week 44; 52 weeks from ini
 € Corticosteroid-free clinical remission is defined as patients in clinical remission and not receiving corticosteroids at Week 44.
 ǁ Durable Remission is defined as partial Mayo remission at ≥80% of all visits prior to Week 44 and in partial Mayo remission at last visit (Week 44).
 ‡ Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0.
-� Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
+⸸ Combined symptomatic remission and mucosal healing is defined as a stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1.
 a p < 0.001 b p < 0.05 c Nominally significant (p < 0.001) d Nominally significant (p < 0.05) e Not statistically significant
 
 The beneficial effect of ustekinumab on clinical response, mucosal healing and clinical remission was observed in induction and in maintenance both in patients who failed conventional therapy but not a biologic therapy, as well as in those who had failed at least one prior TNFα antagonist therapy including in patients with a primary non-response to TNFα antagonist therapy.
@@ -330,9 +330,9 @@ The improvement was sustained through week 28.
 Similarly, significant improvements were seen in Psoriasis Study 2 at week 4 and 12, which were sustained through week 24.
 In Psoriasis Study 1, improvements in nail psoriasis (Nail Psoriasis Severity Index), in the physical and mental component summary scores of the SF-36 and in the Itch Visual Analogue Scale (VAS) were also significant in each ustekinumab treatment group compared with placebo.
 In Psoriasis Study 2, the Hospital Anxiety and Depression Scale (HADS) and Work Limitations Questionnaire (WLQ) were also significantly improved in each ustekinumab treatment group compared with placebo.
+
 Psoriatic arthritis (PsA) (Adults)
 Ustekinumab has been shown to improve signs and symptoms, physical function and health-related quality of life, and reduce the rate of progression of peripheral joint damage in adult patients with active PsA.
-
 The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA (≥5 swollen joints and ≥5 tender joints) despite non-steroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy.
 Patients in these studies had a diagnosis of PsA for at least 6 months.
 Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%).
@@ -497,6 +497,7 @@ a CDLQI: The CDLQI is a dermatology instrument to assess the effect of a skin pr
 In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see section 4.2 of the STELARA 130 mg Concentrate for solution for infusion SmPC), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
 
 In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 9).
+
 Table 9: Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
 
 |  | UNITI-1* |  | UNITI-2** |  |
@@ -506,7 +507,8 @@ Table 9: Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
 | Clinical Response (100 point), week 6 | 53 (21.5%) | 84 (33.7%)b | 60 (28.7%) | 116 (55.5%)a |
 | Clinical Response (100 point), week 8 | 50 (20.2%) | 94 (37.8%)a | 67 (32.1%) | 121 (57.9%)a |
 | 70 Point Response, week 3 | 67 (27.1%) | 101 (40.6%)b | 66 (31.6%) | 106 (50.7%)a |
-| 70 Point Response, week 6 | 75 (30.4%) | 109 (43.8%)b | 81 (38.8%) | 135 (64.6%)a |
+
+70 Point Response, week 6 75 (30.4%) 109 (43.8%)b 81 (38.8%) 135 (64.6%)a
 
 Patients were randomized to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2).
 
@@ -544,7 +546,7 @@ Table 11: Summary of Key Efficacy Outcomes in UNIFI-I (Week 8)
 | In patients who failed conventional therapy, but not a biologic | 21% (33/158) | 33% (52/156)c |
 | In patients who failed biological therapy | 7% (11/161) | 21% (35/166)b |
 | Symptomatic Remission‡ | 23% | 45%b |
-| Combined Symptomatic Remission and Mucosal Healing� | 8% | 21%b |
+| Combined Symptomatic Remission and Mucosal Healing⸸ | 8% | 21%b |
 
 Significantly greater proportions of patients were in clinical remission in both ustekinumab treated groups compared to the placebo group at week 44 (see Table 12).
 

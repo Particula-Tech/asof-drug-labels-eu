@@ -7,9 +7,6 @@ EU/1/08/494/005
 STELARA 45 mg solution for injection
 EU/1/08/494/001
 
-STELARA 90 mg solution for injection
-EU/1/08/494/002
-
 STELARA 45 mg solution for injection in pre-filled syringe
 EU/1/08/494/003
 

@@ -58,6 +58,7 @@ Psoriatic arthritis (PsA)
 Alternatively, 90 mg may be used in patients with a body weight > 100 kg.
 
 The safety and efficacy of STELARA in children with psoriasis less than 6 years of age or in children with psoriatic arthritis less than 18 years of age have not yet been established.
+
 Paediatric plaque psoriasis (6 years and older)
 The recommended dose of STELARA based on body weight is shown below (Tables 1 and 2).
 STELARA should be administered at Weeks 0 and 4, then every 12 weeks thereafter.
@@ -68,7 +69,8 @@ Table 1 Recommended dose of STELARA for paediatric psoriasis
 | --- | --- |
 | < 60 kg | 0.75 mg/kg |
 | ≥60-≤100 kg | 45 mg |
-| > 100 kg | 90 mg |
+
+> 100 kg 90 mg
 
 To calculate the volume of injection (mL) for patients < 60 kg, use the following formula: body weight (kg) x 0.0083 (mL/kg) or see Table 2.
 The calculated volume should be rounded to the nearest 0.01 mL and administered using a 1 mL graduated syringe.
@@ -145,7 +147,7 @@ In Crohn’s disease, if therapy is interrupted, resumption of treatment with su
 
 The safety and efficacy of STELARA in treatment of Crohn’s disease or ulcerative colitis in children less than 18 years have not yet been established.
 
-STELARA 45 mg and 90 mg vials or pre-filled syringes are for subcutaneous injection only.
+STELARA 45 mg vials or 45 mg and 90 mg pre-filled syringes are for subcutaneous injection only.
 If possible, areas of the skin that show psoriasis should be avoided as injection sites.
 
 After proper training in subcutaneous injection technique, patients or their caregivers may inject STELARA if a physician determines that it is appropriate.

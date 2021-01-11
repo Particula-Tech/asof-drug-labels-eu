@@ -73,7 +73,7 @@ Because there is a higher incidence of infections in the elderly population in g
 
 Sodium content
 STELARA contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially ‘sodium-free’.
-STELARA is however, diluted in sodium chloride 9 mg/ml (0.9%) solution for infusion.
+STELARA is however, diluted in sodium chloride 9 mg/mL (0.9%) solution for infusion.
 This should be taken into consideration for patients on a controlled sodium diet (see section 6.6).
 
 [STELARA 45 mg solution for injection]
