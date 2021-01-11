@@ -96,6 +96,11 @@ Male and female patients with a history of genital mycotic infections were more 
 Balanitis or balanoposthitis occurred primarily in uncircumcised male patients which in some instances resulted in phimosis and/or circumcision.
 The majority of genital mycotic infections were treated with topical antifungal treatments, either prescribed by a healthcare professional or self-treated while continuing therapy with Invokana.
 
+Urinary tract infections
+
+Post-marketing cases of complicated urinary tract infections including pyelonephritis and urosepsis have been reported in patients treated with canagliflozin, frequently leading to treatment interruption.
+Temporary interruption of canagliflozin should be considered in patients with complicated urinary tract infections.
+
 Cardiac failure
 
 Experience in New York Heart Association (NYHA) class III is limited, and there is no experience in clinical studies with canagliflozin in NYHA class IV.

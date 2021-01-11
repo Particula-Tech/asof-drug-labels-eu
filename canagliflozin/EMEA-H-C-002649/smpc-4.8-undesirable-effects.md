@@ -155,14 +155,15 @@ Circumcision was performed at rates of 0.31 and 0.09 events per
 
 Urinary tract infections
 
-Urinary tract infections were more frequently reported for canagliflozin 100 mg and 300 mg (5.9% versus 4.3%, respectively) compared to 4.0% with placebo.
+In clinical studies, urinary tract infections were more frequently reported for canagliflozin 100 mg and 300 mg (5.9% versus 4.3%, respectively) compared to 4.0% with placebo.
 Most infections were mild to moderate with no increase in the occurrence of serious adverse reactions.
-Subjects responded to standard treatments while continuing canagliflozin treatment.
+In these studies, subjects responded to standard treatments while continuing canagliflozin treatment.
+
+However, post-marketing cases of complicated urinary tract infections including pyelonephritis and urosepsis have been reported in patients treated with canagliflozin, frequently leading to treatment interruption.
 
 Bone fracture
 
 In a cardiovascular study (CANVAS) of 4,327 treated subjects with established or at least two risk factors for cardiovascular disease, the incidence rates of all adjudicated bone fracture were 1.6, 1.8, and 1.1 per 100 patient-years of follow-up to canagliflozin 100 mg, canagliflozin 300 mg, and placebo, respectively, with the fracture imbalance initially occurring within the first 26 weeks of therapy.
-
 In two other long-term studies and in studies conducted in the general diabetes population, no difference in fracture risk was observed with canagliflozin relative to control.
 In a second cardiovascular study (CANVAS-R) of 5,807 treated subjects with established or at least two risk factors for cardiovascular disease, the incidence rates of all adjudicated bone fracture were 1.1 and 1.3 events per 100 patient-years of follow-up to canagliflozin and placebo, respectively.
 
