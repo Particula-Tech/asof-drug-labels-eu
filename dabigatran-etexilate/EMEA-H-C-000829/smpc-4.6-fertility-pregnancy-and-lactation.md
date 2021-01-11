@@ -26,3 +26,20 @@ No other effects on female fertility were observed.
 There was no influence on male fertility.
 At doses that were toxic to the mothers (representing a 5- to 10-fold higher plasma exposure level to patients), a decrease in foetal body weight and embryofoetal viability along with an increase in foetal variations were observed in rats and rabbits.
 In the pre- and post-natal study, an increase in foetal mortality was observed at doses that were toxic to the dams (a dose corresponding to a plasma exposure level 4-fold higher than observed in patients).
+
+[Pradaxa 110 mg hard capsules]
+
+(all sentences already above)
+
+[Pradaxa 150 mg hard capsules]
+
+(all sentences already above)
+
+[Pradaxa 20 mg coated granules]
+
+There was no influence on male fertility (see section 5.3).
+
+[Pradaxa 6.25 mg/mL powder and solvent for oral solution]
+
+Pradaxa powder and solvent for oral solution is intended to be used in children below the age of 12 months.
+Information regarding pregnancy and breast-feeding will not be relevant in the context of this patient group.

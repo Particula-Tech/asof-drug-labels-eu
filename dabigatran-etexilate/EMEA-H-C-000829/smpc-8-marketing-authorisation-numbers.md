@@ -25,3 +25,16 @@ EU/1/08/442/012
 EU/1/08/442/013
 EU/1/08/442/016
 EU/1/08/442/019
+
+[Pradaxa 20 mg coated granules]
+
+EU/1/08/442/025
+EU/1/08/442/026
+EU/1/08/442/027
+EU/1/08/442/028
+EU/1/08/442/029
+EU/1/08/442/030
+
+[Pradaxa 6.25 mg/mL powder and solvent for oral solution]
+
+EU/1/08/442/031
