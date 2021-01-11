@@ -29,7 +29,7 @@ As per available medical guidelines, short duration of treatment (at least 3 mon
 The recommended dose of apixaban for the prevention of recurrent DVT and PE is 2.5 mg taken orally twice daily.
 When prevention of recurrent DVT and PE is indicated, the 2.5 mg twice daily dose should be initiated following completion of 6 months of treatment with apixaban 5 mg twice daily or with another anticoagulant, as indicated in Table 1 below (see also section 5.1).
 
-Table 1:
+Table 1: Dose recommendation (VTEt)
 
 |  | Dosing schedule | Maximum daily dose |
 | --- | --- | --- |
@@ -53,19 +53,21 @@ Switching from Eliquis to VKA therapy
 When converting patients from Eliquis to VKA therapy, administration of Eliquis should be continued for at least 2 days after beginning VKA therapy.
 After 2 days of coadministration of Eliquis with VKA therapy, an INR should be obtained prior to the next scheduled dose of Eliquis.
 Coadministration of Eliquis and VKA therapy should be continued until the INR is ≥ 2.
+Elderly
+VTEp and VTEt – No dose adjustment required (see sections 4.4 and 5.2).
+
+NVAF – No dose adjustment required, unless criteria for dose reduction are met (see Dose reduction at the beginning of section 4.2).
+
 Renal impairment
 In patients with mild or moderate renal impairment, the following recommendations apply:
 
 - for the prevention of VTE in elective hip or knee replacement surgery (VTEp), for the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE (VTEt), no dose adjustment is necessary (see section 5.2).
-
-- for the prevention of stroke and systemic embolism in patients with NVAF and serum creatinine
-≥ 1.5 mg/dL (133 micromole/L) associated with age ≥ 80 years or body weight ≤ 60 kg, a dose reduction is necessary and described above.
-In the absence of other criteria for dose reduction (age, body weight), no dose adjustment is necessary (see section 5.2).
+- for the prevention of stroke and systemic embolism in patients with NVAF and serum creatinine ≥ 1.5 mg/dL (133 micromole/L) associated with age ≥ 80 years or body weight ≤ 60 kg, a dose reduction is necessary and described above.
+  In the absence of other criteria for dose reduction (age, body weight), no dose adjustment is necessary (see section 5.2).
 
 In patients with severe renal impairment (creatinine clearance 15-29 mL/min) the following recommendations apply (see sections 4.4 and 5.2):
 
 - for the prevention of VTE in elective hip or knee replacement surgery (VTEp), for the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE (VTEt) apixaban is to be used with caution;
-
 - for the prevention of stroke and systemic embolism in patients with NVAF, patients should receive the lower dose of apixaban 2.5 mg twice daily.
 
 In patients with creatinine clearance < 15 mL/min, or in patients undergoing dialysis, there is no clinical experience therefore apixaban is not recommended (see sections 4.4 and 5.2).
@@ -77,7 +79,7 @@ It is not recommended in patients with severe hepatic impairment (see sections 4
 
 It should be used with caution in patients with mild or moderate hepatic impairment (Child Pugh A or B). No dose adjustment is required in patients with mild or moderate hepatic impairment (see sections 4.4 and 5.2).
 
-Patients with elevated liver enzymes alanine aminotransferase (ALT)/aspartate aminotransferase (AST) >2 x ULN or total bilirubin ≥ 1.5 x ULN were excluded in clinical trials.
+Patients with elevated liver enzymes alanine aminotransferase (ALT)/aspartate aminotransferase (AST) >2 x ULN or total bilirubin ≥ 1.5 x ULN were excluded in clinical studies.
 Therefore Eliquis should be used with caution in this population (see sections 4.4 and 5.2).
 Prior to initiating Eliquis, liver function testing should be performed.
 
@@ -89,17 +91,12 @@ NVAF - No dose adjustment required, unless criteria for dose reduction are met (
 Gender
 No dose adjustment required (see section 5.2).
 
-Elderly
-VTEp and VTEt – No dose adjustment required (see sections 4.4 and 5.2).
-
-NVAF – No dose adjustment required, unless criteria for dose reduction are met (see Dose reduction at the beginning of section 4.2).
-
 Patients undergoing catheter ablation (NVAF)
 Patients can continue apixaban use while undergoing catheter ablation (see sections 4.3, 4.4 and 4.5).
 Patients undergoing cardioversion
 Apixaban can be initiated or continued in NVAF patients who may require cardioversion.
 
-For patients not previously treated with anticoagulants, exclusion of left atrial thrombus using an image guided approach (e.g. transesophogeal echocardiography (TEE) or computed tomographic scan (CT)) prior to cardioversion should be considered, in accordance with established medical guidelines.
+For patients not previously treated with anticoagulants, exclusion of left atrial thrombus using an image guided approach (e.g. transesophageal echocardiography (TEE) or computed tomographic scan (CT)) prior to cardioversion should be considered, in accordance with established medical guidelines.
 
 For patients initiating treatment with apixaban, 5 mg should be given twice daily for at least 2.5 days (5 single doses) before cardioversion to ensure adequate anticoagulation (see section 5.1).
 The dosing regimen should be reduced to 2.5 mg apixaban given twice daily for at least 2.5 days (5 single doses) if the patient meets the criteria for dose reduction (see above sections Dose reduction and Renal impairment).
@@ -111,6 +108,9 @@ The administration of the loading dose should be given at least 2 hours before c
 For all patients undergoing cardioversion, confirmation should be sought prior to cardioversion that the patient has taken apixaban as prescribed.
 Decisions on initiation and duration of treatment should take established guideline recommendations for anticoagulant treatment in patients undergoing cardioversion into account.
 
+Patients with NVAF and acute coronary syndrome (ACS) and/or percutaneous coronary intervention (PCI)
+There is limited experience of treatment with apixaban at the recommended dose for NVAF patients when used in combination with antiplatelet agents in patients with ACS and/or undergoing PCI after haemostasis is achieved (see sections 4.4, 5.1).
+
 Paediatric population
 The safety and efficacy of Eliquis in children and adolescents below age 18 have not been established.
 No data are available.
@@ -120,19 +120,18 @@ Method of administration
 Oral use
 Eliquis should be swallowed with water, with or without food.
 
-For patients who are unable to swallow whole tablets, Eliquis tablets may be crushed and suspended in water, or 5% dextrose in water (D5W), or apple juice or mixed with apple puree and immediately administered orally (see section 5.2).
-Alternatively, Eliquis tablets may be crushed and suspended in 60 mL of water or D5W and immediately delivered through a nasogastric tube (see section 5.2).
-Crushed Eliquis tablets are stable in water, D5W, apple juice, and apple puree for up to 4 hours.
+For patients who are unable to swallow whole tablets, Eliquis tablets may be crushed and suspended in water, or 5% glucose in water (G5W), or apple juice or mixed with apple puree and immediately administered orally (see section 5.2).
+Alternatively, Eliquis tablets may be crushed and suspended in 60 mL of water or G5W and immediately delivered through a nasogastric tube (see section 5.2).
+Crushed Eliquis tablets are stable in water, G5W, apple juice, and apple puree for up to 4 hours.
 
 [Eliquis 5 mg film-coated tablets]
 
-- for the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE (VTEt), no dose adjustment is necessary (see section 5.2).
+VTEt - No dose adjustment required (see sections 4.4 and 5.2).
 
+- for the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE (VTEt), no dose adjustment is necessary (see section 5.2).
 - for the prevention of stroke and systemic embolism in patients with NVAF and serum creatinine ≥1.5 mg/dL (133 micromole/L) associated with age ≥80 years or body weight ≤60 kg, a dose reduction is necessary and described above.
 
 - for the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE (VTEt) apixaban is to be used with caution;
 
 It should be used with caution in patients with mild or moderate hepatic impairment (Child Pugh A or B). No dose adjustment is required in patients with mild or moderate hepatic impairment
 (see sections 4.4 and 5.2).
-
-VTEt - No dose adjustment required (see sections 4.4 and 5.2).

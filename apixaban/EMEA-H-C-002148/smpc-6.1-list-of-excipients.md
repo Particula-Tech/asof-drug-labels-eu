@@ -1,13 +1,15 @@
 # 6.1 List of excipients
 
 Tablet core:
-Anhydrous lactose
+
+Lactose
 Microcrystalline cellulose (E460)
 Croscarmellose sodium
 Sodium laurilsulfate
 Magnesium stearate (E470b)
 
 Film coat:
+
 Lactose monohydrate
 Hypromellose (E464)
 Titanium dioxide (E171)

@@ -1,6 +1,9 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antithrombotic agents, direct factor Xa inhibitors, ATC code: B01AF02 Mechanism of action
+Pharmacotherapeutic group: Antithrombotic agents, direct factor Xa inhibitors, ATC code: B01AF02
+
+Mechanism of action
+
 Apixaban is a potent, oral, reversible, direct and highly selective active site inhibitor of factor Xa.
 It does not require antithrombin III for antithrombotic activity.
 Apixaban inhibits free and clot-bound factor Xa, and prothrombinase activity.
@@ -9,14 +12,14 @@ By inhibiting factor Xa, apixaban prevents thrombin generation and thrombus deve
 Preclinical studies of apixaban in animal models have demonstrated antithrombotic efficacy in the prevention of arterial and venous thrombosis at doses that preserved haemostasis.
 
 Pharmacodynamic effects
+
 The pharmacodynamic effects of apixaban are reflective of the mechanism of action (FXa inhibition).
 As a result of FXa inhibition, apixaban prolongs clotting tests such as prothrombin time (PT), INR and activated partial thromboplastin time (aPTT).
 Changes observed in these clotting tests at the expected therapeutic dose are small and subject to a high degree of variability.
 They are not recommended to assess the pharmacodynamic effects of apixaban.
 In the thrombin generation assay, apixaban reduced endogenous thrombin potential, a measure of thrombin generation in human plasma.
-
 Apixaban also demonstrates anti-FXa activity as evident by reduction in Factor Xa enzyme activity in multiple commercial anti-FXa kits, however results differ across kits.
-Data from clinical trials are only available for the Rotachrom® Heparin chromogenic assay.
+Data from clinical studies are only available for the Rotachrom® Heparin chromogenic assay.
 Anti-FXa activity exhibits a close direct linear relationship with apixaban plasma concentration, reaching maximum values at the time of apixaban peak plasma concentrations.
 The relationship between apixaban plasma concentration and anti-FXa activity is approximately linear over a wide dose range of apixaban.
 
@@ -25,10 +28,11 @@ In patients taking apixaban for the prevention of VTE following hip or knee repl
 In non-valvular atrial fibrillation patients taking apixaban for the prevention of stroke and systemic embolism, the results demonstrate a less than 1.7-fold fluctuation in peak-to-trough levels.
 In patients taking apixaban for the treatment of DVT and PE or prevention of recurrent DVT and PE, the results demonstrate a less than 2.2-fold fluctuation in peak-to-trough levels.
 
-| Table 3: Predicted Apixaban Steady-state Exposure and Anti-Xa Activity |  |  |  |  |
+Table 3: Predicted apixaban steady-state exposure and anti-Xa activity
+
+|  | Apix. Cmax (ng/mL) | Apix. Cmin (ng/mL) | Apix. anti-Xa activity max (IU/mL) | Apix. anti-Xa activity min (IU/mL) |
 | --- | --- | --- | --- | --- |
-|  | Apix. Cmax (ng/mL) | Apix. Cmin (ng/mL) | Apix. Anti-Xa Activity Max (IU/mL) | Apix. Anti-Xa Activity Min (IU/mL) |
-|  | Median [5th, 95th Percentile] |  |  |  |
+|  | Median [5th, 95th percentile] |  |  |  |
 | Prevention of VTE: elective hip or knee replacement surgery |  |  |  |  |
 | 2.5 mg twice daily | 77 [41, 146] | 51 [23, 109] | 1.3 [0.67, 2.4] | 0.84 [0.37, 1.8] |
 | Prevention of stroke and systemic embolism: NVAF |  |  |  |  |
@@ -40,6 +44,7 @@ In patients taking apixaban for the treatment of DVT and PE or prevention of rec
 | 10 mg twice daily | 251 [111, 572] | 120 [41, 335] | 4.2 [1.8, 10.8] | 1.9 [0.64, 5.8] |
 
 * Dose adjusted population based on 2 of 3 dose reduction criteria in the ARISTOTLE study.
+
 Although treatment with apixaban does not require routine monitoring of exposure, a calibrated quantitative anti-Factor Xa assay may be useful in exceptional situations where knowledge of apixaban exposure may help to inform clinical decisions, e.g., overdose and emergency surgery.
 
 Clinical efficacy and safety
@@ -61,27 +66,28 @@ Based on patient medical history in the studied population of ADVANCE-3 and ADVA
 
 Apixaban demonstrated a statistically superior reduction in the primary endpoint, a composite of all VTE/all cause death, and in the Major VTE endpoint, a composite of proximal DVT, non-fatal PE, and VTE-related death, compared to enoxaparin in both elective hip or knee replacement surgery (see Table 4).
 
-Table 4: Efficacy Results from Pivotal Phase III Studies
+Table 4: Efficacy results from pivotal phase III studies
 
 | Study | ADVANCE-3 (hip) |  |  | ADVANCE-2 (knee) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Study treatment Dose Duration of treatment | Apixaban 2.5 mg po twice daily 35 ± 3 d | Enoxaparin 40 mg sc once daily 35 ± 3 d | p-value | Apixaban 2.5 mg po twice daily 12 ± 2 d | Enoxaparin 40 mg sc once daily 12 ± 2 d | p-value |
 | Total VTE/all-cause death |  |  |  |  |  |  |
-| Number of events/subjects Event Rate | 27/1,949 1.39% | 74/1,917 3.86% | < 0.000 1 | 147/976 15.06% | 243/997 24.37% | <0.0001 |
-| Relative Risk 95% CI | 0.36 (0.22, 0.54) |  |  | 0.62 (0.51, 0.74) |  |  |
+| Number of events/subjects Event rate | 27/1,949 1.39% | 74/1,917 3.86% | < 0.000 1 | 147/976 15.06% | 243/997 24.37% | <0.0001 |
+| Relative risk 95% CI | 0.36 (0.22, 0.54) |  |  | 0.62 (0.51, 0.74) |  |  |
 | Major VTE |  |  |  |  |  |  |
-| Number of events/subjects Event Rate | 10/2,199 0.45% | 25/2,195 1.14% | 0.0107 | 13/1,195 1.09% | 26/1,199 2.17% | 0.0373 |
-| Relative Risk 95% CI | 0.40 (0.15, 0.80) |  |  | 0.50 (0.26, 0.97) |  |  |
+| Number of events/subjects Event rate | 10/2,199 0.45% | 25/2,195 1.14% | 0.0107 | 13/1,195 1.09% | 26/1,199 2.17% | 0.0373 |
+| Relative risk 95% CI | 0.40 (0.15, 0.80) |  |  | 0.50 (0.26, 0.97) |  |  |
 
-The safety endpoints of major bleeding, the composite of major and clinically relevant non-major (CRNM) bleeding, and all bleeding showed similar rates for patients treated with apixaban 2.5 mg compared with enoxaparin 40 mg (see Table 5).
+The safety endpoints of major bleeding, the composite of major and CRNM bleeding, and all bleeding showed similar rates for patients treated with apixaban 2.5 mg compared with enoxaparin 40 mg (see Table 5).
 All the bleeding criteria included surgical site bleeding.
-Table 5: Bleeding Results from Pivotal Phase III Studies*
+
+Table 5: Bleeding results from pivotal phase III studies*
 
 |  | ADVANCE-3 |  | ADVANCE-2 |  |
 | --- | --- | --- | --- | --- |
 |  | Apixaban 2.5 mg po twice daily 35 ± 3 d | Enoxaparin 40 mg sc once daily 35 ± 3 d | Apixaban 2.5 mg po twice daily 12 ± 2 d | Enoxaparin 40 mg sc once daily 12 ± 2 d |
 | All treated | n = 2,673 | n = 2,659 | n = 1,501 | n = 1,508 |
-| Treatment Period 1 |  |  |  |  |
+| Treatment period 1 |  |  |  |  |
 | Major | 22 (0.8%) | 18 (0.7%) | 9 (0.6%) | 14 (0.9%) |
 | Fatal | 0 | 0 | 0 | 0 |
 | Major + CRNM | 129 (4.8%) | 134 (5.0%) | 53 (3.5%) | 72 (4.8%) |
@@ -95,7 +101,6 @@ Table 5: Bleeding Results from Pivotal Phase III Studies*
 * All the bleeding criteria included surgical site bleeding
 1 Includes events occurring after first dose of enoxaparin (pre-surgery)
 2 Includes events occurring after first dose of apixaban (post-surgery)
-
 The overall incidences of adverse reactions of bleeding, anaemia and abnormalities of transaminases (e.g., ALT levels) were numerically lower in patients on apixaban compared to enoxaparin in the phase II and phase III studies in elective hip and knee replacement surgery.
 
 In the knee replacement surgery study during the intended treatment period, in the apixaban arm 4 cases of PE were diagnosed against no cases in the enoxaparin arm.
@@ -111,14 +116,15 @@ The program was designed to demonstrate the efficacy and safety of apixaban for 
 - diabetes mellitus
 - symptomatic heart failure (NYHA Class ≥ II)
 
-ARISTOTLE STUDY
-In the ARISTOTLE study a total of 18,201 patients were randomised to double-blind treatment with apixaban 5 mg twice daily (or 2.5 mg twice daily in selected patients [4.7%], see section 4.2) or warfarin (target INR range 2.0-3.0), patients were exposed to study drug for a mean of 20 months.
+ARISTOTLE study
+In the ARISTOTLE study a total of 18,201 patients were randomised to double-blind treatment with apixaban 5 mg twice daily (or 2.5 mg twice daily in selected patients [4.7%], see section 4.2) or warfarin (target INR range 2.0-3.0), patients were exposed to study active substance for a mean of 20 months.
 The mean age was 69.1 years, the mean CHADS2 score was 2.1 and 18.9% of patients had prior stroke or TIA.
 
 In the study, apixaban achieved statistically significant superiority in the primary endpoint of prevention of stroke (haemorrhagic or ischaemic) and systemic embolism (see Table 6) compared with warfarin.
-Table 6: Efficacy Outcomes in Patients with Atrial Fibrillation in the ARISTOTLE Study
 
-|  | Apixaban N=9,120 n (%/yr) | Warfarin N=9,081 n (%/yr) | Hazard Ratio (95% CI) | p-value |
+Table 6: Efficacy outcomes in patients with atrial fibrillation in the ARISTOTLE study
+
+|  | Apixaban N=9,120 n (%/yr) | Warfarin N=9,081 n (%/yr) | Hazard ratio (95% CI) | p-value |
 | --- | --- | --- | --- | --- |
 | Stroke or systemic embolism | 212 (1.27) | 265 (1.60) | 0.79 (0.66, 0.95) | 0.0114 |
 | Stroke |  |  |  |  |
@@ -134,18 +140,17 @@ Apixaban showed a reduction of stroke and systemic embolism compared to warfarin
 Key secondary endpoints of major bleeding and all cause death were tested in a pre-specified hierarchical testing strategy to control the overall type 1 error in the trial.
 Statistically significant superiority was also achieved in the key secondary endpoints of both major bleeding and all-cause death (see Table 7).
 With improving monitoring of INR the observed benefits of apixaban compared to warfarin regarding all cause death diminish.
+Table 7: Secondary endpoints in patients with atrial fibrillation in the ARISTOTLE study
 
-Table 7: Secondary Endpoints in Patients with Atrial Fibrillation in the ARISTOTLE Study
-
-|  | Apixaban N = 9,088 n (%/year) | Warfarin N = 9,052 n (%/year) | Hazard Ratio (95% CI) | p-value |
+|  | Apixaban N = 9,088 n (%/year) | Warfarin N = 9,052 n (%/year) | Hazard ratio (95% CI) | p-value |
 | --- | --- | --- | --- | --- |
-| Bleeding Outcomes |  |  |  |  |
+| Bleeding outcomes |  |  |  |  |
 | Major* | 327 (2.13) | 462 (3.09) | 0.69 (0.60, 0.80) | < 0.0001 |
 | Fatal | 10 (0.06) | 37 (0.24) |  |  |
 | Intracranial | 52 (0.33) | 122 (0.80) |  |  |
 | Major + CRNM | 613 (4.07) | 877 (6.01) | 0.68 (0.61, 0.75) | < 0.0001 |
 | All | 2356 (18.1) | 3060 (25.8) | 0.71 (0.68, 0.75) | < 0.0001 |
-| Other Endpoints |  |  |  |  |
+| Other endpoints |  |  |  |  |
 | All-cause death | 603 (3.52) | 669 (3.94) | 0.89 (0.80, 1.00) | 0.0465 |
 | Myocardial infarction | 90 (0.53) | 102 (0.61) | 0.88 (0.66, 1.17) |  |
 
@@ -158,10 +163,11 @@ The efficacy results for prespecified subgroups, including CHADS2 score, age, bo
 The incidence of ISTH major gastrointestinal bleeds (including upper GI, lower GI, and rectal bleeding) was 0.76%/year with apixaban and 0.86%/year with warfarin.
 
 The major bleeding results for prespecified subgroups including CHADS2 score, age, body weight, gender, status of renal function, prior stroke or TIA and diabetes were consistent with the results for the overall population studied in the trial.
-AVERROES STUDY
+
+AVERROES study
 In the AVERROES study a total of 5,598 patients considered to be unsuitable for VKA by the investigators were randomised to treatment with apixaban 5 mg twice daily (or 2.5 mg twice daily in selected patients [6.4%], see section 4.2) or ASA.
 ASA was given at a once daily dose of 81 mg (64%), 162 (26.9%), 243 (2.1%), or 324 mg (6.6%) at the discretion of the investigator.
-Patients were exposed to study drug for a mean of 14 months.
+Patients were exposed to study active substance for a mean of 14 months.
 The mean age was 69.9 years, the mean CHADS2 score was 2.0 and 13.6% of patients had prior stroke or TIA.
 
 Common reasons for unsuitability for VKA therapy in the AVERROES study included unable/unlikely to obtain INRs at requested intervals (42.6%), patient refused treatment with VKA (37.4%), CHADS2 score = 1 and physician did not recommend VKA (21.3%), patient could not be relied on to adhere to VKA medicinal product instruction (15.0%), and difficulty/expected difficulty in contacting patient in case of urgent dose change (11.7%).
@@ -171,10 +177,9 @@ AVERROES was stopped early based on a recommendation by the independent Data Mon
 The overall discontinuation rate due to adverse reactions was 1.5% for apixaban and 1.3% for ASA in the AVERROES study.
 
 In the study, apixaban achieved statistically significant superiority in the primary endpoint of prevention of stroke (haemorrhagic, ischaemic or unspecified) or systemic embolism (see Table 8) compared to ASA.
+Table 8: Key efficacy outcomes in patients with atrial fibrillation in the AVERROES study
 
-Table 8: Key Efficacy Outcomes in Patients with Atrial Fibrillation in the AVERROES Study
-
-|  | Apixaban N = 2,807 n (%/year) | ASA N = 2,791 n (%/year) | Hazard Ratio (95% CI) | p-value |
+|  | Apixaban N = 2,807 n (%/year) | ASA N = 2,791 n (%/year) | Hazard ratio (95% CI) | p-value |
 | --- | --- | --- | --- | --- |
 | Stroke or systemic embolism* | 51 (1.62) | 113 (3.63) | 0.45 (0.32, 0.62) | < 0.0001 |
 | Stroke |  |  |  |  |
@@ -183,16 +188,17 @@ Table 8: Key Efficacy Outcomes in Patients with Atrial Fibrillation in the AVERR
 | Systemic embolism | 2 (0.06) | 13 (0.41) | 0.15 (0.03, 0.68) |  |
 | Stroke, systemic embolism, MI, or vascular death*† | 132 (4.21) | 197 (6.35) | 0.66 (0.53, 0.83) | 0.003 |
 | Myocardial infarction | 24 (0.76) | 28 (0.89) | 0.86 (0.50, 1.48) |  |
-| Vascular Death | 84 (2.65) | 96 (3.03) | 0.87 (0.65, 1.17) |  |
+| Vascular death | 84 (2.65) | 96 (3.03) | 0.87 (0.65, 1.17) |  |
 | All-cause death† | 111 (3.51) | 140 (4.42) | 0.79 (0.62, 1.02) | 0.068 |
 
 * Assessed by sequential testing strategy designed to control the overall type I error in the trial.
 † Secondary endpoint.
 
 There was no statistically significant difference in the incidence of major bleeding between apixaban and ASA (see Table 9).
-Table 9: Bleeding Events in Patients with Atrial Fibrillation in the AVERROES Study
 
-|  | Apixaban N = 2,798 n(%/year) | ASA N = 2,780 n (%/year) | Hazard Ratio (95%CI) | p-value |
+Table 9: Bleeding events in patients with atrial fibrillation in the AVERROES study
+
+|  | Apixaban N = 2,798 n(%/year) | ASA N = 2,780 n (%/year) | Hazard ratio (95%CI) | p-value |
 | --- | --- | --- | --- | --- |
 | Major* | 45 (1.41) | 29 (0.92) | 1.54 (0.96, 2.45) | 0.0716 |
 | Fatal, n | 5 (0.16) | 5 (0.16) |  |  |
@@ -200,12 +206,34 @@ Table 9: Bleeding Events in Patients with Atrial Fibrillation in the AVERROES St
 | Major + CRNM† | 140 (4.46) | 101 (3.24) | 1.38 (1.07, 1.78) | 0.0144 |
 | All | 325 (10.85) | 250 (8.32) | 1.30 (1.10, 1.53) | 0.0017 |
 
-*Major bleeding defined per International Society on Thrombosis ad Haemostasis (ISTH) criteria.
-† Clinically Relevant Non-Major
+*Major bleeding defined per International Society on Thrombosis and Haemostasis (ISTH) criteria.
+† Clinically relevant non-major
+
+NVAF patients with ACS and/or undergoing PCI
+AUGUSTUS, an open-label, randomised, controlled, 2 by 2 factorial design trial, enrolled 4614 patients with NVAF who had ACS (43%) and/or underwent PCI (56%).
+All patients received background therapy with a P2Y12 inhibitor (clopidogrel: 90.3%) prescribed per local standard of care.
+
+Patients were randomised up to 14 days after the ACS and/or PCI to either apixaban 5 mg twice daily (2.5 mg twice daily if two or more of the dose-reduction criteria were met; 10% received lower dose) or VKA and to either ASA (81 mg once daily) or placebo.
+The mean age was 69.9 years, 94% of patients randomised had a CHA2DS2-VASc score > 2, and 47% had a HAS-BLED score > 3.
+For patients randomised to VKA, the proportion of time in therapeutic range (TTR) (INR 2-3) was 56%, with 32% of time below TTR and 12% above TTR.
+
+The primary objective of AUGUSTUS was to assess safety, with a primary endpoint of ISTH major or CRNM bleeding.
+In the apixaban versus VKA comparison, the primary safety endpoint of ISTH major or CRNM bleeding at month 6 occurred in 241 (10.5%), and 332 (14.7%) patients in the apixaban arm and in the VKA arm respectively (HR=0.69, 95% CI: 0.58, 0.82; 2-sided p<0.0001 for non inferiority and p<0.0001 for superiority).
+For VKA, additional analyses using subgroups by TTR showed that the highest rate of bleeding was associated with the lowest quartile of TTR.
+The rate of bleeding was similar between apixaban and the highest quartile of TTR.
+In the ASA versus placebo comparison, the primary safety endpoint of ISTH major or CRNM bleeding at month 6 occurred in 367 (16.1%), and 204 (9.0%) patients in the ASA arm and in the placebo arm respectively (HR=1.88, 95% CI: 1.58, 2.23; two-sided p<0.0001).
+Specifically, in apixaban-treated patients, major or CRNM bleeding occurred in 157 (13.7%), and 84 (7.4%) patients in the ASA arm and in the placebo arm respectively.
+In VKA-treated patients, major or CRNM bleeding occurred in 208 (18.5%), and 122 (10.8%) patients in the ASA arm and in the placebo arm respectively.
+
+Other treatment effects were evaluated as a secondary objective of the study, with composite endpoints.
+In the apixaban versus VKA comparison, the composite endpoint of death or re-hospitalisation occurred in 541 (23.5%) and 632 (27.4%) patients in the apixaban and in the VKA arm, respectively.
+The composite endpoint of death or ischemic event (stroke, myocardial infarction, stent thrombosis or urgent revascularisation) occurred in 170 (7.4%), and 182 (7.9%) patients in the apixaban and in the VKA arm, respectively.
+In the ASA versus placebo comparison, the composite endpoint of death or re-hospitalisation occurred in 604 (26.2%) and 569 (24.7%) patients in the ASA and in the placebo arm, respectively.
+The composite endpoint of death or ischemic event (stroke, myocardial infarction, stent thrombosis or urgent revascularisation) occurred in 163 (7.1%), and 189 (8.2%) patients in the ASA and in the placebo arm, respectively.
 
 Patients undergoing cardioversion
 EMANATE, an open-label, multi-center study, enrolled 1500 patients who were either oral anticoagulant naïve or pre-treated less than 48 hours, and scheduled for cardioversion for NVAF.
-Patients were randomized 1:1 to apixaban or to heparin and/or VKA for the prevention of cardiovascular events.
+Patients were randomised 1:1 to apixaban or to heparin and/or VKA for the prevention of cardiovascular events.
 Electrical and/or pharmacologic cardioversion was conducted after at least 5 doses of 5 mg twice daily apixaban (or 2.5 mg twice daily in selected patients (see section 4.2)) or at least 2 hours after a 10 mg loading dose (or a 5 mg loading dose in selected patients (see section 4.2)) if earlier cardioversion was required.
 In the apixaban group, 342 patients received a loading dose (331 patients received the 10 mg dose and 11 patients received the 5 mg dose).
 
@@ -222,18 +250,18 @@ The clinical program (AMPLIFY: apixaban versus enoxaparin/warfarin, AMPLIFY-EXT:
 Both studies were randomised, parallel-group, double-blind, multinational trials in patients with symptomatic proximal DVT or symptomatic PE.
 All the key safety and efficacy endpoints were adjudicated by an independent blinded committee.
 
-AMPLIFY STUDY
+AMPLIFY study
 In the AMPLIFY study a total of 5,395 patients were randomised to treatment with apixaban 10 mg twice daily orally for 7 days followed by apixaban 5 mg twice daily orally for 6 months, or enoxaparin 1 mg/kg twice daily subcutaneously for at least 5 days (until INR≥ 2) and warfarin (target INR range 2.0-3.0) orally for 6 months.
 
 The mean age was 56.9 years and 89.8% of randomised patients had unprovoked VTE events.
-
 For patients randomised to warfarin, the mean percentage of time in therapeutic range (INR 2.0-3.0) was 60.9.
 Apixaban showed a reduction in recurrent symptomatic VTE or VTE- related death across the different levels of center TTR; within the highest quartile of TTR according to center, the relative risk for apixaban vs enoxaparin/warfarin was 0.79 (95% CI, 0.39, 1.61).
+
 In the study, apixaban was shown to be non-inferior to enoxaparin/warfarin in the combined primary endpoint of adjudicated recurrent symptomatic VTE (nonfatal DVT or nonfatal PE) or VTE-related death (see Table 10).
 
-Table 10: Efficacy Results in the AMPLIFY Study
+Table 10: Efficacy results in the AMPLIFY study
 
-|  | Apixaban N=2,609 n (%) | Enoxaparin/Warfar in N=2,635 n (%) | Relative Risk (95% CI) |
+|  | Apixaban N=2,609 n (%) | Enoxaparin/Warfar in N=2,635 n (%) | Relative risk (95% CI) |
 | --- | --- | --- | --- |
 | VTE or VTE-related death | 59 (2.3) | 71 (2.7) | 0.84 (0.60, 1.18)* |
 | DVT | 20 (0.7) | 33 (1.2) |  |
@@ -251,9 +279,9 @@ Efficacy across subgroups, including age, gender, body mass index (BMI), renal f
 The primary safety endpoint was major bleeding.
 In the study, apixaban was statistically superior to enoxaparin/warfarin in the primary safety endpoint [Relative Risk 0.31, 95% confidence interval (0.17, 0.55), P-value <0.0001] (see Table 11).
 
-Table 11: Bleeding Results in the AMPLIFY Study
+Table 11: Bleeding results in the AMPLIFY study
 
-|  | Apixaban N=2,676 n (%) | Enoxaparin/ Warfarin N=2,689 n (%) | Relative Risk (95% CI) |
+|  | Apixaban N=2,676 n (%) | Enoxaparin/ Warfarin N=2,689 n (%) | Relative risk (95% CI) |
 | --- | --- | --- | --- |
 | Major | 15 (0.6) | 49 (1.8) | 0.31 (0.17, 0.55) |
 | Major + CRNM | 115 (4.3) | 261 (9.7) | 0.44 (0.36, 0.55) |
@@ -262,7 +290,8 @@ Table 11: Bleeding Results in the AMPLIFY Study
 
 The adjudicated major bleeding and CRNM bleeding at any anatomical site were generally lower in the apixaban group as compared to the enoxaparin/warfarin group.
 Adjudicated ISTH major gastrointestinal bleeding occurred in 6 (0.2%) apixaban-treated patients and 17 (0.6%) enoxaparin/warfarin-treated patients.
-AMPLIFY-EXT STUDY
+
+AMPLIFY-EXT study
 In the AMPLIFY-EXT study a total of 2,482 patients were randomised to treatment with apixaban 2.5 mg twice daily orally, apixaban 5 mg twice daily orally, or placebo for 12 months after completing 6 to 12 months of initial anticoagulant treatment.
 Of these, 836 patients (33.7%) participated in the AMPLIFY study prior to enrollment in the AMPLIFY-EXT study.
 
@@ -270,11 +299,11 @@ The mean age was 56.7 years and 91.7% of randomised patients had unprovoked VTE 
 
 In the study, both doses of apixaban were statistically superior to placebo in the primary endpoint of symptomatic, recurrent VTE (nonfatal DVT or nonfatal PE) or all-cause death (see Table 12).
 
-Table 12: Efficacy Results in the AMPLIFY-EXT Study
+Table 12: Efficacy results in the AMPLIFY-EXT study
 
-|  | Apixaban | Apixaban | Placebo | Relative Risk (95% CI) |  |
+|  | Apixaban | Apixaban | Placebo | Relative risk (95% CI) |  |
 | --- | --- | --- | --- | --- | --- |
-|  | 2.5 mg (N=840) | 5.0 mg (N=813) | (N=829) | Apix 2.5 mg vs. Placebo | Apix 5.0 mg vs. Placebo |
+|  | 2.5 mg (N=840) | 5.0 mg (N=813) | (N=829) | Apix 2.5 mg vs. placebo | Apix 5.0 mg vs. placebo |
 |  | n (%) |  |  |  |  |
 | Recurrent VTE or all-cause death | 19 (2.3) | 14 (1.7) | 77 (9.3) | 0.24 (0.15, 0.40)¥ | 0.19 (0.11, 0.33)¥ |
 | DVT* | 6 (0.7) | 7 (0.9) | 53 (6.4) |  |  |
@@ -295,11 +324,11 @@ Apixaban efficacy for prevention of a recurrence of a VTE was maintained across 
 The primary safety endpoint was major bleeding during the treatment period.
 In the study, the incidence in major bleeding for both apixaban doses was not statistically different from placebo.
 There was no statistically significant difference in the incidence of major + CRNM, minor, and all bleeding between the apixaban 2.5 mg twice daily and placebo treatment groups (see Table 13).
-Table 13: Bleeding Results in the AMPLIFY-EXT Study
+Table 13: Bleeding results in the AMPLIFY-EXT study
 
-|  | Apixaban | Apixaban | Placebo | Relative Risk (95% CI) |  |
+|  | Apixaban | Apixaban | Placebo | Relative risk (95% CI) |  |
 | --- | --- | --- | --- | --- | --- |
-|  | 2.5 mg (N=840) | 5.0 mg (N=811) | (N=826) | Apix 2.5 mg vs. Placebo | Apix 5.0 mg vs. Placebo |
+|  | 2.5 mg (N=840) | 5.0 mg (N=811) | (N=826) | Apix 2.5 mg vs. placebo | Apix 5.0 mg vs. placebo |
 |  |  | n (%) |  |  |  |
 | Major | 2 (0.2) | 1 (0.1) | 4 (0.5) | 0.49 (0.09, 2.64) | 0.25 (0.03, 2.24) |
 | Major + CRNM | 27 (3.2) | 35 (4.3) | 22 (2.7) | 1.20 (0.69, 2.10) | 1.62 (0.96, 2.73) |
@@ -314,16 +343,11 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 [Eliquis 5 mg film-coated tablets]
 
-Pharmacotherapeutic group: Antithrombotic agents, direct factor Xa inhibitors, ATC code: B01AF02
-
-Mechanism of action
-
 Table 3 below shows the predicted steady state exposure and anti-Factor Xa activity.
 
-| Table 3: Predicted Apixaban Steady-state Exposure and Anti-Xa Activity |  |  |  |  |
+|  | Apix. Cmax (ng/mL) | Apix. Cmin (ng/mL) | Apix. anti-Xa activity max (IU/mL) | Apix. anti-Xa activity min (IU/mL) |
 | --- | --- | --- | --- | --- |
-|  | Apix. Cmax (ng/mL) | Apix. Cmin (ng/mL) | Apix. Anti-Xa Activity Max (IU/mL) | Apix. Anti-Xa Activity Min (IU/mL) |
-|  | Median [5th, 95th Percentile] |  |  |  |
+|  | Median [5th, 95th percentile] |  |  |  |
 | Prevention of stroke and systemic embolism: NVAF |  |  |  |  |
 | 2.5 mg twice daily* | 123 [69, 221] | 79 [34, 162] | 1.8 [1.0, 3.3] | 1.2 [0.51, 2.4] |
 | 5 mg twice daily | 171 [91, 321] | 103 [41, 230] | 2.6 [1.4, 4.8] | 1.5 [0.61, 3.4] |
@@ -335,36 +359,39 @@ Table 3 below shows the predicted steady state exposure and anti-Factor Xa activ
 The mean age was 69.1 years, the mean CHADS2 score was 2.1, 18.9 % of patients had prior stroke or TIA.
 
 In the study, apixaban achieved statistically significant superiority in the primary endpoint of prevention of stroke (haemorrhagic or ischaemic) and systemic embolism (see Table 4) compared with warfarin.
-Table 4: Efficacy Outcomes in Patients with Atrial Fibrillation in the ARISTOTLE Study
+
+Table 4: Efficacy outcomes in patients with atrial fibrillation in the ARISTOTLE study
 
 Statistically significant superiority was also achieved in the key secondary endpoints of both major bleeding and all-cause death (see Table 5).
 
-Table 5: Secondary Endpoints in Patients with Atrial Fibrillation in the ARISTOTLE Study
+Table 5: Secondary endpoints in patients with atrial fibrillation in the ARISTOTLE study
 
-|  | Apixaban N = 9,088 n (%/year) | Warfarin N = 9,052 n (%/year) | Hazard Ratio (95% CI) | p-value |
+|  | Apixaban N = 9,088 n (%/year) | Warfarin N = 9,052 n (%/year) | Hazard ratio (95% CI) | p-value |
 | --- | --- | --- | --- | --- |
-| Bleeding Outcomes |  |  |  |  |
+| Bleeding outcomes |  |  |  |  |
 | Major* | 327 (2.13) | 462 (3.09) | 0.69 (0.60, 0.80) | < 0.0001 |
 | Fatal | 10 (0.06) | 37 (0.24) |  |  |
 | Intracranial | 52 (0.33) | 122 (0.80) |  |  |
 | Major + CRNM† | 613 (4.07) | 877 (6.01) | 0.68 (0.61, 0.75) | < 0.0001 |
 | All | 2356 (18.1) | 3060 (25.8) | 0.71 (0.68, 0.75) | < 0.0001 |
-| Other Endpoints |  |  |  |  |
+| Other endpoints |  |  |  |  |
 | All-cause death | 603 (3.52) | 669 (3.94) | 0.89 (0.80, 1.00) | 0.0465 |
 | Myocardial infarction | 90 (0.53) | 102 (0.61) | 0.88 (0.66, 1.17) |  |
 
 In the study, apixaban achieved statistically significant superiority in the primary endpoint of prevention of stroke (haemorrhagic, ischaemic or unspecified) or systemic embolism (see Table 6) compared to ASA.
 
-Table 6: Key Efficacy Outcomes in Patients with Atrial Fibrillation in the AVERROES Study
+Table 6: Key efficacy outcomes in patients with atrial fibrillation in the AVERROES study
 
 There was no statistically significant difference in the incidence of major bleeding between apixaban and ASA (see Table 7).
 
-Table 7: Bleeding Events in Patients with Atrial Fibrillation in the AVERROES Study
+Table 7: Bleeding events in patients with atrial fibrillation in the AVERROES study
+
+*Major bleeding defined per International Society on Thrombosis ad Haemostasis (ISTH) criteria.
 
 In the study, apixaban was shown to be non-inferior to enoxaparin/warfarin in the combined primary endpoint of adjudicated recurrent symptomatic VTE (nonfatal DVT or nonfatal PE) or VTE-related death (see Table 8).
-Table 8: Efficacy Results in the AMPLIFY Study
+Table 8: Efficacy results in the AMPLIFY study
 
-|  | Apixaban N=2,609 n (%) | Enoxaparin/ Warfarin N=2,635 n (%) | Relative Risk (95% CI) |
+|  | Apixaban N=2,609 n (%) | Enoxaparin/ Warfarin N=2,635 n (%) | Relative risk (95% CI) |
 | --- | --- | --- | --- |
 | VTE or VTE-related death | 59 (2.3) | 71 (2.7) | 0.84 (0.60, 1.18)* |
 | DVT | 20 (0.7) | 33 (1.2) |  |
@@ -378,13 +405,13 @@ Table 8: Efficacy Results in the AMPLIFY Study
 
 In the study, apixaban was statistically superior to enoxaparin/warfarin in the primary safety endpoint [Relative Risk 0.31, 95% confidence interval (0.17, 0.55), P-value < 0.0001] (see Table 9).
 
-Table 9: Bleeding Results in the AMPLIFY Study
+Table 9: Bleeding results in the AMPLIFY study
 
 In the study, both doses of apixaban were statistically superior to placebo in the primary endpoint of symptomatic, recurrent VTE (nonfatal DVT or nonfatal PE) or all-cause death (see Table 10).
 
-Table 10: Efficacy Results in the AMPLIFY-EXT Study
+Table 10: Efficacy results in the AMPLIFY-EXT study
 
 * For patients with more than one event contributing to the composite endpoint, only the first event was reported (e.g., if a subject experienced both a DVT and then a PE, only the DVT was reported)
 
 There was no statistically significant difference in the incidence of major + CRNM, minor, and all bleeding between the apixaban 2.5 mg twice daily and placebo treatment groups (see Table 11).
-Table 11: Bleeding Results in the AMPLIFY-EXT Study
+Table 11: Bleeding results in the AMPLIFY-EXT study
