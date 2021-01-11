@@ -1,6 +1,7 @@
 # 6.6 Special precautions for disposal and other handling
 
 The instructions for the preparation and administration of Dupixent in a pre-filled syringe or in a pre-filled pen are given in the package leaflet.
+
 The solution should be clear to slightly opalescent, colourless to pale yellow.
 If the solution is cloudy, discoloured or contains visible particulate matter, the solution should not be used.
 

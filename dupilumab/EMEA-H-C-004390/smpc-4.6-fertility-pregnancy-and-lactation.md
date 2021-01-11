@@ -1,7 +1,6 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Pregnancy
-
 There are limited amount of data from the use of dupilumab in pregnant women.
 Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
 Dupilumab should be used during pregnancy only if the potential benefit justifies the potential risk to the foetus.
