@@ -64,6 +64,10 @@ Appropriate evaluation and monitoring of serum bicarbonate levels should be carr
 If metabolic acidosis develops and persists, consideration should be given to reducing the dose or discontinuing Zonegran (by gradual discontinuation or reduction of a therapeutic dose) as osteopenia may develop.
 If the decision is made to continue patients on Zonegran in the face of persistent acidosis, alkali treatment should be considered.
 
+Metabolic acidosis has the potential to lead to hyperammonaemia, which has been reported with or without encephalopathy during zonisamide treatment.
+The risk for hyperammonaemia may be increased in patients concomitantly taking other medications that can cause hyperammonaemia (e.g. valproate), or who have an underlying urea cycle disorder or reduced hepatic mitochondrial activity.
+In patients who develop unexplained lethargy or changes in mental status during treatment with zonisamide, it is recommended to consider hyperammonaemic encephalopathy and to measure ammonia levels.
+
 Zonegran should be used with caution in adult patients being treated concomitantly with carbonic anhydrase inhibitors such as topiramate or acetazolamide, as there are insufficient data to rule out a pharmacodynamic interaction (see also section 4.4 Paediatric population and section 4.5).
 
 Heat stroke
@@ -134,6 +138,7 @@ Prescribers should draw the attention of paediatric patients and their parent/ c
 In the event of signs or symptoms of dehydration, oligohydrosis, or elevated body temperature, discontinuation of Zonegran should be considered.
 
 Zonegran should not be used as co-medication in paediatric patients with other medicinal products that predispose patients to heat related disorders; these include carbonic anhydrase inhibitors and medicinal products with anticholinergic activity.
+
 Body weight
 Weight loss leading to deterioration of general condition and failure to take anti-epilepsy medication has been related to a fatal outcome (see section 4.8).
 Zonegran is not recommended for paediatric patients who are underweight (definition in accordance with the WHO age adjusted BMI categories) or have a decreased appetite.

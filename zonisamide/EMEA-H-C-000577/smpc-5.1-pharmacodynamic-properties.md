@@ -32,14 +32,11 @@ Main outcomes of this study are presented in this table:
 Table 6.
 Efficacy results for Monotherapy Study 310
 
-Zonisamide Carbamazepine
-n (ITT population) 281 300
-
-| Six months seizure freedom |  |  | Diff | CI95% |
+|  | Zonisamide | Carbamazepine |  |  |
 | --- | --- | --- | --- | --- |
+| n (ITT population) Six months seizure freedom | 281 | 300 | Diff | CI95% |
 | PP-population* | 79.4% | 83.7% | -4.5% | -12.2% ; 3.1% |
-| ITT-population < 4 seizures during 3 month baseline period > 4 seizures during 3 month baseline period | 69.4% 71.7% | 74.7% 75.7% | -6.1% -4.0% | -13.6% ; 1.4% -11.7% ; 3.7% |
-|  | 52.9% | 68.9% | -15.9% | -37.5% ; 5.6% |
+| ITT-population < 4 seizures during 3 month baseline period > 4 seizures during 3 month baseline period | 69.4% 71.7% 52.9% | 74.7% 75.7% 68.9% | -6.1% -4.0% -15.9% | -13.6% ; 1.4% -11.7% ; 3.7% -37.5% ; 5.6% |
 | Twelve months seizure freedom |  |  |  |  |
 | PP-population | 67.6% | 74.7% | -7.9% | - 17.2% ; 1.5% |
 | ITT-population < 4 seizures during 3 month baseline period > 4 seizures during 3 month baseline period | 55.9% 57.4% | 62.3% 64.7% | -7.7% -7.2% | - 16.1% ; 0.7% -15.7% ; 1.3% |
@@ -68,10 +65,6 @@ Altogether, data on effects on long-term growth and development are limited.
 
 [Zonegran 50 mg hard capsules]
 
-(all sentences already above)
-
-[Zonegran 100 mg hard capsules]
-
 |  | Zonisamide | Carbamazepine |  |  |
 | --- | --- | --- | --- | --- |
 | n (ITT population) Six months seizure freedom | 281 | 300 | Diff | CI95% |
@@ -89,3 +82,7 @@ Complex partial 76.9% 93.0% -16.1% -26.3% ; -5.9%
 All generalized Tonic-Clonic 78.9% 81.6% -2.8% -11.5% ; 6.0%
 Secondary Tonic-Clonic 77.4% 80.0% -2.6% -12.4% ; 7.1%
 Generalized Tonic-Clonic 85.7% 92.0% -6.3% -23.1% ; 10.5%
+
+[Zonegran 100 mg hard capsules]
+
+(all sentences already above)

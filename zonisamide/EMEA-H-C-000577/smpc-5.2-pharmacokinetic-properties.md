@@ -37,7 +37,7 @@ Linearity/non-linearity
 
 Zonisamide exposure increases with time until steady state is achieved by approximately 8 weeks.
 When comparing the same dose level, subjects of higher total body weight appear to have lower steady-state serum concentrations, but this effect appears to be relatively modest.
-Age (≥12 years) and gender, after adjustment for body weight effects, have no apparent effect on zonisamide exposure in epileptic patients during steady-state dosing.
+Age (≥ 12 years) and gender, after adjustment for body weight effects, have no apparent effect on zonisamide exposure in epileptic patients during steady-state dosing.
 There is no need for dose adjustment with any of the AEDs including CYP3A4 inducers.
 
 Pharmacokinetic/pharmacodynamic relationship
@@ -47,6 +47,7 @@ Zonisamide lowers the 28-day average seizure frequency and the decrease is propo
 Special patient groups
 In subjects with renal impairment, renal clearance of single doses of zonisamide was positively correlated with creatinine clearance.
 The plasma AUC of zonisamide was increased by 35% in subjects with creatinine clearance <20 ml/min (see also section 4.2.).
+
 Patients with an impaired liver function: The pharmacokinetics of zonisamide in patients with impaired liver function have not been adequately studied.
 
 Elderly: No clinically significant differences were observed in the pharmacokinetics between young (aged 21-40 years) and elderly (65-75 years).
