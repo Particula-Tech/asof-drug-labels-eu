@@ -24,7 +24,6 @@ The extent and duration of B-cell depletion was consistent in the PPMS and RMS t
 
 The longest follow up time after the last Ocrevus infusion (Phase II study WA21493, N=51) indicates that the median time to B-cell repletion (return to baseline/LLN whichever occurred first) was 72 weeks (range 27 - 175 weeks).
 90% of all patients had their B-cells repleted to LLN or baseline by approximately two and a half years after the last infusion.
-
 Clinical efficacy and safety
 
 Relapsing forms of MS
@@ -36,6 +35,7 @@ Demographic and baseline characteristics were well balanced across the two treat
 Patients receiving Ocrevus (Group A) were given 600 mg every 6 months (Dose 1 as 2 x 300 mg intravenous infusions, administered 2 weeks apart, and subsequent doses were administered as a single 600 mg intravenous infusion).
 Patients in Group B were administered Interferon beta-1a (Rebif)
 44 mcg via subcutaneous injection 3 times per week.
+
 Table 3 Study Design, Demographic and Baseline Characteristics
 
 |  | Study 1 |  | Study 2 |  |
@@ -60,8 +60,8 @@ Table 3 Study Design, Demographic and Baseline Characteristics
 ** Patients who had not been treated with any MS medication in the 2 years prior to randomization.
 
 Key clinical and MRI efficacy results are presented in Table 4 and Figure 1.
-
 The results of these studies show that Ocrevus significantly suppressed relapses, sub-clinical disease activity measured by MRI, and disease progression compared with interferon beta-1a 44mcg subcutaneous.
+
 Table 4 Key Clinical and MRI Endpoints from Studies WA21092 and WA21093 (RMS)
 
 | Endpoints | Study 1: WA21092 (OPERA I) |  | Study 2: WA21093 (OPERA II) |  |  |
@@ -182,6 +182,20 @@ The primary analysis is based on all events accrued.
 Pre-specified non-powered subgroup analysis of the the primary endpoint suggests that patients who are younger or those with T1 Gd-enhancing lesions at baseline receive a greater treatment benefit than patients who are older or without T1 Gd-enhancing lesions (≤ 45 years: HR 0.64 [0.45, 0.92],
 >45 years: HR 0.88 [0.62, 1.26]; with T1 Gd-enhancing lesions at baseline: HR 0.65 [0.40-1.06], without T1 Gd-enhancing lesions at baseline: HR 0.84 [0.62-1.13]).
 Moreover, post-hoc analyses suggested that younger patients with T1 Gd-enhancing lesions at baseline have the better treatment effect (≤ 45 years: HR 0.52 [0.27-1.00]; ≤ 46 years [median age of the WA25046 study]; HR 0.48 [0.25-0.92]; <51 years: HR 0.53 [0.31-0.89]).
+
+Shorter Infusion Substudy
+
+The safety of the shorter (2-hour) Ocrevus infusion was evaluated in a prospective, multicenter, randomised, double-blind, controlled, parallel arm substudy to Study MA30143 (Ensemble) in patients with Relapsing-Remitting Multiple Sclerosis that were naïve to other disease modifying treatments.
+The first dose of Ocrevus was administered as two 300 mg infusions (600 mg total) separated by 14 days.
+Patients were randomised from their second dose onwards (Dose 2 to 6) in a 1:1 ratio to either the conventional infusion group with Ocrevus infused over approximately 3.5 hours every 24 weeks, or the shorter infusion group with Ocrevus infused over approximately 2 hours every 24 weeks.
+The randomisation was stratified by region and the dose at which patients were first randomised.
+
+The primary endpoint was the proportion of patients with IRRs occurring during or within 24 hours following the first randomised infusion of Ocrevus.
+The primary analysis was performed when 580 patients were randomised.
+The proportion of patients with IRRs occurring during or within 24 hours following the first randomised infusion was 24.6% in the shorter infusion compared to 23.1% in the conventional infusion group.
+The stratified group difference was similar.
+Overall, in all randomised doses, the majority of the IRRs were mild or moderate and only two IRRs were severe in intensity, with one severe IRR in each group.
+There were no life-threatening, fatal, or serious IRRs.
 
 Immunogenicity
 

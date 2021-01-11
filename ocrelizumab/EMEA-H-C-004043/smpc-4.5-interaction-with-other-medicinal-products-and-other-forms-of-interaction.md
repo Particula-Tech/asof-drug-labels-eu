@@ -14,5 +14,4 @@ After treatment with Ocrevus over 2 years, the proportion of patients with posit
 Immunosuppressants
 
 It is not recommended to use other immunosuppressives concomitantly with Ocrevus except corticosteroids for symptomatic treatment of relapses.
-
 See section 4.4 ‘Treatment of severely immunocompromised patients’ for information about the use of immunosuppressants before, during or after Ocrevus treatment.

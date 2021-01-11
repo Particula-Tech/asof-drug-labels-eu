@@ -19,6 +19,9 @@ The initial 600 mg dose is administered as two separate intravenous infusions; f
 Subsequent Doses
 
 Subsequent doses of Ocrevus thereafter are administered as a single 600 mg intravenous infusion every 6 months (Table 1).The first subsequent dose of 600 mg should be administered six months after the first infusion of the initial dose.
+
+If patients did not experience a serious infusion-related reaction (IRR) with any previous Ocrevus infusion, a shorter (2-hour) infusion can be administered for subsequent doses (Table 1, Option 2).
+
 A minimum interval of 5 months should be maintained between each dose of Ocrevus.
 
 Infusion Adjustments in case of IRRs
@@ -84,13 +87,16 @@ Method of Administration
 
 After dilution, Ocrevus is administered as an intravenous infusion through a dedicated line.
 Ocrevus infusions should not be administered as an intravenous push or bolus.
+
 Table 1: Dose and Schedule of Ocrevus
 
 |  |  | Amount of Ocrevus to be administered | Infusion instructions |
 | --- | --- | --- | --- |
-| Initial Dose (600 mg) divided into 2 infusions | Infusion 1 | 300 mg in 250 mL | • Initiate the infusion at a rate of 30 mL/hour for 30 minutes • The rate can be increased in 30 mL/hour increments every 30 minutes to a maximum of 180 mL/hour. • Each infusion should be given over approximately 2.5 hours |
-|  | Infusion 2 (2 weeks later) | 300 mg in 250 mL |  |
-| Subsequent Doses (600 mg) once every 6 months | Single infusion | 600 mg in 500 mL | • Initiate the infusion at a rate of 40 mL/hour for 30 minutes • The rate can be increased in 40 mL/hour increments every 30 minutes to a maximum of 200 mL/hour • Each infusion should be given over approximately 3.5 hours |
+| Initial Dose (600 mg) divided into 2 infusions | Infusion 1 | 300 mg in 250 mL | • Initiate the infusion at a rate of 30 mL/hour for 30 minutes • The rate can be increased in 30 mL/hour increments every 30 minutes to a maximum of 180 mL/hour. • Each infusion should be given over |
+|  | Infusion 2 (2 weeks later) | 300 mg in 250 mL | approximately 2.5 hours |
+| Subsequent Doses (600 mg) single infusion once every 6 months | Option 1 Infusion of approximately 3.5 hours duration | 600 mg in 500 mL | • Initiate the infusion at a rate of 40 mL/hour for 30 minutes • The rate can be increased in 40 mL/hour increments every 30 minutes to a maximum of 200 mL/hour • Each infusion should be given over approximately 3.5 hours |
+|  | OR |  |  |
+|  | Option 2 Infusion of approximately 2 hours duration | 600 mg in 500 mL | • Initiate the infusion at a rate of 100 mL/hour for the first 15 minutes • Increase the infusion rate to 200 mL/hour for the next 15 minutes • Increase the infusion rate to 250 mL/hour for the next 30 minutes • Increase the infusion rate to 300 mL/hour for the remaining 60 minutes • Each infusion should be given over approximately 2 hours |
 
 Solutions of Ocrevus for intravenous infusion are prepared by dilution of the medicinal product into an infusion bag containing 0.9% sodium chloride, to a final concentration of approximately 1.2 mg/mL.For instructions on dilution of the medicinal product before administration see section 6.6.
 

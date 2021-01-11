@@ -7,6 +7,7 @@ Women of child bearing potential should use contraception while receiving Ocrevu
 Pregnancy
 
 Ocrevus is a humanised monoclonal antibody of an immunoglobulin G1 subtype and immunoglobulins are known to cross the placental barrier.
+
 There is a limited amount of data from the use of Ocrevus in pregnant women.
 Postponing vaccination with live or live-attenuated vaccines should be considered for neonates and infants born to mothers who have been exposed to Ocrevus in utero.
 No B cell count data have been collected in neonates and infants exposed to ocrelizumab and the potential duration of B-cell depletion in neonates and infants is unknown (see section 4.4).

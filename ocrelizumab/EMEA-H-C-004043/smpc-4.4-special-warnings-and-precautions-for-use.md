@@ -35,7 +35,6 @@ After the infusion:
 - Physicians should alert patients that an IRR can occur within 24 hours of infusion.
 
 For guidance regarding posology for patients experiencing IRR symptoms see section 4.2.
-
 Hypersensitivity Reactions
 
 A hypersensitivity reaction could also occur (acute allergic reaction to medicinal product).
@@ -76,6 +75,12 @@ Hepatitis B virus (HBV) reactivation, in some cases resulting in fulminant hepat
 HBV screening should be performed in all patients before initiation of treatment with Ocrevus as per local guidelines.
 Patients with active HBV (i.e. an active infection confirmed by positive results for HBsAg and anti HB testing) should not be treated with Ocrevus.
 Patients with positive serology (i.e. negative for HBsAg and positive for HB core antibody (HBcAb +); carriers of HBV (positive for surface antigen, HBsAg+) should consult liver disease experts before start of treatment and should be monitored and managed following local medical standards to prevent hepatitis B reactivation.
+Late neutropenia
+
+Cases of late onset of neutropenia have been reported.
+Although some cases were Grade 3 or 4, the majority of the cases were Grade 1 or 2.
+Cases of late onset of neutropenia have been reported at least 4 weeks after the latest Ocrevus infusion.
+In patients with signs and symptoms of infection, measurement of blood neutrophils is recommended (see section 4.8).
 
 Malignancies
 
@@ -110,7 +115,6 @@ Vaccinations
 
 The safety of immunisation with live or live-attenuated vaccines, following Ocrevus therapy has not been studied and vaccination with live-attenuated or live vaccines is not recommended during treatment and not until B-cell repletion (in clinical trials, the median time for B-cell repletion was 72 weeks).
 See section 5.1.
-
 In a randomized open-label study, RMS patients were able to mount humoral responses, although decreased, to tetanus toxoid, 23-valent pneumococcal polysaccharide with or without a booster vaccine, keyhole limpet hemocyanin neoantigen, and seasonal influenza vaccines.
 See section 4.5 and 5.1.
 
@@ -120,6 +124,7 @@ Physicians should review the immunisation status of patients being considered fo
 Patients who require vaccination should complete their immunisation at least 6 weeks prior to initiation of Ocrevus.
 
 See section 4.5 and 5.1 for further information about vaccinations.
+
 Exposure in utero to ocrelizumab and vaccination of neonates and infants with live or live attenuated vaccines
 
 Due to the potential depletion of B cells in infants of mothers who have been exposed to Ocrevus during pregnancy, it is recommended that vaccination with live or live-attenuated vaccines should be delayed until B-cell levels have recovered; therefore, measuring CD19-positive B-cell levels, in neonates and infants, prior to vaccination is recommended
