@@ -6,3 +6,7 @@ EU/1/13/892/003
 EU/1/13/892/004
 EU/1/13/892/005
 EU/1/13/892/006
+
+[Tivicay 5 mg dispersible tablets]
+
+EU/1/13/892/007

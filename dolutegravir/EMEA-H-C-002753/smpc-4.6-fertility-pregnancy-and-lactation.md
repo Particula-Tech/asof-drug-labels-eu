@@ -28,7 +28,6 @@ Dolutegravir is excreted in human milk in small amounts.
 There is insufficient information on the effects of dolutegravir in neonates/infants.
 
 It is recommended that HIV infected women do not breast-feed their infants under any circumstances in order to avoid transmission of HIV.
-
 Fertility
 
 There are no data on the effects of dolutegravir on human male or female fertility.

@@ -12,9 +12,8 @@ Tivicay 50 mg film-coated tablets
 
 Each film-coated tablet contains dolutegravir sodium equivalent to 50 mg dolutegravir.
 
-Excipient(s) with known effect:
-Each 10 mg tablet contains 1 mg sodium.
-Each 25 mg tablet contains 2 mg sodium.
-Each 50 mg tablet contains 4 mg sodium.
-
 For the full list of excipients, see section 6.1.
+
+[Tivicay 5 mg dispersible tablets]
+
+Each dispersible tablet contains dolutegravir sodium equivalent to 5 mg dolutegravir.

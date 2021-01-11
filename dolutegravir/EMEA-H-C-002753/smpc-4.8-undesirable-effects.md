@@ -9,8 +9,7 @@ Tabulated list of adverse reactions
 
 The adverse reactions considered at least possibly related to dolutegravir are listed by body system, organ class and absolute frequency.
 Frequencies are defined as very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000).
-
-Table 3 Adverse Reactions
+Table 4 Adverse Reactions
 
 | Immune system disorders | Uncommon | Hypersensitivity (see section 4.4) |
 | --- | --- | --- |
@@ -53,7 +52,6 @@ Co-infection with Hepatitis B or C
 In Phase III studies patients with hepatitis B and/or C co-infection were permitted to enrol provided that baseline liver chemistry tests did not exceed 5 times the upper limit of normal (ULN).
 Overall, the safety profile in patients co-infected with hepatitis B and/or C was similar to that observed in patients without hepatitis B or C co-infection, although the rates of AST and ALT abnormalities were higher in the subgroup with hepatitis B and/or C co-infection for all treatment groups.
 Liver chemistry elevations consistent with immune reconstitution syndrome were observed in some subjects with hepatitis B and/or C co-infection at the start of dolutegravir therapy, particularly in those whose anti-hepatitis B therapy was withdrawn (see section 4.4).
-
 Immune reactivation syndrome
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
 Autoimmune disorders (such as Graves’ disease and autoimmune hepatitis) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
@@ -63,10 +61,14 @@ Weight and levels of blood lipids and glucose may increase during antiretroviral
 
 Paediatric population
 
-Based on limited available data in children and adolescents (6 to less than 18 years of age and weighing at least 15 kg), there were no additional types of adverse reactions beyond those observed in the adult population.
+Based on available data from the ongoing P1093 (ING112578) and ODYSSEY (201296) studies in 172 infants, children and adolescents (aged 4 weeks and above, to less than 18 years, and weighing at least 3 kg) who received the recommended doses of film-coated tablets or dispersible tablets once daily, there were no additional types of adverse reactions beyond those observed in the adult population.
 
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+[Tivicay 5 mg dispersible tablets]
+
+Based on available data from the ongoing P1093 (ING112578) and ODYSSEY (201296) studies in 172 infants, children and adolescents (aged 4 weeks and above, to less than 18 years, and weighing at least 3 kg), who received the recommended doses of dispersible tablets or film-coated tablets once daily, there were no additional types of adverse reactions beyond those observed in the adult population.

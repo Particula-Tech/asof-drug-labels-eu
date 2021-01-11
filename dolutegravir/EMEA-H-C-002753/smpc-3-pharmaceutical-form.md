@@ -15,3 +15,8 @@ Tivicay 50 mg film-coated tablets
 
 Yellow, round, biconvex tablets approximately 9 mm in diameter debossed with ‘SV 572’ on one side and
 ‘50’ on the other side.
+
+[Tivicay 5 mg dispersible tablets]
+
+Dispersible tablet.
+White, round, biconvex tablets approximately 6 mm in diameter debossed with ‘SV H7S’ on one side and ‘5’ on the other side.

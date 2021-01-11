@@ -4,14 +4,24 @@ Tablet core
 
 Mannitol (E421)
 Microcrystalline cellulose
-Povidone (K29/32)
+Povidone
 Sodium starch glycolate
 Sodium stearyl fumarate
 
 Tablet coating
 
-Polyvinyl alcohol-partially hydrolyzed
+Poly(vinyl alcohol) partially hydrolyzed
 Titanium dioxide (E171)
 Macrogol
 Talc
 Iron oxide yellow (E172) (for 25 mg and 50 mg tablets)
+
+[Tivicay 5 mg dispersible tablets]
+
+Silicified microcrystalline cellulose
+Crospovidone
+Calcium sulfate dihydrate
+Sucralose
+Strawberry cream flavour
+
+Hypromellose

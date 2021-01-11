@@ -4,7 +4,6 @@ While effective viral suppression with antiretroviral therapy has been proven to
 Precautions to prevent transmission should be taken in accordance with national guidelines.
 
 Integrase class resistance of particular concern
-
 The decision to use dolutegravir in the presence of integrase class resistance should take into account that the activity of dolutegravir is considerably compromised for viral strains harbouring Q148+≥2 secondary mutations from G140A/C/S, E138A/K/T, L74I (see section 5.1).
 To what extent dolutegravir provides added efficacy in the presence of such integrase class resistance is uncertain (see section 5.2).
 
@@ -42,13 +41,13 @@ A dose adjustment of metformin should be considered when starting and stopping c
 Metformin is eliminated renally and, therefore, it is of importance to monitor renal function when co-treated with dolutegravir.
 This combination may increase the risk for lactic acidosis in patients with moderate renal impairment (stage 3a creatinine clearance [CrCl] 45– 59 mL/min) and a cautious approach is recommended.
 Reduction of the metformin dose should be highly considered.
-
 Osteonecrosis
 
 Although the aetiology is considered to be multifactorial (including corticosteroid use, biphosphonates, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported in patients with advanced HIV-disease and/or long-term exposure to CART.
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
 
 Weight and metabolic parameters
+
 An increase in weight and in levels of blood lipids and glucose may occur during antiretroviral therapy.
 Such changes may in part be linked to disease control and lifestyle.
 For lipids, there is in some cases evidence for a treatment effect, while for weight gain there is no strong evidence relating this to any particular treatment.
@@ -56,5 +55,14 @@ For monitoring of blood lipids and glucose reference is made to established HIV 
 Lipid disorders should be managed as clinically appropriate.
 
 Lamivudine and dolutegravir
+
 The two-drug regimen of dolutegravir 50 mg once daily and lamivudine 300 mg once daily was explored in two large randomized and blinded studies, GEMINI 1 and GEMINI 2 (see section 5.1).
 This regimen is only suitable for the treatment of HIV-1 infection where there is no known or suspected resistance to the integrase inhibitor class, or to lamivudine.
+
+Excipients
+
+Tivicay contains less than 1 mmol sodium (23 mg) per tablet, that is to say is essentially ‘sodium free’.
+
+[Tivicay 5 mg dispersible tablets]
+
+The two-drug regimen of dolutegravir 50 mg film-coated tablets once daily and lamivudine 300 mg once daily was explored in two large randomized and blinded studies, GEMINI 1 and GEMINI 2 (see section 5.1).
