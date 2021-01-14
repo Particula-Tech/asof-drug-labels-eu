@@ -2,6 +2,10 @@
 
 Unopened vial
 
+50 Units
+24 months
+
+100 Units
 30 months
 
 Reconstituted solution

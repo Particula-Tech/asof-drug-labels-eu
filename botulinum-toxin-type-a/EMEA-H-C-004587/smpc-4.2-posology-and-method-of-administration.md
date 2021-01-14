@@ -42,7 +42,7 @@ Care should be taken to ensure that NUCEIVA is not injected into a blood vessel 
 Physical manipulation (such as rubbing) of the injection site in the immediate post-administration period should be avoided.
 
 Administration instructions for Glabellar Lines seen at maximum frown
-Reconstituted NUCEIVA (100 Units/2.5 mL) is injected using a sterile 30 gauge needle.
+Reconstituted NUCEIVA (50 Units/1.25 mL ; 100 Units/2.5 mL) is injected using a sterile 30 gauge needle.
 
 In order to reduce the complication of eyelid ptosis the following steps should be taken:
 

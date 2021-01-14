@@ -4,9 +4,10 @@ Reconstitution should be performed in accordance with aseptic technique principl
 NUCEIVA is reconstituted with sodium chloride 9 mg/ml (0.9%) solution for injection.
 As per the dilution table below, the amount of sodium chloride 9 mg/ml (0.9%) solution for injection is drawn up into a syringe in order to obtain a reconstituted solution at a concentration of 4 Units/0.1 mL.
 
-| Amount of solvent added (sodium chloride 9 mg/ml (0.9%) solution for injection) to a 100 Unit vial | Resulting dose (Units per 0.1 mL) |
-| --- | --- |
-| 2.5 mL | 4 Units |
+|  | 50 Unit vial | 100 Unit vial |
+| --- | --- | --- |
+| Amount of solvent added (sodium chloride 9 mg/ml (0.9%) solution for injection) | 1.25 mL | 2.5 mL |
+| Resulting dose (Units per 0.1 mL) | 4 Units | 4 Units |
 
 The central part of the rubber cap should be cleaned with alcohol.
 
@@ -15,9 +16,8 @@ The vial has to be discarded if the vacuum does not pull the solvent into the vi
 Once reconstituted, the solution should be visually inspected prior to use.
 Only clear, colorless solution without particles should be used.
 
-Reconstituted NUCEIVA (100 Units/2.5 mL) is injected using a sterile 30 gauge needle.
-Four Units
-(4 U/ 0.1 mL) are administered in each of the 5 injection sites (see Figure 1): 2 injections in each corrugator muscle (inferior medial and superior medial aspect) and 1 injection in the procerus muscle for a total dose of 20 Units.
+Reconstituted NUCEIVA (50 Units/1.25 mL ; 100 Units/2.5 mL) is injected using a sterile 30 gauge needle.
+Four Units (4 U/ 0.1 mL) are administered in each of the 5 injection sites (see Figure 1): 2 injections in each corrugator muscle (inferior medial and superior medial aspect) and 1 injection in the procerus muscle for a total dose of 20 Units.
 
 It is mandatory that NUCEIVA is used for one single patient treatment only during a single session.
 

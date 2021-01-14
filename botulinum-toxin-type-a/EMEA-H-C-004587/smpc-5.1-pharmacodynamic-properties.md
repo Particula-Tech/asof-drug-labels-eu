@@ -22,9 +22,9 @@ NUCEIVA injections significantly reduced the severity of glabellar lines by 1 po
 
 Table 2 – Primary Efficacy Endpoint – Glabellar Line Scale Score of 0 (none) or 1 (mild) at Day 30 by Investigator Assessment at Maximum Contraction, PP Population
 
-| Responders for the Primary Efficacy Endpoint |  | Placebo |  |  | Absolute Difference |  |  |
+| Responders for the Primary Efficacy Endpoint |  | Placebo |  | NUCEIVA | Absolute Difference |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | BOTOX | NUCEIVA | BOTOX |  | NUCEIVA Vs. BOTOX |
+|  |  |  | BOTOX |  | BOTOX |  | NUCEIVA Vs. BOTOX |
 |  |  |  |  |  |  | NUCEIVA |  |
 |  |  |  |  |  | Vs. |  |  |
 |  |  |  |  |  |  | Vs. Placebo |  |
@@ -75,8 +75,10 @@ Table 5 – Exploratory Efficacy Endpoint – Glabellar Line Scale Score >/=2 po
 
 | Responders for the Exploratory Efficacy Endpoint |  | Placebo |  |  | Absolute Difference |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | BOTOX | NUCEIVA | BOTOX | NUCEIVA Vs. Placebo | NUCEIVA Vs. BOTOX |
+|  |  |  | BOTOX | NUCEIVA | BOTOX | NUCEIVA Vs. Placebo |  |
+|  |  |  |  |  |  |  | NUCEIVA |
 |  |  |  |  |  | Vs. |  |  |
+|  |  |  |  |  |  |  | Vs. BOTOX |
 |  |  |  |  |  | Placebo |  |  |
 |  | Number | 0/27 | 36/149 | 32/133 |  |  | -0.1% (-10.1, 9.9) |
 |  | Percentage | 0% | 24.2% | 24.1% | 24.2% | 24.1% |  |
