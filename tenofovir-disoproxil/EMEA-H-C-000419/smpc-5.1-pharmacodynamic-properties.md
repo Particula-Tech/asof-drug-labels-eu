@@ -22,6 +22,7 @@ In addition, a K70E substitution in HIV-1 reverse transcriptase has been selecte
 
 Clinical studies in treatment-experienced patients have assessed the anti-HIV activity of tenofovir disoproxil 245 mg against strains of HIV-1 with resistance to nucleoside inhibitors.
 The results indicate that patients whose HIV expressed 3 or more thymidine-analogue associated mutations (TAMs) that included either the M41L or L210W reverse transcriptase mutation showed reduced response to tenofovir disoproxil 245 mg therapy.
+
 Clinical efficacy and safety
 The effects of tenofovir disoproxil in treatment-experienced and treatment-naïve HIV-1 infected adults have been demonstrated in trials of 48 weeks and 144 weeks duration, respectively.
 
@@ -41,13 +42,13 @@ Patients were stratified by baseline HIV-1 RNA and CD4 count.
 Forty-three percent of patients had baseline viral loads
 > 100,000 copies/ml and 39% had CD4 cell counts < 200 cells/ml.
 
-By intent to treat analysis (missing data and switch in antiretroviral therapy (ART) considered as failure), the proportion of patients with HIV-1 RNA below 400 copies/ml and 50 copies/ml at 48 weeks of treatment was 80% and 76% respectively in the tenofovir disoproxil 245 mgarm, compared to 84% and 80% in the stavudine arm.
-At 144 weeks, the proportion of patients with HIV-1 RNA below 400 copies/ml and 50 copies/ml was 71% and 68% respectively in the tenofovir disoproxil 245 mgarm, compared to 64% and 63% in the stavudine arm.
+By intent to treat analysis (missing data and switch in antiretroviral therapy (ART) considered as failure), the proportion of patients with HIV-1 RNA below 400 copies/ml and 50 copies/ml at 48 weeks of treatment was 80% and 76% respectively in the tenofovir disoproxil 245 mg arm, compared to 84% and 80% in the stavudine arm.
+At 144 weeks, the proportion of patients with HIV-1 RNA below 400 copies/ml and 50 copies/ml was 71% and 68% respectively in the tenofovir disoproxil 245 mg arm, compared to 64% and 63% in the stavudine arm.
 
-The average change from baseline for HIV-1 RNA and CD4 count at 48 weeks of treatment was similar in both treatment groups (-3.09 and -3.09 log10 copies/ml; +169 and 167 cells/mm3 in the tenofovir disoproxil 245 mgand stavudine groups, respectively).
+The average change from baseline for HIV-1 RNA and CD4 count at 48 weeks of treatment was similar in both treatment groups (-3.09 and -3.09 log10 copies/ml; +169 and 167 cells/mm3 in the tenofovir disoproxil 245 mg and stavudine groups, respectively).
 At 144 weeks of treatment, the average change from baseline remained similar in both treatment groups (-3.07 and
--3.03 log10 copies/ml; +263 and +283 cells/mm3 in the tenofovir disoproxil 245 mgand stavudine groups, respectively).
-A consistent response to treatment with tenofovir disoproxil 245 mgwas seen regardless of baseline HIV-1 RNA and CD4 count.
+-3.03 log10 copies/ml; +263 and +283 cells/mm3 in the tenofovir disoproxil 245 mg and stavudine groups, respectively).
+A consistent response to treatment with tenofovir disoproxil 245 mg was seen regardless of baseline HIV-1 RNA and CD4 count.
 
 The K65R mutation occurred in a slightly higher percentage of patients in the tenofovir disoproxil group than the active control group (2.7% versus 0.7%).
 Efavirenz or lamivudine resistance either preceded or was coincident with the development of K65R in all cases.
@@ -371,13 +372,6 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 [Viread 163 mg film-coated tablets]
 
-By intent to treat analysis (missing data and switch in antiretroviral therapy (ART) considered as failure), the proportion of patients with HIV-1 RNA below 400 copies/ml and 50 copies/ml at 48 weeks of treatment was 80% and 76% respectively in the tenofovir disoproxil 245 mg arm, compared to 84% and 80% in the stavudine arm.
-At 144 weeks, the proportion of patients with HIV-1 RNA below 400 copies/ml and 50 copies/ml was 71% and 68% respectively in the tenofovir disoproxil 245 mg arm, compared to 64% and 63% in the stavudine arm.
-
-The average change from baseline for HIV-1 RNA and CD4 count at 48 weeks of treatment was similar in both treatment groups (-3.09 and -3.09 log10 copies/ml; +169 and 167 cells/mm3 in the tenofovir disoproxil 245 mg and stavudine groups, respectively).
--3.03 log10 copies/ml; +263 and +283 cells/mm3 in the tenofovir disoproxil 245 mg and stavudine groups, respectively).
-A consistent response to treatment with tenofovir disoproxil 245 mg was seen regardless of baseline HIV-1 RNA and CD4 count.
-
 Twenty-five percent(14 of 56) of patients in the tenofovir disoproxil group and 24% (7 of 29) of patients in the placebo group achieved HBeAg seroconversion at Week 48.
 
 Response to treatment with tenofovir disoproxil was comparable in treatment-naïve and treatment-experienced subjects with 76% (38/50) of treatment-naïve and 80% (8/10) of treatment-experienced subjects achieving HBV DNA < 400 copies/mL (69 IU/ml) at Week 48.
@@ -404,29 +398,23 @@ Twenty-five percent (14 of 56) of patients in the tenofovir disoproxil group and
 |  | Study 174-0102 (HBeAg negative) |  | Study 174-0103 (HBeAg positive) |  |
 | --- | --- | --- | --- | --- |
 | Parameter | Tenofovir disoproxil 245 mg n = 250 | Adefovir dipivoxil 10 mg n = 125 | Tenofovir disoproxil 245 mg n = 176 | Adefovir dipivoxil 10 mg n = 90 |
+| Parameter | Tenofovir disoproxil 245 mg n = 250 | Adefovir dipivoxil 10 mg n = 125 | Tenofovir disoproxil 245 mg n = 176 | Adefovir dipivoxil 10 mg n = 90 |
 | Complete response (%)a | 71* | 49 | 67* | 12 |
 | Histology Histological response (%)b | 72 | 69 | 74 | 68 |
-| Parameter | Tenofovir disoproxil 245 mg n = 250 | Adefovir dipivoxil 10 mg n = 125 | Tenofovir disoproxil 245 mg n = 176 | Adefovir dipivoxil 10 mg n = 90 |
 | Median HBV DNA reduction from baselinec (log10 copies/ml) | -4.7* | -4.0 | -6.4* | -3.7 |
 | HBV DNA (%) < 400 copies/ml (< 69 IU/ml) | 93* | 63 | 76* | 13 |
 | ALT (%) Normalised ALTd | 76 | 77 | 68* | 54 |
 | Serology (%) HBeAg loss/seroconversion HBsAg loss/seroconversion | n/a 0/0 | n/a 0/0 | 22/21 3*/1 | 18/18 0/0 |
 
-|  | Study 174-0102 (HBeAg negative) |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Parametera | Tenofovir disoproxil 245 mg n = 250 |  |  |  |  |  | Adefovir dipivoxil 10 mg roll over to tenofovir disoproxil 245 mg n = 125 |  |  |  |  |  |
-| Week | 96b | 144e | 192g | 240i | 288l | 384o | 96c | 144f | 192h | 240j | 288m | 384p |
-| HBV DNA (%) < 400 copies/ml (< 69 IU/ml) | 90 | 87 | 84 | 83 | 80 | 74 | 89 | 88 | 87 | 84 | 84 | 76 |
-| Parametera | Tenofovir disoproxil 245 mg n = 250 |  |  |  |  |  | Adefovir dipivoxil 10 mg roll over to tenofovir disoproxil 245 mg n = 125 |  |  |  |  |  |
-| ALT (%) Normalised ALTd | 72 | 73 | 67 | 70 | 68 | 64 | 68 | 70 | 77 | 76 | 74 | 69 |
-| Serology (%) HBeAg loss/ seroconversion HBsAg loss/ seroconversion | n/a 0/0 | n/a 0/0 | n/a 0/0 | n/a 0/0 | n/a 0/0 | n/a 1/1n | n/a 0/0 | n/a 0/0 | n/a 0/0 | n/a 0/0k | n/a 1/1n | n/a 1/1n |
+|  | Study 174-0102 (HBeAg negative) |  |
+| --- | --- | --- |
+| Parametera | Tenofovir disoproxil 245 mg n = 250 | Adefovir dipivoxil 10 mg roll over to tenofovir disoproxil 245 mg n = 125 |
 
 n Figures presented are cumulative percentages based upon a Kaplan Meier analysis excluding data collected after the addition of emtricitabine to open-label tenofovir disoproxil (KM-tenofovir disoproxil).
 
 l Figures presented are cumulative percentages based upon a Kaplan Meier analysis excluding data collected after the addition of emtricitabine to open-label tenofovir disoproxil (KM-tenofovir disoproxil).
 
 Cumulatively, there were 4 patients who experienced a viremic episode (HBV DNA>400 copies/ml) at their last timepoint on tenofovir disoproxil.
-
 In a paediatric study (GS-US-174-0115), 52 patients (including 6 patients with lamivudine resistance mutations at baseline) initially received blinded tenofovir disoproxil for up to 72 weeks and then 51/52 patients switched to open-label tenofovir disoproxil (tenofovir disoproxil-tenofovir disoproxil group).
 > 400 copies/ml at week 48 (n = 6), week 72 (n = 5), week 96 (n = 4), week 144 (n = 2), and week 192 (n = 3).
 Fifty-four patients (including 2 patients with lamivudine resistance mutations at baseline) initially received blinded placebo treatment for 72 weeks, and 52/54 patients followed with tenofovir disoproxil (PLB-tenofovir disoproxil group).
@@ -441,9 +429,9 @@ Similar percentages of subjects in the tenofovir disoproxil-tenofovir disoproxil
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Tenofovir disoproxil-tenofovir disoproxil | PLB-tenofovir disoproxil | Tenofovir disoproxil-tenofovir disoproxil | PLB-tenofovir disoproxil | Tenofovir disoproxil-tenofovir disoproxil | PLB-tenofovir disoproxil |
 | Lumbar spine mean (SD) BMD Z-scorea | −0.42 (0.762) | -0.26 (0.806) | -0.49 (0.852) | -0.23 (0.893) | -0.37 (0.946) | -0.44 (0.920) |
+|  | Tenofovir disoproxil-tenofovir disoproxil | PLB-tenofovir disoproxil | Tenofovir disoproxil-tenofovir disoproxil | PLB-tenofovir disoproxil | Tenofovir disoproxil-tenofovir disoproxil | PLB-tenofovir disoproxil |
 | Lumbar spine mean (SD) change from baseline BMD Z-scorea | NA | NA | -0.06 (0.320) | 0.10 (0.378) | 0.02 (0.548) | -0.10 (0.543) |
 | Whole body mean (SD) BMD Z-scorea | −0.19 (1.110) | −0.23 (0.859) | −0.36 (1.077) | −0.12 (0.916) | −0.38 (0.934) | −0.42 (0.942) |
-|  | Tenofovir disoproxil-tenofovir disoproxil | PLB-tenofovir disoproxil | Tenofovir disoproxil-tenofovir disoproxil | PLB-tenofovir disoproxil | Tenofovir disoproxil-tenofovir disoproxil | PLB-tenofovir disoproxil |
 | Whole body mean (SD) change from baseline BMD Z-scorea | NA | NA | −0.16 (0.355) | 0.09 (0.349) | -0.16 (0.521) | -0.19 (0.504) |
 | Lumbar spine BMD at least 6% decreaseb | NA | NA | 1.9% (1 subject) | 0% | 3.8% (2 subjects) | 3.7% (2 subjects) |
 | Whole body BMD at least 6% decreaseb | NA | NA | 0% | 0% | 0% | 1.9% (1 subject) |
@@ -455,7 +443,6 @@ Similar percentages of subjects in the tenofovir disoproxil-tenofovir disoproxil
 |  | TDF | PLB | TDF | PLB |
 | Lumbar spine mean (SD) BMD Z-scorea | 0.02 (0.977) | -0.29 (1.229) | -0.11 (0.983) | -0.11 (1.234) |
 | Lumbar spine mean (SD) change from baseline BMD Z-scorea | NA | NA | -0.12 (0.411) | 0.14 (0.330) |
-|  | TDF | PLB | TDF | PLB |
 | Whole body mean (SD) BMD Z-scorea | 0.11 (0.743) | −0.05 (1.497) | -0.34 (0.939) | 0.20 (1.299) |
 | Whole body mean (SD) change from baseline BMD Z-scorea | NA | NA | −0.18 (0.334) | 0.22 (0.446) |
 | Lumbar spine BMD at least 4% decreaseb | NA | NA | 18.3% (11 subjects) | 6.9% (2 subjects) |
@@ -497,19 +484,4 @@ Table 9: Bone Mineral Density Evaluation at Baseline, Week 72 and 192
 Sixty-six percent (38 of 58) of patients in the tenofovir disoproxil group had normalized ALT at week 48 compared with 15% (4 of 27) in the placebo group. .Twenty-five percent(14 of 56) of patients in the tenofovir disoproxil group and 24% (7 of 29) of patients in the placebo group achieved HBeAg seroconversion at Week 48.
 
 Bone Mineral Density (BMD) data from Study GS-US-174-0144 are summarized in Table 10:
-
 Table 10: Bone Mineral Density Evaluation at Baseline and Week 48
-
-|  | Baseline |  | Week 48 |  |
-| --- | --- | --- | --- | --- |
-|  | TDF | PLB | TDF | PLB |
-| Lumbar spine mean (SD) BMD Z-scorea | 0.02 (0.977) | -0.29 (1.229) | -0.11 (0.983) | -0.11 (1.234) |
-| Lumbar spine mean (SD) change from | NA | NA | -0.12 (0.411) | 0.14 (0.330) |
-|  | TDF | PLB | TDF | PLB |
-| baseline BMD Z-scorea |  |  |  |  |
-| Whole body mean (SD) BMD Z-scorea | 0.11 (0.743) | −0.05 (1.497) | -0.34 (0.939) | 0.20 (1.299) |
-| Whole body mean (SD) change from baseline BMD Z-scorea | NA | NA | −0.18 (0.334) | 0.22 (0.446) |
-| Lumbar spine BMD at least 4% decreaseb | NA | NA | 18.3% (11 subjects) | 6.9% (2 subjects) |
-| Whole body BMD at least 4% decrease | NA | NA | 6.7% (4 subjects) | 0% |
-| Lumbar spine BMD mean % increaseb | NA | NA | 3.8% | 7.6% |
-| Whole body BMD mean % increase | NA | NA | 4.5% | 8.9% |

@@ -29,15 +29,17 @@ Renal impairment
 Renal safety with tenofovir has only been studied to a very limited degree in adult patients with impaired renal function (creatinine clearance < 80 ml/min).
 
 Bone effects
-In HIV infected patients, in a 144-week controlled clinical study that compared tenofovir disoproxil with stavudine in combination with lamivudine and efavirenz in antiretroviral-naïve adult patients, small decreases in bone mineral density (BMD) of the hip and spine were observed in both treatment groups.
+Bone abnormalities such as osteomalacia which can manifest as persistent or worsening bone pain and, which can infrequently contribute to fractures may be associated with tenofovir disoproxil-induced proximal renal tubulopathy (see section 4.8).
+Tenofovir disoproxil may also cause a reduction in bone mineral density (BMD).
+In HIV infected patients, in a 144-week controlled clinical study that compared tenofovir disoproxil with stavudine in combination with lamivudine and efavirenz in antiretroviral-naïve adult patients, small decreases in BMD of the hip and spine were observed in both treatment groups.
 Decreases in BMD of spine and changes in bone biomarkers from baseline were significantly greater in the tenofovir disoproxil treatment group at 144 weeks.
 Decreases in BMD of hip were significantly greater in this group until 96 weeks.
-However, there was no increased risk of fractures or evidence for clinically relevant bone abnormalities over 144 weeks.
+However, there was no increased risk of fractures or evidence for clinically relevant bone abnormalities over 144 weeks in this study.
 
 In other studies (prospective and cross-sectional), the most pronounced decreases in BMD were seen in patients treated with tenofovir disoproxil as part of a regimen containing a boosted protease inhibitor.
-Alternative treatment regimens should be considered for patients with osteoporosis that are at a high risk for fractures.
+Overall, in view of the bone abnormalities associated with tenofovir disoproxil and the limitations of long term data on the impact of tenofovir disoproxil on bone health and fracture risk, alternative treatment regimens should be considered for patients with osteoporosis that are at a high risk for fractures.
 
-Bone abnormalities (infrequently contributing to fractures) may be associated with proximal renal tubulopathy (see section 4.8).
+If bone abnormalities are suspected or detected then appropriate consultation should be obtained.
 
 Renal and bone effects in paediatric population
 There are uncertainties associated with the long term effects of bone and renal toxicity.
@@ -63,10 +65,10 @@ If concomitant use of tenofovir disoproxil and nephrotoxic agents is unavoidable
 
 Cases of acute renal failure after initiation of high dose or multiple non-steroidal anti-inflammatory drugs (NSAIDs) have been reported in patients treated with tenofovir disoproxil and with risk factors for renal dysfunction.
 If tenofovir disoproxil is co-administered with an NSAID, renal function should be monitored adequately.
-
 A higher risk of renal impairment has been reported in patients receiving tenofovir disoproxil in combination with a ritonavir or cobicistat boosted protease inhibitor.
 A close monitoring of renal function is required in these patients (see section 4.5).
 In patients with renal risk factors, the co-administration of tenofovir disoproxil with a boosted protease inhibitor should be carefully evaluated.
+
 Tenofovir disoproxil has not been clinically evaluated in patients receiving medicinal products which are secreted by the same renal pathway, including the transport proteins human organic anion transporter (hOAT) 1 and 3 or MRP 4 (e.g. cidofovir, a known nephrotoxic medicinal product).
 These renal transport proteins may be responsible for tubular secretion and in part, renal elimination of tenofovir and cidofovir.
 Consequently, the pharmacokinetics of these medicinal products, which are secreted by the same renal pathway including transport proteins hOAT 1 and 3 or MRP 4, might be modified if they are co-administered.
@@ -78,7 +80,7 @@ Tenofovir disoproxil should not be initiated in paediatric patients with renal i
 
 Bone effects
 Viread may cause a reduction in BMD.
-The effects of tenofovir disoproxil-associated changes in BMD on long-term bone health and future fracture risk are currently unknown (see section 5.1).
+The effects of tenofovir disoproxil-associated changes in BMD on long-term bone health and future fracture risk are uncertain (see section 5.1).
 
 If bone abnormalities are detected or suspected in paediatric patients, consultation with an endocrinologist and/or nephrologist should be obtained.
 
@@ -103,7 +105,6 @@ In patients with advanced liver disease or cirrhosis, treatment discontinuation 
 Liver flares are especially serious, and sometimes fatal in patients with decompensated liver disease.
 
 Co-infection with hepatitis C or D: There are no data on the efficacy of tenofovir in patients co-infected with hepatitis C or D virus.
-
 Co-infection with HIV-1 and hepatitis B: Due to the risk of development of HIV resistance, tenofovir disoproxil should only be used as part of an appropriate antiretroviral combination regimen in HIV/HBV co-infected patients.
 Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy (CART) and should be monitored according to standard practice.
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
@@ -139,14 +140,20 @@ Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycoba
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 
 Autoimmune disorders (such as Graves’ disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
-
 Osteonecrosis
 Although the aetiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported, particularly in patients with advanced HIV disease and/or long-term exposure to CART.
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
+
+Excipients
+
 Viread 123 mg film-coated tablets contain lactose monohydrate.
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency, or glucose-galactose malabsorption should not take this medicine.
 
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
+
 [Viread 163 mg film-coated tablets]
+
+Overall, in view of the bone abnormalities associated with tenofovir disoproxil and the limitations of long-term data on the impact of tenofovir disoproxil on bone health and fracture risk, alternative treatment regimens should be considered for patients with osteoporosis that are at a high risk for fractures.
 
 Viread 163 mg film-coated tablets contain lactose monohydrate.
 
@@ -168,8 +175,6 @@ There are limited data on the safety and efficacy of tenofovir disoproxil in pat
 Therefore, tenofovir disoproxil should only be used if the potential benefits of treatment are considered to outweigh the potential risks.
 In patients with severe renal impairment (creatinine clearance < 30 ml/min) and in patients who require haemodialysis use of tenofovir disoproxil is not recommended.
 If no alternative treatment is available, the dosing interval must be adjusted and renal function should be closely monitored (see sections 4.2 and 5.2).
-
-If bone abnormalities are suspected or detected then appropriate consultation should be obtained.
 
 Renal function (creatinine clearance and serum phosphate) should be evaluated prior to treatment, and monitored during treatment as in adults (see above).
 

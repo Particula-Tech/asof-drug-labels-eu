@@ -95,7 +95,6 @@ Mean (± SD) Cmax and AUCtau are 0.38 ± 0.13 μg/ml and 3.39 ± 1.22 μg·h/ml,
 Tenofovir exposure achieved in adolescent patients receiving oral daily doses of tenofovir disoproxil 245 mg was similar to exposures achieved in adults receiving once-daily doses of tenofovir disoproxil 245 mg.
 
 Pharmacokinetic studies have not been performed with tenofovir disoproxil 245 mg tablets in children under 12 years or with renal impairment.
-
 The dosing recommendations in patients with renal impairment, with increased dosing interval, are expected to result in higher peak plasma concentrations and lower Cmin levels in patients with renal impairment compared with patients with normal renal function.
 The clinical implications of this are unknown.
 

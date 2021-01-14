@@ -23,6 +23,7 @@ HIV-1 clinical studies: Assessment of adverse reactions from HIV-1 clinical stud
 Hepatitis B clinical studies: Assessment of adverse reactions from HBV clinical study data is primarily based on experience in two double-blind comparative controlled studies in which 641 adult patients with chronic hepatitis B and compensated liver disease received treatment with tenofovir disoproxil 245 mg daily (n = 426) or adefovir dipivoxil 10 mg daily (n = 215) for 48 weeks.
 The adverse reactions observed with continued treatment for 384 weeks were consistent with the safety profile of tenofovir disoproxil.
 After an initial decline of approximately -4.9 ml/min (using Cockcroft-Gault equation) or -3.9 ml/min/1.73 m2 (using modification of diet in renal disease [MDRD] equation) after the first 4 weeks of treatment, the rate of annual decline post baseline of renal function reported in tenofovir disoproxil treated patients was -1.41 ml/min per year (using Cockcroft-Gault equation) and -0.74 ml/min/1.73 m2 per year (using MDRD equation).
+
 Patients with decompensated liver disease: The safety profile of tenofovir disoproxil in patients with decompensated liver disease was assessed in a double-blind active controlled study (GS-US-174-0108) in which adult patients received treatment with tenofovir disoproxil (n = 45) or emtricitabine plus tenofovir disoproxil (n = 45) or entecavir (n = 22) for 48 weeks.
 
 In the tenofovir disoproxil treatment arm, 7% of patients discontinued treatment due to an adverse event; 9% of patients experienced a confirmed increase in serum creatinine of ≥ 0.5 mg/dl or confirmed serum phosphate of < 2 mg/dl through week 48; there were no statistically significant differences between the combined tenofovir-containing arms and the entecavir arm.
@@ -57,10 +58,10 @@ Uncommon: pancreatitis
 Hepatobiliary disorders:
 Common: increased transaminases
 Rare: hepatic steatosis, hepatitis
+Frequency Tenofovir disoproxil
 Skin and subcutaneous tissue disorders:
 Very common: rash
 Rare: angioedema
-Frequency Tenofovir disoproxil
 Musculoskeletal and connective tissue disorders:
 Uncommon: rhabdomyolysis1, muscular weakness1
 Rare: osteomalacia (manifested as bone pain and infrequently contributing to fractures)1, 2, myopathy1
@@ -98,7 +99,6 @@ Autoimmune disorders (such as Graves’ disease and autoimmune hepatitis) have a
 Osteonecrosis
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to CART.
 The frequency of this is unknown (see section 4.4).
-
 Hepatitis B:
 Exacerbations of hepatitis during treatment
 In studies with nucleoside-naïve patients, on-treatment ALT elevations > 10 times ULN (upper limit of normal) and > 2 times baseline occurred in 2.6% of tenofovir disoproxil-treated patients.
@@ -132,9 +132,9 @@ The BMD Z-scores observed in subjects who received tenofovir disoproxil were low
 Other special population(s)
 Patients with renal impairment
 The use of tenofovir disoproxil is not recommended in paediatric patients with renal impairment (see sections 4.2 and 4.4).
-
 Exacerbations of hepatitis after discontinuation of treatment
 In HIV infected patients co-infected with HBV, clinical and laboratory evidence of hepatitis have occurred after discontinuation of tenofovir disoproxil (see section 4.4).
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
@@ -154,16 +154,15 @@ Assessment of adverse reactions is based on one randomised study (Study GS-US-17
 
 HIV-1 clinical studies: Assessment of adverse reactions from HIV-1 clinical study data is based on experience in two studies in 653 treatment-experienced patients receiving treatment with tenofovir disoproxil (n = 443) or placebo (n = 210) in combination with other antiretroviral medicinal products for 24 weeks and also in a double-blind comparative controlled study in which 600 treatment-naïve patients received treatment with tenofovir disoproxil 245 mg (n = 299) or stavudine (n = 301) in combination with lamivudine and efavirenz for 144 weeks.
 
-Common: headache
+Common: Headache
 Common: abdominal pain, abdominal distension, flatulence
-Common: fatigue
+Common: Fatigue
 
 Assessment of adverse reactions is based on a randomised study (study GS-US-174-0115) in 106 adolescent patients (12 to < 18 years of age) with chronic hepatitis B receiving treatment with tenofovir disoproxil 245 mg (n = 52) or placebo (n = 54) for 72 weeks and a randomised study (Study GS-US-174-0144) in 89 patients with chronic hepatitis B (2 to < 12 years of age) receiving treatment with tenofovir disoproxil (n = 60) or placebo (n = 29) for 48 weeks.
 
 Elderly
 Tenofovir disoproxil has not been studied in patients over the age of 65.
 Elderly patients are more likely to have decreased renal function, therefore caution should be exercised when treating elderly patients with tenofovir disoproxil (see section 4.4).
-
 Since tenofovir disoproxil can cause renal toxicity, close monitoring of renal function is recommended in adult patients with renal impairment treated with Viread (see sections 4.2, 4.4 and 5.2).
 
 [Viread 33 mg/g granules]
