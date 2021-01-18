@@ -14,6 +14,7 @@ Similar dermal lesions, which are described as palmar-plantar erythrodysesthesia
 Anaphylactoid response
 During repeat dose toxicology studies in dogs, an acute response characterised by hypotension, pale mucous membranes, salivation, emesis and periods of hyperactivity followed by hypoactivity and lethargy was observed following administration of pegylated liposomes (placebo).
 A similar, but less severe response was also noted in dogs treated with Caelyx pegylated liposomal and standard doxorubicin.
+
 The hypotensive response was reduced in magnitude by pretreatment with antihistamines.
 However, the response was not life-threatening and the dogs recovered quickly upon discontinuation of treatment.
 

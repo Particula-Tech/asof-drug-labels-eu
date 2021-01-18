@@ -38,6 +38,7 @@ In contrast to the experience in patients with breast cancer or ovarian cancer, 
 Because of the potential for bone marrow suppression, periodic blood counts must be performed frequently during the course of Caelyx pegylated liposomal therapy, and at a minimum, prior to each dose of Caelyx pegylated liposomal.
 
 Persistent severe myelosuppression, may result in superinfection or haemorrhage.
+
 In controlled clinical studies in patients with AIDS-KS against a bleomycin/vincristine regimen, opportunistic infections were apparently more frequent during treatment with Caelyx pegylated liposomal.
 Patients and doctors must be aware of this higher incidence and take action as appropriate.
 
@@ -52,14 +53,33 @@ Patients should be examined at regular intervals for the presence of oral ulcera
 
 Infusion-associated reactions
 Serious and sometimes life-threatening infusion reactions, which are characterised by allergic-like or anaphylactoid-like reactions, with symptoms including asthma, flushing, urticarial rash, chest pain, fever, hypertension, tachycardia, pruritus, sweating, shortness of breath, facial oedema, chills, back pain, tightness in the chest and throat and/or hypotension may occur within minutes of starting the infusion of Caelyx pegylated liposomal.
-Very rarely, convulsions also have been observed in relation to infusion reactions (see section 4.8).
+Very rarely, convulsions also have been observed in relation to infusion reactions.
 Temporarily stopping the infusion usually resolves these symptoms without further therapy.
 However, medications to treat these symptoms (e.g., antihistamines, corticosteroids, adrenaline, and anticonvulsants), as well as emergency equipment should be available for immediate use.
 In most patients treatment can be resumed after all symptoms have resolved, without recurrence.
 Infusion reactions rarely recur after the first treatment cycle.
 To minimise the risk of infusion reactions, the initial dose should be administered at a rate no greater than 1 mg/minute (see section 4.2).
 
+Palmar plantar erythrodysaesthesia syndrome (PPE)
+PPE is characterised by painful, macular reddening skin eruptions.
+In patients experiencing this event, it is generally seen after two or three cycles of treatment.
+Improvement usually occurs in 1-2 weeks, and in some cases, may take up to 4 weeks or longer for complete resolution.
+Pyridoxine at a dose of 50-150 mg per day and corticosteroids have been used for the prophylaxis and treatment of PPE, however, these therapies have not been evaluated in phase III trials.
+Other strategies to prevent and treat PPE include keeping hands and feet cool, by exposing them to cool water (soaks, baths, or swimming), avoiding excessive heat/hot water and keeping them unrestricted (no socks, gloves, or shoes that are tight fitting).
+PPE appears to be primarily related to the dose schedule and can be reduced by extending the dose interval 1- 2 weeks (see section 4.2).
+However, this reaction can be severe and debilitating in some patients and may require discontinuation of treatment (see section 4.8).
+
+Extravasation
+Although local necrosis following extravasation has been reported very rarely, Caelyx pegylated liposomal is considered to be an irritant.
+Animal studies indicate that administration of doxorubicin hydrochloride as a liposomal formulation reduces the potential for extravasation injury.
+If any signs or symptoms of extravasation occur (e.g., stinging, erythema) terminate the infusion immediately and restart in another vein.
+The application of ice over the site of extravasation for approximately 30 minutes may be helpful in alleviating the local reaction.
+Caelyx pegylated liposomal must not be given by the intramuscular or subcutaneous route.
+
 Diabetic patients
 Please note that each vial of Caelyx pegylated liposomal contains sucrose and the dose is administered in 5% (50 mg/ml) glucose solution for infusion.
+
+Excipients
+This medicine contains less than 1 mmol sodium (23 mg) per dose and is essentially ‘sodium-free’.
 
 For common adverse events which required dose modification or discontinuation see section 4.8.

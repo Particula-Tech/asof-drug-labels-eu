@@ -2,7 +2,7 @@
 
 Do not use material that shows evidence of precipitation or any other particulate matter.
 
-Caution must be exercised in handling Caelyx pegylated liposomal solution.
+Caution must be exercised in handling Caelyx pegylated liposomal dispersion.
 The use of gloves is required.
 If Caelyx pegylated liposomal comes into contact with skin or mucosa, wash immediately and thoroughly with soap and water.
 Caelyx pegylated liposomal must be handled and disposed of in a manner consistent with that of other anticancer medicinal products in accordance with local requirements.

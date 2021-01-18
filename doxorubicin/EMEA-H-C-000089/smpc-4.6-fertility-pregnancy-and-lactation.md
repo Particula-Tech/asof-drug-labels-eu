@@ -3,6 +3,7 @@
 Pregnancy
 Doxorubicin hydrochloride is suspected to cause serious birth defects when administered during pregnancy.
 Therefore, Caelyx pegylated liposomal should not be used during pregnancy unless clearly necessary.
+
 Women of child-bearing potential
 Women of child-bearing potential must be advised to avoid pregnancy while they or their male partner are receiving Caelyx pegylated liposomal and in the six months following discontinuation of Caelyx pegylated liposomal therapy (see section 5.3).
 

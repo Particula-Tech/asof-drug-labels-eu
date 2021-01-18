@@ -19,7 +19,6 @@ Doxorubicin becomes available after the liposomes are extravasated and enter the
 At equivalent doses, the plasma concentration and AUC values of Caelyx pegylated liposomal which represent mostly pegylated liposomal doxorubicin hydrochloride (containing 90% to 95% of the measured doxorubicin) are significantly higher than those achieved with standard doxorubicin hydrochloride preparations.
 
 Caelyx pegylated liposomal should not be used interchangeably with other formulations of doxorubicin hydrochloride.
-
 Population pharmacokinetics
 The pharmacokinetics of Caelyx pegylated liposomal was evaluated in 120 patients from 10 different clinical trials using the population pharmacokinetic approach.
 The pharmacokinetics of Caelyx pegylated liposomal over the dose range of 10 mg/m2 to 60 mg/m2 was best described by a two compartment non-linear model with zero order input and Michaelis-Menten elimination.
@@ -38,9 +37,9 @@ The mean apparent half-life was 75.0 hours (range 36.1–125 hours).
 
 AIDS-related KS patients
 The plasma pharmacokinetics of Caelyx pegylated liposomal were evaluated in 23 patients with KS who received single doses of 20 mg/m2 administered by a 30-minute infusion.
-The pharmacokinetic parameters of Caelyx pegylated liposomal (primarily representing pegylated liposomal doxorubicin hydrochloride and low levels of unencapsulated doxorubicin hydrochloride) observed after the 20 mg/m2 doses are presented in Table 10.
+The pharmacokinetic parameters of Caelyx pegylated liposomal (primarily representing pegylated liposomal doxorubicin hydrochloride and low levels of unencapsulated doxorubicin hydrochloride) observed after the 20 mg/m2 doses are presented in Table 6.
 
-Table 10.
+Table 6.
 Pharmacokinetic parameters in Caelyx pegylated liposomal-treated AIDS-KS patients
 
 | Mean + standard error |  |

@@ -1,280 +1,210 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-The most common undesirable effect reported in breast/ovarian clinical trials (50 mg/m2 every 4 weeks) was palmar-plantar erythrodysesthesia (PPE).
-The overall incidence of PPE reported was 44.0%-46.1%.
-These effects were mostly mild, with severe (grade 3) cases reported in 17%-19.5%.
+The most frequent adverse reactions (≥20%) were neutropaenia, nausea, leukopaenia, anaemia, and fatigue.
+
+Severe adverse reactions (Grade 3/4 adverse reactions occurring in ≥2% of patients) were neutropaenia, PPE, leukopaenia, lymphopaenia, anaemia, thrombocytopaenia, stomatitis, fatigue, diarrhoea, vomiting, nausea, pyrexia, dyspnoea, and pneumonia.
+Less frequently reported severe adverse reactions included Pneumocystis jirovecii pneumonia, abdominal pain, cytomegalovirus infection including cytomegalovirus chorioretinitis, asthenia, cardiac arrest, cardiac failure, cardiac failure congestive, pulmonary embolism, thrombophlebitis, venous thrombosis, anaphylactic reaction, anaphylactoid reaction, toxic epidermal necrolysis, and Stevens-Johnson syndrome.
+
+Tabulated list of adverse reactions
+Table 5 summarises the adverse drug reactions that occurred in patients receiving Caelyx pegylated liposomal in 4,231 patients for the treatment of breast cancer, ovarian cancer, multiple myeloma, and AIDS-related KS.
+Post-marketing adverse reactions are also included, as indicated by “b”.
+Frequencies are defined as very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000) and not known (frequency cannot be estimated from the available data).
+Within each frequency grouping, where relevant, adverse reactions are presented in order of decreasing seriousness.
+
+Table 5: Adverse reactions in patients treated with Caelyx pegylated liposomal
+
+| System Organ Class | Frequency All Grades | Adverse Drug Reaction |
+| --- | --- | --- |
+| Infections and infestations | Common | Sepsis |
+|  |  | Pneumonia |
+|  |  | Pneumocystis jirovecii pneumonia |
+|  |  | Cytomegalovirus infection including cytomegalovirus chorioretinitis |
+|  |  | Mycobacterium avium complex infection |
+|  |  | Candidiasis |
+|  |  | Herpes zoster |
+|  |  | Urinary tract infection |
+|  |  | Infection |
+|  |  | Upper respiratory tract infection |
+|  |  | Oral candidiasis |
+|  |  | Folliculitis |
+|  |  | Pharyngitis |
+|  |  | Nasopharyngitis |
+|  | Uncommon | Herpes simplex |
+|  |  | Fungal infection |
+|  | Rare | Opportunistic infection (including Aspergillus, Histoplasma, Isospora, Legionella, Microsporidium, Salmonella, Staphylococcus, Toxoplasma, Tuberculosis)a |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) | Not known | Acute myeloid leukaemiab |
+|  |  | Myelodysplastic syndromeb |
+|  |  | Oral neoplasmb |
+| Blood and lymphatic system | Very common | Leukopaenia |
+|  |  | Neutropaenia |
+| disorders |  | Lymphopaenia |
+|  |  | Anaemia (including hypochromic) |
+|  | Common | Thrombocytopaenia |
+|  |  | Febrile neutropaenia |
+|  | Uncommon | Pancytopaenia |
+|  |  | Thrombocytosis |
+|  | Rare | Bone marrow failure |
+| Immune system disorders | Uncommon | Hypersensitivity |
+|  |  | Anaphylactic reaction |
+|  | Rare | Anaphylactoid reaction |
+| Metabolism and nutrition disorders | Very common | Decreased appetite |
+|  | Common | Cachexia |
+|  |  | Dehydration |
+|  |  | Hypokalaemia |
+|  |  | Hyponatraemia |
+|  |  | Hypocalcaemia |
+|  | Uncommon | Hyperkalaemia |
+|  |  | Hypomagnesaemia |
+| Psychiatric disorders | Common | Confusional state |
+|  |  | Anxiety |
+|  |  | Depression |
+|  |  | Insomnia |
+| Nervous system disorders | Common | Neuropathy peripheral |
+|  |  | Peripheral sensory neuropathy |
+|  |  | Neuralgia |
+|  |  | Paraesthesia |
+|  |  | Hypoaesthesia |
+|  |  | Dysgeusia |
+|  |  | Headache |
+|  |  | Lethargy |
+|  |  | Dizziness |
+|  | Uncommon | Polyneuropathy |
+|  |  | Convulsion |
+|  |  | Syncope |
+|  |  | Dysaesthesia |
+|  |  | Somnolence |
+| Eye disorders | Common | Conjunctivitis |
+|  | Uncommon | Vision blurred |
+|  |  | Lacrimation increased |
+|  | Rare | Retinitis |
+| Cardiac disordersa | Common | Tachycardia |
+|  | Uncommon | Palpitations |
+|  |  | Cardiac arrest |
+|  |  | Cardiac failure |
+|  |  | Cardiac failure congestive |
+|  |  | Cardiomyopathy |
+|  |  | Cardiotoxicity |
+|  | Rare | Ventricular arrhythmia |
+|  |  | Bundle branch block right |
+|  |  | Conduction disorder |
+|  |  | Atrioventricular block |
+|  |  | Cyanosis |
+| Vascular disorders | Common | Hypertension |
+|  |  | Hypotension |
+|  |  | Flushing |
+|  | Uncommon | Pulmonary embolism |
+|  |  | Infusion site necrosis (including soft tissue necrosis and skin necrosis) |
+|  |  | Phlebitis |
+|  |  | Orthostatic hypotension |
+|  | Rare | Thrombophlebitis |
+|  |  | Venous thrombosis |
+|  |  | Vasodilatation |
+| Respiratory, thoracic and mediastinal disorders | Common | Dyspnoea |
+|  |  | Dyspnoea exertional |
+|  |  | Epistaxis |
+|  |  | Cough |
+|  | Uncommon | Asthma |
+|  |  | Chest discomfort |
+|  | Rare | Throat tightness |
+| Gastrointestinal disorders | Very common | Stomatitis |
+|  |  | Nausea |
+|  |  | Vomiting |
+|  |  | Diarrhoea |
+|  |  | Constipation |
+|  | Common | Gastritis |
+|  |  | Aphthous stomatitis |
+|  |  | Mouth ulceration |
+|  |  | Dyspepsia |
+|  |  | Dysphagia |
+|  |  | Oesophagitis |
+|  |  | Abdominal pain |
+|  |  | Abdominal pain upper |
+|  |  | Oral pain |
+|  |  | Dry mouth |
+|  | Uncommon | Flatulence |
+|  |  | Gingivitis |
+|  | Rare | Glossitis |
+|  |  | Lip ulceration |
+| Skin and subcutaneous tissue disorders | Very common | Palmar plantar erythrodysaesthesia syndromea |
+|  |  | Rash (including erythematous, maculo-papular, and papular) |
+|  |  | Alopecia |
+|  | Common | Skin exfoliation |
+|  |  | Blister |
+|  |  | Dry skin |
+|  |  | Erythema |
+|  |  | Pruritus |
+|  |  | Hyperhidrosis |
+|  |  | Skin hyperpigmentation |
+|  | Uncommon | Dermatitis |
+|  |  | Dermatitis exfoliative |
+|  |  | Acne |
+|  |  | Skin ulcer |
+|  |  | Dermatitis allergic |
+|  |  | Urticaria |
+|  |  | Skin discolouration |
+|  |  | Petechiae |
+|  |  | Pigmentation disorder |
+|  |  | Nail disorder |
+|  | Rare | Toxic epidermal necrolysis |
+|  |  | Erythema multiforme |
+|  |  | Dermatitis bullous |
+|  |  | Lichenoid keratosis |
+|  | Not known | Stevens-Johnson syndromeb |
+| Musculoskeletal and connective tissue disorders | Very common | Musculoskeletal pain (including musculoskeletal chest pain, back pain, pain in extremity) |
+|  | Common | Muscle spasms |
+|  |  | Myalgia |
+|  |  | Arthralgia |
+|  |  | Bone pain |
+|  | Uncommon | Muscular weakness |
+| Renal and urinary disorders | Common | Dysuria |
+| Reproductive disorders | Uncommon | Breast pain |
+|  | Rare | Vaginal infection |
+|  |  | Scrotal erythema |
+| General disorders and administration site conditions | Very common | Pyrexia |
+|  |  | Fatigue |
+|  | Common | Infusion-related reaction |
+|  |  | Pain |
+|  |  | Chest pain |
+|  |  | Influenza-like illness |
+|  |  | Chills |
+|  |  | Mucosal inflammation |
+|  |  | Asthenia |
+|  |  | Malaise |
+|  |  | Oedema |
+|  |  | Oedema peripheral |
+|  | Uncommon | Administration site extravasation |
+|  |  | Injection site reaction |
+|  |  | Face oedema |
+|  |  | Hyperthermia |
+|  | Rare | Mucous membrane disorder |
+| Investigations | Common | Weight decreased |
+|  | Uncommon | Ejection fraction decreased |
+|  | Rare | Liver function test abnormal (including Blood bilirubin increased, Alanine aminotransferase increased and Aspartate aminotransferase increased) |
+|  |  | Blood creatinine increased |
+| Injury, poisoning and procedural complications | Uncommon | Radiation recall phenomenona |
+
+a See Description of selected adverse reactions b Post-marketing adverse reaction
+
+Description of selected adverse reactions
+Palmar plantar erythrodysaesthesia
+The most common undesirable effect reported in breast/ovarian clinical trials was palmar-plantar erythrodysesthesia (PPE).
+The overall incidence of PPE reported was 41.3% and 51.1% in the ovarian and breast clinical trials, respectively.
+These effects were mostly mild, with severe (grade 3) cases reported in 16.3% and 19.6% of patients.
 The reported incidence of life-threatening (grade 4) cases was < 1%.
-PPE infrequently resulted in permanent treatment discontinuation (3.7%-7.0%).
-PPE is characterised by painful, macular reddening skin eruptions.
-In patients experiencing this event, it is generally seen after two or three cycles of treatment.
-Improvement usually occurs in one - two weeks, and in some cases, may take up to 4 weeks or longer for complete resolution.
-Pyridoxine at a dose of 50-150 mg per day and corticosteroids have been used for the prophylaxis and treatment of PPE, however, these therapies have not been evaluated in phase III trials.
-Other strategies to prevent and treat PPE include keeping hands and feet cool, by exposing them to cool water (soaks, baths, or swimming), avoiding excessive heat/hot water and keeping them unrestricted (no socks, gloves, or shoes that are tight fitting).
-PPE appears to be primarily related to the dose schedule and can be reduced by extending the dose interval 1-2 weeks (see section 4.2).
-However, this reaction can be severe and debilitating in some patients and may require discontinuation of treatment.
-Stomatitis/mucositis and nausea were also commonly reported in breast/ovarian cancer patient populations, whereas the AIDS-KS Program (20 mg/m2 every 2 weeks), myelosuppression (mostly leukopaenia) was the most common side effect (see AIDS-KS).
+PPE infrequently resulted in permanent treatment discontinuation (1.9% and 10.8%).
 PPE was reported in 16% of multiple myeloma patients treated with Caelyx pegylated liposomal plus bortezomib combination therapy.
 Grade 3 PPE was reported in 5% of patients.
 No grade 4 PPE was reported.
-The most frequently reported (medicine-related treatment-emergent) adverse events in combination therapy (Caelyx pegylated liposomal + bortezomib) were nausea (40%), diarrhoea (35%), neutropaenia (33%), thrombocytopaenia (29%), vomiting (28%), fatigue (27%), and constipation (22%).
+The rate of PPE was substantially lower in the AIDS-KS population (1.3% all grade, 0.4% grade 3 PPE, no grade 4 PPE).
+See section 4.4.
 
-Breast cancer program
-509 patients with advanced breast cancer who had not received prior chemotherapy for metastatic disease were treated with Caelyx pegylated liposomal (n=254) at a dose of 50 mg/m2 every 4 weeks, or doxorubicin (n=255) at a dose of 60 mg/m2 every 3 weeks, in a phase III clinical trial (I97-328).
-The following common adverse events were reported more often with doxorubicin than with Caelyx pegylated liposomal: nausea (53% vs. 37%; grade 3/4 5% vs. 3%), vomiting (31% vs. 19%; grade 3/4 4% vs. less than 1%), any alopecia (66% vs. 20%), pronounced alopecia (54% vs.7%), and neutropaenia (10% vs. 4%; grade 3/4 8% vs. 2%).
-
-Mucositis (23% vs. 13%; grade 3/4 4% vs. 2%), and stomatitis (22% vs. 15%; grade 3/4 5% vs. 2%) were reported more commonly with Caelyx pegylated liposomal than with doxorubicin.
-The average duration of the most common severe (grade 3/4) events for both groups was 30 days or less.
-See Table 5 for complete listing of undesirable effects reported in Caelyx pegylated liposomal-treated patients.
-
-The incidence of life threatening (grade 4) haematologic effects was < 1.0% and sepsis was reported in 1% of patients.
-Growth factor support or transfusion support was necessary in 5.1% and 5.5% of patients, respectively (see section 4.2).
-
-Clinically significant laboratory abnormalities (grades 3 and 4) in this group was low with elevated total bilirubin, AST and ALT reported in 2.4%, 1.6% and < 1% of patients respectively.
-No clinically significant increases in serum creatinine were reported.
-
-Table 5.
-Treatment related undesirable effects reported in breast cancer clinical trials
-(50 mg/m2 every 4 weeks) (Caelyx pegylated liposomal-treated patients) by severity, MedDRA system organ class and preferred term
-Very common (≥1/10); Common (≥1/100, < 1/10); Uncommon (≥1/1,000, < 1/100)
-
-CIOMS III
-
-| AE by body system | Breast cancer All severities n=254 (≥5%) | Breast cancer Grades 3/4 n=254 (≥5%) | Breast cancer n=404 (1-5%) not previously reported in clinical trials |
-| --- | --- | --- | --- |
-| Infections and infestations |  |  |  |
-| Common Uncommon | Pharyngitis | Pharyngitis | Folliculitis, fungal infection, cold sores (non-herpetic), upper respiratory tract infection |
-| Blood and lymphatic system disorders |  |  |  |
-| Common Uncommon | Leukopaenia, anaemia, neutropaenia, thrombocytopaenia | Leukopaenia, anaemia Neutropaenia | Thrombocythemia |
-| Metabolism and nutrition disorders |  |  |  |
-| Very common Common | Anorexia | Anorexia |  |
-| Nervous system disorders Common Paresthesia Paresthesia Peripheral neuropathy Uncommon Somnolence |  |  |  |
-| Eye disorders |  |  |  |
-| Common |  |  | Lacrimation, blurred vision |
-| Cardiac disorders |  |  |  |
-| Common |  |  | Ventricular arrhythmia |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |
-| Common |  |  | Epistaxis |
-| Gastrointestinal disorders |  |  |  |
-| Very common | Nausea, stomatitis, vomiting |  |  |
-| Common | Abdominal pain, constipation, diarrhoea, dyspepsia, mouth ulceration | Abdominal pain, diarrhoea, nausea, stomatitis | Oral pain |
-| Uncommon |  | Mouth ulceration, constipation, vomiting |  |
-| Skin and subcutaneous tissue disorders |  |  |  |
-| Very common | PPE*, alopecia, rash | PPE* |  |
-| Common | Dry skin, skin discolouration, pigmentation | Rash | Bullous eruption, dermatitis, erythematous rash, nail |
-| Uncommon | abnormal, erythema | Pigmentation abnormal, erythema | disorder, scaly skin |
-| Musculoskeletal and connective tissue disorders |  |  |  |
-| Common |  |  | Leg cramps, bone pain, musculoskeletal pain |
-| Reproductive system and breast disorders |  |  |  |
-| Common |  |  | Breast pain |
-| General disorders and administration site conditions |  |  |  |
-| Very common | Asthenia, fatigue, mucositis NOS |  |  |
-| Common | Weakness, fever, pain | Asthenia, mucositis NOS | Oedema, leg oedema. |
-| Uncommon |  | Fatigue, weakness, pain |  |
-
-* palmar-plantar erythrodysesthesia (Hand-foot syndrome).
-
-Ovarian cancer program
-512 patients with ovarian cancer (a subset of 876 solid tumour patients) were treated with Caelyx pegylated liposomal at a dose of 50 mg/m2 in clinical trials.
-See Table 6 for undesirable effects reported in Caelyx pegylated liposomal-treated patients.
-Table 6.
-Treatment related undesirable effects reported in ovarian cancer clinical trials
-(50 mg/m2 every 4 weeks) (Caelyx pegylated liposomal-treated patients) by severity, MedDRA system organ class and preferred term
-Very common (≥1/10); Common (≥1/100, < 1/10); Uncommon (≥1/1,000, < 1/100)
-
-CIOMS III
-
-| AE by body system | Ovarian cancer All severities n=512 (≥5%) | Ovarian cancer Grades 3/4 n=512 (≥5%) | Ovarian cancer n=512 (1-5%) |
-| --- | --- | --- | --- |
-| Infections and infestations |  |  |  |
-| Common Uncommon | Pharyngitis | Pharyngitis | Infection, oral moniliasis, herpes zoster, urinary tract infection |
-| Blood and lymphatic system disorders |  |  |  |
-| Very common Common | Leukopaenia, anaemia, neutropaenia, thrombocytopaenia | Neutropaenia Leukopaenia, anaemia, thrombocytopaenia | Hypochromic anaemia |
-| Immune system disorders |  |  |  |
-| Common |  |  | Allergic reaction |
-| Metabolism and nutrition disorders |  |  |  |
-| Very common Common Uncommon | Anorexia | Anorexia | Dehydration, cachexia |
-| Psychiatric disorders |  |  |  |
-| Common |  |  | Anxiety, depression, insomnia |
-| Nervous system disorders |  |  |  |
-| Common Uncommon | Paresthesia, somnolence | Paresthesia, somnolence | Headache, dizziness, neuropathy, hypertonia |
-| Eye disorders |  |  |  |
-| Common |  |  | Conjunctivitis |
-| Cardiac disorders |  |  |  |
-| Common |  |  | Cardiovascular disorder |
-| Vascular disorders |  |  |  |
-| Common |  |  | Vasodilatation |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |
-| Common |  |  | Dyspnoea, increased cough |
-| Gastrointestinal disorders |  |  |  |
-| Very common | Constipation, diarrhoea, nausea, stomatitis, vomiting |  |  |
-| Common | Abdominal pain, dyspepsia, mouth ulceration | Nausea, stomatitis, vomiting, abdominal pain, diarrhoea | Mouth ulceration, esophagitis, nausea and vomiting, gastritis, dysphagia, dry mouth, flatulence, gingivitis, |
-| Uncommon |  | Constipation, dyspepsia, mouth ulceration | taste perversion |
-| Skin and subcutaneous tissue disorders |  |  |  |
-| Very common | PPE*, alopecia, rash | PPE* |  |
-| Common | Dry skin, skin discolouration | Alopecia, rash | Vesiculobullous rash, pruritus, exfoliative dermatitis, skin disorder, maculopapular rash, sweating, acne, skin ulcer |
-| Musculoskeletal and connective tissue disorders |  |  |  |
-| Common |  |  | Back pain, myalgia |
-| Renal and urinary disorders |  |  |  |
-| Common |  |  | Dysuria |
-| Reproductive system and breast disorders |  |  |  |
-| Common |  |  | Vaginitis |
-| General disorders and administration site conditions |  |  |  |
-| Very common | Asthenia, mucous membrane disorder |  |  |
-| Common | Fever, pain | Asthenia, mucous membrane disorder, pain | Chills, chest pain, malaise, peripheral oedema |
-| Uncommon |  | Fever |  |
-| Investigations |  |  |  |
-| Common |  |  | Weight loss |
-
-* palmar-plantar erythrodysesthesia (Hand-foot syndrome).
-
-Myelosuppression was mostly mild or moderate and manageable.
-Sepsis related to leukopaenia was observed infrequently (< 1%).
-Growth factor support was required infrequently (< 5%) and transfusion support was required in approximately 15% of patients (see section 4.2).
-
-In a subset of 410 patients with ovarian cancer, clinically significant laboratory abnormalities occurring in clinical trials with Caelyx pegylated liposomal included increases in total bilirubin (usually in patients with liver metastases) (5%) and serum creatinine levels (5%).
-Increases in AST were less frequently (< 1%) reported.
-
-Solid tumour patients: in a larger cohort of 929 patients with solid tumours (including breast cancer and ovarian cancer) predominantly treated at a dose of 50 mg/m2 every 4 weeks, the safety profile and incidence of adverse effects are comparable to those of the patients treated in the pivotal breast cancer and ovarian cancer trials.
-
-Multiple myeloma program
-Of 646 patients with multiple myeloma who have received at least 1 prior therapy, 318 patients were treated with combination therapy of Caelyx pegylated liposomal 30 mg/m2 as a one hour intravenous infusion administered on day 4 following bortezomib which is administered at 1.3 mg/m² on days 1, 4, 8, and 11, every three weeks or with bortezomib monotherapy in a phase III clinical trial.
-See Table 7 for adverse effects reported in ≥5% patients treated with combination therapy of Caelyx pegylated liposomal plus bortezomib.
-
-Neutropaenia, thrombocytopaenia, and anaemia were the most frequently reported haematologic events reported with both combination therapy of Caelyx pegylated liposomal plus bortezomib and bortezomib monotherapy.
-The incidence of grade 3 and 4 neutropaenia was higher in the combination therapy group than in the monotherapy group (28% vs. 14%).
-The incidence of grade 3 and 4 thrombocytopaenia was higher in the combination therapy group than in the monotherapy group (22% vs. 14%).
-The incidence of anaemia was similar in both treatment groups (7% vs. 5%).
-
-Stomatitis was reported more frequently in the combination therapy group (16%) than in the monotherapy group (3%), and most cases were grade 2 or less in severity.
-Grade 3 stomatitis was reported in 2% of patients in the combination therapy group.
-No grade 4 stomatitis was reported.
-
-Nausea and vomiting were reported more frequently in the combination therapy group (40% and 28%) than in the monotherapy group (32% and 15%) and were mostly grade 1 and 2 in severity.
-
-Treatment discontinuation of one or both agents due to adverse events was seen in 38% of patients.
-Common adverse events which led to treatment discontinuation of bortezomib and Caelyx pegylated liposomal included PPE, neuralgia, peripheral neuropathy, peripheral sensory neuropathy, thrombocytopaenia, decreased ejection fraction, and fatigue.
-
-Table 7.
-Treatment related undesirable effects reported in multiple myeloma clinical trial (Caelyx pegylated liposomal 30 mg/m2 in combination with bortezomib every 3 weeks) by severity, MedDRA system organ class and preferred term
-Very common (≥1/10); Common (≥1/100, < 1/10); Uncommon (≥1/1,000, < 1/100)
-
-CIOMS III
-
-| AE by body system | All Severities n=318 (≥5%) | Grades 3/4** n=318 (≥5%) | All Severities n=318 (1-5%) |
-| --- | --- | --- | --- |
-| Infections and infestations |  |  |  |
-| Common | Herpes simplex, herpes zoster | Herpes zoster | Pneumonia, nasopharyngitis, upper respiratory tract infection, oral candidiasis |
-| Blood and lymphatic system disorders |  |  |  |
-| Very common | Anaemia, neutropaenia, thrombocytopaenia | Neutropaenia, thrombocytopaenia |  |
-| Common | Leukopaenia | Anaemia, leukopaenia | Febrile neutropaenia, lymphopaenia |
-| Metabolism and nutrition disorders |  |  |  |
-| Very common | Anorexia |  |  |
-| Common | Decreased appetite | Anorexia | Dehydration, hypokalaemia, hyperkalaemia, hypomagnesaemia, |
-| Uncommon |  | Decreased appetite | hyponatraemia, hypocalcaemia |
-| Psychiatric disorders |  |  |  |
-| Common | Insomnia |  | Anxiety |
-| Nervous system disorders |  |  |  |
-| Very common Common Uncommon | Peripheral sensory neuropathy, neuralgia, headache Neuropathy peripheral, neuropathy, paraesthesia, polyneuropathy, dizziness, dysgeusia | Neuralgia, peripheral neuropathy, neuropathy Headache, peripheral sensory neuropathy, paraesthesia, dizziness | Lethargy, hypoaesthesia, syncope, dysaesthesia |
-| Eye disorders |  |  |  |
-| Common |  |  | Conjunctivitis |
-| Vascular disorders |  |  |  |
-| Common |  |  | Hypotension, orthostatic hypotension, flushing, hypertension, phlebitis |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |
-| Common Uncommon | Dyspnoea | Dyspnoea | Cough, epistaxis exertional dyspnoea |
-| Gastrointestinal disorders |  |  |  |
-| Very common Common Uncommon | Nausea, diarrhoea, vomiting, constipation, stomatitis Abdominal pain, dyspepsia | Nausea, diarrhoea, vomiting, stomatitis Constipation, abdominal pain, dyspepsia | Upper abdominal pain, mouth ulceration, dry mouth, dysphagia, aphthous stomatitis |
-| Skin and subcutaneous tissue disorders |  |  |  |
-| Very common | PPE*, rash |  |  |
-| Common | Dry skin | PPE* | Pruritus, papular rash, allergic dermatitis, erythema, skin hyperpigmentation, |
-| Uncommon |  | Rash | petechiae, alopecia, medicine eruption |
-| Musculoskeletal and connective tissue disorders |  |  |  |
-| Common | Pain in extremity |  | Arthralgia, myalgia, muscle spasms, muscular weakness, musculoskeletal pain, musculoskeletal chest pain |
-| Reproductive system and breast disorders |  |  |  |
-| Common |  |  | Scrotal erythema |
-| General disorders and administration site conditions |  |  |  |
-| Very common Common | Asthenia, fatigue, pyrexia | Asthenia, fatigue | Peripheral oedema, chills, influenza-like illness, malaise, |
-| Uncommon |  | Pyrexia | hyperthermia |
-| Investigations |  |  |  |
-| Common | Weight decreased |  | Aspartate aminotransferase increased, ejection fraction decreased, blood creatinine increased, alanine aminotransferase increased |
-
-* Palmar-plantar erythrodysesthesia (Hand-foot syndrome).
-** Grade 3/4 adverse events are based on the adverse event terms of all severities with an overall incidence ≥5% (see adverse events listed in first column).
-
-AIDS-related KS program
-Clinical studies on AIDS-KS patients treated at 20 mg/m2 with Caelyx pegylated liposomal show that myelosuppression was the most frequent undesirable effect considered related to Caelyx pegylated liposomal occurring very commonly (in approximately one-half of the patients).
-
-Leukopaenia is the most frequent undesirable effect experienced with Caelyx pegylated liposomal in this population; neutropaenia, anaemia and thrombocytopaenia have been observed.
-These effects may occur early on in treatment.
-Haematological toxicity may require dose reduction or suspension or delay of therapy.
-Temporarily suspend Caelyx pegylated liposomal treatment in patients when the ANC count is < 1,000/mm3 and/or the platelet count is < 50,000/mm3.
-G-CSF (or GM-CSF) may be given as concomitant therapy to support the blood count when the ANC count is < 1,000/mm3 in subsequent cycles.
-The haematological toxicity for ovarian cancer patients is less severe than in the AIDS-KS setting (see section for ovarian cancer patients above).
-
+Opportunistic infections
 Respiratory undesirable effects commonly occurred in clinical studies of Caelyx pegylated liposomal and may be related to opportunistic infections (OI’s) in the AIDS population.
-Opportunistic infections are observed in KS patients after administration with Caelyx pegylated liposomal, and are frequently observed in patients with HIV-induced immunodeficiency.
-The most frequently observed OI’s in clinical studies were candidiasis, cytomegalovirus, herpes simplex, Pneumocystis carinii pneumonia, and mycobacterium avium complex.
-Table 8.
-Undesirable effects observed in patients with AIDS-related KS according to CIOMS III frequency categories
-Very common (≥1/10); Common (≥1/100, < 1/10); Uncommon (≥1/1,000, < 1/100)
+Opportunistic infections are observed in KS patients after administration with Caelyx pegylated liposomal, and are frequently observed in patients with HIV induced immunodeficiency.
+The most frequently observed OI’s in clinical studies were candidiasis, cytomegalovirus, herpes simplex, Pneumocystis jirovecii pneumonia, and mycobacterium avium complex.
 
-| Infections and infestations |  |
-| --- | --- |
-| common | oral moniliasis |
-| Blood and lymphatic system disorders |  |
-| very common | neutropaenia, anaemia, leukopaenia |
-| common | thrombocytopaenia |
-| Metabolism and nutrition disorders |  |
-| common | anorexia |
-| Psychiatric disorders |  |
-| uncommon | confusion |
-| Nervous system disorders |  |
-| common | dizziness |
-| uncommon | paresthesia |
-| Eye disorders |  |
-| common | retinitis |
-| Vascular disorders |  |
-| common | vasodilatation |
-| Respiratory, thoracic and mediastinal disorders |  |
-| common | dyspnoea |
-| Gastrointestinal disorders |  |
-| very common | nausea |
-| common | diarrhoea, stomatitis, vomiting, mouth ulceration, abdominal pain, glossitis, constipation, nausea and vomiting |
-| Skin and subcutaneous tissue disorders |  |
-| common | alopecia, rash |
-| uncommon | palmar-plantar erythrodysesthesia (PPE) |
-| General disorders and administration site conditions |  |
-| common | asthenia, fever, infusion-associated acute reactions |
-| Investigations |  |
-| common | weight loss |
-
-Other less frequently (< 5%) observed undesirable effects included hypersensitivity reactions including anaphylactic reactions.
-Following marketing, bullous eruption has been reported rarely in this population.
-
-Clinically significant laboratory abnormalities frequently (≥5%) occurred including increases in alkaline phosphatase; AST and bilirubin which were believed to be related to the underlying disease and not Caelyx pegylated liposomal.
-Reduction in haemoglobin and platelets were less frequently
-(< 5%) reported.
-Sepsis related to leukopaenia was rarely (< 1%) observed.
-Some of these abnormalities may have been related to the underlying HIV infection and not Caelyx pegylated liposomal.
-
-All patients
-100 out of 929 patients (10.8%) with solid tumours were described as having an infusion-associated reaction during treatment with Caelyx pegylated liposomal as defined by the following Costart terms: allergic reaction, anaphylactoid reaction, asthma, face oedema, hypotension, vasodilatation, urticaria, back pain, chest pain, chills, fever, hypertension, tachycardia, dyspepsia, nausea, dizziness, dyspnoea, pharyngitis, rash, pruritus, sweating, injection site reaction and medicinal product interaction.
-Permanent treatment discontinuation was infrequently reported at 2%.
-A similar incidence of infusion reactions (12.4%) and treatment discontinuation (1.5%) was observed in the breast cancer program.
-In patients with multiple myeloma receiving Caelyx pegylated liposomal plus bortezomib, infusion-associated reactions have been reported at a rate of 3%.
-In patients with AIDS-KS, infusion-associated reactions, were characterised by flushing, shortness of breath, facial oedema, headache, chills, back pain, tightness in the chest and throat and/or hypotension and can be expected at the rate of 5% to 10%.
-Very rarely, convulsions have been observed in relation to infusion reactions.
-In all patients, infusion-associated reactions occurred primarily during the first infusion.
-Temporarily stopping the infusion usually resolves these symptoms without further therapy.
-In nearly all patients, Caelyx pegylated liposomal treatment can be resumed after all symptoms have resolved without recurrence.
-Infusion reactions rarely recur after the first treatment cycle with Caelyx pegylated liposomal (see section 4.2).
-
-Myelosuppression associated with anaemia, thrombocytopaenia, leukopaenia, and rarely febrile neutropaenia, has been reported in Caelyx pegylated liposomal-treated patients.
-
-Stomatitis has been reported in patients receiving continuous infusions of conventional doxorubicin hydrochloride and was frequently reported in patients receiving Caelyx pegylated liposomal.
-It did not interfere with patients completing therapy and no dosage adjustments are generally required, unless stomatitis is affecting a patient’s ability to eat.
-In this case, the dose interval may be extended by 1-2 weeks or the dose reduced (see section 4.2).
-
+Cardiac toxicity
 An increased incidence of congestive heart failure is associated with doxorubicin therapy at cumulative lifetime doses > 450 mg/m2 or at lower doses for patients with cardiac risk factors.
 Endomyocardial biopsies on nine of ten AIDS-KS patients receiving cumulative doses of Caelyx pegylated liposomal greater than 460 mg/m2 indicate no evidence of anthracycline-induced cardiomyopathy.
 The recommended dose of Caelyx pegylated liposomal for AIDS-KS patients is 20 mg/m2 every two-to-three weeks.
@@ -294,44 +224,9 @@ Of the 418 patients treated with Caelyx pegylated liposomal 50 mg/m2/cycle, and 
 88 patients had a cumulative anthracycline dose of > 400 mg/m2, an exposure level associated with an increased risk of cardiovascular toxicity with conventional doxorubicin.
 Only 13 of these 88 patients (15%) had at least one clinically significant change in their LVEF, defined as an LVEF value less than 45% or a decrease of at least 20 points from baseline.
 Furthermore, only 1 patient (cumulative anthracycline dose of 944 mg/m2), discontinued study treatment because of clinical symptoms of congestive heart failure.
-In a pooled analysis of 4,231 patients receiving Caelyx pegylated liposomal for breast cancer, ovarian cancer, multiple myeloma, or AIDS-related KS, ventricular arrythmia, palpitations, cardiac failure, cardiac arrest, bundle branch block right, and ejection fraction decreased were reported uncommonly, and atrioventricular block, cyanosis, and conduction disorder were reported rarely.
 
-As with other DNA-damaging antineoplastic agents, secondary acute myeloid leukemias and myelodysplasias have been reported in patients having received combined treatment with doxorubicin.
-Therefore, any patient treated with doxorubicin should be kept under haematological supervision.
-
-Although local necrosis following extravasation has been reported very rarely, Caelyx pegylated liposomal is considered to be an irritant.
-Animal studies indicate that administration of doxorubicin hydrochloride as a liposomal formulation reduces the potential for extravasation injury.
-If any signs or symptoms of extravasation occur (e.g., stinging, erythema) terminate the infusion immediately and restart in another vein.
-The application of ice over the site of extravasation for approximately 30 minutes may be helpful in alleviating the local reaction.
-Caelyx pegylated liposomal must not be given by the intramuscular or subcutaneous route.
-
-Recall of skin reaction due to prior radiotherapy has rarely occurred with Caelyx pegylated liposomal administration.
-
-Post-marketing experience
-Adverse drug reactions identified during the post-marketing experience with Caelyx pegylated liposomal are described in Table 9.
-The frequencies are provided according to the following convention:
-
-Very common ≥1/10
-
-Common ≥1/100 and < 1/10
-Uncommon ≥1/1,000 and < 1/100
-Rare ≥1/10,000, < 1/1,000
-Very rare < 1/10,000 including isolated reports
-
-Table 9.
-Adverse drug reactions identified during the post-marketing experience with Caelyx pegylated liposomal
-
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) |  |
-| --- | --- |
-| very rare | secondary oral neoplasms1 |
-| Vascular disorders |  |
-| uncommon | venous thromboembolism, including thrombophlebitis, venous thrombosis and pulmonary embolism |
-| Skin and subcutaneous tissue disorders |  |
-| rare | lichenoid keratosis |
-| very rare | erythema multiforme, Stevens Johnson syndrome and toxic epidermal necrolysis |
-
-1 Cases of secondary oral cancer have been reported in patients with long-term (more than one year) exposure to Caelyx pegylated liposomal or those receiving a cumulative Caelyx pegylated liposomal dose greater than 720 mg/m2 (see section 4.4).
-
+Radiation recall phenomenon
+Recall of skin reaction due to prior radiotherapy has occurred uncommonly with Caelyx pegylated liposomal administration.
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.

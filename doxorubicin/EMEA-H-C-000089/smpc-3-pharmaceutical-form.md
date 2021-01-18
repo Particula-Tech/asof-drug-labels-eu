@@ -1,5 +1,5 @@
 # 3. PHARMACEUTICAL FORM
 
-Concentrate for solution for infusion
+Concentrate for solution for infusion (sterile concentrate)
 
-The suspension is sterile, translucent and red.
+The dispersion is sterile, translucent and red.

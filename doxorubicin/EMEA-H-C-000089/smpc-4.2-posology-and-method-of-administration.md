@@ -31,7 +31,7 @@ The toxicity grading in these tables is based on the National Cancer Institute C
 The tables for PPE (Table 1) and stomatitis (Table 2) provide the schedule followed for dose modification in clinical trials in the treatment of breast or ovarian cancer (modification of the recommended 4 week treatment cycle): if these toxicities occur in patients with AIDS-related KS, the recommended 2 to 3 week treatment cycle can be modified in a similar manner.
 
 The table for haematological toxicity (Table 3) provides the schedule followed for dose modification in clinical trials in the treatment of patients with breast or ovarian cancer only.
-Dose modification in patients with AIDS-KS is addressed in section 4.8.
+Dose modification in patients with AIDS-KS is provided following Table 4.
 
 Table 1.
 Palmar–Plantar erythrodysesthesia
@@ -85,6 +85,10 @@ Dosage adjustments for Caelyx pegylated liposomal + bortezomib combination thera
 
 * for more information on bortezomib dosing and dosage adjustment, see the SPC for bortezomib
 
+For AIDS-KS patients treated with Caelyx pegylated liposomal, haematological toxicity may require dose reduction or suspension or delay of therapy.
+Temporarily suspend Caelyx pegylated liposomal treatment in patients when the ANC count is < 1,000/mm3 and/or the platelet count is < 50,000/mm3.
+G-CSF (or GM-CSF) may be given as concomitant therapy to support the blood count when the ANC count is < 1,000/mm3 in subsequent cycles.
+
 Hepatic Impairment
 Caelyx pegylated liposomal pharmacokinetics determined in a small number of patients with elevated total bilirubin levels do not differ from patients with normal total bilirubin; however, until further experience is gained, the Caelyx pegylated liposomal dosage in patients with impaired hepatic function should be reduced based on the experience from the breast and ovarian clinical trial programs as follows: at initiation of therapy, if the bilirubin is between 1.2-3.0 mg/dl, the first dose is reduced by 25%.
 If the bilirubin is > 3.0 mg/dl, the first dose is reduced by 50%.
@@ -100,6 +104,7 @@ No pharmacokinetic data are available in patients with creatinine clearance of l
 
 AIDS-related KS patients with splenectomy
 As there is no experience with Caelyx pegylated liposomal in patients who have had splenectomy, treatment with Caelyx pegylated liposomal is not recommended.
+
 Paediatric population
 The experience in children is limited.
 Caelyx pegylated liposomal is not recommended in patients below 18 years of age.
@@ -109,9 +114,9 @@ Population based analysis demonstrates that age across the range tested (21–75
 
 Method of administration
 Caelyx pegylated liposomal is administered as an intravenous infusion.
-For further instructions on preparation and special precautions for handling see section 6.6.
+For further instructions on preparation and special precautions for handling (see section 6.6).
 
-Do not administer Caelyx pegylated liposomal as a bolus injection or undiluted solution.
+Do not administer Caelyx pegylated liposomal as a bolus injection or undiluted dispersion.
 It is recommended that the Caelyx pegylated liposomal infusion line be connected through the side port of an intravenous infusion of 5% (50 mg/ml) glucose to achieve further dilution and minimise the risk of thrombosis and extravasation.
 The infusion may be given through a peripheral vein.
 Do not use with in-line filters.

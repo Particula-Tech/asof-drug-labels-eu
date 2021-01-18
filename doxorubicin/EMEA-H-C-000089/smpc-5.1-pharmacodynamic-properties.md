@@ -25,7 +25,6 @@ The survival rates at 1, 2 and 3 years were 74.1%, 51.2% and 28.4% respectively 
 
 The treatments were similar in the sub-group of patients with platinum-refractory disease: HR of 1.069 (95% CI: 0.823; 1.387), p=0.618.
 The survival rates at 1, 2 and 3 years were 41.5%, 21.1% and 13.8% respectively on Caelyx pegylated liposomal, compared to 43.2%, 17.2% and 9.5% on topotecan.
-
 A phase III randomised, parallel-group, open-label, multicentre study comparing the safety and efficacy of Caelyx pegylated liposomal plus bortezomib combination therapy with bortezomib monotherapy in patients with multiple myeloma who have received at least 1 prior therapy and who did not progress while receiving anthracycline-based therapy, was conducted in 646 patients.
 There was a significant improvement in the primary endpoint of time to progression (TTP) for patients treated with combination therapy of Caelyx pegylated liposomal plus bortezomib compared to patients treated with bortezomib monotherapy as indicated by a risk reduction (RR) of 35% (95% CI: 21-47%), p < 0.0001, based on 407 TTP events.
 The median TTP was 6.9 months for the bortezomib monotherapy patients compared with 8.9 months for the Caelyx pegylated liposomal plus bortezomib combination therapy patients.
