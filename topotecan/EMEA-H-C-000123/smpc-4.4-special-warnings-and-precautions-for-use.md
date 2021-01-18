@@ -26,6 +26,11 @@ A small number of hepatically impaired patients (serum bilirubin between 1.5 and
 A reduction in topotecan clearance was observed.
 However, there are insufficient data available to make a dose recommendation for this patient group (see section 4.2).
 
+Hycamtin contains sodium
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially “sodium free”.
+However, if a solution of common salt (0.9% w/v sodium chloride solution) is used for the dilution of Hycamtin prior to administration then the dose of sodium received would be higher.
+
 [HYCAMTIN 0.25 mg hard capsules]
 
 Topotecan is partly eliminated via renal excretion and renal impairment might lead to increased exposure to topotecan.
@@ -34,11 +39,11 @@ Use of topotecan in these patients is not recommended (see section 4.2).
 
 However, there are insufficient data available to make a dose recommendation for this patient group.
 There is insufficient experience of the use of topotecan in patients with severely impaired hepatic function (serum bilirubin ≥10 mg/dl).
-
 Diarrhoea, including severe diarrhoea requiring hospitalisation, has been reported during treatment with oral topotecan.
 Diarrhoea related to oral topotecan can occur at the same time as drug-related neutropenia and its sequelae.
 Communication with patients prior to drug administration regarding these side effects and proactive management of early and all signs and symptoms of diarrhoea is important.
 Cancer treatment-induced diarrhoea (CTID) is associated with significant morbidity and may be life-threatening.
 Should diarrhoea occur during treatment with oral topotecan, physicians are advised to aggressively manage diarrhoea.
 Clinical guidelines describing the aggressive management of CTID include specific recommendations on patient communication and awareness, recognition of early warning signs, use of anti-diarrhoeals and antibiotics, changes in fluid intake and diet, and need for hospitalisation (see sections 4.2 and 4.8).
+
 Intravenous topotecan should be considered in the following clinical situations: uncontrolled emesis, swallowing disorders, uncontrolled diarrhoea, clinical conditions and medication that may alter gastrointestinal motility and drug absorption.

@@ -74,7 +74,7 @@ The mean metabolite: parent plasma AUC ratio was less than 10% for both total to
 
 Following co-administration of the ABCB1 (P-gp) and ABCG2 (BCRP) inhibitor, elacridar (GF120918) at 100 to 1000 mg with oral topotecan, the AUC0-∞ of topotecan lactone and total topotecan increased approximately 2.5-fold (see section 4.5 for guidance).
 
-Administration of oral cyclosporine A (15 mg/kg), an inhibitor of transporters ABCB1 (P-gp) and ABCC1 (MRP-1) as well as the metabolising enzyme CYP3A4, within 4 hours of oral topotecan increased the dose normalised AUC0-24h of topotecan lactone and total topotecan approximately 2.0-and 2.5-fold, respectively (see section 4.5).
+Administration of oral cyclosporine A (15 mg/kg), an inhibitor of transporters ABCB1 (P-gp) and ABCC1 (MRP-1) as well as the metabolising enzyme CYP3A4, within 4 hours of oral topotecan increased the dose normalised AUC0-24h of topotecan lactone and total topotecan approximately 2.0- and 2.5-fold, respectively (see section 4.5).
 
 The extent of exposure was similar following a high-fat meal and in the fasted state, while tmax was delayed from 1.5 to 3 hours (topotecan lactone) and from 3 to 4 hours (total topotecan).
 

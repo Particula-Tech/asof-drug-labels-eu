@@ -7,6 +7,7 @@ Mechanism of action
 The anti-tumour activity of topotecan involves the inhibition of topoisomerase-I, an enzyme intimately involved in DNA replication as it relieves the torsional strain introduced ahead of the moving replication fork.
 Topotecan inhibits topoisomerase-I by stabilising the covalent complex of enzyme and strand-cleaved DNA which is an intermediate of the catalytic mechanism.
 The cellular sequela of inhibition of topoisomerase-I by topotecan is the induction of protein-associated DNA single-strand breaks.
+
 Clinical efficacy and safety
 
 Relapsed ovarian cancer
@@ -22,7 +23,6 @@ These data should be evaluated in the context of the overall safety profile of t
 A supplementary retrospective analysis was conducted on data from 523 patients with relapsed ovarian cancer.
 Overall, 87 complete and partial responses were observed, with 13 of these occurring during cycles 5 and 6 and 3 occurring thereafter.
 Of the patients who received more than 6 cycles of therapy, 91% completed the study as planned or were treated until disease progression, with only 3% withdrawn for adverse events.
-
 Relapsed SCLC
 A Phase III study (Study 478) compared oral topotecan plus best supportive care (BSC) (n = 71) with BSC alone (n = 70) in patients who had relapsed following first-line therapy (median time to progression [TTP] from first-line therapy: 84 days for oral topotecan plus BSC, 90 days for BSC alone) and for whom re-treatment with intravenous chemotherapy was not considered appropriate.
 In the oral topotecan plus BSC group there was a statistically significant improvement in overall survival compared with the BSC alone group (Log-rank p = 0.0104).
@@ -30,6 +30,7 @@ The unadjusted hazard ratio for the oral topotecan plus BSC group relative to th
 Median survival in patients treated with oral topotecan plus BSC was 25.9 weeks (95% CI: 18.3, 31.6) compared to 13.9 weeks (95% CI: 11.1, 18.6) for patients receiving BSC alone (p = 0.0104).
 
 Patient self-reports of symptoms using an unblinded assessment showed a consistent trend for symptom benefit for oral topotecan plus BSC.
+
 One Phase II study (Study 065) and one Phase III study (Study 396) were conducted to evaluate the efficacy of oral topotecan versus intravenous topotecan in patients who had relapsed ≥90 days after completion of one prior regimen of chemotherapy (see Table 1).
 Oral and intravenous topotecan were associated with similar symptom palliation in patients with relapsed sensitive SCLC in patient self-reports on an unblinded symptom scale assessment in each of these two studies.
 

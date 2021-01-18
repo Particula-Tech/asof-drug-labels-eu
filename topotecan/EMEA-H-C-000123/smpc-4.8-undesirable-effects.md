@@ -9,7 +9,6 @@ The overall haematological toxicity is lower in patients treated with topotecan 
 
 Additional adverse events were seen when topotecan was given in combination with cisplatin; however, these events were seen with cisplatin monotherapy and were not attributable to topotecan.
 The prescribing information for cisplatin should be consulted for a full list of adverse events associated with cisplatin use.
-
 The integrated safety data for topotecan monotherapy are presented below.
 
 Adverse reactions are listed below, by system organ class and absolute frequency (all reported events).
@@ -51,7 +50,6 @@ Within each frequency grouping, undesirable effects are presented in order of de
 The adverse events listed above have the potential to occur with a higher frequency in patients who have a poor performance status (see section 4.4).
 
 The frequencies associated with the haematological and non-haematological adverse events listed below represent the adverse event reports considered to be related/possibly related to topotecan therapy.
-
 Haematological
 
 Neutropenia
@@ -71,6 +69,7 @@ Reports of significant sequelae associated with thrombocytopenia, including fata
 Anaemia
 Moderate to severe (Hb ≤8.0 g/dl) in 37% of patients (14% of courses).
 Red cell transfusions were given in 52% of patients (21% of courses).
+
 Non-haematological
 
 Frequently reported non-haematological effects were gastrointestinal, such as nausea (52%), vomiting (32%), diarrhoea (18%), constipation (9%) and mucositis (14%).
@@ -160,6 +159,7 @@ For severe cases (CTC Grade 3/4) reported as related/possibly related to topotec
 
 The overall incidence of drug-related diarrhoea was 22%, including 4% with Grade 3 and 0.4% with Grade 4.
 Drug-related diarrhoea was more frequent in patients ≥65 years of age (28%) compared to those less than 65 years of age (19%).
+
 Complete alopecia related/possibly related to topotecan administration was observed in 9% of patients and partial alopecia related/possibly related to topotecan administration in 11% of patients.
 
 Therapeutic interventions associated with non-haematological effects included anti-emetic agents, given to 47% of patients in 38% of courses and anti-diarrhoeal agents, given to 15% of patients in 6% of courses.

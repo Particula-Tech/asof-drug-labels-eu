@@ -1,11 +1,13 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 HYCAMTIN 1 mg powder for concentrate for solution for infusion
+
 Each vial contains 1 mg topotecan (as hydrochloride).
 
 The total content of active substance in the vial provides 1 mg per ml of active substance when reconstituted as recommended.
 
 HYCAMTIN 4 mg powder for concentrate for solution for infusion
+
 Each vial contains 4 mg topotecan (as hydrochloride).
 
 The total content of active substance in the vial provides 1 mg per ml of active substance when reconstituted as recommended.
