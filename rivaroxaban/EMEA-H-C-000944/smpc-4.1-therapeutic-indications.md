@@ -13,12 +13,20 @@ Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevent
 
 [Xarelto 15 mg film-coated tablets]
 
+Adults
 Prevention of stroke and systemic embolism in adult patients with non-valvular atrial fibrillation with one or more risk factors, such as congestive heart failure, hypertension, age ≥ 75 years, diabetes mellitus, prior stroke or transient ischaemic attack.
+
+Paediatric population
+Treatment of venous thromboembolism (VTE) and prevention of VTE recurrence in children and adolescents aged less than 18 years and weighing from 30 kg to 50 kg after at least 5 days of initial parenteral anticoagulation treatment.
 
 [Xarelto 20 mg film-coated tablets]
 
-(all sentences already above)
+Treatment of venous thromboembolism (VTE) and prevention of VTE recurrence in children and adolescents aged less than 18 years and weighing more than 50 kg after at least 5 days of initial parenteral anticoagulation treatment.
 
 [Xarelto 15 mg film-coated tablets (SmPC 5)]
 
 (all sentences already above)
+
+[Xarelto 1 mg/mL granules for oral suspension]
+
+Treatment of venous thromboembolism (VTE) and prevention of VTE recurrence in term neonates, infants and toddlers, children, and adolescents aged less than 18 years after at least 5 days of initial parenteral anticoagulation treatment.

@@ -17,3 +17,7 @@ EU/1/08/472/017-021, EU/1/08/472/024, EU/1/08/472/037, EU/1/08/472/039, EU/1/08/
 [Xarelto 15 mg film-coated tablets (SmPC 5)]
 
 EU/1/08/472/040
+
+[Xarelto 1 mg/mL granules for oral suspension]
+
+EU/1/08/472/050-051

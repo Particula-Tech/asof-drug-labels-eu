@@ -30,6 +30,7 @@ In patients with moderate renal impairment (creatinine clearance 30 - 49 ml/min)
 Interaction with other medicinal products
 The use of Xarelto is not recommended in patients receiving concomitant systemic treatment with azole-antimycotics (such as ketoconazole, itraconazole, voriconazole and posaconazole) or HIV protease inhibitors (e.g. ritonavir).
 These active substances are strong inhibitors of both CYP3A4 and P-gp and therefore may increase rivaroxaban plasma concentrations to a clinically relevant degree (2.6 fold on average) which may lead to an increased bleeding risk (see section 4.5).
+
 Care is to be taken if patients are treated concomitantly with medicinal products affecting haemostasis such as non-steroidal anti-inflammatory medicinal products (NSAIDs), acetylsalicylic acid (ASA) and platelet aggregation inhibitors or selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs).
 For patients at risk of ulcerative gastrointestinal disease an appropriate prophylactic treatment may be considered (see sections 4.5 and 5.1).
 Patients on treatment with Xarelto and ASA or with Xarelto and ASA plus clopidogrel/ticlopidine should only receive concomitant treatment with NSAIDs if the benefit outweighs the bleeding risk.
@@ -98,6 +99,7 @@ Rivaroxaban should be discontinued at the first appearance of a severe skin rash
 Information about excipients
 Xarelto contains lactose.
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially “sodium-free”.
 
 [Xarelto 10 mg film-coated tablets]
 
@@ -111,6 +113,7 @@ For patients at risk of ulcerative gastrointestinal disease an appropriate proph
 
 Hip fracture surgery
 Rivaroxaban has not been studied in interventional clinical studies in patients undergoing hip fracture surgery to evaluate efficacy and safety.
+
 Haemodynamically unstable PE patients or patients who require thrombolysis or pulmonary embolectomy
 Xarelto is not recommended as an alternative to unfractionated heparin in patients with pulmonary embolism who are haemodynamically unstable or may receive thrombolysis or pulmonary embolectomy since the safety and efficacy of Xarelto have not been established in these clinical situations.
 
@@ -125,7 +128,16 @@ Increasing age may increase haemorrhagic risk (see section 5.2).
 
 [Xarelto 15 mg film-coated tablets]
 
+Paediatric population
+There is limited data in children with cerebral vein and sinus thrombosis who have a CNS infection (see section 5.1).
+The risk of bleeding should be carefully evaluated before and during therapy with rivaroxaban.
+
+In adult patients with severe renal impairment (creatinine clearance < 30 ml/min) rivaroxaban plasma levels may be significantly increased (1.6 fold on average) which may lead to an increased bleeding risk.
 Xarelto should be used with caution in patients with renal impairment concomitantly receiving other medicinal products which increase rivaroxaban plasma concentrations (see section 4.5).
+Xarelto is not recommended in children and adolescents with moderate or severe renal impairment (glomerular filtration rate < 50 mL/min/1.73 mP2P), as no clinical data is available.
+
+These active substances are strong inhibitors of both CYP3A4 and P-gp and therefore may increase rivaroxaban plasma concentrations to a clinically relevant degree (2.6 fold on average) which may lead to an increased bleeding risk.
+No clinical data is available in children receiving concomitant systemic treatment with strong inhibitors of both CYP 3A4 and P-gp (see section 4.5).
 
 Care is to be taken if patients are treated concomitantly with medicinal products affecting haemostasis such as non-steroidal anti-inflammatory medicinal products (NSAIDs), acetylsalicylic acid and platelet aggregation inhibitors or selective serotonin reuptake inhibitors (SSRIs), and serotonin norepinephrine reuptake inhibitors (SNRIs).
 
@@ -136,13 +148,18 @@ No data are available for such patients with a history of stroke/ transient isch
 
 There is no clinical experience with the use of 15 mg rivaroxaban in these situations.
 Placement or removal of an epidural catheter or lumbar puncture is best performed when the anticoagulant effect of rivaroxaban is estimated to be low.
-For the removal of an epidural catheter and based on the general PK characteristics at least 2x half-life, i.e. at least 18 hours in young patients and 26 hours in elderly patients should elapse after the last administration of rivaroxaban (see section 5.2).
+However, the exact timing to reach a sufficiently low anticoagulant effect in each patient is not known and should be weighed against the urgency of a diagnostic procedure.
+For the removal of an epidural catheter and based on the general PK characteristics at least 2x half-life, i.e. at least 18 hours in young adult patients and 26 hours in elderly patients should elapse after the last administration of rivaroxaban (see section 5.2).
+No data is available on the timing of the placement or removal of neuraxial catheter in children while on Xarelto.
+In such cases, discontinue rivaroxaban and consider a short acting parenteral anticoagulant.
 
 If an invasive procedure or surgical intervention is required, Xarelto 15 mg should be stopped at least 24 hours before the intervention, if possible and based on the clinical judgement of the physician.
 
 [Xarelto 20 mg film-coated tablets]
 
-No data are available for such patients with a history of stroke/TIA.
+No clinical data is available in children receiving concomitant systemic treatment with strong inhibitors of both CYP3A4 and P-gp (see section 4.5).
+
+No data are available for such patients with a history of stroke/transient ischaemic attack (TIA).
 
 There is no clinical experience with the use of 20 mg rivaroxaban in these situations.
 
@@ -151,5 +168,41 @@ If an invasive procedure or surgical intervention is required, Xarelto 20 mg sho
 [Xarelto 15 mg film-coated tablets (SmPC 5)]
 
 There is no clinical experience with the use of 15 mg or 20 mg rivaroxaban in these situations.
+For the removal of an epidural catheter and based on the general PK characteristics at least 2x half-life, i.e. at least 18 hours in young patients and 26 hours in elderly patients should elapse after the last administration of rivaroxaban (see section 5.2).
 
 If an invasive procedure or surgical intervention is required, Xarelto 15 mg/ Xarelto 20 mg should be stopped at least 24 hours before the intervention, if possible and based on the clinical judgement of the physician.
+
+[Xarelto 1 mg/mL granules for oral suspension]
+
+Dosing of rivaroxaban cannot be reliably determined in the following patient populations and was not studied.
+It is therefore not recommended in children less than 6 months of age who:
+
+- at birth had less than 37 weeks of gestation, or
+- have a body weight of less than 2.6 kg, or
+- had less than 10 days of oral feeding.
+
+In the clinical studies mucosal bleedings (i.e. epistaxis, gingival, gastrointestinal, genito urinary including abnormal vaginal or increased menstrual bleeding) and anaemia were seen more frequent during long term rivaroxaban treatment compared with VKA treatment.
+
+Several sub-groups of patients, as detailed below, are at an increased risk of bleeding.
+
+Xarelto is not recommended in children 1 year or older with moderate or severe renal impairment (glomerular filtration rate < 50 mL/min/1.73 mP2P), as no clinical data is available.
+Xarelto is not recommended in children younger than 1 year with serum creatinine results above 97.5th percentile, as no clinical data are available.
+
+No clinical data is available in children receiving concomitant systemic treatment with strong inhibitors of both CYP3A4 and P-gp.
+Xarelto is not recommended in patients receiving concomitant systemic treatment with azole-antimycotics (such as ketoconazole, itraconazole, voriconazole and posaconazole) or HIV protease inhibitors (e.g. ritonavir).
+
+- uncontrolled arterial hypertension
+
+Safety and efficacy of Xarelto have not been studied in patients with prosthetic heart valves; therefore, there are no data to support that this medicinal product provides adequate anticoagulation in this patient population.
+
+Spinal/epidural anaesthesia or lumbar puncture
+There is no clinical experience with the use of rivaroxaban in these situations.
+To reduce the potential risk of bleeding associated with the concurrent use of rivaroxaban and neuraxial (epidural/spinal) anaesthesia or lumbar puncture, consider the pharmacokinetic profile of rivaroxaban.
+
+If an invasive procedure or surgical intervention is required, Xarelto should be stopped at least 24 hours before the intervention, if possible and based on the clinical judgement of the physician.
+
+Xarelto granules for oral suspension contains 1.8 mg sodium benzoate (E 211) in each mL oral suspension.
+Sodium benzoate may increase jaundice (yellowing of the skin and eyes) in newborn infants (up to 4 weeks old).
+Increase in bilirubinaemia following its displacement from albumin may increase neonatal jaundice which may develop into kernicterus (non-conjugated bilirubin deposits in the brain tissue).
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per millilitre, that is to say essentially “sodium-free”.

@@ -32,3 +32,11 @@ Each 20 mg film-coated tablet contains 20 mg rivaroxaban.
 
 Each 15 mg film-coated tablet contains 24.13 mg lactose (as monohydrate), see section 4.4.
 Each 20 mg film-coated tablet contains 21.76 mg lactose (as monohydrate), see section 4.4.
+
+[Xarelto 1 mg/mL granules for oral suspension]
+
+The granules contain 19.7 mg rivaroxaban per gram.
+Each bottle contains 51.7 mg rivaroxaban or 103.4 mg rivaroxaban.
+Following reconstitution the oral suspension contains 1 mg rivaroxaban per mL.
+
+Each mL of the reconstituted oral suspension contains 1.8 mg sodium benzoate (E 211), see section 4.4.

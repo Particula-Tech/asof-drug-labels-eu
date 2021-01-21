@@ -12,6 +12,7 @@ Concomitant treatment with any other anticoagulants, e.g. unfractionated heparin
 Concomitant treatment of ACS with antiplatelet therapy in patients with a prior stroke or a transient ischaemic attack (TIA) (see section 4.4).
 
 Concomitant treatment of CAD/PAD with ASA in patients with previous haemorrhagic or lacunar stroke, or any stroke within a month (see section 4.4).
+
 Hepatic disease associated with coagulopathy and clinically relevant bleeding risk including cirrhotic patients with Child Pugh B and C (see section 5.2).
 
 Pregnancy and breast-feeding (see section 4.6).

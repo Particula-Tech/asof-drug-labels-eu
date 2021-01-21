@@ -17,3 +17,7 @@ Treatment Initiation Pack
 [Xarelto 15 mg film-coated tablets (SmPC 5)]
 
 (all sentences already above)
+
+[Xarelto 1 mg/mL granules for oral suspension]
+
+(all sentences already above)

@@ -31,3 +31,7 @@ Women of child bearing potential should avoid becoming pregnant during treatment
 [Xarelto 15 mg film-coated tablets (SmPC 5)]
 
 (all sentences already above)
+
+[Xarelto 1 mg/mL granules for oral suspension]
+
+Female adolescents of child-bearing potential should avoid becoming pregnant during treatment with rivaroxaban.
