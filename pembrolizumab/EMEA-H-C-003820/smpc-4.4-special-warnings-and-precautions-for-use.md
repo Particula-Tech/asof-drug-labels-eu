@@ -1,5 +1,6 @@
 # 4.4 Special warnings and precautions for use
 
+Traceability
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
 Assessment of PD-L1 status
@@ -15,7 +16,6 @@ For suspected immune-related adverse reactions, adequate evaluation to confirm a
 Based on the severity of the adverse reaction, pembrolizumab should be withheld and corticosteroids administered.
 Upon improvement to Grade ≤1, corticosteroid taper should be initiated and continued over at least 1 month.
 Based on limited data from clinical studies in patients whose immune-related adverse reactions could not be controlled with corticosteroid use, administration of other systemic immunosuppressants can be considered.
-
 Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if the adverse reaction recovers to Grade ≤1 and corticosteroid dose has been reduced to ≤10 mg prednisone or equivalent per day.
 
 Pembrolizumab must be permanently discontinued for any Grade 3 immune-related adverse reaction that recurs and for any Grade 4 immune-related adverse reaction toxicity, except for endocrinopathies that are controlled with replacement hormones (see sections 4.2 and 4.8).
@@ -24,7 +24,8 @@ Immune-related pneumonitis
 Pneumonitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of pneumonitis.
 Suspected pneumonitis should be confirmed with radiographic imaging and other causes excluded.
-Corticosteroids should be administered for Grade ≥2 events (initial dose of 1-2 mg/kg/day prednisone or equivalent followed by a taper); pembrolizumab should be withheld for Grade 2 pneumonitis, and permanently discontinued for Grade 3, Grade 4 or recurrent Grade 2 pneumonitis (see section 4.2).
+Corticosteroids should be administered for Grade ≥2 events (initial dose of 1-2 mg/kg/day prednisone or equivalent followed by a taper); pembrolizumab should be withheld for Grade 2 pneumonitis, and permanently discontinued for
+Grade 3, Grade 4 or recurrent Grade 2 pneumonitis (see section 4.2).
 
 Immune-related colitis
 Colitis has been reported in patients receiving pembrolizumab (see section 4.8).
@@ -52,8 +53,8 @@ Hypophysitis has also been reported in patients receiving pembrolizumab.
 (See section 4.8).
 Patients should be monitored for signs and symptoms of adrenal insufficiency and hypophysitis (including hypopituitarism) and other causes excluded.
 Corticosteroids to treat adrenal insufficiency and other hormone replacement should be administered as clinically indicated.
-Pembrolizumab should be withheld for Grade 2 adrenal insufficiency or symptomatic hypophysitis until the event is controlled with hormone replacement.
-Pembrolizumab should be withheld or discontinued for Grades 3 or 4 adrenal insufficiency or hypophysitis.
+Pembrolizumab should be withheld for Grade 2 adrenal insufficiency or hypophysitis until the event is controlled with hormone replacement.
+Pembrolizumab should be withheld or discontinued for Grades 3 or 4 adrenal insufficiency or symptomatic hypophysitis.
 Continuation of pembrolizumab may be considered, after corticosteroid taper, if needed (see section 4.2).
 Pituitary function and hormone levels should be monitored to ensure appropriate hormone replacement.
 
@@ -81,18 +82,16 @@ Cases of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) hav
 For suspected SJS or TEN, pembrolizumab should be withheld and the patient should be referred to a specialised unit for assessment and treatment.
 If SJS or TEN is confirmed, pembrolizumab should be permanently discontinued (see section 4.2).
 
-Caution should be used when considering the use of pembrolizumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anticancer agents.
+Caution should be used when considering the use of pembrolizumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anti-cancer agents.
 
 Other immune-related adverse reactions
 The following additional clinically significant, immune-related adverse reactions have been reported in clinical studies or in post-marketing experience: uveitis, arthritis, myositis, myocarditis, pancreatitis, Guillain-Barré syndrome, myasthenic syndrome, haemolytic anaemia, sarcoidosis, encephalitis and myelitis (see sections 4.2 and 4.8).
 
-Based on the severity and type of the adverse reaction, pembrolizumab should be withheld for
-Grade 2 or Grade 3 events and corticosteroids administered.
+Based on the severity and type of the adverse reaction, pembrolizumab should be withheld for Grade 2 or Grade 3 events and corticosteroids administered.
 
 Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if the adverse reaction recovers to Grade ≤1 and corticosteroid dose has been reduced to ≤10 mg prednisone or equivalent per day.
 
 Pembrolizumab must be permanently discontinued for any Grade 3 immune-related adverse reaction that recurs and for any Grade 4 immune-related adverse reaction.
-
 For Grades 3 or 4 myocarditis, encephalitis or Guillain-Barré syndrome, pembrolizumab should be permanently discontinued (see sections 4.2 and 4.8).
 
 Transplant-related adverse reactions
@@ -136,6 +135,8 @@ A direct comparison of pembrolizumab when used in combination with chemotherapy 
 
 Physicians should consider the benefit/risk balance of the available treatment options (pembrolizumab monotherapy or pembrolizumab in combination with chemotherapy) before initiating treatment in previously untreated patients with NSCLC whose tumours express PD-L1.
 
+In KEYNOTE-042, a higher number of deaths within 4 months of treatment initiation followed by a long-term survival benefit was observed with pembrolizumab monotherapy compared to chemotherapy (see section 5.1).
+
 Efficacy and safety data from patients ≥75 years are limited.
 For patients ≥75 years, pembrolizumab combination therapy should be used with caution after careful consideration of the potential benefit/risk on an individual basis (see section 5.1).
 
@@ -143,6 +144,7 @@ Use of pembrolizumab for first-line treatment of patients with HNSCC
 In general, the frequency of adverse reactions for pembrolizumab combination therapy is observed to be higher than for pembrolizumab monotherapy or chemotherapy alone, reflecting the contributions of each of these components (see section 4.8).
 
 Physicians should consider the benefit/risk balance of the available treatment options (pembrolizumab monotherapy or pembrolizumab in combination with chemotherapy) before initiating treatment in patients with HNSCC whose tumours express PD-L1 (see section 5.1).
+
 Use of pembrolizumab for adjuvant treatment of patients with melanoma
 A trend toward increased frequency of severe and serious adverse reactions in patients ≥75 years was observed.
 Safety data of pembrolizumab in the adjuvant melanoma setting in patients ≥75 years are limited.
@@ -153,12 +155,14 @@ Liver enzymes should be monitored before initiation of and periodically througho
 More frequent monitoring of liver enzymes as compared to when the medicines are used in monotherapy may be considered.
 Medical management guidelines for both medicines should be followed (see section 4.2 and refer to the SmPC for axitinib).
 
+Use of pembrolizumab for first-line treatment of patients with MSI-H/dMMR CRC
+In KEYNOTE-177, the hazard rates for overall survival events were greater for pembrolizumab compared with chemotherapy for the first 4 months of treatment, followed by a long-term survival benefit for pembrolizumab (see section 5.1).
+
 Patients excluded from clinical studies
 Patients with the following conditions were excluded from clinical studies: active CNS metastases; ECOG PS ≥2 (except for urothelial carcinoma and RCC); HIV infection, hepatitis B or hepatitis C infection; active systemic autoimmune disease; interstitial lung disease; prior pneumonitis requiring systemic corticosteroid therapy; a history of severe hypersensitivity to another monoclonal antibody; receiving immunosuppressive therapy and a history of severe immune-related adverse reactions from treatment with ipilimumab, defined as any Grade 4 toxicity or Grade 3 toxicity requiring corticosteroid treatment (> 10 mg/day prednisone or equivalent) for greater than 12 weeks.
 Patients with active infections were excluded from clinical studies and were required to have their infection treated prior to receiving pembrolizumab.
 Patients with active infections occurring during treatment with pembrolizumab were managed with appropriate medical therapy.
 Patients with clinically significant renal (creatinine > 1.5 x ULN) or hepatic (bilirubin > 1.5 x ULN, ALT, AST > 2.5 x ULN in the absence of liver metastases) abnormalities at baseline were excluded from clinical studies, therefore information is limited in patients with severe renal and moderate to severe hepatic impairment.
-
 There are limited data on the safety and efficacy of KEYTRUDA in patients with ocular melanoma (see section 5.1).
 
 For subjects with relapsed or refractory cHL, clinical data for the use of pembrolizumab in patients ineligible to ASCT due to reasons other than failure to salvage chemotherapy are limited (see section 5.1).

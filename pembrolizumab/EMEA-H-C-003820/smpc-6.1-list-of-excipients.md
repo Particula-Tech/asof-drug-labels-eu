@@ -3,7 +3,7 @@
 L-histidine
 L-histidine hydrochloride monohydrate
 Sucrose
-Polysorbate 80
+Polysorbate 80 (E433)
 
 [KEYTRUDA 25 mg/mL concentrate for solution for infusion.]
 

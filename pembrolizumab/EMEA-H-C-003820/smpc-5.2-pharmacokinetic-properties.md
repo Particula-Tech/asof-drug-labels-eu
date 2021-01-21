@@ -2,7 +2,6 @@
 
 The pharmacokinetics of pembrolizumab was studied in 2,993 patients with metastatic or unresectable melanoma, NSCLC, or carcinoma who received doses in the range of 1 to 10 mg/kg every 2 weeks,
 2 to 10 mg/kg every 3 weeks, or 200 mg every 3 weeks.
-
 Absorption
 Pembrolizumab is administered via the intravenous route and therefore is immediately and completely bioavailable.
 
@@ -16,6 +15,7 @@ Pembrolizumab is catabolised through non-specific pathways; metabolism does not 
 Elimination
 Pembrolizumab CL is approximately 23% lower (geometric mean, 195 mL/day [CV%: 40%]) after achieving maximal change at steady-state compared with the first dose (252 mL/day [CV%: 37%]); this decrease in CL with time is not considered clinically meaningful.
 The geometric mean value (CV%) for the terminal half-life is 22 days (32%) at steady-state.
+
 Linearity/non-linearity
 Exposure to pembrolizumab as expressed by peak concentration (Cmax) or area under the plasma concentration time curve (AUC) increased dose proportionally within the dose range for efficacy.
 Steady-state concentrations of pembrolizumab were reached by 16 weeks of repeated dosing with an every 3 week regimen and the systemic accumulation was 2.1-fold.

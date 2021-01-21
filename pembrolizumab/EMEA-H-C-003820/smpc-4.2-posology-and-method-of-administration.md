@@ -7,6 +7,9 @@ For treatment with KEYTRUDA as monotherapy, testing for PD-L1 tumour expression 
 
 Patients with HNSCC should be selected for treatment with KEYTRUDA as monotherapy or in combination with platinum and 5-fluorouracil (5-FU) chemotherapy based on the tumour expression of PD-L1 confirmed by a validated test (see sections 4.1, 4.4, 4.8, and 5.1).
 
+MSI-H/dMMR testing for patients with CRC
+For treatment with KEYTRUDA as monotherapy, testing for MSI-H/dMMR tumour status using a validated test is recommended to select patients with CRC (see sections 4.1 and 5.1).
+
 Posology
 The recommended dose of KEYTRUDA as monotherapy is either 200 mg every 3 weeks or 400 mg every 6 weeks administered as an intravenous infusion over 30 minutes.
 
@@ -17,6 +20,7 @@ Atypical responses (i.e. an initial transient increase in tumour size or small n
 It is recommended to continue treatment for clinically stable patients with initial evidence of disease progression until disease progression is confirmed.
 
 For the adjuvant treatment of melanoma, KEYTRUDA should be administered until disease recurrence, unacceptable toxicity, or for a duration of up to one year.
+
 Dose delay or discontinuation (see also section 4.4)
 No dose reductions of KEYTRUDA are recommended.
 KEYTRUDA should be withheld or discontinued to manage adverse reactions as described in Table 1.
@@ -72,11 +76,13 @@ Special populations
 Elderly
 No dose adjustment is necessary in patients ≥65 years (see section 5.1).
 Data from patients ≥65 years are too limited to draw conclusions on cHL population (see section 5.1).
-Data from pembrolizumab monotherapy in patients with resected Stage III melanoma, from pembrolizumab in combination with axitinib in patients with advanced RCC, from chemotherapy combination in patients with metastatic NSCLC, and from pembrolizumab (with or without chemotherapy) in patients receiving first-line treatment for metastatic or unresectable recurrent HNSCC ≥75 years are limited (see sections 4.4 and 5.1).
+Data are limited in patients
+≥75 years for pembrolizumab monotherapy in patients with resected Stage III melanoma and MSI-H or dMMR CRC; for pembrolizumab in combination with axitinib in patients with advanced RCC; for chemotherapy combination in patients with metastatic NSCLC; and for pembrolizumab (with or without chemotherapy) in patients receiving first-line treatment for metastatic or unresectable recurrent HNSCC (see sections 4.4 and 5.1).
 
 Renal impairment
 No dose adjustment is needed for patients with mild or moderate renal impairment.
 KEYTRUDA has not been studied in patients with severe renal impairment (see sections 4.4 and 5.2).
+
 Hepatic impairment
 No dose adjustment is needed for patients with mild hepatic impairment.
 KEYTRUDA has not been studied in patients with moderate or severe hepatic impairment (see sections 4.4 and 5.2).

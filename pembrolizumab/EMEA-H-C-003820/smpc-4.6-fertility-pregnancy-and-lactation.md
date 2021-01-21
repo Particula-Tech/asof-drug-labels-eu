@@ -17,4 +17,4 @@ A decision should be made whether to discontinue breast-feeding or to discontinu
 
 Fertility
 No clinical data are available on the possible effects of pembrolizumab on fertility.
-There were no notable effects in the male and female reproductive organs in monkeys based on 1-month and 6-month repeat dose toxicity studies (see section 5.3).
+There were no notable effects in the male and female reproductive organs in monkeys based on 1-month and 6-month repeat-dose toxicity studies (see section 5.3).
