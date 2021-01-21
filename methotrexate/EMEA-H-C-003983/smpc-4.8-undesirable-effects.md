@@ -26,9 +26,9 @@ Common: Leukopenia, anaemia, thrombopenia.
 Uncommon: Pancytopenia.
 Very rare: Agranulocytosis, severe courses of bone marrow depression, lymphoproliferative disorders (see “description below”).
 Not known: Eosinophilia
+
 Immune system disorders
 Rare: Allergic reactions, anaphylactic shock, hypogammaglobulinaemia.
-
 Metabolism and nutrition disorders
 Uncommon: Precipitation of diabetes mellitus.
 

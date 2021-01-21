@@ -30,9 +30,7 @@ Insufficient data is available for methotrexate exposure during pregnancy higher
 When methotrexate was discontinued prior to conception, normal pregnancies have been reported.
 Breast-feeding
 As methotrexate is transferred into human milk and may cause toxicity in breast-feeding children, treatment is contraindicated during breast-feeding (see section 4.3).
-If use of methotrexate during the breast-feeding period should become necessary, breast-feeding is to be stopped prior to treatment.
-
-Fertility
+If use of methotrexate during the breast-feeding period should become necessary, breast-feeding is to be stopped prior to treatment.Fertility
 Methotrexate affects spermatogenesis and oogenesis and may decrease fertility.
 In humans, methotrexate has been reported to cause oligospermia, menstrual dysfunction and amenorrhoea.
 These effects appear to be reversible after discontinuation of therapy in most cases.

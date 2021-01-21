@@ -6,8 +6,10 @@ Healthcare professionals and patients should be clearly instructed.
 
 Patients receiving therapy should be appropriately monitored, so that signs of possible toxic effects or adverse reactions can be recognised and assessed without delay.
 Hence, methotrexate should be only administered by, or under the supervision of, doctors whose knowledge and experience include the use of antimetabolite therapy.
+
 Due to the risk of severe or even fatal toxic reactions, patients should be thoroughly informed by the doctor about the risks (including early signs and symptoms of toxicity) and recommended safety measures.
 They are to be informed about the necessity to immediately consult the physician if symptoms of intoxication occur, as well as about the subsequent necessary monitoring of symptoms of intoxication (including regular laboratory tests).
+
 Doses exceeding 20 mg/week can be associated with significant increase in toxicity, especially bone marrow suppression.
 
 Skin and mucosal contact with methotrexate is to be avoided.
@@ -101,6 +103,7 @@ Special caution is required in patients with impaired pulmonary function.
   Concurrent vaccination using live vaccines must not be carried out.
 
 Particular caution should be exercised in the presence of inactive, chronic infections (e.g. herpes zoster, tuberculosis, hepatitis B or C) due to possible activation.
+
 Malignant lymphomas may occur in patients receiving low-dose methotrexate; in which case, methotrexate must be discontinued.
 If lymphomas should fail to regress spontaneously, initiation of cytotoxic therapy is required.
 In patients with pathological accumulation of liquid in body cavities (“third space”), such as ascites or pleural effusions, the plasma elimination half-life of methotrexate is prolonged.
@@ -109,7 +112,13 @@ Pleural effusions and ascites should be drained prior to initiation of methotrex
 Conditions leading to dehydration such as emesis, diarrhoea or stomatitis, can increase the toxicity of methotrexate due to elevated levels of the active substance.
 In these cases use of methotrexate should be interrupted until the symptoms cease.
 
+Diarrhoea and ulcerative stomatitis can be toxic effects and require interruption of therapy, otherwise haemorrhagic enteritis and death from intestinal perforation may occur.
+If haematemesis, black discoloration of the stool or blood in stool occur, therapy is to be interrupted.
+
 Vitamin preparations or other products containing folic acid, folinic acid or their derivatives may decrease the effectiveness of methotrexate.
+
+Use in children < 3 years of age is not recommended as insufficient data on efficacy and safety are available for this population.
+(see section 4.2).
 
 Radiation induced dermatitis and sun-burn can reappear under methotrexate therapy (recall-reaction).
 Psoriatic lesions can exacerbate during UV-irradiation and simultaneous administration of methotrexate.

@@ -6,7 +6,7 @@ Patients must be educated and trained in the proper injection technique when sel
 The first injection of Nordimet should be performed under direct medical supervision.
 Important warning about the dosage of Nordimet
 
-In the treatment of rheumatoid arthritis, active juvenile idiopathic arthritis,psoriasis and psoriatic arthritis requiring dosing once a week.
+In the treatment of rheumatoid arthritis, active juvenile idiopathic arthritis,psoriasis, psoriatic arthritis and Crohn’s disease requiring dosing once a week.
 Nordimet must only be used once a week.
 Dosage errors in the use of Nordimet can result in serious adverse reactions, including death.
 Please read this section of the summary of product characteristics very carefully.
@@ -43,10 +43,20 @@ In a few exceptional cases a higher dose than 25 mg might be clinically justifie
 
 Methotrexate treatment of severe psoriasis vulgaris and psoriatic arthritis represents long-term treatment.
 
+Dosage in adult patients with Crohn's disease:
+
+- Induction treatment: 25 mg/week administered subcutaneously.
+
+Once patients have adequately responded to combination therapy, the corticosteroids should be tapered.
+Response to treatment can be expected after 8 to 12 weeks.
+
+- Maintenance treatment: 15 mg/week administered subcutaneously, as monotherapy, if the patient has entered remission.
+
 Special populations
 
 Elderly
 Dose reduction should be considered in elderly patients due to reduced liver and kidney function as well as lower folate reserves which occur with increased age (see sections 4.4, 4.5, 4.8 or 5.2)
+
 Renal impairment
 Methotrexate should be used with caution in patients with impaired renal function (see sections 4.3 and 4.4).
 The dose should be adjusted as follows:

@@ -12,6 +12,7 @@ Administration of additional haematotoxic medicinal products (e.g. metamizole) i
 One should be aware of pharmacokinetic interactions between methotrexate, anticonvulsant medicinal products (reduced methotrexate blood levels), and 5-fluorouracil (increased t½ of 5--fluorouracil).
 Salicylates, phenylbutazone, phenytoin, barbiturates, tranquillisers, oral contraceptives, tetracyclines, amidopyrine derivatives, sulfonamides and p-aminobenzoic acid displace methotrexate from serum albumin binding and thus increase bioavailability (indirect dose increase).
 Probenecid and mild organic acids may also reduce tubular methotrexate secretion, and thus cause indirect dose elevations, too.
+
 Antibiotics, like penicillin, glycopeptides, sulfonamides, ciprofloxacin and cefalotin can, in individual cases, reduce the renal clearance of methotrexate, so that increased serum concentrations of methotrexate with simultaneous haematological and gastro-intestinal toxicity may occur.
 
 Oral antibiotics such as tetracyclines, chloramphenicol and non-absorbable broad-spectrum antibiotics may reduce intestinal methotrexate absorption or interfere with the enterohepatic circulation, due to inhibition of the intestinal flora or suppression of bacterial metabolism.
@@ -41,9 +42,9 @@ Particularly in the case of orthopaedic surgery where susceptibility to infectio
 
 The use of nitrous oxide potentiates the effect of methotrexate on folate metabolism, yielding increased toxicity such as severe unpredictable myelosuppression and stomatitis.
 Whilst this effect can be reduced by administering calcium folinate, the concomitant use of nitrous oxide and methotrexate should be avoided.
-
 Colestyramine can increase the non-renal elimination of methotrexate by interrupting the enterohepatic circulation.
 Delayed methotrexate clearance should be considered in combination with other cytostatic medicinal products.
 Radiotherapy during use of methotrexate can increase the risk of soft tissue or bone necrosis.
+
 On account of its possible effect on the immune system, methotrexate can falsify vaccinal and test results (immunological procedures to record the immune reaction).
 During methotrexate therapy concurrent vaccination with live vaccines must not be carried out (see sections 4.3 and 4.4).

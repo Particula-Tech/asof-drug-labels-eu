@@ -27,6 +27,7 @@ EU/1/16/1124/015 - 4 pack (4 packs of 1)
 EU/1/16/1124/016 - 6 pack
 EU/1/16/1124/063 - 4 pack (1 pack of 4)
 EU/1/16/1124/064 - 12 pack
+
 Nordimet 17.5 mg solution for injection in pre-filled pen
 EU/1/16/1124/005 - 1 pack
 EU/1/16/1124/017 - 4 pack (4 packs of 1)
@@ -40,7 +41,6 @@ EU/1/16/1124/019 - 4 pack (4 packs of 1)
 EU/1/16/1124/020 - 6 pack
 EU/1/16/1124/067 - 4 pack (1 pack of 4)
 EU/1/16/1124/068 - 12 pack
-
 Nordimet 22.5 mg solution for injection in pre-filled pen
 EU/1/16/1124/007 - 1 pack
 EU/1/16/1124/021 - 4 pack (4 packs of 1)
@@ -84,6 +84,7 @@ EU/1/16/1124/037 - 1 pack
 EU/1/16/1124/038 - 4 pack
 EU/1/16/1124/039 - 6 pack
 EU/1/16/1124/053 - 12 pack
+
 Nordimet 20 mg solution for injection in pre-filled syringe
 EU/1/16/1124/040 - 1 pack
 EU/1/16/1124/041 - 4 pack
@@ -95,7 +96,6 @@ EU/1/16/1124/043 - 1 pack
 EU/1/16/1124/044 - 4 pack
 EU/1/16/1124/045 - 6 pack
 EU/1/16/1124/055 - 12 pack
-
 Nordimet 25 mg solution for injection in pre-filled syringe
 EU/1/16/1124/046 - 1 pack
 EU/1/16/1124/047 - 4 pack
