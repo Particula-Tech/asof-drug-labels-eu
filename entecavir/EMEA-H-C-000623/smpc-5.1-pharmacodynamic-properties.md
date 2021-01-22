@@ -112,6 +112,13 @@ For the 77 patients who continued entecavir treatment beyond 52 weeks (median 96
 Age/gender:
 There was no apparent difference in efficacy for entecavir based on gender (≈ 25% women in the clinical trials) or age (≈ 5% of patients > 65 years of age).
 
+Long-Term Follow-Up Study
+Study 080 was a randomized, observational open-label Phase 4 study to assess long-term risks of entecavir treatment (ETV, n=6,216) or other standard of care HBV nucleoside (acid) treatment (non-ETV) (n=6,162) for up to 10 years in subjects with chronic HBV (CHB) infection.
+The principal clinical outcome events assessed in the study were overall malignant neoplasms (composite event of HCC and non-HCC malignant neoplasms), liver related HBV disease progression, non-HCC malignant neoplasms, HCC, and deaths, including liver related deaths.
+In this study, ETV was not associated with an increased risk of malignant neoplasms compared to use of non-ETV, as assessed by either the composite endpoint of overall malignant neoplasms (ETV n=331, non-ETV n=337; HR=0.93 [0.8-1.1]), or the individual endpoint of non-HCC malignant neoplasm (ETV n=95, non-ETV n=81; HR=1.1 [0.82-1.5]).
+The reported events for liver-related HBV disease progression and HCC were comparable in both ETV and non-ETV groups.
+The most commonly reported malignancy in both ETV and non-ETV groups was HCC followed by gastrointestinal malignancies.
+
 Special populations
 Patients with decompensated liver disease: in study 048, 191 patients with HBeAg positive or negative chronic HBV infection and evidence of hepatic decompensation, defined as a CTP score of 7 or higher, received entecavir 1 mg once daily or adefovir dipivoxil 10 mg once daily.
 Patients were either HBV-treatment-naïve or pretreated (excluding pretreatment with entecavir, adefovir dipivoxil, or tenofovir disoproxil fumarate).
@@ -169,9 +176,10 @@ At Week 72 post-transplant, none of 55 observed cases had virologic recurrence o
 All 61 patients had HBsAg loss post-transplantation, and 2 of these later became HBsAg positive despite maintaining undetectable HBV DNA (<6 IU/ml).
 The frequency and nature of adverse events in this study were consistent with those expected in patients who have received a liver transplant and the known safety profile of entecavir.
 
-Paediatric population: Study 189 is an ongoing study of the efficacy and safety of entecavir among 180 nucleoside-treatment-naïve children and adolescents from 2 to < 18 years of age with HBeAg-positive chronic hepatitis B infection, compensated liver disease, and elevated ALT.
+Paediatric population: Study 189 is a study of the efficacy and safety of entecavir among 180 nucleoside-treatment-naïve children and adolescents from 2 to < 18 years of age with HBeAg-positive chronic hepatitis B infection, compensated liver disease, and elevated ALT.
 Patients were randomized (2:1) to receive blinded treatment with entecavir 0.015 mg/kg up to 0.5 mg/day (N = 120) or placebo (N = 60).
-The randomization was stratified by age group (2 to 6 years; > 6 to 12 years; and > 12 to < 18 years).
+The randomization was stratified by age group (2 to 6 years; > 6 to 12 years; and > 12 to
+< 18 years).
 Baseline demographics and HBV disease characteristics were comparable between the 2 treatment arms and across age cohorts.
 At study entry, the mean HBV DNA was 8.1 log10 IU/ml and mean ALT was 103 U/l across the study population.
 Results for the main efficacy endpoints at Week 48 and Week 96 are presented in the table below.
@@ -184,13 +192,12 @@ Results for the main efficacy endpoints at Week 48 and Week 96 are presented in 
 | HBV DNA < 50 IU/mLa | 49.2% | 64.2% | 3.3.% |
 | HBeAg seroconversiona | 24.2% | 36.7% | 10.0% |
 | ALT normalizationa | 67.5% | 81.7% | 23.3% |
-| HBV DNA < 50 IU/mLa Baseline HBV DNA < 8 log10 IU/ml Baseline HBV DNA ≥ 8 log10 IU/ml | 82.6% (38/46) | 82.6% (38/46) | 6.5% (2/31) |
-|  | 28.4% (21/74) | 52.7% (39/74) | 0% (0/29) |
+| HBV DNA < 50 IU/mLa Baseline HBV DNA < 8 log10 IU/ml Baseline HBV DNA ≥ 8 log10 IU/ml | 82.6% (38/46) 28.4% (21/74) | 82.6% (38/46) 52.7% (39/74) | 6.5% (2/31) 0% (0/29) |
 
 aNC=F (noncompleter=failure)
 * Patients randomized to placebo who did not have HBe- seroconversion by Week 48 rolled over to open-label entecavir for the second year of the study; therefore randomized comparison data are available only through Week 48.
 
-The paediatric resistance assessment is based on data from nucleoside-treatment-naive paediatric patients with HBeAg-positive chronic HBV infection in two ongoing clinical trials (028 and 189).
+The paediatric resistance assessment is based on data from nucleoside-treatment-naive paediatric patients with HBeAg-positive chronic HBV infection in two clinical trials (028 and 189).
 The two trials provide resistance data in 183 patients treated and monitored in Year 1 and 180 patients treated and monitored in Year 2.
 Genotypic evaluations were performed for all patients with available samples who had virologic breakthrough through Week 96 or HBV DNA ≥ 50 IU/ml at Week 48 or Week 96 .
 During Year 2, genotypic resistance to ETV was detected in 2 patients (1.1% cumulative probability of resistance through Year 2).
@@ -247,21 +254,7 @@ This substitution was detected only in the presence of lamivudine resistance-ass
 
 Patients had stable controlled HIV (HIV RNA < 400 copies/ml) with recurrence of HBV viraemia on a lamivudine-containing HAART regimen.HAART regimens did not include emtricitabine or tenofovir disoproxil fumarate.
 
-|  | Entecavir |  | Placebo* |
-| --- | --- | --- | --- |
-|  | Week 48 | Week 96 | Week 48 |
-| n | 120 | 120 | 60 |
-| HBV DNA < 50 IU/mL and HBeAg seroconversiona | 24.2% | 35.8% | 3.3% |
-| HBV DNA < 50 IU/mLa | 49.2% | 64.2% | 3.3.% |
-| HBeAg seroconversiona | 24.2% | 36.7% | 10.0% |
-| ALT normalizationa | 67.5% | 81.7% | 23.3% |
-| HBV DNA < 50 IU/mLa Baseline HBV | 82.6% (38/46) | 82.6% (38/46) | 6.5% (2/31) |
-
-DNA < 8 log10 IU/ml
-
-Baseline HBV DNA 28.4% (21/74) 52.7% (39/74) 0% (0/29)
-
-≥ 8 log10 IU/ml aNC=F (noncompleter=failure)
+The randomization was stratified by age group (2 to 6 years; > 6 to 12 years; and > 12 to < 18 years).
 
 These substitutions were observed only in the presence of LVDr substitutions (rtM204Vand rtL180M).
 

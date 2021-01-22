@@ -48,9 +48,12 @@ If treatment is discontinued without regard to treatment response, the rate of p
 
 d. Paediatric Population
 
-The safety of entecavir in paediatric patients from 2 to < 18 years of age is based on two ongoing clinical trials in subjects with chronic HBV infection; one Phase 2 pharmacokinetic trial (study 028) and one Phase 3 trial (study 189).
+The safety of entecavir in paediatric patients from 2 to < 18 years of age is based on two clinical trials in subjects with chronic HBV infection; one Phase 2 pharmacokinetic trial (study 028) and one
+Phase 3 trial (study 189).
 These trials provide experience in 195 HBeAg-positive nucleoside-treatment-naïve subjects treated with entecavir for a median duration of 99 weeks.
-The adverse reactions observed in paediatric subjects who received treatment with entecavir were consistent with those observed in clinical trials of entecavir in adults.(see a. Summary of the safety profile and section 5.1)
+The adverse reactions observed in paediatric subjects who received treatment with entecavir were consistent with those observed in clinical trials of entecavir in adults.(see a. Summary of the safety profile and section 5.1) with the following exception in the paediatric patients:
+
+- very common adverse reactions: neutropenia.
 
 e. Other special populations
 
@@ -75,5 +78,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 [Baraclude 0.05 mg/ml oral solution]
 
 Frequency is defined as very common (≥ 1/10); common (≥ 1/100 to 1/10); uncommon (≥ 1/1,000 to < 1/100); rare(≥ 1/10,000 to < 1/1,000).
+
+The adverse reactions observed in paediatric subjects who received treatment with entecavir were consistent with those observed in clinical trials of entecavir in adults (see a. Summary of the safety profile and section 5.1) with the following exception in the paediatric patients:
 
 Healthcare professionals are asked to report any suspected adverse reactions the national reporting system listed in Appendix V.

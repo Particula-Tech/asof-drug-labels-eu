@@ -24,3 +24,4 @@ Tumour development was preceded by pneumocyte proliferation in the lung which wa
 Increased incidences of other tumours including brain gliomas in male and female rats, liver carcinomas in male mice, benign vascular tumours in female mice, and liver adenomas and carcinomas in female rats were seen only at high lifetime exposures.
 However, the no effect levels could not be precisely established.
 The predictivity of the findings for humans is not known.
+For clinical data, see section 5.1.
