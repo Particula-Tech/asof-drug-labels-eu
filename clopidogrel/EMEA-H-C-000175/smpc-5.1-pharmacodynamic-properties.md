@@ -11,7 +11,6 @@ Due to the irreversible binding, platelets exposed are affected for the remainde
 Platelet aggregation induced by agonists other than ADP is also inhibited by blocking the amplification of platelet activation by released ADP.
 
 Because the active metabolite is formed by CYP450 enzymes, some of which are polymorphic or subject to inhibition by other medicinal products, not all patients will have adequate platelet inhibition.
-
 Pharmacodynamic effects
 
 Repeated doses of 75 mg per day produced substantial inhibition of ADP-induced platelet aggregation from the first day; this increased progressively and reached steady state between Day 3 and Day 7.
@@ -20,19 +19,20 @@ Platelet aggregation and bleeding time gradually returned to baseline values, ge
 
 Clinical efficacy and safety
 
-The safety and efficacy of clopidogrel have been evaluated in 5 double-blind studies involving over 88,000 patients: the CAPRIE study, a comparison of clopidogrel to ASA, and the CURE, CLARITY, COMMIT and ACTIVE-A studies comparing clopidogrel to placebo, both medicinal products given in combination with ASA and other standard therapy.
+The safety and efficacy of clopidogrel have been evaluated in 7 double-blind studies involving over 100,000 patients: the CAPRIE study, a comparison of clopidogrel to ASA, and the CURE, CLARITY, COMMIT, CHANCE, POINT and ACTIVE-A studies comparing clopidogrel to placebo, both medicinal products given in combination with ASA and other standard therapy.
 
 Recent myocardial infarction (MI), recent stroke or established peripheral arterial disease
 
-The CAPRIE study included 19,185 patients with atherothrombosis as manifested by recent myocardial infarction (<35 days), recent ischaemic stroke (between 7 days and 6 months) or established peripheral arterial disease (PAD).
-Patients were randomised to clopidogrel 75 mg/day or ASA 325 mg/day, and were followed for 1 to 3 years.
+The CAPRIE study included 19,185 patients with atherothrombosis as manifested by recent myocardial infarction (<35 days), recent ischemic stroke (between 7 days and 6 months) or established peripheral arterial disease (PAD).
+Patients were randomised to clopidogrel 75 mg/day or ASA
+325 mg/day, and were followed for 1 to 3 years.
 In the myocardial infarction subgroup, most of the patients received ASA for the first few days following the acute myocardial infarction.
 
-Clopidogrel significantly reduced the incidence of new ischaemic events (combined end point of myocardial infarction, ischaemic stroke and vascular death) when compared to ASA.
-In the intention to treat analysis, 939 events were observed in the clopidogrel group and 1,020 events with ASA (relative risk reduction (RRR) 8.7%, [95% CI: 0.2 to 16.4]; p=0.045), which corresponds, for every 1,000 patients treated for 2 years, to 10 [CI: 0 to 20] additional patients being prevented from experiencing a new ischaemic event.
+Clopidogrel significantly reduced the incidence of new ischemic events (combined end point of myocardial infarction, ischemic stroke and vascular death) when compared to ASA.
+In the intention to treat analysis, 939 events were observed in the clopidogrel group and 1,020 events with ASA (relative risk reduction (RRR) 8.7%, [95% CI: 0.2 to 16.4]; p=0.045), which corresponds, for every 1,000 patients treated for 2 years, to 10 [CI: 0 to 20] additional patients being prevented from experiencing a new ischemic event.
 Analysis of total mortality as a secondary endpoint did not show any significant difference between clopidogrel (5.8%) and ASA (6.0%).
 
-In a subgroup analysis by qualifying condition (myocardial infarction, ischaemic stroke, and PAD) the benefit appeared to be strongest (achieving statistical significance at p=0.003) in patients enrolled due to PAD (especially those who also had a history of myocardial infarction) (RRR = 23.7%; CI: 8.9 to 36.2) and weaker (not significantly different from ASA) in stroke patients (RRR = 7.3%; CI: -5.7 to 18.7 [p=0.258]).
+In a subgroup analysis by qualifying condition (myocardial infarction, ischemic stroke, and PAD) the benefit appeared to be strongest (achieving statistical significance at p=0.003) in patients enrolled due to PAD (especially those who also had a history of myocardial infarction) (RRR = 23.7%; CI: 8.9 to 36.2) and weaker (not significantly different from ASA) in stroke patients (RRR = 7.3%; CI: -5.7 to 18.7 [p=0.258]).
 In patients who were enrolled in the trial on the sole basis of a recent myocardial infarction, clopidogrel was numerically inferior, but not statistically different from ASA (RRR
 = -4.0%; CI: -22.5 to 11.7 [p=0.639]).
 In addition, a subgroup analysis by age suggested that the benefit of clopidogrel in patients over 75 years was less than that observed in patients ≤75 years.
@@ -41,25 +41,24 @@ Since the CAPRIE trial was not powered to evaluate efficacy of individual subgro
 
 Acute coronary syndrome
 
-The CURE study included 12,562 patients with non-ST segment elevation acute coronary syndrome (unstable angina or non-Q-wave myocardial infarction), and presenting within 24 hours of onset of the most recent episode of chest pain or symptoms consistent with ischaemia.
-Patients were required to have either ECG changes compatible with new ischaemia or elevated cardiac enzymes or troponin I or T to at least twice the upper limit of normal.
+The CURE study included 12,562 patients with non-ST segment elevation acute coronary syndrome (unstable angina or non-Q-wave myocardial infarction) and presenting within 24 hours of onset of the most recent episode of chest pain or symptoms consistent with ischemia.
+Patients were required to have either ECG changes compatible with new ischemia or elevated cardiac enzymes or troponin I or T to at least twice the upper limit of normal.
 Patients were randomised to clopidogrel (300 mg loading dose followed by 75 mg/day, N=6,259) or placebo (N=6,303), both given in combination with ASA (75-325 mg once daily) and other standard therapies.
 Patients were treated for up to one year.
 In CURE, 823 (6.6%) patients received concomitant GPIIb/IIIa receptor antagonist therapy.
 Heparins were administered in more than 90% of the patients and the relative rate of bleeding between clopidogrel and placebo was not significantly affected by the concomitant heparin therapy.
-
 The number of patients experiencing the primary endpoint [cardiovascular (CV) death, myocardial infarction (MI), or stroke] was 582 (9.3%) in the clopidogrel-treated group and 719 (11.4%) in the placebo-treated group, a 20% relative risk reduction (95% CI of 10%-28%; p=0.00009) for the clopidogrel-treated group (17% relative risk reduction when patients were treated conservatively, 29% when they underwent percutaneous transluminal coronary angioplasty (PTCA) with or without stent and 10% when they underwent coronary artery bypass graft (CABG)).
 New cardiovascular events (primary endpoint) were prevented, with relative risk reductions of 22% (CI: 8.6, 33.4), 32% (CI: 12.8, 46.4), 4% (CI: -26.9, 26.7), 6% (CI: -33.5, 34.3) and 14% (CI: -31.6, 44.2), during the 0-1, 1-3, 3-6, 6-9 and 9-12 month study intervals, respectively.
-Thus, beyond 3 months of treatment, the benefit observed in the clopidogrel + ASA group was not further increased, whereas the risk of haemorrhage persisted (see section 4.4).
+Thus, beyond 3 months of treatment, the benefit observed in the clopidogrel + ASA group was not further increased, whereas the risk of hemorrhage persisted (see section 4.4).
 
 The use of clopidogrel in CURE was associated with a decrease in the need of thrombolytic therapy (RRR = 43.3%; CI: 24.3%, 57.5%) and GPIIb/IIIa inhibitors (RRR = 18.2%; CI: 6.5%, 28.3%).
 
-The number of patients experiencing the co-primary endpoint (CV death, MI, stroke or refractory ischaemia) was 1,035 (16.5%) in the clopidogrel-treated group and 1,187 (18.8%) in the placebo-treated group, a 14% relative risk reduction (95% CI of 6%-21%, p=0.0005) for the clopidogrel-treated group.
+The number of patients experiencing the co-primary endpoint (CV death, MI, stroke or refractory ischemia) was 1,035 (16.5%) in the clopidogrel-treated group and 1,187 (18.8%) in the placebo-treated group, a 14% relative risk reduction (95% CI of 6%-21%, p=0.0005) for the clopidogrel-treated group.
 This benefit was mostly driven by the statistically significant reduction in the incidence of MI [287 (4.6%) in the clopidogrel treated group and 363 (5.8%) in the placebo treated group].
 There was no observed effect on the rate of rehospitalisation for unstable angina.
 
 The results obtained in populations with different characteristics (e.g. unstable angina or non-Q-wave MI, low to high risk levels, diabetes, need for revascularisation, age, gender, etc.) were consistent with the results of the primary analysis.
-In particular, in a post-hoc analysis in 2,172 patients (17% of the total CURE population) who underwent stent placement (Stent-CURE), the data showed that clopidogrel compared to placebo, demonstrated a significant RRR of 26.2% favouring clopidogrel for the co-primary endpoint (CV death, MI, stroke) and also a significant RRR of 23.9% for the second co-primary endpoint (CV death, MI, stroke or refractory ischaemia).
+In particular, in a post-hoc analysis in 2,172 patients (17% of the total CURE population) who underwent stent placement (Stent-CURE), the data showed that clopidogrel compared to placebo, demonstrated a significant RRR of 26.2% favouring clopidogrel for the co-primary endpoint (CV death, MI, stroke) and also a significant RRR of 23.9% for the second co-primary endpoint (CV death, MI, stroke or refractory ischemia).
 Moreover, the safety profile of clopidogrel in this subgroup of patients did not raise any particular concern.
 Thus, the results from this subset are in line with the overall trial results.
 
@@ -78,7 +77,6 @@ A total of 99.7% of patients received fibrinolytics (fibrin specific: 68.7%, non
 
 Fifteen percent (15.0%) of patients in the clopidogrel group and 21.7% in the placebo group reached the primary endpoint, representing an absolute reduction of 6.7% and a 36 % odds reduction in favor of clopidogrel (95% CI: 24, 47%; p < 0.001), mainly related to a reduction in occluded infarct-related arteries.
 This benefit was consistent across all prespecified subgroups including patients’ age and gender, infarct location, and type of fibrinolytic or heparin used.
-
 The 2x2 factorial design COMMIT trial included 45,852 patients presenting within 24 hours of the onset of the symptoms of suspected MI with supporting ECG abnormalities (i.e. ST elevation, ST depression or left bundle-branch block).
 Patients received clopidogrel (75 mg/day, n=22,961) or placebo (n=22,891), in combination with ASA (162 mg/day), for 28 days or until hospital discharge.
 The co-primary endpoints were death from any cause and the first occurrence of re-infarction, stroke or death.
@@ -90,21 +88,22 @@ This benefit was consistent across age, gender and with or without fibrinolytics
 De-escalation of P2Y12 Inhibitor Agents in Acute Coronary Syndrome
 Switching from a more potent P2Y12 receptor inhibitor to clopidogrel in association with aspirin after acute phase in Acute Coronary Syndrome (ACS) has been evaluated in two randomized investigator-sponsored studies (ISS) – TOPIC and TROPICAL-ACS – with clinical outcome data.
 
-The clinical benefit provided by the more potent P2Y12 inhibitors, ticagrelor and prasugrel, in their pivotal studies is related to a significant reduction in recurrent ischaemic events (including acute and subacute stent thrombosis (ST), myocardial infarction (MI), and urgent revascularization).
-Although the ischaemic benefit was consistent throughout the first year, greater reduction in ischaemic recurrence after ACS was observed during the initial days following the treatment initiation.
+The clinical benefit provided by the more potent P2Y12 inhibitors, ticagrelor and prasugrel, in their pivotal studies is related to a significant reduction in recurrent ischemic events (including acute and subacute stent thrombosis (ST), myocardial infarction (MI), and urgent revascularization).
+Although the ischemic benefit was consistent throughout the first year, greater reduction in ischemic recurrence after ACS was observed during the initial days following the treatment initiation.
 In contrast, post-hoc analyses demonstrated statistically significant increases in the bleeding risk with the more potent P2Y12 inhibitors, occurring predominantly during the maintenance phase, after the first month post-ACS.
 TOPIC and TROPICAL-ACS were designed to study how to mitigate the bleeding events while maintaining efficacy.
 
 TOPIC (Timing Of Platelet Inhibition after acute Coronary syndrome)
 This randomized, open-label trial included ACS patients requiring percutaneous coronary intervention (PCI).
 Patients on aspirin and a more potent P2Y12 blocker and without adverse event at one month were assigned to switch to fixed-dose aspirin plus clopidogrel (de-escalated dual antiplatelet therapy (DAPT)) or continuation of their drug regimen (unchanged DAPT).
+
 Overall, 645 of 646 patients with ST-elevation-MI (STEMI) or non-ST-elevation-MI (NSTEMI) or unstable angina were analyzed (de-escalated DAPT (n=322); unchanged DAPT (n=323)).
 Follow-up at one year was performed for 316 patients (98.1%) in the de-escalated DAPT group and 318 patients (98.5%) in the unchanged DAPT group.
 The median follow-up for both groups was 359 days.
 The characteristics of the studied cohort were similar in the 2 groups.
 
 The primary outcome, a composite of cardiovascular death, stroke, urgent revascularization, and BARC (Bleeding Academic Research Consortium) bleeding ≥2 at 1 year post ACS, occurred in 43 patients (13.4%) in the de-escalated DAPT group and in 85 patients (26.3%) in the unchanged DAPT group (p<0.01).
-This statistically significant difference was mainly driven by fewer bleeding events, with no difference reported in ischaemic endpoints (p=0.36), while BARC ≥2 bleeding occurred less frequently in the de-escalated DAPT group (4.0%) versus 14.9% in the unchanged DAPT group (p<0.01).
+This statistically significant difference was mainly driven by fewer bleeding events, with no difference reported in ischemic endpoints (p=0.36), while BARC ≥2 bleeding occurred less frequently in the de-escalated DAPT group (4.0%) versus 14.9% in the unchanged DAPT group (p<0.01).
 Bleeding events defined as all BARC occurred in 30 patients (9.3%) in the de-escalated DAPT group and in 76 patients (23.5%) in the unchanged DAPT group (p<0.01).
 
 TROPICAL-ACS (Testing Responsiveness to Platelet Inhibition on Chronic Antiplatelet Treatment for Acute Coronary Syndromes)
@@ -112,16 +111,67 @@ This randomized, open-label trial included 2,610 biomarker-positive ACS patients
 Patients were randomized to receive either prasugrel 5 or 10 mg/d (Days 0-14) (n=1306), or prasugrel 5 or 10 mg/d (Days 0-7) then de-escalated to clopidogrel 75 mg/d (Days 8-14) (n=1304), in combination with ASA (<100 mg/day).
 At Day 14, platelet function testing (PFT) was performed.
 The prasugrel-only patients were continued on prasugrel for 11.5 months.
-
 The de-escalated patients underwent high platelet reactivity (HPR) testing.
 If HPR≥46 units, the patients were escalated back to prasugrel 5 or 10 mg/d for 11.5 months; if HPR<46 units, the patients continued on clopidogrel 75 mg/d for 11.5 months.
 Therefore, the guided de-escalation arm had patients on either prasugrel (40%) or clopidogrel (60%).
 All patients were continued on aspirin and were followed for one year.
 
 The primary endpoint (the combined incidence of CV death, MI, stroke and BARC bleeding grade ≥2 at 12 months) was met showing non-inferiority.
-Ninety five patients (7%) in the guided de-escalation group and 118 patients (9%) in the control group (p non-inferiority=0.0004) had an event.
+Ninety-five patients (7%) in the guided de-escalation group and 118 patients (9%) in the control group (p non-inferiority=0.0004) had an event.
 The guided de-escalation did not result in an increased combined risk of ischemic events (2.5% in the de-escalation group vs 3.2% in the control group; p non-inferiority=0.0115), nor in the key secondary endpoint of BARC bleeding ≥2 ((5%) in the de-escalation group versus 6% in the control group (p=0.23)).
 The cumulative incidence of all bleeding events (BARC class 1 to 5) was 9% (114 events) in the guided de-escalation group versus 11% (137 events) in the control group (p=0.14).
+
+Dual Antiplatelet Therapy (DAPT) in Acute Minor IS or Moderate to High-risk TIA
+
+DAPT with combination clopidogrel and ASA as a treatment to prevent stroke after an acute minor IS or moderate to high-risk TIA has been evaluated in two randomized investigator-sponsored studies (ISS) – CHANCE and POINT – with clinical safety and efficacy outcome data.
+
+CHANCE (Clopidogrel in High-risk patients with Acute Non-disabling Cerebrovascular Events)
+This randomized, double-blinded, multicenter, placebo-controlled clinical trial included 5,170 Chinese patients with acute TIA (ABCD2 score ≥4) or acute minor stroke (NIHSS ≤3).
+Patients in both groups received open-label ASA on day 1 (with the dose ranging from 75 to 300 mg, at the discretion of the treating physician).
+Patients randomly assigned to the clopidogrel–ASA group received a loading dose of 300 mg of clopidogrel on day 1, followed by a dose of 75 mg of clopidogrel per day on days 2 through 90, and ASA at a dose of 75 mg per day on days 2 through 21.
+Patients randomly assigned to the ASA group received a placebo version of clopidogrel on days 1 through 90 and ASA at a dose of 75 mg per day on days 2 through 90.
+
+The primary efficacy outcome was any new stroke event (ischemic and hemorrhagic) in the first 90 days after acute minor IS or high-risk TIA.
+This occurred in 212 patients (8.2%) in the clopidogrel-ASA group compared with 303 patients (11.7%) in the ASA group (hazard ratio [HR], 0.68; 95% confidence interval [CI], 0.57 to 0.81; P<0.001).
+IS occurred in 204 patients (7.9%) in the clopidogrel–ASA group compared with 295 (11.4%) in the ASA group (HR, 0.67; 95% CI, 0.56 to 0.81; P<0.001).
+Hemorrhagic stroke occurred in 8 patients in each of the two study groups (0.3% of each group).
+Moderate or severe hemorrhage occurred in seven patients (0.3%) in the clopidogrel–ASA group and in eight (0.3%) in the ASA group (P = 0.73).
+The rate of any bleeding event was 2.3% in the clopidogrel–ASA group as compared with 1.6% in the ASA group (HR, 1.41; 95% CI, 0.95 to 2.10;
+P = 0.09).
+
+POINT (Platelet-Oriented Inhibition in New TIA and Minor Ischemic Stroke)
+This randomized, double-blinded, multicenter, placebo-controlled clinical trial included 4,881 international patients with acute TIA (ABCD2 score ≥4) or minor stroke (NIHSS ≤3).
+All patients in both groups received open-label ASA on day 1 to 90 (50-325 mg depending upon the discretion of the treating physician).
+Patients randomly assigned to the clopidogrel group received a loading dose of 600 mg of clopidogrel on day 1, followed by 75 mg of clopidogrel per day on days 2 through 90.
+Patients randomly assigned to the placebo group received clopidogrel placebo on days 1 through 90.
+
+The primary efficacy outcome was a composite of major ischemic events (IS, MI, or death from an ischemic vascular event) at day 90.
+This occurred in 121 patients (5.0%) receiving clopidogrel plus ASA compared with 160 patients (6.5%) receiving ASA alone (HR, 0.75; 95% CI, 0.59 to 0.95;
+P = 0.02).
+The secondary outcome of IS occurred in 112 patients (4.6%) receiving clopidogrel plus ASA compared with 155 patients (6.3%) receiving ASA alone (HR, 0.72; 95% CI, 0.56 to 0.92;
+P = 0.01).
+The primary safety outcome of major hemorrhage occurred in 23 of 2,432 patients (0.9%) receiving clopidogrel plus ASA and in 10 of 2,449 patients (0.4%) receiving ASA alone (HR, 2.32; 95% CI, 1.10 to 4.87; P = 0.02).
+Minor hemorrhage occurred in 40 patients (1.6%) receiving clopidogrel plus ASA and in 13 (0.5%) receiving ASA alone (HR, 3.12; 95% CI, 1.67 to 5.83;
+P = 0.001).
+
+CHANCE and POINT Time Course Analysis
+There was no efficacy benefit of continuing DAPT beyond 21 days.
+A time-course distribution of major ischemic events and major hemorrhages by treatment assignment was done to analyze the impact of the short-term time-course of DAPT.
+
+Table 1 - Time course distribution of major ischemic events and major hemorrhages by treatment assignment in CHANCE and POINT
+
+No. of events
+
+Outcomes in CHANCE and POINT Treatment assignment Total 1st week 2nd week 3rd week
+Major ischemic ASA (n=5,035) 458 330 36 21
+
+events
+
+CLP+ASA(n=5,016) 328 217 30 14
+Difference 130 113 6 7
+Major Hemorrhage ASA (n=5,035) 18 4 2 1
+CLP+ASA(n=5,016) 30 10 4 2
+Difference -12 -6 -2 -1
 
 Atrial fibrillation
 
@@ -135,13 +185,12 @@ The ACTIVE-A study (N=7,554) was a multicenter, randomized, double-blind, placeb
 The recommended dose for ASA was 75 to 100 mg/day.
 Patients were treated for up to 5 years.
 
-Patients randomized in the ACTIVE program were those presenting with documented AF, i.e., either permanent AF or at least 2 episodes of intermittent AF in the past 6 months, and had at least one of the following risk factors: age ≥75 years or age 55 to 74 years and either diabetes mellitus requiring drug therapy, or documented previous MI or documented coronary artery disease; treated for systemic hypertension; prior stroke, transient ischaemic attack (TIA), or non-CNS systemic embolus; left ventricular dysfunction with left ventricular ejection fraction <45%; or documented peripheral vascular disease.
+Patients randomized in the ACTIVE program were those presenting with documented AF, i.e., either permanent AF or at least 2 episodes of intermittent AF in the past 6 months, and had at least one of the following risk factors: age ≥75 years or age 55 to 74 years and either diabetes mellitus requiring drug therapy, or documented previous MI or documented coronary artery disease; treated for systemic hypertension; prior stroke, transient ischemic attack (TIA), or non-CNS systemic embolus; left ventricular dysfunction with left ventricular ejection fraction <45%; or documented peripheral vascular disease.
 The mean CHADS2 score was 2.0 (range 0-6).
 
 The major exclusion criteria for patients were documented peptic ulcer disease within the previous 6 months; prior intracerebral hemorrhage; significant thrombocytopenia (platelet count < 50 x 109/l); requirement for clopidogrel or oral anticoagulants (OAC); or intolerance to any of the two compounds.
 
 Seventy-three percent (73%) of patients enrolled into the ACTIVE-A study were unable to take VKA due to physician assessment, inability to comply with INR (international normalised ratio) monitoring, predisposition to falling or head trauma, or specific risk of bleeding; for 26% of the patients, the physician’s decision was based on the patient’s unwillingness to take VKA.
-
 The patient population included 41.8 % women.
 The mean age was 71 years, 41.6% of patients were
 ≥75 years.

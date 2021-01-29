@@ -16,14 +16,26 @@ Thrombotic Thrombocytopenic Purpura (TTP)
 Thrombotic Thrombocytopenic Purpura (TTP) has been reported very rarely following the use of clopidogrel, sometimes after a short exposure.
 It is characterised by thrombocytopenia and microangiopathic haemolytic anaemia associated with either neurological findings, renal dysfunction or fever.
 TTP is a potentially fatal condition requiring prompt treatment including plasmapheresis.
-
 Acquired haemophilia
 Acquired haemophilia has been reported following use of clopidogrel.
 In cases of confirmed isolated activated Partial Thromboplastin Time (aPTT) prolongation with or without bleeding, acquired haemophilia should be considered.
 Patients with a confirmed diagnosis of acquired haemophilia should be managed and treated by specialists, and clopidogrel should be discontinued.
 
-Recent ischaemic stroke
-In view of the lack of data, clopidogrel cannot be recommended during the first 7 days after acute ischaemic stroke.
+Recent ischemic stroke
+
+- Initiation of therapy o In acute minor IS or moderate to high-risk TIA patients, dual antiplatelet therapy (clopidogrel and ASA) should be started no later than 24 hours after the event onset.
+
+o There is no data regarding the benefit-risk of short term dual antiplatelet therapy in acute minor IS or moderate to high-risk TIA patients, with a history of (non-traumatic) intracranial hemorrhage.
+o In non-minor IS patients, clopidogrel monotherapy should be started only after the first 7 days of the event.
+
+- Non-minor IS patients (NIHSS >4)
+
+In view of the lack of data, use of dual antiplatelet therapy is not recommended (see section 4.1).
+
+- Recent minor IS or moderate to high-risk TIA in patients for whom intervention is indicated or planned
+
+There is no data to support the use of dual antiplatelet therapy in patients for whom treatment with carotid endarterectomy or intravascular thrombectomy is indicated, or in patients planned for thrombolysis or anticoagulant therapy.
+Dual antiplatelet therapy is not recommended in these situations.
 
 Cytochrome P450 2C19 (CYP2C19)
 Pharmacogenetics: In patients who are poor CYP2C19 metabolisers, clopidogrel at recommended doses forms less of the active metabolite of clopidogrel and has a smaller effect on platelet function.
@@ -32,6 +44,7 @@ Tests are available to identify a patient's CYP2C19 genotype.
 Since clopidogrel is metabolised to its active metabolite partly by CYP2C19, use of medicinal products that inhibit the activity of this enzyme would be expected to result in reduced drug levels of the active metabolite of clopidogrel.
 The clinical relevance of this interaction is uncertain.
 As a precaution concomitant use of strong or moderate CYP2C19 inhibitors should be discouraged (see section 4.5 for a list of CYP2C19 inhibitors, see also section 5.2).
+
 Use of medicinal products that induce the activity of CYP2C19 would be expected to result in increased drug levels of the active metabolite of clopidogrel and might potentiate the bleeding risk.
 As a precaution concomitant use of strong CYP2C19 inducers should be discouraged (see section 4.5).
 

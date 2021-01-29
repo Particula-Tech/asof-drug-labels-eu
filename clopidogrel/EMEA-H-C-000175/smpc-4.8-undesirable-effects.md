@@ -23,9 +23,10 @@ In COMMIT, the overall rate of noncerebral major bleeding or cerebral bleeding w
 In ACTIVE-A, the rate of major bleeding was greater in the clopidogrel + ASA group than in the placebo + ASA group (6.7% versus 4.3%).
 Major bleeding was mostly of extracranial origin in both groups (5.3% in the clopidogrel + ASA group; 3.5% in the placebo +ASA group), mainly from the gastrointestinal tract (3.5% vs. 1.8%).
 There was an excess of intracranial bleeding in the clopidogrel + ASA treatment group compared to the placebo + ASA group (1.4% versus 0.8%, respectively).
-There was no statistically significant difference in the rates of fatal bleeding (1.1% in the clopidogrel + ASA group and 0.7% in the placebo +ASA group) and haemorrhagic stroke (0.8% and 0.6%, respectively) between groups.
+There was no statistically significant difference in the rates of fatal bleeding (1.1% in the clopidogrel + ASA group and 0.7% in the placebo +ASA group) and hemorrhagic stroke (0.8% and 0.6%, respectively) between groups.
 
 Tabulated list of adverse reactions
+
 Adverse reactions that occurred either during clinical studies or that were spontaneously reported are presented in the table below.
 Their frequency is defined using the following conventions: common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
 Within each system organ class, adverse reactions are presented in order of decreasing seriousness.
@@ -39,13 +40,10 @@ Within each system organ class, adverse reactions are presented in order of decr
 | Nervous system disorders |  | Intracranial bleeding (some cases were reported with fatal outcome), headache, paraesthesia, dizziness |  | Taste disturbances, ageusia |
 | Eye disorders |  | Eye bleeding (conjunctival, ocular, retinal) |  |  |
 | Ear and labyrinth disorders |  |  | Vertigo |  |
-| Vascular disorders | Haematoma |  |  | Serious haemorrhage, haemorrhage of operative wound, vasculitis, hypotension |
-| Respiratory, thoracic and mediastinal disorders | Epistaxis |  |  | Respiratory tract bleeding (haemoptysis, pulmonary haemorrhage), bronchospasm, interstitial pneumonitis, eosinophilic pneumonia |
-| Gastrointestinal disorders | Gastrointestinal haemorrhage, diarrhoea, abdominal pain, dyspepsia | Gastric ulcer and duodenal ulcer, gastritis, vomiting, nausea, constipation, flatulence | Retroperitoneal haemorrhage | Gastrointestinal and retroperitoneal haemorrhage with fatal outcome, pancreatitis, colitis (including ulcerative or lymphocytic colitis), stomatitis |
+| Vascular disorders | Haematoma |  |  | Serious hemorrhage, hemorrhage of operative wound, vasculitis, hypotension |
+| Respiratory, thoracic and mediastinal disorders | Epistaxis |  |  | Respiratory tract bleeding (haemoptysis, pulmonary hemorrhage), bronchospasm, interstitial pneumonitis, eosinophilic pneumonia |
+| Gastrointestinal disorders | Gastrointestinal hemorrhage, diarrhoea, abdominal pain, dyspepsia | Gastric ulcer and duodenal ulcer, gastritis, vomiting, nausea, constipation, flatulence | Retroperitoneal hemorrhage | Gastrointestinal and retroperitoneal hemorrhage with fatal outcome, pancreatitis, colitis (including ulcerative or lymphocytic colitis), stomatitis |
 | Hepato-biliary disorders |  |  |  | Acute liver failure, hepatitis, abnormal liver function test |
-
-| System Organ Class | Common | Uncommon | Rare | Very rare, not known* |
-| --- | --- | --- | --- | --- |
 | Skin and subcutaneous tissue disorders | Bruising | Rash, pruritus, skin bleeding (purpura) |  | Bullous dermatitis (toxic epidermal necrolysis, Stevens Johnson Syndrome, erythema multiforme, acute generalised exanthematous pustulosis (AGEP)), angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), rash erythematous or exfoliative, urticaria, eczema, lichen planus |
 | Reproductive systems and breast disorders |  |  | Gynaecomastia |  |
 | Musculoskeletal, connective tissue and bone disorders |  |  |  | Musculo-skeletal bleeding (haemarthrosis), arthritis, arthralgia, myalgia |

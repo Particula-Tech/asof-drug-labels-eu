@@ -13,6 +13,7 @@ However, concomitant administration of 500 mg of ASA twice a day for one day did
 A pharmacodynamic interaction between clopidogrel and acetylsalicylic acid is possible, leading to increased risk of bleeding.
 Therefore, concomitant use should be undertaken with caution (see section 4.4).
 However, clopidogrel and ASA have been administered together for up to one year (see section 5.1).
+
 Heparin: in a clinical study conducted in healthy subjects, clopidogrel did not necessitate modification of the heparin dose or alter the effect of heparin on coagulation.
 Co-administration of heparin had no effect on the inhibition of platelet aggregation induced by clopidogrel.
 A pharmacodynamic interaction between clopidogrel and heparin is possible, leading to increased risk of bleeding.
@@ -28,7 +29,6 @@ Consequently, NSAIDs including Cox-2 inhibitors and clopidogrel should be co-adm
 SSRIs: since SSRIs affect platelet activation and increase the risk of bleeding, the concomitant administration of SSRIs with clopidogrel should be undertaken with caution.
 
 Other concomitant therapy:
-
 Inducers of CYP2C19
 Since clopidogrel is metabolised to its active metabolite partly by CYP2C19, use of medicinal products that induce the activity of this enzyme would be expected to result in increased drug levels of the active metabolite of clopidogrel.
 
@@ -57,7 +57,7 @@ These results indicate that clopidogrel can be administered with pantoprazole.
 
 There is no evidence that other medicinal products that reduce stomach acid such as H2 blockers or antacids interfere with antiplatelet activity of clopidogrel.
 
-Boosted anti-retroviral therapy (ART): HIV patients treated with boosted anti-retroviral therapies (ART) are at high risk of vascular events.
+Boosted anti-retroviral therapy (ART): HIV patients treated with boosted anti-retroviral therapies (ART) are at high-risk of vascular events.
 
 A significantly reduced platelet inhibition has been shown in HIV patients treated with ritonavir-or cobicistat-boosted ART.
 Although the clinical relevance of these findings is uncertain, there have been spontaneous reports of HIV-infected patients treated with ritonavir boosted ART, who have experienced re-occlusive events after de-obstruction or have suffered thrombotic events under a clopidogrel loading treatment schedule.

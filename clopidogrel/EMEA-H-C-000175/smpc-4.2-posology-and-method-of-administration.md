@@ -21,12 +21,20 @@ Clinical trial data support use up to 12 months, and the maximum benefit was see
   Combined therapy should be started as early as possible after symptoms start and continued for at least four weeks.
   The benefit of the combination of clopidogrel with ASA beyond four weeks has not been studied in this setting (see section 5.1).
 
+Adult patients with moderate to high-risk TIA or minor IS:
+Adult patients with moderate to high-risk TIA (ABCD2 score ≥4) or minor IS (NIHSS ≤3) should be given a loading dose of clopidogrel 300 mg followed by clopidogrel 75 mg once daily and ASA (75 mg-100 mg once daily).
+Treatment with clopidogrel and ASA should be started within 24 hours of the event and be continued for 21 days followed by single antiplatelet therapy.
+
 In patients with atrial fibrillation, clopidogrel should be given as a single daily dose of 75 mg.
 ASA (75-100 mg daily) should be initiated and continued in combination with clopidogrel (see section 5.1).
 
 If a dose is missed:
 
 - Within less than 12 hours after regular scheduled time: patients should take the dose immediately and then take the next dose at the regular scheduled time.
+
+1 Age, Blood pressure, Clinical features, Duration, and Diabetes mellitus diagnoses
+2 National Institutes of Health Stroke Scale
+
 - For more than 12 hours: patients should take the next dose at the regular scheduled time and should not double the dose.
 - Paediatric population
 
