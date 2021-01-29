@@ -16,7 +16,7 @@ Adults
   See below for dose adjustments in patients with renal impairment.
   The duration of therapy should be in accordance with available official recommendations.
 
-Cubicin is administered intravenously in 0.9% sodium chloride (see section 6.6).
+Cubicin is administered intravenously in 0.9 % sodium chloride (see section 6.6).
 Cubicin should not be used more frequently than once a day.
 
 Creatine phosphokinase (CPK) levels must be measured at baseline and at regular intervals (at least weekly) during treatment (see section 4.4).
@@ -45,14 +45,14 @@ No data are available in patients with severe hepatic impairment (Child-Pugh Cla
 Elderly patients
 The recommended doses should be used in elderly patients except those with severe renal impairment (see above and section 4.4).
 
-Paediatric patients (1 to 17 years of age)
+Paediatric population (1 to 17 years of age)
 The recommended dosage regimens for paediatric patients based on age and indication are shown below.
 
-| Age group | Indication |  |  |  |
+| Age Group | Indication |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | cSSTI without SAB |  | cSSTI associated with SAB |  |
 |  | Dosage Regimen | Duration of Therapy | Dosage Regimen | Duration of Therapy |
-| 12 to 17 years | 5 mg/kg once every 24 hours infused over 30 minutes | Up to 14 Days | 7 mg/kg once every 24 hours infused over 30 minutes | (1) |
+| 12 to 17 years | 5 mg/kg once every 24 hours infused over 30 minutes | Up to 14 days | 7 mg/kg once every 24 hours infused over 30 minutes | (1) |
 | 7 to 11 years | 7 mg/kg once every 24 hours infused over 30 minutes |  | 9 mg/kg once every 24 hours infused over 30 minutes |  |
 | 2 to 6 years | 9 mg/kg once every 24 hours infused over 60 minutes |  | 12 mg/kg once every 24 hours infused over 60 minutes |  |
 | 1 to < 2 years | 10 mg/kg once every 24 hours infused over 60 minutes |  | 12 mg/kg once every 24 hours infused over 60 minutes |  |
@@ -70,3 +70,5 @@ In adults, Cubicin is given by intravenous infusion (see section 6.6) and admini
 
 In paediatric patients aged 7 to 17 years, Cubicin is given by intravenous infusion over a 30-minute period (see section 6.6).
 In paediatric patients aged 1 to 6 years, Cubicin is given by intravenous infusion over a 60-minute period (see section 6.6).
+
+For instructions on reconstitution and dilution of the medicinal product before administration, see section 6.6.

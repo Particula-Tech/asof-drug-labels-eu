@@ -13,7 +13,7 @@ The volume of distribution at steady state of daptomycin in healthy adult subjec
 Tissue distribution studies in rats showed that daptomycin appears to only minimally penetrate the blood-brain barrier and the placental barrier following single and multiple doses.
 
 Daptomycin is reversibly bound to human plasma proteins in a concentration independent manner.
-In healthy adult volunteers and adult patients treated with daptomycin, protein binding averaged about 90% including subjects with renal impairment.
+In healthy adult volunteers and adult patients treated with daptomycin, protein binding averaged about 90 % including subjects with renal impairment.
 
 Biotransformation
 In in vitro studies, daptomycin was not metabolised by human liver microsomes.
@@ -29,15 +29,15 @@ Elimination
 Daptomycin is excreted primarily by the kidneys.
 Concomitant administration of probenecid and daptomycin has no effect on daptomycin pharmacokinetics in humans suggesting minimal to no active tubular secretion of daptomycin.
 
-Following intravenous administration, plasma clearance of daptomycin is approximately 7 to 9 ml/h/kg and its renal clearance is 4 to 7 ml/h/kg.
+Following intravenous administration, plasma clearance of daptomycin is approximately 7 to 9 ml/hr/kg and its renal clearance is 4 to 7 ml/hr/kg.
 
-In a mass balance study using radiolabelled material, 78% of the administered dose was recovered from the urine based on total radioactivity, whilst urinary recovery of unchanged daptomycin was approximately 50% of the dose.
-About 5% of the administered radiolabel was excreted in the faeces.
+In a mass balance study using radiolabelled material, 78 % of the administered dose was recovered from the urine based on total radioactivity, whilst urinary recovery of unchanged daptomycin was approximately 50 % of the dose.
+About 5 % of the administered radiolabel was excreted in the faeces.
 
 Special populations
 
 Elderly
-Following administration of a single 4 mg/kg intravenous dose of Cubicin over a 30-minute period, the mean total clearance of daptomycin was approximately 35% lower and the mean AUC0-∞was approximately 58% higher in elderly subjects (≥75 years of age) compared with those in healthy young subjects (18 to 30 years of age).
+Following administration of a single 4 mg/kg intravenous dose of Cubicin over a 30-minute period, the mean total clearance of daptomycin was approximately 35 % lower and the mean AUC0-∞was approximately 58 % higher in elderly subjects (≥75 years of age) compared with those in healthy young subjects (18 to 30 years of age).
 There were no differences in Cmax.
 The differences noted are most likely due to the normal reduction in renal function observed in the geriatric population.
 
@@ -46,7 +46,7 @@ However, renal function should be assessed and the dose should be reduced if the
 
 Children and adolescents (1 to 17 years of age)
 The pharmacokinetics of daptomycin in paediatric subjects was evaluated in 3 single-dose pharmacokinetic studies.
-After a single 4 mg/kg dose of Cubicin, total clearance normalized by weight and elimination half-life of daptomycin in adolescents (12-17 years of age) with Gram-positive infection were similar to adults.
+After a single 4 mg/kg dose of Cubicin, total clearance normalised by weight and elimination half-life of daptomycin in adolescents (12-17 years of age) with Gram-positive infection were similar to adults.
 After a single 4 mg/kg dose of Cubicin, total clearance of daptomycin in children 7-11 years of age with Gram-positive infection was higher than in adolescents, whereas elimination half-life was shorter.
 After a single 4, 8, or 10 mg/kg dose of Cubicin, total clearance and elimination half-life of daptomycin in children 2-6 years of age were similar at different doses; total clearance was higher and elimination half-life was shorter than in adolescents.
 After a single 6 mg/kg dose of Cubicin, the clearance and elimination half-life of daptomycin in children 13-24 months of age were similar to children 2-6 years of age who received a single 4-10 mg/kg dose.
@@ -54,9 +54,10 @@ The results of these studies show that exposures (AUC) in paediatric patients ac
 
 Paediatric patients with cSSTI
 A Phase 4 study (DAP-PEDS-07-03) was conducted to assess safety, efficacy, and pharmacokinetics of daptomycin in paediatric patients (1 to 17 years old, inclusive) with cSSTI caused by Gram-positive pathogens.
-Daptomycin pharmacokinetics in patients in this study are summarized in Table 2.
+Daptomycin pharmacokinetics in patients in this study are summarised in Table 2.
 Following administration of multiple doses, daptomycin exposure was similar across different age groups after dose adjustment based on body weight and age.
 Plasma exposures achieved with these doses were consistent with those achieved in the adult cSSTI study (following 4 mg/kg once daily in adults).
+
 Table 2 Mean (Standard Deviation) of Daptomycin Pharmacokinetics in Paediatric cSSTI Patients (1 to 17 Years of Age) in Study DAP-PEDS-07-03
 
 | Age Range | 12-17 years (N=6) | 7-11 years (N=2)a | 2-6 years (N=7) | 1 to <2 years (N=30)b |
@@ -71,7 +72,7 @@ Pharmacokinetic parameter values estimated by noncompartmental analysis aIndivid
 
 Paediatric patients with SAB
 A Phase 4 study (DAP-PEDBAC-11-02) was conducted to assess safety, efficacy, and pharmacokinetics of daptomycin in paediatric patients (1 to 17 years old, inclusive) with SAB.
-Daptomycin pharmacokinetics inpatients in this study are summarized in Table 3.
+Daptomycin pharmacokinetics inpatients in this study are summarised in Table 3.
 Following administration of multiple doses, daptomycin exposure was similar across different age groups after dose adjustment based on body weight and age.
 Plasma exposures achieved with these doses were consistent with those achieved in the adult SAB study (following 6 mg/kg once daily in adults).
 
@@ -90,7 +91,7 @@ Pharmacokinetic parameter values estimated using a model-based approach with spa
 Simulation using a population pharmacokinetic model demonstrated that the AUCss (area under the concentration-time curve at steady state) of daptomycin in paediatric patients 1 to <2 years of age receiving 12 mg/kg once daily would be comparable to that in adult patients receiving 6 mg/kg once daily.
 
 Obesity
-Relative to non-obese subjects daptomycin systemic exposure measured by AUC was about 28% higher in moderately obese subjects (Body Mass Index of 25-40 kg/m2) and 42% higher in extremely obese subjects (Body Mass Index of > 40 kg/m2).
+Relative to non-obese subjects daptomycin systemic exposure measured by AUC was about 28 % higher in moderately obese subjects (Body Mass Index of 25-40 kg/m2) and 42 % higher in extremely obese subjects (Body Mass Index of > 40 kg/m2).
 However, no dose adjustment is considered to be necessary based on obesity alone.
 
 Gender
