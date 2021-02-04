@@ -1,6 +1,7 @@
 # 4.2 Posology and method of administration
 
-HALAVEN should only be administered under the supervision of a qualified physician experienced in the appropriate use of cytotoxic medicinal products.
+HALAVEN should only be prescribed by a qualified physician experienced in the appropriate use of anti-cancer therapy.
+It should be administered by an appropriately qualified healthcare professional only.
 
 Posology
 
@@ -26,6 +27,7 @@ The administration of HALAVEN should be delayed on Day 1 or Day 8 for any of the
 Dose reduction during therapy
 
 Dose reduction recommendations for retreatment are shown in the following table.
+
 Dose reduction recommendations
 
 | Adverse reaction after previous HALAVEN administration | Recommended dose of eribulin |
@@ -63,10 +65,10 @@ For all patients with renal impairment, caution and close safety monitoring is a
 Elderly patients
 
 No specific dose adjustments are recommended based on the age of the patient (see section 4.8).
-
 Paediatric population
 
 There is no relevant use of HALAVEN in children and adolescents for the indication of breast cancer.
+
 The safety and efficacy of HALAVEN in children from birth to 18 years of age have not yet been established in soft tissue sarcoma.
 No data are available.
 

@@ -7,7 +7,6 @@ Eribulin is embryotoxic, foetotoxic, and teratogenic in rats.
 HALAVEN should not be used during pregnancy unless clearly necessary and after a careful consideration of the needs of the mother and the risk to the foetus.
 
 Women of childbearing potential must be advised to avoid becoming pregnant whilst they or their male partner are receiving HALAVEN and have to use effective contraception during and up to 3 months after treatment.
-
 Breast-feeding
 
 It is unknown whether eribulin/metabolites are excreted in human or animal breast milk.

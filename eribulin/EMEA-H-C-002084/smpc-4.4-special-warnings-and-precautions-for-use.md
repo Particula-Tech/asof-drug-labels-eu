@@ -23,7 +23,6 @@ The development of severe peripheral neurotoxicity requires a delay or reduction
 
 In clinical trials, patients with pre-existing neuropathy greater than Grade 2 were excluded.
 However, patients with pre-existing neuropathy Grade 1 or 2 were no more likely to develop new or worsening symptoms than those who entered the study without the condition.
-
 QT prolongation
 
 In an uncontrolled open-label ECG study in 26 patients, QT prolongation was observed on Day 8, independent of eribulin concentration, with no QT prolongation observed on Day 1.
