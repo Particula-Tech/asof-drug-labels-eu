@@ -4,8 +4,8 @@ Summary of the safety profile.
 
 The most commonly reported adverse reactions are nasopharyngitis (14%), headache (13.6%) and anaemia (13.2%, see section 4.4).
 The majority of adverse reactions are mild to moderate in intensity.
-
 Tabulated list of adverse reactions
+
 The safety of macitentan has been evaluated in a long-term placebo-controlled trial of 742 patients with symptomatic PAH.
 The mean treatment duration was 103.9 weeks in the macitentan 10 mg group, and 85.3 weeks in the placebo group.
 Adverse reactions associated with macitentan obtained from this clinical study are tabulated below.
@@ -30,7 +30,7 @@ Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10)
 | Respiratory, thoracic and mediastinal disorders | Common | Nasal congestion1 |
 | General disorders and administration site conditions | Very common | Oedema, fluid retention3 |
 
-1Data derived from pooled placebo-controlled studies.
+1 Data derived from pooled placebo-controlled studies.
 
 Description of selected adverse reactions
 
@@ -42,6 +42,7 @@ This corresponded to 3.5 events / 100 patient-years on macitentan 10 mg compared
 In a long-term double-blind study in patients with PAH, the incidence of oedema AEs in the macitentan 10 mg and placebo treatment groups was 21.9% and 20.5%, respectively.
 In a double-blind study in patients with idiopathic pulmonary fibrosis, the incidence of peripheral oedema AEs in the macitentan and placebo treatment groups was 11.8% and 6.8%, respectively.
 In two double-blind clinical studies in patients with digital ulcers associated with systemic sclerosis, the incidences of peripheral oedema AEs ranged from 13.4% to 16.1% in the macitentan 10 mg groups and from 6.2% to 4.5% in the placebo groups.
+
 Laboratory abnormalities
 
 4 Liver aminotransferases

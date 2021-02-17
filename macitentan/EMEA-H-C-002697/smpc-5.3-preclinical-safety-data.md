@@ -20,7 +20,7 @@ After 2 years of treatment, testicular tubular atrophy was seen in rats at 4-fol
 Hypospermatogenesis was observed in the life-long carcinogenicity study in rats and in the repeat-dose toxicity studies in dogs at exposures that provide safety margins of 9.7 in rats and 23 in dogs.
 The safety margins for fertility were 18 for male and 44 for female rats.
 No testicular findings were noted in mice after treatment up to 2 years.
-The effect of macitentan on human male fertility is not known (section 4.6).
+The effect of macitentan on human male fertility is not known (see section 4.6).
 
 Macitentan was teratogenic in rabbits and rats at all doses tested.
 In both species there were cardiovascular and mandibular arch fusion abnormalities.

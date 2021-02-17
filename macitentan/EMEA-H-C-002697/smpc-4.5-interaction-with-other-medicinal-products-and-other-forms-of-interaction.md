@@ -4,15 +4,14 @@ In vitro studies
 
 | The cytochrome P450 enzymes CYP3A4, CYP2C8, CYP2C9, and CYP2C19 are involved in the |  |
 | --- | --- |
-| metabolism of macitentan and formation of its metabolites (see section 5.2). | Macitentan and its |
+| metabolism of macitentan and formation of its metabolites (see section 5.2). | Macitentan and its a |
 
 metabolite do not have clinically relevant inhibitory or inducing effects on cytochrome P450 enzymes.
 
 Macitentan and its active metabolite are not inhibitors of hepatic or renal uptake transporters at clinically relevant concentrations, including the organic anion transporting polypeptides (OATP1B1 and OATP1B3).
-Macitentan and its active metabolite are not relevant substrates of OATP1B1 and OATP1B3, but enter the liver by passive diffusion.
+Macitentan and its active metabolite are not relevant substrates of OATP1B1 and OATP1B3 but enter the liver by passive diffusion.
 
 Macitentan and its active metabolite are not inhibitors of hepatic or renal efflux pumps at clinically relevant concentrations, including the multi-drug resistance protein (P-gp, MDR-1) and multidrug and toxin extrusion transporters (MATE1 and MATE2-K).
-Macitentan inhibits the breast cancer resistance protein (BCRP) at clinically relevant intestinal concentrations.
 Macitentan is not a substrate for P-gp/MDR-1.
 
 At clinically relevant concentrations, macitentan and its active metabolite do not interact with proteins involved in hepatic bile salt transport, i.e., the bile salt export pump (BSEP) and the sodium-dependent taurocholate co-transporting polypeptide (NTCP).
@@ -40,6 +39,8 @@ In a placebo-controlled trial in patients with PAH, the efficacy and safety of m
 Cyclosporine A: Concomitant treatment with cyclosporine A 100 mg twice daily, a combined CYP3A4 and OATP inhibitor, did not alter the steady-state exposure to macitentan and its active metabolite to a clinically relevant extent.
 
 Hormonal contraceptives: Macitentan 10 mg once daily did not affect the pharmacokinetics of an oral contraceptive (norethisterone 1 mg and ethinyl estradiol 35 µg).
+
+Breast cancer resistance protein (BCRP) substrate drugs: Macitentan 10 mg once daily did not affect the pharmacokinetics of a BCRP substrate drug (riociguat 1 mg; rosuvastatin 10 mg).
 
 Paediatric population
 

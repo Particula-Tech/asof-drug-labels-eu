@@ -5,7 +5,7 @@ The benefit/risk balance of macitentan has not been established in patients with
 Liver function
 
 Elevations of liver aminotransferases (AST, ALT) have been associated with PAH and with endothelin receptor antagonists (ERAs).
-Opsumit is not to be initiated in patients with severe hepatic impairment or elevated aminotransferases (> 3 × ULN) (see sections 4.2 and 4.3), and is not recommended in patients with moderate hepatic impairment.
+Opsumit is not to be initiated in patients with severe hepatic impairment or elevated aminotransferases (> 3 × ULN) (see sections 4.2 and 4.3) and is not recommended in patients with moderate hepatic impairment.
 Liver enzyme tests should be obtained prior to initiation of Opsumit.
 
 Patients should be monitored for signs of hepatic injury and monthly monitoring of ALT and AST is recommended.

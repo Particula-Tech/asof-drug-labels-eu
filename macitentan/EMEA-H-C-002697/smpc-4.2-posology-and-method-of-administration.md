@@ -12,7 +12,7 @@ Elderly
 
 No dose adjustment is required in patients over the age of 65 years (see section 5.2).
 There is limited clinical experience in patients over the age of 75 years.
-Therefore Opsumit should be used with caution in this population (see section 4.4).
+Therefore, Opsumit should be used with caution in this population (see section 4.4).
 
 Hepatic impairment
 
