@@ -18,4 +18,4 @@ Powder for oral suspension.
 
 Film-coated tablets (tablets).
 
-CellCept tablets: lavender-coloured caplet-shaped tablet, engraved with "CellCept 500" on one side and "ROCHE" on the other.
+CellCept tablets: lavender-coloured caplet-shaped tablet, engraved with "CellCept 500" on one side and "Roche" on the other.

@@ -135,6 +135,7 @@ Table 1 Summary of adverse drug reactions occurring in patients treated with Cel
 | Malaise | Common | Common | Common |
 | Pain | Common | Very Common | Very Common |
 | Pyrexia | Very Common | Very Common | Very Common |
+| De novo purine synthesis inhibitors associated acute inflammatory syndrome | Uncommon | Uncommon | Uncommon |
 
 Note: 991 (2 g /3 g CellCept daily), 289 (3 g CellCept daily) and 277 (2 g IV / 3 g oral CellCept daily) patients were treated in Phase III studies for the prevention of rejection in renal, cardiac and hepatic transplantation, respectively.
 
@@ -157,10 +158,13 @@ Blood and lymphatic disorders
 Cytopenias, including leukopenia, anemia, thrombocytopenia and pancytopenia, are known risks associated with mycophenolate mofetil and may lead or contribute to the occurrence of infections and hemorrhages (see section 4.4).
 Agranulocytosis and neutropenia have been reported; therefore, regular monitoring of patients taking CellCept is advised (see section 4.4).
 There have been reports of aplastic anaemia and bone marrow failure in patients treated with CellCept, some of which have been fatal.
+
 Cases of pure red cell aplasia (PRCA) have been reported in patients treated with CellCept (see section 4.4).
+
 Isolated cases of abnormal neutrophil morphology, including the acquired Pelger-Huet anomaly, have been observed in patients treated with CellCept.
 These changes are not associated with impaired neutrophil function.
 These changes may suggest a ‘left shift’ in the maturity of neutrophils in haematological investigations, which may be mistakenly interpreted as a sign of infection in immunosuppressed patients such as those that receive CellCept.
+
 Gastrointestinal disorders
 The most serious gastrointestinal disorders were ulceration and hemorrhage which are known risks associated with mycophenolate mofetil.
 Mouth, esophageal, gastric, duodenal, and intestinal ulcers often complicated by hemorrhage, as well as hematemesis, melena, and hemorrhagic forms of gastritis and colitis were commonly reported during the pivotal clinical trials.
@@ -186,6 +190,9 @@ Hypogammaglobulinaemia has been reported in patients receiving CellCept in combi
 General disorders and administration site conditions
 Edema, including peripheral, face and scrotal edema, was reported very commonly during the pivotal trials.
 Musculoskeletal pain such as myalgia, and neck and back pain were also very commonly reported.
+
+De novo purine synthesis inhibitors associated acute inflammatory syndrome has been described from post-marketing experience as a paradoxical proinflammatory reaction associated with mycophenolate mofetil and mycophenolic acid, characterised by fever, arthralgia, arthritis, muscle pain and elevated inflammatory markers.
+Literature case reports showed rapid improvement following discontinuation of the medicinal product.
 
 Special populations
 
@@ -334,8 +341,10 @@ Due to the large differences observed in the frequency of certain ADRs across th
 | Malaise | Common | Common |
 | Pain | Common | Very Common |
 | Pyrexia | Very Common | Very Common |
+| De novo purine synthesis inhibitors associated acute inflammatory syndrome | Uncommon | Uncommon |
 
 Note: 991 (2 g / 3 g CellCept daily) and 277 (2 g IV / 3 g oral CellCept daily) patients were treated in Phase III studies for the prevention of rejection in renal and hepatic transplantation, respectively
+
 Adverse reactions attributable to peripheral venous infusion were phlebitis and thrombosis, both observed at 4% in patients treated with CellCept 500 mg powder for concentrate for solution for infusion.
 
 Three-year safety data in renal transplant patients did not reveal any unexpected changes in incidence of malignancy compared to the 1-year data.

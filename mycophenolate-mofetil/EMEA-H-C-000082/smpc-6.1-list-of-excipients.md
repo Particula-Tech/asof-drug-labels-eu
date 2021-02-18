@@ -17,4 +17,5 @@ CellCept 1 g/5 ml powder for oral suspension sorbitol silica, colloidal anhydrou
 [CellCept 500 mg film-coated tablets.]
 
 CellCept tablets microcrystalline cellulose polyvidone (K-90) croscarmellose sodium magnesium stearate
+
 Tablet coating hydroxypropyl methylcellulose hydroxypropyl cellulose titanium dioxide (E171) polyethylene glycol 400 indigo carmine aluminium lake (E132) red iron oxide (E172)

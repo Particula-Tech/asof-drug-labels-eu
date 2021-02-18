@@ -8,12 +8,12 @@ The mean bioavailability of oral mycophenolate mofetil, based on MPA AUC, is 94%
 Food had no effect on the extent of absorption (MPA AUC) of mycophenolate mofetil when administered at doses of 1.5 g BID to renal transplant patients.
 However, MPA Cmax was decreased by 40% in the presence of food.
 Mycophenolate mofetil is not measurable systemically in plasma following oral administration.
-
 Distribution
 
 As a result of enterohepatic recirculation, secondary increases in plasma MPA concentration are usually observed at approximately 6 - 12 hours post-dose.
 A reduction in the AUC of MPA of approximately 40% is associated with the co-administration of cholestyramine (4 g TID), indicating that there is a significant amount of enterohepatic recirculation.
 MPA at clinically relevant concentrations is 97% bound to plasma albumin.
+
 Biotransformation
 
 MPA is metabolised principally by glucuronyl transferase (isoform UGT1A9) to form the inactive phenolic glucuronide of MPA (MPAG).
@@ -49,7 +49,6 @@ In patients with delayed renal graft function post-transplant, mean MPA AUC0-12h
 Mean plasma MPAG AUC0-12h was 2 – 3-fold higher than in post-transplant patients without delayed graft function.
 There may be a transient increase in the free fraction and concentration of plasma MPA in patients with delayed renal graft function.
 Dose adjustment of CellCept does not appear to be necessary.
-
 Hepatic impairment
 In volunteers with alcoholic cirrhosis, hepatic MPA glucuronidation processes were relatively unaffected by hepatic parenchymal disease.
 Effects of hepatic disease on this process probably depend on the particular disease.
