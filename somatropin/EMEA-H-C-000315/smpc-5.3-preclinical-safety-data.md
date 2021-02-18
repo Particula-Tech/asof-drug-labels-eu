@@ -14,6 +14,6 @@ No conventional reproduction studies were performed.
 Somatropin is known to be associated with inhibition of the reproduction in male and female rats at doses of 3 IU/kg/day (1 mg/kg/day) or more, with reduced copulation and conception rates, lengthened or absent oestrous cycles, and at 10 IU/kg/day (3.3 mg/kg/day).
 Long-term treatment of monkeys during pregnancy and lactation and of newborn animals until adolescence, sexual maturity and reproduction did not indicate substantial disturbances of fertility, pregnancy, delivery, nursing or development of progeny.
 
-Environmental Risk Assessment (ERA)
+Environmental risk assessment (ERA)
 
 Under the proposed indications, the use of somatropin is not expected to result in an unacceptable risk to the environment.

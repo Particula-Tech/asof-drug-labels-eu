@@ -17,6 +17,7 @@ It is typically associated with papilloedema, visual changes, headache, nausea, 
 
 NutropinAq reduces insulin sensitivity; glucose tolerance impairment was reported in both the pivotal and supportive clinical trials and the post-marketing surveillance survey.
 Events of diabetes mellitus and hyperglycaemia were reported in the post-marketing surveillance survey (see section 4.4).
+
 Injection site reactions such as haemorrhage, atrophy, urticaria and pruritus were reported in the pivotal and supportive clinical trials and/or the post-marketing surveillance survey.
 These events can be avoided by correct injection technique and rotation of injection sites.
 A small percentage of patients may develop antibodies to the protein somatropin.
@@ -46,7 +47,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 | Skin and subcutaneous tissue disorders | Uncommon: Exfoliative dermatitis, skin atrophy, skin hypertrophy, hirsutism, lipodystrophy, urticaria | Rare: Generalised pruritus, urticaria, rash |
 | Musculoskeletal and connective tissue disorders | Very common in adults, common in children: Arthralgia, myalgia Uncommon: Muscle atrophy, bone pain | Uncommon: Slipped capital femoral epiphysis, scoliosis progression, arthralgia Rare: Bone development abnormal, osteochondrosis, muscular weakness, pain in extremity |
 | Renal and urinary disorders | Uncommon: Urinary incontinence, pollakiuria, polyuria, urine abnormality |  |
-| Reproductive system and breast disorders | Uncommon: Uterine haemorrhage, genital discharge | Rare: Gynaecomastia |
+| Reproductive system and breast disorders | Uncommon: Uterine haemorrhage, genital discharge | Uncommon: Gynaecomastia |
 | General disorders and administration site conditions | Very common in adults, common in children: Peripheral oedema, oedema Common: Asthenia, injection site reaction Uncommon: Injection site haemorrhage, injection site atrophy, injection site mass, hypertrophy | Uncommon: Peripheral oedema, oedema, injection site reaction (irritation, pain) Rare: Asthenia, face oedema, fatigue, irritability, pain, pyrexia, injection site reaction (haemorrhage, haematoma, atrophy, urticaria, pruritus, swelling, erythema) |
 | Investigations | Common: Drug specific antibody present | Rare: Blood glucose increased, weight increased |
 

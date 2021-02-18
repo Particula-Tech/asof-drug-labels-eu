@@ -23,7 +23,10 @@ Therefore, the benefit-risk assessment for continuing treatment should be perfor
 Chronic renal insufficiency
 Patients with growth hormone failure secondary to CRI should be examined periodically for evidence of progression of renal osteodystrophy.
 Slipped capital femoral epiphyses and aseptic necrosis of the femoral head may be seen in children with advanced renal osteodystrophy and in growth hormone deficiency, and it is uncertain whether these problems are affected by GH therapy.
-Physicians and parents should be alert to the development of a limp or complaints of hip or knee pain in patients treated with NutropinAq.
+
+Slipped capital femoral epiphysis
+In patients with endocrine disorders, including growth hormone deficiency, slipped epiphyses of the hip may occur more frequently than in the general population.
+A patient treated with somatropin who develops a limp or complains of hip or knee pain should be evaluated by a physician.
 
 Scoliosis
 Scoliosis may progress in any child during rapid growth.
@@ -35,6 +38,7 @@ Because somatropin may reduce insulin sensitivity, patients should be monitored 
 For patients with diabetes mellitus, the insulin dose may require adjustment after NutropinAq therapy is instituted.
 Patients with diabetes or glucose intolerance should be monitored closely during somatropin therapy.
 Somatropin therapy is not indicated in diabetic patients with active proliferative or severe non-proliferative retinopathy.
+
 Intracranial hypertension
 Intracranial hypertension with papilloedema, visual changes, headache, nausea and/or vomiting has been reported in a small number of patients treated with somatropin.
 Symptoms usually occur within the first eight weeks of the initiation of NutropinAq therapy.
@@ -58,9 +62,8 @@ Leukaemia
 Leukaemia has been reported in a small number of growth hormone deficient patients treated with growth hormone.
 A causal relationship to somatropin therapy has not been established.
 
-Pancreatitis in children
-Children treated with somatropin have an increased risk of developing pancreatitis compared to adults treated with somatropin.
-Although rare, pancreatitis should be considered in somatropin-treated children who develop abdominal pain.
+Pancreatitis
+Although rare, pancreatitis should be considered in somatropin-treated patients who develop abdominal pain, especially in children.
 
 Use with oral oestrogen therapy
 If a woman taking NutropinAq begins oral oestrogen therapy, the dose of NutropinAq may need to be increased to maintain the serum IGF-1 levels within the normal age appropriate range.
@@ -68,3 +71,6 @@ Conversely, if a woman on NutropinAq discontinues oral oestrogen therapy, the do
 
 Excipients
 This medicinal product contains less than 1 mmol sodium (23 mg) per cartridge, i.e. essentially “sodium- free‟.
+
+Traceability
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
