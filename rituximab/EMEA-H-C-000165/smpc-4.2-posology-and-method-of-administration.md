@@ -159,9 +159,7 @@ Table 2 Treatment Plan for Non-Hodgkin’s lymphoma paediatric patients: Concomi
 | BAL = Burkitt leukaemia (mature B-cell acute leukaemia); CSF = Cerebrospinal Fluid; CNS = Central Nervous System; HDMTX = High-dose Methotrexate; LDH = Lactic Acid Dehydrogenase |  |  |
 
 Granulomatosis with polyangiitis (GPA) and microscopic polyangiitis (MPA)
-
 Induction of remission
-
 The recommended dosage of MabThera for induction of remission therapy in paediatric patients with severe, active GPA or MPA is 375 mg/m2 BSA, administered as an IV infusion once weekly for 4 weeks.
 
 The safety and efficacy of MabThera in paediatric patients (≥ 2 to < 18 years of age) has not been established in indications other than severe, active GPA or MPA.
@@ -209,7 +207,7 @@ Rheumatoid arthritis only
 Alternative subsequent, faster, infusion schedule
 
 If patients did not experience a serious infusion-related reaction with their first or subsequent infusions of a dose of 1000 mg MabThera administered over the standard infusion schedule, a more rapid infusion can be administered for second and subsequent infusions using the same concentration as in previous infusions (4 mg/mL in a 250 mL volume).
-Initiate at a rate of 250mg/hour for the first 30 minutes and then 600 mg/hour for the next 90 minutes.
+Initiate at a rate of 250 mg/hour for the first 30 minutes and then 600 mg/hour for the next 90 minutes.
 If the more rapid infusion is tolerated, this infusion schedule can be used when administering subsequent infusions.
 
 Patients who have clinically significant cardiovascular disease, including arrhythmias, or previous serious infusion reactions to any prior biologic therapy or to rituximab, should not be administered the more rapid infusion.
@@ -271,7 +269,7 @@ Premedication with glucocorticoids should be considered if MabThera is not given
 
 The recommended dose of MabThera subcutaneous formulation used for adult patients is a subcutaneous injection at a fixed dose of 1600 mg irrespective of the patient’s body surface area.
 
-MabThera subcutaneous formulation is not intended for intravenous administration and should be given via subcutaneous injection only.The 1600 mg strength is intended for subcutaneous use in CLL only.
+The 1600 mg strength is intended for subcutaneous use in CLL only.
 
 Prophylaxis with adequate hydration and administration of uricostatics starting 48 hours prior to start
 of therapy is recommended for CLL patients to reduce the risk of tumour lysis syndrome. For CLL

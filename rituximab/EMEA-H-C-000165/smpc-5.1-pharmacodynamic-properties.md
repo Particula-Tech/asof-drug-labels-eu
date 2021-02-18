@@ -4,17 +4,17 @@ Pharmacotherapeutic group: antineoplastic agents, monoclonal antibodies, ATC cod
 
 Rituximab binds specifically to the transmembrane antigen, CD20, a non-glycosylated phosphoprotein, located on pre-B and mature B lymphocytes.
 The antigen is expressed on >95 % of all B cell non-Hodgkin’s lymphomas.
-
 CD20 is found on both normal and malignant B cells, but not on haematopoietic stem cells, pro-B cells, normal plasma cells or other normal tissue.
 This antigen does not internalise upon antibody binding and is not shed from the cell surface.
 CD20 does not circulate in the plasma as a free antigen and, thus, does not compete for antibody binding.
+
 The Fab domain of rituximab binds to the CD20 antigen on B lymphocytes and the Fc domain can recruit immune effector functions to mediate B cell lysis.
 Possible mechanisms of effector-mediated cell lysis include complement-dependent cytotoxicity (CDC) resulting from C1q binding, and antibody-dependent cellular cytotoxicity (ADCC) mediated by one or more of the Fcγ receptors on the surface of granulocytes, macrophages and NK cells.
 Rituximab binding to CD 20 antigen on B lymphocytes has also been demonstrated to induce cell death via apoptosis.
 
 Peripheral B cell counts declined below normal following completion of the first dose of MabThera.
 In patients treated for haematological malignancies, B cell recovery began within 6 months of treatment and generally returned to normal levels within 12 months after completion of therapy, although in some patients this may take longer (up to a median recovery time of 23 months post-induction therapy).
-In rheumatoid arthritis patients, immediate depletion of B cells in the peripheral blood was observed following two infusions of 1000 mg MabThera separated by a 14 day interval.
+In rheumatoid arthritis patients, immediate depletion of B cells in the peripheral blood was observed following two infusions of 1000 mg MabThera separated by a 14-day interval.
 Peripheral blood B cell counts begin to increase from week 24 and evidence for repopulation is observed in the majority of patients by week 40, whether MabThera was administered as monotherapy or in combination with methotrexate.
 A small proportion of patients had prolonged peripheral B cell depletion lasting 2 years or more after their last dose of MabThera.
 In patients with GPA or MPA, the number of peripheral blood B cells decreased to <10 cells/μL after two weekly infusions of rituximab 375 mg/m2, and remained at that level in most patients up to the 6 month timepoint.
@@ -36,7 +36,6 @@ Neither age, sex, lymphoma grade, initial diagnosis, presence or absence of bulk
 A statistically significant correlation was noted between response rates and bone marrow involvement.
 40% of patients with bone marrow involvement responded compared to 59% of patients with no bone marrow involvement (p=0.0186).
 This finding was not supported by a stepwise logistic regression analysis in which the following factors were identified as prognostic factors: histological type, bcl-2 positivity at baseline, resistance to last chemotherapy and bulky disease.
-
 Initial treatment, weekly for 8 doses
 In a multi-centre, single-arm trial, 37 patients with relapsed or chemoresistant, low grade or follicular B cell NHL received 375 mg/m2 of MabThera as intravenous infusion weekly for eight doses.
 The ORR was 57% (95% Confidence interval (CI); 41% – 73%; CR 14%, PR 43%) with a projected median TTP for responding patients of 19.4 months (range 5.3 to 38.9 months).
@@ -57,7 +56,7 @@ Initial treatment, in combination with chemotherapy
 In an open-label randomised trial, a total of 322 previously untreated patients with follicular lymphoma were randomised to receive either CVP chemotherapy (cyclophosphamide 750 mg/m2, vincristine 1.4 mg/m2 up to a maximum of 2 mg on day 1, and prednisolone 40 mg/m2/day on days 1 -5) every 3 weeks for 8 cycles or MabThera 375 mg/m2 in combination with CVP (R-CVP).
 MabThera was administered on the first day of each treatment cycle.
 A total of 321 patients (162 R-CVP, 159 CVP) received therapy and were analysed for efficacy.
-The median follow up of patients was 53 months.
+The median follow-up of patients was 53 months.
 R-CVP led to a significant benefit over CVP for the primary endpoint, time to treatment failure (27 months vs. 6.6 months, p < 0.0001, log-rank test).
 The proportion of patients with a tumour response (CR, CRu, PR) was significantly higher (p< 0.0001 Chi-Square test) in the R-CVP group (80.9%) than the CVP group (57.2%).
 Treatment with R-CVP significantly prolonged the time to disease progression or death compared to CVP, 33.6 months and 14.7 months, respectively
@@ -70,7 +69,7 @@ Results from three other randomised trials using MabThera in combination with ch
 Key results from all four studies are summarised in Table 8.
 Table 8 Summary of key results from four phase III randomised studies evaluating the benefit of MabThera with different chemotherapy regimens in follicular lymphoma
 
-| Study | Treatment, N | Median FU, months | ORR, % | CR, % | Median TTF/PFS/ EFS mo | OS rates, % |
+| Study | Treatment, N | Median FU, months | ORR, % | CR, % | Median TTF/PFS/ EFS, months | OS rates, % |
 | --- | --- | --- | --- | --- | --- | --- |
 | M39021 | CVP, 159 R-CVP, 162 | 53 | 57 81 | 10 41 | Median TTP: 14.7 33.6 P<0.0001 | 53-months 71.1 80.9 p=0.029 |
 | GLSG’00 | CHOP, 205 R-CHOP, 223 | 18 | 90 96 | 17 20 | Median TTF: 2.6 years Not reached p < 0.001 | 18-months 90 95 p = 0.016 |
@@ -112,7 +111,7 @@ Table 9 Overview of efficacy results for MabThera maintenance vs. observation at
 * at end of maintenance/observation; final analysis results based on median follow-up of 73 months.
 FU: follow-up; NR: not reached at time of clinical cut off, TNCT: time to next chemotherapy treatment; TNLT: time to next anti lymphoma treatment.
 
-MabThera maintenance treatment provided consistent benefit in all predefined subgroups tested: gender (male, female), age (< 60 years, >= 60 years), FLIPI score (<=1, 2 or >= 3), induction therapy (R-CHOP, R-CVP or R-FCM) and regardless of the quality of response to induction treatment (CR,CRu or PR).
+MabThera maintenance treatment provided consistent benefit in all predefined subgroups tested: gender (male, female), age (< 60 years, >= 60 years), FLIPI score (<=1, 2 or >= 3), induction therapy (R-CHOP, R-CVP or R-FCM) and regardless of the quality of response to induction treatment (CR, CRu or PR).
 Exploratory analyses of the benefit of maintenance treatment showed a less pronounced effect in elderly patients (> 70 years of age), however sample sizes were small.
 
 Relapsed/Refractory follicular lymphoma
@@ -136,7 +135,8 @@ The “primary” statistical test for “response” was the trend test of CR v
 Abbreviations: NA, not available; ORR: overall response rate; CR: complete response; PR: partial response
 
 For patients randomised to the maintenance phase of the trial, the median observation time was 28 months from maintenance randomisation.
-Maintenance treatment with MabThera led to a clinically relevant and statistically significant improvement in the primary endpoint, PFS, (time from maintenance randomisation to relapse, disease progression or death) when compared to observation alone (p< 0.0001 log-rank test).The median PFS was 42.2 months in the MabThera maintenance arm compared to 14.3 months in the observation arm.
+Maintenance treatment with MabThera led to a clinically relevant and statistically significant improvement in the primary endpoint, PFS, (time from maintenance randomisation to relapse, disease progression or death) when compared to observation alone (p< 0.0001 log-rank test).
+The median PFS was 42.2 months in the MabThera maintenance arm compared to 14.3 months in the observation arm.
 Using a cox regression analysis, the risk of experiencing progressive disease or death was reduced by 61% with MabThera maintenance treatment when compared to observation (95% CI; 45%-72%).
 Kaplan-Meier estimated progression-free rates at 12 months were 78% in the MabThera maintenance group vs. 57 % in the observation group.
 An analysis of overall survival confirmed the significant benefit of MabThera maintenance over observation (p=0.0039 log-rank test).
@@ -173,7 +173,7 @@ A subsequent analysis of the duration of overall survival, carried out with a me
 The analysis of all secondary parameters (response rates, progression-free survival, disease-free survival, duration of response) verified the treatment effect of R-CHOP compared to CHOP.
 The complete response rate after cycle 8 was 76.2% in the R-CHOP group and 62.4% in the CHOP group (p=0.0028).
 The risk of disease progression was reduced by 46% and the risk of relapse by 51%.
-In all patients subgroups (gender, age, age adjusted IPI, Ann Arbor stage, ECOG, β2 microglobulin, LDH, albumin, B symptoms, bulky disease, extranodal sites, bone marrow involvement), the risk ratios for event-free survival and overall survival (R-CHOP compared with CHOP) were less than 0.83 and 0.95 respectively.
+In all patient subgroups (gender, age, age adjusted IPI, Ann Arbor stage, ECOG, β2 microglobulin, LDH, albumin, B symptoms, bulky disease, extranodal sites, bone marrow involvement), the risk ratios for event-free survival and overall survival (R-CHOP compared with CHOP) were less than 0.83 and 0.95 respectively.
 R-CHOP was associated with improvements in outcome for both high- and low-risk patients according to age adjusted IPI.
 
 Clinical laboratory findings
@@ -341,16 +341,16 @@ Table 16 Radiographic outcomes at 1 year (mITT population)
 Abbreviation: NS, non significant
 
 Inhibition of the rate of progressive joint damage was also observed long term.
-Radiographic analysis at 2 years in Trial 1 demonstrated significantly reduced progression of structural joint damage in patients receiving MabThera in combination with methotrexate compared to methotrexate alone as well as a significantly higher proportion of patients with no progression of joint damage over the 2 year period.
+Radiographic analysis at 2 years in Trial 1 demonstrated significantly reduced progression of structural joint damage in patients receiving MabThera in combination with methotrexate compared to methotrexate alone as well as a significantly higher proportion of patients with no progression of joint damage over the 2-year period.
 
 Physical function and quality of life outcomes
 Significant reductions in disability index (HAQ-DI) and fatigue (FACIT-Fatigue) scores were observed in patients treated with MabThera compared to patients treated with methotrexate alone.
 The proportions of MabThera treated patients showing a minimal clinically important difference (MCID) in HAQ-DI (defined as an individual total score decrease of >0.22) was also higher than among patients receiving methotrexate alone (Table 17).
 
-Significant improvement in health related quality of life was also demonstrated with significant improvement in both the physical health score (PHS) and mental health score (MHS) of the SF-36.
+Significant improvement in health-related quality of life was also demonstrated with significant improvement in both the physical health score (PHS) and mental health score (MHS) of the SF-36.
 Further, a significantly higher proportion of patients achieved MCIDs for these scores (Table 17).
 
-Table 17 Physical Function and Quality of Life outcomes at week 24 in Trial 1
+Table 17 Physical function and quality of life outcomes at week 24 in Trial 1
 
 | Outcome† | Placebo+MTX | MabThera+MTX (2 x 1000 mg) |
 | --- | --- | --- |
@@ -418,11 +418,11 @@ See Section 4.2 for information on paediatric use.
 Clinical experience in granulomatosis with polyangiitis (GPA) and microscopic polyangiitis (MPA)
 
 Adult induction of remission
-A total of 197 patients aged 15 years or older with severe active GPA (75%) and MPA (24%) were enrolled and treated in an active-comparator, randomised, double-blind, multicenter, non-inferiority trial.
+In GPA/MPA Study 1, a total of 197 patients aged 15 years or older with severe active GPA (75%) and MPA (24%) were enrolled and treated in an active-comparator, randomised, double-blind, multicenter, non-inferiority trial.
 
-Patients were randomised in a 1:1 ratio to receive either oral cyclophosphamide daily (2mg/kg/day) for 3-6 months or MabThera (375 mg/m2) once weekly for 4 weeks.
+Patients were randomised in a 1:1 ratio to receive either oral cyclophosphamide daily (2 mg/kg/day) for 3-6 months or MabThera (375 mg/m2) once weekly for 4 weeks.
 All patients in the cyclophosphamide arm received azathioprine maintenance therapy in during follow-up.
-Patients in both arms received 1000mg of pulse intravenous (IV) methylprednisolone (or another equivalent-dose glucocorticoid) per day for 1 to 3 days, followed by oral prednisone (1 mg/kg/day, not exceeding 80 mg/day).
+Patients in both arms received 1000 mg of pulse intravenous (IV) methylprednisolone (or another equivalent-dose glucocorticoid) per day for 1 to 3 days, followed by oral prednisone (1 mg/kg/day, not exceeding 80 mg/day).
 Prednisone tapering was to be completed by 6 months from the start of trial treatment.
 
 The primary outcome measure was achievement of complete remission at 6 months defined as a Birmingham Vasculitis Activity Score for Wegener’s granulomatosis (BVAS/WG) of 0, and off glucocorticoid therapy.
@@ -493,9 +493,12 @@ Survival Time (Months)
 | Rituximab | 58 | 56 | 56 | 56 | 55 | 54 | 54 | 54 | 54 | 54 | 54 | 54 | 52 | 50 | 0 |
 
 Note: Patients were censored at month 28 if they had no event.
+
 Laboratory evaluations
-A total of 6/34 (18%) of MabThera treated patients from the maintenance therapy clinical trial developed ADA.
-There was no apparent trend or negative impact of the presence of ADA on safety or efficacy in the maintenance therapy clinical trial.
+
+A total of 6/34 (18%) of MabThera treated patients from the maintenance therapy clinical trial
+developed ADA. There was no apparent trend or negative impact of the presence of ADA on safety or
+efficacy in the maintenance therapy clinical trial.
 
 Paediatric population
 
@@ -554,6 +557,7 @@ See section 4.2 for information on paediatric use.
 
 Clinical experience in pemphigus vulgaris
 
+PV Study 1 (Study ML22196)
 The efficacy and safety of MabThera in combination with short-term, low-dose glucocorticoid (prednisone) therapy were evaluated in newly diagnosed patients with moderate to severe pemphigus (74 pemphigus vulgaris [PV] and 16 pemphigus foliaceus [PF]) in this randomised, open-label, controlled, multicenter study.
 Patients were between 19 and 79 years of age and had not received prior therapies for pemphigus.
 In the PV population, 5 (13%) patients in the MabThera group and 3 (8%) patients in the standard prednisone group had moderate disease and 33 (87%) patients in the MabThera group and 33 (92%) patients in the standard-dose prednisone group had severe disease according to disease severity defined by Harman’s criteria.
@@ -566,11 +570,10 @@ Patients in the MabThera group who relapsed could receive an additional infusion
 Maintenance and relapse infusions were administered no sooner than 16 weeks following the previous infusion.
 The primary objective for the study was complete remission (complete epithelialisation and absence of new and/or established lesions) at month 24 without the use of prednisone therapy for two months or more (CRoff for ≥2 months).
 
-Results
+PV Study 1 Results
 The study showed statistically significant results of MabThera and low-dose prednisone over standard-dose prednisone in achieving CRoff ≥ 2 months at month 24 in PV patients (see Table 22).
 
 Table 22 Percentage of PV patients who achieved complete remission off corticosteroid therapy for two months or more at month 24 (Intent-to-Treat Population - PV)
-
 Rituximab + Prednisone
 
 Prednisone N=36 p-value a 95% CIb
@@ -589,11 +592,42 @@ Post-hoc retrospective laboratory evaluation
 A total of 19/34 (56%) patients with PV, who were treated with MabThera, tested positive for ADA antibodies by 18 months.
 The clinical relevance of ADA formation in MabThera-treated PV patients is unclear.
 
+PV Study 2 (Study WA29330)
+In a randomized, double-blind, double-dummy, active-comparator, multicenter study, the efficacy and safety of MabThera compared with mycophenolate mofetil (MMF) were evaluated in patients with moderate-to-severe PV receiving 60-120 mg/day oral prednisone or equivalent (1.0-1.5 mg/kg/day) at study entry and tapered to reach a dose of 60 or 80 mg/day by Day 1.
+Patients had a confirmed diagnosis of PV within the previous 24 months and evidence of moderate-to-severe disease (defined as a total Pemphigus Disease Area Index, PDAI, activity score of ≥ 15).
+One hundred and thirty-five patients were randomized to treatment with MabThera 1000 mg administered on Day 1, Day 15, Week 24 and Week 26 or oral MMF 2 g/day for 52 weeks in combination with 60 or 80 mg oral prednisone with the aim of tapering to 0 mg/day prednisone by Week 24.
+
+The primary efficacy objective for this study was to evaluate at week 52, the efficacy of MabThera compared with MMF in achieving sustained complete remission defined as achieving healing of lesions with no new active lesions (i.e., PDAI activity score of 0) while on 0 mg/day prednisone or equivalent, and maintaining this response for at least 16 consecutive weeks, during the 52-week treatment period.
+
+PV Study 2 Results
+The study demonstrated the superiority of MabThera over MMF in combination with a tapering course of oral corticosteroids in achieving CRoff corticosteroid ≥ 16 weeks at Week 52 in PV patients (Table 23).The majority of patients in the mITT population were newly diagnosed (74%) and 26% of patients had established disease (duration of illness ≥ 6 months and received prior treatment for PV).
+
+Table 23 Percentage of PV Patients Who Achieved Sustained Complete Remission Off Corticosteroid Therapy for 16 Weeks or More at Week 52 (Modified Intent-to-Treat Population)
+
+|  | MabThera (N=62) | MMF (N=63) | Difference (95% CI) | p-value |
+| --- | --- | --- | --- | --- |
+| Number of responders (response rate [%]) Newly diagnosed patients Patients with established disease | 25 (40.3%) 19 (39.6%) 6 (42.9%) | 6 (9.5%) 4 (9.1%) 2 (10.5%) | 30.80% (14.70%, 45.15%) | <0.0001 |
+| MMF = Mycophenolate mofetil. CI = Confidence Interval. Newly diagnosed patients = duration of illness < 6 months or no prior treatment for PV. Patients with established disease = duration of illness ≥ 6 months and received prior treatment for PV. Cochran-Mantel-Haenszel test is used for p-value. |  |  |  |  |
+
+The analysis of all secondary parameters (including cumulative oral corticosteroid dose, the total number of disease flares, and change in health-related quality of life, as measured by the Dermatology Life Quality Index) verified the statistically significant results of MabThera compared to MMF.
+Testing of secondary endpoints were controlled for multiplicity.
+
+Glucocorticoid exposure
+The cumulative oral corticosteroid dose was significantly lower in patients treated with MabThera.
+The median (min, max) cumulative prednisone dose at Week 52 was 2775 mg (450, 22180) in the MabThera group compared to 4005 mg (900, 19920) in the MMF group (p=0.0005).
+
+Disease flare
+The total number of disease flares was significantly lower in patients treated with MabThera compared to MMF (6 vs. 44, p<0.0001) and there were fewer patients who had at least one disease flare (8.1% vs. 41.3%).
+Laboratory evaluations
+By week 52, a total of 20/63 (31.7%) (19 treatment-induced and 1 treatment-enhanced) MabThera - treated PV patients tested positive for ADA.
+There was no apparent negative impact of the presence of ADA on safety or efficacy in PV Study 2.
+
 [MabThera 1400 mg solution for subcutaneous injection]
 
 MabThera subcutaneous formulation contains recombinant human hyaluronidase (rHuPH20), an enzyme used to increase the dispersion and absorption of co-administered substances when administered subcutaneously.
 
 In patients treated for hematological malignancies, B cell recovery began within 6 months of treatment and generally returned to normal levels within 12 months after completion of therapy, although in some patients this may take longer (up to a median recovery time of 23 months post-induction therapy).
+In rheumatoid arthritis patients, immediate depletion of B cells in the peripheral blood was observed following two infusions of 1000 mg MabThera separated by a 14 day interval.
 
 Clinical experience of MabThera subcutaneous formulation in Non-Hodgkin’s lymphoma
 
@@ -622,7 +656,7 @@ Patients achieving at least partial response (PR) were entered on the MabThera s
 
 Patients achieving at least PR were entered on MabThera intravenous formulation maintenance therapy once every 8 weeks for 24 months.
 
-key efficacy results for the pooled analysis of 410 patients in SABRINA stages 1 and 2 are shown in table 2.
+Key efficacy results for the pooled analysis of 410 patients in SABRINA stages 1 and 2 are shown in table 2.
 Table 2 Efficacy results for SABRINA (BO22334) (Intent to Treat Population)
 
 Pooled Stages 1 & 2
@@ -659,6 +693,7 @@ There was no apparent impact of the presence of anti-rituximab or anti-rHuPH20 a
 Clinical experience of MabThera concentrate for solution for infusion in Non-Hodgkin’s lymphoma
 
 Initial treatment in combination with chemotherapy
+The median follow up of patients was 53 months.
 The proportion of patients with a tumour response (CR, CRu, PR) was significantly higher (p< 0.0001 Chi-Square test) in the R-CVP group (80.9 %) than the CVP group (57.2 %).
 Treatment with R-CVP significantly prolonged the time to disease progression or death compared to CVP, 33.6 months and 14.7 months, respectively (p
 < 0.0001, log-rank test).
@@ -701,6 +736,7 @@ Table 5 Induction phase: overview of efficacy results for CHOP vs. R-CHOP (31 mo
 Primary efficacy
 
 For patients randomized to the maintenance phase of the trial, the median observation time was 28 months from maintenance randomisation.
+Maintenance treatment with MabThera led to a clinically relevant and statistically significant improvement in the primary endpoint, PFS, (time from maintenance randomisation to relapse, disease progression or death) when compared to observation alone (p< 0.0001 log-rank test).The median PFS was 42.2 months in the MabThera maintenance arm compared to 14.3 months in the observation arm.
 Using a cox regression analysis, the risk of experiencing progressive disease or death was reduced by 61 % with MabThera maintenance treatment when compared to observation (95 % CI; 45 %-72 %).
 Kaplan-Meier estimated progression-free rates at 12 months were 78 % in the MabThera maintenance group vs. 57 % in the observation group.
 MabThera maintenance treatment reduced the risk of death by 56 % (95 % CI; 22 %-75 %).
@@ -711,8 +747,8 @@ Table 6 Maintenance phase: overview of efficacy results MabThera vs. observation
 |  | Observation (N = 167) | MabThera (N=167) | Log-Rank p value |  |
 | Progression-free survival (PFS) | 14.3 | 42.2 | < 0.0001 | 61 % |
 | Overall survival | NR | NR | 0.0039 | 56 % |
-| Time to new lymphoma treatment | 20.1 | 38.8 | < 0.0001 | 50 % |
-| Disease-free survivala | 16.5 | 53.7 | 0.0003 | 67 % |
+| Time to new lymphoma treatment Disease-free survivala | 20.1 | 38.8 | < 0.0001 | 50 % |
+|  | 16.5 | 53.7 | 0.0003 | 67 % |
 | Subgroup analysis PFS CHOP R-CHOP CR PR | 11.6 22.1 14.3 14.3 | 37.5 51.9 52.8 37.8 | < 0.0001 0.0071 0.0008 < 0.0001 | 71 % 46 % 64 % 54 % |
 | OS CHOP R-CHOP | NR NR | NR NR | 0.0348 0.0482 | 55 % 56 % |
 
@@ -727,6 +763,7 @@ A subsequent analysis of the duration of overall survival, carried out with a me
 
 The complete response rate after cycle 8 was 76.2 % in the R-CHOP group and 62.4 % in the CHOP group (p=0.0028).
 The risk of disease progression was reduced by 46 % and the risk of relapse by 51 %.
+In all patients subgroups (gender, age, age adjusted IPI, Ann Arbor stage, ECOG, β2 microglobulin, LDH, albumin, B symptoms, bulky disease, extranodal sites, bone marrow involvement), the risk ratios for event-free survival and overall survival (R-CHOP compared with CHOP) were less than 0.83 and 0.95 respectively.
 
 Of 67 patients evaluated for HAMA, no responses were noted.
 Of 356 patients evaluated for ADA, 1.1 % (4 patients) were positive.
@@ -742,6 +779,7 @@ A two-part phase Ib, multicenter, randomized, open-label, parallel-group trial (
 The objective of the Part 1 was to select a MabThera subcutaneous formulation dose that resulted in comparable MabThera serum Ctrough levels compared with MabThera intravenous formulation.
 A total of 64 patients with CLL were enrolled at any point prior to cycle 5 during their treatment with MabThera intravenous formulation in combination with chemotherapy.
 The dose of 1600 mg of MabThera subcutaneous formulation was selected for the Part 2 of the study.
+
 The objective of the Part 2 was to establish the non-inferiority in observed Ctrough levels between the selected MabThera subcutaneous dose and the reference MabThera intravenous dose.
 A total of 176 patients with CLL were randomized into the following two treatment groups:
 
@@ -765,7 +803,6 @@ Proportion with PFS event 42.0% (n = 37) 34.1% (n = 30)
 95% CI 0.76 [0.47%, 1.23%]
 
 PFS – Progression-Free Survival (proportion with event, disease progression/relapse or death from any cause) a – at 3 month follow-up visit (Part 2) b – at time of final analysis (median follow-up 53 months)
-
 Overall the results confirm that MabThera subcutaneous formulation 1600 mg has a comparable benefit/risk profile to that of MabThera intravenous formulation 500 mg/m2.
 
 Data from the development programme of MabThera subcutaneous formulation indicate that the formation of anti-rituximab antibodies after subcutaneous administration is comparable with that
@@ -793,7 +830,7 @@ Table 2a First--line treatment of chronic lymphocytic leukaemia
 | Efficacy Parameter | Kaplan-Meier Estimate of Median Time to Event (Months) |  |  | Risk Reduction |
 | --- | --- | --- | --- | --- |
 |  | FC (N = 409) | R-FC (N=408) | Log-Rank p value |  |
-| Progression-‑ -free survival (PFS) | 32.8 | 55.3 | <0.0001 | 45% |
+| Progression-‑-free survival (PFS) | 32.8 | 55.3 | <0.0001 | 45% |
 | Overall survival | NR | NR | 0.0319 | 27% |
 | Event free survival | 31.3 | 51.8 | <0.0001 | 44% |
 | Response rate (CR, nPR, or PR) CR rates | 72.6% 16.9% | 85.8% 36.0% | <0.0001 <0.0001 | n.a. n.a. |

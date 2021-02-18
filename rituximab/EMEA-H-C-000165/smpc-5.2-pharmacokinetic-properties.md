@@ -28,10 +28,10 @@ With this dose regimen, trough levels were sustained (geometric means: 41.8 µg/
 The median elimination half-life in paediatric patients aged 3 years and older was 26 days.
 
 The PK characteristics of MabThera in paediatric patients with DLBCL/BL/BAL/BLL were similar to what has been observed in adult NHL patients.
-
-No PK data are available in the ≥ 6 months to < 3 years age group, however, population PK prediction supports comparable systemic exposure (AUC, Ctrough) in this age group compared to ≥ 3 years (Table 23).
+No PK data are available in the ≥ 6 months to < 3 years age group, however, population PK prediction supports comparable systemic exposure (AUC, Ctrough) in this age group compared to ≥ 3 years (Table 24).
 Smaller baseline tumor size is related to higher exposure due to lower time dependent clearance, however, systemic exposures impacted by different tumor sizes remain in the range of exposure that was efficacious and had an acceptable safety profile.
-Table 23: Predicted PK Parameters following the Rituximab Dosing Regimen in Paediatric DLBCL/BL/BAL/BLL
+
+Table 24: Predicted PK Parameters following the Rituximab Dosing Regimen in Paediatric DLBCL/BL/BAL/BLL
 
 | Age group | ≥ 6 mo to < 3 years | ≥ 3 to < 12 years | ≥ 12 to < 18 years |
 | --- | --- | --- | --- |
@@ -83,11 +83,27 @@ Rituximab mean clearance and volume of distribution were 0.221 L/day (range, 0.
 0996 to 0.381 L/day) and 2.27 L (range 1.43 to 3.17 L) respectively.
 Maximum concentration during the first 180 days (Cmax), minimum concentration at Day 180 (C180) and Cumulative area under the curve over 180 days (AUC180) were (median [range]) 382.8 (270.6-513.6) µg/mL, 0.9 (0-17.7) µg/mL and 9787 (4838-20446) µg/mL*day, respectively.The PK parameters of rituximab in paediatric patients with GPA or MPA were similar to those in adults with GPA or MPA, once taking into account the BSA effect on clearance and volume of distribution parameters.
 
+Pemphigus vulgaris
+
+The PK parameters in adult PV patients receiving MabThera 1000 mg at Days 1, 15, 168, and 182 are summarized in Table 25.
+
+Table 25 Population PK in adult PV patients from PV Study 2
+
+| Parameter | Infusion Cycle |  |
+| --- | --- | --- |
+|  | 1st cycle of 1000 mg Day 1 and Day 15 N=67 | 2nd cycle of 1000 mg Day 168 and Day 182 N=67 |
+| Terminal Half-life (days) Median (Range) | 21.0 (9.3-36.2) | 26.5 (16.4-42.8) |
+| Clearance (L/day) Mean (Range) | 391 (159-1510) | 247 (128-454) |
+| Central Volume of Distribution (L) Mean (Range) | 3.52 (2.48-5.22) | 3.52 (2.48-5.22) |
+
+Following the first two rituximab administrations (at day 1 and 15, corresponding to cycle 1), the PK parameters of rituximab in patients with PV were similar to those in patients with GPA/MPA and patients with RA.
+Following the last two administrations (at day 168 and 182, corresponding to cycle 2), rituximab clearance decreased while the central volume of distribution remained unchanged.
+
 [MabThera 1400 mg solution for subcutaneous injection]
 
 Absorption
 
-Rituximab pharmacokinetics following single dose administration of MabThera subcutaneous 375 mg/ m2, 625 mg/ m2 and 800 mg/ m2 were compared with MabThera intravenous 375 mg/ m2 in FL patients.
+Rituximab pharmacokinetics following single dose administration of MabThera subcutaneous 375 mg/m2, 625 mg/ m2 and 800 mg/ m2 were compared with MabThera intravenous 375 mg/ m2 in FL patients.
 Following subcutaneous administration, the absorption of rituximab is slow, reaching maximal concentrations about 3 days after administration.
 Based on popPK analysis an absolute bioavailability of 71% was estimated.
 Rituximab exposure increased dose proportional over the 375 mg/m2 to 800 mg/m2 subcutaneous dose range.

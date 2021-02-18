@@ -1,10 +1,10 @@
 # 6.1 List of excipients
 
-Sodium citrate
-Polysorbate 80
+Sodium citrate (E331)
+Polysorbate 80 (E433)
 Sodium chloride
-Sodium hydroxide
-Hydrochloric acid
+Sodium hydroxide (for pH adjustment) (E524)
+Hydrochloric acid (for pH adjustment) (E507)
 Water for injections
 
 [MabThera 1400 mg solution for subcutaneous injection]
