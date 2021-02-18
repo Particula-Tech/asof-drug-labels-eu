@@ -166,9 +166,7 @@ Table 14: Summary of disease outcomes from the Phase III (APEX) and Phase II stu
 | Median duration Days (months) | 242 (8.0) | 169 (5.6) | 246 (8.1) | 189 (6.2) | 238 (7.8) | 126 (4.1) | 385* |
 | Time to response CR+PR (days) | 43 | 43 | 44 | 46 | 41 | 27 | 38* |
 
-a
-Intent to Treat (ITT) population b p-value from the stratified log-rank test; analysis by line of therapy excludes stratification for therapeutic history; p < 0.0001 c
-Response population includes patients who had measurable disease at baseline and received at least 1 dose of study medicinal product.
+a Intent to Treat (ITT) population b p-value from the stratified log-rank test; analysis by line of therapy excludes stratification for therapeutic history; p < 0.0001 c Response population includes patients who had measurable disease at baseline and received at least 1 dose of study medicinal product.
 d p-value from the Cochran Mantel-Haenszel chi-square test adjusted for the stratification factors; analysis by line of therapy excludes stratification for therapeutic history
 * CR+PR+MR **CR=CR, (IF-); nCR=CR (IF+)
 NA=not applicable, NE=not estimated
@@ -234,24 +232,16 @@ Table 15: Efficacy results from study LYM-3002
 | Overall complete response (CR+CRu)f n(%) | 122 (53.3%) | 95 (41.7%) | ORe (95% CI)=1.688 (1.148; 2.481) p-valueg=0.007 |
 | Overall response (CR+CRu+PR)h n(%) | 211 (92.1%) | 204 (89.5%) | ORe (95% CI)=1.428 (0.749; 2.722) p-valueg=0.275 |
 
-a
-Based on Independent Review Committee (IRC) assessment (radiological data only).
-b
-Hazard ratio estimate is based on a Cox’s model stratified by IPI risk and stage of disease.
+a Based on Independent Review Committee (IRC) assessment (radiological data only).
+b Hazard ratio estimate is based on a Cox’s model stratified by IPI risk and stage of disease.
 A hazard ratio < 1 indicates an advantage for VcR-CAP.
-c
-Based on Kaplan-Meier product limit estimates.
-d
-Based on Log rank test stratified with IPI risk and stage of disease.
-e
-Mantel-Haenszel estimate of the common odds ratio for stratified tables is used, with IPI risk and stage of disease as stratification factors.
+c Based on Kaplan-Meier product limit estimates.
+d Based on Log rank test stratified with IPI risk and stage of disease.
+e Mantel-Haenszel estimate of the common odds ratio for stratified tables is used, with IPI risk and stage of disease as stratification factors.
 An odds ratio (OR) > 1 indicates an advantage for VcR-CAP.
-f
-Include all CR+CRu, by IRC, bone marrow and LDH.
-g
-P-value from the Cochran Mantel-Haenszel chi-square test, with IPI and stage of disease as stratification factors.
-h
-Include all radiological CR+CRu+PR by IRC regardless the verification by bone marrow and LDH.
+f Include all CR+CRu, by IRC, bone marrow and LDH.
+g P-value from the Cochran Mantel-Haenszel chi-square test, with IPI and stage of disease as stratification factors.
+h Include all radiological CR+CRu+PR by IRC regardless the verification by bone marrow and LDH.
 CR=Complete Response; CRu=Complete Response unconfirmed; PR=Partial Response; CI=Confidence Interval, HR=Hazard Ratio; OR=Odds Ratio; ITT=Intent to Treat
 
 Median PFS by investigator assessment was 30.7 months in the VcR-CAP group and 16.1 months in the R-CHOP group (Hazard Ratio [HR]=0.51; p < 0.001).
