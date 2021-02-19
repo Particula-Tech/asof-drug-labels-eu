@@ -8,7 +8,6 @@ Soliris is composed of two 448 amino acid heavy chains and two 214 amino acid li
 
 Soliris is produced in a murine myeloma (NS0 cell line) expression system and purified by affinity and ion exchange chromatography.
 The bulk drug substance manufacturing process also includes specific viral inactivation and removal steps.
-
 Mechanism of action
 
 Eculizumab, the active ingredient in Soliris, is a terminal complement inhibitor that specifically binds to the complement protein C5 with high affinity, thereby inhibiting its cleavage to C5a and C5b and preventing the generation of the terminal complement complex C5b-9.
@@ -24,10 +23,10 @@ In all aHUS patients, eculizumab serum concentrations of approximately 50 - 100 
 In aHUS, chronic administration of Soliris resulted in a rapid and sustained reduction in complement-mediated thrombotic microangiopathy.
 
 In refractory gMG patients, uncontrolled terminal complement activation causes membrane attack complex (MAC) dependent lysis and C5a-dependent inflammation at the Neuromuscular Junction (NMJ) leading to failure of neuromuscular transmission.
-Chronic administration of Soliris results in immediate, complete, and sustained inhibition of terminal complement activity.
+Chronic administration of Soliris results in immediate, complete, and sustained inhibition of terminal complement activity (eculizumab serum concentrations ≥ 116 microgram/ml).
 
 In patients with NMOSD, uncontrolled terminal complement activation caused by autoantibodies against AQP4 leads to the formation of the MAC and C5a-dependent inflammation which results in astrocyte necrosis and increased permeability of the blood brain barrier, as well as death of the surrounding oligodendrocytes and neurons.
-Chronic administration of Soliris results in immediate, complete, and sustained inhibition of terminal complement activity.
+Chronic administration of Soliris results in immediate, complete, and sustained inhibition of terminal complement activity (eculizumab serum concentrations ≥ 116 microgram/ml).
 
 Clinical efficacy and safety
 
@@ -37,9 +36,8 @@ The safety and efficacy of Soliris in PNH patients with haemolysis were assessed
 PNH patients were also treated with Soliris in a single arm 52 week study (C04-002), and in a long term extension study (E05-001).
 Patients received meningococcal vaccination prior to receipt of Soliris.
 In all studies, the dose of eculizumab was 600 mg every 7 ± 2 days for 4 weeks, followed by 900 mg 7 ± 2 days later, then 900 mg every 14 ± 2 days for the study duration.
-Soliris was administered as an intravenous infusion over 25 – 45 minutes.
+Soliris was administered as an intravenous infusion over 25 – 45 minutes (35 minutes ± 10 minutes).
 An observational non-interventional Registry in patients with PNH (M07-001) was also initiated to characterize the natural history of PNH in untreated patients and the clinical outcomes during Soliris treatment.
-
 In study C04-001 (TRIUMPH) PNH patients with at least 4 transfusions in the prior 12 months, flow cytometric confirmation of at least 10% PNH cells and platelet counts of at least 100,000/microliter were randomized to either Soliris (n = 43) or placebo (n = 44).
 Prior to randomization, all patients underwent an initial observation period to confirm the need for RBC transfusion and to identify the haemoglobin concentration (the "set-point") which would define each patient’s haemoglobin stabilization and transfusion outcomes.
 The haemoglobin set-point was less than or equal to 9 g/dL in patients with symptoms and was less than or equal to 7 g/dL in patients without symptoms.
@@ -320,39 +318,15 @@ Table 11: Clinical deterioration and rescue therapy in ECU-MG-301
 | Total number of patients reporting clinical deterioration | n (%) | 15 (23.8) | 6 (9.7) |
 | Total number of patients requiring rescue therapy | n (%) | 12 (19.0) | 6 (9.7) |
 
-Of the 125 patients enrolled in ECU-MG-301, 117 patients subsequently were enrolled in a long-term extension study (Study ECU-MG-302), in which all receive Soliris.
-Patients that were previously treated with Soliris in Study ECU-MG-301 continued to demonstrate a sustained effect of Soliris on all measures (MG-ADL, QMG, MGC and MG-QoL15) over an additional 52 weeks of treatment with Soliris.
-Figure 1 presents the change from baseline in both MG-ADL (A) and QMG (B) after 26 weeks of treatment in Study ECU-MG-301 and after 52 weeks of treatment in Study ECU-MG-302.
-
-A ECU-MG-301 ECU-MG-302
-
-0
-
--2
-
--4
-
--6
-
--8
-B 0
-
--2
-
--4
-
--6
-
--8
-
-BL1234 8 12 16 20 26 BL1 2 3 4 8 12 16 20 26 40 52
-Double Blind Double Blind Induction Open Label Eculizumab
-
-Weeks
-
-Eculizumab Placebo Ecu / Ecu Placebo / Ecu
-
+Of the 125 patients enrolled in ECU-MG-301, 117 patients subsequently enrolled in a long-term extension study (Study ECU-MG-302), in which all received Soliris..
+Patients that were previously treated with Soliris in Study ECU-MG-301 continued to demonstrate a sustained effect of Soliris on all measures (MG-ADL, QMG, MGC and MG-QoL15) over an additional 130 weeks of treatment with eculizumab in Study ECU-MG-302.
+For patients who received placebo in Study ECU-MG-301 (placebo/eculizumab arm of Study ECU-MG-302), improvement occurred after initiating treatment with eculizumab and was maintained for more than 130 weeks in Study ECU-MG-302.
+Figure 1 presents the change from baseline in both MG-ADL (A) and QMG (B) after 26 weeks of treatment in Study ECU-MG-301 and after 130 weeks of treatment (n = 80 patients) in Study ECU-MG-302.
 Figure 1: Mean changes from baseline in MG-ADL (1A) and QMG (1B) over Studies ECU-MG-301 and ECU-MG-302
+
+In Study ECU-MG-302, physicians had the option to adjust background immunosuppressant therapies.
+In this setting, 65.0% of patients decreased their daily dose of at least 1 immunosuppressive therapy (IST); 43.6% of patients stopped an existing IST.
+The most common reason for change in IST therapy was improvement in MG symptoms.
 
 Twenty-two (22) (17.6%) elderly refractory gMG patients (> 65 years of age) were treated with Soliris in the clinical trials.
 No substantial differences were seen in safety and efficacy related to age.
@@ -365,7 +339,6 @@ Study ECU-NMO-301 was a double-blind, randomized, placebo-controlled, multi-cent
 
 In Study ECU-NMO-301, patients with NMOSD with a positive serologic test for anti-AQP4 antibodies, a history of at least 2 relapses in last 12 months or 3 relapses in the last 24 months with at least 1 relapse in the 12 months prior to screening and an Expanded Disability Status Scale (EDSS) score ≤ 7, were randomized 2:1 to either Soliris (n = 96) or placebo (n = 47).
 Patients were permitted to receive background immunosuppressant therapies at stable dose during the study, with the exclusion of rituximab and mitoxantrone.
-
 Patients either received meningococcal vaccination at least 2 weeks prior to initiating treatment with Soliris or received prophylactic treatment with appropriate antibiotics until 2 weeks after vaccination.
 In the eculizumab NMOSD clinical development program, the dose of Soliris in adult patients with NMOSD was 900 mg every 7 ± 2 days for 4 weeks, followed by 1200 mg at Week 5 ± 2 days, then 1200 mg every 14 ± 2 days for the study duration.
 Soliris was administered as an intravenous infusion over 35 minutes.
@@ -373,7 +346,8 @@ Soliris was administered as an intravenous infusion over 35 minutes.
 The majority (90.9%) of patients were female.
 Approximately half were White (49.0%).
 The median age at first dose of study drug was 45 years.
-Table 12: Patient Disease history and Baseline Characteristics in Study ECU-NMO-301
+
+Table 12: Patient Disease History and Baseline Characteristics in Study ECU-NMO-301
 
 | Variable | Statistic | Placebo (N = 47) | Eculizumab (N = 96) | Total (N = 143) |
 | --- | --- | --- | --- | --- |
@@ -398,7 +372,26 @@ Abbreviations: ARR = adjudicated relapse rate; EDSS = Expanded Disability Status
 The primary endpoint for Study ECU-NMO-301 was the time to first on-trial relapse as adjudicated by an independent committee who were blinded to treatment.
 A significant effect on the time to first adjudicated On-trial Relapse was observed for eculizumab compared with placebo (relative risk reduction 94%; hazard ratio 0.058; p<0.0001) (Figure 2).
 Soliris-treated patients experienced similar improvement in time to first adjudicated on-trial relapse with or without concomitant IST treatment.
-Figure 2: Kaplan-Meier Survival Estimates for Time to First Adjudicated On-Trial Relapse – Full Analysis Set
+
+1.0
+97.9% 96.4% 96.4%
+0.8
+0.6
+63.2%
+0.4 51.9%
+45.4%
+0.2 Proportion Relapse-Free at
+48 Weeks (95% CI) (1,2):
+0.632 (0.468, 0.758) Log rank p-value (3): <0.0001 Placebo
+0.979 (0.918, 0.995) Hazard ratio (95% CI) (4,5): 0.058 (0.017, 0.197) Eculizumab
+0.0
+0 12 24 36 48 60 72 84 96 108 120 132 144 156 168 180 192 204 216
+Time in Study Period (weeks)
+Number at Risk:
+Placebo 47 38 30 24 21 16 13 10 9 6 5 5 4 3 3 3 3 1
+Eculizumab 96 92 83 78 68 60 58 52 46 41 32 24 22 18 14 8 2 1
+
+Figure 2: Kaplan-Meier Survival Estimates for Time to First Adjudicated On-Trial Relapse in Study ECU-NMO-301 – Full Analysis Set
 Note: Patients who did not experience an adjudicated On-trial Relapse were censored at the end of the Study Period.
 Stratified analyses are based on four randomization strata:
 (i) low EDSS at randomization (<=2.0), (ii) high EDSS (>=2.5 to <=7) and treatment naive at randomization, (iii) high EDSS (>=2.5 to <=7) and continuing on the same IST(s) since last relapse at randomization, (iv) high EDSS (>=2.5 to <=7) and changes in IST(s) since last relapse at randomization.
@@ -410,7 +403,7 @@ Stratified analyses are based on four randomization strata:
 Abbreviations: CI = confidence interval; EDSS = Expanded Disability Status Scale; IST = immunosuppressive therapy
 
 The adjudicated on-trial annualized relapse rate (ARR) ratio (95% CI) for eculizumab compared with placebo was 0.045 (0.013, 0.151), representing a 95.5% relative reduction in adjudicated On-trial ARR for patients treated with eculizumab compared with placebo (p<0.0001) (Table 13).
-Table 13: Adjudicated On-trial Annualized Relapse Rate – Full Analysis Set
+Table 13: Adjudicated On-trial Annualized Relapse Rate in Study ECU-NMO-301 – Full Analysis Set
 
 | Variable | Statistic | Placebo (N = 47) | Eculizumab (N = 96) |
 | --- | --- | --- | --- |
@@ -427,9 +420,13 @@ Abbreviations: ARR = annualized relapse rate; CI = confidence interval.
 
 Compared to placebo-treated patients, Soliris-treated patients had reduced annualized rates of hospitalizations (0.04 for Soliris versus 0.31 for placebo), of intravenous corticosteroid administrations to treat acute relapses (0.07 for Soliris versus 0.42 for placebo), and of plasma exchange treatments (0.02 for Soliris versus 0.19 for placebo).
 
-The distribution of changes from Baseline to End of Study on other secondary endpoints favored eculizumab treatment over placebo across all neurologic disability (EDSS score [nominal p=0.0597] and mRS [nominal p=0.0154]), functional disability (HAI [nominal p=0.0002]) and quality of life (EQ-5D VAS [nominal p=0.0309] and EQ-5D Index [nominal p= 0.0077]) measures.
+The distribution of changes from Baseline to End of Study on other secondary endpoints favored eculizumab treatment over placebo across all neurologic disability (EDSS score [p=0.0597] and mRS [nominal p=0.0154]), functional disability (HAI [nominal p=0.0002]) and quality of life (EQ-5D VAS [nominal p=0.0309] and EQ-5D Index [nominal p= 0.0077]) measures.
 
 An interim analysis of Study ECU-NMO-302 demonstrates a significant and clinically meaningful reduction in On-trial ARR (as determined by the Treating Physician) on eculizumab treatment, based on the median (min, max) change (-1.829 [-6.38, 1.63], p<0.0001) from historical ARR (24 months prior to screening in Study ECU-NMO-301).
+
+In Study ECU-NMO-302, physicians had the option to adjust background immunosuppressant therapies.
+In this setting, the most common change in immunosuppressant therapy was decreased immunosuppressant therapy dose, which occurred in 18.5% of patients.
+Further, 6.7% of patients stopped an existing IST.
 
 Soliris (eculizumab) has not been studied for the treatment of acute relapses in NMOSD patients.
 

@@ -40,11 +40,10 @@ Pharmacodynamic activity measured by free C5 concentrations of <0.5 ug/mL, is co
 Special Populations
 
 Dedicated studies have not been conducted to evaluate the pharmacokinetics of Soliris in special patient populations identified by gender, race, age (geriatric), or the presence of renal or hepatic impairment.
-Population PK analysis on data collected across studies in PNH, aHUS, gMG and NMOSD patients showed gender, race, age (geriatric), or the presence of renal or hepatic impairment.function do not influence the PK of eculizumab.
+Population PK analysis on data collected across studies in PNH, aHUS, gMG and NMOSD patients showed that gender, race, age (geriatric), or the presence of renal or hepatic impairment.function do not influence the PK of eculizumab.
 Body weight was a significant covariate resulting in a lower eculizumab clearance in pediatric patients requiring body weight based dosing in pediatric patients.
 
 Paediatric population
-
 The pharmacokinetics of eculizumab was evaluated in Study M07-005 in PNH paediatric patients (aged from 11 to less than 18 years) and in Studies C08-002, C08-003, C09-001r and C10-003 in aHUS pediatric patients (aged 2 months to less than 18 years) with body-weight based dose regimen.
 
 Weight was a significant covariate resulting in a lower eculizumab clearance 0.0105 L/h in the adolescent PNH patients.

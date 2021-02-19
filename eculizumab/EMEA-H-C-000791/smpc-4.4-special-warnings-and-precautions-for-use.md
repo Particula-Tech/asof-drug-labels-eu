@@ -6,7 +6,7 @@ Meningococcal Infection
 Due to its mechanism of action, the use of Soliris increases the patient’s susceptibility to meningococcal infection (Neisseria meningitidis).
 Meningococcal disease due to any serogroup may occur.
 To reduce the risk of infection, all patients must be vaccinated at least 2 weeks prior to receiving Soliris unless the risk of delaying Soliris therapy outweighs the risks of developing a meningococcal infection.
-Patients who initiate Soliris treatment less than 2 weeks after receiving a meningococcal vaccine must receive treatment with appropriate prophylactic antibiotics until 2 weeks after vaccination.
+Patients who initiate Soliris treatment less than 2 weeks after receiving a tetravalent meningococcal vaccine must receive treatment with appropriate prophylactic antibiotics until 2 weeks after vaccination.
 Vaccines against serogroups A, C, Y, W 135 and B where available, are recommended in preventing the commonly pathogenic meningococcal serogroups.
 Patients must receive vaccination according to current national vaccination guidelines for vaccination use.
 
@@ -28,18 +28,20 @@ Patients may have increased susceptibility to infections, especially with Neisse
 Serious infections with Neisseria species (other than Neisseria meningitidis), including disseminated gonococcal infections, have been reported.
 Patients should be provided with information from the Package Leaflet to increase their awareness of potential serious infections and the signs and symptoms of them.
 Physicians should advise patients about gonorrhoea prevention.
-
 Infusion Reactions
-Administration of Soliris may result in infusion reactions or immunogenicity that could cause allergic or hypersensitivity reactions (including anaphylaxis), though immune system disorders within 48 hours of Soliris administration did not differ from placebo treatment in PNH, aHUS, refractory gMG, NMOSD and other studies conducted with Soliris.
-In clinical trials, no PNH, aHUS, refractory gMG or NMOSD patients experienced an infusion reaction which required discontinuation of Soliris.
+Administration of Soliris may result in infusion reactions or immunogenicity that could cause allergic or hypersensitivity reactions (including anaphylaxis).
+In clinical trials, 1 (0.9%) gMG patient experienced an infusion reaction which required discontinuation of Soliris.
+No PNH, aHUS or NMOSD patients experienced an infusion reaction which required discontinuation of Soliris.
 Soliris administration should be interrupted in all patients experiencing severe infusion reactions and appropriate medical therapy administered.
+
 Immunogenicity
 Infrequent antibody responses have been detected in Soliris-treated patients across all clinical studies.
 In PNH placebo controlled studies low antibody responses have been reported with a frequency (3.4%) similar to that of placebo (4.8%).
 In patients with aHUS treated with Soliris, antibodies to Soliris were detected in 3/100 (3%) by the ECL bridging format assay.
 1/100 (1%) aHUS patients had low positive values for neutralizing antibodies.
-In a refractory gMG placebo controlled study, none (0/62) of the Soliris treated patients showed antidrug antibody response during the 26 week active treatment.
-In a NMOSD placebo controlled study, 2/96 (2%) of the Soliris treated patients showed antidrug antibody response post-baseline.
+In a refractory gMG placebo controlled study, none (0/62) of the Soliris treated patients showed antidrug antibody response during the 26 week active treatment, whereas in a refractory gMG extension study, a total of 2.6% overall were positive for ADAs at any post-baseline visit.
+Positive ADA results appeared to be transient, as positive titers were not observed at subsequent visits, and there were no clinical findings in these patients suggestive of an effect of positive ADA titers.
+In a NMOSD placebo controlled study, 2/95 (2.1%) of the Soliris treated patients showed antidrug antibody response post-baseline.
 Both patients were negative for neutralizing antibodies.
 Positive ADA samples were low titer and transient.
 There has been no observed correlation of antibody development to clinical response or adverse events.
@@ -47,7 +49,7 @@ There has been no observed correlation of antibody development to clinical respo
 Immunization
 Prior to initiating Soliris therapy, it is recommended that PNH, aHUS, refractory gMG and NMOSD patients initiate immunizations according to current immunization guidelines.
 Additionally, all patients must be vaccinated against meningococcal infections at least 2 weeks prior to receiving Soliris unless the risk of delaying Soliris therapy outweighs the risks of developing a meningococcal infection.
-Patients who initiate Soliris treatment less than 2 weeks after receiving a meningococcal vaccine must receive treatment with appropriate prophylactic antibiotics until 2 weeks after vaccination.
+Patients who initiate Soliris treatment less than 2 weeks after receiving a tetravalent meningococcal vaccine must receive treatment with appropriate prophylactic antibiotics until 2 weeks after vaccination.
 Vaccines against serogroups A, C, Y, W 135 and B where available are recommended in preventing the commonly pathogenic meningococcal serogroups.
 (see Meningococcal Infection).
 
@@ -61,18 +63,13 @@ Anticoagulant therapy
 Treatment with Soliris should not alter anticoagulant management.
 
 Immunosuppressant and anticholinesterase therapies
-Patients in refractory gMG clinical trials continued treatment with immunosuppressant and anticholinesterase therapies while on Soliris treatment.
-Withdrawal of immunosuppressant and anticholinesterase therapies during Soliris treatment for refractory gMG was not assessed in the placebo-controlled studies.
 
-In the open-label extension trial (Study ECU-MG-302), physicians had the option to adjust background immunosuppressant therapies.
-In this setting, a decrease of the daily dose of at least 1 immunosuppressant was observed in 47% of patients.
-The most common reason for change in immunosuppressant therapy was improvement in MG symptoms while on eculizumab treatment.
+Refractory gMG
 When immunosuppressant and anticholinesterase therapies are decreased or discontinued, patients should be monitored closely for signs of disease exacerbation.
-
-Patients who entered NMOSD clinical trials while receiving background immunosuppressant therapy continued treatment with immunosuppressant therapy while on Soliris treatment (See section 5.3).
-Withdrawal of immunosuppressant therapy during Soliris treatment for NMOSD has not been assessed.
+Neuromyelitis Optica Spectrum Disorder
 When immunosuppressant therapy is decreased or discontinued, patients should be monitored closely for signs and symptoms of potential NMOSD relapse.
 
+.
 PNH Laboratory Monitoring
 PNH patients should be monitored for signs and symptoms of intravascular haemolysis, including serum lactate dehydrogenase (LDH) levels.
 PNH patients receiving Soliris therapy should be similarly monitored for intravascular haemolysis by measuring LDH levels, and may require dose adjustment within the recommended 14±2 day dosing schedule during the maintenance phase (up to every 12 days).
@@ -100,6 +97,7 @@ Despite Soliris re-initiation following discontinuation, progression to end stag
 If aHUS patients discontinue treatment with Soliris, they should be monitored closely for signs and symptoms of severe thrombotic microangiopathy complications.
 Monitoring may be insufficient to predict or prevent severe thrombotic microangiopathy complications in patients with aHUS after discontinuation of Soliris.
 Severe thrombotic microangiopathy complications post discontinuation can be identified by (i) any two, or repeated measurement of any one, of the following: a decrease in platelet count of 25% or more as compared to either baseline or to peak platelet count during Soliris treatment; an increase in serum creatinine of 25% or more as compared to baseline or to nadir during Soliris treatment; or, an increase in serum LDH of 25% or more as compared to baseline or to nadir during Soliris treatment; or (ii) any one of the following: a change in mental status or seizures; angina or dyspnoea; or thrombosis.
+
 If severe thrombotic microangiopathy complications occur after Soliris discontinuation, consider reinstitution of Soliris treatment, supportive care with PE/PI, or appropriate organ-specific supportive measures including renal support with dialysis, respiratory support with mechanical ventilation or anticoagulation.
 
 Treatment discontinuation for refractory gMG:

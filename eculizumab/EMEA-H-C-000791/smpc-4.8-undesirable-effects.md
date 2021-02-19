@@ -1,7 +1,7 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-Supportive safety data were obtained from 30 completed and one ongoing clinical studies that included 1,503 patients exposed to eculizumab in complement-mediated disease populations, including PNH, aHUS, refractory gMG and NMOSD.
+Supportive safety data were obtained from 31 completed clinical studies that included 1,503 patients exposed to eculizumab in complement-mediated disease populations, including PNH, aHUS, refractory gMG and NMOSD.
 The most common adverse reaction was headache, (occurred mostly in the initial phase of dosing), and the most serious adverse reaction was meningococcal sepsis.
 
 Tabulated list of adverse reactions
@@ -38,10 +38,10 @@ Renal and urinary Renal impairment,
 disorders Dysuria, Haematuria
 Reproductive system Spontaneous penile Menstrual disorder
 and breast disorders erection,
-General disorders Pyrexia, Fatigue, Chest discomfort, Extravasation, Infusion site
-and administration Influenza like illness Asthenia, Chest pain, paraesthesia, Feeling hot
-site conditions Infusion site pain,
-Chills
+General disorders Pyrexia, Fatigue, Edema, Chest Extravasation, Infusion site
+and administration Influenza like illness discomfort, Asthenia, paraesthesia, Feeling hot
+site conditions Chest pain, Infusion
+site pain, Chills
 Investigations Alanine Coombs test positivec
 aminotransferase
 increased, Aspartate
@@ -56,7 +56,7 @@ Injury, poisoning Infusion related
 and procedural reaction
 complication
 
-Included Studies: Asthma (C07-002), aHUS(C08-002, C08-003, C10-003, C10-004), Dermatomyositis (C99-006), gMG (C08-001, ECU-MG-301, ECU-MG-302 data cut as of 31Dec2017), Neuromyelitis Optica Spectrum Disorder (ECU-NMO-301), IMG (C99-004, E99-004), PNH (C02-001, C04-001, C04-002, C06-002, C07-001, E02-001, E05-001, E07-001, M07-005, X03-001, X03-001A), Psoriasis (C99-007), RA (C01-004, C97-001, C99-001, E01-004, E99-001), STEC-HUS (C11-001), SLE (C97-002).
+Included Studies: Asthma (C07-002), aHUS(C08-002, C08-003, C10-003, C10-004), Dermatomyositis (C99-006), gMG (C08-001, ECU-MG-301, ECU-MG-302), Neuromyelitis Optica Spectrum Disorder (ECU-NMO-301), IMG (C99-004, E99-004), PNH (C02-001, C04-001, C04-002, C06-002, C07-001, E02-001, E05-001, E07-001, M07-005, X03-001, X03-001A), Psoriasis (C99-007), RA (C01-004, C97-001, C99-001, E01-004, E99-001), STEC-HUS (C11-001), SLE (C97-002).
 MedDRA version 21.0.
 *See paragraph Description of selected adverse reactions.
 a Abscess includes the following group of PTs: Abscess limb, Colonic abscess, Renal abscess, Subcutaneous abscess, Tooth abscess, Hepatosplenic abscess, Perirectal abscess, Rectal abscess.
@@ -74,7 +74,6 @@ As with all proteins there is a potential for immunogenicity.
 Cases of haemolysis have been reported in the setting of missed or delayed Soliris dose in PNH clinical trials (see also Section 4.4).
 
 Cases of thrombotic microangiopathy complication have been reported in the setting of missed or delayed Soliris dose in aHUS clinical trials (see also Section 4.4).
-
 Paediatric population
 In children and adolescent PNH patients (aged 11 years to less than 18 years) included in the paediatric PNH Study M07-005, the safety profile appeared similar to that observed in adult PNH patients.
 The most common adverse reaction reported in paediatric patients was headache.

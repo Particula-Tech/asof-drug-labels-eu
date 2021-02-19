@@ -1,6 +1,10 @@
 # 4.2 Posology and method of administration
 
 Soliris must be administered by a healthcare professional and under the supervision of a physician experienced in the management of patients with haematological, renal, neuromuscular or neuro-inflammatory disorders.
+
+Home infusion may be considered for patients who have tolerated infusions well in the clinic.
+The decision of a patient to receive home infusions should be made after evaluation and recommendation from the treating physician.
+Home infusions should be performed by a qualified healthcare professional.
 Posology
 
 Adult Patients:
@@ -8,14 +12,14 @@ Adult Patients:
 In Paroxysmal Nocturnal Haemoglobinuria (PNH):
 The PNH dosing regimen for adult patients (≥18 years of age) consists of a 4-week initial phase followed by a maintenance phase:
 
-- Initial phase: 600 mg of Soliris administered via a 25 – 45 minute intravenous infusion every week for the first 4 weeks.
-- Maintenance phase: 900 mg of Soliris administered via a 25 – 45 minute intravenous infusion for the fifth week, followed by 900 mg of Soliris administered via a 25 – 45 minute intravenous infusion every 14 ± 2 days (see section 5.1).
+- Initial phase: 600 mg of Soliris administered via a 25 – 45 minute (35 minutes ± 10 minutes) intravenous infusion every week for the first 4 weeks.
+- Maintenance phase: 900 mg of Soliris administered via a 25 – 45 minute (35 minutes ± 10 minutes) intravenous infusion for the fifth week, followed by 900 mg of Soliris administered via a 25 – 45 minute (35 minutes ± 10 minutes) intravenous infusion every 14 ± 2 days (see section 5.1).
 
 In atypical Haemolytic Uremic Syndrome (aHUS), refractory generalized Myasthenia Gravis (gMG) and Neuromyelitis Optica Spectrum Disorder (NMOSD):
 The aHUS, refractory gMG and NMOSD dosing regimen for adult patients (≥18 years of age) consists of a 4 week initial phase followed by a maintenance phase:
 
-- Initial phase: 900 mg of Soliris administered via a 25 – 45 minute intravenous infusion every week for the first 4 weeks.
-- Maintenance phase: 1,200 mg of Soliris administered via a 25 – 45 minute intravenous infusion for the fifth week, followed by 1,200 mg of Soliris administered via a 25 – 45 minute intravenous infusion every 14 ± 2 days (see section 5.1).
+- Initial phase: 900 mg of Soliris administered via a 25 – 45 minute (35 minutes ± 10 minutes) intravenous infusion every week for the first 4 weeks.
+- Maintenance phase: 1,200 mg of Soliris administered via a 25 – 45 minute (35 minutes ± 10 minutes) intravenous infusion for the fifth week, followed by 1,200 mg of Soliris administered via a 25 – 45 minute (35 minutes ± 10 minutes) intravenous infusion every 14 ± 2 days (see section 5.1).
 
 Paediatric patients in PNH and aHUS:
 Paediatric PNH and aHUS patients with body weight ≥ 40 kg are treated with the adult dosing recommendations, respectively.
@@ -60,12 +64,14 @@ Do not administer as an intravenous push or bolus injection.
 Soliris should only be administered via intravenous infusion as described below.
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.
-The diluted solution of Soliris should be administered by intravenous infusion over 25 – 45 minutes in adults and 1-4 hours in paediatric patients via gravity feed, a syringe-type pump, or an infusion pump.
+The diluted solution of Soliris should be administered by intravenous infusion over 25 – 45 minutes (35 minutes ± 10 minutes) in adults and 1-4 hours in paediatric patients under 18 years of age via gravity feed, a syringe-type pump, or an infusion pump.
 It is not necessary to protect the diluted solution of Soliris from light during administration to the patient.
 Patients should be monitored for one hour following infusion.
 If an adverse event occurs during the administration of Soliris, the infusion may be slowed or stopped at the discretion of the physician.
-If the infusion is slowed, the total infusion time may not exceed two hours in adults and adolescents (aged 12 years to under 18 years) and four hours in children aged less than 12 years.
+If the infusion is slowed, the total infusion time may not exceed two hours in adults and four hours in paediatric patients under 18 years of age.
 
+There is limited safety data supporting home-based infusions, additional precautions in the home setting such as availability of emergency treatment of infusion reactions or anaphylaxis are recommended.
+Infusion reactions are described in Sections 4.4 and 4.8 on the SmPC.
 Refractory gMG
 Available data suggest that clinical response is usually achieved by 12 weeks of Soliris treatment.
 Discontinuation of the therapy should be considered in a patient who shows no evidence of therapeutic benefit by 12 weeks.
