@@ -13,6 +13,7 @@ Detailed information on the home preparation can be found in the package leaflet
 
 Syringes of appropriate volume and grading should be provided for administering the pharmacy compounded suspension as well as for the procedures involved in the home preparation.
 In both cases, the correct volumes should preferably be marked on the syringes.
+
 Pharmacy compounding
 
 Pharmacy compounded 6 mg/ml suspension prepared from capsules
@@ -20,7 +21,6 @@ Pharmacy compounded 6 mg/ml suspension prepared from capsules
 Adults, adolescents and infants and children 1 year of age or older who are unable to swallow intact capsules
 This procedure describes the preparation of a 6 mg/ml suspension that will provide one patient with enough medicine for a 5-day course of treatment or a 10-day course of prophylaxis.
 For immunocompromised patients, a 10-day course of treatment is needed.
-
 The pharmacist may compound a 6 mg/ml suspension from Tamiflu 30 mg, 45 mg or 75 mg capsules using water containing 0.05 % w/v sodium benzoate added as a preservative.
 
 First, calculate the total volume needed to be compounded and dispensed to provide a 5-day course of treatment or a 10-day course of prophylaxis for the patient.
@@ -41,6 +41,7 @@ Volume of pharmacy compounded 6 mg/ml suspension prepared based upon the patient
 | > 40 kg | 125 ml | 137.5 ml (or 150 ml)* |
 
 * Depending on the capsule strength used.
+
 Volume of pharmacy compounded 6 mg/ml suspension prepared based upon the patient’s weight for 10-days of treatment for immunocompromised patients
 
 | Body weight (kg) | Total volume to compound per patient weight (ml) Measurement loss not considered | Total volume to compound per patient weight (ml) Measurement loss considered |

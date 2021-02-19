@@ -18,7 +18,7 @@ Each ml of reconstituted suspension contains oseltamivir phosphate equivalent to
 One bottle of reconstituted suspension (65 ml) contains 390 mg of oseltamivir.
 
 Excipients with known effect:
-5 ml oseltamivir suspension delivers 0.9 g of sorbitol.
-7.5 ml oseltamivir suspension delivers 1.3 g of sorbitol.
-10 ml oseltamivir suspension delivers 1.7 g of sorbitol.
-12.5 ml oseltamivir suspension delivers 2.1 g of sorbitol.
+5 ml oseltamivir suspension delivers 0.9 g of sorbitol and 2.5 mg of sodium benzoate.
+7.5 ml oseltamivir suspension delivers 1.3 g of sorbitol and 3.75 mg of sodium benzoate.
+10 ml oseltamivir suspension delivers 1.7 g of sorbitol and 5.0 mg of sodium benzoate.
+12.5 ml oseltamivir suspension delivers 2.1 g of sorbitol and 6.25 mg of sodium benzoate.

@@ -37,6 +37,9 @@ The efficacy of oseltamivir in either treatment or prophylaxis of influenza in i
 
 No data allowing a dose recommendation for premature children (<36 weeks post-conceptual age) are currently available.
 
+Excipients
 This medicinal product contains sorbitol.
-Patients with rare hereditary problems of fructose intolerance should not take this medicine.
-Sorbitol can have a mild laxative effect.
+Patients with hereditary fructose intolerance (HFI) should not take this medicinal product.
+Sorbitol may cause gastrointestinal discomfort and mild laxative effect.
+This medicinal product contains sodium benzoate.
+Sodium benzoate (E211) may increase jaundice in newborn babies (up to 4 weeks old).

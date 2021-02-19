@@ -51,6 +51,7 @@ Yellow iron oxide (E172)
 Red iron oxide (E172)
 Black iron oxide (E172)
 Titanium dioxide (E171)
+
 Printing ink
 Shellac
 Titanium dioxide (E171)
