@@ -1,5 +1,7 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Shire Services BVBA rue Montoyer 47
-1000 Brussels
-Belgium
+Laboratorios Lesvi, S.L.
+Avda.
+Barcelona 69
+08970 Sant Joan Despí - Barcelona
+Spain

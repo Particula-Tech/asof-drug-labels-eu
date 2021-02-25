@@ -74,3 +74,9 @@ Simulated exposure data show that the overall AUC approximately doubles when a s
 A second dose at 10 minutes results in a significant increase in mean Cmax of between 1.7 to 1.9 fold.
 At 30 and 60 minutes, significant elimination of midazolam has already occurred and therefore the increase in mean Cmax is less pronounced; 1.3 to 1.6 and 1.2 to 1.5 fold respectively.
 (see section 4.2).
+
+Race
+
+Clinical studies have included patients from Japanese and non-Japanese groups, and no differences in the pharmacokinetic profile have been identified on exposure to Buccolam.
+
+No dose adjustment is warranted.

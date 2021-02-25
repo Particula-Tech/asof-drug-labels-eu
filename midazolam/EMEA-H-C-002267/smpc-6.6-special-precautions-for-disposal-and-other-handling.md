@@ -3,7 +3,6 @@
 Administration of BUCCOLAM
 
 BUCCOLAM is not for intravenous use.
-
 Step 1
 
 Hold the plastic tube, break the seal at one
