@@ -91,6 +91,7 @@ For Grade 2 or 3 cutaneous toxicity, Grade 3 diarrhoea, or Grade 3 mucositis, in
 For ≥ Grade 3 peripheral neuropathy, withhold treatment until resolution to ≤ Grade 1.
 Treatment may be resumed at the next lower dose level in subsequent cycles according to the guidelines in Table 5.
 For any other Grade 3 or 4 non-haematologic toxicity, interrupt treatment until the toxicity improves to ≤ Grade 2, then restart treatment according to the guidelines in Table 5.
+
 Table 5: Dose reductions for non-haematologic toxicities in patients with non-small cell lung cancer
 
 | Non-haematologic Toxicity | Occurrence | Dose of Abraxane (mg/m2)1 | Dose of carboplatin (AUC mg•min/mL)1 |
@@ -105,21 +106,21 @@ On Days 8 or 15 of the 21-day cycle reduce the dose of Abraxane; reduce the dose
 
 Special populations
 
-Patients with hepatic impairment
+Hepatic impairment
 For patients with mild hepatic impairment (total bilirubin > 1 to ≤ 1.5 x ULN and aspartate aminotransferase [AST] ≤ 10 x ULN), no dose adjustments are required, regardless of indication.
 Treat with same doses as patients with normal hepatic function.
 
 For metastatic breast cancer patients and non-small cell lung cancer patients with moderate to severe hepatic impairment (total bilirubin > 1.5 to ≤ 5 x ULN and AST ≤ 10 x ULN), a 20% reduction in dose is recommended.
 The reduced dose may be escalated to the dose for patients with normal hepatic function if the patient is tolerating the treatment for at least two cycles (see sections 4.4 and 5.2).
-For patients with metastatic adenocarcinoma of the pancreas that have moderate to severe hepatic impairment, there are insufficient data to permit dosage recommendations (see sections 4.4 and 5.2).
 
+For patients with metastatic adenocarcinoma of the pancreas that have moderate to severe hepatic impairment, there are insufficient data to permit dosage recommendations (see sections 4.4 and 5.2).
 For patients with total bilirubin > 5 x ULN or AST > 10 x ULN, there are insufficient data to permit dosage recommendations regardless of indication (see sections 4.4 and 5.2).
 
-Patients with renal impairment
+Renal impairment
 Adjustment of the starting Abraxane dose is not required for patients with mild to moderate renal impairment (estimated creatinine clearance ≥30 to <90 ml/min).
 There are insufficient data available to recommend dose modifications of Abraxane in patients with severe renal impairment or end stage renal disease (estimated creatinine clearance <30 ml/min) (see section 5.2).
 
-Older people
+Elderly
 No additional dosage reductions, other than those for all patients, are recommended for patients 65 years and older.
 
 Of the 229 patients in the randomized study who received Abraxane monotherapy for breast cancer, 13% were at least 65 years of age and < 2% were 75 years and older.
@@ -137,8 +138,9 @@ There is limited experience of Abraxane/carboplatin use in patients 75 years or 
 Pharmacokinetic/pharmacodynamic modelling using data from 125 patients with advanced solid tumours indicates that patients ≥ 65 years of age may be more susceptible to development of neutropenia within the first treatment cycle.
 
 Paediatric population
-The safety and efficacy of Abraxane in children and adolescents aged 0-17 years has not been established.
-There is no relevant use of Abraxane in the paediatric population in the indication of metastatic breast cancer or pancreatic adenocarcinoma or non-small cell lung cancer.
+The safety and efficacy of Abraxane in children and adolescents aged 0 to less than 18 years has not been established.
+Currently available data are described in section s 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
+There is no relevant use of Abraxane in the paediatric population for the indication of metastatic breast cancer or pancreatic adenocarcinoma or non-small cell lung cancer.
 
 Method of administration
 Administer reconstituted Abraxane suspension intravenously using an infusion set incorporating a 15 µm filter.

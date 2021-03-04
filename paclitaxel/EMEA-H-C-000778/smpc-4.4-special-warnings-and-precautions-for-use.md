@@ -40,8 +40,8 @@ In addition, Abraxane is not recommended in patients with metastatic adenocarcin
 
 Cardiotoxicity
 Rare reports of congestive heart failure and left ventricular dysfunction have been observed among individuals receiving Abraxane.
-Most of the individuals were previously exposed to cardiotoxic medicinal products such as anthracyclines, or had underlying cardiac history.
-Thus patients receiving Abraxane should be vigilantly monitored by physicians for the occurrence of cardiac events.
+Most of the individuals were previously exposed to cardiotoxic medicinal products such as anthracyclines or had underlying cardiac history.
+Thus, patients receiving Abraxane should be vigilantly monitored by physicians for the occurrence of cardiac events.
 
 CNS metastases
 The effectiveness and safety of Abraxane in patients with central nervous system (CNS) metastases has not been established.
@@ -52,13 +52,13 @@ If patients experience nausea, vomiting and diarrhoea following the administrati
 
 Patients 75 years and older
 For patients of 75 years and older, no benefit for the combination treatment of Abraxane and gemcitabine in comparison to gemcitabine monotherapy has been demonstrated.
-In the very elderly (≥75 years) who received Abraxane and gemcitabine, there was a higher incidence of serious adverse reactions and adverse reactions that led to treatment discontinuation including haematologic toxicities, peripheral neuropathy, decreased appetite and dehydration.
+In the very elderly (≥ 75 years) who received Abraxane and gemcitabine, there was a higher incidence of serious adverse reactions and adverse reactions that led to treatment discontinuation including haematologic toxicities, peripheral neuropathy, decreased appetite and dehydration.
 Patients with pancreatic adenocarcinoma aged 75 years and older should be carefully assessed for their ability to tolerate Abraxane in combination with gemcitabine with special consideration to performance status, co-morbidities and increased risk of infections (see section 4.2 and 4.8).
 
 Other
 Although limited data is available, no clear benefit in terms of prolonged overall survival has been demonstrated in pancreatic adenocarcinoma patients with normal CA 19-9 levels prior to start of treatment with Abraxane and gemcitabine (see section 5.1).
 
-Erlotinib should not be coadministered with Abraxane plus gemcitabine (see section 4.5).
+Erlotinib should not be co-administered with Abraxane plus gemcitabine (see section 4.5).
 
 Excipients
 When reconstituted, each ml of Abraxane concentrate contains 0.183 mmol sodium, which is 4.2 mg of sodium.

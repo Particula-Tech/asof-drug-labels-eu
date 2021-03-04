@@ -6,12 +6,11 @@ The paclitaxel exposure (AUC) increased linearly from 2653 to 16736 ng.hr/ml fol
 In a study in patients with advanced solid tumours, the pharmacokinetic characteristics of paclitaxel following Abraxane administered intravenously at 260 mg/m2 over 30 minutes were compared with those following 175 mg/m2 of the solvent-based paclitaxel injection administered over 3 hours.
 Based on non-compartmental PK analysis, the plasma clearance of paclitaxel with Abraxane was larger (43%) than that following a solvent-based paclitaxel injection and its volume of distribution was also higher (53%).
 There were no differences in terminal half-lives.
-In a repeat dose study with 12 patients receiving Abraxane administered intravenously at 260 mg/m2, intrapatient variability in AUC was 19% (range = 3.21%-37.70%).
+In a repeat dose study with 12 patients receiving Abraxane administered intravenously at 260 mg/m2, intra-patient variability in AUC was 19% (range = 3.21%-37.70%).
 There was no evidence for accumulation of paclitaxel with multiple treatment courses.
 
 Distribution
 Following Abraxane administration to patients with solid tumours, paclitaxel is evenly distributed into blood cells and plasma and is highly bound to plasma proteins (94%).
-
 The protein binding of paclitaxel following Abraxane was evaluated by ultrafiltration in a within-patient comparison study.
 The fraction of free paclitaxel was significantly higher with Abraxane (6.2%) than with solvent-based paclitaxel (2.3%).
 This resulted in significantly higher exposure to unbound paclitaxel with Abraxane compared with solvent-based paclitaxel, even though the total exposure is comparable.
@@ -28,6 +27,7 @@ In patients with metastatic breast cancer, after a 30-minute infusion of Abraxan
 Paclitaxel is principally eliminated by hepatic metabolism and biliary excretion.
 
 At the clinical dose range of 80 to 300 mg/m2, the mean plasma clearance of paclitaxel ranges from 13 to 30 L/h/m2, and the mean terminal half-life ranges from 13 to 27 hours.
+
 Hepatic impairment
 The effect of hepatic impairment on population pharmacokinetics of Abraxane was studied in patients with advanced solid tumours.
 This analysis included patients with normal hepatic function (n=130), and pre-existing mild (n=8), moderate (n=7), or severe (n=5) hepatic impairment (according to NCI Organ Dysfunction Working Group criteria).
@@ -45,10 +45,19 @@ Population pharmacokinetic analysis included patients with normal renal function
 Mild to moderate renal impairment (creatinine clearance ≥30 to <90 ml/min) has no clinically important effect on the maximum elimination rate and systemic exposure (AUC and Cmax) of paclitaxel.
 Pharmacokinetic data are insufficient for patients with severe renal impairment and not available for patients with end stage kidney disease.
 
-Older people
+Elderly
 Population pharmacokinetic analysis for Abraxane included patients with ages ranging from 24 to 85 years old and shows that age does not significantly influence the maximum elimination rate and systemic exposure (AUC and Cmax) of paclitaxel.
 
 Pharmacokinetic/pharmacodynamic modelling using data from 125 patients with advanced solid tumours indicates that patients ≥ 65 years of age may be more susceptible to development of neutropenia within the first treatment cycle, although the plasma paclitaxel exposure is not affected by age.
+
+Paediatric population
+The pharmacokinetics of paclitaxel following 30 minutes of intravenous administration at dose levels of 120 mg/m2 to 270 mg/m2 were determined in 64 patients (2 to ≤ 18 years) in Phase 1 of a Phase 1/2 study in recurrent or refractory paediatric solid tumours.
+Following dosing increase from 120 to 270 mg/m2, the paclitaxel mean AUC(0-inf) and Cmax ranged from 8867 to 14361 ng*hr/ml and from 3488 to 8078 ng/ml, respectively.
+
+Dose normalized peak drug exposure values were comparable across the dose range studied; however, dose-normalized total drug exposure values were only comparable across 120 mg/m2 to 240 mg/m2; with lower dose-normalized AUC∞ at the 270 mg/m2 dose level.
+At the MTD of 240 mg/m2, the mean CL was 19.1 L/h and the mean terminal half-life was 13.5 hours.
+
+In children and adolescent patients, exposure to paclitaxel increased with higher dosing and weekly drug exposures were higher than in adult patients.
 
 Other intrinsic factors
 Population pharmacokinetic analyses for Abraxane indicate that gender, race (Asian vs. White), and type of solid tumours do not have a clinically important effect on systemic exposure (AUC and Cmax) of paclitaxel.

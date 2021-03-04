@@ -20,9 +20,9 @@ This information is presented below.
 
 Single-arm open-label studies
 In one study, Abraxane was administered as a 30-minute infusion at a dose of 175 mg/m2 to 43 patients with metastatic breast cancer.
-The second trial utilised a dose of 300 mg/m2 as a 30 minute infusion in 63 patients with metastatic breast cancer.
+The second trial utilised a dose of 300 mg/m2 as a 30-minute infusion in 63 patients with metastatic breast cancer.
 Patients were treated without steroid pre-treatment or planned G-CSF support.
-Cycles were administered at 3 week intervals.
+Cycles were administered at 3-week intervals.
 The response rates in all patients were 39.5% (95% CI: 24.9%-54.2%) and 47.6% (95% CI: 35.3%-60.0%), respectively.
 The median time to disease progression was 5.3 months (175 mg/m2; 95% CI: 4.6-6.2 months) and 6.1 months (300 mg/m2; 95% CI: 4.2-9.8 months).
 
@@ -35,7 +35,7 @@ Fifty-nine percent received study medicinal product as second or greater than se
 Seventy-seven percent of the patients had been previously exposed to anthracyclines.
 Results for overall response rate and time to disease progression, and progression-free survival and survival for patients receiving > 1st-line therapy, are shown below.
 
-Table 10: Results for overall response rate, median time to disease progression, and progression-free survival as assessed by the investigator
+Table 8: Results for overall response rate, median time to disease progression, and progression-free survival as assessed by the investigator
 
 | Efficacy variable | Abraxane (260 mg/m2) | Solvent-based paclitaxel (175 mg/m2) | p-value |
 | --- | --- | --- | --- |
@@ -72,7 +72,7 @@ A higher median cumulative dose of gemcitabine was delivered in the Abraxane/gem
 The primary efficacy endpoint was overall survival (OS).
 The key secondary endpoints were progression-free survival (PFS) and overall response rate (ORR), both assessed by independent, central, blinded radiological review using RECIST guidelines (Version 1.0).
 
-Table 11: Efficacy results from randomized study in patients with pancreatic adenocarcinoma (Intent-to-treat population)
+Table 9: Efficacy results from randomized study in patients with pancreatic adenocarcinoma (Intent-to-treat population)
 
 |  | Abraxane(125 mg/m2)/gemcitabine (N=431) | Gemcitabine (N=430) |
 | --- | --- | --- |
@@ -100,9 +100,7 @@ CI = confidence interval, HRA+G/G = hazard ratio of Abraxane+gemcitabine/gemcita
 
 There was a statistically significant improvement in OS for patients treated with Abraxane/gemcitabine versus gemcitabine alone, with 1.8 months increase in median OS, 28% overall reduction in risk of death, 59% improvement in 1-year survival, and 125% improvement in 2-year survival rates.
 Figure 1: Kaplan-Meier curve of overall survival (intent-to-treat population)
-1.0 ABRAXANE+Gemcitabine
-
-0.9 Gemcitabine
+1.0 ABRAXANE+Gemcitabine 0.9 Gemcitabine
 
 0.8
 
@@ -121,7 +119,7 @@ Proportion
 
 0.0
 
-(PT at Risk )
+(PT at Risk)
 ABX/GEM:
 GEM :
 Time (months)
@@ -146,11 +144,11 @@ In both study arms treatment was administered until disease progression or devel
 Patients received a median of 6 cycles of treatment in both study arms.
 
 The primary efficacy endpoint was overall response rate defined as the percentage of patients who achieved an objective confirmed complete response or partial response based on an independent, central, blinded radiological review using RECIST (Version 1.0).
-Patients in the Abraxane/carboplatin arm had a significantly higher overall response rate compared with patients in the control arm: 33% versus 25%, p = 0.005 (Table 12).
+Patients in the Abraxane/carboplatin arm had a significantly higher overall response rate compared with patients in the control arm: 33% versus 25%, p = 0.005 (Table 10).
 There was a significant difference in overall response rate in the Abraxane/carboplatin arm compared to the control arm in patients with non-small cell lung cancer of squamous histology (N=450, 41% vs. 24%, p<0.001), however this difference did not translate into a difference in PFS or OS.
 There was no difference in ORR between the treatment arms in patients with non-squamous histology (N=602, 26% vs 25%, p=0.808).
 
-Table 12: Overall response rate in randomized non-small cell lung cancer trial (intent-to-treat population)
+Table 10: Overall response rate in randomized non-small cell lung cancer trial (intent-to-treat population)
 
 | Efficacy Parameter | Abraxane (100 mg/m2/week) + carboplatin (N=521) | Solvent-based paclitaxel (200 mg/m2 every 3 weeks) + carboplatin (N=531) |
 | --- | --- | --- |
@@ -165,9 +163,9 @@ a P-value is based on a chi-square test.
 
 There was no statistically significant difference in progression-free survival (by blinded radiologist assessment) and overall survival between the two treatment arms.
 A non-inferiority analysis was conducted for PFS and OS, with a pre-specified non-inferiority margin of 15%.
-The non-inferiority criterion was met for both PFS and OS with the upper bound of the 95% confidence interval for the associated hazard ratios being less than 1.176 (Table 13).
+The non-inferiority criterion was met for both PFS and OS with the upper bound of the 95% confidence interval for the associated hazard ratios being less than 1.176 (Table 11).
 
-Table 13: Non-inferiority analyses on progression-free survival and overall survival in randomized non-small cell lung cancer trial (intent-to-treat population)
+Table 11: Non-inferiority analyses on progression-free survival and overall survival in randomized non-small cell lung cancer trial (intent-to-treat population)
 
 | Efficacy Parameter | Abraxane (100 mg/m2/week) + carboplatin (N=521) | Solvent-based paclitaxel (200 mg/m2 every 3 weeks) + carboplatin (N=531) |
 | --- | --- | --- |
@@ -183,4 +181,21 @@ Table 13: Non-inferiority analyses on progression-free survival and overall surv
 CI = confidence interval; HRA/T = hazard ratio of Abraxane/carboplatin to solvent-based paclitaxel/carboplatin; pA/pT = response rate ratio of Abraxane/carboplatin to solvent-based paclitaxel/carboplatin.
 a Per EMA methodological considerations for PFS endpoint, missing observations or initiation of subsequent new therapy were not used for censoring.
 Paediatric population
-The European Medicines Agency has waived the obligation to submit the results of studies with Abraxane in all subsets of the paediatric population in the treatment of metastatic breast cancer, pancreatic adenocarcinoma and non-small cell lung cancer (see section 4.2 for information on paediatric use).
+Safety and effectiveness in paediatric patients have not been established (see section 4.2).
+
+Study ABI-007-PST-001, a Phase 1/2, multicenter, open-label, dose-finding study to assess the safety, tolerability and preliminary efficacy of weekly Abraxane in paediatric patients with recurrent or refractory solid tumours included a total of 106 patients aged ≥ 6 months to ≤ 24 years.
+
+The Phase 1 portion of the study included a total of 64 patients aged from 6 months to less than 18 years old and determined the maximum tolerated dose (MTD) to be 240 mg/m2, administered as an intravenous infusion over 30 minutes, on Days 1, 8, and 15 of each 28-day cycle.
+
+The Phase 2 portion enrolled a total of 42 patients using a Simon two-stage minimax design, aged from 6 months to 24 years with recurrent or refractory Ewing’s sarcoma, neuroblastoma or rhabdomyosarcoma for the evaluation of antitumour activity assessed by the overall response rate (ORR).
+Of the 42 patients, 1 patient was < 2, 27 were aged ≥ 2 to < 12, 12 were aged ≥12 to < 18 and 2 adult patients were aged ≥ 18 to 24 years old.
+
+Patients were treated for a median of 2 cycles at the MTD.
+From the 41 patients eligible for efficacy evaluation in stage 1, 1 patient in the rhabdomyosarcoma group (N=14) had a confirmed partial response (PR) resulting in an ORR of 7.1% (95% CI: 0.2, 33.9).
+No confirmed complete response (CR) or PR was observed in either the Ewing’s sarcoma group (N=13) or the neuroblastoma group (N=14).
+None of the study arms continued into stage 2 because the protocol-defined requirement of ≥ 2 patients to have a confirmed response was not met.
+
+The median overall survival results, including the 1-year follow-up period were 32.1 weeks (95% CI: 21.4, 72.9), 32.0 weeks (95% CI: 12, not established) and 19.6 weeks (95% CI: 4, 25.7) for the Ewing’s sarcoma, neuroblastoma and rhabdomyosarcoma groups, respectively.
+
+The overall safety profile of Abraxane in paediatric patients was consistent with the known safety profile of Abraxane in adults (see section 4.8).
+Based on these results, it was concluded that Abraxane as monotherapy does not have meaningful clinical activity or survival benefit that warrants further development in the paediatric population.

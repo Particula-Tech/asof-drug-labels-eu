@@ -13,3 +13,6 @@ There were no clinically relevant pharmacokinetic interactions between Abraxane 
 
 Abraxane is indicated as monotherapy for breast cancer, in combination with gemcitabine for pancreatic adenocarcinoma, or in combination with carboplatin for non-small cell lung cancer (see section 4.1).
 Abraxane should not be used in combination with other anticancer agents.
+
+Paediatric population
+Interaction studies have only been performed in adults.
