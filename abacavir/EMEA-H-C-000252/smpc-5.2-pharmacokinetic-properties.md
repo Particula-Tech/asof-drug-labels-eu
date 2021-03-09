@@ -5,10 +5,10 @@ Absorption
 Abacavir is rapidly and well absorbed following oral administration.
 The absolute bioavailability of oral abacavir in adults is about 83%.
 Following oral administration, the mean time (tmax) to maximal serum concentrations of abacavir is about 1.5 hours for the tablet formulation and about 1.0 hour for the solution formulation.
-At therapeutic dosages a dosage of 300 mg twice daily, the mean (CV) steady state Cmax and Cmin of abacavir are approximately 3.00 µg/ml (30%) and 0.01 µg/ml (99%), respectively.
-The mean (CV) AUC over a dosing interval of 12 hours was 6.02 µg.h/ml (29%), equivalent to a daily AUC of approximately 12.0 µg.h/ml.
+At therapeutic dosages a dosage of 300 mg twice daily, the mean (CV) steady state Cmax and Cmin of abacavir are approximately 3.00 μg/ml (30%) and 0.01 µg/ml (99%), respectively.
+The mean (CV) AUC over a dosing interval of 12 hours was 6.02 μg.h/ml (29%), equivalent to a daily AUC of approximately 12.0 μg.h/ml.
 The Cmax value for the oral solution is slightly higher than the tablet.
-After a 600 mg abacavir tablet dose, the mean (CV) abacavir Cmax was approximately 4.26 µg/ml (28%) and the mean (CV) AUC∞ was 11.95 µg.h/ml (21%).
+After a 600 mg abacavir tablet dose, the mean (CV) abacavir Cmax was approximately 4.26 μg/ml (28%) and the mean (CV) AUC∞ was 11.95 μg.h/ml (21%).
 
 Food delayed absorption and decreased Cmax but did not affect overall plasma concentrations (AUC).
 Therefore Ziagen can be taken with or without food.
@@ -92,6 +92,6 @@ The pharmacokinetics of abacavir has not been studied in patients over 65 years 
 [Ziagen 20 mg/ml oral solution]
 
 There are no differences observed between the AUC for the tablet or solution.
-At therapeutic dosages a dosage of 300 mg twice daily, the mean (CV) steady state Cmax and Cmin of abacavir are approximately 3.00 µg/ml (30%) and 0.01 µg/ml(99%), respectively.
+At therapeutic dosages a dosage of 300 mg twice daily, the mean (CV) steady state Cmax and Cmin of abacavir are approximately 3.00 μg/ml (30%) and 0.01 µg/ml(99%), respectively.
 
 The pharmacokinetics of abacavir have been studied in patients with mild hepatic impairment (Child-Pugh score 5-6) receiving a single 600 mg dose; the median (range) AUC values was 24.1 (10.4 to 54.8) ug.h/ml.

@@ -24,7 +24,7 @@ Clinical description of abacavir HSR
 Abacavir HSR has been well characterised through clinical studies and during post marketing follow-up.
 Symptoms usually appeared within the first six weeks (median time to onset 11 days) of initiation of treatment with abacavir, although these reactions may occur at any time during therapy.
 
-Almost all HSR to abacavir include fever and/or rash .
+Almost all HSR to abacavir include fever and/or rash.
 Other signs and symptoms that have been observed as part of abacavir HSR are described in detail in section 4.8 (Description of selected adverse reactions), including respiratory and gastrointestinal symptoms.
 Importantly, such symptoms may lead to misdiagnosis of HSR as respiratory disease (pneumonia, bronchitis, pharyngitis), or gastroenteritis.
 
@@ -76,6 +76,10 @@ In case of concomitant antiviral therapy for hepatitis B or C, please refer also
 Renal disease
 
 Ziagen should not be administered to patients with end-stage renal disease (see section 5.2).
+Excipients
+
+This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially ‘sodium-free’.
+
 Immune Reactivation Syndrome
 
 In HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
@@ -106,13 +110,12 @@ Those studied were mainly antiretroviral experienced patients.
 Data from clinical trials showed limited numbers of myocardial infarction and could not exclude a small increase in risk.
 Overall the available data from observational cohorts and from randomised trials show some inconsistency so can neither confirm nor refute a causal relationship between abacavir treatment and the risk of myocardial infarction.
 To date, there is no established biological mechanism to explain a potential increase in risk.
-When prescribing Ziagen, action should be taken to try to minimize all modifiable risk factors (e.g. smoking, hypertension, and hyperlipidaemia).
+When prescribing Ziagen, action should be taken to minimize all modifiable risk factors (e.g. smoking, hypertension, and hyperlipidaemia).
 
 [Ziagen 20 mg/ml oral solution]
 
 Ziagen is not recommended in patients with moderate or severe hepatic impairment (see sections 4.2 and 5.2).
 
-Excipients
 Ziagen oral solution contains 340 mg/ml of sorbitol.
 When taken according to the dosage recommendations each 15 ml dose contains approximately 5 g of sorbitol.
 Patients with rare hereditary problems of fructose intolerance should not take this medicine.

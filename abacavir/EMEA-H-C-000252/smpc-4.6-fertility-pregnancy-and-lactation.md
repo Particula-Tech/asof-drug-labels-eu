@@ -23,7 +23,6 @@ There are no data available on the safety of abacavir when administered to babie
 It is recommended that HIV infected women do not breast-feed their infants under any circumstances in order to avoid transmission of HIV.
 
 Fertility
-
 Studies in animals showed that abacavir had no effect on fertility (see section 5.3).
 
 [Ziagen 20 mg/ml oral solution]
