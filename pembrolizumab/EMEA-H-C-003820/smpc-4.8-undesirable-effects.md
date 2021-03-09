@@ -18,7 +18,6 @@ Incidences of Grades 3-5 adverse reactions in patients with NSCLC were 67% for p
 The safety of pembrolizumab in combination with axitinib has been evaluated in a clinical study of 429 patients with advanced RCC receiving 200 mg pembrolizumab every 3 weeks and 5 mg axitinib twice daily.
 In this patient population, the most frequent adverse reactions were diarrhoea (54%), hypertension (45%), fatigue (38%), hypothyroidism (35%), decreased appetite (30%), palmar-plantar erythrodysaesthesia syndrome (28%), nausea (28%), ALT increased (27%), AST increased (26%), dysphonia (25%), cough (21%), and constipation (21%).
 Incidences of Grades 3-5 adverse reactions were 76% for pembrolizumab combination therapy and 71% for sunitinib alone.
-
 Tabulated list of adverse reactions
 Adverse reactions observed in clinical studies of pembrolizumab as monotherapy or in combination with chemotherapy or other anti-tumour medicines or reported from post-marketing use of pembrolizumab are listed in Table 2.
 Adverse reactions known to occur with pembrolizumab or chemotherapies given alone may occur during treatment with these medicinal products in combination, even if these reactions were not reported in clinical studies with combination therapy.
@@ -26,6 +25,7 @@ These reactions are presented by system organ class and by frequency.
 Frequencies are defined as: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare
 (≥1/10,000 to < 1/1,000); very rare (< 1/10,000); and not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+
 Table 2: Adverse reactions in patients treated with pembrolizumab*
 
 |  | Monotherapy | Combination with chemotherapy | Combination with axitinib |
@@ -67,6 +67,8 @@ Table 2: Adverse reactions in patients treated with pembrolizumab*
 | Vascular disorders |  |  |  |
 | Very common |  |  | hypertension |
 | Common | hypertension | hypertension |  |
+| Uncommon |  | vasculitis |  |
+| Rare | vasculitis |  |  |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |
 | Very common | dyspnoea, cough | dyspnoea, cough | dyspnoea, cough, dysphonia |
 | Common | pneumonitisn | pneumonitisn | pneumonitisn |
@@ -122,7 +124,7 @@ Pneumonitis resolved in 166 patients, 4 with sequelae.
 
 In patients with NSCLC, pneumonitis occurred in 160 (5.7%), including Grade 2, 3, 4 or 5 cases in 62 (2.2%), 47 (1.7%), 14 (0.5%) and 10 (0.4%), respectively.
 In patients with NSCLC, pneumonitis occurred in 8.9% with a history of prior thoracic radiation.
-
+In patients with cHL, the incidence of pneumonitis (all Grades) ranged from 5.2% to 10.8% for cHL patients in KEYNOTE-087 (n=210) and KEYNOTE-204 (n=148), respectively.
 Immune-related colitis
 Colitis occurred in 121 (2.0%) patients, including Grade 2, 3 or 4 cases in 35 (0.6%), 67 (1.1%) and 5 (0.1%) patients, respectively, receiving pembrolizumab.
 The median time to onset of colitis was 4.7 months (range 7 days to 24.3 months).
@@ -145,6 +147,7 @@ The median duration was 3.3 months (range 6 days to 19.6 months).
 Nephritis led to discontinuation of pembrolizumab in 10 (0.2%) patients.
 Nephritis resolved in 15 patients, 4 with sequelae.
 In patients with non-squamous NSCLC treated with pembrolizumab in combination with pemetrexed and platinum chemotherapy (n=488), the incidence of nephritis was 1.4% (all Grades) with 0.8% Grade 3 and 0.4% Grade 4.
+
 Immune-related endocrinopathies
 Adrenal insufficiency occurred in 52 (0.8%) patients, including Grade 2, 3 or 4 cases in 23 (0.4%),
 21 (0.3%) and 4 (0.1%) patients, respectively, receiving pembrolizumab.
@@ -170,7 +173,7 @@ The median time to onset of hypothyroidism was 3.4 months (range 1 day to 25.9 m
 The median duration was not reached (range 2 days to 53.9+ months).
 Two patients (< 0.1%) discontinued pembrolizumab due to hypothyroidism.
 Hypothyroidism resolved in 171 (24.5%) patients, 14 with sequelae.
-In patients with cHL (n=241) the incidence of hypothyroidism was 14.1% (all Grades) with 0.4% Grade 3.
+In patients with cHL (n=389) the incidence of hypothyroidism was 17%, all of which were Grade 1 or 2.
 In patients with HNSCC treated with pembrolizumab as monotherapy (n=909), the incidence of hypothyroidism was 16.1% (all Grades) with 0.3% Grade 3.
 In patients with HNSCC treated with pembrolizumab in combination with platinum and 5-FU chemotherapy (n=276), the incidence of hypothyroidism was 15.2%, all of which were Grade 1 or 2.
 
@@ -184,9 +187,17 @@ Severe skin reactions resolved in 71 patients, 1 with sequelae.
 Rare cases of SJS and TEN, some of them with fatal outcome, have been observed (see sections 4.2 and 4.4).
 
 Complications of allogeneic HSCT in cHL
-Of 23 patients with cHL who proceeded to allogeneic HSCT after treatment with pembrolizumab,
-6 patients (26%) developed GVHD, one of which was fatal, and 2 patients (9%) developed severe hepatic VOD after reduced-intensity conditioning, one of which was fatal.
-The 23 patients had a median follow-up from subsequent allogeneic HSCT of 5.1 months (range: 0-26.2 months).
+Of 14 patients in KEYNOTE-013 who proceeded to allogeneic HSCT after treatment with pembrolizumab, 6 patients reported acute GVHD and 1 patient reported chronic GVHD, none of which were fatal.
+Two patients experienced hepatic VOD, one of which was fatal.
+One patient experienced engraftment syndrome post-transplant.
+
+Of 32 patients in KEYNOTE-087 who proceeded to allogeneic HSCT after treatment with pembrolizumab, 16 patients reported acute GVHD and 7 patients reported chronic GVHD, two of which were fatal.
+No patients experienced hepatic VOD.
+No patients experienced engraftment syndrome post-transplant.
+
+Of 14 patients in KEYNOTE-204 who proceeded to allogeneic HSCT after treatment with pembrolizumab, 8 patients reported acute GVHD and 3 patients reported chronic GVHD, none of which were fatal.
+No patients experienced hepatic VOD.
+One patient experienced engraftment syndrome post-transplant.
 
 Elevated liver enzymes when pembrolizumab is combined with axitinib in RCC
 In a clinical study of previously untreated patients with RCC receiving pembrolizumab in combination with axitinib, a higher than expected incidence of Grades 3 and 4 ALT increased (20%) and AST increased (13%) were observed.
@@ -197,11 +208,11 @@ Fifty-nine percent of the patients with increased ALT received systemic corticos
 Of the patients who recovered, 92 (84%) were rechallenged with either pembrolizumab (3%) or axitinib (31%) monotherapy or with both (50%).
 Of these patients, 55% had no recurrence of ALT > 3 times ULN, and of those patients with recurrence of ALT > 3 times ULN, all recovered.
 There were no Grade 5 hepatic events.
+
 Laboratory abnormalities
 In patients treated with pembrolizumab monotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 10.8% for lymphocytes decreased, 8.3% for sodium decreased, 6.4% for haemoglobin decreased, 5.4% for phosphate decreased, 5.0% for glucose increased, 3.1% for AST increased, 3.0% for ALT increased, 2.7% for alkaline phosphatase increased, 2.4% for potassium decreased, 2.1% for neutrophils decreased, 2.0% for platelets decreased, 1.9% for calcium increased, 1.9% for potassium increased, 1.9% for bilirubin increased, 1.6% for albumin decreased, 1.5% for calcium decreased, 1.5% for creatinine increased, 0.9% for leucocytes decreased, 0.7% for magnesium increased, 0.6% for glucose decreased, 0.2% for magnesium decreased, and 0.2% for sodium increased.
 
 In patients treated with pembrolizumab in combination with chemotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 26.7% for neutrophils decreased, 23.9% for lymphocytes decreased, 19.1% for haemoglobin decreased, 17.9% for leucocytes decreased, 12.2% for platelets decreased, 10.2% for sodium decreased, 8.9% for phosphate decreased, 7.4% for glucose increased, 6.5% for potassium decreased, 3.3 for creatinine increased, 3.1% for ALT increased, 3.1% for AST increased, 3.1% for calcium decreased, 3.0% for potassium increased, 2.9% for albumin decreased, 2.3% for calcium increased, 1.2% for alkaline phosphatase increased, 0.8% for glucose decreased, 0.7% for bilirubin increased, and 0.3% for sodium increased.
-
 In patients treated with pembrolizumab in combination with axitinib, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 20.1% for ALT increased, 13.2% for AST increased, 10.8% for lymphocytes decreased, 8.9% for glucose increased, 7.8% for sodium decreased, 6.4% for phosphate decreased, 6.2% for potassium increased, 4.3% for creatinine increased, 3.6% for potassium decreased, 2.1% for bilirubin increased, 2.1% for haemoglobin decreased, 1.7% for alkaline phosphatase increased, 1.5% for prothrombin INR increased, 1.4% for leukocytes decreased, 1.4% for platelets decreased, 1.2% for activated partial thromboplastin time prolonged, 1.2% for neutrophils decreased, 1.2% for sodium increased, 0.7% for calcium decreased, 0.7% for calcium increased, 0.5% for albumin decreased, and 0.2% for glucose decreased.
 
 Immunogenicity
@@ -209,11 +220,12 @@ In clinical studies in patients treated with pembrolizumab 2 mg/kg every three w
 There was no evidence of an altered pharmacokinetic or safety profile with anti-pembrolizumab binding or neutralising antibody development.
 
 Paediatric population
-The safety of pembrolizumab as monotherapy has been evaluated in 154 paediatric patients with advanced melanoma, lymphoma, or PD-L1 positive advanced, relapsed, or refractory solid tumours at 2 mg/kg every 3 weeks in the Phase I/II study KEYNOTE-051.
-The safety profile in these paediatric patients was generally similar to that seen in adults treated with pembrolizumab.
-The most common adverse reactions (reported in at least 20% of paediatric patients) were pyrexia (31%), vomiting (26%), headache (22%), abdominal pain (21%), anaemia (21%) and constipation (20%).
+The safety of pembrolizumab as monotherapy has been evaluated in 161 paediatric patients aged 9 months to 17 years with advanced melanoma, lymphoma, or PD-L1 positive advanced, relapsed, or refractory solid tumours at 2 mg/kg every 3 weeks in the Phase I/II study KEYNOTE-051.
+The cHL population (n=22) included patients 11 to 17 years of age.
+The safety profile in paediatric patients was generally similar to that seen in adults treated with pembrolizumab.
+The most common adverse reactions (reported in at least 20% of paediatric patients) were pyrexia (33%), vomiting (30%), headache (26%), abdominal pain (22%), anaemia (21%), cough (21%) and constipation (20%).
 The majority of adverse reactions reported for monotherapy were of Grades 1 or 2 severity.
-Sixty-nine (44.8%) patients had 1 or more Grades 3 to 5 adverse reactions of which 6 (3.9%) patients had 1 or more adverse reactions that resulted in death.
+Seventy-six (47.2%) patients had 1 or more Grades 3 to 5 adverse reactions of which 5 (3.1%) patients had 1 or more adverse reactions that resulted in death.
 The frequencies are based on all reported adverse drug reactions, regardless of the investigator assessment of causality.
 
 Reporting of suspected adverse reactions

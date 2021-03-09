@@ -11,11 +11,11 @@ Immune-related adverse reactions, including severe and fatal cases, have occurre
 Most immune-related adverse reactions occurring during treatment with pembrolizumab were reversible and managed with interruptions of pembrolizumab, administration of corticosteroids and/or supportive care.
 Immune-related adverse reactions have also occurred after the last dose of pembrolizumab.
 Immune-related adverse reactions affecting more than one body system can occur simultaneously.
-
 For suspected immune-related adverse reactions, adequate evaluation to confirm aetiology or exclude other causes should be ensured.
 Based on the severity of the adverse reaction, pembrolizumab should be withheld and corticosteroids administered.
 Upon improvement to Grade ≤1, corticosteroid taper should be initiated and continued over at least 1 month.
 Based on limited data from clinical studies in patients whose immune-related adverse reactions could not be controlled with corticosteroid use, administration of other systemic immunosuppressants can be considered.
+
 Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if the adverse reaction recovers to Grade ≤1 and corticosteroid dose has been reduced to ≤10 mg prednisone or equivalent per day.
 
 Pembrolizumab must be permanently discontinued for any Grade 3 immune-related adverse reaction that recurs and for any Grade 4 immune-related adverse reaction toxicity, except for endocrinopathies that are controlled with replacement hormones (see sections 4.2 and 4.8).
@@ -47,7 +47,6 @@ Immune-related endocrinopathies
 Severe endocrinopathies, including adrenal insufficiency, hypophysitis, type 1 diabetes mellitus, diabetic ketoacidosis, hypothyroidism, and hyperthyroidism have been observed with pembrolizumab treatment.
 
 Long-term hormone replacement therapy may be necessary in cases of immune-related endocrinopathies.
-
 Adrenal insufficiency (primary and secondary) has been reported in patients receiving pembrolizumab.
 Hypophysitis has also been reported in patients receiving pembrolizumab.
 (See section 4.8).
@@ -85,13 +84,13 @@ If SJS or TEN is confirmed, pembrolizumab should be permanently discontinued (se
 Caution should be used when considering the use of pembrolizumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anti-cancer agents.
 
 Other immune-related adverse reactions
-The following additional clinically significant, immune-related adverse reactions have been reported in clinical studies or in post-marketing experience: uveitis, arthritis, myositis, myocarditis, pancreatitis, Guillain-Barré syndrome, myasthenic syndrome, haemolytic anaemia, sarcoidosis, encephalitis and myelitis (see sections 4.2 and 4.8).
+The following additional clinically significant, immune-related adverse reactions have been reported in clinical studies or in post-marketing experience: uveitis, arthritis, myositis, myocarditis, pancreatitis, Guillain-Barré syndrome, myasthenic syndrome, haemolytic anaemia, sarcoidosis, encephalitis, myelitis and vasculitis (see sections 4.2 and 4.8).
 
 Based on the severity and type of the adverse reaction, pembrolizumab should be withheld for Grade 2 or Grade 3 events and corticosteroids administered.
-
 Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if the adverse reaction recovers to Grade ≤1 and corticosteroid dose has been reduced to ≤10 mg prednisone or equivalent per day.
 
 Pembrolizumab must be permanently discontinued for any Grade 3 immune-related adverse reaction that recurs and for any Grade 4 immune-related adverse reaction.
+
 For Grades 3 or 4 myocarditis, encephalitis or Guillain-Barré syndrome, pembrolizumab should be permanently discontinued (see sections 4.2 and 4.8).
 
 Transplant-related adverse reactions
@@ -163,9 +162,8 @@ Patients with the following conditions were excluded from clinical studies: acti
 Patients with active infections were excluded from clinical studies and were required to have their infection treated prior to receiving pembrolizumab.
 Patients with active infections occurring during treatment with pembrolizumab were managed with appropriate medical therapy.
 Patients with clinically significant renal (creatinine > 1.5 x ULN) or hepatic (bilirubin > 1.5 x ULN, ALT, AST > 2.5 x ULN in the absence of liver metastases) abnormalities at baseline were excluded from clinical studies, therefore information is limited in patients with severe renal and moderate to severe hepatic impairment.
-There are limited data on the safety and efficacy of KEYTRUDA in patients with ocular melanoma (see section 5.1).
 
-For subjects with relapsed or refractory cHL, clinical data for the use of pembrolizumab in patients ineligible to ASCT due to reasons other than failure to salvage chemotherapy are limited (see section 5.1).
+There are limited data on the safety and efficacy of KEYTRUDA in patients with ocular melanoma (see section 5.1).
 
 After careful consideration of the potential increased risk, pembrolizumab may be used with appropriate medical management in these patients.
 

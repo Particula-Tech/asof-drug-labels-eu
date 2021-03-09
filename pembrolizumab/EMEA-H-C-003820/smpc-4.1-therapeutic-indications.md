@@ -16,7 +16,8 @@ KEYTRUDA as monotherapy is indicated for the treatment of locally advanced or me
 Patients with EGFR or ALK positive tumour mutations should also have received targeted therapy before receiving KEYTRUDA.
 
 Classical Hodgkin lymphoma (cHL)
-KEYTRUDA as monotherapy is indicated for the treatment of adult patients with relapsed or refractory classical Hodgkin lymphoma who have failed autologous stem cell transplant (ASCT) and brentuximab vedotin (BV), or who are transplant-ineligible and have failed BV.
+KEYTRUDA as monotherapy is indicated for the treatment of adult and paediatric patients aged 3 years and older with relapsed or refractory classical Hodgkin lymphoma who have failed autologous stem cell transplant (ASCT) or following at least two prior therapies when ASCT is not a treatment option.
+
 Urothelial carcinoma
 KEYTRUDA as monotherapy is indicated for the treatment of locally advanced or metastatic urothelial carcinoma in adults who have received prior platinum-containing chemotherapy (see section 5.1).
 

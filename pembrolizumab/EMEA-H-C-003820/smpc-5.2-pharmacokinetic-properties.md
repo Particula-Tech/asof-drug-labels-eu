@@ -2,6 +2,7 @@
 
 The pharmacokinetics of pembrolizumab was studied in 2,993 patients with metastatic or unresectable melanoma, NSCLC, or carcinoma who received doses in the range of 1 to 10 mg/kg every 2 weeks,
 2 to 10 mg/kg every 3 weeks, or 200 mg every 3 weeks.
+
 Absorption
 Pembrolizumab is administered via the intravenous route and therefore is immediately and completely bioavailable.
 
@@ -30,13 +31,12 @@ Special populations
 The effects of various covariates on the pharmacokinetics of pembrolizumab were assessed in population pharmacokinetic analyses.
 The following factors had no clinically important effect on the clearance of pembrolizumab: age (range 15-94 years), gender, race, mild or moderate renal impairment, mild hepatic impairment and tumour burden.
 The relationship between body weight and clearance supports the use of either fixed dose or body weight-based dosing to provide adequate and similar control of exposure.
-Pembrolizumab concentrations with weight-based dosing at 2 mg/kg every 3 weeks in paediatric patients (2 to 17 years) are comparable to those of adults at the same dose.
+Pembrolizumab exposure with weight-based dosing at 2 mg/kg every 3 weeks in paediatric patients (> 3 to 17 years) are comparable to those of adults at the same dose.
 
 Renal impairment
 The effect of renal impairment on the clearance of pembrolizumab was evaluated by population pharmacokinetic analyses in patients with mild or moderate renal impairment compared to patients with normal renal function.
 No clinically important differences in the clearance of pembrolizumab were found between patients with mild or moderate renal impairment and patients with normal renal function.
 Pembrolizumab has not been studied in patients with severe renal impairment.
-
 Hepatic impairment
 The effect of hepatic impairment on the clearance of pembrolizumab was evaluated by population pharmacokinetic analyses in patients with mild hepatic impairment (as defined using the US National Cancer Institute criteria of hepatic dysfunction) compared to patients with normal hepatic function.
 No clinically important differences in the clearance of pembrolizumab were found between patients with mild hepatic impairment and normal hepatic function.
