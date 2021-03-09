@@ -43,7 +43,7 @@ Skin and subcutaneous tissue Common: Pruritus
 
 disorders Uncommon: Pustular psoriasis, skin exfoliation, acne
 
-Rare: Exfoliative dermatitis
+Rare: Exfoliative dermatitis, hypersensitivity vasculitis
 
 Musculoskeletal and connective Common: Back pain, myalgia, arthralgia tissue disorders
 
@@ -59,7 +59,7 @@ In the placebo-controlled studies of patients with psoriasis, psoriatic arthriti
 In the placebo-controlled period of these clinical studies, the rate of infection was 1.36 per patient-year of follow-up in ustekinumab-treated patients, and 1.34 in placebo-treated patients.
 Serious infections occurred at the rate of 0.03 per patient-year of follow-up in ustekinumab-treated patients (30 serious infections in 930 patient-years of follow-up) and 0.03 in placebo-treated patients (15 serious infections in 434 patient-years of follow-up) (see section 4.4).
 
-In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies, representing 11,581 patient-years of exposure in 6,709 patients, the median follow up was 1.0 years; 1.1 years for psoriatic disease studies, 0.6 year for Crohn’s disease studies and 1.0 years for ulcerative colitis studies.
+In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies, representing 11,581 patient-years of exposure in 6,709 patients, the median follow-up was 1.0 years; 1.1 years for psoriatic disease studies, 0.6 year for Crohn’s disease studies and 1.0 years for ulcerative colitis studies.
 The rate of infection was 0.91 per patient-year of follow-up in ustekinumab-treated patients, and the rate of serious infections was 0.02 per patient-year of follow-up in ustekinumab-treated patients (199 serious infections in 11,581 patient-years of follow-up) and serious infections reported included pneumonia, anal abscess, cellulitis, diverticulitis, gastroenteritis and viral infections.
 
 In clinical studies, patients with latent tuberculosis who were concurrently treated with isoniazid did not develop tuberculosis.
@@ -78,7 +78,7 @@ The ratio of patients with basal versus squamous cell skin cancers (3:1) is comp
 
 Hypersensitivity and infusion reactions
 In Crohn’s disease and ulcerative colitis intravenous induction studies, no events of anaphylaxis or other serious infusion reactions were reported following the single intravenous dose.
-In these studies, 2.2% of 785 placebo treated patients and 1.9% of 790 patients treated with the recommended dose of ustekinumab reported adverse events occurring during or within an hour of the infusion.
+In these studies, 2.2% of 785 placebo-treated patients and 1.9% of 790 patients treated with the recommended dose of ustekinumab reported adverse events occurring during or within an hour of the infusion.
 
 Paediatric population
 Paediatric patients 6 years and older with plaque psoriasis
@@ -97,7 +97,7 @@ Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic art
 
 Table 3 List of adverse reactions
 
-In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies, representing 11,581 patient-years of exposure in 6,709 patients, the median follow up was 1.0 years; 1.1 years for psoriatic disease studies, 0.6 year for Crohn’s disease studies, and 1.0 years for ulcerative colitis studies.
+In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies, representing 11,581 patient-years of exposure in 6,709 patients, the median follow-up was 1.0 years; 1.1 years for psoriatic disease studies, 0.6 year for Crohn’s disease studies, and 1.0 years for ulcerative colitis studies.
 
 Hypersensitivity reactions
 During the controlled periods of the psoriasis and psoriatic arthritis clinical studies of ustekinumab, rash and urticaria have each been observed in < 1% of patients (see section 4.4).

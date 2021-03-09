@@ -7,6 +7,7 @@ Median volume of distribution during the terminal phase (Vz) following a single 
 
 Biotransformation
 The exact metabolic pathway for ustekinumab is unknown.
+
 Elimination
 Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg.
 Median half-life (t1/2) of ustekinumab was approximately 3 weeks in patients with ulcerative colitis, Crohn’s disease, psoriasis and/or psoriatic arthritis, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies.

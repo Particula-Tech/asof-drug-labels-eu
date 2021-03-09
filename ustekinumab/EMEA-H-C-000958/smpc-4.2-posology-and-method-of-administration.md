@@ -143,7 +143,7 @@ Consideration should be given to discontinuing treatment in patients who show no
 Immunomodulators and/or corticosteroids may be continued during treatment with STELARA.
 In patients who have responded to treatment with STELARA, corticosteroids may be reduced or discontinued in accordance with standard of care.
 
-In Crohn’s disease, if therapy is interrupted, resumption of treatment with subcutaneous dosing every 8 weeks is safe and effective.
+In Crohn’s disease or Ulcerative Colitis, if therapy is interrupted, resumption of treatment with subcutaneous dosing every 8 weeks is safe and effective.
 
 The safety and efficacy of STELARA in treatment of Crohn’s disease or ulcerative colitis in children less than 18 years have not yet been established.
 
