@@ -28,6 +28,7 @@ Mechanism of action
 Oxybutynin acts as a competitive antagonist of acetylcholine at post-ganglionic muscarinic receptors, resulting in relaxation of bladder smooth muscle.
 
 The efficacy and safety of Kentera were evaluated in patients with urge urinary incontinence in a single Phase 3 study.
+
 The Phase 3 study was a randomised, double-blind, placebo-controlled, parallel group study that included 789 patients.
 The 12-week double-blind treatment included daily applications of Kentera or matching placebo gel.
 A 14-week, open-label treatment was available for a subset of patients who completed the double-blind period.

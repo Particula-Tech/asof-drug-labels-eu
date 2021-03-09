@@ -21,10 +21,10 @@ Consumption of grapefruit juice may also influence metabolism of oxybutynin.
 Anticholinergic medicinal products may potentially alter the absorption of some concomitantly administered medicinal products due to anticholinergic effects on gastrointestinal motility.
 
 The anticholinergic activity of oxybutynin is increased by concurrent use of other anticholinergics or medicinal products with anticholinergic activity, such as amantadine and other anticholinergic antiparkinsonian medicinal products (e.g. biperiden, levodopa), antihistamines, antipsychotics (e.g. phenothiazines, butyrophenones, clozapine), quinidine, tricyclic antidepressants, atropine and related compounds like atropinic antispasmodics, and dipyridamole.
+
 Oxybutynin may cause drowsiness or blurred vision.
 Drowsiness may be increased by consumption of alcohol.
 Because Kentera may cause drowsiness, somnolence, or blurred vision, patients should be advised to exercise caution when driving or using machinery (see section 4.7).
-
 Oxybutynin may antagonise prokinetic therapies, such as cisapride and metocloparamide, and should be avoided in the presence of reduced gastrointestinal motility conditions.
 
 [Kentera 90.7 mg/g gel]
