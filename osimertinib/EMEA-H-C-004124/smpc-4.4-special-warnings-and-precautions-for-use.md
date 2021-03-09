@@ -39,7 +39,7 @@ Treatment should be withheld in patients who develop a QTc interval greater than
 Osimertinib should be permanently discontinued in patients who develop QTc interval prolongation in combination with any of the following: Torsade de pointes, polymorphic ventricular tachycardia, signs/symptoms of serious arrhythmia.
 
 Changes in cardiac contractility
-Across clinical trials, Left Ventricular Ejection Fraction (LVEF) decreases greater than or equal to 10% and a drop to less than 50% occurred in 3.9% (35/908) of patients treated with TAGRISSO who had baseline and at least one follow-up LVEF assessment.
+Across clinical trials, Left Ventricular Ejection Fraction (LVEF) decreases greater than or equal to 10 percentage points and a drop to less than 50% occurred in 3.9% (35/908) of patients treated with TAGRISSO who had baseline and at least one follow-up LVEF assessment.
 In patients with cardiac risk factors and those with conditions that can affect LVEF, cardiac monitoring, including an assessment of LVEF at baseline and during treatment, should be considered.
 In patients who develop relevant cardiac signs/symptoms during treatment, cardiac monitoring including LVEF assessment should be considered.
 

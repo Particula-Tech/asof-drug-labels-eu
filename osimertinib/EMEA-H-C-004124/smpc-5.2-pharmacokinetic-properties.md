@@ -32,7 +32,6 @@ At least 12 components were observed in the pooled urine and faecal samples in h
 Based on in vitro studies, osimertinib is a competitive inhibitor of CYP 3A4/5 but not CYP1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6 and 2E1 at clinically relevant concentrations.
 Based on in vitro studies, osimertinib is not an inhibitor of UGT1A1 and UGT2B7 at clinically relevant concentrations hepatically.
 Intestinal inhibition of UGT1A1 is possible but the clinical impact is unknown.
-
 Elimination
 Following a single oral dose of 20 mg, 67.8% of the dose was recovered in faeces (1.2% as parent) while 14.2% of the administered dose (0.8% as parent) was found in urine by 84 days of sample collection.
 Unchanged osimertinib accounted for approximately 2% of the elimination with 0.8% in urine and 1.2% in faeces.

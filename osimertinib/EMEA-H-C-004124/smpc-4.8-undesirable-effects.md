@@ -35,15 +35,14 @@ Adverse reactions reported in FLAURA and AURA studiesa
 |  | Dry sking | Very common (33%) | 0.1% |
 |  | Paronychiah | Very common (31%) | 0.3% |
 |  | Pruritusi | Very common (17%) | 0.1% |
-|  | Stevens-Johnson syndromej | Rare (0.02%) |  |
-
-| MedDRA SOC | MedDRA term | CIOMS descriptor/ overall frequency (all CTCAE grades)b | Frequency of CTCAE grade 3 or higher |
-| --- | --- | --- | --- |
-| Investigations | QTc interval prolongationk | Uncommon (0.9%) |  |
-| (Findings based on test results presented as CTCAE grade shifts) | Platelet count decreasedl | Very common (54%) | 1.6% |
-|  | Leucocytes decreasedl | Very common (68%) | 1.5% |
-|  | Lymphocytes decreasedl | Very common (67%) | 7.2% |
-|  | Neutrophils decreasedl | Very common (35%) | 4.1% |
+|  | Erythema multiformej | Uncommon (0.35%) | 0% |
+|  | Stevens-Johnson syndromek | Rare (0.02%) |  |
+|  | Cutaneous Vasculitisl | Uncommon (0.26%) |  |
+| Investigations | QTc interval prolongationm | Uncommon (0.9%) |  |
+| (Findings based on test results presented as CTCAE grade shifts) | Platelet count decreasedn | Very common (54%) | 1.6% |
+|  | Leucocytes decreasedn | Very common (68%) | 1.5% |
+|  | Lymphocytes decreasedn | Very common (67%) | 7.2% |
+|  | Neutrophils decreasedn | Very common (35%) | 4.1% |
 
 a Data is cumulative from FLAURA and AURA (AURA3, AURAex, AURA 2 and AURA1) studies; only events for patients receiving at least one dose of TAGRISSO as their randomised treatment are summarised.
 b National Cancer Institute Common Terminology Criteria for Adverse Events, version 4.0.
@@ -54,9 +53,13 @@ f Includes cases reported within the clustered terms for rash AEs: Rash, rash ge
 g Includes cases reported within the clustered terms: Dry skin, skin fissures, xerosis, eczema, xeroderma.
 h Includes cases reported within the clustered terms: Nail bed disorder, nail bed inflammation, nail bed infection, nail discolouration, nail pigmentation, nail disorder, nail toxicity, nail dystrophy, nail infection, nail ridging, onychalgia, onychoclasis, onycholysis, onychomadesis, onychomalacia, paronychia.
 i Includes cases reported within the clustered terms: pruritus, pruritus generalised, eyelid pruritus.
-j One event was reported in a post-marketing study, and the frequency has been derived from the FLAURA and AURA studies and the post-marketing study (N=4720).
-k Representsthe incidence of patients who had a QTcF prolongation >500msec.
-l Represents the incidence of laboratory findings, not of reported adverse events.
+j Four of the 1142 patients in the AURA and FLAURA studies reported erythema multiforme.
+Post-marketing reports of erythema multiforme have also been received, including 7 reports from a post-marketing surveillance study (N=3578).
+k One event was reported in a post-marketing study, and the frequency has been derived from the FLAURA and AURA studies and the post-marketing study (N=4720).
+l Estimated frequency.
+The upper limit of the 95% CI for the point estimate is 3/1142 (0.26%).
+m Representsthe incidence of patients who had a QTcF prolongation >500msec.
+n Represents the incidence of laboratory findings, not of reported adverse events.
 
 Safety findings in the single-arm Phase 2 AURAex and AURA2 studies were generally consistent with those observed in the AURA3 TAGRISSO arm.
 No additional or unexpected toxicity has been observed and adverse events have been aligned in type, severity and frequency.
