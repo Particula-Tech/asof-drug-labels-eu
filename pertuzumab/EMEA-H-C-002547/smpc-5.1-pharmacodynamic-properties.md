@@ -42,6 +42,7 @@ Patients’ median LVEF at baseline was 65.0% (range 50% – 88%) in both groups
 The efficacy results from the CLEOPATRA study are summarised in Table 3.
 A statistically significant improvement in IRF-assessed PFS was demonstrated in the Perjeta-treated group compared with the placebo-treated group.
 The results for investigator-assessed PFS were similar to those observed for IRF-assessed PFS.
+
 Table 3 Summary of efficacy from CLEOPATRA study
 
 | Parameter | Placebo+ trastuzumab + docetaxel n=406 | Perjeta+ trastuzumab + docetaxel n=402 | HR (95% CI) | p-value |
@@ -52,7 +53,7 @@ Table 3 Summary of efficacy from CLEOPATRA study
 | Duration of Response †^ n= Median weeks 95% CI for Median | 233 54.1 [46;64] | 275 87.6 [71;106] |  |  |
 
 * Primary progression-free survival analysis, cutoff date 13th May 2011.
-** Final analysis of overall survival, cutoff date 11th February 2014.
+** Event-driven final overall survival analysis, cutoff date 11th February 2014.
 *** Patients with best overall response of confirmed CR or PR by RECIST.
 † Evaluated in patients with Best Overall Response of CR or PR.
 ^ Objective response rate and duration of response are based on IRF-assessed tumour assessments.
@@ -61,13 +62,16 @@ Consistent results were observed across pre-specified patient subgroups includin
 A post hoc exploratory analysis revealed that for patients who had received prior trastuzumab (n = 88), the hazard ratio for IRF-assessed PFS was 0.62 (95% CI 0.35, 1.07), compared with 0.60 (95% CI 0.43, 0.83) for patients who had received prior therapy which did not include trastuzumab (n = 288).
 Figure 1 IRF-assessed PFS by patient subgroup
 
-The final analysis of OS was performed when 389 patients had died (221 in the placebo-treated group and 168 in the Perjeta-treated group).
+The event-driven final analysis of OS was performed when 389 patients had died (221 in the placebo-treated group and 168 in the Perjeta-treated group).
 The statistically significant OS benefit in favour of the Perjeta-treated group, previously observed at an interim analysis of OS (performed one year after the primary analysis), was maintained (HR 0.68, p = 0.0002 log-rank test).
 The median time to death was 40.8 months in the placebo-treated group and 56.5 months in the Perjeta-treated group (see Table 3, Figure 2).
 
-Figure 2 Kaplan-Meier Curve of Overall Survival
+A descriptive analysis of OS performed at the end of the study when 515 patients had died (280 in the placebo-treated group and 235 in the Perjeta-treated group) showed that the statistically significant OS benefit in favour of the Perjeta-treated group was maintained over time after a median follow-up of 99 months (HR 0.69, p < 0.0001 log-rank test; median time to death 40.8 months [placebo-treated group] versus 57.1 months [Perjeta-treated group]).
+Landmark survival estimates at 8 years were 37% in the Perjeta-treated group and 23% in the placebo-treated group.
+Figure 2 Kaplan-Meier Curve of Event-Driven Overall Survival
 
 HR= hazard ratio; CI= confidence interval; Pla= placebo; Ptz= pertuzumab (Perjeta); T= trastuzumab (Herceptin); D= docetaxel.
+
 No statistically significant differences were found between the two treatment groups in Health Related Quality of Life as assessed by FACT-B TOI-PFB scores.
 
 Additional supportive clinical trial information
@@ -106,6 +110,7 @@ Trastuzumab was given intravenously at an initial dose of 8 mg/kg, followed by 6
 Docetaxel was given intravenously at an initial dose of 75 mg/ m2 followed by 75 mg/ m2 or 100 mg/ m2 (if tolerated) every 3 weeks.
 Following surgery all patients received 3 cycles of 5-fluorouracil (600 mg/m2), epirubicin (90 mg/m2), cyclophosphamide (600 mg/m2) (FEC) given intravenously every three weeks, and trastuzumab administered intravenously every three weeks to complete one year of therapy.
 Patients who only received Perjeta plus trastuzumab prior to surgery subsequently received both FEC and docetaxel post surgery.
+
 The primary endpoint of the study was pathological complete response (pCR) rate in the breast (ypT0/is).
 Secondary efficacy endpoints were clinical response rate, breast conserving surgery rate (T2-3 tumours only), disease-free survival (DFS), and PFS.
 Additional exploratory pCR rates included nodal status (ypT0/isN0 and ypT0N0).
@@ -122,7 +127,6 @@ The difference in pCR rate is considered likely to translate into a clinically m
 The pCR rates as well as the magnitude of benefit with Perjeta (Perjeta plus trastuzumab and docetaxel compared to patients receiving trastuzumab and docetaxel) were lower in the subgroup of patients with hormone receptor-positive tumours (difference of 6% in pCR in the breast) than in patients with hormone receptor-negative tumours (difference of 26.4% in pCR in the breast).
 pCR rates were similar in patients with operable versus locally advanced disease.
 There were too few patients with inflammatory breast cancer to draw any firm conclusions but the pCR rate was higher in patients who received Perjeta plus trastuzumab and docetaxel.
-
 TRYPHAENA (BO22280)
 
 TRYPHAENA is a multicentre, randomised phase II clinical trial conducted in 225 adult female patients with HER2-positive locally advanced, operable, or inflammatory breast cancer (T2-4d; primary tumour > 2cm in diameter) who had not received prior trastuzumab, chemotherapy or radiotherapy.
@@ -145,6 +149,7 @@ Following surgery all patients received trastuzumab to complete one year of ther
 
 The primary endpoint of this study was cardiac safety during the neoadjuvant treatment period of the study.
 Secondary efficacy endpoints were pCR rate in the breast (ypT0/is), DFS, PFS and OS.
+
 Demographics were well balanced between arms (median age was 49-50 years, the majority were Caucasian [77%]) and all patients were female.
 Overall 6% of patients had inflammatory breast cancer, 25% had locally advanced breast cancer and 69% had operable breast cancer.
 Approximately half the patients in each treatment group had ER-positive and/or PgR-positive disease.
@@ -225,7 +230,7 @@ Table 5 Overall Efficacy: ITT Population
 |  | Perjeta + trastuzumab + Chemotherapy N=2400 | Placebo + trastuzumab + Chemotherapy N=2404 |
 | --- | --- | --- |
 | Primary Endpoint |  |  |
-| Invasive Disease Free Survival (IDFS) Number (%) of patients with event HR [95% CI] p-value (Log-Rank test, stratified1) 3 year event-free rate3 [95% CI] | 171 (7.1%) 210 (8.7%) 0.81 [0.66, 1.00] 0.0446 94.1 [93.1, 95.0] 93.2 [92.2, 94.3] |  |
+| Invasive Disease Free Survival (IDFS) Number (%) of patients with event HR [95% CI] p-value (Log-Rank test, stratified1) 3 year event-free rate2 [95% CI] | 171 (7.1%) 210 (8.7%) 0.81 [0.66, 1.00] 0.0446 94.1 [93.1, 95.0] 93.2 [92.2, 94.3] |  |
 | Secondary Endpoints1 |  |  |
 | IDFS including second primary non-breast cancer Number (%) of patients with event HR [95% CI] p-value (Log-Rank test, stratified1) 3 year event-free rate2 [95% CI] | 189 (7.9%) 230 (9.6%) 0.82 [0.68, 0.99] 0.0430 93.5 [92.5, 94.5] 92.5 [91.4, 93.6] |  |
 | Disease Free Survival (DFS) Number (%) of patients with event HR [95% CI] p-value (Log-Rank test, stratified1) 3 year event-free rate2 [95% CI] | 192 (8.0%) 236 (9.8%) 0.81 [0.67, 0.98] 0.0327 93.4 [92.4, 94.4] 92.3 [91.2, 93.4] |  |

@@ -53,7 +53,7 @@ Diarrhoea
 
 Perjeta may elicit severe diarrhoea.
 Diarrhoea is most frequent during concurrent administration with taxane therapy.
-Elderly patients (> 65 years) may have a higher risk of diarrhoea compared with younger patients (< 65 years).
+Elderly patients (> 65 years) have a higher risk of diarrhoea compared with younger patients (< 65 years).
 Treat diarrhoea according to standard practice and guidelines.
 Early intervention with loperamide, fluids and electrolyte replacement should be considered, particularly in elderly patients, and in case of severe or prolonged diarrhoea.
 Interruption of treatment with pertuzumab should be considered if no improvement in the patient’s condition is achieved.

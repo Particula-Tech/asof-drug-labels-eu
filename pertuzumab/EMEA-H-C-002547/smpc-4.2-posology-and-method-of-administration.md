@@ -9,6 +9,7 @@ Patients treated with Perjeta must have HER2-positive tumour status, defined as 
 
 To ensure accurate and reproducible results, the testing must be performed in a specialised laboratory, which can ensure validation of the testing procedures.
 For full instructions on assay performance and interpretation please refer to the package leaflets of validated HER2 testing assays.
+
 The recommended initial loading dose of pertuzumab is 840 mg administered as a 60 minute intravenous infusion, followed every 3 weeks thereafter by a maintenance dose of 420 mg administered over a period of 30 to 60 minutes.
 An observation period of 30 - 60 minutes is recommended after completion of each infusion.
 The observation period should be completed prior to any subsequent infusion of trastuzumab or chemotherapy (see section 4.4).
@@ -89,9 +90,10 @@ Perjeta and trastuzumab may be resumed if the LVEF has recovered to ≥50% or to
 < 10% points below pre-treatment values.
 
 Elderly patients
-No overall differences in efficacy and safety of Perjeta were observed in patients ≥65 and <65 years of age with the exception of diarrhoea, which had an increased incidence in patients ≥65 years of age.
+No overall differences in efficacy of Perjeta were observed in patients ≥ 65 and < 65 years of age.
 No dose adjustment is necessary in the elderly population ≥ 65 years of age.
 Limited data are available in patients > 75 years of age.
+Please see section 4.8 for assessment of safety of Perjeta in elderly patients.
 
 Renal impairment
 Dose adjustments of pertuzumab are not needed in patients with mild or moderate renal impairment.

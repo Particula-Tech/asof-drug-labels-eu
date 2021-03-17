@@ -150,6 +150,11 @@ In the TRYPHAENA trial, the incidence of NCI-CTCAE v.3 Grade 3-4 neutropenia was
 
 In the APHINITY trial, the incidence of NCI-CTCAE v.4 Grade 3-4 neutropenia was 40.6% in patients treated with Perjeta, trastuzumab and chemotherapy compared with 39.1% in patients treated with placebo, trastuzumab and chemotherapy, including 28.3% and 26.5% Grade 4 neutropenia, respectively.
 
+Elderly Patients
+
+The incidence of the following all grade adverse events was at least 5% higher in patients ≥ 65 years of age, compared to patients < 65 years of age: decreased appetite, anaemia, weight decreased, asthenia, dysgeusia, peripheral neuropathy, hypomagnesemia and diarrhoea.
+Limited data are available in patients > 75 years of age.
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
