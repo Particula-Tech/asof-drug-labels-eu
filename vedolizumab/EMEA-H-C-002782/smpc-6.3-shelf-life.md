@@ -12,12 +12,12 @@ Storage condition
 Refrigerator (2°C-8°C) 20°C-25°C
 Reconstituted solution in the vial 8 hours Do not hold1
 Diluted solution in sodium chloride 9 mg/mL (0.9%) solution for injection 24 hours2,3 12 hours2
+
 1 Up to 30 minutes are allowed for reconstitution
-2 This time assumes the reconstituted solution is immediately diluted in the sodium chloride 9 mg/mL (0.9%)
-solution for injection and held in the infusion bag only. Any time that the reconstituted solution was held in the
-vial should be subtracted from the time the solution may be held in the infusion bag.
+2 This time assumes the reconstituted solution is immediately diluted in the sodium chloride 9 mg/mL (0.9%) solution for injection and held in the infusion bag only.
+Any time that the reconstituted solution was held in the vial should be subtracted from the time the solution may be held in the infusion bag.
 3 This period may include up to 12 hours at 20 °C-25 °C.
 
 [Entyvio 108 mg solution for injection in pre-filled syringe]
 
-18 months
+24 months

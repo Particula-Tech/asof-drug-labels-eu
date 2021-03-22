@@ -14,6 +14,7 @@ The α4β7 integrin is expressed on a discrete subset of memory T helper lymphoc
 Vedolizumab reduces gastrointestinal inflammation in UC and CD patients.
 Inhibiting the interaction of α4β7 with MAdCAM-1 with vedolizumab prevents transmigration of gut-homing memory T helper lymphocytes across the vascular endothelium into parenchymal tissue in nonhuman primates and induced a reversible 3-fold elevation of these cells in peripheral blood.
 The murine precursor of vedolizumab alleviated gastrointestinal inflammation in colitic cotton-top tamarins, a model of ulcerative colitis.
+
 In healthy subjects, ulcerative colitis patients, or Crohn’s disease patients, vedolizumab does not elevate neutrophils, basophils, eosinophils, B-helper and cytotoxic T lymphocytes, total memory T helper lymphocytes, monocytes or natural killer cells, in the peripheral blood with no leukocytosis observed.
 
 Vedolizumab did not affect immune surveillance and inflammation of the central nervous system in Experimental Autoimmune Encephalomyelitis in non-human primates, a model of multiple sclerosis.
@@ -275,7 +276,7 @@ aEndpoints are presented in the order that fixed-sequence testing was performed 
 cEstimate of treatment difference and the p-value for all endpoints is based on the Cochrane-Mantel-Haenszel method dClinical remission: Complete Mayo score of ≤ 2 points and no individual subscore > 1 point at week 52 eMucosal healing: Mayo endoscopic subscore of ≤ 1 point fDurable clinical response: Clinical response at weeks 6 and 52 gDurable clinical remission: Clinical remission at weeks 6 and 52 hCorticosteroid-free clinical remission: Patients using oral corticosteroids at baseline who had discontinued corticosteroids and were in clinical remission at week 52.
 Patient numbers using oral corticosteroids at baseline were n = 24 for placebo, n = 45 for subcutaneous vedolizumab and n = 21 for intravenous vedolizumab
 NS = non significant (2-tailed p-value > 0.05)
-The primary and secondary endpoints were analysed in subgroups of patients who had failed prior TNFα antagonist therapy (37%; n = 804) and patients who were naïve to previous TNFα antagonist therapy (63%; n = 136).
+The primary and secondary endpoints were analysed in subgroups of patients who had failed prior TNFα antagonist therapy (37%; n = 80) and patients who were naïve to previous TNFα antagonist therapy (63%; n = 136).
 Results of study patients treated with placebo and subcutaneous vedolizumab in these subgroups are presented in Table 5.
 
 VISIBLE 1 Study results at week 52 analysed by response to prior previous TNFα antagonist therapy
@@ -326,7 +327,7 @@ Table 6.
 
 Table 7.
 
-Crohn’s disease s - vedolizumab for subcutaneous administration
+Crohn’s disease - vedolizumab for subcutaneous administration
 
 The efficacy and safety of subcutaneous vedolizumab for the treatment of adult patients with moderately to severely active Crohn’s disease (CDAI score of 220 to 450) was demonstrated in a randomised, double-blind, placebo-controlled study evaluating efficacy endpoints at week 52 (VISIBLE 2).
 In VISIBLE 2, enrolled patients (n = 644) had inadequate response to, loss of response to, or intolerance to one conventional therapy, including corticosteroids, immunomodulators, and/or TNFα antagonists (including primary non-responders).

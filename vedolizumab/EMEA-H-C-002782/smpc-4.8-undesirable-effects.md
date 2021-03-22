@@ -9,7 +9,7 @@ Infusion related reactions (with symptoms such as dyspnea, bronchospasm, urticar
 Tabulated list of adverse reactions
 
 The following listing of adverse reactions is based on clinical trial and post marketing experience and is displayed by system organ class.
-Within the system organ classes, adverse reactions are listed under headings of the following frequency categories: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100) and very rare (< 1/10,000).
+Within the system organ classes, adverse reactions are listed under headings of the following frequency categories: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), very rare (< 1/10,000) and not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1.
@@ -27,6 +27,7 @@ Adverse reactions
 | Eye disorders | Very rare | Blurred vision |
 | Vascular disorders | Common | Hypertension |
 | Respiratory, thoracic and mediastinal disorders | Common | Oropharyngeal pain, Nasal congestion, Cough |
+|  | Not known | Interstitial lung disease |
 | Gastrointestinal disorders | Common | Anal Abscess, Anal fissure, Nausea, Dyspepsia, Constipation, Abdominal distension, Flatulence, Haemorrhoids |
 | Skin and subcutaneous tissue disorders | Common | Rash, Pruritus, Eczema, Erythema, Night sweats, Acne |
 |  | Uncommon | Folliculitis |
@@ -58,8 +59,8 @@ Most patients continued on vedolizumab after the infection resolved.
 
 In GEMINI 1 and 2 controlled studies with intravenous vedolizumab, the rate of serious infections was 0.07 per patient year in vedolizumab-treated patients and 0.06 per patient year in placebo-treated patients.
 Over time, there was no significant increase in the rate of serious infections.
-In controlled and open-label studies in adults with intravenous vedolizumab, serious infections have been reported, which include tuberculosis, sepsis (some fatal), salmonella sepsis, listeria meningitis, and cytomegaloviral colitis.
 
+In controlled and open-label studies in adults with intravenous vedolizumab, serious infections have been reported, which include tuberculosis, sepsis (some fatal), salmonella sepsis, listeria meningitis, and cytomegaloviral colitis.
 In clinical studies with intravenous vedolizumab, the rate of infections in vedolizumab-treated patients with BMI of 30 kg/m2 and above was higher than for those with BMI less than 30 kg/m2.
 
 In clinical studies with intravenous vedolizumab, a slightly higher incidence of serious infections was reported in vedolizumab-treated patients who had prior exposure to TNFα antagonist therapy compared to patients who were naïve to previous TNFα antagonist therapy.
@@ -91,6 +92,7 @@ No clinically relevant differences in the overall safety profile and adverse rea
 | Eye disorders | Very rare | Blurred vision |
 | Vascular disorders | Common | Hypertension |
 | Respiratory, thoracic and mediastinal disorders | Common | Oropharyngeal pain, Nasal congestion, Cough |
+|  | Not known | Interstitial lung disease |
 | Gastrointestinal disorders | Common | Anal Abscess, Anal fissure, Nausea, Dyspepsia, Constipation, Abdominal distension, Flatulence, Haemorrhoids |
 | Skin and subcutaneous tissue disorders | Common | Rash, Pruritus, Eczema, Erythema, Night sweats, Acne |
 |  | Uncommon | Folliculitis |

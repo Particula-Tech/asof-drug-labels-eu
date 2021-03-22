@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Takeda Pharma A/S
-Dybendal Alle 10
-2630 Taastrup
+Delta Park 45
+2665 Vallensbaek Strand
 Denmark
