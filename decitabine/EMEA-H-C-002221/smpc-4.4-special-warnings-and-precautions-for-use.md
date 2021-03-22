@@ -32,6 +32,12 @@ Patients with a history of severe congestive heart failure or clinically unstabl
 Cases of cardiomyopathy with cardiac decompensation, in some cases reversible after treatment discontinuation, dose reduction or corrective treatment, have been reported in the postmarketing setting.
 Patients, especially those with cardiac disease history, should be monitored for signs and symptoms of heart failure.
 
+Differentiation syndrome
+Cases of differentiation syndrome (also known as retinoic acid syndrome) have been reported in patients receiving decitabine.
+Differentiation syndrome may be fatal (see section 4.8).
+Treatment with high-dose IV corticosteroids and haemodynamic monitoring should be considered at first onset of symptoms or signs suggestive of differentiation syndrome.
+Temporary discontinuation of Dacogen should be considered until resolution of symptoms and if resumed, caution is advised.
+
 Excipients
 This medicine contains 0.5 mmol potassium per vial.
 After reconstitution and dilution of the solution for intravenous infusion, this medicine contains less than 1 mmol (39 mg) of potassium per dose, i.e. essentially ‘potassium- free’.

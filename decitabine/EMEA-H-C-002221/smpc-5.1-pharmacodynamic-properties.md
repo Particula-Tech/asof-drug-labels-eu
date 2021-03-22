@@ -27,6 +27,7 @@ Progression-free survival and Event-free survival were tertiary endpoints.
 The median overall survival in the --ITT population was 7.7 months in subjects treated with Dacogen compared to 5.0 months for subjects in the TC arm (hazard ratio 0.85; 95% CI: 0.69, 1.04, p = 0.1079).
 The difference did not reach statistical significance, however, there was a trend for improvement in survival with a 15% reduction in the risk of death for subjects in the Dacogen arm (Figure 1).
 When censored for potentially disease modifying subsequent therapy (i.e., induction chemotherapy or hypomethylating agent) the analysis for overall survival showed a 20% reduction in the risk of death for subjects in the Dacogen arm [HR = 0.80, (95% CI: 0.64, 0.99), p-value = 0.0437)].
+
 Figure 1.
 Overall survival (ITT population).
 

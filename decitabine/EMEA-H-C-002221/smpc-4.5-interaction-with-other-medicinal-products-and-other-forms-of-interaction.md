@@ -3,7 +3,6 @@
 No formal clinical drug interaction studies with decitabine have been conducted.
 There is the potential for a drug-drug interaction with other agents which are also activated by sequential phosphorylation (via intracellular phosphokinase activities) and/or metabolised by enzymes implicated in the inactivation of decitabine (e.g., cytidine deaminase).
 Therefore, caution should be exercised if these active substances are combined with decitabine.
-
 Impact of co-administered medicinal products on decitabine
 Cytochrome (CYP) 450-mediated metabolic interactions are not anticipated as decitabine metabolism is not mediated by this system but by oxidative deamination.
 

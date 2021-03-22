@@ -4,7 +4,6 @@ Summary of the safety profile
 The most common adverse drug reactions (≥35%) reported are pyrexia, anaemia and thrombocytopaenia.
 
 The most common Grade 3/4 adverse drug reactions (≥20%) included pneumonia, thrombocytopaenia, neutropaenia, febrile neutropaenia and anaemia.
-
 In clinical studies, 30% of patients treated with Dacogen and 25% of patients treated in the comparator arm had adverse events with an outcome of death during treatment or within 30 days after the last dose of study drug.
 
 In the Dacogen treatment group, there was a higher incidence of treatment discontinuation due to adverse events in women compared to men (43% versus 32%).
@@ -30,6 +29,7 @@ Table 1: Adverse drug reactions identified with Dacogen
 |  | Common | septic shock* | 6 | 4 |
 |  |  | sepsis* | 9 | 8 |
 |  |  | sinusitis | 3 | 1 |
+| Neoplasms benign, malignant and unspecified (incl. cysts and polyps) | Not known | differentiation syndrome | Not known | Not known |
 | Blood and lymphatic disorders | Very common | febrile neutropaenia* | 34 | 32 |
 |  |  | neutropaenia* | 32 | 30 |
 |  |  | thrombocytopaenia*, e | 41 | 38 |
@@ -39,7 +39,7 @@ Table 1: Adverse drug reactions identified with Dacogen
 | Immune system disorders | Common | hypersensitivity including anaphylactic reactionf | 1 | < 1 |
 | Metabolism and nutrition disorders | Very common | hyperglycaemia | 13 | 3 |
 | Nervous system disorders | Very common | headache | 16 | 1 |
-| Cardiac disorders | Uncommon | Cardiomyopathy | < 1 | < 1 |
+| Cardiac disorders | Uncommon | cardiomyopathy | < 1 | < 1 |
 | Respiratory, thoracic and mediastinal disorders | Very common | epistaxis | 14 | 2 |
 |  | Not known | interstitial lung disease | Not known | Not known |
 | Gastrointestinal disorders | Very common | diarrhoea | 31 | 2 |
@@ -82,6 +82,11 @@ Enterocolitis may lead to septic complications and may be associated with fatal 
 
 Respiratory, thoracic and mediastinal disorders
 Cases of interstitial lung disease (including pulmonary infiltrates, organising pneumonia and pulmonary fibrosis) without signs of infectious aetiology have been reported in patients receiving decitabine.
+Differentiation syndrome
+Cases of differentiation syndrome (also known as retinoic acid syndrome) have been reported in patients receiving decitabine.
+Differentiation syndrome may be fatal and symptoms and clinical findings include respiratory distress, pulmonary infiltrates, fever, rash, pulmonary oedema, peripheral oedema, rapid weight gain, pleural effusions, pericardial effusions, hypotension and renal dysfunction.
+Differentiation syndrome may occur with or without concomitant leucocytosis.
+Capillary leak syndrome and coagulopathy can also occur (see section 4.4).
 
 Paediatric population
 The safety assessment in paediatric patients is based on the limited safety data from a Phase I/II study to evaluate pharmacokinetics, safety and efficacy of Dacogen in paediatric patients (aged 1 to 14 years) with relapsed or refractory AML (n = 17) (see section 5.1).
