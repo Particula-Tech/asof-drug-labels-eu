@@ -19,7 +19,7 @@ Rare: Tuberculosis, opportunistic infections (such as invasive fungal infections
 Neoplasms, benign, malignant and unspecified
 Uncommon: Neoplasms (such as skin cancer, squamous cell carcinoma and melanocytic naevus)
 Rare: Lymphoma, leukaemia, melanoma, Merkel cell carcinoma
-Not known: Hepatosplenic T-cell lymphoma*
+Not known: Hepatosplenic T-cell lymphoma*, Kaposi’s sarcoma
 Blood and lymphatic system disorders
 Common: Leukopenia (including neutropenia), anaemia
 Uncommon: Thrombocytopenia, pancytopenia
@@ -35,7 +35,7 @@ Common: Depression, insomnia
 Nervous system disorders
 Common: Dizziness, headache, paraesthesia
 Uncommon: Balance disorders
-Rare: Demyelinating disorders (central and peripheral), dysguesia Eye disorders
+Rare: Demyelinating disorders (central and peripheral), dysgeusia Eye disorders
 Uncommon: Visual disorders (such as blurred vision and decreased visual acuity), conjunctivitis, eye allergy (such as pruritis and irritation)
 Cardiac disorders
 Uncommon: Arrhythmia, ischemic coronary artery disorders
@@ -55,7 +55,8 @@ Common: Alanine aminotransferase increased, aspartate aminotransferase increased
 Uncommon: Cholelithiasis, hepatic disorders
 Skin and subcutaneous tissue disorders
 Common: Pruritus, rash, alopecia, dermatitis
-Uncommon: Bullous skin reactions, psoriasis (new onset or worsening of pre-existing psoriasis, palmar/plantar and pustular), urticaria Rare: Lichenoid reactions, skin exfoliation, vasculitis (cutaneous) Musculoskeletal and connective tissue disorders
+Uncommon: Bullous skin reactions, psoriasis (new onset or worsening of pre-existing psoriasis, palmar/plantar and pustular), urticaria Rare: Lichenoid reactions, skin exfoliation, vasculitis (cutaneous) Not known: Worsening of symptoms of dermatomyositis
+Musculoskeletal and connective tissue disorders
 Rare: Lupus-like syndrome
 Renal and urinary disorders
 Rare: Bladder disorders, renal disorders
@@ -66,7 +67,7 @@ Common: Pyrexia, asthenia, injection site reaction (such as injection site eryth
 Rare: Impaired healing
 Injury, poisoning and procedural complications
 Common: Bone fractures
-*: Observed with other TNF-blocking agents.
+* Observed with other TNF-blocking agents.
 
 Throughout this section, median duration of follow-up (approximately 4 years) is generally presented for all golimumab use.
 Where golimumab use is described by dose, the median duration of follow-up varies (approximately 2 years for 50 mg dose, approximately 3 years for 100 mg dose) as patients may have switched between doses.

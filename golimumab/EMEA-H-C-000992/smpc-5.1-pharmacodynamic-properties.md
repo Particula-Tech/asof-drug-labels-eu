@@ -46,7 +46,7 @@ Improvements from baseline in ACR Ped components at week 16a
 | Physical function by CHAQd | 50% |
 | ESR (mm/h)e | 33% |
 
-a baseline = week 0 b “n” reflects enrolled patients c VAS: Visual Analogue Scale d CHAQ: Child Health Assessment Questionaire e ESR (mm/h): erythrocyte sedimentation rate (millimetres per hour)
+a baseline = week 0 b “n” reflects enrolled patients c VAS: Visual Analogue Scale d CHAQ: Child Health Assessment Questionnaire e ESR (mm/h): erythrocyte sedimentation rate (millimetres per hour)
 
 The primary endpoint, the proportion of children who were ACR Ped 30 responders at week 16 and who did not experience a flare between week 16 and week 48, was not achieved.
 The majority of children did not experience a flare between week 16 and week 48 (59% in the Simponi + MTX and 53% in the placebo + MTX groups, respectively; p = 0.41).
@@ -133,7 +133,7 @@ Among those, 85, 66 and 53 patients had ACR 20/50/70 response, respectively, at 
 Among patients remaining in the study and treated with Simponi, similar rates of
 ACR 20/50/70 response were observed from week 104 through week 256.
 
-Radiographic response:
+Radiographic response
 In GO-BEFORE the change from baseline in the vdH-S score, a composite score of structural damage that radiographically measures the number and size of joint erosions and the degree of joint space narrowing in hands/wrists and feet, was used to assess the degree of structural damage.
 Key results for the Simponi 50 mg dose at week 52 are presented in Table 5.
 
@@ -227,7 +227,7 @@ Simponi treatment resulted in significant improvement in physical function as as
 Among patients who remained on the Simponi treatment to which they were randomised at study start, DAS28 and HAQ DI responses were maintained through week 104.
 Among patients remaining in the study and treated with Simponi, DAS28 and HAQ DI responses were similar from week 104 through week 256.
 
-Radiographic response:
+Radiographic response
 Structural damage in both hands and feet was assessed radiographically by the change from baseline in the vdH-S score, modified for PsA by addition of hand distal interphalangeal (DIP) joints.
 
 Simponi 50 mg treatment reduced the rate of progression of peripheral joint damage compared with placebo treatment at week 24 as measured by change from baseline in total modified vdH-S Score (mean ± SD score was 0.27 ± 1.3 in the placebo group compared with -0.16 ± 1.3 in the Simponi group; p = 0.011).
@@ -307,6 +307,7 @@ Key efficacy outcomes from GO-RAISE.
 * p ≤0.001 for all comparisons a n reflects randomised patients; actual number of patients evaluable for each endpoint may vary by timepoint
 
 Among patients remaining in the study and treated with Simponi, the proportion of patients with an ASAS 20 and ASAS 40 response were similar from week 24 through week 256.
+
 Statistically significant responses in BASDAI 50, 70 and 90 (p ≤0.017) were also seen at weeks 14 and 24.
 Improvements in key measures of disease activity were observed at the first assessment
 (week 4) after the initial Simponi administration and were maintained through week 24.
@@ -432,21 +433,6 @@ The European Medicines Agency has deferred the obligation to submit the results 
 [Simponi 100 mg solution for injection in pre-filled pen.]
 
 Patients who completed the maintenance study through week 54 continued treatment in a study extension, with efficacy evaluated through week 216.
-
-| PURSUIT-Induction |  |  |
-| --- | --- | --- |
-|  | Placebo N = 251 | Simponi 200/100 mg N = 253 |
-| Percentage of patients |  |  |
-| Patients in clinical response at week 6a | 30% | 51%** |
-| Patients in clinical remission at week 6b | 6% | 18%** |
-| Patients with mucosal healing at week 6c | 29% | 42%* |
-
-| PURSUIT-Maintenance |  |  |  |
-| --- | --- | --- | --- |
-|  | Placebod N = 154 | Simponi 50 mg N = 151 | Simponi 100 mg N = 151 |
-| Percentage of patients |  |  |  |
-| Maintenance of response (Patients in clinical response through week 54)e | 31% | 47%* | 50%** |
-| Sustained remission (Patients in clinical remission at both week 30 and week 54)f | 16% | 23%g | 28%* |
 
 Across the Phase III RA, PsA and AS studies through week 52, antibodies to golimumab were detected in 5% (105/2062) of golimumab treated patients and, where tested, nearly all antibodies were neutralising in vitro.
 
