@@ -40,6 +40,7 @@ In patients with type 2 diabetes, semaglutide resulted in the following relative
 Glucose dependent insulin and glucagon secretion
 Semaglutide lowered high blood glucose concentrations by stimulating insulin secretion and lowering glucagon secretion in a glucose dependent manner.
 With semaglutide, the insulin secretion rate in patients with type 2 diabetes was comparable to that of healthy subjects.
+
 During induced hypoglycaemia, semaglutide compared to placebo did not alter the counter regulatory responses of increased glucagon and did not impair the decrease of C-peptide in patients with type 2-diabetes.
 
 Gastric emptying
@@ -64,11 +65,13 @@ Both improvement of glycaemic control and reduction of cardiovascular morbidity 
 The efficacy and safety of Ozempic 0.5 mg and 1 mg once weekly were evaluated in six randomised controlled phase 3a trials that included 7,215 patients with type 2 diabetes mellitus (4,107 treated with semaglutide).
 Five trials (SUSTAIN 1–5) had the glycaemic efficacy assessment as the primary objective, while one trial (SUSTAIN 6) had cardiovascular outcome as the primary objective.
 
-An additional trial including 1,201 patients was conducted to compare the efficacy and safety of Ozempic 0.5 mg and 1 mg once weekly to dulaglutide 0.75 mg and 1.5 mg once weekly, respectively.
+In addition a phase 3b trial (SUSTAIN 7) including 1,201 patients was conducted to compare the efficacy and safety of Ozempic 0.5 mg and 1 mg once weekly to dulaglutide 0.75 mg and 1.5 mg once weekly, respectively.
+A phase 3b trial (SUSTAIN 9), was conducted to investigate the efficacy and safety of semaglutide as add-on to SGLT2 inhibitor treatment.
 
 Treatment with semaglutide demonstrated sustained, statistically superior and clinically meaningful reductions in HbA1c and body weight for up to 2 years compared to placebo and active control treatment (sitagliptin, insulin glargine, exenatide ER and dulaglutide).
-
 The efficacy of semaglutide was not impacted by age, gender, race, ethnicity, BMI at baseline, body weight (kg) at baseline, diabetes duration and level of renal function impairment.
+
+Detailed information is provided below.
 
 SUSTAIN 1 – Monotherapy
 In a 30-week double-blind placebo-controlled trial, 388 patients inadequately controlled with diet and exercise, were randomised to Ozempic 0.5 mg or Ozempic 1 mg once weekly or placebo.
@@ -128,6 +131,7 @@ Time since randomisation (week) Time since randomisation (week)
 Sitagliptin Ozempic 0.5 mg Ozempic 1 mg Ozempic 0.5 mg Sitagliptin Ozempic 1 mg
 
 Figure 1 Mean change in HbA1c (%) and body weight (kg) from baseline to week 56
+
 SUSTAIN 7 – Ozempic vs. dulaglutide both in combination with metformin
 In a 40-week, open-label trial, 1,201 patients on metformin were randomised 1:1:1:1 to once weekly Ozempic 0.5 mg, dulaglutide 0.75 mg , Ozempic 1 mg or dulaglutide 1.5 mg, respectively .
 The trial compared 0.5 mg of Ozempic to 0.75 mg of dulaglutide and 1 mg of Ozempic to 1.5 mg of dulaglutide.
@@ -159,8 +163,7 @@ ap <0.0001 (2-sided) for superiority b Ozempic 0.5 mg vs dulaglutide 0.75 mg c O
 . . . .
 . . . .
 . . . . . . . . . . . .
-. . . . . . . . .
-. . . . .
+. . . . . . . . . . . . . .
 . . . . . . . .
 . . .
 Time since randomisation (week) Time since randomisation (week)
@@ -237,6 +240,29 @@ Table 7 SUSTAIN 5: Results at week 30
 | Difference from placebo [95% CI] | -2.3 [-3.3, -1.3]a | -5.1 [-6.1, -4.0]a | - |
 
 ap <0.0001 (2-sided) for superiority
+
+SUSTAIN 9 – Ozempic vs. placebo as add-on to SGLT2 inhibitor ± metformin or SU
+In a 30-week double-blind placebo-controlled trial, 302 patients inadequately controlled with SGLT2 inhibitor with or without metformin or SU were randomised to semaglutide 1.0 mg once weekly or placebo.
+
+Table 8 SUSTAIN 9: Results at week 30
+
+|  | Semaglutide 1 mg | Placebo |
+| --- | --- | --- |
+| Intent-to-Treat (ITT) Population (N) | 151 | 151 |
+| HbA1c (%) |  |  |
+| Baseline (mean) | 8.0 | 8.1 |
+| Change from baseline at week 30 | -1.5 | -0.1 |
+| Difference from placebo [95% CI] | -1.4 [-1.6, -1.2]a | - |
+| Patients (%) achieving HbA1c <7% | 78.7 | 18.7 |
+| FPG (mmol/L) |  |  |
+| Baseline (mean) | 9.1 | 8.9 |
+| Change from baseline at week 30 | -2.2 | 0.0 |
+| Body weight (kg) |  |  |
+| Baseline (mean) | 89.6 | 93.8 |
+| Change from baseline at week 30 | -4.7 | -0.9 |
+| Difference from placebo [95% CI] | -3.8 [-4.7, -2.9]a | - |
+
+ap < 0.0001 (2-sided) for superiority, adjusted regarding multiplicity based on hierarchical testing of the HbA1c value and body weight
 
 Combination with sulfonylurea monotherapy
 In SUSTAIN 6 (see subsection Cardiovascular disease) 123 patients were on sulfonylurea monotherapy at baseline.

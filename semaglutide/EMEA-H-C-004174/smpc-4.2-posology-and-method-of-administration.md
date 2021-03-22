@@ -8,7 +8,7 @@ After at least 4 weeks with a dose of 0.5 mg once weekly, the dose can be increa
 Semaglutide 0.25 mg is not a maintenance dose.
 Weekly doses higher than 1 mg are not recommended.
 
-When Ozempic is added to existing metformin and/or thiazolidinedione therapy, the current dose of metformin and/or thiazolidinedione can be continued unchanged.
+When Ozempic is added to existing metformin and/or thiazolidinedione therapy or to a sodium-glucose cotransporter 2 (SGLT2) inhibitor, the current dose of metformin and/or thiazolidinedione or SGLT2 inhibitor can be continued unchanged.
 
 When Ozempic is added to existing therapy of sulfonylurea or insulin, a reduction in the dose of sulfonylurea or insulin should be considered to reduce the risk of hypoglycaemia (see sections 4.4 and 4.8).
 
