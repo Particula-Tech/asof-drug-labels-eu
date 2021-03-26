@@ -302,13 +302,13 @@ Secondary efficacy endpoints included objective response rate (ORR) and duration
 PFS, ORR and DOR results of IMpassion130 for patients with PD-L1 expression ≥ 1% at the time of the final analysis for PFS with a median survival follow up of 13 months are summarised in Table 6 with Kaplan-Meier curves for PFS in Figure 4.
 Patients with PD-L1 expression <1% did not show improved PFS when atezolizumab was added to nab-paclitaxel (HR of 0.94, 95% CI 0.78, 1.13).
 
-An updated OS analysis was performed with a median follow up of 18 months, OS results are presented in Table 6 and Kaplan-Meier curves in Figure 5.
-Patients with PD-L1 expression <1% did not show improved OS when atezolizumab was added to nab-paclitaxel (HR of 0.97, 95% CI 0.78, 1.20).
-At the time of the updated OS analysis, an exploratory PFS analysis was performed as presented in Table 6.
+The final OS analysis was performed in patients with PD-L1 expression ≥ 1% with a median follow up of 19.12 months.
+OS results are presented in Table 6 and Kaplan-Meier curves in Figure 5.
+Patients with PD-L1 expression <1% did not show improved OS when atezolizumab was added to nab-paclitaxel (HR of 1.02, 95% CI 0.84, 1.24).
 
 Exploratory subgroup analyses were performed in patients with PD-L1 expression ≥ 1%, exploring prior (neo)adjuvant treatment, BRCA1/2 mutation and asymptomatic brain metastases at baseline.
 
-In patients who had received prior (neo) adjuvant treatment (n=242), the hazard ratio for PFS was 0.79 and 0.82 for OS while in patients who had not received prior (neo)adjuvant treatment (n=127), the hazard ratio for PFS was 0.44 and 0.53 for OS.
+In patients who had received prior (neo) adjuvant treatment (n=242), the hazard ratio for primary (final) PFS was 0.79 and 0.77 for final OS while in patients who had not received prior (neo)adjuvant treatment (n=127), the hazard ratio for primary (final) PFS was 0.44 and 0.54 for final OS.
 
 In the IMpassion130 study, of the 614 patients tested, 89 (15%) carried pathogenic BRCA1/2 mutations.
 From the PD-L1+/BRCA1/2 mutant subgroup, 19 patients received atezolizumab plus nab-paclitaxel and 26 placebo plus nab-paclitaxel.
@@ -333,11 +333,11 @@ Median duration of PFS (months) 7.5 5.3
 Stratified hazard ratio‡ (95% CI) 0.63 (0.50-0.80)
 p-value1 <0.0001
 12-month PFS (%) 30.3 17.3
-OS1,2,4
-No. of deaths (%) 94 (50.8%) 110 (59.8%)
-Median time to events (months) 25.0 18.0
-95% CI (19.55, 30.65) (13.63, 20.07)
-Stratified hazard ratio‡ (95% CI) 0.71 (0.54, 0.93)
+OS 1,2,5
+No. of deaths (%) 120 (64.9%) 139 (75.5%)
+Median time to events (months) 25.4 17.9
+95% CI (19.6, 30.7) (13.6, 20.3)
+Stratified hazard ratio‡ (95% CI) 0.67 (0.53, 0.86)
 Secondary and exploratory endpoints
 Investigator-assessed ORR (RECIST 1.1)3 n=185 n=183
 No. of responders (%) 109 (58.9%) 78 (42.6%)
@@ -356,7 +356,9 @@ OS comparisons between treatment arms in patients with PD-L1 expression ≥1% we
 3.
 Per final analysis for PFS, ORR, DOR and first interim analysis for OS at clinical cut off 17th April 2018
 4.
-Per second interim analysis for OS and exploratory PFS analysis at clinical cut off January 2nd 2019
+Per exploratory PFS analysis at clinical cut off January 2nd 2019
+5.
+Per final analysis for OS at clinical cut off April 14th 2020
 ‡ Stratified by presence of liver metastases, and by prior taxane treatment.
 PFS=progression-free survival; RECIST=Response Evaluation Criteria in Solid Tumours v1.1.; CI=confidence interval; ORR=objective response rate; DOR=duration of response; OS=overall survival, NE=not estimable
 Figure 4: Kaplan-Meier Curve for Progression Free Survival in patients with PD-L1 expression ≥ 1% (IMpassion130)
@@ -364,11 +366,11 @@ Figure 4: Kaplan-Meier Curve for Progression Free Survival in patients with PD-L
 Figure 5: Kaplan-Meier Curve for Overall Survival in patients with PD-L1 expression ≥ 1% (IMpassion130)
 
 The time to deterioration (a sustained ≥ 10-point decline from baseline score) of patient-reported global health status/health-related quality of life as measured by the EORTC QLQ-C30 was similar in each treatment group indicating that all patients maintained their baseline HRQoL for a comparable duration of time.
-
 Efficacy in elderly patients
 
 No overall differences in efficacy were observed between patients ≥ 65 years of age and younger patients receiving atezolizumab monotherapy.
 Data for patients ≥75 years of age are too limited to draw conclusions on this population.
+
 Paediatric population
 
 An early phase, multi-centre open-label study was conducted in paediatric (<18, n=69) and young adult patients (18-30 years, n=18) with relapsed or progressive solid tumours as well as with Hodgkin’s and non-Hodgkin’s lymphoma, to evaluate the safety and pharmacokinetics of atezolizumab.
@@ -680,7 +682,7 @@ IMbrave150 (YO40245): Randomised phase III trial in patients with unresectable H
 
 A phase III, randomized, multi-center, international, open-label study, IMbrave150, was conducted to evaluate the efficacy and safety of atezolizumab in combination with bevacizumab, in patients with locally advanced or metastatic and/or unresectable HCC, who have not received prior systemic treatment.
 A total of 501 patients were randomized (2:1) to receive either atezolizumab (1,200 mg) and 15 mg/kg of bevacizumab every 3 weeks administered by intravenous infusion, or sorafenib 400 mg orally twice per day.
-Randomization was stratified by geographic region (Asia excluding Japan vs.rest of world), macrovascular invasion and/or extrahepatic spread (presence vs. absence), baseline α-fetoprotein (AFP) (<400 vs. ≥400 ng/mL) and ECOG performance status (0 vs. 1).
+Randomization was stratified by geographic region, macrovascular invasion and/or extrahepatic spread, baseline α-fetoprotein (AFP) and ECOG performance status.
 Patients in both arms received treatment until loss of clinical benefit, or unacceptable toxicity.
 Patients could discontinue either atezolizumab or bevacizumab (e.g., due to adverse events) and continue on single-agent therapy until loss of clinical benefit or unacceptable toxicity associated with the single-agent.
 
@@ -722,14 +724,18 @@ Median duration of PFS (months) 6.8 4.3
 95% CI (5.8, 8.3) (4.0, 5.6)
 Stratified hazard ratio‡ (95% CI) 0.59 (0.47, 0.76)
 6-month PFS 54.5% 37.2%
-IRF-assessed ORR, RECIST 1.1 n=326 n=159
+IRF-assessed ORR, RECIST n=326 n=159
+
+1.1
+
 No. of confirmed responders (%) 89 (27.3%) 19 (11.9%)
 95% CI (22.5, 32.5) (7.4, 18.0)
 p-value2 <0.0001
 No. of complete responses (%) 18 (5.5%) 0
 No. of partial responses (%) 71 (21.8%) 19 (11.9%)
 No. of stable disease (%) 151 (46.3%) 69 (43.4%)
-IRF-assessed DOR, RECIST 1.1 n=89 n=19
+IRF-assessed DOR, RECIST n=89 n=19
+
 Median in months NE 6.3
 95% CI (NE, NE) (4.7, NE)
 Range (months) (1.3+, 13.4+) (1.4+, 9.1+)

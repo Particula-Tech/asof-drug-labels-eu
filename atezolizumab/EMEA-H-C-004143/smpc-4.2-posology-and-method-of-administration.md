@@ -33,7 +33,6 @@ The schedule of administration must be adjusted to maintain the appropriate inte
 Dose modifications during treatment
 
 Dose reductions of Tecentriq are not recommended.
-
 Dose delay or discontinuation (see also sections 4.4 and 4.8)
 
 Table 1: Dose modification advice for Tecentriq
@@ -42,9 +41,6 @@ Table 1: Dose modification advice for Tecentriq
 | --- | --- | --- |
 | Pneumonitis | Grade 2 | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 3 or 4 | Permanently discontinue Tecentriq |
-
-| Immune related adverse reaction | Severity | Treatment modification |
-| --- | --- | --- |
 | Hepatitis in patients without hepatocellular carcinoma (HCC) | Grade 2: (ALT or AST > 3 to 5 x upper limit of normal [ULN] or blood bilirubin > 1.5 to 3 x ULN) | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 3 or 4: (ALT or AST > 5 x ULN or blood bilirubin > 3 x ULN) | Permanently discontinue Tecentriq |
 | Hepatitis in patients with HCC | If AST/ALT is within normal limits at baseline and increases to >3x to ≤10x ULN or If AST/ALT is >1 to ≤3x ULN at baseline and increases to >5x to ≤10x ULN or If AST/ALT is >3x to ≤5x ULN at baseline and increases to >8x to ≤10x ULN | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
@@ -84,7 +80,6 @@ Currently available data are described in section 4.8, 5.1 and 5.2 but no recomm
 Elderly
 
 Based on a population pharmacokinetic analysis, no dose adjustment of Tecentriq is required in patients ≥ 65 years of age (see sections 4.8 and 5.1).
-
 Renal impairment
 
 Based on a population pharmacokinetic analysis, no dose adjustment is required in patients with mild or moderate renal impairment (see section 5.2).
@@ -94,6 +89,7 @@ Hepatic impairment
 
 Based on a population pharmacokinetic analysis, no dose adjustment is required for patients with mild or moderate hepatic impairment.
 Tecentriq has not been studied in patients with severe hepatic impairment (see section 5.2).
+
 Eastern Cooperative Oncology Group (ECOG) performance status ≥ 2
 
 Patients with ECOG performance status ≥ 2 were excluded from the clinical trials in NSCLC, TNBC 2nd line UC and HCC (see sections 4.4 and 5.1, for HCC see sections 4.4 and 5.1 of the Tecentriq 1,200 mg concentrate for solution for infusion SmPC).

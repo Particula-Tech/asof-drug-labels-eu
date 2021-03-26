@@ -4,7 +4,6 @@ Summary of the safety profile
 
 The safety of atezolizumab as monotherapy is based on pooled data in 3,568 patients across multiple tumour types.
 The most common adverse reactions (> 10%) were fatigue (34.5%), decreased appetite (24.0%), nausea (22.4%), pyrexia (20.1%), diarrhoea (19.9%), cough (19.8%), rash (19.8%), dyspnoea (19.0%), musculoskeletal pain (14.7%), back pain (14.4%), vomiting (14.1%), pruritis (14.0%), asthenia (13.9%), arthralgia (13.6%), urinary tract infection (13.1%) and headache (10.9%).
-
 The safety of atezolizumab given in combination with other medicinal products, has been evaluated in 4,371 patients across multiple tumour types.
 The most common adverse reactions (≥ 20%) were anaemia (36.8 %), neutropenia (35.8 %), nausea (34.4 %), fatigue (33.0 %), thrombocytopenia
 (27.7 %), rash (27.2%), diarrhoea (27.1 %), alopecia (26.4%), constipation (25.7 %), decreased appetite (25.0%), and peripheral neuropathy (23.0 %).
@@ -12,13 +11,13 @@ The most common adverse reactions (≥ 20%) were anaemia (36.8 %), neutropenia (
 For the description of Tecentriq trials, refer to the Tecentriq 1,200 mg concentrate for solution for infusion Summary of Product Characteristics (SmPC) section 5.1.
 
 Further details on serious adverse reactions are provided in Section 4.4 Warnings & Precautions.
+
 Tabulated list of adverse reactions
 
 The Adverse Drug Reactions (ADRs) are listed by MedDRA system organ class (SOC) and categories of frequency in Table 2 for atezolizumab given as monotherapy or as combination therapy.
 Adverse reactions known to occur with atezolizumab or chemotherapies given alone may occur during treatment with these medicinal products in combination, even if these reactions were not reported in clinical trials with combination therapy.
 The following categories of frequency have been used: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
-
 Table 2: Summary of adverse reactions occurring in patients treated with atezolizumab
 
 | Atezolizumab monotherapy |  | Atezolizumab in combination therapy |
@@ -64,6 +63,7 @@ Table 2: Summary of adverse reactions occurring in patients treated with atezoli
 | Very Common | rashz, pruritus | rashz, pruritus, alopeciaah |
 | Common | dry skin |  |
 | Uncommon | psoriasis | psoriasis |
+| Rare | pemphigoid | pemphigoid |
 | Musculoskeletal and connective tissue disorders |  |  |
 | Very common | arthralgia, back pain, musculoskeletal painaa | arthralgia, musculoskeletal painaa, back pain |
 | Uncommon | Myositisab |  |
@@ -82,7 +82,8 @@ c Includes reports of blood creatinine increased, hypercreatininaemia.
 d Includes reports of thrombocytopenia, platelet count decreased.
 e Includes reports of neutropenia, neutrophil count decreased, febrile neutropenia, neutropenic sepsis, granulocytopenia.
 f Includes reports of white blood cell count decreased, leukopenia.
-g Includes reports of lymphopenia, lymphocyte count decreased h Includes reports of infusion related reaction i Includes reports of autoimmune hypothyroidism, autoimmune thyroiditis, blood thyroid stimulating hormone abnormal, blood thyroid stimulating hormone decreased, blood thyroid stimulating hormone increased, euthyroid sick syndrome, goitre, hypothyroidism, myxoedema coma, thyroid disorder, thyroid function test abnormal, thyroiditis, thyroxine decreased, thyroxine free decreased, thyroxine free increased, thyroxine increased, tri-iodothyronine decreased, tri-iodothyronine free abnormal, tri-iodothyronine free decreased, tri-iodothyronine free increased, silent thyroiditis, thyroiditis chronic.
+g Includes reports of lymphopenia, lymphocyte count decreased h Includes reports of infusion related reaction, cytokine release syndrome, hypersensitivity, anaphylaxis.
+i Includes reports of autoimmune hypothyroidism, autoimmune thyroiditis, blood thyroid stimulating hormone abnormal, blood thyroid stimulating hormone decreased, blood thyroid stimulating hormone increased, euthyroid sick syndrome, goitre, hypothyroidism, myxoedema coma, thyroid disorder, thyroid function test abnormal, thyroiditis, thyroxine decreased, thyroxine free decreased, thyroxine free increased, thyroxine increased, tri-iodothyronine decreased, tri-iodothyronine free abnormal, tri-iodothyronine free decreased, tri-iodothyronine free increased, silent thyroiditis, thyroiditis chronic.
 j Includes reports of hyperthyroidism, Basedow’s disease, endocrine ophthalmopathy, exophthalmos.
 k Includes reports of diabetes mellitus, type 1 diabetes mellitus, diabetic ketoacidosis, ketoacidosis.
 l Includes reports of adrenal insufficiency, primary adrenal insufficiency.
@@ -116,7 +117,6 @@ Description of selected adverse reactions
 The data below reflect information for significant adverse reactions for atezolizumab as monotherapy in clinical studies (see section 5.1).
 Details for the significant adverse reactions for atezolizumab when given in combination are presented if clinically relevant differences were noted in comparison to atezolizumab monotherapy.
 The management guidelines for these adverse reactions are described in sections 4.2 and 4.4.
-
 Immune-related pneumonitis
 
 Pneumonitis occurred in 2.8% (99/3,568) of patients who received atezolizumab monotherapy.
@@ -169,15 +169,14 @@ Two (<0.1%) patients required the use of corticosteroids and treatment with atez
 Hypophysitis occurred in 0.8% (3/393) of patients who received atezolizumab with bevacizumab, paclitaxel, and carboplatin.
 The median time to onset was 7.7 months (range: 5.0 to 8.8 months).
 Two patients required the use of corticosteroids.
+
 Hypophysitis occurred in 0.4% (2/473) of patients who received atezolizumab in combination with nab-paclitaxel and carboplatin.
 The median time to onset was 5.2 months (range: 5.1 to 5.3 months).
 Both patients required the use of corticosteroids.
-
 Diabetes mellitus
 
 Diabetes mellitus occurred in 0.3% (11/3,568) of patients who received atezolizumab monotherapy.
 The median time to onset was 4.2 months (range 3 days to 9.9 months).
-Diabetes mellitus requiring the use of corticosteroids occurred in < 0.1% (2/3,568) of patients receiving atezolizumab monotherapy.
 Diabetes mellitus led to the discontinuation of atezolizumab in < 0.1% (3/3,568) patients.
 
 Diabetes mellitus occurred in 2.0% (10/493) of HCC patients who received atezolizumab in combination with bevacizumab.
@@ -218,13 +217,13 @@ Immune-related myocarditis
 Myocarditis occurred in < 0.1% (2/8,000) of patients across all atezolizumab clinical trials in multiple tumour types and treatment combinations.
 The time to onset was 18 and 33 days.
 Both patients required corticosteroids and discontinued atezolizumab.
+
 Immune-related nephritis
 
 Nephritis occurred in 0.2% (8/3,568) of patients who received atezolizumab.
 The median time to onset was 6.0 months (range: 2.0 to 17.5 months).
 Nephritis led to discontinuation of atezolizumab in 4/3,568 (0.1%) patients.
 Two (<0.1%) patients required corticosteroids.
-
 Immune-related myositis
 
 Myositis occurred in 0.4% (15/3,568) of patients who received atezolizumab monotherapy.
@@ -243,8 +242,14 @@ Immunogenicity
 
 Across multiple phase III studies, 13.1% to 36.4% of patients developed treatment-emergent anti-drug antibodies (ADAs).
 
-Across pooled datasets for patients treated with atezolizumab monotherapy (N=2705) and with combination therapies (N= 2285), the following rates of adverse events (AEs) have been observed for the ADA-positive population compared to the ADA-negative population, respectively: Grade 3-4 AEs 49.1% vs. 44.3%, Serious Adverse Events (SAEs) 42.4% vs. 37.6%, AEs leading to treatment withdrawal 6.1% vs 6.7% (for monotherapy); Grade 3-4 AEs 63.9% vs. 60.9%, SAEs 43.9% vs. 35.6%, AEs leading to treatment withdrawal 22.8% vs 18.4% (for combination therapy).
-However, available data do not allow firm conclusions to be drawn on possible patterns of adverse drug reactions.
+Across pooled datasets for patients treated with atezolizumab monotherapy (N=2705) and with
+combination therapies (N= 2285), the following rates of adverse events (AEs) have been observed for
+the ADA-positive population compared to the ADA-negative population, respectively: Grade 3-4 AEs
+49.1% vs. 44.3%, Serious Adverse Events (SAEs) 42.4% vs. 37.6%, AEs leading to treatment
+withdrawal 6.1% vs 6.7% (for monotherapy); Grade 3-4 AEs 63.9% vs. 60.9%, SAEs 43.9% vs.
+35.6%, AEs leading to treatment withdrawal 22.8% vs 18.4% (for combination therapy). However,
+available data do not allow firm conclusions to be drawn on possible patterns of adverse drug
+reactions.
 
 Paediatric population
 
@@ -257,6 +262,7 @@ No overall differences in safety were observed between patients ≥ 65 years of 
 In study IMpower150, age ≥ 65 was associated with an increased risk of developing adverse events in patients receiving atezolizumab in combination with bevacizumab, carboplatin and paclitaxel.
 
 In studies IMpower150 and IMpower133, data for patients ≥75 years of age are too limited to draw conclusions on this population.
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
@@ -266,19 +272,10 @@ Healthcare professionals are asked to report any suspected adverse reactions the
 [Tecentriq 1,200 mg concentrate for solution for infusion.]
 
 The most common adverse reactions (> 10%) were fatigue (34.5%), decreased appetite (24.0%), nausea (22.4%), pyrexia (20.1%), diarrhoea (19.9%), cough (19.8%), rash (19.8%), dyspnoea (19.0%), musculoskeletal pain (14.7%), back pain (14.4%), vomiting (14.1%), pruritus (14.0%), asthenia (13.9%), arthralgia (13.6%), urinary tract infection (13.1%) and headache (10.9%).
-(27.7 %), rash (27.2%), diarrhoea (27.1 %), alopecia (26.4%),constipation (25.7 %), decreased appetite (25.0%) and peripheral neuropathy (23.0 %).
-
-The Adverse Drug Reactions (ADRs) are listed by MedDRA system organ class (SOC) and categories
-
-of frequency in Table 2 for atezolizumab given as monotherapy or as combination therapy. Adverse
-reactions known to occur with atezolizumab or chemotherapies given alone may occur during
-treatment with these medicinal products in combination, even if these reactions were not reported in
-clinical trials with combination therapy. The following categories of frequency have been used: very
-
-common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000).
+(27.7 %), rash (27.2%), diarrhoea (27.1 %), alopecia (26.4%), constipation (25.7 %), decreased appetite (25.0%) and peripheral neuropathy (23.0 %).
 
 c. Includes reports of blood creatinine increased, hypercreatininaemia d Includes reports of thrombocytopenia, platelet count decreased.
-g. Includes reports of lymphopenia, lymphocyte count decreased h Includes reports of infusion related reaction.
+g. Includes reports of lymphopenia, lymphocyte count decreased h Includes reports of infusion related reaction, cytokine release syndrome, hypersensitivity, anaphylaxis.
 i Includes reports of autoimmune hypothyroidism, autoimmune thyroiditis, blood thyroid stimulating hormone abnormal, blood thyroid stimulating hormone decreased, blood thyroid stimulating hormone increased, euthyroid sick syndrome, goitre, hypothyroidism, myxedema coma, thyroid disorder, thyroid function test abnormal, thyroiditis, thyroxine decreased, thyroxine free decreased, thyroxine free increased, thyroxine increased, tri-iodothyronine decreased, tri-iodothyronine free abnormal, tri-iodothyronine free decreased, tri-iodothyronine free increased, silent thyroiditis, thyroiditis chronic.
 n Includes reports of hypomagnesaemia, blood magnesium decreased o Includes reports of neuropathy peripheral, autoimmune neuropathy, peripheral sensory neuropathy, polyneuropathy, herpes zoster, peripheral motor neuropathy, neuralgic amyotrophy, peripheral sensorimotor neuropathy, toxic neuropathy, axonal neuropathy, lumbosacral plexopathy, neuropathic arthropathy, peripheral nerve infection.
 ac Includes reports of proteinuria, protein urine present, haemoglobinurea, urine abnormality,nephrotic syndrome, albuminuria.

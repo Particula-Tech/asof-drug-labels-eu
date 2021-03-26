@@ -14,8 +14,8 @@ For suspected immune-related adverse reactions, thorough evaluation to confirm a
 Based on the severity of the adverse reaction, atezolizumab should be withheld and corticosteroids administered.
 Upon improvement to Grade ≤ 1, corticosteroid should be tapered over ≥ 1 month.
 Based on limited data from clinical studies in patients whose immune-related adverse reactions could not be controlled with systemic corticosteroid use, administration of other systemic immunosuppressants may be considered.
-
 Atezolizumab must be permanently discontinued for any Grade 3 immune-related adverse reaction that recurs and for any Grade 4 immune-related adverse reactions, except for endocrinopathies that are controlled with replacement hormones (see sections 4.2 and 4.8).
+
 Immune-related pneumonitis
 
 Cases of pneumonitis, including fatal cases, have been observed in clinical trials with atezolizumab (see section 4.8).
@@ -100,11 +100,11 @@ Patients should be monitored for clinical signs and symptoms of meningitis or en
 Treatment with atezolizumab must be permanently discontinued for any grade of meningitis or encephalitis.
 Treatment with intravenous corticosteroids (1 to 2 mg/kg/day methylprednisolone or equivalent) should be started.
 Once symptoms improve, treatment with 1 to 2 mg/kg/day of prednisone or equivalent should follow.
-
 Immune-related neuropathies
 
 Myasthenic syndrome/myasthenia gravis or Guillain-Barré syndrome, which may be life threatening, were observed in patients receiving atezolizumab.
 Patients should be monitored for symptoms of motor and sensory neuropathy.
+
 Treatment with atezolizumab must be permanently discontinued for any grade of myasthenic syndrome / myasthenia gravis or Guillain-Barré syndrome.
 Initiation of systemic corticosteroids (at a dose of 1 to 2 mg/kg/day of prednisone or equivalent) should be considered.
 
@@ -147,6 +147,7 @@ Treatment with atezolizumab should be withheld for Grade 2 or 3 myositis and cor
 If symptoms improve to ≤ Grade 1, taper corticosteroids as clinically indicated.
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg oral prednisone or equivalent per day.
 Treatment with atezolizumab should be permanently discontinued for Grade 4 or grade 3 recurrent myositis, or when unable to reduce the corticosteroid dose to the equivalent of ≤ 10 mg prednisone per day within 12 weeks after onset.
+
 Infusion-related reactions
 
 Infusion-related reactions have been observed with atezolizumab (see section 4.8).
@@ -176,10 +177,10 @@ Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin
 Patients with NSCLC that had clear tumour infiltration into the thoracic great vessels or clear cavitation of pulmonary lesions, as seen on imaging, were excluded from the pivotal clinical study IMpower150 after several cases of fatal pulmonary haemorrhage were observed, which is a known risk factor of treatment with bevacizumab.
 
 In the absence of data, atezolizumab should be used with caution in these populations after careful evaluation of the balance of benefits and risks for the patient.
-
 Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in EGFR+ patients with NSCLC who have progressed on erlotinib+bevacizumab
 
 In study IMpower150, there are no data on the efficacy of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in EGFR+ patients who have progressed previously on erlotinib+bevacizumab.
+
 Use of atezolizumab in combination with bevacizumab in hepatocellular carcinoma
 
 Data in HCC patients with Child-Pugh B liver disease treated with atezolizumab in combination with bevacizumab are very limited and there are currently no data available in HCC patients with Child-Pugh C liver disease.
@@ -199,7 +200,6 @@ Patients who were administered a live, attenuated vaccine within 28 days prior t
 
 Patient card
 
-All prescribers of Tecentriq must be familiar with the Physician Information and Management Guidelines.
 The prescriber must discuss the risks of Tecentriq therapy with the patient.
 The patient will be provided with the patient card and instructed to carry the card at all times.
 
