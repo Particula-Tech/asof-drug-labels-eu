@@ -12,7 +12,7 @@ There is limited experience with ciclosporin in the treatment of patients with g
 Regular clinical monitoring should be exercised when treating these patients concomitantly with IKERVIS, especially with beta-blockers which are known to decrease tear secretion.
 
 Effects on the immune system
-Ophthalmic medicinal products, which affect the immune system, including ciclosporin, may affect host defences against infections and malignancies.
+Ophthalmic medicinal products, which affect the immune system, including ciclosporin, may affect host defences against local infections and malignancies.
 Therefore, regular examination of the eye(s) is recommended, e.g. at least every 6 months, when IKERVIS is used for years.
 
 Cetalkonium chloride content
