@@ -1,7 +1,7 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-Vista Building
-Elm Park, Merrion Road
-Dublin 4
+Phoenix Labs Unlimited Company
+Suite 12, Bunkilla Plaza
+Bracetown Business Park
+Clonee, County Meath
 Ireland

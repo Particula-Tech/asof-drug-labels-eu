@@ -123,6 +123,7 @@ Zometa has been associated with reports of renal dysfunction.
 In a pooled analysis of safety data from Zometa registration trials for the prevention of skeletal-related events in patients with advanced malignancies involving bone, the frequency of renal impairment adverse events suspected to be related to Zometa (adverse reactions) was as follows: multiple myeloma (3.2%), prostate cancer (3.1%), breast cancer (4.3%), lung and other solid tumours (3.2%).
 Factors that may increase the potential for deterioration in renal function include dehydration, pre-existing renal impairment, multiple cycles of Zometa or other bisphosphonates, as well as concomitant use of nephrotoxic medicinal products or using a shorter infusion time than currently recommended.
 Renal deterioration, progression to renal failure and dialysis have been reported in patients after the initial dose or a single dose of 4 mg zoledronic acid (see section 4.4).
+
 Osteonecrosis of the jaw
 Cases of osteonecrosis of the jaw have been reported, predominantly in cancer patients treated with medicinal products that inhibit bone resorption, such as Zometa (see section 4.4).
 Many of these patients were also receiving chemotherapy and corticosteroids and had signs of local infection including osteomyelitis.

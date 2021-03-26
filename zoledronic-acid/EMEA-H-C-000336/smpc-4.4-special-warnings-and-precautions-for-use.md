@@ -40,7 +40,9 @@ As only limited clinical data are available in patients with severe hepatic insu
 Osteonecrosis
 
 Osteonecrosis of the jaw
-Osteonecrosis of the jaw (ONJ) has been reported uncommonly in clinical trials and in the post-marketing setting in patients receiving Zometa.
+Osteonecrosis of the jaw (ONJ) has been reported uncommonly in clinical trials in patients receiving Zometa.
+Post-marketing experience and the literature suggest a greater frequency of reports of ONJ based on tumour type (advanced breast cancer, multiple myeloma).
+A study showed that ONJ was higher in myeloma patients when compared to other cancers (see section 5.1).
 
 The start of treatment or of a new course of treatment should be delayed in patients with unhealed open soft tissue lesions in the mouth, except in medical emergency situations.
 A dental examination with appropriate preventive dentistry and an individual benefit-risk assessment is recommended prior to treatment with bisphosphonates in patients with concomitant risk factors.
@@ -94,3 +96,8 @@ In some instances, the hypocalcaemia may be life-threatening (see section 4.8).
 Caution is advised when Zometa is administered with medicinal products known to cause hypocalcaemia, as they may have a synergistic effect resulting in severe hypocalcaemia (see section 4.5).
 Serum calcium should be measured and hypocalcaemia must be corrected before initiating Zometa therapy.
 Patients should be adequately supplemented with calcium and vitamin D.
+
+Zometa contains sodium
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially “sodium free”.
+However, if a solution of common salt (0.9% w/v sodium chloride solution) is used for the dilution of Zometa prior to administration then the dose of sodium received would be higher.

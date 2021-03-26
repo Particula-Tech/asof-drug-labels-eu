@@ -107,11 +107,22 @@ Zometa ◻
 
 Time on study (weeks)
 
+CZOL446EUS122/SWOG study
+
+The primary objective of this observational study was to estimate the cumulative incidence of osteonecrosis of the jaw (ONJ) at 3 years in cancer patients with bone metastasis receiving zoledronic acid.
+The osteoclast inhibition therapy, other cancer therapy, and dental care was performed as clinically indicated in order to best represent academic and community-based care.
+A baseline dental examination was recommended but was not mandatory.
+
+Among the 3491 evaluable patients, 87 cases of ONJ diagnosis were confirmed.
+The overall estimated cumulative incidence of confirmed ONJ at 3 years was 2.8% (95% CI: 2.3-3.5%).
+The rates were 0.8% at year 1 and 2.0% at year 2.
+Rates of 3-year confirmed ONJ were highest in myeloma patients (4.3%) and lowest in breast cancer patients (2.4%).
+Cases of confirmed ONJ were statistically significantly higher in patients with multiple myeloma (p=0.03) than other cancers combined.
+
 Clinical trial results in the treatment of TIH
 
 Clinical studies in tumour-induced hypercalcaemia (TIH) demonstrated that the effect of zoledronic acid is characterised by decreases in serum calcium and urinary calcium excretion.
 In Phase I dose finding studies in patients with mild to moderate tumour-induced hypercalcaemia (TIH), effective doses tested were in the range of approximately 1.2–2.5 mg.
-
 To assess the effects of 4 mg zoledronic acid versus pamidronate 90 mg, the results of two pivotal multicentre studies in patients with TIH were combined in a pre-planned analysis.
 There was faster normalisation of corrected serum calcium at day 4 for 8 mg zoledronic acid and at day 7 for 4 mg and 8 mg zoledronic acid.
 The following response rates were observed:
@@ -128,6 +139,7 @@ Table 5 Proportion of complete responders by day in the combined TIH studies
 Median time to normocalcaemia was 4 days.
 Median time to relapse (re-increase of albumin-corrected serum calcium ≥ 2.9 mmol/l) was 30 to 40 days for patients treated with zoledronic acid versus 17 days for those treated with pamidronate 90 mg (p-values: 0.001 for 4 mg and 0.007 for 8 mg zoledronic acid).
 There were no statistically significant differences between the two zoledronic acid doses.
+
 In clinical trials 69 patients who relapsed or were refractory to initial treatment (zoledronic acid 4 mg, 8 mg or pamidronate 90 mg) were retreated with 8 mg zoledronic acid.
 The response rate in these patients was about 52%.
 Since those patients were retreated with the 8 mg dose only, there are no data available allowing comparison with the 4 mg zoledronic acid dose.
