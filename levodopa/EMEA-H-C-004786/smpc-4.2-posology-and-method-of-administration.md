@@ -48,6 +48,6 @@ A summary of how to use Inbrija is provided below.
   The patient should hear the capsule “whirl”.
 - The used capsule should be removed from the Inbrija inhaler and the second capsule loaded into the inhaler.
   The maximum time between inhalation of the powder from the first and second capsules should not exceed 10 minutes.
-- It is important to advise the patient that if they do not hear or feel the capsule “whirl” while inhaling they may need to take a deeper, longer breath, breathing in again using the same capsule.
+- It is important to advise the patient that if they do not hear or feel the capsule “whirl” while inhaling they may need to take a deeper, longer breath, breathing in again using the same capsule or they may need to clean the mouthpiece.
 
 Detailed instructions for use for the patients are included in the package leaflet.
