@@ -18,6 +18,7 @@ Nervous system disorders
 Common: dizziness, headache.
 Uncommon: lethargy, syncope, hypoaesthesia, somnolence, tremor, postural dizziness, paresthesia.
 Rare: amnesia, depressed level of consciousness, loss of consciousness, coordination abnormal, gait disturbance, parosmia.
+Not known: myoclonus.
 
 Eye disorders
 Uncommon: blurred vision, visual disturbance, diplopia.
@@ -42,6 +43,7 @@ Rare: pancreatitis, erosive duodenitis, oral hypoaesthesia.
 Skin and subcutaneous tissue disorders
 Uncommon: pruritus, hyperhydrosis.
 Rare: angioedema, allergic dermatitis, urticaria, cold sweat, rash.
+
 Musculoskeletal and connective tissue disorders
 Uncommon: pain in extremity, muscle cramp, joint swelling, muscular weakness.
 
