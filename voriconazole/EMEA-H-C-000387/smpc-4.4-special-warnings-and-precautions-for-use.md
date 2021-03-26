@@ -8,7 +8,7 @@ Voriconazole has been associated with QTc interval prolongation.
 There have been rare cases of torsades de pointes in patients taking voriconazole who had risk factors, such as history of cardiotoxic chemotherapy, cardiomyopathy, hypokalaemia and concomitant medicinal products that may have been contributory.
 Voriconazole should be administered with caution to patients with potentially proarrhythmic conditions, such as:
 
-- Congenital or acquired QTc-prolongation.
+- Congenital or acquired QTc prolongation.
 - Cardiomyopathy, in particular when heart failure is present.
 - Sinus bradycardia.
 - Existing symptomatic arrhythmias.
@@ -19,7 +19,8 @@ Voriconazole should be administered with caution to patients with potentially pr
 
 Hepatic toxicity
 In clinical trials, there have been cases of serious hepatic reactions during treatment with voriconazole (including clinical hepatitis, cholestasis and fulminant hepatic failure, including fatalities).
-Instances of hepatic reactions were noted to occur primarily in patients with serious underlying medical conditions (predominantly haematological malignancy).Transient hepatic reactions, including hepatitis and jaundice, have occurred among patients with no other identifiable risk factors.
+Instances of hepatic reactions were noted to occur primarily in patients with serious underlying medical conditions (predominantly haematological malignancy).
+Transient hepatic reactions, including hepatitis and jaundice, have occurred among patients with no other identifiable risk factors.
 Liver dysfunction has usually been reversible on discontinuation of therapy (see section 4.8).
 
 Monitoring of hepatic function
@@ -45,10 +46,17 @@ If phototoxic reactions occur multidisciplinary advice should be sought, VFEND d
 If VFEND is continued, however, dermatologic evaluation should be performed on a systematic and regular basis, to allow early detection and management of premalignant lesions.
 VFEND should be discontinued if premalignant skin lesions or squamous cell carcinoma are identified (see below the section under Long-term treatment).
 
-- Exfoliative cutaneous reactions
+- Severe cutaneous adverse reactions
 
-Severe cutaneous adverse reactions (SCARs) such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS), which can be life-threatening or fatal, have been reported with the use of voriconazole.
+Severe cutaneous adverse reactions (SCARs) including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS), which can be life-threatening or fatal, have been reported with the use of voriconazole.
 If a patient develops a rash he should be monitored closely and VFEND discontinued if lesions progress.
+
+Adrenal events
+Adrenal insufficiency has been reported in patients receiving other azoles (e.g., ketoconazole).
+
+Reversible cases of adrenal insufficiency have been reported in patients receiving voriconazole.
+
+Patients on long-term treatment with voriconazole and corticosteroids (including inhaled corticosteroids e.g., budesonide and intranasal corticosteroids) should be carefully monitored for adrenal cortex dysfunction both during treatment and when voriconazole is discontinued (see section 4.5).
 
 Long-term treatment
 Long term exposure (treatment or prophylaxis) greater than 180 days (6 months) requires careful assessment of the benefit-risk balance and physicians should therefore consider the need to limit the exposure to VFEND (see sections 4.2 and 5.1).
@@ -108,14 +116,17 @@ Everolimus (CYP3A4 substrate, P-gp substrate)
 Coadministration of voriconazole with everolimus is not recommended because voriconazole is expected to significantly increase everolimus concentrations.
 Currently there are insufficient data to allow dosing recommendations in this situation (see section 4.5).
 
+Naloxegol (CYP3A4 substrate)
+Coadministration of voriconazole and naloxegol is not recommended because voriconazole is expected to significantly increase naloxegol concentrations.
+Currently there are insufficient data to allow dosing recommendations of naloxegol in this situation (see section 4.5).
+
 Methadone (CYP3A4 substrate)
 Frequent monitoring for adverse reactions and toxicity related to methadone, including QTc prolongation, is recommended when coadministered with voriconazole since methadone levels increased following coadministration of voriconazole.
 Dose reduction of methadone may be needed (see section 4.5).
 
 Short-acting opiates (CYP3A4 substrate)
 Reduction in the dose of alfentanil, fentanyl and other short-acting opiates similar in structure to alfentanil and metabolised by CYP3A4 (e.g., sufentanil) should be considered when coadministered with voriconazole (see section 4.5).
-As the half-life of alfentanil is prolonged in a 4-fold manner when alfentanil is coadministered with voriconazole, and in an independent published study concomitant use of voriconazole with fentanyl resulted in an increase in the mean AUC0-∞of fentanyl, frequent monitoring for opiate-associated adverse reactions (including a longer respiratory monitoring period) may be necessary.
-
+As the half-life of alfentanil is prolonged in a 4-fold manner when alfentanil is coadministered with voriconazole, and in an independent published study concomitant use of voriconazole with fentanyl resulted in an increase in the mean AUC0-∞ of fentanyl, frequent monitoring for opiate-associated adverse reactions (including a longer respiratory monitoring period) may be necessary.
 Long-acting opiates (CYP3A4 substrate)
 Reduction in the dose of oxycodone and other long-acting opiates metabolized by CYP3A4 (e.g., hydrocodone) should be considered when coadministered with voriconazole.
 Frequent monitoring for opiate-associated adverse reactions may be necessary (see section 4.5).
@@ -124,7 +135,15 @@ Fluconazole (CYP2C9, CYP2C19 and CYP3A4 inhibitor)
 Coadministration of oral voriconazole and oral fluconazole resulted in a significant increase in Cmax and AUCτ of voriconazole in healthy subjects.
 The reduced dose and/or frequency of voriconazole and fluconazole that would eliminate this effect have not been established.
 Monitoring for voriconazole-associated adverse reactions is recommended if voriconazole is used sequentially after fluconazole (see section 4.5).
-VFEND tablets contain lactose and should not be given to patients with rare hereditary problems of galactose intolerance, Lapp lactase deficiency or glucose-galactose malabsorption.
+
+Excipients
+
+Lactose
+This medicinal product contains lactose and should not be given to patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption.
+
+Sodium
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet.
+Patients on low sodium diets should be informed that this medicinal product is essentially ‘sodium-free’.
 
 [VFEND 200 mg powder for solution for infusion]
 
@@ -135,13 +154,20 @@ Infusion-related reactions
 Infusion-related reactions, predominantly flushing and nausea, have been observed during administration of the intravenous formulation of voriconazole.
 Depending on the severity of symptoms, consideration should be given to stopping treatment (see section 4.8).
 
-Instances of hepatic reactions were noted to occur primarily in patients with serious underlying medical conditions (predominantly haematological malignancy).
-Transient hepatic reactions, including hepatitis and jaundice, have occurred among patients with no other identifiable risk factors.
+This medicinal product contains 221 mg of sodium per vial, equivalent to 11% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 
-Sodium content
-Each vial of VFEND contains 217.6 mg of sodium.
-This should be taken into consideration for patients on a controlled sodium diet.
+Cyclodextrins
+The powder for solution for infusion contains cyclodextrins (3,200 mg cyclodextrins in each vial which is equivalent to 160mg/ml when reconstituted in 20ml, see section 2 and 6.1) which can influence the properties (such as toxicity) of the active substance and other medicines.
+Safety aspects of cyclodextrins have been considered during the development and safety assessment of the drug product.
+
+As cyclodextrins are renally excreted, in patients with moderate to severe renal dysfunction accumulation of cyclodextrin may occur.
 
 [VFEND 40 mg/ml powder for oral suspension]
 
-VFEND oral suspension contains sucrose and should not be given to patients with rare hereditary problems of fructose intolerance, sucrase-isomaltase deficiency or glucose-galactose malabsorption.
+Sucrose
+This medicinal product contains 0.54 g sucrose per ml.
+This should be taken into account in patients with diabetes mellitus.
+Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine.
+May be harmful to the teeth.
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per 5 ml of suspension.

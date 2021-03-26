@@ -87,9 +87,9 @@ However, if the combination is strictly needed, the maintenance dose of voricona
 
 Efavirenz may be coadministered with voriconazole if the maintenance dose of voriconazole is increased to 400 mg every 12 hours and the efavirenz dose is reduced by 50%, i.e. to 300 mg once daily.
 When treatment with voriconazole is stopped, the initial dosage of efavirenz should be restored (see sections 4.4 and 4.5).
+
 Elderly
 No dose adjustment is necessary for elderly patients (see section 5.2).
-
 Renal impairment
 The pharmacokinetics of orally administered voriconazole are not affected by renal impairment.
 Therefore, no adjustment is necessary for oral dosing for patients with mild to severe renal impairment (see section 5.2).
@@ -127,9 +127,6 @@ If patient is unable to tolerate treatment at a higher dose reduce the oral dose
 If patient response to treatment is inadequate, the intravenous dose may be increased by 1 mg/kg steps.
 If patient is unable to tolerate treatment, reduce the intravenous dose by 1 mg/kg steps.
 
-It may only be continued up to 180 days after transplantation in case of continuing immunosuppression or graft versus host disease
-(GvHD) (see section 5.1).
-
 Rifabutin or phenytoin may be coadministered with voriconazole if the maintenance dose of voriconazole is increased to 5 mg/kg intravenously twice daily, see sections 4.4 and 4.5.
 
 In patients with moderate to severe renal dysfunction (creatinine clearance < 50 ml/min), accumulation of the intravenous vehicle, SBECD, occurs.
@@ -150,8 +147,5 @@ VFEND is also available as 50 mg and 200 mg film-coated tablets, 200 mg powder f
 |  |  | Patients 40 kg and above* | Patients less than 40 kg* |
 | Loading dose regimen (first 24 hours) | 6 mg/kg every 12 hours | 400 mg (10 ml) every 12 hours | 200 mg (5 ml) every 12 hours |
 | Maintenance dose (after first 24 hours) | 4 mg/kg twice daily | 200 mg (5 ml) twice daily | 100 mg (2.5 ml) twice daily |
-
-It is recommended that the standard loading dose regimens be used but that the maintenance dose be halved in patients with mild to moderate hepatic cirrhosis (Child-Pugh A and B) receiving voriconazole
-(see section 5.2).
 
 VFEND oral suspension is to be taken at least one hour before, or two hours following, a meal.

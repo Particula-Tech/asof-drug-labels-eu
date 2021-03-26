@@ -20,9 +20,13 @@ Each vial contains 200 mg of voriconazole.
 After reconstitution each ml contains 10 mg of voriconazole.
 Once reconstituted further dilution is required before administration.
 
-Each vial contains 217.6 mg sodium.
+Excipients with known effect
+Each vial contains 221 mg sodium.
+Each vial contains 3,200 mg cyclodextrin.
 
 VFEND 200 mg powder and solvent for solution for infusion
+
+Solvent for solution for infusion
 Each 50 ml polypropylene bag contains sodium chloride 0.9% in Water for Injections.
 
 Each bag contains 177.02 mg sodium.
@@ -33,3 +37,4 @@ Each ml of oral suspension contains 40 mg of voriconazole when reconstituted wit
 Each bottle contains 3 g of voriconazole.
 
 Each ml of suspension contains 0.54 g sucrose.
+Each ml of suspension contains 2.40 mg sodium benzoate.

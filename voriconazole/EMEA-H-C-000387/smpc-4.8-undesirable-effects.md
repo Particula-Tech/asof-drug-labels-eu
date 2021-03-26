@@ -20,11 +20,11 @@ Undesirable effects reported in subjects receiving voriconazole:
 
 | System Organ Class | Very common ≥ 1/10 | Common ≥ 1/100 to < 1/10 | Uncommon ≥ 1/1,000 to < 1/100 | Rare ≥ 1/10,000 to < 1/1,000 | Frequency not known (cannot be estimated from available data) |
 | --- | --- | --- | --- | --- | --- |
-| Infections and infestations |  | sinusitis | pseudomembranous colitis |  |  |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  |  | squamous cell carcinoma* |
-| Blood and lymphatic system disorders |  | agranulocytosis1, pancytopenia, thrombocytopenia2, leukopenia, anaemia | bone marrow failure, lymphadenopathy, eosinophilia | disseminated intravascular coagulation |  |
+| Infections and infestations |  | sinusitis | pseudomembranou s colitis |  |  |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  |  | squamous cell carcinoma * |
+| Blood and lymphatic system disorders |  | agranulocytosis1, pancytopenia, thrombocytopenia2 , leukopenia, anaemia | bone marrow failure, lymphadenopathy, eosinophilia | disseminated intravascular coagulation |  |
 | Immune system disorders |  |  | hypersensitivity | anaphylactoid reaction |  |
-| Endocrine disorders |  |  | adrenal insufficiency, hypothyroidism | hyperthyroidism |  |
+| Endocrine disorders |  |  | adrenal insufficiency, hypothyroidism | hyperthyroidis m |  |
 | Metabolism and nutrition disorders | oedema peripheral | hypoglycaemia, hypokalaemia, hyponatraemia |  |  |  |
 | Psychiatric disorders |  | depression, hallucination, anxiety, insomnia, agitation, confusional state |  |  |  |
 | Nervous system disorders | headache | convulsion, syncope, tremor, hypertonia3, paraesthesia, somnolence, dizziness | brain oedema, encephalopathy4, extrapyramidal disorder5, neuropathy peripheral, ataxia, hypoaesthesia, dysgeusia | hepatic encephalopathy, Guillain-Barre syndrome, nystagmus |  |
@@ -35,8 +35,8 @@ Undesirable effects reported in subjects receiving voriconazole:
 | Respiratory, thoracic and mediastinal disorders | respiratory distress9 | acute respiratory distress syndrome, pulmonary oedema |  |  |  |
 | Gastrointestin al disorders | diarrhoea, vomiting, abdominal pain, nausea | cheilitis, dyspepsia, constipation, gingivitis | peritonitis, pancreatitis, swollen tongue, duodenitis, gastroenteritis, glossitis |  |  |
 | Hepatobiliary disorders | liver function test abnormal | jaundice, jaundice cholestatic, hepatitis10 | hepatic failure, hepatomegaly, cholecystitis, cholelithiasis |  |  |
-| Skin and subcutaneous tissue disorders | rash | dermatitis exfoliative, alopecia, rash maculo-papular, pruritus, erythema | Stevens-Johnson syndrome8, phototoxicity, purpura, urticaria, dermatitis allergic, rash papular, rash macular, eczema | toxic epidermal necrolysis8, drug reaction with eosinophilia and systemic symptoms (DRESS)8, angioedema, actinic keratosis*, pseudoporphyria , erythema multiforme, psoriasis, drug eruption | cutaneous lupus erythemato sus*, ephelides*, lentigo* |
-| Musculoskelet al and connective tissue disorders |  | back pain | arthritis |  | periostitis* |
+| Skin and subcutaneous tissue disorders | rash | dermatitis exfoliative, alopecia, rash maculo-papular, pruritus, erythema | Stevens-Johnson syndrome8, phototoxicity, purpura, urticaria, dermatitis allergic, rash papular, rash macular, eczema | toxic epidermal necrolysis8, drug reaction with eosinophilia and systemic symptoms (DRESS)8, angioedema, actinic keratosis*, pseudoporphyri a, erythema multiforme, psoriasis, drug eruption | cutaneous lupus erythemato sus*, ephelides*, lentigo* |
+| Musculoskele tal and connective tissue disorders |  | back pain | arthritis |  | periostitis* |
 | Renal and urinary disorders |  | renal failure acute, haematuria | renal tubular necrosis, proteinuria, nephritis |  |  |
 | General disorders and administration site conditions | pyrexia | chest pain, face oedema11, asthenia, chills | infusion site reaction, influenza like illness |  |  |
 | Investigations |  | blood creatinine increased | blood urea increased, blood cholesterol increased |  |  |

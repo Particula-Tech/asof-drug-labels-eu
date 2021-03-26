@@ -2,7 +2,6 @@
 
 Pregnancy
 There are no adequate data on the use of VFEND in pregnant women available.
-
 Studies in animals have shown reproductive toxicity (see section 5.3).
 The potential risk for humans is unknown.
 
