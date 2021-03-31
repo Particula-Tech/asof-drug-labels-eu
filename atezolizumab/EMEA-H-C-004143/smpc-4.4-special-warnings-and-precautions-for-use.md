@@ -9,18 +9,18 @@ Immune-related adverse reactions
 Most immune-related adverse reactions occurring during treatment with atezolizumab were reversible with interruptions of atezolizumab and initiation of corticosteroids and/or supportive care.
 Immune-related adverse reactions affecting more than one body system have been observed.
 Immune-related adverse reactions with atezolizumab may occur after the last dose of atezolizumab.
-
 For suspected immune-related adverse reactions, thorough evaluation to confirm aetiology or exclude other causes should be performed.
 Based on the severity of the adverse reaction, atezolizumab should be withheld and corticosteroids administered.
 Upon improvement to Grade ≤ 1, corticosteroid should be tapered over ≥ 1 month.
 Based on limited data from clinical studies in patients whose immune-related adverse reactions could not be controlled with systemic corticosteroid use, administration of other systemic immunosuppressants may be considered.
+
 Atezolizumab must be permanently discontinued for any Grade 3 immune-related adverse reaction that recurs and for any Grade 4 immune-related adverse reactions, except for endocrinopathies that are controlled with replacement hormones (see sections 4.2 and 4.8).
 
 Immune-related pneumonitis
 
 Cases of pneumonitis, including fatal cases, have been observed in clinical trials with atezolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of pneumonitis and causes other than immune-related pneumonitis should be ruled out.
-.
+
 Treatment with atezolizumab should be withheld for Grade 2 pneumonitis, and 1 to 2 mg/kg/day prednisone or equivalent should be started.
 If symptoms improve to ≤ Grade 1, corticosteroids should be tapered over ≥ 1 month.
 Treatment with atezolizumab may be resumed if the event improves to
@@ -48,7 +48,6 @@ If the event improves to
 
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
 Treatment with atezolizumab must be permanently discontinued if ALT or AST increases to > 10 x ULN or total bilirubin increases > 3 x ULN).
-
 Immune-related colitis
 
 Cases of diarrhoea or colitis have been observed in clinical trials with atezolizumab (see section 4.8).
@@ -91,7 +90,6 @@ Treatment with atezolizumab should be permanently discontinued for Grade 4 hypop
 Treatment with insulin should be initiated for type 1 diabetes mellitus.
 For ≥ Grade 3 hyperglycaemia (fasting glucose > 250 mg/dL or 13.9 mmol/L), atezolizumab should be withheld.
 Treatment with atezolizumab may be resumed if metabolic control is achieved on insulin replacement therapy.
-
 Immune-related meningoencephalitis
 
 Meningoencephalitis has been observed in clinical trials with atezolizumab (see section 4.8).
@@ -100,6 +98,7 @@ Patients should be monitored for clinical signs and symptoms of meningitis or en
 Treatment with atezolizumab must be permanently discontinued for any grade of meningitis or encephalitis.
 Treatment with intravenous corticosteroids (1 to 2 mg/kg/day methylprednisolone or equivalent) should be started.
 Once symptoms improve, treatment with 1 to 2 mg/kg/day of prednisone or equivalent should follow.
+
 Immune-related neuropathies
 
 Myasthenic syndrome/myasthenia gravis or Guillain-Barré syndrome, which may be life threatening, were observed in patients receiving atezolizumab.
@@ -156,12 +155,26 @@ The rate of infusion should be reduced or treatment should be interrupted in pat
 Atezolizumab should be permanently discontinued in patients with Grade 3 or 4 infusion-related reactions.
 Patients with Grade 1 or 2 infusion-related reactions may continue to receive atezolizumab with close monitoring; premedication with antipyretic and antihistamines may be considered.
 
+Immune-related severe cutaneous adverse reactions
+
+Immune-related severe cutaneous adverse reactions (SCARs), including cases of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported in patients receiving atezolizumab.
+Patients should be monitored for suspected severe skin reactions and other causes should be excluded.
+For suspected SCARs, patients should be referred to a specialist for further diagnosis and management.
+
+Based on the severity of the adverse reaction, atezolizumab should be withheld for Grade 3 skin reactions and treatment with systemic corticosteroids at a dose of 1-2 mg/kg/day of prednisone or equivalent should be started.
+Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
+Treatment with atezolizumab should be permanently discontinued for Grade 4 skin reactions, and corticosteroids should be administered.
+
+Atezolizumab should be withheld for patients with suspected SJS or TEN.
+For confirmed SJS or TEN, atezolizumab should be permanently discontinued.
+
+Caution should be used when considering the use of atezolizumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anticancer agents.
+
 Disease-specific precautions
 
 Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in metastatic non squamous non small cell lung cancer
 
 Physicians should carefully consider the combined risks of the four-drug regimen of atezolizumab bevacizumab, paclitaxel, and carboplatin before initiating treatment (see section 4.8).
-
 Use of atezolizumab in combination with nab-paclitaxel in metastatic triple negative breast cancer
 
 Neutropenia and peripheral neuropathies occurring during treatment with atezolizumab and nab-paclitaxel may be reversible with interruptions of nab-paclitaxel.
@@ -177,6 +190,7 @@ Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin
 Patients with NSCLC that had clear tumour infiltration into the thoracic great vessels or clear cavitation of pulmonary lesions, as seen on imaging, were excluded from the pivotal clinical study IMpower150 after several cases of fatal pulmonary haemorrhage were observed, which is a known risk factor of treatment with bevacizumab.
 
 In the absence of data, atezolizumab should be used with caution in these populations after careful evaluation of the balance of benefits and risks for the patient.
+
 Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in EGFR+ patients with NSCLC who have progressed on erlotinib+bevacizumab
 
 In study IMpower150, there are no data on the efficacy of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in EGFR+ patients who have progressed previously on erlotinib+bevacizumab.
@@ -192,7 +206,6 @@ Please refer to the bevacizumab Summary of Product Characteristics.
 
 Diabetes mellitus can occur during treatment with atezolizumab in combination with bevacizumab.
 Physicians should monitor blood glucose levels prior to and periodically during treatment with atezolizumab in combination with bevacizumab as clinically indicated.
-
 Patients excluded from clinical trials
 
 Patients with the following conditions were excluded from clinical trials: a history of autoimmune disease, history of pneumonitis, active brain metastasis, HIV, hepatitis B or hepatitis C infection, significant cardiovascular disease and patients with inadequate hematologic and end-organ function.

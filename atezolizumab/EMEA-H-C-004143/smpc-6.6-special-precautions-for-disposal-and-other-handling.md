@@ -1,6 +1,7 @@
 # 6.6 Special precautions for disposal and other handling
 
 Tecentriq does not contain any antimicrobial preservative or bacteriostatic agents and should be prepared by a healthcare professional using aseptic technique to ensure the sterility of prepared solutions.
+Use a sterile needle and syringe to prepare Tecentriq.
 
 Aseptic preparation, handling and storage
 

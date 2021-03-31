@@ -54,8 +54,8 @@ Table 1: Dose modification advice for Tecentriq
 | Type 1 diabetes mellitus | Grade 3 or 4 hyperglycaemia (fasting glucose > 250 mg/dL or 13.9 mmol/L) | Withhold Tecentriq Treatment may be resumed when metabolic control is achieved on insulin replacement therapy |
 | Infusion-related reactions | Grade 1 or 2 | Reduce infusion rate or interrupt. Treatment may be resumed when the event is resolved |
 |  | Grade 3 or 4 | Permanently discontinue Tecentriq |
-| Rash | Grade 3 | Withhold Tecentriq Treatment may be resumed when rash is resolved and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
-|  | Grade 4 | Permanently discontinue Tecentriq |
+| Rash/Severe cutaneous adverse reactions | Grade 3 or suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN)1 | Withhold Tecentriq Treatment may be resumed when the symptoms improve to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
+|  | Grade 4 or confirmed Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN)1 | Permanently discontinue Tecentriq |
 | Myasthenic syndrome/myasthenia gravis, Guillain-Barré syndrome and Meningoencephalitis | All Grades | Permanently discontinue Tecentriq |
 | Pancreatitis | Grade 3 or 4 serum amylase or lipase levels increased (> 2 x ULN) or Grade 2 or 3 pancreatitis | Withhold Tecentriq Treatment may be resumed when serum amylase and lipase levels improve to Grade 0 or Grade 1 within 12 weeks, or symptoms of pancreatitis have resolved, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 4 or any grade of recurrent pancreatitis | Permanently discontinue Tecentriq |
@@ -69,6 +69,7 @@ Table 1: Dose modification advice for Tecentriq
 |  | Grade 4 or recurrent Grade 3 | Permanently discontinue Tecentriq (except endocrinopathies controlled with replacement hormones) |
 
 Note: Toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Event Version 4.0 (NCI-CTCAE v.4.).
+1 Regardless of severity
 
 Special populations
 
@@ -76,10 +77,10 @@ Paediatric population
 
 The safety and efficacy of Tecentriq in children and adolescents aged below 18 years have not been established.
 Currently available data are described in section 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
-
 Elderly
 
 Based on a population pharmacokinetic analysis, no dose adjustment of Tecentriq is required in patients ≥ 65 years of age (see sections 4.8 and 5.1).
+
 Renal impairment
 
 Based on a population pharmacokinetic analysis, no dose adjustment is required in patients with mild or moderate renal impairment (see section 5.2).
@@ -167,8 +168,8 @@ The schedule of administration must be adjusted to maintain a 3-week interval be
 | Type 1 diabetes mellitus | Grade 3 or 4 hyperglycaemia (fasting glucose > 250 mg/dL or 13.9 mmol/L) | Withhold Tecentriq Treatment may be resumed when metabolic control is achieved on insulin replacement therapy |
 | Infusion-related reactions | Grade 1 or 2 | Reduce infusion rate or interrupt. Treatment may be resumed when the event is resolved |
 |  | Grade 3 or 4 | Permanently discontinue Tecentriq |
-| Rash | Grade 3 | Withhold Tecentriq Treatment may be resumed when rash is resolved and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
-|  | Grade 4 | Permanently discontinue Tecentriq |
+| Rash/Severe cutaneous adverse reactions | Grade 3 or suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN)1 | Withhold Tecentriq Treatment may be resumed when the symptoms improve to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
+|  | Grade 4 or confirmed Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN)1 | Permanently discontinue Tecentriq |
 | Myasthenic syndrome/myasthenia gravis, Guillain-Barré syndrome and Meningoencephalitis | All Grades | Permanently discontinue Tecentriq |
 | Pancreatitis | Grade 3 or 4 serum amylase or lipase levels increased (> 2 x ULN) or Grade 2 or 3 pancreatitis | Withhold Tecentriq Treatment may be resumed when serum amylase and lipase levels improve to Grade 0 or Grade 1 within 12 weeks, or symptoms of pancreatitis have resolved, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 4 or any grade of recurrent pancreatitis | Permanently discontinue Tecentriq |
