@@ -57,6 +57,7 @@ Table 2: Tabulated adverse reactions
 | Skin and subcutaneous tissue disorders |  |  |  |
 | Skin rash | Not known | Uncommon | Common |
 | Alopecia | Rare | Uncommon | Uncommon |
+| Erythema multiforme | Not known | Very rare | Not known |
 | Musculoskeletal and connective tissue disorders |  |  |  |
 | Muscle haemorrhage | Rare | Rare | Uncommon |
 | Renal and urinary disorders |  |  |  |
@@ -129,6 +130,7 @@ Table 2 shows the adverse reactions ranked under headings of system organ class 
 | Skin and subcutaneous tissue disorders |  |  |
 | Skin rash | Uncommon | Common |
 | Alopecia | Uncommon | Uncommon |
+| Erythema multiforme | Very rare | Not known |
 | Musculoskeletal and connective tissue disorders |  |  |
 | Muscle haemorrhage | Rare | Uncommon |
 | Renal and urinary disorders |  |  |

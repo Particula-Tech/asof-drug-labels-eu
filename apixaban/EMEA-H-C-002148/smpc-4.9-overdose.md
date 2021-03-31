@@ -3,6 +3,7 @@
 Overdose of apixaban may result in a higher risk of bleeding.
 In the event of haemorrhagic complications, treatment must be discontinued and the source of bleeding investigated.
 The initiation of appropriate treatment, e.g., surgical haemostasis, the transfusion of fresh frozen plasma or the administration of a reversal agent for factor Xa inhibitors should be considered.
+
 In controlled clinical studies, orally-administered apixaban in healthy subjects at doses up to 50 mg daily for 3 to 7 days (25 mg twice daily (bid) for 7 days or 50 mg once daily (od) for 3 days) had no clinically relevant adverse reactions.
 
 In healthy subjects, administration of activated charcoal 2 and 6 hours after ingestion of a 20 mg dose of apixaban reduced mean apixaban AUC by 50% and 27%, respectively, and had no impact on Cmax.
