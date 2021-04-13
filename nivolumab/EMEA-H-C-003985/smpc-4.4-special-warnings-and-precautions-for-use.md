@@ -4,8 +4,10 @@ Traceability
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
 Immune-related adverse reactions
-When nivolumab is administered in combination, refer to the Summary of Product Characteristics of the other combination therapy components prior to initiation of treatment.
+When nivolumab is administered in combination, refer to the SmPC of the other combination therapy agents prior to initiation of treatment.
 Immune-related adverse reactions have occurred at higher frequencies when nivolumab was administered in combination with ipilimumab compared with nivolumab as monotherapy.
+Immune-related adverse reactions have occurred at similar frequencies when OPDIVO was administered in combination with cabozantinib relative to nivolumab monotherapy.
+Therefore, the guidance below for immune-related adverse reactions applies to the OPDIVO component of the combination, except where specifically noted.
 Most immune-related adverse reactions improved or resolved with appropriate management, including initiation of corticosteroids and treatment modifications (see section 4.2).
 
 Cardiac and pulmonary adverse reactions including pulmonary embolism have also been reported with combination therapy.
@@ -190,8 +192,17 @@ In non-squamous NSCLC, a higher number of deaths within 3 months was observed in
 Factors associated with early deaths were poorer prognostic factors and/or more aggressive disease combined with low or no tumour PD-L1 expression (see section 5.1).
 
 Renal cell carcinoma
+Nivolumab or nivolumab in combination with ipilimumab
 Patients with any history of or concurrent brain metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trials of nivolumab or nivolumab in combination with ipilimumab (see sections 4.5 and 5.1).
 In the absence of data, nivolumab or nivolumab in combination with ipilimumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+
+Nivolumab in combination with cabozantinib
+Patients with any active brain metastases, autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trials of nivolumab in combination with cabozantinib (see sections 4.5 and 5.1).
+In the absence of data, nivolumab in combination with cabozantinib should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+
+When nivolumab is given with cabozantinib, higher frequencies of Grades 3 and 4 ALT and AST elevations have been reported relative to nivolumab monotherapy in patients with advanced RCC (see section 4.8).
+Liver enzymes should be monitored before initiation of and periodically throughout treatment.
+Medical management guidelines for both medicines should be followed (see section 4.2 and refer to the SmPC for cabozantinib).
 
 Classical Hodgkin lymphoma
 Patients with active autoimmune disease and symptomatic interstitial lung disease were excluded from clinical trials of cHL (see section 5.1).
@@ -204,7 +215,6 @@ Until further data become available, careful consideration to the potential bene
 In patients treated with nivolumab after allogeneic HSCT, rapid-onset and severe GVHD, some with fatal outcome, have been reported in the post-marketing setting.
 Treatment with nivolumab may increase the risk of severe GVHD and death in patients who have had prior allogeneic HSCT, mainly in those with prior history of GVHD.
 The benefit of treatment with nivolumab versus the possible risk should be considered in these patients (see section 4.8).
-
 Head and neck cancer
 Patients with a baseline performance score ≥ 2, active brain or leptomeningeal metastases, active autoimmune disease, medical conditions requiring systemic immunosuppression, or carcinoma of the nasopharynx or salivary gland as the primary tumour sites were excluded from the SCCHN clinical trial (see sections 4.5 and 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.

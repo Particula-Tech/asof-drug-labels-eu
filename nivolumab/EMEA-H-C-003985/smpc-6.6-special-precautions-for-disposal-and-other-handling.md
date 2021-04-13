@@ -21,6 +21,9 @@ Based on this prescribed dose, calculate the total dose to be given.
 Nivolumab in combination with ipilimumab and chemotherapy
 The prescribed dose for the patient is 360 mg given regardless of body weight.
 
+Nivolumab in combination with cabozantinib
+The prescribed dose for the patient is nivolumab 240 mg or 480 mg given regardless of body weight.
+
 Preparing the infusion
 Take care to ensure aseptic handling when you prepare the infusion.
 
