@@ -5,12 +5,13 @@ The pharmacokinetics of isatuximab were assessed in 476 patients with multiple m
 Isatuximab displays nonlinear pharmacokinetics with target-mediated drug disposition due to its binding to CD38 receptor.
 Isatuximab exposure (area under the plasma concentration-time curve over the dosing interval AUC) increases in a greater than dose proportional manner from 1 to 20 mg/kg following every 2 weeks schedule, while no deviation to the dose proportionality is observed between 5 and 20 mg/kg following every week for 4 weeks followed by every 2 weeks schedule.
 This is due to the high contribution of nonlinear target-mediated clearance to the total clearance at doses below 5 mg/kg, which becomes negligible at higher doses.
-After isatuximab 10 mg/kg administration every week for 4 weeks followed by every 2 weeks, the median time to reach steady state was 8 weeks with a 3.1-fold accumulation.
-The mean (CV%) predicted maximum plasma concentration Cmax and AUC at steady state were 351 µg/mL (36.0%) and 72,600 µg.h/mL (51.7%), respectively.
+After isatuximab 10 mg/kg administration every week for 4 weeks followed by every 2 weeks, the median time to reach steady state was 18 weeks with a 3.1-fold accumulation.
+In ICARIA-MM, clinical trial performed in relapsed and/or refractory multiple myeloma patients treated with isatuximab in combination with pomalidomide and dexamethasone, the mean (CV%) predicted maximum plasma concentration Cmax and AUC at steady state were 351 µg/mL (36.0%) and 72,600 µg.h/mL (51.7%), respectively.
 Although the change from a weight-based volume administration method for isatuximab infusion to the fixed volume infusion method resulted in changes in the tmax, the change had a limited impact on pharmacokinetics exposure with comparable simulated Cmax at steady state (283 µg/mL vs 284 µg/mL) and Ctrough at 4 weeks (119 µg/mL vs 119 µg/mL) for a patient with median weight (76 kg).
 Also for other patient weight groups, Cmax and Ctrough were comparable.
+In IKEMA, clinical trial performed in relapsed and/or refractory multiple myeloma patients treated with isatuximab in combination with carfilzomib and dexamethasone, the mean (CV%) predicted maximum plasma concentration Cmax and AUC at steady state were 655 µg/mL (30.8%) and 159,000 µg.h/mL (37.1%), respectively.
 
-The pharmacokinetics of isatuximab and pomalidomide were not influenced by their co-administration.
+The pharmacokinetics of isatuximab and pomalidomide, or of isatuximab and carfilzomib, were not influenced by their co-administration.
 
 Distribution
 The estimated total volume of distribution of isatuximab is 8.75 L.
@@ -35,11 +36,11 @@ Race
 The population pharmacokinetic analysis with 377 Caucasian (79%), 25 Asian (5%), 18 Black (4%), and 33 other race (7%) patients showed no clinically meaningful effect of race on isatuximab pharmacokinetics.
 
 Weight
-Isatuximab exposure (AUC) at steady state decreased with increasing body weight.
+Based on a population pharmacokinetics analysis using data from 476 patients, the clearance of isatuximab increased with increasing body weight, supporting the body-weight based dosing.
 
 Hepatic Impairment
 No formal studies of isatuximab in patients with hepatic impairment have been conducted.
-Out of the 476 patients of the population pharmacokinetic analyses, 65 patients presented with mild hepatic impairment [total bilirubin 1 to 1.5 times upper limit of normal (ULN) or aspartate amino transferase (AST) > ULN] and 1 patient had moderate hepatic impairment (total bilirubin> 1.5 to 3 times ULN and any AST).
+Out of the 476 patients of the population pharmacokinetic analyses, 65 patients presented with mild hepatic impairment [total bilirubin >1 to 1.5 times upper limit of normal (ULN) or aspartate amino transferase (AST) > ULN] and 1 patient had moderate hepatic impairment (total bilirubin > 1.5 to 3 times ULN and any AST).
 Mild hepatic impairment had no clinically meaningful effect on the pharmacokinetics of isatuximab.
 The effect of moderate (total bilirubin >1.5 times to 3 times ULN and any AST) and severe hepatic impairment (total bilirubin >3 times ULN and any AST) on isatuximab pharmacokinetics is unknown.
 However, since isatuximab is a monoclonal antibody, it is not expected to be cleared via hepatic-enzyme mediated metabolism and as such, variation in hepatic function is not expected to affect the elimination of isatuximab (see section 4.2).

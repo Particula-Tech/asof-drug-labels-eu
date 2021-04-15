@@ -1,6 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-Isatuximab has no impact on the pharmacokinetics of pomalidomide and vice versa.
+Isatuximab has no impact on the pharmacokinetics of pomalidomide or carfilzomib, or vice versa.
 
 Interference with serological testing
 Because CD38 protein is expressed on the surface of red blood cells, isatuximab, an anti-CD38 antibody, may interfere with blood bank serologic tests with potential false positive reactions in indirect antiglobulin tests (indirect Coombs tests), antibody detection (screening) tests, antibody identification panels, and antihuman globulin (AHG) crossmatches in patients treated with isatuximab (see section 4.4).

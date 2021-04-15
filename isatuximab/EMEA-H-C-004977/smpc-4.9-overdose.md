@@ -1,7 +1,7 @@
 # 4.9 Overdose
 
 Signs and symptoms
-There has been no experience of overdosage in clinical studies.
+There has been no experience of overdosage of isatuximab in clinical studies.
 Doses of intravenous isatuximab up to 20 mg/kg have been administered in clinical studies.
 
 Management
