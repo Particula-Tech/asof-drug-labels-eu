@@ -35,19 +35,3 @@ TAXOTERE in combination with cisplatin and 5-fluorouracil is indicated for the t
 Head and neck cancer
 
 TAXOTERE in combination with cisplatin and 5-fluorouracil is indicated for the induction treatment of patients with locally advanced squamous cell carcinoma of the head and neck.
-
-[TAXOTERE 80 mg/2 ml concentrate and solvent for solution for infusion]
-
-(all sentences already above)
-
-[TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
-
-TAXOTERE in combination with prednisone or prednisolone is indicated for the treatment of patients with castration-resistant metastatic prostate cancer.
-
-[TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
-
-(all sentences already above)
-
-[TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
-
-(all sentences already above)

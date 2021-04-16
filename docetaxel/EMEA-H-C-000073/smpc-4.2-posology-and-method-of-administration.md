@@ -134,17 +134,7 @@ Based on a population pharmacokinetic analysis, there are no special instruction
 
 [TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
 
-Prostate cancer Metastatic castration-resistant prostate cancer
-
 Discontinue treatment if these toxicities persist (see section 4.4).
-
-Toxicity Dose adjustment
-
-| Diarrhoea grade 3 | First episode: reduce 5-FU dose by 20%. Second episode: then reduce docetaxel dose by 20%. |
-| --- | --- |
-| Diarrhoea grade 4 | First episode: reduce docetaxel and 5-FU doses by 20%. Second episode: discontinue treatment. |
-| Stomatitis/mucositis grade 3 | First episode: reduce 5-FU dose by 20%. Second episode: stop 5-FU only, at all subsequent cycles. Third episode: reduce docetaxel dose by 20%. |
-| Stomatitis/mucositis grade 4 | First episode: stop 5-FU only, at all subsequent cycles. Second episode: reduce docetaxel dose by 20%. |
 
 [TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
 

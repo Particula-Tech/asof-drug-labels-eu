@@ -657,6 +657,10 @@ Metabolism and nutrition disorders
 Cases of electrolyte imbalance have been reported.
 Cases of hyponatraemia have been reported, mostly associated with dehydration, vomiting and pneumonia.
 Hypokalaemia, hypomagnesaemia, and hypocalcaemia were observed, usually in association with gastrointestinal disorders and in particular with diarrhoea.
+Tumour lysis syndrome, potentially fatal, has been reported (frequency not known).
+
+Musculoskeletal disorder
+Myositis has been reported with docetaxel (frequency not known).
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

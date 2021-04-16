@@ -1,13 +1,13 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Taxanes, ATC Code: L01CD 02
-
 Mechanism of action
 
 Docetaxel is an antineoplastic agent which acts by promoting the assembly of tubulin into stable microtubules and inhibits their disassembly which leads to a marked decrease of free tubulin.
 The binding of docetaxel to microtubules does not alter the number of protofilaments.
 
 Docetaxel has been shown in vitro to disrupt the microtubular network in cells which is essential for vital mitotic and interphase cellular functions.
+
 Pharmacodynamic effects
 
 Docetaxel was found to be cytotoxic in vitro against various murine and human tumour cell lines and against freshly excised human tumour cells in clonogenic assays.
@@ -43,8 +43,8 @@ Significantly longer disease-free survival for the TAC arm compared to the FAC a
 Incidence of relapses at 10 years was reduced in patients receiving TAC compared to those who received FAC (39% versus 45%, respectively) i.e. an absolute risk reduction by 6% (p = 0.0043).
 Overall survival at 10 years was also significantly increased with TAC compared to FAC (76% versus 69%, respectively) i.e. an absolute reduction of the risk of death by 7% (p = 0.002).
 As the benefit observed in patients with 4+ nodes was not statistically significant on DFS and OS, the positive benefit/risk ratio for TAC in patients with 4+ nodes was not fully demonstrated at the final analysis.
-
 Overall, the study results demonstrate a positive benefit risk ratio for TAC compared to FAC.
+
 TAC-treated patient subsets according to prospectively defined major prognostic factors were analysed:
 
 |  |  | Disease free survival |  |  | Overall survival |  |  |
@@ -188,7 +188,6 @@ Median survival was 442 days (docetaxel + capecitabine) vs. 352 days (docetaxel 
 The overall objective response rates in the all-randomised population (investigator assessment) were 41.6% (docetaxel + capecitabine) vs. 29.7% (docetaxel alone); p = 0.0058.
 Time to progressive disease was superior in the docetaxel + capecitabine combination arm (p < 0.0001).
 The median time to progression was 186 days (docetaxel + capecitabine) vs. 128 days (docetaxel alone).
-
 Non-small cell lung cancer
 
 Patients previously treated with chemotherapy with or without radiotherapy
@@ -259,8 +258,8 @@ A total of 1776 male patients were allocated to the treatment arms of interest:
 
 Docetaxel regimen was administered in combination with prednisone or prednisolone 5 mg twice daily continuously.
 Among the 1776 randomised patients 1086 (61%) had metastatic disease, 362 were randomised to docetaxel in combination with standard of care, 724 received standard of care alone.
-
 In these metastatic prostate cancer patients, the median overall survival was significantly longer in docetaxel treatment groups than in the standard of care alone group, with a median overall survival 19 months longer with the addition of docetaxel to standard of care (HR = 0.76, 95% CI = 0.62-0.92, p=0.005).
+
 Efficacy results in metastatic prostate cancer patients for docetaxel arm versus control arm are summarized in the following table:
 
 Efficacy of docetaxel in combination with prednisone or prednisolone and standard of care in the treatment of patients with metastatic hormone-sensitive prostate cancer (STAMPEDE)
@@ -437,13 +436,12 @@ TAXOTERE was administered as a 1-hour infusion, all other medicinal products wer
 | --- | --- | --- | --- |
 |  |  | Hazard ratio* | 95% CI |
 | Overall | 539 | 0.68 | 0.49-0.93 |
-| Age category 1 |  |  |  |
-| <50 years ≥50 years | 260 279 | 0.67 0.67 | 0.43-1.05 0.43-1.05 |
+| Age category 1 <50 years ≥50 years | 260 279 | 0.67 0.67 | 0.43-1.05 0.43-1.05 |
 | Age category 2 <35 years ≥35 years | 42 497 | 0.31 0.73 | 0.11-0.89 0.52-1.01 |
 | Hormonal receptor status Negative Positive | 195 344 | 0.7 0.62 | 0.45-1.1 0.4-0.97 |
 | Tumour size ≤2 cm >2 cm | 285 254 | 0.69 0.68 | 0.43-1.1 0.45-1.04 |
-| Histological grade Grade1 (includes grade not assessed) Grade 2 Grade 3 | 64 | 0.79 | 0.24-2.6 |
-|  | 216 259 | 0.77 0.59 | 0.46-1.3 0.39-0.9 |
+| Histological grade Grade1 (includes grade not assessed) | 64 | 0.79 | 0.24-2.6 |
+| Grade 2 Grade 3 | 216 259 | 0.77 0.59 | 0.46-1.3 0.39-0.9 |
 | Menopausal status Pre-Menopausal Post-Menopausal | 285 254 | 0.64 0.72 | 0.40-1 0.47-1.12 |
 
 CI = confidence interval
@@ -465,8 +463,7 @@ Efficacy of docetaxel and ADT in the treatment of patients with metastatic hormo
 
 | Endpoint | Docetaxel +ADT | ADT alone |
 | --- | --- | --- |
-| Number of patients Median overall survival (months) All patients 95% CIAdjusted hazard ratio 95% CI | 397 57.6 49.1-72.8 0.61 (0.47-0.80) | 393 44.0 34.4-49.1 -- -- |
-| p-valuea | 0.0003 | -- |
+| Number of patients Median overall survival (months) All patients 95% CIAdjusted hazard ratio 95% CI p-valuea | 397 57.6 49.1-72.8 0.61 (0.47-0.80) 0.0003 | 393 44.0 34.4-49.1 -- -- -- |
 | Progression Free Survival Median (months) 95% CI Adjusted hazard ratio 95% CI p-value* | 19.8 16.7-22.8 0.60 0.51-0.72 P<0.0001 | 11.6 10.8-14.3 -- -- -- |
 | PSA response** at 6 months – N(%) p-valuea* | 127 (32.0) <0.0001 | 77 (19.6) -- |
 | PSA response** at 12 months – N(%) p-valuea* | 110 (27.7) <0.0001 | 66 (16.8) -- |
@@ -481,31 +478,10 @@ Pharmacotherapeutic group: Taxanes, ATC Code: L01CD02
 
 1060 patients were randomised to receive either TAXOTERE 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (539 patients in TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclophosphamide 500 mg/m2 (521 patients in FAC arm), as adjuvant treatment of operable node-negative breast cancer patients with high risk of relapse according to 1998 St. Gallen criteria (tumour size >2 cm and/or negative ER and PR and/or high histological/nuclear grade (grade 2 to 3) and /or age <35 years).).
 
-| Patient subset | Number of patients in TAC group | Disease Free Survival |  |
+| Subgroups | TAC (n=539) | FAC (n=521) | Hazard ratio (TAC/FAC) (95% CI) |
 | --- | --- | --- | --- |
-|  |  | Hazard ratio* | 95% CI |
-| Overall | 539 | 0.68 | 0.49-0.93 |
-| Age category 1 <50 years ≥50 years | 260 279 | 0.67 0.67 | 0.43-1.05 0.43-1.05 |
-| Age category 2 <35 years ≥35 years | 42 497 | 0.31 0.73 | 0.11-0.89 0.52-1.01 |
-| Hormonal receptor status Negative Positive | 195 344 | 0.7 0.62 | 0.45-1.1 0.4-0.97 |
-| Tumour size ≤2 cm >2 cm | 285 254 | 0.69 0.68 | 0.43-1.1 0.45-1.04 |
-| Histological grade Grade1 (includes grade not assessed) Grade 2 Grade 3 | 64 | 0.79 | 0.24-2.6 |
-|  | 216 259 | 0.77 0.59 | 0.46-1.3 0.39-0.9 |
-| Menopausal status Pre-Menopausal | 285 | 0.64 | 0.40-1 |
-
-Post-Menopausal 254 0.72 0.47-1.12
-
-Hazard ratio
-
-TAC FAC (TAC/FAC)
-Subgroups (n=539) (n=521) (95% CI) p-value
-
-Meeting relative indication for chemotherapy a
-
-No 18/214 26/227 0.796 (0.434 - 1.459) 0.4593
-(8.4%) (11.5%)
-Yes 48/325 69/294 0.606 (0.42 - 0.877) 0.0072
-(14.8%) (23.5%)
+| Meeting relative indication for chemotherapy a No | 18/214 (8.4%) | 26/227 (11.5%) | 0.796 (0.434 - 1.459) |
+| Yes | 48/325 (14.8%) | 69/294 (23.5%) | 0.606 (0.42 - 0.877) |
 
 One large randomised phase III study, involving 429 previously untreated patients with metastatic disease, has been performed with doxorubicin (50 mg/m²) in combination with docetaxel (75 mg/m²) (AT arm) versus doxorubicin (60 mg/m²) in combination with cyclophosphamide (600 mg/m²)
 (AC arm).
@@ -513,15 +489,6 @@ One large randomised phase III study, involving 429 previously untreated patient
 Docetaxel in combination with trastuzumab was studied for the treatment of patients with metastatic breast cancer whose tumours overexpress HER2, and who previously had not received chemotherapy for metastatic disease.
 
 There was less use of morphinic analgesic (p < 0.01), non-morphinic analgesics (p < 0.01), other disease-related medicinal products (p = 0.06) and radiotherapy (p < 0.01) in patients treated with docetaxel at 75 mg/m² compared to those with BSC.
-
-| Endpoint | Docetaxel +ADT | ADT alone |
-| --- | --- | --- |
-| Number of patients Median overall survival (months) All patients 95% CIAdjusted hazard ratio 95% CI p-valuea | 397 57.6 49.1-72.8 0.61 (0.47-0.80) 0.0003 | 393 44.0 34.4-49.1 -- -- -- |
-| Progression Free Survival Median (months) 95% CI Adjusted hazard ratio 95% CI p-value* | 19.8 16.7-22.8 0.60 0.51-0.72 P<0.0001 | 11.6 10.8-14.3 -- -- -- |
-| PSA response** at 6 months – N(%) p-valuea* | 127 (32.0) <0.0001 | 77 (19.6) -- |
-| PSA response** at 12 months – N(%) p-valuea* | 110 (27.7) <0.0001 | 66 (16.8) -- |
-| Time to castration-resistant prostate cancerb Median (months) 95% CI Adjusted hazard ratio 95% CI p-valuea* | 20.2 (17.2-23.6) 0.61 (0.51-0.72) <0.0001 | 11.7 (10.8-14.7) -- -- -- |
-| Time to clinical progressionc Median (months) 95% CI Adjusted hazard ratio 95% CI p-valuea* | 33.0 (27.3-41.2) 0.61 (0.50-0.75) <0.0001 | 19.8 (17.9-22.8) -- -- -- |
 
 | Endpoint | Docetaxel + Cis + 5-FU n = 255 | Cis + 5-FU n = 246 |
 | --- | --- | --- |

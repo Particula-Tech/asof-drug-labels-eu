@@ -97,6 +97,12 @@ Second primary malignancies have been reported when docetaxel was given in combi
 Second primary malignancies (including acute myeloid leukaemia, myelodysplastic syndrome and non-Hodgkin lymphoma) may occur several months or years after docetaxel-containing therapy.
 Patients should be monitored for second primary malignancies (see section 4.8).
 
+Tumour Lysis Syndrome
+
+Tumour lysis syndrome has been reported with docetaxel after the first or the second cycle (see section 4.8).
+Patients at risk of tumour lysis syndrome (e.g. with renal impairment, hyperuricemia, bulky tumour, rapid progression) should be closely monitored.
+Correction of dehydration and treatment of high uric acid levels are recommended prior to initiation of treatment.
+
 Others
 
 Contraceptive measures must be taken by both men and women during treatment and for men at least 6 months after cessation of therapy (see section 4.6).
