@@ -4,7 +4,7 @@ Cytotoxicity and haematological monitoring
 Treatment with 6-mercaptopurine causes bone marrow suppression leading to leucopenia and thrombocytopenia and, less frequently, to anaemia.
 Careful monitoring of haematological parameters should be conducted during therapy.
 The leucocyte and platelet counts continue to fall after treatment is stopped, so at the first sign of an abnormally large fall in the counts, treatment should be interrupted immediately.
-Bone marrow suppression is reversible if 6-mercaptopurine is withdrawn early enough..
+Bone marrow suppression is reversible if 6-mercaptopurine is withdrawn early enough.
 
 There are individuals with an inherited deficiency of the TPMT enzyme activity who are very sensitive to the myelosuppresive effect of 6-mercaptopurine and prone to developing rapid bone marrow depression following the initiation of treatment with 6-mercaptopurine.
 This problem could be exacerbated by coadministration with active substances that inhibit TPMT, such as olsalazine, mesalazine or sulfasalazine.
@@ -34,6 +34,7 @@ Mutagenicity and carcinogenicity
 Patients receiving immunosuppressive therapy, including mercaptopurine, are at an increased risk of developing lymphoproliferative disorders and other malignancies, notably skin cancers (melanoma and non-melanoma), sarcomas (Kaposi's and non-Kaposi's) and uterine cervical cancer in situ.
 The increased risk appears to be related to the degree and duration of immunosuppression.
 It has been reported that discontinuation of immunosuppression may provide partial regression of the lymphoproliferative disorder.
+
 A treatment regimen containing multiple immunosuppressants (including thiopurines) should therefore be used with caution as this could lead to lymphoproliferative disorders, some with reported fatalities.
 A combination of multiple immunosuppressants, given concomitantly increases the risk of Epstein-Barr virus (EBV)-associated lymphoproliferative disorders.
 
@@ -74,10 +75,12 @@ When oral anticoagulants are coadministered with 6-mercaptopurine, a reinforced 
 Excipients
 This medicinal product contains aspartame (E951), a source of phenylalanine.
 May be harmful for people with phenylketonuria.
+Neither non-clinical nor clinical data are available to assess aspartame use in infants below 12 weeks of age.
 
 It also contains sodium methyl parahydroxybenzoate and sodium ethyl parahydroxybenzoate which may cause allergic reaction (possibly delayed).
 
-As this medicine contains sucrose, patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine.
+This medicine contains sucrose.
+Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine.
 Long term use increases the risk of dental caries and it is essential that adequate dental hygiene is maintained.
 
 Safe handling of the suspension
