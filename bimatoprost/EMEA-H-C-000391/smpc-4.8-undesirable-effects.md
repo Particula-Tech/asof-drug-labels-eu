@@ -32,11 +32,10 @@ Vascular disorders not known hypertension
 
 In clinical studies, over 1800 patients have been treated with LUMIGAN 0.3 mg/ml.
 On combining the data from phase III monotherapy and adjunctive LUMIGAN 0.3 mg/ml usage, the most frequently reported adverse reactions were:
-
-- growth of eyelashes in up to 45 % in the first year with the incidence of new reports decreasing to 7 % at 2 years and 2 % at 3 years
-- conjunctival hyperaemia (mostly trace to mild and thought to be of a non-inflammatory nature) in up to 44 % in the first year with the incidence of new reports decreasing to 13 % at 2 years and 12 % at 3 years
-- ocular pruritus in up to 14 % of patients in the first year with the incidence of new reports decreasing to 3 % at 2 years and 0 % at 3 years.
-  Less than 9 % of patients discontinued due to any adverse event in the first year with the incidence of additional patient discontinuations being 3 % at both 2 and 3 years.
+•growth of eyelashes in up to 45 % in the first year with the incidence of new reports decreasing to 7 % at 2 years and 2 % at 3 years
+•conjunctival hyperaemia (mostly trace to mild and thought to be of a non-inflammatory nature) in up to 44 % in the first year with the incidence of new reports decreasing to 13 % at 2 years and 12 % at 3 years
+•ocular pruritus in up to 14 % of patients in the first year with the incidence of new reports decreasing to 3 % at 2 years and 0 % at 3 years.
+Less than 9 % of patients discontinued due to any adverse event in the first year with the incidence of additional patient discontinuations being 3 % at both 2 and 3 years.
 
 Additional adverse reactions reported with LUMIGAN 0.3 mg/ml are presented in Table 2.
 The table also includes those adverse reactions which occurred with both formulations but at a different frequency.
@@ -122,10 +121,9 @@ The following adverse reactions were reported during clinical trials with LUMIGA
 In clinical studies, over 1800 patients have been treated with LUMIGAN 0.3 mg/mL (multi-dose formulation).
 On combining the data from phase III monotherapy and adjunctive
 LUMIGAN 0.3 mg/mL (multi-dose formulation) usage, the most frequently reported adverse reactions were:
-
-- growth of eyelashes in up to 45% in the first year with the incidence of new reports decreasing to 7% at 2 years and 2% at 3 years
-- conjunctival hyperaemia (mostly trace to mild and thought to be of a non-inflammatory nature) in up to 44% in the first year with the incidence of new reports decreasing to 13% at 2 years and 12% at 3 years
-- ocular pruritus in up to 14% of patients in the first year with the incidence of new reports decreasing to 3% at 2 years and 0% at 3 years.
+•growth of eyelashes in up to 45% in the first year with the incidence of new reports decreasing to 7% at 2 years and 2% at 3 years
+•conjunctival hyperaemia (mostly trace to mild and thought to be of a non-inflammatory nature) in up to 44% in the first year with the incidence of new reports decreasing to 13% at 2 years and 12% at 3 years
+•ocular pruritus in up to 14% of patients in the first year with the incidence of new reports decreasing to 3% at 2 years and 0% at 3 years.
 
 Table 2 lists adverse reactions that were seen in a 12 month clinical study with LUMIGAN 0.3 mg/mL (multi-dose formulation), but were reported at a higher frequency than with LUMIGAN 0.3 mg/mL (single-dose).
 Most were ocular, mild to moderate, and none were serious.

@@ -8,7 +8,7 @@ Reduction of the intraocular pressure starts approximately 4 hours after the fir
 The duration of effect is maintained for at least 24 hours.
 
 Bimatoprost is a potent ocular hypotensive agent.
-It is a synthetic prostamide, structurally related to prostaglandin F2α (PGF2α), that does not act through any known prostaglandin receptors.
+It is a synthetic prostamide, structurally related to prostaglandin F2α(PGF2α), that does not act through any known prostaglandin receptors.
 Bimatoprost selectively mimics the effects of newly discovered biosynthesised substances called prostamides.
 The prostamide receptor, however, has not yet been structurally identified.
 

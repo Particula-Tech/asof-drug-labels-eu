@@ -11,12 +11,12 @@ Bimatoprost was not mutagenic or carcinogenic in a series of in vitro and in viv
 Bimatoprost did not impair fertility in rats up to doses of 0.6 mg/kg/day (at least 103-times the intended human exposure).
 In embryo/foetal developmental studies abortion, but no developmental effects were seen in mice and rats at doses that were at least 860-times or 1700-times higher than the dose in humans, respectively.
 These doses resulted in systemic exposures of at least 33- or 97-times higher, respectively, than the intended human exposure.
-In rat peri/postnatal studies, maternal toxicity caused reduced gestation time, foetal death, and decreased pup body weights at ≥ 0.3 mg/kg/day (at least 41-times the intended human exposure).
+In rat peri/postnatal studies, maternal toxicity caused reduced gestation time, foetal death, and decreased pup body weights at ≥0.3 mg/kg/day (at least 41-times the intended human exposure).
 Neurobehavioural functions of offspring were not affected.
 
 [LUMIGAN 0.3 mg/ml eye drops, solution]
 
-In rat peri/postnatal studies, maternal toxicity caused reduced gestation time, foetal death, and decreased pup body weights at ≥0.3 mg/kg/day (at least 41-times the intended human exposure).
+(all sentences already above)
 
 [LUMIGAN 0.3 mg/mL eye drops, solution, in single-dose container]
 
