@@ -24,6 +24,14 @@ RoActemra is indicated for the treatment of Giant Cell Arteritis (GCA) in adult 
 
 [RoActemra 162 mg solution for injection in pre-filled pen.]
 
+- the treatment of severe, active and progressive rheumatoid arthritis (RA) in adults not
+
+previously treated with MTX.
+
+- the treatment of moderate to severe active RA in adult patients who have either responded
+
+inadequately to, or who were intolerant to, previous therapy with one or more disease-modifying anti-rheumatic drugs (DMARDs) or tumour necrosis factor (TNF) antagonists.
+
 RoActemra is indicated for the treatment of active systemic juvenile idiopathic arthritis (sJIA) in patients 12 years of age and older, who have responded inadequately to previous therapy with NSAIDs and systemic corticosteroids (see Section 4.2).
 
 RoActemra in combination with methotrexate (MTX) is indicated for the treatment of juvenile idiopathic polyarthritis (pJIA; rheumatoid factor positive or negative and extended oligoarthritis) in patients 12 years of age and older, who have responded inadequately to previous therapy with MTX (see Section 4.2).

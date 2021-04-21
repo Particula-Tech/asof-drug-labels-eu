@@ -126,6 +126,7 @@ Patients and parents/guardians of sJIA or pJIA patients should be advised to see
 In clinical studies with RoActemra, patients who screened positive for hepatitis were excluded.
 
 Events of diverticular perforations as complications of diverticulitis have been reported uncommonly in patients treated with RoActemra (see section 4.8).
+
 Serious hypersensitivity reactions, including anaphylaxis have been reported in association with RoActemra (see section 4.8).
 Such reactions may be more severe, and potentially fatal in patients who have experienced hypersensitivity reactions during previous treatment with RoActemra even if they have received premedication with steroids and antihistamines.
 If an anaphylactic reaction or other serious hypersensitivity reaction occurs, administration of RoActemra should be stopped immediately, appropriate therapy initiated and tocilizumab should be permanently discontinued.
@@ -136,6 +137,7 @@ For ALT or AST elevations > 3–5 x ULN, RoActemra treatment should be interrupt
 In patients not previously treated with RoActemra, initiation is not recommended in patients with an ANC below 2 x 109/L.
 
 In RA and GCA patients, neutrophils and platelets should be monitored 4 to 8 weeks after start of therapy and thereafter according to standard clinical practice.
+
 In sJIA and pJIA patients, neutrophils and platelets should be monitored at the time of the second administration and thereafter according to good clinical practice (see section 4.2).
 
 Elevations in lipid parameters including total cholesterol, low-density lipoprotein (LDL), high-density lipoprotein (HDL) and triglycerides were observed in patients treated with RoActemra (see section 4.8).

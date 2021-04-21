@@ -259,11 +259,11 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 The safety profile comes from 4510 patients exposed to RoActemra in clinical trials; the majority of these patients were participating in adult RA studies (n=4009), while the remaining experience comes from GCA (n=149), pJIA (n=240) and sJIA (n=112) studies.
 The safety profile of RoActemra across these indications remains similar and undifferentiated.
-
 The most commonly reported Adverse Drug Reactions (ADRs) were upper respiratory tract infections, nasopharyngitis, headache, hypertension and increased ALT.
 
 Tabulated list of adverse reactions
 The corresponding frequency category for each AR is based on the following convention: very common (≥ 1/10); common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100) rare, (≥1/10,000 to <1/1,000) or very rare (<1/10,000).
+
 List of ADRs occurring in patients treated with RoActemra.
 
 | MedDRA System Organ Class | Frequency categories with preferred terms |  |  |  |
@@ -281,6 +281,7 @@ List of ADRs occurring in patients treated with RoActemra.
 | Metabolism and nutrition disorders | Hypercholesterolae mia* |  | Hypertriglyceridae mia |  |
 | Nervous system disorders |  | Headache, Dizziness |  |  |
 | Renal and urinary disorders |  |  | Nephrolithiasis |  |
+|  | Very Common | Common | Uncommon | Rare |
 | Respiratory, thoracic and mediastinal disorders |  | Cough, Dyspnoea |  |  |
 | Skin and subcutaneous tissue disorders |  | Rash, Pruritus, Urticaria |  | Stevens-Johnson-Syndrome3 |
 | Vascular disorders |  | Hypertension |  |  |
@@ -311,12 +312,12 @@ No correlation of antibody development to clinical response or adverse events wa
 During routine laboratory monitoring in the RoActemra 6 month controlled clinical trial SC-I, a decrease in neutrophil count below 1 × 109/L occurred in 2.9% of patients on the subcutaneous weekly dose.
 
 There was no clear relationship between decreases in neutrophils below 1 x 109/L and the occurrence of serious infections.
-
 During routine laboratory monitoring in the RoActemra 6 month clinical trial SC-I, none of the patients on the SC weekly dose had a decrease in platelet count to ≤50 × 103 / μL.
 
 During routine laboratory monitoring in the RoActemra 6-month controlled clinical trial SC-I, elevation in ALT or AST ≥3 x ULN occurred in 6.5% and 1.4% of patients, respectively on the subcutaneous weekly dose.
 
 During routine laboratory monitoring in the RoActemra 6 month controlled clinical trial SC-I, 19% of patients experienced sustained elevations in total cholesterol > 6.2 mmol/L (240 mg/dl), with 9% experiencing a sustained increase in LDL to ≥ 4.1 mmol/L(160 mg/dL) on the subcutaneous weekly dose.
+
 sJIA (SC)
 The safety profile of subcutaneous RoActemra was evaluated in 51 paediatric patients (1 to 17 years of age) with sJIA.
 In general, the adverse drug reactions in patients with sJIA were similar in type to those seen in RA patients (see Undesirable Effects section above).
@@ -344,7 +345,6 @@ The safety profile of subcutaneous RoActemra was also evaluated in 52 paediatric
 The total patient exposure to RoActemra in the pJIA all exposure population was 184.4 patient years for IV and 50.4 patient years for SC tocilizumab.
 In general, the safety profile observed in patients with pJIA was consistent with the known safety profile of RoActemra with the exception of ISRs (see Table 1).
 A higher frequency of pJIA patients experienced ISRs following SC RoActemra injections compared to adult RA.
-
 In the SC RoActemra study, the rate of infection in pJIA patients treated with SC RoActemra was comparable with pJIA patients treated with IV RoActemra.
 
 A total of 28.8% (15/52) pJIA patients experienced ISRs to RoActemra SC.
@@ -355,6 +355,7 @@ All ISRs reported were non-serious Grade 1 events, and none of the ISRs required
 In the SC Study 5.8% [3/52] developed positive neutralizing anti-tocilizumab antibodies without developing a serious or clinically significant hypersensitivity reaction.
 Of these 3 patients, 1 subsequently withdrew from the study.
 No correlation between antibody development and clinical response or adverse events was observed
+
 During routine laboratory monitoring in the RoActemra all exposure population, a decrease in neutrophil count below 1 × 109/L occurred in 15.4% of patients treated with SC RoActemra.
 An elevation in ALT or AST ≥3 x ULN occurred in 9.6% and 3.8% patients treated with RoActemra SC, respectively.
 No patients treated with SC RoActemra experienced a decrease in platelet count to ≤50 × 103 / μL.
@@ -376,12 +377,12 @@ This patient did not develop a hypersensitivity reaction or injection site react
 
 During routine laboratory monitoring in the Roactemra 12 month controlled clinical trial, a decrease in neutrophil count below 1 × 109/L occurred in 4% of patients in the RoActemra subcutaneous weekly group.
 This was not observed in either of the placebo plus prednisone taper groups.
-
 During routine laboratory monitoring in the RoActemra 12 month controlled clinical trial, one patient (1%, 1/100) in the RoActemra subcutaneous weekly group had a single transient occurence of decrease in platelet count to <100 × 103 / μL without associated bleeding events.
 A decrease in platelet count below 100 × 103 / μL was not observed in either of the placebo plus prednisone taper groups.
 
 During routine laboratory monitoring in the RoActemra 12 month controlled clinical trial, elevation in ALT ≥3 x ULN occurred in 3% of patients in the RoActemra subcutaneous weekly group compared to 2% in the placebo plus 52 week prednisone taper group and none in the placebo plus 26 week prednisone taper group.
 An elevation in AST > 3 ULN occurred in 1% of patients in the RoActemra subcutaneous weekly group, compared to no patients in either of the placebo plus prednisone taper groups.
+
 During routine laboratory monitoring in the RoActemra 12 month controlled clinical trial, 34% of patients experienced sustained elevations in total cholesterol > 6.2 mmol/L (240 mg/dL), with 15% experiencing a sustained increase in LDL to ≥ 4.1 mmol/L (160 mg/dL) in the RoActemra subcutaneous weekly group.
 
 Intravenous use
@@ -458,7 +459,6 @@ SC-I was a non-inferiority study that compared the efficacy and safety of RoActe
 Seven patients (1.6%) developed positive anti-RoActemra antibodies; of these, six (1.4%) developed neutralizing anti-RoActemra antibodies.
 
 During routine laboratory monitoring in the RoActemra 6 month controlled clinical trial SC-I, 19% of patients experienced sustained elevations in total cholesterol > 6.2 mmol/L (240 mg/dL), with 9% experiencing a sustained increase in LDL to ≥ 4.1 mmol/L (160 mg/dL) on the subcutaneous weekly dose.
-
 Subcutaneous Use sJIA
 
 Subcutaneous use pJIA
@@ -476,7 +476,6 @@ In the 6-month controlled studies the rate of all infections reported with RoAct
 In 6-month controlled clinical studies, the rate of serious infections with RoActemra8 mg/kg plus DMARDs was 5.3 events per 100 patient years exposure compared to 3.9 events per 100 patient years exposure in the placebo plus DMARD group.
 
 Reports of gastrointestinal perforation on RoActemrawere primarily reported as complications of diverticulitis including generalised purulent peritonitis, lower gastrointestinal perforation, fistulae and abscess.
-
 In the 6-month controlled trials adverse events associated with infusion (selected events occurring during or within 24 hours of infusion) were reported by 6.9% of patients in the RoActemra 8 mg/kg plus DMARD group and 5.1% of patients in the placebo plus DMARD group.
 
 Clinically significant hypersensitivity reactions associated with RoActemra and requiring treatment discontinuation were reported in a total of 56 out of 4,009 patients (1.4%) treated with RoActemra during the controlled and open label clinical studies.

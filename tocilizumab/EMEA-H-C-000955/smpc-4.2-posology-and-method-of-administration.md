@@ -36,7 +36,7 @@ In patients not previously treated with RoActemra, initiation is not recommended
 
 | Laboratory Value (cells x 103/ μL) | Action |
 | --- | --- |
-| 50 to 100 | Interrupt RoActemra dosing When platelet count > 100 x 103/ μ resume RoActemra at 4 mg/kg and increase to 8 mg/kg as clinically appropriate |
+| 50 to 100 | Interrupt RoActemra dosing When platelet count > 100 x 103/ μl resume RoActemra at 4 mg/kg and increase to 8 mg/kg as clinically appropriate |
 | < 50 | Discontinue RoActemra |
 
 Cytokine Release Syndrome (CRS) (adults and paediatrics)
@@ -88,7 +88,8 @@ As there are many co-morbid conditions that may affect laboratory values in sJIA
 | 50 to 100 | Modify the dose of the concomitant MTX if appropriate Interrupt RoActemra dosing When platelet count is > 100 x 103/µl resume RoActemra |
 | < 50 | Discontinue RoActemra. The decision to discontinue RoActemra in sJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
 
-Reduction of tocilizumab dose due to laboratory abnormalities has not been studied in sJIA patients.
+There are insufficient clinical data to assess the impact of a tocilizumab dose reduction in sJIA
+patients who have experienced laboratory abnormalities.
 
 Available data suggest that clinical improvement is observed within 6 weeks of initiation of treatment with RoActemra.
 Continued therapy should be carefully reconsidered in a patient exhibiting no improvement within this timeframe.
@@ -185,6 +186,7 @@ RoActemra can be used alone following discontinuation of glucocorticoids.
 RoActemra monotherapy should not be used for the treatment of acute relapses (see 4.4).
 
 Based upon the chronic nature of GCA, treatment beyond 52 weeks should be guided by disease activity, physician discretion, and patient choice.
+
 RA and GCA
 
 | Laboratory Value | Action |

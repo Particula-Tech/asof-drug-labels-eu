@@ -10,7 +10,6 @@ Water for injections
 
 L-Histidine
 L-Histidine monohydrochloride monohydrate
-L-Arginine
 L-Arginine hydrochloride
 L-Methionine
 

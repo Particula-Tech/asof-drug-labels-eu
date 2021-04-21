@@ -19,11 +19,11 @@ Given its long elimination half-life (t1/2), the effect of tocilizumab on CYP450
 [RoActemra 162 mg solution for injection in pre-filled syringe.]
 
 Concomitant administration of a single dose of 10 mg/kg RoActemra with 10-25 mg MTX once weekly had no clinically significant effect on MTX exposure.
+
 Population pharmacokinetic analyses did not detect any effect of MTX, non-steroidal anti-inflammatory drugs (NSAIDs) or corticosteroids on RoActemra clearance in RA patients.
 In GCA patients, no effect of cumulative corticosteroid dose on RoActemra exposure was observed.
 
 Thus, CYP450 expression may be reversed when potent cytokine inhibitory therapy, such as RoActemra, is introduced.
-
 In vitro studies with cultured human hepatocytes demonstrated that IL-6 caused a reduction in CYP1A2, CYP2C9, CYP2C19, and CYP3A4 enzyme expression.
 RoActemra normalises expression of these enzymes.
 

@@ -248,6 +248,7 @@ At week 12, the proportion of tocilizumab treated patients showing a minimally c
 Laboratory Parameters
 Fifty out of seventy five (67%) tocilizumab treated patients had a haemoglobin < LLN at baseline.
 Forty (80%) of these patients had an increase in their haemoglobin to within the normal range at week 12, in comparison to 2 out of 29 (7%) of placebo treated patients with haemoglobin < LLN at baseline (p<0.0001).
+
 pJIA Patients
 Clinical efficacy
 The efficacy of tocilizumab was assessed in a three-part study WA19977 including an open-label extension in children with active pJIA.
@@ -365,6 +366,7 @@ In SC-II, 656 patients were randomized 2:1 to RoActemra subcutaneous 162 mg ever
 In study SC-II, inhibition of structural joint damage was assessed radiographically and expressed as a change from baseline in the van der Heijde modified mean total Sharp score (mTSS).
 At week 24, inhibition of structural damage was shown, with significantly less radiographic progression in patients receiving RoActemra subcutaneous compared to placebo (mean mTSS of 0.62 vs. 1.23, p=0.0149 (van Elteren).
 These results are consistent with those observed in patients treated with intravenous RoActemra.
+
 In study SC-II, at week 24 there was ACR20 of 60.9%, ACR50 of 39.8% and ACR70 of 19.7% for patients treated with RoActemra subcutaneous every other week versus placebo ACR20 of 31.5%, ACR50 of 12.3% and ACR70 of 5.0%.
 Patients had mean DAS28 at baseline of 6.7 on subcutaneous and 6.6 on placebo arms.
 At week 24, a significant reduction in DAS28 from baseline of 3.1 was observed on subcutaneous and 1.7 on placebo arm, and for DAS28 < 2.6, 32.0% was observed on subcutaneous and 4.0% on placebo arm.
@@ -414,8 +416,10 @@ Duration of Corticosteroid Therapy During Screening in Study WA28119
 
 Placebo + 26 Placebo + 52 RoActemra 162mg SC RoActemra 162 mg SC
 
-weeks prednisone weeks weekly + 26 weeks every other weekly + 26
-taper prednisone taper prednisone taper weeks prednisone taper
+weeks weeks weekly + 26 weeks every other weekly + 26
+
+prednisone taper prednisone taper prednisone taper weeks prednisone taper
+
 N=50 N=51 N=100 N=49
 
 Duration (days)
@@ -451,16 +455,16 @@ The cumulative prednisone dose at week 52 was significantly lower in the two RoA
 In a separate analysis of the patients who received escape prednisone to treat GCA flare during the first 52 weeks, the cumulative prednisone dose varied greatly.
 The median doses for escape patients in the RoActemra weekly and every other weekly groups were 3129.75 mg and 3847 mg, respectively.
 Both considerably lower than in the placebo plus 26 weeks and the placebo plus 52 weeks prednisone taper groups, 4023.5 mg and 5389.5 mg respectively.
+
 Efficacy results from Study WA28119
 
-Placebo + 26 Placebo + 52 RoActemra 162mg RoActemra 162 mg
+Placebo + 26 Placebo + 52 RoActemra 162mg RoActemra 162
 
-weeks weeks SC weekly + 26 SC every other
+weeks weeks SC weekly + 26 mg SC every other
 
-prednisone taper prednisone weeks prednisone weekly + 26 weeks
+prednisone prednisone weeks prednisone weekly + 26 weeks
 
-N=50 taper taper prednisone taper
-N=51 N=100 N=49
+taper taper taper prednisone taper
 
 Primary Endpoint
 ****Sustained remission (Tocilizumab groups vs Placebo+26)
@@ -488,22 +492,21 @@ HR (99% CI) N/A N/A 0.23*** 0.42
 Time to first GCA flare¹ (Relapsing patients; (0.09,0.61) (0.14, 1.28)
 Tocilizumab groups vs Placebo +26) HR (99% CI) N/A N/A 0.36 0.67
 Time to first GCA flare¹ (Relapsing patients; (0.13, 1.00) (0.21,2.10)
-Tocilizumab groups vs Placebo + 52) HR (99% CI) 0.25*** 0.20***
-Time to first GCA flare¹ (New-onset patients; N/A N/A (0.09, 0.70) (0.05, 0.76)
-Tocilizumab groups vs Placebo +26) HR (99% CI) 0.44 0.35
-Time to first GCA flare¹ (New-onset patients; N/A N/A (0.14, 1.32) (0.09, 1.42)
+Tocilizumab groups vs Placebo + 52) HR (99% CI) N/A N/A 0.25*** 0.20***
+Time to first GCA flare¹ (New-onset patients; (0.09, 0.70) (0.05, 0.76)
+Tocilizumab groups vs Placebo +26) HR (99% CI) N/A N/A 0.44 0.35
+Time to first GCA flare¹ (New-onset patients; (0.14, 1.32) (0.09, 1.42)
 
 Tocilizumab groups vs Placebo + 52) HR (99% CI)
 Cumulative glucocorticoid dose (mg)
 
-median at Week 52 (Tocilizumab groups vs 3296.00 N/A 1862.00* 1862.00*
+median at Week 52 (Tocilizumab groups 3296.00 N/A 1862.00* 1862.00*
 
-Placebo+262)
+vs Placebo+262)
 
-median at Week 52 (Tocilizumab groups vs N/A 3817.50 1862.00* 1862.00*
+median at Week 52 (Tocilizumab groups N/A 3817.50 1862.00* 1862.00*
 
-Placebo +522)
-
+vs Placebo +522)
 Exploratory Endpoints
 Annualized relapse rate, Week 52§
 
@@ -548,6 +551,7 @@ In Studies II, III and V, RoActemra was administered intravenously every four we
 In Study IV, RoActemra was administered intravenously every 4 weeks in combination with other DMARDs vs. placebo and other DMARDs.
 
 Doses of 8 mg/kg of RoActemra were given every four weeks as monotherapy.
+
 Study II, a two year study with planned analyses at week 24, week 52 and week 104, evaluated 1196 patients who had an inadequate clinical response to MTX.
 Doses of 4 or 8 mg/kg of RoActemraor placebo were given every four weeks as blinded therapy for 52 weeks in combination with stable MTX (10 mg to 25 mg weekly).
 After week 52, all patients could receive open-label treatment with RoActemra 8 mg/kg.
@@ -631,10 +635,20 @@ Pharmacotherapeutic group: Immunosupressants, Interleukin inhibitors; ATC code: 
 
 RoActemra binds specifically to both soluble and membrane-bound IL-6 receptors (sIL-6R and mIL-6R).
 RoActemra has been shown to inhibit sIL-6R and mIL-6R-mediated signalling.
-
 In RA clinical studies with RoActemra, rapid decreases in CRP, erythrocyte sedimentation rate (ESR), serum amyloid A (SAA) and fibrinogen were observed.
 
 RA and GCA patients demonstrate a comparable (to healthy subjects) decrease of absolute neutrophil counts following RoActemra administration (see section 4.8).
+
+|  | SC-Ia |  |
+| --- | --- | --- |
+|  | TCZ SC 162 mg every week + DMARD N=558 | TCZ IV 8 mg/kg + DMARD N=537 |
+| ACR20 Week 24 | 69.4% | 73.4% |
+| Weighted difference (95% CI) | -4.0 (-9.2, 1.2) |  |
+| ACR50 Week 24 | 47.0% | 48.6% |
+| Weighted difference (95% CI) | -1.8 (-7.5, 4.0) |  |
+| ACR70 Week 24 | 24.0% | 27.9% |
+|  | TCZ SC 162 mg every week + DMARD N=558 | TCZ IV 8 mg/kg + DMARD N=537 |
+| Weighted difference (95% CI) | -3.8 (-9.0, 1.3) |  |
 
 Subcutaneous Use sJIA
 
@@ -642,11 +656,14 @@ Subcutaneous Use pJIA
 
 GCA
 
-Placebo + 26 weeks Placebo + 52 weeks RoActemra 162mg SC RoActemra 162 mg SC every
+Placebo + 26 Placebo + 52 RoActemra 162mg SC RoActemra 162 mg SC every
+weeks prednisone weeks prednisone weekly + 26 weeks other weekly + 26 weeks
+taper taper prednisone taper prednisone taper
 
-prednisone taper prednisone taper weekly + 26 weeks other weekly + 26 weeks
-N=50 N=51 prednisone taper prednisone taper
-N=100 N=49
+Tocilizumab groups vs Placebo + 52) HR (99% CI) 0.25*** 0.20***
+Time to first GCA flare¹ (New-onset patients; N/A N/A (0.09, 0.70) (0.05, 0.76)
+Tocilizumab groups vs Placebo +26) HR (99% CI) 0.44 0.35
+Time to first GCA flare¹ (New-onset patients; N/A N/A (0.14, 1.32) (0.09, 1.42)
 
 Doses of 4 or 8 mg/kg of RoActemra or placebo were given every four weeks as blinded therapy for 52 weeks in combination with stable MTX (10 mg to 25 mg weekly).
 
