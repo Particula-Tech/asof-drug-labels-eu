@@ -75,7 +75,6 @@ When given at the recommended doses, the plasma concentrations of desloratadine 
 Thus, since the course of allergic rhinitis/chronic idiopathic urticaria and the profile of desloratadine are similar in adults and paediatric patients, desloratadine efficacy data in adults can be extrapolated to the paediatric population.
 
 Efficacy of Azomyr syrup has not been investigated in paediatric trials in children less than 12 years of age.
-
 Adults and adolescents
 In a multiple dose clinical trial, in adults and adolescents, in which up to 20 mg of desloratadine was administered daily for 14 days, no statistically or clinically relevant cardiovascular effect was observed.
 In a clinical pharmacology trial, in adults and adolescents, in which desloratadine was administered to adults at a dose of 45 mg daily (nine times the clinical dose) for ten days, no prolongation of QTc interval was seen.

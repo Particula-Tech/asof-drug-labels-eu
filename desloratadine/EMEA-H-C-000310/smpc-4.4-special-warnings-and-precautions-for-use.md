@@ -2,7 +2,7 @@
 
 In the case of severe renal insufficiency, Azomyr should be used with caution (see section 5.2).
 
-Desloratadine should be administered with caution in patients with medical or familial history of seizures, and mainly young children, being more susceptible to develop new seizures under desloratadine treatment.
+Desloratadine should be administered with caution in patients with medical or familial history of seizures, and mainly young children (see section 4.8), being more susceptible to develop new seizures under desloratadine treatment.
 Healthcare providers may consider discontinuing desloratadine in patients who experience a seizure while on treatment.
 
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.

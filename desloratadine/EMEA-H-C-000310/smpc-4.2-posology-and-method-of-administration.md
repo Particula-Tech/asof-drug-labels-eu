@@ -11,7 +11,6 @@ Paediatric population
 There is limited clinical trial efficacy experience with the use of desloratadine in adolescents 12 through 17 years of age (see sections 4.8 and 5.1).
 
 The safety and efficacy of Azomyr 5 mg film-coated tablets in children below the age of 12 years have not been established.
-No data are available.
 
 Method of administration
 Oral use.
