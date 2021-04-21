@@ -75,6 +75,7 @@ Very common rashe, pruritus
 Common vitiligo, dry skin, erythema, alopecia
 Uncommon erythema multiforme, psoriasis, rosacea, urticaria
 Rare toxic epidermal necrolysisa,f, Stevens-Johnson syndromea,f
+Not known lichen sclerosus, other lichen disorders
 Musculoskeletal and connective tissue disorders
 Common musculoskeletal paing, arthralgia
 Uncommon polymyalgia rheumatica, arthritis
@@ -113,6 +114,7 @@ l Includes adrenal insufficiency and secondary adrenocortical insufficiency.
 m Includes encephalitis and limbic encephalitis.
 
 The overall safety profile of nivolumab 3 mg/kg for the adjuvant treatment of melanoma (n = 452) was consistent with that established across tumour types for nivolumab monotherapy.
+
 Nivolumab in combination with ipilimumab (see section 4.2)
 
 Summary of the safety profile
@@ -195,6 +197,7 @@ Table 7: Adverse reactions with nivolumab in combination with ipilimumab
 | Common | vitiligo, dry skin, erythema, alopecia, urticaria | dry skin, erythema, urticaria |
 | Uncommon | psoriasis | Stevens-Johnson syndrome, vitiligo, erythema multiforme, alopecia, psoriasis |
 | Rare | toxic epidermal necrolysisa,f, Stevens-Johnson syndromef |  |
+| Not known | lichen sclerosus, other lichen disorders | lichen sclerosus, other lichen disorders |
 | Musculoskeletal and connective tissue disorders |  |  |
 | Very common | arthralgia | musculoskeletal paing, arthralgia |
 | Common | musculoskeletal paing | arthritis, muscle spasms, muscular weakness |
@@ -240,7 +243,7 @@ Tabulated summary of adverse reactions
 Adverse reactions reported in the dataset for patients treated with nivolumab 360 mg every 3 weeks in combination with ipilimumab 1 mg/kg every 6 weeks and 2 cycles of chemotherapy in NSCLC
 (n = 358) are presented in Table 8.
 These reactions are presented by system organ class and by frequency.
-Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000).
+Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000), not known (cannot be estimated from available post-marketing data).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 Table 8: Adverse reactions with nivolumab in combination with ipilimumab and chemotherapy
 
@@ -281,6 +284,7 @@ Skin and subcutaneous tissue disorders
 Very common rasha, pruritus
 Common alopecia, dry skin, erythema, urticaria
 Uncommon psoriasis, Stevens-Johnson syndrome, vitligo
+Not known lichen sclerosus, other lichen disorders
 Musculoskeletal and connective tissue disorders
 Common musculoskeletal painb, arthralgia, arthritis
 Uncommon muscular weakness, muscle spasms, polymyalgia rheumatica
@@ -318,7 +322,7 @@ Tabulated summary of adverse reactions
 Adverse reactions reported in the dataset for patients treated with nivolumab 240 mg in combination with cabozantinib 40 mg (n = 320) are presented in Table 9.
 These reactions are presented by system organ class and by frequency.
 Frequencies are defined as: very common (≥ 1/10);
-common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100).
+common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100), not known (cannot be estimated from available post-marketing data).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 Table 9: Adverse reactions with nivolumab in combination with cabozantinib
 
@@ -365,6 +369,7 @@ Skin and subcutaneous tissue disorders
 Very common palmar-plantar erythrodysaesthesia syndrome, rashc, pruritus
 Common alopecia, dry skin, erythema, hair colour change
 Uncommon psoriasis, urticaria
+Not known lichen sclerosus, other lichen disorders
 Musculoskeletal and connective tissue disorders
 Very common musculoskeletal paind, arthralgia, muscle spasm
 Common arthritis
@@ -411,40 +416,28 @@ The management guidelines for these adverse reactions are described in section 4
 
 Table 10: Immune-related adverse reactions leading to permanent discontinuation or requiring high-dose corticosteroids by dosing regimen (nivolumab monotherapy or nivolumab in combination with ipilimumab)
 
-Nivolumab 3 mg/kg Nivolumab 1 mg/kg Nivolumab 3 mg/kg
-or 240 mg in combination with in combination with
-monotherapy ipilimumab 3 mg/kg ipilimumab 1 mg/kg
-% in melanoma in RCC
-% %
-Immune-related adverse
-reaction leading to
-permanent
-discontinuation
-Pneumonitis 1.4 2.0 2.2
-Colitis 0.8 16 4.0
-Hepatitis 1.0 9 4.4
-Nephritis and renal 0.3 1.1 1.3
-dysfunction
-Endocrinopathies 0.2 2.7 2.9
+|  | Nivolumab 3 mg/kg or 240 mg monotherapy % | Nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg in melanoma % | Nivolumab 3 mg/kg in combination with ipilimumab 1 mg/kg in RCC % |
+| --- | --- | --- | --- |
+| Immune-related adverse reaction leading to permanent discontinuation |  |  |  |
+| Pneumonitis | 1.4 | 2.0 | 2.2 |
+| Colitis | 0.8 | 16 | 4.0 |
+| Hepatitis | 1.0 | 9 | 4.4 |
+| Nephritis and renal dysfunction | 0.3 | 1.1 | 1.3 |
 
 Table 10: Immune-related adverse reactions leading to permanent discontinuation or requiring high-dose corticosteroids by dosing regimen (nivolumab monotherapy or nivolumab in combination with ipilimumab)
 
-Skin 0.4 0.9 1.5
-Hypersensitivity/Infusion 0.2 0 0
-reaction
-Immune-related adverse
-reaction requiring
-high-dose
-corticosteroidsa,b
-Pneumonitis 67 63 59
-Colitis 14 46 26
-Hepatitis 19 46 35
-Nephritis and renal 26 17 27
-dysfunction
-Endocrinopathies 7 27 25
-Skin 4 7 7
-Hypersensitivity/Infusion 20 6 9
-reaction
+| Endocrinopathies | 0.2 | 2.7 | 2.9 |
+| --- | --- | --- | --- |
+| Skin | 0.4 | 0.9 | 1.5 |
+| Hypersensitivity/Infusion reaction | 0.2 | 0 | 0 |
+| Immune-related adverse reaction requiring high-dose corticosteroidsa,b |  |  |  |
+| Pneumonitis | 67 | 63 | 59 |
+| Colitis | 14 | 46 | 26 |
+| Hepatitis | 19 | 46 | 35 |
+| Nephritis and renal dysfunction | 26 | 17 | 27 |
+| Endocrinopathies | 7 | 27 | 25 |
+| Skin | 4 | 7 | 7 |
+| Hypersensitivity/Infusion reaction | 20 | 6 | 9 |
 
 a at least 40 mg daily prednisone equivalents b frequency is based on the number of patients who experienced the immune-related adverse reaction
 

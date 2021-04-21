@@ -9,6 +9,7 @@ Immune-related adverse reactions have occurred at higher frequencies when nivolu
 Immune-related adverse reactions have occurred at similar frequencies when OPDIVO was administered in combination with cabozantinib relative to nivolumab monotherapy.
 Therefore, the guidance below for immune-related adverse reactions applies to the OPDIVO component of the combination, except where specifically noted.
 Most immune-related adverse reactions improved or resolved with appropriate management, including initiation of corticosteroids and treatment modifications (see section 4.2).
+Immune-related adverse reactions affecting more than one body system can occur simultaneously.
 
 Cardiac and pulmonary adverse reactions including pulmonary embolism have also been reported with combination therapy.
 Patients should be monitored for cardiac and pulmonary adverse reactions continuously, as well as for clinical signs, symptoms, and laboratory abnormalities indicative of electrolyte disturbances and dehydration prior to and periodically during treatment.
@@ -76,7 +77,6 @@ Most patients present with asymptomatic increases in serum creatinine.
 Disease-related aetiologies should be ruled out.
 
 For Grade 4 serum creatinine elevation, nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued, and corticosteroids should be initiated at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
-
 For Grade 2 or 3 serum creatinine elevation, nivolumab or nivolumab in combination with ipilimumab should be withheld, and corticosteroids should be initiated at a dose of 0.5 to 1 mg/kg/day methylprednisolone equivalents.
 Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper.
 If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 1 to 2 mg/kg/day methylprednisolone equivalents, and nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued.
@@ -113,6 +113,7 @@ Immune-related skin adverse reactions
 Severe rash has been observed with nivolumab in combination with ipilimumab and, less commonly, with nivolumab as monotherapy (see section 4.8).
 Nivolumab or nivolumab in combination with ipilimumab should be withheld for Grade 3 rash and discontinued for Grade 4 rash.
 Severe rash should be managed with high-dose corticosteroid at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
+
 Rare cases of SJS and TEN some of them with fatal outcome have been observed.
 If symptoms or signs of SJS or TEN appear, treatment with nivolumab or nivolumab in combination with ipilimumab should be discontinued and the patient referred to a specialised unit for assessment and treatment.
 If the patient has developed SJS or TEN with the use of nivolumab or nivolumab in combination with ipilimumab, permanent discontinuation of treatment is recommended (see section 4.2).
@@ -143,7 +144,6 @@ The benefit of treatment with nivolumab versus the risk of possible organ reject
 Haemophagocytic lymphohistiocytosis (HLH) has been observed with nivolumab as monotherapy and nivolumab in combination with ipilimumab.
 Caution should be taken when nivolumab is administered as monotherapy or in combination with ipilimumab.
 If HLH is confirmed, administration of nivolumab or nivolumab in combination with ipilimumab should be discontinued and treatment for HLH initiated.
-
 Infusion reactions
 Severe infusion reactions have been reported in clinical trials of nivolumab or nivolumab in combination with ipilimumab (see section 4.8).
 In case of a severe or life-threatening infusion reaction, the nivolumab or nivolumab in combination with ipilimumab infusion must be discontinued and appropriate medical therapy administered.
@@ -183,6 +183,7 @@ First-line treatment of NSCLC
 Patients with active autoimmune disease, symptomatic interstitial lung disease, medical conditions requiring systemic immunosuppression, active (untreated) brain metastasis, who received prior systemic treatment for advanced disease, or who had sensitising EGFR mutations or ALK translocations were excluded from the pivotal trial in first-line treatment of NSCLC (see sections 4.5 and 5.1).
 Limited data are available in elderly patients (≥ 75 years) (see section 5.1).
 In these patients, nivolumab in combination with ipilimumab and chemotherapy should be used with caution after careful consideration of the potential benefit/risk on an individual basis.
+
 Treatment of NSCLC after prior chemotherapy
 Patients with a baseline performance score ≥ 2, active brain metastases or autoimmune disease, symptomatic interstitial lung disease, and patients who had been receiving systemic immunosuppressants prior to study entry were excluded from the pivotal clinical trials of NSCLC (see sections 4.5 and 5.1).
 Patients with baseline performance score of 2 were included in study CA209171 (see section 5.1).
@@ -215,6 +216,7 @@ Until further data become available, careful consideration to the potential bene
 In patients treated with nivolumab after allogeneic HSCT, rapid-onset and severe GVHD, some with fatal outcome, have been reported in the post-marketing setting.
 Treatment with nivolumab may increase the risk of severe GVHD and death in patients who have had prior allogeneic HSCT, mainly in those with prior history of GVHD.
 The benefit of treatment with nivolumab versus the possible risk should be considered in these patients (see section 4.8).
+
 Head and neck cancer
 Patients with a baseline performance score ≥ 2, active brain or leptomeningeal metastases, active autoimmune disease, medical conditions requiring systemic immunosuppression, or carcinoma of the nasopharynx or salivary gland as the primary tumour sites were excluded from the SCCHN clinical trial (see sections 4.5 and 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
