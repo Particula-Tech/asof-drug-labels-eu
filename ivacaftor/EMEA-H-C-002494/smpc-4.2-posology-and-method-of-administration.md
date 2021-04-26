@@ -75,7 +75,8 @@ Table 3: Dosing recommendations for patients with moderate or severe hepatic imp
 |  | Moderate (Child-Pugh Class B) | Severe (Child-Pugh Class C) |
 | --- | --- | --- |
 | Ivacaftor as monotherapy |  |  |
-| 6 years and older, ≥25 kg | One morning tablet of ivacaftor 150 mg once daily. No evening dose. | Use is not recommended unless the benefits are expected to outweigh the risks. If used: one morning tablet of ivacaftor 150 mg every other day or less frequently. Dosing interval should be modified according to clinical response and tolerability. No evening dose. |
+| 6 years and older, ≥25 kg | One morning tablet of ivacaftor 150 mg once daily. | Use is not recommended unless the benefits are expected to outweigh the risks. |
+|  | No evening dose. | If used: one morning tablet of ivacaftor 150 mg every other day or less frequently. Dosing interval should be modified according to clinical response and tolerability. No evening dose. |
 
 | Ivacaftor in a combination regimen with tezacaftor/ivacaftor |  |  |
 | --- | --- | --- |

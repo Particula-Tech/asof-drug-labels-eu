@@ -36,9 +36,11 @@ In patients aged 6 to less than 12 years who were homozygous or heterozygous for
 
 Ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor
 
-In patients with an F508del mutation on one allele and a mutation on the second allele that predicts either no production of CFTR protein or a CFTR protein that is not responsive to ivacaftor and tezacaftor/ivacaftor, the treatment difference between ivacaftor/tezacaftor/elexacaftor and placebo for mean absolute change in sweat chloride from baseline through week 24 was -41.8 mmol/L (95% CI: - 44.4, -39.3).
+In patients with an F508del mutation on one allele and a mutation on the second allele that predicts either no production of a CFTR protein or a CFTR protein that does not transport chloride and is not responsive to ivacaftor and tezacaftor/ivacaftor in vitro, the treatment difference of ivacaftor/tezacaftor/elexacaftor compared to placebo for mean absolute change in sweat chloride from baseline through week 24 was -41.8 mmol/L (95% CI: -44.4, -39.3).
 
-In patients homozygous for the F508del mutation, the treatment difference between ivacaftor/tezacaftor/elexacaftor and tezacaftor/ivacaftor for mean absolute change in sweat chloride from baseline at week 4 was -45.1 mmol/L (95% CI: -50.1, -40.1).
+In patients homozygous for the F508del mutation, the treatment difference of ivacaftor/tezacaftor/elexacaftor compared to tezacaftor/ivacaftor for mean absolute change in sweat chloride from baseline at week 4 was -45.1 mmol/L (95% CI: -50.1, -40.1).
+
+In patients heterozygous for the F508del mutation and a mutation on the second allele with a gating defect or residual CFTR activity, the treatment difference of ivacaftor/tezacaftor/elexacaftor compared to the control group (ivacaftor monotherapy group plus tezacaftor/ivacaftor group) for mean absolute change in sweat chloride from baseline through week 8 was -23.1 mmol/L (95% CI: -26.1, -20.1).
 
 Clinical efficacy and safety
 
@@ -65,6 +67,7 @@ The treatment difference between ivacaftor and placebo for the mean absolute cha
 The treatment difference between ivacaftor and placebo for the mean relative change (95% CI) in percent predicted FEV1 from baseline through week 24 was 17.1% (13.9, 20.2) in study 1 and 15.8% (8.4, 23.2) in study 2.
 The mean change from baseline through week 24 in FEV1 (L) was 0.37 L in the ivacaftor group and 0.01 L in the placebo group in study 1 and 0.30 L in the ivacaftor group and 0.07 L in the placebo group in study 2.
 In both studies, improvements in FEV1 were rapid in onset (day 15) and durable through 48 weeks.
+
 The treatment difference between ivacaftor and placebo for the mean absolute change (95% CI) in percent predicted FEV1 from baseline through week 24 in patients 12 to 17 years of age in study 1 was 11.9 percentage points (5.9, 17.9).
 The treatment difference between ivacaftor and placebo for the mean absolute change (95% CI) in percent predicted FEV1 from baseline through week 24 in patients with baseline predicted FEV1 greater than 90% in study 2 was 6.9 percentage points (-3.8, 17.6).
 
@@ -98,7 +101,6 @@ Study 5: study in patients with CF with non-G551D gating mutations
 
 Study 5 was a phase 3, two-part, randomised, double-blind, placebo-controlled, crossover study
 (part 1) followed by a 16-week open-label extension period (part 2) to evaluate the efficacy and safety of ivacaftor in patients with CF aged 6 years and older who have a G970R or non-G551D gating mutation in the CFTR gene (G178R, S549N, S549R, G551S, G1244E, S1251N, S1255P or G1349D).
-
 In part 1, patients were randomised 1:1 to receive either 150 mg of ivacaftor or placebo every 12 hours with fat-containing food for 8 weeks in addition to their prescribed CF therapies and crossed over to the other treatment for the second 8 weeks after a 4- to 8-week washout period.
 The use of inhaled hypertonic saline was not permitted.
 In part 2, all patients received ivacaftor as indicated in part 1 for 16 additional weeks.
@@ -132,7 +134,6 @@ Table 7: Effect of ivacaftor for efficacy variables in the overall population an
 † Reflects results from the one patient with the G551S mutation with data at the 8-week time point.
 †† n = 3 for the analysis of absolute change in sweat chloride.
 # Causes a splicing defect resulting in little-to-no CFTR protein at the cell surface
-
 In part 2 of study 5, the mean (SD) absolute change in percent predicted FEV1 following 16 weeks (patients randomised to the ivacaftor/placebo treatment sequence in part 1) of continuous ivacaftor treatment was 10.4% (13.2%).
 At the follow-up visit, 4 weeks after ivacaftor dosing had ended, the mean (SD) absolute change in percent predicted FEV1 from part 2 week 16 was -5.9% (9.4%).
 For patients randomised to the placebo/ivacaftor treatment sequence in part 1 there was a further mean (SD) change of 3.3% (9.3%) in percent predicted FEV1 after the additional 16 weeks of treatment with ivacaftor.
@@ -177,6 +178,7 @@ Table 8: Effect of ivacaftor on percent predicted FEV1 in study 4
 When the mean (SD) absolute change in percent predicted FEV1 is compared from study 4 baseline for patients in the ivacaftor/ivacaftor group (n = 72) who rolled over from study 1, the mean (SD) absolute change in percent predicted FEV1 was 0.0% (9.05), while for patients in the ivacaftor/ivacaftor group (n = 25) who rolled over from study 2 this figure was 0.6% (9.1).
 This shows that patients in the ivacaftor/ivacaftor group maintained the improvement seen at week 48 of the initial study (day 0 through week 48) in percent predicted FEV1 through week 144.
 There were no additional improvements in study 4 (week 48 through week 144).
+
 For patients in the placebo/ivacaftor group from study 1, the annualised rate of pulmonary exacerbations was higher in the initial study when patients were on placebo (1.34 events/year) than during the subsequent study 4 when patients rolled over to ivacaftor (0.48 events/year across day 1 to week 48, and 0.67 events/year across weeks 48 to 96).
 For patients in the ivacaftor/ivacaftor group from study 1, the annualised rate of pulmonary exacerbations was 0.57 events/year across day 1 to week 48 when patients were on ivacaftor.
 When they rolled over into study 4, the rate of annualised pulmonary exacerbations was 0.91 events/year across day 1 to week 48 and 0.77 events/year across weeks 48 to 96.
@@ -206,11 +208,8 @@ Ivacaftor in a combination regimen with tezacaftor/ivacaftor or with ivacaftor/t
 The efficacy and safety of ivacaftor in a combination regimen with tezacaftor/ivacaftor in patients with CF aged 12 years and older was assessed in two clinical studies; a 24 week, randomised, double-blind, placebo-controlled study with 504 patients who were homozygous for the F508del mutation; and a randomised, double-blind, placebo-controlled and ivacaftor-controlled, 2 period, 3 treatment, 8-week crossover study with 244 patients who were heterozygous for the F508del mutation and a second mutation associated with residual CFTR activity.
 The long-term safety and efficacy of the combination regimen was also assessed in both patient populations in a 96-week open-label, rollover, long-term extension study.
 Refer to the Summary of Product Characteristics of tezacaftor/ivacaftor for additional data.
-
-The efficacy and safety of ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor in patients aged 12 years and older was demonstrated in two phase 3 studies, randomised, double blind, placebo-controlled (heterozygous F508del patients, n=403) and active-controlled (homozygous F508del patients, n=107) of 24 and 4 weeks of duration, respectively.
-Heterozygous F508del patients had a minimal function mutation on the second allele defined as one that either leads to no CFTR protein being produced (e.g. Class I) or a CFTR protein that does not function to transport chloride and is unlikely to respond to other CFTR modulators (tezacaftor, ivacaftor or the combination of both).
-Homozygous F508del patients received tezacaftor/ivacaftor and ivacaftor regimen during a 4-week open-label run-in period and were then randomised and dosed to receive ivacaftor in combination with ivacaftor/tezacaftor/elexacaftor during a 4-week double-blind treatment period.
-Patients from both studies were eligible to enter an open-label, rollover, 96-week study.
+The efficacy and safety of ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor in patients aged 12 years and older was demonstrated in three, phase 3, randomised, double blind, placebo-controlled (patients were heterozygous for the F508del mutation and a mutation with minimal function on the second allele, n=403) and active-controlled (patients were homozygous for the F508del mutation, n=107, or heterozygous for the F508del mutation and a gating or residual CFTR activity mutation on the second allele, n=258) studies of 24, 4, and 8 weeks of duration respectively.
+Patients from all studies were eligible to enter open-label, rollover, 96-week studies.
 Refer to the Summary of Product Characteristics of ivacaftor/tezacaftor/elexacaftor for additional data.
 
 Paediatric population

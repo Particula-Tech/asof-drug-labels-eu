@@ -22,7 +22,6 @@ Distribution
 Ivacaftor is approximately 99% bound to plasma proteins, primarily to alpha 1-acid glycoprotein and albumin.
 Ivacaftor does not bind to human red blood cells.
 After oral administration of ivacaftor150 mg every 12 hours for 7 days in healthy volunteers in a fed state, the mean (± SD) apparent volume of distribution was 353 L (122) .
-
 Biotransformation
 
 Ivacaftor is extensively metabolised in humans.
@@ -83,10 +82,9 @@ The pharmacokinetic parameters of ivacaftor, either as monotherapy or in combina
 
 Elderly
 
-Clinical studies of ivacaftor as monotherapy did not include sufficient numbers of patients aged 65 years and older to determine whether pharmacokinetic parameters are similar or not to those in younger adults.
+Clinical studies of ivacaftor as monotherapy, or in a combination regimen with ivacaftor/tezacaftor/elexacaftor did not include sufficient numbers of patients aged 65 years and older to determine whether pharmacokinetic parameters are similar or not to those in younger adults.
 
 The pharmacokinetic parameters of ivacaftor in combination with tezacaftor in the elderly patients (65-72 years) are comparable to those in younger adults.
-No patients aged 65 years and older were included in the clinical studies of ivacaftor/tezacaftor/elexacaftor and therefore it cannot be determined whether pharmacokinetic parameters are similar or not to those in younger adults.
 
 Paediatric population
 
@@ -105,8 +103,7 @@ Table 9: Mean (SD) ivacaftor exposure by age group
 | 6- to 11-year-olds † (≥ 14 kg to < 25 kg) | 75 mg q12h | 641 (329) | 10760 (4470) |
 | 6- to 11-year-olds † (≥ 25 kg) | 150 mg q12h | 958 (546) | 15300 (7340) |
 | 12- to 17-year-olds | 150 mg q12h | 564 (242) | 9240 (3420) |
-
-Adults (≥ 18 years old) 150 mg q12h 701 (317) 10700 (4100)
+| Adults (≥ 18 years old) | 150 mg q12h | 701 (317) | 10700 (4100) |
 
 * Values based on data from a single patient; standard deviation not reported.
 † Exposures in 6- to 11-year-olds are predictions based on simulations from the population PK model using data obtained for this age group.
@@ -151,6 +148,8 @@ In a human pharmacokinetic study, there was minimal elimination of ivacaftor and
 However, caution is recommended when administering ivacaftor to patients with severe renal impairment (creatinine clearance less than or equal to 30 mL/min) or end-stage renal disease (see sections 4.2 and 4.4).
 
 The pharmacokinetic parameters of ivacaftor are similar in males and females.
+
+Clinical studies of ivacaftor as monotherapy did not include sufficient numbers of patients aged 65 years and older to determine whether pharmacokinetic parameters are similar or not to those in younger adults.
 
 Predicted ivacaftor exposure based on observed ivacaftor concentrations in phase 2 and 3 studies as determined using population PK analysis is presented by age group in Table 8.
 
