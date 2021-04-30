@@ -21,8 +21,8 @@ SGLT2 inhibitors should be used with caution in these patients.
 
 Restarting SGLT2 inhibitor treatment in patients with previous DKA while on SGLT-2 inhibitor treatment is not recommended, unless another clear precipitating factor is identified and resolved.
 
-The safety and efficacy of empagliflozin in patients with type 1 diabetes have not been established and empagliflozin should not be used for treatment of patients with type 1 diabetes.
-Limited data from clinical trials suggest that DKA occurs with common frequency when patients with type 1 diabetes are treated with SGLT2 inhibitors.
+Jardiance should not be used for treatment of patients with type 1 diabetes.
+Data from a clinical trial program in patients with type 1 diabetes showed increased DKA occurrence with common frequency in patients treated with empagliflozin 10 mg and 25 mg as an adjunct to insulin compared to placebo.
 
 Renal impairment
 Jardiance should not be initiated in patients with an eGFR below 60 ml/min/1.73 m2 or
@@ -44,6 +44,7 @@ A causal relationship between empagliflozin and hepatic injury has not been esta
 
 Elevated haematocrit
 Haematocrit increase was observed with empagliflozin treatment (see section 4.8).
+
 Risk for volume depletion
 Based on the mode of action of SGLT-2 inhibitors, osmotic diuresis accompanying therapeutic glucosuria may lead to a modest decrease in blood pressure (see section 5.1).
 Therefore, caution should be exercised in patients for whom an empagliflozin-induced drop in blood pressure could pose a risk, such as patients with known cardiovascular disease, patients on anti-hypertensive therapy with a history of hypotension or patients aged 75 years and older.
@@ -84,6 +85,10 @@ The reduction of cardiovascular death in these patients was consistent with the 
 
 Urine laboratory assessments
 Due to its mechanism of action, patients taking Jardiance will test positive for glucose in their urine.
+
+Interference with 1,5-anhydroglucitol (1,5-AG) assay
+Monitoring glycaemic control with 1,5-AG assay is not recommended as measurements of 1,5-AG are unreliable in assessing glycaemic control in patients taking SGLT2 inhibitors.
+Use of alternative methods to monitor glycaemic control is advised.
 Lactose
 The tablets contain lactose.
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency, or glucose-galactose malabsorption should not take this medicinal product.

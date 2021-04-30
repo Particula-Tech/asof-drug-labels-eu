@@ -11,6 +11,7 @@ The most frequently reported adverse reaction was hypoglycaemia when used with s
 Tabulated list of adverse reactions
 
 Adverse reactions classified by system organ class and MedDRA preferred terms reported in patients who received empagliflozin in placebo-controlled studies are presented in the table below (Table 1).
+
 The adverse reactions are listed by absolute frequency.
 Frequencies are defined as very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), or very rare (<1/10,000), and not known (cannot be estimated from the available data).
 
@@ -29,7 +30,6 @@ a see subsections below for additional information b Mean percent increases from
 c Mean changes from baseline in haematocrit were 3.4% and 3.6% for empagliflozin 10 mg and 25 mg, respectively, compared to 0.1% for placebo.
 In the EMPA-REG Outcome study, haematocrit values returned towards baseline values after a follow-up period of 30 days after treatment stop.
 * see section 4.4
-
 Description of selected adverse reactions
 
 Hypoglycaemia

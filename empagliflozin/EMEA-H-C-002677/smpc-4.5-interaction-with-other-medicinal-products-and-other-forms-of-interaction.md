@@ -19,8 +19,9 @@ Empagliflozin is a substrate of P-glycoprotein (P-gp) and breast cancer resistan
 Co-administration of empagliflozin with probenecid, an inhibitor of UGT enzymes and OAT3, resulted in a 26% increase in peak empagliflozin plasma concentrations (Cmax) and a 53% increase in area under the concentration-time curve (AUC).
 These changes were not considered to be clinically meaningful.
 
-The effect of UGT induction on empagliflozin has not been studied.
-Co-treatment with known inducers of UGT enzymes should be avoided due to a potential risk of decreased efficacy.
+The effect of UGT induction (e.g. induction by rifampicin or phenytoin) on empagliflozin has not been studied.
+Co-treatment with known inducers of UGT enzymes is not recommended due to a potential risk of decreased efficacy.
+If an inducer of these UGT enzymes must be co-administered, monitoring of glycaemic control to assess response to Jardiance is appropriate.
 
 An interaction study with gemfibrozil, an in vitro inhibitor of OAT3 and OATP1B1/1B3 transporters, showed that empagliflozin Cmax increased by 15% and AUC increased by 59% following co-administration.
 These changes were not considered to be clinically meaningful.
@@ -31,11 +32,11 @@ These changes were not considered to be clinically meaningful.
 Empagliflozin exposure was similar with and without co-administration with verapamil, a P-gp inhibitor, indicating that inhibition of P-gp does not have any clinically relevant effect on empagliflozin.
 
 Interaction studies suggest that the pharmacokinetics of empagliflozin were not influenced by co-administration with metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, verapamil, ramipril, simvastatin, torasemide and hydrochlorothiazide.
-
 Effects of empagliflozin on other medicinal products
 Based on in vitro studies, empagliflozin does not inhibit, inactivate, or induce CYP450 isoforms.
 Empagliflozin does not inhibit UGT1A1, UGT1A3, UGT1A8, UGT1A9, or UGT2B7.
 Drug-drug interactions involving the major CYP450 and UGT isoforms with empagliflozin and concomitantly administered substrates of these enzymes are therefore considered unlikely.
+
 Empagliflozin does not inhibit P-gp at therapeutic doses.
 Based on in vitro studies, empagliflozin is considered unlikely to cause interactions with active substances that are P-gp substrates.
 Co-administration of digoxin, a P-gp substrate, with empagliflozin resulted in a 6% increase in AUC and 14% increase in Cmax of digoxin.

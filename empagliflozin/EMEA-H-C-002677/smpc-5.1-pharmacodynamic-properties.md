@@ -14,6 +14,7 @@ Empagliflozin improves glycaemic control in patients with type 2 diabetes by red
 The amount of glucose removed by the kidney through this glucuretic mechanism is dependent on blood glucose concentration and GFR.
 Inhibition of SGLT2 in patients with type 2 diabetes and hyperglycaemia leads to excess glucose excretion in the urine.
 In addition, initiation of empagliflozin increases excretion of sodium resulting in osmotic diuresis and reduced intravascular volume.
+
 In patients with type 2 diabetes, urinary glucose excretion increased immediately following the first dose of empagliflozin and is continuous over the 24 hour dosing interval.
 Increased urinary glucose excretion was maintained at the end of the 4-week treatment period, averaging approximately 78 g/day.
 Increased urinary glucose excretion resulted in an immediate reduction in plasma glucose levels in patients with type 2 diabetes.
