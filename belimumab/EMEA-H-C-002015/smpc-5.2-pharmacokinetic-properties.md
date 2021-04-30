@@ -1,12 +1,11 @@
 # 5.2 Pharmacokinetic properties
 
 The subcutaneous pharmacokinetic parameters below are based on population parameter estimates from 661 subjects, comprised of 554 SLE patients and 107 healthy subjects, who received Benlysta subcutaneously.
-
 Absorption
 
 Benlysta in pre-filled pen or pre-filled syringe is administered by subcutaneous injection.
 
-Following subcutaneous administration the bioavailability of belimumab was approximately 74%.
+Following subcutaneous administration, the bioavailability of belimumab was approximately 74%.
 Steady-state exposure was reached after approximately 11 weeks of subcutaneous administration.
 The maximum serum concentration (Cmax) of belimumab at steady state was 108 µg/ml.
 
@@ -24,6 +23,13 @@ Elimination
 Following subcutaneous administration, belimumab had a terminal half-life of 18.3 days.
 The systemic clearance was 204 ml/day.
 
+Lupus nephritis study
+
+A population pharmacokinetic analysis was conducted in 224 adult patients with lupus nephritis who received Benlysta 10 mg/kg intravenously (Days 0, 14, 28, and then every 28 days up to 104 weeks).
+In patients with lupus nephritis, due to renal disease activity, belimumab clearance was initially higher than observed in SLE studies; however, after 24 weeks of treatment and throughout the remainder of the study, belimumab clearance and exposure were similar to that observed in adult patients with SLE who received belimumab 10 mg/kg intravenously.
+
+Based on population pharmacokinetic modelling and simulation, the steady-state average concentrations of subcutaneous administration of belimumab 200 mg once weekly in adults with lupus nephritis are predicted to be similar to those observed in adults with lupus nephritis receiving belimumab 10 mg/kg intravenously every 4 weeks.
+
 Special Patient Populations
 
 Paediatric population: No pharmacokinetic data are available for subcutaneous administration of Benlysta in paediatric patients.
@@ -38,9 +44,9 @@ During clinical development, Benlysta was studied in a limited number of SLE pat
 
 No clinically significant reduction in systemic clearance as a result of renal impairment was observed.
 Therefore, no dose adjustment is recommended for patients with renal impairment.
-
 Hepatic impairment: No specific studies have been conducted to examine the effects of hepatic impairment on the pharmacokinetics of belimumab.
 IgG1 molecules such as belimumab are catabolised by widely distributed proteolytic enzymes, which are not restricted to hepatic tissue and changes in hepatic function are unlikely to have any effect on the elimination of belimumab.
+
 Body weight/Body mass index (BMI)
 
 The effects of body weight and BMI on belimumab exposure after subcutaneous administration were not considered clinically meaningful.
@@ -49,13 +55,16 @@ Therefore, no dose adjustment is recommended.
 
 Transitioning from intravenous to subcutaneous administration
 
-SLE patients transitioning from 10 mg/kg intravenously every 4 weeks to 200 mg subcutaneously weekly using a 1 to 4 week switching interval had pre-dose belimumab serum concentrations at their first subcutaneous dose close to their eventual subcutaneous steady-state trough concentration (see section 4.2).
-
+SLE
+Patients with SLE transitioning from 10 mg/kg intravenously every 4 weeks to 200 mg subcutaneously weekly using a 1 to 4 week switching interval had pre-dose belimumab serum concentrations at their first subcutaneous dose close to their eventual subcutaneous steady-state trough concentration (see section 4.2).
 Based on simulations with population PK parameters the steady-state average belimumab concentrations for 200 mg subcutaneous every week were similar to 10 mg/kg intravenous every 4 weeks.
+
+Lupus nephritis
+One to 2 weeks after completing the first 2 intravenous doses, patients with lupus nephritis transitioning from 10 mg/kg intravenously to 200 mg subcutaneously weekly, are predicted to have average belimumab serum concentrations similar to patients dosed with 10 mg/kg intravenously every 4 weeks based on population PK simulations (see section 4.2).
 
 [Benlysta 120 mg powder for concentrate for solution for infusion.]
 
-The intravenous pharmacokinetic parameters quoted below are based on population parameter estimates for the 563 patients who received Benlysta 10 mg/kg in the two Phase III studies.
+The intravenous pharmacokinetic parameters quoted below are based on population parameter estimates for the 563 patients with SLE who received Benlysta 10 mg/kg in the two Phase III studies.
 
 Benlysta is administered by intravenous infusion.
 Maximum serum concentrations of belimumab were generally observed at, or shortly after, the end of the infusion.
@@ -64,9 +73,11 @@ The maximum serum concentration was 313 µg/ml (range: 173-573 µg/ml) based on 
 Serum belimumab concentrations declined in a bi-exponential manner, with a distribution half-life of 1.75 days and terminal half-life 19.4 days.
 The systemic clearance was 215 ml/day (range: 69-622 ml/day).
 
-Paediatric population: The pharmacokinetic parameters are based on individual parameter estimates from a population pharmacokinetic analysis of 53 patients from a study in paediatric patients.
+In patients with lupus nephritis, due to renal disease activity, belimumab clearance was initially higher than observed in SLE studies; however, after 24 weeks of treatment and throughout the remainder of the study, belimumab clearance and exposure were similar to that observed in adult patients with SLE who received Benlysta 10 mg/kg intravenously.
+
+Paediatric population: The pharmacokinetic parameters are based on individual parameter estimates from a population pharmacokinetic analysis of 53 patients from a study in paediatric patients with SLE.
 Following intravenous administration of 10 mg/kg on Days 0, 14 and 28, and at 4-week intervals thereafter, belimumab exposures were similar between paediatric and adult SLE subjects.
-Steady-state geometric mean Cmax, Cmin, and AUC values were 305 µg/mL, 42 µg/mL, and 2569 day•µg/mL in the 5- to 11-year-old-group, and 317 µg/mL, 52 µg/mL, and 3126 day•µg/mL in the 12- to 17-year-old-group (n=43).
+Steady-state geometric mean Cmax, Cmin, and AUC values were 305 μg/mL, 42 μg/mL, and 2569 day•μg/mL in the 5- to 11-year-old-group, and 317 μg/mL, 52 μg/mL, and 3126 day•μg/mL in the 12- to 17-year-old-group (n=43).
 
 Within the overall SLE intravenous study population, age did not affect belimumab exposure in the population pharmacokinetic analysis.
 However, given the small number of subjects ≥65 years, an effect of age cannot be ruled out conclusively.

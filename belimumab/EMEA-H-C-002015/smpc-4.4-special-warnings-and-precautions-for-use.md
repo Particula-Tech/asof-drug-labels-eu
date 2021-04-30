@@ -3,25 +3,25 @@
 Traceability
 
 In order to improve traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded.
+
 Benlysta has not been studied in the following patient groups and is not recommended in:
 
 - severe active central nervous system lupus
-- severe active lupus nephritis (see section 5.1)
 - HIV
 - a history of, or current, hepatitis B or C
 - hypogammaglobulinaemia (IgG <400 mg/dl) or IgA deficiency (IgA <10 mg/dl)
 - a history of major organ transplant or hematopoietic stem cell/marrow transplant or renal transplant.
 
-Concomitant use with B cell targeted therapy or cyclophosphamide
+Concomitant use with B cell targeted therapy
 
-Benlysta has not been studied in combination with other B cell targeted therapy or intravenous cyclophosphamide.
-Caution should be exercised if Benlysta is co-administered with other B cell targeted therapy or cyclophosphamide.
+Benlysta has not been studied in combination with other B cell targeted therapy.
+Caution should be exercised if Benlysta is co-administered with other B cell targeted therapy.
 
 Hypersensitivity
 
 Administration of subcutaneous or intravenous Benlysta may result in hypersensitivity reactions which can be severe, and fatal.
 In the event of a severe reaction, Benlysta administration must be interrupted and appropriate medical therapy administered (see section 4.2).
-The risk of hypersensitivity reactions is greatest with the first two doses; however the risk should be considered for every administration.
+The risk of hypersensitivity reactions is greatest with the first two doses; however, the risk should be considered for every administration.
 Patients with a history of multiple drug allergies or significant hypersensitivity may be at increased risk.
 Recurrence of clinically significant reactions after initial appropriate treatment of symptoms has also been observed (see sections 4.2 and 4.8).
 
@@ -36,10 +36,14 @@ Please refer to the Summary of Product Characteristics for Benlysta powder for c
 Infections
 
 The mechanism of action of belimumab could increase the risk for the development of infections, including opportunistic infections.
-Severe infections, including fatal cases, have been reported in SLE patients receiving immunosuppressant therapy, including belimumab (see section 4.8).
-Physicians should exercise caution when considering the use of Benlysta in patients with severe or chronic infections or a history of recurrent infection.
-Patients who develop an infection while undergoing treatment with Benlysta should be monitored closely and careful consideration given to interrupting immunosuppressant therapy including belimumab until the infection is resolved.
+In controlled clinical studies, the incidence of serious infections was similar across the Benlysta and placebo groups; however, fatal infections (e.g. pneumonia and sepsis) occurred more frequently in patients receiving Benlysta compared with placebo (see section 4.8).
+Pneumococcal vaccination should be considered before initiating Benlysta treatment.
+Benlysta should not be initiated in patients with active serious infections (including serious chronic infections).
+Physicians should exercise caution and carefully assess if the benefits are expected to outweigh the risks when considering the use of Benlysta in patients with a history of recurrent infection.
+Physicians should advise patients to contact their health care provider if they develop symptoms of an infection.
+Patients who develop an infection while undergoing treatment with Benlysta should be monitored closely and careful consideration given to interrupting immunosuppressant therapy including Benlysta until the infection is resolved.
 The risk of using Benlysta in patients with active or latent tuberculosis is unknown.
+
 Depression and suicidality
 
 In controlled clinical intravenous and subcutaneous studies, psychiatric disorders (depression, suicidal ideation and behaviour including suicides) have been reported more frequently in patients receiving Benlysta (see section 4.8).
@@ -80,13 +84,13 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e. e
 
 Benlysta has not been studied in the following adult and paediatric patient groups, and is not recommended in:
 
+- severe active central nervous system lupus (see section 5.1)
 - a history of major organ transplant or hematopoietic stem cell /marrow transplant or renal transplant.
 
 Infusion reactions and hypersensitivity
 
 Administration of Benlysta may result in hypersensitivity reactions and infusion reactions which can be severe, and fatal.
 The risk of hypersensitivity reactions is greatest with the first two infusions; however the risk should be considered for every infusion administered.
-
 Premedication including an antihistamine, with or without an antipyretic, may be administered before the infusion of Benlysta.
 There is insufficient knowledge to determine whether premedication could diminish the frequency or severity of infusion reactions.
 

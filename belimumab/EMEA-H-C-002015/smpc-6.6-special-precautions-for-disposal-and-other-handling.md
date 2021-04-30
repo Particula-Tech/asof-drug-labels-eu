@@ -28,10 +28,10 @@ Protect the reconstituted solution from sunlight.
 
 If a mechanical reconstitution device is used to reconstitute Benlysta it should not exceed 500 rpm and the vial should be swirled for no longer than 30 minutes.
 
-Once reconstitution is complete, the solution should be opalescent and colorless to pale yellow and without particles.
+Once reconstitution is complete, the solution should be opalescent and colourless to pale yellow and without particles.
 Small air bubbles, however, are expected and acceptable.
-
 After reconstitution, a volume of 1.5 ml (corresponding to 120 mg belimumab) can be withdrawn from each vial.
+
 Dilution
 
 The reconstituted medicinal product is diluted to 250 ml with sodium chloride 9 mg/ml (0.9%), sodium chloride 4.5 mg/ml (0.45%), or Lactated Ringer’s solution for injection.
@@ -52,8 +52,6 @@ The total time from reconstitution of Benlysta to completion of infusion should 
 Preparation of 400 mg solution for infusion
 
 The 400 mg single-use vial of belimumab is reconstituted with 4.8 ml of water for injections to yield a final concentration of 80 mg/ml belimumab.
-
-Once reconstitution is complete, the solution should be opalescent and colourless to pale yellow and without particles.
 
 After reconstitution, a volume of 5 ml (corresponding to 400 mg belimumab) can be withdrawn from each vial.
 
