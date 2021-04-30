@@ -20,15 +20,16 @@ Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/10
 | System organ class | Very common | Common | Uncommon | Rare | Very rare | Not known |
 | --- | --- | --- | --- | --- | --- | --- |
 | Blood and lymphatic system disorders |  | anaemia |  |  |  |  |
-| Psychiatric disorders |  | agitation, aggression, nervousness, depression, paranoid reaction | hypomania, mania, psychotic disorder | suicide attempt | hallucination |  |
+| Psychiatric disorders |  | agitation, aggression, nervousness, depression, paranoid reaction, insomnia | hypomania, mania, psychotic disorder | suicide attempt | hallucination |  |
 | Nervous system disorders | somnolenc e | speech disorder, headache, dizziness, paraesthesia, disturbance in attention and memory impairment, mental impairment (thought disturbance), tremor | coordination abnormal (ataxia) | encephalo pathy | optic neuritis | brain MRI abnormalities. movement disorders, including dystonia, dyskinesia and hypertonia, either alone or in association with abnormalities in MRI |
-| Eye disorders | visual field defect | vision blurred, diplopia, nystagmus |  | retinal disorder (such as peripheral retinal atrophy) | optic atrophy |  |
+| Eye disorders | visual field defect | vision blurred, diplopia, nystagmus |  | retinal disorder (such as peripheral retinal atrophy) | optic atrophy | reduced visual acuity |
 | Gastrointesti nal disorders |  | nausea, vomiting, abdominal pain |  |  |  |  |
 | Hepatobiliar y disorders |  |  |  |  | hepatitis |  |
-| Skin and subcutaneou s tissue disorders |  |  | rash | angioede ma, urticaria |  |  |
+| Skin and subcutaneou s tissue disorders |  | alopecia | rash | angioede ma, urticaria |  |  |
 | Musculoskel etal and connective tissue disorders | arthralgia |  |  |  |  |  |
-| General disorders and | fatigue | oedema, irritability |  |  |  |  |
+| General disorders | fatigue | oedema, irritability |  |  |  |  |
 
+and
 administratio
 n site
 conditions
@@ -80,6 +81,4 @@ Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
-
-listed in Appendix V.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
