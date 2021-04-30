@@ -111,6 +111,9 @@ These results are difficult to interpret in the context of chronic diseases such
 In paediatric trials of SPRYCEL in combination with chemotherapy in newly diagnosed Ph+ ALL paediatric patients after a maximum of 2 years of treatment, treatment-related adverse events associated with bone growth and development were reported in 1 (0.6%) patient.
 This case was a Grade 1 osteopenia.
 
+Growth retardation has been observed in paediatric patients treated with SPRYCEL in clinical trials (see section 4.8).
+Monitoring of bone growth and development in paediatric patients is recommended.
+
 Excipients
 Lactose
 This medicinal product contains lactose monohydrate.
@@ -132,10 +135,10 @@ May be harmful to the teeth.
 Benzoic acid and benzoates
 SPRYCEL contains 0.25 mg benzoic acid in each mL of oral suspension and 0.25 mg sodium benzoate in each mL of oral suspension.
 Benzoic acid/Benzoate salt may increase jaundice (yellowing of the skin and eyes) in newborn babies (up to 4 weeks old).
-
 Benzyl alcohol
 SPRYCEL contains 0.017 mg benzyl alcohol in each mL of oral suspension.
 Benzyl alcohol may cause allergic reactions.
+
 Monitor patients less than 3 years of age for respiratory symptoms.
 
 SPRYCEL should not be used during pregnancy unless the clinical condition of the woman requires treatment with dasatinib (see section 4.6).

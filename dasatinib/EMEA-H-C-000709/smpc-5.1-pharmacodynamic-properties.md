@@ -55,14 +55,14 @@ Table 9: Efficacy results from a phase 3 study of newly diagnosed patients with 
 |  | SPRYCEL imatinib n= 259 n= 260 | p-value |
 | --- | --- | --- |
 |  | Response rate (95% CI) |  |
-| Cytogenetic response within 12 months cCCyRa CCyRb within 24 months cCCyRa CCyRb within 36 months cCCyRa CCyRb within 48 months cCCyRa CCyRb within 60 months cCCyRa CCyRb Major molecular responsec 12 months 24 months 36 months 48 months 60 months | 76.8% (71.2–81.8) 66.2% (60.1–71.9) 85.3% (80.4-89.4) 73.5% (67.7-78.7) | p< 0.007*  |
-|  | 80.3% 74.2% 87.3% 82.3% |   |
-|  | 82.6% 77.3% 88.0% 83.5% |   |
-|  | 82.6% 78.5% 87.6% 83.8% |   |
-|  | 83.0% 78.5% 88.0% 83.8% |   |
-|  | 52.1% (45.9–58.3) 33.8% (28.1–39.9) 64.5% (58.3-70.3) 50% (43.8-56.2) 69.1% (63.1-74.7) 56.2% (49.9-62.3) 75.7% (70.0-80.8) 62.7% (56.5-68.6) 76.4% (70.8-81.5) 64.2% (58.1-70.1) | p< 0.00003*    p=0.0021 |
-| Time-to cCCyR Time-to MMR Durability of cCCyR Time-to cCCyR Time-to MMR Durability of cCCyR Time-to cCCyR | Hazard ratio (HR) within 12 months (99.99% CI) 1.55 (1.0-2.3) 2.01 (1.2-3.4) 0.7 (0.4-1.4) within 24 months (95% CI) 1.49 (1.22-1.82) 1.69 (1.34-2.12) 0.77 (0.55-1.10) within 36 months (95% CI) 1.48 (1.22-1.80) | p< 0.0001* p< 0.0001* p< 0.035     |
-| Time-to MMR Durability of cCCyR Time-to cCCyR Time-to MMR Durability of cCCyR Time-to cCCyR Time-to MMR Durability of cCCyR | 1.59 (1.28-1.99) 0.77 (0.53-1.11) within 48 months (95% CI) 1.45 (1.20-1.77) 1.55 (1.26-1.91) 0.81 (0.56-1.17) within 60 months (95% CI) 1.46 (1.20-1.77) 1.54 (1.25-1.89) 0.79 (0.55-1.13) |      p=0.0001 p<0.0001 p=0.1983 |
+| Cytogenetic response within 12 months cCCyRa CCyRb within 24 months cCCyRa CCyRb within 36 months cCCyRa CCyRb within 48 months cCCyRa CCyRb within 60 months cCCyRa CCyRb Major molecular responsec 12 months 24 months 36 months 48 months 60 months | 76.8% (71.2–81.8) 66.2% (60.1–71.9) 85.3% (80.4-89.4) 73.5% (67.7-78.7) | p< 0.007* ⎯ |
+|  | 80.3% 74.2% 87.3% 82.3% | ⎯ ⎯ |
+|  | 82.6% 77.3% 88.0% 83.5% | ⎯ ⎯ |
+|  | 82.6% 78.5% 87.6% 83.8% | ⎯ ⎯ |
+|  | 83.0% 78.5% 88.0% 83.8% | ⎯ ⎯ |
+|  | 52.1% (45.9–58.3) 33.8% (28.1–39.9) 64.5% (58.3-70.3) 50% (43.8-56.2) 69.1% (63.1-74.7) 56.2% (49.9-62.3) 75.7% (70.0-80.8) 62.7% (56.5-68.6) 76.4% (70.8-81.5) 64.2% (58.1-70.1) | p< 0.00003* ⎯ ⎯ ⎯ p=0.0021 |
+| Time-to cCCyR Time-to MMR Durability of cCCyR Time-to cCCyR Time-to MMR Durability of cCCyR Time-to cCCyR | Hazard ratio (HR) within 12 months (99.99% CI) 1.55 (1.0-2.3) 2.01 (1.2-3.4) 0.7 (0.4-1.4) within 24 months (95% CI) 1.49 (1.22-1.82) 1.69 (1.34-2.12) 0.77 (0.55-1.10) within 36 months (95% CI) 1.48 (1.22-1.80) | p< 0.0001* p< 0.0001* p< 0.035 ⎯ ⎯ ⎯ ⎯ |
+| Time-to MMR Durability of cCCyR Time-to cCCyR Time-to MMR Durability of cCCyR Time-to cCCyR Time-to MMR Durability of cCCyR | 1.59 (1.28-1.99) 0.77 (0.53-1.11) within 48 months (95% CI) 1.45 (1.20-1.77) 1.55 (1.26-1.91) 0.81 (0.56-1.17) within 60 months (95% CI) 1.46 (1.20-1.77) 1.54 (1.25-1.89) 0.79 (0.55-1.13) | ⎯ ⎯ ⎯ ⎯ ⎯ p=0.0001 p<0.0001 p=0.1983 |
 
 a Confirmed complete cytogenetic response (cCCyR) is defined as a response noted on two consecutive occasions (at least 28 days apart).
 b Complete cytogenetic response (CCyR) is based on a single bone marrow cytogenetic evaluation.
@@ -516,34 +516,34 @@ Response rate (95% CI)
 Cytogenetic response within 12 months
 
 cCCyRa 76.8% (71.2–81.8) 66.2% (60.1–71.9) p< 0.007*
-CCyRb 85.3% (80.4-89.4) 73.5% (67.7-78.7) 
+CCyRb 85.3% (80.4-89.4) 73.5% (67.7-78.7) ⎯
 
 within 24 months
 
-cCCyRa 80.3% 74.2% 
-CCyRb 87.3% 82.3% 
+cCCyRa 80.3% 74.2% ⎯
+CCyRb 87.3% 82.3% ⎯
 
 within 36 months
 
-cCCyRa 82.6% 77.3% 
-CCyRb 88.0% 83.5% 
+cCCyRa 82.6% 77.3% ⎯
+CCyRb 88.0% 83.5% ⎯
 
 within 48 months
 
-cCCyRa 82.6% 78.5% 
-CCyRb 87.6% 83.8% 
+cCCyRa 82.6% 78.5% ⎯
+CCyRb 87.6% 83.8% ⎯
 
 within 60 months
 
-cCCyRa 83.0% 78.5% 
-CCyRb 88.0% 83.8% 
+cCCyRa 83.0% 78.5% ⎯
+CCyRb 88.0% 83.8% ⎯
 
 Major molecular responsec
 
 12 months 52.1% (45.9–58.3) 33.8% (28.1–39.9) p< 0.00003*
-24 months 64.5% (58.3-70.3) 50% (43.8-56.2) 
-36 months 69.1% (63.1-74.7) 56.2% (49.9-62.3) 
-48 months 75.7% (70.0-80.8) 62.7% (56.5-68.6) 
+24 months 64.5% (58.3-70.3) 50% (43.8-56.2) ⎯
+36 months 69.1% (63.1-74.7) 56.2% (49.9-62.3) ⎯
+48 months 75.7% (70.0-80.8) 62.7% (56.5-68.6) ⎯
 60 months 76.4% (70.8-81.5) 64.2% (58.1-70.1) p=0.0021
 
 Hazard ratio (HR) within 12 months (99.99% CI)
@@ -554,21 +554,21 @@ Durability of cCCyR 0.7 (0.4-1.4) p< 0.035
 
 within 24 months (95% CI)
 
-Time-to cCCyR 1.49 (1.22-1.82) 
-Time-to MMR 1.69 (1.34-2.12) 
-Durability of cCCyR 0.77 (0.55-1.10) 
+Time-to cCCyR 1.49 (1.22-1.82) ⎯
+Time-to MMR 1.69 (1.34-2.12) ⎯
+Durability of cCCyR 0.77 (0.55-1.10) ⎯
 
 within 36 months (95% CI)
 
-Time-to cCCyR 1.48 (1.22-1.80) 
-Time-to MMR 1.59 (1.28-1.99) 
-Durability of cCCyR 0.77 (0.53-1.11) 
+Time-to cCCyR 1.48 (1.22-1.80) ⎯
+Time-to MMR 1.59 (1.28-1.99) ⎯
+Durability of cCCyR 0.77 (0.53-1.11) ⎯
 
 within 48 months (95% CI)
 
-Time-to cCCyR 1.45 (1.20-1.77) 
-Time-to MMR 1.55 (1.26-1.91) 
-Durability of cCCyR 0.81 (0.56-1.17) 
+Time-to cCCyR 1.45 (1.20-1.77) ⎯
+Time-to MMR 1.55 (1.26-1.91) ⎯
+Durability of cCCyR 0.81 (0.56-1.17) ⎯
 
 within 60 months (95% CI)
 
