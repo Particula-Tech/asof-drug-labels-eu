@@ -2,9 +2,16 @@
 
 Tecentriq must be initiated and supervised by physicians experienced in the treatment of cancer.
 
-PD-L1 testing for patients with UC or TNBC
+PD-L1 testing for patients with UC, TNBC or NSCLC
 
-Patients with previously untreated UC and TNBC should be selected for treatment based on the tumour expression of PD-L1 confirmed by a validated test (see section 5.1).
+Tecentriq monotherapy
+
+Patients with first-line (1L) UC and 1L NSCLC should be selected for treatment based on the tumour expression of PD-L1 confirmed by a validated test (see section 5.1).
+
+Tecentriq in combination therapy
+
+Patients with previously untreated TNBC should be selected for treatment based on the tumour expression of PD-L1 confirmed by a validated test (see section 5.1).
+
 Posology
 
 Tecentriq monotherapy
@@ -22,9 +29,13 @@ Refer to the full prescribing information for the combination product (see also 
 
 Duration of treatment
 
-It is recommended that patients are treated with Tecentriq until loss of clinical benefit (see section 5.1) or unmanageable toxicity.
-For TNBC, it is recommended that patients are treated with Tecentriq until disease progression or unmanageable toxicity (see section 5.1).
+Second-line (2L) NSCLC and 2L UC
 
+It is recommended that patients are treated with Tecentriq until loss of clinical benefit or unmanageable toxicity.
+
+1L NSCLC, 1L UC and TNBC
+
+It is recommended that patients are treated with Tecentriq until disease progression or unmanageable toxicity.
 Delayed or missed doses
 
 If a planned dose of Tecentriq is missed, it should be administered as soon as possible.
@@ -33,6 +44,7 @@ The schedule of administration must be adjusted to maintain the appropriate inte
 Dose modifications during treatment
 
 Dose reductions of Tecentriq are not recommended.
+
 Dose delay or discontinuation (see also sections 4.4 and 4.8)
 
 Table 1: Dose modification advice for Tecentriq
@@ -45,7 +57,8 @@ Table 1: Dose modification advice for Tecentriq
 |  | Grade 3 or 4: (ALT or AST > 5 x ULN or blood bilirubin > 3 x ULN) | Permanently discontinue Tecentriq |
 | Hepatitis in patients with HCC | If AST/ALT is within normal limits at baseline and increases to >3x to ≤10x ULN or If AST/ALT is >1 to ≤3x ULN at baseline and increases to >5x to ≤10x ULN or If AST/ALT is >3x to ≤5x ULN at baseline and increases to >8x to ≤10x ULN | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | If AST/ALT increases to >10x ULN or total bilirubin increases to >3x ULN | Permanently discontinue Tecentriq |
-| Colitis | Grade 2 or 3 Diarrhoea (increase of ≥ 4 stools/day over baseline) or Symptomatic Colitis | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
+| Colitis | Grade 2 or 3 Diarrhoea (increase of ≥ 4 stools/day over baseline) | Withhold Tecentriq |
+|  | or Symptomatic Colitis | Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 4 Diarrhoea or Colitis (life threatening; urgent intervention indicated) | Permanently discontinue Tecentriq |
 | Hypothyroidism or hyperthyroidism | Symptomatic | Withhold Tecentriq Hypothyroidism: Treatment may be resumed when symptoms are controlled by thyroid replacement therapy and TSH levels are decreasing Hyperthyroidism: Treatment may be resumed when symptoms are controlled by anti-thyroid medicinal product and thyroid function is improving |
 | Adrenal insufficiency | Symptomatic | Withhold Tecentriq Treatment may be resumed when the symptoms improve to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day and patient is stable on replacement therapy |
@@ -70,13 +83,13 @@ Table 1: Dose modification advice for Tecentriq
 
 Note: Toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Event Version 4.0 (NCI-CTCAE v.4.).
 1 Regardless of severity
-
 Special populations
 
 Paediatric population
 
 The safety and efficacy of Tecentriq in children and adolescents aged below 18 years have not been established.
 Currently available data are described in section 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
+
 Elderly
 
 Based on a population pharmacokinetic analysis, no dose adjustment of Tecentriq is required in patients ≥ 65 years of age (see sections 4.8 and 5.1).
@@ -107,13 +120,9 @@ For instructions on dilution and handling of the medicinal product before admini
 
 [Tecentriq 1,200 mg concentrate for solution for infusion.]
 
-PD-L1 testing for patients with UC
-
-Patients with previously untreated UC should be selected for treatment based on the tumour expression of PD-L1 confirmed by a validated test (see section 5.1).
+PD-L1 testing for patients with 1L UC and 1L NSCLC
 
 The recommended dose of Tecentriq is 1,200 mg administered intravenously every three weeks.
-
-Tecentriq in combination therapy
 
 Please also refer to the full prescribing information for the combination products (see also section 5.1).
 
@@ -130,8 +139,8 @@ Tecentriq in combination with nab-paclitaxel and carboplatin
 During the induction phase, the recommended dose of Tecentriq is 1,200 mg administered by intravenous infusion, followed by nab-paclitaxel and carboplatin every three weeks for four or six cycles.
 For each 21-day cycle, Tecentriq, nab-paclitaxel, and carboplatin are administered on day 1.
 In addition, nab-paclitaxel is administered on days 8 and 15.
-
 The induction phase is followed by a maintenance phase without chemotherapy in which 1,200 mg Tecentriq is administered by intravenous infusion every three weeks.
+
 1L ES-SCLC
 
 Tecentriq in combination with carboplatin and etoposide
@@ -146,8 +155,14 @@ Tecentriq in combination with bevacizumab
 
 The recommended dose of Tecentriq is 1,200 mg followed by bevacizumab 15 mg/kg of body weight, administered by intravenous infusion every three weeks.
 
-For ES-SCLC and for first-line NSCLC, in patients given Tecentriq in combination with carboplatin and nab-paclitaxel, it is recommended that patients are treated with Tecentriq until disease progression or unmanageable toxicity.
-Treatment beyond disease progression may be considered at the discretion of the physician (see section 5.1).
+Second-line (2L) NSCLC, 2L UC and HCC
+
+1L NSCLC (Tecentriq in combination therapy) and 1L ES-SCLC
+
+Atypical responses (i.e., an initial disease progression followed by tumour shrinkage) have been observed with continued Tecentriq treatment after disease progression.
+Treatment beyond disease progression may be considered at the discretion of the physician.
+
+1L NSCLC (Tecentriq monotherapy) and 1L UC
 
 The schedule of administration must be adjusted to maintain a 3-week interval between doses.
 

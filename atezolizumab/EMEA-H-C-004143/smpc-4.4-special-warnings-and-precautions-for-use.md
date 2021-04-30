@@ -3,12 +3,12 @@
 Traceability
 
 In order to improve the traceability of biological medicinal products, the trade name and the batch number of the administered product should be clearly recorded in the patient file.
-
 Immune-related adverse reactions
 
 Most immune-related adverse reactions occurring during treatment with atezolizumab were reversible with interruptions of atezolizumab and initiation of corticosteroids and/or supportive care.
 Immune-related adverse reactions affecting more than one body system have been observed.
 Immune-related adverse reactions with atezolizumab may occur after the last dose of atezolizumab.
+
 For suspected immune-related adverse reactions, thorough evaluation to confirm aetiology or exclude other causes should be performed.
 Based on the severity of the adverse reaction, atezolizumab should be withheld and corticosteroids administered.
 Upon improvement to Grade ≤ 1, corticosteroid should be tapered over ≥ 1 month.
@@ -45,9 +45,9 @@ For patients with HCC, treatment with atezolizumab should be withheld if ALT or 
 > 3 to ≤10 x ULN from normal limits at baseline, or > 5 to ≤10 x ULN from > 1 ULN to ≤3 x ULN at baseline, or > 8 to ≤10 x ULN from > 3 ULN to ≤5 x ULN at baseline, and persists for more than 5 to 7 days, and 1 to 2 mg/kg/day of prednisone or equivalent should be started.
 If the event improves to
 ≤ Grade 1, corticosteroids should be tapered over ≥ 1 month.
-
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
 Treatment with atezolizumab must be permanently discontinued if ALT or AST increases to > 10 x ULN or total bilirubin increases > 3 x ULN).
+
 Immune-related colitis
 
 Cases of diarrhoea or colitis have been observed in clinical trials with atezolizumab (see section 4.8).
@@ -86,10 +86,10 @@ Once symptoms improve, treatment with 1 to 2 mg/kg/day of prednisone or equivale
 If symptoms improve to ≤ Grade 1, corticosteroids should be tapered over ≥ 1 month.
 Treatment may be resumed if the event improves to ≤ Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day and the patient is stable on replacement therapy (if required).
 Treatment with atezolizumab should be permanently discontinued for Grade 4 hypophysitis.
-
 Treatment with insulin should be initiated for type 1 diabetes mellitus.
 For ≥ Grade 3 hyperglycaemia (fasting glucose > 250 mg/dL or 13.9 mmol/L), atezolizumab should be withheld.
 Treatment with atezolizumab may be resumed if metabolic control is achieved on insulin replacement therapy.
+
 Immune-related meningoencephalitis
 
 Meningoencephalitis has been observed in clinical trials with atezolizumab (see section 4.8).
@@ -132,7 +132,6 @@ Immune-related nephritis
 
 Nephritis has been observed in clinical trials with atezolizumab (see section 4.8).
 Patients should be monitored for changes in renal function.
-
 Treatment with atezolizumab should be withheld for Grade 2 nephritis, and treatment with systemic corticosteroids at a dose of 1 to 2mg/kg/day of prednisone or equivalent should be started.
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
 Treatment with atezolizumab must be permanently discontinued for Grade 3 or 4 nephritis.
@@ -169,12 +168,12 @@ Atezolizumab should be withheld for patients with suspected SJS or TEN.
 For confirmed SJS or TEN, atezolizumab should be permanently discontinued.
 
 Caution should be used when considering the use of atezolizumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anticancer agents.
-
 Disease-specific precautions
 
-Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in metastatic non squamous non small cell lung cancer
+Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in metastatic non-squamous non-small cell lung cancer
 
 Physicians should carefully consider the combined risks of the four-drug regimen of atezolizumab bevacizumab, paclitaxel, and carboplatin before initiating treatment (see section 4.8).
+
 Use of atezolizumab in combination with nab-paclitaxel in metastatic triple negative breast cancer
 
 Neutropenia and peripheral neuropathies occurring during treatment with atezolizumab and nab-paclitaxel may be reversible with interruptions of nab-paclitaxel.
@@ -194,7 +193,6 @@ In the absence of data, atezolizumab should be used with caution in these popula
 Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in EGFR+ patients with NSCLC who have progressed on erlotinib+bevacizumab
 
 In study IMpower150, there are no data on the efficacy of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in EGFR+ patients who have progressed previously on erlotinib+bevacizumab.
-
 Use of atezolizumab in combination with bevacizumab in hepatocellular carcinoma
 
 Data in HCC patients with Child-Pugh B liver disease treated with atezolizumab in combination with bevacizumab are very limited and there are currently no data available in HCC patients with Child-Pugh C liver disease.
@@ -206,6 +204,13 @@ Please refer to the bevacizumab Summary of Product Characteristics.
 
 Diabetes mellitus can occur during treatment with atezolizumab in combination with bevacizumab.
 Physicians should monitor blood glucose levels prior to and periodically during treatment with atezolizumab in combination with bevacizumab as clinically indicated.
+
+Use of atezolizumab as monotherapy for first-line treatment in metastatic non-small cell lung cancer
+
+Physicians should consider the delayed onset of atezolizumab effect before initiating first-line treatment as monotherapy in patients with NSCLC.
+A higher number of deaths within 2.5 months after randomisation followed by a long-term survival benefit was observed with atezolizumab compared with chemotherapy.
+No specific factor(s) associated with early deaths could be identified (see section 5.1).
+
 Patients excluded from clinical trials
 
 Patients with the following conditions were excluded from clinical trials: a history of autoimmune disease, history of pneumonitis, active brain metastasis, HIV, hepatitis B or hepatitis C infection, significant cardiovascular disease and patients with inadequate hematologic and end-organ function.
@@ -215,7 +220,3 @@ Patient card
 
 The prescriber must discuss the risks of Tecentriq therapy with the patient.
 The patient will be provided with the patient card and instructed to carry the card at all times.
-
-[Tecentriq 1,200 mg concentrate for solution for infusion.]
-
-Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in metastatic non-squamous non-small cell lung cancer
