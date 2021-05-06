@@ -1,6 +1,6 @@
 # 4.4 Special warnings and precautions for use
 
-All patients should be informed about the risks of Daxas and the precautions for safe use and should be given a patient card before starting treatment.
+All patients should be informed about the risks of Daxas and the precautions for safe use before starting treatment.
 
 Rescue medicinal products
 
