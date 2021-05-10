@@ -33,7 +33,6 @@ Rebound hypertension has not been observed.
 The blood pressure lowering effects of irbesartan and thiazide-type diuretics are additive.
 In patients not adequately controlled by irbesartan alone, the addition of a low dose of hydrochlorothiazide
 (12.5 mg) to irbesartan once daily results in a further placebo-adjusted blood pressure reduction at trough of 7-10/3-6 mm Hg (systolic/diastolic).
-
 The efficacy of Aprovel is not influenced by age or gender.
 As is the case with other medicinal products that affect the renin-angiotensin system, black hypertensive patients have notably less response to irbesartan monotherapy.
 When irbesartan is administered concomitantly with a low dose of hydrochlorothiazide (e.g. 12.5 mg daily), the antihypertensive response in black patients approaches that of white patients.
@@ -66,7 +65,6 @@ In the female and black subgroups which represented 32% and 26% of the overall s
 As for the secondary endpoint of fatal and non-fatal cardiovascular events, there was no difference among the three groups in the overall population, although an increased incidence of non-fatal MI was seen for women and a decreased incidence of non-fatal MI was seen in males in the irbesartan group versus the placebo-based regimen.
 An increased incidence of non-fatal MI and stroke was seen in females in the irbesartan-based regimen versus the amlodipine-based regimen, while hospitalization due to heart failure was reduced in the overall population.
 However, no proper explanation for these findings in women has been identified.
-
 The study of the “Effects of Irbesartan on Microalbuminuria in Hypertensive Patients with type 2 Diabetes Mellitus (IRMA 2)” shows that irbesartan 300 mg delays progression to overt proteinuria in patients with microalbuminuria.
 IRMA 2 was a placebo-controlled double blind morbidity study in 590 patients with type 2 diabetes, microalbuminuria (30-300 mg/day) and normal renal function (serum creatinine ≤ 1.5 mg/dl in males and < 1.1 mg/dl in females).
 The study examined the long-term effects (2 years) of Aprovel on the progression to clinical (overt) proteinuria (urinary albumin excretion rate (UAER) > 300 mg/day, and an increase in UAER of at least 30% from baseline).

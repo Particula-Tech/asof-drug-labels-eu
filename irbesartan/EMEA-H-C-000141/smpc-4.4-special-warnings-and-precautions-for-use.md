@@ -20,6 +20,9 @@ ACE-inhibitors and angiotensin II receptor blockers should not be used concomita
 Hyperkalaemia: as with other medicinal products that affect the renin-angiotensin-aldosterone system, hyperkalaemia may occur during the treatment with Aprovel, especially in the presence of renal impairment, overt proteinuria due to diabetic renal disease, and/or heart failure.
 Close monitoring of serum potassium in patients at risk is recommended (see section 4.5).
 
+Hypoglycaemia: Aprovel may induce hypoglycaemia, particularly in diabetic patients.
+In patients treated with insulin or antidiabetics an appropriate blood glucose monitoring should be considered; a dose adjustment of insulin or antidiabetics may be required when indicated (see section 4.5).
+
 Lithium: the combination of lithium and Aprovel is not recommended (see section 4.5).
 
 Aortic and mitral valve stenosis, obstructive hypertrophic cardiomyopathy: as with other vasodilators, special caution is indicated in patients suffering from aortic or mitral stenosis, or obstructive hypertrophic cardiomyopathy.
@@ -38,24 +41,41 @@ When pregnancy is diagnosed, treatment with AIIRAs should be stopped immediately
 
 Paediatric population: irbesartan has been studied in paediatric populations aged 6 to 16 years old but the current data are insufficient to support an extension of the use in children until further data become available (see sections 4.8, 5.1 and 5.2).
 
-Lactose: Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+Excipients:
+Aprovel 75 mg tablet contains lactose.
+Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+
+Aprovel 75 mg tablet contains sodium.
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
 
 [Aprovel 150 mg tablets.]
 
-(all sentences already above)
+Aprovel 150 mg tablet contains lactose.
+
+Aprovel 150 mg tablet contains sodium.
 
 [Aprovel 300 mg tablets.]
 
-(all sentences already above)
+Aprovel 300 mg tablet contains lactose.
+
+Aprovel 300 mg tablet contains sodium.
 
 [Aprovel 75 mg film-coated tablets.]
 
-(all sentences already above)
+Aprovel 75 mg film-coated tablet contains lactose.
+
+Aprovel 75 mg film-coated tablet contains sodium.
 
 [Aprovel 150 mg film-coated tablets.]
 
 General: in patients whose vascular tone and renal function depend predominantly on the activity of the renin-angiotensin-aldosterone system (e.g. patients with severe congestive heart failure or underlying renal disease, including renal artery stenosis), treatment with angiotensin converting enzyme inhibitors or angiotensin-II receptor antagonists that affect this system has been associated with acute hypotension, azotaemia, oliguria, or rarely acute renal failure.
 
+Aprovel 150 mg film-coated tablet contains lactose.
+
+Aprovel 150 mg film-coated tablet contains sodium.
+
 [Aprovel 300 mg film-coated tablets.]
 
-(all sentences already above)
+Aprovel 300 mg film-coated tablet contains lactose.
+
+Aprovel 300 mg film-coated tablet contains sodium.

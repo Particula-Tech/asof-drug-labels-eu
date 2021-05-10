@@ -18,6 +18,11 @@ As with ACE inhibitors, concomitant use of angiotensin II antagonists and NSAIDs
 The combination should be administered with caution, especially in the elderly.
 Patients should be adequately hydrated and consideration should be given to monitoring renal function after initiation of concomitant therapy, and periodically thereafter.
 
+Repaglinide: irbesartan has the potential to inhibit OATP1B1.
+In a clinical study, it was reported that irbesartan increased the Cmax and AUC of repaglinide (substrate of OATP1B1) by 1.8-fold and 1.3-fold, respectively, when administered 1 hour before repaglinide.
+In another study, no relevant pharmacokinetic interaction was reported, when the two drugs were co-administered.
+Therefore, dose adjustment of antidiabetic treatment such as repaglinide may be required (see section 4.4).
+
 Additional information on irbesartan interactions: in clinical studies, the pharmacokinetic of irbesartan is not affected by hydrochlorothiazide.
 Irbesartan is mainly metabolised by CYP2C9 and to a lesser extent by glucuronidation.
 No significant pharmacokinetic or pharmacodynamic interactions were observed when irbesartan was coadministered with warfarin, a medicinal product metabolised by CYP2C9.

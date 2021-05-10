@@ -6,7 +6,6 @@ After oral administration, irbesartan is well absorbed: studies of absolute bioa
 Concomitant food intake does not significantly influence the bioavailability of irbesartan.
 
 Distribution
-
 Plasma protein binding is approximately 96%, with negligible binding to cellular blood components.
 The volume of distribution is 53-93 litres.
 
@@ -75,4 +74,4 @@ Biotransformatin
 
 [Aprovel 300 mg film-coated tablets.]
 
-AbsorptionAfter oral administration, irbesartan is well absorbed: studies of absolute bioavailability gave values of approximately 60-80%.
+(all sentences already above)
