@@ -26,7 +26,9 @@ Monitoring
 Patients receiving pemetrexed should be monitored before each dose with a complete blood count, including a differential white cell count (WCC) and platelet count.
 Prior to each chemotherapy administration blood chemistry tests should be collected to evaluate renal and hepatic function.
 Before the start of any cycle of chemotherapy, patients are required to have the following: absolute neutrophil count (ANC) should be ≥ 1500 cells/mm3 and platelets should be ≥ 100,000 cells/mm3.
+
 Creatinine clearance should be ≥ 45 ml/min.
+
 The total bilirubin should be ≤ 1.5 times upper limit of normal.
 Alkaline phosphatase (AP), aspartate aminotransferase (AST or SGOT) and alanine aminotransferase (ALT or SGPT) should be ≤ 3 times upper limit of normal.
 Alkaline phosphatase, AST and ALT ≤ 5 times upper limit of normal is acceptable if liver has tumour involvement.
@@ -69,14 +71,15 @@ a National Cancer Institute Common Toxicity Criteria (CTC v2.0; NCI 1998)
 
 Treatment with ALIMTA should be discontinued if a patient experiences any haematologic or non-haematologic Grade 3 or 4 toxicity after 2 dose reductions or immediately if Grade 3 or 4 neurotoxicity is observed.
 
-Elderly
-In clinical studies, there has been no indication that patients 65 years of age or older are at increased risk of adverse events compared to patients younger than 65 years old.
-No dose reductions other than those recommended for all patients are necessary.
+Special populations
 
+Elderly
+In clinical studies, there has been no indication that patients 65 years of age or older are at increased risk of adverse reaction compared to patients younger than 65 years old.
+No dose reductions other than those recommended for all patients are necessary.
 Paediatric population
 There is no relevant use of ALIMTA in the paediatric population in malignant pleural mesothelioma and non-small cell lung cancer.
-Patients with renal impairment (Standard Cockcroft and Gault formula or Glomerular Filtration Rate measured Tc99m-DPTA serum clearance method)
 
+Patients with renal impairment (standard cockcroft and gault formula or glomerular filtration rate measured Tc99m-DPTA serum clearance method)
 Pemetrexed is primarily eliminated unchanged by renal excretion.
 In clinical studies, patients with creatinine clearance of ≥ 45 ml/min required no dose adjustments other than those recommended for all patients.
 There are insufficient data on the use of pemetrexed in patients with creatinine clearance below 45 ml/min; therefore the use of pemetrexed is not recommended (see section 4.4).
@@ -87,7 +90,7 @@ However patients with hepatic impairment such as bilirubin > 1.5 times the upper
 
 Method of administration
 
-For Precautions to be taken before handling or administering ALIMTA, see section 6.6.
-
+ALIMTA is for intravenous use.
 ALIMTA should be administered as an intravenous infusion over 10 minutes on the first day of each 21-day cycle.
-For instructions on reconstitution and dilution of ALIMTA before administration, see section 6.6.
+
+For precautions to be taken before handling or administering ALIMTA and for instructions on reconstitution and dilution of ALIMTA before administration, see section 6.6.

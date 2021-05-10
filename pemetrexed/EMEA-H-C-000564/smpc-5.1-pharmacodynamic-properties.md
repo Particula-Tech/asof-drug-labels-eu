@@ -12,6 +12,7 @@ Polyglutamation is a time- and concentration-dependent process that occurs in tu
 Polyglutamated metabolites have an increased intracellular half-life resulting in prolonged drug action in malignant cells.
 
 The European Medicines Agency has waived the obligation to submit the results of studies with ALIMTA in all subsets of the paediatric population in the granted indications (see Section 4.2).
+
 Clinical efficacy
 
 Mesothelioma
@@ -23,24 +24,23 @@ The primary analysis of this study was performed on the population of all patien
 A subgroup analysis was performed on patients who received folic acid and vitamin B12 supplementation during the entire course of study therapy (fully supplemented).
 The results of these analyses of efficacy are summarised in the table below:
 
+Table 5.
 Efficacy of ALIMTA plus cisplatin vs. cisplatin in malignant pleural mesothelioma
 
 |  | Randomized and treated patients |  | Fully supplemented patients |  |
 | --- | --- | --- | --- | --- |
 | Efficacy parameter | ALIMTA/ cisplatin (N = 226) | Cisplatin (N = 222) | ALIMTA/ cisplatin (N = 168) | Cisplatin (N = 163) |
 | Median overall survival (months) (95 % CI) | 12.1 (10.0 - 14.4) | 9.3 (7.8 - 10.7) | 13.3 (11.4 - 14.9) | 10.0 (8.4 - 11.9) |
-| Log Rank p-value* | 0.020 |  | 0.051 |  |
-| Median time to tumour progression (months) (95 % CI) | 5.7 | 3.9 | 6.1 | 3.9 |
-|  | (4.9 - 6.5) | (2.8 - 4.4) | (5.3 - 7.0) | (2.8 - 4.5) |
-| Log Rank p-value* | 0.001 |  | 0.008 |  |
+| Log Rank p-valuea | 0.020 |  | 0.051 |  |
+| Median time to tumour progression (months) (95 % CI) | 5.7 (4.9 - 6.5) | 3.9 (2.8 - 4.4) | 6.1 (5.3 - 7.0) | 3.9 (2.8 - 4.5) |
+| Log Rank p-valuea | 0.001 |  | 0.008 |  |
 | Time to treatment failure (months) (95 % CI) | 4.5 (3.9 - 4.9) | 2.7 (2.1 - 2.9) | 4.7 (4.3 - 5.6) | 2.7 (2.2 - 3.1) |
-| Log Rank p-value* | 0.001 |  | 0.001 |  |
-| Overall response rate** (95 % CI) | 41.3 % (34.8 - 48.1) | 16.7 % (12.0 - 22.2) | 45.5 % (37.8 - 53.4) | 19.6 % (13.8 - 26.6) |
-| Fisher’s exact p-value* | < 0.001 |  | < 0.001 |  |
+| Log Rank p-valuea | 0.001 |  | 0.001 |  |
+| Overall response rateb (95 % CI) | 41.3 % (34.8 - 48.1) | 16.7 % (12.0 - 22.2) | 45.5 % (37.8 - 53.4) | 19.6 % (13.8 - 26.6) |
+| Fisher’s exact p-valuea | < 0.001 |  | < 0.001 |  |
 
-Abbreviation: CI = confidence interval
-* p-value refers to comparison between arms.
-** In the ALIMTA/cisplatin arm, randomized and treated (N = 225) and fully supplemented (N = 167)
+Abbreviation: CI = confidence interval a p-value refers to comparison between arms.
+b In the ALIMTA/cisplatin arm, randomized and treated (N = 225) and fully supplemented (N = 167)
 
 A statistically significant improvement of the clinically relevant symptoms (pain and dyspnoea) associated with malignant pleural mesothelioma in the ALIMTA/cisplatin arm (212 patients) versus the cisplatin arm alone (218 patients) was demonstrated using the Lung Cancer Symptom Scale.
 Statistically significant differences in pulmonary function tests were also observed.
@@ -61,6 +61,7 @@ There were no clinically relevant differences observed for the safety profile of
 Limited clinical data from a separate randomized, Phase 3, controlled trial, suggest that efficacy data (overall survival, progression free survival) for pemetrexed are similar between patients previously pre treated with docetaxel (n = 41) and patients who did not receive previous docetaxel treatment
 (n = 540).
 
+Table 6.
 Efficacy of ALIMTA vs docetaxel in NSCLC - ITT population
 
 |  | ALIMTA | Docetaxel |
@@ -86,6 +87,7 @@ Progression free survival (PFS) and overall response rate were similar between t
 PFS data were partially confirmed by an independent review (400/1725 patients were randomly selected for review).
 
 The analysis of the impact of NSCLC histology on overall survival demonstrated clinically relevant differences in survival according to histology, see table below.
+Table 7.
 Efficacy of ALIMTA + cisplatin vs. gemcitabine + cisplatin in first-line non-small cell lung cancer – ITT population and histology subgroups.
 
 ITT population and histology subgroups ALIMTA + cisplatin Median overall survival in months (95% CI) Gemcitabine + cisplatin ratio (HR) (95% CI) Adjusted hazard Superiority p-value
@@ -129,7 +131,6 @@ There were no clinically relevant differences observed for the safety profile of
 Patients treated with ALIMTA and cisplatin required fewer transfusions (16.4% versus 28.9%, p<0.001), red blood cell transfusions (16.1% versus 27.3%, p<0.001) and platelet transfusions (1.8% versus 4.5%, p=0.002).
 Patients also required lower administration of erythropoietin/darbopoietin (10.4% versus 18.1%, p<0.001), G-CSF/GM-CSF (3.1% versus 6.1%, p=0.004), and iron preparations (4.3% versus 7.0%, p=0.021).
 NSCLC, maintenance treatment
-
 JMEN
 A multicentre, randomised, double-blind, placebo-controlled Phase 3 study (JMEN), compared the efficacy and safety of maintenance treatment with ALIMTA plus best supportive care (BSC) (n = 441) with that of placebo plus BSC (n = 222) in patients with locally advanced (Stage IIIB) or metastatic (Stage IV) Non Small Cell Lung Cancer (NSCLC) who did not progress after 4 cycles of first line doublet therapy containing Cisplatin or Carboplatin in combination with Gemcitabine, Paclitaxel, or Docetaxel.
 First line doublet therapy containing ALIMTA was not included.

@@ -6,7 +6,7 @@ In vitro studies indicate that pemetrexed is approximately 81 % bound to plasma 
 Binding was not notably affected by varying degrees of renal impairment.
 Pemetrexed undergoes limited hepatic metabolism.
 Pemetrexed is primarily eliminated in the urine, with 70 % to 90 % of the administered dose being recovered unchanged in urine within the first 24 hours following administration.
-In Vitro studies indicate that pemetrexed is actively secreted by OAT3 (organic anion transporter.
+In vitro studies indicate that pemetrexed is actively secreted by OAT3 (organic anion transporter.
 Pemetrexed total systemic clearance is 91.8 ml/min and the elimination half-life from plasma is 3.5 hours in patients with normal renal function (creatinine clearance of 90 ml/min).
 Between patient variability in clearance is moderate at 19.3 %.
 Pemetrexed total systemic exposure (AUC) and maximum plasma concentration increase proportionally with dose.

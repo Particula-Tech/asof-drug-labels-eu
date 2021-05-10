@@ -1,6 +1,6 @@
 # 4.6 Fertility, pregnancy and lactation
 
-Contraception in males and females
+Women of childbearing potential / Contraception in males and females
 Women of childbearing potential must use effective contraception during treatment with pemetrexed.
 Pemetrexed can have genetically damaging effects.
 Sexually mature males are advised not to father a child during the treatment and up to 6 months thereafter.
@@ -12,7 +12,7 @@ Animal studies have shown reproductive toxicity (see section 5.3).
 Pemetrexed should not be used during pregnancy unless clearly necessary, after a careful consideration of the needs of the mother and the risk for the foetus (see section 4.4).
 
 Breast-feeding
-It is not known whether pemetrexed is excreted in human milk and adverse reactions on the suckling child cannot be excluded.
+It is unknown whether pemetrexed is excreted in human milk and adverse reactions on the breast-feeding child cannot be excluded.
 Breast-feeding must be discontinued during pemetrexed therapy (see section 4.3).
 
 Fertility
