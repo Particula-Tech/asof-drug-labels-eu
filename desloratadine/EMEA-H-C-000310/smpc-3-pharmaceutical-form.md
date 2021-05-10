@@ -14,4 +14,4 @@ Light-red, flat-faced, round, speckled tablets, one side branded with “A”
 
 [Azomyr 0.5 mg/ml oral solution]
 
-Oral solution
+Oral solution is a clear, colourless solution.

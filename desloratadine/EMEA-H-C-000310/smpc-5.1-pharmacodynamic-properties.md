@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: antihistamines – H1 antagonist, ATC code: R06A X27
+Pharmacotherapeutic group: antihistamines – H1 antagonist, ATC code: R06AX27
 
 Mechanism of action
 Desloratadine is a non-sedating, long-acting histamine antagonist with selective peripheral H1-receptor antagonist activity.
@@ -15,7 +15,7 @@ In a multiple dose clinical trial, in which up to 20 mg of desloratadine was adm
 In a clinical pharmacology trial, in which desloratadine was administered at a dose of 45 mg daily (nine times the clinical dose) for ten days, no prolongation of QTc interval was seen.
 
 No clinically relevant changes in desloratadine plasma concentrations were observed in multiple-dose ketoconazole and erythromycin interaction trials.
-
+Pharmacodynamic effects
 Desloratadine does not readily penetrate the central nervous system.
 In controlled clinical trials, at the recommended dose of 5 mg daily, there was no excess incidence of somnolence as compared to placebo.
 Azomyr given at a single daily dose of 7.5 mg did not affect psychomotor performance in clinical trials.
@@ -75,6 +75,7 @@ When given at the recommended doses, the plasma concentrations of desloratadine 
 Thus, since the course of allergic rhinitis/chronic idiopathic urticaria and the profile of desloratadine are similar in adults and paediatric patients, desloratadine efficacy data in adults can be extrapolated to the paediatric population.
 
 Efficacy of Azomyr syrup has not been investigated in paediatric trials in children less than 12 years of age.
+
 Adults and adolescents
 In a multiple dose clinical trial, in adults and adolescents, in which up to 20 mg of desloratadine was administered daily for 14 days, no statistically or clinically relevant cardiovascular effect was observed.
 In a clinical pharmacology trial, in adults and adolescents, in which desloratadine was administered to adults at a dose of 45 mg daily (nine times the clinical dose) for ten days, no prolongation of QTc interval was seen.

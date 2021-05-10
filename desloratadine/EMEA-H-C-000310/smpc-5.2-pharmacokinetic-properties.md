@@ -10,6 +10,7 @@ In a pharmacokinetic trial in which patient demographics were comparable to thos
 This percentage may vary according to ethnic background.
 Maximum desloratadine concentration was about 3-fold higher at approximately 7 hours with a terminal phase half-life of approximately 89 hours.
 The safety profile of these subjects was not different from that of the general population.
+
 Distribution
 Desloratadine is moderately bound (83 % - 87 %) to plasma proteins.
 There is no evidence of clinically relevant medicine accumulation following once daily dosing of desloratadine (5 mg to 20 mg) for 14 days.

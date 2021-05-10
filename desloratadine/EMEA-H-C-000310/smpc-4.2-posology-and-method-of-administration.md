@@ -1,6 +1,7 @@
 # 4.2 Posology and method of administration
 
 Posology
+
 Adults and adolescents (12 years of age and over)
 The recommended dose of Azomyr is one tablet once a day.
 
@@ -13,6 +14,7 @@ There is limited clinical trial efficacy experience with the use of desloratadin
 The safety and efficacy of Azomyr 5 mg film-coated tablets in children below the age of 12 years have not been established.
 
 Method of administration
+
 Oral use.
 The dose can be taken with or without food.
 

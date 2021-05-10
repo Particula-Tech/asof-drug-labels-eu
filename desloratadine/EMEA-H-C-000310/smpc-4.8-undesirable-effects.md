@@ -9,8 +9,7 @@ In a clinical trial with 578 adolescent patients, 12 through 17 years of age, th
 
 Tabulated list of adverse reactions
 The frequency of the clinical trial adverse reactions reported in excess of placebo and other undesirable effects reported during the post-marketing period are listed in the following table.
-Frequencies are defined as very common (≥1/10), common (≥1/100 to < 1/10), uncommon
-(≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000) and not known (cannot be estimated from the available data).
+Frequencies are defined as very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000) and not known (cannot be estimated from the available data).
 
 | System Organ Class | Frequency | Adverse reactions seen with Azomyr |
 | --- | --- | --- |
@@ -29,9 +28,10 @@ Paediatric population
 Other undesirable effects reported during the post-marketing period in paediatric patients with an unknown frequency included QT prolongation, arrhythmia, bradycardia, abnormal behaviour, and aggression.
 
 A retrospective observational safety study indicated an increased incidence of new-onset seizure in patients 0 to 19 years of age when receiving desloratadine compared with periods not receiving desloratadine.
-Among children 0-4 years old, the adjusted absolute increase was 37.5 (95% Confidence Interval (CI) 10.5-64.5) per 100,000 person years (PY) with a background rate of new onset seizure of 80.3 per 100,000 PY.
-Among patients 5-19 years of age, the adjusted absolute increase was 11.3 (95% CI 2.3-20.2) per 100,000 PY with a background rate of 36.4 per 100,000 PY.
+Among children 0-4 years old, the adjusted absolute increase was 37.5 (95 % Confidence Interval (CI) 10.5-64.5) per 100,000 person years (PY) with a background rate of new onset seizure of 80.3 per 100,000 PY.
+Among patients 5-19 years of age, the adjusted absolute increase was 11.3 (95 % CI 2.3-20.2) per 100,000 PY with a background rate of 36.4 per 100,000 PY.
 (See section 4.4.)
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
