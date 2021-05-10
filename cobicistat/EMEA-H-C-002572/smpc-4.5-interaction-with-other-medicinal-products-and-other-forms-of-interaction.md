@@ -2,6 +2,7 @@
 
 Cobicistat is a strong mechanism-based CYP3A inhibitor and is a CYP3A substrate.
 Increased plasma concentrations of medicinal products that are metabolised by CYP3A (including atazanavir and darunavir) are observed on co-administration with cobicistat.
+Co-administration of cobicistat with medicinal products that have active metabolite(s) formed by CYP3A may result in reduced plasma concentrations of these active metabolite(s) (see section 4.4).
 
 Cobicistat is a weak CYP2D6 inhibitor and is metabolised to a minor extent by CYP2D6.
 Co-administration with cobicistat can increase plasma concentrations of medicinal products that are metabolised by CYP2D6 (see sections 4.3 and 4.4).
@@ -85,8 +86,14 @@ Table 3: Interactions between cobicistat and other medicinal products
 | Bosentan | Interaction not studied. Co-administration of bosentan with cobicistat may lead to decreased cobicistat plasma concentrations. | Atazanavir or darunavir plasma concentrations may decrease as a consequence of a reduction in cobicistat plasma concentrations, which may result in loss of therapeutic effect and development of resistance. Co-administration is not recommended (see section 4.4). |
 | ANTICOAGULANTS |  |  |
 | Dabigatran | Interaction not studied. Co-administration with Tybost may increase dabigatran plasma concentrations with similar effects as seen with other strong P-gp inhibitors. | Co-administration of cobicistat with dabigatran is contraindicated. |
-| Apixaban Rivaroxaban Edoxaban | Interaction not studied. Co-administration with cobicistat may result in increased plasma concentrations of the DOAC, which may lead to an increased bleeding risk.. | Co-administration of apixaban, rivaroxaban or edoxaban is not recommended with Tybost. |
+| Apixaban Rivaroxaban Edoxaban | Interaction not studied. Co-administration with cobicistat may result in increased plasma concentrations of the DOAC, which may lead to an increased bleeding risk. | Co-administration of apixaban, rivaroxaban or edoxaban is not recommended with Tybost. |
 | Warfarin | Interaction not studied. Concentrations of warfarin may be affected upon co-administration with cobicistat. | It is recommended that the international normalised ratio (INR) be monitored upon co-administration with Tybost. |
+
+| Medicinal product by therapeutic areas | Effects on drug levels Mean percent change in AUC, Cmax, Cmin | Recommendation concerning co-administration with cobicistat 150 mg and atazanavir or darunavir |
+| --- | --- | --- |
+| ANTIPLATELETS |  |  |
+| Clopidogrel | Interaction not studied. Co-administration of clopidogrel with cobicistat is expected to decrease clopidogrel active metabolite plasma concentrations, which may reduce the antiplatelet activity of clopidogrel. | Co-administration of clopidogrel with cobicistat is not recommended. |
+| Prasugrel | Interaction not studied. Cobicistat is not expected to have a clinically relevant effect on plasma concentrations of the active metabolite of prasugrel. | No dose adjustment of prasugrel is required. |
 | ANTICONVULSANTS |  |  |
 | Carbamazepine (200 mg twice daily)/Elvitegravir (150 mg once daily)/Cobicistat (150 mg once daily) | Co-administration of carbamazepine, a potent CYP3A inducer, may significantly decrease cobicistat plasma concentrations. Cobicistat: AUC: ↓ 84% Cmax: ↓ 72% Cmin: ↓ 90% Carbamazepine: AUC: ↑ 43% Cmax: ↑ 40% Cmin: ↑ 51% Carbamazepine-10,11-epoxide: AUC: ↓ 35% Cmax: ↓ 27% Cmin: ↓ 41% | Carbamazepine, a potent CYP3A inducer, decreases cobicistat plasma concentrations and that of atazanavir or darunavir, which may result in loss of therapeutic effect and development of resistance. Co-administration of cobicistat with carbamazepine is contraindicated (see section 4.3). |
 | INHALED BETA AGONISTS |  |  |

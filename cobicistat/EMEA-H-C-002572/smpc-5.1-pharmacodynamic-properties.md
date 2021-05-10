@@ -34,6 +34,7 @@ Table 6: Pharmacokinetic parameters [mean ± SD (%CV)] of darunavir 800 mg co-ad
 Antiviral activity in vitro
 
 Cobicistat has no detectable antiviral activity against HIV-1, HBV or HCV and does not antagonise the antiviral effect of HIV inhibitors.
+
 Clinical experience
 
 Antiviral efficacy data from randomised controlled studies is available for cobicistat-boosted atazanavir, but not for cobicistat-boosted darunavir (see sections 4.4 and 5.2).
@@ -48,7 +49,6 @@ Randomisation was stratified by screening HIV-1 RNA level
 Virologic response rate was evaluated in both treatment arms and virologic response was defined as achieving an undetectable viral load
 (< 50 HIV-1 RNA copies/ml).
 Viruses were known to be susceptible to atazanavir, emtricitabine and tenofovir disoproxil fumarate at baseline.
-
 Baseline characteristics and treatment outcomes at weeks 48 and 144 for Study GS-US-216-0114 are presented in Tables 7 and 8, respectively.
 
 Table 7: Demographic and baseline disease characteristics of antiretroviral treatment-naïve HIV-1 infected adult subjects in Study GS-US-216-0114

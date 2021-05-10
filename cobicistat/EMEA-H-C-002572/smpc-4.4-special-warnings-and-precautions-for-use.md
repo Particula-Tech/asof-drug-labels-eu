@@ -7,6 +7,7 @@ Cobicistat is a strong mechanism-based CYP3A inhibitor and is a CYP3A substrate.
 Increased plasma concentrations of medicinal products that are metabolised by CYP3A (including atazanavir and darunavir) are observed on co-administration with cobicistat.
 Higher plasma concentrations of co-administered medicinal products can result in increased or prolonged therapeutic effects or adverse reactions.
 For medicinal products metabolised by CYP3A these higher plasma concentrations may potentially lead to serious and/or life-threatening events (see section 4.3).
+Co-administration of cobicistat with medicinal products that have active metabolite(s) formed by CYP3A may result in reduced plasma concentrations of these active metabolite(s), potentially leading to loss of therapeutic effect.
 
 Co-administration of cobicistat with medicinal products that induce CYP3A is contraindicated or is not recommended (see sections 4.3 and 4.5) because decreased plasma concentrations of cobicistat could result in plasma levels that are insufficient to achieve adequate pharmacoenhancement of atazanavir or darunavir.
 
@@ -14,9 +15,9 @@ Co-administration of cobicistat with medicinal products that inhibit CYP3A may d
 
 Cobicistat is a weak CYP2D6 inhibitor and is metabolised to a minor extent by CYP2D6.
 Co-administration with cobicistat can increase plasma concentrations of medicinal products that are metabolised by CYP2D6 (see sections 4.3 and 4.5).
+
 Cobicistat inhibits the transporters P-gp, BCRP, MATE1, OATP1B1 and OATP1B3.
 Co-administration of cobicistat in patients receiving medicinal products that are substrates of these transporters may result in increased plasma concentrations of the co-administered medicinal products (see section 4.5).
-
 Unlike ritonavir, cobicistat is not an inducer of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19 or UGT1A1.
 If switching pharmacoenhancer from ritonavir to cobicistat, caution is required during the first two weeks of treatment with cobicistat, particularly if doses of any concomitantly administered medicinal products have been titrated or adjusted during use of ritonavir as a pharmacoenhancer (see section 4.5).
 
@@ -49,7 +50,6 @@ This effect on serum creatinine, leading to a decrease in the estimated creatine
 
 Tybost should not be initiated in patients with creatinine clearance less than 70 ml/min if one or more co-administered agent requires dose adjustment based on creatinine clearance (e.g. emtricitabine, lamivudine, tenofovir disoproxil or adefovir).
 See sections 4.2, 4.8 and 5.2.
-
 There are currently inadequate data to determine whether co-administration of tenofovir disoproxil and cobicistat is associated with a greater risk of renal adverse reactions compared with regimens that include tenofovir disoproxil without cobicistat.
 
 Liver disease
@@ -67,3 +67,5 @@ Darunavir given with low dose ritonavir may be considered as an alternative regi
 Excipients
 
 Tybost contains the azo colouring agent sunset yellow FCF (E110), which may cause allergic reactions.
+
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
