@@ -3,5 +3,5 @@
 Sodium phosphate, monobasic, monohydrate
 Sodium phosphate, dibasic, heptahydrate
 Sodium chloride
-Polysorbate 80 (E 433)
+Polysorbate 80 (E433)
 Water for injections
