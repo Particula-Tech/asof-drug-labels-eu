@@ -12,3 +12,4 @@ Buvidal prolonged-release solution for injection (monthly)
 EU/1/18/1336/005 [64 mg buprenorphine/0.18 mL]
 EU/1/18/1336/006 [96 mg buprenorphine/0.27 mL]
 EU/1/18/1336/007 [128 mg buprenorphine/0.36 mL]
+EU/1/18/1336/009 [160 mg buprenorphine/0.45 mL]

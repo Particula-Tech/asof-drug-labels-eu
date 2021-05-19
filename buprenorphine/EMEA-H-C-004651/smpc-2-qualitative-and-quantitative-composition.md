@@ -35,3 +35,7 @@ Each pre-filled syringe contains 96 mg buprenorphine
 128 mg prolonged-release solution for injection
 
 Each pre-filled syringe contains 128 mg buprenorphine
+
+160 mg prolonged-release solution for injection
+
+Each pre-filled syringe contains 160 mg buprenorphine

@@ -18,6 +18,7 @@ Biotransformation and elimination
 
 Buprenorphine is oxidatively metabolised by 14-N-dealkylation to N-desalkyl-buprenorphine (also known as norbuprenorphine) via cytochrome P450 CYP3A4 and by glucuroconjungation of the parent molecule and the dealkylated metabolite.
 Norbuprenorphine is a µ-opioid agonist with weak intrinsic activity.
+
 Subcutaneous administration of Buvidal results in significantly lower plasma concentrations of norbuprenorphine metabolite compared to administration of sublingual buprenorphine, due to avoidance of first-pass metabolism.
 
 Elimination of buprenorphine from Buvidal is release-rate limited with a terminal half-life ranging from 3 to 5 days.
@@ -35,9 +36,9 @@ Renal elimination plays a relatively small role (≈ 30%) in the overall clearan
 No dose modification based on renal function is required, but caution is recommended when dosing subjects with severe renal impairment (see sections 4.2 and 4.4).
 
 Hepatic impairment
-Table 5 summarises the results of a clinical study in which exposure to buprenorphine was determined following administration of a buprenorphine/naloxone 2.0/0.5 mg sublingual tablet in healthy subjects and in subjects with different degrees of hepatic impairment.
+Table 4 summarises the results of a clinical study in which exposure to buprenorphine was determined following administration of a buprenorphine/naloxone 2.0/0.5 mg sublingual tablet in healthy subjects and in subjects with different degrees of hepatic impairment.
 
-| Table 5. Effect of hepatic impairment (change relative to healthy subjects) on pharmacokinetic parameters of buprenorphine following sublingual buprenorphine/naloxone administration (2.0/0.5 mg) in healthy subjects, and in subjects with varied degrees of hepatic impairment |  |  |  |
+| Table 4. Effect of hepatic impairment (change relative to healthy subjects) on pharmacokinetic parameters of buprenorphine following sublingual buprenorphine/naloxone administration (2.0/0.5 mg) in healthy subjects, and in subjects with varied degrees of hepatic impairment |  |  |  |
 | --- | --- | --- | --- |
 | Pharmacokinetic Parameter | mild hepatic impairment (Child-Pugh Class A) (n=9) | moderate hepatic impairment (Child-Pugh Class B) (n=8) | severe hepatic impairment (Child-Pugh Class C) (n=8) |
 | Buprenorphine |  |  |  |
@@ -56,7 +57,6 @@ Monthly Buvidal
 
 After injection, the buprenorphine plasma concentration increases with a median time to maximum plasma concentration (tmax) of 6-10 hours.
 Steady-state exposure is reached at the fourth monthly dose.
-
-Dose-proportional increases in exposure are observed in the dose interval 64 mg to 128 mg.
+Dose-proportional increases in overall exposure are observed in the dose interval 64 mg to 160 mg.
 
 Elimination of buprenorphine from Buvidal is release-rate limited with a terminal half-life ranging from 19 to 25 days.

@@ -10,3 +10,4 @@ Buvidal 32 mg prolonged-release solution for injection
 Buvidal 64 mg prolonged-release solution for injection
 Buvidal 96 mg prolonged-release solution for injection
 Buvidal 128 mg prolonged-release solution for injection
+Buvidal 160 mg prolonged-release solution for injection

@@ -25,13 +25,20 @@ Deaths have also been reported in association with concomitant administration of
 Buprenorphine should be used with care in patients with respiratory insufficiency (e.g. chronic obstructive pulmonary disease, asthma, cor pulmonale, decreased respiratory reserve, hypoxia, hypercapnia, pre-existing respiratory depression or kyphoscoliosis).
 
 Buprenorphine may cause severe, possibly fatal, respiratory depression in children and non-opioid dependent persons who accidentally or deliberately use it.
+
 CNS depression
 
 Buprenorphine may cause drowsiness particularly when taken together with alcohol or central nervous system depressants such as benzodiazepines, tranquilisers, sedatives, gabapentinoids or hypnotics (see sections 4.5 and 4.7).
-
 Dependence
 
 Buprenorphine is a partial agonist at the mu-opiate receptor and chronic administration can produce opioid dependence.
+
+Serotonin syndrome
+
+Concomitant administration of Buvidal and other serotonergic agents, such as MAO inhibitors, selective serotonin re-uptake inhibitors (SSRIs), serotonin norepinephrine re-uptake inhibitors (SNRIs) or tricyclic antidepressants may result in serotonin syndrome, a potentially life-threatening condition (see section 4.5).
+If concomitant treatment with other serotonergic agents is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
+Symptoms of serotonin syndrome may include mental-status changes, autonomic instability, neuromuscular abnormalities, and/or gastrointestinal symptoms.
+If serotonin syndrome is suspected, a dose reduction or discontinuation of therapy should be considered depending on the severity of the symptoms.
 
 Hepatitis and hepatic events
 
@@ -61,11 +68,11 @@ Patients with moderate hepatic impairment should be monitored for signs and symp
 Buprenorphine should be used with caution in patients with moderate hepatic impairment (see sections 4.2 and 5.2).
 Hepatic function should be monitored regularly whilst on treatment.
 The use of buprenorphine is contraindicated in patients with severe hepatic impairment (see section 4.3).
-
 Renal impairment
 
 Metabolites of buprenorphine accumulate in patients with renal failure.
 Caution is recommended when dosing patients with severe renal impairment (creatinine clearance < 30 ml/min), see sections 4.2 and 5.2.
+
 QT prolongation
 
 Caution should be exercised when co-administering Buvidal with other medicinal products that prolong the QT interval and in patients with a history of long QT syndrome or other risk factors for QT prolongation.
@@ -80,6 +87,12 @@ Use in children and adolescents
 
 The safety and efficacy of buprenorphine in children below the age of 16 years have not been established (see section 4.2).
 Due to limited data in adolescents (aged 16 or 17 years), patients in this age group should be monitored closely during treatment.
+
+Sleep-related breathing disorders
+
+Opioids can cause sleep-related breathing disorders including central sleep apnoea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the total opioid dosage.
 
 Class effects
 

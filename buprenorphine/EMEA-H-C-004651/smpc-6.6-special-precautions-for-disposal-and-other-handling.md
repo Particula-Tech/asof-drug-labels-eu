@@ -51,7 +51,7 @@ Figure 3:
 Figure 4:
 
 - Pinch the skin at the injection site between the thumb and finger as shown (see Figure 5).
-- Hold the safety syringe as shown and smoothly insert the needle at an angle of approximately 90° (see Figure 5).
+- Hold the safety syringe as shown and insert the needle at an angle of approximately 90° (see Figure 5).
   Push the needle all the way in.
 
 Figure 5:

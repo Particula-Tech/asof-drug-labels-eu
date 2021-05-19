@@ -20,10 +20,10 @@ Patients attended 12 weekly visits during the first 12 weeks and 6 visits during
 (3 scheduled monthly visits and 3 random urine toxicology visits).
 At each visit, efficacy and safety outcome measures were assessed.
 Of the 428 randomised patients, 69.0% (147/213) of the patients in the Buvidal treatment group and 72.6% (156/215) of the patients in the sublingual buprenorphine/naloxone treatment group completed the 24-week treatment period.
-The study met the primary endpoint of non-inferiority in mean percentage of urine samples negative for illicit opioids during treatment weeks 1 to 24 for the Buvidal group compared with the sublingual buprenorphine/naloxone group (Table 4).
-Superiority of Buvidal versus sublingual buprenorphine/naloxone was met (pre-specified test order) for the secondary endpoint cumulative distribution function (CDF) for percentage of opioid-negative urine samples during treatment weeks 4 to 24 (Table 4).
+The study met the primary endpoint of non-inferiority in mean percentage of urine samples negative for illicit opioids during treatment weeks 1 to 24 for the Buvidal group compared with the sublingual buprenorphine/naloxone group (Table 3).
+Superiority of Buvidal versus sublingual buprenorphine/naloxone was met (pre-specified test order) for the secondary endpoint cumulative distribution function (CDF) for percentage of opioid-negative urine samples during treatment weeks 4 to 24 (Table 3).
 
-| Table 4. Efficacy variables in a pivotal phase 3, randomised, double-blind, double-dummy, active-controlled, flexible-dose study in patients with moderate to severe opioid dependence |  |  |  |  |  |
+| Table 3. Efficacy variables in a pivotal phase 3, randomised, double-blind, double-dummy, active-controlled, flexible-dose study in patients with moderate to severe opioid dependence |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Efficacy variable | Statistic | Buvidal | SL BPN/NX | Treatment difference (%)a (95% CI) | P-value |
 | Percentage of urine samples negative for illicit opioids | N | 213 | 215 |  |  |

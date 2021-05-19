@@ -5,6 +5,7 @@ Pregnancy
 There are no or limited data from the use of buprenorphine in pregnant women.
 Animal studies do not indicate reproductive toxicity (see section 5.3).
 Buprenorphine should be used during pregnancy only if the potential benefit outweighs the potential risk to the foetus.
+
 Towards the end of pregnancy, buprenorphine may induce respiratory depression in the newborn infant even after a short period of administration.
 Long-term administration during the last three months of pregnancy may cause a withdrawal syndrome in the neonate (e.g. hypertonia, neonatal tremor, neonatal agitation, myoclonus or convulsions).
 The syndrome is generally delayed from several hours to several days after birth.

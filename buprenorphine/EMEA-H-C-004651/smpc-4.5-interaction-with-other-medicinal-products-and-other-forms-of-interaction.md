@@ -1,7 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 No interaction studies have been performed with Buvidal.
-
 Buprenorphine should be used cautiously when co-administered with:
 
 - benzodiazepines: This combination may result in death due to respiratory depression of central origin.
@@ -37,3 +36,4 @@ Conversely, if a patient who is concomitantly treated with Buvidal and a CYP3A4 
   Conversely, if a patient who is concomitantly treated with Buvidal and a CYP3A4 inducer stops treatment with the CYP3A4 inducer, the patient should be monitored for symptoms of overtreatment.
 - UGT1A1 inhibitors may affect the systemic exposure of buprenorphine.
 - monoamine oxidase inhibitors (MAOI): Possible exacerbation of the opioids effects, based on experience with morphine.
+- Serotonergic medicinal products, such as MAO inhibitors, selective serotonin re-uptake inhibitors (SSRIs), serotonin norepinephrine re-uptake inhibitors (SNRIs) or tricyclic antidepressants as the risk of serotonin syndrome, a potentially life-threatening condition, is increased (see section 4.4).
