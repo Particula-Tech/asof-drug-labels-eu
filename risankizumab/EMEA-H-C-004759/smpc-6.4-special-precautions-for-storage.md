@@ -2,4 +2,4 @@
 
 Store in a refrigerator (2°C - 8°C).
 Do not freeze.
-Keep the pre-filled syringes in the outer carton in order to protect from light.
+Keep the pre-filled pen or the pre-filled syringe(s) in the outer carton in order to protect from light.

@@ -4,10 +4,17 @@ Skyrizi is intended for use under the guidance and supervision of a physician ex
 
 Posology
 
+Skyrizi 150 mg solution for injection in pre-filled pen and pre-filled syringe
+
+The recommended dose is 150 mg administered as a subcutaneous injection at week 0, week 4, and every 12 weeks thereafter.
+
+Skyrizi 75 mg solution for injection in pre-filled syringe
+
 The recommended dose is 150 mg (two 75 mg injections) administered by subcutaneous injection at week 0, week 4, and every 12 weeks thereafter.
 
 Consideration should be given to discontinuing treatment in patients who have shown no response after 16 weeks of treatment.
 Some patients with initial partial response may subsequently improve with continued treatment beyond 16 weeks.
+
 Missed dose
 
 If a dose is missed, the dose should be administered as soon as possible.
@@ -39,8 +46,15 @@ No dose adjustment is required (see section 5.2).
 Method of administration
 
 Skyrizi is administered by subcutaneous injection.
-For each dose, the injections should be administered at different anatomic locations (such as thighs or abdomen), and not into areas where the skin is tender, bruised, erythematous, indurated or affected by psoriasis.
-Administration of Skyrizi in the upper, outer arm may only be performed by a healthcare professional or caregiver.
+The injection should be administered in the thigh or abdomen.
+Patients should not inject into areas where the skin is tender, bruised, erythematous, indurated or affected by psoriasis.
 
 Patients may self-inject Skyrizi after training in subcutaneous injection technique.
-Patients should be instructed to inject 2 pre-filled syringes for the full 150 mg dose and to read the ‘Instructions for use’ provided in the package leaflet before administration.
+Patients should be instructed to read the ‘Instructions for use’ provided in the package leaflet before administration.
+
+Administration of Skyrizi in the upper, outer arm may only be performed by a healthcare professional or caregiver.
+
+Skyrizi 75 mg solution for injection in pre-filled syringe
+
+Two pre-filled syringes should be injected for the full 150 mg dose.
+The two injections should be administered at different anatomic locations.

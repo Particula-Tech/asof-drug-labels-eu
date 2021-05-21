@@ -12,10 +12,9 @@ Pharmacodynamic effects
 
 In a study of subjects with psoriasis, expression of genes associated with the IL-23/IL-17 axis was decreased in the skin after single doses of risankizumab.
 Reductions in epidermal thickness, infiltration of inflammatory cells, and expression of psoriatic disease markers were also observed in psoriatic lesions.
-
 Clinical efficacy and safety
 
-The efficacy and safety of risankizumab was assessed in 2,109 subjects with moderate to severe plaque psoriasis in four multicentre, randomised, double-blind studies (ULTIMMA-1, ULTIMMA-2, IMMHANCE, and IMMVENT).
+The efficacy and safety of risankizumab was assessed in 2 109 subjects with moderate to severe plaque psoriasis in four multicentre, randomised, double-blind studies (ULTIMMA-1, ULTIMMA-2, IMMHANCE, and IMMVENT).
 Enrolled subjects were 18 years of age and older with plaque psoriasis who had a body surface area (BSA) involvement of ≥10%, a static Physician Global Assessment (sPGA) score of ≥3 in the overall assessment (plaque thickness/induration, erythema, and scaling) of psoriasis on a severity scale of 0 to 4, a Psoriasis Area and Severity Index (PASI) score
 ≥12, and who were candidates for systemic therapy or phototherapy.
 
@@ -23,7 +22,7 @@ Overall, subjects had a median baseline PASI score of 17.8, a median BSA of 20.0
 Baseline sPGA score was severe in 19.3% of subjects and moderate in 80.7% of subjects.
 A total of 9.8% of study subjects had a history of diagnosed psoriatic arthritis.
 
-Across all studies, 30.9% of subjects were naïve to any systemic therapy (including non-biologic and biologic), 38.1% had received prior phototherapy or photochemotherapy, 48.3% had received prior non‐biologic systemic therapy, 42.1% had received prior biologic therapy, and 23.7% had received at least one anti-TNF alpha agent for the treatment of psoriasis.
+Across all studies, 30.9% of subjects were naïve to any systemic therapy (including non-biologic and biologic), 38.1% had received prior phototherapy or photochemotherapy, 48.3% had received prior non-biologic systemic therapy, 42.1% had received prior biologic therapy, and 23.7% had received at least one anti-TNF alpha agent for the treatment of psoriasis.
 
 ULTIMMA-1 and ULTIMMA-2
 

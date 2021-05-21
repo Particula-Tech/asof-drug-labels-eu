@@ -1,7 +1,7 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Risankizumab is not expected to undergo metabolism by hepatic enzymes or renal elimination.
-Drug interactions between risankizumab and inhibitors, inducers, or substrates of drug metabolising enzymes are not expected and no dose adjustment is needed (see section 5.2).
+Interactions between risankizumab and inhibitors, inducers, or substrates of medicinal product metabolising enzymes are not expected and no dose adjustment is needed (see section 5.2).
 
 Concomitant immunosuppressive therapy or phototherapy
 
