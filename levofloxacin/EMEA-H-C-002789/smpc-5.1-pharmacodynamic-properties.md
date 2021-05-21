@@ -1,6 +1,8 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: antibacterials for systemic use, fluoroquinolones ATC code: J01MA12 Mechanism of action
+Pharmacotherapeutic group: antibacterials for systemic use, fluoroquinolones ATC code: J01MA12
+
+Mechanism of action
 
 The mechanism of action of levofloxacin and other fluoroquinolone antimicrobials involves inhibition of bacterial DNA gyrase and topoisomerase IV enzymes.
 
@@ -31,6 +33,7 @@ All patients had also received a minimum of 3 courses of inhaled anti-pseudomona
 In addition to study drug, patients remained on standard of care treatment for chronic pulmonary infection.
 A total of 259 patients were randomised to Quinsair 240 mg twice daily for 28 days (≥ 18 years, n = 226; ≥ 12 to < 18 years old, n = 33) and 147 were randomised to placebo (≥ 18 years, n = 127; ≥ 12 to < 18 years old, n = 20).
 These two placebo-controlled studies showed that 28 days of treatment with Quinsair 240 mg twice daily resulted in significant improvement in relative change from baseline in FEV1 percent predicted compared to placebo (see Table 1).
+
 Table 1: FEV1 Percent predicted relative change from baseline to Day 28 in placebo-controlled efficacy and safety studies of Quinsair in patients with CF
 
 | FEV1 percent predicted | Supportive studies |  |  |  |
@@ -53,6 +56,7 @@ All patients had also received at least 3 courses of TIS in the 12 months prior 
 In addition to study drug, patients remained on standard of care treatment for chronic pulmonary infection.
 A total of 189 patients were randomised to Quinsair 240 mg twice daily (≥ 18 years, n = 170; ≥ 12 to < 18 years old, n = 19) and 93 were randomised to TIS (≥ 18 years, n = 84; ≥ 12 to < 18 years old, n = 9).
 Results obtained for the primary and key secondary endpoints are provided in Table 2.
+
 Table 2: Results for the primary and key secondary endpoints in the active-controlled efficacy and safety study of Quinsair in patients with CF
 
 | Parameter | Pivotal Study – Study 209 (Core Phase; ITT) |  |  |

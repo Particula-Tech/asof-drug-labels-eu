@@ -38,6 +38,5 @@ The half-life of ciclosporin was increased by 33% when coadministered with levof
 Vitamin K antagonists
 Increased coagulation tests (PT/INR) and/or bleeding, which may be severe, have been reported in patients treated with levofloxacin in combination with a vitamin K antagonist (e.g. warfarin).
 Coagulation tests, therefore, should be monitored in patients treated with vitamin K antagonists (see section 4.4).
-
 Active substances known to prolong the QT interval
 Levofloxacin should be used with caution in patients receiving active substances known to prolong the QT interval (e.g. Class IA and III antiarrhythmics, tricyclic antidepressants, macrolides, antipsychotics).

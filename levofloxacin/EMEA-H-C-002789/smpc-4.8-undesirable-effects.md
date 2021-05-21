@@ -20,16 +20,19 @@ The frequency categories are defined using the following convention: very common
 | Nervous system disorders1 | Dysgeusia | Headache, Dizziness* | Hyposmia*, Somnolence*, Peripheral neuropathy |
 | Eye disorders1 |  |  | Visual disturbance* |
 | Ear and labyrinth disorders1 |  | Tinnitus* | Hearing loss* |
-| Cardiac disorders |  |  | Tachycardia* |
-| Respiratory, thoracic and mediastinal disorders | Cough/productive cough, Dyspnoea, Changes in bronchial secretions (volume and viscosity)*, Haemoptysis* | Dysphonia | Bronchospasm**, Bronchial hyper-reactivity, Obstructive airways disorder |
+| Cardiac disorders** |  |  | Tachycardia* |
+| Respiratory, thoracic and mediastinal disorders | Cough/productive cough, Dyspnoea, Changes in bronchial secretions (volume and viscosity)*, Haemoptysis* | Dysphonia | Bronchospasm***, Bronchial hyper-reactivity, Obstructive airways disorder |
 | Gastrointestinal disorders |  | Nausea, Vomiting, Abdominal pain*, Diarrhoea*, Constipation* | Retching, Dyspepsia*, Flatulence* |
 | Hepatobiliary disorders |  |  | Hepatitis*, Hyperbilirubinaemia* |
 | Skin and subcutaneous tissue disorders |  | Rash | Urticaria*, Pruritus* |
 | Musculoskeletal and connective tissue disorders1 |  | Arthralgia, Myalgia* | Tendinitis, Costochondritis, Joint stiffness |
 | Renal and urinary disorders |  |  | Renal failure* |
 | General disorders and administration site conditions1 | Fatigue/asthenia, Exercise tolerance decreased | Pyrexia |  |
+
+| System organ class | Very common | Common | Uncommon |
+| --- | --- | --- | --- |
 | Investigations | Forced expiratory volume decreased* | Alanine aminotransferase increased, Aspartate aminotransferase increased, Pulmonary function test decreased*, Blood glucose increased and decreased*, Blood creatinine increased*, Breath sounds abnormal* | Liver function test abnormal, Blood alkaline phosphatase increased*, Electrocardiogram QT prolonged*, Eosinophil count increased*, Platelet count decreased* |
-| 1 Very rare cases of prolonged (up to months or years), disabling and potentially irreversible serious drug reactions affecting several, sometimes multiple, system organ classes and senses (including reactions such as tendonitis, tendon rupture, arthralgia, pain in extremities, gait disturbance, depression, fatigue, memory impairment, sleep disorders, and impairment of hearing, vision, taste and smell) have been reported in association with the use of quinolones and fluoroquinolones in some cases irrespective of pre-existing risk factors (see section 4.4). * Adverse events with uncertain relatedness to Quinsair but which are known to be associated with systemic administration of levofloxacin and/or are plausibly associated with Quinsair and were reported more frequently than with placebo in clinical studies. ** See paragraph below for further details. |  |  |  |
+| 1 Very rare cases of prolonged (up to months or years), disabling and potentially irreversible serious drug reactions affecting several, sometimes multiple, system organ classes and senses (including reactions such as tendonitis, tendon rupture, arthralgia, pain in extremities, gait disturbance, depression, fatigue, memory impairment, sleep disorders, and impairment of hearing, vision, taste and smell) have been reported in association with the use of quinolones and fluoroquinolones in some cases irrespective of pre-existing risk factors (see section 4.4). * Adverse events with uncertain relatedness to Quinsair but which are known to be associated with systemic administration of levofloxacin and/or are plausibly associated with Quinsair and were reported more frequently than with placebo in clinical studies. ** Cases of aortic aneurysm and dissection, sometimes complicated by rapture (including fatal ones), and of regurgitation/incompetence of any of the heart valves have been reported in patients receiving fluoroquinolones (see section 4.4). *** See paragraph below for further details. |  |  |  |
 
 Tabulated list of additional adverse reactions reported following systemic administration of levofloxacin
 
@@ -47,14 +50,14 @@ The frequency categories are defined using the following convention: very common
 | Nervous system disorders1 | Tremor | Convulsion, Paraesthesia | Peripheral sensory neuropathy, Peripheral sensory motor neuropathy, Dyskinesia, Extrapyramidal disorder, Syncope, Benign intracranial hypertension |
 | Eye disorders1 |  |  | Transient vision loss |
 | Ear and labyrinth disorders1 | Vertigo |  |  |
-| Cardiac disorders |  | Palpitation | Ventricular tachycardia, Ventricular arrhythmia and torsade de pointes |
-| Vascular disorders |  | Hypotension |  |
+| Cardiac disorders** |  | Palpitation | Ventricular tachycardia, Ventricular arrhythmia and torsade de pointes |
+| Vascular disorders** |  | Hypotension |  |
 | Respiratory, thoracic and mediastinal disorders |  |  | Pneumonitis allergic |
 | Hepatobiliary disorders |  |  | Jaundice and severe liver injury, including cases with fatal acute liver failure |
 | Skin and subcutaneous tissue disorders | Hyperhidrosis | Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), Fixed drug eruption | Toxic epidermal necrolysis, Stevens-Johnson syndrome, Erythema multiforme, Photosensitivity reaction, Leukocytoclastic vasculitis, Stomatitis |
 | Musculoskeletal and connective tissue disorders1 |  | Muscular weakness | Rhabdomyolysis, Tendon rupture, Ligament rupture, Muscle rupture, Arthritis |
 | General disorders and administration site conditions1 |  |  | Pain (including pain in back, chest and extremities) |
-| * See paragraph below for further details. 1 Very rare cases of prolonged (up to months or years), disabling and potentially irreversible serious drug reactions affecting several, sometimes multiple, system organ classes and senses (including reactions such as tendonitis, tendon rupture, arthralgia, pain in extremities, gait disturbance, neuropathies associated with paraesthesia, depression, fatigue, memory impairment, sleep disorders, and impairment of hearing, vision, taste and smell) have been reported in association with the use of quinolones and fluoroquinolones in some cases irrespective of pre-existing risk factors (see section 4.4). |  |  |  |
+| * See paragraph below for further details. 1 Very rare cases of prolonged (up to months or years), disabling and potentially irreversible serious drug reactions affecting several, sometimes multiple, system organ classes and senses (including reactions such as tendonitis, tendon rupture, arthralgia, pain in extremities, gait disturbance, neuropathies associated with paraesthesia, depression, fatigue, memory impairment, sleep disorders, and impairment of hearing, vision, taste and smell) have been reported in association with the use of quinolones and fluoroquinolones in some cases irrespective of pre-existing risk factors (see section 4.4). ** Cases of aortic aneurysm and dissection, sometimes complicated by rapture (including fatal ones), and of regurgitation/incompetence of any of the heart valves have been reported in patients receiving fluoroquinolones (see section 4.4) |  |  |  |
 
 Description of selected adverse reactions
 
@@ -74,4 +77,6 @@ Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
+
+listed in Appendix V.

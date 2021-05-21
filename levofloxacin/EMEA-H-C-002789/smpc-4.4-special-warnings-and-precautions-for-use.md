@@ -109,10 +109,22 @@ It may be necessary to confirm positive opiate screens by more specific methods.
 
 Levofloxacin may inhibit the growth of Mycobacterium tuberculosis and, therefore, may give false-negative results in the bacteriological diagnosis of tuberculosis.
 
-Epidemiologic studies report an increased risk of aortic aneurysm and dissection after intake of fluoroquinolones, particularly in the older population.
+Aortic aneurysm and dissection, and heart valve regurgitation/incompetence
 
-Therefore, fluoroquinolones should only be used after careful benefit-risk assessment and after consideration of other therapeutic options in patients with positive family history of aneurysm disease, or in patients diagnosed with pre-existing aortic aneurysm and/or aortic dissection, or in presence of other risk factors or conditions predisposing for aortic aneurysm and dissection (e.g. Marfan syndrome, vascular Ehlers-Danlos syndrome, Takayasu arteritis, giant cell arteritis, Behcet’s disease, hypertension, known atherosclerosis).
+Epidemiologic studies report an increased risk of aortic aneurysm and dissection, particularly in elderly patients, and of aortic and mitral valve regurgitation after intake of fluoroquinolones.
+Cases of aortic aneurysm and dissection, sometimes complicated by rapture (including fatal ones), and of regurgitation/incompetence of any of the heart valves have been reported in patients receiving fluoroquinolones (see section 4.8).
+
+Therefore, fluoroquinolones should only be used after careful benefit-risk assessment and after consideration of other therapeutic options in patients with positive family history of aneurysm disease or congenital heart valve disease, or in patients diagnosed with pre-existing aortic aneurysm and/or aortic dissection or heart valve disease, or in presence of other risk factors or conditions predisposing
+
+- for both aortic aneurysm and dissection and heart valve regurgitation/incompetence (e.g. connective tissue disorders such as Marfan syndrome or Ehlers-Danlos syndrome, Turner syndrome, Behcet’s disease, hypertension, rheumatoid arthritis) or additionally
+- for aortic aneurysm and dissection (e.g. vascular disorders such as Takayasu arteritis or giant cell arteritis, or known atherosclerosis, or Sjögren’s syndrome) or additionally
+- for heart valve regurgitation/incompetence (e.g. infective endocarditis).
+
+The risk of aortic aneurysm and dissection, and their rapture may also be increased in patients treated concurrently with systemic corticosteroids.
+
 In case of sudden abdominal, chest or back pain, patients should be advised to immediately consult a physician in an emergency department.
+
+Patients should be advised to seek immediate medical attention in case of acute dyspnoea, new onset of heart palpitations, or development of oedema of the abdomen or lower extremities.
 
 Prolonged, disabling and potentially irreversible serious adverse drug reactions
 
