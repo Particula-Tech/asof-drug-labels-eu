@@ -2,10 +2,6 @@
 
 PVC/aluminium blisters
 
-Glivec 50 mg hard capsules
-Packs containing 30 capsules.
-
-Glivec 100 mg hard capsules
 Packs containing 24, 48, 96, 120 and 180 capsules.
 
 Not all pack sizes may be marketed.

@@ -10,6 +10,7 @@ Glivec is indicated for the treatment of
 - adult patients with advanced hypereosinophilic syndrome (HES) and/or chronic eosinophilic leukaemia (CEL) with FIP1L1-PDGFRα rearrangement.
 
 The effect of Glivec on the outcome of bone marrow transplantation has not been determined.
+
 Glivec is indicated for
 
 - the treatment of adult patients with Kit (CD 117) positive unresectable and/or metastatic malignant gastrointestinal stromal tumours (GIST).

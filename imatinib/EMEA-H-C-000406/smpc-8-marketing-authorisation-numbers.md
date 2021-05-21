@@ -1,9 +1,5 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
-Glivec 50 mg hard capsules
-EU/1/01/198/001
-
-Glivec 100 mg hard capsules
 EU/1/01/198/002-006
 
 [Glivec 100 mg film-coated tablets]

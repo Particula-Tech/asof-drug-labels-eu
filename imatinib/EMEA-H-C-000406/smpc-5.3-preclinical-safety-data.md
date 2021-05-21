@@ -27,9 +27,7 @@ This was not seen at doses ≤ 20 mg/kg.
 A slight to moderate reduction in spermatogenesis was also observed in the dog at oral doses ≥ 30 mg/kg.
 When female rats were dosed 14 days prior to mating and through to gestational day 6, there was no effect on mating or on number of pregnant females.
 At a dose of 60 mg/kg, female rats had significant post-implantation foetal loss and a reduced number of live foetuses.
-This was not seen at doses
-≤ 20 mg/kg.
-
+This was not seen at doses ≤ 20 mg/kg.
 In an oral pre- and postnatal development study in rats, red vaginal discharge was noted in the 45 mg/kg/day group on either day 14 or day 15 of gestation.
 At the same dose, the number of stillborn pups as well as those dying between postpartum days 0 and 4 was increased.
 In the F1 offspring, at the same dose level, mean body weights were reduced from birth until terminal sacrifice and the number of litters achieving criterion for preputial separation was slightly decreased.
@@ -43,6 +41,7 @@ These effects were not seen at doses ≤ 30 mg/kg.
 No new target organs were identified in the rat juvenile development toxicology study (day 10 to 70 postpartum) with respect to the known target organs in adult rats.
 In the juvenile toxicology study, effects upon growth, delay in vaginal opening and preputial separation were observed at approximately 0.3 to 2 times the average paediatric exposure at the highest recommended dose of 340 mg/m2.
 In addition, mortality was observed in juvenile animals (around weaning phase) at approximately 2 times the average paediatric exposure at the highest recommended dose of 340 mg/m2.
+
 In the 2-year rat carcinogenicity study administration of imatinib at 15, 30 and 60 mg/kg/day resulted in a statistically significant reduction in the longevity of males at 60 mg/kg/day and females at
 ≥30 mg/kg/day.
 Histopathological examination of decedents revealed cardiomyopathy (both sexes), chronic progressive nephropathy (females) and preputial gland papilloma as principal causes of death or reasons for sacrifice.

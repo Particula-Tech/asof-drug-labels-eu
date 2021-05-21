@@ -7,8 +7,7 @@ In GIST the study drug was discontinued for drug-related adverse reactions in 4%
 
 The adverse reactions were similar in all indications, with two exceptions.
 There was more myelosuppression seen in CML patients than in GIST, which is probably due to the underlying disease.
-In the study in patients with unresectable and/or metastatic GIST, 7 (5%) patients experienced CTC grade 3/4 GI bleeds (3 patients), intra-tumoural bleeds (3 patients) or both
-(1 patient).
+In the study in patients with unresectable and/or metastatic GIST, 7 (5%) patients experienced CTC grade 3/4 GI bleeds (3 patients), intra-tumoural bleeds (3 patients) or both (1 patient).
 GI tumour sites may have been the source of the GI bleeds (see section 4.4).
 GI and tumoural bleeding may be serious and sometimes fatal.
 The most commonly reported (≥ 10%) drug-related adverse reactions in both settings were mild nausea, vomiting, diarrhoea, abdominal pain, fatigue, myalgia, muscle cramps and rash.
@@ -30,7 +29,6 @@ Frequency categories are defined using the following convention: very common
 (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, undesirable effects are presented in order of frequency, the most frequent first.
-
 Adverse reactions and their frequencies are reported in Table 1.
 
 Table 1 Tabulated summary of adverse reactions
@@ -116,9 +114,7 @@ Table 1 Tabulated summary of adverse reactions
 | Very common: | Fluid retention and oedema, fatigue |
 | Common: | Weakness, pyrexia, anasarca, chills, rigors |
 | Uncommon: | Chest pain, malaise |
-
 | Investigations |  |
-| --- | --- |
 | Very common: | Weight increased |
 | Common: | Weight decreased |
 | Uncommon: | Blood creatinine increased, blood creatine phosphokinase increased, blood lactate dehydrogenase increased, blood alkaline phosphatase increased |
@@ -171,92 +167,3 @@ Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system. listed in Appendix V.
-
-[Glivec 100 mg film-coated tablets]
-
-| Infections and infestations |  |
-| --- | --- |
-| Uncommon: | Herpes zoster, herpes simplex, nasopharyngitis, pneumonia1, sinusitis, cellulitis, upper respiratory tract infection, influenza, urinary tract infection, gastroenteritis, sepsis |
-| Rare: | Fungal infection |
-| Not known: | Hepatitis B reactivation* |
-| Neoplasm benign, malignant and unspecified (including cysts and polyps) |  |
-| Rare: | Tumour lysis syndrome |
-| Not known: | Tumour haemorrhage/tumour necrosis* |
-| Immune system disorders |  |
-| Not known: | Anaphylactic shock* |
-| Blood and lymphatic system disorders |  |
-| Very common: | Neutropenia, thrombocytopenia, anaemia |
-| Common: | Pancytopenia, febrile neutropenia |
-| Uncommon: | Thrombocythaemia, lymphopenia, bone marrow depression, eosinophilia, lymphadenopathy |
-| Rare: | Haemolytic anaemia, thrombotic microangiopathy |
-| Metabolism and nutrition disorders |  |
-| Common: | Anorexia |
-| Uncommon: | Hypokalaemia, increased appetite, hypophosphataemia, decreased appetite, dehydration, gout, hyperuricaemia, hypercalcaemia, hyperglycaemia, hyponatraemia |
-| Rare: | Hyperkalaemia, hypomagnesaemia |
-| Psychiatric disorders |  |
-| Common: | Insomnia |
-| Uncommon: | Depression, libido decreased, anxiety |
-| Rare: | Confusional state |
-| Nervous system disorders |  |
-| Very common: | Headache2 |
-| Common: | Dizziness, paraesthesia, taste disturbance, hypoaesthesia |
-| Uncommon: | Migraine, somnolence, syncope, peripheral neuropathy, memory impairment, sciatica, restless leg syndrome, tremor, cerebral haemorrhage |
-| Rare: | Increased intracranial pressure, convulsions, optic neuritis |
-| Not known: | Cerebral oedema* |
-| Eye disorders |  |
-| Common: | Eyelid oedema, lacrimation increased, conjunctival haemorrhage, conjunctivitis, dry eye, blurred vision |
-| Uncommon: | Eye irritation, eye pain, orbital oedema, scleral haemorrhage, retinal haemorrhage, blepharitis, macular oedema |
-| Rare: | Cataract, glaucoma, papilloedema |
-| Not known: | Vitreous haemorrhage* |
-| Ear and labyrinth disorders |  |
-| Uncommon: | Vertigo, tinnitus, hearing loss |
-| Cardiac disorders |  |
-| Uncommon: | Palpitations, tachycardia, cardiac failure congestive3, pulmonary oedema |
-| Rare: | Arrhythmia, atrial fibrillation, cardiac arrest, myocardial infarction, angina pectoris, pericardial effusion |
-| Not known: | Pericarditis*, cardiac tamponade* |
-| Vascular disorders4 |  |
-| Common: | Flushing, haemorrhage |
-| Uncommon: | Hypertension, haematoma, subdural haematoma, peripheral coldness, hypotension, Raynaud’s phenomenon |
-| Not known: | Thrombosis/embolism* |
-| Respiratory, thoracic and mediastinal disorders |  |
-| Common: | Dyspnoea, epistaxis, cough |
-| Uncommon: | Pleural effusion5, pharyngolaryngeal pain, pharyngitis |
-| Rare: | Pleuritic pain, pulmonary fibrosis, pulmonary hypertension, pulmonary haemorrhage |
-| Not known: | Acute respiratory failure11*, interstitial lung disease* |
-| Gastrointestinal disorders |  |
-| Very common: | Nausea, diarrhoea, vomiting, dyspepsia, abdominal pain6 |
-| Common: | Flatulence, abdominal distension, gastro-oesophageal reflux, constipation, dry mouth, gastritis |
-| Uncommon: | Stomatitis, mouth ulceration, gastrointestinal haemorrhage7, eructation, melaena, oesophagitis, ascites, gastric ulcer, haematemesis, cheilitis, dysphagia, pancreatitis |
-| Rare: | Colitis, ileus, inflammatory bowel disease |
-| Not known: | Ileus/intestinal obstruction*, gastrointestinal perforation*, diverticulitis*, gastric antral vascular ectasia (GAVE)* |
-| Hepatobiliary disorders |  |
-| Common: | Increased hepatic enzymes |
-| Uncommon: | Hyperbilirubinaemia, hepatitis, jaundice |
-| Rare: | Hepatic failure8, hepatic necrosis |
-| Skin and subcutaneous tissue disorders |  |
-| Very common: | Periorbital oedema, dermatitis/eczema/rash |
-| Common: | Pruritus, face oedema, dry skin, erythema, alopecia, night sweats, photosensitivity reaction |
-| Uncommon: | Rash pustular, contusion, sweating increased, urticaria, ecchymosis, increased tendency to bruise, hypotrichosis, skin hypopigmentation, dermatitis exfoliative, onychoclasis, folliculitis, petechiae, psoriasis, purpura, skin hyperpigmentation, bullous eruptions |
-| Rare: | Acute febrile neutrophilic dermatosis (Sweet’s syndrome), nail discolouration, angioneurotic oedema, rash vesicular, erythema multiforme, leucocytoclastic vasculitis, Stevens-Johnson syndrome, acute generalised exanthematous pustulosis (AGEP) |
-| Not known: | Palmoplantar erythrodysesthesia syndrome*, lichenoid keratosis*, lichen planus*, toxic epidermal necrolysis*, drug rash with eosinophilia and systemic symptoms (DRESS)*, pseudoporphyria* |
-| Musculoskeletal and connective tissue disorders |  |
-| Very common: | Muscle spasm and cramps, musculoskeletal pain including myalgia9, arthralgia, bone pain10 |
-| Common: | Joint swelling |
-| Uncommon: | Joint and muscle stiffness |
-| Rare: | Muscular weakness, arthritis, rhabdomyolysis/myopathy |
-| Not known: | Avascular necrosis/hip necrosis*, growth retardation in children* |
-| Renal and urinary disorders |  |
-| Uncommon: | Renal pain, haematuria, renal failure acute, urinary frequency increased |
-| Not known: | Renal failure chronic |
-| Reproductive system and breast disorders |  |
-| Uncommon: | Gynaecomastia, erectile dysfunction, menorrhagia, menstruation irregular, sexual dysfunction, nipple pain, breast enlargement, scrotal oedema |
-| Rare: | Haemorrhagic corpus luteum/haemorrhagic ovarian cyst |
-| General disorders and administration site conditions |  |
-| Very common: | Fluid retention and oedema, fatigue |
-| Common: | Weakness, pyrexia, anasarca, chills, rigors |
-| Uncommon: | Chest pain, malaise |
-| Investigations |  |
-| Very common: | Weight increased |
-| Common: | Weight decreased |
-| Uncommon: | Blood creatinine increased, blood creatine phosphokinase increased, blood lactate dehydrogenase increased, blood alkaline phosphatase increased |
-| Rare: | Blood amylase increased |

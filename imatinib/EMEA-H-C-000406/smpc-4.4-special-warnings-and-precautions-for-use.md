@@ -5,7 +5,6 @@ Caution should be used when taking Glivec with protease inhibitors, azole antifu
 
 Concomitant use of imatinib and medicinal products that induce CYP3A4 (e.g. dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital or Hypericum perforatum, also known as St. John’s Wort) may significantly reduce exposure to Glivec, potentially increasing the risk of therapeutic failure.
 Therefore, concomitant use of strong CYP3A4 inducers and imatinib should be avoided (see section 4.5).
-
 Hypothyroidism
 Clinical cases of hypothyroidism have been reported in thyroidectomy patients undergoing levothyroxine replacement during treatment with Glivec (see section 4.5).
 Thyroid-stimulating hormone (TSH) levels should be closely monitored in such patients.
@@ -14,6 +13,7 @@ Hepatotoxicity
 Metabolism of Glivec is mainly hepatic, and only 13% of excretion is through the kidneys.
 In patients with hepatic dysfunction (mild, moderate or severe), peripheral blood counts and liver enzymes should be carefully monitored (see sections 4.2, 4.8 and 5.2).
 It should be noted that GIST patients may have hepatic metastases which could lead to hepatic impairment.
+
 Cases of liver injury, including hepatic failure and hepatic necrosis, have been observed with imatinib.
 When imatinib is combined with high dose chemotherapy regimens, an increase in serious hepatic reactions has been detected.
 Hepatic function should be carefully monitored in circumstances where imatinib is combined with chemotherapy regimens also known to be associated with hepatic dysfunction (see section 4.5 and 4.8).
@@ -40,12 +40,12 @@ Gastrointestinal haemorrhage
 In the study in patients with unresectable and/or metastatic GIST, both gastrointestinal and intra-tumoural haemorrhages were reported (see section 4.8).
 Based on the available data, no predisposing factors (e.g. tumour size, tumour location, coagulation disorders) have been identified that place patients with GIST at a higher risk of either type of haemorrhage.
 Since increased vascularity and propensity for bleeding is a part of the nature and clinical course of GIST, standard practices and procedures for the monitoring and management of haemorrhage in all patients should be applied.
-
 In addition, gastric antral vascular ectasia (GAVE), a rare cause of gastrointestinal haemorrhage, has been reported in post-marketing experience in patients with CML, ALL and other diseases (see section 4.8).
 When needed, discontinuation of Glivec treatment may be considered.
 
 Tumour lysis syndrome
 Due to the possible occurrence of tumour lysis syndrome (TLS), correction of clinically significant dehydration and treatment of high uric acid levels are recommended prior to initiation of Glivec (see section 4.8).
+
 Hepatitis B reactivation
 Reactivation of hepatitis B in patients who are chronic carriers of this virus has occurred after these patients received BCR-ABL tyrosine kinase inhibitors.
 Some cases resulted in acute hepatic failure or fulminant hepatitis leading to liver transplantation or a fatal outcome.
@@ -79,7 +79,6 @@ The dose can be reduced if not tolerated (see section 4.2 and 5.2).
 Long-term treatment with imatinib may be associated with a clinically significant decline in renal function.
 Renal function should, therefore, be evaluated prior to the start of imatinib therapy and closely monitored during therapy, with particular attention to those patients exhibiting risk factors for renal dysfunction.
 If renal dysfunction is observed, appropriate management and treatment should be prescribed in accordance with standard treatment guidelines.
-
 Paediatric population
 There have been case reports of growth retardation occurring in children and pre-adolescents receiving imatinib.
 In an observational study in the CML paediatric population, a statistically significant decrease (but of uncertain clinical relevance) in median height standard deviation scores after 12 and 24 months of treatment was reported in two small subsets irrespective of pubertal status or gender.

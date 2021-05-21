@@ -23,7 +23,6 @@ The remaining circulating radioactivity consisted of a number of minor metabolit
 
 The in vitro results showed that CYP3A4 was the major human P450 enzyme catalysing the biotransformation of imatinib.
 Of a panel of potential comedications (acetaminophen, aciclovir, allopurinol, amphotericin, cytarabine, erythromycin, fluconazole, hydroxyurea, norfloxacin, penicillin V) only erythromycin (IC50 50 µM) and fluconazole (IC50 118 µM) showed inhibition of imatinib metabolism which could have clinical relevance.
-
 Imatinib was shown in vitro to be a competitive inhibitor of marker substrates for CYP2C9, CYP2D6 and CYP3A4/5.
 Ki values in human liver microsomes were 27, 7.5 and 7.9 μmol/l, respectively.
 Maximal plasma concentrations of imatinib in patients are 2–4 μmol/l, consequently an inhibition of CYP2D6 and/or CYP3A4/5-mediated metabolism of co-administered drugs is possible.
@@ -38,6 +37,7 @@ Plasma pharmacokinetics
 Following oral administration in healthy volunteers, the t½ was approximately 18 h, suggesting that once-daily dosing is appropriate.
 The increase in mean AUC with increasing dose was linear and dose proportional in the range of 25–1,000 mg imatinib after oral administration.
 There was no change in the kinetics of imatinib on repeated dosing, and accumulation was 1.5–2.5-fold at steady state when dosed once daily.
+
 Pharmacokinetics in GIST patients
 In patients with GIST steady-state exposure was 1.5-fold higher than that observed for CML patients for the same dosage (400 mg daily).
 Based on preliminary population pharmacokinetic analysis in GIST patients, there were three variables (albumin, WBC and bilirubin) found to have a statistically significant relationship with imatinib pharmacokinetics.
@@ -60,7 +60,6 @@ The comparison of AUC(0-24) on day 8 and day 1 at the 340 mg/m2/day dose level r
 Based on pooled population pharmacokinetic analysis in paediatric patients with haematological disorders (CML, Ph+ALL, or other haematological disorders treated with imatinib), clearance of imatinib increases with increasing body surface area (BSA).
 After correcting for the BSA effect, other demographics such as age, body weight and body mass index did not have clinically significant effects on the exposure of imatinib.
 The analysis confirmed that exposure of imatinib in paediatric patients receiving 260 mg/m2 once daily (not exceeding 400 mg once daily) or 340 mg/m2 once daily (not exceeding 600 mg once daily) were similar to those in adult patients who received imatinib 400 mg or 600 mg once daily.
-
 Organ function impairment
 Imatinib and its metabolites are not excreted via the kidney to a significant extent.
 Patients with mild and moderate impairment of renal function appear to have a higher plasma exposure than patients with normal renal function.
