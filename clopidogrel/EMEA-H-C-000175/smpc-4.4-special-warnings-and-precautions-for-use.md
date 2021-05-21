@@ -12,10 +12,12 @@ Clopidogrel prolongs bleeding time and should be used with caution in patients w
 
 Patients should be told that it might take longer than usual to stop bleeding when they take clopidogrel (alone or in combination with ASA), and that they should report any unusual bleeding (site or duration) to their physician.
 
+The use of clopidogrel 600 mg loading dose is not recommended in patients with non-ST segment elevation acute coronary syndrome and ≥75 years of age due to increased bleeding risk in this population.
 Thrombotic Thrombocytopenic Purpura (TTP)
 Thrombotic Thrombocytopenic Purpura (TTP) has been reported very rarely following the use of clopidogrel, sometimes after a short exposure.
 It is characterised by thrombocytopenia and microangiopathic haemolytic anaemia associated with either neurological findings, renal dysfunction or fever.
 TTP is a potentially fatal condition requiring prompt treatment including plasmapheresis.
+
 Acquired haemophilia
 Acquired haemophilia has been reported following use of clopidogrel.
 In cases of confirmed isolated activated Partial Thromboplastin Time (aPTT) prolongation with or without bleeding, acquired haemophilia should be considered.

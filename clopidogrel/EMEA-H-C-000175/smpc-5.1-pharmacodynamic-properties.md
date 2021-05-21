@@ -152,7 +152,7 @@ The secondary outcome of IS occurred in 112 patients (4.6%) receiving clopidogre
 P = 0.01).
 The primary safety outcome of major hemorrhage occurred in 23 of 2,432 patients (0.9%) receiving clopidogrel plus ASA and in 10 of 2,449 patients (0.4%) receiving ASA alone (HR, 2.32; 95% CI, 1.10 to 4.87; P = 0.02).
 Minor hemorrhage occurred in 40 patients (1.6%) receiving clopidogrel plus ASA and in 13 (0.5%) receiving ASA alone (HR, 3.12; 95% CI, 1.67 to 5.83;
-P = 0.001).
+P < 0.001).
 
 CHANCE and POINT Time Course Analysis
 There was no efficacy benefit of continuing DAPT beyond 21 days.

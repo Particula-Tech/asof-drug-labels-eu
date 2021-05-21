@@ -29,6 +29,7 @@ Consequently, NSAIDs including Cox-2 inhibitors and clopidogrel should be co-adm
 SSRIs: since SSRIs affect platelet activation and increase the risk of bleeding, the concomitant administration of SSRIs with clopidogrel should be undertaken with caution.
 
 Other concomitant therapy:
+
 Inducers of CYP2C19
 Since clopidogrel is metabolised to its active metabolite partly by CYP2C19, use of medicinal products that induce the activity of this enzyme would be expected to result in increased drug levels of the active metabolite of clopidogrel.
 
