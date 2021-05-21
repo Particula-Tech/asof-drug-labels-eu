@@ -3,7 +3,6 @@
 The pharmacokinetics of alpelisib were investigated in patients under an oral dosing regimen ranging from 30 to 450 mg daily.
 Healthy subjects received single oral doses ranging from 300 to 400 mg.
 The pharmcokinetics were comparable in both oncology patients and healthy subjects.
-
 Absorption
 
 Following oral administration of alpelisib, median time to reach peak plasma concentration (Tmax) ranged between 2.0 to 4.0 hours, independent of dose, time or regimen.
@@ -39,11 +38,11 @@ The population-derived half-life, independent of dose and time, was 8 to 9 hours
 In a human mass-balance study, after oral administration, alpelisib and its metabolites were excreted in the faeces (81.0%), mainly through hepatobiliary export and/or intestinal secretion of alpelisib, or metabolised to BZG791.
 Excretion in the urine is minor (13.5%), with unchanged alpelisib (2%).
 Following a single oral dose of [14C]-alpelisib, 94.5% of the total administered radioactive dose was recovered within 8 days.
+
 Linearity/non-linearity
 
 The pharmacokinetics were found to be linear with respect to dose and time under fed conditions between 30 and 450 mg.
 After multiple doses, alpelisib exposure (AUC) at steady state is only slightly higher than that of a single dose, with an average accumulation of 1.3 to 1.5 with a daily dosing regimen.
-
 Metabolic interaction
 
 CYP3A4 substrates
@@ -80,9 +79,9 @@ Race/Ethnicity
 Population pharmacokinetic analyses and pharmacokinetic analyses from a phase I study in Japanese cancer patients showed that there are no clinically relevant effects of ethnicity on the systemic exposure of Piqray.
 
 Non-compartmental pharmacokinetic parameters after single and multiple daily doses of Piqray for Japanese patients were very similar to those reported in the Caucasian population.
+
 Renal impairment
 Based on a population pharmacokinetic analysis that included 117 patients with normal renal function (eGFR ≥90 ml/min/1.73 m2) / (CLcr ≥90 ml/min), 108 patients with mild renal impairment (eGFR 60 to <90 ml/min/1.73 m2)/ (CLcr 60 to <90 ml/min), and 45 patients with moderate renal impairment (eGFR 30 to <60 ml/min/1.73 m2), mild and moderate renal impairment had no effect on the exposure of alpelisib (see section 4.2).
-
 Hepatic impairment
 Based on a pharmacokinetic study in patients with hepatic impairment, moderate and severe hepatic impairment had negligible effect on the exposure of alpelisib (see section 4.2).
 The mean exposure for alpelisib was increased 1.26-fold in patients with severe (GMR: 1.00 for Cmax; 1.26 for AUClast/AUCinf) hepatic impairment.

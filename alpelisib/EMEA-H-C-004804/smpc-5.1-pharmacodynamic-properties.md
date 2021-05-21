@@ -61,22 +61,22 @@ Table 8 Study C2301 - Summary of efficacy results (cohort with PIK3CA mutation)
 | Data using primary analysis data cut-off date of 12 June 2018 |  |  |
 | Median progression free survival (PFS) (months, 95% CI) |  |  |
 | Investigator radiological assessment# |  |  |
-| PIK3CA mutant cohort (N=341) | 11.0 (7.5-14.5) | 5.7 (3.7-7.4) |
-| Hazard ratio (95% CI) | 0.65 (0.50-0.85) |  |
+| PIK3CA mutant cohort (N=341) | 11.0 (7.5 to 14.5) | 5.7 (3.7 to 7.4) |
+| Hazard ratio (95% CI) | 0.65 (0.50 to 0.85) |  |
 | p-valuea | 0.00065 |  |
 | Blinded independent review committee assessment*# |  |  |
-| PIK3CA mutant cohort (N=173) | 11.1 (7.3-16.8) | 3.7 (2.1-5.6) |
-| Hazard ratio (95% CI) | 0.48 (0.32-0.71) |  |
+| PIK3CA mutant cohort (N=173) | 11.1 (7.3 to 16.8) | 3.7 (2.1 to 5.6) |
+| Hazard ratio (95% CI) | 0.48 (0.32 to 0.71) |  |
 | p-value | N/A |  |
 | Data using 2nd interim OS data cut-off date of 30 September 2019 |  |  |
 | Median progression free survival (PFS) (months, 95% CI) |  |  |
 | Investigator radiological assessment# |  |  |
-| PIK3CA mutant cohort (N=341) | 11.0 (7.5-14.5) | 5.7 (3.7-7.4) |
-| Hazard ratio (95% CI) | 0.64 (0.50-0.81) |  |
+| PIK3CA mutant cohort (N=341) | 11.0 (7.5 to 14.5) | 5.7 (3.7 to 7.4) |
+| Hazard ratio (95% CI) | 0.64 (0.50 to 0.81) |  |
 | p-value | N/A |  |
 | Overall survival (OS) (months, 95% CI) |  |  |
 | PIK3CA mutant cohort (N=341) | 40.6 (32.2-NE) | 31.2 (26.8-NE) |
-| Hazard ratio (95% CI) | 0.77 (0.56-1.06) |  |
+| Hazard ratio (95% CI) | 0.77 (0.56 to 1.06) |  |
 | p-valuea | 0.06 |  |
 | CI = confidence interval; N = number of patients; N/A = is not applicable; NE = not evaluable a p-value is obtained from the one-sided stratified log-rank test. # Per RECIST 1.1 * Based on 50% audit-based approach |  |  |
 

@@ -25,10 +25,10 @@ A consultation with a dermatologist is recommended.
 If a severe cutaneous reaction is confirmed, Piqray should be permanently discontinued.
 Piqray should not be re-introduced in patients who have experienced previous severe cutaneous reactions.
 If a severe cutaneous reaction is not confirmed, Piqray may require treatment interruption, dose reduction or treatment discontinuation as described in Table 3 (see section 4.2).
-
 Hyperglycaemia
 
-Severe hyperglycemia, including ketoacidosis, has been reported in patients treated with Piqray.
+Severe hyperglycaemia, in some cases associated with hyperglycaemic hyperosmolar nonketotic syndrome (HHNKS) or ketoacidosis, has been observed in patients treated with Piqray.
+Some cases of ketoacidosis with fatal outcome have been reported in the post-marketing setting.
 
 In the phase III clinical study, hyperglycaemia occurred more frequently in patients who were diabetic (0 out of 12 patients [0%] with grade 1-2, and 10 out of 12 patients [83.3%] with grade 3-4), pre-diabetic (42 out of 159 patients [26.4%] with grade 1-2, and 77 out of 159 patients [48.4%] with grade 3-4), had BMI ≥30 at screening (13 out of 74 patients [17.6%] with grade 1-2, and 38 out of 74 patients [51.4%] with grade 3-4) or ≥75 years of age (6 out of 34 patients [17.6%] with grade 1-2, and 19 out of 34 patients [55.9%] with grade 3-4).
 
@@ -37,21 +37,20 @@ A specific schedule for fasting glucose monitoring is recommended in Table 6.
 
 In the phase III clinical study, patients with a history of diabetes mellitus intensified use of antidiabetic medicinal products while on treatment with Piqray.
 
-All patients should be instructed on lifestyle changes that may reduce hyperglycaemia (e.g. dietary restrictions).
+All patients should be instructed on lifestyle changes that may reduce hyperglycaemia (e.g. dietary restrictions and physical activity).
+
 Table 6 Schedule of fasting glucose monitoring
 
 |  | Recommended schedule for the monitoring of fasting glucose and HbA1c levels in all patients treated with Piqray | Recommended schedule of monitoring of fasting glucose and HbA1c levels in patients with diabetes, pre-diabetes, BMI ≥30 or age ≥75 years treated with Piqray |
 | --- | --- | --- |
 | At screening, before initiating treatment with Piqray | Test for fasting plasma glucose (FPG), HbA1c, and optimise the patient’s level of blood glucose (see Table 2). |  |
-| After initiating treatment with Piqray | Monitor FPG at weeks 1, 2, 4, 6 and 8 after treatment start and monthly thereafter. |  |
+| After initiating Monitor fasting glucose at weeks 1, 2, 4, 6 and 8 after treatment start and treatment with Piqray monthly thereafter. Monitor/self-monitor fasting glucose Monitor/self-monitor fasting glucose regularly, more frequently in the first daily for the first 2 weeks of treatment. 4 weeks and especially within the first Then continue to monitor fasting 2 weeks of treatment, according to the glucose as frequently as needed to instructions of a healthcare manage hyperglycaemia according to professional*. the instructions of a healthcare professional*. HbA1c should be monitored after 4 weeks of treatment and every 3 months thereafter. If hyperglycaemia Monitor fasting glucose regularly, as per local standard of care and at least develops after until fasting glucose decreases to normal levels. initiating treatment with Piqray During treatment with antidiabetic medication, continue monitoring fasting glucose at least once a week for 8 weeks, followed by once every 2 weeks, and monitor fasting glucose according to the instructions of a healthcare professional with expertise in the treatment of hyperglycaemia. | Monitor fasting glucose at weeks 1, 2, 4, 6 and 8 after treatment start and monthly thereafter. |  |
 |  | Monitor/self-monitor fasting glucose regularly, more frequently in the first 4 weeks and especially within the first 2 weeks of treatment, according to the instructions of a healthcare professional*. | Monitor/self-monitor fasting glucose daily for the first 2 weeks of treatment. Then continue to monitor fasting glucose as frequently as needed to manage hyperglycaemia according to the instructions of a healthcare professional*. |
 |  | HbA1c should be monitored after 4 weeks of treatment and every 3 months thereafter. |  |
-| If hyperglycaemia develops after initiating treatment with Piqray | Monitor fasting glucose regularly, as per local standard of care and at least until fasting glucose decreases to normal levels. |  |
-|  | During treatment with antidiabetic medication, continue monitoring fasting glucose at least once a week for 8 weeks, followed by once every 2 weeks, and monitor fasting glucose according to the instructions of a healthcare professional with expertise in the treatment of hyperglycaemia. |  |
+|  | Monitor fasting glucose regularly, as per local standard of care and at least until fasting glucose decreases to normal levels. |  |
 | * All glucose monitoring should be performed at the physician’s discretion as clinically indicated. |  |  |
 
 Patients should be advised of the signs and symptoms of hyperglycaemia (e.g. excessive thirst, urinating more often than usual or greater amount of urine than usual, increased appetite with weight loss).
-
 In the 190 patients with hyperglycaemia, 87.4% (166/190) were managed with antidiabetic medication, and 75.8% (144/190) reported use of metformin as single agent or in combination with other antidiabetic medication (e.g. insulin, dipeptidyl peptidase-4 (DPP-4) inhibitors, SGLT2 inhibitors and sulfonylureas).
 
 Oral antidiabetic medication was used in 154 patients.
@@ -67,6 +66,7 @@ Patients with a medical history of Type 2 diabetes were included.
 Patients with a history of diabetes mellitus may require intensified diabetic treatment and should be closely monitored.
 
 Based on the severity of the hyperglycaemia, Piqray may require dose interruption, reduction or discontinuation as described in Table 2 (see section 4.2).
+
 Pneumonitis
 
 Pneumonitis, including serious cases of pneumonitis/acute interstitial lung disease, have been reported in Piqray-treated patients in clinical studies.
@@ -88,10 +88,9 @@ In the 169 patients who experienced diarrhoea, antidiarrhoeal medications (e.g. 
 Based on the severity of the diarrhoea, Piqray may require dose interruption, reduction or discontinuation as described in Table 4 (see section 4.2).
 
 Patients should be advised to start antidiarrhoeal treatment, increase oral fluids and notify their physician if diarrhoea occurs while taking Piqray.
-
 Osteonecrosis of the jaw
 
-Caution should be exercised when Piqray and bisphosphonates or denosumab are used either simultaneously or sequentially.
+Caution should be exercised when Piqray and bisphosphonates or RANK-ligand inhibitors (e.g. denosumab) are used either simultaneously or sequentially.
 Piqray treatment should not be initiated in patients with ongoing osteonecrosis of the jaw from previous or concurrent treatment with bisphosphonates/denosumab.
 Patients should be advised to promptly report any new or worsening oral symptoms (such as dental mobility, pain or swelling, non-healing of mouth sores, or discharge) during treatment with Piqray.
 

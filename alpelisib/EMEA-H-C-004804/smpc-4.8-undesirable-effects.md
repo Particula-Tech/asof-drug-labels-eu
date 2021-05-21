@@ -37,6 +37,7 @@ Table 7 ADRs observed in phase III clinical study and during post-marketing expe
 | Magnesium decreased | Very common | 34 (12.0) | 1 (0.4) |
 | Dehydration | Common | 10 (3.5) | 1 (0.4)* |
 | Ketoacidosis3 | Uncommon | 2 (0.7) | 2 (0.7) |
+| Hyperglycaemic hyperosmolar nonketotic syndrome (HHNKS) # | Not known | Not known | Not known |
 | Psychiatric disorders |  |  |  |
 | Insomnia | Common | 22 (7.7) |  |
 | Nervous system disorders |  |  |  |
@@ -95,7 +96,7 @@ Table 7 ADRs observed in phase III clinical study and during post-marketing expe
 | Activated partial thromboplastin time (aPTT) prolonged | Very common | 63 (22.2) | 2 (0.7) |
 | Albumin decreased | Very common | 41 (14.4) | 1 (0.4) |
 | Glycosylated haemoglobin increased | Common | 8 (2.8) | 0 |
-| * No grade 4 ADRs were observed # Adverse reactions reported during post-marketing experience. These are derived from spontaneous reports for which it is not always possible to reliably establish frequency or a causal relationship to exposure to the medicinal product. 1 Urinary tract infection: also includes a single case of urosepsis 2 Hypersensitivity: also includes allergic dermatitis 3 Ketoacidosis: also includes diabetic ketoacidosis 4 Dysgeusia: also includes ageusia, hypogeusia 5 Pneumonitis: also includes interstitial lung disease 6 Stomatitis: also includes aphthous ulcer and mouth ulceration 7 Rash: also includes rash maculopapular, rash macular, rash generalised, rash papular, rash pruritic 8 Dry skin: also includes skin fissures, xerosis, xeroderma 9 Erythema: also includes erythema generalised 10 Dermatitis: also includes dermatitis acneiform 11 Fatigue: also includes asthenia 12 Mucosal dryness: also includes dry mouth, vulvovaginal dryness 13 Oedema: also includes face swelling, face oedema, eyelid oedema |  |  |  |
+| * No grade 4 ADRs were observed # Adverse reactions reported during post-marketing experience. These are derived from spontaneous reports for which it is not always possible to reliably establish frequency or a causal relationship to exposure to the medicinal product. 1 Urinary tract infection: also includes a single case of urosepsis 2 Hypersensitivity: also includes allergic dermatitis 3 Ketoacidosis: also includes diabetic ketoacidosis (see section 4.4) 4 Dysgeusia: also includes ageusia, hypogeusia 5 Pneumonitis: also includes interstitial lung disease 6 Stomatitis: also includes aphthous ulcer and mouth ulceration 7 Rash: also includes rash maculopapular, rash macular, rash generalised, rash papular, rash pruritic 8 Dry skin: also includes skin fissures, xerosis, xeroderma 9 Erythema: also includes erythema generalised 10 Dermatitis: also includes dermatitis acneiform 11 Fatigue: also includes asthenia 12 Mucosal dryness: also includes dry mouth, vulvovaginal dryness 13 Oedema: also includes face swelling, face oedema, eyelid oedema |  |  |  |
 
 Description of selected ADRs
 
@@ -130,8 +131,8 @@ Antiemetics (e.g. ondansetron) and antidiarrhoeal medicinal products (e.g. loper
 
 Osteonecrosis of the jaw (ONJ)
 ONJ was reported in 5.6% patients (16/284) in the Piqray plus fulvestrant arm.
-Fifteen patients experiencing ONJ were exposed to concomitant bisphosphonates (e.g. zoledronic acid).
-Therefore, in patients receiving Piqray and bisphosphonates, an increased risk of development of ONJ cannot be excluded.
+Fifteen patients experiencing ONJ were exposed to concomitant bisphosphonates (e.g. zoledronic acid) or RANK-ligand inhibitors (e.g. denosumab).
+Therefore, in patients receiving Piqray and bisphosphonates or RANK-ligand inhibitors, an increased risk of development of ONJ cannot be excluded.
 
 Elderly
 In patients ≥65 years of age treated with alpelisib plus fulvestrant, there was a higher incidence of grade 3-4 hyperglycaemia (45.3%) compared to patients <65 years of age (33.5%), while in patients <75 years of age, grade 3-4 hyperglycaemia was 36% compared to 55.9% in patients ≥75 years of age.
