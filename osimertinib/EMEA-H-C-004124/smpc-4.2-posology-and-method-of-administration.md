@@ -2,10 +2,15 @@
 
 Treatment with TAGRISSO should be initiated by a physician experienced in the use of anticancer therapies.
 
-When considering the use of TAGRISSO, EGFR mutation status in tumour or plasma specimens should be determined using a validated test method (see section 4.4).
+When considering the use of TAGRISSO, EGFR mutation status (in tumour specimens for adjuvant treatment and tumour or plasma specimens for locally advanced or metastatic setting) should be determined using a validated test method (see section 4.4).
 
 Posology
-The recommended dose is 80 mg osimertinib once a day until disease progression or unacceptable toxicity.
+The recommended dose is 80 mg osimertinib once a day.
+
+Patients in the adjuvant setting should receive treatment until disease recurrence or unacceptable toxicity.
+Treatment duration for more than 3 years was not studied.
+
+Patients with locally advanced or metastatic lung cancer should receive treatment until disease progression or unacceptable toxicity.
 
 If a dose of TAGRISSO is missed, the dose should be made up unless the next dose is due within 12 hours.
 
@@ -31,7 +36,6 @@ Recommended dose modifications for TAGRISSO
 
 a Note: The intensity of clinical adverse events graded by the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4.0.
 ECGs: Electrocardiograms; QTc: QT interval corrected for heart rate
-
 Special populations
 No dosage adjustment is required due to patient age, body weight, gender, ethnicity and smoking status (see section 5.2).
 

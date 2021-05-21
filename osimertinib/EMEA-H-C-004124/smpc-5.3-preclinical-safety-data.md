@@ -8,9 +8,8 @@ Osimertinib penetrated the intact blood-brain barrier of the cynomolgus monkey (
 
 Non-clinical data indicate that osimertinib and its metabolite (AZ5104) inhibit the h-ERG channel, and QTc prolonging effect cannot be excluded.
 
-Carcinogenesis and mutagenesis
-Carcinogenicity studies have not been performed with osimertinib.
 Osimertinib did not cause genetic damage in in vitro and in vivo assays.
+Osimertinib showed no carcinogenic potential when administered orally to Tg rasH2 transgenic mice for 26 weeks.
 
 Reproductive toxicity
 Degenerative changes were present in the testes in rats and dogs exposed to osimertinib for ≥1 month and there was a reduction in male fertility in rats following exposure to osimertinib for 3 months.
@@ -22,7 +21,6 @@ In repeat dose toxicity studies, an increased incidence of anoestrus, corpora lu
 Findings in the ovaries seen following 1 month dosing were reversible.
 In a female fertility study in rats, administration of osimertinib at 20 mg/kg/day (approximately equal to the recommended daily clinical dose of 80 mg) had no effects on oestrus cycling or the number of females becoming pregnant, but caused early embryonic deaths.
 These findings showed evidence of reversibility following a 1 month off-dose.
-
 In a modified embryofoetal development study in the rat, osimertinib caused embryolethality when administered to pregnant rats prior to embryonic implantation.
 These effects were seen at a maternally tolerated dose of 20 mg/kg where exposure was equivalent to the human exposure at the recommended dose of 80 mg daily (based on total AUC).
 Exposure at doses of 20 mg/kg and above during organogenesis caused reduced foetal weights but no adverse effects on external or visceral foetal morphology.

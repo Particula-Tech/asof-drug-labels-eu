@@ -17,7 +17,6 @@ It is recommended that concomitant use of strong CYP3A inducers (e.g. Phenytoin,
 Moderate CYP3A4 inducers (e.g. bosentan, efavirenz, etravirine, modafinil) may also decrease osimertinib exposure and should be used with caution, or avoided when possible.
 There are no clinical data available to recommend a dose adjustment of TAGRISSO.
 Concomitant use of St. John’s Wort is contraindicated (see section 4.3).
-
 Effect of gastric acid reducing active substances on osimertinib
 In a clinical pharmacokinetic study, co-administration of omeprazole did not result in clinically relevant changes in osimertinib exposures.
 Gastric pH modifying agents can be concomitantly used with TAGRISSO without any restrictions.
@@ -32,5 +31,6 @@ In a clinical PK study, co-administration of TAGRISSO with simvastatin (sensitiv
 These changes are small and not likely to be of clinical significance.
 Clinical PK interactions with CYP3A4 substrates are unlikely.
 A risk for decreased exposure of hormonal contraceptives cannot be excluded.
-In a clinical Pregnane X Receptor (PXR) interaction study, co-administration of TAGRISSO with fexofenadine (P-gp substrate) increased the AUC and Cmax of fexofenadine by 56% (90% CI 35, 79) and 76% (90% CI 49, 108) after a single dose and 27% (90% CI 11, 46) and 25% (90% CI 6, 48) at steady state, respectively.
+
+In a clinical Pregnane X Receptor (PXR) interaction study, co-administration of TAGRISSO with fexofenadine (P-gp substrate) increased the AUC and Cmax of fexofenadine by 56% (90% CI 35, 79) and 76% (90% CI 49, 108) after a single dose and 27% (90% CI 11, 46) and 25% (90% CI 6, 48) at steady-state, respectively.
 Patients taking concomitant medications with disposition dependent upon P-gp and with narrow therapeutic index (e.g. digoxin, dabigatran, aliskiren) should be closely monitored for signs of changed tolerability as a result of increased exposure of the concomitant medication whilst receiving TAGRISSO (see section 5.2).

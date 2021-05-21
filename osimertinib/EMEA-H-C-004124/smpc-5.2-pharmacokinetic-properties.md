@@ -3,7 +3,7 @@
 Osimertinib pharmacokinetic parameters have been characterised in healthy subjects and NSCLC patients.
 Based on population pharmacokinetic analysis, osimertinib apparent plasma clearance is 14.3 L/h, apparent volume of distribution is 918 L and terminal half-life of approximately 44 hours.
 The AUC and Cmax increased dose proportionally over 20 to 240 mg dose range.
-Administration of osimertinib once daily results in approximately 3 fold accumulation with steady-state exposures achieved by 15 days of dosing.
+Administration of osimertinib once daily results in approximately 3-fold accumulation with steady-state exposures achieved by 15 days of dosing.
 At steady-state, circulating plasma concentrations are typically maintained within a 1.6 fold range over the 24-hour dosing interval.
 
 Absorption
@@ -32,6 +32,7 @@ At least 12 components were observed in the pooled urine and faecal samples in h
 Based on in vitro studies, osimertinib is a competitive inhibitor of CYP 3A4/5 but not CYP1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6 and 2E1 at clinically relevant concentrations.
 Based on in vitro studies, osimertinib is not an inhibitor of UGT1A1 and UGT2B7 at clinically relevant concentrations hepatically.
 Intestinal inhibition of UGT1A1 is possible but the clinical impact is unknown.
+
 Elimination
 Following a single oral dose of 20 mg, 67.8% of the dose was recovered in faeces (1.2% as parent) while 14.2% of the administered dose (0.8% as parent) was found in urine by 84 days of sample collection.
 Unchanged osimertinib accounted for approximately 2% of the elimination with 0.8% in urine and 1.2% in faeces.
@@ -40,8 +41,7 @@ Interactions with transport proteins
 In vitro studies have shown that osimertinib is not a substrate of OATP1B1 and OATP1B3.
 In vitro, osimertinib does not inhibit OAT1, OAT3, OATP1B1, OATP1B3, MATE1, OCT2 and MATE2K at clinically relevant concentrations.
 
-Effects of osimertinib on P-gp and BCRP
-Based on in vitro studies, osimertinib is a substrate of P-gp and BCRP, but is unlikely to result in clinically relevant drug interactions with active substances by osimertinib at the clinical doses.
+Based on in vitro studies osimertinib is a substrate of P-gp and BCRP but at clinical doses, clinically relevant interactions are unlikely.
 Based on in vitro data, osimertinib is an inhibitor of BCRP and P-gp (see section 4.5).
 
 Special populations
@@ -53,7 +53,7 @@ These exposure changes due to body weight or baseline albumin differences are no
 
 Hepatic impairment
 Osimertinib is eliminated mainly via the liver.
-In a clinical trial, patients with different types of advanced solid tumours and with mild hepatic impairment (Child Pugh A, mean score = 5.3, n=7) or moderate hepatic impairment (Child Pugh B, mean score = 8.2, n=5) had no increase in exposure compared to patients with normal hepatic function (n=10) after a single 80 mg dose of TAGRISSO.
+In a clinical trial, patients with different types of advanced solid tumours and with mild hepatic impairment (Child Pugh A, mean score =5.3, n=7) or moderate hepatic impairment (Child Pugh B, mean score =8.2, n=5) had no increase in exposure compared to patients with normal hepatic function (n=10) after a single 80 mg dose of TAGRISSO.
 The geometric mean ratio (90% CI) of osimertinib AUC and Cmax was 63.3% (47.3, 84.5) and 51.4% (36.6, 72.3) in patients with mild hepatic impairment and 68.4% (49.6, 94.2) and 60.7% (41.6, 88.6) in patients with moderate hepatic impairment; for the metabolite AZ5104 the AUC and Cmax were 66.5% (43.4, 101.9) and 66.3% (45.3, 96.9) in patients with mild hepatic impairment and 50.9% (31.7, 81.6) and 44.0% (28.9, 67.1) in patients with moderate hepatic impairment, compared to the exposure in patients with normal hepatic function.
 Based on population PK analysis, there was no relationship between markers of hepatic function (ALT, AST, bilirubin) and osimertinib exposure.
 The hepatic impairment marker serum albumin showed an effect on the PK of osimertinib.
