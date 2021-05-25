@@ -32,3 +32,6 @@ Other potential causes for the event should be assessed, and alternative treatme
 Bullous pemphigoid
 There have been post-marketing reports of bullous pemphigoid in patients taking DPP-4 inhibitors including sitagliptin.
 If bullous pemphigoid is suspected, Januvia should be discontinued.
+
+Sodium
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.

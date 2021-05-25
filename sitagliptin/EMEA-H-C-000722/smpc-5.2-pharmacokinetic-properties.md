@@ -36,6 +36,7 @@ However, ciclosporin, a p-glycoprotein inhibitor, did not reduce the renal clear
 Sitagliptin is not a substrate for OCT2 or OAT1 or PEPT1/2 transporters.
 In vitro, sitagliptin did not inhibit OAT3 (IC50=160 μM) or p-glycoprotein (up to 250 μM) mediated transport at therapeutically relevant plasma concentrations.
 In a clinical study sitagliptin had a small effect on plasma digoxin concentrations indicating that sitagliptin may be a mild inhibitor of p-glycoprotein.
+
 Characteristics in patients
 The pharmacokinetics of sitagliptin were generally similar in healthy subjects and in patients with type 2 diabetes.
 

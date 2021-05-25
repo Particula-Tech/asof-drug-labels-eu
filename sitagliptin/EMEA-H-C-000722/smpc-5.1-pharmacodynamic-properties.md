@@ -22,6 +22,7 @@ By enhancing active incretin levels, sitagliptin increases insulin release and d
 In patients with type 2 diabetes with hyperglycaemia, these changes in insulin and glucagon levels lead to lower haemoglobin A1c (HbA1c) and lower fasting and postprandial glucose concentrations.
 The glucose-dependent mechanism of sitagliptin is distinct from the mechanism of sulphonylureas, which increase insulin secretion even when glucose levels are low and can lead to hypoglycaemia in patients with type 2 diabetes and in normal subjects.
 Sitagliptin is a potent and highly selective inhibitor of the enzyme DPP-4 and does not inhibit the closely-related enzymes DPP-8 or DPP-9 at therapeutic concentrations.
+
 In a two-day study in healthy subjects, sitagliptin alone increased active GLP-1 concentrations, whereas metformin alone increased active and total GLP-1 concentrations to similar extents.
 Co-administration of sitagliptin and metformin had an additive effect on active GLP-1 concentrations.
 Sitagliptin, but not metformin, increased active GIP concentrations.
@@ -57,6 +58,7 @@ There was no meaningful change from baseline in body weight in either group.
 In a 24-week placebo-controlled factorial study of initial therapy, sitagliptin 50 mg twice daily in combination with metformin (500 mg or 1,000 mg twice daily) provided significant improvements in glycaemic parameters compared with either monotherapy.
 The decrease in body weight with the combination of sitagliptin and metformin was similar to that observed with metformin alone or placebo; there was no change from baseline for patients on sitagliptin alone.
 The incidence of hypoglycaemia was similar across treatment groups.
+
 Table 2.
 HbA1c results in placebo-controlled monotherapy and combination therapy studies*
 
@@ -122,6 +124,7 @@ The incidence of hypoglycaemia was not significantly different between the treat
 
 In another study involving 91 patients with type 2 diabetes and chronic renal impairment (creatinine clearance < 50 mL/min), the safety and tolerability of treatment with sitagliptin at 25 or 50 mg once daily were generally similar to placebo.
 In addition, after 12 weeks, the mean reductions in HbA1c (sitagliptin -0.59 %; placebo -0.18 %) and FPG (sitagliptin -25.5 mg/dL; placebo -3.0 mg/dL) were generally similar to those observed in other monotherapy studies in patients with normal renal function (see section 5.2).
+
 The TECOS was a randomised study in 14,671 patients in the intention-to-treat population with an HbA1c of ≥6.5 to 8.0 % with established CV disease who received sitagliptin (7,332) 100 mg daily (or 50 mg daily if the baseline eGFR was ≥30 and < 50 mL/min/1.73 m2) or placebo (7,339) added to usual care targeting regional standards for HbA1c and CV risk factors.
 Patients with an eGFR
 < 30 mL/min/1.73 m2 were not to be enrolled in the study.
@@ -129,10 +132,10 @@ The study population included 2,004 patients ≥75 years of age and 3,324 patien
 (eGFR < 60 mL/min/1.73 m2).
 
 Over the course of the study, the overall estimated mean (SD) difference in HbA1c between the sitagliptin and placebo groups was 0.29 % (0.01), 95 % CI (-0.32, -0.27); p < 0.001.
-The primary cardiovascular endpoint was a composite of the first occurrence of cardiovascular death, nonfatal myocardial infarction, nonfatal stroke, or hospitalization for unstable angina.
+The primary cardiovascular endpoint was a composite of the first occurrence of cardiovascular death, nonfatal myocardial infarction, nonfatal stroke, or hospitalisation for unstable angina.
 Secondary cardiovascular endpoints included the first occurrence of cardiovascular death, nonfatal myocardial infarction, or nonfatal stroke; first occurrence of the individual components of the primary composite; all-cause mortality; and hospital admissions for congestive heart failure.
 
-After a median follow up of 3 years, sitagliptin, when added to usual care, did not increase the risk of major adverse cardiovascular events or the risk of hospitalization for heart failure compared to usual care without sitagliptin in patients with type 2 diabetes (Table 3).
+After a median follow up of 3 years, sitagliptin, when added to usual care, did not increase the risk of major adverse cardiovascular events or the risk of hospitalisation for heart failure compared to usual care without sitagliptin in patients with type 2 diabetes (Table 3).
 
 Table 3.
 Rates of Composite Cardiovascular Outcomes and Key Secondary Outcomes
@@ -142,22 +145,21 @@ Rates of Composite Cardiovascular Outcomes and Key Secondary Outcomes
 |  | N (%) | Incidenc e rate per 100 patient-years* | N (%) | Incidence rate per 100 patient-years* |  |  |
 | Analysis in the Intention-to-Treat Population |  |  |  |  |  |  |
 | Number of patients | 7,332 |  | 7,339 |  | 0.98 (0.89–1.08) | <0.001 |
-| Primary Composite Endpoint (Cardiovascular death, nonfatal myocardial infarction, nonfatal stroke, or hospitalization for unstable angina) | 839 (11.4) | 4.1 | 851 (11.6) | 4.2 |  |  |
+| Primary Composite Endpoint (Cardiovascular death, nonfatal myocardial infarction, nonfatal stroke, or hospitalisation for unstable angina) | 839 (11.4) | 4.1 | 851 (11.6) | 4.2 |  |  |
 | Secondary Composite Endpoint (Cardiovascular death, nonfatal myocardial infarction, or nonfatal stroke) | 745 (10.2) | 3.6 | 746 (10.2) | 3.6 | 0.99 (0.89–1.10) | <0.001 |
 | Secondary Outcome |  |  |  |  |  |  |
 | Cardiovascular death | 380 (5.2) | 1.7 | 366 (5.0) | 1.7 | 1.03 (0.89-1.19) | 0.711 |
 | All myocardial infarction (fatal and non-fatal) | 300 (4.1) | 1.4 | 316 (4.3) | 1.5 | 0.95 (0.81–1.11) | 0.487 |
 | All stroke (fatal and non-fatal) | 178 (2.4) | 0.8 | 183 (2.5) | 0.9 | 0.97 (0.79–1.19) | 0.760 |
-| Hospitalization for unstable angina | 116 (1.6) | 0.5 | 129 (1.8) | 0.6 | 0.90 (0.70–1.16) | 0.419 |
+| Hospitalisation for unstable angina | 116 (1.6) | 0.5 | 129 (1.8) | 0.6 | 0.90 (0.70–1.16) | 0.419 |
 | Death from any cause | 547 (7.5) | 2.5 | 537 (7.3) | 2.5 | 1.01 (0.90–1.14) | 0.875 |
-| Hospitalization for heart failure‡ | 228 (3.1) | 1.1 | 229 (3.1) | 1.1 | 1.00 (0.83–1.20) | 0.983 |
+| Hospitalisation for heart failure‡ | 228 (3.1) | 1.1 | 229 (3.1) | 1.1 | 1.00 (0.83–1.20) | 0.983 |
 
 * Incidence rate per 100 patient-years is calculated as 100 × (total number of patients with ≥1 event during eligible exposure period per total patient-years of follow-up).
 † Based on a Cox model stratified by region.
 For composite endpoints, the p-values correspond to a test of non-inferiority seeking to show that the hazard ratio is less than 1.3.
 For all other endpoints, the p-values correspond to a test of differences in hazard rates.
-‡ The analysis of hospitalization for heart failure was adjusted for a history of heart failure at baseline.
-
+‡ The analysis of hospitalisation for heart failure was adjusted for a history of heart failure at baseline.
 Paediatric population
 A 54-week, double-blind study was conducted to evaluate the efficacy and safety of sitagliptin 100 mg once daily in paediatric patients (10 to 17 years of age) with type 2 diabetes who were not on anti-hyperglycaemic therapy for at least 12 weeks (with HbA1c 6.5% to 10%) or were on a stable dose of insulin for at least 12 weeks (with HbA1c 7% to 10%).
 Patients were randomised to sitagliptin 100 mg once daily or placebo for 20 weeks.
