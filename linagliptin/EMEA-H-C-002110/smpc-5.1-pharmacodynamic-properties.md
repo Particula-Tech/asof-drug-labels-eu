@@ -45,7 +45,8 @@ Linagliptin provided significant improvements in HbA1c (-0.62% change compared t
 Linagliptin also showed significant improvements in patients fasting plasma glucose (FPG), and 2-hour post-prandial glucose (PPG), compared to placebo.
 
 Linagliptin as add-on to a combination of metformin and empagliflozin therapy
-In patients inadequately controlled with metformin and empagliflozin (10 mg (n=247) or 25 mg (n=217)), 24-weeks treatment with add-on therapy of linagliptin 5 mg provided adjusted mean HbA1c reductions from baseline by -0.53% (significant difference to add-on placebo -0.32% (95% CI -0.52, -0.13) and -0.58% (significant difference to add-on placebo -0.47% (95% CI -0.66; -0.28), respectively.
+In patients inadequately controlled with metformin and empagliflozin (10 mg (n=247) or 25 mg (n=217)), 24-weeks treatment with add-on therapy of linagliptin 5 mg provided adjusted mean HbA1c reductions from baseline by -0.53% (significant difference to add-on placebo -0.32% (95% CI -
+0.52, -0.13) and -0.58% (significant difference to add-on placebo -0.47% (95% CI -0.66; -0.28), respectively.
 A statistically significant greater proportion of patients with a baseline HbA1c ≥7.0% and treated with linagliptin 5 mg achieved a target HbA1c of <7% compared to placebo.
 Linagliptin as add-on to insulin therapy
 The efficacy and safety of the addition of linagliptin 5 mg to insulin alone or in combination with metformin and/or pioglitazone has been evaluated in a double-blind placebo-controlled study of 24 weeks duration.
