@@ -24,7 +24,7 @@ Table 4 Summary of related ADRs reported in patients treated with capecitabine m
 | Infections and infestations | - | Herpes viral infection, Nasopharyngitis, Lower respiratory tract infection | Sepsis, Urinary tract infection, Cellulitis, Tonsillitis, Pharyngitis, Oral candidiasis, Influenza, Gastroenteritis, Fungal infection, Infection, Tooth abscess |  |
 | Neoplasm benign, malignant and unspecified | - | - | Lipoma |  |
 | Blood and lymphatic system disorders | - | Neutropenia, Anaemia | Febrile neutropenia, Pancytopenia, Granulocytopenia, Thrombocytopenia, Leukopenia, Haemolytic anaemia, International Normalised Ratio (INR) increased/Prothrombin time prolonged |  |
-| Immune system disorders | - | - | Hypersensitivity |  |
+| Immune system disorders | - | - | Hypersensitivity | Angioedema (rare) |
 | Metabolism and nutrition disorders | Anorexia | Dehydration, Weight decreased | Diabetes, Hypokalaemia, Appetite disorder, Malnutrition, Hypertriglyceridaemia, |  |
 | Psychiatric disorders | - | Insomnia, Depression | Confusional state, Panic attack, Depressed mood, Libido decreased |  |
 | Nervous system disorders | - | Headache, Lethargy Dizziness, Parasthesia Dysgeusia | Aphasia, Memory impairment, Ataxia, Syncope, Balance disorder, Sensory disorder, Neuropathy peripheral | Toxic leukoencephalopathy (very rare) |
@@ -49,6 +49,7 @@ ADRs are added to the appropriate frequency grouping (Very common or Common) acc
 Uncommon ADRs reported for capecitabine in combination therapy are consistent with the ADRs reported for capecitabine monotherapy or reported for monotherapy with the combination medicinal product (in literature and/or respective summary of product characteristics).
 
 Some of the ADRs are reactions commonly seen with the combination medicinal product (e.g. peripheral sensory neuropathy with docetaxel or oxaliplatin, hypertension seen with bevacizumab); however an exacerbation by capecitabine therapy cannot be excluded.
+
 Table 5 Summary of related ADRs reported in patients treated with capecitabine in combination treatment in addition to those seen with capecitabine monotherapy or seen at a higher frequency grouping compared to capecitabine monotherapy
 
 | Body System | Very common All grades | Common All grades | Rare/Very Rare (Post-Marketing Experience) |
@@ -110,6 +111,7 @@ The results of a meta-analysis of 14 clinical trials with data from over 4700 pa
 
 Gender
 The results of a meta-analysis of 14 clinical trials with data from over 4700 patients treated with capecitabine showed that in all studies combined, female gender was statistically significantly associated with an increased risk of developing HFS and diarrhoea and with a decreased risk of developing neutropenia.
+
 Patients with renal impairment (see section 4.2, 4.4, and 5.2):
 An analysis of safety data in patients treated with capecitabine monotherapy (colorectal cancer) with baseline renal impairment showed an increase in the incidence of treatment-related grade 3 and 4 adverse reactions compared to patients with normal renal function (36% in patients without renal impairment n=268, vs. 41% in mild n=257 and 54% in moderate n=59, respectively) (see section 5.2).
 Patients with moderately impaired renal function show an increased rate of dose reduction (44%) vs. 33% and 32% in patients with no or mild renal impairment and an increase in early withdrawals from treatment (21% withdrawals during the first two cycles) vs. 5% and 8% in patients with no or mild renal impairment.
