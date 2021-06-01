@@ -35,6 +35,10 @@ Table 2: Recommended doses and infusion times for intravenous administration of 
 | Nivolumab | 1 mg/kg over 30 minutes | 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 60 minutes |
 | Ipilimumab | 3 mg/kg over 90 minutes | - |
 
+Malignant pleural mesothelioma
+The recommended dose is 360 mg nivolumab administered intravenously over 30 minutes every 3 weeks in combination with 1 mg/kg ipilimumab administered intravenously over 30 minutes every 6 weeks.
+Treatment is continued for up to 24 months in patients without disease progression.
+
 Renal cell carcinoma
 The recommended dose is 3 mg/kg nivolumab in combination with 1 mg/kg ipilimumab administered intravenously every 3 weeks for the first 4 doses.
 This is then followed by a second phase in which nivolumab monotherapy is administered intravenously at either 240 mg every 2 weeks or at 480 mg every 4 weeks, as presented in Table 3.
@@ -77,9 +81,9 @@ For adjuvant therapy, the maximum treatment duration with OPDIVO is 12 months.
 For OPDIVO in combination with cabozantinib, OPDIVO should be continued until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 Cabozantinib should be continued until disease progression or unacceptable toxicity.
 Refer to the Summary of Product Characteristics (SmPC) for cabozantinib.
-
 Atypical responses (i.e., an initial transient increase in tumour size or small new lesions within the first few months followed by tumour shrinkage) have been observed.
 It is recommended to continue treatment with nivolumab or nivolumab in combination with ipilimumab for clinically stable patients with initial evidence of disease progression until disease progression is confirmed.
+
 Dose escalation or reduction is not recommended for OPDIVO as monotherapy or in combination with other therapeutic agents.
 Dosing delay or discontinuation may be required based on individual safety and tolerability.
 Guidelines for permanent discontinuation or withholding of doses are described in Table 5.
@@ -100,12 +104,12 @@ Table 5: Recommended treatment modifications for OPDIVO or OPDIVO in combination
 | Immune-related nephritis and renal dysfunction | Grade 2 or 3 creatinine elevation | Withhold dose(s) until creatinine returns to baseline and management with corticosteroids is complete |
 |  | Grade 4 creatinine elevation | Permanently discontinue treatment |
 | Immune-related endocrinopathies | Symptomatic Grade 2 or 3 hypothyroidism, hyperthyroidism, hypophysitis, Grade 2 adrenal insufficiency Grade 3 diabetes | Withhold dose(s) until symptoms resolve and management with corticosteroids (if needed for symptoms of acute inflammation) is complete. Treatment should be continued in the presence of hormone replacement therapyb as long as no symptoms are present |
-|  | Grade 4 hypothyroidism Grade 4 hyperthyroidism Grade 4 hypophysitis Grade 3 or 4 adrenal insufficiency Grade 4 diabetes | Permanently discontinue treatment |
 
 Table 5: Recommended treatment modifications for OPDIVO or OPDIVO in combination
 
 | Immune-related adverse reaction | Severity | Treatment modification |
 | --- | --- | --- |
+|  | Grade 4 hypothyroidism Grade 4 hyperthyroidism Grade 4 hypophysitis Grade 3 or 4 adrenal insufficiency Grade 4 diabetes | Permanently discontinue treatment |
 | Immune-related skin adverse reactions | Grade 3 rash | Withhold dose(s) until symptoms resolve and management with corticosteroids is complete |
 |  | Grade 4 rash | Permanently discontinue treatment |
 |  | Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) | Permanently discontinue treatment (see section 4.4) |
