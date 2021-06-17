@@ -9,7 +9,6 @@ The steady state mean plasma AUC and Cmax were 1870 nmol.h/l and 259 nmol/l with
 Systemic exposure of empagliflozin increased in a dose-proportional manner.
 The single-dose and steady-state pharmacokinetic parameters of empagliflozin were similar suggesting linear pharmacokinetics with respect to time.
 There were no clinically relevant differences in empagliflozin pharmacokinetics between healthy volunteers and patients with type 2 diabetes.
-
 Administration of empagliflozin 25 mg after intake of a high-fat and high calorie meal resulted in slightly lower exposure; AUC decreased by approximately 16% and Cmax by approximately 37% compared to fasted condition.
 The observed effect of food on empagliflozin pharmacokinetics was not considered clinically relevant and empagliflozin may be administered with or without food.
 
@@ -32,6 +31,7 @@ With once-daily dosing, steady-state plasma concentrations of empagliflozin were
 Consistent with the half-life, up to 22% accumulation, with respect to plasma AUC, was observed at steady-state.
 Following administration of an oral [14C]-empagliflozin solution to healthy volunteers, approximately 96% of the drug-related radioactivity was eliminated in faeces (41%) or urine (54%).
 The majority of drug-related radioactivity recovered in faeces was unchanged parent drug and approximately half of drug related radioactivity excreted in urine was unchanged parent drug.
+
 Special populations
 Renal impairment
 In patients with mild, moderate or severe renal impairment (eGFR <30 - <90 ml/min/1.73 m2) and patients with kidney failure/end stage renal disease (ESRD), AUC of empagliflozin increased by approximately 18%, 20%, 66%, and 48%, respectively compared to subjects with normal renal function.
@@ -45,7 +45,6 @@ In subjects with mild, moderate, and severe hepatic impairment according to the 
 Body Mass Index
 Body mass index had no clinically relevant effect on the pharmacokinetics of empagliflozin based on the population pharmacokinetic analysis.
 In this analysis, AUC was estimated to be 5.82%, 10.4%, and 17.3% lower in subjects with BMI of 30, 35, and 45 kg/m2, respectively, compared to subjects with a body mass index of 25 kg/m2.
-
 Gender
 Gender had no clinically relevant effect on the pharmacokinetics of empagliflozin based on the population pharmacokinetic analysis.
 

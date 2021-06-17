@@ -1,6 +1,7 @@
 # 6.1 List of excipients
 
 Tablet core
+
 Lactose monohydrate
 Microcrystalline cellulose
 Hydroxypropylcellulose
@@ -9,6 +10,7 @@ Colloidal anhydrous silica
 Magnesium stearate
 
 Film coating
+
 Hypromellose
 Titanium dioxide (E171)
 Talc
