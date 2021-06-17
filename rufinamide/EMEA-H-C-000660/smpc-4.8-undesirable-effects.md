@@ -13,7 +13,7 @@ Tabulated list of adverse reactions
 
 Adverse reactions reported with an incidence greater than placebo, during the Lennox-Gastaut syndrome double-blind studies or in the overall rufinamide-exposed population, are listed in the table below by MedDRA preferred term, system organ class and by frequency.
 
-Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000).
+Frequencies are defined as: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000).
 
 | System Organ Class | Very Common | Common | Uncommon | Rare |
 | --- | --- | --- | --- | --- |
@@ -40,7 +40,7 @@ Additional information on special populations
 
 Paediatric Population (age 1 to less than 4 years)
 In a multicentre, open-label study comparing the addition of rufinamide to any other AED of the investigator’s choice to the existing regimen of 1 to 3 AEDs in paediatric patients, 1 to less than 4 years of age with inadequately controlled LGS, 25 patients, of which 10 subjects were aged 1 to 2 years, were exposed to rufinamide as adjunctive therapy for 24 weeks at a dose of up to 45 mg/kg/day, in 2 divided doses.
-The most frequently reported TEAEs in the rufinamide treatment group (occurring in ≥ 10% of subjects) were upper respiratory tract infection and vomiting (28.0% each), pneumonia and somnolence (20.0% each), sinusitis, otitis media, diarrhoea, cough and pyrexia (16.0% each), and bronchitis, constipation, nasal congestion, rash, irritability and decreased appetite (12.0% each).
+The most frequently reported TEAEs in the rufinamide treatment group (occurring in ≥10% of subjects) were upper respiratory tract infection and vomiting (28.0% each), pneumonia and somnolence (20.0% each), sinusitis, otitis media, diarrhoea, cough and pyrexia (16.0% each), and bronchitis, constipation, nasal congestion, rash, irritability and decreased appetite (12.0% each).
 The frequency, type and severity of these adverse reactions were similar to that in children 4 years of age and older, adolescents and adults.
 Age characterisation in patients less than 4 years was not identified in the limited safety database due to small number of patients in the study.
 
@@ -59,8 +59,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 | Metabolism and nutrition disorders |  | Anorexia Eating disorder Decreased appetite |  |  |
 | Psychiatric disorders |  | Anxiety |  |  |
 |  |  | Insomnia |  |  |
-| Nervous system | Somnolence* | Status epilepticus* |  |  |
-| disorders | Headache Dizziness* | Convulsion Coordination Abnormal* Nystagmus Psychomotor hyperactivity Tremor |  |  |
+| Nervous system disorders | Somnolence* Headache Dizziness* | Status epilepticus* Convulsion Coordination Abnormal* Nystagmus Psychomotor hyperactivity Tremor |  |  |
 | Eye Disorders |  | Diplopia Vision blurred |  |  |
 | Ear and Labyrinth disorders |  | Vertigo |  |  |
 | Respiratory, thoracic and mediastinal disorders |  | Epistaxis |  |  |

@@ -92,7 +92,6 @@ Alternatively, use the score line to break the tablet into two equal halves.
 Treatment should be initiated at a dose of 10 mg/kg/day (0.25 ml/kg/day) administered in two equally divided doses separated by approximately 12 hours.
 According to clinical response and tolerability, the dose may be increased by up to 10 mg/kg/day (0.25 ml/kg/day) every third day to a target dose of 45 mg/kg/day (1.125 ml/kg/day) administered in two equally divided doses separated by approximately 12 hours.
 For this patient population, the maximum recommended dose is 45 mg/kg/day (1.125 ml/kg/day).
-
 According to clinical response and tolerability, the dose may be increased by up to 10 mg/kg/day (0.25 ml/kg/day) every third day to a target dose of 30 mg/kg/day
 (0.75 ml/kg/day) administered in two equally divided doses separated by approximately 12 hours.
 For this patient population, the maximum recommended dose is 30 mg/kg/day (0.75 ml/kg/day).

@@ -36,10 +36,10 @@ Women of childbearing potential
 
 Women of childbearing potential must use contraceptive measures during treatment with Inovelon.
 Physicians should try to ensure that appropriate contraception is used, and should use clinical judgement when assessing whether oral contraceptives, or the doses of the oral contraceptive components, are adequate, based on the individual patients clinical situation (see sections 4.5 and 4.6).
-
 Lactose
 
 Inovelon contains lactose, therefore patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+
 Suicidal ideation
 
 Suicidal ideation and behaviour have been reported in patients treated with antiepileptic agents in several indications.

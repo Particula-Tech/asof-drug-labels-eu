@@ -53,6 +53,6 @@ A pharmacokinetic study in older healthy volunteers did not show a significant d
 Children (1-12 years)
 Children generally have lower clearance of rufinamide than adults, and this difference is related to body size with rufinamide clearance increasing with body weight.
 
-A recent population PK analysis of rufinamide on data pooled from 139 subjects (115 LGS patients and 24 healthy subjects), including 83 paediatric LGS patients (10 patients aged 1 to < 2 years, 14 patients aged 2 to < 4 years, 14 patients aged 4 to < 8 years, 21 patients aged 8 to < 12 years and 24 patients aged 12 to < 18 years) indicated that when rufinamide is dosed on a mg/kg/day basis in LGS subjects aged 1 to < 4 years, comparable exposure to that in LGS patients aged ≥ 4 years, in which efficacy has been demostrated, is achieved.
+A recent population PK analysis of rufinamide on data pooled from 139 subjects (115 LGS patients and 24 healthy subjects), including 83 paediatric LGS patients (10 patients aged 1 to < 2 years, 14 patients aged 2 to < 4 years, 14 patients aged 4 to < 8 years, 21 patients aged 8 to < 12 years and 24 patients aged 12 to < 18 years) indicated that when rufinamide is dosed on a mg/kg/day basis in LGS subjects aged 1 to < 4 years, comparable exposure to that in LGS patients aged ≥4 years, in which efficacy has been demostrated, is achieved.
 
 Studies in new-born infants or infants and toddlers under 1 year of age have not been conducted.
