@@ -13,6 +13,7 @@ In patients treated with Isa-Kd, 94.4% of those experiencing an IR experienced i
 All infusion reactions resolved.
 The most common symptoms of an infusion reaction included cough, dyspnoea, nasal congestion, vomiting and nausea.
 The most common severe signs and symptoms included hypertension and dyspnoea (see section 4.8).
+However, serious infusion reactions including severe anaphylactic reactions have also been observed after SARCLISA administration.
 
 To decrease the risk and severity of infusion reactions, patients should be pre-medicated prior to SARCLISA infusion with acetaminophen, diphenhydramine or equivalent; dexamethasone is to be used as both premedication and anti-myeloma treatment (see section 4.2).
 Vital signs should be frequently monitored during the entire SARCLISA infusion.

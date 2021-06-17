@@ -31,6 +31,7 @@ Table 3a: Adverse reactions reported in patients with multiple myeloma treated w
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Skin squamous cell carcinoma | Common | 4 (2.6) | 2 (1.3) |
 | Blood and lymphatic system disorders | Neutropeniad | Very common | 71 (46.7) | 70 (46.1) |
 |  | Febrile neutropenia | Very common | 18 (11.8) | 18 (11.8) |
+| Immune system disorders | Anaphylactic reactione | Uncommon | 5 (0.3%) | 5 (0.3%) |
 | Metabolism and nutrition disorders | Decreased appetite* | Common | 15 (9.9) | 2 (1.3) |
 | Cardiac disorders | Atrial fibrillation | Common | 7 (4.6) | 3 (2.0) |
 | Respiratory, thoracic and mediastinal disorders | Dyspnoea* | Very common | 23 (15.1) | 6 (3.9) |
@@ -41,10 +42,14 @@ Table 3a: Adverse reactions reported in patients with multiple myeloma treated w
 | Injury, poisoning and procedural complications | Infusion reactionc | Very common | 58 (38.2) | 4 (2.6) |
 
 a Only TEAEs are reported in Table 3.
-The haematology laboratory values are reported in Table 4.
+The haematology laboratory values are reported in Table 5.
 b The term pneumonia is a grouping of the following terms: atypical pneumonia, bronchopulmonary aspergillosis, pneumonia, pneumonia haemophilus, pneumonia influenzal, pneumonia pneumococcal, pneumonia streptococcal, pneumonia viral, pneumonia bacterial, haemophilus infection, lung infection, pneumonia fungal and pneumocystis jirovecii pneumonia.
-c See “Description of selected adverse reactions” d Haematology laboratory values were recorded as TEAEs only if they led to treatment discontinuation and/or dose modification or fulfilled a serious criterion.
-* No grade 4 The adverse reactions were reported from the 177 patients who received Isa-Kd with a median duration of exposure of 80.0 weeks in IKEMA study (see section 5.1).
+c See “Description of selected adverse reactions”.
+d Haematology laboratory values were recorded as TEAEs only if they led to treatment discontinuation and/or dose modification or fulfilled a serious criterion.
+e Based on multiple myeloma clinical trials.
+* No grade 4
+
+The adverse reactions were reported from the 177 patients who received Isa-Kd with a median duration of exposure of 80.0 weeks in IKEMA study (see section 5.1).
 
 Table 4a: Adverse reactions reported in patients with multiple myeloma treated with isatuximab in combination with carfilzomib and dexamethasone (IKEMA)
 
@@ -58,6 +63,7 @@ Table 4a: Adverse reactions reported in patients with multiple myeloma treated w
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Skin cancers* | Common | 5.1% | 0.6% |
 |  | Solid tumours other than skin cancers | Common | 3.4 % | 1.7% |
 | Blood and lymphatic system disorders | Neutropeniad | Common | 4.5% | 4.0% |
+| Immune system disorders | Anaphylactic reactione | Uncommon | 5 (0.3%) | 5 (0.3%) |
 | Respiratory, thoracic and mediastinal disorders | Dyspnoea* | Very common | 27.7% | 5.1% |
 |  | Cough* | Very common | 19.8% | 0% |
 | Gastrointestinal disorders | Diarrhoea* | Very common | 36.2% | 2.8% |
@@ -68,7 +74,9 @@ Table 4a: Adverse reactions reported in patients with multiple myeloma treated w
 a Only TEAEs are reported in Table 4.
 The haematology laboratory values are reported in Table 6.
 b The term pneumonia is a grouping of the following terms: atypical pneumonia, pneumocystis jirovecii pneumonia, pneumonia, pneumonia influenzal, pneumonia legionella, pneumonia streptococcal, pneumonia viral, and pulmonary sepsis.
-c See “Description of selected adverse reactions” d Haematology laboratory values were recorded as TEAEs only if they led to treatment discontinuation and/or dose modification or fulfilled a serious criterion.
+c See “Description of selected adverse reactions”.
+d Haematology laboratory values were recorded as TEAEs only if they led to treatment discontinuation and/or dose modification or fulfilled a serious criterion.
+e Based on multiple myeloma clinical trials.
 * No grade 4 or 5.
 
 Description of selected adverse reactions

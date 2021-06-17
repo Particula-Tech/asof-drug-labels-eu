@@ -31,7 +31,6 @@ The population pharmacokinetic analyses of 476 patients aged 36 to 85 years show
 
 Gender
 The population pharmacokinetic analysis with 207 female (43.5%) and 269 male (56.5%) patients showed no clinically meaningful effect of gender on isatuximab pharmacokinetics.
-
 Race
 The population pharmacokinetic analysis with 377 Caucasian (79%), 25 Asian (5%), 18 Black (4%), and 33 other race (7%) patients showed no clinically meaningful effect of race on isatuximab pharmacokinetics.
 
