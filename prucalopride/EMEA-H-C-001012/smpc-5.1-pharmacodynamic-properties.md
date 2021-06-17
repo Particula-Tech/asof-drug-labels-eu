@@ -10,7 +10,7 @@ In rats, prucalopride in vivo, at doses above 5 mg/kg (at and above 30-70 times 
 
 In dogs, prucalopride alters colonic motility patterns via serotonin 5-HT4 receptor stimulation: it stimulates proximal colonic motility, enhances gastroduodenal motility and accelerates delayed gastric emptying.
 Furthermore, giant migrating contractions are induced by prucalopride.
-These are equivalent to the colonic mass movements in humans, and provide the main propulsive force to defecation.
+These are equivalent to the colonic mass movements in humans, and provide the main propulsive force to defaecation.
 In dogs, the effects observed in the gastrointestinal tract are sensitive to blockade with selective 5-HT4 receptor antagonists illustrating that the observed effects are exerted via selective action on 5-HT4 receptors.
 
 These pharmacodynamic effects of prucalopride have been confirmed in human subjects with chronic constipation using manometry in an open-label, randomised, crossover, reader-blinded study investigating the effect of prucalopride 2 mg and an osmotic laxative on colon motility as determined by the number of colonic high-amplitude propagating contractions (HAPCs, also known as giant migrating contractions).

@@ -11,4 +11,4 @@ Caution should be exercised when prescribing Resolor to patients with these cond
 In case of severe diarrhoea, the efficacy of oral contraceptives may be reduced and the use of an additional contraceptive method is recommended to prevent possible failure of oral contraception (see the prescribing information of the oral contraceptive).
 
 The tablets contain lactose.
-Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
