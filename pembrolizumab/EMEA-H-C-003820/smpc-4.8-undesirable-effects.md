@@ -74,12 +74,13 @@ Table 2: Adverse reactions in patients treated with pembrolizumab*
 | Common | pneumonitisn | pneumonitisn | pneumonitisn |
 | Gastrointestinal disorders |  |  |  |
 | Very common | diarrhoea, abdominal paino, nausea, vomiting, constipation | diarrhoea, nausea, vomiting, constipation, abdominal paino | diarrhoea, abdominal paino, nausea, vomiting, constipation |
-| Common | colitisp, dry mouth | colitisp, dry mouth | colitisp, dry mouth |
-| Uncommon | pancreatitisq, gastrointestinal ulcerationr | pancreatitisq, gastrointestinal ulcerationr | pancreatitisq, gastrointestinal ulcerationr |
+| Common | colitisp, dry mouth | colitisp, dry mouth, gastritis | colitisp, dry mouth, gastritis |
+| Uncommon | pancreatitisq, gastritis, gastrointestinal ulcerationr | pancreatitisq, gastrointestinal ulcerationr | pancreatitisq, gastrointestinal ulcerationr |
 | Rare | small intestinal perforation |  |  |
 | Hepatobiliary disorders |  |  |  |
 | Common |  |  | hepatitiss |
 | Uncommon | hepatitiss | hepatitiss |  |
+| Rare | cholangitis sclerosing | cholangitis sclerosing |  |
 | Skin and subcutaneous tissue disorders |  |  |  |
 | Very common | rasht, pruritusu | rasht, alopecia, pruritusu | palmar-plantar erythrodysaesthesia syndrome, rasht, pruritusu |
 | Common | severe skin reactionsv, erythema, dry skin, vitiligow, eczema, alopecia, dermatitis acneiform, dermatitis | severe skin reactionsv, erythema, dry skin | severe skin reactionsv, dermatitis acneiform, dermatitis, dry skin, alopecia, eczema, erythema |

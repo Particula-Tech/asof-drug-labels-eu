@@ -364,8 +364,8 @@ Treatment arm RFS rate at 36 months HR (95% CI)
 Pembrolizumab 64% 0.59 (0.49, 0.70)
 Placebo 44%
 
-Time in Months
-Number at Risk
+Number at Risk Time in Months
+
 Pembrolizumab
 Placebo:
 
@@ -375,8 +375,8 @@ Treatment arm DMFS rate at 36 months HR (95% CI) p-value
 Pembrolizumab 65% 0.60 (0.49, 0.73) <0.0001
 Placebo 52%
 
-Number at Risk Time in Months
-
+Time in Months
+Number at Risk
 Pembrolizumab:
 Placebo:
 RFS and DMFS benefit was consistently demonstrated across subgroups, including tumour PD-L1 expression, BRAF mutation status, and stage of disease (using AJCC 7th edition).
@@ -1726,8 +1726,6 @@ In these paediatric patients with cHL, the ORR assessed by BICR according to the
 The European Medicines Agency has deferred the obligation to submit the results of studies with pembrolizumab in one or more subsets of the paediatric population in treatment of Hodgkin lymphoma (see section 4.2 for information on paediatric use).
 
 [KEYTRUDA 25 mg/mL concentrate for solution for infusion.]
-
-ATC code: L01XC18 Mechanism of action
 
 Among the 542 randomised patients in KEYNOTE-045, baseline characteristics were: median age 66 years (range: 26 to 88), 58% age 65 or older; 74% male; 72% White and 23% Asian; 56% ECOG performance status of 1 and 1% ECOG performance status of 2; and 96% M1 disease and 4% M0 disease.
 

@@ -21,7 +21,7 @@ Linearity/non-linearity
 Exposure to pembrolizumab as expressed by peak concentration (Cmax) or area under the plasma concentration time curve (AUC) increased dose proportionally within the dose range for efficacy.
 Steady-state concentrations of pembrolizumab were reached by 16 weeks of repeated dosing with an every 3 week regimen and the systemic accumulation was 2.1-fold.
 The median trough concentrations (Cmin) at steady-state were approximately 22 mcg/mL at a dose of 2 mg/kg every 3 weeks and 29 mcg/mL at a dose of 200 mg every 3 weeks.
-The median area under the concentration time curve at steady-state over 3 weeks (AUC0-3weeks) was 794 mcg∙day/mL at a dose of 2 mg/kg every 3 weeks and 1,053 mcg∙day/mL at a dose of 2 00 mg every 3 weeks.
+The median area under the concentration time curve at steady-state over 3 weeks (AUC0-3weeks) was 794 mcg∙day/mL at a dose of 2 mg/kg every 3 weeks and 1,053 mcg∙day/mL at a dose of 200 mg every 3 weeks.
 
 Following administration of pembrolizumab 200 mg every 3 weeks in patients with cHL, the observed median Cmin at steady-state was up to 40% higher than that in other tumour types treated with the same dosage; however, the range of trough concentrations is similar.
 There are no notable differences in median Cmax between cHL and other tumour types.
@@ -41,7 +41,3 @@ Hepatic impairment
 The effect of hepatic impairment on the clearance of pembrolizumab was evaluated by population pharmacokinetic analyses in patients with mild hepatic impairment (as defined using the US National Cancer Institute criteria of hepatic dysfunction) compared to patients with normal hepatic function.
 No clinically important differences in the clearance of pembrolizumab were found between patients with mild hepatic impairment and normal hepatic function.
 Pembrolizumab has not been studied in patients with moderate or severe hepatic impairment (see section 4.2).
-
-[KEYTRUDA 25 mg/mL concentrate for solution for infusion.]
-
-The median area under the concentration time curve at steady-state over 3 weeks (AUC0-3weeks) was 794 mcg∙day/mL at a dose of 2 mg/kg every 3 weeks and 1,053 mcg∙day/mL at a dose of 200 mg every 3 weeks.
