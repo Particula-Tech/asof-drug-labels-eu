@@ -5,7 +5,6 @@ Use in males
 The risk of male-mediated embryo-foetal toxicity through teriflunomide treatment is considered low (see section 5.3).
 
 Pregnancy
-
 There are limited amount of data from the use of teriflunomide in pregnant women.
 Studies in animals have shown reproductive toxicity (see section 5.3).
 Teriflunomide may cause serious birth defects when administered during pregnancy.
@@ -13,8 +12,11 @@ Teriflunomide is contraindicated in pregnancy (see section 4.3).
 
 Women of childbearing potential have to use effective contraception during treatment and after treatment as long as teriflunomide plasma concentration is above 0.02 mg/l.
 During this period women should discuss any plans to stop or change contraception with the treating physician.
+Female children and/or parents/caregivers of female children should be informed about the need to contact the treating physician once the female child under AUBAGIO treatment experiences menses.
+Counselling should be provided to the new patients of child-bearing potential about contraception and the potential risk to the foetus.
+Referral to a gynaecologist should be considered.
 
-The patient must be advised that if there is any delay in onset of menses or any other reason to suspect pregnancy, they must notify the physician immediately for pregnancy testing, and if positive, the physician and patient must discuss the risk to the pregnancy.
+The patient must be advised that if there is any delay in onset of menses or any other reason to suspect pregnancy, they must discontinue AUBAGIO and notify the physician immediately for pregnancy testing, and if positive, the physician and patient must discuss the risk to the pregnancy.
 It is possible that rapidly lowering the blood level of teriflunomide, by instituting the accelerated elimination procedure described below, at the first delay of menses, may decrease the risk to the foetus.
 For women receiving teriflunomide treatment, who wish to become pregnant, the medicinal product should be stopped and an accelerated elimination procedure is recommended in order to more rapidly achieve concentration below 0.02 mg/l (see below).
 
@@ -36,9 +38,9 @@ Both cholestyramine and activated powdered charcoal may influence the absorption
 Use of alternative contraceptive methods is recommended.
 
 Breast-feeding
+
 Animal studies have shown excretion of teriflunomide in milk.
 Teriflunomide is contraindicated during breast-feeding (see section 4.3).
-
 Fertility
 
 Results of studies in animals have not shown an effect on fertility (see section 5.3).

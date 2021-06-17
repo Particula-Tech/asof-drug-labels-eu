@@ -11,7 +11,6 @@ Rifampicin and other known potent CYP and transporter inducers such as carbamaze
 Cholestyramine or activated charcoal
 It is recommended that patients receiving teriflunomide are not treated with cholestyramine or activated charcoal because this leads to a rapid and significant decrease in plasma concentration unless an accelerated elimination is desired.
 The mechanism is thought to be by interruption of enterohepatic recycling and/or gastrointestinal dialysis of teriflunomide.
-
 Pharmacokinetic interactions of teriflunomide on other substances
 
 Effect of teriflunomide on CYP2C8 substrate: repaglinide

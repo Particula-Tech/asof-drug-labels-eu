@@ -14,7 +14,6 @@ Patients with severe immunodeficiency states, e.g. acquired immunodeficiency syn
 Patients with significantly impaired bone marrow function or significant anaemia, leucopenia, neutropenia or thrombocytopenia.
 
 Patients with severe active infection until resolution (see section 4.4).
-
 Patients with severe renal impairment undergoing dialysis, because insufficient clinical experience is available in this patient group.
 
 Patients with severe hypoproteinaemia, e.g. in nephrotic syndrome.

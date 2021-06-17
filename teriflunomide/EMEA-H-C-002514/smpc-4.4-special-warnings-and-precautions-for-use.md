@@ -13,8 +13,12 @@ During treatment
 During treatment with teriflunomide the following should be monitored:
 
 - Blood pressure o Check periodically
-- Alanine aminotransferase/serum glutamic pyruvic transaminase (ALT/SGPT) o Liver enzymes should be assessed every two weeks during the first 6 months of treatment, and every 8 weeks thereafter or as indicated by clinical signs and symptoms such as unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine.
-  For ALT (SGPT) elevations between 2- and 3-fold the upper limit of normal, monitoring must be performed weekly.
+- Alanine aminotransferase/serum glutamic pyruvic transaminase (ALT/SGPT) o Liver enzymes should be assessed at least every four weeks during the first 6 months of treatment and regularly thereafter.
+
+o Consider additional monitoring when AUBAGIO is given in patients with pre-existing liver disorders, given with other potentially hepatotoxic drugs or as indicated by clinical signs and symptoms such as unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine.
+Liver enzymes should be assessed every two weeks during the first 6 months of treatment, and at least every 8 weeks thereafter for at least 2 years from initiation of treatment.
+o For ALT (SGPT) elevations between 2- and 3-fold the upper limit of normal, monitoring must be performed weekly.
+
 - Complete blood cell counts should be performed based on clinical signs and symptoms (e.g. infections) during treatment.
 
 Accelerated elimination procedure
@@ -27,9 +31,16 @@ Hepatic effects
 
 Elevations of liver enzymes have been observed in patients receiving teriflunomide (see section 4.8).
 These elevations occurred mostly within the first 6 months of treatment.
-Teriflunomide therapy should be discontinued if liver injury is suspected; consider discontinuing teriflunomide therapy if elevated liver enzymes (greater than 3-fold ULN) are confirmed.
 
-Patients with pre-existing liver disease and/or who consume substantial quantities of alcohol may be at increased risk of developing elevated liver enzymes when taking teriflunomide and should be closely monitored for signals of liver disease.
+Cases of drug-induced liver injury (DILI) have been observed during treatment with teriflunomide, sometimes life-threatening.
+Most cases of DILI occurred with time to onset of several weeks or several months after treatment initiation of teriflunomide, but DILI can also occur with prolonged use.
+
+The risk for liver enzyme increases and DILI with teriflunomide might be higher in patients with pre-existing liver disorder, concomitant treatment with other hepatotoxic drugs, and/or consumption of substantial quantities of alcohol.
+Patients should therefore be closely monitored for signs and symptoms of liver injury.
+
+Teriflunomide therapy should be discontinued and accelerated elimination procedure considered if liver injury is suspected.
+If elevated liver enzymes (greater than 3-fold ULN) are confirmed, teriflunomide therapy should be discontinued
+In case of treatment discontinuation, liver tests should be pursued until normalisation of transaminase levels.
 
 Hypoproteinaemia
 
@@ -51,7 +62,7 @@ Due to the prolonged half-life, accelerated elimination with cholestyramine or c
 Patients receiving AUBAGIO should be instructed to report symptoms of infections to a physician.
 Patients with active acute or chronic infections should not start treatment with AUBAGIO until the infection(s) is resolved.
 The safety of teriflunomide in individuals with latent tuberculosis infection is unknown, as tuberculosis screening was not systematically performed in clinical studies.
-For patients testing positive in tuberculosis screening, treat by standard medical practice prior to therapy with AUBAGIO.
+Patients tested positive in tuberculosis screening should be treated by standard medical practice prior to therapy.
 
 Respiratory reactions
 
@@ -67,7 +78,7 @@ If discontinuation of the medicinal product is necessary, initiation of an accel
 Haematological effects
 
 A mean decrease less than 15% from baseline affecting white blood cell count has been observed (see section 4.8).
-As a precaution, a recent complete blood cell count, including differential white blood cell count and platelets, should be available before the initiation of treatment with AUBAGIO and the complete blood cell count should be assessed during AUBAGIO therapy as indicated by clinical signs and symptoms (e.g., infections).
+As a precaution, a recent complete blood cell count, including differential white blood cell count and platelets, should be available before the initiation of treatment and the complete blood cell count should be assessed during therapy as indicated by clinical signs and symptoms (e.g., infections).
 
 In patients with pre-existing anaemia, leucopenia, and /or thrombocytopenia as well as in patients with impaired bone marrow function or those at risk of bone marrow suppression, the risk of haematological disorders is increased.
 If such effects occur, the accelerated elimination procedure (see above) to reduce plasma levels of teriflunomide should be considered.
@@ -75,12 +86,9 @@ In cases of severe haematological reactions, including pancytopenia, AUBAGIO and
 
 Skin reactions
 
-Cases of severe skin reactions have been reported postmarketing (including Stevens-Johnson syndrome and toxic epidermal necrolysis).
+Cases of serious skin reactions, sometimes fatal including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eoseinophilia and systemic symptoms (DRESS), have been reported with AUBAGIO.
 
-In patients treated with leflunomide, the parent compound, very rare cases of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have also been reported.
-
-In case of ulcerative stomatitis, teriflunomide administration should be discontinued.
-If skin and /or mucosal reactions are observed which raise the suspicion of severe generalised major skin reactions (Stevens-Johnson syndrome, or toxic epidermal necrolysis-Lyell’s syndrome), teriflunomide and any other possibly associated treatment must be discontinued, and an accelerated procedure initiated immediately.
+If skin and /or mucosal reactions (ulcerative stomatitis) are observed which raise the suspicion of severe generalised major skin reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis-Lyell’s syndrome, or drug reaction with eosinophilia and systemic symptoms), teriflunomide and any other possibly associated treatment must be discontinued, and an accelerated procedure initiated immediately.
 In such cases patients should not be re-exposed to teriflunomide (see section 4.3).
 
 New onset of psoriasis (including pustular psoriasis) and worsening of pre-existing psoriasis have been reported during the use of teriflunomide.
@@ -91,12 +99,13 @@ Peripheral neuropathy
 Cases of peripheral neuropathy have been reported in patients receiving AUBAGIO (see section 4.8).
 Most patients improved after discontinuation of AUBAGIO.
 However, there was a wide variability in final outcome, i.e. in some patients the neuropathy resolved and some patients had persistent symptoms.
-If a patient taking AUBAGIO develops a confirmed peripheral neuropathy, consider discontinuing AUBAGIO therapy and performing the accelerated elimination procedure.
+If a patient taking AUBAGIO develops a confirmed peripheral neuropathy, discontinuing AUBAGIO therapy and performing the accelerated elimination procedure should be considered.
 
 Vaccination
 
 Two clinical studies have shown that vaccinations to inactivated neoantigen (first vaccination), or recall antigen (reexposure) were safe and effective during AUBAGIO treatment.
 The use of live attenuated vaccines may carry a risk of infections and should therefore be avoided.
+
 Immunosuppressive or immunomodulating therapies
 
 As leflunomide is the parent compound of teriflunomide, co-administration of teriflunomide with leflunomide is not recommended.
@@ -119,6 +128,23 @@ In MS patients, the median t1/2z was approximately 19 days after repeated doses 
 If a decision is made to stop treatment with AUBAGIO, during the interval of 5 half-lives (approximately 3.5 months although may be longer in some patients), starting other therapies will result in concomitant exposure to AUBAGIO.
 This may lead to an additive effect on the immune system and caution is, therefore, indicated.
 
+Interference with determination of ionised calcium levels
+
+The measurement of ionised calcium levels might show falsely decreased values under treatment with leflunomide and/or teriflunomide (the active metabolite of leflunomide) depending on the type of ionised calcium analyser used (e.g. blood gas analyser).
+Therefore, the plausibility of observed decreased ionised calcium levels needs to be questioned in patients under treatment with leflunomide or teriflunomide.
+In case of doubtful measurements, it is recommended to determine the total albumin adjusted serum calcium concentration.
+
+Paediatric population
+
+Pancreatitis
+In the paediatric clinical trial, cases of pancreatitis, some acute, have been observed in patients receiving teriflunomide (see section 4.8).
+Clinical symptoms included abdominal pain, nausea and/or vomiting.
+Serum amylase and lipase were elevated in these patients.
+The time to onset ranged from a few months up to three years.
+Patients should be informed of the characteristic symptoms of pancreatitis.
+If pancreatitis is suspected, pancreatic enzymes and related laboratory parameters should be obtained.
+If pancreatitis is confirmed, teriflunomide should be discontinued and an accelerated elimination procedure should be initiated (see section 5.2).
+
 Lactose
 
 Since AUBAGIO tablets contain lactose, patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption, should not take this medicinal product.
@@ -126,9 +152,3 @@ Since AUBAGIO tablets contain lactose, patients with rare hereditary problems of
 Sodium
 
 This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially “sodium free”.
-
-Interference with determination of ionised calcium levels
-
-The measurement of ionised calcium levels might show falsely decreased values under treatment with leflunomide and/or teriflunomide (the active metabolite of leflunomide) depending on the type of ionised calcium analyser used (e.g. blood gas analyser).
-Therefore, the plausibility of observed decreased ionised calcium levels needs to be questioned in patients under treatment with leflunomide or teriflunomide.
-In case of doubtful measurements, it is recommended to determine the total albumin adjusted serum calcium concentration.
