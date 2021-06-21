@@ -6,15 +6,15 @@ This may constitute a risk in situations where these abilities are of special im
 Patients should be advised to take precautions to avoid hypoglycaemia whilst driving, this is particularly important in those who have reduced or absent awareness of the warning signs of hypoglycaemia or have frequent episodes of hypoglycaemia.
 The advisability of driving should be considered in these circumstances.
 
-[Humalog Mix25 100 units/ml, suspension for injection in vial]
+[Humalog Mix25 100 units/ml suspension for injection in vial]
 
 (all sentences already above)
 
-[Humalog Mix50 100 units/ml, suspension for injection in cartridge]
+[Humalog Mix50 100 units/ml suspension for injection in cartridge]
 
 (all sentences already above)
 
-[Humalog 200 units/ml KwikPen, solution for injection in a pre-filled pen]
+[Humalog 200 units/ml KwikPen solution for injection in a pre-filled pen]
 
 This may constitute a risk in situations where these abilities are of special importance (e.g. driving a car or using machines).
 

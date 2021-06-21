@@ -10,8 +10,10 @@ EU/1/96/007/032
 EU/1/96/007/043
 EU/1/96/007/044
 EU/1/96/007/045
+EU/1/96/007/046
+EU/1/96/007/047
 
-[Humalog Mix25 100 units/ml, suspension for injection in vial]
+[Humalog Mix25 100 units/ml suspension for injection in vial]
 
 EU/1/96/007/005
 EU/1/96/007/008
@@ -19,14 +21,14 @@ EU/1/96/007/024
 EU/1/96/007/033
 EU/1/96/007/034
 
-[Humalog Mix50 100 units/ml, suspension for injection in cartridge]
+[Humalog Mix50 100 units/ml suspension for injection in cartridge]
 
 EU/1/96/007/006
 EU/1/96/007/025
 EU/1/96/007/035
 EU/1/96/007/036
 
-[Humalog 200 units/ml KwikPen, solution for injection in a pre-filled pen]
+[Humalog 200 units/ml KwikPen solution for injection in a pre-filled pen]
 
 EU/1/96/007/039
 EU/1/96/007/040

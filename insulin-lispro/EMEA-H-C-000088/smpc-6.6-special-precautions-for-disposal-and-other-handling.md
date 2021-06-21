@@ -1,7 +1,8 @@
 # 6.6 Special precautions for disposal and other handling
 
 Instructions for use and handling
-To prevent the possible transmission of disease, each cartridge or pen must be used by one patient only, even if the needle on the delivery device is changed.
+
+To prevent the possible transmission of disease, each cartridge or pre-filled pen must be used by one patient only, even if the needle on the delivery device is changed.
 Patients using vials must never share needles or syringes.
 The patient should discard the needle after every injection.
 
@@ -17,6 +18,7 @@ Vial
 The vial is to be used in conjunction with an appropriate syringe (100 unit markings).
 
 i) Humalog
+
 1.
 Wash your hands.
 
@@ -26,7 +28,6 @@ If using a new vial, flip off the plastic protective cap, but do not remove the 
 3.
 If the therapeutic regimen requires the injection of basal insulin and Humalog at the same time, the two can be mixed in the syringe.
 If mixing insulins, refer to the instructions for mixing that follow in Section (ii) and 6.2.
-
 4.
 Draw air into the syringe equal to the prescribed Humalog dose.
 Wipe the top of the vial with a swab.
@@ -70,6 +71,7 @@ Making sure the tip of the needle is in the Humalog, withdraw the correct dose o
 Before removing the needle from the vial, check the syringe for air bubbles that reduce the amount of Humalog in it.
 If bubbles are present, hold the syringe straight up and tap its side until the bubbles float to the top.
 Push them out with the plunger and withdraw the correct dose.
+
 7.
 Remove the needle from the vial of Humalog and insert it into the vial of the longer-acting insulin.
 Turn the vial and syringe upside down.
@@ -78,13 +80,12 @@ Making sure the tip of the needle is in the insulin, withdraw the dose of longer
 
 8.
 Withdraw the needle and lay the syringe down so that the needle does not touch anything.
-
 Cartridge
 Humalog cartridges are to be used with a Lilly reusable insulin pen and should not be used with any other reusable pen as the dosing accuracy has not been established with other pens.
 
 The instructions with each individual pen must be followed for loading the cartridge, attaching the needle and administering the insulin injection.
 
-KwikPen and Junior KwikPen
+KwikPen, Junior KwikPen and Tempo Pen
 Before using the pre-filled pen the user manual included in the package leaflet must be read carefully.
 The pre-filled pen has to be used as recommended in the user manual.
 
@@ -118,10 +119,18 @@ For an injection device use the outer needle cap, unscrew the needle and dispose
 7.
 Use of the injection sites should be rotated so that the same is not used more than approximately once a month.
 
+Humalog Tempo Pen
+
+The Tempo Pen is designed to work with the Tempo Smart Button.
+The Tempo Smart Button is an optional product that can be attached to the Tempo Pen dose knob and aids in transmitting Humalog dose information from the Tempo Pen to a compatible mobile application.
+The Tempo Pen injects insulin with or without the Tempo Smart Button attached.
+To transmit data to the mobile application, follow the instructions provided with the Tempo Smart Button and the instructions with the mobile application
+
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
-[Humalog Mix25 100 units/ml, suspension for injection in vial]
+[Humalog Mix25 100 units/ml suspension for injection in vial]
 
+To prevent the possible transmission of disease, each cartridge or pen must be used by one patient only, even if the needle on the delivery device is changed.
 The Humalog Mix25 should be examined frequently and should not be used if clumps of material are present or if solid white particles stick to the bottom or wall of the container, giving it a frosted appearance.
 
 Vials containing Humalog Mix25 should be rotated in the palms of the hands before use to resuspend the insulin until it appears uniformly cloudy or milky.
@@ -145,7 +154,7 @@ KwikPen
 Before using the KwikPen the user manual included in the package leaflet must be read carefully.
 The KwikPen has to be used as recommended in the user manual.
 
-[Humalog Mix50 100 units/ml, suspension for injection in cartridge]
+[Humalog Mix50 100 units/ml suspension for injection in cartridge]
 
 The Humalog Mix50 should be examined frequently and should not be used if clumps of material are present or if solid white particles stick to the bottom or wall of the container, giving it a frosted appearance.
 
@@ -157,7 +166,7 @@ Using the outer needle cap, unscrew the needle and dispose of it safely.
 
 Use of injection sites should be rotated so that the same site is not used more than approximately once a month.
 
-[Humalog 200 units/ml KwikPen, solution for injection in a pre-filled pen]
+[Humalog 200 units/ml KwikPen solution for injection in a pre-filled pen]
 
 To prevent the possible transmission of disease, each pen must be used by one patient only, even if the needle is changed.
 
