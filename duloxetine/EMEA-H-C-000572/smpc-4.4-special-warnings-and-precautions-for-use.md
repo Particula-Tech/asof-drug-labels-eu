@@ -47,6 +47,7 @@ Cases of suicidal thoughts and suicidal behaviours have been reported during dul
 
 Close supervision of patients and in particular those at high risk should accompany medicinal product therapy especially in early treatment and following dose changes.
 Patients (and caregivers of patients) should be alerted about the need to monitor for any clinical worsening, suicidal behaviour or thoughts and unusual changes in behaviour and to seek medical advice immediately if these symptoms present.
+
 Diabetic Peripheral Neuropathic Pain: As with other medicinal products with similar pharmacological action (antidepressants), isolated cases of suicidal ideation and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation.
 Concerning risk factors for suicidality in depression, see above.
 Physicians should encourage patients to report any distressing thoughts or feelings at any time.
@@ -103,3 +104,6 @@ There have been reports of long-lasting sexual dysfunction where the symptoms ha
 Sucrose
 Cymbalta hard gastro-resistant capsules contain sucrose.
 Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine.
+
+Sodium
+This medicine contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially ‘sodium-free’.

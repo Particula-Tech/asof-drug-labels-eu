@@ -23,7 +23,6 @@ Black iron oxide - synthetic (E172)
 Yellow iron oxide - synthetic (E172)
 Propylene glycol
 Shellac
-
 Cymbalta 60 mg
 Gelatin
 Sodium lauryl sulfate

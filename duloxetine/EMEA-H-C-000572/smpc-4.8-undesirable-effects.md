@@ -12,14 +12,19 @@ Frequency estimate: Very common (≥1/10), common (≥1/100 to <1/10), uncommon 
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
+Very common Common Uncommon Rare Very Rare
+Infections and infestations
+Laryngitis
+Immune system disorders
+Anaphylactic
+reaction
+Hyper-sensitivity
+disorder
+Endocrine disorders
+Hypo-thyroidism
+
 | Very common | Common | Uncommon | Rare | Very Rare |
 | --- | --- | --- | --- | --- |
-| Infections and infestations |  |  |  |  |
-|  |  | Laryngitis |  |  |
-| Immune system disorders |  |  |  |  |
-|  |  |  | Anaphylactic reaction Hyper-sensitivity disorder |  |
-| Endocrine disorders |  |  |  |  |
-|  |  |  | Hypo-thyroidism |  |
 | Metabolism and nutrition disorders |  |  |  |  |
 |  | Decreased Appetite | Hyperglycaemia (reported especially in diabetic patients) | Dehydration Hyponatraemia SIADH6 |  |
 | Psychiatric disorders |  |  |  |  |
@@ -41,8 +46,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Hepato-biliary disorders |  |  |  |  |
 |  |  | Hepatitis3 Elevated liver enzymes (ALT, AST, alkaline phosphatase) Acute liver injury | Hepatic failure6 Jaundice6 |  |
 | Skin and subcutaneous tissue disorders |  |  |  |  |
-|  | Sweating increased Rash | Night sweats Urticaria Dermatitis contact Cold sweat | Stevens-Johnson Syndrome6 Angio-neurotic oedema6 | Cutaneous vasculitis |
-|  |  | Photo-sensitivity reactions Increased tendency to bruise |  |  |
+|  | Sweating increased Rash | Night sweats Urticaria Dermatitis contact Cold sweat Photo-sensitivity reactions Increased tendency to bruise | Stevens-Johnson Syndrome6 Angio-neurotic oedema6 | Cutaneous vasculitis |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
 |  | Musculo-skeletal pain Muscle spasm | Muscle tightness Muscle twitching | Trismus |  |
 | Renal and urinary disorders |  |  |  |  |
@@ -64,6 +68,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 8 Falls were more common in the elderly (≥65 years old).
 9 Estimated frequency based on all clinical trial data.
 10Estimated frequency based on placebo-controlled clinical trials.
+
 c. Description of selected adverse reactions
 Discontinuation of duloxetine (particularly when abrupt) commonly leads to withdrawal symptoms.
 Dizziness, sensory disturbances (including paraesthesia or electric shock-like sensations, particularly in the head), sleep disturbances (including insomnia and intense dreams), fatigue, somnolence, agitation or anxiety, nausea and/or vomiting, tremor, headache, myalgia, irritability, diarrhoea, hyperhydrosis and vertigo are the most commonly reported reactions.
@@ -87,7 +92,6 @@ A total of 467 paediatric patients initially randomized to duloxetine in clinica
 Subsequently, over the four- to six-month extension period, patients on average trended toward recovery to their expected baseline weight percentile based on population data from age- and gender-matched peers.
 
 In studies of up to 9 months an overall mean decrease of 1% in height percentile (decrease of 2% in children (7-11 years) and increase of 0.3% in adolescents (12-17 years)) was observed in duloxetine-treated paediatric patients (see section 4.4).
-
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.

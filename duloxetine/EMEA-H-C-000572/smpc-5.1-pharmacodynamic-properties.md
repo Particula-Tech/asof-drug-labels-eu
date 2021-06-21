@@ -28,6 +28,7 @@ The incidence of relapse during the 6-months double-blind follow-up period was 1
 During 52 weeks of placebo-controlled double blind treatment, duloxetine-treated patients with recurrent MDD had a significantly longer symptom free period (p<0.001) compared with patients randomised to placebo.
 All patients had previously responded to duloxetine during open-label duloxetine treatment (28 to 34 weeks) at a dose of 60 to 120 mg/day.
 During the 52-week placebo-controlled double blind treatment phase 14.4% of the duloxetine-treated patients and 33.1% of the placebo-treated patients experience a return of their depressive symptoms (p<0.001).
+
 The effect of Cymbalta 60 mg once a day in elderly depressed patients (≥65 years) was specifically examined in a study that showed a statistically significant difference in the reduction of the HAMD17 score for duloxetine-treated patients compared to placebo.
 Tolerability of Cymbalta 60 mg once daily in elderly patients was comparable to that seen in the younger adults.
 However, data on elderly patients exposed to the maximum dose (120mg per day) are limited and thus, caution is recommended when treating this population.
@@ -64,6 +65,7 @@ In an open label long-term uncontrolled study, the pain reduction in patients re
 
 Paediatric population
 Duloxetine has not been studied in patients under the age of 7.
+
 Two randomized, double-blind, parallel clinical trials were performed in 800 paediatric patients aged 7 to 17 years with major depressive disorder (see section 4.2).
 These two studies included a 10 week placebo and active (fluoxetine) controlled acute phase followed by six months period of active controlled extension treatment.
 Neither duloxetine (30-120 mg) nor the active control arm (fluoxetine 20-40 mg) statistically separated from placebo on change from baseline to endpoint in the Children´s Depression Rating Scale-Revised (CDRS-R) total score.
