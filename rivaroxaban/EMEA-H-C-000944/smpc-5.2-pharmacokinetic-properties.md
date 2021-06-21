@@ -1,24 +1,24 @@
 # 5.2 Pharmacokinetic properties
 
 Absorption
-Rivaroxaban is rapidly absorbed with maximum concentrations (CRmaxR) appearing 2 - 4 hours after tablet intake.
+Rivaroxaban is rapidly absorbed with maximum concentrations (Cmax) appearing 2 - 4 hours after tablet intake.
 Oral absorption of rivaroxaban is almost complete and oral bioavailability is high (80 - 100%) for the 2.5 mg and 10 mg tablet dose, irrespective of fasting/fed conditions.
-Intake with food does not affect rivaroxaban AUC or CRmaxR at the 2.5 mg and 10 mg dose.
+Intake with food does not affect rivaroxaban AUC or Cmax at the 2.5 mg and 10 mg dose.
 Rivaroxaban 2.5 mg and 10 mg tablets can be taken with or without food.
 Rivaroxaban pharmacokinetics are approximately linear up to about 15 mg once daily.
 At higher doses rivaroxaban displays dissolution limited absorption with decreased bioavailability and decreased absorption rate with increased dose.
 This is more marked in fasting state than in fed state.
 Variability in rivaroxaban pharmacokinetics is moderate with inter-individual variability (CV%) ranging from 30% to 40%.
 Absorption of rivaroxaban is dependent on the site of its release in the gastrointestinal tract.
-A 29% and 56% decrease in AUC and CRmaxR compared to tablet was reported when rivaroxaban granulate is released in the proximal small intestine.
+A 29% and 56% decrease in AUC and Cmax compared to tablet was reported when rivaroxaban granulate is released in the proximal small intestine.
 Exposure is further reduced when rivaroxaban is released in the distal small intestine, or ascending colon.
 Therefore, administration of rivaroxaban distal to the stomach should be avoided since this can result in reduced absorption and related rivaroxaban exposure.
-Bioavailability (AUC and CRmaxR) was comparable for 20 mg rivaroxaban administered orally as a crushed tablet mixed in apple puree, or suspended in water and administered via a gastric tube followed by a liquid meal, compared to a whole tablet.
+Bioavailability (AUC and Cmax) was comparable for 20 mg rivaroxaban administered orally as a crushed tablet mixed in apple puree, or suspended in water and administered via a gastric tube followed by a liquid meal, compared to a whole tablet.
 Given the predictable, dose-proportional pharmacokinetic profile of rivaroxaban, the bioavailability results from this study are likely applicable to lower rivaroxaban doses.
 
 Distribution
 Plasma protein binding in humans is high at approximately 92% to 95%, with serum albumin being the main binding component.
-The volume of distribution is moderate with VRssR being approximately 50 litres.
+The volume of distribution is moderate with Vss being approximately 50 litres.
 
 Biotransformation and elimination
 Of the administered rivaroxaban dose, approximately 2/3 undergoes metabolic degradation, with half then being eliminated renally and the other half eliminated by the faecal route.
@@ -71,7 +71,7 @@ Pharmacokinetic data in patients
 In patients receiving rivaroxaban 2.5 mg twice daily for the prevention of atherothrombotic events in patients with ACS the geometric mean concentration (90% prediction interval) 2 - 4 h and about 12 h after dose (roughly representing maximum and minimum concentrations during the dose interval) was 47 (13 - 123) and 9.2 (4.4 - 18) mcg/l, respectively.
 Pharmacokinetic/pharmacodynamic relationship
 The pharmacokinetic/pharmacodynamic (PK/PD) relationship between rivaroxaban plasma concentration and several PD endpoints (factor-Xa inhibition, PT, aPTT, Heptest) has been evaluated after administration of a wide range of doses (5 - 30 mg twice a day).
-The relationship between rivaroxaban concentration and factor-Xa activity was best described by an ERmaxR model.
+The relationship between rivaroxaban concentration and factor-Xa activity was best described by an Emax model.
 For PT, the linear intercept model generally described the data better.
 Depending on the different PT reagents used, the slope differed considerably.
 When Neoplastin PT was used, baseline PT was about 13 s and the slope was around 3 to 4 s/(100 mcg/l).
@@ -87,7 +87,7 @@ Variability in rivaroxaban pharmacokinetics is moderate with inter-individual va
 In patients receiving rivaroxaban for prevention of VTE 10 mg once daily the geometric mean concentration (90% prediction interval) 2 - 4 h and about 24 h after dose (roughly representing maximum and minimum concentrations during the dose interval) was 101 (7 - 273) and 14 (4 ‑ 51) mcg/l, respectively.
 
 The pharmacokinetic/pharmacodynamic (PK/PD) relationship between rivaroxaban plasma concentration and several PD endpoints (factor Xa inhibition, PT, aPTT, Heptest) has been evaluated after administration of a wide range of doses (5 - 30 mg twice a day).
-The relationship between rivaroxaban concentration and factor Xa activity was best described by an ERmaxR model.
+The relationship between rivaroxaban concentration and factor Xa activity was best described by an Emax model.
 In patients, baseline factor Xa and PT were influenced by the surgery resulting in a difference in the concentration-PT slope between the day post-surgery and steady state.
 
 Safety and efficacy have not been established in the indication primary prevention of VTE for children and adolescents up to 18 years.
@@ -111,13 +111,13 @@ Rivaroxaban 15 mg tablets should be taken with feeding or with food (see section
 Plasma protein binding in adults is high at approximately 92% to 95%, with serum albumin being the main binding component.
 No data on rivaroxaban plasma protein binding specific to children is available.
 No PK data following intravenous administration of rivaroxaban to children is available.
-VRssR estimated via population PK modelling in children (age range 0 to < 18 years) following oral administration of rivaroxaban is dependent on body weight and can be described with an allometric function, with an average of 113 L for a subject with a body weight of 82.8 kg.
+Vss estimated via population PK modelling in children (age range 0 to < 18 years) following oral administration of rivaroxaban is dependent on body weight and can be described with an allometric function, with an average of 113 L for a subject with a body weight of 82.8 kg.
 
 In adults, of the administered rivaroxaban dose, approximately 2/3 undergoes metabolic degradation, with half then being eliminated renally and the other half eliminated by the faecal route.
 
 No metabolism data specific to children is available.
 CL estimated via population PK modelling in children (age range 0 to < 18 years) following oral administration of rivaroxaban is dependent on body weight and can be described with an allometric function, with an average of 8 L/h for a subject with body weight of 82.8 kg.
-The geometric mean values for disposition half-lives (tR1/2R) estimated via population PK modelling decrease with decreasing age and ranged from 4.2 h in adolescents to approximately 3 h in children aged 2-12 years down to 1.9 and 1.6 h in children aged 0.5-< 2 years and less than 0.5 years, respectively.
+The geometric mean values for disposition half-lives (t1/2) estimated via population PK modelling decrease with decreasing age and ranged from 4.2 h in adolescents to approximately 3 h in children aged 2-12 years down to 1.9 and 1.6 h in children aged 0.5-< 2 years and less than 0.5 years, respectively.
 
 In adults, there were no clinically relevant differences in pharmacokinetics and pharmacodynamics between male and female patients.
 An exploratory analysis did not reveal relevant differences in rivaroxaban exposure between male and female children.
@@ -132,7 +132,7 @@ Cirrhotic adult patients with mild hepatic impairment (classified as Child Pugh 
 No clinical data is available in children with hepatic impairment.
 
 In adults, there was an increase in rivaroxaban exposure correlated to decrease in renal function, as assessed via creatinine clearance measurements.
-No clinical data is available in children 1 year or older with moderate or severe renal impairment (glomerular filtration rate < 50 mL/min/1.73 mP2P).
+No clinical data is available in children 1 year or older with moderate or severe renal impairment (glomerular filtration rate < 50 mL/min/1.73 m2).
 
 In patients receiving rivaroxaban for treatment of acute DVT 20 mg once daily the geometric mean concentration (90% prediction interval) 2 - 4 h and about 24 h after dose (roughly representing maximum and minimum concentrations during the dose interval) was 215 (22 - 535) and 32 (6 - 239) mcg/l, respectively.
 
@@ -175,7 +175,7 @@ Rivaroxaban oral suspension should be taken with feeding or with food (see secti
 
 In adults, cirrhotic patients with mild hepatic impairment (classified as Child Pugh A) exhibited only minor changes in rivaroxaban pharmacokinetics (1.2 fold increase in rivaroxaban AUC on average), nearly comparable to their matched healthy control group.
 
-No clinical data is available in children 1 year or older with moderate or severe renal impairment (glomerular filtration rate < 50 mL/min/1.73 mP2P) or in children younger than 1 year with serum creatinine results above 97.5th percentile (see section 4.4).
+No clinical data is available in children 1 year or older with moderate or severe renal impairment (glomerular filtration rate < 50 mL/min/1.73 m2) or in children younger than 1 year with serum creatinine results above 97.5th percentile (see section 4.4).
 
 An exploratory analysis in children did not reveal a relevant impact of underweight or obesity on rivaroxaban exposure.
 

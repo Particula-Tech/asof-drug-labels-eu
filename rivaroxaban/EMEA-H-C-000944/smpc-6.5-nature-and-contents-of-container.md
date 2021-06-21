@@ -37,7 +37,7 @@ Xarelto 1 mg/mL granules for oral suspension is packed in a folding box containi
   - 1 adapter for bottles and blue syringes
   - 1 water syringe 50 mL with 1 mL marked graduations
 
-51Tor
+or
 
 - For children weighing 4 kg and more:
   - 5.25 g granules, corresponding to 103.4 mg rivaroxaban, in 1 brown glass bottle 250 mL, closed with a child resistant screw cap

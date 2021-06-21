@@ -134,7 +134,7 @@ The risk of bleeding should be carefully evaluated before and during therapy wit
 
 In adult patients with severe renal impairment (creatinine clearance < 30 ml/min) rivaroxaban plasma levels may be significantly increased (1.6 fold on average) which may lead to an increased bleeding risk.
 Xarelto should be used with caution in patients with renal impairment concomitantly receiving other medicinal products which increase rivaroxaban plasma concentrations (see section 4.5).
-Xarelto is not recommended in children and adolescents with moderate or severe renal impairment (glomerular filtration rate < 50 mL/min/1.73 mP2P), as no clinical data is available.
+Xarelto is not recommended in children and adolescents with moderate or severe renal impairment (glomerular filtration rate < 50 mL/min/1.73 m2), as no clinical data is available.
 
 These active substances are strong inhibitors of both CYP3A4 and P-gp and therefore may increase rivaroxaban plasma concentrations to a clinically relevant degree (2.6 fold on average) which may lead to an increased bleeding risk.
 No clinical data is available in children receiving concomitant systemic treatment with strong inhibitors of both CYP 3A4 and P-gp (see section 4.5).
@@ -185,7 +185,7 @@ In the clinical studies mucosal bleedings (i.e. epistaxis, gingival, gastrointes
 
 Several sub-groups of patients, as detailed below, are at an increased risk of bleeding.
 
-Xarelto is not recommended in children 1 year or older with moderate or severe renal impairment (glomerular filtration rate < 50 mL/min/1.73 mP2P), as no clinical data is available.
+Xarelto is not recommended in children 1 year or older with moderate or severe renal impairment (glomerular filtration rate < 50 mL/min/1.73 m2), as no clinical data is available.
 Xarelto is not recommended in children younger than 1 year with serum creatinine results above 97.5th percentile, as no clinical data are available.
 
 No clinical data is available in children receiving concomitant systemic treatment with strong inhibitors of both CYP3A4 and P-gp.

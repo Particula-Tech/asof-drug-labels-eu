@@ -197,11 +197,11 @@ No dose adjustment is necessary in patients with mild renal impairment (creatini
 
 - Children and adolescents with mild renal impairment (glomerular filtration rate
 
-50 - 80 mL/min/1.73 mP2P): no dose adjustment is required, based on data in adults and limited data in paediatric patients (see section 5.2).
+50 - 80 mL/min/1.73 m2): no dose adjustment is required, based on data in adults and limited data in paediatric patients (see section 5.2).
 
 - Children and adolescents with moderate or severe renal impairment (glomerular filtration rate
 
-< 50 mL/min/1.73 mP2P): Xarelto is not recommended as no clinical data is available (see section 4.4).
+< 50 mL/min/1.73 m2): Xarelto is not recommended as no clinical data is available (see section 4.4).
 
 No clinical data is available in children with hepatic impairment.
 
@@ -224,7 +224,7 @@ The tablets are to be taken with food (see section 5.2).
 After the administration of crushed Xarelto 15 mg or 20 mg film-coated tablets, the dose should be immediately followed by food.
 
 Children and adolescents weighing 30 kg to 50 kg
-49T he patient should be advised to 49Tswallow the tablet with liquid.
+The patient should be advised to swallow the tablet with liquid.
 It should also be taken with food (see section 5.2).
 The tablets should be taken approximately 24 hours apart.
 
@@ -353,7 +353,7 @@ VKA treatment should be stopped and Xarelto therapy should be initiated once the
 
 Table 2: Reference values of serum creatinine in children younger than 1 year of age (Boer et al, 2010)
 
-| Age | 97.5PthP percentile of creatinine (µmol/L ) | 97.5PthP percentile of creatinine (mg/dL ) |
+| Age | 97.5th percentile of creatinine (µmol/L ) | 97.5th percentile of creatinine (mg/dL ) |
 | --- | --- | --- |
 | Day 1 | 81 | 0.92 |
 | Day 2 | 69 | 0.78 |

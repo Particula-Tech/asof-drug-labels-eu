@@ -1,6 +1,7 @@
 # 4.9 Overdose
 
-Rare cases of overdose up to 600 mg have been reported without bleeding complications or other adverse reactions.
+Rare cases of overdose up to 1,960 mg have been reported.
+In case of overdose, the patient should be observed carefully for bleeding complications or other adverse reactions (see section “Management of bleeding”).
 Due to limited absorption a ceiling effect with no further increase in average plasma exposure is expected at supratherapeutic doses of 50 mg rivaroxaban or above.
 A specific reversal agent (andexanet alfa) antagonising the pharmacodynamic effect of rivaroxaban is available (refer to the Summary of Product Characteristics of andexanet alfa).
 The use of activated charcoal to reduce absorption in case of rivaroxaban overdose may be considered.
@@ -27,7 +28,7 @@ Due to the high plasma protein binding rivaroxaban is not expected to be dialysa
 
 [Xarelto 15 mg film-coated tablets]
 
-In adults, rare cases of overdose up to 600 mg have been reported without bleeding complications or other adverse reactions.
+In adults, rare cases of overdose up to 1,960 mg have been reported.
 There is limited data available in children.
 Due to limited absorption a ceiling effect with no further increase in average plasma exposure is expected at supratherapeutic doses of 50 mg rivaroxaban or above in adults, however, no data is available at supratherapeutic doses in children.
 A specific reversal agent (andexanet alfa) antagonising the pharmacodynamic effect of rivaroxaban is available for adults, but not established in children (refer to the Summary of Product Characteristics of andexanet alfa).

@@ -45,7 +45,7 @@ Common Uncommon Rare Very rare Not known
 Blood and lymphatic system disorders
 Anaemia (incl. Thrombocytosis
 respective (incl. platelet count
-laboratory increased)PAP,
+laboratory increased)A,
 parameters) thrombocytopenia
 Immune system disorders
 Allergic reaction, Anaphylactic
@@ -78,17 +78,17 @@ haemorrhage),
 gastrointestinal and
 abdominal pains,
 dyspepsia, nausea,
-constipationPAP,
+constipationA,
 diarrhoea,
-vomitingPA
+vomitingA
 Hepatobiliary disorders
 Increase in Hepatic Jaundice, bilirubin
 transaminases impairment, conjugated
 increased bilirubin, increased (with or
 increased blood without
 alkaline concomitant
-phosphatasePAP, increase of ALT),
-increased GGTPA cholestasis,
+phosphataseA, increase of ALT),
+increased GGTA cholestasis,
 hepatitis (incl.
 hepatocellular
 injury)
@@ -98,15 +98,15 @@ injury)
 | Skin and subcutaneous tissue disorders |  |  |  |  |
 | Pruritus (incl. uncommon cases of generalised pruritus), rash, ecchymosis, cutaneous and subcutaneous haemorrhage | Urticaria |  | Stevens-Johnson syndrome/Toxic Epidermal Necrolysis, DRESS syndrome |  |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
-| Pain in extremityPA | Haemarthrosis | Muscle haemorrhage |  | Compartment syndrome secondary to a bleeding |
+| Pain in extremityA | Haemarthrosis | Muscle haemorrhage |  | Compartment syndrome secondary to a bleeding |
 | Renal and urinary disorders |  |  |  |  |
-| Urogenital tract haemorrhage (incl. haematuria and menorrhagiaPB)P, renal impairment (incl. blood creatinine increased, blood urea increased) |  |  |  | Renal failure/acute renal failure secondary to a bleeding sufficient to cause hypoperfusion |
+| Urogenital tract haemorrhage (incl. haematuria and menorrhagiaB), renal impairment (incl. blood creatinine increased, blood urea increased) |  |  |  | Renal failure/acute renal failure secondary to a bleeding sufficient to cause hypoperfusion |
 | General disorders and administration site conditions |  |  |  |  |
-| FeverPA,P peripheral oedema, decreased general strength and energy (incl. fatigue and asthenia) | Feeling unwell (incl. malaise) | Localised oedemaPA |  |  |
+| FeverA, peripheral oedema, decreased general strength and energy (incl. fatigue and asthenia) | Feeling unwell (incl. malaise) | Localised oedemaA |  |  |
 | Investigations |  |  |  |  |
-|  | Increased LDHPA,P increased lipasePA,P increased amylasePA |  |  |  |
+|  | Increased LDHA, increased lipaseA, increased amylaseA |  |  |  |
 | Injury, poisoning and procedural complications |  |  |  |  |
-| Postprocedural haemorrhage (incl. postoperative anaemia, and wound haemorrhage), contusion, wound secretionPA |  | Vascular pseudoaneurysmPC |  |  |
+| Postprocedural haemorrhage (incl. postoperative anaemia, and wound haemorrhage), contusion, wound secretionA |  | Vascular pseudoaneurysmC |  |  |
 
 A: observed in prevention of VTE in adult patients undergoing elective hip or knee replacement surgery
 B: observed in treatment of DVT, PE and prevention of recurrence as very common in women
@@ -129,7 +129,7 @@ Therefore, the possibility of haemorrhage is to be considered in evaluating the 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in 45TAppendix V45T.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [Xarelto 10 mg film-coated tablets]
 
@@ -155,8 +155,6 @@ The safety of rivaroxaban has been evaluated in thirteen phase III studies in ad
 | Prevention of atherothrombotic events in patients after an ACS | 22 per 100 patient years | 1.4 per 100 patient years |
 | Prevention of atherothrombotic events in patients with CAD/PAD | 6.7 per 100 patient years | 0.15 per 100 patient years** |
 
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
 [Xarelto 15 mg film-coated tablets]
 
 | Indication | Number of patients* | Total daily dose | Maximum treatment duration |
@@ -180,7 +178,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 | Prevention of atherothrombotic events in patients with CAD/PAD | 6.7 per 100 patient years | 0.15 per 100 patient years** |
 
 respective laboratory (incl. platelet count
-parameters) increased)PAP,
+parameters) increased)A,
 thrombocytopenia
 dermatitis allergic, reactions
 angioedema and including
@@ -191,7 +189,7 @@ intracranial
 gastrointestinal tract
 haemorrhage (incl.
 rectal haemorrhage),
-diarrhoea, vomitingPA
+diarrhoea, vomitingA
 
 Paediatric population
 The safety assessment in children and adolescents is based on the safety data from two phase II and one phase III open-label active controlled studies in paediatric patients aged birth to less than 18 years.
@@ -226,16 +224,16 @@ Table 5: All adverse reactions reported in adult patients in phase III clinical 
 | Common | Uncommon | Rare | Very rare | Not known |
 | --- | --- | --- | --- | --- |
 | Skin and subcutaneous tissue disorders |  |  |  |  |
-| Pruritus (incl. uncommon cases of generalised pruritus), rash, ecchymosis, cutaneous and subcutaneous haemorrhage | Urticaria |  | Stevens-Johnson syndrome/ Toxic Epidermal NecrolysisP ,P DRESS syndrome |  |
+| Pruritus (incl. uncommon cases of generalised pruritus), rash, ecchymosis, cutaneous and subcutaneous haemorrhage | Urticaria |  | Stevens-Johnson syndrome/ Toxic Epidermal Necrolysis , DRESS syndrome |  |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
-| Pain in extremityPA | Haemarthrosis | Muscle haemorrhage |  | Compartment syndrome secondary to a bleeding |
+| Pain in extremityA | Haemarthrosis | Muscle haemorrhage |  | Compartment syndrome secondary to a bleeding |
 | Renal and urinary disorders |  |  |  |  |
-| Urogenital tract haemorrhage (incl. haematuria and menorrhagiaPB)P, renal impairment (incl. blood creatinine increased, blood urea increased) |  |  |  | Renal failure/acute renal failure secondary to a bleeding sufficient to cause hypoperfusion |
+| Urogenital tract haemorrhage (incl. haematuria and menorrhagiaB), renal impairment (incl. blood creatinine increased, blood urea increased) |  |  |  | Renal failure/acute renal failure secondary to a bleeding sufficient to cause hypoperfusion |
 | General disorders and administration site conditions |  |  |  |  |
-| FeverPA,P peripheral oedema, decreased general strength and energy (incl. fatigue and asthenia) | Feeling unwell (incl. malaise) | Localised oedemaPA |  |  |
+| FeverA, peripheral oedema, decreased general strength and energy (incl. fatigue and asthenia) | Feeling unwell (incl. malaise) | Localised oedemaA |  |  |
 | Investigations |  |  |  |  |
-|  | Increased LDHPA,P increased lipasePA,P increased amylasePA |  |  |  |
+|  | Increased LDHA, increased lipaseA, increased amylaseA |  |  |  |
 | Injury, poisoning and procedural complications |  |  |  |  |
-| Postprocedural haemorrhage (incl. postoperative anaemia, and wound haemorrhage), contusion, wound secretionPA |  | Vascular pseudoaneurysmPC |  |  |
+| Postprocedural haemorrhage (incl. postoperative anaemia, and wound haemorrhage), contusion, wound secretionA |  | Vascular pseudoaneurysmC |  |  |
 
 Paediatric patients

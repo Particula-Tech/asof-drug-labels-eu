@@ -43,9 +43,9 @@ The results of this patient population were also consistent with the overall eff
 
 Table 4: Efficacy results from phase III ATLAS ACS 2 TIMI 51
 
-| Study population | Patients with a recent acute coronary syndrome Pa) |  |
+| Study population | Patients with a recent acute coronary syndrome a) |  |
 | --- | --- | --- |
-| Treatment dose | Rivaroxaban 2.5 mg, twice daily, N=5,114 n (%) Hazard Ratio (HR) (95% CI) p-value Pb) | Placebo N=5,113 n (%) |
+| Treatment dose | Rivaroxaban 2.5 mg, twice daily, N=5,114 n (%) Hazard Ratio (HR) (95% CI) p-value b) | Placebo N=5,113 n (%) |
 | Cardiovascular death, MI or stroke | 313 (6.1%) 0.84 (0.72, 0.97) p = 0.020* | 376 (7.4%) |
 | All-cause death, MI or stroke | 320 (6.3%) 0.83 (0.72, 0.97) p = 0.016* | 386 (7.5%) |
 | Cardiovascular death | 94 (1.8%) 0.66 (0.51, 0.86) p = 0.002** | 143 (2.8%) |
@@ -59,9 +59,9 @@ a) modified intent to treat analysis set (intent to treat total analysis set for
 ** nominally significant
 Table 5: Efficacy results from phase III ATLAS ACS 2 TIMI 51 in patients undergoing PCI
 
-| Study population | Patients with recent acute coronary syndrome undergoing PCI Pa) |  |
+| Study population | Patients with recent acute coronary syndrome undergoing PCI a) |  |
 | --- | --- | --- |
-| Treatment dose | Rivaroxaban 2.5 mg, twice daily, N=3114 n (%) HR (95% CI) p-value Pb) | Placebo N=3096 n (%) |
+| Treatment dose | Rivaroxaban 2.5 mg, twice daily, N=3114 n (%) HR (95% CI) p-value b) | Placebo N=3096 n (%) |
 | Cardiovascular death, MI or stroke | 153 (4.9%) 0.94 (0.75, 1.17) p = 0.572 | 165 (5.3%) |
 | Cardiovascular death | 24 (0.8%) 0.54 (0.33, 0.89) p = 0.013** | 45 (1.5%) |
 | All-cause death | 31 (1.0%) 0.64 (0.41, 1.01) p = 0.053 | 49 (1.6%) |
@@ -74,9 +74,9 @@ a) modified intent to treat analysis set (intent to treat total analysis set for
 
 Table 6: Safety results from phase III ATLAS ACS 2 TIMI 51
 
-| Study population | Patients with recent acute coronary syndrome Pa) |  |
+| Study population | Patients with recent acute coronary syndrome a) |  |
 | --- | --- | --- |
-| Treatment dose | Rivaroxaban 2.5 mg, twice daily, N=5,115 n (%) HR (95% CI) p-value Pb) | Placebo N=5,125 n(%) |
+| Treatment dose | Rivaroxaban 2.5 mg, twice daily, N=5,115 n (%) HR (95% CI) p-value b) | Placebo N=5,125 n(%) |
 | Non-CABG TIMI major bleeding event | 65 (1.3%) 3.46 (2.08, 5.77) p = < 0.001* | 19 (0.4%) |
 | Fatal bleeding event | 6 (0.1%) 0.67 (0.24, 1.89) p = 0.450 | 9 (0.2%) |
 | Symptomatic intracranial haemorrhage | 14 (0.3%) 2.83 (1.02, 7.86) p = 0.037 | 5 (0.1%) |
@@ -137,10 +137,10 @@ The use of pantoprazole 40 mg once daily in addition to antithrombotic study med
 
 Table 7: Efficacy results from phase III COMPASS
 
-| Study population | Patients with CAD/PAD Pa) |  |  |  |  |  |
+| Study population | Patients with CAD/PAD a) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Treatment dose | Rivaroxaban 2.5 mg bid in combination with ASA 100 mg od N=9152 |  | ASA 100 mg od N=9126 |  |  |  |
-|  | Patients with events | KM % | Patients with events | KM % | HR (95% CI) | p-value Pb) |
+|  | Patients with events | KM % | Patients with events | KM % | HR (95% CI) | p-value b) |
 | Stroke, MI or CV death | 379 (4.1%) | 5.20% | 496 (5.4%) | 7.17% | 0.76 (0.66;0.86) | p = 0.00004* |
 | - Stroke | 83 (0.9%) | 1.17% | 142 (1.6%) | 2.23% | 0.58 (0.44;0.76) | p = 0.00006 |
 | - MI | 178 (1.9%) | 2.46% | 205 (2.2%) | 2.94% | 0.86 (0.70;1.05) | p = 0.14458 |
@@ -153,9 +153,9 @@ a) intention to treat analysis set, primary analyses b) vs ASA 100 mg; Log-Rank 
 bid: twice daily; CI: confidence interval; KM %: Kaplan-Meier estimates of cumulative incidence risk calculated at 900 days; CV: cardiovascular; MI: myocardial infarction; od: once daily
 Table 8: Safety results from phase III COMPASS
 
-| Study population | Patients with CAD/PAD Pa) |  |  |
+| Study population | Patients with CAD/PAD a) |  |  |
 | --- | --- | --- | --- |
-| Treatment dose | Rivaroxaban 2.5 mg bid in combination with ASA 100 mg od, N=9152 n (Cum. risk %) | ASA 100 mg od N=9126 n (Cum.risk %) | Hazard Ratio (95 % CI) p-value Pb) |
+| Treatment dose | Rivaroxaban 2.5 mg bid in combination with ASA 100 mg od, N=9152 n (Cum. risk %) | ASA 100 mg od N=9126 n (Cum.risk %) | Hazard Ratio (95 % CI) p-value b) |
 | Modified ISTH major bleeding | 288 (3.9%) | 170 (2.5%) | 1.70 (1.40;2.05) p < 0.00001 |
 | - Fatal bleeding event | 15 (0.2%) | 10 (0.2%) | 1.49 (0.67;3.33) p = 0.32164 |
 | - Symptomatic bleeding in critical organ (non-fatal) | 63 (0.9%) | 49 (0.7%) | 1.28 (0.88;1.86) p = 0.19679 |
@@ -167,8 +167,7 @@ Table 8: Safety results from phase III COMPASS
 | Major intracranial bleeding | 28 (0.4%) | 24 (0.3%) | 1.16 (0.67;2.00) p = 0.59858 |
 
 a) intention-to-treat analysis set, primary analyses b) vs ASA 100 mg; Log-Rank p-value bid: twice daily; CI: confidence interval; Cum.
-Risk: Cumulative incidence risk (Kaplan-Meier estimates) at 30 months; ISTH: 1TInternational Society on Thrombosis and Haemostasis; 1Tod:
-once daily
+Risk: Cumulative incidence risk (Kaplan-Meier estimates) at 30 months; ISTH: International Society on Thrombosis and Haemostasis; od: once daily
 Figure 2: Time to first occurrence of primary efficacy outcome (stroke, myocardial infarction, cardiovascular death) in COMPASS
 
 Kaplan-Meier Estimates (%) at 30 months:
@@ -269,7 +268,7 @@ Table 5: Efficacy and safety results from phase III Einstein DVT
 
 | Study population | 3,449 patients with symptomatic acute deep vein thrombosis |  |
 | --- | --- | --- |
-| Treatment dose and duration | Rivaroxaban Pa) 3, 6 or 12 months N=1,731 | Enoxaparin/VKAPb) 3, 6 or 12 months N=1,718 |
+| Treatment dose and duration | Rivaroxaban a) 3, 6 or 12 months N=1,731 | Enoxaparin/VKAb) 3, 6 or 12 months N=1,718 |
 | Symptomatic recurrent VTE* | 36 (2.1%) | 51 (3.0%) |
 | Symptomatic recurrent PE | 20 (1.2%) | 18 (1.0%) |
 | Symptomatic recurrent DVT | 14 (0.8%) | 28 (1.6%) |
@@ -293,7 +292,7 @@ Table 6: Efficacy and safety results from phase III Einstein PE
 
 | Study population | 4,832 patients with an acute symptomatic PE |  |
 | --- | --- | --- |
-| Treatment dose and duration | Rivaroxaban Pa) 3, 6 or 12 months N=2,419 | Enoxaparin/VKAPb) 3, 6 or 12 months N=2,413 |
+| Treatment dose and duration | Rivaroxaban a) 3, 6 or 12 months N=2,419 | Enoxaparin/VKAb) 3, 6 or 12 months N=2,413 |
 | Symptomatic recurrent VTE* | 50 (2.1%) | 44 (1.8%) |
 | Symptomatic recurrent PE | 23 (1.0%) | 20 (0.8%) |
 | Symptomatic recurrent DVT | 18 (0.7%) | 17 (0.7%) |
@@ -310,7 +309,7 @@ Table 7: Efficacy and safety results from pooled analysis of phase III Einstein 
 
 | Study population | 8,281 patients with an acute symptomatic DVT or PE |  |
 | --- | --- | --- |
-| Treatment dose and duration | Rivaroxaban Pa) 3, 6 or 12 months N=4,150 | Enoxaparin/VKAPb) 3, 6 or 12 months N=4,131 |
+| Treatment dose and duration | Rivaroxaban a) 3, 6 or 12 months N=4,150 | Enoxaparin/VKAb) 3, 6 or 12 months N=4,131 |
 | Symptomatic recurrent VTE* | 86 (2.1%) | 95 (2.3%) |
 | Symptomatic recurrent PE | 43 (1.0%) | 38 (0.9%) |
 | Symptomatic recurrent DVT | 32 (0.8%) | 45 (1.1%) |
@@ -331,7 +330,7 @@ Table 8: Efficacy and safety results from phase III Einstein Extension
 
 | Study population | 1,197 patients continued treatment and prevention of recurrent venous thromboembolism |  |
 | --- | --- | --- |
-| Treatment dose and duration | Rivaroxaban Pa)P 6 or 12 months N=602 | Placebo 6 or 12 months N=594 |
+| Treatment dose and duration | Rivaroxaban a) 6 or 12 months N=602 | Placebo 6 or 12 months N=594 |
 | Symptomatic recurrent VTE* | 8 (1.3%) | 42 (7.1%) |
 | Symptomatic recurrent PE | 2 (0.3%) | 13 (2.2%) |
 | Symptomatic recurrent DVT | 5 (0.8%) | 31 (5.2%) |
@@ -357,12 +356,12 @@ Table 9: Efficacy and safety results from phase III Einstein Choice
 | Symptomatic recurrent VTE, MI, stroke, or non-CNS systemic embolism | 19 (1.7%) | 18 (1.6%) | 56 (5.0%) |
 | Major bleeding events | 6 (0.5%) | 5 (0.4%) | 3 (0.3%) |
 | Clinically relevant non-major bleeding | 30 (2.7) | 22 (2.0) | 20 (1.8) |
-| Symptomatic recurrent VTE or major bleeding (net clinical benefit) | 23 (2.1%)P+ | 17 (1.5%)P++ | 53 (4.7%) |
+| Symptomatic recurrent VTE or major bleeding (net clinical benefit) | 23 (2.1%)+ | 17 (1.5%)++ | 53 (4.7%) |
 
 * p<0.001(superiority) rivaroxaban 20 mg od vs ASA 100 mg od; HR=0.34 (0.20–0.59)
 ** p<0.001 (superiority) rivaroxaban 10 mg od vs ASA 100 mg od; HR=0.26 (0.14–0.47)
-P+ PRivaroxaban 20 mg od vs ASA 100 mg od; HR=0.44 (0.27–0.71), p=0.0009 (nominal)
-P++ PRivaroxaban 10 mg od vs ASA 100 mg od; HR=0.32 (0.18–0.55), p<0.0001 (nominal)
++ Rivaroxaban 20 mg od vs ASA 100 mg od; HR=0.44 (0.27–0.71), p=0.0009 (nominal)
+++ Rivaroxaban 10 mg od vs ASA 100 mg od; HR=0.32 (0.18–0.55), p<0.0001 (nominal)
 
 In addition to the phase III EINSTEIN programme, a prospective, non-interventional, open-label cohort study (XALIA) with central outcome adjudication including recurrent VTE, major bleeding and death has been conducted.
 5,142 patients with acute DVT were enrolled to investigate the long-term safety of rivaroxaban compared with standard-of-care anticoagulation therapy in clinical practice.
@@ -417,7 +416,7 @@ Table 4: Efficacy results from phase III ROCKET AF
 
 Table 5: Safety results from phase III ROCKET AF
 
-| Study population | Patients with non-valvular atrial fibrillationPa) |  |  |
+| Study population | Patients with non-valvular atrial fibrillationa) |  |  |
 | --- | --- | --- | --- |
 | Treatment dose | Rivaroxaban 20 mg once daily (15 mg once daily in patients with moderate renal impairment) Event rate (100 pt-yr) | Warfarin titrated to a target INR of 2.5 (therapeutic range 2.0 to 3.0) Event rate (100 pt-yr) | HR (95% CI) p-value |
 | Major and non-major clinically relevant bleeding events | 1,475 (14.91) | 1,449 (14.52) | 1.03 (0.96 - 1.11) 0.442 |
@@ -435,7 +434,7 @@ a) Safety population, on treatment
 
 In addition to the phase III ROCKET AF study, a prospective, single-arm, post-authorisation, non-interventional, open-label cohort study (XANTUS) with central outcome adjudication including thromboembolic events and major bleeding has been conducted.
 6,785 patients with non-valvular atrial fibrillation were enrolled for prevention of stroke and non-central nervous system (CNS) systemic embolism in clinical practice.
-The mean CHADSR2R and HAS-BLED scores were both 2.0 in XANTUS, compared to a mean CHADSR2R and HAS-BLED score of 3.5 and 2.8 in ROCKET AF, respectively.
+The mean CHADS2 and HAS-BLED scores were both 2.0 in XANTUS, compared to a mean CHADS2 and HAS-BLED score of 3.5 and 2.8 in ROCKET AF, respectively.
 Major bleeding occurred in 2.1 per 100 patient years.
 Fatal haemorrhage was reported in 0.2 per 100 patient years and intracranial haemorrhage in 0.4 per 100 patient years.
 Stroke or non-CNS systemic embolism was recorded in 0.8 per 100 patient years.
@@ -496,10 +495,7 @@ Table 10: Efficacy and safety results from phase III Einstein Choice
 | Symptomatic recurrent VTE, MI, stroke, or non-CNS systemic embolism | 19 (1.7%) | 18 (1.6%) | 56 (5.0%) |
 | Major bleeding events | 6 (0.5%) | 5 (0.4%) | 3 (0.3%) |
 | Clinically relevant non-major bleeding | 30 (2.7) | 22 (2.0) | 20 (1.8) |
-| Symptomatic recurrent VTE or major bleeding (net clinical benefit) | 23 (2.1%)P+ | 17 (1.5%)P++ | 53 (4.7%) |
-
-** p<0.001 (superiority) rivaroxaban 10 mg od vs ASA 100 mg od; HR=0.26 (0.14-0.47)P
-P++P Rivaroxaban 10 mg od vs ASA 100 mg od; HR=0.32 (0.18-0.55), p<0.0001 (nominal)
+| Symptomatic recurrent VTE or major bleeding (net clinical benefit) | 23 (2.1%)+ | 17 (1.5%)++ | 53 (4.7%) |
 
 Treatment of VTE and prevention of VTE recurrence in paediatric patients
 A total of 727 children with confirmed acute VTE, of whom 528 received rivaroxaban, were studied in 6 open-label, multicentre paediatric studies.
