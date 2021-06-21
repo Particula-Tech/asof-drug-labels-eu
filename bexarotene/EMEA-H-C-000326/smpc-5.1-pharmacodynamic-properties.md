@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: other antineoplastic agents, ATC code: L01XX25
+Pharmacotherapeutic group: other antineoplastic agents, ATC code: L01XF03
 
 Mechanism of action
 
