@@ -1,6 +1,6 @@
 # 4.1 Therapeutic indications
 
-Nordimet is indicated for the treatment of
+Nordimet is indicated for the treatment of:
 
 - active rheumatoid arthritis in adult patients,
 - polyarthritic forms of severe, active juvenile idiopathic arthritis (JIA), when the response to nonsteroidal anti-inflammatory drugs (NSAIDs) has been inadequate,

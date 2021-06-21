@@ -1,11 +1,15 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antineoplastic and immunomodulating agents, other immunosuppressants.
+Pharmacotherapeutic group: Immunosuppressants, other immunosuppressants.
 ATC code: L04AX03
+
+Mechanism of action
 
 Methotrexate is a folic acid antagonist which belongs to the class of cytotoxic agents known as antimetabolites.
 It acts by the competitive inhibition of the enzyme dihydrofolate reductase and thus inhibits DNA synthesis.
 It has not yet been clarified, as to whether the efficacy of methotrexate, in the management of psoriasis, psoriatic arthritis, chronic polyarthritis and Crohn’s disease is due to an anti-inflammatory or immunosuppressive effect and to which extent a methotrexate-induced increase in extracellular adenosine concentration at inflamed sites contributes to these effects.
+
+Clinical efficacy and safety
 
 A study of weekly injections of methotrexate in a group of patients with chronically active Crohn’s disease (despite at least three months of prednisone therapy), showed that methotrexate was more effective than placebo in improving symptoms and reducing requirements for prednisone.
 A total of 141 patients were randomly assigned in a 2:1 ratio to methotrexate (25 mg weekly) or placebo.

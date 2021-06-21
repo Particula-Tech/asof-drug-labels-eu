@@ -1,6 +1,7 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
+
 Most serious adverse reactions of methotrexate include bone marrow suppression, pulmonary toxicity, hepatotoxicity, renal toxicity, neurotoxicity, thromboembolic events, anaphylactic shock and Stevens-Johnson syndrome.
 
 Most frequently (very common) observed adverse reactions of methotrexate include gastrointestinal disorders (e.g. stomatitis, dyspepsia, abdominal pain, nausea, loss of appetite) and abnormal liver function tests (e.g. increased Alanine aminotransferase (ALAT), Aspartate aminotransferase (ASAT), bilirubin, alkaline phosphatase).
@@ -9,6 +10,7 @@ Other frequently (common) occurring adverse reactions are leukopenia, anaemia, t
 The most relevant adverse reaction is suppression of the haematopoietic system and gastrointestinal disorders.
 
 List of adverse reactions
+
 Frequencies are defined using the following convention:
 very common (≥ 1/10) common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare
 (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data).
@@ -29,6 +31,7 @@ Not known: Eosinophilia
 
 Immune system disorders
 Rare: Allergic reactions, anaphylactic shock, hypogammaglobulinaemia.
+
 Metabolism and nutrition disorders
 Uncommon: Precipitation of diabetes mellitus.
 
@@ -77,6 +80,7 @@ Uncommon: Photosensitisation, loss of hair, increase in rheumatic nodules, skin 
 Rare: Increased pigmentation, acne, petechiae, ecchymosis, allergic vasculitis.
 Very rare: Stevens-Johnson syndrome, toxic epidermal necrolysis (Lyell’s syndrome), increased pigmentary changes of the nails, acute paronychia, furunculosis, telangiectasia.
 Not known: Skin exfoliation / dermatitis exfoliative
+
 Musculoskeletal and connective tissue disorders
 Uncommon: Arthralgia, myalgia, osteoporosis.
 Rare: Stress fracture.
@@ -96,13 +100,16 @@ Rare: Fever, wound-healing impairment.
 Not known: Asthenia, injection site necrosis, oedema.
 
 Description of selected adverse reactions
-Lymphoma/Lymphoproliferative disorders: there have been reports of individual cases of lymphoma and other lymphoproliferative disorders which subsided in a number of cases once treatment with methotrexate had been discontinued.
+
+Lymphoma/Lymphoproliferative disorders
+There have been reports of individual cases of lymphoma and other lymphoproliferative disorders which subsided in a number of cases once treatment with methotrexate had been discontinued.
 
 The appearance and degree of severity of undesirable effects depends on the dosage level and the frequency of administration.
 However, as severe undesirable effects can occur even at lower doses, it is indispensable that patients are monitored regularly by the doctor at short intervals.
 Only mild local skin reactions (such as burning sensations, erythema, swelling, discolouration, pruritus, severe itching, pain) were observed with subcutaneous use, decreasing during therapy.
 
 Reporting of suspected adverse reactions
+
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
