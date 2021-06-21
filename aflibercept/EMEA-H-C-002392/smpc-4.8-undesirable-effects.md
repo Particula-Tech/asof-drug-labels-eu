@@ -37,11 +37,10 @@ This increased incidence was comparable between patients treated with ranibizuma
 
 Arterial thromboembolic events (ATEs) are adverse events potentially related to systemic VEGF inhibition.
 There is a theoretical risk of arterial thromboembolic events, including stroke and myocardial infarction, following intravitreal use of VEGF inhibitors.
-
 A low incidence rate of arterial thromboembolic events was observed in the Eylea clinical trials in patients with AMD, DME, RVO and myopic CNV.
 Across indications no notable difference between the groups treated with aflibercept and the respective comparator groups were observed.
-As with all therapeutic proteins, there is a potential for immunogenicity with Eylea.
 
+As with all therapeutic proteins, there is a potential for immunogenicity with Eylea.
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

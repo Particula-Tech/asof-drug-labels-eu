@@ -35,7 +35,7 @@ Holding the syringe with the needle pointing up, check the syringe for bubbles.
 If there are bubbles, gently tap the syringe with your finger until the bubbles rise to the top.
 
 7.
-Eliminate all bubbles and expel excess medicinal product by slowly depressing the plunger rod to align the cylindrical base of the plunger dome edge with the black dosing line on the syringe (equivalent to 50 microlitres).
+Eliminate all bubbles and expel excess medicinal product by slowly depressing the plunger rod to uct by slowly depressing the plu align the cylindrical base of the plunger dome edge with the black dosing line on the syringe th the black dosing line on the s (equivalent to 50 microlitres).
 
 8.
 The pre-filled syringe is for single use only.
@@ -47,6 +47,14 @@ Any unused medicinal product or waste material should be disposed of in accordan
 The vial is for single use in one eye only.
 Since the vial contains more volume (100 microlitres) than the recommended dose (50 microlitres), a part of the volume contained in the vial has to be discarded prior to the administration.
 
+Filter needle:
+BD Blunt Filter (Fill) Needle, not for skin injection.
+Do not autoclave the BD Blunt Filter (Fill) Needle.
+The filter needle is non-pyrogenic.
+Do not use it if individual packaging is damaged.
+Discard the used BD Blunt Filter (Fill) Needle in approved sharps collector.
+Caution: Re-use of the filter needle may lead to infection or other illness/injury.
+
 Instructions for use of vial:
 
 Remove the plastic cap and disinfect the outer part of the rubber stopper of the vial.
@@ -54,7 +62,6 @@ Remove the plastic cap and disinfect the outer part of the rubber stopper of the
 Attach the 18 G, 5-micron filter needle supplied in the carton to a 1-mL sterile, Luer-lock syringe.
 
 Push the filter needle into the centre of the vial stopper until the needle is completely inserted into the vial and the tip touches the bottom or bottom edge of the vial.
-
 Using aseptic technique withdraw all of the Eylea vial contents into the syringe, keeping the vial in an upright position, slightly inclined to ease complete withdrawal.
 To deter the introduction of air, ensure the bevel of the filter needle is submerged into the liquid.
 Continue to tilt the vial during withdrawal keeping the bevel of the filter needle submerged in the liquid.
@@ -67,7 +74,6 @@ Using aseptic technique, firmly twist a 30 G x ½ inch injection needle onto the
 
 9.
 Eliminate all bubbles and expel excess medicinal product by slowly depressing the plunger so that the plunger tip aligns with the line that marks 0.05 mL on the syringe.
-
 10.
 The vial is for single use only.
 Extraction of multiple doses from a single vial may increase the risk of contamination and subsequent infection.

@@ -24,7 +24,6 @@ Wet AMD is characterised by pathological choroidal neovascularisation (CNV).
 Leakage of blood and fluid from CNV may cause retinal thickening or oedema and/or sub-/intra-retinal haemorrhage, resulting in loss of visual acuity.
 
 In patients treated with Eylea (one injection per month for three consecutive months, followed by one injection every 2 months), central retinal thickness [CRT] decreased soon after treatment initiation, and the mean CNV lesion size was reduced, consistent with the results seen with ranibizumab 0.5 mg every month.
-
 In the VIEW1 study there were mean decreases in CRT on optical coherence tomography (OCT) (-130 and -129 microns at week 52 for the Eylea 2 mg every two months and ranibizumab 0.5 mg every month study groups, respectively).
 Also at the 52 week time point, in the VIEW2 study there were mean decreases in CRT on OCT (-149 and -139 microns for the Eylea 2 mg every two months and ranibizumab 0.5 mg every month study groups, respectively).
 The reduction of CNV size and reduction in CRT were generally maintained in the second year of the studies.
@@ -33,6 +32,9 @@ The ALTAIR study was conducted in Japanese patients with treatment naïve wet AM
 At week 52, there were mean decreases in central retinal thickness (CRT) on OCT of -134.4 and –126.1 microns for the 2-week adjustment group and the 4-week adjustment group, respectively.
 The proportion of patients without fluid on OCT at week 52 was 68.3% and 69.1% in the 2- and 4-week adjustment groups, respectively.
 The reduction in CRT was generally maintained in both treatment arms in the second year of the ALTAIR study.
+
+The ARIES study was designed to explore the non-inferiority of an Eylea 2 mg treat-and-extend dosing regimen initiated immediately after administration of 3 initial monthly injections and one additional injection after 2 months vs. a treat-and-extend dosing regimen initiated after one year of treatment.
+For patients requiring a more frequent than Q8 dosing at least once over the course of the study, CRT remained higher, but the mean decrease in CRT from baseline to week 104 was -160.4 microns, similar to the patients treated at Q8 or less frequent intervals.
 
 Macular oedema secondary to CRVO and BRVO
 
@@ -56,6 +58,10 @@ A ≥ 2 step improvement in DRSS was assessed in a pre-specified manner in VIVID
 The DRSS score was gradable in 73.7% of the patients in VIVIDDME and 98.3% of the patients in VISTADME.
 At week 52, 27.7% and 29.1% of the Eylea 2Q8 groups, and 7.5% and 14.3% of the control groups experienced a ≥2 step improvement in the DRSS.
 At week 100, the respective percentages were 32.6% and 37.1% of the Eylea 2Q8 groups and 8.2% and 15.6% of the control groups.
+
+The VIOLET study compared three different dosing regimens of Eylea 2 mg for treatment of DME after at least one year of treatment at fixed intervals, where treatment was initiated with 5 consecutive monthly doses followed by dosing every 2 months.
+At week 52 and week 100 of the study, i.e. second and third year of treatment, the mean changes in CRT were clinically similar for treat-and-extend (2T&E), pro re nata (2PRN) and 2Q8, respectively, -2.1, 2.2 and -18.8 microns at week 52, and 2.3, -13.9 and -15.5 microns at week 100.
+
 Myopic choroidal neovascularisation
 
 Myopic choroidal neovascularisation (myopic CNV) is a frequent cause of vision loss in adults with pathologic myopia.
@@ -148,6 +154,16 @@ Over the 2 year treatment period patients received an average of 10.4 injections
 
 Ocular and systemic safety profiles were similar to the safety observed in the pivotal studies VIEW1 and VIEW2.
 
+ARIES was a 104-week multicentre, randomised, open-label, active-controlled study in 269 patients with treatment naïve wet AMD, designed to assess the non-inferiority in terms of efficacy as well as the safety of a treat-and-extend dosing regimen initiated after 3 consecutive monthly doses followed by extension to a 2 monthly treatment interval vs. a treat-and-extend dosing regimen initiated after the first year of treatment.
+The ARIES study also explored the percentage of patients that required more frequent treatment than every 8 weeks based on the investigator’s decision.
+Out of the 269 patients 62 patients received more frequent dosing at least once during the course of the study.
+Such patients remained in the study and received treatment according to the investigator’s best clinical judgement but not more frequently than every 4 weeks and their treatment intervals could be extended again afterwards.
+The average treatment interval after the decision to treat more frequently was 6.1 weeks.
+Week 104 BCVA was lower in patients requiring more intensive treatment at least once over the course of the study compared with patients who did not and the mean change in BCVA from baseline to end of the study was +2.3 ±
+15.6 letters.
+Among the patients treated more frequently, 85.5% maintained vision, i.e. lost less than15 letters, and 19.4% gained 15 letters or more.
+The safety profile of patients treated more frequently than every 8 weeks was comparable to the safety data in VIEW 1 and VIEW 2.
+
 Macular oedema secondary to CRVO
 
 The safety and efficacy of Eylea were assessed in two randomised, multi-centre, double-masked, sham-controlled studies in patients with macular oedema secondary to CRVO (COPERNICUS and GALILEO) with a total of 358 patients treated and evaluable for efficacy (217 with Eylea).
@@ -160,7 +176,6 @@ From this timepoint all patients were treated if pre-specified criteria were met
 
 In both studies, the primary efficacy endpoint was the proportion of patients who gained at least 15 letters in BCVA at week 24 compared to baseline.
 A secondary efficacy variable was change in visual acuity at week 24 compared to baseline.
-
 The difference between treatment groups was statistically significant in favour of Eylea in both studies.
 The maximal improvement in visual acuity was achieved at month 3 with subsequent stabilisation of visual acuity and CRT until month 6.
 The statistically significant difference was maintained through week 52.
@@ -302,6 +317,17 @@ An independent comparative trial (DRCR.net Protocol T) utilised a dosing regimen
 In the aflibercept treatment group (n = 224) at week 52, this treatment regimen resulted in patients receiving a mean of 9.2 injections, which is similar to the administered number of doses in the Eylea 2Q8 group in VIVIDDME and VISTADME, while overall efficacy of the aflibercept treatment group in Protocol T was comparable to the Eylea 2Q8 group in VIVIDDME and VISTADME.
 A 13.3 mean letter gain with 42% of patients gaining at least 15 letters in vision from baseline was observed in Protocol T. Ocular and systemic safety profiles (including ATEs) were similar to VIVIDDME and VISTADME.
 
+VIOLET, a 100-week multicentre, randomised, open-label, active controlled study in patients with DME compared three different dosing regimens of Eylea 2 mg for treatment of DME after at least one year of treatment at fixed intervals, where treatment was initiated with 5 consecutive monthly doses followed by dosing every 2 months.
+The study evaluated non-inferiority of Eylea 2 mg dosed according to a treat-and-extend regimen (2T&E where injections intervals were kept at a minimum of 8 weeks and gradually extended based onclinical and anatomical outcomes) and Eylea 2 mg dosed as needed (2PRN where patients were observed every 4 weeks and injected when needed based on clinical and anatomical outcomes), compared to Eylea 2 mg dosed every 8 weeks (2Q8) for the second and third year of treatment.
+
+The primary efficacy endpoint (change in BCVA from baseline to week 52) was 0.5 ± 6.7 letters in the 2T&E group and 1.7 ± 6.8 letters in the 2PRN group compared to 0.4 ± 6.7 letters in the 2Q8 group, achieving statistical non-inferiority (p<0.0001 for both comparisons; NI margin 4 letters).
+The changes in BCVA from baseline to week 100 were consistent with the week 52 results: -0.1 ± 9.1 letters in the 2T&E group and 1.8 ± 9.0 letters in the 2PRN group compared to 0.4 ± 6.7 letters in the 2Q8 group.
+The mean number of injections over 100 weeks were 12.3, 10.0 and 11.5 for 2Q8fix, 2T&E and 2PRN, respectively.
+
+Ocular and systemic safety profiles in all 3 treatment groups were similar to those observed in the pivotal studies VIVID and VISTA.
+
+In the 2T&E group, the increments and decrements for the injection intervals were at the investigator’s discretion; increments of 2 weeks were recommended in the study.
+
 Myopic choroidal neovascularisation
 
 The safety and efficacy of Eylea were assessed in a randomised, multi-centre, double-masked, sham-controlled study in treatment-naïve, Asian patients with myopic CNV.
@@ -384,6 +410,8 @@ At the last visit up to week 52, 56.
 
 C) LS mean difference and 95% CI based on an ANCOVA model with treatment group, baseline BCVA category
 (> 20/200 and ≤ 20/200) and region (North America vs. Japan) as fixed effects, and baseline BCVA as covariate.
+
+The study evaluated non-inferiority of Eylea 2 mg dosed according to a treat-and-extend regimen (2T&E where injections intervals were kept at a minimum of 8 weeks and gradually extended based on clinical and anatomical outcomes) and Eylea 2 mg dosed as needed (2PRN where patients were observed every 4 weeks and injected when needed based on clinical and anatomical outcomes), compared to Eylea 2 mg dosed every 8 weeks (2Q8) for the second and third year of treatment.
 
 | Efficacy Outcomes | MYRROR |  |  |  |
 | --- | --- | --- | --- | --- |

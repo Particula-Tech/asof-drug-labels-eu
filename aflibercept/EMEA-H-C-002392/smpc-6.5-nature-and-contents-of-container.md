@@ -7,3 +7,4 @@ Pack size of 1.
 
 100 microlitres of solution in a vial (type I glass) with a stopper (elastomeric rubber), and an 18
 G filter needle.
+Pack size of 1 vial + 1 filter needle.

@@ -14,11 +14,11 @@ Eylea treatment is initiated with one injection per month for three consecutive 
 The treatment interval is then extended to two months.
 
 Based on the physician’s judgement of visual and/or anatomic outcomes, the treatment interval may be maintained at two months or further extended using a treat-and-extend dosing regimen, where injection intervals are increased in 2- or 4-weekly increments to maintain stable visual and/or anatomic outcomes.
-If visual and/or anatomic outcomes deteriorate, the treatment interval should be shortened accordingly to a minimum of two months during the first 12 months of treatment.
+If visual and/or anatomic outcomes deteriorate, the treatment interval should be shortened accordingly.
 
 There is no requirement for monitoring between injections.
 Based on the physician’s judgement the schedule of monitoring visits may be more frequent than the injection visits.
-Treatment intervals greater than four months between injections have not been studied (see Section 5.1).
+Treatment intervals greater than four months or shorter than 4 weeks between injections have not been studied (see Section 5.1).
 
 Macular oedema secondary to RVO (branch RVO or central RVO)
 
@@ -45,12 +45,15 @@ The recommended dose for Eylea is 2 mg aflibercept equivalent to 50 microlitres.
 Eylea treatment is initiated with one injection per month for five consecutive doses, followed by one injection every two months.
 There is no requirement for monitoring between injections.
 
-After the first 12 months of treatment with Eylea, and based on visual and/or anatomic outcomes, the treatment interval may be extended, such as with a treat-and-extend dosing regimen, where the treatment intervals are gradually increased to maintain stable visual and/or anatomic outcomes; however there are insufficient data to conclude on the length of these intervals.
+After the first 12 months of treatment with Eylea, and based on the physician’s judgement of visual and/or anatomic outcomes, the treatment interval may be extended, such as with a treat-and-extend dosing regimen, where the treatment intervals are usually increased by 2-week increments to maintain stable visual and/or anatomic outcomes.
+There are limited data for treatment intervals longer than 4 months.
 If visual and/or anatomic outcomes deteriorate, the treatment interval should be shortened accordingly.
 
 The schedule for monitoring should therefore be determined by the treating physician and may be more frequent than the schedule of injections.
 
 If visual and anatomic outcomes indicate that the patient is not benefiting from continued treatment, Eylea should be discontinued.
+
+Treatment intervals shorter than 4 weeks between injections have not been studied (see section 5.1).
 
 Myopic choroidal neovascularisation
 
@@ -106,9 +109,6 @@ After injection any unused product must be discarded.
 For handling of the medicinal product before administration, see section 6.6.
 
 [Eylea 40 mg/mL solution for injection in a vial.]
-
-Treatment intervals greater than four months between injections have not been studied (see
-Section 5.1).
 
 Each vial should only be used for the treatment of a single eye.
 Extraction of multiple doses from a single vial may increase the risk of contamination and subsequent infection.
