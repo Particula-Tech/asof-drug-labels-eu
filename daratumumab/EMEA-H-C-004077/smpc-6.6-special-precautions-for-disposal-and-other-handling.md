@@ -25,12 +25,10 @@ Prepare the solution for infusion using aseptic technique as follows:
 - Do not store any unused portion of the infusion solution for reuse.
   Any unused product or waste material should be disposed of in accordance with local requirements.
 
-[DARZALEX 1,800 mg solution for injection.]
+[DARZALEX 1 800 mg solution for injection.]
 
 DARZALEX solution for subcutaneous injection is for single use only and is ready to use.
-
 DARZALEX solution for subcutaneous injection should be a clear to opalescent and colourless to yellow solution.
-Do not use if opaque particles, discoloration or other foreign particles are present.
 
 DARZALEX solution for subcutaneous injection is compatible with polypropylene or polyethylene syringe material; polypropylene, polyethylene, or polyvinyl chloride (PVC) subcutaneous infusion sets; and stainless steel transfer and injection needles.
 

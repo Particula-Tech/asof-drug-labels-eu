@@ -13,7 +13,6 @@ A subset of myeloid derived suppressor cells (CD38+MDSCs), regulatory T cells (C
 T cells (CD3+, CD4+, and CD8+) are also known to express CD38 depending on the stage of development and the level of activation.
 Significant increases in CD4+ and CD8+ T cell absolute counts, and percentages of lymphocytes, were observed with daratumumab treatment in peripheral whole blood and bone marrow.
 In addition, T-cell receptor DNA sequencing verified that T-cell clonality was increased with daratumumab treatment, indicating immune modulatory effects that may contribute to clinical response.
-
 Daratumumab induced apoptosis in vitro after Fc mediated cross-linking.
 In addition, daratumumab modulated CD38 enzymatic activity, inhibiting the cyclase enzyme activity and stimulating the hydrolase activity.
 The significance of these in vitro effects in a clinical setting, and the implications on tumour growth, are not well-understood.
@@ -25,17 +24,14 @@ Decreases in absolute counts and percentages of total NK cells (CD16+CD56+) and 
 However, baseline levels of NK cells did not show an association with clinical response.
 
 Immunogenicity
-Patients treated with daratumumab monotherapy (n=199) and combination therapy (n=1051) were evaluated for anti-therapeutic antibody responses to daratumumab at multiple time points during treatment and up to 8 weeks following the end of treatment.
-Following the start of daratumumab treatment, none of the monotherapy patients and 2 of the 1051 combination therapy patients tested positive for anti-daratumumab antibodies; 1 of the combination therapy patients developed transient neutralising antibodies against daratumumab.
-However, the employed assay has limitations in detecting anti-daratumumab antibodies in the presence of high concentrations of daratumumab.
-Therefore, the incidence of antibody development might not have been reliably determined.
+In patients treated with intravenous daratumumab in clinical trials, less than 1% of patients developed treatment-emergent anti-daratumumab antibodies.
 
 Clinical efficacy and safety
 Newly diagnosed multiple myeloma
 Combination treatment with lenalidomide and dexamethasone in patients ineligible for autologous stem cell transplant:
 Study MMY3008, an open-label, randomised, active-controlled Phase III study, compared treatment with DARZALEX 16 mg/kg in combination with lenalidomide and low-dose dexamethasone (DRd) to treatment with lenalidomide and low-dose dexamethasone (Rd) in patients with newly diagnosed multiple myeloma.
 Lenalidomide (25 mg once daily orally on Days 1-21 of repeated 28-day [4-week] cycles) was given with low dose oral or intravenous dexamethasone 40 mg/week (or a reduced dose of 20 mg/week for patients >75 years or body mass index [BMI] <18.5).
-On DARZALEX infusion days, the dexamethasone dose was given as a pre-infusion medication.
+On DARZALEX infusion days, the dexamethasone dose was given as a pre-infusion medicinal product.
 Dose adjustments for lenalidomide and dexamethasone were applied according to manufacturer’s prescribing information.
 Treatment was continued in both arms until disease progression or unacceptable toxicity.
 
@@ -49,7 +45,6 @@ Efficacy was evaluated by progression free survival (PFS) based on International
 Study MMY3008 showed an improvement in Progression Free Survival (PFS) in the DRd arm as compared to the Rd arm; the median PFS had not been reached in the DRd arm and was 31.9 months in the Rd arm (hazard ratio [HR]=0.56; 95% CI: 0.43, 0.73; p<0.0001), representing 44% reduction in the risk of disease progression or death in patients treated with DRd.
 Results of an updated PFS analysis approximately 9 months after the original clinical cutoff, continued to show an improvement in PFS for patients in the DRd arm compared with the Rd arm.
 Median PFS was not reached in the DRd arm and was 33.8 months in the Rd arm (HR=0.56; 95% CI: 0.44, 0.71; p<0.0001).
-
 Figure 1: Kaplan-Meier Curve of PFS in Study MMY3008
 
 Additional efficacy results from Study MMY3008 are presented in Table 7 below.
@@ -81,9 +76,10 @@ The median duration of response had not been reached in the DRd group and was 34
 
 Combination treatment with bortezomib, melphalan and prednisone (VMP) in patients ineligible for autologous stem cell transplant:
 Study MMY3007, an open-label, randomised, active-controlled Phase III study, compared treatment with DARZALEX 16 mg/kg in combination with bortezomib, melphalan and prednisone (D-VMP), to treatment with VMP in patients with newly diagnosed multiple myeloma.
-Bortezomib was administered by subcutaneous (SC) injection at a dose of 1.3 mg/m2 body surface area twice weekly at Weeks 1, 2, 4 and 5 for the first 6-week cycle (Cycle 1; 8 doses), followed by once weekly administrations at Weeks 1, 2, 4 and 5 for eight more 6-week cycles (Cycles 2-9; 4 doses per cycle).
+Bortezomib was administered by subcutaneous injection at a dose of 1.3 mg/m2 body surface area twice weekly at Weeks 1, 2, 4 and 5 for the first 6-week cycle (Cycle 1; 8 doses), followed by once weekly administrations at Weeks 1, 2, 4 and 5 for eight more 6-week cycles (Cycles 2-9; 4 doses per cycle).
 Melphalan at 9 mg/m2, and prednisone at 60 mg/m2 were orally administered on Days 1 to 4 of the nine 6-week cycles (Cycles 1-9).
 DARZALEX treatment was continued until disease progression or unacceptable toxicity.
+
 A total of 706 patients were randomised: 350 to the D-VMP arm and 356 to the VMP arm.
 The baseline demographic and disease characteristics were similar between the two treatment groups.
 The median age was 71 (range: 40-93) years, with 30% of the patients ≥75 years of age.
@@ -94,6 +90,7 @@ Efficacy was evaluated by PFS based on IMWG criteria and overall survival (OS).
 With a median follow-up of 16.5 months, the primary analysis of PFS in Study MMY3007 showed an improvement in the D-VMP arm as compared to the VMP arm; the median PFS had not been reached in the D-VMP arm and was 18.1 months in the VMP arm (HR=0.5; 95% CI: 0.38, 0.65; p<0.0001).
 Results of an updated PFS analysis after a median follow-up of 40 months continued to show an improvement in PFS for patients in the D-VMP arm compared with the VMP arm.
 Median PFS was 36.4 months in the D-VMP arm and 19.3 months in the VMP arm (HR=0.42; 95% CI: 0.34, 0.51; p<0.0001), representing a 58% reduction in the risk of disease progression or death in patients treated with D-VMP.
+
 Figure 2: Kaplan-Meier Curve of PFS in Study MMY3007
 
 After a median follow-up of 40 months, D-VMP has shown an overall survival (OS) advantage over the VMP arm (HR=0.60; 95% CI: 0.46, 0.80; p=0.0003), representing a 40% reduction in the risk of death in patients treated in the D-VMP arm.
@@ -138,11 +135,11 @@ The consolidation phase of treatment began a minimum of 30 days post-ASCT, when 
 In Part 2, subjects with at least a partial response (PR) by Day 100 post-transplant were re-randomised in a 1:1 ratio to daratumumab maintenance or observation only.
 Only results from Part 1 are described henceforth.
 
-Bortezomib was administered by SC injection or IV injection at a dose of 1.3 mg/m2 body surface area twice weekly for two weeks (Days 1, 4, 8, and 11) of repeated 28 day (4-week) induction treatment cycles (Cycles 1-4) and two consolidation cycles (Cycles 5 and 6) following ASCT after Cycle 4.
+Bortezomib was administered by subcutaneous injection or intravenous injection at a dose of 1.3 mg/m2 body surface area twice weekly for two weeks (Days 1, 4, 8, and 11) of repeated 28 day (4-week) induction treatment cycles (Cycles 1-4) and two consolidation cycles (Cycles 5 and 6) following ASCT after Cycle 4.
 Thalidomide was administered orally at 100 mg daily during the six bortezomib cycles.
 Dexamethasone (oral or intravenous) was administered at 40 mg on Days 1, 2, 8, 9, 15, 16, 22 and 23 of Cycles 1 and 2, and at 40 mg on Days 1-2 and 20 mg on subsequent dosing days (Days 8, 9, 15, 16) of Cycles 3-4.
 Dexamethasone 20 mg was administered on Days 1, 2, 8, 9, 15, 16 in Cycles 5 and 6.
-On the days of DARZALEX infusion, the dexamethasone dose was administered intravenously as a pre-infusion medication.
+On the days of DARZALEX infusion, the dexamethasone dose was administered intravenously as a pre-infusion medicinal product.
 Dose adjustments for bortezomib, thalidomide and dexamethasone were applied according to manufacturer’s prescribing information.
 
 A total of 1085 patients were randomised: 543 to the D-VTd arm and 542 to the VTd arm.
@@ -223,7 +220,7 @@ At a survival update with a median duration of follow-up of 15.2 months, median 
 Combination treatment with lenalidomide:
 Study MMY3003, an open-label, randomised, active-controlled Phase III trial, compared treatment with DARZALEX 16 mg/kg in combination with lenalidomide and low-dose dexamethasone (DRd) to treatment with lenalidomide and low-dose dexamethasone (Rd) in patients with relapsed or refractory multiple myeloma who had received at least one prior therapy.
 Lenalidomide (25 mg once daily orally on Days 1-21 of repeated 28-day [4-week] cycles) was given with low dose dexamethasone at 40 mg/week (or a reduced dose of 20 mg/week for patients >75 years or BMI <18.5).
-On DARZALEX infusion days, 20 mg of the dexamethasone dose was given as a pre-infusion medication and the remainder given the day after the infusion.
+On DARZALEX infusion days, 20 mg of the dexamethasone dose was given as a pre-infusion medicinal product and the remainder given the day after the infusion.
 Treatment was continued in both arms until disease progression or unacceptable toxicity.
 
 A total of 569 patients were randomised; 286 to the DRd arm and 283 to the Rd arm.
@@ -260,10 +257,9 @@ Median OS was not reached for either treatment group.
 With an overall median follow-up of 13.5 months, the hazard ratio for OS was 0.64 (95% CI: 0.40, 1.01; p=0.0534).
 Combination treatment with bortezomib:
 Study MMY3004, an open-label, randomised, active-controlled Phase III trial, compared treatment with DARZALEX 16 mg/kg in combination with bortezomib and dexamethasone (DVd), to treatment with bortezomib and dexamethasone (Vd) in patients with relapsed or refractory multiple myeloma who had received at least one prior therapy.
-Bortezomib was administered by SC injection or IV infusion at a dose of 1.3 mg/m2 body surface area twice weekly for two weeks (Days 1, 4, 8, and 11) of repeated 21 day (3-week) treatment cycles, for a total of 8 cycles.
-Dexamethasone was administered orally at a dose of 20 mg on Days 1, 2, 4, 5, 8, 9, 11, and 12 of each of the 8 bortezomib cycles
-(80 mg/week for two out of three weeks of the bortezomib cycle) or a reduced dose of 20 mg/week for patients >75 years, BMI <18.5, poorly controlled diabetes mellitus or prior intolerance to steroid therapy.
-On the days of DARZALEX infusion, 20 mg of the dexamethasone dose was administered as a pre-infusion medication.
+Bortezomib was administered by subcutaneous injection or intravenous injection at a dose of 1.3 mg/m2 body surface area twice weekly for two weeks (Days 1, 4, 8, and 11) of repeated 21 day (3-week) treatment cycles, for a total of 8 cycles.
+Dexamethasone was administered orally at a dose of 20 mg on Days 1, 2, 4, 5, 8, 9, 11, and 12 of each of the 8 bortezomib cycles (80 mg/week for two out of three weeks of the bortezomib cycle) or a reduced dose of 20 mg/week for patients >75 years, BMI <18.5, poorly controlled diabetes mellitus or prior intolerance to steroid therapy.
+On the days of DARZALEX infusion, 20 mg of the dexamethasone dose was administered as a pre-infusion medicinal product.
 DARZALEX treatment was continued until disease progression or unacceptable toxicity.
 
 A total of 498 patients were randomised; 251 to the DVd arm and 247 to the Vd arm.
@@ -305,34 +301,32 @@ Linear mixed PK-PD analyses indicated no large increase in mean QTcF interval (i
 Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with DARZALEX in all subsets of the paediatric population in multiple myeloma (see section 4.2 for information on paediatric use).
 
-[DARZALEX 1,800 mg solution for injection.]
+[DARZALEX 1 800 mg solution for injection.]
 
 DARZALEX solution for subcutaneous injection contains recombinant human hyaluronidase (rHuPH20). rHuPH20 works locally and transiently to degrade hyaluronan ((HA), a naturally occurring glycoaminoglycan found throughout the body) in the extracellular matrix of the subcutaneous space by cleaving the linkage between the two sugars (N-acetylglucosamine and glucuronic acid) which comprise HA. rHuPH20 has a half-life in skin of less than 30 minutes.
 Hyaluronan levels in subcutaneous tissue return to normal within 24 to 48 hours because of the rapid biosynthesis of hyaluronan.
 
-The incidence of treatment-emergent anti-daratumumab antibodies for DARZALEX subcutaneous formulation treatment was low, with 1 out of 451 patients tested positive for anti-drug antibodies.
-The 1 patient in monotherapy that was positive for anti-daratumumab antibody also had transient neutralising antibodies.
-There were no treatment-emergent anti-daratumumab antibody positive patients in combination therapies study.
-The anti-daratumumab antibodies and neutralising antibodies did not appear to impact daratumumab exposures.
+Daratumumab is an IgG1κ human monoclonal antibody (mAb) that binds to the CD38 protein expressed on the surface of cells in a variety of hematological malignancies, including clonal plasma cells in multiple myeloma and AL amyloidosis, as well as other cell types and tissues.
 
-The incidence of treatment-emergent non-neutralizing anti-rHuPH20 antibodies was 7.8% (35/447); with 7.5% (19/255) in the monotherapy DARZALEX subcutaneous formulation groups, and 8.3% (16/192) in the pooled combination DARZALEX subcutaneous formulation groups.
+In multiple myeloma and AL amyloidosis patients treated with subcutaneous daratumumab in monotherapy and combination clinical trials, less than 1% of patients developed treatment-emergent anti-daratumumab antibodies.
+
+In multiple myeloma and AL amyloidosis patients, the incidence of treatment-emergent non-neutralizing anti-rHuPH20 antibodies was 7.3% (55/750) in patients who received either monotherapy DARZALEX subcutaneous formulation or combination DARZALEX subcutaneous formulation.
 The anti-rHuPH20 antibodies did not appear to impact daratumumab exposures.
 The clinical relevance of the development of anti-daratumumab or anti-rHuPH20 antibodies after treatment with DARZALEX subcutaneous formulation is not known.
 
 Clinical experience of DARZALEX solution for subcutaneous injection (subcutaneous formulation)
 Monotherapy – relapsed/refractory multiple myeloma
-MMY3012, an open-label, randomised, Phase III non-inferiority study, compared efficacy and safety of treatment with DARZALEX solution for subcutaneous injection (1,800 mg) vs. intravenous
+MMY3012, an open-label, randomised, Phase III non-inferiority study, compared efficacy and safety of treatment with DARZALEX solution for subcutaneous injection (1 800 mg) vs. intravenous
 (16 mg/kg) daratumumab in patients with relapsed or refractory multiple myeloma who had received at least 3 prior lines of therapy including a proteasome inhibitor and an immunomodulatory agent or who were double-refractory to a proteasome inhibitor (PI) and an immunomodulatory agent (IMiD).
 Treatment continued until unacceptable toxicity or disease progression.
-
 A total of 522 patients were randomised: 263 to the DARZALEX subcutaneous formulation arm and 259 to the intravenous daratumumab arm.
 The median patient age was 67 years (range: 33-92 years), 55% were male and 78% were Caucasian.
 The median patient weight was 73 kg (range: 29 – 138 kg) Patients had received a median of 4 prior lines of therapy.
 A total of 51% of patients had prior autologous stem cell transplant (ASCT), 100% of patients were previously treated with both PI(s) and IMiD(s) and most patients were refractory to a prior systemic therapy, including both PI and IMiD (49%).
 
-The study met its co-primary endpoints of overall response rate (ORR) by the IMWG response criteria (Table 6) and maximum Ctrough at pre-dose Cycle 3 Day 1, (see section 5.2).
+The study met its co-primary endpoints of overall response rate (ORR) by the IMWG response criteria (Table 7) and maximum Ctrough at pre-dose Cycle 3 Day 1, (see section 5.2).
 
-Table 6: Key results from Study MMY3012
+Table 7: Key results from Study MMY3012
 
 |  | Subcutaneous Daratumumab (N=263) | Intravenous Daratumumab (N=259) |
 | --- | --- | --- |
@@ -360,7 +354,7 @@ Results from the modified-CTSQ, a patient reported outcome questionnaire that as
 However, open-label studies are subject to bias.
 
 Combination therapies in multiple myeloma
-MMY2040 was an open-label trial evaluating the efficacy and safety of DARZALEX subcutaneous formulation 1,800 mg:
+MMY2040 was an open-label trial evaluating the efficacy and safety of DARZALEX subcutaneous formulation 1 800 mg:
 
 - in combination with bortezomib, melphalan, and prednisone (D-VMP) in patients with newly diagnosed multiple myeloma (MM) who are ineligible for transplant.
   Bortezomib was administered by subcutaneous injection at a dose of 1.3 mg/m2 body surface area twice weekly at Weeks 1, 2, 4 and 5 for the first 6-week cycle (Cycle 1; 8 doses), followed by once weekly administrations at Weeks 1, 2, 4 and 5 for eight more 6-week cycles
@@ -377,8 +371,9 @@ DARZALEX subcutaneous formulation was continued until disease progression or una
 
 A total of 199 patients (D-VMP: 67; D-Rd: 65; D-VRd: 67) were enrolled.
 Efficacy results were determined by computer algorithm using IMWG criteria.
-The study met its primary endpoint ORR for D-VMP and D-Rd and the primary endpoint VGPR or better for D-VRd (see Table 7).
-Table 7: Efficacy results from Study MMY2040
+The study met its primary endpoint ORR for D-VMP and D-Rd and the primary endpoint VGPR or better for D-VRd (see Table 8).
+
+Table 8: Efficacy results from Study MMY2040
 
 |  | D-VMP (n=67) | D-Rd (n=65) | D-VRd (n=67) |
 | --- | --- | --- | --- |
@@ -394,28 +389,118 @@ Table 7: Efficacy results from Study MMY2040
 D-VMP = Daratumumab-bortezomib-melphalan-prednisone; D-Rd = Daratumumab-lenalidomide-dexamethasone; D-VRd = Daratumumab-bortezomib-lenalidomide-dexamethasone; Daratumumab = DARAZALEX subcutaneous formulation; CI=confidence interval.
 a Based on treated subjects
 
+Combination treatment with pomalidomide and dexamethasone (Pd):
+Study MMY3013 was an open-label, randomised, active-controlled Phase III trial that compared treatment with DARZALEX subcutaneous formulation (1 800 mg) in combination with pomalidomide and low-dose dexamethasone (D-Pd) to treatment with pomalidomide and low-dose dexamethasone (Pd) in patients with multiple myeloma who had received at least one prior line of therapy with lenalidomide and a proteasome inhibitor (PI).
+Pomalidomide (4 mg once daily orally on Days 1-21 of repeated 28-day [4-week] cycles) was given with low dose oral or intravenous dexamethasone 40 mg/week (or a reduced dose of 20 mg/week for patients >75 years).
+On DARZALEX subcutaneous formulation administration days, 20 mg of the dexamethasone dose was given as a pre-administration medication and the remainder given the day after the administration.
+For patients on a reduced dexamethasone dose, the entire 20 mg dose was given as a DARZALEX subcutaneous formulation pre-administration medication.
+Dose adjustments for pomalidomide and dexamethasone were applied according to manufacturer’s prescribing information.
+
+A total of 304 patients were randomised: 151 to the D-Pd arm and 153 to the Pd arm.
+Patients with documented evidence of disease progression on or after the last regimen were included in the study.
+Patients who had ≥Grade 3 rash during prior therapy were excluded as per the pomalidomide Summary of Product Characteristics.
+The median patient age was 67 years (range 35 to 90 years), 18% were ≥75 years, 53% were male, and 89% Caucasian.
+Patients had received a median of 2 prior lines of therapy.
+All patients received a prior treatment with a proteasome inhibitor (PI) and lenalidomide, and 56% of patients received prior stem cell transplantation (ASCT).
+Ninety-six percent (96%) of patients received prior treatment with bortezomib.
+The majority of patients were refractory to lenalidomide (80%), a PI (48%), or both an immunomodulator and a PI (42%).
+Eleven percent of patients received 1 prior line of therapy; all were refractory to lenalidomide and 32.4% were refractory to both lenalidomide and a PI.
+
+With a median follow-up of 16.9 months, the primary analysis of PFS in study MMY3013 showed a statistically significant improvement in the D-Pd arm as compared to the Pd arm; the median PFS was 12.4 months in the D-Pd arm and 6.9 months in the Pd arm (HR [95% CI]: 0.63 [0.47, 0.85]; p-value = 0.0018), representing a 37% reduction in the risk of disease progression or death for patients treated with D-Pd versus Pd.
+
+Figure 1 Kaplan-Meier Curve of PFS in Study MMY3013
+
+Additional efficacy results from Study MMY3013 are presented in Table 9 below.
+Table 9: Efficacy results from Study MMY3013a
+
+D-Pd (n=151) Pd (n=153)
+Overall response (sCR+CR+VGPR+PR) n(%)a 104 (68.9%) 71 (46.4%)
+Stringent complete response (sCR) 14 (9.3%) 2 (1.3%)
+Complete response (CR) 23 (15.2%) 4 (2.6%)
+Very good partial response (VGPR) 40 (26.5%) 24 (15.7%)
+Partial response (PR) 27 (17.9%) 41 (26.8%)
+MRD negativity ratec n(%) 13 (8.7%) 3 (2.0%)
+95% CI (%) (4.7%, 14.3%) (0.4%, 5.6%)
+P-valued 0.0102
+
+D-Pd=daratumumab-pomalidomide-dexamethasone; Pd=pomalidomide-dexamethasone; MRD=minimal residual disease; CI=confidence interval a Based on intent-to-treat population b p-value from Cochran Mantel-Haenszel Chi-Squared test adjusted for stratification factors c MRD Negative rate is based on the intent-to-treat population and a threshold of 10-5 d p-value from Fisher’s exact test.
+
+In responders, the median time to response was 1 month (range: 0.9 to 9.1 months) in the D-Pd group and 1.9 months (range: 0.9 to 17.3 months) in the Pd group.
+The median duration of response had not been reached in the D-Pd group (range: 1 to 34.9+ months) and was 15.9 months (range: 1+ to 24.8 months) in the Pd group.
+
+Combination treatment with bortezomib, cyclophosphamide and dexamethasone in patients with AL amyloidosis
+Study AMY3001, an open-label, randomised, active-controlled Phase III study, compared treatment with DARZALEX subcutaneous formulation (1 800 mg) in combination with bortezomib, cyclophosphamide and dexamethasone (D-VCd) to treatment with bortezomib, cyclophosphamide and dexamethasone (VCd) alone in patients with newly diagnosed systemic AL amyloidosis.
+Randomisation was stratified by AL amyloidosis Cardiac Staging System, countries that typically offer autologous stem cell transplant (ASCT) for patients with AL amyloidosis, and renal function.
+
+All patients enrolled in Study AMY3001 had newly diagnosed AL amyloidosis with at least one affected organ, measurable hematologic disease, Cardiac Stage I-IIIA (based on European Modification of Mayo 2004 Cardiac Stage), and NYHA Class I-IIIA.
+Patients with NYHA Class IIIB and IV were excluded.
+
+Bortezomib (SC; 1.3 mg/m2 body surface area), cyclophosphamide (oral or IV; 300 mg/m2 body surface area; max dose 500 mg), and dexamethasone (oral or IV; 40 mg or a reduced dose of 20 mg for patients >70 years or body mass index [BMI] <18.5 or those who have hypervolemia, poorly controlled diabetes mellitus or prior intolerance to steroid therapy) were administered weekly on
+Days 1, 8, 15, and 22 of repeated 28-day [4-week] cycles.
+On the days of DARZALEX dosing, 20 mg of the dexamethasone dose was given as a pre-injection medication and the remainder given the day after DARZALEX administration.
+Bortezomib, cyclophosphamide and dexamethasone were given for six 28-day [4-week] cycles in both treatment arms, while DARZALEX treatment was continued until disease progression, start of subsequent therapy, or a maximum of 24 cycles (~2 years) from the first dose of study treatment.
+Dose adjustments for bortezomib, cyclophosphamide and dexamethasone were applied according to manufacturer’s prescribing information.
+
+A total of 388 patients were randomised: 195 to the D-VCd arm and 193 to the VCd arm.
+The majority (79%) of patients had lambda free light chain disease.
+The median patient age was 64 years (range: 34 to 87); 47% were ≥ 65 years; 58% were male; 76% Caucasian, 17% Asian, and 3% African American; 23% had AL amyloidosis Clinical Cardiac Stage I, 40% had Stage II, 35% had Stage IIIA, and 2% had Stage IIIB.
+All patients had one or more affected organs and the median number of organs involved was 2 (range: 1-6) and 66% of patients had 2 or more organs involved.
+Vital organ involvement was: 71% cardiac, 59% renal and 8% hepatic.
+Patients with Grade 2 sensory or Grade 1 painful peripheral neuropathy were excluded.
+The primary efficacy endpoint was hematologic complete response (HemCR) rate as determined by the Independent Review Committee assessment based on International Concensus Criteria.
+Study AMY3001 demonstrated an improvement in HemCR in the D-VCd arm as compared to the VCd arm.
+Efficacy results are summarized in Table 10.
+
+Table 10: Efficacy results from Study AMY3001a
+
+|  | D-VCd (n=195) | VCd (n=193) | P value |
+| --- | --- | --- | --- |
+| Hematologic complete response (HemCR), n (%) | 104 (53.3%) | 35 (18.1%) | <0.0001b |
+| Very good partial response (VGPR), n (%) | 49 (25.1%) | 60 (31.1%) |  |
+| Partial response (PR), n (%) | 26 (13.3%) | 53 (27.5%) |  |
+| Hematologic VGPR or better (HemCR + VGPR), n (%) | 153 (78.5%) | 95 (49.2%) | <0.0001b |
+| Major organ deterioration progression-free survival (MOD-PFS), Hazard ratio with 95% CIc | 0.58 (0.36, 0.93) |  | 0.0211d |
+
+D-VCd=daratumumab-bortezomib-cyclophosphamide-dexamethasone; VCd=bortezomib-cyclophosphamide-dexamethasone a Based on intent-to-treat population b p-value from Cochran Mantel-Haenszel Chi-Squared test.
+c MOD-PFS defined as hematologic progression, major organ (cardiac or renal) deterioration or death d Nominal p-value from inverse probability censoring weighted log-rank test
+
+In responders, the median time to HemCR was 60 days (range: 8 to 299 days) in the D-VCd group and 85 days (range: 14 to 340 days) in the VCd group.
+The median time to VGPR or better was 17 days (range: 5 to 336 days) in the D-VCd group and 25 days (range: 8 to 171 days) in the VCd group.
+The median duration of HemCR had not been reached in either arm.
+
+The median follow-up for the study is 11.4 months.
+The median major organ deterioration progression-free survival (MOD-PFS) was not reached for patients in either arm.
+
+Overall survival (OS) data were not mature.
+A total of 56 deaths were observed [n=27 (13.8%) D-VCd vs. n=29 (15%) VCd group].
+
 Clinical experience with daratumumab concentrate for solution for infusion (intravenous formulation)
 Study MMY3008, an open-label, randomised, active-controlled Phase III study, compared treatment with intravenous daratumumab 16 mg/kg in combination with lenalidomide and low-dose dexamethasone (DRd) to treatment with lenalidomide and low-dose dexamethasone (Rd) in patients with newly diagnosed multiple myeloma.
 On intravenous daratumumab infusion days, the dexamethasone dose was given as a pre-infusion medicinal product.
 
-Additional efficacy results from Study MMY3008 are presented in Table 8 below.
+Figure 2: Kaplan-Meier Curve of PFS in Study MMY3008
+Additional efficacy results from Study MMY3008 are presented in Table 11 below.
 
-Table 8: Additional efficacy results from Study MMY3008a
+Table 11: Additional efficacy results from Study MMY3008a
 
 Study MMY3007, an open-label, randomised, active-controlled Phase III study, compared treatment with intravenous daratumumab 16 mg/kg in combination with bortezomib, melphalan and prednisone (D-VMP), to treatment with VMP in patients with newly diagnosed multiple myeloma.
-Bortezomib was administered by subcutaneous injection at a dose of 1.3 mg/m2 body surface area twice weekly at Weeks 1, 2, 4 and 5 for the first 6-week cycle (Cycle 1; 8 doses), followed by once weekly administrations at Weeks 1, 2, 4 and 5 for eight more 6-week cycles (Cycles 2-9; 4 doses per cycle).
 Intravenous daratumumab treatment was continued until disease progression or unacceptable toxicity.
 
-Additional efficacy results from Study MMY3007 are presented in Table 9 below.
+Figure 3: Kaplan-Meier Curve of PFS in Study MMY3007
 
-Table 9: Additional efficacy results from Study MMY3007a
+Figure 4: Kaplan-Meier Curve of OS in Study MMY3007
+
+Additional efficacy results from Study MMY3007 are presented in Table 12 below.
+
+Table 12: Additional efficacy results from Study MMY3007a
 
 Part 1 compared induction and consolidation treatment with intravenous daratumumab 16 mg/kg in combination with bortezomib, thalidomide and dexamethasone (D-VTd) to treatment with bortezomib, thalidomide and dexamethasone (VTd) in patients with newly diagnosed multiple myeloma eligible for ASCT.
 
-Bortezomib was administered by subcutaneous injection or intravenous injection at a dose of 1.3 mg/m2 body surface area twice weekly for two weeks (Days 1, 4, 8, and 11) of repeated 28 day (4-week) induction treatment cycles (Cycles 1-4) and two consolidation cycles (Cycles 5 and 6) following ASCT after Cycle 4.
-On the days of intravenous daratumumab infusion, the dexamethasone dose was administered intravenously as a pre-infusion medication.
+On the days of intravenous daratumumab infusion, the dexamethasone dose was administered intravenously as a pre-infusion medicinal product.
 
-Table 10: Efficacy results from Study MMY3006a
+A total of 1 085 patients were randomised: 543 to the D-VTd arm and 542 to the VTd arm.
+
+Table 13: Efficacy results from Study MMY3006a
 
 Response assessment Day 100
 post-transplant
@@ -424,9 +509,9 @@ The clinical efficacy and safety of intravenous daratumumab monotherapy for the 
 
 In Study MMY2002, 106 patients with relapsed and refractory multiple myeloma received 16 mg/kg intravenous daratumumab until disease progression.
 
-Efficacy results of the pre-planned interim analysis based on Independent Review Committee (IRC) assessment are presented in Table 11 below.
+Efficacy results of the pre-planned interim analysis based on Independent Review Committee (IRC) assessment are presented in Table 14 below.
 
-Table 11: IRC assessed efficacy results for study MMY2002
+Table 14: IRC assessed efficacy results for study MMY2002
 
 | Efficacy endpoint | Intravenous daratumumab 16 mg/kg N=106 |
 | --- | --- |
@@ -442,19 +527,23 @@ Table 11: IRC assessed efficacy results for study MMY2002
 In Study GEN501, 42 patients with relapsed and refractory multiple myeloma received 16 mg/kg intravenous daratumumab until disease progression.
 
 Study MMY3003, an open-label, randomised, active-controlled Phase III trial, compared treatment with intravenous daratumumab 16 mg/kg in combination with lenalidomide and low-dose dexamethasone (DRd) to treatment with lenalidomide and low-dose dexamethasone (Rd) in patients with relapsed or refractory multiple myeloma who had received at least one prior therapy.
-On intravenous daratumumab infusion days, 20 mg of the dexamethasone dose was given as a pre-infusion medication and the remainder given the day after the infusion.
+On intravenous daratumumab infusion days, 20 mg of the dexamethasone dose was given as a pre-infusion medicinal product and the remainder given the day after the infusion.
 
 The baseline demographic and disease characteristics were similar between the intravenous daratumumab and the control arm.
 
-Additional efficacy results from Study MMY3003 are presented in Table 12 below.
+Median PFS was 45.0 months in the DRd arm and 17.5 months in the Rd arm (HR=0.44; 95% CI: 0.35, 0.54; p<0.0001), representing a 56% reduction in the risk of disease progression or death in patients treated with DRd (see Figure 5).
+Figure 5: Kaplan-Meier Curve of PFS in Study MMY3003
 
-Table 12: Additional efficacy results from Study MMY3003
+Additional efficacy results from Study MMY3003 are presented in Table 15 below.
+
+Table 15: Additional efficacy results from Study MMY3003
 
 Study MMY3004, an open-label, randomised, active-controlled Phase III trial, compared treatment with intravenous daratumumab 16 mg/kg in combination with bortezomib and dexamethasone (DVd), to treatment with bortezomib and dexamethasone (Vd) in patients with relapsed or refractory multiple myeloma who had received at least one prior therapy.
-Bortezomib was administered by subcutaneous injection or intravenous infusion at a dose of 1.3 mg/m2 body surface area twice weekly for two weeks (Days 1, 4, 8, and 11) of repeated 21 day (3-week) treatment cycles, for a total of 8 cycles.
-Dexamethasone was administered orally at a dose of 20 mg on Days 1, 2, 4, 5, 8, 9, 11, and 12 of each of the 8 bortezomib cycles (80 mg/week for two out of three weeks of the bortezomib cycle) or a reduced dose of 20 mg/week for patients >75 years, BMI <18.5, poorly controlled diabetes mellitus or prior intolerance to steroid therapy.
-On the days of intravenous daratumumab infusion, 20 mg of the dexamethasone dose was administered as a pre-infusion medication. intravenous daratumumab treatment was continued until disease progression or unacceptable toxicity.
+On the days of intravenous daratumumab infusion, 20 mg of the dexamethasone dose was administered as a pre-infusion medicinal product. intravenous daratumumab treatment was continued until disease progression or unacceptable toxicity.
 
-Additional efficacy results from Study MMY3004 are presented in Table 13 below.
+Median PFS was 16.7 months in the DVd arm and 7.1 months in the Vd arm (HR [95% CI]: 0.31 [0.24, 0.39]; p-value<0.0001), representing a 69% reduction in the risk of disease progression or death in patients treated with DVd versus Vd (see Figure 6).
+Figure 6: Kaplan-Meier Curve of PFS in Study MMY3004
 
-Table 13: Additional efficacy results from Study MMY3004
+Additional efficacy results from Study MMY3004 are presented in Table 16 below.
+
+Table 16: Additional efficacy results from Study MMY3004

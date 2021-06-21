@@ -7,7 +7,7 @@ Sodium acetate trihydrate
 Sodium chloride
 Water for injections
 
-[DARZALEX 1,800 mg solution for injection.]
+[DARZALEX 1 800 mg solution for injection.]
 
 Recombinant human hyaluronidase (rHuPH20)
 L-histidine

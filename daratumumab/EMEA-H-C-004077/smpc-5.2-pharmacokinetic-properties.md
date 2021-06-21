@@ -28,7 +28,7 @@ The mean estimated terminal half-life associated with linear clearance in combin
 Based on the four population PK analyses (Analyses 1-4) body weight was identified as a statistically significant covariate for daratumumab clearance.
 Therefore, body weight based dosing is an appropriate dosing strategy for the multiple myeloma patients.
 
-Simulation of daratumumab pharmacokinetics was conducted for all recommended dosing schedules in 1,309 patients with multiple myeloma.
+Simulation of daratumumab pharmacokinetics was conducted for all recommended dosing schedules in 1 309 patients with multiple myeloma.
 The simulation results confirmed that the split and single dosing for the first dose provide similar PK, with the exception of the PK profile in the first day of the treatment.
 
 Special populations
@@ -49,60 +49,84 @@ Four individual population PK analyses were performed in patients receiving dara
 No clinically important differences in the exposure to daratumumab were observed between patients with hepatic impairment and those with normal hepatic function.
 
 Race
-Based on four individual population PK analyses in patients receiving either daratumumab monotherapy or various combination therapies (Analyses 1-4), the exposure to daratumumab was similar between white (n=1371) and non-white subjects (n=242).
+Based on four individual population PK analyses in patients receiving either daratumumab monotherapy or various combination therapies (Analyses 1-4), the exposure to daratumumab was similar between white (n=1 371) and non-white subjects (n=242).
 
-[DARZALEX 1,800 mg solution for injection.]
+[DARZALEX 1 800 mg solution for injection.]
 
-Daratumumab exposure in a monotherapy study following the recommended 1,800 mg administration of DARZALEX subcutaneous formulation (weekly for 8 weeks, biweekly for 16 weeks, monthly thereafter) as compared to 16 mg/kg intravenous daratumumab for the same dosing schedule, showed non-inferiority for the co-primary endpoint of maximum Ctrough (Cycle 3 Day 1 pre-dose), with mean ± SD of 593 ± 306 µg/mL compared to 522 ± 226 µg/mL for intravenous daratumumab, with a geometric mean ratio of 107.93% (90% CI: 95.74-121.67).
+In patients with multiple myeloma, daratumumab exposure in a monotherapy study following the recommended 1 800 mg administration of DARZALEX subcutaneous formulation (weekly for 8 weeks, biweekly for 16 weeks, monthly thereafter) as compared to 16 mg/kg intravenous daratumumab for the same dosing schedule, showed non-inferiority for the co-primary endpoint of maximum Ctrough (Cycle 3 Day 1 pre-dose), with mean ± SD of 593 ± 306 µg/mL compared to 522 ± 226 µg/mL for intravenous daratumumab, with a geometric mean ratio of 107.93% (90% CI: 95.74-121.67).
 
-Following the recommended dose of 1,800 mg DARZALEX solution for subcutaneous injection, peak concentrations (Cmax) increased 4.8-fold and total exposure (AUC0-7 days) increased 5.4-fold from first dose to last weekly dose (8th dose).
+In a combination study, AMY3001, in patients with AL amyloidosis, the maximum Ctrough (Cycle 3 Day 1 pre-dose) was similar to that in multiple myeloma with mean ± SD of 597 ± 232 µg/mL following the recommended 1 800 mg administration of DARZALEX subcutaneous formulation (weekly for 8 weeks, biweekly for 16 weeks, monthly thereafter).
+
+Following the recommended dose of 1 800 mg DARZALEX solution for subcutaneous injection, peak concentrations (Cmax) increased 4.8-fold and total exposure (AUC0-7 days) increased 5.4-fold from first dose to last weekly dose (8th dose).
 Highest trough concentrations for DARZALEX solution for subcutaneous injection are typically observed at the end of the weekly dosing regimens for both monotherapy and combination therapy.
 
-The simulated trough concentrations following 6 weekly doses of 1,800 mg DARZALEX solution for subcutaneous injection for combination therapy were similar to 1,800 mg DARZALEX solution for subcutaneous injection monotherapy.
+In patients with multiple myeloma, the simulated trough concentrations following 6 weekly doses of 1 800 mg DARZALEX solution for subcutaneous injection for combination therapy were similar to 1 800 mg DARZALEX solution for subcutaneous injection monotherapy.
+
+In patients with multiple myeloma, daratumumab exposure in a combination study with pomalidomide and dexamethasone (Study MMY3013) was similar to that in monotherapy, with the maximum Ctrough (Cycle 3 Day 1 pre-dose) mean ± SD of 537±277 µg/mL following the recommended 1 800 mg administration of DARZALEX solution for subcutaneous injection (weekly for 8 weeks, biweekly for 16 weeks, monthly thereafter).
 
 Absorption and distribution
-At the recommended dose of 1,800 mg, the absolute bioavailability of DARZALEX solution for subcutaneous injection is 69%, with an absorption rate of 0.012 hour-1, with peak concentrations occurring at 70 to 72 h (Tmax).
+At the recommended dose of 1 800 mg in multiple myeloma patients, the absolute bioavailability of DARZALEX solution for subcutaneous injection is 69%, with an absorption rate of 0.012 hour-1, with peak concentrations occurring at 70 to 72 h (Tmax).
+At the recommended dose of 1 800 mg in AL amyloidosis patients, the absolute bioavailability was not estimated, the absorption rate constant was 0.77 day-1 (8.31% CV) and peak concentrations occurred at 3 days.
 
-The model predicted mean estimate of the volume of distribution for the central compartment was 5.25 L (36.9% CV) and peripheral compartment was 3.78 L, suggesting that daratumumab is primarily localised to the vascular system with limited extravascular tissue distribution.
+The model predicted mean estimate of the volume of distribution for the central compartment was 5.25 L (36.9% CV) and peripheral compartment (V2) was 3.78 L in daratumumab monotherapy, and the modeled mean estimate of the volume of distribution for V1 was 4.36 L (28.0% CV) and V2 was 2.80 L when daratumumab was administered in combination with pomalidomide and dexamethasone in multiple myeloma patients.
+In AL amyloidosis patients, the model estimated apparent volume of distribution after subcutaneous administration is 10.8 L (3.1% CV).
+These results suggest that daratumumab is primarily localised to the vascular system with limited extravascular tissue distribution.
 
 Metabolism and elimination
 Daratumumab exhibits both concentration and time-dependent pharmacokinetics with parallel linear and nonlinear (saturable) elimination that is characteristic of target-mediated clearance.
-The population PK model estimated mean clearance value of daratumumab is 4.96 mL/h (58.7% CV).
-The model-based geometric mean for half-life associated with linear elimination is 20.4 days (22.4% CV).
-For the monotherapy regimen, the steady state is achieved at approximately 5 months into every 4 weeks dosage at the recommended dose and schedule (1,800 mg; once weekly for 8 weeks, every 2 weeks for 16 weeks, and then every 4 weeks thereafter).
+The population PK model estimated mean clearance value of daratumumab is 4.96 mL/h (58.7% CV) in daratumumab monotherapy and 4.32 mL/h (43.5% CV) when daratumumab is administered in combination with pomalidomide and dexamethasone in multiple myeloma patients.
+In AL amyloidosis patients, the apparent clearance after subcutaneous administration is 210 mL/day (4.1% CV).
+The model-based geometric mean for half-life associated with linear elimination is 20.4 days (22.4% CV) in daratumumab monotherapy and 19.7 days (15.3% CV) when daratumumab was administered in combination with pomalidomide and dexamethasone in multiple myeloma patients and 27.5 days (74.0% CV) in AL amyloidosis patients.
+For the monotherapy and combination regimens, the steady state is achieved at approximately 5 months into every 4 weeks dosage at the recommended dose and schedule (1 800 mg; once weekly for 8 weeks, every 2 weeks for 16 weeks, and then every 4 weeks thereafter).
 
-A population PK analysis was conducted using data from DARZALEX solution for subcutaneous injection monotherapy and combination therapy, and the predicted PK exposures are summarised in Table 14.
-Table 14: Daratumumab exposure following administration of DARZALEX subcutaneous formulation (1,800 mg) or intravenous daratumumab (16 mg/kg) monotherapy
+A population PK analysis was conducted using data from DARZALEX solution for subcutaneous injection monotherapy and combination therapy multiple myeloma studies, and the predicted PK exposures are summarised in Table 17.
+
+Table 17: Daratumumab exposure following administration of DARZALEX subcutaneous formulation (1 800 mg) or intravenous daratumumab (16 mg/kg) monotherapy in patients with multiple myeloma
 
 | PK parameters | Cycles | subcutaneous daratumumab Median (5th; 95th percentile) | intravenous daratumumab Median (5th; 95th percentile) |
 | --- | --- | --- | --- |
 | Ctrough (µg/mL) | Cycle 1, 1st weekly dose | 123 (36; 220) | 112 (43; 168) |
-|  | Cycle 2, last weekly dose (Cycle 3 Day 1 Ctrough) | 563 (177; 1063) | 472 (144; 809) |
+|  | Cycle 2, last weekly dose (Cycle 3 Day 1 Ctrough) | 563 (177; 1 063) | 472 (144; 809) |
 | Cmax (µg/mL) | Cycle 1, 1st weekly dose | 132 (54; 228) | 256 (173; 327) |
-|  | Cycle 2, last weekly dose | 592 (234; 1114) | 688 (369; 1061) |
-| AUC0-7 days (µg/mL•day) | Cycle 1, 1st weekly dose | 720 (293; 1274) | 1187 (773; 1619) |
-|  | Cycle 2, last weekly dose | 4017 (1515; 7564) | 4019 (1740; 6370) |
+|  | Cycle 2, last weekly dose | 592 (234; 1 114) | 688 (369; 1 061) |
+| AUC0-7 days (µg/mL•day) | Cycle 1, 1st weekly dose | 720 (293; 1 274) | 1 187 (773; 1 619) |
+|  | Cycle 2, last weekly dose | 4 017 (1 515; 7 564) | 4 019 (1 740; 6 370) |
+
+A population PK analysis, using data from DARZALEX solution for subcutaneous injection combination therapy in AL amyloidosis patients, was conducted with data from 211 patients.
+At the recommended dose of 1 800 mg, predicted daratumumab concentrations were slightly higher, but generally within the same range, in comparison with multiple myeloma patients.
+
+Table 18: Daratumumab exposure following administration of DARZALEX subcutaneous formulation (1 800 mg) in patients with AL amyloidosis
+
+| PK parameters | Cycles | subcutaneous daratumumab Median (5th; 95th percentile) |
+| --- | --- | --- |
+| Ctrough (µg/mL) | Cycle 1, 1st weekly dose | 138 (86; 195) |
+|  | Cycle 2, last weekly dose (Cycle 3 Day 1 Ctrough) | 662 (315; 1 037) |
+| Cmax (µg/mL) | Cycle 1, 1st weekly dose | 151 (88; 226) |
+|  | Cycle 2, last weekly dose | 729 (390; 1 105) |
+| AUC0-7 days (µg/mL•day) | Cycle 1, 1st weekly dose | 908 (482; 1 365) |
+|  | Cycle 2, last weekly dose | 4 855 (2 562; 7 522) |
 
 Based on population PK analyses in patients (33-92 years) receiving monotherapy or various combination therapies, age had no statistically significant effect on the PK of daratumumab.
 No individualisation is necessary for patients on the basis of age.
 
-Gender had a statistically significant effect on PK, with slightly higher exposure in females than males, but the difference in exposure is not considered clinically meaningful.
+Gender had a statistically significant effect on PK parameters in patients with multiple myeloma but not in patients with AL amyloidosis.
+Slightly higher exposure in females were observed than males, but the difference in exposure is not considered clinically meaningful.
 No individualisation is necessary for patients on the basis of gender.
 
 No formal studies of DARZALEX subcutaneous formulation in patients with renal impairment have been conducted.
-Population PK analyses were performed based on pre-existing renal function data in patients receiving DARZALEX subcutaneous formulation monotherapy or various combination therapies, including 220 patients with normal renal function (creatinine clearance [CRCL]
-≥90 mL/min), 273 with mild renal impairment (CRCL <90 and ≥60 mL/min), 215 with moderate renal impairment (CRCL <60 and ≥30 mL/min), and 33 with severe renal impairment or end stage renal disease (CRCL<30 mL/min).
+Population PK analyses were performed based on pre-existing renal function data in patients with multiple myeloma receiving DARZALEX subcutaneous formulation monotherapy or various combination therapies in patients with multiple myeloma or AL amyloidosis.
 
 No formal studies of DARZALEX subcutaneous formulation in patients with hepatic impairment have been conducted.
-Population PK analyses were performed in patients receiving DARZALEX subcutaneous formulation monotherapy or various combination therapies, including 655 patients with normal hepatic function (total bilirubin [TB] and aspartate aminotransferase [AST] ≤upper limit of normal [ULN]), 82 with mild hepatic impairment [(total bilirubin ≤ ULN and AST > ULN) or (ULN < total bilirubin
-≤1.5×ULN)] and 5 patients with moderate (1.5×ULN < total bilirubin ≤3×ULN) hepatic impairment.
+Population PK analyses were performed in patients with multiple myeloma receiving DARZALEX subcutaneous formulation monotherapy or various combination therapies in patients with multiple myeloma and in AL amyloidosis.
 No clinically important differences in the exposure to daratumumab were observed between patients with normal hepatic function and mild hepatic impairment.
-There were very few patients with moderate hepatic impairment and no patients with severe hepatic impairment to make meaningful conclusions for these populations.
+There were very few patients with moderate and severe hepatic impairment to make meaningful conclusions for these populations.
 
 Based on the population PK analyses in patients receiving either DARZALEX subcutaneous formulation monotherapy or various combination therapies, the daratumumab exposure was similar across races.
 
 Body weight
-The flat-dose administration of DARZALEX subcutaneous formulation 1,800 mg as monotherapy achieved adequate exposure for all body-weight subgroups.
-The mean Cycle 3 Day 1 Ctrough in the lower body-weight subgroup (≤65 kg) was 60% higher and in the higher body weight (>85 kg) subgroup, 12% lower than the intravenous daratumumab subgroup.
+The flat-dose administration of DARZALEX subcutaneous formulation 1 800 mg as monotherapy achieved adequate exposure for all body-weight subgroups.
+In patients with multiple myeloma, the mean Cycle 3 Day 1 Ctrough in the lower body-weight subgroup (≤65 kg) was 60% higher and in the higher body weight (>85 kg) subgroup, 12% lower than the intravenous daratumumab subgroup.
 In some patients with body weight >120 kg, lower exposure was observed which may result in reduced efficacy.
 However, this observation is based on limited number of patients.
+
+In patients with AL amyloidosis, no meaningful differences were observed in Ctrough across body weight.
