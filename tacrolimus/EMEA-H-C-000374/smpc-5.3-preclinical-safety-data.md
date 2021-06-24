@@ -16,6 +16,8 @@ In a 24-month dermal carcinogenicity study performed in mice with 0.1% ointment,
 In the same study an increased incidence of lymphoma was detected in association with high systemic exposure.
 In a photocarcinogenicity study, albino hairless mice were chronically treated with tacrolimus ointment and UV radiation.
 Animals treated with tacrolimus ointment showed a statistically significant reduction in time to skin tumour (squamous cell carcinoma) development and an increase in the number of tumours.
+This effect occurred at the higher concentrations of 0.3% and 1%.
+The relevance to humans is currently unknown.
 It is unclear whether the effect of tacrolimus is due to systemic immunosuppression or a local effect.
 The risk for humans cannot be completely ruled out as the potential for local immunosuppression with the long-term use of tacrolimus ointment is unknown.
 

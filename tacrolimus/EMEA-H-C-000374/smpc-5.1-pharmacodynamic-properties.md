@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Other dermatologicals, ATC code: D11AH01
+Pharmacotherapeutic group: Agents for dermatitis, excluding corticosteroids, ATC code: D11AH01
 
 Mechanism of action and pharmacodynamic effects
 The mechanism of action of tacrolimus in atopic dermatitis is not fully understood.
@@ -8,6 +8,7 @@ While the following have been observed, the clinical significance of these obser
 Via its binding to a specific cytoplasmic immunophilin (FKBP12), tacrolimus inhibits calcium-dependent signal transduction pathways in T cells, thereby preventing the transcription and synthesis of IL-2, IL-3, IL-4, IL-5 and other cytokines such as GM-CSF, TNF-α and IFN-γ.
 In vitro, in Langerhans cells isolated from normal human skin, tacrolimus reduced the stimulatory activity towards T cells.
 Tacrolimus has also been shown to inhibit the release of inflammatory mediators from skin mast cells, basophils and eosinophils.
+
 In animals, tacrolimus ointment suppressed inflammatory reactions in experimental and spontaneous dermatitis models that resemble human atopic dermatitis.
 Tacrolimus ointment did not reduce skin thickness and did not cause skin atrophy in animals.
 
@@ -88,7 +89,6 @@ The primary endpoint in both studies was the number of disease exacerbations req
 Both studies showed significant benefit with twice weekly treatment with tacrolimus ointment with regard to the primary and key secondary endpoints over a period of 12 months in a pooled population of patients with mild to severe atopic dermatitis.
 In a subanalysis of a pooled population of patients with moderate to severe atopic dermatitis these differences remained statistically significant (Table 4).
 No adverse events not reported previously were observed in these studies.
-
 Table 4: Efficacy (moderate to severe subpopulation)
 
 |  | Adults, ≥16 years |  | Children, 2-15 years |  |
@@ -114,10 +114,16 @@ The primary response to vaccination was not affected.
 
 [Protopic 0.1% ointment]
 
+|  | Topical corticosteroid regimen§ (N=485) | Tacrolimus 0.1% (N=487) |
+| --- | --- | --- |
+| Response rate of ≥ 60% improvement in mEASI (Primary Endpoint)§§ | 50.8% | 71.6% |
+
+Improvement ≥ 90% in Physician’s 28.5% 47.7%
+Global Evaluation
+
 |  | Hydrocortisone acetate 1% Twice daily (N=207) | Tacrolimus 0.03% Once daily (N=207) | Tacrolimus 0.03% Twice daily (N=210) |
 | --- | --- | --- | --- |
-| Median mEASI Percentage | 47.2% | 70.0% | 78.7% |
-| Decrease (Primary Endpoint)§ |  |  |  |
+| Median mEASI Percentage Decrease (Primary Endpoint)§ | 47.2% | 70.0% | 78.7% |
 | Improvement ≥90% in Physician’s Global Evaluation | 13.6% | 27.8% | 36.7% |
 
 In both studies, patients with active disease entered an open-label period (OLP) during which they treated affected lesions with tacrolimus ointment twice daily until improvement had reached a predefined score (Investigator’s Global Assessment [IGA] ≤ 2, i.e. clear, almost clear or mild disease) for a maximum of 6 weeks.

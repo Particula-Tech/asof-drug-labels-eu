@@ -18,23 +18,14 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Metabolism and nutrition disorders |  | Alcohol intolerance (facial flushing or skin irritation after consumption of an alcoholic beverage) |  |  |
 | Nervous system disorders |  | Paraesthesias and dysaesthesias (hyperaesthesia, burning sensation) |  |  |
 | Skin and subcutaneous tissue disorders |  | Pruritus | Acne* | Rosacea* Lentigo* |
-| General disorders | Application site | Application site warmth, |  | Application |
+| General disorders and administration site conditions | Application site burning, Application site pruritus | Application site warmth, Application site erythema, Application site pain, Application site irritation, Application site paraesthesia, Application site rash |  | Application site oedema* |
 
-and burning, Application site erythema, site oedema*
-administration Application site Application site pain,
-site conditions pruritus Application site irritation,
-Application site
-paraesthesia,
-Application site rash
 Investigations Drug level
 increased*
 (see section
 4.4)
 
 *The adverse reaction has been reported during post-marketing experience
-
-Post-marketing
-Cases of malignancies, including cutaneous (i.e. cutaneous T Cell lymphomas) and other types of lymphoma, and skin cancers, have been reported in patients using tacrolimus ointment (see section 4.4).
 
 Maintenance treatment
 In a study of maintenance treatment (twice weekly treatment) in adults and children with moderate and severe atopic dermatitis the following adverse events were noted to occur more frequently than in the control group: application site impetigo (7.7% in children) and application site infections (6.4% in children and 6.3% in adults).

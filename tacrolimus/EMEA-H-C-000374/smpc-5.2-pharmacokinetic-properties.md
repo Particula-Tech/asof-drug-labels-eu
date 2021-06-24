@@ -4,11 +4,12 @@ Clinical data have shown that tacrolimus concentrations in systemic circulation 
 
 Absorption
 Data from healthy human subjects indicate that there is little or no systemic exposure to tacrolimus following single or repeated topical application of tacrolimus ointment.
-Most atopic dermatitis patients (adults and children) treated with single or repeated application of tacrolimus ointment (0.03-0.1%), and infants from age of 5 months treated with tacrolimus ointment (0.03%) had blood concentrations <1.0 ng/ml.
-When observed, blood concentrations exceeding 1.0 ng/ml were transient.
+Target trough concentrations for systemic immunosuppression for oral tacrolimus are 5-20 ng/mL in transplant patients.
+Most atopic dermatitis patients (adults and children) treated with single or repeated application of tacrolimus ointment (0.03-0.1%), and infants from age of 5 months treated with tacrolimus ointment (0.03%) had blood concentrations < 1.0 ng/mL.
+When observed, blood concentrations exceeding 1.0 ng/mL were transient.
 Systemic exposure increases with increasing treatment areas.
 However, both the extent and the rate of topical absorption of tacrolimus decrease as the skin heals.
-In both adults and children with an average of 50% body surface area treated, systemic exposure (i.e. AUC) of tacrolimus from Protopic is approximately 30-fold less than that seen with oral immunosuppressive doses in kidney and liver transplant patients.
+In both adults and children with an average of 50% body surface area treated, systemic exposure (i.e. AUC) of tacrolimus from Protopic ointment is approximately 30-fold less than that seen with oral immunosuppressive doses in kidney and liver transplant patients.
 The lowest tacrolimus blood concentration at which systemic effects can be observed is not known.
 There was no evidence of systemic accumulation of tacrolimus in patients (adults and children) treated for prolonged periods (up to one year) with tacrolimus ointment.
 
@@ -28,7 +29,3 @@ Following repeated topical application of the ointment the average half-life of 
 
 Paediatric population
 The pharmacokinetics of tacrolimus after topical application are similar to those reported in adults, with minimal systemic exposure and no evidence of accumulation (see above).
-
-[Protopic 0.1% ointment]
-
-Most atopic dermatitis patients (adults and children) treated with single or repeated application of tacrolimus ointment (0.03-0.1%), and infants from age of 5 months treated with tacrolimus ointment (0.03%) had blood concentrations < 1.0 ng/ml.
