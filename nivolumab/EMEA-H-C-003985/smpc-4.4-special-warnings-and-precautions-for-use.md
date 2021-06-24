@@ -2,6 +2,7 @@
 
 Traceability
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
 Immune-related adverse reactions
 When nivolumab is administered in combination, refer to the SmPC of the other combination therapy agents prior to initiation of treatment.
 Immune-related adverse reactions have occurred at higher frequencies when nivolumab was administered in combination with ipilimumab compared with nivolumab as monotherapy.
@@ -33,7 +34,6 @@ Patients should be monitored for signs and symptoms of pneumonitis such as radio
 Infectious and disease-related aetiologies should be ruled out.
 
 For Grade 3 or 4 pneumonitis, nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued, and corticosteroids should be initiated at a dose of 2 to 4 mg/kg/day methylprednisolone equivalents.
-
 For Grade 2 (symptomatic) pneumonitis, nivolumab or nivolumab in combination with ipilimumab should be withheld and corticosteroids initiated at a dose of 1 mg/kg/day methylprednisolone equivalents.
 Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper.
 If worsening or no improvement occurs despite initiation of corticosteroids, corticosteroid dose should be increased to 2 to 4 mg/kg/day methylprednisolone equivalents and nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued.
@@ -136,10 +136,10 @@ The diagnosis of myocarditis requires a high index of suspicion.
 Patients with cardiac or cardio-pulmonary symptoms should be assessed for potential myocarditis.
 If myocarditis is suspected, prompt initiation of a high dose of steroids (prednisone 1 to 2 mg/kg/day or methylprednisolone 1 to 2 mg/kg/day) and prompt cardiology consultation with diagnostic workup according to current clinical guidelines should be initiated.
 Once a diagnosis of myocarditis is established, nivolumab or nivolumab in combination with ipilimumab should be withheld or permanently discontinued (see section 4.2).
-
 Solid organ transplant rejection has been reported in the post-marketing setting in patients treated with PD-1 inhibitors.
 Treatment with nivolumab may increase the risk of rejection in solid organ transplant recipients.
 The benefit of treatment with nivolumab versus the risk of possible organ rejection should be considered in these patients.
+
 Haemophagocytic lymphohistiocytosis (HLH) has been observed with nivolumab as monotherapy and nivolumab in combination with ipilimumab.
 Caution should be taken when nivolumab is administered as monotherapy or in combination with ipilimumab.
 If HLH is confirmed, administration of nivolumab or nivolumab in combination with ipilimumab should be discontinued and treatment for HLH initiated.
@@ -177,6 +177,7 @@ T cell co-stimulation or checkpoint pathways),
 - subjects under the age of 18 years.
 
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+
 Non-small cell lung cancer
 First-line treatment of NSCLC
 Patients with active autoimmune disease, symptomatic interstitial lung disease, medical conditions requiring systemic immunosuppression, active (untreated) brain metastasis, who received prior systemic treatment for advanced disease, or who had sensitising EGFR mutations or ALK translocations were excluded from the pivotal trial in first-line treatment of NSCLC (see sections 4.5 and 5.1).
@@ -203,10 +204,10 @@ In the absence of data, nivolumab or nivolumab in combination with ipilimumab sh
 Nivolumab in combination with cabozantinib
 Patients with any active brain metastases, autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trials of nivolumab in combination with cabozantinib (see sections 4.5 and 5.1).
 In the absence of data, nivolumab in combination with cabozantinib should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
-
 When nivolumab is given with cabozantinib, higher frequencies of Grades 3 and 4 ALT and AST elevations have been reported relative to nivolumab monotherapy in patients with advanced RCC (see section 4.8).
 Liver enzymes should be monitored before initiation of and periodically throughout treatment.
 Medical management guidelines for both medicines should be followed (see section 4.2 and refer to the SmPC for cabozantinib).
+
 Classical Hodgkin lymphoma
 Patients with active autoimmune disease and symptomatic interstitial lung disease were excluded from clinical trials of cHL (see section 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
@@ -230,6 +231,10 @@ Factors associated with early deaths were ECOG performance status, fast progress
 Urothelial carcinoma
 Patients with a baseline performance score ≥2, active brain metastases or leptomeningeal metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trials of urothelial carcinoma (see sections 4.5 and 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+
+dMMR or MSI-H colorectal cancer
+Patients with a baseline performance score ≥ 2, active brain metastases or leptomeningeal metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trial in dMMR or MSI-H metastatic CRC (see sections 4.5 and 5.1).
+In the absence of data, nivolumab in combination with ipilimumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
 
 Oesophageal squamous cell carcinoma
 The majority of clinical data available in oesophageal squamous cell carcinoma are in patients of Asian origin (see section 5.1).

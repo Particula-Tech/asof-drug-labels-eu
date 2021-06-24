@@ -9,6 +9,7 @@ The PD-1 receptor is a negative regulator of T-cell activity that has been shown
 Engagement of PD-1 with the ligands PD-L1 and PD-L2, which are expressed in antigen presenting cells and may be expressed by tumours or other cells in the tumour microenvironment, results in inhibition of T-cell proliferation and cytokine secretion.
 Nivolumab potentiates T-cell responses, including anti-tumour responses, through blockade of PD-1 binding to PD-L1 and PD-L2 ligands.
 In syngeneic mouse models, blocking PD-1 activity resulted in decreased tumour growth.
+
 Combined nivolumab (anti-PD-1) and ipilimumab (anti-CTLA-4) mediated inhibition results in improved anti-tumour responses in metastatic melanoma.
 In murine syngeneic tumour models, dual blockade of PD-1 and CTLA-4 resulted in synergistic anti-tumour activity.
 
@@ -1164,7 +1165,6 @@ A
 HR of 1.02 (95% CI: 0.70, 1.48) in OS was observed for nivolumab in combination with ipilimumab vs. chemotherapy within this study subgroup.
 A higher rate of serious adverse reactions and discontinuation rate due to adverse reactions in patients 75 years of age or older relative to all patients who received nivolumab in combination with ipilimumab was shown (see section 4.8).
 However, due to the exploratory nature of this subgroup analysis, no definitive conclusions can be drawn.
-
 Renal cell carcinoma
 
 Randomised phase 3 study of nivolumab as monotherapy vs. everolimus (CA209025)
@@ -1850,6 +1850,59 @@ At a minimum follow-up of 9 months, investigator-assessed confirmed ORR was 24.4
 The median duration of response was not reached (range: 4.4-16.6+ months).
 The median OS was 9.7 months (95% CI:7.26, 16.16) and the estimated OS rates were 69.2% (CI: 57.7, 78.2) at 6 months and 45.6% (CI: 34.2, 56.3) at 12 months.
 
+dMMR or MSI-H colorectal cancer
+
+The safety and efficacy of nivolumab 3 mg/kg in combination with ipilimumab 1 mg/kg for the treatment of dMMR or MSI-H metastatic CRC was evaluated in a Phase 2, multi-centre, open-label, single-arm study (CA209142).
+The study included patients (18 years or older) with locally determined dMMR or MSI-H status, who had disease progression during, after, or were intolerant to, prior therapy with fluoropyrimidine and oxaliplatin or irinotecan.
+Patients who had their most recent prior treatment in the adjuvant setting should have progressed on or within 6 months of completion of adjuvant chemotherapy.
+Patients had an ECOG performance status score of 0 or 1 and were enrolled regardless of their tumour PD-L1 status.
+Patients with active brain metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the study.
+
+A total of 119 patients were treated with nivolumab 3 mg/kg administered intravenously over 60 minutes in combination with ipilimumab 1 mg/kg administered intravenously over 90 minutes every 3 weeks for 4 doses followed by nivolumab monotherapy 3 mg/kg every 2 weeks.
+Treatment was continued as long as clinical benefit was observed or until treatment was no longer tolerated.
+Tumour assessments according to RECIST version 1.1 were conducted every 6 weeks for the first 24 weeks and every 12 weeks thereafter.
+The primary outcome measure was investigator-assessed ORR.
+Secondary outcome measures were BICR-assessed ORR and disease control rate.
+Analysis of ORR included duration of and time to response.
+Exploratory outcome measures included PFS and OS.
+
+The median age was 58 years (range: 21-88) with 32% ≥ 65 years of age and 9% ≥ 75 years of age, 59% were male and 92% were white.
+Baseline ECOG performance status was 0 (45%) or 1 (55%), 25% of patients had BRAF mutations, 37% had KRAS mutations, and 12% were unknown.
+Of the 119 treated patients, 109 had received prior fluoropyrimidine based chemotherapy in the metastatic setting and 9 in the adjuvant setting.
+Before study enrolment, of the 119 treated patients, 118 (99%) had received fluorouracil, 111 (93%) had received oxaliplatin, 87 (73%) had received irinotecan as part of prior therapies; 82 (69%) had received prior treatment with fluoropyrimidine, oxaliplatin, and irinotecan.
+Twenty three percent, 36%, 24%, and 16% received 1, 2, 3, or 4 or more prior therapies respectively, and 29% of patients had received an EGFR inhibitor.
+
+Efficacy results (minimum follow-up 46.9 months; median follow-up 51.1 months) are shown in Table 36.
+
+Table 36: Efficacy results (CA209142)* nivolumab + ipilimumab
+(n = 119)
+
+Confirmed objective response, n (%) 77 (64.7)
+(95% CI) (55.4, 73.2)
+Complete response (CR), n (%) 15 (12.6)
+Partial response (PR), n (%) 62 (52.1)
+Stable disease (SD), n (%) 25 (21.0)
+
+Duration of response
+
+Median (range) months NR (1.4, 58.0+)
+
+Median time to response
+
+Months (range) 2.8 (1.1, 37.1)
+
+* per investigator assessment
+“+” denotes a censored observation.
+NR = not reached
+
+The BICR-assessed ORR was 61.3% (95% CI: 52.0, 70.1), including CR rate of 20.2% (95% CI: 13.4, 28.5), PR rate of 41.2% (95% CI: 32.2, 50.6) and stable disease reported in 22.7%.
+BICR assessments were generally consistent with the investigator assessment.
+Confirmed responses were observed regardless of BRAF or KRAS mutation status, and tumour PD-L1 expression levels.
+
+Of 119 patients 11 (9.2%) patients were ≥ 75 years.
+The investigator assessed ORR in patients
+≥ 75 years was 45.5% (95% CI: 16.7, 76.6).
+
 Oesophageal squamous cell carcinoma
 
 The safety and efficacy of nivolumab 240 mg monotherapy for the treatment of unresectable advanced, recurrent or metastatic oesophageal squamous cell carcinoma (OSCC) was evaluated in a phase 3 randomised active-controlled, open-label study (ONO-4538-24/CA209473).
@@ -1871,11 +1924,11 @@ The median age was 65 years (range: 33 to 87 years), 53% were ≥65 years of age
 Baseline ECOG performance status was 0 (50%) or 1 (50%).
 
 With a minimum follow-up of 17.6 months, the study demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with investigator’s choice taxane chemotherapy.
-Efficacy results are shown in Table 36 and Figure 19.
+Efficacy results are shown in Table 37 and Figure 19.
 
 A higher proportion of patients experienced death within the first 2.5 months in the nivolumab arm (32/210, 15.2%) as compared to the chemotherapy arm (15/209, 7.2%).
 No specific factor(s) associated with early deaths could be identified.
-Table 36: Efficacy results (ONO-4538-24/CA209473)
+Table 37: Efficacy results (ONO-4538-24/CA209473)
 
 nivolumab investigator’s choice
 (n = 210) (n = 209)
