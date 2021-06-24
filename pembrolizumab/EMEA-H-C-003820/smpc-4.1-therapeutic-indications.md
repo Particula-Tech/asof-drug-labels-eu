@@ -33,3 +33,6 @@ KEYTRUDA, in combination with axitinib, is indicated for the first-line treatmen
 
 Colorectal cancer (CRC)
 KEYTRUDA as monotherapy is indicated for the first-line treatment of metastatic microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer in adults.
+
+Oesophageal carcinoma
+KEYTRUDA, in combination with platinum and fluoropyrimidine based chemotherapy, is indicated for the first-line treatment of patients with locally advanced unresectable or metastatic carcinoma of the oesophagus or HER-2 negative gastroesophageal junction adenocarcinoma in adults whose tumours express PD-L1 with a CPS ≥ 10 (see section 5.1).

@@ -2,10 +2,8 @@
 
 Therapy must be initiated and supervised by specialist physicians experienced in the treatment of cancer.
 
-PD-L1 testing for patients with NSCLC, urothelial carcinoma, or HNSCC
-For treatment with KEYTRUDA as monotherapy, testing for PD-L1 tumour expression using a validated test is recommended to select patients with NSCLC or previously untreated urothelial carcinoma (see sections 4.1, 4.4, 4.8, and 5.1).
-
-Patients with HNSCC should be selected for treatment with KEYTRUDA as monotherapy or in combination with platinum and 5-fluorouracil (5-FU) chemotherapy based on the tumour expression of PD-L1 confirmed by a validated test (see sections 4.1, 4.4, 4.8, and 5.1).
+PD-L1 testing
+If specified in the indication, patient selection for treatment with KEYTRUDA based on the tumour expression of PD-L1 should be confirmed by a validated test (see sections 4.1, 4.4, 4.8, and 5.1).
 
 MSI-H/dMMR testing for patients with CRC
 For treatment with KEYTRUDA as monotherapy, testing for MSI-H/dMMR tumour status using a validated test is recommended to select patients with CRC (see sections 4.1 and 5.1).
@@ -13,7 +11,7 @@ For treatment with KEYTRUDA as monotherapy, testing for MSI-H/dMMR tumour status
 Posology
 The recommended dose of KEYTRUDA in adults is either 200 mg every 3 weeks or 400 mg every 6 weeks administered as an intravenous infusion over 30 minutes.
 
-The recommended dose of KEYTRUDA as monotherapy in paediatric patients aged 3 years and older with cHL is 2 mg/kg bodyweight (up to a maximum of 200 mg), every 3 weeks administered as an intravenous infusion over 30 minutes.
+The recommended dose of KEYTRUDA as monotherapy in paediatric patients aged 3 years and older with cHL is 2 mg/kg bodyweight (bw) (up to a maximum of 200 mg), every 3 weeks administered as an intravenous infusion over 30 minutes.
 Patients should be treated with KEYTRUDA until disease progression or unacceptable toxicity.
 Atypical responses (i.e. an initial transient increase in tumour size or small new lesions within the first few months followed by tumour shrinkage) have been observed.
 It is recommended to continue treatment for clinically stable patients with initial evidence of disease progression until disease progression is confirmed.
@@ -78,7 +76,7 @@ Elderly
 No dose adjustment is necessary in patients ≥ 65 years (see section 5.1).
 Data from patients ≥ 65 years are too limited to draw conclusions on cHL population (see section 5.1).
 Data are limited in patients
-≥ 75 years for pembrolizumab monotherapy in patients with resected Stage III melanoma and MSI-H or dMMR CRC; for pembrolizumab in combination with axitinib in patients with advanced RCC; for chemotherapy combination in patients with metastatic NSCLC; and for pembrolizumab (with or without chemotherapy) in patients receiving first-line treatment for metastatic or unresectable recurrent HNSCC (see sections 4.4 and 5.1).
+≥ 75 years for pembrolizumab monotherapy in patients with resected Stage III melanoma and MSI-H or dMMR CRC; for pembrolizumab in combination with axitinib in patients with advanced RCC; for chemotherapy combination in patients with metastatic NSCLC and oesophageal carcinoma; and for pembrolizumab (with or without chemotherapy) in patients receiving first-line treatment for metastatic or unresectable recurrent HNSCC (see sections 4.4 and 5.1).
 
 Renal impairment
 No dose adjustment is needed for patients with mild or moderate renal impairment.
@@ -116,9 +114,9 @@ For instructions on reconstitution and dilution of the medicinal product before 
 |  | Grades 3 or 4 adrenal insufficiency or symptomatic hypophysitis | Withhold until adverse reactions recover to Grades 0-1* |
 |  | Type 1 diabetes associated with Grade ≥ 3 hyperglycaemia (glucose > 250 mg/dL or > 13.9 mmol/L) or associated with ketoacidosis Hyperthyroidism Grade ≥ 3 | For patients with Grade 3 or Grade 4 endocrinopathies that improved to Grade 2 or lower and are controlled with hormone replacement, if indicated, continuation of pembrolizumab may be considered after corticosteroid taper, if needed. Otherwise treatment should be discontinued. |
 |  | Hypothyroidism | Hypothyroidism may be managed with replacement therapy without treatment interruption. |
-| Hepatitis NOTE: for RCC patients treated with pembrolizumab in combination with axitinib with liver enzyme elevations, see dosing | Grade 2 with aspartate aminotransferase (AST) or alanine aminotransferase (ALT) > 3 to 5 times ULN or total bilirubin > 1.5 to 3 times ULN | Withhold until adverse reactions recover to Grades 0-1* |
-|  | Grade ≥ 3 with AST or ALT > 5 times ULN or total bilirubin > 3 times ULN | Permanently discontinue |
-| guidelines following this table. | In case of liver metastasis with baseline Grade 2 elevation of AST or ALT, hepatitis with AST or ALT increases ≥ 50% and lasts ≥ 1 week | Permanently discontinue |
+| Hepatitis NOTE: for RCC patients treated with pembrolizumab in | Grade 2 with aspartate aminotransferase (AST) or alanine aminotransferase (ALT) > 3 to 5 times ULN or total bilirubin > 1.5 to 3 times ULN | Withhold until adverse reactions recover to Grades 0-1* |
+| combination with axitinib with liver enzyme elevations, see dosing guidelines following this table. | Grade ≥ 3 with AST or ALT > 5 times ULN or total bilirubin > 3 times ULN | Permanently discontinue |
+|  | In case of liver metastasis with baseline Grade 2 elevation of AST or ALT, hepatitis with AST or ALT increases ≥ 50% and lasts ≥ 1 week | Permanently discontinue |
 | Skin reactions | Grade 3 or suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) | Withhold until adverse reactions recover to Grades 0-1* |
 |  | Grade 4 or confirmed SJS or TEN | Permanently discontinue |
 | Other immune-related adverse reactions | Based on severity and type of reaction (Grade 2 or Grade 3) | Withhold until adverse reactions recover to Grades 0-1* |

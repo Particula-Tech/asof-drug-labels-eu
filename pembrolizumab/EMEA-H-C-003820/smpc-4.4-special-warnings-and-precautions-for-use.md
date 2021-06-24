@@ -160,6 +160,10 @@ Medical management guidelines for both medicines should be followed (see section
 
 Use of pembrolizumab for first-line treatment of patients with MSI-H/dMMR CRC
 In KEYNOTE-177, the hazard rates for overall survival events were greater for pembrolizumab compared with chemotherapy for the first 4 months of treatment, followed by a long-term survival benefit for pembrolizumab (see section 5.1).
+Use of pembrolizumab for first-line treatment of patients with oesophageal carcinoma
+Efficacy and safety data from patients ≥ 75 years are limited.
+For patients ≥ 75 years, pembrolizumab combination therapy should be used with caution after careful consideration of the potential benefit/risk on an individual basis (see section 5.1).
+
 Patients excluded from clinical studies
 Patients with the following conditions were excluded from clinical studies: active CNS metastases; ECOG PS ≥ 2 (except for urothelial carcinoma and RCC); HIV infection, hepatitis B or hepatitis C infection; active systemic autoimmune disease; interstitial lung disease; prior pneumonitis requiring systemic corticosteroid therapy; a history of severe hypersensitivity to another monoclonal antibody; receiving immunosuppressive therapy and a history of severe immune-related adverse reactions from treatment with ipilimumab, defined as any Grade 4 toxicity or Grade 3 toxicity requiring corticosteroid treatment (> 10 mg/day prednisone or equivalent) for greater than 12 weeks.
 Patients with active infections were excluded from clinical studies and were required to have their infection treated prior to receiving pembrolizumab.
