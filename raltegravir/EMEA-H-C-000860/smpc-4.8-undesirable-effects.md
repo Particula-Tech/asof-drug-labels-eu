@@ -15,7 +15,7 @@ Rhabdomyolysis was an uncommonly reported serious adverse reaction in post-marke
 Tabulated summary of adverse reactions
 
 Adverse reactions considered by investigators to be causally related to raltegravir (alone or in combination with other ART), as well as adverse reactions established in post-marketing experience, are listed below by System Organ Class.
-Frequencies are defined as common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), and not known (cannot be estimated from the available data).
+Frequencies are defined as common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), and not known (cannot be estimated from the available data).
 
 | System Organ Class | Frequency | Adverse reactions Raltegravir (alone or in combination with other ART) |
 | --- | --- | --- |
@@ -121,8 +121,41 @@ Raltegravir twice daily has also been studied in 26 HIV-1 infected infants and t
 
 [ISENTRESS 25 mg chewable tablets]
 
-(all sentences already above)
+The rates of discontinuation of raltegravir due to adverse reactions were 5 % or less in clinical trials.
 
 [ISENTRESS 100 mg granules for oral suspension]
 
-(all sentences already above)
+| System Organ Class | Frequency | Adverse reactions Raltegravir (alone or in combination with other ART) |
+| --- | --- | --- |
+| Infections and infestations | Uncommon | genital herpes, folliculitis, gastroenteritis, herpes simplex, herpes virus infection, herpes zoster, influenza, lymph node abscess, molluscum contagiosum, nasopharyngitis, upper respiratory tract infection |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) | Uncommon | skin papilloma |
+| Blood and lymphatic system disorders | Uncommon | anaemia, iron deficiency anaemia, lymph node pain, lymphadenopathy, neutropenia, thrombocytopenia |
+| Immune system disorders | Uncommon | immune reconstitution syndrome, drug hypersensitivity, hypersensitivity |
+| Metabolism and nutrition disorders | Common | decreased appetite |
+|  | Uncommon | cachexia, diabetes mellitus, dyslipidaemia, hypercholesterolaemia, hyperglycaemia, hyperlipidaemia, hyperphagia, increased appetite, polydipsia, body fat disorder |
+| Psychiatric disorders | Common | abnormal dreams, insomnia, nightmare, abnormal behaviour, depression |
+|  | Uncommon | mental disorder, suicide attempt, anxiety, confusional state, depressed mood, major depression, middle insomnia, mood altered, panic attack, sleep disorder, suicidal ideation, suicidal behaviour (particularly in patients with a pre-existing history of psychiatric illness) |
+| Nervous system disorders | Common | dizziness, headache, psychomotor hyperactivity |
+|  | Uncommon | amnesia, carpal tunnel syndrome, cognitive disorder, disturbance in attention, dizziness postural, dysgeusia, hypersomnia, hypoaesthesia, lethargy, memory impairment, migraine, neuropathy peripheral, paraesthesia, somnolence, tension headache, tremor, poor quality sleep |
+| Eye disorders | Uncommon | visual impairment |
+| Ear and labyrinth disorders | Common | vertigo |
+|  | Uncommon | tinnitus |
+| Cardiac disorders | Uncommon | palpitations, sinus bradycardia, ventricular extrasystoles |
+| Vascular disorders | Uncommon | hot flush, hypertension |
+| Respiratory, thoracic and mediastinal disorders | Uncommon | dysphonia, epistaxis, nasal congestion |
+| Gastrointestinal disorders | Common | abdominal distention, abdominal pain, diarrhoea, flatulence, nausea, vomiting, dyspepsia |
+|  | Uncommon | gastritis, abdominal discomfort, abdominal pain upper, abdominal tenderness, anorectal discomfort, constipation, dry mouth, epigastric discomfort, erosive duodenitis, eructation, gastroesophageal reflux disease, gingivitis, glossitis, odynophagia, pancreatitis acute, peptic ulcer, rectal haemorrhage |
+| Hepato-biliary disorders | Uncommon | hepatitis, hepatic steatosis, hepatitis alcoholic, hepatic failure |
+| Skin and subcutaneous tissue disorders | Common | rash |
+|  | Uncommon | acne, alopecia, dermatitis acneiforme, dry skin, erythema, facial wasting, hyperhidrosis, lipoatrophy, lipodystrophy acquired, lipohypertrophy, night sweats, prurigo, pruritus, pruritus generalised, rash macular, rash maculo-papular, rash pruritic, skin lesion, urticaria, xeroderma, Stevens Johnson syndrome, drug rash with eosinophilia and systemic symptoms (DRESS) |
+| Musculoskeletal and connective tissue disorders | Uncommon | arthralgia, arthritis, back pain, flank pain, musculoskeletal pain, myalgia, neck pain, osteopenia, pain in extremity, tendonitis, rhabdomyolysis |
+| Renal and urinary disorders | Uncommon | renal failure, nephritis, nephrolithiasis, nocturia, renal cyst, renal impairment, tubulointerstitial nephritis |
+| Reproductive system and breast disorders | Uncommon | erectile dysfunction, gynaecomastia, menopausal symptoms |
+| General disorders and administration site conditions | Common | asthenia, fatigue, pyrexia |
+|  | Uncommon | chest discomfort, chills, face oedema, fat tissue increased, feeling jittery, malaise, submandibular mass, oedema peripheral, pain |
+
+| System Organ Class | Frequency | Adverse reactions Raltegravir (alone or in combination with other ART) |
+| --- | --- | --- |
+| Investigations | Common | alanine aminotransferase increased, atypical lymphocytes, aspartate aminotransferase increased, blood triglycerides increased, lipase increased, blood pancreatic amylase increased |
+|  | Uncommon | absolute neutrophil count decreased, alkaline phosphatase increased, blood albumin decreased, blood amylase increased, blood bilirubin increased, blood cholesterol increased, blood creatinine increased, blood glucose increased, blood urea nitrogen increased, creatine phosphokinase increased, fasting blood glucose increased, glucose urine present, high density lipoprotein increased, international normalised ratio increased, low density lipoprotein increased, platelet count decreased, red blood cells urine positive, waist circumference increased, weight increased, white blood cell count decreased |
+| Injury, poisoning and procedural complications | Uncommon | accidental overdose |

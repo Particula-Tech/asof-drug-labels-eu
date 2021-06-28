@@ -16,11 +16,11 @@ Breast-feeding
 
 It is unknown whether raltegravir/metabolites are excreted in human milk.
 Available pharmacodynamics/toxicological data in animals have shown excretion of raltegravir/metabolites in milk (for details see section 5.3).
-
 A risk to the newborns/infants cannot be excluded.
 
 Raltegravir should not be used during breast-feeding.
 As a general rule, it is recommended that mothers infected by HIV do not breast-feed their babies in order to avoid transmission of HIV.
+
 Fertility
 
 No effect on fertility was seen in male and female rats at doses up to 600 mg/kg/day which resulted in 3-fold exposure above the exposure at the recommended human dose.

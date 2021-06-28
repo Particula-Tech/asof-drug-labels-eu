@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: antivirals for systemic use, other antivirals, ATC code: J05AX08.
+Pharmacotherapeutic group: antivirals for systemic use, other antivirals, ATC code: J05AJ01.
 
 Mechanism of action
 
@@ -10,7 +10,7 @@ Inhibition of integrase prevents the covalent insertion, or integration, of the 
 HIV genomes that fail to integrate cannot direct the production of new infectious viral particles, so inhibiting integration prevents propagation of the viral infection.
 Antiviral activity in vitro
 
-Raltegravir at concentrations of 31 ±20 nM resulted in 95 % inhibition (IC95) of HIV-1 replication (relative to an untreated virus-infected culture) in human T-lymphoid cell cultures infected with the cell-line adapted HIV-1 variant H9IIIB.
+Raltegravir at concentrations of 31 ± 20 nM resulted in 95 % inhibition (IC95) of HIV-1 replication (relative to an untreated virus-infected culture) in human T-lymphoid cell cultures infected with the cell-line adapted HIV-1 variant H9IIIB.
 In addition, raltegravir inhibited viral replication in cultures of mitogen-activated human peripheral blood mononuclear cells infected with diverse, primary clinical isolates of HIV-1, including isolates from 5 non-B subtypes, and isolates resistant to reverse transcriptase inhibitors and protease inhibitors.
 In a single-cycle infection assay, raltegravir inhibited infection of 23 HIV isolates representing 5 non-B subtypes and 5 circulating recombinant forms with IC50 values ranging from 5 to 12 nM.
 
@@ -27,7 +27,8 @@ Viruses harbouring a mutation at amino acid 148, along with one or more other ra
 Clinical experience
 
 The evidence of efficacy of raltegravir was based on the analyses of 96-week data from two randomised, double-blind, placebo-controlled trials (BENCHMRK 1 and BENCHMRK 2,
-Protocols 018 and 019) in antiretroviral treatment-experienced HIV-1 infected adult patients and the analysis of 240-week data from randomised, double-blind, active-control trial (STARTMRK, Protocol 021) in antiretroviral treatment-naïve HIV-1 infected adult patients.
+Protocols 018 and 019) in antiretroviral treatment-experienced HIV-1 infected adult patients and the analysis of 240-week data from randomised, double-blind, active-control trial (STARTMRK,
+Protocol 021) in antiretroviral treatment-naïve HIV-1 infected adult patients.
 
 Efficacy
 
@@ -45,9 +46,7 @@ Table 2
 Efficacy Outcome at Weeks 48 and 96
 
 BENCHMRK 1 and 2 Pooled 48 Weeks 96 Weeks
-
 Raltegravir Placebo + Raltegravir Placebo +
-
 Parameter 400 mg twice OBT 400 mg twice OBT
 daily + OBT (N = 237) daily + OBT (N = 237)
 (N = 462) (N = 462)
@@ -59,9 +58,9 @@ All patients† 72 (68, 76) 37 (31, 44) 62 (57, 66) 28 (23, 34)
 Baseline Characteristic‡
 
 HIV-RNA > 100,000 copies/mL 62 (53, 69) 17 (9, 27) 53 (45, 61) 15 (8, 25)
-≤100,000 copies/mL 82 (77, 86) 49 (41, 58) 74 (69, 79) 39 (31, 47)
-CD4-count ≤50 cells/mm3 61 (53, 69) 21 (13, 32) 51 (42, 60) 14 (7, 24)
-> 50 and ≤200 cells/mm3 80 (73, 85) 44 (33, 55) 70 (62, 77) 36 (25, 48)
+≤ 100,000 copies/mL 82 (77, 86) 49 (41, 58) 74 (69, 79) 39 (31, 47)
+CD4-count ≤ 50 cells/mm3 61 (53, 69) 21 (13, 32) 51 (42, 60) 14 (7, 24)
+> 50 and ≤ 200 cells/mm3 80 (73, 85) 44 (33, 55) 70 (62, 77) 36 (25, 48)
 > 200 cells/mm3 83 (76, 89) 51 (39, 63) 78 (70, 85) 42 (30, 55)
 
 Sensitivity score (GSS) §
@@ -77,9 +76,9 @@ All patients† 62 (57, 67) 33 (27, 39) 57 (52, 62) 26 (21, 32)
 Baseline Characteristic‡
 
 HIV-RNA > 100,000 copies/mL 48 (40, 56) 16 (8, 26) 47 (39, 55) 13 (7, 23)
-≤100,000 copies/mL 73 (68, 78) 43 (35, 52) 70 (64, 75) 36 (28, 45)
-CD4-count ≤50 cells/mm3 50 (41, 58) 20 (12, 31) 50 (41, 58) 13 (6, 22)
-> 50 and ≤200 cells/mm3 67 (59, 74) 39 (28, 50) 65 (57, 72) 32 (22, 44)
+≤ 100,000 copies/mL 73 (68, 78) 43 (35, 52) 70 (64, 75) 36 (28, 45)
+CD4-count ≤ 50 cells/mm3 50 (41, 58) 20 (12, 31) 50 (41, 58) 13 (6, 22)
+> 50 and ≤ 200 cells/mm3 67 (59, 74) 39 (28, 50) 65 (57, 72) 32 (22, 44)
 > 200 cells/mm3 76 (68, 83) 44 (32, 56) 71 (62, 78) 41 (29, 53)
 
 Sensitivity score (GSS) §
@@ -95,17 +94,15 @@ All patients‡ 109 (98, 121) 45 (32, 57) 123 (110, 137) 49 (35, 63)
 Baseline Characteristic‡
 
 HIV-RNA > 100,000 copies/mL 126 (107, 144) 36 (17, 55) 140 (115, 165) 40 (16, 65)
-≤100,000 copies/mL 100 (86, 115) 49 (33, 65) 114 (98, 131) 53 (36, 70)
-CD4-count ≤50 cells/mm3 121 (100, 142) 33 (18, 48) 130 (104, 156) 42 (17, 67)
-> 50 and ≤200 cells/mm3 104 (88, 119) 47 (28, 66) 123 (103, 144) 56 (34, 79)
+≤ 100,000 copies/mL 100 (86, 115) 49 (33, 65) 114 (98, 131) 53 (36, 70)
+CD4-count ≤ 50 cells/mm3 121 (100, 142) 33 (18, 48) 130 (104, 156) 42 (17, 67)
+> 50 and ≤ 200 cells/mm3 104 (88, 119) 47 (28, 66) 123 (103, 144) 56 (34, 79)
 > 200 cells/mm3 104 (80, 129) 54 (24, 84) 117 (90, 143) 48 (23, 73)
 
 Sensitivity score (GSS) §
 
 0 81 (55, 106) 11 (4, 26) 97 (70, 124) 15 (-0, 31)
-
 1 113 (96, 130) 44 (24, 63) 132 (111, 154) 45 (24, 66)
-
 2 and above 125 (105, 144) 76 (48, 103) 134 (108, 159) 90 (57, 123)
 
 † Non-completer is failure imputation: patients who discontinued prematurely are imputed as failure thereafter.
@@ -130,7 +127,7 @@ See section 4.4 regarding the need to administer raltegravir with two other acti
 
 Treatment-naïve adult patients
 STARTMRK (multi-centre, randomised, double-blind, active-control trial) evaluated the safety and anti-retroviral activity of raltegravir 400 mg twice daily vs. efavirenz 600 mg at bedtime, in a combination with emtricitabine (+) tenofovir disoproxil fumarate, in treatment-naïve HIV-infected patients with HIV RNA > 5,000 copies/mL.
-Randomisation was stratified by screening HIV RNA level (≤50,000 copies/mL; and > 50,000 copies/mL) and by hepatitis B or C status (positive or negative).
+Randomisation was stratified by screening HIV RNA level (≤ 50,000 copies/mL; and > 50,000 copies/mL) and by hepatitis B or C status (positive or negative).
 
 Patient demographics (gender, age and race) and baseline characteristics were comparable between the group receiving raltegravir 400 mg twice daily and the group receiving efavirenz 600 mg at bedtime.
 
@@ -156,9 +153,9 @@ All patients† 86 (81, 90) 82 (77, 86) 71 (65, 76) 61 (55, 67)
 Baseline Characteristic‡
 
 HIV-RNA > 100,000 copies/mL 91 (85, 95) 89 (83, 94) 70 (62, 77) 65 (56, 72)
-≤100,000 copies/mL 93 (86, 97) 89 (82, 94) 72 (64, 80) 58 (49, 66)
-CD4-count ≤50 cells/mm3 84 (64, 95) 86 (67, 96) 58 (37, 77) 77 (58, 90)
-> 50 and ≤200 cells/mm3 89 (81, 95) 86 (77, 92) 67 (57, 76) 60 (50, 69)
+≤ 100,000 copies/mL 93 (86, 97) 89 (82, 94) 72 (64, 80) 58 (49, 66)
+CD4-count ≤ 50 cells/mm3 84 (64, 95) 86 (67, 96) 58 (37, 77) 77 (58, 90)
+> 50 and ≤ 200 cells/mm3 89 (81, 95) 86 (77, 92) 67 (57, 76) 60 (50, 69)
 > 200 cells/mm3 94 (89, 98) 92 (87, 96) 76 (68, 82) 60 (51, 68)
 Viral Subtype Clade B 90 (85, 94) 89 (83, 93) 71 (65, 77) 59 (52, 65)
 Non-Clade B 96 (87, 100) 91 (78, 97) 68 (54, 79) 70 (54, 82)
@@ -170,10 +167,10 @@ All patients‡ 189 (174, 204) 163 (148, 178) 374 (345, 403) 312 (284, 339)
 Baseline Characteristic‡
 
 HIV-RNA > 100,000 copies/mL 196 (174, 219) 192 (169, 214) 392 (350, 435) 329 (293, 364)
-≤100,000 copies/mL 180 (160, 200) 134 (115, 153) 350 (312, 388) 294 (251, 337)
-CD4-count ≤50 cells/mm3 170 (122, 218) 152 (123, 180) 304 (209, 399) 314 (242, 386)
+≤ 100,000 copies/mL 180 (160, 200) 134 (115, 153) 350 (312, 388) 294 (251, 337)
+CD4-count ≤ 50 cells/mm3 170 (122, 218) 152 (123, 180) 304 (209, 399) 314 (242, 386)
 
-> 50 and ≤200 cells/mm3 193 (169, 217) 175 (151, 198) 413 (360, 465) 306 (264, 348)
+> 50 and ≤ 200 cells/mm3 193 (169, 217) 175 (151, 198) 413 (360, 465) 306 (264, 348)
 
 > 200 cells/mm3 190 (168, 212) 157 (134, 181) 358 (321, 395) 316 (272, 359)
 Viral Subtype Clade B 187 (170, 204) 164 (147, 181) 380 (346, 414) 303 (272, 333)
@@ -196,8 +193,8 @@ Patients received either the 400 mg tablet formulation (6 to 18 years of age) or
 Raltegravir was administered with an optimised background regimen.
 
 The initial dose finding stage included intensive pharmacokinetic evaluation.
-Dose selection was based upon achieving similar raltegravir plasma exposure and trough concentration as seen in adults, and acceptable short term safety.
-After dose selection, additional patients were enrolled for evaluation of long term safety, tolerability and efficacy.
+Dose selection was based upon achieving similar raltegravir plasma exposure and trough concentration as seen in adults, and acceptable short-term safety.
+After dose selection, additional patients were enrolled for evaluation of long-term safety, tolerability and efficacy.
 Of the 126 patients, 96 received the recommended dose of raltegravir (see section 4.2).
 Table 4
 Baseline Characteristics and Efficacy Outcomes at Weeks 24 and 48 from IMPAACT P1066
@@ -304,7 +301,7 @@ Treatment-naïve adult patients (400 mg twice daily)
 
 Treatment-naïve adult patients (1,200 mg [2 x 600 mg] once daily)
 ONCEMRK (multi-centre, randomised, double-blind, active-control trial; Protocol 292) evaluated the safety and anti-retroviral activity of raltegravir 1,200 mg once daily + emtricitabine (+) tenofovir disoproxil fumarate vs. raltegravir 400 mg twice daily, in combination with emtricitabine (+) tenofovir disoproxil fumarate, in treatment-naïve HIV-infected patients with HIV RNA > 1,000 copies/mL.
-Randomisation was stratified by screening HIV RNA level (≤100,000 copies/mL; and
+Randomisation was stratified by screening HIV RNA level (≤ 100,000 copies/mL; and
 > 100,000 copies/mL) and by hepatitis B or C status (positive or negative).
 
 Patient demographics (gender, age and race) and baseline characteristics were comparable between the group receiving raltegravir 1,200 mg once daily and the group receiving raltegravir 400 mg twice daily.
@@ -332,9 +329,10 @@ All patients† 88.9 (85.9, 91.4) 88.3 (83.9, 91.9) 81.5 (78.0, 84.8) 80.1 (74.8
 HIV-RNA 86.7 (80.0, 91.8) 83.8 (73.4, 91.3) 84.7 (77.5, 90.3) 82.9 (72.0, 90.8)
 
 > 100,000 copies/mL
-97.2 (94.9, 98.7) 97.7 (94.3, 99.4) 91.9 (88.5, 94.5) 93.0 (89.1, 97.1) ≤100,000 copies/mL
-CD4-count ≤200 cells/mm3 85.1 (74.3, 92.6) 87.9 (71.8, 96.6) 79.0 (66.8, 88.3) 80 (61.4, 92.3) > 200 cells/mm3 95.6 (93.2, 97.3) 94.5 (90.6, 97.1) 91.4 (88.3, 93.9) 92.2 (87.6, 95.5)
+97.2 (94.9, 98.7) 97.7 (94.3, 99.4) 91.9 (88.5, 94.5) 93.0 (89.1, 97.1) ≤ 100,000 copies/mL
+CD4-count ≤ 200 cells/mm3 85.1 (74.3, 92.6) 87.9 (71.8, 96.6) 79.0 (66.8, 88.3) 80 (61.4, 92.3)
 
+> 200 cells/mm3 95.6 (93.2, 97.3) 94.5 (90.6, 97.1) 91.4 (88.3, 93.9) 92.2 (87.6, 95.5)
 Viral Subtype Clade B 94.6 (91.4, 96.8) 93.7 (89.0, 96.8) 90.0 (86.0, 93.2) 88.9 (83.0, 93.3)
 Non-Clade B 93.6 (89.1, 96.6) 93.2 (84.9, 97.8) 89.5 (84.1, 93.6) 94.4 (86.2, 98.4)
 
@@ -342,12 +340,12 @@ All patients‡ 232 (215, 249) 234 (213, 255) 262 (243, 280) 262 (236, 288)
 
 HIV-RNA 276 (245, 308) 256 (218, 294) 297 (263, 332) 281 (232, 329)
 
-214 (194, 235) 225 (199, 251) 248 (225, 270) 254 (224, 285) ≤100,000 copies/mL
+214 (194, 235) 225 (199, 251) 248 (225, 270) 254 (224, 285)
 
-CD4 count ≤200 cells/mm3 209 (176, 243) 209 (172, 245) 239 (196, 281) 242 (188, 296)
+≤ 100,000 copies/mL
 
+CD4 count ≤ 200 cells/mm3 209 (176, 243) 209 (172, 245) 239 (196, 281) 242 (188, 296)
 > 200 cells/mm3 235 (216, 255) 238 (214, 262) 265 (245, 286) 265 (237, 294)
-
 Viral Subtype Clade B 232 (209, 254) 240 (213, 266) 270 (245, 296) 267 (236, 297)
 Non-Clade B 233 (205, 261) 226 (191, 261) 246 (219, 274) 259 (211, 307)
 
@@ -361,12 +359,8 @@ Protocols 018 and 019) in antiretroviral treatment-experienced HIV-1 infected ad
 Durable outcomes (Week 48 and Week 96) for patients on the recommended dose raltegravir 400 mg twice daily from the pooled studies BENCHMRK 1 and BENCHMRK 2 are shown in Table 4.
 
 Raltegravir Placebo + Raltegravir Placebo + OBT
-
 Parameter 400 mg twice OBT 400 mg twice (N = 237)
-
 daily + OBT (N = 237) daily + OBT
-
-0 81 (55, 106) 11 (4, 26) 97 (70, 124) 15 (-0, 31) 1 113 (96, 130) 44 (24, 63) 132 (111, 154) 45 (24, 66)
 
 Week 48 and Week 240 outcomes for patients on the recommended dose of raltegravir 400 mg twice daily from STARTMRK are shown in Table 5.
 

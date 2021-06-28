@@ -48,31 +48,33 @@ Pharmacokinetic Interaction Data
 | --- | --- | --- |
 | ANTI-RETROVIRAL |  |  |
 | Protease inhibitors (PI) |  |  |
-| atazanavir /ritonavir (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑41 % raltegravir C12hr ↑77 % raltegravir Cmax ↑24 % (UGT1A1 inhibition) | No dose adjustment required for raltegravir. |
-| tipranavir /ritonavir (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓24 % raltegravir C12hr ↓55 % raltegravir Cmax ↓18 % (UGT1A1 induction) | No dose adjustment required for raltegravir. |
+| atazanavir /ritonavir (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑ 41 % raltegravir C12hr ↑ 77 % raltegravir Cmax ↑ 24 % (UGT1A1 inhibition) | No dose adjustment required for raltegravir. |
+| tipranavir /ritonavir (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓ 24 % raltegravir C12hr ↓ 55 % raltegravir Cmax ↓ 18 % (UGT1A1 induction) | No dose adjustment required for raltegravir. |
 | Non-nucleoside reverse transcriptase inhibitors (NNRTIs) |  |  |
-| efavirenz (raltegravir 400 mg Single Dose) | raltegravir AUC ↓36 % raltegravir C12hr ↓21 % raltegravir Cmax ↓36 % (UGT1A1 induction) | No dose adjustment required for raltegravir. |
-| etravirine (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓10 % raltegravir C12hr ↓34 % raltegravir Cmax ↓11 % (UGT1A1 induction) etravirine AUC ↑10 % etravirine C12hr ↑17 % etravirine Cmax ↑4 % | No dose adjustment required for raltegravir or etravirine. |
+| efavirenz (raltegravir 400 mg Single Dose) | raltegravir AUC ↓ 36 % raltegravir C12hr ↓ 21 % raltegravir Cmax ↓ 36 % (UGT1A1 induction) | No dose adjustment required for raltegravir. |
+| etravirine (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓ 10 % raltegravir C12hr ↓ 34 % raltegravir Cmax ↓ 11 % (UGT1A1 induction) etravirine AUC ↑ 10 % etravirine C12hr ↑ 17 % etravirine Cmax ↑ 4 % | No dose adjustment required for raltegravir or etravirine. |
 | Nucleoside/tide reverse transcriptase inhibitors |  |  |
-| tenofovir disoproxil fumarate (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑49 % raltegravir C12hr ↑3 % raltegravir Cmax ↑64 % (mechanism of interaction unknown) tenofovir AUC ↓10 % tenofovir C24hr ↓13 % tenofovir Cmax ↓23 % | No dose adjustment required for raltegravir or tenofovir disoproxil fumarate. |
+| tenofovir disoproxil fumarate (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑ 49 % raltegravir C12hr ↑ 3 % raltegravir Cmax ↑ 64 % (mechanism of interaction unknown) tenofovir AUC ↓ 10 % tenofovir C24hr ↓ 13 % tenofovir Cmax ↓ 23 % | No dose adjustment required for raltegravir or tenofovir disoproxil fumarate. |
 | CCR5 inhibitors |  |  |
-| maraviroc (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓37 % raltegravir C12hr ↓28 % raltegravir Cmax ↓33 % (mechanism of interaction unknown) maraviroc AUC ↓14 % maraviroc C12hr ↓10 % maraviroc Cmax ↓21 % | No dose adjustment required for raltegravir or maraviroc. |
+| maraviroc (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓ 37 % raltegravir C12hr ↓ 28 % raltegravir Cmax ↓ 33 % (mechanism of interaction unknown) maraviroc AUC ↓ 14 % maraviroc C12hr ↓ 10 % maraviroc Cmax ↓ 21 % | No dose adjustment required for raltegravir or maraviroc. |
 | HCV ANTIVIRALS |  |  |
 | NS3/4A protease inhibitors (PI) |  |  |
-| boceprevir (raltegravir 400 mg Single Dose) | raltegravir AUC ↑4 % raltegravir C12hr ↓25 % raltegravir Cmax ↑11 % (mechanism of interaction unknown) | No dose adjustment required for raltegravir or boceprevir. |
+| boceprevir (raltegravir 400 mg Single Dose) | raltegravir AUC ↑ 4 % raltegravir C12hr ↓ 25 % raltegravir Cmax ↑ 11 % (mechanism of interaction unknown) | No dose adjustment required for raltegravir or boceprevir. |
 | ANTIMICROBIALS |  |  |
 | Antimycobacterial |  |  |
-| rifampicin (raltegravir 400 mg Single Dose) | raltegravir AUC ↓40 % raltegravir C12hr ↓61 % raltegravir Cmax ↓38 % (UGT1A1 induction) | Rifampicin reduces plasma levels of raltegravir. If co-administration with rifampicin is unavoidable, a doubling of the dose of raltegravir can be considered (see section 4.4). |
+| rifampicin (raltegravir 400 mg Single Dose) | raltegravir AUC ↓ 40 % raltegravir C12hr ↓ 61 % raltegravir Cmax ↓ 38 % (UGT1A1 induction) | Rifampicin reduces plasma levels of raltegravir. If co-administration with rifampicin is unavoidable, a doubling of the dose of raltegravir can be considered (see section 4.4). |
 | SEDATIVE |  |  |
-| midazolam (raltegravir 400 mg Twice Daily) | midazolam AUC ↓8 % midazolam Cmax ↑3 % | No dosage adjustment required for raltegravir or midazolam. These results indicate that raltegravir is not an inducer or inhibitor of CYP3A4, and raltegravir is thus not anticipated to affect the pharmacokinetics of medicinal products which are CYP3A4 substrates. |
+| midazolam (raltegravir 400 mg Twice Daily) | midazolam AUC ↓ 8 % midazolam Cmax ↑ 3 % | No dosage adjustment required for raltegravir or midazolam. These results indicate that raltegravir is not an inducer or inhibitor of CYP3A4, and raltegravir is thus not anticipated to affect the pharmacokinetics of medicinal products which are CYP3A4 substrates. |
 | METAL CATION ANTACIDS |  |  |
-| aluminium and magnesium hydroxide antacid (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓49 % raltegravir C12 hr ↓63 % raltegravir Cmax ↓44 % 2 hours before raltegravir raltegravir AUC ↓51 % raltegravir C12 hr ↓56 % raltegravir Cmax ↓51 % 2 hours after raltegravir raltegravir AUC ↓30 % raltegravir C12 hr ↓57 % raltegravir Cmax ↓24 % 6 hours before raltegravir raltegravir AUC ↓13 % raltegravir C12 hr ↓50 % raltegravir Cmax ↓10 % 6 hours after raltegravir raltegravir AUC ↓11 % raltegravir C12 hr ↓49 % raltegravir Cmax ↓10 % (chelation of metal cations) | Aluminium and magnesium containing antacids reduce raltegravir plasma levels. Co-administration of raltegravir with aluminium and/or magnesium containing antacids is not recommended. |
-| calcium carbonate antacid (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓55 % raltegravir C12 hr ↓32 % raltegravir Cmax ↓52 % (chelation of metal cations) | No dose adjustment required for raltegravir. |
+| aluminium and magnesium hydroxide antacid (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓ 49 % raltegravir C12 hr ↓ 63 % raltegravir Cmax ↓ 44 % 2 hours before raltegravir raltegravir AUC ↓ 51 % raltegravir C12 hr ↓ 56 % raltegravir Cmax ↓ 51 % 2 hours after raltegravir raltegravir AUC ↓ 30 % raltegravir C12 hr ↓ 57 % raltegravir Cmax ↓ 24 % 6 hours before raltegravir raltegravir AUC ↓ 13 % raltegravir C12 hr ↓ 50 % raltegravir Cmax ↓ 10 % 6 hours after raltegravir raltegravir AUC ↓ 11 % raltegravir C12 hr ↓ 49 % raltegravir Cmax ↓ 10 % (chelation of metal cations) | Aluminium and magnesium containing antacids reduce raltegravir plasma levels. Co-administration of raltegravir with aluminium and/or magnesium containing antacids is not recommended. |
+| calcium carbonate antacid (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓ 55 % raltegravir C12 hr ↓ 32 % raltegravir Cmax ↓ 52 % (chelation of metal cations) | No dose adjustment required for raltegravir. |
+| Other METAL CATION |  |  |
+| Iron salts | Expected: Raltegravir AUC ↓ (chelation of metal cations) | Given simultaneously iron salts are expected to reduce raltegravir plasma levels; taking iron salts at least two hours from the administration of raltegravir may allow to limit this effect. |
 | H2 BLOCKERS AND PROTON PUMP INHIBITORS |  |  |
-| omeprazole (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑37 % raltegravir C12 hr ↑24 % raltegravir Cmax ↑51 % (increased solubility) | No dose adjustment required for raltegravir. |
-| famotidine (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑44 % raltegravir C12 hr ↑6 % raltegravir Cmax ↑60 % (increased solubility) | No dose adjustment required for raltegravir. |
+| omeprazole (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑ 37 % raltegravir C12 hr ↑ 24 % raltegravir Cmax ↑ 51 % (increased solubility) | No dose adjustment required for raltegravir. |
+| famotidine (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑ 44 % raltegravir C12 hr ↑ 6 % raltegravir Cmax ↑ 60 % (increased solubility) | No dose adjustment required for raltegravir. |
 | HORMONAL CONTRACEPTIVES |  |  |
-| Ethinyl Estradiol Norelgestromin (raltegravir 400 mg Twice Daily) | Ethinyl Estradiol AUC ↓2 % Ethinyl Estradiol Cmax ↑6 % Norelgestromin AUC ↑14 % Norelgestromin Cmax ↑29 % | No dosage adjustment required for raltegravir or hormonal contraceptives (estrogen-and/or progesterone-based). |
+| Ethinyl Estradiol Norelgestromin (raltegravir 400 mg Twice Daily) | Ethinyl Estradiol AUC ↓ 2 % Ethinyl Estradiol Cmax ↑ 6 % Norelgestromin AUC ↑ 14 % Norelgestromin Cmax ↑ 29 % | No dosage adjustment required for raltegravir or hormonal contraceptives (estrogen-and/or progesterone-based). |
 | OPIOID ANALGESICS |  |  |
 | methadone (raltegravir 400 mg Twice Daily) | methadone AUC ↔ methadone Cmax ↔ | No dose adjustment required for raltegravir or methadone. |
 
@@ -124,41 +126,43 @@ Table 1 displays all available interaction study data along with recommendations
 | --- | --- | --- |
 | ANTI-RETROVIRAL |  |  |
 | Protease inhibitors (PI) |  |  |
-| atazanavir /ritonavir (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑41% raltegravir C12hr ↑77% raltegravir Cmax ↑24% (UGT1A1 inhibition) | No dose adjustment required for raltegravir (400 mg twice daily). |
-| atazanavir (raltegravir 1,200 mg single dose) | raltegravir AUC ↑67% raltegravir C24hr ↑26% raltegravir Cmax ↑16% (UGT1A1 inhibition) | Co-administration of raltegravir (1,200 mg once daily) is not recommended. |
-| tipranavir /ritonavir (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓24% raltegravir C12hr ↓55% raltegravir Cmax ↓18% (UGT1A1 induction) | No dose adjustment required for raltegravir (400 mg twice daily). |
+| atazanavir /ritonavir (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑ 41% raltegravir C12hr ↑ 77% raltegravir Cmax ↑ 24% (UGT1A1 inhibition) | No dose adjustment required for raltegravir (400 mg twice daily). |
+| atazanavir (raltegravir 1,200 mg single dose) | raltegravir AUC ↑ 67% raltegravir C24hr ↑ 26% raltegravir Cmax ↑ 16% (UGT1A1 inhibition) | Co-administration of raltegravir (1,200 mg once daily) is not recommended. |
+| tipranavir /ritonavir (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓ 24% raltegravir C12hr ↓ 55% raltegravir Cmax ↓ 18% (UGT1A1 induction) | No dose adjustment required for raltegravir (400 mg twice daily). |
 |  | Extrapolated from 400 mg twice daily study | Co-administration of raltegravir (1,200 mg once daily) is not recommended. |
 | Non-nucleoside reverse transcriptase inhibitors (NNRTIs) |  |  |
-| efavirenz (raltegravir 400 mg Single Dose) | raltegravir AUC ↓36% raltegravir C12hr ↓21% raltegravir Cmax ↓36% (UGT1A1 induction) | No dose adjustment required for raltegravir (400 mg twice daily and 1,200 mg once daily). |
-| efavirenz (raltegravir 1,200 mg single dose) | raltegravir AUC ↓14% raltegravir C24hr ↓6% raltegravir Cmax ↓9% (UGT1A1 induction) |  |
-| etravirine (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓10% raltegravir C12hr ↓34% raltegravir Cmax ↓11% (UGT1A1 induction) etravirine AUC ↑10% etravirine C12hr ↑17% etravirine Cmax ↑4% | No dose adjustment required for raltegravir (400 mg twice daily and 1,200 mg once daily) or etravirine. |
+| efavirenz (raltegravir 400 mg Single Dose) | raltegravir AUC ↓ 36% raltegravir C12hr ↓ 21% raltegravir Cmax ↓ 36% (UGT1A1 induction) | No dose adjustment required for raltegravir (400 mg twice daily and 1,200 mg once daily). |
+| efavirenz (raltegravir 1,200 mg single dose) | raltegravir AUC ↓ 14% raltegravir C24hr ↓ 6% raltegravir Cmax ↓ 9% (UGT1A1 induction) |  |
+| etravirine (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓ 10% raltegravir C12hr ↓ 34% raltegravir Cmax ↓ 11% (UGT1A1 induction) etravirine AUC ↑ 10% etravirine C12hr ↑ 17% etravirine Cmax ↑ 4% | No dose adjustment required for raltegravir (400 mg twice daily and 1,200 mg once daily) or etravirine. |
 | Nucleoside/tide reverse transcriptase inhibitors |  |  |
-| tenofovir disoproxil fumarate (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑49% raltegravir C12hr ↑3% raltegravir Cmax ↑64% (mechanism of interaction unknown) tenofovir AUC ↓10% tenofovir C24hr ↓13% tenofovir Cmax ↓23% | No dose adjustment required for raltegravir (400 mg twice daily and 1,200 mg once daily) or tenofovir disoproxil fumarate. |
+| tenofovir disoproxil fumarate (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑ 49% raltegravir C12hr ↑ 3% raltegravir Cmax ↑ 64% (mechanism of interaction unknown) tenofovir AUC ↓ 10% tenofovir C24hr ↓ 13% tenofovir Cmax ↓ 23% | No dose adjustment required for raltegravir (400 mg twice daily and 1,200 mg once daily) or tenofovir disoproxil fumarate. |
 | emtricitabine and tenofovir disoproxil fumarate (raltegravir 1,200 mg (2 x 600 mg) Once Daily) | Population PK analysis showed that the effect of emtricitabine/tenofovir disaproxil fumarate on raltegravir pharmacokinetics was minimal (12% increase in relative bioavailability), and was not statistically or clinically significant. (Mechanism of interaction unknown) |  |
 | CCR5 inhibitors |  |  |
-| maraviroc (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓37% raltegravir C12hr ↓28% raltegravir Cmax ↓33% (mechanism of interaction unknown) maraviroc AUC ↓14% maraviroc C12hr ↓10% maraviroc Cmax ↓21% | No dose adjustment required for raltegravir (400 mg twice daily and 1,200 mg once daily) or maraviroc. |
+| maraviroc (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓ 37% raltegravir C12hr ↓ 28% raltegravir Cmax ↓ 33% (mechanism of interaction unknown) maraviroc AUC ↓ 14% maraviroc C12hr ↓ 10% maraviroc Cmax ↓ 21% | No dose adjustment required for raltegravir (400 mg twice daily and 1,200 mg once daily) or maraviroc. |
 | HCV ANTIVIRALS |  |  |
 | NS3/4A protease inhibitors (PI) |  |  |
-| boceprevir (raltegravir 400 mg Single Dose) | raltegravir AUC ↑4% raltegravir C12hr ↓25% raltegravir Cmax ↑11% (mechanism of interaction unknown) | No dose adjustment required for raltegravir (400 mg twice daily and 1,200 mg once daily) or boceprevir. |
+| boceprevir (raltegravir 400 mg Single Dose) | raltegravir AUC ↑ 4% raltegravir C12hr ↓ 25% raltegravir Cmax ↑ 11% (mechanism of interaction unknown) | No dose adjustment required for raltegravir (400 mg twice daily and 1,200 mg once daily) or boceprevir. |
 | ANTIMICROBIALS |  |  |
 | Antimycobacterial |  |  |
-| rifampicin (raltegravir 400 mg Single Dose) | raltegravir AUC ↓40% raltegravir C12hr ↓61% raltegravir Cmax ↓38% (UGT1A1 induction) | Rifampicin reduces plasma levels of raltegravir. If co-administration with rifampicin is unavoidable, a doubling of the dose of raltegravir (400 mg twice daily) can be considered. |
+| rifampicin (raltegravir 400 mg Single Dose) | raltegravir AUC ↓ 40% raltegravir C12hr ↓ 61% raltegravir Cmax ↓ 38% (UGT1A1 induction) | Rifampicin reduces plasma levels of raltegravir. If co-administration with rifampicin is unavoidable, a doubling of the dose of raltegravir (400 mg twice daily) can be considered. |
 |  | Extrapolated from 400 mg twice daily study | Co-administration of raltegravir (1,200 mg once daily) is not recommended. |
 | SEDATIVE |  |  |
-| midazolam (raltegravir 400 mg Twice Daily) | midazolam AUC ↓8% midazolam Cmax ↑3% | No dosage adjustment required for raltegravir (400 mg twice daily and 1,200 mg once daily) or midazolam. These results indicate that raltegravir is not an inducer or inhibitor of CYP3A4, and raltegravir is thus not anticipated to affect the pharmacokinetics of medicinal products which are CYP3A4 substrates. |
+| midazolam (raltegravir 400 mg Twice Daily) | midazolam AUC ↓ 8% midazolam Cmax ↑ 3% | No dosage adjustment required for raltegravir (400 mg twice daily and 1,200 mg once daily) or midazolam. These results indicate that raltegravir is not an inducer or inhibitor of CYP3A4, and raltegravir is thus not anticipated to affect the pharmacokinetics of medicinal products which are CYP3A4 substrates. |
 | METAL CATION ANTACIDS |  |  |
-| aluminium and magnesium hydroxide antacid (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓49% raltegravir C12 hr ↓63% raltegravir Cmax ↓44% 2 hours before raltegravir raltegravir AUC ↓51% raltegravir C12 hr ↓56% raltegravir Cmax ↓51% 2 hours after raltegravir raltegravir AUC ↓30% raltegravir C12 hr ↓57% raltegravir Cmax ↓24% 6 hours before raltegravir raltegravir AUC ↓13% raltegravir C12 hr ↓50% raltegravir Cmax ↓10% 6 hours after raltegravir raltegravir AUC ↓11% raltegravir C12 hr ↓49% raltegravir Cmax ↓10% (chelation of metal cations) | Aluminium and magnesium containing antacids reduce raltegravir plasma levels. Co-administration of raltegravir (400 mg twice daily and 1,200 mg once daily) with aluminium and/or magnesium containing antacids is not recommended. |
-| aluminium/magnesium hydroxide antacid (raltegravir 1,200 mg single dose) | 12 hours after raltegravir raltegravir AUC ↓14% raltegravir C24 hr ↓58% raltegravir Cmax ↓14% (chelation of metal ions) |  |
-| calcium carbonate antacid (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓55% raltegravir C12 hr ↓32% raltegravir Cmax ↓52% (chelation of metal cations) | No dose adjustment required for raltegravir (400 mg twice daily). |
-| calcium carbonate antacid (raltegravir 1,200 mg single dose) | raltegravir AUC ↓72% raltegravir C24 hr ↓48% raltegravir Cmax ↓74% 12 hours after raltegravir raltegravir AUC ↓10% raltegravir C24 hr ↓57% raltegravir Cmax ↓2% (chelation of metal ions) | Co-administration of raltegravir (1,200 mg once daily) is not recommended. |
+| aluminium and magnesium hydroxide antacid (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓ 49% raltegravir C12 hr ↓ 63% raltegravir Cmax ↓ 44% 2 hours before raltegravir raltegravir AUC ↓ 51% raltegravir C12 hr ↓ 56% raltegravir Cmax ↓ 51% 2 hours after raltegravir raltegravir AUC ↓ 30% raltegravir C12 hr ↓ 57% raltegravir Cmax ↓ 24% 6 hours before raltegravir raltegravir AUC ↓ 13% raltegravir C12 hr ↓ 50% raltegravir Cmax ↓ 10% 6 hours after raltegravir raltegravir AUC ↓ 11% raltegravir C12 hr ↓ 49% raltegravir Cmax ↓ 10% (chelation of metal cations) | Aluminium and magnesium containing antacids reduce raltegravir plasma levels. Co-administration of raltegravir (400 mg twice daily and 1,200 mg once daily) with aluminium and/or magnesium containing antacids is not recommended. |
+| aluminium/magnesium hydroxide antacid (raltegravir 1,200 mg single dose) | 12 hours after raltegravir raltegravir AUC ↓ 14% raltegravir C24 hr ↓ 58% raltegravir Cmax ↓ 14% (chelation of metal ions) |  |
+| calcium carbonate antacid (raltegravir 400 mg Twice Daily) | raltegravir AUC ↓ 55% raltegravir C12 hr ↓ 32% raltegravir Cmax ↓ 52% (chelation of metal cations) | No dose adjustment required for raltegravir (400 mg twice daily). |
+| calcium carbonate antacid (raltegravir 1,200 mg single dose) | raltegravir AUC ↓ 72% raltegravir C24 hr ↓ 48% raltegravir Cmax ↓ 74% 12 hours after raltegravir raltegravir AUC ↓ 10% raltegravir C24 hr ↓ 57% raltegravir Cmax ↓ 2% (chelation of metal ions) | Co-administration of raltegravir (1,200 mg once daily) is not recommended. |
+| Other METAL CATION |  |  |
+| Iron salts | Expected: Raltegravir AUC ↓ (chelation of metal cations) | Given simultaneously iron salts are expected to reduce raltegravir plasma levels; taking iron salts at least two hours from the administration of raltegravir may allow to limit this effect. |
 | H2 BLOCKERS AND PROTON PUMP INHIBITORS |  |  |
-| omeprazole (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑37% raltegravir C12 hr ↑24% raltegravir Cmax ↑51% (increased solubility) | No dose adjustment required for raltegravir (400 mg twice daily and 1,200 mg once daily). |
-| famotidine (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑44% raltegravir C12 hr ↑6% raltegravir Cmax ↑60% (increased solubility) |  |
+| omeprazole (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑ 37% raltegravir C12 hr ↑ 24% raltegravir Cmax ↑ 51% (increased solubility) | No dose adjustment required for raltegravir (400 mg twice daily and 1,200 mg once daily). |
+| famotidine (raltegravir 400 mg Twice Daily) | raltegravir AUC ↑ 44% raltegravir C12 hr ↑ 6% raltegravir Cmax ↑ 60% (increased solubility) |  |
 | gastric pH altering agents: proton pump inhibitors (e.g. omeprazole), H2 blockers (e.g. famotidine, ranitidine, cimitedine) (raltegravir 1,200 mg) | Population PK analysis showed that the effect of gastric pH altering agents on raltegravir pharmacokinetics was minimal (8.8% decrease in relative bioavailability), and was not statistically or clinically significant. (Increased drug solubility) |  |
 | HORMONAL CONTRACEPTIVES |  |  |
-| Ethinyl Estradiol Norelgestromin (raltegravir 400 mg Twice Daily) | Ethinyl Estradiol AUC ↓2% Ethinyl Estradiol Cmax ↑6% Norelgestromin AUC ↑14% Norelgestromin Cmax ↑29% | No dosage adjustment required for raltegravir (400 mg twice daily and 1,200 mg once daily) or hormonal contraceptives (estrogen- and/or progesterone-based). |
+| Ethinyl Estradiol Norelgestromin (raltegravir 400 mg Twice Daily) | Ethinyl Estradiol AUC ↓ 2% Ethinyl Estradiol Cmax ↑ 6% Norelgestromin AUC ↑ 14% Norelgestromin Cmax ↑ 29% | No dosage adjustment required for raltegravir (400 mg twice daily and 1,200 mg once daily) or hormonal contraceptives (estrogen- and/or progesterone-based). |
 | OPIOID ANALGESICS |  |  |
-| methadone (raltegravir 400 mg Twice Daily) | methadone AUC ↔ methadon Cmax ↔ | No dose adjustment required for raltegravir (400 mg twice daily and 1,200 mg once daily) or methadone. |
+| methadone (raltegravir 400 mg Twice Daily) | methadone AUC ↔ methadone Cmax ↔ | No dose adjustment required for raltegravir (400 mg twice daily and 1,200 mg once daily) or methadone. |
 
 [ISENTRESS 25 mg chewable tablets]
 

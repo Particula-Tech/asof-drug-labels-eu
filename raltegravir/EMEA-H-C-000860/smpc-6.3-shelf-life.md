@@ -8,9 +8,9 @@
 
 [ISENTRESS 25 mg chewable tablets]
 
-(all sentences already above)
+3 years
 
 [ISENTRESS 100 mg granules for oral suspension]
 
-2 years for unopened sachet.
-After reconstitution: 30 minutes when stored at or below 30 C.
+3 years for unopened sachet.
+After reconstitution: 30 minutes when stored at or below 30 °C.

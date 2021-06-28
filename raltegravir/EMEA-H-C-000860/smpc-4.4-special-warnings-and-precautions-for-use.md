@@ -70,8 +70,12 @@ Rash occurred more commonly in treatment-experienced patients receiving regimens
 
 Lactose
 
-ISENTRESS film-coated tablets contain lactose.
-Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+This medicinal product contains lactose.
+Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+
+Sodium
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
 
 [ISENTRESS 600 mg film-coated tablets]
 
@@ -91,14 +95,42 @@ Strong inducers of drug metabolizing enzymes (e.g., rifampicin) have not been st
 
 [ISENTRESS 25 mg chewable tablets]
 
-Fructose
+Chewable tablet 25 mg
 
-ISENTRESS chewable tablets contain fructose and sorbitol.
-Patients with rare hereditary problems of fructose intolerance should not take this medicine.
+Fructose
+This medicinal product contains fructose up to 0.54 mg per tablet.
+Fructose may damage teeth.
+
+Sorbitol
+This medicinal product contains sorbitol (E 420) up to 1.5 mg per tablet.
+In medicinal products for oral use, sorbitol may affect the bioavailability of other medicinal products for oral use administered concomitantly.
+
+Aspartame
+This medicinal product contains aspartame (E 951), a source of phenylalanine.
+Each 25 mg chewable tablet contains up to 0.47 mg aspartame, corresponding to up to 0.05 mg phenylalanine.
+It may be harmful for patients with phenylketonuria.
+
+Sucrose
+This medicinal product contains up to 3.5 mg sucrose in each 25 mg chewable tablet.
+May be harmful to the teeth.
+Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine.
+
+Chewable tablet 100 mg
+
+This medicinal product contains fructose up to 1.07 mg per tablet.
+This medicinal product contains sorbitol (E 420) up to 2.9 mg per tablet.
+
+Each 100 mg chewable tablet contains up to 0.93 mg aspartame, corresponding to up to 0.10 mg phenylalanine.
+
+This medicinal product contains up to 7 mg sucrose in each 100 mg chewable tablet.
 
 [ISENTRESS 100 mg granules for oral suspension]
 
-Fructose/Sucrose
+This medicinal product contains up to 0.5 mg fructose per sachet.
 
-ISENTRESS granules for oral suspension contain fructose, sorbitol and sucrose.
-Patients with rare hereditary problems of fructose intolerance glucosegalactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine.
+This medicinal product contains up to 4.7 mg sucrose per sachet.
+Sucrose may be harmful to the teeth.
+
+This medicine contains sorbitol (E 420) up to 1.5 mg per sachet.
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per sachet, that is to say essentially ‘sodium-free’.

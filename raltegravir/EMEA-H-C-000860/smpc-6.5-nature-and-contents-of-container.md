@@ -7,7 +7,7 @@ Not all pack sizes may be marketed.
 
 [ISENTRESS 600 mg film-coated tablets]
 
-High density polyethylene (HDPE) bottle with a child-resistant polypropylene closure, induction seal and silica gel dessicant.
+High density polyethylene (HDPE) bottle with a child-resistant polypropylene closure, induction seal and silica gel desiccant.
 
 [ISENTRESS 25 mg chewable tablets]
 

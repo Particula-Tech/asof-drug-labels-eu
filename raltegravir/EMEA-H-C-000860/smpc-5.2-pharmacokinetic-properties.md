@@ -28,7 +28,7 @@ Raltegravir is approximately 83 % bound to human plasma protein over the concent
 Raltegravir readily crossed the placenta in rats, but did not penetrate the brain to any appreciable extent.
 
 In two studies of HIV-1 infected patients who received raltegravir 400 mg twice daily, raltegravir was readily detected in the cerebrospinal fluid.
-In the first study(n=18), the median cerebrospinal fluid concentration was 5.8 % (range 1 to 53.5 %) of the corresponding plasma concentration.
+In the first study (n=18), the median cerebrospinal fluid concentration was 5.8 % (range 1 to 53.5 %) of the corresponding plasma concentration.
 In the second study (n=16), the median cerebrospinal fluid concentration was 3 % (range 1 to 61 %) of the corresponding plasma concentration.
 These median proportions are approximately 3- to 6-fold lower than the free fraction of raltegravir in plasma.
 Biotransformation and excretion
@@ -61,8 +61,8 @@ Raltegravir Pharmacokinetic Parameters IMPAACT P1066 Following Administration of
 
 | Body weight | Formulation | Dose | N* | Geometric mean (%CV†) AUC0-12hr (μM●hr) | Geometric mean (%CV†) C12hr (nM) |
 | --- | --- | --- | --- | --- | --- |
-| ≥25 kg | Film-coated tablet | 400 mg twice daily | 18 | 14.1 (121 %) | 233 (157 %) |
-| ≥25 kg | Chewable tablet | Weight based dosing, see dosing tables for the chewable tablet | 9 | 22.1 (36 %) | 113 (80 %) |
+| ≥ 25 kg | Film-coated tablet | 400 mg twice daily | 18 | 14.1 (121 %) | 233 (157 %) |
+| ≥ 25 kg | Chewable tablet | Weight based dosing, see dosing tables for the chewable tablet | 9 | 22.1 (36 %) | 113 (80 %) |
 | 11 to less than 25 kg | Chewable tablet | Weight based dosing, see dosing tables for the chewable tablet | 13 | 18.6 (68 %) | 82 (123 %) |
 | 3 to less than 20 kg | Oral suspension | Weight based dosing, see dosing table for granules for oral suspension | 19 | 24.5 (43 %) | 113 (69 %) |
 | *Number of patients with intensive pharmacokinetic (PK) results at the final recommended dose. †Geometric coefficient of variation. |  |  |  |  |  |
@@ -94,8 +94,7 @@ Raltegravir 400 mg twice daily may be administered with or without food.
 
 Raltegravir 600 mg tablets (2 x 600 mg once daily) may be administered with or without food.
 A single dose food effect study demonstrated that the 1,200 mg once daily had similar or smaller food effects when studied under high-fat and low-fat meal conditions when compared to the 400 mg twice daily.
-Administration of a low fat meal with raltegravir 1,200 mg once daily resulted in a 42% decrease in AUC0-last, 52% decrease in Cmax, and 16% decrease in C24hr.
-Administration of a high fat meal resulted in a 1.9% increase in AUC0-last, 28% decrease in Cmax, and 12% decrease in C24 hr.
+Administration of a low-fat meal with raltegravir 1,200 mg once daily resulted in a 42% decrease in AUC0-last, 52% decrease in Cmax, and 16% decrease in C24 hr. Administration of a high fat meal resulted in a 1.9% increase in AUC0-last, 28% decrease in Cmax, and 12% decrease in C24 hr.
 
 62 % decrease in Cmax, and 188 % increase in C12 hr compared to administration in the fasted state.
 
@@ -125,8 +124,8 @@ Table 8
 
 | Body weight | Formulation | Dose | N* | Geometric mean (%CV†) AUC0-12hr (μM●hr) | Geometric mean (%CV†) C12hr (nM) |
 | --- | --- | --- | --- | --- | --- |
-| ≥25 kg | Film-coated tablet | 400 mg twice daily | 18 | 14.1 (121 %) | 233 (157 %) |
-| ≥25 kg | Chewable tablet | Weight based dosing, see dosing Table 1 | 9 | 22.1 (36 %) | 113 (80 %) |
+| ≥ 25 kg | Film-coated tablet | 400 mg twice daily | 18 | 14.1 (121 %) | 233 (157 %) |
+| ≥ 25 kg | Chewable tablet | Weight based dosing, see dosing Table 1 | 9 | 22.1 (36 %) | 113 (80 %) |
 | 11 to less than 25 kg | Chewable tablet | Weight based dosing, see dosing Table 2 | 13 | 18.6 (68 %) | 82 (123 %) |
 | 3 to less than 20 kg | Oral suspension | Weight based dosing, see dosing table for granules for oral suspension | 19 | 24.5 (43 %) | 113 (69 %) |
 | *Number of patients with intensive pharmacokinetic (PK) results at the final recommended dose. †Geometric coefficient of variation. |  |  |  |  |  |
@@ -139,8 +138,8 @@ Raltegravir Pharmacokinetic Parameters IMPAACT P1066 Following Administration of
 
 | Body weight | Formulation | Dose | N* | Geometric mean (%CV†) AUC0-12hr (μM●hr) | Geometric mean (%CV†) C12hr (nM) |
 | --- | --- | --- | --- | --- | --- |
-| ≥25 kg | Film-coated tablet | 400 mg twice daily | 18 | 14.1 (121 %) | 233 (157 %) |
-| ≥25 kg | Chewable tablet | Weight based dosing, see dosing tables for the chewable tablet | 9 | 22.1 (36 %) | 113 (80 %) |
+| ≥ 25 kg | Film-coated tablet | 400 mg twice daily | 18 | 14.1 (121 %) | 233 (157 %) |
+| ≥ 25 kg | Chewable tablet | Weight based dosing, see dosing tables for the chewable tablet | 9 | 22.1 (36 %) | 113 (80 %) |
 | 11 to less than 25 kg | Chewable tablet | Weight based dosing, see dosing tables for the chewable tablet | 13 | 18.6 (68 %) | 82 (123 %) |
 | 3 to less than 20 kg | Oral suspension | Weight based dosing, see dosing Table 1 | 19 | 24.5 (43 %) | 113 (69 %) |
 | *Number of patients with intensive pharmacokinetic (PK) results at the final recommended dose. †Geometric coefficient of variation. |  |  |  |  |  |

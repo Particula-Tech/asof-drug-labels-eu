@@ -34,14 +34,15 @@ Chewable tablet 25 mg
 - Sucralose
 - Saccharin sodium
 - Sodium citrate dihydrate
-- Mannitol
+- Mannitol (E 421)
 - Monoammonium glycyrrhizinate
-- Sorbitol (E420)
+- Sorbitol (E 420)
 - Fructose
 - Banana flavour
 - Orange flavour
 - Masking flavour
 - Aspartame (E951)
+- Sucrose
 - Crospovidone, Type A
 - Hypromellose 2910/6cP
 - Macrogol/PEG 400
@@ -52,9 +53,9 @@ Chewable tablet 25 mg
 - Yellow iron oxide
 
 Chewable tablet 100 mg
-- Sodium stearyl fumarate- Magnesium stearate
+- Aspartame (E 951)
 
 [ISENTRESS 100 mg granules for oral suspension]
 
-- Sucrose
+- Crospovidone, TypeA
 - Carmellose sodium

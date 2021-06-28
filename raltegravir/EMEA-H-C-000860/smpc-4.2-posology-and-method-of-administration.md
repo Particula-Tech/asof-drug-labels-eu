@@ -13,9 +13,9 @@ Paediatric population
 The recommended dosage for paediatric patients of at least 25 kg body weight is 400 mg (one tablet) twice daily.
 If unable to swallow a tablet, consider the chewable tablet.
 
-Additional formulations and strengths available
+Additional formulations and strengths available:
 ISENTRESS is also available in a chewable tablet formulation and in granules for oral suspension formulation Refer to the chewable tablet and granules for oral suspension SmPCs for additional dosing information.
-The safety and efficacy of raltegravir in preterm (<37 weeks of gestation) and low birth weight (<2000 g) newborns have not been established.
+The safety and efficacy of raltegravir in preterm (<37 weeks of gestation) and low birth weight (<2,000 g) newborns have not been established.
 No data are available in this population and no dosing recommendations can be made.
 
 The maximum dose of the chewable tablet is 300 mg twice daily.
@@ -62,7 +62,7 @@ ISENTRESS 600 mg tablets can be administered with or without food as a 1,200 mg 
 
 [ISENTRESS 25 mg chewable tablets]
 
-Children at least 11 kg: weight based dose of the chewable tablet to a maximum dose of 300 mg, twice daily as specified in Tables 1 and 2.
+Children at least 11 kg: weight-based dose of the chewable tablet to a maximum dose of 300 mg, twice daily as specified in Tables 1 and 2.
 The chewable tablets are available in 25 mg and scored 100 mg strengths.
 See section 5.2 regarding the limited data on which these dose recommendations are based.
 
@@ -154,7 +154,7 @@ ISENTRESS is also available in a 400 mg tablet for use in adults, adolescents an
 For patients weighing at least 25 kg but are unable to swallow a tablet, consider the chewable tablet.
 Refer to the 400 mg and chewable tablet SmPCs for additional dosing information.
 
-Therefore ISENTRESS should be used with caution in this population.
+Refer to the 600 mg tablet SmPC for additional dosing information.
 
 ISENTRESS granules for oral suspension can be administered with or without food (see section 5.2).
 
