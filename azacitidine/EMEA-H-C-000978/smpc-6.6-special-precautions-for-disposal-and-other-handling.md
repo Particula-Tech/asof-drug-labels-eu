@@ -43,7 +43,6 @@ The syringe filled with reconstituted suspension should be allowed up to 30 minu
 If the elapsed time is longer than 30 minutes, the suspension should be discarded appropriately and a new dose prepared.
 To re-suspend, vigorously roll the syringe between the palms until a uniform, cloudy suspension is achieved.
 The product should be discarded if it contains large particles or agglomerates.
-
 Storage of the reconstituted product
 For storage conditions after reconstitution of the medicinal product, see section 6.3.
 
@@ -56,9 +55,9 @@ The following table is provided only as an example of how to calculate individua
 
 | Dose mg/m2 (% of recommended starting dose) | Total dose based on BSA value of 1.8 m2 | Number of vials required | Total volume of reconstituted suspension required |
 | --- | --- | --- | --- |
-| 75 mg/m2 (100 %) | 135 mg | 2 vials | 5.4 mL |
-| 37.5 mg/m2 (50 %) | 67.5 mg | 1 vial | 2.7 mL |
-| 25 mg/m2 (33 %) | 45 mg | 1 vial | 1.8 mL |
+| 75 mg/m2 (100%) | 135 mg | 2 vials | 5.4 mL |
+| 37.5 mg/m2 (50%) | 67.5 mg | 1 vial | 2.7 mL |
+| 25 mg/m2 (33%) | 45 mg | 1 vial | 1.8 mL |
 
 Method of administration
 Reconstituted Vidaza should be injected subcutaneously (insert the needle at a 45-90o angle) using a 25-gauge needle into the upper arm, thigh or abdomen.

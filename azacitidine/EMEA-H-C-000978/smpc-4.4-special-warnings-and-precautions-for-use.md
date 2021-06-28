@@ -27,7 +27,7 @@ Complete blood counts should be performed prior to initiation of therapy and as 
 
 Cardiac and pulmonary disease
 Patients with a history of severe congestive heart failure, clinically unstable cardiac disease or pulmonary disease were excluded from the pivotal registration studies (AZA PH GL 2003 CL 001 and AZA-AML-001) and therefore the safety and efficacy of azacitidine in these patients has not been established.
-Recent data from a clinical trial in patients with a known history of cardiovascular or pulmonary disease showed a significantly increased incidence of cardiac events with azacitidine (see section 4.8).
+Recent data from a clinical study in patients with a known history of cardiovascular or pulmonary disease showed a significantly increased incidence of cardiac events with azacitidine (see section 4.8).
 It is therefore advised to exercise caution when prescribing azacitidine to these patients.
 Cardiopulmonary assessment before and during the treatment should be considered.
 

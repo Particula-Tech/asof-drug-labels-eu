@@ -2,6 +2,7 @@
 
 Unopened powder vial:
 4 years
+
 After reconstitution:
 When Vidaza is reconstituted using water for injections that has not been refrigerated, chemical and physical in-use stability of the reconstituted medicinal product has been demonstrated at 25 °C for 45 minutes and at 2 °C to 8 °C for 8 hours.
 
