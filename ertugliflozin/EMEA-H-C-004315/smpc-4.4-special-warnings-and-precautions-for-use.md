@@ -103,3 +103,6 @@ Alternative methods should be used to monitor glycaemic control.
 Lactose
 The tablets contain lactose monohydrate.
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency, or glucose-galactose malabsorption should not take this medicinal product.
+
+Sodium
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.

@@ -20,8 +20,8 @@ Interaction studies conducted in healthy subjects, using a single dose design, s
 Multiple-dose administration of rifampin (a UGT and CYP inducer) decreases ertugliflozin AUC and Cmax by 39% and 15%, respectively.
 This decrease in exposure is not considered clinically relevant and therefore, no dose adjustment is recommended.
 A clinically relevant effect with other inducers (e.g., carbamazepine, phenytoin, phenobarbital) is not expected.
-
 The impact of UGT inhibitors on the pharmacokinetics of ertugliflozin has not been studied clinically, but potential increase in ertugliflozin exposure due to UGT inhibition is not considered to be clinically relevant.
+
 Effects of ertugliflozin on the pharmacokinetics of other medicinal products
 Interaction studies conducted in healthy volunteers suggest that ertugliflozin had no clinically relevant effect on the pharmacokinetics of sitagliptin, metformin, and glimepiride.
 

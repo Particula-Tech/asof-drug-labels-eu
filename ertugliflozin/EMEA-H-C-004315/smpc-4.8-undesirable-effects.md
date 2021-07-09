@@ -11,10 +11,10 @@ Patients received ertugliflozin 5 mg (N=519), ertugliflozin 15 mg (N=510), or pl
 The most commonly reported adverse reactions across the clinical program were vulvovaginal mycotic infection and other female genital mycotic infections.
 Serious diabetic ketoacidosis occurred rarely.
 See “Description of selected adverse reactions” for frequencies and see section 4.4.
-
 Tabulated list of adverse reactions
 Adverse reactions listed below are classified according to frequency and system organ class (SOC).
 Frequency categories are defined according to the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data).
+
 Table 1: Adverse reactions
 
 | System Organ Class Frequency | Adverse Reaction |
@@ -54,6 +54,7 @@ Ertugliflozin causes an osmotic diuresis, which may lead to intravascular volume
 In the pool of placebo-controlled studies, the incidence of adverse events related to volume depletion (dehydration, dizziness postural, presyncope, syncope, hypotension, and orthostatic hypotension) was low (< 2%) and not notably different across the ertugliflozin and placebo groups.
 In the subgroup analyses in the broader pool of Phase 3 studies, subjects with eGFR < 60 mL/min/1.73 m2, subjects ≥65 years of age and subjects on diuretics had a higher incidence of volume depletion in the ertugliflozin groups relative to the comparator group (see sections 4.2 and 4.4).
 In subjects with eGFR < 60 mL/min/1.73 m2, the incidence was 5.1%, 2.6%, and 0.5% for ertugliflozin 5 mg, ertugliflozin 15 mg, and the comparator group and for subjects with eGFR 45 to < 60 mL/min/1.73 m2, the incidence was 6.4%, 3.7%, and 0% respectively.
+
 Hypoglycaemia
 In the pool of placebo-controlled studies, the incidence of documented hypoglycaemia was increased for ertugliflozin 5 mg and 15 mg (5.0% and 4.5%) compared to placebo (2.9%).
 In this population, the incidence of severe hypoglycaemia was 0.4% in each group.
