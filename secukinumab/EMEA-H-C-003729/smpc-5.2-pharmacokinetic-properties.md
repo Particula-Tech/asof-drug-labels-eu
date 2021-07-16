@@ -2,8 +2,15 @@
 
 Most pharmacokinetics properties observed in patients with plaque psoriasis, psoriatic arthritis and ankylosing spondylitis were similar.
 
-Absorption
+Paediatric population
 
+In a pool of the two paediatric studies, patients with moderate to severe plaque psoriasis (6 to less than 18 years of age) were administered secukinumab at the recommended paediatric dosing regimen.
+At week 24, patients weighing ≥25 and <50 kg had a mean ± SD steady-state trough concentration of 19.8±6.96 µg/ml (n=24) after 75 mg of secukinumab and patients weighing ≥50 kg had mean ±SD trough concentration of 27.3±10.1 µg/ml (n=36) after 150 mg of secukinumab.
+The mean ± SD steady-state trough concentration in patients weighing <25 kg (n=8) was 32.6±10.8 µg/ml at week 24 after 75 mg dose.
+
+Adult population
+
+Absorption
 Following a single subcutaneous dose of 300 mg as a liquid formulation in healthy volunteers, secukinumab reached peak serum concentrations of 43.2±10.4 μg/ml between 2 and 14 days post dose.
 
 Based on population pharmacokinetic analysis, following a single subcutaneous dose of either 150 mg or 300 mg in plaque psoriasis patients, secukinumab reached peak serum concentrations of 13.7±4.8 µg/ml or 27.3±9.5 µg/ml, respectively, between 5 and 6 days post dose.
@@ -14,21 +21,20 @@ On the basis of simulated data, peak concentrations at steady-state (Cmax,ss) fo
 Population pharmacokinetic analysis suggests that steady-state is reached after 20 weeks with monthly dosing regimens.
 
 Compared with exposure after a single dose, the population pharmacokinetic analysis showed that patients exhibited a 2-fold increase in peak serum concentrations and area under the curve (AUC) following repeated monthly dosing during maintenance.
+
 Population pharmacokinetic analysis showed that secukinumab was absorbed with an average absolute bioavailability of 73% in patients with plaque psoriasis.
 Across studies, absolute bioavailabilities in the range between 60 and 77% were calculated.
-
 The bioavailability of secukinumab in PsA patients was 85% on the basis of the population pharmacokinetic model.
 
-Distribution
+Following a single subcutaneous injection of 300 mg solution for injection in pre-filled syringe in plaque psoriasis patients, secukinumab systemic exposure was similar to what was observed previously with two injections of 150 mg.
 
+Distribution
 The mean volume of distribution during the terminal phase (Vz) following single intravenous administration ranged from 7.10 to 8.60 litres in plaque psoriasis patients, suggesting that secukinumab undergoes limited distribution to peripheral compartments.
 
 Biotransformation
-
 The majority of IgG elimination occurs via intracellular catabolism, following fluid-phase or receptor mediated endocytosis.
 
 Elimination
-
 Mean systemic clearance (CL) following a single intravenous administration to patients with plaque psoriasis ranged from 0.13 to 0.36 l/day.
 In a population pharmacokinetic analysis, the mean systemic clearance (CL) was 0.19 l/day in plaque psoriasis patients.
 The CL was not impacted by gender.
@@ -37,14 +43,10 @@ Clearance was dose- and time-independent.
 The mean elimination half-life, as estimated from population pharmacokinetic analysis, was 27 days in plaque psoriasis patients, ranging from 18 to 46 days across psoriasis studies with intravenous administration.
 
 Linearity/non-linearity
-
 The single and multiple dose pharmacokinetics of secukinumab in plaque psoriasis patients were determined in several studies with intravenous doses ranging from 1x 0.3 mg/kg to 3x 10 mg/kg and with subcutaneous doses ranging from 1x 25 mg to multiple doses of 300 mg.
 Exposure was dose proportional across all dosing regimens.
 
 Special populations
-
-Elderly patients
-Based on population pharmacokinetic analysis with a limited number of elderly patients (n=71 for age ≥65 years and n=7 for age ≥75 years), clearance in elderly patients and patients less than 65 years of age was similar.
 
 Patients with renal or hepatic impairment
 No pharmacokinetic data are available in patients with renal or hepatic impairment.
@@ -53,11 +55,15 @@ IgGs are mainly eliminated via catabolism and hepatic impairment is not expected
 
 Effect of weight on pharmacokinetics
 Secukinumab clearance and volume of distribution increase as body weight increases.
-Paediatric population
-In a pool of the two paediatric studies, patients with moderate to severe plaque psoriasis (6 to less than 18 years of age) were administered secukinumab at the recommended paediatric dosing regimen.
-At week 24, patients weighing ≥25 and <50 kg had a mean ± SD steady-state trough concentration of 19.8 ± 6.96 µg/ml (n=24) after 75 mg of secukinumab and patients weighing ≥50 kg had mean ±SD trough concentration of 27.3 ± 10.1 µg/ml (n=36) after 150 mg of secukinumab.
-The mean ± SD steady-state trough concentration in patients weighing <25 kg (n=8) was 32.6 ± 10.8 µg/ml at week 24 after 75 mg dose.
 
 [Cosentyx 150 mg solution for injection in pre-filled syringe]
 
-Following a single subcutaneous injection of 300 mg solution for injection in pre-filled syringe in plaque psoriasis patients, secukinumab systemic exposure was similar to what was observed previously with two injections of 150 mg.
+Elderly patients
+Based on population pharmacokinetic analysis with a limited number of elderly patients (n=71 for age ≥65 years and n=7 for age ≥75 years), clearance in elderly patients and patients less than 65 years of age was similar.
+
+At week 24, patients weighing ≥25 and <50 kg had a mean ± SD steady-state trough concentration of 19.8 ± 6.96 µg/ml (n=24) after 75 mg of secukinumab and patients weighing ≥50 kg had mean ±SD trough concentration of 27.3 ± 10.1 µg/ml (n=36) after 150 mg of secukinumab.
+The mean ± SD steady-state trough concentration in patients weighing <25 kg (n=8) was 32.6 ± 10.8 µg/ml at week 24 after 75 mg dose.
+
+[Cosentyx 150 mg powder for solution for injection]
+
+(all sentences already above)

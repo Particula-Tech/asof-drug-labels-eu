@@ -1,12 +1,14 @@
 # 4.1 Therapeutic indications
 
-Adult plaque psoriasis
-
-Cosentyx is indicated for the treatment of moderate to severe plaque psoriasis in adults who are candidates for systemic therapy.
-
 Paediatric plaque psoriasis
 
 Cosentyx is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescents from the age of 6 years who are candidates for systemic therapy.
+
+[Cosentyx 150 mg solution for injection in pre-filled syringe]
+
+Adult plaque psoriasis
+
+Cosentyx is indicated for the treatment of moderate to severe plaque psoriasis in adults who are candidates for systemic therapy.
 
 Psoriatic arthritis
 
@@ -19,3 +21,7 @@ Cosentyx is indicated for the treatment of active ankylosing spondylitis in adul
 
 Non-radiographic axial spondyloarthritis (nr-axSpA)
 Cosentyx is indicated for the treatment of active non-radiographic axial spondyloarthritis with objective signs of inflammation as indicated by elevated C-reactive protein (CRP) and/or magnetic resonance imaging (MRI) evidence in adults who have responded inadequately to non-steroidal anti-inflammatory drugs (NSAIDs).
+
+[Cosentyx 150 mg powder for solution for injection]
+
+(all sentences already above)

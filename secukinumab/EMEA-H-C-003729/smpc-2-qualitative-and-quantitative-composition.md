@@ -1,7 +1,6 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each vial of powder contains 150 mg secukinumab.
-After reconstitution, 1 ml of solution contains 150 mg secukinumab.
+Each pre-filled syringe contains 75 mg secukinumab in 0.5 ml.
 
 Secukinumab is a recombinant fully human monoclonal antibody produced in Chinese Hamster Ovary (CHO) cells.
 
@@ -24,3 +23,8 @@ Each pre-filled pen contains 150 mg secukinumab in 1 ml.
 Cosentyx 300 mg solution for injection in pre-filled pen
 
 Each pre-filled pen contains 300 mg secukinumab in 2 ml.
+
+[Cosentyx 150 mg powder for solution for injection]
+
+Each vial of powder contains 150 mg secukinumab.
+After reconstitution, 1 ml of solution contains 150 mg secukinumab.

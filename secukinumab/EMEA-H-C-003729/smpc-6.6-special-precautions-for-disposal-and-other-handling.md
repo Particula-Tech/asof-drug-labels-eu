@@ -1,5 +1,42 @@
 # 6.6 Special precautions for disposal and other handling
 
+Cosentyx 75 mg solution for injection is supplied in a single-use pre-filled syringe for individual use.
+The syringe should be taken out of the refrigerator 20 minutes before injecting to allow it to reach room temperature.
+
+Prior to use, a visual inspection of the pre-filled syringe is recommended.
+The liquid should be clear.
+Its colour may vary from colourless to slightly yellow.
+You may see a small air bubble, which is normal.
+Do not use if the liquid contains easily visible particles, is cloudy or is distinctly brown.
+Detailed instructions for use are provided in the package leaflet.
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+[Cosentyx 150 mg solution for injection in pre-filled syringe]
+
+Cosentyx 150 mg solution for injection in pre-filled syringe
+
+Cosentyx 150 mg solution for injection is supplied in a single-use pre-filled syringe for individual use.
+
+Cosentyx 300 mg solution for injection in pre-filled syringe
+
+Cosentyx 300 mg solution for injection is supplied in a single-use pre-filled syringe for individual use.
+The syringe should be taken out of the refrigerator 30-45 minutes before injecting to allow it to reach room temperature.
+
+Cosentyx 150 mg solution for injection in pre-filled pen
+
+Cosentyx 150 mg solution for injection is supplied in a single-use pre-filled pen for individual use.
+The pen should be taken out of the refrigerator 20 minutes before injecting to allow it to reach room temperature.
+
+Cosentyx 300 mg solution for injection in pre-filled pen
+
+Cosentyx 300 mg solution for injection is supplied in a single-use pre-filled pen for individual use.
+The pen should be taken out of the refrigerator 30-45 minutes before injecting to allow it to reach room temperature.
+
+Prior to use, a visual inspection of the pre-filled syringe or pre-filled pen is recommended.
+
+[Cosentyx 150 mg powder for solution for injection]
+
 The single-use vial contains 150 mg secukinumab for reconstitution with sterile water for injections.
 The resulting solution should be clear and colourless to slightly yellow.
 Do not use if the lyophilised powder has not fully dissolved or if the liquid contains easily visible particles, is cloudy or is distinctly brown.
@@ -24,46 +61,12 @@ Do not shake or invert the vial.
 Keep the vial standing at room temperature for a minimum of 10 minutes to allow for dissolution.
 Note that foaming of the solution may occur.
 7.
-Tilt the vial to an angle of approx. 45° and gently rotate between the fingertips for approx. 1 minute.
-Do not shake or invert the vial.
 8.
 Allow the vial to stand undisturbed at room temperature for approximately 5 minutes.
 The resulting solution should be clear.
-Its colour may vary from colourless to slightly yellow.
-Do not use if the lyophilised powder has not fully dissolved or if the liquid contains easily visible particles, is cloudy or is distinctly brown.
 9.
 Prepare the required number of vials (2 vials for the 300 mg dose).
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
 Use in the paediatric population
 
-For paediatric patients receiving the 75 mg dose, it is currently recommended to use the single-use vial containing 150 mg secukinumab for reconstitution with sterile water for injections.
-Slightly more than 0.5 ml of the reconstituted solution for subcutaneous injection have to be withdrawn and the rest of the solution must be discarded immediately.
-Detailed instructions for use are provided in the package leaflet.
-
-[Cosentyx 150 mg solution for injection in pre-filled syringe]
-
-Cosentyx 150 mg solution for injection in pre-filled syringe
-
-Cosentyx 150 mg solution for injection is supplied in a single-use pre-filled syringe for individual use.
-The syringe should be taken out of the refrigerator 20 minutes before injecting to allow it to reach room temperature.
-
-Cosentyx 300 mg solution for injection in pre-filled syringe
-
-Cosentyx 300 mg solution for injection is supplied in a single-use pre-filled syringe for individual use.
-The syringe should be taken out of the refrigerator 30-45 minutes before injecting to allow it to reach room temperature.
-
-Cosentyx 150 mg solution for injection in pre-filled pen
-
-Cosentyx 150 mg solution for injection is supplied in a single-use pre-filled pen for individual use.
-The pen should be taken out of the refrigerator 20 minutes before injecting to allow it to reach room temperature.
-
-Cosentyx 300 mg solution for injection in pre-filled pen
-
-Cosentyx 300 mg solution for injection is supplied in a single-use pre-filled pen for individual use.
-The pen should be taken out of the refrigerator 30-45 minutes before injecting to allow it to reach room temperature.
-Prior to use, a visual inspection of the pre-filled syringe or pre-filled pen is recommended.
-The liquid should be clear.
-You may see a small air bubble, which is normal.
-Do not use if the liquid contains easily visible particles, is cloudy or is distinctly brown.
+For paediatric patients receiving the 75 mg dose from the single-use vial containing 150 mg secukinumab for reconstitution with sterile water for injections, slightly more than 0.5 ml of the reconstituted solution for subcutaneous injection have to be withdrawn and the rest of the solution must be discarded immediately.

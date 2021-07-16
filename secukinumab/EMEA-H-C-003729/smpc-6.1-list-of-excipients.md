@@ -1,12 +1,16 @@
 # 6.1 List of excipients
 
-Sucrose
+Trehalose dihydrate
 Histidine
 Histidine hydrochloride monohydrate
+Methionine
 Polysorbate 80
+Water for injections
 
 [Cosentyx 150 mg solution for injection in pre-filled syringe]
 
-Trehalose dihydrate
-Methionine
-Water for injections
+(all sentences already above)
+
+[Cosentyx 150 mg powder for solution for injection]
+
+Sucrose
