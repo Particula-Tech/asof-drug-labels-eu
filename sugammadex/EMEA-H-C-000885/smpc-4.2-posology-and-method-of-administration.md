@@ -41,7 +41,7 @@ After administration of sugammadex at reappearance of T2 following a rocuronium 
 Even though the recovery times in elderly tend to be slower, the same dose recommendation as for adults should be followed (see section 4.4).
 
 Obese patients:
-In obese patients, the dose of sugammadex should be based on actual body weight.
+In obese patients, including morbidly obese patients (body mass index ≥40 kg/m2), the dose of sugammadex should be based on actual body weight.
 The same dose recommendations as for adults should be followed.
 
 Hepatic impairment:

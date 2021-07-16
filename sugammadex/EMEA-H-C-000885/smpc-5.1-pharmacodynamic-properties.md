@@ -19,7 +19,7 @@ In a pivotal study patients were randomly assigned to the rocuronium or vecuroni
 After the last dose of rocuronium or vecuronium, at 1-2 PTCs, 4 mg/kg sugammadex or 70 mcg/kg neostigmine was administered in a randomised order.
 The time from start of administration of sugammadex or neostigmine to recovery of the T4/T1 ratio to 0.9 was:
 
-Time (minutes) from administration of sugammadex or neostigmine at deep neuromuscular blockade (1-2 PTCs) after rocuronium or vecuronium to recovery of the T4/T1 ratio to 0.9
+Table 3: Time (minutes) from administration of sugammadex or neostigmine at deep neuromuscular blockade (1-2 PTCs) after rocuronium or vecuronium to recovery of the T4/T1 ratio to 0.9
 
 | Neuromuscular blocking agent | Treatment regimen |  |
 | --- | --- | --- |
@@ -31,8 +31,7 @@ Routine reversal – moderate neuromuscular blockade:
 In another pivotal study patients were randomly assigned to the rocuronium or vecuronium group.
 After the last dose of rocuronium or vecuronium, at the reappearance of T2, 2 mg/kg sugammadex or 50 mcg/kg neostigmine was administered in a randomised order.
 The time from start of administration of sugammadex or neostigmine to recovery of the T4/T1 ratio to 0.9 was:
-
-Time (minutes) from administration of sugammadex or neostigmine at reappearance of T2 after rocuronium or vecuronium to recovery of the T4/T1 ratio to 0.9
+Table 4: Time (minutes) from administration of sugammadex or neostigmine at reappearance of T2 after rocuronium or vecuronium to recovery of the T4/T1 ratio to 0.9
 
 | Neuromuscular blocking agent | Treatment regimen |  |
 | --- | --- | --- |
@@ -44,7 +43,7 @@ Reversal by sugammadex of the neuromuscular blockade induced by rocuronium was c
 At the reappearance of T2 a dose of 2 mg/kg sugammadex or 50 mcg/kg neostigmine was administered.
 Sugammadex provided faster reversal of neuromuscular blockade induced by rocuronium compared to neostigmine reversal of neuromuscular blockade induced by cis-atracurium:
 
-Time (minutes) from administration of sugammadex or neostigmine at reappearance of T2 after rocuronium or cis-atracurium to recovery of the T4/T1 ratio to 0.9
+Table 5: Time (minutes) from administration of sugammadex or neostigmine at reappearance of T2 after rocuronium or cis-atracurium to recovery of the T4/T1 ratio to 0.9
 
 | Neuromuscular blocking agent | Treatment regimen |  |
 | --- | --- | --- |
@@ -54,7 +53,7 @@ Time (minutes) from administration of sugammadex or neostigmine at reappearance 
 For immediate reversal:
 The time to recovery from succinylcholine-induced neuromuscular blockade (1 mg/kg) was compared with sugammadex (16 mg/kg, 3 minutes later) – induced recovery from rocuronium-induced neuromuscular blockade (1.2 mg/kg).
 
-Time (minutes) from administration of rocuronium and sugammadex or succinylcholine to recovery of the T1 10%
+Table 6: Time (minutes) from administration of rocuronium and sugammadex or succinylcholine to recovery of the T1 10 %
 
 | Neuromuscular blocking agent | Treatment regimen |  |
 | --- | --- | --- |
@@ -63,7 +62,7 @@ Time (minutes) from administration of rocuronium and sugammadex or succinylcholi
 
 In a pooled analysis the following recovery times for 16 mg/kg sugammadex after 1.2 mg/kg rocuronium bromide were reported:
 
-Time (minutes) from administration of sugammadex at 3 minutes after rocuronium to recovery of the T4/T1 ratio to 0.9, 0.8 or 0.7
+Table 7: Time (minutes) from administration of sugammadex at 3 minutes after rocuronium to recovery of the T4/T1 ratio to 0.9, 0.8 or 0.7
 
 |  | T4/T1 to 0.9 | T4/T1 to 0.8 | T4/T1 to 0.7 |
 | --- | --- | --- | --- |
@@ -76,3 +75,8 @@ Two open label studies compared the efficacy and safety of sugammadex in surgica
 In one study, sugammadex was administered following rocuronium induced blockade at 1-2 PTCs (4 mg/kg; N=68); in the other study, sugammadex was administered at reappearance of T2 (2 mg/kg; N=30).
 Recovery from blockade was modestly longer for patients with severe renal impairment relative to patients without renal impairment.
 No residual neuromuscular blockade or recurrence of neuromuscular blockade was reported for patients with severe renal impairment in these studies.
+
+Morbidly obese patients:
+A trial of 188 patients who were diagnosed as morbidly obese investigated the time to recovery from moderate or deep neuromuscular blockade induced by rocuronium or vecuronium.
+Patients received 2 mg/kg or 4 mg/kg sugammadex, as appropriate for level of block, dosed according to either actual body weight or ideal body weight in random, double-blinded fashion.
+Pooled across depth of block and neuromuscular blocking agent, the median time to recover to a train-of-four (TOF) ratio ≥0.9 in patients dosed by actual body weight (1.8 minutes) was statistically significantly faster (p < 0.0001) compared to patients dosed by ideal body weight (3.3 minutes).

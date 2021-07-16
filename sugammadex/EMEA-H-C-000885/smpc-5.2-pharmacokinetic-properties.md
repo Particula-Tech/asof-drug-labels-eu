@@ -2,6 +2,7 @@
 
 The sugammadex pharmacokinetic parameters were calculated from the total sum of non-complex-bound and complex-bound concentrations of sugammadex.
 Pharmacokinetic parameters as clearance and volume of distribution are assumed to be the same for non-complex-bound and complex-bound sugammadex in anaesthetised subjects.
+
 Distribution:
 The observed steady-state volume of distribution of sugammadex is approximately 11 to 14 litres in adult patients with normal renal function (based on conventional, non-compartmental pharmacokinetic analysis).
 Neither sugammadex nor the complex of sugammadex and rocuronium binds to plasma proteins or erythrocytes, as was shown in vitro using male human plasma and whole blood.
@@ -26,7 +27,8 @@ Low concentrations of sugammadex are detectable for at least 48 hours post-dose 
 In a second study comparing subjects with moderate or severe renal impairment to subjects with normal renal function, sugammadex clearance progressively decreased and t1/2 was progressively prolonged with declining renal function.
 Exposure was 2-fold and 5-fold higher in subjects with moderate and severe renal impairment, respectively.
 Sugammadex concentrations were no longer detectable beyond 7 days post-dose in subjects with severe renal insufficiency.
-A summary of sugammadex pharmacokinetic parameters stratified by age and renal function is presented below:
+
+Table 8: A summary of sugammadex pharmacokinetic parameters stratified by age and renal function is presented below:
 
 | Selected patient characteristics |  |  |  | Mean Predicted PK parameters (CV%) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -51,3 +53,8 @@ Limited data does not indicate differences in pharmacokinetic parameters in Blac
 
 Body weight:
 Population pharmacokinetic analysis of adult and elderly patients showed no clinically relevant relationship of clearance and volume of distribution with body weight.
+
+Obesity:
+In one clinical study in morbidly obese patients, sugammadex 2 mg/kg and 4 mg/kg was dosed according to actual body weight (n=76) or ideal body weight (n=74).
+Sugammadex exposure increased in a dose-dependent, linear manner following administration according to actual body weight or ideal body weight.
+No clinically relevant differences in pharmacokinetic parameters were observed between morbidly obese patients and the general population.

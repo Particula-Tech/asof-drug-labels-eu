@@ -6,5 +6,4 @@ The infusion line should be adequately flushed (e.g., with 0.9% sodium chloride)
 
 Use in the paediatric population
 For paediatric patients Bridion can be diluted using sodium chloride 9 mg/mL (0.9%) to a concentration of 10 mg/mL (see section 6.3).
-
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

@@ -4,7 +4,7 @@ Summary of the safety profile
 Bridion is administered concomitantly with neuromuscular blocking agents and anaesthetics in surgical patients.
 The causality of adverse events is therefore difficult to assess.
 The most commonly reported adverse reactions in surgical patients were cough, airway complication of anaesthesia, anaesthetic complications, procedural hypotension and procedural complication (Common (≥1/100 to < 1/10)).
-Tabulated list of adverse reactions
+Table 2: Tabulated list of adverse reactions
 The safety of sugammadex has been evaluated in 3,519 unique subjects across a pooled phase I-III safety database.
 The following adverse reactions were reported in placebo controlled trials where subjects received anaesthesia and/or neuromuscular blocking agents (1,078 subject exposures to sugammadex versus 544 to placebo):
 [Very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000)]
@@ -23,14 +23,14 @@ These reactions varied from isolated skin reactions to serious systemic reaction
 Symptoms associated with these reactions can include: flushing, urticaria, erythematous rash, (severe) hypotension, tachycardia, swelling of tongue, swelling of pharynx, bronchospasm and pulmonary obstructive events.
 Severe hypersensitivity reactions can be fatal.
 
-Airway Complication of Anaesthesia:
+Airway complication of anaesthesia:
 Airway complications of anaesthesia included bucking against the endotracheal tube, coughing, mild bucking, arousal reaction during surgery, coughing during the anaesthetic procedure or during surgery, or anaesthetic procedure-related spontaneous breath of patient.
 
 Anaesthetic complication:
 Anaesthetic complications, indicative of the restoration of neuromuscular function, include movement of a limb or the body or coughing during the anaesthetic procedure or during surgery, grimacing, or suckling on the endotracheal tube.
 See section 4.4 light anaesthesia.
 
-Procedural Complication:
+Procedural complication:
 Procedural complications included coughing, tachycardia, bradycardia, movement, and increase in heart rate.
 
 Marked bradycardia:
@@ -58,6 +58,10 @@ As with all patients with a history of pulmonary complications the physician sho
 Paediatric population
 
 A limited database suggests that the safety profile of sugammadex (up to 4 mg/kg) in paediatric patients was similar to that in adults.
+
+Morbidly obese patients
+
+In one dedicated clinical trial in morbidly obese patients, the adverse reaction profile was generally similar to the profile in adult patients in pooled Phase 1 to 3 studies (see Table 2).
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

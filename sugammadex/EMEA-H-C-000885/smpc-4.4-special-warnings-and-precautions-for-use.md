@@ -4,7 +4,7 @@ As is normal post-anaesthetic practice following neuromuscular blockade, it is r
 
 Monitoring respiratory function during recovery:
 Ventilatory support is mandatory for patients until adequate spontaneous respiration is restored following reversal of neuromuscular blockade.
-Even if recovery from neuromuscular blockade is complete, other medicinal products used in the peri- and postoperative period could depress respiratory function and therefore ventilatory support might still be required.
+Even if recovery from neuromuscular blockade is complete, other medicinal products used in the peri- and post-operative period could depress respiratory function and therefore ventilatory support might still be required.
 Should neuromuscular blockade reoccur following extubation, adequate ventilation should be provided.
 
 Recurrence of neuromuscular blockade:
@@ -30,7 +30,8 @@ If there is a medical need to give sugammadex to these patients the anaesthesiol
 If sugammadex is administered to these patients monitoring of haemostasis and coagulation parameters is recommended.
 
 Waiting times for re-administration with neuromuscular blocking agents after reversal with sugammadex:
-Re-administration of rocuronium or vecuronium after routine reversal (up to 4 mg/kg sugammadex):
+
+Table 1: Re-administration of rocuronium or vecuronium after routine reversal (up to 4 mg/kg sugammadex):
 
 | Minimum waiting time | NMBA and dose to be administered |
 | --- | --- |
@@ -53,7 +54,6 @@ Sugammadex is not recommended for use in patients with severe renal impairment, 
 Light anaesthesia:
 When neuromuscular blockade was reversed intentionally in the middle of anaesthesia in clinical trials, signs of light anaesthesia were noted occasionally (movement, coughing, grimacing and suckling of the tracheal tube).
 If neuromuscular blockade is reversed, while anaesthesia is continued, additional doses of anaesthetic and/or opioid should be given as clinically indicated.
-
 Marked bradycardia:
 In rare instances, marked bradycardia has been observed within minutes after the administration of sugammadex for reversal of neuromuscular blockade.
 Bradycardia may occasionally lead to cardiac arrest.
@@ -79,7 +79,5 @@ Conditions associated with prolonged circulation time such as cardiovascular dis
 Drug hypersensitivity reactions:
 Clinicians should be prepared for the possibility of drug hypersensitivity reactions (including anaphylactic reactions) and take the necessary precautions (see section 4.8).
 
-Patients on a controlled sodium diet:
-Each mL solution contains up to 9.7 mg sodium.
-A dose of 23 mg sodium is considered essentially ‘sodium-free’.
-If more than 2.4 mL solution needs to be administered, this should be taken into consideration by patients on a controlled sodium diet.
+Sodium:
+This medicinal product contains up to 9.7 mg sodium per mL, equivalent to 0.5 % of the WHO recommended maximum daily intake of 2 g sodium for an adult.
