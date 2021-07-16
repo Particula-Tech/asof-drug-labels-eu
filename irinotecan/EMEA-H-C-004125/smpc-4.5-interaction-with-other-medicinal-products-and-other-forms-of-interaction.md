@@ -16,4 +16,4 @@ Based on the drug interaction of non-liposomal irinotecan and ketoconazole, co-a
 
 Co-administration of ONIVYDE pegylated liposomal +5-FU/LV does not alter the pharmacokinetics of ONIVYDE pegylated liposomal based on the population pharmacokinetic analysis.
 
-No interaction of ONIVYDE pegylated liposomal (irinotecan) with other medicinal products is known.
+No interaction of ONIVYDE pegylated liposomal with other medicinal products is known.

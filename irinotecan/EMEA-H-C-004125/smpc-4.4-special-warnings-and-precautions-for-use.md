@@ -43,8 +43,8 @@ ONIVYDE pegylated liposomal should not be administered with strong CYP3A4-enzyme
 Strong CYP3A4 inhibitors should be discontinued at least 1 week prior to starting ONIVYDE pegylated liposomal therapy.
 ONIVYDE pegylated liposomal should not be administered with strong UGT1A inhibitors
 (e.g. atazanavir, gemfibrozil, indinavir) unless there are no therapeutic alternatives.
-
 Diarrhoea
+
 Diarrhoea can occur early (onset in ≤ 24 hours after starting ONIVYDE pegylated liposomal) or late (> 24 hours) (see section 4.8).
 In patients experiencing early diarrhoea, therapeutic and prophylactic atropine should be considered unless contraindicated.
 Patients should be made aware of the risk of delayed diarrhoea which can be debilitating and, on rare occasions, life threatening since persistent loose or watery stools can result in dehydration, electrolyte imbalance, colitis, gastrointestinal (GI) ulceration, infection or sepsis.
@@ -81,7 +81,6 @@ Vascular disorders
 Onivyde pegylated liposomal has been associated with thromboembolic events such as pulmonary embolism, venous thrombosis and arterial thromboembolism.
 A thorough medical history should be obtained in order to identify patients with multiple risk factors in addition to the underlying neoplasm.
 Patients should be informed about the signs and symptoms of thromboembolism and advised to contact their physician or nurse immediately if any such signs or symptoms should occur.
-
 Pulmonary toxicity
 
 Interstitial Lung Disease (ILD)-like events leading to fatalities have occurred in patients receiving non-liposomal irinotecan.
@@ -110,5 +109,4 @@ Caution should be exercised when using ONIVYDE pegylated liposomal in patients w
 
 Excipients
 
-Each ml of ONIVYDE pegylated liposomal contains 0.144 mmol (3.31 mg) sodium.
-This needs to be taken into consideration by patients on a controlled sodium diet.
+This medicinal product contains 33,1 mg sodium per vial, equivalent to 1,65% of the WHO recommended maximum daily intake of 2g sodium for an adult.

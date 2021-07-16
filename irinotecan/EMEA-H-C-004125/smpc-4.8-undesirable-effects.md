@@ -15,8 +15,7 @@ Within each system organ class and frequency category, adverse reactions are pre
 Frequencies categories used for adverse reactions are: very common (≥ 1/10); common
 (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100) and rare (≥ 1/10,000 to < 1/1,000)**.
 
-Table 3: Adverse reactions reported with ONIVYDE pegylated liposomal therapy in the
-NAPOLI-1 clinical study
+Table 3: Adverse reactions reported with ONIVYDE pegylated liposomal therapy in the NAPOLI-1 clinical study
 
 | MedDRA* system organ class | Adverse reaction frequency** |
 | --- | --- |
@@ -100,6 +99,7 @@ In the clinical study evaluating ONIVYDE pegylated liposomal +5-FU/LV, patients 
 Patients with UGT1A1 allele
 Individuals who are 7/7 homozygous for the UGT1A1*28 allele are at increased risk for neutropenia from non-liposomal irinotecan.
 In the clinical study evaluating ONIVYDE pegylated liposomal +5-FU/LV, the frequency of ≥ Grade 3 neutropenia in these patients [2 of 7 (28.6%)] was similar to the frequency in patients not homozygous for the UGT1A1*28 allele who received a starting dose of ONIVYDE pegylated liposomal of 70 mg/m2 [30 of 110 (27.3%)] (see section 5.1).
+
 Underweight patients (body mass index < 18.5 kg/m2)
 In the clinical study evaluating ONIVYDE pegylated liposomal +5-FU/LV, 5 of 8 underweight patients experienced a grade 3 or 4 adverse reaction, mostly myelosuppression, while 7 of the 8 patients required dose modification such as dose delay, dose reduction or dose discontinuation (see section 4.4).
 

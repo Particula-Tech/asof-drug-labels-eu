@@ -49,11 +49,10 @@ The urinary excretion of non-liposomal irinotecan is 11% to 20%; SN-38 < 1%; and
 SN-38 glucuronide is 3%.
 The cumulative biliary and urinary excretion of irinotecan and its metabolites (SN-38 and SN-38 glucuronide) over a period of 48 hours following administration of non-liposomal irinotecan in two patients ranged from approximately 25% (100 mg/m2) to 50%
 (300 mg/m2).
-
 Renal impairment
 
 No dedicated pharmacokinetic study has been conducted in patients with renal impairment.
-In a population pharmacokinetic analysis, mild-to-moderate renal impairment had no effect on the exposure of total SN-38 after adjusting for BSA.
+In a population pharmacokinetic analysis, mild-to-moderate renal impairment had no effect on the exposure of total SN-38 after adjusting for body surface area (BSA).
 The analysis included 68 patients with moderate (CLcr 30-59 ml/min), 147 patients with mild (CLcr 60-89 ml/min) renal impairment, and 135 patients with normal renal function (CLcr > 90 ml/min).
 There was insufficient data in patients with severe renal impairment (CLcr < 30 ml/min) to assess its effect on pharmacokinetics (see sections 4.2 and 4.4).
 
@@ -68,7 +67,7 @@ Other special populations
 Age and gender
 The population pharmacokinetic analysis in patients aged 28 to 87 years, of whom 11% were
 ≥75 years suggests that age had no clinically meaningful effect on the exposure to irinotecan and SN-38.
-The population pharmacokinetic analysis in 196 male and 157 female patients suggests that gender had no clinically meaningful effect on the exposure to irinotecan and SN-38 after adjusting for body surface area (BSA).
+The population pharmacokinetic analysis in 196 male and 157 female patients suggests that gender had no clinically meaningful effect on the exposure to irinotecan and SN-38 after adjusting for BSA.
 
 Ethnicity
 The population pharmacokinetic analysis suggest that Asians have 56% lower total irinotecan average steady state concentration (3.93 [95%CI: 3.68-4.2] and 1.74 [95%CI: 1.58-1.93] mg/l, respectively) and 8% higher total SN-38 average steady state concentration (0.97 [95%CI: 0.92-1.03] and 1.05 [95%CI: 0.98-1.11] ng/ml, respectively) than Caucasians.
@@ -77,4 +76,4 @@ Pharmacokinetic/pharmacodynamic relationship
 
 In a pooled analysis from 353 patients, higher plasma SN-38 Cmax was associated with increased likelihood of experiencing neutropenia, and higher plasma total irinotecan Cmax was associated with increased likelihood of experiencing diarrhoea.
 
-In the clinical trial demonstrating effectiveness of ONIVYDE pegylated liposomal, higher plasma exposures of total irinotecan and SN-38 for patients in the ONIVYDE pegylated liposomal +5-FU/LV treatment arm were associated with longer OS and PFS as well as with higher ORR (objective response rate).
+In the clinical study demonstrating effectiveness of ONIVYDE pegylated liposomal, higher plasma exposures of total irinotecan and SN-38 for patients in the ONIVYDE pegylated liposomal +5-FU/LV treatment arm were associated with longer OS and PFS as well as with higher ORR (objective response rate).
