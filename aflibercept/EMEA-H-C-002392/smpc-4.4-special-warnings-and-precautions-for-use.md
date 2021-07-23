@@ -9,6 +9,8 @@ Proper aseptic injection techniques must always be used when administering Eylea
 In addition, patients should be monitored during the week following the injection to permit early treatment if an infection occurs.
 Patients should be instructed to report any symptoms suggestive of endophthalmitis or any of the above mentioned events without delay.
 
+The pre-filled syringe contains more than the recommended dose of 2 mg aflibercept (equivalent to 0.05 mL).
+The excess volume must be expelled prior to administration (see sections 4.2 and 6.6).
 Increases in intraocular pressure have been seen within 60 minutes of intravitreal injection, including those with Eylea (see section 4.8).
 Special precaution is needed in patients with poorly controlled glaucoma (do not inject Eylea while the intraocular pressure is ≥ 30 mmHg).
 In all cases, both the intraocular pressure and the perfusion of the optic nerve head must therefore be monitored and managed appropriately.
@@ -56,3 +58,8 @@ In myopic CNV there is no experience with Eylea in the treatment of non-Asian pa
 
 Information about excipients
 This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially ’sodium-free’.
+
+[Eylea 40 mg/mL solution for injection in a vial.]
+
+The vial contains more than the recommended dose of 2 mg aflibercept (equivalent to 0.05 mL).
+The excess volume must be discarded prior to administration (see sections 4.2 and 6.6).

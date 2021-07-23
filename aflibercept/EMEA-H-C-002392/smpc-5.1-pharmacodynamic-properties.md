@@ -152,15 +152,15 @@ At the last visit prior to week 96, 64.9% and 61.2% of patients in the 2- week a
 During the second year of treatment patients in both the 2-week and 4-week adjustment groups received an average of 3.6 and 3.7 injections, respectively.
 Over the 2 year treatment period patients received an average of 10.4 injections.
 
-Ocular and systemic safety profiles were similar to the safety observed in the pivotal studies VIEW1 and VIEW2.
+Ocular and systemic safety profiles were similar to the safety observed in the pivotal studies VIEW 1 and VIEW 2.
 
 ARIES was a 104-week multicentre, randomised, open-label, active-controlled study in 269 patients with treatment naïve wet AMD, designed to assess the non-inferiority in terms of efficacy as well as the safety of a treat-and-extend dosing regimen initiated after 3 consecutive monthly doses followed by extension to a 2 monthly treatment interval vs. a treat-and-extend dosing regimen initiated after the first year of treatment.
 The ARIES study also explored the percentage of patients that required more frequent treatment than every 8 weeks based on the investigator’s decision.
 Out of the 269 patients 62 patients received more frequent dosing at least once during the course of the study.
 Such patients remained in the study and received treatment according to the investigator’s best clinical judgement but not more frequently than every 4 weeks and their treatment intervals could be extended again afterwards.
 The average treatment interval after the decision to treat more frequently was 6.1 weeks.
-Week 104 BCVA was lower in patients requiring more intensive treatment at least once over the course of the study compared with patients who did not and the mean change in BCVA from baseline to end of the study was +2.3 ±
-15.6 letters.
+Week 104 BCVA was lower in patients requiring more intensive treatment at least once over the course of the study compared with patients who did not and the mean change in BCVA from baseline to end of the study was
++2.3 ± 15.6 letters.
 Among the patients treated more frequently, 85.5% maintained vision, i.e. lost less than15 letters, and 19.4% gained 15 letters or more.
 The safety profile of patients treated more frequently than every 8 weeks was comparable to the safety data in VIEW 1 and VIEW 2.
 
@@ -209,7 +209,8 @@ At week 24, this was 91.8% (n=89) in the Eylea group and 85.5% (n=47) in the sha
 These proportions were maintained at week 76, with 84.3% (n=75) in the Eylea group and 84.0% (n=42) in the sham group.
 
 In COPERNICUS, 67.5% (n = 77) of the Eylea group and 68.5% (n = 50) of the sham group had perfused CRVO at baseline.
-At week 24, this was 87.4% (n = 90) in the Eylea group and 58.6% (n = 34) in the sham group.
+At week 24, this was 87.4% (n = 90) in the Eylea group and 58.6%
+(n = 34) in the sham group.
 These proportions were maintained at week 100 with 76.8 % (n = 76) in the Eylea group and 78% (n = 39) in the sham group.
 Patients in the sham group were eligible to receive Eylea from week 24.
 
@@ -227,13 +228,13 @@ Patient ages ranged from 42 to 94 years with a mean of 65 years.
 In the BRVO study, approximately 58% (53/91) of the patients randomised to treatment with Eylea were 65 years of age or older, and approximately 23% (21/91) were 75 years of age or older.
 In the study, patients were randomly assigned in a 1:1 ratio to either 2 mg Eylea administered every 8 weeks following 6 initial monthly injections or laser photocoagulation administered at baseline (laser control group).
 Patients in the laser control group could receive additional laser photocoagulation (called ‘rescue laser treatment’) beginning at week 12 with a minimum interval of 12 weeks.
-Based on pre-specified criteria, patients in the laser group could receive rescue treatment with Eylea 2mg from week 24, administered every 4 weeks for 3 months followed by every 8 weeks.
+Based on pre-specified criteria, patients in the laser group could receive rescue treatment with Eylea 2 mg from week 24, administered every 4 weeks for 3 months followed by every 8 weeks.
 
 In the VIBRANT study, the primary efficacy endpoint was the proportion of patients who gained at least 15 letters in BCVA at week 24 compared to baseline and the Eylea group was superior to laser control.
 
 A secondary efficacy endpoint was change in visual acuity at week 24 compared to baseline, which was statistically significant in favour of Eylea in the VIBRANT study.
 The course of visual improvement was rapid and peaked at 3 months with maintenance of the effect until month 12.
-In the laser group 67 patients received rescue treatment with Eylea beginning at week 24 (Active Control/ Eylea 2mg group), which resulted in improvement of visual acuity by about 5 letters from week 24 to 52.
+In the laser group 67 patients received rescue treatment with Eylea beginning at week 24 (Active Control/ Eylea 2 mg group), which resulted in improvement of visual acuity by about 5 letters from week 24 to 52.
 
 Detailed results from the analysis of the VIBRANT study are shown in Table 4 and Figure 3 below.
 Table 4: Efficacy outcomes at week 24 and week 52 (Full Analysis Set with LOCF) in VIBRANT study
@@ -311,7 +312,7 @@ In the VIVIDDME and VISTADME studies, 36 (9%) and 197 (43%) patients received pr
 Treatment effects in the subgroup of patients who had previously been treated with a VEGF inhibitor were similar to those seen in patients who were VEGF inhibitor naïve.
 
 Patients with bilateral disease were eligible to receive anti-VEGF treatment in their fellow eye if assessed necessary by the physician.
-In the VISTADME study, 217 (70.7%) of Eylea patients received bilateral Eylea injections until week100; in the VIVIDDME study, 97 (35.8%) of Eylea patients received a different anti-VEGF treatment in their fellow eye.
+In the VISTADME study, 217 (70.7%) of Eylea patients received bilateral Eylea injections until week 100; in the VIVIDDME study, 97 (35.8%) of Eylea patients received a different anti-VEGF treatment in their fellow eye.
 
 An independent comparative trial (DRCR.net Protocol T) utilised a dosing regimen based on strict OCT and vision re-treatment criteria.
 In the aflibercept treatment group (n = 224) at week 52, this treatment regimen resulted in patients receiving a mean of 9.2 injections, which is similar to the administered number of doses in the Eylea 2Q8 group in VIVIDDME and VISTADME, while overall efficacy of the aflibercept treatment group in Protocol T was comparable to the Eylea 2Q8 group in VIVIDDME and VISTADME.
@@ -390,6 +391,11 @@ The proportion of patients who extended their treatment interval to 12 weeks or 
 At the last visit up to week 52, 56.
 8% and 57.8% of patients in the 2- week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of 12 weeks or beyond.
 
+Ocular and systemic safety profiles were similar to the safety observed in the pivotal studies VIEW1 and VIEW2.
+
+Week 104 BCVA was lower in patients requiring more intensive treatment at least once over the course of the study compared with patients who did not and the mean change in BCVA from baseline to end of the study was +2.3 ±
+15.6 letters.
+
 | Efficacy Outcomes | COPERNICUS |  |  |  |  |  | GALILEO |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | 24 Weeks |  | 52 Weeks |  | 100 Weeks |  | 24 Weeks |  | 52 Weeks |  | 76 Weeks |  |
@@ -398,6 +404,8 @@ At the last visit up to week 52, 56.
 | Weighted differenceA,B,E) (95% CI) p-value | 44.8% (33.0, 56.6) p < 0.0001 |  | 25.9% (11.8, 40.1) p = 0.0006 |  | 26.7% (13.1, 40.3) p=0.0003 |  | 38.3% (24.4, 52.1) p < 0.0001 |  | 27.9% (13.0, 42.7) p = 0.0004 |  | 28.0% (13.3, 42.6) p=0.0004 |  |
 | Mean change in BCVA C) as measured by ETDRSC) letter score from baseline (SD) | 17.3 (12.8) | -4.0 (18.0) | 16.2 (17.4) | 3.8 (17.1) | 13.0 (17.7) | 1.5 (17.7) | 18.0 (12.2) | 3.3 (14.1) | 16.9 (14.8) | 3.8 (18.1) | 13.7 (17.8) | 6.2 (17.7) |
 | Difference in LS meanA,C,D,E) (95% CI) p-value | 21.7 (17.4, 26.0) p < 0.0001 |  | 12.7 (7.7, 17.7) p < 0.0001 |  | 11.8 (6.7, 17.0) p < 0.0001 |  | 14.7 (10.8, 18.7) p < 0.0001 |  | 13.2 (8.2, 18.2) p < 0.0001 |  | 7.6 (2.1, 13.1) p=0.0070 |  |
+
+Based on pre-specified criteria, patients in the laser group could receive rescue treatment with Eylea 2mg from week 24, administered every 4 weeks for 3 months followed by every 8 weeks.
 
 | Efficacy Outcomes | VIBRANT |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -410,6 +418,8 @@ At the last visit up to week 52, 56.
 
 C) LS mean difference and 95% CI based on an ANCOVA model with treatment group, baseline BCVA category
 (> 20/200 and ≤ 20/200) and region (North America vs. Japan) as fixed effects, and baseline BCVA as covariate.
+
+In the VISTADME study, 217 (70.7%) of Eylea patients received bilateral Eylea injections until week100; in the VIVIDDME study, 97 (35.8%) of Eylea patients received a different anti-VEGF treatment in their fellow eye.
 
 The study evaluated non-inferiority of Eylea 2 mg dosed according to a treat-and-extend regimen (2T&E where injections intervals were kept at a minimum of 8 weeks and gradually extended based on clinical and anatomical outcomes) and Eylea 2 mg dosed as needed (2PRN where patients were observed every 4 weeks and injected when needed based on clinical and anatomical outcomes), compared to Eylea 2 mg dosed every 8 weeks (2Q8) for the second and third year of treatment.
 

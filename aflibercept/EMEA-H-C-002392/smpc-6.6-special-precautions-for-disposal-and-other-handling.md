@@ -1,10 +1,10 @@
 # 6.6 Special precautions for disposal and other handling
 
 The pre-filled syringe is for single use in one eye only.
-Do not open the sterile pre-filled blister outside the clean administration room.
+Do not open the sterile pre-filled syringe blister outside the clean administration room.
 
-Since the pre-filled syringe contains more volume (90 microlitres) than the recommended dose
-(50 microlitres), a part of the volume contained in the syringe has to be discarded prior to the administration.
+The pre-filled syringe contains more than the recommended dose of 2 mg aflibercept (equivalent to 0.05 mL).
+The excess volume must be discarded prior to administration.
 
 The solution should be inspected visually for any foreign particulate matter and/or discolouration or any variation in physical appearance prior to administration.
 In the event of either being observed, discard the medicinal product.
@@ -22,8 +22,7 @@ Using aseptic technique, remove the syringe from the sterilised blister.
 
 3.
 To remove the syringe cap, hold the syringe in one hand while using the other hand to grasp the syringe cap with the thumb and fore finger.
-Please note:
-You should twist off (do not snap off) the syringe cap.
+Please note: You should twist off (do not snap off) the syringe cap.
 
 4.
 To avoid compromising the sterility of the product, do not pull back on the plunger.
@@ -33,11 +32,17 @@ Using aseptic technique, firmly twist the injection needle onto the Luer-lock sy
 6.
 Holding the syringe with the needle pointing up, check the syringe for bubbles.
 If there are bubbles, gently tap the syringe with your finger until the bubbles rise to the top.
-
 7.
-Eliminate all bubbles and expel excess medicinal product by slowly depressing the plunger rod to uct by slowly depressing the plu align the cylindrical base of the plunger dome edge with the black dosing line on the syringe th the black dosing line on the s (equivalent to 50 microlitres).
+Eliminate all bubbles and expel excess medicinal product by slowly depressing the plunger to align the base of the plunger dome (not the tip of the dome) with the black dosing line on the syringe (equivalent to 0.05 mL i.e. 2 mg aflibercept).
+
+Note: This accurate positioning of the plunger is very important, because incorrect plunger positioning can lead to delivering more or less than the labelled dose.
 
 8.
+Inject while pressing the plunger carefully and with constant pressure.
+Do not apply additional pressure once the plunger has reached the bottom of the syringe.
+Do not administer any residual solution observed in the syringe.
+
+9.
 The pre-filled syringe is for single use only.
 Extraction of multiple doses from a pre-filled syringe may increase the risk of contamination and subsequent infection.
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
@@ -45,7 +50,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 [Eylea 40 mg/mL solution for injection in a vial.]
 
 The vial is for single use in one eye only.
-Since the vial contains more volume (100 microlitres) than the recommended dose (50 microlitres), a part of the volume contained in the vial has to be discarded prior to the administration.
+The vial contains more than the recommended dose of 2 mg aflibercept (equivalent to 0.05 mL).
 
 Filter needle:
 BD Blunt Filter (Fill) Needle, not for skin injection.
@@ -72,8 +77,7 @@ Note: Filter needle is not to be used for intravitreal injection.
 
 Using aseptic technique, firmly twist a 30 G x ½ inch injection needle onto the Luer-lock syringe tip.
 
-9.
-Eliminate all bubbles and expel excess medicinal product by slowly depressing the plunger so that the plunger tip aligns with the line that marks 0.05 mL on the syringe.
+Eliminate all bubbles and expel excess medicinal product by slowly depressing the plunger so that the flat plunger edge aligns with the line that marks 0.05 mL on the syringe.
 10.
 The vial is for single use only.
 Extraction of multiple doses from a single vial may increase the risk of contamination and subsequent infection.
