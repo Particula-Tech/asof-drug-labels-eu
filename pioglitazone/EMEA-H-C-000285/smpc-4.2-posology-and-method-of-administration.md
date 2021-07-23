@@ -9,6 +9,7 @@ In combination with insulin, the current insulin dose can be continued upon init
 If patients report hypoglycaemia, the dose of insulin should be decreased.
 
 Special populations
+
 Elderly
 No dose adjustment is necessary for elderly patients (see section 5.2).
 Physicians should start treatment with the lowest available dose and increase the dose gradually, particularly when pioglitazone is used in combination with insulin (see section 4.4 Fluid retention and cardiac failure).

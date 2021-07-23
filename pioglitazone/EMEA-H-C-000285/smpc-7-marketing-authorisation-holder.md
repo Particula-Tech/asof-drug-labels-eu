@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Takeda Pharma A/S
-Dybendal Alle 10,
-DK-2630 Taastrup
-Denmark
+CHEPLAPHARM Arzneimittel GmbH
+Ziegelhof 24
+17489 Greifswald
+Germany

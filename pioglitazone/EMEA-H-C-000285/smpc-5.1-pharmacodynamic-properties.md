@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Drugs used in diabetes, blood glucose lowering drugs, excl. insulins; ATC code: A10BG03.
-
 Pioglitazone effects may be mediated by a reduction of insulin resistance.
 Pioglitazone appears to act via activation of specific nuclear receptors (peroxisome proliferator activated receptor gamma) leading to increased insulin sensitivity of liver, fat and skeletal muscle cells in animals.
 Treatment with pioglitazone has been shown to reduce hepatic glucose output and to increase peripheral glucose disposal in the case of insulin resistance.

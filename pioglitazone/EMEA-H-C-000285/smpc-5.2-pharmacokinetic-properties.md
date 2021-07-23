@@ -28,12 +28,12 @@ There is no induction of the main inducible P450 isoenzymes 1A, 2C8/9, and 3A4 i
 
 Interaction studies have shown that pioglitazone has no relevant effect on either the pharmacokinetics or pharmacodynamics of digoxin, warfarin, phenprocoumon and metformin.
 Concomitant administration of pioglitazone with gemfibrozil (an inhibitor of cytochrome P450 2C8) or with rifampicin (an inducer of cytochrome P450 2C8) is reported to increase or decrease, respectively, the plasma concentration of pioglitazone (see section 4.5).
+
 Elimination
 
 Following oral administration of radiolabelled pioglitazone to man, recovered label was mainly in faeces (55%) and a lesser amount in urine (45%).
 In animals, only a small amount of unchanged pioglitazone can be detected in either urine or faeces.
 The mean plasma elimination half-life of unchanged pioglitazone in man is 5 to 6 hours and for its total active metabolites 16 to 23 hours.
-
 Elderly
 
 Steady state pharmacokinetics are similar in patients age 65 and over and young subjects.
