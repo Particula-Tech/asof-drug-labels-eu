@@ -9,10 +9,11 @@ The pharmacological effect of fosaprepitant is attributed to aprepitant.
 
 1-Day Regimen of Fosaprepitant in Adults
 Highly Emetogenic Chemotherapy (HEC)
-In a randomized, parallel, double-blind, active-controlled study, IVEMEND 150 mg (N=1,147) was compared with a 3-day aprepitant regimen (N=1,175) in adult patients receiving a HEC regimen that included cisplatin (≥70 mg/m2).
+In a randomised, parallel, double-blind, active-controlled study, IVEMEND 150 mg (N=1,147) was compared with a 3-day aprepitant regimen (N=1,175) in adult patients receiving a HEC regimen that included cisplatin (≥70 mg/m2).
 The fosaprepitant regimen consisted of fosaprepitant 150 mg on
 Day 1 in combination with ondansetron 32 mg IV on Day 1 and dexamethasone 12 mg on Day 1, 8 mg on Day 2, and 8 mg twice daily on Days 3 and 4.
-The aprepitant regimen consisted of aprepitant 125 mg on Day 1 and 80 mg/day on Days 2 and 3 in combination with ondansetron 32 mg IV on Day 1 and dexamethasone 12 mg on Day 1 and 8 mg daily on Days 2 through 4.
+The aprepitant regimen consisted of aprepitant 125 mg on Day 1 and 80 mg/day on Days 2 and 3 in combination with ondansetron 32 mg IV on
+Day 1 and dexamethasone 12 mg on Day 1 and 8 mg daily on Days 2 through 4.
 Fosaprepitant placebo, aprepitant placebo, and dexamethasone placebo (in the evenings on Days 3 and 4) were used to maintain blinding (see section 4.2).
 Although a 32 mg intravenous dose of ondansetron was used in clinical trials, this is no longer the recommended dose.
 See the product information for the selected 5-HT3 antagonist for appropriate dosing information.
@@ -25,7 +26,7 @@ Table 7: Percent of adult patients receiving Highly Emetogenic Chemotherapy resp
 ENDPOINTS* Fosaprepitant Aprepitant Difference†
 regimen regimen (95 % CI)
 
-(N =1,106) ** (N =1,134) **
+(N =1,106)** (N =1,134)**
 
 % %
 
@@ -40,14 +41,13 @@ Overall§ 72.9 74.6 -1.7 (-5.3, 2.0)
 
 *Primary endpoint is bolded.
 **N: Number of adult patients included in the primary analysis of complete response.
-†Difference and confidence interval (CI) were calculated using the method proposed by
-Miettinen and Nurminen and adjusted for gender.
+†Difference and confidence interval (CI) were calculated using the method proposed by Miettinen and Nurminen and adjusted for gender.
 ‡Complete response = no vomiting and no use of rescue therapy.
 §Overall = 0 to 120 hours post-initiation of cisplatin chemotherapy.
 §§Delayed phase = 25 to 120 hours post-initiation of cisplatin chemotherapy.
 
 Moderately Emetogenic Chemotherapy (MEC)
-In a randomized, parallel, double-blind, placebo-controlled study, IVEMEND 150 mg (N=502) in combination with ondansetron and dexamethasone was compared with ondansetron and dexamethasone alone (control regimen) (N=498) in adult patients receiving a moderately emetogenic chemotherapy regimen.
+In a randomised, parallel, double-blind, placebo-controlled study, IVEMEND 150 mg (N=502) in combination with ondansetron and dexamethasone was compared with ondansetron and dexamethasone alone (control regimen) (N=498) in adult patients receiving a moderately emetogenic chemotherapy regimen.
 The fosaprepitant regimen consisted of fosaprepitant 150 mg on Day 1 in combination with oral ondansetron 8 mg for 2 doses and oral dexamethasone 12 mg.
 On Days 2 and 3, patients in the fosaprepitant group received placebo for ondansetron every 12 hours.
 The control regimen consisted of fosaprepitant placebo 150 mg IV on Day 1 in combination with oral ondansetron 8 mg for 2 doses and oral dexamethasone 20 mg.
@@ -60,24 +60,22 @@ Table 8: Percent of adult patients receiving Moderately Emetogenic Chemotherapy 
 
 ENDPOINTS* Fosaprepitant Control P-Value
 regimen regimen
-
-(N =502) ** (N =498) **
-
+(N =502)** (N =498)**
 % %
 
 Complete response†
 
-Delayed phase‡ 78.9 68.5 <0.001
+Delayed phase‡ 78.9 68.5 < 0.001
 
 Complete response†
 
-Overall§ 77.1 66.9 <0.001
+Overall§ 77.1 66.9 < 0.001
 Acute phase§§ 93.2 91 0.184
 
 *Primary endpoint is bolded.
 **N: Number of adult patients included in the intention to treat population.
-† Complete response = no vomiting and no use of rescue therapy.
-‡ Delayed phase = 25 to 120 hours post-initiation of chemotherapy.
+†Complete response = no vomiting and no use of rescue therapy.
+‡Delayed phase = 25 to 120 hours post-initiation of chemotherapy.
 §Overall = 0 to 120 hours post-initiation of chemotherapy.
 §§Acute= 0 to 24 hours post-initiation of chemotherapy.
 
@@ -105,6 +103,7 @@ In 3 active-controlled, open-label clinical studies, paediatric patients aged 6 
 
 Paediatric Patients Receiving 1-Day Fosaprepitant Regimen
 The efficacy of the 1-day fosaprepitant regimen in paediatric patients was extrapolated from that demonstrated in adults receiving the 1-day fosaprepitant regimen as described in the 1-Day Regimen of Fosaprepitant in Adults subsection.
+
 The efficacy of a 1-day fosaprepitant regimen in paediatric patients is expected to be similar to that of the 1-day adult fosaprepitant regimen.
 
 Paediatric Patients Receiving 3-Day Fosaprepitant Regimen

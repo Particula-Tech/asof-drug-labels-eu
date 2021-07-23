@@ -12,9 +12,9 @@ There were no treatment-related effects on mating, fertility or embryonic/foetal
 There were no margins to clinically relevant exposure of aprepitant.
 For short term treatment, these findings are considered unlikely to be clinically relevant.
 
-In laboratory animals, fosaprepitant in non-commercial formulations caused vascular toxicity and hemolysis at concentrations below 1 mg/ml and higher, dependent on the formulation.
-In human washed blood cells also evidence of hemolysis was found with non-commercial formulations at fosaprepitant concentrations of 2.3 mg/ml and higher, although tests in human whole blood were negative.
-No hemolysis was found with the commercial formulation up to a fosaprepitant concentration of 1 mg/ml in human whole blood and washed human erythrocytes.
+In laboratory animals, fosaprepitant in non-commercial formulations caused vascular toxicity and haemolysis at concentrations below 1 mg/ml and higher, dependent on the formulation.
+In human washed blood cells also evidence of haemolysis was found with non-commercial formulations at fosaprepitant concentrations of 2.3 mg/ml and higher, although tests in human whole blood were negative.
+No haemolysis was found with the commercial formulation up to a fosaprepitant concentration of 1 mg/ml in human whole blood and washed human erythrocytes.
 
 In rabbits, fosaprepitant caused initial transient local acute inflammation following paravenous, subcutaneous and intramuscular administration.
 At the end of the follow-up period (post-dose day 8), up to slight local subacute inflammation was noted following paravenous and intramuscular administration and additional up to moderate focal muscle degeneration/necrosis with muscle regeneration following intramuscular administration.

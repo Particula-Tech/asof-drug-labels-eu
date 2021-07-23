@@ -5,7 +5,7 @@ There are limited data in patients with moderate hepatic impairment and no data 
 IVEMEND should be used with caution in these patients (see section 5.2).
 
 CYP3A4 interactions
-IVEMEND should be used with caution in patients receiving concomitant active substances that are metabolised primarily through CYP3A4 and with a narrow therapeutic range, such as cyclosporine, tacrolimus, sirolimus, everolimus, alfentanil, ergot alkaloid derivatives, fentanyl, and quinidine (see section 4.5).
+IVEMEND should be used with caution in patients receiving concomitant active substances that are metabolised primarily through CYP3A4 and with a narrow therapeutic range, such as ciclosporin, tacrolimus, sirolimus, everolimus, alfentanil, ergot alkaloid derivatives, fentanyl, and quinidine (see section 4.5).
 Additionally, concomitant administration with irinotecan should be approached with particular caution as the combination might result in increased toxicity.
 
 Co-administration with warfarin (a CYP2C9 substrate)
@@ -28,3 +28,6 @@ Mild injection site thrombosis has been observed at higher doses without concomi
 IVEMEND should not be given as a bolus injection, but should always be diluted and given as a slow intravenous infusion (see section 4.2).
 IVEMEND should not be administered intramuscularly or subcutaneously (see section 5.3).
 If signs or symptoms of local irritation occur, the injection or infusion should be terminated and restarted in another vein.
+
+Sodium
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ‘sodium-free’.

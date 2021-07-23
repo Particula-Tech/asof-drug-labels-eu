@@ -12,7 +12,8 @@ The most common adverse reaction reported at a greater incidence in patients tre
 The most common adverse reactions reported at a greater incidence in paediatric patients treated with the aprepitant regimen than with the control regimen while receiving emetogenic cancer chemotherapy were hiccups (3.3 % versus 0.0 %) and flushing (1.1 % versus 0.0 %).
 
 Tabulated list of adverse reactions - aprepitant
-The following adverse reactions were observed in a pooled analysis of the HEC and MEC studies at a greater incidence with oral aprepitant than with standard therapy in adults or paediatric patients or in postmarketing use.
+The following adverse reactions were observed in a pooled analysis of the HEC and MEC studies at a greater incidence with oral aprepitant than with standard therapy in adults or paediatric patients or in post-marketing use.
+
 The frequency categories given in the table are based on the studies in adults; the observed frequencies in the paediatric studies were similar or lower, unless shown in the table.
 Some less common ADRs in the adult population were not observed in the paediatric studies.
 
@@ -29,8 +30,7 @@ Table 5: Tabulated list of adverse reactions – aprepitant
 |  | polydipsia | rare |
 | Psychiatric disorders | anxiety | uncommon |
 |  | disorientation, euphoric mood | rare |
-| Nervous system disorders | headache | common |
-|  | dizziness, somnolence | uncommon |
+| Nervous system disorders | headache dizziness, somnolence | common uncommon |
 |  | cognitive disorder, lethargy, dysgeusia | rare |
 | Eye disorders | conjunctivitis | rare |
 | Ear and labyrinth disorders | tinnitus | rare |
@@ -49,7 +49,7 @@ Table 5: Tabulated list of adverse reactions – aprepitant
 | Renal and urinary disorders | dysuria | uncommon |
 |  | pollakisuria | rare |
 | General disorders and administration site conditions | fatigue | common |
-|  | asthaenia, malaise | uncommon |
+|  | asthenia, malaise | uncommon |
 |  | oedema, chest discomfort, gait disturbance | rare |
 | Investigations | ALT increased | common |
 |  | AST increased, blood alkaline phosphatase increased | uncommon |
@@ -62,9 +62,8 @@ The adverse reactions profiles in the Multiple-Cycle extension of HEC and MEC st
 
 In an additional active-controlled clinical study in 1,169 adult patients receiving aprepitant and HEC, the adverse reactions profile was generally similar to that seen in the other HEC studies with aprepitant.
 
-Additional adverse reactions were observed in adult patients treated with aprepitant for postoperative nausea and vomiting (PONV) and a greater incidence than with ondansetron: abdominal pain upper, bowel sounds abnormal, constipation*, dysarthria, dyspnoea, hypoaesthesia, insomnia, miosis, nausea, sensory disturbance, stomach discomfort, sub-ileus*, visual acuity reduced, wheezing.
+Additional adverse reactions were observed in adult patients treated with aprepitant for post-operative nausea and vomiting (PONV) and a greater incidence than with ondansetron: abdominal pain upper, bowel sounds abnormal, constipation*, dysarthria, dyspnoea, hypoaesthesia, insomnia, miosis, nausea, sensory disturbance, stomach discomfort, sub-ileus*, visual acuity reduced, wheezing.
 *Reported in patients taking a higher dose of aprepitant.
-
 Fosaprepitant
 In an active-controlled clinical study in adult patients receiving HEC, safety was evaluated for 1,143 patients receiving the 1-day regimen of IVEMEND 150 mg compared to 1,169 patients receiving the 3-day regimen of aprepitant.
 Additionally, in a placebo-controlled clinical trial in adult patients receiving MEC, safety was evaluated for 504 patients receiving a single dose of IVEMEND 150 mg compared to 497 patients receiving the control regimen.
@@ -79,7 +78,7 @@ The safety profile of the 3-day IV fosaprepitant regimen in paediatric patients 
 The safety profile of fosaprepitant in adult and paediatric patients was generally similar to that observed with aprepitant.
 
 Tabulated list of adverse reactions – fosaprepitant
-The following are adverse reactions reported in adult patients receiving fosaprepitant in clinical studies or postmarketing that have not been reported with aprepitant as described above.
+The following are adverse reactions reported in adult patients receiving fosaprepitant in clinical studies or post-marketing that have not been reported with aprepitant as described above.
 The frequency categories in the table are based on studies in adults; the observed frequencies in the paediatric studies were similar or lower.
 Some adverse reactions that are commonly observed in the adult population were not observed in the paediatric studies.
 Infusion site reactions (ISRs) have been reported with the use of IVEMEND (see section 4.4).
@@ -90,7 +89,7 @@ Table 6: Tabulated list of adverse reactions – fosaprepitant
 
 | System organ class | Adverse reaction | Frequency |
 | --- | --- | --- |
-| Vascular disorders | flushing, thrombophlebitis (predominantly, infusion-site thrombophlebitis) | uncommon |
+| Vascular disorders | flushing, thrombophlebitis (predominantly, infusion site thrombophlebitis) | uncommon |
 | Skin and subcutaneous tissue disorders | erythema | uncommon |
 | General disorders and administration site conditions | infusion site erythema, infusion site pain, infusion site pruritus | uncommon |
 |  | infusion site induration | rare |

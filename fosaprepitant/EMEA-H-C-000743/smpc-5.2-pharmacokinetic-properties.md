@@ -4,7 +4,7 @@ Fosaprepitant, a prodrug of aprepitant, when administered intravenously is rapid
 Plasma concentrations of fosaprepitant are below quantifiable levels within 30 minutes of the completion of infusion.
 
 Aprepitant after fosaprepitant administration
-Following a single intravenous 150-mg dose of fosaprepitant administered as a 20-minute infusion to healthy adult volunteers, the mean AUC0-∞of aprepitant was 35.0 µg•hr/ml and the mean maximal aprepitant concentration was 4.01 µg/ml.
+Following a single intravenous 150 mg dose of fosaprepitant administered as a 20-minute infusion to healthy adult volunteers, the mean AUC0-∞of aprepitant was 35.0 µg•hr/ml and the mean maximal aprepitant concentration was 4.01 µg/ml.
 
 Distribution
 Aprepitant is highly protein bound, with a mean of 97 %.
@@ -35,7 +35,7 @@ The terminal half-life of aprepitant following a 150 mg intravenous dose of fosa
 The geometric mean plasma clearance of aprepitant following a 150 mg intravenous dose of fosaprepitant was approximately 73 ml/min.
 
 Pharmacokinetics in special populations
-Hepatic impairment: Fosaprepitant is metabolized in various extrahepatic tissues; therefore hepatic impairment is not expected to alter the conversion of fosaprepitant to aprepitant.
+Hepatic impairment: Fosaprepitant is metabolised in various extrahepatic tissues; therefore hepatic impairment is not expected to alter the conversion of fosaprepitant to aprepitant.
 Mild hepatic impairment (Child-Pugh class A) does not affect the pharmacokinetics of aprepitant to a clinically relevant extent.
 No dose adjustment is necessary for patients with mild hepatic impairment.
 Conclusions regarding the influence of moderate hepatic impairment (Child-Pugh class B) on aprepitant pharmacokinetics cannot be drawn from available data.
@@ -56,26 +56,28 @@ Table 9: Pharmacokinetic parameters of aprepitant for 3-day IV fosaprepitant reg
 
 | Population | 3-day IV/IV/IV dose | AUC 0-24 hr. (ng*hr/mL) | Cmax (ng/mL) | C24 (ng/mL) | C48 (ng/mL) | C72 (ng/mL) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 12 - 17 years old | 115mg, 80mg, 80mg | 21172 | 2475 | 454 | 424 | 417 |
-| 6 - < 12 years old | 3mg/kg, 2mg/kg, 2mg/kg | 25901 | 2719 | 518 | 438 | 418 |
-| 2 - < 6 years old |  | 20568 | 2335 | 336 | 248 | 232 |
-| 6 months – < 2 years old |  | 16979 | 1916 | 256 | 179 | 167 |
+| 12 - 17 years old | 115 mg, 80 mg, 80 mg | 21,172 | 2,475 | 454 | 424 | 417 |
+| 6 - < 12 years old | 3 mg/kg, 2 mg/kg, 2 mg/kg | 25,901 | 2,719 | 518 | 438 | 418 |
+| 2 - < 6 years old |  | 20,568 | 2,335 | 336 | 248 | 232 |
+| 6 months – < 2 years old |  | 16,979 | 1,916 | 256 | 179 | 167 |
 
 In the 1-day IV fosaprepitant setting, simulated median AUC0-24hr of aprepitant with median peak plasma concentration (Cmax) on Day 1 and the median concentrations at the end of Day 1, Day 2 and Day 3 in paediatric patients (6 months to < 12 years old) and observed mean AUC0-24hr with median peak plasma concentration (Cmax) on Day 1 and mean concentrations at the end of Day 1, Day 2 and Day 3 in paediatric patients (12 to 17 years old) are shown in Table 10.
 
 Table 10: Pharmacokinetic parameters of aprepitant for 1-day IV fosaprepitant regimen in paediatric patients
 
-| Population | 1-day IV dose | AUC 0-24 hr. (ng*hr/mL) | Cmax (ng/mL) | C24 (ng/mL) | C48 (ng/mL) | C72 (ng/mL) |
+Population 1-day IV AUC 0-24 hr. Cmax C24 C48 C72
+dose (ng*hr/mL) (ng/mL) (ng/mL) (ng/mL) (ng/mL)
+
+| 12 - 17 years old | 150 mg | 30,400 | 3,500 | 735 | NR | NR |
 | --- | --- | --- | --- | --- | --- | --- |
-| 12 - 17 years old | 150 mg | 30400 | 3500 | 735 | NR | NR |
-| 6 - < 12 years old | 4 mg/kg | 35766 | 3637 | 746 | 227 | 69.2 |
-| 2 - < 6 years old |  | 28655 | 3150 | 494 | 108 | 23.5 |
-| 6 months – <2 years old | 5 mg/kg | 30484 | 3191 | 522 | 112 | 24.4 |
+| 6 - < 12 years old | 4 mg/kg | 35,766 | 3,637 | 746 | 227 | 69.2 |
+| 2 - < 6 years old |  | 28,655 | 3,150 | 494 | 108 | 23.5 |
+| 6 months – <2 years old | 5 mg/kg | 30,484 | 3,191 | 522 | 112 | 24.4 |
 
 NR = Not Reported
 
 A population pharmacokinetic analysis of aprepitant in paediatric patients (aged 6 months through 17 years) suggests that gender and race have no clinically meaningful effect on the pharmacokinetics of aprepitant.
 
 Relationship between concentration and effect
-Positron emission tomography (PET) imaging studies, using a highly specific NK1-receptor tracer, in healthy young men administered a single intravenous dose of 150 mg fosaprepitant (N=8) demonstrated brain NK1 receptor occupancy of ≥100 % at Tmax, and 24 hours, ≥97 % at 48 hours, and between 41 % and 75 % at 120 hours, following dosing.
+Positron emission tomography (PET) imaging studies, using a highly specific NK1 receptor tracer, in healthy young men administered a single intravenous dose of 150 mg fosaprepitant (N=8) demonstrated brain NK1 receptor occupancy of ≥100 % at Tmax, and 24 hours, ≥97 % at 48 hours, and between 41 % and 75 % at 120 hours, following dosing.
 Occupancy of brain NK1 receptors, in this study, correlate well with aprepitant plasma concentrations.

@@ -36,8 +36,7 @@ The recommended dose regimen of IVEMEND, to be administered with a 5-HT3 antagon
 Single day chemotherapy regimens include those regimens in which HEC or MEC is administered for a single day only.
 Multi-day chemotherapy regimens include chemotherapy regimens in which HEC or MEC is administered for 2 or more days.
 
-An alternative dose regimen that may be used with single-day chemotherapy regimens is shown in Table 4.
-
+An alternative dose regimen that may be used with single day chemotherapy regimens is shown in Table 4.
 Dosing for Single or Multi-Day Chemotherapy Regimens
 For paediatric patients receiving single or multi-day regimens of HEC or MEC, administer IVEMEND as an intravenous infusion through a central venous catheter on Days 1, 2, and 3.
 EMEND capsules or EMEND for oral suspension may be used on Days 2 and 3 instead of IVEMEND, as shown in
@@ -65,8 +64,8 @@ Table 4: Alternative dosing for the prevention of nausea and vomiting associated
 |  | Population | Day 1 |
 | --- | --- | --- |
 | IVEMEND* | Paediatric patients 12 years and older | 150 mg intravenously |
-|  | Paediatric patients 2 to less than 12 years | 4 mg/kg intravenously Maximum dose 150mg |
-|  | Paediatric patients 6 months to less than 2 years and not less than 6 kg | 5 mg/kg intravenously Maximum dose 150mg |
+|  | Paediatric patients 2 to less than 12 years | 4 mg/kg intravenously Maximum dose 150 mg |
+|  | Paediatric patients 6 months to less than 2 years and not less than 6 kg | 5 mg/kg intravenously Maximum dose 150 mg |
 | Dexamethasone** | All paediatric patients | If a corticosteroid, such as dexamethasone, is co-administered, administer 50% of the recommended corticosteroid dose on days 1 and 2. |
 | 5-HT3 antagonist | All paediatric patients | See selected 5-HT3 antagonist prescribing information for the recommended dosage |
 
@@ -100,7 +99,7 @@ IVEMEND should be used with caution in these patients (see sections 4.4 and 5.2)
 Method of administration
 IVEMEND 150 mg should be administered intravenously and should not be given by the intramuscular or subcutaneous route.
 Intravenous administration in adults occurs preferably through a running intravenous infusion over 20-30 minutes.
-Intravenous administration in paediatric patients aged 6 months and older is recommended through a central venous catheter and should be administered over 30 minutes in patients aged 12 years and older or over 60 minutes in patients less than 12 years of age (See section 6.6).
+Intravenous administration in paediatric patients aged 6 months and older is recommended through a central venous catheter and should be administered over 30 minutes in patients aged 12 years and older or over 60 minutes in patients less than 12 years of age (see section 6.6).
 Do not administer IVEMEND as a bolus injection or undiluted solution.
 
 For instructions on reconstitution and dilution of the medicinal product before administration, see section 6.6.

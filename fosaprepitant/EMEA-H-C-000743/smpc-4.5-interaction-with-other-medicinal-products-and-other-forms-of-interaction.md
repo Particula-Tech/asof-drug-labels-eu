@@ -12,16 +12,15 @@ The potential for interactions with multi-day fosaprepitant regimens are anticip
 Therefore, the recommendations for use of IVEMEND with other medicinal products in paediatric patients are based upon adult data from fosaprepitant and aprepitant studies.
 When using combined IVEMEND and EMEND regimens, please refer to the Summary of Product Characteristics (SmPC) section 4.5 for EMEND capsules or EMEND for oral suspension.
 
-The following information was derived from studies conducted with oral aprepitant and studies conducted with intravenous single-dose fosaprepitant co-administered with dexamethasone, midazolam, or diltiazem.
+The following information was derived from studies conducted with oral aprepitant and studies conducted with intravenous single dose fosaprepitant co-administered with dexamethasone, midazolam, or diltiazem.
 
 Effect of fosaprepitant on the pharmacokinetics of other active substances
 CYP3A4 inhibition
 As a weak inhibitor of CYP3A4, the fosaprepitant 150 mg single dose can cause a transient increase in plasma concentrations of co-administered active substances that are metabolised through CYP3A4.
 The total exposure of CYP3A4 substrates may increase up to 2-fold on Days 1 and 2 after co-administration with a single 150 mg fosaprepitant dose.
 Fosaprepitant must not be used concurrently with pimozide, terfenadine, astemizole, or cisapride.
-Inhibition of CYP3A4 by fosaprepitant could result in elevated plasma concentrations of these active substances, potentially causing serious or life-threatening reactions.
-(See section 4.3).
-Caution is advised during concomitant administration of fosaprepitant and active substances that are metabolised primarily through CYP3A4 and with a narrow therapeutic range, such as cyclosporine, tacrolimus, sirolimus, everolimus, alfentanil, diergotamine, ergotamine, fentanyl, and quinidine (see section 4.4).
+Inhibition of CYP3A4 by fosaprepitant could result in elevated plasma concentrations of these active substances, potentially causing serious or life-threatening reactions (see section 4.3).
+Caution is advised during concomitant administration of fosaprepitant and active substances that are metabolised primarily through CYP3A4 and with a narrow therapeutic range, such as ciclosporin, tacrolimus, sirolimus, everolimus, alfentanil, diergotamine, ergotamine, fentanyl, and quinidine (see section 4.4).
 
 Corticosteroids
 Dexamethasone: The oral dexamethasone dose should be reduced by approximately 50 % when co-administered with fosaprepitant (see section 4.2).
@@ -29,12 +28,12 @@ Fosaprepitant 150 mg administered as a single intravenous dose on Day 1 increase
 
 Chemotherapeutic medicinal products
 Interaction studies with fosaprepitant 150 mg and chemotherapeutic medicinal products have not been conducted; however, based on studies with oral aprepitant and docetaxel and vinorelbine, IVEMEND 150 mg is not expected to have a clinically relevant interaction with intravenously administered docetaxel and vinorelbine.
-An interaction with orally administered chemotherapeutic medicinal products metabolised primarily or partly by CYP3A4 (e.g. etoposide, vinorelbine) cannot be excluded.
-Caution is advised and additional monitoring may be appropriate in patients receiving medicinal products metabolized primarily or partly by CYP3A4 (see section 4.4).
-Post-marketing events of neurotoxicity, a potential adverse reaction of ifosfamide, have been reported after aprepitant and ifosfamide co-administration.
+An interaction with orally administered chemotherapeutic medicinal products metabolised primarily or partly by CYP3A4 (e.g., etoposide, vinorelbine) cannot be excluded.
+Caution is advised and additional monitoring may be appropriate in patients receiving medicinal products metabolised primarily or partly by CYP3A4 (see section 4.4).
+Postmarketing events of neurotoxicity, a potential adverse reaction of ifosfamide, have been reported after aprepitant and ifosfamide co-administration.
 
 Immunosuppressants
-Following a single 150 mg fosaprepitant dose, a transient moderate increase for two days possibly followed by a mild decrease in exposure of immunosuppressants metabolised by CYP3A4 (e.g. cyclosporine, tacrolimus, everolimus and sirolimus) is expected.
+Following a single 150 mg fosaprepitant dose, a transient moderate increase for two days possibly followed by a mild decrease in exposure of immunosuppressants metabolised by CYP3A4 (e.g., ciclosporin, tacrolimus, everolimus and sirolimus) is expected.
 Given the short duration of increased exposure, dose reduction of the immunosuppressant based on Therapeutic Dose Monitoring is not recommended on the day of and the day after administration of IVEMEND.
 
 Midazolam
@@ -64,11 +63,12 @@ Alternative non-hormonal back-up methods of contraception should be used during 
 5-HT3 antagonists
 Interaction studies with fosaprepitant 150 mg and 5-HT3 antagonists have not been conducted; however, in clinical interaction studies, the oral aprepitant regimen did not have clinically important effects on the pharmacokinetics of ondansetron, granisetron, or hydrodolasetron (the active metabolite of dolasetron).
 Therefore, there is no evidence of interaction with the use of IVEMEND 150 mg and 5-HT3 antagonists.
+
 Effect of other medicinal products on the pharmacokinetics of aprepitant resulting from administration of fosaprepitant 150 mg
 Concomitant administration of fosaprepitant with active substances that inhibit CYP3A4 activity (e.g., ketoconazole, itraconazole, voriconazole, posaconazole, clarithromycin, telithromycin, nefazodone, and protease inhibitors) should be approached cautiously, as the combination is expected to result in several-fold increased plasma concentrations of aprepitant (see section 4.4).
 Ketoconazole increased the terminal half-life of oral aprepitant about 3-fold.
 
-Concomitant administration of fosaprepitant with active substances that strongly induce CYP3A4 activity (e.g. rifampicin, phenytoin, carbamazepine, phenobarbital) should be avoided as the combination could result in reductions of the plasma concentrations of aprepitant that may result in decreased efficacy.
+Concomitant administration of fosaprepitant with active substances that strongly induce CYP3A4 activity (e.g., rifampicin, phenytoin, carbamazepine, phenobarbital) should be avoided as the combination could result in reductions of the plasma concentrations of aprepitant that may result in decreased efficacy.
 Concomitant administration of fosaprepitant with herbal preparations containing St. John’s Wort (Hypericum perforatum) is not recommended.
 Rifampicin decreased the mean terminal half-life of oral aprepitant by 68 %.
 
