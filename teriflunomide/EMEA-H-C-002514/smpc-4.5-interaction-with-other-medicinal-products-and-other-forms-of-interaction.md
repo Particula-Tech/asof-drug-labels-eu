@@ -11,8 +11,8 @@ Rifampicin and other known potent CYP and transporter inducers such as carbamaze
 Cholestyramine or activated charcoal
 It is recommended that patients receiving teriflunomide are not treated with cholestyramine or activated charcoal because this leads to a rapid and significant decrease in plasma concentration unless an accelerated elimination is desired.
 The mechanism is thought to be by interruption of enterohepatic recycling and/or gastrointestinal dialysis of teriflunomide.
-Pharmacokinetic interactions of teriflunomide on other substances
 
+Pharmacokinetic interactions of teriflunomide on other substances
 Effect of teriflunomide on CYP2C8 substrate: repaglinide
 There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of CYP2C8 in vivo.
 Therefore, medicinal products metabolised by CYP2C8, such as repaglinide, paclitaxel, pioglitazone or rosiglitazone, should be used with caution during treatment with teriflunomide.

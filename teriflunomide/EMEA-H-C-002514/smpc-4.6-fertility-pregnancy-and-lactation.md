@@ -5,6 +5,7 @@ Use in males
 The risk of male-mediated embryo-foetal toxicity through teriflunomide treatment is considered low (see section 5.3).
 
 Pregnancy
+
 There are limited amount of data from the use of teriflunomide in pregnant women.
 Studies in animals have shown reproductive toxicity (see section 5.3).
 Teriflunomide may cause serious birth defects when administered during pregnancy.
@@ -41,6 +42,7 @@ Breast-feeding
 
 Animal studies have shown excretion of teriflunomide in milk.
 Teriflunomide is contraindicated during breast-feeding (see section 4.3).
+
 Fertility
 
 Results of studies in animals have not shown an effect on fertility (see section 5.3).

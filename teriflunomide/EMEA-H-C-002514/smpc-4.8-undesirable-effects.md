@@ -32,13 +32,13 @@ viral,
 Oral herpes,
 Tooth infection,
 Laryngitis,
-System organ Very Common Uncommon Rare Very Not known
-class common rare
 Tinea pedis
 Blood and Neutropeniab, Mild
 lymphatic Anaemia thrombocytopen
 system disorders ia (platelets
 <100G/l)
+System organ Very Common Uncommon Rare Very Not known
+class common rare
 Immune system Mild allergic Hyper-
 disorders reactions sensitivity
 reactions
@@ -57,12 +57,12 @@ Cardiac Palpitations
 disorders
 Vascular Hypertensionb
 disorders
-Respiratory, Interstitial lung
-thoracic and disease
-mediastinal
+Respiratory, Interstitial lung Pulmonary
+thoracic and disease hypertensio
+mediastinal n
 disorders
 Gastrointestinal Diarrhoea, Pancreatitisb,c , Stomatitis
-disorders Nausea Abdominal pain
+disorders Nausea Abdominal pain Colitis
 upper,
 Vomiting,
 Toothache
@@ -86,14 +86,14 @@ Musculoskeletal Musculoskeletal
 and connective pain,
 tissue disorders Myalgia,
 Arthralgia
-System organ Very Common Uncommon Rare Very Not known
-class common rare
 Renal and Pollakiuria
 urinary
 disorders
 Reproductive Menorrhagia
 system and
 breast disorders
+System organ Very Common Uncommon Rare Very Not known
+class common rare
 General Pain, Astheniaa
 disorders and
 administration
@@ -179,6 +179,7 @@ In placebo-controlled studies, frequencies for psoriasis were 0.3%, 0.3% and 0.4
 Gastrointestinal disorders
 Pancreatitis has been reported infrequently in the post-marketing setting with teriflunomide in adults, including cases of necrotising pancreatitis and pancreatic pseudocyst.
 Pancreatic events may occur at any time during treatment with teriflunomide, which may lead to hospitalisation and/or require corrective treatment.
+
 Paediatric population
 
 The observed safety profile in paediatric patients (from 10 to 17 years-old) receiving teriflunomide daily was overall similar to that seen in adult patients.

@@ -51,7 +51,7 @@ The mean duration of disease, since first symptoms, was 8.0 years.
 A majority of patients (67.2%) had not received disease-modifying therapy during the 2 years before study entry.
 The study results are shown in Table 1.
 
-Table 1 ­ Main results (for the approved dose, ITT population)
+Table 1 - Main results (for the approved dose, ITT population)
 
 |  | TEMSO-study |  | TOWER-study |  |
 | --- | --- | --- | --- | --- |
@@ -82,12 +82,12 @@ A consistent treatment effect on relapses and time to 3-month sustained disabili
 Due to the design of the study, high disease activity was defined as 2 or more relapses in one year, and with one or more Gd-enhancing lesion on brain MRI.
 No similar subgroup analysis was performed in TOWER as no MRI data were obtained.
 No data are available in patients who have failed to respond to a full and adequate course (normally at least one year of treatment) of beta-interferon, having had at least 1 relapse in the previous year while on therapy, and at least 9 T2-hyperintense lesions in cranial MRI or at least 1 Gd-enhancing lesion, or patients having an unchanged or increased relapse rate in the prior year as compared to the previous 2 years.
+
 TOPIC was a double-blind, placebo-controlled study that evaluated once daily doses of teriflunomide 7 mg and 14 mg for up to 108 weeks in patients with first clinical demyelinating event (mean age 32.1 years).
 The primary endpoint was time to a second clinical episode (relapse).
 A total of 618 patients were randomised to receive 7 mg (n=205) or 14 mg (n=216) of teriflunomide or placebo (n=197).
 The risk of a second clinical attack over 2 years was 35.9% in the placebo group and 24.0% in the teriflunomide 14 mg treatment group (hazard ratio: 0.57, 95% confidence interval: 0.38 to 0.87, p=0.0087).
 The results from the TOPIC study confirmed the efficacy of teriflunomide in RRMS (including early RRMS with first clinical demyelinating event and MRI lesions disseminated in time and space).
-
 Teriflunomide effectiveness was compared to that of a subcutaneous interferon beta-1a (at the recommended dose of 44 µg three times a week) in 324 randomised patients in a study (TENERE) with minimum treatment duration of 48 weeks (maximum 114 weeks).
 The risk of failure (confirmed relapse or permanent treatment discontinuation whichever came first) was the primary endpoint.
 The number of patients with permanent treatment discontinuation in the teriflunomide 14 mg group was 22 out of 111 (19.8%), the reasons being adverse events (10.8%), lack of efficacy (3.6%), other reason (4.5%) and lost to follow-up (0.9%).
@@ -121,8 +121,8 @@ Table 2 - Clinical and MRI results of EFC11759/TERIKIDS
 | Clinical endpoints |  |  |
 | Time to first confirmed clinical relapse, Probability (95%CI) of confirmed relapse at Week 96 Probability (95%CI) of confirmed relapse at Week 48 | 0.39 (0.29, 0.48) 0.30 (0.21, 0.39) | 0.53 (0.36, 0.68) 0.39 (0.30, 0.52) |
 | Hazard Ratio (95% CI) | 0.66 (0.39, 1.11)^ |  |
-| Time to first confirmed clinical relapse or high MRI activity, Probability (95%CI) of confirmed relapse or high MRI activity at Week 96 Probability (95%CI) of confirmed relapse or high MRI activity at Week 48 | 0.51 (0.41, 0.60) | 0.72 (0.58, 0.82) |
-|  | 0.38 (0.29, 0.47) | 0.56 (0.42, 0.68) |
+| Time to first confirmed clinical relapse or high MRI activity, Probability (95%CI) of confirmed relapse or high MRI activity at Week 96 | 0.51 (0.41, 0.60) | 0.72 (0.58, 0.82) |
+| Probability (95%CI) of confirmed relapse or high MRI activity at Week 48 | 0.38 (0.29, 0.47) | 0.56 (0.42, 0.68) |
 | Hazard Ratio (95% CI) | 0.57 (0.37, 0.87)* |  |
 | Key MRI endpoints |  |  |
 | Adjusted number of new or enlarged T2 lesions, Estimate (95% CI) Estimate (95% CI), post-hoc analysis also adjusted for baseline T2 counts | 4.74 (2.12, 10.57) 3.57 (1.97, 6.46) | 10.52 (4.71, 23.50) 5.37 (2.84, 10.16) |

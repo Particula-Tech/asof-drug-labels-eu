@@ -12,13 +12,13 @@ Before starting treatment with teriflunomide the following should be assessed:
 During treatment
 During treatment with teriflunomide the following should be monitored:
 
-- Blood pressure o Check periodically
-- Alanine aminotransferase/serum glutamic pyruvic transaminase (ALT/SGPT) o Liver enzymes should be assessed at least every four weeks during the first 6 months of treatment and regularly thereafter.
-
-o Consider additional monitoring when AUBAGIO is given in patients with pre-existing liver disorders, given with other potentially hepatotoxic drugs or as indicated by clinical signs and symptoms such as unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine.
-Liver enzymes should be assessed every two weeks during the first 6 months of treatment, and at least every 8 weeks thereafter for at least 2 years from initiation of treatment.
-o For ALT (SGPT) elevations between 2- and 3-fold the upper limit of normal, monitoring must be performed weekly.
-
+- Blood pressure
+  - Check periodically
+- Alanine aminotransferase/serum glutamic pyruvic transaminase (ALT/SGPT)
+  - Liver enzymes should be assessed at least every four weeks during the first 6 months of treatment and regularly thereafter.
+  - Consider additional monitoring when AUBAGIO is given in patients with pre-existing liver disorders, given with other potentially hepatotoxic drugs or as indicated by clinical signs and symptoms such as unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine.
+    Liver enzymes should be assessed every two weeks during the first 6 months of treatment, and at least every 8 weeks thereafter for at least 2 years from initiation of treatment.
+  - For ALT (SGPT) elevations between 2- and 3-fold the upper limit of normal, monitoring must be performed weekly.
 - Complete blood cell counts should be performed based on clinical signs and symptoms (e.g. infections) during treatment.
 
 Accelerated elimination procedure
@@ -66,9 +66,8 @@ Patients tested positive in tuberculosis screening should be treated by standard
 
 Respiratory reactions
 
-Interstitial lung disease (ILD) has been reported with teriflunomide in the postmarketing setting.
-ILD and worsening of pre-existing ILD have been reported during treatment with leflunomide, the parent compound of teriflunomide.
-The risk is increased in patients who had a history of ILD when treated with leflunomide.
+Interstitial lung disease (ILD) as well as cases of pulmonary hypertension have been reported with teriflunomide in the postmarketing setting.
+The risk might be increased in patients with a history of ILD.
 
 ILD may occur acutely at any time during therapy with a variable clinical presentation.
 ILD may be fatal.
@@ -83,7 +82,6 @@ As a precaution, a recent complete blood cell count, including differential whit
 In patients with pre-existing anaemia, leucopenia, and /or thrombocytopenia as well as in patients with impaired bone marrow function or those at risk of bone marrow suppression, the risk of haematological disorders is increased.
 If such effects occur, the accelerated elimination procedure (see above) to reduce plasma levels of teriflunomide should be considered.
 In cases of severe haematological reactions, including pancytopenia, AUBAGIO and any concomitant myelosuppressive treatment must be discontinued and a teriflunomide accelerated elimination procedure should be considered.
-
 Skin reactions
 
 Cases of serious skin reactions, sometimes fatal including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eoseinophilia and systemic symptoms (DRESS), have been reported with AUBAGIO.
@@ -123,7 +121,6 @@ Therefore, caution is required when switching patients from natalizumab to AUBAG
 Based on the half-life of fingolimod, a 6-week interval without therapy is needed for clearance from the circulation and a 1 to 2 month period is needed for lymphocytes to return to normal range following discontinuation of fingolimod.
 Starting AUBAGIO during this interval will result in concomitant exposure to fingolimod.
 This may lead to an additive effect on the immune system and caution is, therefore, indicated.
-
 In MS patients, the median t1/2z was approximately 19 days after repeated doses of 14 mg.
 If a decision is made to stop treatment with AUBAGIO, during the interval of 5 half-lives (approximately 3.5 months although may be longer in some patients), starting other therapies will result in concomitant exposure to AUBAGIO.
 This may lead to an additive effect on the immune system and caution is, therefore, indicated.
