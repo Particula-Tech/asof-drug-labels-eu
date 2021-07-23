@@ -7,7 +7,6 @@ Exposure in monkeys at the no observed adverse effect level (NOAEL) for the lymp
 Other findings at doses exceeding human exposures included effects on the hepatic and gastrointestinal systems.
 
 Tofacitinib is not mutagenic or genotoxic based on the results of a series of in vitro and in vivo tests for gene mutations and chromosomal aberrations.
-
 The carcinogenic potential of tofacitinib was assessed in 6-month rasH2 transgenic mouse carcinogenicity and 2-year rat carcinogenicity studies.
 Tofacitinib was not carcinogenic in mice at exposures up to 38 or 19 times the clinical exposure level at 5 mg or 10 mg twice daily.
 Benign testicular interstitial (Leydig) cell tumours were observed in rats: benign Leydig cell tumours in rats are not associated with a risk of Leydig cell tumours in humans.

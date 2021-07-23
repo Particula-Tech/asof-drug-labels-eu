@@ -9,7 +9,7 @@ Among opportunistic infections, TB and other mycobacterial infections, cryptococ
 Some patients have presented with disseminated rather than localised disease.
 Other serious infections that were not reported in clinical studies may also occur (e.g., coccidioidomycosis).
 
-The most commonly reported adverse reactions during the first 3 months in controlled clinical trials were headache, upper respiratory tract infections, nasopharyngitis, diarrhoea, nausea and hypertension (see Table 6, Adverse Drug Reactions [ADRs] based on all study durations).
+The most commonly reported adverse reactions during the first 3 months in controlled clinical trials were headache, upper respiratory tract infections, nasopharyngitis, diarrhoea, nausea and hypertension (see Table 7, Adverse Drug Reactions [ADRs] based on all study durations).
 
 The proportion of patients who discontinued treatment due to adverse reactions during first 3 months of the double-blind, placebo or MTX controlled studies was 3.8% for patients taking tofacitinib.
 The most common infections resulting in discontinuation of therapy were herpes zoster and pneumonia.
@@ -29,11 +29,11 @@ Tabulated list of adverse reactions
 The ADRs listed in the table below are from clinical studies in patients with RA, PsA, and UC and are presented by System Organ Class (SOC) and frequency categories, defined using the following convention: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000), or not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Table 6: Adverse drug reactions
+Table 7: Adverse drug reactions
 
 | System organ class | Common ≥1/100 to <1/10 | Uncommon ≥1/1,000 to <1/100 | Rare ≥1/10,000 to <1/1,000 | Very rare <1/10,000 | Not known (cannot be estimated from the available data) |
 | --- | --- | --- | --- | --- | --- |
-| Infections and infestations | Pneumonia Influenza Herpes zoster Urinary tract infection Sinusitis Bronchitis Nasopharyngitis Pharyngitis | Tuberculosis Diverticulitis Pyelonephritis Cellulitis Herpes simplex Gastroenteritis viral Viral infection | Sepsis Urosepsis Disseminated TB Necrotizing fasciitis Bacteraemia Staphylococcal bacteraemia Pneumocystis jirovecii pneumonia Pneumonia pneumococcal Pneumonia bacterial Encephalitis Atypical mycobacterial infection Cytomegaloviru s infection Arthritis bacterial | Tuberculosis of central nervous system Meningitis cryptococcal Mycobacteriu m avium complex infection |  |
+| Infections and infestations | Pneumonia Influenza Herpes zoster Urinary tract infection Sinusitis Bronchitis Nasopharyngitis Pharyngitis | Tuberculosis Diverticulitis Pyelonephritis Cellulitis Herpes simplex Gastroenteritis viral Viral infection | Sepsis Urosepsis Disseminated TB Necrotizing fasciitis Bacteraemia Staphylococcal bacteraemia Pneumocystis jirovecii pneumonia Pneumonia pneumococcal Pneumonia bacterial Encephalitis Atypical mycobacterial infection Cytomegalovir us infection Arthritis bacterial | Tuberculosis of central nervous system Meningitis cryptococcal Mycobacteriu m avium complex infection |  |
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) |  | Non-melanoma skin cancers |  |  |  |
 | Blood and lymphatic system disorders | Anaemia | Leukopenia Lymphopenia Neutropenia |  |  |  |
 | Immune system disorders |  |  |  |  | Drug hypersensitivity* Angioedema* Urticaria* |
@@ -71,8 +71,7 @@ In the UC ongoing extension trial, cases of PE and DVT have been observed in pat
 Overall infections
 
 Rheumatoid arthritis
-In controlled phase 3 clinical studies, the rates of infections over 0-3 months in the 5 mg twice daily (total 616 patients) and 10 mg twice daily (total 642 patients) tofacitinib monotherapy groups were 16.2%
-(100 patients) and 17.9% (115 patients), respectively, compared to 18.9% (23 patients) in the placebo group (total 122 patients).
+In controlled phase 3 clinical studies, the rates of infections over 0-3 months in the 5 mg twice daily (total 616 patients) and 10 mg twice daily (total 642 patients) tofacitinib monotherapy groups were 16.2% (100 patients) and 17.9% (115 patients), respectively, compared to 18.9% (23 patients) in the placebo group (total 122 patients).
 In controlled phase 3 clinical studies with background DMARDs, the rates of infections over 0-3 months in the 5 mg twice daily (total 973 patients) and 10 mg twice daily (total 969 patients) tofacitinib plus DMARD group were 21.3% (207 patients) and 21.8% (211 patients), respectively, compared to 18.4% (103 patients) in the placebo plus DMARD group (total 559 patients).
 
 The most commonly reported infections were upper respiratory tract infections and nasopharyngitis (3.7% and 3.2%, respectively).
@@ -110,6 +109,12 @@ The frequency of serious infection among tofacitinib-treated patients 65 years o
 
 As there is a higher incidence of infections in the elderly population in general, caution should be used when treating the elderly (see section 4.4).
 
+Serious infections from non-interventional post approval safety study
+Data from a non-interventional post approval safety study that evaluated tofacitinib in RA patients from a registry (US Corrona) showed that a numerically higher incidence rate of serious infection was observed for the 11 mg prolonged-release tablet administered once daily than the 5 mg film-coated tablet administered twice daily.
+Crude incidence rates (95% CI) (i.e., not adjusted for age or sex) from availability of each formulation at 12 months following initiation of treatment were 3.45 (1.93, 5.69) and 2.78 (1.74, 4.21) and at 36 months were 4.71 (3.08, 6.91) and 2.79 (2.01, 3.77) patients with events per 100 patient-years in the 11 mg prolonged-release tablet once daily and 5 mg film-coated tablet twice daily groups, respectively.
+The unadjusted hazard ratio was 1.30 (95% CI: 0.67, 2.50) at 12 months and 1.93 (95% CI: 1.15, 3.24) at 36 months for the 11 mg prolonged-release once daily dose compared to the 5 mg film-coated twice daily dose.
+Data is based on a small number of patients with events observed with relatively large confidence intervals and limited follow up time.
+
 Viral reactivation
 
 Patients treated with tofacitinib who are Japanese or Korean, or patients with long standing RA who have previously received two or more biological DMARDs, or patients with an ALC less than 1,000 cells/mm3, or patients treated with 10 mg twice daily may have an increased risk of herpes zoster (see section 4.4).
@@ -144,7 +149,8 @@ In this study, AST elevations greater than 3x ULN were observed in 1.65%, 0.41% 
 In the RA phase 3 monotherapy study (0-24 months) (study VI, see section 5.1), ALT elevations greater than 3x ULN were observed in 7.1%, 3.0%, and 3.0% of patients receiving MTX, tofacitinib 5 mg and 10 mg twice daily, respectively.
 In this study, AST elevations greater than 3x ULN were observed in 3.3%, 1.6% and 1.5% of patients receiving MTX, tofacitinib 5 mg and 10 mg twice daily, respectively.
 
-In the controlled portion of the RA phase 3 studies on background DMARDs (0-3 months) (studies II-V, see section 5.1), ALT elevations greater than 3x ULN were observed in 0.9%, 1.24% and 1.14% of patients receiving placebo, tofacitinib 5 mg and 10 mg twice daily, respectively.
+In the controlled portion of the RA phase 3 studies on background DMARDs (0-3 months)
+(studies II-V, see section 5.1), ALT elevations greater than 3x ULN were observed in 0.9%, 1.24% and 1.14% of patients receiving placebo, tofacitinib 5 mg and 10 mg twice daily, respectively.
 In these studies, AST elevations greater than 3x ULN were observed in 0.72%, 0.5% and 0.31% of patients receiving placebo, tofacitinib 5 mg and 10 mg twice daily, respectively.
 
 In the RA long-term extension studies, on monotherapy, ALT elevations greater than 3x ULN were observed in 1.1% and 1.4% of patients receiving tofacitinib 5 mg and 10 mg twice daily, respectively.
@@ -158,7 +164,6 @@ In the clinical studies in UC, changes in liver enzyme tests observed with tofac
 Lipids
 Elevations in lipid parameters (total cholesterol, LDL cholesterol, HDL cholesterol, triglycerides) were first assessed at 1 month following initiation of tofacitinib in the controlled double-blind clinical trials of RA.
 Increases were observed at this time point and remained stable thereafter.
-
 Changes in lipid parameters from baseline through the end of the study (6-24 months) in the controlled clinical studies in RA are summarised below:
 
 - Mean LDL cholesterol increased by 15% in the tofacitinib 5 mg twice daily arm and 20% in the tofacitinib 10 mg twice daily arm at month 12, and increased by 16% in the tofacitinib 5 mg twice daily arm and 19% in the tofacitinib 10 mg twice daily arm at month 24.
@@ -167,6 +172,7 @@ Changes in lipid parameters from baseline through the end of the study (6-24 mon
 Upon withdrawal of tofacitinib treatment, lipid levels returned to baseline.
 
 Mean LDL cholesterol/HDL cholesterol ratios and Apolipoprotein B (ApoB)/ApoA1 ratios were essentially unchanged in tofacitinib-treated patients.
+
 In an RA controlled clinical trial, elevations in LDL cholesterol and ApoB decreased to pretreatment levels in response to statin therapy.
 
 In the RA long-term safety populations, elevations in the lipid parameters remained consistent with what was seen in the controlled clinical studies.
@@ -183,7 +189,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 | System organ class | Common ≥1/100 to <1/10 | Uncommon ≥1/1,000 to <1/100 | Rare ≥1/10,000 to <1/1,000 | Very rare <1/10,000 | Not known (cannot be estimated from the available data) |
 | --- | --- | --- | --- | --- | --- |
-| Infections and infestations | Pneumonia Influenza Herpes zoster Urinary tract infection Sinusitis Bronchitis Nasopharyngitis Pharyngitis | Tuberculosis Diverticulitis Pyelonephritis Cellulitis Herpes simplex Gastroenteritis viral Viral infection | Sepsis Urosepsis Disseminated TB Necrotizing fasciitis Bacteraemia Staphylococcal bacteraemia Pneumocystis jirovecii pneumonia Pneumonia pneumococcal Pneumonia bacterial Encephalitis Atypical mycobacterial infection Cytomegaloviru s infection Arthritis bacterial | Tuberculosis of central nervous system Meningitis cryptococcal Mycobacterium avium complex infection |  |
+| Infections and infestations | Pneumonia Influenza Herpes zoster Urinary tract infection Sinusitis Bronchitis Nasopharyngitis Pharyngitis | Tuberculosis Diverticulitis Pyelonephritis Cellulitis Herpes simplex Gastroenteritis viral Viral infection | Sepsis Urosepsis Disseminated TB Necrotizing fasciitis Bacteraemia Staphylococcal bacteraemia Pneumocystis jirovecii pneumonia Pneumonia pneumococcal Pneumonia bacterial Encephalitis Atypical mycobacterial infection Cytomegalovir us infection Arthritis bacterial | Tuberculosis of central nervous system Meningitis cryptococcal Mycobacterium avium complex infection |  |
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) |  | Non-melanoma skin cancers |  |  |  |
 | Blood and lymphatic system disorders | Anaemia | Leukopenia Lymphopenia Neutropenia |  |  |  |
 | Immune system disorders |  |  |  |  | Drug hypersensitivity* Angioedema* Urticaria* |

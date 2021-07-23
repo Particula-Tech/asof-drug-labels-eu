@@ -94,7 +94,7 @@ Non-melanoma skin cancer
 
 NMSCs have been reported in patients treated with tofacitinib.
 The risk of NMSC may be higher in patients treated with tofacitinib 10 mg twice daily than in patients treated with 5 mg twice daily.
-Periodic skin examination is recommended for patients who are at increased risk for skin cancer (see Table 6 in section 4.8).
+Periodic skin examination is recommended for patients who are at increased risk for skin cancer (see Table 7 in section 4.8).
 
 Interstitial lung disease
 
@@ -167,16 +167,17 @@ If the history of chickenpox is considered doubtful or unreliable it is recommen
 Vaccination with live vaccines should occur at least 2 weeks but preferably 4 weeks prior to initiation of tofacitinib or in accordance with current vaccination guidelines regarding immunomodulatory medicinal products.
 No data are available on the secondary transmission of infection by live vaccines to patients receiving tofacitinib.
 
-Excipients with known effect
+Excipient information
 
 This medicinal product contains lactose.
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet.
+Patients on low sodium diets can be informed that this medicinal product is essentially ‘sodium-free’.
+
 [XELJANZ 11 mg prolonged-release tablets]
 
-Tofacitinib has not been studied and its use should be avoided in combination with biologics such as TNF antagonists, interleukin (IL)-1R antagonists, IL-6R antagonists, anti-CD20 monoclonal antibodies, selective co-stimulation modulators and potent immunosuppressants such as azathioprine, 6- mercaptopurine, ciclosporine and tacrolimus because of the possibility of increased immunosuppression and increased risk of infection.
-
-RA patients have an increased risk for cardiovascular disorders.
+Tofacitinib should be used with caution in patients with known risk factors for VTE, regardless of indication and dosage.
 
 For recommended modifications based on lymphocyte counts (see section 4.2).
 
@@ -186,10 +187,10 @@ For recommended modifications based on haemoglobin level (see section 4.2).
 
 Gastrointestinal obstruction with a non-deformable prolonged-release formulation
 
-Caution should be used when administering tofacitinib 11 mg prolonged-release tablets to patients with pre-existing severe gastrointestinal narrowing (pathologic or iatrogenic).
+Caution should be used when administering tofacitinib prolonged-release tablets to patients with pre-existing severe gastrointestinal narrowing (pathologic or iatrogenic).
 There have been rare reports of obstructive symptoms in patients with known strictures in association with the ingestion of other medicinal products utilising a non-deformable prolonged-release formulation.
 
-Tofacitinib 11 mg prolonged-release tablets contains sorbitol.
+Tofacitinib prolonged-release tablets contain sorbitol.
 The additive effect of concomitantly administered products containing sorbitol (or fructose) and dietary intake of sorbitol (or fructose) should be taken into account.
 
 The content of sorbitol in medicinal products for oral use may affect the bioavailability of other medicinal products for oral use administered concomitantly.

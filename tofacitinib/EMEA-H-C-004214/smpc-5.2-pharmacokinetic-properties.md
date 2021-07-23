@@ -55,6 +55,10 @@ Drug interactions
 Tofacitinib is not an inhibitor or inducer of CYPs (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4) and is not an inhibitor of UGTs (UGT1A1, UGT1A4, UGT1A6, UGT1A9, and UGT2B7).
 Tofacitinib is not an inhibitor of MDR1, OATP1B1/1B3, OCT2, OAT1/3, or MRP at clinically meaningful concentrations.
 
+Comparison of PK of prolonged-release and film-coated tablet formulations
+
+Tofacitinib 11 mg prolonged-release tablets once daily have demonstrated PK equivalence (AUC and Cmax) to tofacitinib 5 mg film-coated tablets twice daily.
+
 [XELJANZ 11 mg prolonged-release tablets]
 
 Following oral administration of tofacitinib 11 mg prolonged-release tablet, peak plasma concentrations are reached at 4 hours and half-life is ~6 hours.
@@ -62,3 +66,5 @@ Steady state concentrations are achieved within 48 hours with negligible accumul
 Steady-state AUC and Cmax of tofacitinib for tofacitinib 11 mg prolonged-release tablet administered once daily are equivalent to those of tofacitinib 5 mg film-coated tablets administered twice daily.
 
 Coadministration of tofacitinib 11 mg prolonged-release tablet with a high-fat meal resulted in no changes in AUC while Cmax was increased by 27%.
+
+Results from population PK analysis in patients with active PsA were consistent with those in patients with RA.

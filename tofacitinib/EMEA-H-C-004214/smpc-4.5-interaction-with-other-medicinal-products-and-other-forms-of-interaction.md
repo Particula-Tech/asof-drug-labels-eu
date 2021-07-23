@@ -16,11 +16,14 @@ Concomitant administration with MTX 15-25 mg once weekly had no effect on the PK
 Figure 1.
 Impact of other medicinal products on PK of tofacitinib
 
-Coadminist PK Ratio and 90% CI Recommendation
+Coadministered PK Ratio and 90% CI Recommendation
+
 Drug
 
-CYP3A Inhibitor Ketoconaz AUC Tofacitinib dose should be reduced a
-l Cmax
+CYP3A Inhibitor Ketoconazole AUC Tofacitinib dose should be reduced a
+
+Cmax
+
 CYP3A & CYP2C19 Inhibitor Fluconazole AUC Tofacitinib dose should be reduced a
 
 Cmax
@@ -40,7 +43,6 @@ Cmax ciclosporine should be avoided
 
 0 0.5 1 1.5 2 2.5
 Ratio relative to reference
-
 Note: Reference group is administration of tofacitinib alone.
 a Tofacitinib dose should be reduced to 5 mg twice daily in patients receiving 10 mg twice daily.
 Tofacitinib dose should be reduced to 5 mg once daily in patients receiving 5 mg twice daily (see section 4.2).
@@ -53,9 +55,5 @@ In RA patients, coadministration of tofacitinib with MTX 15-25 mg once weekly de
 The extent of decrease in MTX exposure does not warrant modifications to the individualised dosing of MTX.
 
 [XELJANZ 11 mg prolonged-release tablets]
-
-Coadministered PK Ratio and 90% CI Recommendation
-
-CYP3A Inhibitor Ketoconazole AUC Tofacitinib dose should be reduced a
 
 a Tofacitinib dose should be reduced to 5 mg (as film-coated tablet) once daily in patients receiving 11 mg (as prolonged-release tablet) once daily (see section 4.2).
