@@ -11,7 +11,6 @@ Substances that are inhibitors of CYP3A4 or PgP may increase everolimus blood co
 
 CYP3A4 and PgP inducers decreasing everolimus concentrations
 Substances that are inducers of CYP3A4 or PgP may decrease everolimus blood concentrations by increasing metabolism or the efflux of everolimus from intestinal cells.
-
 Table 2 Effects of other active substances on everolimus
 
 | Active substance by interaction | Interaction – Change in Everolimus AUC/Cmax Geometric mean ratio (observed range) | Recommendations concerning co-administration |

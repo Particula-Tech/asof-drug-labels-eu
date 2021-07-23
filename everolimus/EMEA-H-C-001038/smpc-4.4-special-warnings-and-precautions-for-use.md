@@ -45,11 +45,11 @@ Antifungal agents should not be used unless fungal infection has been diagnosed 
 Renal failure events
 Cases of renal failure (including acute renal failure), some with a fatal outcome, have been observed in patients treated with Afinitor (see section 4.8).
 Renal function should be monitored particularly where patients have additional risk factors that may further impair renal function.
-
 Laboratory tests and monitoring
 Renal function
 Elevations of serum creatinine, usually mild, and proteinuria have been reported (see section 4.8).
 Monitoring of renal function, including measurement of blood urea nitrogen (BUN), urinary protein or serum creatinine, is recommended prior to the start of Afinitor therapy and periodically thereafter.
+
 Blood glucose
 Hyperglycaemia has been reported (see section 4.8).
 Monitoring of fasting serum glucose is recommended prior to the start of Afinitor therapy and periodically thereafter.
@@ -83,11 +83,11 @@ Hence, concomitant treatment of Afinitor and potent inhibitors is not recommende
 
 Caution should be exercised when Afinitor is taken in combination with orally administered CYP3A4 substrates with a narrow therapeutic index due to the potential for drug interactions.
 If Afinitor is taken with orally administered CYP3A4 substrates with a narrow therapeutic index (e.g. pimozide, terfenadine, astemizole, cisapride, quinidine or ergot alkaloid derivatives), the patient should be monitored for undesirable effects described in the product information of the orally administered CYP3A4 substrate (see section 4.5).
-
 Hepatic impairment
 Exposure to everolimus was increased in patients with mild (Child-Pugh A), moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment (see section 5.2).
 
 Afinitor is only recommended for use in patients with severe hepatic impairment (Child-Pugh C) if the potential benefit outweighs the risk (see sections 4.2 and 5.2).
+
 No clinical safety or efficacy data are currently available to support dose adjustment recommendations for the management of adverse reactions in patients with hepatic impairment.
 
 Vaccinations

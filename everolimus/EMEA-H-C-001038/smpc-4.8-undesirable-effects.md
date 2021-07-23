@@ -7,7 +7,6 @@ The most common adverse reactions (incidence ≥1/10) from the pooled safety dat
 
 The most frequent Grade 3-4 adverse reactions (incidence ≥1/100 to <1/10) were stomatitis, anaemia, hyperglycaemia, infections, fatigue, diarrhoea, pneumonitis, asthenia, thrombocytopenia, neutropenia, dyspnoea, proteinuria, lymphopenia, haemorrhage, hypophosphataemia, rash, hypertension, pneumonia, alanine aminotransferase (ALT) increased, aspartate aminotransferase (AST) increased and diabetes mellitus.
 The grades follow CTCAE Version 3.0 and 4.03.
-
 Tabulated list of adverse reactions
 Table 3 presents the frequency category of adverse reactions reported in the pooled analysis considered for the safety pooling.
 Adverse reactions are listed according to MedDRA system organ class and frequency category.
