@@ -9,29 +9,44 @@ Complete blood count, including a white blood cell count differential, should be
 Posology
 
 Starting dose
-The recommended starting dose of ruxolitinib in MF is 15 mg twice daily for patients with a platelet count between 100,000/mm3 and 200,000/mm3 and 20 mg twice daily for patients with a platelet count of >200,000/mm3.
-The recommended starting dose of ruxolitinib in PV is 10 mg given orally twice daily.
+The recommended starting dose of Jakavi in myelofibrosis (MF) is based on platelet counts (see Table 1):
 
-There is limited information to recommend a starting dose for patients with platelet counts between 50,000/mm3 and <100,000/mm3.
-The maximum recommended starting dose in these patients is 5 mg twice daily and the patients should be titrated cautiously.
+Table 1 Starting doses in myelofibrosis
+
+| Platelet count | Starting dose |
+| --- | --- |
+| Greater than 200,000/mm3 100,000 to 200,000/mm3 75,000 to less than 100,000/mm3 50,000 to less than 75,000/mm3 | 20 mg orally twice daily 15 mg orally twice daily 10 mg orally twice daily 5 mg orally twice daily |
+
+The recommended starting dose of Jakavi in polycythaemia vera (PV) is 10 mg given orally twice daily.
 
 Dose modifications
-Doses may be titrated based on safety and efficacy.
-Treatment should be discontinued for platelet counts less than 50,000/mm3 or absolute neutrophil counts less than 500/mm3.
-In PV, treatment should also be interrupted when haemoglobin is below 8 g/dl.
-After recovery of blood counts above these levels, dosing may be re-started at 5 mg twice daily and gradually increased based on careful monitoring of complete blood cell count, including a white blood cell count differential.
-
-Dose reductions should be considered if the platelet count decreases below 100,000/mm3, with the goal of avoiding dose interruptions for thrombocytopenia.
-In PV, dose reductions should also be considered if haemoglobin decreases below 12 g/dl and is recommended if it decreases below 10 g/dl.
+Doses may be titrated based on efficacy and safety.
 
 If efficacy is considered insufficient and blood counts are adequate, doses may be increased by a maximum of 5 mg twice daily, up to the maximum dose of 25 mg twice daily.
 
 The starting dose should not be increased within the first four weeks of treatment and thereafter no more frequently than at 2-week intervals.
+Treatment should be discontinued for platelet counts less than 50,000/mm3 or absolute neutrophil counts less than 500/mm3.
+In PV, treatment should also be interrupted when haemoglobin is below 8 g/dl.
+After recovery of blood counts above these levels, dosing may be re-started at 5 mg twice daily and gradually increased based on careful monitoring of complete blood cell count, including a white blood cell count differential.
 
-The maximum dose of ruxolitinib is 25 mg twice daily.
+Dose reductions should be considered if the platelet count decreases during treatment as outlined in Table 2, with the goal of avoiding dose interruptions for thrombocytopenia.
+
+Table 2 Dosing recommendation for thrombocytopenia
+
+|  | Dose at time of platelet decline |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | 25 mg twice daily | 20 mg twice daily | 15 mg twice daily | 10 mg twice daily | 5 mg twice daily |
+| Platelet count | New dose |  |  |  |  |
+| 100,000 to <125,000/mm3 | 20 mg twice daily | 15 mg twice daily | No change | No change | No change |
+| 75,000 to <100,000/mm3 | 10 mg twice daily | 10 mg twice daily | 10 mg twice daily | No change | No change |
+| 50,000 to <75,000/mm3 | 5 mg twice daily | 5 mg twice daily | 5 mg twice daily | 5 mg twice daily | No change |
+| Less than 50,000/mm3 | Hold | Hold | Hold | Hold | Hold |
+
+In PV, dose reductions should also be considered if haemoglobin decreases below 12 g/dl and is recommended if it decreases below 10 g/dl.
+
 Dose adjustment with concomitant strong CYP3A4 inhibitors or fluconazole
 When ruxolitinib is administered with strong CYP3A4 inhibitors or dual inhibitors of CYP2C9 and CYP3A4 enzymes (e.g. fluconazole) the unit dose of ruxolitinib should be reduced by approximately 50%, to be administered twice daily (see section 4.5).
-Avoid the concomitant use of ruxolitinib with fluconazole doses greater than 200 mg daily.
+The concomitant use of ruxolitinib with fluconazole doses greater than 200 mg daily should be avoided.
 
 More frequent monitoring (e.g. twice a week) of haematology parameters and of clinical signs and symptoms of ruxolitinib-related adverse drug reactions is recommended while on strong CYP3A4 inhibitors or dual inhibitors of CYP2C9 and CYP3A4 enzymes.
 
@@ -66,6 +81,7 @@ No additional dose adjustments are recommended for elderly patients.
 Paediatric population
 The safety and efficacy of Jakavi in children and adolescents aged up to 18 years have not been established.
 No data are available (see section 5.1).
+
 Treatment discontinuation
 Treatment may be continued as long as the benefit-risk remains positive.
 However the treatment should be discontinued after 6 months if there has been no reduction in spleen size or improvement in symptoms since initiation of therapy.

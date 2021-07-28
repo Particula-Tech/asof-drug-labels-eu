@@ -8,12 +8,12 @@ Based on a human mass balance study, oral absorption of ruxolitinib, as ruxoliti
 Mean ruxolitinib Cmax and total exposure (AUC) increased proportionally over a single dose range of 5-200 mg.
 There was no clinically relevant change in the pharmacokinetics of ruxolitinib upon administration with a high-fat meal.
 The mean Cmax was moderately decreased (24%) while the mean AUC was nearly unchanged (4% increase) on dosing with a high-fat meal.
+
 Distribution
 
 The mean volume of distribution at steady state is approximately 75 litres in MF and PV patients.
 At clinically relevant concentrations of ruxolitinib, binding to plasma proteins in vitro is approximately 97%, mostly to albumin.
 A whole body autoradiography study in rats has shown that ruxolitinib does not penetrate the blood-brain barrier.
-
 Biotransformation
 
 Ruxolitinib is mainly metabolised by CYP3A4 (>50%), with additional contribution from CYP2C9.

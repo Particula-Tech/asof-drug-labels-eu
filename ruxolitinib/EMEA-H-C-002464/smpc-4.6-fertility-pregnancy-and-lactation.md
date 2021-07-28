@@ -9,7 +9,6 @@ Teratogenicity was not observed in rats or rabbits.
 However, the exposure margins compared to the highest clinical dose were low and the results are therefore of limited relevance for humans (see section 5.3).
 The potential risk for humans is unknown.
 As a precautionary measure, the use of Jakavi during pregnancy is contraindicated (see section 4.3).
-
 Women of childbearing potential/Contraception
 
 Women of child-bearing potential should use effective contraception during the treatment with Jakavi.

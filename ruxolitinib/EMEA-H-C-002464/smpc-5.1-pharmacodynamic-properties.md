@@ -22,6 +22,7 @@ Ruxolitinib resulted in maximal inhibition of STAT3 phosphorylation 2 hours afte
 Baseline elevations in inflammatory markers associated with constitutional symptoms such as TNFα, IL-6 and CRP in subjects with MF were decreased following treatment with ruxolitinib.
 MF patients did not become refractory to the pharmacodynamic effects of ruxolitinib treatment over time.
 Similarly, patients with PV also presented with baseline elevations in inflammatory markers and these markers were decreased following treatment with ruxolitinib.
+
 In a thorough QT study in healthy subjects, there was no indication of a QT/QTc prolonging effect of ruxolitinib in single doses up to a supratherapeutic dose of 200 mg, indicating that ruxolitinib has no effect on cardiac repolarisation.
 
 Clinical efficacy and safety
@@ -30,10 +31,10 @@ Myelofibrosis
 Two randomised phase 3 studies (COMFORT-I and COMFORT-II) were conducted in patients with MF (primary MF, post-polycythaemia vera MF or post-essential thrombocythaemia MF).
 In both studies, patients had palpable splenomegaly at least 5 cm below the costal margin and risk category of intermediate-2 or high risk based on the International Working Group (IWG) Consensus Criteria.
 The starting dose of Jakavi was based on platelet count.
+Patients with platelet counts ≤100,000/mm3 were not eligible for enrolment in COMFORT studies but 69 patients were enrolled in the EXPAND study, a Phase Ib, open label, dose-finding study in patients with MF (primary MF, post-polycythaemia vera MF or post-essential thrombocythaemia MF) and baseline platelet counts ≥50,000 and <100,000/mm3.
 
 COMFORT-I was a double-blind, randomised, placebo-controlled study in 309 patients who were refractory to or were not candidates for available therapy.
 The primary efficacy endpoint was proportion of subjects achieving ≥35% reduction from baseline in spleen volume at week 24 as measured by Magnetic Resonance Imaging (MRI) or Computed Tomography (CT).
-
 Secondary endpoints included duration of maintenance of a ≥35% reduction from baseline in spleen volume, proportion of patients who had ≥50% reduction in total symptom score, changes in total symptom scores from baseline to week 24, as measured by the modified MF Symptom Assessment Form (MFSAF) v2.0 diary, and overall survival.
 
 COMFORT-II was an open-label, randomised study in 219 patients.
@@ -45,7 +46,7 @@ Secondary endpoints included proportion of patients achieving a ≥35% reduction
 
 In COMFORT-I and COMFORT-II, patient baseline demographics and disease characteristics were comparable between the treatment arms.
 
-Table 2 Percentage of patients with ≥35% reduction from baseline in spleen volume at week 24 in COMFORT-I and at week 48 in COMFORT-II (ITT)
+Table 4 Percentage of patients with ≥35% reduction from baseline in spleen volume at week 24 in COMFORT-I and at week 48 in COMFORT-II (ITT)
 
 COMFORT-I COMFORT-II
 Jakavi Placebo Jakavi Best available
@@ -58,8 +59,9 @@ reduced by ≥35%
 95% confidence intervals 34.1, 50.1 0, 3.6 21.3, 36.6 0.0, 5.0
 p-value <0.0001 <0.0001
 
-A significantly higher proportion of patients in the Jakavi group achieved ≥35% reduction from baseline in spleen volume (Table 2) regardless of the presence or absence of the JAK2V617F mutation or the disease subtype (primary MF, post-polycythaemia vera MF, post-essential thrombocythaemia MF).
-Table 3 Percentage of patients with ≥35% reduction from baseline in spleen volume by JAK mutation status (safety set)
+A significantly higher proportion of patients in the Jakavi group achieved ≥35% reduction from baseline in spleen volume (Table 4) regardless of the presence or absence of the JAK2V617F mutation or the disease subtype (primary MF, post-polycythaemia vera MF, post-essential thrombocythaemia MF).
+
+Table 5 Percentage of patients with ≥35% reduction from baseline in spleen volume by JAK mutation status (safety set)
 
 |  | COMFORT-I |  |  |  | COMFORT-II |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -90,6 +92,7 @@ A randomised, open-label, active-controlled phase 3 study (RESPONSE) was conduct
 The starting dose of Jakavi was 10 mg twice daily.
 Doses were then adjusted in individual patients based on tolerability and efficacy with a maximum dose of 25 mg twice daily.
 BAT was selected by the investigator on a patient-by-patient basis and included hydroxyurea (59.5%), interferon/pegylated interferon (11.7%), anagrelide (7.2%), pipobroman (1.8%) and observation (15.3%).
+
 Baseline demographics and disease characteristics were comparable between the two treatments arms.
 The median age was 60 years (range 33 to 90 years).
 Patients in the ruxolitinib arm had PV diagnosis for a median of 8.2 years and had previously received hydroxyurea for a median of approximately 3 years.
@@ -99,7 +102,6 @@ Comparative data regarding long-term survival and incidence of disease complicat
 The primary composite endpoint was the proportion of patients achieving both an absence of phlebotomy eligibility (HCT control) and a ≥35% reduction in spleen volume from baseline at week 32.
 Phlebotomy eligibility was defined as a confirmed HCT of >45%, i.e. at least 3 percentage points higher than the HCT obtained at baseline or a confirmed HCT of >48%, depending on which was lower.
 Key secondary endpoints included the proportion of patients who achieved the primary endpoint and remained free from progression at week 48, as well as the proportion of patients achieving complete haematological remission at week 32.
-
 The study met its primary objective and a higher proportion of patients in the Jakavi group achieved the primary composite endpoint and each of its individual components.
 Significantly more patients treated with Jakavi (23%) achieved a primary response (p<0.0001) compared to BAT (0.9%).
 Haematocrit control was achieved in 60% of patients in the Jakavi arm compared to 18.8% in the BAT arm and a ≥35% reduction in spleen volume was achieved in 40% of patients in the Jakavi arm compared to 0.9% in the BAT arm (Figure 1).
@@ -140,15 +142,15 @@ week 32 volume phlebotomy
 
 Symptom burden was assessed using the MPN-SAF total symptom score (TSS) electronic patient diary, which consisted of 14 questions.
 At week 32, 49% and 64% of patients treated with ruxolitinib achieved a ≥50% reduction in TSS-14 and TSS-5, respectively, compared to only 5% and 11% of patients on BAT.
+
 Treatment benefit perception was measured by the Patient Global Impression of Change (PGIC) questionnaire.
 66% of patients treated with ruxolitinib compared to 19% treated with BAT reported an improvement as early as four weeks after beginning treatment.
 Improvement in perception of treatment benefit was also higher in patients treated with ruxolitinib at week 32 (78% versus 33%).
 
 Additional analyses from the RESPONSE study to assess durability of response were conducted at week 80 and week 256 following randomisation.
 Out of 25 patients who had achieved primary response at week 32, 3 patients had progressed by week 80 and 6 patients by week 256.
-The probability to have maintained a response from week 32 up to week 80 and week 256 was 92% and 74%, respectively (see Table 4).
-
-Table 4 Durability of primary response in the RESPONSE study
+The probability to have maintained a response from week 32 up to week 80 and week 256 was 92% and 74%, respectively (see Table 6).
+Table 6 Durability of primary response in the RESPONSE study
 
 |  | Week 32 | Week 80 | Week 256 |
 | --- | --- | --- | --- |

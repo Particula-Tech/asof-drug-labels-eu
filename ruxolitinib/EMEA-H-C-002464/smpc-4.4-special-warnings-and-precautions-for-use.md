@@ -20,6 +20,7 @@ More frequent monitoring of haematology parameters and of clinical signs and sym
 Neutropenia (absolute neutrophil count <500) was generally reversible and was managed by temporarily withholding Jakavi (see sections 4.2 and 4.8).
 
 Complete blood counts should be monitored as clinically indicated and dose adjusted as required (see sections 4.2 and 4.8).
+
 Infections
 
 Serious bacterial, mycobacterial, fungal, viral and other opportunistic infections have occurred in patients treated with Jakavi.
@@ -35,7 +36,6 @@ Prescribers are reminded of the risk of false negative tuberculin skin test resu
 Hepatitis B viral load (HBV-DNA titre) increases, with and without associated elevations in alanine aminotransferase and aspartate aminotransferase, have been reported in patients with chronic HBV infections taking Jakavi.
 It is recommended to screen for HBV prior to commencing treatment with Jakavi.
 Patients with chronic HBV infection should be treated and monitored according to clinical guidelines.
-
 Herpes zoster
 
 Physicians should educate patients about early signs and symptoms of herpes zoster, advising that treatment should be sought as early as possible.
@@ -58,6 +58,7 @@ Lipid abnormalities/elevations
 
 Treatment with Jakavi has been associated with increases in lipid parameters including total cholesterol, high-density lipoprotein (HDL) cholesterol, low-density lipoprotein (LDL) cholesterol, and triglycerides.
 Lipid monitoring and treatment of dyslipidaemia according to clinical guidelines is recommended.
+
 Special populations
 
 Renal impairment
@@ -75,15 +76,16 @@ Interactions
 If Jakavi is to be co-administered with strong CYP3A4 inhibitors or dual inhibitors of CYP3A4 and CYP2C9 enzymes (e.g. fluconazole), the unit dose of Jakavi should be reduced by approximately 50%, to be administered twice daily (for monitoring frequency see sections 4.2 and 4.5).
 
 The concomitant use of cytoreductive therapies with Jakavi was associated with manageable cytopenias (see section 4.2 for dose modifications during cytopenias).
-
 Withdrawal effects
 
 Following interruption or discontinuation of Jakavi, symptoms of MF may return over a period of approximately one week.
-There have been cases of patients discontinuing Jakavi who sustained more severe events, particularly in the presence of acute intercurrent illness.
+There have been cases of patients discontinuing Jakavi who experienced severe adverse events, particularly in the presence of acute intercurrent illness.
 It has not been established whether abrupt discontinuation of Jakavi contributed to these events.
 Unless abrupt discontinuation is required, gradual tapering of the dose of Jakavi may be considered, although the utility of the tapering is unproven.
 
 Excipients
 
 Jakavi contains lactose.
-Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
