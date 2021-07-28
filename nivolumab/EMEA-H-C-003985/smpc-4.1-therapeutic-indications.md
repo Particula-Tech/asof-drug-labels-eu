@@ -46,3 +46,7 @@ OPDIVO in combination with ipilimumab is indicated for the treatment of adult pa
 Oesophageal squamous cell carcinoma (OSCC)
 
 OPDIVO as monotherapy is indicated for the treatment of adult patients with unresectable advanced, recurrent or metastatic oesophageal squamous cell carcinoma after prior fluoropyrimidine- and platinum-based combination chemotherapy.
+
+Adjuvant treatment of oesophageal or gastro-oesophageal junction cancer (OC or GEJC)
+
+OPDIVO as monotherapy is indicated for the adjuvant treatment of adult patients with oesophageal or gastro-oesophageal junction cancer who have residual pathologic disease following prior neoadjuvant chemoradiotherapy (see section 5.1).

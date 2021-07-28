@@ -11,6 +11,7 @@ Breast-feeding
 It is unknown whether nivolumab is secreted in human milk.
 Because many medicinal products, including antibodies, can be secreted in human milk, a risk to the newborns/infants cannot be excluded.
 A decision must be made whether to discontinue breast-feeding or to discontinue from nivolumab therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
+
 Fertility
 Studies to evaluate the effect of nivolumab on fertility have not been performed.
 Thus, the effect of nivolumab on male and female fertility is unknown.
