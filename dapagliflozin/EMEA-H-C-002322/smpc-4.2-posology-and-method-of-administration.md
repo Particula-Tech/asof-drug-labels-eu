@@ -4,6 +4,7 @@ Posology
 
 Type 2 diabetes mellitus
 The recommended dose is 10 mg dapagliflozin once daily.
+
 When dapagliflozin is used in combination with insulin or an insulin secretagogue, such as a sulphonylurea, a lower dose of insulin or insulin secretagogue may be considered to reduce the risk of hypoglycaemia (see sections 4.5 and 4.8).
 
 Type 1 diabetes mellitus
@@ -49,23 +50,26 @@ The recommended dose is 10 mg dapagliflozin once daily.
 
 In the DAPA-HF study, dapagliflozin was administered in conjunction with other heart failure therapies (see section 5.1).
 
+Chronic kidney disease
+The recommended dose is 10 mg dapagliflozin once daily.
+
+In the DAPA-CKD study, dapagliflozin was administered in conjunction with other chronic kidney disease therapies (see section 5.1).
+
 Special populations
-Treatment of diabetes mellitus in patients with renal impairment
-As glycaemic efficacy is dependent on renal function, Forxiga should not be initiated to improve glycaemic control in patients with a glomerular filtration rate [GFR] < 60 mL/min and should be discontinued at GFR persistently below 45 mL/min (see sections 4.4, 4.8, 5.1 and 5.2).
-
+Renal impairment
 No dose adjustment is required based on renal function.
+Due to limited experience, it is not recommended to initiate treatment with dapagliflozin in patients with GFR < 25 mL/min.
 
-Treatment of heart failure in patients with renal impairment
-No dose adjustment is required based on renal function (see section 4.4).
-
-There is limited experience with dapagliflozin for the treatment of heart failure in patients with severe renal impairment (GFR < 30 mL/min).
+In patients with diabetes mellitus, the glucose lowering efficacy of dapagliflozin is reduced when the glomerular filtration rate (GFR) is < 45 mL/min, and is likely absent in patients with severe renal impairment.
+Therefore, if GFR falls below 45 mL/min, additional glucose lowering treatment should be considered in patients with diabetes mellitus if further glycaemic control is needed (see sections 4.4, 4.8, 5.1 and 5.2).
 
 Hepatic impairment
 No dose adjustment is necessary for patients with mild or moderate hepatic impairment.
 In patients with severe hepatic impairment, a starting dose of 5 mg is recommended.
 If well tolerated, the dose may be increased to 10 mg when indicated (see sections 4.1 of the 10 mg SmPC, 4.4 and 5.2).
+
 Patients with type 1 diabetes mellitus
-Forxiga 10 mg is not recommended for the treatment of heart failure in patients with type 1 diabetes mellitus (see section 4.4).
+Forxiga 10 mg is not recommended for the treatment of heart failure or chronic kidney disease, in patients with type 1 diabetes mellitus (see section 4.4).
 
 Elderly (≥65 years)
 No dose adjustment is recommended based on age.
@@ -81,4 +85,8 @@ Tablets are to be swallowed whole.
 
 [Forxiga 10 mg film-coated tablets]
 
+In patients with diabetes mellitus, the glucose lowering efficacy of dapagliflozin is reduced when the glomerular filtration rate (GFR) is < 45 mL/min and is likely absent in patients with severe renal impairment.
+
 If well tolerated, the dose may be increased to 10 mg (see sections 4.4 and 5.2).
+
+Forxiga 10 mg is not recommended for the treatment of heart failure or chronic kidney disease in patients with type 1 diabetes mellitus (see section 4.4).

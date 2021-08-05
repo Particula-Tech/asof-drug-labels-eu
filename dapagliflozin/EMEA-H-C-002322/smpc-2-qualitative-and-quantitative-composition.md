@@ -4,7 +4,7 @@ Each tablet contains dapagliflozin propanediol monohydrate equivalent to 5 mg da
 
 Excipient with known effect
 
-Each 5 mg tablet contains 25 mg of lactose anhydrous.
+Each 5 mg tablet contains 25 mg of lactose.
 
 For the full list of excipients, see section 6.1.
 
@@ -12,4 +12,4 @@ For the full list of excipients, see section 6.1.
 
 Each tablet contains dapagliflozin propanediol monohydrate equivalent to 10 mg dapagliflozin.
 
-Each 10 mg tablet contains 50 mg of lactose anhydrous.
+Each 10 mg tablet contains 50 mg of lactose.

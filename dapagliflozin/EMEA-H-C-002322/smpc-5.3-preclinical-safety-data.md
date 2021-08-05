@@ -6,7 +6,6 @@ Dapagliflozin did not induce tumours in either mice or rats at any of the doses 
 Reproductive and developmental toxicity
 
 Direct administration of dapagliflozin to weanling juvenile rats and indirect exposure during late pregnancy (time periods corresponding to the second and third trimesters of pregnancy with respect to human renal maturation) and lactation are each associated with increased incidence and/or severity of renal pelvic and tubular dilatations in progeny.
-
 In a juvenile toxicity study, when dapagliflozin was dosed directly to young rats from postnatal day 21 until postnatal day 90, renal pelvic and tubular dilatations were reported at all dose levels; pup exposures at the lowest dose tested were ≥15 times the maximum recommended human dose.
 These findings were associated with dose-related increases in kidney weight and macroscopic kidney enlargement observed at all doses.
 The renal pelvic and tubular dilatations observed in juvenile animals did not fully reverse within the approximate 1-month recovery period.

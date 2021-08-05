@@ -33,13 +33,14 @@ In faeces, approximately 15% of the dose was excreted as parent drug.
 Linearity
 
 Dapagliflozin exposure increased proportional to the increment in dapagliflozin dose over the range of 0.1 to 500 mg and its pharmacokinetics did not change with time upon repeated daily dosing for up to 24 weeks.
-
 Special populations
 
 Renal impairment
 At steady-state (20 mg once-daily dapagliflozin for 7 days), subjects with type 2 diabetes mellitus and mild, moderate or severe renal impairment (as determined by iohexol plasma clearance) had mean systemic exposures of dapagliflozin of 32%, 60% and 87% higher, respectively, than those of subjects with type 2 diabetes mellitus and normal renal function.
 The steady-state 24-hour urinary glucose excretion was highly dependent on renal function and 85, 52, 18 and 11 g of glucose/day was excreted by subjects with type 2 diabetes mellitus and normal renal function or mild, moderate or severe renal impairment, respectively.
 The impact of haemodialysis on dapagliflozin exposure is not known.
+The effect of reduced renal function on systemic exposure was evaluated in a population pharmacokinetic model.
+Consistent with previous results, model predicted AUC was higher in patients with chronic kidney disease compared with patients with normal renal function, and was not meaningfully different in chronic kidney disease patients with type 2 diabetes mellitus and without diabetes.
 
 Hepatic impairment
 In subjects with mild or moderate hepatic impairment (Child-Pugh classes A and B), mean Cmax and AUC of dapagliflozin were up to 12% and 36% higher, respectively, compared to healthy matched control subjects.

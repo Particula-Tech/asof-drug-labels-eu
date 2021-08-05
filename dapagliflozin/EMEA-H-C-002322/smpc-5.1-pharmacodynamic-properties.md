@@ -7,10 +7,10 @@ Mechanism of action
 Dapagliflozin is a highly potent (Ki: 0.55 nM), selective and reversible inhibitor of SGLT2.
 
 Inhibition of SGLT2 by dapagliflozin reduces reabsorption of glucose from the glomerular filtrate in the proximal renal tubule with a concomitant reduction in sodium reabsorption leading to urinary excretion of glucose and osmotic diuresis.
-Dapagliflozin therefore increases the delivery of sodium to the distal tubule which is believed to increase tubuloglomerular feedback and reduce intraglomerular pressure.
-This combined with osmotic diuresis leads to a reduction in volume overload, reduced blood pressure, and lower preload and afterload, which may have beneficial effects on cardiac remodelling.
+Dapagliflozin therefore increases the delivery of sodium to the distal tubule which increases tubuloglomerular feedback and reduces intraglomerular pressure.
+This combined with osmotic diuresis leads to a reduction in volume overload, reduced blood pressure, and lower preload and afterload, which may have beneficial effects on cardiac remodelling and preserve renal function.
 Other effects include an increase in haematocrit and reduction in body weight.
-The cardiac benefits of dapagliflozin are not solely dependent on the blood glucose-lowering effect and not limited to patients with diabetes as demonstrated in the DAPA-HF study.
+The cardiac and renal benefits of dapagliflozin are not solely dependent on the blood glucose-lowering effect and not limited to patients with diabetes as demonstrated in the DAPA-HF and DAPA-CKD studies.
 
 Dapagliflozin improves both fasting and post-prandial plasma glucose levels by reducing renal glucose reabsorption leading to urinary glucose excretion.
 This glucose excretion (glucuretic effect) is observed after the first dose, is continuous over the 24-hour dosing interval and is sustained for the duration of treatment.
@@ -40,7 +40,7 @@ Clinical efficacy and safety
 
 Type 2 diabetes mellitus
 
-Both improvement of glycaemic control and reduction of cardiovascular morbidity and mortality are an integral part of the treatment of type 2 diabetes.
+Improvement of glycaemic control and reduction of cardiovascular and renal morbidity and mortality are integral parts of the treatment of type 2 diabetes.
 
 Fourteen double-blind, randomised, controlled clinical studies were conducted with 7,056 subjects with type 2 diabetes to evaluate the glycaemic efficacy and safety of Forxiga; 4,737 subjects in these studies were treated with dapagliflozin.
 Twelve studies had a treatment period of 24 weeks duration,
@@ -102,6 +102,7 @@ At week 104, adjusted mean change from baseline in HbA1c was -0.32% for dapaglif
 At week 208, adjusted mean change from baseline in HbA1c was -0.10% for dapagliflozin and 0.20% for glipizide.
 At 52, 104 and 208 weeks, a significantly lower proportion of subjects in the group treated with dapagliflozin (3.5%, 4.3% and 5.0%, respectively) experienced at least one event of hypoglycaemia compared to the group treated with glipizide (40.8%, 47.0% and 50.0%, respectively).
 The proportion of subjects remaining in the study at week 104 and week 208 was 56.2% and 39.7% for the group treated with dapagliflozin and 50.0% and 34.6% for the group treated with glipizide.
+
 Table 4.
 Results at week 52 (LOCFa) in an active-controlled study comparing dapagliflozin to glipizide as add-on to metformin
 
@@ -417,7 +418,7 @@ In total, 22.4% had had diabetes for ≤5 years, mean duration of diabetes was 1
 Mean HbA1c was 8.3% and mean BMI was 32.1 kg/m2.
 
 At baseline, 10.0% of patients had a history of heart failure.
-Mean eGFR was 85.2 mL/min/1.73 m2, 7.4% of patients had eGFR < 60 mL/min/1.73 m2, and 30.3% of patients had micro- or macroalbuminuria (urine albumin to creatinine ratio [UACR] ≥30 to ≤300 mg/g or > 300 mg/g, respectively).
+Mean eGFR was 85.2 mL/min/1.73 m2, 7.4% of patients had eGFR < 60 mL/min/1.73 m2, and 30.3% of patients had micro- or macroalbuminuria (UACR ≥30 to ≤300 mg/g or > 300 mg/g, respectively).
 
 Most patients (98%) used one or more diabetic medicinal products at baseline, including metformin (82%), insulin (41%) and sulfonylurea (43%).
 
@@ -443,17 +444,17 @@ The renal composite endpoint and all-cause mortality were therefore not tested a
 
 Figure 2: Treatment effects for the primary composite endpoints and their components, and the secondary endpoints and components
 
-Renal composite endpoint defined as: sustained confirmed ≥40% decrease in eGFR to eGFR <60 mL/min/1.73 m2 and/or end-stage renal disease (dialysis ≥90 days or kidney transplantation, sustained confirmed eGFR < 15 mL/min/1.73 m2) and/or renal or cardiovascular death.
+Renal composite endpoint defined as: sustained confirmed ≥40% decrease in eGFR to eGFR <60 mL/min/1.73 m2 and/or end-stage kidney disease (dialysis ≥90 days or kidney transplantation, sustained confirmed eGFR < 15 mL/min/1.73 m2) and/or renal or cardiovascular death.
 p-values are two-sided. p-values for the secondary endpoints and for single components are nominal.
 Time to first event was analysed in a Cox proportional hazards model.
 The number of first events for the single components are the actual number of first events for each component and does not add up to the number of events in the composite endpoint.
 CI=confidence interval.
 
 Nephropathy
-Dapagliflozin reduced the incidence of events of the composite of confirmed sustained eGFR decrease, end-stage renal disease, renal or cardiovascular death.
-The difference between groups was driven by reductions in events of the renal components; sustained eGFR decrease, end-stage renal disease and renal death (Figure 2).
+Dapagliflozin reduced the incidence of events of the composite of confirmed sustained eGFR decrease, end-stage kidney disease, renal or cardiovascular death.
+The difference between groups was driven by reductions in events of the renal components; sustained eGFR decrease, end-stage kidney disease and renal death (Figure 2).
 
-The hazard ratio (HR) for time to nephropathy (sustained eGFR decrease, end-stage renal disease and renal death) was 0.53 (95% CI 0.43, 0.66) for dapagliflozin versus placebo.
+The hazard ratio (HR) for time to nephropathy (sustained eGFR decrease, end-stage kidney disease and renal death) was 0.53 (95% CI 0.43, 0.66) for dapagliflozin versus placebo.
 
 In addition, dapagliflozin reduced the new onset of sustained albuminuria (HR 0.79
 [95% CI 0.72, 0.87]) and led to greater regression of macroalbuminuria (HR 1.82 [95% CI 1.51, 2.20]) compared with placebo.
@@ -531,7 +532,7 @@ The mean age of the study population was 66 years, 77% were male.
 
 At baseline, 67.5% of the patients were classified as NYHA class II, 31.6% class III and 0.9% class IV, median LVEF was 32%, 56% of the heart failures were ischaemic, 36% were non-ischaemic and 8% were of unknown aetiology.
 In each treatment group, 42% of the patients had a history of type 2 diabetes mellitus, and an additional 3% of the patients in each group were classified as having type 2 diabetes mellitus based on a HbA1c ≥6.5% at both enrolment and randomisation.
-Patients were on standard of care therapy; 94% of patients were treated with ACE-I, ARB or angiotensin receptor-neprilysin inhibitor (ARNI, 11%), 96% with beta-blocker, 71% with mineralocorticoid receptor antagonist (MRA), 93% with diuretic and 26% had an implantable device.
+Patients were on standard of care therapy; 94% of patients were treated with ACE-I, ARB or angiotensin receptor-neprilysin inhibitor (ARNI, 11%), 96% with beta-blocker, 71% with mineralocorticoid receptor antagonist (MRA), 93% with diuretic and 26% had an implantable device (with defibrillator function).
 
 Patients with eGFR ≥30 mL/min/1.73 m2 at enrolment were included in the study.
 The mean eGFR was 66 mL/min/1.73 m2, 41% of patients had eGFR < 60mL/min/1.73 m2 and 15% had eGFR < 45 mL/min/1.73 m2.
@@ -547,7 +548,7 @@ Patients at risk is the number of patients at risk at the beginning of the perio
 
 All three components of the primary composite endpoint individually contributed to the treatment effect (Figure 4).
 There were few urgent heart failure visits.
-Figure 4 Treatment effects for the primary composite endpoint, its components and all-cause mortality
+Figure 4: Treatment effects for the primary composite endpoint, its components and all-cause mortality
 
 Characteristics HR (95% CI) Subjects with event Hazard Ratio P-value
 (event rate) (95% CI)
@@ -593,7 +594,8 @@ In responder analyses, the proportion of patients with a clinically meaningful i
 The proportion of patients with a clinically meaningful deterioration, defined as 5 points or more, was lower for the dapagliflozin treatment group compared to placebo.
 The benefits observed with dapagliflozin remained when applying more conservative cut-offs for larger clinically meaningful change (Table 12).
 
-Table 12 Number and percent of patients with clinically meaningful improvement and deterioration on the KCCQ-TSS at 8 months
+Table 12.
+Number and percent of patients with clinically meaningful improvement and deterioration on the KCCQ-TSS at 8 months
 Dapagliflozin Placebo
 
 Change from baseline at 8 months: 10 mg na=2062
@@ -636,13 +638,60 @@ e For deterioration, an odds ratio < 1 favours dapagliflozin 10 mg.
 f p-values are nominal.
 
 Nephropathy
-There were few events of the renal composite endpoint (confirmed sustained ≥50% eGFR decrease, ESRD, or renal death); the incidence was 1.2% in the dapagliflozin group and 1.6% in the placebo group.
+There were few events of the renal composite endpoint (confirmed sustained ≥50% eGFR decrease, ESKD, or renal death); the incidence was 1.2% in the dapagliflozin group and 1.6% in the placebo group.
 
+Chronic kidney disease
+
+The Study to Evaluate the Effect of Dapagliflozin on Renal Outcomes and Cardiovascular Mortality in Patients with Chronic Kidney Disease (DAPA-CKD) was an international, multicentre, randomised, double-blind, placebo-controlled study in patients with chronic kidney disease (CKD) with eGFR ≥25 to ≤75 mL/min/1.73 m2 and albuminuria (UACR ≥200 and ≤5000 mg/g) to determine the effect of dapagliflozin compared with placebo, when added to background standard of care therapy, on the incidence of the composite endpoint of ≥50% sustained decline in eGFR, end-stage kidney disease (ESKD) (defined as sustained eGFR < 15 mL/min/1.73 m2, chronic dialysis treatment or receiving a renal transplant), cardiovascular or renal death.
+
+Of 4,304 patients, 2,152 were randomised to dapagliflozin 10 mg and 2,152 to placebo and followed for a median of 28.5 months.
+Treatment was continued if eGFR fell to levels below 25 mL/min/1.73 m2 during the study and could be continued in cases when dialysis was needed.
+
+The mean age of the study population was 61.8 years, 66.9% were male.
+At baseline, mean eGFR was 43.1 mL/min/1.73 m2 and median UACR was 949.3 mg/g, 44.1% of patients had eGFR 30 to
+< 45 mL/min/1.73 m2 and 14.5% had eGFR < 30 mL/min/1.73 m2.
+67.5% of the patients had type 2 diabetes mellitus.
+Patients were on standard of care (SOC) therapy; 97.0% of patients were treated with an angiotensin-converting enzyme inhibitor (ACEi) or angiotensin receptor blocker (ARB).
+
+The study was stopped early for efficacy prior to the planned analysis based on a recommendation by the independent Data Monitoring Committee.
+Dapagliflozin was superior to placebo in preventing the primary composite endpoint of ≥50% sustained decline in eGFR, reaching end-stage kidney disease, cardiovascular or renal death.
+Based on the Kaplan-Meier plot for the time to first occurrence of the primary composite endpoint, the treatment effect was evident beginning at 4 months and was maintained through the end of study (Figure 5).
+
+Figure 5: Time to first occurrence of the primary composite endpoint, ≥50% sustained decline in eGFR, end-stage kidney disease, cardiovascular or renal death
+
+Placebo
+
+Dapagliflozin
+
+HR (95%CI): P-value:
+
+Months from randomisation
+Patients at risk
+Dapagliflozin:
+Placebo:
+
+Patients at risk is the number of patients at risk at the beginning of the period.
+
+All four components of the primary composite endpoint individually contributed to the treatment effect.
+Dapagliflozin also reduced the incidence of the composite endpoint of ≥50% sustained decline in eGFR, end-stage kidney disease or renal death and the composite endpoint of cardiovascular death and hospitalisation for heart failure.
+Treatment with dapagliflozin improved overall survival in chronic kidney disease patients with a significant reduction in all-cause mortality (Figure 6).
+Figure 6: Treatment effects for the primary and secondary composite endpoints, their individual components, and all-cause mortality
+
+The number of first events for the single components are the actual number of first events for each component and does not add up to the number of events in the composite endpoint.
+Event rates are presented as the number of subjects with event per 100 patient years of follow-up.
+Hazard ratio estimates are not presented for subgroups with less than 15 events in total, both arms combined.
+
+The treatment benefit of dapagliflozin was consistent in chronic kidney disease patients with type 2 diabetes mellitus and without diabetes.
+Dapagliflozin reduced the primary composite endpoint of
+≥50% sustained decline in eGFR, reaching end-stage kidney disease, cardiovascular or renal death with a HR of 0.64 (95% CI 0.52, 0.79) in patients with type 2 diabetes mellitus and
+0.50 (95% CI 0.35, 0.72) in patients without diabetes.
+
+The treatment benefit of dapagliflozin over placebo on the primary endpoint was also consistent across other key subgroups, including eGFR, age, gender, and region.
 Paediatric population
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with dapagliflozin in one or more subsets of the paediatric population in the treatment of type 2 diabetes mellitus and type 1 diabetes mellitus (see section 4.2 for information on paediatric use).
 
-The European Medicines Agency has waived the obligation to submit the results of studies with dapagliflozin in all subsets of the paediatric population in the prevention of cardiovascular events in patients with chronic heart failure (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with dapagliflozin in all subsets of the paediatric population in the prevention of cardiovascular events in patients with chronic heart failure and in the treatment of chronic kidney disease (see section 4.2 for information on paediatric use).
 
 [Forxiga 10 mg film-coated tablets]
 
@@ -666,8 +715,41 @@ The combination of dapagliflozin 10 mg and prolonged-release exenatide demonstra
 
 Treatment with dapagliflozin resulted in reductions in HbA1c and body weight compared with placebo (Table 9).
 
-The benefits observed with dapagliflozin remained when applying more conservative cut-offs for larger clinically meaningful change (Table 10).
+Dapagliflozin Placebo Hazard Ratio p-value
+n (%) n (%) (95% CI)
+(N=8582) (N=8578)
 
-Table 10 Number and percent of patients with clinically meaningful improvement and deterioration on the KCCQ-TSS at 8 months
+Primary endpoints
+
+Composite of hospitalisation for 417 (4.9) 496 (5.8) 0.83 (0.73, 0.95) 0.005
+
+heart failure/cardiovascular death
+
+Composite of cardiovascular death/ 756 (8.8) 803 (9.4) 0.93 (0.84, 1.03) 0.172
+
+myocardial infarction/ischaemic stroke
+
+Components of the composite endpoints
+
+Hospitalisation for heart failure 212 (2.5) 286 (3.3) 0.73 (0.61, 0.88) <0.001
+Cardiovascular death 245 (2.9) 249 (2.9) 0.98 (0.82, 1.17) 0.830
+Myocardial infarction 393 (4.6) 441 (5.1) 0.89 (0.77, 1.01) 0.080
+Ischaemic stroke 235 (2.7) 231 (2.7) 1.01 (0.84, 1.21) 0.916
+
+Secondary endpoints
+
+Renal composite endpoint 370 (4.3) 480 (5.6) 0.76 (0.67, 0.87) <0.001
+
+Renal components:
+
+Sustained eGFR decrease 120 (1.4) 221 (2.6) 0.54 (0.43, 0.67) <0.001
+End-stage kidney disease 6 (<0.1) 19 (0.2) 0.31 (0.13, 0.79) 0.013
+Renal death 6 (<0.1) 10 (0.1) 0.60 (0.22, 1.65) 0.324
+All-cause mortality 529 (6.2) 570( 6.6) 0.93 (0.82, 1.04) 0.198
+Dapagliflozin Better Placebo Better
+
+0.2 0.4 0.6 0.8 1 1.2 1.6
+
+The benefits observed with dapagliflozin remained when applying more conservative cut-offs for larger clinically meaningful change (Table 10).
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with dapagliflozin in one or more subsets of the paediatric population in the treatment of type 2 diabetes (see section 4.2 for information on paediatric use).

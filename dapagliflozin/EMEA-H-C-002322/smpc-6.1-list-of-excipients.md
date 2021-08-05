@@ -12,6 +12,6 @@ Film-coating
 
 Polyvinyl alcohol (E1203)
 Titanium dioxide (E171)
-Macrogol 3350
+Macrogol 3350 (E1521)
 Talc (E553b)
 Iron oxide yellow (E172)

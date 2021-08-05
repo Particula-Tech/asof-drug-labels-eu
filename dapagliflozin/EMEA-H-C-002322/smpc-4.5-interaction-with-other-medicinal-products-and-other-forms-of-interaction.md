@@ -30,12 +30,12 @@ A clinically relevant effect with other inducers (e.g. carbamazepine, phenytoin,
 
 Following coadministration of dapagliflozin with mefenamic acid (an inhibitor of UGT1A9), a 55% increase in dapagliflozin systemic exposure was seen, but with no clinically meaningful effect on 24-hour urinary glucose excretion.
 No dose adjustment is recommended.
-
 Effect of dapagliflozin on other medicinal products
 
 In interaction studies conducted in healthy subjects, using mainly a single-dose design, dapagliflozin did not alter the pharmacokinetics of metformin, pioglitazone, sitagliptin, glimepiride, hydrochlorothiazide, bumetanide, valsartan, digoxin (a P-gp substrate) or warfarin (S-warfarin, a CYP2C9 substrate), or the anticoagulatory effects of warfarin as measured by INR.
 Combination of a single dose of dapagliflozin 20 mg and simvastatin (a CYP3A4 substrate) resulted in a 19% increase in AUC of simvastatin and 31% increase in AUC of simvastatin acid.
 The increase in simvastatin and simvastatin acid exposures are not considered clinically relevant.
+
 Interference with 1,5-anhydroglucitol (1,5-AG) assay
 
 Monitoring glycaemic control with 1,5-AG assay is not recommended as measurements of 1,5-AG are unreliable in assessing glycaemic control in patients taking SGLT2 inhibitors.

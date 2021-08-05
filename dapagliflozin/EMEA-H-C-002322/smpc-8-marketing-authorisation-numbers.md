@@ -13,3 +13,4 @@ EU/1/12/795/007 28 film-coated tablets
 EU/1/12/795/008 98 film-coated tablets
 EU/1/12/795/009 30 x 1 (unit dose) film-coated tablets
 EU/1/12/795/010 90 x 1 (unit dose) film-coated tablets
+EU/1/12/795/011 10 x 1 (unit dose) film-coated tablets

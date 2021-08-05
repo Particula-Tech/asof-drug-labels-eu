@@ -2,24 +2,12 @@
 
 Renal impairment
 
-Treatment of diabetes mellitus
-The glycaemic efficacy of dapagliflozin is dependent on renal function, and efficacy is reduced in patients who have moderate renal impairment and is likely absent in patients with severe renal impairment (see sections 4.2, 5.1 and 5.2).
-In subjects with moderate renal impairment
-(GFR < 60 mL/min), a higher proportion of subjects treated with dapagliflozin had adverse reactions of increase in creatinine, phosphorus, parathyroid hormone (PTH) and hypotension, compared with placebo.
+Due to limited experience, it is not recommended to initiate treatment with dapagliflozin in patients with GFR < 25 mL/min.
 
-To improve glycaemic control in the treatment of diabetes mellitus, Forxiga should not be initiated in patients with a GFR < 60 mL/min and should be discontinued at GFR persistently below 45 mL/min.
-Forxiga has not been studied in severe renal impairment (GFR < 30 mL/min) or end-stage renal disease (ESRD).
+The glucose lowering efficacy of dapagliflozin is dependent on renal function, and is reduced in patients with GFR < 45 mL/min and is likely absent in patients with severe renal impairment (see sections 4.2, 5.1 and 5.2).
 
-Monitoring of renal function is recommended as follows:
-
-- Prior to initiation of dapagliflozin and at least yearly, thereafter (see sections 4.2, 4.8, 5.1 and 5.2).
-- Prior to initiation of concomitant medicinal products that may reduce renal function and periodically thereafter.
-- For renal function with GFR < 60 mL/min, at least 2 to 4 times per year.
-
-Treatment of heart failure
-There is limited experience with dapagliflozin for the treatment of heart failure in patients with severe renal impairment (GFR < 30 mL/min).
-
-In patients treated with dapagliflozin for both heart failure and type 2 diabetes mellitus, additional glucose-lowering treatment should be considered if GFR falls persistently below 45 mL/min.
+In one study in patients with type 2 diabetes mellitus with moderate renal impairment
+(GFR < 60 mL/min), a higher proportion of patients treated with dapagliflozin had adverse reactions of increase in creatinine, phosphorus, parathyroid hormone (PTH) and hypotension, compared with placebo.
 
 Hepatic impairment
 
@@ -59,10 +47,10 @@ In patients where DKA is suspected or diagnosed, dapagliflozin treatment should 
 Restarting SGLT2 inhibitor treatment in patients experiencing a DKA while on SGLT2 inhibitor treatment is not recommended, unless another clear precipitating factor is identified and resolved.
 
 Type 1 diabetes mellitus
-Dapagliflozin has not been studied for the treatment of heart failure in patients with type 1 diabetes mellitus.
+Dapagliflozin has not been studied for the treatment of heart failure or chronic kidney disease in patients with type 1 diabetes mellitus.
 Treatment of these patients with dapagliflozin 10 mg is not recommended.
-
 In type 1 diabetes mellitus studies with dapagliflozin, patients had a higher number of DKA events compared with the placebo group (see section 4.8).
+
 Before initiating dapagliflozin
 Before starting treatment, patients should be evaluated with respect to DKA risk.
 Dapagliflozin should not be initiated when patients are at a higher risk of DKA, such as:
@@ -133,12 +121,16 @@ Cardiac failure
 
 Experience with dapagliflozin in NYHA class IV is limited.
 
+Chronic kidney disease
+
+There is no experience with dapagliflozin for the treatment of chronic kidney disease in patients without diabetes who do not have albuminuria.
+Patients with albuminuria may benefit more from treatment with dapagliflozin.
+
 Lower limb amputations
 
 An increase in cases of lower limb amputation (primarily of the toe) has been observed in long-term, clinical studies in type 2 diabetes mellitus with SGLT2 inhibitors.
 It is unknown whether this constitutes a class effect.
 It is important to counsel patients with diabetes on routine preventative foot care.
-
 Urine laboratory assessments
 
 Due to its mechanism of action, patients taking Forxiga will test positive for glucose in their urine.
