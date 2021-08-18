@@ -13,6 +13,7 @@ Coadministration of tofacitinib with potent CYP inducers (e.g., rifampicin) may 
 Coadministration of potent inducers of CYP3A4 with tofacitinib is not recommended.
 Coadministration with ketoconazole and fluconazole increased tofacitinib Cmax, while tacrolimus, ciclosporine and rifampicin decreased tofacitinib Cmax.
 Concomitant administration with MTX 15-25 mg once weekly had no effect on the PK of tofacitinib in RA patients (see Figure 1).
+
 Figure 1.
 Impact of other medicinal products on PK of tofacitinib
 
@@ -24,7 +25,7 @@ CYP3A Inhibitor Ketoconazole AUC Tofacitinib dose should be reduced a
 
 Cmax
 
-CYP3A & CYP2C19 Inhibitor Fluconazole AUC Tofacitinib dose should be reduced a
+CYP3A & CYP2C19 InhibitorFluconazole AUC Tofacitinib dose should be reduced a
 
 Cmax
 
@@ -34,11 +35,23 @@ Cmax
 
 Methotrexate AUC No dose adjustment
 
-Cmax
+|  | AUC |
+| --- | --- |
+| Cmax |  |
 
 Tacrolimus AUC Combined use of tofacitinib with
+
+|  | AUC |
+| --- | --- |
+| Cmax |  |
+
 Cmax tacrolimus should be avoided
 Ciclosporine AUC Combined use of tofacitinib with
+
+|  | AUC |
+| --- | --- |
+| Cmax |  |
+
 Cmax ciclosporine should be avoided
 
 0 0.5 1 1.5 2 2.5
@@ -50,10 +63,21 @@ Tofacitinib dose should be reduced to 5 mg once daily in patients receiving 5 mg
 Potential for tofacitinib to influence the PK of other medicinal products
 
 Coadministration of tofacitinib did not have an effect on the PK of oral contraceptives, levonorgestrel and ethinyl estradiol, in healthy female volunteers.
-
 In RA patients, coadministration of tofacitinib with MTX 15-25 mg once weekly decreased the AUC and Cmax of MTX by 10% and 13%, respectively.
 The extent of decrease in MTX exposure does not warrant modifications to the individualised dosing of MTX.
+
+Paediatric population
+
+Interaction studies have only been performed in adults.
 
 [XELJANZ 11 mg prolonged-release tablets]
 
 a Tofacitinib dose should be reduced to 5 mg (as film-coated tablet) once daily in patients receiving 11 mg (as prolonged-release tablet) once daily (see section 4.2).
+
+[XELJANZ 1 mg/mL oral solution]
+
+CYP3A Inhibitor Ketoconazol AUC Tofacitinib dose should be reduced a
+
+CYP3A & CYP2C19 Inhibitor Fluconazole AUC Tofacitinib dose should be reduced a
+
+a Tofacitinib dose should be reduced to 5 mg film-coated tablet once daily or oral solution weight-based equivalent in patients receiving 5 mg or weight-based equivalent twice daily (see section 4.2).

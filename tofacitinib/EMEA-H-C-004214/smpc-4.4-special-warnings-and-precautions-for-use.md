@@ -5,7 +5,6 @@ Combination with other therapies
 Tofacitinib has not been studied and its use should be avoided in combination with biologics such as TNF antagonists, interleukin (IL)-1R antagonists, IL-6R antagonists, anti-CD20 monoclonal antibodies, IL-17 antagonists, IL-12/IL-23 antagonists, anti-integrins, selective co-stimulation modulators and potent immunosuppressants such as azathioprine, 6-mercaptopurine, ciclosporine and tacrolimus because of the possibility of increased immunosuppression and increased risk of infection.
 
 There was a higher incidence of adverse events for the combination of tofacitinib with MTX versus tofacitinib as monotherapy in RA clinical studies.
-
 The use of tofacitinib in combination with phosphodiesterase 4 inhibitors has not been studied in tofacitinib clinical studies.
 
 Venous thromboembolism (VTE)
@@ -13,7 +12,7 @@ Venous thromboembolism (VTE)
 Serious VTE events including pulmonary embolism (PE), some of which were fatal, and deep vein thrombosis (DVT), have been observed in patients taking tofacitinib.
 A dose dependent increased risk for VTE was observed in a clinical study with tofacitinib compared to TNF inhibitors (see sections 4.8 and 5.1).
 
-Tofacitnib should be used with caution in patients with known risk factors for VTE, regardless of indication and dosage.
+Tofacitinib should be used with caution in patients with known risk factors for VTE, regardless of indication and dosage.
 
 Tofacitinib 10 mg twice daily for maintenance treatment is not recommended in patients with UC who have known VTE risk factors, unless there is no suitable alternative treatment available (see section 4.2).
 
@@ -30,6 +29,7 @@ The risk of opportunistic infections is higher in Asian geographic regions (see 
 Rheumatoid arthritis patients taking corticosteroids may be predisposed to infection.
 
 Tofacitinib should not be initiated in patients with active infections, including localised infections.
+
 The risks and benefits of treatment should be considered prior to initiating tofacitinib in patients:
 
 - with recurrent infections,
@@ -44,7 +44,6 @@ A patient who develops a new infection during treatment with tofacitinib should 
 
 As there is a higher incidence of infections in the elderly and in the diabetic populations in general, caution should be used when treating the elderly and patients with diabetes (see section 4.8).
 In patients over 65 years of age tofacitinib should only be considered if no suitable alternative treatment is available (see section 5.1).
-
 Risk of infection may be higher with increasing degrees of lymphopenia and consideration should be given to lymphocyte counts when assessing individual patient risk of infection.
 Discontinuation and monitoring criteria for lymphopenia are discussed in section 4.2.
 
@@ -89,12 +88,11 @@ The effect of tofacitinib on the development of lymphoma is uncertain.
 Other malignancies were observed in clinical studies and the post-marketing setting, including, but not limited to, lung cancer, breast cancer, melanoma, prostate cancer, and pancreatic cancer.
 
 The effect of tofacitinib on the development and course of malignancies is not known.
-
 Non-melanoma skin cancer
 
 NMSCs have been reported in patients treated with tofacitinib.
 The risk of NMSC may be higher in patients treated with tofacitinib 10 mg twice daily than in patients treated with 5 mg twice daily.
-Periodic skin examination is recommended for patients who are at increased risk for skin cancer (see Table 7 in section 4.8).
+Periodic skin examination is recommended for patients who are at increased risk for skin cancer (see Table 8 in section 4.8).
 
 Interstitial lung disease
 
@@ -137,13 +135,13 @@ For recommended modifications based on lymphocyte counts, see section 4.2.
 
 Neutrophils
 Treatment with tofacitinib was associated with an increased incidence of neutropenia (less than 2,000 cells/mm3) compared to placebo.
-It is not recommended to initiate tofacitinib treatment in patients with an ANC less than 1,000 cells/mm3.
+It is not recommended to initiate tofacitinib treatment in adult patients with an ANC less than 1,000 cells/mm3 and in paediatric patients with an ANC less than 1,200 cells/mm3.
 ANC should be monitored at baseline and after 4 to 8 weeks of treatment and every 3 months thereafter.
 For recommended modifications based on ANC, see section 4.2.
 
 Haemoglobin
 Treatment with tofacitinib has been associated with decreases in haemoglobin levels.
-It is not recommended to initiate tofacitinib treatment in patients with a haemoglobin value less than 9 g/dL.
+It is not recommended to initiate tofacitinib treatment in adult patients with a haemoglobin value less than 9 g/dL and in paediatric patients with a haemoglobin value less than 10 g/dL.
 Haemoglobin should be monitored at baseline and after 4 to 8 weeks of treatment and every 3 months thereafter.
 For recommended modifications based on haemoglobin level, see section 4.2.
 
@@ -156,7 +154,7 @@ Increases in total and LDL cholesterol associated with tofacitinib may be decrea
 
 Vaccinations
 
-Prior to initiating tofacitinib, it is recommended that all patients be brought up to date with all immunisations in agreement with current immunisation guidelines.
+Prior to initiating tofacitinib, it is recommended that all patients, particularly pJIA and jPsA patients, be brought up to date with all immunisations in agreement with current immunisation guidelines.
 It is recommended that live vaccines not be given concurrently with tofacitinib.
 The decision to use live vaccines prior to tofacitinib treatment should take into account the pre-existing immunosuppression in a given patient.
 
@@ -164,26 +162,30 @@ Prophylactic zoster vaccination should be considered in accordance with vaccinat
 Particular consideration should be given to patients with longstanding RA who have previously received two or more biological DMARDs.
 If live zoster vaccine is administered; it should only be administered to patients with a known history of chickenpox or those that are seropositive for varicella zoster virus (VZV).
 If the history of chickenpox is considered doubtful or unreliable it is recommended to test for antibodies against VZV.
+
 Vaccination with live vaccines should occur at least 2 weeks but preferably 4 weeks prior to initiation of tofacitinib or in accordance with current vaccination guidelines regarding immunomodulatory medicinal products.
 No data are available on the secondary transmission of infection by live vaccines to patients receiving tofacitinib.
 
-Excipient information
+Excipients contents
 
 This medicinal product contains lactose.
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per tablet.
-Patients on low sodium diets can be informed that this medicinal product is essentially ‘sodium-free’.
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
 
 [XELJANZ 11 mg prolonged-release tablets]
 
-Tofacitinib should be used with caution in patients with known risk factors for VTE, regardless of indication and dosage.
+Periodic skin examination is recommended for patients who are at increased risk for skin cancer (see Table 7 in section 4.8).
 
 For recommended modifications based on lymphocyte counts (see section 4.2).
 
+It is not recommended to initiate tofacitinib treatment in patients with an ANC less than 1,000 cells/mm3.
 For recommended modifications based on ANC (see section 4.2).
 
+It is not recommended to initiate tofacitinib treatment in patients with a haemoglobin value less than 9 g/dL.
 For recommended modifications based on haemoglobin level (see section 4.2).
+
+Prior to initiating tofacitinib, it is recommended that all patients be brought up to date with all immunisations in agreement with current immunisation guidelines.
 
 Gastrointestinal obstruction with a non-deformable prolonged-release formulation
 
@@ -194,3 +196,28 @@ Tofacitinib prolonged-release tablets contain sorbitol.
 The additive effect of concomitantly administered products containing sorbitol (or fructose) and dietary intake of sorbitol (or fructose) should be taken into account.
 
 The content of sorbitol in medicinal products for oral use may affect the bioavailability of other medicinal products for oral use administered concomitantly.
+
+[XELJANZ 1 mg/mL oral solution]
+
+Tofacitnib should be used with caution in patients with known risk factors for VTE, regardless of indication and dosage.
+
+As there is a higher incidence of infections in the diabetic populations in general, caution should be used when treating patients with diabetes (see section 4.8).
+
+RA patients have an increased risk for cardiovascular disorders.
+
+It is not recommended to initiate tofacitinib treatment in adult patients with a haemoglobin value less than 9 g/dL and in paediatric patients with haemoglobin value less than 10 g/dL.
+
+Propylene glycol
+This medicinal product contains 2.39 mg propylene glycol in each mL.
+
+Examples of propylene glycol exposures based on daily doses (see section 4.2) are as follows:
+
+- A dose of 3.2 mg twice daily of XELJANZ 1 mg/mL oral solution administered to a child weighing 10 kg to < 20 kg would result in a propylene glycol exposure of 1.53 mg/kg/day.
+- A dose of 4 mg twice daily of XELJANZ 1 mg/mL oral solution administered to a child weighing 20 kg to <40 kg would result in a propylene glycol exposure of 0.96 mg/kg/day.
+- A dose of 5 mg twice daily of XELJANZ 1 mg/mL oral solution administered to a child weighing ≥40 kg would result in a propylene glycol exposure of 0.60 mg/kg/day.
+
+Sodium benzoate
+This medicinal product contains 0.9 mg sodium benzoate in each mL.
+
+Sodium
+This medicinal product contains less than 1 mmol sodium (23 mg) per mL, that is to say essentially ‘sodium-free’.

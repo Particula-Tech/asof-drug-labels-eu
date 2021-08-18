@@ -35,7 +35,6 @@ The available data have also shown that there are no major differences in tofaci
 An approximate linear relationship between body weight and volume of distribution was observed, resulting in higher peak (Cmax) and lower trough (Cmin) concentrations in lighter patients.
 However, this difference is not considered to be clinically relevant.
 The between-subject variability (percentage coefficient of variation) in AUC of tofacitinib is estimated to be approximately 27%.
-
 Results from population PK analysis in patients with active PsA or moderate to severe UC were consistent with those in patients with RA.
 
 Renal impairment
@@ -50,7 +49,7 @@ Hepatic impairment
 Subjects with mild (Child Pugh A) and moderate (Child Pugh B) hepatic impairment had 3%, and 65% higher AUC, respectively, compared to subjects with normal hepatic function.
 In clinical trials, tofacitinib was not evaluated in subjects with severe (Child Pugh C) hepatic impairment (see sections 4.2 and 4.4), or in patients screened positive for hepatitis B or C.
 
-Drug interactions
+Interactions
 
 Tofacitinib is not an inhibitor or inducer of CYPs (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4) and is not an inhibitor of UGTs (UGT1A1, UGT1A4, UGT1A6, UGT1A9, and UGT2B7).
 Tofacitinib is not an inhibitor of MDR1, OATP1B1/1B3, OCT2, OAT1/3, or MRP at clinically meaningful concentrations.
@@ -58,6 +57,14 @@ Tofacitinib is not an inhibitor of MDR1, OATP1B1/1B3, OCT2, OAT1/3, or MRP at cl
 Comparison of PK of prolonged-release and film-coated tablet formulations
 
 Tofacitinib 11 mg prolonged-release tablets once daily have demonstrated PK equivalence (AUC and Cmax) to tofacitinib 5 mg film-coated tablets twice daily.
+
+Paediatric population
+
+Pharmacokinetics in paediatric patients with juvenile idiopathic arthritis
+Population PK analysis based on results from both tofacitinib 5 mg film-coated tablets twice daily and tofacitinib oral solution weight-based equivalent twice daily indicated that tofacitinib clearance and volume of distribution both decreased with decreasing body weight in JIA patients.
+The available data indicated that there were no clinically relevant differences in tofacitinib exposure (AUC), based on age, race, gender, patient type or baseline disease severity.
+The between-subject variability
+(% coefficient of variation) in (AUC) was estimated to be approximately 24%.
 
 [XELJANZ 11 mg prolonged-release tablets]
 
@@ -68,3 +75,7 @@ Steady-state AUC and Cmax of tofacitinib for tofacitinib 11 mg prolonged-release
 Coadministration of tofacitinib 11 mg prolonged-release tablet with a high-fat meal resulted in no changes in AUC while Cmax was increased by 27%.
 
 Results from population PK analysis in patients with active PsA were consistent with those in patients with RA.
+
+[XELJANZ 1 mg/mL oral solution]
+
+(all sentences already above)

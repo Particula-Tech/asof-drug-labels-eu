@@ -19,3 +19,12 @@ cellulose acetate hydroxypropyl cellulose (E463) hypromellose (E464) titanium di
 Printing ink
 
 shellac (E904) ammomium hydroxide (E527) propylene glycol (E1520) black iron oxide (E172)
+
+[XELJANZ 1 mg/mL oral solution]
+
+Grape flavour [containing propylene glycol (E1520), glycerin (E422), and natural flavours] Hydrochloric acid
+Lactic acid (E270)
+Purified water
+Sodium benzoate (E211)
+Sucralose (E955)
+Xylitol (E967)

@@ -21,3 +21,13 @@ For the full list of excipients, see section 6.1.
 Each prolonged-release tablet contains tofacitinib citrate, equivalent to 11 mg tofacitinib.
 
 Each prolonged-release tablet contains 152.23 mg of sorbitol.
+
+[XELJANZ 1 mg/mL oral solution]
+
+Each mL of oral solution contains tofacitinib citrate, equivalent to 1 mg tofacitinib.
+
+Excipient(s) with known effect
+
+Each mL of oral solution contains 2.39 mg propylene glycol.
+
+Each mL of oral solution contains 0.9 mg of sodium benzoate.
