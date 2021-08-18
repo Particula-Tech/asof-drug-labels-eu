@@ -47,9 +47,22 @@ Gastrointestinal dysfunction
 There are limited pharmacokinetic data in patients with severe gastrointestinal dysfunction (such as severe diarrhoea).
 Patients who have severe diarrhoea or vomiting should be monitored closely for breakthrough fungal infections.
 
-Excipients
+Glucose
 This medicinal product contains approximately 1.75 g of glucose per 5 mL of suspension.
-Patients with glucose-galactose malabsorption should not take this medicine.
+Patients with rare glucose-galactose malabsorption should not take this medicine.
+
+Sodium
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ‘sodium-free’.
+
+Sodium benzoate
+This medicinal product contains 10 mg of sodium benzoate (E211) per 5 mL of suspension.
+
+Benzyl alcohol
+This medicinal product contains up to 1.25 mg of benzyl alcohol per 5 mL of suspension.
+Benzyl alcohol may cause anaphylactoid reactions.
+
+Propylene glycol
+This medicinal product contains up to 24.75 mg of propylene glycol (E1520) per 5 mL of suspension.
 
 [Noxafil 100 mg gastro-resistant tablets]
 
@@ -59,6 +72,8 @@ Plasma exposure
 Posaconazole plasma concentrations following administration of posaconazole tablets are generally higher than those obtained with posaconazole oral suspension.
 Posaconazole plasma concentrations following administration of posaconazole tablets may increase over time in some patients (see section 5.2).
 Safety data at higher exposure levels achieved with posaconazole tablets are at present limited.
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
 
 [Noxafil 300 mg concentrate for solution for infusion]
 
@@ -80,6 +95,10 @@ Thromboembolic events have been identified as a potential risk for posaconazole 
 Thrombophlebitis was observed in clinical trials.
 Caution is warranted on any sign or symptom of thromboembolic events (see sections 4.8 and 5.3).
 
-Sodium content
-Each vial of Noxafil contains 462 mg (20 mmol) of sodium.
-This should be taken into consideration for patients on a controlled sodium diet.
+This medicinal product contains 462 mg (20 mmol) sodium per vial, equivalent to 23 % of the WHO recommended maximum daily intake of sodium.
+The maximum daily dose of this product is equivalent to 46% of the WHO recommended maximum daily intake for sodium.
+Noxafil 300 mg concentrate for solution for infusion is considered high in sodium.
+This should be particularly taken into account for those on a low salt diet.
+
+Cyclodextrin
+This medicinal product contains 6,680 mg of cyclodextrin per vial.

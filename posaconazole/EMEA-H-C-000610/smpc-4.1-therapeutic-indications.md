@@ -12,8 +12,8 @@ Refractoriness is defined as progression of infection or failure to improve afte
 
 Noxafil oral suspension is also indicated for prophylaxis of invasive fungal infections in the following patients:
 
-- Patients receiving remission-induction chemotherapy for acute myelogenous leukemia (AML) or myelodysplastic syndromes (MDS) expected to result in prolonged neutropenia and who are at high risk of developing invasive fungal infections;
-- Hematopoietic stem cell transplant (HSCT) recipients who are undergoing high-dose immunosuppressive therapy for graft versus host disease and who are at high risk of developing invasive fungal infections.
+- Patients receiving remission-induction chemotherapy for acute myelogenous leukemia (AML) or myelodysplastic syndromes (MDS) expected to result in prolonged neutropenia and who are at high-risk of developing invasive fungal infections;
+- Hematopoietic stem cell transplant (HSCT) recipients who are undergoing high-dose immunosuppressive therapy for graft versus host disease and who are at high-risk of developing invasive fungal infections.
 
 [Noxafil 100 mg gastro-resistant tablets]
 
@@ -29,4 +29,4 @@ Noxafil concentrate for solution for infusion is indicated for use in the treatm
 
 Noxafil concentrate for solution for infusion is also indicated for prophylaxis of invasive fungal infections in the following patients:
 
-- Hematopoietic stem cell transplant (HSCT) recipients who are undergoing high-dose immunosuppressive therapy for graft versus host disease (GVHD) and who are at high risk of developing invasive fungal infections.
+- Hematopoietic stem cell transplant (HSCT) recipients who are undergoing high-dose immunosuppressive therapy for graft versus host disease (GVHD) and who are at high-risk of developing invasive fungal infections.

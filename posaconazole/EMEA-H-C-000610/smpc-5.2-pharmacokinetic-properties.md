@@ -24,18 +24,18 @@ Posaconazole is slowly eliminated with a mean half-life (t½) of 35 hours (range
 After administration of 14C-posaconazole, radioactivity was predominantly recovered in the faeces (77 % of the radiolabelled dose) with the major component being parent compound (66 % of the radiolabelled dose).
 Renal clearance is a minor elimination pathway, with 14 % of the radiolabelled dose excreted in urine (< 0.2 % of the radiolabelled dose is parent compound).
 Steady-state is attained following 7 to 10 days of multiple-dose administration.
+
 Pharmacokinetics in special populations
 Children (< 18 years)
 Following administration of 800 mg per day of posaconazole as a divided dose for treatment of invasive fungal infections, mean trough plasma concentrations from 12 patients 8 - 17 years of age (776 ng/mL) were similar to concentrations from 194 patients 18 - 64 years of age (817 ng/mL).
-Similarly, in the prophylaxis studies, the mean steady-state posaconazole average concentration (Cav) was comparable among ten adolescents (13-17 years of age) to Cav achieved in adults (≥18 years of age).
+Similarly, in the prophylaxis studies, the mean steady-state posaconazole average concentration (Cav) was comparable among ten adolescents (13-17 years of age) to Cav achieved in adults (≥ 18 years of age).
 In a study of 136 neutropenic paediatric patients 11 months – 17 years treated with posaconazole oral suspension at doses up to 18 mg/kg/day divided TID, approximately 50% met the pre-specified target (Day 7 Cav between 500 ng/mL-2,500 ng/mL).
 In general, exposures tended to be higher in the older patients (7 to <18 years) than in younger patients (2 to <7 years).
 
 Gender
 The pharmacokinetics of posaconazole are comparable in men and women.
-
-Elderly (≥65 years)
-An increase in Cmax (26 %) and AUC (29 %) was observed in elderly subjects (24 subjects ≥65 years of age) relative to younger subjects (24 subjects 18 - 45 years of age).
+Elderly (≥ 65 years)
+An increase in Cmax (26 %) and AUC (29 %) was observed in elderly subjects (24 subjects ≥ 65 years of age) relative to younger subjects (24 subjects 18 - 45 years of age).
 However, in clinical efficacy trials, the safety profile of posaconazole between the young and elderly patients was similar.
 
 Race
@@ -48,7 +48,7 @@ It is, therefore, suggested to closely monitor for breakthrough fungal infection
 Patients with a low body weight (< 60 kg) are more likely to experience higher plasma concentrations of posaconazole and should be closely monitored for adverse events.
 
 Renal impairment
-Following single-dose administration of posaconazole oral suspension, there was no effect of mild and moderate renal impairment (n=18, Cl cr ≥20 mL/min/1.73 m2) on posaconazole pharmacokinetics; therefore, no dose adjustment is required.
+Following single-dose administration of posaconazole oral suspension, there was no effect of mild and moderate renal impairment (n=18, Cl cr ≥ 20 mL/min/1.73 m2) on posaconazole pharmacokinetics; therefore, no dose adjustment is required.
 In subjects with severe renal impairment (n=6, Cl cr
 < 20 mL/min/1.73 m2), the AUC of posaconazole was highly variable [> 96 % CV (coefficient of variance)] compared to other renal groups [< 40 % CV].
 However, as posaconazole is not significantly renally eliminated, an effect of severe renal impairment on the pharmacokinetics of posaconazole is not expected and no dose adjustment is recommended.
@@ -80,7 +80,6 @@ Posaconazole is highly protein bound (> 98 %), predominantly to serum albumin.
 
 Posaconazole after administration of the tablets, is slowly eliminated with a mean half-life (t½) of 29 hours (range 26 to 31 hours) and a mean apparent clearance ranging from 7.5 to 11 L/hr.
 Steady-state plasma concentrations are attained by Day 6 at the 300 mg dose (once daily after twice daily loading dose at Day 1).
-
 There is no paediatric experience with posaconazole tablets.
 The pharmacokinetics of posaconazole oral suspension have been evaluated in paediatric patients.
 Following administration of 800 mg per day of posaconazole oral suspension as a divided dose for treatment of invasive fungal infections, mean trough plasma concentrations from 12 patients 8 - 17 years of age (776 ng/mL) were similar to concentrations from 194 patients 18 - 64 years of age (817 ng/mL).
@@ -118,7 +117,6 @@ There is no paediatric experience with posaconazole concentrate for solution for
 The pharmacokinetics of posaconazole concentration for solution for infusion are comparable in men and women.
 
 The pharmacokinetics of posaconazole concentrate for solution for infusion are comparable in young and elderly subjects.
-
 There is insufficient data among different races with posaconazole concentrate for solution for infusion.
 
 Due to the variability in exposure, patients with severe renal impairment should be monitored closely for breakthrough fungal infections (see section 4.2).

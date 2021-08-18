@@ -9,7 +9,7 @@ Glycerol
 Xanthan gum
 Liquid glucose
 Titanium dioxide (E171)
-Artificial cherry flavour containing benzyl alcohol and propylene glycol
+Artificial cherry flavour containing benzyl alcohol and propylene glycol (E1520)
 Purified water
 
 [Noxafil 100 mg gastro-resistant tablets]

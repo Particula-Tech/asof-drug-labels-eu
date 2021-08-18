@@ -5,7 +5,7 @@ Non-Interchangeability between Noxafil Tablets and Noxafil Oral Suspension
 The tablet and oral suspension are not to be used interchangeably due to the differences between these two formulations in frequency of dosing, administration with food and plasma drug concentration achieved.
 Therefore, follow the specific dosage recommendations for each formulation.
 
-Treatment should be initiated by a physician experienced in the management of fungal infections or in the supportive care in the high risk patients for which posaconazole is indicated as prophylaxis.
+Treatment should be initiated by a physician experienced in the management of fungal infections or in the supportive care in the high-risk patients for which posaconazole is indicated as prophylaxis.
 
 Posology
 Noxafil is also available as 100 mg gastro-resistant tablet and 300 mg concentrate for solution for infusion.
@@ -30,6 +30,7 @@ An effect of renal impairment on the pharmacokinetics of posaconazole is not exp
 Hepatic impairment
 Limited data on the effect of hepatic impairment (including Child-Pugh C classification of chronic liver disease) on the pharmacokinetics of posaconazole demonstrate an increase in plasma exposure compared to subjects with normal hepatic function, but do not suggest that dose adjustment is necessary (see sections 4.4 and 5.2).
 It is recommended to exercise caution due to the potential for higher plasma exposure.
+
 Paediatric population
 The safety and efficacy of Noxafil in children aged below 18 years have not been established.
 Currently available data are described in sections 5.1 and 5.2, but no recommendation on a posology can be made.
@@ -66,7 +67,7 @@ A switch to oral administration is recommended as soon as the patients’ condit
 Noxafil should be administered via a central venous line, including a central venous catheter or peripherally inserted central catheter (PICC) by slow intravenous infusion over approximately 90 minutes.
 Noxafil concentrate for solution for infusion should not be given by bolus administration.
 If a central venous catheter is not available, a single infusion may be administered through a peripheral venous catheter.
-When administered through a peripheral venous catheter, the infusion should be administered over approximately 30 minutes (see section 4.8 and 6.6).
+When administered through a peripheral venous catheter, the infusion should be administered over approximately 30 minutes (see sections 4.8 and 6.6).
 
 In patients with moderate or severe renal impairment (creatinine clearance <50 mL/min), accumulation of the intravenous vehicle, Betadex Sulfobutyl Ether Sodium (SBECD), is expected to occur.
 Oral formulations of Noxafil should be used in these patients unless an assessment of the benefit/risk to the patient justifies the use of Noxafil concentrate for solution for infusion.

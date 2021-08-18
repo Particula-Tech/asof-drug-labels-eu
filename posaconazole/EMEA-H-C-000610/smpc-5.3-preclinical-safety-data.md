@@ -3,7 +3,7 @@
 As observed with other azole antifungal agents, effects related to inhibition of steroid hormone synthesis were seen in repeated-dose toxicity studies with posaconazole.
 Adrenal suppressive effects were observed in toxicity studies in rats and dogs at exposures equal to or greater than those obtained at therapeutic doses in humans.
 
-Neuronal phospholipidosis occurred in dogs dosed for ≥3 months at lower systemic exposures than those obtained at therapeutic doses in humans.
+Neuronal phospholipidosis occurred in dogs dosed for ≥ 3 months at lower systemic exposures than those obtained at therapeutic doses in humans.
 This finding was not seen in monkeys dosed for one year.
 In twelve-month neurotoxicity studies in dogs and monkeys, no functional effects were observed on the central or peripheral nervous systems at systemic exposures greater than those achieved therapeutically.
 
