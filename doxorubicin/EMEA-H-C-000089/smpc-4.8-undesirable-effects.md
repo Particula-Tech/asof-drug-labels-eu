@@ -1,15 +1,15 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-The most frequent adverse reactions (≥20%) were neutropaenia, nausea, leukopaenia, anaemia, and fatigue.
+The most frequent adverse reactions (≥ 20%) were neutropaenia, nausea, leukopaenia, anaemia, and fatigue.
 
-Severe adverse reactions (Grade 3/4 adverse reactions occurring in ≥2% of patients) were neutropaenia, PPE, leukopaenia, lymphopaenia, anaemia, thrombocytopaenia, stomatitis, fatigue, diarrhoea, vomiting, nausea, pyrexia, dyspnoea, and pneumonia.
+Severe adverse reactions (Grade 3/4 adverse reactions occurring in ≥ 2% of patients) were neutropaenia, PPE, leukopaenia, lymphopaenia, anaemia, thrombocytopaenia, stomatitis, fatigue, diarrhoea, vomiting, nausea, pyrexia, dyspnoea, and pneumonia.
 Less frequently reported severe adverse reactions included Pneumocystis jirovecii pneumonia, abdominal pain, cytomegalovirus infection including cytomegalovirus chorioretinitis, asthenia, cardiac arrest, cardiac failure, cardiac failure congestive, pulmonary embolism, thrombophlebitis, venous thrombosis, anaphylactic reaction, anaphylactoid reaction, toxic epidermal necrolysis, and Stevens-Johnson syndrome.
 
 Tabulated list of adverse reactions
 Table 5 summarises the adverse drug reactions that occurred in patients receiving Caelyx pegylated liposomal in 4,231 patients for the treatment of breast cancer, ovarian cancer, multiple myeloma, and AIDS-related KS.
 Post-marketing adverse reactions are also included, as indicated by “b”.
-Frequencies are defined as very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000) and not known (frequency cannot be estimated from the available data).
+Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000) and not known (frequency cannot be estimated from the available data).
 Within each frequency grouping, where relevant, adverse reactions are presented in order of decreasing seriousness.
 
 Table 5: Adverse reactions in patients treated with Caelyx pegylated liposomal

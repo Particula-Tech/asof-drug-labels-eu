@@ -61,11 +61,11 @@ Haematological toxicity (ANC or platelets) – Management of patients with breas
 | GRADE | ANC | PLATELETS | MODIFICATION |
 | --- | --- | --- | --- |
 | Grade 1 | 1,500 – 1,900 | 75,000 – 150,000 | Resume treatment with no dose reduction. |
-| Grade 2 | 1,000 – < 1,500 | 50,000 – < 75,000 | Wait until ANC ≥1,500 and platelets ≥75,000; redose with no dose reduction. |
-| Grade 3 | 500 – < 1,000 | 25,000 – < 50,000 | Wait until ANC ≥1,500 and platelets ≥75,000; redose with no dose reduction. |
+| Grade 2 | 1,000 – < 1,500 | 50,000 – < 75,000 | Wait until ANC ≥ 1,500 and platelets ≥ 75,000; redose with no dose reduction. |
+| Grade 3 | 500 – < 1,000 | 25,000 – < 50,000 | Wait until ANC ≥ 1,500 and platelets ≥ 75,000; redose with no dose reduction. |
 
-Grade 4 < 500 < 25,000 Wait until ANC ≥1,500 and platelets
-≥75,000; decrease dose by 25% or
+Grade 4 < 500 < 25,000 Wait until ANC ≥ 1,500 and platelets
+≥ 75,000; decrease dose by 25% or
 continue full dose with growth factor
 support.
 
@@ -78,7 +78,7 @@ Dosage adjustments for Caelyx pegylated liposomal + bortezomib combination thera
 
 | Patient status | Caelyx pegylated liposomal | Bortezomib |
 | --- | --- | --- |
-| Fever ≥38○C and ANC < 1,000/mm3 | Do not dose this cycle if before day 4; if after day 4, reduce next dose by 25%. | Reduce next dose by 25%. |
+| Fever ≥ 38○C and ANC < 1,000/mm3 | Do not dose this cycle if before day 4; if after day 4, reduce next dose by 25%. | Reduce next dose by 25%. |
 | On any day of medicine administration after day 1 of each cycle: Platelet count < 25,000/mm3 Haemoglobin < 8 g/dl ANC < 500/mm3 | Do not dose this cycle if before day 4; if after day 4 reduce next dose by 25% in the following cycles if bortezomib is reduced for haematologic toxicity.* | Do not dose; if 2 or more doses are not given in a cycle, reduce dose by 25% in following cycles. |
 | Grade 3 or 4 non-haematologic medicine related toxicity | Do not dose until recovered to grade < 2 and reduce dose by 25% for all subsequent doses. | Do not dose until recovered to grade < 2 and reduce dose by 25% for all subsequent doses. |
 | Neuropathic pain or peripheral neuropathy | No dosage adjustments. | See the SPC for bortezomib. |
@@ -123,7 +123,7 @@ Do not use with in-line filters.
 Caelyx pegylated liposomal must not be given by the intramuscular or subcutaneous route (see section 6.6).
 
 For doses < 90 mg: dilute Caelyx pegylated liposomal in 250 ml 5% (50 mg/ml) glucose solution for infusion.
-For doses ≥90 mg: dilute Caelyx pegylated liposomal in 500 ml 5% (50 mg/ml) glucose solution for infusion.
+For doses ≥ 90 mg: dilute Caelyx pegylated liposomal in 500 ml 5% (50 mg/ml) glucose solution for infusion.
 
 Breast cancer/Ovarian cancer/Multiple myeloma
 To minimise the risk of infusion reactions, the initial dose is administered at a rate no greater than 1 mg/minute.

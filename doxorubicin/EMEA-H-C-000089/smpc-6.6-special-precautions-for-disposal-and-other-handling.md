@@ -12,7 +12,7 @@ Take the appropriate volume of Caelyx pegylated liposomal up into a sterile syri
 Aseptic technique must be strictly observed since no preservative or bacteriostatic agent is present in Caelyx pegylated liposomal.
 The appropriate dose of Caelyx pegylated liposomal must be diluted in 5% (50 mg/ml) glucose solution for infusion prior to administration.
 For doses < 90 mg, dilute Caelyx pegylated liposomal in 250 ml, and for doses
-≥90 mg, dilute Caelyx pegylated liposomal in 500 ml.
+≥ 90 mg, dilute Caelyx pegylated liposomal in 500 ml.
 This can be infused over 60 or 90 minutes as detailed in 4.2.
 
 The use of any diluent other than 5% (50 mg/ml) glucose solution for infusion, or the presence of any bacteriostatic agent such as benzyl alcohol may cause precipitation of Caelyx pegylated liposomal.

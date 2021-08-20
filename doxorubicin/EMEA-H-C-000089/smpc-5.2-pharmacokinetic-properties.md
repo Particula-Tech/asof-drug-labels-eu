@@ -45,6 +45,6 @@ Pharmacokinetic parameters in Caelyx pegylated liposomal-treated AIDS-KS patient
 | Mean + standard error |  |
 | --- | --- |
 | Parameter | 20 mg/m2 (n=23) |
-| Maximum plasma concentration* (µg/ml) Plasma clearance (l/h/m2) Volume of distribution (l/m2) AUC (µg/ml⋅h) λ1 half-life (hours) λ2 half-life (hours) | 8.34 ±0.49 0.041 ±0.004 2.72 ±0.120 590.00 ±58.7 5.2 ±1.4 55.0 ±4.8 |
+| Maximum plasma concentration* (µg/ml) Plasma clearance (l/h/m2) Volume of distribution (l/m2) AUC (µg/ml⋅h) λ1 half-life (hours) λ2 half-life (hours) | 8.34 ± 0.49 0.041 ± 0.004 2.72 ± 0.120 590.00 ± 58.7 5.2 ± 1.4 55.0 ± 4.8 |
 
 * Measured at the end of a 30-minute infusion
