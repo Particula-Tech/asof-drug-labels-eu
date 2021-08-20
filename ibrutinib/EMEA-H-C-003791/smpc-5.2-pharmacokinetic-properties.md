@@ -7,9 +7,9 @@ Pharmacokinetics of ibrutinib does not significantly differ in patients with dif
 Ibrutinib exposure increases with doses up to 840 mg.
 The steady state AUC observed in patients at 560 mg is (mean ± standard deviation) 953 ± 705 ng h/mL.
 Administration of ibrutinib in fasted condition resulted in approximately 60% of exposure (AUClast) as compared to either 30 minutes before, 30 minutes after (fed condition) or 2 hours after a high fat breakfast.
+
 Ibrutinib has a pH dependent solubility, with lower solubility at higher pH.
 In fasted healthy subjects administered a single 560 mg dose of ibrutinib after taking omeprazole at 40 mg once daily for 5 days, compared to ibrutinib alone, geometric mean ratios (90% CI) were 83% (68-102%), 92% (78-110%), and 38% (26-53%) for AUC0-24, AUClast, and Cmax, respectively.
-
 Distribution
 Reversible binding of ibrutinib to human plasma protein in vitro was 97.3% with no concentration dependence in the range of 50 to 1,000 ng/mL.
 The apparent volume of distribution at steady state (Vd, ss/F) was approximately 10,000 L.
@@ -54,7 +54,6 @@ A hepatic impairment trial was performed in non-cancer subjects administered a s
 The effect of impaired liver function varied substantially between individuals, but on average a 2.7-, 8.2-, and 9.8-fold increase in ibrutinib exposure (AUClast) was observed in subjects with mild (n=6, Child-Pugh class A), moderate (n=10, Child-Pugh class B) and severe (n=8, Child-Pugh class C) hepatic impairment, respectively.
 The free fraction of ibrutinib also increased with degree of impairment, with 3.0, 3.8 and 4.8% in subjects with mild, moderate and severe liver impairment, respectively, compared to 3.3% in plasma from matched healthy controls within this study.
 The corresponding increase in unbound ibrutinib exposure (AUCunbound, last) is estimated to be 4.1-, 9.8-, and 13-fold in subjects with mild, moderate, and severe hepatic impairment, respectively (see section 4.2).
-
 Co-administration with transport substrates/inhibitors
 In vitro studies indicated that ibrutinib is not a substrate of P-gp, nor other major transporters, except OCT2.
 The dihydrodiol metabolite and other metabolites are P-gp substrates.

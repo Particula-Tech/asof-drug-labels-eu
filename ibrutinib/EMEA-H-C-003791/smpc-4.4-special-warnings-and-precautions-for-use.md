@@ -34,7 +34,7 @@ Infections
 Infections (including sepsis, neutropenic sepsis, bacterial, viral, or fungal infections) were observed in patients treated with IMBRUVICA.
 Some of these infections have been associated with hospitalisation and death.
 Most patients with fatal infections also had neutropenia.
-Patients should be monitored for fever, neutropenia and infections and appropriate anti-infective therapy should be instituted as indicated.
+Patients should be monitored for fever, abnormal liver function tests, neutropenia and infections and appropriate anti-infective therapy should be instituted as indicated.
 Consider prophylaxis according to standard of care in patients who are at increased risk for opportunistic infections.
 
 Cases of invasive fungal infections, including cases of Aspergillosis, Cryptococcosis and Pneumocystis jiroveci infections have been reported following the use of ibrutinib.
@@ -44,6 +44,14 @@ Cases of progressive multifocal leukoencephalopathy (PML) including fatal ones h
 Physicians should consider PML in the differential diagnosis in patients with new or worsening neurological, cognitive or behavioral signs or symptoms.
 If PML is suspected then appropriate diagnostic evaluations should be undertaken and treatment suspended until PML is excluded.
 If any doubt exists, referral to a neurologist and appropriate diagnostic measures for PML including MRI scan preferably with contrast, cerebrospinal fluid (CSF) testing for JC Viral DNA and repeat neurological assessments should be considered.
+
+Hepatic events
+Cases of hepatotoxicity, hepatitis B reactivation, and cases of hepatitis E, which may be chronic, have occurred in patients treated with IMBRUVICA.
+Hepatic failure, including fatal events, has occurred in patients treated with IMBRUVICA.
+Liver function and viral hepatitis status should be assessed before initiating treatment with IMBRUVICA.
+Patients should be periodically monitored for changes in liver function parameters during treatment.
+As clinically indicated, viral load and serological testing for infectious hepatitis should be performed per local medical guidelines.
+For patients diagnosed with hepatic events, consider consulting a liver disease expert for management.
 
 Cytopenias
 Treatment-emergent grade 3 or 4 cytopenias (neutropenia, thrombocytopenia and anaemia) were reported in patients treated with IMBRUVICA.
@@ -66,7 +74,6 @@ In patients who develop signs and/or symptoms of ventricular tachyarrhythmia, IM
 In patients with preexisting atrial fibrillation requiring anticoagulant therapy, alternative treatment options to IMBRUVICA should be considered.
 In patients who develop atrial fibrillation on therapy with IMBRUVICA a thorough assessment of the risk for thromboembolic disease should be undertaken.
 In patients at high risk and where alternatives to IMBRUVICA are non-suitable, tightly controlled treatment with anticoagulants should be considered.
-
 Patients should be monitored for signs and symptoms of cardiac failure during IMBRUVICA treatment.
 In some of these cases cardiac failure resolved or improved after IMBRUVICA withdrawal or dose reduction.
 
@@ -82,12 +89,6 @@ Monitor patients closely and take appropriate precautions.
 Non-melanoma skin cancer
 Non-melanoma skin cancers were reported more frequently in patients treated with IMBRUVICA than in patients treated with comparators in pooled comparative randomised phase 3 studies.
 Monitor patients for the appearance of non-melanoma skin cancer.
-
-Viral reactivation
-Cases of hepatitis B reactivation, including fatal events, have been reported in patients receiving IMBRUVICA.
-Hepatitis B virus (HBV) status should be established before initiating treatment with IMBRUVICA.
-For patients who test positive for HBV infection, consultation with a physician with expertise in the treatment of hepatitis B is recommended.
-If patients have positive hepatitis B serology, a liver disease expert should be consulted before the start of treatment and the patient should be monitored and managed following local medical standards to prevent hepatitis B reactivation.
 
 Hypertension
 Hypertension has occurred in patients treated with IMBRUVICA (see section 4.8).
@@ -110,7 +111,11 @@ If a CYP3A4 inducer must be used, closely monitor patients for signs of IMBRUVIC
 Women of childbearing potential
 Women of childbearing potential must use a highly effective method of contraception while taking IMBRUVICA (see section 4.6).
 
+Excipients with known effect
+Each capsule contains less than 1 mmol sodium (23 mg), and is essentially sodium-free.
+
 [IMBRUVICA 140 mg film-coated tablets]
 
-Intolerance to excipients
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+
+Each film-coated tablet contains less than 1 mmol sodium (23 mg), and is essentially sodium-free.
