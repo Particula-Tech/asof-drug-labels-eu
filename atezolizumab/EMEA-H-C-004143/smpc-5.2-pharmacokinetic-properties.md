@@ -1,10 +1,16 @@
 # 5.2 Pharmacokinetic properties
 
-Exposure to atezolizumab increased dose proportionally over the dose range 1 mg/kg to 20 mg/kg including the fixed dose 1,200 mg administered every 3 weeks.
-A population analysis that included 472 patients described atezolizumab pharmacokinetics for the dose range: 1 to 20 mg/kg with a linear two-compartment disposition model with first-order elimination.
-The pharmacokinetic properties of atezolizumab 840 mg administered every 2 weeks and atezolizumab 1,200 mg administered every 3 weeks are comparable.
-A population pharmacokinetic analysis suggests that steady-state is obtained after 6 to 9 weeks after multiple doses.
-The maximum systemic accumulation ratio across dosing regimens is 3.3.
+Exposure to atezolizumab increased dose proportionally over the dose range 1 mg/kg bw to 20 mg/kg bw including the fixed dose 1 200 mg administered every 3 weeks.
+A population analysis that included 472 patients described atezolizumab pharmacokinetics for the dose range:
+1 to 20 mg/kg bw with a linear two-compartment disposition model with first-order elimination.
+The
+
+pharmacokinetic properties of atezolizumab IV 840 mg administered every 2 weeks, 1200 mg
+administered every 3 weeks, and 1680 mg administered every 4 weeks are the same; comparable total
+exposures are expected to be achieved with these three dosing regimens. A population
+
+pharmacokinetic analysis suggests that steady-state is obtained after 6 to 9 weeks of multiple dosing.
+The systemic accumulation in area under the curve, maximum concentration and trough concentration was 1.91, 1.46 and 2.75-fold, respectively.
 
 Absorption
 
@@ -29,6 +35,7 @@ Special populations
 Based on population PK and exposure-response analyses age (21-89 years), region, ethnicity, renal impairment, mild hepatic impairment, level of PD-L1 expression, or ECOG performance status have no effect on atezolizumab pharmacokinetics.
 Body weight, gender, positive ADA status, albumin levels and tumour burden have a statistically significant, but not clinically relevant effect on atezolizumab pharmacokinetics.
 No dose adjustments are recommended.
+
 Elderly
 
 No dedicated studies of atezolizumab have been conducted in elderly patients.
@@ -38,7 +45,7 @@ No clinically important difference was observed in the pharmacokinetics of atezo
 
 Paediatric population
 
-The pharmacokinetic results from one early-phase, multi-centre open-label study that was conducted in paediatric (<18 years, n=69) and young adult patients (18-30 years, n=18), show that the clearance and volume of distribution of atezolizumab were comparable between paediatric patients receiving 15 mg/kg and young adult patients receiving 1,200 mg of atezolizumab every 3 weeks when normalized by body weight, with exposure trending lower in paediatric patients as body weight decreased.
+The pharmacokinetic results from one early-phase, multi-centre open-label study that was conducted in paediatric (< 18 years, n=69) and young adult patients (18-30 years, n=18), show that the clearance and volume of distribution of atezolizumab were comparable between paediatric patients receiving 15 mg/kg bw and young adult patients receiving 1 200 mg of atezolizumab every 3 weeks when normalized by body weight, with exposure trending lower in paediatric patients as body weight decreased.
 These differences were not associated with a decrease in atezolizumab concentrations below the therapeutic target exposure.
 Data for children <2 years is limited thus no definitive conclusions can be made.
 
@@ -53,11 +60,6 @@ Hepatic impairment
 
 No dedicated studies of atezolizumab have been conducted in patients with hepatic impairment.
 In the population pharmacokinetic analysis, there were no clinically important differences in the clearance of atezolizumab observed in patients with mild hepatic impairment (bilirubin ≤ ULN and AST > ULN or bilirubin > 1.0 × to 1.5 × ULN and any AST) or moderate hepatic impairment (bilirubin > 1.5 to 3x ULN and any AST) in comparison to patients with normal hepatic function (bilirubin ≤ ULN and AST ≤ ULN).
-No data are available in patients with severe hepatic impairment (bilirubin >3 X ULN and any AST).
+No data are available in patients with severe hepatic impairment (bilirubin > 3 X ULN and any AST).
 Hepatic impairment was defined by the National Cancer Institute-Organ Dysfunction Working Group (NCI-ODWG) criteria of hepatic dysfunction (see section 4.2).
 The effect of severe hepatic impairment (bilirubin > 3 × ULN and any AST) on the pharmacokinetics of atezolizumab is unknown.
-
-[Tecentriq 1,200 mg concentrate for solution for infusion.]
-
-A population pharmacokinetic analysis suggests that steady-state is obtained after 6 to 9 weeks (2 to 3 cycles) of repeated dosing.
-The systemic accumulation in area under the curve, maximum concentration and trough concentration was 1.91, 1.46 and 2.75-fold, respectively.

@@ -3,12 +3,12 @@
 Traceability
 
 In order to improve the traceability of biological medicinal products, the trade name and the batch number of the administered product should be clearly recorded in the patient file.
+
 Immune-related adverse reactions
 
 Most immune-related adverse reactions occurring during treatment with atezolizumab were reversible with interruptions of atezolizumab and initiation of corticosteroids and/or supportive care.
 Immune-related adverse reactions affecting more than one body system have been observed.
 Immune-related adverse reactions with atezolizumab may occur after the last dose of atezolizumab.
-
 For suspected immune-related adverse reactions, thorough evaluation to confirm aetiology or exclude other causes should be performed.
 Based on the severity of the adverse reaction, atezolizumab should be withheld and corticosteroids administered.
 Upon improvement to Grade ≤ 1, corticosteroid should be tapered over ≥ 1 month.
@@ -21,10 +21,9 @@ Immune-related pneumonitis
 Cases of pneumonitis, including fatal cases, have been observed in clinical trials with atezolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of pneumonitis and causes other than immune-related pneumonitis should be ruled out.
 
-Treatment with atezolizumab should be withheld for Grade 2 pneumonitis, and 1 to 2 mg/kg/day prednisone or equivalent should be started.
+Treatment with atezolizumab should be withheld for Grade 2 pneumonitis, and 1 to 2 mg/kg body weight (bw)/day prednisone or equivalent should be started.
 If symptoms improve to ≤ Grade 1, corticosteroids should be tapered over ≥ 1 month.
-Treatment with atezolizumab may be resumed if the event improves to
-≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
+Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
 Treatment with atezolizumab must be permanently discontinued for Grade 3 or 4 pneumonitis.
 
 Immune-related hepatitis
@@ -34,7 +33,7 @@ Patients should be monitored for signs and symptoms of hepatitis.
 
 Aspartate aminotransferase (AST), alanine aminotransferase (ALT) and bilirubin should be monitored prior to initiation of treatment, periodically during treatment with atezolizumab and as indicated based on clinical evaluation.
 
-For patients without HCC, treatment with atezolizumab should be withheld if Grade 2 event (ALT or AST > 3 to 5 x ULN or blood bilirubin > 1.5 to 3 x ULN) persists for more than 5 to 7 days, and 1 to 2 mg/kg/day of prednisone or equivalent should be started.
+For patients without HCC, treatment with atezolizumab should be withheld if Grade 2 event (ALT or AST > 3 to 5 x ULN or blood bilirubin > 1.5 to 3 x ULN) persists for more than 5 to 7 days, and 1 to 2 mg/kg bw/day of prednisone or equivalent should be started.
 If the event improves to ≤ Grade 1, corticosteroids should be tapered over ≥ 1 month.
 
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
@@ -42,22 +41,21 @@ Treatment with atezolizumab must be permanently discontinued for Grade 3 or Grad
 > 5.0 x ULN or blood bilirubin > 3 x ULN).
 
 For patients with HCC, treatment with atezolizumab should be withheld if ALT or AST increases to
-> 3 to ≤10 x ULN from normal limits at baseline, or > 5 to ≤10 x ULN from > 1 ULN to ≤3 x ULN at baseline, or > 8 to ≤10 x ULN from > 3 ULN to ≤5 x ULN at baseline, and persists for more than 5 to 7 days, and 1 to 2 mg/kg/day of prednisone or equivalent should be started.
-If the event improves to
-≤ Grade 1, corticosteroids should be tapered over ≥ 1 month.
+> 3 to ≤10 x ULN from normal limits at baseline, or > 5 to ≤10 x ULN from > 1 ULN to ≤3 x ULN at baseline, or > 8 to ≤10 x ULN from > 3 ULN to ≤5 x ULN at baseline, and persists for more than 5 to 7 days, and 1 to 2 mg/kg bw/day of prednisone or equivalent should be started.
+If the event improves to ≤ Grade 1, corticosteroids should be tapered over ≥ 1 month.
+
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
 Treatment with atezolizumab must be permanently discontinued if ALT or AST increases to > 10 x ULN or total bilirubin increases > 3 x ULN).
-
 Immune-related colitis
 
 Cases of diarrhoea or colitis have been observed in clinical trials with atezolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of colitis.
 
 Treatment with atezolizumab should be withheld for Grade 2 or 3 diarrhoea (increase of ≥ 4 stools/day over baseline) or colitis (symptomatic).
-For Grade 2 diarrhoea or colitis, if symptoms persist > 5 days or recur, treatment with 1 to 2 mg/kg/day prednisone or equivalent should be started.
+For Grade 2 diarrhoea or colitis, if symptoms persist > 5 days or recur, treatment with 1 to 2 mg/kg bw/day prednisone or equivalent should be started.
 For
-Grade 3 diarrhoea or colitis, treatment with intravenous corticosteroids (1 to 2 mg/kg/day methylprednisolone or equivalent) should be started.
-Once symptoms improve, treatment with 1 to 2 mg/kg/day of prednisone or equivalent should be started.
+Grade 3 diarrhoea or colitis, treatment with intravenous corticosteroids (1 to 2 mg/kg bw/day methylprednisolone or equivalent) should be started.
+Once symptoms improve, treatment with 1 to 2 mg/kg bw/day of prednisone or equivalent should be started.
 If symptoms improve to ≤ Grade 1, corticosteroids should be tapered over ≥ 1 month.
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
 Treatment with atezolizumab must be permanently discontinued for Grade 4 (life threatening; urgent intervention indicated) diarrhoea or colitis.
@@ -76,28 +74,28 @@ Isolated hypothyroidism may be managed with replacement therapy and without cort
 For symptomatic hyperthyroidism, atezolizumab should be withheld and an anti-thyroid medicinal product should be initiated as needed.
 Treatment with atezolizumab may be resumed when symptoms are controlled and thyroid function is improving.
 
-For symptomatic adrenal insufficiency, atezolizumab should be withheld and treatment with intravenous corticosteroids (1 to 2 mg/kg/day methylprednisolone or equivalent) should be started.
-Once symptoms improve, treatment with 1 to 2 mg/kg/day of prednisone or equivalent should follow.
+For symptomatic adrenal insufficiency, atezolizumab should be withheld and treatment with intravenous corticosteroids (1 to 2 mg/kg bw/day methylprednisolone or equivalent) should be started.
+Once symptoms improve, treatment with 1 to 2 mg/kg bw/day of prednisone or equivalent should follow.
 If symptoms improve to ≤ Grade 1, corticosteroids should be tapered over ≥ 1 month.
 Treatment may be resumed if the event improves to ≤ Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day and the patient is stable on replacement therapy (if required).
 
-For Grade 2 or Grade 3 hypophysitis, atezolizumab should be withheld and treatment with intravenous corticosteroids (1 to 2 mg/kg/day methylprednisolone or equivalent) should be started, and hormone replacement should be initiated as needed.
-Once symptoms improve, treatment with 1 to 2 mg/kg/day of prednisone or equivalent should follow.
+For Grade 2 or Grade 3 hypophysitis, atezolizumab should be withheld and treatment with intravenous corticosteroids (1 to 2 mg/kg bw/day methylprednisolone or equivalent) should be started, and hormone replacement should be initiated as needed.
+Once symptoms improve, treatment with 1 to 2 mg/kg bw/day of prednisone or equivalent should follow.
 If symptoms improve to ≤ Grade 1, corticosteroids should be tapered over ≥ 1 month.
 Treatment may be resumed if the event improves to ≤ Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day and the patient is stable on replacement therapy (if required).
 Treatment with atezolizumab should be permanently discontinued for Grade 4 hypophysitis.
+
 Treatment with insulin should be initiated for type 1 diabetes mellitus.
 For ≥ Grade 3 hyperglycaemia (fasting glucose > 250 mg/dL or 13.9 mmol/L), atezolizumab should be withheld.
 Treatment with atezolizumab may be resumed if metabolic control is achieved on insulin replacement therapy.
-
 Immune-related meningoencephalitis
 
 Meningoencephalitis has been observed in clinical trials with atezolizumab (see section 4.8).
 Patients should be monitored for clinical signs and symptoms of meningitis or encephalitis.
 
 Treatment with atezolizumab must be permanently discontinued for any grade of meningitis or encephalitis.
-Treatment with intravenous corticosteroids (1 to 2 mg/kg/day methylprednisolone or equivalent) should be started.
-Once symptoms improve, treatment with 1 to 2 mg/kg/day of prednisone or equivalent should follow.
+Treatment with intravenous corticosteroids (1 to 2 mg/kg bw/day methylprednisolone or equivalent) should be started.
+Once symptoms improve, treatment with 1 to 2 mg/kg bw/day of prednisone or equivalent should follow.
 
 Immune-related neuropathies
 
@@ -105,18 +103,17 @@ Myasthenic syndrome/myasthenia gravis or Guillain-Barré syndrome, which may be 
 Patients should be monitored for symptoms of motor and sensory neuropathy.
 
 Treatment with atezolizumab must be permanently discontinued for any grade of myasthenic syndrome / myasthenia gravis or Guillain-Barré syndrome.
-Initiation of systemic corticosteroids (at a dose of 1 to 2 mg/kg/day of prednisone or equivalent) should be considered.
+Initiation of systemic corticosteroids (at a dose of 1 to 2 mg/kg bw/day of prednisone or equivalent) should be considered.
 
 Immune-related pancreatitis
 
 Pancreatitis, including increases in serum amylase and lipase levels, has been observed in clinical trials with atezolizumab (see section 4.8).
 Patients should be closely monitored for signs and symptoms that are suggestive of acute pancreatitis.
 
-Treatment with atezolizumab should be withheld for ≥ Grade 3 serum amylase or lipase levels increased (> 2 x ULN), or Grade 2 or 3 pancreatitis, and treatment with intravenous corticosteroids
-(1 to 2 mg/kg/day methylprednisolone or equivalent) should be started.
-Once symptoms improve, treatment with 1 to 2 mg/kg/day of prednisone or equivalent should follow.
-Treatment with atezolizumab may be resumed when serum amylase and lipase levels improve to ≤ Grade 1 within 12 weeks, or symptoms of pancreatitis have resolved, and corticosteroids have been reduced to
-≤ 10 mg prednisone or equivalent per day.
+Treatment with atezolizumab should be withheld for ≥ Grade 3 serum amylase or lipase levels increased (> 2 x ULN), or Grade 2 or 3 pancreatitis, and treatment with intravenous corticosteroids (1 to 2 mg/kg bw/day methylprednisolone or equivalent) should be started.
+Once symptoms improve, treatment with 1 to 2 mg/kg bw/day of prednisone or equivalent should follow.
+Treatment with atezolizumab may be resumed when serum amylase and lipase levels improve to
+≤ Grade 1 within 12 weeks, or symptoms of pancreatitis have resolved, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
 Treatment with atezolizumab should be permanently discontinued for Grade 4, or any grade of recurrent pancreatitis.
 
 Immune-related myocarditis
@@ -124,7 +121,7 @@ Immune-related myocarditis
 Myocarditis has been observed in clinical trials with atezolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of myocarditis.
 
-Treatment with atezolizumab should be withheld for Grade 2 myocarditis, and treatment with systemic corticosteroids at a dose of 1 to 2mg/kg/day of prednisone or equivalent should be started.
+Treatment with atezolizumab should be withheld for Grade 2 myocarditis, and treatment with systemic corticosteroids at a dose of 1 to 2mg/kg bw/day of prednisone or equivalent should be started.
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
 Treatment with atezolizumab must be permanently discontinued for Grade 3 or 4 myocarditis.
 
@@ -132,19 +129,34 @@ Immune-related nephritis
 
 Nephritis has been observed in clinical trials with atezolizumab (see section 4.8).
 Patients should be monitored for changes in renal function.
-Treatment with atezolizumab should be withheld for Grade 2 nephritis, and treatment with systemic corticosteroids at a dose of 1 to 2mg/kg/day of prednisone or equivalent should be started.
+
+Treatment with atezolizumab should be withheld for Grade 2 nephritis, and treatment with systemic corticosteroids at a dose of 1 to 2mg/kg bw/day of prednisone or equivalent should be started.
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
 Treatment with atezolizumab must be permanently discontinued for Grade 3 or 4 nephritis.
-
 Immune-related myositis
 
 Cases of myositis, including fatal cases, have been observed in clinical trials with atezolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of myositis.
 
-Treatment with atezolizumab should be withheld for Grade 2 or 3 myositis and corticosteroid therapy (1-2 mg/kg/day prednisone or equivalent) should be initiated.
+Treatment with atezolizumab should be withheld for Grade 2 or 3 myositis and corticosteroid therapy (1-2 mg/kg bw/day prednisone or equivalent) should be initiated.
 If symptoms improve to ≤ Grade 1, taper corticosteroids as clinically indicated.
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg oral prednisone or equivalent per day.
 Treatment with atezolizumab should be permanently discontinued for Grade 4 or grade 3 recurrent myositis, or when unable to reduce the corticosteroid dose to the equivalent of ≤ 10 mg prednisone per day within 12 weeks after onset.
+
+Immune-related severe cutaneous adverse reactions
+
+Immune-related severe cutaneous adverse reactions (SCARs), including cases of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported in patients receiving atezolizumab.
+Patients should be monitored for suspected severe skin reactions and other causes should be excluded.
+For suspected SCARs, patients should be referred to a specialist for further diagnosis and management.
+
+Based on the severity of the adverse reaction, atezolizumab should be withheld for Grade 3 skin reactions and treatment with systemic corticosteroids at a dose of 1-2 mg/kg bw/day of prednisone or equivalent should be started.
+Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
+Treatment with atezolizumab should be permanently discontinued for Grade 4 skin reactions, and corticosteroids should be administered.
+
+Atezolizumab should be withheld for patients with suspected SJS or TEN.
+For confirmed SJS or TEN, atezolizumab should be permanently discontinued.
+
+Caution should be used when considering the use of atezolizumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anticancer agents.
 
 Infusion-related reactions
 
@@ -154,26 +166,11 @@ The rate of infusion should be reduced or treatment should be interrupted in pat
 Atezolizumab should be permanently discontinued in patients with Grade 3 or 4 infusion-related reactions.
 Patients with Grade 1 or 2 infusion-related reactions may continue to receive atezolizumab with close monitoring; premedication with antipyretic and antihistamines may be considered.
 
-Immune-related severe cutaneous adverse reactions
-
-Immune-related severe cutaneous adverse reactions (SCARs), including cases of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported in patients receiving atezolizumab.
-Patients should be monitored for suspected severe skin reactions and other causes should be excluded.
-For suspected SCARs, patients should be referred to a specialist for further diagnosis and management.
-
-Based on the severity of the adverse reaction, atezolizumab should be withheld for Grade 3 skin reactions and treatment with systemic corticosteroids at a dose of 1-2 mg/kg/day of prednisone or equivalent should be started.
-Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
-Treatment with atezolizumab should be permanently discontinued for Grade 4 skin reactions, and corticosteroids should be administered.
-
-Atezolizumab should be withheld for patients with suspected SJS or TEN.
-For confirmed SJS or TEN, atezolizumab should be permanently discontinued.
-
-Caution should be used when considering the use of atezolizumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anticancer agents.
 Disease-specific precautions
 
 Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in metastatic non-squamous non-small cell lung cancer
 
 Physicians should carefully consider the combined risks of the four-drug regimen of atezolizumab bevacizumab, paclitaxel, and carboplatin before initiating treatment (see section 4.8).
-
 Use of atezolizumab in combination with nab-paclitaxel in metastatic triple negative breast cancer
 
 Neutropenia and peripheral neuropathies occurring during treatment with atezolizumab and nab-paclitaxel may be reversible with interruptions of nab-paclitaxel.
@@ -193,6 +190,7 @@ In the absence of data, atezolizumab should be used with caution in these popula
 Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in EGFR+ patients with NSCLC who have progressed on erlotinib+bevacizumab
 
 In study IMpower150, there are no data on the efficacy of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in EGFR+ patients who have progressed previously on erlotinib+bevacizumab.
+
 Use of atezolizumab in combination with bevacizumab in hepatocellular carcinoma
 
 Data in HCC patients with Child-Pugh B liver disease treated with atezolizumab in combination with bevacizumab are very limited and there are currently no data available in HCC patients with Child-Pugh C liver disease.
@@ -204,7 +202,6 @@ Please refer to the bevacizumab Summary of Product Characteristics.
 
 Diabetes mellitus can occur during treatment with atezolizumab in combination with bevacizumab.
 Physicians should monitor blood glucose levels prior to and periodically during treatment with atezolizumab in combination with bevacizumab as clinically indicated.
-
 Use of atezolizumab as monotherapy for first-line treatment in metastatic non-small cell lung cancer
 
 Physicians should consider the delayed onset of atezolizumab effect before initiating first-line treatment as monotherapy in patients with NSCLC.
@@ -213,7 +210,7 @@ No specific factor(s) associated with early deaths could be identified (see sect
 
 Patients excluded from clinical trials
 
-Patients with the following conditions were excluded from clinical trials: a history of autoimmune disease, history of pneumonitis, active brain metastasis, HIV, hepatitis B or hepatitis C infection, significant cardiovascular disease and patients with inadequate hematologic and end-organ function.
+Patients with the following conditions were excluded from clinical trials: a history of autoimmune disease, history of pneumonitis, active brain metastasis, HIV, hepatitis B or hepatitis C infection (for non-HCC patients), significant cardiovascular disease and patients with inadequate hematologic and end-organ function.
 Patients who were administered a live, attenuated vaccine within 28 days prior to enrolment; systemic immunostimulatory agents within 4 weeks or systemic immunosuppressive medicinal products within 2 weeks prior to study entry; therapeutic oral or IV antibiotics within 2 weeks prior to initiation of study treatment were excluded from clinical trials.
 
 Patient card
