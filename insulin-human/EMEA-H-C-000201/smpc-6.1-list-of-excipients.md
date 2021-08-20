@@ -28,7 +28,7 @@ Protamine sulphate, metacresol, phenol, zinc chloride, sodium dihydrogen phospha
 
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
 
-Phenol, zinc chloride, trometamol, poloxamer 171, glycerol, hydrochloric acid (for pH adjustment), water for injections.
+Phenol, zinc chloride, trometamol, poloxamer 171, glycerol, sodium hydroxide, hydrochloric acid (for pH adjustment), water for injections.
 
 [Insuman Implantable 400 IU/ml solution for infusion]
 

@@ -9,7 +9,7 @@ Insuman Rapid must not be mixed with insulin human formulations designed specifi
 Insuman Rapid must also not be mixed with insulins of animal origin or with insulin analogues.
 Insulins of different concentration (e.g. 100 IU per ml and 40 IU per ml) must not be mixed.
 
-Care must be taken to ensure that no alcohol or other disinfectants enter the insulin solution.
+Care must be taken to ensure that no alcohol or other disinfectants enter the insulin solution
 
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
 

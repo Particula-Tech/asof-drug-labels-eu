@@ -157,7 +157,6 @@ Insuman Comb 25 cartridges are not designed to allow any other insulin to be mix
 
 Insuman Comb 25 SoloStar 100 IU/ml in a pre-filled pen
 Insuman Comb 25 SoloStar 100 IU/ml in pre-filled pen is only suitable for subcutaneous injections.
-
 Before first use, Insuman Comb 25 must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 
 [Insuman Comb 30 100 IU/ml suspension for injection in a vial]

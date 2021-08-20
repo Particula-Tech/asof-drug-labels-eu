@@ -36,7 +36,7 @@ Insuman Rapid must not be used in external or implanted insulin pumps or in peri
 Insuman Rapid is administered subcutaneously.
 
 Insulin absorption and hence the blood-glucose-lowering effect of a dose may vary from one injection area to another (e.g. the abdominal wall compared with the thigh).
-Injection sites within an injection area must be rotated from one injection to the next.
+Injection sites within an injection area must be rotated from one injection to the next in order to reduce the risk of lipodystrophy and cutaneous amyloidosis (see section 4.4 and 4.8).
 
 Insuman Rapid 40 IU/ml in a vial
 Only injection syringes designed for this strength of insulin (40 IU per ml) are to be used.
@@ -188,7 +188,7 @@ Only tetrafluoroethylene or polyethylene catheters must be used.
 Insulin must always be infused under aseptic conditions.
 This is facilitated by the special equipment available for the insulin pumps (e.g. catheters, cannulas).
 
-The puncture site within a given injection area must be changed regularly (generally, every 1 to 3 days).
+The puncture site within a given injection area must be changed regularly (generally, every 1 to 3 days) in order to reduce the risk of lipodystrophy and cutaneous amyloidosis (see section 4.4 and 4.8).
 
 [Insuman Implantable 400 IU/ml solution for infusion]
 

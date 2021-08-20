@@ -1,5 +1,8 @@
 # 4.4 Special warnings and precautions for use
 
+Traceability
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
 Patients hypersensitive to Insuman Rapid for whom no better tolerated preparation is available must only continue treatment under close medical supervision and – where necessary – in conjunction with anti-allergic treatment.
 
 In patients with an allergy to animal insulin intradermal skin testing is recommended prior to a transfer to Insuman Rapid, since they may experience immunological cross-reactions.
@@ -22,6 +25,11 @@ Following transfer from an animal insulin to human insulin, dose regimen reducti
 Close metabolic monitoring is recommended during the transition and in the initial weeks thereafter.
 In patients who require high insulin doses because of the presence of insulin antibodies, transfer under medical supervision in a hospital or similar setting must be considered.
 
+Patients must be instructed to perform continuous rotation of the injection site to reduce the risk of developing lipodystrophy and cutaneous amyloidosis.
+There is a potential risk of delayed insulin absorption and worsened glycaemic control following insulin injections at sites with these reactions.
+A sudden change in the injection site to an unaffected area has been reported to result in hypoglycaemia.
+Blood glucose monitoring is recommended after the change in the injection site, and dose adjustment of antidiabetic medications may be considered.
+
 Hypoglycaemia
 Hypoglycaemia may occur if the insulin dose is too high in relation to the insulin requirement.
 
@@ -38,7 +46,7 @@ These include patients:
 - in whom an autonomic neuropathy is present,
 - with a long history of diabetes,
 - suffering from a psychiatric illness,
-- receiving concurrent treatment with certain other medicinal products (see section 4.5).
+- receiving concurrent treatment with certain other medicinal products (see section 4.5)
 
 Such situations may result in severe hypoglycaemia (and possibly loss of consciousness) prior to the patient's awareness of hypoglycaemia.
 
@@ -73,6 +81,9 @@ Cases of cardiac failure have been reported when pioglitazone was used in combin
 This should be kept in mind if treatment with the combination of pioglitazone and Insuman is considered.
 If the combination is used, patients should be observed for signs and symptoms of heart failure, weight gain and oedema.
 Pioglitazone should be discontinued if any deterioration in cardiac symptoms occurs.
+
+Sodium
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ‘sodium-free’.
 
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
 
@@ -192,6 +203,7 @@ Insuman Comb 50 SoloStar 100 IU/ml in pre-filled pen is only suitable for subcut
 Patients hypersensitive to Insuman Infusat for whom no better tolerated preparation is available must only continue treatment under close medical supervision and – where necessary – in conjunction with anti-allergic treatment.
 
 In patients with an allergy to animal insulin intradermal skin testing is recommended prior to a transfer to Insuman Infusat, since they may experience immunological cross-reactions.
+
 In case of hypoglycaemia, the insulin pump should temporarily be turned off, at least until the patient has recovered complete consciousness.
 
 Transfer to Insuman Infusat

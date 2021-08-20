@@ -1,10 +1,10 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 A number of substances affect glucose metabolism and may require dose adjustment of human insulin.
-
 Substances that may enhance the blood-glucose-lowering effect and increase susceptibility to hypoglycaemia include oral antidiabetic medicinal products, angiotensin converting enzyme (ACE) inhibitors, disopyramide, fibrates, fluoxetine, monoamine oxidase (MAO) inhibitors, pentoxifylline, propoxyphene, salicylates and sulphonamide antibiotics.
 
 Substances that may reduce the blood-glucose-lowering effect include corticosteroids, danazol, diazoxide, diuretics, glucagon, isoniazid, oestrogens and progestogens (e.g. in oral contraceptives), phenothiazine derivatives, somatropin, sympathomimetic medicinal products (e.g. epinephrine [adrenaline], salbutamol, terbutaline), thyroid hormones, protease inhibitors and atypical antipsychotic medicinal products (e.g. olanzapine and clozapine).
+
 Beta-blockers, clonidine, lithium salts or alcohol may either potentiate or weaken the blood-glucose-lowering effect of insulin.
 Pentamidine may cause hypoglycaemia which may sometimes be followed by hyperglycaemia.
 

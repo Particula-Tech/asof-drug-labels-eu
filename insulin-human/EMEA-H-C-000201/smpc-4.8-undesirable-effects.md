@@ -7,6 +7,7 @@ Therefore, no specific frequency can be presented.
 
 Tabulated list of adverse reactions
 The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
+
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 | MedDRA system organ classes | Common | Uncommon | Not known |
@@ -14,7 +15,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Immune system disorders |  | Shock | Immediate type allergic reactions (hypotension, angioneurotic oedema, bronchospasm, generalised skin reactions); Anti-insulin antibodies |
 | Metabolism and nutrition disorders | Oedema |  | Hypoglycaemia; Sodium retention |
 | Eye disorders |  |  | Proliferative retinopathy; Diabetic retinopathy; Visual impairment |
-| Skin and subcutaneous tissue disorders |  |  | Lipodystrophy |
+| Skin and subcutaneous tissue disorders |  |  | Lipodystrophy; Cutaneous amyloidosis |
 | General disorders and administration site conditions | Injection site reactions | Injection site urticaria | Injection site inflammation; Injection site pain; Injection site pruritus; Injection site erythema; Injection site swelling |
 
 Description of selected adverse reactions
@@ -38,10 +39,9 @@ A marked change in glycaemic control may cause temporary visual impairment, due 
 
 Long-term improved glycaemic control decreases the risk of progression of diabetic retinopathy.
 However, intensification of insulin therapy with abrupt improvement in glycaemic control may be associated with temporary worsening of diabetic retinopathy.
-
 Skin and subcutaneous tissue disorders
-Lipodystrophy may occur at the injection site and delay local insulin absorption.
-Continuous rotation of the injection site within the given injection area may help to reduce or prevent these reactions.
+Lipodystrophy and cutaneous amyloidosis may occur at the injection site and delay local insulin absorption.
+Continuous rotation of the injection site within the given injection area may help to reduce or prevent these reactions (see section 4.4.).
 General disorders and administration site conditions
 Most minor reactions to insulins at the injection site usually resolve in a few days to a few weeks.
 
@@ -52,7 +52,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
 
-(all sentences already above)
+Continuous rotation of the injection site within the given injection area may help to reduce or prevent these reactions (see section 4.4).
 
 [Insuman Basal 40 IU/ml suspension for injection in a vial]
 
