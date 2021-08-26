@@ -176,6 +176,61 @@ ASA 100mg od: 7.2 (6.5 - 7.9)
 
 bid: twice daily; od: once daily; CI: confidence interval
 
+Patients after recent revascularisation procedure of the lower limb due to symptomatic PAD
+In the pivotal phase III double-blind VOYAGER PAD trial, 6,564 patients after recent successful revascularisation procedure of the lower limb (surgical or endovascular including hybrid procedures) due to symptomatic PAD were randomly assigned to one of two antithrombotic treatment groups: rivaroxaban 2.5 mg twice daily in combination with ASA 100 mg once daily, or to ASA 100 mg once daily, in a 1:1 fashion.
+Patients were allowed to additionally receive standard dose of clopidogrel once daily for up to 6 months.
+The objective of the study was to demonstrate the efficacy and safety of rivaroxaban plus ASA for the prevention of myocardial infarction, ischaemic stroke, CV death, acute limb ischaemia, or major amputation of a vascular etiology in patients after recent successful lower limb revascularisation procedures due to symptomatic PAD.
+Patients aged ≥ 50 years with documented moderate to severe symptomatic lower extremity atherosclerotic PAD evidenced by all of the following: clinically (i.e. functional limitations), anatomically (i.e. imaging evidence of PAD distal to external iliac artery) and haemodynamically (ankle-brachial-index [ABI] ≤ 0.80 or toe-brachial-index [TBI] ≤ 0.60 for patients without a prior history of limb revascularisation or ABI ≤ 0.85 or
+TBI ≤ 0.65 for patients with a prior history of limb revascularisation) were included.
+Patients in need of dual antiplatelet therapy for > 6 months, or any additional antiplatelet therapy other than ASA and clopidogrel, or oral anticoagulant therapy, as well as patients with a history of intracranial haemorrhage, stroke, or TIA, or patients with eGFR < 15 mL/min were excluded.
+The mean duration of follow-up was 24 months and the maximum follow-up was 4.1 years.
+The mean age of the enrolled patients was 67 years and 17% of the patient population were > 75 years.
+The median time from index revascularisation procedure to start of study treatment was 5 days in the overall population (6 days after surgical and 4 days after endovascular revascularisation including hybrid procedures).
+Overall, 53.0% of patients received short term background clopidogrel therapy with a median duration of 31 days.
+According to study protocol study treatment could be commenced as soon as possible but no later than 10 days after a successful qualifying revascularisation procedure and once hemostasis had been assured.
+Rivaroxaban 2.5 mg twice daily in combination with ASA 100 mg once daily was superior in the reduction of the primary composite outcome of myocardial infarction, ischaemic stroke, CV death, acute limb ischaemia and major amputation of vascular etiology compared to ASA alone (see
+Table 9).
+The primary safety outcome of TIMI major bleeding events was increased in patients treated with rivaroxaban and ASA, with no increase in fatal or intracranial bleeding (see Table 10).
+The secondary efficacy outcomes were tested in a prespecified, hierarchical order (see Table 9).
+
+Table 9: Efficacy results from phase III VOYAGER PAD
+
+| Study Population | Patients after recent revascularisation procedures of the lower limb due to symptomatic PAD a) |  |  |
+| --- | --- | --- | --- |
+| Treatment Dosage | Rivaroxaban 2.5 mg bid in combination with ASA 100 mg od N=3,286 n (Cum. risk %)c) | ASA 100 mg od N=3,278 n (Cum. risk %)c) | Hazard Ratio (95% CI) d) |
+| Primary efficacy outcomeb) | 508 (15.5%) | 584 (17.8%) | 0.85 (0.76;0.96) p = 0.0043 e)* |
+| - MI | 131 (4.0%) | 148 (4.5%) | 0.88 (0.70;1.12) |
+| - Ischaemic stroke | 71 (2.2%) | 82 (2.5%) | 0.87 (0.63;1.19) |
+| - CV death | 199 (6.1%) | 174 (5.3%) | 1.14 (0.93;1.40) |
+| - Acute limb ischaemia f) | 155 (4.7%) | 227 (6.9%) | 0.67 (0.55;0.82) |
+| - Major amputation of vascular etiology | 103 (3.1%) | 115 (3.5%) | 0.89 (0.68;1.16) |
+| Secondary efficacy outcome |  |  |  |
+| Unplanned index limb revascularisation for recurrent limb ischaemia | 584 (17.8%) | 655 (20.0%) | 0.88 (0.79;0.99) p = 0.0140 e)* |
+| Hospitalisation for a coronary or peripheral cause (either lower limb) of a thrombotic nature | 262 (8.0%) | 356 (10.9%) | 0.72 (0.62;0.85) p < 0.0001 e)* |
+| All-cause mortality | 321 (9.8%) | 297 (9.1%) | 1.08 (0.92;1.27) |
+| VTE events | 25 (0.8%) | 41 (1.3%) | 0.61 (0.37;1.00) |
+
+a) intention to treat analysis set, primary analyses; ICAC adjudicated b) composite of MI, ischaemic stroke, CV death (CV death and unknown cause of death), ALI, and major amputation of vascular etiology c) only the first occurrence of the outcome event under analysis within the data scope from a subject is considered d) HR (95% CI) is based on the Cox proportional hazards model stratified by type of procedure and clopidogrel use with treatment as the only covariate.
+e) One sided p-value is based on the log-rank test stratified by type of procedure and clopidogrel use with treatment as factor.
+f) acute limb ischaemia is defined as sudden significant worsening of limb perfusion, either with new pulse deficit or requiring therapeutic intervention (i.e. thrombolysis or thrombectomy, or urgent revascularisation), and leading to hospitalisation
+* The reduction in the efficacy outcome was statistically superior.
+ALI: acute limb ischaemia; bid: twice daily; od: once daily; CI: confidence interval; MI: myocardial infarction; CV: cardiovascular; ICAC: Independent Clinical Adjudication Committee
+Table 10: Safety results from phase III VOYAGER PAD
+
+| Study Population | Patients after recent revascularisation procedures of the lower limb due to symptomatic PAD a) |  |  |
+| --- | --- | --- | --- |
+| Treatment Dosage | Rivaroxaban 2.5 mg bid in combination with ASA 100 mg od N=3,256 n (Cum. risk %)b) | ASA 100 mg od N=3,248 n (Cum. risk %)b) | Hazard Ratio (95% CI) c) p-value d) |
+| TIMI major bleeding (CABG / non-CABG) | 62 (1.9%) | 44 (1.4%) | 1.43 (0.97;2.10) p = 0.0695 |
+| - Fatal bleeding | 6 (0.2%) | 6 (0.2%) | 1.02 (0.33;3.15) |
+| - Intracranial bleeding | 13 (0.4%) | 17 (0.5%) | 0.78 (0.38;1.61) |
+| - Overt bleeding associated with drop Hb ≥ 5g/dL / Hct ≥ 15% | 46 (1.4%) | 24 (0.7%) | 1.94 (1.18;3.17) |
+| ISTH major bleeding | 140 (4.3%) | 100 (3.1%) | 1.42 (1.10;1.84) p = 0.0068 |
+| - Fatal bleeding | 6 (0.2%) | 8 (0.2%) | 0.76 (0.26;2.19) |
+| - Non-fatal critical organ bleeding | 29 (0.9%) | 26 (0.8%) | 1.14 (0.67;1.93) |
+| ISTH clinically relevant non-major bleeding | 246 (7.6%) | 139 (4.3%) | 1.81 (1.47;2.23) |
+
+a) Safety analysis set (all randomised subjects with at least one dose of study drug), ICAC: Independent Clinical Adjudication Committee b) n = number of subjects with events, N = number of subjects at risk, % = 100 * n/N, n/100p-yrs = ratio of number of subjects with incident events / cumulative at-risk time c) HR (95% CI) is based on the Cox proportional hazards model stratified by type of procedure and clopidogrel use with treatment as the only covariate d) Two sided p-value is based on the log rank-test stratified by type of procedure and clopidogrel use with treatment as a factor
+
 CAD with heart failure
 The COMMANDER HF study included 5,022 patients with heart failure and significant coronary artery disease (CAD) following a hospitalisation of decompensated heart failure (HF) which were randomly assigned into one of the two treatment groups: rivaroxaban 2.5 mg twice daily (N=2,507) or matching placebo (N=2,515), respectively.
 The overall median study treatment duration was 504 days.
@@ -187,7 +242,6 @@ The event rates for MI per 100 patient-years (rivaroxaban vs placebo) were 2.08 
 The principal safety outcome (i.e. composite of fatal bleeding or bleeding into a critical space with a potential for permanent disability), occurred in 18 (0.7%) patients in the rivaroxaban 2.5 mg twice daily treatment group and in 23 (0.9%) patients in the placebo group, respectively (HR=0.80; 95% CI 0.43 - 1.49; p=0.484).
 There was a statistically significant increase in ISTH major bleeding in the rivaroxaban group compared with placebo (event rate per 100 patient-years: 2.04 vs 1.21, HR 1.68; 95% CI: 1.18 to 2.39; p=0.003).
 In patients with mild and moderate heart failure the treatment effects for the COMPASS study subgroup were similar to those of the entire study population (see section CAD/PAD).
-
 Patients with high risk triple positive antiphospholipid syndrome
 In an investigator sponsored, randomised open-label multicentre study with blinded endpoint adjudication, rivaroxaban was compared to warfarin in patients with a history of thrombosis, diagnosed with antiphospholipid syndrome and at high risk for thromboembolic events (positive for all 3 antiphospholipid tests: lupus anticoagulant, anticardiolipin antibodies, and anti-beta 2-glycoprotein I antibodies).
 The study was terminated prematurely after the enrolment of 120 patients due to an excess of events among patients in the rivaroxaban arm.

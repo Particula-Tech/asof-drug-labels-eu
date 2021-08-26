@@ -1,8 +1,11 @@
 # 4.4 Special warnings and precautions for use
 
-In ACS patients, efficacy and safety of Xarelto 2.5 mg have been investigated in combination with the antiplatelet agents ASA alone or ASA plus clopidogrel/ticlopidine.
+In ACS patients, efficacy and safety of Xarelto 2.5 mg twice daily have been investigated in combination with the antiplatelet agents ASA alone or ASA plus clopidogrel/ticlopidine.
+In patients at high risk of ischaemic events with CAD/PAD, efficacy and safety of Xarelto 2.5 mg twice daily have been investigated in combination with ASA.
+In patients after recent revascularisation procedure of the lower limb due to symptomatic PAD, efficacy and safety of Xarelto 2.5 mg twice daily have been investigated in combination with the antiplatelet agent ASA alone or ASA plus short-term clopidogrel.
+If required, dual antiplatelet therapy with clopidogrel should be short-term; long-term dual antiplatelet therapy should be avoided (see section 5.1).
+
 Treatment in combination with other antiplatelet agents, e.g. prasugrel or ticagrelor, has not been studied and is not recommended.
-In patients at high risk of ischaemic events with CAD/PAD, efficacy and safety of Xarelto 2.5 mg have only been investigated in combination with ASA.
 
 Clinical surveillance in line with anticoagulation practice is recommended throughout the treatment period.
 
@@ -33,7 +36,7 @@ These active substances are strong inhibitors of both CYP3A4 and P-gp and theref
 
 Care is to be taken if patients are treated concomitantly with medicinal products affecting haemostasis such as non-steroidal anti-inflammatory medicinal products (NSAIDs), acetylsalicylic acid (ASA) and platelet aggregation inhibitors or selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs).
 For patients at risk of ulcerative gastrointestinal disease an appropriate prophylactic treatment may be considered (see sections 4.5 and 5.1).
-Patients on treatment with Xarelto and ASA or with Xarelto and ASA plus clopidogrel/ticlopidine should only receive concomitant treatment with NSAIDs if the benefit outweighs the bleeding risk.
+Patients treated with Xarelto and antiplatelet agents should only receive concomitant treatment with NSAIDs if the benefit outweighs the bleeding risk.
 
 Other haemorrhagic risk factors
 As with other antithrombotics, rivaroxaban is not recommended in patients with an increased bleeding risk such as:
@@ -52,6 +55,12 @@ It should be used with caution in ACS and CAD/PAD patients:
 - CAD patients with severe symptomatic heart failure.
   Study data indicate that such patients may benefit less from treatment with rivaroxaban (see section 5.1).
 
+Patients with cancer
+Patients with malignant disease may simultaneously be at higher risk of bleeding and thrombosis.
+The individual benefit of antithrombotic treatment should be weighed against risk for bleeding in patients with active cancer dependent on tumour location, antineoplastic therapy and stage of disease.
+Tumours located in the gastrointestinal or genitourinary tract have been associated with an increased risk of bleeding during rivaroxaban therapy.
+In patients with malignant neoplasms at high risk of bleeding, the use of rivaroxaban is contraindicated (see section 4.3).
+
 Patients with prosthetic valves
 Rivaroxaban should not be used for thromboprophylaxis in patients having recently undergone transcatheter aortic valve replacement (TAVR).
 Safety and efficacy of Xarelto have not been studied in patients with prosthetic heart valves; therefore, there are no data to support that Xarelto provides adequate anticoagulation in this patient population.
@@ -68,6 +77,8 @@ Few ACS patients with a prior stroke or TIA have been studied but the limited ef
 
 Patients with CAD/PAD
 CAD/PAD patients with previous haemorrhagic or lacunar stroke, or an ischaemic, non-lacunar stroke with in the previous month were not studied (see section 4.3).
+Patients after recent revascularisation procedures of the lower limb due to symptomatic PAD with a previous stroke or TIA were not studied.
+Treatment with Xarelto 2.5 mg should be avoided in these patients receiving dual antiplatelet therapy.
 
 Spinal/epidural anaesthesia or puncture
 When neuraxial anaesthesia (spinal/epidural anaesthesia) or spinal/epidural puncture is employed, patients treated with antithrombotic agents for prevention of thromboembolic complications are at risk of developing an epidural or spinal haematoma which can result in long-term or permanent paralysis.
@@ -76,11 +87,11 @@ The risk may also be increased by traumatic or repeated epidural or spinal punct
 Patients are to be frequently monitored for signs and symptoms of neurological impairment (e.g. numbness or weakness of the legs, bowel or bladder dysfunction).
 If neurological compromise is noted, urgent diagnosis and treatment is necessary.
 Prior to neuraxial intervention the physician should consider the potential benefit versus the risk in anticoagulated patients or in patients to be anticoagulated for thromboprophylaxis.
-There is no clinical experience with the use of Xarelto 2.5 mg with ASA alone or with ASA plus clopidogrel or ticlopidine in these situations.
+There is no clinical experience with the use of Xarelto 2.5 mg and antiplatelet agents in these situations.
+Platelet aggregation inhibitors should be discontinued as suggested by the manufacturer’s prescribing information.
 To reduce the potential risk of bleeding associated with the concurrent use of rivaroxaban and neuraxial (epidural/spinal) anaesthesia or spinal puncture, consider the pharmacokinetic profile of rivaroxaban.
 Placement or removal of an epidural catheter or lumbar puncture is best performed when the anticoagulant effect of rivaroxaban is estimated to be low (see section 5.2).
 However, the exact timing to reach a sufficiently low anticoagulant effect in each patient is not known.
-Platelet aggregation inhibitors should be discontinued as suggested by the manufacturer’s prescribing information.
 
 Dosing recommendations before and after invasive procedures and surgical intervention
 If an invasive procedure or surgical intervention is required, Xarelto 2.5 mg should be stopped at least 12 hours before the intervention, if possible and based on the clinical judgement of the physician.
@@ -113,7 +124,6 @@ For patients at risk of ulcerative gastrointestinal disease an appropriate proph
 
 Hip fracture surgery
 Rivaroxaban has not been studied in interventional clinical studies in patients undergoing hip fracture surgery to evaluate efficacy and safety.
-
 Haemodynamically unstable PE patients or patients who require thrombolysis or pulmonary embolectomy
 Xarelto is not recommended as an alternative to unfractionated heparin in patients with pulmonary embolism who are haemodynamically unstable or may receive thrombolysis or pulmonary embolectomy since the safety and efficacy of Xarelto have not been established in these clinical situations.
 

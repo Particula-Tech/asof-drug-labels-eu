@@ -16,12 +16,21 @@ Treatment with Xarelto should be started as soon as possible after stabilisation
 
 Patients taking Xarelto 2.5 mg twice daily should also take a daily dose of 75 - 100 mg ASA.
 
+In patients after a successful revascularisation procedure of the lower limb (surgical or endovascular including hybrid procedures) due to symptomatic PAD, treatment should not be started until haemostasis is achieved (see section 5.1).
+
 Duration of treatment should be determined for each individual patient based on regular evaluations and should consider the risk for thrombotic events versus the bleeding risks.
 
-In patients with an acute thrombotic event or vascular procedure and a need for dual antiplatelet therapy, the continuation of Xarelto 2.5 mg twice daily should be evaluated depending on the type of event or procedure and antiplatelet regimen.
-Safety and efficacy of Xarelto 2.5 mg twice daily in combination with ASA plus clopidogrel/ticlopidine has only been studied in patients with recent ACS (see section 4.1).
-Dual antiplatelet therapy has not been studied in combination with Xarelto 2.5 mg twice daily in patients with CAD/PAD (see sections 4.4 and 5.1).
+- ACS, CAD/PAD
 
+Co-administration with antiplatelet therapy
+In patients with an acute thrombotic event or vascular procedure and a need for dual antiplatelet therapy, the continuation of Xarelto 2.5 mg twice daily should be evaluated depending on the type of event or procedure and antiplatelet regimen.
+
+Safety and efficacy of Xarelto 2.5 mg twice daily in combination with dual antiplatelet therapy have been studied in patients
+
+- with recent ACS in combination with ASA plus clopidogrel/ticlopidine (see section 4.1), and
+- after recent revascularisation procedure of the lower limb due to symptomatic PAD in combination with ASA and, if applicable, short-term clopidogrel use (see sections 4.4 and 5.1)
+
+Missed dose
 If a dose is missed the patient should continue with the regular dose as recommended at the next scheduled time.
 The dose should not be doubled to make up for a missed dose.
 
@@ -43,7 +52,6 @@ For patients currently receiving a parenteral anticoagulant, discontinue the par
 
 Converting from Xarelto to parenteral anticoagulants
 Give the first dose of parenteral anticoagulant at the time the next Xarelto dose would be taken.
-
 Special populations
 Renal impairment
 Limited clinical data for patients with severe renal impairment (creatinine clearance 15 - 29 ml/min) indicate that rivaroxaban plasma concentrations are significantly increased.
@@ -54,6 +62,7 @@ No dose adjustment is necessary in patients with mild renal impairment (creatini
 
 Hepatic impairment
 Xarelto is contraindicated in patients with hepatic disease associated with coagulopathy and clinically relevant bleeding risk including cirrhotic patients with Child Pugh B and C (see sections 4.3 and 5.2).
+
 Elderly population
 No dose adjustment (see sections 4.4 and 5.2)
 The risk of bleeding increases with increasing age (see section 4.4).

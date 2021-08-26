@@ -66,9 +66,9 @@ There are no data in patients with creatinine clearance < 15 ml/min.
 Due to the high plasma protein binding rivaroxaban is not expected to be dialysable.
 Use is not recommended in patients with creatinine clearance < 15 ml/min.
 Rivaroxaban is to be used with caution in patients with creatinine clearance 15 - 29 ml/min (see section 4.4).
-
 Pharmacokinetic data in patients
 In patients receiving rivaroxaban 2.5 mg twice daily for the prevention of atherothrombotic events in patients with ACS the geometric mean concentration (90% prediction interval) 2 - 4 h and about 12 h after dose (roughly representing maximum and minimum concentrations during the dose interval) was 47 (13 - 123) and 9.2 (4.4 - 18) mcg/l, respectively.
+
 Pharmacokinetic/pharmacodynamic relationship
 The pharmacokinetic/pharmacodynamic (PK/PD) relationship between rivaroxaban plasma concentration and several PD endpoints (factor-Xa inhibition, PT, aPTT, Heptest) has been evaluated after administration of a wide range of doses (5 - 30 mg twice a day).
 The relationship between rivaroxaban concentration and factor-Xa activity was best described by an Emax model.

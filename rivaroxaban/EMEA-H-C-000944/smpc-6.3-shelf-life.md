@@ -1,6 +1,7 @@
 # 6.3 Shelf life
 
 3 years
+
 Crushed tablets
 Crushed rivaroxaban tablets are stable in water and in apple puree for up to 4 hours.
 

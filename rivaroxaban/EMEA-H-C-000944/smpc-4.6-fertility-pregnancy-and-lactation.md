@@ -5,7 +5,6 @@ Safety and efficacy of Xarelto have not been established in pregnant women.
 Studies in animals have shown reproductive toxicity (see section 5.3).
 Due to the potential reproductive toxicity, the intrinsic risk of bleeding and the evidence that rivaroxaban passes the placenta, Xarelto is contraindicated during pregnancy (see section 4.3).
 Women of child-bearing potential should avoid becoming pregnant during treatment with rivaroxaban.
-
 Breast-feeding
 Safety and efficacy of Xarelto have not been established in breast-feeding women.
 Data from animals indicate that rivaroxaban is secreted into milk.

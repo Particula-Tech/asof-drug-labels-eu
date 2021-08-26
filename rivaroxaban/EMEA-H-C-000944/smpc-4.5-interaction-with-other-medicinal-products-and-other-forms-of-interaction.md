@@ -9,10 +9,11 @@ Active substances strongly inhibiting only one of the rivaroxaban elimination pa
 Clarithromycin (500 mg twice a day), for instance, considered as a strong CYP3A4 inhibitor and moderate P-gp inhibitor, led to a 1.5 fold increase in mean rivaroxaban AUC and a 1.4 fold increase in Cmax.
 The interaction with clarithromycin is likely not clinically relevant in most patients but can be potentially significant in high-risk patients.
 (For patients with renal impairment: see section 4.4).
+
 Erythromycin (500 mg three times a day), which inhibits CYP3A4 and P-gp moderately, led to a 1.3 fold increase in mean rivaroxaban AUC and Cmax.
 The interaction with erythromycin is likely not clinically relevant in most patients but can be potentially significant in high-risk patients.
-In subjects with mild renal impairment erythromycin (500 mg three times a day) led to a 1.8 fold increase in mean rivaroxaban AUC and 1.6 fold increase in CRmax when compared to subjects with normal renal function.
-In subjects with moderate renal impairment, erythromycin led to a 2.0 fold increase in mean rivaroxaban AUC and 1.6 fold increase in CRmax when compared to subjects with normal renal function.
+In subjects with mild renal impairment erythromycin (500 mg three times a day) led to a 1.8 fold increase in mean rivaroxaban AUC and 1.6 fold increase in Cmax when compared to subjects with normal renal function.
+In subjects with moderate renal impairment, erythromycin led to a 2.0 fold increase in mean rivaroxaban AUC and 1.6 fold increase in Cmax when compared to subjects with normal renal function.
 The effect of erythromycin is additive to that of renal impairment (see section 4.4).
 
 Fluconazole (400 mg once daily), considered as a moderate CYP3A4 inhibitor, led to a 1.4 fold increase in mean rivaroxaban AUC and a 1.3 fold increase in mean Cmax.
