@@ -1,10 +1,12 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 MabThera 100 mg concentrate for solution for infusion
+
 Each mL contains 10 mg of rituximab.
 Each 10 mL vial contains 100 mg of rituximab.
 
 MabThera 500 mg concentrate for solution for infusion
+
 Each mL contains 10 mg of rituximab.
 Each 50 mL vial contains 500 mg of rituximab.
 
@@ -12,6 +14,7 @@ Rituximab is a genetically engineered chimeric mouse/human monoclonal antibody r
 The antibody is produced by mammalian (Chinese hamster ovary) cell suspension culture and purified by affinity chromatography and ion exchange, including specific viral inactivation and removal procedures.
 
 Excipients with known effects
+
 Each 10 mL vial contains 2.3 mmol (52.6 mg) sodium.
 Each 50 mL vial contains 11.5 mmol (263.2 mg) sodium.
 

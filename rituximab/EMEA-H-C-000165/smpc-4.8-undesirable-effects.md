@@ -14,11 +14,15 @@ Infectious events (predominantly bacterial and viral) occurred in approximately 
 
 The most frequently reported or observed serious adverse reactions were:
 
-- IRRs (including cytokine-release syndrome, tumour-lysis syndrome), see section 4.4.
+- IRRs (including cytokine-release syndrome, tumour-lysis syndrome), see section
+
+4.4.
+
 - Infections, see section 4.4.
 - Cardiovascular events, see section 4.4.
 
 Other serious ADRs reported include hepatitis B reactivation and PML (see section 4.4.).
+
 Tabulated list of adverse reactions
 
 The frequencies of ADRs reported with MabThera alone or in combination with chemotherapy are summarised in Table 3.
@@ -27,7 +31,6 @@ Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to
 Within each frequency grouping, undesirable effects are presented in the order of decreasing seriousness.
 
 The ADRs identified only during post-marketing surveillance, and for which a frequency could not be estimated, are listed under “not known”.
-
 Table 3 ADRs reported in clinical trials or during postmarketing surveillance in patients with NHL and CLL disease treated with MabThera monotherapy/maintenance or in combination with chemotherapy
 
 | MedDRA System Organ Class | Very Common | Common | Uncommon | Rare | Very Rare | Not known |
@@ -47,9 +50,6 @@ Table 3 ADRs reported in clinical trials or during postmarketing surveillance in
 | Skin and subcutaneou s tissue disorders | pruritus, rash, +alopecia | urticaria, sweating, night sweats, +skin disorder |  |  | severe bullous skin reactions, Stevens-Johnson syndrome, toxic epidermal necrolysis (Lyell’s syndrome) 7 |  |
 | Musculoskel etal, connective tissue disorders |  | hypertonia, myalgia, arthralgia, back pain, neck pain, pain |  |  |  |  |
 | Renal and urinary disorders |  |  |  |  | renal failure4 |  |
-
-| MedDRA System Organ Class | Very Common | Common | Uncommon | Rare | Very Rare | Not known |
-| --- | --- | --- | --- | --- | --- | --- |
 | General disorders and administrati on site conditions | fever, chills, asthenia, headache | tumour pain, flushing, malaise, cold syndrome, +fatigue, +shivering, +multi-organ failure4 | infusion site pain |  |  |  |
 | Investigation s | decreased IgG levels |  |  |  |  |  |
 | For each term, the frequency count was based on reactions of all grades (from mild to severe), except for terms marked with "+" where the frequency count was based only on severe (≥ grade 3 NCI common toxicity criteria) reactions. Only the highest frequency observed in the trials is reported 1 includes reactivation and primary infections; frequency based on R-FC regimen in relapsed/refractory CLL 2 see also section infection below 3 see also section haematologic adverse reactions below 4 see also section infusionrelated reactions below. Rarely fatal cases reported 5 signs and symptoms of cranial neuropathy. Occurred at various times up to several months after completion of MabThera therapy 6 observed mainly in patients with prior cardiac condition and/or cardiotoxic chemotherapy and were mostly associated with infusion-related reactions 7 includes fatal cases |  |  |  |  |  |  |
@@ -145,6 +145,7 @@ The incidence of ADRs of all grades and grade 3/4 ADR was similar in elderly pat
 Bulky disease
 There was a higher incidence of grade 3/4 ADRs in patients with bulky disease than in patients without bulky disease (25.6% vs. 15.4%).
 The incidence of ADRs of any grade was similar in these two groups.
+
 Re-treatment
 The percentage of patients reporting ADRs upon re-treatment with further courses of MabThera was similar to the percentage of patients reporting ADRs upon initial exposure (any grade and grade 3/4 ADRs).
 
@@ -163,7 +164,6 @@ Paediatric patients randomized to the LMB chemotherapy arm with MabThera, or enr
 
 The safety profile of MabThera in paediatric patients (aged ≥ 6 months to < 18 years old) with previously untreated advanced stage CD20 positive DLBCL/BL/BAL/BLL was generally consistent in type, nature and severity with the known safety profile in adult NHL and CLL patients.
 Addition of MabThera to chemotherapy did result in an increased risk of some events including infections (including sepsis) compared to chemotherapy only.
-
 Experience from rheumatoid arthritis
 
 Summary of the safety profile
@@ -228,7 +228,6 @@ In a trial designed to evaluate the safety of a more rapid MabThera infusion in 
 Patients with a history of a serious infusion reaction to a biologic therapy for RA were excluded from entry.
 The incidence, types and severity of IRRs were consistent with that observed historically.
 No serious IRRs were observed.
-
 Infections
 The overall rate of infection was approximately 94 per 100 patient years in MabThera treated patients.
 The infections were predominately mild to moderate and consisted mostly of upper respiratory tract infections and urinary tract infections.
@@ -251,6 +250,7 @@ Cases of posterior reversible encephalopathy syndrome (PRES)/reversible posterio
 Signs and symptoms included visual disturbance, headache, seizures and altered mental status, with or without associated hypertension.
 A diagnosis of PRES/RPLS requires confirmation by brain imaging.
 The reported cases had recognised risk factors for PRES/RPLS, including the patients’ underlying disease, hypertension, immunosuppressive therapy and/or chemotherapy.
+
 Neutropenia
 Events of neutropenia were observed with MabThera treatment, the majority of which were transient and mild or moderate in severity.
 Neutropenia can occur several months after the administration of MabThera (see section 4.4).
@@ -268,7 +268,6 @@ There was no increased rate in overall infections or serious infections after th
 
 A small number of spontaneous and literature cases of hypogammaglobulinaemia have been observed in paediatric patients treated with MabThera, in some cases severe and requiring long-term immunoglobulin substitution therapy.
 The consequences of long-term B cell depletion in paediatric patients are unknown.
-
 Experience from granulomatosis with polyangiitis (GPA) and microscopic polyangiitis (MPA)
 
 Adult induction of remission (GPA/MPA Study 1)
@@ -324,6 +323,7 @@ Table 5 Adverse reactions occurring at 6-months in ≥ 5% of adult patients rece
 
 Adult maintenance treatment (GPA/MPA Study 2)
 In GPA/MPA Study 2, a total of 57 adult patients with severe, active GPA and MPA were treated with MabThera for the maintenance of remission (see section 5.1).
+
 Table 6 Adverse reactions occurring in ≥ 5% of adult patients receiving MabThera in GPA/MPA Study 2, and at a higher frequency than the comparator group
 
 | MedDRA System Organ Class Adverse reaction | Rituximab (n=57) |
@@ -353,7 +353,6 @@ The most commonly reported events considered as ADRs were infusion-related react
 Long-term follow-up (GPA/MPA Study 3)
 In a long-term observational safety study, 97 GPA/MPA patients received treatment with MabThera (mean of 8 infusions [range 1-28]) for up to 4 years, according to their physician’s standard practice and discretion.
 The overall safety profile was consistent with the well-established safety profile of MabThera in RA and GPA/MPA and no new adverse reactions were reported.
-
 Paediatric population
 An open-label, single arm study was conducted in 25 paediatric patients with severe, active GPA or MPA.
 The overall study period consisted of a 6-month remission induction phase with a minimum 18-month follow-up, up to 4.5 years overall.
@@ -364,6 +363,7 @@ ADRs were considered as adverse events that occurred at an incidence of ≥ 10%.
 These included: infections (17 patients [68%] in the remission induction phase; 23 patients [92%] in the overall study period), IRRs (15 patients [60%] in the remission induction phase; 17 patients [68%] in the overall study period), and nausea (4 patients [16%] in the remission induction phase; 5 patients [20%] in the overall study period).
 
 During the overall study period, the safety profile of MabThera was consistent with that reported during the remission induction phase.
+
 The safety profile of MabThera in paediatric GPA or MPA patients was consistent in type, nature and severity with the known safety profile in adult patients in the approved autoimmune indications, including adult GPA or MPA.
 
 Description of selected adverse reactions
@@ -402,6 +402,7 @@ In the clinical trial in paediatric patients with severe, active GPA and MPA, 91
 
 The most common infections in the overall phase were: upper respiratory tract infections (URTIs) (48%), influenza (24%), conjunctivitis (20%), nasopharyngitis (20%), lower respiratory tract infections (16%), sinusitis (16%), viral URTIs (16%), ear infection (12%), gastroenteritis (12%), pharyngitis (12%), urinary tract infection (12%).
 Serious infections were reported in 7 patients (28%), and included: influenza (2 patients [8%]) and lower respiratory tract infection (2 patients [8%]) as the most frequently reported events.
+
 Malignancies
 In GPA/MPA Study 1, the incidence of malignancy in MabThera treated patients in the GPA and MPA clinical study was 2.00 per 100 patient years at the study common closing date (when the final patient had completed the follow-up period).
 On the basis of standardised incidence ratios, the incidence of malignancies appears to be similar to that previously reported in patients with ANCA-associated vasculitis.
@@ -440,6 +441,7 @@ In GPA/MPA Study 1, 24% of patients in the MabThera group (single course) and 23
 Neutropenia was not associated with an observed increase in serious infection in MabThera-treated patients.
 
 In GPA/MPA Study 2, the incidence of all-grade neutropenia was 0% for MabThera-treated patients vs 5% for azathioprine treated patients.
+
 Skin and subcutaneous tissue disorders
 Toxic Epidermal Necrolysis (Lyell’s syndrome) and Stevens-Johnson syndrome, some with fatal outcome, have been reported very rarely.
 
@@ -530,7 +532,6 @@ InSparkThera, no severe administration-related reactions were reported.
 Adverse reactions reported in MabThera intravenous formulation usage
 
 Experience from non-Hodgkin’s lymphoma and chronic lymphocytic leukaemia
-
 The most frequently observed adverse reactions (ADRs) in patients receiving MabThera were infusion-related reactions which occurred in the majority of patients during the first infusion.
 The incidence of infusion-related symptoms decreases substantially with subsequent infusions and is less than 1 % after eight doses of MabThera.
 
@@ -580,11 +581,6 @@ During MabThera maintenance treatment for up to 2 years, leucopoenia (5% vs. 2%,
 The incidence of thrombocytopenia was low (<1 %, grade 3/4) and was not different between treatment arms.
 During the treatment course in studies with MabThera in combination with chemotherapy, grade 3/4 leucopoenia (R-CHOP 88% vs. CHOP 79%), neutropenia (R-CVP 24% vs. CVP 14%; R-CHOP 97% vs. CHOP 88%), were usually reported with higher frequencies when compared to chemotherapy alone.
 
-In studies of MabThera in patients with Waldenstrom’s macroglobulinaemia, transient increases in
-serum IgM levels have been observed following treatment initiation, which may be associated with
-hyperviscosity and related symptoms. The transient IgM increase usually returned to at least baseline
-level within 4 months.
-
 Cardiac events were reported as serious adverse events (including atrial fibrillation, myocardial infarction, left ventricular failure, myocardial ischemia) in 3% of patients treated with MabThera compared to <1% on observation.
 
 During the treatment period (induction treatment phase comprising of R-CHOP for at most eight cycles), four patients (2 %) treated with R-CHOP, all with cardiovascular risk factors, experienced thromboembolic cerebrovascular accidents during the first treatment cycle.
@@ -602,28 +598,16 @@ There was a higher incidence of grade 3/4 ADRs in patients with bulky disease th
 Local cutaneous reactions including injection site reactions were very common in patients receiving MabThera subcutaneous formulation.
 In the NHL phase 3 trial SABRINA (BO22334), local cutaneous reactions were reported in up to 20% of patients receiving subcutaneous MabThera.
 The most common local cutaneous reactions in the MabThera subcutaneous arm were injection site erythema (13%), injection site pain (7%), and injection site oedema (4%).
-Events seen following subcutaneous administration were mild or moderate, apart from one patient who reported a local cutaneous reaction
+Events seen following subcutaneous administration were mild or moderate, apart from one patient who reported a local cutaneous reaction of Grade 3 intensity (injection site rash) following the first MabThera subcutaneous administration (Cycle 2).
+Similar events were observed in the CLL SAWYER trial (BO25341) and were reported in up to 42% of patients in the MabThera subcutaneous arm.
+Most common local cutaneous reactions were injection site erythema (26%), injection site pain (16%), and injection site swelling (5%).
+Two patients in SAWYER trial who experienced Grade 3 local cutaneous reactions (injection site erythema, injection site pain and injection site swelling).
 
-of Grade 3 intensity (injection site rash) following the first MabThera subcutaneous administration
-(Cycle 2). Local cutaneous reactions of any grade in the MabThera subcutaneous arm were most
-common during the first subcutaneous cycle (Cycle 2), followed by the second, and the incidence
-decreased with subsequent injections. Similar events were observed in the CLL SAWYER trial
-(BO25341) and were reported in up to 42% of patients in the MabThera subcutaneous arm. Most
-common local cutaneous reactions were injection site erythema (26%), injection site pain (16%), and
-injection site swelling (5%). Two patients in SAWYER trial who experienced Grade 3 local
-cutaneous reactions (injection site erythema, injection site pain and injection site swelling).
-
-The risk of acute administration-related reactions associated with the subcutaneous formulation of
-
-MabThera was assessed in -three clinical trials: SparkThera and SABRINA (the two trials in NHL)
-and SAWYER the CLL trial.
-
+The risk of acute administration-related reactions associated with the subcutaneous formulation of MabThera was assessed in -three clinical trials: SparkThera and SABRINA (the two trials in NHL) and SAWYER the CLL trial.
 In trial SABRINA, severe administration-related reactions (grade≥3) were reported in two patients (2%) following administration of MabThera subcutaneous formulation .
 In trial SparkThera, no severe administration-related reactions were reported.
-
-In SAWYER (BO25341), severe administration-related reactions (Grade ≥3) were reported in four
-patients (5%) following MabThera subcutaneous administration. These events were Grade 4
-thrombocytopenia and Grade 3 anxiety, injection-site erythema and urticaria.
+In SAWYER (BO25341), severe administration-related reactions (Grade ≥3) were reported in four patients (5%) following MabThera subcutaneous administration.
+These events were Grade 4 thrombocytopenia and Grade 3 anxiety, injection-site erythema and urticaria.
 
 | MedDRA System Organ Class | Very Common | Common | Uncommon | Rare | Very Rare | Not known |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -648,27 +632,5 @@ thrombocytopenia and Grade 3 anxiety, injection-site erythema and urticaria.
 
 In patients with relapsed/refractory CLL, the incidence of grade 3/4 hepatitis B infection (reactivation and primary infection) was 2% in R-FC vs 0% in FC.
 
-In clinical trials with MabThera monotherapy given for 4 weeks, haematological abnormalities
-occurred in a minority of patients and were usually mild and reversible. Severe (grade 3/4) neutropenia
-was reported in 4.2%, anaemia in 1.1% and thrombocytopenia in 1.7% of the patients. During
-MabThera maintenance treatment for up to 2 years, leucopoenia (5% vs. 2%, grade 3/4) and
-neutropenia (10% vs. 4%, grade 3/4) were reported at a higher incidence when compared to
-observation. The incidence of thrombocytopenia was low (<1 %, grade 3/4) and was not different
-between treatment arms. During the treatment course in studies with MabThera in combination with
-chemotherapy, grade 3/4 leucopoenia (R-CHOP 88% vs. CHOP 79%, R-FC 23% vs. FC 12%),
-grade 3/4 neutropenia (R-CVP 24% vs. CVP 14%; R-CHOP 97% vs. CHOP 88%, R-FC 30% vs. FC
-19% in previously untreated CLL), grade 3/4 pancytopenia (R-FC 3% vs. FC 1% in previously
-untreated CLL) were usually reported with higher frequencies when compared to chemotherapy
-alone. However, the higher incidence of neutropenia in patients treated with MabThera and
-chemotherapy was not associated with a higher incidence of infections and infestations compared to
-patients treated with chemotherapy alone. Studies with MabThera intravenous formulation in
-previously untreated and relapsed/refractory CLL have established that in up to 25% of patients treated
-with R-FC neutropenia was prolonged (defined as neutrophil count remaining below 1x109/L between
-day 24 and 42 after the last dose) or occurred with a late onset (defined as neutrophil count below
-1x109/L later than 42 days after last dose in patients with no previous prolonged neutropenia or who
-recovered prior to day 42) following treatment with MabThera plus FC.There were no differences
-reported for the incidence of anaemia. Some cases of late neutropenia occurring more than four weeks
-after the last infusion of MabThera were reported. In the CLL first-line study, Binet stage C patients
-experienced more adverse events in the R-FC arm compared to the FC arm (R-FC 83% vs. FC 71%).
-In the relapsed/refractory CLL study grade 3/4 thrombocytopenia was reported in 11% of patients in
-the R-FC group compared to 9% of patients in the FC group.
+During the treatment course in studies with MabThera in combination with chemotherapy, grade 3/4 leucopoenia (R-CHOP 88% vs. CHOP 79%, R-FC 23% vs. FC 12%), grade 3/4 neutropenia (R-CVP 24% vs. CVP 14%; R-CHOP 97% vs. CHOP 88%, R-FC 30% vs. FC 19% in previously untreated CLL), grade 3/4 pancytopenia (R-FC 3% vs. FC 1% in previously untreated CLL) were usually reported with higher frequencies when compared to chemotherapy alone.
+Studies with MabThera intravenous formulation in previously untreated and relapsed/refractory CLL have established that in up to 25% of patients treated with R-FC neutropenia was prolonged (defined as neutrophil count remaining below 1x109/L between day 24 and 42 after the last dose) or occurred with a late onset (defined as neutrophil count below 1x109/L later than 42 days after last dose in patients with no previous prolonged neutropenia or who recovered prior to day 42) following treatment with MabThera plus FC.There were no differences reported for the incidence of anaemia.

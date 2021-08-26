@@ -3,6 +3,7 @@
 Contraception in males and females
 
 Due to the long retention time of rituximab in B cell depleted patients, women of childbearing potential should use effective contraceptive methods during and for 12 months following treatment with MabThera.
+
 Pregnancy
 
 IgG immunoglobulins are known to cross the placental barrier.
@@ -11,11 +12,11 @@ B cell levels in human neonates following maternal exposure to MabThera have not
 There are no adequate and well-controlled data from studies in pregnant women, however transient B-cell depletion and lymphocytopenia have been reported in some infants born to mothers exposed to MabThera during pregnancy.
 Similar effects have been observed in animal studies (see section 5.3).
 For these reasons MabThera should not be administered to pregnant women unless the possible benefit outweighs the potential risk.
-
 Breast-feeding
 
-Whether rituximab is excreted in human milk is not known.
-However, because maternal IgG is excreted in human milk, and rituximab was detectable in milk from lactating monkeys, women should not breastfeed while treated with MabThera and for 12 months following MabThera treatment.
+Limited data on rituximab excretion into breast milk suggest very low milk levels (relative infant dose less than 0.4%).
+Few cases of follow-up of breastfed infants describe normal growth and development up to 1.5 years.
+However, as these data are limited and the long-term outcomes of breastfed infants remain unknown, breastfeeding is not recommended while being treated with rituximab and optimally for 12 months following rituximab treatment.
 
 Fertility
 

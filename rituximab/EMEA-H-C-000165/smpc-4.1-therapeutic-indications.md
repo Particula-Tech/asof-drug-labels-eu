@@ -9,7 +9,6 @@ MabThera is indicated for the treatment of previously untreated adult patients w
 MabThera maintenance therapy is indicated for the treatment of adult follicular lymphoma patients responding to induction therapy.
 
 MabThera monotherapy is indicated for treatment of adult patients with stage III-IV follicular lymphoma who are chemoresistant or are in their second or subsequent relapse after chemotherapy.
-
 MabThera is indicated for the treatment of adult patients with CD20 positive diffuse large B cell non-Hodgkin’s lymphoma in combination with CHOP (cyclophosphamide, doxorubicin, vincristine, prednisolone) chemotherapy.
 MabThera in combination with chemotherapy is indicated for the treatment of paediatric patients (aged ≥ 6 months to < 18 years old) with previously untreated advanced stage CD20 positive diffuse large B-cell lymphoma (DLBCL), Burkitt lymphoma (BL)/Burkitt leukaemia (mature B-cell acute leukaemia) (BAL) or Burkitt-like lymphoma (BLL).
 

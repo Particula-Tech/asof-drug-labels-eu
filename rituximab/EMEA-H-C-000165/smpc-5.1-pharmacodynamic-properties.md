@@ -238,7 +238,9 @@ Table 13 Treatment of relapsed/refractory chronic lymphocytic leukaemia - overvi
 | Duration of response * Disease free survival (DFS)** Time to new CLL treatment | 27.6 42.2 34.2 | 39.6 39.6 NR | 0.0252 0.8842 0.0024 | 31% -6% 35% |
 
 Response rate and CR rates analysed using Chi-squared Test.
+
 *: only applicable to patients achieving a CR, nPR, PR; NR: not reached n.a. not applicable
+
 **: only applicable to patients achieving a CR;
 
 Results from other supportive studies using MabThera in combination with other chemotherapy regimens (including CHOP, FCM, PC, PCM, bendamustine and cladribine) for the treatment of previously untreated and/or relapsed/refractory CLL patients have also demonstrated high overall response rates with benefit in terms of PFS rates, albeit with modestly higher toxicity (especially myelotoxicity).
@@ -399,9 +401,7 @@ ACR50
 20
 10
 0
-
 1st 2nd 3rd 4th
-
 Course Course Course Course
 
 Clinical laboratory findings
@@ -495,11 +495,8 @@ Survival Time (Months)
 Note: Patients were censored at month 28 if they had no event.
 
 Laboratory evaluations
-
-A total of 6/34 (18%) of MabThera treated patients from the maintenance therapy clinical trial
-developed ADA. There was no apparent trend or negative impact of the presence of ADA on safety or
-efficacy in the maintenance therapy clinical trial.
-
+A total of 6/34 (18%) of MabThera treated patients from the maintenance therapy clinical trial developed ADA.
+There was no apparent trend or negative impact of the presence of ADA on safety or efficacy in the maintenance therapy clinical trial.
 Paediatric population
 
 Granulomatosis with polyangiitis (GPA) and microscopic polyangiitis (MPA)
@@ -532,19 +529,15 @@ Patients received up to 375 mg/m2 x 4 of MabThera, approximately every 6 months 
 In total, 17 out of 25 patients (68%) received additional rituximab treatment at or post Month 6 until the Common Close Out, 14 out of these 17 patients received additional rituximab treatment between Month 6 and Month 18.
 Table 21: Study WA25615 (PePRS) - PVAS Remission at Month 1, 2, 4, 6, 12 and 18
 
-| Study visit |  | Number of Responders in PVAS Remission* (response rate [%]) n=25 | 95% CIα |
-| --- | --- | --- | --- |
-| Month 1 |  | 0 | 0.0%, 13.7% |
-| Month 2 |  | 1 (4.0%) | 0.1%, 20.4% |
-| Month 4 |  | 5 (20.0%) | 6.8%, 40.7% |
-| Month 6 |  | 13 (52.0%) | 31.3%, 72.2% |
-| Month 12 |  | 18 (72.0%) | 50.6%, 87.9% |
-| Month 18 |  | 18 (72.0%) | 50.6%, 87.9% |
-|  | * PVAS of 0 and achieved glucocorticoid taper to 0.2 mg/kg/day (or 10 mg/day, whichever is lower) at |  |  |
-|  | theassessment time-point. |  |  |
-|  | αthe efficacy results are exploratory and no formal statistical testing was performed for these endpoints |  |  |
-|  | MabThera, treatment (375 mg/m2 x 4 infusions) up to Month 6 was identical for all patients. Follow-up treatment |  |  |
-|  | post Month 6 was at the discretion of the investigator. |  |  |
+| Study visit | Number of Responders in PVAS Remission* (response rate [%]) n=25 | 95% CIα |
+| --- | --- | --- |
+| Month 1 | 0 | 0.0%, 13.7% |
+| Month 2 | 1 (4.0%) | 0.1%, 20.4% |
+| Month 4 | 5 (20.0%) | 6.8%, 40.7% |
+| Month 6 | 13 (52.0%) | 31.3%, 72.2% |
+| Month 12 | 18 (72.0%) | 50.6%, 87.9% |
+| Month 18 | 18 (72.0%) | 50.6%, 87.9% |
+| * PVAS of 0 and achieved glucocorticoid taper to 0.2 mg/kg/day (or 10 mg/day, whichever is lower) at theassessment time-point. αthe efficacy results are exploratory and no formal statistical testing was performed for these endpoints MabThera, treatment (375 mg/m2 x 4 infusions) up to Month 6 was identical for all patients. Follow-up treatment post Month 6 was at the discretion of the investigator. |  |  |
 
 Laboratory evaluations
 A total of 4/25 patients (16%) developed ADA during the overall study period.
@@ -659,21 +652,15 @@ Patients achieving at least PR were entered on MabThera intravenous formulation 
 Key efficacy results for the pooled analysis of 410 patients in SABRINA stages 1 and 2 are shown in table 2.
 Table 2 Efficacy results for SABRINA (BO22334) (Intent to Treat Population)
 
-Pooled Stages 1 & 2
-N = 410
-Rituximab Rituximab
-intravenous subcutaneous
-formulation formulation
-(n = 205) (n = 205)
-Point estimate 84.9% (n = 174) 84.4% (n = 173)
-ORR a
-95% CI [79.2%, 89.5%] [78.7%, 89.1%]
-Point estimate 31.7% (n = 65) 32.2% (n = 66)
-CRR
-95% CI [25.4%, 38.6%] [25.9%, 39.1%]
-Proportion with PFS event 34.6% (n = 71 ) 31.7% ( n = 65)
-PFSb
-Hazard ratio (95% CI) 0.90 [0.64%, 1.26%]
+|  |  | Pooled Stages 1 & 2 N = 410 |  |
+| --- | --- | --- | --- |
+|  |  | Rituximab intravenous formulation (n = 205) | Rituximab subcutaneous formulation (n = 205) |
+| ORR a | Point estimate | 84.9% (n = 174) | 84.4% (n = 173) |
+|  | 95% CI | [79.2%, 89.5%] | [78.7%, 89.1%] |
+| CRR | Point estimate | 31.7% (n = 65) | 32.2% (n = 66) |
+|  | 95% CI | [25.4%, 38.6%] | [25.9%, 39.1%] |
+| PFSb | Proportion with PFS event | 34.6% (n = 71 ) | 31.7% ( n = 65) |
+|  | Hazard ratio (95% CI) | 0.90 [0.64%, 1.26%] |  |
 
 ORR – Overall Response Rate
 CRR – Complete Response Rate
@@ -766,7 +753,8 @@ The risk of disease progression was reduced by 46 % and the risk of relapse by 5
 In all patients subgroups (gender, age, age adjusted IPI, Ann Arbor stage, ECOG, β2 microglobulin, LDH, albumin, B symptoms, bulky disease, extranodal sites, bone marrow involvement), the risk ratios for event-free survival and overall survival (R-CHOP compared with CHOP) were less than 0.83 and 0.95 respectively.
 
 Of 67 patients evaluated for HAMA, no responses were noted.
-Of 356 patients evaluated for ADA, 1.1 % (4 patients) were positive.
+Of 356 patients evaluated for ADA,
+1.1 % (4 patients) were positive.
 
 The European Medicines Agency has waived the obligation to submit the results of studies with rituximab in all subsets of the paediatric population with follicular lymphoma.
 
@@ -790,33 +778,25 @@ The response rates for the analysis of 176 patients in SAWYER Part 2 are shown i
 
 Table 2 Efficacy results for SAWYER (BO25341) (Intent to Treat Population)
 
-Part 2
-N = 176
-(n = 88) (n = 88)
-Point estimate 80.7% (n = 71) 85.2% (n = 75)
-ORRa
-95% CI [70.9%, 88.3%] [76.1%, 91.9%]
-Point estimate 31.8% (n = 28) 27.3% (n = 24)
-CRRa
-95% CI [22.3%, 42.6%] [18.3%, 37.8%]
-Proportion with PFS event 42.0% (n = 37) 34.1% (n = 30)
-95% CI 0.76 [0.47%, 1.23%]
+|  |  | Part 2 N = 176 |  |
+| --- | --- | --- | --- |
+|  |  | Rituximab intravenous formulation (n = 88) | Rituximab subcutaneous formulation (n = 88) |
+| ORRa | Point estimate | 80.7% (n = 71) | 85.2% (n = 75) |
+|  | 95% CI | [70.9%, 88.3%] | [76.1%, 91.9%] |
+| CRRa | Point estimate | 31.8% (n = 28) | 27.3% (n = 24) |
+|  | 95% CI | [22.3%, 42.6%] | [18.3%, 37.8%] |
+| PFSb | Proportion with PFS event | 42.0% (n = 37) | 34.1% (n = 30) |
+|  | 95% CI | 0.76 [0.47%, 1.23%] |  |
 
 PFS – Progression-Free Survival (proportion with event, disease progression/relapse or death from any cause) a – at 3 month follow-up visit (Part 2) b – at time of final analysis (median follow-up 53 months)
 Overall the results confirm that MabThera subcutaneous formulation 1600 mg has a comparable benefit/risk profile to that of MabThera intravenous formulation 500 mg/m2.
 
-Data from the development programme of MabThera subcutaneous formulation indicate that the formation of anti-rituximab antibodies after subcutaneous administration is comparable with that
+In SAWYER trial (BO25341) the incidence of treatment-induced/enhanced anti-rituximab antibodies was similar in the two treatment arms; 15% intravenous vs. 12% subcutaneous.
+The incidence of treatment-induced/enhanced anti-rHuPH20 antibodies, only measured in patients in the subcutaneous arm was 12%.
+None of the patients who tested positive for anti-rHuPH20 antibodies tested positive for neutralizing antibodies.
 
-observed after intravenous administration. In SAWYER trial (BO25341) the incidence of
-treatment-induced/enhanced anti-rituximab antibodies was similar in the two treatment arms; 15%
-intravenous vs. 12% subcutaneous. The incidence of treatment-induced/enhanced anti-rHuPH20
-antibodies, only measured in patients in the subcutaneous arm was 12%. None of the patients who
-tested positive for anti-rHuPH20 antibodies tested positive for neutralizing antibodies.
-
-| The clinical relevance of the development of | anti-rituximab or | anti-rHuPH20 antibodies after |
-| --- | --- | --- |
-| treatment with MabThera subcutaneous formulation is not known. There was no impact of the |  |  |
-| presence of anti-rituximab or anti-rHuPH20 antibodies on safety, efficacy or PK of MabThera. |  |  |
+The clinical relevance of the development of anti-rituximab or anti-rHuPH20 antibodies after treatment with MabThera subcutaneous formulation is not known.
+There was no impact of the presence of anti-rituximab or anti-rHuPH20 antibodies on safety, efficacy or PK of MabThera.
 
 Clinical experience of MabThera concentrate for solution for infusion in CLL
 
@@ -830,7 +810,7 @@ Table 2a First--line treatment of chronic lymphocytic leukaemia
 | Efficacy Parameter | Kaplan-Meier Estimate of Median Time to Event (Months) |  |  | Risk Reduction |
 | --- | --- | --- | --- | --- |
 |  | FC (N = 409) | R-FC (N=408) | Log-Rank p value |  |
-| Progression-‑-free survival (PFS) | 32.8 | 55.3 | <0.0001 | 45% |
+| Progression---free survival (PFS) | 32.8 | 55.3 | <0.0001 | 45% |
 | Overall survival | NR | NR | 0.0319 | 27% |
 | Event free survival | 31.3 | 51.8 | <0.0001 | 44% |
 | Response rate (CR, nPR, or PR) CR rates | 72.6% 16.9% | 85.8% 36.0% | <0.0001 <0.0001 | n.a. n.a. |

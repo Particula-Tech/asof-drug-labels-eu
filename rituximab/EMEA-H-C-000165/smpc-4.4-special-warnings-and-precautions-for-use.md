@@ -134,6 +134,7 @@ IRRs in patients with GPA, MPA and pemphigus vulgaris were consistent with those
 Cardiac disorders
 Angina pectoris, cardiac arrhythmias such as atrial flutter and fibrillation, heart failure and/or myocardial infarction have occurred in patients treated with MabThera.
 Therefore, patients with a history of cardiac disease should be monitored closely (see Infusion-related reactions, above).
+
 Infections
 Based on the mechanism of action of MabThera and the knowledge that B cells play an important role in maintaining normal immune response, patients have an increased risk of infection following MabThera therapy (see section 5.1).
 Serious infections, including fatalities, can occur during therapy with MabThera (see section 4.8).
@@ -177,14 +178,12 @@ In the overall experience of MabThera repeat treatment over one year in rheumato
 
 Concomitant/sequential use of other DMARDs in rheumatoid arthritis
 The concomitant use of MabThera and anti-rheumatic therapies other than those specified under the rheumatoid arthritis indication and posology is not recommended.
-
 There are limited data from clinical trials to fully assess the safety of the sequential use of other DMARDs (including TNF inhibitors and other biologics) following MabThera (see section 4.5).
 The available data indicate that the rate of clinically relevant infection is unchanged when such therapies are used in patients previously treated with MabThera, however patients should be closely observed for signs of infection if biologic agents and/or DMARDs are used following MabThera therapy.
 
 Malignancy
 Immunomodulatory drugs may increase the risk of malignancy.
-On the basis of limited experience with MabThera in rheumatoid arthritis patients (see section 4.8) the present data do not seem to suggest any increased risk of malignancy.
-However, the possible risk for the development of solid tumours cannot be excluded at this time.
+However, available data do not suggest an increased risk of malignancy for rituximab used in autoimmune indications beyond the malignancy risk already associated with the underlying autoimmune condition.
 
 Excipients
 This medicinal product contains 2.3 mmol (or 52.6 mg) sodium per 10 mL vial and 11.5 mmol (or 263.2 mg) sodium per 50 mL vial, equivalent to 2.6% (for 10ml vial) and 13.2% (for 50ml vial) of the WHO recommended maximum daily intake of 2 g sodium for an adult.
@@ -226,11 +225,9 @@ Symptoms included pain, swelling, induration, haemorrhage, erythema, pruritus an
 Some local cutaneous reactions occurred more than 24 hours after the MabThera subcutaneous administration.
 The majority of local cutaneous reactions seen following administration of MabThera subcutaneous formulation was mild or moderate and resolved without any specific treatment.
 
-Before starting MabThera subcutaneous injections, all patients must always receive beforehand, a full
-dose of MabThera by intravenous infusion, using MabThera intravenous formulation. The highest risk
-of experiencing an administration related reaction is generally observed at cycle one. Beginning the
-
-therapy with MabThera intravenous infusion would allow a better handling of the administration reactions by slowing or stopping the intravenous infusion.
+Before starting MabThera subcutaneous injections, all patients must always receive beforehand, a full dose of MabThera by intravenous infusion, using MabThera intravenous formulation.
+The highest risk of experiencing an administration related reaction is generally observed at cycle one.
+Beginning the therapy with MabThera intravenous infusion would allow a better handling of the administration reactions by slowing or stopping the intravenous infusion.
 
 If patients were not able to receive one full MabThera intravenous infusion dose prior to the switch, they should continue the subsequent cycles with MabThera intravenous formulation until a full intravenous dose is successfully administered.
 Therefore, the switch to MabThera subcutaneous formulation can only occur at the second or subsequent cycles of treatment.
@@ -239,9 +236,8 @@ As with the intravenous formulation, MabThera subcutaneous formulation should be
 Premedication consisting of an analgesic/antipyretic and an antihistamine should always be administered before each dose of MabThera subcutaneous formulation.
 Premedication with glucocorticoids should also be considered.
 
-Patients should be observed for at least 15 minutes following MabThera subcutaneous
-administration. A longer period may be appropriate in patients with an increased risk of
-hypersensitivity reactions.
+Patients should be observed for at least 15 minutes following MabThera subcutaneous administration.
+A longer period may be appropriate in patients with an increased risk of hypersensitivity reactions.
 
 Patients should be instructed to contact their treating physician immediately if symptoms that are suggestive of severe hypersensitivity or cytokine release syndrome occur at any time after medicinal product administration.
 
@@ -268,25 +264,6 @@ The information provided in the section 4.4 pertains to the use of MabThera subc
 
 Patients with a high tumour burden or with a high number (≥25 x 109/L) of circulating malignant cells, such as patients with CLL who may be at higher risk of especially severe cytokine release syndrome, should be treated with extreme caution.
 
-Before starting MabThera subcutaneous injections, all patients must always receive beforehand, a full dose of MabThera by intravenous infusion, using MabThera intravenous formulation.
-The highest risk of experiencing an administration related reaction is generally observed at cycle one.
-Beginning the therapy with MabThera intravenous infusion would allow a better handling of the administration reactions by slowing or stopping the intravenous infusion.
-
-The majority of these patients were also
-
-exposed to cytotoxic chemotherapy. Limited information from one study in relapsed/refractory CLL
-patients suggests that MabThera treatment may also worsen the outcome of primary hepatitis B
-infections. Hepatitis B virus (HBV) screening should be performed in all patients before initiation of
-
-treatment with MabThera.
-
 Very rare cases of PML have been reported during post-marketing use of the MabThera intravenous formulation in CLL (see section 4.8).
 
-The safety of immunisation with live viral vaccines, following MabThera therapy has not been studied
-for NHL and CLL patients and vaccination with live virus vaccines is not recommended. Patients
-
-treated with MabThera may receive non-live vaccinations; however, with non-live vaccines response rates may be reduced.
-In a non-randomized study, patients with relapsed low-grade NHL who received the MabThera intravenous formulation as monotherapy when compared to healthy untreated controls had a lower rate of response to vaccination with tetanus recall antigen (16% vs. 81%) and Keyhole Limpet Haemocyanin (KLH) neoantigen (4% vs. 69% when assessed for >2-fold increase in antibody
-
-titer). For CLL patients similar results are assumable considering similarities between both diseases,
-but this has not been investigated in clinical trials.
+For CLL patients similar results are assumable considering similarities between both diseases, but this has not been investigated in clinical trials.

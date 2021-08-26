@@ -271,15 +271,9 @@ The recommended dose of MabThera subcutaneous formulation used for adult patient
 
 The 1600 mg strength is intended for subcutaneous use in CLL only.
 
-Prophylaxis with adequate hydration and administration of uricostatics starting 48 hours prior to start
-of therapy is recommended for CLL patients to reduce the risk of tumour lysis syndrome. For CLL
-patients whose lymphocyte counts are > 25 x 109/L it is recommended to administer
-prednisone/prednisolone 100 mg intravenous shortly before administration with MabThera to decrease
-the rate and severity of acute infusion reactions and/or cytokine release syndrome.
-The recommended dosage of MabThera in combination with chemotherapy for previously untreated
-and relapsed/refractory patients is: MabThera intravenous formulation 375 mg/m2 body surface area
-administered on day 0 of the first cycle of treatment followed by MabThera subcutaneous formulation
-injected at a fixed dose of 1600 mg per cycle, on day 1 of each subsequent cycle (in total: 6 cycles).
+For CLL patients whose lymphocyte counts are > 25 x 109/L it is recommended to administer prednisone/prednisolone 100 mg intravenous shortly before administration with MabThera to decrease the rate and severity of acute infusion reactions and/or cytokine release syndrome.
+
+The recommended dosage of MabThera in combination with chemotherapy for previously untreated and relapsed/refractory patients is: MabThera intravenous formulation 375 mg/m2 body surface area administered on day 0 of the first cycle of treatment followed by MabThera subcutaneous formulation injected at a fixed dose of 1600 mg per cycle, on day 1 of each subsequent cycle (in total: 6 cycles).
 The chemotherapy should be given after MabThera administration.
 
 MabThera 1600 mg subcutaneous formulation should be administered as subcutaneous injection only, over approximately 7 minutes.
