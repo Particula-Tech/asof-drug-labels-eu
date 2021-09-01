@@ -48,6 +48,7 @@ For any other method that may be used for the assessment of HER2 protein or gene
 Such methods must clearly be precise and accurate enough to demonstrate overexpression of HER2 and must be able to distinguish between moderate (congruent with 2+) and strong (congruent with 3+) overexpression of HER2.
 
 Detection of HER2 over expression or HER2 gene amplification in gastric cancer
+
 Only an accurate and validated assay should be used to detect HER2 over expression or HER2 gene amplification.
 IHC is recommended as the first testing modality and in cases where HER2 gene amplification status is also required, either a silver-enhanced in situ hybridization (SISH) or a FISH technique must be applied.
 SISH technology is however, recommended to allow for the parallel evaluation of tumor histology and morphology.
@@ -58,7 +59,6 @@ In the ToGA (BO18255) trial, patients whose tumours were either IHC3+ or FISH po
 Based on the clinical trial results, the beneficial effects were limited to patients with the highest level of HER2 protein overexpression, defined by a 3+ score by IHC, or a 2+ score by IHC and a positive FISH result.
 
 In a method comparison study (study D008548) a high degree of concordance (>95 %) was observed for SISH and FISH techniques for the detection of HER2 gene amplification in gastric cancer patients.
-
 HER2 over expression should be detected using an immunohistochemistry (IHC)-based assessment of fixed tumour blocks; HER2 gene amplification should be detected using in situ hybridisation using either SISH or FISH on fixed tumour blocks.
 
 The recommended scoring system to evaluate the IHC staining patterns is as stated in Table 3:
@@ -100,7 +100,9 @@ A minority of patients was tested using fluorescence in-situ hybridisation (FISH
 In this trial, 87 % of patients entered had disease that was IHC3+, and 95 % of patients entered had disease that was IHC3+ and/or FISH-positive.
 
 Weekly dosing in metastatic breast cancer
-The efficacy results from the monotherapy and combination therapy studies are summarised in Table 4:
+
+The efficacy results from the monotherapy and combination therapy studies are summarised in
+Table 4:
 
 Table 4 Efficacy Results from the Monotherapy and Combination Therapy Studies
 
@@ -128,6 +130,7 @@ For time to response and duration of response no difference could be recorded be
 The median overall survival was extended by 4.6 months for patients in the combination arm.
 The difference was not statistically significant, however more than half of the patients in the anastrozole alone arm crossed over to a Herceptin containing regimen after progression of disease.
 Three -weekly dosing in metastatic breast cancer
+
 The efficacy results from the non-comparative monotherapy and combination therapy studies are summarised in Table 5:
 
 Table 5 Efficacy Results from the Non-Comparative Monotherapy and Combination Therapy Studies
@@ -401,6 +404,7 @@ Table 2: Recommended scoring system to evaluate the IHC staining patterns
 Intravenous formulation
 
 Weekly dosing in metatstatic breast cancer
+
 The efficacy results from the monotherapy and combination therapy studies are summarised in Table 3:
 
 Table 3: Efficacy results from the monotherapy and combination therapy studies

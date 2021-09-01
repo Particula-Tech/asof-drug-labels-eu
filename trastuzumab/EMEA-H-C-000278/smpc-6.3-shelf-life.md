@@ -1,9 +1,11 @@
 # 6.3 Shelf life
 
 Unopened vial
+
 4 years
 
 Aseptic reconstitution and dilution:
+
 After aseptic reconstitution with sterile water for injection, chemical and physical stability of the reconstituted solution has been demonstrated for 48 hours at 2°C – 8°C.
 
 After aseptic dilution in polyvinylchloride, polyethylene or polypropylene bags containing sodium chloride 9 mg/mL (0.9 %) solution for injection, chemical and physical stability of Herceptin has been demonstrated for up to 30 days at 2 oC – 8oC, and 24 hours at temperatures not exceeding 30°C.

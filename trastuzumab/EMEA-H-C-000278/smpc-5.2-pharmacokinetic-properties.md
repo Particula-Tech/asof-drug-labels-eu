@@ -48,10 +48,12 @@ Table 16 Population Predicted PK Parameter Values at Steady State for Herceptin 
 |  | EBC | 390 | 0.184 - 0.221 | 19.7 - 23.2 |
 
 Trastuzumab washout
+
 Trastuzumab washout period was assessed following q1w or q3w intravenous administration using the population PK model.
 The results of these simulations indicate that at least 95% of patients will reach concentrations that are <1 μg/mL (approximately 3% of the population predicted Cmin,ss, or about 97% washout) by 7 months.
 
 Circulating shed HER2 ECD
+
 The exploratory analyses of covariates with information in only a subset of patients suggested that patients with greater shed HER2-ECD level had faster nonlinear clearance (lower Km) (P < 0.001).
 There was a correlation between shed antigen and SGOT/AST levels; part of the impact of shed antigen on clearance may have been explained by SGOT/AST levels.
 

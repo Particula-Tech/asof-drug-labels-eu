@@ -11,6 +11,7 @@ No long-term animal studies have been performed to establish the carcinogenic po
 Herceptin Intravenous
 
 Herceptin Subcutaneous
+
 A single dose study in rabbits and a 13-week repeat dose toxicity study in Cynomolgus monkeys were conducted.
 The rabbit study was performed to specifically examine local tolerance aspects.
 The 13-week study was performed to confirm that the change in route of administration and the use of the novel excipient recombinant human hyaluronidase (rHuPH20) did not have an effect on the Herceptin safety characteristics.

@@ -3,7 +3,6 @@
 Summary of the safety profile
 
 Amongst the most serious and/or common adverse reactions reported in Herceptin usage (intravenous and subcutaneous formulations) to date are cardiac dysfunction, infusion-related reactions, haematotoxicity (in particular neutropenia), infections and pulmonary adverse reactions.
-
 Tabulated list of adverse reactions
 
 In this section, the following categories of frequency have been used: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
@@ -12,6 +11,8 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 Presented in Table 1 are adverse reactions that have been reported in association with the use of intravenous Herceptin alone or in combination with chemotherapy in pivotal clinical trials and in the post-marketing setting.
 
 All the terms included are based on the highest percentage seen in pivotal clinical trials.
+In addition, terms reported in the post marketing setting are included in Table 1.
+
 Table 1 Undesirable Effects Reported with Intravenous Herceptin Monotherapy or in Combination with Chemotherapy in Pivotal Clinical Trials (N = 8386) and in Post-Marketing
 
 | System organ class | Adverse reaction | Frequency |
@@ -20,17 +21,13 @@ Table 1 Undesirable Effects Reported with Intravenous Herceptin Monotherapy or i
 |  | Nasopharyngitis | Very common |
 |  | Neutropenic sepsis | Common |
 |  | Cystitis | Common |
-|  | Herpes zoster | Common |
 |  | Influenza | Common |
 |  | Sinusitis | Common |
 |  | Skin infection | Common |
 |  | Rhinitis | Common |
 |  | Upper respiratory tract infection | Common |
 |  | Urinary tract infection | Common |
-|  | Erysipelas | Common |
-|  | Cellulitis | Common |
 |  | Pharyngitis | Common |
-|  | Sepsis | Uncommon |
 | Neoplasms benign, malignant and unspecified (incl. Cysts and polyps) | Malignant neoplasm progression | Not known |
 |  | Neoplasm progression | Not known |
 | Blood and lymphatic system disorders | Febrile neutropenia | Very common |
@@ -41,15 +38,15 @@ Table 1 Undesirable Effects Reported with Intravenous Herceptin Monotherapy or i
 |  | Hypoprothrombinaemia | Not known |
 |  | Immune thrombocytopenia | Not known |
 | Immune system disorders | Hypersensitivity | Common |
-|  | +Anaphylactic reaction | Not known |
-|  | +Anaphylactic shock | Not known |
+|  | +Anaphylactic reaction | Rare |
+|  | +Anaphylactic shock | Rare |
 | Metabolism and nutrition disorders | Weight decreased/Weight loss | Very common |
 |  | Anorexia | Very common |
+|  | Tumour lysis syndrome | Not known |
 |  | Hyperkalaemia | Not known |
 | Psychiatric disorders | Insomnia | Very common |
 |  | Anxiety | Common |
 |  | Depression | Common |
-|  | Thinking abnormal | Common |
 | Nervous system disorders | 1Tremor | Very common |
 |  | Dizziness | Very common |
 |  | Headache | Very common |
@@ -58,9 +55,6 @@ Table 1 Undesirable Effects Reported with Intravenous Herceptin Monotherapy or i
 |  | Peripheral neuropathy | Common |
 |  | Hypertonia | Common |
 |  | Somnolence | Common |
-|  | Ataxia | Common |
-|  | Paresis | Rare |
-|  | Brain oedema | Not known |
 | Eye disorders | Conjunctivitis | Very common |
 |  | Lacrimation increased | Very common |
 |  | Dry eye | Common |
@@ -70,22 +64,19 @@ Table 1 Undesirable Effects Reported with Intravenous Herceptin Monotherapy or i
 | Cardiac disorders | 1 Blood pressure decreased | Very common |
 |  | 1 Blood pressure increased | Very common |
 |  | 1 Heart beat irregular | Very common |
-|  | 1Palpitation | Very common |
 |  | 1Cardiac flutter | Very common |
 |  | Ejection fraction decreased* | Very common |
 |  | +Cardiac failure (congestive) | Common |
 |  | +1Supraventricular tachyarrhythmia | Common |
 |  | Cardiomyopathy | Common |
+|  | 1Palpitation | Common |
 |  | Pericardial effusion | Uncommon |
 |  | Cardiogenic shock | Not known |
-|  | Pericarditis | Not known |
-|  | Bradycardia | Not known |
 |  | Gallop rhythm present | Not known |
 | Vascular disorders | Hot flush | Very common |
 |  | +1 Hypotension | Common |
 |  | Vasodilatation | Common |
-| Respiratory, thoracic and mediastinal disorders | +1Wheezing | Very common |
-|  | +Dyspnoea | Very common |
+| Respiratory, thoracic and mediastinal disorders | +Dyspnoea | Very common |
 |  | Cough | Very common |
 |  | Epistaxis | Very common |
 |  | Rhinorrhoea | Very common |
@@ -93,7 +84,8 @@ Table 1 Undesirable Effects Reported with Intravenous Herceptin Monotherapy or i
 |  | Asthma | Common |
 |  | Lung disorder | Common |
 |  | +Pleural effusion | Common |
-|  | Pneumonitis | Rare |
+|  | +1Wheezing | Uncommon |
+|  | Pneumonitis | Uncommon |
 |  | +Pulmonary fibrosis | Not known |
 |  | +Respiratory distress | Not known |
 |  | +Respiratory failure | Not known |
@@ -107,8 +99,8 @@ Table 1 Undesirable Effects Reported with Intravenous Herceptin Monotherapy or i
 |  | Orthopnoea | Not known |
 |  | Pulmonary oedema | Not known |
 |  | Interstitial lung disease | Not known |
-| Gastrointestinal disorders | Diarrhoea | Very common |
-|  | Vomiting | Very common |
+|  | Diarrhoea | Very common |
+| Gastrointestinal disorders | Vomiting | Very common |
 |  | Nausea | Very common |
 |  | 1 Lip swelling | Very common |
 |  | Abdominal pain | Very common |
@@ -117,13 +109,12 @@ Table 1 Undesirable Effects Reported with Intravenous Herceptin Monotherapy or i
 |  | Stomatitis | Very common |
 |  | Haemorrhoids | Common |
 |  | Dry mouth | Common |
-| Hepatobiliary disorders | Hepatocellular injury | Common |
-|  | Hepatitis | Common |
+|  | Hepatocellular injury | Common |
+| Hepatobiliary disorders | Hepatitis | Common |
 |  | Liver tenderness | Common |
 |  | Jaundice | Rare |
-|  | Hepatic failure | Not known |
-| Skin and subcutaneous tissue disorders | Erythema | Very common |
-|  | Rash | Very common |
+|  | Erythema | Very common |
+| Skin and subcutaneous tissue disorders | Rash | Very common |
 |  | 1 Swelling face | Very common |
 |  | Alopecia | Very common |
 |  | Nail disorder | Very common |
@@ -138,8 +129,8 @@ Table 1 Undesirable Effects Reported with Intravenous Herceptin Monotherapy or i
 |  | Dermatitis | Common |
 |  | Urticaria | Uncommon |
 |  | Angioedema | Not known |
-| Musculoskeletal and connective tissue disorders | Arthralgia | Very common |
-|  | 1Muscle tightness | Very common |
+|  | Arthralgia | Very common |
+| Musculoskeletal and connective tissue disorders | 1Muscle tightness | Very common |
 |  | Myalgia | Very common |
 |  | Arthritis | Common |
 |  | Back pain | Common |
@@ -147,16 +138,16 @@ Table 1 Undesirable Effects Reported with Intravenous Herceptin Monotherapy or i
 |  | Muscle spasms | Common |
 |  | Neck Pain | Common |
 |  | Pain in extremity | Common |
-| Renal and urinary disorders | Renal disorder | Common |
-|  | Glomerulonephritis membranous | Not known |
+|  | Renal disorder | Common |
+| Renal and urinary disorders | Glomerulonephritis membranous | Not known |
 |  | Glomerulonephropathy | Not known |
 |  | Renal failure | Not known |
-| Pregnancy, puerperium and perinatal conditions | Oligohydramnios | Not known |
-|  | Renal hypoplasia | Not known |
+|  | Oligohydramnios | Not known |
+| Pregnancy, puerperium and perinatal conditions | Renal hypoplasia | Not known |
 |  | Pulmonary hypoplasia | Not known |
-| Reproductive system and breast disorders | Breast inflammation/mastitis | Common |
-| General disorders and administration site conditions | Asthenia | Very common |
-|  | Chest pain | Very common |
+|  | Breast inflammation/mastitis | Common |
+| Reproductive system and breast disorders | Asthenia | Very common |
+| General disorders and administration site conditions | Chest pain | Very common |
 |  | Chills | Very common |
 |  | Fatigue | Very common |
 |  | Influenza-like symptoms | Very common |
@@ -167,7 +158,8 @@ Table 1 Undesirable Effects Reported with Intravenous Herceptin Monotherapy or i
 |  | Peripheral oedema | Very common |
 |  | Malaise | Common |
 |  | Oedema | Common |
-| Injury, poisoning and procedural complications | Contusion | Common |
+|  | Contusion | Common |
+| Injury, poisoning and procedural complications |  |  |
 
 + Denotes adverse reactions that have been reported in association with a fatal outcome.
 1 Denotes adverse reactions that are reported largely in association with Infusion-related reactions.
@@ -199,6 +191,7 @@ In a subsequent trial with prospective monitoring of cardiac function, the incid
 Most of the patients (79 %) who developed cardiac dysfunction in these trials experienced an improvement after receiving standard treatment for CHF.
 
 Infusion reactions, allergic-like reactions and hypersensitivity
+
 It is estimated that approximately 40 % of patients who are treated with Herceptin will experience some form of infusion-related reaction.
 However, the majority of infusion-related reactions are mild to moderate in intensity (NCI-CTC grading system) and tend to occur earlier in treatment, i.e. during infusions one, two and three and lessen in frequency in subsequent infusions.
 Reactions include chills, fever, dyspnoea, hypotension, wheezing, bronchospasm, tachycardia, reduced oxygen saturation, respiratory distress, rash, nausea, vomiting and headache (see section 4.4).
@@ -209,11 +202,13 @@ Severe anaphylactic reactions requiring immediate additional intervention can oc
 Anaphylactoid reactions have been observed in isolated cases.
 
 Haematotoxicity
+
 Febrile neutropenia, leukopenia, anaemia, thrombocytopenia and neutropenia occurred very commonly.
 The frequency of occurrence of hypoprothrombinemia is not known.
 The risk of neutropenia may be slightly increased when trastuzumab is administered with docetaxel following anthracycline therapy.
 
 Pulmonary events
+
 Severe pulmonary adverse reactions occur in association with the use of Herceptin and have been associated with a fatal outcome.
 These include, but are not limited to, pulmonary infiltrates, acute respiratory distress syndrome, pneumonia, pneumonitis, pleural effusion, respiratory distress, acute pulmonary oedema and respiratory insufficiency (see section 4.4).
 
@@ -221,23 +216,26 @@ Details of risk minimisation measures that are consistent with the EU Risk Manag
 
 Immunogenicity
 
-In the neoadjuvant-adjuvant EBC study (BO22227), at a median follow-up exceeding 70 months, 10.1 % (30/296) of patients treated with Herceptin intravenous developed antibodies against trastuzumab.
+In the neoadjuvant-adjuvant EBC study (BO22227), at a median follow-up exceeding 70 months,
+10.1 % (30/296) of patients treated with Herceptin intravenous developed antibodies against trastuzumab.
 Neutralizing anti-trastuzumab antibodies were detected in post-baseline samples in 2 of 30 patients in the Herceptin intravenous arm.
 
-The clinical relevance of these antibodies is not known.The presence of anti-trastuzumab antibodies had no impact on pharmacokinetics, efficacy (determined by pathological Complete Response [pCR] and event free survival [EFS]) and safety determined by occurrence of administration related reactions (ARRs) of Herceptin intravenous.
+The clinical relevance of these antibodies is not known.
+The presence of anti-trastuzumab antibodies had no impact on pharmacokinetics, efficacy (determined by pathological Complete Response [pCR] and event free survival [EFS]) and safety determined by occurrence of administration related reactions (ARRs) of Herceptin intravenous.
 
 There are no immunogenicity data available for Herceptin in gastric cancer.
 
 Switching treatment between Herceptin intravenous and Herceptin subcutaneous formulation and vice versa
 
 Study MO22982 investigated switching between the Herceptin intravenous and Herceptin subcutaneous formulation with a primary objective to evaluate patient preference for either intravenous or the subcutaneous route of trastuzumab administration.
-In this trial, 2 cohorts (one using subcutaneous formulation in vial and one using subcutaneous formulation in administration system) were investigated using a 2-arm , cross-over design with 488 patients being randomized to one of two different three-weekly Herceptin treatment sequences (IV [Cycles 1-4]→ SC [Cycles 5-8], or SC [Cycles 1-4]→ IV [Cycles 5-8]).
+In this trial, 2 cohorts (one using subcutaneous formulation in vial and one using subcutaneous formulation in administration system) were investigated using a 2-arm, cross-over design with 488 patients being randomized to one of two different three-weekly Herceptin treatment sequences (IV [Cycles 1-4]→ SC [Cycles 5-8], or SC [Cycles 1-4]→ IV [Cycles 5-8]).
 Patients were either naïve to Herceptin IV treatment (20.3%) or pre-exposed to Herceptin IV (79.7%).
 For the sequence IV→SC (SC vial and SC formulation in administration system cohorts combined), adverse event rates (all grades) were described pre-switching (Cycles 1-4) and post-switching (Cycles 5-8) as 53.8% vs. 56.4%, respectively; for the sequence SC→IV (SC vial and SC formulation in administration system cohorts combined), adverse event rates (all grades) were described pre- and post-switching as 65.4% vs. 48.7%, respectively.
 Pre-switching rates (Cycles 1-4) for serious adverse events, grade 3 adverse events and treatment discontinuations due to adverse events were low (<5%) and similar to post-switching rates (Cycles 5-8).
 No grade 4 or grade 5 adverse events were reported.
 
 Reporting of suspected adverse reactions
+
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
@@ -261,167 +259,6 @@ Some adverse events / reactions were reported with a higher frequency for the su
 Tabulated list of adverse reactions with the intravenous formulation
 
 Table 1: Undesirable effects reported with intravenous Herceptin monotherapy or in combination with chemotherapy in pivotal clinical trials (N = 8386) and in post-marketing
-
-| System organ class | Adverse reaction | Frequency |
-| --- | --- | --- |
-| Infections and infestations | Infection | Very common |
-|  | Nasopharyngitis | Very common |
-|  | Neutropenic sepsis | Common |
-|  | Cystitis | Common |
-|  | Herpes zoster | Common |
-|  | Influenza | Common |
-|  | Sinusitis | Common |
-|  | Skin infection | Common |
-|  | Rhinitis | Common |
-|  | Upper respiratory tract infection | Common |
-|  | Urinary tract infection | Common |
-|  | Erysipelas | Common |
-|  | Cellulitis | Common |
-|  | Pharyngitis | Common |
-|  | Sepsis | Uncommon |
-| Neoplasms benign, malignant and unspecified (incl. Cysts and polyps) | Malignant neoplasm progression | Not known |
-|  | Neoplasm progression | Not known |
-| Blood and lymphatic system disorders | Febrile neutropenia | Very common |
-|  | Anaemia | Very common |
-|  | Neutropenia | Very common |
-|  | White blood cell count decreased/leukopenia | Very common |
-|  | Thrombocytopenia | Very common |
-|  | Hypoprothrombinaemia | Not known |
-|  | Immune thrombocytopenia | Not known |
-| Immune system disorders | Hypersensitivity | Common |
-|  | +Anaphylactic reaction | Not known |
-|  | +Anaphylactic shock | Not known |
-| Metabolism and nutrition disorders | Weight decreased/Weight loss | Very common |
-|  | Anorexia | Very common |
-|  | Hyperkalaemia | Not known |
-| Psychiatric disorders | Insomnia | Very common |
-|  | Anxiety | Common |
-|  | Depression | Common |
-|  | Thinking abnormal | Common |
-| Nervous system disorders | 1Tremor | Very common |
-|  | Dizziness | Very common |
-|  | Headache | Very common |
-|  | Paraesthesia | Very common |
-|  | Dysgeusia | Very common |
-|  | Peripheral neuropathy | Common |
-|  | Hypertonia | Common |
-|  | Somnolence | Common |
-|  | Ataxia | Common |
-|  | Paresis | Rare |
-|  | Brain oedema | Not known |
-| Eye disorders | Conjunctivitis | Very common |
-|  | Lacrimation increased | Very common |
-|  | Dry eye | Common |
-|  | Papilloedema | Not known |
-|  | Retinal haemorrhage | Not known |
-| Ear and labyrinth disorders | Deafness | Uncommon |
-| Cardiac disorders | 1 Blood pressure decreased | Very common |
-|  | 1 Blood pressure increased | Very common |
-|  | 1 Heart beat irregular | Very common |
-|  | 1Palpitation | Very common |
-|  | 1Cardiac flutter | Very common |
-|  | Ejection fraction decreased* | Very common |
-|  | +Cardiac failure (congestive) | Common |
-|  | +1Supraventricular tachyarrhythmia | Common |
-|  | Cardiomyopathy | Common |
-|  | Pericardial effusion | Uncommon |
-|  | Cardiogenic shock | Not known |
-|  | Pericarditis | Not known |
-|  | Bradycardia | Not known |
-|  | Gallop rhythm present | Not known |
-| Vascular disorders | Hot flush | Very common |
-|  | +1 Hypotension | Common |
-|  | Vasodilatation | Common |
-
-| System organ class | Adverse reaction | Frequency |
-| --- | --- | --- |
-| Respiratory, thoracic and mediastinal disorders | +1Wheezing | Very common |
-|  | +Dyspnoea | Very common |
-|  | Cough | Very common |
-|  | Epistaxis | Very common |
-|  | Rhinorrhoea | Very common |
-|  | +Pneumonia | Common |
-|  | Asthma | Common |
-|  | Lung disorder | Common |
-|  | +Pleural effusion | Common |
-|  | Pneumonitis | Rare |
-|  | +Pulmonary fibrosis | Not known |
-|  | +Respiratory distress | Not known |
-|  | +Respiratory failure | Not known |
-|  | +Lung infiltration | Not known |
-|  | +Acute pulmonary oedema | Not known |
-|  | +Acute respiratory distress syndrome | Not known |
-|  | +Bronchospasm | Not known |
-|  | +Hypoxia | Not known |
-|  | +Oxygen saturation decreased | Not known |
-|  | Laryngeal oedema | Not known |
-|  | Orthopnoea | Not known |
-|  | Pulmonary oedema | Not known |
-|  | Interstitial lung disease | Not known |
-| Gastrointestinal disorders | Diarrhoea | Very common |
-|  | Vomiting | Very common |
-|  | Nausea | Very common |
-|  | 1 Lip swelling | Very common |
-|  | Abdominal pain | Very common |
-|  | Dyspepsia | Very common |
-|  | Constipation | Very common |
-|  | Stomatitis | Very common |
-|  | Haemorrhoids | Common |
-|  | Dry mouth | Common |
-| Hepatobiliary disorders | Hepatocellular Injury | Common |
-|  | Hepatitis | Common |
-|  | Liver Tenderness | Common |
-|  | Jaundice | Rare |
-|  | Hepatic Failure | Not known |
-
-| System organ class | Adverse reaction | Frequency |
-| --- | --- | --- |
-| Skin and subcutaneous tissue disorders | Erythema | Very common |
-|  | Rash | Very common |
-|  | 1 Swelling face | Very common |
-|  | Alopecia | Very common |
-|  | Nail disorder | Very common |
-|  | Palmar-plantar erythrodysaesthesia syndrome | Very common |
-|  | Acne | Common |
-|  | Dry skin | Common |
-|  | Ecchymosis | Common |
-|  | Hyperhydrosis | Common |
-|  | Maculopapular rash | Common |
-|  | Pruritus | Common |
-|  | Onychoclasis | Common |
-|  | Dermatitis | Common |
-|  | Urticaria | Uncommon |
-|  | Angioedema | Not known |
-| Musculoskeletal and connective tissue disorders | Arthralgia | Very common |
-|  | 1Muscle tightness | Very common |
-|  | Myalgia | Very common |
-|  | Arthritis | Common |
-|  | Back pain | Common |
-|  | Bone pain | Common |
-|  | Muscle spasms | Common |
-|  | Neck pain | Common |
-|  | Pain in extremity | Common |
-| Renal and urinary disorders | Renal disorder | Common |
-|  | Glomerulonephritis membranous | Not known |
-|  | Glomerulonephropathy | Not known |
-|  | Renal failure | Not known |
-| Pregnancy, puerperium and perinatal conditions | Oligohydramnios | Not known |
-|  | Renal hypoplasia | Not known |
-|  | Pulmonary hypoplasia | Not known |
-| Reproductive system and breast disorders | Breast inflammation/mastitis | Common |
-| General disorders and administration site conditions | Asthenia | Very common |
-|  | Chest pain | Very common |
-|  | Chills | Very common |
-|  | Fatigue | Very common |
-|  | Influenza-like symptoms | Very common |
-|  | Infusion related reaction | Very common |
-|  | Pain | Very common |
-|  | Pyrexia | Very common |
-|  | Mucosal inflammation | Very common |
-|  | Peripheral oedema | Very common |
-|  | Malaise | Common |
-|  | Oedema | Common |
-| Injury, poisoning and procedural complications | Contusion | Common |
 
 1 Denotes adverse reactions that are reported largely in association with administration-related reactions.
 
@@ -447,6 +284,7 @@ The systemic reactions included hypersensitivity, hypotension, tachycardia, coug
 The local reactions included erythema, pruritus, oedema, rash and pain at the site of the injection.
 
 Infections
+
 The rate of severe infections (NCI CTCAE grade ≥3) was 5.0 % versus 7.1 %, in the Herceptin intravenous formulation arm and the Herceptin subcutaneous formulation arm respectively.
 
 The rate of serious infections (most of which were identified because of in-patient hospitalisation or prolongation of existing hospitalisation) was 4.4 % in the Herceptin intravenous formulation arm and 8.1 % in the Herceptin subcutaneous formulation arm.
@@ -464,7 +302,7 @@ Neutralizing anti-trastuzumab antibodies were detected in post-baseline samples 
 21.0 % of patients treated with Herceptin subcutaneous formulation developed antibodies against the excipient hyaluronidase (rHuPH20).
 
 The clinical relevance of these antibodies is not known.The presence of anti-trastuzumab antibodies had no impact on pharmacokinetics, efficacy (determined by pathological Complete Response [pCR] and event free survival [EFS]) and safety determined by occurrence of administration related reactions (ARRs) of Herceptin intravenous and Herceptin subcutaneous.
+
 Details of risk minimisation measures that are consistent with the EU Risk Management Plan are presented in Section 4.4.
 
 Study MO22982 investigated switching between the Herceptin intravenous and Herceptin subcutaneous formulation with a primary objective to evaluate patient preference for either the intravenous or the subcutaneous route of trastuzumab administration.
-In this trial, 2 cohorts (one using subcutaneous formulation in vial and one using subcutaneous formulation in administration system) were investigated using a 2-arm, cross-over design with 488 patients being randomized to one of two different three-weekly Herceptin treatment sequences (IV [Cycles 1-4]→ SC [Cycles 5-8], or SC [Cycles 1-4]→ IV [Cycles 5-8]).

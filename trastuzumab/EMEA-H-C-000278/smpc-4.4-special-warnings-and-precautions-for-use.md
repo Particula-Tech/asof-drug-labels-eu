@@ -7,7 +7,6 @@ In order to improve the traceability of biological medicinal products, the trade
 HER2 testing must be performed in a specialised laboratory which can ensure adequate validation of the testing procedures (see section 5.1).
 
 Currently no data from clinical trials are available on re-treatment of patients with previous exposure to Herceptin in the adjuvant setting.
-
 Cardiac dysfunction
 
 General considerations
@@ -45,7 +44,6 @@ The majority of patients with cardiac symptoms and evidence of a clinical benefi
 Metastatic breast cancer
 
 Herceptin and anthracyclines should not be given concurrently in combination in the MBC setting.
-
 Patients with MBC who have previously received anthracyclines are also at risk of cardiac dysfunction with Herceptin treatment, although the risk is lower than with concurrent use of Herceptin and anthracyclines.
 
 Early breast cancer
@@ -75,7 +73,6 @@ If patients have been treated concurrently with a full course of low-dose anthra
 In other situations, the decision on the need for additional cytotoxic chemotherapy is determined based on individual factors.
 
 Experience of concurrent administration of trastuzumab with low dose anthracycline regimens is currently limited to two trials (MO16432 and BO22227).
-
 In the pivotal trial MO16432, Herceptin was administered concurrently with neoadjuvant chemotherapy containing three cycles of doxorubicin (cumulative dose 180 mg/m2 ) .
 
 The incidence of symptomatic cardiac dysfunction was 1.7% in the Herceptin arm .
@@ -84,6 +81,7 @@ The pivotal trial BO22227 was designed to demonstrate non-inferiority of treatme
 In the pivotal trial BO22227, Herceptin was administered concurrently with neoadjuvant chemotherapy that contained four cycles of epirubicin (cumulative dose 300 mg/m2); at a median follow-up exceeding 70 months, the incidence of cardiac failure/congestive cardiac failure was 0.3% in the Herceptin intravenous arm.
 
 Clinical experience is limited in patients above 65 years of age.
+
 Infusion-related reactions (IRRs) and hypersensitivity
 
 Serious IRRs to Herceptin infusion including dyspnoea, hypotension, wheezing, hypertension, bronchospasm, supraventricular tachyarrhythmia, reduced oxygen saturation, anaphylaxis, respiratory distress, urticaria and angioedema have been reported (see section 4.8).

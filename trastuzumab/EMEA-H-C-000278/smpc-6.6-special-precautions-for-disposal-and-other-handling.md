@@ -7,6 +7,7 @@ Care must be taken to ensure the sterility of prepared solutions.
 Since the medicinal product does not contain any anti-microbial preservative or bacteriostatic agents, aseptic technique must be observed.
 
 Aseptic preparation, handling and storage:
+
 Aseptic handling must be ensured when preparing the infusion.
 Preparation should be:
 
@@ -16,6 +17,7 @@ Preparation should be:
 
 Each vial of Herceptin is reconstituted with 7.2 mL of sterile water for injection (not supplied).
 Use of other reconstitution solvents should be avoided.
+
 This yields a 7.4 mL solution for single-dose use, containing approximately 21 mg/mL trastuzumab, at a pH of approximately 6.0.
 A volume overage of 4 % ensures that the labelled dose of 150 mg can be withdrawn from each vial.
 
@@ -25,6 +27,7 @@ Causing excessive foaming during reconstitution or shaking the reconstituted sol
 The reconstituted solution should not be frozen.
 
 Instructions for aseptic reconstitution:
+
 1) Using a sterile syringe, slowly inject 7.2 mL of sterile water for injection in the vial containing the lyophilised Herceptin, directing the stream into the lyophilised cake.
 2) Swirl the vial gently to aid reconstitution.
 DO NOT SHAKE!
@@ -34,6 +37,7 @@ Allow the vial to stand undisturbed for approximately 5 minutes.
 The reconstituted Herceptin results in a colourless to pale yellow transparent solution and should be essentially free of visible particulates.
 
 Instructions for aseptic dilution of the reconstituted solution
+
 Determine the volume of the solution required:
 
 - based on a loading dose of 4 mg trastuzumab/kg body weight, or a subsequent weekly dose of 2 mg trastuzumab/kg body weight:
@@ -46,7 +50,7 @@ Volume (mL) = Body weight (kg) x dose (4 mg/kg for loading or 2 mg/kg for mainte
 Volume (mL) = Body weight (kg) x dose (8 mg/kg for loading or 6 mg/kg for maintenance)
 21 (mg/mL, concentration of reconstituted solution)
 
-The appropriate amount of solution should be withdrawn from the vial and added to an infusion bag containing 250 mL of 0.9 % sodium chloride solution.
+The appropriate amount of solution should be withdrawn from the vial using a sterile needle and syringe and added to an infusion bag containing 250 mL of 0.9 % sodium chloride solution.
 Do not use with glucose-containing solutions (see section 6.2).
 The bag should be gently inverted to mix the solution in order to avoid foaming.
 

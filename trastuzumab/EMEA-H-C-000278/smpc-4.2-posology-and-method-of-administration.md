@@ -15,23 +15,27 @@ Posology
 Metastatic breast cancer
 
 Three-weekly schedule
+
 The recommended initial loading dose is 8 mg/kg body weight.
 The recommended maintenance dose at three-weekly intervals is 6 mg/kg body weight, beginning three weeks after the loading dose.
 
 Weekly schedule
+
 The recommended initial loading dose of Herceptin is 4 mg/kg body weight.
 The recommended weekly maintenance dose of Herceptin is 2 mg/kg body weight, beginning one week after the loading dose.
-
 Administration in combination with paclitaxel or docetaxel
+
 In the pivotal trials (H0648g, M77001), paclitaxel or docetaxel was administered the day following the first dose of Herceptin (for dose, see the Summary of Product Characteristics (SmPC) for paclitaxel or docetaxel) and immediately after the subsequent doses of Herceptin if the preceding dose of Herceptin was well tolerated.
 
 Administration in combination with an aromatase inhibitor
+
 In the pivotal trial (BO16216) Herceptin and anastrozole were administered from day 1.
 There were no restrictions on the relative timing of Herceptin and anastrozole at administration (for dose, see the SmPC for anastrozole or other aromatase inhibitors).
 
 Early breast cancer
 
 Three-weekly and weekly schedule
+
 As a three-weekly regimen the recommended initial loading dose of Herceptin is 8 mg/kg body weight.
 The recommended maintenance dose of Herceptin at three-weekly intervals is 6 mg/kg body weight, beginning three weeks after the loading dose.
 As a weekly regimen (initial loading dose of 4 mg/kg followed by 2 mg/kg every week) concomitantly with paclitaxel following chemotherapy with doxorubicin and cyclophosphamide.
@@ -41,16 +45,19 @@ See section 5.1 for chemotherapy combination dosing.
 Metastatic gastric cancer
 
 Three-weekly schedule
+
 The recommended initial loading dose is 8 mg/kg body weight.
 The recommended maintenance dose at three-weekly intervals is 6 mg/kg body weight, beginning three weeks after the loading dose.
 
 Breast cancer and gastric cancer
 
 Duration of treatment
+
 Patients with MBC or MGC should be treated with Herceptin until progression of disease.
 Patients with EBC should be treated with Herceptin for 1 year or until disease recurrence, whichever occurs first; extending treatment in EBC beyond one year is not recommended (see section 5.1).
 
 Dose reduction
+
 No reductions in the dose of Herceptin were made during clinical trials.
 Patients may continue therapy during periods of reversible, chemotherapy-induced myelosuppression but they should be monitored carefully for complications of neutropenia during this time.
 Refer to the SmPC for paclitaxel, docetaxel or aromatase inhibitor for information on dose reduction or delays.
@@ -58,8 +65,8 @@ Refer to the SmPC for paclitaxel, docetaxel or aromatase inhibitor for informati
 If left ventricular ejection fraction (LVEF) percentage drops ≥ 10 points from baseline AND to below 50 %, treatment should be suspended and a repeat LVEF assessment performed within approximately 3 weeks.
 If LVEF has not improved, or has declined further, or if symptomatic congestive heart failure (CHF) has developed, discontinuation of Herceptin should be strongly considered, unless the benefits for the individual patient are deemed to outweigh the risks.
 All such patients should be referred for assessment by a cardiologist and followed up.
-
 Missed doses
+
 If the patient has missed a dose of Herceptin by one week or less, then the usual maintenance dose (weekly regimen: 2 mg/kg; three-weekly regimen: 6 mg/kg) should be administered as soon as possible.
 Do not wait until the next planned cycle.
 Subsequent maintenance doses should be administered 7 days or 21 days later according to the weekly or three-weekly schedules, respectively.
@@ -67,11 +74,14 @@ Subsequent maintenance doses should be administered 7 days or 21 days later acco
 If the patient has missed a dose of Herceptin by more than one week, a re-loading dose of Herceptin should be administered over approximately 90 minutes (weekly regimen: 4 mg/kg; three-weekly regimen: 8 mg/kg) as soon as possible.
 Subsequent Herceptin maintenance doses (weekly regimen:
 2 mg/kg; three-weekly regimen 6 mg/kg respectively) should be administered 7 days or 21 days later according to the weekly or three-weekly schedules respectively.
+
 Special populations
+
 Dedicated pharmacokinetic studies in the elderly and those with renal or hepatic impairment have not been carried out.
 In a population pharmacokinetic analysis, age and renal impairment were not shown to affect trastuzumab disposition.
 
 Paediatric population
+
 There is no relevant use of Herceptin in the paediatric population.
 
 Method of administration
