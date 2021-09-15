@@ -88,7 +88,6 @@ Caution should be taken during chelation therapy to minimise the risk of overche
 In case of switching from film-coated tablets/granules to dispersible tablets, the dose of dispersible tablets should be 40% higher than the dose of film-coated tablets/granules, rounded to the nearest whole tablet.
 
 The corresponding doses for the different formulations are shown in the table below.
-
 Table 2 Recommended doses for non-transfusion-dependent thalassaemia syndromes
 Film-coated Dispersible Liver iron Serum
 tablets/granules tablets concentration ferritin

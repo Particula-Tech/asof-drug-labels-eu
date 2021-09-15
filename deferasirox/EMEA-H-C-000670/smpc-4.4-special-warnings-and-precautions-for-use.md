@@ -114,15 +114,17 @@ Auditory and ophthalmic testing Prior to therapy.
 Annually thereafter.
 Body weight, height and sexual Prior to therapy.
 development Annually in paediatric patients.
-
-In patients with a short life expectancy (e.g. high-risk myelodysplastic syndromes), especially when co-morbidities could increase the risk of adverse events, the benefit of EXJADE might be limited and may be inferior to risks.
-As a consequence, treatment with EXJADE is not recommended in these patients.
-
-Caution should be used in elderly patients due to a higher frequency of adverse reactions (in particular, diarrhoea).
-
-Data in children with non-transfusion-dependent thalassaemia are very limited (see section 5.1).
-As a consequence, EXJADE therapy should be closely monitored to detect adverse reactions and to follow iron burden in the paediatric population.
-In addition, before treating heavily iron-overloaded children with non-transfusion-dependent thalassaemia with EXJADE, the physician should be aware that the consequences of long-term exposure in such patients are currently not known.
+In patients with a short life expectancy (e.g. high-risk myelodysplastic syndromes), especially when
+co-morbidities could increase the risk of adverse events, the benefit of EXJADE might be limited and
+may be inferior to risks. As a consequence, treatment with EXJADE is not recommended in these
+patients.
+Caution should be used in elderly patients due to a higher frequency of adverse reactions (in particular,
+diarrhoea).
+Data in children with non-transfusion-dependent thalassaemia are very limited (see section 5.1). As a
+consequence, EXJADE therapy should be closely monitored to detect adverse reactions and to follow
+iron burden in the paediatric population. In addition, before treating heavily iron-overloaded children
+with non-transfusion-dependent thalassaemia with EXJADE, the physician should be aware that the
+consequences of long-term exposure in such patients are currently not known.
 
 Gastrointestinal disorders
 Upper gastrointestinal ulceration and haemorrhage have been reported in patients, including children and adolescents, receiving deferasirox.
@@ -151,6 +153,7 @@ Vision and hearing
 Auditory (decreased hearing) and ocular (lens opacities) disturbances have been reported (see section 4.8).
 Auditory and ophthalmic testing (including fundoscopy) is recommended before the start of treatment and at regular intervals thereafter (every 12 months).
 If disturbances are noted during the treatment, dose reduction or interruption may be considered.
+
 Blood disorders
 There have been post-marketing reports of leukopenia, thrombocytopenia or pancytopenia (or aggravation of these cytopenias) and of aggravated anaemia in patients treated with deferasirox.
 Most of these patients had pre-existing haematological disorders that are frequently associated with bone marrow failure.
@@ -163,37 +166,31 @@ Dose reduction or closer monitoring of renal and hepatic function, and serum fer
 If serum ferritin falls consistently below 500 µg/l (in transfusional iron overload) or below 300 µg/l (in non-transfusion-dependent thalassaemia syndromes), an interruption of treatment should be considered.
 
 The results of the tests for serum creatinine, serum ferritin and serum transaminases should be recorded and regularly assessed for trends.
-
 In two clinical studies, growth and sexual development of paediatric patients treated with deferasirox for up to 5 years were not affected (see section 4.8).
 However, as a general precautionary measure in the management of paediatric patients with transfusional iron overload, body weight, height and sexual development should be monitored prior to therapy and at regular intervals (every 12 months).
 
 Cardiac dysfunction is a known complication of severe iron overload.
 Cardiac function should be monitored in patients with severe iron overload during long-term treatment with EXJADE.
 
-Lactose content
-The dispersible tablets contain lactose.
+Excipients
 
-Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+This medicinal product contains lactose.
+Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per dispersible tablet, that is to say essentially ‘sodium free’.
 
 [EXJADE 90 mg film-coated tablets]
 
 While no increase in renal adverse events was observed after dose escalation of EXJADE dispersible tablets to doses above 30 mg/kg in clinical studies, an increased risk of renal adverse events with film-coated tablet doses above 21 mg/kg cannot be excluded.
 
 Reduction of daily dose by 7 mg/kg/day (film-coated tablet formulation),
-In patients with a short life expectancy (e.g. high-risk myelodysplastic syndromes), especially when
-co-morbidities could increase the risk of adverse events, the benefit of EXJADE might be limited and
-may be inferior to risks. As a consequence, treatment with EXJADE is not recommended in these
-patients.
-Caution should be used in elderly patients due to a higher frequency of adverse reactions (in particular,
-diarrhoea).
-Data in children with non-transfusion-dependent thalassaemia are very limited (see section 5.1). As a
-consequence, EXJADE therapy should be closely monitored to detect adverse reactions and to follow
-iron burden in the paediatric population. In addition, before treating heavily iron-overloaded children
-with non-transfusion-dependent thalassaemia with EXJADE, the physician should be aware that the
-consequences of long-term exposure in such patients are currently not known.
 
 Dose reduction or closer monitoring of renal and hepatic function, and serum ferritin levels are recommended during periods of treatments with high doses and when serum ferritin levels are close to the target range.
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per film-coated tablet, that is to say essentially ‘sodium free’.
 
 [EXJADE 90 mg granules in sachet]
 
 While no increase in renal adverse events was observed after dose escalation of EXJADE dispersible tablets to doses above 30 mg/kg in clinical studies, an increased risk of renal adverse events with granule doses above 21 mg/kg cannot be excluded.
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per sachet, that is to say essentially ‘sodium free’.

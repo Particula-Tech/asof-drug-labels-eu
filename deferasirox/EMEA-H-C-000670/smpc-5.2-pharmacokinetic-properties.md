@@ -5,6 +5,7 @@ Deferasirox (dispersible tablet formulation) is absorbed following oral administ
 The absolute bioavailability (AUC) of deferasirox (dispersible tablet formulation) is about 70% compared to an intravenous dose.
 Total exposure (AUC) was approximately doubled when taken along with a high-fat breakfast (fat content >50% of calories) and by about 50% when taken along with a standard breakfast.
 The bioavailability (AUC) of deferasirox was moderately (approx. 13–25%) elevated when taken 30 minutes before meals with normal or high fat content.
+
 Distribution
 Deferasirox is highly (99%) protein bound to plasma proteins, almost exclusively serum albumin, and has a small volume of distribution of approximately 14 litres in adults.
 
@@ -38,7 +39,6 @@ Since dosing is individually adjusted according to response this is not expected
 
 Elderly patients
 The pharmacokinetics of deferasirox have not been studied in elderly patients (aged 65 or older).
-
 Renal or hepatic impairment
 The pharmacokinetics of deferasirox have not been studied in patients with renal impairment.
 The pharmacokinetics of deferasirox were not influenced by liver transaminase levels up to 5 times the upper limit of the normal range.
