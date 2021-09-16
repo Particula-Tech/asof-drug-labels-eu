@@ -208,13 +208,11 @@ The combination of lenalidomide with intravenous bortezomib and dexamethasone in
 The frequency was lower when bortezomib was administered subcutaneously.
 For additional information, see Section 4.8 and the SmPC for bortezomib.
 Tumour flare reaction and tumour lysis syndrome
-Because lenalidomide has anti-neoplastic activity the complications of tumour lysis syndrome (TLS) may occur.
-TLS and tumour flare reaction (TFR) have commonly been observed in patients with chronic lymphocytic leukemia (CLL), and uncommonly in patients with lymphomas, who were treated with lenalidomide.
-Fatal instances of TLS have been reported during treatment with lenalidomide.
+Because lenalidomide has anti-neoplastic activity, the complications of tumour lysis syndrome (TLS) may occur.
+Cases of TLS and tumour flare reaction (TFR), including fatal cases, have been reported (see section 4.8).
 The patients at risk of TLS and TFR are those with high tumour burden prior to treatment.
 Caution should be practiced when introducing these patients to lenalidomide.
 These patients should be monitored closely, especially during the first cycle or dose-escalation, and appropriate precautions taken.
-There have been rare reports of TLS in patients with MM treated with lenalidomide, and no reports in patients with MDS treated with lenalidomide.
 
 - Mantle cell lymphoma
 
@@ -259,7 +257,6 @@ Lenalidomide must be discontinued for angioedema, anaphylactic reaction, exfolia
 Interruption or discontinuation of lenalidomide should be considered for other forms of skin reaction depending on severity.
 Patients who had previous allergic reactions while treated with thalidomide should be monitored closely, as a possible cross-reaction between lenalidomide and thalidomide has been reported in the literature.
 Patients with a history of severe rash associated with thalidomide treatment should not receive lenalidomide.
-
 Lactose intolerance
 Revlimid capsules contain lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
@@ -295,7 +292,6 @@ Progression to acute myeloid leukaemia in low- and intermediate-1-risk MDS
 Baseline variables including complex cytogenetics are associated with progression to AML in subjects who are transfusion dependent and have a Del (5q) abnormality.
 In a combined analysis of two clinical trials of lenalidomide in low- or intermediate-1-risk myelodysplastic syndromes, subjects who had a complex cytogenetics had the highest estimated 2-year cumulative risk of progression to AML (38.6%).
 The estimated 2-year rate of progression to AML in patients with an isolated Del (5q) abnormality was 13.8%, compared to 17.3% for patients with Del (5q) and one additional cytogenetic abnormality.
-
 As a consequence, the benefit/risk ratio of lenalidomide when MDS is associated with Del (5q) and complex cytogenetics is unknown.
 
 - TP53 status
@@ -333,6 +329,7 @@ A higher rate of infections was observed with lenalidomide in combination with d
 Grade ≥ 3 infections occurred within the context of neutropenia in less than one-third of the patients.
 Patients with known risk factors for infections should be closely monitored.
 All patients should be advised to seek medical attention promptly at the first sign of infection (eg, cough, fever, etc) thereby allowing for early management to reduce severity.
+
 Viral reactivation
 Cases of viral reactivation have been reported in patients receiving lenalidomide, including serious cases of herpes zoster or hepatitis B virus (HBV) reactivation.
 

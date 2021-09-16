@@ -22,7 +22,6 @@ In the SWOG S0777 study, the serious adverse reactions observed more frequently 
 - Hypotension (6.5%), lung infection (5.7%), dehydration (5.0%)
 
 The adverse reactions observed more frequently with lenalidomide in combination with bortezomib and dexamethasone than with lenalidomide in combination with dexamethasone were: Fatigue (73.7%), peripheral neuropathy (71.8%), thrombocytopenia (57.6%), constipation (56.1%), hypocalcaemia (50.0%).
-
 Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with low dose dexamethasone
 The serious adverse reactions observed more frequently (≥5%) with lenalidomide in combination with low dose dexamethasone (Rd and Rd18) than with melphalan, prednisone and thalidomide (MPT) were:
 
@@ -62,7 +61,6 @@ Serious adverse reactions include:
 - Grade 3 or 4 neutropenia, febrile neutropenia and Grade 3 or 4 thrombocytopenia (see section 4.4).
 
 The most commonly observed adverse reactions which occurred more frequently in the lenalidomide groups compared to the control arm in the phase 3 study were neutropenia (76.8%), thrombocytopenia (46.4%), diarrhoea (34.8%), constipation (19.6%), nausea (19.6%), pruritus (25.4%), rash (18.1%), fatigue (18.1%) and muscle spasms (16.7%).
-
 Mantle cell lymphoma
 The overall safety profile of lenalidomide in patients with mantle cell lymphoma is based on data from 254 patients from a phase 2 randomised, controlled study MCL-002 (see section 5.1).
 Additionally, adverse drug reactions from supportive study MCL-001 have been included in table 3.
@@ -105,7 +103,6 @@ Adverse reactions have been included under the appropriate category in the table
 Tabulated summary for monotherapy in MM
 The following table is derived from data gathered during NDMM studies in patients who have undergone ASCT treated with lenalidomide maintenance.
 The data were not adjusted according to the longer duration of treatment in the lenalidomide-containing arms continued until disease progression versus the placebo arms in the pivotal multiple myeloma studies (see section 5.1).
-
 Table 1.
 ADRs reported in clinical trials in patients with multiple myeloma treated with lenalidomide maintenance therapy
 
@@ -121,8 +118,7 @@ ADRs reported in clinical trials in patients with multiple myeloma treated with 
 | Gastrointestinal Disorders | Very Common Diarrhoea, Constipation, Abdominal pain, Nausea Common Vomiting, Abdominal pain upper | Common Diarrhoea, Vomiting, Nausea |
 | Hepatobiliary Disorders | Very Common Abnormal liver function tests | Common Abnormal liver function tests |
 | Skin and Subcutaneous Tissue Disorders | Very Common Rash, Dry skin | Common Rash, Pruritus |
-| Musculoskeletal and Connective Tissue Disorders | Very Common Muscle spasms Common |  |
-|  | Myalgia, Musculoskeletal pain |  |
+| Musculoskeletal and Connective Tissue Disorders | Very Common Muscle spasms Common Myalgia, Musculoskeletal pain |  |
 | General Disorders and Administration Site Conditions | Very Common Fatigue, Asthenia, Pyrexia | Common Fatigue, Asthenia |
 
 ◊ Adverse reactions reported as serious in clinical trials in patients with NDMM who had undergone ASCT
