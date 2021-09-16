@@ -24,8 +24,8 @@ This is not considered to be of significance to patient safety and therefore no 
 Distribution
 
 From intravenous studies, the mean volume of distribution is 1.3 l/kg.
-The observed half-life of elimination is 5 to 7 hours.
-The mean systemic clearance of lamivudine is approximately 0.32 l/h/kg, with predominantly renal clearance (> 70%) via the organic cationic transport system.
+The mean systemic clearance of lamivudine is approximately
+0.32 l/h/kg, with predominantly renal clearance (> 70%) via the organic cationic transport system.
 
 Lamivudine exhibits linear pharmacokinetics over the therapeutic dose range and displays limited binding to the major plasma protein albumin (< 16% - 36% to serum albumin in in vitro studies).
 
@@ -35,13 +35,13 @@ The true extent of penetration or relationship with any clinical efficacy is unk
 
 Biotransformation
 
-The active moiety, intracellular lamivudine triphosphate, has a prolonged terminal half-life in the cell (16 to 19 hours) compared to the plasma lamivudine half-life (5 to 7 hours).
+The plasma lamivudine half-life after oral dosing is 18 to 19 hours and the active moiety, intracellular lamivudine triphosphate, has a prolonged terminal half-life in the cell (16 to 19 hours).
 In 60 healthy adult volunteers, Epivir 300 mg once daily has been demonstrated to be pharmacokinetically equivalent at steady-state to Epivir 150 mg twice daily with respect to intracellular triphosphate AUC24 and Cmax.
-
 Lamivudine is predominately cleared unchanged by renal excretion.
 The likelihood of metabolic interactions of lamivudine with other medicinal products is low due to the small extent of hepatic metabolism (5-10%) and low plasma protein binding.
 
 Elimination
+
 Studies in patients with renal impairment show lamivudine elimination is affected by renal dysfunction.
 A recommended dosage regimen for patients with creatinine clearance below 50 ml/min is shown in the dosage section (see section 4.2).
 
@@ -59,7 +59,7 @@ Paediatric pharmacokinetic studies with both oral solution and tablet formulatio
 
 There are limited pharmacokinetic data for patients less than three months of age.
 In neonates one week of age, lamivudine oral clearance was reduced when compared to paediatric patients and is likely to be due to immature renal function and variable absorption.
-Therefore to achieve similar adult and paediatric exposure, an appropriate dose for neonates is 4 mg/kg/day.
+Therefore, to achieve similar adult and paediatric exposure, an appropriate dose for neonates is 4 mg/kg/day.
 Glomerular filtration estimates suggests that to achieve similar adult and paediatric exposure, an appropriate dose for children aged six weeks and older could be 8 mg/kg/day.
 
 Pharmacokinetic data were derived from 3 pharmacokinetic studies (PENTA 13, PENTA 15 and ARROW PK substudy) enrolling children under 12 years of age.
@@ -74,6 +74,7 @@ Summary of Stead-State Plasma Lamivudine AUC (0-24) (µg.h/ml) and Statistical C
 | PENTA 15 | 3 to 36 months (N=17) | 8.66 (7.46, 10.1) | 9.48 (7.89, 11.40) | 0.91 (0.79, 1.06) |
 
 In PENTA 15 study, the geometric mean plasma lamivudine AUC(0-24) (95% CI) of the four subjects under 12 months of age who switch from a twice daily to a once daily regimen (see section 5.1) are 10.31 (6.26, 17.0) µg.h/ml in the once-daily dosing and 9.24 (4.66, 18.3) µg.h/ml in the twice-daily dosing.
+
 Pregnancy: Following oral administration, lamivudine pharmacokinetics in late-pregnancy were similar to non-pregnant women.
 
 [Epivir 10 mg/ml oral solution]
@@ -82,6 +83,6 @@ Co-administration of lamivudine with food results in a delay of tmax and a lower
 
 Co-administration of zidovudine results in a 13% increase in zidovudine exposure and a 28% increase in peak plasma levels.
 
-The mean systemic clearance of lamivudine is approximately 0.32 l/h/kg, with predominantly renal clearance (>70 %) via the organic cationic transport system.
+0.32 l/h/kg, with predominantly renal clearance (>70 %) via the organic cationic transport system.
 
 An interaction with trimethoprim, a constituent of co-trimoxazole, causes a 40 % increase in lamivudine exposure at therapeutic doses.

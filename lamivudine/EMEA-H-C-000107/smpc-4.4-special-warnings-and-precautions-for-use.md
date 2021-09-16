@@ -11,7 +11,7 @@ Triple nucleoside therapy: There have been reports of a high rate of virological
 
 Opportunistic infections: Patients receiving Epivir or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV infection, and therefore should remain under close clinical observation by physicians experienced in the treatment of patients with associated HIV diseases.
 Pancreatitis: Cases of pancreatitis have occurred rarely.
-However it is not clear whether these cases were due to the antiretroviral treatment or to the underlying HIV disease.
+However, it is not clear whether these cases were due to the antiretroviral treatment or to the underlying HIV disease.
 Treatment with Epivir should be stopped immediately if clinical signs, symptoms or laboratory abnormalities suggestive of pancreatitis occur.
 
 Mitochondrial dysfunction following exposure in utero: Nucleoside and nucleotide analogues may impact mitochondrial function to a variable degree, which is most pronounced with stavudine, didanosine and zidovudine.
@@ -55,6 +55,9 @@ Drug Interactions: Epivir should not be taken with any other medicinal products 
 
 The combination of lamivudine with cladribine is not-recommended (see section 4.5).
 
+Excipients:
+Sodium: This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially ‘sodium-free’.
+
 [Epivir 10 mg/ml oral solution]
 
 Renal impairment: In patients with moderate –to- severe renal impairment, the terminal plasma half-life of lamivudine is increased due to decreased clearance, therefore the dose should be adjusted (see section 4.2).
@@ -67,6 +70,8 @@ Patients with rare hereditary problems of fructose intolerance, glucose-galactos
 
 Epivir contains methyl parahydroxybenzoate and propyl parahydroxybenzoate.
 These may cause allergic reactions (possibly delayed).
+
+This medicinal product contains 39 mg sodium per 15 ml, equivalent to 1.95% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 
 Whenever possible in children, an all-tablet regimen should preferably be used.
 Epivir oral solution given concomitantly with sorbitol-containing medicines should be used only when an all-tablet regimen cannot be used and the benefits of treatment outweigh possible risks including lower virological suppression.

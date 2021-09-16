@@ -22,4 +22,4 @@ Each 15 ml dose contains 3 g sucrose (20% w/v).
 Methyl parahydroxybenzoate
 Propyl parahydroxybenzoate
 Each 15 ml dose contains 300 mg propylene glycol.
-Each 15 ml dose contains 44.1 mg sodium.
+Each 15 ml dose contains 39 mg sodium.

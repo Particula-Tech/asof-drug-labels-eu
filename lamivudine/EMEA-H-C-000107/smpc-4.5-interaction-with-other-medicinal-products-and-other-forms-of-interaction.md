@@ -24,7 +24,6 @@ Some clinical findings also support a possible interaction between lamivudine an
 Therefore, the concomitant use of lamivudine with cladribine is not recommended (see section 4.4).
 
 Lamivudine metabolism does not involve CYP3A, making interactions with medicinal products metabolised by this system (e.g. PIs) unlikely.
-
 Coadministration of sorbitol solution (3.2 g, 10.2 g, 13.4 g) with a single 300 mg dose of lamivudine oral solution resulted in dose-dependent decreases of 14%, 32%, and 36% in lamivudine exposure (AUC∞) and 28%, 52%, and 55% in the Cmax of lamivudine in adults.
 When possible, avoid chronic coadministration of Epivir with medicinal products containing sorbitol or other osmotic acting poly-alcohols or monosaccharide alcohols (e.g. xylitol, mannitol, lactitol, maltitol).
 Consider more frequent monitoring of HIV-1 viral load when chronic coadministration cannot be avoided.
