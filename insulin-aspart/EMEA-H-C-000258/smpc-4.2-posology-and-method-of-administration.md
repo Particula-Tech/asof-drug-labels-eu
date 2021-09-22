@@ -47,7 +47,7 @@ Method of administration
 
 NovoRapid is a rapid-acting insulin analogue.
 NovoRapid is administered subcutaneously by injection in the abdominal wall, the thigh, the upper arm, the deltoid region or the gluteal region.
-Injection sites should always be rotated within the same region in order to reduce the risk of lipodystrophy.
+Injection sites should always be rotated within the same region in order to reduce the risk of lipodystrophy and cutaneous amyloidosis (see sections 4.4 and 4.8).
 Subcutaneous injection in the abdominal wall ensures a faster absorption than other injection sites.
 Compared to soluble human insulin the faster onset of action of NovoRapid is maintained regardless of the injection site.
 The duration of action will vary according to the dose, injection site, blood flow, temperature and level of physical activity.

@@ -15,7 +15,6 @@ The cartridge must not be refilled.
 NovoRapid vial
 NovoRapid may be used in an infusion pump system (CSII) as described in section 4.2.
 Tubings in which the inner surface materials are made of polyethylene or polyolefin have been evaluated and found compatible with pump use.
-
 NovoRapid PumpCart
 NovoRapid PumpCart is a pre-filled cartridge ready for use directly in the pump.
 Please refer to the package leaflet where detailed instructions for use are provided.

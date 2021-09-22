@@ -10,7 +10,6 @@ Insulin requirements usually fall in the first trimester and increase subsequent
 After delivery, insulin requirements normally return rapidly to pre-pregnancy values.
 
 Breast-feeding
-
 There are no restrictions on treatment with NovoRapid during breast-feeding.
 Insulin treatment of the nursing mother presents no risk to the baby.
 However, the NovoRapid dose may need to be adjusted.

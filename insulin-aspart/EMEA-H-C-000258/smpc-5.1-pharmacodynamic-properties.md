@@ -12,7 +12,6 @@ NovoRapid produces a more rapid onset of action compared to soluble human insuli
 NovoRapid has a shorter duration of action compared to soluble human insulin after subcutaneous injection.
 
 Fig. I. Blood glucose concentrations following a single pre-meal dose of NovoRapid injected immediately before a meal (solid curve) or soluble human insulin administered 30 minutes before a meal (hatched curve) in patients with type 1 diabetes mellitus.
-
 When NovoRapid is injected subcutaneously, the onset of action will occur within 10 to 20 minutes of injection.
 The maximum effect is exerted between 1 and 3 hours after injection.
 The duration of action is 3 to 5 hours.
@@ -30,6 +29,7 @@ The risk of daytime hypoglycaemia was not significantly increased.
 Insulin aspart is equipotent to soluble human insulin on a molar basis.
 
 Special populations
+
 Elderly (≥ 65 years old)
 A randomised, double-blind cross-over PK/PD trial comparing insulin aspart with soluble human insulin was performed in elderly patients with type 2 diabetes (19 patients aged 65–83 years, mean age 70 years).
 The relative differences in the pharmacodynamic properties (GIRmax,AUCGIR, 0–120 min) between insulin aspart and soluble human insulin in the elderly were similar to those seen in healthy subjects and in younger patients with diabetes.

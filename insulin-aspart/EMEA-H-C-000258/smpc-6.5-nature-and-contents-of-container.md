@@ -2,7 +2,6 @@
 
 NovoRapid vial
 10 ml solution in vial (type 1 glass) closed with a disc (bromobutyl/polyisoprene rubber) and a protective tamper-proof plastic cap.
-
 Pack sizes of 1 or 5 vials of 10 ml or a multipack containing 5 packs of 1 x 10 ml vial.
 Not all pack sizes may be marketed.
 

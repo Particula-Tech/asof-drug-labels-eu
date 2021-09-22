@@ -49,8 +49,14 @@ Continuous rotation of the injection site within a given area reduces the risk o
 Reactions usually resolve in a few days to a few weeks.
 On rare occasions, injection site reactions may require discontinuation of NovoRapid.
 
-Combination of NovoRapid with pioglitazone
+Skin and subcutaneous tissue disorders
 
+Patients must be instructed to perform continuous rotation of the injection site to reduce the risk of developing lipodystrophy and cutaneous amyloidosis.
+There is a potential risk of delayed insulin absorption and worsened glycaemic control following insulin injections at sites with these reactions.
+A sudden change in the injection site to an unaffected area has been reported to result in hypoglycaemia.
+Blood glucose monitoring is recommended after the change in the injection site from an affected to an unaffected area, and dose adjustment of antidiabetic medications may be considered.
+
+Combination of NovoRapid with pioglitazone
 Cases of cardiac failure have been reported when pioglitazone was used in combination with insulin, especially in patients with risk factors for development of cardiac heart failure.
 This should be kept in mind if treatment with the combination of pioglitazone and NovoRapid is considered.
 If the combination is used, patients should be observed for signs and symptoms of heart failure, weight gain and oedema.
@@ -59,7 +65,12 @@ Pioglitazone should be discontinued if any deterioration in cardiac symptoms occ
 Avoidance of accidental mix-ups/medication errors
 
 Patients must be instructed to always check the insulin label before each injection to avoid accidental mix-ups between NovoRapid and other insulin products.
+
 Insulin antibodies
 
 Insulin administration may cause insulin antibodies to form.
 In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyper- or hypoglycaemia.
+
+Traceability
+
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.

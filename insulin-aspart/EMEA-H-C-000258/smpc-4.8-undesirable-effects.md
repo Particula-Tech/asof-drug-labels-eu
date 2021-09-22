@@ -25,15 +25,18 @@ Frequency categories are defined according to the following convention: Very com
 | Eye disorders | Uncommon – Refraction disorders |
 |  | Uncommon – Diabetic retinopathy |
 | Skin and subcutaneous tissue disorders | Uncommon – Lipodystrophy* |
+|  | Not known – Cutaneous amyloidosis*† |
 | General disorders and administration site conditions | Uncommon – Injection site reactions |
 |  | Uncommon – Oedema |
 
 * see section 4.8, Description of selected adverse reactions.
+† ADR from postmarketing sources.
 
 Description of selected adverse reactions
 
 Anaphylactic reactions:
 The occurrence of generalised hypersensitivity reactions (including generalised skin rash, itching, sweating, gastrointestinal upset, angioneurotic oedema, difficulties in breathing, palpitation and reduction in blood pressure) is very rare but can potentially be life threatening.
+
 Hypoglycaemia:
 The most frequently reported adverse reaction is hypoglycaemia.
 It may occur if the insulin dose is too high in relation to the insulin requirement.
@@ -44,9 +47,9 @@ They may include cold sweats, cool pale skin, fatigue, nervousness or tremor, an
 In clinical trials, the frequency of hypoglycaemia varied with patient population, dose regimens and level of glycaemic control.
 During clinical trials the overall rates of hypoglycaemia did not differ between patients treated with insulin aspart compared to human insulin.
 
-Lipodystrophy:
-Lipodystrophy (including lipohypertrophy, lipoatrophy) may occur at the injection site.
-Continuous rotation of the injection site within the particular injection area reduces the risk of developing these reactions.
+Skin and subcutaneous tissue disorders:
+Lipodystrophy (including lipohypertrophy, lipoatrophy) and cutaneous amyloidosis may occur at the injection site and delay local insulin absorption.
+Continuous rotation of the injection site within the given injection area may help to reduce or prevent these reactions (see section 4.4).
 
 Paediatric population
 

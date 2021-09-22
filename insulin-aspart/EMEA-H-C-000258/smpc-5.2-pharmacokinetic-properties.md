@@ -4,7 +4,6 @@ Absorption, distribution and elimination
 
 In NovoRapid substitution of amino acid proline with aspartic acid at position B28 reduces the tendency to form hexamers as observed with soluble human insulin.
 NovoRapid is therefore more rapidly absorbed from the subcutaneous layer compared to soluble human insulin.
-
 The time to maximum concentration is, on average, half of that for soluble human insulin.
 A mean maximum plasma concentration of 492±256 pmol/l was reached 40 (interquartile range: 30–40) minutes after a subcutaneous dose of 0.15 unit/kg bodyweight in type 1 diabetic patients.
 The insulin concentrations returned to baseline about 4 to 6 hours after dose.
