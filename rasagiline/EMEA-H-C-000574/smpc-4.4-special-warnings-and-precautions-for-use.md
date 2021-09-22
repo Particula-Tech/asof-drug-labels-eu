@@ -30,9 +30,9 @@ Patients and carers should be made aware of the behavioural symptoms of impulse 
 
 Melanoma
 
-During the clinical development program, the occurrence of cases of melanoma prompted the consideration of a possible association with rasagiline.
-The data collected suggests that Parkinson’s disease, and not any medicinal products in particular, is associated with a higher risk of skin cancer (not exclusively melanoma).
+A retrospective cohort study suggested a possibly increased risk of melanoma with the use of rasagiline, especially in patients with longer duration of rasagiline exposure and/or with the higher cumulative dose of rasagiline.
 Any suspicious skin lesion should be evaluated by a specialist.
+Patients should therefore be advised to seek medical review if a new or changing skin lesion is identified.
 Hepatic impairment
 
 Caution should be used when initiating treatment with rasagiline in patients with mild hepatic impairment.
