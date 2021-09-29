@@ -1,6 +1,6 @@
 # 6.1 List of excipients
 
-Hydroxypropylcellulose
+Hydroxypropyl cellulose
 Microcrystalline cellulose
 Carmellose sodium
 Citric acid monohydrate
@@ -8,7 +8,7 @@ Sucralose
 Strawberry cream flavour
 Masking flavour
 Sodium methyl parahydroxybenzoate (E219)
-Hydrocholoric acid (for pH adjustment)
+Hydrochloric acid (for pH adjustment)
 Purified water
 
 [PREZISTA 75 mg film-coated tablets]

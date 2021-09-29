@@ -1,7 +1,7 @@
 # 4.2 Posology and method of administration
 
-Therapy should be initiated by a health care provider experienced in the management of HIV infection.
-After therapy with PREZISTA has been initiated, patients should be advised not to alter the dosage, dose form or discontinue therapy without discussing with their health care provider.
+Therapy should be initiated by a healthcare provider experienced in the management of HIV infection.
+After therapy with PREZISTA has been initiated, patients should be advised not to alter the dosage, dose form or discontinue therapy without discussing with their healthcare provider.
 
 The interaction profile of darunavir depends on whether ritonavir or cobicistat is used as pharmacokinetic enhancer.
 Darunavir may therefore have different contraindications and recommendations for concomitant medications depending on whether the compound is boosted with ritonavir or cobicistat (see sections 4.3, 4.4 and 4.5).

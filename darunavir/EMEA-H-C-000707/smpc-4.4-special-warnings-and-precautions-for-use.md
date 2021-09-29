@@ -124,6 +124,8 @@ Life-threatening and fatal drug interactions have been reported in patients trea
 
 PREZISTA oral suspension contains sodium methyl parahydroxybenzoate (E219) which may cause allergic reactions (possibly delayed).
 
+PREZISTA oral suspension contains less than 1 mmol sodium (23 mg) per ml, that is to say essentially ‘sodium-free’.
+
 [PREZISTA 75 mg film-coated tablets]
 
 PREZISTA must always be given orally with low dose ritonavir as a pharmacokinetic enhancer and in combination with other antiretroviral medicinal products (see section 5.2).
@@ -141,8 +143,12 @@ If efavirenz is to be used in combination with PREZISTA, the PREZISTA/ritonavir 
 
 PREZISTA 600 mg tablets contain sunset yellow FCF (E110) which may cause an allergic reaction.
 
+PREZISTA 75 mg, 150 mg, and 600 mg tablets contain less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
+
 [PREZISTA 400 mg film-coated tablets]
 
 PREZISTA 400 mg or 800 mg must always be given orally with cobicistat or low dose ritonavir as a pharmacokinetic enhancer and in combination with other antiretroviral medicinal products (see section 5.2).
 
 PREZISTA 400 mg tablets contain sunset yellow FCF (E110) which may cause an allergic reaction.
+
+PREZISTA 400 mg and 800 mg tablets contain less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
