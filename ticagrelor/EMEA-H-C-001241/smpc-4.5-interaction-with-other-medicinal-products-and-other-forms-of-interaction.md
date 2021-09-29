@@ -28,6 +28,7 @@ The AUC of the active metabolite was increased by 32% and Cmax was decreased by 
 
 No data are available on concomitant use of ticagrelor with other active substances that also are potent P-gp inhibitors and moderate CYP3A4 inhibitors (e.g. verapamil, quinidine) that also may increase ticagrelor exposure.
 If the association cannot be avoided, their concomitant use should be made with caution.
+
 Others
 Clinical pharmacology interaction studies showed that co-administration of ticagrelor with heparin, enoxaparin and ASA or desmopressin did not have any effect on the pharmacokinetics of ticagrelor or the active metabolite or on ADP-induced platelet aggregation compared with ticagrelor alone.
 If clinically indicated, medicinal products that alter haemostasis should be used with caution in combination with ticagrelor.
@@ -66,6 +67,7 @@ Effect of ticagrelor on other P-gp substrates has not been studied.
 
 Medicinal products metabolised by CYP2C9
 Co-administration of ticagrelor with tolbutamide resulted in no change in the plasma levels of either medicinal product, which suggests that ticagrelor is not a CYP2C9 inhibitor and unlikely to alter the CYP2C9 mediated metabolism of medicinal products like warfarin and tolbutamide.
+
 Oral contraceptives
 Co-administration of ticagrelor and levonorgestrel and ethinyl estradiol increased ethinyl estradiol exposure approximately 20% but did not alter the pharmacokinetics of levonorgestrel.
 No clinically relevant effect on oral contraceptive efficacy is expected when levonorgestrel and ethinyl estradiol are co-administered with ticagrelor.
@@ -73,7 +75,6 @@ No clinically relevant effect on oral contraceptive efficacy is expected when le
 Medicinal products known to induce bradycardia
 Due to observations of mostly asymptomatic ventricular pauses and bradycardia, caution should be exercised when administering ticagrelor concomitantly with medicinal products known to induce bradycardia (see section 4.4).
 However, no evidence of clinically significant adverse reactions was observed in the PLATO trial after concomitant administration with one or more medicinal products known to induce bradycardia (e.g. 96% beta blockers, 33% calcium channel blockers diltiazem and verapamil and 4% digoxin).
-
 Other concomitant therapy
 In clinical studies, ticagrelor was commonly administered with ASA, proton pump inhibitors, statins, beta-blockers, angiotensin converting enzyme (ACE) inhibitors and angiotensin receptor blockers as needed for concomitant conditions for long-term and also heparin, low molecular weight heparin and intravenous GpIIb/IIIa inhibitors for short durations (see section 5.1).
 No evidence of clinically significant adverse interactions with these medicinal products was observed.

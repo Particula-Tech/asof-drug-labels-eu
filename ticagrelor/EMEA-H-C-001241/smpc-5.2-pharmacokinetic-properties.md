@@ -24,6 +24,7 @@ The steady state volume of distribution of ticagrelor is 87.5 l. Ticagrelor and 
 
 Biotransformation
 CYP3A4 is the major enzyme responsible for ticagrelor metabolism and the formation of the active metabolite and their interactions with other CYP3A substrates ranges from activation through to inhibition.
+
 The major metabolite of ticagrelor is AR-C124910XX, which is also active as assessed by in vitro binding to the platelet P2Y12 ADP-receptor.
 The systemic exposure to the active metabolite is approximately 30-40% of that obtained for ticagrelor.
 
@@ -41,15 +42,17 @@ Higher exposures to ticagrelor (approximately 25% for both Cmax and AUC) and the
 These differences are not considered clinically significant (see section 4.2).
 
 Paediatric population
-Ticagrelor has not been evaluated in a paediatric population (see sections 4.2 and 5.1).
+Limited data are available in children with sickle cell disease (see sections 4.2 and 5.1).
+
+In the HESTIA 3 study, patients aged 2 to less than 18 years weighing ≥ 12 to ≤ 24 kg, > 24 to ≤ 48 kg and > 48 kg, were administered ticagrelor as paediatric dispersible 15 mg tablets at doses of respectively 15, 30 and 45 mg twice daily.
+Based on population pharmacokinetic analysis, the mean AUC ranged from 1095 ng*h/mL to 1458 ng*h/mL and the mean Cmax ranged from 143 ng/mL to 206 ng/mL at steady state.
 
 Gender
 Higher exposures to ticagrelor and the active metabolite were observed in women compared to men.
 These differences are not considered clinically significant.
 
 Renal impairment
-Exposure to ticagrelor was approximately 20% lower and exposure to the active metabolite was approximately 17% higher in patients with severe renal impairment (creatinine clearance
-<30 ml/min) compared to subjects with normal renal function.
+Exposure to ticagrelor was approximately 20% lower and exposure to the active metabolite was approximately 17% higher in patients with severe renal impairment (creatinine clearance <30 ml/min) compared to subjects with normal renal function.
 
 In patients with end stage renal disease on haemodialysis AUC and Cmax of ticagrelor 90 mg administered on a day without dialysis were 38% and 51% higher compared to subjects with normal renal function.
 A similar increase in exposure was observed when ticagrelor was administered immediately prior to dialysis (49% and 61%, respectively) showing that ticagrelor is not dialysable.
@@ -62,6 +65,7 @@ No dose adjustment is needed for patients with mild hepatic impairment.
 Ticagrelor has not been studied in patients with severe hepatic impairment and there is no pharmacokinetic information in patients with moderate hepatic impairment.
 In patients that had moderate or severe elevation in one or more liver function tests at baseline, ticagrelor plasma concentrations were on average similar or slightly higher as compared to those without baseline elevations.
 No dose adjustment is recommended in patients with moderate hepatic impairment (see sections 4.2 and 4.4).
+
 Ethnicity
 Patients of Asian descent have a 39% higher mean bioavailability compared to Caucasian patients.
 Patients self-identified as black had an 18% lower bioavailability of ticagrelor compared to Caucasian patients, in clinical pharmacology studies, the exposure (Cmax and AUC) to ticagrelor in Japanese subjects was approximately 40% (20% after adjusting for body weight) higher compared to that in Caucasians.

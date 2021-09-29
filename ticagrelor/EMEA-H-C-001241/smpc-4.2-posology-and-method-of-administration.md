@@ -13,8 +13,8 @@ Brilique 60 mg twice daily is the recommended dose when an extended treatment is
 Treatment may be started without interruption as continuation therapy after the initial one-year treatment with Brilique 90 mg or other adenosine diphosphate (ADP) receptor inhibitor therapy in ACS patients with a high risk of an atherothrombotic event.
 Treatment can also be initiated up to 2 years from the MI, or within one year after stopping previous ADP receptor inhibitor treatment.
 There are limited data on the efficacy and safety of ticagrelor beyond 3 years of extended treatment.
-If a switch is needed, the first dose of Brilique should be administered 24 hours following the last dose of the other antiplatelet medication.
 
+If a switch is needed, the first dose of Brilique should be administered 24 hours following the last dose of the other antiplatelet medication.
 Missed dose
 Lapses in therapy should also be avoided.
 A patient who misses a dose of Brilique should take only one tablet (their next dose) at its scheduled time.
@@ -34,7 +34,7 @@ No dose adjustment is necessary for patients with mild hepatic impairment (see s
 
 Paediatric population
 The safety and efficacy of ticagrelor in children below the age of 18 years have not been established.
-No data are available.
+There is no relevant use of ticagrelor in children with sickle cell disease (see sections 5.1 and 5.2).
 
 Method of administration
 For oral use.
