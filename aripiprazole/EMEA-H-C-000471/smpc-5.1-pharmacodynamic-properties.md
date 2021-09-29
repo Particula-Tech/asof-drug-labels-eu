@@ -41,7 +41,6 @@ For patients receiving aripiprazole, the median time to onset was 42 days and me
 
 The incidence of hypoprolactinaemia or decreased serum prolactin in patients treated with aripiprazole was 0.4 %, compared with 0.02 % for patients treated with placebo.
 For patients receiving aripiprazole, the median time to onset was 30 days and median duration was 194 days.
-
 Manic episodes in Bipolar I Disorder
 In two 3-week, flexible-dose, placebo-controlled monotherapy trials involving patients with a manic or mixed episode of Bipolar I Disorder, aripiprazole demonstrated superior efficacy to placebo in reduction of manic symptoms over 3 weeks.
 These trials included patients with or without psychotic features and with or without a rapid-cycling course.
@@ -109,6 +108,7 @@ Tics associated with Tourette’s disorder in paediatric patients (see section 4
 The efficacy of aripiprazole was studied in paediatric subjects with Tourette’s disorder (aripiprazole: n = 99, placebo: n = 44) in a randomised, double-blind, placebo-controlled, 8 week study using a fixed dose weight-based treatment group design over the dose range of 5 mg/day to 20 mg/day and a starting dose of 2 mg.
 Patients were 7 to 17 years of age and presented an average score of 30 on Total Tic Score on the Yale Global Tic Severity Scale (TTS-YGTSS) at baseline.
 Aripiprazole showed an improvement on TTS-YGTSS change from baseline to week 8 of 13.35, for the low dose group (5 mg or 10 mg) and 16.94 for the high dose group (10 mg or 20 mg) as compared with an improvement of 7.09 in the placebo group.
+
 The efficacy of aripiprazole in paediatric subjects with Tourette’s syndrome (aripiprazole: n = 32, placebo: n = 29) was also evaluated over a flexible dose range of 2 mg/day to 20 mg/day and a starting dose of 2 mg, in a 10 week, randomised, double blind, placebo-controlled study conducted in South-Korea.
 Patients were 6 to 18 years and presented an average score of 29 on TTS-YGTSS at baseline.
 Aripiprazole group showed an improvement of 14.97 on TTS-YGTSS change from baseline to week 10 as compared with an improvement of 9.62 in the placebo group.

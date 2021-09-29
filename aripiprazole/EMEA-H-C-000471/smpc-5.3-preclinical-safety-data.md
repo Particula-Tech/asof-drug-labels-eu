@@ -8,8 +8,8 @@ The highest nontumorigenic exposure in female rats was 7 times the human exposur
 
 An additional finding was cholelithiasis as a consequence of precipitation of sulphate conjugates of hydroxy metabolites of aripiprazole in the bile of monkeys after repeated oral dosing at 25 mg/kg/day to 125 mg/kg/day (1 to 3 times the mean steady-state AUC at the maximum recommended clinical dose or 16 to 81 times the maximum recommended human dose based on mg/m2).
 However, the concentrations of the sulphate conjugates of hydroxy aripiprazole in human bile at the highest dose proposed, 30 mg per day, were no more than 6 % of the bile concentrations found in the monkeys in the 39-week study and are well below (6 %) their limits of in vitro solubility.
-
 In repeat-dose studies in juvenile rats and dogs, the toxicity profile of aripiprazole was comparable to that observed in adult animals, and there was no evidence of neurotoxicity or adverse reactions on development.
+
 Based on results of a full range of standard genotoxicity tests, aripiprazole was considered non-genotoxic.
 Aripiprazole did not impair fertility in reproductive toxicity studies.
 Developmental toxicity, including dose-dependent delayed foetal ossification and possible teratogenic effects, were observed in rats at doses resulting in subtherapeutic exposures (based on AUC) and in rabbits at doses resulting in exposures 3 and 11 times the mean steady-state AUC at the maximum recommended clinical dose.

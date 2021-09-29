@@ -23,15 +23,16 @@ Consequently, the frequency of these adverse events is qualified as "not known".
 | disorders |  |  | Diabetic ketoacidosis |
 | Metabolism and nutrition disorders | Diabetes mellitus | Hyperglycaemia | Hyponatremia Anorexia |
 | Psychiatric disorders | Insomnia Anxiety Restlessness | Depression Hypersexuality | Suicide attempt, suicidal ideation and completed suicide (see section 4.4) Pathological gambling Impulse-control disorder Binge eating Compulsive shopping Poriomania Aggression Agitation Nervousness |
-| Nervous system disorders | Akathisia Extrapyramidal disorder Tremor Headache Sedation Somnolence Dizziness | Tardive dyskinesia Dystonia | Neuroleptic Malignant Syndrome Grand mal convulsion Serotonin syndrome Speech disorder |
+| Nervous system disorders | Akathisia Extrapyramidal disorder Tremor Headache Sedation Somnolence Dizziness | Tardive dyskinesia Dystonia Restless legs syndrome | Neuroleptic Malignant Syndrome Grand mal convulsion Serotonin syndrome Speech disorder |
 | Eye disorders | Vision blurred | Diplopia Photophobia | Oculogyric crisis |
 | Cardiac disorders |  | Tachycardia | Sudden death unexplained Torsades de pointes Ventricular arrhythmia Cardiac arrest Bradycardia |
 | Vascular disorders |  | Orthostatic hypotension | Venous thromboembolism (including pulmonary embolism and deep vein thrombosis) Hypertension Syncope |
 | Respiratory, thoracic and mediastinal disorders |  | Hiccups | Aspiration pneumonia Laryngospasm Oropharyngeal spasm |
 | Gastrointestinal disorders | Constipation Dyspepsia Nausea Salivary hypersecretion Vomiting |  | Pancreatitis Dysphagia Diarrhoea Abdominal discomfort Stomach discomfort |
 | Hepatobiliary disorders |  |  | Hepatic failure Hepatitis Jaundice |
-| Skin and subcutaneous tissue disorders |  |  | Rash Photosensitivity reaction Alopecia Hyperhidrosis |
-| Musculoskeletal and connective tissue disorders |  |  | Rhabdomyolysis Myalgia Stiffness |
+| Skin and subcutaneous tissue disorders |  |  | Rash Photosensitivity reaction Alopecia Hyperhidrosis Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) |
+| Musculoskeletal and connective |  |  | Rhabdomyolysis Myalgia |
+| tissue disorders |  |  | Stiffness |
 | Renal and urinary disorders |  |  | Urinary incontinence Urinary retention |
 | Pregnancy, puerperium and perinatal conditions |  |  | Drug withdrawal syndrome neonatal (see section 4.6) |
 | Reproductive system and breast disorders |  |  | Priapism |
@@ -90,7 +91,6 @@ The following adverse reactions had a possible dose response relationship; extra
 Mean changes in body weight in adolescents with Bipolar I Disorder at 12 and 30 weeks for aripiprazole were 2.4 kg and 5.8 kg, and for placebo 0.2 kg and 2.3 kg, respectively.
 
 In the paediatric population somnolence and fatigue were observed more frequently in patients with bipolar disorder compared to patients with schizophrenia.
-
 In the paediatric bipolar population (10 to 17 years) with exposure up to 30 weeks, incidence of low serum prolactin levels in females (< 3 ng/mL) and males (< 2 ng/mL) was 28.0 % and 53.3 %, respectively.
 
 Pathological gambling and other impulse control disorders
@@ -112,14 +112,14 @@ Common Uncommon Not known
 | Endocrine disorders |  | Hyperprolactinaemia | Diabetic hyperosmolar coma Diabetic ketoacidosis |
 | Metabolism and nutrition disorders | Diabetes mellitus | Hyperglycaemia | Hyponatremia Anorexia |
 | Psychiatric disorders | Insomnia Anxiety Restlessness | Depression Hypersexuality | Suicide attempt, suicidal ideation and completed suicide (see section 4.4) Pathological gambling Impulse-control disorder Binge eating Compulsive shopping Poriomania Aggression Agitation Nervousness |
-| Nervous system disorders | Akathisia Extrapyramidal disorder Tremor Headache Sedation Somnolence Dizziness | Tardive dyskinesia Dystonia | Neuroleptic Malignant Syndrome Grand mal convulsion Serotonin syndrome Speech disorder |
+| Nervous system disorders | Akathisia Extrapyramidal disorder Tremor Headache Sedation Somnolence Dizziness | Tardive dyskinesia Dystonia Restless legs syndrome | Neuroleptic Malignant Syndrome Grand mal convulsion Serotonin syndrome Speech disorder |
 | Eye disorders | Vision blurred | Diplopia Photophobia | Oculogyric crisis |
 | Cardiac disorders |  | Tachycardia | Sudden death unexplained Torsades de pointes Ventricular arrhythmia Cardiac arrest Bradycardia |
 | Vascular disorders |  | Orthostatic hypotension | Venous thromboembolism (including pulmonary embolism and deep vein thrombosis) Hypertension Syncope |
 | Respiratory, thoracic and mediastinal disorders |  | Hiccups | Aspiration pneumonia Laryngospasm Oropharyngeal spasm |
 | Gastrointestinal disorders | Constipation Dyspepsia Nausea Salivary hypersecretion Vomiting |  | Pancreatitis Dysphagia Diarrhoea Abdominal discomfort Stomach discomfort |
 | Hepatobiliary disorders |  |  | Hepatic failure Hepatitis Jaundice |
-| Skin and subcutaneous tissue disorders |  |  | Rash Photosensitivity reaction Alopecia Hyperhidrosis |
+| Skin and subcutaneous tissue disorders |  |  | Rash Photosensitivity reaction Alopecia Hyperhidrosis Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) |
 | Musculoskeletal and connective tissue disorders |  |  | Rhabdomyolysis Myalgia Stiffness |
 | Renal and urinary disorders |  |  | Urinary incontinence Urinary retention |
 | Pregnancy, puerperium and perinatal conditions |  |  | Drug withdrawal syndrome neonatal (see section 4.6) |
@@ -129,38 +129,7 @@ Common Uncommon Not known
 
 [ABILIFY 1 mg/mL oral solution]
 
-|  | Common | Uncommon | Not known |
-| --- | --- | --- | --- |
-| Blood and lymphatic system disorders |  |  | Leukopenia Neutropenia Thrombocytopenia |
-| Immune system disorders |  |  | Allergic reaction (e.g. anaphylactic reaction, angioedema including swollen tongue, tongue oedema, face oedema, pruritus allergic, or urticaria) |
-| Endocrine disorders |  | Hyperprolactinaemia | Diabetic hyperosmolar coma Diabetic ketoacidosis |
-| Metabolism and nutrition disorders | Diabetes mellitus | Hyperglycaemia | Hyponatremia Anorexia |
-| Psychiatric disorders | Insomnia Anxiety Restlessness | Depression Hypersexuality | Suicide attempt, suicidal ideation and completed suicide (see section 4.4) Pathological gambling Impulse-control disorder Binge eating Compulsive shopping Poriomania Aggression Agitation Nervousness |
-| Nervous system disorders | Akathisia Extrapyramidal disorder Tremor Headache Sedation Somnolence Dizziness | Tardive dyskinesia Dystonia | Neuroleptic Malignant Syndrome Grand mal convulsion Serotonin syndrome Speech disorder |
-| Eye disorders | Vision blurred | Diplopia Photophobia | Oculogyric crisis |
-| Cardiac disorders |  | Tachycardia | Sudden death unexplained Torsades de pointes Ventricular arrhythmia Cardiac arrest Bradycardia |
-| Vascular disorders |  | Orthostatic hypotension | Venous thromboembolism (including pulmonary embolism and deep vein thrombosis) Hypertension Syncope |
-| Respiratory, thoracic and mediastinal disorders |  | Hiccups | Aspiration pneumonia Laryngospasm Oropharyngeal spasm |
-| Gastrointestinal disorders | Constipation Dyspepsia Nausea Salivary hypersecretion Vomiting |  | Pancreatitis Dysphagia Diarrhoea Abdominal discomfort Stomach discomfort |
-| Hepatobiliary disorders |  |  | Hepatic failure Hepatitis Jaundice |
-| Skin and subcutaneous tissue disorders |  |  | Rash Photosensitivity reaction Alopecia Hyperhidrosis |
-| Musculoskeletal and connective tissue disorders |  |  | Rhabdomyolysis Myalgia Stiffness |
-| Renal and urinary disorders |  |  | Urinary incontinence Urinary retention |
-| Pregnancy, puerperium and perinatal conditions |  |  | Drug withdrawal syndrome neonatal (see section 4.6) |
-| Reproductive system and breast disorders |  |  | Priapism |
-| General disorders and administration site conditions | Fatigue |  | Temperature regulation disorder (e.g. hypothermia, pyrexia) Chest pain Peripheral oedema |
-| Investigations |  |  | Weight decreased Weight gain |
-
-Alanine Aminotransferase
-increased
-Aspartate Aminotransferase
-Gamma-glutamyltransferase
-Alkaline phosphatase increased
-QT prolonged
-Blood glucose increased
-Glycosylated haemoglobin
-Blood glucose fluctuation
-Creatine phosphokinase increased
+(all sentences already above)
 
 [ABILIFY 7.5 mg/mL solution for injection]
 
@@ -173,14 +142,14 @@ The most commonly reported adverse reactions in placebo-controlled trials were n
 | Endocrine disorders |  | Hyperprolactinaemia | Diabetic hyperosmolar coma Diabetic ketoacidosis |
 | Metabolism and nutrition disorders | Diabetes mellitus | Hyperglycaemia | Hyponatremia Anorexia |
 | Psychiatric disorders | Insomnia Anxiety Restlessness | Depression Hypersexuality | Suicide attempt, suicidal ideation and completed suicide (see section 4.4) Pathological gambling Impulse-control disorder Binge eating Compulsive shopping Poriomania Aggression Agitation Nervousness |
-| Nervous system disorders | Akathisia Extrapyramidal disorder Tremor Headache Sedation Somnolence Dizziness | Tardive dyskinesia Dystonia | Neuroleptic Malignant Syndrome Grand mal convulsion Serotonin syndrome Speech disorder |
+| Nervous system disorders | Akathisia Extrapyramidal disorder Tremor Headache Sedation Somnolence Dizziness | Tardive dyskinesia Dystonia Restless legs syndrome | Neuroleptic Malignant Syndrome Grand mal convulsion Serotonin syndrome Speech disorder |
 | Eye disorders | Vision blurred | Diplopia Photophobia | Oculogyric crisis |
 | Cardiac disorders |  | Tachycardia | Sudden death unexplained Torsades de pointes Ventricular arrhythmia Cardiac arrest Bradycardia |
 | Vascular disorders |  | Orthostatic hypotension | Venous thromboembolism (including pulmonary embolism and deep vein thrombosis) Hypertension Syncope |
 | Respiratory, thoracic and mediastinal disorders |  | Hiccups | Aspiration pneumonia Laryngospasm Oropharyngeal spasm |
 | Gastrointestinal disorders | Constipation Dyspepsia Nausea Salivary hypersecretion Vomiting | Mouth dry | Pancreatitis Dysphagia Diarrhoea Abdominal discomfort Stomach discomfort |
 | Hepatobiliary disorders |  |  | Hepatic failure Hepatitis Jaundice |
-| Skin and subcutaneous tissue disorders |  |  | Rash Photosensitivity reaction Alopecia Hyperhidrosis |
+| Skin and subcutaneous tissue disorders |  |  | Rash Photosensitivity reaction Alopecia Hyperhidrosis Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) |
 | Musculoskeletal and connective tissue disorders |  |  | Rhabdomyolysis Myalgia Stiffness |
 | Renal and urinary disorders |  |  | Urinary incontinence Urinary retention |
 | Pregnancy, puerperium and perinatal conditions |  |  | Drug withdrawal syndrome neonatal (see section 4.6) |
