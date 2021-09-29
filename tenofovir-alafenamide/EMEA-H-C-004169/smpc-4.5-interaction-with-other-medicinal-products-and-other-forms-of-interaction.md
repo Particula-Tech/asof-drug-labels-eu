@@ -21,10 +21,10 @@ Effect of tenofovir alafenamide on other medicinal products
 
 Tenofovir alafenamide is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, or CYP2D6 in vitro.
 It is not an inhibitor or inducer of CYP3A in vivo.
-
 Tenofovir alafenamide is not an inhibitor of human uridine diphosphate glucuronosyltransferase (UGT) 1A1 in vitro.
 It is not known whether tenofovir alafenamide is an inhibitor of other
 UGT enzymes.
+
 Drug interaction information for Vemlidy with potential concomitant medicinal products is summarised in Table 1 below (increase is indicated as “↑”, decrease as “↓”, no change as “↔”; twice daily as “b.i.d.”, single dose as “s.d.”, once daily as “q.d.”; and intravenously as “IV”).
 The drug interactions described are based on studies conducted with tenofovir alafenamide, or are potential drug interactions that may occur with Vemlidy.
 
@@ -50,6 +50,9 @@ Table 1: Interactions between Vemlidy and other medicinal products
 | Sofosbuvir (400 mg orally, q.d.) | Interaction not studied. Expected: ↔ Sofosbuvir ↔ GS-331007 | No dose adjustment of Vemlidy or sofosbuvir is required. |
 | Ledipasvir/sofosbuvir (90 mg/400 mg orally, q.d.) Tenofovir alafenamidef (25 mg orally, q.d.) | Ledipasvir ↔ Cmax 1.01 (0.97, 1.05) ↔ AUC 1.02 (0.97, 1.06) ↔ Cmin 1.02 (0.98, 1.07) Sofosbuvir ↔ Cmax 0.96 (0.89, 1.04) ↔ AUC 1.05 (1.01, 1.09) GS-331007g ↔ Cmax 1.08 (1.05, 1.11) ↔ AUC 1.08 (1.06, 1.10) ↔ Cmin 1.10 (1.07, 1.12) Tenofovir alafenamide ↔ Cmax 1.03 (0.94, 1.14) ↔ AUC 1.32 (1.25, 1.40) Tenofovir ↑ Cmax 1.62 (1.56, 1.68) ↑ AUC 1.75 (1.69, 1.81) ↑ Cmin 1.85 (1.78, 1.92) | No dose adjustment of Vemlidy or ledipasvir/sofosbuvir is required. |
 | Sofosbuvir/velpatasvir (400 mg/100 mg orally, q.d.) | Interaction not studied. Expected: ↔ Sofosbuvir ↔ GS-331007 ↔ Velpatasvir ↑ Tenofovir alafenamide | No dose adjustment of Vemlidy or sofosbuvir/velpatasvir is required. |
+
+| Medicinal product by therapeutic areas | Effects on drug levels.a,b Mean ratio (90% confidence interval) for AUC, Cmax, Cmin | Recommendation concerning co-administration with Vemlidy |
+| --- | --- | --- |
 | Sofosbuvir/velpatasvir/ voxilaprevir (400 mg/100 mg/ 100 mg + 100 mgi orally, q.d.) Tenofovir alafenamidef (25 mg orally, q.d.) | Sofosbuvir ↔ Cmax 0.95 (0.86, 1.05) ↔ AUC 1.01 (0.97, 1.06) GS-331007g ↔ Cmax 1.02 (0.98, 1.06) ↔ AUC 1.04 (1.01, 1.06) Velpatasvir ↔ Cmax 1.05 (0.96, 1.16) ↔ AUC 1.01 (0.94, 1.07) ↔ Cmin 1.01 (0.95, 1.09) Voxilaprevir ↔ Cmax 0.96 (0.84, 1.11) ↔ AUC 0.94 (0.84, 1.05) ↔ Cmin 1.02 (0.92, 1.12) Tenofovir alafenamide ↑ Cmax 1.32 (1.17, 1.48) ↑ AUC 1.52 (1.43, 1.61) | No dose adjustment of Vemlidy or sofosbuvir/velpatasvir/voxilaprevir is required. |
 | HIV ANTIRETROVIRAL AGENTS – PROTEASE INHIBITORS |  |  |
 | Atazanavir/cobicistat (300 mg/150 mg orally, q.d.) Tenofovir alafenamidec (10 mg orally, q.d.) | Tenofovir alafenamide ↑ Cmax 1.80 (1.48, 2.18) ↑ AUC 1.75 (1.55, 1.98) Tenofovir ↑ Cmax 3.16 (3.00, 3.33) ↑ AUC 3.47 (3.29, 3.67) ↑ Cmin 3.73 (3.54, 3.93) Atazanavir ↔ Cmax 0.98 (0.94, 1.02) ↔ AUC 1.06 (1.01, 1.11) ↔ Cmin 1.18 (1.06, 1.31) Cobicistat ↔ Cmax 0.96 (0.92, 1.00) ↔ AUC 1.05 (1.00, 1.09) ↑ Cmin 1.35 (1.21, 1.51) | Co-administration is not recommended. |

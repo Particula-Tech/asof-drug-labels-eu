@@ -7,7 +7,7 @@ Appropriate precautions must continue to be used.
 
 Patients with decompensated liver disease
 
-There are no data on the safety and efficacy of Vemlidy in HBV infected patients with decompensated liver disease and who have a Child Pugh Turcotte (CPT) score > 9 (i.e. class C). These patients may be at higher risk of experiencing serious hepatic or renal adverse reactions.
+There are limited data on the safety and efficacy of Vemlidy in HBV infected patients with decompensated liver disease and who have a Child Pugh Turcotte (CPT) score > 9 (i.e. class C). These patients may be at higher risk of experiencing serious hepatic or renal adverse reactions.
 Therefore, hepatobiliary and renal parameters should be closely monitored in this patient population (see section 5.2).
 
 Exacerbation of hepatitis
@@ -28,9 +28,8 @@ Liver flares are especially serious, and sometimes fatal in patients with decomp
 Renal impairment
 
 Patients with creatinine clearance < 30 mL/min
-The use of Vemlidy once daily in patients with CrCl ≥ 15 mL/min but < 30 mL/min and in patients with CrCl < 15 mL/min who are receiving haemodialysis is based on very limited pharmacokinetic data and on modelling and simulation.
-There are no safety data on the use of Vemlidy to treat
-HBV infected patients with CrCl < 30 mL/min.
+The use of Vemlidy once daily in patients with CrCl ≥ 15 mL/min and < 30 mL/min is based on Week 24 interim data on the efficacy and safety of switching from another antiviral regimen to tenofovir alafenamide in an ongoing open-label clinical study of virologically suppressed chronic HBV-infected patients (see sections 4.8 and 5.1).
+There are very limited data on the safety and efficacy of Vemlidy in HBV-infected patients with CrCl < 15 mL/min on chronic haemodialysis (see sections 4.8, 5.1 and 5.2).
 
 The use of Vemlidy is not recommended in patients with CrCl < 15 mL/min who are not receiving haemodialysis (see section 4.2).
 
@@ -45,7 +44,6 @@ Patients co-infected with HBV and hepatitis C or D virus
 
 There are no data on the safety and efficacy of Vemlidy in patients co-infected with hepatitis C or D virus.
 Co-administration guidance for the treatment of hepatitis C should be followed (see section 4.5).
-
 Hepatitis B and HIV co-infection
 
 HIV antibody testing should be offered to all HBV infected patients whose HIV-1 infection status is unknown before initiating therapy with Vemlidy.

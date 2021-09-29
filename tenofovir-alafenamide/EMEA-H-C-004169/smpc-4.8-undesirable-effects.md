@@ -7,15 +7,14 @@ The most frequently reported adverse reactions were headache (12%), nausea (6%),
 After Week 96, patients either remained on their original blinded treatment or received open-label tenofovir alafenamide.
 Changes in lipid laboratory tests were observed in Study 108 and Study 110.
 No additional adverse reactions to tenofovir alafenamide were identified from Week 96 through Week 144 in the double-blind phase and in the subset of subjects receiving open-label tenofovir alafenamide treatment (see section 5.1).
-
-In an ongoing double-blind, randomized, active-controlled study (GS-US-320-4018; “Study 4018”) in virologically suppressed subjects who switched from tenofovir disoproxil to 25 mg tenofovir alafenamide (N=243), changes in lipid laboratory tests were observed.
-No additional adverse reactions to tenofovir alafenamide were identified through Week 48.
+In a double-blind, randomized, active-controlled study (GS-US-320-4018; “Study 4018”) in virologically suppressed subjects who switched from tenofovir disoproxil to 25 mg tenofovir alafenamide (N=243), changes in lipid laboratory tests were observed.
 
 Tabulated summary of adverse reactions
 
 The following adverse drug reactions have been identified with tenofovir alafenamide in patients with chronic hepatitis B (Table 2).
 The adverse reactions are listed below by body system organ class and frequency based on the Week 96 analysis.
 Frequencies are defined as follows: very common (≥ 1/10), common (≥ 1/100 to < 1/10) or uncommon (≥ 1/1,000 to < 1/100).
+
 Table 2: Adverse drug reactions identified with tenofovir alafenamide
 
 | System organ class |  |
@@ -48,11 +47,17 @@ In the open-label phase of Studies 108 and 110, where patients switched to open-
 In the open label phase, median (Q1, Q3) change from Week 96 to Week 144 in total cholesterol to HDL ratio was 0.0 (-0.2, 0.4) in patients who remained on tenofovir alafenamide and 0.2 (-0.2, 0.6) in patients who switched from tenofovir disoproxil to tenofovir alafenamide at Week 96.
 
 In Study 4018, median changes in fasting lipid parameters from baseline to Week 48 were observed in both treatment groups.
-In the group that switched from tenofovir disoproxil to tenofovir alafenamide, increases in median fasting total cholesterol, LDL, HDL, and triglycerides were observed, while the group continuing treatment with tenofovir disoproxil demonstrated reductions in median fasting total cholesterol, HDL, and triglycerides, and a minimal median increase in LDL (p < 0.001 for the difference between treatment groups in all parameters).
-Median (Q1, Q3) change from baseline at Week 48 in total cholesterol to HDL ratio was 0.2 (-0.1, 0.5) in the tenofovir alafenamide group and 0.0 (-0.3, 0.3) in the tenofovir disoproxil group (p < 0.001 for the difference between treatment groups).
+In the group that switched from tenofovir disoproxil to tenofovir alafenamide, increases in median fasting total cholesterol, LDL, HDL, and triglycerides were observed, while the group continuing treatment with tenofovir disoproxil demonstrated reductions in median fasting total cholesterol, HDL, and triglycerides, and a minimal median increase in LDL (p < 0.001 for the difference between treatment groups in all parameters, Table 9 section 5.1).
+
+In the open-label phase of Study 4018, where patients switched to tenofovir alafenamide at Week 48, lipid parameters at Week 96 in patients who remained on tenofovir alafenamide were comparable to those at Week 48, whereas at Week 96 median increases in fasting total cholesterol, direct LDL, HDL, and triglycerides were observed in patients who switched from tenofovir disoproxil to tenofovir alafenamide at Week 48 (Table 9 section 5.1).
 
 Metabolic parameters
 Body weight and levels of blood lipids and glucose may increase during therapy.
+
+Other Special Populations
+
+In an ongoing open-label Phase 2 study (GS-US-320-4035; “Study 4035”) in virologically suppressed patients with moderate to severe renal impairment (eGFR by Cockcroft-Gault method 15 to 59 mL/min; Part A, Cohort 1, N = 78), end stage renal disease (ESRD) (eGFR < 15 mL/min) on haemodialysis (Part A, Cohort 2, N = 15), and/or moderate to severe hepatic impairment (Child-Pugh Class B or C at screening or by history; Part B, N = 31) who switched from another antiviral regimen to tenofovir alafenamide, no additional adverse reactions to tenofovir alafenamide were identified through Week 24.
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
