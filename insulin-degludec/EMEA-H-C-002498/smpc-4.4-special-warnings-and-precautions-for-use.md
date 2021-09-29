@@ -26,6 +26,12 @@ In type 1 diabetes mellitus, untreated hyperglycaemic events eventually lead to 
 Transfer from other insulin medicinal products
 Transferring a patient to another type, brand or manufacturer of insulin must be done under medical supervision and may result in the need for a change in dosage.
 
+Skin and subcutaneous tissue disorders
+Patients must be instructed to perform continuous rotation of the injection site to reduce the risk of developing lipodystrophy and cutaneous amyloidosis.
+There is a potential risk of delayed insulin absorption and worsened glycaemic control following insulin injections at sites with these reactions.
+A sudden change in the injection site to an unaffected area has been reported to result in hypoglycaemia.
+Blood glucose monitoring is recommended after the change in the injection site from an affected to an unaffected area, and dose adjustment of antidiabetic medications may be considered.
+
 Combination of pioglitazone and insulin medicinal products
 Cases of cardiac failure have been reported when pioglitazone was used in combination with insulin, especially in patients with risk factors for development of cardiac failure.
 This should be kept in mind if treatment with the combination of pioglitazone and Tresiba is considered.
@@ -41,6 +47,7 @@ Patients must be instructed to always check the insulin label before each inject
 Patients must visually verify the dialled units on the dose counter of the pen.
 Therefore, the requirement for patients to self-inject is that they can read the dose counter on the pen.
 Patients who are blind or have poor vision must be instructed to always get help/assistance from another person who has good vision and is trained in using the insulin device.
+
 To avoid dosing errors and potential overdose, patients and healthcare professionals should never use a syringe to draw the medicinal product from the cartridge in the pre-filled pen.
 In the event of blocked needles, patients must follow the instructions described in the instructions for use accompanying the package leaflet (see section 6.6).
 
@@ -50,3 +57,6 @@ In rare cases, the presence of such insulin antibodies may necessitate adjustmen
 
 Sodium
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e. it is essentially ‘sodium-free’.
+
+Traceability
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.

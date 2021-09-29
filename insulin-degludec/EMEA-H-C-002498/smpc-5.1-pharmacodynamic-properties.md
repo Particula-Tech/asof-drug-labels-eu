@@ -3,7 +3,6 @@
 Pharmacotherapeutic group: Drugs used in diabetes.
 Insulins and analogues for injection, long-acting.
 ATC code: A10AE06.
-
 Mechanism of action
 Insulin degludec binds specifically to the human insulin receptor and results in the same pharmacological effects as human insulin.
 
@@ -12,6 +11,7 @@ The blood glucose-lowering effect of insulin is due to the facilitated uptake of
 Pharmacodynamic effects
 Tresiba is a basal insulin that forms soluble multi-hexamers upon subcutaneous injection, resulting in a depot from which insulin degludec is continuously and slowly absorbed into the circulation leading to a flat and stable glucose-lowering effect of Tresiba (see figure 1).
 During a period of 24 hours with once-daily treatment, the glucose-lowering effect of Tresiba, in contrast to insulin glargine, was evenly distributed between the first and second 12 hours (AUCGIR,0-12h,SS/AUCGIR,total,SS = 0.5).
+
 Time since injection (hours)
 Treatment IDeg 0.6 units/kg
 Figure 1 Glucose infusion rate profile, smoothed, steady state - Mean profile 0-24 hours - IDeg 100 units/mL 0.6 units/kg - Trial 1987
@@ -20,18 +20,7 @@ The duration of action of Tresiba is beyond 42 hours within the therapeutic dose
 
 Steady state will occur after 2–3 days of dose administration.
 
-The insulin degludec glucose-lowering action at steady state shows four times lower day-to-day variability in terms of Coefficients of Variation (CV) for the glucose-lowering effect during 0-24 hours (AUCGIR,τ,SS) and 2–24 hours (AUCGIR2-24h,SS) as compared to insulin glargine, see Table 1.
-
-Table 1 Day-to-day variability within-patients in glucose-lowering-effect of Tresiba and insulin glargine at steady state in patients with type 1 diabetes mellitus
-
-|  | Insulin degludec (N26) (CV%) | Insulin glargine (100 units/mL) (N27) (CV%) |
-| --- | --- | --- |
-| Day-to-day variability in glucose-lowering effect during one dosing interval (AUCGIR,τ,SS) | 20 | 82 |
-| Day-to-day variability in glucose-lowering effect from 2-24 hours (AUCGIR2-24h,SS) | 22 | 92 |
-
-CV: within-patient coefficient of variation in %
-SS: Steady State
-AUCGIR,2-24h: metabolic effect in last 22 hours of dosing interval (i.e., not influenced by i.v. insulin during the clamp run-in period).
+The day-to-day variability, expressed as the coefficient of variation, in glucose-lowering effect during one dosing interval of 0-24 hours at steady state (AUCGIR,τ,SS) is 20% for insulin degludec, which is significantly lower than for insulin glargine (100 units/mL).
 
 The total glucose-lowering effect of Tresiba increases linearly with increasing doses.
 
@@ -42,32 +31,32 @@ There is no clinically relevant difference in the pharmacodynamics of this medic
 Clinical efficacy and safety
 11 multinational clinical trials of 26 or 52 weeks’ duration were conducted as controlled, open-label, randomised, parallel, treat-to-target trials exposing 4,275 patients to Tresiba (1,102 in type 1 diabetes mellitus and 3,173 in type 2 diabetes mellitus).
 
-In the open-label trials the effect of Tresiba was tested in patients with type 1 diabetes mellitus (Table 3), in insulin naïve patients (insulin initiation in type 2 diabetes mellitus, Table 4) and in previous insulin users (insulin intensification in type 2 diabetes mellitus, Table 5) with fixed as well as flexible dosing time (Table 6), and the reduction in HbA1c from baseline to end of trial was confirmed to be non-inferior in all trials against all comparators (insulin detemir and insulin glargine (100 units/mL)).
-While improvements in HbA1c were non-inferior compared to other insulin products, against sitagliptin Tresiba was statistically significantly superior in reducing HbA1c (Table 5).
+In the open-label trials the effect of Tresiba was tested in patients with type 1 diabetes mellitus (Table 2), in insulin naïve patients (insulin initiation in type 2 diabetes mellitus, Table 3) and in previous insulin users (insulin intensification in type 2 diabetes mellitus, Table 4) with fixed as well as flexible dosing time (Table 5), and the reduction in HbA1c from baseline to end of trial was confirmed to be non-inferior in all trials against all comparators (insulin detemir and insulin glargine (100 units/mL)).
+While improvements in HbA1c were non-inferior compared to other insulin products, against sitagliptin Tresiba was statistically significantly superior in reducing HbA1c (Table 4).
 
-In a prospectively planned meta-analysis across seven open-label treat-to-target confirmatory trials in patients with type 1 and type 2 diabetes mellitus, Tresiba was superior in terms of a lower number of treatment-emergent confirmed hypoglycaemic episodes (driven by a benefit in type 2 diabetes mellitus, see Table 2) and nocturnal confirmed hypoglycaemic episodes compared to insulin glargine (100 units/ml) (administered according to label).
+In a prospectively planned meta-analysis across seven open-label treat-to-target confirmatory trials in patients with type 1 and type 2 diabetes mellitus, Tresiba was superior in terms of a lower number of treatment-emergent confirmed hypoglycaemic episodes (driven by a benefit in type 2 diabetes mellitus, see Table 1) and nocturnal confirmed hypoglycaemic episodes compared to insulin glargine (100 units/ml) (administered according to label).
 The reduction in hypoglycaemia was achieved at a lower average FPG level with Tresiba than with insulin glargine.
 
-Table 2 Hypoglycaemia meta-analysis outcomes
+Table 1 Hypoglycaemia meta-analysis outcomes
 
-|  | Confirmed hypoglycaemiaa |  |  |
-| --- | --- | --- | --- |
-| Estimated risk ratio (Insulin degludec/Insulin glargine) |  | Total | Nocturnal |
-| Type 1 + Type 2 diabetes mellitus (pooled) |  | 0.91* | 0.74* |
-| Maintenance period b |  | 0.84* | 0.68* |
-| Geriatric patients ≥65 years |  | 0.82 | 0.65* |
-| Type 1 diabetes mellitus |  | 1.10 | 0.83 |
-| Maintenance period b |  | 1.02 | 0.75* |
-| Type 2 diabetes mellitus |  | 0.83* | 0.68* |
-| Maintenance period b |  | 0.75* | 0.62* |
-| Basal only therapy in previously insulin-naïve |  | 0.83* | 0.64* |
+|  | Confirmed hypoglycaemiaa |  |
+| --- | --- | --- |
+| Estimated risk ratio (Insulin degludec/Insulin glargine) | Total | Nocturnal |
+| Type 1 + Type 2 diabetes mellitus (pooled) | 0.91* | 0.74* |
+| Maintenance period b | 0.84* | 0.68* |
+| Geriatric patients ≥65 years | 0.82 | 0.65* |
+| Type 1 diabetes mellitus | 1.10 | 0.83 |
+| Maintenance period b | 1.02 | 0.75* |
+| Type 2 diabetes mellitus | 0.83* | 0.68* |
+| Maintenance period b | 0.75* | 0.62* |
+| Basal only therapy in previously insulin-naïve | 0.83* | 0.64* |
 
 *Statistically significant a Confirmed hypoglycaemia was defined as episodes confirmed by plasma glucose <3.1 mmol/L or by the patient needing third party assistance.
 Nocturnal confirmed hypoglycaemia was defined as episodes between midnight and 6 a.m. b Episodes from week 16.
 
 There is no clinically relevant development of insulin antibodies after long-term treatment with Tresiba.
 
-Table 3 Results from open-label clinical trials in type 1 diabetes mellitus
+Table 2 Results from open-label clinical trials in type 1 diabetes mellitus
 
 |  | 52 weeks of treatment |  | 26 weeks of treatment |  |
 | --- | --- | --- | --- | --- |
@@ -91,8 +80,7 @@ Table 3 Results from open-label clinical trials in type 1 diabetes mellitus
 1 In a once-daily regimen + insulin aspart to cover mealtime insulin requirements
 2 Confirmed hypoglycaemia was defined as episodes confirmed by plasma glucose <3.1 mmol/L or by the patient needing third party assistance.
 Nocturnal confirmed hypoglycaemia was defined as episodes between midnight and 6 a.m.
-
-Table 4 Results from open-label clinical trials in insulin naïve type 2 diabetes mellitus (insulin initiation)
+Table 3 Results from open-label clinical trials in insulin naïve type 2 diabetes mellitus (insulin initiation)
 
 |  | 52 weeks of treatment |  | 26 weeks of treatment |  |
 | --- | --- | --- | --- | --- |
@@ -117,7 +105,7 @@ Table 4 Results from open-label clinical trials in insulin naïve type 2 diabete
 2 Confirmed hypoglycaemia was defined as episodes confirmed by plasma glucose <3.1 mmol/L or by the patient needing third party assistance.
 Nocturnal confirmed hypoglycaemia was defined as episodes between midnight and 6 a.m.
 
-Table 5 Results from open-label clinical trials in type 2 diabetes mellitus: left – prior basal insulin users, right – insulin naïve
+Table 4 Results from open-label clinical trials in type 2 diabetes mellitus: left – prior basal insulin users, right – insulin naïve
 
 |  | 52 weeks of treatment |  | 26 weeks of treatment |  |
 | --- | --- | --- | --- | --- |
@@ -143,16 +131,16 @@ Table 5 Results from open-label clinical trials in type 2 diabetes mellitus: lef
 3 Confirmed hypoglycaemia was defined as episodes confirmed by plasma glucose <3.1 mmol/L or by the patient needing third party assistance.
 Nocturnal confirmed hypoglycaemia was defined as episodes between midnight and 6 a.m.
 
-Table 6 Results from an open-label clinical trial with flexible dosing of Tresiba in type 2 diabetes mellitus
+Table 5 Results from an open-label clinical trial with flexible dosing of Tresiba in type 2 diabetes mellitus
 
 |  | 26 weeks of treatment |  |  |
 | --- | --- | --- | --- |
 |  | Tresiba1 | Tresiba Flex2 | Insulin glargine (100 units/mL)3 |
 | N | 228 | 229 | 230 |
-| HbA1c (%) |  |  |  |
 
-| End of trial | 7.3 | 7.2 |  | 7.1 |
+| HbA1c (%) |  |  |  |  |
 | --- | --- | --- | --- | --- |
+| End of trial | 7.3 | 7.2 |  | 7.1 |
 | Mean change | -1.07 | -1.28 |  | -1.26 |
 |  | Difference: -0.13 [-0.29; 0.03]5 |  | Difference: 0.04 [-0.12; 0.20] |  |
 | FPG (mmol/L) |  |  |  |  |
@@ -180,9 +168,9 @@ The rate of hypoglycaemic episodes (per patient year of exposure) was statistica
 
 Furthermore, two 64-week controlled, double-blind, randomised, cross-over, treat-to-target trials were conducted in patients with at least one risk factor for hypoglycaemia and with type 1 diabetes mellitus (501 patients) or type 2 diabetes mellitus (721 patients).
 Patients were randomised to either Tresiba or insulin glargine (100 units/mL) followed by cross-over.
-The trials evaluated the rate of hypoglycaemia upon treatment with Tresiba compared to insulin glargine (100 units/mL) (see Table 7).
+The trials evaluated the rate of hypoglycaemia upon treatment with Tresiba compared to insulin glargine (100 units/mL) (see Table 6).
 
-Table 7 Results from the double-blind, cross-over clinical trials in type 1 and type 2 diabetes mellitus
+Table 6 Results from the double-blind, cross-over clinical trials in type 1 and type 2 diabetes mellitus
 
 |  | Type 1 diabetes mellitus |  | Type 2 diabetes mellitus |  |
 | --- | --- | --- | --- | --- |
@@ -218,19 +206,20 @@ The trial was designed as a non-inferiority trial to exclude a pre-specified ris
 The cardiovascular safety of Tresiba as compared to insulin glargine was confirmed (HR 0.91 [0.78; 1.06]) (Figure 2).
 Results from subgroup analyses (e.g. sex, diabetes duration, CV risk group and previous insulin regimen) was aligned with the primary analysis.
 
-Hazard Ratio Tresiba Insulin glargine
+Hazard Ratio Insulin degludec Insulin glargine
+
 (95% CI) N (%) N (%)
 Primary analysis (3-point MACE) 0.91 (0.78-1.06) 325 (8.51) 356 (9.32)
 CV Death 0.96 (0.76-1.21) 136 (3.56) 142 (3.72)
 Non-fatal Stroke 0.90 (0.65-1.23) 71 (1.86) 79 (2.07)
 Non-fatal MI 0.85 (0.68-1.06) 144 (3.77) 169 (4.43)
-All cause death 0.91 (0.76-1.11) 202 (5.29) 221 (5.79)
+All cause death 0.91 (0.75-1.11) 202 (5.29) 221 (5.79)
 
 0.7 0.9 1 1.1 1.3
 
 Favours Favours
-Tresiba insulin glargine
 
+insulin degludec insulin glargine
 N: Number of subjects with a first EAC confirmed event during trial. %: Percentage of subjects with a first EAC confirmed event relative to the number of randomised subjects.
 EAC: Event adjudication committee.
 CV: Cardiovascular.
@@ -240,9 +229,9 @@ Figure 2 Forest plot of analysis of the composite 3-point MACE and individual ca
 
 At baseline, HbA1c was 8.4% in both treatment groups and after 2 years HbA1c was 7.5% both with Tresiba and insulin glargine.
 Tresiba was superior compared to insulin glargine in terms of a lower rate of severe hypoglycaemic events and a lower proportion of subjects experiencing severe hypoglycaemia.
-The rate of nocturnal severe hypoglycaemia was significantly lower for Tresiba compared to insulin glargine (Table 8).
+The rate of nocturnal severe hypoglycaemia was significantly lower for Tresiba compared to insulin glargine (Table 7).
 
-Table 8 Results from DEVOTE
+Table 7 Results from DEVOTE
 
 |  | Tresiba1 | Insulin glargine (100 units/mL)1 |
 | --- | --- | --- |
@@ -254,8 +243,7 @@ Table 8 Results from DEVOTE
 |  | Rate ratio: 0.47 [0.31; 0.73] |  |
 | Proportions of patients with hypoglycaemia (percent of patients) |  |  |
 | Severe | 4.9 | 6.6 |
-
-Odds ratio: 0.73 [0.60; 0.89]
+|  | Odds ratio: 0.73 [0.60; 0.89] |  |
 
 1 In addition to standard of care for diabetes and cardiovascular disease
 2 Nocturnal severe hypoglycaemia was defined as episodes between midnight and 6 a.m.

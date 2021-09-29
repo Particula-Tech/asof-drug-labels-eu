@@ -85,7 +85,7 @@ This medicinal product must not be used in insulin infusion pumps.
 Tresiba must not be drawn from the cartridge of the pre-filled pen into a syringe (see section 4.4).
 
 Tresiba is administered subcutaneously by injection in the thigh, the upper arm or the abdominal wall.
-Injection sites are always to be rotated within the same region in order to reduce the risk of lipodystrophy.
+Injection sites should always be rotated within the same region in order to reduce the risk of lipodystrophy and cutaneous amyloidosis (see sections 4.4 and 4.8).
 
 Patients should be instructed to always use a new needle.
 The re-use of insulin pen needles increases the risk of blocked needles, which may cause under- or overdosing.

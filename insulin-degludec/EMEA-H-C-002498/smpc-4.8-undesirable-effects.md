@@ -12,8 +12,11 @@ Frequency categories are defined according to the following convention: Very com
 | Immune system disorders | Rare | Hypersensitivity Urticaria |
 | Metabolism and nutrition disorders | Very common | Hypoglycaemia |
 | Skin and subcutaneous tissue disorders | Uncommon | Lipodystrophy |
+|  | Not known | Cutaneous amyloidosis† |
 | General disorders and administration site conditions | Common | Injection site reactions |
 |  | Uncommon | Peripheral oedema |
+
+† ADR from postmarketing sources.
 
 Description of selected adverse reactions
 Immune system disorders
@@ -28,13 +31,14 @@ Severe hypoglycaemia may lead to unconsciousness and/or convulsions and may resu
 The symptoms of hypoglycaemia usually occur suddenly.
 They may include cold sweats, cool pale skin, fatigue, nervousness or tremor, anxiousness, unusual tiredness or weakness, confusion, difficulty in concentration, drowsiness, excessive hunger, vision changes, headache, nausea and palpitation.
 
-Lipodystrophy
-Lipodystrophy (including lipohypertrophy, lipoatrophy) may occur at the injection site.
-Continuous rotation of the injection site within the particular injection area may help to reduce the risk of developing these reactions.
+Skin and subcutaneous tissue disorders
+Lipodystrophy (including lipohypertrophy, lipoatrophy) and cutaneous amyloidosis may occur at the injection site and delay local insulin absorption.
+Continuous rotation of the injection site within the given injection area may help to reduce or prevent these reactions (see section 4.4).
 
 Injection site reactions
 Injection site reactions (including injection site haematoma, pain, haemorrhage, erythema, nodules, swelling, discolouration, pruritus, warmth and injection site mass) occurred in patients treated with Tresiba.
 These reactions are usually mild and transitory and they normally disappear during continued treatment.
+
 Paediatric population
 Tresiba has been administered to children and adolescents up to 18 years of age for the investigation of pharmacokinetic properties (see section 5.2).
 Safety and efficacy have been demonstrated in a long term trial in children aged 1 to less than 18 years.

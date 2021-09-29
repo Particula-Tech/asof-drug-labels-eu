@@ -8,7 +8,6 @@ Animal reproduction studies have not revealed any difference between insulin deg
 In general, intensified blood glucose control and monitoring of pregnant women with diabetes are recommended throughout pregnancy and when contemplating pregnancy.
 Insulin requirements usually decrease in the first trimester and increase subsequently during the second and third trimesters.
 After delivery, insulin requirements usually return rapidly to pre-pregnancy values.
-
 Breast-feeding
 There is no clinical experience with Tresiba during breast-feeding.
 In rats, insulin degludec was secreted in milk; the concentration in milk was lower than in plasma.

@@ -7,7 +7,7 @@ Insulin degludec monomers gradually separate from the multi-hexamers thus result
 Steady-state serum concentration is reached after 2–3 days of daily Tresiba administration.
 
 During a period of 24 hours with once-daily treatment, the exposure of insulin degludec was evenly distributed between the first and second 12 hours.
-The ratio between AUCGIR,0-12h,SS and AUCGIR,τ,SS was 0.5.
+The ratio between AUCIDeg,0-12h,SS and AUCIDeg,τ,SS was 0.5.
 
 Distribution
 The affinity of insulin degludec to serum albumin corresponds to a plasma protein binding of >99% in human plasma.
@@ -18,7 +18,6 @@ Degradation of insulin degludec is similar to that of human insulin; all metabol
 Elimination
 The half-life after subcutaneous administration of Tresiba is determined by the rate of absorption from the subcutaneous tissue.
 The half-life of Tresiba is approximately 25 hours independent of dose.
-
 Linearity
 Dose proportionality in total exposure is observed after subcutaneous administration within the therapeutic dose range.
 In direct comparison, requirements for bioequivalence are met for Tresiba 100 units/mL and Tresiba 200 units/mL (based on AUCIDeg,τ,SS and Cmax,IDeg,SS).
