@@ -2,7 +2,7 @@
 
 Hypersensitivity
 There is no information regarding cross-sensitivity between posaconazole and other azole antifungal agents.
-Caution should be used when prescribing Noxafil to patients with hypersensitivity to other azoles.
+Caution should be used when prescribing posaconazole to patients with hypersensitivity to other azoles.
 
 Hepatic toxicity
 Hepatic reactions (e.g. mild to moderate elevations in ALT, AST, alkaline phosphatase, total bilirubin and/or clinical hepatitis) have been reported during treatment with posaconazole.
@@ -12,14 +12,13 @@ Posaconazole should be used with caution in patients with hepatic impairment due
 
 Monitoring of hepatic function
 Liver function tests should be evaluated at the start of and during the course of posaconazole therapy.
-Patients who develop abnormal liver function tests during Noxafil therapy must be routinely monitored for the development of more severe hepatic injury.
+Patients who develop abnormal liver function tests during posaconazole therapy must be routinely monitored for the development of more severe hepatic injury.
 Patient management should include laboratory evaluation of hepatic function (particularly liver function tests and bilirubin).
-Discontinuation of Noxafil should be considered if clinical signs and symptoms are consistent with development of liver disease.
-
+Discontinuation of posaconazole should be considered if clinical signs and symptoms are consistent with development of liver disease.
 QTc prolongation
 Some azoles have been associated with prolongation of the QTc interval.
-Noxafil must not be administered with medicinal products that are substrates for CYP3A4 and are known to prolong the QTc interval (see sections 4.3 and 4.5).
-Noxafil should be administered with caution to patients with pro-arrhythmic conditions such as:
+Posaconazole must not be administered with medicinal products that are substrates for CYP3A4 and are known to prolong the QTc interval (see sections 4.3 and 4.5).
+Posaconazole should be administered with caution to patients with pro-arrhythmic conditions such as:
 
 - Congenital or acquired QTc prolongation
 - Cardiomyopathy, especially in the presence of cardiac failure
@@ -29,14 +28,14 @@ Noxafil should be administered with caution to patients with pro-arrhythmic cond
 
 Electrolyte disturbances, especially those involving potassium, magnesium or calcium levels, should be monitored and corrected as necessary before and during posaconazole therapy.
 
-Drug Interactions
+Drug interactions
 Posaconazole is an inhibitor of CYP3A4 and should only be used under specific circumstances during treatment with other medicinal products that are metabolised by CYP3A4 (see section 4.5).
 
 Midazolam and other benzodiazepines
 Due to the risk of prolonged sedation and possible respiratory depression co-administration of posaconazole with any benzodiazepines metabolised by CYP3A4 (e.g. midazolam, triazolam, alprazolam) should only be considered if clearly necessary.
 Dose adjustment of benzodiazepines metabolised by CYP3A4 should be considered (see section 4.5).
 
-Vincristine Toxicity
+Vincristine toxicity
 Concomitant administration of azole antifungals, including posaconazole, with vincristine has been associated with neurotoxicity and other serious adverse reactions, including seizures, peripheral neuropathy, syndrome of inappropriate antidiuretic hormone secretion, and paralytic ileus.
 Reserve azole antifungals, including posaconazole, for patients receiving a vinca alkaloid, including vincristine, who have no alternative antifungal treatment options (see section 4.5).
 
@@ -49,7 +48,7 @@ Patients who have severe diarrhoea or vomiting should be monitored closely for b
 
 Glucose
 This medicinal product contains approximately 1.75 g of glucose per 5 mL of suspension.
-Patients with rare glucose-galactose malabsorption should not take this medicine.
+Patients with rare glucose-galactose malabsorption should not take this medicinal product.
 
 Sodium
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ‘sodium-free’.
@@ -71,7 +70,6 @@ Rifamycin antibacterials (rifampicin, rifabutin), certain anticonvulsants (pheny
 Plasma exposure
 Posaconazole plasma concentrations following administration of posaconazole tablets are generally higher than those obtained with posaconazole oral suspension.
 Posaconazole plasma concentrations following administration of posaconazole tablets may increase over time in some patients (see section 5.2).
-Safety data at higher exposure levels achieved with posaconazole tablets are at present limited.
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
 
@@ -88,11 +86,10 @@ Particular caution is advised in such cases where posaconazole is administered p
 
 Plasma concentrations following administration of posaconazole intravenous concentrate for solution for infusion are generally higher than those obtained with posaconazole oral suspension.
 Posaconazole plasma concentrations following administration of posaconazole may increase over time in some patients (see section 5.2).
-Safety data at higher exposure levels achieved with posaconazole concentrate for solution for infusion are at present limited.
 
 Thromboembolic events
 Thromboembolic events have been identified as a potential risk for posaconazole intravenous concentrate for solution for infusion but were not observed in the clinical studies.
-Thrombophlebitis was observed in clinical trials.
+Thrombophlebitis was observed in clinical studies.
 Caution is warranted on any sign or symptom of thromboembolic events (see sections 4.8 and 5.3).
 
 This medicinal product contains 462 mg (20 mmol) sodium per vial, equivalent to 23 % of the WHO recommended maximum daily intake of sodium.

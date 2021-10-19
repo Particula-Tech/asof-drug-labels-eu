@@ -31,7 +31,6 @@ Co-administration of posaconazole with proton pump inhibitors should be avoided 
 
 Food
 The absorption of posaconazole is significantly increased by food (see sections 4.2 and 5.2).
-
 Effects of posaconazole on other medicinal products
 Posaconazole is a potent inhibitor of CYP3A4.
 Co-administration of posaconazole with CYP3A4 substrates may result in large increases in exposure to CYP3A4 substrates as exemplified by the effects on tacrolimus, sirolimus, atazanavir and midazolam below.
@@ -99,6 +98,7 @@ In another study in healthy volunteers, repeat dose administration of posaconazo
 Both doses of posaconazole increased Cmax and AUC of oral midazolam (2 mg single oral dose) by 2.2 and 4.5-fold, respectively.
 In addition, posaconazole oral suspension (200 mg or 400 mg) prolonged the mean terminal half-life of midazolam from approximately 3-4 hours to 8-10 hours during co-administration.
 Due to the risk of prolonged sedation it is recommended that dose adjustments should be considered when posaconazole is administered concomitantly with any benzodiazepine that is metabolised by CYP3A4 (e.g. midazolam, triazolam, alprazolam) (see section 4.4).
+
 Calcium channel blockers metabolised through CYP3A4 (e.g. diltiazem, verapamil, nifedipine, nisoldipine)
 Frequent monitoring for adverse reactions and toxicity related to calcium channel blockers is recommended during co-administration with posaconazole.
 Dose adjustment of calcium channel blockers may be required.
@@ -121,7 +121,7 @@ Interaction studies have only been performed in adults.
 [Noxafil 100 mg gastro-resistant tablets]
 
 No clinically relevant effects were observed when posaconazole tablets are concomitantly used with antacids, H2-receptor antagonists and proton pump inhibitors.
-No dosage adjustment of posaconazole tablets is required when posaconazole tablets are concomitantly used with antacids, H2-receptor antagonists and proton pump inhibitors.
+No dose adjustment of posaconazole tablets is required when posaconazole tablets are concomitantly used with antacids, H2-receptor antagonists and proton pump inhibitors.
 
 The effect of co-administration with posaconazole on plasma levels of CYP3A4 substrates may also be variable within a patient.
 

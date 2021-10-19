@@ -10,6 +10,9 @@ Posaconazole has been shown in vitro to be active against the following microorg
 (Candida albicans, C. glabrata, C. krusei, C. parapsilosis, C. tropicalis, C. dubliniensis, C. famata, C. inconspicua, C. lipolytica, C. norvegensis, C. pseudotropicalis), Coccidioides immitis, Fonsecaea pedrosoi, and species of Fusarium, Rhizomucor, Mucor, and Rhizopus.
 The microbiological data suggest that posaconazole is active against Rhizomucor, Mucor, and Rhizopus; however the clinical data are currently too limited to assess the efficacy of posaconazole against these causative agents.
 
+The following in vitro data are available, but their clinical significance is unknown.
+In a surveillance study of > 3,000 clinical mold isolates from 2010-2018, 90 % of non-Aspergillus fungi exhibited the following in vitro minimum inhibitory concentration (MIC): Mucorales spp (n=81) of 1 mg/L; Scedosporium apiospermum/S. boydii (n=65) of 2 mg/L; Exophiala dermatiditis (n=15) of 0.5 mg/L, and Purpureocillium lilacinum (n=21) of 1 mg/L.
+
 Resistance
 Clinical isolates with decreased susceptibility to posaconazole have been identified.
 The principle mechanism of resistance is the acquisition of substitutions in the target protein, CYP51.
@@ -19,7 +22,7 @@ The ECOFF values for posaconazole, which distinguish the wild type population fr
 EUCAST ECOFF values:
 
 - Aspergillus flavus: 0.5 mg/L
-- Aspergillus fumigatus: 0.25 mg/L
+- Aspergillus fumigatus: 0.5 mg/L
 - Aspergillus nidulans: 0.5 mg/L
 - Aspergillus niger: 0.5 mg/L
 - Aspergillus terreus: 0.25 mg/L
@@ -30,9 +33,10 @@ ECOFF values do not equate to clinical breakpoints.
 Breakpoints
 EUCAST MIC breakpoints for posaconazole [susceptible (S); resistant (R)]:
 
-- Candida albicans: S ≤0.06 mg/L, R >0.06 mg/L
-- Candida tropicalis: S ≤0.06 mg/L, R >0.06 mg/L
-- Candida parapsilosis: S ≤0.06 mg/L, R >0.06 mg/L
+- Candida albicans: S ≤0.06 mg/L, R > 0.06 mg/L
+- Candida tropicalis: S ≤0.06 mg/L, R > 0.06 mg/L
+- Candida parapsilosis: S ≤0.06 mg/L, R > 0.06 mg/L
+- Candida dubliniensis: S ≤0.06 mg/L, R > 0.06 mg/L
 
 There are currently insufficient data to set clinical breakpoints for other Candida species.
 
@@ -49,7 +53,7 @@ Clinical experience
 Summary of posaconazole oral suspension studies
 
 Invasive aspergillosis
-Oral posaconazole suspension 800 mg/day in divided doses was evaluated for the treatment of invasive aspergillosis in patients with disease refractory to amphotericin B (including liposomal formulations) or itraconazole or in patients who were intolerant of these medicinal products in a non-comparative salvage therapy trial (Study 0041).
+Oral posaconazole suspension 800 mg/day in divided doses was evaluated for the treatment of invasive aspergillosis in patients with disease refractory to amphotericin B (including liposomal formulations) or itraconazole or in patients who were intolerant of these medicinal products in a non-comparative salvage therapy study(Study 0041).
 Clinical outcomes were compared with those in an external control group derived from a retrospective review of medical records.
 The external control group included 86 patients treated with available therapy (as above) mostly at the same time and at the same sites as the patients treated with posaconazole.
 Most of the cases of aspergillosis were considered to be refractory to prior therapy in both the posaconazole group (88 %) and in the external control group (79 %).
@@ -101,7 +105,7 @@ Prophylaxis of Invasive Fungal Infections (IFIs) (Studies 316 and 1899)
 Two randomised, controlled prophylaxis studies were conducted among patients at high-risk for developing invasive fungal infections.
 
 1 Includes other less common species or species unknown
-Study 316 was a randomised, double-blind trial of posaconazole oral suspension (200 mg three times a day) versus fluconazole capsules (400 mg once daily) in allogeneic hematopoietic stem cell transplant recipients with graft-versus-host disease (GVHD).
+Study 316 was a randomised, double-blind study of posaconazole oral suspension (200 mg three times a day) versus fluconazole capsules (400 mg once daily) in allogeneic hematopoietic stem cell transplant recipients with graft-versus-host disease (GVHD).
 The primary efficacy endpoint was the incidence of proven/probable IFIs at 16 weeks post-randomisation as determined by an independent, blinded external expert panel.
 A key secondary endpoint was the incidence of proven/probable IFIs during the on-treatment period (first dose to last dose of study medicinal product + 7 days).
 The majority (377/600, [63 %]) of patients included had Acute Grade 2 or 3 or chronic extensive (195/600, [32.5 %]) GVHD at study start.
@@ -154,7 +158,7 @@ b: In 1899 this was the period from randomisation to last dose of study medicina
 c: In 1899, this was the period from randomisation to 100 days post-randomisation; in 316 it was the period from the baseline day to 111 days post-baseline.
 d: All randomised e: All treated
 
-In Study 1899, a significant decrease in all cause mortality in favour of posaconazole was observed [POS 49/304 (16 %) vs. FLU/ITZ 67/298 (22 %) p= 0.048].
+In Study 1899, a significant decrease in all-cause mortality in favour of posaconazole was observed [POS 49/304 (16 %) vs. FLU/ITZ 67/298 (22 %) p= 0.048].
 Based on Kaplan-Meier estimates, the probability of survival up to day 100 after randomisation, was significantly higher for posaconazole recipients; this survival benefit was demonstrated when the analysis considered all causes of death (P= 0.0354) as well as IFI-related deaths (P = 0.0209).
 
 In Study 316, overall mortality was similar (POS, 25 %; FLU, 28 %); however, the proportion of IFI-related deaths was significantly lower in the POS group (4/301) compared with the FLU group (12/299; P= 0.0413).
@@ -166,32 +170,70 @@ Based on the available data in 16 of these paediatric patients, the safety profi
 Additionally, twelve patients 13-17 years of age received posaconazole oral suspension 600 mg/day for prophylaxis of invasive fungal infections (Studies 316 and 1899).
 The safety profile in these patients < 18 years of age appears similar to the safety profile observed in adults.
 Based on pharmacokinetic data in 10 of these paediatric patients, the pharmacokinetic profile appears to be similar to patients ≥ 18 years of age.
-In a study (Study 03579) of 136 neutropenic paediatric patients 11 months – 17 years treated with posaconazole oral suspension at doses up to 18 mg/kg/day divided TID, approximately 50 % met the pre-specified target (Day 7 Cav between 500 ng/mL-2,500 ng/mL) (see section 5.2).
+In a study (Study 03579) of 136 neutropenic paediatric patients 11 months – 17 years treated with posaconazole oral suspension at doses up to 18 mg/kg/day divided TID, approximately 50% met the pre-specified target (Day 7 Cav between 500 ng/mL-2,500 ng/mL) (see section 5.2).
 
 Safety and efficacy in paediatric patients below the age of 18 years have not been established.
 
 Electrocardiogram evaluation
-Multiple, time-matched ECGs collected over a 12 hour period were obtained before and during administration of posaconazole oral suspension (400 mg twice daily with high fat meals) from 173 healthy male and female volunteers aged 18 to 85 years.
+Multiple, time-matched ECGs collected over a 12-hour period were obtained before and during administration of posaconazole oral suspension (400 mg twice daily with high fat meals) from 173 healthy male and female volunteers aged 18 to 85 years.
 No clinically relevant changes in the mean QTc (Fridericia) interval from baseline were observed.
 
 [Noxafil 100 mg gastro-resistant tablets]
 
+Summary of posaconazole concentrate for solution for infusion and tablet study invasive aspergillosis
+The safety and efficacy of posaconazole for the treatment of patients with invasive aspergillosis was evaluated in a double-blind controlled study (study-69) in 575 patients with proven, probable, or possible invasive fungal infections per EORTC/MSG criteria.
+
+Patients were treated with posaconazole (n=288) concentrate for solution for infusion or tablet given at a dose of 300 mg QD (BID on Day 1).
+Comparator patients were treated with voriconazole (n=287) given IV at a dose of 6 mg/kg BID Day 1 followed by 4 mg/kg BID, or orally at a dose of 300 mg BID Day 1 followed by 200 mg BID.
+Median treatment duration was 67 days (posaconazole) and 64 days (voriconazole).
+
+In the intent-to-treat (ITT) population (all subjects who received at least one dose of study drug), 288
+patients received posaconazole and 287 patients received voriconazole. The full analysis set
+population (FAS) is the subset of all subjects within the ITT population who were classified by
+independent adjudication as having proven or probable invasive aspergillosis: 163 subjects for
+posaconazole and 171 subjects for voriconazole. The all-cause mortality and global clinical response
+in these two populations are presented in Table 3 and 4, respectively.
+Table 3. Posaconazole invasive aspergillosis treatment study 1: all-cause mortality at Day 42 and
+Day 84, in the ITT and FAS populations
+Posaconazole Voriconazole
+Population N n (%) N n (%) Difference* (95 % CI)
+Mortality in ITT at
+288 44 (15.3) 287 59 (20.6) -5.3 % (-11.6, 1.0)
+Day 42
+288 81 (28.1) 287 88 (30.7) -2.5 % (-9.9, 4.9)
+Day 84
+Mortality in FAS at
+163 31 (19.0) 171 32 (18.7) 0.3% (-8.2, 8.8)
+163 56 (34.4) 171 53 (31.0) 3.1% (-6.9, 13.1)
+* Adjusted treatment difference based on Miettinen and Nurminen’s method stratified by randomisation factor (risk for mortality/poor
+outcome), using Cochran-Mantel-Haenszel weighting scheme.
+Table 4. Posaconazole invasive aspergillosis treatment study 1: global clinical response at Week 6
+and Week 12 in the FAS population
+Population N Success (%) N Success (%) Difference* (95 % CI)
+Global clinical
+response in the FAS 163 73 (44.8) 171 78 (45.6) -0.6 % (-11.2, 10.1)
+at 6 weeks
+response in the FAS 163 69 (42.3) 171 79 (46.2) -3.4 % (-13.9, 7.1)
+at 12 weeks
+* Successful Global Clinical Response was defined as survival with a partial or complete response
+Adjusted treatment difference based on Miettinen and Nurminen’s method stratified by randomisation factor (risk for mortality/poor
+
 Summary of posaconazole tablet bridging study
-Study 5615 was a non-comparative multi-center study performed to evaluate the pharmacokinetic properties, safety, and tolerability of posaconazole tablet.
+Study 5615 was a non-comparative multi-centre study performed to evaluate the pharmacokinetic properties, safety, and tolerability of posaconazole tablet.
 Study 5615 was conducted in a similar patient population to that previously studied in the pivotal posaconazole oral suspension clinical program.
 The pharmacokinetics and safety data from Study 5615 were bridged to the existing data (including efficacy data) with the oral suspension.
 
 The subject population included: 1) patients with AML or MDS who had recently received chemotherapy and had developed or were anticipated to develop significant neutropenia, or 2) patients who had undergone a HSCT and were receiving immunosuppressive therapy for prevention or treatment of GVHD.
 Two different dosing groups were evaluated: 200 mg twice daily on Day 1, followed by 200 mg once daily thereafter (Part IA) and 300 mg twice daily on Day 1, followed by 300 mg once daily thereafter (Part 1B and Part 2).
 
-Serial PK samples were collected on Day 1 and at steady-state on Day 8 for all Part 1 subjects and a subset of Part 2 subjects.
+Serial PK samples were collected on Day 1 and at steady state on Day 8 for all Part 1 subjects and a subset of Part 2 subjects.
 Moreover, sparse PK samples were collected at several days during steady state before the next dose (Cmin) for a larger subject population.
 Based on average Cmin concentrations, a predicted average concentration (Cav) could be calculated for 186 subjects dosed with 300 mg.
 PK analysis in patients of Cav found that 81 % of the subjects treated with the 300 mg once daily dose attained steady state predicted Cav between 500-2,500 ng/mL.
-One subject (<1 %) had a predicted Cav below 500 ng/mL and 19 % of the subjects had a predicted Cav above 2,500 ng/mL.
+One subject (< 1 %) had a predicted Cav below 500 ng/mL and 19 % of the subjects had a predicted Cav above 2,500 ng/mL.
 Subjects achieved a mean predicted Cav at steady state of 1,970 ng/mL.
 
-In Table 3 a comparison is shown of exposure (Cav) after administration of posaconazole tablet and posaconazole oral suspension at therapeutic doses in patients depicted as quartile analysis.
+In Table 5 a comparison is shown of exposure (Cav) after administration of posaconazole tablet and posaconazole oral suspension at therapeutic doses in patients depicted as quartile analysis.
 Exposures after tablet administration are generally higher than, but overlapping with, exposures after administration of posaconazole oral suspension.
 Cav quartile analyses of pivotal patient studies with posaconazole tablet and oral suspension
 
@@ -206,7 +248,9 @@ Cav quartile analyses of pivotal patient studies with posaconazole tablet and or
 | Q4 | 2,304 – 9,523 | 1,563 – 3,650 | 734 – 2,200 | 877 – 2,010 |
 | pCav: predicted Cav Cav = the average concentration when measured at steady state *20 patients received 200 mg once daily (Day 1 200 mg twice daily) |  |  |  |  |
 
-As shown in Table 4, a successful response (complete or partial resolution) at the end of treatment was seen in 42 % of posaconazole-treated patients compared to 26 % of the external group.
+Oral posaconazole suspension 800 mg/day in divided doses was evaluated for the treatment of invasive aspergillosis in patients with disease refractory to amphotericin B (including liposomal formulations) or itraconazole or in patients who were intolerant of these medicinal products in a non-comparative salvage therapy study (Study 0041).
+
+As shown in Table 6, a successful response (complete or partial resolution) at the end of treatment was seen in 42 % of posaconazole-treated patients compared to 26 % of the external group.
 
 |  | Posaconazole oral suspension | External control group |
 | --- | --- | --- |
@@ -217,17 +261,35 @@ As shown in Table 4, a successful response (complete or partial resolution) at t
 | A. terreus | 4/14 (29 %) | 2/13 (15 %) |
 | A. niger | 3/5 (60 %) | 2/7 (29 %) |
 
-Among
+2 Includes other less common species or species unknown
 
-2 Includes other less common species or species unknown eighteen patients who were intolerant or had infections refractory to amphotericin B or itraconazole, seven patients were classed as responders.
+See Table 7 and 8 for results from both studies.
 
-There is no paediatric experience for posaconazole tablets.
+Table 7.
+
+| Study | Posaconazole oral suspension | Controla | P-Value |
+| --- | --- | --- | --- |
+| Proportion (%) of patients with proven/probable IFIs |  |  |  |
+| On-treatment periodb |  |  |  |
+| 1899d | 7/304 (2) | 25/298 (8) | 0.0009 |
+| 316e | 7/291 (2) | 22/288 (8) | 0.0038 |
+| Fixed-time periodc |  |  |  |
+| 1899d | 14/304 (5) | 33/298 (11) | 0.0031 |
+| Proportion (%) of patients with proven/probable IFIs |  |  |  |
+| 316 d | 16/301 (5) | 27/299 (9) | 0.0740 |
+
+Table 8.
+
+There is limited paediatric experience for posaconazole tablets.
+
+Three patients 14-17 years of age were treated with posaconazole concentrate for solution for infusion and tablet 300 mg/day (BID on Day 1 followed by QD thereafter) in the study of treatment of invasive aspergillosis.
 
 Sixteen patients 8-17 years of age were treated with posaconazole oral suspension 800 mg/day in a study for invasive fungal infections.
 
 [Noxafil 300 mg concentrate for solution for infusion]
 
-Pharmacotherapeutic group: Antimycotics for systemic use, triazole derivatives, ATC code: J02A C04.
+Pharmacotherapeutic group: Antimycotics for systemic use, triazole derivatives, ATC code:
+J02A C04.
 
 Summary of posaconazole concentrate for solution for infusion bridging study
 Study 5520 was a non-comparative multi-center study performed to evaluate the pharmacokinetic properties, safety, and tolerability of posaconazole concentrate for solution for infusion.
@@ -238,18 +300,23 @@ The subject population for Cohorts 1 and 2 included subjects with AML or MDS who
 Two different dosing groups were evaluated in Cohorts 1 and 2: 200 mg twice daily on Day 1, followed by 200 mg once daily thereafter (Cohort 1) and 300 mg twice daily on Day 1, followed by 300 mg once daily thereafter (Cohort 2).
 
 The subject population in Cohort 3 included: 1) patients with AML or MDS who had recently received chemotherapy and had developed or were anticipated to develop significant neutropenia, or 2) patients who had undergone a HSCT and were receiving immunosuppressive therapy for prevention or treatment of GVHD.
-These types of patients had been previously studied in a pivotal controlled trial of posaconazole oral suspension.
+These types of patients had been previously studied in a pivotal controlled study of posaconazole oral suspension.
 Based on the pharmacokinetics and safety results of Cohorts 1 and 2, all subjects in Cohort 3 received 300 mg twice daily on Day 1, followed by 300 mg once daily thereafter.
 
 The total subject population had a mean age of 51 years (range = 18-82 years), 95 % were White, the major ethnicity was not Hispanic or Latino (92 %), and 55 % were male.
 The study treated 155
 (65 %) subjects with AML or MDS, and 82 (35 %) subjects with HSCT, as the primary diseases at study entry.
-Serial pharmacokinetic samples were collected on Day 1 and at steady-state on Day 14 for all Cohort 1 and 2 subjects and on Day 10 for a subset of Cohort 3 subjects.
-This serial pharmacokinetic analysis demonstrated that 94 % of the subjects treated with the 300 mg once daily dose attained steady state Cav between 500-2500 ng/mL [Cav was the average concentration of posaconazole at steady state, calculated as AUC/dosing interval (24 hours).].
-This exposure was selected based on pharmacokinetic/pharmacodymanic considerations with posaconazole oral suspension.
-Subjects who received 300 mg once daily achieved a mean Cav at steady state of 1500 ng/mL.
+Serial pharmacokinetic samples were collected on Day 1 and at steady state on Day 14 for all
+Cohort 1 and 2 subjects and on Day 10 for a subset of Cohort 3 subjects.
+This serial pharmacokinetic analysis demonstrated that 94 % of the subjects treated with the 300 mg once daily dose attained steady state Cav between 500-2,500 ng/mL [Cav was the average concentration of posaconazole at steady state, calculated as AUC/dosing interval (24 hours).].
+This exposure was selected based on pharmacokinetic/pharmacodynamic considerations with posaconazole oral suspension.
+Subjects who received 300 mg once daily achieved a mean Cav at steady state of 1,500 ng/mL.
 
-Oral posaconazole suspension 800 mg/day in divided doses was evaluated for the treatment of invasive aspergillosis in patients with disease refractory to amphotericin B (including liposomal formulations) or itraconazole or in patients who were intolerant of these medicinal products in a non-comparative salvage therapy trial.
+Comparator patients were treated with voriconazole (n=287) given IV at a dose of 6 mg/kg BID Day 1 followed by 4 mg/kg BID of voriconazole (intravenous), or orally at a dose of 300 mg BID Day 1 followed by 200 mg BID.
+
+Oral posaconazole suspension 800 mg/day in divided doses was evaluated for the treatment of invasive aspergillosis in patients with disease refractory to amphotericin B (including liposomal formulations) or itraconazole or in patients who were intolerant of these medicinal products in a non-comparative salvage therapy study.
+
+As shown in Table 5, a successful response (complete or partial resolution) at the end of treatment was seen in 42 % of posaconazole-treated patients compared to 26 % of the external group.
 
 |  | Posaconazole oral suspension | External control group |
 | --- | --- | --- |
@@ -260,9 +327,12 @@ Oral posaconazole suspension 800 mg/day in divided doses was evaluated for the t
 | A. terreus | 4/14 (29 %) | 2/13 (15 %) |
 | A. niger | 3/5 (60 %) | 2/7 (29 %) |
 
-3 Includes other less common species or species unknown
+The majority (377/600, [63 %]) of patients included had Acute Grade 2 or 3 or chronic extensive
 
-See Table 4 and 5 for results from both studies.
+3 Includes other less common species or species unknown
+(195/600, [32.5 %]) GVHD at study start.
+
+See Table 6 and 7 for results from both studies.
 
 | Study | Posaconazole oral suspension | Controla |
 | --- | --- | --- |
@@ -274,4 +344,4 @@ See Table 4 and 5 for results from both studies.
 | 1899d | 4/304 (1) | 26/298 (9) |
 | 316 d | 7/301 (2) | 21/299 (7) |
 
-There is no paediatric experience for posaconazole concentrate for solution for infusion.
+There is limited paediatric experience for posaconazole concentrate for solution for infusion.

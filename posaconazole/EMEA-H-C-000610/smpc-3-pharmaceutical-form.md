@@ -11,5 +11,5 @@ Yellow-coated, capsule-shaped tablet of 17.5 mm length debossed with “100” o
 
 [Noxafil 300 mg concentrate for solution for infusion]
 
-Concentrate for solution for infusion.
+Concentrate for solution for infusion (sterile concentrate).
 Clear, colourless to yellow liquid.

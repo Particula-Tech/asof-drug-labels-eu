@@ -17,7 +17,7 @@ Administration instructions for Noxafil concentrate for solution for infusion
 - If a central venous catheter is not available, a single infusion may be administered through a peripheral venous catheter with a volume to achieve a dilution of approximately 2 mg/mL.
   When administered through a peripheral venous catheter, the infusion should be administered over approximately 30 minutes.
 
-Note: In clinical trials, multiple peripheral infusions given through the same vein resulted in infusion site reactions (see section 4.8).
+Note: In clinical studies, multiple peripheral infusions given through the same vein resulted in infusion site reactions (see section 4.8).
 
 - Noxafil is for single use.
 
@@ -47,16 +47,11 @@ Noxafil concentrate for solution for infusion should be inspected visually for p
 The solution of Noxafil ranges from colourless to pale yellow.
 Variations of colour within this range do not affect the quality of the product.
 
-Noxafil must not be diluted with:
-Lactated Ringer’s solution
-5 % dextrose with Lactated Ringer’s solution
-4.2 % sodium bicarbonate
-
 This medicinal product must not be mixed with other medicinal products except those mentioned below:
 
-5 % dextrose in water
+5 % glucose in water
 0.9 % sodium chloride
 0.45 % sodium chloride
-5 % dextrose and 0.45 % sodium chloride
-5 % dextrose and 0.9 % sodium chloride
-5 % dextrose and 20 mEq KCl
+5 % glucose and 0.45 % sodium chloride
+5 % glucose and 0.9 % sodium chloride
+5 % glucose and 20 mEq KCl

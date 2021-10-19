@@ -1,13 +1,14 @@
 # 4.2 Posology and method of administration
 
-Non-Interchangeability between Noxafil Tablets and Noxafil Oral Suspension
+Treatment should be initiated by a physician experienced in the management of fungal infections or in the supportive care of high-risk patients for which posaconazole is indicated as prophylaxis.
+
+Non-interchangeability between Noxafil tablets and Noxafil oral suspension
 
 The tablet and oral suspension are not to be used interchangeably due to the differences between these two formulations in frequency of dosing, administration with food and plasma drug concentration achieved.
-Therefore, follow the specific dosage recommendations for each formulation.
-
-Treatment should be initiated by a physician experienced in the management of fungal infections or in the supportive care in the high-risk patients for which posaconazole is indicated as prophylaxis.
+Therefore, follow the specific dose recommendations for each formulation.
 
 Posology
+
 Noxafil is also available as 100 mg gastro-resistant tablet and 300 mg concentrate for solution for infusion.
 Noxafil tablets are the preferred formulation to optimize plasma concentrations and generally provide higher plasma drug exposures than Noxafil oral suspension.
 
@@ -20,7 +21,7 @@ Recommended dose according to indication
 | --- | --- |
 | Refractory invasive fungal infections (IFI)/patients with IFI intolerant to 1st line therapy | 200 mg (5 mL) four times a day. Alternatively, patients who can tolerate food or a nutritional supplement may take 400 mg (10 mL) twice a day during or immediately following a meal or nutritional supplement. Duration of therapy should be based on the severity of the underlying disease, recovery from immunosuppression, and clinical response. |
 | Oropharyngeal candidiasis | Loading dose of 200 mg (5 mL) once a day on the first day, then 100 mg (2.5 mL) once a day for 13 days. Each dose of Noxafil should be administered during or immediately after a meal, or a nutritional supplement in patients who cannot tolerate food to enhance the oral absorption and to ensure adequate exposure. |
-| Prophylaxis of invasive fungal infections | 200 mg (5 mL) three times a day. Each dose of Noxafil should be administered during or immediately after a meal, or a nutritional supplement in patients who cannot tolerate food to enhance the oral absorption and to ensure adequate exposure. The duration of therapy is based on recovery from neutropenia or immunosuppression. For patients with acute myelogenous leukemia or myelodysplastic syndromes, prophylaxis with Noxafil should start several days before the anticipated onset of neutropenia and continue for 7 days after the neutrophil count rises above 500 cells per mm3. |
+| Prophylaxis of invasive fungal infections | 200 mg (5 mL) three times a day. Each dose of Noxafil should be administered during or immediately after a meal, or a nutritional supplement in patients who cannot tolerate food to enhance the oral absorption and to ensure adequate exposure. The duration of therapy is based on recovery from neutropenia or immunosuppression. For patients with acute myelogenous leukaemia or myelodysplastic syndromes, prophylaxis with Noxafil should start several days before the anticipated onset of neutropenia and continue for 7 days after the neutrophil count rises above 500 cells per mm3. |
 
 Special populations
 
@@ -32,10 +33,11 @@ Limited data on the effect of hepatic impairment (including Child-Pugh C classif
 It is recommended to exercise caution due to the potential for higher plasma exposure.
 
 Paediatric population
-The safety and efficacy of Noxafil in children aged below 18 years have not been established.
+The safety and efficacy of posaconazole in children and adolescents aged below 18 years have not been established.
 Currently available data are described in sections 5.1 and 5.2, but no recommendation on a posology can be made.
 
 Method of administration
+
 For oral use
 
 The oral suspension must be shaken well before use.
@@ -46,10 +48,9 @@ Noxafil is also available as 40 mg/mL oral suspension and 300 mg concentrate for
 
 | Indication | Dose and duration of therapy (See section 5.2) |
 | --- | --- |
+| Treatment of invasive aspergillosis | Loading dose of 300 mg (three 100 mg tablets or 300 mg concentrate for solution for infusion) twice a day on the first day, then 300 mg (three 100 mg tablets or 300 mg concentrate for solution for infusion) once a day thereafter. Each tablet dose may be taken without regard to food intake. Recommended total duration of therapy is 6-12 weeks. Switching between intravenous and oral administration is appropriate when clinically indicated. |
 | Refractory invasive fungal infections (IFI)/patients with IFI intolerant to 1st line therapy | Loading dose of 300 mg (three 100 mg tablets) twice a day on the first day, then 300 mg (three 100 mg tablets) once a day thereafter. Each dose may be taken without regard to food intake. Duration of therapy should be based on the severity of the underlying disease, recovery from immunosuppression, and clinical response. |
-| Prophylaxis of invasive fungal infections | Loading dose of 300 mg (three 100 mg tablets) twice a day on the first day, then 300 mg (three 100 mg tablets) once a day thereafter. Each dose may be taken without regard to food intake. Duration of therapy is based on recovery from neutropenia or immunosuppression. For patients with acute myelogenous leukemia or myelodysplastic syndromes, prophylaxis with Noxafil should start several days before the anticipated onset of neutropenia and continue for 7 days after the neutrophil count rises above 500 cells per mm3. |
-
-No data are available for the tablet formulation.
+| Prophylaxis of invasive fungal infections | Loading dose of 300 mg (three 100 mg tablets) twice a day on the first day, then 300 mg (three 100 mg tablets) once a day thereafter. Each dose may be taken without regard to food intake. Duration of therapy is based on recovery from neutropenia or immunosuppression. For patients with acute myelogenous leukaemia or myelodysplastic syndromes, prophylaxis with Noxafil should start several days before the anticipated onset of neutropenia and continue for 7 days after the neutrophil count rises above 500 cells per mm3. |
 
 Noxafil gastro-resistant tablets may be taken with or without food (see section 5.2).
 The tablets should be swallowed whole with water and should not be crushed, chewed, or broken.
@@ -61,6 +62,7 @@ A switch to oral administration is recommended as soon as the patients’ condit
 
 | Indication | Dose and duration of therapy (See section 5.2) |
 | --- | --- |
+| Treatment of invasive aspergillosis | Loading dose of 300 mg Noxafil (300 mg concentrate for solution for infusion or three 100 mg tablets) twice a day on the first day, then 300 mg (300 mg concentrate for solution for infusion or three 100 mg tablets) once a day thereafter. Each tablet dose may be taken without regard to food intake. Recommended total duration of therapy is 6-12 weeks. Switching between intravenous and oral administration is appropriate when clinically indicated. |
 | Refractory invasive fungal infections (IFI)/patients with IFI intolerant to 1st line therapy | Loading dose of 300 mg Noxafil twice a day on the first day, then 300 mg once a day thereafter. Duration of therapy should be based on the severity of the underlying disease, recovery from immunosuppression, and clinical response. |
 | Prophylaxis of invasive fungal infections | Loading dose of 300 mg Noxafil twice a day on the first day, then 300 mg once a day thereafter. Duration of therapy is based on recovery from neutropenia or immunosuppression. For patients with AML or MDS, prophylaxis with Noxafil should start several days before the anticipated onset of neutropenia and continue for 7 days after the neutrophil count rises above 500 cells per mm3. |
 
@@ -73,8 +75,8 @@ In patients with moderate or severe renal impairment (creatinine clearance <50 m
 Oral formulations of Noxafil should be used in these patients unless an assessment of the benefit/risk to the patient justifies the use of Noxafil concentrate for solution for infusion.
 Serum creatinine levels should be closely monitored in these patients (see section 4.4).
 
-The safety and efficacy of Noxafil concentrate for solution for infusion in children aged below 18 years have not been established.
-No data are available.
+The safety and efficacy of posaconazole concentrate for solution for infusion in children and adolescents aged below 18 years have not been established.
+
 Noxafil concentrate for solution for infusion should not be used in children aged below 18 years because of pre-clinical safety concerns (see section 5.3).
 
 Noxafil concentrate for solution for infusion requires dilution (see section 6.6) prior to administration.

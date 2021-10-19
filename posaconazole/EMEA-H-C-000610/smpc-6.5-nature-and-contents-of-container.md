@@ -5,7 +5,6 @@
 [Noxafil 100 mg gastro-resistant tablets]
 
 Noxafil 100 mg gastro-resistant tablets are packaged in a PVC/ polychlorotrifluoroethylene laminate blister with push-through aluminium lidding.
-
 Noxafil gastro-resistant tablets are packaged in a blister in cartons of 24 (2x12) or 96 (8x12) tablets.
 
 Not all pack sizes may be marketed.
