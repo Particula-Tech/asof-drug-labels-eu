@@ -8,7 +8,6 @@ On a molar basis, phenylacetylglutamine is comparable to urea (each containing 2
 Based on studies of phenylacetylglutamine excretion in patients with urea cycle disorders it is possible to estimate that, for each gram of sodium phenylbutyrate administered, between 0.12 and 0.15 g of phenylacetylglutamine nitrogen are produced.
 As a consequence, sodium phenylbutyrate reduces elevated plasma ammonia and glutamine levels in patients with urea cycle disorders.
 It is important that the diagnosis is made early and treatment is initiated immediately to improve the survival and the clinical outcome.
-
 Previously, neonatal-onset presentation of urea cycle disorders was almost universally fatal within the first year of life, even when treated with peritoneal dialysis and essential amino acids or their nitrogen-free analogues.
 With haemodialysis, use of alternative waste nitrogen excretion pathways (sodium phenylbutyrate, sodium benzoate and sodium phenylacetate), dietary protein restriction, and, in some cases, essential amino acid supplementation, the survival rate in new-borns diagnosed after birth (but within the first month of life) increased to almost 80 % with most deaths occurring during an episode of acute hyperammonaemic encephalopathy.
 Patients with neonatal-onset disease had a high incidence of mental retardation.

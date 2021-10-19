@@ -16,8 +16,8 @@ The safety and efficacy of doses in excess of 20 g/day (40 tablets) have not bee
 
 Therapeutic monitoring: Plasma levels of ammonia, arginine, essential amino acids (especially branched chain amino acids), carnitine and serum proteins should be maintained within normal limits.
 Plasma glutamine should be maintained at levels less than 1,000 µmol/l.
-
 Nutritional management: AMMONAPS must be combined with dietary protein restriction and, in some cases, essential amino acid and carnitine supplementation.
+
 Citrulline or arginine supplementation is required for patients diagnosed with neonatal-onset form of carbamyl phosphate synthetase or ornithine transcarbamylase deficiency at a dose of 0.17 g/kg/day or 3.8 g/m2/day.
 Arginine supplementation is required for patients diagnosed with deficiency of argininosuccinate synthetase at a dose of 0.4 - 0.7 g/kg/day or 8.8 - 15.4 g/m2/day.
 
