@@ -2,7 +2,6 @@
 
 Unopened vial
 3 years.
-
 After reconstitution
 From a microbiological point of view, the reconstituted or diluted solution should be used immediately.
 The reconstituted or diluted solution must not be frozen.
@@ -13,7 +12,6 @@ If refrigerated, the vials and/or intravenous bags must be allowed to come to ro
 [KEYTRUDA 25 mg/mL concentrate for solution for infusion.]
 
 2 years.
-
 After preparation of infusion
 From a microbiological point of view, the product, once diluted, should be used immediately.
 The diluted solution must not be frozen.

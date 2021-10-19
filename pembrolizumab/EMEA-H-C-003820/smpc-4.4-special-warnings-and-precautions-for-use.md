@@ -11,11 +11,11 @@ Immune-related adverse reactions, including severe and fatal cases, have occurre
 Most immune-related adverse reactions occurring during treatment with pembrolizumab were reversible and managed with interruptions of pembrolizumab, administration of corticosteroids and/or supportive care.
 Immune-related adverse reactions have also occurred after the last dose of pembrolizumab.
 Immune-related adverse reactions affecting more than one body system can occur simultaneously.
+
 For suspected immune-related adverse reactions, adequate evaluation to confirm aetiology or exclude other causes should be ensured.
 Based on the severity of the adverse reaction, pembrolizumab should be withheld and corticosteroids administered.
 Upon improvement to Grade ≤ 1, corticosteroid taper should be initiated and continued over at least 1 month.
 Based on limited data from clinical studies in patients whose immune-related adverse reactions could not be controlled with corticosteroid use, administration of other systemic immunosuppressants can be considered.
-
 Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if the adverse reaction recovers to Grade ≤ 1 and corticosteroid dose has been reduced to ≤ 10 mg prednisone or equivalent per day.
 
 Pembrolizumab must be permanently discontinued for any Grade 3 immune-related adverse reaction that recurs and for any Grade 4 immune-related adverse reaction toxicity, except for endocrinopathies that are controlled with replacement hormones (see sections 4.2 and 4.8).
@@ -47,6 +47,7 @@ Immune-related endocrinopathies
 Severe endocrinopathies, including adrenal insufficiency, hypophysitis, type 1 diabetes mellitus, diabetic ketoacidosis, hypothyroidism, and hyperthyroidism have been observed with pembrolizumab treatment.
 
 Long-term hormone replacement therapy may be necessary in cases of immune-related endocrinopathies.
+
 Adrenal insufficiency (primary and secondary) has been reported in patients receiving pembrolizumab.
 Hypophysitis has also been reported in patients receiving pembrolizumab.
 (See section 4.8).
@@ -84,11 +85,11 @@ If SJS or TEN is confirmed, pembrolizumab should be permanently discontinued (se
 Caution should be used when considering the use of pembrolizumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anti-cancer agents.
 
 Other immune-related adverse reactions
-The following additional clinically significant, immune-related adverse reactions have been reported in clinical studies or in post-marketing experience: uveitis, arthritis, myositis, myocarditis, pancreatitis, Guillain-Barré syndrome, myasthenic syndrome, haemolytic anaemia, sarcoidosis, encephalitis, myelitis, vasculitis, cholangitis sclerosing and gastritis (see sections 4.2 and 4.8).
+The following additional clinically significant, immune-related adverse reactions have been reported in clinical studies or in post-marketing experience: uveitis, arthritis, myositis, myocarditis, pancreatitis, Guillain-Barré syndrome, myasthenic syndrome, haemolytic anaemia, sarcoidosis, encephalitis, myelitis, vasculitis, cholangitis sclerosing, gastritis and cystitis noninfective (see sections 4.2 and 4.8).
 
 Based on the severity and type of the adverse reaction, pembrolizumab should be withheld for Grade 2 or Grade 3 events and corticosteroids administered.
-Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if the adverse reaction recovers to Grade ≤ 1 and corticosteroid dose has been reduced to ≤ 10 mg prednisone or equivalent per day.
 
+Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if the adverse reaction recovers to Grade ≤ 1 and corticosteroid dose has been reduced to ≤ 10 mg prednisone or equivalent per day.
 Pembrolizumab must be permanently discontinued for any Grade 3 immune-related adverse reaction that recurs and for any Grade 4 immune-related adverse reaction.
 
 For Grades 3 or 4 myocarditis, encephalitis or Guillain-Barré syndrome, pembrolizumab should be permanently discontinued (see sections 4.2 and 4.8).
@@ -116,6 +117,9 @@ Severe infusion-related reactions, including hypersensitivity and anaphylaxis, h
 For Grades 3 or 4 infusion reactions, infusion should be stopped and pembrolizumab permanently discontinued (see section 4.2).
 Patients with Grades 1 or 2 infusion reaction may continue to receive pembrolizumab with close monitoring; premedication with antipyretic and antihistamine may be considered.
 
+Use of pembrolizumab in combination with chemotherapy
+Pembrolizumab in combination with chemotherapy should be used with caution in patients ≥ 75 years after careful consideration of the potential benefit/risk on an individual basis (see section 5.1).
+
 Disease-specific precautions
 
 Use of pembrolizumab in urothelial carcinoma patients who have received prior platinum-containing chemotherapy
@@ -140,9 +144,6 @@ Physicians should consider the benefit/risk balance of the available treatment o
 
 In KEYNOTE-042, a higher number of deaths within 4 months of treatment initiation followed by a long-term survival benefit was observed with pembrolizumab monotherapy compared to chemotherapy (see section 5.1).
 
-Efficacy and safety data from patients ≥ 75 years are limited.
-For patients ≥ 75 years, pembrolizumab combination therapy should be used with caution after careful consideration of the potential benefit/risk on an individual basis (see section 5.1).
-
 Use of pembrolizumab for first-line treatment of patients with HNSCC
 In general, the frequency of adverse reactions for pembrolizumab combination therapy is observed to be higher than for pembrolizumab monotherapy or chemotherapy alone, reflecting the contributions of each of these components (see section 4.8).
 
@@ -160,9 +161,6 @@ Medical management guidelines for both medicines should be followed (see section
 
 Use of pembrolizumab for first-line treatment of patients with MSI-H/dMMR CRC
 In KEYNOTE-177, the hazard rates for overall survival events were greater for pembrolizumab compared with chemotherapy for the first 4 months of treatment, followed by a long-term survival benefit for pembrolizumab (see section 5.1).
-Use of pembrolizumab for first-line treatment of patients with oesophageal carcinoma
-Efficacy and safety data from patients ≥ 75 years are limited.
-For patients ≥ 75 years, pembrolizumab combination therapy should be used with caution after careful consideration of the potential benefit/risk on an individual basis (see section 5.1).
 
 Patients excluded from clinical studies
 Patients with the following conditions were excluded from clinical studies: active CNS metastases; ECOG PS ≥ 2 (except for urothelial carcinoma and RCC); HIV infection, hepatitis B or hepatitis C infection; active systemic autoimmune disease; interstitial lung disease; prior pneumonitis requiring systemic corticosteroid therapy; a history of severe hypersensitivity to another monoclonal antibody; receiving immunosuppressive therapy and a history of severe immune-related adverse reactions from treatment with ipilimumab, defined as any Grade 4 toxicity or Grade 3 toxicity requiring corticosteroid treatment (> 10 mg/day prednisone or equivalent) for greater than 12 weeks.
