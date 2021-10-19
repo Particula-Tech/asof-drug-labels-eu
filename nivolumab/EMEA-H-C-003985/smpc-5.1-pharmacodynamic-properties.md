@@ -9,7 +9,6 @@ The PD-1 receptor is a negative regulator of T-cell activity that has been shown
 Engagement of PD-1 with the ligands PD-L1 and PD-L2, which are expressed in antigen presenting cells and may be expressed by tumours or other cells in the tumour microenvironment, results in inhibition of T-cell proliferation and cytokine secretion.
 Nivolumab potentiates T-cell responses, including anti-tumour responses, through blockade of PD-1 binding to PD-L1 and PD-L2 ligands.
 In syngeneic mouse models, blocking PD-1 activity resulted in decreased tumour growth.
-
 Combined nivolumab (anti-PD-1) and ipilimumab (anti-CTLA-4) mediated inhibition results in improved anti-tumour responses in metastatic melanoma.
 In murine syngeneic tumour models, dual blockade of PD-1 and CTLA-4 resulted in synergistic anti-tumour activity.
 
@@ -1376,7 +1375,7 @@ Classical Hodgkin lymphoma
 
 The safety and efficacy of nivolumab 3 mg/kg as a single agent for the treatment of relapsed or refractory cHL following ASCT was evaluated in two multi-centre, open-label, single-arm studies (CA209205 and CA209039).
 
-CA209205 is an ongoing Phase 2, open-label, multi-cohort, single-arm study of nivolumab in cHL.
+CA209205 is a Phase 2, open-label, multi-cohort, single-arm study of nivolumab in cHL.
 It includes 243 patients who had ASCT; Cohort A included 63 (26%) patients who were brentuximab vedotin naïve; Cohort B included 80 (33%) patients who had received brentuximab vedotin after ASCT failure; and Cohort C included 100 (41%) patients who had received brentuximab vedotin before and/or after ASCT out of which 33 (14%) patients received brentuximab vedotin only prior to ASCT.
 All patients received nivolumab 3 mg/kg monotherapy intravenously over 60 minutes every 2 weeks.
 The first tumour assessments were conducted 9 weeks after the start of treatment and continued thereafter until disease progression or treatment discontinuation.
@@ -1446,46 +1445,39 @@ Progression-free survival
 Rate (95% CI) at 12 months 57 (45, 68) 55 (41, 66) 69 (37, 88)
 
 “+” denotes a censored observation.
-
 a Follow-up was ongoing at the time of data submission.
 b Data unstable due to the limited duration of response for Cohort B resulting from censoring.
-
 NE = non-estimable
 
-Longer follow-up data from Cohort B (minimum 20.5 months) and efficacy of Cohort C from CA209205 are presented below in Table 31.
-Table 31: Updated efficacy results in patients with relapsed/refractory classical Hodgkin lymphoma from longer follow up of study CA209205
+Updated efficacy results from longer follow-up data of Cohort B (minimum 68.7 months) and
+Cohort C (minimum 61.9 months) from CA209205 are presented below in Table 31.
+Table 31: Updated efficacy results in patients with relapsed/refractory classical Hodgkin lymphoma from longer follow-up of study CA209205
 
-| Number (n)/ minimum follow-up (months) | CA209205 Cohort Ba (n = 80/20.5) |
+| Number (n)/ minimum follow-up (months) | CA209205 Cohort B (n = 80/68.7) |
 | --- | --- |
-| Objective response, n (%); (95% CI) Complete remission (CR), n (%); (95% CI) Partial remission (PR), n (%); (95% CI) | 54 (68%); (56, 78) 10 (13%); (6, 22) 44 (55%); (44, 66) |
-| Stable disease, n (%) Duration of response in all responders (months)c Median (95% CI) Range | 17 (21) 15.9 (7.8, 20.3) 0.0+-21.0+ |
-| Duration of response in CR (months) Median (95% CI) Range | 20.3 (3.8, NE) 1.6+-21.0+ |
-| Duration of response in PR (months) Median (95% CI) Range | 10.6 (6.8, 18.0) 0.0+-20.7+ |
-| Median time to response Months (range) | 2.2 (1.6-9.1) |
-| Median duration of follow-up Months (range) | 22.7 (1.9-27.2) |
-| Progression-free survival Rate (95% CI) at 12 months Rate (95% CI) at 18 months | 51 (38, 62) 47 (35, 59) |
-| Overall survival Median Rate (95% CI) at 12 months Rate (95% CI) at 18 months | Not reached 95 (87, 98) 91 (82, 96) |
+| Objective response, n (%); (95% CI) Complete remission (CR), n (%); (95% CI) Partial remission (PR), n (%); (95% CI) | 57 (71%); (60, 81) 11 (14%); (7, 23) 46 (58%); (46, 69) |
+| Stable disease, n (%) Duration of response in all responders (months)b Median (95% CI) Range | 14 (18%) 16.6 (9.3, 25.7) 0.0+-71.0+ |
+| Duration of response in CR (months) Median (95% CI) Range | 30.3 (2.4, NE) 0.7+-50.0+ |
+| Duration of response in PR (months) Median (95% CI) Range | 10.6 (7.5, 25.3) 0.0+-67.9+ |
+| Median time to response Months (range) | 2.2 (1.6-11.1) |
+| Median duration of follow-up Months (range) | 58.5 (1.9-74.3) |
+| Progression-free survival Median (95% CI) Rate (95% CI) at 12 months Rate (95% CI) at 24 months Rate (95% CI) at 60 months | 14.8 (11.0, 19.8) 52 (39, 63) 36 (24, 48) 16 (6, 29) |
+| Overall survival Median Rate (95% CI) at 12 months Rate (95% CI) at 24 months Rate (95% CI) at 60 months | Not reached 95 (87, 98) 87 (77, 93) 72 (60, 81) |
 
-CA209205 Cohort Ba CA209205 Cohort Ca
+CA209205 Cohort B CA209205 Cohort C
 
 “+” denotes a censored observation.
-
-a Follow-up was ongoing at the time of data submission.
-
-b Patients in Cohort C (n = 33) who have received brentuximab vedotin only prior to ASCT had ORR of 70% (95% CI: 51, 84), CR of 15% (95% CI: 5, 32), PR of 55% (95% CI: 36, 72).
-Median duration of response was 13.2 months (95% CI: 8.2, NE)
-
-c Determined for subjects with CR or PR
-
+a Patients in Cohort C (n = 33) who have received brentuximab vedotin only prior to ASCT had ORR of 73% (95% CI: 55, 87), CR of 21% (95% CI: 9, 39), PR of 52% (95% CI: 34, 69).
+Median duration of response was 13.5 months (95% CI: 9.4, 30.9).
+b Determined for subjects with CR or PR.
 NE = non-estimable
 
 B-symptoms were present in 22% (53/243) of the patients in CA209205 at baseline.
 Nivolumab treatment resulted in rapid resolution of B-symptoms in 88.7% (47/53) of the patients, with a median time to resolution of 1.9 months.
 
 In a post-hoc analysis of the 80 patients in CA209205 Cohort B, 37 had no response to prior brentuximab vedotin treatment.
-Among these 37 patients, treatment with nivolumab resulted in an ORR of 59.5% (22/37).
-The median duration of response is 18.0 months (6.6, NE) for the 22 responders to nivolumab who had failed to achieve response with prior brentuximab vedotin treatment.
-
+Among these 37 patients, treatment with nivolumab resulted in an ORR of 62.2% (23/37).
+The median duration of response is 25.6 months (10.6, 56.5) for the 23 responders to nivolumab who had failed to achieve response with prior brentuximab vedotin treatment.
 Squamous cell cancer of the head and neck
 
 The safety and efficacy of nivolumab 3 mg/kg as a single agent for the treatment of metastatic or recurrent SCCHN were evaluated in a phase 3, randomised, open-label study (CA209141).
@@ -1658,10 +1650,8 @@ Median (95% CI) months 5.9 (4.37, 8.08) 11.6 (9.10, NE)
 Rate (95% CI) at 12 months 34.0 (26.1, 42.1) 49.2 (39.6, 58.1)
 
 “+” denotes a censored observation.
-
 a median follow-up 11.5 months.
 b Data unstable due to the limited duration of response.
-
 c included 4 drug-related deaths: 1 pneumonitis, 1 acute respiratory failure, 1 respiratory failure, and 1 cardiovascular failure.
 NE: non-estimable
 
@@ -1732,7 +1722,8 @@ The safety and efficacy of nivolumab 240 mg monotherapy for the treatment of unr
 The study included adult patients (20 years or older) who were refractory or intolerant to at least one fluoropyrimidine- and platinum-based combination regimen, and patients were enrolled regardless of tumour PD-L1 expression level.
 Patients who were refractory or intolerant to taxane therapy, had brain metastases that were symptomatic or required treatment, had active autoimmune disease, medical conditions requiring systemic immunosuppression, and patients with apparent tumour invasion in organs located adjacent to the oesophagus (e.g. the aorta or respiratory tract), were excluded from the study.
 
-A total of 419 patients were randomised 1:1 to receive either nivolumab 240 mg administered intravenously over 30 minutes every 2 weeks (n=210) or investigator’s choice of taxane chemotherapy: either docetaxel (n=65) 75 mg/m2 intravenously every 3 weeks, or paclitaxel (n=144) 100 mg/m2 intravenously once a week for 6 weeks followed by 1 week off.
+A total of 419 patients were randomised 1:1 to receive either nivolumab 240 mg administered intravenously over 30 minutes every 2 weeks (n = 210) or investigator’s choice of taxane chemotherapy: either docetaxel (n = 65) 75 mg/m2 intravenously every 3 weeks, or paclitaxel
+(n = 144) 100 mg/m2 intravenously once a week for 6 weeks followed by 1 week off.
 Randomisation was stratified by location (Japan vs. rest of world), number of organs with metastases (≤1 vs. ≥2) and tumour PD-L1 expression (≥1% vs. <1% or indeterminate).
 Treatment continued until disease progression, assessed by the investigator per RECIST version 1.1, or unacceptable toxicity.
 Tumour assessments were conducted every 6 weeks for 1 year, and every 12 weeks thereafter.
@@ -1743,7 +1734,7 @@ Additional prespecified subgroup analyses were conducted to evaluate the efficac
 Tumour PD-L1 expression was determined using the PD-L1 IHC 28-8 pharmDx assay.
 
 Baseline characteristics were generally balanced between the two groups.
-The median age was 65 years (range: 33 to 87 years), 53% were ≥65 years of age, 10% were aged ≥75 years, 87% were male, 96% were Asian and 4% were white.
+The median age was 65 years (range: 33-87), 53% were ≥65 years of age, 10% were aged ≥75 years, 87% were male, 96% were Asian and 4% were white.
 Baseline ECOG performance status was 0 (50%) or 1 (50%).
 
 With a minimum follow-up of 17.6 months, the study demonstrated a statistically significant improvement in OS for patients randomised to nivolumab as compared with investigator’s choice taxane chemotherapy.
@@ -1758,7 +1749,7 @@ nivolumab investigator’s choice
 
 Overall Survivala
 
-Events (%) 160 (76%) 173 (83%)
+Events 160 (76%) 173 (83%)
 Hazard ratio (95% CI)b 0.77 (0.62, 0.96)
 p-valuec 0.0189
 Median (95% CI) (months) 10.9 (9.2, 13.3) 8.4 (7.2, 9.9)
@@ -1771,7 +1762,7 @@ Median duration of response (95% CI) (months) 6.9 (5.4, 11.1) 3.9 (2.8, 4.2)
 
 Progression-Free Survivala
 
-Events (%) 187 (89%) 176 (84%)
+Events 187 (89%) 176 (84%)
 Median (95% CI) (months) 1.7 (1.5, 2.7) 3.4 (3.0, 4.2)
 Hazard ratio (95% CI)b 1.1 (0.9, 1.3)
 
@@ -1803,7 +1794,7 @@ The study included adult patients who had received CRT, followed by complete sur
 Patients with a baseline performance score ≥ 2, who did not receive concurrent CRT prior to surgery, with stage IV resectable disease, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the study.
 Patients were enrolled regardless of tumour PD-L1 expression level.
 
-A total of 794 patients were randomised 2:1 to receive either nivolumab 240 mg (n=532) or placebo (n=262).
+A total of 794 patients were randomised 2:1 to receive either nivolumab 240 mg (n = 532) or placebo (n = 262).
 Patients were administered nivolumab intravenously over 30 minutes every 2 weeks for 16 weeks followed by 480 mg infused over 30 minutes every 4 weeks beginning at week 17.
 Patients were administered placebo over 30 minutes with the same dosing schedule as nivolumab.
 Randomisation was stratified by tumour PD-L1 status (≥1% vs. <1% or indeterminate or non-evaluable), pathologic lymph node status (positive ≥ypN1 vs. negative ypN0), and histology (squamous vs. adenocarcinoma).
@@ -1829,7 +1820,7 @@ nivolumab placebo
 
 Disease-free Survivala with minimum follow-up 14 monthsc
 
-Events (%) 268 (50%) 171(65%)
+Events 268 (50%) 171(65%)
 Hazard ratio (96.4% CI)b 0.67 (0.55, 0.81)
 Median (95% CI) (months) 22.4 (17.0, 33.6) 10.4 (8.3, 13.9)
 Rate (95% CI) at 6 months 72.6 (68.5, 76.3) 61.5 (55.3, 67.1)
@@ -1853,6 +1844,74 @@ Nivolumab (events: 268/532), median and 95% CI: 22.41 (16.95, 33.64)
 Placebo (events: 171/262), median and 95% CI: 10.35 (8.31, 13.93)
 Based on data cut-off:18-Feb-2021, minimum follow-up of 14 months
 DFS benefit was observed regardless of histology and PD-L1 expression.
+
+Gastric, gastro-oesophageal junction or oesophageal adenocarcinoma
+
+The safety and efficacy of nivolumab 240 mg every 2 weeks or 360 mg every 3 weeks in combination with chemotherapy (dose and schedule of nivolumab selected depending on the chemotherapy regimen used, see below) was evaluated in a phase 3, randomised, open-label study (CA209649).
+The study included adult patients (18 years or older) with previously untreated advanced or metastatic gastric, gastro-oesophageal junction (GEJ) or oesophageal adenocarcinoma, no prior systemic treatment (including HER2 inhibitors), and ECOG performance status score 0 or 1.
+Patients were enrolled regardless of their tumour cell PD-L1 status, and tumour cell PD-L1 expression was determined using the PD-L1 IHC 28-8 pharmDx assay.
+A retrospective re-scoring of a patient’s tumour PD-L1 status using CPS was conducted using the PD-L1-stained tumour specimens used for randomisation.
+Patients with known HER2-positive tumours, who had baseline ECOG performance score ≥ 2, untreated central nervous system metastases, or who had active, known, or suspected autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the study.
+A total of 643 patients with HER2-undetermined status (40.3% of the study population) were included in the study.
+Randomisation was stratified by tumour cell PD-L1 status (≥ 1% vs. < 1% or indeterminate), region (Asia vs. US vs. rest of world), ECOG performance status (0 vs. 1), and chemotherapy regimen.
+Chemotherapy consisted of FOLFOX (fluorouracil, leucovorin and oxaliplatin) or CapeOX (capecitabine and oxaliplatin).
+
+A total of 1581 patients were randomised to receive either nivolumab in combination with chemotherapy or chemotherapy.
+Of these, 955 patients had PD-L1 CPS ≥ 5; 473 in the nivolumab plus chemotherapy arm and 482 in the chemotherapy arm.
+Patients in the nivolumab plus chemotherapy arm received either nivolumab 240 mg by intravenous infusion over 30 minutes in combination with FOLFOX (oxaliplatin 85 mg/m2, leucovorin 400 mg/m2 and fluorouracil 400 mg/m2 intravenously on day 1 and fluorouracil 1200 mg/m2 intravenously by continuous infusion over 24 hours daily or per local standard on days 1 and 2) every 2 weeks, or nivolumab 360 mg by intravenous infusion over 30 minutes in combination with CapeOX (oxaliplatin 130 mg/m2 intravenously on day 1 and capecitabine 1000 mg/m2 orally twice daily on days 1-14) every 3 weeks.
+Treatment continued until disease progression, unacceptable toxicity, or for up to 24 months for nivolumab only.
+In patients who received nivolumab plus chemotherapy and in whom chemotherapy was discontinued, nivolumab monotherapy was allowed to be given at 240 mg every 2 weeks, 360 mg every 3 weeks or 480 mg every 4 weeks up to 24 months after treatment initiation.
+Tumour assessments were performed every 6 weeks up to and including week 48, then every 12 weeks thereafter.
+
+Baseline characteristics were generally balanced across treatment groups.
+In patients with PD-L1
+CPS ≥ 5, the median age was 62 years (range: 18-90), 11% were ≥ 75 years of age, 71% were male, 25% were Asian and 69% were white.
+Baseline ECOG performance status was 0 (42%) or 1 (58%).
+Tumour locations were distributed as gastric (70%), GEJ (18%) and oesophagus (12%).
+
+Primary efficacy outcome measures were PFS (by BICR) and OS assessed in patients with PD-L1 CPS ≥ 5 based on the PD-L1 IHC 28-8 pharmDX.
+Secondary endpoints per the pre-specified hierarchical testing were OS in patients with PD-L1 CPS ≥ 1 and in all randomised patients; further endpoints included ORR (BICR) in PD-L1 CPS ≥ 5 and all randomised patients.
+At the primary pre-specified analysis, with a minimum follow-up of 12.1 months, the study demonstrated a statistically significant improvement in OS and PFS in patients with PD-L1 CPS ≥ 5.
+Median OS was 14.4 months (95% CI: 13.1, 16.2) for nivolumab in combination with chemotherapy vs. 11.1 months (95% CI: 10.0, 12.1) for chemotherapy (HR = 0.71; 98.4% CI: 0.59, 0.86; p-value <0.0001).
+Median PFS was 7.69 months (95% CI: 7.03, 9.17) for nivolumab in combination with chemotherapy vs. 6.05 months (95% CI: 5.55, 6.90) for chemotherapy (HR = 0.68; 98% CI: 0.56, 0.81; p-value <0.0001).
+The ORR was 60% (95% CI: 55, 65) for nivolumab in combination with chemotherapy vs. 45%
+(95% CI: 40, 50) for chemotherapy.
+
+At an updated descriptive analysis with a minimum follow-up of 19.4 months, OS improvements were consistent with the primary analysis.
+Efficacy results are shown in Table 39, and Figures 21, and 22.
+Table 39: Efficacy results in patients with PD-L1 CPS ≥ 5 (CA209649)
+
+|  | nivolumab + chemotherapy (n = 473) |
+| --- | --- |
+|  | Minimum follow-up 19.4 monthsa |
+| Overall survival Events Hazard ratio (95% CI)b Median (95% CI) (months)c Rate (95% CI) at 12 months Progression-free survivald Events Hazard ratio (CI)b Median (95% CI) (months)c Rate (95% CI) at 12 months Objective response rate, nd,e (95% CI) Complete response Partial response Duration of responsed,e Median (95% CI) (months)c | 344 (73%) 0.69 (0.6 14.4 (13.1, 16.3) 57.3 (52.6, 61.6) 342 (72.3%) 0.68 (0.5 8.31 (7.03, 9.26) 36.3 (31.7, 41.0) 227/378 (60%) (54.9, 65.0) 12.2% 47.9% 9.69 (8.25, 12.22) |
+
+a Descriptive analysis based on data cut-off: 04-Jan-2021.
+b Based on stratified long Cox proportional hazard model.
+c Kaplan-Meier estimate.
+d Confirmed by BICR.
+e Based on patients with measurable disease at baseline.
+
+Figure 21: Kaplan-Meier curves of OS in patients with PD-L1 CPS ≥ 5 (CA209649)
+Overall survival (months)
+
+Number of subjects at risk
+Nivolumab + chemotherapy
+473 439 378 314 263 223 187 155 118 78 56 37 23 13 4 0 Chemotherapy
+482 421 350 272 213 152 122 92 68 44 28 16 8 2 0 0
+
+Nivolumab + chemotherapy (events: 344/473), median and 95% CI: 14.42 (13.14, 16.26) Chemotherapy (events: 397/482), median and 95% CI: 11.10 (10.02, 12.09)
+Minimum follow-up of 19.4 months
+Figure 22: Kaplan-Meier curves of PFS in patients with PD-L1 CPS ≥ 5 (CA209649)
+
+Progression free survival (months)
+Number of subjects at risk
+Nivolumab + chemotherapy
+473 386 259 186 143 115 88 67 47 31 20 11 4 1 0 Chemotherapy
+482 328 202 114 81 58 46 30 20 16 12 7 3 0 0
+
+Nivolumab + chemotherapy (events: 342/473), median and 95% CI: 8.31 (7.03, 9.26) Chemotherapy (events: 397/482), median and 95% CI: 6.05 (5.55, 6.90)
+Minimum follow-up of 19.4 months
 
 Safety and efficacy in elderly patients
 No overall differences in safety or efficacy were reported between elderly (≥ 65 years) and younger patients (< 65 years).

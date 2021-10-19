@@ -21,6 +21,9 @@ Based on this prescribed dose, calculate the total dose to be given.
 Nivolumab in combination with ipilimumab in MPM
 The prescribed dose for the patient is 360 mg given regardless of body weight.
 
+Nivolumab in combination with chemotherapy
+The prescribed dose for the patient is 360 mg or 240 mg given regardless of body weight.
+
 Nivolumab in combination with ipilimumab and chemotherapy
 The prescribed dose for the patient is 360 mg given regardless of body weight.
 
@@ -63,7 +66,6 @@ Use a separate infusion line for the infusion.
 Use an infusion set and an in-line, sterile, non-pyrogenic, low protein binding filter (pore size of 0.2 μm to 1.2 μm).
 
 OPDIVO infusion is compatible with PVC and polyolefin containers, glass bottles, PVC infusion sets and in-line filters with polyethersulfone membranes with pore sizes of 0.2 µm to 1.2 µm.
-
 After administration of the nivolumab dose, flush the line with sodium chloride 9 mg/mL (0.9%) solution for injection or 50 mg/mL (5%) glucose solution for injection.
 
 Disposal

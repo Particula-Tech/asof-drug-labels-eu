@@ -1,6 +1,10 @@
 # 4.2 Posology and method of administration
 
 Treatment must be initiated and supervised by physicians experienced in the treatment of cancer.
+
+PD-L1 testing
+If specified in the indication, patient selection for treatment with OPDIVO based on the tumour expression of PD-L1 should be confirmed by a validated test (see sections 4.1, 4.4, and 5.1).
+
 Posology
 
 OPDIVO as monotherapy
@@ -27,7 +31,6 @@ This is then followed by a second phase in which nivolumab monotherapy is admini
 For the monotherapy phase, the first dose of nivolumab should be administered;
  3 weeks after the last dose of the combination of nivolumab and ipilimumab if using 240 mg every 2 weeks; or
  6 weeks after the last dose of the combination of nivolumab and ipilimumab if using 480 mg every 4 weeks.
-
 Table 2: Recommended doses and infusion times for intravenous administration of nivolumab in combination with ipilimumab for melanoma
 
 |  | Combination phase, every 3 weeks for 4 dosing cycles | Monotherapy phase |
@@ -71,6 +74,13 @@ Non-small cell lung cancer
 The recommended dose is 360 mg nivolumab administered intravenously over 30 minutes every 3 weeks in combination with 1 mg/kg ipilimumab administered intravenously over 30 minutes every 6 weeks, and platinum-based chemotherapy administered every 3 weeks.
 After completion of 2 cycles of chemotherapy, treatment is continued with 360 mg nivolumab administered intravenously every 3 weeks in combination with 1 mg/kg ipilimumab every 6 weeks.
 Treatment is recommended until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
+
+OPDIVO in combination with chemotherapy
+
+Gastric, gastro-oesophageal junction or oesophageal adenocarcinoma
+The recommended dose is 360 mg nivolumab administered intravenously over 30 minutes in combination with fluoropyrimidine- and platinum-based chemotherapy administered every 3 weeks or 240 mg nivolumab administered intravenously over 30 minutes in combination with fluoropyrimidine-and platinum-based chemotherapy administered every 2 weeks (see section 5.1).
+Treatment with nivolumab is recommended until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
+
 Duration of treatment
 Treatment with OPDIVO, either as a monotherapy or in combination with ipilimumab, should be continued as long as clinical benefit is observed or until treatment is no longer tolerated by the patient (and up to maximum duration of therapy if specified for an indication).
 
@@ -94,25 +104,23 @@ Table 5: Recommended treatment modifications for OPDIVO or OPDIVO in combination
 | Immune-related adverse reaction | Severity |
 | --- | --- |
 | Immune-related pneumonitis | Grade 2 pneumonitis Grade 3 or 4 pneumonitis |
-| Immune-related colitis | Grade 2 diarrhoea or colitis Grade 3 diarrhoea or colitis - OPDIVO monotherapy - OPDIVO+ipilimumaba Grade 4 diarrhoea or colitis |
-| Immune-related hepatitis NOTE: for RCC patients treated with OPDIVO in combination with | Grade 2 elevation in aspartate aminotransferase (AST), alanine aminotransferase (ALT), or total bilirubin Grade 3 or 4 elevation in AST, ALT, or total bilirubin |
 
 resolve, radiographic abnormalities
-
-resolve and management with corticosteroids, if needed, is complete
-
-resolve and management with corticosteroids is complete
-
-cabozantinib with liver enzyme elevations, see dosing guidelines following this table.
 Table 5: Recommended treatment modifications for OPDIVO or OPDIVO in combination
 
 | Immune-related adverse reaction | Severity |
 | --- | --- |
+| Immune-related colitis | Grade 2 diarrhoea or colitis Grade 3 diarrhoea or colitis - OPDIVO monotherapy - OPDIVO+ipilimumaba Grade 4 diarrhoea or colitis |
+| Immune-related hepatitis NOTE: for RCC patients treated with OPDIVO in combination with cabozantinib with liver enzyme elevations, see dosing guidelines following this table. | Grade 2 elevation in aspartate aminotransferase (AST), alanine aminotransferase (ALT), or total bilirubin Grade 3 or 4 elevation in AST, ALT, or total bilirubin |
 | Immune-related nephritis and renal dysfunction | Grade 2 or 3 creatinine elevation Grade 4 creatinine elevation |
 | Immune-related endocrinopathies | Symptomatic Grade 2 or 3 hypothyroidism, hyperthyroidism, hypophysitis, Grade 2 adrenal insufficiency Grade 3 diabetes Grade 4 hypothyroidism Grade 4 hyperthyroidism Grade 4 hypophysitis Grade 3 or 4 adrenal insufficiency Grade 4 diabetes |
 | Immune-related skin adverse reactions | Grade 3 rash Grade 4 rash Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) |
 | Immune-related myocarditis | Grade 2 myocarditis Grade 3 or 4 myocarditis |
-| Other immune-related adverse reactions | Grade 3 (first occurrence) Grade 4 or recurrent Grade 3 ; persistent Grade 2 or 3 despite treatment modification; inability to reduce corticosteroid dose to 10 mg prednisone or equivalent per day |
+| Other immune-related adverse reactions | Grade 3 (first occurrence) |
+
+resolve and management with corticosteroids, if needed, is complete
+
+resolve and management with corticosteroids is complete
 
 presence of hormone replacement
 
@@ -121,6 +129,11 @@ present
 resolve and management with corticosteroids is complete
 
 resolve and management with
+Table 5: Recommended treatment modifications for OPDIVO or OPDIVO in combination
+
+| Immune-related adverse reaction | Severity |
+| --- | --- |
+|  | Grade 4 or recurrent Grade 3 ; persistent Grade 2 or 3 despite treatment modification; inability to reduce corticosteroid dose to 10 mg prednisone or equivalent per day |
 
 Note: Toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0 (NCI-CTCAE v4).
 a During administration of the second phase of treatment (nivolumab monotherapy) following combination treatment, permanently discontinue treatment if Grade 3 diarrhoea or colitis occurs.
@@ -133,8 +146,14 @@ OPDIVO as monotherapy or in combination with other therapeutic agents should be 
 - Persistent Grade 2 or 3 adverse reactions despite management.
 
 Patients treated with OPDIVO must be given the patient alert card and be informed about the risks of OPDIVO (see also package leaflet).
+
 When OPDIVO is administered in combination with ipilimumab, if either agent is withheld, the other agent should also be withheld.
 If dosing is resumed after a delay, either the combination treatment or OPDIVO monotherapy could be resumed based on the evaluation of the individual patient.
+
+When OPDIVO is administered in combination with chemotherapy, refer to the SmPC of the other combination therapy agents regarding dosing.
+Dose escalation or reduction is not recommended for OPDIVO.
+If any agents are withheld, the other agents may be continued.
+If dosing is resumed after a delay, either the combination treatment, OPDIVO monotherapy or chemotherapy alone could be resumed based on the evaluation of the individual patient.
 
 OPDIVO in combination with cabozantinib in RCC
 When OPDIVO is used in combination with cabozantinib, the above treatment modifications in
@@ -155,7 +174,6 @@ No data are available.
 
 Elderly
 No dose adjustment is required for elderly patients (≥ 65 years) (see section 5.2).
-
 Renal impairment
 Based on the population pharmacokinetic (PK) results, no dose adjustment is required in patients with mild or moderate renal impairment (see section 5.2).
 Data from patients with severe renal impairment are too limited to draw conclusions on this population.
@@ -175,7 +193,7 @@ OPDIVO must not be administered as an intravenous push or bolus injection.
 
 The total dose of OPDIVO required can be infused directly as a 10 mg/mL solution or can be diluted with sodium chloride 9 mg/mL (0.9%) solution for injection or glucose 50 mg/mL (5%) solution for injection (see section 6.6).
 
-When administered in combination with ipilimumab or in combination with ipilimumab and chemotherapy, OPDIVO should be given first followed by ipilimumab and then by chemotherapy on the same day.
+When administered in combination with ipilimumab and/or chemotherapy, OPDIVO should be given first followed by ipilimumab (if applicable) and then by chemotherapy on the same day.
 Use separate infusion bags and filters for each infusion.
 
 For instructions on the preparation and handling of the medicinal product before administration, see section 6.6.

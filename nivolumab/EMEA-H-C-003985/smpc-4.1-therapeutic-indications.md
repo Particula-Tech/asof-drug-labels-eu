@@ -50,3 +50,7 @@ OPDIVO as monotherapy is indicated for the treatment of adult patients with unre
 Adjuvant treatment of oesophageal or gastro-oesophageal junction cancer (OC or GEJC)
 
 OPDIVO as monotherapy is indicated for the adjuvant treatment of adult patients with oesophageal or gastro-oesophageal junction cancer who have residual pathologic disease following prior neoadjuvant chemoradiotherapy (see section 5.1).
+
+Gastric, gastro-oesophageal junction (GEJ) or oesophageal adenocarcinoma
+
+OPDIVO in combination with fluoropyrimidine- and platinum-based combination chemotherapy is indicated for the first-line treatment of adult patients with HER2-negative advanced or metastatic gastric, gastro-oesophageal junction or oesophageal adenocarcinoma whose tumours express PD-L1 with a combined positive score (CPS) ≥ 5.

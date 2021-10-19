@@ -25,6 +25,7 @@ Special populations
 
 A population PK analysis suggested no difference in CL of nivolumab based on age, gender, race, solid tumour type, tumour size, and hepatic impairment.
 Although ECOG status, baseline glomerular filtration rate (GFR), albumin, body weight, and mild hepatic impairment had an effect on nivolumab CL, the effect was not clinically meaningful.
+
 Renal impairment
 The effect of renal impairment on the CL of nivolumab was evaluated in patients with mild
 (GFR < 90 and ≥ 60 mL/min/1.73 m2; n = 379), moderate (GFR < 60 and ≥ 30 mL/min/1.73 m2;
