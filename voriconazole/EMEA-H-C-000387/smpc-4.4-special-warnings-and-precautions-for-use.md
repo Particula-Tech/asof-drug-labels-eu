@@ -27,7 +27,6 @@ Monitoring of hepatic function
 Patients receiving VFEND must be carefully monitored for hepatic toxicity.
 Clinical management should include laboratory evaluation of hepatic function (specifically AST and ALT) at the initiation of treatment with VFEND and at least weekly for the first month of treatment.
 Treatment duration should be as short as possible; however, if based on the benefit-risk assessment the treatment is continued (see section 4.2), monitoring frequency can be reduced to monthly if there are no changes in the liver function tests.
-
 If the liver function tests become markedly elevated, VFEND should be discontinued, unless the medical judgment of the risk-benefit of the treatment for the patient justifies continued use.
 
 Monitoring of hepatic function should be carried out in both children and adults.
@@ -52,11 +51,14 @@ Severe cutaneous adverse reactions (SCARs) including Stevens-Johnson syndrome (S
 If a patient develops a rash he should be monitored closely and VFEND discontinued if lesions progress.
 
 Adrenal events
-Adrenal insufficiency has been reported in patients receiving other azoles (e.g., ketoconazole).
-
-Reversible cases of adrenal insufficiency have been reported in patients receiving voriconazole.
+Reversible cases of adrenal insufficiency have been reported in patients receiving azoles, including voriconazole.
+Adrenal insufficiency has been reported in patients receiving azoles with or without concomitant corticosteroids.
+In patients receiving azoles without corticosteroids, adrenal insufficiency is related to direct inhibition of steroidogenesis by azoles.
+In patients taking corticosteroids, voriconazole associated CYP3A4 inhibition of their metabolism may lead to corticosteroid excess and adrenal suppression (see section 4.5).
+Cushing’s syndrome with and without subsequent adrenal insufficiency has also been reported in patients receiving voriconazole concomitantly with corticosteroids.
 
 Patients on long-term treatment with voriconazole and corticosteroids (including inhaled corticosteroids e.g., budesonide and intranasal corticosteroids) should be carefully monitored for adrenal cortex dysfunction both during treatment and when voriconazole is discontinued (see section 4.5).
+Patients should be instructed to seek immediate medical care if they develop signs and symptoms of Cushing’s syndrome or adrenal insufficiency.
 
 Long-term treatment
 Long term exposure (treatment or prophylaxis) greater than 180 days (6 months) requires careful assessment of the benefit-risk balance and physicians should therefore consider the need to limit the exposure to VFEND (see sections 4.2 and 5.1).
@@ -65,7 +67,6 @@ Squamous cell carcinoma of the skin (SCC) has been reported in relation with lon
 
 Non-infectious periostitis with elevated fluoride and alkaline phosphatase levels has been reported in transplant patients.
 If a patient develops skeletal pain and radiologic findings compatible with periostitis VFEND discontinuation should be considered after multidisciplinary advice.
-
 Visual adverse reactions
 There have been reports of prolonged visual adverse reactions, including blurred vision, optic neuritis and papilloedema (see section 4.8).
 
@@ -105,6 +106,13 @@ Concomitant use of voriconazole and phenytoin should be avoided unless the benef
 Efavirenz (CYP450 inducer; CYP3A4 inhibitor and substrate)
 When voriconazole is coadministered with efavirenz the dose of voriconazole should be increased to 400 mg every 12 hours and the dose of efavirenz should be decreased to 300 mg every 24 hours (see sections 4.2, 4.3 and 4.5).
 
+Glasdegib (CYP3A4 substrate)
+Coadministration of voriconazole is expected to increase glasdegib plasma concentrations and increase the risk of QTc prolongation (see section 4.5).
+If concomitant use cannot be avoided, frequent ECG monitoring is recommended.
+
+Tyrosine kinase inhibitors (CYP3A4 substrate)
+Coadministration of voriconazole with tyrosine kinase inhibitors metabolised by CYP3A4 is expected to increase tyrosine kinase inhibitor plasma concentrations and the risk of adverse reactions.
+If concomitant use cannot be avoided, dose reduction of the tyrosine kinase inhibitor and close clinical monitoring is recommended (see section 4.5).
 Rifabutin (Potent CYP450 inducer)
 Careful monitoring of full blood counts and adverse reactions to rifabutin (e.g., uveitis) is recommended when rifabutin is coadministered with voriconazole.
 Concomitant use of voriconazole and rifabutin should be avoided unless the benefit outweighs the risk (see section 4.5).
@@ -116,19 +124,16 @@ Everolimus (CYP3A4 substrate, P-gp substrate)
 Coadministration of voriconazole with everolimus is not recommended because voriconazole is expected to significantly increase everolimus concentrations.
 Currently there are insufficient data to allow dosing recommendations in this situation (see section 4.5).
 
-Naloxegol (CYP3A4 substrate)
-Coadministration of voriconazole and naloxegol is not recommended because voriconazole is expected to significantly increase naloxegol concentrations.
-Currently there are insufficient data to allow dosing recommendations of naloxegol in this situation (see section 4.5).
-
 Methadone (CYP3A4 substrate)
 Frequent monitoring for adverse reactions and toxicity related to methadone, including QTc prolongation, is recommended when coadministered with voriconazole since methadone levels increased following coadministration of voriconazole.
 Dose reduction of methadone may be needed (see section 4.5).
 
 Short-acting opiates (CYP3A4 substrate)
 Reduction in the dose of alfentanil, fentanyl and other short-acting opiates similar in structure to alfentanil and metabolised by CYP3A4 (e.g., sufentanil) should be considered when coadministered with voriconazole (see section 4.5).
-As the half-life of alfentanil is prolonged in a 4-fold manner when alfentanil is coadministered with voriconazole, and in an independent published study concomitant use of voriconazole with fentanyl resulted in an increase in the mean AUC0-∞ of fentanyl, frequent monitoring for opiate-associated adverse reactions (including a longer respiratory monitoring period) may be necessary.
+As the half-life of alfentanil is prolonged in a 4-fold manner when alfentanil is coadministered with voriconazole, and in an independent published study concomitant use of voriconazole with fentanyl resulted in an increase in the mean AUC0-∞of fentanyl, frequent monitoring for opiate-associated adverse reactions (including a longer respiratory monitoring period) may be necessary.
+
 Long-acting opiates (CYP3A4 substrate)
-Reduction in the dose of oxycodone and other long-acting opiates metabolized by CYP3A4 (e.g., hydrocodone) should be considered when coadministered with voriconazole.
+Reduction in the dose of oxycodone and other long-acting opiates metabolised by CYP3A4 (e.g., hydrocodone) should be considered when coadministered with voriconazole.
 Frequent monitoring for opiate-associated adverse reactions may be necessary (see section 4.5).
 
 Fluconazole (CYP2C9, CYP2C19 and CYP3A4 inhibitor)

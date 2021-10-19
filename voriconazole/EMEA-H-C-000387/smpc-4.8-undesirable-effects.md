@@ -3,7 +3,6 @@
 Summary of safety profile
 The safety profile of voriconazole in adults is based on an integrated safety database of more than 2,000 subjects (including 1,603 adult patients in therapeutic trials) and an additional 270 adults in prophylaxis trials.
 This represents a heterogeneous population, containing patients with haematological malignancy, HIV-infected patients with oesophageal candidiasis and refractory fungal infections, non-neutropenic patients with candidaemia or aspergillosis and healthy volunteers.
-
 The most commonly reported adverse reactions were visual impairment, pyrexia, rash, vomiting, nausea, diarrhoea, headache, peripheral oedema, liver function test abnormal, respiratory distress and abdominal pain.
 
 The severity of the adverse reactions was generally mild to moderate.
@@ -54,7 +53,6 @@ See section 4.4.
 9 Includes dyspnoea and dyspnoea exertional.
 10 Includes drug-induced liver injury, hepatitis toxic, hepatocellular injury and hepatotoxicity.
 11 Includes periorbital oedema, lip oedema, and oedema mouth.
-
 Description of selected adverse reactions
 
 Visual impairments

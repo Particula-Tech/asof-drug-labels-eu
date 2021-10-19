@@ -2,6 +2,7 @@
 
 Posology
 Electrolyte disturbances such as hypokalaemia, hypomagnesaemia and hypocalcaemia should be monitored and corrected, if necessary, prior to initiation and during voriconazole therapy (see section 4.4).
+
 VFEND is also available as 200 mg powder for solution for infusion, 200 mg powder and solvent for solution for infusion and 40 mg/ml powder for oral suspension.
 
 Treatment
@@ -32,7 +33,7 @@ If patient is unable to tolerate treatment at a higher dose, reduce the oral dos
 In case of use as prophylaxis, refer below.
 
 Children (2 to <12 years) and young adolescents with low body weight (12 to 14 years and <50 kg)
-Voriconazole should be dosed as children as these young adolescents may metabolize voriconazole more similarly to children than to adults.
+Voriconazole should be dosed as children as these young adolescents may metabolise voriconazole more similarly to children than to adults.
 
 The recommended dosing regimen is as follows:
 
@@ -42,9 +43,9 @@ The recommended dosing regimen is as follows:
 | Maintenance Dose (after first 24 hours) | 8 mg/kg twice daily | 9 mg/kg twice daily (a maximum dose of 350 mg twice daily) |
 
 Note: Based on a population pharmacokinetic analysis in 112 immunocompromised paediatric patients aged 2 to <12 years and 26 immunocompromised adolescents aged 12 to <17 years.
-
 It is recommended to initiate the therapy with intravenous regimen, and oral regimen should be considered only after there is a significant clinical improvement.
 It should be noted that an 8 mg/kg intravenous dose will provide voriconazole exposure approximately 2-fold higher than a 9 mg/kg oral dose.
+
 These oral dose recommendations for children are based on studies in which voriconazole was administered as the powder for oral suspension.
 Bioequivalence between the powder for oral suspension and tablets has not been investigated in a paediatric population.
 Considering the assumed limited gastro-enteric transit time in paediatric patients, the absorption of tablets may be different in paediatric compared to adult patients.
@@ -79,17 +80,17 @@ Dosage adjustment
 For prophylaxis use, dose adjustments are not recommended in the case of lack of efficacy or treatment-related adverse events.
 In the case of treatment-related adverse events, discontinuation of voriconazole and use of alternative antifungal agents must be considered (see section 4.4 and 4.8)
 
-Dosage adjustments in case of co-administration
+Dosage adjustments in case of coadministration
 Phenytoin may be coadministered with voriconazole if the maintenance dose of voriconazole is increased from 200 mg to 400 mg orally, twice daily (100 mg to 200 mg orally, twice daily in patients less than 40 kg), see sections 4.4 and 4.5.
 
 The combination of voriconazole with rifabutin should, if possible be avoided.
 However, if the combination is strictly needed, the maintenance dose of voriconazole may be increased from 200 mg to 350 mg orally, twice daily (100 mg to 200 mg orally, twice daily in patients less than 40 kg), see sections 4.4 and 4.5.
-
 Efavirenz may be coadministered with voriconazole if the maintenance dose of voriconazole is increased to 400 mg every 12 hours and the efavirenz dose is reduced by 50%, i.e. to 300 mg once daily.
 When treatment with voriconazole is stopped, the initial dosage of efavirenz should be restored (see sections 4.4 and 4.5).
 
 Elderly
 No dose adjustment is necessary for elderly patients (see section 5.2).
+
 Renal impairment
 The pharmacokinetics of orally administered voriconazole are not affected by renal impairment.
 Therefore, no adjustment is necessary for oral dosing for patients with mild to severe renal impairment (see section 5.2).

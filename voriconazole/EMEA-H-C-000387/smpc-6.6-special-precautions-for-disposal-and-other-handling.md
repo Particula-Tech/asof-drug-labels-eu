@@ -25,7 +25,6 @@ Compound Sodium Lactate Intravenous Infusion
 5% Glucose and 0.9% Sodium Chloride Intravenous Infusion
 
 The compatibility of voriconazole with diluents other than described above or in section 6.2 is unknown.
-
 VFEND 200 mg powder and solvent for solution for infusion:
 Use only items provided in the box with VFEND powder and solvent for solution for infusion in the preparation of the infusion.
 

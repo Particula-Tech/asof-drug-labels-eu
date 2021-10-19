@@ -22,7 +22,6 @@ Distribution
 The volume of distribution at steady state for voriconazole is estimated to be 4.6 L/kg, suggesting extensive distribution into tissues.
 Plasma protein binding is estimated to be 58%.
 Cerebrospinal fluid samples from eight patients in a compassionate programme showed detectable voriconazole concentrations in all patients.
-
 Biotransformation
 In vitro studies showed that voriconazole is metabolised by the hepatic cytochrome P450 isoenzymes CYP2C19, CYP2C9 and CYP3A4.
 
@@ -43,6 +42,7 @@ Voriconazole is eliminated via hepatic metabolism with less than 2% of the dose 
 
 After administration of a radiolabelled dose of voriconazole, approximately 80% of the radioactivity is recovered in the urine after multiple intravenous dosing and 83% in the urine after multiple oral dosing.
 The majority (>94%) of the total radioactivity is excreted in the first 96 hours after both oral and intravenous dosing.
+
 The terminal half-life of voriconazole depends on dose and is approximately 6 hours at 200 mg (orally).
 Because of non-linear pharmacokinetics, the terminal half-life is not useful in the prediction of the accumulation or elimination of voriconazole.
 
@@ -81,7 +81,7 @@ In that case, intravenous voriconazole administration is recommended.
 
 Voriconazole exposures in the majority of adolescent patients were comparable to those in adults receiving the same dosing regimens.
 However, lower voriconazole exposure was observed in some young adolescents with low body weight compared to adults.
-It is likely that these subjects may metabolize voriconazole more similarly to children than to adults.
+It is likely that these subjects may metabolise voriconazole more similarly to children than to adults.
 Based on the population pharmacokinetic analysis, 12- to 14-year-old adolescents weighing less than 50 kg should receive children’s doses (see section 4.2).
 
 Renal impairment
@@ -102,7 +102,7 @@ No significant differences in Cmax and AUCτ were observed between healthy elder
 An 8 mg/kg intravenous dose will provide voriconazole exposure approximately
 2-fold higher than a 9 mg/kg oral dose.
 
-It is likely that these subjects may metabolize voriconazole more similarly to children than to adolescents/adults.
+It is likely that these subjects may metabolise voriconazole more similarly to children than to adolescents/adults.
 
 In patients with moderate to severe renal dysfunction (serum creatinine levels > 2.5 mg/dl), accumulation of the intravenous vehicle, SBECD, occurs (see sections 4.2 and 4.4).
 
@@ -110,7 +110,5 @@ In patients with moderate to severe renal dysfunction (serum creatinine levels >
 
 Bioequivalence was established between the 200 mg tablet and the 40 mg/ml oral suspension when administered as a 200 mg dose.
 When multiple doses of voriconazole oral suspension are administered with high fat meals, Cmax and AUCτ are reduced by 58% and 37% respectively.
-
-A relationship between plasma concentrations and age was observed.The safety profile of voriconazole in young and elderly patients was similar and, therefore, no dosage adjustment is necessary for the elderly (see section 4.2).
 
 In an oral single-dose (200 mg) study in subjects with normal renal function and mild (creatinine clearance 41-60 ml/min) to severe (creatinine clearance <20 ml/min) renal impairment, the pharmacokinetics of voriconazole were not significantly affected by renal impairment.
