@@ -1,8 +1,8 @@
 # 4.1 Therapeutic indications
 
-Steglatro is indicated in adults aged 18 years and older with type 2 diabetes mellitus as an adjunct to diet and exercise to improve glycaemic control:
+Steglatro is indicated for the treatment of adults with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise:
 
-- as monotherapy in patients for whom the use of metformin is considered inappropriate due to intolerance or contraindications.
+- as monotherapy when metformin is considered inappropriate due to intolerance or contraindications.
 - in addition to other medicinal products for the treatment of diabetes.
 
-(For study results with respect to combinations and effects on glycaemic control see sections 4.4, 4.5, and 5.1.)
+For study results with respect to combinations of therapies, effects on glycaemic control, cardiovascular events, and the populations studied, see sections 4.4, 4.5, and 5.1.

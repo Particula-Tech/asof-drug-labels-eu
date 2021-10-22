@@ -27,9 +27,8 @@ Ertugliflozin did not adversely affect developmental outcomes in rats and rabbit
 At a maternally toxic dose in rats (250 mg/kg/day), lower foetal viability and a higher incidence of a visceral malformation were observed at maternal exposure that was 510 times the maximum clinical dose of 15 mg/day.
 
 In the pre- and postnatal development study, decreased postnatal growth and development were observed in rats administered ertugliflozin gestation day 6 through lactation day 21 at
-≥100 mg/kg/day (estimated 239 times the human exposure at the maximum clinical dose of 15 mg/day, based on AUC).
+≥ 100 mg/kg/day (estimated 239 times the human exposure at the maximum clinical dose of 15 mg/day, based on AUC).
 Sexual maturation was delayed in both sexes at 250 mg/kg/day (estimated 620 times the MRHD at 15 mg/day, based on AUC).
-
-When ertugliflozin was administered to juvenile rats from postnatal day (PND) 21 to PND 90, a period of renal development corresponding to the late second and third trimesters of human pregnancy, increased kidney weights, dilatation of the renal pelvis and tubules, and renal tubular mineralization were seen at an exposure 13 times the maximum clinical dose of 15 mg/day, based on AUC.
+When ertugliflozin was administered to juvenile rats from postnatal day (PND) 21 to PND 90, a period of renal development corresponding to the late second and third trimesters of human pregnancy, increased kidney weights, dilatation of the renal pelvis and tubules, and renal tubular mineralisation were seen at an exposure 13 times the maximum clinical dose of 15 mg/day, based on AUC.
 Effects on bone (shorter femur length, increased trabecular bone in the femur) as well as effects of delayed puberty were observed at an exposure 817 times the MRHD of 15 mg/day based on AUC.
 The effects on kidney and bone did not fully reverse after the 1-month recovery period.

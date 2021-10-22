@@ -2,16 +2,16 @@
 
 General introduction
 The pharmacokinetics of ertugliflozin are similar in healthy subjects and patients with type 2 diabetes.
-The steady state mean plasma AUC and Cmax were 398 ng∙hr/ml and 81 ng/ml, respectively, with 5 mg ertugliflozin once daily treatment, and 1,193 ng∙hr/ml and 268 ng/ml, respectively, with 15 mg ertugliflozin once daily treatment.
+The steady state mean plasma AUC and Cmax were 398 ng∙hr/mL and 81 ng/mL, respectively, with 5 mg ertugliflozin once daily treatment, and 1,193 ng∙hr/mL and 268 ng/mL, respectively, with 15 mg ertugliflozin once daily treatment.
 Steady-state is reached after 4 to 6 days of once-daily dosing with ertugliflozin.
 Ertugliflozin does not exhibit time-dependent pharmacokinetics and accumulates in plasma up to 10-40% following multiple dosing.
 
 Absorption
-Following single-dose oral administration of 5 mg and 15 mg of ertugliflozin, peak plasma concentrations (median Tmax) of ertugliflozin occur at 1 hour postdose under fasted conditions.
+Following single-dose oral administration of 5 mg and 15 mg of ertugliflozin, peak plasma concentrations (median Tmax) of ertugliflozin occur at 1 hour post-dose under fasted conditions.
 Plasma Cmax and AUC of ertugliflozin increase in a dose-proportional manner following single doses from 0.5 mg to 300 mg and following multiple doses from 1 mg to 100 mg.
 The absolute oral bioavailability of ertugliflozin following administration of a 15-mg dose is approximately 100%.
 
-Administration of ertugliflozin with a high-fat and high-calorie meal decreases ertugliflozin Cmax by 29% and prolongs Tmax by 1 hour, but does not alter AUC as compared with the fasted state.
+Administration of ertugliflozin with a high-fat and high-calorie meal decreases ertugliflozin Cmax by 29% and prolongs Tmax by 1 hour but does not alter AUC as compared with the fasted state.
 The observed effect of food on ertugliflozin pharmacokinetics is not considered clinically relevant, and ertugliflozin may be administered with or without food.
 In Phase 3 clinical trials, ertugliflozin was administered without regard to meals.
 
@@ -38,7 +38,7 @@ Only 1.5% of the administered dose was excreted as unchanged ertugliflozin in ur
 Special populations
 
 Renal impairment
-In a Phase 1 clinical pharmacology study in patients with type 2 diabetes and mild, moderate, or severe renal impairment (as determined by eGFR), following a single-dose administration of 15 mg ertugliflozin, the mean increases in AUC of ertugliflozin were ≤1.7-fold, compared to subjects with normal renal function.
+In a Phase 1 clinical pharmacology study in patients with type 2 diabetes and mild, moderate, or severe renal impairment (as determined by eGFR), following a single-dose administration of 15 mg ertugliflozin, the mean increases in AUC of ertugliflozin were ≤ 1.7-fold, compared to subjects with normal renal function.
 These increases in ertugliflozin AUC are not considered clinically relevant.
 There were no clinically meaningful differences in the ertugliflozin Cmax values among the different renal function groups.
 The 24-hour urinary glucose excretion declined with increasing severity of renal impairment (see section 4.4).
@@ -53,6 +53,7 @@ The plasma protein binding of ertugliflozin was unaffected in patients with mode
 
 Paediatric population
 No studies with ertugliflozin have been performed in paediatric patients.
+
 Effects of age, body weight, gender, and race
 Based on a population pharmacokinetic analysis, age, body weight, gender, and race do not have a clinically meaningful effect on the pharmacokinetics of ertugliflozin.
 

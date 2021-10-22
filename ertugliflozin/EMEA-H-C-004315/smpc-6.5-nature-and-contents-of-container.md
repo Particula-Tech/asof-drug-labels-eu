@@ -3,4 +3,5 @@
 Alu/PVC/PA/Alu blisters.
 Packs of 14, 28, 30, 84, 90 and 98 film-coated tablets in non-perforated blisters.
 Packs of 30x1 film-coated tablets in perforated unit dose blisters.
+
 Not all pack sizes may be marketed.
