@@ -18,26 +18,21 @@ If a dose is missed, it should be taken as soon as the patient remembers; howeve
 Special populations
 Renal impairment
 In patients with type 2 diabetes mellitus, the glycaemic efficacy of empagliflozin is dependent on renal function.
+For cardiovascular risk reduction as add on to standard of care, a dose of 10 mg empagliflozin once daily should be used in patients with an eGFR below 60 ml/min/1.73 m2 (see Table 1).
+Because the glycaemic lowering efficacy of empagliflozin is reduced in patients with moderate renal impairment and likely absent in patients with severe renal impairment, if further glycaemic control is needed, the addition of other anti-hyperglycaemic agents should be considered.
 For dose adjustment recommendations according to eGFR or CrCL refer to Table 1.
-
 Table 1: Dose adjustment recommendationsa
 
 | Indication | eGFR [ml/min/1.73 m²] or CrCL [ml/min] | Total daily dose |
 | --- | --- | --- |
 | Type 2 diabetes mellitus | ≥60 | Initiate with 10 mg empagliflozin. In patients tolerating 10 mg empagliflozin and requiring additional glycaemic control, the dose can be increased to 25 mg empagliflozin. |
-|  | 45 to <60 | Do not initiate empagliflozin. Continue with 10 mg empagliflozin in patients already taking Jardiance. |
-|  | <45 | Empagliflozin is not recommended. |
+|  | 45 to <60 | Initiate with 10 mg empagliflozin.b Continue with 10 mg empagliflozin in patients already taking Jardiance. |
+|  | 30 to <45b | Initiate with 10 mg empagliflozin. Continue with 10 mg empagliflozin in patients already taking Jardiance. |
+|  | <30 | Empagliflozin is not recommended. |
 | Heart failure (with or without type 2 diabetes mellitus) | ≥20 | Recommended daily dose is 10 mg empagliflozin. |
 |  | <20 | Empagliflozin is not recommended. |
 
-a See sections 4.4, 4.8, 5.1 and 5.2
-
-Due to the mechanism of action, the glycaemic efficacy of empagliflozin is dependent on renal function.
-No dose adjustment is required for patients with an eGFR ≥60 ml/min/1.73 m2 or
-CrCl ≥60 ml/min.
-For treatment of type 2 diabetes mellitus, empagliflozin should not be initiated in patients with an eGFR <60 ml/min/1.73 m2 or CrCl <60 ml/min.
-In patients tolerating empagliflozin whose eGFR falls persistently below 60 ml/min/1.73 m2 or CrCl below 60 ml/min, the dose of empagliflozin should be adjusted to or maintained at 10 mg once daily.
-Empagliflozin should be discontinued when eGFR is persistently below 45 ml/min/1.73 m2 or CrCl persistently below 45 ml/min (see sections 4.4, 4.8, 5.1, and 5.2).
+a See sections 4.4, 4.8, 5.1 and 5.2 b patients with type 2 diabetes mellitus and established cardiovascular disease
 
 For treatment of heart failure in patients with or without type 2 diabetes mellitus, empagliflozin 10 mg may be initiated or continued down to an eGFR of 20 ml/min/1.73 m2 or CrCl of 20 ml/min.
 

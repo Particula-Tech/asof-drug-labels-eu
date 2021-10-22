@@ -28,19 +28,14 @@ Data from a clinical trial program in patients with type 1 diabetes showed incre
 
 Renal impairment
 
+For the indication of type 2 diabetes mellitus, in patients with an eGFR below 60 ml/min/1.73 m2 or CrCl <60 ml/min the daily dose of empagliflozin is limited to 10 mg (see section 4.2).
+Empagliflozin is not recommended when eGFR is below 30 ml/min/1.73 m2 or CrCl below 30 ml/min.
+
+For the indication of heart failure, Jardiance is not recommended in patients with eGFR <20 ml/min/1.73 m2.
+
 Empagliflozin should not be used in patients with ESRD or in patients on dialysis.
 There are insufficient data to support use in these patients (see sections 4.2, 5.1 and 5.2).
-
-Type 2 diabetes mellitus
-As glycaemic control depends on renal function, Jardiance should not be initiated in patients with an eGFR below 60 ml/min/1.73 m2 or CrCl <60 ml/min.
-In patients tolerating empagliflozin whose eGFR is persistently below 60 ml/min/1.73 m2 or CrCl <60 ml/min, the dose of empagliflozin should be adjusted to or maintained at 10 mg once daily.
-Empagliflozin is not recommended when eGFR is persistently below 45 ml/min/1.73 m2 or CrCl persistently below 45 ml/min (see sections 4.2, 4.8, 5.1 and 5.2).
-
-Heart failure
-Jardiance is not recommended in patients with eGFR <20 ml/min/1.73 m2.
-
 Monitoring of renal function
-
 Assessment of renal function is recommended as follows:
 
 - Prior to empagliflozin initiation and periodically during treatment, i.e. at least yearly (see sections 4.2, 4.8, 5.1 and 5.2).
@@ -82,7 +77,6 @@ Lower limb amputations
 An increase in cases of lower limb amputation (primarily of the toe) has been observed in long-term clinical studies with another SGLT2 inhibitor.
 It is unknown whether this constitutes a class effect.
 Like for all diabetic patients it is important to counsel patients on routine preventative foot-care.
-
 Hepatic injury
 
 Cases of hepatic injury have been reported with empagliflozin in clinical trials.
@@ -92,9 +86,15 @@ Elevated haematocrit
 
 Haematocrit increase was observed with empagliflozin treatment (see section 4.8).
 
+Chronic kidney disease
+
+There is experience with empagliflozin for the treatment of diabetes in patients with chronic kidney disease (eGFR ≥30 mL/min/1.73 m2) both with and without albuminuria.
+Patients with albuminuria may benefit more from treatment with empagliflozin.
+
 Urine laboratory assessments
 
 Due to its mechanism of action, patients taking Jardiance will test positive for glucose in their urine.
+
 Interference with 1,5-anhydroglucitol (1,5-AG) assay
 
 Monitoring glycaemic control with 1,5-AG assay is not recommended as measurements of 1,5-AG are unreliable in assessing glycaemic control in patients taking SGLT2 inhibitors.

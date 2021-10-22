@@ -358,6 +358,7 @@ Therefore the effect was attenuated at week 94, with an adjusted mean (SE) impro
 Empagliflozin was superior in preventing the primary combined endpoint of cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke, as compared with placebo.
 The treatment effect was driven by a significant reduction in cardiovascular death with no significant change in non-fatal myocardial infarction, or non-fatal stroke.
 The reduction of cardiovascular death was comparable for empagliflozin 10 mg and 25 mg (Figure 1) and confirmed by an improved overall survival (Table 11).
+The effect of empagliflozin on the primary combined endpoint of CV death, non-fatal MI, or non-fatal stroke was largely independent of glycaemic control or renal function (eGFR) and generally consistent across eGFR categories down to an eGFR of 30 ml/min/1.73 m2 in the EMPA-REG OUTCOME study.
 
 The efficacy for preventing cardiovascular mortality has not been conclusively established in patients using empagliflozin concomitantly with DPP-4 inhibitors or in Black patients because the representation of these groups in the EMPA-REG OUTCOME study was limited.
 

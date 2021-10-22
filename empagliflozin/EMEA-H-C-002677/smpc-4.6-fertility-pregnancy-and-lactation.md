@@ -13,7 +13,6 @@ No data in humans are available on excretion of empagliflozin into milk.
 Available toxicological data in animals have shown excretion of empagliflozin in milk.
 A risk to the newborns/infants cannot be excluded.
 Jardiance should not be used during breast-feeding.
-
 Fertility
 
 No studies on the effect on human fertility have been conducted for Jardiance.

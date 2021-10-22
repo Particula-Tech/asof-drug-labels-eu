@@ -18,7 +18,6 @@ Empagliflozin is a substrate of P-glycoprotein (P-gp) and breast cancer resistan
 
 Co-administration of empagliflozin with probenecid, an inhibitor of UGT enzymes and OAT3, resulted in a 26% increase in peak empagliflozin plasma concentrations (Cmax) and a 53% increase in area under the concentration-time curve (AUC).
 These changes were not considered to be clinically meaningful.
-
 The effect of UGT induction (e.g. induction by rifampicin or phenytoin) on empagliflozin has not been studied.
 Co-treatment with known inducers of UGT enzymes is not recommended due to a potential risk of decreased efficacy.
 If an inducer of these UGT enzymes must be co-administered, monitoring of glycaemic control to assess response to Jardiance is appropriate.
@@ -30,6 +29,7 @@ Inhibition of OATP1B1/1B3 transporters by co-administration with rifampicin resu
 These changes were not considered to be clinically meaningful.
 
 Empagliflozin exposure was similar with and without co-administration with verapamil, a P-gp inhibitor, indicating that inhibition of P-gp does not have any clinically relevant effect on empagliflozin.
+
 Interaction studies suggest that the pharmacokinetics of empagliflozin were not influenced by co-administration with metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, verapamil, ramipril, simvastatin, torasemide and hydrochlorothiazide.
 
 Effects of empagliflozin on other medicinal products
