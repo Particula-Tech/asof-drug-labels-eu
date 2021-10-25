@@ -4,19 +4,13 @@ Summary of the safety profile
 
 Type 2 diabetes mellitus
 In the clinical studies in type 2 diabetes, more than 15,000 patients have been treated with dapagliflozin.
+
 The primary assessment of safety and tolerability was conducted in a pre-specified pooled analysis of 13 short-term (up to 24 weeks) placebo-controlled studies with 2,360 subjects treated with dapagliflozin 10 mg and 2,295 treated with placebo.
 
 In the dapagliflozin cardiovascular outcomes study in type 2 diabetes mellitus (DECLARE study, see section 5.1), 8,574 patients received dapagliflozin 10 mg and 8,569 received placebo for a median exposure time of 48 months.
 In total, there were 30,623 patient-years of exposure to dapagliflozin.
 
 The most frequently reported adverse reactions across the clinical studies were genital infections.
-
-Type 1 diabetes mellitus
-In two placebo-controlled studies in subjects with type 1 diabetes mellitus, 548 subjects were treated with dapagliflozin 5 mg plus adjustable insulin and 532 were treated with placebo plus adjustable insulin.
-
-The safety profile of dapagliflozin in subjects with type 1 diabetes mellitus was similar to the known safety profile of dapagliflozin in subjects with type 2 diabetes mellitus.
-In patients with type 1 diabetes mellitus, diabetic ketoacidosis was reported with common frequency.
-See “Description of selected adverse reactions” and section 4.4.
 
 Heart failure
 In the dapagliflozin cardiovascular outcome study in patients with heart failure with reduced ejection fraction (DAPA-HF study), 2,368 patients were treated with dapagliflozin 10 mg and 2,368 patients with placebo for a median exposure time of 18 months.
@@ -38,13 +32,13 @@ The following adverse reactions have been identified in the placebo-controlled c
 None were found to be dose-related.
 Adverse reactions listed below are classified according to frequency and system organ class (SOC).
 Frequency categories are defined according to the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), and not known (cannot be estimated from the available data).
-Table 2.
+Table 1.
 Adverse reactions in placebo-controlled clinical studiesa and postmarketing experience
 
 | System organ class | Very common | Common* | Uncommon** | Rare | Very rare |
 | --- | --- | --- | --- | --- | --- |
 | Infections and infestations |  | Vulvovaginitis, balanitis and related genital infections*,b,c Urinary tract infection*,b,d | Fungal infection** |  | Necrotising fasciitis of the perineum (Fournier's gangrene)b,i |
-| Metabolism and nutrition disorders | Hypoglycaemia (when used with SU or insulin)b | Diabetic ketoacidosis (when used in type 1 diabetes mellitus)b,i,k | Volume depletionb,e Thirst** | Diabetic ketoacidosis (when used in type 2 diabetes mellitus)b,i,l |  |
+| Metabolism and nutrition disorders | Hypoglycaemia (when used with SU or insulin)b |  | Volume depletionb,e Thirst** | Diabetic ketoacidosis (when used in type 2 diabetes mellitus)b,i,k |  |
 | Nervous system disorders |  | Dizziness |  |  |  |
 | Gastrointestinal disorders |  |  | Constipation** Dry mouth** |  |  |
 | Skin and subcutaneous tissue disorders |  | Rashj |  |  | Angioedema |
@@ -61,12 +55,10 @@ eVolume depletion includes, e.g. the predefined preferred terms: dehydration, hy
 gMean changes from baseline in haematocrit were 2.30% for dapagliflozin 10 mg versus –0.33% for placebo.
 Haematocrit values >55% were reported in 1.3% of the subjects treated with dapagliflozin 10 mg versus 0.4% of placebo subjects.
 hMean percent change from baseline for dapagliflozin 10 mg versus placebo, respectively, was: total cholesterol 2.5% versus 0.0%; HDL cholesterol 6.0% versus 2.7%; LDL cholesterol 2.9% versus -1.0%; triglycerides -2.7% versus -0.7%.
-iSee section 4.4.
-jAdverse reaction was identified through postmarketing surveillance.
+iSee section 4.4 jAdverse reaction was identified through postmarketing surveillance.
 Rash includes the following preferred terms, listed in order of frequency in clinical studies: rash, rash generalised, rash pruritic, rash macular, rash maculo-papular, rash pustular, rash vesicular, and rash erythematous.
 In active- and placebo-controlled clinical studies (dapagliflozin, N=5936, All control, N=3403), the frequency of rash was similar for dapagliflozin (1.4%) and all control (1.4%), respectively.
-kFrequency of adverse reaction was identified from the full study population in 2 placebo-controlled studies in subjects with type 1 diabetes mellitus.
-lReported in the cardiovascular outcomes study in patients with type 2 diabetes (DECLARE).
+kReported in the cardiovascular outcomes study in patients with type 2 diabetes (DECLARE).
 Frequency is based on annual rate.
 *Reported in ≥2% of subjects and ≥1% more and at least 3 more subjects treated with dapagliflozin 10 mg compared to placebo.
 **Reported by the investigator as possibly related, probably related or related to study treatment and reported in ≥0.2% of subjects and ≥0.1% more and at least 3 more subjects treated with dapagliflozin 10 mg compared to placebo.
@@ -128,7 +120,8 @@ There were fewer patients with serious events of symptoms suggestive of volume d
 Results were similar irrespective of presence of diabetes at baseline and baseline eGFR.
 
 In the DAPA-CKD study, the numbers of patients with events suggestive of volume depletion were 120 (5.6%) in the dapagliflozin group and 84 (3.9%) in the placebo group.
-There were 16 (0.7%) patients with serious events of symptoms suggestive of volume depletion in the dapagliflozin group and 15 (0.7%) patients in the placebo group.
+There were
+16 (0.7%) patients with serious events of symptoms suggestive of volume depletion in the dapagliflozin group and 15 (0.7%) patients in the placebo group.
 
 Diabetic ketoacidosis in type 2 diabetes mellitus
 In the DECLARE study, with a median exposure time of 48 months, events of DKA were reported in 27 patients in the dapagliflozin 10 mg group and 12 patients in the placebo group.
@@ -139,13 +132,6 @@ Precipitating factors for DKA were as expected in a type 2 diabetes mellitus pop
 In the DAPA-HF study, events of DKA were reported in 3 patients with type 2 diabetes mellitus in the dapagliflozin group and none in the placebo group.
 
 In the DAPA-CKD study, events of DKA were not reported in any patient in the dapagliflozin group and in 2 patients with type 2 diabetes mellitus in the placebo group.
-
-Diabetic ketoacidosis in type 1 diabetes mellitus
-In the two placebo-controlled clinical studies of dapagliflozin in type 1 diabetes mellitus, patients were advised to monitor blood ketones in case of suspected symptoms of DKA and seek medical advice/attention if their self-measured blood ketone reading was ≥0.6 mmol/L.
-In the pooled 52-week data, events of DKA were reported in 22 (4.0%) patients in the dapagliflozin 5 mg group and 6 (1.1%) patients in the placebo group, with corresponding incidence rates per 100 patient years of 4.62 for dapagliflozin 5 mg and 1.27 for placebo.
-DKA events occurred evenly distributed over the clinical study period.
-Inadequate insulin doses (missed insulin dose or insulin pump failure) were the most common precipitating factors.
-6 of 23 events of DKA in the dapagliflozin 5 mg group occurred in patients with blood glucose in the euglycaemic range (< 14 mmol/L or 250 mg/dL).
 
 Urinary tract infections
 In the 13-study safety pool, urinary tract infections were more frequently reported for dapagliflozin 10 mg compared to placebo (4.7% versus 3.5%, respectively; see section 4.4).
@@ -166,6 +152,7 @@ Adverse reactions related to increased creatinine were grouped (e.g. decreased r
 In the 13-study safety pool, this grouping of reactions was reported in 3.2% and 1.8% of patients who received dapagliflozin 10 mg and placebo, respectively.
 In patients with normal renal function or mild renal impairment (baseline eGFR ≥60 mL/min/1.73 m2) this grouping of reactions were reported in 1.3% and 0.8% of patients who received dapagliflozin 10 mg and placebo, respectively.
 These reactions were more common in patients with baseline eGFR ≥30 and < 60 mL/min/1.73 m2 (18.5% dapagliflozin 10 mg versus 9.3% placebo).
+
 Further evaluation of patients who had renal-related adverse events showed that most had serum creatinine changes of ≤0.5 mg/dL from baseline.
 The increases in creatinine were generally transient during continuous treatment or reversible after discontinuation of treatment.
 
@@ -185,22 +172,3 @@ Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-[Forxiga 10 mg film-coated tablets]
-
-Table 1.
-
-| System organ class | Very common | Common* | Uncommon** | Rare | Very rare |
-| --- | --- | --- | --- | --- | --- |
-| Infections and infestations |  | Vulvovaginitis, balanitis and related genital infections*,b,c Urinary tract infection*,b,d | Fungal infection** |  | Necrotising fasciitis of the perineum (Fournier's gangrene)b,i |
-| Metabolism and nutrition disorders | Hypoglycaemia (when used with SU or insulin)b |  | Volume depletionb,e Thirst** | Diabetic ketoacidosis (when used in type 2 diabetes mellitus)b,i,k |  |
-| Nervous system disorders |  | Dizziness |  |  |  |
-| Gastrointestinal disorders |  |  | Constipation** Dry mouth** |  |  |
-| Skin and subcutaneous tissue disorders |  | Rashj |  |  | Angioedema |
-| Musculoskeletal and connective tissue disorders |  | Back pain* |  |  |  |
-| Renal and urinary disorders |  | Dysuria Polyuria*,f | Nocturia** |  |  |
-| Reproductive system and breast disorders |  |  | Vulvovaginal pruritus** Pruritus genital** |  |  |
-| Investigations |  | Haematocrit increasedg Creatinine renal clearance decreased during initial treatmentb Dyslipidaemiah | Blood creatinine increased during initial treatment**,b Blood urea increased** Weight decreased** |  |  |
-
-iSee section 4.4 jAdverse reaction was identified through postmarketing surveillance.
-kReported in the cardiovascular outcomes study in patients with type 2 diabetes (DECLARE).
