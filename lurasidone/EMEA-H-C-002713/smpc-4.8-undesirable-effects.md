@@ -48,65 +48,13 @@ Table 2: Adverse Drug Reactions (ADRs) for Adolescents
 | Immune System Disorders |  |  | Hypersensitivity |  |  |
 | Endocrine disorders |  | Hyperprolactinaemia (including blood prolactin increased) | Autoimmune thyroiditis Hyperandrogenism Hypothyroidism |  |  |
 | Metabolism and nutrition disorders |  | Decreased appetite Increased appetite | Hyperinsulinemia |  |  |
-| Psychiatric Disorders |  | Abnormal dreams Agitation Anxiety Depression Insomnia Psychotic disorder Schizophrenia Tension | Aggression Apathy Confusional state Depressed mood Dissociation Hallucination (auditory) |  |  |
-
-System Organ Very Common Uncommon Rare Frequency not
-Class Common known
-Hallucination
-(visual)
-Homicidal
-ideation
-Impulsive
-behaviour
-Initial insomnia
-Libido decreased
-Libido increased
-Listless
-Mental status
-changes
-Obsessive
-thoughts
-Panic Attack
-Psychomotor
-hyperactivity
-Restlessness
-Sleep disorder
-Suicidal ideation
-Terminal insomnia
-Thinking
-abnormal
-Nervous Akathisia Disturbance in Dizziness postural
-System Headache attention Dysgeusia
-Disorders Somnolence* Dizziness Hyperkinesia
-Dyskinesia Memory
-Dystonia*** impairment
-Parkinsonism** Migraine
-Paraesthesia
-Psychomotor
-hyperactivity
-Restless legs
-syndrome
-Tardive dyskinesia
-Tension headache
-Eye Disorders Accommodation
-disorder
-Vision blurred
-Ear and Hyperacusis
-labyrinth
-disorders
-Cardiac Tachycardia Palpitations
-disorders Supraventricular
-extrasystoles
-Vascular Orthostatic
-disorders hypotension
-Hypertension
-Respiratory, Oropharyngeal
-thoracic and pain
-mediastinal Dyspnoea
-disorders
-
-| System Organ Class | Very Common | Common | Uncommon | Rare | Frequency not known |
-| --- | --- | --- | --- | --- | --- |
+| Psychiatric Disorders |  | Abnormal dreams Agitation Anxiety Depression Insomnia Psychotic disorder Schizophrenia Tension | Aggression Apathy Confusional state Depressed mood Dissociation Hallucination (auditory) Hallucination (visual) Homicidal ideation Impulsive behaviour Initial insomnia Libido decreased Libido increased Listless Mental status changes Obsessive thoughts Panic Attack Psychomotor hyperactivity Restlessness Sleep disorder Suicidal ideation Terminal insomnia Thinking abnormal |  |  |
+| Nervous System Disorders | Akathisia Headache Somnolence* | Disturbance in attention Dizziness Dyskinesia Dystonia*** Parkinsonism** | Dizziness postural Dysgeusia Hyperkinesia Memory impairment Migraine Paraesthesia Psychomotor hyperactivity Restless legs syndrome Tardive dyskinesia Tension headache |  |  |
+| Eye Disorders |  |  | Accommodation disorder Vision blurred |  |  |
+| Ear and labyrinth disorders |  |  | Hyperacusis |  |  |
+| Cardiac disorders |  | Tachycardia | Palpitations Supraventricular extrasystoles |  |  |
+| Vascular disorders |  |  | Orthostatic hypotension Hypertension |  |  |
+| Respiratory, thoracic and mediastinal disorders |  |  | Oropharyngeal pain Dyspnoea |  |  |
 | Gastrointestinal disorders | Nausea | Constipation Dry mouth Salivary hypersecretion Vomiting | Abdominal discomfort Abdominal pain upper Aptyalism Diarrhoea Dyspepsia Lip dry Toothache |  |  |
 | Skin and subcutaneous tissue disorders |  | Hyperhidrosis | Alopecia Hair growth abnormal Rash Urticaria |  |  |
 | Musculoskeletal and connective tissue disorders |  | Muscle rigidity | Arthralgia Muscle tightness Musculoskeletal stiffness Myalgia Pain in extremity Pain in jaw |  |  |
@@ -114,6 +62,9 @@ disorders
 | Reproductive system and breast disorders |  | Erectile dysfunction | Amenorrhoea Breast pain Ejaculation disorder Galactorrhoea Gynaecomastia Menstruation irregular Oligomenorrhoea Sexual dysfunction |  |  |
 | Congenital, familial and genetic disorders |  |  | Tourette's disorder |  |  |
 | General disorders and administration site conditions |  | Asthenia Fatigue Irritability | Chills Gait disturbance Malaise Non-cardiac chest pain Pyrexia |  |  |
+
+| System Organ Class | Very Common | Common | Uncommon | Rare | Frequency not known |
+| --- | --- | --- | --- | --- | --- |
 | Investigations |  | Blood creatine phosphokinase increased C-reactive protein increased Weight decreased Weight increased | Alanine aminotransferase increased Anti-thyroid antibody positive Aspartate aminotransferase increased Blood alkaline phosphatase decreased Blood alkaline phosphokinase increased Blood cholesterol increased Blood glucose increased Blood insulin increased Blood testosterone decreased Blood thyroid stimulating hormone increased Blood triglycerides increased Electrocardiogram PR shortened Haemoglobin decreased High density lipoprotein decreased Low density lipoprotein decreased |  |  |
 | Injury, poisoning and procedural complications |  |  | Intentional overdose |  |  |
 
@@ -189,11 +140,6 @@ The following terms and frequencies are applied: very common (≥ 1/10), common 
 | Reproductive system and breast disorders |  | Erectile dysfunction | Amenorrhoea Breast pain Ejaculation disorder Galactorrhoea Gynaecomastia Menstruation irregular Oligomenorrhoea Sexual dysfunction |  |  |
 | Congenital, familial and genetic disorders |  |  | Tourette's disorder |  |  |
 | General disorders and administration site conditions |  | Asthenia Fatigue Irritability | Chills Gait disturbance Malaise Non-cardiac chest pain Pyrexia |  |  |
-
-| System Organ Class | Very Common | Common | Uncommon | Rare | Frequency not known |
-| --- | --- | --- | --- | --- | --- |
-| Investigations |  | Blood creatine phosphokinase increased C-reactive protein increased Weight decreased Weight increased | Alanine aminotransferase increased Anti-thyroid antibody positive Aspartate aminotransferase increased Blood alkaline phosphatase decreased Blood alkaline phosphokinase increased Blood cholesterol increased Blood glucose increased Blood insulin increased Blood testosterone decreased Blood thyroid stimulating hormone increased Blood triglycerides increased Electrocardiogram PR shortened Haemoglobin decreased High density lipoprotein decreased Low density lipoprotein decreased |  |  |
-| Injury, poisoning and procedural complications |  |  | Intentional overdose |  |  |
 
 [Latuda 74 mg film-coated tablets]
 

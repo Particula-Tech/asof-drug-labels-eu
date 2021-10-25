@@ -65,6 +65,13 @@ Monitoring of orthostatic vital signs should be considered in patients who are v
 Interaction with grapefruit juice
 Grapefruit juice should be avoided during treatment with lurasidone (see section 4.5).
 
+Serotonin syndrome
+
+Concomitant administration of Latuda and other serotonergic agents, such as buprenorphine/opioids, MAO inhibitors, selective serotonin re-uptake inhibitors (SSRIs), serotonin norepinephrine re-uptake inhibitors (SNRIs) or tricyclic antidepressants may result in serotonin syndrome, a potentially life-threatening condition (see section 4.5).
+If concomitant treatment with other serotonergic agents is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
+Symptoms of serotonin syndrome may include mental-status changes, autonomic instability, neuromuscular abnormalities, and/or gastrointestinal symptoms.
+If serotonin syndrome is suspected, a dose reduction or discontinuation of therapy should be considered depending on the severity of the symptoms.
+
 This medicine contains less than 1 mmol sodium (23 mg) per one tablet, that is to say essentially ‘sodium-free’
 
 [Latuda 37 mg film-coated tablets]

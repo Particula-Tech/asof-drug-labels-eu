@@ -146,12 +146,24 @@ Placebo-adjusted LS mean change (95% CI) from Baseline to Week 6 LOCF in CDRS-R 
 
 [Latuda 74 mg film-coated tablets]
 
+| Study Statistic | Placebo | Lurasidone dose (b) |  |  |  | Active Control (a) |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | 37 mg | 74 mg | 111 mg | 148 mg |  |
+| Study D1050229 Baseline Mean (SD) LS Mean Change (SE) Treatment Difference vs. placebo Estimate (SE) | N=124 96.8 (11.1) -17.0 (1.8) | N=121 96.5 (11.6) -19.2 (1.7) | N=118 96.0 (10.8) -23.4 (1.8) | N=123 96.0 (9.7) -20.5 (1.8) | -- -- -- | -- -- -- |
+|  | -- | -2.1 (2.5) | -6.4 (2.5) | -3.5 (2.5) | -- | -- |
+|  |  | 37 mg | 74 mg | 111 mg | 148 mg |  |
+| p-value | -- | 0.591 | 0.034 | 0.391 | -- | -- |
+| Study D1050231 Baseline Mean (SD) LS Mean Change (SE) Treatment Difference vs. placebo Estimate (SE) p-value | N=114 95.8 (10.8) -16.0 (2.1) | N=118 96.6 (10.7) -25.7 (2.0) | -- -- -- | N=118 97.9 (11.3) -23.6 (2.1) | -- -- -- | N=121 96.3 (12.2) -28.7 (1.9) |
+|  | -- -- | -9.7 (2.9) 0.002 | -- -- | -7.5 (3.0) 0.022 | -- -- | -12.6 (2.8) <0.001 |
+| Study D1050233 Baseline Mean (SD) LS Mean Change (SE) Treatment Difference vs. placebo Estimate (SE) p-value | N=120 96.6 (10.2) -10.3 (1.8) | -- -- -- | N=125 97.7 (9.7) -22.2 (1.8) | -- -- -- | N=121 97.9 (11.8) -26.5 (1.8) | N=116 97.7 (10.2) -27.8 (1.8) |
+|  | -- -- | -- -- | -11.9 (2.6) <0.001 | -- -- | -16.2 (2.5) <0.001 | -17.5 (2.6) <0.001 |
+
 Long-term maintenance efficacy of lurasidone (37 to 148 mg lurasidone once) was demonstrated in a 12 month non-inferiority trial with quetiapine extended release (200 to 800 mg once daily).
 
 | Parameters | Study Statistic | Placebo | Lurasidone dose 18.5-74 mg (a) (b) |
 | --- | --- | --- | --- |
-| Primary Endpoint: |  | N=170 | N=173 |
-| CDRS-R Total Score | Baseline Mean (SD) LS Mean Change (SE) Treatment Difference vs. placebo Estimate (SE; 95% CI) | 58.6 (8.26) | 59.2 (8.24) |
+| Primary Endpoint: CDRS-R Total Score | Baseline Mean (SD) LS Mean Change (SE) Treatment Difference vs. placebo Estimate (SE; 95% CI) | N=170 | N=173 |
+|  |  | 58.6 (8.26) | 59.2 (8.24) |
 |  |  | -15.3 (1.08) | -21.0 (1.06) |
 |  |  | -- | -5.7 (1.39; -8.4 to -3.0) |
 |  | p-value | -- | <0.0001 |

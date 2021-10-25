@@ -5,6 +5,8 @@ Given the primary central nervous system effects of lurasidone, lurasidone shoul
 
 Caution is advised when prescribing lurasidone with medicinal products known to prolong the QT interval, e.g. class IA antiarrhythmics (e.g. quinidine, disopyramide) and class III antiarrhythmics (e.g. amiodarone, sotalol), some antihistaminics, some other antipsychotics and some antimalarials (e.g. mefloquine).
 
+Latuda should be used cautiously when co-administered with other serotonergic agents, such as buprenorphine/opioids, MAO inhibitors, selective serotonin re-uptake inhibitors (SSRIs), serotonin norepinephrine re-uptake inhibitors (SNRIs) or tricyclic antidepressants as the risk of serotonin syndrome, a potentially life-threatening condition, is increased (see section 4.4).
+
 Pharmacokinetic interactions
 The concomitant administration of lurasidone and grapefruit juice has not been assessed.
 Grapefruit juice inhibits CYP3A4 and may increase the serum concentration of lurasidone.
@@ -32,7 +34,6 @@ CYP3A4 inducers
 Lurasidone is contraindicated with strong CYP3A4 inducers (e.g. carbamazepine, phenobarbital, phenytoin, rifampicin, St John’s wort (Hypericum perforatum)) (see section 4.3).
 
 Coadministration of lurasidone with the strong CYP3A4 inducer rifampicin resulted in a 6-fold decrease in exposure of lurasidone.
-
 Coadministration of lurasidone with mild (e.g. armodafinil, amprenavir, aprepitant, prednisone, rufinamide) or moderate (e.g. bosentan, efavirenz, etravirine, modafinil, nafcillin) inducers of CYP3A4 would be expected to give a <2-fold reduction in lurasidone exposure during co-administration and for up to 2 weeks after discontinuation of mild or moderate CYP3A4 inducers.
 
 When lurasidone is coadministered with mild or moderate CYP3A4 inducers, the efficacy of lurasidone needs to be carefully monitored and a dose adjustment may be needed.
