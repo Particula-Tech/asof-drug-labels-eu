@@ -12,9 +12,9 @@ Clinical efficacy and safety
 Neuropathic pain
 Efficacy has been shown in trials in diabetic neuropathy, post herpetic neuralgia and spinal cord injury.
 Efficacy has not been studied in other models of neuropathic pain.
-
 Pregabalin has been studied in 10 controlled clinical trials of up to 13 weeks with twice a day dosing (BID) and up to 8 weeks with three times a day (TID) dosing.
 Overall, the safety and efficacy profiles for BID and TID dosing regimens were similar.
+
 In clinical trials up to 12 weeks for both peripheral and central neuropathic pain, a reduction in pain was seen by Week 1 and was maintained throughout the treatment period.
 
 In controlled clinical trials in peripheral neuropathic pain 35% of the pregabalin treated patients and 18% of the patients on placebo had a 50% improvement in pain score.
@@ -43,6 +43,8 @@ In the 14-day placebo-controlled study, paediatric patients (1 month to younger 
 Median 24-hour seizure frequencies at baseline and at the final visit were 4.7 and 3.8 for pregabalin 7 mg/kg/day, 5.4 and 1.4 for pregabalin 14 mg/kg/day, and 2.9 and 2.3 for placebo, respectively.
 Pregabalin 14 mg/kg/day significantly reduced the log-transformed partial onset seizure frequency versus placebo (p=0.0223); pregabalin 7 mg/kg/day did not show improvement relative to placebo.
 
+In a 12-week placebo-controlled study in subjects with Primary Generalized Tonic-Clonic (PGTC) seizures 219 subjects (aged 5 to 65 years, of which 66 were aged 5 to 16 years) were assigned to pregabalin 5 mg/kg/day (maximum 300 mg/day), 10 mg/kg/day (maximum 600 mg/day) or placebo as adjunctive therapy.
+The percentage of subjects with at least a 50% reduction in PGTC seizure rate was 41.3%, 38.9% and 41.7% for pregabalin 5 mg/kg/day, pregabalin 10 mg/kg/day and placebo respectively.
 Monotherapy (newly diagnosed patients)
 Pregabalin has been studied in 1 controlled clinical trial of 56 week duration with BID dosing.
 Pregabalin did not achieve non-inferiority to lamotrigine based on the 6-month seizure freedom endpoint.
@@ -50,6 +52,7 @@ Pregabalin and lamotrigine were similarly safe and well tolerated.
 
 Generalised Anxiety Disorder
 Pregabalin has been studied in 6 controlled trials of 4-6 week duration, an elderly study of 8 week duration and a long-term relapse prevention study with a double-blind relapse prevention phase of 6 months duration.
+
 Relief of the symptoms of GAD as reflected by the Hamilton Anxiety Rating Scale (HAM-A) was observed by Week 1.
 
 In controlled clinical trials (4-8 week duration) 52% of the pregabalin treated patients and 38% of the patients on placebo had at least a 50% improvement in HAM-A total score from baseline to endpoint.

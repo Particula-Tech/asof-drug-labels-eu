@@ -6,13 +6,13 @@ Capsules content:
 Lactose monohydrate
 Maize starch
 Talc
-
 Capsules shell:
 Gelatin
 Titanium dioxide (E171)
 Sodium laurilsulphate
 Silica, colloidal anhydrous
 Purified water
+
 Printing ink:
 Shellac
 Black iron oxide (E172)

@@ -25,7 +25,6 @@ Elimination
 Pregabalin is eliminated from the systemic circulation primarily by renal excretion as unchanged drug.
 Pregabalin mean elimination half-life is 6.3 hours.
 Pregabalin plasma clearance and renal clearance are directly proportional to creatinine clearance (see section 5.2 Renal impairment).
-
 Dose adjustment in patients with reduced renal function or undergoing haemodialysis is necessary (see section 4.2 Table 1).
 
 Linearity/non-linearity
@@ -33,6 +32,7 @@ Pregabalin pharmacokinetics are linear over the recommended daily dose range.
 Inter-subject pharmacokinetic variability for pregabalin is low (< 20%).
 Multiple dose pharmacokinetics are predictable from single-dose data.
 Therefore, there is no need for routine monitoring of plasma concentrations of pregabalin.
+
 Gender
 Clinical trials indicate that gender does not have a clinically significant influence on the plasma concentrations of pregabalin.
 
@@ -63,7 +63,6 @@ Elderly
 Pregabalin clearance tends to decrease with increasing age.
 This decrease in pregabalin oral clearance is consistent with decreases in creatinine clearance associated with increasing age.
 Reduction of pregabalin dose may be required in patients who have age related compromised renal function (see section 4.2 Table 1).
-
 Breast-feeding mothers
 The pharmacokinetics of 150 mg pregabalin given every 12 hours (300 mg daily dose) was evaluated in 10 lactating women who were at least 12 weeks postpartum.
 Lactation had little to no influence on pregabalin pharmacokinetics.
