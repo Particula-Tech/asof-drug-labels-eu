@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-2 years.
+3 years.
 
 [Nucala 100 mg powder for solution for injection]
 

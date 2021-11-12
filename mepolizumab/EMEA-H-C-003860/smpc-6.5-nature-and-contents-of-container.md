@@ -7,6 +7,7 @@ Nucala 100 mg solution for injection in pre-filled pen
 Pack sizes:
 1 pre-filled pen
 Multipack comprising 3 (3 packs of 1) pre-filled pens
+Multipack comprising 9 (9 packs of 1) pre-filled pens
 
 Not all pack-sizes may be marketed.
 
@@ -16,7 +17,8 @@ Nucala 100 mg solution for injection in pre-filled syringe
 
 Pack sizes:
 1 pre-filled syringe
-Multipack comprising 3 (3 packs of 1) pre-filled syringe
+Multipack comprising 3 (3 packs of 1) pre-filled syringes
+Multipack comprising 9 (9 packs of 1) pre-filled syringes
 
 Not all pack-sizes may be marketed.
 

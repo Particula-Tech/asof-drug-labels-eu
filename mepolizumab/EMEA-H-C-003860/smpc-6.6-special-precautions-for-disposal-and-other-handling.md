@@ -20,6 +20,7 @@ Instructions for reconstitution for each vial
 Reconstitute the contents of the vial with 1.2 mL of sterile water for injections preferably using a 2 to 3 mL syringe and a 21 gauge needle.
 The stream of sterile water should be directed vertically, onto the centre of the lyophilised cake.
 Allow the vial to sit at room temperature during reconstitution, gently swirling the vial for 10 seconds with circular motion at 15-second intervals until the powder is dissolved.
+
 Note: The reconstituted solution must not be shaken during the procedure as this may lead to product foaming or precipitation.
 Reconstitution is typically complete within 5 minutes after the sterile water has been added, but it may take additional time.
 
@@ -43,6 +44,9 @@ For subcutaneous administration, a 1 mL polypropylene syringe fitted with a disp
 Just prior to administration, remove 1 mL of reconstituted Nucala.
 Do not shake the reconstituted solution during the procedure as this could lead to product foaming or precipitation.
 Administer the 1 mL injection (equivalent to 100 mg mepolizumab) subcutaneously into the upper arm, thigh, or abdomen.
+
+If more than one vial is required for administration of the prescribed dosage, repeat steps 1 to 3.
+It is recommended that individual injection sites are separated by at least 5 cm.
 
 Instructions for administration of 40 mg dose
 Just prior to administration, remove 0.4mL of reconstituted Nucala.
