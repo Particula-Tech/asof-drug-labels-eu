@@ -15,11 +15,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 
 Table 1: Medically important adverse reactions reported at an incidence greater than placebo in controlled clinical studies and medically important adverse reactions reported through post-marketing surveillance
 
-System Organ Very Common Uncommon Rare (≥1/10,000 and
-Class common (≥1/100 and (≥1/1,000 and <1/1,000)
-(≥1/10) <1/10) <1/100)
-
-| System Organ Class | Very common (≥1/10) | Common (≥1/100 and <1/10) | Uncommon (≥1/1,000 and <1/100) | Rare (≥1/10,000 and <1/1,000) |
+| System Organ Class | Very common (≥ 1/10) | Common (≥ 1/100 and <1/10) | Uncommon (≥ 1/1,000 and <1/100) | Rare (≥ 1/10,000 and <1/1,000) |
 | --- | --- | --- | --- | --- |
 | Infections and infestations |  |  | Rhinitis |  |
 | Immune system disorders |  |  | Hypersensitivity |  |
@@ -47,7 +43,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [VIAGRA 50 mg orodispersible tablets]
 
-| System Organ Class | Very common (≥1/10) | Common (≥1/100 and <1/10) | Uncommon (≥1/1,000 and <1/100) | Rare (≥1/10,000 and <1/1,000) |
+| System Organ Class | Very common (≥ 1/10) | Common (≥ 1/100 and <1/10) | Uncommon (≥ 1/1,000 and <1/100) | Rare (≥ 1/10,000 and <1/1,000) |
 | --- | --- | --- | --- | --- |
 | Infections and infestations |  |  | Rhinitis |  |
 | Immune system disorders |  |  | Hypersensitivity |  |

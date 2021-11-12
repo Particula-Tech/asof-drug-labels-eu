@@ -39,6 +39,7 @@ Single oral doses of sildenafil up to 100 mg in healthy volunteers produced no c
 In a study of the hemodynamic effects of a single oral 100 mg dose of sildenafil in 14 patients with severe coronary artery disease (CAD) (>70% stenosis of at least one coronary artery), the mean resting systolic and diastolic blood pressures decreased by 7% and 6% respectively compared to baseline.
 Mean pulmonary systolic blood pressure decreased by 9%.
 Sildenafil showed no effect on cardiac output, and did not impair blood flow through the stenosed coronary arteries.
+
 A double-blind, placebo-controlled exercise stress trial evaluated 144 patients with erectile dysfunction and chronic stable angina who regularly received anti-anginal medicinal products (except nitrates).
 The results demonstrated no clinically relevant differences between sildenafil and placebo in time to limiting angina.
 

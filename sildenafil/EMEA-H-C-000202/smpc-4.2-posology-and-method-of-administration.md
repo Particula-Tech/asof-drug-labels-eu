@@ -12,7 +12,7 @@ If VIAGRA is taken with food, the onset of activity may be delayed compared to t
 Special populations
 
 Elderly
-Dosage adjustments are not required in elderly patients (≥65 years old).
+Dosage adjustments are not required in elderly patients (≥ 65 years old).
 
 Renal impairment
 The dosing recommendations described in ‘Use in adults’ apply to patients with mild to moderate renal impairment (creatinine clearance = 30-80 mL/min).
@@ -41,6 +41,7 @@ For oral use.
 
 Viagra should be taken as needed approximately one hour before sexual activity.
 The recommended dose is 50 mg taken on an empty stomach as concomitant intake with food delays absorption and delays the effect of the orodispersible tablet (see section 5.2).
+
 Based on efficacy and tolerability, the dose may be increased to 100 mg.
 For patients requiring a dose increase to 100 mg, two 50 mg orodispersible tablets should be administered sequentially.
 If a dose of 25 mg is required, the use of the 25 mg film-coated tablets should be recommended.

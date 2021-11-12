@@ -19,6 +19,7 @@ It is not possible to determine whether these events are related directly to the
 Priapism
 
 Agents for the treatment of erectile dysfunction, including sildenafil, should be used with caution in patients with anatomical deformation of the penis (such as angulation, cavernosal fibrosis or Peyronie’s disease), or in patients who have conditions which may predispose them to priapism (such as sickle cell anaemia, multiple myeloma or leukaemia).
+
 Prolonged erections and priapism have been reported with sildenafil in post-marketing experience.
 In the event of an erection that persists longer than 4 hours, the patient should seek immediate medical assistance.
 If priapism is not treated immediately, penile tissue damage and permanent loss of potency could result.
@@ -27,7 +28,6 @@ Concomitant use with other PDE5 inhibitors or other treatments for erectile dysf
 
 The safety and efficacy of combinations of sildenafil with other PDE5 Inhibitors, or other pulmonary arterial hypertension (PAH) treatments containing sildenafil (REVATIO), or other treatments for erectile dysfunction have not been studied.
 Therefore the use of such combinations is not recommended.
-
 Effects on vision
 
 Cases of visual defects have been reported spontaneously in connection with the intake of sildenafil and other PDE5 inhibitors (see section 4.8).
@@ -52,8 +52,13 @@ Studies with human platelets indicate that sildenafil potentiates the antiaggreg
 There is no safety information on the administration of sildenafil to patients with bleeding disorders or active peptic ulceration.
 Therefore sildenafil should be administered to these patients only after careful benefit-risk assessment.
 
+Excipients
+
 The film coating of the tablet contains lactose.
-VIAGRA should not be administered to men with rare hereditary problems of galactose intolerance, Lapp lactase deficiency or glucose-galactose malabsorption.
+VIAGRA should not be administered to men with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption.
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet.
+Patients on low sodium diets can be informed that this medicinal product is essentially ‘sodium-free’.
 
 Women
 

@@ -10,6 +10,7 @@ After oral dosing of sildenafil AUC and Cmax increase in proportion with dose ov
 When sildenafil is taken with food, the rate of absorption is reduced with a mean delay in tmax of 60 minutes and a mean reduction in Cmax of 29%.
 
 Distribution
+
 The mean steady state volume of distribution (Vd) for sildenafil is 105 l, indicating distribution into the tissues.
 After a single oral dose of 100 mg, the mean maximum total plasma concentration of sildenafil is approximately 440 ng/mL (CV 40%).
 Since sildenafil (and its major circulating N-desmethyl metabolite) is 96% bound to plasma proteins, this results in the mean maximum free plasma concentration for sildenafil of 18 ng/mL (38 nM).
