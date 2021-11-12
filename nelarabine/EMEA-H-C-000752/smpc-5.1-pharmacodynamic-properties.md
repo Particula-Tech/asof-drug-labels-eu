@@ -34,7 +34,7 @@ Duration of response in both classifications of response ranged between 4.7 and 
 Thirteen (42 %) of the 31 patients treated with one prior induction regimen achieved a complete response overall.
 Nine of these 31 patients failed to respond to prior induction (refractory patients).
 Four (44 %) of the nine refractory patients experienced a complete response to nelarabine.
-
 This medicinal product has been authorised under “exceptional circumstances”.
 This means that due to the rarity of the disease it has not been possible to obtain complete information on this medicinal product.
+
 The European Medicines Agency will review any new information which may become available every year and this SmPC will be updated as necessary.

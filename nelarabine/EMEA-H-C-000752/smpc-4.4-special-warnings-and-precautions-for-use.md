@@ -8,6 +8,7 @@ There have also been reports of reactions associated with demyelination, and asc
 Neurotoxicity is the dose-limiting toxicity of nelarabine.
 Full recovery from these reactions has not always occurred with cessation of nelarabine.
 Therefore, close monitoring for neurological reactions is strongly recommended, and nelarabine must be discontinued at the first sign of neurological reactions of NCI CTCAE Grade 2 or greater.
+
 Patients treated previously or concurrently with intrathecal chemotherapy or previously with craniospinal irradiation are potentially at increased risk for neurological adverse events (see section 4.2 - dose modification) and therefore concomitant intrathecal therapy and/or craniospinal irradiation is not recommended.
 
 Immunisation using a live organism vaccine has the potential to cause infection in immunocompromised hosts.
@@ -31,5 +32,4 @@ Nelarabine however, is known to be genotoxic to mammalian cells (see section 5.3
 
 Sodium warning
 
-This medicinal product contains 1.725 mg/ml (75 micromols/ml) of sodium.
-To be taken into consideration by patients on a controlled sodium diet.
+This medicinal product contains 88.51 mg (3.85 mmol) sodium per vial (50 ml), equivalent to 4.4% of the WHO recommended maximum daily intake of 2 g sodium for an adult.

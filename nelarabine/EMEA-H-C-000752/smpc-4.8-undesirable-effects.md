@@ -5,7 +5,6 @@ Summary of the safety profile
 The safety profile from pivotal clinical studies at the recommended doses of nelarabine in adults (1,500 mg/m2) and children (650 mg/m2) is based on data from 103 adults and 84 paediatric patients respectively.
 The most frequently occurring adverse events were fatigue; gastrointestinal disorders; haematological disorders; respiratory disorders; nervous system disorders (somnolence, peripheral neurological disorders [sensory and motor], dizziness, hypoaesthesia, paraesthesia, headache); and pyrexia.
 Neurotoxicity is the dose-limiting toxicity associated with nelarabine therapy (see section 4.4).
-
 Tabulated list of adverse reactions
 
 The following convention has been utilised for the classification of frequency: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000), and not known (cannot be estimated from the available data).
@@ -86,10 +85,10 @@ Description of selected adverse reactions
 Infection and infestations
 There was a single additional report of biopsy confirmed progressive multifocal leukoencephalopathy in the adult population.
 There have been reports of sometimes fatal opportunistic infections in patients receiving nelarabine therapy.
-
 Nervous system disorders
 There have been reports of events associated with demyelination and ascending peripheral neuropathies similar in appearance to Guillain-Barré syndrome.
 Two paediatric patients had fatal neurological events.
+
 Data from NCI studies/compassionate use programme and phase I studies
 
 In addition to the adverse reactions seen in the pivotal clinical studies, there are also data from 875 patients from NCI studies/compassionate use programme (694 patients) and Phase I (181 patients) studies of nelarabine.
