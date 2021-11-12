@@ -13,7 +13,6 @@ This includes exposure to STELARA in the controlled and non-controlled periods o
 Table 2 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience.
 The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥1/10), Common (≥1/100 to < 1/10), Uncommon (≥1/1,000 to < 1/100), Rare (≥1/10,000 to < 1/1,000), Very rare (< 1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-
 Table 2 List of adverse reactions
 
 System Organ Class Frequency: Adverse reaction
@@ -44,6 +43,7 @@ Skin and subcutaneous tissue Common: Pruritus
 disorders Uncommon: Pustular psoriasis, skin exfoliation, acne
 
 Rare: Exfoliative dermatitis, hypersensitivity vasculitis
+Very rare: Bullous pemphigoid
 
 Musculoskeletal and connective Common: Back pain, myalgia, arthralgia tissue disorders
 
@@ -61,7 +61,6 @@ Serious infections occurred at the rate of 0.03 per patient-year of follow-up in
 
 In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies, representing 11,581 patient-years of exposure in 6,709 patients, the median follow-up was 1.0 years; 1.1 years for psoriatic disease studies, 0.6 year for Crohn’s disease studies and 1.0 years for ulcerative colitis studies.
 The rate of infection was 0.91 per patient-year of follow-up in ustekinumab-treated patients, and the rate of serious infections was 0.02 per patient-year of follow-up in ustekinumab-treated patients (199 serious infections in 11,581 patient-years of follow-up) and serious infections reported included pneumonia, anal abscess, cellulitis, diverticulitis, gastroenteritis and viral infections.
-
 In clinical studies, patients with latent tuberculosis who were concurrently treated with isoniazid did not develop tuberculosis.
 
 Malignancies
@@ -79,6 +78,7 @@ The ratio of patients with basal versus squamous cell skin cancers (3:1) is comp
 Hypersensitivity and infusion reactions
 In Crohn’s disease and ulcerative colitis intravenous induction studies, no events of anaphylaxis or other serious infusion reactions were reported following the single intravenous dose.
 In these studies, 2.2% of 785 placebo-treated patients and 1.9% of 790 patients treated with the recommended dose of ustekinumab reported adverse events occurring during or within an hour of the infusion.
+Serious infusion-related reactions including anaphylactic reactions to the infusion have been reported in the post-marketing setting (see section 4.4).
 
 Paediatric population
 Paediatric patients 6 years and older with plaque psoriasis

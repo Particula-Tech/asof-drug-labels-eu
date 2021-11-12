@@ -82,6 +82,7 @@ Clinical remission is defined as CDAI score < 150; Clinical response is defined 
 † Patients who were in 100 point clinical response to ustekinumab at start of maintenance therapy
 ‡ Patients who failed conventional therapy but not anti-TNFα therapy
 § Patients who are anti-TNFα refractory/intolerant a p < 0.01 b p < 0.05 c nominally significant (p < 0.05)
+
 In IM-UNITI, 29 of 129 patients did not maintain response to ustekinumab when treated every 12 weeks and were allowed to dose adjust to receive ustekinumab every 8 weeks.
 Loss of response was defined as a CDAI score ≥220 points and a ≥100 point increase from the CDAI score at baseline.
 In these patients, clinical remission was achieved in 41.4% of patients 16 weeks after dose adjustment.
@@ -102,7 +103,6 @@ Endoscopy
 Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy.
 The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn’s Disease (SES-CD), a composite score across 5 ileo-colonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures.
 At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = -0.7, p = 0.012).
-
 Fistula Response
 In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumab-treated patients achieved a fistula response over 44 weeks (defined as ≥50% reduction from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
 
@@ -111,6 +111,7 @@ Health-related quality of life was assessed by Inflammatory Bowel Disease Questi
 At week 8, patients receiving ustekinumab showed statistically significantly greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo.
 These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo.
 Improvement in health-related quality of life was generally maintained during the extension through week 252.
+
 Ulcerative colitis
 The safety and efficacy of ustekinumab was assessed in two randomized, double-blind, placebo-controlled, multicenter studies in adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12; Endoscopy subscore ≥2).
 The clinical development program consisted of one intravenous induction study (referred to as UNIFI-I) with treatment of up to 16 weeks followed by a 44 week subcutaneous randomized withdrawal maintenance study (referred to as UNIFI-M) representing at least 52 weeks of therapy.
@@ -210,10 +211,10 @@ In UNIFI, patients who completed the study through week 44 were eligible to cont
 Among the 588 patients who entered and were treated in the study extension, symptomatic remission was generally maintained through week 92 for patients who failed conventional therapy (but not a biologic therapy) and those who failed biologic therapy, including those who failed both anti-TNF and vedolizumab.
 
 No new safety concerns were identified in this study extension with up to 2 years of treatment in patients with ulcerative colitis.
-
 Endoscopic Normalization
 Endoscopic normalization was defined as a Mayo endoscopic subscore of 0 and was observed as early as week 8 of UNIFI-I.
 At week 44 of UNIFI-M, it was achieved in 24% and 29% of patients treated with ustekinumab every 12 or 8 weeks, respectively, as compared to 18% of patients in the placebo group.
+
 Histologic & Histo-Endoscopic Mucosal Healing
 Histologic healing (defined as neutrophil infiltration in < 5% of crypts, no crypt destruction, and no erosions, ulcerations, or granulation tissue) was assessed at week 8 of UNIFI-I and Week 44 of UNIFI-M.
 At week 8, after a single intravenous induction dose, significantly greater proportions of patients in the recommended dose group achieved histologic healing (36%) compared with patients in the placebo group (22%).
@@ -243,7 +244,6 @@ Antibodies to ustekinumab may develop during ustekinumab treatment and most are 
 The formation of anti-ustekinumab antibodies is associated with increased clearance of ustekinumab in patients with Crohn’s disease or ulcerative colitis.
 No reduced efficacy was observed.
 There is no apparent correlation between the presence of anti-ustekinumab antibodies and the occurrence of injection site reactions.
-
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in Crohn’s Disease and ulcerative colitis (see section 4.2 for information on paediatric use).
 
@@ -252,6 +252,7 @@ The European Medicines Agency has deferred the obligation to submit the results 
 Plaque psoriasis (Adults)
 The safety and efficacy of ustekinumab was assessed in 1,996 patients in two randomised, double-blind, placebo-controlled studies in patients with moderate to severe plaque psoriasis and who were candidates for phototherapy or systemic therapy.
 In addition, a randomised, blinded assessor, active-controlled study compared ustekinumab and etanercept in patients with moderate to severe plaque psoriasis who had had an inadequate response to, intolerance to, or contraindication to ciclosporin, MTX, or PUVA.
+
 Psoriasis Study 1 (PHOENIX 1) evaluated 766 patients.
 53% of these patients were either non-responsive, intolerant, or had a contraindication to other systemic therapy.
 Patients randomised to ustekinumab received 45 mg or 90 mg doses at Weeks 0 and 4 and followed by the same dose every 12 weeks.
@@ -337,6 +338,7 @@ The improvement was sustained through week 28.
 Similarly, significant improvements were seen in Psoriasis Study 2 at week 4 and 12, which were sustained through week 24.
 In Psoriasis Study 1, improvements in nail psoriasis (Nail Psoriasis Severity Index), in the physical and mental component summary scores of the SF-36 and in the Itch Visual Analogue Scale (VAS) were also significant in each ustekinumab treatment group compared with placebo.
 In Psoriasis Study 2, the Hospital Anxiety and Depression Scale (HADS) and Work Limitations Questionnaire (WLQ) were also significantly improved in each ustekinumab treatment group compared with placebo.
+
 Psoriatic arthritis (PsA) (Adults)
 Ustekinumab has been shown to improve signs and symptoms, physical function and health-related quality of life, and reduce the rate of progression of peripheral joint damage in adult patients with active PsA.
 

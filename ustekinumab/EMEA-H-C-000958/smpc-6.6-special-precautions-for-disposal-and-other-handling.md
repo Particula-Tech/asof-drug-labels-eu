@@ -4,9 +4,9 @@ The solution in the STELARA vial should not be shaken.
 The solution should be visually inspected for particulate matter or discoloration prior to administration.
 The solution is clear, colourless to light yellow.
 The medicinal product should not be used if the solution is discoloured or cloudy, or if foreign particulate matter is present.
-
 Dilution
 STELARA concentrate for solution for infusion must be diluted and prepared by a healthcare professional using aseptic technique.
+
 1.
 Calculate the dose and the number of STELARA vials needed based on patient weight (see section 4.2, Table 1).
 Each 26 mL vial of STELARA contains 130 mg of ustekinumab.

@@ -7,6 +7,8 @@ Infections
 Ustekinumab may have the potential to increase the risk of infections and reactivate latent infections.
 In clinical studies, serious bacterial, fungal, and viral infections have been observed in patients receiving STELARA (see section 4.8).
 
+Opportunistic infections have been reported in patients treated with ustekinumab.
+
 Caution should be exercised when considering the use of STELARA in patients with a chronic infection or a history of recurrent infection (see section 4.3).
 
 Prior to initiating treatment with STELARA, patients should be evaluated for tuberculosis infection.
@@ -17,6 +19,7 @@ Patients receiving STELARA should be monitored closely for signs and symptoms of
 
 Patients should be instructed to seek medical advice if signs or symptoms suggestive of an infection occur.
 If a patient develops a serious infection, the patient should be closely monitored and STELARA should not be administered until the infection resolves.
+
 Malignancies
 Immunosuppressants like ustekinumab have the potential to increase the risk of malignancy.
 Some patients who received STELARA in clinical studies developed cutaneous and non-cutaneous malignancies (see section 4.8).
@@ -31,6 +34,11 @@ Systemic
 Serious hypersensitivity reactions have been reported in the postmarketing setting, in some cases several days after treatment.
 Anaphylaxis and angioedema have occurred.
 If an anaphylactic or other serious hypersensitivity reaction occurs, appropriate therapy should be instituted and administration of STELARA should be discontinued (see section 4.8).
+
+Infusion-related reactions
+Infusion-related reactions were observed in clinical trials (see section 4.8).
+Serious infusion-related reactions including anaphylactic reactions to the infusion have been reported in the post-marketing setting.
+If a serious or life-threatening reaction is observed, appropriate therapy should be instituted and ustekinumab should be discontinued.
 
 Respiratory
 Cases of allergic alveolitis, eosinophilic pneumonia, and non-infectious organising pneumonia have been reported during post-approval use of ustekinumab.
@@ -59,6 +67,7 @@ Caution should be exercised when considering concomitant use of other immunosupp
 Immunotherapy
 STELARA has not been evaluated in patients who have undergone allergy immunotherapy.
 It is not known whether STELARA may affect allergy immunotherapy.
+
 Serious skin conditions
 In patients with psoriasis, exfoliative dermatitis has been reported following ustekinumab treatment (see section 4.8).
 Patients with plaque psoriasis may develop erythrodermic psoriasis, with symptoms that may be clinically indistinguishable from exfoliative dermatitis, as part of the natural course of their disease.

@@ -9,8 +9,7 @@ Animal studies do not indicate direct or indirect harmful effects with respect t
 As a precautionary measure, it is preferable to avoid the use of STELARA in pregnancy.
 
 Breast-feeding
-It is unknown whether ustekinumab is excreted in human breast milk.
-Animal studies have shown excretion of ustekinumab at low levels in breast milk.
+Limited data from published literature suggests that ustekinumab is excreted in human breast milk in very small amounts.
 It is not known if ustekinumab is absorbed systemically after ingestion.
 Because of the potential for adverse reactions in nursing infants from ustekinumab, a decision on whether to discontinue breast-feeding during treatment and up to 15 weeks after treatment or to discontinue therapy with STELARA must be made taking into account the benefit of breast-feeding to the child and the benefit of STELARA therapy to the woman.
 
