@@ -49,7 +49,6 @@ Dolutegravir has a less than or equal to 10 FC against 94% of the 705 clinical i
 Resistance in vivo
 In previously untreated patients receiving dolutegravir + 2 NRTIs in Phase IIb and Phase III, no development of resistance to the integrase class, or to the NRTI class was seen (n=1118 follow-up of 48-96 weeks).
 In previously untreated patients receiving dolutegravir + lamivudine in the GEMINI studies through week 96 (n=716), no development of resistance to the integrase class, or to the NRTI class was seen.
-
 In patients with prior failed therapies, but naïve to the integrase class (SAILING study), integrase inhibitor substitutions were observed in 4/354 patients (follow-up 48 weeks) treated with dolutegravir, which was given in combination with an investigator selected background regimen (BR).
 Of these four, two subjects had a unique R263K integrase substitution, with a maximum FC of 1.93, one subject had a polymorphic V151V/I integrase substitution, with maximum FC of 0.92, and one subject had pre-existing integrase mutations and is assumed to have been integrase experienced or infected with integrase resistant virus by transmission.
 The R263K mutation was also selected in vitro (see above).
@@ -118,7 +117,6 @@ At week 96, results were consistent with those seen at week 48.
 In SPRING-2, dolutegravir was still non-inferior to raltegravir (viral suppression in 81% vs 76% of patients), and with a median change in CD4 count of 276 vs 264 cells/mm3, respectively.
 In SINGLE, dolutegravir + ABC/3TC was still superior to EFV/TDF/FTC (viral suppression in 80% vs 72%, treatment difference 8.0% (2.3, 13.8), p=0.006, and with an adjusted mean change in CD4 count of 325 vs 281 cells/ mm3, respectively.
 At 144 weeks in the open-label phase of SINGLE, virologic suppression was maintained, the dolutegravir + ABC/3TC arm (71%) was superior to the EFV/TDF/FTC arm (63%), treatment difference was 8.3% (2.0, 14.6).
-
 In FLAMINGO (ING114915), an open-label, randomised and active-controlled study, 484 HIV-1 infected antiretroviral naïve adults received one dose of either dolutegravir 50 mg once daily (n=242) or darunavir/ritonavir (DRV/r) 800 mg/100 mg once daily (n=242), both administered with either ABC/3TC or TDF/FTC.
 At baseline, median patient age was 34 years, 15% were female, 28% non-white, 10% had hepatitis B and/or C co-infection, and 3% were CDC Class C; these characteristics were similar between treatment groups.
 Virologic suppression (HIV-1 RNA <50 copies/mL) in the dolutegravir group (90%) was superior to the DRV/r group (83%) at 48 weeks.
@@ -231,7 +229,6 @@ a Included primary IN resistance mutations N155H, Y143C/H/R, T66A, E92Q
 b Secondary mutations from G140A/C/S, E138A/K/T, L74I.
 
 In patients without a primary mutation detected at baseline (N=60) (i.e. RAL/EVG not part of current failing therapy) there was a 1.63 log10 reduction in viral load at day 8.
-
 After the functional monotherapy phase, subjects had the opportunity to re-optimize their background regimen when possible.
 The overall response rate through 24 weeks of therapy, 69% (126/183), was generally sustained through 48 weeks with 116/183 (63%) of patients with HIV-1 RNA <50c/mL (ITT-E, Snapshot algorithm).
 When excluding patients who stopped therapy for non-efficacy reasons, and those with major protocol deviations (incorrect dolutegravir dosing, intake of prohibited co-medication), namely, “the Virological Outcome (VO)-population)”, the corresponding response rates were 75% (120/161, week 24) and 69% (111/160, week 48).
@@ -265,7 +262,6 @@ In a combined analysis of VIKING-3 and VIKING-4 (n=186, VO population), the prop
 The proportion of subjects with HIV RNA <50 copies/mL was 96/126 (76%) for No Q148 mutations, 22/41 (54%) for Q148+1 and 5/19 (26%) for Q148+≥2 secondary mutations.
 
 Paediatric population
-
 In an ongoing Phase I/II 48 week multicentre, open-label study (P1093/ING112578), the pharmacokinetic parameters, safety, tolerability and efficacy of dolutegravir film-coated tablets and dispersible tablets following once daily dosing were evaluated in combination regimens in HIV-1 infected infants, children and adolescents aged ≥ 4 weeks to < 18 years, the majority of whom were treatment-experienced.
 
 The efficacy results (Table 10) include participants who received the recommended once daily doses of either film-coated tablets or dispersible tablets.
