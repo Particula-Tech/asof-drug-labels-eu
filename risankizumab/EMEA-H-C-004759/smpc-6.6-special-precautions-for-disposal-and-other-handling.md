@@ -11,6 +11,7 @@ Skyrizi 150 mg solution for injection in pre-filled syringe
 Before injecting, patients may remove the carton from the refrigerator and allow to reach room temperature out of direct sunlight (15 to 30 minutes) without removing the pre-filled syringe from the carton.
 
 The solution should be colourless to yellow and clear to slightly opalescent.
+
 Skyrizi 75 mg solution for injection in pre-filled syringe
 
 Before injecting, patients may remove the carton from the refrigerator and allow to reach room temperature out of direct sunlight (15 to 30 minutes) without removing the pre-filled syringes from the carton.

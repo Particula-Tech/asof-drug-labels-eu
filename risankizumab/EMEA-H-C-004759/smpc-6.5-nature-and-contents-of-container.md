@@ -3,7 +3,6 @@
 Skyrizi 150 mg solution for injection in pre-filled pen
 
 Pre-filled glass syringe assembled in a pre-filled pen with an automatic needle sleeve.
-
 Skyrizi 150 mg solution for injection in pre-filled syringe
 
 Pre-filled glass syringe with a fixed needle and needle cover, assembled in an automatic needle guard.

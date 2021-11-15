@@ -1,11 +1,14 @@
 # 5.2 Pharmacokinetic properties
 
+The pharmacokinetics of risankizumab was similar between subjects with plaque psoriasis and subjects with psoriatic arthritis.
+
 Absorption
 
 Risankizumab exhibited linear pharmacokinetics with dose-proportional increase in exposure across dose ranges of 18 to 300 mg and 0.25 to 1 mg/kg administered subcutaneously, and 200 to 1 200 mg and 0.01 to 5 mg/kg administered intravenously.
 
 Following subcutaneous dosing of risankizumab, peak plasma concentrations were achieved between 3-14 days after dosing with an estimated absolute bioavailability of 89%.
-With dosing of 150 mg at week 0, week 4 and every 12 weeks thereafter, estimated steady-state peak and trough plasma concentrations are 12 and 2 µg/mL, respectively.
+With dosing of 150 mg at week 0, week 4, and every 12 weeks thereafter, estimated steady-state peak and trough plasma concentrations are 12 and 2 µg/mL, respectively.
+
 Bioequivalence was demonstrated between a single risankizumab 150 mg injection and two risankizumab 75 mg injections in pre-filled syringe.
 Bioequivalence was also demonstrated between risankizumab 150 mg pre-filled syringe and pre-filled pen.
 
@@ -26,7 +29,6 @@ The mean terminal elimination half-life of risankizumab ranged from 28 to 29 day
 As an IgG1 monoclonal antibody, risankizumab is not expected to be filtered by glomerular filtration in the kidneys or to be excreted as an intact molecule in the urine.
 
 Linearity/non-linearity
-
 Risankizumab exhibited linear pharmacokinetics with approximately dose-proportional increases in systemic exposure (Cmax and AUC) in the evaluated dose ranges of 18 to 300 mg or 0.25 to 1 mg/kg subcutaneous administration in healthy subjects or subjects with psoriasis.
 
 Interactions
@@ -34,7 +36,7 @@ Interactions
 An interaction study was conducted in subjects with plaque psoriasis to assess the effect of repeated administration of risankizumab on the pharmacokinetics of cytochrome P450 (CYP) sensitive probe substrates.
 The exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), metoprolol (CYP2D6 substrate) and midazolam (CYP3A substrate) following risankizumab treatment were comparable to their exposures prior to risankizumab treatment, indicating no clinically meaningful interactions through these enzymes.
 
-Population pharmacokinetic analyses indicated that risankizumab exposure was not impacted by concomitant medicinal products (metformin, atorvastatin, lisinopril, amlodipine, ibuprofen, acetylsalicylate and levothyroxine) used by some subjects with plaque psoriasis during the clinical studies.
+Population pharmacokinetic analyses indicated that risankizumab exposure was not impacted by concomitant treatment used by some subjects with plaque psoriasis or psoriatic arthritis during the clinical studies.
 
 Special populations
 
@@ -45,11 +47,13 @@ The pharmacokinetics of risankizumab in paediatric subjects has not been establi
 Elderly
 
 Of the 2 234 subjects with plaque psoriasis exposed to risankizumab, 243 were 65 years or older and 24 subjects were 75 years or older.
+Of the 1 542 subjects with psoriatic arthritis exposed to risankizumab, 246 were 65 years or older and 34 subjects were 75 years or older.
 No overall differences in risankizumab exposure were observed between older and younger subjects who received risankizumab.
+
 Patients with renal or hepatic impairment
 
 No specific studies have been conducted to determine the effect of renal or hepatic impairment on the pharmacokinetics of risankizumab.
-Based on population pharmacokinetic analyses, serum creatinine levels, creatinine clearance, or hepatic function markers (ALT/AST/bilirubin) did not have a meaningful impact on risankizumab clearance in subjects with psoriasis.
+Based on population pharmacokinetic analyses, serum creatinine levels, creatinine clearance, or hepatic function markers (ALT/AST/bilirubin) did not have a meaningful impact on risankizumab clearance in subjects with plaque psoriasis or psoriatic arthritis.
 
 As an IgG1 monoclonal antibody, risankizumab is mainly eliminated via intracellular catabolism and is not expected to undergo metabolism via hepatic cytochrome P450 enzymes or renal elimination.
 
@@ -61,5 +65,5 @@ No dose adjustment based on body weight is currently recommended.
 
 Gender or race
 
-The clearance of risankizumab was not significantly influenced by gender or race in adult subjects with plaque psoriasis.
-No clinically meaningful differences in risankizumab exposure were observed in Chinese or Japanese subjects compared to Caucasian subjects in a clinical pharmacokinetic study.
+The clearance of risankizumab was not significantly influenced by gender or race in adult subjects with plaque psoriasis or psoriatic arthritis.
+No clinically meaningful differences in risankizumab exposure were observed in Chinese or Japanese subjects compared with Caucasian subjects in a clinical pharmacokinetic study.
