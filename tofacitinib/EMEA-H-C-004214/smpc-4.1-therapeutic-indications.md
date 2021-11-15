@@ -8,13 +8,17 @@ Psoriatic arthritis
 
 Tofacitinib in combination with MTX is indicated for the treatment of active psoriatic arthritis (PsA) in adult patients who have had an inadequate response or who have been intolerant to a prior disease-modifying antirheumatic drug (DMARD) therapy (see section 5.1).
 
+Ankylosing spondylitis
+
+Tofacitinib is indicated for the treatment of adult patients with active ankylosing spondylitis (AS) who have responded inadequately to conventional therapy.
+
 Ulcerative colitis
 
 Tofacitinib is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis (UC) who have had an inadequate response, lost response, or were intolerant to either conventional therapy or a biologic agent (see section 5.1).
 
 Juvenile idiopathic arthritis (JIA)
 
-Tofacitinib is indicated for the treatment of active polyarticular juvenile idiopathic arthritis (rheumatoid factor positive [RF+]or negative [RF-] polyarthritis and extended oligoarthritis), and juvenile psoriatic arthritis (PsA) in patients 2 years of age and older, who have responded inadequately to previous therapy with DMARDs.
+Tofacitinib is indicated for the treatment of active polyarticular juvenile idiopathic arthritis (rheumatoid factor positive [RF+] or negative [RF-] polyarthritis and extended oligoarthritis), and juvenile psoriatic arthritis (PsA) in patients 2 years of age and older, who have responded inadequately to previous therapy with DMARDs.
 
 Tofacitinib can be given in combination with methotrexate (MTX) or as monotherapy in case of intolerance to MTX or where continued treatment with MTX is inappropriate.
 

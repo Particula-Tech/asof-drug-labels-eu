@@ -7,7 +7,6 @@ Tofacitinib exposure is increased when coadministered with potent inhibitors of 
 
 Tofacitinib exposure is decreased when coadministered with potent CYP inducers (e.g., rifampicin).
 Inhibitors of CYP2C19 alone or P-glycoprotein are unlikely to significantly alter the PK of tofacitinib.
-
 Coadministration with ketoconazole (strong CYP3A4 inhibitor), fluconazole (moderate CYP3A4 and potent CYP2C19 inhibitor), tacrolimus (mild CYP3A4 inhibitor) and ciclosporine (moderate CYP3A4 inhibitor) increased tofacitinib AUC, while rifampicin (potent CYP inducer) decreased tofacitinib AUC.
 Coadministration of tofacitinib with potent CYP inducers (e.g., rifampicin) may result in a loss of or reduced clinical response (see Figure 1).
 Coadministration of potent inducers of CYP3A4 with tofacitinib is not recommended.
@@ -21,37 +20,29 @@ Coadministered PK Ratio and 90% CI Recommendation
 
 Drug
 
-CYP3A Inhibitor Ketoconazole AUC Tofacitinib dose should be reduced a
+CYP3A Inhibitor
+
+Ketoconazole AUC Tofacitinib dose should be reduced a
 
 Cmax
+CYP3A & CYP2C19 Inhibitor
 
-CYP3A & CYP2C19 InhibitorFluconazole AUC Tofacitinib dose should be reduced a
+Fluconazole AUC Tofacitinib dose should be reduced a
 
 Cmax
+CYP Inducer
 
-CYP Inducer Rifampicin AUC Efficacy may be decreased
+Rifampicin AUC Efficacy may be decreased
 
 Cmax
 
 Methotrexate AUC No dose adjustment
 
-|  | AUC |
-| --- | --- |
-| Cmax |  |
+Cmax
 
 Tacrolimus AUC Combined use of tofacitinib with
-
-|  | AUC |
-| --- | --- |
-| Cmax |  |
-
 Cmax tacrolimus should be avoided
 Ciclosporine AUC Combined use of tofacitinib with
-
-|  | AUC |
-| --- | --- |
-| Cmax |  |
-
 Cmax ciclosporine should be avoided
 
 0 0.5 1 1.5 2 2.5
@@ -63,6 +54,7 @@ Tofacitinib dose should be reduced to 5 mg once daily in patients receiving 5 mg
 Potential for tofacitinib to influence the PK of other medicinal products
 
 Coadministration of tofacitinib did not have an effect on the PK of oral contraceptives, levonorgestrel and ethinyl estradiol, in healthy female volunteers.
+
 In RA patients, coadministration of tofacitinib with MTX 15-25 mg once weekly decreased the AUC and Cmax of MTX by 10% and 13%, respectively.
 The extent of decrease in MTX exposure does not warrant modifications to the individualised dosing of MTX.
 
@@ -75,9 +67,5 @@ Interaction studies have only been performed in adults.
 a Tofacitinib dose should be reduced to 5 mg (as film-coated tablet) once daily in patients receiving 11 mg (as prolonged-release tablet) once daily (see section 4.2).
 
 [XELJANZ 1 mg/mL oral solution]
-
-CYP3A Inhibitor Ketoconazol AUC Tofacitinib dose should be reduced a
-
-CYP3A & CYP2C19 Inhibitor Fluconazole AUC Tofacitinib dose should be reduced a
 
 a Tofacitinib dose should be reduced to 5 mg film-coated tablet once daily or oral solution weight-based equivalent in patients receiving 5 mg or weight-based equivalent twice daily (see section 4.2).

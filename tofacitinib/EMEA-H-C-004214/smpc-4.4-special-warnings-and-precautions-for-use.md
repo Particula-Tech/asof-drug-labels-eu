@@ -1,16 +1,26 @@
 # 4.4 Special warnings and precautions for use
 
+Use in patients over 65 years of age
+
+Considering the increased risk of serious infections, myocardial infarction, and malignancies with tofacitinib in patients over 65 years of age, tofacitinib should only be used in these patients if no suitable treatment alternatives are available (see further details below in section 4.4 and section 5.1).
+
 Combination with other therapies
 
 Tofacitinib has not been studied and its use should be avoided in combination with biologics such as TNF antagonists, interleukin (IL)-1R antagonists, IL-6R antagonists, anti-CD20 monoclonal antibodies, IL-17 antagonists, IL-12/IL-23 antagonists, anti-integrins, selective co-stimulation modulators and potent immunosuppressants such as azathioprine, 6-mercaptopurine, ciclosporine and tacrolimus because of the possibility of increased immunosuppression and increased risk of infection.
 
 There was a higher incidence of adverse events for the combination of tofacitinib with MTX versus tofacitinib as monotherapy in RA clinical studies.
+
 The use of tofacitinib in combination with phosphodiesterase 4 inhibitors has not been studied in tofacitinib clinical studies.
 
 Venous thromboembolism (VTE)
 
 Serious VTE events including pulmonary embolism (PE), some of which were fatal, and deep vein thrombosis (DVT), have been observed in patients taking tofacitinib.
-A dose dependent increased risk for VTE was observed in a clinical study with tofacitinib compared to TNF inhibitors (see sections 4.8 and 5.1).
+In a randomised post-authorisation safety study in patients with rheumatoid arthritis who were 50 years of age or older with at least one additional cardiovascular risk factor, a dose dependent increased risk for VTE was observed in a clinical study with tofacitinib compared to TNF inhibitors (see sections 4.8 and 5.1).
+
+In a post hoc exploratory analysis within this study, in patients with known VTE risk factors, occurrences of subsequent VTEs were observed more frequently in tofacitinib-treated patients that, at 12 months treatment, had D-dimer level ≥2× ULN versus those with D-dimer level <2× ULN; this was not evident in TNF inhibitor-treated patients.
+Interpretation is limited by the low number of VTE events and restricted D-dimer test availability (only assessed at Baseline, Month 12, and at the end of the study).
+In patients who did not have a VTE during the study, mean D-dimer levels were significantly reduced at Month 12 relative to Baseline across all treatment arms.
+However, D-dimer levels ≥2× ULN at Month 12 were observed in approximately 30% of patients without subsequent VTE events, indicating limited specificity of D-Dimer testing in this study.
 
 Tofacitinib should be used with caution in patients with known risk factors for VTE, regardless of indication and dosage.
 
@@ -19,6 +29,9 @@ Tofacitinib 10 mg twice daily for maintenance treatment is not recommended in pa
 VTE risk factors include previous VTE, patients undergoing major surgery, immobilisation, myocardial infarction (within previous 3 months), heart failure, use of combined hormonal contraceptives or hormone replacement therapy, inherited coagulation disorder, malignancy.
 Additional VTE risk factors such as age, obesity (BMI ≥30), diabetes, hypertension, smoking status should also be considered.
 Patients should be re-evaluated periodically during tofacitinib treatment to assess for changes in VTE risk.
+
+For patients with RA with known risk factors for VTE, consider testing D-dimer levels after approximately 12 months of treatment.
+If D-dimer test result is ≥ 2× ULN, confirm that clinical benefits outweigh risks prior to a decision on treatment continuation with tofacitinib.
 
 Promptly evaluate patients with signs and symptoms of VTE and discontinue tofacitinib in patients with suspected VTE, regardless of dose or indication.
 
@@ -35,15 +48,15 @@ The risks and benefits of treatment should be considered prior to initiating tof
 - with recurrent infections,
 - with a history of a serious or an opportunistic infection,
 - who have resided or travelled in areas of endemic mycoses,
-- who have underlying conditions that may predispose them to infection,
-- who are over 65 years of age
+- who have underlying conditions that may predispose them to infection.
 
 Patients should be closely monitored for the development of signs and symptoms of infection during and after treatment with tofacitinib.
 Treatment should be interrupted if a patient develops a serious infection, an opportunistic infection, or sepsis.
 A patient who develops a new infection during treatment with tofacitinib should undergo prompt and complete diagnostic testing appropriate for an immunocompromised patient, appropriate antimicrobial therapy should be initiated, and the patient should be closely monitored.
 
 As there is a higher incidence of infections in the elderly and in the diabetic populations in general, caution should be used when treating the elderly and patients with diabetes (see section 4.8).
-In patients over 65 years of age tofacitinib should only be considered if no suitable alternative treatment is available (see section 5.1).
+In patients over 65 years of age tofacitinib should only be used if no suitable treatment alternatives are available (see section 5.1).
+
 Risk of infection may be higher with increasing degrees of lymphopenia and consideration should be given to lymphocyte counts when assessing individual patient risk of infection.
 Discontinuation and monitoring criteria for lymphopenia are discussed in section 4.2.
 
@@ -76,18 +89,25 @@ The impact of tofacitinib on chronic viral hepatitis reactivation is unknown.
 Patients screened positive for hepatitis B or C were excluded from clinical trials.
 Screening for viral hepatitis should be performed in accordance with clinical guidelines before starting therapy with tofacitinib.
 
+Major adverse cardiovascular events (including myocardial infarction)
+
+Major adverse cardiovascular events (MACE) have been observed in patients taking tofacitinib.
+
+In a randomised post authorisation safety study in patients with RA who were 50 years of age or older with at least one additional cardiovascular risk factor, an increased incidence of myocardial infarctions was observed with tofacitinib compared to TNF inhibitors (see sections 4.8 and 5.1).
+In patients over 65 years of age, patients who are current or past smokers, and patients with other cardiovascular risk factors, tofacitinib should only be used if no suitable treatment alternatives are available.
+
 Malignancy and lymphoproliferative disorder
 
-The risks and benefits of tofacitinib treatment should be considered prior to initiating therapy in patients with current or a history of malignancy other than a successfully treated non-melanoma skin cancer (NMSC) or when considering continuing tofacitinib in patients who develop a malignancy.
-The possibility exists for tofacitinib to affect host defences against malignancies.
+Tofacitinib may affect host defences against malignancies.
 
-Lymphomas have been observed in patients treated with tofacitinib.
-Patients with RA, particularly those with highly active disease may be at a higher risk (up to several-fold) than the general population for the development of lymphoma.
-The effect of tofacitinib on the development of lymphoma is uncertain.
+In a randomised post authorisation safety study in patients with RA who were 50 years of age or older with at least one additional cardiovascular risk factor, an increased incidence of malignancies excluding NMSC, particularly lung cancer and lymphoma, was observed with tofacitinib compared to TNF inhibitors (see sections 4.8 and 5.1).
 
-Other malignancies were observed in clinical studies and the post-marketing setting, including, but not limited to, lung cancer, breast cancer, melanoma, prostate cancer, and pancreatic cancer.
+Lung cancers and lymphoma in patients treated with tofacitinib have also been observed in other clinical studies and in the post marketing setting.
 
-The effect of tofacitinib on the development and course of malignancies is not known.
+Other malignancies in patients treated with tofacitinib were observed in clinical studies and the post-marketing setting, including, but not limited to, breast cancer, melanoma, prostate cancer, and pancreatic cancer.
+
+In patients over 65 years of age, patients who are current or past smokers, and patients with other malignancy risk factors (e.g. current malignancy or history of malignancy other than a successfully treated non-melanoma skin cancer) tofacitinib should only be used if no suitable treatment alternatives are available.
+
 Non-melanoma skin cancer
 
 NMSCs have been reported in patients treated with tofacitinib.
@@ -105,11 +125,6 @@ Gastrointestinal perforations
 Events of gastrointestinal perforation have been reported in clinical trials although the role of JAK inhibition in these events is not known.
 Tofacitinib should be used with caution in patients who may be at increased risk for gastrointestinal perforation (e.g., patients with a history of diverticulitis, patients with concomitant use of corticosteroids and/or nonsteroidal anti-inflammatory drugs).
 Patients presenting with new onset abdominal signs and symptoms should be evaluated promptly for early identification of gastrointestinal perforation.
-
-Cardiovascular risk
-
-RA and PsA patients have an increased risk for cardiovascular disorders.
-Patients treated with tofacitinib should have risk factors (e.g., hypertension, hyperlipidaemia) managed as part of usual standard of care.
 
 Liver enzymes
 
@@ -138,7 +153,6 @@ Treatment with tofacitinib was associated with an increased incidence of neutrop
 It is not recommended to initiate tofacitinib treatment in adult patients with an ANC less than 1,000 cells/mm3 and in paediatric patients with an ANC less than 1,200 cells/mm3.
 ANC should be monitored at baseline and after 4 to 8 weeks of treatment and every 3 months thereafter.
 For recommended modifications based on ANC, see section 4.2.
-
 Haemoglobin
 Treatment with tofacitinib has been associated with decreases in haemoglobin levels.
 It is not recommended to initiate tofacitinib treatment in adult patients with a haemoglobin value less than 9 g/dL and in paediatric patients with a haemoglobin value less than 10 g/dL.
@@ -199,11 +213,7 @@ The content of sorbitol in medicinal products for oral use may affect the bioava
 
 [XELJANZ 1 mg/mL oral solution]
 
-Tofacitnib should be used with caution in patients with known risk factors for VTE, regardless of indication and dosage.
-
 As there is a higher incidence of infections in the diabetic populations in general, caution should be used when treating patients with diabetes (see section 4.8).
-
-RA patients have an increased risk for cardiovascular disorders.
 
 It is not recommended to initiate tofacitinib treatment in adult patients with a haemoglobin value less than 9 g/dL and in paediatric patients with haemoglobin value less than 10 g/dL.
 

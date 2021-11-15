@@ -21,6 +21,9 @@ prolonged-release tableta
 
 a See section 5.2 for comparison of pharmacokinetics of prolonged-release and film-coated formulations.
 
+Ankylosing spondylitis
+
+The recommended dose of tofacitinib is 5 mg administered twice daily.
 Ulcerative colitis
 
 Induction treatment
@@ -28,6 +31,7 @@ The recommended dose is 10 mg given orally twice daily for induction for 8 weeks
 
 For patients who do not achieve adequate therapeutic benefit by week 8, the induction dose of 10 mg twice daily can be extended for an additional 8 weeks (16 weeks total), followed by 5 mg twice daily for maintenance.
 Tofacitinib induction therapy should be discontinued in any patient who shows no evidence of therapeutic benefit by week 16.
+
 Maintenance treatment
 The recommended dose for maintenance treatment is tofacitinib 5 mg given orally twice daily.
 
@@ -57,19 +61,19 @@ Table 2: Tofacitinib dose for patients with polyarticular juvenile idiopathic ar
 | --- | --- |
 | 10 - < 20 | 3.2 mg (3.2 mL of oral solution) twice daily |
 | 20 - < 40 | 4 mg (4 mL of oral solution) twice daily |
-| ≥ 40 | 5 mg (5 mL of oral solution or 5 mg film-coated tablet) twice daily |
+| ≥40 | 5 mg (5 mL of oral solution or 5 mg film-coated tablet) twice daily |
 
-Patients ≥ 40 kg treated with tofacitinib 5 mL oral solution twice daily may be switched to tofacitinib 5 mg film-coated tablets twice daily.
+Patients ≥40 kg treated with tofacitinib 5 mL oral solution twice daily may be switched to tofacitinib 5 mg film-coated tablets twice daily.
 Patients < 40 kg cannot be switched from tofacitinib oral solution.
 
 Dose interruption and discontinuation in adults and paediatric patients
 
 Tofacitinib treatment should be interrupted if a patient develops a serious infection until the infection is controlled.
-
 Interruption of dosing may be needed for management of dose-related laboratory abnormalities including lymphopenia, neutropenia, and anaemia.
 As described in Tables 3, 4 and 5 below, recommendations for temporary dose interruption or permanent discontinuation of treatment are made according to the severity of laboratory abnormalities (see section 4.4).
 
 It is recommended not to initiate dosing in patients with an absolute lymphocyte count (ALC) less than 750 cells/mm3.
+
 Table 3: Low absolute lymphocyte count
 
 | Low absolute lymphocyte count (ALC) (see section 4.4) |  |
@@ -111,13 +115,18 @@ Tofacitinib total daily dose should be reduced by half in patients receiving pot
 Only in paediatric patients: available data suggest that clinical improvement is observed within 18 weeks of initiation of treatment with tofacitinib.
 Continued therapy should be carefully reconsidered in a patient exhibiting no clinical improvement within this timeframe.
 
+Dose discontinuation in AS
+
+Available data suggest that clinical improvement in AS is observed within 16 weeks of initiation of treatment with tofacitinib.
+Continued therapy should be carefully reconsidered in a patient exhibiting no clinical improvement within this timeframe.
+
 Special populations
 
 Elderly
 
 No dose adjustment is required in patients aged 65 years and older.
 There are limited data in patients aged 75 years and older.
-
+See section 4.4 for Use in patients over 65 years of age.
 Hepatic impairment
 
 Table 6: Dose adjustment for hepatic impairment
@@ -224,7 +233,7 @@ Table 1: Tofacitinib dose for patients with polyarticular juvenile idiopathic ar
 | --- | --- |
 | 10 - < 20 | 3.2 mg (3.2 mL of oral solution) twice daily |
 | 20 - < 40 | 4 mg (4 mL of oral solution) twice daily |
-| ≥ 40 | 5 mg (5 mL of oral solution or 5 mg film-coated tablet) twice daily |
+| ≥40 | 5 mg (5 mL of oral solution or 5 mg film-coated tablet) twice daily |
 
 Dose adjustment
 
