@@ -6,12 +6,12 @@ The safety of canagliflozin was evaluated in 22,645 patients with type 2 diabete
 15 double-blind, controlled phase 3 and phase 4 clinical studies.
 A total of 10,134 patients were treated in two dedicated cardiovascular studies for a mean exposure duration of 149 weeks (223 weeks in CANVAS and 94 weeks in CANVAS-R), and 8,114 patients were treated in 12 double blind, controlled phase 3 and phase 4 clinical studies, for a mean exposure duration of 49 weeks.
 In a dedicated renal outcomes study, a total of 4,397 patients with type 2 diabetes and diabetic kidney disease had a mean exposure duration of 115 weeks.
-
 The primary assessment of safety and tolerability was conducted in a pooled analysis (n = 2,313) of four 26-week placebo-controlled clinical studies (monotherapy and add-on therapy with metformin, metformin and a sulphonylurea, and metformin and pioglitazone).
 The most commonly reported adverse reactions during treatment were hypoglycaemia in combination with insulin or a sulphonylurea, vulvovaginal candidiasis, urinary tract infection, and polyuria or pollakiuria
 (i.e., urinary frequency).
 Adverse reactions leading to discontinuation of ≥0.5% of all canagliflozin-treated patients in these studies were vulvovaginal candidiasis (0.7% of female patients) and balanitis or balanoposthitis (0.5% of male patients).
 Additional safety analyses (including long-term data) from data across the entire canagliflozin programme (placebo- and active-controlled studies) were conducted to assess reported adverse reactions in order to identify adverse reactions (table 2) (see sections 4.2 and 4.4).
+
 Tabulated list of adverse reactions
 
 Adverse reactions in table 2 are based on the pooled analysis of the placebo- and active-controlled studies described above.
@@ -87,6 +87,7 @@ Patients in CANVAS and CANVAS-R were followed for an average of 5.7 and 2.1 year
 Regardless of treatment with canagliflozin or placebo, the risk of amputation was highest in patients with a baseline history of prior amputation, peripheral vascular disease, and neuropathy.
 The risk of lower limb amputation was not dose-dependent.
 The amputation results for the Integrated CANVAS Program are shown in table 3.
+
 There was no difference in risk of lower limb amputations associated with the use of canagliflozin 100 mg relative to placebo (1.2 vs 1.1 events per 100 patient-years, respectively [HR: 1.11; 95%
 CI 0.79, 1.56]) in CREDENCE, a long-term renal outcomes study of 4,397 patients with type 2 diabetes and diabetic kidney disease (see section 4.4).
 In other type 2 diabetes studies with canagliflozin, which enrolled a general diabetic population of 8,114 patients, no difference in lower limb amputation risk was observed relative to control.
@@ -117,7 +118,6 @@ Adverse reactions related to volume depletion
 
 In the pooled analysis of the four 26-week, placebo-controlled studies, the incidence of all adverse reactions related to volume depletion (e.g., postural dizziness, orthostatic hypotension, hypotension, dehydration, and syncope) was 1.2% for canagliflozin 100 mg, 1.3% for canagliflozin 300 mg, and 1.1% for placebo.
 The incidence with canagliflozin treatment in the two active-controlled studies was similar to comparators.
-
 In one of the dedicated long-term cardiovascular studies (CANVAS), where patients were generally older with a higher rate of diabetes complications, the incidence rates of adverse reactions related to volume depletion were 2.3 with canagliflozin 100 mg, 2.9 with canagliflozin 300 mg, and 1.9 with placebo, events per 100 patient-years.
 
 To assess risk factors for these adverse reactions, a larger pooled analysis (N = 12,441) of patients from 13 controlled phase 3 and phase 4 studies including both doses of canagliflozin was conducted.
@@ -164,6 +164,7 @@ However, post-marketing cases of complicated urinary tract infections including 
 Bone fracture
 
 In a cardiovascular study (CANVAS) of 4,327 treated subjects with established or at least two risk factors for cardiovascular disease, the incidence rates of all adjudicated bone fracture were 1.6, 1.8, and 1.1 per 100 patient-years of follow-up to canagliflozin 100 mg, canagliflozin 300 mg, and placebo, respectively, with the fracture imbalance initially occurring within the first 26 weeks of therapy.
+
 In two other long-term studies and in studies conducted in the general diabetes population, no difference in fracture risk was observed with canagliflozin relative to control.
 In a second cardiovascular study (CANVAS-R) of 5,807 treated subjects with established or at least two risk factors for cardiovascular disease, the incidence rates of all adjudicated bone fracture were 1.1 and 1.3 events per 100 patient-years of follow-up to canagliflozin and placebo, respectively.
 
@@ -182,7 +183,6 @@ Mean baseline eGFR was 62.5, 64.7, and 63.5 mL/min/1.73 m2 for canagliflozin 100
 
 Renal impairment in patients with insufficiently controlled type 2 diabetes mellitus
 Patients with a baseline eGFR < 60 mL/min/1.73 m2 had a higher incidence of adverse reactions associated with volume depletion (e.g., postural dizziness, orthostatic hypotension, hypotension) with incidence rates of 5.3, 5.1, and 3.1 events per 100 patient-years of exposure for canagliflozin 100 mg, canagliflozin 300 mg, and placebo, respectively (see sections 4.2 and 4.4).
-
 The overall incidence rate of elevated serum potassium was higher in patients with moderate renal impairment with incidence rates of 4.9, 6.1, and 5.4 events per 100 patient-years of exposure for canagliflozin 100 mg, canagliflozin 300 mg, and placebo, respectively.
 In general, elevations were transient and did not require specific treatment.
 

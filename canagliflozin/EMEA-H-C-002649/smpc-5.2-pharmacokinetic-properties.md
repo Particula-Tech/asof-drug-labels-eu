@@ -32,10 +32,10 @@ Elimination
 
 Following administration of a single oral [14C]canagliflozin dose to healthy subjects, 41.5%, 7.0%, and 3.2% of the administered radioactive dose was recovered in faeces as canagliflozin, a hydroxylated metabolite, and an O-glucuronide metabolite, respectively.
 Enterohepatic circulation of canagliflozin was negligible.
-
 Approximately 33% of the administered radioactive dose was excreted in urine, mainly as O-glucuronide metabolites (30.5%).
 Less than 1% of the dose was excreted as unchanged canagliflozin in urine.
 Renal clearance of canagliflozin 100 mg and 300 mg doses ranged from 1.30 mL/min to 1.55 mL/min.
+
 Canagliflozin is a low-clearance substance, with a mean systemic clearance of approximately 192 mL/min in healthy subjects following intravenous administration.
 
 Special populations

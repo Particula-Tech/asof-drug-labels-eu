@@ -1,6 +1,7 @@
 # 5.3 Preclinical safety data
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, and genotoxicity.
+
 Canagliflozin showed no effects on fertility and early embryonic development in the rat at exposures up to 19 times the human exposure at the maximum recommended human dose (MRHD).
 
 In an embryo-foetal development study in rats, ossification delays of metatarsal bones were observed at systemic exposures 73 times and 19 times higher than the clinical exposures at the 100 mg and 300 mg doses.

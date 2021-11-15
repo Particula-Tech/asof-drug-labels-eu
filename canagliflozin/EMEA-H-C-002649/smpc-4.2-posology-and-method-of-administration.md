@@ -28,8 +28,7 @@ Table 1: Dose adjustment recommendationsa
 | eGFR (mL/min/1.73 m2) or CrCl (mL/min) | Total daily dose of canagliflozin |
 | --- | --- |
 | ≥60 | Initiate with 100 mg. In patients tolerating 100 mg and requiring additional glycaemic control, the dose can be increased to 300 mg. |
-| 45 to < 60b | Initiate with 100 mg. Continue 100 mg for patients already taking Invokana. |
-| 30 to < 45b, c | Initiate with 100 mg. Continue 100 mg for patients already taking Invokana. |
+| 30 to < 60b | Use 100 mg. |
 | < 30b, c | Continue 100 mg for patients already taking Invokanad. Invokana should not be initiated. |
 
 a See sections 4.4, 4.8, 5.1, and 5.2.
@@ -37,8 +36,8 @@ b If further glycaemic control is needed, the addition of other anti hyperglycae
 
 Hepatic impairment
 For patients with mild or moderate hepatic impairment, no dose adjustment is required.
-Canagliflozin has not been studied in patients with severe hepatic impairment and is not recommended for use in these patients (see section 5.2).
 
+Canagliflozin has not been studied in patients with severe hepatic impairment and is not recommended for use in these patients (see section 5.2).
 Paediatric population
 The safety and efficacy of canagliflozin in children under 18 years of age have not yet been established.
 No data are available.

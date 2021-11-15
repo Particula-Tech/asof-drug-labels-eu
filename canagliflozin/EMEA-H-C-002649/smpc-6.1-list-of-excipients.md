@@ -7,6 +7,7 @@ Microcrystalline cellulose
 Hydroxypropylcellulose
 Croscarmellose sodium
 Magnesium stearate
+
 Film-coating
 
 Invokana 100 mg film-coated tablets

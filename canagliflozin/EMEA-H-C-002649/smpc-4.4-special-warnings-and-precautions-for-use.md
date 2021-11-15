@@ -16,11 +16,13 @@ Monitoring of renal function is recommended as follows:
 - Prior to initiation of canagliflozin and at least annually, thereafter (see sections 4.2, 4.8, 5.1, and 5.2)
 - Prior to initiation of concomitant medicinal products that may reduce renal function and periodically thereafter.
 
+There is experience with canagliflozin for the treatment of diabetic kidney disease (eGFR ≥30 mL/min/1.73 m2) both with and without albuminuria.
+While both groups of patients benefitted, patients with albuminuria may benefit more from treatment with canagliflozin.
+
 Use in patients at risk for adverse reactions related to volume depletion
 
 Due to its mechanism of action, canagliflozin, by increasing urinary glucose excretion (UGE) induces an osmotic diuresis, which may reduce intravascular volume and decrease blood pressure (see section 5.1).
 In controlled clinical studies of canagliflozin, increases in adverse reactions related to volume depletion (e.g., postural dizziness, orthostatic hypotension, or hypotension) were seen more commonly with the 300 mg dose and occurred most frequently in the first three months (see section 4.8).
-
 Caution should be exercised in patients for whom a canagliflozin-induced drop in blood pressure could pose a risk, such as patients with known cardiovascular disease, patients with an eGFR < 60 mL/min/1.73 m2, patients on anti-hypertensive therapy with a history of hypotension, patients on diuretics, or elderly patients (≥65 years of age) (see sections 4.2 and 4.8).
 
 Due to volume depletion, generally small mean decreases in eGFR were seen within the first 6 weeks of treatment initiation with canagliflozin.
@@ -54,8 +56,8 @@ Before initiating canagliflozin, factors in the patient history that may predisp
 
 Patients who may be at higher risk of DKA include patients with a low beta-cell function reserve (e.g., type 2 diabetes patients with low C-peptide or latent autoimmune diabetes in adults (LADA) or patients with a history of pancreatitis), patients with conditions that lead to restricted food intake or severe dehydration, patients for whom insulin doses are reduced and patients with increased insulin requirements due to acute medical illness, surgery or alcohol abuse.
 SGLT2 inhibitors should be used with caution in these patients.
-
 Restarting SGLT2 inhibitor treatment in patients with previous DKA while on SGLT2 inhibitor treatment is not recommended unless another clear precipitating factor is identified and resolved.
+
 The safety and efficacy of canagliflozin in patients with type 1 diabetes have not been established and canagliflozin should not be used for treatment of patients with type 1 diabetes.
 Limited data from clinical studies suggest that DKA occurs with common frequency when patients with type 1 diabetes are treated with SGLT2 inhibitors.
 
