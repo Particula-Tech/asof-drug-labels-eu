@@ -29,10 +29,10 @@ The mean total systemic clearance of dapagliflozin administered intravenously wa
 Dapagliflozin and related metabolites are primarily eliminated via urinary excretion with less than 2% as unchanged dapagliflozin.
 After administration of a 50 mg [14C]-dapagliflozin dose, 96% was recovered, 75% in urine and 21% in faeces.
 In faeces, approximately 15% of the dose was excreted as parent drug.
-
 Linearity
 
 Dapagliflozin exposure increased proportional to the increment in dapagliflozin dose over the range of 0.1 to 500 mg and its pharmacokinetics did not change with time upon repeated daily dosing for up to 24 weeks.
+
 Special populations
 
 Renal impairment
@@ -54,7 +54,7 @@ There are insufficient data to draw conclusions regarding exposure in patients
 > 70 years old.
 
 Paediatric population
-Pharmacokinetics in the paediatric population have not been studied.
+Pharmacokinetics and pharmacodynamics (glucosuria) in children with type 2 diabetes mellitus aged 10-17 years were similar to those observed in adults with type 2 diabetes mellitus.
 
 Gender
 The mean dapagliflozin AUCss in females was estimated to be about 22% higher than in males.

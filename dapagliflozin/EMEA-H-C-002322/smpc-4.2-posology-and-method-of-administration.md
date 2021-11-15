@@ -35,8 +35,11 @@ Elderly (≥65 years)
 No dose adjustment is recommended based on age.
 
 Paediatric population
-The safety and efficacy of dapagliflozin in children aged 0 to < 18 years have not yet been established.
+No dose adjustment is required for the treatment of type 2 diabetes mellitus in children aged 10 years and above (see sections 5.1 and 5.2).
+No data are available for children below 10 years of age.
+The safety and efficacy of dapagliflozin for the treatment of heart failure or for the treatment of chronic kidney disease in children < 18 years have not yet been established.
 No data are available.
+
 Method of administration
 
 Forxiga can be taken orally once daily at any time of day with or without food.

@@ -42,17 +42,15 @@ Type 2 diabetes mellitus
 
 Improvement of glycaemic control and reduction of cardiovascular and renal morbidity and mortality are integral parts of the treatment of type 2 diabetes.
 
-Fourteen double-blind, randomised, controlled clinical studies were conducted with 7,056 subjects with type 2 diabetes to evaluate the glycaemic efficacy and safety of Forxiga; 4,737 subjects in these studies were treated with dapagliflozin.
-Twelve studies had a treatment period of 24 weeks duration,
-8 with long-term extensions ranging from 24 to 80 weeks (up to a total study duration of 104 weeks), one study had a 28-week treatment period, and one study was 52 weeks in duration with long-term extensions of 52 and 104 weeks (total study duration of 208 weeks).
+Fourteen double-blind, randomised, controlled clinical studies were conducted with 7,056 adult subjects with type 2 diabetes to evaluate the glycaemic efficacy and safety of Forxiga; 4,737 subjects in these studies were treated with dapagliflozin.
+Twelve studies had a treatment period of 24 weeks duration, 8 with long-term extensions ranging from 24 to 80 weeks (up to a total study duration of 104 weeks), one study had a 28-week treatment period, and one study was 52 weeks in duration with long-term extensions of 52 and 104 weeks (total study duration of 208 weeks).
 Mean duration of diabetes ranged from 1.4 to 16.9 years.
 Fifty percent (50%) had mild renal impairment and 11% had moderate renal impairment.
-Fifty-one percent (51%) of the subjects were men, 84% were White, 8% were Asian,
-4% were Black and 4% were of other racial groups.
+Fifty-one percent (51%) of the subjects were men, 84% were White, 8% were Asian, 4% were Black and 4% were of other racial groups.
 Eighty-one percent (81%) of the subjects had a body mass index (BMI) ≥27.
 Furthermore, two 12-week, placebo-controlled studies were conducted in patients with inadequately controlled type 2 diabetes and hypertension.
-
 A cardiovascular outcomes study (DECLARE) was conducted with dapagliflozin 10 mg compared with placebo in 17,160 patients with type 2 diabetes mellitus with or without established cardiovascular disease to evaluate the effect on cardiovascular and renal events.
+
 Glycaemic control
 Monotherapy
 A double-blind, placebo-controlled study of 24-week duration (with an additional extension period) was conducted to evaluate the safety and efficacy of monotherapy with Forxiga in subjects with inadequately controlled type 2 diabetes mellitus.
@@ -637,6 +635,16 @@ Dapagliflozin reduced the primary composite endpoint of
 The treatment benefit of dapagliflozin over placebo on the primary endpoint was also consistent across other key subgroups, including eGFR, age, gender, and region.
 Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with dapagliflozin in one or more subsets of the paediatric population in the treatment of type 2 diabetes (see section 4.2 for information on paediatric use).
+Type 2 diabetes mellitus
+In a clinical study in children and adolescents aged 10-24 years with type 2 diabetes mellitus,
+39 patients were randomised to dapagliflozin 10 mg and 33 to placebo, as add-on to metformin, insulin or a combination of metformin and insulin.
+At randomisation, 74% of the patients were < 18 years of age.
+The adjusted mean change in HbA1c for dapagliflozin relative to placebo from baseline to week 24 was -0.75% (95% CI -1.65, 0.15).
+In the age group < 18 years the adjusted mean change in HbA1c for dapagliflozin relative to placebo was -0.59% (95% CI -1.66, 0.48).
+In the age group
+≥18 years, the mean change from baseline in HbA1c was -1.52% in the dapagliflozin treated group (n=9) and 0.17% in the placebo treated group (n=6).
+Efficacy and safety were similar to that observed in the adult population treated with dapagliflozin.
+Safety and tolerability were further confirmed in a 28-week safety extension of the study.
 
+Heart failure and chronic kidney disease
 The European Medicines Agency has waived the obligation to submit the results of studies with dapagliflozin in all subsets of the paediatric population in the prevention of cardiovascular events in patients with chronic heart failure and in the treatment of chronic kidney disease (see section 4.2 for information on paediatric use).

@@ -167,6 +167,10 @@ In the DAPA-CKD study, eGFR decreased over time in both the dapagliflozin group 
 The initial (day 14) decrease in mean eGFR was -4.0 mL/min/1.73 m2 in the dapagliflozin group and -0.8 mL/min/1.73 m2 in the placebo group.
 At 28 months, change from baseline in eGFR was -7.4 mL/min/1.73 m2 in the dapagliflozin group and -8.6 mL/min/1.73 m2 in the placebo group.
 
+Paediatric population
+
+The dapagliflozin safety profile observed in a clinical study in children aged 10 years and above with type 2 diabetes mellitus (see section 5.1) was similar to that observed in the studies in adults.
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

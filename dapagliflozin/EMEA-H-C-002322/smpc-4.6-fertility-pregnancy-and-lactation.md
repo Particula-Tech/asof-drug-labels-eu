@@ -14,7 +14,6 @@ It is unknown whether dapagliflozin and/or its metabolites are excreted in human
 Available pharmacodynamic/toxicological data in animals have shown excretion of dapagliflozin/metabolites in milk, as well as pharmacologically-mediated effects in nursing offspring (see section 5.3).
 A risk to the newborns/infants cannot be excluded.
 Dapagliflozin should not be used while breast-feeding.
-
 Fertility
 
 The effect of dapagliflozin on fertility in humans has not been studied.
