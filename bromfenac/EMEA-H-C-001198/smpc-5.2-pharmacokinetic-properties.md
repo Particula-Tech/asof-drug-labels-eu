@@ -4,7 +4,6 @@ Absorption
 Bromfenac efficiently permeates the cornea of cataract patients: A single dose resulted in a mean peak aqueous humour concentrations of 79±68 ng/ml at 150-180 minutes after dosing.
 Concentrations were maintained for 12 hours in aqueous humour with measurable levels up to 24 hours in major ocular tissues including the retina.
 Following twice daily dosing with bromfenac eye drops plasma concentrations were not quantifiable.
-
 Distribution
 Bromfenac shows high binding to plasma proteins.
 In vitro, the 99.8% were bound to proteins in human plasma.

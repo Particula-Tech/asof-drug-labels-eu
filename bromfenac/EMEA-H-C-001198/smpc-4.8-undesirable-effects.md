@@ -13,9 +13,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 The table below describes adverse reactions by system organ class and frequency.
 
-MedDRA system organ Frequency Adverse reactions
-
-| class |  |  |
+| MedDRA system organ class | Frequency | Adverse reactions |
 | --- | --- | --- |
 | Eye disorders | Uncommon | Visual acuity reduced Haemorrhagic retinopathy Corneal epithelium defect** Corneal erosion (mild or moderate) Corneal epithelium disorder Corneal oedema Retinal exudates Eye pain Eyelid bleeding Vision blurred Photophobia Eyelid oedema Eye discharge Eye pruritus Eye irritation Eye redness Conjunctival hyperaemia Abnormal sensation in eye Ocular discomfort |
 |  | Rare | Corneal perforation* Corneal ulcer* Corneal erosion, serious* Scleromalacia* Corneal infiltrates* Corneal disorder * Corneal scar* |

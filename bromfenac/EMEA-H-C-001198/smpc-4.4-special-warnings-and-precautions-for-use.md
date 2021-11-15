@@ -30,8 +30,12 @@ In general, contact lens wear is not recommended during the postoperative period
 Therefore, patients should be advised not to wear contact lenses during treatment with Yellox.
 
 Excipients
-Since Yellox contains benzalkonium chloride, close monitoring is required with frequent or prolonged use.
-Benzalkonium chloride is known to discolour soft contact lenses.
-Contact with soft contact lenses must be avoided.
-Benzalkonium chloride has been reported to cause eye irritation, punctuate keratopathy and/or toxic ulcerative keratopathy.
-Yellox contains sodium sulphite which may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in susceptible patients.
+Benzalkonium chloride
+This medicinal product contains 0.00185 mg benzalkonium chloride in each drop which is equivalent to 0.05 mg/ml.
+
+Benzalkonium chloride may be absorbed by soft contact lenses and may change the colour of the contact lenses.
+Patients should remove contact lenses before using this medicinal product and put them back 15 minutes afterwards.
+Benzalkonium chloride has been reported to cause eye irritation, symptoms of dry eyes and may affect the tear film and corneal surface.
+Should be used with caution in dry eye patients and in patients where the cornea may be compromised.
+
+Patients should be monitored in case of prolonged use.
