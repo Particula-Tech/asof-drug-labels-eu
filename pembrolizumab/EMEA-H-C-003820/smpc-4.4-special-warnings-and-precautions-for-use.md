@@ -16,6 +16,7 @@ For suspected immune-related adverse reactions, adequate evaluation to confirm a
 Based on the severity of the adverse reaction, pembrolizumab should be withheld and corticosteroids administered.
 Upon improvement to Grade ≤ 1, corticosteroid taper should be initiated and continued over at least 1 month.
 Based on limited data from clinical studies in patients whose immune-related adverse reactions could not be controlled with corticosteroid use, administration of other systemic immunosuppressants can be considered.
+
 Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if the adverse reaction recovers to Grade ≤ 1 and corticosteroid dose has been reduced to ≤ 10 mg prednisone or equivalent per day.
 
 Pembrolizumab must be permanently discontinued for any Grade 3 immune-related adverse reaction that recurs and for any Grade 4 immune-related adverse reaction toxicity, except for endocrinopathies that are controlled with replacement hormones (see sections 4.2 and 4.8).
@@ -32,7 +33,6 @@ Colitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of colitis, and other causes excluded.
 Corticosteroids should be administered for Grade ≥ 2 events (initial dose of 1-2 mg/kg/day prednisone or equivalent followed by a taper); pembrolizumab should be withheld for Grade 2 or Grade 3 colitis, and permanently discontinued for Grade 4 or recurrent Grade 3 colitis (see section 4.2).
 The potential risk of gastrointestinal perforation should be taken into consideration.
-
 Immune-related hepatitis
 Hepatitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for changes in liver function (at the start of treatment, periodically during treatment and as indicated based on clinical evaluation) and symptoms of hepatitis, and other causes excluded.
@@ -72,7 +72,6 @@ Thyroid function and hormone levels should be monitored to ensure appropriate ho
 
 For patients with Grade 3 or Grade 4 endocrinopathies that improved to Grade 2 or lower and are controlled with hormone replacement, if indicated, continuation of pembrolizumab may be considered after corticosteroid taper, if needed.
 Otherwise treatment should be discontinued (see sections 4.2 and 4.8).
-
 Immune-related skin adverse reactions
 Immune-related severe skin reactions have been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for suspected severe skin reactions and other causes should be excluded.
@@ -90,6 +89,7 @@ The following additional clinically significant, immune-related adverse reaction
 Based on the severity and type of the adverse reaction, pembrolizumab should be withheld for Grade 2 or Grade 3 events and corticosteroids administered.
 
 Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if the adverse reaction recovers to Grade ≤ 1 and corticosteroid dose has been reduced to ≤ 10 mg prednisone or equivalent per day.
+
 Pembrolizumab must be permanently discontinued for any Grade 3 immune-related adverse reaction that recurs and for any Grade 4 immune-related adverse reaction.
 
 For Grades 3 or 4 myocarditis, encephalitis or Guillain-Barré syndrome, pembrolizumab should be permanently discontinued (see sections 4.2 and 4.8).

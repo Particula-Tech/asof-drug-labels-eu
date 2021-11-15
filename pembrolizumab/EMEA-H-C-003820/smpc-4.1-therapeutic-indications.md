@@ -31,6 +31,8 @@ KEYTRUDA as monotherapy is indicated for the treatment of recurrent or metastati
 Renal cell carcinoma (RCC)
 KEYTRUDA, in combination with axitinib, is indicated for the first-line treatment of advanced renal cell carcinoma in adults (see section 5.1).
 
+KEYTRUDA, in combination with lenvatinib, is indicated for the first-line treatment of advanced renal cell carcinoma in adults (see section 5.1).
+
 Colorectal cancer (CRC)
 KEYTRUDA as monotherapy is indicated for the first-line treatment of metastatic microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer in adults.
 
@@ -39,6 +41,9 @@ KEYTRUDA, in combination with platinum and fluoropyrimidine based chemotherapy, 
 
 Triple-negative breast cancer (TNBC)
 KEYTRUDA, in combination with chemotherapy, is indicated for the treatment of locally recurrent unresectable or metastatic triple-negative breast cancer in adults whose tumours express PD-L1 with a CPS ≥ 10 and who have not received prior chemotherapy for metastatic disease (see section 5.1).
+
+Endometrial carcinoma (EC)
+KEYTRUDA, in combination with lenvatinib, is indicated for the treatment of advanced or recurrent endometrial carcinoma in adults who have disease progression on or following prior treatment with a platinum-containing therapy in any setting and who are not candidates for curative surgery or radiation.
 
 [KEYTRUDA 25 mg/mL concentrate for solution for infusion.]
 

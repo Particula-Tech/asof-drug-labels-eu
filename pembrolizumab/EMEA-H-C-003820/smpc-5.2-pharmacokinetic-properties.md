@@ -31,6 +31,7 @@ The effects of various covariates on the pharmacokinetics of pembrolizumab were 
 The following factors had no clinically important effect on the clearance of pembrolizumab: age (range 15-94 years), gender, race, mild or moderate renal impairment, mild hepatic impairment and tumour burden.
 The relationship between body weight and clearance supports the use of either fixed dose or body weight-based dosing to provide adequate and similar control of exposure.
 Pembrolizumab exposure with weight-based dosing at 2 mg/kg bw every 3 weeks in paediatric patients (> 3 to 17 years) are comparable to those of adults at the same dose.
+
 Renal impairment
 The effect of renal impairment on the clearance of pembrolizumab was evaluated by population pharmacokinetic analyses in patients with mild or moderate renal impairment compared to patients with normal renal function.
 No clinically important differences in the clearance of pembrolizumab were found between patients with mild or moderate renal impairment and patients with normal renal function.
