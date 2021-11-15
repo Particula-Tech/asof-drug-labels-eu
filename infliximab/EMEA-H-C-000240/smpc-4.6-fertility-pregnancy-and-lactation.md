@@ -14,14 +14,17 @@ In a developmental toxicity study conducted in mice using an analogous antibody 
 
 The available clinical experience is limited.
 Infliximab should only be used during pregnancy if clearly needed.
+
 Infliximab crosses the placenta and has been detected in the serum of infants up to 6 months following birth.
 After in utero exposure to infliximab, infants may be at increased risk of infection, including serious disseminated infection that can become fatal.
 Administration of live vaccines (e.g. BCG vaccine) to infants exposed to infliximab in utero is not recommended for at least 6 months after birth (see sections 4.4 and 4.5).
 Cases of agranulocytosis have also been reported (see section 4.8).
 
 Breast-feeding
-It is unknown whether infliximab is excreted in human milk or absorbed systemically after ingestion.
-Because human immunoglobulins are excreted in milk, women must not breast feed for at least 6 months after Remicade treatment.
+Limited data from published literature indicate infliximab has been detected at low levels in human milk at concentrations up to 5% of the maternal serum level.
+Infliximab has also been detected in infant serum after exposure to infliximab via breast milk.
+While systemic exposure in a breastfed infant is expected to be low because infliximab is largely degraded in the gastrointestinal tract, the administration of live vaccines to a breastfed infant when the mother is receiving infliximab is not recommended unless infant infliximab serum levels are undetectable.
+Infliximab could be considered for use during breast-feeding.
 
 Fertility
 There are insufficient preclinical data to draw conclusions on the effects of infliximab on fertility and general reproductive function (see section 5.3).

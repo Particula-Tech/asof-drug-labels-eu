@@ -19,6 +19,7 @@ In most fistulising Crohn’s disease patients, infliximab was detected in serum
 
 Paediatric population
 Population pharmacokinetic analysis based on data obtained from patients with ulcerative colitis
-(N = 60), Crohn’s disease (N = 112), juvenile rheumatoid arthritis (N = 117) and Kawasaki disease (N = 16) with an overall age range from 2 months to 17 years indicated that exposure to infliximab was dependent on body weight in a non-linear way.
+(N = 60), Crohn’s disease (N = 112), juvenile rheumatoid arthritis (N = 117) and Kawasaki disease
+(N = 16) with an overall age range from 2 months to 17 years indicated that exposure to infliximab was dependent on body weight in a non-linear way.
 Following administration of 5 mg/kg Remicade every 8 weeks, the predicted median steady-state infliximab exposure (area under concentration-time curve at steady state, AUCss) in paediatric patients aged 6 years to 17 years was approximately 20% lower than the predicted median steady-state drug exposure in adults.
 The median AUCss in paediatric patients aged 2 years to less than 6 years was predicted to be approximately 40% lower than that in adults, although the number of patients supporting this estimate is limited.

@@ -58,10 +58,10 @@ If a patient does not respond by 6 weeks (i.e. after 2 doses), no additional tre
 
 Psoriatic arthritis
 5 mg/kg given as an intravenous infusion followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter.
+
 Psoriasis
 5 mg/kg given as an intravenous infusion followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter.
 If a patient shows no response after 14 weeks (i.e. after 4 doses), no additional treatment with infliximab should be given.
-
 Re-administration for Crohn’s disease and rheumatoid arthritis
 If the signs and symptoms of disease recur, Remicade can be re-administered within 16 weeks following the last infusion.
 In clinical studies, delayed hypersensitivity reactions have been uncommon and have occurred after Remicade-free intervals of less than 1 year (see sections 4.4 and 4.8).
@@ -101,10 +101,10 @@ Paediatric population
 Crohn’s disease (6 to 17 years)
 5 mg/kg given as an intravenous infusion followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter.
 Available data do not support further infliximab treatment in children and adolescents not responding within the first 10 weeks of treatment (see section 5.1).
+
 Some patients may require a shorter dosing interval to maintain clinical benefit, while for others a longer dosing interval may be sufficient.
 Patients who have had their dose interval shortened to less than 8 weeks may be at greater risk for adverse reactions.
 Continued therapy with a shortened interval should be carefully considered in those patients who show no evidence of additional therapeutic benefit after a change in dosing interval.
-
 The safety and efficacy of Remicade have not been studied in children with Crohn’s disease below the age of 6 years.
 Currently available pharmacokinetic data are described in section 5.2 but no recommendation on a posology can be made in children younger than 6 years.
 

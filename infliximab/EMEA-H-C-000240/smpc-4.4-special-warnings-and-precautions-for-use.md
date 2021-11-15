@@ -1,7 +1,6 @@
 # 4.4 Special warnings and precautions for use
 
 Traceability
-
 In order to improve the traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded.
 
 Infusion reactions and hypersensitivity
@@ -34,10 +33,10 @@ Caution should be exercised when considering the use of Remicade in patients wit
 Patients should be advised of and avoid exposure to potential risk factors for infection as appropriate.
 
 Tumour necrosis factor alpha (TNFα) mediates inflammation and modulates cellular immune responses.
-Experimental data show that TNFαis essential for the clearing of intracellular infections.
+Experimental data show that TNFα is essential for the clearing of intracellular infections.
 Clinical experience shows that host defence against infection is compromised in some patients treated with infliximab.
 
-It should be noted that suppression of TNFαmay mask symptoms of infection such as fever.
+It should be noted that suppression of TNFα may mask symptoms of infection such as fever.
 Early recognition of atypical clinical presentations of serious infections and of typical clinical presentation of rare and unusual infections is critical in order to minimise delays in diagnosis and treatment.
 
 Patients taking TNF-blockers are more susceptible to serious infections.
@@ -75,7 +74,6 @@ Invasive fungal infections may present as disseminated rather than localised dis
 Appropriate empiric antifungal therapy should be considered while a diagnostic workup is being performed taking into account both the risk for severe fungal infection and the risks of antifungal therapy.
 
 For patients who have resided in or travelled to regions where invasive fungal infections such as histoplasmosis, coccidioidomycosis, or blastomycosis are endemic, the benefits and risks of Remicade treatment should be carefully considered before initiation of Remicade therapy.
-
 Fistulising Crohn’s disease
 Patients with fistulising Crohn’s disease with acute suppurative fistulas must not initiate Remicade therapy until a source for possible infection, specifically abscess, has been excluded (see section 4.3).
 
@@ -107,6 +105,7 @@ The combination of Remicade and abatacept is not recommended.
 Concurrent administration with other biological therapeutics
 There is insufficient information regarding the concomitant use of infliximab with other biological therapeutics used to treat the same conditions as infliximab.
 The concomitant use of infliximab with these biologics is not recommended because of the possibility of an increased risk of infection, and other potential pharmacological interactions.
+
 Switching between biological DMARDS
 Care should be taken and patients should continue to be monitored when switching from one biologic to another, since overlapping biological activity may further increase the risk for adverse reactions, including infection.
 
@@ -122,14 +121,19 @@ In patients receiving anti-TNF therapy, limited data are available on the respon
 Use of live vaccines can result in clinical infections, including disseminated infections.
 The concurrent administration of live vaccines with Remicade is not recommended.
 
+Infant exposure in utero
 In infants exposed in utero to infliximab, fatal outcome due to disseminated Bacillus Calmette-Guérin (BCG) infection has been reported following administration of BCG vaccine after birth.
 At least a six month waiting period following birth is recommended before the administration of live vaccines to infants exposed in utero to infliximab (see section 4.6).
 
+Infant exposure via breast milk
+Administration of a live vaccine to a breastfed infant while the mother is receiving infliximab is not recommended unless infant infliximab serum levels are undetectable (see section 4.6).
+
+Therapeutic infectious agents
 Other uses of therapeutic infectious agents such as live attenuated bacteria (e.g., BCG bladder instillation for the treatment of cancer) could result in clinical infections, including disseminated infections.
 It is recommended that therapeutic infectious agents not be given concurrently with Remicade.
 
 Autoimmune processes
-The relative deficiency of TNFαcaused by anti-TNF therapy may result in the initiation of an autoimmune process.
+The relative deficiency of TNFα caused by anti-TNF therapy may result in the initiation of an autoimmune process.
 If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with Remicade and is positive for antibodies against double-stranded DNA, further treatment with Remicade must not be given (see section 4.8).
 
 Neurological events
@@ -146,7 +150,6 @@ There is an increased background risk for lymphoma and leukaemia in rheumatoid a
 In an exploratory clinical study evaluating the use of Remicade in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies were reported in Remicade-treated patients compared with control patients.
 All patients had a history of heavy smoking.
 Caution should be exercised in considering treatment of patients with increased risk for malignancy due to heavy smoking.
-
 With the current knowledge, a risk for the development of lymphomas or other malignancies in patients treated with a TNF-blocking agent cannot be excluded (see section 4.8).
 Caution should be exercised when considering TNF-blocking therapy for patients with a history of malignancy or when considering continuing treatment in patients who develop a malignancy.
 
@@ -175,6 +178,7 @@ This evaluation should include colonoscopy and biopsies per local recommendation
 Current data do not indicate that infliximab treatment influences the risk for developing dysplasia or colon cancer.
 
 Since the possibility of increased risk of cancer development in patients with newly diagnosed dysplasia treated with Remicade is not established, the risk and benefits of continued therapy to the individual patients should be carefully considered by the clinician.
+
 Heart failure
 Remicade should be used with caution in patients with mild heart failure (NYHA class I/II).
 Patients should be closely monitored and Remicade must not be continued in patients who develop new or worsening symptoms of heart failure (see sections 4.3 and 4.8).
@@ -183,7 +187,6 @@ Haematologic reactions
 There have been reports of pancytopenia, leucopenia, neutropenia, and thrombocytopenia in patients receiving TNF-blockers, including Remicade.
 All patients should be advised to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias (e.g. persistent fever, bruising, bleeding, pallor).
 Discontinuation of Remicade therapy should be considered in patients with confirmed significant haematologic abnormalities.
-
 Others
 There is limited safety experience of Remicade treatment in patients who have undergone surgical procedures, including arthroplasty.
 The long half-life of infliximab should be taken into consideration if a surgical procedure is planned.
@@ -218,6 +221,7 @@ Almost all patients had received treatment with AZA or 6-MP concomitantly with o
 The vast majority of Remicade cases have occurred in patients with Crohn’s disease or ulcerative colitis and most were reported in adolescent or young adult males.
 The potential risk with the combination of AZA or 6-MP and Remicade should be carefully considered.
 A risk for the development for hepatosplenic T-cell lymphoma in patients treated with Remicade cannot be excluded (see section 4.8).
+
 Sodium content
 Remicade contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially ‘sodium-free’.
 Remicade is however, diluted in sodium chloride 9 mg/ml (0.9%) solution for infusion.
