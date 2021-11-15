@@ -68,13 +68,17 @@ Effect of ticagrelor on other P-gp substrates has not been studied.
 Medicinal products metabolised by CYP2C9
 Co-administration of ticagrelor with tolbutamide resulted in no change in the plasma levels of either medicinal product, which suggests that ticagrelor is not a CYP2C9 inhibitor and unlikely to alter the CYP2C9 mediated metabolism of medicinal products like warfarin and tolbutamide.
 
+Rosuvastatin
+Ticagrelor might affect renal excretion of rosuvastatin, increasing the risk for rosuvastatin accumulation.
+Although the exact mechanism is not known, in some cases, concomitant use of ticagrelor and rosuvastatin led to renal function decrease, increased CPK level and rhabdomyolysis.
+
 Oral contraceptives
 Co-administration of ticagrelor and levonorgestrel and ethinyl estradiol increased ethinyl estradiol exposure approximately 20% but did not alter the pharmacokinetics of levonorgestrel.
 No clinically relevant effect on oral contraceptive efficacy is expected when levonorgestrel and ethinyl estradiol are co-administered with ticagrelor.
-
 Medicinal products known to induce bradycardia
 Due to observations of mostly asymptomatic ventricular pauses and bradycardia, caution should be exercised when administering ticagrelor concomitantly with medicinal products known to induce bradycardia (see section 4.4).
 However, no evidence of clinically significant adverse reactions was observed in the PLATO trial after concomitant administration with one or more medicinal products known to induce bradycardia (e.g. 96% beta blockers, 33% calcium channel blockers diltiazem and verapamil and 4% digoxin).
+
 Other concomitant therapy
 In clinical studies, ticagrelor was commonly administered with ASA, proton pump inhibitors, statins, beta-blockers, angiotensin converting enzyme (ACE) inhibitors and angiotensin receptor blockers as needed for concomitant conditions for long-term and also heparin, low molecular weight heparin and intravenous GpIIb/IIIa inhibitors for short durations (see section 5.1).
 No evidence of clinically significant adverse interactions with these medicinal products was observed.

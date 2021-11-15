@@ -51,6 +51,10 @@ The mechanism has not been elucidated.
 If a patient reports new, prolonged or worsened dyspnoea this should be investigated fully and if not tolerated, treatment with ticagrelor should be stopped.
 For further details see section 4.8.
 
+Central sleep apnoea
+Central sleep apnoea including Cheyne-Stokes respiration has been reported in the post-marketing setting in patients taking ticagrelor.
+If central sleep apnoea is suspected, further clinical assessment should be considered.
+
 Creatinine elevations
 Creatinine levels may increase during treatment with ticagrelor.
 The mechanism has not been elucidated.

@@ -6,6 +6,7 @@ The safety profile of ticagrelor has been evaluated in two large phase 3 outcome
 In PLATO, patients on ticagrelor had a higher incidence of discontinuation due to adverse events than clopidogrel (7.4% vs. 5.4%).
 In PEGASUS, patients on ticagrelor had a higher incidence of discontinuation due to adverse events compared to ASA therapy alone (16.1% for ticagrelor 60 mg with ASA vs. 8.5% for ASA therapy alone).
 The most commonly reported adverse reactions in patients treated with ticagrelor were bleeding and dyspnoea (see section 4.4).
+
 Tabulated list of adverse reactions
 The following adverse reactions have been identified following studies or have been reported in post-marketing experience with ticagrelor (Table 1).
 
@@ -165,60 +166,3 @@ Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-[Brilique 90 mg film-coated tablets]
-
-|  | Ticagrelor 60 mg twice daily + ASA N=6958 |  | ASA alone N=6996 |  |
-| --- | --- | --- | --- | --- |
-| Safety Endpoints | KM% | Hazard Ratio (95% CI) | KM% | p-value |
-| TIMI-defined bleeding categories |  |  |  |  |
-| TIMI Major | 2.3 | 2.32 (1.68, 3.21) | 1.1 | <0.0001 |
-| Fatal | 0.3 | 1.00 (0.44, 2.27) | 0.3 | 1.0000 |
-| ICH | 0.6 | 1.33 | 0.5 | 0.3130 |
-|  |  | (0.77, 2.31) |  |  |
-| Other TIMI Major | 1.6 | 3.61 (2.31, 5.65) | 0.5 | <0.0001 |
-| TIMI Major or Minor | 3.4 | 2.54 (1.93, 3.35) | 1.4 | <0.0001 |
-| TIMI Major or Minor or Requiring medical attention | 16.6 | 2.64 (2.35, 2.97) | 7.0 | <0.0001 |
-| PLATO-defined bleeding categories |  |  |  |  |
-| PLATO Major | 3.5 | 2.57 (1.95, 3.37) | 1.4 | <0.0001 |
-| Fatal/Life-threatening | 2.4 | 2.38 (1.73, 3.26) | 1.1 | <0.0001 |
-| Other PLATO Major | 1.1 | 3.37 (1.95, 5.83) | 0.3 | <0.0001 |
-| PLATO Major or Minor | 15.2 | 2.71 (2.40, 3.08) | 6.2 | <0.0001 |
-
-[Brilique 90 mg orodispersible tablets]
-
-| SOC | Very common | Common | Uncommon | Not known |
-| --- | --- | --- | --- | --- |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  | Tumour bleedingsa |  |
-| Blood and lymphatic system disorders | Blood disorder bleedingsb |  |  | Thrombotic Thrombocytopenic Purpurac |
-| Immune system disorders |  |  | Hypersensitivity including angioedemac |  |
-| Metabolism and nutrition disorders | Hyperuricaemiad | Gout/Gouty Arthritis |  |  |
-| Psychiatric disorders |  |  | Confusion |  |
-| Nervous system disorders |  | Dizziness, Syncope, Headache | Intracranial haemorrhagem |  |
-| Eye disorders |  |  | Eye haemorrhagee |  |
-| Ear and labyrinth disorders |  | Vertigo | Ear haemorrhage |  |
-| Vascular disorders |  | Hypotension |  |  |
-| Respiratory, thoracic and mediastinal disorders | Dyspnoea | Respiratory system bleedingsf |  |  |
-| Gastrointestinal disorders |  | Gastrointestinal haemorrhageg, Diarrhoea, | Retroperitoneal haemorrhage |  |
-
-SOC Very common Common Uncommon Not known
-Nausea,
-Dyspepsia,
-Constipation
-Skin and Subcutaneous or
-subcutaneous dermal bleedingh,
-tissue disorders Rash, Pruritus
-Musculoskeletal Muscular
-connective tissue bleedingsi
-and bone
-Renal and Urinary tract
-urinary disorders bleedingj
-Reproductive Reproductive
-system and breast system bleedingsk
-disorders
-Investigations Blood creatinine
-increasedd
-Injury, poisoning Post procedural
-and procedural haemorrhage,
-complications Traumatic
-bleedingsl
