@@ -16,15 +16,23 @@ Frequencies are defined as very common (≥ 1/10), common
 | MedDRA system organ class | Very common | Common | Uncommon |
 | --- | --- | --- | --- |
 | Infections and infestations | Esophageal candidiasis | Oral and/or oropharyngeal candidiasis |  |
+| Immune system disorders |  |  | Angioedema |
 | Psychiatric disorders |  |  | Sleep disorder, anxiety |
 | Nervous system disorders |  | Headache | Dizziness, dysgeusia |
 | Eye disorders |  |  | Dry eye |
 | Vascular disorders |  |  | Hypertension |
 | Respiratory, thoracic and mediastinal disorders |  |  | Cough, dry throat, oropharyngeal pain |
-| Gastrointestinal disorders |  | Gastroesophageal reflux disease, nausea, oral paraesthesia, dyspepsia | Abdominal pain, upper abdominal pain, dry mouth, dysphagia, erosive gastritis, gastric ulcer, glossodynia, lip edema |
-| Skin and subcutaneous tissue disorders |  |  | Rash, urticaria |
-| General disorders and administration |  | Fatigue | Sensation of foreign body |
+| Gastrointestinal disorders |  | Gastroesophageal reflux disease, nausea, oral paraesthesia, dyspepsia | Abdominal pain, upper abdominal pain, dry mouth, dysphagia, |
 
+erosive gastritis, gastric
+ulcer, glossodynia, lip
+edema
+Skin and Rash, urticaria
+subcutaneous
+tissue disorders
+General Fatigue Sensation of foreign
+disorders and body
+administration
 site conditions
 Investigations Blood cortisol decreased
 
