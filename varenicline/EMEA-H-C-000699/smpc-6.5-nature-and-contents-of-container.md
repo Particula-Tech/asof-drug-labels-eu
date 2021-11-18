@@ -25,8 +25,8 @@ PCTFE/PVC blisters with aluminium foil backing in a pack containing 28 x 1 mg fi
 PCTFE/PVC blisters with aluminium foil backing in a pack containing 56 x 1 mg film-coated tablets in a carton.
 
 PCTFE/PVC blisters with aluminium foil backing in a pack containing 112 x 1 mg film-coated tablets in a carton.
-PCTFE/PVC blisters with aluminium foil backing in a pack containing 140 x 1 mg film-coated tablets in a carton.
 
+PCTFE/PVC blisters with aluminium foil backing in a pack containing 140 x 1 mg film-coated tablets in a carton.
 PVC blisters with aluminium foil backing in a pack containing 28 x 1 mg film-coated tablets in secondary heat sealed card packaging.
 
 PVC blisters with aluminium foil backing in a pack containing 56 x 1 mg film-coated tablets in secondary heat sealed card packaging.

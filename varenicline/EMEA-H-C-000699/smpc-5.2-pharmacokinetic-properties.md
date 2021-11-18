@@ -44,8 +44,7 @@ Due to the absence of significant hepatic metabolism, varenicline pharmacokineti
 
 Renal impairment
 Varenicline pharmacokinetics were unchanged in subjects with mild renal impairment (estimated creatinine clearance > 50 ml/min and ≤ 80 ml/min).
-In patients with moderate renal impairment (estimated creatinine clearance ≥ 30 ml/min and ≤ 50 ml/min), varenicline exposure increased 1.5-fold compared with subjects with normal renal function (estimated creatinine clearance
-> 80 ml/min).
+In patients with moderate renal impairment (estimated creatinine clearance ≥ 30 ml/min and ≤ 50 ml/min), varenicline exposure increased 1.5-fold compared with subjects with normal renal function (estimated creatinine clearance > 80 ml/min).
 In subjects with severe renal impairment (estimated creatinine clearance < 30 ml/min), varenicline exposure was increased 2.1-fold.
 In subjects with end-stage-renal disease (ESRD), varenicline was efficiently removed by haemodialysis (see section 4.2).
 
@@ -63,9 +62,6 @@ CHAMPIX is not recommended in paediatric patients because its efficacy in this p
 Due to the absence of significant hepatic metabolism, varenicline pharmacokinetics should be unaffected in patients with hepatic impairment.
 (see section 4.2).
 
-Steady-state systemic exposure in adolescent patients of bodyweight
-> 55 kg, as assessed by AUC (0-24), was comparable to that noted for the same doses in the adult population.
-
 [CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
 
-In patients with moderate renal impairment (estimated creatinine clearance ≥ 30 ml/min and ≤ 50 ml/min), varenicline exposure increased 1.5-fold compared with subjects with normal renal function (estimated creatinine clearance > 80 ml/min).
+(all sentences already above)

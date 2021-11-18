@@ -61,15 +61,10 @@ This study showed the benefit of an additional 12-week treatment with CHAMPIX 1 
 The key results are summarised in the following table:
 Continuous Abstinence Rates in Subjects Treated with Champix versus Placebo
 
-CHAMPIX Placebo Difference Odds ratio
-n=602 n=604 (95% CI) (95% CI)
-CA* wk 13-24 70.6% 49.8% 20.8% 2.47
+|  | CHAMPIX n=602 | Placebo n=604 | Difference (95% CI) |
+| --- | --- | --- | --- |
+| CA* wk 13-24 CA* wk 13-52 | 70.6% 44.0% | 49.8% 37.1% | 20.8% (15.4%, 26.2%) 6.9% (1.4%, 12.5%) |
 
-(15.4%, 26.2%) (1.95, 3.15)
-
-CA* wk 13-52 44.0% 37.1% 6.9% 1.35
-
-(1.4%, 12.5%) (1.07, 1.70)
 *CA: Continuous Abstinence Rate
 
 There is currently limited clinical experience with the use of CHAMPIX among black people to determine clinical efficacy.
@@ -92,13 +87,12 @@ The key results are summarised in the following table:
 
 Continuous Abstinence Rates in Subjects Treated with Champix versus Placebo
 
-CHAMPIX Placebo Odds ratio (95% CI),
-n=249 n=245 p value
-CA* wk 9-12 45.0% 11.8% 7.08 (4.34, 11.55),
+|  | CHAMPIX n=249 | Placebo n=245 |
+| --- | --- | --- |
+| CA* wk 9-12 | 45.0% | 11.8% |
+| CA* wk 9-52 | 20.1% | 3.3% |
 
 p<0.0001
-
-CA* wk 9-52 20.1% 3.3% 9.00 (3.97, 20.41),
 
 p<0.0001
 *CA: Continuous Abstinence Rate
@@ -112,13 +106,12 @@ Subjects treated with CHAMPIX had a significantly higher Continuous Abstinence R
 
 Continuous Abstinence Rates in Subjects Treated with Champix versus Placebo
 
-CHAMPIX Placebo Odds ratio (95% CI),
-n=760 n=750 p value
-CA* wk 15-24 32.1% 6.9% 8.74 (6.09, 12.53),
+|  | CHAMPIX n=760 | Placebo n=750 |
+| --- | --- | --- |
+| CA* wk 15-24 | 32.1% | 6.9% |
+| CA* wk 21-52 | 27.0% | 9.9% |
 
 p<0.0001
-
-CA* wk 21-52 27.0% 9.9% 4.02 (2.94, 5.50),
 
 p<0.0001
 *CA: Continuous Abstinence Rate
@@ -158,23 +151,17 @@ Deaths and cardiovascular events were adjudicated by a blinded, independent comm
 
 The following table shows the incidence of MACE and Hazard Ratios vs placebo for all treatment groups during treatment, and cumulative for treatment plus 30 days and through end of study.
 
-CHAMPIX Bupropion NRT Placebo
-N=2016 N=2006 N=2022 N=2014
-During treatment
-MACE, n (%) 1 (0.05) 2 (0.10) 1 (0.05) 4 (0.20)
-Hazard Ratio 0.29 (0.05, 1.68) 0.50 (0.10, 2.50) 0.29 (0.05, 1.70)
-(95% CI) vs
-placebo
-During treatment plus 30 days
-MACE, n (%) 1 (0.05) 2 (0.10) 2 (0.10) 4 (0.20)
-Hazard Ratio 0.29 (0.05, 1.70) 0.51 (0.10, 2.51) 0.50 (0.10, 2.48)
-(95% CI) vs
-placebo
-Through end of study
-MACE, n (%) 3 (0.15) 9 (0.45) 6 (0.30) 8 (0.40)
-Hazard Ratio 0.39 (0.12, 1.27) 1.09 (0.42, 2.83) 0.75 (0.26, 2.13)
-(95% CI) vs
-placebo
+|  | CHAMPIX N=2016 | Bupropion N=2006 | NRT N=2022 | Placebo N=2014 |
+| --- | --- | --- | --- | --- |
+| During treatment |  |  |  |  |
+| MACE, n (%) | 1 (0.05) | 2 (0.10) | 1 (0.05) | 4 (0.20) |
+| Hazard Ratio (95% CI) vs placebo | 0.29 (0.05, 1.68) | 0.50 (0.10, 2.50) | 0.29 (0.05, 1.70) |  |
+| During treatment plus 30 days |  |  |  |  |
+| MACE, n (%) | 1 (0.05) | 2 (0.10) | 2 (0.10) | 4 (0.20) |
+| Hazard Ratio (95% CI) vs placebo | 0.29 (0.05, 1.70) | 0.51 (0.10, 2.51) | 0.50 (0.10, 2.48) |  |
+| Through end of study |  |  |  |  |
+| MACE, n (%) | 3 (0.15) | 9 (0.45) | 6 (0.30) | 8 (0.40) |
+| Hazard Ratio (95% CI) vs placebo | 0.39 (0.12, 1.27) | 1.09 (0.42, 2.83) | 0.75 (0.26, 2.13) |  |
 
 The use of CHAMPIX, bupropion, and NRT was not associated with an increased risk of CV AEs in smokers treated for up to 12 weeks and followed for up to 1 year compared to placebo, although because of the relatively low number of events overall, an association cannot be entirely ruled out.
 
@@ -215,6 +202,7 @@ The limited data available from this single smoking cessation study are not suff
 Neuropsychiatric safety
 Study in Subjects with and without a History of Psychiatric Disorder: Varenicline was evaluated in a randomised, double-blind, active and placebo-controlled study that included subjects with a history of psychiatric disorder (psychiatric cohort, N=4074) and subjects without a history of psychiatric disorder (non-psychiatric cohort, N=3984).
 Subjects aged 18-75 years, smoking 10 or more cigarettes per day were randomised 1:1:1:1 to varenicline 1 mg BID, bupropion SR 150 mg BID, nicotine replacement therapy patch (NRT) 21 mg/day with taper or placebo for a treatment period of 12 weeks; they were then followed for another 12 weeks post-treatment.
+
 The primary safety endpoint was a composite of the following neuropsychiatric (NPS) adverse events: severe events of anxiety, depression, feeling abnormal, or hostility, and/or moderate or severe events of agitation, aggression, delusions, hallucinations, homicidal ideation, mania, panic, paranoia, psychosis, suicidal ideation, suicidal behaviour or completed suicide.
 
 The following table shows the rates of the composite NPS adverse event primary endpoint by treatment group and the risk differences (RDs) (95% CI) vs placebo in the non-psychiatric cohort.
@@ -245,13 +233,14 @@ The percentage of subjects with suicidal ideation and/or behaviour based on the 
 | Suicidal behaviour and/or ideation | 7 (0.7) | 4 (0.4) | 3 (0.3) | 7 (0.7) |
 | Suicidal behaviour | 0 | 0 | 1 (0.1) | 1 (0.1) |
 | Suicidal ideation | 7 (0.7) | 4 (0.4) | 3 (0.3) | 6 (0.6) |
-|  | Varenicline | Bupropion | NRT | Placebo |
-|  | N=990 n (%) | N=989 n (%) | N=1006 n (%) | N=999 n (%) |
 | During follow up |  |  |  |  |
 | Number assessed | 807 | 816 | 800 | 805 |
 | Suicidal behaviour and/or ideation | 3 (0.4) | 2 (0.2) | 3 (0.4) | 4 (0.5) |
 | Suicidal behaviour | 0 | 1 (0.1) | 0 | 0 |
-| Suicidal ideation | 3 (0.4) | 2 (0.2) | 3 (0.4) | 4 (0.5) |
+| Suicidal | 3 (0.4) | 2 (0.2) | 3 (0.4) | 4 (0.5) |
+|  | Varenicline | Bupropion | NRT | Placebo |
+|  | N=990 n (%) | N=989 n (%) | N=1006 n (%) | N=999 n (%) |
+| ideation |  |  |  |  |
 
 NRT=Nicotine replacement therapy patch
 
@@ -269,7 +258,6 @@ In addition, the table shows the subset of the composite NPS AE endpoint of seve
 | Composite NPS AE Primary Endpoint, n (%) | 67 (6.5) | 68 (6.7) | 53 (5.2) | 50 (4.9) |
 | RD (95% CI) vs Placebo | 1.59 (-0.42, 3.59) | 1.78 (-0.24, 3.81) | 0.37 (-1.53, 2.26) |  |
 | NPS AE Primary Endpoint Components n (%): Anxietya Depressiona Feeling abnormala Hostilitya Agitationb Aggressionb Delusionsb Hallucinationsb Homicidal ideationb Maniab Panicb Paranoiab Psychosisb Suicidal behaviourb Suicidal ideationb Completed suicideb | 5 (0.5) 6 (0.6) 0 0 25 (2.4) 14 (1.4) 1 (0.1) 5 (0.5) 0 7 (0.7) 7 (0.7) 1 (0.1) 4 (0.4) 1 (0.1) 5 (0.5) 0 | 4 (0.4) 4 (0.4) 1 (0.1) 0 29 (2.9) 9 (0.9) 1 (0.1) 4 (0.4) 0 9 (0.9) 16 (1.6) 0 2 (0.2) 1 (0.1) 2 (0.2) 0 | 6 (0.6) 7 (0.7) 0 0 21 (2.1) 7 (0.7) 1 (0.1) 2 (0.2) 0 3 (0.3) 13 (1.3) 0 3 (0.3) 0 3 (0.3) 0 | 2 (0.2) 6 (0.6) 0 0 22 (2.2) 8 (0.8) 0 2 (0.2) 0 6 (0.6) 7 (0.7) 2 (0.2) 1 (0.1) 1 (0.1) 2 (0.2) 0 |
-|  | Varenicline | Bupropion | NRT | Placebo |
 | Composite NPS AE Endpoint of severe intensity n (%) | 14 (1.4) | 14 (1.4) | 14 (1.4) | 13 (1.3) |
 
 AE, adverse event; aGrade = severe intensity AE; bGrade = moderate and severe intensity AE; NRT=Nicotine replacement therapy patch
@@ -300,7 +288,9 @@ There were no completed suicides reported in the psychiatric cohort.
 
 The most commonly reported adverse events in subjects treated with varenicline in this study were similar to those observed in premarketing studies.
 
-In both cohorts, subjects treated with varenicline demonstrated statistical superiority of CO-confirmed abstinence during weeks 9 through 12 and 9 through 24 compared to subjects treated with bupropion, nicotine patch and placebo (please see table below).
+In both cohorts, subjects treated with varenicline demonstrated statistical superiority of
+CO-confirmed abstinence during weeks 9 through 12 and 9 through 24 compared to subjects treated with bupropion, nicotine patch and placebo (please see table below).
+
 The key efficacy results are summarised in the following table:
 
 Non-psychiatric Cohort Psychiatric Cohort
@@ -317,9 +307,7 @@ Treatment Comparisons: Odds ratio (95% CI), p value
 Varenicline vs Placebo 4.00 (3.20, 5.00), P<0.0001 3.24 (2.56, 4.11), P<0.0001
 Bupropion vs Placebo 2.26 (1.80, 2.85), P<0.0001 1.87 (1.46, 2.39), P<0.0001
 NRT vs Placebo 2.30 (1.83, 2.90), P<0.0001 2.00 (1.56, 2.55), P<0.0001
-
 Varenicline vs Bupropion 1.77 (1.46, 2.14), P<0.0001 1.74 (1.41, 2.14), P<0.0001
-
 Varenicline vs NRT 1.74 (1.43, 2.10), P<0.0001 1.62 (1.32, 1.99), P<0.0001
 
 CA 9-24 n/N (%)
@@ -334,9 +322,7 @@ Treatment Comparisons: Odds ratio (95% CI), p value
 Varenicline vs Placebo 2.99 (2.33, 3.83), P<0.0001 2.50 (1.90, 3.29), P<0.0001
 Bupropion vs Placebo 2.00 (1.54, 2.59), P<0.0001 1.77 (1.33, 2.36), P<0.0001
 NRT vs Placebo 1.96 (1.51, 2.54), P<0.0001 1.65 (1.24, 2.20), P=0.0007
-
 Varenicline vs Bupropion 1.49 (1.20, 1.85), P=0.0003 1.41 (1.11, 1.79), P=0.0047
-
 Varenicline vs NRT 1.52 (1.23, 1.89), P=0.0001 1.51 (1.19, 1.93), P=0.0008
 
 CA = continuous abstinence rate; CI = confidence interval; NRT=Nicotine replacement therapy patch
@@ -451,6 +437,16 @@ Among reported neuropsychiatric adverse events, insomnia was the only event repo
 Neuropsychiatric Safety Study in Subjects with and without a History of Psychiatric Disorder:
 Varenicline was evaluated in a randomised, double-blind, active and placebo-controlled study that included subjects with a history of psychiatric disorder (psychiatric cohort, N=4074) and subjects without a history of psychiatric disorder (non-psychiatric cohort, N=3984).
 
+Non-psychiatric Cohort
+N=3984
+Varenicline Bupropion NRT Placebo
+
+| Number of Patients Treated | 990 | 989 | 1006 | 999 |
+| --- | --- | --- | --- | --- |
+| Composite NPS AE Primary Endpoint, n (%) | 13 (1.3) | 22 (2.2) | 25 (2.5) | 24 (2.4) |
+| RD (95% CI) vs Placebo | -1.28 (-2.40, -0.15) | -0.08 (-1.37, 1.21) | -0.21 (-1.54,1.12) |  |
+| Composite NPS AE Endpoint of severe intensity n (%) | 1 (0.1) | 4 (0.4) | 3 (0.3) | 5 (0.5) |
+
 |  | Non-psychiatric Cohort N=3984 |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Varenicline | Bupropion | NRT | Placebo |
@@ -466,17 +462,27 @@ Varenicline was evaluated in a randomised, double-blind, active and placebo-cont
 | Suicidal behaviour | 0 | 1 (0.1) | 0 | 0 |
 | Suicidal ideation | 3 (0.4) | 2 (0.2) | 3 (0.4) | 4 (0.5) |
 
-|  | Psychiatric Cohort N=4074 |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Varenicline | Bupropion | NRT | Placebo |
-| Number of Patients Treated | 1026 | 1017 | 1016 | 1015 |
-| Composite NPS AE Primary Endpoint, n (%) | 67 (6.5) | 68 (6.7) | 53 (5.2) | 50 (4.9) |
-| RD (95% CI) vs Placebo | 1.59 (-0.42, 3.59) | 1.78 (-0.24, 3.81) | 0.37 (-1.53, 2.26) |  |
-| NPS AE Primary Endpoint Components n (%): Anxietya Depressiona Feeling abnormala Hostilitya Agitationb Aggressionb Delusionsb Hallucinationsb Homicidal ideationb Maniab Panicb Paranoiab Psychosisb Suicidal behaviourb Suicidal ideationb Completed suicideb | 5 (0.5) 6 (0.6) 0 0 25 (2.4) 14 (1.4) 1 (0.1) 5 (0.5) 0 7 (0.7) 7 (0.7) 1 (0.1) 4 (0.4) 1 (0.1) 5 (0.5) 0 | 4 (0.4) 4 (0.4) 1 (0.1) 0 29 (2.9) 9 (0.9) 1 (0.1) 4 (0.4) 0 9 (0.9) 16 (1.6) 0 2 (0.2) 1 (0.1) 2 (0.2) 0 | 6 (0.6) 7 (0.7) 0 0 21 (2.1) 7 (0.7) 1 (0.1) 2 (0.2) 0 3 (0.3) 13 (1.3) 0 3 (0.3) 0 3 (0.3) 0 | 2 (0.2) 6 (0.6) 0 0 22 (2.2) 8 (0.8) 0 2 (0.2) 0 6 (0.6) 7 (0.7) 2 (0.2) 1 (0.1) 1 (0.1) 2 (0.2) 0 |
-| Composite NPS AE Endpoint of severe intensity n (%) | 14 (1.4) | 14 (1.4) | 14 (1.4) | 13 (1.3) |
+In both cohorts, subjects treated with varenicline demonstrated statistical superiority of CO-confirmed abstinence during weeks 9 through 12 and 9 through 24 compared to subjects treated with bupropion, nicotine patch and placebo (please see table below).
 
 [CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
 
 The 4 week (week 9-12) CQR for varenicline and placebo was 53.9% and 19.4%, respectively (difference=34.5%, 95% CI: 27.0% - 42.0%) and the CA week 9-24 was 35.2% (varenicline) vs. 12.7% (placebo) (difference=22.5%, 95% CI: 15.8% - 29.1%).
 
 *CA: Continuous Abstinence
+
+|  | Non-psychiatric Cohort N=3984 |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Varenicline | Bupropion | NRT | Placebo |
+|  | N=990 n (%) | N=989 n (%) | N=1006 n (%) | N=999 n (%) |
+| During treatment |  |  |  |  |
+| Number assessed | 988 | 983 | 996 | 995 |
+| Suicidal behaviour and/or ideation | 7 (0.7) | 4 (0.4) | 3 (0.3) | 7 (0.7) |
+| Suicidal behaviour | 0 | 0 | 1 (0.1) | 1 (0.1) |
+| Suicidal ideation | 7 (0.7) | 4 (0.4) | 3 (0.3) | 6 (0.6) |
+| During follow up |  |  |  |  |
+| Number assessed | 807 | 816 | 800 | 805 |
+| Suicidal behaviour and/or ideation | 3 (0.4) | 2 (0.2) | 3 (0.4) | 4 (0.5) |
+| Suicidal behaviour | 0 | 1 (0.1) | 0 | 0 |
+| Suicidal | 3 (0.4) | 2 (0.2) | 3 (0.4) | 4 (0.5) |
+
+ideation
