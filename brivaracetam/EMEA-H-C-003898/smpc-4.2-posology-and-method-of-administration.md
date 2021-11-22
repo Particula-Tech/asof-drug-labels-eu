@@ -23,8 +23,9 @@ Based on individual patient response, the dose may be adjusted in the effective 
 
 The following table summarises the recommended posology for children from 4 years of age and adolescents.
 
-|  | Children (≥4 years) and adolescents ≥50 kg Administered in 2 equally divided doses | Children (≥4 years) and adolescents <50 kg Administered in 2 equally divided doses |
+|  | Children (≥4 years) and adolescents ≥50 kg | Children (≥4 years) and adolescents <50 kg |
 | --- | --- | --- |
+|  | Administered in 2 equally divided doses | Administered in 2 equally divided doses |
 | Therapeutic dose range | 50 - 200 mg/day | 1 - 4 mg/kg/day |
 | Recommended starting dose | 50 mg/day (or 100 mg/day)* | 1 mg/kg/day (or 2 mg/kg/day)* |
 | Recommended maintenance dose | 100 mg/day | 2 mg/kg/day |
@@ -84,7 +85,9 @@ The precise volume of oral solution is to be calculated according to the exact b
 
 |  | Volumes of oral solution to be taken per administration |  |  |  |
 | --- | --- | --- | --- | --- |
-| Weight | For a dose of 1 mg/kg/day 0.05 ml/kg/intake (corresponding to 0.5 mg/kg/intake) | For a dose of 2 mg/kg/day 0.1 ml/kg/intake (corresponding to 1 mg/kg/intake) | For a dose of 3 mg/kg/day 0.15 ml/kg/intake (corresponding to 1.5 mg/kg/intake) | For a dose of 4 mg/kg/day 0.2 ml/kg/intake (corresponding to 2 mg/kg/intake) |
+| Weight | For a dose of 1 mg/kg/day | For a dose of 2 mg/kg/day | For a dose of 3 mg/kg/day | For a dose of 4 mg/kg/day |
+|  | 0.05 ml/kg/intake | 0.1 ml/kg/intake | 0.15 ml/kg/intake | 0.2 ml/kg/intake |
+|  | (corresponding to 0.5 mg/kg/intake) | (corresponding to 1 mg/kg/intake) | (corresponding to 1.5 mg/kg/intake) | (corresponding to 2 mg/kg/intake) |
 | 10 kg | 0.5 ml (5 mg) | 1 ml (10 mg) | 1.5 ml (15 mg) | 2 ml (20 mg) |
 | 15 kg | 0.75 ml (7.5 mg) | 1.5 ml (15 mg) | 2.25 ml (22.5 mg) | 3 ml (30 mg) |
 | 20 kg | 1 ml (10 mg) | 2 ml (20 mg) | 3 ml (30 mg) | 4 ml (40 mg) |

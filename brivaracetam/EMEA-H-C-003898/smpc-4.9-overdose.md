@@ -4,6 +4,8 @@ Symptoms
 
 There is limited clinical experience with brivaracetam overdose in humans.
 Somnolence and dizziness have been reported in a healthy subject taking a single dose of 1,400 mg of brivaracetam.
+The following adverse reactions were reported with brivaracetam overdose: nausea, vertigo, balance disorder, anxiety, fatigue, irritability, aggression, insomnia, depression, and suicidal ideation in the post-marketing experience.
+In general, the adverse reactions associated with brivaracetam overdose were consistent with the known adverse reactions.
 
 Management of overdose
 
