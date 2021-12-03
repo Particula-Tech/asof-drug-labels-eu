@@ -9,8 +9,8 @@ Infusion-Related Reactions (IRRs)
 Ocrevus is associated with IRRs, which may be related to cytokine release and/or other chemical mediators.
 
 Symptoms of IRRs may occur during any infusion, but have been more frequently reported during the first infusion.
-IRRs can occur within 24 hours of the infusion.
-These reactions may present as pruritus, rash, urticaria, erythema, throat irritation, oropharyngeal pain, dyspnoea, pharyngeal or laryngeal oedema, flushing, hypotension, pyrexia, fatigue, headache, dizziness, nausea and tachycardia (see section 4.8).
+IRRs can occur within 24 hours of the infusion (see section 4.8).
+These reactions may present as pruritus, rash, urticaria, erythema, throat irritation, oropharyngeal pain, dyspnoea, pharyngeal or laryngeal oedema, flushing, hypotension, pyrexia, fatigue, headache, dizziness, nausea, tachycardia and anaphylaxis.
 
 Before the infusion:
 
@@ -35,6 +35,7 @@ After the infusion:
 - Physicians should alert patients that an IRR can occur within 24 hours of infusion.
 
 For guidance regarding posology for patients experiencing IRR symptoms see section 4.2.
+
 Hypersensitivity Reactions
 
 A hypersensitivity reaction could also occur (acute allergic reaction to medicinal product).
@@ -60,8 +61,7 @@ Physicians should take prompt action for patients presenting with pneumonia.
 
 Progressive multifocal leukoencephalopathy (PML)
 
-A risk of PML cannot be ruled-out since John Cunningham (JC) virus infection resulting in PML has been observed in patients treated with anti-CD20 antibodies and other MS therapies, and associated with risk factors (e.g. patient population, polytherapy with immunosuppressants).
-
+A risk of PML cannot be ruled-out since John Cunningham (JC) virus infection resulting in PML has been observed in patients treated with anti-CD20 antibodies and other MS therapies, and associated with risk factors (patient population e.g. lymphopenia, advanced age, polytherapy with immunosuppressants).
 Physicians should be vigilant for the early signs and symptoms of PML, which can include any new onset, or worsening of neurological signs or symptoms, as these can be similar to MS disease.
 
 If PML is suspected, dosing with Ocrevus must be withheld.
@@ -75,6 +75,7 @@ Hepatitis B virus (HBV) reactivation, in some cases resulting in fulminant hepat
 HBV screening should be performed in all patients before initiation of treatment with Ocrevus as per local guidelines.
 Patients with active HBV (i.e. an active infection confirmed by positive results for HBsAg and anti HB testing) should not be treated with Ocrevus.
 Patients with positive serology (i.e. negative for HBsAg and positive for HB core antibody (HBcAb +); carriers of HBV (positive for surface antigen, HBsAg+) should consult liver disease experts before start of treatment and should be monitored and managed following local medical standards to prevent hepatitis B reactivation.
+
 Late neutropenia
 
 Cases of late onset of neutropenia have been reported.
@@ -103,7 +104,6 @@ In other auto-immune conditions, use of Ocrevus concomitantly with immunosuppres
 Infections included and were not limited to atypical pneumonia and pneumocystis jirovecii pneumonia, varicella pneumonia, tuberculosis, histoplasmosis.
 In rare cases, some of these infections were fatal.
 An exploratory analysis identified the following factors associated with risk of serious infections: higher doses of Ocrevus than recommended in MS, other comorbidities, and chronic use of immunosuppressants/corticosteroids.
-
 It is not recommended to use other immunosuppressives concomitantly with Ocrevus except corticosteroids for symptomatic treatment of relapses.
 Knowledge is limited as to whether concomitant steroid use for symptomatic treatment of relapses is associated with an increased risk of infections in clinical practice.
 In the ocrelizumab MS pivotal studies the administration of corticosteroids for the treatment of relapse was not associated with an increased risk of serious infection.
@@ -115,6 +115,7 @@ Vaccinations
 
 The safety of immunisation with live or live-attenuated vaccines, following Ocrevus therapy has not been studied and vaccination with live-attenuated or live vaccines is not recommended during treatment and not until B-cell repletion (in clinical trials, the median time for B-cell repletion was 72 weeks).
 See section 5.1.
+
 In a randomized open-label study, RMS patients were able to mount humoral responses, although decreased, to tetanus toxoid, 23-valent pneumococcal polysaccharide with or without a booster vaccine, keyhole limpet hemocyanin neoantigen, and seasonal influenza vaccines.
 See section 4.5 and 5.1.
 

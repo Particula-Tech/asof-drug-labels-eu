@@ -24,6 +24,7 @@ The extent and duration of B-cell depletion was consistent in the PPMS and RMS t
 
 The longest follow up time after the last Ocrevus infusion (Phase II study WA21493, N=51) indicates that the median time to B-cell repletion (return to baseline/LLN whichever occurred first) was 72 weeks (range 27 - 175 weeks).
 90% of all patients had their B-cells repleted to LLN or baseline by approximately two and a half years after the last infusion.
+
 Clinical efficacy and safety
 
 Relapsing forms of MS
@@ -35,7 +36,6 @@ Demographic and baseline characteristics were well balanced across the two treat
 Patients receiving Ocrevus (Group A) were given 600 mg every 6 months (Dose 1 as 2 x 300 mg intravenous infusions, administered 2 weeks apart, and subsequent doses were administered as a single 600 mg intravenous infusion).
 Patients in Group B were administered Interferon beta-1a (Rebif)
 44 mcg via subcutaneous injection 3 times per week.
-
 Table 3 Study Design, Demographic and Baseline Characteristics
 
 |  | Study 1 |  | Study 2 |  |
@@ -60,8 +60,8 @@ Table 3 Study Design, Demographic and Baseline Characteristics
 ** Patients who had not been treated with any MS medication in the 2 years prior to randomization.
 
 Key clinical and MRI efficacy results are presented in Table 4 and Figure 1.
-The results of these studies show that Ocrevus significantly suppressed relapses, sub-clinical disease activity measured by MRI, and disease progression compared with interferon beta-1a 44mcg subcutaneous.
 
+The results of these studies show that Ocrevus significantly suppressed relapses, sub-clinical disease activity measured by MRI, and disease progression compared with interferon beta-1a 44mcg subcutaneous.
 Table 4 Key Clinical and MRI Endpoints from Studies WA21092 and WA21093 (RMS)
 
 | Endpoints | Study 1: WA21092 (OPERA I) |  | Study 2: WA21093 (OPERA II) |  |  |
@@ -182,6 +182,10 @@ The primary analysis is based on all events accrued.
 Pre-specified non-powered subgroup analysis of the the primary endpoint suggests that patients who are younger or those with T1 Gd-enhancing lesions at baseline receive a greater treatment benefit than patients who are older or without T1 Gd-enhancing lesions (≤ 45 years: HR 0.64 [0.45, 0.92],
 >45 years: HR 0.88 [0.62, 1.26]; with T1 Gd-enhancing lesions at baseline: HR 0.65 [0.40-1.06], without T1 Gd-enhancing lesions at baseline: HR 0.84 [0.62-1.13]).
 Moreover, post-hoc analyses suggested that younger patients with T1 Gd-enhancing lesions at baseline have the better treatment effect (≤ 45 years: HR 0.52 [0.27-1.00]; ≤ 46 years [median age of the WA25046 study]; HR 0.48 [0.25-0.92]; <51 years: HR 0.53 [0.31-0.89]).
+
+Post-hoc analyses were performed in the Extended Controlled Period (ECP), which includes double-blinded treatment and approximately 9 additional months of controlled follow-up before continuing into the Open-Label Extension (OLE) or until withdrawal from study treatment.
+The proportion of patients with 24 week Confirmed Disability Progression of EDSS≥7.0 (24W-CDP of EDSS≥7.0, time to wheelchair) was 9.1% in the placebo group compared to 4.8% in the Ocrevus group at Week 144, resulting in a 47% risk reduction of the time to wheelchair (HR 0.53, [0.31, 0.92]) during the ECP.
+As these results were exploratory in nature and included data after unblinding, the results should be interpreted with caution.
 
 Shorter Infusion Substudy
 

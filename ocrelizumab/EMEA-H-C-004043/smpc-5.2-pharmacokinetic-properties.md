@@ -8,7 +8,6 @@ Absorption
 
 Ocrevus is administered as an intravenous infusion.
 There have been no studies performed with other routes of administration.
-
 Distribution
 
 The population pharmacokinetics estimate of the central volume of distribution was 2.78 L. Peripheral volume and inter-compartment clearance were estimated at 2.68 L and 0.294 L/day.
@@ -16,6 +15,7 @@ The population pharmacokinetics estimate of the central volume of distribution w
 Biotransformation
 
 The metabolism of Ocrevus has not been directly studied, as antibodies are cleared principally by catabolism (i.e. breakdown into peptides and amino acids).
+
 Elimination
 
 Constant clearance was estimated at 0.17 L/day, and initial time-dependent clearance at 0.0489 L/day which declined with a half-life of 33 weeks.

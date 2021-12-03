@@ -4,34 +4,33 @@ Summary of the safety profile
 
 The most important and frequently reported adverse drug reactions (ADRs) were IRRs and infections.
 See section 4.4 and section 4.8 (subsection ‘Description of selected adverse reactions’) for further details.
+
 Tabulated list of adverse reactions
 
 The overall safety profile of Ocrevus in Multiple Sclerosis is based on data from patients from pivotal clinical trials in MS (RMS and PPMS).
 
-The table 2 summarises the ADRs that have been reported in association with the use of Ocrevus in
-1311 patients (3054 patient years) during the controlled treatment periods of MS clinical trials.
-Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000
-to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000) and not known (cannot be estimated
-from the available data). Within each System Organ Class, the adverse reactions are presented in
-order of decreasing frequency.
+The table 2 summarises the ADRs that have been reported in association with the use of Ocrevus in 1311 patients (3054 patient years) during the controlled treatment periods of MS clinical trials.
+
+Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000) and not known (cannot be estimated from the available data).
+Within each System Organ Class, the adverse reactions are presented in order of decreasing frequency.
+
 Table 2 ADRs reported with Ocrevus (in RMS or PPMS)
-MedDRA Very Common Common Not known2
+MedDRA Very Common Common Not
+Known2
 System Organ Class
 (SOC)
-Infections and Upper respiratory tract Sinusitis, bronchitis,
-infestations infection, oral herpes,
-nasopharyngitis, gastroenteritis,
-influenza respiratory tract
-infection, viral infection,
-herpes zoster,
-conjunctivitis, cellulitis
-Respiratory, thoracic Cough, catarrh
-and mediastinal
-disorders
-Investigations Blood immunoglobulin Blood immunoglobulin
-M decreased G decreased
-Blood and lymphatic Neutropenia Late onset of
-system disorders neutropenia
+Infections and Upper respiratory tract Sinusitis, bronchitis, oral
+infestations infection, nasopharyngitis, herpes, gastroenteritis,
+influenza respiratory tract infection,
+viral infection, herpes
+zoster, conjunctivitis,
+cellulitis
+Respiratory, thoracic and Cough, catarrh
+mediastinal disorders
+Investigations Blood immunoglobulin M Blood immunoglobulin G
+decreased decreased
+Blood and lymphatic system Neutropenia Late onset of
+disorders neutropenia
 Injury, poisoning and Infusion-related reactions1
 procedural complications
 
@@ -44,6 +43,7 @@ Infusion-related reactions
 
 Across the RMS and PPMS trials, symptoms associated with IRRs included, but are not limited to: pruritus, rash, urticaria, erythema, flushing, hypotension, pyrexia, fatigue, headache, dizziness, throat irritation, oropharyngeal pain, dyspnoea, pharyngeal or laryngeal oedema, nausea, tachycardia.
 In controlled trials there were no fatal IRRs.
+In addition, symptoms of IRR in the post-marketing setting included anaphylaxis.
 
 In active-controlled (RMS) clinical trials, IRR was the most common adverse event in patients treated with Ocrevus with an overall incidence of 34.3% compared with an incidence of 9.9% in the interferon beta-1a treatment group (placebo infusion).
 The incidence of IRRs was highest during the Dose 1, infusion 1 (27.5%) and decreased over time to <10% at Dose 4.
@@ -58,7 +58,6 @@ The majority of IRRs were mild to moderate.
 26.7% and 11.9% of Ocrevus treated patients experienced mild and moderate IRRs respectively, 1.4% experienced severe IRRs.
 There were no life-threatening IRRs.
 See section 4.4.
-
 Alternative Shorter Infusion of Subsequent Doses
 
 In a study (MA30143 Shorter Infusion Substudy) designed to characterise the safety profile of shorter (2-hour) Ocrevus infusions in patients with Relapsing-Remitting Multiple Sclerosis, the incidence, intensity, and types of symptoms of IRRs were consistent with those of infusions administered over 3.5 hours (see section 5.1 Pharmacodynamic properties).
@@ -86,6 +85,7 @@ In active-controlled (RMS) clinical trials, herpes infections were reported more
 Infections were predominantly mild to moderate in severity and patients recovered with treatment by standard therapies.
 
 In the placebo-controlled (PPMS) clinical trial, a higher proportion of patients with oral herpes (2.7% vs 0.8%) were observed in the Ocrevus treatment arm.
+
 Laboratory Abnormalities
 
 Immunoglobulins
@@ -97,7 +97,6 @@ Lymphocytes
 
 In RMS, a decrease in lymphocyte < LLN was observed in 20.7% of Ocrevus patients compared with 32.6% of patients treated with interferon beta-1a.
 In PPMS, a decrease in lymphocytes <LLN was observed in 26.3% of Ocrevus treated patients vs 11.7% of placebo-treated patients.
-
 The majority of these decreases reported in Ocrevus treated patients were Grade 1 (<LLN -
 800 cells/mm3) and 2 (between 500 and 800 cells/mm3) in severity.
 Approximately 1% of the patients in the Ocrevus group had a Grade 3 lymphopenia (between 200 and 500 cells/mm3).
@@ -111,7 +110,7 @@ Neutrophils
 In the active-controlled (RMS) treatment period, a decrease in neutrophils < LNN was observed in 14.7% of Ocrevus patients compared with 40.9% of patients treated with interferon beta-1a.
 In the placebo-controlled (PPMS) clinical trial, the proportion of Ocrevus patients presenting decreased neutrophils was higher (12.9 %) than placebo patients (10.0 %); among these a higher percentage of patients (4.3%) in the Ocrevus group had Grade 2 or above neutropenia vs 1.3% in the placebo group; approximately 1% of the patients in the Ocrevus group had Grade 4 neutropenia vs 0% in the placebo group.
 
-The majority of the neutrophil decreases were transient (only observed once for a given patient treated with Ocrevus) and were Grade 1 (between <LLN and 1500 cells/mm3) and 2 (between 1000 and 1500 cells/mm3) in severity.
+The majority of the neutrophil decreases were transient (only observed once for a given patient treated with Ocrevus) and were Grade 1 (between<LLN and 1500 cells/mm3) and 2 (between 1000 and 1500 cells/mm3) in severity.
 One patient with grade 3 (between 500 and 1000 cells/mm3) and one patient with grade 4 (< 500 cells/mm3) neutropenia required specific treatment with granulocyte-colony stimulating factor, and remained on ocrelizumab after the episode.
 Neutropenia can occur several months after the administration of Ocrevus (see section 4.4).
 
@@ -123,6 +122,4 @@ Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
-
-listed in Appendix V.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

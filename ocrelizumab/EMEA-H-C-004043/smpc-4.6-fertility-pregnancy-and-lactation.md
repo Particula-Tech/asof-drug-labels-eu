@@ -26,7 +26,6 @@ It is unknown whether ocrelizumab/metabolites are excreted in human milk.
 Available pharmacodynamic/toxicological data in animals have shown excretion of ocrelizumab in milk (for details see section 5.3).
 A risk to neonates and infants cannot be excluded.
 Women should be advised to discontinue breast-feeding during Ocrevus therapy.
-
 Fertility
 
 Preclinical data reveal no special hazards for humans based on studies of male and female fertility in cynomologous monkeys.

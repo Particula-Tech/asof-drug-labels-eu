@@ -4,8 +4,10 @@ Instructions for dilution
 
 Ocrevus should be prepared by a healthcare professional using aseptic technique.
 Do not shake the vial.
+A sterile needle and syringe should be used to prepare the diluted infusion solution.
 
 The product is intended for single use only.
+
 Do not use the solution if discoloured or if the solution contains foreign particulate matter (see section 3 for a description of the solution).
 
 Ocrevus medicinal product must be diluted before administration.
