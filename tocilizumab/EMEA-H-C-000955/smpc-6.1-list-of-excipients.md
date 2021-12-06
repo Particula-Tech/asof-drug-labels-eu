@@ -10,7 +10,7 @@ Water for injections
 
 L-Histidine
 L-Histidine monohydrochloride monohydrate
-L-Arginine hydrochloride
+L-Arginine/L-Arginine hydrochloride
 L-Methionine
 
 [RoActemra 162 mg solution for injection in pre-filled pen.]

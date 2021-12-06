@@ -1,8 +1,8 @@
 # 5.2 Pharmacokinetic properties
 
-RA Patients
-
 Intravenous use
+
+RA Patients
 The pharmacokinetics of tocilizumab were determined using a population pharmacokinetic analysis on a database composed of 3552 RA patients treated with a one-hour infusion of 4 or 8 mg/kg tocilizumab every 4 weeks for 24 weeks or with 162 mg tocilizumab given subcutaneously either once a week or every other week for 24 weeks.
 
 The following parameters (predicted mean ± SD) were estimated for a dose of 8 mg/kg tocilizumab given every 4 weeks: steady-state area under curve (AUC) = 38000 ± 13000 h µg/mL, trough concentration (Cmin) = 15.9 ± 13.1 µg/mL and maximum concentration (Cmax) = 182 ± 50.4 µg/mL, and the accumulation ratios for AUC and Cmax were small, 1.32 and 1.09, respectively.
@@ -13,25 +13,33 @@ At body weight ≥ 100 kg, the predicted mean (± SD) steady-state AUC, Cmin and
 The dose-response curve for tocilizumab flattens at higher exposure, resulting in smaller efficacy gains for each incremental increase in tocilizumab concentration such that clinically meaningful increases in efficacy were not demonstrated in patients treated with > 800 mg of tocilizumab.
 Therefore, tocilizumab doses exceeding 800 mg per infusion are not recommended (see section 4.2).
 
+COVID-19 Patients
+The pharmacokinetics of tocilizumab was characterized using a population pharmacokinetic analysis of a database composed of 380 adult COVID-19 patients in Study WA42380 (COVACTA) and Study CA42481 (MARIPOSA) that treated with a single infusion of 8 mg/kg tocilizumab or two infusions separated by at least 8 hours.
+The following parameters (predicted mean+SD) were estimated for a dose of 8 mg/kg tocilizumab: area under curve over 28 days (AUC0-28) = 18312 (5184) hour•µg/mL, concentration at Day 28 (Cday28) = 0.934 (1.93) µg/mL and maximum concentration (Cmax) = 154 (34.9) µg/mL.
+The AUC0-28, Cday28 and Cmax, following two doses of 8 mg/kg tocilizumab separated by 8 hours, were also estimated (predicted mean +SD): 42240 (11520) hour•µg/mL and 8.94 (8.5) µg/mL, and 296 (64.7) µg/mL respectively.
+
 Distribution
-In RA patients the central volume of distribution was 3.72, the peripheral volume of distribution was 3.35 resulting in a volume of distribution at steady state of 7.07.
+In RA patients the central volume of distribution was 3.72 L, the peripheral volume of distribution was 3.35 L resulting in a volume of distribution at steady state of 7.07 L.
+
+In COVID-19 adult patients, the central volume of distribution was 4.52 L, the peripheral volume of distribution was 4.23 L, resulting in a volume of distribution of 8.75 L.
 
 Elimination
-Following intravenous administration, tocilizumab undergoes biphasic elimination from the circulation.
-The total clearance of tocilizumab was concentration-dependent and is the sum of the linear and non-linear clearance.
-The linear clearance was estimated as a parameter in the population pharmacokinetic analysis and was 9.5 mL/h.
+Following intravenous administration, tocilizumab undergoes a dual elimination from the circulation, one following a linear clearance and one following a concentration-dependent non-linear clearance.
+In RA patients, the linear clearance was 9.5 mL/h.
+In COVID-19 adult patients, the linear clearance was 17.6 mL/h in patients with baseline ordinal scale category 3 (OS 3, patients requiring supplemental oxygen), 22.5 mL/h in patients with baseline OS 4 (patients requiring high-flow oxygen or non-invasive ventilation), 29 mL/h in patients with baseline OS 5 (patients requiring mechanical ventilation), and 35.4 mL/h in patients with baseline OS 6 (patients requiring extracorporeal membrane oxygenation (ECMO) or mechanical ventilation and additional organ support).
 The concentration-dependent non-linear clearance plays a major role at low tocilizumab concentrations.
 Once the non-linear clearance pathway is saturated, at higher tocilizumab concentrations, clearance is mainly determined by the linear clearance.
 
-The t1/2 of tocilizumab was concentration-dependent.
+In RA patients, the t1/2 of tocilizumab was concentration-dependent.
 At steady-state following a dose of 8 mg/kg every 4 weeks, the effective t1/2 decreased with decreasing concentrations within a dosing interval from 18 days to 6 days.
+
+In COVID-19 patients, serum concentrations were below the limit of quantification after 35 days on average following one infusion of tocilizumab IV 8 mg/kg.
 
 Linearity
 Pharmacokinetic parameters of tocilizumab did not change with time.
 A more than dose-proportional increase in the AUC and Cmin was observed for doses of 4 and 8 mg/kg every 4 weeks.
 Cmax increased dose-proportionally.
 At steady-state, predicted AUC and Cmin were 3.2 and 30 fold higher at 8 mg/kg as compared to 4 mg/kg, respectively.
-
 Special populations
 Renal impairment: No formal study of the effect of renal impairment on the pharmacokinetics of tocilizumab has been conducted.
 Most of the patients in the population pharmacokinetic analysis had normal renal function or mild renal impairment.
@@ -39,11 +47,14 @@ Mild renal impairment (creatinine clearance based on Cockcroft-Gault < 80 mL/min
 
 Hepatic impairment: No formal study of the effect of hepatic impairment on the pharmacokinetics of tocilizumab has been conducted.
 
-Age, gender and ethnicity: Population pharmacokinetic analyses in RA patients, showed that age, gender and ethnic origin did not affect the pharmacokinetics of tocilizumab.
+Age, gender and ethnicity: Population pharmacokinetic analyses in RA and COVID-19 patients, showed that age, gender and ethnic origin did not affect the pharmacokinetics of tocilizumab.
+
+Results of the population PK analysis for COVID-19 patients confirmed that body weight and disease severity are both covariates which have an appreciable impact on the linear clearance of tocilizumab.
 
 sJIA Patients:
 The pharmacokinetics of tocilizumab were determined using a population pharmacokinetic analysis on a database composed of 140 sJIA patients treated with 8 mg/kg IV every 2 weeks (patients with a body weight ≥ 30 kg ) 12 mg/kg IV every 2 weeks (patients with a body weight < 30 kg), 162 mg SC every week (patients weighing ≥ 30 kg), 162 mg SC every 10 days or every 2 weeks (patients weighing below 30 kg).
-Table 10.
+
+Table 11.
 Predicted mean ± SD PK parameters at steady-state after IV dosing in sJIA
 
 | RoActemra PK Parameter | 8 mg/kg Q2W ≥ 30 kg | 12 mg/kg Q2W below 30 kg |
@@ -67,8 +78,7 @@ The half life of tocilizumab in sJIA patients is up to 16 days for the two body 
 pJIA Patients:
 The pharmacokinetics of tocilizumab in pJIA patients was characterized by a population pharmacokinetic analysis which included 237 patients who were treated with 8 mg/kg IV every 4 weeks (patients weighing ≥ 30 kg ), 10 mg/kg IV every 4 weeks (patients weighing below 30 kg),
 162 mg SC every 2 weeks (patients weighing ≥ 30 kg), or 162 mg SC every 3 weeks (patients weighing below 30 kg).
-
-Table 11.
+Table 12.
 Predicted mean ± SD PK parameters at steady-state after IV dosing in pJIA
 
 | RoActemra PK Parameter | 8 mg/kg Q4W ≥ 30 kg | 10 mg/kg Q4W below 30 kg |
@@ -97,16 +107,16 @@ Population pharmacokinetic analyses in any patient population tested so far indi
 
 RA
 The pharmacokinetics of RoActemra were determined using a population pharmacokinetic analysis on a database composed of 3552 RA patients treated with a one-hour infusion of 4 or 8 mg/kg RoActemra every 4 weeks for 24 weeks or with 162 mg tocilizumab given subcutaneously either once a week or every other week for 24 weeks.
+
 The following parameters (predicted mean ± SD) were estimated for a dose of 8 mg/kg RoActemra given every 4 weeks: steady-state area under curve (AUC) = 38000 ± 13000 h•µg/mL, trough concentration (Cmin) = 15.9 ± 13.1 µg/mL and maximum concentration (Cmax) = 182 ± 50.4 µg/mL, and. the accumulation ratios for AUC and Cmax were small, 1.32 and 1.09, respectively.
 RoActemra AUC, Cmin and Cmax increased with increase of body weight.
 At body weight ≥ 100 kg, the predicted mean (± SD) steady-state AUC, Cmin and Cmax of RoActemra were 50000 ± 16800 μg•h/mL, 24.4 ± 17.5 μg/mL, and 226 ± 50.3 μg/mL, respectively, which are higher than mean exposure values for the patient population (i.e. all body weights) reported above.
 The dose-response curve for tocilizumab flattens at higher exposure, resulting in smaller efficacy gains for each incremental increase in RoActemra concentration such that clinically meaningful increases in efficacy were not demonstrated in patients treated with > 800 mg of RoActemra.
 Therefore, RoActemra doses exceeding 800 mg per infusion are not recommended (see section 4.2).
 
-In RA patients the central volume of distribution was 3.72 L, the peripheral volume of distribution was 3.35 L resulting in a volume of distribution at steady state of 7.07 L.
-
 Following intravenous administration, RoActemra undergoes biphasic elimination from the circulation.
 The total clearance of RoActemra was concentration-dependent and is the sum of the linear and non-linear clearance.
+The linear clearance was estimated as a parameter in the population pharmacokinetic analysis and was 9.5 mL/h.
 The concentration-dependent non-linear clearance plays a major role at low RoActemra concentrations.
 Once the non-linear clearance pathway is saturated, at higher RoActemra concentrations, clearance is mainly determined by the linear clearance.
 
@@ -160,10 +170,9 @@ In paediatric patients with sJIA, the central volume of distribution was 1.87 L,
 
 The total clearance of tocilizumab was concentration-dependent and is the sum of the linear clearance and the nonlinear clearance.
 The linear clearance was estimated as a parameter in the population pharmacokinetic analysis and was 5.7 mL/h in paediatric patients with systemic juvenile idiopathic arthritis.
-Following subcutaneous administration, the effective t1/2 of RoActemra in sJIA patients is up to 14 days for both the 162 mg QW and Q2W regimens during a dosing interval at steady state.
-
-pJIA
+Following subcutaneous administration, the effective t1/2 of RoActemra in sJIA patients is up to 14 days for both the 162 mg QW and Q2W regimens during a dosing interval at steady state. pJIA
 The pharmacokinetics of RoActemra in pJIA patients was characterized by a population pharmacokinetic analysis which included 237 patients who were treated with 8 mg/kg IV every 4 weeks (patients weighing ≥ 30 kg), 10 mg/kg IV every 4 weeks (patients weighing below 30 kg),
+
 Table 9.
 Predicted mean ± SD PK parameters at steady-state after SC dosing in pJIA
 
@@ -187,11 +196,14 @@ In paediatric patients with pJIA, the central volume of distribution was 1.97 L,
 Population pharmacokinetic analysis for pJIA patients showed body size related impact on linear clearance so that body-weight based dosing should be taken into consideration (see Table 9).
 
 After subcutaneous administration, the effective t1/2 of RoActemra in pJIA patients is up to 10 days for patients < 30 kg (162 mg SC Q3W) and up to 7 days for patients >= 30 kg (162 mg SC Q2W) during a dosing interval at steady state.
+Following intravenous administration, tocilizumab undergoes biphasic elimination from the circulation.
+The total clearance of tocilizumab was concentration-dependent and is the sum of the linear and non-linear clearance.
 The linear clearance was estimated as a parameter in the population pharmacokinetic analysis and was 6.25 mL/h.
 
 GCA
 The PK of RoActemra in GCA patients were determined using a population PK model from an analysis dataset composed of 149 GCA patients treated with 162 mg subcutaneous every week or 162 mg subcutaneous every other week.
 The developed model had the same structure as the population PK model developed earlier based on data from RA patients (see Table 10).
+Table 10.
 Predicted mean ± SD PK parameters at steady-state after subcutaneous dosing in GCA
 
 |  | Subcutaneous |  |
@@ -250,12 +262,19 @@ Results of the population PK analysis for sJIA and pJIA patients confirmed that 
 [RoActemra 162 mg solution for injection in pre-filled pen.]
 
 The pharmacokinetics of RoActemra were determined using a population pharmacokinetic analysis on a database composed of 3552 RA patients treated with a one-hour infusion of 4 or 8 mg/kg RoActemra every 4 weeks for 24 weeks or with 162 mg RoActemra given subcutaneously either once a week or every other week for 24 weeks.
+
 The following parameters (predicted mean ± SD) were estimated for a dose of 8 mg/kg RoActemra given every 4 weeks: steady-state area under curve (AUC) = 38000 ± 13000 h µg/mL, trough concentration (Cmin) = 15.9 ± 13.1 µg/mL and maximum concentration (Cmax) = 182 ± 50.4 µg/mL, and. the accumulation ratios for AUC and Cmax were small, 1.32 and 1.09, respectively.
 The dose-response curve for RoActemra flattens at higher exposure, resulting in smaller efficacy gains for each incremental increase in RoActemra concentration such that clinically meaningful increases in efficacy were not demonstrated in patients treated with > 800 mg of RoActemra.
+
+In RA patients the central volume of distribution was 3.72, the peripheral volume of distribution was 3.35 resulting in a volume of distribution at steady state of 7.07.
 
 For the 162 mg every week dose, the predicted mean (±SD) steady-state AUC1week, Cmin and Cmax of RoActemra were 7970 ± 3432 µg•h/mL, 43.0 ± 19.8 µg/mL, and 49.8 ± 21.0 µg /mL, respectively.
 
 For subcutaneous administration, the concentration-dependent apparent t 1/2 is up to 12 days for 162 mg every week and 5 days for 162 mg every other week in patients with RA at steady-state.
+
+Following subcutaneous administration, the effective t1/2 of RoActemra in sJIA patients is up to 14 days for both the 162 mg QW and Q2W regimens during a dosing interval at steady state.
+
+pJIA
 
 |  | Subcutaneous |  |
 | --- | --- | --- |

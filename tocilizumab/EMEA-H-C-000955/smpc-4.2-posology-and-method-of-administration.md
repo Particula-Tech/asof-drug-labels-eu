@@ -1,6 +1,7 @@
 # 4.2 Posology and method of administration
 
-Treatment should be initiated by healthcare professionals experienced in the diagnosis and treatment of RA, sJIA, pJIA or CRS.
+Treatment should be initiated by healthcare professionals experienced in the diagnosis and treatment of RA, COVID-19, sJIA, pJIA or CRS.
+
 All patients treated with RoActemra should be given the Patient Alert Card.
 
 Posology
@@ -18,26 +19,42 @@ Dose adjustments due to laboratory abnormalities (see section 4.4).
 
 | Laboratory Value | Action |
 | --- | --- |
-| > 1 to 3 x Upper Limit of Normal (ULN) | Modify the dose of the concomitant MTX if appropriate For persistent increases in this range, reduce RoActemra dose to 4 mg/kg or interrupt RoActemra until alanine aminotransferase (ALT) or aspartate aminotransferase (AST) have normalised Restart with 4 mg/kg or 8 mg/kg, as clinically appropriate |
-| > 3 to 5 x ULN (confirmed by repeat testing, see section 4.4). | Interrupt RoActemra dosing until < 3 x ULN and follow recommendations above for > 1 to 3 x ULN For persistent increases > 3 x ULN, discontinue RoActemra |
-| > 5 x ULN | Discontinue RoActemra |
+| > 1 to 3 x Upper Limit of Normal (ULN) | Modify the dose of the concomitant MTX if appropriate. For persistent increases in this range, reduce RoActemra dose to 4 mg/kg or interrupt RoActemra until alanine aminotransferase (ALT) or aspartate aminotransferase (AST) have normalized. Restart with 4 mg/kg or 8 mg/kg, as clinically appropriate. |
+| > 3 to 5 x ULN (confirmed by repeat testing, see section 4.4). | Interrupt RoActemra dosing until < 3 x ULN and follow recommendations above for > 1 to 3 x ULN. For persistent increases > 3 x ULN, discontinue RoActemra. |
+| > 5 x ULN | Discontinue RoActemra. |
 
 - Low absolute neutrophil count (ANC)
 
-In patients not previously treated with RoActemra, initiation is not recommended in patients with an absolute neutrophil count (ANC) below 2 x 109/l.
+In patients not previously treated with RoActemra, initiation is not recommended in patients with an absolute neutrophil count (ANC) below 2 x 109/L.
 
 | Laboratory Value (cells x 109/ l ) | Action |
 | --- | --- |
-| ANC > 1 | Maintain dose |
-| ANC 0.5 to 1 | Interrupt RoActemra dosing When ANC increases > 1 x 109/ l resume RoActemra at 4 mg/kg and increase to 8 mg/kg as clinically appropriate |
-| ANC < 0.5 | Discontinue RoActemra |
+| ANC > 1 | Maintain dose. |
+| ANC 0.5 to 1 | Interrupt RoActemra dosing. When ANC increases > 1 x 109/ l resume RoActemra at 4 mg/kg and increase to 8 mg/kg as clinically appropriate. |
+| ANC < 0.5 | Discontinue RoActemra. |
 
 - Low platelet count
 
 | Laboratory Value (cells x 103/ μL) | Action |
 | --- | --- |
-| 50 to 100 | Interrupt RoActemra dosing When platelet count > 100 x 103/ μl resume RoActemra at 4 mg/kg and increase to 8 mg/kg as clinically appropriate |
-| < 50 | Discontinue RoActemra |
+| 50 to 100 | Interrupt RoActemra dosing. When platelet count > 100 x 103/ μl resume RoActemra at 4 mg/kg and increase to 8 mg/kg as clinically appropriate. |
+| < 50 | Discontinue RoActemra. |
+
+COVID-19 Patients
+
+The recommended posology for treatment of COVID-19 is a single 60-minute intravenous infusion of 8 mg/kg in patients who are receiving systemic corticosteroids and require supplemental oxygen or mechanical ventilation, see section 5.1.
+If clinical signs or symptoms worsen or do not improve after the first dose, one additional infusion of RoActemra 8 mg/kg may be administered.
+The interval between the two infusions should be at least 8 hours.
+
+For individuals whose body weight is more than 100 kg, doses exceeding 800 mg per infusion are not recommended (see section 5.2).
+
+Administration of RoActemra is not recommended in patients with COVID-19 who have any of the following laboratory abnormalities:
+
+| Laboratory test type | Laboratory value | Action |
+| --- | --- | --- |
+| Liver enzyme | >10x ULN | Administration of RoActemra is not recommended |
+| Absolute neutrophil count | < 1 x 109 /L |  |
+| Platelet count | < 50 x 103 /μL |  |
 
 Cytokine Release Syndrome (CRS) (adults and paediatrics)
 The recommended posology for treatment of CRS given as a 60-minute intravenous infusion is 8 mg/kg in patients weighing greater than or equal to 30 kg or 12 mg/kg in patients weighing less than 30 kg.
@@ -48,7 +65,6 @@ The interval between consecutive doses should be at least 8 hours.
 Doses exceeding 800 mg per infusion are not recommended in CRS patients.
 
 Patients with severe or life-threatening CRS frequently have cytopenias or elevated ALT or AST due to the underlying malignancy, preceding lymphodepleting chemotherapy or the CRS.
-
 Special populations
 
 Paediatric patients
@@ -69,27 +85,26 @@ As there are many co-morbid conditions that may affect laboratory values in sJIA
 
 | Laboratory Value | Action |
 | --- | --- |
-| > 1 to 3 x ULN | Modify the dose of the concomitant MTX if appropriate For persistent increases in this range, interrupt RoActemra until ALT/AST have normalized. |
-| > 3 x ULN to 5x ULN | Modify the dose of the concomitant MTX if appropriate Interrupt RoActemra dosing until < 3x ULN and follow recommendations above for >1 to 3x ULN |
+| > 1 to 3 x ULN | Modify the dose of the concomitant MTX if appropriate. For persistent increases in this range, interrupt RoActemra until ALT/AST have normalized. |
+| > 3 x ULN to 5x ULN | Modify the dose of the concomitant MTX if appropriate. Interrupt RoActemra dosing until < 3x ULN and follow recommendations above for >1 to 3x ULN. |
 | > 5x ULN | Discontinue RoActemra. The decision to discontinue RoActemra in sJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
 
 - Low absolute neutrophil count (ANC)
 
 | Laboratory Value (cells x 109/ l ) | Action |
 | --- | --- |
-| ANC > 1 | Maintain dose |
-| ANC 0.5 to 1 | Interrupt RoActemra dosing When ANC increases to > 1 x 109/ l resume RoActemra |
-| ANC < 0.5 | Discontinue RoActemra The decision to discontinue RoActemra in sJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
+| ANC > 1 | Maintain dose. |
+| ANC 0.5 to 1 | Interrupt RoActemra dosing. When ANC increases to > 1 x 109/ l resume RoActemra. |
+| ANC < 0.5 | Discontinue RoActemra. The decision to discontinue RoActemra in sJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
 
 - Low platelet count
 
 | Laboratory Value (cells x 103/µl) | Action |
 | --- | --- |
-| 50 to 100 | Modify the dose of the concomitant MTX if appropriate Interrupt RoActemra dosing When platelet count is > 100 x 103/µl resume RoActemra |
+| 50 to 100 | Modify the dose of the concomitant MTX if appropriate. Interrupt RoActemra dosing. When platelet count is > 100 x 103/µl resume RoActemra. |
 | < 50 | Discontinue RoActemra. The decision to discontinue RoActemra in sJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
 
-There are insufficient clinical data to assess the impact of a tocilizumab dose reduction in sJIA
-patients who have experienced laboratory abnormalities.
+There are insufficient clinical data to assess the impact of a tocilizumab dose reduction in sJIA patients who have experienced laboratory abnormalities.
 
 Available data suggest that clinical improvement is observed within 6 weeks of initiation of treatment with RoActemra.
 Continued therapy should be carefully reconsidered in a patient exhibiting no improvement within this timeframe.
@@ -110,30 +125,29 @@ As there are many co-morbid conditions that may effect laboratory values in pJIA
 
 | Laboratory Value | Action |
 | --- | --- |
-| > 1 to 3 x ULN | Modify the dose of the concomitant MTX if appropriate For persistent increases in this range, interrupt RoActemra until ALT/AST have normalized. |
-| > 3 x ULN to 5x ULN | Modify the dose of the concomitant MTX if appropriate Interrupt RoActemra dosing until < 3x ULN and follow recommendations above for >1 to 3x ULN |
+| > 1 to 3 x ULN | Modify the dose of the concomitant MTX if appropriate. For persistent increases in this range, interrupt RoActemra until ALT/AST have normalized. |
+| > 3 x ULN to 5x ULN | Modify the dose of the concomitant MTX if appropriate. Interrupt RoActemra dosing until < 3x ULN and follow recommendations above for >1 to 3x ULN. |
 | > 5x ULN | Discontinue RoActemra. The decision to discontinue RoActemra in pJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
 
 - Low absolute neutrophil count (ANC)
 
 | Laboratory Value (cells x 109/ l ) | Action |
 | --- | --- |
-| ANC > 1 | Maintain dose |
-| ANC 0.5 to 1 | Interrupt RoActemra dosing When ANC increases to > 1 x 109/ l resume RoActemra |
-| ANC < 0.5 | Discontinue RoActemra The decision to discontinue RoActemra in pJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
+| ANC > 1 | Maintain dose. |
+| ANC 0.5 to 1 | Interrupt RoActemra dosing. When ANC increases to > 1 x 109/ l resume RoActemra. |
+| ANC < 0.5 | Discontinue RoActemra. The decision to discontinue RoActemra in pJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
 
 - Low platelet count
 
 | Laboratory Value (cells x 103/µl) | Action |
 | --- | --- |
-| 50 to 100 | Modify the dose of the concomitant MTX if appropriate Interrupt RoActemra dosing When platelet count is > 100 x 103/µl resume RoActemra |
+| 50 to 100 | Modify the dose of the concomitant MTX if appropriate. Interrupt RoActemra dosing. When platelet count is > 100 x 103/µl resume RoActemra. |
 | < 50 | Discontinue RoActemra. The decision to discontinue RoActemra in pJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
 
 Reduction of tocilizumab dose due to laboratory abnormalities has not been studied in pJIA patients.
 
 Available data suggest that clinical improvement is observed within 12 weeks of initiation of treatment with RoActemra.
 Continued therapy should be carefully reconsidered in a patient exhibiting no improvement within this timeframe.
-
 Elderly
 No dose adjustment is required in elderly patients >65 years of age.
 
@@ -148,17 +162,19 @@ Therefore, no dose recommendations can be made.
 
 Method of administration
 
-After dilution, RoActemra for RA, sJIA, pJIA, and CRS patients should be administered as an intravenous infusion over 1 hour.
+After dilution, RoActemra for RA, sJIA, pJIA, CRS, and COVID-19 patients should be administered as an intravenous infusion over 1 hour.
 
-RA, sJIA, pJIA and CRS Patients ≥ 30 kg
+RA, sJIA, pJIA, CRS and COVID-19 Patients ≥ 30 kg
 RoActemra should be diluted to a final volume of 100 mL with sterile, non-pyrogenic sodium chloride 9 mg/mL (0.9%) solution for injection using aseptic technique.
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.
 
-sJIA,pJIA and CRS Patients < 30 kg
+sJIA, pJIA and CRS Patients < 30 kg
 RoActemra should be diluted to a final volume of 50 mL with sterile, non-pyrogenic sodium chloride 9 mg/mL (0.9%) solution for injection using aseptic technique.
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.
+
+If signs and symptoms of an infusion related reaction occur, slow or stop the infusion and administer appropriate medication/ supportive care immediately, see section 4.4.
 
 [RoActemra 162 mg solution for injection in pre-filled syringe.]
 
@@ -186,7 +202,6 @@ RoActemra can be used alone following discontinuation of glucocorticoids.
 RoActemra monotherapy should not be used for the treatment of acute relapses (see 4.4).
 
 Based upon the chronic nature of GCA, treatment beyond 52 weeks should be guided by disease activity, physician discretion, and patient choice.
-
 RA and GCA
 
 | Laboratory Value | Action |
@@ -231,25 +246,24 @@ As there are many co-morbid conditions that may effect laboratory values in sJIA
 
 | Laboratory Value | Action |
 | --- | --- |
-| > 1 to 3 x ULN | Modify the dose of the concomitant MTX if appropriate For persistent increases in this range, interrupt RoActemra until ALT/AST have normalized. |
-| > 3 x ULN to 5x ULN | Modify the dose of the concomitant MTX if appropriate Interrupt RoActemra dosing until < 3x ULN and follow recommendations above for >1 to 3x ULN |
+| > 1 to 3 x ULN | Modify the dose of the concomitant MTX if appropriate. For persistent increases in this range, interrupt RoActemra until ALT/AST have normalized. |
+| > 3 x ULN to 5x ULN | Modify the dose of the concomitant MTX if appropriate. Interrupt RoActemra dosing until < 3x ULN and follow recommendations above for >1 to 3x ULN. |
 | > 5x ULN | Discontinue RoActemra. The decision to discontinue RoActemra in sJIA or pJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
 
 | Laboratory Value (cells x 109/ L ) | Action |
 | --- | --- |
-| ANC > 1 | Maintain dose |
-| ANC 0.5 to 1 | Interrupt RoActemra dosing When ANC increases to > 1 x 109/ L resume RoActemra |
-| ANC < 0.5 | Discontinue RoActemra The decision to discontinue RoActemra in sJIA or pJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
+| ANC > 1 | Maintain dose. |
+| ANC 0.5 to 1 | Interrupt RoActemra dosing. When ANC increases to > 1 x 109/ L resume RoActemra. |
+| ANC < 0.5 | Discontinue RoActemra. The decision to discontinue RoActemra in sJIA or pJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
 
 | Laboratory Value (cells x 103/µL) | Action |
 | --- | --- |
-| 50 to 100 | Modify the dose of the concomitant MTX if appropriate Interrupt RoActemra dosing When platelet count is > 100 x 103/µl resume RoActemra |
+| 50 to 100 | Modify the dose of the concomitant MTX if appropriate. Interrupt RoActemra dosing. When platelet count is > 100 x 103/µl resume RoActemra. |
 | < 50 | Discontinue RoActemra. The decision to discontinue RoActemra in sJIA or pJIA for a laboratory abnormality should be based on the medical assessment of the individual patient. |
 
 Reduction of tocilizumab dosing frequency due to laboratory abnormalities has not been studied in sJIA or pJIA patients.
 
 The safety and efficacy of RoActemra subcutaneous formulation in children with conditions other than sJIA or pJIA have not been established.
-
 Available data with the IV formulation suggest that clinical improvement is observed within 12 weeks of initiation of treatment with RoActemra.
 
 If a sJIA patient misses a subcutaneous weekly injection of RoActemra within 7 days of the scheduled dose, he/she should be instructed to take the missed dose on the next scheduled day.

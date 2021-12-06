@@ -1,8 +1,15 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-The most commonly reported ADRs (occurring in ≥ 5% of patients treated with tocilizumab monotherapy or in combination with DMARDs) were upper respiratory tract infections, nasopharyngitis, headache, hypertension and increased ALT.
+The most commonly reported ADRs (occurring in ≥ 5% of patients treated with tocilizumab monotherapy or in combination with DMARDs for RA, sJIA, pJIA and CRS) were upper respiratory tract infections, nasopharyngitis, headache, hypertension and increased ALT.
+
 The most serious ADRs were serious infections, complications of diverticulitis, and hypersensitivity reactions.
+
+The most commonly reported ADRs (occurring in ≥ 5% of patients treated with tocilizumab for COVID-19) were hepatic transaminases increased, constipation, and urinary tract infection.
+
+ADRs from clinical trials and/or post marketing experience with RoActemra based on spontaneous case reports, literature cases and cases from non-interventional study programs are listed in Table 1 and in Table 2 by MedDRA system organ class.
+The corresponding frequency category for each ADR is based on the following convention: very common (≥ 1/10); common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (>1/10,000 to <1/1,000) or very rare (<1/10,000).
+Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 RA Patients
 The safety profile of tocilizumab has been studied in 4 placebo-controlled studies (studies II, III, IV and V), 1 MTX-controlled study (study I) and their extension periods (see section 5.1).
@@ -13,9 +20,6 @@ In the double-blind controlled studies, 774 patients received tocilizumab 4 mg/k
 The long-term exposure population includes all patients who received at least one dose of tocilizumab either in the double-blind control period or open label extension phase in the studies.
 Of the 4009 patients in this population, 3577 received treatment for at least 6 months, 3296 for at least one year, 2806 received treatment for at least 2 years and 1222 for 3 years.
 
-ADRs from clinical trials and/or post marketing experience with RoActemra based on spontaneous case reports, literature cases and cases from non-interventional study programs are listed in Table 1 and are presented by MedDRA system organ class.
-The corresponding frequency category for each ADR is based on the following convention: very common (≥ 1/10); common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (>1/10,000 to <1/1,000) or very rare (<1/10,000).
-Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 Table 1.
 List of ADRs occurring in patients with RA receiving tocilizumab as monotherapy or in combination with MTX or other DMARDs in the double-blind controlled period or during postmarketing experience
 
@@ -23,32 +27,60 @@ List of ADRs occurring in patients with RA receiving tocilizumab as monotherapy 
 | --- | --- | --- | --- | --- |
 |  | Very Common | Common | Uncommon | Rare |
 | Infections and infestations | Upper respiratory tract infections | Cellulitis, Pneumonia, Oral herpes simplex, Herpes zoster | Diverticulitis |  |
-| Gastrointestinal disorders |  | Abdominal pain, Mouth ulceration, Gastritis | Stomatitis, Gastric ulcer |  |
-| Skin and subcutaneous tissue disorders |  | Rash, Pruritus, Urticaria |  | Stevens-Johnson-Syndrome3 |
-| Nervous system disorders |  | Headache, Dizziness |  |  |
-| Investigations |  | Hepatic transaminases increased, Weight increased, Total bilirubin increased* |  |  |
-| Vascular disorders |  | Hypertension |  |  |
-| Blood and lymphatic system disorders |  | Leukopenia, Neutropenia, Hypofibrinogenaem ia |  |  |
+| Blood and lymphatic system disorders |  | Leukopenia, Neutropenia, Hypofibrinogenae mia |  |  |
 | Immune system disorders |  |  |  | Anaphylaxis (fatal)1, 2 ,3 |
-| Metabolism and nutrition disorders | Hypercholesterolae mia* |  | Hypertriglyceridae mia |  |
-| General disorders and administration site conditions |  | Peripheral oedema, Hypersensitivity reactions |  |  |
-| Eye disorders |  | Conjunctivitis |  |  |
-| Respiratory, thoracic and mediastinal disorders |  | Cough, Dyspnoea |  |  |
-| Renal disorders |  |  | Nephrolithiasis |  |
 | Endocrine disorders |  |  | Hypothyroidism |  |
-| Hepatobiliary disorders |  |  |  | Drug-induced liver injury, Hepatitis, Jaundice, Very rare: Hepatic failure |
+| Metabolism and nutrition disorders | Hypercholesterola emia* |  | Hypertriglyceridae mia |  |
+
+MedDRA Frequency categories with preferred terms
+System Organ Very Common Common Uncommon Rare
+Class
+Nervous system Headache,
+disorders Dizziness
+Eye disorders Conjunctivitis
+Vascular Hypertension
+disorders
+Respiratory, Cough, Dyspnoea
+thoracic and
+mediastinal
+disorders
+Gastrointestinal Abdominal pain, Stomatitis, Gastric
+disorders Mouth ulceration, ulcer
+Gastritis
+Hepatobiliary Drug-induced liver
+disorders injury, Hepatitis,
+Jaundice,
+Very rare: Hepatic
+failure
+Skin and Rash, Pruritus, Stevens-Johnson-
+subcutaneous Urticaria Syndrome3
+tissue disorders
+Renal and Nephrolithiasis
+urniary
+disorders
+General Peripheral
+disorders and oedema,
+administration Hypersensitivity
+site conditions reactions
+Investigations Hepatic
+transaminases
+increased, Weight
+increased, Total
+bilirubin
+increased*
 
 * Includes elevations collected as part of routine laboratory monitoring (see text below)
 1 See section 4.3
 2 See section 4.4
 3 This adverse reaction was identified through post marketing surveillance but not observed in controlled clinical trials.
 The frequency category was estimated as the upper limit of the 95% confidence interval calculated on the basis of the total number of patients exposed to TCZ in clinical trials.
+
 Infections
 In the 6-month controlled studies the rate of all infections reported with tocilizumab 8 mg/kg plus DMARD treatment was 127 events per 100 patient years compared to 112 events per 100 patient years in the placebo plus DMARD group.
 In the long-term exposure population, the overall rate of infections with RoActemra was 108 events per 100 patient years exposure.
 
 In 6-month controlled clinical studies, the rate of serious infections with tocilizumab 8 mg/kg plus DMARDs was 5.3 events per 100 patient years exposure compared to 3.9 events per 100 patient years exposure in the placebo plus DMARD group.
-In the monotherapy study the rate of serious infections was 3.6 events per 100 patient years of exposure in the tocilizumab group and 1.5 events per 100 patient years of exposure in the MTX group.
+In the monotherapy study, the rate of serious infections was 3.6 events per 100 patient years of exposure in the tocilizumab group and 1.5 events per 100 patient years of exposure in the MTX group.
 
 In the long-term exposure population, the overall rate of serious infections (bacterial, viral and fungal) was 4.7 events per 100 patient years.
 Reported serious infections, some with fatal outcome, included active tuberculosis, which may present with intrapulmonary or extrapulmonary disease, invasive pulmonary infections, including candidiasis, aspergillosis, coccidioidomycosis and pneumocystis jirovecii, pneumonia, cellulitis, herpes zoster, gastroenteritis, diverticulitis, sepsis and bacterial arthritis.
@@ -59,11 +91,11 @@ Impaired lung function may increase the risk for developing infections.
 There have been postmarketing reports of interstitial lung disease (including pneumonitis and pulmonary fibrosis), some of which had fatal outcomes.
 
 Gastrointestinal Perforation
-During the 6-month controlled clinical trials, the overall rate of gastrointestinal perforation was 0.26 events per 100 patient years with tocilizumab therapy.
+During the 6-month controlled clinical trials, the overall rate of gastrointestinal perforation, was 0.26 events per 100 patient years with tocilizumab therapy.
 In the long-term exposure population the overall rate of gastrointestinal perforation was 0.28 events per 100 patient years.
 Reports of gastrointestinal perforation on tocilizumab were primarily reported as complications of diverticulitis including generalised purulent peritonitis, lower gastrointestinal perforation, fistulae and abscess.
 
-Infusion reactions
+Infusion Related Reactions
 In the 6-month controlled trials adverse events associated with infusion (selected events occurring during or within 24 hours of infusion) were reported by 6.9% of patients in the tocilizumab 8 mg/kg plus DMARD group and 5.1% of patients in the placebo plus DMARD group.
 Events reported during the infusion were primarily episodes of hypertension; events reported within 24 hours of finishing an infusion were headache and skin reactions (rash, urticaria).
 These events were not treatment limiting.
@@ -90,7 +122,6 @@ During the double-blind controlled period and with long-term exposure, the patte
 Platelets
 In the 6-month controlled trials decreases in platelet counts below 100 x 103/ μL occurred in 1.7% of patients on tocilizumab 8 mg/kg plus DMARDs compared to < 1% on placebo plus DMARDs.
 These decreases occurred without associated bleeding events.
-
 During the double-blind controlled period and with long-term exposure, the pattern and incidence of decreases in platelet counts remained consistent with what was seen in the 6-month controlled clinical trials.
 
 Very rare reports of pancytopenia have occurred in the post marketing setting.
@@ -117,37 +148,65 @@ Long-term safety evaluations are ongoing.
 
 Skin Reactions
 Rare reports of Stevens-Johnson Syndrome have occurred in the post marketing setting.
+
+Patients with COVID-19
+The safety evaluation of RoActemra in COVID-19 was based on 3 randomized, double-blind, placebo controlled trials (studies ML42528, WA42380, and WA42511).
+A total of 974 patients were exposed to RoActemra in these studies.
+Collection of safety data from RECOVERY was limited and is not presented here.
+
+The following adverse reactions, listed by MedDRA system organ class in Table 2, have been adjudicated from events which occurred in at least 3% of RoActemra treated patients and more commonly than that in patients on placebo in the pooled safety-evaluable population from clinical studies ML42528, WA42380, and WA42511.
+Table 2: List of Adverse Reactions1 Identified From the Pooled Safety-Evaluable Population From RoActemra Clinical Studies in COVID-19 patients2
+
+| MedDRA System Organ Class | Very Common | Common |
+| --- | --- | --- |
+| Infections and infestations |  | Urinary tract infection |
+| Metabolism and nutrition disorders |  | Hypokalaemia |
+| Psychiatric disorders |  | Anxiety, Insomnia |
+| Vascular disorders |  | Hypertension |
+| Gastrointestinal disorders |  | Constipation, Diarrhoea, Nausea |
+| Hepatobiliary disorders |  | Hepatic transaminases increased |
+
+1 Patients are counted once for each category regardless of the number of reactions
+2 Includes adjudicated reactions reported in studies WA42511, WA42380 and ML42528
+
+Description of selected adverse drug reactions
+
+Infections
+In the pooled safety-evaluable population from studies ML42528, WA42380, and WA42511, the rates of infection/serious infection events were balanced between COVID-19 patients receiving tocilizumab (30.3%/18.6%, n=974) versus placebo (32.1%/22.8%, n=483).
+
+The safety profile observed in the baseline systemic corticosteroids treatment group was consistent with the safety profile of tocilizumab from the overall population presented in Table 2.
+In this subgroup, infections and serious infections occurred in 27.8% and 18.1% of patients treated with IV tocilizumab and in 30.5% and 22.9% of patients treated with placebo, respectively.
+
+Laboratory Abnormalities
+The incidence of laboratory abnormalities was generally similar between patients with COVID-19 who received one or two doses of RoActemra-IV compared with those who received placebo in the randomized, double-blind, placebo controlled trials with few exceptions.
+Decreases in platelets and neutrophils and elevations of ALT and AST were more frequent among patients receiving RoActemra-IV versus placebo (see section 4.2 and 4.4).
+
 sJIA and pJIA Patients
 
-The safety profile of tocilizumab in the pediatric population is summarized in the sections on pJIA and sJIA below.
+The safety profile of tocilizumab in the paediatric population is summarized in the sections on pJIA and sJIA below.
 In general, the ADRs in pJIA and sJIA patients were similar in type to those seen in RA patients, see section 4.8.
 
-ADRs in the pJIA and sJIA patients treated with tocilizumab are listed in the Table 2 and presented by MedDRA system organ class.
+ADRs in the pJIA and sJIA patients treated with tocilizumab are listed in the Table3 and presented by MedDRA system organ class.
 The corresponding frequency category for each ADR is based on the following convention: very common (≥ 1/10); common (≥ 1/100 to < 1/10) or uncommon (≥ 1/1,000 to <1/100).
+Table 3: List of ADRs occurring in clinical trial patients with sJIA or pJIA receiving tocilizumab as monotherapy or in combination with MTX.
 
-Table 2: List of ADRs occurring in clinical trial patients with sJIA or pJIA receiving tocilizumab as monotherapy or in combination with MTX.
-
-MedDRA SOC Preferrred term (PT) Frequency
-Infections and Infestations Very Common Common Uncommon
-Upper Respiratory pJIA, sJIA
-Tract Infections
-Nasopharyngitis pJIA, sJIA
-Gastrointestinal Disorders
-Nausea pJIA
-Diarrhea pJIA, sJIA
-General disorders and administration site
-conditions
-Infusion related pJIA1, sJIA2
-reactions
-Nervous system disorders
-Headache pJIA sJIA
-Investigations
-Hepatic transaminases pJIA
-increased
-Decrease in neutrophil sJIA pJIA
-count
-Platelet count decreased sJIA pJIA
-Cholesterol increased sJIA pJIA
+| MedDRA SOC | Preferrred term (PT) | Frequency |  |  |
+| --- | --- | --- | --- | --- |
+| Infections and Infestations |  | Very Common | Common | Uncommon |
+|  | Upper Respiratory Tract Infections | pJIA, sJIA |  |  |
+|  | Nasopharyngitis | pJIA, sJIA |  |  |
+| Nervous system disorders |  |  |  |  |
+|  | Headache | pJIA | sJIA |  |
+| Gastrointestinal Disorders |  |  |  |  |
+|  | Nausea |  | pJIA |  |
+|  | Diarrhea |  | pJIA, sJIA |  |
+| General disorders and administration site conditions |  |  |  |  |
+|  | Infusion related reactions |  | pJIA1, sJIA2 |  |
+| Investigations |  |  |  |  |
+|  | Hepatic transaminases increased |  | pJIA |  |
+|  | Decrease in neutrophil count | sJIA | pJIA |  |
+|  | Platelet count decreased |  | sJIA | pJIA |
+|  | Cholesterol increased |  | sJIA | pJIA |
 
 1.
 Infusion related reaction events in pJIA patients included but were not limited to headache, nausea and hypotension 2.
@@ -156,7 +215,7 @@ Infusion related reaction events in sJIA patients included but were not limited 
 pJIA Patients
 The safety profile of intravenous RoActemra in pJIA has been studied in 188 patients from 2 to 17 years of age.
 The total patient exposure was 184.4 patient years.
-The frequency of ADRs in pJIA patients can be found in Table 2.
+The frequency of ADRs in pJIA patients can be found in Table 3.
 The types of ADRs in pJIA patients were similar to those seen in RA and sJIA patients, see section 4.8.
 When compared to the adult RA population, events of nasopharyngitis, headache, nausea, and decreased neutrophil count were more frequently reported in the pJIA population.
 Events of cholesterol increased were less frequently reported in the pJIA population than in the adult RA population.
@@ -166,9 +225,9 @@ The rate of infections in the tocilizumab all exposure population was 163.7 per 
 The most common events observed were nasopharyngitis and upper respiratory tract infections.
 The rate of serious infections was numerically higher in patients weighing <30 kg treated with 10 mg/kg tocilizumab (12.2 per 100 patient years) compared to patients weighing ≥30 kg, treated with 8 mg/kg tocilizumab (4.0 per 100 patient years).
 The incidence of infections leading to dose interruptions was also numerically higher in patients weighing <30 kg treated with 10 mg/kg tocilizumab (21.4%) compared to patients weighing ≥30 kg, treated with 8 mg/kg tocilizumab (7.6%).
-Infusion Reactions
+Infusion Related Reactions
 In pJIA patients, infusion related reactions are defined as all events occurring during or within 24 hours of an infusion.
-In the tocilizumab all exposure population, 11 patients (5.9%) experienced infusion reactions during the infusion and 38 patients (20.2%) experienced an event within 24 hours of an infusion.
+In the tocilizumab all exposure population, 11 patients (5.9%) experienced infusion related reactions during the infusion and 38 patients (20.2%) experienced an event within 24 hours of an infusion.
 The most common events occurring during infusion were headache, nausea and hypotension and within 24 hours of infusion were dizziness and hypotension.
 In general, the adverse drug reactions observed during or within 24 hours of an infusion were similar in nature to those seen in RA and sJIA patients, see section 4.8.
 
@@ -195,7 +254,7 @@ In the 12 week double-blind, controlled phase, 75 patients received treatment wi
 After 12 weeks or at the time of switching to RoActemra, due to disease worsening, patients were treated in the open label extension phase.
 
 In general, the ADRs in sJIA patients were similar in type to those seen in RA patients, see section 4.8.
-The frequency of ADRs in sJIA patients can be found in Table 2.
+The frequency of ADRs in sJIA patients can be found in Table 3.
 When compared to the adult RA population, patients with sJIA experienced a higher frequency of nasopharyngitis, decrease in neutrophil counts, hepatic transaminases increased, and diarrhea.
 Events of cholesterol increased were less frequently reported in the sJIA population than in the adult RA population.
 
@@ -206,7 +265,7 @@ In the open label extension phase (Part II), the overall rate of infections rema
 In the 12 week controlled phase, the rate of serious infections in the intravenous RoActemra group was 11.5 per 100 patient years.
 At one year in the open label extension phase the overall rate of serious infections remained stable at 11.3 per 100 patient years.
 Reported serious infections were similar to those seen in RA patients with the addition of varicella and otitis media.
-Infusion Reactions
+Infusion Related Reactions
 Infusion related reactions are defined as all events occurring during or within 24 hours of an infusion.
 In the 12 week controlled phase, 4% of patients from the tocilizumab group experienced events occurring during infusion.
 One event (angioedema) was considered serious and life-threatening, and the patient was discontinued from study treatment.
@@ -223,9 +282,9 @@ Two patients developed positive anti-tocilizumab antibodies with one of these pa
 The incidence of anti-tocilizumab antibody formation might be underestimated because of interference of tocilizumab with the assay and higher drug concentration observed in children compared to adults.
 
 Neutrophils
-During routine laboratory monitoring in the 12 week controlled phase, a decrease in neutrophil counts below 1 x 109/l occurred in 7% of patients in the tocilizumab group, and no decreases in the placebo group.
+During routine laboratory monitoring in the 12 week controlled phase, a decrease in neutrophil counts below 1 x 109/L occurred in 7% of patients in the tocilizumab group, and no decreases in the placebo group.
 
-In the open label extension phase, decreases in neutrophil counts below 1 x 109/l, occurred in 15% of the tocilizumab group.
+In the open label extension phase, decreases in neutrophil counts below 1 x 109/L, occurred in 15% of the tocilizumab group.
 
 Platelets
 During routine laboratory monitoring in the 12 week controlled phase, 3% of patients in the placebo group and 1% in the tocilizumab group had a decrease in platelet count to ≤ 100 x 103/µl.
@@ -259,32 +318,34 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 The safety profile comes from 4510 patients exposed to RoActemra in clinical trials; the majority of these patients were participating in adult RA studies (n=4009), while the remaining experience comes from GCA (n=149), pJIA (n=240) and sJIA (n=112) studies.
 The safety profile of RoActemra across these indications remains similar and undifferentiated.
+
 The most commonly reported Adverse Drug Reactions (ADRs) were upper respiratory tract infections, nasopharyngitis, headache, hypertension and increased ALT.
 
 Tabulated list of adverse reactions
+ADRs from clinical trials and/or post marketing experience with RoActemra based on spontaneous case reports, literature cases and cases from non-interventional study programs are listed in Table 1 and are presented by MedDRA system organ class.
 The corresponding frequency category for each AR is based on the following convention: very common (≥ 1/10); common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100) rare, (≥1/10,000 to <1/1,000) or very rare (<1/10,000).
-
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 List of ADRs occurring in patients treated with RoActemra.
 
 | MedDRA System Organ Class | Frequency categories with preferred terms |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Very Common | Common | Uncommon | Rare |
-| Blood and lymphatic system disorders |  | Leukopenia, Neutropenia, Hypofibrinogenae mia |  |  |
-| Endocrine disorders |  |  | Hypothyroidism |  |
-| Eye disorders |  | Conjunctivitis |  |  |
-| Gastrointestinal disorders |  | Abdominal pain, Mouth ulceration, Gastritis | Stomatitis, Gastric ulcer |  |
-| General disorders and administration site conditions | Injection site reaction | Peripheral oedema Hypersensitivity reaction, |  |  |
-| Hepatobiliary disorders |  |  |  | Drug-induced liver injury, Hepatitis, Jaundice, Very rare: Hepatic failure |
-| Immune system disorders |  |  |  | A2 ,3n aphylaxis (fatal)1, |
 | Infections and infestations | Upper respiratory tract infections | Cellulitis, Pneumonia, Oral herpes simplex, Herpes zoster | Diverticulitis |  |
-| Investigations |  | Hepatic transaminases increased, Weight increased, Total bilirubin increased* |  |  |
-| Metabolism and nutrition disorders | Hypercholesterolae mia* |  | Hypertriglyceridae mia |  |
+| Blood and lymphatic system disorders |  | Leukopenia, Neutropenia, Hypofibrinogenae mia |  |  |
+| Immune system disorders |  |  |  | Anaphylaxis (fatal)1, 2 ,3 |
+| Endocrine disorders |  |  | Hypothyroidism |  |
+| Metabolism and nutrition disorders | Hypercholesterola emia* |  | Hypertriglyceridae mia |  |
 | Nervous system disorders |  | Headache, Dizziness |  |  |
-| Renal and urinary disorders |  |  | Nephrolithiasis |  |
-|  | Very Common | Common | Uncommon | Rare |
-| Respiratory, thoracic and mediastinal disorders |  | Cough, Dyspnoea |  |  |
-| Skin and subcutaneous tissue disorders |  | Rash, Pruritus, Urticaria |  | Stevens-Johnson-Syndrome3 |
+| Eye disorders |  | Conjunctivitis |  |  |
 | Vascular disorders |  | Hypertension |  |  |
+| Respiratory, thoracic and mediastinal disorders |  | Cough, Dyspnoea |  |  |
+| Gastrointestinal disorders |  | Abdominal pain, Mouth ulceration, Gastritis | Stomatitis, Gastric ulcer |  |
+| Hepatobiliary disorders |  |  |  | Drug-induced liver injury, Hepatitis, Jaundice, Very rare: Hepatic failure |
+| Skin and subcutaneous tissue disorders |  | Rash, Pruritus, Urticaria |  | Stevens-Johnson-Syndrome3 |
+| Renal and urinary disorders |  |  | Nephrolithiasis |  |
+| General disorders and administration site conditions | Injection site reaction | Peripheral oedema Hypersensitivity reaction, |  |  |
+|  | Very Common | Common | Uncommon | Rare |
+| Investigations |  | Hepatic transaminases increased, Weight increased, Total bilirubin increased* |  |  |
 
 Subcutaneous use
 RA
@@ -332,7 +393,6 @@ The majority of ISRs reported were Grade 1 events and all ISRs reported were non
 In the SC Study (WA28118), 46 of the 51 (90.2%) patients tested for anti-tocilizumab antibodies at baseline had at least one post-baseline screening assay result.
 No patient developed positive anti-tocilizumab antibodies post baseline.
 
-Laboratory Abnormalities
 In the 52-week open-label SC Study (WA28118), neutrophil count decrease to below 1 × 109/L occurred in 23.5% of patients treated with RoActemra SC.
 Decreases in platelet counts to below 100 × 103/μL occurred in 2% of the patients treated with RoActemra SC.
 An elevation in ALT or AST to ≥3 x ULN occurred in 9.8% and 4.0% patients treated with RoActemra SC, respectively.
@@ -438,21 +498,22 @@ The corresponding frequency category is based on the following convention: very 
 | MedDRA System Organ Class | Frequency category with preferred term |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Very Common | Common | Uncommon | Rare |
-| Blood and lymphatic system disorders |  | Leukopenia, Neutropenia, Hypofibrinogenae mia |  |  |
-| Endocrine disorders |  |  | Hypothyroidism |  |
-| Eye disorders |  | Conjunctivitis |  |  |
-| Gastrointestinal disorders |  | Abdominal pain, Mouth ulceration, Gastritis | Stomatitis, Gastric ulcer |  |
-| General disorders and administration site conditions | Injection site reaction | Peripheral oedema Hypersensitivity reaction, |  |  |
-| Hepatobiliary disorders |  |  |  | Drug-induced liver injury, Hepatitis, Jaundice, Very rare: Hepatic failure |
-| Immune system disorders |  |  |  | A2 ,3n aphylaxis (fatal)1, |
 | Infections and infestations | Upper respiratory tract infections | Cellulitis, Pneumonia, Oral herpes simplex, Herpes zoster | Diverticulitis |  |
-| Investigations |  | Hepatic transaminases increased, Weight increased, Total bilirubin increased* |  |  |
-| Metabolism and nutrition disorders | Hypercholesterolae mia* |  | Hypertriglyceridae mia |  |
+| Blood and lymphatic system disorders |  | Leukopenia, Neutropenia, Hypofibrinogenae mia |  |  |
+| Immune system disorders |  |  |  | Anaphylaxis (fatal)1, 2 ,3 |
+|  | Very Common | Common | Uncommon | Rare |
+| Endocrine disorders |  |  | Hypothyroidism |  |
+| Metabolism and nutrition disorders | Hypercholesterola emia* |  | Hypertriglyceridae mia |  |
 | Nervous system disorders |  | Headache, Dizziness |  |  |
-| Renal and urinary disorders |  |  | Nephrolithiasis |  |
-| Respiratory, thoracic and mediastinal disorders |  | Cough, Dyspnoea |  |  |
-| Skin and subcutaneous tissue disorders |  | Rash, Pruritus, Urticaria |  | Stevens-Johnson-Syndrome3 |
+| Eye disorders |  | Conjunctivitis |  |  |
 | Vascular disorders |  | Hypertension |  |  |
+| Respiratory, thoracic and mediastinal disorders |  | Cough, Dyspnoea |  |  |
+| Gastrointestinal disorders |  | Abdominal pain, Mouth ulceration, Gastritis | Stomatitis, Gastric ulcer |  |
+| Hepatobiliary disorders |  |  |  | Drug-induced liver injury, Hepatitis, Jaundice, Very rare: Hepatic failure |
+| Skin and subcutaneous tissue disorders |  | Rash, Pruritus, Urticaria |  | Stevens-Johnson-Syndrome3 |
+| Renal and urinary disorders |  |  | Nephrolithiasis |  |
+| General disorders and administration site conditions | Injection site reaction | Peripheral oedema Hypersensitivity reaction, |  |  |
+| Investigations |  | Hepatic transaminases increased, Weight increased, Total bilirubin increased* |  |  |
 
 SC-I was a non-inferiority study that compared the efficacy and safety of RoActemra162 mg administered every week versus 8 mg/kg intravenous in 1262 patients with RA.
 

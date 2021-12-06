@@ -5,12 +5,11 @@ Parenteral medicinal products should be inspected visually for particulate matte
 Only solutions which are clear to opalescent, colourless to pale yellow and free of visible particles should be diluted.
 Use a sterile needle and syringe to prepare RoActemra.
 
-RA and CRS Patients (≥ 30 kg)
+RA, CRS Patients (≥ 30 kg) and COVID-19
 Withdraw a volume of sterile, non-pyrogenic sodium chloride 9 mg/mL (0.9%) solution for injection from a 100 mL infusion bag, equal to the volume of RoActemra concentrate required for the patients dose, under aseptic conditions.
 The required amount of RoActemra concentrate (0.4 mL/kg) should be withdrawn from the vial and placed in the 100 mL infusion bag.
 This should be a final volume of 100 mL.
 To mix the solution, gently invert the infusion bag to avoid foaming.
-
 Use in the paediatric population
 
 sJIA, pJIA and CRS Patients ≥ 30 kg

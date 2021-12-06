@@ -1,6 +1,7 @@
 # 5.3 Preclinical safety data
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity and genotoxicity.
+
 Carcinogenicity studies were not performed because IgG1 monoclonal antibodies are not deemed to have intrinsic carcinogenic potential.
 
 Available non-clinical data demonstrated the effect of IL-6 on malignant progression and apoptosis resistance to various cancer types.

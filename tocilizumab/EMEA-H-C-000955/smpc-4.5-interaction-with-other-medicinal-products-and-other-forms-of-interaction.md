@@ -1,8 +1,8 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Interaction studies have only been performed in adults.
-
 Concomitant administration of a single dose of 10 mg/kg tocilizumab with 10-25 mg MTX once weekly had no clinically significant effect on MTX exposure.
+
 Population pharmacokinetic analyses did not detect any effect of MTX, non-steroidal anti-inflammatory drugs (NSAIDs) or corticosteroids on tocilizumab clearance.
 
 The expression of hepatic CYP450 enzymes is suppressed by cytokines, such as IL-6, that stimulate chronic inflammation.
@@ -24,6 +24,7 @@ Population pharmacokinetic analyses did not detect any effect of MTX, non-steroi
 In GCA patients, no effect of cumulative corticosteroid dose on RoActemra exposure was observed.
 
 Thus, CYP450 expression may be reversed when potent cytokine inhibitory therapy, such as RoActemra, is introduced.
+
 In vitro studies with cultured human hepatocytes demonstrated that IL-6 caused a reduction in CYP1A2, CYP2C9, CYP2C19, and CYP3A4 enzyme expression.
 RoActemra normalises expression of these enzymes.
 

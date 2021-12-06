@@ -9,9 +9,8 @@ IL-6 is a pleiotropic pro-inflammatory cytokine produced by a variety of cell ty
 IL-6 is involved in diverse physiological processes such as T-cell activation, induction of immunoglobulin secretion, induction of hepatic acute phase protein synthesis and stimulation of haemopoiesis.
 IL-6 has been implicated in the pathogenesis of diseases including inflammatory diseases, osteoporosis and neoplasia.
 
-RA Patients
 Pharmacodynamic effects
-In clinical studies with tocilizumab, rapid decreases in CRP, erythrocyte sedimentation rate (ESR), serum amyloid A (SAA) and fibrinogen were observed.
+In clinical studies with RA patients treated with tocilizumab, rapid decreases in CRP, erythrocyte sedimentation rate (ESR), serum amyloid A (SAA) and fibrinogen were observed.
 Consistent with the effect on acute phase reactants, treatment with tocilizumab was associated with reduction in platelet count within the normal range.
 Increases in haemoglobin levels were observed, through tocilizumab decreasing the IL-6 driven effects on hepcidin production to increase iron availability.
 In tocilizumab-treated patients, decreases in the levels of CRP to within normal ranges were seen as early as week 2, with decreases maintained while on treatment.
@@ -19,6 +18,10 @@ In tocilizumab-treated patients, decreases in the levels of CRP to within normal
 In healthy subjects administered tocilizumab in doses from 2 to 28 mg/kg, absolute neutrophil counts decreased to their lowest 3 to 5 days following administration.
 Thereafter, neutrophils recovered towards baseline in a dose dependent manner.
 Rheumatoid arthritis patients demonstrated a similar pattern of absolute neutrophil counts following tocilizumab administration (see section 4.8).
+In COVID-19 patients with one dose of tocilizumab 8 mg/kg administered intravenously, decreases in the levels of CRP to within normal ranges were seen as early as Day 7.
+
+RA Patients
+
 Clinical efficacy and safety
 The efficacy of tocilizumab in alleviating the signs and symptoms of RA was assessed in five randomised, double-blind, multi-centre studies.
 Studies I-V enrolled patients ≥ 18 years of age with active RA diagnosed according to the American College of Rheumatology (ACR) criteria and who had at least eight tender and six swollen joints at baseline.
@@ -51,7 +54,7 @@ The TNF antagonist therapy was discontinued prior to randomisation.
 Doses of 4 or 8 mg/kg tocilizumab or placebo were given every four weeks in combination with stable MTX (10 mg to 25 mg weekly).
 
 Clinical response
-In all studies, patients treated with tocilizumab 8 mg/kg had statistically significant higher ACR 20, 50, 70 response rates at 6 months compared to control (Table 3).
+In all studies, patients treated with tocilizumab 8 mg/kg had statistically significant higher ACR 20, 50, 70 response rates at 6 months compared to control (Table 4).
 In study I, superiority of tocilizumab 8 mg/kg was demonstrated against the active comparator MTX.
 
 The treatment effect was similar in patients independent of rheumatoid factor status, age, gender, race, number of prior treatments or disease status.
@@ -59,6 +62,7 @@ Time to onset was rapid (as early as week 2) and the magnitude of response conti
 Continued durable responses were seen for over 3 years in the open label extension studies I-V.
 
 In patients treated with tocilizumab 8 mg/kg, significant improvements were noted on all individual components of the ACR response including: tender and swollen joint counts; patients and physician global assessment; disability index scores; pain assessment and CRP compared to patients receiving placebo plus MTX or other DMARDs in all studies.
+
 Patients in studies I – V had a mean Disease Activity Score (DAS28) of 6.5–6.8 at baseline.
 Significant reduction in DAS28 from baseline (mean improvement) of 3.1–3.4 were observed in tocilizumab-treated patients compared to control patients (1.3-2.1).
 The proportion of patients achieving a DAS28 clinical remission (DAS28 < 2.6) was significantly higher in patients receiving tocilizumab (28–34%) compared to 1–12% of control patients at 24 weeks.
@@ -67,22 +71,22 @@ In study II, 65% of patients achieved a DAS28 < 2.6 at week 104 compared to 48% 
 In a pooled analysis of studies II, III and IV, the proportion of patients achieving an ACR 20, 50 and 70 response was significantly higher (59% vs. 50%, 37% vs. 27%, 18% vs. 11%, respectively) in the tocilizumab 8 mg/kg plus DMARD vs. the tocilizumab 4 mg/kg plus DMARD group (p< 0.03).
 Similarly the proportion of patients achieving a DAS28 remission (DAS28 < 2.6) was significantly higher (31% vs. 16% respectively) in patients receiving tocilizumab 8 mg/kg plus DMARD than in patients receiving tocilizumab 4 mg/kg plus DMARD (p< 0.0001).
 
-Table 3.
+Table 4.
 ACR responses in placebo-/MTX-/DMARDs-controlled studies (% patients)
 
 |  | Study I AMBITION |  | Study II LITHE |  | Study III OPTION |  | Study IV TOWARD |  | Study V RADIATE |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Week | TCZ 8 mg/kg | MTX | TCZ 8 mg/kg + MTX | PBO + MTX | TCZ 8 mg/kg + MTX | PBO + MTX | TCZ 8 mg/kg + DMARD | PBO + DMARD | TCZ 8 mg/kg + MTX | PBO + MTX |
+| Week | TCZ 8 mg/k g | MT X | TCZ 8 mg/k g + MT X | PBO + MT X | TCZ 8 mg/k g + MT X | PBO + MT X | TCZ 8 mg/kg + DMAR D | PBO + DMAR D | TCZ 8 mg/k g + MT X | PBO + MTX |
 |  | N = 286 | N = 284 | N = 398 | N = 393 | N = 205 | N = 204 | N = 803 | N = 413 | N = 170 | N = 158 |
 | ACR 20 |  |  |  |  |  |  |  |  |  |  |
-| 24 | 70%** * | 52% | 56%** * | 27% | 59%** * | 26% | 61%*** | 24% | 50%*** | 10% |
+| 24 | 70%** * | 52% | 56%** * | 27% | 59%** * | 26% | 61%*** | 24% | 50%** * | 10% |
 | 52 |  |  | 56%** * | 25% |  |  |  |  |  |  |
 | ACR 50 |  |  |  |  |  |  |  |  |  |  |
-| 24 | 44%** | 33% | 32%*** | 10% | 44%** * | 11% | 38%*** | 9% | 29%** * | 4% |
-| 52 |  |  | 36%*** | 10% |  |  |  |  |  |  |
+| 24 | 44%** | 33% | 32%** * | 10% | 44%** * | 11% | 38%*** | 9% | 29%** * | 4% |
+| 52 |  |  | 36%** * | 10% |  |  |  |  |  |  |
 | ACR 70 |  |  |  |  |  |  |  |  |  |  |
-| 24 | 28%** | 15% | 13%*** | 2% | 22%** * | 2% | 21%*** | 3% | 12%** | 1% |
-| 52 |  |  | 20%*** | 4% |  |  |  |  |  |  |
+| 24 | 28%** | 15% | 13%** * | 2% | 22%** * | 2% | 21%*** | 3% | 12%** | 1% |
+| 52 |  |  | 20%** * | 4% |  |  |  |  |  |  |
 
 TCZ - Tocilizumab
 MTX - Methotrexate
@@ -98,11 +102,12 @@ After 2 years of treatment with tocilizumab plus MTX, 14% of patients achieved a
 
 Radiographic response
 In Study II, in patients with an inadequate response to MTX, inhibition of structural joint damage was assessed radiographically and expressed as change in modified Sharp score and its components, the erosion score and joint space narrowing score.
-Inhibition of joint structural damage was shown with significantly less radiographic progression in patients receiving tocilizumab compared to control (Table 4).
+Inhibition of joint structural damage was shown with significantly less radiographic progression in patients receiving tocilizumab compared to control (Table 5).
+
 In the open-label extension of Study II the inhibition of progression of structural joint damage in tocilizumab plus MTX-treated patients was maintained in the second year of treatment.
 The mean change from baseline at week 104 in total Sharp-Genant score was significantly lower for patients randomised to tocilizumab 8 mg/kg plus MTX (p<0.0001) compared with patients who were randomised to placebo plus MTX.
 
-Table 4.
+Table 5.
 Radiographic mean changes over 52 weeks in Study II
 
 |  | PBO + MTX (+ TCZ from week 24) N = 393 | TCZ 8 mg/kg + MTX N = 398 |
@@ -137,11 +142,12 @@ Tocilizumab versus adalimumab in monotherapy
 Study VI (WA19924), a 24 week double-blinded study that compared tocilizumab monotherapy with adalimumab monotherapy, evaluated 326 patients with RA who were intolerant of MTX or where continued treatment with MTX was considered inappropriate (including MTX inadequate responders).
 Patients in the tocilizumab arm received an intravenous (IV) infusion of tocilizumab (8 mg/kg) every 4 weeks (q4w) and a subcutaneous (SC) placebo injection every 2 weeks (q2w).
 Patients in the adalimumab arm received an adalimumab SC injection (40 mg) q2w plus an IV placebo infusion q4w.
-A statistically significant superior treatment effect was seen in favour of tocilizumab over adalimumab in control of disease activity from baseline to week 24 for the primary endpoint of change in DAS28 and for all secondary endpoints (Table 5).
-Table 5: Efficacy Results for Study VI (WA19924)
+A statistically significant superior treatment effect was seen in favour of tocilizumab over adalimumab in control of disease activity from baseline to week 24 for the primary endpoint of change in DAS28 and for all secondary endpoints (Table 6).
+Table 6: Efficacy Results for Study VI (WA19924)
 
-ADA + Placebo (IV) TCZ + Placebo (SC)
+ADA + Placebo TCZ + Placebo
 
+(IV) (SC)
 N = 162 N = 163 p-value(a)
 
 Primary Endpoint - Mean Change from baseline at Week 24
@@ -181,34 +187,78 @@ A significantly higher proportion of patients in the tocilizumab 8 mg/kg + MTX a
 The tocilizumab 8 mg/kg + MTX group also showed statistically significant results across the key secondary endpoints.
 Numerically greater responses compared with MTX alone were observed in the tocilizumab 8 mg/kg monotherapy group in all secondary endpoints, including radiographic endpoints.
 In this study, ACR/EULAR remission (Boolean and Index) were also analysed as pre-specified exploratory endpoints, with higher responses observed in the tocilizumab groups.
-The results from study VII are shown in Table 6.
-Table 6: Efficacy Results for Study VII (WA19926) on MTX-naïve, early RA patients
+The results from study VII are shown in Table 7.
+Table 7: Efficacy Results for Study VII (WA19926) on MTX-naïve, early RA patients
 
-| TCZ TCZ 8 mg/kg + TCZ 8 mg/kg + 4 mg/kg + Placebo + MTX placebo MTX MTX N=290 N=292 N=288 N=287 |  |
-| --- | --- |
-|  | Primary Endpoint |
-| DAS28 Remission Week 24 n (%) 130 (44.8)*** 113 (38.7)*** 92 (31.9) 43 (15.0) |  |
-|  | Key Secondary Endpoints |
-| DAS 28 remission Week 52 n (%), 142 (49.0)*** 115 (39.4) 98 (34.0) 56 (19.5) |  |
-| ACR Week 24 ACR20, n (%) 216 (74.5)* 205 (70.2) 212 (73.6) 187 (65.2) ACR50, n (%) 165 (56.9)** 139 (47.6) 138 (47.9) 124 (43.2) ACR70, n (%) 112 (38.6)** 88 (30.1) 100 (34.7) 73 (25.4) Week 52 ACR20, n (%) 195 (67.2)* 184 (63.0) 181 (62.8) 164 (57.1) ACR50, n (%) 162 (55.9)** 144 (49.3) 151 (52.4) 117 (40.8) ACR70, n (%) 125 (43.1)** 105 (36.0) 107 (37.2) 83 (28.9) |  |
-| HAQ-DI (adjusted mean change from baseline) Week 52 -0.81* -0.67 -0.75 -0.64 |  |
-|  | Radiographic Endpoints (mean change from baseline) |
-| Week 52 mTSS 0.08*** 0.26 0.42 1.14 Erosion Score 0.05** 0.15 0.25 0.63 JSN 0.03 0.11 0.17 0.51 Radiographic Non-Progression n (%) (change from 226 (83)‡ 226 (82)‡ 211 (79) 194 (73) baseline in mTSS of ≤0) |  |
-|  | Exploratory Endpoints |
-| Week 24: ACR/EULAR Boolean Remission, n (%) 47 (18.4) ‡ 38 (14.2) 43 (16.7) ‡ 25 (10.0) ACR/EULAR Index Remission, n (%) 73 (28.5) ‡ 60 (22.6) 58 (22.6) 41 (16.4) Week 52: ACR/EULAR Boolean Remission, n (%) 59 (25.7) ‡ 43 (18.7) 48 (21.1) 34 (15.5) ACR/EULAR Index Remission, n (%) 83 (36.1) ‡ 69 (30.0) 66 (29.3) 49 (22.4) |  |
+|  | TCZ 8 mg/kg + MTX N=290 | TCZ 8 mg/kg + placebo N=292 | TCZ 4 mg/kg + MTX N=288 | Placebo + MTX N=287 |
+| --- | --- | --- | --- | --- |
+| Primary Endpoint |  |  |  |  |
+| DAS28 Remission |  |  |  |  |
+| Week 24 n (%) | 130 (44.8)*** | 113 (38.7)*** | 92 (31.9) | 43 (15.0) |
+| Key Secondary Endpoints |  |  |  |  |
+| DAS 28 remission |  |  |  |  |
+| Week 52 n (%) | 142 (49.0)*** | 115 (39.4) | 98 (34.0) | 56 (19.5) |
+| ACR |  |  |  |  |
+| Week 24 ACR20, n (%) | 216 (74.5)* | 205 (70.2) | 212 (73.6) | 187 (65.2) |
+| ACR50, n (%) | 165 (56.9)** | 139 (47.6) | 138 (47.9) | 124 (43.2) |
+| ACR70, n (%) | 112 (38.6)** | 88 (30.1) | 100 (34.7) | 73 (25.4) |
+| Week 52 ACR20, n (%) | 195 (67.2)* | 184 (63.0) | 181 (62.8) | 164 (57.1) |
+| ACR50, n (%) | 162 (55.9)** | 144 (49.3) | 151 (52.4) | 117 (40.8) |
+| ACR70, n (%) | 125 (43.1)** | 105 (36.0) | 107 (37.2) | 83 (28.9) |
+| HAQ-DI (adjusted mean change from baseline) |  |  |  |  |
+| Week 52 | -0.81* | -0.67 | -0.75 | -0.64 |
+| Radiographic Endpoints (mean change from baseline) |  |  |  |  |
+| Week 52 mTSS | 0.08*** | 0.26 | 0.42 | 1.14 |
+| Erosion Score | 0.05** | 0.15 | 0.25 | 0.63 |
+| JSN | 0.03 | 0.11 | 0.17 | 0.51 |
+| Radiographic Non-Progression n (%) (change from baseline in mTSS of ≤0) | 226 (83)‡ | 226 (82)‡ | 211 (79) | 194 (73) |
+| Exploratory Endpoints |  |  |  |  |
+| Week 24: ACR/EULAR Boolean Remission, n (%) | 47 (18.4) ‡ | 38 (14.2) | 43 (16.7) ‡ | 25 (10.0) |
+| ACR/EULAR Index Remission, n (%) | 73 (28.5) ‡ | 60 (22.6) | 58 (22.6) | 41 (16.4) |
+| Week 52: ACR/EULAR Boolean Remission, n (%) | 59 (25.7) ‡ | 43 (18.7) | 48 (21.1) | 34 (15.5) |
+| ACR/EULAR Index Remission, n (%) | 83 (36.1) ‡ | 69 (30.0) | 66 (29.3) | 49 (22.4) |
 
 mTSS - modified Total Sharp Score
-
 JSN - Joint space narrowing
-
 All efficacy comparisons vs Placebo + MTX. ***p≤0.0001; **p<0.001; *p<0.05;
 ‡p-value < 0.05 vs. Placebo + MTX, but endpoint was exploratory (not included in the hierarchy of statistical testing and has therefore not been controlled for multiplicity)
+
+COVID-19
+
+Clinical Efficacy
+
+RECOVERY (Randomised Evaluation of COVID-19 Therapy) Collaborative Group Study in Hospitalized Adults Diagnosed with COVID-19
+
+RECOVERY was a large, randomized, controlled, open-label, multi-center platform study conducted in the United Kingdom to evaluate the efficacy and safety of potential treatments in hospitalized adult patients with severe COVID-19.
+All eligible patients received usual care and underwent an initial (main) randomization.
+Eligible patients for the trial had clinically suspected or laboratory-confirmed SARS-CoV-2 infection and no medical contraindications to any of the treatments.
+Patients with clinical evidence of progressive COVID-19 (defined as oxygen saturation <92% on room air or receiving oxygen therapy, and CRP ≥75 mg/L) qualified for a second randomization to receive either intravenous tocilizumab or usual care alone.
+
+Efficacy analyses were performed in the intent-to-treat (ITT) population comprising 4116 patients who were randomized with 2022 patients in the tocilizumab + usual care arm and 2094 patients in the usual care alone arm.
+The baseline demographic and disease characteristics of the ITT population were well balanced across treatment arms.
+The mean age of participants was 63.6 years (standard deviation [SD] 13.6 years).
+The majority of patients were male (67%) and White (76%).
+The median (range) level of CRP was 143 mg/L (75-982).
+
+At baseline, 0.2% (n=9) of patients were not on supplemental oxygen, 45% of patients required low flow oxygen, 41% of patients required non-invasive ventilation or high-flow oxygen and 14% of patients required invasive mechanical ventilation; 82% were reported receiving systemic corticosteroids (defined as patients who initiated treatment with systemic corticosteroids either prior to or at the time of randomization).
+The most common comorbidities were diabetes (28.4%), heart disease (22.6%) and chronic lung disease (23.3%).
+
+The primary outcome was time to death through Day 28.
+The hazard ratio comparing the tocilizumab +usual care arm to the usual care alone arm was 0.85 (95% CI: 0.76 to 0.94), a statistically significant result (p=0.0028).
+The probabilities of dying by Day 28 were estimated to be 30.7% and 34.9% in the tocilizumab and usual care arms, respectively.
+The risk difference was estimated to be -4.1% (95% CI: -7.0% to -1.3%), consistent with the primary analysis.
+The hazard ratio among the pre-specified subgroup of patients receiving systemic corticosteroids at baseline was 0.79 (95% CI: 0.70 to 0.89), and for the pre-specified subgroup not receiving systemic corticosteroids at baseline was 1.16 (95% CI: 0.91 to 1.48).
+
+The median time to hospital discharge was 19 days in the tocilizumab+ usual care arm and >28 days in the usual care arm (hazard ratio [95% CI] = 1.22 [1.12 to 1.33]).
+
+Among patients not requiring invasive mechanical ventilation at baseline, the proportion of patients who required mechanical ventilation or died by Day 28 was 35% (619/1754) in the tocilizumab + usual care arm and 42% (754/1800) in the usual care alone arm (risk ratio [95% CI] = 0.84, [0.77 to 0.92] p<0.0001).
 
 Paediatric population sJIA Patients
 Clinical efficacy
 The efficacy of tocilizumab for the treatment of active sJIA was assessed in a 12 week randomised, double blind, placebo-controlled, parallel group, two arm study.
 Patients included in the trial had a total disease duration of at least 6 months and active disease but were not experiencing an acute flare requiring corticosteroid doses of more than 0.5 mg/kg prednisone equivalent.
 Efficacy for the treatment of macrophage activation syndrome has not been investigated.
+
 Patients (treated with or without MTX) were randomised (tocilizumab:placebo = 2:1) to one of two treatment groups, 75 patients received tocilizumab infusions every two weeks, either 8 mg/kg for patients ≥ 30 kg or 12 mg/kg for patients < 30 kg and 37 patients were assigned to receiving placebo infusions every two weeks.
 Corticosteroid tapering was permitted from week six for patients who achieved a JIA ACR70 response.
 After 12 weeks or at the time of escape, due to disease worsening, patients were treated in the open label phase at weight appropriate dosing.
@@ -218,9 +268,9 @@ The primary endpoint was the proportion of patients with at least 30% improvemen
 Eighty five percent (64/75) of tocilizumab treated patients and 24.3% (9/37) of placebo treated patients achieved this endpoint.
 These proportions were highly significantly different (p<0.0001).
 
-The percent of patients achieving JIA ACR 30, 50, 70 and 90 responses are shown in Table 7.
+The percent of patients achieving JIA ACR 30, 50, 70 and 90 responses are shown in Table 8.
 
-Table 7.
+Table 8.
 JIA ACR response rates at week 12 (% patients)
 
 | Response Rate | Tocilizumab N = 75 | Placebo N = 37 |
@@ -258,7 +308,6 @@ Patients < 30 kg were randomized 1:1 to receive either tocilizumab 8 mg/kg or 10
 Patients who completed Part I of the study and achieved at least a JIA ACR30 response at week 16 compared to baseline were eligible to enter the blinded withdrawal period (Part II) of the study.
 In Part II, patients were randomized to tocilizumab (same dose received in Part I) or placebo in a 1:1 ratio, stratified by concurrent MTX use and concurrent corticosteroid use.
 Each patient continued in Part II of the study until Week 40 or until the patient satisfied JIA ACR30 flare criteria (relative to Week 16) and qualified for escape to tocilizumab therapy (same dose received in Part I).
-
 Clinical response
 The primary endpoint was the proportion of patients with a JIA ACR30 flare at week 40 relative to week 16.
 Forty eight percent (48.1%, 39/81) of the patients treated with placebo flared compared with 25.6% (21/82) of tocilizumab treated patients.
@@ -266,11 +315,11 @@ These proportions were statistically significantly different (p=0.0024).
 
 At the conclusion of Part I, JIA ACR 30/50/70/90 responses were 89.4%, 83.0%, 62.2%, and 26.1%, respectively.
 
-During the withdrawal phase (Part II), the percentage of patients achieving JIA ACR 30, 50, and 70 responses at Week 40 relative to baseline are shown in Table 8.
+During the withdrawal phase (Part II), the percentage of patients achieving JIA ACR 30, 50, and 70 responses at Week 40 relative to baseline are shown in Table 9.
 In this statistical analysis, patients who flared (and escaped to TCZ) during Part II or who withdrew, were classified as non-responders.
 An additional analyses of JIA ACR responses, considering observed data at Week 40, regardless of flare status, showed that by Week 40, 95.1% of patients who had received continuous TCZ therapy, had achieved JIA ACR30 or higher.
 
-Table 8.
+Table 9.
 JIA ACR Response Rates at Week 40 Relative to baseline (Percentage of Patients)
 
 | Response Rate | Tocilizumab N=82 | Placebo N=81 |
@@ -286,8 +335,8 @@ The physician’s global assessment of disease activity, as measured on a 0-100 
 
 The adjusted mean change in the pain VAS after 40 weeks of tocilizumab treatment was 32.4 mm on a 0-100 mm scale compared to a reduction of 22.3 mm for placebo patients (highly statistically significant; p=0.0076).
 
-The ACR response rates were numerically lower for patients with prior biologic treatment as shown in Table 9 below.
-Table 9.
+The ACR response rates were numerically lower for patients with prior biologic treatment as shown in Table 10 below.
+Table 10.
 Number and Proportion of Patients with a JIA ACR30 Flare and Proportion of Patients with JIA ACR30/50/70/90 Responses at Week 40, by Previous Biologic Use (ITT Population - Study Part II)
 
 |  | Placebo |  | All TCZ |  |
@@ -302,7 +351,7 @@ Number and Proportion of Patients with a JIA ACR30 Flare and Proportion of Patie
 Patients randomized to tocilizumab had fewer ACR30 flares and higher overall ACR responses than patients receiving placebo regardless of a history of prior biologic use.
 
 CRS
-The efficacy of RoActemra for the treatment of CRS was assessed in a retrospective analysis of data from clinical trials of CAR T-cell therapies (tisagenlecleucel and axicabtagene ciloleucel) for hematological malignancies.
+The efficacy of RoActemra for the treatment of CRS was assessed in a retrospective analysis of data from clinical trials of CAR T-cell therapies (tisagenlecleucel and axicabtagene ciloleucel) for haematological malignancies.
 Evaluable patients had been treated with tocilizumab 8 mg/kg (12 mg/kg for patients < 30 kg) with or without additional high-dose corticosteroids for severe or life-threatening CRS; only the first episode of CRS was included in the analysis.
 The efficacy population for the tisagenlecleucel cohort included 28 males and 23 females (total 51 patients) of median age 17 years (range, 3–68 years).
 The median time from start of CRS to first dose of tocilizumab was 3 days (range, 0–18 days).
@@ -312,6 +361,9 @@ Thirty-nine patients (76.5%; 95% CI: 62.5%–87.2%) achieved a response.
 In an independent cohort of 15 patients (range: 9–75 years old) with axicabtagene ciloleucel-induced CRS, 53% responded.
 
 The European Medicines Agency has waived the obligation to submit the results of studies with RoActemra in all subsets of the paediatric population in treatment of cytokine release syndrome associated with chimeric antigen receptor (CAR) T cell therapy.
+
+COVID-19
+The European Medicines Agency has deferred the obligation to submit the results of studies with RoActemra in one or more subsets of the paediatric population in the treatment of COVID-19.
 
 [RoActemra 162 mg solution for injection in pre-filled syringe.]
 
@@ -412,26 +464,15 @@ Each of the RoActemra-treated groups and one of the placebo-treated groups follo
 
 The duration of glucocorticoid therapy during screening and before RoActemra (or placebo) was initiated, was similar in all 4 treatment groups (see Table 3).
 
+Table 3.
 Duration of Corticosteroid Therapy During Screening in Study WA28119
 
-Placebo + 26 Placebo + 52 RoActemra 162mg SC RoActemra 162 mg SC
-
-weeks weeks weekly + 26 weeks every other weekly + 26
-
-prednisone taper prednisone taper prednisone taper weeks prednisone taper
-
-N=50 N=51 N=100 N=49
-
-Duration (days)
-
-Mean 35.7 (11.5) 36.3 (12.5) 35.6 (13.2) 37.4 (14.4)
-
-(SD)
-
-Median 42.0 41.0 41.0 42.0
-Min - 6 - 63 12 – 82 1 - 87 9 - 87
-
-Max
+|  | Placebo + 26 weeks prednisone taper N=50 |  | Placebo + 52 weeks prednisone taper N=51 | RoActemra 162mg SC weekly + 26 weeks prednisone taper N=100 | RoActemra 162 mg SC every other weekly + 26 weeks prednisone taper N=49 |
+| --- | --- | --- | --- | --- | --- |
+| Duration (days) |  |  |  |  |  |
+| Mean (SD) |  | 35.7 (11.5) | 36.3 (12.5) | 35.6 (13.2) | 37.4 (14.4) |
+| Median |  | 42.0 | 41.0 | 41.0 | 42.0 |
+| Min - Max |  | 6 - 63 | 12 – 82 | 1 - 87 | 9 - 87 |
 
 The primary efficacy endpoint assessed by the proportion of patients achieving steroid free sustained remission at week 52 on RoActemra plus 26 weeks prednisone taper compared with placebo plus 26 weeks prednisone taper, was met (Table 4).
 
@@ -450,6 +491,7 @@ weekly group compared to placebo plus 26 weeks prednisone (when compared at a 0.
 level). RoActemra subcutaneous weekly dose also showed a clinically meaningful decrease in the risk
 
 for flare compared to placebo plus 26 weeks prednisone in patients who entered the trial with relapsing GCA as well as those with new-onset disease (Table 4).
+
 Cumulative glucocorticoid dose
 The cumulative prednisone dose at week 52 was significantly lower in the two RoActemra dose groups compared to the two placebo groups (Table 4).
 In a separate analysis of the patients who received escape prednisone to treat GCA flare during the first 52 weeks, the cumulative prednisone dose varied greatly.
@@ -458,60 +500,21 @@ Both considerably lower than in the placebo plus 26 weeks and the placebo plus 5
 
 Efficacy results from Study WA28119
 
-Placebo + 26 Placebo + 52 RoActemra 162mg RoActemra 162
-
-weeks weeks SC weekly + 26 mg SC every other
-
-prednisone prednisone weeks prednisone weekly + 26 weeks
-
-taper taper taper prednisone taper
-
-Primary Endpoint
-****Sustained remission (Tocilizumab groups vs Placebo+26)
-
-Responders at Week 52, n (%) 7 (14%) 9 (17.6%) 56 (56%) 26 (53.1%)
-Unadjusted difference in proportions N/A N/A 42%* 39.06%*
-(99.5% CI) (18.00, 66.00) (12.46 , 65.66)
-
-Key Secondary Endpoint
-Sustained remission (Tocilizumab groups vs Placebo+52)
-
-Unadjusted difference in proportions N/A N/A 38.35%* 35.41%**
-(99.5% CI) (17.89 , 58.81) (10.41 ,60.41)
-
-Other Secondary Endpoints
-
-Time to first GCA flare¹ (Tocilizumab groups vs N/A N/A 0.23* 0.28**
-Placebo+26) (0.11, 0.46) (0.12, 0.66)
-HR (99% CI) N/A N/A 0.39** 0.48
-Time to first GCA flare¹ (Tocilizumab groups vs (0.18, 0.82) (0.20, 1.16)
-
-Placebo+52)
-
-HR (99% CI) N/A N/A 0.23*** 0.42
-Time to first GCA flare¹ (Relapsing patients; (0.09,0.61) (0.14, 1.28)
-Tocilizumab groups vs Placebo +26) HR (99% CI) N/A N/A 0.36 0.67
-Time to first GCA flare¹ (Relapsing patients; (0.13, 1.00) (0.21,2.10)
-Tocilizumab groups vs Placebo + 52) HR (99% CI) N/A N/A 0.25*** 0.20***
-Time to first GCA flare¹ (New-onset patients; (0.09, 0.70) (0.05, 0.76)
-Tocilizumab groups vs Placebo +26) HR (99% CI) N/A N/A 0.44 0.35
-Time to first GCA flare¹ (New-onset patients; (0.14, 1.32) (0.09, 1.42)
-
-Tocilizumab groups vs Placebo + 52) HR (99% CI)
-Cumulative glucocorticoid dose (mg)
-
-median at Week 52 (Tocilizumab groups 3296.00 N/A 1862.00* 1862.00*
-
-vs Placebo+262)
-
-median at Week 52 (Tocilizumab groups N/A 3817.50 1862.00* 1862.00*
-
-vs Placebo +522)
-Exploratory Endpoints
-Annualized relapse rate, Week 52§
-
-1.74 1.30 0.41 0.67
-Mean (SD) (2.18) (1.84) (0.78) (1.10)
+|  | Placebo + 26 weeks prednisone taper N=50 | Placebo + 52 weeks prednisone taper N=51 | RoActemra 162mg SC weekly + 26 weeks prednisone taper N=100 | RoActemra 162 mg SC every other weekly + 26 weeks prednisone taper N=49 |
+| --- | --- | --- | --- | --- |
+| Primary Endpoint |  |  |  |  |
+| ****Sustained remission (Tocilizumab groups vs Placebo+26) |  |  |  |  |
+| Responders at Week 52, n (%) | 7 (14%) | 9 (17.6%) | 56 (56%) | 26 (53.1%) |
+| Unadjusted difference in proportions (99.5% CI) | N/A | N/A | 42%* (18.00, 66.00) | 39.06%* (12.46 , 65.66) |
+| Key Secondary Endpoint |  |  |  |  |
+| Sustained remission (Tocilizumab groups vs Placebo+52) |  |  |  |  |
+| Responders at Week 52, n (%) | 7 (14%) | 9 (17.6%) | 56 (56%) | 26 (53.1%) |
+| Unadjusted difference in proportions (99.5% CI) | N/A | N/A | 38.35%* (17.89 , 58.81) | 35.41%** (10.41 ,60.41) |
+| Other Secondary Endpoints |  |  |  |  |
+| Time to first GCA flare¹ (Tocilizumab groups vs Placebo+26) HR (99% CI) Time to first GCA flare¹ (Tocilizumab groups vs Placebo+52) HR (99% CI) Time to first GCA flare¹ (Relapsing patients; Tocilizumab groups vs Placebo +26) HR (99% CI) Time to first GCA flare¹ (Relapsing patients; Tocilizumab groups vs Placebo + 52) HR (99% CI) Time to first GCA flare¹ (New-onset patients; Tocilizumab groups vs Placebo +26) HR (99% CI) Time to first GCA flare¹ (New-onset patients; Tocilizumab groups vs Placebo + 52) HR (99% CI) | N/A N/A N/A N/A N/A N/A | N/A N/A N/A N/A N/A N/A | 0.23* (0.11, 0.46) 0.39** (0.18, 0.82) 0.23*** (0.09,0.61) 0.36 (0.13, 1.00) 0.25*** (0.09, 0.70) 0.44 (0.14, 1.32) | 0.28** (0.12, 0.66) 0.48 (0.20, 1.16) 0.42 (0.14, 1.28) 0.67 (0.21,2.10) 0.20*** (0.05, 0.76) 0.35 (0.09, 1.42) |
+| Cumulative glucocorticoid dose (mg) median at Week 52 (Tocilizumab groups vs Placebo+262) median at Week 52 (Tocilizumab groups vs Placebo +522) | 3296.00 N/A | N/A 3817.50 | 1862.00* 1862.00* | 1862.00* 1862.00* |
+| Exploratory Endpoints |  |  |  |  |
+| Annualized relapse rate, Week 52§ Mean (SD) | 1.74 (2.18) | 1.30 (1.84) | 0.41 (0.78) | 0.67 (1.10) |
 
 * p<0.0001
 ** p<0.005 (threshold for significance for primary and key secondary tests of superiority)
@@ -572,20 +575,19 @@ Significant reduction in DAS28 from baseline (mean improvement) of 3.1–3.4 was
 The proportion of patients achieving a DAS28 clinical remission (DAS28 < 2.6) was significantly higher in patients receiving RoActemra (28–34%) compared to 1–12% of control patients at 24 weeks.
 
 Similarly the proportion of patients achieving a DAS 28 remission (DAS28 < 2.6) was significantly higher (31% vs. 16% respectively) in patients receiving RoActemra 8 mg/kg plus DMARD than in patients receiving RoActemra 4 mg/kg plus DMARD (p< 0.0001).
-Table 5.
 
 |  | Study I AMBITION |  | Study II LITHE |  | Study III OPTION |  | Study IV TOWARD |  | Study V RADIATE |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Wee k | TCZ 8 mg/k g | MT X | TCZ 8 mg/k g + MT X | PBO + MT X | TCZ 8 mg/k g + MT X | PBO + MT X | TCZ 8 mg/kg + DMAR D | PBO + DMAR D | TCZ 8 mg/k g + MT X | PBO + MTX |
+| Week | TCZ 8 mg/ kg | MTX | TCZ 8 mg/k g + MTX | PBO + MTX | TCZ 8 mg/k g + MTX | PBO + MTX | TCZ 8 mg/kg + DMAR D | PBO + DMAR D | TCZ 8 mg/k g + MTX | PBO + MTX |
 |  | N = 286 | N = 284 | N = 398 | N = 393 | N = 205 | N = 204 | N = 803 | N = 413 | N = 170 | N = 158 |
 | ACR 20 |  |  |  |  |  |  |  |  |  |  |
-| 24 | 70%** * | 52% | 56%** * | 27% | 59%** * | 26% | 61%*** | 24% | 50%** * | 10% |
+| 24 | 70%* ** | 52% | 56%** * | 27% | 59%** * | 26% | 61%*** | 24% | 50%** * | 10% |
 | 52 |  |  | 56%** * | 25% |  |  |  |  |  |  |
 | ACR 50 |  |  |  |  |  |  |  |  |  |  |
-| 24 | 44%** | 33% | 32%** * | 10% | 44%** * | 11% | 38%*** | 9% | 29%** * | 4% |
+| 24 | 44%* * | 33% | 32%** * | 10% | 44%** * | 11% | 38%*** | 9% | 29%** * | 4% |
 | 52 |  |  | 36%** * | 10% |  |  |  |  |  |  |
 | ACR 70 |  |  |  |  |  |  |  |  |  |  |
-| 24 | 28%** | 15% | 13%** * | 2% | 22%** * | 2% | 21%*** | 3% | 12%** | 1% |
+| 24 | 28%* * | 15% | 13%** * | 2% | 22%** * | 2% | 21%*** | 3% | 12%** | 1% |
 | 52 |  |  | 20%** 4% * |  |  |  |  |  |  |  |
 
 After 2 years of treatment with RoActemra plus MTX, 14% of patients achieved a major clinical response (maintenance of an ACR70 response for 24 weeks or more).
@@ -611,13 +613,17 @@ Patients in the RoActemra arm received an intravenous (IV) infusion of RoActemra
 A statistically significant superior treatment effect was seen in favour of RoActemra over adalimumab in control of disease activity from baseline to week 24 for the primary endpoint of change in DAS28 and for all secondary endpoints (Table 7).
 Table 7: Efficacy Results for Study VI (WA19924)
 
-ADA + Placebo TCZ + Placebo
-
-(IV) (SC)
-
-Difference in adjusted mean (95% -1.5 (-1.8, -1.1) <0.0001
-
-CI)
+|  | ADA + Placebo (IV) N = 162 | TCZ + Placebo (SC) N = 163 | p-value(a) |
+| --- | --- | --- | --- |
+| Primary Endpoint - Mean Change from baseline at Week 24 |  |  |  |
+| DAS28 (adjusted mean) | -1.8 | -3.3 |  |
+| Difference in adjusted mean (95% CI) | -1.5 (-1.8, -1.1) |  | <0.0001 |
+| Secondary Endpoints - Percentage of Responders at Week 24 (b) |  |  |  |
+| DAS28 < 2.6, n (%) | 17 (10.5) | 65 (39.9) | <0.0001 |
+| DAS28 ≤ 3.2, n (%) | 32 (19.8) | 84 (51.5) | <0.0001 |
+| ACR20 response, n (%) | 80 (49.4) | 106 (65.0) | 0.0038 |
+| ACR50 response, n (%) | 45 (27.8) | 77 (47.2) | 0.0002 |
+| ACR70 response, n (%) | 29 (17.9) | 53 (32.5) | 0.0023 |
 
 The overall clinical adverse event profile was similar between RoActemra and adalimumab.
 The proportion of patients with serious adverse events was balanced between the treatment groups (RoActemra 11.7% vs. adalimumab 9.9%).
@@ -639,31 +645,11 @@ In RA clinical studies with RoActemra, rapid decreases in CRP, erythrocyte sedim
 
 RA and GCA patients demonstrate a comparable (to healthy subjects) decrease of absolute neutrophil counts following RoActemra administration (see section 4.8).
 
-|  | SC-Ia |  |
-| --- | --- | --- |
-|  | TCZ SC 162 mg every week + DMARD N=558 | TCZ IV 8 mg/kg + DMARD N=537 |
-| ACR20 Week 24 | 69.4% | 73.4% |
-| Weighted difference (95% CI) | -4.0 (-9.2, 1.2) |  |
-| ACR50 Week 24 | 47.0% | 48.6% |
-| Weighted difference (95% CI) | -1.8 (-7.5, 4.0) |  |
-| ACR70 Week 24 | 24.0% | 27.9% |
-|  | TCZ SC 162 mg every week + DMARD N=558 | TCZ IV 8 mg/kg + DMARD N=537 |
-| Weighted difference (95% CI) | -3.8 (-9.0, 1.3) |  |
-
 Subcutaneous Use sJIA
 
 Subcutaneous Use pJIA
 
 GCA
-
-Placebo + 26 Placebo + 52 RoActemra 162mg SC RoActemra 162 mg SC every
-weeks prednisone weeks prednisone weekly + 26 weeks other weekly + 26 weeks
-taper taper prednisone taper prednisone taper
-
-Tocilizumab groups vs Placebo + 52) HR (99% CI) 0.25*** 0.20***
-Time to first GCA flare¹ (New-onset patients; N/A N/A (0.09, 0.70) (0.05, 0.76)
-Tocilizumab groups vs Placebo +26) HR (99% CI) 0.44 0.35
-Time to first GCA flare¹ (New-onset patients; N/A N/A (0.14, 1.32) (0.09, 1.42)
 
 Doses of 4 or 8 mg/kg of RoActemra or placebo were given every four weeks as blinded therapy for 52 weeks in combination with stable MTX (10 mg to 25 mg weekly).
 
