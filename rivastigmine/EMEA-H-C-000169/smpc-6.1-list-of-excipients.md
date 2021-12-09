@@ -12,7 +12,7 @@ Shellac
 
 [Exelon 2 mg/ml oral solution]
 
-Sodium benzoate
+Sodium benzoate (E211)
 Citric acid
 Sodium citrate
 Quinoline yellow WS dye (E104)

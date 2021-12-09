@@ -93,6 +93,7 @@ Based on comparable exposure between oral and transdermal rivastigmine (see sect
 - A patient on a dose of 12 mg/day oral rivastigmine can be switched to 9.5 mg/24 h transdermal patches.
 
 After switching to 4.6 mg/24 h transdermal patches, provided these are well tolerated after a minimum of four weeks of treatment, the dose of 4.6 mg/24 h should be increased to 9.5 mg/24 h, which is the recommended effective dose.
+
 It is recommended to apply the first transdermal patch on the day following the last oral dose.
 
 - Paediatric population: There is no relevant use of Exelon in the paediatric population in the treatment of Alzheimer’s disease.

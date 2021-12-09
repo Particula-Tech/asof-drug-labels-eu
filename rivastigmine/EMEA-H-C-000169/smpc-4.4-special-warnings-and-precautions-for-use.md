@@ -65,13 +65,18 @@ Patients with body weight below 50 kg may experience more adverse reactions and 
 
 [Exelon 2 mg/ml oral solution]
 
-One of the excipients in Exelon oral solution is sodium benzoate.
+Excipients with known effects
+
+One of the excipients in Exelon oral solution is sodium benzoate (E211).
 Benzoic acid is a mild irritant to the skin, eyes and mucous membrane.
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per ml, that is to say essentially 'sodium-free'.
 
 [Exelon 4.6 mg/24 h transdermal patch]
 
 The incidence and severity of adverse reactions generally increase with increasing doses, particularly at dose changes.
 If treatment is interrupted for more than three days, it should be re-initiated with 4.6 mg/24 h.
+
 Misuse of the medicinal product and dosing errors resulting in overdose
 
 Misuse of the medicinal product and dosing errors with Exelon transdermal patch have resulted in serious adverse reactions; some cases have required hospitalisation, and rarely led to death (see section 4.9).

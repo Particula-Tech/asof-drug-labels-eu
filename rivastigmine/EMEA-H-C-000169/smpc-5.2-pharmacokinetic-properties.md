@@ -12,7 +12,7 @@ Distribution
 
 Protein binding of rivastigmine is approximately 40%.
 It readily crosses the blood brain barrier and has an apparent volume of distribution in the range of 1.8–2.7 l/kg.
-Biotranformation
+Biotransformation
 
 Rivastigmine is rapidly and extensively metabolised (half-life in plasma approximately 1 hour), primarily via cholinesterase-mediated hydrolysis to the decarbamylated metabolite.
 In vitro, this metabolite shows minimal inhibition of acetylcholinesterase (<10%).

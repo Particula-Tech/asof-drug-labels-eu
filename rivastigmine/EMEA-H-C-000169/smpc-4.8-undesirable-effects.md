@@ -186,7 +186,6 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 Application site skin reactions (usually mild to moderate application site erythema), are the most frequent adverse reactions observed with the use of Exelon transdermal patch.
 The next most common adverse reactions are gastrointestinal in nature including nausea and vomiting.
-
 Adverse reactions in Table 1 are listed according to MedDRA system organ class and frequency category.
 
 Table 1 displays the adverse reactions reported in 1,670 patients with Alzheimer’s dementia treated in randomised, double-blind, placebo and active-controlled clinical studies with Exelon transdermal patches for a duration of 24-48 weeks and from post-marketing data.
@@ -233,11 +232,11 @@ application site pruritus*, application site oedema*, application site dermatiti
 Rare Fall
 
 *In a 24-week controlled study in Japanese patients, application site erythema, application site oedema and application site pruritus were reported as “very common”.
-
 Description of selected adverse reactions
 
 When doses higher than 13.3 mg/24 h were used in the above-mentioned placebo-controlled study, insomnia and cardiac failure were observed more frequently than with 13.3 mg/24 h or placebo, suggesting a dose effect relationship.
 However, these events did not occur at a higher frequency with Exelon 13.3 mg/24 h transdermal patches than with placebo.
+
 The following adverse reactions have only been observed with Exelon capsules and oral solution and not in clinical studies with Exelon transdermal patches: malaise, confusion, sweating increased (common); duodenal ulcers, angina pectoris (rare); gastrointestinal haemorrhage (very rare); and some cases of severe vomiting were associated with oesophageal rupture (not known).
 
 Skin irritation

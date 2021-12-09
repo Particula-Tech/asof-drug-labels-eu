@@ -4,7 +4,6 @@ Pharmacotherapeutic group: psychoanaleptics, anticholinesterases, ATC code: N06D
 
 Rivastigmine is an acetyl- and butyrylcholinesterase inhibitor of the carbamate type, thought to facilitate cholinergic neurotransmission by slowing the degradation of acetylcholine released by functionally intact cholinergic neurones.
 Thus, rivastigmine may have an ameliorative effect on cholinergic-mediated cognitive deficits in dementia associated with Alzheimer’s disease and Parkinson’s disease.
-
 Rivastigmine interacts with its target enzymes by forming a covalently bound complex that temporarily inactivates the enzymes.
 In healthy young men, an oral 3 mg dose decreases acetylcholinesterase (AChE) activity in CSF by approximately 40% within the first 1.5 hours after administration.
 Activity of the enzyme returns to baseline levels about 9 hours after the maximum inhibitory effect has been achieved.
@@ -128,7 +127,6 @@ Table 3
 *p<0.05 versus placebo
 
 As suggested by compartmental modelling, 9.5 mg/24 h transdermal patches exhibited exposure similar to that provided by an oral dose of 12 mg/day.
-
 48-week active comparator controlled study
 Patients involved in the active comparator controlled study had an initial baseline MMSE score of 10-24.
 The study was designed to compare the efficacy of the 13.3 mg/24 h transdermal patch against the 9.5 mg/24 h transdermal patch during a 48-week double-blind treatment phase in Alzheimer’s disease patients who demonstrated functional and cognitive decline after an initial 24-48 week open-label treatment phase while on a maintenance dose of 9.5 mg/24 h transdermal patch.

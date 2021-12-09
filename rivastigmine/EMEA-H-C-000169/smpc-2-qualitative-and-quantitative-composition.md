@@ -22,6 +22,10 @@ For the full list of excipients, see section 6.1.
 
 Each ml contains rivastigmine hydrogen tartrate corresponding to 2 mg rivastigmine.
 
+Excipient(s) with known effect
+
+Each 3 ml oral solution contains 3 mg of sodium benzoate (E211).
+
 [Exelon 4.6 mg/24 h transdermal patch]
 
 Exelon 4.6 mg/24 h transdermal patch
