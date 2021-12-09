@@ -66,8 +66,8 @@ elevations of hepatic cholestatic or mixed
 aminotransferases liver injury) 11
 (ALT, AST),
 especially in early
-treatment (see section
-4.4)
+treatment (see
+section 4.4)
 Skin and subcutaneous tissue disorders
 Rash Photosensitivity
 reaction
@@ -88,8 +88,9 @@ Pregnancy, puerperium and perinatal conditions
 Drug
 withdrawal
 syndrome
-neonatal (see
-section 4.6)
+neonatal
+(see section
+4.6)
 Reproductive system and breast disorders
 Erectile dysfunction Amenorrhea Priapism12
 in males Breast enlargement
@@ -225,37 +226,33 @@ The undesirable effects listed below have been observed following administration
 
 The most frequently (seen in ≥ 1% of patients) reported adverse reactions associated with the use of olanzapine in clinical trials were somnolence, weight gain, eosinophilia, elevated prolactin, cholesterol, glucose and triglyceride levels (see section 4.4), glucosuria, increased appetite, dizziness, akathisia, parkinsonism, leukopenia, neutropenia (see section 4.4), dyskinesia, orthostatic hypotension, anticholinergic effects, transient asymptomatic elevations of hepatic aminotransferases (see section 4.4), rash, asthenia, fatigue, pyrexia, arthralgia, increased alkaline phosphatase, high gamma glutamyltransferase, high uric acid, high creatine phosphokinase and oedema.
 
-Very common Common Uncommon Rare Not
-known
-Blood and the lymphatic system disorders
-Eosinophilia Thrombocytopenia11
-Leukopenia10
-Neutropenia10
-Immune system disorders
-Hypersensitivity11
-Weight gain1 Elevated Development or Hypothermia12
-cholesterol levels2,3 exacerbation of
-Elevated ketoacidosis or coma,
-triglyceride levels2,5 including some fatal
-were reported11 symptoms7,12
-oculogyration)11
-Amnesia9
-Stuttering11, 13
+| Very common | Common | Uncommon | Rare | Not known |
+| --- | --- | --- | --- | --- |
+| Blood and the lymphatic system disorders |  |  |  |  |
+|  | Eosinophilia Leukopenia10 Neutropenia10 |  | Thrombocytopenia11 |  |
+| Immune system disorders |  |  |  |  |
+|  |  | Hypersensitivity11 |  |  |
+| Metabolism and nutrition disorders |  |  |  |  |
+| Weight gain1 | Elevated cholesterol levels2,3 Elevated glucose levels4 Elevated triglyceride levels2,5 Glucosuria Increased appetite | Development or exacerbation of diabetes occasionally associated with ketoacidosis or coma, including some fatal cases (see section 4.4) 11 | Hypothermia12 |  |
+| Nervous system disorders |  |  |  |  |
+| Somnolence | Dizziness Akathisia6 Parkinsonism6 Dyskinesia6 | Seizures where in most cases a history of seizures or risk factors for seizures were reported11 Dystonia (including oculogyration)11 Tardive dyskinesia11 Amnesia9 Dysarthria Stuttering11, 13 Restless Legs Syndrome11 | Neuroleptic malignant syndrome (see section 4.4)12 Discontinuation symptoms7,12 |  |
+| Cardiac disorders |  |  |  |  |
+|  |  | Bradycardia QTc prolongation (see section 4.4) | Ventricular tachycardia/fibrillation, sudden death (see section 4.4)11 |  |
+| Vascular disorders |  |  |  |  |
+| Orthostatic hypotension10 |  | Thromboembolism (including pulmonary embolism and deep vein thrombosis) (see section 4.4) |  |  |
+
 constipation and hypersecretion11
 dry mouth
 elevations of cholestatic or mixed
 hepatic liver injury)11
 aminotransferases
-treatment (see
 Rash Photosensitivity Drug
 reaction Reaction
 Alopecia with
 and
 Systemic
-neonatal
 (see
 section
-4.6)
 Glutamyltransferase
 10
 

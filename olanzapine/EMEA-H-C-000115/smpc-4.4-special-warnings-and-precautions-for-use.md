@@ -95,8 +95,7 @@ Paediatric population
 Olanzapine is not indicated for use in the treatment of children and adolescents.
 Studies in patients aged 13-17 years showed various adverse reactions, including weight gain, changes in metabolic parameters and increases in prolactin levels (see sections 4.8 and 5.1).
 Lactose
-ZYPREXA tablets contain lactose.
-Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
 [ZYPREXA 10 mg powder for solution for injection]
 
@@ -135,3 +134,6 @@ In clinical trials with ZYPREXA powder for solution for injection, olanzapine wa
 In comparator oral studies of one year or less duration, olanzapine was associated with a statistically significant lower incidence of treatment emergent dyskinesia.
 
 Postural hypotension was infrequently observed in the elderly in oral olanzapine clinical trials.
+
+Sodium
+This medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially ‘sodium-free’.
