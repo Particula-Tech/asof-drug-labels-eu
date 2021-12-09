@@ -1,0 +1,16 @@
+{
+  "active_substance": "amivantamab",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/005454",
+  "eu_number": "EU/1/21/1594",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2021-12-09",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rybrevant",
+  "molecule": "amivantamab",
+  "molecule_name": "AMIVANTAMAB",
+  "name": "Rybrevant",
+  "register_name": "Rybrevant",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h1594.htm"
+}
