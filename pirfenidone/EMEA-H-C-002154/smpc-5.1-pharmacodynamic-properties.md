@@ -4,7 +4,6 @@ Pharmacotherapeutic group: Immunosuppressants, other immunosuppressants, ATC cod
 
 The mechanism of action of pirfenidone has not been fully established.
 However, existing data suggest that pirfenidone exerts both antifibrotic and anti-inflammatory properties in a variety of in vitro systems and animal models of pulmonary fibrosis (bleomycin- and transplant-induced fibrosis).
-
 IPF is a chronic fibrotic and inflammatory pulmonary disease affected by the synthesis and release of pro-inflammatory cytokines including tumour necrosis factor-alpha (TNF-α) and interleukin-1-beta (IL-1β) and pirfenidone has been shown to reduce the accumulation of inflammatory cells in response to various stimuli.
 
 Pirfenidone attenuates fibroblast proliferation, production of fibrosis-associated proteins and cytokines, and the increased biosynthesis and accumulation of extracellular matrix in response to cytokine growth factors such as, transforming growth factor-beta (TGF-β) and platelet-derived growth factor (PDGF).
@@ -54,6 +53,7 @@ Treatment was administered three times daily for 52 weeks.
 The primary endpoint was the change from Baseline to Week 52 in percent predicted FVC.
 In a total of 555 patients, the median baseline percent predicted FVC and %DLCO were 68% (range: 48–91%) and 42% (range: 27–170%), respectively.
 Two percent of patients had percent predicted FVC below 50% and 21% of patients had a percent predicted DLCO below 35% at Baseline.
+
 In study PIPF-016, the decline of percent predicted FVC from Baseline at Week 52 of treatment was significantly reduced in patients receiving Esbriet (N=278) compared with patients receiving placebo (N=277; p<0.000001, rank ANCOVA).
 Treatment with Esbriet also significantly reduced the decline of percent predicted FVC from Baseline at Weeks 13 (p<0.000001), 26 (p<0.000001), and 39 (p=0.000002).
 At Week 52, a decline from Baseline in percent predicted FVC of ≥10% or death was seen in 17% of patients receiving Esbriet compared to 32% receiving placebo (Table 4).

@@ -12,6 +12,7 @@ A reduced incidence of adverse events (nausea and dizziness) was observed in fed
 Therefore, it is recommended that Esbriet be administered with food to reduce the incidence of nausea and dizziness.
 
 The absolute bioavailability of pirfenidone has not been determined in humans.
+
 Distribution
 
 Pirfenidone binds to human plasma proteins, primarily to serum albumin.
@@ -41,7 +42,6 @@ Pirfenidone should be used with caution in patients with mild to moderate hepati
 Esbriet is contraindicated in severe hepatic impairment and end stage liver disease (see sections 4.2 and 4.3).
 
 Renal impairment
-
 No clinically relevant differences in the pharmacokinetics of pirfenidone were observed in subjects with mild to severe renal impairment compared with subjects with normal renal function.
 The parent substance is predominantly metabolised to 5-carboxy-pirfenidone.
 The mean (SD) AUC0-∞ of 5-carboxy-pirfenidone was significantly higher in the moderate (p = 0.009) and severe (p < 0.0001) renal impairment groups than in the group with normal renal function. ; 100 (26.3) mg•h/L and 168 (67.4) mg•h/L compared to 28.7 (4.99) mg•h/L respectively.

@@ -1,7 +1,7 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-The most frequently reported adverse reactions during clinical study experience with Esbriet at a dose of 2,403 mg/day compared to placebo, respectively, were nausea (32.4% versus 12.2%), rash (26.2% versus 7.7%), diarrhoea (18.8% versus 14.4%), fatigue (18.5% versus 10.4%), dyspepsia (16.1% versus 5.0%), anorexia (11.4% versus 3.5%), headache (10.1% versus 7.7%), and photosensitivity reaction (9.3% versus 1.1%).
+The most frequently reported adverse reactions during clinical study experience with Esbriet at a dose of 2,403 mg/day compared to placebo, respectively, were nausea (32.4% versus 12.2%), rash (26.2% versus 7.7%), diarrhoea (18.8% versus 14.4%), fatigue (18.5% versus 10.4%), dyspepsia (16.1% versus 5.0%), decreased appetite (20.7% versus 8.0%), headache (10.1% versus 7.7%), and photosensitivity reaction (9.3% versus 1.1%).
 
 Tabulated list of adverse reactions
 The safety of Esbriet has been evaluated in clinical studies including 1,650 volunteers and patients.
@@ -14,36 +14,39 @@ Adverse reactions are listed by System Organ Class (SOC) and within each frequen
 | Table 1 Adverse reactions by SOC and MedDRA frequency |  |
 | --- | --- |
 | Infections and infestations |  |
-| Common | Upper respiratory tract infection; urinary tract infection |
+| Very Common | Upper respiratory tract infection |
+| Common | Urinary tract infection |
 | Blood and lymphatic system disorders |  |
-| Rare | Agranulocytosis1 |
+| Uncommon | Agranulocytosis1 |
 | Immune system disorders |  |
 | Uncommon | Angioedema1 |
 | Not known | Anaphylaxis1 |
 | Metabolism and nutrition disorders |  |
-| Very Common | Anorexia |
-| Common | Weight decreased; decreased appetite |
+| Very Common | Weight decreased; decreased appetite |
 | Uncommon | Hyponatraemia1 |
 | Psychiatric disorders |  |
-| Common | Insomnia |
+| Very Common | Insomnia |
 | Nervous system disorders |  |
-| Very Common | Headache |
-| Common | Dizziness; somnolence; dysgeusia; lethargy |
+| Very Common | Headache; dizziness |
+| Common | Somnolence; dysgeusia; lethargy |
 | Vascular disorders |  |
 | Common | Hot flush |
 | Respiratory, thoracic and mediastinal disorders |  |
-| Common | Dyspnoea; cough; productive cough |
+| Very Common | Dyspnoea; cough |
+| Common | Productive cough |
 | Gastrointestinal disorders |  |
-| Very Common | Dyspepsia; nausea; diarrhoea |
-| Common | Gastroesophageal reflux disease; vomiting; abdominal distension; abdominal discomfort; abdominal pain; abdominal pain upper; stomach discomfort; gastritis; constipation; flatulence |
+| Very Common | Dyspepsia; nausea; diarrhoea; gastroesophageal reflux disease; vomiting; constipation |
+| Common | Abdominal distension; abdominal discomfort; abdominal pain; abdominal pain upper; stomach discomfort; gastritis; flatulence |
 | Hepatobiliary disorders |  |
 | Common | ALT increased; AST increased; gamma glutamyl transferase increased |
 | Uncommon | Total serum bilirubin increased in combination with increases of ALT and AST1; Drug-induced liver injury2 |
 | Skin and subcutaneous tissue disorders |  |
-| Very Common | Photosensitivity reaction; rash |
-| Common | Pruritus; erythema; dry skin; rash erythematous; rash macular; rash pruritic |
+| Very Common | Rash |
+| Common | Photosensitivity reaction; pruritus; erythema; dry skin; rash erythematous; rash macular; rash pruritic |
+| Not Known | Stevens-Johnson syndrome1; toxic epidermal necrolysis1 |
 | Musculoskeletal and connective tissue disorders |  |
-| Common | Myalgia; arthralgia |
+| Very Common | Arthralgia |
+| Common | Myalgia |
 | General disorders and administration site conditions |  |
 | Very Common | Fatigue |
 | Common | Asthenia; non-cardiac chest pain |
@@ -55,11 +58,19 @@ Identified through post-marketing surveillance
 2.
 Cases of severe drug-induced liver injury, including reports with fatal outcome have been identified through post-marketing surveillance (see sections 4.3, 4.4).
 
+Description of selected adverse reactions
+
+Decreased appetite
+During the pivotal clinical trials, cases of decreased appetite were readily manageable and generally not associated with significant sequelae.
+Uncommonly, cases of decreased appetite were associated with significant weight loss and required medical intervention.
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [Esbriet 267 mg film-coated tablets]
+
+The most frequently reported adverse reactions during clinical study experience with Esbriet at a dose of 2,403 mg/day compared to placebo, respectively, were nausea (32.4% versus 12.2%), rash (26.2% versus 7.7%), diarrhoea (18.8% versus 14.4%), fatigue (18.5% versus 10.4%), dyspepsia (16.1% versus 5.0%), decreased appetite (20.7%% versus 8.0%), headache (10.1% versus 7.7%), and photosensitivity reaction (9.3% versus 1.1%).
 
 Cases of severe drug-induced liver injury, including reports with fatal outcome have been identified through post-marketing surveillance (see section 4.3, 4.4).

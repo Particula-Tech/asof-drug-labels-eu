@@ -4,6 +4,7 @@ Hepatic function
 
 Elevated transaminases have been commonly reported in patients treated with Esbriet.
 Liver function tests (ALT, AST and bilirubin) should be performed prior to the initiation of treatment with Esbriet, and subsequently at monthly intervals for the first 6 months and then every 3 months thereafter (see section 4.8).
+
 If a patient exhibits an aminotransferase elevation >3 to <5 x ULN without bilirubin elevation and without symptoms or signs of drug-induced liver injury after starting Esbriet therapy, other causes should be excluded, and the patient monitored closely.
 Discontinuation of other medicines associated with liver toxicity should be considered.
 If clinically appropriate, the dose of Esbriet should be reduced or interrupted.
@@ -34,6 +35,12 @@ Patients should be instructed to report symptoms of photosensitivity reaction or
 Severe photosensitivity reactions are uncommon.
 Dose adjustments or temporary treatment discontinuation may be necessary in mild to severe cases of photosensitivity reaction or rash (see section 4.2).
 
+Severe skin reactions
+
+Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), which can be life-threatening or fatal, have been reported post-marketing in association with Esbriet treatment.
+If signs and symptoms suggestive of these reactions appear, Esbriet should be withdrawn immediately.
+If the patient has developed SJS or TEN with the use of Esbriet, treatment with Esbriet must not be restarted and should be permanently discontinued.
+
 Angioedema/Anaphylaxis
 
 Reports of angioedema (some serious) such as swelling of the face, lips and/or tongue which may be associated with difficulty breathing or wheezing have been received in association with use of Esbriet in the post-marketing setting.
@@ -43,11 +50,11 @@ Patients with angioedema or severe allergic reactions should be managed accordin
 Esbriet must not be used in patients with a history of angioedema or hypersensitivity due to Esbriet (see section 4.3).
 
 Dizziness
-
 Dizziness has been reported in patients taking Esbriet.
 Therefore, patients should know how they react to this medicinal product before they engage in activities requiring mental alertness or coordination (see section 4.7).
 In clinical studies, most patients who experienced dizziness had a single event, and most events resolved, with a median duration of 22 days.
 If dizziness does not improve or if it worsens in severity, dose adjustment or even discontinuation of Esbriet may be warranted.
+
 Fatigue
 
 Fatigue has been reported in patients taking Esbriet.
