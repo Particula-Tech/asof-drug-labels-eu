@@ -94,7 +94,7 @@ Thus, in addition to adequate clinical surveillance, laboratory testing of haemo
 The risk of bleedings may be increased in certain patient groups e.g. those patients with moderate renal impairment and/or on concomitant treatment affecting haemostasis or strong P-gp inhibitors (see section 4.4 Haemorrhagic risk).
 Haemorrhagic complications may present as weakness, paleness, dizziness, headache or unexplained swelling, dyspnoea, and unexplained shock.
 
-Known bleeding complications such as compartment syndrome and acute renal failure due to hypoperfusion have been reported for dabigatran etexilate.
+Known bleeding complications such as compartment syndrome and acute renal failure due to hypoperfusion and anticoagulant-related nephropathy in patients with predisposing risk factors have been reported for dabigatran etexilate.
 Therefore, the possibility of haemorrhage is to be considered in evaluating the condition in any anticoagulated patient.
 For adult patients, a specific reversal agent for dabigatran, idarucizumab, is available in case of uncontrollable bleeding (see Section 4.9).
 
