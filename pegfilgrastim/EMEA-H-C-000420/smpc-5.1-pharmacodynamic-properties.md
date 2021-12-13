@@ -2,7 +2,7 @@
 
 Pharmacotherapeutic group: immunostimulants, colony stimulating factor; ATC Code: L03AA13
 
-Human granulocyte colony stimulating factor (G-CSF) is a glycoprotein, which regulates the production and release of neutrophils from the bone marrow.
+Human granulocyte-colony stimulating factor (G-CSF) is a glycoprotein, which regulates the production and release of neutrophils from the bone marrow.
 Pegfilgrastim is a covalent conjugate of recombinant human G-CSF (r-metHuG-CSF) with a single 20 kd polyethylene glycol (PEG) molecule.
 Pegfilgrastim is a sustained duration form of filgrastim due to decreased renal clearance.
 Pegfilgrastim and filgrastim have been shown to have identical modes of action, causing a marked increase in peripheral blood neutrophil counts within 24 hours, with minor increases in monocytes and/or lymphocytes.
@@ -17,16 +17,16 @@ Over the entire study, the rate of febrile neutropenia was 13% of pegfilgrastim-
 In a second study (n = 310), which used a weight-adjusted dose (100 mcg/kg), the mean duration of grade 4 neutropenia for the pegfilgrastim group was 1.7 days, compared with 1.8 days in the filgrastim group (difference 0.03 days, 95% CI -0.36, 0.30).
 The overall rate of febrile neutropenia was 9% of patients treated with pegfilgrastim and 18% of patients treated with filgrastim (difference 9%, 95% CI of -16.8%, -1.1%).
 
-In a placebo-controlled, double blind study in patients with breast cancer the effect of pegfilgrastim on the incidence of febrile neutropenia was evaluated following administration of a chemotherapy regimen associated with a febrile neutropenia rate of 10-20% (docetaxel 100 mg/m2 every 3 weeks for 4 cycles).
-Nine hundred and twenty eight patients were randomised to receive either a single dose of pegfilgrastim or placebo approximately 24 hours (day 2) after chemotherapy in each cycle.
+In a placebo-controlled, double-blind study in patients with breast cancer the effect of pegfilgrastim on the incidence of febrile neutropenia was evaluated following administration of a chemotherapy regimen associated with a febrile neutropenia rate of 10-20% (docetaxel 100 mg/m2 every 3 weeks for 4 cycles).
+Nine hundred and twenty-eight patients were randomised to receive either a single dose of pegfilgrastim or placebo approximately 24 hours (day 2) after chemotherapy in each cycle.
 The incidence of febrile neutropenia was lower for patients randomised to receive pegfilgrastim compared with placebo (1% versus 17%, p < 0.001).
 The incidence of hospitalisations and IV anti-infective use associated with a clinical diagnosis of febrile neutropenia was lower in the pegfilgrastim group compared with placebo (1% versus 14%, p < 0.001; and 2% versus 10%, p < 0.001).
 
-A small (n = 83), Phase II, randomised, double-blind study in patients receiving chemotherapy for de novo acute myeloid leukaemia compared pegfilgrastim (single dose of 6 mg) with filgrastim, administered during induction chemotherapy.
+A small (n = 83), phase II, randomised, double-blind study in patients receiving chemotherapy for de novo acute myeloid leukaemia compared pegfilgrastim (single dose of 6 mg) with filgrastim, administered during induction chemotherapy.
 Median time to recovery from severe neutropenia was estimated as 22 days in both treatment groups.
-Long term outcome was not studied (see section 4.4).
+Long-term outcome was not studied (see section 4.4).
 
-In a phase II (n = 37) multicentre, randomised, open-label study of paediatric sarcoma patients receiving 100 mcg/kg pegfilgrastim following cycle 1 of vincristine, doxorubicin and cyclophosphamide (VAdriaC/IE) chemotherapy, a longer duration of severe neutropenia (neutrophils < 0.5 x 109) was observed in younger children aged 0-5 years (8.9 days) compared to older children aged 6-11 years and 12-21 years (6 days and 3.7 days, respectively) and adults.
+In a phase II (n = 37) multicentre, randomised, open-label study of paediatric sarcoma patients receiving 100 mcg/kg pegfilgrastim following cycle 1 of vincristine, doxorubicin and cyclophosphamide (VAdriaC/IE) chemotherapy, a longer duration of severe neutropenia (neutrophils < 0.5 × 109/L) was observed in younger children aged 0-5 years (8.9 days) compared to older children aged 6-11 years and 12-21 years (6 days and 3.7 days, respectively) and adults.
 Additionally a higher incidence of febrile neutropenia was observed in younger children aged 0-5 years (75%) compared to older children aged 6-11 years and 12-21 years (70% and 33%, respectively) and adults (see sections 4.8 and 5.2).
 
 In a phase I (n = 253) randomised, single dose, parallel-group study conducted in healthy subjects the exposure (mean serum concentration-time profiles) of pegfilgrastim delivered by manual injection and by the on-body injector were comparable.

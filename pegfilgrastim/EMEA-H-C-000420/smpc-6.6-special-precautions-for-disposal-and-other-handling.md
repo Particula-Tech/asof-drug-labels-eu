@@ -8,6 +8,6 @@ The Neulasta pre-filled syringe for manual administration must not be used with 
 
 Excessive shaking may aggregate pegfilgrastim, rendering it biologically inactive.
 
-When administering using the manual pre-filled syringe, allow the pre-filled syringe to reach room temperature before injecting.
+Allow the pre-filled syringe for manual administration and pre-filled syringe co-packed with the on-body injector (Onpro kit) for automatic administration to come to room temperature for 30 minutes before using the syringe.
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
