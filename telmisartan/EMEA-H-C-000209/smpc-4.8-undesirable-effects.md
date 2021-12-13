@@ -7,6 +7,7 @@ Serious adverse drug reactions include anaphylactic reaction and angioedema whic
 The overall incidence of adverse reactions reported with telmisartan was usually comparable to placebo (41,4% vs 43.9 %) in controlled trials in patients treated for hypertension.
 The incidence of adverse reactions was not dose related and showed no correlation with gender, age or race of the patients.
 The safety profile of telmisartan in patients treated for the reduction of cardiovascular morbidity was consistent with that obtained in hypertensive patients.
+
 The adverse reactions listed below have been accumulated from controlled clinical trials in patients treated for hypertension and from post-marketing reports.
 The listing also takes into account serious adverse reactions and adverse reactions leading to discontinuation reported in three clinical long-term studies including 21,642 patients treated with telmisartan for the reduction of cardiovascular morbidity for up to six years.
 
@@ -120,7 +121,6 @@ The event may be a chance finding or related to a mechanism currently not known 
 Hypotension
 
 This adverse reaction was reported as common in patients with controlled blood pressure who were treated with telmisartan for the reduction of cardiovascular morbidity on top of standard care.
-
 Hepatic function abnormal / liver disorder
 
 Most cases of hepatic function abnormal / liver disorder from post-marketing experience occurred in Japanese patients.

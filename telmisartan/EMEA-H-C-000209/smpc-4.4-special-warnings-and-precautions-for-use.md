@@ -66,11 +66,6 @@ The main risk factors for hyperkalaemia to be considered are:
 
 Close monitoring of serum potassium in at risk patients is recommended (see section 4.5).
 
-Sorbitol
-
-This medicinal product contains sorbitol (E420).
-Patients with rare hereditary problems of fructose intolerance should not take Micardis.
-
 Ethnic differences
 
 As observed for angiotensin converting enzyme inhibitors, telmisartan and the other angiotensin II receptor antagonists are apparently less effective in lowering blood pressure in black people than in non-blacks, possibly because of higher prevalence of low-renin states in the black hypertensive population.
@@ -78,3 +73,19 @@ As observed for angiotensin converting enzyme inhibitors, telmisartan and the ot
 Other
 
 As with any antihypertensive agent, excessive reduction of blood pressure in patients with ischaemic cardiopathy or ischaemic cardiovascular disease could result in a myocardial infarction or stroke.
+
+Sorbitol
+
+Micardis 20 mg tablets
+Micardis 20 mg tablets contain 84.32 mg sorbitol in each tablet.
+
+Micardis 40 mg tablets
+Micardis 40 mg tablets contain 168.64 mg sorbitol in each tablet.
+
+Micardis 80 mg tablets
+Micardis 80 mg tablets contain 337.28 mg sorbitol in each tablet.
+Patients with hereditary fructose intolerance (HFI) should not take this medicinal product.
+
+Sodium
+
+Each tablet contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.

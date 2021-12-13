@@ -16,6 +16,9 @@ The recommended dose is 80 mg once daily.
 It is not known whether doses lower than 80 mg of telmisartan are effective in reducing cardiovascular morbidity.
 When initiating telmisartan therapy for the reduction of cardiovascular morbidity, close monitoring of blood pressure is recommended, and if appropriate adjustment of medications that lower blood pressure may be necessary.
 
+Elderly
+No dose adjustment is necessary for elderly patients.
+
 Renal impairment
 
 Limited experience is available in patients with severe renal impairment or haemodialysis.
@@ -27,10 +30,6 @@ Hepatic impairment
 Micardis is contraindicated in patients with severe hepatic impairment (see section 4.3).
 In patients with mild to moderate hepatic impairment, the posology should not exceed 40 mg once daily (see section 4.4).
 
-Elderly
-
-No dose adjustment is necessary for elderly patients.
-
 Paediatric population
 
 The safety and efficacy of Micardis in children and adolescents aged below 18 years have not been established.
@@ -39,7 +38,7 @@ Currently available data are described in section 5.1 and 5.2 but no recommendat
 Method of administration
 
 Telmisartan tablets are for once-daily oral administration and should be taken with liquid, with or without food.
-Precautions to be taken before handling or administering the medicinal product.
 
+Precautions to be taken before handling or administering the medicinal product.
 Telmisartan should be kept in the sealed blister due to the hygroscopic property of the tablets.
 Tablets should be taken out of the blister shortly before administration (see section 6.6).

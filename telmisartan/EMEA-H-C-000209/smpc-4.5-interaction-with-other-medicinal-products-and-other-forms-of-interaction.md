@@ -20,6 +20,7 @@ Potassium sparing diuretics or potassium supplements
 Angiotensin II receptor antagonists such as telmisartan, attenuate diuretic induced potassium loss.
 Potassium sparing diuretics e.g. spirinolactone, eplerenone, triamterene, or amiloride, potassium supplements, or potassium-containing salt substitutes may lead to a significant increase in serum potassium.
 If concomitant use is indicated because of documented hypokalaemia, they should be used with caution and with frequent monitoring of serum potassium.
+
 Lithium
 
 Reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with angiotensin converting enzyme inhibitors, and with angiotensin II receptor antagonists, including telmisartan.
@@ -48,7 +49,6 @@ Other antihypertensive agents
 The blood pressure lowering effect of telmisartan can be increased by concomitant use of other antihypertensive medicinal products.
 
 Clinical trial data has shown that dual blockade of the renin-angiotensin-aldosterone-system (RAAS) through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren is associated with a higher frequency of adverse events such as hypotension, hyperkalaemia and decreased renal function (including acute renal failure) compared to the use of a single RAAS-acting agent (see sections 4.3, 4.4 and 5.1).
-
 Based on their pharmacological properties it can be expected that the following medicinal products may potentiate the hypotensive effects of all antihypertensives including telmisartan: Baclofen, amifostine.
 Furthermore, orthostatic hypotension may be aggravated by alcohol, barbiturates, narcotics, or antidepressants.
 

@@ -29,7 +29,6 @@ Telmisartan is characterised by biexponential decay pharmacokinetics with a term
 The maximum plasma concentration (Cmax) and, to a smaller extent, the area under the plasma concentration-time curve (AUC), increase disproportionately with dose.
 There is no evidence of clinically relevant accumulation of telmisartan taken at the recommended dose.
 Plasma concentrations were higher in females than in males, without relevant influence on efficacy.
-
 After oral (and intravenous) administration, telmisartan is nearly exclusively excreted with the faeces, mainly as unchanged compound.
 Cumulative urinary excretion is <1 % of dose.
 Total plasma clearance (Cltot) is high (approximately 1,000 ml/min) compared with hepatic blood flow (about 1,500 ml/min).
@@ -39,6 +38,7 @@ Paediatric population
 The pharmacokinetics of two doses of telmisartan were assessed as a secondary objective in hypertensive patients (n = 57) aged 6 to < 18 years after taking telmisartan 1 mg/kg or 2 mg/kg over a four-week treatment period.
 Pharmacokinetic objectives included the determination of the steady-state of telmisartan in children and adolescents, and investigation of age-related differences.
 Although the study was too small for a meaningful assessment of the pharmacokinetics of children under 12 years of age, the results are generally consistent with the findings in adults and confirm the non-linearity of telmisartan, particularly for Cmax.
+
 Gender
 
 Differences in plasma concentrations were observed, with Cmax and AUC being approximately 3- and 2-fold higher, respectively, in females compared to males.

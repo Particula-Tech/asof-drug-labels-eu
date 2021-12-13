@@ -15,7 +15,6 @@ Plasma aldosterone levels are decreased by telmisartan.
 Telmisartan does not inhibit human plasma renin or block ion channels.
 Telmisartan does not inhibit angiotensin converting enzyme (kininase II), the enzyme which also degrades bradykinin.
 Therefore it is not expected to potentiate bradykinin-mediated adverse effects.
-
 In human, an 80 mg dose of telmisartan almost completely inhibits the angiotensin II evoked blood pressure increase.
 The inhibitory effect is maintained over 24 hours and still measurable up to 48 hours.
 
@@ -58,6 +57,7 @@ The mean duration of follow up was 4 years and 8 months.
 No statistically significant difference in the incidence of the primary composite endpoint (cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, or hospitalization for congestive heart failure) was found [15.7 % in the telmisartan and 17.0 % in the placebo groups with a hazard ratio of 0.92 (95 % CI 0.81 - 1.05, p = 0.22)].
 There was evidence for a benefit of telmisartan compared to placebo in the pre-specified secondary composite endpoint of cardiovascular death, non-fatal myocardial infarction, and non-fatal stroke [0.87 (95 % CI 0.76 - 1.00, p = 0.048)].
 There was no evidence for benefit on cardiovascular mortality (hazard ratio 1.03, 95 % CI 0.85 - 1.24).
+
 Cough and angioedema were less frequently reported in patients treated with telmisartan than in patients treated with ramipril, whereas hypotension was more frequently reported with telmisartan.
 
 Combining telmisartan with ramipril did not add further benefit over ramipril or telmisartan alone.
@@ -79,7 +79,6 @@ ACE-inhibitors and angiotensin II receptor blockers should therefore not be used
 ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Disease Endpoints) was a study designed to test the benefit of adding aliskiren to a standard therapy of an ACE-inhibitor or an angiotensin II receptor blocker in patients with type 2 diabetes mellitus and chronic kidney disease, cardiovascular disease, or both.
 The study was terminated early because of an increased risk of adverse outcomes.
 Cardiovascular death and stroke were both numerically more frequent in the aliskiren group than in the placebo group and adverse events and serious adverse events of interest (hyperkalaemia, hypotension and renal dysfunction) were more frequently reported in the aliskiren group than in the placebo group.
-
 Paediatric population
 
 The safety and efficacy of Micardis in children and adolescents aged below 18 years have not been established.
