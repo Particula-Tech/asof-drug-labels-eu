@@ -9,7 +9,7 @@ Myocardial ischaemia
 Fatal cardiac arrest, life-threatening ventricular arrhythmias, and myocardial infarction may result from the ischaemia induced by pharmacologic stress agents like regadenoson.
 
 Regadenoson should be used with caution in patients with recent myocardial infarction.
-Radionuclide MPI clinical trials conducted with regadenoson excluded patients with recent (within 3 months) myocardial infarction.
+Single Photon Emission Computed Tomography (SPECT) MPI clinical trials conducted with regadenoson excluded patients with recent (within 3 months) myocardial infarction.
 Clinical trials for the measurement of FFR excluded patients with an acute myocardial infarction, or within 5 days of an acute myocardial infarction.
 
 Sinoatrial and atrioventricular nodal block
@@ -34,6 +34,7 @@ In post-marketing experience there have also been reports of cerebrovascular acc
 
 Risk of seizure
 Caution should be used when administering regadenoson to patients with a history of seizures or other risk factors for seizures, including the concomitant administration of medicinal products that lower seizure threshold (e.g. antipsychotics, antidepressants, theophyllines, tramadol, systemic steroids and quinolones).
+
 Aminophylline should be used with caution in patients with a history of seizures or who have other risk factors for seizures as it may prolong a seizure or cause multiple seizures because of its proconvulsant effect.
 Therefore administration of aminophylline solely for the purpose of terminating a seizure induced by regadenoson is not recommended.
 

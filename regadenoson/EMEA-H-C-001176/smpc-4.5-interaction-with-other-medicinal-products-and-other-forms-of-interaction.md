@@ -16,5 +16,6 @@ Regadenoson does not inhibit the metabolism of substrates for CYP1A2, CYP2C8, CY
 
 Regadenoson does not significantly inhibit the transporters OAT1, OAT3, OCT1, OATP1B1, OATP1B3, MATE1, MATE2-K, BCRP, P-gp, BSEP, ENT 1 or ENT2 at 1 µM.
 The data are insufficient to conclude about the risk of interactions at the level of these transporters given that a single concentration was evaluated in most instances.
+
 Regadenoson may have a modest inhibitory effect on the active renal transporter, OCT2, and has been found to be likely substrate for BCRP, ENT1 or ENT2 mediated transport.
 However, given the proposed duration of use, the effects of the drug transporters are unlikely to be clinically relevant.

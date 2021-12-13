@@ -18,7 +18,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 | Immune system disorders: |  |
 | --- | --- |
-| Uncommon | Hypersensitivity reactions including: Rash, urticaria, angioedema, anaphylaxis |
+| Uncommon | Hypersensitivity reactions including: Rash, urticaria, angioedema, anaphylaxis and/or throat tightness. |
 | Psychiatric disorders: |  |
 | Uncommon | Anxiety, insomnia |
 | Nervous system disorders: |  |
