@@ -29,9 +29,6 @@ Sub-optimal exposure
 Based on the data available it cannot be excluded that in the few cases of surgical interventions exceeding 4 hours, patients could be exposed to sub-optimal ertapenem concentrations and consequently to a risk of potential treatment failure.
 Therefore, caution should be exercised in such unusual cases.
 
-Excipient
-This medicinal product contains approximately 6.0 mEq (approximately 137 mg) of sodium per 1.0 g dose which should be taken into consideration by patients on a controlled sodium diet.
-
 Considerations for use in particular populations
 Experience in the use of ertapenem in the treatment of severe infections is limited.
 In clinical studies for the treatment of community-acquired pneumonia, in adults, 25 % of evaluable patients treated with ertapenem had severe disease (defined as pneumonia severity index > III).
@@ -45,3 +42,6 @@ Efficacy of ertapenem in the treatment of diabetic foot infections with concurre
 There is relatively little experience with ertapenem in children less than two years of age.
 In this age group, particular care should be taken to establish the susceptibility of the infecting organism(s) to ertapenem.
 No data are available in children under 3 months of age.
+
+Sodium
+This medicinal product contains approximately 137 mg sodium per 1.0 g dose, equivalent to 6.85 % of the WHO recommended maximum daily intake of 2 g sodium for an adult.
