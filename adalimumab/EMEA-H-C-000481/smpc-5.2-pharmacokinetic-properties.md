@@ -12,7 +12,7 @@ Following the administration of 0.8 mg/kg (maximum of 40 mg) subcutaneously ever
 In paediatric patients with moderate to severe CD, the open-label adalimumab induction dose was 160/80 mg or 80/40 mg at Weeks 0 and 2, respectively, dependent on a body weight cut-off of 40 kg.
 At Week 4, patients were randomised 1:1 to either the Standard Dose (40/20 mg eow) or Low Dose
 (20/10 mg eow) maintenance treatment groups based on their body weight.
-The mean (±SD) serum adalimumab trough concentrations achieved at Week 4 were 15.7 ± 6.6 μg/ml for patients ≥ 40 kg (160/80 mg) and 10.6 ± 6.1 μg/ml for patients < 40 kg (80/40 mg).
+The mean (±SD) serum adalimumab trough concentrations achieved at Week 4 were 15.7 ± 6.6 μg/ml for patients ≥40 kg (160/80 mg) and 10.6 ± 6.1 μg/ml for patients < 40 kg (80/40 mg).
 
 For patients who stayed on their randomised therapy, the mean (±SD) adalimumab trough concentrations at Week 52 were 9.5 ± 5.6 μg/ml for the Standard Dose group and 3.5 ± 2.2 μg/ml for the Low Dose group.
 The mean trough concentrations were maintained in patients who continued to receive adalimumab treatment eow for 52 weeks.
@@ -47,7 +47,7 @@ Mean steady-state trough levels of approximately 7 μg/ml were observed in Crohn
 
 In adult patients with uveitis, a loading dose of 80 mg adalimumab on Week 0 followed by 40 mg adalimumab every other week starting at Week 1, resulted in mean steady-state concentrations of approximately 8 to 10 μg/ml.
 
-Population pharmacokinetic and pharmacokinetic/pharmacodynamic modelling and simulation predicted comparable adalimumab exposure and efficacy in patients treated with 80 mg every other week when compared with 40 mg every week (including adult patients with RA, HS, UC, CD or Ps, patients with adolescent HS, and paediatric patients ≥ 40 kg with CD).
+Population pharmacokinetic and pharmacokinetic/pharmacodynamic modelling and simulation predicted comparable adalimumab exposure and efficacy in patients treated with 80 mg every other week when compared with 40 mg every week (including adult patients with RA, HS, UC, CD or Ps, patients with adolescent HS, and paediatric patients ≥40 kg with CD).
 
 Elimination
 
@@ -75,7 +75,7 @@ The mean steady-state trough concentration at Week 12 through Week 36 were appro
 Following the subcutaneous administration of body weight-based dosing of 0.6 mg/kg (maximum of 40 mg) every other week to paediatric patients with ulcerative colitis, the mean trough steady-state serum adalimumab concentration was 5.01±3.28 µg/ml at Week 52.
 For patients who received 0.6 mg/kg (maximum of 40 mg) every week, the mean (±SD) trough steady-state serum adalimumab concentration was 15.7±5.60 μg/ml at Week 52.
 
-Population pharmacokinetic and pharmacokinetic/pharmacodynamic modelling and simulation predicted comparable adalimumab exposure and efficacy in patients treated with 80 mg every other week when compared with 40 mg every week (including adult patients with RA, HS, UC, CD or Ps, patients with adolescent HS, and paediatric patients ≥ 40 kg with CD and UC).
+Population pharmacokinetic and pharmacokinetic/pharmacodynamic modelling and simulation predicted comparable adalimumab exposure and efficacy in patients treated with 80 mg every other week when compared with 40 mg every week (including adult patients with RA, HS, UC, CD or Ps, patients with adolescent HS, and paediatric patients ≥40 kg with CD and UC).
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
@@ -83,7 +83,7 @@ In patients with polyarticular JIA who were 2 to <4 years old or aged 4 and abov
 
 Following subcutaneous administration of 40 mg of adalimumab every other week in adult non-radiographic axial spondyloarthritis patients, the mean (±SD) trough steady-state concentration at Week 68 was 8.0 ± 4.6 μg/ml.
 
-The mean (±SD) serum adalimumab trough concentrations achieved at Week 4 were 15.7±6.6 μg/ml for patients ≥ 40 kg
+The mean (±SD) serum adalimumab trough concentrations achieved at Week 4 were 15.7±6.6 μg/ml for patients ≥40 kg
 (160/80 mg) and 10.6±6.1 μg/ml for patients < 40 kg (80/40 mg).
 
 For patients who stayed on their randomised therapy, the mean (±SD) adalimumab trough concentrations at Week 52 were 9.5±5.6μg/ml for the Standard Dose group and 3.5±2.2 μg/ml for the Low Dose group.

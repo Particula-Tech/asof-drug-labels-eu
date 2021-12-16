@@ -84,8 +84,8 @@ Humira Dose for Paediatric Patients with Crohn’s disease
 
 | Patient Weight | Induction Dose | Maintenance Dose Starting at Week 4 |
 | --- | --- | --- |
-| < 40 kg | • 40 mg at week 0 and 20 mg at week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: • 80 mg at week 0 and 40 mg at week 2 | 20 mg every other week |
-| ≥ 40 kg | • 80 mg at week 0 and 40 mg at week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: • 160 mg at week 0 and 80 mg at week 2 | 40 mg every other week |
+| < 40 kg | •40 mg at week 0 and 20 mg at week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: •80 mg at week 0 and 40 mg at week 2 | 20 mg every other week |
+| ≥ 40 kg | •80 mg at week 0 and 40 mg at week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: •160 mg at week 0 and 80 mg at week 2 | 40 mg every other week |
 
 Patients who experience insufficient response may benefit from an increase in dosage:
 
@@ -108,13 +108,17 @@ In paediatric uveitis, there is no experience in the treatment with Humira witho
 Table 5.
 Humira Dose for Paediatric Patients with Uveitis
 
-| Patient Weight | Dosing Regimen |
-| --- | --- |
-| < 30 kg | 20 mg every other week in combination with methotrexate |
-| ≥ 30 kg | 40 mg every other week in combination with methotrexate |
+Patient Weight Dosing Regimen
+< 30 kg 20 mg every other week in
+
+combination with methotrexate
+
+≥ 30 kg 40 mg every other week in
+
+combination with methotrexate
 
 When Humira therapy is initiated, a loading dose of 40 mg for patients < 30 kg or 80 mg for patients
-≥ 30 kg may be administered one week prior to the start of maintenance therapy.
+≥30 kg may be administered one week prior to the start of maintenance therapy.
 No clinical data are available on the use of a Humira loading dose in children < 6 years of age (see section 5.2).
 There is no relevant use of Humira in children aged less than 2 years in this indication.
 
@@ -159,9 +163,9 @@ There is no relevant use of Humira in children aged less than 12 years in this i
 
 | Patient Weight | Induction Dose | Maintenance Dose Starting at Week 4 |
 | --- | --- | --- |
-| < 40 kg | • 40 mg at week 0 and 20 mg at week 2 | 20 mg every other week |
-|  | In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: • 80 mg at week 0 and 40 mg at week 2 |  |
-| ≥ 40 kg | • 80 mg at week 0 and 40 mg at week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: • 160 mg at week 0 and 80 mg at week 2 | 40 mg every other week |
+| < 40 kg | •40 mg at week 0 and 20 mg at week 2 | 20 mg every other week |
+|  | In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: •80 mg at week 0 and 40 mg at week 2 |  |
+| ≥ 40 kg | •80 mg at week 0 and 40 mg at week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: •160 mg at week 0 and 80 mg at week 2 | 40 mg every other week |
 
 Paediatric ulcerative colitis
 
@@ -172,7 +176,7 @@ Humira Dose for Paediatric Patients with Ulcerative Colitis
 | Patient Weight | Induction Dose | Maintenance Dose Starting at Week 4* |
 | --- | --- | --- |
 | < 40 kg | • 80 mg at Week 0 (given as two 40 mg injections in one day) and • 40 mg at Week 2 (given as one 40 mg injection) | • 40 mg every other week |
-| ≥ 40 kg | • 160 mg at Week 0 (given as four 40 mg injections in one day or two 40 mg injections per day for two consecutive days) and • 80 mg at Week 2 (given as two 40 mg injections in one day) | • 80 mg every other week |
+| ≥40 kg | • 160 mg at Week 0 (given as four 40 mg injections in one day or two 40 mg injections per day for two consecutive days) and • 80 mg at Week 2 (given as two 40 mg injections in one day) | • 80 mg every other week |
 
 * Paediatric patients who turn 18 years of age while on Humira should continue their prescribed maintenance dose.
 
@@ -184,14 +188,6 @@ Humira may be available in different strengths and/or presentations depending on
 The recommended dose of Humira for paediatric patients with uveitis from 2 years of age is based on body weight (Table 6).
 
 Table 6.
-
-| Patient Weight | Dosing Regimen |
-| --- | --- |
-| < 30 kg | 20 mg every other week in combination with methotrexate |
-
-≥ 30 kg 40 mg every other week in
-
-combination with methotrexate
 
 When Humira therapy is initiated, a loading dose of 40 mg for patients < 30 kg or 80 mg for patients ≥ 30 kg may be administered one week prior to the start of maintenance therapy.
 
@@ -279,10 +275,6 @@ There is no relevant use of Humira in the paediatric population for the indicati
 [Humira 40 mg solution for injection in pre-filled syringe (SmPC 4)]
 
 Some patients who experience decrease in their response to 40 mg every other week may benefit from an increase in dosage to 40 mg Humira every week or 80 mg every other week.
-
-| Patient Weight | Dosing Regimen |
-| --- | --- |
-| 15 kg to < 30 kg | Initial dose of 20 mg, followed by 20 mg given every other week starting one week after the initial dose |
 
 | Patient Weight | Induction Dose | Maintenance Dose Starting at Week 4* |
 | --- | --- | --- |

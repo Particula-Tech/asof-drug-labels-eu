@@ -95,7 +95,7 @@ In the post marketing setting, cases of leukaemia have been reported in patients
 There is an increased background risk for lymphoma and leukaemia in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates the risk estimation.
 With the current knowledge, a possible risk for the development of lymphomas, leukaemia, and other malignancies in patients treated with a TNF-antagonist cannot be excluded.
 
-Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-antagonists (initiation of therapy ≤ 18 years of age), including adalimumab in the post marketing setting.
+Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-antagonists (initiation of therapy ≤18 years of age), including adalimumab in the post marketing setting.
 Approximately half the cases were lymphomas.
 The other cases represented a variety of different malignancies and included rare malignancies usually associated with immunosuppression.
 A risk for the development of malignancies in children and adolescents treated with TNF-antagonists cannot be excluded.
@@ -186,6 +186,8 @@ See Vaccinations above.
 Administration of Humira should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infection is controlled.
 
 If latent tuberculosis is diagnosed, appropriate treatment must be started with anti-tuberculosis prophylaxis treatment before the initiation of Humira, and in accordance with local recommendations.
+
+Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-antagonists (initiation of therapy ≤ 18 years of age), including adalimumab in the post marketing setting.
 
 Excipients with known effects
 
