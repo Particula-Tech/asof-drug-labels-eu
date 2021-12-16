@@ -2,7 +2,7 @@
 
 Absorption
 After oral administration of 20 mg/kg of hydroxycarbamide, a rapid absorption is observed with peak plasma levels of about 30 mg/L occurring after 0.75 and 1.2 h in children and adult patients with sickle cell syndrome, respectively.
-The total exposure up to 24 h post-dose is 124 mg*h/L in children and adolescents and 135 mg*h/L in adult patients.
+The total exposure up to 24 h post-dose is 124 mg.h/L in children and adolescents and 135 mg.h/L in adult patients.
 The oral bioavailability of hydroxycarbamide is almost complete as assessed in indications other than sickle cell syndrome.
 
 Distribution
@@ -37,9 +37,9 @@ In paediatric patients, the half-life was slightly longer and the total clearanc
 Renal impairment
 As renal excretion is a pathway of elimination, consideration should be given to decreasing the dose of Siklos in patients with renal impairment.
 In an open single-dose study in adult patients with sickle cell syndrome (Yan JH et al, 2005) the influence of renal function on pharmacokinetics of hydroxycarbamide was assessed.
-Patients with normal (creatinine clearance CrCl>80 ml/min), mild (CrCl 60–80 ml/min), moderate (CrCl 30 - 60 ml/min), or severe (<30 ml/min) renal impairment received hydroxycarbamide as a single dose of 15 mg/kg b.w. by using 200 mg, 300 mg, or 400 mg capsules.
-In patients, whose CrCl was below 60 ml/min or patients with end-stage renal disease the mean exposure to hydroxycarbamide was approximately 64% higher than in patients with normal renal function.
-As evaluated in a further study, in patients with a CrCl<60 ml/min the area under the curve was approximately 51% higher than in patients with a CrCl ≥60 ml/min, which suggests that a dose reduction of hydroxycarbamide by 50% may be appropriate in patients with a CrCl < 60 ml/min.
+Patients with normal (creatinine clearance CrCl>80 mL/min), mild (CrCl 60–80 mL/min), moderate (CrCl 30 - 60 mL/min), or severe (<30 mL/min) renal impairment received hydroxycarbamide as a single dose of 15 mg/kg b.w. by using 200 mg, 300 mg, or 400 mg capsules.
+In patients, whose CrCl was below 60 mL/min or patients with end-stage renal disease the mean exposure to hydroxycarbamide was approximately 64% higher than in patients with normal renal function.
+As evaluated in a further study, in patients with a CrCl<60 mL/min the area under the curve was approximately 51% higher than in patients with a CrCl ≥60 mL/min, which suggests that a dose reduction of hydroxycarbamide by 50% may be appropriate in patients with a CrCl < 60 mL/min.
 Haemodialysis reduced the exposure to hydroxycarbamide by 33% (see sections 4.2 and 4.4).
 Close monitoring of blood parameters is advised in these patients.
 

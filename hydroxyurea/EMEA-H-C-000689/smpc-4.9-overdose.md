@@ -5,4 +5,5 @@ Soreness, violet erythema, oedema on palms and soles followed by scaling of hand
 
 In patients with sickle cell syndrome, severe bone marrow depression was reported in isolated cases of hydroxycarbamide overdose between 2 and 10 times the prescribed dose (up to 8.57 times of the maximum recommended dose of 35 mg/kg b.w./day).
 It is recommended that blood counts are monitored for several weeks after overdose since recovery may be delayed.
+
 Treatment of overdose consists of gastric lavage, followed by symptomatic treatment and control of bone marrow function.

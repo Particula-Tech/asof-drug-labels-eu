@@ -19,10 +19,10 @@ The dose of Siklos may then be increased again under close haematological monito
 A dose producing haematological toxicity should not be tried more than two times.
 
 The toxic range may be characterised by the following results of blood tests:
-Neutrophils < 1,500/mm3
-Platelets < 80,000/mm3
-Haemoglobin < 4.5 g/dl
-Reticulocytes < 80,000/mm3 if the haemoglobin concentration < 9 g/dl
+Neutrophils < 1 500/mm3
+Platelets < 80 000/mm3
+Haemoglobin < 4.5 g/dL
+Reticulocytes < 80 000/mm3 if the haemoglobin concentration < 9 g/dL
 
 Long-term data on the continued use of hydroxycarbamide in patients with sickle cell syndrome are available in children and adolescents, with a follow-up of 12 years in children and adolescents and over 13 years in adults.
 It is currently unknown how long patients should be treated with Siklos.
@@ -31,13 +31,15 @@ The duration of treatment is the responsibility of the prescribing physician and
 Special populations
 
 Children less than 2 years of age
-Because of the scarce long term data on the treatment with hydroxycarbamide in children less than 2 years of age, dose regimens have not been established and thus, in this population, the treatment with hydroxycarbamide is not recommended.
+The safety and efficacy of hydroxycarbamide in children from birth up to 2 years have not yet been established.
+Limited data suggest that 20 mg/kg/d reduced painful episodes and were safe in children less than 2 years of age but safety of long-term treatment remains to be established.
+Therefore no recommendation on a posology can be made.
 
 Renal impairment
 As renal excretion is a main pathway of elimination, a dose reduction of Siklos should be considered in patients with renal impairment.
-In patients with creatinine clearance ≤ 60 ml/min, the initial Siklos dose should be decreased by 50%.
+In patients with creatinine clearance ≤ 60 mL/min, the initial Siklos dose should be decreased by 50%.
 Close monitoring of blood parameters is advised in these patients.
-Siklos must not be administered to patients with severe renal impairment (creatinine clearance < 30 ml/min) (see sections 4.3, 4.4 and 5.2).
+Siklos must not be administered to patients with severe renal impairment (creatinine clearance < 30 mL/min) (see sections 4.3, 4.4 and 5.2).
 
 Hepatic impairment
 There are no data that support specific dose adjustments in patients with hepatic impairment.

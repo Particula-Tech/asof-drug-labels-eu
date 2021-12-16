@@ -8,14 +8,11 @@ The evaluation of the risk-benefit ratio should be made on an individual basis t
 
 Pregnancy
 Studies in animals have shown reproductive toxicity (see section 5.3).
-Patients on hydroxycarbamide should be made aware of the theoretical risks to the foetus.
+Patients on hydroxycarbamide should be made aware of the risks to the foetus.
+There is limited amount of data from the use of hydroxycarbamide in pregnant women.
+Siklos is not recommended during pregnancy.
 
-In humans, according to a prospective study including 635 females of childbearing potential treated with hydroxycarbamide, 110 pregnancies were reported in 101 women exposed to hydroxycarbamide during pregnancy.
-Additionally, 12 partners of men treated with hydroxycarbamide became pregnant.
-Most (64%) resulted in live birth.
-Thus, based on the data from a limited number of exposed pregnancies, no adverse effects on the mother or on the foetus/newborn was evidenced.
-
-Because of limited information, in case of an exposure to hydroxycarbamide of pregnant female patients or pregnant partners of male patients, treated by hydroxycarbamide, careful follow-up with adequate clinical, biological and ultrasonographic examinations should be considered.
+The patient should be instructed to immediately contact a doctor in case of suspected pregnancy.
 
 Breast-feeding
 Hydroxycarbamide is excreted in human milk.
