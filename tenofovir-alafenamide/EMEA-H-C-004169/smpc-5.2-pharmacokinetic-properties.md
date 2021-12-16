@@ -28,10 +28,10 @@ Renal excretion of intact tenofovir alafenamide is a minor pathway with < 1% of 
 Tenofovir alafenamide is mainly eliminated following metabolism to tenofovir.
 Tenofovir alafenamide and tenofovir have a median plasma half-life of 0.51 and 32.37 hours, respectively.
 Tenofovir is renally eliminated from the body by the kidneys by both glomerular filtration and active tubular secretion.
+
 Linearity/non-linearity
 
 Tenofovir alafenamide exposures are dose proportional over the dose range of 8 to 125 mg.
-
 Pharmacokinetics in special populations
 
 Age, gender and ethnicity
@@ -43,12 +43,12 @@ In patients with severe hepatic impairment, total plasma concentrations of tenof
 When corrected for protein binding, unbound (free) plasma concentrations of tenofovir alafenamide in severe hepatic impairment and normal hepatic function are similar.
 
 Renal impairment
-No clinically relevant differences in tenofovir alafenamide or tenofovir pharmacokinetics were observed between healthy subjects and patients with severe renal impairment (estimated CrCl > 15 but < 30 mL/min) in studies of tenofovir alafenamide (Table 10).
+No clinically relevant differences in tenofovir alafenamide or tenofovir pharmacokinetics were observed between healthy subjects and patients with severe renal impairment (estimated CrCl > 15 but < 30 mL/min) in studies of tenofovir alafenamide (Table 12).
 
-Exposures of tenofovir in subjects with ESRD (estimated creatinine clearance < 15 mL/min) on chronic haemodialysis who received tenofovir alafenamide (N = 5) were substantially higher than in subjects with normal renal function (Table 10).
+Exposures of tenofovir in subjects with ESRD (estimated creatinine clearance < 15 mL/min) on chronic haemodialysis who received tenofovir alafenamide (N = 5) were substantially higher than in subjects with normal renal function (Table 12).
 No clinically relevant differences in tenofovir alafenamide pharmacokinetics were observed in patients with ESRD on chronic haemodialysis as compared to those with normal renal function.
 
-Table 10: Pharmacokinetics of tenofovir alafenamide and its metabolite tenofovir in subjects with renal impairment as compared to subjects with normal renal function
+Table 12: Pharmacokinetics of tenofovir alafenamide and its metabolite tenofovir in subjects with renal impairment as compared to subjects with normal renal function
 
 |  | AUC (mcg•hour per mL) Mean (CV%) |  |  |
 | --- | --- | --- | --- |

@@ -2,14 +2,14 @@
 
 Interaction studies have only been performed in adults.
 
-Vemlidy should not be co-administered with medicinal products containing tenofovir disoproxil, tenofovir alafenamide or adefovir dipivoxil.
+This medicinal product should not be co-administered with medicinal products containing tenofovir disoproxil, tenofovir alafenamide or adefovir dipivoxil.
 
 Medicinal products that may affect tenofovir alafenamide
 
 Tenofovir alafenamide is transported by P-gp and breast cancer resistance protein (BCRP).
 Medicinal products that are P-gp inducers (e.g., rifampicin, rifabutin, carbamazepine, phenobarbital or
 St. John’s wort) are expected to decrease plasma concentrations of tenofovir alafenamide, which may lead to loss of therapeutic effect of Vemlidy.
-Co-administration of such medicinal products with Vemlidy is not recommended.
+Co-administration of such medicinal products with tenofovir alafenamide is not recommended.
 
 Co-administration of tenofovir alafenamide with medicinal products that inhibit P-gp and BCRP may increase plasma concentrations of tenofovir alafenamide.
 Co-administration of strong inhibitors of P-gp with tenofovir alafenamide is not recommended.
@@ -25,7 +25,7 @@ Tenofovir alafenamide is not an inhibitor of human uridine diphosphate glucurono
 It is not known whether tenofovir alafenamide is an inhibitor of other
 UGT enzymes.
 
-Drug interaction information for Vemlidy with potential concomitant medicinal products is summarised in Table 1 below (increase is indicated as “↑”, decrease as “↓”, no change as “↔”; twice daily as “b.i.d.”, single dose as “s.d.”, once daily as “q.d.”; and intravenously as “IV”).
+Drug interaction information for Vemlidy with potential concomitant medicinal products is summarised in Table 1 below (increase is indicated as “↑”, decrease as “↓”, no change as “↔”; twice daily as “b.i.d.”, single dose as “s.d.”, once daily as “q.d.”).
 The drug interactions described are based on studies conducted with tenofovir alafenamide, or are potential drug interactions that may occur with Vemlidy.
 
 Table 1: Interactions between Vemlidy and other medicinal products
@@ -36,8 +36,8 @@ Table 1: Interactions between Vemlidy and other medicinal products
 | Carbamazepine (300 mg orally, b.i.d.) Tenofovir alafenamidec (25 mg orally, s.d.) | Tenofovir alafenamide ↓ Cmax 0.43 (0.36, 0.51) ↓ AUC 0.45 (0.40, 0.51) Tenofovir ↓ Cmax 0.70 (0.65, 0.74) ↔ AUC 0.77 (0.74, 0.81) | Co-administration is not recommended. |
 | Oxcarbazepine Phenobarbital | Interaction not studied. Expected: ↓ Tenofovir alafenamide | Co-administration is not recommended. |
 | Phenytoin | Interaction not studied. Expected: ↓ Tenofovir alafenamide | Co-administration is not recommended. |
-| Midazolamd (2.5 mg orally, s.d.) Tenofovir alafenamidec (25 mg orally, q.d.) | Midazolam ↔ Cmax 1.02 (0.92, 1.13) ↔ AUC 1.13 (1.04, 1.23) | No dose adjustment of midazolam (administered orally or IV) is required. |
-| Midazolamd (1 mg IV, s.d.) Tenofovir alafenamidec (25 mg orally, q.d.) | Midazolam ↔ Cmax 0.99 (0.89, 1.11) ↔ AUC 1.08 (1.04, 1.14) |  |
+| Midazolamd (2.5 mg orally, s.d.) Tenofovir alafenamidec (25 mg orally, q.d.) | Midazolam ↔ Cmax 1.02 (0.92, 1.13) ↔ AUC 1.13 (1.04, 1.23) | No dose adjustment of midazolam (administered orally or intravenously) is required. |
+| Midazolamd (1 mg intravenously, s.d.) Tenofovir alafenamidec (25 mg orally, q.d.) | Midazolam ↔ Cmax 0.99 (0.89, 1.11) ↔ AUC 1.08 (1.04, 1.14) |  |
 | ANTIDEPRESSANTS |  |  |
 | Sertraline (50 mg orally, s.d.) Tenofovir alafenamidee (10 mg orally, q.d.) | Tenofovir alafenamide ↔ Cmax 1.00 (0.86, 1.16) ↔ AUC 0.96 (0.89, 1.03) Tenofovir ↔ Cmax 1.10 (1.00, 1.21) ↔ AUC 1.02 (1.00, 1.04) ↔ Cmin 1.01 (0.99, 1.03) | No dose adjustment of Vemlidy or sertraline is required. |
 | Sertraline (50 mg orally, s.d.) Tenofovir alafenamidee (10 mg orally, q.d.) | Sertraline ↔ Cmax 1.14 (0.94, 1.38) ↔ AUC 0.93 (0.77, 1.13) |  |

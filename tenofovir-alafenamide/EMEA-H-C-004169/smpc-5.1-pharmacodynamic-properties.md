@@ -10,7 +10,8 @@ Tenofovir alafenamide is primarily hydrolysed to form tenofovir by carboxylester
 Intracellular tenofovir is subsequently phosphorylated to the pharmacologically active metabolite tenofovir diphosphate.
 Tenofovir diphosphate inhibits HBV replication through incorporation into viral DNA by the
 HBV reverse transcriptase, which results in DNA chain termination.
-Tenofovir has activity that is specific to hepatitis B virus and human immunodeficiency virus (HIV-1 and HIV-2).
+
+Tenofovir has activity that is specific to HBV and HIV (HIV-1 and HIV-2).
 Tenofovir diphosphate is a weak inhibitor of mammalian DNA polymerases that include mitochondrial DNA polymerase γ and there is no evidence of mitochondrial toxicity in vitro based on several assays including mitochondrial DNA analyses.
 
 Antiviral activity
@@ -29,7 +30,6 @@ Week 48 (N = 20) and Week 96 (N = 72), no amino acid substitutions associated wi
 
 In virologically suppressed patients receiving tenofovir alafenamide following switch from tenofovir disoproxil treatment in Study 4018, through 96 weeks of tenofovir alafenamide treatment one patient in the TAF-TAF group experienced a virologic blip (one visit with HBV DNA ≥ 69 IU/mL) and one patient in the TDF-TAF group experienced a virologic breakthrough.
 No HBV amino acid substitutions associated with resistance to TAF or TDF were detected through 96 weeks of treatment.
-
 Cross-resistance
 The antiviral activity of tenofovir alafenamide was evaluated against a panel of isolates containing nucleos(t)ide reverse transcriptase inhibitor mutations in HepG2 cells.
 HBV isolates expressing the rtV173L, rtL180M, and rtM204V/I substitutions associated with resistance to lamivudine remained susceptible to tenofovir alafenamide (< 2-fold change in EC50).
@@ -39,7 +39,7 @@ The clinical relevance of these substitutions is not known.
 
 Clinical data
 
-The efficacy and safety of tenofovir alafenamide in patients with chronic hepatitis B are based on 48- and 96-week data from two randomised, double-blind, active-controlled studies, Study 108 and Study 110.
+The efficacy and safety of tenofovir alafenamide in patients with CHB are based on 48- and 96-week data from two randomised, double-blind, active-controlled studies, Study 108 and Study 110.
 The safety of tenofovir alafenamide is also supported by pooled data from patients in Studies 108 and 110 who remained on blinded treatment from Week 96 through Week 144 and additionally from patients in the open-label phase of Studies 108 and 110 from Week 96 through Week 144 (N = 360 remained on tenofovir alafenamide; N = 180 switched from tenofovir disoproxil to tenofovir alafenamide at Week 96).
 
 In Study 108, HBeAg-negative treatment-naïve and treatment-experienced patients with compensated liver function were randomised in a 2:1 ratio to receive tenofovir alafenamide (25 mg; N = 285) once daily or tenofovir disoproxil (245 mg; N = 140) once daily.
@@ -58,7 +58,6 @@ At baseline, mean plasma HBV DNA was 7.6 log10 IU/mL, mean serum ALT was 120 U/L
 The primary efficacy endpoint in both studies was the proportion of patients with plasma HBV DNA levels below 29 IU/mL at Week 48.
 Tenofovir alafenamide met the non-inferiority criteria in achieving HBV DNA less than 29 IU/mL when compared to tenofovir disoproxil.
 Treatment outcomes of Study 108 and Study 110 through Week 48 are presented in Table 3 and Table 4.
-
 Table 3: HBV DNA efficacy parameters at Week 48a
 
 |  | Study 108 (HBeAg-Negative) |  | Study 110 (HBeAg-Positive) |  |
@@ -82,6 +81,7 @@ TAF = tenofovir alafenamide a Missing = failure analysis.
 b Adjusted by baseline plasma HBV DNA categories and oral antiviral treatment status strata.
 c Treatment-naïve subjects received < 12 weeks of oral antiviral treatment with any nucleoside or nucleotide analogue including tenofovir disoproxil or tenofovir alafenamide.
 d Includes patients who discontinued for reasons other than an adverse event (AE), death or lack or loss of efficacy, e.g. withdrew consent, loss to follow-up, etc.
+
 Table 4: Additional efficacy parameters at Week 48a
 
 |  | Study 108 (HBeAg-Negative) |  | Study 110 (HBeAg-Positive) |  |
@@ -99,7 +99,6 @@ b The population used for analysis of ALT normalisation included only patients w
 Central laboratory ULN for ALT are as follows: ≤ 43 U/L for males aged 18 to < 69 years and ≤ 35 U/L for males ≥ 69 years; ≤ 34 U/L for females 18 to < 69 years and ≤ 32 U/L for females ≥ 69 years.
 c The population used for analysis of ALT normalisation included only patients with ALT above ULN of the 2016 American Association of the Study of Liver Diseases (AASLD) criteria (> 30 U/L males and > 19 U/L females) at baseline.
 d The population used for serology analysis included only patients with antigen (HBeAg) positive and antibody (HBeAb) negative or missing at baseline.
-
 Experience beyond 48 weeks in Study 108 and Study 110
 At Week 96, viral suppression as well as biochemical and serological responses were maintained with continued tenofovir alafenamide treatment (see Table 5).
 
@@ -123,6 +122,7 @@ c The population used for analysis of ALT normalisation included only patients w
 Central laboratory ULN for ALT are as follows: ≤ 43 U/L for males aged 18 to < 69 years and ≤ 35 U/L for males ≥ 69 years; ≤ 34 U/L for females 18 to < 69 years and ≤ 32 U/L for females ≥ 69 years.
 d The population used for analysis of ALT normalisation included only patients with ALT above ULN of the 2016 AASLD criteria (> 30 U/L males and > 19 U/L females) at baseline.
 e The population used for serology analysis included only patients with antigen (HBeAg) positive and antibody (HBeAb) negative or missing at baseline.
+
 Changes in measures of bone mineral density in Study 108 and Study 110
 In both studies tenofovir alafenamide was associated with smaller mean percentage decreases in bone mineral density (BMD; as measured by hip and lumbar spine dual energy X ray absorptiometry [DXA] analysis) compared to tenofovir disoproxil after 96 weeks of treatment.
 
@@ -134,11 +134,16 @@ In both studies tenofovir alafenamide was associated with smaller changes in ren
 
 In patients who remained on blinded treatment beyond Week 96 in Studies 108 and 110, changes from baseline in renal laboratory parameter values in each group at Week 144 were similar to those at Week 96.
 In the open-label phase of Studies 108 and 110, the mean (SD) change in serum creatinine from Week 96 to Week 144 was +0.002 (0.0924) mg/dL in those who remained on tenofovir alafenamide, compared to -0.018 (0.0691) mg/dL in those who switched from tenofovir disoproxil to tenofovir alafenamide at Week 96.
-In the open-label phase, the median change in eGFR from
-Week 96 to Week 144 was -1.2 mL/min in patients who remained on tenofovir alafenamide, compared to +4.2 mL/min in patients who switched from tenofovir disoproxil to tenofovir alafenamide at Week 96.
+In the open-label phase, the median change in eGFR from Week 96 to Week 144 was -1.2 mL/min in patients who remained on tenofovir alafenamide, compared to
++4.2 mL/min in patients who switched from tenofovir disoproxil to tenofovir alafenamide at Week 96.
 
 Changes in lipid laboratory tests in Study 108 and Study 110
-For patients who switched to open label tenofovir alafenamide at Week 96, changes from double-blind baseline for patients randomised initially to tenofovir alafenamide and tenofovir disoproxil at Week 96 and Week 144 in total cholesterol, HDL-cholesterol, LDL-cholesterol, triglycerides, and total cholesterol to HDL ratio are presented in Table 6.
+In a pooled analysis of Studies 108 and 110, median changes in fasting lipid parameters from baseline to Week 96 were observed in both treatment groups.
+For patients who switched to open label tenofovir alafenamide at Week 96, changes from double-blind baseline for patients randomised initially to tenofovir alafenamide and tenofovir disoproxil at Week 96 and Week 144 in total cholesterol, high density lipid (HDL)-cholesterol, low density lipid (LDL)-cholesterol, triglycerides, and total cholesterol to HDL ratio are presented in Table 6.
+At Week 96, the end of the double-blind phase, decreases in median fasting total cholesterol and HDL, and increases in median fasting direct LDL and triglycerides were observed in the tenofovir alafenamide group, while the tenofovir disoproxil group demonstrated median reductions in all parameters.
+
+In the open-label phase of Studies 108 and 110, where patients switched to open-label tenofovir alafenamide at Week 96, lipid parameters at Week 144 in patients who remained on tenofovir alafenamide were similar to those at Week 96, whereas median increases in fasting total cholesterol, direct LDL, HDL, and triglycerides were observed in patients who switched from tenofovir disoproxil to tenofovir alafenamide at Week 96.
+In the open label phase, median (Q1, Q3) change from Week 96 to Week 144 in total cholesterol to HDL ratio was 0.0 (-0.2, 0.4) in patients who remained on tenofovir alafenamide and 0.2 (-0.2, 0.6) in patients who switched from tenofovir disoproxil to tenofovir alafenamide at Week 96.
 
 Table 6: Median changes from double-blind baseline in lipid laboratory tests at Weeks 96 and 144 for patients who switched to open-label tenofovir alafenamide at Week 96
 
@@ -180,6 +185,7 @@ Tenofovir alafenamide was non-inferior in the proportion of subjects with HBV DN
 Treatment outcomes (HBV DNA < 20 IU/mL by missing=failure) at Week 48 between treatment groups were similar across subgroups by age, sex, race, baseline HBeAg status, and ALT.
 
 Treatment outcomes of Study 4018 at Week 48 and Week 96 are presented in Table 7 and Table 8.
+
 Table 7: HBV DNA efficacy parameters at Week 48a,b and Week 96b,c
 
 |  | TAF (N=243) | TDF (N=245) | TAF-TAF (N=243) | TDF-TAF (N=245) |
@@ -222,6 +228,7 @@ c. Proportion of patients at Week 48: TAF, 16/32; TDF, 7/19.
 d. Proportion of patients at Week 96: TAF, 18/32; TDF, 15/19.
 e. The population used for analysis of ALT normalization included only patients with ALT above ULN of the 2018 American Association of the Study of Liver Diseases (AASLD) criteria (35 U/L males and 25 U/L females) at baseline. f. Proportion of patients at Week 48: TAF, 26/52; TDF, 14/53.
 g. Proportion of patients at Week 96: TAF, 29/52; TDF, 39/53 h. The population used for serology analysis included only patients with antigen (HBeAg) positive and anti-body (HBeAb) negative or missing at baseline.
+
 Changes in bone mineral density in Study 4018
 The mean percentage change in BMD from baseline to Week 48 as assessed by DXA was +1.7% with tenofovir alafenamide compared to −0.1% with tenofovir disoproxil at the lumbar spine and +0.7% compared to −0.5% at the total hip.
 BMD declines of greater than 3% at the lumbar spine were experienced by 4% of tenofovir alafenamide patients and 17% of tenofovir disoproxil patients at Week 48.
@@ -254,11 +261,62 @@ Table 9: Median changes in lipid laboratory tests at Week 48 and Week 96
 TDF = tenofovir disoproxil
 TAF = tenofovir alafenamide a. P-value was calculated for the difference between the TAF and TDF groups at Week 48, from Wilcoxon Rank Sum test and was statistically significant (p < 0.001) for median changes (Q1, Q3) from baseline in total cholesterol, HDL-cholesterol, LDL-cholesterol, triglycerides and total cholesterol to HDL ratio.
 b. Number of patients for triglycerides (fasted) for TAF group was N=235 at baseline, N=225 at Week 48 and N=218 for TAF-TAF group at Week 96.
+
 Renal and/or hepatic impairment Study 4035
-Study 4035 is an ongoing open-label clinical study to evaluate the efficacy and safety of switching from another antiviral regimen to tenofovir alafenamide in virologically suppressed chronic HBV-infected patients.
-Part A of the study includes patients with moderate to severe renal impairment (eGFR by Cockcroft-Gault method between 15 and 59 mL/min; Cohort 1, N = 78) or ESRD (eGFR by Cockcroft-Gault method < 15 mL/min) on hemodialysis (Cohort 2, N = 15).
-Part B of the study includes patients (N = 31) with moderate to severe hepatic impairment (Child-Pugh Class B or C at screening or a history of CPT score ≥ 7 with any CPT score ≤ 12 at screening).
-The final clinical and laboratory outcomes will be reported following study completion at Week 96.
+Study 4035 was an open-label clinical study to evaluate the efficacy and safety of switching from another antiviral regimen to tenofovir alafenamide in virologically suppressed chronic HBV-infected patients.
+Part A of the study included patients with moderate to severe renal impairment (eGFR by Cockcroft-Gault method between 15 and 59 mL/min; Cohort 1, N = 78) or ESRD (eGFR by Cockcroft-Gault method < 15 mL/min) on hemodialysis (Cohort 2, N = 15).
+Part B of the study included patients (N = 31) with moderate or severe hepatic impairment (Child-Pugh Class B or C at screening or a history of CPT score ≥ 7 with any CPT score ≤ 12 at screening).
+
+The primary endpoint was the proportion of subjects with HBV DNA < 20 IU/mL at Week 24.
+Secondary efficacy endpoints at Weeks 24 and 96 included the proportion of subjects with HBV DNA < 20 IU/mL and target detected/not detected (ie, < LLOD), the proportion of subjects with biochemical response (normal ALT and normalized ALT), the proportion of subjects with serological response (loss of HBsAg and seroconversion to anti-HBs and loss of HBeAg and seroconversion to anti-HBe in HBeAg-positive subjects) and change from baseline in CPT and Model for End Stage Liver Disease (MELD) scores for hepatically impaired subjects in Part B.
+
+Renally impaired adult patients in Study 4035, Part A
+At baseline, 98% (91/93) of patients in Part A had HBV DNA < 20 IU/mL and 66% (61/93) had an undetectable HBV DNA level.
+Median age was 65 years, 74% were male, 77% were Asian, 16% were White, and 83% were HBeAg-negative.
+The most commonly used HBV medication oral antivirals included TDF (N = 58), lamivudine (N = 46), adefovir dipivoxil (N = 46), and entecavir (N = 43).
+At baseline, 97% and 95% of patients had ALT ≤ ULN based on central laboratory criteria and 2018 AASLD criteria, respectively; median eGFR by Cockcroft-Gault was 43.7 mL/min (45.7 mL/min in Cohort 1 and 7.32 mL/min in Cohort 2); and 34% of patients had a history of cirrhosis.
+Treatment outcomes of Study 4035 Part A at Weeks 24 and 96 are presented in Table 10.
+
+Table 10: Efficacy parameters for Renally Impaired Patients at Weeks 24 and 96
+
+|  | Cohort 1a (N=78) |  | Cohort 2b (N= 15) |  | Total (N=93) |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Week 24 | Week 96 | Week 24 | Week 96 | Week 24 | Week 96d |
+| HBV DNAc |  |  |  |  |  |  |
+| HBV DNA < 20 IU/mL | 76/78 (97.4%) | 65/78 (83.3%) | 15/15 (100.0%) | 13/15 (86.7%) | 91/93 (97.8%) | 78/93 (83.9%) |
+| ALTc |  |  |  |  |  |  |
+| Normal ALT (Central Lab) | 72/78 (92.3%) | 64/78 (82.1%) | 14/15 (93.3%) | 13/15 (86.7%) | 86/93 (92.5%) | 77/93 (82.8%) |
+| Normal ALT (AASLD)e | 68/78 (87.2%) | 58/78 (74.4%) | 14/15 (93.3%) | 13/15 (86.7%) | 82/93 (88.2%) | 71/93 (76.3%) |
+
+a. Part A Cohort 1 includes patients with moderate or severe renal impairment b. Part A Cohort 2 includes patients with ESRD on hemodialysis c. Missing = Failure analysis d. The denominator includes 12 subjects (11 for Cohort 1 and 1 for Cohort 2) who prematurely discontinued study drug.
+e. 2018 American Association of the Study of Liver Diseases (AASLD) criteria
+
+Hepatically impaired adult patients in Study 4035, Part B
+At baseline, 100% (31/31) of patients in Part B had baseline HBV DNA < 20 IU/mL and 65% (20/31) had an undetectable HBV DNA level.
+Median age was 57 years (19% ≥ 65 years), 68% were male, 81% were Asian, 13% were White, and 90% were HBeAg-negative.
+The most commonly used HBV medication oral antivirals included TDF (N = 21), lamivudine (N = 14), entecavir (N = 14), and adefovir dipivoxil (N = 10).
+At baseline, 87% and 68% of patients had ALT ≤ ULN based on central laboratory criteria and 2018 AASLD criteria, respectively; median eGFR by Cockcroft-Gault was 98.5 mL/min; 97% of patients had a history of cirrhosis, median (range) CPT score was 6 (5−10), and median (range) MELD score was 10 (6−17).
+
+Treatment outcomes of Study 4035 Part B at Weeks 24 and 96 are presented in Table 11.
+
+Table 11: Efficacy parameters for Hepatically Impaired Patients at Weeks 24 and 96
+
+|  | Part B (N=31) |  |
+| --- | --- | --- |
+|  | Week 24 | Week 96b |
+| HBV DNAa |  |  |
+| HBV DNA < 20 IU/mL | 31/31 (100.0%) | 24/31 (77.4%) |
+| ALTa |  |  |
+| Normal ALT (Central Lab) | 26/31 (83.9%) | 22/31 (71.0%) |
+| Normal ALT (AASLD)c | 25/31 (80.6%) | 18/31 (58.1%) |
+| CPT and MELD Score |  |  |
+| Mean change from Baseline in CPT Score (SD) | 0 (1.1) | 0 (1.2) |
+| Mean Change from Baseline in MELD Score (SD) | -0.6 (1.94) | -1.0 (1.61) |
+
+CPT = Child-Pugh Turcotte;
+MELD = Model for End-Stage Liver Disease a. Missing = Failure analysis b. The denominator includes 6 subjects who prematurely discontinued study drug c. 2018 American Association of the Study of Liver Diseases (AASLD) criteria
+Changes in lipid laboratory tests in Study 4035
+Small median increases from baseline to Week 24 and Week 96 in total cholesterol, HDL-cholesterol, LDL-cholesterol, triglycerides, and total cholesterol to HDL ratio among patients with renal or hepatic impairment are consistent when compared with results observed from other studies involving switch to TAF (see section 5.1 for Studies 0108, 0110 and 4018), whereas decreases from baseline in total cholesterol, LDL-cholesterol, triglycerides, and total cholesterol to HDL ratio were observed in patients with ESRD on haemodialysis at Week 24 and Week 96.
 
 Paediatric population
 
