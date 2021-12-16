@@ -135,7 +135,8 @@ Table 8: Efficacy of SARCLISA in combination with carfilzomib and dexamethasone 
 | Endpoint | SARCLISA + carfilzomib + dexamethasone N =179 | Carfilzomib + dexamethasone N = 123 |
 | --- | --- | --- |
 | Progression-Free Survivala Median (months) [95% CI] Hazard ratiob [95% CI] p-value (Stratified Log-Rank test)b | NR 19.15 [NR -NR] [15.77-NR] 0.531 [0.318-0.889] 0.0013 |  |
-| Overall Response Ratec Responders (sCR+CR+VGPR+PR) [95% CI]d p-value (stratified Cochran-Mantel-Haenszel)b Complete Response (CR) Very Good Partial Response (VGPR) Partial Response (PR) | 86.6% 82.9% [0.8071-0.9122] [0.7509-0.8911] 0.3859 39.7% 27.6% 33.0% 28.5% 14.0% 26.8% |  |
+| Overall Response Ratec Responders (sCR+CR+VGPR+PR) [95% CI]d p-value (stratified Cochran-Mantel-Haenszel)b Complete Response (CR) | 86.6% 82.9% [0.8071-0.9122] [0.7509-0.8911] 0.3859 39.7% 27.6% |  |
+| Very Good Partial Response (VGPR) Partial Response (PR) | 33.0% 28.5% 14.0% 26.8% |  |
 | VGPR or better (sCR+CR+VGPR) [95% CI]d p-value (stratified Cochran-Mantel-Haenszel)b e CRf [95% CI]d | 72.6% 56.1% [0.6547-0.7901] [0.4687 -0.6503] 0.0021 39.7% 27.6% [0.3244-0.4723] [0.1996 to 0.3643] |  |
 | Minimal Residual Disease negative rateg [95% CI]d p-value (stratified Cochran-Mantel-Haenszel)b e | 29.6% 13.0% [0.2303-0.3688] [0.0762-0.2026] 0.0008 |  |
 | Duration of Responseh *(PR or better) Median in months [95% CI]i Hazard ratiob [95% CI] | NR [NR-NR] NR [14.752-NR] 0.425 [0.269-0.672] |  |

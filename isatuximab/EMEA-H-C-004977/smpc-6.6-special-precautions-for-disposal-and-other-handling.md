@@ -15,7 +15,7 @@ The preparation of the infusion solution must be done under aseptic conditions.
 
 Administration
 
-- The infusion solution must be administered by intravenous infusion using an intravenous tubing infusion set (in PE, PVC with or without DEHP, polybutadiene (PBD) or polyurethane (PU)) with an in-line filter (polyethersulfone (PES), polysulfone or nylon).
+- The infusion solution must be administered by intravenous infusion using an intravenous tubing infusion set (in PE, PVC with or without DEHP, polybutadiene (PBD) or polyurethane (PU)) with a 0.22 micron in-line filter (polyethersulfone (PES), polysulfone or nylon).
 - The infusion solution should be administered for a period of time that will depend on the infusion rate (see section 4.2).
 - No protection from light is required for the prepared infusion bag in a standard artificial light environment.
 - Do not infuse SARCLISA solution concomitantly in the same intravenous line with other agents.
