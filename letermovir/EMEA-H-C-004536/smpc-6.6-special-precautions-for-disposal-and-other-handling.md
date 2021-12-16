@@ -36,7 +36,9 @@ PREVYMIS should not be co-administered through the same intravenous line (or can
 List of compatible medicinal products when PREVYMIS and medicinal products* are prepared in 0.9% sodium chloride
 
 - Ampicillin sodium • Fluconazole
+
 - Ampicillin sodium/Sulbactam sodium • Human insulin
+
 - Anti-thymocyte globulin • Magnesium sulfate
 - Caspofungin • Methotrexate
 - Daptomycin • Micafungin

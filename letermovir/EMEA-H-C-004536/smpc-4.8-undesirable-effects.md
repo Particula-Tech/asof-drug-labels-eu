@@ -8,7 +8,7 @@ The most frequently reported adverse reactions that led to discontinuation of PR
 Tabulated summary of adverse reactions
 The following adverse reactions were identified in patients taking PREVYMIS in clinical trials.
 The adverse reactions are listed below by body system organ class and frequency.
-Frequencies are defined as follows: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000) or very rare (< 1/10,000).
+Frequencies are defined as follows: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) or very rare (< 1/10,000).
 Table 2: Adverse reactions identified with PREVYMIS
 
 Frequency Adverse reactions

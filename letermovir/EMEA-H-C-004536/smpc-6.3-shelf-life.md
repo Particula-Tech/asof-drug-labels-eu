@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-30 months
+3 years
 
 [PREVYMIS 240 mg concentrate for solution for infusion]
 

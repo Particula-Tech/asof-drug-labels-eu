@@ -67,8 +67,8 @@ Table 3: P001: Efficacy results in HSCT recipients (NC=F Approach, FAS Populatio
 
 | Parameter | Letermovir (N=325) n (%) | Placebo (N=170) n (%) |
 | --- | --- | --- |
-| Primary efficacy endpoint (Proportion of subjects who failed prophylaxis by Week 24) | 122 (37.5) | 103 (60.6) |
-| Reasons for Failures† Clinically significant CMV infection CMV DNAemia warranting anti-CMV PET CMV end-organ disease Discontinued from study Missing outcome | 57 (17.5) 52 (16.0) 5 (1.5) 56 (17.2) 9 (2.8) | 71 (41.8) 68 (40.0) 3 (1.8) 27 (15.9) 5 (2.9) |
+| Primary efficacy endpoint (Proportion of subjects who failed prophylaxis by Week 24) | 122 (37.5) | 1 0 3 ( 6 0 . 6 ) |
+| Reasons for Failures† Clinically significant CMV infection CMV DNAemia warranting anti-CMV PET CMV end-organ disease Discontinued from study Missing outcome | 57 (17.5) 52 (16.0) 5 (1.5) 56 (17.2) 9 (2.8) | 7 1 ( 4 1 . 8 ) 6 8 ( 4 0 . 0 ) 3 ( 1 . 8) 2 7 ( 1 5 . 9 ) 5 ( 2 . 9 ) |
 | Stratum-adjusted treatment difference (Letermovir-Placebo)§ Difference (95% CI) p-value | -23.5 (-32.5, -14.6) <0.0001 |  |
 | † The categories of failure are mutually exclusive and based on the hierarchy of categories in the order listed. § 95% CIs and p-value for the treatment differences in percent response were calculated using stratum-adjusted Mantel-Haenszel method with the difference weighted by the harmonic mean of sample size per arm for each stratum (high or low risk). A 1-sided p-value ≤0.0249 was used for declaring statistical significance. FAS=Full analysis set; FAS includes randomised subjects who received at least one dose of study medicine, and excludes subjects with detectable CMV DNA at baseline. Approach to handling missing values: Non-Completer=Failure (NC=F) approach. With NC=F approach, failure was defined as all subjects with clinically significant CMV infection or who prematurely discontinued from the study or had a missing outcome through Week 24 post-transplant visit window. N = number of subjects in each treatment group. n (%) = Number (percent) of subjects in each sub-category. Note: The proportion of subjects with detectable CMV viral DNA on Day 1 that developed clinically significant CMV infection in the letermovir group was 64.6% (31/48) compared to 90.9% (20/22) in the placebo group through Week 24 post-transplant. The estimated difference (95% CI for the difference) was -26.1% (-45.9%, -6.3%), with a nominal one-sided p-value <0.0048. |  |  |
 
@@ -138,7 +138,9 @@ Cyclosporin A (n=162, 90)
 Tacrolimus (n=145, 69)
 
 -70 -60 -50 -40 -30 -20 -10 0 10 20
+
 Favors Letermovir Favors Placebo
+
 Letermovir - Placebo Difference (%) and 95% C.I.
 
 NC=F, Non-Completer=Failure.
@@ -146,3 +148,12 @@ With NC=F approach, subjects who discontinued from the study prior to Week 24 po
 
 Paediatric population
 The European Medicines Agency has deferred the obligation to submit the results of studies with PREVYMIS in one or more subsets of the paediatric population for prophylaxis of cytomegalovirus infection (see section 4.2 for information on paediatric use).
+
+[PREVYMIS 240 mg concentrate for solution for infusion]
+
+| Parameter | Letermovir (N=325) n (%) | Placebo (N=170) n (%) |
+| --- | --- | --- |
+| Primary efficacy endpoint (Proportion of subjects who failed prophylaxis by Week 24) | 122 (37.5) | 1 0 3 ( 6 0 . 6 ) |
+| Reasons for Failures† Clinically significant CMV infection CMV DNAemia warranting anti-CMV PET CMV end-organ disease Discontinued from study Missing outcome | 57 (17.5) 52 (16.0) 5 (1.5) 56 (17.2) 9 (2.8) | 7 1 ( 4 1 . 8 ) 6 8 ( 4 0 . 0 ) 3 ( 1 . 8 ) 2 7 ( 1 5 . 9 ) 5 ( 2 . 9 ) |
+| Stratum-adjusted treatment difference (Letermovir-Placebo)§ Difference (95% CI) p-value | - 2 3 .5 (-32.5, -14.6) <0.0001 |  |
+| † The categories of failure are mutually exclusive and based on the hierarchy of categories in the order listed. § 95% CIs and p-value for the treatment differences in percent response were calculated using stratum-adjusted Mantel-Haenszel method with the difference weighted by the harmonic mean of sample size per arm for each stratum (high or low risk). A 1-sided p-value ≤0.0249 was used for declaring statistical significance. FAS=Full analysis set; FAS includes randomised subjects who received at least one dose of study medicine, and excludes subjects with detectable CMV DNA at baseline. Approach to handling missing values: Non-Completer=Failure (NC=F) approach. With NC=F approach, failure was defined as all subjects with clinically significant CMV infection or who prematurely discontinued from the study or had a missing outcome through Week 24 post-transplant visit window. N = number of subjects in each treatment group. n (%) = Number (percent) of subjects in each sub-category. Note: The proportion of subjects with detectable CMV viral DNA on Day 1 that developed clinically significant CMV infection in the letermovir group was 64.6% (31/48) compared to 90.9% (20/22) in the placebo group through Week 24 post-transplant. The estimated difference (95% CI for the difference) was -26.1% (-45.9%, -6.3%), with a nominal one-sided p-value <0.0048. |  |  |

@@ -127,10 +127,10 @@ When changing the route of administration, or if changing immunosuppressant, the
 | posaconazole‡ (300 mg single dose)/ letermovir (480 mg daily) | ↔ posaconazole AUC 0.98 (0.82, 1.17) Cmax 1.11 (0.95, 1.29) | No dose adjustment required. |
 | voriconazole‡ (200 mg twice daily)/ letermovir (480 mg daily) | ↓ voriconazole AUC 0.56 (0.51, 0.62) Cmax 0.61 (0.53, 0.71) (CYP2C9/19 induction) | If concomitant administration is necessary, TDM for voriconazole is recommended the first 2 weeks after initiating or ending letermovir, as well as after changing route of administration of letermovir or immunosuppressant. |
 | Antimycobacterials |  |  |
-| rifabutin | Interaction not studied. Expected: ↓letermovir (P-gp/UGT induction) | Rifabutin may decrease plasma concentrations of letermovir. Co-administration of PREVYMIS and rifabutin is not recommended. |
+| rifabutin | Interaction not studied. Expected: ↓ letermovir (P-gp/UGT induction) | Rifabutin may decrease plasma concentrations of letermovir. Co-administration of PREVYMIS and rifabutin is not recommended. |
 | rifampicin |  | Multiple dose rifampicin decreases plasma concentrations of letermovir. Co-administration of PREVYMIS and rifampicin is not recommended. |
 | (600 mg single dose PO)/ letermovir (480 mg single dose PO) | ↔letermovir AUC 2.03 (1.84, 2.26) Cmax 1.59 (1.46, 1.74) C24 2.01 (1.59, 2.54) (OATP1B1/3 and/or P-gp inhibition) |  |
-| (600 mg single dose IV)/ letermovir (480 mg single dose PO) | ↔letermovir AUC 1.58 (1.38, 1.81) Cmax 1.37 (1.16, 1.61) C24 0.78 (0.65, 0.93) (OATP1B1/3 and/or P-gp inhibition) |  |
+| (600 mg single dose IV)/ letermovir (480 mg single dose PO) | ↔ letermovir AUC 1.58 (1.38, 1.81) Cmax 1.37 (1.16, 1.61) C24 0.78 (0.65, 0.93) (OATP1B1/3 and/or P-gp inhibition) |  |
 | (600 mg once daily PO)/ letermovir (480 mg once daily PO) | ↓ letermovir AUC 0.81 (0.67, 0.98) Cmax 1.01 (0.79, 1.28) C24 0.14 (0.11, 0.19) (Sum of OATP1B1/3 and/or P-gp inhibition and P-gp/UGT induction) |  |
 | (600 mg once daily PO (24 hours after rifampicin))§/ letermovir (480 mg once daily PO) | ↓ letermovir AUC 0.15 (0.13, 0.17) Cmax 0.27 (0.22, 0.31) C24 0.09(0.06, 0.12) (P-gp/UGT induction) |  |
 | Antipsychotics |  |  |
@@ -198,7 +198,7 @@ When changing the route of administration, or if changing immunosuppressant, the
 | Proton pump inhibitors |  |  |
 | omeprazole | Interaction not studied. Expected: ↓omeprazole | Letermovir may decrease the plasma concentrations of CYP2C19 substrates. |
 |  | (induction of CYP2C19) Interaction not studied. Expected: ↔ letermovir | Clinical monitoring and dose adjustment may be needed. |
-| pantoprazole | Interaction not studied. Expected: ↓pantoprazole | Letermovir may decrease the plasma concentrations of CYP2C19 substrates. |
+| pantoprazole | Interaction not studied. Expected: ↓ pantoprazole | Letermovir may decrease the plasma concentrations of CYP2C19 substrates. |
 |  | (likely due to induction of CYP2C19) Interaction not studied. Expected: ↔ letermovir | Clinical monitoring and dose adjustment may be needed. |
 | Wakefulness-promoting agents |  |  |
 | modafinil | Interaction not studied. Expected: ↓ letermovir (P-gp/UGT induction) | Modafinil may decrease plasma concentrations of letermovir. Co-administration of PREVYMIS and modafinil is not recommended. |
@@ -212,8 +212,7 @@ Interaction studies have only been performed in adults.
 -An example of a medicinal product which is mainly eliminated by CYP2C8 is repaglinide (see Table 1).
 
 -Examples of medicinal products that are metabolised by CYP2B6 include bupropion.
--Examples of medicinal products metabolised by UGT1A1 are raltegravir and dolutegravir.
--Examples of medicinal products transported by BCRP include rosuvastatin and sulfasalazine.
+-Examples of medicinal products metabolised by UGT1A1 are raltegravir and dolutegravir. -Examples of medicinal products transported by BCRP include rosuvastatin and sulfasalazine.
 -An example of medicinal product transported by OATP2B1 is celiprolol.
 
 | Concomitant medicinal product | Effect on concentration† Mean ratio (90 % confidence interval) for AUC, Cmax (likely mechanism of action) | Recommendations concerning co-administration with PREVYMIS |
@@ -228,8 +227,8 @@ Interaction studies have only been performed in adults.
 | Antimycobacterials |  |  |
 | rifabutin | Interaction not studied. Expected: ↓ letermovir (P-gp/UGT induction) | Rifabutin may decrease plasma concentrations of letermovir. Co-administration of PREVYMIS and rifabutin is not recommended. |
 | Rifampicin |  | Multiple dose rifampicin decreases plasma concentrations of letermovir. Co-administration of PREVYMIS and rifampicin is not recommended. |
-| (600 mg single dose PO)/ letermovir (480 mg single dose PO) | ↔letermovir AUC 2.03 (1.84, 2.26) Cmax 1.59 (1.46, 1.74) C24 2.01 (1.59, 2.54) (OATP1B1/3 and/or P-gp inhibition) |  |
-| (600 mg single dose IV)/ letermovir (480 mg single dose PO) | ↔letermovir AUC 1.58 (1.38, 1.81) Cmax 1.37 (1.16, 1.61) C24 0.78 (0.65, 0.93) (OATP1B1/3 and/or P-gp inhibition) |  |
+| (600 mg single dose PO)/ letermovir (480 mg single dose PO) | ↔ letermovir AUC 2.03 (1.84, 2.26) Cmax 1.59 (1.46, 1.74) C24 2.01 (1.59, 2.54) (OATP1B1/3 and/or P-gp inhibition) |  |
+| (600 mg single dose IV)/ letermovir (480 mg single dose PO) | ↔ letermovir AUC 1.58 (1.38, 1.81) Cmax 1.37 (1.16, 1.61) C24 0.78 (0.65, 0.93) (OATP1B1/3 and/or P-gp inhibition) |  |
 | (600 mg once daily PO)/ letermovir (480 mg once daily PO) | ↓ letermovir AUC 0.81 (0.67, 0.98) Cmax 1.01 (0.79, 1.28) C24 0.14 (0.11, 0.19) (Sum of OATP1B1/3 and/or P-gp inhibition and P-gp/UGT induction) |  |
 | (600 mg once daily PO (24 hours after rifampicin))§/ letermovir (480 mg once daily PO) | ↓ letermovir AUC 0.15 (0.13, 0.17) Cmax 0.27 (0.22, 0.31) C24 0.09(0.06, 0.12) (P-gp/UGT induction) |  |
 | Antipsychotics |  |  |
