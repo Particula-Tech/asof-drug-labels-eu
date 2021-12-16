@@ -5,7 +5,7 @@ Each 1 ml of concentrate contains dexmedetomidine hydrochloride equivalent to 10
 Each 2 ml ampoule contains 200 micrograms of dexmedetomidine.
 Each 2 ml vial contains 200 micrograms of dexmedetomidine.
 Each 4 ml vial contains 400 micrograms of dexmedetomidine.
-Each 10 ml vial contains 1000 micrograms of dexmedetomidine.
+Each 10 ml vial contains 1 000 micrograms of dexmedetomidine.
 
 The concentration of the final solution after dilution should be either 4 micrograms/ml or 8 micrograms/ml.
 

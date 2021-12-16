@@ -46,7 +46,7 @@ Initiation of Procedural Sedation:
 
 Maintenance of Procedural Sedation:
 
-- The maintenance infusion is generally initiated at 0.6-0.7 microgram/kg/hour and titrated to achieve desired clinical effect with doses ranging from 0.2 to 1 microgram/kg/hour.
+- The maintenance infusion is generally initiated at 0.6–0.7 microgram/kg/hour and titrated to achieve desired clinical effect with doses ranging from 0.2 to 1 microgram/kg/hour.
   The rate of the maintenance infusion should be adjusted to achieve the targeted level of sedation.
 
 Special populations

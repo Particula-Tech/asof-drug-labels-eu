@@ -43,7 +43,7 @@ Dexmedetomidine reduces heart rate and blood pressure through central sympatholy
 Dexmedetomidine is therefore not suitable in patients with severe cardiovascular instability.
 
 Caution should be exercised when administering dexmedetomidine to patients with pre-existing bradycardia.
-Data on the effects of Dexdor in patients with heart rate <60 are very limited and particular care should be taken with such patients.
+Data on the effects of Dexdor in patients with heart rate < 60 are very limited and particular care should be taken with such patients.
 Bradycardia does not normally require treatment, but has commonly responded to anti-cholinergic medicine or dose reduction where needed.
 Patients with high physical fitness and slow resting heart rate may be particularly sensitive to bradycardic effects of alpha-2 receptor agonists and cases of transient sinus arrest have been reported.
 Also cases of cardiac arrest, often preceded by bradycardia or atrioventricular block, have been reported (see section 4.8).
@@ -76,5 +76,8 @@ This possibility should be considered if the patient develops agitation and hype
 
 Dexmedetomidine may induce hyperthermia that may be resistant to traditional cooling methods.
 Dexmedetomidine treatment should be discontinued in the event of a sustained unexplained fever and is not recommended for use in malignant hyperthermia-sensitive patients.
+
+Diabetes insipidus has been reported in association with dexmedetomidine treatment.
+If polyuria occurs, it is recommended to stop dexmedetomidine and check serum sodium level and urine osmolality.
 
 Dexdor contains less than 1 mmol sodium (23 mg) per ml.

@@ -1,7 +1,6 @@
 # 6.6 Special precautions for disposal and other handling
 
 Ampoules and vials are intended for single patient use only.
-
 Preparation of solution
 
 Dexdor can be diluted in glucose 50 mg/ml (5%), Ringers, mannitol or sodium chloride 9 mg/ml (0.9%) solution for injection to achieve the required concentration of either 4 micrograms/ml or 8 micrograms/ml prior to administration.

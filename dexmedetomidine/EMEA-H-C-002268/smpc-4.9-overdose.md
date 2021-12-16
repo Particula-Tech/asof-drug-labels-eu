@@ -3,7 +3,7 @@
 Symptoms
 
 Several cases of dexmedetomidine overdose have been reported both in the clinical trial and the post-marketing data.
-The reported highest infusion rates of dexmedetomidine in these cases have reached up to 60 µg/kg/h for 36 minutes and 30 µg/kg/h for 15 minutes in a 20-month-old child and in an adult, respectively.
+The reported highest infusion rates of dexmedetomidine in these cases have reached up to 60 µg/kg/h for 36 minutes and 30 µg/kg/h for 15 minutes in a 20 month–old child and in an adult, respectively.
 The most common adverse reactions reported in conjunction with overdose include bradycardia, hypotension, hypertension, oversedation, respiratory depression and cardiac arrest.
 
 Management

@@ -34,6 +34,7 @@ Approximately 28% of the urinary metabolites are unidentified minor metabolites.
 Special Populations
 
 No major pharmacokinetic differences have been observed based on gender or age.
+
 Dexmedetomidine plasma protein binding is decreased in subjects with hepatic impairment compared with healthy subjects.
 The mean percentage of unbound dexmedetomidine in plasma ranged from 8.5% in healthy subjects to 17.9% in subjects with severe hepatic impairment.
 Subjects with varying degrees of hepatic impairment (Child-Pugh Class A, B, or C) had decreased hepatic clearance of dexmedetomidine and prolonged plasma elimination t1/2.
@@ -43,7 +44,7 @@ Although dexmedetomidine is administered to effect, it may be necessary to consi
 
 The pharmacokinetics of dexmedetomidine in subjects with severe renal impairment (creatinine clearance <30 ml/min) is not altered relative to healthy subjects.
 
-Data in new-born infants (28 - 44 weeks gestation) to children 17 years of age are limited.
+Data in new-born infants (28–44 weeks gestation) to children 17 years of age are limited.
 Dexmedetomidine half life in children (1 months to 17 years) appears similar to that seen in adults, but in new-born infants (under 1 month) it appears higher.
 In the age groups 1 months to 6 years, body weight-adjusted plasma clearance appeared higher but decreased in older children.
 Body weight-adjusted plasma clearance in new-born infants (under 1 month) appeared lower (0.9 l/h/kg) than in the older groups due to immaturity.
