@@ -21,15 +21,16 @@ very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/10
 | Hypersensitivity | Uncommon |
 | Metabolism and nutrition disorders |  |
 | Decreased appetite | Common |
+| System/Organ Class Adverse reaction | Incidence Category |
 | Psychiatric disorders |  |
 | Depression | Common |
 | Anxiety | Common |
 | Affect lability | Common |
 | Insomnia | Common |
 | Middle insomnia | Common |
-| System/Organ Class Adverse reaction | Incidence Category |
 | Nightmare | Common |
 | Agitation | Uncommon |
+| Aggression | Uncommon |
 | Hallucination | Uncommon |
 | Nervous system disorders |  |
 | Somnolence | Very common |
@@ -66,12 +67,12 @@ very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/10
 | Skin and subcutaneous tissue disorders |  |
 | Rash | Common |
 | Pruritus | Uncommon |
+| System/Organ Class Adverse reaction | Incidence Category |
 | Renal and urinary disorders |  |
 | Enuresis | Common |
 | Pollakiuria | Uncommon |
 | Reproductive system and breast disorders |  |
 | Erectile dysfunction | Not known |
-| System/Organ Class Adverse reaction | Incidence Category |
 | General disorders and administration site conditions |  |
 | Fatigue | Very common |
 | Irritability | Common |

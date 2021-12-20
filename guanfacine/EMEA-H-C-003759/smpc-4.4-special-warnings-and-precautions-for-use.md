@@ -38,8 +38,15 @@ Patients are advised against operating heavy equipment, driving or cycling until
 
 Suicidal ideation
 
-Patients with emergent suicidal ideation or behaviour during treatment for ADHD should be evaluated immediately by their physician.
-Treatment of an underlying psychiatric condition may be necessary and consideration should be given to a possible change in the ADHD treatment programme.
+There have been post-marketing reports of suicide-related events (including suicidal ideation, attempts and completed suicide) in patients treated with guanfacine.
+In most cases, patients had underlying psychiatric disorders.
+Therefore, it is recommended that caregivers and physicians monitor patients for signs of suicide-related events, including at dose initiation/optimisation and drug discontinuation.
+Patients and caregivers should be encouraged to report any distressing thoughts or feelings at any time to their healthcare professional.
+
+Aggression
+
+Aggressive behaviour or hostility has been reported in clinical trials and in the post-marketing experience of guanfacine.
+Patients treated with guanfacine should be monitored for the appearance of aggressive behaviour or hostility.
 
 Effects on height, weight and Body Mass index (BMI)
 

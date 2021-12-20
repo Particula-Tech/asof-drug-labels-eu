@@ -5,8 +5,8 @@ A significant increase in incidence of adenomas of the pancreatic islet was obse
 The clinical relevance is unknown.
 
 Guanfacine was not genotoxic in a variety of test models, including the Ames test and an in vitro chromosomal aberration test.
-
 General toxicity observed in animals (rat, dog) upon treatment with guanfacine included prolongation of uncorrected QT interval (heart), atrophic spleen and decreased white blood cells, affected liver – increased bilirubin and ALT levels included, irritated and inflamed intestines, increased creatinine and blood urea nitrogen levels (kidney), corneal clouding (eye) in rat and mouse only, alveolar macrophage infiltration & pneumonitis and reduced spermatogenesis.
+
 No adverse effects were observed in a fertility study in female rats at doses up to 22 times the maximum recommended human dose on a mg/m2 basis.
 
 Male fertility was affected at 8 mg/kg/day, the lowest dose tested, equivalent of 10.8 times the maximum recommended human dose of 0.12 mg/kg on a mg/m2 basis.

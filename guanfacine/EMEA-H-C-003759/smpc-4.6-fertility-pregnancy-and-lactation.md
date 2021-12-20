@@ -9,6 +9,7 @@ Guanfacine is not recommended during pregnancy and in women of childbearing pote
 Breast-feeding
 
 It is unknown whether guanfacine and its metabolites are excreted in human milk.
+
 Available pharmacodynamic and toxicological data in animals have shown excretion of guanfacine and its metabolites in milk (see section 5.3).
 Therefore, a risk on the breast-fed infant cannot be excluded.
 
