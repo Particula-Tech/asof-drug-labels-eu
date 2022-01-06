@@ -7,12 +7,12 @@ DARZALEX is indicated:
 - in combination with lenalidomide and dexamethasone, or bortezomib and dexamethasone, for the treatment of adult patients with multiple myeloma who have received at least one prior therapy.
 - as monotherapy for the treatment of adult patients with relapsed and refractory multiple myeloma, whose prior therapy included a proteasome inhibitor and an immunomodulatory agent and who have demonstrated disease progression on the last therapy.
 
-[DARZALEX 1 800 mg solution for injection.]
+[DARZALEX 1800 mg solution for injection]
 
-Multiple Myeloma
+Multiple myeloma
 
 - in combination with pomalidomide and dexamethasone for the treatment of adult patients with multiple myeloma who have received one prior therapy containing a proteasome inhibitor and lenalidomide and were lenalidomide-refractory, or who have received at least two prior therapies that included lenalidomide and a proteasome inhibitor and have demonstrated disease progression on or after the last therapy (see section 5.1).
-- in as monotherapy for the treatment of adult patients with relapsed and refractory multiple myeloma, whose prior therapy included a proteasome inhibitor and an immunomodulatory agent and who have demonstrated disease progression on the last therapy.
 
-AL Amyloidosis
-DARZALEX is indicated in combination with cyclophosphamide, bortezomib and dexamethasone for the treatment of adult patients with newly diagnosed systemic light chain (AL) amyloidosis.
+Light chain (AL) amyloidosis
+
+DARZALEX is indicated in combination with cyclophosphamide, bortezomib and dexamethasone for the treatment of adult patients with newly diagnosed systemic AL amyloidosis.

@@ -4,6 +4,6 @@ EU/1/16/1101/001
 EU/1/16/1101/002
 EU/1/16/1101/003
 
-[DARZALEX 1 800 mg solution for injection.]
+[DARZALEX 1800 mg solution for injection]
 
 EU/1/16/1101/004

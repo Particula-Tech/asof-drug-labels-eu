@@ -3,15 +3,17 @@
 Each 5 mL vial contains 100 mg of daratumumab (20 mg daratumumab per mL).
 Each 20 mL vial contains 400 mg of daratumumab (20 mg daratumumab per mL).
 
-Daratumumab is a human monoclonal IgG1κ antibody against CD38 antigen, produced in a mammalian cell line (Chinese Hamster Ovary [CHO]) using recombinant DNA technology.
+Daratumumab is a human monoclonal IgG1κ antibody against CD38 antigen, produced in a mammalian cell line (Chinese Hamster Ovary) using recombinant DNA technology.
 
-Excipients with known effect
-Each 5 mL and 20 mL vial of DARZALEX contains 0.4 mmol and 1.6 mmol (9.3 mg and 37.3 mg) sodium, respectively.
+Excipient with known effect
+
+Each 5 mL vial of solution for infusion contains 273.3 mg of sorbitol (E420).
+Each 20 mL vial of solution for infusion contains 1093 mg of sorbitol (E420).
 
 For the full list of excipients, see section 6.1.
 
-[DARZALEX 1 800 mg solution for injection.]
+[DARZALEX 1800 mg solution for injection]
 
-Each 15 mL vial of solution for injection contains 1 800 mg of daratumumab (120 mg daratumumab per mL).
+Each 15 mL vial of solution for injection contains 1800 mg of daratumumab (120 mg daratumumab per mL).
 
 Each 15 mL vial of solution for injection contains 735.1 mg of sorbitol (E420).
