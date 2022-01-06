@@ -52,6 +52,7 @@ The pharmacokinetics in patients aged 65 and over has not been studied.
 Paediatric population
 The pharmacokinetic profile of 240 mg dimethyl fumarate twice a day was evaluated in a small, open-label, uncontrolled study in patients with RRMS aged 13 to 17 years (n=21).
 The pharmacokinetics of Tecfidera in these adolescent patients was consistent with that previously observed in adult patients (Cmax: 2.00±1.29 mg/l; AUC0-12hr: 3.62±1.16 h.mg/l, which corresponds to an overall daily AUC of 7.24 h.mg/l).
+
 Renal impairment
 Since the renal pathway is a secondary route of elimination for dimethyl fumarate accounting for less than 16% of the dose administered, evaluation of pharmacokinetics in individuals with renal impairment was not conducted.
 

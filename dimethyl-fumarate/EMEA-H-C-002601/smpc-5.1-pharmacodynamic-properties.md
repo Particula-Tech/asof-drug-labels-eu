@@ -54,9 +54,9 @@ The annualised relapse rate for glatiramer acetate and placebo was 0.286 and 0.4
 | No. subjects | 165 | 152 | 144 | 147 | 161 |
 | Mean (median) number of new or newly enlarging T2 lesions over 2 years | 16.5 (7.0) | 3.2 (1.0)*** | 19.9 (11.0) | 5.7 (2.0)*** | 9.6 (3.0)*** |
 | Lesion mean ratio (95% CI) |  | 0.15 (0.10, 0.23) |  | 0.29 (0.21, 0.41) | 0.46 (0.33, 0.63) |
+|  | Placebo | Tecfidera 240 mg twice a day | Placebo | Tecfidera 240 mg twice a day | Glatiramer acetate |
 | Mean (median) number of Gd lesions at 2 years | 1.8 (0) | 0.1 (0)*** | 2.0 (0.0) | 0.5 (0.0)*** | 0.7 (0.0)** |
 | Odds ratio (95% CI) |  | 0.10 (0.05, 0.22) |  | 0.26 (0.15, 0.46) | 0.39 (0.24, 0.65) |
-|  | Placebo | Tecfidera 240 mg twice a day | Placebo | Tecfidera 240 mg twice a day | Glatiramer acetate |
 | Mean (median) number of new T1 hypointense lesions over 2 years | 5.7 (2.0) | 2.0 (1.0)*** | 8.1 (4.0) | 3.8 (1.0)*** | 4.5 (2.0)** |
 | Lesion mean ratio (95% CI) |  | 0.28 (0.20, 0.39) |  | 0.43 (0.30, 0.61) | 0.59 (0.42, 0.82) |
 

@@ -8,12 +8,9 @@ The most commonly reported adverse reactions leading to discontinuation (inciden
 In placebo-controlled and uncontrolled clinical studies, a total of 2,468 patients have received Tecfidera and been followed for periods up to 4 years with an overall exposure equivalent to 3,588 person-years.
 Approximately 1,056 patients have received more than 2 years of treatment with Tecfidera.
 The experience in uncontrolled clinical trials is consistent with the experience in the placebo-controlled clinical trials.
-
 Tabulated summary of adverse reactions
 
-Adverse reactions, which were more frequently reported in Tecfidera versus placebo-treated patients, are presented in the table below.
-These data were derived from 2 pivotal Phase 3 placebo-controlled, double-blind clinical trials with a total of 1,529 patients treated with Tecfidera and for up to 24 months with an overall exposure of 2,371 person-years (see section 5.1).
-The frequencies described in the table below are based on 769 patients treated with Tecfidera 240 mg twice a day and 771 patients treated with placebo
+Adverse reactions arising from clinical studies, post-authorisation safety studies and spontaneous reports, are presented in the table below.
 
 The adverse reactions are presented as MedDRA preferred terms under the MedDRA System Organ Class.
 The incidence of the adverse reactions below are expressed according to the following categories:
@@ -29,16 +26,16 @@ The incidence of the adverse reactions below are expressed according to the foll
 | --- | --- | --- |
 | Infections and infestations | Gastroenteritis | Common |
 |  | Progressive multifocal leukoencephalopathy (PML) | Not known |
-|  | Herpes zoster1 | Not known |
+|  | Herpes zoster | Not known |
 | Blood and lymphatic system disorders | Lymphopenia | Common |
 |  | Leucopenia | Common |
 |  | Thrombocytopenia | Uncommon |
 | Immune system disorders | Hypersensitivity | Uncommon |
-|  | Anaphylaxis1 | Not known |
-|  | Dyspnoea1 | Not known |
-|  | Hypoxia1 | Not known |
-|  | Hypotension1 | Not known |
-|  | Angioedema1 | Not known |
+|  | Anaphylaxis | Not known |
+|  | Dyspnoea | Not known |
+|  | Hypoxia | Not known |
+|  | Hypotension | Not known |
+|  | Angioedema | Not known |
 | Nervous system disorders | Burning sensation | Common |
 | Vascular disorders | Flushing | Very common |
 |  | Hot flush | Common |
@@ -52,17 +49,17 @@ The incidence of the adverse reactions below are expressed according to the foll
 |  | Gastrointestinal disorder | Common |
 | Hepatobiliary disorders | Aspartate aminotransferase increased | Common |
 |  | Alanine aminotransferase increased | Common |
-|  | Drug-induced liver injury1 | Not known |
+|  | Drug-induced liver injury | Not known |
 | Skin and subcutaneous tissue disorders | Pruritus | Common |
 |  | Rash | Common |
 |  | Erythema | Common |
+|  | Alopecia | Common |
 | Renal and urinary disorders | Proteinuria | Common |
 | General disorders and administration site conditions | Feeling hot | Common |
 | Investigations | Ketones measured in urine | Very common |
 |  | Albumin urine present | Common |
 |  | White blood cell count decreased | Common |
 
-1 Adverse reactions derived only during post marketing experience
 Description of selected adverse reactions
 
 Flushing
@@ -106,7 +103,10 @@ In clinical studies (both controlled and uncontrolled), 41% of patients treated 
 Mild lymphopenia (counts ≥0.8x109/L and <0.91 x109/L) was observed in 28% of patients; moderate lymphopenia (counts ≥0.5x109/L and <0.8x109/L) persisting for at least six months was observed in 10% of patients; severe lymphopenia (counts <0.5x109/L) persisting for at least six months was observed in 2% of patients.
 In the group with severe lymphopenia, the majority of lymphocyte counts remained <0.5x109/L with continued therapy.
 
-In addition, in an uncontrolled, prospective, post-marketing study, at week 48 of treatment with Tecfidera (n=185) CD4+ T cells were moderately (counts ≥0.2x109/L to <0.4x109/L) or severely (<0.2x109/L) decreased in up to 37 % or 6 % of patients, respectively, while CD8+ T cells were more frequently reduced with up to 59 % of patients at counts <0.2x109/L and 25 % of patients at counts <0.1x109/L.Infections, including PML and opportunistic infections
+In addition, in an uncontrolled, prospective, post-marketing study, at week 48 of treatment with Tecfidera (n=185) CD4+ T cells were moderately (counts ≥0.2x109/L to <0.4x109/L) or severely (<0.2x109/L) decreased in up to 37 % or 6 % of patients, respectively, while CD8+ T cells were more frequently reduced with up to 59 % of patients at counts <0.2x109/L and 25 % of patients at counts <0.1x109/L.
+
+Infections, including PML and opportunistic infections
+
 Cases of infections with John Cunningham virus (JCV) causing Progressive Multifocal Leukoencephalopathy (PML) have been reported with Tecfidera (see section 4.4).
 PML may be fatal or result in severe disability.
 In one of the clinical trials, one patient taking Tecfidera developed PML in the setting of prolonged severe lymphopenia (lymphocyte counts predominantly <0.5x109/L for 3.5 years), with a fatal outcome.
@@ -136,8 +136,8 @@ Levels of 1,25-dihydroxyvitamin D decreased in Tecfidera treated patients relati
 Mean values for both parameters remained within normal range.
 
 A transient increase in mean eosinophil counts was seen during the first 2 months of therapy.
-
 Paediatric population
+
 The safety of Tecfidera in paediatric patients with multiple sclerosis below the age of 18 has not yet been established.
 In a small 24-week open-label uncontrolled study in paediatric patients with RRMS aged 13 to 17 years (120 mg twice a day for 7 days followed by 240 mg twice a day for the remainder of treatment; safety population, n=22), followed by a 96 week extension study (240mg twice per day ; safety population n=20), the safety profile appeared similar to that observed in adult patients.
 
