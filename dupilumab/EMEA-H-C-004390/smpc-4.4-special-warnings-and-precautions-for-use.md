@@ -13,7 +13,6 @@ This should be taken into consideration to determine type 2 status in patients t
 Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
-
 Hypersensitivity
 
 If a systemic hypersensitivity reaction (immediate or delayed) occurs, administration of dupilumab should be discontinued immediately and appropriate therapy initiated.
@@ -34,6 +33,7 @@ Patients with known helminth infections were excluded from participation in clin
 Dupilumab may influence the immune response against helminth infections by inhibiting IL-4/IL-13 signaling.
 Patients with pre-existing helminth infections should be treated before initiating dupilumab.
 If patients become infected while receiving treatment with dupilumab and do not respond to anti-helminth treatment, treatment with dupilumab should be discontinued until infection resolves.
+
 Conjunctivitis and keratitis related events
 
 Conjunctivitis and keratitis related events have been reported with dupilumab, predominantly in atopic dermatitis patients.
@@ -52,17 +52,12 @@ Vaccinations
 Live and live attenuated vaccines should not be given concurrently with dupilumab as clinical safety and efficacy has not been established.
 Immune responses to TdaP vaccine and meningococcal polysaccharide vaccine were assessed, see section 4.5.
 It is recommended that patients should be brought up to date with live and live attenuated immunisations in agreement with current immunisation guidelines prior to treatment with dupilumab.
-
 Sodium content
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per 300 mg dose, i.e. essentially “sodium-free”.
 
 [Dupixent 200 mg solution for injection in pre-filled syringe]
 
-Cases of eosinophilic pneumonia and cases of vasculitis consistent with eosinophilic granulomatosis with polyangiitis have been reported with dupilumab in adult patients who participated in the asthma development program.
-
-Atopic dermatitis patients with comorbid asthma
-
-Patients on dupilumab for moderate-to-severe atopic dermatitis who also have comorbid asthma should not adjust or stop their asthma treatments without consultation with their physicians.
+Patients on dupilumab for moderate-to-severe atopic dermatitis or severe CRSwNP who also have comorbid asthma should not adjust or stop their asthma treatments without consultation with their physicians.
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per 200 mg dose, i.e. essentially “sodium-free”.
