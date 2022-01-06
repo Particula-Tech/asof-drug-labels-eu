@@ -13,3 +13,9 @@ Yellow-coated, capsule-shaped tablet of 17.5 mm length debossed with “100” o
 
 Concentrate for solution for infusion (sterile concentrate).
 Clear, colourless to yellow liquid.
+
+[Noxafil 300 mg gastro-resistant powder and solvent for oral suspension]
+
+Gastro-resistant powder and solvent for oral suspension.
+Off-white to yellow powder.
+The solvent is a cloudy, colourless liquid.

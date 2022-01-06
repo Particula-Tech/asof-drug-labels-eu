@@ -9,12 +9,12 @@ Hepatic reactions (e.g. mild to moderate elevations in ALT, AST, alkaline phosph
 Elevated liver function tests were generally reversible on discontinuation of therapy and in some instances these tests normalised without interruption of therapy.
 Rarely, more severe hepatic reactions with fatal outcomes have been reported.
 Posaconazole should be used with caution in patients with hepatic impairment due to limited clinical experience and the possibility that posaconazole plasma levels may be higher in these patients (see sections 4.2 and 5.2).
-
 Monitoring of hepatic function
 Liver function tests should be evaluated at the start of and during the course of posaconazole therapy.
 Patients who develop abnormal liver function tests during posaconazole therapy must be routinely monitored for the development of more severe hepatic injury.
 Patient management should include laboratory evaluation of hepatic function (particularly liver function tests and bilirubin).
 Discontinuation of posaconazole should be considered if clinical signs and symptoms are consistent with development of liver disease.
+
 QTc prolongation
 Some azoles have been associated with prolongation of the QTc interval.
 Posaconazole must not be administered with medicinal products that are substrates for CYP3A4 and are known to prolong the QTc interval (see sections 4.3 and 4.5).
@@ -49,7 +49,6 @@ Patients who have severe diarrhoea or vomiting should be monitored closely for b
 Glucose
 This medicinal product contains approximately 1.75 g of glucose per 5 mL of suspension.
 Patients with rare glucose-galactose malabsorption should not take this medicinal product.
-
 Sodium
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ‘sodium-free’.
 
@@ -99,3 +98,16 @@ This should be particularly taken into account for those on a low salt diet.
 
 Cyclodextrin
 This medicinal product contains 6,680 mg of cyclodextrin per vial.
+
+[Noxafil 300 mg gastro-resistant powder and solvent for oral suspension]
+
+Methyl parahydroxybenzoate and propyl parahydroxybenzoate
+This medicinal product contains methyl parahydroxybenzoate (E218) and propyl parahydroxybenzoate.
+May cause allergic reactions (possibly delayed).
+
+Sorbitol
+This medicine contains 47 mg sorbitol (E420) per mL.
+In medicinal products for oral use, sorbitol may affect the bioavailability of other medicinal products for oral use administered concomitantly.
+Patients with hereditary fructose intolerance (HFI) should not take/be given this medicinal product.
+
+This medicine contains 7 mg propylene glycol (E1520) per mL.

@@ -11,3 +11,7 @@ EU/1/05/320/001
 [Noxafil 300 mg concentrate for solution for infusion]
 
 EU/1/05/320/004 1 vial
+
+[Noxafil 300 mg gastro-resistant powder and solvent for oral suspension]
+
+EU/1/05/320/005

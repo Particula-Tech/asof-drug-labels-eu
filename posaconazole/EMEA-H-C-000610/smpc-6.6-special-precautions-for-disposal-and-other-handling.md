@@ -55,3 +55,34 @@ This medicinal product must not be mixed with other medicinal products except th
 5 % glucose and 0.45 % sodium chloride
 5 % glucose and 0.9 % sodium chloride
 5 % glucose and 20 mEq KCl
+
+[Noxafil 300 mg gastro-resistant powder and solvent for oral suspension]
+
+Complete details on preparation and administration of the gastro-resistant powder and solvent for oral suspension can be found in the instructions for use booklet that is included in the kit.
+Parents and/or caregivers should be instructed to read the instructions for use booklet before preparing and administering Noxafil gastro-resistant powder and solvent for oral suspension.
+
+Each single-use sachet contains 300 mg of posaconazole which is suspended in 9 mL of solvent to obtain 10 mL total of suspension with a final concentration of approximately 30 mg per mL.
+
+Note: ONLY the solvent in the kit should be used to prepare Noxafil.
+
+Note: To ensure delivery of the correct dose, ONLY the provided notched tip syringes should be used for preparation and administration.
+The design of the notched tip syringe prevents aggregation of the suspension during preparation and administration.
+
+The notch-tip syringe provided in the kit should be used to administer Noxafil with the enteral feeding
+tube. The enteral feeding tube size should be selected based on the patient characteristics. Use a
+suitable enteral feeding tube based on tube material per the following table.
+Type Tube material Tube size
+Gastric Tubing Polyurethane 16 Fr or larger
+Silicone 14 Fr or larger
+Nasogastric Tubing PVC* 12 Fr or larger
+Polyurethane 12 Fr or larger
+
+*PVC – polyvinyl chloride
+
+The tube should be flushed again with at least 10 mL water to ensure Noxafil is delivered and to clear the tube.
+
+After administration of the required volume, the remaining suspension in the mixing cup cannot be re-used and must be discarded.
+
+The dose should be administered orally within 30 minutes of mixing.
+
+Any unused medicinal product, solvent or waste material should be disposed of in accordance with local requirements.

@@ -1,7 +1,7 @@
 # 5.2 Pharmacokinetic properties
 
 Absorption
-Posaconazole is absorbed with a median tmax of 3 hours (fed patients).
+Posaconazole is absorbed with a median Tmax of 3 hours (fed patients).
 The pharmacokinetics of posaconazole are linear following single and multiple dose administration of up to 800 mg when taken with a high fat meal.
 No further increases in exposure were observed when doses above 800 mg daily were administered to patients and healthy volunteers.
 In the fasting state, AUC increased less than in proportion to dose above 200 mg.
@@ -23,17 +23,18 @@ Elimination
 Posaconazole is slowly eliminated with a mean half-life (t½) of 35 hours (range 20 to 66 hours).
 After administration of 14C-posaconazole, radioactivity was predominantly recovered in the faeces (77 % of the radiolabelled dose) with the major component being parent compound (66 % of the radiolabelled dose).
 Renal clearance is a minor elimination pathway, with 14 % of the radiolabelled dose excreted in urine (< 0.2 % of the radiolabelled dose is parent compound).
-Steady state is attained following 7 to 10 days of multiple-dose administration.
+Steady-state is attained following 7 to 10 days of multiple-dose administration.
 
 Pharmacokinetics in special populations
 Children (< 18 years)
-Following administration of 800 mg per day of posaconazole as a divided dose for treatment of invasive fungal infections, mean trough plasma concentrations from 12 patients 8 - 17 years of age (776 ng/mL) were similar to concentrations from 194 patients 18-64 years of age (817 ng/mL).
-Similarly, in the prophylaxis studies, the mean steady state posaconazole average concentration (Cav) was comparable among ten adolescents (13-17 years of age) to Cav achieved in adults ( ≥ 18 years of age).
-In a study of 136 neutropenic paediatric patients 11 months – 17 years treated with posaconazole oral suspension at doses up to 18 mg/kg/day divided TID, approximately 50% met the pre-specified target (Day 7 Cav between 500 ng/mL-2,500 ng/mL).
-In general, exposures tended to be higher in the older patients (7 to < 18 years) than in younger patients (2 to <7 years).
+Following administration of 800 mg per day of posaconazole as a divided dose for treatment of invasive fungal infections, mean trough plasma concentrations from 12 patients 8 - 17 years of age (776 ng/mL) were similar to concentrations from 194 patients 18 - 64 years of age (817 ng/mL).
+Similarly, in the prophylaxis studies, the mean steady-state posaconazole average concentration (Cav) was comparable among ten adolescents (13-17 years of age) to Cav achieved in adults (≥ 18 years of age).
+In a study of 136 neutropenic paediatric patients 11 months – 17 years treated with posaconazole oral suspension at doses up to 18 mg/kg/day divided TID, approximately 50 % met the pre-specified target (Day 7 Cav between 500 ng/mL-2,500 ng/mL).
+In general, exposures tended to be higher in the older patients (7 to <18 years) than in younger patients (2 to <7 years).
 
 Gender
 The pharmacokinetics of posaconazole are comparable in men and women.
+
 Elderly
 An increase in Cmax (26 %) and AUC (29 %) was observed in elderly subjects (24 subjects ≥ 65 years of age) relative to younger subjects (24 subjects 18 - 45 years of age).
 However, in clinical efficacy studies, the safety profile of posaconazole between the young and elderly patients was similar.
@@ -46,7 +47,6 @@ Weight
 The population pharmacokinetic model of posaconazole concentrate for solution for infusion and tablets indicates that posaconazole clearance is related to weight.
 In patients > 120 kg, the Cav is decreased by 25 % and in patients < 50 kg, the Cav is increased by 19 %.
 It is, therefore, suggested to closely monitor for breakthrough fungal infections in patients weighing more than 120 kg.
-
 Renal impairment
 Following single-dose administration of posaconazole oral suspension, there was no effect of mild and moderate renal impairment (n=18, Cl cr ≥ 20 mL/min/1.73 m2) on posaconazole pharmacokinetics; therefore, no dose adjustment is required.
 In subjects with severe renal impairment (n=6, Cl cr
@@ -57,7 +57,7 @@ Posaconazole is not removed by haemodialysis.
 Hepatic impairment
 After a single oral dose of 400 mg posaconazole oral suspension to patients with mild (Child-Pugh Class A), moderate (Child-Pugh Class B) or severe (Child-Pugh Class C) hepatic impairment (six per group), the mean AUC was 1.3 to 1.6-fold higher compared to that for matched control subjects with normal hepatic function.
 Unbound concentrations were not determined and it cannot be excluded that there is a larger increase in unbound posaconazole exposure than the observed 60 % increase in total AUC.
-The elimination half-life (t½) was prolonged from approximately 27 hours up to ~43 hours in respective groups.
+The elimination half-life (t1/2) was prolonged from approximately 27 hours up to ~43 hours in respective groups.
 No dose adjustment is recommended for patients with mild to severe hepatic impairment but caution is advised due to the potential for higher plasma exposure.
 
 [Noxafil 100 mg gastro-resistant tablets]
@@ -80,7 +80,8 @@ Posaconazole, after administration of the tablet, has a mean apparent volume of 
 Posaconazole is highly protein bound (> 98 %), predominantly to serum albumin.
 
 Posaconazole after administration of the tablets, is slowly eliminated with a mean half-life (t½) of 29 hours (range 26 to 31 hours) and a mean apparent clearance ranging from 7.5 to 11 L/hr.
-Steady state plasma concentrations are attained by Day 6 at the 300 mg dose (once daily after twice daily loading dose at Day 1).
+Steady-state plasma concentrations are attained by Day 6 at the 300 mg dose (once daily after twice daily loading dose at Day 1).
+
 Based on a population pharmacokinetic model evaluating posaconazole pharmacokinetics, steady state posaconazole concentrations were predicted in patients administered posaconazole concentrate for solution for infusion or tablets 300 mg once a day following BID dosing on Day 1 for the treatment of invasive aspergillosis and prophylaxis of invasive fungal infections.
 
 Table 9.
@@ -97,9 +98,8 @@ The population pharmacokinetic analysis of posaconazole in patients suggests tha
 
 There is limited (n=3) paediatric experience with posaconazole tablets.
 The pharmacokinetics of posaconazole oral suspension have been evaluated in paediatric patients.
-Following administration of 800 mg per day of posaconazole oral suspension as a divided dose for treatment of invasive fungal infections, mean trough plasma concentrations from 12 patients 8 - 17 years of age (776 ng/mL) were similar to concentrations from 194 patients 18-64 years of age (817 ng/mL).
+Following administration of 800 mg per day of posaconazole oral suspension as a divided dose for treatment of invasive fungal infections, mean trough plasma concentrations from 12 patients 8 – 17 years of age (776 ng/mL) were similar to concentrations from 194 patients 18 – 64 years of age (817 ng/mL).
 No pharmacokinetic data are available from paediatric patients less than 8 years of age.
-Similarly, in the prophylaxis studies, the mean steady state posaconazole average concentration (Cav) was comparable among ten adolescents (13-17 years of age) to Cav achieved in adults (≥ 18 years of age).
 
 The pharmacokinetics of posaconazole tablets are comparable in men and women.
 
@@ -113,15 +113,18 @@ The pharmacokinetics of posaconazole tablets are comparable in young and elderly
 (≥ 65 years of age).
 
 Pharmacokinetic differences based upon age are not considered to be clinically relevant; therefore, no dose adjustment is required.
+
 There is insufficient data among different races with posaconazole tablets.
 
 In patients > 120 kg, the Cav is decreased by 25 % and in patients <50 kg, the Cav is increased by 19 %.
 
 Similar recommendations apply to posaconazole tablets; however, a specific study has not been conducted with the posaconazole tablets.
 
+The elimination half-life (t½) was prolonged from approximately 27 hours up to ~43 hours in respective groups.
+
 [Noxafil 300 mg concentrate for solution for infusion]
 
-Following administration of 300 mg posaconazole concentrate for solution for infusion over 90 minutes, mean peak plasma concentration at the end of infusion was 3280 ng/mL (74 % CV).
+Following administration of 300 mg posaconazole concentrate for solution for infusion over 90 minutes, mean peak plasma concentration at the end of infusion was 3,280 ng/mL (74 % CV).
 Posaconazole exhibits dose proportional pharmacokinetics after single and multiple dosing in the therapeutic dose range (200-300 mg).
 Posaconazole has a distribution volume of 261 L, indicating extravascular distribution.
 
@@ -136,6 +139,23 @@ Posaconazole plasma concentrations following administration of posaconazole conc
 Table 8.
 
 There is limited (n=3) paediatric experience with posaconazole concentrate for solution for infusion (see sections 4.2 and 5.3).
+The mean pharmacokinetic parameters after multiple dose administration of posaconazole concentrate for solution for infusion and posaconazole gastro-resistant powder and solvent for oral suspension in neutropenic paediatric patients 2 to less than 18 years of age are shown in Table 9.
+Patients were enrolled into 2 age groups and received posaconazole concentrate for solution for infusion and posaconazole gastro-resistant powder and solvent for oral suspension doses at 6 mg/kg (maximum 300 mg) once daily (twice daily on Day 1) (see section 5.1).
+
+Summary of Steady-State Geometric Mean Pharmacokinetic Parameters (% Geometric CV) After Multiple Dosing with Posaconazole Concentrate for Solution for Infusion and Posaconazole Gastro-Resistant Powder and Solvent for Oral Suspension 6 mg/kg in Paediatric Patients with Neutropenia or Expected Neutropenia
+
+| Age Group | Dose Type | N | AUC0-24 hours (ng·hr/mL) | Cav* (ng/mL) | Cmax (ng/mL) | Cmin (ng/mL) | Tmax† (hr) | CL/F‡ (L/hr) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 to <7 years | IV | 17 | 31,100 (48.9) | 1,300 (48.9) | 3,060 (54.1) | 626 (104.8) | 1.75 (1.57-1.83) | 3.27 (49.3) |
+|  | PFS | 7 | 23,000 (47.3) | 960 (47.3) | 1,510 (43.4) | 542 (68.8) | 4.00 (2.17-7.92) | 4.60 (35.2) |
+| 7 to 17 years | IV | 24 | 44,200 (41.5) | 1,840 (41.5) | 3,340 (39.4) | 1,160 (60.4) | 1.77 (1.33-6.00) | 4.76 (55.7) |
+|  | PFS | 12 | 25,000 (184.3) | 1,040 (184.3) | 1,370 (178.5) | 713 (300.6) | 2.78 (0.00-4.00) | 8.39 (190.3) |
+| IV= posaconazole concentrate for solution for infusion; PFS=posaconazole gastro-resistant powder and solvent for oral suspension; AUC0-24 hours = Area under the plasma concentration-time curve from time zero to 24 hr; Cmax = maximum observed concentration; Cmin = minimum observed plasma concentration; Tmax = time of maximum observed concentration; CL /F = apparent total body clearance * Cav = time-averaged concentrations (i.e., AUC0-24 hours/24hr) † Median (minimum-maximum) ‡ Clearance (CL for IV and CL/F for PFS) |  |  |  |  |  |  |  |  |
+
+Based on a population pharmacokinetic model evaluating posaconazole pharmacokinetics and predicting exposures in paediatric patients, the exposure target of steady-state posaconazole average concentration (Cav) of approximately 1,200 ng/mL and Cav ≥ 500 ng/mL in approximately 90 % of patients is attained with the recommended dose of posaconazole concentrate for solution for infusion and gastro-resistant powder and solvent for oral suspension.
+Simulations, using the population pharmacokinetic model, predict a Cav ≥ 500 ng/mL in 90% of paediatric patients weighing at least 40 kg following administration of the adult dose of posaconazole gastro-resistant tablets (300 mg twice daily on Day 1 and 300 mg once daily starting on Day 2).
+
+The population pharmacokinetic analysis of posaconazole in paediatric patients suggests that age, sex, renal impairment and ethnicity have no clinically meaningful effect on the pharmacokinetics of posaconazole.
 
 The pharmacokinetics of posaconazole concentration for solution for infusion are comparable in men and women.
 
@@ -148,3 +168,18 @@ There is insufficient data among different races with posaconazole concentrate f
 Due to the variability in exposure, patients with severe renal impairment should be monitored closely for breakthrough fungal infections (see section 4.2).
 
 Similar recommendations apply to posaconazole concentrate for solution for infusion; however, a specific study has not been conducted with posaconazole concentrate for solution for infusion.
+
+[Noxafil 300 mg gastro-resistant powder and solvent for oral suspension]
+
+The absolute bioavailability of the gastro-resistant powder and solvent for oral suspension is approximately 83 %.
+Administration of posaconazole gastro-resistant powder and solvent for oral suspension following consumption of a high fat meal in adults had no significant effect on AUC and resulted in a moderate (23% to 41 %) decrease in Cmax.
+Based on a population pharmacokinetic model, no significant effect of a meal on posaconazole gastro-resistant powder and solvent for oral suspension bioavailability was identified in paediatric patients 2 to less than 18 years of age.
+Therefore, the gastro-resistant powder and solvent for oral suspension can be administered without regard to food.
+
+Concomitant administration of posaconazole gastro-resistant powder and solvent for oral suspension with medicinal products affecting gastric pH or gastric motility would not be expected to demonstrate any significant effects on posaconazole pharmacokinetic exposure based on similarity to the gastro-resistant tablets.
+Posaconazole has a central volume of distribution of 112 L (5.2 % RSE) based on population PK modelling in paediatric subjects receiving IV or PFS formulations.
+
+Posaconazole is slowly eliminated with a mean clearance 4.7 L/h (3.9%RSE) and a corresponding to half-life (t½) of 24 hours based on population PK modelling in paediatric subjects receiving IV or PFS.
+Steady-state plasma concentrations are attained by Day 7 after once daily dosing (twice daily on Day 1) in paediatric subject receiving PFS.
+
+No dose adjustment is recommended in case of renal impairment (see section 4.2).

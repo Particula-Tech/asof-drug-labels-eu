@@ -31,6 +31,7 @@ Co-administration of posaconazole with proton pump inhibitors should be avoided 
 
 Food
 The absorption of posaconazole is significantly increased by food (see sections 4.2 and 5.2).
+
 Effects of posaconazole on other medicinal products
 Posaconazole is a potent inhibitor of CYP3A4.
 Co-administration of posaconazole with CYP3A4 substrates may result in large increases in exposure to CYP3A4 substrates as exemplified by the effects on tacrolimus, sirolimus, atazanavir and midazolam below.
@@ -62,7 +63,6 @@ Rifabutin
 Posaconazole increased the Cmax and AUC of rifabutin by 31 % and 72 %, respectively.
 Concomitant use of posaconazole and rifabutin should be avoided unless the benefit to the patient outweighs the risk (see also above regarding the effect of rifabutin on plasma levels of posaconazole).
 If these medicinal products are co-administered, careful monitoring of full blood counts and adverse reactions related to increased rifabutin levels (e.g. uveitis) is recommended.
-
 Sirolimus
 Repeat dose administration of posaconazole oral suspension (400 mg twice daily for 16 days) increased the Cmax and AUC of sirolimus (2 mg single dose) an average of 6.7-fold and 8.9-fold (range 3.1 to 17.5-fold), respectively, in healthy subjects.
 The effect of posaconazole on sirolimus in patients is unknown, but is expected to be variable due to the variable posaconazole exposure in patients.
@@ -135,3 +135,7 @@ All drug interactions with posaconazole oral suspension, except for those that a
 After oral administration, posaconazole increased the Cmax and AUC of rifabutin by 31 % and 72 %, respectively.
 
 Repeat dose administration of oral posaconazole oral suspension (400 mg twice daily for 16 days) increased the Cmax and AUC of sirolimus (2 mg single dose) an average of 6.7-fold and 8.9-fold (range 3.1 to 17.5-fold), respectively, in healthy subjects.
+
+[Noxafil 300 mg gastro-resistant powder and solvent for oral suspension]
+
+(all sentences already above)

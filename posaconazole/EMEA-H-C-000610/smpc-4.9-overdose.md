@@ -15,3 +15,7 @@ There is no experience with overdose of posaconazole tablets.
 [Noxafil 300 mg concentrate for solution for infusion]
 
 There is no experience with overdose of posaconazole concentrate for solution for infusion.
+
+[Noxafil 300 mg gastro-resistant powder and solvent for oral suspension]
+
+There is no experience with overdose of posaconazole gastro-resistant powder and solvent for oral suspension.
