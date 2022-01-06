@@ -14,7 +14,6 @@ A positive association between mean, maximum or minimum plasma voriconazole conc
 
 Pharmacokinetic-Pharmacodynamic analyses of clinical trial data identified positive associations between plasma voriconazole concentrations and both liver function test abnormalities and visual disturbances.
 Dose adjustments in prophylaxis studies have not been explored.
-
 Clinical efficacy and safety
 In vitro, voriconazole displays broad-spectrum antifungal activity with antifungal potency against Candida species (including fluconazole-resistant C. krusei and resistant strains of C. glabrata and C. albicans) and fungicidal activity against all Aspergillus species tested.
 In addition voriconazole shows in vitro fungicidal activity against emerging fungal pathogens, including those such as Scedosporium or Fusarium which have limited susceptibility to existing antifungal agents.
@@ -58,19 +57,7 @@ EUCAST Breakpoints
 | Aspergillus niger | IE5 | IE5 |
 | Aspergillus terreus | IE5 | IE5 |
 | Non-species related breakpoints6 | IE | IE |
-
-1 Strains with MIC values above the Susceptible/Intermediate (S/I) breakpoint are rare or not yet reported.
-The identification and antifungal susceptibility tests on any such isolate must be repeated and if the result is confirmed the isolate sent to a reference laboratory.
-Until there is evidence regarding clinical response for confirmed isolates with MIC above the current resistant breakpoint they should be reported resistant.
-A clinical response of 76% was achieved in infections caused by the species listed below when MICs were lower than or equal to the epidemiological cut-offs.
-Therefore, wild type populations of C. albicans, C. dubliniensis, C. parapsilosis and C. tropicalis are considered susceptible.
-2 The epidemiological cut-off values (ECOFFs) for these species are in general higher than for C. albicans.
-3 Non-species related breakpoints have been determined mainly on the basis of PK/PD data and are independent of MIC distributions of specific Candida species.
-They are for use only for organisms that do not have specific breakpoints.
-4 Area of technical uncertainty (ATU) is 2.
-Report as R with the following comment: "In some clinical situations (non-invasive infections forms) voriconazole can be used provided sufficient exposure is ensured".
-5 The ECOFFs for these species are in general one two-fold dilution higher than for A. fumigatus.
-6 Non-species related breakpoints have not been determined.
+| 1 Strains with MIC values above the Susceptible/Intermediate (S/I) breakpoint are rare or not yet reported. The identification and antifungal susceptibility tests on any such isolate must be repeated and if the result is confirmed the isolate sent to a reference laboratory. Until there is evidence regarding clinical response for confirmed isolates with MIC above the current resistant breakpoint they should be reported resistant. A clinical response of 76% was achieved in infections caused by the species listed below when MICs were lower than or equal to the epidemiological cut-offs. Therefore, wild type populations of C. albicans, C. dubliniensis, C. parapsilosis and C. tropicalis are considered susceptible. 2 The epidemiological cut-off values (ECOFFs) for these species are in general higher than for C. albicans. 3 Non-species related breakpoints have been determined mainly on the basis of PK/PD data and are independent of MIC distributions of specific Candida species. They are for use only for organisms that do not have specific breakpoints. 4 Area of technical uncertainty (ATU) is 2. Report as R with the following comment: "In some clinical situations (non-invasive infections forms) voriconazole can be used provided sufficient exposure is ensured". 5 The ECOFFs for these species are in general one two-fold dilution higher than for A. fumigatus. 6 Non-species related breakpoints have not been determined. |  |  |
 
 Clinical experience
 Successful outcome in this section is defined as complete or partial response.
@@ -99,6 +86,7 @@ The median treatment duration was 15 days in both treatment arms.
 In the primary analysis, successful response as assessed by a Data Review Committee (DRC) blinded to study medicinal product was defined as resolution/improvement in all clinical signs and symptoms of infection with eradication of Candida from blood and infected deep tissue sites 12 weeks after the end of therapy (EOT).
 Patients who did not have an assessment 12 weeks after EOT were counted as failures.
 In this analysis a successful response was seen in 41% of patients in both treatment arms.
+
 In a secondary analysis, which utilised DRC assessments at the latest evaluable time point (EOT, or 2, 6, or 12 weeks after EOT) voriconazole and the regimen of amphotericin B followed by fluconazole had successful response rates of 65% and 71%, respectively.
 
 The Investigator’s assessment of successful outcome at each of these time points is shown in the following table.
@@ -135,6 +123,7 @@ The modified intent-to-treat (MITT) group included 465 allogeneic HSCT recipient
 From all patients 58% were subject to myeloablative conditions regimens.
 Prophylaxis with study drug was started immediately after HSCT: 224 received voriconazole and 241 received itraconazole.
 The median duration of study drug prophylaxis was 96 days for voriconazole and 68 days for itraconazole in the MITT group.
+
 Success rates and other secondary endpoints are presented in the table below:
 
 Study Endpoints Voriconazole Itraconazole Difference in P-Value
@@ -180,54 +169,33 @@ Success at Day 180* 70 (56.0%) 53 (37.1%) 20.1% (8.5%, 31.7%)***
 ** Using a margin of 5%, non inferiority is demonstrated
 *** Difference in proportions, 95% CI obtained after adjustment for randomization
 
-Secondary Prophylaxis of IFI – Efficacy in HSCT recipients with prior proven or probable IFI
-Voriconazole was investigated as secondary prophylaxis in an open-label, non-comparative, multicenter study of adult allogeneic HSCT recipients with prior proven or probable IFI.
+Secondary Prophylaxis of IFI – Efficacy in HSCT recipients with prior proven or probable IFI Voriconazole was investigated as secondary prophylaxis in an open-label, non-comparative, multicenter study of adult allogeneic HSCT recipients with prior proven or probable IFI.
 The primary endpoint was the rate of occurrence of proven and probable IFI during the first year after HSCT.
 The MITT group included 40 patients with prior IFI, including 31 with aspergillosis, 5 with candidiasis, and 4 with other IFI.
 The median duration of study drug prophylaxis was 95.5 days in the MITT group.
 
 Proven or probable IFIs developed in 7.5% (3/40) of patients during the first year after HSCT, including one candidemia, one scedosporiosis (both relapses of prior IFI), and one zygomycosis.
 The survival rate at Day 180 was 80.0% (32/40) and at 1 year was 70.0% (28/40).
+
 Duration of treatment
 In clinical trials, 705 patients received voriconazole therapy for greater than 12 weeks, with 164 patients receiving voriconazole for over 6 months.
-
 Paediatric population
 Fifty-three paediatric patients aged 2 to <18 years were treated with voriconazole in two prospective, open-label, non-comparative, multi-center clinical trials.
 One study enrolled 31 patients with possible, proven or probable invasive aspergillosis (IA), of whom 14 patients had proven or probable IA and were included in the MITT efficacy analyses.
 The second study enrolled 22 patients with invasive candidiasis including candidaemia (ICC), and esophageal candidiasis (EC) requiring either primary or salvage therapy, of whom 17 were included in the MITT efficacy analyses.
 For patients with IA the overall rates of global response at 6 weeks were 64.3% (9/14), the global response rate was 40% (2/5) for patients 2 to <12 years and 77.8% (7/9) for patients 12 to <18 years of age.
 For patients with ICC the global response rate at EOT was 85.7% (6/7) and for patients with EC the global response rate at EOT was 70% (7/10).
-The overall rate of response (ICC and EC combined) was 88.9% (8/9) for 2 to <12 years old and 62.5% (5/8) for 12 to
-<18 years old.
+The overall rate of response (ICC and EC combined) was 88.9% (8/9) for 2 to <12 years old and 62.5% (5/8) for 12 to <18 years old.
 
 Clinical studies examining QTc interval
 A placebo-controlled, randomized, single-dose, crossover study to evaluate the effect on the QTc interval of healthy volunteers was conducted with three oral doses of voriconazole and ketoconazole.
 The placebo-adjusted mean maximum increases in QTc from baseline after 800, 1200 and 1600 mg of voriconazole were 5.1, 4.8, and 8.2 msec, respectively and 7.0 msec for ketoconazole 800 mg.
-No subject in any group had an increase in QTc of ≥60 msec from baseline.
+No subject in any group had an increase in QTc of ≥ 60 msec from baseline.
 No subject experienced an interval exceeding the potentially clinically-relevant threshold of 500 msec.
 
 [VFEND 200 mg powder for solution for infusion]
 
 Clinical efficacy defined as partial or complete response, has been demonstrated for Aspergillus spp. including A. flavus, A. fumigatus, A. terreus, A. niger, A. nidulans; Candida spp., including C. albicans, C. glabrata, C. krusei, C. parapsilosis and C. tropicalis; and limited numbers of C. dubliniensis, C. inconspicua, and C. guilliermondii, Scedosporium spp., including S. apiospermum, S. prolificans; and Fusarium spp.
-
-| Candida and Aspergillus species | Minimal Inhibitory Concentration (MIC) breakpoint (mg/L) |  |
-| --- | --- | --- |
-|  | ≤S (Susceptible) | >R (Resistant) |
-| Candida albicans1 | 0.06 | 0.25 |
-| Candida dubliniensis1 | 0.06 | 0.25 |
-| Candida glabrata | Insufficient evidence (IE) | IE |
-| Candida krusei | IE | IE |
-| Candida parapsilosis1 | 0.125 | 0.25 |
-| Candida tropicalis1 | 0.125 | 0.25 |
-| Candida guilliermondii2 | IE | IE |
-| Non-species related breakpoints for Candida3 | IE | IE |
-| Aspergillus fumigatus4 | 1 | 1 |
-| Aspergillus nidulans4 | 1 | 1 |
-| Aspergillus flavus | IE5 | IE5 |
-| Aspergillus niger | IE5 | IE5 |
-| Aspergillus terreus | IE5 | IE5 |
-| Non-species related breakpoints6 | IE | IE |
-| 1 Strains with MIC values above the Susceptible/Intermediate (S/I) breakpoint are rare or not yet reported. The identification and antifungal susceptibility tests on any such isolate must be repeated and if the result is confirmed the isolate sent to a reference laboratory. Until there is evidence regarding clinical response for confirmed isolates with MIC above the current resistant breakpoint they should be reported resistant. A clinical response of 76% was achieved in infections caused by the species listed below when MICs were lower than or equal to the epidemiological cut-offs. Therefore, wild type populations of C. albicans, C. dubliniensis, C. parapsilosis and C. tropicalis are considered susceptible. 2 The epidemiological cut-off values (ECOFFs) for these species are in general higher than for C. albicans. 3 Non-species related breakpoints have been determined mainly on the basis of PK/PD data and are independent of MIC distributions of specific Candida species. They are for use only for organisms that do not have specific breakpoints. 4 Area of technical uncertainty (ATU) is 2. Report as R with the following comment: "In some clinical situations (non-invasive infections forms) voriconazole can be used provided sufficient exposure is ensured". 5 The ECOFFs for these species are in general one two-fold dilution higher than for A. fumigatus. 6 Non-species related breakpoints have not been determined. |  |  |
 
 ** Difference in proportions, 95% CI and p-values obtained after adjustment for randomization
 
@@ -235,12 +203,7 @@ Study endpoints Voriconazole Itraconazole Difference in proportions and
 (N=98) (N=109) the 95% confidence interval
 (CI)
 
-| Study endpoints |  | Voriconazole (N=125) | Itraconazole (N=143) | Difference in proportions and the 95% confidence interval (CI) |
-| --- | --- | --- | --- | --- |
-| Breakthrough IFI – Day 180 | 2 (1.6%) |  | 3 (2.1%) | -0.5% (-3.7%, 2.7%) ** |
-| Success at Day 180* | 70 (56.0%) |  | 53 (37.1%) | 20.1% (8.5%, 31.7%)*** |
-
-The overall rate of response (ICC and EC combined) was 88.9% (8/9) for 2 to <12 years old and 62.5% (5/8) for 12 to <18 years old.
+(N=125) (N=143) the 95% confidence interval (CI)
 
 [VFEND 40 mg/ml powder for oral suspension]
 
@@ -258,5 +221,3 @@ Developed proven or probable 0 3 (1.2%) -1.2% (-2.6%, 0.2%) 0.0813
 IFI while on study drug
 
 (N=98) (N=109) the 95% confidence interval (CI)
-
-(N=125) (N=143) the 95% confidence interval (CI)

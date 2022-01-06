@@ -22,11 +22,11 @@ Distribution
 The volume of distribution at steady state for voriconazole is estimated to be 4.6 L/kg, suggesting extensive distribution into tissues.
 Plasma protein binding is estimated to be 58%.
 Cerebrospinal fluid samples from eight patients in a compassionate programme showed detectable voriconazole concentrations in all patients.
+
 Biotransformation
 In vitro studies showed that voriconazole is metabolised by the hepatic cytochrome P450 isoenzymes CYP2C19, CYP2C9 and CYP3A4.
 
 The inter-individual variability of voriconazole pharmacokinetics is high.
-
 In vivo studies indicated that CYP2C19 is significantly involved in the metabolism of voriconazole.
 This enzyme exhibits genetic polymorphism.
 For example, 15-20% of Asian populations may be expected to be poor metabolisers.
@@ -110,5 +110,7 @@ In patients with moderate to severe renal dysfunction (serum creatinine levels >
 
 Bioequivalence was established between the 200 mg tablet and the 40 mg/ml oral suspension when administered as a 200 mg dose.
 When multiple doses of voriconazole oral suspension are administered with high fat meals, Cmax and AUCτ are reduced by 58% and 37% respectively.
+
+A relationship between plasma concentrations and age was observed.The safety profile of voriconazole in young and elderly patients was similar and, therefore, no dosage adjustment is necessary for the elderly (see section 4.2).
 
 In an oral single-dose (200 mg) study in subjects with normal renal function and mild (creatinine clearance 41-60 ml/min) to severe (creatinine clearance <20 ml/min) renal impairment, the pharmacokinetics of voriconazole were not significantly affected by renal impairment.

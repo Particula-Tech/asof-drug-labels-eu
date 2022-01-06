@@ -20,7 +20,7 @@ Undesirable effects reported in subjects receiving voriconazole:
 | System Organ Class | Very common ≥ 1/10 | Common ≥ 1/100 to < 1/10 | Uncommon ≥ 1/1,000 to < 1/100 | Rare ≥ 1/10,000 to < 1/1,000 | Frequency not known (cannot be estimated from available data) |
 | --- | --- | --- | --- | --- | --- |
 | Infections and infestations |  | sinusitis | pseudomembranou s colitis |  |  |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  |  | squamous cell carcinoma * |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  |  | squamous cell carcinoma (including cutaneous SCC in situ, or Bowen’s disease)* |
 | Blood and lymphatic system disorders |  | agranulocytosis1, pancytopenia, thrombocytopenia2 , leukopenia, anaemia | bone marrow failure, lymphadenopathy, eosinophilia | disseminated intravascular coagulation |  |
 | Immune system disorders |  |  | hypersensitivity | anaphylactoid reaction |  |
 | Endocrine disorders |  |  | adrenal insufficiency, hypothyroidism | hyperthyroidis m |  |
@@ -77,7 +77,7 @@ Patients have developed severe cutaneous adverse reactions (SCARs), including St
 If a patient develops a rash they should be monitored closely and VFEND discontinued if lesions progress.
 Photosensitivity reactions such as ephelides, lentigo and actinic keratosis have been reported, especially during long-term therapy (see section 4.4).
 
-There have been reports of squamous cell carcinoma of the skin in patients treated with VFEND for long periods of time; the mechanism has not been established (see section 4.4).
+There have been reports of squamous cell carcinoma of the skin (including cutaneous SCC in situ, or Bowen’s disease) in patients treated with VFEND for long periods of time; the mechanism has not been established (see section 4.4).
 
 Liver function tests
 The overall incidence of transaminase increases >3 xULN (not necessarily comprising an adverse event) in the voriconazole clinical programme was 18.0% (319/1,768) in adults and 25.8% (73/283) in paediatric subjects who received voriconazole for pooled therapeutic and prophylaxis use.
@@ -90,7 +90,6 @@ This includes cases of jaundice, hepatitis and hepatic failure leading to death 
 Prophylaxis
 In an open-label, comparative, multicenter study comparing voriconazole and itraconazole as primary prophylaxis in adult and adolescent allogeneic HSCT recipients without prior proven or probable IFI, permanent discontinuation of voriconazole due to AEs was reported in 39.3% of subjects versus 39.6% of subjects in the itraconazole arm.
 Treatment-emergent hepatic AEs resulted in permanent discontinuation of study medication for 50 subjects (21.4%) treated with voriconazole and for 18 subjects (7.1%) treated with itraconazole.
-
 Paediatric population
 The safety of voriconazole was investigated in 288 paediatric patients aged 2 to <12 years (169) and 12 to <18 years (119) who received voriconazole for prophylaxis (183) and therapeutic use (105) in clinical trials.
 The safety of voriconazole was also investigated in 158 additional paediatric patients aged 2 to <12 years in compassionate use programs.

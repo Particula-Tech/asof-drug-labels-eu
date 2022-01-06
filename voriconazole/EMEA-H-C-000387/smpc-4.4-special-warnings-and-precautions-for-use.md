@@ -40,7 +40,7 @@ It is recommended that all patients, including children, avoid exposure to direc
 
 - Squamous cell carcinoma of the skin (SCC)
 
-Squamous cell carcinoma of the skin has been reported in patients, some of whom have reported prior phototoxic reactions.
+Squamous cell carcinoma of the skin (including cutaneous SCC in situ, or Bowen’s disease) has been reported in patients, some of whom have reported prior phototoxic reactions.
 If phototoxic reactions occur multidisciplinary advice should be sought, VFEND discontinuation and use of alternative antifungal agents should be considered and the patient should be referred to a dermatologist.
 If VFEND is continued, however, dermatologic evaluation should be performed on a systematic and regular basis, to allow early detection and management of premalignant lesions.
 VFEND should be discontinued if premalignant skin lesions or squamous cell carcinoma are identified (see below the section under Long-term treatment).
@@ -51,7 +51,7 @@ Severe cutaneous adverse reactions (SCARs) including Stevens-Johnson syndrome (S
 If a patient develops a rash he should be monitored closely and VFEND discontinued if lesions progress.
 
 Adrenal events
-Reversible cases of adrenal insufficiency have been reported in patients receiving azoles, including voriconazole.
+Reversible cases of adrenal insufficiency have been reported in patients receiving azoles including voriconazole.
 Adrenal insufficiency has been reported in patients receiving azoles with or without concomitant corticosteroids.
 In patients receiving azoles without corticosteroids, adrenal insufficiency is related to direct inhibition of steroidogenesis by azoles.
 In patients taking corticosteroids, voriconazole associated CYP3A4 inhibition of their metabolism may lead to corticosteroid excess and adrenal suppression (see section 4.5).
@@ -63,7 +63,7 @@ Patients should be instructed to seek immediate medical care if they develop sig
 Long-term treatment
 Long term exposure (treatment or prophylaxis) greater than 180 days (6 months) requires careful assessment of the benefit-risk balance and physicians should therefore consider the need to limit the exposure to VFEND (see sections 4.2 and 5.1).
 
-Squamous cell carcinoma of the skin (SCC) has been reported in relation with long-term VFEND treatment.
+Squamous cell carcinoma of the skin (SCC) (including cutaneous SCC in situ, or Bowen’s disease) has been reported in relation with long-term VFEND treatment.
 
 Non-infectious periostitis with elevated fluoride and alkaline phosphatase levels has been reported in transplant patients.
 If a patient develops skeletal pain and radiologic findings compatible with periostitis VFEND discontinuation should be considered after multidisciplinary advice.
@@ -130,7 +130,7 @@ Dose reduction of methadone may be needed (see section 4.5).
 
 Short-acting opiates (CYP3A4 substrate)
 Reduction in the dose of alfentanil, fentanyl and other short-acting opiates similar in structure to alfentanil and metabolised by CYP3A4 (e.g., sufentanil) should be considered when coadministered with voriconazole (see section 4.5).
-As the half-life of alfentanil is prolonged in a 4-fold manner when alfentanil is coadministered with voriconazole, and in an independent published study concomitant use of voriconazole with fentanyl resulted in an increase in the mean AUC0-∞of fentanyl, frequent monitoring for opiate-associated adverse reactions (including a longer respiratory monitoring period) may be necessary.
+As the half-life of alfentanil is prolonged in a 4-fold manner when alfentanil is coadministered with voriconazole, and in an independent published study concomitant use of voriconazole with fentanyl resulted in an increase in the mean AUC0-∞ of fentanyl, frequent monitoring for opiate-associated adverse reactions (including a longer respiratory monitoring period) may be necessary.
 
 Long-acting opiates (CYP3A4 substrate)
 Reduction in the dose of oxycodone and other long-acting opiates metabolised by CYP3A4 (e.g., hydrocodone) should be considered when coadministered with voriconazole.
@@ -159,6 +159,8 @@ Infusion-related reactions
 Infusion-related reactions, predominantly flushing and nausea, have been observed during administration of the intravenous formulation of voriconazole.
 Depending on the severity of symptoms, consideration should be given to stopping treatment (see section 4.8).
 
+Reversible cases of adrenal insufficiency have been reported in patients receiving azoles, including: voriconazole.
+
 This medicinal product contains 221 mg of sodium per vial, equivalent to 11% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 
 Cyclodextrins
@@ -168,6 +170,8 @@ Safety aspects of cyclodextrins have been considered during the development and 
 As cyclodextrins are renally excreted, in patients with moderate to severe renal dysfunction accumulation of cyclodextrin may occur.
 
 [VFEND 40 mg/ml powder for oral suspension]
+
+Reversible cases of adrenal insufficiency have been reported in patients receiving azoles, including voriconazole.
 
 Sucrose
 This medicinal product contains 0.54 g sucrose per ml.
