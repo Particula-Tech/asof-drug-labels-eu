@@ -16,4 +16,4 @@ Breast-feeding
 ZYTIGA is not for use in women.
 
 Fertility
-Abiraterone affected fertility in male and female rats, but these effects were fully reversible (see section 5.3).
+Abiraterone acetate affected fertility in male and female rats, but these effects were fully reversible (see section 5.3).

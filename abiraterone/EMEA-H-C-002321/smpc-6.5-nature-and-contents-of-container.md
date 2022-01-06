@@ -5,7 +5,9 @@ Each pack contains one bottle.
 
 [ZYTIGA 500 mg film-coated tablets]
 
-PVdC/PE/PVC/aluminum blister of 14 film-coated tablets in a cardboard wallet.
+PVdC/PE/PVC/aluminium blister of 14 film-coated tablets in a cardboard wallet.
 Each carton contains (56 film-coated tablets) 4 wallets.
-PVdC/PE/PVC/aluminum blister of 12 film-coated tablets in a cardboard wallet.
+PVdC/PE/PVC/aluminium blister of 12 film-coated tablets in a cardboard wallet.
 Each carton contains (60 film-coated tablets) 5 wallets.
+
+Not all pack sizes may be marketed.

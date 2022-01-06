@@ -50,8 +50,9 @@ There is no relevant use of ZYTIGA in the paediatric population.
 
 Method of administration
 ZYTIGA is for oral use.
-The tablets should be taken at least one hour before or at least two hours after eating.
-These should be swallowed whole with water.
+The tablets must be taken as a single dose once daily on an empty stomach.
+ZYTIGA must be taken at least two hours after eating and food must not be eaten for at least one hour after taking ZYTIGA.
+ZYTIGA tablets must be swallowed whole with water.
 
 [ZYTIGA 500 mg film-coated tablets]
 

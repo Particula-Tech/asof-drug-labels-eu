@@ -21,7 +21,7 @@ In a Phase 3 clinical study of patients who failed prior chemotherapy with taxan
 
 Clinical efficacy and safety
 Efficacy was established in three randomised placebo-controlled multicentre Phase 3 clinical studies (studies 3011, 302 and 301) of patients with mHSPC and mCRPC.
-Study 3011 enrolled patients who were newly diagnosed (within 3 months of randomization) mHSPC who had high-risk prognostic factors.
+Study 3011 enrolled patients who were newly diagnosed (within 3 months of randomisation) mHSPC who had high-risk prognostic factors.
 High-risk prognosis was defined as having at least 2 of the following 3 risk factors: (1) Gleason score of ≥8; (2) presence of 3 or more lesions on bone scan; (3) presence of measurable visceral (excluding lymph node disease) metastasis.
 In the active arm, ZYTIGA was administered at a dose of 1000 mg daily in combination with low dose prednisone 5 mg once daily in addition to ADT (LHRH agonist or orchiectomy), which was the standard of care treatment.
 Patients in the control arm received ADT and placebos for both ZYTIGA and prednisone.
@@ -46,12 +46,12 @@ The median baseline pain score, as measured by the Brief Pain Inventory Short Fo
 In addition to the co-primary endpoint measures, benefit was also assessed using time to skeletal-related event (SRE), time to subsequent therapy for prostate cancer, time to initiation of chemotherapy, time to pain progression, and time to PSA progression.
 Treatment continued until disease progression, withdrawal of consent, the occurrence of unacceptable toxicity, or death.
 
-Radiographic progression-free survival was defined as the time from randomization to the occurrence of radiographic progression or death from any cause.
+Radiographic progression-free survival was defined as the time from randomisation to the occurrence of radiographic progression or death from any cause.
 Radiographic progression included progression by bone scan (according to modified PCWG2) or progression of soft tissue lesions by CT or MRI (according to RECIST 1.1).
 
 A significant difference in rPFS between treatment groups was observed (see Table 2 and Figure 1).
 
-Table 2: Radiographic Progression-Free Survival - Stratified Analysis; Intent-to-treat Population
+Table 2: Radiographic Progression-Free Survival – Stratified Analysis; Intent-to-treat Population
 (Study PCR3011)
 AA-P Placebo
 Subjects randomised 597 602
@@ -65,19 +65,16 @@ Hazard ratio (95% CI)b 0.466 (0.394, 0.550)
 Note: += censored observation, NE=not estimable. The radiographic progression and death are considered in
 defining the rPFS event. AA-P= subjects who received abiraterone acetate and prednisone.
 a p value is from a log-rank test stratified by ECOG PS score (0/1 or 2) and visceral lesion (absent or present).
-b Hazard ratio is from stratified proportional hazards model. Hazard ratio <1 favors AA-P.
+b Hazard ratio is from stratified proportional hazards model. Hazard ratio <1 favours AA-P.
 Figure 1: Kaplan-Meier Plot of Radiographic Progression-free Survival; Intent-to-treat Population (Study
 PCR3011)
 
-A statistically significant improvement in OS in favor of AA-P plus ADT was observed with a 34% reduction in the risk of death compared to Placebo plus ADT (HR=0.66; 95% CI: 0.56, 0.78; p<0.0001), (see Table 3 and Figure 2).
+A statistically significant improvement in OS in favour of AA-P plus ADT was observed with a 34% reduction in the risk of death compared to Placebo plus ADT (HR=0.66; 95% CI: 0.56, 0.78; p<0.0001), (see Table 3 and Figure 2).
 
-Table 3: Overall Survival of Patients Treated with Either ZYTIGA or Placebos in Study PCR3011 (Intent-to-Treat Analysis)
-
-Overall Survival ZYTIGA with Placebos
-Prednisone (N=602)
-
-(N=597)
-
+Table 3: Overall Survival of Patients Treated with Either ZYTIGA or Placebos in Study PCR3011
+(Intent-to-Treat Analysis)
+Overall Survival ZYTIGA with Prednisone Placebos
+(N=597) (N=602)
 Deaths (%) 275 (46%) 343 (57%)
 Median survival (months) 53.3 36.5
 (95% CI) (48.2, NE) (33.5, 40.0)
@@ -85,12 +82,12 @@ Hazard ratio (95% CI)1 0.66 (0.56, 0.78)
 
 NE=Not estimable
 1 Hazard Ratio is derived from a stratified proportional hazards model.
-Hazard ratio <1 favors ZYTIGA with prednisone.
+Hazard ratio <1 favours ZYTIGA with prednisone.
 
 Figure 2: Kaplan-Meier Plot of Overall Survival; Intent-to-treat Population in Study PCR3011 Analysis
 
-Subgroup analyses consistently favor treatment with ZYTIGA.
-The treatment effect of AA-P on rPFS and OS across the pre-specified subgroups was favorable and consistent with the overall study population, except for the subgroup of ECOG score of 2 where no trend towards benefit was observed, however the small sample size (n=40) limits drawing any meaningful conclusion.
+Subgroup analyses consistently favour treatment with ZYTIGA.
+The treatment effect of AA-P on rPFS and OS across the pre-specified subgroups was favourable and consistent with the overall study population, except for the subgroup of ECOG score of 2 where no trend towards benefit was observed, however the small sample size (n=40) limits drawing any meaningful conclusion.
 
 In addition to the observed improvements in overall survival and rPFS, benefit was demonstrated for ZYTIGA vs. placebo treatment in all prospectively-defined secondary endpoints.
 
@@ -104,12 +101,11 @@ The Eastern Cooperative Oncology Group (ECOG) performance status was 0 for 76% o
 Fifty percent of patients had only bone metastases, an additional 31% of patients had bone and soft tissue or lymph node metastases and 19% of patients had only soft tissue or lymph node metastases.
 Patients with visceral metastases were excluded.
 Co-primary efficacy endpoints were overall survival and radiographic progression-free survival (rPFS).
-In addition to the co-primary endpoint measures, benefit was also assessed using time to opiate use for cancer pain, time to initiation of cytotoxic chemotherapy, time to deterioration in ECOG performance score by
-≥1 point and time to PSA progression based on Prostate Cancer Working Group-2 (PCWG2) criteria.
+In addition to the co-primary endpoint measures, benefit was also assessed using time to opiate use for cancer pain, time to initiation of cytotoxic chemotherapy, time to deterioration in ECOG performance score by ≥1 point and time to PSA progression based on Prostate Cancer Working Group-2 (PCWG2) criteria.
 Study treatments were discontinued at the time of unequivocal clinical progression.
 Treatments could also be discontinued at the time of confirmed radiographic progression at the discretion of the investigator.
 
-Radiographic progression free survival (rPFS) was assessed with the use of sequential imaging studies as defined by PCWG2 criteria (for bone lesions) and modified Response Evaluation Criteria In Solid Tumors (RECIST) criteria (for soft tissue lesions).
+Radiographic progression free survival (rPFS) was assessed with the use of sequential imaging studies as defined by PCWG2 criteria (for bone lesions) and modified Response Evaluation Criteria In Solid Tumours (RECIST) criteria (for soft tissue lesions).
 Analysis of rPFS utilised centrally-reviewed radiographic assessment of progression.
 
 At the planned rPFS analysis there were 401 events, 150 (28%) of patients treated with ZYTIGA and 251 (46%) of patients treated with placebo had radiographic evidence of progression or had died.
@@ -137,6 +133,7 @@ NE = Not estimated
 Figure 3: Kaplan Meier curves of radiographic progression-free survival in patients treated with either ZYTIGA or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy
 
 AA = ZYTIGA
+
 However, subject data continued to be collected through the date of the second interim analysis of Overall survival (OS).
 The investigator radiographic review of rPFS performed as a follow up sensitivity analysis is presented in Table 5 and Figure 4.
 
@@ -168,11 +165,11 @@ Hazard ratio**
 Figure 4: Kaplan Meier curves of radiographic progression-free survival in patients treated with either ZYTIGA or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy (At second interim analysis of OS-Investigator Review)
 
 AA = ZYTIGA
+
 A planned interim analysis (IA) for OS was conducted after 333 deaths were observed.
 The study was unblinded based on the magnitude of clinical benefit observed and patients in the placebo group were offered treatment with ZYTIGA.
 Overall survival was longer for ZYTIGA than placebo with a 25% reduction in risk of death (HR = 0.752; 95% CI: [0.606; 0.934], p = 0.0097), but OS was not mature and interim results did not meet the pre-specified stopping boundary for statistical significance (see Table 4).
 Survival continued to be followed after this IA.
-
 The planned final analysis for OS was conducted after 741 deaths were observed (median follow up of 49 months).
 Sixty-five percent (354 of 546) of patients treated with ZYTIGA, compared with 71% (387 of 542) of patients treated with placebo, had died.
 A statistically significant OS benefit in favour of the ZYTIGA-treated group was demonstrated with a 19.4% reduction in risk of death
@@ -218,11 +215,12 @@ Time to PSA progression based on PCWG2 criteria: The median time to PSA progress
 (HR = 0.488; 95% CI: [0.420; 0.568], p < 0.0001).
 The time to PSA progression was approximately doubled with ZYTIGA treatment (HR = 0.488).
 The proportion of subjects with a confirmed PSA response was greater in the ZYTIGA group than in the placebo group (62% vs. 24%; p < 0.0001).
-In subjects with measurable soft tissue disease, significantly increased numbers of complete and partial tumor responses were seen with ZYTIGA treatment.
+In subjects with measurable soft tissue disease, significantly increased numbers of complete and partial tumour responses were seen with ZYTIGA treatment.
 
 Time to opiate use for cancer pain: The median time to opiate use for prostate cancer pain at the time of final analysis was 33.4 months for patients receiving ZYTIGA and was 23.4 months for patients receiving placebo (HR = 0.721; 95% CI: [0.614; 0.846], p < 0.0001).
 
-Time to initiation of cytotoxic chemotherapy: The median time to initiation of cytotoxic chemotherapy was 25.2 months for patients receiving ZYTIGA and 16.8 months for patients receiving placebo (HR = 0.580; 95% CI: [0.487; 0.691], p < 0.0001).
+Time to initiation of cytotoxic chemotherapy: The median time to initiation of cytotoxic chemotherapy was 25.2 months for patients receiving ZYTIGA and 16.8 months for patients receiving placebo
+(HR = 0.580; 95% CI: [0.487; 0.691], p < 0.0001).
 
 Time to deterioration in ECOG performance score by ≥1 point: The median time to deterioration in ECOG performance score by ≥1 point was 12.3 months for patients receiving ZYTIGA and 10.9 months for patients receiving placebo (HR = 0.821; 95% CI: [0.714; 0.943], p = 0.0053).
 
@@ -319,7 +317,4 @@ See section 4.2 for information on paediatric use.
 
 [ZYTIGA 500 mg film-coated tablets]
 
-A statistically significant improvement in OS in favor of AA-P plus ADT was observed with a 34% reduction in the risk of death compared to Placebo plus ADT (HR=0.66; 95% CI: 0.56, 0.78; p<0.0001, (see Table 3 and Figure 2).
-
-Overall Survival ZYTIGA with Prednisone Placebos
-(N=597) (N=602)
+Table 3: Overall Survival of Patients Treated with Either ZYTIGA or Placebos in Study PCR3011 (Intent-to-Treat Analysis)

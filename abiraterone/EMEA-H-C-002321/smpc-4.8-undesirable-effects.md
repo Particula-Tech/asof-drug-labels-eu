@@ -5,7 +5,7 @@ In an analysis of adverse reactions of composite Phase 3 studies with ZYTIGA, ad
 Other important adverse reactions include, cardiac disorders, hepatotoxicity, fractures, and allergic alveolitis.
 
 ZYTIGA may cause hypertension, hypokalaemia and fluid retention as a pharmacodynamic consequence of its mechanism of action.
-In Phase 3 studies, anticipated mineralocorticoid adverse reactions were seen more commonly in patients treated with abiraterone acetate than in patients treated with placebo: hypokalaemia 18% vs.8%, hypertension 22% vs. 16% and fluid retention (peripheral oedema) 23% vs. 17%, respectively.
+In Phase 3 studies, anticipated mineralocorticoid adverse reactions were seen more commonly in patients treated with abiraterone acetate than in patients treated with placebo: hypokalaemia 18% vs. 8%, hypertension 22% vs. 16% and fluid retention (peripheral oedema) 23% vs. 17%, respectively.
 In patients treated with abiraterone acetate versus patients treated with placebo: CTCAE (version 4.0) Grades 3 and 4 hypokalaemia were observed in 6% versus 1%, CTCAE (version 4.0) Grades 3 and 4 hypertension were observed in 7% versus 5%, and fluid retention (peripheral oedema) Grades 3 and 4 were observed in 1% versus 1% of patients, respectively.
 Mineralocorticoid reactions generally were able to be successfully managed medically.
 Concomitant use of a corticosteroid reduces the incidence and severity of these adverse reactions (see section 4.4).
@@ -23,6 +23,7 @@ Table 1: Adverse reactions identified in clinical studies and post-marketing
 | System Organ Class | Adverse reaction and frequency |
 | --- | --- |
 | Infections and infestations | very common: urinary tract infection common: sepsis |
+| Immune system disorders | not known: anaphylactic reactions |
 | Endocrine disorders | uncommon: adrenal insufficiency |
 | Metabolism and nutrition disorders | very common: hypokalaemia common: hypertriglyceridaemia |
 | Cardiac disorders | common: cardiac failure*, angina pectoris, atrial fibrillation, tachycardia uncommon: other arrhythmias not known: myocardial infarction, QT prolongation (see sections 4.4 and 4.5) |
@@ -41,10 +42,10 @@ Table 1: Adverse reactions identified in clinical studies and post-marketing
 
 The following CTCAE (version 4.0) Grade 3 adverse reactions occurred in patients treated with abiraterone acetate: hypokalaemia 5%; urinary tract infection 2%; alanine aminotransferase increased and/or aspartate aminotransferase increased 4%; hypertension 6%; fractures 2%; peripheral oedema, cardiac failure, and atrial fibrillation 1% each.
 CTCAE (version 4.0) Grade 3 hypertriglyceridaemia and angina pectoris occurred in < 1% of patients.
-CTCAE (version 4.0) Grade 4 urinary tract infection, alanine aminotransferase increased and/or aspartate aminotransferase increased, hypokalemia, cardiac failure, atrial fibrillation, and fractures occurred in < 1% of patients.
-A higher incidence of hypertension and hypokalemia was observed in the hormone sensitive population (study 3011).
+CTCAE (version 4.0) Grade 4 urinary tract infection, alanine aminotransferase increased and/or aspartate aminotransferase increased, hypokalaemia, cardiac failure, atrial fibrillation, and fractures occurred in < 1% of patients.
+A higher incidence of hypertension and hypokalaemia was observed in the hormone sensitive population (study 3011).
 Hypertension was reported in 36.7% of patients in the hormone sensitive population (study 3011) compared to 11.8% and 20.2% in studies 301 and 302, respectively.
-Hypokalemia was observed in 20.4% of patients in the hormone sensitive population (study 3011) compared to 19.2% and 14.9% in 301 and 302, respectively).
+Hypokalaemia was observed in 20.4% of patients in the hormone sensitive population (study 3011) compared to 19.2% and 14.9% in 301 and 302, respectively).
 
 The incidence and severity of adverse events was higher in the subgroup of patients with baseline ECOG2 performance status grade and also in elderly patients (≥75 years).
 
@@ -78,14 +79,7 @@ Abnormal liver function tests developing in patients participating in clinical t
 Patients with elevations of ALT or AST > 20 x ULN were not re-treated.
 The safety of re-treatment in such patients is unknown.
 The mechanism for hepatotoxicity is not understood.
-
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-[ZYTIGA 500 mg film-coated tablets]
-
-In an analysis of adverse reactions of composite Phase 3 studies with ZYTIGA, adverse reactions that were observed in ≥10% of patients were peripheral oedema, hypokalaemia, hypertension urinary tract infection, and alanine aminotransferase increased and/or aspartate aminotransferase increased.
-
-The incidence and severity of adverse events was higher in the subgroup of patients with baseline ECOG2 performance status grade and also in elderly patients (≥75 years ).

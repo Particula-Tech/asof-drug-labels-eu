@@ -7,7 +7,8 @@ Caution is required in treating patients whose underlying medical conditions mig
 ZYTIGA should be used with caution in patients with a history of cardiovascular disease.
 The Phase 3 studies conducted with ZYTIGA excluded patients with uncontrolled hypertension, clinically significant heart disease as evidenced by myocardial infarction, or arterial thrombotic events in the past 6 months, severe or unstable angina, or New York Heart Association Class (NYHA) III or IV heart failure (study 301) or Class II to IV heart failure (studies 3011 and 302) or cardiac ejection fraction measurement of < 50%.
 In studies 3011 and 302, patients with atrial fibrillation, or other cardiac arrhythmia requiring medical therapy were excluded.
-Safety in patients with left ventricular ejection fraction (LVEF) < 50% or NYHA Class III or IV heart failure (in study 301) or NYHA Class II to IV heart failure (in studies 3011 and 302) was not established (see sections 4.8 and 5.1).
+Safety in patients with left ventricular ejection fraction (LVEF) < 50% or NYHA Class III or IV heart failure (in study 301) or NYHA
+Class II to IV heart failure (in studies 3011 and 302) was not established (see sections 4.8 and 5.1).
 
 Before treating patients with a significant risk for congestive heart failure (e.g.a history of cardiac failure, uncontrolled hypertension, or cardiac events such as ischaemic heart disease), consider obtaining an assessment of cardiac function (e.g. echocardiogram).
 Before treatment with ZYTIGA, cardiac failure should be treated and cardiac function optimised.
@@ -47,6 +48,9 @@ Lower rates of response might be expected in patients previously treated with ke
 Hyperglycaemia
 The use of glucocorticoids could increase hyperglycaemia, therefore blood sugar should be measured frequently in patients with diabetes.
 
+Hypoglycaemia
+Cases of hypoglycaemia have been reported when ZYTIGA plus prednisone/prednisolone was administered to patients with pre-existing diabetes receiving pioglitazone or repaglinide (see section 4.5); therefore, blood sugar should be monitored in patients with diabetes.
+
 Use with chemotherapy
 The safety and efficacy of concomitant use of ZYTIGA with cytotoxic chemotherapy has not been established (see section 5.1).
 
@@ -69,8 +73,11 @@ Strong inducers of CYP3A4 during treatment are to be avoided unless there is no 
 
 Combination of abiraterone and prednisone/prednisolone with Ra-223
 Treatment with abiraterone and prednisone/prednisolone in combination with Ra-223 is contraindicated (see section 4.3) due to an increased risk of fractures and a trend for increased mortality among asymptomatic or mildly symptomatic prostate cancer patients as observed in clinical trials.
+
 It is recommended that subsequent treatment with Ra-223 is not initiated for at least 5 days after the last administration of ZYTIGA in combination with prednisone/prednisolone.
 
 [ZYTIGA 500 mg film-coated tablets]
+
+Before treating patients with a significant risk for congestive heart failure (e.g. a history of cardiac failure, uncontrolled hypertension, or cardiac events such as ischaemic heart disease), consider obtaining an assessment of cardiac function (e.g. echocardiogram).
 
 This medicinal product also contains more than 1.18 mmol (or 27 mg) sodium per dose of two tablets.

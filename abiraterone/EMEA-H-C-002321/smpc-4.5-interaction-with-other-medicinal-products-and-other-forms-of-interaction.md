@@ -1,7 +1,7 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-Effect of food on abiraterone acetate
-Administration with food significantly increases the absorption of abiraterone acetate.
+Effect of food on abiraterone
+Administration with food significantly increases the absorption of abiraterone.
 The efficacy and safety when given with food have not been established therefore this medicinal product must not be taken with food (see sections 4.2 and 5.2).
 
 Interactions with other medicinal products
@@ -22,7 +22,8 @@ Dose reduction of medicinal products with a narrow therapeutic index that are me
 Examples of medicinal products metabolised by CYP2D6 include metoprolol, propranolol, desipramine, venlafaxine, haloperidol, risperidone, propafenone, flecainide, codeine, oxycodone and tramadol (the latter three medicinal products requiring CYP2D6 to form their active analgesic metabolites).
 
 In a CYP2C8 drug-drug interaction trial in healthy subjects, the AUC of pioglitazone was increased by 46% and the AUCs for M-III and M-IV, the active metabolites of pioglitazone, each decreased by 10% when pioglitazone was given together with a single dose of 1,000 mg abiraterone acetate.
-Although these results indicate that no clinically meaningful increases in exposure are expected when ZYTIGA is combined with medicinal products that are predominantly eliminated by CYP2C8, patients should be monitored for signs of toxicity related to a CYP2C8 substrate with a narrow therapeutic index if used concomitantly.
+Patients should be monitored for signs of toxicity related to a CYP2C8 substrate with a narrow therapeutic index if used concomitantly.
+Examples of medicinal products metabolised by CYP2C8 include pioglitazone and repaglinide (see section 4.4).
 
 In vitro, the major metabolites abiraterone sulphate and N-oxide abiraterone sulphate were shown to inhibit the hepatic uptake transporter OATP1B1 and as a consequence it may increase the concentrations of medicinal products eliminated by OATP1B1.
 There are no clinical data available to confirm transporter based interaction.

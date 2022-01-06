@@ -1,6 +1,6 @@
 # 5.2 Pharmacokinetic properties
 
-Following administration of abiraterone acetate, the pharmacokinetics of abiraterone and abiraterone acetate have been studied in healthy subjects, patients with metastatic advanced prostate cancer and subjects without cancer with hepatic or renal impairment.
+Following administration of abiraterone acetate, the pharmacokinetics of abiraterone has been studied in healthy subjects, patients with metastatic advanced prostate cancer and subjects without cancer with hepatic or renal impairment.
 Abiraterone acetate is rapidly converted in vivo to abiraterone, an androgen biosynthesis inhibitor (see section 5.1).
 
 Absorption
@@ -9,12 +9,13 @@ Following oral administration of abiraterone acetate in the fasting state, the t
 Administration of abiraterone acetate with food, compared with administration in a fasted state, results in up to a 10-fold (AUC) and up to a 17-fold (Cmax) increase in mean systemic exposure of abiraterone, depending on the fat content of the meal.
 Given the normal variation in the content and composition of meals, taking ZYTIGA with meals has the potential to result in highly variable exposures.
 Therefore, ZYTIGA must not be taken with food.
-It should be taken at least one hour before or at least two hours after eating.
-The tablets should be swallowed whole with water (see section 4.2).
+ZYTIGA tablets must be taken as a single dose once daily on an empty stomach.
+ZYTIGA must be taken at least two hours after eating and food must not be eaten for at least one hour after taking ZYTIGA.
+The tablets must be swallowed whole with water (see section 4.2).
 
 Distribution
 The plasma protein binding of 14C-abiraterone in human plasma is 99.8%.
-The apparent volume of distribution is approximately 5,630 l, suggesting that abiraterone extensively distributes to peripheral tissues.
+The apparent volume of distribution is approximately 5,630 L, suggesting that abiraterone extensively distributes to peripheral tissues.
 
 Biotransformation
 Following oral administration of 14C-abiraterone acetate as capsules, abiraterone acetate is hydrolysed to abiraterone, which then undergoes metabolism including sulphation, hydroxylation and oxidation primarily in the liver.
