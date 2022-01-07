@@ -22,6 +22,7 @@ Distribution
 Ivacaftor is approximately 99% bound to plasma proteins, primarily to alpha 1-acid glycoprotein and albumin.
 Ivacaftor does not bind to human red blood cells.
 After oral administration of ivacaftor150 mg every 12 hours for 7 days in healthy volunteers in a fed state, the mean (± SD) apparent volume of distribution was 353 L (122) .
+
 Biotransformation
 
 Ivacaftor is extensively metabolised in humans.
@@ -75,7 +76,6 @@ Race
 
 Race had no clinically meaningful effect on the PK of ivacaftor in white (n = 379) and non-white
 (n = 29) patients based on a population PK analysis.
-
 Gender
 
 The pharmacokinetic parameters of ivacaftor, either as monotherapy or in combination with tezacaftor/ivacaftor or ivacaftor/tezacaftor/elexacaftor, are similar in males and females.
@@ -109,7 +109,6 @@ Table 9: Mean (SD) ivacaftor exposure by age group
 † Exposures in 6- to 11-year-olds are predictions based on simulations from the population PK model using data obtained for this age group.
 
 Ivacaftor exposure in combination with tezacaftor and with tezacaftor/elexacaftor is presented in Table 10.
-
 Table 10: Mean (SD) ivacaftor exposure when used in combination, by age group
 
 | Age group | Dose | Ivacaftor Mean (SD) AUC0-12h,ss (ng*h/mL) |
@@ -118,7 +117,9 @@ Table 10: Mean (SD) ivacaftor exposure when used in combination, by age group
 | Children (6 years to less than 12 years; ≥30 kg)* n = 51 | tezacaftor 100 mg qd/ ivacaftor 150 mg q12h | 11800 (3890) |
 | Adolescent patients (12 to less than18 years) n = 97 | tezacaftor 100 mg qd/ ivacaftor 150 mg q12h | 11400 (5500) |
 | Adult patients (18 years and older) n = 389 |  | 11400 (4140) |
-| Adolescent patients (12 to less than 18 years) n = 69 | elexacaftor 200 mg qd/ tezacaftor 100 mg qd/ ivacaftor 150 mg q12h | 10600 (3350) |
+| Children (6 to less than 12 years; <30 kg) n= 36 | elexacaftor 100 mg qd/ tezacaftor 50 mg qd/ ivacaftor 75 mg q12h | 9780 (4500) |
+| Children (6 to less than 12 years; ≥30 kg) n=30 | elexacaftor 200 mg qd/ tezacaftor 100 mg qd/ ivacaftor 150 mg q12h | 17500 (4970) |
+| Adolescent patients (12 to less than 18 years) n = 69 |  | 10600 (3350) |
 | Adult patients (18 years and older) n = 186 |  | 12100 (4170) |
 
 * Exposures in ≥30 kg to <40 kg weight range are predictions derived from the population PK model.

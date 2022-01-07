@@ -8,6 +8,7 @@ Transaminase elevations occurred in 12.8% of ivacaftor-treated patients versus 1
 In patients aged 2 to less than 6 years the most common adverse reactions were nasal congestion (26.5%), upper respiratory tract infection (23.5%), transaminase elevations (14.7%), rash (11.8%), and bacteria in sputum (11.8%).
 
 Serious adverse reactions in patients who received ivacaftor included abdominal pain and transaminase elevations (see section 4.4).
+
 Tabulated list of adverse reactions
 
 Table 4 reflects the adverse reactions observed with ivacaftor monotherapy in clinical trials (placebo-controlled and uncontrolled studies) in which the length of exposure to ivacaftor ranged from 16 weeks to 144 weeks.
@@ -47,6 +48,8 @@ Table 4: Adverse reactions
 | Hepatobiliary disorders | Transaminase elevations | very common |
 |  | Alanine aminotransferase increased † | common |
 |  | Aspartate aminotransferase increased † | common |
+|  | Liver injury ^ | not known |
+|  | Total bilirubin elevations ^ | not known |
 | Skin and subcutaneous tissue disorders | Rash | very common |
 |  | Acne † | common |
 |  | Pruritus † | common |
@@ -61,6 +64,9 @@ Table 4: Adverse reactions
 
 * Adverse reaction and frequency reported from clinical studies with ivacaftor in combination with tezacaftor/ivacaftor
 † Adverse reaction and frequency reported from clinical studies with ivacaftor in combination with ivacaftor/tezacaftor/elexacaftor
+^ Liver injury (ALT and AST and total bilirubin elevations) reported from post-marketing data with ivacaftor in combination with ivacaftor/tezacaftor/elexacaftor.
+This also included liver failure leading to transplantation in a patient with pre-existing cirrhosis and portal hypertension.
+Frequency cannot be estimated from the available data.
 
 Description of selected adverse reactions
 
@@ -79,6 +85,7 @@ No patients treated with tezacaftor/ivacaftor experienced a transaminase elevati
 
 During the 24-week, placebo-controlled, phase 3 study of ivacaftor/tezacaftor/elexacaftor, these figures were 1.5%, 2.5%, and 7.9% in ivacaftor/tezacaftor/elexacaftor-treated patients and 1.0%, 1.5%, and 5.5% in placebo-treated patients.
 The incidence of adverse reactions of transaminase elevations was 10.9% in ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor treated patients and 4.0% in placebo-treated patients.
+Post-marketing cases of treatment discontinuation due to elevated transaminases have been reported (see section 4.4).
 
 Rash events
 
