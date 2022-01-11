@@ -4,27 +4,33 @@ Semaglutide delays gastric emptying and has the potential to impact the rate of 
 Semaglutide should be used with caution in patients receiving oral medicinal products that require rapid gastrointestinal absorption.
 
 Paracetamol
+
 Semaglutide delays the rate of gastric emptying as assessed by paracetamol pharmacokinetics during a standardised meal test.
 Paracetamol AUC0-60min and Cmax were decreased by 27% and 23%, respectively, following concomitant use of semaglutide 1 mg.
 The total paracetamol exposure (AUC0-5h) was not affected.
+No clinically relevant effect on the rate of gastric emptying was observed with semaglutide 2.4 mg, following 20 weeks of administration of semaglutide, probably due to a tolerance effect.
 No dose adjustment of paracetamol is necessary when administered with semaglutide.
 
 Oral contraceptives
+
 Semaglutide is not anticipated to decrease the effect of oral contraceptives as semaglutide did not change the overall exposure of ethinylestradiol and levonorgestrel to a clinically relevant degree when an oral contraceptive combination medicinal product (0.03 mg ethinylestradiol/0.15 mg levonorgestrel) was co-administered with semaglutide.
 Exposure of ethinylestradiol was not affected; an increase of 20% was observed for levonorgestrel exposure at steady state.
 Cmax was not affected for any of the compounds.
 
 Atorvastatin
+
 Semaglutide did not change the overall exposure of atorvastatin following a single dose administration of atorvastatin (40 mg).
 Atorvastatin Cmax was decreased by 38%.
 This was assessed not to be clinically relevant.
-
 Digoxin
+
 Semaglutide did not change the overall exposure or Cmax of digoxin following a single dose of digoxin (0.5 mg).
 
 Metformin
+
 Semaglutide did not change the overall exposure or Cmax of metformin following dosing of 500 mg twice daily over 3.5 days.
 
 Warfarin
+
 Semaglutide did not change the overall exposure or Cmax of R- and S-warfarin following a single dose of warfarin (25 mg), and the pharmacodynamic effects of warfarin as measured by the international normalised ratio (INR) were not affected in a clinically relevant manner.
 However, upon initiation of semaglutide treatment in patients on warfarin or other coumarin derivatives, frequent monitoring of INR is recommended.

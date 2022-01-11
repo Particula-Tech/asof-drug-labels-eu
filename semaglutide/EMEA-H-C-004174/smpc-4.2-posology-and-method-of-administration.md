@@ -1,12 +1,14 @@
 # 4.2 Posology and method of administration
 
 Posology
+
 The starting dose is 0.25 mg semaglutide once weekly.
 After 4 weeks the dose should be increased to 0.5 mg once weekly.
 After at least 4 weeks with a dose of 0.5 mg once weekly, the dose can be increased to 1 mg once weekly to further improve glycaemic control.
+After at least 4 weeks with a dose of 1 mg once weekly, the dose can be increased to 2 mg once weekly to further improve glycaemic control.
 
 Semaglutide 0.25 mg is not a maintenance dose.
-Weekly doses higher than 1 mg are not recommended.
+Weekly doses higher than 2 mg are not recommended.
 
 When Ozempic is added to existing metformin and/or thiazolidinedione therapy or to a sodium-glucose cotransporter 2 (SGLT2) inhibitor, the current dose of metformin and/or thiazolidinedione or SGLT2 inhibitor can be continued unchanged.
 
@@ -21,6 +23,10 @@ If a dose is missed, it should be administered as soon as possible and within 5 
 If more than 5 days have passed, the missed dose should be skipped, and the next dose should be administered on the regularly scheduled day.
 In each case, patients can then resume their regular once weekly dosing schedule.
 
+Changing the dosing day
+The day of weekly administration can be changed if necessary, as long as the time between two doses is at least 3 days (>72 hours).
+After selecting a new dosing day, once-weekly dosing should be continued.
+
 Special populations
 
 Elderly
@@ -31,7 +37,6 @@ Renal impairment
 No dose adjustment is required for patients with mild, moderate or severe renal impairment.
 Experience with the use of semaglutide in patients with severe renal impairment is limited.
 Semaglutide is not recommended for use in patients with end-stage renal disease (see section 5.2).
-
 Hepatic impairment
 No dose adjustment is required for patients with hepatic impairment.
 Experience with the use of Semaglutide in patients with severe hepatic impairment is limited.
@@ -43,12 +48,12 @@ No data are available.
 
 Method of administration
 
-Ozempic is to be administered once weekly at any time of the day, with or without meals.
+Subcutaneous use.
 
 Ozempic is to be injected subcutaneously in the abdomen, in the thigh or in the upper arm.
 The injection site can be changed without dose adjustment.
 Ozempic should not be administered intravenously or intramuscularly.
-The day of weekly administration can be changed if necessary as long as the time between two doses is at least 3 days (>72 hours).
-After selecting a new dosing day, once-weekly dosing should be continued.
+
+Ozempic is to be administered once weekly at any time of the day, with or without meals.
 
 For further information on administration, see section 6.6.
