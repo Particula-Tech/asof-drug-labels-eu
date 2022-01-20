@@ -255,6 +255,7 @@ The dose of 150 mg twice daily reduces significantly the risk of ischemic and ha
 Major bleeding rates with this dose were comparable to warfarin.
 Myocardial infarction rates were slightly increased with dabigatran etexilate 110 mg twice daily and 150 mg twice daily compared to warfarin (hazard ratio 1.29; p=0.0929 and hazard ratio 1.27; p=0.1240, respectively).
 With improving monitoring of INR the observed benefits of dabigatran etexilate compared to warfarin diminish.
+
 Tables 22-24 display details of key results in the overall population:
 
 Table 22: Analysis of first occurrence of stroke or systemic embolism (primary endpoint) during the study period in RE-LY.
@@ -268,7 +269,6 @@ Table 22: Analysis of first occurrence of stroke or systemic embolism (primary e
 | p value superiority | p=0.2721 | p=0.0001 |  |
 
 % refers to yearly event rate
-
 Table 23: Analysis of first occurrence of ischemic or haemorrhagic strokes during the study period in RE-LY.
 
 |  | Dabigatran etexilate 110 mg twice daily | Dabigatran etexilate 150 mg twice daily | Warfarin |
@@ -308,7 +308,6 @@ Table 24: Analysis of all cause and cardiovascular survival during the study per
 Tables 25-26 display results of the primary efficacy and safety endpoint in relevant sub-populations:
 
 For the primary endpoint, stroke and systemic embolism, no subgroups (i.e., age, weight, gender, renal function, ethnicity, etc.) were identified with a different risk ratio compared to warfarin.
-
 Table 25: Hazard Ratio and 95 % CI for stroke/systemic embolism by subgroups
 
 | Endpoint | Dabigatran etexilate 110 mg twice daily vs. Warfarin | Dabigatran etexilate 150 mg twice daily vs. warfarin |
@@ -328,6 +327,7 @@ The relative risk of bleeding with dabigatran compared to warfarin increased wit
 Relative risk was highest in patients ≥75 years.
 The concomitant use of antiplatelets ASA or clopidogrel approximately doubles MBE rates with both dabigatran etexilate and warfarin.
 There was no significant interaction of treatment effects with the subgroups of renal function and CHADS2 score.
+
 Table 26: Hazard Ratio and 95 % CI for major bleeds by subgroups
 
 | Endpoint | Dabigatran etexilate 110 mg twice daily vs. Warfarin | Dabigatran etexilate 150 mg twice daily vs. Warfarin |
@@ -353,7 +353,6 @@ There were 5897 patients enrolled, representing 49 % of patients originally rand
 During the additional 2.5 years of treatment in RELY-ABLE, with a maximum exposure of over 6 years (total exposure in RELY + RELY-ABLE), the long-term safety profile of dabigatran etexilate was confirmed for both test doses 110 mg b.i.d. and 150 mg b.i.d..
 No new safety findings were observed.
 The rates of outcome events including, major bleed and other bleeding events were consistent with those seen in RE-LY.
-
 Data from non-interventional studies
 
 A non-interventional study (GLORIA-AF) prospectively collected (in its second phase) safety and effectiveness data in newly diagnosed NVAF patients on dabigatran etexilate in a real-world setting.
@@ -370,6 +369,7 @@ In addition, in a non-interventional study [Graham DJ et al., Circulation.
 No difference was found for major bleeding (hazard ratio 0.97, CI 0.88 – 1.07).
 
 These observations in real-world settings are consistent with the established safety and efficacy profile for dabigatran etexilate in the RE-LY study in this indication.
+
 Patients who underwent percutaneous coronary intervention (PCI) with stenting
 
 A prospective, randomised, open-label, blinded endpoint (PROBE) study (Phase IIIb) to evaluate dual-therapy with dabigatran etexilate (110 mg or 150 mg bid) plus clopidogrel or ticagrelor (P2Y12 antagonist) vs. triple-therapy with warfarin (adjusted to a INR 2.0 – 3.0) plus clopidogrel or ticagrelor and ASA was conducted in 2725 patients with non valvular atrial fibrillation who underwent a PCI with stenting (RE-DUAL PCI).
@@ -396,8 +396,8 @@ In the pooled RE-COVER and RE-COVER II studies, a total of 5,153 patients were r
 
 The duration of treatment with fixed dose of dabigatran was 174.0 days without coagulation monitoring.
 For patients randomised to warfarin, the median time in therapeutic range (INR 2.0 to 3.0) was 60.6%.
-The trials, demonstrated that treatment with dabigatran etexilate 150 mg twice daily was non-inferior to the treatment with warfarin (non-inferiority margin for RE-COVER, and RE-COVER II: 3.6 for risk difference and 2.75 for hazard ratio).
 
+The trials, demonstrated that treatment with dabigatran etexilate 150 mg twice daily was non-inferior to the treatment with warfarin (non-inferiority margin for RE-COVER, and RE-COVER II: 3.6 for risk difference and 2.75 for hazard ratio).
 Table 27: Analysis of the primary and secondary efficacy endpoints (VTE is a composite of DVT and/or PE) until the end of post-treatment period for the pooled studies RE-COVER and RE-COVER II
 
 Dabigatran etexilate

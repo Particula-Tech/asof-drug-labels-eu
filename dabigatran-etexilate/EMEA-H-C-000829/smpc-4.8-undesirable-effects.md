@@ -203,7 +203,6 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 [Pradaxa 110 mg hard capsules]
 
 In total, about 9% of patients treated for elective hip or knee surgery (short-term treatment for up to 42 days), 22% of patients with atrial fibrillation treated for the prevention of stroke and systemic embolism (long-term treatment for up to 3 years), 14% of patients treated for DVT/PE and 15% of patients treated for DVT/PE prevention experienced adverse reactions.
-
 The most commonly reported events are bleedings occurring in approximately 14% of patients treated short-term for elective hip or knee replacement surgery, 16.6% in patients with atrial fibrillation treated long-term for the prevention of stroke and systemic embolism, and in 14.4% of adult patients treated for DVT/PE.
 Furthermore, bleeding occurred in 19.4% of patients in the DVT/PE prevention trial RE-MEDY (adult patients) and in 10.5% of patients in the DVT/PE prevention trial RE-SONATE (adult patients).
 
@@ -322,6 +321,7 @@ Treatment of DVT and PE, and prevention of recurrent DVT and PE in adults (DVT/P
 
 Table 15 shows bleeding events in the pooled pivotal studies RE-COVER and RE-COVER II testing the treatment of DVT and PE.
 In the pooled studies the primary safety endpoints of major bleeding, major or clinically relevant bleeding and any bleeding were significantly lower than warfarin at a nominal alpha level of 5%.
+
 Table 15: Bleeding events in the studies RE-COVER and RE-COVER II testing the treatment of DVT and PE
 
 |  | Dabigatran etexilate 150 mg twice daily | Warfarin | Hazard ratio vs. warfarin (95% confidence interval) |
@@ -341,7 +341,6 @@ All bleeding events which occurred during warfarin therapy are included except f
 
 Table 16 shows bleeding events in pivotal study RE-MEDY testing prevention of DVT and PE.
 Some bleeding events (MBEs/CRBEs; any bleeding) were significantly lower at a nominal alpha level of 5% in patients receiving dabigatran etexilate as compared with those receiving warfarin.
-
 Table 16: Bleeding events in study RE-MEDY testing prevention of DVT and PE
 
 |  | Dabigatran etexilate 150 mg twice daily | Warfarin | Hazard ratio vs warfarin (95% Confidence Interval) |
@@ -359,6 +358,7 @@ Table 16: Bleeding events in study RE-MEDY testing prevention of DVT and PE
 
 Table 17 shows bleeding events in pivotal study RE-SONATE testing prevention of DVT and PE.
 The rate of the combination of MBEs/CRBEs and the rate of any bleeding was significantly lower at a nominal alpha level of 5 % in patients receiving placebo as compared with those receiving dabigatran etexilate.
+
 Table 17: Bleeding events in study RE-SONATE testing prevention of DVT and PE
 
 |  | Dabigatran etexilate 150 mg twice daily | Placebo | Hazard ratio vs placebo (95% confidence interval) |

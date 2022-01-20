@@ -7,7 +7,7 @@ Pradaxa coated granules can be used in children aged less than 12 years as soon 
 Pradaxa powder and solvent for oral solution should only be used in children aged less than 1 year.
 
 When changing between the formulations, the prescribed dose may need to be altered.
-The dose stated in the relevant dosing table of a formulation should be prescribed for the age and weight of the child.
+The dose stated in the relevant dosing table of a formulation should be prescribed based on the weight and age of the child.
 
 Primary prevention of VTE in orthopaedic surgery
 
@@ -94,47 +94,38 @@ For prevention of recurrent VTE, treatment should be initiated following previou
 Dabigatran etexilate capsules should be taken twice daily, one dose in the morning and one dose in the evening, at approximately the same time every day.
 The dosing interval should be as close to 12 hours as possible.
 
-The recommended dose of dabigatran etexilate capsules is based on the patient’s age and weight as shown in table 2.
-The table provides the single doses which are to be administered twice daily.
-The dose should be adjusted according to age and weight as treatment progresses.
+The recommended dose of dabigatran etexilate capsules is based on the patient’s weight and age as shown in table 2.
+The dose should be adjusted according to weight and age as treatment progresses.
 
-Table 2: Single dabigatran etexilate dose in milligrams (mg) by weight in kilograms (kg) and age in years of the patient to be administered twice daily
+For weight and age combinations not listed in the dosing table no dosing recommendation can be provided.
 
-Age in years
+Table 2: Single and total daily dabigatran etexilate doses in milligrams (mg) by weight in kilograms (kg) and age in years of the patient
 
-8 to <9 9 to 10 to 11 to 12 to 13 to 14 to 15 to 16 to 17 to
-<10 <11 <12 <13 <14 <15 <16 <17 <18
->81 300 mg
-71 to <81 as two 150 mg capsules
-or
-61 to <71 four 75 mg capsules
-260 mg
-as one 110 mg plus one 150 mg capsule
-51 to <61
-or
-one 110 mg plus two 75 mg capsules
-220 mg
-41 to <51
-as two 110 mg capsules
-185 mg
-31 to <41
-as one 75 mg plus one 110 mg capsule
-150 mg
-26 to <31 as one 150 mg capsule
-or
-21 to <26 two 75 mg capsules
-16 to <21
-One 110 mg capsule
-13 to <16
-One
-11 to <13 75 mg
-capsule
+| Weight /age combinations |  | Single dose in mg | Total daily dose in mg |
+| --- | --- | --- | --- |
+| Weight in kg | Age in years |  |  |
+| 11 to <13 | 8 to <9 | 75 | 150 |
+| 13 to <16 | 8 to <11 | 110 | 220 |
+| 16 to <21 | 8 to <14 | 110 | 220 |
+| 21 to <26 | 8 to <16 | 150 | 300 |
+| 26 to <31 | 8 to <18 | 150 | 300 |
+| 31 to <41 | 8 to <18 | 185 | 370 |
+| 41 to <51 | 8 to <18 | 220 | 440 |
+| 51 to <61 | 8 to <18 | 260 | 520 |
+| 61 to <71 | 8 to <18 | 300 | 600 |
+| 71 to <81 | 8 to <18 | 300 | 600 |
+| >81 | 10 to <18 | 300 | 600 |
 
-Means that no dosing recommendation can be provided.
+Single doses requiring combinations of more than one capsule:
+300 mg: two 150 mg capsules or four 75 mg capsules
+260 mg: one 110 mg plus one 150 mg capsule or one 110 mg plus two 75 mg capsules
+220 mg: as two 110 mg capsules
+185 mg: as one 75 mg plus one 110 mg capsule
+150 mg: as one 150 mg capsule or two 75 mg capsules
 
 Assessment of renal function prior to and during treatment
 
-Prior to the initiation of treatment, the estimated glomerular filtration rate (eGFR) should be estimated using the Schwartz formula.
+Prior to the initiation of treatment, the estimated glomerular filtration rate (eGFR) should be estimated using the Schwartz formula (method used for creatinine assessment to be checked with local lab).
 
 Treatment with dabigatran etexilate in paediatric patients with eGFR <50 mL/min/1.73m2 is contraindicated (see section 4.3).
 
@@ -276,11 +267,9 @@ No dose adjustment is necessary (see section 5.2), but close clinical surveillan
 
 There is no relevant use of dabigatran etexilate in the paediatric population for the indication of prevention of stroke and systemic embolism in patients with NVAF.
 
-The recommended dose of dabigatran etexilate capsules is based on the patient’s age and weight as shown in table 4.
-Table 4: Single dabigatran etexilate dose in milligrams (mg) by weight in kilograms (kg) and age in years of the patient to be administered twice daily
+The recommended dose of dabigatran etexilate capsules is based on the patient’s weight and age as shown in table 4.
 
-41 to <51 as two 110 mg capsules
-31 to <41 as one 75 mg plus one 110 mg capsule
+Table 4: Single and total daily dabigatran etexilate doses in milligrams (mg) by weight in kilograms (kg) and age in years of the patient
 
 Patients with an eGFR ≥50 mL/min/1.73m2 should be treated with the dose according to table 4.
 
@@ -304,69 +293,90 @@ For subjects with gastritis, esophagitis, or gastroesophageal reflux, a dose red
 
 Dose reductions are recommended for patients who receive concomitantly verapamil (see table 1 above and sections 4.4 and 4.5).
 
-The recommended dose of dabigatran etexilate capsules is based on the patient’s age and weight as shown in table 3.
+The recommended dose of dabigatran etexilate capsules is based on the patient’s weight and age as shown in table 3.
 
-Table 3: Single dabigatran etexilate dose in milligrams (mg) by weight in kilograms (kg) and age in years of the patient to be administered twice daily
+Table 3: Single and total daily dabigatran etexilate doses in milligrams (mg) by weight in kilograms (kg) and age in years of the patient
 
 Patients with an eGFR ≥50 mL/min/1.73m2 should be treated with the dose according to table 3.
 
 [Pradaxa 20 mg coated granules]
 
 Dabigatran etexilate coated granules should be taken twice daily, one dose in the morning and one dose in the evening, at approximately the same time every day.
-The recommended dose of dabigatran etexilate coated granules is based on the patient’s age and weight as shown in tables 1 and 2.
-The tables provide the single doses which are to be administered twice daily.
 
-Table 1: Single dabigatran etexilate dose in milligrams (mg) for patients aged less than 2.5 years.
-The dose depends on weight in kilograms (kg) and age in months or years of the patient and has to be administered twice daily.
+The recommended dose of dabigatran etexilate coated granules is based on the patient’s weight and age as shown in tables 1 and 2.
 
-| Age in months 0 to 1 to 3 to 4 to 5 to 6 to 8 to 9 to 10 to 11 to <1 <3 <4 <5 <6 <8 <9 <10 <11 <12 |  |  |  |  |  |  |  |  |  |  | Age in years 1 to 1.5 2 to <1.5 to <2 <2.5 |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 21 to <26 |  |  |  |  |  |  |  |  |  |  |  | 140 | 180 |
-| 16 to <21 |  |  |  |  |  |  |  |  |  |  | 110 | 110 | 140 |
-| 13 to <16 |  |  |  |  |  |  |  |  | 80 | 100 | 100 | 110 | 140 |
-| 11 to <13 |  |  |  |  |  |  | 70 | 70 | 80 | 80 | 80 | 100 | 100 |
-| 9 to <11 |  |  |  |  | 50 | 60 | 60 | 60 | 60 | 70 | 70 | 80 | 80 |
-| 7 to <9 |  |  | 40 | 50 | 50 | 50 | 50 | 60 | 60 | 60 | 60 | 60 | 70 |
-| 5 to <7 | 20 | 20 | 40 | 40 | 40 | 40 | 50 | 50 | 50 | 50 | 50 | 50 |  |
-| 4 to <5 |  | 20 | 20 | 20 | 20 | 40 | 40 | 40 |  |  |  |  |  |
-| 3 to <4 |  |  | 20 | 20 | 20 |  |  |  |  |  |  |  |  |
-| 2.5 to <3 |  |  |  | 20 |  |  |  |  |  |  |  |  |  |
+For weight and age combinations not listed in the dosing tables no dosing recommendation can be provided.
+
+Table 1: Single and total daily dabigatran etexilate doses in milligrams (mg) for patients aged less than 12 months.
+The doses depend on weight in kilograms (kg) and age in months of the patient.
+
+| Weight /age combinations |  | Single dose in mg | Total daily dose in mg |
+| --- | --- | --- | --- |
+| Weight in kg | Age in MONTHS |  |  |
+| 2.5 to <3 | 4 to <5 | 20 | 40 |
+| 3 to <4 | 3 to <6 | 20 | 40 |
+| 4 to <5 | 1 to <3 | 20 | 40 |
+|  | 3 to <8 | 30 | 60 |
+|  | 8 to <10 | 40 | 80 |
+| 5 to <7 | 0 to <1 | 20 | 40 |
+|  | 1 to <5 | 30 | 60 |
+|  | 5 to <8 | 40 | 80 |
+|  | 8 to <12 | 50 | 100 |
+| 7 to <9 | 3 to <4 | 40 | 80 |
+|  | 4 to <9 | 50 | 100 |
+|  | 9 to <12 | 60 | 120 |
+| 9 to <11 | 5 to <6 | 50 | 100 |
+|  | 6 to <11 | 60 | 120 |
+|  | 11 to <12 | 70 | 140 |
+| 11 to <13 | 8 to <10 | 70 | 140 |
+|  | 10 to <12 | 80 | 160 |
+| 13 to <16 | 10 to <11 | 80 | 160 |
+|  | 11 to <12 | 100 | 200 |
 
 Convenient sachet combinations to achieve the single doses recommended in the dosing table are provided below.
 Other combinations are possible.
 
-20: One 20 mg sachet 80: Two 40 mg sachets
-40: One 40 mg sachet 100: Two 50 mg sachets
-50: One 50 mg sachet 110: One 110 mg sachet
-60: Two 30 mg sachets 140: One 30 mg plus one 110 mg sachet
+20 mg: One 20 mg sachet 60 mg: Two 30 mg sachets
+30 mg: One 30 mg sachet 70 mg: One 30 mg plus one 40 mg sachet
+40 mg: One 40 mg sachet 80 mg: Two 40 mg sachets
+50 mg: One 50 mg sachet 100 mg: Two 50 mg sachets
 
-70: One 30 mg plus one 40 mg sachet 180: One 30 mg plus one 150 mg sachet Means that no dosing recommendation can be provided.
-Table 2: Single dabigatran etexilate dose in milligrams (mg) for patients aged 2.5 years to
-<12 years.
-The dose depends on weight in kilograms (kg) and age in years of the patient and has to be administered twice daily.
+Table 2: Single and total daily dabigatran etexilate doses in milligrams (mg) for patients aged 1 year to less than 12 years.
+The doses depend on weight in kilograms (kg) and age in years of the patient.
 
-|  | 2.5 to <4 | 4 to <5 | 5 to <6 | 6 to <7 | 7 to <9 | 9 to <10 | 10 to <12 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| >81 |  |  |  |  |  |  | 330 |
-| 71 to <81 |  |  |  |  | 330 | 330 | 330 |
-| 61 to <71 |  |  |  | 330 | 330 | 330 | 330 |
-| 51 to <61 |  |  | 300 | 300 | 300 | 300 | 300 |
-| 41 to <51 |  | 260 | 260 | 260 | 260 | 260 | 260 |
-| 31 to <41 | 190 | 190 | 190 | 190 | 190 | 190 | 190 |
-| 26 to <31 | 180 | 180 | 180 | 180 | 180 | 180 | 180 |
-| 21 to <26 | 180 | 180 | 180 | 180 | 180 | 180 | 180 |
-| 16 to <21 | 140 | 140 | 140 | 140 | 140 | 140 | 140 |
-| 13 to <16 | 140 | 140 | 140 | 140 | 140 | 140 | 140 |
-| 11 to <13 | 110 | 110 | 110 | 110 | 110 |  |  |
-| 9 to <11 | 80 | 80 | 80 | 80 |  |  |  |
-| 7 to <9 | 70 |  |  |  |  |  |  |
+| Weight / age combinations |  | Single dose in mg | Total daily dose in mg |
+| --- | --- | --- | --- |
+| Weight in kg | Age in YEARS |  |  |
+| 5 to <7 | 1 to <2 | 50 | 100 |
+| 7 to <9 | 1 to <2 | 60 | 120 |
+|  | 2 to <4 | 70 | 140 |
+| 9 to <11 | 1 to <1.5 | 70 | 140 |
+|  | 1.5 to <7 | 80 | 160 |
+| 11 to <13 | 1 to <1.5 | 80 | 160 |
+|  | 1.5 to <2.5 | 100 | 200 |
+|  | 2.5 to <9 | 110 | 220 |
+| 13 to <16 | 1 to <1.5 | 100 | 200 |
+|  | 1.5 to <2 | 110 | 220 |
+|  | 2 to <12 | 140 | 280 |
+| 16 to <21 | 1 to <2 | 110 | 220 |
+|  | 2 to <12 | 140 | 280 |
+| 21 to <26 | 1.5 to <2 | 140 | 280 |
+|  | 2 to <12 | 180 | 360 |
+| 26 to <31 | 2.5 to <12 | 180 | 360 |
+| 31 to <41 | 2.5 to <12 | 220 | 440 |
+| 41 to <51 | 4 to <12 | 260 | 520 |
+| 51 to <61 | 5 to <12 | 300 | 600 |
+| 61 to <71 | 6 to <12 | 300 | 600 |
+| 71 to <81 | 7 to <12 | 300 | 600 |
+| >81 | 10 to <12 | 300 | 600 |
 
-70: One 30 mg plus one 40 mg sachet 190: One 40 mg plus one 150 mg sachet
+50 mg: One 50 mg sachet 140 mg: One 30 mg plus one 110 mg sachet
+60 mg: Two 30 mg sachets 180 mg: One 30 mg plus one 150 mg sachet
+70 mg: One 30 mg plus one 40 mg sachet 220 mg: Two 110 mg sachets
+80 mg: Two 40 mg sachets 260 mg: One 110 mg plus one 150 mg sachet
+100 mg: Two 50 mg sachets 300 mg: Two 150 mg sachets
 
-80: Two 40 mg sachets 260: One 110 mg plus one 150 mg sachet
-110: One 110 mg sachet 300: Two 150 mg sachets
-
-140: One 30 mg plus one 110 mg sachet 330: Three 110 mg sachets 180: One 30 mg plus one 150 mg sachet
+110 mg: One 110 mg sachet
 
 Patients with an eGFR ≥50 mL/min/1.73m2 should be treated with the dose according to tables 1 and 2.
 
@@ -386,29 +396,36 @@ Detailed instructions for the use of this medicinal product are provided in ‘I
 
 Dabigatran etexilate oral solution should be taken twice daily, one dose in the morning and one dose in the evening, at approximately the same time every day.
 
-The recommended dose of dabigatran etexilate oral solution is based on the patient’s age and weight as shown in table 1.
-Table 1: Single dabigatran etexilate dose in millilitres (mL) by weight in kilograms (kg) and age in months of the patient to be administered twice daily
+The recommended dose of dabigatran etexilate oral solution is based on the patient’s weight and age as shown in table 1.
 
-Age in months
+Table 1: Single and total daily dabigatran etexilate doses in millilitres (mL) by weight in kilograms (kg) and age in months of the patient
 
-|  | <1 | 1 to <2 | 2 to <3 | 3 to <4 | 4 to <5 | 5 to <6 | 6 to <7 | 7 to <8 | 8 to <9 | 9 to <10 | 10 to <11 | 11 to <12 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 13 to <16 |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | 12 mL | 12 mL |
-| 11 to <13 |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  | 10 mL | 10 mL | 10 mL | 11 mL |
-| 9 to <11 |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  | 7 mL | 7 mL | 8 mL | 8 mL | 9 mL | 9 mL | 9 mL |
-| 7 to <9 |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  | 5 mL | 6 mL | 6 mL | 7 mL | 7 mL | 7 mL | 7 mL | 8 mL | 8 mL |
-| 5 to <7 |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 3 mL | 3 mL | 4 mL | 4 mL | 5 mL | 5 mL | 5 mL | 5 mL | 6 mL | 6 mL | 6 mL | 7 mL |
-| 4 to <5 |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 2 mL | 3 mL | 3 mL | 4 mL | 4 mL | 4 mL | 4 mL | 4 mL | 5 mL | 5 mL |  |  |
-| 3 to <4 |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 2 mL | 2 mL | 3 mL | 3 mL | 3 mL | 3 mL |  |  |  |  |  |  |
-| 2.5 to <3 |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 2 mL | 2 mL | 2 mL | 2 mL | 3 mL |  |  |  |  |  |  |  |
+| Weight /age combinations |  | Single dose in mL | Total daily dose in mL |
+| --- | --- | --- | --- |
+| Weight in kg | Age in months |  |  |
+| 2.5 to <3 | <1 to <4 | 2 | 4 |
+|  | 4 to <5 | 3 | 6 |
+| 3 to <4 | <1 to <2 | 2 | 4 |
+|  | 2 to <6 | 3 | 6 |
+| 4 to <5 | <1 | 2 | 4 |
+|  | 1 to <3 | 3 | 6 |
+|  | 3 to <8 | 4 | 8 |
+|  | 8 to <10 | 5 | 10 |
+| 5 to <7 | <1 to <2 | 3 | 6 |
+|  | 2 to <4 | 4 | 8 |
+|  | 4 to <8 | 5 | 10 |
+|  | 8 to <11 | 6 | 12 |
+|  | 11 to <12 | 7 | 14 |
+| 7 to <9 | 3 to <4 | 5 | 10 |
+|  | 4 to <6 | 6 | 12 |
+|  | 6 to <10 | 7 | 14 |
+|  | 10 to <12 | 8 | 16 |
+| 9 to <11 | 5 to <7 | 7 | 14 |
+|  | 7 to <9 | 8 | 16 |
+|  | 9 to <12 | 9 | 18 |
+| 11 to <13 | 8 to <11 | 10 | 20 |
+|  | 11 to <12 | 11 | 22 |
+| 13 to <16 | 10 to <12 | 12 | 24 |
 
 | oral solution [mL] | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -433,6 +450,7 @@ In case the anticoagulant treatment has been initiated in the hospital and has t
 
 After reconstitution, Pradaxa oral solution is a clear colourless to clear yellowish solution.
 The pH of the reconstituted oral solution is approximately 2.1.
+
 The oral solution should not be mixed with milk, other beverages or food.
 
 The dosing pipettes provided are not compatible with feeding tubes.

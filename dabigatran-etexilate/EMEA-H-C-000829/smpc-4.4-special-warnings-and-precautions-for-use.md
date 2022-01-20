@@ -206,6 +206,7 @@ Table 5: Factors which may increase the haemorrhagic risk.
 Close observation for signs of bleeding or anaemia is recommended throughout the treatment period, especially if risk factors are combined (see table 5 above).
 
 Therefore, INR tests should not be performed.
+
 Table 6 shows coagulation test thresholds at trough for adult patients that may be associated with an increased risk of bleeding.
 
 Table 6: Coagulation test thresholds at trough for adult patients that may be associated with an increased risk of bleeding.
