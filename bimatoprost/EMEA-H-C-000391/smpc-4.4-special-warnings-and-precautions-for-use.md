@@ -1,17 +1,8 @@
 # 4.4 Special warnings and precautions for use
 
 Ocular
-Before treatment is initiated, patients should be informed of the possibility of eyelash growth, darkening of the eyelid skin and increased iris pigmentation, since these have been observed during treatment with LUMIGAN.
-Some of these changes may be permanent, and may lead to differences in appearance between the eyes when only one eye is treated.
-Increased iris pigmentation is likely to be permanent.
-The pigmentation change is due to increased melanin content in the melanocytes rather than to an increase in the number of melanocytes.
-The long term effects of increased iris pigmentation are not known.
-Iris colour changes seen with ophthalmic administration of bimatoprost may not be noticeable for several months to years.
-Typically, the brown pigmentation around the pupil spreads concentrically towards the periphery of the iris and the entire iris or parts become more brownish.
-Neither naevi nor freckles of the iris appear to be affected by the treatment.
-At 12 months, the incidence of iris hyperpigmentation with bimatoprost 0.1 mg/ml eye drops, solution was 0.5%.
-At 12 months, the incidence with bimatoprost 0.3 mg/ml eye drops, solution was 1.5% (see section 4.8 Table 2) and did not increase following 3 years treatment.
-Periorbital tissue pigmentation has been reported to be reversible in some patients.
+Before treatment is initiated, patients should be informed of the possibility of prostaglandin analogue periorbitopathy (PAP) and increased iris pigmentation, since these have been observed during treatment with LUMIGAN.
+Some of these changes may be permanent, and may lead to impaired field of vision and differences in appearance between the eyes when only one eye is treated (see section 4.8).
 
 Cystoid macular oedema has been uncommonly reported (≥1/1,000 to <1/100) following treatment with bimatoprost 0.3 mg/ml eye drops, solution.
 Therefore, LUMIGAN should be used with caution in patients with known risk factors for macular oedema (e.g. aphakic patients, pseudophakic patients with a torn posterior lens capsule).
@@ -48,7 +39,6 @@ Benzalkonium chloride, which is commonly used as a preservative in ophthalmic pr
 Since
 LUMIGAN 0.1 mg/ml contains 200 ppm benzalkonium chloride (four times the concentration in bimatoprost 0.3 mg/ml eye drops), it should be used with caution in dry eye patients, in patients where the cornea may be compromised and in patients taking multiple BAK-containing eye drops.
 In addition, monitoring is required with prolonged use in such patients.
-
 There have been reports of bacterial keratitis associated with the use of multiple dose containers of topical ophthalmic products.
 These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent ocular disease.
 Patients with a disruption of the ocular epithelial surface are at greater risk of developing bacterial keratitis.
@@ -57,18 +47,13 @@ Patients should be instructed to avoid allowing the tip of the dispensing contai
 
 [LUMIGAN 0.3 mg/ml eye drops, solution]
 
-Neither naevi nor freckles of the iris appears to be affected by the treatment.
-At 12 months, the incidence of iris pigmentation with bimatoprost 0.3mg/ml was 1.5% (see section 4.8) and did not increase following 3 years treatment.
-
 Cystoid macular oedema has been uncommonly reported (≥1/1,000 to <1/100) following treatment with bimatoprost 0.3 mg/ml eye drops.
 
 Bimatoprost 0.3 mg/ml eye drops, solution contains the preservative benzalkonium chloride, which may be absorbed by soft contact lenses.
+
 Since LUMIGAN contains benzalkonium chloride, monitoring is required with frequent or prolonged use in dry eye patients or where the cornea is compromised.
 
 [LUMIGAN 0.3 mg/mL eye drops, solution, in single-dose container]
-
-At 3 months, the incidence of iris hyperpigmentation with bimatoprost 0.3 mg/mL single dose was 0.3%.
-At 12 months, the incidence of iris pigmentation with bimatoprost 0.3 mg/mL (multi-dose formulation) was 1.5% (see section 4.8) and did not increase following 3 years treatment.
 
 Cystoid macular oedema has been uncommonly reported (≥1/1,000 to <1/100) following treatment with bimatoprost 0.3 mg/mL eye drops (multi-dose formulation).
 
