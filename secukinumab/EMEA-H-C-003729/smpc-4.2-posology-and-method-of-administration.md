@@ -19,8 +19,8 @@ Table 1 Recommended dose for paediatric plaque psoriasis
 | ≥50 kg | 150 mg (*may be increased to 300 mg) |
 
 *Some patients may derive additional benefit from the higher dose.
-
 Cosentyx may be available in other strengths and/or presentations depending on the individual treatment needs.
+
 The safety and efficacy of Cosentyx in children with plaque psoriasis below the age of 6 years have not been established.
 
 The safety and efficacy of Cosentyx in children below the age of 18 years in other indications have not yet been established.
@@ -47,11 +47,14 @@ Comprehensive instructions for administration are given in the package leaflet.
 
 Adult plaque psoriasis
 The recommended dose is 300 mg of secukinumab by subcutaneous injection with initial dosing at weeks 0, 1, 2, 3 and 4, followed by monthly maintenance dosing.
+Based on clinical response, a maintenance dose of 300 mg every 2 weeks may provide additional benefit for patients with a body weight of 90 kg or higher.
 
 The 150 mg and 300 mg solution for injection in pre-filled syringe and in pre-filled pen are not indicated for administration to paediatric patients with a weight <50 kg.
 
 Psoriatic arthritis
-For patients with concomitant moderate to severe plaque psoriasis or who are anti-TNFα inadequate responders (IR), the recommended dose is 300 mg by subcutaneous injection with initial dosing at weeks 0, 1, 2, 3 and 4, followed by monthly maintenance dosing.
+For patients with concomitant moderate to severe plaque psoriasis, please refer to adult plaque psoriasis recommendation.
+For patients who are anti-TNFα inadequate responders (IR), the recommended dose is 300 mg by subcutaneous injection with initial dosing at weeks 0, 1, 2, 3 and 4, followed by monthly maintenance dosing.
+
 For other patients, the recommended dose is 150 mg by subcutaneous injection with initial dosing at weeks 0, 1, 2, 3 and 4, followed by monthly maintenance dosing.
 Based on clinical response, the dose can be increased to 300 mg.
 

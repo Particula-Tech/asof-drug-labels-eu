@@ -24,8 +24,8 @@ Compared with exposure after a single dose, the population pharmacokinetic analy
 
 Population pharmacokinetic analysis showed that secukinumab was absorbed with an average absolute bioavailability of 73% in patients with plaque psoriasis.
 Across studies, absolute bioavailabilities in the range between 60 and 77% were calculated.
-The bioavailability of secukinumab in PsA patients was 85% on the basis of the population pharmacokinetic model.
 
+The bioavailability of secukinumab in PsA patients was 85% on the basis of the population pharmacokinetic model.
 Following a single subcutaneous injection of 300 mg solution for injection in pre-filled syringe in plaque psoriasis patients, secukinumab systemic exposure was similar to what was observed previously with two injections of 150 mg.
 
 Distribution

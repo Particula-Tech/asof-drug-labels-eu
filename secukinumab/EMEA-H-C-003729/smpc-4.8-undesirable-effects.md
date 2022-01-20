@@ -35,6 +35,7 @@ Table 2 List of adverse reactions in clinical studies1) and post-marketing exper
 |  | Uncommon | Inflammatory bowel disease |
 | Skin and subcutaneous tissue disorders | Uncommon | Urticaria |
 |  | Rare | Exfoliative dermatitis2) |
+|  |  | Hypersensitivity vasculitis |
 | General disorders and administration site conditions | Common | Fatigue |
 | 1) Placebo-controlled clinical studies (phase III) in plaque psoriasis, PsA, AS and nr-axSpA patients exposed to 300 mg, 150 mg, 75 mg or placebo up to 12 weeks (psoriasis) or 16 weeks (PsA, AS and nr-axSpA) treatment duration 2) Cases were reported in patients with psoriasis diagnosis |  |  |
 
