@@ -1,6 +1,7 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Shire Services BVBA
-Rue Montoyer 47
-B - 1000 Brussels
-Belgium
+Takeda Pharmaceuticals International AG Ireland Branch
+Block 3 Miesian Plaza
+50-58 Baggot Street Lower
+Dublin 2
+Ireland
