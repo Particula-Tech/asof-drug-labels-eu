@@ -10,7 +10,6 @@ This results in the reversal of neuromuscular blockade induced by rocuronium or 
 Pharmacodynamic effects:
 Sugammadex has been administered in doses ranging from 0.5 mg/kg to 16 mg/kg in dose response studies of rocuronium induced blockade (0.6, 0.9, 1.0 and 1.2 mg/kg rocuronium bromide with and without maintenance doses) and vecuronium induced blockade (0.1 mg/kg vecuronium bromide with or without maintenance doses) at different time points/depths of blockade.
 In these studies a clear dose-response relationship was observed.
-
 Clinical efficacy and safety:
 Sugammadex can be administered at several time points after administration of rocuronium or vecuronium bromide:
 
@@ -31,6 +30,7 @@ Routine reversal – moderate neuromuscular blockade:
 In another pivotal study patients were randomly assigned to the rocuronium or vecuronium group.
 After the last dose of rocuronium or vecuronium, at the reappearance of T2, 2 mg/kg sugammadex or 50 mcg/kg neostigmine was administered in a randomised order.
 The time from start of administration of sugammadex or neostigmine to recovery of the T4/T1 ratio to 0.9 was:
+
 Table 4: Time (minutes) from administration of sugammadex or neostigmine at reappearance of T2 after rocuronium or vecuronium to recovery of the T4/T1 ratio to 0.9
 
 | Neuromuscular blocking agent | Treatment regimen |  |
@@ -42,7 +42,6 @@ Table 4: Time (minutes) from administration of sugammadex or neostigmine at reap
 Reversal by sugammadex of the neuromuscular blockade induced by rocuronium was compared to the reversal by neostigmine of the neuromuscular blockade induced by cis-atracurium.
 At the reappearance of T2 a dose of 2 mg/kg sugammadex or 50 mcg/kg neostigmine was administered.
 Sugammadex provided faster reversal of neuromuscular blockade induced by rocuronium compared to neostigmine reversal of neuromuscular blockade induced by cis-atracurium:
-
 Table 5: Time (minutes) from administration of sugammadex or neostigmine at reappearance of T2 after rocuronium or cis-atracurium to recovery of the T4/T1 ratio to 0.9
 
 | Neuromuscular blocking agent | Treatment regimen |  |
@@ -79,4 +78,17 @@ No residual neuromuscular blockade or recurrence of neuromuscular blockade was r
 Morbidly obese patients:
 A trial of 188 patients who were diagnosed as morbidly obese investigated the time to recovery from moderate or deep neuromuscular blockade induced by rocuronium or vecuronium.
 Patients received 2 mg/kg or 4 mg/kg sugammadex, as appropriate for level of block, dosed according to either actual body weight or ideal body weight in random, double-blinded fashion.
-Pooled across depth of block and neuromuscular blocking agent, the median time to recover to a train-of-four (TOF) ratio ≥0.9 in patients dosed by actual body weight (1.8 minutes) was statistically significantly faster (p < 0.0001) compared to patients dosed by ideal body weight (3.3 minutes).
+Pooled across depth of block and neuromuscular blocking agent, the median time to recover to a train-of-four (TOF) ratio ≥ 0.9 in patients dosed by actual body weight (1.8 minutes) was statistically significantly faster (p < 0.0001) compared to patients dosed by ideal body weight (3.3 minutes).
+
+Paediatric Population:
+A trial of 288 patients aged 2 to < 17 years investigated the safety and efficacy of sugammadex versus neostigmine as a reversal agent for neuromuscular blockade induced by rocuronium or vecuronium.
+Recovery from moderate block to a TOF ratio of ≥ 0.9 was significantly faster in the sugammadex 2 mg/kg group compared with the neostigmine group (geometric mean of 1.6 minutes for sugammadex 2 mg/kg and 7.5 minutes for neostigmine, ratio of geometric means 0.22, 95 % CI (0.16, 0.32), (p<0.0001)).
+Sugammadex 4 mg/kg achieved reversal from deep block with a geometric mean of 2.0 minutes, similar to results observed in adults.
+These effects were consistent for all age cohorts studied (2 to < 6; 6 to < 12; 12 to < 17 years of age) and for both rocuronium and vecuronium.
+See section 4.2.
+
+Patients with severe systemic disease:
+A trial of 331 patients who were assessed as ASA Class 3 or 4 investigated the incidence of treatment-emergent arrhythmias (sinus bradycardia, sinus tachycardia, or other cardiac arrhythmias) after administration of sugammadex.
+In patients receiving sugammadex (2 mg/kg, 4 mg/kg, or 16 mg/kg), the incidence of treatment-emergent arrhythmias was generally similar to neostigmine (50 µg/kg up to 5 mg maximum dose) + glycopyrrolate (10 µg/kg up to 1 mg maximum dose).
+The adverse reaction profile in ASA Class 3 and 4 patients was generally similar to that of adult patients in pooled Phase 1 to 3 studies; therefore, no dosage adjustment is necessary.
+See section 4.8.

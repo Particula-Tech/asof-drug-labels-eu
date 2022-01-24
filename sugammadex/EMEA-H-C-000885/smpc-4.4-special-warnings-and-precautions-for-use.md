@@ -12,9 +12,10 @@ In clinical studies with subjects treated with rocuronium or vecuronium, where s
 The use of lower than recommended doses may lead to an increased risk of recurrence of neuromuscular blockade after initial reversal and is not recommended (see section 4.2 and section 4.8).
 
 Effect on haemostasis:
-In a study in volunteers doses of 4 mg/kg and 16 mg/kg of sugammadex resulted in maximum mean prolongations of the activated partial thromboplastin time (aPTT) by 17 and 22% respectively and prothrombin time international normalized ratio [PT(INR)] by 11 and 22% respectively.
-These limited mean aPTT and PT(INR) prolongations were of short duration (≤30 minutes).
+In a study in volunteers doses of 4 mg/kg and 16 mg/kg of sugammadex resulted in maximum mean prolongations of the activated partial thromboplastin time (aPTT) by 17 and 22% respectively and prothrombin time international normalised ratio [PT(INR)] by 11 and 22% respectively.
+These limited mean aPTT and PT(INR) prolongations were of short duration (≤ 30 minutes).
 Based on the clinical data-base (N=3,519) and on a specific study in 1184 patients undergoing hip fracture/major joint replacement surgery there was no clinically relevant effect of sugammadex 4 mg/kg alone or in combination with anticoagulants on the incidence of peri- or post-operative bleeding complications.
+
 In in vitro experiments a pharmacodynamic interaction (aPTT and PT prolongation) was noted with vitamin K antagonists, unfractionated heparin, low molecular weight heparinoids, rivaroxaban and dabigatran.
 In patients receiving routine post-operative prophylactic anticoagulation this pharmacodynamic interaction is not clinically relevant.
 Caution should be exercised when considering the use of sugammadex in patients receiving therapeutic anticoagulation for a pre-existing or co-morbid condition.
@@ -54,11 +55,12 @@ Sugammadex is not recommended for use in patients with severe renal impairment, 
 Light anaesthesia:
 When neuromuscular blockade was reversed intentionally in the middle of anaesthesia in clinical trials, signs of light anaesthesia were noted occasionally (movement, coughing, grimacing and suckling of the tracheal tube).
 If neuromuscular blockade is reversed, while anaesthesia is continued, additional doses of anaesthetic and/or opioid should be given as clinically indicated.
+
 Marked bradycardia:
 In rare instances, marked bradycardia has been observed within minutes after the administration of sugammadex for reversal of neuromuscular blockade.
 Bradycardia may occasionally lead to cardiac arrest.
 (See section 4.8.)
-Patients should be closely monitored for hemodynamic changes during and after reversal of neuromuscular blockade.
+Patients should be closely monitored for haemodynamic changes during and after reversal of neuromuscular blockade.
 Treatment with anti-cholinergic agents such as atropine should be administered if clinically significant bradycardia is observed.
 
 Hepatic impairment:

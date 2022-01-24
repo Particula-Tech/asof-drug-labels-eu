@@ -34,14 +34,14 @@ Additional information on special population
 Renal impairment:
 The use of sugammadex in patients with severe renal impairment (including patients requiring dialysis (CrCl < 30 mL/min)) is not recommended (see section 4.4).
 Studies in patients with severe renal impairment do not provide sufficient safety information to support the use of sugammadex in these patients (see also section 5.1).
-For mild and moderate renal impairment (creatinine clearance ≥30 and < 80 mL/min): the dose recommendations are the same as for adults without renal impairment.
+For mild and moderate renal impairment (creatinine clearance ≥ 30 and < 80 mL/min): the dose recommendations are the same as for adults without renal impairment.
 
 Elderly patients:
 After administration of sugammadex at reappearance of T2 following a rocuronium induced blockade, the median time to recovery of the T4/T1 ratio to 0.9 in adults (18-64 years) was 2.2 minutes, in elderly adults (65-74 years) it was 2.6 minutes and in very elderly adults (75 years or more) it was 3.6 minutes.
 Even though the recovery times in elderly tend to be slower, the same dose recommendation as for adults should be followed (see section 4.4).
 
 Obese patients:
-In obese patients, including morbidly obese patients (body mass index ≥40 kg/m2), the dose of sugammadex should be based on actual body weight.
+In obese patients, including morbidly obese patients (body mass index ≥ 40 kg/m2), the dose of sugammadex should be based on actual body weight.
 The same dose recommendations as for adults should be followed.
 
 Hepatic impairment:
@@ -51,13 +51,14 @@ For mild to moderate hepatic impairment: as sugammadex is mainly excreted renall
 
 Paediatric population
 
-The data for the paediatric population are limited (one study only for reversal of rocuronium induced blockade at reappearance of T2).
-Children and adolescents:
-For routine reversal of rocuronium induced blockade at reappearance of T2 in children and adolescents (2-17 years) 2 mg/kg sugammadex is recommended.
+Children and adolescents (2-17 years):
 Bridion 100 mg/mL may be diluted to 10 mg/mL to increase the accuracy of dosing in the paediatric population (see section 6.6).
-Other routine reversal situations have not been investigated and are therefore not recommended until further data become available.
+Routine reversal:
+A dose of 4 mg/kg sugammadex is recommended for reversal of rocuronium induced blockade if recovery has reached at least 1-2 PTC.
+A dose of 2 mg/kg is recommended for reversal of rocuronium induced blockade at reappearance of T2 (see section 5.1).
 
-Immediate reversal in children and adolescents has not been investigated and is therefore not recommended until further data become available.
+Immediate reversal:
+Immediate reversal in children and adolescents has not been investigated.
 
 Term newborn infants and infants:
 There is only limited experience with the use of sugammadex in infants (30 days to 2 years), and term newborn infants (less than 30 days) have not been studied.

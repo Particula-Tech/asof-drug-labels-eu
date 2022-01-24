@@ -12,7 +12,7 @@ Metabolism:
 In preclinical and clinical studies no metabolites of sugammadex have been observed and only renal excretion of the unchanged product was observed as the route of elimination.
 
 Elimination:
-In adult anaesthetized patients with normal renal function the elimination half-life (t1/2) of sugammadex is about 2 hours and the estimated plasma clearance is about 88 mL/min.
+In adult anaesthetised patients with normal renal function the elimination half-life (t1/2) of sugammadex is about 2 hours and the estimated plasma clearance is about 88 mL/min.
 A mass balance study demonstrated that > 90% of the dose was excreted within 24 hours.
 96% of the dose was excreted in urine, of which at least 95% could be attributed to unchanged sugammadex.
 Excretion via faeces or expired air was less than 0.02% of the dose.
@@ -30,19 +30,21 @@ Sugammadex concentrations were no longer detectable beyond 7 days post-dose in s
 
 Table 8: A summary of sugammadex pharmacokinetic parameters stratified by age and renal function is presented below:
 
-| Selected patient characteristics |  |  |  | Mean Predicted PK parameters (CV%) |  |  |
+| Selected Patient Characteristics |  |  |  | Mean Predicted PK Parameters (CV*%) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Demographics | Renal function Creatinine clearance (mL/min) |  |  | Clearance (mL/min) | Volume of distribution at steady state (L) | Elimination half-life (hr) |
-| Adult | Normal |  | 100 | 88 (22) | 12 | 2 (21) |
-| 40 yrs 75 kg | Impaired | Mild Moderate Severe | 50 30 10 | 51 (22) 31 (23) 9 (22) | 13 14 14 | 4 (22) 6 (23) 19 (24) |
-| Elderly | Normal |  | 80 | 75 (23) | 12 | 2 (21) |
-| 75 yrs 75 kg | Impaired | Mild Moderate Severe | 50 30 10 | 51 (24) 31 (23) 9 (22) | 13 14 14 | 3 (22) 6 (23) 19 (23) |
-| Adolescent | Normal |  | 95 | 77 (23) | 9 | 2 (22) |
-| 15 yrs 56 kg | Impaired | Mild Moderate Severe | 48 29 10 | 44 (23) 27 (22) 8 (21) | 10 10 11 | 3 (22) 5 (23) 17 (23) |
-| Child | Normal |  | 51 | 37 (22) | 4 | 2 (20) |
-| 7 yrs 23 kg | Impaired | Mild Moderate Severe | 26 15 5 | 19 (22) 11 (22) 3 (22) | 4 4 5 | 3 (22) 5 (22) 20 (25) |
+| Demographics Age Body weight | Renal function Creatinine clearance (mL/min) |  |  | Clearance (mL/min) | Volume of distribution at steady state (L) | Elimination half-life (hr) |
+| Adult | Normal |  | 100 | 84 (24) | 13 | 2 (22) |
+| 40 years 75 kg | Impaired | Mild Moderate Severe | 50 30 10 | 47 (25) 28 (24) 8 (25) | 14 14 15 | 4 (22) 7 (23) 24 (25) |
+| Elderly | Normal |  | 80 | 70 (24) | 13 | 3 (21) |
+| 75 years 75 kg | Impaired | Mild Moderate Severe | 50 30 10 | 46 (25) 28 (25) 8 (25) | 14 14 15 | 4 (23) 7 (23) 24 (24) |
+| Adolescent | Normal |  | 95 | 72 (25) | 10 | 2 (21) |
+| 15 years 56 kg | Impaired | Mild Moderate Severe | 48 29 10 | 40 (24) 24 (24) 7 (25) | 11 11 11 | 4 (23) 6 (24) 22 (25) |
+| Middle childhood | Normal |  | 60 | 40 (24) | 5 | 2 (22) |
+| 9 years 29 kg | Impaired | Mild Moderate Severe | 30 18 6 | 21 (24) 12 (25) 3 (26) | 6 6 6 | 4 (22) 7 (24) 25 (25) |
+| Early childhood | Normal |  | 39 | 24 (25) | 3 | 2 (22) |
+| 4 years 16 kg | Impaired | Mild Moderate Severe | 19 12 4 | 11 (25) 6 (25) 2 (25) | 3 3 3 | 4 (23) 7 (24) 28 (26) |
 
-CV=coefficient of variation
+*CV=coefficient of variation
 
 Gender:
 No gender differences were observed.

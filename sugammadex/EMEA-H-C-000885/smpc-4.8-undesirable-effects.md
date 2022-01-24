@@ -3,11 +3,13 @@
 Summary of the safety profile
 Bridion is administered concomitantly with neuromuscular blocking agents and anaesthetics in surgical patients.
 The causality of adverse events is therefore difficult to assess.
-The most commonly reported adverse reactions in surgical patients were cough, airway complication of anaesthesia, anaesthetic complications, procedural hypotension and procedural complication (Common (≥1/100 to < 1/10)).
+The most commonly reported adverse reactions in surgical patients were cough, airway complication of anaesthesia, anaesthetic complications, procedural hypotension and procedural complication (Common (≥ 1/100 to < 1/10)).
+
 Table 2: Tabulated list of adverse reactions
 The safety of sugammadex has been evaluated in 3,519 unique subjects across a pooled phase I-III safety database.
 The following adverse reactions were reported in placebo controlled trials where subjects received anaesthesia and/or neuromuscular blocking agents (1,078 subject exposures to sugammadex versus 544 to placebo):
-[Very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000)]
+[Very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare
+(≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000)]
 
 | System organ class | Frequencies | Adverse reactions (Preferred terms) |
 | --- | --- | --- |
@@ -47,7 +49,7 @@ There were no reports of anaphylaxis after placebo or sugammadex 4 mg/kg.
 There was a single case of adjudicated anaphylaxis after the first dose of sugammadex 16 mg/kg (incidence 0.7%).
 There was no evidence of increased frequency or severity of hypersensitivity with repeat dosing of sugammadex.
 In a previous study of similar design, there were three adjudicated cases of anaphylaxis, all after sugammadex 16 mg/kg (incidence 2.0%).
-In the Pooled Phase 1 database, AEs considered common (≥1/100 to < 1/10) or very common (≥1/10) and more frequent among subjects treated with sugammadex than in the placebo group, include dysgeusia (10.1%), headache (6.7%), nausea (5.6%), urticaria (1.7%), pruritus (1.7%), dizziness (1.6%), vomiting (1.2%) and abdominal pain (1.0%).
+In the Pooled Phase 1 database, AEs considered common (≥ 1/100 to < 1/10) or very common (≥ 1/10) and more frequent among subjects treated with sugammadex than in the placebo group, include dysgeusia (10.1%), headache (6.7%), nausea (5.6%), urticaria (1.7%), pruritus (1.7%), dizziness (1.6%), vomiting (1.2%) and abdominal pain (1.0%).
 
 Additional information on special populations
 
@@ -57,11 +59,16 @@ As with all patients with a history of pulmonary complications the physician sho
 
 Paediatric population
 
-A limited database suggests that the safety profile of sugammadex (up to 4 mg/kg) in paediatric patients was similar to that in adults.
+In studies of paediatric patients 2 to 17 years of age, the safety profile of sugammadex (up to 4 mg/kg) was generally similar to the profile observed in adults.
 
 Morbidly obese patients
 
-In one dedicated clinical trial in morbidly obese patients, the adverse reaction profile was generally similar to the profile in adult patients in pooled Phase 1 to 3 studies (see Table 2).
+In one dedicated clinical trial in morbidly obese patients, the safety profile was generally similar to the profile in adult patients in pooled Phase 1 to 3 studies (see Table 2).
+
+Patients with severe systemic disease
+
+In a trial in patients who were assessed as American Society of Anesthesiologists (ASA) Class 3 or 4 (patients with severe systemic disease or patients with severe systemic disease that is a constant threat to life), the adverse reaction profile in these ASA Class 3 and 4 patients was generally similar to that of adult patients in pooled Phase 1 to 3 studies (see Table 2).
+See section 5.1.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
