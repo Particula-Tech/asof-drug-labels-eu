@@ -15,7 +15,7 @@ In some post-marketing cases, renal function deterioration has led to renal fail
 The causes of the rises in serum creatinine have not been elucidated.
 Particular attention should therefore be paid to monitoring of serum creatinine in patients who are concomitantly receiving medicinal products that depress renal function, and in patients who are receiving high doses of deferasirox and/or low rates of transfusion (<7 ml/kg/month of packed red blood cells or
 <2 units/month for an adult).
-While no increase in renal adverse events was observed after dose escalation of EXJADE dispersible tablets to doses above 30 mg/kg in clinical studies, an increased risk of renal adverse events with EXJADE dispersible tablet doses above 30 mg/kg cannot be excluded.
+While no increase in renal adverse events was observed after dose escalation of EXJADE dispersible tablets to doses above 30 mg/kg in clinical studies, an increased risk of renal adverse events with film-coated tablet doses above 21 mg/kg cannot be excluded.
 
 It is recommended that serum creatinine be assessed in duplicate before initiating therapy.
 Serum creatinine, creatinine clearance (estimated with the Cockcroft-Gault or MDRD formula in adults and with the Schwartz formula in children) and/or plasma cystatin C levels should be monitored prior to therapy, weekly in the first month after initiation or modification of therapy with EXJADE
@@ -43,7 +43,7 @@ dose modification
 (including switch
 of formulation)
 - Thereafter Monthly and Monthly
-Reduction of daily dose by 10 mg/kg/day (dispersible tablet formulation),
+Reduction of daily dose by 7 mg/kg/day (film-coated tablet formulation),
 if following renal parameters are observed at two consecutive visits and cannot be attributed to
 other causes
 Adult patients >33% above pre- and Decreases <LLN*
@@ -162,7 +162,7 @@ Interruption of treatment should be considered in patients who develop unexplain
 
 Other considerations
 Monthly monitoring of serum ferritin is recommended in order to assess the patient’s response to therapy and to avoid overchelation (see section 4.2).
-Dose reduction or closer monitoring of renal and hepatic function, and serum ferritin levels are recommended during periods of treatment with high doses and when serum ferritin levels are close to the target range.
+Dose reduction or closer monitoring of renal and hepatic function, and serum ferritin levels are recommended during periods of treatments with high doses and when serum ferritin levels are close to the target range.
 If serum ferritin falls consistently below 500 µg/l (in transfusional iron overload) or below 300 µg/l (in non-transfusion-dependent thalassaemia syndromes), an interruption of treatment should be considered.
 
 The results of the tests for serum creatinine, serum ferritin and serum transaminases should be recorded and regularly assessed for trends.
@@ -173,19 +173,6 @@ Cardiac dysfunction is a known complication of severe iron overload.
 Cardiac function should be monitored in patients with severe iron overload during long-term treatment with EXJADE.
 
 Excipients
-
-This medicinal product contains lactose.
-Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
-
-This medicinal product contains less than 1 mmol sodium (23 mg) per dispersible tablet, that is to say essentially ‘sodium free’.
-
-[EXJADE 90 mg film-coated tablets]
-
-While no increase in renal adverse events was observed after dose escalation of EXJADE dispersible tablets to doses above 30 mg/kg in clinical studies, an increased risk of renal adverse events with film-coated tablet doses above 21 mg/kg cannot be excluded.
-
-Reduction of daily dose by 7 mg/kg/day (film-coated tablet formulation),
-
-Dose reduction or closer monitoring of renal and hepatic function, and serum ferritin levels are recommended during periods of treatments with high doses and when serum ferritin levels are close to the target range.
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per film-coated tablet, that is to say essentially ‘sodium free’.
 

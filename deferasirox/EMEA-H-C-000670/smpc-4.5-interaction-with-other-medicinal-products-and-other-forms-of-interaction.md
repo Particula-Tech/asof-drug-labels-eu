@@ -4,8 +4,8 @@ The safety of deferasirox in combination with other iron chelators has not been 
 Therefore, it must not be combined with other iron chelator therapies (see section 4.3).
 
 Interaction with food
-The bioavailability of deferasirox was increased to a variable extent when taken along with food.
-EXJADE dispersible tablets must therefore be taken on an empty stomach at least 30 minutes before food, preferably at the same time each day (see sections 4.2 and 5.2).
+The Cmax of deferasirox film-coated tablets was increased (by 29%) when taken with a high-fat meal.
+EXJADE film-coated tablets may be taken either on an empty stomach or with a light meal, preferably at the same time each day (see sections 4.2 and 5.2).
 
 Agents that may decrease EXJADE systemic exposure
 Deferasirox metabolism depends on UGT enzymes.
@@ -43,11 +43,6 @@ Close clinical monitoring is required when deferasirox is combined with these su
 
 Concomitant administration of deferasirox and busulfan resulted in an increase of busulfan exposure (AUC), but the mechanism of the interaction remains unclear.
 If possible, evaluation of the pharmacokinetics (AUC, clearance) of a busulfan test dose should be performed to allow dose adjustment.
-
-[EXJADE 90 mg film-coated tablets]
-
-The Cmax of deferasirox film-coated tablets was increased (by 29%) when taken with a high-fat meal.
-EXJADE film-coated tablets may be taken either on an empty stomach or with a light meal, preferably at the same time each day (see sections 4.2 and 5.2).
 
 [EXJADE 90 mg granules in sachet]
 

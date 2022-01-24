@@ -12,7 +12,8 @@ Pharmacodynamic effects
 In an iron-balance metabolic study in iron-overloaded adult thalassaemic patients, deferasirox at daily doses of 10, 20 and 40 mg/kg (dispersible tablet formulation) induced the mean net excretion of 0.119, 0.329 and 0.445 mg Fe/kg body weight/day, respectively.
 
 Clinical efficacy and safety
-Clinical efficacy studies were conducted with deferasirox dispersible tablets.
+Clinical efficacy studies were conducted with EXJADE dispersible tablets (referred to below as ‘deferasirox’).
+Compared to the deferasirox dispersible tablet formulation, the dose of the deferasirox film-coated tablets is 30% lower than the dose of the deferasirox dispersible tablets, rounded to the nearest whole tablet (see section 5.2).
 
 Deferasirox has been investigated in 411 adult (age ≥16 years) and 292 paediatric patients (aged 2 to <16 years) with chronic iron overload due to blood transfusions.
 Of the paediatric patients 52 were aged 2 to 5 years.
@@ -31,8 +32,8 @@ It appeared from a post-hoc analysis of this study that, in the subgroup of pati
 However, in patients with liver iron concentration <7 mg Fe/g dw treated with deferasirox dispersible tablets (5 and 10 mg/kg) or deferoxamine (20 to 35 mg/kg), non-inferiority was not established due to imbalance in the dosing of the two chelators.
 This imbalance occurred because patients on deferoxamine were allowed to remain on their pre-study dose even if it was higher than the protocol specified dose.
 Fifty-six patients under the age of 6 years participated in this pivotal study, 28 of them receiving deferasirox dispersible tablets.
-
 It appeared from preclinical and clinical studies that deferasirox dispersible tablets could be as active as deferoxamine when used in a dose ratio of 2:1 (i.e. a dose of deferasirox dispersible tablets that is numerically half of the deferoxamine dose).
+For deferasirox film-coated tablets, a dose ratio of 3:1 can be considered (i.e. a dose of deferasirox film-coated tablets that is numerically one third of the deferoxamine dose).
 However, this dosing recommendation was not prospectively assessed in the clinical studies.
 
 In addition, in patients with liver iron concentration ≥7 mg Fe/g dw with various rare anaemias or sickle cell disease, deferasirox dispersible tablets up to 20 and 30 mg/kg produced a decrease in liver iron concentration and serum ferritin comparable to that obtained in patients with beta-thalassaemia.
@@ -56,10 +57,8 @@ At a starting dose of 10 mg/kg/day, deferasirox dispersible tablets led to reduc
 On average, liver iron concentration decreased by 3.80 mg Fe/g dw in patients treated with deferasirox dispersible tablets (starting dose 10 mg/kg/day) and increased by 0.38 mg Fe/g dw in patients treated with placebo (p<0.001).
 On average, serum ferritin decreased by 222.0 µg/l in patients treated with deferasirox dispersible tablets (starting dose 10 mg/kg/day) and increased by 115 µg/l in patients treated with placebo (p<0.001).
 
-[EXJADE 90 mg film-coated tablets]
-
-For deferasirox film-coated tablets, a dose ratio of 3:1 can be considered (i.e. a dose of deferasirox film-coated tablets that is numerically one third of the deferoxamine dose).
-
 [EXJADE 90 mg granules in sachet]
+
+Compared to the deferasirox dispersible tablet formulation, the dose of the deferasirox granules formulation is 34% lower than the dose of the deferasirox dispersible tablets, rounded to the nearest whole tablet (see section 5.2).
 
 For deferasirox granules, a dose ratio of 3:1 can be considered (i.e. a dose of deferasirox granules that is numerically one third of the deferoxamine dose).
