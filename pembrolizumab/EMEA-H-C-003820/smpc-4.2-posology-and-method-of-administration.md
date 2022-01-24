@@ -19,7 +19,7 @@ Patients should be treated with KEYTRUDA until disease progression or unacceptab
 Atypical responses (i.e. an initial transient increase in tumour size or small new lesions within the first few months followed by tumour shrinkage) have been observed.
 It is recommended to continue treatment for clinically stable patients with initial evidence of disease progression until disease progression is confirmed.
 
-For the adjuvant treatment of melanoma, KEYTRUDA should be administered until disease recurrence, unacceptable toxicity, or for a duration of up to one year.
+For the adjuvant treatment of melanoma or RCC, KEYTRUDA should be administered until disease recurrence, unacceptable toxicity, or for a duration of up to one year.
 
 Dose delay or discontinuation (see also section 4.4)
 No dose reductions of KEYTRUDA are recommended.
@@ -104,30 +104,5 @@ When administering KEYTRUDA as part of a combination with intravenous chemothera
 For instructions on reconstitution and dilution of the medicinal product before administration, see section 6.6.
 
 [KEYTRUDA 25 mg/mL concentrate for solution for infusion.]
-
-| Immune-related adverse reactions | Severity | Treatment modification |
-| --- | --- | --- |
-| Pneumonitis | Grade 2 | Withhold until adverse reactions recover to Grades 0-1* |
-|  | Grades 3 or 4, or recurrent Grade 2 | Permanently discontinue |
-| Colitis | Grades 2 or 3 | Withhold until adverse reactions recover to Grades 0-1* |
-|  | Grade 4 or recurrent Grade 3 | Permanently discontinue |
-| Nephritis | Grade 2 with creatinine > 1.5 to ≤ 3 times upper limit of normal (ULN) | Withhold until adverse reactions recover to Grades 0-1* |
-|  | Grade ≥ 3 with creatinine > 3 times ULN | Permanently discontinue |
-| Endocrinopathies | Grade 2 adrenal insufficiency and hypophysitis | Withhold treatment until controlled by hormone replacement |
-
-| Immune-related adverse reactions | Severity | Treatment modification |
-| --- | --- | --- |
-|  | Grades 3 or 4 adrenal insufficiency or symptomatic hypophysitis | Withhold until adverse reactions recover to Grades 0-1* |
-|  | Type 1 diabetes associated with Grade ≥ 3 hyperglycaemia (glucose > 250 mg/dL or > 13.9 mmol/L) or associated with ketoacidosis Hyperthyroidism Grade ≥ 3 | For patients with Grade 3 or Grade 4 endocrinopathies that improved to Grade 2 or lower and are controlled with hormone replacement, if indicated, continuation of pembrolizumab may be considered after corticosteroid taper, if needed. Otherwise treatment should be discontinued. |
-|  | Hypothyroidism | Hypothyroidism may be managed with replacement therapy without treatment interruption. |
-| Hepatitis NOTE: for RCC patients treated with pembrolizumab in combination with axitinib with liver enzyme elevations, see dosing guidelines following this table. | Grade 2 with aspartate aminotransferase (AST) or alanine aminotransferase (ALT) > 3 to 5 times ULN or total bilirubin > 1.5 to 3 times ULN | Withhold until adverse reactions recover to Grades 0-1* |
-|  | Grade ≥ 3 with AST or ALT > 5 times ULN or total bilirubin > 3 times ULN | Permanently discontinue |
-|  | In case of liver metastasis with baseline Grade 2 elevation of AST or ALT, hepatitis with AST or ALT increases ≥ 50% and lasts ≥ 1 week | Permanently discontinue |
-| Skin reactions | Grade 3 or suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) | Withhold until adverse reactions recover to Grades 0-1* |
-|  | Grade 4 or confirmed SJS or TEN | Permanently discontinue |
-| Other immune-related adverse reactions | Based on severity and type of reaction (Grade 2 or Grade 3) | Withhold until adverse reactions recover to Grades 0-1* |
-|  | Grades 3 or 4 myocarditis Grades 3 or 4 encephalitis Grades 3 or 4 Guillain-Barré syndrome | Permanently discontinue |
-|  | Grade 4 or recurrent Grade 3 | Permanently discontinue |
-| Infusion-related reactions | Grades 3 or 4 | Permanently discontinue |
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.

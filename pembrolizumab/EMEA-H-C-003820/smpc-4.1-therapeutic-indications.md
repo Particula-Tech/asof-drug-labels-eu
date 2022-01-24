@@ -33,6 +33,8 @@ KEYTRUDA, in combination with axitinib, is indicated for the first-line treatmen
 
 KEYTRUDA, in combination with lenvatinib, is indicated for the first-line treatment of advanced renal cell carcinoma in adults (see section 5.1).
 
+KEYTRUDA as monotherapy is indicated for the adjuvant treatment of adults with renal cell carcinoma at increased risk of recurrence following nephrectomy, or following nephrectomy and resection of metastatic lesions (for selection criteria, please see section 5.1).
+
 Colorectal cancer (CRC)
 KEYTRUDA as monotherapy is indicated for the first-line treatment of metastatic microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer in adults.
 

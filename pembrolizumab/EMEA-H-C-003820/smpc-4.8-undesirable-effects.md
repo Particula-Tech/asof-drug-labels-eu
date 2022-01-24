@@ -4,12 +4,13 @@ Summary of the safety profile
 Pembrolizumab is most commonly associated with immune-related adverse reactions.
 Most of these, including severe reactions, resolved following initiation of appropriate medical therapy or withdrawal of pembrolizumab (see “Description of selected adverse reactions” below).
 The frequencies included below and in Table 2 are based on all reported adverse drug reactions, regardless of the investigator assessment of causality.
-
 Pembrolizumab in monotherapy (see section 4.2)
-The safety of pembrolizumab as monotherapy has been evaluated in 6,185 patients with advanced melanoma, resected Stage III melanoma (adjuvant therapy), NSCLC, cHL, urothelial carcinoma, HNSCC, or CRC across four doses (2 mg/kg bw every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg bw every 2 or 3 weeks) in clinical studies.
-In this patient population, the median observation time was 7.6 months (range: 1 day to 47 months) and the most frequent adverse reactions with pembrolizumab were fatigue (32%), nausea (21%), and diarrhoea (21%).
+The safety of pembrolizumab as monotherapy has been evaluated in 7,148 patients with advanced melanoma, resected Stage III melanoma (adjuvant therapy), NSCLC, cHL, urothelial carcinoma, HNSCC, CRC, endometrial, gastric, small intestine, biliary, pancreatic cancer or adjuvant therapy of RCC across four doses (2 mg/kg bw every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg bw every 2 or 3 weeks) in clinical studies.
+In this patient population, the median observation time was 7.9 months (range: 1 day to 39 months) and the most frequent adverse reactions with pembrolizumab were fatigue (31%), diarrhoea (22%), and nausea (21%).
 The majority of adverse reactions reported for monotherapy were of Grades 1 or 2 severity.
 The most serious adverse reactions were immune-related adverse reactions and severe infusion-related reactions (see section 4.4).
+The incidences of immune-related adverse reactions were 36.1% all Grades and 8.9% for Grades 3-5 for pembrolizumab monotherapy in the adjuvant setting (n=1,480) and 24.2% all Grades and 6.4% for Grades 3-5 in the metastatic setting (n=5,375).
+No new immune-related adverse reactions were identified in the adjuvant setting.
 
 Pembrolizumab in combination with chemotherapy (see section 4.2)
 When pembrolizumab is administered in combination, refer to the SmPC for the respective combination therapy components prior to initiation of treatment.
@@ -27,7 +28,6 @@ The safety of pembrolizumab in combination with axitinib or lenvatinib in advanc
 In these patient populations, the most frequent adverse reactions were diarrhoea (58%), hypertension (54%), hypothyroidism (46%), fatigue (41%), decreased appetite (40%), nausea (40%), arthralgia (30%), vomiting (28%), weight decreased (28%), dysphonia (28%), abdominal pain (28%), proteinuria (27%), palmar-plantar erythrodysaesthesia syndrome (26%), rash (26%), stomatitis (25%), constipation (25%), musculoskeletal pain (23%), headache (23%) and cough (21%).
 Grades 3-5 adverse reactions in patients with RCC were 80% for pembrolizumab in combination with either axitinib or lenvatinib and 71% for sunitinib alone.
 In patients with EC, Grades 3-5 adverse reactions were 89% for pembrolizumab in combination with lenvatinib and 73% for chemotherapy alone.
-
 Tabulated summary of adverse reactions
 Adverse reactions observed in clinical studies of pembrolizumab as monotherapy or in combination with chemotherapy or other anti-tumour medicines or reported from post-marketing use of pembrolizumab are listed in Table 2.
 These reactions are presented by system organ class and by frequency.
@@ -35,6 +35,7 @@ Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10)
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 Adverse reactions known to occur with pembrolizumab or combination therapy components given alone may occur during treatment with these medicinal products in combination, even if these reactions were not reported in clinical studies with combination therapy.
 For additional safety information when pembrolizumab is administered in combination, refer to the SmPC for the respective combination therapy components.
+
 Table 2: Adverse reactions in patients treated with pembrolizumab*
 
 |  | Monotherapy | In combination with chemotherapy | In combination with axitinib or lenvatinib |
@@ -53,8 +54,8 @@ Table 2: Adverse reactions in patients treated with pembrolizumab*
 | Not known | solid organ transplant rejection |  |  |
 | Endocrine disorders |  |  |  |
 | Very common | hypothyroidismb | hypothyroidism | hypothyroidism |
-| Common | hyperthyroidism, thyroiditisc | hyperthyroidismd | adrenal insufficiencye, hyperthyroidism, thyroiditisc |
-| Uncommon | adrenal insufficiencye, hypophysitisf | adrenal insufficiencye, hypophysitisf, thyroiditisc | hypophysitisf |
+| Common | hyperthyroidism | hyperthyroidismc | adrenal insufficiencyf, hyperthyroidism, thyroiditise |
+| Uncommon | adrenal insufficiencyf, hypophysitisd, thyroiditise | adrenal insufficiencyf, hypophysitisd, thyroiditise | hypophysitisd |
 | Metabolism and nutrition disorders |  |  |  |
 | Very common | decreased appetite | hypokalaemia, decreased appetite | decreased appetite |
 | Common | hyponatraemia, hypokalaemia, hypocalcaemia | hyponatraemia, hypocalcaemia | hyponatraemia, hypokalaemia, hypocalcaemia |
@@ -65,12 +66,12 @@ Table 2: Adverse reactions in patients treated with pembrolizumab*
 | Nervous system disorders |  |  |  |
 | Very common | headache | neuropathy peripheral, headache, dizziness | headache, dysgeusia |
 | Common | dizziness, neuropathy peripheral, lethargy, dysgeusia | lethargy, dysgeusia | dizziness, neuropathy peripheral, lethargy |
-| Uncommon | epilepsy | epilepsy | myasthenic syndromek, encephalitish |
-| Rare | encephalitish, Guillain-Barré syndromei, myelitisj, myasthenic syndromek, meningitis (aseptic)l | encephalitis, Guillain-Barré syndromei |  |
+| Uncommon | epilepsy | epilepsy | myasthenic syndromeh, encephalitisj |
+| Rare | Guillain-Barré syndromei, encephalitisj, myelitisk, myasthenic syndromeh, meningitis (aseptic)l | encephalitis, Guillain-Barré syndromei |  |
 | Eye disorders |  |  |  |
 | Common | dry eye | dry eye | dry eye |
 | Uncommon | uveitism |  | uveitism |
-| Rare | Vogt-Koyanagi-Harada syndrome | uveitis | Vogt-Koyanagi-Harada syndrome |
+| Rare | Vogt-Koyanagi-Har ada syndrome | uveitis | Vogt-Koyanagi-Harad a syndrome |
 | Cardiac disorders |  |  |  |
 | Common | cardiac arrhythmia† (including atrial fibrillation) | cardiac arrhythmia† (including atrial fibrillation) | cardiac arrhythmia† (including atrial fibrillation) |
 | Uncommon | myocarditis, pericardial effusion, pericarditis | myocarditisn, pericardial effusion, pericarditis | myocarditis, pericardial effusion |
@@ -78,7 +79,7 @@ Table 2: Adverse reactions in patients treated with pembrolizumab*
 | Very common |  |  | hypertension |
 | Common | hypertension | hypertension |  |
 | Uncommon |  | vasculitiso | vasculitiso |
-| Rare | vasculitis |  |  |
+| Rare | vasculitiso |  |  |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |
 | Very common | dyspnoea, cough | dyspnoea, cough | dyspnoea, cough |
 | Common | pneumonitisp | pneumonitisp | pneumonitisp |
@@ -92,10 +93,10 @@ Table 2: Adverse reactions in patients treated with pembrolizumab*
 | Uncommon | hepatitisu |  |  |
 | Rare | cholangitis sclerosing | cholangitis sclerosing |  |
 | Skin and subcutaneous tissue disorders |  |  |  |
-| Very common | rashv, pruritusw | alopecia, rashv, pruritusw | rashv, pruritusw |
-| Common | severe skin reactionsx, erythema, dermatitis, dry skin, vitiligoy, eczema, alopecia, dermatitis acneiform | severe skin reactionsx, erythema, dermatitis, dry skin | severe skin reactionsx, dermatitis, dry skin, erythema, dermatitis acneiform, alopecia |
+| Very common | pruritusv, rashw | alopecia, rashw, pruritusv | rashw, pruritusv |
+| Common | severe skin reactionsx, erythema, dermatitis, dry skin, vitiligoy, alopecia, eczema, dermatitis acneiform | severe skin reactionsx, erythema, dermatitis, dry skin | severe skin reactionsx, dermatitis, dry skin, erythema, dermatitis acneiform, alopecia |
 | Uncommon | psoriasis, lichenoid keratosisz, papule, hair colour changes | psoriasis, eczema, lichenoid keratosis, dermatitis acneiform, vitiligoy | eczema, lichenoid keratosisz, psoriasis, vitiligoy, papule, hair colour changes |
-| Rare | toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema nodosum | erythema nodosum, papule, hair colour changes | toxic epidermal necrolysis, Stevens-Johnson syndrome |
+| Rare | Stevens-Johnson syndrome, erythema nodosum, toxic epidermal necrolysis | erythema nodosum, papule, hair colour changes | toxic epidermal necrolysis, Stevens-Johnson syndrome |
 | Musculoskeletal and connective tissue disorders |  |  |  |
 | Very common | musculoskeletal painaa, arthralgia | musculoskeletal painaa, arthralgia | arthralgia, musculoskeletal painaa, myositisbb, pain in extremity |
 | Common | pain in extremity, myositisbb, arthritiscc | myositisbb, pain in extremity, arthritiscc | arthritiscc |
@@ -110,13 +111,13 @@ Table 2: Adverse reactions in patients treated with pembrolizumab*
 | Common | influenza-like illness, chills | influenza-like illness, chills | influenza-like illness, chills |
 | Investigations |  |  |  |
 | Very common |  | alanine aminotransferase increased, aspartate aminotransferase increased, blood creatinine increased | lipase increased, alanine aminotransferase increased, aspartate aminotransferase increased, blood creatinine increased |
-| Common | aspartate aminotransferase increased, alanine aminotransferase increased, hypercalcaemia, blood alkaline phosphatase increased, blood bilirubin increased, blood creatinine increased | hypercalcaemia, blood alkaline phosphatase increased, blood bilirubin increased | amylase increased, blood bilirubin increased, blood alkaline phosphatase increased, hypercalcaemia |
+| Common | alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, hypercalcaemia, blood bilirubin increased, blood creatinine increased | hypercalcaemia, blood alkaline phosphatase increased, blood bilirubin increased | amylase increased, blood bilirubin increased, blood alkaline phosphatase increased, hypercalcaemia |
 | Uncommon | amylase increased | amylase increased |  |
 
 *Adverse reaction frequencies presented in Table 2 may not be fully attributable to pembrolizumab alone but may contain contributions from the underlying disease or from other medicinal products used in a combination.
 †Based upon a standard query including bradyarrhythmias and tachyarrhythmias.
 The following terms represent a group of related events that describe a medical condition rather than a single event:
-a. infusion-related reaction (drug hypersensitivity, anaphylactic reaction, anaphylactoid reaction, hypersensitivity, infusion-related hypersensitivity reaction, and cytokine release syndrome) b. hypothyroidism (myxoedema) c. thyroiditis (autoimmune thyroiditis, thyroid disorder, and thyroiditis acute) d. hyperthyroidism (Basedow’s disease) e. adrenal insufficiency (Addison’s disease, adrenocortical insufficiency acute, secondary adrenocortical insufficiency) f. hypophysitis (hypopituitarism) g. type 1 diabetes mellitus (diabetic ketoacidosis) h. encephalitis (autoimmune encephalitis, noninfective encephalitis) i. Guillain-Barré syndrome (axonal neuropathy and demyelinating polyneuropathy) j. myelitis (including transverse myelitis) k. myasthenic syndrome (myasthenia gravis, including exacerbation) l. meningitis aseptic (meningitis, meningitis noninfective) m. uveitis (chorioretinitis, iritis and iridocyclitis) n. myocarditis (autoimmune myocarditis) o. vasculitis (central nervous system vasculitis, aortitis, giant cell arteritis) p. pneumonitis (interstitial lung disease, organising pneumonia, immune-mediated pneumonitis) q. abdominal pain (abdominal discomfort, abdominal pain upper and abdominal pain lower) r. colitis (colitis microscopic, enterocolitis, enterocolitis haemorrhagic, autoimmune colitis, and immune-mediated enterocolitis) s. pancreatitis (autoimmune pancreatitis, pancreatitis acute and immune-mediated pancreatitis) t. gastrointestinal ulceration (gastric ulcer and duodenal ulcer) u. hepatitis (autoimmune hepatitis, immune-mediated hepatitis, drug induced liver injury and acute hepatitis) v. rash (rash erythematous, rash follicular, rash macular, rash maculo-papular, rash papular, rash pruritic, rash vesicular and genital rash) w. pruritus (urticaria, urticaria papular and pruritus genital) x. severe skin reactions (dermatitis exfoliative generalised, exfoliative rash, pemphigus, and Grade ≥ 3 of the following: acute febrile neutrophilic dermatosis, contusion, decubitus ulcer, dermatitis bullous, dermatitis exfoliative, dermatitis psoriasiform, drug eruption, erythema multiforme, jaundice, lichen planus, oral lichen planus, pemphigoid, pruritus, pruritus genital, rash, rash erythematous, rash maculo-papular, rash pruritic, rash pustular, skin lesion, skin necrosis and toxic skin eruption) y. vitiligo (skin depigmentation, skin hypopigmentation and hypopigmentation of the eyelid) z. lichenoid keratosis (lichen planus and lichen sclerosus) aa. musculoskeletal pain (musculoskeletal discomfort, back pain, musculoskeletal stiffness, musculoskeletal chest pain and torticollis) bb. myositis (myalgia, myopathy, necrotising myositis, polymyalgia rheumatica and rhabdomyolysis) cc. arthritis (joint swelling, polyarthritis and joint effusion) dd. tenosynovitis (tendonitis, synovitis and tendon pain) ee. nephritis (autoimmune nephritis, tubulointerstitial nephritis and renal failure, renal failure acute, or acute kidney injury with evidence of nephritis, nephrotic syndrome, glomerulonephritis and glomerulonephritis membranous) ff. oedema (oedema peripheral, generalised oedema, fluid overload, fluid retention, eyelid oedema and lip oedema, face oedema, localised oedema and periorbital oedema)
+a. infusion-related reaction (drug hypersensitivity, anaphylactic reaction, anaphylactoid reaction, hypersensitivity, infusion-related hypersensitivity reaction, and cytokine release syndrome) b. hypothyroidism (myxoedema) c. hyperthyroidism (Basedow’s disease) d. hypophysitis (hypopituitarism, lymphocytic hypophysitis) e. thyroiditis (autoimmune thyroiditis, thyroid disorder, and thyroiditis acute) f. adrenal insufficiency (Addison’s disease, adrenocortical insufficiency acute, secondary adrenocortical insufficiency) g. type 1 diabetes mellitus (diabetic ketoacidosis) h. myasthenic syndrome (myasthenia gravis, including exacerbation) i. Guillain-Barré syndrome (axonal neuropathy and demyelinating polyneuropathy) j. encephalitis (autoimmune encephalitis, noninfective encephalitis) k. myelitis (transverse myelitis) l. meningitis aseptic (meningitis, meningitis noninfective) m. uveitis (chorioretinitis, iritis and iridocyclitis) n. myocarditis (autoimmune myocarditis) o. vasculitis (central nervous system vasculitis, aortitis, giant cell arteritis) p. pneumonitis (interstitial lung disease, organising pneumonia, immune-mediated pneumonitis) q. abdominal pain (abdominal discomfort, abdominal pain upper and abdominal pain lower) r. colitis (colitis microscopic, enterocolitis, enterocolitis haemorrhagic, autoimmune colitis, and immune-mediated enterocolitis) s. pancreatitis (autoimmune pancreatitis, pancreatitis acute and immune-mediated pancreatitis) t. gastrointestinal ulceration (gastric ulcer and duodenal ulcer) u. hepatitis (autoimmune hepatitis, immune-mediated hepatitis, drug induced liver injury and acute hepatitis) v. pruritus (urticaria, urticaria papular and pruritus genital) w. rash (rash erythematous, rash follicular, rash macular, rash maculo-papular, rash papular, rash pruritic, rash vesicular and genital rash) x. severe skin reactions (dermatitis exfoliative generalised, exfoliative rash, pemphigus, and Grade ≥ 3 of the following: acute febrile neutrophilic dermatosis, contusion, decubitus ulcer, dermatitis bullous, dermatitis exfoliative, dermatitis psoriasiform, drug eruption, erythema multiforme, jaundice, lichen planus, oral lichen planus, pemphigoid, pruritus, pruritus genital, rash, rash erythematous, rash maculo-papular, rash pruritic, rash pustular, skin lesion, skin necrosis and toxic skin eruption) y. vitiligo (skin depigmentation, skin hypopigmentation and hypopigmentation of the eyelid) z. lichenoid keratosis (lichen planus and lichen sclerosus) aa. musculoskeletal pain (musculoskeletal discomfort, back pain, musculoskeletal stiffness, musculoskeletal chest pain and torticollis) bb. myositis (myalgia, myopathy, necrotising myositis, polymyalgia rheumatica and rhabdomyolysis) cc. arthritis (joint swelling, polyarthritis and joint effusion) dd. tenosynovitis (tendonitis, synovitis and tendon pain) ee. nephritis (autoimmune nephritis, tubulointerstitial nephritis and renal failure, renal failure acute, or acute kidney injury with evidence of nephritis, nephrotic syndrome, glomerulonephritis and glomerulonephritis membranous) ff. oedema (oedema peripheral, generalised oedema, fluid overload, fluid retention, eyelid oedema and lip oedema, face oedema, localised oedema and periorbital oedema)
 
 Description of selected adverse reactions
 Data for the following immune-related adverse reactions are based on patients who received pembrolizumab across four doses (2 mg/kg bw every 3 weeks, 10 mg/kg bw every 2 or 3 weeks, or 200 mg every 3 weeks) in clinical studies (see section 5.1).
@@ -125,77 +126,79 @@ The management guidelines for these adverse reactions are described in section 4
 Immune-related adverse reactions (see section 4.4)
 
 Immune-related pneumonitis
-Pneumonitis occurred in 286 (4.6%) patients, including Grade 2, 3, 4 or 5 cases in 128 (2.1%),
-73 (1.2%), 17 (0.3%) and 9 (0.1%) patients, respectively, receiving pembrolizumab.
-The median time to onset of pneumonitis was 3.5 months (range 2 days to 26.7 months).
-The median duration was 2.0 months (range 1 day to 33.0+ months).
-Pneumonitis occurred more frequently in patients with a history of prior thoracic radiation (8.2%) than in patients who did not receive prior thoracic radiation (4.2%).
-Pneumonitis led to discontinuation of pembrolizumab in 117 (1.9%) patients.
-Pneumonitis resolved in 166 patients, 4 with sequelae.
+Pneumonitis occurred in 314 (4.4%) patients, including Grade 2, 3, 4 or 5 cases in 138 (1.9%),
+80 (1.1%), 19 (0.3%) and 9 (0.1%) patients, respectively, receiving pembrolizumab.
+The median time to onset of pneumonitis was 3.7 months (range 2 days to 27.2 months).
+The median duration was 2.0 months (range 1 day to 51.0+ months).
+Pneumonitis occurred more frequently in patients with a history of prior thoracic radiation (8.1%) than in patients who did not receive prior thoracic radiation (4.1%).
+Pneumonitis led to discontinuation of pembrolizumab in 129 (1.8%) patients.
+Pneumonitis resolved in 188 patients, 6 with sequelae.
 
 In patients with NSCLC, pneumonitis occurred in 160 (5.7%), including Grade 2, 3, 4 or 5 cases in 62 (2.2%), 47 (1.7%), 14 (0.5%) and 10 (0.4%), respectively.
 In patients with NSCLC, pneumonitis occurred in 8.9% with a history of prior thoracic radiation.
 In patients with cHL, the incidence of pneumonitis (all Grades) ranged from 5.2% to 10.8% for cHL patients in KEYNOTE-087 (n=210) and KEYNOTE-204 (n=148), respectively.
 
 Immune-related colitis
-Colitis occurred in 121 (2.0%) patients, including Grade 2, 3 or 4 cases in 35 (0.6%), 67 (1.1%) and 5 (0.1%) patients, respectively, receiving pembrolizumab.
-The median time to onset of colitis was 4.7 months (range 7 days to 24.3 months).
-The median duration was 1.0 month (range 1 day to 12.4 months).
-Colitis led to discontinuation of pembrolizumab in 34 (0.5%) patients.
-Colitis resolved in 99 patients, 2 with sequelae.
+Colitis occurred in 140 (2.0%) patients, including Grade 2, 3 or 4 cases in 42 (0.6%), 74 (1.0%) and 6 (0.1%) patients, respectively, receiving pembrolizumab.
+The median time to onset of colitis was 4.5 months (range 2 days to 24.3 months).
+The median duration was 1.0 month (range 1 day to 45.2+ months).
+Colitis led to discontinuation of pembrolizumab in 41 (0.6%) patients.
+Colitis resolved in 115 patients, 2 with sequelae.
 In patients with CRC treated with pembrolizumab as monotherapy (n=153), the incidence of colitis was 6.5% (all Grades) with 2.0% Grade 3 and 1.3% Grade 4.
 
 Immune-related hepatitis
-Hepatitis occurred in 61 (1.0%) patients, including Grade 2, 3 or 4 cases in 8 (0.1%), 41 (0.7%) and 8 (0.1%) patients, respectively, receiving pembrolizumab.
-The median time to onset of hepatitis was 3.8 months (range 8 days to 26.3 months).
-The median duration was 1.1 months (range 1 day to 20.9+ months).
-Hepatitis led to discontinuation of pembrolizumab in 24 (0.4%) patients.
-Hepatitis resolved in 46 patients.
+Hepatitis occurred in 70 (1.0%) patients, including Grade 2, 3 or 4 cases in 11 (0.2%), 47 (0.7%) and 8 (0.1%) patients, respectively, receiving pembrolizumab.
+The median time to onset of hepatitis was 3.9 months (range 8 days to 26.3 months).
+The median duration was 1.2 months (range 1 day to 22.5+ months).
+Hepatitis led to discontinuation of pembrolizumab in 29 (0.4%) patients.
+Hepatitis resolved in 54 patients.
 
 Immune-related nephritis
-Nephritis occurred in 25 (0.4%) patients, including Grade 2, 3 or 4 cases in 5 (0.1%), 15 (0.2%) and 2 (< 0.1%) patients, respectively, receiving pembrolizumab as monotherapy.
-The median time to onset of nephritis was 5.1 months (range 12 days to 21.4 months).
-The median duration was 3.3 months (range 6 days to 19.6 months).
-Nephritis led to discontinuation of pembrolizumab in 10 (0.2%) patients.
-Nephritis resolved in 15 patients, 4 with sequelae.
+Nephritis occurred in 30 (0.4%) patients, including Grade 2, 3 or 4 cases in 8 (0.1%), 16 (0.2%) and 2 (< 0.1%) patients, respectively, receiving pembrolizumab as monotherapy.
+The median time to onset of nephritis was 4.6 months (range 12 days to 21.4 months).
+The median duration was 6.9 months (range 6 days to 28.2+ months).
+Nephritis led to discontinuation of pembrolizumab in 13 (0.2%) patients.
+Nephritis resolved in 18 patients, 5 with sequelae.
 In patients with non-squamous NSCLC treated with pembrolizumab in combination with pemetrexed and platinum chemotherapy (n=488), the incidence of nephritis was 1.4% (all Grades) with 0.8% Grade 3 and 0.4% Grade 4.
 
 Immune-related endocrinopathies
-Adrenal insufficiency occurred in 52 (0.8%) patients, including Grade 2, 3 or 4 cases in 23 (0.4%),
-21 (0.3%) and 4 (0.1%) patients, respectively, receiving pembrolizumab.
+Adrenal insufficiency occurred in 62 (0.9%) patients, including Grade 2, 3 or 4 cases in 27 (0.4%),
+27 (0.4%) and 4 (0.1%) patients, respectively, receiving pembrolizumab.
 The median time to onset of adrenal insufficiency was 5.5 months (range 1 day to 23.7 months).
-The median duration was not reached (range 3 days to 32.4+ months).
-Adrenal insufficiency led to discontinuation of pembrolizumab in 5 (0.1%) patients.
-Adrenal insufficiency resolved in 18 patients, 5 with sequelae.
+The median duration was not reached (range 3 days to 40.1+ months).
+Adrenal insufficiency led to discontinuation of pembrolizumab in 10 (0.1%) patients.
+Adrenal insufficiency resolved in 24 patients, 10 with sequelae.
 
-Hypophysitis occurred in 38 (0.6%) patients, including Grade 2, 3 or 4 cases in 15 (0.2%), 19 (0.3%) and 1 (< 0.1%) patients, respectively, receiving pembrolizumab.
+Hypophysitis occurred in 40 (0.6%) patients, including Grade 2, 3 or 4 cases in 15 (0.2%), 21 (0.3%) and 1 (< 0.1%) patients, respectively, receiving pembrolizumab.
 The median time to onset of hypophysitis was 5.9 months (range 1 day to 17.7 months).
-The median duration was 3.6 months (range 3 days to 30.4+ months).
-Hypophysitis led to discontinuation of pembrolizumab in 9 (0.1%) patients.
-Hypophysitis resolved in 17 patients, 8 with sequelae.
+The median duration was 3.3 months (range 3 days to 48.1+ months).
+Hypophysitis led to discontinuation of pembrolizumab in 10 (0.1%) patients.
+Hypophysitis resolved in 19 patients, 8 with sequelae.
 
-Hyperthyroidism occurred in 261 (4.2%) patients, including Grade 2 or 3 cases in 64 (1.0%) and 7 (0.1%) patients, respectively, receiving pembrolizumab.
+Hyperthyroidism occurred in 344 (4.8%) patients, including Grade 2 or 3 cases in 93 (1.3%) and 8 (0.1%) patients, respectively, receiving pembrolizumab.
 The median time to onset of hyperthyroidism was 1.4 months (range 1 day to 23.2 months).
-The median duration was 1.8 months (range 4 days to 27.6+ months).
+The median duration was 1.6 months (range 4 days to 43.1+ months).
 Hyperthyroidism led to discontinuation of pembrolizumab in 3 (< 0.1%) patients.
-Hyperthyroidism resolved in 207 (79.3%) patients, 5 with sequelae.
+Hyperthyroidism resolved in 282 (82.0%) patients, 11 with sequelae.
+In patients with RCC and melanoma treated with pembrolizumab monotherapy in the adjuvant setting (n=1,480), the incidence of hyperthyroidism was 10.9%, the majority of which were Grade 1 or 2.
 
-Hypothyroidism occurred in 699 (11.3%) patients, including Grade 2 or 3 cases in 510 (8.2%) and 7 (0.1%) patients, respectively, receiving pembrolizumab.
+Hypothyroidism occurred in 856 (12.0%) patients, including Grade 2 or 3 cases in 630 (8.8%) and 8 (0.1%) patients, respectively, receiving pembrolizumab.
 The median time to onset of hypothyroidism was 3.4 months (range 1 day to 25.9 months).
-The median duration was not reached (range 2 days to 53.9+ months).
-Two patients (< 0.1%) discontinued pembrolizumab due to hypothyroidism.
-Hypothyroidism resolved in 171 (24.5%) patients, 14 with sequelae.
+The median duration was not reached (range 2 days to 62.9+ months).
+Four patients ( 0.1%) discontinued pembrolizumab due to hypothyroidism.
+Hypothyroidism resolved in 199 (23.2%) patients, 16 with sequelae.
 In patients with cHL (n=389) the incidence of hypothyroidism was 17%, all of which were Grade 1 or 2.
 In patients with HNSCC treated with pembrolizumab as monotherapy (n=909), the incidence of hypothyroidism was 16.1% (all Grades) with 0.3% Grade 3.
 In patients with HNSCC treated with pembrolizumab in combination with platinum and 5-FU chemotherapy (n=276), the incidence of hypothyroidism was 15.2%, all of which were Grade 1 or 2.
 In patients treated with pembrolizumab in combination with axitinib or lenvatinib (n=1,456), the incidence of hypothyroidism was 46.2% (all Grades) with 0.8% Grade 3 or 4.
+In patients with RCC and melanoma treated with pembrolizumab monotherapy in the adjuvant setting (n=1,480), the incidence of hypothyroidism was 17.7%, the majority of which were Grade 1 or 2.
 
 Immune-related skin adverse reactions
-Immune-related severe skin reactions occurred in 102 (1.6%) patients, including Grade 2, 3 or 5 cases in 11 (0.2%), 77 (1.2%) and 1 (< 0.1%) patients, respectively, receiving pembrolizumab.
-The median time to onset of severe skin reactions was 3.5 months (range 3 days to 25.5 months).
-The median duration was 1.9 months (range 1 day to 33.0+ months).
-Severe skin reactions led to discontinuation of pembrolizumab in 13 (0.2%) patients.
-Severe skin reactions resolved in 71 patients, 1 with sequelae.
+Immune-related severe skin reactions occurred in 116 (1.6%) patients, including Grade 2, 3 or 5 cases in 11 (0.2%), 91 (1.3%) and 1 (< 0.1%) patients, respectively, receiving pembrolizumab.
+The median time to onset of severe skin reactions was 3.3 months (range 3 days to 25.5 months).
+The median duration was 1.9 months (range 1 day to 47.1+ months).
+Severe skin reactions led to discontinuation of pembrolizumab in 15 (0.2%) patients.
+Severe skin reactions resolved in 83 patients, 2 with sequelae.
 
 Rare cases of SJS and TEN, some of them with fatal outcome, have been observed (see sections 4.2 and 4.4).
 
@@ -207,6 +210,7 @@ One patient experienced engraftment syndrome post-transplant.
 Of 32 patients in KEYNOTE-087 who proceeded to allogeneic HSCT after treatment with pembrolizumab, 16 patients reported acute GVHD and 7 patients reported chronic GVHD, two of which were fatal.
 No patients experienced hepatic VOD.
 No patients experienced engraftment syndrome post-transplant.
+
 Of 14 patients in KEYNOTE-204 who proceeded to allogeneic HSCT after treatment with pembrolizumab, 8 patients reported acute GVHD and 3 patients reported chronic GVHD, none of which were fatal.
 No patients experienced hepatic VOD.
 One patient experienced engraftment syndrome post-transplant.
@@ -222,7 +226,7 @@ Of these patients, 55% had no recurrence of ALT > 3 times ULN, and of those pati
 There were no Grade 5 hepatic events.
 
 Laboratory abnormalities
-In patients treated with pembrolizumab monotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 10.8% for lymphocytes decreased, 8.3% for sodium decreased, 6.4% for haemoglobin decreased, 5.4% for phosphate decreased, 5.0% for glucose increased, 3.1% for AST increased, 3.0% for ALT increased, 2.7% for alkaline phosphatase increased, 2.4% for potassium decreased, 2.1% for neutrophils decreased, 2.0% for platelets decreased, 1.9% for calcium increased, 1.9% for potassium increased, 1.9% for bilirubin increased, 1.6% for albumin decreased, 1.5% for calcium decreased, 1.5% for creatinine increased, 0.9% for leucocytes decreased, 0.7% for magnesium increased, 0.6% for glucose decreased, 0.2% for magnesium decreased, and 0.2% for sodium increased.
+In patients treated with pembrolizumab monotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 9.9% for lymphocytes decreased, 7.9% for sodium decreased, 6.2% for haemoglobin decreased, 5.5% for glucose increased, 5.4% for phosphate decreased, 3.3% for ALT increased, 3.2% for AST increased, 2.7% for alkaline phosphatase increased, 2.4% for potassium decreased, 2.1% for potassium increased, 2.0% for neutrophils decreased, 1.9% for platelets decreased, 1.9% for calcium increased, 1.8% for bilirubin increased, 1.5% for albumin decreased, 1.5% for calcium decreased, 1.4% for creatinine increased, 1.0% for glucose decreased, 0.9% for leucocytes decreased, 0.8% for magnesium increased, 0.5% for haemoglobin increased, 0.5% for sodium increased, and 0.2% for magnesium decreased.
 
 In patients treated with pembrolizumab in combination with chemotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 37.7% for neutrophils decreased, 25.8% for lymphocytes decreased, 25.2% for leucocytes decreased, 20.3% for haemoglobin decreased, 13.3% for platelets decreased, 11.3% for sodium decreased, 8.9% for phosphate decreased, 7.2% for potassium decreased, 6.7% for glucose increased, 5.8% for ALT increased, 5.4% for AST increased, 3.6% for calcium decreased, 3.4% for potassium increased, 2.8% for albumin decreased, 2.7% for creatinine increased, 2.3% for alkaline phosphatase increased, 1.9% for bilirubin increased, 1.7% for calcium increased, 1.0% for glucose decreased, 0.6% for sodium increased, and 0.1% for haemoglobin increased.
 

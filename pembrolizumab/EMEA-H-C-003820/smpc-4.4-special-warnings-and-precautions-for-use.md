@@ -49,8 +49,7 @@ Severe endocrinopathies, including adrenal insufficiency, hypophysitis, type 1 d
 Long-term hormone replacement therapy may be necessary in cases of immune-related endocrinopathies.
 
 Adrenal insufficiency (primary and secondary) has been reported in patients receiving pembrolizumab.
-Hypophysitis has also been reported in patients receiving pembrolizumab.
-(See section 4.8).
+Hypophysitis has also been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of adrenal insufficiency and hypophysitis (including hypopituitarism) and other causes excluded.
 Corticosteroids to treat adrenal insufficiency and other hormone replacement should be administered as clinically indicated.
 Pembrolizumab should be withheld for Grade 2 adrenal insufficiency or hypophysitis until the event is controlled with hormone replacement.
@@ -143,7 +142,6 @@ A direct comparison of pembrolizumab when used in combination with chemotherapy 
 Physicians should consider the benefit/risk balance of the available treatment options (pembrolizumab monotherapy or pembrolizumab in combination with chemotherapy) before initiating treatment in previously untreated patients with NSCLC whose tumours express PD-L1.
 
 In KEYNOTE-042, a higher number of deaths within 4 months of treatment initiation followed by a long-term survival benefit was observed with pembrolizumab monotherapy compared to chemotherapy (see section 5.1).
-
 Use of pembrolizumab for first-line treatment of patients with HNSCC
 In general, the frequency of adverse reactions for pembrolizumab combination therapy is observed to be higher than for pembrolizumab monotherapy or chemotherapy alone, reflecting the contributions of each of these components (see section 4.8).
 
@@ -176,3 +174,7 @@ Patient alert card
 All prescribers of KEYTRUDA must be familiar with the Physician Information and Management Guidelines.
 The prescriber must discuss the risks of KEYTRUDA therapy with the patient.
 The patient will be provided with the patient alert card with each prescription.
+
+[KEYTRUDA 25 mg/mL concentrate for solution for infusion.]
+
+Hypophysitis has also been reported in patients receiving pembrolizumab (ee section 4.8).
