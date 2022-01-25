@@ -1,5 +1,9 @@
 # 4.4 Special warnings and precautions for use
 
+Traceability
+
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
 Calcium and vitamin D supplementation
 
 Adequate intake of calcium and vitamin D is important in all patients.
@@ -12,10 +16,10 @@ Hypocalcaemia must be corrected by adequate intake of calcium and vitamin D befo
 Clinical monitoring of calcium levels is recommended before each dose and, in patients predisposed to hypocalcaemia within two weeks after the initial dose.
 If any patient presents with suspected symptoms of hypocalcaemia during treatment (see section 4.8 for symptoms) calcium levels should be measured.
 Patients should be encouraged to report symptoms indicative of hypocalcaemia.
-
 In the post-marketing setting, severe symptomatic hypocalcaemia (including fatal cases) has been reported (see section 4.8), with most cases occurring in the first weeks of initiating therapy, but it can occur later.
 
 Concomitant glucocorticoid treatment is an additional risk factor for hypocalcaemia.
+
 Renal impairment
 Patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis are at greater risk of developing hypocalcaemia.
 The risks of developing hypocalcaemia and accompanying parathyroid hormone elevations increase with increasing degree of renal impairment.
@@ -25,7 +29,7 @@ Skin infections
 Patients receiving denosumab may develop skin infections (predominantly cellulitis) leading to hospitalisation (see section 4.8).
 Patients should be advised to seek prompt medical attention if they develop signs or symptoms of cellulitis.
 
-Osteonecrosis of the Jaw (ONJ)
+Osteonecrosis of the jaw (ONJ)
 ONJ has been reported rarely in patients receiving Prolia for osteoporosis (see section 4.8).
 
 The start of treatment/new treatment course should be delayed in patients with unhealed open soft tissue lesions in the mouth.
@@ -65,9 +69,6 @@ Long-term antiresorptive treatment (including both denosumab and bisphosphonates
 
 Concomitant treatment with other denosumab-containing medicinal products
 Patients being treated with denosumab should not be treated concomitantly with other denosumab-containing medicinal products (for prevention of skeletal related events in adults with bone metastases from solid tumours).
-
-Dry natural rubber
-The needle cover of the pre-filled syringe contains dry natural rubber (a derivative of latex), which may cause allergic reactions.
 
 Warnings for excipients
 This medicine contains 47 mg sorbitol in each mL of solution.
