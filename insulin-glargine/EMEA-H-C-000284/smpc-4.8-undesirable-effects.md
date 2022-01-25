@@ -38,7 +38,8 @@ In patients with proliferative retinopathy, particularly if not treated with pho
 
 Skin and subcutaneous tissue disorders
 Lipodystrophy and cutaneous amyloidosis may occur at the injection site and delay local insulin absorption.
-Continuous rotation of the injection site within the given injection area may help to reduce or prevent these reactions.
+Continuous rotation of the injection site within the given injection area may help to reduce or prevent these reactions (see section 4.4).
+
 General disorders and administration site conditions
 Injection site reactions include redness, pain, itching, hives, swelling, or inflammation.
 Most minor reactions to insulins at the injection site usually resolve in a few days to a few weeks.

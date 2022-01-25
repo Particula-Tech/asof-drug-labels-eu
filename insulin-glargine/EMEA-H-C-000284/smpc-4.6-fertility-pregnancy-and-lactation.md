@@ -5,7 +5,6 @@ For insulin glargine no clinical data on exposed pregnancies from controlled cli
 A large amount of data on pregnant women (more than 1000 pregnancy outcomes) indicate no specific adverse effects of insulin glargine on pregnancy and no specific malformative nor feto/neonatal toxicity of insulin glargine.
 Animal data do not indicate reproductive toxicity.
 The use of Lantus may be considered during pregnancy, if clinically needed.
-
 It is essential for patients with pre-existing or gestational diabetes to maintain good metabolic control throughout pregnancy to prevent adverse outcomes associated with hyperglycemia.
 Insulin requirements may decrease during the first trimester and generally increase during the second and third trimesters.
 Immediately after delivery, insulin requirements decline rapidly (increased risk of hypoglycaemia).

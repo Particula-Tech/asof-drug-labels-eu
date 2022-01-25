@@ -57,7 +57,7 @@ The prolonged duration of action of Lantus is dependent on its injection into su
 Intravenous administration of the usual subcutaneous dose could result in severe hypoglycaemia.
 
 There are no clinically relevant differences in serum insulin or glucose levels after abdominal, deltoid or thigh administration of Lantus.
-Injection sites must be rotated within a given injection area from one injection to the next.
+Injection sites must be rotated within a given injection area from one injection to the next in order to reduce the risk of lipodystrophy and cutaneous amyloidosis (see section 4.4 and 4.8).
 Lantus must not be mixed with any other insulin or diluted.
 Mixing or diluting can change its time/action profile and mixing can cause precipitation.
 

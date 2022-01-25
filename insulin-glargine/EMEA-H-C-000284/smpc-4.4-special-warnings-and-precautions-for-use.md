@@ -1,5 +1,8 @@
 # 4.4 Special warnings and precautions for use
 
+Traceability
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
 Lantus is not the insulin of choice for the treatment of diabetic ketoacidosis.
 Instead, regular insulin administered intravenously is recommended in such cases.
 
@@ -8,12 +11,16 @@ In case of insufficient glucose control or a tendency to hyper- or hypoglycaemic
 Transferring a patient to another type or brand of insulin should be done under strict medical supervision.
 Changes in strength, brand (manufacturer), type (regular, NPH, lente, long-acting, etc.), origin (animal, human, human insulin analogue) and/or method of manufacture may result in the need for a change in dose.
 
+Patients must be instructed to perform continuous rotation of the injection site to reduce the risk of developing lipodystrophy and cutaneous amyloidosis.
+There is a potential risk of delayed insulin absorption and worsened glycaemic control following insulin injections at sites with these reactions.
+A sudden change in the injection site to an unaffected area has been reported to result in hypoglycaemia.
+Blood glucose monitoring is recommended after the change in the injection site, and dose adjustment of antidiabetic medications may be considered.
+
 Hypoglycaemia
 The time of occurrence of hypoglycaemia depends on the action profile of the insulins used and may, therefore, change when the treatment regimen is changed.
 Due to more sustained basal insulin supply with Lantus, less nocturnal but more early morning hypoglycaemia can be expected.
 
 Particular caution should be exercised, and intensified blood glucose monitoring is advisable in patients in whom hypoglycaemic episodes might be of particular clinical relevance, such as in patients with significant stenoses of the coronary arteries or of the blood vessels supplying the brain (risk of cardiac or cerebral complications of hypoglycaemia) as well as in patients with proliferative retinopathy, particularly if not treated with photocoagulation (risk of transient amaurosis following hypoglycaemia).
-
 Patients should be aware of circumstances where warning symptoms of hypoglycaemia are diminished.
 The warning symptoms of hypoglycaemia may be changed, be less pronounced or be absent in certain risk groups.
 These include patients:

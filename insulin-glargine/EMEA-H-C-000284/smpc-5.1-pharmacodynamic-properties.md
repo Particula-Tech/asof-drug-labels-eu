@@ -11,6 +11,7 @@ After injection into the subcutaneous tissue, the acidic solution is neutralised
 Insulin glargine is metabolised into 2 active metabolites M1 and M2 (see section 5.2).
 
 Insulin receptor binding: In vitro studies indicate that the affinity of insulin glargine and its metabolites M1 and M2 for the human insulin receptor is similar to the one of human insulin.
+
 IGF-1 receptor binding: The affinity of insulin glargine for the human IGF-1 receptor is approximately 5 to 8-fold greater than that of human insulin (but approximately 70 to 80-fold lower than the one of IGF-1), whereas M1 and M2 bind the IGF-1 receptor with slightly lower affinity compared to human insulin.
 
 The total therapeutic insulin concentration (insulin glargine and its metabolites) found in type 1 diabetic patients was markedly lower than what would be required for a halfmaximal occupation of the IGF-1 receptor and the subsequent activation of the mitogenic-proliferative pathway initiated by the IGF-1 receptor.
@@ -33,16 +34,15 @@ Activity profile in patients with type 1 diabetes
 
 The longer duration of action of subcutaneous insulin glargine is directly related to its slower rate of absorption and supports once daily administration.
 The time course of action of insulin and insulin analogues such as insulin glargine may vary considerably in different individuals or within the same individual.
-In a clinical study, symptoms of hypoglycaemia or counter-regulatory hormone responses were similar after intravenous insulin glargine and human insulin both in healthy volunteers and patients with type 1 diabetes.
 
+In a clinical study, symptoms of hypoglycaemia or counter-regulatory hormone responses were similar after intravenous insulin glargine and human insulin both in healthy volunteers and patients with type 1 diabetes.
 In clinical studies, antibodies that cross-react with human insulin and insulin glargine were observed with the same frequency in both NPH-insulin and insulin glargine treatment groups.
 
 Effects of insulin glargine (once daily) on diabetic retinopathy were evaluated in an open-label 5 year NPH-controlled study (NPH given bid) in 1024 type 2 diabetic patients in which progression of retinopathy by 3 or more steps on the Early Treatment Diabetic Retinopathy Study (ETDRS) scale was investigated by fundus photography.
 No significant difference was seen in the progression of diabetic retinopathy when insulin glargine was compared to NPH insulin.
 
 The ORIGIN (Outcome Reduction with Initial Glargine INtervention) study was a multicenter, randomised, 2x2 factorial design study conducted in 12,537 participants at high cardiovascular (CV) risk with impaired fasting glucose (IFG) or impaired glucose tolerance (IGT) (12% of participants) or type 2 diabetes mellitus treated with ≤1 antidiabetic oral agent (88% of participants).
-Participants were randomised (1:1) to receive insulin glargine (n=6264), titrated to reach FPG ≤95 mg/dl
-(5.3 mM), or standard care (n=6273).
+Participants were randomised (1:1) to receive insulin glargine (n=6264), titrated to reach FPG ≤95 mg/dl (5.3 mM), or standard care (n=6273).
 The first co-primary efficacy outcome was the time to the first occurrence of CV death, nonfatal myocardial infarction (MI), or nonfatal stroke, and the second co-primary efficacy outcome was the time to the first occurrence of any of the first co-primary events, or revascularisation procedure (coronary, carotid, or peripheral), or hospitalisation for heart failure.
 
 Secondary endpoints included all-cause mortality and a composite microvascular outcome.
