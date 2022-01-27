@@ -75,7 +75,7 @@ Some cases of disseminated herpes infection, including fatal cases, have been re
 
 In the post-marketing setting, cases of infections with opportunistic pathogens, such as viral (e.g. varicella zoster virus [VZV], John Cunningham virus [JCV] causing Progressive Multifocal Leukoencephalopathy, herpes simplex virus [HSV]), fungal (e.g. cryptococci including cryptococcal meningitis) or bacterial (e.g. atypical mycobacterium), have been reported, some of which have been fatal (see section 4.4).
 
-Human papilloma virus (HPV) infection, including papilloma, dysplasia, warts and HPV-related cancer, has been reported under treatment with fingolimod in the post-marketing setting.
+Human papilloma virus (HPV) infection, including papilloma, dysplasia, warts and HPV-related cancer, has been reported under treatment with fingolimod in the post-marketing setting (see section 4.4).
 Due to the immunosuppressive properties of fingolimod, vaccination against HPV should be considered prior to treatment initiation with fingolimod taking into account vaccination recommendations.
 Cancer screening, including Pap test, is recommended as per standard of care.
 
@@ -96,7 +96,6 @@ In multiple sclerosis clinical studies the maximal decline in heart rate was see
 Heart rate below 40 beats per minute in adults, and below 50 beats per minute in paediatric patients, was rarely observed in patients on fingolimod 0.5 mg.
 The average heart rate returned towards baseline within 1 month of chronic treatment.
 Bradycardia was generally asymptomatic but some patients experienced mild to moderate symptoms, including hypotension, dizziness, fatigue and/or palpitations, which resolved within the first 24 hours after treatment initiation (see also sections 4.4 and 5.1).
-
 In multiple sclerosis clinical studies first-degree atrioventricular block (prolonged PR interval on ECG) was detected after treatment initiation in adult and paediatric patients.
 In adult clinical trials it occurred in 4.7% of patients on fingolimod 0.5 mg, in 2.8% of patients on intramuscular interferon beta-1a, and in 1.6% of patients on placebo.
 Second-degree atrioventricular block was detected in less than 0.2% adult patients on fingolimod 0.5 mg.
@@ -130,7 +129,6 @@ Cases of seizures, including status epilepticus, have been reported with the use
 
 Vascular disorders
 Rare cases of peripheral arterial occlusive disease occurred in patients treated with fingolimod at higher doses (1.25 mg).
-
 Respiratory system
 Minor dose-dependent reductions in values for forced expiratory volume (FEV1) and diffusion capacity for carbon monoxide (DLCO) were observed with Gilenya treatment starting at month 1 and remaining stable thereafter.
 At month 24, the reduction from baseline values in percentage of predicted FEV1 was 2.7% for fingolimod 0.5 mg and 1.2% for placebo, a difference that resolved after treatment discontinuation.
@@ -140,6 +138,7 @@ Lymphomas
 There have been cases of lymphoma of different varieties, in both clinical studies and the post-marketing setting, including a fatal case of Epstein-Barr virus (EBV) positive B-cell lymphoma.
 The incidence of non-Hodgkin’s lymphoma (B-cell and T-cell) cases was higher in clinical trials than expected in the general population.
 Some T-cell lymphoma cases were also reported in the post-marketing setting, including cases of cutaneous T-cell lymphoma (mycosis fungoides) (see also section 4.4, Malignancies).
+
 Haemophagocytic syndrome
 Very rare cases of haemophagocytic syndrome (HPS) with fatal outcome have been reported in patients treated with fingolimod in the context of an infection.
 HPS is a rare condition that has been described in association with infections, immunosuppression and a variety of autoimmune diseases.

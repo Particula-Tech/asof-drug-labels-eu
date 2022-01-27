@@ -13,6 +13,7 @@ Steady-state-blood concentrations are reached within 1 to 2 months following onc
 Food intake does not alter Cmax or exposure (AUC) of fingolimod.
 Fingolimod phosphate Cmax was slightly decreased by 34% but AUC was unchanged.
 Therefore, Gilenya may be taken without regard to meals (see section 4.2).
+
 Distribution
 
 Fingolimod highly distributes in red blood cells, with the fraction in blood cells of 86%.
@@ -34,20 +35,20 @@ Following single oral administration of [14C] fingolimod, the major fingolimod-r
 
 Elimination
 
-Fingolimod blood clearance is 6.3±2.3 l/h, and the average apparent terminal half-life (t1/2) is 6-9 days.
+Fingolimod blood clearance is 6.3±2.3 l/h, and the average apparent terminal elimination half-life (t1/2) is 6-9 days.
 Blood levels of fingolimod and fingolimod phosphate decline in parallel in the terminal phase, leading to similar half-lives for both.
 
 After oral administration, about 81% of the dose is slowly excreted in the urine as inactive metabolites.
 Fingolimod and fingolimod phosphate are not excreted intact in urine but are the major components in the faeces, with amounts representing less than 2.5% of the dose each.
 After 34 days, the recovery of the administered dose is 89%.
-
 Linearity
 
 Fingolimod and fingolimod phosphate concentrations increase in an apparently dose proportional manner after multiple once-daily doses of 0.5 mg or 1.25 mg.
+
 Characteristics in specific groups of patients
 
 Gender, ethnicity and renal impairment
-The pharmacokinetics of fingolimod and fingolimod phosphate do not differ in males and females, in patients of different ethnic origin, or in patients with mild to severe renal impairment.
+The pharmacokinetics of fingolimod and fingolimod-phosphate do not differ in males and females, in patients of different ethnic origin, or in patients with mild to severe renal impairment.
 
 Hepatic impairment
 In subjects with mild, moderate, or severe hepatic impairment (Child-Pugh class A, B, and C), no change in fingolimod Cmax was observed, but fingolimod AUC was increased respectively by 12%, 44%, and 103%.

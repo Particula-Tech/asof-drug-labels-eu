@@ -112,7 +112,7 @@ Cases of asymptomatic PML based on MRI findings and positive JCV DNA in the cere
 If PML is suspected, MRI should be performed immediately for diagnostic purposes and treatment with fingolimod should be suspended until PML has been excluded.
 
 Human papilloma virus infection
-Human papilloma virus (HPV) infection, including papilloma, dysplasia, warts and HPV-related cancer, has been reported under treatment with fingolimod in the post-marketing setting.
+Human papilloma virus (HPV) infection, including papilloma, dysplasia, warts and HPV-related cancer, has been reported under treatment with fingolimod in the post-marketing setting (see section 4.8).
 Due to the immunosuppressive properties of fingolimod, vaccination against HPV should be considered prior to treatment initiation with fingolimod taking into account vaccination recommendations.
 Cancer screening, including Pap test, is recommended as per standard of care.
 
@@ -180,14 +180,14 @@ If PRES is suspected, Gilenya should be discontinued.
 Prior treatment with immunosuppressive or immunomodulatory therapies
 
 There have been no studies performed to evaluate the efficacy and safety of fingolimod when switching patients from teriflunomide, dimethyl fumarate or alemtuzumab treatment to Gilenya.
-When switching patients from another disease modifying therapy to Gilenya, the half-life and mode of action of the other therapy must be considered in order to avoid an additive immune effect whilst at the same time minimising the risk of disease reactivation.
+When switching patients from another disease modifying therapy to Gilenya, the elimination half-life and mode of action of the other therapy must be considered in order to avoid an additive immune effect whilst at the same time minimising the risk of disease reactivation.
 A CBC is recommended prior to initiating Gilenya to ensure that immune effects of the previous therapy (i.e. cytopenia) have resolved.
 
 Gilenya can generally be started immediately after discontinuation of interferon or glatiramer acetate.
 
 For dimethyl fumarate, the washout period should be sufficient for CBC to recover before treatment with Gilenya is started.
 
-Due to the long half-life of natalizumab, elimination usually takes up to 2-3 months following discontinuation.
+Due to the long elimination half-life of natalizumab, elimination usually takes up to 2-3 months following discontinuation.
 Teriflunomide is also eliminated slowly from the plasma.
 Without an accelerated elimination procedure, clearance of teriflunomide from plasma can take from several months up to 2 years.
 An accelerated elimination procedure as defined in the teriflunomide summary of product characteristics is recommended or alternatively washout period should not be shorter than 3.5 months.
