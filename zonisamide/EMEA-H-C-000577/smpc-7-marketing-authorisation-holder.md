@@ -1,6 +1,7 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Eisai GmbH
-Edmund-Rumpler-Straße 3
-60549 Frankfurt am Main
-Germany
+Amdipharm Limited
+3 Burlington Road,
+Dublin 4,
+D04 RD68,
+Ireland

@@ -36,7 +36,8 @@ Efficacy results for Monotherapy Study 310
 | --- | --- | --- | --- | --- |
 | n (ITT population) Six months seizure freedom | 281 | 300 | Diff | CI95% |
 | PP-population* | 79.4% | 83.7% | -4.5% | -12.2% ; 3.1% |
-| ITT-population < 4 seizures during 3 month baseline period > 4 seizures during 3 month baseline period | 69.4% 71.7% 52.9% | 74.7% 75.7% 68.9% | -6.1% -4.0% -15.9% | -13.6% ; 1.4% -11.7% ; 3.7% -37.5% ; 5.6% |
+| ITT-population < 4 seizures during 3 month baseline period > 4 seizures during 3 month baseline period | 69.4% 71.7% | 74.7% 75.7% | -6.1% -4.0% | -13.6% ; 1.4% -11.7% ; 3.7% |
+|  | 52.9% | 68.9% | -15.9% | -37.5% ; 5.6% |
 | Twelve months seizure freedom |  |  |  |  |
 | PP-population | 67.6% | 74.7% | -7.9% | - 17.2% ; 1.5% |
 | ITT-population < 4 seizures during 3 month baseline period > 4 seizures during 3 month baseline period | 55.9% 57.4% | 62.3% 64.7% | -7.7% -7.2% | - 16.1% ; 0.7% -15.7% ; 1.3% |
