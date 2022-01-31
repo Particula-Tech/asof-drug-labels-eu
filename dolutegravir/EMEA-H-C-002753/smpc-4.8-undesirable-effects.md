@@ -18,7 +18,6 @@ Table 4 Adverse Reactions
 |  | Common | Abnormal dreams |
 |  | Common | Depression |
 |  | Common | Anxiety |
-|  | Uncommon | Panic attack |
 |  | Uncommon | Suicidal ideation*, suicide attempt* *particularly in patients with a pre-existing history of depression or psychiatric illness. |
 | Nervous system disorders | Very common | Headache |
 |  | Common | Dizziness |
@@ -54,7 +53,6 @@ Co-infection with Hepatitis B or C
 In Phase III studies patients with hepatitis B and/or C co-infection were permitted to enrol provided that baseline liver chemistry tests did not exceed 5 times the upper limit of normal (ULN).
 Overall, the safety profile in patients co-infected with hepatitis B and/or C was similar to that observed in patients without hepatitis B or C co-infection, although the rates of AST and ALT abnormalities were higher in the subgroup with hepatitis B and/or C co-infection for all treatment groups.
 Liver chemistry elevations consistent with immune reconstitution syndrome were observed in some subjects with hepatitis B and/or C co-infection at the start of dolutegravir therapy, particularly in those whose anti-hepatitis B therapy was withdrawn (see section 4.4).
-
 Immune reactivation syndrome
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
 Autoimmune disorders (such as Graves’ disease and autoimmune hepatitis) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).

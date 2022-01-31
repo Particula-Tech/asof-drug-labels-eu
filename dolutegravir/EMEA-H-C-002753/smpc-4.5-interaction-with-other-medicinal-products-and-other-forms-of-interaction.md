@@ -40,7 +40,8 @@ Table 3: Drug Interactions
 | Lopinavir/ritonavir + etravirine | Dolutegravir ↔ AUC ↑ 11% Cmax ↑ 7% Cτ ↑ 28% LPV ↔ RTV ↔ | No dose adjustment is necessary. |
 | Darunavir/ritonavir + etravirine | Dolutegravir ↓ AUC ↓ 25% Cmax ↓ 12% Cτ ↓ 36% DRV ↔ RTV ↔ | No dose adjustment is necessary. |
 | Efavirenz | Dolutegravir ↓ AUC ↓ 57% Cmax ↓ 39% Cτ ↓ 75% Efavirenz ↔ (historical controls) (induction of UGT1A1 and CYP3A enzymes) | The recommended adult dose of dolutegravir is 50 mg twice daily when co-administered with efavirenz. In paediatric patients the weight-based once daily dose should be administered twice daily. In the presence of integrase class resistance alternative combinations that do not include efavirenz should be considered (see section 4.4). |
-| Nevirapine | Dolutegravir ↓ (Not studied, a similar reduction in exposure as observed with efavirenz is expected, due to induction) | The recommended adult dose of dolutegravir is 50 mg twice daily when co-administered with nevirapine. In paediatric patients the weight-based once daily dose should be administered twice daily. In the presence of integrase class resistance alternative combinations that do not include nevirapine should be considered (see section 4.4). |
+| Nevirapine | Dolutegravir ↓ (Not studied, a similar reduction in exposure as observed with efavirenz is expected, due to induction) | The recommended adult dose of dolutegravir is 50 mg twice daily when co-administered with nevirapine. In paediatric patients the weight-based once daily dose should be administered twice daily. |
+|  |  | In the presence of integrase class resistance alternative combinations that do not include nevirapine should be considered (see section 4.4). |
 | Rilpivirine | Dolutegravir ↔ AUC ↑ 12% Cmax ↑ 13% Cτ ↑ 22% Rilpivirine ↔ | No dose adjustment is necessary. |
 | Nucleoside Reverse Transcriptase Inhibitors |  |  |
 | Tenofovir | Dolutegravir ↔ AUC ↑ 1% Cmax ↓ 3% Cτ ↓ 8% Tenofovir ↔ | No dose adjustment is necessary. |
@@ -50,7 +51,8 @@ Table 3: Drug Interactions
 | Tipranavir/ritonavir (TPV+RTV) | Dolutegravir ↓ AUC ↓ 59% Cmax ↓ 47% Cτ ↓ 76% (induction of UGT1A1 and CYP3A enzymes) | The recommended adult dose of dolutegravir is 50 mg twice daily when co-administered with tipranavir/ritonavir. In paediatric patients the weight-based once daily dose should be administered twice daily. In the presence of integrase class resistance this combination should be avoided (see section 4.4). |
 | Fosamprenavir/ ritonavir (FPV+RTV) | Dolutegravir ↓ AUC ↓ 35% Cmax ↓ 24% Cτ ↓ 49% (induction of UGT1A1 and CYP3A enzymes) | No dose adjustment is necessary in the absence of integrase class resistance. In the presence of integrase class resistance alternative combinations that do not include fosamprenavir/ritonavir should be considered. |
 | Darunavir/ritonavir | Dolutegravir ↓ AUC ↓ 22% Cmax ↓ 11% C24 ↓ 38% (induction of UGT1A1 and CYP3A enzymes) | No dose adjustment is necessary. |
-| Lopinavir/ritonavir | Dolutegravir ↔ AUC ↓ 4% Cmax ↔ 0% C24 ↓ 6% | No dose adjustment is necessary. |
+| Lopinavir/ritonavir | Dolutegravir ↔ AUC ↓ 4% Cmax ↔ 0% | No dose adjustment is necessary. |
+|  | C24 ↓ 6% |  |
 | Other Antiviral agents |  |  |
 | Daclatasvir | Dolutegravir ↔ AUC ↑ 33% Cmax ↑ 29% Cτ ↑ 45% Daclatasvir ↔ | Daclatasvir did not change dolutegravir plasma concentration to a clinically relevant extent. Dolutegravir did not change daclatasvir plasma concentration. No dose adjustment is necessary. |
 | Other agents |  |  |
@@ -65,7 +67,8 @@ Table 3: Drug Interactions
 | St. John’s wort | Dolutegravir ↓ (Not studied, decrease expected due to induction of UGT1A1 and CYP3A enzymes, a similar reduction in exposure as observed with carbamazepine is expected) | The recommended adult dose of dolutegravir is 50 mg twice daily when co-administered with St. John’s wort. In paediatric patients the weight-based once daily dose should be administered twice daily. Alternative combinations that do not include St. John’s wort should be used where possible in INI-resistant patients. |
 | Antacids and supplements |  |  |
 | Magnesium/ aluminium-containing antacid | Dolutegravir ↓ AUC ↓ 74% Cmax ↓ 72% (Complex binding to polyvalent ions) | Magnesium/ aluminium-containing antacid should be taken well separated in time from the administration of dolutegravir (minimum 2 hours after or 6 hours before). |
-| Calcium supplements | Dolutegravir ↓ AUC ↓ 39% Cmax ↓ 37% C24 ↓ 39% (Complex binding to polyvalent ions) | Calcium supplements, iron supplements or multivitamins should be taken well separated in time from the administration of dolutegravir (minimum 2 hours after or 6 hours before). |
+| Calcium supplements | Dolutegravir ↓ AUC ↓ 39% Cmax ↓ 37% C24 ↓ 39% | Calcium supplements, iron supplements or multivitamins should be taken well separated in time from the administration of dolutegravir (minimum 2 hours after or 6 hours before). |
+|  | (Complex binding to polyvalent ions) |  |
 | Iron supplements | Dolutegravir ↓ AUC ↓ 54% Cmax ↓ 57% C24 ↓ 56% (Complex binding to polyvalent ions) |  |
 | Multivitamin | Dolutegravir ↓ AUC ↓ 33% Cmax ↓ 35% C24 ↓ 32% (Complex binding to polyvalent ions) |  |
 | Corticosteroids |  |  |
@@ -76,8 +79,8 @@ Table 3: Drug Interactions
 | Rifampicin | Dolutegravir ↓ AUC ↓ 54% Cmax ↓ 43% Cτ ↓72% (induction of UGT1A1 and CYP3A enzymes) | The recommended adult dose of dolutegravir is 50 mg twice daily when co-administered with rifampicin in the absence of integrase class resistance. In paediatric patients the weight-based once daily dose should be administered twice daily. In the presence of integrase class resistance this combination should be avoided (see section 4.4). |
 | Rifabutin | Dolutegravir ↔ AUC ↓ 5% Cmax ↑ 16% Cτ ↓ 30% (induction of UGT1A1 and CYP3A enzymes) | No dose adjustment is necessary. |
 | Oral contraceptives |  |  |
-| Ethinyl estradiol (EE) and Norelgestromin (NGMN) | Dolutegravir ↔ EE ↔ AUC ↑ 3% Cmax ↓ 1% NGMN ↔ AUC ↓ 2% | Dolutegravir had no pharmacodynamic effect on Luteinizing Hormone (LH), Follicle Stimulating Hormone (FSH) and progesterone. No dose adjustment of oral contraceptives is necessary when co-administered with dolutegravir. |
-|  | Cmax ↓ 11% |  |
+| Ethinyl estradiol (EE) and Norelgestromin (NGMN) | Dolutegravir ↔ EE ↔ AUC ↑ 3% Cmax ↓ 1% | Dolutegravir had no pharmacodynamic effect on Luteinizing Hormone (LH), Follicle Stimulating Hormone (FSH) and progesterone. No dose adjustment of oral contraceptives is necessary when co-administered with dolutegravir. |
+|  | NGMN ↔ AUC ↓ 2% Cmax ↓ 11% |  |
 | Analgesics |  |  |
 | Methadone | Dolutegravir ↔ Methadone ↔ AUC ↓ 2% Cmax ↔ 0% Cτ ↓ 1% | No dose adjustment is necessary of either agent. |
 
@@ -95,7 +98,8 @@ Interaction studies have only been performed in adults.
 | Lopinavir/ritonavir + etravirine | Dolutegravir ↔ AUC ↑ 11% Cmax ↑ 7% Cτ ↑ 28% LPV ↔ RTV ↔ | No dose adjustment is necessary. |
 | Darunavir/ritonavir + etravirine | Dolutegravir ↓ AUC ↓ 25% Cmax ↓ 12% Cτ ↓ 36% DRV ↔ RTV ↔ | No dose adjustment is necessary. |
 | Efavirenz | Dolutegravir ↓ AUC ↓ 57% Cmax ↓ 39% Cτ ↓ 75% Efavirenz ↔ (historical controls) (induction of UGT1A1 and CYP3A enzymes) | The recommended adult dose of dolutegravir should be given twice daily when co-administered with efavirenz. In paediatric patients the weight-based once daily dose should be administered twice daily. In the presence of integrase class resistance alternative combinations that do not include efavirenz should be considered (see section 4.4). |
-| Nevirapine | Dolutegravir ↓ (Not studied, a similar reduction in exposure as observed with efavirenz is expected, due to induction) | The recommended adult dose of dolutegravir should be given twice daily when co-administered with nevirapine. In paediatric patients the weight-based once daily dose should be administered twice daily. In the presence of integrase class resistance alternative combinations that do not include nevirapine should be considered (see section 4.4). |
+| Nevirapine | Dolutegravir ↓ (Not studied, a similar reduction in exposure as observed with efavirenz is expected, due to induction) | The recommended adult dose of dolutegravir should be given twice daily when co-administered with nevirapine. In paediatric patients the weight-based once daily dose should be administered twice daily. |
+|  |  | In the presence of integrase class resistance alternative combinations that do not include nevirapine should be considered (see section 4.4). |
 | Rilpivirine | Dolutegravir ↔ AUC ↑ 12% Cmax ↑ 13% Cτ ↑ 22% Rilpivirine ↔ | No dose adjustment is necessary. |
 | Nucleoside Reverse Transcriptase Inhibitors |  |  |
 | Tenofovir | Dolutegravir ↔ AUC ↑ 1% Cmax ↓ 3% Cτ ↓ 8% Tenofovir ↔ | No dose adjustment is necessary. |
@@ -105,7 +109,8 @@ Interaction studies have only been performed in adults.
 | Tipranavir/ritonavir (TPV+RTV) | Dolutegravir ↓ AUC ↓ 59% Cmax ↓ 47% Cτ ↓ 76% (induction of UGT1A1 and CYP3A enzymes) | The recommended adult dose of dolutegravir should be given twice daily when co-administered with tipranavir/ritonavir. In paediatric patients the weight-based once daily dose should be administered twice daily. In the presence of integrase class resistance this combination should be avoided (see section 4.4). |
 | Fosamprenavir/ ritonavir (FPV+RTV) | Dolutegravir ↓ AUC ↓ 35% Cmax ↓ 24% Cτ ↓ 49% (induction of UGT1A1 and CYP3A enzymes) | No dose adjustment is necessary in the absence of integrase class resistance. In the presence of integrase class resistance alternative combinations that do not include fosamprenavir/ritonavir should be considered. |
 | Darunavir/ritonavir | Dolutegravir ↓ AUC ↓ 22% Cmax ↓ 11% C24 ↓ 38% (induction of UGT1A1 and CYP3A enzymes) | No dose adjustment is necessary. |
-| Lopinavir/ritonavir | Dolutegravir ↔ AUC ↓ 4% Cmax ↔ 0% C24 ↓ 6% | No dose adjustment is necessary. |
+| Lopinavir/ritonavir | Dolutegravir ↔ AUC ↓ 4% Cmax ↔ 0% | No dose adjustment is necessary. |
+|  | C24 ↓ 6% |  |
 | Other Antiviral agents |  |  |
 | Daclatasvir | Dolutegravir ↔ AUC ↑ 33% Cmax ↑ 29% Cτ ↑ 45% Daclatasvir ↔ | Daclatasvir did not change dolutegravir plasma concentration to a clinically relevant extent. Dolutegravir did not change daclatasvir plasma concentration. No dose adjustment is necessary. |
 | Other agents |  |  |
@@ -120,8 +125,8 @@ Interaction studies have only been performed in adults.
 | St. John’s wort | Dolutegravir ↓ (Not studied, decrease expected due to induction of UGT1A1 and CYP3A enzymes, a similar reduction in exposure as observed with carbamazepine is expected) | The recommended adult dose of dolutegravir should be given twice daily when co-administered with St. John’s wort. In paediatric patients the weight-based once daily dose should be administered twice daily. Alternative combinations that do not include St. John’s wort should be used where possible in INI-resistant patients. |
 | Antacids and supplements |  |  |
 | Magnesium/ aluminium-containing antacid | Dolutegravir ↓ AUC ↓ 74% Cmax ↓ 72% (Complex binding to polyvalent ions) | Magnesium/ aluminium-containing antacid should be taken well separated in time from the administration of dolutegravir (minimum 2 hours after or 6 hours before). |
-| Calcium supplements | Dolutegravir ↓ AUC ↓ 39% Cmax ↓ 37% C24 ↓ 39% | Calcium supplements, iron supplements or multivitamins should be taken well separated in time from the administration of dolutegravir (minimum 2 hours after or 6 hours before). |
-|  | (Complex binding to polyvalent ions) |  |
+| Calcium supplements | Dolutegravir ↓ AUC ↓ 39% | Calcium supplements, iron supplements or multivitamins should be taken well separated in |
+|  | Cmax ↓ 37% C24 ↓ 39% (Complex binding to polyvalent ions) | time from the administration of dolutegravir (minimum 2 hours after or 6 hours before). |
 | Iron supplements | Dolutegravir ↓ AUC ↓ 54% Cmax ↓ 57% C24 ↓ 56% (Complex binding to polyvalent ions) |  |
 | Multivitamin | Dolutegravir ↓ AUC ↓ 33% Cmax ↓ 35% C24 ↓ 32% (Complex binding to polyvalent ions) |  |
 | Corticosteroids |  |  |
@@ -132,7 +137,7 @@ Interaction studies have only been performed in adults.
 | Rifampicin | Dolutegravir ↓ AUC ↓ 54% Cmax ↓ 43% Cτ ↓72% (induction of UGT1A1 and CYP3A enzymes) | The recommended adult dose of dolutegravir should be given twice daily when co-administered with rifampicin in the absence of integrase class resistance. In paediatric patients the weight-based once daily dose should be administered twice daily. In the presence of integrase class resistance this combination should be avoided (see section 4.4). |
 | Rifabutin | Dolutegravir ↔ AUC ↓ 5% Cmax ↑ 16% Cτ ↓ 30% (induction of UGT1A1 and CYP3A enzymes) | No dose adjustment is necessary. |
 | Oral contraceptives |  |  |
-| Ethinyl estradiol (EE) and Norelgestromin (NGMN) | Dolutegravir ↔ EE ↔ AUC ↑ 3% Cmax ↓ 1% NGMN ↔ | Dolutegravir had no pharmacodynamic effect on Luteinizing Hormone (LH), Follicle Stimulating Hormone (FSH) and progesterone. No dose adjustment of oral contraceptives is necessary when co-administered with dolutegravir. |
-|  | AUC ↓ 2% Cmax ↓ 11% |  |
+| Ethinyl estradiol (EE) and Norelgestromin (NGMN) | Dolutegravir ↔ EE ↔ AUC ↑ 3% | Dolutegravir had no pharmacodynamic effect on Luteinizing Hormone (LH), Follicle Stimulating Hormone (FSH) and progesterone. No dose |
+|  | Cmax ↓ 1% NGMN ↔ AUC ↓ 2% Cmax ↓ 11% | adjustment of oral contraceptives is necessary when co-administered with dolutegravir. |
 | Analgesics |  |  |
 | Methadone | Dolutegravir ↔ Methadone ↔ AUC ↓ 2% Cmax ↔ 0% Cτ ↓ 1% | No dose adjustment is necessary of either agent. |

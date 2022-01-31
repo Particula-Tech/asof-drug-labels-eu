@@ -12,6 +12,7 @@ Thus, a 50 mg dolutegravir dose administered as film-coated tablet(s) will have 
 Similarly, a 40 mg dolutegravir dose administered as four 10 mg film-coated tablets will provide comparable exposure to a 25 mg dolutegravir dose administered as five 5 mg dispersible tablets.
 
 Absorption
+
 Dolutegravir is rapidly absorbed following oral administration, with median Tmax at 2 to 3 hours post dose for tablet formulation.
 
 Food increased the extent and slowed the rate of absorption of dolutegravir.
@@ -56,6 +57,7 @@ Elimination
 
 Dolutegravir has a terminal half-life of ~14 hours.
 The apparent oral clearance (CL/F) is approximately 1L/hr in HIV-infected patients based on a population pharmacokinetic analysis.
+
 Linearity/non-linearity
 
 The linearity of dolutegravir pharmacokinetics is dependent on dose and formulation.
@@ -77,8 +79,8 @@ Special patient populations
 
 Children
 The pharmacokinetics of dolutegravir given once daily as film-coated and dispersible tablets in HIV-1 infected infants, children and adolescents aged ≥ 4 weeks to < 18 years were evaluated in two on-going studies (P1093/ING112578 and ODYSSEY/201296).
-Steady state simulated plasma exposure at once daily weight band doses is summarized in Table 11.
-Table 11 Summary of Simulated Dolutegravir PK Parameters at Once Daily Doses by Weight Band in Paediatric HIV-1 Infected Subjects
+Steady state simulated plasma exposure at once daily weight band doses is summarized in Table 12.
+Table 12 Summary of Simulated Dolutegravir PK Parameters at Once Daily Doses by Weight Band in Paediatric HIV-1 Infected Subjects
 
 PK Parameter
 Weight Band (kg) Dolutegravir Dosage Forma Once Daily Dose (mg) Cmax Geometric Mean (90% CI) AUC0-24h C24h
@@ -125,10 +127,10 @@ a. The bioavailability of dolutegravir DT is ~1.6-fold dolutegravir FCT.
 b. <6 months of age
 c. ≥6 months of age
 
-Steady state simulated plasma exposure at alternative twice daily weight band doses are summarized in Table 12.
+Steady state simulated plasma exposure at alternative twice daily weight band doses are summarized in Table 13.
 In contrast to once daily dosing, simulated data for alternative twice daily dosing have not been confirmed in clinical trials.
 
-Table 12 Summary of Simulated Dolutegravir PK Parameters at Alternative Twice Daily Doses by Weight Band in Paediatric HIV-1 Infected Subjects
+Table 13 Summary of Simulated Dolutegravir PK Parameters at Alternative Twice Daily Doses by Weight Band in Paediatric HIV-1 Infected Subjects
 
 PK Parameter
 Weight Band (kg) Dolutegravir Dosage Forma Daily Dose Twice (mg) Cmax Geometric Mean (90% CI) AUC0-12h C12h
@@ -223,4 +225,4 @@ In a randomized, dose-ranging trial, HIV-1–infected subjects treated with dolu
 
 The pharmacokinetics of dolutegravir given once daily as dispersible and film-coated tablets in HIV-1 infected infants, children and adolescents aged ≥ 4 weeks to < 18 years were evaluated in two on-going studies (P1093/ING112578 and ODYSSEY/201296).
 
-Steady state simulated plasma exposure at alternative twice daily weight band doses is summarized in Table 12.
+Steady state simulated plasma exposure at alternative twice daily weight band doses is summarized in Table 13.

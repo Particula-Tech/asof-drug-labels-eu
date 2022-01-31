@@ -18,7 +18,7 @@ Iron oxide yellow (E172) (for 25 mg and 50 mg tablets)
 
 [Tivicay 5 mg dispersible tablets]
 
-Silicified microcrystalline cellulose
+Colloidal silicon dioxide and microcrystalline cellulose
 Crospovidone
 Calcium sulfate dihydrate
 Sucralose
