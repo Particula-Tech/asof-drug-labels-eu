@@ -412,7 +412,8 @@ Advanced and/or metastatic renal cell cancer (mRCC)
 Avastin in combination with interferon alfa-2a for the first-line treatment of advanced and/ or metastatic renal cell cancer (BO17705)
 
 This was a phase III randomised double-blind trial conducted to evaluate the efficacy and safety of Avastin in combination with interferon (IFN) alfa-2a versus IFN alfa-2a alone as first-line treatment in mRCC.
-The 649 randomised patients (641 treated) had Karnofsky Performance Status (KPS) of ≥ 70%, no CNS metastases and adequate organ function.
+The 649 randomised patients (641 treated) had Karnofsky Performance Status (KPS) of
+≥ 70%, no CNS metastases and adequate organ function.
 Patients were nephrectomised for primary renal cell carcinoma.
 Avastin 10 mg/kg was given every 2 weeks until disease progression.
 IFN alfa-2a was given up to 52 weeks or until disease progression at a recommended starting dose of 9 MIU three times a week, allowing a dose reduction to 3 MIU three times a week in 2 steps.
@@ -484,7 +485,7 @@ The majority of patients included in the study were White (87% in all three arms
 Overall approximately 50% of patients had a GOG PS of 0 at baseline, 43% a GOG PS score of 1, and 7% a GOG PS score of 2.
 Most patients had EOC (82% in CPP and CPB15, 85% in CPB15+) followed by PPC (16% in CPP, 15% in CPB15, 13% in CPB15+) and FTC (1% in CPP, 3% in CPB15, 2% in CPB15+).
 The majority of patients had serous adenocarcinoma histologic type (85% in CPP and CPB15, 86% in CPB15+).
-Overall approximately 34% of patients were FIGO Stage III optimally debulked with gross residual disease, 40% Stage III suboptimally debulked, and 26% were Stage IV patients.
+Overall approximately 34% of patients were FIGO Stage III optimally debulked with gross residual disease, 40% Stage III sub-optimally debulked, and 26% were Stage IV patients.
 The primary endpoint was PFS based on investigator’s assessment of disease progression based on radiological scans or CA 125 levels, or symptomatic deterioration per protocol.
 In addition, a prespecified analysis of the data censoring for CA-125 progression events was conducted, as well as an independent review of PFS as determined by radiological scans.
 
@@ -873,7 +874,6 @@ Of the 452 patients randomized at baseline, the majority of patients were white 
 The primary efficacy endpoint was overall survival.
 Secondary efficacy endpoints included progression-free survival and objective response rate.
 Results from the primary analysis and the follow-up analysis are presented by Avastin Treatment and by Trial Treatment in Table 25 and Table 26, respectively.
-
 Table 25 Efficacy results from study GOG-0240 by Avastin Treatment
 
 |  | Chemotherapy (n=225) | Chemotherapy + Avastin (n=227) |
@@ -906,17 +906,20 @@ Table 25 Efficacy results from study GOG-0240 by Avastin Treatment
 8 p-value displayed for descriptive purpose only
 Table 26 Overall survival results from study GOG-0240 by Trial Treatment
 
-Treatment Overall survival – Primary analysis1 Overall survival - Follow-up analysis2
-Comparison Other Factor Hazard Ratio (95% CI) Hazard Ratio (95% CI)
-Avastin vs. Cisplatin+ 0.72 (0.51, 1.02) 0.75 (0.55, 1.01)
-No Avastin Paclitaxel (17.5 vs.14.3 months; p = 0.0609) (17.5 vs.15.0 months; p = 0.0584)
-Topotecan+ 0.76 (0.55, 1.06) 0.79 (0.59, 1.07)
-Paclitaxel (14.9 vs. 11.9 months; p = 0.1061) (16.2 vs. 12.0 months; p = 0.1342)
-Topotecan+ Avastin 1.15 (0.82, 1.61) 1.15 (0.85, 1.56)
-Paclitaxel vs. (14.9 vs. 17.5 months; p = 0.4146) (16.2 vs 17.5 months; p = 0.3769)
-Cisplatin+
-Paclitaxel No Avastin 1.13 (0.81, 1.57) 1.08 (0.80, 1.45)
-(11.9 vs.14.3 months; p = 0.4825) (12.0 vs 15.0 months; p = 0.6267)
+|  | Other Factor |  | Overall survival - Follow-up |
+| --- | --- | --- | --- |
+| Treatment |  | Overall survival – Primary analysis1 | analysis2 |
+| Comparison |  | Hazard Ratio (95% CI) | Hazard Ratio (95% CI) |
+| Avastin vs. | Cisplatin+ Paclitaxel | 0.72 (0.51, 1.02) | 0.75 (0.55, 1.01) |
+| No Avastin |  | (17.5 vs.14.3 months; p = 0.0609) | (17.5 vs.15.0 months; p = 0.0584) |
+|  | Topotecan+ Paclitaxel | 0.76 (0.55, 1.06) | 0.79 (0.59, 1.07) |
+|  |  | (14.9 vs. 11.9 months; p = 0.1061) | (16.2 vs. 12.0 months; p = 0.1342) |
+| Topotecan+ | Avastin | 1.15 (0.82, 1.61) | 1.15 (0.85, 1.56) |
+| Paclitaxel |  | (14.9 vs. 17.5 months; p = 0.4146) | (16.2 vs 17.5 months; p = 0.3769) |
+| vs. |  |  |  |
+|  | No Avastin | 1.13 (0.81, 1.57) | 1.08 (0.80, 1.45) |
+| Cisplatin+ |  |  |  |
+| Paclitaxel |  | (11.9 vs.14.3 months; p = 0.4825) | (12.0 vs 15.0 months; p = 0.6267) |
 
 1 Primary analysis was performed with a data cut-off date of 12 December 2012 and is considered the final analysis
 2 Follow-up analysis was performed with a data cut-off date of 07 March 2014; all p-values are displayed for descriptive purpose only
@@ -945,8 +948,7 @@ Soft tissue sarcoma
 In a randomized phase II study (BO20924) a total of 154 patients aged ≥ 6 months to <18 years with newly diagnosed metastatic rhabdomyosarcoma and non-rhabdomyosarcoma soft tissue sarcoma were treated with standard of care (Induction IVADO/IVA+/- local therapy followed by Maintenance Vinorelbine and cyclophosphamide) with or without bevacizumab (2.5 mg/kg/week) for a total duration of treatment of approximately 18 months.
 At the time of the final primary analysis, the primary endpoint of EFS by independent central review did not show a statistically significant difference between the two treatment arms, with HR of 0.93 (95% CI: 0.61, 1.41; p-value = 0.72).
 The difference in ORR per independent central review was 18% (CI: 0.6%, 35.3%) between the two treatment arms in the few patients who had evaluable tumor at baseline and had a confirmed response prior to receiving any local therapy : 27/75 patients (36.0%, 95% CI: 25.2%, 47.9%) in the Chemo arm and 34/63 patients (54.0%, 95% CI: 40.9%, 66.6%) in the Bv + Chemo arm.
-The secondary endpoint of Overall Survival (OS) was not mature .
-Until mature OS results and safety data are available no definitive conclusion can be drawn on the benefit/risk balance.
+The final Overall Survival (OS) analyses showed no significant clinical benefit from addition of bevacizumab to chemotherapy in this patient population.
 
 Addition of Avastin to standard of care did not demonstrate clinical benefit in clinical trial BO20924, in 71 evaluable children (from age 6 months to less than 18 years old) patients with metastatic Rhabdomyosarcoma and non-Rhabdomyosarcoma Soft Tissue Sarcoma.
 (See section 4.2 for information on paediatric use).

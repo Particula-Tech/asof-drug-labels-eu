@@ -1,18 +1,18 @@
 # 4.4 Special warnings and precautions for use
 
 Traceability
-In order to improve the traceability of biological medicinal products, the trade name and the batch number of the administered product should be clearly recorded (or stated) in the patient file.
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
 Gastrointestinal (GI) perforations and Fistulae (see section 4.8)
 Patients may be at an increased risk for the development of gastrointestinal perforation and gall bladder perforation when treated with Avastin.
 Intra-abdominal inflammatory process may be a risk factor for gastrointestinal perforations in patients with metastatic carcinoma of the colon or rectum, therefore, caution should be exercised when treating these patients.
 Prior radiation is a risk factor for GI perforation in patients treated for persistent, recurrent or metastatic cervical cancer with Avastin and all patients with GI perforation had a history of prior radiation.
 Therapy should be permanently discontinued in patients who develop gastrointestinal perforation.
-
 GI-vaginal Fistulae in study GOG-0240
 Patients treated for persistent, recurrent, or metastatic cervical cancer with Avastin are at increased risk of fistulae between the vagina and any part of the GI tract (Gastrointestinal-vaginal fistulae).
 Prior radiation is a major risk factor for the development of GI-vaginal fistulae and all patients with GI-vaginal fistulae had a history of prior radiation.
 Recurrence of cancer within the field of prior radiation is an additional important risk factor for the development of GI-vaginal fistulae.
+
 Non-GI Fistulae (see section 4.8)
 Patients may be at increased risk for the development of fistulae when treated with Avastin.
 Permanently discontinue Avastin in patients with tracheoesophageal (TE) fistula or any Grade 4 fistula [US National Cancer Institute-Common Terminology Criteria for Adverse Events (NCI-CTCAE v.3)].
@@ -87,11 +87,11 @@ Patients with recent pulmonary haemorrhage/ haemoptysis (> 2.5 ml of red blood) 
 Aneurysms and artery dissections
 The use of VEGF pathway inhibitors in patients with or without hypertension may promote the formation of aneurysms and/or artery dissections.
 Before initiating Avastin, this risk should be carefully considered in patients with risk factors such as hypertension or history of aneurysm.
-
 Congestive heart failure (CHF) (see section 4.8)
 Reactions consistent with CHF were reported in clinical trials.
 The findings ranged from asymptomatic declines in left ventricular ejection fraction to symptomatic CHF, requiring treatment or hospitalisation.
 Caution should be exercised when treating patients with clinically significant cardiovascular disease such as pre-existing coronary artery disease, or congestive heart failure with Avastin.
+
 Most of the patients who experienced CHF had metastatic breast cancer and had received previous treatment with anthracyclines, prior radiotherapy to the left chest wall or other risk factors for CHF were present.
 
 In patients in AVF3694g who received treatment with anthracyclines and who had not received anthracyclines before, no increased incidence of all Grade CHF was observed in the anthracycline + bevacizumab group compared to the treatment with anthracyclines only.
@@ -122,7 +122,6 @@ Eye disorders
 Individual cases and clusters of serious ocular adverse reactions have been reported following unapproved intravitreal use of Avastin compounded from vials approved for intravenous administration in cancer patients.
 These reactions included infectious endophthalmitis, intraocular inflammation such as sterile endophthalmitis, uveitis and vitritis, retinal detachment, retinal pigment epithelial tear, intraocular pressure increased, intraocular haemorrhage such as vitreous haemorrhage or retinal haemorrhage and conjunctival haemorrhage.
 Some of these reactions have resulted in various degrees of visual loss, including permanent blindness.
-
 Systemic effects following intravitreal use
 A reduction of circulating VEGF concentration has been demonstrated following intravitreal anti-VEGF therapy.
 Systemic adverse reactions including non-ocular haemorrhages and arterial thromboembolic reactions have been reported following intravitreal injection of VEGF inhibitors.
@@ -130,3 +129,6 @@ Systemic adverse reactions including non-ocular haemorrhages and arterial thromb
 Ovarian failure/fertility
 Avastin may impair female fertility (see sections 4.6 and 4.8).
 Therefore fertility preservation strategies should be discussed with women of child-bearing potential prior to starting treatment with Avastin.
+
+Important information about some of the ingredients of Avastin
+This medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially ‘sodium-free’.

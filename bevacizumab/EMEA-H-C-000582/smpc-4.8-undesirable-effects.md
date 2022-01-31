@@ -11,7 +11,6 @@ The most serious adverse reactions were:
 - Arterial thromboembolism (see section 4.4).
 
 The most frequently observed adverse reactions across clinical trials in patients receiving Avastin were hypertension, fatigue or asthenia, diarrhoea and abdominal pain.
-
 Analyses of the clinical safety data suggest that the occurrence of hypertension and proteinuria with Avastin therapy are likely to be dose-dependent.
 
 Tabulated list of adverse reactions
@@ -19,6 +18,7 @@ Tabulated list of adverse reactions
 The adverse reactions listed in this section fall into the following frequency categories: Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 
 Tables 1 and 2 list adverse reactions associated with the use of Avastin in combination with different chemotherapy regimens in multiple indications, by MedDRA system organ class.
+
 Table 1 provides all adverse reactions by frequency that were determined to have a causal relationship with Avastin through:
 
 - comparative incidences noted between clinical trial treatment arms (with at least a 10% difference compared to the control arm for NCI-CTCAE Grade 1-5 reactions or at least a 2% difference compared to the control arm for NCI-CTCAE Grade 3-5 reactions,
@@ -66,9 +66,11 @@ When events were noted as both all grade and grade 3-5 adverse drug reactions in
 Data are unadjusted for the differential time on treatment.
 
 a For further information please refer to Table 3 'Adverse reactions reported in post-marketing setting.'
-b Terms represent a group of events that describe a medical concept rather than a single condition or MedDRA (Medical Dictionary for Regulatory Activities) preferred term.
+b Terms represent a group of events that describe a medical concept rather than a single condition or
+MedDRA (Medical Dictionary for Regulatory Activities) preferred term.
 This group of medical terms may involve the same underlying pathophysiology (e.g. arterial thromboembolic reactions include cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic reactions).
-c Based on a substudy from NSABP C-08 with 295 patients d For additional information refer below within section "Further information on selected serious adverse reactions." e Recto-vaginal fistulae are the most common fistulae in the GI-vaginal fistula category.
+c Based on a substudy from NSABP C-08 with 295 patients d For additional information refer below within section "Further information on selected serious adverse reactions."
+e Recto-vaginal fistulae are the most common fistulae in the GI-vaginal fistula category.
 f Observed in pediatric population only
 Table 2: Severe Adverse Reactions by Frequency
 
@@ -76,7 +78,7 @@ Table 2: Severe Adverse Reactions by Frequency
 | --- | --- | --- | --- | --- | --- | --- |
 | Infections and infestations |  | Sepsis, Cellulitis, Abscessa,b, Infection, Urinary tract infection |  |  |  | Necrotising fasciitisc |
 | Blood and lymphatic system disorders | Febrile neutropenia, Leucopenia, Neutropeniaa, Thrombo-cytopenia | Anaemia, Lymphopenia |  |  |  |  |
-| Immune system disorders |  |  |  |  |  | Hypersensitivity, infusiona ,br,ec actions |
+| Immune system disorders |  |  |  |  |  | Hypersensitivity, infusiona, br,ec actions |
 | Metabolism and nutrition disorders |  | Dehydration Hyponatraemia |  |  |  |  |
 | Nervous system disorders | Peripheral sensory neuropathya | Cerebrovascular accident, Syncope, Somnolence, Headache |  |  |  | Posterior reversible encephalo-pathy syndrome a,b,c, Hypertensive encephalo-pathyc |
 | Cardiac disorders |  | Congestive heart failurea,b, Supraventricular tachycardia |  |  |  |  |

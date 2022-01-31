@@ -1,5 +1,7 @@
 # 4.2 Posology and method of administration
 
+Do not shake the vial.
+
 Avastin must be administered under the supervision of a physician experienced in the use of antineoplastic medicinal products.
 
 Posology
@@ -22,7 +24,6 @@ Avastin is administered in addition to platinum-based chemotherapy for up to 6 c
 The recommended dose of Avastin is 7.5 mg/kg or 15 mg/kg of body weight given once every 3 weeks as an intravenous infusion.
 Clinical benefit in NSCLC patients has been demonstrated with both 7.5 mg/kg and 15 mg/kg doses (see section 5.1).
 It is recommended that treatment be continued until progression of the underlying disease or until unacceptable toxicity.
-
 First-line treatment of non-squamous NSCLC with EGFR activating mutations in combination with erlotinib
 
 EGFR mutation testing should be performed prior to initiation of treatment with the combination of Avastin and erlotinib.
@@ -57,12 +58,12 @@ Avastin is administered in combination with one of the following chemotherapy re
 The recommended dose of Avastin is 15 mg/kg of body weight given once every 3 weeks as an intravenous infusion.
 
 It is recommended that treatment be continued until progression of the underlying disease or until unacceptable toxicity (see section 5.1).
-
 Special populations
 
 Elderly patients: No dose adjustment is required in the patients ≥ 65 years of age.
 
 Patients with renal impairment: The safety and efficacy have not been studied in patients with renal impairment (see section 5.2).
+
 Patients with hepatic impairment: The safety and efficacy have not been studied in patients with hepatic impairment (see section 5.2).
 
 Paediatric population
