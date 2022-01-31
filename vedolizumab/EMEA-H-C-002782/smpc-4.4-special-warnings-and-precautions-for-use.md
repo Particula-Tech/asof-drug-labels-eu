@@ -13,7 +13,6 @@ In order to improve the traceability of biological medicinal products, the name 
 Infusion-related reactions and hypersensitivity reactions
 
 In clinical studies, infusion-related reactions (IRR) and hypersensitivity reactions have been reported, with the majority being mild to moderate in severity (see section 4.8).
-
 If a severe IRR, anaphylactic reaction, or other severe reaction occurs, administration of Entyvio must be discontinued immediately and appropriate treatment initiated (e.g., epinephrine and antihistamines) (see section 4.3).
 
 If a mild to moderate IRR occurs, the infusion rate can be slowed or interrupted and appropriate treatment initiated.
@@ -28,6 +27,7 @@ Physicians should be aware of the potential increased risk of opportunistic infe
 Vedolizumab treatment is not to be initiated in patients with active, severe infections until the infections are controlled, and physicians should consider withholding treatment in patients who develop a severe infection while on chronic treatment with vedolizumab.
 Caution should be exercised when considering the use of vedolizumab in patients with a controlled chronic severe infection or a history of recurring severe infections.
 Patients should be monitored closely for infections before, during and after treatment.
+
 Vedolizumab is contraindicated in patients with active tuberculosis (see section 4.3).
 Before starting treatment with vedolizumab, patients must be screened for tuberculosis according to the local practice.
 If latent tuberculosis is diagnosed, appropriate treatment must be started with anti-tuberculosis treatment in accordance with local recommendations, before beginning vedolizumab.
@@ -52,7 +52,6 @@ No vedolizumab clinical trial data are available for patients previously treated
 Caution should be exercised when considering the use of vedolizumab in these patients.
 
 Patients previously exposed to natalizumab should normally wait a minimum of 12 weeks prior to initiating therapy with vedolizumab, unless otherwise indicated by the patient’s clinical condition.
-
 No clinical trial data for concomitant use of vedolizumab with biologic immunosuppressants are available.
 Therefore, the use of vedolizumab in such patients is not recommended.
 

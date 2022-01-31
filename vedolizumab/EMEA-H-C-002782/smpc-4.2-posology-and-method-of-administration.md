@@ -1,8 +1,7 @@
 # 4.2 Posology and method of administration
 
-Treatment should be initiated and supervised by specialist healthcare professionals experienced in the diagnosis and treatment of ulcerative colitis or Crohn’s disease (see section 4.4).
+Treatment should be initiated and supervised by specialist healthcare professionals experienced in the diagnosis and treatment of ulcerative colitis, Crohn’s disease or pouchitis (see section 4.4).
 Patients should be given the package leaflet and the Patient Alert Card.
-
 Posology
 
 Ulcerative colitis
@@ -10,6 +9,7 @@ Ulcerative colitis
 The recommended dose regimen of intravenous vedolizumab is 300 mg administered by intravenous infusion at 0, 2 and 6 weeks and then every 8 weeks thereafter.
 
 Therapy for patients with ulcerative colitis should be discontinued if no evidence of therapeutic benefit is observed by week 10 (see section 5.1).
+
 Some patients who have experienced a decrease in their response may benefit from an increase in dosing frequency to intravenous vedolizumab 300 mg every 4 weeks.
 
 In patients who have responded to treatment with vedolizumab, corticosteroids may be reduced and/or discontinued in accordance with standard of care.
@@ -36,6 +36,16 @@ If therapy is interrupted and there is a need to restart treatment with intraven
 The treatment interruption period in clinical trials extended up to 1 year.
 Efficacy was regained with no evident increase in adverse reactions or infusion-related reactions during retreatment with vedolizumab (see section 4.8).
 
+Pouchitis
+
+The recommended dose regimen of intravenous vedolizumab is 300 mg administered by intravenous infusion at 0, 2 and 6 weeks and then every 8 weeks thereafter.
+
+Treatment with vedolizumab should be initiated in parallel with standard of care antibiotic (e.g., four-week of ciprofloxacin) (see section 5.1).
+
+Discontinuation of treatment should be considered if no evidence of therapeutic benefit is observed by 14 weeks of treatment with vedolizumab.
+
+Retreatment
+There are no retreatment data available in patients with pouchitis.
 Special populations
 
 Elderly patients
@@ -57,6 +67,7 @@ Method of administration
 
 Entyvio 300 mg powder for concentrate for solution for infusion is for intravenous use only.
 It is to be reconstituted and further diluted prior to intravenous administration.
+
 Entyvio 300 mg powder for concentrate for solution for infusion is administered as an intravenous infusion over 30 minutes.
 Patients should be monitored during and after infusion (see section 4.4).
 
@@ -64,6 +75,7 @@ For instructions on reconstitution and dilution of the medicinal product before 
 
 [Entyvio 108 mg solution for injection in pre-filled syringe]
 
+Treatment should be initiated and supervised by specialist healthcare professionals experienced in the diagnosis and treatment of ulcerative colitis or Crohn’s disease (see section 4.4).
 Patients should be given the package leaflet.
 
 Ulcerative colitis and Crohn’s disease

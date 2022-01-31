@@ -4,6 +4,7 @@
 
 In-use stability of the reconstituted solution in the vial has been demonstrated for 8 hours at 2°C-8°C.
 In-use stability of the diluted solution in sodium chloride 9 mg/mL (0.9%) solution for injection in infusion bag has been demonstrated for 12 hours at 20°C-25°C or 24 hours at 2°C-8°C.
+
 The combined in-use stability of vedolizumab in the vial and infusion bag with sodium chloride 9 mg/mL (0.9%) solution for injection is a total of 12 hours at 20°C-25°C or 24 hours at 2°C-8°C.
 A 24 hour period may include up to 8 hours at 2°C-8°C for reconstituted solution in the vial and up to 12 hours at 20°C-25°C for diluted solution in the infusion bag but the infusion bag must be stored in the refrigerator (2°C-8°C) for the rest of the 24 hour period.
 

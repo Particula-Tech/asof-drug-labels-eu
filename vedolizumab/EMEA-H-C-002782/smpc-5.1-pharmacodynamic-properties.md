@@ -11,7 +11,7 @@ MAdCAM-1 is mainly expressed on gut endothelial cells and plays a critical role 
 Vedolizumab does not bind to, nor inhibit function of, the α4β1 and αEβ7 integrins.
 
 The α4β7 integrin is expressed on a discrete subset of memory T helper lymphocytes which preferentially migrate into the gastrointestinal (GI) tract and cause inflammation that is characteristic of ulcerative colitis and Crohn’s disease, both of which are chronic inflammatory immunologically mediated conditions of the GI tract.
-Vedolizumab reduces gastrointestinal inflammation in UC and CD patients.
+Vedolizumab reduces gastrointestinal inflammation in UC, CD and pouchitis patients.
 Inhibiting the interaction of α4β7 with MAdCAM-1 with vedolizumab prevents transmigration of gut-homing memory T helper lymphocytes across the vascular endothelium into parenchymal tissue in nonhuman primates and induced a reversible 3-fold elevation of these cells in peripheral blood.
 The murine precursor of vedolizumab alleviated gastrointestinal inflammation in colitic cotton-top tamarins, a model of ulcerative colitis.
 
@@ -20,7 +20,6 @@ In healthy subjects, ulcerative colitis patients, or Crohn’s disease patients,
 Vedolizumab did not affect immune surveillance and inflammation of the central nervous system in Experimental Autoimmune Encephalomyelitis in non-human primates, a model of multiple sclerosis.
 Vedolizumab did not affect immune responses to antigenic challenge in the dermis and muscle (see section 4.4).
 In contrast, vedolizumab inhibited an immune response to a gastrointestinal antigenic challenge in healthy human volunteers (see section 4.4).
-
 Immunogenicity
 
 Antibodies to vedolizumab may develop during vedolizumab treatment most of which are neutralising.
@@ -48,6 +47,7 @@ Primary endpoint was the proportion of patients with clinical response (defined 
 ≥ 3 points and ≥ 30% from baseline with an accompanying decrease in rectal bleeding subscore of
 ≥ 1 point or absolute rectal bleeding subscore of ≤ 1 point) at week 6.
 Table 2 shows the results from the primary and secondary endpoints evaluated.
+
 Table 2.
 Week 6 efficacy results of GEMINI 1
 
@@ -64,7 +64,6 @@ Mucosal healing¶ 25% 41%‡
 ¶Mucosal healing: Mayo endoscopic subscore of ≤ 1 point
 
 The beneficial effect of vedolizumab on clinical response, remission and mucosal healing was observed both in patients with no prior TNFα antagonist exposure as well as in those who had failed prior TNFα antagonist therapy.
-
 In GEMINI 1, 2 cohorts of patients received vedolizumab at week 0 and week 2: cohort 1 patients were randomised to receive either vedolizumab 300 mg or placebo in a double-blind fashion, and cohort 2 patients were treated with open-label vedolizumab 300 mg.
 To evaluate efficacy at week 52, 373 patients from cohort 1 and 2 who were treated with vedolizumab and had achieved clinical response at week 6 were randomised in a double-blind fashion (1:1:1) to one of the following regimens beginning at week 6: vedolizumab 300 mg every 8 weeks, vedolizumab 300 mg every 4 weeks, or placebo every 4 weeks.
 Beginning at week 6, patients who had achieved clinical response and were receiving corticosteroids were required to begin a corticosteroid-tapering regimen.
@@ -97,6 +96,7 @@ Exploratory analyses provide additional data on key subpopulations studied.
 Approximately one-third of patients had failed prior TNFα antagonist therapy.
 Among these patients, 37% receiving vedolizumab every 8 weeks, 35% receiving vedolizumab every 4 weeks, and 5% receiving placebo achieved clinical remission at week 52.
 Improvements in durable clinical response (47%, 43%, 16%), mucosal healing (42%, 48%, 8%), durable clinical remission (21%, 13%, 3%) and corticosteroid-free clinical remission (23%, 32%, 4%) were seen in the prior TNFα antagonist failure population treated with vedolizumab every 8 weeks, vedolizumab every 4 weeks and placebo, respectively.
+
 Patients who failed to demonstrate response at week 6 remained in the study and received vedolizumab every 4 weeks.
 Clinical response using partial Mayo scores was achieved at week 10 and week 14 by greater proportions of vedolizumab patients (32% and 39%, respectively) compared with placebo patients (15% and 21%, respectively).
 
@@ -107,7 +107,6 @@ Patients who achieved a clinical response after receiving vedolizumab at week 0 
 In these patients, clinical remission was achieved in 45% of patients by 28 weeks and 36% of patients by 52 weeks.
 
 In this open-label extension study, the benefits of vedolizumab treatment as assessed by partial Mayo score, clinical remission, and clinical response were shown for up to 196 weeks.
-
 Health-related quality of life (HRQOL) was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ), a disease specific instrument, and SF-36 and EQ-5D, which are generic measures.
 Exploratory analysis show clinically meaningful improvements were observed for vedolizumab groups, and the improvements were significantly greater as compared with the placebo group at week 6 and week 52 on EQ-5D and EQ-5D VAS scores, all subscales of IBDQ (bowel symptoms, systemic function, emotional function and social function), and all subscales of SF-36 including the Physical Component Summary (PCS) and Mental Component Summary (MCS).
 
@@ -131,7 +130,6 @@ The GEMINI 3 Study was a second randomised, double-blind, placebo-controlled stu
 Patients (n = 416), which included approximately 75% TNFα antagonist failures patients, were randomised in a double-blind fashion (1:1) to receive either vedolizumab 300 mg or placebo at weeks 0, 2, and 6.
 The primary endpoint was the proportion of patients in clinical remission at week 6 in the TNFα antagonist failure subpopulation.
 As noted in Table 4, although the primary endpoint was not met, exploratory analyses show that clinically meaningful results were observed.
-
 Table 4.
 Efficacy results for GEMINI 2 and 3 studies at week 6 and week 10
 Study
@@ -214,7 +212,7 @@ These effects were seen whether or not immunomodulators were also concomitantly 
 Exploratory analyses provide additional data on key subpopulations studied.
 In GEMINI 2, approximately half of patients had previously failed TNFα antagonist therapy.
 Among these patients, 28% receiving vedolizumab every 8 weeks, 27% receiving vedolizumab every 4 weeks, and 13% receiving placebo achieved clinical remission at week 52.
-Enhanced clinical response was achieved in 29%, 38%, 21%, respectively, and corticosteriod-free clinical remission was achieved in 24%, 16%, 0%, respectively.
+Enhanced clinical response was achieved in 29%, 38%, 21%, respectively, and corticosteroid-free clinical remission was achieved in 24%, 16%, 0%, respectively.
 
 Patients who failed to demonstrate response at week 6 in GEMINI 2 were retained in the study and received vedolizumab every 4 weeks.
 Enhanced clinical response was observed at week 10 and week 14 for greater proportions of vedolizumab patients 16% and 22%, respectively, compared with placebo patients 7% and 12%, respectively.
@@ -230,11 +228,53 @@ In this open-label extension study, clinical remission and clinical response wer
 
 Exploratory analysis showed clinically meaningful improvements were observed for the vedolizumab every 4 weeks and every 8 weeks groups in GEMINI 2 and the improvements were significantly greater as compared with the placebo group from baseline to week 52 on EQ-5D and EQ-5D VAS scores, total IBDQ score, and IBDQ subscales of bowel symptoms and systemic function.
 
+Pouchitis
+
+The efficacy and safety of intravenous vedolizumab for the treatment of adult patients with chronic pouchitis were demonstrated in a randomised, double-blind, placebo-controlled study evaluating efficacy at week 14 and week 34 (EARNEST).
+Enrolled patients had undergone proctocolectomy and ileal pouch anal anastomosis (IPAA) for ulcerative colitis at least one year prior to randomisation and had developed active chronic pouchitis (defined as antibiotic-dependent (recurrent) or antibiotic-refractory), with a baseline modified Pouchitis Disease Activity Index (mPDAI) score ≥ 5 and endoscopic subscore ≥ 2.
+All patients received concomitant antibiotic treatment with ciprofloxacin 500 mg twice daily from the start of treatment through week 4.
+Patients received additional courses of antibiotics during the study as needed, including for pouchitis flares.
+
+Patients (n=102) were randomised (1:1) to receive either intravenous vedolizumab 300 mg or intravenous placebo at 0, 2 and 6 weeks, and every 8 weeks thereafter, until week 30.
+The primary endpoint was clinical remission (defined as an mPDAI score < 5 and a reduction in total mPDAI score of ≥ 2 points from baseline) at week 14.
+Table 6 shows the results from the primary and secondary endpoints at week 14 and Table 7 shows the results from secondary endpoints at week 34.
+
+Table 6.
+Efficacy results for EARNEST at week 14
+Difference
+Placebo Vedolizumab IV Vedolizumab-Placebo (95% CI)
+
+Endpoint n = 51 n = 51 [percentage points]
+Clinical remission* 9.8% 31.4%† 21.6 (4.9, 37.5)
+PDAI remission‡ 9.8% 35.3% 25.5 (8.0, 41.4)
+Clinical response§ 33.3% 62.7% 29.4 (8.0, 47.6)
+
+*Clinical remission is defined as mPDAI score < 5 and a reduction in total mPDAI score of ≥ 2 points from baseline
+†p < 0.05
+‡PDAI remission is defined as PDAI score < 7 and a reduction in PDAI score of ≥ 3 points from baseline §Clinical response is defined as reduction of mPDAI score of ≥ 2 points from baseline
+
+Table 7.
+Efficacy results for EARNEST at week 34
+Difference
+Placebo Vedolizumab IV Vedolizumab-Placebo (95% CI)
+
+Endpoint n = 51 n = 51 [percentage points]
+Clinical remission* 17.6% 35.3% 17.6 (0.3, 35.1)
+PDAI remission‡ 17.6% 37.3% 19.6 (1.9, 37.0)
+Clinical response§ 29.4% 51.0% 21.6 (1.9, 39.8)
+
+*Clinical remission is defined as mPDAI score < 5 and reduction in total mPDAI score of ≥ 2 points from baseline
+‡PDAI remission is defined as PDAI score < 7 and a reduction in PDAI score of ≥ 3 points from baseline §Clinical response is defined as reduction of mPDAI score of ≥ 2 points from baseline
+Approximately two-thirds of patients had received prior (for UC or pouchitis) TNF α antagonist therapy (33 in vedolizumab and 31 in placebo treatment groups).
+Among these patients, 33.3% in the vedolizumab group achieved clinical remission at W14 compared with 9.7% in the placebo group.
+
 Paediatric population
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with vedolizumab in one or more subsets of the paediatric population in ulcerative colitis and Crohn’s disease (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with vedolizumab in one or more subsets of the paediatric population in ulcerative colitis, Crohn’s disease and pouchitis (see section 4.2 for information on paediatric use).
 
 [Entyvio 108 mg solution for injection in pre-filled syringe]
+
+Vedolizumab reduces gastrointestinal inflammation in UC and CD patients.
 
 Ulcerative colitis - vedolizumab for intravenous administration
 
@@ -323,9 +363,6 @@ To evaluate efficacy at week 52, 461 patients from cohorts 1 and 2, who were tre
 Primary endpoint was the proportion of patients in clinical remission at week 52 (see Table 7).
 
 As noted in Table 6, although the primary endpoint was not met, exploratory analyses show that clinically meaningful results were observed.
-Table 6.
-
-Table 7.
 
 Crohn’s disease - vedolizumab for subcutaneous administration
 
@@ -340,8 +377,8 @@ The baseline CDAI was > 330 (severe Crohn’s disease) in about 41% and ≤ 330 
 Beginning at week 6, patients who had achieved clinical response (defined as a ≥ 70-point decrease in the CDAI score from baseline) and were receiving corticosteroids were required to begin a corticosteroid tapering regimen.
 Primary endpoint was the proportion of patients with clinical remission (CDAI score ≤ 150) at week 52.
 The secondary endpoints were the proportion of patients with enhanced clinical response ( ≥ 100 point decrease in CDAI score from baseline) at week 52, the proportion of patients with corticosteroid-free remission (patients using oral corticosteroids at baseline who had discontinued corticosteroids and were in clinical remission) at week 52, and the proportion of TNFα antagonist naïve patients who achieved clinical remission (CDAI score ≤ 150) at week 52.
-
 Table 8 shows the evaluated results from the primary and secondary endpoints.
+
 Table 8.
 Week 52 efficacy results of VISIBLE 2
 
