@@ -47,8 +47,8 @@ Very common Nausea
 Common Vomiting
 
 Uncommon Diarrhoea, Dry mouth
-Skin and subcutaneous tissue disorders
 
+Skin and subcutaneous tissue disorders
 Uncommon Hyperhidrosis
 
 Very rare Erythema multiforme
