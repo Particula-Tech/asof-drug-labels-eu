@@ -15,7 +15,7 @@ Additional for 10 mg film-coated tablets:
 Iron oxide yellow
 
 Additional for 20 mg film-coated tablets:
-Irion oxide yellow and red
+Iron oxide yellow and red
 
 [Ebixa 5 mg/pump actuation oral solution.]
 
@@ -30,4 +30,3 @@ Tablet cores for 5/10/15/20 mg film-coated tablets:
 Tablet coat for 5/10/15/20 mg film-coated tablets:
 
 Additional for 15 mg and 20 mg film-coated tablets:
-Iron oxide yellow and red

@@ -36,7 +36,8 @@ On the basis of the clinical studies, the recommended dose for patients over the
 
 Renal impairment
 In patients with mildly impaired renal function (creatinine clearance 50 – 80 ml/min) no dose adjustment is required.
-In patients with moderate renal impairment (creatinine clearance 30 – 49 ml/min) daily dose should be 10 mg per day.
+In patients with moderate renal impairment (creatinine clearance 30
+– 49 ml/min) daily dose should be 10 mg per day.
 If tolerated well after at least 7 days of treatment, the dose could be increased up to 20 mg/day according to standard titration scheme.
 In patients with severe renal impairment (creatinine clearance 5 – 29 ml/min) daily dose should be 10 mg per day.
 
@@ -91,3 +92,5 @@ Week 4 (day 22-28)
 The patient should take one 20 mg film-coated tablet per day (grey-red, oval-oblong) for 7 days.
 
 On the basis of the clinical studies, the recommended dose for patients over the age of 65 years is 20 mg per day (20 mg once a day) as described above.
+
+In patients with moderate renal impairment (creatinine clearance 30 – 49 ml/min) daily dose should be 10 mg per day.

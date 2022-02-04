@@ -11,12 +11,20 @@ Also, urine pH may be elevated by states of renal tubulary acidosis (RTA) or sev
 In most clinical trials, patients with recent myocardial infarction, uncompensated congestive heart failure (NYHA III-IV), or uncontrolled hypertension were excluded.
 As a consequence, only limited data are available and patients with these conditions should be closely supervised.
 
+Ebixa contains Sodium
+
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
+
 [Ebixa 5 mg/pump actuation oral solution.]
 
 Concomitant use of other N-methyl-D-aspartate (NMDA)-antagonists such as amantadine, ketamine or dextromethorphan should be avoided.
 
-Excipients: The oral solution contains sorbitol.
+Ebixa contains Sorbitol and Potassium
+
+This medicine contains 100 mg sorbitol in each gram which is equivalent to 200 mg /4 pump actuation.
 Patients with rare hereditary problems of fructose intolerance should not take this medicine.
+
+Furthermore, this medicine contains potassium, less than 1 mmol (39 mg) per dose, i.e. essentially potassium-free.
 
 [Ebixa 5 mg film-coated tablets.]
 
