@@ -11,7 +11,9 @@ Not all packs sizes may be marketed.
 [CIALIS 10 mg film-coated tablets]
 
 CIALIS 10 mg film-coated tablets
+
 Aluminium/PVC blisters in cartons of 4 film-coated tablets.
 
 CIALIS 20 mg film-coated tablets
+
 Aluminium/PVC blisters in cartons of 2, 4, 8, 10 and 12 film-coated tablets.

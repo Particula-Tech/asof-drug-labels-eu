@@ -21,6 +21,7 @@ Cytochrome P450 inducers
 A CYP3A4 inducer, rifampicin, reduced tadalafil AUC by 88 %, relative to the AUC values for tadalafil alone (10 mg).
 This reduced exposure can be anticipated to decrease the efficacy of tadalafil; the magnitude of decreased efficacy is unknown.
 Other inducers of CYP3A4 such as phenobarbital, phenytoin and carbamazepine, may also decrease plasma concentrations of tadalafil.
+
 Effects of tadalafil on other medicinal products
 
 Nitrates
@@ -84,7 +85,6 @@ Tadalafil (10 mg and 20 mg) had no clinically significant effect on exposure (AU
 
 Aspirin
 Tadalafil (10 mg and 20 mg) did not potentiate the increase in bleeding time caused by acetyl salicylic acid.
-
 Antidiabetic medicinal products
 Specific interaction studies with antidiabetic medicinal products were not conducted.
 

@@ -3,12 +3,14 @@
 Pharmacotherapeutic group: Urologicals, Drugs used in erectile dysfunction, ATC Code: G04BE08.
 
 Mechanism of action
+
 Tadalafil is a selective, reversible inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE5).
 When sexual stimulation causes the local release of nitric oxide, inhibition of PDE5 by tadalafil produces increased levels of cGMP in the corpus cavernosum.
 This results in smooth muscle relaxation and inflow of blood into the penile tissues, thereby producing an erection.
 Tadalafil has no effect in the absence of sexual stimulation.
 
 Pharmacodynamic effects
+
 Studies in vitro have shown that tadalafil is a selective inhibitor of PDE5.
 PDE5 is an enzyme found in corpus cavernosum smooth muscle, vascular and visceral smooth muscle, skeletal muscle, platelets, kidney, lung, and cerebellum.
 The effect of tadalafil is more potent on PDE5 than on other phosphodiesterases.
@@ -20,8 +22,10 @@ Tadalafil is also
 > 10,000-fold more potent for PDE5 than for PDE7 through PDE10.
 
 Clinical efficacy and safety
+
 Three clinical studies were conducted in 1054 patients in an at-home setting to define the period of responsiveness to CIALIS on demand.
 Tadalafil demonstrated statistically significant improvement in erectile function and the ability to have successful sexual intercourse up to 36 hours following dosing, as well as patients’ ability to attain and maintain erections for successful intercourse compared to placebo as early as 16 minutes following dosing.
+
 Tadalafil administered to healthy subjects produced no significant difference compared to placebo in supine systolic and diastolic blood pressure (mean maximal decrease of 1.6/0.8 mm Hg, respectively), in standing systolic and diastolic blood pressure (mean maximal decrease of 0.2/4.6 mm Hg, respectively), and no significant change in heart rate.
 
 In a study to assess the effects of tadalafil on vision, no impairment of colour discrimination (blue/green) was detected using the Farnsworth-Munsell 100-hue test.
@@ -41,8 +45,8 @@ In a subsequent study, 217 patients who were treatment-naïve to PDE5 inhibitors
 The mean per-subject proportion of successful sexual intercourse attempts was 68 % for CIALIS patients compared to 52 % for patients on placebo.
 
 In a 12-week study performed in 186 patients (142 tadalafil, 44 placebo) with erectile dysfunction secondary to spinal cord injury, tadalafil significantly improved the erectile function leading to a mean per-subject proportion of successful attempts in patients treated with tadalafil 10 or 20 mg (flexible-dose, on demand) of 48 % as compared to 17 % with placebo.
-
 Paediatric population
+
 A single study has been performed in paediatric patients with Duchenne Muscular Dystrophy (DMD) in which no evidence of efficacy was seen.
 The randomised, double-blind, placebo-controlled, parallel, 3-arm study of tadalafil was conducted in 331 boys aged 7-14 years with DMD receiving concurrent corticosteroid therapy.
 The study included a 48-week double-blind period where patients were randomised to tadalafil 0.3 mg/kg, tadalafil 0.6 mg/kg, or placebo daily.
@@ -63,6 +67,7 @@ These vascular effects may be complemented by inhibition of bladder afferent ner
 
 Erectile dysfunction
 For CIALIS on demand, three clinical studies were conducted in 1054 patients in an at-home setting to define the period of responsiveness.
+
 In a 12-week study performed in 186 patients (142 tadalafil, 44 placebo) with erectile dysfunction secondary to spinal cord injury, tadalafil significantly improved the erectile function leading to a mean per-subject proportion of successful attempts in patients treated with tadalafil 10 or 20 mg (flexible-dose, on demand) of 48% as compared to 17% with placebo.
 
 For once-a-day evaluation of tadalafil at doses of 2.5, 5, and 10 mg 3 clinical studies were initially conducted involving 853 patients of various ages (range 21-82 years) and ethnicities, with erectile dysfunction of various severities (mild, moderate, severe) and etiologies.

@@ -36,10 +36,15 @@ Frequency convention: very common (≥1/10), common (≥1/100 to <1/10), uncommo
 |  | Back pain, Myalgia, Pain in extremity |  |  |
 | Renal and urinary disorders |  |  |  |
 |  |  | Haematuria |  |
-| Reproductive system and breast disorders |  |  |  |
-|  |  | Prolonged erections | Priapism, Penile haemorrhage, Haematospermia |
-| General disorders and administration site conditions |  |  |  |
-|  |  | Chest pain1, Peripheral oedema, Fatigue | Facial oedema2, Sudden cardiac death1, 2 |
+
+Reproductive system and breast disorders
+Prolonged erections Priapism, Penile
+haemorrhage,
+Haematospermia
+General disorders and administration site conditions
+Chest pain1, Peripheral Facial oedema2,
+oedema, Fatigue Sudden cardiac
+death1, 2
 
 (1) Most of the patients had pre-existing cardiovascular risk factors (see section 4.4).
 (2) Postmarketing surveillance reported adverse reactions not observed in placebo-controlled clinical trials.
@@ -49,6 +54,7 @@ Description of selected adverse reactions
 
 A slightly higher incidence of ECG abnormalities, primarily sinus bradycardia, has been reported in patients treated with tadalafil once a day as compared with placebo.
 Most of these ECG abnormalities were not associated with adverse reactions.
+
 Other special populations
 
 Data in patients over 65 years of age receiving tadalafil in clinical trials, either for the treatment of erectile dysfunction or the treatment of benign prostatic hyperplasia, are limited.
@@ -56,6 +62,7 @@ In clinical trials with tadalafil taken on demand for the treatment of erectile 
 In clinical trials with tadalafil 5mg taken once a day for the treatment of benign prostatic hyperplasia, dizziness and diarrhoea were reported more frequently in patients over 75 years of age.
 
 Reporting of suspected adverse reactions
+
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
@@ -81,25 +88,15 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 | Gastrointestinal disorders |  |  |  |
 |  | Dyspepsia | Abdominal pain, Vomiting, Nausea, Gastro-oesophageal reflux |  |
 | Skin and subcutaneous tissue disorders |  |  |  |
-|  |  | Rash | Urticaria, Stevens-Johnson syndrome2, Exfoliative |
-
-dermatitis2,
-Hyperhydrosis
-(sweating)
-Musculoskeletal, connective tissue and bone disorders
-Back pain,
-Myalgia, Pain in
-extremity
-Renal and urinary disorders
-Haematuria
-Reproductive system and breast disorders
-Prolonged erections Priapism, Penile
-haemorrhage,
-Haematospermia
-General disorders and administration site conditions
-Chest pain1, Peripheral Facial oedema2,
-oedema, Fatigue Sudden cardiac
-death1, 2
+|  |  | Rash | Urticaria, Stevens-Johnson syndrome2, Exfoliative dermatitis2, Hyperhydrosis (sweating) |
+| Musculoskeletal, connective tissue and bone disorders |  |  |  |
+|  | Back pain, Myalgia, Pain in extremity |  |  |
+| Renal and urinary disorders |  |  |  |
+|  |  | Haematuria |  |
+| Reproductive system and breast disorders |  |  |  |
+|  |  | Prolonged erections | Priapism, Penile haemorrhage, Haematospermia |
+| General disorders and administration site conditions |  |  |  |
+|  |  | Chest pain1, Peripheral oedema, Fatigue | Facial oedema2, Sudden cardiac death1, 2 |
 
 [CIALIS 10 mg film-coated tablets]
 
@@ -127,7 +124,5 @@ death1, 2
 |  | Back pain, Myalgia, Pain in extremity |  |  |
 | Renal and urinary disorders |  |  |  |
 |  |  | Haematuria |  |
-| Reproductive system and breast disorders |  |  |  |
-|  |  | Prolonged erections | Priapism, Penile haemorrhage, Haematospermia |
-| General disorders and administration site conditions |  |  |  |
-|  |  | Chest pain1, Peripheral oedema, Fatigue | Facial oedema2, Sudden cardiac death1,2 |
+
+oedema, Fatigue Sudden cardiac death1,2
