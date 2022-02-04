@@ -7,3 +7,5 @@ Co-administration with ergot alkaloids (see section 4.5).
 Co-administration with the CYP3A4 substrates terfenadine, astemizole, cisapride, pimozide, halofantrine or quinidine since this may result in increased plasma concentrations of these medicinal products, leading to QTc prolongation and rare occurrences of torsades de pointes (see sections 4.4 and 4.5).
 
 Co-administration with the HMG-CoA reductase inhibitors simvastatin, lovastatin and atorvastatin (see section 4.5).
+
+Co-administration during the initiation and dose-titration phase of venetoclax in Chronic Lymphocytic Leukaemia (CLL) patients (see sections 4.4 and 4.5).

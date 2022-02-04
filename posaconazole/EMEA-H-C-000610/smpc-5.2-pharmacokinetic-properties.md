@@ -24,7 +24,6 @@ Posaconazole is slowly eliminated with a mean half-life (t½) of 35 hours (range
 After administration of 14C-posaconazole, radioactivity was predominantly recovered in the faeces (77 % of the radiolabelled dose) with the major component being parent compound (66 % of the radiolabelled dose).
 Renal clearance is a minor elimination pathway, with 14 % of the radiolabelled dose excreted in urine (< 0.2 % of the radiolabelled dose is parent compound).
 Steady-state is attained following 7 to 10 days of multiple-dose administration.
-
 Pharmacokinetics in special populations
 Children (< 18 years)
 Following administration of 800 mg per day of posaconazole as a divided dose for treatment of invasive fungal infections, mean trough plasma concentrations from 12 patients 8 - 17 years of age (776 ng/mL) were similar to concentrations from 194 patients 18 - 64 years of age (817 ng/mL).
@@ -47,6 +46,7 @@ Weight
 The population pharmacokinetic model of posaconazole concentrate for solution for infusion and tablets indicates that posaconazole clearance is related to weight.
 In patients > 120 kg, the Cav is decreased by 25 % and in patients < 50 kg, the Cav is increased by 19 %.
 It is, therefore, suggested to closely monitor for breakthrough fungal infections in patients weighing more than 120 kg.
+
 Renal impairment
 Following single-dose administration of posaconazole oral suspension, there was no effect of mild and moderate renal impairment (n=18, Cl cr ≥ 20 mL/min/1.73 m2) on posaconazole pharmacokinetics; therefore, no dose adjustment is required.
 In subjects with severe renal impairment (n=6, Cl cr
@@ -83,7 +83,6 @@ Posaconazole after administration of the tablets, is slowly eliminated with a me
 Steady-state plasma concentrations are attained by Day 6 at the 300 mg dose (once daily after twice daily loading dose at Day 1).
 
 Based on a population pharmacokinetic model evaluating posaconazole pharmacokinetics, steady state posaconazole concentrations were predicted in patients administered posaconazole concentrate for solution for infusion or tablets 300 mg once a day following BID dosing on Day 1 for the treatment of invasive aspergillosis and prophylaxis of invasive fungal infections.
-
 Table 9.
 Population predicted median (10th percentile, 90th percentile) posaconazole steady state plasma concentrations in patients following administration of posaconazole concentrate for solution for infusion or tablets 300 mg QD (BID on Day 1)
 
@@ -177,6 +176,7 @@ Based on a population pharmacokinetic model, no significant effect of a meal on 
 Therefore, the gastro-resistant powder and solvent for oral suspension can be administered without regard to food.
 
 Concomitant administration of posaconazole gastro-resistant powder and solvent for oral suspension with medicinal products affecting gastric pH or gastric motility would not be expected to demonstrate any significant effects on posaconazole pharmacokinetic exposure based on similarity to the gastro-resistant tablets.
+
 Posaconazole has a central volume of distribution of 112 L (5.2 % RSE) based on population PK modelling in paediatric subjects receiving IV or PFS formulations.
 
 Posaconazole is slowly eliminated with a mean clearance 4.7 L/h (3.9%RSE) and a corresponding to half-life (t½) of 24 hours based on population PK modelling in paediatric subjects receiving IV or PFS.

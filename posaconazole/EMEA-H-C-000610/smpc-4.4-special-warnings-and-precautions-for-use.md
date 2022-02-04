@@ -9,6 +9,7 @@ Hepatic reactions (e.g. mild to moderate elevations in ALT, AST, alkaline phosph
 Elevated liver function tests were generally reversible on discontinuation of therapy and in some instances these tests normalised without interruption of therapy.
 Rarely, more severe hepatic reactions with fatal outcomes have been reported.
 Posaconazole should be used with caution in patients with hepatic impairment due to limited clinical experience and the possibility that posaconazole plasma levels may be higher in these patients (see sections 4.2 and 5.2).
+
 Monitoring of hepatic function
 Liver function tests should be evaluated at the start of and during the course of posaconazole therapy.
 Patients who develop abnormal liver function tests during posaconazole therapy must be routinely monitored for the development of more severe hepatic injury.
@@ -39,9 +40,12 @@ Vincristine toxicity
 Concomitant administration of azole antifungals, including posaconazole, with vincristine has been associated with neurotoxicity and other serious adverse reactions, including seizures, peripheral neuropathy, syndrome of inappropriate antidiuretic hormone secretion, and paralytic ileus.
 Reserve azole antifungals, including posaconazole, for patients receiving a vinca alkaloid, including vincristine, who have no alternative antifungal treatment options (see section 4.5).
 
+Venetoclax toxicity
+Concomitant administration of strong CYP3A inhibitors, including posaconazole, with the CYP3A4 substrate venetoclax, may increase venetoclax toxicities, including the risk of tumour lysis syndrome (TLS) and neutropenia (see sections 4.3 and 4.5).
+Refer to the venetoclax SmPC for detailed guidance.
+
 Rifamycin antibacterials (rifampicin, rifabutin), certain anticonvulsants (phenytoin, carbamazepine, phenobarbital, primidone), efavirenz and cimetidine
 Posaconazole concentrations may be significantly lowered in combination; therefore, concomitant use with posaconazole should be avoided unless the benefit to the patient outweighs the risk (see section 4.5).
-
 Gastrointestinal dysfunction
 There are limited pharmacokinetic data in patients with severe gastrointestinal dysfunction (such as severe diarrhoea).
 Patients who have severe diarrhoea or vomiting should be monitored closely for breakthrough fungal infections.
@@ -49,6 +53,7 @@ Patients who have severe diarrhoea or vomiting should be monitored closely for b
 Glucose
 This medicinal product contains approximately 1.75 g of glucose per 5 mL of suspension.
 Patients with rare glucose-galactose malabsorption should not take this medicinal product.
+
 Sodium
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ‘sodium-free’.
 
@@ -90,7 +95,6 @@ Thromboembolic events
 Thromboembolic events have been identified as a potential risk for posaconazole intravenous concentrate for solution for infusion but were not observed in the clinical studies.
 Thrombophlebitis was observed in clinical studies.
 Caution is warranted on any sign or symptom of thromboembolic events (see sections 4.8 and 5.3).
-
 This medicinal product contains 462 mg (20 mmol) sodium per vial, equivalent to 23 % of the WHO recommended maximum daily intake of sodium.
 The maximum daily dose of this product is equivalent to 46% of the WHO recommended maximum daily intake for sodium.
 Noxafil 300 mg concentrate for solution for infusion is considered high in sodium.

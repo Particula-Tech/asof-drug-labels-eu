@@ -7,7 +7,6 @@ The most frequently reported serious related adverse reactions included nausea, 
 
 Tabulated list of adverse reactions
 Within the organ system classes, adverse reactions are listed under headings of frequency using the following categories: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥ 1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
-
 Table 2.
 Adverse reactions by body system and frequency reported in clinical studies and/or post-marketing use *
 
@@ -30,10 +29,7 @@ Adverse reactions by body system and frequency reported in clinical studies and/
 | Renal and urinary disorders Uncommon: Rare: | acute renal failure, renal failure, blood creatinine increased renal tubular acidosis, interstitial nephritis |
 | Reproductive system and breast disorders Uncommon: Rare: | menstrual disorder breast pain |
 | General disorders and administration site conditions Common: Uncommon: Rare: | pyrexia (fever), asthenia, fatigue oedema, pain, chills, malaise, chest discomfort, drug intolerance, feeling jittery, mucosal inflammation tongue oedema, face oedema |
-
-Investigations
-Uncommon: altered medicine levels, blood phosphorus decreased, chest
-x-ray abnormal
+| Investigations Uncommon: | altered medicine levels, blood phosphorus decreased, chest x-ray abnormal |
 
 * Based on adverse reactions observed with the oral suspension, gastro-resistant tablets, concentrate for solution for infusion, and gastro-resistant powder and solvent for oral suspension.
 § See section 4.4.
@@ -50,6 +46,7 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 [Noxafil 100 mg gastro-resistant tablets]
 
 Safety data mainly derive from studies with the oral suspension.
+
 Posaconazole tablets
 The safety of posaconazole tablet has been assessed in 104 healthy volunteers and 230 patients enrolled in a clinical study of antifungal prophylaxis.
 The safety of posaconazole concentrate for solution for infusion and posaconazole tablet has been assessed in 288 patients enrolled in a clinical study of aspergillosis of whom 161 patients received the concentrate for solution for infusion and 127 patients received the tablet formulation.
@@ -69,27 +66,6 @@ The maximum duration of invasive aspergillosis treatment was similar to that stu
 
 Adverse reactions by body system and frequency reported in clinical studies and/or post-marketing use*
 
-| Blood and lymphatic system disorders Common: Uncommon: Rare: | neutropenia thrombocytopenia, leukopenia, anaemia, eosinophilia, lymphadenopathy, splenic infarction haemolytic uraemic syndrome, thrombotic thrombocytopenic purpura, pancytopenia, coagulopathy, haemorrhage |
-| --- | --- |
-| Immune system disorders Uncommon: Rare: | allergic reaction hypersensitivity reaction |
-| Endocrine disorders Rare: | adrenal insufficiency, blood gonadotropin decreased, pseudoaldosteronism |
-| Metabolism and nutrition disorders Common: Uncommon: | electrolyte imbalance, anorexia, decreased appetite, hypokalaemia, hypomagnesaemia hyperglycaemia, hypoglycaemia |
-| Psychiatric disorders Uncommon: Rare: | abnormal dreams, confusional state, sleep disorder psychotic disorder, depression |
-| Nervous system disorders Common: Uncommon: Rare: | paraesthesia, dizziness, somnolence, headache, dysgeusia convulsions, neuropathy, hypoaesthesia, tremor, aphasia, insomnia cerebrovascular accident, encephalopathy, peripheral neuropathy, syncope |
-| Eye disorders Uncommon: Rare: | blurred vision, photophobia, visual acuity reduced diplopia, scotoma |
-| Ear and labyrinth disorder Rare: | hearing impairment |
-| Cardiac disorders Uncommon: Rare: | long QT syndrome§, electrocardiogram abnormal§, palpitations, bradycardia, supraventricular extrasystoles, tachycardia torsade de pointes, sudden death, ventricular tachycardia, cardio-respiratory arrest, cardiac failure, myocardial infarction |
-| Vascular disorders Common: Uncommon: Rare: | hypertension hypotension, vasculitis pulmonary embolism, deep vein thrombosis |
-| Respiratory, thoracic and mediastinal disorders Uncommon: Rare: | cough, epistaxis, hiccups, nasal congestion, pleuritic pain, tachypnoea pulmonary hypertension, interstitial pneumonia, pneumonitis |
-| Gastrointestinal disorders Very Common: Common: Uncommon: Rare: | nausea vomiting, abdominal pain, diarrhoea, dyspepsia, dry mouth, flatulence, constipation, anorectal discomfort pancreatitis, abdominal distension, enteritis, epigastric discomfort, eructation, gastroesophageal reflux disease, oedema mouth gastrointestinal haemorrhage, ileus |
-| Hepatobiliary disorders Common: Uncommon: Rare: | liver function tests raised (ALT increased, AST increased, bilirubin increased, alkaline phosphatase increased, GGT increased) hepatocellular damage, hepatitis, jaundice, hepatomegaly, cholestasis, hepatic toxicity, hepatic function abnormal hepatic failure, hepatitis cholestatic, hepatosplenomegaly, liver tenderness, asterixis |
-| Skin and subcutaneous tissue disorders Common: Uncommon: Rare: | rash, pruritis mouth ulceration, alopecia, dermatitis, erythema, petechiae Stevens Johnson syndrome, vesicular rash |
-| Musculoskeletal and connective tissue disorders Uncommon: | back pain, neck pain, musculoskeletal pain, pain in extremity |
-| Renal and urinary disorders Uncommon: Rare: | acute renal failure, renal failure, blood creatinine increased renal tubular acidosis, interstitial nephritis |
-| Reproductive system and breast disorders Uncommon: Rare: | menstrual disorder breast pain |
-| General disorders and administration site conditions Common: Uncommon: Rare: | pyrexia (fever), asthenia, fatigue oedema, pain, chills, malaise, chest discomfort, drug intolerance, feeling jittery, mucosal inflammation tongue oedema, face oedema |
-| Investigations Uncommon: | altered medicine levels, blood phosphorus decreased, chest x-ray abnormal |
-
 [Noxafil 300 mg concentrate for solution for infusion]
 
 Posaconazole concentrate for solution for infusion
@@ -98,6 +74,7 @@ The safety of posaconazole concentrate for solution for infusion has been assess
 Posaconazole concentrate for solution for infusion was investigated in AML and MDS patients and those after HSCT with or at risk for GVHD only.
 Maximum duration of exposure to the concentrate for solution for infusion was shorter than with the oral suspension.
 Plasma exposure resulting from the solution for infusion was higher than observed with the oral suspension.
+
 In initial studies of healthy volunteers, administration of a single dose of posaconazole infused over 30 minutes via a peripheral venous catheter was associated with a 12 % incidence of infusion site reactions (4 % incidence of thrombophlebitis).
 Multiple doses of posaconazole administered via a peripheral venous catheter were associated with thrombophlebitis (60 % incidence).
 Therefore, in subsequent studies posaconazole was administered via central venous catheter.

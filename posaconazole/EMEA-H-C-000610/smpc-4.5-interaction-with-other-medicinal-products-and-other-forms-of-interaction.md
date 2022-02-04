@@ -63,6 +63,7 @@ Rifabutin
 Posaconazole increased the Cmax and AUC of rifabutin by 31 % and 72 %, respectively.
 Concomitant use of posaconazole and rifabutin should be avoided unless the benefit to the patient outweighs the risk (see also above regarding the effect of rifabutin on plasma levels of posaconazole).
 If these medicinal products are co-administered, careful monitoring of full blood counts and adverse reactions related to increased rifabutin levels (e.g. uveitis) is recommended.
+
 Sirolimus
 Repeat dose administration of posaconazole oral suspension (400 mg twice daily for 16 days) increased the Cmax and AUC of sirolimus (2 mg single dose) an average of 6.7-fold and 8.9-fold (range 3.1 to 17.5-fold), respectively, in healthy subjects.
 The effect of posaconazole on sirolimus in patients is unknown, but is expected to be variable due to the variable posaconazole exposure in patients.
@@ -115,6 +116,10 @@ All-trans retinoic acid (ATRA) or tretinoin
 As ATRA is metabolised by the hepatic CYP450 enzymes, notably CYP3A4, concomitant administration with posaconazole, which is a strong inhibitor of CYP3A4, may lead to increased exposure to tretinoin resulting in an increased toxicity (especially hypercalcaemia).
 Serum calcium levels should be monitored and, if needed, appropriate dose adjustments of tretinoin should be considered during the treatment with posaconazole, and during the following days after treatment.
 
+Venetoclax
+Compared with venetoclax 400 mg administered alone, co-administration of 300 mg posaconazole, a strong CYP3A inhibitor, with venetoclax 50 mg and 100 mg for 7 days in 12 patients, increased venetoclax Cmax to 1.6-fold and 1.9-fold, and AUC to 1.9-fold and 2.4-fold, respectively (see sections 4.3 and 4.4).
+Refer to the venetoclax SmPC.
+
 Paediatric population
 Interaction studies have only been performed in adults.
 
@@ -122,7 +127,6 @@ Interaction studies have only been performed in adults.
 
 No clinically relevant effects were observed when posaconazole tablets are concomitantly used with antacids, H2-receptor antagonists and proton pump inhibitors.
 No dose adjustment of posaconazole tablets is required when posaconazole tablets are concomitantly used with antacids, H2-receptor antagonists and proton pump inhibitors.
-
 The effect of co-administration with posaconazole on plasma levels of CYP3A4 substrates may also be variable within a patient.
 
 Therefore, trough concentrations that fall in the upper part of the usual therapeutic range should be targeted and careful attention should be paid to clinical signs and symptoms, laboratory parameters and tissue biopsies.

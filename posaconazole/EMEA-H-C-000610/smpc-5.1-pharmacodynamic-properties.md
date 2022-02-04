@@ -12,6 +12,7 @@ The microbiological data suggest that posaconazole is active against Rhizomucor,
 
 The following in vitro data are available, but their clinical significance is unknown.
 In a surveillance study of > 3,000 clinical mold isolates from 2010-2018, 90 % of non-Aspergillus fungi exhibited the following in vitro minimum inhibitory concentration (MIC): Mucorales spp (n=81) of 2 mg/L; Scedosporium apiospermum/S. boydii (n=65) of 2 mg/L; Exophiala dermatiditis (n=15) of 0.5 mg/L, and Purpureocillium lilacinum (n=21) of 1 mg/L.
+
 Resistance
 Clinical isolates with decreased susceptibility to posaconazole have been identified.
 The principle mechanism of resistance is the acquisition of substitutions in the target protein, CYP51.
@@ -29,7 +30,6 @@ EUCAST ECOFF values:
 
 There are currently insufficient data to set clinical breakpoints for Aspergillus spp.
 ECOFF values do not equate to clinical breakpoints.
-
 Breakpoints
 EUCAST MIC breakpoints for posaconazole [susceptible (S); resistant (R)]:
 
@@ -57,6 +57,7 @@ Oral posaconazole suspension 800 mg/day in divided doses was evaluated for the t
 Clinical outcomes were compared with those in an external control group derived from a retrospective review of medical records.
 The external control group included 86 patients treated with available therapy (as above) mostly at the same time and at the same sites as the patients treated with posaconazole.
 Most of the cases of aspergillosis were considered to be refractory to prior therapy in both the posaconazole group (88 %) and in the external control group (79 %).
+
 As shown in Table 3, a successful response (complete or partial resolution) at the end of treatment was seen in 42 % of posaconazole-treated patients compared to 26 % of the external group.
 However, this was not a prospective, randomised controlled study and so all comparisons with the external control group should be viewed with caution.
 
@@ -70,7 +71,10 @@ Overall efficacy of posaconazole oral suspension at the end of treatment for inv
 | A. fumigatus | 12/29 (41 %) | 12/34 (35 %) |
 | A. flavus | 10/19 (53 %) | 3/16 (19 %) |
 | A. terreus | 4/14 (29 %) | 2/13 (15 %) |
-| A. niger | 3/5 (60 %) | 2/7 (29 %) |
+
+1 Includes other less common species or species unknown
+
+A. niger 3/5 (60 %) 2/7 (29 %)
 
 Fusarium spp.
 11 of 24 patients who had proven or probable fusariosis were successfully treated with posaconazole oral suspension 800 mg/day in divided doses for a median of 124 days and up to 212 days.
@@ -101,7 +105,6 @@ Clinical success rates in Oropharyngeal Candidiasis
 
 Clinical success rate was defined as the number of cases assessed as having a clinical response (cure or improvement) divided by the total number of cases eligible for analysis.
 
-1 Includes other less common species or species unknown
 Prophylaxis of Invasive Fungal Infections (IFIs) (Studies 316 and 1899)
 Two randomised, controlled prophylaxis studies were conducted among patients at high-risk for developing invasive fungal infections.
 
@@ -139,6 +142,7 @@ a: FLU/ITZ (1899); FLU (316).
 b: In 1899 this was the period from randomisation to last dose of study medicinal product plus 7 days; in 316 it was the period from first dose to last dose of study medicinal product plus 7 days.
 c: In 1899, this was the period from randomisation to 100 days post-randomisation; in 316 it was the period from the baseline day to 111 days post-baseline.
 d: All randomised e: All treated
+
 Table 6.
 Results from clinical studies in prophylaxis of Invasive Fungal Infections
 
@@ -160,7 +164,6 @@ d: All randomised e: All treated
 
 In Study 1899, a significant decrease in all-cause mortality in favour of posaconazole was observed [POS 49/304 (16 %) vs. FLU/ITZ 67/298 (22 %) p= 0.048].
 Based on Kaplan-Meier estimates, the probability of survival up to day 100 after randomisation, was significantly higher for posaconazole recipients; this survival benefit was demonstrated when the analysis considered all causes of death (P= 0.0354) as well as IFI-related deaths (P = 0.0209).
-
 In Study 316, overall mortality was similar (POS, 25 %; FLU, 28 %); however, the proportion of IFI-related deaths was significantly lower in the POS group (4/301) compared with the FLU group (12/299; P= 0.0413).
 
 Paediatric population
@@ -231,7 +234,6 @@ Subjects achieved a mean predicted Cav at steady state of 1,970 ng/mL.
 
 In Table 5 a comparison is shown of exposure (Cav) after administration of posaconazole tablet and posaconazole oral suspension at therapeutic doses in patients depicted as quartile analysis.
 Exposures after tablet administration are generally higher than, but overlapping with, exposures after administration of posaconazole oral suspension.
-
 Cav quartile analyses of pivotal patient studies with posaconazole tablet and oral suspension
 
 |  | Posaconazole tablet | Posaconazole oral suspension |  |  |
@@ -257,9 +259,22 @@ As shown in Table 6, a successful response (complete or partial resolution) at t
 | A. niger | 3/5 (60 %) | 2/7 (29 %) |
 
 2 Includes other less common species or species unknown
+
 See Table 7 and 8 for results from both studies.
 
 Table 7.
+
+| Study | Posaconazole oral suspension | Control a | P-Value |
+| --- | --- | --- | --- |
+| Proportion (%) of patients with proven/probable IFIs |  |  |  |
+| On-treatment periodb |  |  |  |
+| 1899d | 7/304 (2) | 25/298 (8) | 0.0009 |
+| 316e | 7/291 (2) | 22/288 (8) | 0.0038 |
+| Fixed-time periodc |  |  |  |
+| 1899d | 14/304 (5) | 33/298 (11) | 0.0031 |
+| Study | Posaconazole oral suspension | Controla | P-Value |
+| Proportion (%) of patients with proven/probable IFIs |  |  |  |
+| 316 d | 16/301 (5) | 27/299 (9) | 0.0740 |
 
 FLU = fluconazole ; ITZ = itraconazole ; POS = posaconazole.
 
