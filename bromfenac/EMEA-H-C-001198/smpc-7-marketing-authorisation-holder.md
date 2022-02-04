@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Bausch Health Ireland Limited
+BAUSCH + LOMB IRELAND LIMITED
 3013 Lake Drive
 Citywest Business Campus
 Dublin 24, D24PPT3
