@@ -29,13 +29,12 @@ Eltrombopag should be discontinued if ALT levels increase
 Caution is required when administering eltrombopag to patients with hepatic disease.
 In ITP and SAA patients a lower starting dose of eltrombopag should be used.
 Close monitoring is required when administering to patients with hepatic impairment (see section 4.2).
-
 Hepatic decompensation (use with interferon)
 
 Hepatic decompensation in patients with chronic hepatitis C: Monitoring is required in patients with low albumin levels (≤35 g/l) or with MELD score ≥10 at baseline.
 
-Chronic HCV patients with cirrhosis may be at risk of hepatic decompensation when receiving alfa interferon therapy.
-In 2 controlled clinical studies in thrombocytopenic patients with HCV, hepatic decompensation (ascites, hepatic encephalopathy, variceal haemorrhage, spontaneous bacterial peritonitis) occurred more frequently in the eltrombopag arm (11%) than in the placebo arm (6%).
+Chronic HCV patients with liver cirrhosis may be at risk of hepatic decompensation when receiving alfa interferon therapy.
+In two controlled clinical studies in thrombocytopenic patients with HCV, hepatic decompensation (ascites, hepatic encephalopathy, variceal haemorrhage, spontaneous bacterial peritonitis) occurred more frequently in the eltrombopag arm (11%) than in the placebo arm (6%).
 In patients with low albumin levels (≤ 35 g/l) or with a MELD score ≥10 at baseline, there was a 3-fold greater risk of hepatic decompensation and an increase in the risk of a fatal adverse event compared to those with less advanced liver disease.
 In addition, the benefits of treatment in terms of the proportion achieving SVR compared with placebo were modest in these patients (especially for those with baseline albumin ≤35 g/l) compared with the group overall.
 Eltrombopag should only be administered to such patients after careful consideration of the expected benefits in comparison with the risks.
@@ -45,7 +44,7 @@ Eltrombopag should be terminated if antiviral therapy is discontinued for hepati
 
 Thrombotic/thromboembolic complications
 
-In controlled studies in thrombocytopenic patients with HCV receiving interferon-based therapy (n=1,439), 38 out of 955 patients (4%) treated with eltrombopag and 6 out of 484 patients (1%) in the placebo group experienced thromboembolic events (TEEs).
+In controlled studies in thrombocytopenic patients with HCV receiving interferon-based therapy (n=1,439), 38 out of 955 patients (4%) treated with eltrombopag and 6 out of 484 patients (1%) in the placebo group experienced TEEs.
 Reported thrombotic/thromboembolic complications included both venous and arterial events.
 The majority of TEEs were non-serious and resolved by the end of the study.
 Portal vein thrombosis was the most common TEE in both treatment groups (2% in patients treated with eltrombopag versus <1% for placebo).
@@ -55,7 +54,7 @@ Eltrombopag should only be administered to such patients after careful considera
 Patients should be closely monitored for signs and symptoms of TEE.
 
 The risk of TEEs has been found to be increased in patients with chronic liver disease (CLD) treated with 75 mg eltrombopag once daily for 2 weeks in preparation for invasive procedures.
-Six of 143 (4%) adult patients with CLD receiving eltrombopag experienced TEEs (all of the portal venous system) and 2 of 145 (1%) patients in the placebo group experienced TEEs (one in the portal venous system and one myocardial infarction).
+Six of 143 (4%) adult patients with CLD receiving eltrombopag experienced TEEs (all of the portal venous system) and two of 145 (1%) patients in the placebo group experienced TEEs (one in the portal venous system and one myocardial infarction).
 Five of the 6 patients treated with eltrombopag experienced the thrombotic complication at a platelet count >200,000/µl and within 30 days of the last dose of eltrombopag.
 Eltrombopag is not indicated for the treatment of thrombocytopenia in patients with chronic liver disease in preparation for invasive procedures.
 
@@ -66,9 +65,9 @@ The risk-benefit balance should be considered in patients at risk of TEEs of any
 
 No case of TEE was identified from a clinical study in refractory SAA, however the risk of these events cannot be excluded in this patient population due to the limited number of exposed patients.
 As the highest authorised dose is indicated for patients with SAA (150 mg/day) and due to the nature of the reaction, TEEs might be expected in this patient population.
-
 Eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥5) unless the expected benefit outweighs the identified risk of portal venous thrombosis.
 When treatment is considered appropriate, caution is required when administering eltrombopag to patients with hepatic impairment (see sections 4.2 and 4.8).
+
 Bleeding following discontinuation of eltrombopag
 
 Thrombocytopenia is likely to reoccur in ITP patients upon discontinuation of treatment with eltrombopag.
@@ -84,7 +83,7 @@ Following discontinuation of therapy, patients should be monitored for any signs
 Bone marrow reticulin formation and risk of bone marrow fibrosis
 
 Eltrombopag may increase the risk for development or progression of reticulin fibres within the bone marrow.
-The relevance of this finding, as with other thrombopoietin receptor (TPO-R) agonists, has not been established yet.
+The relevance of this finding, as with other thrombopoietin-receptor (TPO-R) agonists, has not been established yet.
 
 Prior to initiation of eltrombopag, the peripheral blood smear should be examined closely to establish a baseline level of cellular morphologic abnormalities.
 Following identification of a stable dose of eltrombopag, full blood count (FBC) with white blood cell count (WBC) differential should be performed monthly.
@@ -96,15 +95,14 @@ Progression of existing myelodysplastic syndrome (MDS)
 There is a theoretical concern that TPO-R agonists may stimulate the progression of existing haematological malignancies such as MDS.
 TPO-R agonists are growth factors that lead to thrombopoietic progenitor cell expansion, differentiation and platelet production.
 The TPO-R is predominantly expressed on the surface of cells of the myeloid lineage.
-For TPO-R agonists there is a concern that they may stimulate the progression of existing haematopoietic malignancies such as MDS.
 
 In clinical studies with a TPO-R agonist in patients with MDS, cases of transient increases in blast cell counts were observed and cases of MDS disease progression to acute myeloid leukaemia (AML) were reported.
 
 The diagnosis of ITP or SAA in adults and elderly patients should be confirmed by the exclusion of other clinical entities presenting with thrombocytopenia, in particular the diagnosis of MDS must be excluded.
 Consideration should be given to performing a bone marrow aspirate and biopsy over the course of the disease and treatment, particularly in patients over 60 years of age, those with systemic symptoms, or abnormal signs such as increased peripheral blast cells.
-
 The effectiveness and safety of Revolade have not been established for the treatment of thrombocytopenia due to MDS.
 Revolade should not be used outside of clinical studies for the treatment of thrombocytopenia due to MDS.
+
 Cytogenetic abnormalities and progression to MDS/AML in patients with SAA
 
 Cytogenetic abnormalities are known to occur in SAA patients.
@@ -143,12 +141,15 @@ A loss of response or failure to maintain a platelet response with eltrombopag t
 Paediatric population
 
 The above warnings and precautions for ITP also apply to the paediatric population.
-
 Interference with laboratory tests
 
 Eltrombopag is highly coloured and so has the potential to interfere with some laboratory tests.
 Serum discolouration and interference with total bilirubin and creatinine testing have been reported in patients taking Revolade.
 If the laboratory results and clinical observations are inconsistent, re-testing using another method may help in determining the validity of the result.
+
+Sodium content
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per film-coated tablet, that is to say essentially ‘sodium-free’.
 
 [Revolade 25 mg powder for oral suspension]
 

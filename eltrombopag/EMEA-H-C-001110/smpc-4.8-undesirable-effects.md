@@ -4,32 +4,32 @@ Summary of the safety profile
 
 Immune thrombocytopenia in adult and paediatric patients
 
-The safety of Revolade was assessed using the pooled double-blind, placebo-controlled studies TRA100773A and B, TRA102537 (RAISE) and TRA113765, in which 403 patients were exposed to Revolade and 179 to placebo, in addition to data from the completed open-label studies TRA108057, TRA105325 (EXTEND) and TRA112940.
+The safety of Revolade was assessed in adult patients (N=763) using the pooled double-blind, placebo-controlled studies TRA100773A and B, TRA102537 (RAISE) and TRA113765, in which 403 patients were exposed to Revolade and 179 to placebo, in addition to data from the completed open-label studies (N=360) TRA108057 (REPEAT), TRA105325 (EXTEND) and TRA112940 (see section 5.1).
 Patients received study medication for up to 8 years (in EXTEND).
 The most important serious adverse reactions were hepatotoxicity and thrombotic/thromboembolic events.
-The most common adverse reactions occurring in at least 10% of patients included nausea, diarrhoea and increased alanine aminotransferase.
+The most common adverse reactions occurring in at least 10% of patients included nausea, diarrhoea, increased alanine aminotransferase and back pain.
 
-The safety of Revolade in paediatric patients (aged 1 to 17 years) with previously treated ITP has been demonstrated in two studies.
-PETIT2 (TRA115450) was a 2-part, double-blind and open-label, randomised, placebo-controlled study.
+The safety of Revolade in paediatric patients (aged 1 to 17 years) with previously treated ITP has been demonstrated in two studies (N=171) (see section 5.1).
+PETIT2 (TRA115450) was a two-part, double-blind and open-label, randomised, placebo-controlled study.
 Patients were randomised 2:1 and received Revolade (n=63) or placebo (n=29) for up to 13 weeks in the randomised period of the study.
-PETIT (TRA108062) was a 3-part, staggered-cohort, open-label and double-blind, randomised, placebo-controlled study.
+PETIT (TRA108062) was a three-part, staggered-cohort, open-label and double-blind, randomised, placebo-controlled study.
 Patients were randomised 2:1 and received Revolade (n=44) or placebo (n=21), for up to 7 weeks.
 The profile of adverse reactions was comparable to that seen in adults with some additional adverse reactions, marked ♦ in the table below.
 The most common adverse reactions in paediatric ITP patients 1 year and older (≥3% and greater than placebo) were upper respiratory tract infection, nasopharyngitis, cough, pyrexia, abdominal pain, oropharyngeal pain, toothache and rhinorrhoea.
 
 Thrombocytopenia with HCV infection in adult patients
 
-ENABLE 1 (TPL103922 n=716) and ENABLE 2 (TPL108390 n=805) were randomised, double-blind, placebo-controlled, multicentre studies to assess the efficacy and safety of Revolade in thrombocytopenic patients with HCV infection who were otherwise eligible to initiate antiviral therapy.
-In the HCV studies the safety population consisted of all randomised patients who received double-blind study medicinal product during Part 2 of ENABLE 1 (Revolade treatment n=450, placebo treatment n=232) and ENABLE 2 (Revolade treatment n=506, placebo treatment n=253).
+ENABLE 1 (TPL103922 n=716, 715 treated with eltrombopag) and ENABLE 2 (TPL108390 n=805) were randomised, double-blind, placebo-controlled, multicentre studies to assess the efficacy and safety of Revolade in thrombocytopenic patients with HCV infection who were otherwise eligible to initiate antiviral therapy.
+In the HCV studies the safety population consisted of all randomised patients who received double-blind study medicinal product during Part 2 of ENABLE 1 (Revolade treatment n=450, placebo treatment n=232) and ENABLE 2 (Revolade treatment n=506, placebo treatment n=252).
 Patients are analysed according to the treatment received (total safety double-blind population, Revolade n=955 and placebo n=484).
 The most important serious adverse reactions identified were hepatotoxicity and thrombotic/thromboembolic events.
 The most common adverse reactions occurring in at least 10% of patients included headache, anaemia, decreased appetite, cough, nausea, diarrhoea, hyperbilirubinaemia, alopecia, pruritus, myalgia, pyrexia, fatigue, influenza-like illness, asthenia, chills and oedema.
 
 Severe aplastic anaemia in adult patients
 
-The safety of eltrombopag in severe aplastic anaemia was assessed in a single-arm, open-label study (N=43) in which 11 patients (26%) were treated for >6 months and 7 patients (21%) were treated for >1 year.
+The safety of Revolade in severe aplastic anaemia was assessed in a single-arm, open-label study (N=43) in which 11 patients (26%) were treated for >6 months and 7 patients (16%) were treated for >1 year (see section 5.1).
 The most important serious adverse reactions were febrile neutropenia and sepsis/infection.
-The most common adverse reactions occurring in at least 10% of patients included headache, dizziness, cough, oropharyngeal pain, nausea, diarrhoea, abdominal pain, transaminases increased, arthralgia, pain in extremity, fatigue and pyrexia.
+The most common adverse reactions occurring in at least 10% of patients included headache, dizziness, cough, oropharyngeal pain, rhinorrhoea, nausea, diarrhoea, abdominal pain, transaminases increased, arthralgia, pain in extremity, muscle spasms, fatigue and pyrexia.
 List of adverse reactions
 
 The adverse reactions in the adult ITP studies (N=763), paediatric ITP studies (N=171), the HCV studies (N=1,520), the SAA studies (N=43) and post-marketing reports are listed below by MedDRA system organ class and by frequency.
@@ -57,14 +57,12 @@ ITP study population
 |  | Uncommon | Lenticular opacities, astigmatism, cataract cortical, lacrimation increased, retinal haemorrhage, retinal pigment epitheliopathy, visual impairment, visual acuity tests abnormal, blepharitis, keratoconjunctivitis sicca |
 | Ear and labyrinth disorders | Common | Ear pain, vertigo |
 | Cardiac disorders | Uncommon | Tachycardia, acute myocardial infarction, cardiovascular disorder, cyanosis, sinus tachycardia, electrocardiogram QT prolonged |
-
 | Vascular disorders | Common | Deep vein thrombosis, haematoma, hot flush |
-| --- | --- | --- |
 |  | Uncommon | Embolism, thrombophlebitis superficial, flushing |
 | Respiratory, thoracic and mediastinal disorders | Very common | Cough♦ |
-|  | Common | Oropharyngeal pain, rhinorrhoea♦ |
+|  | Common | Oropharyngeal pain♦, rhinorrhoea♦ |
 |  | Uncommon | Pulmonary embolism, pulmonary infarction, nasal discomfort, oropharyngeal blistering, sinus disorder, sleep apnoea syndrome |
-| Gastrointestinal disorders | Very common | Nausea, diarrhoea♦ |
+| Gastrointestinal disorders | Very common | Nausea, diarrhoea |
 |  | Common | Mouth ulceration, toothache♦, vomiting, abdominal pain*, mouth haemorrhage, flatulence * Very common in paediatric ITP |
 |  | Uncommon | Dry mouth, glossodynia, abdominal tenderness, faeces discoloured, food poisoning, frequent bowel movements, haematemesis, oral discomfort |
 | Hepatobiliary disorders | Very common | Alanine aminotransferase increased† |
@@ -72,7 +70,8 @@ ITP study population
 |  | Uncommon | Cholestasis, hepatic lesion, hepatitis, drug-induced liver injury |
 | Skin and subcutaneous tissue disorders | Common | Rash, alopecia, hyperhidrosis, pruritus generalised, petechiae |
 |  | Uncommon | Urticaria, dermatosis, cold sweat, erythema, melanosis, pigmentation disorder, skin discolouration, skin exfoliation |
-| Musculoskeletal and connective tissue disorders | Common | Myalgia, muscle spasm, musculoskeletal pain, bone pain, back pain |
+| Musculoskeletal and connective tissue disorders | Very common | Back pain |
+|  | Common | Myalgia, muscle spasm, musculoskeletal pain, bone pain |
 |  | Uncommon | Muscular weakness |
 | Renal and urinary disorders | Common | Proteinuria, blood creatinine increased, thrombotic microangiopathy with renal failure‡ |
 |  | Uncommon | Renal failure, leukocyturia, lupus nephritis, nocturia, blood urea increased, urine protein/creatinine ratio increased |
@@ -83,7 +82,7 @@ ITP study population
 |  | Uncommon | Blood albumin increased, protein total increased, blood albumin decreased, pH urine increased |
 | Injury, poisoning and procedural complications | Uncommon | Sunburn |
 
-♦ Additional adverse reactions observed in paediatric studies (aged 1to 17 years).
+♦ Additional adverse reactions observed in paediatric studies (aged 1 to 17 years).
 † Increase of alanine aminotransferase and aspartate aminotransferase may occur simultaneously, although at a lower frequency.
 ‡ Grouped term with preferred terms acute kidney injury and renal failure
 
@@ -110,7 +109,7 @@ HCV study population (in combination with anti-viral interferon and ribavirin th
 |  | Common | Dyspnoea, oropharyngeal pain, dyspnoea exertional, productive cough |
 | Gastrointestinal disorders | Very common | Nausea, diarrhoea |
 |  | Common | Vomiting, ascites, abdominal pain, abdominal pain upper, dyspepsia, dry mouth, constipation, abdominal distension, toothache, stomatitis, gastrooesophagal reflux disease, haemorrhoids, abdominal discomfort, varices oesophageal |
-|  | Uncomon | Oesophageal varices haemorrhage, gastritis, aphthous stomatitis |
+|  | Uncommon | Oesophageal varices haemorrhage, gastritis, aphthous stomatitis |
 | Hepatobiliary disorders | Common | Hyperbilirubinaemia, jaundice, drug-induced liver injury |
 |  | Uncommon | Portal vein thrombosis, hepatic failure |
 | Skin and subcutaneous tissue disorders | Very common | Pruritus |
@@ -218,32 +217,43 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [Revolade 25 mg powder for oral suspension]
 
-The safety of eltrombopag in severe aplastic anaemia was assessed in a single-arm, open-label study (N=43) in which 11 patients (26%) were treated for >6 months and 7 patients (16%) were treated for >1 year.
+♦ Additional adverse reactions observed in paediatric studies (aged 1to 17 years).
 
-| Vascular disorders | Common | Deep vein thrombosis, haematoma, hot flush |
+| System organ class | Frequency | Adverse reaction |
 | --- | --- | --- |
-|  | Uncommon | Embolism, hot flush, thrombophlebitis superficial, flushing |
-| Respiratory, thoracic and mediastinal disorders | Very common | Cough♦ |
-|  | Common | Oropharyngeal pain, rhinorrhoea♦ |
-|  | Uncommon | Pulmonary embolism, pulmonary infarction, nasal discomfort, oropharyngeal blistering, sinus disorder, sleep apnoea syndrome |
-| Gastrointestinal disorders | Very common | Nausea, diarrhoea♦ |
-|  | Common | Mouth ulceration, toothache♦, vomiting, abdominal pain*, mouth haemorrhage, flatulence * Very common in paediatric ITP |
-|  | Uncommon | Dry mouth, glossodynia, abdominal tenderness, faeces discoloured, food poisoning, frequent bowel movements, haematemesis, oral discomfort |
-| Hepatobiliary disorders | Very common | Alanine aminotransferase increased† |
-|  | Common | Aspartate aminotransferase increased†, hyperbilirubinaemia, hepatic function abnormal |
-|  | Uncommon | Cholestasis, hepatic lesion, hepatitis, drug-induced liver injury |
-| Skin and subcutaneous tissue disorders | Common | Rash, alopecia, hyperhidrosis, pruritus generalised, petechiae |
-|  | Uncommon | Urticaria, dermatosis, cold sweat, erythema, melanosis, pigmentation disorder, skin discolouration, skin exfoliation |
-| Musculoskeletal and connective tissue disorders | Common | Myalgia, muscle spasm, musculoskeletal pain, bone pain, back pain |
-|  | Uncommon | Muscular weakness |
-| Renal and urinary disorders | Common | Proteinuria, blood creatinine increased, thrombotic microangiopathy with renal failure‡ |
-|  | Uncommon | Renal failure, leukocyturia, lupus nephritis, nocturia, blood urea increased, urine protein/creatinine ratio increased |
-| Reproductive system and breast disorders | Common | Menorrhagia |
-| General disorders and administration site conditions | Common | Pyrexia*, chest pain, asthenia *Very common in paediatric ITP |
-|  | Uncommon | Feeling hot, vessel puncture site haemorrhage, feeling jittery, inflammation of wound, malaise, sensation of foreign body |
-| Investigations | Common | Blood alkaline phosphatase increased |
-|  | Uncommon | Blood albumin increased, protein total increased, blood albumin decreased, pH urine increased |
-| Injury, poisoning and procedural complications | Uncommon | Sunburn |
+| Infections and infestations | Common | Urinary tract infection, upper respiratory tract infection, bronchitis, nasopharyngitis, influenza, oral herpes |
+|  | Uncommon | Gastroenteritis, pharyngitis |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Common | Hepatic neoplasm malignant |
+| Blood and lymphatic system disorders | Very common | Anaemia |
+|  | Common | Lymphopenia |
+|  | Uncommon | Haemolytic anaemia |
+| Metabolism and nutrition disorders | Very common | Decreased appetite |
+|  | Common | Hyperglycaemia, abnormal loss of weight |
+| Psychiatric disorders | Common | Depression, anxiety, sleep disorder |
+|  | Uncommon | Confusional state, agitation |
+| Nervous system disorders | Very common | Headache |
+|  | Common | Dizziness, disturbance in attention, dysgeusia, hepatic encephalopathy, lethargy, memory impairment, paraesthesia |
+| Eye disorders | Common | Cataract, retinal exudates, dry eye, ocular icterus, retinal haemorrhage |
+| Ear and labyrinth disorders | Common | Vertigo |
+| Cardiac disorders | Common | Palpitations |
+| Respiratory, thoracic and mediastinal disorders | Very common | Cough |
+|  | Common | Dyspnoea, oropharyngeal pain, dyspnoea exertional, productive cough |
+| Gastrointestinal disorders | Very common | Nausea, diarrhoea |
+|  | Common | Vomiting, ascites, abdominal pain, abdominal pain upper, dyspepsia, dry mouth, constipation, abdominal distension, toothache, stomatitis, gastrooesophagal reflux disease, haemorrhoids, abdominal discomfort, varices oesophageal |
+|  | Uncomon | Oesophageal varices haemorrhage, gastritis, aphthous stomatitis |
+| Hepatobiliary disorders | Common | Hyperbilirubinaemia, jaundice, drug-induced liver injury |
+|  | Uncommon | Portal vein thrombosis, hepatic failure |
+| Skin and subcutaneous tissue disorders | Very common | Pruritus |
+|  | Common | Rash, dry skin, eczema, rash pruritic, erythema, hyperhidrosis, pruritus generalised, alopecia |
+|  | Uncommon | Skin lesion, skin discolouration, skin hyperpigmentation, night sweats |
+| Musculoskeletal and connective tissue disorder | Very common | Myalgia |
+|  | Common | Arthralgia, muscle spasms, back pain, pain in extremity, musculoskeletal pain, bone pain |
+| Renal and urinary disorders | Uncommon | Thrombotic microangiopathy with acute renal failure†, dysuria |
+| General disorders and administration site conditions | Very common | Pyrexia, fatigue, influenza-like illness, asthenia, chills |
+|  | Common | Irritability, pain, malaise, injection site reaction, non-cardiac chest pain, oedema, oedema peripheral |
+|  | Uncommon | Injection site pruritus, injection site rash, chest discomfort |
+| Investigations | Common | Blood bilirubin increased, weight decreased, white blood cell count decreased, haemoglobin decreased, neutrophil count decreased, international normalised ratio increased, activated partial thromboplastin time prolonged, blood glucose increased, blood albumin decreased |
+|  | Uncommon | Electrocardiogram QT prolonged |
 
 In controlled studies in thrombocytopenic patients with HCV (n=1439), 38 out of 955 patients (4%) treated with eltrombopag experienced a TEE and 6 out of 484 patients (1%) in the placebo group experienced TEEs.
 Portal vein thrombosis was the most common TEE in both treatment groups (2% in patients treated with eltrombopag versus <1% for placebo) (see section 4.4).

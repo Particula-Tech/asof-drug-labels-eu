@@ -33,4 +33,5 @@ Do not re-use the oral dosing syringe.
 A new single-use oral dosing syringe should be used to prepare each dose of Revolade for oral suspension.
 
 For more details on preparation and administration of the suspension, see Instructions for Use in the package leaflet.
+
 Disposal

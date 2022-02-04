@@ -14,8 +14,7 @@ Table 8 Geometric mean (95% confidence intervals) of steady-state plasma eltromb
 | 75 mg | 26 | 168 (143, 198) | 12.7 (11.0, 14.5) |
 
 a AUC(0-τ) and Cmax based on population PK post-hoc estimates.
-
-Plasma eltrombopag concentration-time data collected in 590 patients with HCV enrolled in phase III studies TPL103922/ENABLE 1 and TPL108390/ENABLE 2 were combined with data from patients with HCV enrolled in the phase II study TPL102357 and healthy adult patients in a population PK analysis.
+Plasma eltrombopag concentration-time data collected in 590 patients with HCV enrolled in phase III studies TPL103922/ENABLE 1 and TPL108390/ENABLE 2 were combined with data from patients with HCV enrolled in the phase II study TPL102357 and healthy adult subjects in a population PK analysis.
 Plasma eltrombopag Cmax and AUC(0-τ) estimates for patients with HCV enrolled in the phase III studies are presented for each dose studied in Table 9.
 
 Table 9 Geometric mean (95% CI) steady-state plasma eltrombopag pharmacokinetic parameters in patients with chronic HCV
@@ -37,6 +36,7 @@ Administration of eltrombopag concomitantly with antacids and other products con
 In a relative bioavailability study in adults, the eltrombopag powder for oral suspension delivered 22% higher plasma AUC(0-∞) than the film-coated tablet formulation.
 The absolute oral bioavailability of eltrombopag after administration to humans has not been established.
 Based on urinary excretion and metabolites eliminated in faeces, the oral absorption of drug-related material following administration of a single 75 mg eltrombopag solution dose was estimated to be at least 52%.
+
 Distribution
 
 Eltrombopag is highly bound to human plasma proteins (>99.9%), predominantly to albumin.
@@ -49,7 +49,6 @@ In a human radiolabel study, eltrombopag accounted for approximately 64% of plas
 Minor metabolites due to glucuronidation and oxidation were also detected.
 In vitro studies suggest that CYP1A2 and CYP2C8 are responsible for oxidative metabolism of eltrombopag.
 Uridine diphosphoglucuronyl transferase UGT1A1 and UGT1A3 are responsible for glucuronidation, and bacteria in the lower gastrointestinal tract may be responsible for the cleavage pathway.
-
 Elimination
 
 Absorbed eltrombopag is extensively metabolised.
@@ -74,8 +73,9 @@ In clinical studies with eltrombopag, a dose reduction of statins by 50% was rec
 
 Eltrombopag chelates with polyvalent cations such as iron, calcium, magnesium, aluminium, selenium and zinc (see sections 4.2 and 4.5).
 
-In vitro studies demonstrated that eltrombopag is not a substrate for the organic anion transporter polypeptide, OATP1B1, but is an inhibitor of this transporter (IC50 value of 2.7 μM (1.2 μg/ml).
-In vitro studies also demonstrated that eltrombopag is a breast cancer resistance protein (BCRP) substrate and inhibitor (IC50 value of 2.7 μM (1.2 μg/ml).
+In vitro studies demonstrated that eltrombopag is not a substrate for the organic anion transporter polypeptide, OATP1B1, but is an inhibitor of this transporter (IC50 value of 2.7 μM [1.2 μg/ml]).
+In vitro studies also demonstrated that eltrombopag is a breast cancer resistance protein (BCRP) substrate and inhibitor (IC50 value of 2.7 μM [1.2 μg/ml]).
+
 Special patient populations
 
 Renal impairment
@@ -86,7 +86,6 @@ There was substantial variability and significant overlap in exposures between p
 Unbound eltrombopag (active) concentrations for this highly protein-bound medicinal product were not measured.
 Patients with impaired renal function should use eltrombopag with caution and close monitoring, for example by testing serum creatinine and/or urine analysis (see section 4.2).
 The efficacy and safety of eltrombopag have not been established in patients with both moderate to severe renal impairment and hepatic impairment.
-
 Hepatic impairment
 
 The pharmacokinetics of eltrombopag have been studied after administration of eltrombopag to adult patients with hepatic impairment.
@@ -103,11 +102,12 @@ For patients with HCV initiate eltrombopag at a dose of 25 mg once daily (see se
 
 Race
 
-The influence of Asian ethnicity (such as Japanese, Chinese, Taiwanese and Korean) on the pharmacokinetics of eltrombopag was evaluated using a population pharmacokinetic analysis in 111 healthy adults (31 Asians) and 88 patients with ITP (18 Asians).
-Based on estimates from the population pharmacokinetic analysis, Asian ITP patients had approximately 49% higher plasma eltrombopag AUC(0-τ) values as compared to non-Asian patients who were predominantly Caucasian (see section 4.2).
+The influence of East-Asian ethnicity on the pharmacokinetics of eltrombopag was evaluated using a population pharmacokinetic analysis in 111 healthy adults (31 East-Asians) and 88 patients with ITP (18 East-Asians).
+Based on estimates from the population pharmacokinetic analysis, East-Asian ITP patients had approximately 49% higher plasma eltrombopag AUC(0-τ) values as compared to non-East-Asian patients who were predominantly Caucasian (see section 4.2).
 
-The influence of Asian ethnicity (such as Chinese, Japanese, Taiwanese, Korean, and Thai) on the pharmacokinetics of eltrombopag was evaluated using a population pharmacokinetic analysis in 635 patients with HCV (145 Asians and 69 South Asians).
-Based on estimates from the population pharmacokinetic analysis, Asian patients had approximately 55% higher plasma eltrombopag AUC(0-τ) values as compared to patients of other races who were predominantly Caucasian (see section 4.2).
+The influence of East-/Southeast-Asian ethnicity on the pharmacokinetics of eltrombopag was evaluated using a population pharmacokinetic analysis in 635 patients with HCV (145 East-Asians and 69 Southeast-Asians).
+Based on estimates from the population pharmacokinetic analysis, East- /Southeast-Asian patients had approximately 55% higher plasma eltrombopag AUC(0-τ) values as compared to patients of other races who were predominantly Caucasian (see section 4.2).
+
 Gender
 
 The influence of gender on the pharmacokinetics of eltrombopag was evaluated using a population pharmacokinetic analysis in 111 healthy adults (14 females) and 88 patients with ITP (57 females).
@@ -115,7 +115,6 @@ Based on estimates from the population pharmacokinetic analysis, female ITP pati
 
 The influence of gender on eltrombopag pharmacokinetics was evaluated using population pharmacokinetics analysis in 635 patients with HCV (260 females).
 Based on model estimate, female HCV patient had approximately 41% higher plasma eltrombopag AUC(0-τ) as compared to male patients.
-
 Age
 
 The influence of age on eltrombopag pharmacokinetics was evaluated using population pharmacokinetics analysis in 28 healthy subjects, 673 patients with HCV, and 41 patients with chronic liver disease of other aetiology ranging from 19 to 74 years old.
@@ -127,7 +126,7 @@ Paediatric population (aged 1 to 17 years)
 The pharmacokinetics of eltrombopag have been evaluated in 168 paediatric ITP patients dosed once daily in two studies, TRA108062/PETIT and TRA115450/PETIT-2.
 Plasma eltrombopag apparent clearance following oral administration (CL/F) increased with increasing body weight.
 The effects of race and sex on plasma eltrombopag CL/F estimates were consistent between paediatric and adult patients.
-Asian paediatric ITP patients had approximately 43% higher plasma eltrombopag AUC(0-τ) values as compared to non-Asian patients.
+East-/Southeast-Asian paediatric ITP patients had approximately 43% higher plasma eltrombopag AUC(0-τ) values as compared to non-Asian patients.
 Female paediatric ITP patients had approximately 25% higher plasma eltrombopag AUC(0-τ) values as compared to male patients.
 
 The pharmacokinetic parameters of eltrombopag in paediatric patients with ITP are shown in
@@ -143,7 +142,3 @@ Table 10 Geometric mean (95% CI) steady-state plasma eltrombopag pharmacokinetic
 
 Data presented as geometric mean (95%CI).
 AUC(0-τ) and Cmax based on population PK post-hoc estimates
-
-[Revolade 25 mg powder for oral suspension]
-
-Plasma eltrombopag concentration-time data collected in 590 patients with HCV enrolled in phase III studies TPL103922/ENABLE 1 and TPL108390/ENABLE 2 were combined with data from patients with HCV enrolled in the phase II study TPL102357 and healthy adult subjects in a population PK analysis.

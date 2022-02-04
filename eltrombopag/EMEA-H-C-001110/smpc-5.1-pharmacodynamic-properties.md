@@ -137,9 +137,9 @@ In the pre-antiviral treatment phase, patients received open-label eltrombopag t
 The median time to achieve the target platelet count ≥90,000/µl (ENABLE 1) or ≥100,000/µl (ENABLE 2) was 2 weeks.
 
 The primary efficacy endpoint for both studies was sustained virologic response (SVR), defined as the percentage of patients with no detectable HCV-RNA at 24 weeks after completion of the planned treatment period.
+
 In both HCV studies, a significantly greater proportion of patients treated with eltrombopag (n=201, 21%) achieved SVR compared to those treated with placebo (n=65, 13%) (see Table 7).
 The improvement in the proportion of patients who achieved SVR was consistent across all subgroups in the randomisation strata (baseline platelet counts (<50,000 vs. >50,000), viral load (<800,000 IU/ml vs. ≥800,000 IU/ml) and genotype (2/3 vs. 1/4/6)).
-
 Table 7 Virologic response in HCV patients in ENABLE 1 and ENABLE 2
 
 |  | Pooled data |  | ENABLE 1a |  | ENABLE 2b |  |
@@ -165,6 +165,7 @@ For ENABLE 1, 682 patients were randomised to the antiviral treatment phase; how
 Other secondary findings of the studies included the following: significantly fewer patients treated with eltrombopag prematurely discontinued antiviral therapy compared to placebo (45% vs. 60%, p=<0.0001).
 A greater proportion of patients on eltrombopag did not require any antiviral dose reduction as compared to placebo (45% vs. 27%).
 Eltrombopag treatment delayed and reduced the number of peginterferon dose reductions.
+
 Severe aplastic anaemia
 
 Eltrombopag was studied in a single-arm, single-centre open-label study in 43 patients with severe aplastic anaemia with refractory thrombocytopenia following at least one prior immunosuppressive therapy (IST) and who had a platelet count ≤30,000/µl.
@@ -173,7 +174,6 @@ The majority of patients, 33 (77%), were considered to have ‘primary refractor
 The remaining 10 patients had insufficient platelet response to prior therapies.
 All 10 had received at least 2 prior IST regimens and 50% had received at least 3 prior IST regimens.
 Patients with diagnosis of Fanconi anaemia, infection not responding to appropriate therapy, PNH clone size in neutrophils of ≥50%, where excluded from participation.
-
 At baseline the median platelet count was 20,000/µl, haemoglobin was 8.4 g/dl, ANC was 0.58 x 109/l and absolute reticulocyte count was 24.3 x 109/l.
 Eighty-six percent of patients were RBC transfusion dependent, and 91% were platelet transfusion dependent.
 The majority of patients (84%) had received at least 2 prior immunosuppressive therapies.
