@@ -8,8 +8,8 @@ No functional or pathological changes in smooth or cardiac muscle were observed.
 
 The lowest observable effect level (LOEL) for myopathy in rats and dogs occurred at exposure levels of 0.8 to 2.3-fold the human therapeutic levels at 6 mg/kg (30-minute intravenous infusion) for patients with normal renal function.
 As the pharmacokinetics (see section 5.2) is comparable, the safety margins for both methods of administration are very similar.
-
 A study in dogs demonstrated that skeletal myopathy was reduced upon once daily administration as compared to fractionated dosing at same total daily dose, suggesting that myopathic effects in animals were primarily related to time between doses.
+
 Effects on peripheral nerves were observed at higher doses than those associated with skeletal muscle effects in adult rats and dogs, and were primarily related to plasma Cmax.
 Peripheral nerve changes were characterised by minimal to slight axonal degeneration and were frequently accompanied by functional changes.
 Reversal of both the microscopic and functional effects was complete within 6 months post-dose.
@@ -23,7 +23,7 @@ This finding was not associated with an effect on muscle contraction.
 In contrast to adult dogs, juvenile dogs appeared to be more sensitive to peripheral nerve lesions as compared to skeletal myopathy.
 Juvenile dogs developed peripheral and spinal nerve lesions at doses lower than those associated with skeletal muscle toxicity.
 
-In neonatal dogs, daptomycin caused marked clinical signs of twitching, muscle rigidity in the limbs, and impaired use of limbs, which resulted in decreases in body weight and overall body condition at doses ≥50 mg/kg/day and necessitated early discontinuation of treatment in these dose groups.
+In neonatal dogs, daptomycin caused marked clinical signs of twitching, muscle rigidity in the limbs, and impaired use of limbs, which resulted in decreases in body weight and overall body condition at doses ≥ 50 mg/kg/day and necessitated early discontinuation of treatment in these dose groups.
 At lower dose levels (25 mg/kg/day), mild and reversible clinical signs of twitching and one incidence of muscle rigidity were observed without any effects on body weight.
 There was no histopathological correlation in the peripheral and central nervous system tissue, or in the skeletal muscle, at any dose level, and the mechanism and clinical relevance for the adverse clinical signs are therefore unknown.
 

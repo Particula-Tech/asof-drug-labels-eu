@@ -34,16 +34,15 @@ Clostridioides difficile-associated diarrhoea (CDAD) has been reported with Cubi
 If CDAD is suspected or confirmed, Cubicin may need to be discontinued and appropriate treatment instituted as clinically indicated.
 
 Drug/laboratory test interactions
-False prolongation of prothrombin time (PT) and elevation of international normalised ratio (INR) have been observed when certain recombinant thromboplastin reagents are utilised for the assay (see also section 4.5).
-
+False prolongation of prothrombin time (PT) and elevation of international normalised ratio (INR) have been observed when certain recombinant thromboplastin reagents are utilised for the assay (see section 4.5).
 Creatine phosphokinase and myopathy
-Increases in plasma creatine phosphokinase (CPK; MM isoenzyme) levels associated with muscular pains and/or weakness and cases of myositis, myoglobinaemia and rhabdomyolysis have been reported during therapy with Cubicin (see also sections 4.5, 4.8 and 5.3).
+Increases in plasma creatine phosphokinase (CPK; MM isoenzyme) levels associated with muscular pains and/or weakness and cases of myositis, myoglobinaemia and rhabdomyolysis have been reported during therapy with Cubicin (see sections 4.5, 4.8 and 5.3).
 In clinical studies, marked increases in plasma CPK to > 5x Upper Limit of Normal (ULN) without muscle symptoms occurred more commonly in Cubicin-treated patients (1.9 %) than in those that received comparators (0.5 %).
 Therefore, it is recommended that:
 
 - Plasma CPK should be measured at baseline and at regular intervals (at least once weekly) during therapy in all patients.
 - CPK should be measured more frequently (e.g. every 2-3 days at least during the first two weeks of treatment) in patients who are at higher risk of developing myopathy.
-  For example, patients with any degree of renal impairment (creatinine clearance < 80 ml/min; see also section 4.2), including those on haemodialysis or CAPD, and patients taking other medicinal products known to be associated with myopathy (e.g. HMG-CoA reductase inhibitors, fibrates and ciclosporin).
+  For example, patients with any degree of renal impairment (creatinine clearance < 80 ml/min; see section 4.2), including those on haemodialysis or CAPD, and patients taking other medicinal products known to be associated with myopathy (e.g. HMG-CoA reductase inhibitors, fibrates and ciclosporin).
 - It cannot be ruled out that those patients with CPK greater than 5 times upper limit of normal at baseline may be at increased risk of further increases during daptomycin therapy.
   This should be taken into account when initiating daptomycin therapy and, if daptomycin is given, these patients should be monitored more frequently than once weekly.
 - Cubicin should not be administered to patients who are taking other medicinal products associated with myopathy unless it is considered that the benefit to the patient outweighs the risk.
@@ -64,6 +63,7 @@ The majority of cases occurred after more than 2 weeks of treatment with Cubicin
 Recurrence of eosinophilic pneumonia upon re-exposure has been reported.
 Patients who develop these signs and symptoms while receiving Cubicin should undergo prompt medical evaluation, including, if appropriate, bronchoalveolar lavage, to exclude other causes (e.g. bacterial infection, fungal infection, parasites, other medicinal products).
 Cubicin should be discontinued immediately and treatment with systemic steroids should be initiated when appropriate.
+
 Severe cutaneous adverse reactions
 Severe cutaneous adverse reactions (SCARs) including drug reaction with eosinophilia and systemic symptoms (DRESS) and vesiculobullous rash with or without mucous membrane involvement (Stevens-Johnson Syndrome (SJS) or Toxic Epidermal Necrolysis (TEN)), which could be life-threatening or fatal, have been reported with daptomycin (see section 4.8).
 At the time of prescription, patients should be advised of the signs and symptoms of severe skin reactions, and be closely monitored.
@@ -85,14 +85,14 @@ The safety and efficacy of the dose interval adjustment have not been evaluated 
 Cubicin should only be used in such patients when it is considered that the expected clinical benefit outweighs the potential risk.
 
 Caution is advised when administering Cubicin to patients who already have some degree of renal impairment (creatinine clearance < 80 ml/min) before commencing therapy with Cubicin.
-Regular monitoring of renal function is advised (see also section 5.2).
+Regular monitoring of renal function is advised (see section 5.2).
 
-In addition, regular monitoring of renal function is advised during concomitant administration of potentially nephrotoxic agents, regardless of the patient’s pre-existing renal function (see also section 4.5).
+In addition, regular monitoring of renal function is advised during concomitant administration of potentially nephrotoxic agents, regardless of the patient’s pre-existing renal function (see section 4.5).
 
 The dosage regimen for Cubicin in paediatric patients with renal impairment has not been established.
 
 Obesity
-In obese subjects with Body Mass Index (BMI) > 40 kg/m2 but with creatinine clearance > 70 ml/min, the AUC0-∞daptomycin was significantly increased (mean 42 % higher) compared with non-obese matched controls.
+In obese subjects with Body Mass Index (BMI) > 40 kg/m2 but with creatinine clearance > 70 ml/min, the AUC0-∞ daptomycin was significantly increased (mean 42 % higher) compared with non-obese matched controls.
 There is limited information on the safety and efficacy of daptomycin in the very obese and so caution is recommended.
 However, there is currently no evidence that a dose reduction is required (see section 5.2).
 

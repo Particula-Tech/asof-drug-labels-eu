@@ -10,6 +10,7 @@ Breast-feeding
 In a single human case study, Cubicin was intravenously administered daily for 28 days to a nursing mother at a dose of 500 mg/day, and samples of the patient’s breast milk were collected over a 24-hour period on day 27.
 The highest measured concentration of daptomycin in the breast milk was 0.045 µg/ml, which is a low concentration.
 Therefore, until more experience is gained, breast-feeding should be discontinued when Cubicin is administered to nursing women.
+
 Fertility
 No clinical data on fertility are available for daptomycin.
 Animal studies do not indicate direct or indirect harmful effects with respect to fertility (see section 5.3).

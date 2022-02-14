@@ -37,7 +37,7 @@ About 5 % of the administered radiolabel was excreted in the faeces.
 Special populations
 
 Elderly
-Following administration of a single 4 mg/kg intravenous dose of Cubicin over a 30-minute period, the mean total clearance of daptomycin was approximately 35 % lower and the mean AUC0-∞was approximately 58 % higher in elderly subjects (≥75 years of age) compared with those in healthy young subjects (18 to 30 years of age).
+Following administration of a single 4 mg/kg intravenous dose of Cubicin over a 30-minute period, the mean total clearance of daptomycin was approximately 35 % lower and the mean AUC0-∞ was approximately 58 % higher in elderly subjects (≥ 75 years of age) compared with those in healthy young subjects (18 to 30 years of age).
 There were no differences in Cmax.
 The differences noted are most likely due to the normal reduction in renal function observed in the geriatric population.
 
@@ -96,6 +96,9 @@ However, no dose adjustment is considered to be necessary based on obesity alone
 
 Gender
 No clinically significant gender-related differences in daptomycin pharmacokinetics have been observed.
+
+Race
+No clinically significant differences in daptomycin pharmacokinetics have been observed in Black or Japanese subjects relative to Caucasian subjects.
 
 Renal impairment
 Following administration of a single 4 mg/kg or 6 mg/kg intravenous dose of daptomycin over a 30-minute period to adult subjects with various degrees of renal impairment, total daptomycin clearance (CL) decreased and systemic exposure (AUC) increased as renal function (creatinine clearance) decreased.

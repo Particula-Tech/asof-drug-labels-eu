@@ -6,22 +6,23 @@ Within these trials, 1,221 subjects received a daily dose of 4 mg/kg, of whom 1,
 In paediatric studies, 372 patients received Cubicin, of whom 61 received a single dose and 311 received a therapeutic regimen for cSSTI or SAB (daily doses ranged from 4 mg/kg to 12 mg/kg).
 Adverse reactions (i.e. considered by the investigator to be possibly, probably, or definitely related to the medicinal product) were reported at similar frequencies for Cubicin and comparator regimens.
 
-The most frequently reported adverse reactions (frequency common (≥1/100 to < 1/10)) are:
+The most frequently reported adverse reactions (frequency common (≥ 1/100 to < 1/10)) are:
 Fungal infections, urinary tract infection, candida infection, anaemia, anxiety, insomnia, dizziness, headache, hypertension, hypotension, gastrointestinal and abdominal pain, nausea, vomiting, constipation, diarrhoea, flatulence, bloating and distension, liver function tests abnormal (increased alanine aminotransferase (ALT), aspartate aminotransferase (AST) or alkaline phosphatase (ALP)), rash, pruritus, limb pain, serum creatine phosphokinase (CPK) increased, infusion site reactions, pyrexia, asthenia.
 
 Less frequently reported, but more serious, adverse reactions include hypersensitivity reactions, eosinophilic pneumonia (occasionally presenting as organising pneumonia), drug reaction with eosinophilia and systemic symptoms (DRESS), angioedema and rhabdomyolysis.
 
 Tabulated list of adverse reactions
-The following adverse reactions were reported during therapy and during follow-up with frequencies corresponding to very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to
-< 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data):
+The following adverse reactions were reported during therapy and during follow-up with frequencies corresponding to very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to
+< 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data):
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Table 1 Adverse reactions from clinical studies and post-marketing reports
 
 System organ class Frequency Adverse reactions
+Infections and infestations Common: Fungal infections, urinary tract infection, candida
 
-Infections and infestations Common: Fungal infections, urinary tract infection, candida infection
+infection
 Uncommon: Fungaemia
 Not known*: Clostridioides difficile-associated diarrhoea** Blood and lymphatic system Common: Anaemia
 
@@ -36,8 +37,9 @@ Not known*: Thrombocytopaenia
 System organ class Frequency Adverse reactions
 Immune system disorders Not known*: Hypersensitivity**, manifested by isolated
 
-spontaneous reports including, but not limited to angioedema, pulmonary eosinophilia, sensation of oropharyngeal swelling, anaphylaxis**, infusion reactions including the following symptoms: tachycardia, wheezing, pyrexia, rigors, systemic flushing, vertigo, syncope and metallic taste Metabolism and nutrition Uncommon: Decreased appetite, hyperglycaemia, electrolyte
+spontaneous reports including, but not limited to angioedema, pulmonary eosinophilia, sensation of oropharyngeal swelling, anaphylaxis**, infusion reactions including the following symptoms: tachycardia, wheezing, pyrexia, rigors, systemic flushing, vertigo, syncope and metallic taste
 
+Metabolism and nutrition Uncommon: Decreased appetite, hyperglycaemia, electrolyte
 disorders imbalance
 Psychiatric disorders Common: Anxiety, insomnia
 Nervous system disorders Common: Dizziness, headache
@@ -49,7 +51,10 @@ Cardiac disorders Uncommon: Supraventricular tachycardia, extrasystole
 Vascular disorders Common: Hypertension, hypotension
 
 Uncommon: Flushes
-Respiratory, thoracic and Not known*: Eosinophilic pneumonia1**, cough mediastinal disorders
+
+Respiratory, thoracic and Not known*: Eosinophilic pneumonia1**, cough
+
+mediastinal disorders
 
 Gastrointestinal disorders Common: Gastrointestinal and abdominal pain, nausea,
 
@@ -75,7 +80,10 @@ Uncommon: Myositis, increased myoglobin, muscular weakness, muscle pain, arthral
 Not known*: Rhabdomyolysis3 **
 Renal and urinary disorders Uncommon: Renal impairment, including renal failure and renal insufficiency, serum creatinine increased
 Not known*: Tubulointerstitial nephritis (TIN)**
-Reproductive system and Uncommon: Vaginitis breast disorders
+
+Reproductive system and Uncommon: Vaginitis
+
+breast disorders
 
 General disorders and Common: Infusion site reactions, pyrexia, asthenia
 

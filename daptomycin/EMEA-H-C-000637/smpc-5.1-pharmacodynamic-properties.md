@@ -18,7 +18,7 @@ In particular, there have been reports of treatment failures in patients infecte
 
 The mechanism(s) of daptomycin resistance is (are) not fully understood.
 Breakpoints
-Minimum inhibitory concentration (MIC) breakpoint established by the European Committee on Antimicrobial Susceptibility Testing (EUCAST) for Staphylococci and Streptococci (except S. pneumoniae) are Susceptible ≤1 mg/l and Resistant > 1 mg/l.
+Minimum inhibitory concentration (MIC) breakpoint established by the European Committee on Antimicrobial Susceptibility Testing (EUCAST) for Staphylococci and Streptococci (except S. pneumoniae) are Susceptible ≤ 1 mg/l and Resistant > 1 mg/l.
 
 Susceptibility
 The prevalence of resistance may vary geographically and over time for selected species and local information on resistance is desirable, particularly when treating severe infections.

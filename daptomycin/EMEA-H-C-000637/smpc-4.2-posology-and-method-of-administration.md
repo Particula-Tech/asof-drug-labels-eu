@@ -3,7 +3,7 @@
 Clinical studies in patients employed infusion of daptomycin over at least 30 minutes.
 There is no clinical experience in patients with the administration of daptomycin as an injection over 2 minutes.
 This mode of administration was only studied in healthy subjects.
-However, when compared with the same doses given as intravenous infusions over 30 minutes there were no clinically important differences in the pharmacokinetics and safety profile of daptomycin (see also sections 4.8 and 5.2).
+However, when compared with the same doses given as intravenous infusions over 30 minutes there were no clinically important differences in the pharmacokinetics and safety profile of daptomycin (see sections 4.8 and 5.2).
 Posology
 
 Adults
@@ -25,16 +25,16 @@ Renal impairment
 Daptomycin is eliminated primarily by the kidney.
 
 Due to limited clinical experience (see table and footnotes below) Cubicin should only be used in adult patients with any degree of renal impairment (CrCl < 80 ml/min) when it is considered that the expected clinical benefit outweighs the potential risk.
-The response to treatment, renal function and creatine phosphokinase (CPK) levels should be closely monitored in all patients with any degree of renal impairment (see also sections 4.4 and 5.2).
+The response to treatment, renal function and creatine phosphokinase (CPK) levels should be closely monitored in all patients with any degree of renal impairment (see sections 4.4 and 5.2).
 The dosage regimen for Cubicin in paediatric patients with renal impairment has not been established.
 
 Dose adjustments in adult patients with renal impairment by indication and creatinine clearance
 
 | Indication for use | Creatinine clearance | Dose recommendation | Comments |
 | --- | --- | --- | --- |
-| cSSTI without SAB | ≥30 ml/min | 4 mg/kg once daily | See section 5.1 |
+| cSSTI without SAB | ≥ 30 ml/min | 4 mg/kg once daily | See section 5.1 |
 |  | < 30 ml/min | 4 mg/kg every 48 hours | (1, 2) |
-| RIE or cSSTI associated with SAB | ≥30 ml/min | 6 mg/kg once daily | See section 5.1 |
+| RIE or cSSTI associated with SAB | ≥ 30 ml/min | 6 mg/kg once daily | See section 5.1 |
 |  | < 30 ml/min | 6 mg/kg every 48 hours | (1, 2) |
 | cSSTI = complicated skin and soft-tissue infections; SAB = S. aureus bacteraemia (1) The safety and efficacy of the dose interval adjustment have not been evaluated in controlled clinical trials and the recommendation is based on pharmacokinetic studies and modelling results (see sections 4.4 and 5.2). (2) The same dose adjustments, which are based on pharmacokinetic data in volunteers including PK modelling results, are recommended for adult patients on haemodialysis (HD) or continuous ambulatory peritoneal dialysis (CAPD). Whenever possible, Cubicin should be administered following the completion of dialysis on dialysis days (see section 5.2). |  |  |  |
 
@@ -70,5 +70,4 @@ In adults, Cubicin is given by intravenous infusion (see section 6.6) and admini
 
 In paediatric patients aged 7 to 17 years, Cubicin is given by intravenous infusion over a 30-minute period (see section 6.6).
 In paediatric patients aged 1 to 6 years, Cubicin is given by intravenous infusion over a 60-minute period (see section 6.6).
-
 For instructions on reconstitution and dilution of the medicinal product before administration, see section 6.6.

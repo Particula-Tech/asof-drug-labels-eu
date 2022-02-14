@@ -13,7 +13,6 @@ A 50 mg/ml concentration of Cubicin 500 mg powder for infusion is obtained by re
 
 The lyophilised product takes approximately 15 minutes to dissolve.
 The fully reconstituted product will appear clear and may have a few small bubbles or foam around the edge of the vial.
-
 Cubicin 350 mg powder for solution for injection or infusion
 To prepare Cubicin for intravenous infusion, please adhere to the following instructions:
 Aseptic technique should be used throughout to reconstitute or dilute lyophilised Cubicin.
