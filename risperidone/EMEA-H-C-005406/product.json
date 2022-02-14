@@ -1,0 +1,16 @@
+{
+  "active_substance": "risperidone",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/005406",
+  "eu_number": "EU/1/21/1621",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2022-02-14",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/okedi",
+  "molecule": "risperidone",
+  "molecule_name": "RISPERIDONE",
+  "name": "Okedi",
+  "register_name": "OKEDI",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h1621.htm"
+}
