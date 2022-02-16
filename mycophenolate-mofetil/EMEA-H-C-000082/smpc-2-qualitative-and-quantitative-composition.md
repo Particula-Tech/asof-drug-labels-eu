@@ -2,21 +2,17 @@
 
 Each capsule contains 250 mg mycophenolate mofetil.
 
-Excipient(s) with known effect
-
-Sodium less than 1 mmol (23 mg) per dose
-
 For the full list of excipients, see section 6.1.
 
-[CellCept 500 mg powder for concentrate for solution for infusion.]
+[CellCept 500 mg powder for concentrate for solution for infusion]
 
-Each vial contains the equivalent of 500 mg mycophenolate mofetil (as hydrochloride salt).
+Each vial contains 500 mg mycophenolate mofetil (as hydrochloride).
 
-[CellCept 1 g/5 ml powder for oral suspension.]
+[CellCept 1 g/5 ml powder for oral suspension]
 
 Each bottle contains 35 g mycophenolate mofetil in 110 g powder for oral suspension.
 5 ml of the reconstituted suspension contains 1 g of mycophenolate mofetil.
 
-[CellCept 500 mg film-coated tablets.]
+[CellCept 500 mg film-coated tablets]
 
 Each tablet contains 500 mg mycophenolate mofetil.

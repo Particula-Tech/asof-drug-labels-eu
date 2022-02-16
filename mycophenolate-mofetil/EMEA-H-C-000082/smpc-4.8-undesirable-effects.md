@@ -1,21 +1,19 @@
 # 4.8 Undesirable effects
 
-Summary of safety profile
-An estimated total of 1557 patients received CellCept during five clinical trials in the prevention of acute organ rejection.
-Of these, 991 were included in the three renal studies, 277 were included in one hepatic study, and 289 were included in one cardiac study.
-Azathioprine was the comparator used in the hepatic and cardiac studies and in two of the renal studies whilst the other renal study was placebo-controlled.
-Patients in all study arms also received cyclosporine and corticosteroids.
-The types of adverse reactions reported during post-marketing with CellCept are similar to those seen in the controlled renal, cardiac and hepatic transplant studies.
-Diarrhoea, leukopenia, sepsis and vomiting were among the most common and/or serious adverse drug reactions associated with the administration of CellCept in combination with ciclosporin and corticosteroids.
+Summary of the safety profile
+
+Diarrhoea (up to 52.6%), leukopenia (up to 45.8%), bacterial infections (up to 39.9%) and vomiting (up to 39.1%) were among the most common and/or serious adverse reactions associated with the administration of CellCept in combination with ciclosporin and corticosteroids.
 There is also evidence of a higher frequency of certain types of infections (see section 4.4).
 
 Tabulated list of adverse reactions
-The adverse drug reactions (ADRs) from clinical trials and post-marketing experience are listed in Table 1, by MedDRA system organ class (SOC) along with their frequencies.
-The corresponding frequency category for each adverse drug reaction is based on the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000) and very rare (<1/10,000).
-Due to the large differences observed in the frequency of certain ADRs across the different transplant indications, the frequency is presented separately for renal, hepatic and cardiac transplant patients.
-Table 1 Summary of adverse drug reactions occurring in patients treated with CellCept reported from clinical trials and post-marketing experience
 
-| Adverse drug reaction (MedDRA) System Organ Class | Renal transplant n = 991 | Hepatic transplant n = 277 | Cardiac transplant n = 289 |
+The adverse reactions from clinical trials and post-marketing experience are listed in Table 1, by MedDRA system organ class (SOC) along with their frequencies.
+The corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000) and very rare (<1/10,000).
+Due to the large differences observed in the frequency of certain adverse reactions across the different transplant indications, the frequency is presented separately for renal, hepatic and cardiac transplant patients.
+
+Table 1 Adverse reactions
+
+| Adverse reaction (MedDRA) System Organ Class | Renal transplant | Hepatic transplant | Cardiac transplant |
 | --- | --- | --- | --- |
 |  | Frequency | Frequency | Frequency |
 | Infections and infestations |  |  |  |
@@ -130,14 +128,12 @@ Table 1 Summary of adverse drug reactions occurring in patients treated with Cel
 | General disorders and administration site conditions |  |  |  |
 | Asthenia | Very Common | Very Common | Very Common |
 | Chills | Common | Very Common | Very Common |
-| Edema | Very Common | Very Common | Very Common |
+| Oedema | Very Common | Very Common | Very Common |
 | Hernia | Common | Very Common | Very Common |
 | Malaise | Common | Common | Common |
 | Pain | Common | Very Common | Very Common |
 | Pyrexia | Very Common | Very Common | Very Common |
 | De novo purine synthesis inhibitors associated acute inflammatory syndrome | Uncommon | Uncommon | Uncommon |
-
-Note: 991 (2 g /3 g CellCept daily), 289 (3 g CellCept daily) and 277 (2 g IV / 3 g oral CellCept daily) patients were treated in Phase III studies for the prevention of rejection in renal, cardiac and hepatic transplantation, respectively.
 
 Description of selected adverse reactions
 
@@ -168,8 +164,8 @@ These changes may suggest a ‘left shift’ in the maturity of neutrophils in h
 Gastrointestinal disorders
 The most serious gastrointestinal disorders were ulceration and hemorrhage which are known risks associated with mycophenolate mofetil.
 Mouth, esophageal, gastric, duodenal, and intestinal ulcers often complicated by hemorrhage, as well as hematemesis, melena, and hemorrhagic forms of gastritis and colitis were commonly reported during the pivotal clinical trials.
-The most common gastrointestinal disorders, however, were diarrhea, nausea and vomiting.
-Endoscopic investigation of patients with CellCept-related diarrhea have revealed isolated cases of intestinal villous atrophy (see section 4.4).
+The most common gastrointestinal disorders, however, were diarrhoea, nausea and vomiting.
+Endoscopic investigation of patients with CellCept-related diarrhoea have revealed isolated cases of intestinal villous atrophy (see section 4.4).
 
 Hypersensitivity
 Hypersensitivity reactions, including angioneurotic oedema and anaphylactic reaction, have been reported.
@@ -188,7 +184,7 @@ Immune system disorders
 Hypogammaglobulinaemia has been reported in patients receiving CellCept in combination with other immunosuppressants.
 
 General disorders and administration site conditions
-Edema, including peripheral, face and scrotal edema, was reported very commonly during the pivotal trials.
+Oedema, including peripheral, face and scrotal oedema, was reported very commonly during the pivotal trials.
 Musculoskeletal pain such as myalgia, and neck and back pain were also very commonly reported.
 
 De novo purine synthesis inhibitors associated acute inflammatory syndrome has been described from post-marketing experience as a paradoxical proinflammatory reaction associated with mycophenolate mofetil and mycophenolic acid, characterised by fever, arthralgia, arthritis, muscle pain and elevated inflammatory markers.
@@ -210,18 +206,11 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-[CellCept 500 mg powder for concentrate for solution for infusion.]
+[CellCept 500 mg powder for concentrate for solution for infusion]
 
-An estimated total of 1268 patients received CellCept during four clinical trials in the prevention of acute organ rejection.
-Of these, 991 were included in the three renal studies and 277 were included in one hepatic study.
-Azathioprine was the comparator used in the hepatic study and in two of the renal studies whilst the other renal study was placebo-controlled.
-The types of adverse reactions reported during post-marketing with CellCept are similar to those seen in the controlled renal and hepatic transplant studies.
+Due to the large differences observed in the frequency of certain adverse reactions across the different transplant indications, the frequency is presented separately for renal and hepatic transplant patients.
 
-Diarrhoea, leukopenia, sepsis and vomiting were among the most common and/or serious adverse drugs reactions associated with the administration of CellCept in combination with ciclosporin and corticosteroids.
-
-Due to the large differences observed in the frequency of certain ADRs across the different transplant indications, the frequency is presented separately for renal and hepatic transplant patients.
-
-| Adverse drug reaction (MedDRA) System Organ Class | Renal transplant (n = 991) | Hepatic transplant (n = 277) |
+| Adverse reaction (MedDRA) System Organ Class | Renal transplant | Hepatic transplant |
 | --- | --- | --- |
 |  | Frequency | Frequency |
 | Infections and infestations |  |  |
@@ -336,14 +325,12 @@ Due to the large differences observed in the frequency of certain ADRs across th
 | General disorders and administration site conditions |  |  |
 | Asthenia | Very Common | Very Common |
 | Chills | Common | Very Common |
-| Edema | Very Common | Very Common |
+| Oedema | Very Common | Very Common |
 | Hernia | Common | Very Common |
 | Malaise | Common | Common |
 | Pain | Common | Very Common |
 | Pyrexia | Very Common | Very Common |
 | De novo purine synthesis inhibitors associated acute inflammatory syndrome | Uncommon | Uncommon |
-
-Note: 991 (2 g / 3 g CellCept daily) and 277 (2 g IV / 3 g oral CellCept daily) patients were treated in Phase III studies for the prevention of rejection in renal and hepatic transplantation, respectively
 
 Adverse reactions attributable to peripheral venous infusion were phlebitis and thrombosis, both observed at 4% in patients treated with CellCept 500 mg powder for concentrate for solution for infusion.
 
@@ -352,7 +339,7 @@ Three-year safety data in renal transplant patients did not reveal any unexpecte
 The most serious infections were sepsis, peritonitis, meningitis, endocarditis tuberculosis and atypical mycobacterial infection.
 The most common opportunistic infections in patients receiving CellCept (2 g or 3 g daily) with other immunosuppressants in controlled clinical trials in renal and hepatic transplant patients followed for at least 1 year were candida mucocutaneous, CMV viraemia/syndrome and Herpes simplex.
 
-[CellCept 1 g/5 ml powder for oral suspension.]
+[CellCept 1 g/5 ml powder for oral suspension]
 
 There is evidence of a higher frequency of certain types of infections (see section 4.4).
 
@@ -360,8 +347,6 @@ Hypersensitivity reactions, including angioneurotic oedema and anaphylactic reac
 
 However, the following treatment-related adverse events were more frequent in the paediatric population, particularly in children under 6 years of age, when compared to adults: diarrhoea, sepsis, leukopenia, anaemia and infection.
 
-[CellCept 500 mg film-coated tablets.]
-
-Note: 991 (2 g / 3 g CellCept daily), 289 (3 g CellCept daily) and 277 (2 g IV / 3 g oral CellCept daily) patients were treated in Phase III studies for the prevention of rejection in renal, cardiac and hepatic transplantation, respectively.
+[CellCept 500 mg film-coated tablets]
 
 Elderly patients receiving CellCept as part of a combination immunosuppressive regimen, may be at increased risk of certain infections (including cytomegalovirus tissue invasive disease) and possibly gastrointestinal haemorrhage and pulmonary oedema, compared to younger individuals.

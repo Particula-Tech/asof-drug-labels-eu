@@ -1,15 +1,18 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Aciclovir
+
 Higher aciclovir plasma concentrations were observed when mycophenolate mofetil was administered with aciclovir in comparison to the administration of aciclovir alone.
 The changes in MPAG (the phenolic glucuronide of MPA) pharmacokinetics (MPAG increased by 8%) were minimal and are not considered clinically significant.
 Because MPAG plasma concentrations are increased in the presence of renal impairment, as are aciclovir concentrations, the potential exists for mycophenolate mofetil and aciclovir, or its prodrugs, e.g. valaciclovir, to compete for tubular secretion and further increases in concentrations of both substances may occur.
-
 Antacids and proton pump inhibitors (PPIs)
+
 Decreased MPA exposure has been observed when antacids, such as magnesium and aluminium hydroxides, and PPIs, including lansoprazole and pantoprazole, were administered with CellCept.
 When comparing rates of transplant rejection or rates of graft loss between CellCept patients taking PPIs vs. CellCept patients not taking PPIs, no significant differences were seen.
 Theses data support extrapolation of this finding to all antacids because the reduction in exposure when CellCept was co-administered with magnesium and aluminium hydroxides is considerably less than when CellCept was co-administered with PPIs.
+
 Medicinal products that interfere with enterohepatic recirculation (e.g. cholestyramine, ciclosporin A, antibiotics)
+
 Caution should be used with medicinal products that interfere with enterohepatic recirculation because of their potential to reduce the efficacy of CellCept.
 
 Cholestyramine
@@ -38,17 +41,17 @@ However, norfloxacin and metronidazole combined reduced the MPA exposure by appr
 
 Trimethoprim/sulfamethoxazole
 No effect on the bioavailability of MPA was observed.
-
 Medicinal products that affect glucuronidation (e.g. isavuconazole, telmisartan)
+
 Concomitant administration of drugs affecting glucuronidation of MPA may change MPA exposure.
 Caution is therefore recommended when administering these drugs concomitantly with CellCept.
 
 Isavuconazole
-An increase of MPA AUC0-∞ by 35% was observed with concomitant administration of isavuconazole.
+An increase of MPA exposure (AUC0-∞) by 35% was observed with concomitant administration of isavuconazole.
 
 Telmisartan
 Concomitant administration of telmisartan and CellCept resulted in an approximately 30% decrease of MPA concentrations.
-Telmisartan changes MPA’s elimination by enhancing PPAR gamma (peroxisome proliferator-activated receptor gamma) expression, which in turn results in an enhanced UGT1A9 expression and activity.
+Telmisartan changes MPA’s elimination by enhancing PPAR gamma (peroxisome proliferator-activated receptor gamma) expression, which in turn results in an enhanced uridine diphosphate glucuronyltransferase isoform 1A9 (UGT1A9) expression and activity.
 When comparing rates of transplant rejection, rates of graft loss or adverse event profiles between CellCept patients with and without concomitant telmisartan medication, no clinical consequences of the pharmacokinetic drug-drug interaction were seen.
 
 Ganciclovir
@@ -57,7 +60,7 @@ No substantial alteration of MPA pharmacokinetics is anticipated and CellCept do
 In patients with renal impairment in whom CellCept and ganciclovir or its prodrugs, e.g. valganciclovir, are co-administered, the dose recommendations for ganciclovir should be observed and patients should be monitored carefully.
 
 Oral contraceptives
-The pharmacokinetics and pharmacodynamics of oral contraceptives were unaffected by co-administration of CellCept (see also section 5.2).
+The pharmacodynamics and pharmacokinetics of oral contraceptives were not affected to a clinically relevant degree by co-administration of CellCept (see also section 5.2).
 
 Rifampicin
 In patients not also taking ciclosporin, concomitant administration of CellCept and rifampicin resulted in a decrease in MPA exposure (AUC0-12h) of 18% to 70%.
@@ -76,29 +79,28 @@ However, in renal transplant patients, tacrolimus concentration did not appear t
 Live vaccines
 Live vaccines should not be given to patients with an impaired immune response.
 The antibody response to other vaccines may be diminished (see also section 4.4).
-
 Paediatric population
+
 Interaction studies have only been performed in adults.
 
 Potential interaction
+
 Co-administration of probenecid with mycophenolate mofetil in monkeys raises plasma AUC of MPAG by 3-fold.
 Thus, other substances known to undergo renal tubular secretion may compete with MPAG, and thereby raise plasma concentrations of MPAG or the other substance undergoing tubular secretion.
 
-[CellCept 500 mg powder for concentrate for solution for infusion.]
+[CellCept 500 mg powder for concentrate for solution for infusion]
 
 Because MPAG plasma concentrations are increased in the presence of renal impairment, as are aciclovir concentrations, the potential exists for mycophenolate mofetil and aciclovir, or its prodrugs, e.g. valaciclovir, to compete for tubular secretion, and further increases in concentrations of both substances may occur.
 
 Following single dose, oral administration of 1.5 g of mycophenolate mofetil to normal healthy subjects pre-treated with 4 g TID of cholestyramine for 4 days, there was a 40% reduction in the AUC of MPA (see section 4.4, and section 5.2).
 
-Antibiotics eliminating -glucuronidase-producing bacteria in the intestine (e.g. aminoglycoside, cephalosporin, fluoroquinolone, and penicillin classes of antibiotics) may interfere with MPAG/MPA enterohepatic recirculation, thus leading to reduced systemic MPA exposure.
+[CellCept 1 g/5 ml powder for oral suspension]
 
-[CellCept 1 g/5 ml powder for oral suspension.]
-
-These data support extrapolation of this finding to all antacids because the reduction in exposure when CellCept was co-administered with magnesium and aluminium hydroxides is considerably less than when CellCept was co-administered with PPIs.
+These data support extrapolation of this finding to all antacids because the reduction in exposure when CellCept was co- administered with magnesium and aluminium hydroxides is considerably less than when CellCept was co-administered with PPIs.
 
 Following single dose administration of 1.5 g of mycophenolate mofetil to normal healthy subjects pre-treated with 4 g TID of cholestyramine for 4 days, there was a 40% reduction in the AUC of MPA.
 (see section 4.4, and section 5.2).
 
-[CellCept 500 mg film-coated tablets.]
+[CellCept 500 mg film-coated tablets]
 
 The antibody response to other vaccines may be diminished (see also 4.4).

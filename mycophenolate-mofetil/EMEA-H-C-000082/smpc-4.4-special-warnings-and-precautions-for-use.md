@@ -12,6 +12,7 @@ Patients treated with immunosuppressants, including CellCept, are at increased r
 Such infections include latent viral reactivation, such as hepatitis B or hepatitis C reactivation and infections caused by polyomaviruses (BK virus associated nephropathy, JC virus associated progressive multifocal leukoencephalopathy PML).
 Cases of hepatitis due to reactivation of hepatitis B or hepatitis C have been reported in carrier patients treated with immunosuppressants.
 These infections are often related to a high total immunosuppressive burden and may lead to serious or fatal conditions that physicians should consider in the differential diagnosis in immunosuppressed patients with deteriorating renal function or neurological symptoms.
+Mycophenolic acid has a cytostatic effect on B- and T-lymphocytes, therefore an increased severity of COVID-19 may occur, and appropriate clinical action should be considered.
 
 There have been reports of hypogammaglobulinaemia in association with recurrent infections in patients receiving CellCept in combination with other immunosuppressants.
 In some of these cases, switching CellCept to an alternative immunosuppressant resulted in serum IgG levels returning to normal.
@@ -46,7 +47,7 @@ CellCept has been associated with an increased incidence of digestive system adv
 CellCept should be administered with caution in patients with active serious digestive system disease.
 
 CellCept is an IMPDH (inosine monophosphate dehydrogenase) inhibitor.
-Therefore, it should be avoided in patients with rare hereditary deficiency of hypoxanthine-guanine phosphoribosyltransferase (HGPRT) such as Lesch-Nyhan and Kelley-Seegmiller syndrome.
+Therefore, it should be avoided in patients with rare hereditary deficiency of hypoxanthine-guanine phosphoribosyl-transferase (HGPRT) such as Lesch-Nyhan and Kelley-Seegmiller syndrome.
 
 Interactions
 
@@ -78,15 +79,21 @@ Two complementary forms of contraception simultaneously are preferred to minimis
 For contraception advice for men see section 4.6.
 
 Educational materials
+
 In order to assist patients in avoiding foetal exposure to mycophenolate and to provide additional important safety information, the Marketing Authorisation Holder will provide educational materials to healthcare professionals.
 The educational materials will reinforce the warnings about the teratogenicity of mycophenolate, provide advice on contraception before therapy is started and guidance on the need for pregnancy testing.
 Full patient information about the teratogenic risk and the pregnancy prevention measures should be given by the physician to women of childbearing potential and, as appropriate, to male patients.
 
 Additional precautions
+
 Patients should not donate blood during therapy or for at least 6 weeks following discontinuation of mycophenolate.
 Men should not donate semen during therapy or for 90 days following discontinuation of mycophenolate.
 
-[CellCept 500 mg powder for concentrate for solution for infusion.]
+Sodium contents
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially ‘sodium- free’.
+
+[CellCept 500 mg powder for concentrate for solution for infusion]
 
 Such infections include latent viral reactivation, such as hepatitis B or hepatitis C reactivation and infections caused by polyomaviruses (BK virus-associated nephropathy, JC virus-associated progressive multifocal leukoencephalopathy PML).
 
@@ -94,14 +101,19 @@ If neutropenia develops (absolute neutrophil count < 1.3 x 103/µl) it may be ap
 
 Patients should be advised that, during treatment with CellCept, vaccinations may be less effective, and the use of live attenuated vaccines should be avoided (see section 4.5).
 
+Therefore, it should be avoided in patients with rare hereditary deficiency of hypoxanthine-guanine phosphoribosyltransferase (HGPRT) such as Lesch-Nyhan and Kelley-Seegmiller syndrome.
+
 Drugs which interfere with MPA’s enterohepatic cycle (e.g. cholesterolamine, antibiotics) should be used with caution due to their potential to reduce the plasma levels and efficacy of CellCept (see also section 4.5).
 Some degree of enterohepatic recirculation is anticipated following intravenous administration of CellCept.
 
 Therefore, women with childbearing potential must use at least one form of reliable contraception (see section 4.3) before starting CellCept therapy, during therapy, and for six weeks after stopping the therapy, unless abstinence is the chosen method of contraception.
 
-[CellCept 1 g/5 ml powder for oral suspension.]
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ‘sodium- free’.
+
+[CellCept 1 g/5 ml powder for oral suspension]
 
 In some of these cases switching CellCept to an alternative immunosuppressant resulted in serum IgG levels returning to normal.
+
 In some of these cases switching CellCept to another immunosuppressant resulted in improvement in respiratory symptoms.
 
 Patients should be advised, that during treatment with CellCept, vaccinations may be less effective, and the use of live attenuated vaccines should be avoided (see section 4.5).
@@ -114,6 +126,8 @@ Therefore, care should be taken if CellCept 1 g/5 ml powder for oral suspension 
 This medicinal product contains sorbitol.
 Patients with rare hereditary problems of fructose intolerance should not take this medicine.
 
-[CellCept 500 mg film-coated tablets.]
+[CellCept 500 mg film-coated tablets]
 
 Drugs which interfere with MPA’s enterohepatic cycle (e.g. cholestyramine, antibiotics) should be used with caution due to their potential to reduce the plasma level and efficacy of CellCept (see also section 4.5).
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium- free’.

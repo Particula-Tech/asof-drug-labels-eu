@@ -2,7 +2,7 @@
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-[CellCept 500 mg powder for concentrate for solution for infusion.]
+[CellCept 500 mg powder for concentrate for solution for infusion]
 
 Preparation of Infusion Solution (6 mg/ml)
 
@@ -28,7 +28,7 @@ Discard the infusion solution if particulate matter or discolouration is observe
 If the infusion solution is not prepared immediately prior to administration, the commencement of administration of the infusion solution should be within 3 hours from reconstitution and dilution of the medicinal product.
 Keep solutions at 15 – 30°C.
 
-[CellCept 1 g/5 ml powder for oral suspension.]
+[CellCept 1 g/5 ml powder for oral suspension]
 
 It is recommended that CellCept 1 g/5 ml powder for oral suspension be reconstituted by the pharmacist prior to dispensing to the patient.
 Wearing disposable gloves is recommended during reconstitution and when wiping the outer surface of the bottle/cap and the table after reconstitution.
@@ -52,6 +52,6 @@ This will assure the proper seating of the bottle adapter in the bottle and chil
 Write the date of expiration of the reconstituted suspension on the bottle label.
 (The shelf-life of the reconstituted suspension is two months.)
 
-[CellCept 500 mg film-coated tablets.]
+[CellCept 500 mg film-coated tablets]
 
 (all sentences already above)
