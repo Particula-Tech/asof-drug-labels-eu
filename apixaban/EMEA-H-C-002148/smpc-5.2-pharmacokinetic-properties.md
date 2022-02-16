@@ -46,7 +46,7 @@ Renal impairment
 There was no impact of impaired renal function on peak concentration of apixaban.
 There was an increase in apixaban exposure correlated to decrease in renal function, as assessed via measured creatinine clearance.
 In individuals with mild (creatinine clearance 51-80 mL/min), moderate (creatinine clearance 30-50 mL/min) and severe (creatinine clearance 15-29 mL/min) renal impairment, apixaban plasma concentrations (AUC) were increased 16, 29, and 44% respectively, compared to individuals with normal creatinine clearance.
-Renal impairment had no evident effect on the relationship between apixaban plasma concentration and anti-FXa activity.
+Renal impairment had no evident effect on the relationship between apixaban plasma concentration and anti-Factor Xa activity.
 
 In subjects with end-stage renal disease (ESRD), the AUC of apixaban was increased by 36% when a single dose of apixaban 5 mg was administered immediately after haemodialysis, compared to that seen in subjects with normal renal function.
 Haemodialysis, started two hours after administration of a single dose of apixaban 5 mg, decreased apixaban AUC by 14% in these ESRD subjects, corresponding to an apixaban dialysis clearance of 18 mL/min.
@@ -71,6 +71,6 @@ Compared to apixaban exposure in subjects with body weight of 65 to 85 kg, body 
 
 Pharmacokinetic/pharmacodynamic relationship
 
-The pharmacokinetic /pharmacodynamic (PK/PD) relationship between apixaban plasma concentration and several PD endpoints (anti-FXa activity, INR, PT, aPTT) has been evaluated after administration of a wide range of doses (0.5 – 50 mg).
+The pharmacokinetic /pharmacodynamic (PK/PD) relationship between apixaban plasma concentration and several PD endpoints (anti-Factor Xa activity, INR, PT, aPTT) has been evaluated after administration of a wide range of doses (0.5 – 50 mg).
 The relationship between apixaban plasma concentration and anti-Factor Xa activity was best described by a linear model.
 The PK/PD relationship observed in patients was consistent with that established in healthy subjects.

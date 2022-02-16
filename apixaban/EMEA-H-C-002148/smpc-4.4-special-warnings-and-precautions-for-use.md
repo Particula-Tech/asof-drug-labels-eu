@@ -16,7 +16,7 @@ Due to an increased bleeding risk, concomitant treatment with any other anticoag
 
 The concomitant use of apixaban with antiplatelet agents increases the risk of bleeding (see section 4.5).
 
-Care is to be taken if patients are treated concomitantly with selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs), or non-steroidal anti-inflammatory medicinal products (NSAIDs), including acetylsalicylic acid.
+Care is to be taken if patients are treated concomitantly with selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs), or non-steroidal anti-inflammatory drugs (NSAIDs), including acetylsalicylic acid.
 
 Following surgery, other platelet aggregation inhibitors are not recommended concomitantly with apixaban (see section 4.5).
 
@@ -85,7 +85,8 @@ Apixaban is not recommended as an alternative to unfractionated heparin in patie
 
 Patients with active cancer
 
-Efficacy and safety of apixaban in the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE (VTEt) in patients with active cancer have not been established.
+Patients with active cancer can be at high risk of both venous thromboembolism and bleeding events.
+When apixaban is considered for DVT or PE treatment in cancer patients, a careful assessment of the benefits against the risks should be made (see also section 4.3).
 
 Patients with renal impairment
 
@@ -105,8 +106,8 @@ Also, the coadministration of apixaban with ASA in elderly patients should be us
 Body weight
 
 Low body weight (< 60 kg) may increase haemorrhagic risk (see section 5.2).
-
 Patients with hepatic impairment
+
 Apixaban is contraindicated in patients with hepatic disease associated with coagulopathy and clinically relevant bleeding risk (see section 4.3).
 
 It is not recommended in patients with severe hepatic impairment (see section 5.2).

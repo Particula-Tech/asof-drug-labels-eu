@@ -18,19 +18,19 @@ As a result of FXa inhibition, apixaban prolongs clotting tests such as prothrom
 Changes observed in these clotting tests at the expected therapeutic dose are small and subject to a high degree of variability.
 They are not recommended to assess the pharmacodynamic effects of apixaban.
 In the thrombin generation assay, apixaban reduced endogenous thrombin potential, a measure of thrombin generation in human plasma.
-Apixaban also demonstrates anti-FXa activity as evident by reduction in Factor Xa enzyme activity in multiple commercial anti-FXa kits, however results differ across kits.
+Apixaban also demonstrates anti-Factor Xa activity as evident by reduction in Factor Xa enzyme activity in multiple commercial anti-Factor Xa kits, however results differ across kits.
 Data from clinical studies are only available for the Rotachrom® Heparin chromogenic assay.
-Anti-FXa activity exhibits a close direct linear relationship with apixaban plasma concentration, reaching maximum values at the time of apixaban peak plasma concentrations.
-The relationship between apixaban plasma concentration and anti-FXa activity is approximately linear over a wide dose range of apixaban.
+Anti-Factor Xa activity exhibits a close direct linear relationship with apixaban plasma concentration, reaching maximum values at the time of apixaban peak plasma concentrations.
+The relationship between apixaban plasma concentration and anti-Factor Xa activity is approximately linear over a wide dose range of apixaban.
 
 Table 3 below shows the predicted steady state exposure and anti-Factor Xa activity for each indication.
 In patients taking apixaban for the prevention of VTE following hip or knee replacement surgery, the results demonstrate a less than 1.6-fold fluctuation in peak-to-trough levels.
 In non-valvular atrial fibrillation patients taking apixaban for the prevention of stroke and systemic embolism, the results demonstrate a less than 1.7-fold fluctuation in peak-to-trough levels.
 In patients taking apixaban for the treatment of DVT and PE or prevention of recurrent DVT and PE, the results demonstrate a less than 2.2-fold fluctuation in peak-to-trough levels.
 
-Table 3: Predicted apixaban steady-state exposure and anti-Xa activity
+Table 3: Predicted apixaban steady-state exposure and anti-Factor Xa activity
 
-|  | Apix. Cmax (ng/mL) | Apix. Cmin (ng/mL) | Apix. anti-Xa activity max (IU/mL) | Apix. anti-Xa activity min (IU/mL) |
+|  | Apix. Cmax (ng/mL) | Apix. Cmin (ng/mL) | Apix. anti-Factor Xa activity max (IU/mL) | Apix. anti-Factor Xa activity min (IU/mL) |
 | --- | --- | --- | --- | --- |
 |  | Median [5th, 95th percentile] |  |  |  |
 | Prevention of VTE: elective hip or knee replacement surgery |  |  |  |  |
@@ -213,7 +213,7 @@ NVAF patients with ACS and/or undergoing PCI
 AUGUSTUS, an open-label, randomised, controlled, 2 by 2 factorial design trial, enrolled 4614 patients with NVAF who had ACS (43%) and/or underwent PCI (56%).
 All patients received background therapy with a P2Y12 inhibitor (clopidogrel: 90.3%) prescribed per local standard of care.
 
-Patients were randomised up to 14 days after the ACS and/or PCI to either apixaban 5 mg twice daily (2.5 mg twice daily if two or more of the dose-reduction criteria were met; 10% received lower dose) or VKA and to either ASA (81 mg once daily) or placebo.
+Patients were randomised up to 14 days after the ACS and/or PCI to either apixaban 5 mg twice daily (2.5 mg twice daily if two or more of the dose-reduction criteria were met; 4.2% received lower dose) or VKA and to either ASA (81 mg once daily) or placebo.
 The mean age was 69.9 years, 94% of patients randomised had a CHA2DS2-VASc score > 2, and 47% had a HAS-BLED score > 3.
 For patients randomised to VKA, the proportion of time in therapeutic range (TTR) (INR 2-3) was 56%, with 32% of time below TTR and 12% above TTR.
 
@@ -345,7 +345,7 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 Table 3 below shows the predicted steady state exposure and anti-Factor Xa activity.
 
-|  | Apix. Cmax (ng/mL) | Apix. Cmin (ng/mL) | Apix. anti-Xa activity max (IU/mL) | Apix. anti-Xa activity min (IU/mL) |
+|  | Apix. Cmax (ng/mL) | Apix. Cmin (ng/mL) | Apix. anti-Factor Xa activity max (IU/mL) | Apix. anti-Factor Xa activity min (IU/mL) |
 | --- | --- | --- | --- | --- |
 |  | Median [5th, 95th percentile] |  |  |  |
 | Prevention of stroke and systemic embolism: NVAF |  |  |  |  |

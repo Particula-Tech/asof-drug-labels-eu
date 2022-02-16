@@ -30,6 +30,7 @@ Pharmacokinetic or pharmacodynamic interactions were not evident when apixaban w
 Apixaban coadministered with clopidogrel (75 mg once a day) or with the combination of clopidogrel 75 mg and ASA 162 mg once daily, or with prasugrel (60 mg followed by 10 mg once daily) in
 Phase I studies did not show a relevant increase in template bleeding time, or further inhibition of platelet aggregation, compared to administration of the antiplatelet agents without apixaban.
 Increases in clotting tests (PT, INR, and aPTT) were consistent with the effects of apixaban alone.
+
 Naproxen (500 mg), an inhibitor of P-gp, led to a 1.5-fold and 1.6-fold increase in mean apixaban AUC and Cmax, respectively.
 Corresponding increases in clotting tests were observed for apixaban.
 No changes were observed in the effect of naproxen on arachidonic acid-induced platelet aggregation and no clinically relevant prolongation of bleeding time was observed after concomitant administration of apixaban and naproxen.
