@@ -11,4 +11,4 @@ For the full list of excipients, see section 6.1.
 
 Each gastro-resistant hard capsule contains 20 mg esomeprazole (as magnesium trihydrate)
 
-Each gastro-resistant hard capsule contains 11.5 mg sucrose.
+Each gastro-resistant hard capsule contains 11.5 mg sucrose and 0.01 mg allura red AC (E129).

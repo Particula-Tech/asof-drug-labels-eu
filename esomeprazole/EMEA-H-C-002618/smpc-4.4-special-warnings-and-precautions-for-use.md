@@ -43,3 +43,13 @@ SCLE after previous treatment with a proton pump inhibitor may increase the risk
 Sucrose
 This medicinal product contains sugar spheres (sucrose).
 Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicinal product.
+
+Sodium
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium free’.
+
+[Nexium Control 20 mg gastro-resistant hard capsules]
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially ‘sodium free’.
+
+Allura red AC (E129)
+This medicinal product contains azo colouring agent, Allura red AC (E129), which may cause allergic reactions.
