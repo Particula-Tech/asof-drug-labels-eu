@@ -26,15 +26,15 @@ The adverse reactions are listed by absolute frequency.
 Frequencies are defined as very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), or very rare (<1/10,000), and not known (cannot be estimated from the available data).
 Table 2: Tabulated list of adverse reactions (MedDRA) from reported placebo-controlled studies and from post-marketing experience
 
-| System organ class | Very common | Common | Uncommon | Rare |
-| --- | --- | --- | --- | --- |
-| Infections and infestations |  | Vaginal moniliasis, vulvovaginitis, balanitis and other genital infectiona Urinary tract infection (including pyelonephritis and urosepsis)a |  | Necrotising fasciitis of the perineum (Fournier´s gangrene)b,* |
-| Metabolism and nutrition disorders | Hypoglycaemia (when used with sulphonylurea or insulin)a | Thirst |  | Diabetic ketoacidosis* |
-| Gastrointestin al disorders |  | Constipation |  |  |
-| Skin and subcutaneous tissue disorders |  | Pruritus (generalised) Rash | Urticaria Angioedema |  |
-| Vascular disorders | Volume depletiona |  |  |  |
-| Renal and urinary disorders |  | Increased urinationa | Dysuria |  |
-| Investigations |  | Serum lipids increaseda | Blood creatinine increased/ Glomerular filtration rate decreaseda Haematocrit increaseda |  |
+| System organ class | Very common | Common | Uncommon | Rare | Very Rare |
+| --- | --- | --- | --- | --- | --- |
+| Infections and infestations |  | Vaginal moniliasis, vulvovaginitis, balanitis and other genital infectiona Urinary tract infection (including pyelonephritis and urosepsis)a |  | Necrotising fasciitis of the perineum (Fournier´s gangrene)b,* |  |
+| Metabolism and nutrition disorders | Hypoglycaemia (when used with sulphonylurea or insulin)a | Thirst |  | Diabetic ketoacidosis* |  |
+| Gastrointestinal disorders |  | Constipation |  |  |  |
+| Skin and subcutaneous tissue disorders |  | Pruritus (generalised) Rash | Urticaria Angioedema |  |  |
+| Vascular disorders | Volume depletiona |  |  |  |  |
+| Renal and urinary disorders |  | Increased urinationa | Dysuria |  | Tubulo-interstitial nephritis |
+| Investigations |  | Serum lipids increaseda | Blood creatinine increased/ Glomerular filtration rate decreaseda Haematocrit increaseda |  |  |
 
 a see subsections below for additional information b In the EMPEROR-Reduced heart failure study, one case (<0.1%) of necrotising fasciitis of the perineum (Fournier´s gangrene) was observed in a patient with heart failure and diabetes mellitus treated with empagliflozin.
 * see section 4.4

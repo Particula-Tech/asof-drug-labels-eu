@@ -33,6 +33,10 @@ Empagliflozin exposure was similar with and without co-administration with verap
 Interaction studies suggest that the pharmacokinetics of empagliflozin were not influenced by co-administration with metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, verapamil, ramipril, simvastatin, torasemide and hydrochlorothiazide.
 
 Effects of empagliflozin on other medicinal products
+Empagliflozin may increase renal lithium excretion and the blood lithium levels may be decreased.
+Serum concentration of lithium should be monitored more frequently after empagliflozin initiation and dose changes.
+Please refer the patient to the lithium prescribing doctor in order to monitor serum concentration of lithium.
+
 Based on in vitro studies, empagliflozin does not inhibit, inactivate, or induce CYP450 isoforms.
 Empagliflozin does not inhibit UGT1A1, UGT1A3, UGT1A8, UGT1A9, or UGT2B7.
 Drug-drug interactions involving the major CYP450 and UGT isoforms with empagliflozin and concomitantly administered substrates of these enzymes are therefore considered unlikely.
