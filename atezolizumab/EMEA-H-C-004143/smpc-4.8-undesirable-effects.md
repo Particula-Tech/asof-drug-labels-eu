@@ -5,11 +5,10 @@ Summary of the safety profile
 The safety of atezolizumab as monotherapy is based on pooled data in 3 854 patients across multiple tumour types.
 The most common adverse reactions (> 10%) were fatigue (33.1%), decreased appetite (23.5%), nausea (21.8%), pyrexia (19.7%), rash (19.7%), cough (19.3%), diarrhoea (19.3%), dyspnoea (18.7%), musculoskeletal pain (14.3%), back pain (14.0%), asthenia (13.9%), vomiting (13.6%), pruritus (13.5%), arthralgia (13.1%), urinary tract infection (12.4%) and headache (10.9%).
 
-The safety of atezolizumab given in combination with other medicinal products, has been evaluated in 4 371 patients across multiple tumour types.
-The most common adverse reactions (≥ 20%) were anaemia (36.8%), neutropenia (35.8%), nausea (34.4%), fatigue (33.0%), thrombocytopenia (27.7%), diarrhoea (27.1%), rash (27.0%), alopecia (26.4%), constipation (25.7%), decreased appetite (25.0%) and peripheral neuropathy (23.0%).
+The safety of atezolizumab given in combination with other medicinal products, has been evaluated in 4 535 patients across multiple tumour types.
+The most common adverse reactions (≥ 20%) were anaemia (36.8%), neutropenia (36.6%), nausea (35.5%), fatigue (33.1%), alopecia (28.1%), rash (27.8%), diarrhoea (27.6%), thrombocytopenia (27.1%), constipation (25.8%), decreased appetite (24.7%) and peripheral neuropathy (24.4%).
 
 Further details on serious adverse reactions are provided in section 4.4.
-
 Tabulated list of adverse reactions
 
 The Adverse Drug Reactions (ADRs) are listed by MedDRA system organ class (SOC) and categories
@@ -19,8 +18,9 @@ reactions known to occur with atezolizumab or chemotherapies given alone may occ
 treatment with these medicinal products in combination, even if these reactions were not reported in
 clinical trials with combination therapy. The following categories of frequency have been used: very
 
-common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100), rare (≥ 1/10 000 to < 1/1 000), very rare (< 1/10 000).
+common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100), rare (≥ 1/10 000 to < 1/1 000), very rare (< 1/10 000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+
 Table 3: Summary of adverse reactions occurring in patients treated with atezolizumab
 
 | Atezolizumab monotherapy |  | Atezolizumab in combination therapy |
@@ -54,8 +54,8 @@ Table 3: Summary of adverse reactions occurring in patients treated with atezoli
 | Very Common |  | hypertensionai |
 | Common | hypotension |  |
 | Respiratory, thoracic, and mediastinal disorders |  |  |
-| Very common | cough, dyspnoea | dyspnoea, cough |
-| Common | pneumonitist, hypoxiaag, nasal congestion, nasopharyngitis | dysphonia |
+| Very common | cough, dyspnoea | dyspnoea, cough, nasopharyngitisam |
+| Common | pneumonitist, hypoxiaag, nasopharyngitisam | dysphonia |
 | Gastrointestinal disorders |  |  |
 | Very common | nausea, vomiting, diarrhoeau | nausea, diarrhoeau, constipation, vomiting |
 | Common | abdominal pain, colitisv, dysphagia, oropharyngeal painw | stomatitis, dysgeusia |
@@ -65,7 +65,7 @@ Table 3: Summary of adverse reactions occurring in patients treated with atezoli
 | Skin and subcutaneous tissue disorders |  |  |
 | Very Common | rashz, pruritus | rashz, pruritus, alopeciaah |
 | Common | dry skin |  |
-| Uncommon | psoriasis, severe cutaneous adverse reactionsak | psoriasis, severe cutaneous adverse reactionsak |
+| Uncommon | psoriasisan, severe cutaneous adverse reactionsak | psoriasisan, severe cutaneous adverse reactionsak |
 | Rare | pemphigoid | pemphigoid |
 | Musculoskeletal and connective tissue disorders |  |  |
 | Very common | arthralgia, back pain, musculoskeletal painaa | arthralgia, musculoskeletal painaa, back pain |
@@ -73,6 +73,7 @@ Table 3: Summary of adverse reactions occurring in patients treated with atezoli
 | Renal and urinary disorders |  |  |
 | Common | blood creatinine increasedc | proteinuriaac, blood creatinine increasedc |
 | Uncommon | nephritisad |  |
+| Not known | cystitis noninfectiveal |  |
 | General disorders and administration site conditions |  |  |
 | Very Common | pyrexia, fatigue, asthenia | pyrexia, fatigue, asthenia, oedema peripheral |
 | Common | influenza like illness, chills |  |
@@ -80,15 +81,14 @@ Table 3: Summary of adverse reactions occurring in patients treated with atezoli
 | Common |  | blood alkaline phosphatase increased |
 
 a Includes reports of urinary tract infection, cystitis, pyelonephritis, escherichia urinary tract infection, urinary tract infection bacterial, kidney infection, pyelonephritis acute, pyelonephritis chronic, pyelitis, renal abscess, streptococcal urinary tract infection, urethritis, urinary tract infection fungal, urinary tract infection pseudomonal.
-b Includes reports of pneumonia, bronchitis, lung infection, lower respiratory tract infection, infective exacerbation of COPD, infectious pleural effusion, tracheobronchitis, atypical pneumonia, lung abscess, paracancerous pneumonia, pyopneumothorax, pleural infection.
+b Includes reports of pneumonia, bronchitis, lower respiratory tract infection, infective exacerbation of COPD, infectious pleural effusion, tracheobronchitis, atypical pneumonia, lung abscess, paracancerous pneumonia, pyopneumothorax, pleural infection.
 c Includes reports of blood creatinine increased, hypercreatininaemia.
 d Includes reports of thrombocytopenia, platelet count decreased.
 e Includes reports of neutropenia, neutrophil count decreased, febrile neutropenia, neutropenic sepsis, granulocytopenia.
 f Includes reports of white blood cell count decreased, leukopenia.
 g Includes reports of lymphopenia, lymphocyte count decreased.
 h Includes reports of infusion related reaction, cytokine release syndrome, hypersensitivity, anaphylaxis.
-i Includes reports of autoimmune hypothyroidism, autoimmune thyroiditis, blood thyroid stimulating hormone abnormal, blood thyroid stimulating hormone decreased, blood thyroid stimulating hormone increased, euthyroid sick syndrome, goitre, hypothyroidism, immune-related hypothyroidism, myxedema, myxoedema coma, thyroid disorder, thyroid function test abnormal, thyroiditis, thyroiditis acute, thyroxine decreased, thyroxine free decreased, thyroxine free increased, thyroxine increased, tri-iodothyronine decreased, tri-iodothyronine free abnormal, tri-iodothyronine free decreased, tri-iodothyronine free increased, silent thyroiditis, thyroiditis chronic.
-j Includes reports of hyperthyroidism, Basedow’s disease, endocrine ophthalmopathy, exophthalmos.
+i Includes reports of autoimmune hypothyroidism, autoimmune thyroiditis, blood thyroid stimulating hormone abnormal, blood thyroid stimulating hormone decreased, blood thyroid stimulating hormone increased, euthyroid sick syndrome, goitre, hypothyroidism, immune-related hypothyroidism, myxedema, myxoedema coma, thyroid disorder, thyroid function test abnormal, thyroiditis, thyroiditis acute, thyroxine decreased, thyroxine free decreased, thyroxine free increased, thyroxine increased, tri-iodothyronine decreased, tri-iodothyronine free abnormal, tri-iodothyronine free decreased, tri-iodothyronine free increased, silent thyroiditis, thyroiditis chronic. j Includes reports of hyperthyroidism, Basedow’s disease, endocrine ophthalmopathy, exophthalmos.
 k Includes reports of diabetes mellitus, type 1 diabetes mellitus, diabetic ketoacidosis, ketoacidosis.
 l Includes reports of adrenal insufficiency, glucocorticoid deficiency, primary adrenal insufficiency.
 m Includes reports of hypophysitis, temperature regulation disorder.
@@ -113,9 +113,13 @@ ae Includes reports of hypokalaemia, blood potassium decreased.
 af Includes reports of hyponatraemia, blood sodium decreased.
 ag Includes reports of hypoxia, oxygen saturation decreased, pO2 decreased.
 ah Includes reports of alopecia, madarosis, alopecia areata, alopecia totalis, hypotrichosis.
-ai Includes reports of hypertension, blood pressure increased, hypertensive crisis, blood pressure systolic increased, diastolic hypertension, blood pressure inadequately controlled, retinopathy hypertensive, hypertensive nephropathy, essential hypertension.
+ai Includes reports of hypertension, blood pressure increased, hypertensive crisis, blood pressure systolic increased, diastolic hypertension, blood pressure inadequately controlled, retinopathy hypertensive, hypertensive nephropathy, essential hypertension, orthostatic hypertension.
 aj Includes reports of sepsis, septic shock, urosepsis, neutropenic sepsis, pulmonary sepsis, bacterial sepsis, klebsiella sepsis, abdominal sepsis, candida sepsis, escherichia sepsis, pseudomonal sepsis, staphylococcal sepsis.
 ak Includes reports of dermatitis bullous, exfoliative rash, erythema multiforme, dermatitis exfoliative generalised, toxic skin eruption, Stevens-Johnson syndrome, drug reaction with eosinophilia and systemic symptoms, toxic epidermal necrolysis, cutaneous vasculitis.
+al Includes reports of cystitis noninfective and immune-mediated cystitis.
+am Includes reports of nasopharyngitis, nasal congestion and rhinorrhoea.
+an Includes reports of psoriasis, dermatitis psoriasiform, guttate psoriasis.
+
 Description of selected adverse reactions
 
 The data below reflect information for significant adverse reactions for atezolizumab as monotherapy in clinical studies (see section 5.1).
@@ -165,6 +169,7 @@ The median time to onset was 5.9 months (range: 1 day to 21.4 months).
 The median duration was 16.8 months (range: 2 days to 35.4+ months; + denotes a censored value).
 Adrenal insufficiency led to discontinuation of atezolizumab in 2 (< 0.1%) patients.
 Adrenal insufficiency requiring the use of corticosteroids occurred in 0.3% (12/3 854) of patients receiving atezolizumab monotherapy.
+
 Hypophysitis
 
 Hypophysitis occurred in < 0.1% (3/3 854) of patients who received atezolizumab monotherapy.
@@ -218,6 +223,7 @@ The median time to onset was 5.0 months (range: 1 day to 24.8 months).
 The median duration was 24 days (range: 3 days to 22.4+ months; + denotes a censored value).
 Pancreatitis led to the discontinuation of atezolizumab in 3 (< 0.1%) patients.
 Pancreatitis requiring the use of corticosteroids occurred in 0.1% (5/3 854) of patients receiving atezolizumab monotherapy.
+
 Immune-related myocarditis
 
 Myocarditis occurred in < 0.1% (1/3 854) of patients who received atezolizumab monotherapy.
@@ -267,9 +273,11 @@ The median time to ADA onset ranged from 3 weeks to 5 weeks.
 Across pooled datasets for patients treated with atezolizumab monotherapy (N=2 972) and with
 combination therapies (N= 2 285), the following rates of adverse events (AEs) have been observed for
 the ADA-positive population compared to the ADA-negative population, respectively: Grade 3-4 AEs
-
-48.6% vs. 42.6%, Serious Adverse Events (SAEs) 42.2% vs. 36.0%, AEs leading to treatment withdrawal 6.2% vs 6.5% (for monotherapy); Grade 3-4 AEs 63.9% vs. 60.9%, SAEs 43.9% vs. 35.6%, AEs leading to treatment withdrawal 22.8% vs 18.4% (for combination therapy).
-However, available data do not allow firm conclusions to be drawn on possible patterns of adverse drug reactions.
+48.6% vs. 42.6%, Serious Adverse Events (SAEs) 42.2% vs. 36.0%, AEs leading to treatment
+withdrawal 6.2% vs 6.5% (for monotherapy); Grade 3-4 AEs 63.9% vs. 60.9%, SAEs 43.9% vs.
+35.6%, AEs leading to treatment withdrawal 22.8% vs 18.4% (for combination therapy). However,
+available data do not allow firm conclusions to be drawn on possible patterns of adverse drug
+reactions.
 
 Paediatric population
 

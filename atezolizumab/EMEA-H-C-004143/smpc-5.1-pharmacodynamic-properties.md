@@ -10,6 +10,7 @@ Binding of PD-L1 to the PD-1 and B7.1 receptors found on T-cells and antigen pre
 
 Atezolizumab is an Fc-engineered, humanised immunoglobulin G1 (IgG1) monoclonal antibody that directly binds to PD-L1 and provides a dual blockade of the PD-1 and B7.1 receptors, releasing PD-L1/PD-1 mediated inhibition of the immune response, including reactivating the antitumour immune response without inducing antibody-dependent cellular cytotoxicity.
 Atezolizumab spares the PD-L2/PD-1 interaction allowing PD-L2/PD-1 mediated inhibitory signals to persist.
+
 Clinical efficacy and safety
 
 Urothelial carcinoma
@@ -44,7 +45,6 @@ The primary efficacy endpoint for IMvigor211 is overall survival (OS).
 Secondary efficacy endpoints evaluated per investigator-assessed Response Evaluation Criteria in Solid Tumours (RECIST) v1.1 are objective response rate (ORR), progression-free survival (PFS), and duration of response (DOR).
 Comparisons with respect to OS between the treatment arm and control arm within the IC2/3, IC1/2/3, and ITT (Intention-to-treat, i.e. all comers) populations were tested using a hierarchical fixed-sequence procedure based on a stratified log-rank test at two-sided level of 5% as follows: step 1) IC2/3 population; step 2) IC1/2/3 population; step 3) all comers population.
 OS results for each of steps 2 and 3 could be formally tested for statistical significance only if the result in the preceding step was statistically significant.
-
 The median survival follow-up is 17 months.
 The primary analysis of study IMvigor211 did not meet its primary endpoint of OS.
 Atezolizumab did not demonstrate a statistically significant survival benefit compared to chemotherapy in patients with previously treated, locally advanced or metastatic urothelial carcinoma.
@@ -767,6 +767,7 @@ The key efficacy results from the primary analysis are summarized in Table 17.
 A descriptive updated efficacy analysis was performed with a median survival follow up time of 15.6 months.
 The median OS was 19.2 months (95% CI: 17.0, 23.7) in the atezolizumab + bevacizumab arm versus 13.4 months (95% CI: 11.4, 16.9) in the sorafenib arm with a HR of 0.66 (95% CI: 0.52, 0.85).
 The median PFS by IRF-assessment per RECIST v1.1 was 6.9 months (95% CI: 5.8, 8.6) in the atezolizumab + bevacizumab arm versus 4.3 months (95% CI: 4.0, 5.6) in the sorafenib arm with a HR of 0.65 (95% CI: 0.53, 0.81).
+
 The IRF-assessed ORR per RECIST v1.1 was 29.8% (95% CI: 24.8, 35.0) in the atezolizumab + bevacizumab arm and 11.3% (95% CI: 6.9, 17.3) in the sorafenib arm.
 The median duration of response (DOR) by IRF-assessment per RECIST v1.1 in confirmed responders was 18.1 months (95% CI: 14.6, NE) in the atezolizumab + bevacizumab arm compared to 14.9 months (95% CI: 4.9, 17.0) in the sorafenib arm.
 
