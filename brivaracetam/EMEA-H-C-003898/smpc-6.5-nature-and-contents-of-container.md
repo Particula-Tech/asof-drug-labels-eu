@@ -3,33 +3,33 @@
 Briviact 10 mg film-coated tablets
 
 - Packs of 14, 56 film-coated tablets and multipacks containing 168 (3 packs of 56) film-coated tablets in PVC/PCTFE - Aluminium blisters
-- Packs of 14 x 1 and 100 x 1 film-coated tablet in PVC/PCTFE - Aluminium blisters
+- Packs of 14 x 1 and 100 x 1 film-coated tablets in PVC/PCTFE - Aluminium blisters
 
 Briviact 25 mg film-coated tablets
 
 - Packs of 14, 56 film-coated tablets and multipacks containing 168 (3 packs of 56) film-coated tablets in PVC/PCTFE - Aluminium blisters
-- Packs of 14 x 1 and 100 x 1 film-coated tablet in PVC/PCTFE - Aluminium blisters
+- Packs of 14 x 1 and 100 x 1 film-coated tablets in PVC/PCTFE - Aluminium blisters
 
 Briviact 50 mg film-coated tablets
 
 - Packs of 14, 56 film-coated tablets and multipacks containing 168 (3 packs of 56) film-coated tablets in PVC/PCTFE - Aluminium blisters
-- Packs of 14 x 1 and 100 x 1 film-coated tablet in PVC/PCTFE - Aluminium blisters
+- Packs of 14 x 1 and 100 x 1 film-coated tablets in PVC/PCTFE - Aluminium blisters
 
 Briviact 75 mg film-coated tablets
 
 - Packs of 14, 56 film-coated tablets and multipacks containing 168 (3 packs of 56) film-coated tablets in PVC/PCTFE - Aluminium blisters
-- Packs of 14 x 1 and 100 x 1 film-coated tablet in PVC/PCTFE - Aluminium blisters
+- Packs of 14 x 1 and 100 x 1 film-coated tablets in PVC/PCTFE - Aluminium blisters
 
 Briviact 100 mg film-coated tablets
 
 - Packs of 14, 56 film-coated tablets and multipacks containing 168 (3 packs of 56) film-coated tablets in PVC/PCTFE - Aluminium blisters
-- Packs of 14 x 1 and 100 x 1 film-coated tablet in PVC/PCTFE - Aluminium blisters
+- Packs of 14 x 1 and 100 x 1 film-coated tablets in PVC/PCTFE - Aluminium blisters
 
 Not all pack sizes may be marketed.
 
 [Briviact 10 mg/ml oral solution]
 
-300 ml amber glass bottle (type III) with a white child resistant closure (polypropylene) in a box also containing a 5 ml and 10 ml graduated oral dosing syringe (polypropylene, polyethylene) and an adaptor for the syringe (polyethylene).
+300 ml amber glass bottle (type III) with a white child resistant closure (polypropylene) in a box also containing a 5 ml (blue graduation marks) and a 10 ml (black graduation marks) graduated oral dosing syringe (polypropylene, polyethylene) and an adaptor for the syringe (polyethylene).
 
 [Briviact 10 mg/ml solution for injection/infusion]
 

@@ -7,6 +7,7 @@ Pharmacodynamic interactions
 Concomitant treatment with levetiracetam
 In the clinical studies, although the numbers were limited, there was no observed benefit of brivaracetam versus placebo in patients taking levetiracetam concurrently.
 No additional safety or tolerability concern was observed (see section 5.1).
+
 Interaction with alcohol
 In a pharmacokinetic and pharmacodynamic interaction study between brivaracetam 200 mg single dose and ethanol 0.6 g/L continuous infusion in healthy subjects, there was no pharmacokinetic interaction, but brivaracetam approximately doubled the effect of alcohol on psychomotor function, attention and memory.
 Intake of brivaracetam with alcohol is not recommended.
@@ -28,7 +29,6 @@ Prescribers should consider adjusting the brivaracetam dose in patients starting
 
 Strong enzyme inducing AEDs
 Brivaracetam plasma concentrations are decreased when coadministered with strong enzyme inducing AEDs (carbamazepine, phenobarbital, phenytoin) but no dose adjustment is required (see table 1).
-
 Other enzyme inducers
 Other strong enzyme inducers (such as St John´s wort (Hypericum perforatum)) may also decrease the systemic exposure of brivaracetam.
 Therefore, starting or ending treatment with St John’s wort should be done with caution.
@@ -48,7 +48,7 @@ Brivaracetam 200mg/day may increase plasma concentrations of medicinal products 
 
 Antiepileptic drugs
 
-Potential interactions between brivaracetam (50 mg/day to 200 mg/day) and other AEDs were investigated in a pooled analysis of plasma drug concentrations from all phase 2-3 studies, in a population pharmacokinetic analysis of placebo-controlled phase 2-3 studies, and in dedicated drug-drug interaction studies (for the following AEDs: carbamazepine, lamotrigine, phenytoin and topiramate).
+Potential interactions between brivaracetam (50 mg/day to 200 mg/day) and other AEDs were investigated in a pooled analysis of plasma drug concentrations from all phase 2-3 studies, in a population pharmacokinetic analysis of placebo-controlled phase 2-3 clinical studies, and in dedicated drug-drug interaction studies (for the following AEDs: carbamazepine, lamotrigine, phenytoin and topiramate).
 The effect of the interactions on the plasma concentration is summarised in table 1 (increase is indicated as “↑” and decrease as “↓”, area under the plasma concentration versus time curve as “AUC”, maximum observed concentration as Cmax).
 
 Table 1: Pharmacokinetic interactions between brivaracetam and other AEDs
@@ -70,10 +70,9 @@ Table 1: Pharmacokinetic interactions between brivaracetam and other AEDs
 | Zonisamide | No data available | None |
 
 a based on a study involving the administration of a supratherapeutic dose of 400 mg/day brivaracetam.
-
 Carbamazepine
 Brivaracetam is a moderate reversible inhibitor of epoxide hydrolase resulting in an increased concentration of carbamazepine epoxide, an active metabolite of carbamazepine.
-In controlled studies, the carbamazepine epoxide plasma concentration increased by a mean of 37 %, 62 % and 98 % with little variability at brivaracetam doses of 50 mg/day, 100 mg/day and 200 mg/day respectively.
+In controlled clinical studies, the carbamazepine epoxide plasma concentration increased by a mean of 37 %, 62 % and 98 % with little variability at brivaracetam doses of 50 mg/day, 100 mg/day and 200 mg/day respectively.
 No safety risks were observed.
 There was no additive effect of brivaracetam and valproate on the AUC of carbamazepine epoxide.
 
@@ -88,7 +87,7 @@ There was generally no change in the concentration-time profiles of the endogeno
 
 In vitro, interaction studies to determine the potential inhibitory effects on transporters concluded that there were no clinically relevant effects, except for OAT3.
 
-Potential interactions between brivaracetam (50 mg/day to 200 mg/day) and other AEDs were investigated in a pooled analysis of plasma drug concentrations from all phase 2-3 studies in a population pharmacokinetic analysis of placebo-controlled phase 2-3 studies, and in dedicated drug-drug interaction studies (for the following AEDs: carbamazepine, lamotrigine, phenytoin and topiramate).
+Potential interactions between brivaracetam (50 mg/day to 200 mg/day) and other AEDs were investigated in a pooled analysis of plasma drug concentrations from all phase 2-3 studies in a population pharmacokinetic analysis of placebo-controlled phase 2-3 clinical studies, and in dedicated drug-drug interaction studies (for the following AEDs: carbamazepine, lamotrigine, phenytoin and topiramate).
 
 [Briviact 10 mg/ml solution for injection/infusion]
 

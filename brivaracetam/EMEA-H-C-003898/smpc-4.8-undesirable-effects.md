@@ -4,7 +4,7 @@ Summary of the safety profile
 
 The most frequently reported adverse reactions (>10 %) with brivaracetam treatment were: somnolence (14.3 %) and dizziness (11.0 %).
 They were usually mild to moderate in intensity.
-Somnolence and fatigue (8.2 %) were reported at a higher incidence with increasing dose.
+Somnolence and fatigue were reported at a higher incidence with increasing dose.
 
 The discontinuation rate due to adverse reactions was 3.5 %, 3.4 % and 4.0 % for patients randomized to brivaracetam at respectively the dose of 50 mg/day, 100 mg/day and 200 mg/day and 1.7 % for patients randomized to placebo.
 The adverse reactions most frequently resulting in discontinuation of brivaracetam therapy were dizziness (0.8 %) and convulsion (0.8 %).
@@ -15,7 +15,7 @@ In the table below, adverse reactions, which were identified based on review of 
 The frequencies are defined as follows: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-| System organ class | Frequency | Adverse reactions from clinical trials |
+| System organ class | Frequency | Adverse reactions from clinical studies |
 | --- | --- | --- |
 | Infections and infestations | Common | Influenza |
 | Blood and lymphatic system disorders | Uncommon | Neutropenia |
@@ -42,14 +42,14 @@ Reactions suggestive of immediate (Type I) hypersensitivity have been reported i
 
 Paediatric population
 
-The safety profile of brivaracetam observed in children was consistent with the safety profile observed in adults.
-In the open label, uncontrolled, long-term studies suicidal ideation was reported in 4.7 % of paediatric patients (more common in adolescents) compared with 2.4 % of adults and behavioural disorders were reported in 24.8 % of paediatric patients compared with 15.1 % of adults.
+The safety profile of brivaracetam observed in children from 1 month of age was consistent with the safety profile observed in adults.
+In the open label, uncontrolled, long-term studies suicidal ideation was reported in 4.7 % of paediatric patients assessed from 6 years onwards (more common in adolescents) compared with 2.4 % of adults and behavioural disorders were reported in 24.8 % of paediatric patients compared with 15.1 % of adults.
 The majority of events were mild or moderate in intensity, were non-serious, and did not lead to discontinuation of study drug.
-An additional adverse reaction reported in children was psychomotor hyperactivity
-(4.7 %).
+An additional adverse reaction reported in children was psychomotor hyperactivity (4.7 %).
 
-There are limited safety data from open-label studies in children from 1 month to <4 years of age.
-Limited data are available on neurodevelopment in children <4 years of age.
+No specific pattern of adverse event (AE) was identified in children from 1◦month to < 4◦years of age when compared to older paediatric age groups.
+No significant safety information was identified indicating the increasing incidence of a particular AE in this age group.
+As data available in children younger than 2 years of age is limited, brivaracetam is not indicated in this age range.
 No clinical data are available in neonates.
 
 Elderly
@@ -67,11 +67,11 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 The discontinuation rate due to adverse reactions was 3.5 %, 3.4 % and 4.0 % for patients randomized to brivaracetam at respectively the dose of 50 mg/day, 100 mg/day and 200 mg/day and 1.7% for patients randomized to placebo.
 
-The frequencies are defined as follows: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥ 1/1,000 to < 1/100).
-
 Neutropenia has been reported in 0.5 % (6/1,099) brivaracetam patients and 0 % (0/459) placebo patients.
 
 Suicidal ideation has been reported in 0.3 % (3/1,099) brivaracetam patients and 0.7 % (3/459) placebo patients.
+
+In the open label, uncontrolled, long-term studies suicidal ideation was reported in 4.7 % of paediatric patients (assessed from 6 years onwards, more common in adolescents) compared with 2.4 % of adults and behavioural disorders were reported in 24.8 % of paediatric patients compared with 15.1 % of adults.
 
 [Briviact 10 mg/ml solution for injection/infusion]
 

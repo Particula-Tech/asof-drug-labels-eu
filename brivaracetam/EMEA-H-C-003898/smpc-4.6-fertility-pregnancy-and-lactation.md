@@ -4,6 +4,7 @@ Women of childbearing potential
 
 Physicians should discuss family planning and contraception with women of childbearing potential taking brivaracetam (see Pregnancy).
 If a woman decides to become pregnant, the use of brivaracetam should be carefully re-evaluated.
+
 Pregnancy
 
 Risk related to epilepsy and antiepileptic medicinal products in general

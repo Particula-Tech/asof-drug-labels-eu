@@ -2,7 +2,6 @@
 
 In safety pharmacology studies, the predominant effects were CNS related (mainly transient CNS depression and decreased spontaneous locomotor activity) seen at multiples (greater than 50 fold) of the pharmacologically active dose of brivaracetam, 2 mg/kg.
 Learning and memory function were not affected.
-
 Findings not observed in clinical studies, but seen in the repeated-dose toxicology dog studies at exposure similar to the clinical plasma AUC, were hepatotoxic effects (mainly porphyria).
 However, toxicological data accumulated on brivaracetam and on a structurally-related compound indicate that the dog liver changes have developed through mechanisms not relevant for humans.
 No adverse liver changes were seen in rats and monkeys following chronic administration of brivaracetam at 5- and 42-fold the clinical AUC exposure.

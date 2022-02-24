@@ -8,7 +8,6 @@ Absorption
 Brivaracetam is rapidly and completely absorbed after oral administration and the absolute bioavailablity is approximately 100 %.
 The median tmax for tablets taken without food is 1 hour (tmax range is 0.25 to 3 h).
 Coadministration with a high-fat meal slowed down the absorption rate (median tmax 3 h) and decreased the maximum plasma concentration (37 % lower) of brivaracetam, while the extent of absorption remained unchanged.
-
 Distribution
 
 Brivaracetam is weakly bound (≤ 20 %) to plasma proteins.
@@ -41,9 +40,9 @@ Interactions with medicinal products
 Brivaracetam is cleared by multiple pathways including renal excretion, non-CYP-mediated hydrolysis and CYP-mediated oxidations.
 In vitro, brivaracetam is not a substrate of human P-glycoprotein (P-gp), multidrug resistance proteins (MRP) 1 and 2, and likely not organic anion transporter polypeptide 1B1 (OATP1B1) and OATP1B3.
 In vitro assays showed that brivaracetam disposition should not be significantly affected by CYP (eg.
-CYP1A, 2C8, 2C9, 2D6 and 3A4) inhibitors.
+CYP1A, CYP2C8, CYP2C9, CYP2D6 and CYP3A4) inhibitors.
 
-In vitro, brivaracetam was not an inhibitor of the CYP1A2, 2A6, 2B6, 2C8, 2C9, 2D6, 3A4, or the transporters P-gp, BCRP, BSEP MRP2, MATE-K, MATE-1, OATP1B1, OATP1B3, OAT1 and OCT1 at clinically relevant concentrations.
+In vitro, brivaracetam was not an inhibitor of the CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2D6, CYP3A4, or the transporters P-gp, BCRP, BSEP MRP2, MATE-K, MATE-1, OATP1B1, OATP1B3, OAT1 and OCT1 at clinically relevant concentrations.
 In vitro, brivaracetam did not induce CYP1A2.
 
 Pharmacokinetics in special patient groups
@@ -53,7 +52,7 @@ In a study in elderly subjects (65 to79 years old; with creatinine clearance 53 
 The steady-state plasma clearance of brivaracetam was similar (0.76 ml/min/kg) to young healthy male subjects
 (0.83 ml/min/kg) (see section 4.2).
 Renal impairment
-A study in subjects with severe renal impairment (creatinine clearance <30 ml/min/1.73 m² and not requiring dialysis) revealed that the plasma AUC of brivaracetam was moderately increased (+21 %) relative to healthy controls, while the AUC of the acid, hydroxy and hydroxyacid metabolites were increased 3-, 4-, and 21-fold, respectively.
+A study in subjects with severe renal impairment (creatinine clearance < 30 ml/min/1.73 m² and not requiring dialysis) revealed that the plasma AUC of brivaracetam was moderately increased (+21 %) relative to healthy controls, while the AUC of the acid, hydroxy and hydroxyacid metabolites were increased 3-, 4-, and 21-fold, respectively.
 The renal clearance of these non active metabolites was decreased 10-fold.
 The hydroxyacid metabolite did not reveal any safety concerns in non clinical studies.
 Brivaracetam has not been studied in patients undergoing hemodialysis (see section 4.2).
@@ -81,13 +80,16 @@ Further seizure frequency reduction is obtained by increasing the dose to 100 mg
 
 Paediatric population
 
-In a pharmacokinetic study with a 3-week evaluation period and weekly fixed 3-step up-titration using the brivaracetam oral solution, 99 subjects aged 1 month to <16 years were evaluated.
+In a pharmacokinetic study with a 3-week evaluation period and weekly fixed 3-step up-titration using the brivaracetam oral solution, 99 subjects aged 1 month to < 16 years were evaluated.
 Brivaracetam was administered at weekly increasing doses of approximately 1 mg/kg/day, 2 mg/kg/day, and 4 mg/kg/day.
 All doses were adjusted by body weight, and did not exceed a maximum of 50 mg/day, 100 mg/day, and 200 mg/day.
 At the end of the evaluation period, subjects may have been eligible for entry into a long-term follow-up study continuing on their last received dose (see section 4.8).
 Plasma concentrations were shown to be dose-proportional in all age groups.
-Population pharmacokinetics modeling indicated that the dose of 2.0 mg/kg twice a day provides the same steady-state average plasma concentration as in adults receiving 100 mg twice daily.
-The estimated plasma clearance was 1.61 L/h, 2.18 L/h and 3.19 L/h for children weighing 20 kg, 30 kg and 50 kg, respectively.
+Population pharmacokinetics modeling was performed based on sparse plasma concentration data collected in the 3-week PK study and the ongoing long-term follow-up study.
+232 paediatric patients with epilepsy, aged 2 months to 17 years, were included in the analysis.
+The analysis indicated that doses of 5.0 (body weights 10-20 kg) and 4.0 mg/kg/day (body weights 20-50 kg) provide the same steady-state average plasma concentration as in adults receiving 200 mg/day.
+The estimated plasma clearance was 0.96 L/h,
+1.61 L/h, 2.18 L/h and 3.19 L/h for children weighing 10 kg, 20 kg, 30 kg and 50 kg, respectively.
 In comparison, plasma clearance was estimated at 3.58 L/h in adult patients (70 kg body weight).
 Currently, no clinical data are available in neonates.
 
@@ -99,4 +101,4 @@ The pharmacokinetics of brivaracetam was not significantly affected by race (Cau
 
 [Briviact 10 mg/ml solution for injection/infusion]
 
-(all sentences already above)
+The estimated plasma clearance was 0.96 L/h, 1.61 L/h, 2.18 L/h and 3.19 L/h for children weighing 10 kg, 20 kg, 30 kg and 50 kg, respectively.

@@ -23,6 +23,7 @@ Macrogol (3350)
 Talc
 Iron oxide yellow (E172)
 Iron oxide black (E172)
+
 Briviact 50 mg film-coated tablets
 Poly(vinyl alcohol)
 Titanium dioxide (E171)
