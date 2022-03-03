@@ -10,4 +10,4 @@ Jardiance is indicated for the treatment of adults with insufficiently controlle
 For study results with respect to combinations, effects on glycaemic control and cardiovascular events, and the populations studied, see sections 4.4, 4.5 and 5.1.
 Heart failure
 
-Jardiance is indicated in adults for the treatment of symptomatic chronic heart failure with reduced ejection fraction.
+Jardiance is indicated in adults for the treatment of symptomatic chronic heart failure.

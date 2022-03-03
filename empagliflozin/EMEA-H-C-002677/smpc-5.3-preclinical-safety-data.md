@@ -14,8 +14,8 @@ Interstitial cell tumours in the testes were observed with a higher incidence in
 Both tumours are common in rats and are unlikely to be relevant to humans.
 
 Empagliflozin did not increase the incidence of tumours in female mice at doses up to
-1000 mg/kg/day, which corresponds to approximately 62-times the maximal clinical exposure to empagliflozin.
-Empagliflozin induced renal tumours in male mice at 1000 mg/kg/day, but not at 300 mg/kg/day, which corresponds to approximately 11-times the maximal clinical exposure to empagliflozin.
+1 000 mg/kg/day, which corresponds to approximately 62-times the maximal clinical exposure to empagliflozin.
+Empagliflozin induced renal tumours in male mice at 1 000 mg/kg/day, but not at 300 mg/kg/day, which corresponds to approximately 11-times the maximal clinical exposure to empagliflozin.
 The mode of action for these tumours is dependent on the natural predisposition of the male mouse to renal pathology and a metabolic pathway not reflective of humans.
 The male mouse renal tumours are considered not relevant to humans.
 

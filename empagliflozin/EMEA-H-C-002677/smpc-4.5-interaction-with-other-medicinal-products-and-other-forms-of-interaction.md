@@ -8,7 +8,6 @@ Empagliflozin may add to the diuretic effect of thiazide and loop diuretics and 
 Insulin and insulin secretagogues
 Insulin and insulin secretagogues, such as sulphonylureas, may increase the risk of hypoglycaemia.
 Therefore, a lower dose of insulin or an insulin secretagogue may be required to reduce the risk of hypoglycaemia when used in combination with empagliflozin (see sections 4.2 and 4.8).
-
 Pharmacokinetic interactions
 
 Effects of other medicinal products on empagliflozin
@@ -18,6 +17,7 @@ Empagliflozin is a substrate of P-glycoprotein (P-gp) and breast cancer resistan
 
 Co-administration of empagliflozin with probenecid, an inhibitor of UGT enzymes and OAT3, resulted in a 26% increase in peak empagliflozin plasma concentrations (Cmax) and a 53% increase in area under the concentration-time curve (AUC).
 These changes were not considered to be clinically meaningful.
+
 The effect of UGT induction (e.g. induction by rifampicin or phenytoin) on empagliflozin has not been studied.
 Co-treatment with known inducers of UGT enzymes is not recommended due to a potential risk of decreased efficacy.
 If an inducer of these UGT enzymes must be co-administered, monitoring of glycaemic control to assess response to Jardiance is appropriate.
@@ -47,5 +47,4 @@ Co-administration of digoxin, a P-gp substrate, with empagliflozin resulted in a
 These changes were not considered to be clinically meaningful.
 
 Empagliflozin does not inhibit human uptake transporters such as OAT3, OATP1B1, and OATP1B3 in vitro at clinically relevant plasma concentrations and, as such, drug-drug interactions with substrates of these uptake transporters are considered unlikely.
-
 Interaction studies conducted in healthy volunteers suggest that empagliflozin had no clinically relevant effect on the pharmacokinetics of metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, simvastatin, warfarin, ramipril, digoxin, diuretics and oral contraceptives.

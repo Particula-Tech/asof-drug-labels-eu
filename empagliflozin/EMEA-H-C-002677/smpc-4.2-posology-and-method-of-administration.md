@@ -47,7 +47,6 @@ Therapeutic experience in patients with severe hepatic impairment is limited and
 Elderly
 No dose adjustment is recommended based on age.
 In patients 75 years and older, an increased risk for volume depletion should be taken into account (see sections 4.4 and 4.8).
-In patients aged 85 years and older, initiation of empagliflozin therapy is not recommended due to the limited therapeutic experience (see section 4.4).
 
 Paediatric population
 The safety and efficacy of empagliflozin in children and adolescents has not yet been established.

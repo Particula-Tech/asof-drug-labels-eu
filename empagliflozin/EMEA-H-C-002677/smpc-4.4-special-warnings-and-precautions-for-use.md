@@ -21,7 +21,7 @@ Before initiating empagliflozin, factors in the patient history that may predisp
 Patients who may be at higher risk of ketoacidosis include patients with a low beta-cell function reserve (e.g. type 2 diabetes patients with low C-peptide or latent autoimmune diabetes in adults (LADA) or patients with a history of pancreatitis), patients with conditions that lead to restricted food intake or severe dehydration, patients for whom insulin doses are reduced and patients with increased insulin requirements due to acute medical illness, surgery or alcohol abuse.
 SGLT2 inhibitors should be used with caution in these patients.
 
-Restarting SGLT2 inhibitor treatment in patients with previous ketoacidosis while on SGLT-2 inhibitor treatment is not recommended, unless another clear precipitating factor is identified and resolved.
+Restarting SGLT2 inhibitor treatment in patients with previous ketoacidosis while on SGLT2 inhibitor treatment is not recommended, unless another clear precipitating factor is identified and resolved.
 
 Jardiance should not be used for treatment of patients with type 1 diabetes.
 Data from a clinical trial program in patients with type 1 diabetes showed increased ketoacidosis occurrence with common frequency in patients treated with empagliflozin 10 mg and 25 mg as an adjunct to insulin compared to placebo.
@@ -31,7 +31,8 @@ Renal impairment
 For the indication of type 2 diabetes mellitus, in patients with an eGFR below 60 ml/min/1.73 m2 or CrCl <60 ml/min the daily dose of empagliflozin is limited to 10 mg (see section 4.2).
 Empagliflozin is not recommended when eGFR is below 30 ml/min/1.73 m2 or CrCl below 30 ml/min.
 
-For the indication of heart failure, Jardiance is not recommended in patients with eGFR <20 ml/min/1.73 m2.
+For the indication of heart failure, Jardiance is not recommended in patients with eGFR
+<20 ml/min/1.73 m2.
 
 Empagliflozin should not be used in patients with ESRD or in patients on dialysis.
 There are insufficient data to support use in these patients (see sections 4.2, 5.1 and 5.2).
@@ -43,7 +44,7 @@ Assessment of renal function is recommended as follows:
 
 Risk for volume depletion
 
-Based on the mode of action of SGLT-2 inhibitors, osmotic diuresis accompanying glucosuria may lead to a modest decrease in blood pressure (see section 5.1).
+Based on the mode of action of SGLT2 inhibitors, osmotic diuresis accompanying glucosuria may lead to a modest decrease in blood pressure (see section 5.1).
 Therefore, caution should be exercised in patients for whom an empagliflozin-induced drop in blood pressure could pose a risk, such as patients with known cardiovascular disease, patients on anti-hypertensive therapy with a history of hypotension or patients aged 75 years and older.
 
 In case of conditions that may lead to fluid loss (e.g. gastrointestinal illness), careful monitoring of volume status (e.g. physical examination, blood pressure measurements, laboratory tests including haematocrit) and electrolytes is recommended for patients receiving empagliflozin.
@@ -55,8 +56,6 @@ The effect of empagliflozin on urinary glucose excretion is associated with osmo
 Patients aged 75 years and older may be at an increased risk of volume depletion.
 A higher number of these patients treated with empagliflozin had adverse reactions related to volume depletion as compared to placebo (see section 4.8).
 Therefore, special attention should be given to their volume intake in case of co-administered medicinal products which may lead to volume depletion (e.g. diuretics, ACE inhibitors).
-Therapeutic experience in patients aged 85 years and older is limited.
-Initiation of empagliflozin therapy in this population is not recommended (see section 4.2).
 
 Complicated urinary tract infections
 
@@ -91,6 +90,11 @@ Chronic kidney disease
 There is experience with empagliflozin for the treatment of diabetes in patients with chronic kidney disease (eGFR ≥30 mL/min/1.73 m2) both with and without albuminuria.
 Patients with albuminuria may benefit more from treatment with empagliflozin.
 
+Infiltrative disease or Takotsubo cardiomyopathy
+
+Patients with infiltrative disease or with Takotsubo cardiomyopathy have not been specifically studied.
+Therefore, efficacy in these patients has not been established.
+
 Urine laboratory assessments
 
 Due to its mechanism of action, patients taking Jardiance will test positive for glucose in their urine.
@@ -104,3 +108,7 @@ Lactose
 
 The tablets contain lactose.
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency, or glucose-galactose malabsorption should not take this medicinal product.
+
+Sodium
+
+Each tablet contains less than 1 mmol sodium (23 mg), that is to say essentially ‘sodium free’.

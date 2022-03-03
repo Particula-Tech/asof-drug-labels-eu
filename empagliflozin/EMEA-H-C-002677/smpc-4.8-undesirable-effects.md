@@ -3,40 +3,39 @@
 Summary of the safety profile
 
 Type 2 diabetes mellitus
-A total of 15,582 patients with type 2 diabetes were included in clinical studies to evaluate the safety of empagliflozin, of which 10,004 patients received empagliflozin, either alone or in combination with metformin, a sulphonylurea, pioglitazone, DPP-4 inhibitors, or insulin.
+A total of 15 582 patients with type 2 diabetes were included in clinical studies to evaluate the safety of empagliflozin, of which 10 004 patients received empagliflozin, either alone or in combination with metformin, a sulphonylurea, pioglitazone, DPP-4 inhibitors, or insulin.
 
-In 6 placebo-controlled trials of 18 to 24 weeks duration, 3,534 patients were included of which 1,183 were treated with placebo and 2,351 with empagliflozin.
+In 6 placebo-controlled trials of 18 to 24 weeks duration, 3 534 patients were included of which 1 183 were treated with placebo and 2 351 with empagliflozin.
 The overall incidence of adverse events in patients treated with empagliflozin was similar to placebo.
 The most frequently reported adverse reaction was hypoglycaemia when used with sulphonylurea or insulin (see description of selected adverse reactions).
 
 Heart failure
-The EMPEROR-Reduced study included 3730 patients with heart failure and reduced ejection fraction treated with empagliflozin 10 mg or placebo.
+The EMPEROR studies included patients with heart failure and either reduced ejection fraction
+(N=3 726) or preserved ejection fraction (N=5 985) treated with empagliflozin 10 mg or placebo.
 Approximately half of the patients had type 2 diabetes mellitus.
-The most frequent adverse reaction was volume depletion (empagliflozin 10 mg: 10.6%. placebo: 9.9%).
-Major hypoglycaemia (events requiring assistance) was observed only in patients with diabetes mellitus.
+The most frequent adverse reaction of the pooled EMPEROR-Reduced and EMPEROR-Preserved studies was volume depletion (empagliflozin 10 mg: 11.4%. placebo: 9.7%).
 
 The overall safety profile of empagliflozin was generally consistent across the studied indications.
-No new adverse reactions were identified in the EMPEROR-Reduced heart failure study.
-
 Tabulated list of adverse reactions
 
 Adverse reactions classified by system organ class and MedDRA preferred terms reported in patients who received empagliflozin in placebo-controlled studies are presented in the table below (Table 2).
 
 The adverse reactions are listed by absolute frequency.
-Frequencies are defined as very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), or very rare (<1/10,000), and not known (cannot be estimated from the available data).
+Frequencies are defined as very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1 000 to <1/100), rare (≥1/10 000 to <1/1 000), or very rare (<1/10 000), and not known (cannot be estimated from the available data).
+
 Table 2: Tabulated list of adverse reactions (MedDRA) from reported placebo-controlled studies and from post-marketing experience
 
 | System organ class | Very common | Common | Uncommon | Rare | Very Rare |
 | --- | --- | --- | --- | --- | --- |
-| Infections and infestations |  | Vaginal moniliasis, vulvovaginitis, balanitis and other genital infectiona Urinary tract infection (including pyelonephritis and urosepsis)a |  | Necrotising fasciitis of the perineum (Fournier´s gangrene)b,* |  |
-| Metabolism and nutrition disorders | Hypoglycaemia (when used with sulphonylurea or insulin)a | Thirst |  | Diabetic ketoacidosis* |  |
-| Gastrointestinal disorders |  | Constipation |  |  |  |
+| Infections and infestations |  | Vaginal moniliasis, vulvovaginitis, balanitis and other genital infectiona Urinary tract infection (including pyelonephritis and urosepsis)a |  | Necrotising fasciitis of the perineum (Fournier´s gangrene)* |  |
+| Metabolism and nutrition disorders | Hypoglycaemia (when used with sulphonylurea or insulin)a | Thirst | Diabetic ketoacidosis* |  |  |
+| Gastrointestin al disorders |  | Constipation |  |  |  |
 | Skin and subcutaneous tissue disorders |  | Pruritus (generalised) Rash | Urticaria Angioedema |  |  |
 | Vascular disorders | Volume depletiona |  |  |  |  |
 | Renal and urinary disorders |  | Increased urinationa | Dysuria |  | Tubulo-interstitial nephritis |
 | Investigations |  | Serum lipids increaseda | Blood creatinine increased/ Glomerular filtration rate decreaseda Haematocrit increaseda |  |  |
 
-a see subsections below for additional information b In the EMPEROR-Reduced heart failure study, one case (<0.1%) of necrotising fasciitis of the perineum (Fournier´s gangrene) was observed in a patient with heart failure and diabetes mellitus treated with empagliflozin.
+a see subsections below for additional information
 * see section 4.4
 
 Description of selected adverse reactions
@@ -45,33 +44,34 @@ Hypoglycaemia
 The frequency of hypoglycaemia depended on the background therapy in the respective studies and was similar for empagliflozin and placebo as monotherapy, add-on to metformin, add-on to pioglitazone with or without metformin, as add-on to linagliptin and metformin, and as adjunct to standard care therapy and for the combination of empagliflozin with metformin in drug-naïve patients compared to those treated with empagliflozin and metformin as individual components.
 An increased frequency was noted when given as add-on to metformin and a sulphonylurea (empagliflozin 10 mg: 16.1%, empagliflozin 25 mg: 11.5%, placebo: 8.4%), add-on to basal insulin with or without metformin and with or without a sulphonylurea (empagliflozin 10 mg: 19.5%, empagliflozin 25 mg: 28.4%, placebo: 20.6% during initial 18 weeks treatment when insulin could not be adjusted; empagliflozin 10 mg and 25 mg: 36.1%, placebo 35.3% over the 78-week trial), and add-on to MDI insulin with or without metformin (empagliflozin 10 mg: 39.8%, empagliflozin 25 mg: 41.3%, placebo: 37.2% during initial 18 weeks treatment when insulin could not be adjusted; empagliflozin 10 mg: 51.1%, empagliflozin 25 mg: 57.7%, placebo: 58% over the 52-week trial).
 
-In the EMPEROR-Reduced heart failure study, similar frequency of hypoglycaemia was noted when used add-on to sulphonylurea or insulin (empagliflozin 10 mg: 4.2%, placebo: 4.6%).
+In the EMPEROR heart failure studies, similar frequency of hypoglycaemia was noted when used add-on to sulphonylurea or insulin (empagliflozin 10 mg: 6.5%, placebo: 6.7%).
 
 Major hypoglycaemia (events requiring assistance)
 No increase in major hypoglycaemia was observed with empagliflozin compared to placebo as monotherapy, add-on to metformin, add-on to metformin and a sulphonylurea, add-on to pioglitazone with or without metformin, add-on to linagliptin and metformin, as adjunct to standard care therapy and for the combination of empagliflozin with metformin in drug-naïve patients compared to those treated with empagliflozin and metformin as individual components.
 An increased frequency was noted when given as add-on to basal insulin with or without metformin and with or without a sulphonylurea (empagliflozin 10 mg: 0%, empagliflozin 25 mg: 1.3%, placebo: 0% during initial 18 weeks treatment when insulin could not be adjusted; empagliflozin 10 mg: 0%, empagliflozin 25 mg: 1.3%, placebo 0% over the 78-week trial), and add-on to MDI insulin with or without metformin (empagliflozin 10 mg: 0.5%, empagliflozin 25 mg: 0.5%, placebo: 0.5% during initial 18 weeks treatment when insulin could not be adjusted; empagliflozin 10 mg: 1.6%, empagliflozin 25 mg: 0.5%, placebo: 1.6% over the 52-week trial).
 
-In the EMPEROR-Reduced heart failure study, major hypoglycaemia was observed only in patients with diabetes mellitus when used as add-on to sulphonylurea or insulin (empagliflozin 10 mg: 1.2%, placebo: 1.5%).
+In the EMPEROR heart failure studies, major hypoglycaemia was observed at similar frequencies in patients with diabetes mellitus when treated with empagliflozin and placebo as add-on to sulphonylurea or insulin (empagliflozin 10 mg: 2.2%, placebo: 1.9%).
 
 Vaginal moniliasis, vulvovaginitis, balanitis and other genital infection
 Vaginal moniliasis, vulvovaginitis, balanitis and other genital infections were reported more frequently in patients treated with empagliflozin (empagliflozin 10 mg: 4.0%, empagliflozin 25 mg: 3.9%) compared to placebo (1.0%).
 These infections were reported more frequently in females treated with empagliflozin compared to placebo, and the difference in frequency was less pronounced in males.
 The genital tract infections were mild or moderate in intensity.
 
-In the EMPEROR-Reduced heart failure study, the frequency of these infections was more pronounced in patients with diabetes mellitus (empagliflozin 10 mg: 1.9%; placebo: 0.4%) than in patients without diabetes mellitus (empagliflozin 10 mg: 1.4%; placebo: 0.9%) when treated with empagliflozin compared to placebo.
+In the EMPEROR heart failure studies, the frequency of these infections was more pronounced in patients with diabetes mellitus (empagliflozin 10 mg: 2.3%; placebo: 0.8%) than in patients without diabetes mellitus (empagliflozin 10 mg: 1.7%; placebo: 0.7%) when treated with empagliflozin compared to placebo.
 
 Increased urination
 Increased urination (including the predefined terms pollakiuria, polyuria, and nocturia) was observed at higher frequencies in patients treated with empagliflozin (empagliflozin 10 mg: 3.5%, empagliflozin 25 mg: 3.3%) compared to placebo (1.4%).
 Increased urination was mostly mild or moderate in intensity.
 The frequency of reported nocturia was similar for placebo and empagliflozin (<1%).
 
-In the EMPEROR-Reduced heart failure study, increased urination was observed at similar frequencies in patients treated with empagliflozin and placebo (empagliflozin 10 mg: 0.7%, placebo 0.4%).
+In the EMPEROR heart failure studies, increased urination was observed at similar frequencies in patients treated with empagliflozin and placebo (empagliflozin 10 mg: 0.9%, placebo 0.5%).
 
 Urinary tract infection
 The overall frequency of urinary tract infection reported as adverse event was similar in patients treated with empagliflozin 25 mg and placebo (7.0% and 7.2%) and higher in empagliflozin 10 mg (8.8%).
 Similar to placebo, urinary tract infection was reported more frequently for empagliflozin in patients with a history of chronic or recurrent urinary tract infections.
 The intensity (mild, moderate, severe) of urinary tract infection was similar in patients treated with empagliflozin and placebo.
 Urinary tract infection was reported more frequently in females treated with empagliflozin compared to placebo; there was no difference in males.
+
 Volume depletion
 The overall frequency of volume depletion (including the predefined terms blood pressure (ambulatory) decreased, blood pressure systolic decreased, dehydration, hypotension, hypovolaemia, orthostatic hypotension, and syncope) was similar in patients treated with empagliflozin (empagliflozin 10 mg: 0.6%, empagliflozin 25 mg: 0.4%) and placebo (0.3%).
 The frequency of volume depletion events was increased in patients 75 years and older treated with empagliflozin 10 mg (2.3%) or empagliflozin 25 mg (4.3%) compared to placebo (2.1%).

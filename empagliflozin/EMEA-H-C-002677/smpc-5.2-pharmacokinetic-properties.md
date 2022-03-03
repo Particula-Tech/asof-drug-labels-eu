@@ -5,7 +5,7 @@ Absorption
 The pharmacokinetics of empagliflozin have been extensively characterised in healthy volunteers and patients with type 2 diabetes.
 After oral administration, empagliflozin was rapidly absorbed with peak plasma concentrations occurring at a median tmax of 1.5 hours post-dose.
 Thereafter, plasma concentrations declined in a biphasic manner with a rapid distribution phase and a relatively slow terminal phase.
-The steady state mean plasma AUC and Cmax were 1870 nmol.h/l and 259 nmol/l with empagliflozin 10 mg and 4740 nmol.h/l and 687 nmol/l with empagliflozin 25 mg once daily.
+The steady state mean plasma AUC and Cmax were 1 870 nmol.h/l and 259 nmol/l with empagliflozin 10 mg and 4 740 nmol.h/l and 687 nmol/l with empagliflozin 25 mg once daily.
 Systemic exposure of empagliflozin increased in a dose-proportional manner.
 The single-dose and steady-state pharmacokinetic parameters of empagliflozin were similar suggesting linear pharmacokinetics with respect to time.
 There were no clinically relevant differences in empagliflozin pharmacokinetics between healthy volunteers and patients with type 2 diabetes.

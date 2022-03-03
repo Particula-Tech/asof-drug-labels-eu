@@ -5,7 +5,7 @@ Pharmacotherapeutic group: Drugs used in diabetes, Sodium-glucose co-transporter
 Mechanism of action
 
 Empagliflozin is a reversible, highly potent (IC50 of 1.3 nmol) and selective competitive inhibitor of sodium-glucose co-transporter 2 (SGLT2).
-Empagliflozin does not inhibit other glucose transporters important for glucose transport into peripheral tissues and is 5000 times more selective for SGLT2 versus SGLT1, the major transporter responsible for glucose absorption in the gut.
+Empagliflozin does not inhibit other glucose transporters important for glucose transport into peripheral tissues and is 5 000 times more selective for SGLT2 versus SGLT1, the major transporter responsible for glucose absorption in the gut.
 SGLT2 is highly expressed in the kidney, whereas expression in other tissues is absent or very low.
 It is responsible, as the predominant transporter, for the reabsorption of glucose from the glomerular filtrate back into the circulation.
 In patients with type 2 diabetes and hyperglycaemia a higher amount of glucose is filtered and reabsorbed.
@@ -26,15 +26,16 @@ In addition, urinary glucose excretion triggers calorie loss, associated with bo
 The glucosuria observed with empagliflozin is accompanied by diuresis which may contribute to sustained and moderate reduction of blood pressure.
 
 Empagliflozin also reduces sodium reabsorption and increases the delivery of sodium to the distal tubule.
-This may influence several physiological functions including, but not restricted to, increasing tubuloglomerular feedback and reducing intraglomerular pressure, lowering both pre- and afterload of the heart, and downregulating of sympathetic activity.
+This may influence several physiological functions including, but not restricted to: increasing tubuloglomerular feedback and reducing intraglomerular pressure, lowering both pre- and afterload of the heart, downregulating of sympathetic activity and reducing left ventricular wall stress as evidenced by lower NT-proBNP values and beneficial effects on cardiac remodeling, filling pressures and diastolic function.
 
 Clinical efficacy and safety
 
 Type 2 diabetes mellitus
 Both improvement of glycaemic control and reduction of cardiovascular morbidity and mortality are an integral part of the treatment of type 2 diabetes.
 
-Glycaemic efficacy and cardiovascular outcomes have been assessed in a total of 14,663 patients with type 2 diabetes who were treated in 12 double-blind, placebo- and active-controlled clinical studies, of which 9,295 received empagliflozin (empagliflozin 10 mg: 4,165 patients; empagliflozin 25 mg: 5,130 patients).
+Glycaemic efficacy and cardiovascular outcomes have been assessed in a total of 14 663 patients with type 2 diabetes who were treated in 12 double-blind, placebo- and active-controlled clinical studies, of which 9 295 received empagliflozin (empagliflozin 10 mg: 4 165 patients; empagliflozin 25 mg: 5 130 patients).
 Five studies had treatment durations of 24 weeks; extensions of those and other studies had patients exposed to empagliflozin for up to 102 weeks.
+
 Treatment with empagliflozin as monotherapy and in combination with metformin, pioglitazone, a sulphonylurea, DPP-4 inhibitors, and insulin lead to clinically relevant improvements in HbA1c, fasting plasma glucose (FPG), body weight, and systolic and diastolic blood pressure.
 Administration of empagliflozin 25 mg resulted in a higher proportion of patients achieving HbA1c goal of less than 7% and fewer patients needing glycaemic rescue compared to empagliflozin 10 mg and placebo.
 Higher baseline HbA1c was associated with a greater reduction in HbA1c.
@@ -46,7 +47,6 @@ The efficacy and safety of empagliflozin as monotherapy was evaluated in a doubl
 Treatment with empagliflozin resulted in a statistically significant (p<0.0001) reduction in HbA1c compared to placebo (Table 3) and a clinically meaningful decrease in FPG.
 In a pre-specified analysis of patients (N=201) with a baseline HbA1c ≥8.5%, treatment resulted in a reduction in HbA1c from baseline of -1.44% for empagliflozin 10 mg, -1.43% for empagliflozin 25 mg, -1.04% for sitagliptin, and an increase of 0.01% for placebo.
 In the double-blind placebo-controlled extension of this study, reductions of HbA1c, body weight and blood pressure were sustained up to Week 76.
-
 Table 3: Efficacy results of a 24 week placebo-controlled study of empagliflozin as monotherapya
 
 |  | Placebo | Jardiance |  | Sitagliptin |
@@ -75,13 +75,13 @@ a Full analysis set (FAS) using last observation carried forward (LOCF) prior to
 2 Not evaluated for statistical significance as a result of the sequential confirmatory testing procedure 3 95% CI
 4 LOCF, values after antihypertensive rescue censored
 *p-value <0.0001
+
 Combination therapy
 
 Empagliflozin as add-on to metformin, sulphonylurea, pioglitazone
 Empagliflozin as add-on to metformin, metformin and a sulphonylurea, or pioglitazone with or without metformin resulted in statistically significant (p<0.0001) reductions in HbA1c and body weight compared to placebo (Table 4).
 In addition it resulted in a clinically meaningful reduction in FPG, systolic and diastolic blood pressure compared to placebo.
 In the double-blind placebo-controlled extension of these studies, reduction of HbA1c, body weight and blood pressure were sustained up to Week 76.
-
 Table 4: Efficacy results of 24 week placebo-controlled studiesa
 
 | Add-on to metformin therapy |  |  |  |
@@ -154,12 +154,12 @@ a Full analysis set (FAS) using last observation carried forward (LOCF) prior to
 In combination with metformin in drug-naïve patients
 A factorial design study of 24 weeks duration was conducted to evaluate the efficacy and safety of empagliflozin in drug-naïve patients.
 Treatment with empagliflozin in combination with metformin
-(5 mg and 500 mg; 5 mg and 1000 mg; 12.5 mg and 500 mg, and 12.5 mg and 1000 mg given twice daily) provided statistically significant improvements in HbA1c (Table 5) and led to greater reductions in FPG (compared to the individual components) and body weight (compared to metformin).
+(5 mg and 500 mg; 5 mg and 1 000 mg; 12.5 mg and 500 mg, and 12.5 mg and 1 000 mg given twice daily) provided statistically significant improvements in HbA1c (Table 5) and led to greater reductions in FPG (compared to the individual components) and body weight (compared to metformin).
 Table 5: Efficacy results at 24 week comparing empagliflozin in combination with metformin to the individual componentsa
 
 |  | Empagliflozin 10 mgb |  |  | Empagliflozin 25 mgb |  |  | Metforminc |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | + Met 1000 mgc | + Met 2000 mgc | No Met | + Met 1000 mgc | + Met 2000 mgc | No Met | 1000 mg | 2000 mg |
+|  | + Met 1 000 mgc | + Met 2 000 mgc | No Met | + Met 1 000 mgc | + Met 2 000 mgc | No Met | 1 000 mg | 2 000 mg |
 | N | 161 | 167 | 169 | 165 | 169 | 163 | 167 | 162 |
 | HbA1c (%) |  |  |  |  |  |  |  |  |
 | Baseline (mean) | 8.68 | 8.65 | 8.62 | 8.84 | 8.66 | 8.86 | 8.69 | 8.55 |
@@ -203,8 +203,8 @@ Table 6: Efficacy results of a 24 week placebo-controlled study in patients inad
 3 MMRM model on FAS (OC) included baseline HbA1c, baseline eGFR (MDRD), geographical region, visit, treatment, and treatment by visit interaction.
 For weight, baseline weight was included.
 4 MMRM model included baseline SBP and baseline HbA1c as linear covariate(s), and baseline eGFR, geographical region, treatment, visit, and visit by treatment interaction as fixed effects.
-5 Patients randomized to the placebo group were receiving the placebo plus linagliptin 5 mg with background metformin
-6 Patients randomized to the empagliflozin 10 mg or 25 mg groups were receiving empagliflozin 10 mg or 25 mg and linagliptin 5 mg with background metformin
+5 Patients randomised to the placebo group were receiving the placebo plus linagliptin 5 mg with background metformin
+6 Patients randomised to the empagliflozin 10 mg or 25 mg groups were receiving empagliflozin 10 mg or 25 mg and linagliptin 5 mg with background metformin
 * p-value <0.0001
 
 In a pre-specified subgroup of patients with baseline HbA1c greater or equal than 8.5% the reduction from baseline in HbA1c was -1.3% with empagliflozin 10 mg or 25 mg at 24 weeks (p<0.0001) compared to placebo.
@@ -346,11 +346,10 @@ a Full analysis set (FAS) using last observation carried forward (LOCF) prior to
 
 Cardiovascular outcome
 The double-blind, placebo-controlled EMPA-REG OUTCOME study compared pooled doses of empagliflozin 10 mg and 25 mg with placebo as adjunct to standard care therapy in patients with type 2 diabetes and established cardiovascular disease.
-A total of 7020 patients were treated (empagliflozin 10 mg: 2345, empagliflozin 25 mg: 2342, placebo: 2333) and followed for a median of 3.1 years.
+A total of 7 020 patients were treated (empagliflozin 10 mg: 2 345, empagliflozin 25 mg: 2 342, placebo: 2 333) and followed for a median of 3.1 years.
 The mean age was 63 years, the mean HbA1c was 8.1%, and 71.5% were male.
-At baseline, 74% of patients were being treated with metformin, 48% with insulin, and 43% with a sulfonylurea.
-About half of the patients (52.2%) had an eGFR of 60-90 ml/min/1.73 m2, 17.8% of
-45-60 ml/min/1.73 m2 and 7.7% of 30-45 ml/min/1.73 m2.
+At baseline, 74% of patients were being treated with metformin, 48% with insulin, and 43% with a sulphonylurea.
+About half of the patients (52.2%) had an eGFR of 60-90 ml/min/1.73 m2, 17.8% of 45-60 ml/min/1.73 m2 and 7.7% of 30-45 ml/min/1.73 m2.
 
 At week 12, an adjusted mean (SE) improvement in HbA1c when compared to baseline of 0.11% (0.02) in the placebo group, 0.65% (0.02) and 0.71% (0.02) in the empagliflozin 10 and 25 mg groups was observed.
 After the first 12 weeks glycaemic control was optimized independent of investigative treatment.
@@ -366,7 +365,7 @@ Table 11:Treatment effect for the primary composite endpoint, its components and
 
 |  | Placebo | Empagliflozinb |
 | --- | --- | --- |
-| N | 2333 | 4687 |
+| N | 2 333 | 4 687 |
 | Time to first event of CV death, non-fatal MI, or non-fatal stroke N (%) | 282 (12.1) | 490 (10.5) |
 | Hazard ratio vs. placebo (95.02% CI)* |  | 0.86 (0.74, 0.99) |
 | p−value for superiority |  | 0.0382 |
@@ -398,7 +397,7 @@ In the EMPA-REG OUTCOME study, for time to first nephropathy event, the HR was 0
 In addition, empagliflozin showed a higher (HR 1.82, 95 % CI 1.40, 2.37) occurrence of sustained normo- or micro-albuminuria (49.7 %) in patients with baseline macro-albuminuria compared with placebo (28.8 %).
 
 Fasting plasma glucose
-In four placebo-controlled studies, treatment with empagliflozin as monotherapy or add-on therapy to metformin, pioglitazone, or metformin plus a sulfonylurea resulted in mean changes from baseline in FPG of -20.5 mg/dl [-1.14 mmol/l] for empagliflozin 10 mg and -23.2 mg/dl [-1.29 mmol/l] for empagliflozin 25 mg compared to placebo (7.4 mg/dl [0.41 mmol/l]).
+In four placebo-controlled studies, treatment with empagliflozin as monotherapy or add-on therapy to metformin, pioglitazone, or metformin plus a sulphonylurea resulted in mean changes from baseline in FPG of -20.5 mg/dl [-1.14 mmol/l] for empagliflozin 10 mg and -23.2 mg/dl [-1.29 mmol/l] for empagliflozin 25 mg compared to placebo (7.4 mg/dl [0.41 mmol/l]).
 This effect was observed after 24 weeks and maintained for 76 weeks.
 
 2-hour post-prandial glucose
@@ -407,10 +406,10 @@ Treatment with empagliflozin as add-on to metformin or metformin and a sulphonyl
 Patients with high baseline HbA1c >10%
 In a pre-specified pooled analysis of three phase 3 studies, treatment with open-label empagliflozin 25 mg in patients with severe hyperglycaemia (N=184, mean baseline HbA1c 11.15%) resulted in a clinically meaningful reduction in HbA1c from baseline of 3.27% at week 24; no placebo or empagliflozin 10 mg arms were included in these studies.
 Body weight
-In a pre-specified pooled analysis of 4 placebo controlled studies, treatment with empagliflozin resulted in body weight reduction (-0.24 kg for placebo, -2.04 kg for empagliflozin 10 mg and -2.26 kg for empagliflozin 25 mg) at week 24 that was maintained up to week 52 (-0.16 kg for placebo, -1.96 kg for empagliflozin 10 mg and -2.25 kg for empagliflozin 25 mg).
+In a pre-specified pooled analysis of 4 placebo-controlled studies, treatment with empagliflozin resulted in body weight reduction (-0.24 kg for placebo, -2.04 kg for empagliflozin 10 mg and -2.26 kg for empagliflozin 25 mg) at week 24 that was maintained up to week 52 (-0.16 kg for placebo, -1.96 kg for empagliflozin 10 mg and -2.25 kg for empagliflozin 25 mg).
 
 Blood pressure
-The efficacy and safety of empagliflozin was evaluated in a double-blind, placebo controlled study of 12 weeks duration in patients with type 2 diabetes and high blood pressure on different antidiabetic and up to 2 antihypertensive therapies.
+The efficacy and safety of empagliflozin was evaluated in a double-blind, placebo-controlled study of 12 weeks duration in patients with type 2 diabetes and high blood pressure on different antidiabetic and up to 2 antihypertensive therapies.
 Treatment with empagliflozin once daily resulted in statistically significant improvement in HbA1c, and 24 hour mean systolic and diastolic blood pressure as determined by ambulatory blood pressure monitoring (Table 12).
 Treatment with empagliflozin provided reductions in seated SBP and DBP.
 
@@ -445,15 +444,17 @@ a Full analysis set (FAS)
 In a pre-specified pooled analysis of 4 placebo-controlled studies, treatment with empagliflozin resulted in a reduction in systolic blood pressure (empagliflozin 10 mg: -3.9 mmHg; empagliflozin 25 mg: -4.3 mmHg) compared with placebo (-0.5 mmHg) and in diastolic blood pressure (empagliflozin 10 mg: -1.8 mmHg; empagliflozin 25 mg: -2.0 mmHg) compared with placebo
 (-0.5 mmHg) at week 24 that were maintained up to week 52.
 Heart failure
-A randomized, double-blind, placebo-controlled study (EMPEROR-Reduced) was conducted in 3730 patients with chronic heart failure (New York Heart Association [NYHA] II-IV) and reduced ejection fraction (LVEF ≤40 %) to evaluate the efficacy and safety of empagliflozin 10 mg once daily as adjunct to standard of care heart failure therapy.
+
+Empagliflozin in patients with heart failure and reduced ejection fraction
+A randomised, double-blind, placebo-controlled study (EMPEROR-Reduced) was conducted in 3 730 patients with chronic heart failure (New York Heart Association [NYHA] II-IV) and reduced ejection fraction (LVEF ≤40%) to evaluate the efficacy and safety of empagliflozin 10 mg once daily as adjunct to standard of care heart failure therapy.
 The primary endpoint was the time to adjudicated first event of either cardiovascular (CV) death or hospitalisation for heart failure (HHF).
 Occurrence of adjudicated HHF (first and recurrent) and eGFR(CKD-EPI)cr slope of change from baseline were included in the confirmatory testing.
 Heart Failure therapy at baseline included ACE inhibitors/angiotensin receptor blockers/angiotensin receptor-neprilysin inhibitor (88.3%), beta blockers (94.7%), mineralocorticoid receptor antagonists (71.3%) and diuretics (95.0%).
 
-A total of 1863 patients were randomized to empagliflozin 10 mg (placebo: 1867) and followed for a median of 15.7 months.
+A total of 1 863 patients were randomized to empagliflozin 10 mg (placebo: 1 867) and followed for a median of 15.7 months.
 The study population consisted of 76.1% men and 23.9% women with a mean age of 66.8 years (range: 25-94 years), 26.8% were 75 years of age or older.
 70.5% of the study population were White, 18.0% Asian and 6.9% Black/African American.
-At randomization, 75.1% of patients were NYHA class II, 24.4% were class III and 0.5% were class IV.
+At randomisation, 75.1% of patients were NYHA class II, 24.4% were class III and 0.5% were class IV.
 The mean LVEF was 27.5%.
 At baseline, the mean eGFR was 62.0 ml/min/1.73 m2 and the median urinary albumin to creatinine ratio (UACR) was 22 mg/g.
 About half of the patients (51.7%) had an eGFR of
@@ -466,7 +467,7 @@ Table 13: Treatment effect for the primary composite endpoint, its components an
 
 |  | Placebo | Empagliflozin 10 mg |
 | --- | --- | --- |
-| N | 1867 | 1863 |
+| N | 1 867 | 1 863 |
 | Time to first event of CV death or HHF, N (%) | 462 (24.7) | 361 (19.4) |
 | Hazard ratio vs. placebo (95% CI)* |  | 0.75 (0.65, 0.86) |
 | p−value for superiority |  | <0.0001 |
@@ -479,10 +480,10 @@ Table 13: Treatment effect for the primary composite endpoint, its components an
 | p−value |  | 0.0003 |
 | eGFR (CKD EPI)cr slope**, Rate of decline (ml/min/1.73m2/year) | -2.28 | -0.55 |
 | Treatment difference vs. placebo (95% CI) |  | 1.73 (1.10, 2.37) |
-| p-value |  | p< 0.0001 |
+| p-value |  | < 0.0001 |
 
 CV = cardiovascular, HHF = hospitalization for heart failure, eGFR = Estimated glomerular filtration rate, CKD EPI = Chronic kidney disease epidemiology collaboration equation
-* CV death and HHF events were adjudicated by an independent clinical event committee and analysed based on the randomized set.
+* CV death and HHF events were adjudicated by an independent clinical event committee and analysed based on the randomised set.
 **eGFR slope was analysed based on the treated set.
 Intercept is -0.95 ml/min/1.73 m2 for placebo and -3.02 ml/min/1.73 m2 for empagliflozin.
 The intercept represents the acute effect on eGFR while the slope represents the long-term effect.
@@ -495,7 +496,59 @@ Treatment with empagliflozin 10 mg significantly reduced the rate of eGFR declin
 Patients treated with empagliflozin experienced an initial drop in eGFR which returned towards baseline after treatment discontinuation supporting that haemodynamic changes play a role in the acute effects of empagliflozin on eGFR.
 Figure 3 Change in eGFR over time*
 
-*eGFR (CKD-EPI) (mL/min/1.73m2) MMRM results over time - treated set.
+*eGFR (CKD-EPI) (mL/min/1.73m2) MMRM results over time - randomised set.
+
+Empagliflozin in patients with heart failure and preserved ejection fraction
+A randomised, double-blind, placebo-controlled study (EMPEROR-Preserved) was conducted in 5 988 patients with chronic heart failure (NYHA II-IV) and preserved ejection fraction (LVEF >40%) to evaluate the efficacy and safety of empagliflozin 10 mg once daily as adjunct to standard of care therapy.
+The primary endpoint was the time to adjudicated first event of either cardiovascular (CV) death or hospitalisation for heart failure (HHF).
+Occurrence of adjudicated HHF (first and recurrent), and eGFR(CKD-EPI)cr slope of change from baseline were included in the confirmatory testing.
+Baseline therapy included ACE inhibitors/angiotensin receptor blockers/angiotensin receptor-neprilysin inhibitor (80.7%), beta blockers (86.3%), mineralocorticoid receptor antagonists (37.5%) and diuretics (86.2%).
+
+A total of 2 997 patients were randomised to empagliflozin 10 mg (placebo: 2 991) and followed for a median of 26.2 months.
+The study population consisted of 55.3% men and 44.7% women with a mean age of 71.9 years (range: 22-100 years), 43.0% were 75 years of age or older.
+75.9% of the study population were White, 13.8% Asian and 4.3% Black/African American.
+At randomisation, 81.5% of patients were NYHA class II, 18.1% were class III and 0.3% were class IV.
+The EMPEROR-Preserved study population included patients with a LVEF <50% (33.1%), with a LVEF 50 to <60% (34.4%) and a LVEF ≥60% (32.5%).
+At baseline, the mean eGFR was 60.6 ml/min/1.73 m2 and the median urinary albumin to creatinine ratio (UACR) was 21 mg/g.
+About half of the patients (50.1%) had an eGFR of ≥60 ml/min/1.73 m2, 26.1% of 45 to <60 ml/min/1.73 m2, 18.6% of 30 to <45 ml/min/1.73 m2 and 4.9% 20 to <30 ml/min/1.73 m2.
+
+Empagliflozin was superior in reducing the risk of the primary composite endpoint of cardiovascular death or hospitalization for heart failure compared with placebo.
+Additionally, empagliflozin significantly reduced the risk of occurrence of HHF (first and recurrent), and significantly reduced the rate of eGFR decline (Table 14; figure 4 and 5).
+
+Table 14: Treatment effect for the primary composite endpoint, its components and the two key secondary endpoints included in the pre-specified confirmatory testing
+
+|  | Placebo | Empagliflozin 10 mg |
+| --- | --- | --- |
+| N | 2 991 | 2 997 |
+| Time to first event of CV death or HHF, N (%) | 511 (17.1) | 415 (13.8) |
+| Hazard ratio vs. placebo (95% CI)* |  | 0.79 (0.69, 0.90) |
+| p−value for superiority |  | 0.0003 |
+| CV Death, N (%) | 244 (8.2) | 219 (7.3) |
+| Hazard ratio vs. placebo (95% CI) |  | 0.91 (0.76, 1.09) |
+| HHF (first occurrence), N (%) | 352 (11.8) | 259 (8.6) |
+| Hazard ratio vs. placebo (95% CI) |  | 0.71 (0.60, 0.83) |
+| HHF (first and recurrent), N of events | 541 | 407 |
+| Hazard ratio vs. placebo (95% CI)* |  | 0.73 (0.61, 0.88) |
+| p−value |  | 0.0009 |
+| eGFR (CKD EPI)cr slope**, Rate of decline (ml/min/1.73m2/year) | -2.62 | -1.25 |
+| Treatment difference vs. placebo (95% CI) |  | 1.36 (1.06, 1.66) |
+| p-value |  | < 0.0001 |
+
+CV = cardiovascular, HHF = hospitalization for heart failure, eGFR = Estimated glomerular filtration rate, CKD EPI = Chronic kidney disease epidemiology collaboration equation
+* CV death and HHF events were adjudicated by an independent clinical event committee and analysed based on the randomised set.
+**eGFR slope was analysed based on the treated set.
+Intercept is -0.18 ml/min/1.73 m2 for placebo and -3.02 ml/min/1.73 m2 for empagliflozin.
+The intercept represents the acute effect on eGFR while the slope represents the long-term effect.
+Figure 4 Time to first event of adjudicated CV death or HHF
+
+The results of the primary composite endpoint were consistent across each of the pre-specified subgroups categorized by e.g., LVEF, diabetes status or renal function (down to an eGFR of 20 ml/min/1.73 m2).
+
+During treatment, eGFR decline over time was slower in the empagliflozin group compared to the placebo group (see Figure 5).
+Treatment with empagliflozin 10 mg significantly reduced the rate of eGFR decline and the effect was consistent across all pre-specified subgroups (see Table 14).
+Patients treated with empagliflozin experienced an initial drop in eGFR which returned towards baseline after treatment discontinuation supporting that haemodynamic changes play a role in the acute effects of empagliflozin on eGFR.
+Figure 5 Change in eGFR over time*
+
+*eGFR (CKD-EPI) (mL/min/1.73m2) MMRM results over time - randomised set
 
 Paediatric population
 
