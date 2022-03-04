@@ -7,7 +7,6 @@ Abacavir has also been shown in vitro not to inhibit, CYP2C9 or CYP2D6 enzymes a
 Induction of hepatic metabolism has not been observed in clinical studies.
 Therefore, there is little potential for interactions with antiretroviral PIs and other medicinal products metabolised by major P450 enzymes.
 Clinical studies have shown that there are no clinically significant interactions between abacavir, zidovudine, and lamivudine.
-
 Potent enzymatic inducers such as rifampicin, phenobarbital and phenytoin may via their action on UDP-glucuronyltransferases slightly decrease the plasma concentrations of abacavir.
 
 Ethanol: the metabolism of abacavir is altered by concomitant ethanol resulting in an increase in AUC of abacavir of about 41%.
