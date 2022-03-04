@@ -2,14 +2,14 @@
 
 5 years.
 
-[Treatment initiation pack (in adolescent and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
+[Treatment initiation pack (in adolescents and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
 
 (all sentences already above)
 
 [Vimpat 10 mg/ml syrup]
 
 3 years
-After first opening: 2 months.
+After first opening: 6 months.
 
 [Vimpat 10 mg/ml solution for infusion]
 

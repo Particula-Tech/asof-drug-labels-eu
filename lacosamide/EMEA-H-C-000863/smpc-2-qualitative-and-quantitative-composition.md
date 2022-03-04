@@ -18,7 +18,7 @@ Each film-coated tablet contains 200 mg lacosamide.
 
 For the full list of excipients, see section 6.1.
 
-[Treatment initiation pack (in adolescent and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
+[Treatment initiation pack (in adolescents and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
 
 (all sentences already above)
 
@@ -28,7 +28,8 @@ Each ml of syrup contains 10 mg lacosamide.
 1 bottle of 200 ml contains 2,000 mg lacosamide.
 
 Excipients with known effect:
-Each ml of Vimpat syrup contains 187 mg sorbitol (E420), 2.60 mg sodium methyl parahydroxybenzoate (E219), 2.14 mg propylene glycol (E1520), 1.42 mg sodium, and 0.032 mg aspartame (E951).
+Each ml of Vimpat syrup contains 187 mg sorbitol (E420), 2.60 mg sodium methyl parahydroxybenzoate (E219), 2.14 mg propylene glycol (E1520), 1.42 mg sodium and
+0.032 mg aspartame (E951).
 
 [Vimpat 10 mg/ml solution for infusion]
 

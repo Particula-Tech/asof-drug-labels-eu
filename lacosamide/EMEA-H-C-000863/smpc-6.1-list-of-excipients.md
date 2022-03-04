@@ -3,7 +3,6 @@
 Tablet core
 
 microcrystalline cellulose hydroxypropylcellulose hydroxypropylcellulose (low substituted) silica, colloidal, anhydrous crospovidone (polyplasdone XL-10 Pharmaceutical Grade) magnesium stearate
-
 Tablet coat
 
 Vimpat 50 mg film-coated tablets
@@ -22,7 +21,7 @@ Vimpat 200 mg film-coated tablets
 
 polyvinyl alcohol polyethylene glycol 3350 talc titanium dioxide (E171) indigo carmine aluminium lake (E132)
 
-[Treatment initiation pack (in adolescent and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
+[Treatment initiation pack (in adolescents and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
 
 polyvinyl alcohol polyethylene glycol 3350 talc titanium dioxide (E171)
 

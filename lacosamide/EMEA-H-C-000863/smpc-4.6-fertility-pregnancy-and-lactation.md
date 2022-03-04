@@ -1,5 +1,10 @@
 # 4.6 Fertility, pregnancy and lactation
 
+Women of childbearing potential
+
+Physicians should discuss family planning and contraception with women of childbearing potential taking lacosamide (see Pregnancy).
+If a woman decides to become pregnant, the use of lacosamide should be carefully re-evaluated.
+
 Pregnancy
 
 Risk related to epilepsy and antiepileptic medicinal products in general
@@ -20,7 +25,6 @@ It is unknown whether lacosamide is excreted in human breast milk.
 A risk to the newborns/infants cannot be excluded.
 Animal studies have shown excretion of lacosamide in breast milk.
 For precautionary measures, breast-feeding should be discontinued during treatment with lacosamide.
-
 Fertility
 
 No adverse reactions on male or female fertility or reproduction were observed in rats at doses producing plasma exposures (AUC) up to approximately 2 times the plasma AUC in humans at the maximum recommended human dose (MRHD).

@@ -7,7 +7,7 @@ The most frequently reported adverse reactions (≥ 10 %) with lacosamide treatm
 They were usually mild to moderate in intensity.
 Some were dose-related and could be alleviated by reducing the dose.
 Incidence and severity of central nervous system (CNS) and gastrointestinal (GI) adverse reactions usually decreased over time.
-In all of these controlled studies, the discontinuation rate due to adverse reactions was 12.2 % for patients randomised to lacosamide and 1.6 % for patients randomised to placebo.
+In all of these controlled clinical studies, the discontinuation rate due to adverse reactions was 12.2 % for patients randomised to lacosamide and 1.6 % for patients randomised to placebo.
 The most common adverse reaction resulting in discontinuation of lacosamide therapy was dizziness.
 Incidence of CNS adverse reactions such as dizziness may be higher after a loading dose.
 
@@ -31,20 +31,33 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Blood and lymphatic disorders |  |  |  | Agranulocytosis(1) |
 | Immune system disorders |  |  | Drug hypersensitivity(1) | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1,2) |
 | Psychiatric disorders |  | Depression Confusional state Insomnia(1) | Aggression Agitation(1) Euphoric mood(1) Psychotic disorder(1) Suicide attempt (1) Suicidal ideation Hallucination (1) |  |
-| Nervous system disorders | Dizziness Headache | Myoclonic seizures(3) Ataxia Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope(2) Coordination abnormal | Convulsion |
+| Nervous system disorders | Dizziness Headache | Myoclonic seizures(3) Ataxia Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope(2) Coordination abnormal Dyskinesia | Convulsion |
 | Eye disorders | Diplopia | Vision blurred |  |  |
 | Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
 | Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) A(1,2tr) ial Fibrillation Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1) |
 | Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
 | Hepatobiliary disorders |  |  | Liver function test abnormal(2) Hepatic enzyme increased (> 2x ULN) (1) |  |
-| Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) Toxic epidermal necrolysis(1) |
-| Musculoskeletal and connective tissue disorders |  | Muscle spasms |  |  |
-| General disorders and administration site conditions |  | Gait disturbance Asthenia Fatigue Irritability Feeling drunk |  |  |
-| Injury, poisoning and procedural complications |  | Fall Skin laceration Contusion |  |  |
+| Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) Toxic epidermal |
+
+System organ class Very Common Uncommon Not known
+common
+necrolysis(1)
+Musculoskeletal Muscle spasms
+and connective
+tissue disorders
+General disorders Gait disturbance
+and administration Asthenia
+site conditions Fatigue
+Irritability
+Feeling drunk
+Injury, poisoning Fall
+and procedural Skin laceration
+complications Contusion
 
 (1) Adverse reactions reported in post marketing experience.
 (2) See Description of selected adverse reactions.
 (3) Reported in PGTCS studies.
+
 Description of selected adverse reactions
 
 The use of lacosamide is associated with dose-related increase in the PR interval.
@@ -58,7 +71,7 @@ In the monotherapy clinical study comparing lacosamide to carbamazepine CR, sync
 Atrial fibrillation or flutter were not reported in short term clinical studies; however, both have been reported in open-label epilepsy studies and in post-marketing experience.
 
 Laboratory abnormalities
-Abnormalities in liver function tests have been observed in placebo-controlled studies with lacosamide in adult patients with partial-onset seizures who were taking 1 to 3 concomitant antiepileptic medicinal products.
+Abnormalities in liver function tests have been observed in placebo-controlled clinical studies with lacosamide in adult patients with partial-onset seizures who were taking 1 to 3 concomitant antiepileptic medicinal products.
 Elevations of ALT to ≥ 3x ULN occurred in 0.7 % (7/935) of Vimpat patients and 0 % (0/356) of placebo patients.
 
 Multiorgan hypersensitivity reactions
@@ -68,10 +81,10 @@ If multiorgan hypersensitivity reaction is suspected, lacosamide should be disco
 
 Paediatric population
 
-The safety profile of lacosamide in placebo-controlled (see study details in section 5.1) and in open-label studies (n=408) in adjunctive therapy in children from 4 years of age with partial-onset seizures was consistent with the safety profile observed in adults although the frequency of some adverse reactions (somnolence, vomiting and convulsion) was increased and additional adverse reactions (nasopharyngitis, pyrexia, pharyngitis, decreased appetite, lethargy and abnormal behaviour) have been reported in paediatric patients: nasopharyngitis (15.7 %), vomiting (14.7 %), somnolence
-(14.0 %), dizziness (13.5 %), pyrexia (13.0 %), convulsion (7.8 %), decreased appetite (5.9 %), pharyngitis (4.7 %), lethargy (2.7 %) and abnormal behaviour (1.7 %).
-A total of 67.8 % of patients randomised to lacosamide and 58.1 % of patients randomised to placebo reported at least 1 adverse reaction.
-Behavioural, cognition and emotional functioning were measured by the questionnaires Achenbach CBCL and BRIEF that were applied at baseline and throughout the studies and were mainly stable during the course of the studies.
+The safety profile of lacosamide in placebo-controlled (255 patients from 1 month to less than 4 years of age and 343 patients from 4 years to less than 17 years of age) and in open-label clinical studies (847 patients from 1 month to less than or equal to 18 years of age) in adjunctive therapy in paediatric patients with partial-onset seizures was consistent with the safety profile observed in adults.
+As data available in paediatric patients younger than 2 years of age is limited, lacosamide is not indicated in this age range.
+The additional adverse reactions observed in the paediatric population were pyrexia, nasopharyngitis, pharyngitis, decreased appetite, abnormal behaviour and lethargy.
+Somnolence was reported more frequently in the paediatric population (≥ 1/10) compared to the adult population (≥ 1/100 to < 1/10).
 
 Elderly population
 
@@ -88,9 +101,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-[Treatment initiation pack (in adolescent and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
-
-Based on the analysis of data from a non-inferiority monotherapy clinical study comparing lacosamide to carbamazepine controlled release (CR), the most frequently reported adverse reactions (≥10 %) for lacosamide were headache and dizziness.
+[Treatment initiation pack (in adolescents and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
 
 These reactions are variable in expression but typically present with fever and rash and can be associated with involvement of different organ systems.
 
@@ -101,8 +112,7 @@ These reactions are variable in expression but typically present with fever and 
 | Blood and lymphatic disorders |  |  |  | Agranulocytosis(1) |
 | Immune system disorders |  |  | Drug hypersensitivity(1) | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1,2) |
 | Psychiatric disorders |  | Depression Confusional state Insomnia(1) | Aggression Agitation(1) Euphoric mood(1) Psychotic disorder(1) Suicide attempt (1) Suicidal ideation Hallucination (1) |  |
-| Nervous system disorders | Dizziness Headache | Myoclonic seizures(3) Ataxia Balance disorder Memory impairment Cognitive disorder | Syncope(2) Coordination abnormal | Convulsion |
-|  |  | Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia |  |  |
+| Nervous system disorders | Dizziness Headache | Myoclonic seizures(3) Ataxia Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope(2) Coordination abnormal Dyskinesia | Convulsion |
 | Eye disorders | Diplopia | Vision blurred |  |  |
 | Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
 | Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) A(1,2tr) ial Fibrillation Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1) |
@@ -120,12 +130,11 @@ These reactions are variable in expression but typically present with fever and 
 | Blood and lymphatic disorders |  |  |  | Agranulocytosis(1) |
 | Immune system disorders |  |  | Drug hypersensitivity(1) | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1,2) |
 | Psychiatric disorders |  | Depression Confusional state Insomnia(1) | Aggression Agitation(1) Euphoric mood(1) Psychotic disorder(1) Suicide attempt (1) Suicidal ideation Hallucination (1) |  |
-| Nervous system disorders | Dizziness Headache | Myoclonic seizures(3) Ataxia Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope(2) Coordination abnormal | Convulsion |
+| Nervous system disorders | Dizziness Headache | Myoclonic seizures(3) Ataxia Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope(2) Coordination abnormal Dyskinesia | Convulsion |
 | Eye disorders | Diplopia | Vision blurred |  |  |
 | Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
 | Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) A(1,2tr) ial Fibrillation Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1) |
-| Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth |  |  |
-|  |  | Diarrhoea |  |  |
+| Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
 | Hepatobiliary disorders |  |  | Liver function test abnormal(2) Hepatic enzyme increased (> 2x ULN) (1) |  |
 | Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) Toxic epidermal necrolysis(1) |
 | Musculoskeletal and connective tissue disorders |  | Muscle spasms |  |  |

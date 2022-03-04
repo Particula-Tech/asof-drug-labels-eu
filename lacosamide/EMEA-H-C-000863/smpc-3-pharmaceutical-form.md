@@ -14,7 +14,7 @@ Salmon, oval film-coated tablets with approximate dimensions of 15.1 mm x 7.0 mm
 Vimpat 200 mg film-coated tablets
 Blue, oval film-coated tablets with approximate dimensions of 16.6 mm x 7.8 mm, and debossed with ‘SP’ on one side and ‘200’ on the other side.
 
-[Treatment initiation pack (in adolescent and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
+[Treatment initiation pack (in adolescents and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
 
 (all sentences already above)
 

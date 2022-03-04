@@ -28,6 +28,7 @@ Antiepileptic medicinal products
 In interaction studies lacosamide did not significantly affect the plasma concentrations of carbamazepine and valproic acid.
 Lacosamide plasma concentrations were not affected by carbamazepine and by valproic acid.
 Population pharmacokinetic analyses in different age groups estimated that concomitant treatment with other antiepileptic medicinal products known to be enzyme inducers (carbamazepine, phenytoin, phenobarbital, in various doses) decreased the overall systemic exposure of lacosamide by 25 % in adults and 17 % in paediatric patients.
+
 Oral contraceptives
 
 In an interaction study there was no clinically relevant interaction between lacosamide and the oral contraceptives ethinylestradiol and levonorgestrel.
@@ -42,7 +43,7 @@ Although no pharmacokinetic data on the interaction of lacosamide with alcohol a
 Lacosamide has a low protein binding of less than 15 %.
 Therefore, clinically relevant interactions with other medicinal products through competition for protein binding sites are considered unlikely.
 
-[Treatment initiation pack (in adolescent and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
+[Treatment initiation pack (in adolescents and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
 
 Lacosamide did not affect the AUC of midazolam (metabolised by CYP3A4, lacosamide given 200 mg twice a day) but Cmax of midazolam was slightly increased (30 %).
 Such interactions have not been established in vivo but are possible based on in vitro data.

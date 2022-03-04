@@ -5,9 +5,9 @@ Vimpat 100 mg film-coated tablets
 Vimpat 150 mg film-coated tablets
 Vimpat 200 mg film-coated tablets
 
-[Treatment initiation pack (in adolescent and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
+[Treatment initiation pack (in adolescents and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
 
-Treatment initiation pack (in adolescent and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets
+Treatment initiation pack (in adolescents and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets
 
 [Vimpat 10 mg/ml syrup]
 

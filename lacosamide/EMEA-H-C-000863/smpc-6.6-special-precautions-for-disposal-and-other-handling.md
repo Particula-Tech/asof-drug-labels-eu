@@ -2,7 +2,7 @@
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-[Treatment initiation pack (in adolescent and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
+[Treatment initiation pack (in adolescents and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
 
 (all sentences already above)
 

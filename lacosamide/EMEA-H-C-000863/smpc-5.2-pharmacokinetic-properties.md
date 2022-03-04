@@ -36,6 +36,7 @@ Following twice daily dosing, steady state plasma concentrations are achieved af
 The plasma concentration increases with an accumulation factor of approximately 2.
 
 A single loading dose of 200 mg approximates steady-state concentrations comparable to 100 mg twice daily oral administration.
+
 Pharmacokinetics in special patient groups
 
 Gender
@@ -63,15 +64,15 @@ The body weight normalized difference is 26 and 23 %, respectively.
 An increased variability in exposure was also observed.
 The renal clearance of lacosamide was only slightly reduced in elderly subjects in this study.
 A general dose reduction is not considered to be necessary unless indicated due to reduced renal function (see section 4.2).
-
 Paediatric population
-The paediatric pharmacokinetic profile of lacosamide was determined in a population pharmacokinetic analysis using sparse plasma concentration data obtained in one placebo-controlled randomised study and three open-label studies in 414 children with epilepsy aged 6 months to 17 years.
-The administered lacosamide doses ranged from 2 to 17.8 mg/kg/day in twice daily intake, with a maximum of 600 mg/day for children weighing 50 kg or more.
-The typical plasma clearance was estimated to be 1.04 L/h, 1.32 L/h and 1.86 L/h for children weighing 20 kg, 30 kg and 50 kg respectively.
-In comparison, plasma clearance was estimated at 1.92 L/h in adults (70 kg body weight).
+The paediatric pharmacokinetic profile of lacosamide was determined in a population pharmacokinetic analysis using sparse plasma concentration data obtained in six placebo-controlled randomised clinical studies and five open-label studies in 1655 adult and paediatric patients with epilepsy aged 1 month to 17 years.
+Three of these studies were performed in adults, 7 in pediatric patients, and 1 in a mixed population.
+The administered lacosamide doses ranged from 2 to 17.8 mg/kg/day in twice daily intake, not to exceed 600 mg/day.
+The typical plasma clearance was estimated to be 0.46 L/h, 0.81 L/h, 1.03 L/h and 1.34 L/h for paediatric patients weighing 10 kg, 20 kg, 30 kg and 50 kg respectively.
+In comparison, plasma clearance was estimated at 1.74 L/h in adults (70 kg body weight).
 Population pharmacokinetic analysis using sparse pharmacokinetic samples from PGTCS study showed a similar exposure in patients with PGTCS and in patients with partial-onset seizures.
 
-[Treatment initiation pack (in adolescent and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
+[Treatment initiation pack (in adolescents and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
 
 (all sentences already above)
 
