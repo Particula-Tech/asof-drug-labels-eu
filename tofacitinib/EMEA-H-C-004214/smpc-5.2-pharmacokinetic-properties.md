@@ -7,7 +7,7 @@ Absorption and distribution
 
 Tofacitinib is well-absorbed, with an oral bioavailability of 74%.
 Coadministration of tofacitinib with a high-fat meal resulted in no changes in AUC while Cmax was reduced by 32%.
-In clinical trials, tofacitinib was administered without regard to meal.
+In clinical studies, tofacitinib was administered without regard to meal.
 
 After intravenous administration, the volume of distribution is 87 L. Approximately 40% of circulating tofacitinib is bound to plasma proteins.
 Tofacitinib binds predominantly to albumin and does not appear to bind to α1-acid glycoprotein.
@@ -42,12 +42,12 @@ Renal impairment
 Subjects with mild (creatinine clearance 50-80 mL/min), moderate (creatinine clearance 30-49 mL/min), and severe (creatinine clearance < 30 mL/min) renal impairment had 37%, 43% and 123% higher AUC, respectively, compared to subjects with normal renal function (see section 4.2).
 In subjects with end-stage renal disease (ESRD), contribution of dialysis to the total clearance of tofacitinib was relatively small.
 Following a single dose of 10 mg, mean AUC in subjects with ESRD based on concentrations measured on a non-dialysis day was approximately 40% (90% confidence intervals: 1.5-95%) higher compared to subjects with normal renal function.
-In clinical trials, tofacitinib was not evaluated in patients with baseline creatinine clearance values (estimated by Cockroft-Gault equation) less than 40 mL/min (see section 4.2).
+In clinical studies, tofacitinib was not evaluated in patients with baseline creatinine clearance values (estimated by Cockroft-Gault equation) less than 40 mL/min (see section 4.2).
 
 Hepatic impairment
 
 Subjects with mild (Child Pugh A) and moderate (Child Pugh B) hepatic impairment had 3%, and 65% higher AUC, respectively, compared to subjects with normal hepatic function.
-In clinical trials, tofacitinib was not evaluated in subjects with severe (Child Pugh C) hepatic impairment (see sections 4.2 and 4.4), or in patients screened positive for hepatitis B or C.
+In clinical studies, tofacitinib was not evaluated in subjects with severe (Child Pugh C) hepatic impairment (see sections 4.2 and 4.4), or in patients screened positive for hepatitis B or C.
 
 Interactions
 

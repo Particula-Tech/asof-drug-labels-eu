@@ -9,13 +9,13 @@ Among opportunistic infections, TB and other mycobacterial infections, cryptococ
 Some patients have presented with disseminated rather than localised disease.
 Other serious infections that were not reported in clinical studies may also occur (e.g., coccidioidomycosis).
 
-The most commonly reported adverse reactions during the first 3 months of the double-blind, placebo or MTX controlled clinical trials were headache (3.9%), upper respiratory tract infections (3.8%), viral upper respiratory tract infection (3.3%), diarrhoea (2.9%), nausea (2.7%), and hypertension (2.2%).
+The most commonly reported adverse reactions during the first 3 months of the double-blind, placebo or MTX controlled clinical studies were headache (3.9%), upper respiratory tract infections (3.8%), viral upper respiratory tract infection (3.3%), diarrhoea (2.9%), nausea (2.7%), and hypertension (2.2%).
 
 The proportion of patients who discontinued treatment due to adverse reactions during first 3 months of the double-blind, placebo or MTX controlled studies was 3.8% for patients taking tofacitinib.
-The most common infections resulting in discontinuation of therapy during the first 3 months in controlled clinical trials were herpes zoster (0.19%) and pneumonia (0.15%).
-
+The most common infections resulting in discontinuation of therapy during the first 3 months in controlled clinical studies were herpes zoster (0.19%) and pneumonia (0.15%).
 Psoriatic arthritis
 Overall, the safety profile observed in patients with active PsA treated with tofacitinib was consistent with the safety profile observed in patients with RA treated with tofacitinib.
+
 Ankylosing spondylitis
 Overall, the safety profile observed in patients with active AS treated with tofacitinib was consistent with the safety profile observed in patients with RA treated with tofacitinib.
 
@@ -28,8 +28,8 @@ Overall, the safety profile observed in patients with UC treated with tofacitini
 
 Tabulated list of adverse reactions
 
-The adverse reactions listed in the table below are from clinical studies in patients with RA, PsA, AS, and UC and are presented by System Organ Class (SOC) and frequency categories, defined using the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), or not known (cannot be estimated from the available data).
-Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+The adverse reactions listed in the table below are from clinical studies in patients with RA, PsA, AS, and UC and are presented by System Organ Class (SOC) and frequency categories, defined using the following convention: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000), or not known (cannot be estimated from the available data).
+Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 Table 8: Adverse reactions
 
@@ -38,7 +38,7 @@ Table 8: Adverse reactions
 | Infections and infestations | Pneumonia Influenza Herpes zoster Urinary tract infection Sinusitis Bronchitis Nasopharyngitis Pharyngitis | Tuberculosis Diverticulitis Pyelonephritis Cellulitis Herpes simplex Gastroenteritis viral Viral infection | Sepsis Urosepsis Disseminated TB Necrotizing fasciitis Bacteraemia Staphylococcal bacteraemia Pneumocystis jirovecii pneumonia Pneumonia pneumococcal Pneumonia bacterial Encephalitis Atypical mycobacterial infection Cytomegalovir us infection Arthritis bacterial | Tuberculosis of central nervous system Meningitis cryptococcal Mycobacteriu m avium complex infection |  |
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) |  | Lung cancer Non-melanoma skin cancers | Lymphoma |  |  |
 | Blood and lymphatic system disorders | Anaemia | Leukopenia Lymphopenia Neutropenia |  |  |  |
-| Immune system disorders |  |  |  |  | Drug hypersensitivity * Angioedema* Urticaria* |
+| Immune system disorders |  |  |  |  | Hypersensitivity * Angioedema* Urticaria* |
 | Metabolism and nutrition disorders |  | Dyslipidaemia Hyperlipidaemia Dehydration |  |  |  |
 | Psychiatric disorders |  | Insomnia |  |  |  |
 | Nervous system disorders | Headache | Paraesthesia |  |  |  |
@@ -67,8 +67,9 @@ Compared with TNF inhibitors, the hazard ratio (HR) for PE was 5.96 (1.75-20.33)
 
 In a subgroup analysis in patients with VTE risk factors in the above-mentioned interim analysis of the study, the risk for PE was further increased.
 Compared with TNF inhibitors, the HR for PE was 9.14 (2.11-39.56) for tofacitinib 10 mg twice daily and 3.92 (0.83-18.48) for tofacitinib 5 mg twice daily.
+
 Ankylosing spondylitis
-In the combined Phase 2 and Phase 3 randomised controlled clinical trials, there were no VTE events in 420 patients (233 patient-years of observation) receiving tofacitinib up to 48 weeks.
+In the combined Phase 2 and Phase 3 randomised controlled clinical studies, there were no VTE events in 420 patients (233 patient-years of observation) receiving tofacitinib up to 48 weeks.
 
 Ulcerative colitis (UC)
 In the UC ongoing extension trial, cases of PE and DVT have been observed in patients using tofacitinib 10 mg twice daily and with underlying VTE risk factor(s).
@@ -86,8 +87,8 @@ For patients (total 1,750) on monotherapy, the rates were 48.9 and 41.9 patients
 For patients (total 3,117) on background DMARDs, the rates were 41.0 and 50.3 patients with events per 100 patient-years for 5 mg and 10 mg twice daily, respectively.
 
 Ankylosing spondylitis
-In the combined Phase 2 and Phase 3 clinical trials, during the placebo-controlled period of up to 16 weeks, the frequency of infections in the tofacitinib 5 mg twice daily group (185 patients) was 27.6% and the frequency in the placebo group (187 patients) was 23.0%.
-In the combined Phase 2 and Phase 3 clinical trials, among the 316 patients treated with tofacitinib 5 mg twice daily for up to 48 weeks, the frequency of infections was 35.1%.
+In the combined Phase 2 and Phase 3 clinical studies, during the placebo-controlled period of up to 16 weeks, the frequency of infections in the tofacitinib 5 mg twice daily group (185 patients) was 27.6% and the frequency in the placebo group (187 patients) was 23.0%.
+In the combined Phase 2 and Phase 3 clinical studies, among the 316 patients treated with tofacitinib 5 mg twice daily for up to 48 weeks, the frequency of infections was 35.1%.
 Ulcerative colitis
 In the randomised 8-week Phase 2/3 induction studies, the proportions of patients with infections were 21.1% (198 patients) in the tofacitinib 10 mg twice daily group compared to 15.2% (43 patients) in the placebo group.
 In the randomised 52-week phase 3 maintenance study, the proportion of patients with infections were 35.9% (71 patients) in the 5 mg twice daily and 39.8% (78 patients) in the 10 mg twice daily tofacitinib groups, compared to 24.2% (48 patients) in the placebo group.
@@ -109,7 +110,7 @@ The most common serious infections included pneumonia, herpes zoster, urinary tr
 Cases of opportunistic infections have been reported (see section 4.4).
 
 Ankylosing spondylitis
-In the combined Phase 2 and Phase 3 clinical trials, among the 316 patients treated with tofacitinib 5 mg twice daily for up to 48 weeks, there was one serious infection (aseptic meningitis) yielding a rate of 0.43 patients with events per 100 patient-years.
+In the combined Phase 2 and Phase 3 clinical studies, among the 316 patients treated with tofacitinib 5 mg twice daily for up to 48 weeks, there was one serious infection (aseptic meningitis) yielding a rate of 0.43 patients with events per 100 patient-years.
 
 Ulcerative colitis
 The incidence rates and types of serious infections in the UC clinical studies were generally similar to those reported in RA clinical studies with tofacitinib monotherapy treatment groups.
@@ -151,7 +152,7 @@ In the RA long-term safety population, the pattern and incidence of confirmed de
 In the clinical studies in UC, changes in ANC observed with tofacitinib treatment were similar to the changes observed in clinical studies in RA.
 
 Platelets
-Patients in the Phase 3 controlled clinical studies (RA, PsA, AS, UC) were required to have a platelet count ≥100,000 cells/mm3 to be eligible for enrolment, therefore, there is no information available for patients with a platelet count < 100,000 cells/mm3 before starting treatment with tofacitinib.
+Patients in the Phase 3 controlled clinical studies (RA, PsA, AS, UC) were required to have a platelet count ≥ 100,000 cells/mm3 to be eligible for enrolment, therefore, there is no information available for patients with a platelet count < 100,000 cells/mm3 before starting treatment with tofacitinib.
 
 Liver enzyme tests
 Confirmed increases in liver enzymes greater than 3 times the upper limit of normal (3x ULN) were uncommonly observed in RA patients.
@@ -176,7 +177,7 @@ AST elevations greater than 3x ULN were observed in < 1.0% in both the tofacitin
 In the clinical studies in UC, changes in liver enzyme tests observed with tofacitinib treatment were similar to the changes observed in clinical studies in RA.
 
 Lipids
-Elevations in lipid parameters (total cholesterol, LDL cholesterol, HDL cholesterol, triglycerides) were first assessed at 1 month following initiation of tofacitinib in the controlled double-blind clinical trials of RA.
+Elevations in lipid parameters (total cholesterol, LDL cholesterol, HDL cholesterol, triglycerides) were first assessed at 1 month following initiation of tofacitinib in the controlled double-blind clinical studies of RA.
 Increases were observed at this time point and remained stable thereafter.
 
 Changes in lipid parameters from baseline through the end of the study (6-24 months) in the controlled clinical studies in RA are summarised below:
@@ -188,7 +189,7 @@ Upon withdrawal of tofacitinib treatment, lipid levels returned to baseline.
 
 Mean LDL cholesterol/HDL cholesterol ratios and Apolipoprotein B (ApoB)/ApoA1 ratios were essentially unchanged in tofacitinib-treated patients.
 
-In an RA controlled clinical trial, elevations in LDL cholesterol and ApoB decreased to pretreatment levels in response to statin therapy.
+In an RA controlled clinical study, elevations in LDL cholesterol and ApoB decreased to pretreatment levels in response to statin therapy.
 
 In the RA long-term safety populations, elevations in the lipid parameters remained consistent with what was seen in the controlled clinical studies.
 In the clinical studies in UC, changes in lipids observed with tofacitinib treatment were similar to the changes observed in clinical studies in RA.
@@ -223,17 +224,17 @@ In the integrated safety population, 7 patients had serious infections during tr
 
 In the integrated safety population, 3 patients had non-serious events of herpes zoster within the reporting window representing an incidence rate of 0.82 patients with events per 100 patient-years.
 One (1) additional patient had an event of serious HZ outside the reporting window.
-
 Hepatic events
+
 Patients in the JIA pivotal study were required to have AST and ALT levels less than 1.5 times the upper limit of normal to be eligible for enrolment.
-In the integrated safety population, there were 2 patients with ALT elevations ≥3 times the ULN at 2 consecutive visits.
+In the integrated safety population, there were 2 patients with ALT elevations ≥ 3 times the ULN at 2 consecutive visits.
 Neither event met Hy’s Law criteria.
 Both patients were on background MTX therapy and each event resolved after discontinuation of MTX and permanent discontinuation of tofacitinib.
 
 Laboratory tests
 
 Changes in laboratory tests in JIA patients in the clinical development program were consistent with those seen in adult RA patients.
-Patients in the JIA pivotal study were required to have a platelet count ≥100,000 cells/mm3 to be eligible for enrolment, therefore, there is no information available for JIA patients with a platelet count <100,000 cells/mm3 before starting treatment with tofacitinib.
+Patients in the JIA pivotal study were required to have a platelet count ≥ 100,000 cells/mm3 to be eligible for enrolment, therefore, there is no information available for JIA patients with a platelet count <100,000 cells/mm3 before starting treatment with tofacitinib.
 
 Reporting of suspected adverse reactions
 
@@ -243,11 +244,15 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [XELJANZ 11 mg prolonged-release tablets]
 
-The adverse reactions listed in the table below are from clinical studies in patients with RA, PsA, and UC and are presented by System Organ Class (SOC) and frequency categories, defined using the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), or not known (cannot be estimated from the available data).
+The adverse reactions listed in the table below are from clinical studies in patients with RA, PsA, and UC and are presented by System Organ Class (SOC) and frequency categories, defined using the following convention: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000), or not known (cannot be estimated from the available data).
 Table 7: Adverse reactions
 
 In controlled phase 3 clinical studies, the rates of infections over 0-3 months in the 5 mg film-coated tablets twice daily (total 616 patients) and 10 mg twice daily (total 642 patients) tofacitinib monotherapy groups were 16.2% (100 patients) and 17.9% (115 patients), respectively, compared to 18.9% (23 patients) in the placebo group (total 122 patients).
 
 [XELJANZ 1 mg/mL oral solution]
 
-The adverse reactions listed in the table below are from clinical studies in adult patients with RA, PsA, and UC and are presented by System Organ Class (SOC) and frequency categories, defined using the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), or not known (cannot be estimated from the available data).
+The adverse reactions listed in the table below are from clinical studies in adult patients with RA, PsA, and UC and are presented by System Organ Class (SOC) and frequency categories, defined using the following convention: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000), or not known (cannot be estimated from the available data).
+
+In the integrated safety population, there were 2 patients with ALT elevations ≥3 times the ULN at 2 consecutive visits.
+
+Patients in the JIA pivotal study were required to have a platelet count ≥100,000 cells/mm3 to be eligible for enrolment, therefore, there is no information available for JIA patients with a platelet count <100,000 cells/mm3 before starting treatment with tofacitinib.

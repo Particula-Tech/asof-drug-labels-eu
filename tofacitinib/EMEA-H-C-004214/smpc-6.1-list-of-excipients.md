@@ -12,7 +12,7 @@ FD&C Blue #1/Brilliant Blue FCF Aluminum Lake (E133) (10 mg strength only)
 
 [XELJANZ 11 mg prolonged-release tablets]
 
-Tablet core sorbitol (E420) hydroxyethyl cellulose copovidone magnesium stearate
+sorbitol (E420) hydroxyethyl cellulose copovidone magnesium stearate
 
 cellulose acetate hydroxypropyl cellulose (E463) hypromellose (E464) titanium dioxide (E171) triacetin red iron oxide (E172)
 

@@ -61,9 +61,9 @@ Table 2: Tofacitinib dose for patients with polyarticular juvenile idiopathic ar
 | --- | --- |
 | 10 - < 20 | 3.2 mg (3.2 mL of oral solution) twice daily |
 | 20 - < 40 | 4 mg (4 mL of oral solution) twice daily |
-| ≥40 | 5 mg (5 mL of oral solution or 5 mg film-coated tablet) twice daily |
+| ≥ 40 | 5 mg (5 mL of oral solution or 5 mg film-coated tablet) twice daily |
 
-Patients ≥40 kg treated with tofacitinib 5 mL oral solution twice daily may be switched to tofacitinib 5 mg film-coated tablets twice daily.
+Patients ≥ 40 kg treated with tofacitinib 5 mL oral solution twice daily may be switched to tofacitinib 5 mg film-coated tablets twice daily.
 Patients < 40 kg cannot be switched from tofacitinib oral solution.
 
 Dose interruption and discontinuation in adults and paediatric patients
@@ -78,10 +78,10 @@ Table 3: Low absolute lymphocyte count
 
 | Low absolute lymphocyte count (ALC) (see section 4.4) |  |
 | --- | --- |
-| Lab value (cells/mm3) | Recommendation |
+| Laboratory value (cells/mm3) | Recommendation |
 | ALC greater than or equal to 750 | Dose should be maintained. |
 | ALC 500-750 | For persistent (2 sequential values in this range on routine testing) decrease in this range, dosing should be reduced or interrupted. For patients receiving tofacitinib 10 mg twice daily, dosing should be reduced to tofacitinib 5 mg twice daily. For patients receiving tofacitinib 5 mg twice daily, dosing should be interrupted. When ALC is greater than 750, treatment should be resumed as clinically appropriate. |
-| ALC less than 500 | If lab value confirmed by repeat testing within 7 days, dosing should be discontinued. |
+| ALC less than 500 | If laboratory value confirmed by repeat testing within 7 days, dosing should be discontinued. |
 
 It is recommended not to initiate dosing in adult patients with an absolute neutrophil count (ANC) less than 1,000 cells/mm3.
 It is recommended not to initiate dosing in paediatric patients with an absolute neutrophil count (ANC) less than 1,200 cells/mm3.
@@ -90,10 +90,10 @@ Table 4: Low absolute neutrophil count
 
 | Low absolute neutrophil count (ANC) (see section 4.4) |  |
 | --- | --- |
-| Lab Value (cells/mm3) | Recommendation |
+| Laboratory Value (cells/mm3) | Recommendation |
 | ANC greater than 1,000 | Dose should be maintained. |
 | ANC 500-1,000 | For persistent (2 sequential values in this range on routine testing) decreases in this range, dosing should be reduced or interrupted. For patients receiving tofacitinib 10 mg twice daily, dosing should be reduced to tofacitinib 5 mg twice daily. For patients receiving tofacitinib 5 mg twice daily, dosing should be interrupted. When ANC is greater than 1,000, treatment should be resumed as clinically appropriate. |
-| ANC less than 500 | If lab value confirmed by repeat testing within 7 days, dosing should be discontinued. |
+| ANC less than 500 | If laboratory value confirmed by repeat testing within 7 days, dosing should be discontinued. |
 
 It is recommended not to initiate dosing in adult patients with haemoglobin less than 9 g/dL.
 It is recommended not to initiate dosing in paediatric patients with haemoglobin less than 10 g/dL.
@@ -101,7 +101,7 @@ Table 5: Low haemoglobin value
 
 | Low haemoglobin value (see section 4.4) |  |
 | --- | --- |
-| Lab value (g/dL) | Recommendation |
+| Laboratory value (g/dL) | Recommendation |
 | Less than or equal to 2 g/dL decrease and greater than or equal to 9.0 g/dL | Dose should be maintained. |
 | Greater than 2 g/dL decrease or less than 8.0 g/dL (confirmed by repeat testing) | Dosing should be interrupted until haemoglobin values have normalised. |
 
@@ -175,20 +175,20 @@ Table 2: Low absolute lymphocyte count
 
 | Low absolute lymphocyte count (ALC) (see section 4.4) |  |
 | --- | --- |
-| Lab value (cells/mm3) | Recommendation |
+| Laboratory value (cells/mm3) | Recommendation |
 | ALC greater than or equal to 750 | Dose should be maintained. |
 | ALC 500-750 | For persistent (2 sequential values in this range on routine testing) decrease in this range, tofacitinib 11 mg prolonged-release dosing should be interrupted. When ALC is greater than 750, treatment should be resumed as clinically appropriate. |
-| ALC less than 500 | If lab value confirmed by repeat testing within 7 days, dosing should be discontinued. |
+| ALC less than 500 | If laboratory value confirmed by repeat testing within 7 days, dosing should be discontinued. |
 
 It is recommended not to initiate dosing in patients with an absolute neutrophil count (ANC) less than 1,000 cells/mm3.
 Table 3: Low absolute neutrophil count
 
 | Low absolute neutrophil count (ANC) (see section 4.4) |  |
 | --- | --- |
-| Lab Value (cells/mm3) | Recommendation |
+| Laboratory Value (cells/mm3) | Recommendation |
 | ANC greater than 1,000 | Dose should be maintained. |
 | ANC 500-1,000 | For persistent (2 sequential values in this range on routine testing) decreases in this range, tofacitinib 11 mg prolonged-release dosing should be interrupted. When ANC is greater than 1,000, treatment should be resumed as clinically appropriate. |
-| ANC less than 500 | If lab value confirmed by repeat testing within 7 days, dosing should be discontinued. |
+| ANC less than 500 | If laboratory value confirmed by repeat testing within 7 days, dosing should be discontinued. |
 
 It is recommended not to initiate dosing in patients with haemoglobin less than 9 g/dL.
 
@@ -196,7 +196,7 @@ Table 4: Low haemoglobin value
 
 | Low haemoglobin value (Section 4.4) |  |
 | --- | --- |
-| Lab Value (g/dL) | Recommendation |
+| Laboratory Value (g/dL) | Recommendation |
 | Less than or equal to 2 g/dL decrease and greater than or equal to 9.0 g/dL | Dose should be maintained. |
 | Greater than 2 g/dL decrease or less than 8.0 g/dL (confirmed by repeat testing) | Dosing should be interrupted until haemoglobin values have normalised. |
 
@@ -229,12 +229,6 @@ Tofacitinib may be used as monotherapy or in combination with methotrexate (MTX)
 
 Table 1: Tofacitinib dose for patients with polyarticular juvenile idiopathic arthritis and juvenile PsA two years of age and older
 
-| Body weight (kg) | Dosage regimen |
-| --- | --- |
-| 10 - < 20 | 3.2 mg (3.2 mL of oral solution) twice daily |
-| 20 - < 40 | 4 mg (4 mL of oral solution) twice daily |
-| ≥40 | 5 mg (5 mL of oral solution or 5 mg film-coated tablet) twice daily |
-
 Dose adjustment
 
 Available data suggest that clinical improvement is observed within 18 weeks of initiation of treatment with tofacitinib.
@@ -244,17 +238,17 @@ It is recommended not to initiate dosing in paediatric patients with an absolute
 
 | Low absolute lymphocyte count (ALC) (see section 4.4) |  |
 | --- | --- |
-| Lab value (cells/mm3) | Recommendation |
+| Laboratory value (cells/mm3) | Recommendation |
 | ALC greater than or equal to 750 | Dose should be maintained. |
 | ALC 500-750 | For persistent (2 sequential values in this range on routine testing) decrease in this range, dosing should be reduced or interrupted until ALC is greater than 750. For patients receiving tofacitinib 5 mg twice daily, dosing should be interrupted. When ALC is greater than 750, treatment should be resumed as clinically appropriate. |
-| ALC less than 500 | If lab value confirmed by repeat testing within 7 days, dosing should be discontinued. |
+| ALC less than 500 | If laboratory value confirmed by repeat testing within 7 days, dosing should be discontinued. |
 
 | Low absolute neutrophil count (ANC) (see section 4.4) |  |
 | --- | --- |
-| Lab Value (cells/mm3) | Recommendation |
+| Laboratory Value (cells/mm3) | Recommendation |
 | ANC greater than 1,000 | Dose should be maintained. |
 | ANC 500-1,000 | For persistent (2 sequential values in this range on routine testing) decreases in this range, dosing should be reduced or interrupted until ANC is greater than 1,000. For patients receiving tofacitinib 5 mg twice daily, dosing should be interrupted. When ANC is greater than 1,000, treatment should be resumed as clinically appropriate. |
-| ANC less than 500 | If lab value confirmed by repeat testing within 7 days, dosing should be discontinued. |
+| ANC less than 500 | If laboratory value confirmed by repeat testing within 7 days, dosing should be discontinued. |
 
 Tofacitinib total daily dose should be reduced to 5 mg film-coated tablet once daily or weight-based equivalent once daily in patients receiving 5 mg film-coated tablets or weight-based equivalent twice daily in patients receiving potent inhibitors of cytochrome P450 (CYP) 3A4 (e.g., ketoconazole) and in patients receiving 1 or more concomitant medicinal products that result in both moderate inhibition of CYP3A4 as well as potent inhibition of CYP2C19 (e.g., fluconazole) (see section 4.5).
 
