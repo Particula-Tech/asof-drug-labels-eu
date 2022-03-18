@@ -11,7 +11,7 @@ Tabulated list of adverse reactions
 
 Unless otherwise noted, the table shows the incidence rates of adverse reactions observed in breast cancer and soft tissue sarcoma patients who received the recommended dose in Phase 2 and Phase 3 studies.
 
-Frequency categories are defined as: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and very rare (< 1/10,000).
+Frequency categories are defined as: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000) and very rare (< 1/10,000).
 Within each frequency grouping, undesirable effects are presented in order of decreasing frequency.
 Where Grade 3 or 4 reactions occurred, the actual total frequency and the frequency of Grade 3 or 4 reactions are given.
 
@@ -79,9 +79,9 @@ Such elevations appeared to have occurred early with eribulin treatment in cycle
 Special populations
 
 Elderly population
-Of the 1559 breast cancer patients treated with the recommended dose of eribulin, 283 patients (18.2%) were ≥ 65 years of age.
+Of the 1559 breast cancer patients treated with the recommended dose of eribulin, 283 patients (18.2%) were ≥65 years of age.
 In the 404 sarcoma patient population, 90 patients (22.3%) treated with eribulin were ≥ 65 years of age.
-The safety profile of eribulin in elderly patients (≥ 65 years of age) was similar to that of patients <65 years of age except for asthenia/fatigue which showed an increasing trend with age.
+The safety profile of eribulin in elderly patients (≥65 years of age) was similar to that of patients <65 years of age except for asthenia/fatigue which showed an increasing trend with age.
 No dose adjustments are recommended for the elderly population.
 Patients with hepatic impairment
 Patients with ALT or AST > 3 x ULN experienced a higher incidence of Grade 4 neutropenia and febrile neutropenia.
