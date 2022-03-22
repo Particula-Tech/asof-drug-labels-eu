@@ -24,7 +24,7 @@ As treprostinil and its metabolites are excreted mainly through the urinary rout
 
 Sodium content
 Trepulmix 1 mg/ml solution for infusion
-This medicinal product contains 36.8 mg sodium per 10 ml vial of 1mg/ml, equivalent to 1.8% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
+This medicinal product contains 36.8 mg sodium per 10 ml vial of 1 mg/ml, equivalent to 1.8% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 
 Trepulmix 2.5 mg/ml solution for infusion
 This medicinal product contains 37.3 mg mg sodium per 10 ml vial of 2.5 mg/ml, equivalent to 1.9% of the WHO recommended maximum daily intake of 2 g sodium for an adult.

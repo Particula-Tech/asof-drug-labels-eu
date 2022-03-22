@@ -43,4 +43,6 @@ In addition, generalised rashes, sometimes macular or papular in nature, and cel
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.*
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
+
+listed in Appendix V.*
