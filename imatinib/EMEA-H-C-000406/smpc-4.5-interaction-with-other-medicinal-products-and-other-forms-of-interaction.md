@@ -1,11 +1,13 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-Active substances that may increase imatinib plasma concentrations:
+Active substances that may increase imatinib plasma concentrations
+
 Substances that inhibit the cytochrome P450 isoenzyme CYP3A4 activity (e.g. protease inhibitors such as indinavir, lopinavir/ritonavir, ritonavir, saquinavir, telaprevir, nelfinavir, boceprevir; azole antifungals including ketoconazole, itraconazole, posaconazole, voriconazole; certain macrolides such as erythromycin, clarithromycin and telithromycin) could decrease metabolism and increase imatinib concentrations.
 There was a significant increase in exposure to imatinib (the mean Cmax and AUC of imatinib rose by 26% and 40%, respectively) in healthy subjects when it was co-administered with a single dose of ketoconazole (a CYP3A4 inhibitor).
 Caution should be taken when administering Glivec with inhibitors of the CYP3A4 family.
 
-Active substances that may decrease imatinib plasma concentrations:
+Active substances that may decrease imatinib plasma concentrations
+
 Substances that are inducers of CYP3A4 activity (e.g. dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital, fosphenytoin, primidone or Hypericum perforatum, also known as St.
 John’s Wort) may significantly reduce exposure to Glivec, potentially increasing the risk of therapeutic failure.
 Pretreatment with multiple doses of rifampicin 600 mg followed by a single 400 mg dose of Glivec resulted in decrease in Cmax and AUC(0-∞) by at least 54% and 74%, of the respective values without rifampicin treatment.
@@ -14,6 +16,7 @@ The plasma AUC for imatinib decreased by 73% compared to patients not on EIAEDs.
 Concomitant use of rifampicin or other strong CYP3A4 inducers and imatinib should be avoided.
 
 Active substances that may have their plasma concentration altered by Glivec
+
 Imatinib increases the mean Cmax and AUC of simvastatin (CYP3A4 substrate) 2- and 3.5-fold, respectively, indicating an inhibition of the CYP3A4 by imatinib.
 Therefore, caution is recommended when administering Glivec with CYP3A4 substrates with a narrow therapeutic window (e.g. cyclosporine, pimozide, tacrolimus, sirolimus, ergotamine, diergotamine, fentanyl, alfentanil, terfenadine, bortezomib, docetaxel and quinidine).
 Glivec may increase plasma concentration of other CYP3A4 metabolised drugs (e.g. triazolo-benzodiazepines, dihydropyridine calcium channel blockers, certain HMG-CoA reductase inhibitors, i.e. statins, etc.).

@@ -24,6 +24,7 @@ However, some of these reactions may be serious or life-threatening and several 
 There were no special safety findings in paediatric clinical trials.
 
 Adverse reactions
+
 Adverse reactions reported as more than an isolated case are listed below, by system organ class and by frequency.
 Frequency categories are defined using the following convention: very common
 (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
@@ -95,7 +96,7 @@ Table 1 Tabulated summary of adverse reactions
 | Skin and subcutaneous tissue disorders |  |
 | Very common: | Periorbital oedema, dermatitis/eczema/rash |
 | Common: | Pruritus, face oedema, dry skin, erythema, alopecia, night sweats, photosensitivity reaction |
-| Uncommon: | Rash pustular, contusion, sweating increased, urticaria, ecchymosis, increased tendency to bruise, hypotrichosis, skin hypopigmentation, dermatitis exfoliative, onychoclasis, folliculitis, petechiae, psoriasis, purpura, skin hyperpigmentation, bullous eruptions |
+| Uncommon: | Rash pustular, contusion, sweating increased, urticaria, ecchymosis, increased tendency to bruise, hypotrichosis, skin hypopigmentation, dermatitis exfoliative, onychoclasis, folliculitis, petechiae, psoriasis, purpura, skin hyperpigmentation, bullous eruptions, panniculitis12 |
 | Rare: | Acute febrile neutrophilic dermatosis (Sweet’s syndrome), nail discolouration, angioneurotic oedema, rash vesicular, erythema multiforme, leucocytoclastic vasculitis, Stevens-Johnson syndrome, acute generalised exanthematous pustulosis (AGEP) |
 | Not known: | Palmoplantar erythrodysesthesia syndrome*, lichenoid keratosis*, lichen planus*, toxic epidermal necrolysis*, drug rash with eosinophilia and systemic symptoms (DRESS)*, pseudoporphyria* |
 | Musculoskeletal and connective tissue disorders |  |
@@ -133,8 +134,10 @@ Because these reactions are reported from a population of uncertain size, it is 
 9 Musculoskeletal pain during treatment with imatinib or after discontinuation has been observed in post-marketing
 10 Musculoskeletal pain and related events were more commonly observed in patients with CML than in GIST patients.
 11 Fatal cases have been reported in patients with advanced disease, severe infections, severe neutropenia and other serious concomitant conditions.
+12 Including erythema nodosum.
 
 Laboratory test abnormalities
+
 Haematology
 In CML, cytopenias, particularly neutropenia and thrombocytopenia, have been a consistent finding in all studies, with the suggestion of a higher frequency at high doses ≥ 750 mg (phase I study).
 However, the occurrence of cytopenias was also clearly dependent on the stage of the disease, the frequency of grade 3 or 4 neutropenias (ANC < 1.0 x 109/l) and thrombocytopenias (platelet count
@@ -159,11 +162,13 @@ Bilirubin elevation was below 3%.
 There have been cases of cytolytic and cholestatic hepatitis and hepatic failure; in some of them outcome was fatal, including one patient on high dose paracetamol.
 
 Description of selected adverse reactions
+
 Hepatitis B reactivation
 Hepatitis B reactivation has been reported in association with BCR-ABL TKIs.
 Some cases resulted in acute hepatic failure or fulminant hepatitis leading to liver transplantation or a fatal outcome (see section 4.4).
 
 Reporting of suspected adverse reactions
+
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system. listed in Appendix V.

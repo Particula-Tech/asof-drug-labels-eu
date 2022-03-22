@@ -9,6 +9,7 @@ Since studies in animals have shown reproductive toxicity, and the potential ris
 Hands should be washed immediately after handling open capsules.
 
 Posology for CML in adult patients
+
 The recommended dosage of Glivec is 400 mg/day for adult patients in chronic phase CML.
 Chronic phase CML is defined when all of the following criteria are met: blasts < 15% in blood and bone marrow, peripheral blood basophils < 20%, platelets > 100 x 109/l.
 
@@ -24,6 +25,7 @@ The effect of stopping treatment after the achievement of a complete cytogenetic
 Dose increases from 400 mg to 600 mg or 800 mg in patients with chronic phase disease, or from 600 mg to a maximum of 800 mg (given as 400 mg twice daily) in patients with accelerated phase or blast crisis may be considered in the absence of severe adverse drug reaction and severe non-leukaemia-related neutropenia or thrombocytopenia in the following circumstances: disease progression (at any time); failure to achieve a satisfactory haematological response after at least 3 months of treatment; failure to achieve a cytogenetic response after 12 months of treatment; or loss of a previously achieved haematological and/or cytogenetic response.
 Patients should be monitored closely following dose escalation given the potential for an increased incidence of adverse reactions at higher dosages.
 Posology for CML in children
+
 Dosing for children should be on the basis of body surface area (mg/m2).
 The dose of 340 mg/m2 daily is recommended for children with chronic phase CML and advanced phase CML (not to exceed the total dose of 800 mg).
 Treatment can be given as a once daily dose or alternatively the daily dose may be split into two administrations – one in the morning and one in the evening.
@@ -34,6 +36,7 @@ Dose increases from 340 mg/m2 daily to 570 mg/m2 daily (not to exceed the total 
 Patients should be monitored closely following dose escalation given the potential for an increased incidence of adverse reactions at higher dosages.
 
 Posology for Ph+ ALL in adult patients
+
 The recommended dose of Glivec is 600 mg/day for adult patients with Ph+ ALL.
 Haematological experts in the management of this disease should supervise the therapy throughout all phases of care.
 
@@ -43,22 +46,26 @@ The duration of Glivec therapy can vary with the treatment programme selected, b
 For adult patients with relapsed or refractory Ph+ALL Glivec monotherapy at 600 mg/day is safe, effective and can be given until disease progression occurs.
 
 Posology for Ph+ ALL in children
+
 Dosing for children should be on the basis of body surface area (mg/m2).
 The dose of 340 mg/m2 daily is recommended for children with Ph+ ALL (not to exceed the total dose of 600 mg).
 
 Posology for MDS/MPD
+
 The recommended dose of Glivec is 400 mg/day for adult patients with MDS/MPD.
 
 Treatment duration: In the only clinical trial performed up to now, treatment with Glivec was continued until disease progression (see section 5.1).
 At the time of analysis, the treatment duration was a median of 47 months (24 days - 60 months).
 
 Posology for HES/CEL
+
 The recommended dose of Glivec is 100 mg/day for adult patients with HES/CEL.
 
 Dose increase from 100 mg to 400 mg may be considered in the absence of adverse drug reactions if assessments demonstrate an insufficient response to therapy.
 
 Treatment should be continued as long as the patient continues to benefit.
 Posology for GIST
+
 The recommended dose of Glivec is 400 mg/day for adult patients with unresectable and/or metastatic malignant GIST.
 
 Limited data exist on the effect of dose increases from 400 mg to 600 mg or 800 mg in patients progressing at the lower dose (see section 5.1).
@@ -72,9 +79,11 @@ Optimal treatment duration is not yet established.
 Length of treatment in the clinical trial supporting this indication was 36 months (see section 5.1).
 
 Posology for DFSP
+
 The recommended dose of Glivec is 800 mg/day for adult patients with DFSP.
 
 Dose adjustment for adverse reactions
+
 Non-haematological adverse reactions
 If a severe non-haematological adverse reaction develops with Glivec use, treatment must be withheld until the event has resolved.
 Thereafter, treatment can be resumed as appropriate depending on the initial severity of the event.
@@ -86,6 +95,7 @@ In adults the dose should be reduced from 400 to 300 mg or from 600 to 400 mg, o
 
 Haematological adverse reactions
 Dose reduction or treatment interruption for severe neutropenia and thrombocytopenia are recommended as indicated in the table below.
+
 Dose adjustments for neutropenia and thrombocytopenia:
 
 | HES/CEL (starting dose 100 mg) | ANC < 1.0 x 109/l and/or platelets < 50 x 109/l | 1. Stop Glivec until ANC ≥ 1.5 x 109/l and platelets ≥ 75 x 109/l. 2. Resume treatment with Glivec at previous dose (i.e. before severe adverse reaction). |
@@ -98,16 +108,18 @@ Dose adjustments for neutropenia and thrombocytopenia:
 | ANC = absolute neutrophil count a occurring after at least 1 month of treatment |  |  |
 
 Special populations
-Paediatric use: There is no experience in children with CML below 2 years of age and with Ph+ALL below 1 year of age (see section 5.1).
+
+Paediatric population
+There is no experience in children with CML below 2 years of age and with Ph+ALL below 1 year of age (see section 5.1).
 There is very limited experience in children with MDS/MPD, DFSP, GIST and HES/CEL.
 
 The safety and efficacy of imatinib in children with MDS/MPD, DFSP, GIST and HES/CEL aged less than 18 years of age have not been established in clinical trials.
 Currently available published data are summarised in section 5.1 but no recommendation on a posology can be made.
 
-Hepatic insufficiency: Imatinib is mainly metabolised through the liver.
+Hepatic insufficiency
+Imatinib is mainly metabolised through the liver.
 Patients with mild, moderate or severe liver dysfunction should be given the minimum recommended dose of 400 mg daily.
 The dose can be reduced if not tolerated (see sections 4.4, 4.8 and 5.2).
-
 Liver dysfunction classification:
 
 | Liver dysfunction | Liver function tests |
@@ -119,12 +131,14 @@ Liver dysfunction classification:
 ULN = upper limit of normal for the institution
 AST = aspartate aminotransferase
 
-Renal insufficiency: Patients with renal dysfunction or on dialysis should be given the minimum recommended dose of 400 mg daily as starting dose.
+Renal insufficiency
+Patients with renal dysfunction or on dialysis should be given the minimum recommended dose of 400 mg daily as starting dose.
 However, in these patients caution is recommended.
 The dose can be reduced if not tolerated.
 If tolerated, the dose can be increased for lack of efficacy (see sections 4.4 and 5.2).
 
-Older people: Imatinib pharmacokinetics have not been specifically studied in older people.
+Older people
+Imatinib pharmacokinetics have not been specifically studied in older people.
 No significant age-related pharmacokinetic differences have been observed in adult patients in clinical trials which included over 20% of patients age 65 and older.
 No specific dose recommendation is necessary in older people.
 
