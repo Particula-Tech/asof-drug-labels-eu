@@ -5,7 +5,6 @@
 [SPRYCEL 10 mg/mL powder for oral suspension]
 
 Unopened bottle
-2 years.
 
 After constitution
 The oral suspension is stable for 60 days.

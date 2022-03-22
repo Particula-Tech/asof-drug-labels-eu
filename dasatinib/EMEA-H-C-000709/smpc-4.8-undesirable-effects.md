@@ -74,7 +74,7 @@ Table 5: Tabulated summary of adverse reactions
 | Respiratory, thoracic and mediastinal disorders |  |
 | Very common | pleural effusion*, dyspnoea |
 | Common | pulmonary oedema*, pulmonary hypertension*, lung infiltration, pneumonitis, cough |
-| Uncommon | pulmonary arterial hypertension, bronchospasm, asthma |
+| Uncommon | pulmonary arterial hypertension, bronchospasm, asthma, chylothorax* |
 | Rare | pulmonary embolism, acute respiratory distress syndrome |
 | Not known | interstitial lung disease |
 | Gastrointestinal disorders |  |
@@ -155,6 +155,8 @@ Six percent of dasatinib-treated patients discontinued treatment due to drug-rel
 Pleural effusion did not impair the ability of patients to obtain a response.
 Among the dasatinib-treated patients with pleural effusion, 96% achieved a cCCyR, 82% achieved a MMR, and 50% achieved a MR4.5 despite dose interruptions or dose adjustment.
 See section 4.4 for further information on patients with chronic phase CML and advanced phase CML or Ph+ ALL.
+Cases of chylothorax have been reported in patients presenting with pleural effusion.
+Some cases of chylothorax resolved upon dasatinib discontinuation, interruption, or dose reduction, but most cases also required additional treatment.
 
 Pulmonary arterial hypertension (PAH)
 PAH (pre-capillary pulmonary arterial hypertension confirmed by right heart catheterization) has been reported in association with dasatinib exposure.
@@ -170,6 +172,7 @@ QT interval was corrected for heart rate by Fridericia's method.
 At all post-dose time points on day 8, the mean changes from baseline in QTcF interval were 4 - 6 msec, with associated upper 95% confidence intervals < 7 msec.
 Of the 2,182 patients with resistance or intolerance to prior imatinib therapy who received SPRYCEL in clinical studies, 15 (1%) had QTc prolongation reported as an adverse reaction.
 Twenty-one patients (1%) experienced a QTcF > 500 msec (see section 4.4).
+
 Cardiac adverse reactions
 Patients with risk factors or a history of cardiac disease should be monitored carefully for signs or symptoms consistent with cardiac dysfunction and should be evaluated and treated appropriately (see section 4.4).
 
@@ -238,16 +241,9 @@ included in the table.
 Table 7: Adverse reactions reported in ≥10% of paediatric patients with Ph+ ALL treated with SPRYCEL on a continuous dosing regimen in combination with chemotherapy (N=126)a
 Percent (%) of patients
 
-Adverse reaction All grades Grade 3/4
-Febrile neutropaenia 27.0 26.2
-Nausea 20.6 5.6
-Vomiting 20.6 4.8
-Abdominal pain 14.3 3.2
-Diarrhoea 12.7 4.8
-Pyrexia 12.7 5.6
-Headache 11.1 4.8
-Decreased appetite 10.3 4.8
-Fatigue 10.3 0
+| Adverse reaction | All grades |
+| --- | --- |
+| Febrile neutropaenia Nausea Vomiting Abdominal pain Diarrhoea Pyrexia Headache Decreased appetite Fatigue | 27.0 20.6 20.6 14.3 12.7 12.7 11.1 10.3 10.3 |
 
 a In the pivotal study, among 106 total patients, 24 patients received the powder for oral suspension at least once, 8 of whom received the powder for oral suspension formulation exclusively.
 Laboratory test abnormalities
@@ -263,18 +259,12 @@ However, the occurrence of cytopaenias was also clearly dependent on the stage o
 The frequency of grade 3 and 4 haematological abnormalities is presented in Table 8.
 
 Table 8: CTC grades 3/4 haematological laboratory abnormalities in clinical studies in patients with resistance or intolerance to prior imatinib therapya
+
+| Chronic phase (n= 165)b | Accelerated Myeloid phase blast phase (n= 157)c (n= 74)c Percent (%) of patients |
+| --- | --- |
+| Haematology parameters Neutropaenia 36 Thrombocytopaenia 23 Anaemia 13 | 58 77 63 78 47 74 |
+
 Lymphoid blast
-
-Accelerated Myeloid phase and
-Chronic phase phase blast phase Ph+ ALL
-(n= 165)b (n= 157)c (n= 74)c (n= 168)c
-
-Percent (%) of patients
-Haematology parameters
-
-Neutropaenia 36 58 77 76
-Thrombocytopaenia 23 63 78 74
-Anaemia 13 47 74 44
 
 a Phase 3 dose optimisation study results reported at 2 year study follow up.
 b CA180-034 study results in recommended starting dose of 100 mg once daily.
@@ -372,7 +362,7 @@ The data described below reflect the exposure to SPRYCEL as single-agent therapy
 | Respiratory, thoracic and mediastinal disorders |  |
 | Very common | pleural effusion*, dyspnoea |
 | Common | pulmonary oedema*, pulmonary hypertension*, lung infiltration, pneumonitis, cough |
-| Uncommon | pulmonary arterial hypertension, bronchospasm, asthma |
+| Uncommon | pulmonary arterial hypertension, bronchospasm, asthma, chylothorax* |
 | Rare | pulmonary embolism, acute respiratory distress syndrome |
 | Not known | interstitial lung disease |
 | Gastrointestinal disorders |  |

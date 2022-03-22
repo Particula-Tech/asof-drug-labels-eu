@@ -51,6 +51,7 @@ Patients who develop symptoms suggestive of pleural effusion such as dyspnoea or
 Grade 3 or 4 pleural effusion may require thoracocentesis and oxygen therapy.
 Fluid retention adverse reactions were typically managed by supportive care measures that include diuretics and short courses of steroids (see sections 4.2 and 4.8).
 Patients aged 65 years and older are more likely than younger patients to experience pleural effusion, dyspnoea, cough, pericardial effusion and congestive heart failure, and should be monitored closely.
+Cases of chylothorax have also been reported in patients presenting with pleural effusion (see section 4.8).
 
 Pulmonary arterial hypertension (PAH)
 PAH (pre-capillary pulmonary arterial hypertension confirmed by right heart catheterization) has been reported in association with dasatinib treatment (see section 4.8).

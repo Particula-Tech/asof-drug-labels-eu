@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: antineoplastic agents, protein kinase inhibitors, ATC code: L01XE06
+Pharmacotherapeutic group: antineoplastic agents, protein kinase inhibitors, ATC code: L01EA02
 
 Pharmacodynamics
 Dasatinib inhibits the activity of the BCR-ABL kinase and SRC family kinases along with a number of other selected oncogenic kinases including c-KIT, ephrin (EPH) receptor kinases, and PDGFβ receptor.
@@ -52,17 +52,12 @@ A statistically significantly greater proportion of patients in the SPRYCEL grou
 Efficacy of SPRYCEL was consistently demonstrated across different subgroups, including age, gender, and baseline Hasford score.
 Table 9: Efficacy results from a phase 3 study of newly diagnosed patients with chronic phase CML
 
-|  | SPRYCEL imatinib n= 259 n= 260 | p-value |
-| --- | --- | --- |
-|  | Response rate (95% CI) |  |
-| Cytogenetic response within 12 months cCCyRa CCyRb within 24 months cCCyRa CCyRb within 36 months cCCyRa CCyRb within 48 months cCCyRa CCyRb within 60 months cCCyRa CCyRb Major molecular responsec 12 months 24 months 36 months 48 months 60 months | 76.8% (71.2–81.8) 66.2% (60.1–71.9) 85.3% (80.4-89.4) 73.5% (67.7-78.7) | p< 0.007* ⎯ |
-|  | 80.3% 74.2% 87.3% 82.3% | ⎯ ⎯ |
-|  | 82.6% 77.3% 88.0% 83.5% | ⎯ ⎯ |
-|  | 82.6% 78.5% 87.6% 83.8% | ⎯ ⎯ |
-|  | 83.0% 78.5% 88.0% 83.8% | ⎯ ⎯ |
-|  | 52.1% (45.9–58.3) 33.8% (28.1–39.9) 64.5% (58.3-70.3) 50% (43.8-56.2) 69.1% (63.1-74.7) 56.2% (49.9-62.3) 75.7% (70.0-80.8) 62.7% (56.5-68.6) 76.4% (70.8-81.5) 64.2% (58.1-70.1) | p< 0.00003* ⎯ ⎯ ⎯ p=0.0021 |
-| Time-to cCCyR Time-to MMR Durability of cCCyR Time-to cCCyR Time-to MMR Durability of cCCyR Time-to cCCyR | Hazard ratio (HR) within 12 months (99.99% CI) 1.55 (1.0-2.3) 2.01 (1.2-3.4) 0.7 (0.4-1.4) within 24 months (95% CI) 1.49 (1.22-1.82) 1.69 (1.34-2.12) 0.77 (0.55-1.10) within 36 months (95% CI) 1.48 (1.22-1.80) | p< 0.0001* p< 0.0001* p< 0.035 ⎯ ⎯ ⎯ ⎯ |
-| Time-to MMR Durability of cCCyR Time-to cCCyR Time-to MMR Durability of cCCyR Time-to cCCyR Time-to MMR Durability of cCCyR | 1.59 (1.28-1.99) 0.77 (0.53-1.11) within 48 months (95% CI) 1.45 (1.20-1.77) 1.55 (1.26-1.91) 0.81 (0.56-1.17) within 60 months (95% CI) 1.46 (1.20-1.77) 1.54 (1.25-1.89) 0.79 (0.55-1.13) | ⎯ ⎯ ⎯ ⎯ ⎯ p=0.0001 p<0.0001 p=0.1983 |
+|  | SPRYCEL imatinib n= 259 n= 260 |
+| --- | --- |
+|  | Response rate (95% CI) |
+| Cytogenetic response within 12 months cCCyRa CCyRb within 24 months cCCyRa CCyRb within 36 months cCCyRa CCyRb within 48 months cCCyRa CCyRb within 60 months cCCyRa CCyRb Major molecular responsec 12 months 24 months 36 months 48 months 60 months | 76.8% (71.2–81.8) 66.2% (60.1–71.9) 85.3% (80.4-89.4) 73.5% (67.7-78.7) 80.3% 74.2% 87.3% 82.3% 82.6% 77.3% 88.0% 83.5% 82.6% 78.5% 87.6% 83.8% 83.0% 78.5% 88.0% 83.8% 52.1% (45.9–58.3) 33.8% (28.1–39.9) 64.5% (58.3-70.3) 50% (43.8-56.2) 69.1% (63.1-74.7) 56.2% (49.9-62.3) 75.7% (70.0-80.8) 62.7% (56.5-68.6) 76.4% (70.8-81.5) 64.2% (58.1-70.1) |
+| Time-to cCCyR Time-to MMR Durability of cCCyR Time-to cCCyR Time-to MMR Durability of cCCyR Time-to cCCyR | Hazard ratio (HR) within 12 months (99.99% CI) 1.55 (1.0-2.3) 2.01 (1.2-3.4) 0.7 (0.4-1.4) within 24 months (95% CI) 1.49 (1.22-1.82) 1.69 (1.34-2.12) 0.77 (0.55-1.10) within 36 months (95% CI) 1.48 (1.22-1.80) |
+| Time-to MMR Durability of cCCyR Time-to cCCyR Time-to MMR Durability of cCCyR Time-to cCCyR Time-to MMR Durability of cCCyR | 1.59 (1.28-1.99) 0.77 (0.53-1.11) within 48 months (95% CI) 1.45 (1.20-1.77) 1.55 (1.26-1.91) 0.81 (0.56-1.17) within 60 months (95% CI) 1.46 (1.20-1.77) 1.54 (1.25-1.89) 0.79 (0.55-1.13) |
 
 a Confirmed complete cytogenetic response (cCCyR) is defined as a response noted on two consecutive occasions (at least 28 days apart).
 b Complete cytogenetic response (CCyR) is based on a single bone marrow cytogenetic evaluation.
@@ -142,13 +137,12 @@ In an additional analysis, more dasatinib-treated patients (84%) achieved early 
 Patients achieving early molecular response had a lower risk of transformation, higher rate of progression-free survival (PFS) and higher rate of overall survival (OS), as shown in Table 10.
 
 Table 10: Dasatinib patients with BCR-ABL ≤ 10% and > 10% at 3 months
-Patients with BCR-ABL Patients with BCR-ABL >
 
-Dasatinib N = 235 ≤ 10% at 3 months 10% at 3 months
-Number of patients (%) 198 (84.3) 37 (15.7)
-Transformation at 60 months, n/N (%) 6/198 (3.0) 5/37 (13.5)
-Rate of PFS at 60 months (95% CI) 92.0% (89.6, 95.2) 73.8% (52.0, 86.8)
-Rate of OS at 60 months (95% CI) 93.8% (89.3, 96.4) 80.6% (63.5, 90.2)
+| Dasatinib N = 235 | Patients with BCR-ABL ≤ 10% at 3 months |
+| --- | --- |
+| Number of patients (%) Transformation at 60 months, n/N (%) Rate of PFS at 60 months (95% CI) Rate of OS at 60 months (95% CI) | 198 (84.3) 6/198 (3.0) 92.0% (89.6, 95.2) 93.8% (89.3, 96.4) |
+
+Patients with BCR-ABL Patients with BCR-ABL >
 
 The OS rate by specific time point is displayed graphically in Figure 4.
 Rate of OS was consistently higher in dasatinib treated patients who achieved BCR-ABL level ≤ 10% at 3 months than those who did not.
@@ -267,46 +261,17 @@ The rate of major molecular response (all 25 treated patients with a CCyR) was 5
 Further efficacy results are reported in Table 11.
 Of note, major haematologic responses (MaHR) were achieved quickly (most within 35 days of first dasatinib administration for patients with lymphoid blast CML, and within 55 days for patients with Ph+ ALL).
 Table 11: Efficacy in phase II SPRYCEL single-arm clinical studiesa
-Myeloid Lymphoid
 
-Chronic Accelerated blast blast Ph+ ALL
-
-(n= 387) (n= 174) (n= 109) (n= 48) (n= 46) Haematologic response rateb (%)
-
-64% 33% 35% 41%
-MaHR (95% CI) n/a
-(57-72) (24-43) (22-51) (27-57)
-
-91%
-
-CHR (95% CI) 50% (42-58) 26% (18-35) 29% (17-44) 35% (21-50)
-
-(88-94)
-
-NEL (95% CI) n/a 14% (10-21) 7% (3-14) 6% (1-17) 7% (1-18)
-
-Duration of MaHR (%; Kaplan-Meier estimates)
-
-1 year n/a 79% (71-87) 71% (55-87) 29% (3-56) 32% (8-56)
-2 year n/a 60% (50-70) 41% (21-60) 10% (0-28) 24% (2-47)
-
-Cytogenetic responsec (%)
-62%
-
-MCyR (95% CI) 40% (33-48) 34% (25-44) 52% (37-67) 57% (41-71)
-
-(57-67)
-CCyR (95% CI) 54% (48-59) 33% (26-41) 27% (19-36) 46% (31-61) 54% (39-69)
-Survival (%; Kaplan-Meier estimates)
-Progression-Free
-
-1 year 91% (88-94) 64% (57-72) 35% (25-45) 14% (3-25) 21% (9-34)
-2 year 80% (75-84) 46% (38-54) 20% (11-29) 5% (0-13) 12% (2-23)
-
-Overall
-
-1 year 97% (95-99) 83% (77-89) 48% (38-59) 30% (14-47) 35% (20-51)
-2 year 94% (91-97) 72% (64-79) 38% (27-50) 26% (10-42) 31% (16-47)
+| Chronic Accelerated (n= 387) (n= 174) | Myeloid blast (n= 109) | Lymphoid blast (n= 48) |
+| --- | --- | --- |
+| Haematologic response rateb (%) |  |  |
+| 64% MaHR (95% CI) n/a (57-72) 91% CHR (95% CI) 50% (42-58) (88-94) NEL (95% CI) n/a 14% (10-21) Duration of MaHR (%; Kaplan-Meier estimates) 1 year n/a 79% (71-87) 2 year n/a 60% (50-70) | 33% (24-43) 26% (18-35) 7% (3-14) | 35% (22-51) 29% (17-44) 6% (1-17) |
+|  | 71% (55-87) 41% (21-60) | 29% (3-56) 10% (0-28) |
+| Cytogenetic responsec (%) |  |  |
+| 62% MCyR (95% CI) 40% (33-48) (57-67) CCyR (95% CI) 54% (48-59) 33% (26-41) | 34% (25-44) 27% (19-36) | 52% (37-67) 46% (31-61) |
+| Survival (%; Kaplan-Meier estimates) |  |  |
+| Progression-Free 1 year 91% (88-94) 64% (57-72) 2 year 80% (75-84) 46% (38-54) | 35% (25-45) 20% (11-29) | 14% (3-25) 5% (0-13) |
+| Overall 1 year 97% (95-99) 83% (77-89) 2 year 94% (91-97) 72% (64-79) | 48% (38-59) 38% (27-50) | 30% (14-47) 26% (10-42) |
 
 Data described in this table are from studies using a starting dose of 70 mg twice daily.
 See section 4.2 for the recommended starting dose.
@@ -404,27 +369,10 @@ Response rates are presented in Table 14.
 Table 14: Efficacy of SPRYCEL in phase III dose-optimisation study: advanced phase
 CML and Ph+ ALL (2 year results)a
 
-Accelerated Myeloid blast Lymphoid blast Ph+ALL
-(n= 158) (n= 75) (n= 33) (n= 40)
-
-MaHRb
-
-66% 28% 42% 38%
-
-(95%
-
-(59-74) (18-40) (26-61) (23-54)
-
-CI)
-
-CHRb 47% 17% 21% 33%
-(95% CI) (40-56) (10-28) (9-39) (19-49)
-NELb 19% 11% 21% 5%
-(95% CI) (13-26) (5-20) (9-39) (1-17)
-MCyRc 39% 28% 52% 70%
-(95% CI) (31-47) (18-40) (34-69) (54-83)
-CCyR 32% 17% 39% 50%
-(95% CI) (25-40) (10-28) (23-58) (34-66)
+|  | Accelerated (n= 158) | Myeloid blast (n= 75) | Lymphoid blast (n= 33) |
+| --- | --- | --- | --- |
+| MaHRb (95% CI) CHRb (95% CI) NELb (95% CI) | 66% (59-74) 47% (40-56) 19% (13-26) | 28% (18-40) 17% (10-28) 11% (5-20) | 42% (26-61) 21% (9-39) 21% (9-39) |
+| MCyRc (95% CI) CCyR (95% CI) | 39% (31-47) 32% (25-40) | 28% (18-40) 17% (10-28) | 52% (34-69) 39% (23-58) |
 
 a Results reported in recommended starting dose of 140 mg once daily (see section 4.2).
 b Haematologic response criteria (all responses confirmed after 4 weeks): Major haematologic response (MaHR) = complete haematologic response (CHR) + no evidence of leukaemia (NEL).
@@ -453,31 +401,14 @@ Results are shown in Table 15.
 Table 15: Efficacy of SPRYCEL in paediatric patients with CML-CP
 Cumulative response over time by minimum follow-up period
 
-3 months 6 months 12 months 24 months
-
-CCyR
-(95% CI)
-
-Newly diagnosed 43.1% 66.7% 96.1% 96.1%
-(N = 51)a (29.3, 57.8) (52.1, 79.2) (86.5, 99.5) (86.5, 99.5)
-Prior imatinib 45.7% 71.7% 78.3% 82.6%
-(N = 46)b (30.9, 61.0) (56.5, 84.0) (63.6, 89.1) (68.6, 92.2)
-
-MCyR
-(95% CI)
-
-Newly diagnosed 60.8% 90.2% 98.0% 98.0%
-(N = 51)a (46.1, 74.2) (78.6, 96.7) (89.6, 100) (89.6, 100)
-Prior imatinib 60.9% 82.6% 89.1% 89.1%
-(N = 46)b (45.4, 74.9) (68.6, 92.2) (76.4, 96.4) (76.4, 96.4)
-
-MMR
-(95% CI)
-
-Newly diagnosed 7.8% 31.4% 56.9% 74.5%
-(N = 51)a (2.2, 18.9) (19.1, 45.9) (42.2, 70.7) (60.4, 85.7)
-Prior imatinib 15.2% 26.1% 39.1% 52.2%
-(N = 46)b (6.3, 28.9) (14.3, 41.1) (25.1, 54.6) (36.9, 67.1)
+|  | 3 months | 6 months | 12 months |
+| --- | --- | --- | --- |
+| CCyR (95% CI) Newly diagnosed (N = 51)a | 43.1% (29.3, 57.8) | 66.7% (52.1, 79.2) | 96.1% (86.5, 99.5) |
+| Prior imatinib (N = 46)b | 45.7% (30.9, 61.0) | 71.7% (56.5, 84.0) | 78.3% (63.6, 89.1) |
+| MCyR (95% CI) Newly diagnosed (N = 51)a | 60.8% (46.1, 74.2) | 90.2% (78.6, 96.7) | 98.0% (89.6, 100) |
+| Prior imatinib (N = 46)b | 60.9% (45.4, 74.9) | 82.6% (68.6, 92.2) | 89.1% (76.4, 96.4) |
+| MMR (95% CI) Newly diagnosed (N = 51)a | 7.8% (2.2, 18.9) | 31.4% (19.1, 45.9) | 56.9% (42.2, 70.7) |
+| Prior imatinib (N = 46)b | 15.2% (6.3, 28.9) | 26.1% (14.3, 41.1) | 39.1% (25.1, 54.6) |
 
 a Patients from Phase II paediatric study of newly diagnosed CML-CP receiving oral tablet formulation b Patients from Phase I and Phase II paediatric studies of imatinib-resistant or intolerant CML-CP receiving oral tablet formulation
 
@@ -509,86 +440,17 @@ The MRD negativity rates at the end of induction and consolidation as measured b
 
 [SPRYCEL 10 mg/mL powder for oral suspension]
 
-SPRYCEL imatinib p-value
-n= 259 n= 260
-
-Response rate (95% CI)
-Cytogenetic response within 12 months
-
-cCCyRa 76.8% (71.2–81.8) 66.2% (60.1–71.9) p< 0.007*
-CCyRb 85.3% (80.4-89.4) 73.5% (67.7-78.7) ⎯
-
-within 24 months
-
-cCCyRa 80.3% 74.2% ⎯
-CCyRb 87.3% 82.3% ⎯
-
-within 36 months
-
-cCCyRa 82.6% 77.3% ⎯
-CCyRb 88.0% 83.5% ⎯
-
-within 48 months
-
-cCCyRa 82.6% 78.5% ⎯
-CCyRb 87.6% 83.8% ⎯
-
-within 60 months
-
-cCCyRa 83.0% 78.5% ⎯
-CCyRb 88.0% 83.8% ⎯
-
-Major molecular responsec
-
-12 months 52.1% (45.9–58.3) 33.8% (28.1–39.9) p< 0.00003*
-24 months 64.5% (58.3-70.3) 50% (43.8-56.2) ⎯
-36 months 69.1% (63.1-74.7) 56.2% (49.9-62.3) ⎯
-48 months 75.7% (70.0-80.8) 62.7% (56.5-68.6) ⎯
-60 months 76.4% (70.8-81.5) 64.2% (58.1-70.1) p=0.0021
-
-Hazard ratio (HR) within 12 months (99.99% CI)
-
-Time-to cCCyR 1.55 (1.0-2.3) p< 0.0001*
-Time-to MMR 2.01 (1.2-3.4) p< 0.0001*
-Durability of cCCyR 0.7 (0.4-1.4) p< 0.035
-
-within 24 months (95% CI)
-
-Time-to cCCyR 1.49 (1.22-1.82) ⎯
-Time-to MMR 1.69 (1.34-2.12) ⎯
-Durability of cCCyR 0.77 (0.55-1.10) ⎯
-
-within 36 months (95% CI)
-
-Time-to cCCyR 1.48 (1.22-1.80) ⎯
-Time-to MMR 1.59 (1.28-1.99) ⎯
-Durability of cCCyR 0.77 (0.53-1.11) ⎯
-
-within 48 months (95% CI)
-
-Time-to cCCyR 1.45 (1.20-1.77) ⎯
-Time-to MMR 1.55 (1.26-1.91) ⎯
-Durability of cCCyR 0.81 (0.56-1.17) ⎯
-
-within 60 months (95% CI)
-
-Time-to cCCyR 1.46 (1.20-1.77) p=0.0001
-Time-to MMR 1.54 (1.25-1.89) p<0.0001
-Durability of cCCyR 0.79 (0.55-1.13) p=0.1983
-
-| Chronic Accelerated (n= 387) (n= 174) | Myeloid blast (n= 109) | Lymphoid blast (n= 48) | Ph+ ALL (n= 46) |
-| --- | --- | --- | --- |
-| Haematologic response rateb (%) |  |  |  |
-| MaHR (95% CI) n/a 64% (57-72) CHR (95% CI) 91% (88-94) 50% (42-58) NEL (95% CI) n/a 14% (10-21) Duration of MaHR (%; Kaplan-Meier estimates) 1 year n/a 79% (71-87) 2 year n/a 60% (50-70) | 33% (24-43) 26% (18-35) 7% (3-14) | 35% (22-51) 29% (17-44) 6% (1-17) | 41% (27-57) 35% (21-50) 7% (1-18) |
-|  | 71% (55-87) 41% (21-60) | 29% (3-56) 10% (0-28) | 32% (8-56) 24% (2-47) |
-| Cytogenetic responsec (%) |  |  |  |
-| MCyR (95% CI) 62% (57-67) 40% (33-48) CCyR (95% CI) 54% (48-59) 33% (26-41) | 34% (25-44) 27% (19-36) | 52% (37-67) 46% (31-61) | 57% (41-71) 54% (39-69) |
-| Survival (%; Kaplan-Meier estimates) |  |  |  |
-| Progression-Free 1 year 91% (88-94) 64% (57-72) 2 year 80% (75-84) 46% (38-54) | 35% (25-45) 20% (11-29) | 14% (3-25) 5% (0-13) | 21% (9-34) 12% (2-23) |
+| Chronic Accelerated (n= 387) (n= 174) | Myeloid blast (n= 109) | Lymphoid blast (n= 48) |
+| --- | --- | --- |
+| Haematologic response rateb (%) |  |  |
+| MaHR (95% CI) n/a 64% (57-72) CHR (95% CI) 91% (88-94) 50% (42-58) NEL (95% CI) n/a 14% (10-21) Duration of MaHR (%; Kaplan-Meier estimates) 1 year n/a 79% (71-87) 2 year n/a 60% (50-70) | 33% (24-43) 26% (18-35) 7% (3-14) | 35% (22-51) 29% (17-44) 6% (1-17) |
+|  | 71% (55-87) 41% (21-60) | 29% (3-56) 10% (0-28) |
+| Cytogenetic responsec (%) |  |  |
+| MCyR (95% CI) 62% (57-67) 40% (33-48) CCyR (95% CI) 54% (48-59) 33% (26-41) | 34% (25-44) 27% (19-36) | 52% (37-67) 46% (31-61) |
+| Survival (%; Kaplan-Meier estimates) |  |  |
+| Progression-Free 1 year 91% (88-94) 64% (57-72) 2 year 80% (75-84) 46% (38-54) | 35% (25-45) 20% (11-29) | 14% (3-25) 5% (0-13) |
+| Overall 1 year 97% (95-99) 83% (77-89) 2 year 94% (91-97) 72% (64-79) | 48% (38-59) 38% (27-50) | 30% (14-47) 26% (10-42) |
 
 Table 14: Efficacy of SPRYCEL in phase III dose-optimisation study: advanced phase CML and Ph+ ALL (2 year results)a
-
-MaHRb 66% 28% 42% 38%
-(95% CI) (59-74) (18-40) (26-61) (23-54)
 
 This dose represents 30% lower exposure compared to the recommended dose (see section 5.2).
