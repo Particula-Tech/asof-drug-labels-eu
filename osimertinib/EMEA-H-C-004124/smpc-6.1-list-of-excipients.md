@@ -1,12 +1,14 @@
 # 6.1 List of excipients
 
 Tablet core
+
 Mannitol
 Microcrystalline cellulose
 Low-substituted hydroxypropyl cellulose
 Sodium stearyl fumarate
 
 Tablet coating
+
 Polyvinyl alcohol
 Titanium dioxide (E 171)
 Macrogol 3350
