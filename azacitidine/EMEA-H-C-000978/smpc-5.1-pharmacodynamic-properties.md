@@ -9,6 +9,7 @@ Non-proliferating cells are relatively insensitive to azacitidine.
 Incorporation of azacitidine into DNA results in the inactivation of DNA methyltransferases, leading to hypomethylation of DNA.
 DNA hypomethylation of aberrantly methylated genes involved in normal cell cycle regulation, differentiation and death pathways may result in gene re-expression and restoration of cancer-suppressing functions to cancer cells.
 The relative importance of DNA hypomethylation versus cytotoxicity or other activities of azacitidine to clinical outcomes has not been established.
+
 Clinical efficacy and safety
 
 Adult population (MDS, CMML and AML [20-30% marrow blasts])
@@ -41,12 +42,12 @@ Time (months) from Randomization
 
 KEY: AZA = azacitidine; CCR = conventional care regimens; CI = confidence interval;
 HR = hazard ratio
-
 The survival benefits of Vidaza were consistent regardless of the CCR treatment option (BSC alone, low-dose cytarabine plus BSC or standard induction chemotherapy plus BSC) utilised in the control arm.
+
 When IPSS cytogenetic subgroups were analysed, similar findings in terms of median overall survival were observed in all groups (good, intermediate, poor cytogenetics, including monosomy 7).
 
 On analyses of age subgroups, an increase in median overall survival was observed for all groups
-(< 65 years, ≥65 years and ≥75 years).
+(< 65 years, ≥ 65 years and ≥ 75 years).
 
 Vidaza treatment was associated with a median time to death or transformation to AML of 13.0 months versus 7.6 months for those receiving CCR treatment, an improvement of 5.4 months with a stratified log-rank p-value of 0.0025.
 
@@ -77,6 +78,7 @@ As part of the inclusion criteria, patients were required to have an ECOG perfor
 The primary endpoint of the study was overall survival.
 
 Vidaza was administered at a SC dose of 75mg/m2/day for 7 days, followed by a rest period of 21 days (28 day treatment cycle), for a median of 6 cycles (range: 1 to 28), BSC-only patients for a median of 3 cycles (range: 1 to 20), low-dose cytarabine patients for a median of 4 cycles (range 1 to 25) and standard intensive chemotherapy patients for a median of 2 cycles (range: 1 to 3, induction cycle plus 1 or 2 consolidation cycles).
+
 The individual baseline parameters were comparable between the Vidaza and CCR groups.
 The median age of the subjects was 75.0 years (range: 64 to 91 years), 75.2% were Caucasian and 59.0% were male.
 At baseline 60.7% were classified as AML not otherwise specified, 32.4% AML with myelodysplasia-related changes, 4.1% therapy-related myeloid neoplasms and 2.9% AML with recurrent genetic abnormalities according to the WHO classification.
@@ -90,7 +92,7 @@ The Cox PH model adjusted for pre-specified baseline prognostic factors defined 
 In addition, although the study was not powered to demonstrate a statistically significant difference when comparing azacitidine to the preselection CCR treatment groups, the survival of Vidaza treated patients was longer when compared to CCR treatment options BSC alone, low-dose cytarabine plus BSC and were similar when compared to standard intensive chemotherapy plus BSC.
 
 In all pre-specified subgroups (age [< 75 years and ≥ 75 years], gender, race, ECOG performance status [0 or 1 and 2] , baseline cytogenetic risk [intermediate and poor], geographic region, WHO classification of AML [including AML with myelodysplasia-related changes], baseline WBC count
-[≤5 x109/L and > 5 x 109/L], baseline bone marrow blasts [≤ 50% and > 50%] and prior history of MDS), there was a trend in OS benefit in favour of Vidaza.
+[≤ 5 x109/L and > 5 x 109/L], baseline bone marrow blasts [≤ 50% and > 50%] and prior history of MDS), there was a trend in OS benefit in favour of Vidaza.
 In a few pre-specified subgroups, the OS HR reached statistical significance including patients with poor cytogenetic risk, patients with AML with myelodysplasia-related changes, patients < 75 years, female patients and white patients.
 
 Haematologic and cytogenetic responses were assessed by the investigator and by the IRC with similar results.
@@ -98,6 +100,7 @@ Overall response rate (complete remission [CR] + complete remission with incompl
 In patients who achieved CR or CRi, the median duration of remission was 10.4 months (95% CI = 7.2, 15.2) for the Vidaza subjects and 12.3 months
 (95% CI = 9.0, 17.0) for the CCR subjects.
 A survival benefit was also demonstrated in patients that had not achieved a complete response for Vidaza compared to CCR.
+
 Vidaza treatment improved peripheral blood counts and led to a reduced need for RBC and platelet transfusions.
 A patient was considered RBC or platelet transfusion dependent at baseline if the subject had one or more RBC or platelet transfusions during the 56 days (8 weeks) on or prior to randomization, respectively.
 A patient was considered RBC or platelet transfusion independent during the treatment period if the subject had no RBC or platelet transfusions during any consecutive 56 days during the reporting period, respectively.
@@ -129,7 +132,6 @@ Among the cohort of JMML patients treated with Vidaza, 7 (43.8%) patients had a 
 17 of 18 patients proceeded to HSCT.
 
 Because of the study design (small patient numbers and various confounding factors), it cannot be concluded from this clinical study whether Vidaza prior to HSCT improves survival outcome in JMML patients.
-
 Study AZA-AML-004 was a Phase 2, multicentre, open-label study to evaluate the safety, pharmacodynamics and efficacy of Vidaza compared to no anti-cancer treatment in children and young adults with AML in molecular relapse after CR1.
 
 Seven patients (median age 6.7 years [range 2 to 12 years]; 71.4% male) were treated with intravenous Vidaza 100 mg/m2, daily on Days 1 to 7 of each 28-day cycle for a maximum of 3 cycles.

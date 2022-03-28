@@ -43,6 +43,7 @@ The syringe filled with reconstituted suspension should be allowed up to 30 minu
 If the elapsed time is longer than 30 minutes, the suspension should be discarded appropriately and a new dose prepared.
 To re-suspend, vigorously roll the syringe between the palms until a uniform, cloudy suspension is achieved.
 The product should be discarded if it contains large particles or agglomerates.
+
 Storage of the reconstituted product
 For storage conditions after reconstitution of the medicinal product, see section 6.3.
 

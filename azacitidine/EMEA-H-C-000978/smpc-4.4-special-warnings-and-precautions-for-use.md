@@ -38,3 +38,9 @@ Vidaza therapy should be discontinued in patients who develop necrotising fascii
 Tumour lysis syndrome
 The patients at risk of tumour lysis syndrome are those with high tumour burden prior to treatment.
 These patients should be monitored closely and appropriate precautions taken.
+
+Differentiation syndrome
+Cases of differentiation syndrome (also known as retinoic acid syndrome) have been reported in patients receiving injectable azacitidine.
+Differentiation syndrome may be fatal and symptoms and clinical findings include respiratory distress, pulmonary infiltrates, fever, rash, pulmonary oedema, peripheral oedema, rapid weight gain, pleural effusions, pericardial effusions, hypotension and renal dysfunction (see section 4.8).
+Treatment with high-dose IV corticosteroids and haemodynamic monitoring should be considered at first onset of symptoms or signs suggestive of differentiation syndrome.
+Temporary discontinuation of injectable azacitidine should be considered until resolution of symptoms and if resumed, caution is advised.

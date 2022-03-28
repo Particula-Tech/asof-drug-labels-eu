@@ -17,8 +17,9 @@ The most commonly reported (≥ 30%) adverse reactions with azacitidine treatmen
 
 Tabulated list of adverse reactions
 Table 1 below contains adverse reactions associated with azacitidine treatment obtained from the main clinical studies in MDS and AML and post marketing surveillance.
-Frequencies are defined as: very common (≥1/10), common (≥1/100 to < 1/10); uncommon
-(≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
+
+Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100 to < 1/10); uncommon
+(≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 Adverse reactions are presented in the table below according to the highest frequency observed in any of the main clinical studies.
 
@@ -26,7 +27,8 @@ Table 1: Adverse reactions reported in patients with MDS or AML treated with aza
 
 | System Organ Class | Very common | Common | Uncommon | Rare | Not Known |
 | --- | --- | --- | --- | --- | --- |
-| Infections and infestations | pneumonia* (including bacterial, viral and fungal), nasopharyngitis | sepsis* (including bacterial, viral and fungal), neutropenic sepsis*, respiratory tract infection (includes upper and bronchitis), urinary tract infection, cellulitis, diverticulitis, oral fungal infection, sinusitis, pharyngitis, rhinitis, herpes simplex, skin infection |  |  | necrotising fasciitis * |
+| Infections and infestations | pneumonia* (including bacterial, viral and fungal), nasopharyngitis | sepsis* (including bacterial, viral and fungal), neutropenic sepsis*, respiratory tract infection (includes upper and bronchitis), urinary tract infection, cellulitis, diverticulitis, oral fungal infection, sinusitis, pharyngitis, rhinitis, herpes simplex, skin infection |  |  | necrotising fasciitis* |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  |  | differentiation syndrome*,a |
 | Blood and lymphatic system disorders | febrile neutropenia*, neutropenia, leukopenia, thrombocytopenia, anaemia | pancytopenia*, bone marrow failure |  |  |  |
 | Immune system disorders |  |  | hypersensitivity reactions |  |  |
 | Metabolism and nutrition disorders | anorexia, decreased appetite, hypokalemia | dehydration |  | tumour lysis syndrome |  |
@@ -44,13 +46,14 @@ Table 1: Adverse reactions reported in patients with MDS or AML treated with aza
 | General disorders and administration site conditions | pyrexia*, fatigue, asthenia, chest pain, injection site erythema, injection site pain, injection site reaction (unspecified) | bruising, haematoma, induration, rash, pruritus, inflammation, discoloration, nodule and haemorrhage (at injection site), malaise, chills, catheter site hemorrhage |  | injection site necrosis (at injection site) |  |
 | Investigations | weight decreased |  |  |  |  |
 
-* = rarely fatal cases have been reported
+* = rarely fatal cases have been reported a = see section 4.4
 
 Description of selected adverse reactions
 Haematologic adverse reactions
-The most commonly reported (≥10%) haematological adverse reactions associated with azacitidine treatment include anaemia, thrombocytopenia, neutropenia, febrile neutropenia and leukopenia, and were usually Grade 3 or 4.
+The most commonly reported (≥ 10%) haematological adverse reactions associated with azacitidine treatment include anaemia, thrombocytopenia, neutropenia, febrile neutropenia and leukopenia, and were usually Grade 3 or 4.
 There is a greater risk of these events occurring during the first 2 cycles, after which they occur with less frequency in patients with restoration of haematological function.
 Most haematological adverse reactions were managed by routine monitoring of complete blood counts and delaying azacitidine administration in the next cycle, prophylactic antibiotics and/or growth factor support (e.g. G-CSF) for neutropenia and transfusions for anaemia or thrombocytopenia as required.
+
 Infections
 Myelosuppression may lead to neutropenia and an increased risk of infection.
 Serious adverse reactions such as sepsis, including neutropenic sepsis, and pneumonia were reported in patients receiving azacitidine, some with a fatal outcome.
@@ -88,10 +91,10 @@ Cardiac events
 Data from a clinical study allowing enrolment of patients with known history of cardiovascular or pulmonary disease showed an increase in cardiac events in patients with newly diagnosed AML treated with azacitidine (see section 4.4).
 
 Elderly population
-There is limited safety information available with azacitidine in patients ≥85 years (with 14 [5.9%] patients ≥85 years treated in Study AZA-AML-001).
-
+There is limited safety information available with azacitidine in patients ≥ 85 years (with 14 [5.9%] patients ≥ 85 years treated in Study AZA-AML-001).
 Paediatric population
 In Study AZA-JMML-001, 28 paediatric patients (1 month to less than 18 years of age) were treated with Vidaza for MDS (n = 10) or juvenile myelomonocytic leukaemia (JMML) (n = 18) (see section 5.1).
+
 All 28 patients experienced at least 1 adverse event and 17 (60.7%) experienced at least 1 treatment-related event.
 The most commonly reported adverse events in the overall paediatric population were pyrexia, haematologic events including anaemia, thrombocytopenia and febrile neutropenia, and gastrointestinal events including constipation and vomiting.
 
