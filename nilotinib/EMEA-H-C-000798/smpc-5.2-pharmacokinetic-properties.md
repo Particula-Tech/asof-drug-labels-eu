@@ -10,6 +10,7 @@ In healthy volunteers, Cmax and area under the serum concentration-time curve (A
 Administration of Tasigna 30 minutes or 2 hours after food increased bioavailability of nilotinib by 29% or 15%, respectively (see sections 4.2, 4.4 and 4.5).
 
 Nilotinib absorption (relative bioavailability) might be reduced by approximately 48% and 22% in patients with total gastrectomy and partial gastrectomy, respectively.
+
 Distribution
 
 The blood-to-plasma ratio of nilotinib is 0.71.
@@ -40,7 +41,6 @@ There was no relevant increase in exposure to nilotinib when the dose was increa
 
 Steady-state conditions were essentially achieved by day 8.
 An increase in serum exposure to nilotinib between the first dose and steady state was approximately 2-fold for daily dosing and 3.8-fold for twice-daily dosing.
-
 Bioavailability/bioequivalence studies
 
 Single-dose administration of 400 mg nilotinib, using 2 hard capsules of 200 mg whereby the content of each hard capsule was dispersed in one teaspoon of apple sauce, was shown to be bioequivalent with a single-dose administration of 2 intact hard capsules of 200 mg.

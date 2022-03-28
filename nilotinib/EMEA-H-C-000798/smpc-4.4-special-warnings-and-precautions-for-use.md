@@ -37,13 +37,13 @@ Tasigna should be used with caution in patients who have or who are at significa
 
 Close monitoring for an effect on the QTc interval is advisable and a baseline ECG is recommended prior to initiating nilotinib therapy and as clinically indicated.
 Hypokalaemia or hypomagnesaemia must be corrected prior to Tasigna administration and should be monitored periodically during therapy.
+
 Sudden death
 
 Uncommon cases (0.1 to 1%) of sudden deaths have been reported in patients with imatinib-resistant or intolerant CML in chronic phase or accelerated phase with a past medical history of cardiac disease or significant cardiac risk factors.
 Co-morbidities in addition to the underlying malignancy were also frequently present as were concomitant medicinal products.
 Ventricular repolarisation abnormalities may have been contributory factors.
 No cases of sudden death were reported in the Phase III study in newly diagnosed patients with CML in chronic phase.
-
 Fluid retention and oedema
 
 Severe forms of drug-related fluid retention such as pleural effusion, pulmonary oedema, and pericardial effusion were uncommonly (0.1 to 1%) observed in a Phase III study of newly diagnosed CML patients.
@@ -73,10 +73,10 @@ Special monitoring of adult Ph+ CML patients in chronic phase who have achieved 
 Eligibility for discontinuation of treatment
 Eligible patients who are confirmed to express the typical BCR-ABL transcripts, e13a2/b2a2 or e14a2/b3a2, can be considered for treatment discontinuation.
 Patients must have typical BCR-ABL transcripts to allow quantitation of BCR-ABL, evaluation of the depth of molecular response, and determination of a possible loss of molecular remission after discontinuation of treatment with nilotinib.
+
 Monitoring of patients who have discontinued therapy
 Frequent monitoring of BCR-ABL transcript levels in patients eligible for treatment discontinuation must be performed with a quantitative diagnostic test validated to measure molecular response levels with a sensitivity of at least MR4.5 (BCR-ABL/ABL ≤0.0032% IS).
 BCR-ABL transcript levels must be assessed prior to and during treatment discontinuation (see sections 4.2 and 5.1).
-
 Loss of major molecular response (MMR=BCR-ABL/ABL ≤0.1%IS) in CML patients who received nilotinib as first- or second-line therapy, or confirmed loss of MR4 (two consecutive measures separated by at least 4 weeks showing loss of MR4 (MR4=BCR-ABL/ABL ≤0.01%IS)) in CML patients who received nilotinib as second-line therapy will trigger treatment re-initiation within 4 weeks of when loss of remission is known to have occurred.
 Molecular relapse can occur during the treatment-free phase, and long-term outcome data are not yet available.
 It is therefore crucial to perform frequent monitoring of BCR-ABL transcript levels and complete blood count with differential in order to detect possible loss of remission (see section 4.2).
@@ -102,6 +102,7 @@ If transient interruption of treatment is not possible, close monitoring of the 
 
 Concomitant use of nilotinib with medicinal products that are potent inducers of CYP3A4 (e.g., phenytoin, rifampicin, carbamazepine, phenobarbital and St. John’s Wort) is likely to reduce exposure to nilotinib to a clinically relevant extent.
 Therefore, in patients receiving nilotinib, co-administration of alternative therapeutic agents with less potential for CYP3A4 induction should be selected (see section 4.5).
+
 Food effect
 
 The bioavailability of nilotinib is increased by food.
@@ -110,7 +111,6 @@ No food should be consumed for at least one hour after the dose is taken.
 Grapefruit juice and other foods that are known to inhibit CYP3A4 should be avoided.
 For patients who are unable to swallow hard capsules, the content of each hard capsule may be dispersed in one teaspoon of apple sauce and should be taken immediately.
 Not more than one teaspoon of apple sauce and no food other than apple sauce must be used (see section 5.2).
-
 Hepatic impairment
 
 Hepatic impairment has a modest effect on the pharmacokinetics of nilotinib.
@@ -145,7 +145,6 @@ Paediatric population
 Laboratory abnormalities of mild to moderate transient elevations of aminotransferases and total bilirubin have been observed in children at a higher frequency than in adults, indicating a higher risk of hepatotoxicity in the paediatric population (see section 4.8).
 Liver function (bilirubin and hepatic transaminases levels) should be monitored monthly or as clinically indicated.
 Elevations of bilirubin and hepatic transaminases should be managed by withholding nilotinib temporarily, dose reduction and/or discontinuation of nilotinib (see section 4.2).
-The long-term effects of prolonged treatment with nilotinib in paediatric patients are unknown.
 In a study in the CML paediatric population, growth retardation has been documented in patients treated with nilotinib (see section 4.8).
 Close monitoring of growth in paediatric patients under nilotinib treatment is recommended.
 

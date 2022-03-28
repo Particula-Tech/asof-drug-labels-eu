@@ -4,6 +4,7 @@ Summary of the safety profile
 
 The data described below reflect exposure to nilotinib in a total of 737 adult patients from a randomised Phase III study in patients with newly diagnosed Ph+ CML in chronic phase treated at the recommended dose of 300 mg twice daily (n=279) and from an open-label multicentre Phase II study in adult patients with imatinib-resistant or intolerant CML in chronic phase (n=321) and accelerated phase (n=137) treated at the recommended dose of 400 mg twice daily.
 Safety information from two Tasigna treatment discontinuation studies, and from a prospective non-interventional study in adult patients with imatinib-resistant or intolerant CML in chronic phase with a two-year observation period (n=507) is also provided.
+
 In adult patients with newly diagnosed CML in chronic phase
 The median duration of exposure was 60.5 months (range 0.1-70.8 months).
 
@@ -15,7 +16,6 @@ Treatment-emergent haematological toxicities include myelosuppression: thrombocy
 Biochemical adverse drug reactions include alanine aminotransferase increased (24%), hyperbilirubinaemia (16%), aspartate aminotransferase increased (12%), lipase increased (11%), blood bilirubin increased (10%), hyperglycaemia (4%), hypercholesterolaemia (3%) and hypertriglyceridaemia (<1%).
 Pleural and pericardial effusions, regardless of causality, occurred in 2% and <1% of patients, respectively, receiving nilotinib 300 mg twice daily.
 Gastrointestinal haemorrhage, regardless of causality, was reported in 3% of these patients.
-
 The change from baseline in mean time-averaged QTcF interval at steady state was 6 msec.
 No patient had an absolute QTcF >500 msec while on the study medicinal product.
 QTcF increase from baseline exceeding 60 msec was observed in <1% of patients while on the study medicinal product.
@@ -40,6 +40,7 @@ Gastrointestinal and CNS haemorrhage were reported in 1% and <1% of patients, re
 
 QTcF exceeding 500 msec was observed in <1% of patients.
 No episodes of torsade de pointes (transient or sustained) were observed.
+
 Tabulated list of adverse reactions
 
 The adverse reactions are ranked under heading of frequency using the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000) and not known (cannot be estimated from the available data).
@@ -47,7 +48,6 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 Most frequently reported adverse reactions in Tasigna clinical studies
 Non-haematological adverse reactions (excluding laboratory abnormalities) that are reported in at least 5% of the adult patients in Tasigna clinical studies that serve as the basis for the approved indications are shown in Table 3.
-
 Table 3 Non-haematological adverse reactions (≥5% of all patients)*
 
 |  | Newly diagnosed CML-CP 300 mg twice daily n=279 |  |  | Imatinib-resistant or intolerant CML-CP and CML-AP 400 mg twice daily n=458 |  |  |  |  |
@@ -228,12 +228,13 @@ Frequency unknown: Cases of facial paralysis have been reported in patients trea
 
 Paediatric population
 
-The safety of nilotinib in paediatric patients (from 2 to <18 years of age) with Philadelphia chromosome positive CML in chronic phase (n=69) has been investigated in two studies (see section 5.1).
-In paediatric patients, the frequency, type and severity of adverse reactions observed have been generally consistent with those observed in adults, with the exception of the laboratory abnormalities hyperbilirubinaemia (Grade 3/4: 13.0%) and transaminase elevation (AST Grade 3/4: 1.4%, ALT Grade 3/4: 8.7%) which were reported at a higher frequency than in adult patients.
+The safety of nilotinib in paediatric patients (from 2 to <18 years of age) with Philadelphia chromosome positive CML in chronic phase (n=58) has been investigated in one main study over a period of 60 months (see section 5.1).
+In paediatric patients, the frequency, type and severity of adverse reactions observed have been generally consistent with those observed in adults, with the exception of hyperbilirubinaemia/blood bilirubin increase (Grade 3/4: 10.3%) and transaminase elevation (AST Grade 3/4: 1.7%, ALT Grade 3/4: 12.1%) which were reported at a higher frequency than in adult patients.
 Bilirubin and hepatic transaminase levels should be monitored during treatment (see sections 4.2 and 4.4).
 
 Growth retardation in paediatric population
-In an interim analysis in a study in the CML paediatric population, with a median exposure of 33 months in each cohort (newly diagnosed and resistant or intolerant Ph+ CML-CP), growth retardation (crossing two main percentile lines from baseline) has been documented in 12.1%.
+In a study conducted in the CML paediatric population, with a median exposure of 51.9 months in newly diagnosed patients and 59.9 months in imatinib/dasatinib-resistant or imatinib-intolerant Ph+ CML-CP patients, growth deceleration (crossing at least two main percentile lines from baseline) was observed in eight patients: five (8.6%) crossed two main percentile lines from baseline and three (5.2%) crossed three main percentile lines from baseline.
+Growth retardation related events were reported in 3 patients (5.2%).
 Close monitoring of growth in paediatric patients under nilotinib treatment is recommended (see section 4.4).
 
 Reporting of suspected adverse reactions
@@ -279,6 +280,7 @@ Non-haematological adverse reactions (excluding laboratory abnormalities) that a
 Adverse reactions that were reported in adult patients in the Tasigna Phase III study at a frequency of less than 5% are shown in Table 4.
 For laboratory abnormalities, very common events (≥1/10) not included in Table 3 are also reported.
 These adverse reactions are included based on clinical relevance and ranked in order of decreasing seriousness within each category using the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), not known (cannot be estimated from the available data).
+
 Table 4 Adverse reactions in adult patients in the Tasigna Phase III study (<5% of all patients)
 
 | Infections and infestations |  |

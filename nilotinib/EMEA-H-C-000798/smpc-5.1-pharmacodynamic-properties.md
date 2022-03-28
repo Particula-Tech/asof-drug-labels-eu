@@ -78,10 +78,12 @@ Figure 1 Cumulative incidence of MMR
 
 100 Nilotinib 300 mg twice daily (n = 282)
 Nilotinib 400 mg twice daily (n = 281)
-90 Imatinib 400 mg once daily (n = 283)
-8070 71%; P < .0001 By 2 years 73%; P < .0001 By 3 years 76%; P < .0001 By 4 years 77%; P < .0001 77%; P < .0001 By 5 years 79%; P < .0001 77%; P < .0001 By 6 years
+90 Imatinib 400 mg once daily (n = 283) By 6 years
+80 By 2 years By 3 years 76%; P < .0001 By 4 years 77%; P < .0001 By 5 years 79%; P < .0001
+70 71%; P < .0001 73%; P < .0001 77%; P < .0001 77%; P < .0001
 73%; P < .0001
-60 55%; P < .0001 By 1 year P < .0001 61%; 70%; P < .0001 60% 61%
+By 1 year 70%; P < .0001
+60 55%; P < .0001 P < .0001 61%; 60% 61%
 50 P < .0001 51%; 53% 56%
 
 40
@@ -129,11 +131,10 @@ Nilotinib 400 mg twice daily (n = 281)
 
 70 66%; P < .0001 By 5 years 67%; P < .0001 By 6 years
 By 4 years
-60 50%; P < .0001 By 3 years 56%; P < .0001 P < .0001 63%; 65%; P < .0001
-
-50
-
-40 20%; P < .0001 By 1 year 39%; P < .0001 By 2 years P < .0001 44%; 50%; P < .0001 42% 43%
+60 By 3 years 56%; P < .0001 63%; 65%; P < .0001
+50%; P < .0001 P < .0001
+50 By 2 years
+40 20%; P < .0001 By 1 year 39%; P < .0001 P < .0001 44%; 50%; P < .0001 42% 43%
 30 15%; P = .0004 33%; 32%
 20 P < .0001 26%
 18%
@@ -155,12 +156,13 @@ Nilotinib 400 mg twice daily (n = 281)
 
 70
 
-60 By 5 years 56%; P < .0001 By 6 years
+By 5 years By 6 years
+60 56%; P < .0001
 54%; P < .0001
 50 By 4 years 55%; P < .0001
-40%; P < .0001 52%;
-40 By 3 years P < .0001
-30 11%; P < .0001 By 1 year 25%; P < .0001 By 2 years 32%; P < .0001 P = .0002 37%; 31% 33%
+40 By 3 years 40%; P < .0001 P < .0001 52%;
+By 2 years 32%; P < .0001
+30 11%; P < .0001 By 1 year 25%; P < .0001 P = .0002 37%; 31% 33%
 20 7%; P < .0001 1% 19%; P = .0003 28%; 23%
 10 P = .0006 15%
 9%
@@ -296,40 +298,52 @@ In an open-label, single-arm study, 215 adult patients with Ph+ CML in chronic p
 (0.0032% IS < BCR-ABL/ABL ≤0.01% IS).
 
 The primary endpoint was the percentage of patients in MMR at 48 weeks after starting the TFR phase (considering any patient who required re-initiation of treatment as non-responder).
-Of the 190 patients who entered the TFR phase, 98 patients (51.6% [95% CI: 44.2, 58.9]) were in MMR at 48 weeks.
 
-Eighty-eight patients (46.3%) discontinued the TFR phase due to loss of MMR, and 1 (0.5%),
-1 (0.5%), and 3 patients (1.6%) due to death from unknown cause, physician decision and subject decision, respectively.
-Among these 88 patients, 86 patients restarted nilotinib treatment and 2 patients permanently discontinued the study.
-Eighty-five of these 86 patients (98.8%) regained MMR, (one patient discontinued study permanently due to subject decision) and 76 patients (88.4%) regained MR4.5 by the time of the cut-off date.
+Table 13 Treatment-free remission after nilotinib first-line treatment
 
-The Kaplan-Meier (KM) estimated median time on nilotinib treatment to regain MMR and MR4.5 was 7.9 weeks (95% CI: 5.1, 8.0) and 13.1 weeks (95% CI: 12.3, 15.7), respectively.
-The KM estimated MMR and MR4.5 rates at 24 weeks of re-initiation were 98.8 % (95% CI: 94.2, 99.9) and 90.9 % (95% CI: 83.2, 96.0), respectively.
+| Patients entered TFR phase | 190 |  |
+| --- | --- | --- |
+| weeks after starting TFR phase | 48 weeks | 264 weeks |
+| patients remaining in MMR or better | 98 (51.6%, [95% CI: 44.2, 58.9]) | 79[2] (41.6%, 95% CI: 34.5, 48.9) |
+| Patients discontinued TFR phase | 93 [1] | 109 |
+| due to loss of MMR | 88 (46.3%) | 94 (49.5%) |
+| due to other reasons | 5 | 15 |
+| Patients restarted treatment after loss of MMR | 86 | 91 |
+| regaining MMR | 85 (98.8%) | 90 (98.9%) |
+| regaining MR4.5 | 76 (88.4%) | 84 (92,3%) |
 
-The KM estimate of median treatment-free survival (TFS) has not yet been reached (Figure 4); 99 of 190 patients (52.1%) did not have a TFS event.
+[1] One patient did not lose MMR by week 48 but discontinued TFR phase.
+[2] For 2 patients, PCR assessment was not available at week 264 therefore their response was not considered for the week 264 data cut-off analysis.
+
+The time by which 50% of all retreated patients regained MMR and MR4.5 was 7 and 12.9 weeks, respectively.
+The cumulative rate of MMR regained at 24 weeks after treatment re-initiation was 97.8% (89/91 patients) and MR4.5 regained at 48 weeks was 91.2% (83/91 patients).
+
+The Kaplan-Meier estimate of median treatment-free survival (TFS) was 120.1 weeks (95% CI: 36.9, not estimable [NE]) (Figure 4); 91 of 190 patients (47.9%) did not have a TFS event.
 Figure 4 Kaplan-Meier estimate of treatment-free survival after start of TFR (full analysis set)
 
 100
 90
-80
-70
 
+80
+
+70
 60
 50
+
 40
 
 30
 
-20
-Pat Evt Cen
-190 91 99
-10
-Censored observations
+20 Pat Evt Cen
+190 99 91
+10 Censored observations
 0
 
-0 12 24 36 48 60 72 84 96
-At risk: Events Time since TFR (weeks)
-190:0 165:25 120:70 108:81 90:89 38:91 12:91 1:91 0:91
+0 24 48 72 96 120 144 168 192 216 240 264 288 312
+
+Time since TFR (weeks)
+At risk : Events
+190:0 120:70 99:89 95:91 93:93 92:94 89:97 88:97 85:97 85:97 82:98 67:98 10:99 0:99
 
 Treatment discontinuation in adult CML patients in chronic phase who have achieved a sustained deep molecular response on nilotinib treatment following prior imatinib therapy
 In an open-label, single-arm study, 163 adult patients with Ph+ CML in chronic phase taking tyrosine kinase inhibitors (TKIs) for ≥3 years (imatinib as initial TKI therapy for more than 4 weeks without documented MR4.5 on imatinib at the time of switch to nilotinib, then switched to nilotinib for at least two years), and who achieved MR4.5 on nilotinib treatment as measured with the MolecularMD MRDx BCR-ABL test were enrolled to continue nilotinib treatment for additional 52 weeks (nilotinib consolidation phase).
@@ -338,63 +352,78 @@ In an open-label, single-arm study, 163 adult patients with Ph+ CML in chronic p
 - The 4 last quarterly assessments (taken every 12 weeks) showed no confirmed loss of MR4.5 (BCR-ABL/ABL ≤0.0032% IS) during one year.
 
 The primary endpoint was the proportion of patients without confirmed loss of MR4.0 or loss of MMR within 48 weeks following treatment discontinuation.
-Of the 126 patients who entered the TFR phase, 73 patients (57.9%, [95% CI: 48.8, 66.7]) had no loss of MMR, no confirmed loss of MR4.0, and no re-initiation of nilotinib within 48 weeks.
+Table 14 Treatment-free remission after nilotinib treatment following prior imatinib therapy
 
-Among the 53 patients who discontinued the TFR phase due to confirmed loss of MR4.0 or loss of MMR, 51 patients restarted nilotinib and 2 patients discontinued the study.
-Forty-eight of these 51 patients (94.1%) regained MR4.0 and 47 patients (92.2%) regained MR4.5 by the time of the cut-off date.
+| Patients entered TFR phase | 126 |  |
+| --- | --- | --- |
+| weeks after starting TFR phase | 48 weeks | 264 weeks |
+| patients remaining in MMR, no confirmed loss of MR4.0, and no re-initiation of nilotinib | 73 (57.9%, [95% CI: 48.8, 66.7]) | 54 (42.9% [54/126, 95% CI: 34.1, 52.0]) |
+| Patients discontinued TFR Phase | 53 | 74 [1] |
+| due to confirmed loss of MR4.0 or loss of MMR | 53 (42.1%) | 61 (82.4%) |
+| due to other reasons | 0 | 13 |
+| Patients restarted treatment after loss of MMR or confirmed loss of MR4.0 | 51 | 59 |
+| regaining MR4.0 | 48 (94.1%) | 56 (94.9%) |
+| regaining MR4.5 | 47 (92.2%) | 54 (91.5%) |
 
-The Kaplan-Meier (KM) estimated median time on nilotinib to regain MR4.0 and MR4.5 was 12.0 weeks (95% CI: 8.3, 12.7) and 13.1 weeks (95% CI: 12.4, 16.1), respectively.
-The KM estimated MR4.0 and MR4.5 rates at 48 weeks of re-initiation were 100.0% (95% CI: not estimated) and 94.8% (95% CI: 85.1, 99.0), respectively.
+[1] two patients had MMR (PCR assessment) at 264 weeks but were discontinued later and had no further PCR assessment.
 
-The median TFS has not yet been reached (Figure 5); 74 of 126 patients (58.7%) did not have a TFS event.
+The Kaplan-Meier estimated median time on nilotinib to regain MR4.0 and MR4.5 was 11.1 weeks (95% CI:8.1, 12.1) and 13.1 weeks (95% CI:12.0, 15.9), respectively.
+The cumulative rate of MR4 and MR4.5 regained by 48 weeks after treatment re-initiation was 94.9% (56/59 patients) and 91.5% (54/59 patients), respectively.
+
+The median TFS Kaplan-Meier estimate is 224 weeks (95% CI: 39.9, NE) (Figure 5); 63 of 126 patients (50.0%) did not have a TFS event.
 
 Figure 5 Kaplan-Meier estimate of treatment-free survival after start of TFR (full analysis set)
 
 100
 90
 80
+
 70
+
 60
+
 50
 40
+
 30
 
 20 Pat Evt Cen
-126 52 74
+126 63 63
 10 Censored observations
 
 0
 
-0 12 24 36 48 60 72 84 96
-At risk: Events Time since TFR (weeks)
-126:0 107:19 76:49 74:51 61:52 36:52 14:52 1:52 0:52
+0 24 48 72 96 120 144 168 192 216 240 264 288 312
+
+Time since TFR (weeks)
+At risk : Events
+
+126:0 107:19 76:49 74:51 61:52 36:52 14:52 1:52 0:52 74:51 61:52 36:52 14:52 1:52
 
 Paediatric population
 
-The safety and efficacy of nilotinib in paediatric patients with Ph+ CML in chronic phase have been investigated in two studies.
-A total of 69 paediatric patients (from 2 to <18 years of age) with either newly diagnosed Ph+ CML in chronic phase (n=25) or imatinib/dasatinib resistant or imatinib-intolerant Ph+ CML in chronic phase (n=44) received nilotinib treatment at a dose of 230 mg/m2 twice daily, rounded to the nearest 50 mg dose (to a maximum single dose of 400 mg).
+In the main paediatric study conducted with nilotinib, a total of 58 patients from 2 to <18 years of age (25 patients newly diagnosed Ph+ CML in chronic phase and 33 patients imatinib/dasatinib-resistant or imatinib-intolerant Ph+ CML in chronic phase) received nilotinib treatment at a dose of 230 mg/m2 twice daily, rounded to the nearest 50 mg dose (to a maximum single dose of 400 mg).
+Key study data are summarised in Table 15.
+Table 15 Summary data for the main paediatric study conducted with nilotinib
 
-In the pooled CML patient population, the median actual dose intensity was 435.5 mg/m2/day (range: 149 to 517 mg/m2/day), and the median relative dose intensity was 94.7% (range: 32 to 112%).
-Forty patients (58.0%) had relative dose intensity superior to 90%.
-The median time on treatment with nilotinib was 13.80 months (range: 0.7-30.9 months).
+|  | Newly diagnosed Ph+ CML-CP (n=25) | resistant or intolerant Ph+ CML-CP (n=33) |
+| --- | --- | --- |
+| Median time on treatment in month, (range) | 51.9 (1.4 - 61.2) | 60.5 (0.7 - 63.5) |
+| Median (range) actual dose intensity (mg/m2/day) | 377.0 (149 - 468) | 436.9 (196 - 493) |
+| Relative dose intensity (%) compared to the planned dose of 230 mg/m2 twice daily Median (range) Number of patients with >90% | 82.0 (32-102) 12 (48.0%) | 95.0 (43-107) 19 (57.6%) |
+| MMR (BCR-ABL/ABL ≤0.1%) IS at 12 cycles, (95% CI) | 60%, (38.7, 78.9) | 48.5%, (30.8, 66.5) |
+| MMR by cycle 12, (95% CI) | 64.0%, (42.5, 82.0) | 57.6%, (39.2, 74.5) |
+| MMR by cycle 66, (95% CI) | 76.0%, (54.9, 90.6) | 60.6%, (42.1, 77.1) |
+| Median time to MMR in month (95% CI) | 5.56 (5.52, 10.84) | 2.79 (0.03, 5.75) |
+| No. of patients (%) achieved MR4.0 (BCR-ABL/ABL ≤0.01% IS) by cycle 66 | 14 (56.0%) | 9 (27.3%) |
+| No. of patients (%) achieved MR4.5 (BCR-ABL/ABL ≤0.0032% IS) by cycle 66 | 11 (44.0%) | 4 (12.1%) |
+| Confirmed loss of MMR among patients who achieved MMR | 3 out of 19 | None out of 20 |
+| Emergent mutation while on treatment | None | None |
+| Disease progression while on treatment | 1 patient temporarily matched the technical definition for progression to AP/BC * | 1 patient progressed to AP/BC after 10.1 months on treatment |
+| Overall survival No. of events Death on treatment Death during survival follow up | 0 3 (12%) Not estimable | 0 1 (3%) Not estimable |
 
-In the resistant or intolerant CML patients, the major molecular response (MMR; BCR-ABL/ABL ≤0.1% IS) rate was 40.9% (95% CI: 26.3, 56.8) at 12 cycles, with 18 patients being in MMR.
-In the newly diagnosed CML patients, the MMR rate was 60.0% (95% CI: 38.7, 78.9) at 12 cycles, with 15 patients achieving MMR.
-In resistant or intolerant CML patients, the cumulative MMR rate was 47.7% by cycle 12.
-In newly diagnosed CML patients, the cumulative MMR rate was 64.0% by cycle 12.
-
-Among the 21 resistant or intolerant CML patients who were in MMR at any time on treatment, the median time to first MMR was 2.76 months (95% CI: 0.03, 5.55).
-For the 17 newly diagnosed CML patients who achieved MMR, the median time to first MMR was 5.55 months (95% CI: 5.52, 5.75).
-
-Among resistant or intolerant CML patients, the percentage of patients who achieved BCR-ABL/ABL ≤0.01% IS (MR4.0) by the cut-off date was 11.4%, while 4.5% of the patients achieved BCR-ABL/ABL ≤0.0032% IS (MR4.5).
-Among newly diagnosed patients, the percentage of patients who achieved MR4.0 was 32%, while 28.0% achieved MR4.5.
-
-None of the 21 resistant or intolerant CML patients who were in MMR on treatment had confirmed loss of MMR.
-Among the 17 newly diagnosed CML patients who achieved MMR, one patient had confirmed loss of MMR (the patient lost CHR due to an increase in basophil count, however did not progress to AP/BC).
-
-One resistant or intolerant CML patient progressed to AP/BC after about 10 months on treatment.
-
-No deaths were reported on treatment or after treatment discontinuation in both studies.
+* one patient temporarily matched the technical definition for progression to AP/BC (due to increased basophil cell count), one month after the start of nilotinib (with temporary treatment interruption of 13 days during first cycle).
+The patient remained in the study, went back to CP and was in CHR and CCyR by 6 cycles of nilotinib treatment.
 
 [Tasigna 150 mg hard capsules]
 
@@ -423,14 +452,21 @@ MMR at 72 months5
 
 A total of 305 (36.1%) of all patients were not evaluable for MMR at 48 months (98 in the nilotinib 300 mg twice daily group, 88 in the nilotinib 400 mg twice daily group and 119 in the imatinib group) due to missing/unevaluable PCR assessments (n=18), atypical transcripts at baseline (n=8), or discontinuation prior to the 48-month time point (n=279).
 
+70 66%; P < .0001 67%; P < .0001
+
 No new events of progressions to AP/BC were reported on-treatment since the 2-year analysis.
 
 A total of 55 patients died during treatment or during the follow-up after discontinuation of treatment.
 (21 in the nilotinib 300 mg twice daily group, 11 in the nilotinib 400 mg twice daily group and 23 in the imatinib 400 mg once daily group).
 
-The KM estimated MMR and MR4.5 rates at 24 weeks of re-initiation were 98.8% (95% CI: 94.2, 99.9) and 90.9% (95% CI: 83.2, 96.0), respectively.
+Table 10 Treatment-free remission after nilotinib first-line treatment
 
-At risk : Events Time since TFR (weeks)
+[2] For 2 patients PCR assessment was not available at week 264 therefore their response was not considered for the week 264 data cut-off date analysis.
 
-None of the 21 resistant or intolerant CML patients who were in MMR on treatment, had confirmed loss of MMR.
-Among the 17 newly diagnosed CML patients who achieved MMR, one patient had confirmed loss of MMR (the patient lost CHR due to an increase in basophil count, however, did not progress to AP/BC).
+The cumulative rate of MMR regained at 24 weeks since treatment re-initiation was 97.8% (89/91 patients) and MR4.5 regained at 48 weeks was 91.2% (83/91 patients).
+
+190:0 120:70 99:89 95:91 93:93 92:94 89:97 88:97 85:97 85:97 82:98 67:98 10:99 0:99 Paediatric population
+
+Key study data are summarised in Table 11.
+
+Table 11 Summary data for the main paediatric study conducted with nilotinib

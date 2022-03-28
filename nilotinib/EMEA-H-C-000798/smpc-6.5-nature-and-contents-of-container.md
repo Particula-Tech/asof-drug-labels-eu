@@ -17,9 +17,4 @@ PVC/PVDC/Alu blisters
 - Multipacks containing 112 (4 wallets of 28) hard capsules.
 - Multipacks containing 112 (4 packs of 28) hard capsules, 120 (3 packs of 40) hard capsules or 392 (14 packs of 28) hard capsules.
 
-PA/Alu/PVC/Alu blisters
-
-- Unit packs containing 28 hard capsules in a wallet.
-- Multipacks containing 112 (4 packs of 28) hard capsules.
-
 Not all pack sizes may be marketed.
