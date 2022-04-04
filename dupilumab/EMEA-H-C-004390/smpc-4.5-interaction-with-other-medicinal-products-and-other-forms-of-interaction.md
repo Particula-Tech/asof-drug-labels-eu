@@ -8,8 +8,16 @@ No adverse interactions between either of the non-live vaccines and dupilumab we
 Therefore, patients receiving dupilumab may receive concurrent inactivated or non-live vaccinations.
 For information on live vaccines see section 4.4.
 
-In a clinical study of AD patients, the effects of dupilumab on the pharmacokinetics (PK) of CYP substrates were evaluated.
+In a clinical study of atopic dermatitis patients, the effects of dupilumab on the pharmacokinetics (PK) of CYP substrates were evaluated.
 The data gathered from this study did not indicate clinically relevant effects of dupilumab on CYP1A2, CYP3A, CYP2C19, CYP2D6, or CYP2C9 activity.
 
 An effect of dupilumab on the PK of co-administered medications is not expected.
 Based on the population analysis, commonly co-administered medications had no effect on dupilumab pharmacokinetics on patients with moderate to severe asthma.
+
+[Dupixent 200 mg solution for injection in pre-filled syringe]
+
+(all sentences already above)
+
+[Dupixent 100 mg solution for injection in pre-filled syringe]
+
+In a clinical study of atopic dermatitis (AD) patients, the effects of dupilumab on the pharmacokinetics (PK) of CYP substrates were evaluated.

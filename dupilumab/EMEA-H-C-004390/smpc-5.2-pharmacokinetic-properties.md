@@ -8,7 +8,8 @@ After a single subcutaneous (SC) dose of 75-600 mg dupilumab to adults, median t
 The absolute bioavailability of dupilumab following a SC dose is similar between AD, asthma, and CRSwNP patients, ranging between 61 % and 64 %, as determined by a population pharmacokinetics (PK) analysis.
 
 Steady-state concentrations were achieved by week 16 following the administration of 600 mg starting dose and 300 mg dose every other week or 300 mg dose every other week without a loading dose.
-Across clinical trials, the mean ±SD steady-state trough concentrations ranged from 69.2±36.9 mcg/ml to 80.2±35.3 mcg/ml for 300 mg dose and from 29.2±18.7 to 36.5±22.2 mcg/ml for 200 mg dose administered every other week to adults.
+Across clinical trials, the mean ±SD steady-state trough concentrations ranged from
+69.2±36.9 mcg/mL to 80.2±35.3 mcg/mL for 300 mg dose and from 29.2±18.7 to 36.5±22.2 mcg/mL for 200 mg dose administered every other week to adults.
 
 Distribution
 
@@ -18,7 +19,6 @@ Biotransformation
 
 Specific metabolism studies were not conducted because dupilumab is a protein.
 Dupilumab is expected to degrade to small peptides and individual amino acids.
-
 Elimination
 
 Dupilumab elimination is mediated by parallel linear and nonlinear pathways.
@@ -58,25 +58,42 @@ Dupilumab, as a monoclonal antibody, is not expected to undergo significant rena
 No clinical studies have been conducted to evaluate the effect of renal impairment on the pharmacokinetics of dupilumab.
 Population PK analysis did not identify mild or moderate renal impairment as having a clinically meaningful influence on the systemic exposure of dupilumab.
 Very limited data are available in patients with severe renal impairment.
-
-Body Weight
+Body weight
 Dupilumab trough concentrations were lower in subjects with higher body weight with no meaningful impact on efficacy.
 There were only 6 patients exposed to dupilumab with body weight ≥130 kg in CRSwNP clinical studies.
+
 Paediatric population
 
 Atopic dermatitis
 The pharmacokinetics of dupilumab in paediatric patients (< 6 years of age) or body weight < 15 kg with atopic dermatitis has not been studied.
 
-For adolescents 12 to 17 years of age with atopic dermatitis receiving every other week dosing (Q2W) with either 200 mg (< 60 kg) or 300 mg (≥ 60 kg), the mean ±SD steady state trough concentration of dupilumab was 54.5±27.0 mcg/ml.
+For adolescents 12 to 17 years of age with atopic dermatitis receiving every other week dosing (Q2W) with either 200 mg (< 60 kg) or 300 mg (≥ 60 kg), the mean ±SD steady state trough concentration of dupilumab was 54.5±27.0 mcg/mL.
 
-For children 6 to 11 years of age with atopic dermatitis receiving every four week dosing (Q4W) with 300 mg (≥ 15 kg) in AD-1652, the mean ± SD steady-state trough concentration was 76.3±37.2 mcg/ml.
-At week 16 in AD-1434 in children 6 to 11 years of age who initiated every four week dosing (Q4W) with 300 mg (≥ 15 kg), and whose dose was increased to every other week dosing (Q2W) with 200 mg (≥ 15 to < 60 kg) or 300 mg (≥ 60 kg), the mean±SD steady-state trough concentration was 108±53.8 mcg/ml.
-For children 6 to 11 years of age receiving 300 mg Q4W, initial doses of 300 mg on Days 1 and 15 produce similar steady-state exposure as an initial dose of 600 mg on Day 1, based on PK simulations
+For children 6 to 11 years of age with atopic dermatitis receiving every four week dosing (Q4W) with 300 mg (≥ 15 kg) in AD-1652, the mean ± SD steady-state trough concentration was 76.3±37.2 mcg/mL.
+At week 16 in AD-1434 in children 6 to 11 years of age who initiated every four week dosing (Q4W) with 300 mg (≥ 15 kg), and whose dose was increased to every other week dosing (Q2W) with 200 mg (≥ 15 to < 60 kg) or 300 mg (≥ 60 kg), the mean±SD steady-state trough concentration was 108±53.8 mcg/mL.
+For children 6 to 11 years of age receiving 300 mg Q4W, initial doses of 300 mg on Days 1 and 15 produce similar steady-state exposure as an initial dose of 600 mg on Day 1, based on PK simulations.
 
 Asthma
+The pharmacokinetics of dupilumab in paediatric patients (< 6 years of age) with asthma has not been studied.
+
 A total of 107 adolescents aged 12 to 17 years with asthma were enrolled in QUEST study.
-The mean ±SD steady-state trough concentrations of dupilumab were 107±51.6 mcg/ml and 46.7±26.9 mcg/ml, respectively, for 300 mg or 200 mg administered every other week.
+The mean ±SD steady-state trough concentrations of dupilumab were 107±51.6 mcg/mL and 46.7±26.9 mcg/mL, respectively, for 300 mg or 200 mg administered every other week.
 No age-related pharmacokinetic difference was observed in adolescent patients after correction for body weight.
+
+In the VOYAGE study, dupilumab pharmacokinetics was investigated in 270 patients with moderate-to-severe asthma following subcutaneous administration of either 100 mg Q2W (for 91 children weighing < 30 kg) or 200 mg Q2W (for 179 children weighing ≥ 30 kg).
+The volume of distribution for dupilumab of approximately 3.7 L was estimated by population PK analysis.
+Steady-state
+
+concentrations were achieved by week 12. The mean ± SD steady-state trough concentration was
+58.4±28.0 mcg/mL and 85.1±44.9 mcg/mL, respectively. Simulation of a 300 mg Q4W subcutaneous
+dose in children aged 6 to 11 years with body weight of ≥ 15 kg to < 30 kg and ≥ 30 kg to < 60 kg
+resulted in predicted steady-state trough concentrations similar to the observed trough concentrations
+of 200 mg Q2W (≥ 30 kg) and 100 mg Q2W (< 30 kg), respectively. In addition, simulation of a 300
+mg Q4W subcutaneous dose in children aged 6 to 11 years with body weight of ≥ 15 kg to < 60 kg
+resulted in predicted steady-state trough concentrations similar to those demonstrated to be efficacious
+in adults and adolescents. After the last steady state dose, the median time for dupilumab
+
+concentrations to decrease below the lower limit of detection, estimated by population PK analysis, was 14 to 18 weeks for 100 mg Q2W, 200 mg Q2W or 300 mg Q4W.
 
 CRSwNP
 CRSwNP does not normally occur in children.
@@ -89,6 +106,10 @@ The pharmacokinetics of dupilumab is similar in patients with atopic dermatitis 
 The absolute bioavailability of dupilumab following a SC dose is similar between AD and asthma patients, ranging between 61 % and 64 %, as determined by a population pharmacokinetics (PK) analysis.
 
 Steady-state concentrations were achieved by week 16 following the administration of 600 mg starting dose and 300 mg dose every other week.
-Across clinical trials, the mean ±SD steady-state trough concentrations ranged from 60.3±35.1 mcg/ml to 79.9±41.4 mcg/ml for 300 mg dose and from 29.2±18.7 to 36.5±22.2 mcg/ml for 200 mg dose administered every other week to adults.
+Across clinical trials, the mean ±SD steady-state trough concentrations ranged from 69.2±36.9 mcg/mL to 80.2±35.3 mcg/mL for 300 mg dose and from 29.2±18.7 to 36.5±22.2 mcg/mL for 200 mg dose administered every other week to adults.
 
-For adolescents 12 to 17 years of age with atopic dermatitis receiving every other week dosing (Q2W) with either 200 mg (<60 kg) or 300 mg (≥60 kg), the mean ±SD steady state trough concentration of dupilumab was 54.5±27.0 mcg/ml.
+For adolescents 12 to 17 years of age with atopic dermatitis receiving every other week dosing (Q2W) with either 200 mg (<60 kg) or 300 mg (≥60 kg), the mean ±SD steady state trough concentration of dupilumab was 54.5±27.0 mcg/mL.
+
+[Dupixent 100 mg solution for injection in pre-filled syringe]
+
+(all sentences already above)

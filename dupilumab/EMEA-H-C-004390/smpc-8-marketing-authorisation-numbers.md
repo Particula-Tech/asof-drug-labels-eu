@@ -23,3 +23,8 @@ EU/1/17/1229/013
 EU/1/17/1229/014
 EU/1/17/1229/015
 EU/1/17/1229/016
+
+[Dupixent 100 mg solution for injection in pre-filled syringe]
+
+EU/1/17/1229/021
+EU/1/17/1229/022
