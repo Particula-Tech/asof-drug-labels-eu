@@ -3,7 +3,7 @@
 Posology
 
 For the different dose regimens, Vipidia is available in strengths of 25 mg, 12.5 mg and 6.25 mg film-coated tablets.
-Adults (≥ 18 years old)
+Adults (≥18 years old)
 The recommended dose of alogliptin is one tablet of 25 mg once daily as add-on therapy to metformin, a thiazolidinedione, a sulphonylurea, or insulin or as triple therapy with metformin and a thiazolidinedione or insulin.
 
 When alogliptin is used in combination with metformin and/or a thiazolidinedione, the dose of metformin and/or the thiazolidinedione should be maintained, and Vipidia administered concomitantly.
@@ -14,14 +14,14 @@ Caution should be exercised when alogliptin is used in combination with metformi
 In case of hypoglycaemia, a lower dose of the thiazolidinedione or metformin may be considered.
 
 Special populations
-Elderly (≥ 65 years old)
+Elderly (≥65 years old)
 No dose adjustment is necessary based on age.
 However, dosing of alogliptin should be conservative in patients with advanced age due to the potential for decreased renal function in this population.
 
 Renal impairment
-For patients with mild renal impairment (creatinine clearance (CrCl) > 50 to ≤ 80 mL/min), no dose adjustment of alogliptin is necessary (see section 5.2).
+For patients with mild renal impairment (creatinine clearance (CrCl) > 50 to ≤80 mL/min), no dose adjustment of alogliptin is necessary (see section 5.2).
 
-For patients with moderate renal impairment (CrCl ≥ 30 to ≤ 50 mL/min), one-half of the recommended dose of alogliptin should be administered (12.5 mg once daily; see section 5.2).
+For patients with moderate renal impairment (CrCl ≥30 to ≤50 mL/min), one-half of the recommended dose of alogliptin should be administered (12.5 mg once daily; see section 5.2).
 
 For patients with severe renal impairment (CrCl < 30 mL/min) or end-stage renal disease requiring dialysis, one-quarter of the recommended dose of alogliptin should be administered (6.25 mg once daily).
 Alogliptin may be administered without regard to the timing of dialysis.

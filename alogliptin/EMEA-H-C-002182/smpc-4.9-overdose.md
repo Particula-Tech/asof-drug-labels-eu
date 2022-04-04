@@ -1,6 +1,7 @@
 # 4.9 Overdose
 
 The highest doses of alogliptin administered in clinical studies were single doses of 800 mg to healthy subjects and doses of 400 mg once daily for 14 days to patients with type 2 diabetes mellitus (equivalent to 32 times and 16 times the recommended daily dose of 25 mg alogliptin, respectively).
+
 Management
 
 In the event of an overdose, appropriate supportive measures should be employed as dictated by the patient’s clinical status.

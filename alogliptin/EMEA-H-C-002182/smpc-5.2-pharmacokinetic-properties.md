@@ -54,7 +54,7 @@ This indicates no time-dependency in the kinetics of alogliptin after multiple d
 Special populations
 
 Renal impairment
-A single-dose of 50 mg alogliptin was administered to 4 groups of patients with varying degrees of renal impairment (CrCl using the Cockcroft-Gault formula): mild (CrCl = > 50 to ≤ 80 mL/min), moderate (CrCl = ≥ 30 to ≤ 50 mL/min), severe (CrCl = < 30 mL/min) and end-stage renal disease on haemodialysis.
+A single-dose of 50 mg alogliptin was administered to 4 groups of patients with varying degrees of renal impairment (CrCl using the Cockcroft-Gault formula): mild (CrCl = > 50 to ≤80 mL/min), moderate (CrCl = ≥30 to ≤50 mL/min), severe (CrCl = < 30 mL/min) and end-stage renal disease on haemodialysis.
 
 An approximate 1.7-fold increase in AUC for alogliptin was observed in patients with mild renal impairment.
 However, as the distribution of AUC values for alogliptin in these patients was within the same range as control subjects, no dose adjustment for patients with mild renal impairment is necessary (see section 4.2).

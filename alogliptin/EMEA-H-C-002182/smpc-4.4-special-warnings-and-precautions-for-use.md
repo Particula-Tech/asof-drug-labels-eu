@@ -54,3 +54,7 @@ Bullous Pemphigoid
 
 There have been post-marketing reports of bullous pemphigoid in patients taking DPP-4 inhibitors including alogliptin.
 If bullous pemphigoid is suspected, alogliptin should be discontinued.
+
+Vipidia contains sodium
+
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
