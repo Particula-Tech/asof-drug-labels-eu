@@ -50,7 +50,13 @@ In the DRIVE-SHIFT clinical trial, no subjects developed genotypic or phenotypic
 One subject developed RT M184M/I mutation and phenotypic resistance to 3TC and FTC during treatment with their baseline regimen.
 None of the 24 subjects (11 in the immediate switch group, 13 in the delayed switch group) with baseline NNRTI mutations (RT K103N, G190A, or Y181C) experienced virologic failure through Week 48, or at time of discontinuation.
 
+Paediatric subjects
+In the IMPAACT 2014 (Protocol 027) clinical trial, no subject who was virologically suppressed at baseline met the criteria for resistance analysis.
+One treatment-naïve subject who met the protocol-defined virologic failure criteria (defined as 2 consecutive plasma HIV-1 RNA test results
+≥200 copies/mL) at or after Week 24 was evaluated for the development of resistance; no emergence of genotypic or phenotypic resistance to doravirine was detected.
+
 Cross-resistance
+
 Doravirine has been evaluated in a limited number of patients with NNRTI resistance (K103N n=7, G190A n=1); all patients were suppressed to < 40 copies/mL at week 48.
 A breakpoint for a reduction in susceptibility, yielded by various NNRTI substitutions, that is associated with a reduction in clinical efficacy has not been established.
 
@@ -62,8 +68,8 @@ Clinical isolates containing the Y188L substitution or V106 substitutions in com
 Other established NNRTI substitutions yielded a fold change of 5-10 (G190S (5.7), K103N/P225H (7.9), V108I/Y181C (6.9), Y181V (5.1)).
 The clinical relevance of a 5-10 fold reduction in susceptibility is unknown.
 
-Treatment emergent doravirine resistance associated substitutions may confer cross resistance to efavirenz, rilpivirine, nevirapine, and etravirine.
-Of the 7 subjects who developed high level doravirine resistance in the pivotal studies, 6 had phenotypic resistance to EFV and nevirapine, 3 to rilpivirine, and 2 had partial resistance to etravirine based on the Monogram Phenosense assay.
+Treatment emergent doravirine resistance associated substitutions may confer cross-resistance to efavirenz, rilpivirine, nevirapine, and etravirine.
+Of the 8 subjects who developed high level doravirine resistance in the pivotal studies, 6 had phenotypic resistance to EFV and nevirapine, 3 to rilpivirine, and 3 had partial resistance to etravirine based on the Monogram Phenosense assay.
 
 Clinical experience
 
@@ -74,7 +80,7 @@ Refer to Resistance section for NNRTI substitutions that were part of exclusion 
 In DRIVE-FORWARD, 766 subjects were randomised and received at least 1 dose of either doravirine 100 mg or darunavir + ritonavir 800+100 mg once daily, each in combination with emtricitabine/tenofovir disoproxil (FTC/TDF) or abacavir/lamivudine (ABC/3TC) selected by the investigator.
 At baseline, the median age of subjects was 33 years (range 18 to 69 years), 86 % had CD4+ T cell count greater than 200 cells per mm3, 84 % were male, 27 % were non-white, 4 % had hepatitis B and/or C virus co-infection, 10 % had a history of AIDS, 20 % had HIV-1 RNA greater than 100,000 copies per mL, 13 % received ABC/3TC and 87 % received FTC/TDF; these characteristics were similar between treatment groups.
 
-In DRIVE-AHEAD, 728 subjects were randomized and received at least 1 dose of either doravirine/lamivudine/tenofovir disoproxil 100/300/245 mg (DOR/3TC/TDF) or efavirenz/emtricitabine/tenofovir disoproxil (EFV/FTC/TDF) once daily.
+In DRIVE-AHEAD, 728 subjects were randomised and received at least 1 dose of either doravirine/lamivudine/tenofovir disoproxil 100/300/245 mg (DOR/3TC/TDF) or efavirenz/emtricitabine/tenofovir disoproxil (EFV/FTC/TDF) once daily.
 At baseline, the median age of subjects was 31 years (range 18-70 years), 85 % were male, 52 % were non-white, 3% had hepatitis B or C co-infection, 14 % had a history of AIDS, 21 % had HIV-1 RNA > 100,000 copies per mL, and 12 % had CD4+ T cell count < 200 cells per mm3; these characteristics were similar between treatment groups.
 
 Week 48 and 96 outcomes for DRIVE-FORWARD and DRIVE-AHEAD are provided in Table 4.
@@ -90,10 +96,10 @@ Table 4: Efficacy response (< 40 copies/mL, Snapshot approach) in the pivotal st
 | Difference (95 % CI) | 7.6 % (1.0 %, 14.2 %) |  | 3.3 % (-3.1 %, 9.6 %) |  |
 | Week 48 outcome (< 40 copies/mL) by baseline factors |  |  |  |  |
 | HIV-1 RNA copies/mL |  |  |  |  |
-| ≤100,000 | 256/285 (90 %) | 248/282 (88 %) | 251/277 (91 %) | 234/258 (91 %) |
+| ≤ 100,000 | 256/285 (90 %) | 248/282 (88 %) | 251/277 (91 %) | 234/258 (91 %) |
 | > 100,000 | 63/79 (80 %) | 54/72 (75 %) | 54/69 (78 %) | 56/73 (77 %) |
 | CD4 count, cells/µL |  |  |  |  |
-| ≤200 | 34/41 (83 %) | 43/61 (70 %) | 27/42 (64 %) | 35/43 (81 %) |
+| ≤ 200 | 34/41 (83 %) | 43/61 (70 %) | 27/42 (64 %) | 35/43 (81 %) |
 | > 200 | 285/323 (88 %) | 260/294 (88 %) | 278/304 (91 %) | 255/288 (89 %) |
 | NRTI background therapy |  |  |  |  |
 | TDF/FTC | 276/316 (87 %) | 267/312 (86 %) | NA |  |
@@ -107,9 +113,9 @@ Table 4: Efficacy response (< 40 copies/mL, Snapshot approach) in the pivotal st
 
 *For Week 96, certain subjects with missing HIV-1 RNA were excluded from the analysis.
 P007 was a Phase 2b trial in antiretroviral treatment-naïve HIV-1 infected adult subjects (n = 340).
-In Part I, subjects were randomized to receive one of 4 doses of doravirine or EFV, each in combination with FTC/TDF.
-After week 24, all subjects randomized to receive doravirine were switched to (or maintained on) doravirine 100 mg.
-Additional subjects were randomized in Part II to receive either doravirine 100 mg or EFV, each in combination with FTC/TDF.
+In Part I, subjects were randomised to receive one of 4 doses of doravirine or EFV, each in combination with FTC/TDF.
+After week 24, all subjects randomised to receive doravirine were switched to (or maintained on) doravirine 100 mg.
+Additional subjects were randomised in Part II to receive either doravirine 100 mg or EFV, each in combination with FTC/TDF.
 In both parts of the trial, doravirine and EFV were administered as blinded-therapy and FTC/TDF was administered open-label.
 Table 5: Efficacy response at week 24 (Snapshot approach)
 
@@ -119,12 +125,12 @@ Table 5: Efficacy response at week 24 (Snapshot approach)
 | HIV-1 RNA < 40 copies/mL | 32 (80) | 32 (74) | 30 (71) | 33 (80) | 27 (64) |
 | Treatment differences † (95 % CI) †† | 16 (-4, 34) | 10 (-10, 29) | 6.6 (-13, 26) | 16 (-3, 34) |  |
 | Mean CD4 change from baseline (cells/mm3) ** | 154 | 113 | 134 | 141 | 121 |
-| †A positive value favours doravirine over efavirenz. ††The 95 % CIs were calculated using Miettinen and Nurminen’s method with weights proportional to the size of each stratum (screening HBV-1 RNA > 100,000 copies/mL or ≤100,000 copies/mL. **Approach to handle missing data: Observed Failure (OF) approach. Baseline CD4 cell count was carried forward for subjects who discontinued assigned therapy due to lack of efficacy. Note: Both doravirine and efavirenz were administered with emtricitabine/tenofovir disoproxil (FTC/TDF). |  |  |  |  |  |
+| †A positive value favours doravirine over efavirenz. ††The 95 % CIs were calculated using Miettinen and Nurminen’s method with weights proportional to the size of each stratum (screening HBV-1 RNA > 100,000 copies/mL or ≤ 100,000 copies/mL. **Approach to handle missing data: Observed Failure (OF) approach. Baseline CD4 cell count was carried forward for subjects who discontinued assigned therapy due to lack of efficacy. Note: Both doravirine and efavirenz were administered with emtricitabine/tenofovir disoproxil (FTC/TDF). |  |  |  |  |  |
 
 Virologically suppressed adult subjects
-The efficacy of switching from a baseline regimen consisting of two nucleoside reverse transcriptase inhibitors in combination with a ritonavir- or cobicistat-boosted PI, or cobicistat-boosted elvitegravir, or an NNRTI to DOR/3TC/TDF was evaluated in a randomized, open-label trial (DRIVE-SHIFT), in virologically suppressed HIV-1 infected adults.
-Subjects must have been virologically suppressed (HIV-1 RNA < 40 copies/mL) on their baseline regimen for at least 6 months prior to trial entry, with no history of virologic failure, and a documented absence of RT substitutions conferring resistance to doravirine, lamivudine and tenofovir (see section Resistance).
-Subjects were randomized to either switch to DOR/3TC/TDF at baseline [N = 447, Immediate Switch Group (ISG)], or stay on their baseline regimen until Week 24, at which point they switched to DOR/3TC/TDF [N = 223, Delayed Switch Group (DSG)].
+The efficacy of switching from a baseline regimen consisting of two nucleoside reverse transcriptase inhibitors in combination with a ritonavir- or cobicistat-boosted PI, or cobicistat-boosted elvitegravir, or an NNRTI to DOR/3TC/TDF was evaluated in a randomised, open-label trial (DRIVE-SHIFT), in virologically suppressed HIV-1 infected adults.
+Subjects must have been virologically suppressed (HIV-1 RNA < 40 copies/mL) on their baseline regimen for at least 6 months prior to trial entry, with no history of virologic failure, and a documented absence of RT substitutions conferring resistance to doravirine, lamivudine and tenofovir (see section, Resistance).
+Subjects were randomised to either switch to DOR/3TC/TDF at baseline [N = 447, Immediate Switch Group (ISG)], or stay on their baseline regimen until Week 24, at which point they switched to DOR/3TC/TDF [N = 223, Delayed Switch Group (DSG)].
 At baseline, the median age of subjects was 43 years, 16 % were female, and 24 % were non-white.
 
 In the DRIVE-SHIFT trial, an immediate switch to DOR/3TC/TDF was demonstrated to be non-inferior at Week 48 compared to continuation of the baseline regimen at Week 24 as assessed by the proportion of subjects with HIV-1 RNA < 40 copies/mL.
@@ -141,15 +147,22 @@ Table 6: Efficacy response (Snapshot approach) in the DRIVE-SHIFT study
 | Cobicistat-boosted elvitegravir | 23/25 (92 %) | 11/12 (92 %) |
 | NNRTI | 98/106 (92 %) | 52/55 (95 %) |
 | Proportion (%) of Subjects With HIV-1 RNA < 40 copies/mL by Baseline CD4+ T cell Count (cells/mm3) |  |  |
-| < 200 cells/mm3 | 10/13 (77 %) | 3/4 (75 %) |
-| ≥200 cells/mm3 | 384/426 (90 %) | 202/216 (94 %) |
-| HIV-1 RNA ≥40 copies/mL† | 3 % | 4 % |
-| No Virologic Data Within the Time Window Discontinued study due to AE or Death‡ Discontinued study for Other Reasons§ On study but missing data in window | 8 % 3 % 4 % 0 | 3 % 0 3 % 0 |
-| *The 95 % CI for the treatment difference was calculated using stratum-adjusted Mantel-Haenszel method. †Includes subjects who discontinued study drug or study before Week 48 for ISG or before Week 24 for DSG for lack or loss of efficacy and subjects with HIV-1 RNA ≥40 copies/mL in the Week 48 window for ISG and in the Week 24 window for DSG. ‡Includes subjects who discontinued because of adverse event (AE) or death if this resulted in no virologic data on treatment during the specified window. §Other reasons include: lost to follow-up, non-compliance with study drug, physician decision, protocol deviation, withdrawal by subject. Baseline Regimen = ritonavir or cobicistat-boosted PI (specifically atazanavir, darunavir, or lopinavir), or cobicistat-boosted elvitegravir, or NNRTI (specifically efavirenz, nevirapine, or rilpivirine), each administered with two NRTIs. |  |  |
+| < 200 cells/mm3 | 10/13 (77 %) | 3 / 4 ( 7 5 % ) |
+| ≥ 200 cells/mm3 | 384/426 (90 %) | 202/216 (94 %) |
+| HIV-1 RNA ≥ 40 copies/mL† | 3 % | 4 % |
+| No Virologic Data Within the Time Window | 8 % | 3 % |
+| Discontinued study due to AE or Death‡ | 3 % | 0 |
+| Discontinued study for Other Reasons§ | 4 % | 3 % |
+| On study but missing data in window | 0 | 0 |
+| *The 95 % CI for the treatment difference was calculated using stratum-adjusted Mantel-Haenszel method. †Includes subjects who discontinued study drug or study before Week 48 for ISG or before Week 24 for DSG for lack or loss of efficacy and subjects with HIV-1 RNA ≥ 40 copies/mL in the Week 48 window for ISG and in the Week 24 window for DSG. ‡Includes subjects who discontinued because of adverse event (AE) or death if this resulted in no virologic data on treatment during the specified window. §Other reasons include: lost to follow-up, non-compliance with study drug, physician decision, protocol deviation, withdrawal by subject. Baseline Regimen = ritonavir or cobicistat-boosted PI (specifically atazanavir, darunavir, or lopinavir), or cobicistat-boosted elvitegravir, or NNRTI (specifically efavirenz, nevirapine, or rilpivirine), each administered with two NRTIs. |  |  |
 
 Discontinuation due to adverse events
 In a pooled analysis combining data from two treatment-naïve trials (P007 and DRIVE-AHEAD), a lower proportion of subjects who discontinued due to an adverse event by week 48 was seen for the combined doravirine (100 mg) treatment groups (2.8 %) compared with the combined EFV treatment group (6.1 %) (treatment difference -3.4 %, p-value 0.012).
-
 Paediatric population
+The efficacy of doravirine was evaluated in combination with lamivudine and tenofovir disoproxil (DOR/3TC/TDF) in an open-label, single-arm trial in HIV-1 infected paediatric patients 12 to less than 18 years of age (IMPAACT 2014 (Protocol 027)).
+
+At baseline, the median age of subjects was 15 years (range: 12 to 17), 58% were female, 78% were Asian and 22% were Black, and the median CD4+ T-cell count was 713 cells per mm3 (range: 84 to 1,397).
+After switching to DOR/3TC/TDF, 95% (41/43) of virologically suppressed subjects remained suppressed (HIV-1 RNA < 50 copies/mL) at Week 24 and 93% (40/43) remained suppressed (HIV-1 RNA < 50 copies/mL) at Week 48.
+
 The European Medicines Agency has deferred the obligation to submit the results of studies with doravirine in one or more subsets of the paediatric population in treatment of human immunodeficiency virus-1 (HIV-1) infection, as per Paediatric Investigation Plan (PIP) decision in the granted indication.
 See section 4.2 for information on paediatric use.

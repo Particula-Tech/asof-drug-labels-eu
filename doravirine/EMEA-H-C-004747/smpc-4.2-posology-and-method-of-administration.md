@@ -31,8 +31,8 @@ Doravirine has not been studied in patients with severe hepatic impairment (Chil
 Therefore, caution is advised when doravirine is administered to patients with severe hepatic impairment (see section 5.2).
 
 Paediatric population
-Safety and efficacy of doravirine have not been established in patients younger than 18 years of age.
-No data are available.
+Safety and efficacy of Pifeltro in children aged less than 12 years or weighing less than 35 kg have not been established.
 
 Method of administration
+
 Pifeltro must be taken orally, once daily with or without food and swallowed whole (see section 5.2).

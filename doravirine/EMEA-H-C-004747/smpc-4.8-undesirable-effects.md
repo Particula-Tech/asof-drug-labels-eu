@@ -6,7 +6,7 @@ The most frequently reported adverse reactions considered possibly or probably r
 Tabulated summary of adverse reactions
 The adverse reactions with suspected (at least possible) relationship to treatment are listed below by body system organ class and frequency.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-Frequencies are defined as very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100) or rare (≥1/10,000 to < 1/1,000).
+Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100) or rare (≥ 1/10,000 to < 1/1,000).
 
 Table 2: Tabulated summary of adverse reactions associated with doravirine used in combination with other antiretrovirals
 
@@ -54,6 +54,10 @@ Table 2: Tabulated summary of adverse reactions associated with doravirine used 
 Immune reactivation syndrome
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
 Autoimmune disorders (such as Graves’ disease and autoimmune hepatitis) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
+
+Paediatric population
+The safety of doravirine as a component of doravirine/lamivudine/tenofovir disoproxil was evaluated in 45 HIV-1 infected virologically suppressed or treatment-naïve paediatric patients 12 to less than 18 years of age through Week 48 in an open-label trial (IMPAACT 2014 (Protocol 027)).
+The safety profile in paediatric subjects was similar to that in adults.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
