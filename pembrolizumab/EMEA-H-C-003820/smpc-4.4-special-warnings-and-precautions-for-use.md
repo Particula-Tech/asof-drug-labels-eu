@@ -27,12 +27,12 @@ Patients should be monitored for signs and symptoms of pneumonitis.
 Suspected pneumonitis should be confirmed with radiographic imaging and other causes excluded.
 Corticosteroids should be administered for Grade ≥ 2 events (initial dose of 1-2 mg/kg/day prednisone or equivalent followed by a taper); pembrolizumab should be withheld for Grade 2 pneumonitis, and permanently discontinued for
 Grade 3, Grade 4 or recurrent Grade 2 pneumonitis (see section 4.2).
-
 Immune-related colitis
 Colitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of colitis, and other causes excluded.
 Corticosteroids should be administered for Grade ≥ 2 events (initial dose of 1-2 mg/kg/day prednisone or equivalent followed by a taper); pembrolizumab should be withheld for Grade 2 or Grade 3 colitis, and permanently discontinued for Grade 4 or recurrent Grade 3 colitis (see section 4.2).
 The potential risk of gastrointestinal perforation should be taken into consideration.
+
 Immune-related hepatitis
 Hepatitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for changes in liver function (at the start of treatment, periodically during treatment and as indicated based on clinical evaluation) and symptoms of hepatitis, and other causes excluded.
@@ -71,6 +71,7 @@ Thyroid function and hormone levels should be monitored to ensure appropriate ho
 
 For patients with Grade 3 or Grade 4 endocrinopathies that improved to Grade 2 or lower and are controlled with hormone replacement, if indicated, continuation of pembrolizumab may be considered after corticosteroid taper, if needed.
 Otherwise treatment should be discontinued (see sections 4.2 and 4.8).
+
 Immune-related skin adverse reactions
 Immune-related severe skin reactions have been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for suspected severe skin reactions and other causes should be excluded.
@@ -99,7 +100,6 @@ Solid organ transplant rejection
 Solid organ transplant rejection has been reported in the post-marketing setting in patients treated with PD-1 inhibitors.
 Treatment with pembrolizumab may increase the risk of rejection in solid organ transplant recipients.
 The benefit of treatment with pembrolizumab versus the risk of possible organ rejection should be considered in these patients.
-
 Complications of allogeneic Haematopoietic Stem Cell Transplant (HSCT)
 
 Allogeneic HSCT after treatment with pembrolizumab
@@ -142,10 +142,15 @@ A direct comparison of pembrolizumab when used in combination with chemotherapy 
 Physicians should consider the benefit/risk balance of the available treatment options (pembrolizumab monotherapy or pembrolizumab in combination with chemotherapy) before initiating treatment in previously untreated patients with NSCLC whose tumours express PD-L1.
 
 In KEYNOTE-042, a higher number of deaths within 4 months of treatment initiation followed by a long-term survival benefit was observed with pembrolizumab monotherapy compared to chemotherapy (see section 5.1).
+
 Use of pembrolizumab for first-line treatment of patients with HNSCC
 In general, the frequency of adverse reactions for pembrolizumab combination therapy is observed to be higher than for pembrolizumab monotherapy or chemotherapy alone, reflecting the contributions of each of these components (see section 4.8).
 
 Physicians should consider the benefit/risk balance of the available treatment options (pembrolizumab monotherapy or pembrolizumab in combination with chemotherapy) before initiating treatment in patients with HNSCC whose tumours express PD-L1 (see section 5.1).
+
+Use of pembrolizumab for treatment of patients with advanced or recurrent MSI-H or dMMR endometrial carcinoma
+A direct comparison of pembrolizumab when used in combination with lenvatinib to pembrolizumab monotherapy is not available.
+Physicians should consider the benefit/risk balance of the available treatment options (pembrolizumab monotherapy or pembrolizumab in combination with lenvatinib) before initiating treatment in patients with advanced or recurrent MSI-H or dMMR endometrial carcinoma.
 
 Use of pembrolizumab for adjuvant treatment of patients with melanoma
 A trend toward increased frequency of severe and serious adverse reactions in patients ≥ 75 years was observed.
@@ -174,7 +179,3 @@ Patient alert card
 All prescribers of KEYTRUDA must be familiar with the Physician Information and Management Guidelines.
 The prescriber must discuss the risks of KEYTRUDA therapy with the patient.
 The patient will be provided with the patient alert card with each prescription.
-
-[KEYTRUDA 25 mg/mL concentrate for solution for infusion.]
-
-Hypophysitis has also been reported in patients receiving pembrolizumab (ee section 4.8).

@@ -5,8 +5,8 @@ Therapy must be initiated and supervised by specialist physicians experienced in
 PD-L1 testing
 If specified in the indication, patient selection for treatment with KEYTRUDA based on the tumour expression of PD-L1 should be confirmed by a validated test (see sections 4.1, 4.4, 4.8, and 5.1).
 
-MSI-H/dMMR testing for patients with CRC
-For treatment with KEYTRUDA as monotherapy, testing for MSI-H/dMMR tumour status using a validated test is recommended to select patients with CRC (see sections 4.1 and 5.1).
+MSI/MMR testing
+If specified in the indication, patient selection for treatment with KEYTRUDA based on MSI-H/dMMR tumour status should be confirmed by a validated test (see sections 4.1 and 5.1).
 
 Posology
 The recommended dose of KEYTRUDA in adults is either 200 mg every 3 weeks or 400 mg every 6 weeks administered as an intravenous infusion over 30 minutes.
@@ -49,11 +49,15 @@ Table 1: Recommended treatment modifications for KEYTRUDA
 |  | Grade 4 or recurrent Grade 3 | Permanently discontinue |
 | Infusion-related reactions | Grades 3 or 4 | Permanently discontinue |
 
+Immune-related adverse Severity Treatment modification
+reactions
+
 Note: toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0 (NCI-CTCAE v.4).
 
 * If treatment-related toxicity does not resolve to Grades 0-1 within 12 weeks after last dose of KEYTRUDA, or if
 
 corticosteroid dosing cannot be reduced to ≤ 10 mg prednisone or equivalent per day within 12 weeks, KEYTRUDA should be permanently discontinued.
+
 The safety of re-initiating pembrolizumab therapy in patients previously experiencing immune-related myocarditis is not known.
 
 KEYTRUDA, as monotherapy or as combination therapy, should be permanently discontinued for Grade 4 or recurrent Grade 3 immune-related adverse reactions, unless otherwise specified in Table 1.
@@ -94,15 +98,11 @@ KEYTRUDA has not been studied in patients with moderate or severe hepatic impair
 Paediatric population
 The safety and efficacy of KEYTRUDA in children below 18 years of age have not been established except in paediatric patients with cHL.
 Currently available data are described in sections 4.8, 5.1 and 5.2.
-
 Method of administration
 KEYTRUDA is for intravenous use.
 It must be administered by infusion over 30 minutes.
 KEYTRUDA must not be administered as an intravenous push or bolus injection.
 
 When administering KEYTRUDA as part of a combination with intravenous chemotherapy, KEYTRUDA should be administered first.
-For instructions on reconstitution and dilution of the medicinal product before administration, see section 6.6.
-
-[KEYTRUDA 25 mg/mL concentrate for solution for infusion.]
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.
