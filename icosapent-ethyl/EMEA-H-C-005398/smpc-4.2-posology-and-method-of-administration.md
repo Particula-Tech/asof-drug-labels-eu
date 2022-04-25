@@ -15,6 +15,7 @@ No dose reduction is recommended (see also section 5.2).
 
 Hepatic impairment
 No dose reduction is recommended (see also sections 4.4 and 5.2).
+
 Paediatric population
 There is no relevant use of icosapent ethyl in children aged <18 years of age in reducing the risk of cardiovascular events in statin-treated patients at high cardiovascular risk with elevated triglycerides and other risk factors for cardiovascular disease.
 

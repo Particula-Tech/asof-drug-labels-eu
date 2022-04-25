@@ -56,7 +56,7 @@ Table 2 Effect of icosapent ethyl on time to first occurrence of cardiovascular 
 | Other secondary endpoints |  |  |  |
 | Cardiovascular death[1] | 174 (4.3) | 213 (5.2) | 0.80 (0.66, 0.98) |
 | Death by any cause[2] | 274 (6.7) | 310 (7.6) | 0.87 (0.74, 1.02) |
-| Fatal or non-fatal myocardial infarction | 250 (6.1) | 355 (8.7) | 0.69 (0.59, 0.81) |
+| Fatal or non-fatal myocardial infarction | 250 (6.1) | 355 (8.7) | 0.69 (0.58, 0.81) |
 | Fatal or non-fatal stroke | 98 (2.4) | 134 (3.3) | 0.72 (0.55, 0.93) |
 | Emergent or urgent coronary revascularisation | 216 (5.3) | 321 (7.8) | 0.65 (0.55, 0.78) |
 | Coronary revascularisation[3] | 376 (9.2) | 544 (13.3) | 0.66 (0.58, 0.76) |
@@ -64,8 +64,9 @@ Table 2 Effect of icosapent ethyl on time to first occurrence of cardiovascular 
 | [1] Cardiovascular death includes adjudicated cardiovascular deaths and deaths of undetermined causality. [2] Death by any cause, or total mortality, is not a component of either the primary composite endpoint or key secondary composite endpoint. [3] The predefined composite secondary endpoint included emergent or urgent revascularisation (p<0.0001); coronary revascularisations is the composite of all revascularisation and was predefined as a tertiary endpoint. [4] Determined to be caused by myocardial ischemia by invasive/non-invasive testing and requiring emergent hospitalisation. |  |  |  |
 
 Figure 1 Kaplan-Meier estimated incidence of key secondary composite endpoint in REDUCE-IT
+20
 
-20 Hazard Ratio, 0.74
+Hazard Ratio, 0.74
 (95% CI, 0.65–0.83)
 p<0.0001
 
@@ -101,4 +102,4 @@ See section 5.1 mechanism of action for more information.
 
 Paediatric population
 
-The European Medicines Agency has waived the obligation to submit the results of studies with icosapent ethyl in all subsets of the paediatric population for the treatment of hypertriglyceridemia and to reduce the risk cardiovascular events (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with icosapent ethyl in all subsets of the paediatric population for the treatment of hypertriglyceridemia and to reduce the risk of cardiovascular events (see section 4.2 for information on paediatric use).

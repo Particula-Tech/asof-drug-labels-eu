@@ -7,7 +7,7 @@ Tabulated list of adverse reactions
 
 Adverse reactions are classified according to frequency and system organ class.
 Reporting frequencies for adverse reactions have been estimated from a long-term cardiovascular outcomes study in which subjects were observed for a median follow-up duration of 4.9 years.
-Frequency categories are defined according to the following conventions: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000) and very rare (<1/10,000).
+Frequency categories are defined according to the following conventions: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000) and not known (cannot be estimated from the available data).
 
 Table 1 lists adverse reactions
 
@@ -16,6 +16,7 @@ Table 1 Adverse reactions
 | MedDRA Sytem organ class | Adverse reaction | Frequency |
 | --- | --- | --- |
 | Immune system disorders | Hypersensitivity | Uncommon |
+|  | Pharyngeal swelling | Not known |
 | Metabolism and nutrition disorders | Gout | Common |
 | Nervous system disorders | Dysgeusia1 | Uncommon |
 | Cardiac disorders | Atrial fibrillation or flutter2 | Common |
