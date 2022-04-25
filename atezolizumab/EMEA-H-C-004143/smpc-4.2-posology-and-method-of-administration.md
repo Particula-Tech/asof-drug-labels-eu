@@ -17,24 +17,22 @@ Posology
 The recommended dose of Tecentriq is either 840 mg administered intravenously every two weeks, or 1 200 mg administered intravenously every three weeks, or 1 680 mg administered intravenously every four weeks, as presented in Table 1.
 
 When Tecentriq is administered in combination therapy please also refer to the full prescribing information for the combination products (see also section 5.1).
+
 Table 1: Recommended dose for Tecentriq by intravenous administration
 
 | Indication | Recommended dose and schedule | Duration of treatment |
 | --- | --- | --- |
-| Tecentriq Monotherapy |  |  |
-| 1L Urothelial carcinoma (UC) | • 840 mg every 2 weeks or • 1 200 mg every 3 weeks or • 1 680 mg every 4 weeks | Until disease progression or unmanageable toxicity |
-| 1L non-small cell lung cancer (NSCLC) |  |  |
-| 2L UC | • 840 mg every 2 weeks or • 1 200 mg every 3 weeks or • 1 680 mg every 4 weeks | Until loss of clinical benefit or unmanageable toxicity |
-| 2L NSCLC |  |  |
-| Tecentriq Combination therapy |  |  |
+| Tecentriq monotherapy |  |  |
+| 1L UC | • 840 mg every 2 weeks or • 1 200 mg every 3 weeks or • 1 680 mg every 4 weeks | Until disease progression or unmanageable toxicity |
+| 1L NSCLC |  |  |
+| 2L UC | • 840 mg every 2 weeks or | Until loss of clinical benefit or unmanageable toxicity |
+| 2L NSCLC | • 1 200 mg every 3 weeks or • 1 680 mg every 4 weeks |  |
+| Tecentriq combination therapy |  |  |
 | 1L non-squamous NSCLC with bevacizumab, paclitaxel, and carboplatin | Induction and maintenance phases: • 840 mg every 2 weeks or • 1 200 mg every 3 weeks or • 1 680 mg every 4 weeks Tecentriq should be administered first when given on the same day. Induction phase for combination partners (four or six cycles): Bevacizumab, paclitaxel, and then carboplatin are administered every three weeks. Maintenance phase (without chemotherapy): Bevacizumab every 3 weeks. | Until disease progression or unmanageable toxicity. Atypical responses (i.e., an initial disease progression followed by tumour shrinkage) have been observed with continued Tecentriq treatment after disease progression. Treatment beyond disease progression may be considered at the discretion of the physician. |
 | 1L non-squamous NSCLC with nab-paclitaxel and carboplatin | Induction and maintenance phases: • 840 mg every 2 weeks or • 1 200 mg every 3 weeks or • 1 680 mg every 4 weeks Tecentriq should be administered first when given on the same day. Induction phase for combination partners (four or six cycles): Nab-paclitaxel, and carboplatin are administered on day 1; in addition, nab-paclitaxel is administered on days 8 and 15 of each 3-weekly cycle. | Until disease progression or unmanageable toxicity. Atypical responses (i.e., an initial disease progression followed by tumour shrinkage) have been observed with continued Tecentriq treatment after disease progression. Treatment beyond disease progression may be considered at the discretion of the physician. |
-
-| Indication | Recommended dose and schedule | Duration of treatment |
-| --- | --- | --- |
-| 1L extensive-stage small cell lung cancer (ES-SCLC) with carboplatin and etoposide | Induction and maintenance phases: • 840 mg every 2 weeks or • 1 200 mg every 3 weeks or • 1 680 mg every 4 weeks Tecentriq should be administered first when given on the same day. Induction phase for combination partners (four cycles): Carboplatin, and then etoposide are administered on day 1; etoposide is also administered on days 2 and 3 of each 3-weekly cycle. | Until disease progression or unmanageable toxicity. Atypical responses (i.e., an initial disease progression followed by tumour shrinkage) have been observed with continued Tecentriq treatment after disease progression. Treatment beyond disease progression may be considered at the discretion of the physician. |
-| 1L unresectable locally advanced or metastatic triple negative breast cancer (TNBC) with nab-paclitaxel | • 840 mg every 2 weeks or • 1 200 mg every 3 weeks or • 1 680 mg every 4 weeks Tecentriq should be administered prior to nab-paclitaxel when given on the same day. Nab-paclitaxel should be administered at 100 mg/ m2 on days 1, 8, and 15 of each 28-day cycle. | Until disease progression or unmanageable toxicity. |
-| Advanced or unresectable hepatocellular carcinoma (HCC) with bevacizumab | • 840 mg every 2 weeks or • 1 200 mg every 3 weeks or • 1 680 mg every 4 weeks Tecentriq should be administered prior to bevacizumab when given on the same day. Bevacizumab is administered at 15 mg/kg body weight (bw) every 3 weeks. | Until loss of clinical benefit or unmanageable toxicity. |
+| 1L ES-SCLC with carboplatin and etoposide | Induction and maintenance phases: • 840 mg every 2 weeks or • 1 200 mg every 3 weeks or • 1 680 mg every 4 weeks Tecentriq should be administered first when given on the same day. Induction phase for combination partners (four cycles): Carboplatin, and then etoposide are administered on day 1; etoposide is also administered on days 2 and 3 of each 3-weekly cycle. | Until disease progression or unmanageable toxicity. Atypical responses (i.e., an initial disease progression followed by tumour shrinkage) have been observed with continued Tecentriq treatment after disease progression. Treatment beyond disease progression may be considered at the discretion of the physician. |
+| 1L unresectable locally advanced or metastatic TNBC with nab-paclitaxel | • 840 mg every 2 weeks or • 1 200 mg every 3 weeks or • 1 680 mg every 4 weeks Tecentriq should be administered prior to nab-paclitaxel when given on the same day. Nab-paclitaxel should be administered at 100 mg/ m2 on days 1, 8, and 15 of each 28-day cycle. | Until disease progression or unmanageable toxicity. |
+| Advanced or unresectable HCC with bevacizumab | • 840 mg every 2 weeks or • 1 200 mg every 3 weeks or • 1 680 mg every 4 weeks Tecentriq should be administered prior to bevacizumab when given on the same day. Bevacizumab is administered at 15 mg/kg body weight (bw) every 3 weeks. | Until loss of clinical benefit or unmanageable toxicity. |
 
 Delayed or missed doses
 
@@ -44,6 +42,7 @@ The schedule of administration must be adjusted to maintain the appropriate inte
 Dose modifications during treatment
 
 Dose reductions of Tecentriq are not recommended.
+
 Dose delay or discontinuation (see also sections 4.4 and 4.8)
 
 Table 2: Dose modification advice for Tecentriq
@@ -95,6 +94,7 @@ Based on a population pharmacokinetic analysis, no dose adjustment of Tecentriq 
 Asian patients
 
 Due to increased haematologic toxicities observed in Asian patients in IMpower150, it is recommended that the starting dose of paclitaxel should be 175 mg/m2 every three weeks.
+
 Renal impairment
 
 Based on a population pharmacokinetic analysis, no dose adjustment is required in patients with mild or moderate renal impairment (see section 5.2).
@@ -104,7 +104,6 @@ Hepatic impairment
 
 Based on a population pharmacokinetic analysis, no dose adjustment is required for patients with mild or moderate hepatic impairment.
 Tecentriq has not been studied in patients with severe hepatic impairment (see section 5.2).
-
 Eastern Cooperative Oncology Group (ECOG) performance status ≥ 2
 
 Patients with ECOG performance status ≥ 2 were excluded from the clinical trials in NSCLC, TNBC, ES-SCLC, 2nd line UC and HCC (see sections 4.4 and 5.1).

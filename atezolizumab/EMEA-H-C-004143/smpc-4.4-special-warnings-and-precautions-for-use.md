@@ -13,9 +13,9 @@ Immune-related adverse reactions with atezolizumab may occur after the last dose
 For suspected immune-related adverse reactions, thorough evaluation to confirm aetiology or exclude other causes should be performed.
 Based on the severity of the adverse reaction, atezolizumab should be withheld and corticosteroids administered.
 Upon improvement to Grade ≤ 1, corticosteroid should be tapered over ≥ 1 month.
-Based on limited data from clinical studies in patients whose immune-related adverse reactions could not be controlled with systemic corticosteroid use, administration of other systemic immunosuppressants may be considered.
-Atezolizumab must be permanently discontinued for any Grade 3 immune-related adverse reaction that recurs and for any Grade 4 immune-related adverse reactions, except for endocrinopathies that are controlled with replacement hormones (see sections 4.2 and 4.8).
+Based on limited data from clinical trials in patients whose immune-related adverse reactions could not be controlled with systemic corticosteroid use, administration of other systemic immunosuppressants may be considered.
 
+Atezolizumab must be permanently discontinued for any Grade 3 immune-related adverse reaction that recurs and for any Grade 4 immune-related adverse reactions, except for endocrinopathies that are controlled with replacement hormones (see sections 4.2 and 4.8).
 Immune-related pneumonitis
 
 Cases of pneumonitis, including fatal cases, have been observed in clinical trials with atezolizumab (see section 4.8).
@@ -41,7 +41,7 @@ Treatment with atezolizumab must be permanently discontinued for Grade 3 or Grad
 > 5.0 x ULN or blood bilirubin > 3 x ULN).
 
 For patients with HCC, treatment with atezolizumab should be withheld if ALT or AST increases to
-> 3 to ≤10 x ULN from normal limits at baseline, or > 5 to ≤10 x ULN from > 1 ULN to ≤3 x ULN at baseline, or > 8 to ≤10 x ULN from > 3 ULN to ≤5 x ULN at baseline, and persists for more than 5 to 7 days, and 1 to 2 mg/kg bw/day of prednisone or equivalent should be started.
+> 3 to ≤ 10 x ULN from normal limits at baseline, or > 5 to ≤ 10 x ULN from > 1 ULN to ≤ 3 x ULN at baseline, or > 8 to ≤ 10 x ULN from > 3 ULN to ≤ 5 x ULN at baseline, and persists for more than 5 to 7 days, and 1 to 2 mg/kg bw/day of prednisone or equivalent should be started.
 If the event improves to ≤ Grade 1, corticosteroids should be tapered over ≥ 1 month.
 
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
@@ -98,12 +98,12 @@ Patients should be monitored for clinical signs and symptoms of meningitis or en
 Treatment with atezolizumab must be permanently discontinued for any grade of meningitis or encephalitis.
 Treatment with intravenous corticosteroids (1 to 2 mg/kg bw/day methylprednisolone or equivalent) should be started.
 Once symptoms improve, treatment with 1 to 2 mg/kg bw/day of prednisone or equivalent should follow.
+
 Immune-related neuropathies
 
 Myasthenic syndrome/myasthenia gravis or Guillain-Barré syndrome, which may be life threatening, were observed in patients receiving atezolizumab.
 Patients should be monitored for symptoms of motor and sensory neuropathy.
-
-Treatment with atezolizumab must be permanently discontinued for any grade of myasthenic syndrome / myasthenia gravis or Guillain-Barré syndrome.
+Treatment with atezolizumab must be permanently discontinued for any grade of myasthenic syndrome/myasthenia gravis or Guillain-Barré syndrome.
 Initiation of systemic corticosteroids (at a dose of 1 to 2 mg/kg bw/day of prednisone or equivalent) should be considered.
 
 Immune-related pancreatitis
@@ -125,15 +125,14 @@ Myocarditis may also be a clinical manifestation of myositis and should be manag
 
 Patients with cardiac or cardiopulmonary symptoms should be assessed for potential myocarditis, to ensure the initiation of appropriate measures at an early stage.
 If myocarditis is suspected, treatment with atezolizumab should be withheld, prompt initiation of systemic corticosteroids at a dose of 1 to 2 mg/kg bw/day of prednisone or equivalent should be started, and prompt cardiology consultation with diagnostic workup according to current clinical guidelines should be initiated.
-Once a diagnosis of myocarditis is established, treatment with atezolizumab must be permanently discontinued for Grade
-≥ 2 myocarditis (see section 4.2).
+Once a diagnosis of myocarditis is established, treatment with atezolizumab must be permanently discontinued for Grade ≥ 2 myocarditis (see section 4.2).
 
 Immune-related nephritis
 
 Nephritis has been observed in clinical trials with atezolizumab (see section 4.8).
 Patients should be monitored for changes in renal function.
 
-Treatment with atezolizumab should be withheld for Grade 2 nephritis, and treatment with systemic corticosteroids at a dose of 1 to 2mg/kg bw/day of prednisone or equivalent should be started.
+Treatment with atezolizumab should be withheld for Grade 2 nephritis, and treatment with systemic corticosteroids at a dose of 1 to 2 mg/kg bw/day of prednisone or equivalent should be started.
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
 Treatment with atezolizumab must be permanently discontinued for Grade 3 or 4 nephritis.
 
@@ -142,6 +141,7 @@ Immune-related myositis
 Cases of myositis, including fatal cases, have been observed with atezolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of myositis.
 Patients with possible myositis should be monitored for signs of myocarditis.
+
 If a patient develops signs and symptoms of myositis, close monitoring should be implemented, and the patient referred to a specialist for assessment and treatment without delay.
 Treatment with atezolizumab should be withheld for Grade 2 or 3 myositis and corticosteroid therapy (1-2 mg/kg bw/day prednisone or equivalent) should be initiated.
 If symptoms improve to ≤ Grade 1, taper corticosteroids as clinically indicated.
@@ -177,25 +177,25 @@ Infusion-related reactions have been observed with atezolizumab (see section 4.8
 The rate of infusion should be reduced or treatment should be interrupted in patients with Grade 1 or 2 infusion-related reactions.
 Atezolizumab should be permanently discontinued in patients with Grade 3 or 4 infusion-related reactions.
 Patients with Grade 1 or 2 infusion-related reactions may continue to receive atezolizumab with close monitoring; premedication with antipyretic and antihistamines may be considered.
+
 Disease-specific precautions
 
-Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in metastatic non-squamous non-small cell lung cancer
+Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in metastatic non-squamous NSCLC
 
 Physicians should carefully consider the combined risks of the four-drug regimen of atezolizumab bevacizumab, paclitaxel, and carboplatin before initiating treatment (see section 4.8).
-
-Use of atezolizumab in combination with nab-paclitaxel in metastatic triple negative breast cancer
+Use of atezolizumab in combination with nab-paclitaxel in metastatic TNBC
 
 Neutropenia and peripheral neuropathies occurring during treatment with atezolizumab and nab-paclitaxel may be reversible with interruptions of nab-paclitaxel.
 Physicians should consult the nab-paclitaxel summary of product characteristics (SmPC) for specific precautions and contraindications of this medicine.
 
-Use of atezolizumab in urothelial carcinoma for previously untreated patients who are considered cisplatin ineligible
+Use of atezolizumab in UC for previously untreated patients who are considered cisplatin ineligible
 
 The baseline and prognostic disease characteristics of the IMvigor210 Cohort 1 study population were overall comparable to patients in the clinic who would be considered cisplatin ineligible but would be eligible for a carboplatin-based combination chemotherapy.
 There are insufficient data for the subgroup of patients that would be unfit for any chemotherapy; therefore atezolizumab should be used with caution in these patients, after careful consideration of the potential balance of risks and benefits on an individual basis.
 
 Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin
 
-Patients with NSCLC that had clear tumour infiltration into the thoracic great vessels or clear cavitation of pulmonary lesions, as seen on imaging, were excluded from the pivotal clinical study IMpower150 after several cases of fatal pulmonary haemorrhage were observed, which is a known risk factor of treatment with bevacizumab.
+Patients with NSCLC that had clear tumour infiltration into the thoracic great vessels or clear cavitation of pulmonary lesions, as seen on imaging, were excluded from the pivotal clinical trial IMpower150 after several cases of fatal pulmonary haemorrhage were observed, which is a known risk factor of treatment with bevacizumab.
 
 In the absence of data, atezolizumab should be used with caution in these populations after careful evaluation of the balance of benefits and risks for the patient.
 
@@ -203,18 +203,18 @@ Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin 
 
 In study IMpower150, there are no data on the efficacy of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in EGFR+ patients who have progressed previously on erlotinib+bevacizumab.
 
-Use of atezolizumab in combination with bevacizumab in hepatocellular carcinoma
+Use of atezolizumab in combination with bevacizumab in HCC
 
 Data in HCC patients with Child-Pugh B liver disease treated with atezolizumab in combination with bevacizumab are very limited and there are currently no data available in HCC patients with Child-Pugh C liver disease.
 
-Patients treated with bevacizumab have an increased risk of haemorrhage, and cases of severe gastrointestinal haemorrhage, including fatal events, were reported in patients with hepatocellular carcinoma (HCC) treated with atezolizumab in combination with bevacizumab.
+Patients treated with bevacizumab have an increased risk of haemorrhage, and cases of severe gastrointestinal haemorrhage, including fatal events, were reported in patients with HCC treated with atezolizumab in combination with bevacizumab.
 In patients with HCC, screening for and subsequent treatment of oesophageal varices should be performed as per clinical practice prior to starting treatment with the combination of atezolizumab and bevacizumab.
 Bevacizumab should be permanently discontinued in patients who experience Grade 3 or 4 bleeding with the combination treatment.
 Please refer to the bevacizumab Summary of Product Characteristics.
+
 Diabetes mellitus can occur during treatment with atezolizumab in combination with bevacizumab.
 Physicians should monitor blood glucose levels prior to and periodically during treatment with atezolizumab in combination with bevacizumab as clinically indicated.
-
-Use of atezolizumab as monotherapy for first-line treatment in metastatic non-small cell lung cancer
+Use of atezolizumab as monotherapy for first-line treatment in metastatic NSCLC
 
 Physicians should consider the delayed onset of atezolizumab effect before initiating first-line treatment as monotherapy in patients with NSCLC.
 A higher number of deaths within 2.5 months after randomisation followed by a long-term survival benefit was observed with atezolizumab compared with chemotherapy.
@@ -223,7 +223,7 @@ No specific factor(s) associated with early deaths could be identified (see sect
 Patients excluded from clinical trials
 
 Patients with the following conditions were excluded from clinical trials: a history of autoimmune disease, history of pneumonitis, active brain metastasis, HIV, hepatitis B or hepatitis C infection (for non-HCC patients), significant cardiovascular disease and patients with inadequate hematologic and end-organ function.
-Patients who were administered a live, attenuated vaccine within 28 days prior to enrolment; systemic immunostimulatory agents within 4 weeks or systemic immunosuppressive medicinal products within 2 weeks prior to study entry; therapeutic oral or IV antibiotics within 2 weeks prior to initiation of study treatment were excluded from clinical trials.
+Patients who were administered a live, attenuated vaccine within 28 days prior to enrolment; systemic immunostimulatory agents within 4 weeks or systemic immunosuppressive medicinal products within 2 weeks prior to study entry; therapeutic oral or intravenous antibiotics within 2 weeks prior to initiation of study treatment were excluded from clinical trials.
 
 Patient card
 

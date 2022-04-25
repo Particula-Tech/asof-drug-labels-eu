@@ -9,18 +9,18 @@ The safety of atezolizumab given in combination with other medicinal products, h
 The most common adverse reactions (≥ 20%) were anaemia (36.8%), neutropenia (36.6%), nausea (35.5%), fatigue (33.1%), alopecia (28.1%), rash (27.8%), diarrhoea (27.6%), thrombocytopenia (27.1%), constipation (25.8%), decreased appetite (24.7%) and peripheral neuropathy (24.4%).
 
 Further details on serious adverse reactions are provided in section 4.4.
+
 Tabulated list of adverse reactions
 
-The Adverse Drug Reactions (ADRs) are listed by MedDRA system organ class (SOC) and categories
+The adverse reactions (ARs) are listed by MedDRA system organ class (SOC) and categories of
 
-of frequency in Table 3 for atezolizumab given as monotherapy or as combination therapy. Adverse
+frequency in Table 3 for atezolizumab given as monotherapy or as combination therapy. Adverse
 reactions known to occur with atezolizumab or chemotherapies given alone may occur during
 treatment with these medicinal products in combination, even if these reactions were not reported in
 clinical trials with combination therapy. The following categories of frequency have been used: very
 
 common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100), rare (≥ 1/10 000 to < 1/1 000), very rare (< 1/10 000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
-
 Table 3: Summary of adverse reactions occurring in patients treated with atezolizumab
 
 | Atezolizumab monotherapy |  | Atezolizumab in combination therapy |
@@ -46,7 +46,7 @@ Table 3: Summary of adverse reactions occurring in patients treated with atezoli
 | Common |  | syncope, dizziness |
 | Uncommon | Guillain-Barré syndromep, meningoencephalitisq |  |
 | Rare | myasthenic syndromer |  |
-| Eye Disorders |  |  |
+| Eye disorders |  |  |
 | Rare | uveitis |  |
 | Cardiac disorders |  |  |
 | Rare | myocarditiss |  |
@@ -88,7 +88,8 @@ e Includes reports of neutropenia, neutrophil count decreased, febrile neutropen
 f Includes reports of white blood cell count decreased, leukopenia.
 g Includes reports of lymphopenia, lymphocyte count decreased.
 h Includes reports of infusion related reaction, cytokine release syndrome, hypersensitivity, anaphylaxis.
-i Includes reports of autoimmune hypothyroidism, autoimmune thyroiditis, blood thyroid stimulating hormone abnormal, blood thyroid stimulating hormone decreased, blood thyroid stimulating hormone increased, euthyroid sick syndrome, goitre, hypothyroidism, immune-related hypothyroidism, myxedema, myxoedema coma, thyroid disorder, thyroid function test abnormal, thyroiditis, thyroiditis acute, thyroxine decreased, thyroxine free decreased, thyroxine free increased, thyroxine increased, tri-iodothyronine decreased, tri-iodothyronine free abnormal, tri-iodothyronine free decreased, tri-iodothyronine free increased, silent thyroiditis, thyroiditis chronic. j Includes reports of hyperthyroidism, Basedow’s disease, endocrine ophthalmopathy, exophthalmos.
+i Includes reports of autoimmune hypothyroidism, autoimmune thyroiditis, blood thyroid stimulating hormone abnormal, blood thyroid stimulating hormone decreased, blood thyroid stimulating hormone increased, euthyroid sick syndrome, goitre, hypothyroidism, immune-related hypothyroidism, myxedema, myxoedema coma, thyroid disorder, thyroid function test abnormal, thyroiditis, thyroiditis acute, thyroxine decreased, thyroxine free decreased, thyroxine free increased, thyroxine increased, tri-iodothyronine decreased, tri-iodothyronine free abnormal, tri-iodothyronine free decreased, tri-iodothyronine free increased, silent thyroiditis, thyroiditis chronic.
+j Includes reports of hyperthyroidism, Basedow’s disease, endocrine ophthalmopathy, exophthalmos.
 k Includes reports of diabetes mellitus, type 1 diabetes mellitus, diabetic ketoacidosis, ketoacidosis.
 l Includes reports of adrenal insufficiency, glucocorticoid deficiency, primary adrenal insufficiency.
 m Includes reports of hypophysitis, temperature regulation disorder.
@@ -119,10 +120,9 @@ ak Includes reports of dermatitis bullous, exfoliative rash, erythema multiforme
 al Includes reports of cystitis noninfective and immune-mediated cystitis.
 am Includes reports of nasopharyngitis, nasal congestion and rhinorrhoea.
 an Includes reports of psoriasis, dermatitis psoriasiform, guttate psoriasis.
-
 Description of selected adverse reactions
 
-The data below reflect information for significant adverse reactions for atezolizumab as monotherapy in clinical studies (see section 5.1).
+The data below reflect information for significant adverse reactions for atezolizumab as monotherapy in clinical trials (see section 5.1).
 Details for the significant adverse reactions for atezolizumab when given in combination are presented if clinically relevant differences were noted in comparison to atezolizumab monotherapy.
 The management guidelines for these adverse reactions are described in sections 4.2 and 4.4.
 
@@ -169,7 +169,6 @@ The median time to onset was 5.9 months (range: 1 day to 21.4 months).
 The median duration was 16.8 months (range: 2 days to 35.4+ months; + denotes a censored value).
 Adrenal insufficiency led to discontinuation of atezolizumab in 2 (< 0.1%) patients.
 Adrenal insufficiency requiring the use of corticosteroids occurred in 0.3% (12/3 854) of patients receiving atezolizumab monotherapy.
-
 Hypophysitis
 
 Hypophysitis occurred in < 0.1% (3/3 854) of patients who received atezolizumab monotherapy.
@@ -208,7 +207,7 @@ Immune-related neuropathies
 Guillain-Barré syndrome and demyelinating polyneuropathy occurred in 0.1% (5/3 854) of patients who received atezolizumab monotherapy.
 The median time to onset was 7.0 months (range: 17 days to 8.1 months).
 The median duration was 8.0 months (range: 19 days to 8.3+ months; + denotes a censored value).
-Guillain-Barré syndrome led to discontinuation of atezolizumab in 1 patient (<0.1%).
+Guillain-Barré syndrome led to discontinuation of atezolizumab in 1 patient (< 0.1%).
 Guillain-Barré syndrome requiring the use of corticosteroids occurred in < 0.1% (2/3 854) of patients receiving atezolizumab monotherapy.
 
 Myasthenic syndrome
@@ -223,7 +222,6 @@ The median time to onset was 5.0 months (range: 1 day to 24.8 months).
 The median duration was 24 days (range: 3 days to 22.4+ months; + denotes a censored value).
 Pancreatitis led to the discontinuation of atezolizumab in 3 (< 0.1%) patients.
 Pancreatitis requiring the use of corticosteroids occurred in 0.1% (5/3 854) of patients receiving atezolizumab monotherapy.
-
 Immune-related myocarditis
 
 Myocarditis occurred in < 0.1% (1/3 854) of patients who received atezolizumab monotherapy.
@@ -274,15 +272,14 @@ Across pooled datasets for patients treated with atezolizumab monotherapy (N=2 9
 combination therapies (N= 2 285), the following rates of adverse events (AEs) have been observed for
 the ADA-positive population compared to the ADA-negative population, respectively: Grade 3-4 AEs
 48.6% vs. 42.6%, Serious Adverse Events (SAEs) 42.2% vs. 36.0%, AEs leading to treatment
-withdrawal 6.2% vs 6.5% (for monotherapy); Grade 3-4 AEs 63.9% vs. 60.9%, SAEs 43.9% vs.
-35.6%, AEs leading to treatment withdrawal 22.8% vs 18.4% (for combination therapy). However,
-available data do not allow firm conclusions to be drawn on possible patterns of adverse drug
-reactions.
+
+withdrawal 6.2% vs 6.5% (for monotherapy); Grade 3-4 AEs 63.9% vs. 60.9%, SAEs 43.9% vs. 35.6%, AEs leading to treatment withdrawal 22.8% vs 18.4% (for combination therapy).
+However, available data do not allow firm conclusions to be drawn on possible patterns of adverse reactions.
 
 Paediatric population
 
 The safety of atezolizumab in children and adolescents has not been established.
-No new safety signals were observed in a clinical study with 69 paediatric patients (<18 years) and the safety profile was comparable to adults.
+No new safety signals were observed in a clinical trial with 69 paediatric patients (< 18 years) and the safety profile was comparable to adults.
 
 Elderly
 
