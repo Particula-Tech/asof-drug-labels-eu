@@ -24,6 +24,8 @@ Rare aseptic meningitis
 Neoplasms benign, malignant and unspecified (including cysts and polyps)
 Rare histiocytic necrotising lymphadenitis (Kikuchi lymphadenitis)
 Blood and lymphatic system disorders
+Very common lymphopaeniab, anaemiab,j, leucopoeniab, neutropaeniaa,b,
+thrombocytopaeniab
 Uncommon eosinophilia
 Not known haemophagocytic lymphohistiocytosis
 Immune system disorders
@@ -36,8 +38,8 @@ Common hypothyroidism, hyperthyroidism, thyroiditis
 Uncommon adrenal insufficiencyk, hypopituitarism, hypophysitis, diabetes mellitus
 Rare diabetic ketoacidosis, hypoparathyroidism
 Metabolism and nutrition disorders
-Very common decreased appetite
-Common dehydration
+Very common decreased appetite, hyperglycaemiab,c, hypoglycaemiab
+Common dehydration, weight decreased
 Uncommon metabolic acidosis
 Not known tumour lysis syndromeh
 Nervous system disorders
@@ -88,14 +90,11 @@ General disorders and administration site conditions
 Very common fatigue, pyrexia, oedemam
 Common pain, chest pain
 Investigationsb
-Very common lymphopaenia, hyperglycaemiac, anaemiaj, increased AST,
-hyponatraemia, hypoalbuminaemia, increased alkaline phosphatase,
-increased creatinine, increased ALT, increased lipase, hyperkalaemia,
-increased amylase, hypocalcaemia, leucopoenia, hypomagnesaemia,
-neutropaeniaa,b, thrombocytopaenia, hypokalaemia, hypoglycaemia,
-hypercalcaemia
-Common increased total bilirubin, hypernatraemia, hypermagnesaemia, weight
-decreased
+Very common increased AST, hyponatraemia, hypoalbuminaemia, increased alkaline
+phosphatase, increased creatinine, increased ALT, increased lipase,
+hyperkalaemia, increased amylase, hypocalcaemia, hypomagnesaemia,
+hypokalaemia, hypercalcaemia
+Common increased total bilirubin, hypernatraemia, hypermagnesaemia
 
 Adverse reaction frequencies presented in Table 6 may not be fully attributable to nivolumab alone but may contain contributions from the underlying disease.
 a Fatal cases have been reported in completed or ongoing clinical studies.
@@ -160,7 +159,8 @@ Table 7: Adverse reactions with nivolumab in combination with ipilimumab
 | Uncommon | bronchitis | aseptic meningitis |  |
 | Not known | aseptic meningitisg |  |  |
 | Blood and lymphatic system disorders |  |  |  |
-| Common | eosinophilia |  |  |
+| Very common | lymphopaeniab, leucopoeniab, neutropaeniab, thrombocytopaeniab, anaemiab,j | lymphopaeniab, leucopoeniab, neutropaeniab,c, thrombocytopaeniab, anaemiab,j | anaemiab,c,j, lymphopaeniab, thrombocytopaeniab |
+| Common | eosinophilia |  | neutropaeniab,c, leucopoeniab |
 | Uncommon |  | eosinophilia |  |
 | Not known | haemophagocytic lymphohistiocytosis | haemophagocytic lymphohistiocytosis |  |
 | Immune system disorders |  |  |  |
@@ -173,8 +173,8 @@ Table 7: Adverse reactions with nivolumab in combination with ipilimumab
 | Uncommon | diabetic ketoacidosisc, diabetes mellitusc | diabetic ketoacidosisc, hypopituitarism |  |
 | Not known | hypoparathyroidismg | hypoparathyroidismg |  |
 | Metabolism and nutrition disorders |  |  |  |
-| Very common | decreased appetite | decreased appetite | decreased appetite |
-| Common | dehydration | dehydration |  |
+| Very common | decreased appetite, hyperglycaemiab,c, hypoglycaemiab | decreased appetite, hyperglycaemiab,c, hypoglycaemiab | decreased appetite, hyperglycaemiab,c, hypoglycaemiab |
+| Common | dehydration, weight decreased | dehydration, weight decreased |  |
 | Uncommon |  | metabolic acidosis |  |
 | Not known | tumour lysis syndromeh |  |  |
 | Nervous system disorders |  |  |  |
@@ -220,8 +220,11 @@ Table 7: Adverse reactions with nivolumab in combination with ipilimumab
 | Common | oedema (including peripheral oedema), pain | pain, chest pain, chills |  |
 | Uncommon | chest pain |  |  |
 | Investigationsb |  |  |  |
-| Very common | increased AST, increased ALT, increased total bilirubin, increased alkaline phosphatase, increased lipase, increased amylase, increased creatinine, hyperglycaemiac, hypoglycaemia, lymphopaenia, leucopoenia, neutropaenia, thrombocytopaenia, anaemiaj, hypocalcaemia, hyperkalaemia, hypokalaemia, hypomagnesaemia, hyponatraemia | increased AST, increased ALT, increased total bilirubin, increased alkaline phosphatase, increased lipase, increased amylase, increased creatinine, hyperglycaemiac, hypoglycaemia, lymphopaenia, leucopoenia, neutropaeniac, thrombocytopaenia, anaemiaj, hypercalcaemia, hypocalcaemia, hyperkalaemia, hypokalaemia, hypomagnesaemia, hyponatraemia | anaemiaj,c, hyperglycaemiac, lymphopaenia, hyponatraemiac, increased AST, increased ALT, increased alkaline phosphatase, hypocalcaemia, hyperkalaemia, hypomagnesaemia, increased creatinine, hypokalaemia, hypoglycaemia, hypercalcaemia, thrombocytopaenia, increased total bilirubin, increased lipase, increased amylase |
-| Common | hypercalcaemia, hypermagnesaemia, hypernatraemia, weight decreased | hypermagnesaemia, hypernatraemia, weight decreased | neutropaeniac, leucopoenia, hypernatraemia, hypermagnesaemia |
+| Very common | increased AST, increased ALT, increased total bilirubin, increased alkaline phosphatase, increased lipase, increased amylase, increased creatinine, hypocalcaemia, hyperkalaemia, hypokalaemia, hypomagnesaemia, hyponatraemia | increased AST, increased ALT, increased total bilirubin, increased alkaline phosphatase, increased lipase, increased amylase, increased creatinine, hypercalcaemia, hypocalcaemia, hyperkalaemia, hypokalaemia, hypomagnesaemia, hyponatraemia | hyponatraemiac, increased AST, increased ALT, increased alkaline phosphatase, hypocalcaemia, hyperkalaemia, hypomagnesaemia, increased creatinine, hypokalaemia, hypercalcaemia, increased total bilirubin, increased lipase, increased amylase |
+
+Common hypercalcaemia, hypermagnesaemia, hypernatraemia,
+hypermagnesaemia, hypernatraemia hypermagnesaemia
+hypernatraemia
 
 a Fatal cases have been reported in completed or ongoing clinical studies.
 b Frequencies of laboratory terms reflect the proportion of patients who experienced a worsening from baseline in laboratory measurements.
@@ -249,6 +252,7 @@ Median duration of therapy was 6.44 months
 In the dataset of nivolumab 360 mg every 3 weeks in combination with ipilimumab 1 mg/kg every 6 weeks and 2 cycles of chemotherapy in NSCLC (n = 358), with a minimum follow-up of 6.5 months, the most frequent adverse reactions were fatigue (36%), nausea (26%), rash (25%), diarrhoea (20%), pruritus (18%), decreased appetite (16%), hypothyroidism (15%), and vomiting (13%).
 The majority of adverse reactions were mild to moderate (Grade 1 or 2).
 Median duration of therapy was 6.1 months (95% CI 4.93, 7.06) for nivolumab in combination with ipilimumab and chemotherapy and 2.4 months (95% CI 2.30, 2.83) for chemotherapy.
+
 Tabulated summary of adverse reactions
 Adverse reactions reported in the dataset for patients treated with nivolumab 240 mg every 2 weeks or 360 mg every 3 weeks in combination with chemotherapy in OSCC and gastric, GEJ or oesophageal adenocarcinoma (n = 1092) and for patients treated with nivolumab 360 mg every 3 weeks in combination with ipilimumab 1 mg/kg every 6 weeks and 2 cycles of chemotherapy in NSCLC
 (n = 358) are presented in Table 8.
@@ -264,6 +268,9 @@ Infections and infestations
 Common upper respiratory tract infection, conjunctivitis, pneumonia, respiratory
 pneumoniag tract infection
 Blood and lymphatic system disorders
+Very neutropaeniac,anaemiac,d, leucopoeniac, anaemiac,d, thrombocytopaeniac,
+common lymphopaeniac, thrombocytopaeniac leucopoeniac, lymphopaeniac,
+neutropaeniac
 Common febrile neutropaeniag febrile neutropaenia
 Uncommon eosinophilia eosinophilia
 Immune system disorders
@@ -277,8 +284,8 @@ adrenal insufficiency hypophysitis, thyroiditis
 Uncommon hypopituitarism, diabetes mellitusf hypopituitarism, hypoparathyroidism
 Rare hypophysitis
 Metabolism and nutrition disorders
-Very decreased appetite, hypoalbuminaemia decreased appetite
-common
+Very decreased appetite, hypoalbuminaemia, decreased appetite
+common hyperglycaemiac, hypoglycaemiac
 Common hypophosphataemia dehydration, hypoalbuminaemia,
 hypophosphataemia
 Nervous system disorders
@@ -342,16 +349,13 @@ Common pyrexia, oedema (including peripheral
 oedema)
 Uncommon chills, chest pain
 Investigations
-Very neutropaeniac, anaemiac,d, leucopoeniac, anaemiac,d, thrombocytopaeniac,
-common lymphopaeniac, thrombocytopaeniac, leucopoeniac, lymphopaeniac,
-hypocalcaemiac, increased neutropaeniac, increased alkaline
-transaminasesc, hyperglycaemiac, phophatasec, increased transaminasesc,
-hyponatraemiac, increased amylase, increased creatininec, increased
-hypomagnesaemiac, increased alkaline amylasec, increased lipasec,
-phosphatase, hypokalaemiac, increased hypokalaemiac, hypomagnesaemiac,
-creatininec, increased lipase, hyponatraemiac
-hyperkalaemiac, increased total
-bilirubinc, hypoglycaemiac,
+Very hypocalcaemiac, increased increased alkaline phophatasec,
+common transaminasesc, hyponatraemiac, increased transaminasesc, increased
+increased amylase, hypomagnesaemiac, creatininec, increased amylasec,
+increased alkaline phosphatase, increased lipasec, hypokalaemiac,
+hypokalaemiac, increased creatininec, hypomagnesaemiac, hyponatraemiac
+increased lipase, hyperkalaemiac,
+increased total bilirubinc,
 hypernatraemiac
 Common hypercalcaemiac, hypermagnesaemiac increased total bilirubinc, increased
 thyroid stimulating hormone
@@ -388,6 +392,7 @@ Infections and infestations
 Very common upper respiratory tract infection
 Common pneumonia
 Blood and lymphatic system disorders
+Very common anaemiae, thrombocytopaeniae, leucopoeniae, lymphopaeniae, neutropaeniae,
 Common eosinophilia
 Immune system disorders
 Common hypersensitivity (including anaphylactic reaction)
@@ -397,7 +402,7 @@ Very common hypothyroidism, hyperthyroidism
 Common adrenal insufficiency
 Uncommon hypophysitis, thyroiditis
 Metabolism and nutrition disorders
-Very common decreased appetite
+Very common decreased appetite, hypoglycaemiae, hyperglycaemiae, weight decreased
 Common dehydration
 Nervous system disorders
 Very common dysgeusia, dizziness, headache
@@ -441,12 +446,11 @@ General disorders and administration site conditions
 Very common fatigue, pyrexia, oedema
 Common pain, chest pain
 Investigationse
-Very common anaemia, thrombocytopaenia, leucopoenia, lymphopaenia, neutropaenia,
-increased alkaline phosphatase, increased ALT, increased AST, increased total
+Very common increased alkaline phosphatase, increased ALT, increased AST, increased total
 bilirubin, increased creatinine, increased amylase, increased lipase,
 hypokalaemia, hypomagnesaemia, hyponatraemia, hypocalcaemia,
-hypercalcaemia, hypoglycaemia, hypophosphataemia, hyperglycaemia,
-hyperkalaemia, hypermagnesaemia, hypernatraemia, weight decreased
+hypercalcaemia, hypophosphataemia, hyperkalaemia, hypermagnesaemia,
+hypernatraemia
 Common blood cholesterol increased, hypertriglyceridaemia
 
 Adverse reaction frequencies presented in Table 9 may not be fully attributable to nivolumab alone but may contain contributions from the underlying disease or from medicinal product used in combination.
@@ -463,7 +467,7 @@ d Musculoskeletal pain is a composite term which includes back pain, bone pain, 
 
 e Frequencies of laboratory terms reflect the proportion of patients who experienced a worsening from
 
-baseline in laboratory measurements (with the exception of weight decreased, blood cholesterol increased, and hypertriglyceridaemia).
+baseline in laboratory measurements (with the exception of blood cholesterol increased, and hypertriglyceridaemia).
 See “Description of selected adverse reactions; laboratory abnormalities” below.
 
 f Reported in clinical studies and in the post-marketing setting.
