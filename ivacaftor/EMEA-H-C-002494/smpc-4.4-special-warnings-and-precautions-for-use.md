@@ -23,18 +23,18 @@ Moderate transaminase (alanine transaminase [ALT] or aspartate transaminase [AST
 In patients taking ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor, these elevations have sometimes been associated with concomitant elevations in total bilirubin.
 Therefore, assessments of transaminases (ALT and AST) and total bilirubin are recommended for all patients prior to initiating ivacaftor, every 3 months during the first year of treatment and annually thereafter.
 For all patients with a history of liver disease or transaminase elevations, more frequent monitoring of liver function tests should be considered.
-In the event of significant elevations of transaminases (e.g., patients with ALT or AST > 5 x the upper limit of normal (ULN), or ALT or AST > 3 x ULN with bilirubin > 2 x ULN), dosing should be interrupted, and laboratory tests closely followed until the abnormalities resolve.
+In the event of significant elevations of transaminases (e.g., patients with ALT or AST > 5 × the upper limit of normal (ULN), or ALT or AST > 3 × ULN with bilirubin > 2 × ULN), dosing should be interrupted, and laboratory tests closely followed until the abnormalities resolve.
 Following resolution of transaminase elevations, the benefits and risks of resuming treatment should be considered (see sections 4.2, 4.8 and 5.2).
 
 Hepatic impairment
 
 Use of ivacaftor, either as monotherapy or in a combination regimen with tezacaftor/ivacaftor, is not recommended in patients with severe hepatic impairment unless the benefits are expected to outweigh the risks.
 Patients with severe hepatic impairment should not be treated with ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor.
-(See Table 3 and sections 4.2, 4.8 and 5.2).
+(see Table 3 and sections 4.2, 4.8 and 5.2).
+
 For patients with moderate hepatic impairment, use of ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor is not recommended.
 Treatment should only be considered when there is a clear medical need and the benefits are expected to outweigh the risks.
 If used, it should be used with caution at a reduced dose (see Table 3 and sections 4.2, 4.8 and 5.2).
-
 Renal impairment
 
 Caution is recommended while using ivacaftor, either as monotherapy or in a combination regimen with tezacaftor/ivacaftor or ivacaftor/tezacaftor/elexacaftor, in patients with severe renal impairment or end-stage renal disease (see sections 4.2 and 5.2).
@@ -69,15 +69,14 @@ Paediatric population
 Cases of non-congenital lens opacities/cataracts without impact on vision have been reported in paediatric patients treated with ivacaftor and ivacaftor-containing regimens.
 Although other risk factors were present in some cases (such as corticosteroid use and exposure to radiation), a possible risk attributable to treatment with ivacaftor cannot be excluded.
 Baseline and follow-up ophthalmological examinations are recommended in paediatric patients initiating ivacaftor treatment, either as monotherapy or in a combination regimen with tezacaftor/ivacaftor or ivacaftor/tezacaftor/elexacaftor (see section 5.3).
-
 Lactose content
 
 Kalydeco contains lactose.
-Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
 Sodium content
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ‘sodium-free’.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ‘sodium-free’.
 
 [Kalydeco 25 mg granules in sachet]
 

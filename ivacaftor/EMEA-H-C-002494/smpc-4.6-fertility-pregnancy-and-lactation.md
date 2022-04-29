@@ -9,7 +9,7 @@ As a precautionary measure, it is preferable to avoid the use of ivacaftor durin
 Breast-feeding
 
 It is unknown whether ivacaftor and/or its metabolites are excreted in human milk.
-Available pharmacokinetic data in animals have shown excretion of ivacaftor into the milk of lactating female rats.
+Available pharmacokinetic data in animals have shown excretion of ivacaftor in milk of lactating female rats.
 As such, a risk to the newborns/infants cannot be excluded.
 A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from ivacaftor therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
 

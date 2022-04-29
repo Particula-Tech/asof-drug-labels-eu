@@ -61,6 +61,7 @@ Hormonal contraceptives
 
 Ivacaftor (as monotherapy or in a combination regimen with tezacaftor/ivacaftor or ivacaftor/tezacaftor/elexacaftor) has been studied with an oestrogen/progesterone oral contraceptive and was found to have no significant effect on the exposures of the oral contraceptive.
 Therefore, no dose adjustment of oral contraceptives is necessary.
+
 Paediatric population
 
 Interaction studies have only been performed in adults.

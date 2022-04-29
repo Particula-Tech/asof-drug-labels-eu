@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Vertex Pharmaceuticals (Ireland) Limited
-28-32 Pembroke Street Upper
-Dublin 2, D02 EK84
+Unit 49, Block F2, Northwood Court, Santry,
+Dublin 9, D09 T665,
 Ireland

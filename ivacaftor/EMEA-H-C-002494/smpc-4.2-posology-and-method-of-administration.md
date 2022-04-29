@@ -13,14 +13,14 @@ Table 1: Dosing recommendations
 |  | Morning | Evening |
 | --- | --- | --- |
 | Ivacaftor as monotherapy |  |  |
-| 6 years and older, ≥25 kg | One ivacaftor 150 mg tablet | One ivacaftor 150 mg tablet |
+| 6 years and older, ≥ 25 kg | One ivacaftor 150 mg tablet | One ivacaftor 150 mg tablet |
 | Ivacaftor in combination with tezacaftor/ivacaftor |  |  |
-| 6 years to <12 years, <30 kg | One tezacaftor 50 mg/ivacaftor 75 mg tablet | One ivacaftor 75 mg tablet |
-| 6 years to <12 years, ≥30 kg | One tezacaftor 100 mg/ivacaftor 150 mg tablet | One ivacaftor 150 mg tablet |
+| 6 years to < 12 years, < 30 kg | One tezacaftor 50 mg/ivacaftor 75 mg tablet | One ivacaftor 75 mg tablet |
+| 6 years to < 12 years, ≥ 30 kg | One tezacaftor 100 mg/ivacaftor 150 mg tablet | One ivacaftor 150 mg tablet |
 | 12 years and older | One tezacaftor 100 mg/ivacaftor 150 mg tablet | One ivacaftor 150 mg tablet |
 | Ivacaftor in combination with ivacaftor/tezacaftor/elexacaftor |  |  |
-| 6 to <12 years, <30 kg | Two ivacaftor 37.5 mg/tezacaftor 25 mg/ elexacaftor 50 mg tablets | One ivacaftor 75 mg tablet |
-| 6 to <12 years, ≥30 kg | Two ivacaftor 75 mg/tezacaftor 50 mg/ elexacaftor 100 mg tablets | One ivacaftor 150 mg tablet |
+| 6 years to < 12 years, < 30 kg | Two ivacaftor 37.5 mg/tezacaftor 25 mg/ elexacaftor 50 mg tablets | One ivacaftor 75 mg tablet |
+| 6 years to < 12 years, ≥ 30 kg | Two ivacaftor 75 mg/tezacaftor 50 mg/ elexacaftor 100 mg tablets | One ivacaftor 150 mg tablet |
 | 12 years and older | Two ivacaftor 75 mg/tezacaftor 50 mg/elexacaftor 100 mg tablets | One ivacaftor 150 mg tablet |
 
 The morning and evening dose should be taken approximately 12 hours apart with fat-containing food (see Method of administration).
@@ -30,7 +30,8 @@ Missed dose
 If 6 hours or less have passed since the missed morning or evening dose, the patient should be advised to take it as soon as possible and then take the next dose at the regularly scheduled time.
 If more than 6 hours have passed since the time the dose is usually taken, the patient should be advised to wait until the next scheduled dose.
 
-Patients receiving Kalydeco in a combination regimen should be advised not to take more than one dose of either medicine at the same time.
+Patients receiving Kalydeco in a combination regimen should be advised not to take more than one dose of either medicinal product at the same time.
+
 Concomitant use of CYP3A inhibitors
 
 When co-administered with moderate or strong inhibitors of CYP3A, either as monotherapy or in a combination regimen with tezacaftor/ivacaftor or ivacaftor/tezacaftor/elexacaftor, the dose should be reduced (see Table 2 for the recommended dose).
@@ -41,15 +42,15 @@ Table 2: Dosing recommendations for concomitant use with moderate or strong CYP3
 |  | Moderate CYP3A inhibitors | Strong CYP3A inhibitors |
 | --- | --- | --- |
 | Ivacaftor as monotherapy |  |  |
-| 6 years and older, ≥25 kg | One morning tablet of ivacaftor 150 mg once daily. No evening dose. | One morning tablet of ivacaftor 150 mg twice a week, approximately 3 to 4 days apart. No evening dose. |
+| 6 years and older, ≥ 25 kg | One morning tablet of ivacaftor 150 mg once daily. No evening dose. | One morning tablet of ivacaftor 150 mg twice a week, approximately 3 to 4 days apart. No evening dose. |
 | Ivacaftor in a combination regimen with tezacaftor/ivacaftor |  |  |
-| 6 years to <12 years, <30 kg | Alternate each morning: - one tablet of tezacaftor 50 mg/ivacaftor 75 mg on the first day - one tablet of ivacaftor 75 mg on the next day. Continue alternating tablets each day. No evening dose. | One morning tablet of tezacaftor 50 mg/ivacaftor 75 mg twice a week, approximately 3 to 4 days apart. No evening dose. |
-| 6 years <12 years, ≥30 kg | Alternate each morning: - one tablet of tezacaftor 100 mg/ivacaftor 150 mg once daily on the first day - one tablet of ivacaftor 150 mg on the next day. Continue alternating each day. No evening dose. | One morning tablet of tezacaftor 100 mg/ivacaftor 150 mg twice a week, approximately 3 to 4 days apart. No evening dose. |
+| 6 years to < 12 years, < 30 kg | Alternate each morning: - one tablet of tezacaftor 50 mg/ivacaftor 75 mg on the first day - one tablet of ivacaftor 75 mg on the next day. Continue alternating tablets each day. No evening dose. | One morning tablet of tezacaftor 50 mg/ivacaftor 75 mg twice a week, approximately 3 to 4 days apart. No evening dose. |
+| 6 years to < 12 years, ≥ 30 kg | Alternate each morning: - one tablet of tezacaftor 100 mg/ivacaftor 150 mg once daily on the first day - one tablet of ivacaftor 150 mg on the next day Continue alternating each day. No evening dose. | One morning tablet of tezacaftor 100 mg/ivacaftor 150 mg twice a week, approximately 3 to 4 days apart. No evening dose. |
 | 12 years and older | Alternate each morning: - one tablet of tezacaftor 100 mg/ivacaftor 150 mg on the first day - one tablet of ivacaftor 150 mg on the next day Continue alternating tablets each day. No evening dose. | One morning tablet of tezacaftor 100 mg/ivacaftor 150 mg twice a week, approximately 3 to 4 days apart. No evening dose. |
 | Ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor |  |  |
-| 6 to <12 years, <30 kg | Alternate each morning: - two tablets of ivacaftor 37.5 mg/tezacaftor 25 mg/ elexacaftor 50 mg on the first day - one tablet of ivacaftor 75 mg on the next day Continue alternating tablets each day. No evening dose. | Two morning tablets of ivacaftor 37.5 mg/tezacaftor 25 mg/ elexacaftor 50 mg twice a week, approximately 3 to 4 days apart. No evening dose. |
-| 6 to <12 years, ≥30 kg | Alternate each morning: - two tablets of ivacaftor 75 mg/tezacaftor 50 mg/ elexacaftor 100 mg on the first day - one tablet of ivacaftor 150 mg on the next day Continue alternating tablets each day. No evening dose. | Two morning tablets of ivacaftor 75 mg/tezacaftor 50 mg/ elexacaftor 100 mg twice a week, approximately 3 to 4 days apart. No evening dose. |
-| 12 years and older | Alternate each morning: - two tablets of ivacaftor 75 mg/tezacaftor 50 mg/elexac aftor 100 mg on the first day - one tablet of ivacaftor 150 mg on the next day Continue alternating tablets each day. No evening dose. | Two morning tablets of ivacaftor 75 mg/tezacaftor 50 mg/elexacaf tor 100 mg twice a week, approximately 3 to 4 days apart. No evening dose. |
+| 6 years to < 12 years, < 30 kg | Alternate each morning: - two tablets of ivacaftor 37.5 mg/tezacaftor 25 mg/ elexacaftor 50 mg on the first day - one tablet of ivacaftor 75 mg on the next day Continue alternating tablets each day. No evening dose. | Two morning tablets of ivacaftor 37.5 mg/tezacaftor 25 mg/ elexacaftor 50 mg twice a week, approximately 3 to 4 days apart. No evening dose. |
+| 6 years to < 12 years, ≥ 30 kg | Alternate each morning: - two tablets of ivacaftor 75 mg/tezacaftor 50 mg/ elexacaftor 100 mg on the first day - one tablet of ivacaftor 150 mg on the next day Continue alternating tablets each day. No evening dose. | Two morning tablets of ivacaftor 75 mg/tezacaftor 50 mg/ elexacaftor 100 mg twice a week, approximately 3 to 4 days apart. No evening dose. |
+| 12 years and older | Alternate each morning: - two tablets of ivacaftor 75 mg/tezacaftor 50 mg/elexa caftor 100 mg on the first day - one tablet of ivacaftor 150 mg on the next day Continue alternating tablets each day. No evening dose. | Two morning tablets of ivacaftor 75 mg/tezacaftor 50 mg/elexacaf tor 100 mg twice a week, approximately 3 to 4 days apart. No evening dose. |
 
 Special populations
 
@@ -78,17 +79,17 @@ Table 3: Dosing recommendations for patients with moderate or severe hepatic imp
 |  | Moderate (Child-Pugh Class B) | Severe (Child-Pugh Class C) |
 | --- | --- | --- |
 | Ivacaftor as monotherapy |  |  |
-| 6 years and older, ≥25 kg | One morning tablet of ivacaftor 150 mg once daily. | Use is not recommended unless the benefits are expected to outweigh the risks. |
+| 6 years and older, ≥ 25 kg | One morning tablet of ivacaftor 150 mg once daily. | Use is not recommended unless the benefits are expected to outweigh the risks. |
 |  | No evening dose. | If used: one morning tablet of ivacaftor 150 mg every other day or less frequently. |
 |  |  | Dosing interval should be modified according to clinical response and tolerability. No evening dose. |
 | Ivacaftor in a combination regimen with tezacaftor/ivacaftor |  |  |
-| 6 years to <12 years, <30 kg | One morning tablet of tezacaftor 50 mg/ivacaftor 75 mg once daily. | Use is not recommended unless the benefits are expected to outweigh the risks. |
+| 6 years to < 12 years, < 30 kg | One morning tablet of tezacaftor 50 mg/ivacaftor 75 mg once daily. | Use is not recommended unless the benefits are expected to outweigh the risks. |
 |  | No evening dose. | If used: one morning tablet of tezacaftor 50 mg/ivacaftor 75 mg once daily or less frequently. Dosing interval should be modified according to clinical response and tolerability. No evening dose. |
-| 6 years to <12 years, ≥30 kg | One morning tablet of tezacaftor 100 mg/ivacaftor 150 mg once daily. No evening dose. | Use is not recommended unless the benefits are expected to outweigh the risks. If used: one morning tablet of tezacaftor 100 mg/ivacaftor 150 mg once daily or less frequently. Dosing interval should be modified according to clinical response and tolerability. No evening dose. |
+| 6 years to < 12 years, ≥ 30 kg | One morning tablet of tezacaftor 100 mg/ivacaftor 150 mg once daily. No evening dose. | Use is not recommended unless the benefits are expected to outweigh the risks. If used: one morning tablet of tezacaftor 100 mg/ivacaftor 150 mg once daily or less frequently. Dosing interval should be modified according to clinical response and tolerability. No evening dose. |
 | 12 years and older | One morning tablet of tezacaftor 100 mg/ivacaftor 150 m g once daily. No evening dose. | Use is not recommended unless the benefits are expected to outweigh the risks. If used: one morning tablet of tezacaftor 100 mg/ivacaftor 150 mg once daily or less frequently. Dosing interval should be modified according to clinical response and tolerability. No evening dose. |
 | Ivacaftor in a combination regimen with ivacaftor/tezacaftor/elexacaftor |  |  |
-| 6 to <12 years, <30 kg | Use not recommended. Use should only be considered when there is a clear medical need and the benefits are expected to outweigh the risks. If used: alternate each day between two ivacaftor 37.5 mg/tezacaftor 25 m g/ elexacaftor 50 mg tablets and one ivacaftor 37.5 mg/tezacaftor 25 m g/ elexacaftor 50 mg tablet. No evening dose. | Should not be used. |
-| 6 to <12 years, ≥30 kg | Use not recommended. Use should only be considered when there is a clear medical need and the benefits are expected to outweigh the risks. If used: alternate each day between two ivacaftor 75 mg/tezacaftor 50 mg/ elexacaftor 100 mg tablets and one ivacaftor 75 mg/tezacaftor 50 mg/ elexacaftor 100 mg tablet. No evening dose. | Should not be used. |
+| 6 years to < 12 years, < 30 kg | Use not recommended. Use should only be considered when there is a clear medical need and the benefits are expected to outweigh the risks. If used: alternate each day between two ivacaftor 37.5 mg/tezacaftor 25 m g/ elexacaftor 50 mg tablets and one ivacaftor 37.5 mg/tezacaftor 25 m g/ elexacaftor 50 mg tablet. No evening dose. | Should not be used. |
+| 6 years to < 12 years, ≥ 30 kg | Use not recommended. Use should only be considered when there is a clear medical need and the benefits are expected to outweigh the risks. If used: alternate each day between two ivacaftor 75 mg/tezacaftor 50 mg/ elexacaftor 100 mg tablets and one ivacaftor 75 mg/tezacaftor 50 mg/ elexacaftor 100 mg tablet. No evening dose. | Should not be used. |
 | 12 years and older | Use not recommended. Use should only be considered when there is a clear medical need and the benefits are expected to outweigh the risks.* If used: alternate each day between two ivacaftor 75 mg/tezacaftor 50 mg/ elexacaftor 100 mg tablets and one ivacaftor 75 mg/tezacaftor 50 mg/ elexacaftor 100 mg tablet. No evening dose. | Should not be used.* |
 
 * See sections 4.4 and 4.8
@@ -135,7 +136,7 @@ When co-administered with moderate inhibitors of CYP3A in patients aged 6 months
 
 Due to the variability in maturation of the cytochrome (CYP) enzymes involved in ivacaftor metabolism, treatment with ivacaftor is not recommended when co-administered with moderate or strong inhibitors of CYP3A in patients aged 4 months to less than 6 months, unless the benefits outweigh the risks.
 In such cases, the recommended dose is one packet of 25 mg granules twice weekly or less frequently (see sections 4.4 and 4.5).
-Dosing intervals should be modified according to clinical response and tolerability (see sections 4.4 and 5.2)
+Dosing intervals should be modified according to clinical response and tolerability (see sections 4.4 and 5.2).
 
 No dose adjustment is necessary for patients aged 6 months and older with mild hepatic impairment (Child-Pugh Class A). For patients aged 6 months and older with moderate hepatic impairment (Child-Pugh Class B), a reduced dose of one sachet (ivacaftor 25 mg for patients 5 kg to < 7 kg; ivacaftor 50 mg for patients 7 kg to < 14 kg; ivacaftor 75 mg for patients 14 kg to < 25 kg) once daily is recommended.
 There is no experience of the use of ivacaftor in patients aged 6 months and older with severe hepatic impairment (Child-Pugh Class C); therefore, its use is not recommended unless the benefits outweigh the risks.
