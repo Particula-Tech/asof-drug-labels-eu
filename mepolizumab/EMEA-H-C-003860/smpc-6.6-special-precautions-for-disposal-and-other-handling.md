@@ -3,9 +3,9 @@
 Before administration, the solution should be inspected visually.
 The liquid should be clear to opalescent, colourless to pale yellow to pale brown.
 If the solution is cloudy, discoloured or contains particles, the solution should not be used.
-After removing the pre-filled pen or pre-filled syringe from the refrigerator, allow the pen or syringe to reach room temperature for at least 30 minutes before injecting Nucala.
+After removing the pre-filled pen or pre-filled syringe(s) from the refrigerator, allow the pen or syringe(s) to reach room temperature for at least 30 minutes before injecting Nucala.
 
-Comprehensive instructions for subcutaneous administration of Nucala in a pre-filled pen or pre-filled syringe are provided at the end of the package leaflet.
+Comprehensive instructions for subcutaneous administration of Nucala in a pre-filled pen or pre-filled syringe(s) are provided at the end of the package leaflet.
 
 Disposal
 
@@ -16,6 +16,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 Reconstitution should be carried out under aseptic conditions.
 
 Instructions for reconstitution for each vial
+
 1.
 Reconstitute the contents of the vial with 1.2 mL of sterile water for injections preferably using a 2 to 3 mL syringe and a 21 gauge needle.
 The stream of sterile water should be directed vertically, onto the centre of the lyophilised cake.
@@ -40,6 +41,7 @@ The reconstituted solution, if not used immediately must be:
 - Discarded if not used within 8 hours of reconstitution
 
 Instructions for administration of 100 mg dose
+
 For subcutaneous administration, a 1 mL polypropylene syringe fitted with a disposable needle 21 gauge to 27 gauge x 0.5 inch (13 mm) should preferably be used.
 Just prior to administration, remove 1 mL of reconstituted Nucala.
 Do not shake the reconstituted solution during the procedure as this could lead to product foaming or precipitation.
@@ -49,6 +51,7 @@ If more than one vial is required for administration of the prescribed dosage, r
 It is recommended that individual injection sites are separated by at least 5 cm.
 
 Instructions for administration of 40 mg dose
+
 Just prior to administration, remove 0.4mL of reconstituted Nucala.
 Dispose of the remaining solution.
 Administer the 0.4mL injection (equivalent to 40 mg mepolizumab) subcutaneously into the upper arm, thigh, or abdomen.

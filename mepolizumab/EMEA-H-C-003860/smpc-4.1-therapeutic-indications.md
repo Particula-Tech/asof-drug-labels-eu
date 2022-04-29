@@ -11,7 +11,6 @@ Nucala is indicated as an add-on therapy with intranasal corticosteroids for the
 Eosinophilic granulomatosis with polyangiitis (EGPA)
 
 Nucala is indicated as an add-on treatment for patients aged 6 years and older with relapsing-remitting or refractory eosinophilic granulomatosis with polyangiitis (EGPA).
-
 Hypereosinophilic syndrome (HES)
 
 Nucala is indicated as an add-on treatment for adult patients with inadequately controlled hypereosinophilic syndrome without an identifiable non-haematologic secondary cause (see section 5.1).

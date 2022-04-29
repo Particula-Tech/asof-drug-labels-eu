@@ -8,6 +8,10 @@ Nucala 100 mg solution for injection in pre-filled syringe
 
 Each 1 ml pre-filled syringe contains 100 mg of mepolizumab.
 
+Nucala 40 mg solution for injection in pre-filled syringe
+
+Each 0.4 mL pre-filled syringe contains 40 mg of mepolizumab.
+
 Mepolizumab is a humanised monoclonal antibody produced in Chinese hamster ovary cells by recombinant DNA technology.
 
 For the full list of excipients, see section 6.1.

@@ -12,11 +12,11 @@ In patients with asthma the absolute bioavailability of mepolizumab administered
 Following repeat subcutaneous administration every 4 weeks, there is approximately a two-fold accumulation at steady state.
 
 Distribution
-
 Following a single intravenous administration to patients with asthma, mepolizumab distributes into a mean volume of distribution of 55 to 85 mL/kg.
 
 Biotransformation
-Mepolizumab is a humanized IgG1 monoclonal antibody degraded by proteolytic enzymes which are widely distributed in the body and not restricted to hepatic tissue.
+
+Mepolizumab is a humanised IgG1 monoclonal antibody degraded by proteolytic enzymes which are widely distributed in the body and not restricted to hepatic tissue.
 
 Elimination
 

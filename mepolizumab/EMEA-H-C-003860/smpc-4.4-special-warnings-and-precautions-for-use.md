@@ -3,7 +3,6 @@
 Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
-
 Asthma exacerbations
 
 Mepolizumab should not be used to treat acute asthma exacerbations.
@@ -22,6 +21,7 @@ Acute and delayed systemic reactions, including hypersensitivity reactions (e.g.
 These reactions generally occur within hours of administration, but in some instances have a delayed onset (i.e., typically within several days).
 These reactions may occur for the first time after a long duration of treatment (see section 4.8).
 In the event of a hypersensitivity reaction, appropriate treatment as clinically indicated should be initiated.
+
 Parasitic infections
 
 Eosinophils may be involved in the immunological response to some helminth infections.
