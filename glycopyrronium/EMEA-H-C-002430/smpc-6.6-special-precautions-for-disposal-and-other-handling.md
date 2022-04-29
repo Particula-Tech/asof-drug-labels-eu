@@ -16,14 +16,13 @@ pressing both side
 buttons at the same time.
 You should hear a noise If there is powder left in
 as the capsule is pierced. the capsule:
-Only pierce the capsule Close the inhaler.
-once. Repeat steps 3a to 3c.
+Only pierce the capsule • Close the inhaler.
+once. • Repeat steps 3a to 3c.
 Step 1b: Step 3b:
 Open inhaler Inhale medicine deeply
 Powder Empty
 Hold the inhaler as
-remaining
-shown in the picture.
+shown in the picture. remaining
 Place the mouthpiece in
 your mouth and close
 your lips firmly around
@@ -40,9 +39,9 @@ medicine as you inhale.
 Step 1c: Remove empty capsule
 Remove capsule Put the empty capsule in
 Separate one of the your household waste.
-blisters from the blister
-card. Close the inhaler and
-Peel open the blister and replace the cap.
+blisters from the blister Close the inhaler and
+card. replace the cap.
+Peel open the blister and
 remove the capsule.
 Do not push the capsule
 through the foil. Step 3c:
@@ -62,8 +61,8 @@ directly into the blister.
 mouthpiece. • Do not swallow the
 capsule.
 - Do not use the Seebri
-Breezhaler capsules
-with any other inhaler.
+Breezhaler capsules with
+any other inhaler.
 - Do not use the Seebri
 Breezhaler inhaler to
 take any other capsule

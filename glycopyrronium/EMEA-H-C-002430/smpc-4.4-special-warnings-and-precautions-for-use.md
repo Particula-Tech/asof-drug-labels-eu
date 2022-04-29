@@ -16,7 +16,6 @@ Anticholinergic effect
 Seebri Breezhaler should be used with caution in patients with narrow-angle glaucoma or urinary retention.
 
 Patients should be informed about the signs and symptoms of acute narrow-angle glaucoma and should be informed to stop using Seebri Breezhaler and to contact their doctor immediately should any of these signs or symptoms develop.
-
 Patients with severe renal impairment
 A moderate mean increase in total systemic exposure (AUClast) of up to 1.4-fold was seen in subjects with mild and moderate renal impairment and up to 2.2-fold in subjects with severe renal impairment and end-stage renal disease.
 In patients with severe renal impairment (estimated glomerular filtration rate below 30 ml/min/1.73 m2), including those with end-stage renal disease requiring dialysis, Seebri Breezhaler should be used only if the expected benefit outweighs the potential risk (see section 5.2).
@@ -27,4 +26,4 @@ Patients with unstable ischaemic heart disease, left ventricular failure, histor
 Seebri Breezhaler should be used with caution in these patient groups.
 
 Excipients
-Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.

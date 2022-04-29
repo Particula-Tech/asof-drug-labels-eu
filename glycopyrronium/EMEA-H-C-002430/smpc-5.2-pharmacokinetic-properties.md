@@ -14,7 +14,6 @@ Distribution
 After intravenous dosing, the steady-state volume of distribution of glycopyrronium was 83 litres and the volume of distribution in the terminal phase was 376 litres.
 The apparent volume of distribution in the terminal phase following inhalation was almost 20-fold larger, which reflects the much slower elimination after inhalation.
 The in vitro human plasma protein binding of glycopyrronium was 38% to 41% at concentrations of 1 to 10 nanograms/ml.
-
 Biotransformation
 In vitro metabolism studies showed consistent metabolic pathways for glycopyrronium bromide between animals and humans.
 Hydroxylation resulting in a variety of mono-and bis-hydroxylated metabolites and direct hydrolysis resulting in the formation of a carboxylic acid derivative (M9) were seen.
@@ -54,11 +53,11 @@ Gender, smoking status and baseline FEV1 had no apparent effect on systemic expo
 
 There were no major differences in total systemic exposure (AUC) between Japanese and Caucasian subjects following inhalation of glycopyrronium bromide.
 Insufficient pharmacokinetic data is available for other ethnicities or races.
-
 Patients with hepatic impairment
 Clinical studies have not been conducted in patients with hepatic impairment.
 Glycopyrronium is cleared predominantly from the systemic circulation by renal excretion.
 Impairment of the hepatic metabolism of glycopyrronium is not thought to result in a clinically relevant increase of systemic exposure.
+
 Patients with renal impairment
 Renal impairment has an impact on the systemic exposure to glycopyrronium bromide.
 A moderate mean increase in total systemic exposure (AUClast) of up to 1.4-fold was seen in subjects with mild and moderate renal impairment and up to 2.2-fold in subjects with severe renal impairment and end-stage renal disease.

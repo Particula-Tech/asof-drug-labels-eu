@@ -43,6 +43,7 @@ In the pooled 6-month database the frequency of dry mouth was 2.2% versus 1.1%, 
 Dry mouth was reported mainly during the first 4 weeks of treatment with a median duration of four weeks in the majority of patients.
 However in 40% of cases symptoms continued for the entire 6- month period.
 No new cases of dry mouth were reported in months 7-12.
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
