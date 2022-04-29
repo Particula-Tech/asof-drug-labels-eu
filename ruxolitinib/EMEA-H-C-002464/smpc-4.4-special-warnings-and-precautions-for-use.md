@@ -4,16 +4,15 @@ Myelosuppression
 
 Treatment with Jakavi can cause haematological adverse drug reactions, including thrombocytopenia, anaemia and neutropenia.
 A complete blood count, including a white blood cell count differential, must be performed before initiating therapy with Jakavi.
-Treatment should be discontinued in patients with platelet count less than 50,000/mm3 or absoute neutrophil count less than 500/mm3 (see section 4.2).
+Treatment should be discontinued in MF patients with platelet count less than 50,000/mm3 or absoute neutrophil count less than 500/mm3 (see section 4.2).
 
-It has been observed that patients with low platelet counts (<200,000/mm3) at the start of therapy are more likely to develop thrombocytopenia during treatment.
+It has been observed that MF patients with low platelet counts (<200,000/mm3) at the start of therapy are more likely to develop thrombocytopenia during treatment.
 
 Thrombocytopenia is generally reversible and is usually managed by reducing the dose or temporarily withholding Jakavi (see sections 4.2 and 4.8).
 However, platelet transfusions may be required as clinically indicated.
 
 Patients developing anaemia may require blood transfusions.
-Dose modifications or interruption for patients developing anaemia may also be considered.
-
+Dose modifications or interruption for patients developing anaemia may also need to be considered.
 Patients with a haemoglobin level below 10.0 g/dl at the beginning of the treatment have a higher risk of developing a haemoglobin level below 8.0 g/dl during treatment compared to patients with a higher baseline haemoglobin level (79.3% versus 30.1%).
 More frequent monitoring of haematology parameters and of clinical signs and symptoms of Jakavi-related adverse drug reactions is recommended for patients with baseline haemoglobin below 10.0 g/dl.
 
@@ -36,6 +35,7 @@ Prescribers are reminded of the risk of false negative tuberculin skin test resu
 Hepatitis B viral load (HBV-DNA titre) increases, with and without associated elevations in alanine aminotransferase and aspartate aminotransferase, have been reported in patients with chronic HBV infections taking Jakavi.
 It is recommended to screen for HBV prior to commencing treatment with Jakavi.
 Patients with chronic HBV infection should be treated and monitored according to clinical guidelines.
+
 Herpes zoster
 
 Physicians should educate patients about early signs and symptoms of herpes zoster, advising that treatment should be sought as early as possible.
@@ -50,10 +50,9 @@ If PML is suspected, further dosing must be suspended until PML has been exclude
 Non-melanoma skin cancer
 
 Non-melanoma skin cancers (NMSCs), including basal cell, squamous cell, and Merkel cell carcinoma, have been reported in patients treated with ruxolitinib.
-Most of these patients had histories of extended treatment with hydroxyurea and prior NMSC or pre-malignant skin lesions.
+Most of the MF and PV patients had histories of extended treatment with hydroxyurea and prior NMSC or pre-malignant skin lesions.
 A causal relationship to ruxolitinib has not been established.
 Periodic skin examination is recommended for patients who are at increased risk for skin cancer.
-
 Lipid abnormalities/elevations
 
 Treatment with Jakavi has been associated with increases in lipid parameters including total cholesterol, high-density lipoprotein (HDL) cholesterol, low-density lipoprotein (LDL) cholesterol, and triglycerides.
@@ -63,19 +62,21 @@ Special populations
 
 Renal impairment
 The starting dose of Jakavi should be reduced in patients with severe renal impairment.
-For patients with end-stage renal disease on haemodialysis the starting dose for MF patients should be based on platelet counts (see section 4.2).
+For patients with end-stage renal disease on haemodialysis the starting dose should be based on platelet counts for MF patients, while the recommended starting dose is a single dose of 10 mg for PV patients (see section 4.2).
 Subsequent doses (single dose of 20 mg or two doses of 10 mg given 12 hours apart in MF patients; single dose of 10 mg or two doses of 5 mg given 12 hours apart in PV patients) should be administered only on haemodialysis days following each dialysis session.
 Additional dose modifications should be made with careful monitoring of safety and efficacy (see sections 4.2 and 5.2).
 
 Hepatic impairment
-The starting dose of Jakavi should be reduced by approximately 50% in patients with hepatic impairment.
-Further dose modifications should be based on the safety and efficacy of the medicinal product (see sections 4.2 and 5.2).
+The starting dose of Jakavi should be reduced by approximately 50% in MF and PV patients with hepatic impairment.
+Further dose modifications should be based on the safety and efficacy of the medicinal product.
+In GvHD patients with hepatic impairment not related to GvHD, the starting dose of Jakavi should be reduced by approximately 50% (see sections 4.2 and 5.2).
 
 Interactions
 
 If Jakavi is to be co-administered with strong CYP3A4 inhibitors or dual inhibitors of CYP3A4 and CYP2C9 enzymes (e.g. fluconazole), the unit dose of Jakavi should be reduced by approximately 50%, to be administered twice daily (for monitoring frequency see sections 4.2 and 4.5).
 
 The concomitant use of cytoreductive therapies with Jakavi was associated with manageable cytopenias (see section 4.2 for dose modifications during cytopenias).
+
 Withdrawal effects
 
 Following interruption or discontinuation of Jakavi, symptoms of MF may return over a period of approximately one week.

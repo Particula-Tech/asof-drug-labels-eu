@@ -13,6 +13,7 @@ In healthy subjects co-administration of ruxolitinib (10 mg single dose) with a 
 The half-life was prolonged from 3.7 to 6.0 hours with concurrent ketoconazole administration.
 
 When administering ruxolitinib with strong CYP3A4 inhibitors the unit dose of ruxolitinib should be reduced by approximately 50%, to be administered twice daily.
+
 Patients should be closely monitored (e.g. twice weekly) for cytopenias and dose titrated based on safety and efficacy (see section 4.2).
 
 Dual CYP2C9 and CYP3A4 inhibitors
@@ -20,6 +21,7 @@ In healthy subjects co-administration of ruxolitinib (10 mg single dose) with a 
 
 50% dose reduction should be considered when using medicinal products which are dual inhibitors of CYP2C9 and CYP3A4 enzymes (e.g. fluconazole).
 Avoid the concomitant use of ruxolitinib with fluconazole doses greater than 200 mg daily.
+
 Enzyme inducers
 
 CYP3A4 inducers (such as, but not limited to, avasimibe, carbamazepine, phenobarbital, phenytoin, rifabutin, rifampin (rifampicin), St.John’s wort (Hypericum perforatum))
@@ -30,7 +32,6 @@ The exposure of ruxolitinib active metabolites was unchanged.
 Overall, the ruxolitinib pharmacodynamic activity was similar, suggesting the CYP3A4 induction resulted in minimal effect on the pharmacodynamics.
 However, this could be related to the high ruxolitinib dose resulting in pharmacodynamic effects near Emax.
 It is possible that in the individual patient, an increase of the ruxolitinib dose is needed when initiating treatment with a strong enzyme inducer.
-
 Other interactions to be considered affecting ruxolitinib
 
 Mild or moderate CYP3A4 inhibitors (such as, but not limited to, ciprofloxacin, erythromycin, amprenavir, atazanavir, diltiazem, cimetidine)

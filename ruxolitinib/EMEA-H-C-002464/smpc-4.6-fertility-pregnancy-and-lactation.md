@@ -9,6 +9,7 @@ Teratogenicity was not observed in rats or rabbits.
 However, the exposure margins compared to the highest clinical dose were low and the results are therefore of limited relevance for humans (see section 5.3).
 The potential risk for humans is unknown.
 As a precautionary measure, the use of Jakavi during pregnancy is contraindicated (see section 4.3).
+
 Women of childbearing potential/Contraception
 
 Women of child-bearing potential should use effective contraception during the treatment with Jakavi.
@@ -20,7 +21,6 @@ Jakavi must not be used during breast-feeding (see section 4.3) and breast-feedi
 It is unknown whether ruxolitinib and/or its metabolites are excreted in human milk.
 A risk to the breast-fed child cannot be excluded.
 Available pharmacodynamic/toxicological data in animals have shown excretion of ruxolitinib and its metabolites in milk (see section 5.3).
-
 Fertility
 
 There are no human data on the effect of ruxolitinib on fertility.
