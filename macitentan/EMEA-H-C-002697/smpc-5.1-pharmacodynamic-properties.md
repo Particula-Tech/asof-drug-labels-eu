@@ -51,7 +51,8 @@ Table 1 Summary of outcome events
 | Death c n (%) | 19 (7.6%) | 14 (5.8%) | 2% | 36% (−42%; 71%) | 0.64 (0.29; 1.42) | 0.20 |
 | Worsening of PAH n (%) | 93 (37.2%) | 59 (24.4%) | 13% | 49% (27%; 65%) | 0.51 (0.35; 0.73) | < 0.0001 |
 | i.v./s.c. prostanoid initiation n (%) | 6 (2.4%) | 1 (0.4%) | 2% |  |  |  |
-| a = based on Cox’s Proportional Hazards Model b = % of patients with an event at 36 months = 100 × (1 - KM estimate) c= all cause death up to EOT regardless of prior worsening |  |  |  |  |  |  |
+
+a = based on Cox’s Proportional Hazards Model b = % of patients with an event at 36 months = 100 × (1 - KM estimate) c = all cause death up to EOT regardless of prior worsening
 
 The number of deaths of all causes up to EOS on macitentan 10 mg was 35 versus 44 on placebo (HR 0.77; 97.5% CI: 0.46 to 1.28).
 
@@ -75,6 +76,11 @@ Haemodynamic endpoints
 
 Haemodynamic parameters were assessed in a subset of patients (placebo [N = 67], macitentan 10 mg [N = 57]) after 6 months of treatment.
 Patients treated with macitentan 10 mg achieved a median reduction of 36.5% (97.5% CI: 21.7 to 49.2%) in pulmonary vascular resistance and an increase of 0.58 L/min/m2 (97.5% CI: 0.28 to 0.93 L/min/m2) in cardiac index compared to placebo.
+
+Long-term data in PAH
+
+In long-term follow-up of 242 patients who were treated with macitentan 10 mg in the double-blind (DB) phase of the SERAPHIN study, 182 of which continued with macitentan in the open-label (OL) extension study (SERAPHIN OL) (DB/OL cohort), Kaplan-Meier estimates of survival at 1, 2, 5, 7 and 9 years were 95%, 89%, 73%, 63% and 53%, respectively.
+The median follow-up time was 5.9 years.
 
 Paediatric population
 

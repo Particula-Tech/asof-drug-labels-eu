@@ -19,7 +19,6 @@ It is unknown whether macitentan is excreted in human milk.
 In rats, macitentan and its metabolites are excreted into milk during lactation (see section 5.3).
 A risk to the breastfeeding child cannot be excluded.
 Opsumit is contraindicated during breastfeeding (see section 4.3).
-
 Male fertility
 
 The development of testicular tubular atrophy in male animals was observed after treatment with macitentan (see section 5.3).

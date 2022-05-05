@@ -13,11 +13,11 @@ Maximum plasma concentrations of macitentan are achieved about 8 hours after adm
 Thereafter, plasma concentrations of macitentan and its active metabolite decrease slowly, with an apparent elimination half-life of approximately 16 hours and 48 hours, respectively.
 
 In healthy subjects, the exposure to macitentan and its active metabolite is unchanged in the presence of food and, therefore, macitentan may be taken with or without food.
-
 Distribution
 
 Macitentan and its active metabolite are highly bound to plasma proteins (> 99%), primarily to albumin and to a lesser extent to alpha1-acid glycoprotein.
 Macitentan and its active metabolite ACT-132577 are well distributed into tissues as indicated by an apparent volume of distribution (Vss/F) of approximately 50 L and 40 L for macitentan and ACT-132577, respectively.
+
 Biotransformation
 
 Macitentan has four primary metabolic pathways.
@@ -25,7 +25,7 @@ Oxidative depropylation of the sulfamide yields a pharmacologically active metab
 This reaction is dependent on the cytochrome P450 system, mainly CYP3A4 (approximately 99%) with minor contributions of CYP2C8, CYP2C9 and CYP2C19.
 The active metabolite circulates in human plasma and may contribute to the pharmacological effect.
 Other metabolic pathways yield products without pharmacological activity.
-Several members of the CYP2C family, namely CYP2C8, CYP2C9 and CYP2C19, as well as CYP3A4, are involved in the formation of these metabolites.
+For these pathways, CYP2C9 plays a predominant role with minor contributions from CYP2C8, CYP2C19 and CYP3A4.
 
 Elimination
 

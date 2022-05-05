@@ -4,14 +4,15 @@ Summary of the safety profile.
 
 The most commonly reported adverse reactions are nasopharyngitis (14%), headache (13.6%) and anaemia (13.2%, see section 4.4).
 The majority of adverse reactions are mild to moderate in intensity.
+
 Tabulated list of adverse reactions
 
-The safety of macitentan has been evaluated in a long-term placebo-controlled trial of 742 patients with symptomatic PAH.
+The safety of macitentan has been evaluated in a long-term placebo-controlled trial of 742 patients with symptomatic PAH (SERAPHIN study).
 The mean treatment duration was 103.9 weeks in the macitentan 10 mg group, and 85.3 weeks in the placebo group.
 Adverse reactions associated with macitentan obtained from this clinical study are tabulated below.
 
-Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon
-(≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
+Frequencies are defined as: very common (≥1/10); common (≥1/100 to < 1/10); uncommon
+(≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
 
 | System organ class | Frequency | Adverse reaction |
 | --- | --- | --- |
@@ -35,11 +36,11 @@ Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10)
 Description of selected adverse reactions
 
 2 Hypotension has been associated with the use of ERAs including macitentan.
-In a long-term double-blind study in patients with PAH, hypotension was reported for 7.0% and 4.4% of patients on macitentan 10 mg and placebo, respectively.
+In a long-term double--blind study in patients with PAH, hypotension was reported for 7.0% and 4.4% of patients on macitentan 10 mg and placebo, respectively.
 This corresponded to 3.5 events / 100 patient-years on macitentan 10 mg compared to 2.7 events / 100 patient-years on placebo.
 
 3 Oedema/fluid retention has been associated with the use of ERAs including macitentan.
-In a long-term double-blind study in patients with PAH, the incidence of oedema AEs in the macitentan 10 mg and placebo treatment groups was 21.9% and 20.5%, respectively.
+In a long--term double-blind study in patients with PAH, the incidence of oedema AEs in the macitentan 10 mg and placebo treatment groups was 21.9% and 20.5%, respectively.
 In a double-blind study in patients with idiopathic pulmonary fibrosis, the incidence of peripheral oedema AEs in the macitentan and placebo treatment groups was 11.8% and 6.8%, respectively.
 In two double-blind clinical studies in patients with digital ulcers associated with systemic sclerosis, the incidences of peripheral oedema AEs ranged from 13.4% to 16.1% in the macitentan 10 mg groups and from 6.2% to 4.5% in the placebo groups.
 
@@ -60,7 +61,14 @@ A decrease from baseline in haemoglobin concentration to below 10 g/dL was repor
 In a double-blind study in patients with PAH, macitentan 10 mg was associated with a decrease in mean leucocyte count from baseline of 0.7 × 109/L versus no change in placebo-treated patients.
 
 7 Platelets
+
 In a double-blind study in patients with PAH, macitentan 10 mg was associated with a decrease in mean platelet count of 17 × 109/L, versus a mean decrease of 11 × 109/L in placebo-treated patients.
+
+Long-term safety
+
+Of the 742 patients who participated in the pivotal SERAPHIN double-blind study, 550 patients entered a long-term open-label (OL) extension study.
+(The OL cohort included 182 patients who continued on macitentan 10 mg and 368 patients who received placebo or macitentan 3 mg and crossed over to macitentan 10 mg.)
+Long-term follow-up of these 550 patients for a median exposure of 3.3 years and a maximum exposure of 10.9 years showed a safety profile that was consistent as described above during the SERAPHIN double-blind phase.
 
 Paediatric population
 

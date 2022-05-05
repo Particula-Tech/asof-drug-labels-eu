@@ -41,6 +41,12 @@ Concomitant use with strong CYP3A4 inhibitors
 
 Caution should be exercised when macitentan is administered concomitantly with strong CYP3A4 inhibitors (e.g., itraconazole, ketoconazole, voriconazole, clarithromycin, telithromycin, nefazodone, ritonavir, and saquinavir) (see section 4.5).
 
+Concomitant use with moderate dual or combined CYP3A4 and CYP2C9 inhibitors
+
+Caution should be exercised when macitentan is administered concomitantly with moderate dual inhibitors of CYP3A4 and CYP2C9 (e.g., fluconazole and amiodarone) (see section 4.5).
+
+Caution should also be exercised when macitentan is administered concomitantly with both a moderate CYP3A4 inhibitor (e.g., ciprofloxacin, cyclosporine, diltiazem, erythromycin, verapamil) and moderate CYP2C9 inhibitor (e.g., miconazole, piperine) (see section 4.5).
+
 Renal impairment
 
 Patients with renal impairment may run a higher risk of experiencing hypotension and anaemia during treatment with macitentan.
@@ -48,7 +54,6 @@ Therefore, monitoring of blood pressure and haemoglobin should be considered.
 There is no clinical experience with the use of macitentan in PAH patients with severe renal impairment.
 Caution is recommended in this population.
 There is no experience with the use of macitentan in patients undergoing dialysis, therefore Opsumit is not recommended in this population (see sections 4.2 and 5.2).
-
 Elderly
 
 There is limited clinical experience with macitentan in patients over the age of 75 years, therefore Opsumit should be used with caution in this population (see section 4.2).
@@ -57,6 +62,7 @@ Excipients
 
 Opsumit contains lactose.
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+
 Opsumit contains soya bean lecithin.
 If a patient is hypersensitive to soya, Opsumit must not be used (see section 4.3).
 
