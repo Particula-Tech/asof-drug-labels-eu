@@ -54,11 +54,12 @@ ONJ has been reported rarely, in 16 patients, in clinical trials in osteoporosis
 Thirteen of these ONJ cases occurred in postmenopausal women with osteoporosis during the phase III clinical trial extension following treatment with denosumab for up to 10 years.
 Incidence of ONJ was 0.04% at 3 years, 0.06% at 5 years and 0.44% at 10 years of denosumab treatment.
 The risk of ONJ increased with duration of exposure to denosumab.
+
 Atypical fractures of the femur
 In the osteoporosis clinical trial program, atypical femoral fractures were reported rarely in patients treated with denosumab (see section 4.4).
 
 Diverticulitis
-In a single phase III placebo-controlled clinical trial in patients with prostate cancer receiving androgen deprivation therapy (ADT) an imbalance in diverticulitis adverse events was observed (1.2% denosumab, 0% placebo).
+In a single phase III placebo-controlled clinical trial in patients with prostate cancer receiving androgen deprivation therapy (ADT), an imbalance in diverticulitis adverse events was observed (1.2% denosumab, 0% placebo).
 The incidence of diverticulitis was comparable between treatment groups in postmenopausal women or men with osteoporosis and in women undergoing aromatase inhibitor therapy for non-metastatic breast cancer.
 
 Drug-related hypersensitivity reactions
@@ -73,6 +74,11 @@ Lichenoid drug eruptions
 Lichenoid drug eruptions (e.g. lichen planus-like reactions) have been reported in patients in the post-marketing setting.
 
 Other special populations
+
+Paediatric population
+Prolia should not be used in paediatric patients (age < 18).
+Serious hypercalcaemia has been reported.
+Some clinical trial cases were complicated by acute renal injury.
 
 Renal impairment
 In clinical studies, patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis were at greater risk of developing hypocalcaemia in the absence of calcium supplementation.

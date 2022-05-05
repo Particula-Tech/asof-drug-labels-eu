@@ -22,8 +22,7 @@ Hepatic impairment
 The safety and efficacy of denosumab have not been studied in patients with hepatic impairment (see section 5.2).
 
 Paediatric population
-Prolia is not recommended in paediatric patients (age < 18) as the safety and efficacy of Prolia in these patients have not been established.
-Inhibition of RANK/RANK ligand (RANKL) in animal studies has been coupled to inhibition of bone growth and lack of tooth eruption (see section 5.3).
+Prolia should not be used in children aged < 18 years because of safety concerns of serious hypercalcaemia, and potential inhibition of bone growth and lack of tooth eruption (see sections 4.4 and 5.3).
 
 Method of administration
 

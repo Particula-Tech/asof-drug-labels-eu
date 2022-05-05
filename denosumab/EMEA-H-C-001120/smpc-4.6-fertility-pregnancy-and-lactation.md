@@ -8,6 +8,7 @@ Studies in animals have shown reproductive toxicity (see section 5.3).
 Prolia is not recommended for use in pregnant women and women of child-bearing potential not using contraception.
 Women should be advised not to become pregnant during and for at least 5 months after treatment with Prolia.
 Any effects of Prolia are likely to be greater during the second and third trimesters of pregnancy since monoclonal antibodies are transported across the placenta in a linear fashion as pregnancy progresses, with the largest amount transferred during the third trimester.
+
 Breast-feeding
 
 It is unknown whether denosumab is excreted in human milk.

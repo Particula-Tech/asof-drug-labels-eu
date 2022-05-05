@@ -40,7 +40,7 @@ The following risk factors should be considered when evaluating a patient’s ri
 - potency of the medicinal product that inhibits bone resorption (higher risk for highly potent compounds), route of administration (higher risk for parenteral administration) and cumulative dose of bone resorption therapy.
 - cancer, co-morbid conditions (e.g. anaemia, coagulopathies, infection), smoking.
 - concomitant therapies: corticosteroids, chemotherapy, angiogenesis inhibitors, radiotherapy to head and neck.
-- poor oral hygiene, periodontal disease, poorly fitting dentures, history of dental disease, invasive dental procedures e.g. tooth extractions.
+- poor oral hygiene, periodontal disease, poorly fitting dentures, history of dental disease, invasive dental procedures (e.g. tooth extractions).
 
 All patients should be encouraged to maintain good oral hygiene, receive routine dental check-ups, and immediately report any oral symptoms such as dental mobility, pain or swelling or non-healing of sores or discharge during treatment with denosumab.
 While on treatment, invasive dental procedures should be performed only after careful consideration and be avoided in close proximity to denosumab administration.
@@ -69,6 +69,11 @@ Long-term antiresorptive treatment (including both denosumab and bisphosphonates
 
 Concomitant treatment with other denosumab-containing medicinal products
 Patients being treated with denosumab should not be treated concomitantly with other denosumab-containing medicinal products (for prevention of skeletal related events in adults with bone metastases from solid tumours).
+
+Hypercalcaemia in paediatric patients
+Prolia should not be used in paediatric patients (age < 18).
+Serious hypercalcaemia has been reported.
+Some clinical trial cases were complicated by acute renal injury.
 
 Warnings for excipients
 This medicine contains 47 mg sorbitol in each mL of solution.

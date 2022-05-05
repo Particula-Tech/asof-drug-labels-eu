@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Drugs for treatment of bone diseases – Other drugs affecting bone structure and mineralisation, ATC code: M05BX04
+
 Mechanism of action
 
 Denosumab is a human monoclonal antibody (IgG2) that targets and binds with high affinity and specificity to RANKL, preventing activation of its receptor, RANK, on the surface of osteoclast precursors and osteoclasts.
@@ -39,12 +40,12 @@ The effect of Prolia on the risk of new vertebral fractures
 | 0-3 years | 7.2 | 2.3 | 4.8 (3.9, 5.8) | 68 (59, 74)* |
 
 *p < 0.0001, **p < 0.0001 – exploratory analysis
-
 Effect on hip fractures
 Prolia demonstrated a 40% relative reduction (0.5% absolute risk reduction) in the risk of hip fracture over 3 years (p < 0.05).
 The incidence of hip fracture was 1.2% in the placebo group compared to 0.7% in the Prolia group at 3 years.
 
 In a post-hoc analysis in women > 75 years, a 62% relative risk reduction was observed with Prolia (1.4% absolute risk reduction, p < 0.01).
+
 Effect on all clinical fractures
 Prolia significantly reduced fractures across all fracture types/groups (see table 3).
 
@@ -60,7 +61,7 @@ The effect of Prolia on the risk of clinical fractures over 3 years
 | Major non-vertebral fracture3 | 6.4 | 5.2 | 1.2 (0.1, 2.2) | 20 (3, 34)* |
 | Major osteoporotic fracture4 | 8.0 | 5.3 | 2.7 (1.6, 3.9) | 35 (22, 45)*** |
 
-*p ≤ 0.05; **p = 0.0106 (secondary endpoint included in multiplicity adjustment), ***p ≤ 0.0001
+*p ≤ 0.05, **p = 0.0106 (secondary endpoint included in multiplicity adjustment), ***p ≤ 0.0001
 + Event rates based on Kaplan-Meier estimates at 3 years.
 1 Includes clinical vertebral fractures and non-vertebral fractures.
 2 Excludes those of the vertebrae, skull, facial, mandible, metacarpus, and finger and toe phalanges.
@@ -83,9 +84,9 @@ Open-label extension study in the treatment of postmenopausal osteoporosis
 A total of 4,550 women (2,343 Prolia & 2,207 placebo) who missed no more than one dose of investigational product in the pivotal study described above and completed the month 36 study visit agreed to enrol in a 7-year, multinational, multicentre, open-label, single-arm extension study to evaluate the long-term safety and efficacy of Prolia.
 All women in the extension study were to receive Prolia 60 mg every 6 months, as well as daily calcium (at least 1 g) and vitamin D (at least 400 IU).
 A total of 2,626 subjects (58% of the women included in the extension study i.e. 34% of the women included in the pivotal study) completed the extension study.
-
 In patients treated with Prolia for up to 10 years, BMD increased from the pivotal study baseline by 21.7% at the lumbar spine, 9.2% at the total hip, 9.0% at the femoral neck, 13.0% at the trochanter and 2.8% at the distal 1/3 radius.
-The mean lumbar spine BMD T-score at the end of the study was - 1.3 in patients treated for 10 years.
+The mean lumbar spine BMD T-score at the end of the study was
+−1.3 in patients treated for 10 years.
 
 Fracture incidence was evaluated as a safety endpoint but efficacy in fracture prevention cannot be estimated due to high number of discontinuations and open-label design.
 The cumulative incidence of new vertebral and non-vertebral fractures were approximately 6.8% and 13.1% respectively, in patients who remained on denosumab treatment for 10 years (n = 1,278).
@@ -121,11 +122,11 @@ Prolia significantly increased BMD at all clinical sites measured, relative to t
 In a prospectively planned exploratory analysis, significant increases in BMD were observed at the lumbar spine, total hip, femoral neck and the hip trochanter 1 month after the initial dose.
 
 Prolia demonstrated a significant relative risk reduction of new vertebral fractures: 85% (1.6% absolute risk reduction) at 1 year, 69% (2.2% absolute risk reduction) at 2 years and 62% (2.4% absolute risk reduction) at 3 years (all p < 0.01).
-
 Clinical efficacy and safety in patients with bone loss associated with adjuvant aromatase inhibitor therapy
 
 Efficacy and safety of Prolia once every 6 months for 2 years were investigated in women with non-metastatic breast cancer (252 women aged 35-84 years) and baseline BMD T-scores between -1.0 to -2.5 at the lumbar spine, total hip or femoral neck.
 All women received calcium (at least 1,000 mg) and vitamin D (at least 400 IU) supplementation daily.
+
 The primary efficacy variable was percent change in lumbar spine BMD, fracture efficacy was not evaluated.
 Prolia significantly increased BMD at all clinical sites measured, relative to treatment with placebo at 2 years: 7.6% at lumbar spine, 4.7% at total hip, 3.6% at femoral neck, 5.9% at hip trochanter, 6.1% at distal 1/3 radius and 4.2% at total body (all p < 0.0001).
 
