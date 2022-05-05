@@ -19,12 +19,12 @@ Gradual withdrawal of stimulant treatment is recommended (see section 4.5).
 
 Leucopenia, neutropenia, and agranulocytosis
 Events of leucopenia, neutropenia, and agranulocytosis have been reported with antipsychotic agents, including INVEGA.
-Agranulocytosis has been reported very rarely (< 1/10,000 patients) during post-marketing surveillance.
+Agranulocytosis has been reported very rarely (< 1/10 000 patients) during post-marketing surveillance.
 Patients with a history of a clinically significant low white blood cell count (WBC) or a drug-induced leucopenia/neutropenia should be monitored during the first few months of therapy and discontinuation of INVEGA should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
 Patients with severe neutropenia (absolute neutrophil count < 1 x 109/L) should discontinue INVEGA and have their WBC followed until recovery.
 
-Hyperglycemia and diabetes mellitus
+Hyperglycaemia and diabetes mellitus
 Hyperglycaemia, diabetes mellitus, and exacerbation of pre-existing diabetes have been reported during treatment with paliperidone.
 In some cases, a prior increase in body weight has been reported which may be a predisposing factor.
 Association with ketoacidosis has been reported very rarely and rarely with diabetic coma.
@@ -43,7 +43,7 @@ Paliperidone should be used with caution in patients with possible prolactin-dep
 Orthostatic hypotension
 Paliperidone may induce orthostatic hypotension in some patients based on its alpha-blocking activity.
 Based on pooled data from the three, placebo-controlled, 6-week, fixed-dose trials with INVEGA (3, 6, 9, and 12 mg), orthostatic hypotension was reported by 2.5% of subjects treated with INVEGA compared with 0.8% of subjects treated with placebo.
-INVEGA should be used with caution in patients with known cardiovascular disease (e.g., heart failure, myocardial infarction or ischaemia, conduction abnormalities), cerebrovascular disease, or conditions that predispose the patient to hypotension (e.g., dehydration and hypovolemia).
+INVEGA should be used with caution in patients with known cardiovascular disease (e.g., heart failure, myocardial infarction or ischaemia, conduction abnormalities), cerebrovascular disease, or conditions that predispose the patient to hypotension (e.g., dehydration and hypovolaemia).
 
 Seizures
 INVEGA should be used cautiously in patients with a history of seizures or other conditions that potentially lower the seizure threshold.
@@ -102,7 +102,7 @@ Paediatric population
 The sedative effect of INVEGA should be closely monitored in this population.
 A change in the time of administration of INVEGA may improve the impact of sedation on the patient.
 
-Because of the potential effects of prolonged hyperprolactinemia on growth and sexual maturation in adolescents, regular clinical evaluation of endocrinological status should be considered, including measurements of height, weight, sexual maturation, monitoring of menstrual functioning, and other potential prolactin-related effects.
+Because of the potential effects of prolonged hyperprolactinaemia on growth and sexual maturation in adolescents, regular clinical evaluation of endocrinological status should be considered, including measurements of height, weight, sexual maturation, monitoring of menstrual functioning, and other potential prolactin-related effects.
 
 During treatment with INVEGA regular examination for extrapyramidal symptoms and other movement disorders should also be conducted.
 

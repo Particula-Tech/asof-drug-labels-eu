@@ -6,7 +6,7 @@ In rat reproduction studies using risperidone, which is extensively converted to
 Other dopamine antagonists, when administered to pregnant animals, have caused negative effects on learning and motor development in the offspring.
 Paliperidone was not genotoxic in a battery of tests.
 In oral carcinogenicity studies of risperidone in rats and mice, increases in pituitary gland adenomas (mouse), endocrine pancreas adenomas (rat), and mammary gland adenomas (both species) were seen.
-These tumours can be related to prolonged dopamine D2 antagonism and hyperprolactinemia.
+These tumours can be related to prolonged dopamine D2 antagonism and hyperprolactinaemia.
 The relevance of these tumour findings in rodents in terms of human risk is unknown.
 
 In a 7-week juvenile toxicity study in rats administered oral doses of paliperidone up to 2.5 mg/kg/day, corresponding to an exposure approximately equal to the clinical exposure based on AUC, no effects on growth, sexual maturation and reproductive performance were observed.

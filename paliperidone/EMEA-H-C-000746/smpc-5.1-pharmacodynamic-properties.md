@@ -1,8 +1,8 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacologic group: Psycholeptics, other antipsychotics ATC code: N05AX13
-
+Pharmacologic group: Psycholeptics, other antipsychotics, ATC code: N05AX13
 INVEGA contains a racemic mixture of (+)- and (-)-paliperidone.
+
 Mechanism of action
 Paliperidone is a selective blocking agent of monoamine effects, whose pharmacological properties are different from that of traditional neuroleptics.
 Paliperidone binds strongly to serotonergic 5-HT2-and dopaminergic D2-receptors.
@@ -95,7 +95,7 @@ After having been successfully treated for an acute psychotic or mood episode fo
 The study showed a significantly longer time to relapse in patients treated with the long-acting injectable formulation of paliperidone compared to placebo (p < 0.001).
 Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with INVEGA in all subsets of the paediatric population in the treatment of schizoaffective disorders.
-See section 4.2 for information on paediatric use.
+(See section 4.2 for information on paediatric use).
 
 The efficacy of INVEGA in the treatment of schizophrenia in adolescents between 12 and 14 years old has not been established.
 

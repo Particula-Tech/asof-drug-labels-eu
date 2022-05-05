@@ -31,7 +31,7 @@ Larger decreases in plasma concentrations of paliperidone could occur with highe
 On initiation of carbamazepine, the dose of INVEGA should be re-evaluated and increased if necessary.
 Conversely, on discontinuation of carbamazepine, the dose of INVEGA should be re-evaluated and decreased if necessary.
 It takes 2-3 weeks for full induction to be achieved and upon discontinuation of the inducer the effect wears off over a similar time period.
-Other medicinal products or herbals which are inducers, e.g., rifampicin and St John´s wort (Hypericum perforatum) may have similar effects on paliperidone.
+Other medicinal products or herbals which are inducers, e.g., rifampicin and St. John´s wort (Hypericum perforatum) may have similar effects on paliperidone.
 
 Medicinal products affecting gastrointestinal transit time may affect the absorption of paliperidone, e.g., metoclopramide.
 

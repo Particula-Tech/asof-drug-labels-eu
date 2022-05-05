@@ -10,7 +10,7 @@ In the schizoaffective disorder studies, a greater proportion of subjects in the
 
 Tabulated list of adverse reactions
 The following are all the ADRs that were reported in clinical trials and post-marketing experience with paliperidone by frequency category estimated from INVEGA clinical trials in adults.
-The following terms and frequencies are applied: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), and not known (cannot be estimated from the available data).
+The following terms and frequencies are applied: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1 000 to < 1/100), rare (≥1/10 000 to < 1/1 000), very rare (< 1/10 000), and not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 | System Organ Class | Adverse Drug Reaction |  |  |  |  |
@@ -20,7 +20,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Infections and infestations |  | bronchitis, upper respiratory tract infection, sinusitis, urinary tract infection, influenza | pneumonia, respiratory tract infection, cystitis, ear infection, tonsillitis | eye infection, onychomycosis, cellulitis, acarodermatitis |  |
 | Blood and lymphatic system disorders |  |  | white blood cell count decreased, thrombocytopenia, anaemia, haematocrit decreased | agranulocytosisc, neutropenia, eosinophil count increased |  |
 | Immune system disorders |  |  |  | anaphylactic reaction, hypersensitivity |  |
-| Endocrine disorders |  |  | ha yperprolactinaemia | inappropriate antidiuretic hormone secretionc, glucose urine present |  |
+| Endocrine disorders |  |  | hyperprolactinaemia a | inappropriate antidiuretic hormone secretionc, glucose urine present |  |
 | Metabolism and nutrition disorders |  | weight increased, increased appetite, weight decreased, decreased appetite | diabetes mellitusd, hyperglycaemia, waist circumference increased, anorexia, blood triglycerides increased | water intoxication, diabetic ketoacidosisc, hypoglycaemia, polydipsia, blood cholesterol increased | hyperinsulinaemi a |
 | Psychiatric disorders | insomniae | mania, agitation, depression, anxiety | sleep disorder, confusional state, libido decreased, anorgasmia, nervousness, nightmare | catatonia, somnambulism, blunted affectc |  |
 | Nervous system disorders | parkinsonismb , akathisiab, sedation/ somnolence, headache | dystoniab, dizziness, dyskinesiab, tremorb | tardive dyskinesia, convulsione, syncope, psychomotor hyperactivity, dizziness postural, disturbance in attention, dysarthria, dysgeusia, hypoaesthesia, paresthaesia | neuroleptic malignant syndrome, cerebral ischaemia, unresponsive to stimulic, loss of consciousness, depressed level of consciousnessc, diabetic comac balance disorder, coordination abnormal, head titubationc |  |
@@ -77,18 +77,19 @@ complications
 
 a Refer to ‘Hyperprolactinaemia’ below.
 b Refer to ‘Extrapyramidal symptoms’ below.
-c Not observed in INVEGA clinical studies but observed in post-marketing environment with paliperidone d In placebo-controlled pivotal trials, diabetes mellitus was reported in 0.05% in INVEGA-treated subjects compared to a rate of 0% in placebo group.
-Overall incidence from all clinical trials was 0.14% in all INVEGA-treated subjects e Insomnia includes: initial insomnia, middle insomnia; Convulsion includes: grand mal convulsion; Oedema includes: generalised oedema, oedema peripheral, pitting oedema.
-Menstrual disorder includes: menstruation irregular, oligomenorrhoea
+c Not observed in INVEGA clinical studies but observed in post-marketing environment with paliperidone.
+d In placebo-controlled pivotal trials, diabetes mellitus was reported in 0.05% in INVEGA-treated subjects compared to a rate of 0% in placebo group.
+Overall incidence from all clinical trials was 0.14% in all INVEGA-treated subjects.
+e Insomnia includes: initial insomnia, middle insomnia; Convulsion includes: grand mal convulsion; Oedema includes: generalised oedema, oedema peripheral, pitting oedema; Menstrual disorder includes: menstruation irregular, oligomenorrhoea.
 
 Undesirable effects noted with risperidone formulations
 Paliperidone is the active metabolite of risperidone, therefore, the adverse reaction profiles of these compounds (including both the oral and injectable formulations) are relevant to one another.
-In addition to the above adverse reactions, the following adverse reactions have been noted with the use of risperdone products and can be expected to occur with INVEGA.
+In addition to the above adverse reactions, the following adverse reactions have been noted with the use of risperidone products and can be expected to occur with INVEGA.
 Psychiatric disorders: sleep-related eating disorder
 Nervous system disorders: cerebrovascular disorder
 Eye disorders: floppy iris syndrome (intraoperative)
 Respiratory, thoracic and mediastinal disorders: rales
-Description of selected adverse reactions
+Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome/toxic epidermal necrolysis Description of selected adverse reactions
 Extrapyramidal symptoms (EPS)
 In schizophrenia clinical trials, there was no difference observed between placebo and the 3 and 6 mg doses of INVEGA.
 Dose dependence for EPS was seen with the two higher doses of INVEGA (9 and 12 mg).

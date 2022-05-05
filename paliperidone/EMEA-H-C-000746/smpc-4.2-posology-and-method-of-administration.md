@@ -47,7 +47,7 @@ Adolescents weighing ≥51 kg: the maximum recommended daily dose of INVEGA is 1
 Dosage adjustment, if indicated, should occur only after clinical reassessment based on the individual need of the patient.
 When dose increases are indicated, increments of 3 mg/day are recommended and generally should occur at intervals of 5 days or more.
 The safety and efficacy of INVEGA in the treatment of schizophrenia in adolescents between 12 and 14 years old has not been established.
-Currently available data are described in section 4.8 and 5.1 but no recommendation on a posology can be made.
+Currently available data are described in sections 4.8 and 5.1 but no recommendation on a posology can be made.
 There is no relevant use of INVEGA in children aged less than 12 years.
 
 Schizoaffective disorder: The safety and efficacy of INVEGA in the treatment of schizoaffective disorder in patients aged 12 to 17 years has not been studied or established.
