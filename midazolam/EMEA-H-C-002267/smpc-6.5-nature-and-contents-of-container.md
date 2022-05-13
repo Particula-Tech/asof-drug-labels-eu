@@ -9,4 +9,9 @@ Amber, pre-filled needle-free oral syringe (polypropylene) with plunger (polypro
 | 7.5 mg | 1.5 ml | 3 ml | 5 years to < 10 years | Purple |
 | 10 mg | 2 ml | 3 ml | 10 years to < 18 years | Orange |
 
-BUCCOLAM is available in cartons containing 4 pre-filled syringes.
+BUCCOLAM is available in two pack sizes:
+
+- Cartons containing 2 pre-filled syringes.
+- Cartons containing 4 pre-filled syringes.
+
+Not all pack sizes may be marketed.

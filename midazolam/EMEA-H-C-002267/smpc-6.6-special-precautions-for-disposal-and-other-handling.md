@@ -5,9 +5,8 @@ Administration of BUCCOLAM
 BUCCOLAM is not for intravenous use.
 Step 1
 
-Hold the plastic tube, break the seal at one
-end and pull the cap off. Take the syringe out
-of the tube.
+Hold the plastic tube and pull the cap off.
+Take the syringe out of the tube.
 
 Step 2
 
