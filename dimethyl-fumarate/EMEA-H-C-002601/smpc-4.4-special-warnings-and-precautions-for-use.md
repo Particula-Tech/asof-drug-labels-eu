@@ -2,7 +2,7 @@
 
 Blood/laboratory tests
 
-Changes in renal laboratory tests have been seen in clinical trials in subjects treated with dimethyl fumarate (see section 4.8).
+Changes in renal laboratory tests have been seen in clinical trials in patients treated with dimethyl fumarate (see section 4.8).
 The clinical implications of these changes are unknown.
 Assessment of renal function (e.g. creatinine, blood urea nitrogen and urinalysis) is recommended prior to treatment initiation, after 3 and 6 months of treatment, every 6 to 12 months thereafter and as clinically indicated.
 
@@ -10,22 +10,23 @@ Drug-induced liver injury, including liver enzyme increase (≥ 3 upper limit of
 The time to onset can be directly, several weeks or longer.
 Resolution of the adverse reactions has been observed after treatment was discontinued.
 Assessment of serum aminotransferases (e.g. alanine aminotransferase (ALT), aspartate aminotransferase (AST)) and total bilirubin levels are recommended prior to treatment initiation and during treatment as clinically indicated.
+
 Patients treated with Tecfidera may develop lymphopenia (see section 4.8).
 Prior to initiating treatment with Tecfidera, a current complete blood count, including lymphocytes, must be performed.
 If lymphocyte count is found to be below the normal range, thorough assessment of possible causes should be completed prior to initiation of treatment with Tecfidera.
 Dimethyl fumarate has not been studied in patients with pre-existing low lymphocyte counts and caution should be exercised when treating these patients.
-Tecfidera should not be initiated in patients with severe lymphopenia (lymphocyte counts <0.5 x 109/L).
+Tecfidera should not be initiated in patients with severe lymphopenia (lymphocyte counts < 0.5 x 109/L).
 
 After starting therapy, complete blood counts, including lymphocytes, must be performed every 3 months.
 
 Enhanced vigilance due to an increased risk for Progressive Multifocal Leukoencephalopathy (PML) is recommended in patients with lymphopenia as follows:
 
-- Tecfidera should be discontinued in patients with prolonged severe lymphopenia (lymphocyte counts <0.5 x 109/L) persisting for more than 6 months.
-- In patients with sustained moderate reductions of absolute lymphocyte counts ≥0.5 x 109/L and < 0.8 x 109/L for more than six months, the benefit/risk of Tecfidera treatment should be re-assessed.
+- Tecfidera should be discontinued in patients with prolonged severe lymphopenia (lymphocyte counts < 0.5 x 109/L) persisting for more than 6 months
+- In patients with sustained moderate reductions of absolute lymphocyte counts ≥ 0.5 x 109/L to < 0.8 x 109/L for more than 6 months, the benefit/risk of Tecfidera treatment should be reassessed.
 - In patients with lymphocyte counts below lower limit of normal (LLN) as defined by local laboratory reference range, regular monitoring of absolute lymphocyte counts is recommended.
   Additional factors that might further augment the individual PML risk should be considered (see subsection on PML below).
 
-Lymphocyte counts should be followed until recovery.
+Lymphocyte counts should be followed until recovery (see section 5.1).
 Upon recovery and in the absence of alternative treatment options, decisions about whether or not to restart Tecfidera after treatment discontinuation should be based on clinical judgement.
 
 Magnetic Resonance imaging (MRI)
@@ -42,16 +43,16 @@ PML is an opportunistic infection caused by John-Cunningham virus (JCV), which m
 
 PML cases have occurred with dimethyl fumarate and other medicinal products containing fumarates in the setting of lymphopenia (lymphocyte counts below LLN).
 Prolonged moderate to severe lymphopenia appears to increase the risk of PML with Tecfidera, however, risk cannot be excluded in patients with mild lymphopenia.
+
 Additional factors that might contribute to an increased risk for PML in the setting of lymphopenia are:
 - duration of Tecfidera therapy.
-Cases of PML have occurred after approximately1 to 5 years of treatment, although the exact relationship with duration of treatment is unknown.
+Cases of PML have occurred after approximately 1 to 5 years of treatment, although the exact relationship with duration of treatment is unknown.
 
 - profound decreases in CD4+ and especially in CD8+ T cell counts, which are important for immunological defence (see section 4.8), and
 
 - prior immunosuppressive or immunomodulatory therapy (see below).
 
 Physicians should evaluate their patients to determine if the symptoms are indicative of neurological dysfunction and, if so, whether these symptoms are typical of MS or possibly suggestive of PML.
-
 At the first sign or symptom suggestive of PML, Tecfidera should be withheld and appropriate diagnostic evaluations, including determination of JCV DNA in cerebrospinal fluid (CSF) by quantitative polymerase chain reaction (PCR) methodology, need to be performed.
 The symptoms of PML may be similar to an MS relapse.
 Typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
@@ -95,6 +96,7 @@ In two healthy volunteer studies, the occurrence and severity of flushing over t
 In clinical trials, 3 patients out of a total of 2,560 patients treated with dimethyl fumarate experienced serious flushing symptoms that were probable hypersensitivity or anaphylactoid reactions.
 These events were not life-threatening, but led to hospitalisation.
 Prescribers and patients should be alert to this possibility in the event of severe flushing reactions (see sections 4.2, 4.5 and 4.8).
+
 Anaphylactic reactions
 
 Cases of anaphylaxis/anaphylactoid reaction have been reported following Tecfidera administration in the post-marketing setting.
@@ -111,7 +113,8 @@ However, due to Tecfidera immunomodulatory properties (see section 5.1), if a pa
 Patients receiving Tecfidera should be instructed to report symptoms of infections to a physician.
 Patients with serious infections should not start treatment with Tecfidera until the infection(s) is resolved.
 
-There was no increased incidence of serious infections observed in patients with lymphocyte counts <0.8x109/L or <0.5x109/L (see Section 4.8).
+There was no increased incidence of serious infections observed in patients with lymphocyte counts
+< 0.8 x 109/L or < 0.5 x 109/L (see section 4.8).
 If therapy is continued in the presence of moderate to severe prolonged lymphopenia, the risk of an opportunistic infection, including PML, cannot be ruled out (see section 4.4 subsection PML).
 
 Herpes zoster infections
@@ -131,8 +134,14 @@ Fanconi syndrome
 
 Cases of Fanconi syndrome have been reported for a medicinal product containing dimethyl fumarate in combination with other fumaric acid esters.
 Early diagnosis of Fanconi syndrome and discontinuation of dimethyl fumarate treatment are important to prevent the onset of renal impairment and osteomalacia, as the syndrome is usually reversible.
-The most important signs are: proteinuria, glucosuria (with normal blood sugar levels), hyperaminoaciduria and phosphaturia (possibly concurrent with hypophosphatemia).
+The most important signs are proteinuria, glucosuria (with normal blood sugar levels), hyperaminoaciduria and phosphaturia (possibly concurrent with hypophosphatemia).
 Progression might involve symptoms such as polyuria, polydipsia and proximal muscle weakness.
 In rare cases hypophosphataemic osteomalacia with non-localised bone pain, elevated alkaline phosphatase in serum and stress fractures may occur.
 Importantly, Fanconi syndrome can occur without elevated creatinine levels or low glomerular filtration rate.
 In case of unclear symptoms Fanconi syndrome should be considered and appropriate examinations should be performed.
+Paediatric population
+
+The safety profile is qualitatively similar in paediatric patients compared to adults and therefore the warnings and precautions also apply to the paediatric patients.
+For quantitative differences in the safety profile see section 4.8.
+
+The long-term safety of Tecfidera in paediatric population has not yet been established.

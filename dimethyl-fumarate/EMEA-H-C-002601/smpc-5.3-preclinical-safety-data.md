@@ -11,8 +11,9 @@ Carcinogenesis
 
 Carcinogenicity studies of dimethyl fumarate were conducted for up to 2 years in mice and rats.
 Dimethyl fumarate was administered orally at doses of 25, 75, 200 and 400 mg/kg/day in mice, and at doses of 25, 50, 100, and 150 mg/kg/day in rats.
+
 In mice, the incidence of renal tubular carcinoma was increased at 75 mg/kg/day, at equivalent exposure (AUC) to the recommended human dose.
-In rats, the incidence of renal tubular carcinoma was increased at 100 mg/kg/day, approximately 2 times higher exposure than the recommended human dose.
+In rats, the incidence of renal tubular carcinoma and testicular Leydig cell adenoma was increased at 100 mg/kg/day, approximately 2 times higher exposure than the recommended human dose.
 The relevance of these findings to human risk is unknown.
 
 The incidence of squamous cell papilloma and carcinoma in the nonglandular stomach (forestomach) was increased at equivalent exposure to the recommended human dose in mice and below exposure to the recommended human dose in rats (based on AUC).
@@ -37,7 +38,6 @@ The relevance of these findings to humans is not known.
 
 Findings in the forestomach of mice and rats consisted of squamous epithelial hyperplasia and hyperkeratosis; inflammation; and squamous cell papilloma and carcinoma in studies of 3 months or longer in duration.
 The forestomach of mice and rats does not have a human counterpart.
-
 Reproduction toxicity
 
 Oral administration of dimethyl fumarate to male rats at 75, 250, and 375 mg/kg/day prior to and during mating had no effects on male fertility up to the highest dose tested (at least 2 times the recommended dose on an AUC basis).
@@ -54,3 +54,13 @@ Oral administration of dimethyl fumarate at 25, 75, and 150 mg/kg/day to pregnan
 Oral administration of dimethyl fumarate at 25, 100, and 250 mg/kg/day to rats during pregnancy and lactation resulted in lower body weights in the F1 offspring, and delays in sexual maturation in F1 males at 11 times the recommended dose on an AUC basis.
 There were no effects on fertility in the F1 offspring.
 The lower offspring body weight was considered secondary to maternal toxicity.
+
+Two toxicity studies in juvenile rats with daily oral administration of dimethyl fumarate from postnatal day (PND) 28 through PND 90 to 93 (equivalent to approximately 3 years and older in humans) revealed similar target organ toxicities in the kidney and forestomach as observed in adult animals.
+In the first study, dimethyl fumarate did not affect development, neurobehavior or male and female fertility up to the highest dose of 140 mg/kg/day (approximately 4.6 times the recommended human dose based on limited AUC data in paediatric patients).
+Likewise, no effects on male reproductive and accessory organs were observed up to the highest dimethyl fumarate dose of 375 mg/kg/day in the second study in male juvenile rats (about 15-times the putative AUC at the recommended paediatric dose).
+However, decreased bone mineral content and density in the femur and lumbar vertebrae were evident in male juvenile rats.
+Bone densitometry changes were also observed in juvenile rats following oral diroximel fumarate administration, another fumaric ester that is metabolised to the same active metabolite monomethyl fumarate in vivo.
+The NOAEL for the densitometry changes in juvenile rats is approximately 1.5 times the presumptive AUC at the recommended paediatric dose.
+A relation of the bone effects to lower body weight is possible, but the involvement of a direct effect cannot be excluded.
+The bone findings are of limited relevance for adult patients.
+The relevance for paediatric patients is not known.
