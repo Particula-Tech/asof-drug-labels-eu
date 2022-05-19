@@ -1,4 +1,4 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/09/528/002 1 ml ampoules
-EU/1/09/528/001 3 ml ampoules
+EU/1/09/528/002 1 mL ampoules
+EU/1/09/528/001 3 mL ampoules

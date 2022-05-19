@@ -9,12 +9,11 @@ These effects are dose related and may necessitate measurement of plasma levels 
 Tabulated list of adverse reactions
 
 The adverse reactions described in the short- and long-term published literature and obtained from a post-authorisation safety study that can be associated with caffeine citrate are listed below by System Organ Class and Preferred Term (MedDRA).
-Frequency is defined as: very common (≥ 1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000) and not known (cannot be estimated from the available data).
+Frequency is defined as: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000) and not known (cannot be estimated from the available data).
 
-System Organ Class Adverse Reaction Frequency
-
-| Infections and infestations | Sepsis | Not known |
+| System Organ Class | Adverse Reaction | Frequency |
 | --- | --- | --- |
+| Infections and infestations | Sepsis | Not known |
 | Immune system disorders | Hypersensitivity reaction | Rare |
 | Metabolism and nutrition disorders | Hyperglycaemia | Common |
 |  | Hypoglycaemia, failure to thrive, feeding intolerance | Not known |
@@ -44,6 +43,7 @@ Available evidence does not indicate any adverse long-term reactions of neonatal
 Caffeine does not appear to aggravate cerebral hypoxia or to exacerbate any resulting damage, although the possibility cannot be ruled out.
 
 Other special populations
+
 In a post-authorisation safety study on 506 preterm infants treated with Peyona, safety data have been collected in 31 very premature infants with renal/hepatic impairment.
 Adverse reactions appeared to be more frequent in this subgroup with organ impairment than in other observed infants without organ impairment.
 Cardiac disorders (tachycardia, including one single case of arrhythmia) were mostly reported.

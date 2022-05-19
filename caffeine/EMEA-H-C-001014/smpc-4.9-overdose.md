@@ -1,6 +1,6 @@
 # 4.9 Overdose
 
-Following overdose, published plasma caffeine levels have ranged from approximately 50 mg/l to 350 mg/l.
+Following overdose, published plasma caffeine levels have ranged from approximately 50 mg/L to 350 mg/L.
 
 Symptoms
 

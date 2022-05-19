@@ -6,19 +6,20 @@ The citrate moiety is rapidly metabolized on infusion or ingestion.
 Absorption
 
 The onset of action of caffeine from caffeine citrate is within minutes of commencement of infusion.
-After oral administration of 10 mg caffeine base/kg body weight to preterm newborn infants, the peak plasma caffeine concentration (Cmax) ranged from 6 to 10 mg/l and the mean time to reach peak concentration (tmax) ranged from 30 min to 2 h. The extent of absorption is not affected by formula feeding but tmax may be prolonged.
+After oral administration of 10 mg caffeine base/kg body weight to preterm newborn infants, the peak plasma caffeine concentration (Cmax) ranged from 6 to 10 mg/L and the mean time to reach peak concentration (tmax) ranged from 30 min to 2 h. The extent of absorption is not affected by formula feeding but tmax may be prolonged.
 
 Distribution
 
 Caffeine is rapidly distributed into the brain following caffeine citrate administration.
 Caffeine concentrations in the cerebrospinal fluid of preterm newborn infants approximate to their plasma levels.
-The mean volume of distribution (Vd) of caffeine in infants (0.8-0.9 l/kg) is slightly higher than that in adults (0.6 L/kg).
+The mean volume of distribution (Vd) of caffeine in infants (0.8-0.9 L/kg) is slightly higher than that in adults (0.6 L/kg).
 Plasma protein binding data are not available for newborn infants or infants.
 In adults, the mean plasma protein binding in vitro is reported to be approximately 36%.
 
 Caffeine readily crosses the placenta into the fetal circulation and is excreted into breast milk.
 
 Biotransformation
+
 Caffeine metabolism in preterm newborn infants is very limited due to their immature hepatic enzyme systems and most of the active substance is eliminated in urine.
 Hepatic cytochrome P450 1A2 (CYP1A2) is involved in caffeine biotransformation in older individuals.
 Inter-conversion between caffeine and theophylline has been reported in preterm newborn infants; caffeine levels are approximately 25% of theophylline levels after theophylline administration and approximately 3-8% of caffeine administered would be expected to convert to theophylline.

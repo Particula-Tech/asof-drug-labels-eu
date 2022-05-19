@@ -11,6 +11,7 @@ Pharmacodynamic effects
 
 Caffeine’s main action is as a CNS stimulant.
 This is the basis of caffeine’s effect in apnoea of prematurity, for which several mechanisms have been proposed for its actions including: (1) respiratory centre stimulation, (2) increased minute ventilation, (3) decreased threshold to hypercapnia, (4) increased response to hypercapnia, (5) increased skeletal muscle tone, (6) decreased diaphragmatic fatigue, (7) increased metabolic rate, and (8) increased oxygen consumption.
+
 Clinical efficacy and safety
 
 The clinical efficacy of caffeine citrate was assessed in a multicentre, randomised, double-blind study that compared caffeine citrate to placebo in 85 preterm infants (gestational age 28 to <33 weeks) with apnoea of prematurity.
@@ -18,7 +19,7 @@ Infants received 20 mg/kg caffeine citrate loading dose intravenously.
 A maintenance daily dose of 5 mg/kg caffeine citrate was then administered either intravenously or orally (through a feeding tube) for up to 10-12 days.
 The protocol allowed infants to be “rescued” with open-label caffeine citrate treatment if their apnoea remained uncontrolled.
 In that case, infants received a second loading dose of 20 mg/kg caffeine citrate after treatment day 1 and before treatment day 8.
-There were more days without any apnoea under caffeine citrate treatment (3.0 days, versus 1.2 days for placebo; p=0.005); also, there was a higher percentage of patients with no apnoeas for > 8 days (caffeine 22% versus placebo 0%).
+There were more days without any apnoea under caffeine citrate treatment (3.0 days, versus 1.2 days for placebo; p=0.005); also, there was a higher percentage of patients with no apnoeas for >8 days (caffeine 22% versus placebo 0%).
 A recent large placebo-controlled multicentre study (n=2006) investigated short-term and long-term (18-21 months) outcomes of premature infants treated with caffeine citrate.
 Infants randomised to caffeine citrate received an intravenous loading dose of 20 mg/kg, followed by a daily maintenance dose of 5 mg/kg.
 If apnoeas persisted, the daily maintenance dose could be increased to a maximum of 10 mg/kg of caffeine citrate.
