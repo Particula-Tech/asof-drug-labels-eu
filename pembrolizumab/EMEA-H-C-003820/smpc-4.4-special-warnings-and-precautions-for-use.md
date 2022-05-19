@@ -20,13 +20,13 @@ Based on limited data from clinical studies in patients whose immune-related adv
 Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if the adverse reaction recovers to Grade ≤ 1 and corticosteroid dose has been reduced to ≤ 10 mg prednisone or equivalent per day.
 
 Pembrolizumab must be permanently discontinued for any Grade 3 immune-related adverse reaction that recurs and for any Grade 4 immune-related adverse reaction toxicity, except for endocrinopathies that are controlled with replacement hormones (see sections 4.2 and 4.8).
-
 Immune-related pneumonitis
 Pneumonitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of pneumonitis.
 Suspected pneumonitis should be confirmed with radiographic imaging and other causes excluded.
 Corticosteroids should be administered for Grade ≥ 2 events (initial dose of 1-2 mg/kg/day prednisone or equivalent followed by a taper); pembrolizumab should be withheld for Grade 2 pneumonitis, and permanently discontinued for
 Grade 3, Grade 4 or recurrent Grade 2 pneumonitis (see section 4.2).
+
 Immune-related colitis
 Colitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of colitis, and other causes excluded.
@@ -60,7 +60,6 @@ Pituitary function and hormone levels should be monitored to ensure appropriate 
 Type 1 diabetes mellitus, including diabetic ketoacidosis, has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for hyperglycaemia or other signs and symptoms of diabetes.
 Insulin should be administered for type 1 diabetes, and pembrolizumab should be withheld in cases of type 1 diabetes associated with Grade ≥ 3 hyperglycaemia or ketoacidosis until metabolic control is achieved (see section 4.2).
-
 Thyroid disorders, including hypothyroidism, hyperthyroidism and thyroiditis, have been reported in patients receiving pembrolizumab and can occur at any time during treatment.
 Hypothyroidism is more frequently reported in patients with HNSCC with prior radiation therapy.
 Patients should be monitored for changes in thyroid function (at the start of treatment, periodically during treatment and as indicated based on clinical evaluation) and clinical signs and symptoms of thyroid disorders.
@@ -93,13 +92,13 @@ Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if th
 Pembrolizumab must be permanently discontinued for any Grade 3 immune-related adverse reaction that recurs and for any Grade 4 immune-related adverse reaction.
 
 For Grades 3 or 4 myocarditis, encephalitis or Guillain-Barré syndrome, pembrolizumab should be permanently discontinued (see sections 4.2 and 4.8).
-
 Transplant-related adverse reactions
 
 Solid organ transplant rejection
 Solid organ transplant rejection has been reported in the post-marketing setting in patients treated with PD-1 inhibitors.
 Treatment with pembrolizumab may increase the risk of rejection in solid organ transplant recipients.
 The benefit of treatment with pembrolizumab versus the risk of possible organ rejection should be considered in these patients.
+
 Complications of allogeneic Haematopoietic Stem Cell Transplant (HSCT)
 
 Allogeneic HSCT after treatment with pembrolizumab

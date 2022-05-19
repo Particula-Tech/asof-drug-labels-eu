@@ -48,7 +48,9 @@ Oesophageal carcinoma
 KEYTRUDA, in combination with platinum and fluoropyrimidine-based chemotherapy, is indicated for the first-line treatment of locally advanced unresectable or metastatic carcinoma of the oesophagus or HER-2 negative gastroesophageal junction adenocarcinoma, in adults whose tumours express PD-L1 with a CPS ≥ 10 (see section 5.1).
 
 Triple-negative breast cancer (TNBC)
+KEYTRUDA, in combination with chemotherapy as neoadjuvant treatment, and then continued as monotherapy as adjuvant treatment after surgery, is indicated for the treatment of adults with locally advanced, or early-stage triple-negative breast cancer at high risk of recurrence (see section 5.1).
 KEYTRUDA, in combination with chemotherapy, is indicated for the treatment of locally recurrent unresectable or metastatic triple-negative breast cancer in adults whose tumours express PD-L1 with a CPS ≥ 10 and who have not received prior chemotherapy for metastatic disease (see section 5.1).
+
 Endometrial carcinoma (EC)
 KEYTRUDA, in combination with lenvatinib, is indicated for the treatment of advanced or recurrent endometrial carcinoma in adults who have disease progression on or following prior treatment with a platinum-containing therapy in any setting and who are not candidates for curative surgery or radiation.
 
