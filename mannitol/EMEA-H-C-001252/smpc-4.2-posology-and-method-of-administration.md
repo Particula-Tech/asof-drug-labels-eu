@@ -17,7 +17,6 @@ Step 1: Patients baseline FEV1 and SpO2 is measured prior to the initiation dose
 Step 2: Patient inhales 40 mg (1x40 mg capsules) and SpO2 is monitored
 Step 3: Patient inhales 80 mg (2x40 mg capsules) and SpO2 is monitored
 Step 4: Patient inhales 120 mg (3x40 mg capsules), FEV1 is measured and SpO2 is monitored Step 5: Patient inhales 160 mg (4x40 mg capsules), FEV1 is measured and SpO2 is monitored Step 6: Patients FEV1 is measured 15 minutes post initiation dose.
-
 Patients with asthma may experience reversible temporary mild bronchospasm after passing the initiation dose assessment and therefore all patients should be monitored until their FEV1 has returned to baseline levels.
 
 Therapeutic dose regimen
@@ -67,6 +66,7 @@ The capsules must not be swallowed.
 Each of the capsules is loaded into the device separately.
 The contents of the capsules are inhaled via the inhaler device with one or two breaths.
 After inhalation, each empty capsule is discarded before inserting the next capsule into the inhaler device with as little delay as possible between capsules.
+
 The inhaler device is to be replaced after one week of use.
 If the inhaler does require cleaning, it must be ensured that the device is empty, then it should be washed in warm water and before re-use,the inhaler should be allowed to thoroughly air dry.
 

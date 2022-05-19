@@ -3,14 +3,14 @@
 Summary of the safety profile
 The safety profile of Bronchitol has been evaluated in clinical studies involving more than 1200 patients.
 (See Table 1).
-
 Initiation dose assessment
 The most commonly observed adverse reaction associated with the use of Bronchitol during the initiation dose assessment is cough (2.9% of patients), (see section 4.4).
 
 The most important adverse reaction associated with the use of Bronchitol during the initiation dose assessment is bronchospasm (see section 4.4).
 
 Therapeutic dose regimen
-The most commonly observed adverse reaction associated with the use of Bronchitol is cough (see section 4.4).
+The most commonly observed adverse reaction associated with the use of Bronchitol is cough
+(see section 4.4).
 This was observed in 8.3% of patients compared to 4.0% of patients in the control arm.
 Cough which led to cessation of treatment was also commonly experienced and was observed in 4.0% of patients in the Bronchitol treatment arm.
 
@@ -26,9 +26,10 @@ Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/10
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-| Table 1: Frequency of adverse reactions with Bronchitol in the phase 3 studies (initiation dose assessment and/or treatment phase) |  |  |
-| --- | --- | --- |
+Table 1: Frequency of adverse reactions with Bronchitol in the phase 3 studies (initiation dose assessment and/or treatment phase)
+
 | System organ class | Frequency | Adverse Reaction |
+| --- | --- | --- |
 | Infections and infestations | Uncommon | Bacterial disease carrier, Bronchitis, Bronchopneumonia, Lung infection, Oral candidiasis, Pharyngitis, Staphylococcal infection, Upper respiratory tract infection |
 | Metabolism and nutrition disorders | Uncommon | Decreased appetite, CF related diabetes, Dehydration |
 | Psychiatric disorders | Uncommon | Initial insomnia, Morbid thoughts |
@@ -55,6 +56,7 @@ In study 302 the most frequent adverse reaction reported during the MTT was coug
 
 Paediatric population (6 to 17 years of age)
 Frequency, type and severity of adverse reactions in children are similar to those observed in adults.
+
 Initiation dose (6 to 17 years of age)
 The most commonly observed adverse reaction associated with the use of Bronchitol during the initiation dose assessment with the paediatric population is cough (4.8% of patients).
 
@@ -65,9 +67,10 @@ The most commonly observed adverse reaction associated with the use of Bronchito
 This was observed in 7.8% of patients compared to 3.8% of patients in the control arm.
 The most important adverse reaction associated with the use of Bronchitol is haemoptysis.
 
-| Table 2: Frequency of adverse reactions with Bronchitol in the phase 3 studies (initiation dose assessment and/or treatment phase) – paediatric population (6 to 17 years of age) |  |  |
-| --- | --- | --- |
+Table 2: Frequency of adverse reactions with Bronchitol in the phase 3 studies (initiation dose assessment and/or treatment phase) – paediatric population (6 to 17 years of age)
+
 | System organ class | Frequency | Adverse Reaction |
+| --- | --- | --- |
 | Psychiatric disorders | Uncommon | Initial insomnia |
 | Nervous system | Common | Headache |
 |  | Uncommon | Dizziness |
@@ -87,4 +90,4 @@ Adverse reactions that occurred only with initiation dose assessment (MTT) are b
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V*.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

@@ -26,7 +26,6 @@ The mean terminal half-life in adults was approximately 4 to 5 hours from serum 
 
 Paediatric population
 The safety and efficacy of Bronchitol in children and adolescents aged 6 to 18 years has not yet been established.
-
 The limited data available in adolescents aged 12 to 17 years indicate the pharmacokinetic parameters of inhaled mannitol are similar to the adult population.
 
 There are no data available for children under 12 years of age.
