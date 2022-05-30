@@ -18,7 +18,6 @@ Under normal conditions, VCAM-1 is not expressed in the brain parenchyma.
 However, in the presence of pro-inflammatory cytokines, VCAM-1 is upregulated on endothelial cells and possibly on glial cells near the sites of inflammation.
 In the setting of central nervous system (CNS) inflammation in MS, it is the interaction of α4β1 with VCAM-1, CS-1 and osteopontin that mediates the firm adhesion and transmigration of leukocytes into the brain parenchyma and may perpetuate the inflammatory cascade in CNS tissue.
 Blockade of the molecular interactions of α4β1 with its targets reduces inflammatory activity present in the brain in MS and inhibits further recruitment of immune cells into inflamed tissue, thus reducing the formation or enlargement of MS lesions.
-
 Clinical efficacy
 
 AFFIRM clinical study
@@ -31,15 +30,12 @@ MRI evaluations for T1-weighted gadolinium (Gd)-enhancing lesions and T2-hyperin
 
 Study features and results are presented in the Table 2.
 
-| Table 2. AFFIRM study: Main features and results |  |
-| --- | --- |
-| Design | Monotherapy; randomised double-blind placebo-controlled parallel-group trial for 120 weeks |
-| Subjects | RRMS (McDonald criteria) |
-| Treatment | Placebo / Natalizumab 300 mg i.v. every 4 weeks |
-| One year endpoint | Relapse rate |
-
 | Table 2. AFFIRM study: Main features and results |  |  |
 | --- | --- | --- |
+| Design | Monotherapy; randomised double-blind placebo-controlled parallel-group trial for 120 weeks |  |
+| Subjects | RRMS (McDonald criteria) |  |
+| Treatment | Placebo / Natalizumab 300 mg i.v. every 4 weeks |  |
+| One year endpoint | Relapse rate |  |
 | Two year endpoint | Progression on EDSS |  |
 | Secondary endpoints | Relapse rate derived variables / MRI-derived variables |  |
 | Subjects | Placebo | Natalizumab |
@@ -78,6 +74,7 @@ These results were obtained from a post hoc analysis and should be interpreted c
 No information on the severity of the relapses before inclusion of patients in the study is available.
 
 Tysabri Observational Program (TOP)
+
 Interim analysis of results (as of May 2015) from the ongoing Tysabri Observational Program (TOP), a phase 4, multicentre, single-arm study (n =5,770) demonstrated that patients switching from beta interferon (n = 3,255) or glatiramer acetate (n = 1,384) to Tysabri showed a sustained, significant decrease in annualised relapse rate (p < 0.0001).
 Mean EDSS scores remained stable over 5 years.
 Consistent with efficacy results observed for patients switching from beta interferon or glatiramer acetate to Tysabri, for patients switching from fingolimod (n = 147) to this medicinal product, a significant decrease in annualised relapse rate (ARR) was observed, which remained stable over 2 years, and mean EDSS scores remained similar from baseline to Year 2.
@@ -92,30 +89,76 @@ Extended interval dosing
 
 In a pre-specified, retrospective analysis of US anti-JCV antibody positive Tysabri patients intravenously administered (TOUCH registry), the risk of PML was compared between patients treated with the approved dosing interval and patients treated with extended interval dosing as identified in the last 18 months of exposure (EID, average dosing intervals of approximately 6 weeks).
 The majority (85%) of patients dosed with EID had received the approved dosing for ≥1 year prior to switching to EID.
-The interim analysis showed a lower risk of PML in patients treated with EID (hazard ratio = 0.06, 95% CI of hazard ratio = 0.01 to 0.22).
-The efficacy of this medicinal product when administered with EID has not been established, and therefore the benefit/risk balance of EID is unknown (see section 4.4).
+The analysis showed a lower risk of PML in patients treated with EID (hazard ratio = 0.06, 95% CI of hazard ratio = 0.01 to 0.22).
 
 Efficacy has been modelled for patients who switch to longer dosing after ≥1 year of approved dosing with this medicinal product under intravenous administration and who did not experience a relapse in the year prior to switching.
-Current pharmacokinetic/pharmacodynamic statistical modelling and simulation indicate that the risk of MS disease activity for patients switching to longer dosing intervals may be higher for patients with body weight >80kg or those with dosing intervals ≥7 weeks.
+Current pharmacokinetic/pharmacodynamic statistical modelling and simulation indicate that the risk of MS disease activity for patients switching to longer dosing intervals may be higher for patients with dosing intervals ≥7 weeks.
 No prospective clinical studies have been completed to validate these findings.
+The efficacy of natalizumab when administered with EID has not been established; therefore, the benefit/risk balance of EID is unknown (see “Intravenous administration Q6W”).
+
+Intravenous administration Q6W
+
+Efficacy and safety were evaluated in a prospective, randomized, interventional, controlled, open-label,
+rater-blinded, international phase 3 study (NOVA, 101MS329), involving subjects with relapsing-
+remitting MS according to the 2017 McDonald criteria dosed intravenously every six weeks with
+natalizumab. The study was designed to estimate an efficacy difference between Q6W and Q4W dosing
+regimens.
+
+The study randomized 499 subjects aged 18-60, with an EDSS score ≤ 5.5 at screening, who received at least 1 year of natalizumab treatment IV Q4W and were clinically stable (no relapse in the last 12
+
+months, no gadolinium (Gd) enhancing T1 lesions at screening). In the study, subjects who switched to
+Q6W after at least one year of IV Q4W treatment with natalizumab were evaluated in relation to subjects
+who continued on IV Q4W treatment.
+
+Baseline demographic subgroups of age, sex, duration of natalizumab exposure, country, body weight, anti-JCV status and number of relapses in the year prior to the first dose, number of relapses while on natalizumab, number of prior DMTs, and type of prior DMT were similar between the Q6W and Q4W dosing treatment arms.
+
+| Table 3. NOVA study: Main features and results |  |  |
+| --- | --- | --- |
+| Design | Monotherapy; phase 3b prospective, randomized, interventional, controlled, open-label, rater-blinded, international study |  |
+| Subjects | RRMS (McDonald criteria) |  |
+| Treatment administration (part 1) | Natalizumab Q4W 300 mg I.V. | Natalizumab Q6W 300 mg I.V. |
+| Randomized | 248 | 251 |
+| RESULTS |  |  |
+| mITTa population for part 1 at week 72 | 242 | 247 |
+| New/newly enlarging (N/NE) T2 lesions from baseline to Week 72 Subjects with number of lesions = 0 | 189 (78.1%) | 202 (81.8%) |
+| = 1 | 7 (3.6%) | 5 (2.0%) |
+| = 2 | 1 (0.5%) | 2 (0.8%) |
+| = 3 | 0 | 0 |
+| = 4 | 0 | 0 |
+| ≥ 5 | 0 | 2* (0.8%) |
+| missing | 45 (18.6%) | 36 (14.6%) |
+| Adjusted mean N/NE T2-hyperintense lesions (primary endpoint)* 95% CIb,c | 0.05 (0.01, 0.22) | 0.20 (0.07, 0.63) |
+|  | p = 0.0755 |  |
+| Proportion of subjects that developed N/NE T2 lesions | 4.1% | 4.3% |
+| Proportion of subjects who developed T1-hypointense lesions | 0.8% | 1.2% |
+| Proportion of subjects who developed Gd-enhancing lesions | 0.4% | 0.4% |
+| Adjusted annualized relapse rate | 0.00010 | 0.00013 |
+| Proportion of subjects free of relapse** | 97.6% | 96.9% |
+| Proportion free of 24-week confirmed EDSS worsening | 92% | 90% |
+| a mITT population, which included all randomized participants who received at least 1 dose of study treatment (natalizumab SID or natalizumab EID) and had at least 1 postbaseline result from the following clinical efficacy assessments: MRI efficacy assessments, relapses, EDSS, 9-HPT, T25FW, SDMT, TSQM, CGI scale. b Estimated using negative binomial regression with treatment as classification and baseline body weight (≤ 80 vs > 80 kg), duration of natalizumab exposure at baseline (≤ 3 vs > 3 years), and region (North America, the UK, Europe and Israel, and Australia) as covariates. c Observed lesions are included for analysis regardless of intercurrent events, and missing values due to efficacy or safety (6 subjects switched to Q4W dosing and 1 subject each on Q6W and Q4W dosing discontinued treatment) are imputed by the worst case of subjects on treatment at the same visit in the same treatment group or otherwise via multiple imputation. * The numerical difference seen in the N/NE lesions between the two treatment groups was driven by a high number of lesions occurring in two subjects in the Q6W arm – one subject who developed lesions three months after treatment discontinuation and a second subject who was diagnosed with asymptomatic PML at week 72. ** Relapses – clinical relapses were assessed as defined by new or recurrent neurologic symptoms not associated with fever or infection having a minimum duration of 24 hours. |  |  |
 
 [Tysabri 150 mg solution for injection in pre-filled syringe]
 
-Based on PK/α4β1 integrin binding relationships established in the updated population pharmacokinetic/pharmacodymanic model, the EC50 of natalizumab binding to α4β1 integrin is estimated to be 2.5 mg/L.
+Based on PK/α4β1 integrin binding relationships established in the updated population pharmacokinetic/pharmacodymanic model, the EC50 of natalizumab binding to α4β1 integrin is estimated to be 2.04 mg/L based on a population pharmacokinetic/pharmacodynamic model.
 There was no difference in α4β1integrin binding after natalizumab 300 mg every 4 weeks was administered subcutaneously or intravenously.
+Mean PD (alpha-4 saturation on mononuclear lymphocyte cells) was similar between the intravenous administration Q6W and Q4W regimens, with the difference in mean % alpha-4 saturation ranging from 9 to 16%.
 
 Based on similarities in pharmacokinetics and pharmacodynamics between intravenous and subcutaneous administration, the efficacy data from intravenous infusion is provided as well as those from patients receiving the subcutaneous injection.
 
 Efficacy as monotherapy for intravenous infusion has been evaluated in one randomised, double-blind, placebo-controlled study lasting 2 years (AFFIRM study) in RRMS patients who had experienced at least 1 clinical relapse during the year prior to entry and had a Kurtzke Expanded Disability Status Scale (EDSS) score between 0 and 5.
 The patients were randomised with a 2:1 ratio to receive natalizumab 300 mg (n = 627) or placebo (n = 315) every 4 weeks for up to 30 infusions.
 
+| Table 2. AFFIRM study: Main features and results |  |
+| --- | --- |
+| Design | Monotherapy; randomised double-blind placebo-controlled parallel-group trial for 120 weeks |
+| Subjects | RRMS (McDonald criteria) |
+| Treatment | Placebo / Natalizumab 300 mg i.v. every 4 weeks |
+| One year endpoint | Relapse rate |
+| Two year endpoint | Progression on EDSS |
+
 | Table 2. AFFIRM study: Main features and results |  |  |
 | --- | --- | --- |
 | Design | Monotherapy; randomised double-blind placebo-controlled parallel-group trial for 120 weeks |  |
-| Subjects | RRMS (McDonald criteria) |  |
-| Treatment | Placebo / Natalizumab 300 mg i.v. every 4 weeks |  |
-| One year endpoint | Relapse rate |  |
-| Two year endpoint | Progression on EDSS |  |
 | Secondary endpoints | Relapse rate derived variables / MRI-derived variables |  |
 | Subjects | Placebo | Natalizumab |
 | Randomised | 315 | 627 |
@@ -136,7 +179,6 @@ The patients were randomised with a 2:1 ratio to receive natalizumab 300 mg (n =
 | After one year | 53% | 76% |
 | After two years | 41% | 67% |
 | Disability |  |  |
-| Design | Monotherapy; randomised double-blind placebo-controlled parallel-group trial for 120 weeks |  |
 | Proportion progressed1(12-week confirmation; primary outcome) | 29% | 17% |
 |  | Hazard ratio 0.58, CI95% 0.43; 0.73, p<0.001 |  |
 | Proportion progressed1(24-week confirmation) | 23% | 11% |
@@ -151,6 +193,8 @@ The patients were randomised with a 2:1 ratio to receive natalizumab 300 mg (n =
 In the sub-group of patients indicated for treatment of rapidly evolving RRMS (patients with 2 or more relapses and 1 or more Gd+ lesion), the annualised relapse rate was 0.282 in the natalizumab-treated group (n = 148) and 1.455 in the placebo group (n = 61) (p < 0.001).
 
 Interim analysis of results (as of May 2015) from the ongoing Tysabri Observational Program (TOP), a phase 4, multicentre, single-arm study (n = 5,770) demonstrated that patients switching from beta interferon (n= 3,255) or glatiramer acetate (n = 1,384) to Tysabri showed a sustained, significant decrease in annualised relapse rate (p < 0.0001).
+
+The efficacy of this medicinal product when administered with EID has not been established, and therefore the benefit/risk balance of EID is unknown (see section 4.4).
 
 No clinical data are available on either the safety or efficacy of this extended interval dosing with the subcutaneous route of administration.
 

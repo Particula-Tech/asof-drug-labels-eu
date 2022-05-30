@@ -6,7 +6,6 @@ In placebo-controlled trials in 1,617 MS patients treated with natalizumab for u
 Over the 2-year duration of the studies, 43.5% of patients treated with natalizumab reported adverse reactions (placebo: 39.6%).
 
 In clinical trials in 6786 patients treated with natalizumab (intravenous infusion and subcutaneous injection), the most frequently occurring adverse reactions were headache (32%), nasopharyngitis (27%), fatigue (23%), urinary tract infection (16%), nausea (15%), arthralgia (14%), and dizziness (11%) associated with natalizumab administration.
-
 Tabulated list of adverse reactions
 
 Adverse reactions arising from clinical studies, post-authorisation safety studies and spontaneous reports are presented in Table 1, below.
@@ -19,53 +18,19 @@ Table 1: Adverse reactions
 | --- | --- | --- | --- | --- | --- |
 |  | Very Common | Common | Uncommon | Rare | Not known |
 | Infections and infestations | Nasopharyngitis Urinary tract infection | Herpes infection | Progressive multifocal leukoencephalopathy | Herpes ophthalmic | Meningoencephalitis herpetic JC virus granule cell neuropathy Necrotising herpetic retinopathy |
-
-MedDRA Frequency of adverse reactions
-System Organ Very Common Common Uncommon Rare Not known
-Class
-Immune system Hypersensitivity Anaphylactic
-disorders reaction
-Immune
-reconstitution
-inflammatory
-syndrome
-Blood and Anaemia Eosinophilia Haemolytic anaemia
-lymphatic Nucleated red cells
-system disorders
-Hepatobiliary Hyperbilirubinaemia Liver injury
-disorders
-Investigations Hepatic
-enzyme
-increased
-Drug specific
-antibody
-present
-Injury, Infusion related
-poisoning and reaction
-procedural
-complications
-Respiratory, Dyspnoea
-thoracic and
-mediastinal
-disorders
-Gastrointestinal Nausea Vomiting
-disorders
-General Fatigue Pyrexia Face oedema
-disorders and Chills
-administration Infusion site
-site conditions reaction
-Injection site
-reaction
-Skin and Pruritus Angioedema
-subcutaneous Rash
-tissue disorders Urticaria
-Vascular Flushing
-disorders
-Nervous system Dizziness
-disorders Headache
-Musculoskeletal Arthralgia
-and connective
-tissue disorders
+| Immune system disorders |  | Hypersensitivity | Anaphylactic reaction Immune reconstitution inflammatory syndrome |  |  |
+| Blood and lymphatic system disorders |  | Anaemia | Thrombocytopenia, Immune thrombocytopenic purpura (ITP) Eosinophilia | Haemolytic anaemia Nucleated red cells |  |
+| Hepatobiliary disorders |  |  |  | Hyperbilirubinaemia | Liver injury |
+| Investigations |  | Hepatic enzyme increased Drug specific antibody present |  |  |  |
+| Injury, poisoning and procedural complications | Infusion related reaction |  |  |  |  |
+| Respiratory, thoracic and mediastinal disorders |  | Dyspnoea |  |  |  |
+| Gastrointestinal disorders | Nausea | Vomiting |  |  |  |
+| General disorders and administration site conditions | Fatigue | Pyrexia Chills Infusion site reaction Injection site reaction | Face oedema |  |  |
+| Skin and subcutaneous tissue disorders |  | Pruritus Rash Urticaria |  | Angioedema |  |
+|  | Very Common | Common | Uncommon | Rare | Not known |
+| Vascular disorders |  | Flushing |  |  |  |
+| Nervous system disorders | Dizziness Headache |  |  |  |  |
+| Musculoskeletal and connective tissue disorders | Arthralgia |  |  |  |  |
 
 Description of selected adverse reactions
 
@@ -76,6 +41,7 @@ These occurred in 23.1% of MS patients treated with natalizumab (placebo: 18.7%)
 Events reported more commonly with natalizumab than with placebo included dizziness, nausea, urticaria and rigors.
 
 Hypersensitivity reactions
+
 In 2-year controlled clinical trials in MS patients, hypersensitivity reactions occurred in up to 4% of patients.
 Anaphylactic/anaphylactoid reactions occurred in less than 1% of patients receiving this medicinal product.
 Hypersensitivity reactions usually occurred during the infusion or within the 1-hour period after the completion of the infusion (see section 4.4).
@@ -117,6 +83,7 @@ Symptoms of JCV GCN are similar to PML.
 Hepatic events
 
 Spontaneous cases of serious liver injuries, increased liver enzymes, hyperbilirubinaemia have been reported during the post-marketing phase (see section 4.4).
+
 Anaemia and haemolytic anaemia
 
 Rare, serious cases of anaemia and haemolytic anaemia have been reported in patients treated with this medicinal product in post-marketing observational studies.
@@ -166,14 +133,42 @@ Adverse reactions arising from clinical studies, post-authorisation safety studi
 |  | Very Common | Common | Uncommon | Rare | Not known |
 | Infections and infestations | Nasopharyngitis Urinary tract infection | Herpes infection | Progressive multifocal leukoencephalopathy | Herpes ophthalmic | Meningoencephalitis herpetic JC virus granule cell neuropathy Necrotising herpetic retinopathy |
 | Immune system disorders |  | Hypersensitivity | Anaphylactic reaction Immune reconstitution inflammatory syndrome |  |  |
-| Blood and lymphatic system disorders |  | Anaemia | Eosinophilia | Haemolytic anaemia Nucleated red cells |  |
+| Blood and lymphatic system disorders |  | Anaemia | Thrombocytopenia, Immune thrombocytopenic purpura (ITP), Eosinophilia | Haemolytic anaemia Nucleated red cells |  |
 | Hepatobiliary disorders |  |  |  | Hyperbilirubinaemia | Liver injury |
-| Investigations |  | Hepatic enzyme increased Drug specific antibody present |  |  |  |
-| Injury, poisoning and procedural complications | Infusion related reaction |  |  |  |  |
-| Respiratory, thoracic and mediastinal disorders |  | Dyspnoea |  |  |  |
-| Gastrointestinal disorders | Nausea | Vomiting |  |  |  |
-| General disorders and administration site conditions | Fatigue | Pyrexia Chills Infusion site reaction Injection site reaction | Face oedema |  |  |
-| Skin and |  | Pruritus |  | Angioedema |  |
+
+MedDRA Frequency of adverse reactions
+System Organ Very Common Common Uncommon Rare Not known
+Class
+Investigations Hepatic
+enzyme
+increased
+Drug specific
+antibody
+present
+Injury, Infusion related
+poisoning and reaction
+procedural
+complications
+Respiratory, Dyspnoea
+thoracic and
+mediastinal
+disorders
+Gastrointestinal Nausea Vomiting
+General Fatigue Pyrexia Face oedema
+disorders and Chills
+administration Infusion site
+site conditions reaction
+Injection site
+reaction
+Skin and Pruritus Angioedema
+subcutaneous Rash
+tissue disorders Urticaria
+Vascular Flushing
+Nervous system Dizziness
+disorders Headache
+Musculoskeletal Arthralgia
+and connective
+tissue disorders
 
 Hypersensitivity reactions usually occurred within one hour after completion of the subcutaneous injections.
 The number of patients analysed in the DELIVER and REFINE studies was low (see section 5.1).

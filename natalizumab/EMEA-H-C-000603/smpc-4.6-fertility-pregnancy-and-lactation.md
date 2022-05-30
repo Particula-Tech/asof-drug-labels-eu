@@ -3,7 +3,7 @@
 Women of childbearing potential
 
 If a woman becomes pregnant while taking this medicinal product, discontinuation should be considered.
-A benefit-risk evaluation of the use of this medicinal product during pregnancy should take into account the patient’s clinical condition and the possible return of disease activity after stopping the medicinal product.
+A benefit/risk evaluation of the use of this medicinal product during pregnancy should take into account the patient’s clinical condition and the possible return of disease activity after stopping the medicinal product.
 
 Pregnancy
 
@@ -17,8 +17,13 @@ Sixteen of the 29 were classified as major defects.
 The rate of defects corresponds to the defect rates reported in other pregnancy registries involving MS patients.
 There is no evidence of a specific pattern of birth defects with this medicinal product.
 
-Cases from published literature reported transient mild to moderate thrombocytopenia and anaemia observed in infants born to women exposed to natalizumab in their third trimester of pregnancy.
-Therefore, it is recommended that newborns of women exposed to the medicinal product during the third trimester of pregnancy are monitored for potential haematological abnormalities.
+There are no adequate and well-controlled studies of natalizumab therapy in pregnant women.
+
+Thrombocytopenia and anaemia in infants born to women exposed to natalizumab during pregnancy were reported in the postmarketing setting.
+Monitoring of platelet counts and haemoglobin is recommended in neonates born to women exposed to natalizumab during pregnancy.
+
+This drug should be used during pregnancy only if clearly needed.
+If a woman becomes pregnant while taking natalizumab, discontinuation of natalizumab should be considered.
 
 Breast-feeding
 

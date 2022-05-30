@@ -22,13 +22,13 @@ Patients who are anti-JCV antibody positive are at an increased risk of developi
 Patients who have all three risk factors for PML (i.e., are anti-JCV antibody positive and have received more than 2 years of therapy with this medicinal product and have received prior immunosuppressant therapy) have a significantly higher risk of PML.
 
 In anti-JCV antibody positive natalizumab treated patients who have not used prior immunosuppressants the level of anti-JCV antibody response (index) is associated with the level of risk for PML.
-
 In anti-JCV antibody positive patients, extended interval dosing of Tysabri (average dosing interval of approximately 6 weeks) is suggested to be associated with a lower PML risk compared to approved dosing.
-If utilising extended interval dosing, caution is required because the efficacy of extended interval dosing has not been established and the associated benefit risk balance is currently unknown (see section 5.1).
+If utilising extended interval dosing, caution is required because the efficacy of extended interval dosing has not been established and the associated benefit/risk balance is currently unknown (see section 5.1, Intravenous administration Q6W).
 For further information, refer to the Physician Information and Management Guidelines.
 
 Patients considered at high risk treatment with this treatment should only be continued if the benefits outweigh the risks.
 For the estimation of PML risk in the different patient subgroups, please refer to the Physician Information and Management Guidelines.
+
 Anti-JCV antibody testing
 
 Anti-JCV antibody testing provides supportive information for risk stratification of treatment with this medicinal product.
@@ -62,7 +62,6 @@ It is unknown if patients switching from these therapies to this treatment have 
 
 PML should be considered as a differential diagnosis in any MS patient taking Tysabri presenting with neurological symptoms and/or new brain lesions in MRI.
 Cases of asymptomatic PML based on MRI and positive JCV DNA in the cerebrospinal fluid have been reported.
-
 Physicians should refer to the Physician Information and Management Guidelines for further information on managing the risk of PML in natalizumab-treated patients.
 
 If PML or JCV GCN is suspected, further dosing must be suspended until PML has been excluded.
@@ -98,7 +97,6 @@ Opportunistic infections were also detected in MS patients treated with this med
 This treatment increases the risk of developing encephalitis and meningitis caused by herpes simplex and varicella zoster viruses.
 Serious, life-threatening, and sometimes fatal cases have been reported in the postmarketing setting in multiple sclerosis patients receiving the treatment (see section 4.8).
 If herpes encephalitis or meningitis occurs, the medicinal product should be discontinued, and appropriate treatment for herpes encephalitis or meningitis should be administered.
-
 Acute retinal necrosis (ARN) is a rare fulminant viral infection of the retina caused by the family of herpes viruses (e.g. varicella zoster).
 ARN has been observed in patients being administered this medicinal product and can be potentially blinding.
 Patients presenting with eye symptoms such as decreased visual acuity, redness and painful eye should be referred for retinal screening for ARN.
@@ -137,14 +135,14 @@ Concurrent treatment with immunosuppressants
 The safety and efficacy of this medicinal product in combination with other immunosuppressive and antineoplastic therapies have not been fully established.
 Concurrent use of these agents with this medicinal product may increase the risk of infections, including opportunistic infections, and is contraindicated (see section 4.3).
 
-In phase 3 MS clinical trials, concomitant treatment of relapses with a short course of corticosteroids was not associated with an increased rate of infection.
+In phase 3 MS clinical trials with natalizumab intravenous infusion, concomitant treatment of relapses with a short course of corticosteroids was not associated with an increased rate of infection.
 Short courses of corticosteroids can be used in combination with this medicinal product.
-
 Prior treatment with immunosuppressive or immunomodulatory therapies
 
 Patients with a treatment history of immunosuppressant medications are at increased risk for PML.
 No studies have been performed to evaluate the efficacy and safety of the medicinal product when switching patients from DMTs with an immunosuppressant effect.
 It is unknown if patients switching from these therapies to this medicinal product have an increased risk of PML, therefore these patients should be monitored more frequently (i.e. similarly to patients switching from immunosuppressants to this medicinal product, see MRI screening for PML).
+
 Care should be taken with patients who have previously received immunosuppressants to allow sufficient time for immune function recovery to occur.
 Physicians must evaluate each individual case to determine whether there is evidence of an immunocompromised state prior to commencing treatment (see section 4.3).
 
@@ -172,7 +170,6 @@ Disease exacerbations or infusion related events may indicate the development of
 In these cases the presence of antibodies should be evaluated and if these remain positive in a confirmatory test after at least 6 weeks, treatment should be discontinued, as persistent antibodies are associated with a substantial decrease in efficacy of this medicinal product and an increased incidence of hypersensitivity reactions (see section 4.8).
 
 Since patients who have received an initial short exposure to this medicinal product and then had an extended period without treatment are at a higher risk of developing anti-natalizumab antibodies and/or hypersensitivity upon redosing, the presence of antibodies should be evaluated and if these remain positive in a confirmatory test after at least 6 weeks, the patient should not receive further treatment with natalizumab (see section 5.1).
-
 Hepatic events
 
 Spontaneous serious adverse reactions of liver injury have been reported during the post-marketing phase (see section 4.8).
@@ -181,12 +178,13 @@ In some instances, the reaction reoccurred when treatment was reintroduced.
 Some patients with a past medical history of an abnormal liver test have experienced an exacerbation of abnormal liver test while on treatment.
 Patients should be monitored as appropriate for impaired liver function, and be instructed to contact their physician in case signs and symptoms suggestive of liver injury occur, such as jaundice and vomiting.
 In cases of significant liver injury this medicinal product should be discontinued.
+
 Thrombocytopenia
 
 Thrombocytopenia, including immune thrombocytopenic purpura (ITP), has been reported with the use of natalizumab.
 Delay in the diagnosis and treatment of thrombocytopenia may lead to serious and life-threatening sequelae.
 Patients should be instructed to report to their physician immediately if they experience any signs of unusual or prolonged bleeding, petechiae, or spontaneous bruising.
-If thrombocytopenia is identified, discontinuation of TYSABRI should be considered.
+If thrombocytopenia is identified, discontinuation of natalizumab should be considered.
 
 Stopping therapy
 
@@ -205,6 +203,7 @@ Before dilution, this medicinal product contains 52 mg sodium per vial of medici
 [Tysabri 150 mg solution for injection in pre-filled syringe]
 
 In anti-JCV antibody positive patients, extended interval dosing of natalizumab (average dosing interval of approximately 6 weeks) is suggested to be associated with a lower PML risk compared to approved dosing.
+If utilising extended interval dosing, caution is required because the efficacy of extended interval dosing has not been established and the associated benefit/risk balance is currently unknown (see section 5.1).
 The decrease in PML risk is based on data from intravenous route of administration.
 No clinical data are available on either the safety or efficacy of this extended interval dosing with subcutaneous route of administration.
 
@@ -233,8 +232,6 @@ Patients are to be observed during the subcutaneous injections and for 1 hour af
 This medicinal product should be discontinued and appropriate therapy initiated at the first symptoms or signs of hypersensitivity.
 
 There are limited data for the subcutaneous formulation in the Tysabri naïve patient population (see section 5.1).
-
-In phase 3 MS clinical trials with natalizumab intravenous infusion, concomitant treatment of relapses with a short course of corticosteroids was not associated with an increased rate of infection.
 
 Patients can switch directly from beta interferon or glatiramer acetate to natalizumabt providing there are no signs of relevant treatment-related abnormalities e.g. neutropenia and, lymphopenia.
 

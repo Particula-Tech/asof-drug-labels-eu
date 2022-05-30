@@ -22,4 +22,5 @@ A study in pregnant cynomolgus monkeys demonstrated natalizumab-related changes 
 These changes were associated with increased splenic extramedullary haematopoiesis, thymic atrophy and decreased hepatic haematopoiesis.
 Platelet counts were also reduced in offspring born to mothers treated with natalizumab until parturition, however there was no evidence of anaemia in these offspring.
 All changes were observed at doses in excess of the human dose and were reversed upon clearance of natalizumab.
+
 In cynomolgus monkeys treated with natalizumab until parturition, low levels of natalizumab were detected in the breast milk of some animals.
