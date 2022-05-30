@@ -2,6 +2,8 @@
 
 Film-coated tablets
 
+Light blue, round and embossed film-coated tablets with elongated letters “S” and “P” on one side and plain on the other.
+
 [Azomyr 2.5 mg orodispersible tablets]
 
 Orodispersible tablet

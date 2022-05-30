@@ -39,7 +39,6 @@ These subjects had a Cmax concentration about 3-fold higher at approximately 7 h
 
 In single-dose crossover studies of Azomyr 5 mg orodispersible tablets with Azomyr 5 mg conventional tablets, the formulations were bioequivalent.
 Azomyr 2.5 mg tablets has not been evaluated in paediatric patients however in conjunction with the dose finding studies in paediatrics, the pharmacokinetics data for Azomyr orodispersible tablets supports the use of the 2.5 mg dose in paediatric patients 6 to 11 years of age.
-
 The presence of food prolongs Tmax for desloratadine from 2.5 to 4 hours and Tmax for 3-OH-desloratadine from 4 to 6 hours.
 In a separate study, grapefruit juice had no effect on the disposition of desloratadine.
 Water had no effect on the bioavailability of Azomyr orodispersible tablets.

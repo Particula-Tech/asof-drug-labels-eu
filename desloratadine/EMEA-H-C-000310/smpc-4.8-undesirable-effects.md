@@ -9,13 +9,14 @@ In a clinical trial with 578 adolescent patients, 12 through 17 years of age, th
 
 Tabulated list of adverse reactions
 The frequency of the clinical trial adverse reactions reported in excess of placebo and other undesirable effects reported during the post-marketing period are listed in the following table.
-Frequencies are defined as very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000) and not known (cannot be estimated from the available data).
+Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000) and not known (cannot be estimated from the available data).
 
 | System Organ Class | Frequency | Adverse reactions seen with Azomyr |
 | --- | --- | --- |
 | Metabolism and nutrition disorders | Not known | Increased appetite |
-| Psychiatric disorders | Very rare Not known | Hallucinations Abnormal behaviour, aggression |
+| Psychiatric disorders | Very rare Not known | Hallucinations Abnormal behaviour, aggression, depressed mood |
 | Nervous system disorders | Common Very rare | Headache Dizziness, somnolence, insomnia, psychomotor hyperactivity, seizures |
+| Eye disorders | Not known | Eye dryness |
 | Cardiac disorders | Very rare Not known | Tachycardia, palpitations QT prolongation |
 | Gastrointestinal disorders | Common Very rare | Dry mouth Abdominal pain, nausea, vomiting, dyspepsia, diarrhoea |
 | Hepatobiliary disorders | Very rare Not known | Elevations of liver enzymes, increased bilirubin, hepatitis Jaundice |
@@ -62,8 +63,9 @@ At the recommended dose, in clinical trials involving adults and adolescents in 
 | System Organ Class | Frequency | Adverse reactions seen with Azomyr |
 | --- | --- | --- |
 | Metabolism and nutrition disorders | Not known | Increased appetite |
-| Psychiatric disorders | Very rare Not known | Hallucinations Abnormal behaviour, aggression |
+| Psychiatric disorders | Very rare Not known | Hallucinations Abnormal behaviour, aggression, depressed mood |
 | Nervous system disorders | Common Common (children less than 2 years) Very rare | Headache Insomnia Dizziness, somnolence, insomnia, psychomotor hyperactivity, seizures |
+| Eye disorders | Not known | Eye dryness |
 | Cardiac disorders | Very rare Not known | Tachycardia, palpitations QT prolongation |
 | Gastrointestinal disorders | Common Common (children less than 2 years) Very rare | Dry mouth Diarrhoea Abdominal pain, nausea, vomiting, dyspepsia, diarrhoea |
 | Hepatobiliary disorders | Very rare Not known | Elevations of liver enzymes, increased bilirubin, hepatitis Jaundice |
