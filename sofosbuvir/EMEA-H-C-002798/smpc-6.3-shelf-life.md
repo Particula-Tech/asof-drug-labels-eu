@@ -4,4 +4,4 @@
 
 [Sovaldi 150 mg coated granules in sachet]
 
-2 years.
+3 years.

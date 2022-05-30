@@ -19,6 +19,7 @@ Iron oxide yellow
 [Sovaldi 150 mg coated granules in sachet]
 
 Granule Cores
+
 Lactose monohydrate
 Hydroxypropyl cellulose
 Sodium stearyl fumarate

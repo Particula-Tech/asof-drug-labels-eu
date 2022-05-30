@@ -29,8 +29,8 @@ Treatment-experienced patients with genotype 1, 4, 5 and 6 HCV infection
 
 Sovaldi has not been studied in a Phase 3 study in treatment-experienced patients with genotype 1, 4, 5 and 6 HCV infection.
 Thus, the optimal treatment duration in this population has not been established (see also sections 4.2 and 5.1).
-
 Consideration should be given to treating these patients, and potentially extending the duration of therapy with sofosbuvir, peginterferon alfa and ribavirin beyond 12 weeks and up to 24 weeks; especially for those subgroups who have one or more factors historically associated with lower response rates to interferon-based therapies (advanced fibrosis/cirrhosis, high baseline viral concentrations, black race, IL28B non CC genotype).
+
 Treatment of patients with genotype 5 or 6 HCV infection
 
 The clinical data to support the use of Sovaldi in patients with genotype 5 and 6 HCV infection is very limited (see section 5.1).
@@ -68,3 +68,10 @@ Renal impairment
 Safety data are limited in patients with severe renal impairment (eGFR <30 mL/min/1.73 m2) and ESRD requiring haemodialysis.
 Sovaldi can be used in these patients with no dose adjustment when no other relevant treatment options are available (see sections 4.8, 5.1 and 5.2).
 When Sovaldi is used in combination with ribavirin or peginterferon alfa/ribavirin, refer also to the Summary of Product Characteristics for ribavirin for patients with creatinine clearance (CrCl) <50 mL/min (see also section 5.2).
+Excipients
+
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
+
+[Sovaldi 150 mg coated granules in sachet]
+
+This medicine contains less than 1 mmol sodium (23 mg) per sachet, that is to say essentially ‘sodium-free’.

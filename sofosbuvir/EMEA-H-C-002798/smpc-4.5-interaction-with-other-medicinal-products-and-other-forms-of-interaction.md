@@ -29,7 +29,6 @@ Other interactions
 
 Drug interaction information for Sovaldi with potential concomitant medicinal products is summarised in Table 5 below (where 90% confidence interval (CI) of the geometric least-squares mean (GLSM) ratio were within “↔”, extended above “↑”, or extended below “↓” the predetermined equivalence boundaries).
 The table is not all-inclusive.
-
 Table 5: Interactions between Sovaldi and other medicinal products
 
 | Medicinal product by therapeutic areas | Effects on drug levels. Mean ratio (90% confidence interval) for AUC, Cmax, Cmina,b | Recommendation concerning co-administration with Sovaldi |

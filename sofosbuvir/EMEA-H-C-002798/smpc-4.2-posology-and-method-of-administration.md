@@ -44,7 +44,7 @@ Table 2: Dosing for paediatric patients aged 3 years and above using Sovaldi tab
 | ≥ 35 | one 400 mg tablet once daily or two 200 mg tablets once daily | 400 mg/day |
 | 17 to < 35 | one 200 mg tablet once daily | 200 mg/day |
 
-*Sovaldi is also available as granules for use in paediatric patients with CHC aged 3 years and above (see section 5.1).
+* Sovaldi is also available as granules for use in paediatric patients with CHC aged 3 years and above (see section 5.1).
 Patients that weigh < 17 kg are not recommended to take tablets.
 Please refer to the Summary of Product Characteristics for Sovaldi 150 mg or 200 mg granules.
 
@@ -161,7 +161,7 @@ Table 2: Dosing for paediatric patients aged 3 years and above using Sovaldi ora
 | 17 to < 35 | one 200 mg sachet of granules once daily | 200 mg/day |
 | < 17 | one 150 mg sachet of granules once daily | 150 mg/day |
 
-*Sovaldi is also available as film-coated tablet for use in paediatric patients with CHC aged 3 years and above (see section 5.1).
+* Sovaldi is also available as film-coated tablet for use in paediatric patients with CHC aged 3 years and above (see section 5.1).
 Please refer to the Summary of Product Characteristics for Sovaldi 200 mg or 400 mg tablets.
 
 | Body weight kg | Ribavirin Dose* |

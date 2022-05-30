@@ -80,7 +80,6 @@ Sofosbuvir in a fixed dose combination with ledipasvir was administered for 12 w
 The safety of sofosbuvir in a fixed dose combination with either ledipasvir or velpatasvir has been studied in 154 patients with ESRD requiring dialysis (Study 4062 and Study 4063).
 In this setting, exposure of sofosbuvir metabolite GS-331007 is 20-fold increased, exceeding levels where adverse reactions have been observed in preclinical trials.
 In this limited clinical safety data set, the rate of adverse events and deaths was not clearly elevated from what is expected in ESRD patients.
-
 Adult liver transplant recipients
 The safety profile of sofosbuvir and ribavirin in liver transplant adult recipients with chronic hepatitis C was similar to that observed in patients treated with sofosbuvir and ribavirin in Phase 3 clinical studies (see section 5.1).
 In study 0126, decreases in haemoglobin during treatment were very common with 32.5% (13/40 patients) experiencing a decline in haemoglobin to <10 g/dL, 1 of whom also had a decline to <8.5 g/dL.
@@ -107,5 +106,7 @@ Common dyspnoea, dyspnoea exertional, cough dyspnoea exertional
 Common abdominal discomfort, constipation, dyspepsia constipation, dry mouth, gastroesophageal reflux
 Common arthralgia, back pain, muscle spasms, myalgia back pain, muscle spasms
 Very common fatigue, irritability chills, fatigue, influenza-like illness, irritability, pain, pyrexia
+
+a. SOF = sofosbuvir; b. RBV = ribavirin; c. PEG = peginterferon alfa; d. Decreased appetite was identified as an adverse drug reaction to Sovaldi in combination with ribavirin oral solution in paediatric patients aged 3 to < 12 years Description of selected adverse reactions
 
 Decreased appetite was observed as a very common adverse drug reaction to Sovaldi when given in combination with ribavirin oral solution in paediatric patients 3 to < 12 years.

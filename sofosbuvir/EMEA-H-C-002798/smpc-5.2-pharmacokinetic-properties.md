@@ -27,7 +27,6 @@ GS-331007 is not an inhibitor of OAT1, OCT2, and MATE1.
 Sofosbuvir is approximately 85% bound to human plasma proteins (ex vivo data) and the binding is independent of drug concentration over the range of 1 μg/mL to 20 μg/mL.
 Protein binding of GS-331007 was minimal in human plasma.
 After a single 400 mg dose of [14C]-sofosbuvir in healthy subjects, the blood to plasma ratio of 14C-radioactivity was approximately 0.7.
-
 Biotransformation
 
 Sofosbuvir is extensively metabolised in the liver to form the pharmacologically active nucleoside analog triphosphate GS-461203.
@@ -101,7 +100,7 @@ Population pharmacokinetic analysis in HCV infected patients showed that within 
 
 |  | HCV-Negative Subjects |  |  |  |  | HCV-Infected Subjects |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Mild RI (eGFR ≥50 and <80 mL/min/1.73 m2) | Moderate RI (eGFR ≥30 and <50 mL/min/1.73 m2) | Severe RI (eGFR <30 mL/min/1.7 3m2) | ESRD Requiring Dialysis |  | Severe RI (eGFR <30 mL/min/1. 73m2) | ESRD Requiring Dialysis |
+|  | Mild RI (eGFR ≥50 and <80 mL/min/1.73 m2) | Moderate RI (eGFR ≥30 and <50 mL/min/1.73 m2) | Severe RI (eGFR <30 mL/min/1.7 3m2) | ESRD Requiring Dialysis |  | Severe RI (eGFR <30 mL/min/1. 73m2) | ESRD Requirin g Dialysis |
 |  |  |  |  | Dosed 1 hr Before Dialysis | Dosed 1 hr After Dialysis |  |  |
 | Sofosbuvir | 1.6-fold↑ | 2.1-fold↑ | 2.7-fold↑ | 1.3-fold↑ | 1.6-fold↑ | ~2-fold↑ | 1.9-fold↑ |
 | GS-331007 | 1.6-fold↑ | 1.9-fold↑ | 5.5-fold↑ | ≥10-fold↑ | ≥20-fold↑ | ~7-fold↑ | 21-fold↑ |
