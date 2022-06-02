@@ -19,6 +19,7 @@ In vitro studies have shown that CYP3A4 is the major enzyme involved in the meta
 The major identified metabolic pathways are oxidation and degradation of the imidazole and piperazine rings, oxidative O-dealkylation and aromatic hydroxylation.
 Ketoconazole is a potent inhibitor of CYP3A4 and P-gp.
 Ketoconazole has not been demonstrated to induce its own metabolism.
+
 Elimination
 
 Plasma elimination is biphasic with a half-life of 2 hours during the first 10 hours and 8 hours thereafter.

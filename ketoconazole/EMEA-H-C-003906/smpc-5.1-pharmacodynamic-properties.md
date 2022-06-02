@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antimycotics for systemic use, imidazole derivatives, ATC code: J02AB02
+Pharmacotherapeutic group: CORTICOSTEROIDS FOR SYSTEMIC USE, Anticorticosteroids, ATC code: H02CA03
 
 Mechanism of action
 
@@ -11,7 +11,7 @@ Therefore, ketoconazole is an inhibitor of cortisol and aldosterone synthesis.
 Ketoconazole is also a potent inhibitor of androgens synthesis, inhibiting the activity of C17-20 lyase in the adrenals and also in Leydig cells.
 Apart from adrenal blocking effect, ketoconazole may also have direct effects on corticotropic tumour cells in patients with Cushing’s disease.
 
-Clinical efficacy
+Clinical efficacy and safety
 
 The efficacy and safety of ketoconazole in the treatment of Cushing’s syndrome from all causes have been described through several published retrospective studies, chart reviews and case reports.
 Control of cortisol levels, either in serum/plasma or urine, was used to assess the efficacy of the treatment, along with the evaluation of clinical symptoms of Cushing’s syndrome.

@@ -75,4 +75,4 @@ Patients should be advised against alcohol consumption while on treatment (see s
 Warning regarding excipients
 
 This medicinal product contains lactose.
-Patients with congenital lactase deficiency, galactosaemia or glucose-galactose intolerance must not be given this medicine unless strictly necessary.
+Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucosegalactose malabsorption should not take this medicine.
