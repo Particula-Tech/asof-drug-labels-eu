@@ -3,10 +3,10 @@
 Unopened vials
 3 years
 
-Stability of reconstituted suspension in the vial
+Stability of reconstituted dispersion in the vial
 Chemical and physical in-use stability has been demonstrated for 24 hours at 2°C-8°C in the original carton, protected from light.
 
-Stability of the reconstituted suspension in the infusion bag
+Stability of the reconstituted dispersion in the infusion bag
 Chemical and physical in-use stability has been demonstrated for 24 hours at 2°C-8°C followed by 4 hours at 25°C, protected from light.
 
 However, from a microbiological point of view, unless the method of reconstituting and filling of the infusion bags precludes the risks of microbial contamination, the product should be used immediately after reconstitution and filling of the infusion bags.

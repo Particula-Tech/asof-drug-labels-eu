@@ -25,7 +25,6 @@ Patients were treated without steroid pre-treatment or planned G-CSF support.
 Cycles were administered at 3-week intervals.
 The response rates in all patients were 39.5% (95% CI: 24.9%-54.2%) and 47.6% (95% CI: 35.3%-60.0%), respectively.
 The median time to disease progression was 5.3 months (175 mg/m2; 95% CI: 4.6-6.2 months) and 6.1 months (300 mg/m2; 95% CI: 4.2-9.8 months).
-
 Randomised comparative study
 This multi-centre trial was conducted in patients with metastatic breast cancer, who were treated every 3 weeks with single-agent paclitaxel, either as solvent-based paclitaxel 175 mg/m2 given as a 3-hour infusion with premedication to prevent hypersensitivity (N = 225), or as Abraxane 260 mg/m2 given as a 30 minute infusion without premedication (N = 229).
 
@@ -33,6 +32,7 @@ Sixty-four percent of patients had impaired performance status (ECOG 1 or 2) at 
 Fourteen percent of the patients had not received prior chemotherapy; 27% had received chemotherapy in the adjuvant setting only, 40% in the metastatic setting only, and 19% in both metastatic and adjuvant settings.
 Fifty-nine percent received study medicinal product as second or greater than second-line therapy.
 Seventy-seven percent of the patients had been previously exposed to anthracyclines.
+
 Results for overall response rate and time to disease progression, and progression-free survival and survival for patients receiving > 1st-line therapy, are shown below.
 
 Table 8: Results for overall response rate, median time to disease progression, and progression-free survival as assessed by the investigator
@@ -99,6 +99,7 @@ Table 9: Efficacy results from randomized study in patients with pancreatic aden
 CI = confidence interval, HRA+G/G = hazard ratio of Abraxane+gemcitabine/gemcitabine, pA+G/pG=response rate ratio of Abraxane+gemcitabine/gemcitabine a stratified Cox proportional hazard model b stratified log-rank test, stratified by geographic region (North America versus others), KPS (70 to 80 versus 90 to 100), and presence of liver metastasis (yes versus no).
 
 There was a statistically significant improvement in OS for patients treated with Abraxane/gemcitabine versus gemcitabine alone, with 1.8 months increase in median OS, 28% overall reduction in risk of death, 59% improvement in 1-year survival, and 125% improvement in 2-year survival rates.
+
 Figure 1: Kaplan-Meier curve of overall survival (intent-to-treat population)
 1.0 ABRAXANE+Gemcitabine 0.9 Gemcitabine
 
@@ -106,8 +107,7 @@ Figure 1: Kaplan-Meier curve of overall survival (intent-to-treat population)
 
 0.7
 
-Survival 0.6 of
-0.5
+Survival 0.6 of 0.5
 
 0.4
 Proportion
@@ -128,7 +128,6 @@ Treatment effects on OS favoured the Abraxane/gemcitabine arm across the majorit
 For patients ≥ 75 years of age in the Abraxane/gemcitabine and gemcitabine arms the survival Hazard Ratio (HR) was 1.08 (95% CI 0.653, 1.
 797).
 For patients with normal baseline CA 19-9 levels the survival HR was 1.07 (95% CI 0.692, 1.661).
-
 There was a statistically significant improvement in PFS for patients treated with Abraxane/gemcitabine versus gemcitabine alone, with 1.8 months increase in median PFS.
 
 Non-small cell lung cancer
@@ -164,7 +163,6 @@ a P-value is based on a chi-square test.
 There was no statistically significant difference in progression-free survival (by blinded radiologist assessment) and overall survival between the two treatment arms.
 A non-inferiority analysis was conducted for PFS and OS, with a pre-specified non-inferiority margin of 15%.
 The non-inferiority criterion was met for both PFS and OS with the upper bound of the 95% confidence interval for the associated hazard ratios being less than 1.176 (Table 11).
-
 Table 11: Non-inferiority analyses on progression-free survival and overall survival in randomized non-small cell lung cancer trial (intent-to-treat population)
 
 | Efficacy Parameter | Abraxane (100 mg/m2/week) + carboplatin (N=521) | Solvent-based paclitaxel (200 mg/m2 every 3 weeks) + carboplatin (N=531) |
@@ -180,6 +178,7 @@ Table 11: Non-inferiority analyses on progression-free survival and overall surv
 
 CI = confidence interval; HRA/T = hazard ratio of Abraxane/carboplatin to solvent-based paclitaxel/carboplatin; pA/pT = response rate ratio of Abraxane/carboplatin to solvent-based paclitaxel/carboplatin.
 a Per EMA methodological considerations for PFS endpoint, missing observations or initiation of subsequent new therapy were not used for censoring.
+
 Paediatric population
 Safety and effectiveness in paediatric patients have not been established (see section 4.2).
 

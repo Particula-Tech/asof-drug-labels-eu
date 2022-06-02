@@ -50,6 +50,11 @@ CNS metastases are generally not well controlled by systemic chemotherapy.
 Gastrointestinal symptoms
 If patients experience nausea, vomiting and diarrhoea following the administration of Abraxane, they may be treated with commonly used anti-emetics and constipating agents.
 
+Eye disorders
+Cystoid macular oedema (CMO) has been reported in patients treated with Abraxane.
+Patients with impaired vision should undergo a prompt and complete ophthalmologic examination.
+In case CMO is diagnosed, Abraxane treatment should be discontinued and appropriate treatment initiated (see section 4.8).
+
 Patients 75 years and older
 For patients of 75 years and older, no benefit for the combination treatment of Abraxane and gemcitabine in comparison to gemcitabine monotherapy has been demonstrated.
 In the very elderly (≥ 75 years) who received Abraxane and gemcitabine, there was a higher incidence of serious adverse reactions and adverse reactions that led to treatment discontinuation including haematologic toxicities, peripheral neuropathy, decreased appetite and dehydration.
@@ -61,5 +66,4 @@ Although limited data is available, no clear benefit in terms of prolonged overa
 Erlotinib should not be co-administered with Abraxane plus gemcitabine (see section 4.5).
 
 Excipients
-When reconstituted, each ml of Abraxane concentrate contains 0.183 mmol sodium, which is 4.2 mg of sodium.
-To be taken into consideration by patients on a controlled sodium diet.
+This medicine contains less than 1 mmol sodium (23 mg) per 100 mg, that is to say essentially ‘sodium free’.

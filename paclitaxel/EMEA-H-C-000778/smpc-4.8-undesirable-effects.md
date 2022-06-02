@@ -42,7 +42,7 @@ Table 6: Adverse reactions reported with Abraxane
 | Eye disorders |  |  |  |
 | Common: | Vision blurred, lacrimation increased, dry eye, keratoconjunctivitis sicca, madarosis | Lacrimation increased | Vision blurred |
 | Uncommon: | Reduced visual acuity, abnormal vision, eye irritation, eye pain, conjunctivitis, visual disturbance, eye pruritus, keratitis | Cystoid macular oedema |  |
-| Rare: | Cystoid macular oedema1, 4 |  |  |
+| Rare: | Cystoid macular oedema1 |  |  |
 | Ear and labyrinth disorders |  |  |  |
 | Common: | Vertigo |  |  |
 | Uncommon: | Tinnitus, ear pain |  |  |
@@ -70,7 +70,7 @@ Table 6: Adverse reactions reported with Abraxane
 | Common: | Pruritus, dry skin, nail disorder, erythema, nail pigmentation/discolouration, skin hyperpigmentation, onycholysis, nail changes | Pruritus, dry skin, nail disorder | Pruritus, nail disorder |
 | Uncommon: | Photosensitivity reaction, urticaria, skin pain, generalised pruritus, pruritic rash, skin disorder, pigmentation disorder, hyperhidrosis, onychomadesis, erythematous rash, generalised rash, dermatitis, night sweats, maculo-papular rash, vitiligo, hypotrichosis, nail bed tenderness, nail discomfort, macular rash, papular rash, skin lesion, swollen face |  | Skin exfoliation, dermatitis allergic, urticaria |
 | Very rare: | Stevens-Johnson syndrome1, toxic epidermal necrolysis1 |  |  |
-| Not known: | Palmar-plantar erythrodysaesthesiae syndrome1, 5, scleroderma1 |  |  |
+| Not known: | Palmar-plantar erythrodysaesthesiae syndrome1, 4, scleroderma1 |  |  |
 | Musculoskeletal and connective tissue disorders |  |  |  |
 | Very common: | Arthralgia, myalgia | Arthralgia, myalgia, pain in extremity | Arthralgia, myalgia |
 | Common: | Back pain, pain in extremity, bone pain, muscle cramps, limb pain | Muscular weakness, bone pain | Back pain, pain in extremity, musculoskeletal pain |
@@ -88,34 +88,24 @@ Table 6: Adverse reactions reported with Abraxane
 | Investigations |  |  |  |
 | Very common: |  | Weight decreased, alanine aminotransferase increased |  |
 | Common: | Decreased weight, increased alanine aminotransferase, increased aspartate aminotransferase, decreased haematocrit, decreased red blood cell count, increased body temperature, increased gamma-glutamyltransferase, increased blood alkaline phosphatase | Aspartate aminotransferase increased, blood bilirubin increased, blood creatinine increased | Weight decreased, alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased |
-
-Increased blood pressure, increased
-weight, increased blood lactate
-dehydrogenase, increased blood
-Uncommon: creatinine, increased blood glucose,
-increased blood phosphorus,
-decreased blood potassium,
-increased bilirubin
-Injury, poisoning and procedural complications
-Uncommon: Contusion
-Radiation recall phenomenon,
-Rare:
-radiation pneumonitis
+| Uncommon: | Increased blood pressure, increased weight, increased blood lactate dehydrogenase, increased blood creatinine, increased blood glucose, increased blood phosphorus, decreased blood potassium, increased bilirubin |  |  |
+| Injury, poisoning and procedural complications |  |  |  |
+| Uncommon: | Contusion |  |  |
+| Rare: | Radiation recall phenomenon, radiation pneumonitis |  |  |
 
 1 As reported in the post-marketing surveillance of Abraxane.
 2 The frequency of pneumonitis is calculated based on pooled data in 1310 patients in clinical trials receiving Abraxane monotherapy for breast cancer and for other indications.
 3 Based on laboratory assessments: maximal degree of myelosuppression (treated population).
-4 Upon diagnosis of cystoid macular oedema, treatment with Abraxane should be discontinued.
-5 In some patients previously exposed to capecitabine.
+4 In some patients previously exposed to capecitabine.
 
 Description of selected adverse reactions
 This section contains the most common and clinically relevant adverse reactions related to Abraxane.
 
-Adverse reactions were assessed in 229 patients with metastatic breast cancer who were treated with 260 mg/m2 Abraxane once every three weeks in the pivotal phase III clinical study (Abraxane monotherapy-metastatic breast cancer).
+Adverse reactions were assessed in 229 patients with metastatic breast cancer who were treated with 260 mg/m2 Abraxane once every three weeks in the pivotal phase III clinical study (Abraxane monotherapy).
 
-Adverse reactions were assessed in 421 patients treated with Abraxane in combination with gemcitabine (125 mg/m2 Abraxane in combination with gemcitabine at a dose of 1000 mg/m2 given on Days 1, 8 and 15 of each 28-day cycle) and 402 gemcitabine monotherapy-treated patients receiving first-line systemic treatment for metastatic adenocarcinoma of the pancreas (Abraxane/gemcitabine).
+Adverse reactions were assessed in 421 patients with metastatic pancreatic cancer who were treated with Abraxane in combination with gemcitabine (125 mg/m2 Abraxane in combination with gemcitabine at a dose of 1000 mg/m2 given on Days 1, 8 and 15 of each 28-day cycle) and 402 gemcitabine monotherapy-treated patients receiving first-line systemic treatment for metastatic adenocarcinoma of the pancreas (Abraxane/gemcitabine).
 
-Adverse reactions for non-small cell lung cancer patients treated with Abraxane in combination with carboplatin in the phase III randomized, controlled clinical trial (N = 514) are also reported (Abraxane/carboplatin).
+Adverse reactions were assessed in 514 patients with non-small cell lung cancer who were treated with Abraxane in combination with carboplatin (100mg/m2 Abraxane given on Days 1, 8 and 15 of each 21-day cycle in combination with carboplatin given on Day 1 of each cycle) in the phase III randomized, controlled clinical trial (Abraxane/carboplatin).
 Patient-reported taxane toxicity was assessed using the 4 subscales of the Functional Assessment of Cancer Therapy (FACT)-Taxane questionnaire.
 Using repeated measure analysis, 3 of the 4 subscales (peripheral neuropathy, pain hands/feet and hearing) favored Abraxane and carboplatin (p ≤ 0.002).
 For the other subscale (oedema), there was no difference in the treatment arms.
@@ -123,6 +113,7 @@ For the other subscale (oedema), there was no difference in the treatment arms.
 Infections and infestations
 Abraxane/gemcitabine
 Sepsis was reported at a rate of 5% in patients with or without neutropenia who received Abraxane in combination with gemcitabine during the conduct of a trial in pancreatic adenocarcinoma.
+Of the 22 cases of sepsis reported in patients treated with Abraxane in combination with gemcitabine, 5 had a fatal outcome.
 Complications due to the underlying pancreatic cancer, especially biliary obstruction or presence of biliary stent, were identified as significant contributing factors.
 If a patient becomes febrile (regardless of neutrophil count), initiate treatment with broad spectrum antibiotics.
 For febrile neutropenia, withhold Abraxane and gemcitabine until fever resolves and ANC ≥ 1500 cells/mm3, then resume treatment at reduced dose levels (see section 4.2).
@@ -168,8 +159,7 @@ For non-small cell lung cancer patients treated with Abraxane and carboplatin, t
 No patients treated with Abraxane and carboplatin experienced Grade 4 peripheral neuropathy.
 
 Eye disorders
-There have been rare reports during post-marketing surveillance of reduced visual acuity due to cystoid macular oedema during treatment with Abraxane.
-Upon diagnosis of cystoid macular oedema, treatment with Abraxane should be discontinued.
+There have been rare reports during post-marketing surveillance of reduced visual acuity due to cystoid macular oedema during treatment with Abraxane (see section 4.4).
 
 Respiratory, thoracic and mediastinal disorders
 Abraxane/gemcitabine
@@ -204,7 +194,6 @@ Every patient experienced at least 1 adverse reaction.
 The most frequently reported adverse reactions were neutropenia, anaemia, leukopenia and pyrexia.
 Serious adverse reactions reported in more than 2 patients were pyrexia, back pain, peripheral oedema and vomiting.
 No new safety signals were identified in the limited number of paediatric patients treated with Abraxane and the safety profile was similar to that of the adult population.
-
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.

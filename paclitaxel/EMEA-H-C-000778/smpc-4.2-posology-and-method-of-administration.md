@@ -7,6 +7,7 @@ Posology
 
 Breast cancer
 The recommended dose of Abraxane is 260 mg/m2 administered intravenously over 30 minutes every 3 weeks.
+
 Dose adjustments during treatment of breast cancer
 Patients who experience severe neutropenia (neutrophil count < 500 cells/mm3 for a week or longer) or severe sensory neuropathy during Abraxane therapy should have the dose reduced to 220 mg/m2 for subsequent courses.
 Following recurrence of severe neutropenia or severe sensory neuropathy, additional dose reduction should be made to 180 mg/m2.
@@ -40,9 +41,9 @@ Table 2: Dose modifications for neutropenia and/or thrombocytopenia at the start
 |  | < 500 | OR | < 50,000 | Withhold doses |  |
 | Day 15: If Day 8 doses were reduced: |  |  |  |  |  |
 | Day 15 | ≥ 1000 | AND | ≥ 75,000 | Return to the Day 1 dose levels and follow with WBC Growth Factors OR Treat with same doses as Day 8 |  |
-|  | ≥ 500 but < 1000 | OR | ≥ 50,000 but < 75,000 | Treat with Day 8 dose levels and |  |
+|  | ≥ 500 but < 1000 | OR | ≥ 50,000 but < 75,000 | Treat with Day 8 dose levels and follow with WBC Growth Factors OR Reduce doses 1 dose level from |  |
 
-|  |  |  |  | follow with WBC Growth Factors OR Reduce doses 1 dose level from Day 8 doses |
+|  |  |  |  | Day 8 doses |
 | --- | --- | --- | --- | --- |
 |  | < 500 | OR | < 50,000 | Withhold doses |
 | Day 15: IF Day 8 doses were withheld: |  |  |  |  |
@@ -72,7 +73,6 @@ Abraxane should not be administered on Day 1 of a cycle until absolute neutrophi
 For each subsequent weekly dose of Abraxane, patients must have an ANC ≥500 cells/mm3 and platelets >50,000 cells/mm3 or the dose is to be withheld until counts recover.
 When counts recover, resume dosing the following week according to the criteria in Table 4.
 Reduce subsequent dose only if criteria in Table 4 are met.
-
 Table 4: Dose reductions for haematologic toxicities in patients with non-small cell lung cancer
 
 | Haematologic Toxicity | Occurrence | Dose of Abraxane (mg/m2)1 | Dose of carboplatin (AUC mg•min/mL)1 |
@@ -114,8 +114,8 @@ For metastatic breast cancer patients and non-small cell lung cancer patients wi
 The reduced dose may be escalated to the dose for patients with normal hepatic function if the patient is tolerating the treatment for at least two cycles (see sections 4.4 and 5.2).
 
 For patients with metastatic adenocarcinoma of the pancreas that have moderate to severe hepatic impairment, there are insufficient data to permit dosage recommendations (see sections 4.4 and 5.2).
-For patients with total bilirubin > 5 x ULN or AST > 10 x ULN, there are insufficient data to permit dosage recommendations regardless of indication (see sections 4.4 and 5.2).
 
+For patients with total bilirubin > 5 x ULN or AST > 10 x ULN, there are insufficient data to permit dosage recommendations regardless of indication (see sections 4.4 and 5.2).
 Renal impairment
 Adjustment of the starting Abraxane dose is not required for patients with mild to moderate renal impairment (estimated creatinine clearance ≥30 to <90 ml/min).
 There are insufficient data available to recommend dose modifications of Abraxane in patients with severe renal impairment or end stage renal disease (estimated creatinine clearance <30 ml/min) (see section 5.2).
@@ -143,7 +143,7 @@ Currently available data are described in section s 4.8, 5.1 and 5.2 but no reco
 There is no relevant use of Abraxane in the paediatric population for the indication of metastatic breast cancer or pancreatic adenocarcinoma or non-small cell lung cancer.
 
 Method of administration
-Administer reconstituted Abraxane suspension intravenously using an infusion set incorporating a 15 µm filter.
+Administer reconstituted Abraxane dispersion intravenously using an infusion set incorporating a 15 µm filter.
 Following administration, it is recommended that the intravenous line be flushed with sodium chloride 9 mg/ml (0.9%) solution for injection to ensure administration of the complete dose.
 
 For instructions on reconstitution of the medicinal product before administration, see section 6.6.

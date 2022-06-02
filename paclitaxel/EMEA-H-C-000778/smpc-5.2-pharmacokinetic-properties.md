@@ -11,6 +11,7 @@ There was no evidence for accumulation of paclitaxel with multiple treatment cou
 
 Distribution
 Following Abraxane administration to patients with solid tumours, paclitaxel is evenly distributed into blood cells and plasma and is highly bound to plasma proteins (94%).
+
 The protein binding of paclitaxel following Abraxane was evaluated by ultrafiltration in a within-patient comparison study.
 The fraction of free paclitaxel was significantly higher with Abraxane (6.2%) than with solvent-based paclitaxel (2.3%).
 This resulted in significantly higher exposure to unbound paclitaxel with Abraxane compared with solvent-based paclitaxel, even though the total exposure is comparable.
