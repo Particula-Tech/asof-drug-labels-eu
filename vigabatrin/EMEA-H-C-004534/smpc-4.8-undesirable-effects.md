@@ -21,14 +21,18 @@ Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/10
 | --- | --- | --- | --- | --- | --- | --- |
 | Blood and lymphatic system disorders |  | anaemia |  |  |  |  |
 | Psychiatric disorders |  | agitation, aggression, nervousness, depression, paranoid reaction, insomnia | hypomania, mania, psychotic disorder | suicide attempt | hallucination |  |
-| Nervous system disorders | somnolenc e | speech disorder, headache, dizziness, paraesthesia, disturbance in attention and memory impairment, mental impairment (thought disturbance), tremor | coordination abnormal (ataxia) | encephalo pathy | optic neuritis | brain MRI abnormalities. movement disorders, including dystonia, dyskinesia and hypertonia, either alone or in association with abnormalities in MRI |
+| Nervous system disorders | somnolenc e | speech disorder, headache, dizziness, paraesthesia, disturbance in attention and memory impairment, mental impairment (thought disturbance), tremor | coordination abnormal (ataxia) | encephalo pathy | optic neuritis | brain MRI abnormalities, intramyelinic oedema (particularly in infants) (see sections 4.4 and 5.3), movement disorders, including dystonia, dyskinesia and hypertonia, either alone or in association with abnormalities in MRI |
 | Eye disorders | visual field defect | vision blurred, diplopia, nystagmus |  | retinal disorder (such as peripheral retinal atrophy) | optic atrophy | reduced visual acuity |
 | Gastrointesti nal disorders |  | nausea, vomiting, abdominal pain |  |  |  |  |
 | Hepatobiliar y disorders |  |  |  |  | hepatitis |  |
 | Skin and subcutaneou s tissue disorders |  | alopecia | rash | angioede ma, urticaria |  |  |
-| Musculoskel etal and connective tissue disorders | arthralgia |  |  |  |  |  |
-| General disorders | fatigue | oedema, irritability |  |  |  |  |
+| Musculoskel etal and | arthralgia |  |  |  |  |  |
 
+connective
+tissue
+disorders
+General fatigue oedema,
+disorders irritability
 and
 administratio
 n site

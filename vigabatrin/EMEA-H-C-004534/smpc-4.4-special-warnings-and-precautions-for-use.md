@@ -24,7 +24,8 @@ Visual Field Defects (VFD)
 Based on available data, the usual pattern is a concentric constriction of the visual field of both eyes, which is generally more marked nasally than temporally.
 In the central visual field (within 30 degree of eccentricity), frequently an annular nasal defect is seen.
 However, the VFDs reported in patients receiving vigabatrin have ranged from mild to severe.
-Severe cases are potentially disabling.
+Severe cases are potentially disabling and may be characterized by tunnel vision.
+Blindness was also reported in severe cases.
 
 Most patients with perimetry-confirmed defects had not previously spontaneously noticed any symptoms, even in cases where a severe defect was observed in perimetry.
 Available evidence suggests that the VFD is irreversible even after discontinuation of vigabatrin.
@@ -72,6 +73,9 @@ In a retrospective epidemiologic study in infants with infantile spasms (N=205),
 In the study above, in post-marketing experience, and in published literature reports, these changes generally resolved with discontinuation of treatment.
 In a few patients, the lesion resolved despite continued use.
 
+Additionally, cases of intramyelinic oedema (IME) have been reported, particularly in infants treated for infantile spasms (see section 4.8 and 5.3).
+IME has been reported to be reversible following drug discontinuation, and it is therefore recommended to progressively discontinue vigabatrin when IME is observed.
+
 Movement disorders including dystonia, dyskinesia and hypertonia, have been reported in patients treated with vigabatrin for infantile spasms.
 The benefit/risk ratio of vigabatrin should be evaluated on an individual patient basis.
 If new movement disorders occur during treatment with vigabatrin, consideration should be given to dose reduction or a gradual discontinuation of treatment.
@@ -93,11 +97,11 @@ Suicidal ideation and behaviour
 Suicidal ideation and behaviour have been reported in patients treated with antiepileptic medicinal products in several indications.
 A meta-analysis of randomised placebo-controlled trials of antiepileptic medicinal products has also shown a small increased risk of suicidal ideation and behaviour.
 The mechanism of this effect is not known and the available data do not exclude the possibility of an increased risk for vigabatrin.
-
 Therefore, patients should be monitored for signs of suicidal ideation and behaviour, and appropriate treatment should be considered.
 Patients (and caregivers of patients) should be advised to seek medical advice immediately should signs of suicidal ideation or behaviour emerge.
 
 Renal impairment
+
 Since vigabatrin is eliminated via the kidneys, caution should be exercised in patients with a creatinine clearance of less than 60 ml/min.
 These patients should be monitored closely for undesirable effects such as sedation and confusion (see section 4.2).
 
