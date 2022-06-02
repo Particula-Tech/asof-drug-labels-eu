@@ -69,8 +69,7 @@ Paediatric population
 
 There is no relevant use of HALAVEN in children and adolescents for the indication of breast cancer.
 
-The safety and efficacy of HALAVEN in children from birth to 18 years of age have not yet been established in soft tissue sarcoma.
-No data are available.
+There is no relevant use of HALAVEN in the paediatric population for the indication of soft tissue sarcoma (see section 5.1).
 
 Method of administration
 

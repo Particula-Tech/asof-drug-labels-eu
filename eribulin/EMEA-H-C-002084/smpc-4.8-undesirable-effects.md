@@ -11,7 +11,7 @@ Tabulated list of adverse reactions
 
 Unless otherwise noted, the table shows the incidence rates of adverse reactions observed in breast cancer and soft tissue sarcoma patients who received the recommended dose in Phase 2 and Phase 3 studies.
 
-Frequency categories are defined as: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000) and very rare (< 1/10,000).
+Frequency categories are defined as: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and very rare (< 1/10,000).
 Within each frequency grouping, undesirable effects are presented in order of decreasing frequency.
 Where Grade 3 or 4 reactions occurred, the actual total frequency and the frequency of Grade 3 or 4 reactions are given.
 
@@ -19,8 +19,8 @@ Where Grade 3 or 4 reactions occurred, the actual total frequency and the freque
 | --- | --- | --- | --- | --- |
 |  | Very Common (Frequency %) | Common (Frequency %) | Uncommon (Frequency %) | Rare or not known |
 | Infections and infestations |  | Urinary tract infection (8.5%) (G3/4: 0.7%) Pneumonia (1.6%) (G3/4: 1.0%) Oral candidiasis Oral herpes Upper respiratory tract infection Nasopharyngitis Rhinitis Herpes zoster | Sepsis (0.5%) (G3/4: 0.5%)a Neutropenic sepsis (0.2%) (G3/4: 0.2%)a Septic Shock (0.2%) (G3/4:0.2%)a |  |
-|  | Very Common (Frequency %) | Common (Frequency %) | Uncommon (Frequency %) | Rare or not known |
 | Blood and lymphatic system disorders | Neutropenia (53.6%) (G3/4: 46.0%) Leukopenia (27.9%) (G3/4: 17.0%) Anaemia (21.8%) (G3/4: 3.0%) | Lymphopenia (5.7%) (G3/4: 2.1%) Febrile neutropenia (4.5%) (G3/4: 4.4%)a Thrombocytopenia (4.2%) (G3/4: 0.7%) |  | *Disseminated intravascular coagulationb |
+|  | Very Common (Frequency %) | Common (Frequency %) | Uncommon (Frequency %) | Rare or not known |
 | Metabolism and nutrition disorders | Decreased appetite (22.5%) (G3/4: 0.7%)d | Hypokalaemia (6.8%) (G3/4: 2.0%) Hypomagnesaemia (2.8%) (G3/4: 0.3%) Dehydration (2.8 %) (G3/4: 0.5%)d Hyperglycaemia Hypophosphataemia Hypocalcaemia |  |  |
 | Psychiatric disorders |  | Insomnia Depression |  |  |
 | Nervous system disorders | Peripheral neuropathyc (35.9%) (G3/4: 7.3%) Headache (17.5%) (G3/4: 0.7%) | Dysgeusia Dizziness (9.0%) (G3/4: 0.4%)d Hypoaesthesia Lethargy Neurotoxicity |  |  |
@@ -30,8 +30,8 @@ Where Grade 3 or 4 reactions occurred, the actual total frequency and the freque
 | Vascular disorders |  | Hot flush Pulmonary embolism (1.3%) (G3/4: 1.1%)a | Deep vein thrombosis |  |
 | Respiratory, thoracic and mediastinal disorders | Dyspnoea (15.2%)a (G3/4: 3.5%)a Cough (15.0%) (G3/4: 0.5%)d | Oropharyngeal pain Epistaxis Rhinorrhoea | Interstitial lung disease (0.2%) (G3/4: 0.1%) |  |
 | Gastrointestinal disorders | Nausea (35.7%) (G3/4: 1.1%)d Constipation (22.3%) (G3/4: 0.7%)d Diarrhoea (18.7%) (G3/4: 0.8%) Vomiting (18.1%) (G3/4: 1.0%) | Abdominal pain Stomatitis (11.1%) (G3/4: 1.0%)d Dry mouth Dyspepsia (6.5%) (G3/4: 0.3%)d Gastrooesophageal reflux disease Abdominal distension | Mouth ulceration Pancreatitis |  |
-|  | Very Common (Frequency %) | Common (Frequency %) | Uncommon (Frequency %) | Rare or not known |
 | Hepatobiliary disorders |  | Aspartate aminotransferase increased (7.7%) (G3/4: 1.4%)d Alanine aminotransferase increased (7.6%) (G3/4: 1.9%)d Gamma glutamyl transferase increased (1.7%) (G3/4: 0.9%)d Hyperbilirubinaemia (1.4%) (G3/4: 0.4%) | Hepatotoxicity (0.8%) (G3/4: 0.6%) |  |
+|  | Very Common (Frequency %) | Common (Frequency %) | Uncommon (Frequency %) | Rare or not known |
 | Skin and subcutaneous tissue disorders | Alopecia | Rash (4.9%) (G3/4: 0.1%) Pruritus (3.9%) (G3/4: 0.1%)d Nail disorder Night sweats Dry skin Erythema Hyperhidrosis Palmar plantar erythrodysaesthesia (1.0%) (G3/4: 0.1%)d | Angioedema | **Stevens-Johnson syndrome/ Toxic epidermal necrolysisb |
 | Musculoskeletal and connective tissue disorders | Arthralgia and myalgia (20.4%) (G3/4: 1.0%) Back pain (12.8%) (G3/4: 1.5%) Pain in extremity (10.0%) (G3/4: 0.7%)d | Bone pain (6.7%) (G3/4: 1.2%) Muscle spasms (5.3%) (G3/4: 0.1%)d Musculoskeletal pain Musculoskeletal chest pain Muscular weakness |  |  |
 | Renal and urinary disorders |  | Dysuria | Haematuria Proteinuria Renal failure |  |
@@ -42,6 +42,7 @@ a Includes Grade 5 events.
 b From spontaneous reporting c Includes preferred terms of peripheral neuropathy, peripheral motor neuropathy, polyneuropathy, paraesthesia, peripheral sensory neuropathy, peripheral sensorimotor neuropathy and demyelinating polyneuropathy d No Grade 4 events
 * Rare
 ** Frequency not known
+
 Overall, the safety profiles in the breast cancer and soft tissue sarcoma patient populations were similar.
 
 Description of selected adverse reactions
@@ -79,13 +80,29 @@ Such elevations appeared to have occurred early with eribulin treatment in cycle
 Special populations
 
 Elderly population
-Of the 1559 breast cancer patients treated with the recommended dose of eribulin, 283 patients (18.2%) were ≥65 years of age.
+Of the 1559 breast cancer patients treated with the recommended dose of eribulin, 283 patients (18.2%) were ≥ 65 years of age.
 In the 404 sarcoma patient population, 90 patients (22.3%) treated with eribulin were ≥ 65 years of age.
-The safety profile of eribulin in elderly patients (≥65 years of age) was similar to that of patients <65 years of age except for asthenia/fatigue which showed an increasing trend with age.
+The safety profile of eribulin in elderly patients (≥ 65 years of age) was similar to that of patients <65 years of age except for asthenia/fatigue which showed an increasing trend with age.
 No dose adjustments are recommended for the elderly population.
+
 Patients with hepatic impairment
 Patients with ALT or AST > 3 x ULN experienced a higher incidence of Grade 4 neutropenia and febrile neutropenia.
 Although data are limited, patients with bilirubin > 1.5 x ULN also have a higher incidence of Grade 4 neutropenia and febrile neutropenia (see also sections 4.2 and 5.2).
+
+Paediatric population
+
+Three open-label studies, Studies 113, 213 and 223, were conducted in paediatric patients with refractory or recurrent solid tumours and lymphomas, but excluding central nervous system (CNS) tumours (see section 5.1).
+
+The safety of eribulin monotherapy was evaluated in 43 paediatric patients who received up to 1.58 mg/m2 on Days 1 and 8 of a 21-day cycle (Studies 113 and 223).
+The safety of eribulin in combination with irinotecan was also evaluated in 40 paediatric patients who received eribulin 1.23 mg/m2 on Days 1 and 8 and irinotecan 20 or 40 mg/m2 on Days 1 to 5 of a 21-day cycle, or 100 or 125 mg/m2 on Days 1 and 8 of a 21-day cycle (Study 213).
+
+In Study 113 (Phase 1), the most frequently reported adverse drug reactions were white blood cell count decreased, lymphocyte count decreased, anaemia and neutrophil count decreased.
+
+In Study 213 (Phase 1/2), the most frequently reported adverse drug reactions were neutropenia (Phase 1) and diarrhoea and neutrophil count decreased (Phase 2).
+
+In Study 223 (Phase 2), the most frequently reported adverse drug reactions were neutrophil count decreased, anaemia, and white blood cell count decreased.
+
+The safety profile of eribulin as monotherapy or in combination with irinotecan hydrochloride in this paediatric population was consistent with the known safety profile of either study drug in the adult population.
 
 Reporting of suspected adverse reactions
 

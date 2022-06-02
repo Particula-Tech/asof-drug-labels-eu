@@ -19,12 +19,12 @@ The HER2 status of the patients was: 16.1% positive, 74.2% negative and 9.7% unk
 They were randomized 2:1 to receive either HALAVEN, or treatment of physician’s choice (TPC), which consisted of 97% chemotherapy (26% vinorelbine, 18% gemcitabine, 18% capecitabine, 16% taxane, 9% anthracycline, 10% other chemotherapy), or 3% hormonal therapy.
 The study met its primary endpoint with an overall survival (OS) result that was statistically significantly better in the eribulin group compared to TPC at 55% of events.
 This result was confirmed with an updated overall survival analysis carried out at 77% of events.
+
 Study 305 - Updated Overall Survival ( ITT Population)
 
 Efficacy Parameter HALAVEN TPC
-1.0 (n=508) (n=254)
+1.0 HALAVEN (n=508) (n=254)
 
-HALAVEN
 0.9 Overall Survival
 
 0.8 Number of Events 386 203
@@ -56,6 +56,7 @@ The updated OS analysis showed a survival benefit for the eribulin group compare
 The second Phase 3 study in earlier line metastatic breast cancer, Study 301, was an open-label, randomized, study in patients (n=1102) with locally advanced or metastatic breast cancer to investigate the efficacy of HALAVEN monotherapy compared to capecitabine monotherapy in terms of OS and PFS as co-primary endpoint.
 Patients had previously received up to three prior chemotherapy regimens, including both an anthracycline and a taxane and a maximum of two for advanced disease, with the percentage who had received 0, 1 or 2 prior chemotherapy treatments for metastatic breast cancer being 20.0%, 52.0% or 27.2% respectively.
 The HER2 status of the patients was: 15.3% positive, 68.5% negative and 16.2% unknown, whilst 25.8% of patients were triple negative.
+
 Study 301 - Overall Survival (ITT Population)
 
 Efficacy Parameter OS in ITT Population
@@ -66,10 +67,7 @@ HALAVEN Capecitabine
 0.9 HALAVEN (n=554) (n=548)
 0.8 Number of Events 446 459
 0.7 Median (months) 15.9 14.5
-
-Capecitabine
-
-0.6 Hazard Ratio (95% CI)a 0.879 (0.770, 1.003)
+0.6 Capecitabine Hazard Ratio (95% CI)a 0.879 (0.770, 1.003)
 P value (log rank) 0.056b
 
 0.5 aCox proportional hazard 0.4 bStratified by geographic region, HER2/neu status
@@ -96,9 +94,7 @@ The overall survival in patients in HER2 negative and HER2 positive patients in 
 | Median months | 13.4 | 10.5 | 11.8 | 8.9 |
 | Hazard Ratio (95% CI) | 0.849 (0.695, 1.036) |  | 0.594 (0.389, 0.907) |  |
 | p-value (log rank) | 0.106 |  | 0.015 |  |
-
 | Efficacy Parameter | Study 301 Overall Survival ITT Population |  |  |  |
-| --- | --- | --- | --- | --- |
 |  | HER2 Negative |  | HER2 Positive |  |
 |  | HALAVEN (n = 375) | Capecitabine (n = 380) | HALAVEN (n = 86) | Capecitabine (n = 83) |
 | Number of Events | 296 | 316 | 73 | 73 |
@@ -107,6 +103,7 @@ The overall survival in patients in HER2 negative and HER2 positive patients in 
 | p-value (log rank) | 0.030 |  | 0.837 |  |
 
 Note: Concomitant anti-HER2 therapy was not included in Study 305 and Study 301.
+
 Liposarcoma
 
 In liposarcoma the efficacy of eribulin is supported by the pivotal Phase 3 sarcoma study (Study 309).
@@ -162,6 +159,33 @@ HALAVEN 71 28 17 12 9 3 1 0
 Dacarbazine 72 15 5 2 1 0 0 0
 
 Paediatric population
+
+Breast Cancer
 The European Medicines Agency has waived the obligation to submit the results of studies with eribulin in all subsets of the paediatric population in the indication of breast cancer (see section 4.2 for information on paediatric use).
-The European Medicines Agency has deferred the obligation to submit the results of studies with HALAVEN in one or more subsets of the paediatric population for the treatment of rhabdomyosarcoma and non-rhabdomyosarcoma soft tissue sarcoma.
-See section 4.2 for information on paediatric use.
+
+Soft Tissue Sarcoma
+
+Efficacy of eribulin was assessed but not established in three open-label studies:
+
+Study 113 was a Phase 1, open-label, multicentre, dose-finding study that assessed eribulin in paediatric patients with refractory or recurrent solid tumours and lymphomas but excluding CNS tumours.
+A total of 22 paediatric patients (age range: 3 to 17 years) were enrolled and treated.
+The
+
+patients were administered eribulin intravenously on Days 1 and 8 of a 21-day cycle at three dose
+levels (0.97, 1.23 and 1.58 mg/m2). The maximum tolerated dose (MTD)/recommended Phase 2 dose
+(RP2D) of eribulin was determined as 1.23 mg/m2 on Days 1 and 8 of a 21-day cycle.
+
+Study 223 was a Phase 2, open-label, multicentre study that assessed the safety and preliminary activity of eribulin in paediatric patients with refractory or recurrent rhabdomyosarcoma (RMS), non-rhabdomyosarcoma soft tissue sarcoma (NRSTS) or Ewing sarcoma (EWS).
+Twenty-one paediatric patients (age range: 2 to 17 years) were enrolled and treated with eribulin at a dose of 1.23 mg/m2 intravenously on Days 1 and 8 of a 21-day cycle (the RP2D from Study 113).
+No patient achieved confirmed partial response (PR) or complete response (CR).
+
+Study 213 was a Phase 1/2, open-label, multicentre study to evaluate the safety and efficacy of eribulin in combination with irinotecan hydrochloride in paediatric patients with relapsed/refractory solid tumours and lymphomas but excluding CNS tumours (Phase 1), and to assess the efficacy of the combination treatment in paediatric patients with relapsed/refractory RMS, NRSTS and EWS
+(Phase 2).
+A total of 40 paediatric patients were enrolled and treated in this study.
+In Phase 1,
+13 paediatric patients (age range: 4 to 17 years) were enrolled and treated; the RP2D was determined as eribulin 1.23 mg/m2 on Days 1 and 8 with irinotecan hydrochloride 40 mg/m2 on Days 1 to 5 of a 21-day cycle.
+In Phase 2, 27 paediatric patients (age range: 4 to 17 years) were enrolled and treated at the RP2D.
+Three patients had confirmed PR (1 patient in each of the RMS, NRSTS, and EWS histology cohorts).
+The objective response rate (ORR) was 11.1%.
+
+No new safety signals were observed in the three paediatric studies (see section 4.8); however, due to the small patient populations no firm conclusions can be made.

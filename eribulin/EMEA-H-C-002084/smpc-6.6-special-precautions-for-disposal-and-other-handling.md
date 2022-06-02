@@ -11,4 +11,8 @@ Using aseptic technique HALAVEN can be diluted up to 100 ml with sodium chloride
 Following administration, it is recommended that the intravenous line be flushed with sodium chloride 9 mg/ml (0.9%) solution for injection to ensure administration of the complete dose.
 It must not be mixed with other medicinal products and should not be diluted in glucose 5% infusion solution.
 
+If using a spike to administer the product refer to the instructions provided from the device manufacturer.
+HALAVEN vials have a 13mm stopper.
+The device selected should be compatible with small vial stoppers.
+
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

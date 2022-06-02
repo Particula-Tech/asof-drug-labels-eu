@@ -11,7 +11,6 @@ Biotransformation
 
 Unchanged eribulin was the major circulating species in plasma following administration of 14C-eribulin to patients.
 Metabolite concentrations represented <0.6% of parent compound, confirming that there are no major human metabolites of eribulin.
-
 Elimination
 
 Eribulin has a low clearance (range of means 1.16 to 2.42 l/h/m2).
@@ -44,3 +43,10 @@ The pharmacokinetics of eribulin were evaluated in a Phase 1 study in patients w
 Creatinine clearance was estimated with the Cockcroft-Gault formula.
 A 1.5-fold (90% CI: 0.9-2.5) higher dose-normalised AUC(0-inf) was observed in patients with moderate and severe renal impairment.
 See section 4.2 for treatment recommendations.
+
+Paediatric population
+
+Eribulin plasma concentrations were collected from 83 paediatric patients (age range: 2 to 17 years), with refractory/relapsed and recurrent solid tumours and lymphomas, who received eribulin in Studies 113, 213 and 223.
+Eribulin PK in paediatric patients was comparable to adult patients with STS and patients with other types of tumour.
+Eribulin exposure in paediatric patients was similar to exposure in adult patients.
+Concomitant irinotecan did not have an effect on eribulin PK in paediatric patients with refractory/relapsed and recurrent solid tumours.
