@@ -68,9 +68,7 @@ Table 1: Response rate at week 52
 
 | Response | Placebo (n=279) | Benlysta 200 mg weekly (n=554) |
 | --- | --- | --- |
-| SLE responder index | 48.4% | 61.4% (p=0.0006) |
-| Observed difference vs placebo |  | 12.98% |
-| Odds ratio (95% CI) vs placebo |  | 1.68 (1.25, 2.25) |
+| SLE responder index Observed difference vs placebo Odds ratio (95% CI) vs placebo | 48.4% | 61.4% (p=0.0006) 12.98% 1.68 (1.25, 2.25) |
 | Components of SLE responder index |  |  |
 | Percent of patients with reduction in SELENA-SLEDAI ≥4 | 49.1% | 62.3% (p=0.0005) |
 | Percent of patients with no worsening by BILAG index | 74.2% | 80.9% (p=0.0305) |
@@ -111,12 +109,10 @@ Table 2: Patients with low complement and positive anti-dsDNA at baseline
 | Subgroup | Anti-dsDNA positive AND low complement |  |
 | --- | --- | --- |
 |  | Placebo | Benlysta 200 mg weekly |
-|  | (n=108) | (n=246) |
-| SRI response rate at week 52 (%) | 47.2 | 64.6 (p=0.0014) |
+| SRI response rate at week 52 (%) | (n=108) 47.2 | (n=246) 64.6 (p=0.0014) |
 | Observed treatment difference vs. placebo (%) |  | 17.41 |
 | Severe flares over 52 weeks: | (n=108) | (n=248) |
-| Patients experiencing a severe flare (%) | 31.5 | 14.1 |
-| Observed treatment difference vs. placebo (%) |  | 17.4 |
+| Patients experiencing a severe flare (%) Observed treatment difference vs. placebo (%) | 31.5 | 14.1 17.4 |
 | Time to severe flare [Hazard ratio (95% CI)] |  | 0.38 (0.24, 0.61) (p<0.0001) |
 |  | (n=70) | (n=164) |
 | Prednisone reduction by ≥25% from baseline to ≤7.5 mg/day during weeks 24 through 52* (%) | 11.4 | 20.7 (p=0.0844) |
@@ -174,8 +170,7 @@ Table 3: Efficacy results in adult patients with lupus nephritis
 | eGFR≥90 mL/min/1.73m2 or no decrease in eGFR from pre-flare value of >10% | 39.9% | 46.6% | 6.7% | OR 1.33 (0.90, 1.96) | 0.1539 |
 | Not treatment failure³ | 74.4% | 83.0% | 8.5% | OR 1.65 (1.03, 2.63) | 0.0364 |
 | PERR at Week 521 Responders | 35.4% | 46.6% | 11.2% | OR 1.59 (1.06, 2.38) | 0.0245 |
-| Time to Renal-Related Event or Death1 Percentage of patients with event2 | 28.3% | 15.7% | - |  |  |
-| Time to event [Hazard ratio (95% CI)] |  |  | - | HR 0.51 (0.34, 0.77) | 0.0014 |
+| Time to Renal-Related Event or Death1 Percentage of patients with event2 Time to event [Hazard ratio (95% CI)] | 28.3% | 15.7% | - - | HR 0.51 (0.34, 0.77) | 0.0014 |
 | 1PERR at Week 104 was the primary efficacy analysis; CRR at Week 104, PERR at Week 52 and time to renal-related event or death were included in the pre-specified testing hierarchy. 2When excluding deaths from the analysis (1 for Benlysta; 2 for placebo), the percentage of patients with a renal-related event was 15.2% for Benlysta compared with 27.4% for placebo (HR = 0.51; 95% CI: 0.34, 0.78). ³Treatment failure: Patients who took protocol-prohibited medication. |  |  |  |  |  |
 
 A numerically greater percentage of patients receiving Benlysta achieved PERR beginning at Week 24 compared with placebo, and this treatment difference was maintained through to Week 104.
@@ -291,9 +286,9 @@ At baseline 52% of patients had high disease activity (SELENA SLEDAI score ≥10
 | Response | BLISS-76 |  | BLISS-52 |  | BLISS-76 and BLISS-52 Pooled |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Placebo* (n=275) | Benlysta 10 mg/kg* (n=273) | Placebo* (n=287) | Benlysta 10 mg/kg* (n=290) | Placebo* (n=562) | Benlysta 10 mg/kg* (n=563) |
-| SLE responder index | 33.8% | 43.2% (p=0.021) | 43.6% | 57.6% (p=0.0006) | 38.8% | 50.6% (p<0.0001) |
-| Observed difference vs placebo |  | 9.4% |  | 14.0% |  | 11.8% |
-| Odds ratio (95% CI) vs placebo |  | 1.52 (1.07, 2.15) |  | 1.83 (1.30,2.59) |  | 1.68 (1.32,2.15) |
+| SLE responder index Observed difference vs placebo Odds ratio (95% CI) vs placebo | 33.8% | 43.2% (p=0.021) | 43.6% | 57.6% (p=0.0006) | 38.8% | 50.6% (p<0.0001) |
+|  |  | 9.4% |  | 14.0% |  | 11.8% |
+|  |  | 1.52 (1.07, 2.15) |  | 1.83 (1.30,2.59) |  | 1.68 (1.32,2.15) |
 | Components of SLE responder index |  |  |  |  |  |  |
 | Percent of patients with reduction in SELENA-SLEDAI ≥4 | 35.6% | 46.9% (p=0.006) | 46.0% | 58.3% (p= 0.0024) | 40.9% | 52.8% (p<0.0001) |
 | Percent of patients with no worsening by BILAG index | 65.1% | 69.2% (p=0.32) | 73.2% | 81.4% (p=0.018) | 69.2% | 75.5% (p=0.019) |
@@ -320,15 +315,13 @@ Of these patients, 64.5% had SELENA SLEDAI scores ≥ 10 at baseline.
 | Observed treatment difference vs placebo (%) |  | 19.8 |
 | SRI response rate (excluding complement and anti-dsDNA changes) at week 52 (%) | 28.9 | 46.2 (p<0.0001) |
 | Observed treatment difference vs placebo (%) |  | 17.3 |
-| Severe flares over 52 weeks Patients experiencing a severe flare (%) | 29.6 | 19.0 |
-| Observed treatment difference vs. placebo (%) Time to severe flare [Hazard ratio (95% CI)] |  | 10.6 0.61 (0.44, 0.85) (p=0.0038) |
+| Severe flares over 52 weeks Patients experiencing a severe flare (%) Observed treatment difference vs. placebo (%) Time to severe flare [Hazard ratio (95% CI)] | 29.6 | 19.0 10.6 0.61 (0.44, 0.85) (p=0.0038) |
 | Prednisone reduction by ≥25% from baseline to ≤7.5 mg/day during weeks 40 through 52* (%) | (n=173) 12.1 | (n=195) 18.5 (p=0.0964) |
 | Observed treatment difference vs placebo (%) |  | 6.3 |
 | FACIT-fatigue score improvement from baseline at week-52 (mean) | 1.99 | 4.21 (p=0.0048) |
 | Observed treatment difference vs placebo (mean difference) |  | 2.21 |
 | BLISS-76 Study only | Placebo (n=131) | Benlysta 10 mg/kg (n=134) |
-| SRI response rate at week-76 (%) | 27.5 | 39.6 (p=0.0160) |
-| Observed treatment difference vs placebo (%) |  | 12.1 |
+| SRI response rate at week-76 (%) Observed treatment difference vs placebo (%) | 27.5 | 39.6 (p=0.0160) 12.1 |
 
 In the intravenous SLE studies, described above, patients who had severe active lupus nephritis were excluded; however, 11% of patients had renal organ domain involvement at baseline (based on BILAG A or B assessment).
 
@@ -336,10 +329,8 @@ Beginning at Week 12, a numerically greater percentage of patients receiving Ben
 
 In descriptive subgroup analyses, key efficacy endpoints (PERR and CRR) were examined by induction regimen (mycophenolate or cyclophosphamide) and biopsy class (Class III or IV, Class III + V or Class IV + V, or Class V) (Figure 2).
 
+Benlysta (n) versus Placebo (n) Placebo Benlysta (%) (%) Odds Ratio (95% CI)
 Induction regimen Favours Placebo Favours Benlysta
-
-20 34 2.0 (1.2, 3.4) Cyclophosphamide (59 vs. 59)
-27 34 1.5 (0.7, 3.5) 19 19 1.1 (0.4, 2.8)
 
 15 26 2.8 (1.0, 7.7)
 
@@ -373,15 +364,11 @@ Table 4 – Paediatric response rate at Week 52
 
 | Response | Placebo (n=40) | Benlysta 10 mg/kg (n=53) |
 | --- | --- | --- |
-| SLE Responder Index (%) | 43.6 (17/39) | 52.8 (28/53) |
-| Odds ratio (95% CI) vs placebo |  | 1.49 (0.64, 3.46) |
+| SLE Responder Index (%) Odds ratio (95% CI) vs placebo | 43.6 (17/39) | 52.8 (28/53) 1.49 (0.64, 3.46) |
 | Components of SLE Responder Index |  |  |
-| Percent of patients with reduction in SELENA-SLEDAI ≥4 (%) | 43.6 (17/39) | 54.7 (29/53) |
-| Odds ratio (95% CI) vs placebo |  | 1.62 (0.69, 3.78) |
-| Percent of patients with no worsening by BILAG index (%) | 61.5 (24/39) | 73.6 (39/53) |
-| Odds ratio (95% CI) vs placebo |  | 1.96 (0.77, 4.97) |
-| Percent of patients with no worsening by PGA (%) | 66.7 (26/39) | 75.5 (40/53) |
-| Odds ratio (95% CI) vs placebo |  | 1.70 (0.66, 4.39) |
+| Percent of patients with reduction in SELENA-SLEDAI ≥4 (%) Odds ratio (95% CI) vs placebo | 43.6 (17/39) | 54.7 (29/53) 1.62 (0.69, 3.78) |
+| Percent of patients with no worsening by BILAG index (%) Odds ratio (95% CI) vs placebo | 61.5 (24/39) | 73.6 (39/53) 1.96 (0.77, 4.97) |
+| Percent of patients with no worsening by PGA (%) Odds ratio (95% CI) vs placebo | 66.7 (26/39) | 75.5 (40/53) 1.70 (0.66, 4.39) |
 
 Among patients experiencing a severe flare, the median study day of the first severe flare was Day 150 in the Benlysta group and Day 113 in the placebo group.
 Severe flares were observed in 17.0% of the Benlysta group compared to 35.0% of the placebo group over the 52 weeks of observation (observed treatment difference = 18.0%; hazard ratio = 0.36, 95% CI: 0.15, 0.86).
