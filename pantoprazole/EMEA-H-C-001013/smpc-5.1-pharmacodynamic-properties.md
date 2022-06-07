@@ -1,11 +1,12 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Drugs for acid related disorders, Proton pump inhibitors, ATC code: A02BC02
-
+Pharmacotherapeutic group: Proton pump inhibitors, ATC code: A02BC02
 Mechanism of action
+
 Pantoprazole is a substituted benzimidazole which inhibits the secretion of hydrochloric acid in the stomach by specific blockade of the proton pumps of the parietal cells.
 
-Pantoprazole is converted to its active form, a cyclic sulphenamide, in the acidic environment in the parietal cells where it inhibits the H+, K+-ATPase enzyme, i. e. the final stage in the production of hydrochloric acid in the stomach.
+Pantoprazole is converted to its active form, a cyclic sulphenamide, in the acidic environment in the parietal cells where it inhibits the H+, K+-ATPase enzyme, i.e. the final stage in the production of hydrochloric acid in the stomach.
+
 The inhibition is dose-dependent and affects both basal and stimulated acid secretion.
 In most patients, freedom from heartburn and acid reflux symptoms is achieved in 1 week.
 Pantoprazole reduces acidity in the stomach and thereby increases gastrin in proportion to the reduction in acidity.
@@ -27,7 +28,8 @@ The increased CgA level may interfere with investigations for neuroendocrine tum
 Available published evidence suggests that proton pump inhibitors should be discontinued between 5 days and 2 weeks prior to CgA measurements.
 This is to allow CgA levels that might be spuriously elevated following PPI treatment to return to reference range.
 
-Clinical efficacy
+Clinical efficacy and safety
+
 In a retrospective analysis of 17 studies in 5960 patients with gastro-oesophageal reflux disease (GORD) who were treated with 20 mg pantoprazole monotherapy, the symptoms associated with acid reflux e.g. heartburn and acid regurgitation were evaluated according to a standardised methodology.
 Studies selected had to have at least one acid reflux symptom recording point at 2 weeks.
 GORD diagnosis in these studies was based on endoscopic assessment, with the exception of one study in which the inclusion of the patients was based on symptomatology alone.

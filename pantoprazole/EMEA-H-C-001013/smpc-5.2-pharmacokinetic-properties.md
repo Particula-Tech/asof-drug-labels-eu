@@ -2,20 +2,25 @@
 
 Pharmacokinetics do not vary after single or repeated administration.
 In the dose range of 10 to 80 mg, the plasma kinetics of pantoprazole are linear after both oral and intravenous administration.
+
 Absorption
+
 Pantoprazole is completely and rapidly absorbed after oral administration.
 The absolute bioavailability from the tablet was found to be about 77%.
-On average, at about 2.0 h - 2.5 h post administration (tmax) of a single 20 mg oral dose, the maximum serum concentrations (Cmax) of about 1-1.5 µg/ml are achieved, and these values remain constant after multiple administration.
+On average, at about 2.0 h - 2.5 h post administration (tmax) of a single 20 mg oral dose, the maximum serum concentrations (Cmax) of about 1-1.5 µg/mL are achieved, and these values remain constant after multiple administration.
 Concomitant intake of food had no influence on bioavailability (AUC or Cmax), but increased the variability of the lag-time (tlag).
 
 Distribution
-Volume of distribution is about 0.15 l/kg and serum protein binding is about 98%.
+
+Volume of distribution is about 0.15 L/kg and serum protein binding is about 98%.
 
 Biotransformation
-Pantoprazole is almost exclusively metabolized in the liver.
+
+Pantoprazole is almost exclusively metabolised in the liver.
 
 Elimination
-Clearance is about 0.1 l/h/kg, and terminal half-life (t1/2) about 1 h. There were a few cases of subjects with delayed elimination.
+
+Clearance is about 0.1 L/h/kg, and terminal half-life (t1/2) about 1 h. There were a few cases of subjects with delayed elimination.
 Due to the specific binding of pantoprazole to the proton pumps within the parietal cell, the elimination half-life does not correlate with the much longer duration of action (inhibition of acid secretion).
 
 Renal elimination represents the major route of excretion (about 80%) for the metabolites of pantoprazole; the rest is excreted with the faeces.
