@@ -135,6 +135,7 @@ The highest incidence of diarrhoea (all Grades) was reported during the targeted
 Rash
 In the pivotal trial CLEOPATRA in metastatic breast cancer, rash occurred in 51.7% of Perjeta-treated patients, compared with 38.9% of placebo-treated patients.
 Most events were Grade 1 or 2 in severity, occurred in the first two cycles, and responded to standard therapies, such as topical or oral treatment for acne.
+
 In the NEOSPHERE trial, rash occurred in 40.2% of patients treated with neoadjuvant Perjeta, trastuzumab and docetaxel compared with 29.0% of patients treated with trastuzumab and docetaxel.
 In the TRYPHAENA trial, rash occurred in 36.8% of patients treated with neoadjuvant Perjeta + TCH and 20.0% of patients treated with neoadjuvant Perjeta, trastuzumab and docetaxel following FEC.
 The incidence of rash was higher in patients who received six cycles of Perjeta compared with patients who received three cycles of Perjeta, independent of the chemotherapy given.
