@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antineoplastic agents, other antineoplastic agents, ATC code: L01XX32.
+Pharmacotherapeutic group: Antineoplastic agents, other antineoplastic agents, ATC code: L01XG01.
 
 Mechanism of action
 Bortezomib is a proteasome inhibitor.
