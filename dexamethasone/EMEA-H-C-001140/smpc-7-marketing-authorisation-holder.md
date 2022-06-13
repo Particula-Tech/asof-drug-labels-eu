@@ -1,7 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Allergan Pharmaceuticals Ireland
-Castlebar Road,
-Co. Mayo
-Westport
-Ireland
+AbbVie Deutschland GmbH & Co. KG
+Knollstraβe
+67061 Ludwigshafen
+Deutschland

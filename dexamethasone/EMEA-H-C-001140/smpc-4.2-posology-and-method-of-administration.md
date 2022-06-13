@@ -37,9 +37,8 @@ OZURDEX has not been studied in patients with hepatic impairment; however no spe
 
 Paediatric population
 There is no relevant use of OZURDEX in the paediatric population in
-
-- diabetic macular oedema
-- macular oedema following either Branch Retinal Vein Occlusion (BRVO) or Central Retinal Vein Occlusion (CRVO)
+•diabetic macular oedema
+•macular oedema following either Branch Retinal Vein Occlusion (BRVO) or Central Retinal Vein Occlusion (CRVO)
 
 The safety and efficacy of OZURDEX in uveitis in the paediatric population have not been established.
 No data are available.
