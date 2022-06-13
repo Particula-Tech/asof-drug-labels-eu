@@ -10,7 +10,6 @@ These findings were generally observed at systemic exposure levels within the ra
 
 In a male fertility study in rats, testicular morphology was affected at 0.5 mg/kg and above, and sperm motility, sperm head count, and plasma testosterone levels were diminished at 5 mg/kg which caused a reduction in male fertility.
 There was evidence of reversibility.
-
 In animal reproductive studies female fertility was not affected.
 However, oral doses of everolimus in female rats at ≥0.1 mg/kg (approximately 4% of the AUC0-24h in patients receiving the 10 mg daily dose) resulted in increases in pre-implantation loss.
 
@@ -19,5 +18,6 @@ In rats, everolimus caused embryo/foetotoxicity at systemic exposure below the t
 This was manifested as mortality and reduced foetal weight.
 The incidence of skeletal variations and malformations (e.g. sternal cleft) was increased at 0.3 and 0.9 mg/kg.
 In rabbits, embryotoxicity was evident in an increase in late resorptions.
+
 Genotoxicity studies covering relevant genotoxicity endpoints showed no evidence of clastogenic or mutagenic activity.
 Administration of everolimus for up to 2 years did not indicate any oncogenic potential in mice and rats up to the highest doses, corresponding respectively to 3.9 and 0.2 times the estimated clinical exposure.

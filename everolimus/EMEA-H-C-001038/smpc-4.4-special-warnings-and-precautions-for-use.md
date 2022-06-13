@@ -1,6 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
 Non-infectious pneumonitis
+
 Non-infectious pneumonitis is a class effect of rapamycin derivatives, including everolimus.
 Non-infectious pneumonitis (including interstitial lung disease) has been frequently reported in patients taking Afinitor (see section 4.8).
 Some cases were severe and on rare occasions, a fatal outcome was observed.
@@ -13,6 +14,7 @@ If symptoms are moderate (Grade 2) or severe (Grade 3) the use of corticosteroid
 
 For patients who require use of corticosteroids for treatment of non-infectious pneumonitis, prophylaxis for PJP/PCP may be considered.
 Infections
+
 Everolimus has immunosuppressive properties and may predispose patients to bacterial, fungal, viral or protozoan infections, including infections with opportunistic pathogens (see section 4.8).
 Localised and systemic infections, including pneumonia, other bacterial infections, invasive fungal infections such as aspergillosis, candidiasis or PJP/PCP and viral infections including reactivation of hepatitis B virus, have been described in patients taking Afinitor.
 Some of these infections have been severe (e.g. leading to sepsis, respiratory or hepatic failure) and occasionally fatal.
@@ -28,12 +30,15 @@ PJP/PCP may be associated with concomitant use of corticosteroids or other immun
 Prophylaxis for PJP/PCP should be considered when concomitant use of corticosteroids or other immunosuppressive agents are required.
 
 Hypersensitivity reactions
+
 Hypersensitivity reactions manifested by symptoms including, but not limited to, anaphylaxis, dyspnoea, flushing, chest pain or angioedema (e.g. swelling of the airways or tongue, with or without respiratory impairment) have been observed with everolimus (see section 4.3).
 
 Concomitant use of angiotensin-converting enzyme (ACE) inhibitors
+
 Patients taking concomitant ACE inhibitor (e.g. ramipril) therapy may be at increased risk for angioedema (e.g. swelling of the airways or tongue, with or without respiratory impairment) (see section 4.5).
 
 Stomatitis
+
 Stomatitis, including mouth ulcerations and oral mucositis, is the most commonly reported adverse reaction in patients treated with Afinitor (see section 4.8).
 Stomatitis mostly occurs within the first 8 weeks of treatment.
 A single-arm study in postmenopausal breast cancer patients treated with Afinitor plus exemestane suggested that an alcohol-free corticosteroid oral solution, administered as a mouthwash during the initial 8 weeks of treatment, may decrease the incidence and severity of stomatitis (see section 5.1).
@@ -43,9 +48,11 @@ Monitoring for and treatment of fungal infection is recommended, especially in p
 Antifungal agents should not be used unless fungal infection has been diagnosed (see section 4.5).
 
 Renal failure events
+
 Cases of renal failure (including acute renal failure), some with a fatal outcome, have been observed in patients treated with Afinitor (see section 4.8).
 Renal function should be monitored particularly where patients have additional risk factors that may further impair renal function.
 Laboratory tests and monitoring
+
 Renal function
 Elevations of serum creatinine, usually mild, and proteinuria have been reported (see section 4.8).
 Monitoring of renal function, including measurement of blood urea nitrogen (BUN), urinary protein or serum creatinine, is recommended prior to the start of Afinitor therapy and periodically thereafter.
@@ -65,15 +72,18 @@ Decreased haemoglobin, lymphocytes, neutrophils and platelets have been reported
 Monitoring of complete blood count is recommended prior to the start of Afinitor therapy and periodically thereafter.
 
 Functional carcinoid tumours
+
 In a randomised, double-blind, multi-centre trial in patients with functional carcinoid tumours, Afinitor plus depot octreotide was compared to placebo plus depot octreotide.
 The study did not meet the primary efficacy endpoint (progression-free-survival [PFS]) and the overall survival (OS) interim analysis numerically favoured the placebo plus depot octreotide arm.
 Therefore, the safety and efficacy of Afinitor in patients with functional carcinoid tumours have not been established.
 
 Prognostic factors in neuroendocrine tumours of gastrointestinal or lung origin
+
 In patients with non-functional gastrointestinal or lung neuroendocrine tumours and good prognostic baseline factors, e.g. ileum as primary tumour origin and normal chromogranin A values or without bone involvement, an individual benefit-risk assessment should be performed prior to the start of Afinitor therapy.
 Limited evidence of PFS benefit was reported in the subgroup of patients with ileum as primary tumour origin (see section 5.1).
 
 Interactions
+
 Co-administration with inhibitors and inducers of CYP3A4 and/or the multidrug efflux pump P-glycoprotein (PgP) should be avoided.
 If co-administration of a moderate CYP3A4 and/or PgP inhibitor or inducer cannot be avoided, dose adjustments of Afinitor can be taken into consideration based on predicted AUC (see section 4.5).
 
@@ -83,7 +93,9 @@ Hence, concomitant treatment of Afinitor and potent inhibitors is not recommende
 
 Caution should be exercised when Afinitor is taken in combination with orally administered CYP3A4 substrates with a narrow therapeutic index due to the potential for drug interactions.
 If Afinitor is taken with orally administered CYP3A4 substrates with a narrow therapeutic index (e.g. pimozide, terfenadine, astemizole, cisapride, quinidine or ergot alkaloid derivatives), the patient should be monitored for undesirable effects described in the product information of the orally administered CYP3A4 substrate (see section 4.5).
+
 Hepatic impairment
+
 Exposure to everolimus was increased in patients with mild (Child-Pugh A), moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment (see section 5.2).
 
 Afinitor is only recommended for use in patients with severe hepatic impairment (Child-Pugh C) if the potential benefit outweighs the risk (see sections 4.2 and 5.2).
@@ -91,11 +103,22 @@ Afinitor is only recommended for use in patients with severe hepatic impairment 
 No clinical safety or efficacy data are currently available to support dose adjustment recommendations for the management of adverse reactions in patients with hepatic impairment.
 
 Vaccinations
+
 The use of live vaccines should be avoided during treatment with Afinitor (see section 4.5).
 
 Lactose
+
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
 Wound healing complications
+
 Impaired wound healing is a class effect of rapamycin derivatives, including everolimus.
 Caution should therefore be exercised with the use of Afinitor in the peri-surgical period.
+
+Radiation therapy complications
+
+Serious and severe radiation reactions (such as radiation oesophagitis, radiation pneumonitis and radiation skin injury), including fatal cases, have been reported when everolimus was taken during, or shortly after, radiation therapy.
+Caution should therefore be exercised for the potentiation of radiotherapy toxicity in patients taking everolimus in close temporal relationship with radiation therapy.
+
+Additionally, radiation recall syndrome (RRS) has been reported in patients taking everolimus who had received radiation therapy in the past.
+In the event of RRS, interrupting or stopping everolimus treatment should be considered.

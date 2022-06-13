@@ -3,14 +3,15 @@
 Pharmacotherapeutic group: Antineoplastic agents, other antineoplastic agents, protein kinase inhibitors, ATC code: L01XE10
 
 Mechanism of action
+
 Everolimus is a selective mTOR (mammalian target of rapamycin) inhibitor. mTOR is a key serine-threonine kinase, the activity of which is known to be upregulated in a number of human cancers.
 Everolimus binds to the intracellular protein FKBP-12, forming a complex that inhibits mTOR complex-1 (mTORC1) activity.
 Inhibition of the mTORC1 signalling pathway interferes with the translation and synthesis of proteins by reducing the activity of S6 ribosomal protein kinase (S6K1) and eukaryotic elongation factor 4E-binding protein (4EBP-1) that regulate proteins involved in the cell cycle, angiogenesis and glycolysis.
 S6K1is thought to phosphorylate the activation function domain 1 of the oestrogen receptor, which is responsible for ligand-independent receptor activation.
 Everolimus reduces levels of vascular endothelial growth factor (VEGF), which potentiates tumour angiogenic processes.
 Everolimus is a potent inhibitor of the growth and proliferation of tumour cells, endothelial cells, fibroblasts and blood-vessel-associated smooth muscle cells and has been shown to reduce glycolysis in solid tumours in vitro and in vivo.
-
 Clinical efficacy and safety
+
 Hormone receptor-positive advanced breast cancer
 BOLERO-2 (study CRAD001Y2301), a randomised, double-blind, multicentre phase III study of Afinitor + exemestane versus placebo + exemestane, was conducted in postmenopausal women with oestrogen receptor-positive, HER2/neu negative advanced breast cancer with recurrence or progression following prior therapy with letrozole or anastrozole.
 Randomisation was stratified by documented sensitivity to prior hormonal therapy and by the presence of visceral metastasis.
@@ -20,6 +21,7 @@ The primary endpoint for the study was progression-free survival (PFS) evaluated
 Supportive PFS analyses were based on an independent central radiology review.
 
 Secondary endpoints included overall survival (OS), objective response rate, clinical benefit rate, safety, change in quality of life (QoL) and time to ECOG PS (Eastern Cooperative Oncology Group performance status) deterioration.
+
 A total of 724 patients were randomised in a 2:1 ratio to the combination everolimus (10 mg daily) + exemestane (25 mg daily) (n=485) or to the placebo + exemestane arm (25 mg daily) (n=239).
 At the time of the final OS analysis, the median duration of everolimus treatment was 24.0 weeks (range 1.0-199.1 weeks).
 The median duration of exemestane treatment was longer in the everolimus + exemestane group at 29.5 weeks (1.0-199.1) compared to 14.1 weeks (1.0-156.0) in the placebo + exemestane group.
@@ -73,9 +75,9 @@ BOLERO-6 (Study CRAD001Y2201), a three-arm, randomised, open-label, phase II stu
 
 The primary objective of the study was to estimate the HR of PFS for everolimus + exemestane versus everolimus alone.
 The key secondary objective was to estimate the HR of PFS for everolimus + exemestane versus capecitabine.
-
 Other secondary objectives included the evaluation of OS, objective response rate, clinical benefit rate, safety, time to ECOG performance deterioration, time to QoL deterioration, and treatment satisfaction (TSQM).
 No formal statistical comparisons were planned.
+
 A total of 309 patients were randomised in a 1:1:1 ratio to the combination of everolimus (10 mg daily) + exemestane (25 mg daily) (n=104), everolimus alone (10 mg daily) (n=103), or capecitabine (1250 mg/m2 dose twice daily for 2 weeks followed by one week rest, 3-week cycle) (n=102).
 At the time of data cut-off, the median duration of treatment was 27.5 weeks (range 2.0-165.7) in the everolimus + exemestane arm, 20 weeks (1.3-145.0) in the everolimus arm, and 26.7 weeks (1.4-177.1) in the capecitabine arm.
 
@@ -92,7 +94,9 @@ Kaplan-Meier medians Everolimus/Exemestane: 36.57 [28.71;42.29] weeks Everolimus
 Censoring Times
 Everolimus/Exemestane (n/N=80/104)
 Everolimus (n/N=74/103)
+
 No of patients still at risk Time (Weeks)
+
 Time (weeks)
 Everolimus/Exemestane
 Everolimus
@@ -170,16 +174,17 @@ Secondary endpoints included overall survival (OS), overall response rate, disea
 A total of 302 patients were randomised in a 2:1 ratio to receive either everolimus (10 mg daily) (n=205) or placebo (n=97).
 Demographics and disease characteristics were generally balanced (median age 63 years [range 22 to 86], 76% Caucasian, history of prior somatostatin analogue [SSA] use).
 The median duration of blinded treatment was 40.4 weeks for patients receiving Afinitor and 19.6 weeks for those receiving placebo.
-Patients in the placebo arm did not cross-over to everolimus at the time of progression.
-The efficacy results for the primary endpoint were obtained from the final PFS analysis (see Table 6 and Figure 4).
+After primary PFS analysis, 6 patients from the placebo arm crossed over to open-label everolimus.
+The efficacy results for the primary endpoint PFS (independent radiological review) were obtained from the final PFS analysis (see Table 6 and Figure 4).
+The efficacy results for PFS (investigator radiological review) were obtained from the final OS analysis (see Table 6).
 
 Table 6 RADIANT-4 – Progression-free survival results
 
 | Population | Afinitor n=205 | Placebo n=97 | Hazard ratio (95% CI) | p-valuea |
 | --- | --- | --- | --- | --- |
 | Median progression-free survival (months) (95% CI) |  |  |  |  |
-| Independent radiological review | 11.01 (9.2, 13.3) | 3.91 (3.6, 7.4) | 0.48 (0.35, 0.67) | <0.0001 |
-| Investigator radiological review | 13.96 (11.2, 17.7) | 5.45 (3.7, 7.4) | 0.39 (0.28, 0.54) | <0.0001 |
+| Independent radiological review | 11.01 (9.2, 13.3) | 3.91 (3.6, 7.4) | 0.48 (0.35, 0.67) | <0.001 |
+| Investigator radiological review | 14.39 (11.24, 17.97) | 5.45 (3.71, 7.39) | 0.40 (0.29, 0.55) | <0.001 |
 | a One-sided p-value from a stratified log-rank test |  |  |  |  |
 
 Figure 4 RADIANT-4 – Kaplan-Meier progression-free survival curves (independent radiological review)
@@ -256,9 +261,9 @@ CgA: Chromogranin A
 NSE: Neuron specific enolase
 Hazard ratio (95% CI) from stratified Cox model
 
-The pre-planned OS interim analysis after 101 deaths (out of 191 required for final analysis) and 33 months follow-up favoured the everolimus arm; however, no statistically significant difference in OS was noted (HR= 0.73 [95% CI: 0.48 to 1.11; p=0.071]).
+The final overall survival (OS) analysis did not show a statistically significant difference between those patients who received Afinitor or placebo during the blinded treatment period of the study (HR=0.90 [95% CI: 0.66 to 1.22]).
 
-No difference in the time to definitive deterioration of WHO PS (≥1 point) and time to definitive deterioration in quality of life (FACT-G total score ≥7 points) was observed between the two arms.
+No difference in the time to definitive deterioration of WHO PS (HR=1.02; [95% CI: 0.65, 1.61]) and time to definitive deterioration in quality of life (FACT-G total score HR=0.74; [95% CI: 0.50, 1.10]) was observed between the two arms.
 Advanced renal cell carcinoma
 RECORD-1 (study CRAD001C2240), a phase III, international, multicentre, randomised, double-blind study comparing everolimus 10 mg/day and placebo, both in conjunction with best supportive care, was conducted in patients with metastatic renal cell carcinoma whose disease had progressed on or after treatment with VEGFR-TKI (vascular endothelial growth factor receptor tyrosine kinase inhibitor) therapy (sunitinib, sorafenib, or both sunitinib and sorafenib).
 Prior therapy with bevacizumab and interferon-α was also permitted.
@@ -324,6 +329,6 @@ In a post-marketing single-arm study in postmenopausal women with advanced breas
 The incidence of Grade ≥2 stomatitis at 8 weeks was 2.4% (n=2/85 evaluable patients) which was lower than historically reported.
 The incidence of Grade 1 stomatitis was 18.8% (n=16/85) and no cases of Grade 3 or 4 stomatitis were reported.
 The overall safety profile in this study was consistent with that established for everolimus in the oncology and tuberous sclerosis complex (TSC) settings, with the exception of a slightly increased frequency of oral candidiasis which was reported in 2.2% (n=2/92) of patients.
-
 Paediatric population
+
 The European Medicines Agency has waived the obligation to submit the results of studies with Afinitor in all subsets of the paediatric population in neuroendocrine tumours of pancreatic origin, thoracic neuroendocrine tumours and in renal cell carcinoma (see section 4.2 for information on paediatric use).

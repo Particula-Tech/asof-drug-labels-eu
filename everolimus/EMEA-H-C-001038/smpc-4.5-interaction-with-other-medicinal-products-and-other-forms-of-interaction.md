@@ -7,10 +7,12 @@ In vitro, everolimus is a competitive inhibitor of CYP3A4 and a mixed inhibitor 
 Known and theoretical interactions with selected inhibitors and inducers of CYP3A4 and PgP are listed in Table 2 below.
 
 CYP3A4 and PgP inhibitors increasing everolimus concentrations
-Substances that are inhibitors of CYP3A4 or PgP may increase everolimus blood concentrations by decreasing metabolism or the efflux of everolimus from intestinal cells.
 
+Substances that are inhibitors of CYP3A4 or PgP may increase everolimus blood concentrations by decreasing metabolism or the efflux of everolimus from intestinal cells.
 CYP3A4 and PgP inducers decreasing everolimus concentrations
+
 Substances that are inducers of CYP3A4 or PgP may decrease everolimus blood concentrations by increasing metabolism or the efflux of everolimus from intestinal cells.
+
 Table 2 Effects of other active substances on everolimus
 
 | Active substance by interaction | Interaction – Change in Everolimus AUC/Cmax Geometric mean ratio (observed range) | Recommendations concerning co-administration |
@@ -39,6 +41,7 @@ Table 2 Effects of other active substances on everolimus
 | St John’s Wort (Hypericum perforatum) | Not studied. Large decrease in exposure expected. | Preparations containing St John’s Wort should not be used during treatment with everolimus |
 
 Agents whose plasma concentration may be altered by everolimus
+
 Based on in vitro results, the systemic concentrations obtained after oral daily doses of 10 mg make inhibition of PgP, CYP3A4 and CYP2D6 unlikely.
 However, inhibition of CYP3A4 and PgP in the gut cannot be excluded.
 An interaction study in healthy subjects demonstrated that co-administration of an oral dose of midazolam, a sensitive CYP3A substrate probe, with everolimus resulted in a 25% increase in midazolam Cmax and a 30% increase in midazolam AUC(0-inf).
@@ -55,9 +58,14 @@ No increase in adverse reactions related to exemestane was observed in patients 
 The increase in exemestane levels is unlikely to have an impact on efficacy or safety.
 
 Concomitant use of angiotensin-converting enzyme (ACE) inhibitors
-Patients taking concomitant ACE inhibitor (e.g. ramipril) therapy may be at increased risk for angioedema (see section 4.4).
 
+Patients taking concomitant ACE inhibitor (e.g. ramipril) therapy may be at increased risk for angioedema (see section 4.4).
 Vaccinations
+
 The immune response to vaccination may be affected and, therefore, vaccination may be less effective during treatment with Afinitor.
 The use of live vaccines should be avoided during treatment with Afinitor (see section 4.4).
 Examples of live vaccines are: intranasal influenza, measles, mumps, rubella, oral polio, BCG (Bacillus Calmette-Guérin), yellow fever, varicella, and TY21a typhoid vaccines.
+
+Radiation treatment
+
+Potentiation of radiation treatment toxicity has been reported in patients receiving everolimus (see sections 4.4 and 4.8).

@@ -3,6 +3,7 @@
 Treatment with Afinitor should be initiated and supervised by a physician experienced in the use of anticancer therapies.
 
 Posology
+
 For the different dose regimens Afinitor is available as 2.5 mg, 5 mg and 10 mg tablets.
 
 The recommended dose is 10 mg everolimus once daily.
@@ -49,10 +50,12 @@ Renal impairment
 No dose adjustment is required (see section 5.2).
 
 Hepatic impairment
-− Mild hepatic impairment (Child-Pugh A) – the recommended dose is 7.5 mg daily.
-− Moderate hepatic impairment (Child-Pugh B) – the recommended dose is 5 mg daily.
-− Severe hepatic impairment (Child-Pugh C) – Afinitor is only recommended if the desired benefit outweighs the risk.
-In this case, a dose of 2.5 mg daily must not be exceeded.
+
+- Mild hepatic impairment (Child-Pugh A) – the recommended dose is 7.5 mg daily.
+- Moderate hepatic impairment (Child-Pugh B) – the recommended dose is 5 mg daily.
+- Severe hepatic impairment (Child-Pugh C) – Afinitor is only recommended if the desired benefit outweighs the risk.
+  In this case, a dose of 2.5 mg daily must not be exceeded.
+
 Dose adjustments should be made if a patient’s hepatic (Child-Pugh) status changes during treatment (see also sections 4.4 and 5.2).
 
 Paediatric population
@@ -60,6 +63,7 @@ The safety and efficacy of Afinitor in children aged 0 to 18 years have not been
 No data are available.
 
 Method of administration
+
 Afinitor should be administered orally once daily at the same time every day, consistently either with or without food (see section 5.2).
 Afinitor tablets should be swallowed whole with a glass of water.
 The tablets should not be chewed or crushed.
