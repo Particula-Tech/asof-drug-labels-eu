@@ -4,10 +4,14 @@ Most pharmacokinetics properties observed in patients with plaque psoriasis, pso
 
 Paediatric population
 
+Plaque psoriasis
 In a pool of the two paediatric studies, patients with moderate to severe plaque psoriasis (6 to less than 18 years of age) were administered secukinumab at the recommended paediatric dosing regimen.
 At week 24, patients weighing ≥25 and <50 kg had a mean ± SD steady-state trough concentration of 19.8±6.96 µg/ml (n=24) after 75 mg of secukinumab and patients weighing ≥50 kg had mean ±SD trough concentration of 27.3±10.1 µg/ml (n=36) after 150 mg of secukinumab.
 The mean ± SD steady-state trough concentration in patients weighing <25 kg (n=8) was 32.6±10.8 µg/ml at week 24 after 75 mg dose.
 
+Juvenile idiopathic arthritis
+In a paediatric study, ERA and JPsA patients (2 to less than 18 years of age) were administered secukinumab at the recommended paediatric dosing regimen.
+At week 24, patients weighing <50 kg, and weighing ≥50 kg had a mean ± SD steady-state trough concentration of 25.2±5.45 µg/ml (n=10) and 27.9±9.57 µg/ml (n=19), respectively.
 Adult population
 
 Absorption
@@ -26,6 +30,7 @@ Population pharmacokinetic analysis showed that secukinumab was absorbed with an
 Across studies, absolute bioavailabilities in the range between 60 and 77% were calculated.
 
 The bioavailability of secukinumab in PsA patients was 85% on the basis of the population pharmacokinetic model.
+
 Following a single subcutaneous injection of 300 mg solution for injection in pre-filled syringe in plaque psoriasis patients, secukinumab systemic exposure was similar to what was observed previously with two injections of 150 mg.
 
 Distribution
@@ -45,7 +50,6 @@ The mean elimination half-life, as estimated from population pharmacokinetic ana
 Linearity/non-linearity
 The single and multiple dose pharmacokinetics of secukinumab in plaque psoriasis patients were determined in several studies with intravenous doses ranging from 1x 0.3 mg/kg to 3x 10 mg/kg and with subcutaneous doses ranging from 1x 25 mg to multiple doses of 300 mg.
 Exposure was dose proportional across all dosing regimens.
-
 Special populations
 
 Patients with renal or hepatic impairment

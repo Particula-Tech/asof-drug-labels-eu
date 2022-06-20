@@ -9,7 +9,6 @@ The recommended dose is based on body weight (Table 1) and administered by subcu
 Each 75 mg dose is given as one subcutaneous injection of 75 mg.
 Each 150 mg dose is given as one subcutaneous injection of 150 mg.
 Each 300 mg dose is given as one subcutaneous injection of 300 mg or as two subcutaneous injections of 150 mg.
-
 Table 1 Recommended dose for paediatric plaque psoriasis
 
 | Body weight at time of dosing | Recommended dose |
@@ -19,9 +18,28 @@ Table 1 Recommended dose for paediatric plaque psoriasis
 | ≥50 kg | 150 mg (*may be increased to 300 mg) |
 
 *Some patients may derive additional benefit from the higher dose.
+
+Juvenile idiopathic arthritis (JIA)
+
+Enthesitis-related arthritis (ERA) and juvenile psoriatic arthritis (JPsA)
+The recommended dose is based on body weight (Table 2) and administered by subcutaneous injection at weeks 0, 1, 2, 3, and 4, followed by monthly maintenance dosing.
+Each 75 mg dose is given as one subcutaneous injection of 75 mg.
+Each 150 mg dose is given as one subcutaneous injection of 150 mg.
+
+Table 2 Recommended dose for juvenile idiopathic arthritis
+
+| Body weight at time of dosing | Recommended dose |
+| --- | --- |
+| <50 kg | 75 mg |
+| ≥50 kg | 150 mg |
+
 Cosentyx may be available in other strengths and/or presentations depending on the individual treatment needs.
 
-The safety and efficacy of Cosentyx in children with plaque psoriasis below the age of 6 years have not been established.
+For all of the above indications, available data suggest that a clinical response is usually achieved within 16 weeks of treatment.
+Consideration should be given to discontinuing treatment in patients who have shown no response by 16 weeks of treatment.
+Some patients with an initial partial response may subsequently improve with continued treatment beyond 16 weeks.
+
+The safety and efficacy of Cosentyx in children with plaque psoriasis and in the juvenile idiopathic arthritis (JIA) categories of ERA and JPsA below the age of 6 years have not been established.
 
 The safety and efficacy of Cosentyx in children below the age of 18 years in other indications have not yet been established.
 No data are available.
@@ -53,6 +71,7 @@ The 150 mg and 300 mg solution for injection in pre-filled syringe and in pre-fi
 
 Psoriatic arthritis
 For patients with concomitant moderate to severe plaque psoriasis, please refer to adult plaque psoriasis recommendation.
+
 For patients who are anti-TNFα inadequate responders (IR), the recommended dose is 300 mg by subcutaneous injection with initial dosing at weeks 0, 1, 2, 3 and 4, followed by monthly maintenance dosing.
 
 For other patients, the recommended dose is 150 mg by subcutaneous injection with initial dosing at weeks 0, 1, 2, 3 and 4, followed by monthly maintenance dosing.
@@ -63,10 +82,6 @@ Ankylosing spondylitis (AS, radiographic axial spondyloarthritis)
 The recommended dose is 150 mg by subcutaneous injection with initial dosing at weeks 0, 1, 2, 3 and 4, followed by monthly maintenance dosing.
 
 Non-radiographic axial spondyloarthritis (nr-axSpA)
-
-For all of the above indications, available data suggest that a clinical response is usually achieved within 16 weeks of treatment.
-Consideration should be given to discontinuing treatment in patients who have shown no response by 16 weeks of treatment.
-Some patients with an initial partial response may subsequently improve with continued treatment beyond 16 weeks.
 
 Elderly patients (aged 65 years and over)
 No dose adjustment is required (see section 5.2).

@@ -6,15 +6,15 @@ The most frequently reported adverse reactions are upper respiratory tract infec
 
 Tabulated list of adverse reactions
 
-Adverse reactions from clinical studies and post-marketing reports (Table 2) are listed by MedDRA system organ class.
+Adverse reactions from clinical studies and post-marketing reports (Table 3) are listed by MedDRA system organ class.
 Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 In addition, the corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); and not known (cannot be estimated from the available data).
+
 Over 18,000 patients have been treated with secukinumab in blinded and open-label clinical studies in various indications (plaque psoriasis, psoriatic arthritis, axial spondyloarthritis and other autoimmune conditions), representing 30,565 patient years of exposure.
 Of these, over 11,700 patients were exposed to secukinumab for at least one year.
 The safety profile of secukinumab is consistent across all indications.
-
-Table 2 List of adverse reactions in clinical studies1) and post-marketing experience
+Table 3 List of adverse reactions in clinical studies1) and post-marketing experience
 
 | System organ class | Frequency | Adverse reaction |
 | --- | --- | --- |
@@ -34,6 +34,7 @@ Table 2 List of adverse reactions in clinical studies1) and post-marketing exper
 |  | Common | Nausea |
 |  | Uncommon | Inflammatory bowel disease |
 | Skin and subcutaneous tissue disorders | Uncommon | Urticaria |
+|  |  | Dyshidrotic eczema |
 |  | Rare | Exfoliative dermatitis2) |
 |  |  | Hypersensitivity vasculitis |
 | General disorders and administration site conditions | Common | Fatigue |
@@ -46,9 +47,9 @@ In the placebo-controlled period of clinical studies in plaque psoriasis (a tota
 The majority of infections consisted of non-serious and mild to moderate upper respiratory tract infections, such as nasopharyngitis, which did not necessitate treatment discontinuation.
 There was an increase in mucosal or cutaneous candidiasis, consistent with the mechanism of action, but the cases were mild or moderate in severity, non-serious, responsive to standard treatment and did not necessitate treatment discontinuation.
 Serious infections occurred in 0.14% of patients treated with secukinumab and in 0.3% of patients treated with placebo (see section 4.4).
+
 Over the entire treatment period (a total of 3,430 patients treated with secukinumab for up to 52 weeks for the majority of patients), infections were reported in 47.5% of patients treated with secukinumab (0.9 per patient-year of follow-up).
 Serious infections were reported in 1.2% of patients treated with secukinumab (0.015 per patient-year of follow-up).
-
 Infection rates observed in psoriatic arthritis and axial spondyloarthritis (ankylosing spondylitis and non-radiographic axial spondyloarthritis) clinical studies were similar to those observed in the psoriasis studies.
 
 Neutropenia
@@ -75,6 +76,10 @@ The safety of secukinumab was assessed in two phase III studies in paediatric pa
 The first study (paediatric study 1) was a double-blind, placebo-controlled study of 162 patients from 6 to less than 18 years of age with severe plaque psoriasis.
 The second study (paediatric study 2) is an open-label study of 84 patients from 6 to less than 18 years of age with moderate to severe plaque psoriasis.
 The safety profile reported in these two studies was consistent with the safety profile reported in adult plaque psoriasis patients.
+
+Undesirable effects in paediatric patients with JIA
+The safety of secukinumab was also assessed in a phase III study in 86 juvenile idiopathic arthritis patients with ERA and JPsA from 2 to less than 18 years of age.
+The safety profile reported in this study was consistent with the safety profile reported in adult patients.
 
 Reporting of suspected adverse reactions
 

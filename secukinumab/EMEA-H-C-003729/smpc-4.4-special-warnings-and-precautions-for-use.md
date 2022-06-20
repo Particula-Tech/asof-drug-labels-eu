@@ -17,6 +17,7 @@ In clinical studies, infections have been observed in patients receiving secukin
 Most of these were mild or moderate upper respiratory tract infections such as nasopharyngitis and did not require treatment discontinuation.
 
 Related to the mechanism of action of secukinumab, non-serious mucocutaneous candida infections were more frequently reported for secukinumab than placebo in the psoriasis clinical studies (3.55 per 100 patient years for secukinumab 300 mg versus 1.00 per 100 patient years for placebo) (see section 4.8).
+
 No increased susceptibility to tuberculosis was reported from clinical studies.
 However, secukinumab should not be given to patients with active tuberculosis.
 Anti-tuberculosis therapy should be considered prior to initiation of secukinumab in patients with latent tuberculosis.
@@ -37,7 +38,6 @@ Latex-sensitive individuals
 The removable needle cap of Cosentyx 75 mg solution for injection in pre-filled syringe contains a derivative of natural rubber latex.
 No natural rubber latex has to date been detected in the removable needle cap.
 Nevertheless, the use of Cosentyx 75 mg solution for injection in pre-filled syringe in latex-sensitive individuals has not been studied and there is therefore a potential risk of hypersensitivity reactions which cannot be completely ruled out.
-
 Vaccinations
 
 Live vaccines should not be given concurrently with secukinumab.

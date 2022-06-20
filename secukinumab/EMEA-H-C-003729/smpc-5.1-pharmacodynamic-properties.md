@@ -24,7 +24,6 @@ This is followed by a slow decrease due to reduced clearance of secukinumab-boun
 In a study with secukinumab, infiltrating epidermal neutrophils and various neutrophil-associated markers that are increased in lesional skin of plaque psoriasis patients were significantly reduced after one to two weeks of treatment.
 
 Secukinumab has been shown to lower (within 1 to 2 weeks of treatment) levels of C-reactive protein, which is a marker of inflammation.
-
 Clinical efficacy and safety
 
 Adult plaque psoriasis
@@ -34,6 +33,7 @@ In addition, one study assessed a chronic treatment regimen versus a “retreatm
 
 Of the 2,403 patients who were included in the placebo-controlled studies, 79% were biologic-naive, 45% were non-biologic failures and 8% were biologic failures (6% were anti-TNF failures, and 2% were anti-p40 failures).
 Approximately 15 to 25% of patients in phase III studies had psoriatic arthritis (PsA) at baseline.
+
 Psoriasis study 1 (ERASURE) evaluated 738 patients.
 Patients randomised to secukinumab received 150 mg or 300 mg doses at weeks 0, 1, 2, 3 and 4, followed by the same dose every month.
 Psoriasis study 2 (FIXTURE) evaluated 1,306 patients.
@@ -51,9 +51,9 @@ Psoriasis study 5 (SCULPTURE) evaluated 966 patients.
 All patients received secukinumab 150 mg or 300 mg doses at weeks 0, 1, 2, 3, 4, 8 and 12 and then were randomised to receive either a maintenance regimen of the same dose every month starting at week 12 or a “retreatment as needed” regimen of the same dose.
 Patients randomised to “retreatment as needed” did not achieve adequate maintenance of response and therefore a fixed monthly maintenance regimen is recommended.
 
-The co-primary endpoints in the placebo and active-controlled studies were the proportion of patients who achieved a PASI 75 response and IGA mod 2011 “clear” or “almost clear” response versus placebo at week 12 (see Tables 3 and 4).
+The co-primary endpoints in the placebo and active-controlled studies were the proportion of patients who achieved a PASI 75 response and IGA mod 2011 “clear” or “almost clear” response versus placebo at week 12 (see Tables 4 and 5).
 The 300 mg dose provided improved skin clearance particularly for “clear” or “almost clear” skin across the efficacy endpoints of PASI 90, PASI 100, and IGA mod 2011 0 or 1 response across all studies with peak effects seen at week 16, therefore this dose is recommended.
-Table 3 Summary of PASI 50/75/90/100 & IGA⃰ mod 2011 “clear” or “almost clear” clinical response in psoriasis studies 1, 3 and 4 (ERASURE, FEATURE and JUNCTURE)
+Table 4 Summary of PASI 50/75/90/100 & IGA⃰ mod 2011 “clear” or “almost clear” clinical response in psoriasis studies 1, 3 and 4 (ERASURE, FEATURE and JUNCTURE)
 
 Week 12 Week 16 Week 52
 
@@ -128,7 +128,7 @@ n (%)
 * The IGA mod 2011 is a 5-category scale including “0 = clear”, “1 = almost clear”, “2 = mild”, “3 = moderate” or “4 = severe”, indicating the physician’s overall assessment of the psoriasis severity focusing on induration, erythema and scaling.
 Treatment success of “clear” or “almost clear” consisted of no signs of psoriasis or normal to pink colouration of lesions, no thickening of the plaque and none to minimal focal scaling.
 ** p values versus placebo and adjusted for multiplicity: p<0.0001.
-Table 4 Summary of clinical response on psoriasis study 2 (FIXTURE)
+Table 5 Summary of clinical response on psoriasis study 2 (FIXTURE)
 
 Week 12 Week 16 Week 52
 
@@ -167,7 +167,7 @@ In an additional psoriasis study (CLEAR) 676 patients were evaluated.
 Secukinumab 300 mg met the primary and secondary endpoints by showing superiority to ustekinumab based on PASI 90 response at week 16 (primary endpoint), speed of onset of PASI 75 response at week 4, and long-term PASI 90 response at week 52.
 Greater efficacy of secukinumab compared to ustekinumab for the endpoints PASI 75/90/100 and IGA mod 2011 0 or 1 response (“clear” or “almost clear”) was observed early and continued through to week 52.
 
-Table 5 Summary of clinical response on CLEAR study
+Table 6 Summary of clinical response on CLEAR study
 
 Week 4 Week 16 Week 52
 
@@ -231,7 +231,7 @@ Statistically significant improvements (decreases) at week 12 from baseline in t
 Paediatric population
 
 Paediatric plaque psoriasis
-Secukinumab has been shown to improve signs and symptoms, and health-related quality of life in paediatric patients 6 years and older with plaque psoriasis (see Tables 7 and 9).
+Secukinumab has been shown to improve signs and symptoms, and health-related quality of life in paediatric patients 6 years and older with plaque psoriasis (see Tables 8 and 10).
 
 Severe plaque psoriasis
 The safety and efficacy of secukinumab were assessed in a randomised, double-blind, placebo and etanercept-controlled phase III study in paediatric patients from 6 to <18 years of age with severe plaque psoriasis, as defined by a PASI score ≥20, an IGA mod 2011 score of 4, and BSA involvement of ≥10%, who were candidates for systemic therapy.
@@ -239,9 +239,9 @@ Approximately 43% of the patients had prior exposure to phototherapy, 53% to con
 
 The paediatric psoriasis study 1 evaluated 162 patients who were randomised to receive low dose secukinumab (75 mg for body weight <50 kg or 150 mg for body weight ≥50 kg), high dose secukinumab (75 mg for body weight <25 kg, 150 mg for body weight between ≥25 kg and <50 kg, or 300 mg for body weight ≥50 kg), or placebo at weeks 0, 1, 2, 3, and 4 followed by the same dose every 4 weeks, or etanercept.
 Patients randomised to etanercept received 0.8 mg/kg weekly (up to a maximum of 50 mg).
-Patient distribution by weight and age at randomisation is described in Table 6.
+Patient distribution by weight and age at randomisation is described in Table 7.
 
-Table 6 Patient distribution by weight and age for paediatric psoriasis study 1
+Table 7 Patient distribution by weight and age for paediatric psoriasis study 1
 
 | Randomisation strata | Description | Secukinumab low dose n=40 | Secukinumab high dose n=40 | Placebo n=41 | Etanercept n=41 | Total N=162 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -258,15 +258,15 @@ During the 12 week placebo-controlled period, the efficacy of both the low and t
 The odds ratio estimates in favour of both secukinumab doses were statistically significant for both the PASI 75 and IGA mod 2011 0 or 1 responses.
 All patients were followed for efficacy and safety during the 52 weeks following the first dose.
 The proportion of patients achieving PASI 75 and IGA mod 2011 ‘clear’ or ‘almost clear’ (0 or 1) responses showed separation between secukinumab treatment groups and placebo at the first post-baseline visit at week 4, the difference becoming more prominent at week 12.
-The response was maintained throughout the 52 week time period (see Table 7).
+The response was maintained throughout the 52 week time period (see Table 8).
 Improvement in PASI 50, 90, 100 responder rates and Children’s Dermatology Life Quality Index (CDLQI) scores of 0 or 1 were also maintained throughout the 52 week time period.
 
-In addition, PASI 75, IGA 0 or 1, PASI 90 response rates at weeks 12 and 52 for both secukinumab low and high dose groups were higher than the rates for patients treated with etanercept (see Table 7).
+In addition, PASI 75, IGA 0 or 1, PASI 90 response rates at weeks 12 and 52 for both secukinumab low and high dose groups were higher than the rates for patients treated with etanercept (see Table 8).
 
 Beyond week 12, efficacy of both the low and the high dose of secukinumab was comparable although the efficacy of the high dose was higher for patients ≥50 kg.
 The safety profiles of the low dose and the high dose were comparable and consistent with the safety profile in adults.
 
-Table 7 Summary of clinical response in severe paediatric psoriasis at weeks 12 and 52 (paediatric psoriasis study 1)*
+Table 8 Summary of clinical response in severe paediatric psoriasis at weeks 12 and 52 (paediatric psoriasis study 1)*
 
 | Response | Treatment comparison | 'test' | 'control' | odds ratio |  |
 | --- | --- | --- | --- | --- | --- |
@@ -299,15 +299,15 @@ Table 7 Summary of clinical response in severe paediatric psoriasis at weeks 12 
 
 A higher proportion of paediatric patients treated with secukinumab reported improvement in health-related quality of life as measured by a CDLQI score of 0 or 1 compared to placebo at week 12 (low dose 44.7%, high dose 50%, placebo 15%).
 Over time up to and including week 52 both secukinumab dose groups were numerically higher than the etanercept group (low dose 60.6%, high dose 66.7%, etanercept 44.4%).
-
 Moderate to severe plaque psoriasis
 Secukinumab was predicted to be effective for the treatment of paediatric patients with moderate plaque psoriasis based on the demonstrated efficacy and exposure response relationship in adult patients with moderate to severe plaque psoriasis, and the similarity of the disease course, pathophysiology, and drug effect in adult and paediatric patients at the same exposure levels.
+
 Moreover, the safety and efficacy of secukinumab was assessed in an open-label, two-arm, parallel-group, multicentre phase III study in paediatric patients from 6 to <18 years of age with moderate to severe plaque psoriasis, as defined by a PASI score ≥12, an IGA mod 2011 score of ≥3, and BSA involvement of ≥10%, who were candidates for systemic therapy.
 
 The paediatric psoriasis study 2 evaluated 84 patients who were randomised to receive low dose secukinumab (75 mg for body weight <50 kg or 150 mg for body weight ≥50 kg) or high dose secukinumab (75 mg for body weight <25 kg, 150 mg for body weight between ≥25 kg and <50 kg, or 300 mg for body weight ≥50 kg) at weeks 0, 1, 2, 3, and 4 followed by the same dose every 4 weeks.
-Patient distribution by weight and age at randomisation is described in Table 8.
+Patient distribution by weight and age at randomisation is described in Table 9.
 
-Table 8 Patient distribution by weight and age for paediatric psoriasis study 2
+Table 9 Patient distribution by weight and age for paediatric psoriasis study 2
 
 | Sub-groups | Description | Secukinumab low dose n=42 | Secukinumab high dose n=42 | Total N=84 |
 | --- | --- | --- | --- | --- |
@@ -324,11 +324,10 @@ The estimated posterior probability of a positive treatment effect was 100%.
 
 Patients were followed for efficacy over a 52 week period after first administration.
 Efficacy (defined as PASI 75 response and IGA mod 2011 ‘clear’ or ‘almost clear’ [0 or 1]) was observed as early as the first post-baseline visit at week 2, and the proportion of patients who achieved a PASI 75 response and IGA mod 2011 ‘clear’ or ‘almost clear’ (0 or 1) increased up to week 24 and were sustained until week 52.
-Improvement in PASI 90 and PASI 100 were also observed at week 12, increased up to week 24, and were sustained until week 52 (see Table 9).
+Improvement in PASI 90 and PASI 100 were also observed at week 12, increased up to week 24, and were sustained until week 52 (see Table 10).
 
 The safety profiles of the low dose and the high dose were comparable and consistent with the safety profile in adults.
-
-Table 9 Summary of clinical response in moderate to severe paediatric psoriasis at weeks 12 and 52 (paediatric psoriasis study 2)*
+Table 10 Summary of clinical response in moderate to severe paediatric psoriasis at weeks 12 and 52 (paediatric psoriasis study 2)*
 
 |  | Week 12 |  | Week 52 |  |
 | --- | --- | --- | --- | --- |
@@ -341,12 +340,74 @@ Table 9 Summary of clinical response in moderate to severe paediatric psoriasis 
 | * non-responder imputation was used to handle missing values |  |  |  |  |
 
 These outcomes in the paediatric moderate to severe plaque psoriasis population confirmed the predictive assumptions based on the efficacy and exposure response relationship in adult patients, mentioned above.
+
 In the low dose group, 50% and 70.7% of patients achieved a CDLQI 0 or 1 score at weeks 12 and 52, respectively.
 In the high dose group, 61.9% and 70.3% achieved a CDLQI 0 or 1 score at weeks 12 and 52, respectively.
 
-The European Medicines Agency has waived the obligation to submit the results of studies with Cosentyx in plaque psoriasis in paediatric patients aged from birth to less than 6 years and in chronic idiopathic arthritis for paediatric patients aged from birth to less than 2 years (see section 4.2 for information on paediatric use).
+Juvenile idiopathic arthritis (JIA)
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Cosentyx in chronic idiopathic arthritis for paediatric patients aged from 2 years to less than 18 years (see section 4.2 for information on paediatric use).
+Enthesitis-related arthritis (ERA) and juvenile psoriatic arthritis (JPsA)
+The efficacy and safety of secukinumab were assessed in 86 patients in a 3-part, double-blind, placebo-controlled, event-driven, randomised, phase III study in patients 2 to <18 years of age with active ERA or JPsA as diagnosed based on a modified International League of Associations for Rheumatology (ILAR) JIA classification criteria.
+The study consisted of an open-label portion (Part 1) where all patients received secukinumab until week 12.
+Patients demonstrating a JIA ACR 30 response at week 12 entered into the Part 2 double-blind phase and were randomised 1:1 to continue treatment with secukinumab or to begin treatment with placebo (randomised withdrawal) until week 104 or until a flare occured.
+Patients who flared then entered open-label secukinumab treatment until week 104 (Part 3).
+
+The JIA patient subtypes at study entry were: 60.5% ERA and 39.5% JPsA, who either had inadequate response or were intolerant to ≥1 disease-modifying antirheumatic drugs (DMARDs) and ≥1 non-steroidal anti-inflammatory drugs (NSAIDs).
+At baseline, MTX use was reported for 65.1% of patients; (63.5% [33/52] of ERA patients and 67.6% [23/34] of JPsA patients).
+There were 12 out of 52 ERA patients concomitantly treated with sulfasalazine (23.1%).
+Patients with a body weight at baseline <50 kg (n=30) were given a dose of 75 mg and patients with a body weight ≥50 kg (n=56) were given a dose of 150 mg.
+Age at baseline ranged from 2 to 17 years, with 3 patients between 2 to <6 years, 22 patients 6 to <12 years and 61 patients 12 to <18 years.
+At baseline the Juvenile Arthritis Disease Activity Score (JADAS)-27 was 15.1 (SD:7.1).
+
+The primary endpoint was time to flare in the randomised withdrawal period (Part 2).
+Disease flare was defined as a ≥30% worsening in at least three of the six JIA ACR response criteria and ≥30% improvement in not more than one of the six JIA ACR response criteria and a minimum of two active joints.
+
+At the end of Part 1, 75 out of 86 (87.2%) patients demonstrated a JIA ACR 30 response and entered into Part 2.
+The study met its primary endpoint by demonstrating a statistically significant prolongation in the time to disease flare in patients treated with secukinumab compared to placebo in Part 2.
+The risk of flare was reduced by 72% for patients on secukinumab compared with patients on placebo in Part 2 (Hazard ratio=0.28, 95% CI: 0.13 to 0.63, p<0.001) (Figure 2 and Table 11).
+During Part 2, a total of 21 patients in the placebo group experienced a flare event (11 JPsA and 10 ERA) compared with 10 patients in the secukinumab group (4 JPsA and 6 ERA).
+
+Figure 2 Kaplan-Meier estimates of the time to disease flare in Part 2
+
+Proportion of patients with disease flare (%)
+
+Time (days)
+
+Secukinumab ------ Placebo in Part 2 + Censored
+
+Number of patients at risk
+Secukinumab 37 36 34 33 32 30 30 29 29 29 25 25 24 23 23 23 23 23 23 21 21 21 20 14 0
+Placebo in Part 2 38 38 32 29 28 25 22 21 21 21 20 20 19 19 19 18 18 16 16 15 15 15 15 10 0
+
+Table 11 Survival analysis of time to disease flare – Part 2
+
+|  | Secukinumab (N=37) | Placebo in Part 2 (N=38) |
+| --- | --- | --- |
+| Number of flare events at the end of Part 2, n (%) | 10 (27.0) | 21 (55.3) |
+| Kaplan-Meier estimates: |  |  |
+| Median, in days (95% CI) | NC (NC, NC) | 453.0 (114.0, NC) |
+| Flare-free rate at 6 months (95% CI) | 85.8 (69.2, 93.8) | 60.1 (42.7, 73.7) |
+| Flare-free rate at 12 months (95% CI) | 76.7 (58.7, 87.6) | 54.3 (37.1, 68.7) |
+| Flare-free rate at 18 months (95% CI) | 73.2 (54.6, 85.1) | 42.9 (26.7, 58.1) |
+| Hazard ratio to placebo: Estimate (95% CI) | 0.28 (0.13, 0.63) |  |
+| Stratified log-rank test p-value | <0.001** |  |
+| Analysis was conducted on all randomised patients who received at least one dose of study drug in Part 2. Secukinumab: all patients who did not take any placebo. Placebo in Part 2: all patients who took placebo in Part 2 and secukinumab in other period/s. NC = Not calculable. ** = Statistically significant on one-sided significance level 0.025. |  |  |
+
+In open-label Part 1, all patients received secukinumab until week 12.
+At week 12, 83.7%, 67.4%, and 38.4% of children were JIA ACR 50, 70 and 90 responders, respectively (Figure 3).
+The onset of action of secukinumab occurred as early as week 1.
+At week 12 the JADAS-27 score was 4.64 (SD:4.73) and the mean decrease from baseline in JADAS-27 was -10.487 (SD:7.23).
+Figure 3 JIA ACR 30/50/70/90 response for subjects up to week 12 in Part 1*
+
+Percentage of responders
+
+Time (weeks)
+
+*non-responder imputation was used to handle missing values
+
+The data in the 2 to <6 age group were inconclusive due to the low number of patients below 6 years of age enrolled in the study.
+
+The European Medicines Agency has waived the obligation to submit the results of studies with Cosentyx in plaque psoriasis in paediatric patients aged from birth to less than 6 years and in chronic idiopathic arthritis for paediatric patients aged from birth to less than 2 years (see section 4.2 for information on paediatric use).
 
 [Cosentyx 150 mg solution for injection in pre-filled syringe]
 
@@ -359,9 +420,9 @@ Patients were randomised 1:1 as follows:
   - Patients randomised to receive secukinumab 300 mg Q4W who were PASI 90 responders at week 16 continued to receive the same dosing regimen up to week 52.
     Patients randomised to receive secukinumab 300 mg Q4W who were PASI 90 non-responders at week 16 either continued on the same dosing regimen, or were reassigned to receive secukinumab 300 mg Q2W up to week 52.
 
-Overall, the efficacy response rates for the group treated with the every 2 weeks regimen were higher compared to the group treated with the every 4 weeks regimen (Table 6).
+Overall, the efficacy response rates for the group treated with the every 2 weeks regimen were higher compared to the group treated with the every 4 weeks regimen (Table 7).
 
-Table 6 Summary of clinical response in the plaque psoriasis dose flexibility study*
+Table 7 Summary of clinical response in the plaque psoriasis dose flexibility study*
 
 |  | Week 16 |  | Week 52 |  |
 | --- | --- | --- | --- | --- |
@@ -400,8 +461,8 @@ Patients were randomised to receive secukinumab 150 mg, 300 mg or placebo subcut
 Patients randomised to receive placebo who were non-responders at week 16 (early rescue) were then crossed over to receive secukinumab (either 150 mg or 300 mg subcutaneously) at week 16 followed by the same dose every month.
 
 Signs and symptoms
-Treatment with secukinumab resulted in significant improvement in measures of disease activity compared to placebo at weeks 16 and 24 (see Table 7).
-Table 7 Clinical response in PsA study 2 and PsA study 3 at week 16 and week 24
+Treatment with secukinumab resulted in significant improvement in measures of disease activity compared to placebo at weeks 16 and 24 (see Table 8).
+Table 8 Clinical response in PsA study 2 and PsA study 3 at week 16 and week 24
 
 |  | PsA study 2 PsA study 3 |  |
 | --- | --- | --- |
@@ -425,9 +486,6 @@ The percentage of patients achieving ACR 20 response by visit is shown in Figure
 
 Figure 2 ACR20 response in PsA study 2 over time up to week 52
 
-Percentage of responders
-
-Time (Weeks)
 Similar responses for primary and key secondary endpoints were seen in PsA patients regardless of whether they were on concomitant MTX treatment or not.
 In PsA study 2, at week 24, secukinumab-treated patients with concomitant MTX use had a higher ACR 20 response (47.7% and 54.4% for 150 mg and 300 mg, respectively, compared to placebo 20.0%) and ACR 50 response (31.8% and 38.6% for 150 mg and 300 mg, respectively, compared to placebo 8.0%).
 Secukinumab-treated patients without concomitant MTX use had a higher ACR 20 response (53.6% and 53.6% for 150 mg and 300 mg, respectively, compared to placebo 10.4%) and ACR 50 response (37.5% and 32.1% for 150 mg and 300 mg, respectively, compared to placebo 6.3%).
@@ -447,11 +505,11 @@ Of the 100 patients randomised to secukinumab 300 mg, 64, 44 and 24 had an ACR 2
 Radiographic response
 In PsA study 3, inhibition of progression of structural damage was assessed radiographically and expressed by the modified Total Sharp Score (mTSS) and its components, the Erosion Score (ES) and the Joint Space Narrowing Score (JSN).
 Radiographs of hands, wrists, and feet were obtained at baseline, week 16 and/or week 24 and scored independently by at least two readers who were blinded to treatment group and visit number.
-Secukinumab 150 mg and 300 mg treatment significantly inhibited the rate of progression of peripheral joint damage compared with placebo treatment as measured by change from baseline in mTSS at week 24 (Table 8).
+Secukinumab 150 mg and 300 mg treatment significantly inhibited the rate of progression of peripheral joint damage compared with placebo treatment as measured by change from baseline in mTSS at week 24 (Table 9).
 
 Inhibition of progression of structural damage was also assessed in PsA study 1 at weeks 24 and 52, compared to baseline.
-Week 24 data are presented in Table 8.
-Table 8 Change in modified Total Sharp Score in psoriatic arthritis
+Week 24 data are presented in Table 9.
+Table 9 Change in modified Total Sharp Score in psoriatic arthritis
 
 |  | PsA study 3 Placebo secukinumab secukinumab n=296 150 mg1 300 mg1 n=213 n=217 | PsA study 1 Placebo secukinumab n=179 150 mg2 n=185 |
 | --- | --- | --- |
@@ -471,8 +529,8 @@ The percentage of patients with no disease progression from week 24 to week 52 f
 Axial manifestations in PsA
 A randomised, double-blind, placebo-controlled study (MAXIMISE) assessed the efficacy of secukinumab in 485 PsA patients with axial manifestations who were naive to biologic treatment and responded inadequately to NSAIDs.
 The primary variable of at least a 20% improvement in Assessment of SpondyloArthritis International Society (ASAS 20) criteria at week 12 was met.
-Treatment with secukinumab 300 mg and 150 mg compared to placebo also resulted in greater improvement in signs and symptoms (including decreases from baseline in spinal pain) and improvement in physical function (see Table 9).
-Table 9 Clinical response on MAXIMISE study at week 12
+Treatment with secukinumab 300 mg and 150 mg compared to placebo also resulted in greater improvement in signs and symptoms (including decreases from baseline in spinal pain) and improvement in physical function (see Table 10).
+Table 10 Clinical response on MAXIMISE study at week 12
 
 |  | Placebo (n=164) | 150 mg (n=157) | 300 mg (n=164) |
 | --- | --- | --- | --- |
@@ -515,9 +573,9 @@ At week 16, patients who were randomised to placebo at baseline were re-randomis
 The primary endpoint was ASAS 20 at week 16.
 Patients were blinded to the treatment regimen up to week 52, and the study continued to week 156.
 
-In AS study 2, treatment with secukinumab 150 mg resulted in greater improvement in measures of disease activity compared with placebo at week 16 (see Table 10).
+In AS study 2, treatment with secukinumab 150 mg resulted in greater improvement in measures of disease activity compared with placebo at week 16 (see Table 11).
 
-Table 10 Clinical response in AS study 2 at week 16
+Table 11 Clinical response in AS study 2 at week 16
 
 | Outcome (p-value versus placebo) | Placebo (n = 74) | 75 mg (n = 73) | 150 mg (n = 72) |
 | --- | --- | --- | --- |
@@ -563,10 +621,10 @@ Patients randomised to secukinumab received 150 mg subcutaneously at weeks 0, 1,
 The primary endpoint was at least 40% improvement in Assessment of SpondyloArthritis International Society (ASAS 40) at Week 16 in anti-TNFα-naive patients.
 
 In the PREVENT study, treatment with secukinumab 150 mg resulted in significant improvements in the measures of disease activity compared to placebo at week 16.
-These measures include ASAS 40, ASAS 5/6, BASDAI score, BASDAI 50, high-sensitivity CRP (hsCRP), ASAS 20 and ASAS partial remission response compared to placebo (Table 11).
+These measures include ASAS 40, ASAS 5/6, BASDAI score, BASDAI 50, high-sensitivity CRP (hsCRP), ASAS 20 and ASAS partial remission response compared to placebo (Table 12).
 Responses were maintained up to week 52.
 
-Table 11 Clinical response in the PREVENT study at week 16
+Table 12 Clinical response in the PREVENT study at week 16
 
 | Outcome (p-value versus placebo) | Placebo | 150 mg1 |
 | --- | --- | --- |
@@ -584,6 +642,7 @@ Table 11 Clinical response in the PREVENT study at week 16
 
 The onset of action of secukinumab 150 mg occurred as early as week 3 for ASAS 40 in anti-TNFα naive patients (superior to placebo) in the PREVENT study.
 The percentage of patients achieving an ASAS 40 response in anti-TNFα naive patients by visit is shown in Figure 3.
+
 Figure 3 ASAS 40 responses in anti-TNFα naive patients in the PREVENT study over time up to week 16
 
 Secukinumab 150 mg Load Placebo
@@ -601,24 +660,34 @@ Signs of inflammation were assessed by MRI at baseline and week 16 and expressed
 Inhibition of inflammatory signs in both sacroiliac joints and the spine was observed in patients treated with secukinumab.
 Mean change from baseline in Berlin SI-joint oedema score was -1.68 for patients treated with secukinumab 150 mg (n=180) versus -0.39 for the placebo-treated patients (n=174) (p<0.05).
 
-Secukinumab has been shown to improve signs and symptoms, and health-related quality of life in paediatric patients 6 years and older with plaque psoriasis (see Tables 13 and 15).
+Secukinumab has been shown to improve signs and symptoms, and health-related quality of life in paediatric patients 6 years and older with plaque psoriasis (see Tables 14 and 16).
 
-Patient distribution by weight and age at randomisation is described in Table 12.
+Patient distribution by weight and age at randomisation is described in Table 13.
 
-Table 12 Patient distribution by weight and age for paediatric psoriasis study 1
+Table 13 Patient distribution by weight and age for paediatric psoriasis study 1
 
-The response was maintained throughout the 52 week time period (see Table 13).
+The response was maintained throughout the 52 week time period (see Table 14).
 
-In addition, PASI 75, IGA 0 or 1, PASI 90 response rates at weeks 12 and 52 for both secukinumab low and high dose groups were higher than the rates for patients treated with etanercept (see Table 13).
+In addition, PASI 75, IGA 0 or 1, PASI 90 response rates at weeks 12 and 52 for both secukinumab low and high dose groups were higher than the rates for patients treated with etanercept (see Table 14).
 
-Table 13 Summary of clinical response in severe paediatric psoriasis at weeks 12 and 52 (paediatric psoriasis study 1)*
+Table 14 Summary of clinical response in severe paediatric psoriasis at weeks 12 and 52 (paediatric psoriasis study 1)*
 
-Patient distribution by weight and age at randomisation is described in Table 14.
-Table 14 Patient distribution by weight and age for paediatric psoriasis study 2
+Patient distribution by weight and age at randomisation is described in Table 15.
+Table 15 Patient distribution by weight and age for paediatric psoriasis study 2
 
-Improvement in PASI 90 and PASI 100 were also observed at week 12, increased up to week 24, and were sustained until week 52 (see Table 15).
+Improvement in PASI 90 and PASI 100 were also observed at week 12, increased up to week 24, and were sustained until week 52 (see Table 16).
 
-Table 15 Summary of clinical response in moderate to severe paediatric psoriasis at weeks 12 and 52 (paediatric psoriasis study 2)*
+Table 16 Summary of clinical response in moderate to severe paediatric psoriasis at weeks 12 and 52 (paediatric psoriasis study 2)*
+
+The risk of flare was reduced by 72% for patients on secukinumab compared with patients on placebo in Part 2 (Hazard ratio=0.28, 95% CI: 0.13 to 0.63, p<0.001) (Figure 4 and Table 17).
+
+Figure 4 Kaplan-Meier estimates of the time to disease flare in Part 2
+
+Table 17 Survival analysis of time to disease flare – Part 2
+
+At week 12, 83.7%, 67.4%, and 38.4% of children were JIA ACR 50, 70 and 90 responders, respectively (Figure 5).
+
+Figure 5 JIA ACR 30/50/70/90 response for subjects up to week 12 in Part 1*
 
 [Cosentyx 150 mg powder for solution for injection]
 

@@ -4,6 +4,14 @@ Paediatric plaque psoriasis
 
 Cosentyx is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescents from the age of 6 years who are candidates for systemic therapy.
 
+Juvenile idiopathic arthritis (JIA)
+
+Enthesitis-related arthritis (ERA)
+Cosentyx, alone or in combination with methotrexate (MTX), is indicated for the treatment of active enthesitis-related arthritis in patients 6 years and older whose disease has responded inadequately to, or who cannot tolerate, conventional therapy (see section 5.1).
+
+Juvenile psoriatic arthritis (JPsA)
+Cosentyx, alone or in combination with methotrexate (MTX), is indicated for the treatment of active juvenile psoriatic arthritis in patients 6 years and older whose disease has responded inadequately to, or who cannot tolerate, conventional therapy (see section 5.1).
+
 [Cosentyx 150 mg solution for injection in pre-filled syringe]
 
 Adult plaque psoriasis
