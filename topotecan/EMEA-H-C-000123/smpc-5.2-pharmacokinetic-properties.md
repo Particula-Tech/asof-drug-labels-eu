@@ -26,9 +26,9 @@ Approximately 51% was excreted as total topotecan and 3% was excreted as N-desme
 Faecal elimination of total topotecan accounted for 18% while faecal elimination of N-desmethyl topotecan was 1.7%.
 Overall, the N-desmethyl metabolite contributed a mean of less than 7% (range 4-9%) of the total topotecan-related material accounted for in the urine and faeces.
 The topotecan-O-glucuronide and N-desmethyl topotecan-O-glucuronide in the urine were less than 2.0%.
-
 In vitro data using human liver microsomes indicate the formation of small amounts of N-demethylated topotecan.
 In vitro, topotecan did not inhibit human P450 enzymes CYP1A2, CYP2A6, CYP2C8/9, CYP2C19, CYP2D6, CYP2E, CYP3A or CYP4A, nor did it inhibit the human cytosolic enzymes dihydropyrimidine or xanthine oxidase.
+
 When given in combination with cisplatin (cisplatin day 1, topotecan days 1 to 5), the clearance of topotecan was reduced on day 5 compared to day 1 (19.1 l/h/m2 compared to 21.3 l/h/m2 [n = 9]) (see section 4.5).
 
 Special populations

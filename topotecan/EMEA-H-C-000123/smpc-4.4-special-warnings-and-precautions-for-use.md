@@ -45,5 +45,4 @@ Communication with patients prior to drug administration regarding these side ef
 Cancer treatment-induced diarrhoea (CTID) is associated with significant morbidity and may be life-threatening.
 Should diarrhoea occur during treatment with oral topotecan, physicians are advised to aggressively manage diarrhoea.
 Clinical guidelines describing the aggressive management of CTID include specific recommendations on patient communication and awareness, recognition of early warning signs, use of anti-diarrhoeals and antibiotics, changes in fluid intake and diet, and need for hospitalisation (see sections 4.2 and 4.8).
-
 Intravenous topotecan should be considered in the following clinical situations: uncontrolled emesis, swallowing disorders, uncontrolled diarrhoea, clinical conditions and medication that may alter gastrointestinal motility and drug absorption.

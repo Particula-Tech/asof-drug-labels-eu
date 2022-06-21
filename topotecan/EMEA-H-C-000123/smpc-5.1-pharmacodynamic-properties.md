@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: antineoplastic agents, other antineoplastic agents: ATC code: L01XX17.
+Pharmacotherapeutic group: antineoplastic agents, plant alkaloids and other natural products, ATC code: L01CE01.
 
 Mechanism of action
 
