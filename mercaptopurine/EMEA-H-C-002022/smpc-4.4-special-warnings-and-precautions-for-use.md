@@ -34,7 +34,6 @@ Mutagenicity and carcinogenicity
 Patients receiving immunosuppressive therapy, including mercaptopurine, are at an increased risk of developing lymphoproliferative disorders and other malignancies, notably skin cancers (melanoma and non-melanoma), sarcomas (Kaposi's and non-Kaposi's) and uterine cervical cancer in situ.
 The increased risk appears to be related to the degree and duration of immunosuppression.
 It has been reported that discontinuation of immunosuppression may provide partial regression of the lymphoproliferative disorder.
-
 A treatment regimen containing multiple immunosuppressants (including thiopurines) should therefore be used with caution as this could lead to lymphoproliferative disorders, some with reported fatalities.
 A combination of multiple immunosuppressants, given concomitantly increases the risk of Epstein-Barr virus (EBV)-associated lymphoproliferative disorders.
 
@@ -69,9 +68,9 @@ In any case, close monitoring of blood counts is necessary.
 Paediatric population
 Cases of symptomatic hypoglycaemia have been reported in children with ALL receiving 6-mercaptopurine (see section 4.8).
 The majority of reported cases were in children under the age of six or with a low body mass index.
+
 Interactions
 When oral anticoagulants are coadministered with 6-mercaptopurine, a reinforced monitoring of INR (International Normalised Ratio) is recommended (see section 4.5).
-
 Excipients
 This medicinal product contains aspartame (E951), a source of phenylalanine.
 May be harmful for people with phenylketonuria.

@@ -20,4 +20,5 @@ Serum antiepileptic levels should be closely monitored during treatment with Xal
 Effects of other medicinal products on mercaptopurine
 When allopurinol and Xaluprine are administered concomitantly it is essential that only a quarter of the usual dose of Xaluprine is given since allopurinol decreases the rate of metabolism of 6-mercaptopurine via xanthine oxidase.
 Also other xanthine oxidase inhibitors, such as febuxostat, may decrease the metabolism of mercaptopurine and concomitant administration is not recommended as data are insufficient to determine an adequate dose reduction.
+
 As there is in vitro evidence that aminosalicylate derivatives (eg. olsalazine, mesalazine or sulfazalazine) inhibit the TPMT enzyme, which metabolises 6-mercaptopurine, they should be administered with caution to patients receiving concurrent Xaluprine therapy (see section 4.4).

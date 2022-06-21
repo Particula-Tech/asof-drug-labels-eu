@@ -14,6 +14,7 @@ Parents / care givers and patients should be advised to keep Xaluprine out of th
 Accidental ingestion can be lethal for children.
 
 Keep the bottle tightly closed to protect the integrity of the product and minimise the risk of accidental spillage.
+
 The bottle should be shaken vigorously for at least 30 seconds to ensure the oral suspension is well mixed.
 
 Disposal

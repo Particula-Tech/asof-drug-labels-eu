@@ -5,6 +5,7 @@ Summary of the safety profile
 The main adverse reaction of treatment with 6-mercaptopurine is bone marrow suppression leading to leucopenia and thrombocytopenia.
 
 For mercaptopurine there is a lack of modern clinical documentation which can serve as support for accurately determining the frequency of adverse reactions.
+
 Tabulated list of adverse reactions
 
 The following events have been identified as adverse reactions.
@@ -30,11 +31,12 @@ Within each frequency grouping, undesirable effects are presented in order of de
 |  | Uncommon | Hepatic necrosis |
 |  | Unknown | Portal hypertension*, nodular regenerative hyperplasia*, sinusoidal obstruction syndrome* |
 | Skin and subcutaneous tissue disorders | Rare | Alopecia |
-|  | Unknown | Photosensitivity reaction |
+|  | Unknown | Photosensitivity reaction, Erythema nodosum |
 | Reproductive system and breast disorders | Rare | Transient oligospermia |
 
 * In patients with inflammatory bowel disease (IBD), an unlicensed indication.
 † In the paediatric population.
+
 Description of selected adverse reactions
 
 6-mercaptopurine is hepatotoxic in animals and man.
@@ -44,7 +46,6 @@ The incidence of hepatotoxicity varies considerably and can occur with any dose 
 
 Monitoring of liver function tests may allow early detection of hepatotoxicity.
 This is usually reversible if 6-mercaptopurine therapy is stopped soon enough but fatal liver damage has occurred.
-
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.

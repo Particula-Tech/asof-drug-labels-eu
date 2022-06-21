@@ -88,4 +88,5 @@ Xaluprine should be taken at least 1 hour before or 2 hours after milk or dairy 
 6-mercaptopurine displays diurnal variation in pharmacokinetics and efficacy.
 Administration in the evening compared to morning administration may lower the risk of relapse.
 Therefore the daily dose of Xaluprine should be taken in the evening.
+
 To assist accurate and consistent dose delivery to the stomach water should be taken after each dose of Xaluprine.
