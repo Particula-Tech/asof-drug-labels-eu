@@ -3,7 +3,6 @@
 Pharmacotherapeutic group: Other nervous system drugs, ATC code: N07XX04.
 
 Mechanism of action
-
 Sodium oxybate is a central nervous system depressant which reduces excessive daytime sleepiness and cataplexy in patients with narcolepsy and modifies sleep architecture reducing fragmented nighttime sleep.
 The precise mechanism by which sodium oxybate produces an effect is unknown, however sodium oxybate is thought to act by promoting slow (delta) wave sleep and consolidating night-time sleep.
 Sodium oxybate administered before nocturnal sleep increases Stages 3 and 4 sleep and increases sleep latency, whilst reducing the frequency of sleep onset REM periods (SOREMPs).

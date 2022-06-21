@@ -96,7 +96,7 @@ In the paediatric population the efficacy and safety of sodium oxybate for the t
 
 In a study in children and adolescents the most frequently reported related TEAEs were enuresis (18.3%), nausea (12.5%), vomiting (8.7%), and weight decreased (8.7%), decreased appetite (6.7%), headache (5.8%), dizziness (5.8%).
 Adverse drug reactions of suicidal ideation (1%) and of acute psychosis (1%) were also reported.
-(see section 4.4 and section 6).
+(see section 4.4 and section 5).
 
 In some children between 7 and < 18 years, postmarketing surveillance has shown that sodium oxybate was discontinued due to abnormal behaviour, aggression and mood alteration.
 

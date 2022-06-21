@@ -61,6 +61,7 @@ If sodium oxybate and valproate are used concomitantly (see section 4.5), a decr
 
 The safety and efficacy of sodium oxybate in children below 7 years of age has not been established and therefore sodium oxybate is not recommended below 7 years of age.
 Children below 15kg should not receive sodium oxybate.
+
 Method of administration
 Xyrem should be taken orally upon getting into bed and again between 2.5 to 4 hours later.
 It is recommended that both doses of Xyrem should be made up at the same time upon retiring to bed.

@@ -87,7 +87,10 @@ Alcohol and CNS depressants
 Given the risk of alcohol intake among adolescents, it is noted that alcohol may further increase the CNS and respiratory depressant effects of sodium oxybate in children – adolescents taking sodium oxybate (see section 4.5).
 
 Sodium intake
-Patients taking sodium oxybate will have an additional daily intake of 0.18g of sodium per 1 gram of sodium oxybate dose.
+This medicinal product contains 182.24 mg sodium per 1 g of sodium oxybate dose, equivalent to 9.11% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
+The maximum daily dose of this product is equivalent to 82% of the WHO recommended maximum daily intake for sodium.
+Xyrem is considered high in sodium.
+This should be particularly taken into account for those on a low salt diet.
 A recommendation to reduce sodium intake should be carefully considered in the management of patients with heart failure, hypertension or compromised renal function (see section 4.2 and 4.9)
 
 Elderly
