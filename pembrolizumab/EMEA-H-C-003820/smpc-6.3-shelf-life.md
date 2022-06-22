@@ -2,6 +2,7 @@
 
 Unopened vial
 2 years.
+
 After preparation of infusion
 From a microbiological point of view, the product, once diluted, should be used immediately.
 The diluted solution must not be frozen.

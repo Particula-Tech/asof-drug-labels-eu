@@ -11,7 +11,7 @@ If specified in the indication, patient selection for treatment with KEYTRUDA ba
 Posology
 The recommended dose of KEYTRUDA in adults is either 200 mg every 3 weeks or 400 mg every 6 weeks administered as an intravenous infusion over 30 minutes.
 
-The recommended dose of KEYTRUDA as monotherapy in paediatric patients aged 3 years and older with cHL is 2 mg/kg bodyweight (bw) (up to a maximum of 200 mg), every 3 weeks administered as an intravenous infusion over 30 minutes.
+The recommended dose of KEYTRUDA as monotherapy in paediatric patients aged 3 years and older with cHL or patients aged 12 years and older with melanoma is 2 mg/kg bodyweight (bw) (up to a maximum of 200 mg), every 3 weeks administered as an intravenous infusion over 30 minutes.
 
 For use in combination, see the Summary of Product Characteristics (SmPC) for the concomitant therapies.
 
@@ -23,6 +23,7 @@ For the adjuvant treatment of melanoma or RCC, KEYTRUDA should be administered u
 
 For the neoadjuvant and adjuvant treatment of TNBC, patients should be treated with neoadjuvant KEYTRUDA in combination with chemotherapy for 8 doses of 200 mg every 3 weeks or 4 doses of 400 mg every 6 weeks or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as monotherapy for 9 doses of 200 mg every 3 weeks or 5 doses of 400 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
 Patients who experience disease progression that precludes definitive surgery or unacceptable toxicity related to KEYTRUDA as neoadjuvant treatment in combination with chemotherapy should not receive KEYTRUDA monotherapy as adjuvant treatment.
+
 Dose delay or discontinuation (see also section 4.4)
 No dose reductions of KEYTRUDA are recommended.
 KEYTRUDA should be withheld or discontinued to manage adverse reactions as described in Table 1.
@@ -81,7 +82,6 @@ Lenvatinib should be withheld, dose reduced, or discontinued in accordance with 
 No dose reductions are recommended for KEYTRUDA.
 
 Patients treated with KEYTRUDA must be given the patient alert card and be informed about the risks of KEYTRUDA (see also package leaflet).
-
 Special populations
 Elderly
 No dose adjustment is necessary in patients ≥ 65 years (see sections 4.4 and 5.1).
@@ -89,12 +89,13 @@ No dose adjustment is necessary in patients ≥ 65 years (see sections 4.4 and 5
 Renal impairment
 No dose adjustment is needed for patients with mild or moderate renal impairment.
 KEYTRUDA has not been studied in patients with severe renal impairment (see sections 4.4 and 5.2).
+
 Hepatic impairment
 No dose adjustment is needed for patients with mild hepatic impairment.
 KEYTRUDA has not been studied in patients with moderate or severe hepatic impairment (see sections 4.4 and 5.2).
 
 Paediatric population
-The safety and efficacy of KEYTRUDA in children below 18 years of age have not been established except in paediatric patients with cHL.
+The safety and efficacy of KEYTRUDA in children below 18 years of age have not been established except in paediatric patients with melanoma or cHL.
 Currently available data are described in sections 4.8, 5.1 and 5.2.
 
 Method of administration
