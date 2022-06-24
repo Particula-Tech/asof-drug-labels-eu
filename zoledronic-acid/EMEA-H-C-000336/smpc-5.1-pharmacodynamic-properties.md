@@ -27,6 +27,7 @@ Efficacy results are provided in Table 2.
 In a second study including solid tumours other than breast or prostate cancer, zoledronic acid 4 mg significantly reduced the proportion of patients with an SRE, delayed the median time to first SRE by > 2 months, and reduced the skeletal morbidity rate.
 Multiple event analysis showed 30.7% risk reduction in developing SREs in the zoledronic acid 4 mg group compared with placebo.
 Efficacy results are provided in Table 3.
+
 Table 2 Efficacy results (prostate cancer patients receiving hormonal therapy)
 
 |  | Any SRE (+TIH) |  | Fractures* |  | Radiation therapy to bone |  |
@@ -45,7 +46,6 @@ Table 2 Efficacy results (prostate cancer patients receiving hormonal therapy)
 * Includes vertebral and non-vertebral fractures
 ** Accounts for all skeletal events, the total number as well as time to each event during the trial NR Not Reached
 NA Not Applicable
-
 Table 3 Efficacy results (solid tumours other than breast or prostate cancer)
 
 |  | Any SRE (+TIH) |  | Fractures* |  | Radiation therapy to bone |  |
@@ -64,11 +64,11 @@ Table 3 Efficacy results (solid tumours other than breast or prostate cancer)
 * Includes vertebral and non-vertebral fractures
 ** Accounts for all skeletal events, the total number as well as time to each event during the trial NR Not Reached
 NA Not Applicable
+
 In a third phase III randomised, double-blind trial, zoledronic acid 4 mg or 90 mg pamidronate every 3 to 4 weeks were compared in patients with multiple myeloma or breast cancer with at least one bone lesion.
 The results demonstrated that zoledronic acid 4 mg showed comparable efficacy to 90 mg pamidronate in the prevention of SREs.
 The multiple event analysis revealed a significant risk reduction of 16% in patients treated with zoledronic acid 4 mg in comparison with patients receiving pamidronate.
 Efficacy results are provided in Table 4.
-
 Table 4 Efficacy results (breast cancer and multiple myeloma patients)
 
 |  | Any SRE (+TIH) |  | Fractures* |  | Radiation therapy to bone |  |
@@ -96,9 +96,9 @@ The SRE rate (events/person year) was 0.628 for zoledronic acid and 1.096 for pl
 The proportion of patients with at least one SRE (excluding hypercalcaemia) was 29.8% in the zoledronic acid-treated group versus 49.6% in the placebo group (p=0.003).
 Median time to onset of the first SRE was not reached in the zoledronic acid-treated arm at the end of the study and was significantly prolonged compared to placebo (p=0.007).
 Zoledronic acid 4 mg reduced the risk of SREs by 41% in a multiple event analysis (risk ratio=0.59, p=0.019) compared with placebo.
+
 In the zoledronic acid-treated group, statistically significant improvement in pain scores (using the Brief Pain Inventory, BPI) was seen at 4 weeks and at every subsequent time point during the study, when compared to placebo (Figure 1).
 The pain score for zoledronic acid was consistently below baseline and pain reduction was accompanied by a trend in reduced analgesics score.
-
 Figure 1 Mean changes from baseline in BPI scores.
 Statistically significant differences are marked (*p<0.05) for between treatment comparisons (4 mg zoledronic acid vs. placebo)
 
@@ -123,10 +123,10 @@ Clinical trial results in the treatment of TIH
 
 Clinical studies in tumour-induced hypercalcaemia (TIH) demonstrated that the effect of zoledronic acid is characterised by decreases in serum calcium and urinary calcium excretion.
 In Phase I dose finding studies in patients with mild to moderate tumour-induced hypercalcaemia (TIH), effective doses tested were in the range of approximately 1.2–2.5 mg.
+
 To assess the effects of 4 mg zoledronic acid versus pamidronate 90 mg, the results of two pivotal multicentre studies in patients with TIH were combined in a pre-planned analysis.
 There was faster normalisation of corrected serum calcium at day 4 for 8 mg zoledronic acid and at day 7 for 4 mg and 8 mg zoledronic acid.
 The following response rates were observed:
-
 Table 5 Proportion of complete responders by day in the combined TIH studies
 
 |  | Day 4 | Day 7 | Day 10 |
@@ -159,10 +159,10 @@ Estimated treatment effects on BMD were similar, but the trial design was not su
 In particular there was no clear evidence of efficacy on incidence of fracture or on pain.
 Fracture adverse events of long bones in the lower extremities were reported in approximately 24% (femur) and 14% (tibia) of zoledronic acid-treated patients vs 12% and 5% of pamidronate-treated patients with severe osteogenesis imperfecta, regardless of disease type and causality but overall incidence of fractures was comparable for the zoledronic acid and pamidronate-treated patients: 43% (32/74) vs 41% (31/76).
 Interpretation of the risk of fracture is confounded by the fact that fractures are common events in patients with severe osteogenesis imperfecta as part of the disease process.
+
 The type of adverse reactions observed in this population were similar to those previously seen in adults with advanced malignancies involving the bone (see section 4.8).
 The adverse reactions ranked under headings of frequency, are presented in Table 6.
 The following conventional classification is used: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
-
 Table 6 Adverse reactions observed in paediatric patients with severe osteogenesis imperfecta1
 
 Nervous system disorders
@@ -227,7 +227,6 @@ Table 3 Efficacy results (prostate cancer patients receiving hormonal therapy)
 Table 4 Efficacy results (solid tumours other than breast or prostate cancer)
 
 Efficacy results are provided in Table 5.
-
 Table 5 Efficacy results (breast cancer and multiple myeloma patients)
 
 Table 6 Proportion of complete responders by day in the combined TIH studies

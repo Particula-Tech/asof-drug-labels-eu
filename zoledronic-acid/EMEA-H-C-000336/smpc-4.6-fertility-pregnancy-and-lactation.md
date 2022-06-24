@@ -12,6 +12,7 @@ Breast-feeding
 
 It is not known whether zoledronic acid is excreted into human milk.
 Zometa is contraindicated in breast-feeding women (see section 4.3).
+
 Fertility
 
 Zoledronic acid was evaluated in rats for potential adverse effects on fertility of the parental and F1 generation.

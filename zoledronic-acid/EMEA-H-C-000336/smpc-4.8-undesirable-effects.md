@@ -7,7 +7,6 @@ Within three days after Zometa administration, an acute phase reaction has commo
 The following are the important identified risks with Zometa in the approved indications:
 Renal function impairment, osteonecrosis of the jaw, acute phase reaction, hypocalcaemia, atrial fibrillation, anaphylaxis, interstitial lung disease.
 The frequencies for each of these identified risks are shown in Table 1.
-
 Tabulated list of adverse reactions
 
 The following adverse reactions, listed in Table 1, have been accumulated from clinical studies and post-marketing reports following predominantly chronic treatment with 4 mg zoledronic acid:

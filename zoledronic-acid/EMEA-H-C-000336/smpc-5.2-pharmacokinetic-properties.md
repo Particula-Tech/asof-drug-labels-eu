@@ -3,6 +3,7 @@
 Single and multiple 5- and 15-minute infusions of 2, 4, 8 and 16 mg zoledronic acid in 64 patients with bone metastases yielded the following pharmacokinetic data, which were found to be dose independent.
 
 After initiating the infusion of zoledronic acid, the plasma concentrations of zoledronic acid rapidly increased, achieving their peak at the end of the infusion period, followed by a rapid decline to < 10% of peak after 4 hours and < 1% of peak after 24 hours, with a subsequent prolonged period of very low concentrations not exceeding 0.1% of peak prior to the second infusion of zoledronic acid on day 28.
+
 Intravenously administered zoledronic acid is eliminated by a triphasic process: rapid biphasic disappearance from the systemic circulation, with half-lives of t½α 0.24 and t½β 1.87 hours, followed by a long elimination phase with a terminal elimination half-life of t½γ 146 hours.
 There was no accumulation of zoledronic acid in plasma after multiple doses given every 28 days.
 Zoledronic acid is not metabolised and is excreted unchanged via the kidney.

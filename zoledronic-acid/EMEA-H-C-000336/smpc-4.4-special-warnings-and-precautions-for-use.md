@@ -18,6 +18,7 @@ Renal insufficiency
 Patients with TIH and evidence of deterioration in renal function should be appropriately evaluated with consideration given as to whether the potential benefit of treatment with Zometa outweighs the possible risk.
 
 The decision to treat patients with bone metastases for the prevention of skeletal related events should consider that the onset of treatment effect is 2–3 months.
+
 Zometa has been associated with reports of renal dysfunction.
 Factors that may increase the potential for deterioration in renal function include dehydration, pre-existing renal impairment, multiple cycles of Zometa and other bisphosphonates as well as use of other nephrotoxic medicinal products.
 While the risk is reduced with a dose of 4 mg zoledronic acid administered over 15 minutes, deterioration in renal function may still occur.
@@ -87,6 +88,7 @@ Poor healing of these fractures has also been reported.
 Discontinuation of bisphosphonate therapy in patients suspected to have an atypical femur fracture should be considered pending evaluation of the patient, based on an individual benefit risk assessment.
 
 During bisphosphonate treatment patients should be advised to report any thigh, hip or groin pain and any patient presenting with such symptoms should be evaluated for an incomplete femur fracture.
+
 Hypocalcaemia
 
 Hypocalcaemia has been reported in patients treated with Zometa.

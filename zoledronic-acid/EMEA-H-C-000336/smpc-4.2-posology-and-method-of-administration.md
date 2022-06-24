@@ -16,6 +16,7 @@ The decision to treat patients with bone metastases for the prevention of skelet
 Treatment of TIH
 Adults and older people
 The recommended dose in hypercalcaemia (albumin-corrected serum calcium ≥ 12.0 mg/dl or 3.0 mmol/l) is a single dose of 4 mg zoledronic acid.
+
 Renal impairment
 TIH:
 Zometa treatment in TIH patients who also have severe renal impairment should be considered only after evaluating the risks and benefits of treatment.
@@ -59,6 +60,7 @@ Intravenous use.
 Zometa 4 mg powder and solvent for solution for infusion, reconstituted and further diluted in 100 ml (see section 6.6), should be given as a single intravenous infusion in no less than 15 minutes.
 
 In patients with mild to moderate renal impairment, reduced Zometa doses are recommended (see section “Posology” above and section 4.4).
+
 Instructions for preparing reduced doses of Zometa
 
 Withdraw an appropriate volume of the reconstituted solution (4 mg/5 ml) as needed:
