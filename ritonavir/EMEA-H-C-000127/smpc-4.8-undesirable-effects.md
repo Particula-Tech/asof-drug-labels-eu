@@ -16,8 +16,7 @@ The most frequently reported adverse drug reactions among patients receiving rit
 Tabulated list of adverse reactions
 
 The following adverse reactions of moderate to severe intensity with possible or probable relationship to ritonavir have been reported.
-Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness: very common (> 1/10); common (> 1/100 to < 1/10); uncommon
-(> 1/1000 to < 1/100); rare (> 1/10,000 to < 1/1,000): not known (cannot be estimated from the available data).
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1000 to < 1/100); rare (≥1/10,000 to < 1/1,000); not known (cannot be estimated from the available data).
 
 Events noted as having a frequency not known were identified via post-marketing surveillance
 
@@ -26,9 +25,10 @@ Events noted as having a frequency not known were identified via post-marketing 
 | System Order Class | Frequency | Adverse reaction |
 | Blood and lymphatic system disorders | Common | Decreased white blood cells, decreased haemoglobin, decreased neutrophils, increased eosinophils, thrombocytopenia |
 |  | Uncommon | Increased neutrophils |
-| Immune system disorders | Common Rare | Hypersensitivity, including urticaria and face oedema. Anaphylaxis |
-| Metabolism and nutrition disorders | Common | Hypercholesterolaemia, hypertriglyceridaemia, gout, oedema and peripheral oedema, dehydration (usually associated with gastrointestinal symptoms) |
-| System Order Class | Frequency Uncommon Rare | Adverse reaction Diabetes mellitus Hyperglycaemia |
+| Immune system disorders | Common | Hypersensitivity, including urticaria and face oedema. |
+|  | Rare | Anaphylaxis |
+| Metabolism and nutrition disorders | Common Uncommon | Hypercholesterolaemia, hypertriglyceridaemia, gout, oedema and peripheral oedema, dehydration (usually associated with gastrointestinal symptoms) Diabetes mellitus |
+|  | Rare | Hyperglycaemia |
 | Nervous system disorders | Very common | Dysgeusia, oral and peripheral paraesthesia, headache, dizziness, peripheral neuropathy |
 |  | Common | Insomnia, anxiety, confusion, disturbance in attention, syncope, seizure |
 | Eye disorders | Common | Blurred vision |
@@ -36,15 +36,19 @@ Events noted as having a frequency not known were identified via post-marketing 
 | Vascular disorders | Common | Hypertension, hypotension including orthostatic hypotension, peripheral coldness |
 | Respiratory, thoracic and mediastinal disorders | Very common | Pharyngitis, oropharyngeal pain, cough |
 | Gastrointestinal disorders | Very common | Abdominal pain (upper and lower), nausea, diarrhoea (including severe with electrolyte imbalance), vomiting, dyspepsia |
-|  | Common | Anorexia, , flatulence, mouth ulcer, gastrointestinal haemorrhage, gastroesophageal reflux disease, pancreatitis |
+|  | Common | Anorexia, flatulence, mouth ulcer, gastrointestinal haemorrhage, gastroesophageal reflux disease, pancreatitis |
 | Hepatobiliary disorders | Common | Hepatitis (including increased AST, ALT, GGT), blood bilirubin increased (including jaundice) |
-| Skin and subcutaneous tissue disorders | Very common Common Rare | Pruritus, rash (including erythematous and maculopapular) Acne Stevens Johnson syndrome, toxic epidermal necrolysis (TEN) |
+| Skin and subcutaneous tissue disorders | Very common | Pruritus, rash (including erythematous and maculopapular) |
+| System Order Class | Frequency Common | Adverse reaction Acne |
+|  | Rare | Stevens Johnson syndrome, toxic epidermal necrolysis (TEN) |
 | Musculosketal and connective tissue disorders | Very common | Arthralgia and back pain |
 |  | Common | Myositis, rhabdomyolysis, myalgia, myopathy/CPK increased |
-| Renal and urinary disorders | Common Uncommon | Increased urination, renal impairment (e.g. oliguria, elevated creatinine) Acute renal failure |
+| Renal and urinary disorders | Common | Increased urination, renal impairment (e.g. oliguria, elevated creatinine) |
+|  | Uncommon | Acute renal failure |
+|  | Not known | Nephrolithiasis |
 | Reproductive system and breast disorders | Common | Menorrhagia |
 | General disorders and administration site conditions | Very common | Fatigue including asthenia, flushing, feeling hot |
-| System Order Class | Frequency Common | Adverse reaction Fever, weight loss |
+|  | Common | Fever, weight loss |
 | Investigations | Common | Increased amylase, decreased free and total thyroxine |
 |  | Uncommon | Increased glucose, increased magnesium, increased alkaline phosphatase |
 
@@ -64,7 +68,6 @@ Patients with advanced HIV disease may be at risk of elevated triglycerides and 
 
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).
 The frequency of this is unknown (see section 4.4).
-
 Paediatric populations
 
 The safety profile of Norvir in children 2 years of age and older is similar to that seen in adults.
@@ -78,8 +81,6 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 The most frequently reported adverse drug reactions among patients receiving ritonavir alone or in combination with other antiretroviral drugs were gastrointestinal (including diarrhea, nausea, vomiting, abdominal pain (upper and lower)), neurological disturbances (including paresthesia and oral paresthesia) and fatigue/asthenia.
 
-(> 1/1000 to < 1/100); rare (> 1/10,000 to < 1/1,000); not known (cannot be estimated from the available data).
-
 Events noted as having frequency not known were identified via post-marketing surveillance.
 
 | Adverse reactions in clinical studies and post-marketing in adult patients |  |  |
@@ -87,7 +88,8 @@ Events noted as having frequency not known were identified via post-marketing su
 | System Order Class | Frequency | Adverse reaction |
 | Blood and lymphatic system disorders | Common | Decreased white blood cells, decreased haemoglobin, decreased neutrophils, increased eosinophils, thrombocytopenia |
 |  | Uncommon | Increased neutrophils |
-| Immune system disorders | Common Rare | Hypersensitivity including urticaria, and face oedema Anaphylaxis |
+| Immune system disorders | Common | Hypersensitivity including urticaria, and face oedema |
+|  | Rare | Anaphylaxis |
 | Metabolism and nutrition disorders | Common Uncommon | Hypercholesterolaemia, hypertriglyceridaemia, gout, oedema and peripheral oedema, dehydration (usually associated with gastrointestinal symptoms) Diabetes mellitus |
 |  | Rare | Hyperglycaemia |
 | Nervous system disorders | Very common | Dysgeusia, oral and peripheral paraesthesia, headache, dizziness, peripheral neuropathy |
@@ -99,11 +101,14 @@ Events noted as having frequency not known were identified via post-marketing su
 | Gastrointestinal disorders | Very common | Abdominal pain (upper and lower), nausea, diarrhoea (including severe with electrolyte imbalance), vomiting, dyspepsia |
 |  | Common | Anorexia, flatulence, mouth ulcer, gastrointestinal haemorrhage, gastroesophageal reflux disease, pancreatitis |
 | Hepatobiliary disorders | Common | Hepatitis (including increased AST, ALT, GGT), blood bilirubin increased (including jaundice) |
-| Skin and subcutaneous tissue disorders | Very common Common | Pruritus, rash (including erythematous and maculopapular) Acne |
+| Skin and subcutaneous tissue disorders | Very common | Pruritus, rash (including erythematous and maculopapular) |
+|  | Common | Acne |
 |  | Rare | Stevens Johnson syndrome, toxic epidermal necrolysis (TEN) |
 | Musculosketal and connective tissue disorders | Very common | Arthralgia and back pain |
 |  | Common | Myositis, rhabdomyolysis, myalgia, myopathy/CPK increased |
-| Renal and urinary disorders | Common Uncommon | Increased urination, renal impairment (e.g. oliguria, elevated creatinine) Acute renal failure |
+| Renal and urinary disorders | Common | Increased urination, renal impairment (e.g. oliguria, elevated creatinine) |
+|  | Uncommon | Acute renal failure |
+|  | Not known | Nephrolithiasis |
 | Reproductive system and breast disorders | Common | Menorrhagia |
 | General disorders and administration site conditions | Very common | Fatigue including asthenia, flushing, feeling hot |
 |  | Common | Fever, weight loss |

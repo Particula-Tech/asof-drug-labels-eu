@@ -5,7 +5,6 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 When ritonavir is used as a pharmacokinetic enhancer of other PIs, consult the Summary of Product Characteristics of the co-administered protease inhibitor for contraindications.
 
 Ritonavir should not be given as a pharmacokinetic enhancer or as an antiretroviral agent to patients with decompensated liver disease.
-
 In vitro and in vivo studies have demonstrated that ritonavir is a potent inhibitor of CYP3A- and CYP2D6- mediated biotransformations.
 The following medicines are contraindicated when used with ritonavir and unless otherwise noted, the contraindication is based on the potential for ritonavir to inhibit metabolism of the co-administered medicinal product, resulting in increased exposure to the co-administered medicinal product and risk of clinically significant adverse effects.
 
@@ -23,10 +22,10 @@ Antagonist which may lead to severe hypotension (see
 
 section 4.5).
 
-Analgesics Pethidine, piroxicam, Increased plasma concentrations of norpethidine,
-propoxyphne piroxicam and propoxyphene. Thereby,
+Analgesics Pethidine, piroxicam, Increased plasma concentrations of
+propoxyphne norpethidine, piroxicam and propoxyphene.
 
-increasing the risk of serious respiratory depression or haematologic abnormalities, or other serious adverse effects from these agents.
+Thereby, increasing the risk of serious respiratory depression or haematologic abnormalities, or other serious adverse effects from these agents.
 
 Antianginal Ranolazine Increased plasma concentrations of ranolazine
 
@@ -44,24 +43,24 @@ Antiarrhythmics Amiodarone, bepridil, Increased plasma concentrations of amiodar
 dronedarone, bepridil, dronedarone, encainide, flecanide,
 
 encainide, flecanide, propafenone, quinidine.
-Thereby, increasing the propafenone, quinidine risk of arrhythmias or other serious adverse reactions from these agents.
+Thereby, increasing propafenone, quinidine the risk of arrhythmias or other serious adverse reactions from these agents.
 
 Antibiotic Fusidic Acid Increased plasma concentrations of fusidic acid
 
 and ritonavir.
 
-Antifungal Voriconazole Concomitant use of ritonavir (400 mg twice daily
+Antifungal Voriconazole Concomitant use of ritonavir (400 mg twice
 
-and more) and voriconazole is contraindicated due to a reduction in voriconazole plasma concentrations and possible loss of effect (see section 4.5).
+daily and more) and voriconazole is contraindicated due to a reduction in voriconazole plasma concentrations and possible loss of effect (see section 4.5).
 
 Anti-gout Colchicine Potential for serious and/or life-threatening
 
 reactions in patients with renal and/or hepatic impairment (see sections 4.4 and 4.5).
 
-Antihistamines Astemizole, terfenadine Increased plasma concentrations of astemizole
+Antihistamines Astemizole, Increased plasma concentrations of astemizole
+terfenadine and terfenadine. Thereby, increasing the risk of
 
-and terfenadine.
-Thereby, increasing the risk of serious arrhythmias from these agents.
+serious arrhythmias from these agents.
 
 Antimycobacterial Rifabutin Concomitant use of ritonavir (500 mg twice
 
@@ -91,9 +90,9 @@ GI motility agent Cisapride Increased plasma concentrations of cisapride.
 Thereby, increasing the risk of serious arrhythmias from this agent.
 Lipid-modifying agents
 
-HMG Co-A Reductase Lovastatin, simvastatin Increased plasma concentrations of lovastatin and
+HMG Co-A Reductase Lovastatin, simvastatin Increased plasma concentrations of lovastatin
 
-Inhibitors simvastatin; thereby, increasing the risk of
+Inhibitors and simvastatin; thereby, increasing the risk of
 
 myopathy including rhabdomyolysis (see section 4.5).
 
@@ -102,9 +101,9 @@ triglyceride transfer (see section 4.5).
 
 protein (MTTP) inhibitor
 
-PDE5 inhibitors Avanafil Increased plasma concentrations of avanafil (see
+PDE5 inhibitors Avanafil Increased plasma concentrations of avanafil
 
-section 4.4. and 4.5).
+(see section 4.4. and 4.5).
 
 Sildenafil Contraindicated when used for the treatment of
 
@@ -116,14 +115,13 @@ See section 4.4 and section 4.5 for co-administration of sildenafil in patients 
 Vardenafil Increased plasma concentrations of vardenafil
 
 (see section 4.4. and 4.5).
-Sedatives/hypnotics Clorazepate, diazepam, Increased plasma concentrations of clorazepate, estazolam, flurazepam, diazepam, estazolam, flurazepam, oral midazolam oral midazolam and and triazolam.
-Thereby, increasing the risk of
+Sedatives/hypnotics Clorazepate, diazepam, Increased plasma concentrations of clorazepate, estazolam, flurazepam, diazepam, estazolam, flurazepam, oral oral midazolam and midazolam and triazolam.
+Thereby, increasing
 
-triazolam extreme sedation and respiratory depression from
+triazolam the risk of extreme sedation and respiratory
 
-these agents.
+depression from these agents.
 (For caution on parenterally administered midazolam, see section 4.5).
-
 Ritonavir medicinal product level decreased
 
 Herbal Preparation St. John’s wort Herbal preparations containing St John’s wort
@@ -135,10 +133,10 @@ Herbal Preparation St. John’s wort Herbal preparations containing St John’s 
 dronedarone, bepridil, dronedarone, encainide, flecainide,
 
 encainide, flecainide, propafenone, quinidine.
-Thereby, increasing the propafenone, quinidine risk of arrhythmias or other serious adverse effects from these agents.
+Thereby, increasing propafenone, quinidine the risk of arrhythmias or other serious adverse effects from these agents.
 
 daily) dosed as an antiretroviral agent and rifabutin due to an increase of rifabutin serum concentrations and risk of adverse reactions including uveitis (see section 4.4).
 
-PDE5 inhibitor Avanafil Increased plasma concentrations of avanafil (see
+PDE5 inhibitor Avanafil Increased plasma concentrations of avanafil
 
 (For caution on parenterally administered midazolam, see section 4.5.).

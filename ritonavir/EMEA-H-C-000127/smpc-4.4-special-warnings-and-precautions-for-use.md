@@ -33,7 +33,6 @@ Lipid disorders should be managed as clinically appropriate.
 Pancreatitis
 Pancreatitis should be considered if clinical symptoms (nausea, vomiting, abdominal pain) or abnormalities in laboratory values (such as increased serum lipase or amylase values) suggestive of pancreatitis should occur.
 Patients who exhibit these signs or symptoms should be evaluated and Norvir therapy should be discontinued if a diagnosis of pancreatitis is made (see section 4.8).
-
 Immune Reconstitution Inflammatory Syndrome
 In HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymtomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
@@ -65,9 +64,10 @@ Patients should be advised to seek medical advice if they experience joint aches
 
 PR interval prolongation
 Ritonavir has been shown to cause modest asymptomatic prolongation of the PR interval in some healthy adult subjects.
-Rare reports of 2nd or 3rd degree atrioventricular block in patients with underlying structural heart disease and pre-existing conduction system abnormalities or in patients receiving medicinal products known to prolong the PR interval (such as verapamil or atazanavir) have been reported in patients receiving ritonavir.
-Norvir should be used with caution in such patients (see section 5.1).
+Rare reports of 2nd or 3rd degree atrioventricular block in patients with
 
+underlying structural heart disease and pre-existing conduction system abnormalities or in patients receiving medicinal products known to prolong the PR interval (such as verapamil or atazanavir) have been reported in patients receiving ritonavir.
+Norvir should be used with caution in such patients (see section 5.1).
 Interactions with other medicinal products
 
 Ritonavir dosed as an antiretroviral agent
@@ -102,9 +102,9 @@ In patients who are already taking digoxin when ritonavir is introduced, the dig
 
 In patients who are already taking ritonavir when digoxin is introduced, digoxin should be introduced more gradually than usual.
 Digoxin levels should be monitored more intensively than usual during this period, with dose adjustments made, as necessary, based on clinical, electrocardiographic and digoxin level findings.
+
 Ethinyl estradiol
 Barrier or other non-hormonal methods of contraception should be considered when administering ritonavir at therapeutic or low doses as ritonavir is likely to reduce the effect and change the uterine bleeding profile when co-administered with estradiol-containing contraceptives.
-
 Glucocorticoids
 Concomitant use of ritonavir and fluticasone or other glucocorticoids that are metabolised by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing’s syndrome and adrenal suppression (see section 4.5).
 
@@ -142,8 +142,8 @@ Saquinavir
 Doses of ritonavir higher than 100 mg twice daily should not be used.
 Higher doses of ritonavir have been shown to be associated with an increased incidence of adverse reactions.
 Co-administration of saquinavir and ritonavir has led to severe adverse reactions, mainly diabetic ketoacidosis and liver disorders, especially in patients with pre-existing liver disease.
-Saquinavir/ritonavir should not be given together with rifampicin, due to the risk of severe hepatotoxicity (presenting as increased hepatic transaminases) if the three medicines are given together (see section 4.5).
 
+Saquinavir/ritonavir should not be given together with rifampicin, due to the risk of severe hepatotoxicity (presenting as increased hepatic transaminases) if the three medicines are given together (see section 4.5).
 Tipranavir
 Co-administration of tipranavir with 200 mg of ritonavir has been associated with reports of clinical hepatitis and hepatic decompensation including some fatalities.
 Extra vigilance is warranted in patients with chronic hepatitis B or hepatitis C co-infection, as these patients have an increased risk of hepatotoxicity.

@@ -11,7 +11,7 @@ Administering with liquid
 The entire contents of each sachet should be suspended in 9.4 ml of liquid (water, chocolate milk, or infant formula) giving a final concentration of 10 mg per ml.
 The patient/caregiver is to be instructed to follow the directions below:
 
-- The oral dosing syringe and mixing cup should be dry prior to use.
+- The oral dosing syringe and mixing cup should be washed in warm water and dish soap, then rinsed and allowed to air dry prior to first use.
 - Draw up 9.4 ml of liquid using the provided oral dosing syringe, remove the bubbles, and transfer the liquid to the mixing cup.
   All measuring should be done in ml using the syringe.
 - Pour the entire contents of 1 sachet (100 mg) into the mixing cup.

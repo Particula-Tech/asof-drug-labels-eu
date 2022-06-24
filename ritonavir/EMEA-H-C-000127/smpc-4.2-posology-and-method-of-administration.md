@@ -22,7 +22,6 @@ Darunavir 600 mg twice daily with ritonavir 100 mg twice daily in antiretroviral
 Darunavir 800 mg once daily with ritonavir 100 mg once daily may be used in some ART experienced patients.
 Refer to the darunavir Summary of Product Characteristics for further information on once daily dosing in ART experienced patients.
 Darunavir 800 mg once daily with ritonavir 100 mg once daily in ART-naïve patients.
-
 Children and adolescents
 Ritonavir is recommended for children 2 years of age and older.
 For further dosage recommendations, refer to the product information of other protease inhibitors approved for co-administration with ritonavir.
@@ -54,6 +53,7 @@ Refer to Method of Administration section below and section 6.6 for details on p
 Children and adolescents (2 years of age and above)
 The recommended dosage of Norvir powder for suspension in children is 350 mg/m² by mouth twice daily and should not exceed 600 mg twice daily.
 Norvir should be started at 250 mg/m² and increased at 2 to 3 day intervals by 50 mg/m² twice daily.
+
 Paediatric dosage guidelines for Norvir powder for oral suspension (prepared as 100 mg/10 ml)*†
 
 Body Surface Twice Daily Dose Twice Daily Dose Twice Daily Dose
@@ -68,7 +68,6 @@ Area (m2) 250 mg/m2 300 mg/m2 350 mg/m2
 *When mixed with 9.4 ml of liquid the concentration of the suspension is 10 mg/ml.
 
 †In some instances, the volumes and/or doses have been adjusted to ensure the recommended final dose and dosing volume.
-
 Body surface area can be calculated with the following equation: BSA (m2) = √(Height (cm) X Weight (kg) / 3600)
 
 To calculate the volume to be administered (in ml) for intermediate body surface areas not included in the above table, the body surface area should be multiplied by a factor of: 25 for a dose of 250 mg/m²; 30 for 300 mg/m²; and 35 for 350 mg/m².
@@ -101,6 +100,7 @@ Any mixing outside the recommendations is the responsibility of the health care 
 
 Norvir powder for oral suspension should be taken with food.
 The bitter aftertaste of Norvir powder for oral suspension may be lessened if peanut butter, hazelnut chocolate spread, or black currant syrup are taken immediately after dose administration.
+
 The prescribed dose of Norvir powder for oral suspension can be administered via a feeding tube after being mixed with water as detailed in section 6.6.
 Follow the instructions for the feeding tube to administer the medicine.
 
