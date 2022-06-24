@@ -16,6 +16,7 @@ Benign thymomas were observed in female rats at 187 or 94 times the clinical exp
 Tofacitinib was shown to be teratogenic in rats and rabbits, and have effects in rats on female fertility (decreased pregnancy rate; decreases in the numbers of corpora lutea, implantation sites, and viable foetuses; and an increase in early resorptions), parturition, and peri/postnatal development.
 Tofacitinib had no effects on male fertility, sperm motility or sperm concentration.
 Tofacitinib was secreted in milk of lactating rats at concentrations approximately 2-fold those in serum from 1 to 8 hours postdose.
+In studies conducted in juvenile rats and monkeys, there were no tofacitinib-related effects on bone development in males or females, at exposures similar to those achieved at approved doses in humans.
 
 No tofacitinib-related findings were observed in juvenile animal studies that indicate a higher sensitivity of paediatric populations compared with adults.
 In the juvenile rat fertility study, there was no evidence of developmental toxicity, no effects on sexual maturation, and no evidence of reproductive toxicity (mating and fertility) was noted after sexual maturity.

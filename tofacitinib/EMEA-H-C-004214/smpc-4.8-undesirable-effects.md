@@ -244,10 +244,18 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [XELJANZ 11 mg prolonged-release tablets]
 
-The adverse reactions listed in the table below are from clinical studies in patients with RA, PsA, and UC and are presented by System Organ Class (SOC) and frequency categories, defined using the following convention: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000), or not known (cannot be estimated from the available data).
 Table 7: Adverse reactions
 
+In the combined Phase 2 and Phase 3 randomised controlled clinical trials, there were no VTE events in 420 patients (233 patient-years of observation) receiving tofacitinib up to 48 weeks.
+
 In controlled phase 3 clinical studies, the rates of infections over 0-3 months in the 5 mg film-coated tablets twice daily (total 616 patients) and 10 mg twice daily (total 642 patients) tofacitinib monotherapy groups were 16.2% (100 patients) and 17.9% (115 patients), respectively, compared to 18.9% (23 patients) in the placebo group (total 122 patients).
+
+In the combined Phase 2 and Phase 3 clinical trials, during the placebo-controlled period of up to 16 weeks, the frequency of infections in the tofacitinib 5 mg twice daily group (185 patients) was 27.6% and the frequency in the placebo group (187 patients) was 23.0%.
+In the combined Phase 2 and Phase 3 clinical trials, among the 316 patients treated with tofacitinib 5 mg twice daily for up to 48 weeks, the frequency of infections was 35.1%.
+
+In the combined Phase 2 and Phase 3 clinical trials, among the 316 patients treated with tofacitinib 5 mg twice daily for up to 48 weeks, there was one serious infection (aseptic meningitis) yielding a rate of 0.43 patients with events per 100 patient-years.
+
+Patients in the Phase 3 controlled clinical studies (RA, PsA, AS) were required to have a platelet count ≥ 100,000 cells/mm3 to be eligible for enrolment, therefore, there is no information available for patients with a platelet count < 100,000 cells/mm3 before starting treatment with tofacitinib.
 
 [XELJANZ 1 mg/mL oral solution]
 

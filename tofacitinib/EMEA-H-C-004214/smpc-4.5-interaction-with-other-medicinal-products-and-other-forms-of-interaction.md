@@ -73,8 +73,6 @@ Interaction studies have only been performed in adults.
 
 [XELJANZ 11 mg prolonged-release tablets]
 
-CYP3A & CYP2C19 Inhibitor Fluconazole AUC Tofacitinib dose should be reduced a
-
 a Tofacitinib dose should be reduced to 5 mg (as film-coated tablet) once daily in patients receiving 11 mg (as prolonged-release tablet) once daily (see section 4.2).
 
 [XELJANZ 1 mg/mL oral solution]

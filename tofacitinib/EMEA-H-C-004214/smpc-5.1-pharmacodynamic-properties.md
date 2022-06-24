@@ -760,18 +760,16 @@ The percentages of tofacitinib-treated patients achieving ACR20, ACR50 and ACR70
 
 Table 9: Proportion (%) of patients with an ACR response
 
-| ORAL Solo: DMARD inadequate responders |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Endpoint | Time | Placebo N=122 | Tofacitinib 5 mg twice daily monotherapy N=241 | Tofacitinib 10 mg twice daily monotherapy N=243 |
-| ACR20 | Month 3 | 26 | 60*** | 65*** |
-|  | Month 6 | NA | 69 | 71 |
-| ACR50 | Month 3 | 12 | 31*** | 37*** |
-|  | Month 6 | NA | 42 | 47 |
-| ACR70 | Month 3 | 6 | 15* | 20*** |
-|  | Month 6 | NA | 22 | 29 |
-
-| ORAL Sync: DMARD inadequate responders |  |  |  |  |  |
+| ORAL Solo: DMARD inadequate responders |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
+| Endpoint | Time | Placebo N=122 | Tofacitinib 5 mg twice daily monotherapy N=241 |  | Tofacitinib 10 mg twice daily monotherapy N=243 |
+| ACR20 | Month 3 | 26 | 60*** |  | 65*** |
+|  | Month 6 | NA | 69 |  | 71 |
+| ACR50 | Month 3 | 12 | 31*** |  | 37*** |
+|  | Month 6 | NA | 42 |  | 47 |
+| ACR70 | Month 3 | 6 | 15* |  | 20*** |
+|  | Month 6 | NA | 22 |  | 29 |
+| ORAL Sync: DMARD inadequate responders |  |  |  |  |  |
 | Endpoint | Time | Placebo + DMARD(s) N=158 | Tofacitinib 5 mg twice daily + DMARD(s) N=312 |  | Tofacitinib 10 mg twice daily + DMARD(s) N=315 |
 | ACR20 | Month 3 | 27 | 56*** |  | 63*** |
 |  | Month 6 | 31 | 53*** |  | 57*** |
@@ -794,29 +792,29 @@ Table 9: Proportion (%) of patients with an ACR response
 | ACR70 | Month 3 | 2 | 12** | 15*** | 9* |
 |  | Month 6 | 2 | 19*** | 21*** | 9* |
 |  | Month 12 | NA | 22 | 23 | 17 |
-| ORAL Scan: MTX inadequate responders |  |  |  |  |  |
-| Endpoint | Time | Placebo + MTX N=156 | Tofacitinib 5 mg twice daily + MTX N=316 |  | Tofacitinib 10 mg twice daily + MTX N=309 |
-| ACR20 | Month 3 | 27 | 55*** |  | 66*** |
-|  | Month 6 | 25 | 50*** |  | 62*** |
-|  | Month 12 | NA | 47 |  | 55 |
-|  | Month 24 | NA | 40 |  | 50 |
-| ACR50 | Month 3 | 8 | 28*** |  | 36*** |
-|  | Month 6 | 8 | 32*** |  | 44*** |
-|  | Month 12 | NA | 32 |  | 39 |
-|  | Month 24 | NA | 28 |  | 40 |
-| ACR70 | Month 3 | 3 | 10** |  | 17*** |
-|  | Month 6 | 1 | 14*** |  | 22*** |
-|  | Month 12 | NA | 18 |  | 27 |
-|  | Month 24 | NA | 17 |  | 26 |
-| ORAL Step: TNF inhibitor inadequate responders |  |  |  |  |  |
-| Endpoint | Time | Placebo + MTX N=132 | Tofacitinib 5 mg twice daily + MTX N=133 |  | Tofacitinib 10 mg twice daily + MTX N=134 |
-| ACR20 | Month 3 | 24 | 41* |  | 48*** |
-|  | Month 6 | NA | 51 |  | 54 |
-| ACR50 | Month 3 | 8 | 26*** |  | 28*** |
-|  | Month 6 | NA | 37 |  | 30 |
 
-| ACR70 | Month 3 | 2 | 14*** | 10* |
+| ORAL Scan: MTX inadequate responders |  |  |  |  |
 | --- | --- | --- | --- | --- |
+| Endpoint | Time | Placebo + MTX N=156 | Tofacitinib 5 mg twice daily + MTX N=316 | Tofacitinib 10 mg twice daily + MTX N=309 |
+| ACR20 | Month 3 | 27 | 55*** | 66*** |
+|  | Month 6 | 25 | 50*** | 62*** |
+|  | Month 12 | NA | 47 | 55 |
+|  | Month 24 | NA | 40 | 50 |
+| ACR50 | Month 3 | 8 | 28*** | 36*** |
+|  | Month 6 | 8 | 32*** | 44*** |
+|  | Month 12 | NA | 32 | 39 |
+|  | Month 24 | NA | 28 | 40 |
+| ACR70 | Month 3 | 3 | 10** | 17*** |
+|  | Month 6 | 1 | 14*** | 22*** |
+|  | Month 12 | NA | 18 | 27 |
+|  | Month 24 | NA | 17 | 26 |
+| ORAL Step: TNF inhibitor inadequate responders |  |  |  |  |
+| Endpoint | Time | Placebo + MTX N=132 | Tofacitinib 5 mg twice daily + MTX N=133 | Tofacitinib 10 mg twice daily + MTX N=134 |
+| ACR20 | Month 3 | 24 | 41* | 48*** |
+|  | Month 6 | NA | 51 | 54 |
+| ACR50 | Month 3 | 8 | 26*** | 28*** |
+|  | Month 6 | NA | 37 | 30 |
+| ACR70 | Month 3 | 2 | 14*** | 10* |
 |  | Month 6 | NA | 16 | 16 |
 | ORAL Start: MTX-naïve |  |  |  |  |
 | Endpoint | Time | MTX N=184 | Tofacitinib 5 mg twice daily monotherapy N=370 | Tofacitinib 10 mg twice daily monotherapy N=394 |
@@ -848,30 +846,11 @@ The proportion of patients achieving a DAS28 clinical remission (DAS28-4(ESR) < 
 
 Table 10: Number (%) of subjects achieving DAS28-4(ESR) < 2.6 remission at months 3 and 6
 
-|  | Time point | N | % |
-| --- | --- | --- | --- |
-| ORAL Step: TNF inhibitor inadequate responders |  |  |  |
-| Tofacitinib 5 mg twice daily + MTX | Month 3 | 133 | 6 |
-| Tofacitinib 10 mg twice daily + MTX | Month 3 | 134 | 8* |
-| Placebo + MTX | Month 3 | 132 | 2 |
-| ORAL Sync: DMARD inadequate responders |  |  |  |
-| Tofacitinib 5 mg twice daily | Month 6 | 312 | 8* |
-
-Tofacitinib 10 mg twice daily Month 6 315 11***
-
-| Placebo | Month 6 | 158 | 3 |
-| --- | --- | --- | --- |
-| ORAL Standard: MTX inadequate responders |  |  |  |
-| Tofacitinib 5 mg twice daily + MTX | Month 6 | 198 | 6* |
-| Tofacitinib 10 mg twice daily + MTX | Month 6 | 197 | 11*** |
-| Adalimumab 40 mg SC QOW + MTX | Month 6 | 199 | 6* |
-| Placebo + MTX | Month 6 | 105 | 1 |
-
 In the placebo plus MTX group, 78% of patients experienced no radiographic progression (mTSS change less than or equal to 0.5) at month 6 compared to 89% and 87% of patients treated with tofacitinib 5 mg or 10 mg (plus MTX) twice daily respectively, (both significant versus placebo plus MTX).
 
 In ORAL Start, tofacitinib monotherapy resulted in significantly greater inhibition of the progression of structural damage compared to MTX at months 6 and 12 as shown in Table 11, which was also maintained at month 24.
-
 In the MTX group, 70% of patients experienced no radiographic progression at month 6 compared to 83% and 90% of patients treated with tofacitinib 5 mg or 10 mg twice daily respectively, both significant versus MTX.
+
 Table 11: Radiographic changes at months 6 and 12
 
 Patients receiving tofacitinib 5 mg or 10 mg twice daily demonstrated significantly greater improvement from baseline in physical functioning compared to placebo at month 3 (studies ORAL Solo, ORAL Sync, ORAL Standard, and ORAL Step) and month 6 (studies ORAL Sync and ORAL Standard).
@@ -913,6 +892,52 @@ PASI.
 Patients receiving tofacitinib 5 mg twice daily demonstrated greater improvement (p≤ 0.05) from baseline in physical functioning compared to placebo at month 3 (see Table 16).
 
 Table 16: Change from baseline in HAQ-DI in PsA studies OPAL BROADEN and OPAL BEYOND
+
+Study AS-I was a randomised, double-blind, placebo-controlled, 48-week treatment clinical trial in 269 adult patients who had an inadequate response (inadequate clinical response or intolerance) to at least 2 NSAIDs.
+
+Patients treated with tofacitinib 5 mg twice daily achieved greater improvements in ASAS20 and ASAS40 responses compared to placebo at Week 16 (Table 17).
+
+Table 17: ASAS20 and ASAS40 Responses at Week 16, Study AS-I
+
+** p<0.0001.
+
+The efficacy of tofacitinib was demonstrated in bDMARD naïve and TNF-inadequate responders (IR)/bDMARD experienced (non-IR) patients (Table 18).
+
+Table 18: ASAS20 and ASAS40 Responses (%) by Treatment History at Week 16, Study AS-I
+
+| Prior Treatment History | Efficacy Endpoint |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | ASAS20 |  |  | ASAS40 |  |  |
+|  | Placebo N | Tofacitinib 5 mg Twice Daily N | Difference from Placebo (95% CI) | Placebo N | Tofacitinib 5 mg Twice Daily N | Difference from Placebo (95% CI) |
+| bDMARD-Naïve | 105 | 102 | 28 (15, 41) | 105 | 102 | 31 (19, 43) |
+| TNFi-IR or bDMARD Use (Non-IR) | 31 | 31 | 23 (1, 44) | 31 | 31 | 19 (2, 37) |
+
+The improvements in the components of the ASAS response and other measures of disease activity were higher in tofacitinib 5 mg twice daily compared to placebo at Week 16 as shown in Table 19.
+
+Table 19: ASAS Components and Other Measures of Disease Activity at Week 16, Study AS-I
+
+Placebo Tofacitinib 5 mg Twice Daily
+(N=136) (N=133)
+Baseline Week 16 Baseline Week 16 Difference
+(mean) (LSM (mean) (LSM from Placebo
+change from change from (95% CI)
+Baseline) Baseline)
+ASAS Components
+
+|  | Placebo (N=136) |  | Tofacitinib 5 mg Twice Daily (N=133) |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Baseline (mean) | Week 16 (LSM change from Baseline) | Baseline (mean) | Week 16 (LSM change from Baseline) | Difference from Placebo (95% CI) |
+| − Patient Global Assessment of Disease Activity (0-10)a,* | 7.0 | -0.9 | 6.9 | -2.5 | -1.6 (-2.07, -1.05)** |
+| − Total spinal pain (0-10)a,* | 6.9 | -1.0 | 6.9 | -2.6 | -1.6 (-2.10, -1.14)** |
+| − BASFI (0-10)b,* | 5.9 | -0.8 | 5.8 | -2.0 | -1.2 (-1.66, -0.80)** |
+| − Inflammation (0-10)c,* | 6.8 | -1.0 | 6.6 | -2.7 | -1.7 (-2.18, -1.25)** |
+| BASDAI Scored | 6.5 | -1.1 | 6.4 | -2.6 | -1.4 (-1.88, -1.00)** |
+| BASMIe,* | 4.4 | -0.1 | 4.5 | -0.6 | -0.5 (-0.67, -0.37)** |
+| hsCRPf,* (mg/dL) | 1.8 | -0.1 | 1.6 | -1.1 | -1.0 (-1.20, -0.72)** |
+| ASDAScrpg,* | 3.9 | -0.4 | 3.8 | -1.4 | -1.0 (-1.16, -0.79)** |
+
+Patients treated with tofacitinib 5 mg twice daily achieved greater improvements from baseline in Ankylosing Spondylitis Quality of Life (ASQoL) (-4.0 vs -2.0) and Functional Assessment of Chronic Illness Therapy - Fatigue (FACIT-F) Total score (6.5 vs 3.1) compared to placebo-treated patients at Week 16 (p<0.001).
+Patients treated with tofacitinib 5 mg twice daily achieved consistently greater improvements from baseline in the Short Form health survey version 2 (SF-36v2), Physical Component Summary (PCS) compared to placebo-treated patients at Week 16.
 
 The European Medicines Agency has deferred the obligation to submit results of studies with tofacitinib in one or more subsets of the paediatric population in juvenile idiopathic arthritis and in ulcerative colitis (see section 4.2 for information on paediatric use).
 

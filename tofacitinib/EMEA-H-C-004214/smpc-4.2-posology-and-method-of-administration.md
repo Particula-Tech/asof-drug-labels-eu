@@ -24,6 +24,7 @@ a See section 5.2 for comparison of pharmacokinetics of prolonged-release and fi
 Ankylosing spondylitis
 
 The recommended dose of tofacitinib is 5 mg administered twice daily.
+
 Ulcerative colitis
 
 Induction treatment
@@ -69,11 +70,11 @@ Patients < 40 kg cannot be switched from tofacitinib oral solution.
 Dose interruption and discontinuation in adults and paediatric patients
 
 Tofacitinib treatment should be interrupted if a patient develops a serious infection until the infection is controlled.
+
 Interruption of dosing may be needed for management of dose-related laboratory abnormalities including lymphopenia, neutropenia, and anaemia.
 As described in Tables 3, 4 and 5 below, recommendations for temporary dose interruption or permanent discontinuation of treatment are made according to the severity of laboratory abnormalities (see section 4.4).
 
 It is recommended not to initiate dosing in patients with an absolute lymphocyte count (ALC) less than 750 cells/mm3.
-
 Table 3: Low absolute lymphocyte count
 
 | Low absolute lymphocyte count (ALC) (see section 4.4) |  |
@@ -164,6 +165,8 @@ Tofacitinib is given orally with or without food.
 For patients who have difficulties swallowing, tofacitinib tablets may be crushed and taken with water.
 
 [XELJANZ 11 mg prolonged-release tablets]
+
+Rheumatoid arthritis, psoriatic arthritis, and ankylosing spondylitis
 
 The recommended dose is one 11 mg prolonged-release tablet administered once daily, which should not be exceeded.
 

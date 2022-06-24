@@ -35,7 +35,7 @@ The available data have also shown that there are no major differences in tofaci
 An approximate linear relationship between body weight and volume of distribution was observed, resulting in higher peak (Cmax) and lower trough (Cmin) concentrations in lighter patients.
 However, this difference is not considered to be clinically relevant.
 The between-subject variability (percentage coefficient of variation) in AUC of tofacitinib is estimated to be approximately 27%.
-Results from population PK analysis in patients with active PsA or moderate to severe UC were consistent with those in patients with RA.
+Results from population PK analysis in patients with active PsA, moderate to severe UC or AS were consistent with those in patients with RA.
 
 Renal impairment
 
@@ -74,7 +74,7 @@ Steady-state AUC and Cmax of tofacitinib for tofacitinib 11 mg prolonged-release
 
 Coadministration of tofacitinib 11 mg prolonged-release tablet with a high-fat meal resulted in no changes in AUC while Cmax was increased by 27%.
 
-Results from population PK analysis in patients with active PsA were consistent with those in patients with RA.
+Results from population PK analysis in patients with active PsA or AS were consistent with those in patients with RA.
 
 [XELJANZ 1 mg/mL oral solution]
 
