@@ -10,12 +10,11 @@ If use during pregnancy must be considered, the patient should be apprised of th
 Breast-feeding
 
 It is not known whether TMZ is excreted in human milk; thus, breast-feeding should be discontinued while receiving treatment with TMZ.
-
 Women of childbearing potential
 
-Women of childbearing potential should be advised to use effective contraception to avoid pregnancy while they are receiving TMZ.
+Women of childbearing potential have to use effective contraception to avoid pregnancy while they are receiving TMZ, and for at least 6 months following completion of treatment.
 
 Male fertility
 
 TMZ can have genotoxic effects.
-Therefore, men being treated with it should be advised not to father a child up to 6 months after receiving the last dose and to seek advice on cryoconservation of sperm prior to treatment, because of the possibility of irreversible infertility due to therapy with TMZ.
+Therefore, men being treated with it should use effective contraceptive measures and be advised not to father a child for at least 3 months after receiving the last dose and to seek advice on cryoconservation of sperm prior to treatment, because of the possibility of irreversible infertility due to therapy with TMZ.

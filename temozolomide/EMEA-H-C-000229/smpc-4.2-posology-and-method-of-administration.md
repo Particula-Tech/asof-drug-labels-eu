@@ -3,7 +3,6 @@
 Temodal should only be prescribed by physicians experienced in the oncological treatment of brain tumours.
 
 Anti-emetic therapy may be administered (see section 4.4).
-
 Posology
 
 Adult patients with newly-diagnosed glioblastoma multiforme
@@ -16,9 +15,9 @@ TMZ is administered orally at a dose of 75 mg/m2 daily for 42 days concomitant w
 No dose reductions are recommended, but delay or discontinuation of TMZ administration should be decided weekly according to haematological and non-haematological toxicity criteria.
 TMZ administration can be continued throughout the 42 day concomitant period (up to 49 days) if all of the following conditions are met:
 
-- absolute neutrophil count (ANC) ≥1.5 x 109/l
-- thrombocyte count ≥100 x 109/l
-- common toxicity criteria (CTC) non-haematological toxicity ≤Grade 1 (except for alopecia, nausea and vomiting).
+- absolute neutrophil count (ANC) ≥ 1.5 x 109/l
+- thrombocyte count ≥ 100 x 109/l
+- common toxicity criteria (CTC) non-haematological toxicity ≤ Grade 1 (except for alopecia, nausea and vomiting).
 
 During treatment a complete blood count should be obtained weekly.
 TMZ administration should be temporarily interrupted or permanently discontinued during the concomitant phase according to the haematological and non-haematological toxicity criteria as noted in Table 1.
@@ -26,17 +25,17 @@ TMZ administration should be temporarily interrupted or permanently discontinued
 | Table 1. TMZ dosing interruption or discontinuation during concomitant radiotherapy and TMZ |  |  |
 | --- | --- | --- |
 | Toxicity | TMZ interruptiona | TMZ discontinuation |
-| Absolute neutrophil count | ≥0.5 and < 1.5 x 109/l | < 0.5 x 109/l |
-| Thrombocyte count | ≥10 and < 100 x 109/l | < 10 x 109/l |
+| Absolute neutrophil count | ≥ 0.5 and < 1.5 x 109/l | < 0.5 x 109/l |
+| Thrombocyte count | ≥ 10 and < 100 x 109/l | < 10 x 109/l |
 | CTC non-haematological toxicity (except for alopecia, nausea, vomiting) | CTC Grade 2 | CTC Grade 3 or 4 |
 
-a: Treatment with concomitant TMZ can be continued when all of the following conditions are met: absolute neutrophil count ≥1.5 x 109/l; thrombocyte count ≥100 x 109/l; CTC non-haematological toxicity ≤Grade 1 (except for alopecia, nausea, vomiting).
+a: Treatment with concomitant TMZ can be continued when all of the following conditions are met: absolute neutrophil count ≥ 1.5 x 109/l; thrombocyte count ≥ 100 x 109/l; CTC non-haematological toxicity ≤ Grade 1 (except for alopecia, nausea, vomiting).
 
 Monotherapy phase
 
 Four weeks after completing the TMZ + RT concomitant phase, TMZ is administered for up to 6 cycles of monotherapy treatment.
 Dose in Cycle 1 (monotherapy) is 150 mg/m2 once daily for 5 days followed by 23 days without treatment.
-At the start of Cycle 2, the dose is escalated to 200 mg/m2 if the CTC non-haematological toxicity for Cycle 1 is Grade ≤2 (except for alopecia, nausea and vomiting), absolute neutrophil count (ANC) is ≥1.5 x 109/l, and the thrombocyte count is ≥100 x 109/l.
+At the start of Cycle 2, the dose is escalated to 200 mg/m2 if the CTC non-haematological toxicity for Cycle 1 is Grade ≤ 2 (except for alopecia, nausea and vomiting), absolute neutrophil count (ANC) is ≥ 1.5 x 109/l, and the thrombocyte count is ≥ 100 x 109/l.
 If the dose was not escalated at Cycle 2, escalation should not be done in subsequent cycles.
 Once escalated, the dose remains at 200 mg/m2 per day for the first 5 days of each subsequent cycle except if toxicity occurs.
 Dose reductions and discontinuations during the monotherapy phase should be applied according to Tables 2 and 3.
@@ -94,30 +93,9 @@ However, elderly patients (> 70 years of age) appear to be at increased risk of 
 Method of administration
 
 Temodal hard capsules should be administered in the fasting state.
-
 The capsules must be swallowed whole with a glass of water and must not be opened or chewed.
 
 If vomiting occurs after the dose is administered, a second dose should not be administered that day.
-
-[Temodal 20 mg hard capsules]
-
-(all sentences already above)
-
-[Temodal 100 mg hard capsules]
-
-(all sentences already above)
-
-[Temodal 140 mg hard capsules]
-
-(all sentences already above)
-
-[Temodal 180 mg hard capsules]
-
-(all sentences already above)
-
-[Temodal 250 mg hard capsules]
-
-(all sentences already above)
 
 [Temodal 2.5 mg/ml powder for solution for infusion]
 

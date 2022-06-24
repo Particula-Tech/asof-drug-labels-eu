@@ -14,26 +14,6 @@ This latency period is very short even for an alkylating agent.
 
 Results of the Ames/salmonella and Human Peripheral Blood Lymphocyte (HPBL) chromosome aberration tests showed a positive mutagenicity response.
 
-[Temodal 20 mg hard capsules]
-
-(all sentences already above)
-
-[Temodal 100 mg hard capsules]
-
-(all sentences already above)
-
-[Temodal 140 mg hard capsules]
-
-(all sentences already above)
-
-[Temodal 180 mg hard capsules]
-
-(all sentences already above)
-
-[Temodal 250 mg hard capsules]
-
-(all sentences already above)
-
 [Temodal 2.5 mg/ml powder for solution for infusion]
 
 The intravenous formulation produced local irritation at the site of injection in both rabbits and rats.

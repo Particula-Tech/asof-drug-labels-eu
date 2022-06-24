@@ -9,10 +9,12 @@ Most haematologic adverse reactions were reported commonly; the frequency of Gra
 
 For patients with recurrent or progressive glioma, nausea (43 %) and vomiting (36 %) were usually Grade 1 or 2 (0 – 5 episodes of vomiting in 24 hours) and were either self-limiting or readily controlled with standard anti-emetic therapy.
 The incidence of severe nausea and vomiting was 4 %.
+
 Tabulated list of adverse reactions
 Adverse reactions observed in clinical studies and reported from post-marketing use of TMZ are listed in Table 4.
 These reactions are classified according to System Organ Class and frequency.
-Frequency groupings are defined according to the following convention: Very common (≥1/10); Common (≥1/100 to < 1/10); Uncommon (≥1/1,000 to < 1/100); Rare (≥1/10,000 to <1/1,000); Very rare (<1/10,000); Not known (cannot be estimated from the available data).
+Frequency groupings are defined according to the following convention: Very common (≥ 1/10); Common
+(≥ 1/100 to < 1/10); Uncommon (≥ 1/1,000 to < 1/100); Rare (≥1/10,000 to <1/1,000); Very rare (<1/10,000); Not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 | Table 4. Adverse reactions in patients treated with temozolomide |  |
@@ -84,7 +86,8 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Injury, poisoning and procedural complications |  |
 | Common: | Radiation injuryk |
 
-a Includes pharyngitis, nasopharyngeal pharyngitis, pharyngitis Streptococcal b Includes gastroenteritis, gastroenteritis viral c Includes cushingoid, Cushing syndrome d Includes neuropathy, peripheral neuropathy, polyneuropathy, peripheral sensory neuropathy, peripheral motor neuropathy e Includes visual impairment, eye disorder f Includes deafness, deafness bilateral, deafness neurosensory, deafness unilateral g Includes earache, ear discomfort h Includes abdominal pain, abdominal pain lower, abdominal pain upper, abdominal discomfort i Includes oedema peripheral, peripheral swelling j Includes liver function test increased, alanine aminotransferase increased, aspartate aminotransferase increased, hepatic enzymes increased k Includes radiation injury, radiation skin injury
+Table 4.
+Adverse reactions in patients treated with temozolomide a Includes pharyngitis, nasopharyngeal pharyngitis, pharyngitis Streptococcal b Includes gastroenteritis, gastroenteritis viral c Includes cushingoid, Cushing syndrome d Includes neuropathy, peripheral neuropathy, polyneuropathy, peripheral sensory neuropathy, peripheral motor neuropathy e Includes visual impairment, eye disorder f Includes deafness, deafness bilateral, deafness neurosensory, deafness unilateral g Includes earache, ear discomfort h Includes abdominal pain, abdominal pain lower, abdominal pain upper, abdominal discomfort i Includes oedema peripheral, peripheral swelling j Includes liver function test increased, alanine aminotransferase increased, aspartate aminotransferase increased, hepatic enzymes increased k Includes radiation injury, radiation skin injury
 † Including cases with fatal outcome
 
 Newly-diagnosed glioblastoma multiforme
@@ -104,6 +107,7 @@ This led to hospitalisation and/or discontinuation of TMZ in 8 % and 4 %, respec
 Myelosuppression was predictable (usually within the first few cycles, with the nadir between Day 21 and Day 28), and recovery was rapid, usually within 1-2 weeks.
 No evidence of cumulative myelosuppression was observed.
 The presence of thrombocytopenia may increase the risk of bleeding, and the presence of neutropenia or leukopenia may increase the risk of infection.
+
 Gender
 
 In a population pharmacokinetics analysis of clinical trial experience there were 101 female and 169 male subjects for whom nadir neutrophil counts were available and 110 female and 174 male subjects for whom nadir platelet counts were available.
@@ -116,31 +120,10 @@ Paediatric population
 Oral TMZ has been studied in paediatric patients (age 3-18 years) with recurrent brainstem glioma or recurrent high grade astrocytoma, in a regimen administered daily for 5 days every 28 days.
 Although the data is limited, tolerance in children is expected to be the same as in adults.
 The safety of TMZ in children under the age of 3 years has not been established.
-
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-[Temodal 20 mg hard capsules]
-
-(all sentences already above)
-
-[Temodal 100 mg hard capsules]
-
-(all sentences already above)
-
-[Temodal 140 mg hard capsules]
-
-There were higher rates of Grade 4 neutropenia (ANC < 0.5 x 109/l), 12 % vs 5 %, and thrombocytopenia (< 20 x 109/l ), 9 % vs 3 %, in women vs men in the first cycle of therapy.
-
-[Temodal 180 mg hard capsules]
-
-(all sentences already above)
-
-[Temodal 250 mg hard capsules]
-
-(all sentences already above)
 
 [Temodal 2.5 mg/ml powder for solution for infusion]
 
@@ -214,6 +197,8 @@ Clinical trial experience with hard capsules
 | Uncommon: | Gamma-glutamyltransferase increased |
 | Injury, poisoning and procedural complications |  |
 | Common: | Radiation injuryk |
+
+a Includes pharyngitis, nasopharyngeal pharyngitis, pharyngitis Streptococcal b Includes gastroenteritis, gastroenteritis viral c Includes cushingoid, Cushing syndrome d Includes neuropathy, peripheral neuropathy, polyneuropathy, peripheral sensory neuropathy, peripheral motor neuropathy e Includes visual impairment, eye disorder f Includes deafness, deafness bilateral, deafness neurosensory, deafness unilateral g Includes earache, ear discomfort h Includes abdominal pain, abdominal pain lower, abdominal pain upper, abdominal discomfort i Includes oedema peripheral, peripheral swelling j Includes liver function test increased, alanine aminotransferase increased, aspartate aminotransferase increased, hepatic enzymes increased k Includes radiation injury, radiation skin injury
 
 Clinical trial experience with IV
 

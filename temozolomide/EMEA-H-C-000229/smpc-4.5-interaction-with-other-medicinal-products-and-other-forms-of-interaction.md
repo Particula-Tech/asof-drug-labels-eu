@@ -7,6 +7,7 @@ As it cannot be excluded that the change in Cmax is clinically significant, Temo
 
 Based on an analysis of population pharmacokinetics in phase II trials, co-administration of dexamethasone, prochlorperazine, phenytoin, carbamazepine, ondansetron, H2 receptor antagonists, or phenobarbital did not alter the clearance of TMZ.
 Co-administration with valproic acid was associated with a small but statistically significant decrease in clearance of TMZ.
+
 No studies have been conducted to determine the effect of TMZ on the metabolism or elimination of other medicinal products.
 However, since TMZ does not undergo hepatic metabolism and exhibits low protein binding, it is unlikely that it would affect the pharmacokinetics of other medicinal products (see section 5.2).
 
