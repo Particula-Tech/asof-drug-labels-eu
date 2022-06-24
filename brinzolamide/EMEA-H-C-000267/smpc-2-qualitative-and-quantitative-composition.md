@@ -2,7 +2,7 @@
 
 Each ml of suspension contains 10 mg brinzolamide.
 
-Excipient with known effect:
+Excipient with known effect
 
 Each ml of suspension contains 0.1 mg benzalkonium chloride.
 

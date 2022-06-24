@@ -23,7 +23,7 @@ The adverse reactions were obtained from clinical trials and post-marketing spon
 | Respiratory, thoracic and mediastinal disorders | Uncommon: dyspnoea, epistaxis, oropharyngeal pain, pharyngolaryngeal pain, throat irritation, upper airway cough syndrome, rhinorrhoea, sneezing Rare: bronchial hyperreactivity, upper respiratory tract congestion, sinus congestion, nasal congestion, cough, nasal dryness Not Known: asthma |
 | Gastrointestinal disorders | Common: dysgeusia Uncommon: oesophagitis, diarrhoea, nausea, vomiting, dyspepsia, upper abdominal pain, abdominal discomfort, stomach discomfort, flatulence, frequent bowel movements, gastrointestinal disorder, hypoaesthesia oral, paraesthesia oral, dry mouth |
 | Hepato-biliary disorders | Not Known: liver function test abnormal |
-| Skin and subcutaneous tissue disorders | Uncommon: rash, rash maculo-papular, skin tightness Rare: urticaria, alopecia, pruritus generalised Not Known: dermatitis, erythema |
+| Skin and subcutaneous tissue disorders | Uncommon: rash, rash maculo-papular, skin tightness Rare: urticaria, alopecia, pruritus generalised Not Known: Stevens-Johnson syndrome (SJS)/toxic epidermal necrolysis (TEN) (see section 4.4), dermatitis, erythema |
 | Musculoskeletal and connective tissue disorders | Uncommon: back pain, muscle spasms, myalgia Not Known: arthralgia, pain in extremity |
 | Renal and urinary disorders | Uncommon: renal pain Not Known: pollakiuria |
 | Reproductive system and breast disorders | Uncommon: erectile dysfunction |

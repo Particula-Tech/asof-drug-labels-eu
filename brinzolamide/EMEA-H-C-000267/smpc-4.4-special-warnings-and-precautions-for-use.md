@@ -3,17 +3,18 @@
 Systemic effects
 
 AZOPT is a sulphonamide inhibitor of carbonic anhydrase and, although administered topically, is absorbed systemically.
-The same types of adverse reactions that are attributable to sulphonamides may occur with topical administration.
-If signs of serious reactions or hypersensitivity occur, discontinue the use of this preparation.
+The same types of adverse drug reactions that are attributable to sulphonamides may occur with topical administration, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN).
+At the time of prescription, patients should be advised of the signs and symptoms and monitored closely for skin reactions.
+If signs of serious reactions or hypersensitivity occur, AZOPT should be withdrawn immediately.
 
 Acid-base disturbances have been reported with oral carbonic anhydrase inhibitors.
 Use with caution in patients with risk of renal impairment because the possible risk of metabolic acidosis (see section 4.2).
 
 Brinzolamide has not been studied in pre-term infants (less than 36 weeks gestational age) or those less than 1 week of age.
 Patients with significant renal tubular immaturity or abnormalities should only receive brinzolamide after careful consideration of the risk benefit balance because of the possible risk of metabolic acidosis.
-
 Oral carbonic anhydrase inhibitors may impair the ability to perform tasks requiring mental alertness and/or physical coordination.
 AZOPT is absorbed systemically and therefore this may occur with topical administration.
+
 Concomitant therapy
 
 There is a potential for an additive effect on the known systemic effects of carbonic anhydrase inhibition in patients receiving an oral carbonic anhydrase inhibitor and AZOPT.
