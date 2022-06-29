@@ -29,9 +29,9 @@ In vitro metabolism data and the human mass balance study results indicated that
 The primary route of metabolism is likely through deamination by cytidine deaminase in the liver, kidney, intestinal epithelium and blood.
 Results from the human mass-balance study showed that unchanged decitabine in plasma accounted for approximately 2.4% of total radioactivity in plasma.
 The major circulating metabolites are not believed to be pharmacologically active.
-The presence of these metabolites in urine together with the high total body clearance and low urinary excretion of unchanged decitabine in the urine (~4% of the dose) indicate that decitabine is appreciably metabolized in vivo.
+The presence of these metabolites in urine together with the high total body clearance and low urinary excretion of unchanged decitabine in the urine (~4% of the dose) indicate that decitabine is appreciably metabolised in vivo.
 In vitro studies show that decitabine does not inhibit nor induce CYP 450 enzymes up to more than 20-fold of the therapeutic maximum observed plasma concentration (Cmax).
-Thus; CYP-mediated metabolic drug interactions are not anticipated, and decitabine is unlikely to interact with agents metabolized through these pathways.
+Thus; CYP-mediated metabolic drug interactions are not anticipated, and decitabine is unlikely to interact with agents metabolised through these pathways.
 In addition, in vitro data show that decitabine is a poor P-gp substrate.
 
 Elimination
@@ -66,5 +66,5 @@ Thus, decitabine exposure is not likely to be affected in patients with impaired
 
 Renal impairment
 The PK of decitabine have not been formally studied in patients with renal insufficiency.
-The population PK analysis on the limited decitabine data indicated no significant PK parameter dependencies on normalized creatinine clearance, an indicator of renal function.
+The population PK analysis on the limited decitabine data indicated no significant PK parameter dependencies on normalised creatinine clearance, an indicator of renal function.
 Thus, decitabine exposure is not likely to be affected in patients with impaired renal function.
