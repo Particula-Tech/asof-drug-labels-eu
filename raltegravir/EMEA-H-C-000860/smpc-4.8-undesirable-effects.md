@@ -54,6 +54,7 @@ Description of selected adverse reactions
 Cancers were reported in treatment-experienced and treatment-naïve patients who initiated raltegravir in conjunction with other antiretroviral agents.
 The types and rates of specific cancers were those expected in a highly immunodeficient population.
 The risk of developing cancer in these studies was similar in the groups receiving raltegravir and in the groups receiving comparators.
+
 Grade 2-4 creatine kinase laboratory abnormalities were observed in patients treated with raltegravir.
 Myopathy and rhabdomyolysis have been reported.
 Use with caution in patients who have had myopathy or rhabdomyolysis in the past or have any predisposing issues including other medicinal products associated with these conditions (see section 4.4).
@@ -83,10 +84,10 @@ Paediatric population
 Children and adolescents 2 to 18 years of age
 Raltegravir has been studied in 126 antiretroviral treatment-experienced HIV-1 infected children and adolescents 2 to 18 years of age, in combination with other antiretroviral agents in IMPAACT P1066 (see sections 5.1 and 5.2).
 Of the 126 patients, 96 received the recommended dose of raltegravir.
-
 In these 96 children and adolescents, frequency, type and severity of drug related adverse reactions through Week 48 were comparable to those observed in adults.
 
 One patient experienced drug related clinical adverse reactions of Grade 3 psychomotor hyperactivity, abnormal behaviour and insomnia; one patient experienced a Grade 2 serious drug related allergic rash.
+
 One patient experienced drug related laboratory abnormalities, Grade 4 AST and Grade 3 ALT, which were considered serious.
 
 Infants and toddlers 4 weeks to less than 2 years of age

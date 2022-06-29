@@ -1,10 +1,11 @@
 # 6.4 Special precautions for storage
 
 This medicinal product does not require any special storage conditions.
+Keep the bottle tightly closed, with the desiccant in order to protect from moisture.
 
 [ISENTRESS 600 mg film-coated tablets]
 
-Keep the bottle tightly closed, with the desiccant in order to protect from moisture.
+(all sentences already above)
 
 [ISENTRESS 25 mg chewable tablets]
 

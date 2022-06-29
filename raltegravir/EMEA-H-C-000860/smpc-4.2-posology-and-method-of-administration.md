@@ -94,7 +94,7 @@ Recommended Dose* for ISENTRESS Granules For Oral Suspension and Chewable Tablet
 | 11 to less than 14† | 8 mL (80 mg) twice daily | 3 x 25 mg twice daily |
 | 14 to less than 20† | 10 mL (100 mg) twice daily | 1 x 100 mg twice daily |
 | 20 to less than 25 |  | 1.5 x 100 mg‡ twice daily |
-| *The weight-based dosing recommendation for the chewable tablet, and oral suspension in 10mL of water is based on approximately 6 mg/kg/dose twice daily (see section 5.2). †For weight between 11 and 20 kg either formulation can be used. Note: The chewable tablets are available as 25 mg and 100 mg tablets. ‡The 100 mg chewable tablet can be divided into equal halves. |  |  |
+| *The weight-based dosing recommendation for the chewable tablet, and oral suspension in 10 mL of water is based on approximately 6 mg/kg/dose twice daily (see section 5.2). †For weight between 11 and 20 kg either formulation can be used. Note: The chewable tablets are available as 25 mg and 100 mg tablets. ‡The 100 mg chewable tablet can be divided into equal 50 mg doses. However, breaking the tablets should be avoided whenever possible. |  |  |
 
 No data are available in pre-term neonates.
 The use of ISENTRESS is not recommended in pre-term neonates.
@@ -127,7 +127,7 @@ Refer to the chewable tablet SmPC for additional dosing information.
 | 11 to less than 14† | 8 mL (80 mg) twice daily | 3 x 25 mg twice daily |
 | 14 to less than 20† | 10 mL (100 mg) twice daily | 1 x 100 mg twice daily |
 | 20 to less than 25 |  | 1.5 x 100 mg‡ twice daily |
-| *The weight-based dosing recommendation for the chewable tablet, and oral suspension in 10mL of water is based on approximately 6 mg/kg/dose twice daily (see section 5.2.) †For weight between 11 and 20 kg either formulation can be used. Note: The chewable tablets are available as 25 mg and 100 mg tablets. ‡The 100 mg chewable tablet can be divided into equal halves. |  |  |
+| *The weight-based dosing recommendation for the chewable tablet, and oral suspension in 10 mL of water is based on approximately 6 mg/kg/dose twice daily (see section 5.2) †For weight between 11 and 20 kg either formulation can be used. Note: The chewable tablets are available as 25 mg and 100 mg tablets. ‡The 100 mg chewable tablet can be divided into equal 50 mg doses. However, breaking the tablets should be avoided whenever possible. |  |  |
 
 Recommended Dose for ISENTRESS For Oral Suspension in Full-Term Neonates (Birth to 4 weeks [28 days] of age*
 

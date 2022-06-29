@@ -1,13 +1,13 @@
 # 6.5 Nature and contents of container
 
-High density polyethylene (HDPE) bottle with a child-resistant polypropylene closure.
+High density polyethylene (HDPE) bottle with a child-resistant polypropylene closure, induction seal and silica gel desiccant.
 Two pack sizes are available: 1 bottle with 60 tablets, and a multipack containing 180 (3 bottles of 60) tablets.
 
 Not all pack sizes may be marketed.
 
 [ISENTRESS 600 mg film-coated tablets]
 
-High density polyethylene (HDPE) bottle with a child-resistant polypropylene closure, induction seal and silica gel desiccant.
+(all sentences already above)
 
 [ISENTRESS 25 mg chewable tablets]
 

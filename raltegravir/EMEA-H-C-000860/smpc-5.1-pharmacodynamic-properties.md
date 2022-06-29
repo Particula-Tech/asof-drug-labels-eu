@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: antivirals for systemic use, other antivirals, ATC code: J05AJ01.
+Pharmacotherapeutic group: antivirals for systemic use, integrase inhibitors, ATC code: J05AJ01.
 
 Mechanism of action
 
@@ -8,6 +8,7 @@ Raltegravir is an integrase strand transfer inhibitor active against the Human I
 Raltegravir inhibits the catalytic activity of integrase, an HIV-encoded enzyme that is required for viral replication.
 Inhibition of integrase prevents the covalent insertion, or integration, of the HIV genome into the host cell genome.
 HIV genomes that fail to integrate cannot direct the production of new infectious viral particles, so inhibiting integration prevents propagation of the viral infection.
+
 Antiviral activity in vitro
 
 Raltegravir at concentrations of 31 ± 20 nM resulted in 95 % inhibition (IC95) of HIV-1 replication (relative to an untreated virus-infected culture) in human T-lymphoid cell cultures infected with the cell-line adapted HIV-1 variant H9IIIB.
