@@ -4,7 +4,6 @@ Interaction studies have only been performed in adults.
 
 Co-administration of dexmedetomidine with anaesthetics, sedatives, hypnotics, and opioids is likely to lead to an enhancement of effects, including sedative, anaesthetic and cardiorespiratory effects.
 Specific studies have confirmed enhanced effects with isoflurane, propofol, alfentanil, and midazolam.
-
 No pharmacokinetic interactions between dexmedetomidine and isoflurane, propofol, alfentanil and midazolam have been demonstrated.
 However, due to possible pharmacodynamic interactions, when co-administered with dexmedetomidine, a reduction in dosage of dexmedetomidine or the concomitant anaesthetic, sedative, hypnotic or opioid may be required.
 
@@ -13,4 +12,5 @@ In vitro study suggests that interaction potential in vivo exists between dexmed
 
 Induction of dexmedetomidine in vitro was observed on CYP1A2, CYP2B6, CYP2C8, CYP2C9 and CYP3A4, and induction in vivo cannot be excluded.
 The clinical significance is unknown.
+
 The possibility of enhanced hypotensive and bradycardic effects should be considered in patients receiving other medicinal products causing these effects, for example beta blockers, although additional effects in an interaction study with esmolol were modest.

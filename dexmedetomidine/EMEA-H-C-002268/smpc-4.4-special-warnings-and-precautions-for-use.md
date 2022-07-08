@@ -37,6 +37,14 @@ Elderly patients over 65 years of age may be more prone to hypotension with the 
 A dose reduction should be considered.
 Please refer to section 4.2.
 
+Mortality in ICU patients ≤65 years old
+
+In the SPICE III pragmatic randomised controlled trial of 3 904 critically ill adult ICU patients dexmedetomidine was used as primary sedative and compared with usual care.
+There was no overall difference in 90-day mortality between the dexmedetomidine and usual care group (mortality 29.1% in both groups), but a heterogeneity of effect from age on mortality was observed.
+Dexmedetomidine was associated with an increased mortality in the age-group ≤65 years (odds ratio 1.26; 95% credibility interval 1.02 to 1.56) compared to alternative sedatives.
+While the mechanism is unclear, this heterogeneity of effect on mortality from age was most prominent in patients admitted for reasons other than post-operative care, and increased with increasing APACHE II scores and with decreasing age.
+These findings should be weighed against the expected clinical benefit of dexmedetomidine compared to alternative sedatives in younger patients.
+
 Cardio-vascular effects and precautions
 
 Dexmedetomidine reduces heart rate and blood pressure through central sympatholysis but at higher concentrations causes peripheral vasoconstriction leading to hypertension (see section 5.1).
@@ -55,6 +63,7 @@ Patients with impaired peripheral autonomic activity (e.g. due to spinal cord in
 
 Transient hypertension has been observed primarily during the loading dose in association with the peripheral vasoconstrictive effects of dexmedetomidine and a loading dose is not recommended in ICU sedation.
 Treatment of hypertension has generally not been necessary but decreasing the continuous infusion rate may be advisable.
+
 Local vasoconstriction at higher concentration may be of greater significance in patients with ischaemic heart disease or severe cerebrovascular disease who should be monitored closely.
 Dose reduction or discontinuation should be considered in a patient developing signs of myocardial or cerebral ischaemia.
 

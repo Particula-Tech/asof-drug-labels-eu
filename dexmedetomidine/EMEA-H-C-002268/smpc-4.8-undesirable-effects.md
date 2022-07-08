@@ -16,6 +16,7 @@ The most frequently reported adverse reactions with dexmedetomidine in procedura
 Tabulated list of adverse reactions
 
 The adverse reactions listed in Table 1 have been accumulated from pooled data of clinical trials in intensive care.
+
 Adverse reactions are ranked under headings of frequency, the most frequent first, using the following convention: Very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1 000 to < 1/100); rare (≥1/10 000 to < 1/1 000), very rare (< 1/10 000), not known (cannot be estimated from the available data).
 
 Table 1.
@@ -66,6 +67,7 @@ In isolated cases bradycardia has progressed to periods of asystole in patients 
 Also cases of cardiac arrest, often preceded by bradycardia or atrioventricular block, have been reported.
 
 Hypertension has been associated with the use of a loading dose and this reaction can be reduced by avoiding such a loading dose or reducing the infusion rate or size of the loading dose.
+
 Paediatric population
 
 Children > 1 month post-natal, predominantly post-operative, have been evaluated for treatment up to 24 hours in the ICU and demonstrated a similar safety profile as in adults.
