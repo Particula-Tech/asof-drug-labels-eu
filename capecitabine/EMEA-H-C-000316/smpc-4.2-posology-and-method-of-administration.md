@@ -98,8 +98,8 @@ Dose modifications for toxicity when capecitabine is used as a 3 weekly cycle in
 Dose modifications for toxicity when capecitabine is used as a 3 weekly cycle in combination with other medicinal products should be made according to table 3 above for capecitabine and according to the appropriate summary of product characteristics for the other medicinal product(s).
 
 At the beginning of a treatment cycle, if a treatment delay is indicated for either capecitabine or the other medicinal product(s), then administration of all therapy should be delayed until the requirements for restarting all medicinal products are met.
-
 During a treatment cycle for those toxicities considered by the treating physician not to be related to capecitabine, capecitabine should be continued and the dose of the other medicinal product should be adjusted according to the appropriate Prescribing Information.
+
 If the other medicinal product(s) have to be discontinued permanently, capecitabine treatment can be resumed when the requirements for restarting capecitabine are met.
 
 This advice is applicable to all indications and to all special populations.
@@ -114,13 +114,13 @@ Insufficient safety and efficacy data are available in patients with hepatic imp
 No information is available on hepatic impairment due to cirrhosis or hepatitis.
 
 Renal impairment
-Capecitabine is contraindicated in patients with severe renal impairment (creatinine clearance below 30 ml/min [Cockcroft and Gault] at baseline).
-The incidence of grade 3 or 4 adverse reactions in patients with moderate renal impairment (creatinine clearance 30-50 ml/min at baseline) is increased compared to the overall population.
+Capecitabine is contraindicated in patients with severe renal impairment (creatinine clearance below 30 mL/min [Cockcroft and Gault] at baseline).
+The incidence of grade 3 or 4 adverse reactions in patients with moderate renal impairment (creatinine clearance 30-50 mL/min at baseline) is increased compared to the overall population.
 In patients with moderate renal impairment at baseline, a dose reduction to 75% for a starting dose of 1250 mg/m2 is recommended.
 In patients with moderate renal impairment at baseline, no dose reduction is required for a starting dose of 1000 mg/m2.
-In patients with mild renal impairment (creatinine clearance 51-80 ml/min at baseline) no adjustment of the starting dose is recommended.
+In patients with mild renal impairment (creatinine clearance 51-80 mL/min at baseline) no adjustment of the starting dose is recommended.
 Careful monitoring and prompt treatment interruption is recommended if the patient develops a grade 2, 3 or 4 adverse event during treatment and subsequent dose adjustment as outlined in table 3 above.
-If the calculated creatinine clearance decreases during treatment to a value below 30 ml/min, Xeloda should be discontinued.
+If the calculated creatinine clearance decreases during treatment to a value below 30 mL/min, Xeloda should be discontinued.
 These dose adjustment recommendations for renal impairment apply both to monotherapy and combination use (see also section “Elderly” below).
 
 Elderly
@@ -136,7 +136,6 @@ Careful monitoring of patients ≥60 years of age is advisable.
 
 Paediatric population
 There is no relevant use of capecitabine in the paediatric population in the indications colon, colorectal, gastric and breast cancer.
-
 Method of administration
 Xeloda tablets should be swallowed whole with water within 30 minutes after a meal.
 Xeloda tablets should not be crushed or cut.

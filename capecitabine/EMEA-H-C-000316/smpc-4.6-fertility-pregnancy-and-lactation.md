@@ -17,6 +17,7 @@ It is not known whether capecitabine is excreted in human breast milk.
 No studies have been conducted to assess the impact of capecitabine on milk production or its presence in human breast milk.
 In lactating mice, considerable amounts of capecitabine and its metabolites were found in milk.
 As the potential for harm to the nursing infant is unknown, breast-feeding should be discontinued while receiving treatment with capecitabine and for 2 weeks after the final dose.
+
 Fertility
 There is no data on Xeloda and impact on fertility.
 The Xeloda pivotal studies included females of childbearing potential and males only if they agreed to use an acceptable method of birth control to avoid pregnancy for the duration of the study and for a reasonable period thereafter.

@@ -30,6 +30,7 @@ If grade 2 or 3 hand-foot syndrome occurs, administration of capecitabine should
 Following grade 3 hand-foot syndrome, subsequent doses of capecitabine should be decreased.
 When capecitabine and cisplatin are used in combination, the use of vitamin B6 (pyridoxine) is not advised for symptomatic or secondary prophylactic treatment of hand–foot syndrome, because of published reports that it may decrease the efficacy of cisplatin.
 There is some evidence that dexpanthenol is effective for hand-foot syndrome prophylaxis in patients treated with Xeloda.
+
 Cardiotoxicity.
 Cardiotoxicity has been associated with fluoropyrimidine therapy, including myocardial infarction, angina, dysrhythmias, cardiogenic shock, sudden death and electrocardiographic changes (including very rare cases of QT prolongation).
 These adverse reactions may be more common in patients with a prior history of coronary artery disease.
@@ -66,7 +67,7 @@ Administration of capecitabine should be interrupted if treatment-related elevat
 Treatment with capecitabine monotherapy may be resumed when bilirubin decreases to ≤3.0 x ULN or hepatic aminotransferases decrease to ≤ 2.5 x ULN.
 
 Renal impairment.
-The incidence of grade 3 or 4 adverse reactions in patients with moderate renal impairment (creatinine clearance 30-50 ml/min) is increased compared to the overall population
+The incidence of grade 3 or 4 adverse reactions in patients with moderate renal impairment (creatinine clearance 30-50 mL/min) is increased compared to the overall population
 (see sections 4.2 and 4.3).
 
 Dihydropyrimidine dehydrogenase (DPD) deficiency:
@@ -115,8 +116,8 @@ Phenotypic characterisation of DPD deficiency
 For phenotypic characterisation of DPD deficiency, the measurement of pre-therapeutic blood levels of the endogenous DPD substrate uracil (U) in plasma is recommended.
 
 Elevated pre-treatment uracil concentrations are associated with an increased risk of toxicity.
-Despite uncertainties on uracil thresholds defining complete and partial DPD deficiency, a blood uracil level ≥ 16 ng/ml and < 150 ng/ml should be considered indicative of partial DPD deficiency and associated with an increased risk for fluoropyrimidine toxicity.
-A blood uracil level ≥ 150 ng/ml should be considered indicative of complete DPD deficiency and associated with a risk for life-threatening or fatal fluoropyrimidine toxicity.
+Despite uncertainties on uracil thresholds defining complete and partial DPD deficiency, a blood uracil level ≥ 16 ng/mL and < 150 ng/mL should be considered indicative of partial DPD deficiency and associated with an increased risk for fluoropyrimidine toxicity.
+A blood uracil level ≥ 150 ng/mL should be considered indicative of complete DPD deficiency and associated with a risk for life-threatening or fatal fluoropyrimidine toxicity.
 
 Ophthalmologic complications: Patients should be carefully monitored for ophthalmological
 complications such as keratitis and corneal disorders, especially if they have a prior history of eye
@@ -125,7 +126,11 @@ Severe skin reactions: Xeloda can induce severe skin reactions such as Stevens-J
 Toxic Epidermal Necrolysis. Xeloda should be permanently discontinued in patients who experience a
 severe skin reaction during treatment.
 
-As this medicinal product contains anhydrous lactose as an excipient, patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+Lactose
+Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+
+Sodium
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
 
 Xeloda tablets should not be crushed or cut.
 In case of exposure of either patient or caregiver to crushed or cut Xeloda tablets adverse drug reactions could occur (see Section 4.8).

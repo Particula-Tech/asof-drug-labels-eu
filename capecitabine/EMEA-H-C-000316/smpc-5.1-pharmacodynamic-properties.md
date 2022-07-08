@@ -49,7 +49,6 @@ Combination therapy in first-line treatment of metastatic colorectal cancer
 Data from a multicentre, randomised, controlled phase III clinical study (NO16966) support the use of capecitabine in combination with oxaliplatin or in combination with oxaliplatin and bevacizumab for the first-line treatment of metastatic colorectal cancer.
 The study contained two parts: an initial 2-arm part in which 634 patients were randomised to two different treatment groups, including XELOX or FOLFOX-4, and a subsequent 2x2 factorial part in which 1401 patients were randomised to four different treatment groups, including XELOX plus placebo, FOLFOX-4 plus placebo, XELOX plus bevacizumab, and FOLFOX-4 plus bevacizumab.
 See table 6 for treatment regimens.
-
 Table 6 Treatment regimens in study NO16966 (mCRC)
 
 |  | Treatment | Starting Dose | Schedule |
@@ -70,7 +69,7 @@ Although sensitivity analyses show that differences in regimen schedules and tim
 
 Table 7 Key efficacy results for the non-inferiority analysis of Study NO16966
 
-PRIMARY ANALYSI S
+PRIMARY ANALYSIS
 XELOX/XELOX+P/ FOLFOX-4/FOLFOX-4+P/
 XELOX+BV FOLFOX-4+BV
 (EPP*: N=967; ITT**: N=1017) (EPP*: N = 937; ITT**: N= 1017)
@@ -93,7 +92,6 @@ EPP 600 594 1.00 (0.88; 1.13)
 ITT 602 596 0.99 (0.88; 1.12)
 
 *EPP=eligible patient population; **ITT=intent-to-treat population
-
 In a randomised, controlled phase III study (CAIRO), the effect of using capecitabine at a starting dose of 1000 mg/m2 for 2 weeks every 3 weeks in combination with irinotecan for the first-line treatment of patients with metastatic colorectal cancer was studied.
 820 Patients were randomised to receive either sequential treatment (n=410) or combination treatment (n=410).
 Sequential treatment consisted of first-line capecitabine (1250 mg/m2 twice daily for 14 days), second-line irinotecan (350 mg/m2 on day 1), and third-line combination of capecitabine (1000 mg/m2 twice daily for 14 days) with oxaliplatin (130 mg/m2 on day 1).
@@ -103,7 +101,7 @@ In first-line treatment the median progression-free survival in the intent-to-tr
 However this was associated with an increased incidence of gastrointestinal toxicity and neutropenia during first-line treatment with XELIRI (26% and 11% for XELIRI and first line capecitabine respectively).
 
 The XELIRI has been compared with 5-FU + irinotecan (FOLFIRI) in three randomised studies in patients with metastatic colorectal cancer.
-The XELIRI regimens included capecitabine 1000 mg/m2 twice daily on days 1 to 14 of a three-week cycle combined with irinotecan 250 mg/m2 on day1.
+The XELIRI regimens included capecitabine 1000 mg/m2 twice daily on days 1 to 14 of a three-week cycle combined with irinotecan 250 mg/m2 on day 1.
 In the largest study (BICC-C), patients were randomised to receive either open label FOLFIRI (n=144), bolus 5-FU (mIFL) (n=145) or XELIRI (n=141) and were additionally randomised to receive either double-blind treatment with celecoxib or placebo.
 Median PFS was 7.6 months for FOLFIRI,
 5.9 months for mIFL (p=0.004) for the comparison with FOLFIRI), and 5.8 months for XELIRI (p=0.015).
@@ -117,7 +115,7 @@ Median PFS and overall survival (OS) times were shorter for XELIRI versus FOLFIR
 In the study published by Skof et al, patients were randomised to receive either FOLFIRI or XELIRI .
 Overall response rate was 49% in the XELIRI and 48% in the FOLFIRI arm (p=0.76).
 At the end of treatment, 37% of patients in the XELIRI and 26% of patients in the FOLFIRI arm were without evidence of the disease (p=0.56).
-Toxcity was similar between treatments with the exception of neutropenia reported more commonly in patients treated with FOLFIRI.
+Toxicity was similar between treatments with the exception of neutropenia reported more commonly in patients treated with FOLFIRI.
 
 Montagnani et al used the results from the above three studies to provide an overall analysis of randomised studies comparing FOLFIRI and XELIRI treatment regimens in the treatment of mCRC.
 A significant reduction in the risk of progression was associated with FOLFIRI (HR, 0.76; 95%CI, 0.62-0.95; P <0.01), a result partly due to poor tolerance to the XELIRI regimens used.
@@ -177,7 +175,7 @@ ITT 363 382 1.02 (0.86; 1.21)
 
 Advanced gastric cancer:
 
-Data from a multicentre, randomised, controlled phase III clinical trial in patients with advanced gastric cancer supports the use of capecitabine for the first-line treatment of advanced gastric cancer (ML17032).
+Data from a multicentre, randomised, controlled phase III clinical trial in patients with advanced gastric cancer supports the use of capecitabine for the first-line treatment of advanced gastric cancer (mL17032).
 In this trial, 160 patients were randomised to treatment with capecitabine (1000 mg/m2 twice daily for 2 weeks followed by a 7-day rest period) and cisplatin (80 mg/m2 as a 2-hour infusion every 3 weeks).
 A total of 156 patients were randomised to treatment with 5-FU (800 mg/m2 per day, continuous infusion on days 1 to 5 every 3 weeks) and cisplatin (80 mg/m2 as a 2-hour infusion on day 1, every 3 weeks).
 Capecitabine in combination with cisplatin was non-inferior to 5-FU in combination with cisplatin in terms of progression-free survival in the per protocol analysis (hazard ratio 0.81; 95% CI 0.63 - 1.04).

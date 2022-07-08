@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Roche Registration GmbH
-Emil-Barell-Strasse 1
-79639 Grenzach-Wyhlen
+CHEPLAPHARM Arzneimittel GmbH
+Ziegelhof 24
+17489 Greifswald
 Germany
