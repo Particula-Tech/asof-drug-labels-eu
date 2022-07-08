@@ -14,7 +14,7 @@ This dose can be started on the first day of treatment.
 However, a lower initial dose of 250 mg twice daily may be given based on physician assessment of seizure reduction versus potential side effects.
 This can be increased to 500 mg twice daily after two weeks.
 
-Depending upon the clinical response and tolerability, the daily dose can be increased up to 1,500 mg twice daily.
+Depending upon the clinical response and tolerability, the daily dose can be increased up to 1500 mg twice daily.
 Dose changes can be made in 250 mg or 500 mg twice daily increases or decreases every two to four weeks.
 Adolescents (12 to 17 years) weighing below 50 kg and children from 1 month of age
 
@@ -54,11 +54,11 @@ Group Creatinine clearance Dose and frequency
 
 (ml/min/1.73m2)
 
-Normal ≥ 80 500 to 1,500 mg twice daily
-Mild 50-79 500 to 1,000 mg twice daily
+Normal ≥ 80 500 to 1500 mg twice daily
+Mild 50-79 500 to 1000 mg twice daily
 Moderate 30-49 250 to 750 mg twice daily
 Severe < 30 250 to 500 mg twice daily
-End-stage renal disease patients - 500 to 1,000 mg once daily (2)
+End-stage renal disease patients - 500 to 1000 mg once daily (2)
 
 undergoing dialysis (1)
 (1) A 750 mg loading dose is recommended on the first day of treatment with levetiracetam.
@@ -83,7 +83,7 @@ Dosing adjustment for infants, children and adolescent patients weighing less th
 | Mild | 50-79 | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) twice daily | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) twice daily |
 | Moderate | 30-49 | 3.5 to 10.5 mg/kg (0.035 to 0.105 ml/kg) twice daily | 5 to 15 mg/kg (0.05 to 0.15 ml/kg) twice daily |
 | Severe | < 30 | 3.5 to 7 mg/kg (0.035 to 0.07 ml/kg) twice daily | 5 to 10 mg/kg (0.05 to 0.10 ml/kg) twice daily |
-| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0(2.) 1(44) ml/kg) once daily | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
+| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) once daily (2) (4) | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
 
 (1) Keppra oral solution should be used for doses under 250 mg, for doses not multiple of 250 mg when dosing recommendation is not achievable by taking multiple tablets and for patients unable to swallow tablets.
 (2) A 10.5 mg/kg (0.105 ml/kg) loading dose is recommended on the first day of treatment with levetiracetam.
@@ -145,7 +145,7 @@ CLcr (ml/min/1.73 m2) = -------------------------------------
 | Mild | 50-79 | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) twice daily | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) twice daily |
 | Moderate | 30-49 | 3.5 to 10.5 mg/kg (0.035 to 0.105 ml/kg) twice daily | 5 to 15 mg/kg (0.05 to 0.15 ml/kg) twice daily |
 | Severe | < 30 | 3.5 to 7 mg/kg (0.035 to 0.07 ml/kg) twice daily | 5 to 10 mg/kg (0.05 to 0.10 ml/kg) twice daily |
-| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0(4.) 14 ml/kg) once daily (2) | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
+| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) once daily (2) (4) | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
 
 Adolescents (16 and 17 years of age) weighing 50 kg or more with partial onset seizures with or without secondary generalisation with newly diagnosed epilepsy: Please refer to the above section on
 
@@ -160,7 +160,7 @@ Add-on therapy for infants aged 6 to 23 months, children (2 to 11 years) and ado
 | Mild | 50-79 | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) twice daily | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) twice daily |
 | Moderate | 30-49 | 3.5 to 10.5 mg/kg (0.035 to 0.105 ml/kg) twice daily | 5 to 15 mg/kg (0.05 to 0.15 ml/kg) twice daily |
 | Severe | < 30 | 3.5 to 7 mg/kg (0.035 to 0.07 ml/kg) twice daily | 5 to 10 mg/kg (0.05 to 0.10 ml/kg) twice daily |
-| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0(4.) 14 ml/kg) once daily (2) | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
+| End-stage renal disease patients undergoing dialysis | -- | 7 to 14 mg/kg (0.07 to 0.14 ml/kg) once daily (2) (4) | 10 to 20 mg/kg (0.10 to 0.20 ml/kg) once daily (3) (5) |
 
 [Keppra 1000 mg film-coated tablets]
 
@@ -183,7 +183,7 @@ Dose recommendations for infants from 6 months of age, children and adolescents:
 | 15 kg (1) | 150 mg (1.5 ml) twice daily | 450 mg (4.5 ml) twice daily |
 | 20 kg (1) | 200 mg (2 ml) twice daily | 600 mg (6 ml) twice daily |
 | 25 kg | 250 mg twice daily | 750 mg twice daily |
-| From 50 kg (2) | 500 mg twice daily | 1,500 mg twice daily |
+| From 50 kg (2) | 500 mg twice daily | 1500 mg twice daily |
 
 (1) Children 25 kg or less should preferably start the treatment with Keppra 100 mg/ml oral solution.
 (2) Dose in children and adolescents 50 kg or more is the same as in adults.
@@ -225,6 +225,8 @@ The oral solution may be diluted in a glass of water or baby’s bottle and may 
 Keppra therapy can be initiated with either intravenous or oral administration.
 Conversion to or from oral to intravenous administration can be done directly without titration.
 The total daily dose and frequency of administration should be maintained.
+
+Adolescents (12 to 17 years) weighing below 50 kg and children from 4 years of age
 
 Duration of treatment
 There is no experience with administration of intravenous levetiracetam for longer period than 4 days.

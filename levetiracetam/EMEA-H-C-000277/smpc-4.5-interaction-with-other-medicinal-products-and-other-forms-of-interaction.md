@@ -17,7 +17,8 @@ Concomitant administration of levetiracetam and methotrexate has been reported t
 Blood methotrexate and levetiracetam levels should be carefully monitored in patients treated concomitantly with the two drugs.
 
 Oral contraceptives and other pharmacokinetics interactions
-Levetiracetam 1,000 mg daily did not influence the pharmacokinetics of oral contraceptives (ethinyl-estradiol and levonorgestrel); endocrine parameters (luteinizing hormone and progesterone) were not modified. -Levetiracetam 2,000 mg daily did not influence the pharmacokinetics of digoxin and warfarin; prothrombin times were not modified.
+Levetiracetam 1000 mg daily did not influence the pharmacokinetics of oral contraceptives (ethinyl-estradiol and levonorgestrel); endocrine parameters (luteinizing hormone and progesterone) were not modified.
+Levetiracetam 2000 mg daily did not influence the pharmacokinetics of digoxin and warfarin; prothrombin times were not modified.
 Co-administration with digoxin, oral contraceptives and warfarin did not influence the pharmacokinetics of levetiracetam.
 
 Laxatives
@@ -30,8 +31,7 @@ No data on the interaction of levetiracetam with alcohol are available.
 
 [Keppra 500 mg film-coated tablets]
 
-Levetiracetam 1,000 mg daily did not influence the pharmacokinetics of oral contraceptives (ethinyl-estradiol and levonorgestrel); endocrine parameters (luteinizing hormone and progesterone) were not modified.
-Levetiracetam 2,000 mg daily did not influence the pharmacokinetics of digoxin and warfarin; prothrombin times were not modified.
+(all sentences already above)
 
 [Keppra 750 mg film-coated tablets]
 

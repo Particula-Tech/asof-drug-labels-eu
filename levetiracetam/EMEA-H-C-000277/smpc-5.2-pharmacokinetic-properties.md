@@ -10,7 +10,6 @@ Due to its complete and linear absorption, plasma levels can be predicted from t
 Therefore, there is no need for plasma level monitoring of levetiracetam.
 
 A significant correlation between saliva and plasma concentrations has been shown in adults and children (ratio of saliva/plasma concentrations ranged from 1 to 1.7 for oral tablet formulation and after 4 hours post-dose for oral solution formulation).
-
 Adults and adolescents
 
 Absorption
@@ -19,7 +18,7 @@ Levetiracetam is rapidly absorbed after oral administration.
 Oral absolute bioavailability is close to 100 %.
 Peak plasma concentrations (Cmax) are achieved at 1.3 hours after dosing.
 Steady-state is achieved after two days of a twice daily administration schedule.
-Peak concentrations (Cmax) are typically 31 and 43 µg/ml following a single 1,000 mg dose and repeated 1,000 mg twice daily dose, respectively.
+Peak concentrations (Cmax) are typically 31 and 43 µg/ml following a single 1000 mg dose and repeated 1000 mg twice daily dose, respectively.
 The extent of absorption is dose-independent and is not altered by food.
 
 Distribution
@@ -59,6 +58,7 @@ Excretion via faeces accounted for only 0.3 % of the dose.
 The cumulative urinary excretion of levetiracetam and its primary metabolite accounted for 66 % and 24 % of the dose, respectively during the first 48 hours.
 The renal clearance of levetiracetam and ucb L057 is 0.6 and 4.2 ml/min/kg respectively indicating that levetiracetam is excreted by glomerular filtration with subsequent tubular reabsorption and that the primary metabolite is also excreted by active tubular secretion in addition to glomerular filtration.
 Levetiracetam elimination is correlated to creatinine clearance.
+
 Elderly
 
 In the elderly, the half-life is increased by about 40 % (10 to 11 hours).
@@ -99,7 +99,6 @@ The pharmacokinetic results indicated that half-life was shorter (5.3 h) than fo
 In the population pharmacokinetic analysis conducted in patients from 1 month to 16 years of age, body weight was significantly correlated to apparent clearance (clearance increased with an increase in body weight) and apparent volume of distribution.
 Age also had an influence on both parameters.
 This effect was pronounced for the younger infants, and subsided as age increased, to become negligible around 4 years of age.
-
 In both population pharmacokinetic analyses, there was about a 20 % increase of apparent clearance of levetiracetam when it was co-administered with an enzyme-inducing antiepileptic medicinal product.
 
 [Keppra 500 mg film-coated tablets]

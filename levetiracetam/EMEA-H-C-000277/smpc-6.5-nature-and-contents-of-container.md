@@ -28,5 +28,5 @@ Aluminium/PVC blisters placed into cardboard boxes containing 10, 20, 30, 50, 60
 
 [Keppra 100 mg/ml concentrate for solution for infusion]
 
-5 ml glass vial (type I) closed by a polytetrafluoroethylene grey chlorobutyl rubber stopper or an uncoated grey bromobutyl rubber stopper and sealed with an aluminium/polypropylene flip cap.
+5 ml glass vial (type I) closed by an uncoated grey bromobutyl rubber stopper and sealed with an aluminium/polypropylene flip cap.
 Each carton contains 10 vials.

@@ -17,7 +17,7 @@ Each film-coated tablet contains 0.19 mg of sunset yellow FCF (E110).
 
 [Keppra 1000 mg film-coated tablets]
 
-Each film-coated tablet contains 1,000 mg levetiracetam.
+Each film-coated tablet contains 1000 mg levetiracetam.
 
 [Keppra 100 mg/ml oral solution]
 

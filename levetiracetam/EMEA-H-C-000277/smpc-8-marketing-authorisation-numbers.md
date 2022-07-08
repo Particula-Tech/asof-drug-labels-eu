@@ -50,5 +50,4 @@ EU/1/00/146/032
 
 [Keppra 100 mg/ml concentrate for solution for infusion]
 
-EU/1/00/146/030
 EU/1/00/146/033
