@@ -201,10 +201,8 @@ One subject discontinued due to an adverse event at week 48, and no additional s
 
 N=number of subjects per treatment group.
 * Intent-to-treat time to loss of virologic response.
-§
-Subjects achieved virologic response (two consecutive viral loads < 50 copies/ml) and maintained it through week 48 and week 240.
-±
-Virologic failure in efficacy analysis: includes subjects who were rebounder (confirmed viral load ≥50 copies/ml after being responder) or who were never suppressed (no confirmed viral load < 50 copies/ml, either ongoing or discontinued due to lack or loss of efficacy).
+§ Subjects achieved virologic response (two consecutive viral loads < 50 copies/ml) and maintained it through week 48 and week 240.
+± Virologic failure in efficacy analysis: includes subjects who were rebounder (confirmed viral load ≥50 copies/ml after being responder) or who were never suppressed (no confirmed viral load < 50 copies/ml, either ongoing or discontinued due to lack or loss of efficacy).
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with rilpivirine in one or more subsets of the paediatric population in the treatment of Human Immunodeficiency Virus (HIV-1) infection (see section 4.2 for information on paediatric use).
 
