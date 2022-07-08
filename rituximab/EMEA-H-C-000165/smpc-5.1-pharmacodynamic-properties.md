@@ -567,6 +567,7 @@ PV Study 1 Results
 The study showed statistically significant results of MabThera and low-dose prednisone over standard-dose prednisone in achieving CRoff ≥ 2 months at month 24 in PV patients (see Table 22).
 
 Table 22 Percentage of PV patients who achieved complete remission off corticosteroid therapy for two months or more at month 24 (Intent-to-Treat Population - PV)
+
 Rituximab + Prednisone
 
 Prednisone N=36 p-value a 95% CIb

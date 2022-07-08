@@ -14,10 +14,7 @@ Infectious events (predominantly bacterial and viral) occurred in approximately 
 
 The most frequently reported or observed serious adverse reactions were:
 
-- IRRs (including cytokine-release syndrome, tumour-lysis syndrome), see section
-
-4.4.
-
+- IRRs (including cytokine-release syndrome, tumour-lysis syndrome), see section 4.4.
 - Infections, see section 4.4.
 - Cardiovascular events, see section 4.4.
 
@@ -192,7 +189,7 @@ Table 4 Summary of adverse reactions reported in clinical trials or during postm
 
 | MedDRA System Organ Class | Very Common | Common | Uncommon | Rare | Very rare |
 | --- | --- | --- | --- | --- | --- |
-| Infections and infestations | upper respiratory tract infection, urinary tract infections | bronchitis, sinusitis, gastroenteritis, tinea pedispedís |  |  | PML, reactivation of hepatitis B |
+| Infections and infestations | upper respiratory tract infection, urinary tract infections | bronchitis, sinusitis, gastroenteritis, tinea pedis |  |  | PML, reactivation of hepatitis B |
 | Blood and lymphatic system disorders |  | neutropenia1 |  | late neutropenia2 | serum sickness-like reaction |
 | Immune system disorders | 3infusion-related reactions (hypertension, nausea, rash, pyrexia, pruritus, urticaria, throat irritation, hot flush, hypotension, rhinitis, rigors, tachycardia, fatigue, oropharyngeal pain, peripheral oedema, erythema) |  | 3infusion related reactions (generalized oedema, bronchospasm, wheezing, laryngeal oedema, angioneurotic oedema, generalized pruritus, anaphylaxis, anaphylactoid reaction) |  |  |
 | General disorders and administration site conditions |  |  |  |  |  |
@@ -311,7 +308,11 @@ Table 5 Adverse reactions occurring at 6-months in ≥ 5% of adult patients rece
 | Acne | 7% |
 | Musculoskeletal and connective tissue disorders |  |
 | Muscle spasms | 18% |
-| Arthralgia | 15% |
+
+Arthralgia 15%
+
+| MedDRA System organ class Adverse reaction | Rituximab (n=99) |
+| --- | --- |
 | Back pain | 10% |
 | Muscle weakness | 5% |
 | Musculoskeletal pain | 5% |
@@ -349,7 +350,6 @@ Most adverse events in the MabThera arm were mild or moderate in intensity.
 No patients in the MabThera arm had fatal adverse events.
 
 The most commonly reported events considered as ADRs were infusion-related reactions and infections.
-
 Long-term follow-up (GPA/MPA Study 3)
 In a long-term observational safety study, 97 GPA/MPA patients received treatment with MabThera (mean of 8 infusions [range 1-28]) for up to 4 years, according to their physician’s standard practice and discretion.
 The overall safety profile was consistent with the well-established safety profile of MabThera in RA and GPA/MPA and no new adverse reactions were reported.
