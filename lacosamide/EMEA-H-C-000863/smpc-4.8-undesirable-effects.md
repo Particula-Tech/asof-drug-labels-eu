@@ -34,7 +34,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Nervous system disorders | Dizziness Headache | Myoclonic seizures(3) Ataxia Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope(2) Coordination abnormal Dyskinesia | Convulsion |
 | Eye disorders | Diplopia | Vision blurred |  |  |
 | Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
-| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) A(1,2tr) ial Fibrillation Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1) |
+| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) Atrial Fibrillation (1,2) Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1) |
 | Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
 | Hepatobiliary disorders |  |  | Liver function test abnormal(2) Hepatic enzyme increased (> 2x ULN) (1) |  |
 | Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) Toxic epidermal |
@@ -103,10 +103,6 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [Treatment initiation pack (in adolescents and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets]
 
-These reactions are variable in expression but typically present with fever and rash and can be associated with involvement of different organ systems.
-
-[Vimpat 10 mg/ml syrup]
-
 | System organ class | Very common | Common | Uncommon | Not known |
 | --- | --- | --- | --- | --- |
 | Blood and lymphatic disorders |  |  |  | Agranulocytosis(1) |
@@ -115,13 +111,19 @@ These reactions are variable in expression but typically present with fever and 
 | Nervous system disorders | Dizziness Headache | Myoclonic seizures(3) Ataxia Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope(2) Coordination abnormal Dyskinesia | Convulsion |
 | Eye disorders | Diplopia | Vision blurred |  |  |
 | Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
-| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) A(1,2tr) ial Fibrillation Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1) |
+| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) Atrial Fibrillation (1,2) Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1) |
 | Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
 | Hepatobiliary disorders |  |  | Liver function test abnormal(2) Hepatic enzyme increased (> 2x ULN) (1) |  |
 | Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) Toxic epidermal necrolysis(1) |
 | Musculoskeletal and connective tissue disorders |  | Muscle spasms |  |  |
 | General disorders and administration site conditions |  | Gait disturbance Asthenia Fatigue Irritability Feeling drunk |  |  |
 | Injury, poisoning and procedural complications |  | Fall Skin laceration Contusion |  |  |
+
+These reactions are variable in expression but typically present with fever and rash and can be associated with involvement of different organ systems.
+
+[Vimpat 10 mg/ml syrup]
+
+(all sentences already above)
 
 [Vimpat 10 mg/ml solution for infusion]
 
@@ -133,7 +135,7 @@ These reactions are variable in expression but typically present with fever and 
 | Nervous system disorders | Dizziness Headache | Myoclonic seizures(3) Ataxia Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope(2) Coordination abnormal Dyskinesia | Convulsion |
 | Eye disorders | Diplopia | Vision blurred |  |  |
 | Ear and labyrinth disorders |  | Vertigo Tinnitus |  |  |
-| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) A(1,2tr) ial Fibrillation Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1) |
+| Cardiac disorders |  |  | Atrioventricular block(1,2) Bradycardia(1,2) Atrial Fibrillation (1,2) Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1) |
 | Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea |  |  |
 | Hepatobiliary disorders |  |  | Liver function test abnormal(2) Hepatic enzyme increased (> 2x ULN) (1) |  |
 | Skin and subcutaneous tissue disorders |  | Pruritus Rash(1) | Angioedema(1) Urticaria(1) | Stevens-Johnson syndrome(1) Toxic epidermal necrolysis(1) |

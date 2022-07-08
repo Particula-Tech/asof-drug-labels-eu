@@ -21,10 +21,9 @@ If women decide to become pregnant, the use of this product should be carefully 
 
 Breastfeeding
 
-It is unknown whether lacosamide is excreted in human breast milk.
+Lacosamide is excreted in human breast milk.
 A risk to the newborns/infants cannot be excluded.
-Animal studies have shown excretion of lacosamide in breast milk.
-For precautionary measures, breast-feeding should be discontinued during treatment with lacosamide.
+It is recommended that breast-feeding should be discontinued during treatment with lacosamide.
 Fertility
 
 No adverse reactions on male or female fertility or reproduction were observed in rats at doses producing plasma exposures (AUC) up to approximately 2 times the plasma AUC in humans at the maximum recommended human dose (MRHD).
