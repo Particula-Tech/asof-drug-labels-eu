@@ -8,7 +8,7 @@ Herceptin intravenous formulation is not intended for subcutaneous administratio
 
 Switching treatment between Herceptin intravenous and Herceptin subcutaneous formulations and vice versa, using the three-weekly (q3w) dosing regimen, was investigated in study MO22982 (see section 4.8).
 
-In order to prevent medication errors it is important to check the vial labels to ensure that the drug being prepared and administered is Herceptin (trastuzumab) and not Kadcyla (trastuzumab emtansine).
+In order to prevent medication errors it is important to check the vial labels to ensure that the drug being prepared and administered is Herceptin (trastuzumab) and not another trastuzumab-containing product (e.g. trastuzumab emtansine or trastuzumab deruxtecan).
 
 Posology
 
@@ -120,6 +120,6 @@ The 600 mg dose should be administered as a subcutaneous injection only over 2-5
 The injection site should be alternated between the left and right thigh.
 New injections should be given at least 2.5 cm from the old site and never into areas where the skin is red, bruised, tender, or hard.
 During the treatment course with Herceptin subcutaneous formulation other medicinal products for subcutaneous administration should preferably be injected at different sites.
-Patients should be observed for six hours after the first injection and for two hours after subsequent injections for signs or symptoms of administration-related reactions (see sections 4.4 and 4.8).
+Patients should be observed for 30 minutes after the first injection and for 15 minutes after subsequent injections for signs or symptoms of administration-related reactions (see sections 4.4 and 4.8).
 
 For instructions on use and handling of Herceptin subcutaneous formulation refer to section 6.6.

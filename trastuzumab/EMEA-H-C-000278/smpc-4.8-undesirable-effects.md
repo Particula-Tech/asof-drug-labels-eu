@@ -99,8 +99,8 @@ Table 1 Undesirable Effects Reported with Intravenous Herceptin Monotherapy or i
 |  | Orthopnoea | Not known |
 |  | Pulmonary oedema | Not known |
 |  | Interstitial lung disease | Not known |
-|  | Diarrhoea | Very common |
-| Gastrointestinal disorders | Vomiting | Very common |
+| Gastrointestinal disorders | Diarrhoea | Very common |
+|  | Vomiting | Very common |
 |  | Nausea | Very common |
 |  | 1 Lip swelling | Very common |
 |  | Abdominal pain | Very common |
@@ -109,12 +109,12 @@ Table 1 Undesirable Effects Reported with Intravenous Herceptin Monotherapy or i
 |  | Stomatitis | Very common |
 |  | Haemorrhoids | Common |
 |  | Dry mouth | Common |
-|  | Hepatocellular injury | Common |
-| Hepatobiliary disorders | Hepatitis | Common |
+| Hepatobiliary disorders | Hepatocellular injury | Common |
+|  | Hepatitis | Common |
 |  | Liver tenderness | Common |
 |  | Jaundice | Rare |
-|  | Erythema | Very common |
-| Skin and subcutaneous tissue disorders | Rash | Very common |
+| Skin and subcutaneous tissue disorders | Erythema | Very common |
+|  | Rash | Very common |
 |  | 1 Swelling face | Very common |
 |  | Alopecia | Very common |
 |  | Nail disorder | Very common |
@@ -129,8 +129,8 @@ Table 1 Undesirable Effects Reported with Intravenous Herceptin Monotherapy or i
 |  | Dermatitis | Common |
 |  | Urticaria | Uncommon |
 |  | Angioedema | Not known |
-|  | Arthralgia | Very common |
-| Musculoskeletal and connective tissue disorders | 1Muscle tightness | Very common |
+| Musculoskeletal and connective tissue disorders | Arthralgia | Very common |
+|  | 1Muscle tightness | Very common |
 |  | Myalgia | Very common |
 |  | Arthritis | Common |
 |  | Back pain | Common |
@@ -138,16 +138,16 @@ Table 1 Undesirable Effects Reported with Intravenous Herceptin Monotherapy or i
 |  | Muscle spasms | Common |
 |  | Neck Pain | Common |
 |  | Pain in extremity | Common |
-|  | Renal disorder | Common |
-| Renal and urinary disorders | Glomerulonephritis membranous | Not known |
+| Renal and urinary disorders | Renal disorder | Common |
+|  | Glomerulonephritis membranous | Not known |
 |  | Glomerulonephropathy | Not known |
 |  | Renal failure | Not known |
-|  | Oligohydramnios | Not known |
-| Pregnancy, puerperium and perinatal conditions | Renal hypoplasia | Not known |
+| Pregnancy, puerperium and perinatal conditions | Oligohydramnios | Not known |
+|  | Renal hypoplasia | Not known |
 |  | Pulmonary hypoplasia | Not known |
-|  | Breast inflammation/mastitis | Common |
-| Reproductive system and breast disorders | Asthenia | Very common |
-| General disorders and administration site conditions | Chest pain | Very common |
+| Reproductive system and breast disorders | Breast inflammation/mastitis | Common |
+| General disorders and administration site conditions | Asthenia | Very common |
+|  | Chest pain | Very common |
 |  | Chills | Very common |
 |  | Fatigue | Very common |
 |  | Influenza-like symptoms | Very common |
@@ -158,8 +158,7 @@ Table 1 Undesirable Effects Reported with Intravenous Herceptin Monotherapy or i
 |  | Peripheral oedema | Very common |
 |  | Malaise | Common |
 |  | Oedema | Common |
-|  | Contusion | Common |
-| Injury, poisoning and procedural complications |  |  |
+| Injury, poisoning and procedural complications | Contusion | Common |
 
 + Denotes adverse reactions that have been reported in association with a fatal outcome.
 1 Denotes adverse reactions that are reported largely in association with Infusion-related reactions.
@@ -224,7 +223,6 @@ The clinical relevance of these antibodies is not known.
 The presence of anti-trastuzumab antibodies had no impact on pharmacokinetics, efficacy (determined by pathological Complete Response [pCR] and event free survival [EFS]) and safety determined by occurrence of administration related reactions (ARRs) of Herceptin intravenous.
 
 There are no immunogenicity data available for Herceptin in gastric cancer.
-
 Switching treatment between Herceptin intravenous and Herceptin subcutaneous formulation and vice versa
 
 Study MO22982 investigated switching between the Herceptin intravenous and Herceptin subcutaneous formulation with a primary objective to evaluate patient preference for either intravenous or the subcutaneous route of trastuzumab administration.
@@ -245,7 +243,6 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 Amongst the most serious and/or common adverse reactions reported in Herceptin usage (intravenous and subcutaneous formulations) to date are cardiac dysfunction, administration-related reactions, haematotoxicity (in particular neutropenia), infections and pulmonary adverse reactions.
 
 The safety profile of Herceptin subcutaneous formulation (evaluated in 298 and 297 patients treated with the intravenous and subcutaneous formulations respectively) from the pivotal trial in EBC was overall similar to the known safety profile of the intravenous formulation.
-
 Severe adverse events (defined according to National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE grade ≥3) version 3.0) were equally distributed between both Herceptin formulations (52.3 % versus 53.5 % in the intravenous formulation versus subcutaneous formulation respectively).
 
 Some adverse events / reactions were reported with a higher frequency for the subcutaneous formulation:
@@ -286,7 +283,6 @@ The local reactions included erythema, pruritus, oedema, rash and pain at the si
 Infections
 
 The rate of severe infections (NCI CTCAE grade ≥3) was 5.0 % versus 7.1 %, in the Herceptin intravenous formulation arm and the Herceptin subcutaneous formulation arm respectively.
-
 The rate of serious infections (most of which were identified because of in-patient hospitalisation or prolongation of existing hospitalisation) was 4.4 % in the Herceptin intravenous formulation arm and 8.1 % in the Herceptin subcutaneous formulation arm.
 The difference between formulations was mainly observed during the adjuvant treatment phase (monotherapy) and was mainly due to postoperative wound infections, but also to various other infections such as respiratory tract infections, acute pyelonephritis and sepsis.
 They resolved within a mean of 13 days in the Herceptin intravenous treatment arm and a mean of 17 days in the Herceptin subcutaneous treatment arm.

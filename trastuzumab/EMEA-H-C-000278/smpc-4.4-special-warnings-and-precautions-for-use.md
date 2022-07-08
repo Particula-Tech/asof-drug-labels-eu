@@ -137,11 +137,15 @@ Administration-related reactions (ARRs) are known to occur with Herceptin subcut
 Pre-medication may be used to reduce risk of occurrence of ARRs.
 
 Although serious ARRs, including dyspnoea, hypotension, wheezing, bronchospasm, tachycardia, reduced oxygen saturation and respiratory distress, were not reported in the clinical trial with the Herceptin subcutaneous formulation, caution should be exercised as these have been associated with the intravenous formulation.
-Patients should be observed for ARRs for six hours after the first injection and for two hours after subsequent injections.
-They can be treated with an analgesic/antipyretic such as meperidine or paracetamol, or an antihistamine such as diphenhydramine.
+Patients should be observed for ARRs for 30 minutes after the first injection and for 15 minutes after subsequent injections.
+ARRs considered mild in severity can be treated with an analgesic/antipyretic such as meperidine or paracetamol, or an antihistamine such as diphenhydramine.
 Serious reactions to intravenous Herceptin have been treated successfully with supportive therapy such as oxygen, beta-agonists, and corticosteroids.
 In rare cases, these reactions were associated with a clinical course culminating in a fatal outcome.
 Patients experiencing dyspnoea at rest due to complications of advanced malignancy and comorbidities may be at increased risk of a fatal ARR.
 
 Caution is recommended with Herceptin subcutaneous formulation as severe pulmonary events have been reported with the use of the intravenous formulation in the post-marketing setting (see section 4.8).
 These events have occasionally been fatal and may occur as part of an infusion-related reaction or with delayed onset.
+
+Sodium
+
+Herceptin contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially sodium-free.

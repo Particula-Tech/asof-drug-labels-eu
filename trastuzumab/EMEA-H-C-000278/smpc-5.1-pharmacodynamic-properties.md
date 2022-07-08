@@ -59,6 +59,7 @@ In the ToGA (BO18255) trial, patients whose tumours were either IHC3+ or FISH po
 Based on the clinical trial results, the beneficial effects were limited to patients with the highest level of HER2 protein overexpression, defined by a 3+ score by IHC, or a 2+ score by IHC and a positive FISH result.
 
 In a method comparison study (study D008548) a high degree of concordance (>95 %) was observed for SISH and FISH techniques for the detection of HER2 gene amplification in gastric cancer patients.
+
 HER2 over expression should be detected using an immunohistochemistry (IHC)-based assessment of fixed tumour blocks; HER2 gene amplification should be detected using in situ hybridisation using either SISH or FISH on fixed tumour blocks.
 
 The recommended scoring system to evaluate the IHC staining patterns is as stated in Table 3:
@@ -129,6 +130,7 @@ For the other parameters the improvements seen for the combination were for over
 For time to response and duration of response no difference could be recorded between the arms.
 The median overall survival was extended by 4.6 months for patients in the combination arm.
 The difference was not statistically significant, however more than half of the patients in the anastrozole alone arm crossed over to a Herceptin containing regimen after progression of disease.
+
 Three -weekly dosing in metastatic breast cancer
 
 The efficacy results from the non-comparative monotherapy and combination therapy studies are summarised in Table 5:
@@ -168,6 +170,7 @@ In the adjuvant treatment setting, Herceptin was investigated in 4 large multice
 - The BCIRG 006 study was designed to investigate combining Herceptin treatment with docetaxel either following AC chemotherapy or in combination with docetaxel and carboplatin in patients with HER2 positive EBC following surgery.
 
 Early breast cancer in the HERA trial was limited to operable, primary, invasive adenocarcinoma of the breast, with axillary nodes positive or axillary nodes negative if tumors at least 1 cm in diameter.
+
 In the joint analysis of the NSABP B-31 and NCCTG N9831 studies, EBC was limited to women with operable breast cancer at high risk, defined as HER2-positive and axillary lymph node positive or HER2 positive and lymph node negative with high risk features (tumor size > 1 cm and ER negative or tumor size > 2 cm, regardless of hormonal status).
 
 In the BCIRG 006 study HER2 positive, EBC was defined as either lymph node positive or high risk node negative patients with no (pN0) lymph node involvement, and at least 1 of the following factors: tumour size greater than 2 cm, estrogen receptor and progesterone receptor negative, histological and/or nuclear grade 2-3, or age < 35 years).
@@ -193,6 +196,7 @@ After a median follow-up of 12 months, the hazard ratio (HR) for disease free su
 
 A final analysis was performed after a median follow-up of 8 years, which showed that 1 year Herceptin treatment is associated with a 24 % risk reduction compared to observation only (HR=0.76, 95 % CI 0.67, 0.86).
 This translates into an absolute benefit in terms of an 8 year disease free survival rate of 6.4 percentage points in favour of 1 year Herceptin treatment.
+
 In this final analysis, extending Herceptin treatment for a duration of two years did not show additional benefit over treatment for 1 year [DFS HR in the intent to treat (ITT) population of 2 years versus 1 year=0.99 (95 % CI: 0.87, 1.13), p-value=0.90 and OS HR=0.98 (0.83, 1.15); p-value= 0.78].
 The rate of asymptomatic cardiac dysfunction was increased in the 2-year treatment arm (8.1 % versus 4.6 % in the 1-year treatment arm).
 More patients experienced at least one grade 3 or 4 adverse event in the 2-year treatment arm (20.4 %) compared with the 1-year treatment arm (16.3 %).
@@ -214,7 +218,6 @@ or
 
 The efficacy results from the joint analysis of the NSABP B-31 and NCCTG 9831 trials at the time of the definitive analysis of DFS* are summarized in Table 7.
 The median duration of follow up was 1.8 years for the patients in the AC→P arm and 2.0 years for patients in the AC→PH arm.
-
 Table 7 Summary of Efficacy results from the joint analysis of the NSABP B-31 and NCCTG N9831 trials at the time of the definitive DFS analysis*
 
 | Parameter | AC→P (n=1679) | AC→PH (n=1672) | Hazard Ratio vs AC→P (95% CI) p-value |
@@ -227,6 +230,7 @@ A: doxorubicin; C: cyclophosphamide; P: paclitaxel; H: trastuzumab
 
 For the primary endpoint, DFS, the addition of Herceptin to paclitaxel chemotherapy resulted in a 52 % decrease in the risk of disease recurrence.
 The hazard ratio translates into an absolute benefit, in terms of 3-year disease-free survival rate estimates of 11.8 percentage points (87.2 % versus 75.4 %) in favour of the AC→PH (Herceptin) arm.
+
 At the time of a safety update after a median of 3.5-3.8 years follow up, an analysis of DFS reconfirms the magnitude of the benefit shown in the definitive analysis of DFS.
 Despite the cross-over to Herceptin in the control arm, the addition of Herceptin to paclitaxel chemotherapy resulted in a 52 % decrease in the risk of disease recurrence.
 The addition of Herceptin to paclitaxel chemotherapy also resulted in a 37 % decrease in the risk of death.
@@ -267,6 +271,7 @@ Herceptin was administered weekly with chemotherapy and 3 weekly thereafter for 
 
 The efficacy results from the BCIRG 006 are summarized in Tables 9 and 10.
 The median duration of follow up was 2.9 years in the AC→D arm and 3.0 years in each of the AC→DH and DCarbH arms.
+
 Table 9 Overview of Efficacy Analyses BCIRG 006 AC→D versus AC→DH
 
 | Parameter | AC→D (n=1073) | AC→DH (n=1074) | Hazard Ratio vs AC→D (95 % CI) p-value |
@@ -276,7 +281,6 @@ Table 9 Overview of Efficacy Analyses BCIRG 006 AC→D versus AC→DH
 | Death (OS event) No. patients with event | 80 | 49 | 0.58 (0.40, 0.83) p=0.0024 |
 
 AC→D = doxorubicin plus cyclophosphamide, followed by docetaxel; AC→DH = doxorubicin plus cyclophosphamide, followed by docetaxel plus trastuzumab; CI = confidence interval
-
 Table 10 Overview of Efficacy Analyses BCIRG 006 AC→D versus DCarbH
 
 | Parameter | AC→D (n=1073) | DCarbH (n=1074) | Hazard Ratio vs AC→D (95 % CI) |
