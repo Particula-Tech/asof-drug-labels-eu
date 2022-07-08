@@ -94,5 +94,4 @@ In Studies 204, 207 and 209, the relative change in FEV1 percent predicted from 
 Efficacy was not evaluated in the 14 children with CF (≥ 6 to < 12 years old) and 13 adolescents with CF
 (≥ 12 to < 17 years old) who participated in Study 206.
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Quinsair in one or more subsets of the paediatric population in cystic fibrosis patients with
-P. aeruginosa pulmonary infection/colonisation (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with Quinsair in all subsets of the paediatric population in cystic fibrosis (see section 4.2 for information on paediatric use).
