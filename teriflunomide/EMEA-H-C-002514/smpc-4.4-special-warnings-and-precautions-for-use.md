@@ -12,13 +12,13 @@ Before starting treatment with teriflunomide the following should be assessed:
 During treatment
 During treatment with teriflunomide the following should be monitored:
 
-- Blood pressure
-  - Check periodically
-- Alanine aminotransferase/serum glutamic pyruvic transaminase (ALT/SGPT)
-  - Liver enzymes should be assessed at least every four weeks during the first 6 months of treatment and regularly thereafter.
-  - Consider additional monitoring when AUBAGIO is given in patients with pre-existing liver disorders, given with other potentially hepatotoxic drugs or as indicated by clinical signs and symptoms such as unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine.
-    Liver enzymes should be assessed every two weeks during the first 6 months of treatment, and at least every 8 weeks thereafter for at least 2 years from initiation of treatment.
-  - For ALT (SGPT) elevations between 2- and 3-fold the upper limit of normal, monitoring must be performed weekly.
+- Blood pressure o Check periodically
+- Alanine aminotransferase/serum glutamic pyruvic transaminase (ALT/SGPT) o Liver enzymes should be assessed at least every four weeks during the first 6 months of treatment and regularly thereafter.
+
+o Consider additional monitoring when AUBAGIO is given in patients with pre-existing liver disorders, given with other potentially hepatotoxic drugs or as indicated by clinical signs and symptoms such as unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine.
+Liver enzymes should be assessed every two weeks during the first 6 months of treatment, and at least every 8 weeks thereafter for at least 2 years from initiation of treatment.
+o For ALT (SGPT) elevations between 2- and 3-fold the upper limit of normal, monitoring must be performed weekly.
+
 - Complete blood cell counts should be performed based on clinical signs and symptoms (e.g. infections) during treatment.
 
 Accelerated elimination procedure
