@@ -32,6 +32,7 @@ The following adverse reactions have been identified in the placebo-controlled c
 None were found to be dose-related.
 Adverse reactions listed below are classified according to frequency and system organ class (SOC).
 Frequency categories are defined according to the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), and not known (cannot be estimated from the available data).
+
 Table 1.
 Adverse reactions in placebo-controlled clinical studiesa and postmarketing experience
 
@@ -43,7 +44,7 @@ Adverse reactions in placebo-controlled clinical studiesa and postmarketing expe
 | Gastrointestinal disorders |  |  | Constipation** Dry mouth** |  |  |
 | Skin and subcutaneous tissue disorders |  | Rashj |  |  | Angioedema |
 | Musculoskeletal and connective tissue disorders |  | Back pain* |  |  |  |
-| Renal and urinary disorders |  | Dysuria Polyuria*,f | Nocturia** |  |  |
+| Renal and urinary disorders |  | Dysuria Polyuria*,f | Nocturia** |  | Tubulointerstitial nephritis |
 | Reproductive system and breast disorders |  |  | Vulvovaginal pruritus** Pruritus genital** |  |  |
 | Investigations |  | Haematocrit increasedg Creatinine renal clearance decreased during initial treatmentb Dyslipidaemiah | Blood creatinine increased during initial treatment**,b Blood urea increased** Weight decreased** |  |  |
 
@@ -122,7 +123,6 @@ Results were similar irrespective of presence of diabetes at baseline and baseli
 In the DAPA-CKD study, the numbers of patients with events suggestive of volume depletion were 120 (5.6%) in the dapagliflozin group and 84 (3.9%) in the placebo group.
 There were
 16 (0.7%) patients with serious events of symptoms suggestive of volume depletion in the dapagliflozin group and 15 (0.7%) patients in the placebo group.
-
 Diabetic ketoacidosis in type 2 diabetes mellitus
 In the DECLARE study, with a median exposure time of 48 months, events of DKA were reported in 27 patients in the dapagliflozin 10 mg group and 12 patients in the placebo group.
 The events occurred evenly distributed over the study period.
@@ -158,7 +158,6 @@ The increases in creatinine were generally transient during continuous treatment
 
 In the DECLARE study, including elderly patients and patients with renal impairment (eGFR less than 60 mL/min/1.73 m2), eGFR decreased over time in both treatment groups.
 At 1 year, mean eGFR was slightly lower, and at 4 years, mean eGFR was slightly higher in the dapagliflozin group compared with the placebo group.
-
 In the DAPA-HF study, eGFR decreased over time in both the dapagliflozin group and the placebo group.
 The initial decrease in mean eGFR was -4.3 mL/min/1.73 m2 in the dapagliflozin group and -1.1 mL/min/1.73 m2 in the placebo group.
 At 20 months, change from baseline in eGFR was similar between the treatment groups: -5.3 mL/min/1.73 m2 for dapagliflozin and -4.5 mL/min/1.73 m2 for placebo.

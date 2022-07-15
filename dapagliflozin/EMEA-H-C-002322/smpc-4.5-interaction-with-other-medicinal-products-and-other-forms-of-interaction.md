@@ -29,6 +29,10 @@ No dose adjustment is recommended.
 
 Effect of dapagliflozin on other medicinal products
 
+Dapagliflozin may increase renal lithium excretion and the blood lithium levels may be decreased.
+Serum concentration of lithium should be monitored more frequently after dapagliflozin initiation and dose changes.
+Please refer the patient to the lithium prescribing doctor in order to monitor serum concentration of lithium.
+
 In interaction studies conducted in healthy subjects, using mainly a single-dose design, dapagliflozin did not alter the pharmacokinetics of metformin, pioglitazone, sitagliptin, glimepiride, hydrochlorothiazide, bumetanide, valsartan, digoxin (a P-gp substrate) or warfarin (S-warfarin, a CYP2C9 substrate), or the anticoagulatory effects of warfarin as measured by INR.
 Combination of a single dose of dapagliflozin 20 mg and simvastatin (a CYP3A4 substrate) resulted in a 19% increase in AUC of simvastatin and 31% increase in AUC of simvastatin acid.
 The increase in simvastatin and simvastatin acid exposures are not considered clinically relevant.
