@@ -1,6 +1,7 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Ibrutinib is primarily metabolised by cytochrome P450 enzyme 3A4 (CYP3A4).
+
 Agents that may increase ibrutinib plasma concentrations
 Concomitant use of IMBRUVICA and medicinal products that strongly or moderately inhibit CYP3A4 can increase ibrutinib exposure and strong CYP3A4 inhibitors should be avoided.
 
@@ -8,7 +9,7 @@ Strong CYP3A4 inhibitors
 Co-administration of ketoconazole, a very strong CYP3A4 inhibitor, in 18 fasted healthy subjects, increased exposure (Cmax and AUC) of ibrutinib by 29- and 24-fold, respectively.
 Simulations using fasted conditions suggested that the strong CYP3A4 inhibitor clarithromycin may increase the AUC of ibrutinib by a factor of 14.
 In patients with B-cell malignancies taking IMBRUVICA with food, co-administration of the strong CYP3A4 inhibitor voriconazole increased Cmax by 6.7-fold and AUC by 5.7-fold.
-Strong inhibitors of CYP3A4 (e.g., ketoconazole, indinavir, nelfinavir, ritonavir, saquinavir, clarithromycin, telithromycin, itraconazole, nefazodon, cobicistat, voriconazole and posaconazole) should be avoided.
+Strong inhibitors of CYP3A4 (e.g., ketoconazole, indinavir, nelfinavir, ritonavir, saquinavir, clarithromycin, telithromycin, itraconazole, nefazodone, cobicistat, voriconazole and posaconazole) should be avoided.
 If the benefit outweighs the risk and a strong CYP3A4 inhibitor must be used, reduce the IMBRUVICA dose to 140 mg (one capsule) for the duration of the inhibitor use or withhold IMBRUVICA temporarily (for 7 days or less).
 Monitor patient closely for toxicity and follow dose modification guidance as needed (see sections 4.2 and 4.4).
 
@@ -38,11 +39,14 @@ Mild inducers may be used concomitantly with IMBRUVICA, however, patients should
 Ibrutinib has a pH dependent solubility, with lower solubility at higher pH.
 A lower Cmax was observed in fasted healthy subjects administered a single 560 mg dose of ibrutinib after taking omeprazole at 40 mg once daily for 5 days (see section 5.2).
 There is no evidence that the lower Cmax would have clinical significance, and medicinal products that increase stomach pH (e.g., proton pump inhibitors) have been used without restrictions in the pivotal clinical studies.
+
 Agents that may have their plasma concentrations altered by ibrutinib
 Ibrutinib is a P-gp and breast cancer resistance protein (BCRP) inhibitor in vitro.
 As no clinical data are available on this interaction, it cannot be excluded that ibrutinib could inhibit intestinal P-gp and BCRP after a therapeutic dose.
 To minimise the potential for an interaction in the GI tract, oral narrow therapeutic range, P-gp or BCRP substrates such as digoxin or methotrexate should be taken at least 6 hours before or after IMBRUVICA.
 Ibrutinib may also inhibit BCRP in the liver and increase the exposure of medicinal products that undergo BCRP-mediated hepatic efflux, such as rosuvastatin.
+
+In studies of ibrutinib (420 mg) in combination with venetoclax (400 mg) in CLL patients, an increase in venetoclax exposure (approximately 1.8-fold based on AUC) was observed compared with monotherapy data for venetoclax.
 
 In a drug interaction study in patients with B-cell malignancies, a single 560 mg dose of ibrutinib did not have a clinically meaningful effect on the exposure of the CYP3A4 substrate midazolam.
 In the same study, 2 weeks of treatment with ibrutinib at 560 mg daily had no clinically relevant effect on the pharmacokinetics of oral contraceptives (ethinylestradiol and levonorgestrel), the CYP3A4 substrate midazolam, nor the CYP2B6 substrate bupropion.

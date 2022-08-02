@@ -12,7 +12,7 @@ Pancreatic findings partially recovered during comparable reversal periods.
 Juvenile toxicity studies have not been conducted.
 
 Carcinogenicity/genotoxicity
-Ibrutinib was not carcinogenic in a 6-month study in the transgenic (Tg.rasH2) mouse at oral doses up to 2000 mg/kg/day with an exposure margin of approximately 23 (males) to 37 (females) times the human AUC of ibrutinib at a dose of 560 mg daily.
+Ibrutinib was not carcinogenic in a 6-month study in the transgenic (Tg.rasH2) mouse at oral doses up to 2,000 mg/kg/day with an exposure margin of approximately 23 (males) to 37 (females) times the human AUC of ibrutinib at a dose of 560 mg daily.
 Ibrutinib has no genotoxic properties when tested in bacteria, mammalian cells or in mice.
 
 Reproductive toxicity

@@ -29,7 +29,6 @@ Splenic rupture
 Cases of splenic rupture have been reported following discontinuation of IMBRUVICA treatment.
 Disease status and spleen size should be carefully monitored (e.g. clinical examination, ultrasound) when IMBRUVICA treatment is interrupted or ceased.
 Patients who develop left upper abdominal or shoulder tip pain should be evaluated and a diagnosis of splenic rupture should be considered.
-
 Infections
 Infections (including sepsis, neutropenic sepsis, bacterial, viral, or fungal infections) were observed in patients treated with IMBRUVICA.
 Some of these infections have been associated with hospitalisation and death.
@@ -63,17 +62,22 @@ Monitor patients for pulmonary symptoms indicative of ILD.
 If symptoms develop, interrupt IMBRUVICA and manage ILD appropriately.
 If symptoms persist, consider the risks and benefits of IMBRUVICA treatment and follow the dose modification guidelines.
 
-Cardiac arrhythmia and cardiac failure
-Atrial fibrillation, atrial flutter, and cases of ventricular tachyarrhythmia and cardiac failure have been reported in patients treated with IMBRUVICA.
-Cases of atrial fibrillation and atrial flutter have been reported particularly in patients with cardiac risk factors, hypertension, acute infections, and a previous history of atrial fibrillation.
-Periodically monitor all patients clinically for cardiac manifestations, including cardiac arrhythmia and cardiac failure.
-Patients who develop arrhythmic symptoms or new onset of dyspnoea, dizziness or fainting should be evaluated clinically and if indicated have an electrocardiogram (ECG) performed.
+Cardiac arrhythmias and cardiac failure
+Fatal and serious cardiac arrhythmias and cardiac failure have occurred in patients treated with IMBRUVICA.
+Patients with advanced age, Eastern Cooperative Oncology Group (ECOG) performance status ≥2, or cardiac co-morbidities may be at greater risk of events including sudden fatal cardiac events.
+Atrial fibrillation, atrial flutter, ventricular tachyarrhythmia and cardiac failure have been reported, particularly in patients with acute infections or cardiac risk factors including hypertension, diabetes mellitus, and a previous history of cardiac arrhythmia.
 
+Appropriate clinical evaluation of cardiac history and function should be performed prior to initiating IMBRUVICA.
+Patients should be carefully monitored during treatment for signs of clinical deterioration of cardiac function and clinically managed.
+Consider further evaluation (e.g., ECG, echocardiogram), as indicated for patients in whom there are cardiovascular concerns.
+
+For patients with relevant risk factors for cardiac events, carefully assess benefit/risk before initiating treatment with IMBRUVICA; alternative treatment may be considered.
 In patients who develop signs and/or symptoms of ventricular tachyarrhythmia, IMBRUVICA should be temporarily discontinued and a thorough clinical benefit/risk assessment should be performed before possibly restarting therapy.
 
 In patients with preexisting atrial fibrillation requiring anticoagulant therapy, alternative treatment options to IMBRUVICA should be considered.
 In patients who develop atrial fibrillation on therapy with IMBRUVICA a thorough assessment of the risk for thromboembolic disease should be undertaken.
 In patients at high risk and where alternatives to IMBRUVICA are non-suitable, tightly controlled treatment with anticoagulants should be considered.
+
 Patients should be monitored for signs and symptoms of cardiac failure during IMBRUVICA treatment.
 In some of these cases cardiac failure resolved or improved after IMBRUVICA withdrawal or dose reduction.
 
@@ -82,7 +86,7 @@ Cases of cerebrovascular accident, transient ischaemic attack and ischaemic stro
 Among cases with reported latency, the initiation of treatment with IMBRUVICA to the onset of ischaemic central nervous vascular conditions was in the most cases after several months (more than 1 month in 78% and more than 6 months in 44% of cases) emphasising the need for regular monitoring of patients (please see section 4.4 Cardiac arrhythmia and Hypertension and section 4.8).
 
 Tumour lysis syndrome
-Tumour lysis syndrome has been reported with IMBRUVICA therapy.
+Tumour lysis syndrome (TLS) has been reported with IMBRUVICA therapy.
 Patients at risk of tumour lysis syndrome are those with high tumour burden prior to treatment.
 Monitor patients closely and take appropriate precautions.
 
@@ -107,7 +111,6 @@ On the contrary, co-administration of CYP3A4 inducers may lead to decreased IMBR
 Therefore, concomitant use of IMBRUVICA with strong CYP3A4 inhibitors and strong or moderate CYP3A4 inducers should be avoided whenever possible and co-administration should only be considered when the potential benefits clearly outweigh the potential risks.
 Patients should be closely monitored for signs of IMBRUVICA toxicity if a CYP3A4 inhibitor must be used (see sections 4.2 and 4.5).
 If a CYP3A4 inducer must be used, closely monitor patients for signs of IMBRUVICA lack of efficacy.
-
 Women of childbearing potential
 Women of childbearing potential must use a highly effective method of contraception while taking IMBRUVICA (see section 4.6).
 
