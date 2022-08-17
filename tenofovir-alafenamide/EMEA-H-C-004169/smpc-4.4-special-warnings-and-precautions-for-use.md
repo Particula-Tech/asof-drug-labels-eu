@@ -37,6 +37,7 @@ The use of this medicinal product is not recommended in patients with CrCl < 15 
 
 Nephrotoxicity
 
+Post-marketing cases of renal impairment, including acute renal failure and proximal renal tubulopathy have been reported with tenofovir alafenamide-containing products.
 A potential risk of nephrotoxicity resulting from chronic exposure to low levels of tenofovir due to dosing with tenofovir alafenamide cannot be excluded (see section 5.3).
 
 It is recommended that renal function is assessed in all patients prior to, or when initiating, therapy with this treatment and that it is also monitored during therapy in all patients as clinically appropriate.
