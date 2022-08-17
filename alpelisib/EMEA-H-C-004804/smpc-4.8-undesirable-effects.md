@@ -9,7 +9,6 @@ The most common ADRs (reported at a frequency >20% in the combined mutant and no
 The most common grade 3 or 4 ADRs (reported at a frequency ≥2%) were plasma glucose increased (39.1%), rash (19.4%), gamma-glutamyltransferase increased (12.0%), lymphocyte count decreased (9.2%), diarrhoea (7.0%), lipase increased (7.0%), hypokalaemia (6.3%), fatigue (5.6%), weight decreased (5.3%), anaemia (4.9%), hypertension (4.6%), alanine aminotransferase increased (4.2%), nausea (2.8%), creatinine increased (2.8%), stomatitis (2.5%), hypocalcaemia (2.1%) and mucosal inflammation (2.1%).
 
 The most common ADRs leading to treatment discontinuation were hyperglycaemia (6.3%), rash (4.2%), diarrhoea (2.8%) and fatigue (2.5%).
-
 Tabulated list of adverse reactions
 
 ADRs from the phase III clinical study and post-marketing experience (Table 7) are listed by MedDRA system organ class.
@@ -63,6 +62,7 @@ Table 7 ADRs observed in phase III clinical study and during post-marketing expe
 | Gingival pain | Common | 9 (3.2) |  |
 | Cheilitis | Common | 8 (2.8) |  |
 | Pancreatitis | Uncommon | 1 (0.4) | 1 (0.4) |
+| Colitis# | Not known | Not known | Not known |
 | Skin and subcutaneous tissue disorders |  |  |  |
 | Rash7 | Very common | 147 (51.8) | 55 (19.4)* |
 | Alopecia | Very common | 58 (20.4) |  |
@@ -74,6 +74,7 @@ Table 7 ADRs observed in phase III clinical study and during post-marketing expe
 | Erythema multiforme | Common | 3 (1.1) | 2 (0.7)* |
 | Stevens-Johnson syndrome | Uncommon | 1 (0.4) | 1 (0.4)* |
 | Drug reaction with eosinophilia and systemic symptoms (DRESS)# | Not known | Not known | Not known |
+| Angioedema# | Not known | Not known | Not known |
 | Musculoskeletal and connective tissue disorders |  |  |  |
 | Muscle spasms | Common | 22 (7.7) |  |
 | Myalgia | Common | 19 (6.7) | 1 (0.4)* |

@@ -5,7 +5,7 @@ Medicinal products that may increase alpelisib plasma concentrations
 BCRP inhibitors
 Alpelisib is a substrate for BCRP in vitro.
 BCRP is involved in the hepatobiliary export and intestinal secretion of alpelisib, therefore inhibition of BCRP in the liver and in the intestine during elimination may lead to an increase in systemic exposure of alpelisib.
-Therefore, caution and monitoring for toxicity are advised during concomitant treatment with inhibibitors of BCRP (e.g. eltrombopag, lapatinib, pantoprazole).
+Therefore, caution and monitoring for toxicity are advised during concomitant treatment with inhibitors of BCRP (e.g. eltrombopag, lapatinib, pantoprazole).
 
 Medicinal products that may decrease alpelisib plasma concentrations
 
@@ -15,13 +15,12 @@ In the presence of a low-fat low-calorie (LFLC) meal, AUCinf was decreased on av
 In the absence of food, the effect was more pronounced with a 30% decrease in AUCinf and a 51% decrease in Cmax with ranitidine compared to the fasted state without co-administration of ranitidine.
 Population pharmacokinetic analysis showed no significant effect of co-administration of acid-reducing agents, including proton pump inhibitors, H2 receptor antagonists and antacids, on the pharmacokinetics of alpelisib.
 Therefore, alpelisib can be co-administered with acid-reducing agents, provided alpelisib is taken immediately after food (see section 4.2).
+
 Medicinal products whose plasma concentrations may be altered by alpelisib
 
 Based on the results of metabolic in vitro induction and inhibition studies, alpelisib may induce the metabolic clearance of co-administered medicinal products metabolised by CYP2B6, CYP2C9 and CYP3A and may inhibit the metabolic clearance of co-administered medicinal products metabolised by CYP2C8, CYP2C9, CYP2C19 and CYP3A4 (time-dependent inhibition) if sufficiently high concentrations are achieved in vivo.
-
 CYP3A4 substrates
 No dose adjustment is required when co-administering Piqray with CYP3A4 substrates (e.g. everolimus, midazolam).
-
 In a drug-drug interaction study, co-administration of alpelisib with everolimus, a sensitive CYP3A4 substrate, confirmed that there are no clinically significant pharmacokinetic interactions (increase in AUC by 11.2%) between alpelisib and CYP3A4 substrates.
 No change in everolimus exposure was observed at alpelisib doses ranging from 250 to 300 mg.
 
