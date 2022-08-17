@@ -80,7 +80,9 @@ k Tenofovir alafenamide is converted to tenofovir in vivo.
 l Evaluated as an OATP substrate.
 m Evaluated as an BCRP substrate.
 n Evaluated as a CYP3A substrate.
-o Major active metabolite of midazolam.
+
+- Major active metabolite of midazolam.
+
 p Evaluated as a strong inhibitor of CYP3A.
 q This study was conducted using voriconazole 400 mg loading dose twice daily for a day, followed by 200 mg maintenance dose twice daily.
 

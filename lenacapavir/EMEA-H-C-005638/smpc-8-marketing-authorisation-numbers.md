@@ -1,7 +1,7 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/22/1671/02
+EU/1/22/1671/002
 
 [Sunlenca 300 mg film-coated tablets]
 
-EU/1/22/1671/01
+EU/1/22/1671/001
