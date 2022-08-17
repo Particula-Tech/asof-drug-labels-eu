@@ -6,7 +6,6 @@ The relative bioavailability is about 125% as compared to immediate-release cyst
 
 Food intake reduces the absorption of PROCYSBI at 30 minutes pre-dose (approximately 35% decrease in exposure) and at 30 min post-dose (approximately 16 or 45% decrease in exposure for intact and open capsules respectively).
 Food intake two hours after administration did not affect the absorption of PROCYSBI.
-
 Distribution
 
 The in vitro plasma protein binding of cysteamine, primarily to albumin, is approximately 54% and independent of plasma drug concentration over the therapeutic range.
@@ -15,7 +14,7 @@ Biotransformation
 
 The elimination of unchanged cysteamine in the urine has been shown to range between 0.3% and 1.7% of the total daily dose in four patients; the bulk of cysteamine is excreted as sulphate.
 
-In vitro data suggests that cysteamine bitartrate is likely to be metabolized by multiple CYP enzymes, including CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP2E1.
+In vitro data suggests that cysteamine bitartrate is likely to be metabolised by multiple CYP enzymes, including CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP2E1.
 CYP2A6 and CYP3A4 were not involved in the metabolism of cysteamine bitartrate under the experimental conditions.
 
 Elimination

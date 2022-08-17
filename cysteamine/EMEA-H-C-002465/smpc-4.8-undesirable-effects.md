@@ -10,8 +10,10 @@ The adverse reactions profile for healthy subjects was similar to the adverse re
 
 Tabulated list of adverse reactions
 
-The frequency of adverse reactions is defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000) and not known (cannot be estimated from available data).
+The frequency of adverse reactions is defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1 000 to <1/100); rare (≥1/10 000 to <1/1 000); very rare (<1/10 000) and not known (cannot be estimated from available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness:
+
+Table 2: Adverse reactions
 
 | MedDRA system organ class | Frequency: adverse reaction |
 | --- | --- |
@@ -55,6 +57,4 @@ Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
-
-listed in Appendix V.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

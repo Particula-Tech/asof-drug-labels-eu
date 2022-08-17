@@ -4,7 +4,6 @@ The use of doses higher than 1.95 g/m2/day is not recommended (see section 4.2).
 
 Oral cysteamine has not been shown to prevent eye deposition of cystine crystals.
 Therefore, where cysteamine ophthalmic solution is used for that purpose, its usage should continue.
-
 If a pregnancy is diagnosed or planned, the treatment should be carefully reconsidered and the patient must be advised of the possible teratogenic risk of cysteamine (see section 4.6).
 
 Intact capsules of PROCYSBI should not be administered to children under the age of approximately 6 years due to risk of aspiration (see section 4.2).
@@ -33,6 +32,7 @@ Central Nervous System (CNS)
 CNS symptoms such as seizures, lethargy, somnolence, depression, and encephalopathy have been associated with cysteamine.
 If CNS symptoms develop, the patient should be carefully evaluated and the dose adjusted as necessary.
 Patients should not engage in potentially hazardous activities until the effects of cysteamine on mental performance are known (see section 4.7).
+
 Leukopenia and abnormal liver function
 
 Cysteamine has occasionally been associated with reversible leukopenia and abnormal liver function.
@@ -43,6 +43,6 @@ Benign intracranial hypertension
 There have been reports of benign intracranial hypertension (or pseudotumor cerebri (PTC)) and/or papilledema associated with cysteamine bitartrate treatment that has resolved with the addition of diuretic therapy (post-marketing experience with the immediate-release cysteamine bitartrate).
 Physicians should instruct patients to report any of the following symptoms: headache, tinnitus, dizziness, nausea, diplopia, blurred vision, loss of vision, pain behind the eye or pain with eye movement.
 A periodic eye examination is needed to identify this condition early and timely treatment should be provided when it occurs to prevent vision loss.
+PROCYSBI contains sodium
 
-Important information about some of the excipients of PROCYSBI
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, i.e. essentially sodium-free.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially “sodium-free”.
