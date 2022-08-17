@@ -14,9 +14,9 @@ Similar effects have been observed in animal studies (see section 5.3).
 For these reasons MabThera should not be administered to pregnant women unless the possible benefit outweighs the potential risk.
 Breast-feeding
 
-Limited data on rituximab excretion into breast milk suggest very low milk levels (relative infant dose less than 0.4%).
-Few cases of follow-up of breastfed infants describe normal growth and development up to 1.5 years.
-However, as these data are limited and the long-term outcomes of breastfed infants remain unknown, breastfeeding is not recommended while being treated with rituximab and optimally for 12 months following rituximab treatment.
+Limited data on rituximab excretion into breast milk suggest very low rituximab concentrations in milk (relative infant dose less than 0.4%).
+Few cases of follow-up of breastfed infants describe normal growth and development up to 2 years.
+However, as these data are limited and the long-term outcomes of breastfed infants remain unknown, breast-feeding is not recommended while being treated with rituximab and optimally for 6 months following rituximab treatment.
 
 Fertility
 

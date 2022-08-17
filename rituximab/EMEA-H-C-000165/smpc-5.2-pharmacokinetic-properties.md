@@ -28,6 +28,7 @@ With this dose regimen, trough levels were sustained (geometric means: 41.8 µg/
 The median elimination half-life in paediatric patients aged 3 years and older was 26 days.
 
 The PK characteristics of MabThera in paediatric patients with DLBCL/BL/BAL/BLL were similar to what has been observed in adult NHL patients.
+
 No PK data are available in the ≥ 6 months to < 3 years age group, however, population PK prediction supports comparable systemic exposure (AUC, Ctrough) in this age group compared to ≥ 3 years (Table 24).
 Smaller baseline tumor size is related to higher exposure due to lower time dependent clearance, however, systemic exposures impacted by different tumor sizes remain in the range of exposure that was efficacious and had an acceptable safety profile.
 
@@ -44,7 +45,6 @@ Chronic lymphocytic leukaemia
 
 MabThera was administered as an intravenous infusion at a first-cycle dose of 375 mg/m2 increased to 500 mg/m2 each cycle for 5 doses in combination with fludarabine and cyclophosphamide in CLL patients.
 The mean Cmax (N=15) was 408 µg/mL (range, 97 – 764 µg/mL) after the fifth 500 mg/m2 infusion and the mean terminal half-life was 32 days (range, 14 – 62 days).
-
 Rheumatoid arthritis
 
 Following two intravenous infusions of MabThera at a dose of 1000 mg, two weeks apart, the mean terminal half-life was 20.8 days (range, 8.58 to 35.9 days), mean systemic clearance was 0.23 L/day (range, 0.091 to 0.67 L/day), and mean steady-state distribution volume was 4.6 l (range, 1.7 to 7.51 L). Population pharmacokinetic analysis of the same data gave similar mean values for systemic clearance and half-life, 0.26 L/day and 20.4 days, respectively.
@@ -67,6 +67,7 @@ Mean terminal elimination half-life after the second infusion, following the sec
 PK parameters for rituximab were comparable over the two treatment courses.
 
 The pharmacokinetic (PK) parameters in the anti-TNF inadequate responder population, following the same dosage regimen (2 x 1000 mg, IV, 2 weeks apart), were similar with a mean maximum serum concentration of 369 µg/mL and a mean terminal half-life of 19.2 days.
+
 Granulomatosis with polyangiitis (GPA) and microscopic polyangiitis (MPA)
 
 Adult Population

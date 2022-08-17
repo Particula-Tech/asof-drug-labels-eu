@@ -90,7 +90,6 @@ Continued therapy should be carefully reconsidered in patients who show no evide
 Granulomatosis with polyangiitis (GPA) and microscopic polyangiitis (MPA)
 
 Patients treated with MabThera must be given the patient alert card with each infusion.
-
 Adult induction of remission
 The recommended dosage of MabThera for induction of remission therapy in adult patients with GPA and MPA is 375 mg/m2 body surface area, administered as an intravenous infusion once weekly for 4 weeks (four infusions in total).
 
@@ -132,7 +131,6 @@ The safety and efficacy of MabThera paediatric patients ≥ 6 months to < 18 yea
 Only limited data are available for patients under 3 years of age.
 See section 5.1 for further information.
 MabThera should not be used in paediatric patients from birth to < 6 months of age with CD20 positive diffuse large B-cell lymphoma (see section 5.1)
-
 Table 1 Posology of MabThera administration for Non-Hodgkin’s lymphoma paediatric patients
 
 | Cycle | Day of treatment | Administration details |
@@ -182,6 +180,7 @@ If the same severe adverse reactions occur for a second time, the decision to st
 
 Mild or moderate infusion-related reactions (IRR) (section 4.8) usually respond to a reduction in the rate of infusion.
 The infusion rate may be increased upon improvement of symptoms.
+
 First infusion
 
 The recommended initial rate for infusion is 50 mg/h; after the first 30 minutes, it can be escalated in 50 mg/h increments every 30 minutes, to a maximum of 400 mg/h.
@@ -201,7 +200,6 @@ The recommended initial rate for infusion is 0.5 mg/kg/h (maximum 50 mg/h); it c
 Subsequent infusions
 
 Subsequent doses of MabThera can be infused at an initial rate of 1 mg/kg/h (maximum 50 mg/h); it can be increased by 1 mg/kg/h every 30 minutes to a maximum of 400 mg/h.
-
 Rheumatoid arthritis only
 
 Alternative subsequent, faster, infusion schedule

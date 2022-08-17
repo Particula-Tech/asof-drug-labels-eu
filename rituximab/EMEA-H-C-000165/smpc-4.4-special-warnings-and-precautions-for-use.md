@@ -35,6 +35,7 @@ They are not specifically related to the route of administration of MabThera and
 
 Severe infusion-related reactions with fatal outcome have been reported during post-marketing use of the MabThera intravenous formulation, with an onset ranging within 30 minutes to 2 hours after starting the first MabThera intravenous infusion.
 They were characterised by pulmonary events and in some cases included rapid tumour lysis and features of tumour lysis syndrome in addition to fever, chills, rigors, hypotension, urticaria, angioedema and other symptoms (see section 4.8).
+
 Severe cytokine release syndrome is characterised by severe dyspnoea, often accompanied by bronchospasm and hypoxia, in addition to fever, chills, rigors, urticaria, and angioedema.
 This syndrome may be associated with some features of tumour lysis syndrome such as hyperuricaemia, hyperkalaemia, hypocalcaemia, hyperphosphataemia, acute renal failure, elevated lactate dehydrogenase (LDH) and may be associated with acute respiratory failure and death.
 The acute respiratory failure may be accompanied by events such as pulmonary interstitial infiltration or oedema, visible on a chest X-ray.
@@ -47,7 +48,6 @@ Further treatment of patients after complete resolution of signs and symptoms ha
 Patients with a high tumour burden or with a high number (≥25 x 109/L) of circulating malignant cells such as patients with CLL, who may be at higher risk of especially severe cytokine release syndrome, should be treated with extreme caution.
 These patients should be very closely monitored throughout the first infusion.
 Consideration should be given to the use of a reduced infusion rate for the first infusion in these patients or a split dosing over two days during the first cycle and any subsequent cycles if the lymphocyte count is still >25 x 109/L.
-
 Infusion-related adverse reactions of all kinds have been observed in 77% of patients treated with MabThera (including cytokine release syndrome accompanied by hypotension and bronchospasm in 10% of patients) see section 4.8.
 These symptoms are usually reversible with interruption of MabThera infusion and administration of an anti-pyretic, an antihistaminic and occasionally oxygen, intravenous saline or bronchodilators, and glucocorticoids if required.
 Please see cytokine release syndrome above for severe reactions.
@@ -104,6 +104,7 @@ In case of such an event, with a suspected relationship to MabThera, treatment s
 Paediatric population
 Only limited data are available for patients under 3 years of age.
 See section 5.1 for further information.
+
 Rheumatoid arthritis, granulomatosis with polyangiitis (GPA) and microscopic polyangiitis (MPA), and pemphigus vulgaris
 
 Methotrexate (MTX) naïve populations with rheumatoid arthritis
@@ -162,7 +163,6 @@ Measure blood neutrophils prior to each course of MabThera, and regularly up to 
 Skin reactions
 Severe skin reactions such as Toxic Epidermal Necrolysis (Lyell’s syndrome) and Stevens-Johnson syndrome, some with fatal outcome, have been reported (see section 4.8).
 In case of such an event with a suspected relationship to MabThera, treatment should be permanently discontinued.
-
 Immunisation
 Physicians should review the patient’s vaccination status and patients should, if possible, be brought up-to-date with all immunisations in agreement with current immunisation guidelines prior to initiating MabThera therapy.
 Vaccination should be completed at least 4 weeks prior to first administration of MabThera.
@@ -177,7 +177,8 @@ Should non-live vaccinations be required whilst receiving MabThera therapy, thes
 In the overall experience of MabThera repeat treatment over one year in rheumatoid arthritis, the proportions of patients with positive antibody titres against S. pneumoniae, influenza, mumps, rubella, varicella and tetanus toxoid were generally similar to the proportions at baseline.
 
 Concomitant/sequential use of other DMARDs in rheumatoid arthritis
-The concomitant use of MabThera and anti-rheumatic therapies other than those specified under the rheumatoid arthritis indication and posology is not recommended.
+The concomitant use of MabThera and anti-rheumatic therapies other than those specified under the rheumatoid arthritis indication and posology is not recommended
+
 There are limited data from clinical trials to fully assess the safety of the sequential use of other DMARDs (including TNF inhibitors and other biologics) following MabThera (see section 4.5).
 The available data indicate that the rate of clinically relevant infection is unchanged when such therapies are used in patients previously treated with MabThera, however patients should be closely observed for signs of infection if biologic agents and/or DMARDs are used following MabThera therapy.
 
@@ -228,7 +229,6 @@ The majority of local cutaneous reactions seen following administration of MabTh
 Before starting MabThera subcutaneous injections, all patients must always receive beforehand, a full dose of MabThera by intravenous infusion, using MabThera intravenous formulation.
 The highest risk of experiencing an administration related reaction is generally observed at cycle one.
 Beginning the therapy with MabThera intravenous infusion would allow a better handling of the administration reactions by slowing or stopping the intravenous infusion.
-
 If patients were not able to receive one full MabThera intravenous infusion dose prior to the switch, they should continue the subsequent cycles with MabThera intravenous formulation until a full intravenous dose is successfully administered.
 Therefore, the switch to MabThera subcutaneous formulation can only occur at the second or subsequent cycles of treatment.
 
@@ -245,7 +245,6 @@ The MabThera intravenous formulation has been used in 21 patients who underwent 
 
 Cases of hepatitis B reactivation have been reported in patients receiving the MabThera intravenous formulation including fulminant hepatitis with fatal outcome.
 The majority of these patients were also exposed to cytotoxic chemotherapy.
-
 Very rare cases of PML have been reported during post-marketing use of the MabThera intravenous formulation in NHL (see section 4.8).
 The majority of patients had received rituximab in combination with chemotherapy or as part of a hematopoietic stem cell transplant.
 
