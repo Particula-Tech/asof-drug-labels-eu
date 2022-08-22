@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: antineoplastic agents, other antineoplastic agents, ATC code: L01XX19
+Pharmacotherapeutic group: Topoisomerase 1 (TOP1) inhibitors.
+ATC Code: L01CE02.
 
 Mechanism of action
 
@@ -10,6 +11,7 @@ Irinotecan is a derivative of camptothecin.
 Camptothecins act as specific inhibitors of the enzyme DNA topoisomerase I. Irinotecan and its active metabolite SN-38 bind reversibly to the topoisomerase I-DNA complex and induce single-strand DNA lesions which block the DNA replication fork and are responsible for the cytotoxicity.
 Irinotecan is metabolised by carboxylesterase to SN-38.
 SN-38 is approximately 1,000 times as potent as irinotecan as an inhibitor of topoisomerase I purified from human and rodent tumour cell lines.
+
 Pharmacodynamic effects
 
 In animal models, ONIVYDE pegylated liposomal has been shown to extend plasma levels of irinotecan and prolong the exposure to the active metabolite SN-38 at the site of the tumour.
@@ -35,7 +37,6 @@ In the intent to treat (all randomised) population, the median age was 63 years
 (range 31-87 years), 57 % were males, and 61% were Caucasian and 33% were Asian.
 Mean baseline albumin level was 3.6 g/dl, and baseline KPS was 90-100 in 55% of patients.
 Disease characteristics included 68% of patients with liver metastases and 31% with lung metastases; 12% of patients had no prior lines of metastatic therapy, 56 % of patients had 1 prior line of metastatic therapy, 32% of patients had 2 or more prior lines of metastatic therapy.
-
 Patients received treatment until disease progression or unacceptable toxicity.
 The primary outcome measure was Overall survival (OS).
 Additional outcome measures included Progression free survival (PFS) and Objective response rate (ORR).

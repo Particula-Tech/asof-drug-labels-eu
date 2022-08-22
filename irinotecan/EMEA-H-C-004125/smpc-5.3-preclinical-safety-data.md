@@ -5,6 +5,7 @@ The severity of effects was dose-related and reversible.
 The no-observed-adverse-effect level (NOAEL) in rats and dogs following 90 min intravenous infusion of ONIVYDE pegylated liposomal once every 3 weeks for 18 weeks was 155 mg/m2.
 In safety pharmacology studies in dogs, ONIVYDE pegylated liposomal had no effect on cardiovascular, hemodynamic, electrocardiographic, or respiratory parameters at doses up to 18 mg/kg or 360 mg/m2 .
 No findings indicative of CNS related toxicity were observed in the repeated dose toxicity studies in rats.
+
 Genotoxic and carcinogenic potential
 
 No genotoxicity studies have been performed with ONIVYDE pegylated liposomal.

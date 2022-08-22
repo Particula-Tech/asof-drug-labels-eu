@@ -2,7 +2,7 @@
 
 Women of childbearing potential / contraception in males and females
 
-Women of childbearing potential should use effective contraception during ONIVYDE pegylated liposomal treatment and 1 month thereafter.
+Women of childbearing potential should use effective contraception during ONIVYDE pegylated liposomal treatment and 7 months thereafter.
 Males should use condoms during ONIVYDE pegylated liposomal treatment and 4 months thereafter.
 
 Pregnancy
@@ -22,3 +22,4 @@ Fertility
 
 There are no data on the impact of ONIVYDE pegylated liposomal on human fertility.
 Non-liposomal irinotecan was shown to cause atrophy of male and female reproductive organs after multiple daily irinotecan doses in animals (see section 5.3).
+Prior to starting the administration of ONIVYDE pegylated liposomal consider advising patients on the preservation of gametes.

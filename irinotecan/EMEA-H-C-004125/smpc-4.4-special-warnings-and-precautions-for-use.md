@@ -68,8 +68,8 @@ Acute infusion and related reactions
 
 Infusion reactions primarily consisting of rash, urticaria, periorbital oedema or pruritus were reported in patients receiving ONIVYDE pegylated liposomal treatment.
 New events (all grade 1 or grade 2) occurred generally early during ONIVYDE pegylated liposomal treatment, with only 2 out of 10 patients noted with events after the fifth dose.
-Hypersensitivity reactions, including acute infusion reaction may occur.
-ONIVYDE pegylated liposomal should be discontinued in case of severe hypersensitivitiy reactions.
+Hypersensitivity reactions, including acute infusion reaction, anaphylactic/anaphylactoid reaction and angioedema may occur.
+ONIVYDE pegylated liposomal should be discontinued in case of severe hypersensitivity reactions.
 
 Prior Whipple procedure
 
@@ -104,7 +104,7 @@ The use of ONIVYDE pegylated liposomal in patients with significant renal impair
 
 Underweight patients (body mass index < 18.5 kg/m2)
 
-In the clinical study evaluating ONIVYDE pegylated liposomal +5-FU/LV, 5 of 8 underweight patients experienced a Grade 3 or 4 adverse reactions, mostly myelosuppression, while 7 of the 8 patients required dose modification such as dose delay, dose reduction or dose discontinuation.
+In the clinical study evaluating ONIVYDE pegylated liposomal +5-FU/LV, 5 of 8 underweight patients experienced Grade 3 or 4 adverse reactions, mostly myelosuppression, while 7 of the 8 patients required dose modification such as dose delay, dose reduction or dose discontinuation.
 Caution should be exercised when using ONIVYDE pegylated liposomal in patients with body mass index < 18.5 kg/m2.
 
 Excipients

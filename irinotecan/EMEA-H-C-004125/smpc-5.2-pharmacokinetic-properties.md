@@ -49,6 +49,7 @@ The urinary excretion of non-liposomal irinotecan is 11% to 20%; SN-38 < 1%; and
 SN-38 glucuronide is 3%.
 The cumulative biliary and urinary excretion of irinotecan and its metabolites (SN-38 and SN-38 glucuronide) over a period of 48 hours following administration of non-liposomal irinotecan in two patients ranged from approximately 25% (100 mg/m2) to 50%
 (300 mg/m2).
+
 Renal impairment
 
 No dedicated pharmacokinetic study has been conducted in patients with renal impairment.

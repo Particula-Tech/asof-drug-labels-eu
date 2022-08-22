@@ -16,4 +16,7 @@ Based on the drug interaction of non-liposomal irinotecan and ketoconazole, co-a
 
 Co-administration of ONIVYDE pegylated liposomal +5-FU/LV does not alter the pharmacokinetics of ONIVYDE pegylated liposomal based on the population pharmacokinetic analysis.
 
+Antineoplastic agents (including flucytosine as a prodrug for 5-fluorouracil)
+Adverse effects of irinotecan, such as myelosuppression, may be exacerbated by other antineoplastic agents having a similar adverse-effect profile.
+
 No interaction of ONIVYDE pegylated liposomal with other medicinal products is known.

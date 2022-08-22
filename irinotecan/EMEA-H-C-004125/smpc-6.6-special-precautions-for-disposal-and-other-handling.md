@@ -8,7 +8,7 @@ Pregnant staff should not handle ONIVYDE pegylated liposomal considering the cyt
 
 Preparation of the dispersion and administration
 
-ONIVYDE pegylated liposomal is supplied as a sterile liposomal dispersion at a concentration of 4.3 mg/ml and must be diluted prior to administration.
+ONIVYDE pegylated liposomal is supplied as a sterile liposomal dispersion at a concentration of 4.3 mg/ml and must be diluted prior to administration using a needle not larger than 21 gauge.
 Dilute with 5% glucose solution for injection or sodium chloride 9 mg/ml (0.9%) solution for injection to prepare a dispersion of the appropriate dose of ONIVYDE pegylated liposomal diluted to a final volume of 500 ml.
 Mix the diluted dispersion by gentle inversion.
 The diluted dispersion is clear to slightly white to slightly opalescent and free from visible particles.
