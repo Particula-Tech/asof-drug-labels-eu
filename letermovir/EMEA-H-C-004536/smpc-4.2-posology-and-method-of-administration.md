@@ -3,10 +3,11 @@
 PREVYMIS should be initiated by a physician experienced in the management of patients who have had an allogeneic haematopoietic stem cell transplant.
 
 Posology
+
 PREVYMIS is also available as concentrate for solution for infusion (240 mg and 480 mg).
 PREVYMIS tablets and concentrate for solution for infusion may be used interchangeably at the discretion of the physician, and no dose adjustment is necessary.
 
-The recommended dosage of PREVYMIS is one 480 mg tablet once daily.
+The recommended dose of PREVYMIS is one 480 mg tablet once daily.
 
 PREVYMIS should be started after HSCT.
 PREVYMIS may be started on the day of transplant and no later than 28 days post-transplant.
@@ -17,8 +18,8 @@ The safety and efficacy of letermovir use for more than 100 days has not been st
 Prolonged letermovir prophylaxis beyond 100 days post-transplant may be of benefit in some patients at high risk for late CMV reactivation (see section 5.1).
 Use of letermovir prophylaxis for greater than 100 days requires a careful assessment of the benefit-risk balance.
 
-Dosage adjustment
-If PREVYMIS is co-administered with cyclosporine, the dosage of PREVYMIS should be decreased to 240 mg once daily (see sections 4.5 and 5.2).
+Dose adjustment
+If PREVYMIS is co-administered with cyclosporine, the dose of PREVYMIS should be decreased to 240 mg once daily (see sections 4.5 and 5.2).
 
 - If cyclosporine is initiated after starting PREVYMIS, the next dose of PREVYMIS should be decreased to 240 mg once daily.
 - If cyclosporine is discontinued after starting PREVYMIS, the next dose of PREVYMIS should be increased to 480 mg once daily.
@@ -51,6 +52,7 @@ The safety and efficacy of PREVYMIS in patients below 18 years of age have not b
 No data are available (see section 5.1).
 
 Method of administration
+
 For oral use.
 The tablet should be swallowed whole and may be taken with or without food.
 The tablet should not be divided, crushed, or chewed.
@@ -59,7 +61,7 @@ The tablet should not be divided, crushed, or chewed.
 
 PREVYMIS is also available for oral administration (240 mg and 480 mg film-coated tablets).
 
-The recommended dosage of PREVYMIS is 480 mg once daily.
+The recommended dose of PREVYMIS is 480 mg once daily.
 
 If a dose is missed, it should be given to the patient as soon as possible.
 If it is time for the next dose, skip the missed dose and go back to the regular schedule.
@@ -72,10 +74,14 @@ In patients with moderate or severe renal impairment (creatinine clearance less 
 Serum creatinine levels should be closely monitored in these patients.
 
 For intravenous use only.
+
 PREVYMIS concentrate for solution for infusion requires dilution (see section 6.6) prior to administration.
+
 PREVYMIS diluted solution must be administered through a sterile 0.2 micron or 0.22 micron polyethersulfone (PES) in-line filter.
 Do not administer the diluted solution through a filter other than a sterile 0.2 micron or 0.22 micron PES in-line filter.
-PREVYMIS should be administered as an intravenous (IV) infusion only.
+
+PREVYMIS should be administered as an intravenous infusion only.
 PREVYMIS should not be administered as an intravenous push or bolus.
+
 After dilution, PREVYMIS should be administered by intravenous infusion via peripheral or central venous catheter using a total time of approximately 60 minutes.
-The entire contents of the IV bag should be administered.
+The entire contents of the intravenousbag should be administered.
