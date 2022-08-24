@@ -20,7 +20,7 @@ Patients with congenital bleeding diathesis have not been studied.
 
 Leukostasis
 Cases of leukostasis have been reported in patients treated with IMBRUVICA.
-A high number of circulating lymphocytes (>400,000/mcL) may confer increased risk.
+A high number of circulating lymphocytes (>400 000/mcL) may confer increased risk.
 Consider temporarily withholding IMBRUVICA.
 Patients should be closely monitored.
 Administer supportive care including hydration and/or cytoreduction as indicated.

@@ -63,8 +63,8 @@ It is not recommended to administer IMBRUVICA to patients with severe hepatic im
 Severe cardiac disease
 Patients with severe cardiovascular disease were excluded from IMBRUVICA clinical studies.
 Paediatric population
-The safety and efficacy of IMBRUVICA in children and adolescents aged 0 to 18 years have not been established.
-No data are available.
+IMBRUVICA is not recommended for use in children and adolescents aged 0 to 18 years as efficacy has not been established.
+Currently available data in patients with mature B-cell non-Hodgkin lymphoma are described in sections 4.8, 5.1 and 5.2.
 
 Method of administration
 IMBRUVICA should be administered orally once daily with a glass of water approximately at the same time each day.

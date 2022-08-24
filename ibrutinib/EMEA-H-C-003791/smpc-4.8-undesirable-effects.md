@@ -5,14 +5,14 @@ The most commonly occurring adverse reactions (≥20%) were diarrhoea, neutropen
 The most common grade 3/4 adverse reactions (≥5%) were neutropenia, lymphocytosis, thrombocytopenia, hypertension, and pneumonia.
 
 Tabulated list of adverse reactions
-The safety profile is based on pooled data from 1,981 patients treated with IMBRUVICA in four phase 2 clinical studies and eight randomised phase 3 studies and from post-marketing experience.
+The safety profile is based on pooled data from 1 981 patients treated with IMBRUVICA in four phase 2 clinical studies and eight randomised phase 3 studies and from post-marketing experience.
 Patients treated for MCL in clinical studies received IMBRUVICA at 560 mg once daily and patients treated for CLL or WM in clinical studies received IMBRUVICA at 420 mg once daily.
 All patients in clinical studies received IMBRUVICA until disease progression or no longer tolerated, except for studies with IMBRUVICA in combination with venetoclax where patients received fixed duration treatment (Studies CLL3011 and PCYC-1142-CA).
 The median duration of IMBRUVICA treatment across the pooled dataset was 14.7 months.
 The median duration of treatment for CLL/SLL was 14.7 months (up to 52 months); MCL was 11.7 months (up to 28 months); WM was 21.6 months (up to 37 months).
 
 Adverse reactions in patients treated with ibrutinib for B-cell malignancies and post-marketing adverse reactions are listed below by system organ class and frequency grouping.
-Frequencies are defined as follows: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), not known (cannot be estimated from the available data).
+Frequencies are defined as follows: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1 000 to <1/100), rare (≥1/10 000 to <1/1 000), not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Table 1: Adverse reactions reported in clinical studies or during post marketing surveillance
@@ -58,6 +58,7 @@ Cardiac disorders Common Cardiac failure*, # 2 1
 Atrial fibrillation 8 4
 Uncommon Ventricular 1 <1
 tachyarrhythmia*,#
+Cardiac arrest# <1 <1
 Vascular disorders Very Haemorrhage*# 35 1
 common Bruising* 27 <1
 Hypertension* 18 8
@@ -97,20 +98,25 @@ common
 
 Description of selected adverse reactions
 Discontinuation and dose reduction due to adverse reactions
-Of the 1,981 patients treated with IMBRUVICA for B-cell malignancies, 6% discontinued treatment primarily due to adverse reactions.
+Of the 1 981 patients treated with IMBRUVICA for B-cell malignancies, 6% discontinued treatment primarily due to adverse reactions.
 These included pneumonia, atrial fibrillation, neutropenia, rash, thrombocytopenia, and haemorrhage.
 Adverse reactions leading to dose reduction occurred in approximately 8% of patients.
+
 Elderly
-Of the 1,981 patients treated with IMBRUVICA, 50% were 65 years of age or older.
+Of the 1 981 patients treated with IMBRUVICA, 50% were 65 years of age or older.
 Grade 3 or higher pneumonia (11% of patients age ≥65 versus 4% of patients <65 years) and thrombocytopenia (11% of patients age ≥65 years versus 5% of patients <65 years) occurred more frequently among elderly patients treated with IMBRUVICA.
 
 Long-term safety
-The safety data from long-term treatment with IMBRUVICA over 5 years from 1,284 patients (treatment-naïve CLL/SLL n=162, relapsed/refractory CLL/SLL n=646, relapsed/refractory MCL n=370, and WM n=106) were analysed.
+The safety data from long-term treatment with IMBRUVICA over 5 years from 1 284 patients (treatment-naïve CLL/SLL n=162, relapsed/refractory CLL/SLL n=646, relapsed/refractory MCL n=370, and WM n=106) were analysed.
 The median duration of treatment for CLL/SLL was 51 months (range, 0.2 to 98 months) with 70% and 52% of patients receiving treatment for more than 2 years and 4 years, respectively.
 The median duration of treatment for MCL was 11 months (range, 0 to 87 months) with 31% and 17% of patients receiving treatment for more than 2 years and 4 years, respectively.
 The median duration of treatment for WM was 47 months (range, 0.3 to 61 months) with 78% and 46% of patients receiving treatment for more than 2 years and 4 years, respectively.
 The overall known safety profile of IMBRUVICA-exposed patients remained consistent, other than an increasing prevalence of hypertension, with no new safety concerns identified.
 The prevalence for Grade 3 or greater hypertension was 4% (year 0-1), 7% (year 1-2), 9% (year 2-3), 9% (year 3-4), and 9% (year 4-5); the overall incidence for the 5-year period was 11%.
+
+Paediatric population
+The safety assessment is based on data from a Phase 3 study of IMBRUVICA in combination with either a rituximab, ifosfamide, carboplatin, etoposide, and dexamethasone (RICE) regimen, or a rituximab, vincristine, ifosfamide, carboplatin, idarubicin, and dexamethasone (RVICI) regimen, as background therapy or background therapy alone in paediatric and young adult patients (aged 3 to 19 years) with relapsed or refractory mature B-cell non-Hodgkin lymphoma (see section 5.1).
+No new adverse reactions were observed in this study.
 
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
