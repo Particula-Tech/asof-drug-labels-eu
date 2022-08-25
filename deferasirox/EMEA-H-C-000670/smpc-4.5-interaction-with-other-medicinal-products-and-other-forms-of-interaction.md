@@ -14,7 +14,6 @@ Therefore, the concomitant use of EXJADE with potent UGT inducers (e.g. rifampic
 The patient’s serum ferritin should be monitored during and after the combination, and the dose of EXJADE adjusted if necessary.
 
 Cholestyramine significantly reduced the deferasirox exposure in a mechanistic study to determine the degree of enterohepatic recycling (see section 5.2).
-
 Interaction with midazolam and other agents metabolised by CYP3A4
 In a healthy volunteer study, the concomitant administration of deferasirox dispersible tablets and midazolam (a CYP3A4 probe substrate) resulted in a decrease of midazolam exposure by 17% (90% CI: 8% - 26%).
 In the clinical setting, this effect may be more pronounced.
@@ -25,6 +24,7 @@ In a healthy volunteer study, the concomitant administration of deferasirox as a
 Since the interaction has not been established with dosages higher than 0.5 mg for repaglinide, the concomitant use of deferasirox with repaglinide should be avoided.
 If the combination appears necessary, careful clinical and blood glucose monitoring should be performed (see section 4.4).
 An interaction between deferasirox and other CYP2C8 substrates like paclitaxel cannot be excluded.
+
 Interaction with theophylline and other agents metabolised by CYP1A2
 In a healthy volunteer study, the concomitant administration of deferasirox as a CYP1A2 inhibitor (repeated dose of 30 mg/kg/day, dispersible tablet formulation) and the CYP1A2 substrate theophylline (single dose of 120 mg) resulted in an increase of theophylline AUC by 84% (90% CI: 73% to 95%).
 The single dose Cmax was not affected, but an increase of theophylline Cmax is expected to occur with chronic dosing.

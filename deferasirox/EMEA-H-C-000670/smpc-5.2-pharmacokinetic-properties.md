@@ -30,10 +30,10 @@ Deferasirox and its metabolites are primarily excreted in the faeces (84% of the
 Renal excretion of deferasirox and its metabolites is minimal (8% of the dose).
 The mean elimination half-life (t1/2) ranged from 8 to 16 hours.
 The transporters MRP2 and MXR (BCRP) are involved in the biliary excretion of deferasirox.
-
 Linearity / non-linearity
 The Cmax and AUC0-24h of deferasirox increase approximately linearly with dose under steady-state conditions.
 Upon multiple dosing exposure increased by an accumulation factor of 1.3 to 2.3.
+
 Characteristics in patients
 Paediatric patients
 The overall exposure of adolescents (12 to ≤17 years) and children (2 to <12 years) to deferasirox after single and multiple doses was lower than that in adult patients.
@@ -60,6 +60,7 @@ Exposure was increased 2.8-fold in one subject with severe hepatic impairment (C
 EXJADE granules demonstrate higher bioavailability compared to the EXJADE dispersible tablet formulation.
 After adjustment of the strength, the granules formulation (4 x 90 mg strength) was equivalent to EXJADE dispersible tablets (500 mg strength) with respect to the mean area under the plasma concentration time curve (AUC) under fasting conditions.
 The Cmax was increased by 34% (90% CI: 27.9% - 40.3%); however a clinical exposure/response analysis revealed no evidence of clinically relevant effects of such an increase.
+
 The absolute bioavailability of the granule formulation has not been determined.
 Bioavailability of deferasirox granules was 52% greater than that with dispersible tablets.
 

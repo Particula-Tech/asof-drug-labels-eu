@@ -48,6 +48,12 @@ Single events of increase in ALT and aspartate aminotransferase were reported in
 In a study to assess the safety of deferasirox film-coated and dispersible tablets, 173 adult and paediatric patients with transfusion dependent thalassaemia or myelodysplastic syndrome were treated for 24 weeks.
 A comparable safety profile for film-coated and dispersible tablets was observed.
 
+An open-label 1:1 randomised study was performed in 224 paediatric patients aged 2 to <18 years old with transfusion-dependant anaemia and iron overload to evaluate treatment compliance, efficacy and safety of the deferasirox granule formulation compared to the dispersible tablet formulation.
+The majority of patients (142, 63.4%) in the study had beta-thalassemia major, 108 (48.2%) patients were naïve to iron chelation therapy (ICT) (median age 2 years, 92.6% aged 2 to <10 years) and 116 (51.8%) were ICT pre-treated (median age 7.5 years, 71.6% aged 2 to <10 years) of whom 68.1% had previously received deferasirox.
+In the primary analysis performed in ICT-naïve patients after 24 weeks of treatment, the compliance rate was 84.26% and 86.84% in the deferasirox dispersible tablets arm and in the deferasirox granules arm, respectively, with no statistically significant difference.
+Similarly, there was no statistically significant difference in mean changes from baseline in serum ferritin (SF) values between the two treatment arms (-171.52 μg/l [95% CI: -517.40, 174.36] for dispersible tablets [DT] and 4.84 μg/l [95% CI: -333.58, 343.27] for the granule formulation, difference between means [granules – DT] 176.36 μg/l [95% CI: -129.00, 481.72], two sided p-value = 0.25).
+The study concluded that treatment compliance and efficacy were no different between deferasirox granules and deferasirox dispersible tablet arms at different time points (24 and 48 weeks).
+The safety profile was overall comparable between the granules and the dispersible tablet formulations.
 In patients with non-transfusion-dependent thalassaemia syndromes and iron overload, treatment with deferasirox dispersible tablets was assessed in a 1-year, randomised, double-blind, placebo-controlled study.
 The study compared the efficacy of two different deferasirox dispersible tablet regimens (starting doses of 5 and 10 mg/kg/day, 55 patients in each arm) and of matching placebo (56 patients).
 The study enrolled 145 adult and 21 paediatric patients.
