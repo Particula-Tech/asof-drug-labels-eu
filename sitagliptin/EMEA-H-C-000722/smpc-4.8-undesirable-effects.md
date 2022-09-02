@@ -7,7 +7,7 @@ Hypoglycaemia has been reported in combination with sulphonylurea (4.7 %-13.8 %)
 
 Tabulated list of adverse reactions
 Adverse reactions are listed below (Table 1) by system organ class and frequency.
-Frequencies are defined as: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000) and not known (cannot be estimated from the available data).
+Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000) and not known (cannot be estimated from the available data).
 
 Table 1.
 The frequency of adverse reactions identified from placebo-controlled clinical studies of sitagliptin monotherapy and post-marketing experience
@@ -60,9 +60,8 @@ These included hypoglycaemia (frequency very common with the combination of sulp
 
 Paediatric population
 In clinical trials with sitagliptin in paediatric patients with type 2 diabetes mellitus aged 10 to17 years, the profile of adverse reactions was comparable to that observed in adults.
-
 TECOS Cardiovascular Safety Study
-The Trial Evaluating Cardiovascular Outcomes with Sitagliptin (TECOS) included 7,332 patients treated with sitagliptin, 100 mg daily (or 50 mg daily if the baseline eGFR was ≥30 and
+The Trial Evaluating Cardiovascular Outcomes with Sitagliptin (TECOS) included 7,332 patients treated with sitagliptin, 100 mg daily (or 50 mg daily if the baseline eGFR was ≥ 30 and
 < 50 mL/min/1.73 m2), and 7,339 patients treated with placebo in the intention-to-treat population.
 Both treatments were added to usual care targeting regional standards for HbA1c and CV risk factors.
 The overall incidence of serious adverse events in patients receiving sitagliptin was similar to that in patients receiving placebo.

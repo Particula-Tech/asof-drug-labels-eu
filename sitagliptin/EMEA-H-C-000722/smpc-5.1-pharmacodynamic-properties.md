@@ -48,7 +48,6 @@ A 26-week placebo-controlled study was designed to evaluate the efficacy and saf
 The addition of sitagliptin to pioglitazone and metformin provided significant improvements in glycaemic parameters.
 Change from baseline in body weight was similar for patients treated with sitagliptin relative to placebo.
 The incidence of hypoglycaemia was also similar in patients treated with sitagliptin or placebo.
-
 A 24-week placebo-controlled study was designed to evaluate the efficacy and safety of sitagliptin (100 mg once daily) added to insulin (at a stable dose for at least 10 weeks) with or without metformin (at least 1,500 mg).
 In patients taking pre-mixed insulin, the mean daily dose was 70.9 U/day.
 In patients taking non-pre-mixed (intermediate/long-acting) insulin, the mean daily dose was 44.3 U/day.
@@ -58,7 +57,6 @@ There was no meaningful change from baseline in body weight in either group.
 In a 24-week placebo-controlled factorial study of initial therapy, sitagliptin 50 mg twice daily in combination with metformin (500 mg or 1,000 mg twice daily) provided significant improvements in glycaemic parameters compared with either monotherapy.
 The decrease in body weight with the combination of sitagliptin and metformin was similar to that observed with metformin alone or placebo; there was no change from baseline for patients on sitagliptin alone.
 The incidence of hypoglycaemia was similar across treatment groups.
-
 Table 2.
 HbA1c results in placebo-controlled monotherapy and combination therapy studies*
 
@@ -81,7 +79,7 @@ HbA1c results in placebo-controlled monotherapy and combination therapy studies*
 † Least squares means adjusted for prior antihyperglycaemic therapy status and baseline value.
 ‡ p<0.001 compared to placebo or placebo + combination treatment.
 § HbA1c (%) at week 18.
-%HbA1c (%) at week 24.
+% HbA1c (%) at week 24.
 # HbA1c (%) at week 26.
 ¶ Least squares mean adjusted for metformin use at Visit 1 (yes/no), insulin use at Visit 1 (pre-mixed vs. non-pre-mixed [intermediate- or long-acting]), and baseline value.
 Treatment by stratum (metformin and insulin use) interactions were not significant (p > 0.10).
@@ -95,7 +93,7 @@ Body weight decreased from baseline in both groups (sitagliptin, -0.6 kg; metfor
 
 In a study comparing the efficacy and safety of the addition of sitagliptin 100 mg once daily or glipizide (a sulphonylurea) in patients with inadequate glycaemic control on metformin monotherapy, sitagliptin was similar to glipizide in reducing HbA1c.
 The mean glipizide dose used in the comparator group was 10 mg per day with approximately 40 % of patients requiring a glipizide dose of
-≤5 mg/day throughout the study.
+≤ 5 mg/day throughout the study.
 However, more patients in the sitagliptin group discontinued due to lack of efficacy than in the glipizide group.
 Patients treated with sitagliptin exhibited a significant mean decrease from baseline in body weight compared to a significant weight gain in patients administered glipizide (-1.5 vs. +1.1 kg).
 In this study, the proinsulin to insulin ratio, a marker of efficiency of insulin synthesis and release, improved with sitagliptin and deteriorated with glipizide treatment.
@@ -124,14 +122,14 @@ The incidence of hypoglycaemia was not significantly different between the treat
 
 In another study involving 91 patients with type 2 diabetes and chronic renal impairment (creatinine clearance < 50 mL/min), the safety and tolerability of treatment with sitagliptin at 25 or 50 mg once daily were generally similar to placebo.
 In addition, after 12 weeks, the mean reductions in HbA1c (sitagliptin -0.59 %; placebo -0.18 %) and FPG (sitagliptin -25.5 mg/dL; placebo -3.0 mg/dL) were generally similar to those observed in other monotherapy studies in patients with normal renal function (see section 5.2).
-
-The TECOS was a randomised study in 14,671 patients in the intention-to-treat population with an HbA1c of ≥6.5 to 8.0 % with established CV disease who received sitagliptin (7,332) 100 mg daily (or 50 mg daily if the baseline eGFR was ≥30 and < 50 mL/min/1.73 m2) or placebo (7,339) added to usual care targeting regional standards for HbA1c and CV risk factors.
+The TECOS was a randomised study in 14,671 patients in the intention-to-treat population with an HbA1c of ≥ 6.5 to 8.0 % with established CV disease who received sitagliptin (7,332) 100 mg daily (or 50 mg daily if the baseline eGFR was ≥ 30 and < 50 mL/min/1.73 m2) or placebo (7,339) added to usual care targeting regional standards for HbA1c and CV risk factors.
 Patients with an eGFR
 < 30 mL/min/1.73 m2 were not to be enrolled in the study.
-The study population included 2,004 patients ≥75 years of age and 3,324 patients with renal impairment
+The study population included 2,004 patients ≥ 75 years of age and 3,324 patients with renal impairment
 (eGFR < 60 mL/min/1.73 m2).
 
 Over the course of the study, the overall estimated mean (SD) difference in HbA1c between the sitagliptin and placebo groups was 0.29 % (0.01), 95 % CI (-0.32, -0.27); p < 0.001.
+
 The primary cardiovascular endpoint was a composite of the first occurrence of cardiovascular death, nonfatal myocardial infarction, nonfatal stroke, or hospitalisation for unstable angina.
 Secondary cardiovascular endpoints included the first occurrence of cardiovascular death, nonfatal myocardial infarction, or nonfatal stroke; first occurrence of the individual components of the primary composite; all-cause mortality; and hospital admissions for congestive heart failure.
 
@@ -155,7 +153,7 @@ Rates of Composite Cardiovascular Outcomes and Key Secondary Outcomes
 | Death from any cause | 547 (7.5) | 2.5 | 537 (7.3) | 2.5 | 1.01 (0.90–1.14) | 0.875 |
 | Hospitalisation for heart failure‡ | 228 (3.1) | 1.1 | 229 (3.1) | 1.1 | 1.00 (0.83–1.20) | 0.983 |
 
-* Incidence rate per 100 patient-years is calculated as 100 × (total number of patients with ≥1 event during eligible exposure period per total patient-years of follow-up).
+* Incidence rate per 100 patient-years is calculated as 100 × (total number of patients with ≥ 1 event during eligible exposure period per total patient-years of follow-up).
 † Based on a Cox model stratified by region.
 For composite endpoints, the p-values correspond to a test of non-inferiority seeking to show that the hazard ratio is less than 1.3.
 For all other endpoints, the p-values correspond to a test of differences in hazard rates.

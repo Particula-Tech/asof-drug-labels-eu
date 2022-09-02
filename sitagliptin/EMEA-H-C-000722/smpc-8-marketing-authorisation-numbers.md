@@ -1,5 +1,6 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
+Januvia 25 mg film-coated tablets
 EU/1/07/383/001
 EU/1/07/383/002
 EU/1/07/383/003
@@ -9,8 +10,7 @@ EU/1/07/383/006
 EU/1/07/383/019
 EU/1/07/383/020
 
-[Januvia 50 mg film-coated tablets]
-
+Januvia 50 mg film-coated tablets
 EU/1/07/383/007
 EU/1/07/383/008
 EU/1/07/383/009
@@ -20,8 +20,7 @@ EU/1/07/383/012
 EU/1/07/383/021
 EU/1/07/383/022
 
-[Januvia 100 mg film-coated tablets]
-
+Januvia 100 mg film-coated tablets
 EU/1/07/383/013
 EU/1/07/383/014
 EU/1/07/383/015

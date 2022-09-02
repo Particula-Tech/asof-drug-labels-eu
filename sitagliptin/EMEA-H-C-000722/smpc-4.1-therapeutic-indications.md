@@ -10,11 +10,11 @@ as dual oral therapy in combination with:
 
 - metformin when diet and exercise plus metformin alone do not provide adequate glycaemic control.
 - a sulphonylurea when diet and exercise plus maximal tolerated dose of a sulphonylurea alone do not provide adequate glycaemic control and when metformin is inappropriate due to contraindications or intolerance.
-- a peroxisome proliferator-activated receptor gamma (PPARγ) agonist (i.e. a thiazolidinedione) when use of a PPARγagonist is appropriate and when diet and exercise plus the PPARγagonist alone do not provide adequate glycaemic control.
+- a peroxisome proliferator-activated receptor gamma (PPARγ) agonist (i.e. a thiazolidinedione) when use of a PPARγ agonist is appropriate and when diet and exercise plus the PPARγ agonist alone do not provide adequate glycaemic control.
 
 as triple oral therapy in combination with:
 
 - a sulphonylurea and metformin when diet and exercise plus dual therapy with these medicinal products do not provide adequate glycaemic control.
-- a PPARγagonist and metformin when use of a PPARγagonist is appropriate and when diet and exercise plus dual therapy with these medicinal products do not provide adequate glycaemic control.
+- a PPARγ agonist and metformin when use of a PPARγ agonist is appropriate and when diet and exercise plus dual therapy with these medicinal products do not provide adequate glycaemic control.
 
 Januvia is also indicated as add-on to insulin (with or without metformin) when diet and exercise plus stable dose of insulin do not provide adequate glycaemic control.

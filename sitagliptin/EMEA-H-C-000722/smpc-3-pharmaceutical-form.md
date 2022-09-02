@@ -2,12 +2,11 @@
 
 Film-coated tablet (tablet).
 
+Januvia 25 mg film-coated tablets
 Round, pink film-coated tablet with “221” on one side.
 
-[Januvia 50 mg film-coated tablets]
-
+Januvia 50 mg film-coated tablets
 Round, light beige film-coated tablet with “112” on one side.
 
-[Januvia 100 mg film-coated tablets]
-
+Januvia 100 mg film-coated tablets
 Round, beige film-coated tablet with “277” on one side.

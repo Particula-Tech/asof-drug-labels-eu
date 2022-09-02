@@ -45,16 +45,16 @@ A single-dose, open-label study was conducted to evaluate the pharmacokinetics o
 The study included patients with mild, moderate, and severe renal impairment, as well as patients with ESRD on haemodialysis.
 In addition, the effects of renal impairment on sitagliptin pharmacokinetics in patients with type 2 diabetes and mild, moderate, or severe renal impairment (including ESRD) were assessed using population pharmacokinetic analyses.
 
-Compared to normal healthy control subjects, plasma AUC of sitagliptin was increased by approximately 1.2-fold and 1.6-fold in patients with mild renal impairment (GFR ≥60 to
-< 90 mL/min) and patients with moderate renal impairment (GFR ≥45 to < 60 mL/min), respectively.
+Compared to normal healthy control subjects, plasma AUC of sitagliptin was increased by approximately 1.2-fold and 1.6-fold in patients with mild renal impairment (GFR ≥ 60 to
+< 90 mL/min) and patients with moderate renal impairment (GFR ≥ 45 to < 60 mL/min), respectively.
 Because increases of this magnitude are not clinically relevant, dosage adjustment in these patients is not necessary.
 
-Plasma AUC of sitagliptin was increased approximately 2-fold in patients with moderate renal impairment (GFR ≥30 to < 45 mL/min), and approximately 4-fold in patients with severe renal impairment (GFR < 30 mL/min), including in patients with ESRD on haemodialysis.
+Plasma AUC of sitagliptin was increased approximately 2-fold in patients with moderate renal impairment (GFR ≥ 30 to < 45 mL/min), and approximately 4-fold in patients with severe renal impairment (GFR < 30 mL/min), including in patients with ESRD on haemodialysis.
 Sitagliptin was modestly removed by haemodialysis (13.5 % over a 3- to 4-hour haemodialysis session starting 4 hours postdose).
 To achieve plasma concentrations of sitagliptin similar to those in patients with normal renal function, lower dosages are recommended in patients with GFR < 45 mL/min (see section 4.2).
 
 Hepatic impairment
-No dose adjustment for Januvia is necessary for patients with mild or moderate hepatic impairment (Child-Pugh score ≤9).
+No dose adjustment for Januvia is necessary for patients with mild or moderate hepatic impairment (Child-Pugh score ≤ 9).
 There is no clinical experience in patients with severe hepatic impairment (Child-Pugh score > 9).
 However, because sitagliptin is primarily renally eliminated, severe hepatic impairment is not expected to affect the pharmacokinetics of sitagliptin.
 
