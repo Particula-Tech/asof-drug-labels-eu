@@ -2,10 +2,9 @@
 
 3 years.
 
-If necessary, pre-filled syringes or pre-filled pens may be kept at room temperature up to 25°C for a maximum of 14 days.
-Do not store above 25°C.
-If the carton needs to be removed permanently from refrigerator, the date of removal may be recorded on the outer carton.
-After removal from the refrigerator, Dupixent must be used within 14 days or discarded.
+If necessary, the pre-filled syringe or pre-filled pen can be removed from the refrigerator and kept in the pack for up to 14 days at room temperature up to 25°C, while protected from light.
+The date of removal from the refrigerator shall be recorded in the space provided on the outer carton.
+The pack must be discarded if left out of the refrigerator for more than 14 days or if the expiry date has passed.
 
 [Dupixent 200 mg solution for injection in pre-filled syringe]
 
@@ -13,4 +12,4 @@ After removal from the refrigerator, Dupixent must be used within 14 days or dis
 
 [Dupixent 100 mg solution for injection in pre-filled syringe]
 
-If necessary, pre-filled syringes may be kept at room temperature up to 25°C for a maximum of 14 days.
+If necessary, the pre-filled syringe can be removed from the refrigerator and kept in the pack for up to 14 days at room temperature up to 25°C, while protected from light.

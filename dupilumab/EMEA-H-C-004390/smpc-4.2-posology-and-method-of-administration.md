@@ -12,10 +12,9 @@ The recommended dose of dupilumab for adult patients is an initial dose of 600 m
 Adolescents (12 to 17 years of age)
 The recommended dose of dupilumab for adolescent patients 12 to 17 years of age is specified in Table 1.
 
-Table 1: Dose of dupilumab for subcutaneous administration in adolescent patients 12 to 17 years of age with atopic dermatitis
-
-| Body weight of patient | Initial dose | Subsequent doses (every other week) |
+| Table 1: Dose of dupilumab for subcutaneous administration in adolescent patients 12 to 17 years of age with atopic dermatitis |  |  |
 | --- | --- | --- |
+| Body weight of patient | Initial dose | Subsequent doses (every other week) |
 | less than 60 kg | 400 mg (two 200 mg injections) | 200 mg |
 | 60 kg or more | 600 mg (two 300 mg injections) | 300 mg |
 
@@ -29,16 +28,16 @@ Table 2: Dose of dupilumab for subcutaneous administration in children 6 to 11 y
 | 15 kg to less than 60 kg | 300 mg (one 300 mg injection) on Day 1, followed by 300 mg on Day 15 | 300 mg every 4 weeks (Q4W)*, starting 4 weeks after Day 15 dose |
 | 60 kg or more | 600 mg (two 300 mg injections) | 300 mg every other week (Q2W) |
 
-* The dose may be increased to 200 mg Q2W in patients with body weight of 15 kg to less than 60 kg based on physician’s assessment.
+*the dose may be increased to 200 mg Q2W in patients with body weight of 15 kg to less than 60 kg based on physician’s assessment.
 
 Dupilumab can be used with or without topical corticosteroids.
 Topical calcineurin inhibitors may be used, but should be reserved for problem areas only, such as the face, neck, intertriginous and genital areas.
+
 Consideration should be given to discontinuing treatment in patients who have shown no response after 16 weeks of treatment for atopic dermatitis.
 Some patients with initial partial response may subsequently improve with continued treatment beyond 16 weeks.
 If dupilumab treatment interruption becomes necessary, patients can still be successfully re-treated.
 
 Asthma
-
 Adults and adolescents
 The recommended dose of dupilumab for adults and adolescents (12 years of age and older) is:
 
@@ -77,11 +76,11 @@ Missed dose
 
 If a dose is missed, the dose should be administered as soon as possible.
 Thereafter, dosing should resume at the regular scheduled time.
+
 Special populations
 
 Elderly (≥ 65 years)
 No dose adjustment is recommended for elderly patients (see section 5.2).
-
 Renal impairment
 No dose adjustment is needed in patients with mild or moderate renal impairment.
 Very limited data are available in patients with severe renal impairment (see section 5.2).
@@ -94,14 +93,13 @@ No dose adjustment for body weight is recommended for patients with asthma 12 ye
 
 Paediatric patients
 The safety and efficacy of dupilumab in children with atopic dermatitis below the age of 6 years have not been established.
-The safety and efficacy of dupilumab in children with a body weight < 15 kg have not been established (see section 5.2).
+The safety and efficacy of dupilumab in children with a body weight < 15 kg have not been established.
 No data are available.
 
-The safety and efficacy of dupilumab in children with severe asthma below the age of 6 years have not been established (see section 5.2).
+The safety and efficacy of dupilumab in children with severe asthma below the age of 6 years have not been established.
 No data are available.
 
-CRSwNP does not normally occur in children.
-The safety and efficacy in children with CRSwNP below the age of 18 years have not been established (see section 5.2).
+The safety and efficacy in children with CRSwNP below the age of 18 years have not been established.
 No data are available.
 
 Method of administration
@@ -114,6 +112,8 @@ For children 6 to 11 years of age with atopic dermatitis and asthma, the dupilum
 Dupilumab is administered by subcutaneous injection into the thigh or abdomen, except for the 5 cm around the navel.
 If somebody else administers the injection, the upper arm can also be used.
 
+Each pre-filled syringe or pre-filled pen is for single use only.
+
 For the initial 600 mg dose, two 300 mg injections should be administered consecutively in different injection sites.
 
 It is recommended to rotate the injection site with each injection.
@@ -123,6 +123,13 @@ A patient may self-inject dupilumab or the patient's caregiver may administer du
 Proper training should be provided to patients and/or caregivers on the preparation and administration of dupilumab prior to use according to the Instructions for Use (IFU) section at the end of the package leaflet.
 
 [Dupixent 200 mg solution for injection in pre-filled syringe]
+
+Table 1: Dose of dupilumab for subcutaneous administration in adolescent patients 12 to 17 years of age with atopic dermatitis
+
+| Body weight of patient | Initial dose | Subsequent doses (every other week) |
+| --- | --- | --- |
+| less than 60 kg | 400 mg (two 200 mg injections) | 200 mg |
+| 60 kg or more | 600 mg (two 300 mg injections) | 300 mg |
 
 - An initial dose of 400 mg (two 200 mg injections), followed by 200 mg given every other week administered as subcutaneous injection.
 
@@ -139,7 +146,7 @@ Table 1: Dose of dupilumab for subcutaneous administration in children 6 to 11 y
 
 For paediatric patients (6 to 11 years old) with asthma and co-morbid severe atopic dermatitis, as per approved indication, the recommended dose should be followed in Table 2 of 300 mg SmPC.
 
-The safety and efficacy of dupilumab in children with severe asthma below the age of 6 years have not been established.
+Each pre-filled syringe is for single use only.
 
 The patient's caregiver may administer dupilumab if their healthcare professional determines that this is appropriate.
 Proper training should be provided to patient’s caregiver on the preparation and administration of dupilumab prior to use according to the Instructions for Use (IFU) section at the end of the package leaflet.

@@ -7,12 +7,11 @@ Rare cases of serum sickness, serum sickness-like reaction, anaphylactic reactio
 
 Tabulated list of adverse reactions
 
-Dupilumab was studied in 12 randomised, placebo-controlled trials, including atopic dermatitis, asthma, and CRSwNP patients.
-The pivotal controlled studies involved 4,206 patients receiving dupilumab and 2,326 patients receiving placebo during the controlled period.
+The dupilumab safety data presented in Table 4 were predominantly derived from 12 randomised, placebo-controlled trials, including atopic dermatitis, asthma, and CRSwNP patients.
+These studies involved 4,206 patients receiving dupilumab and 2,326 patients receiving placebo during the controlled period are representative of the overall safety profile for dupilumab.
 
 Listed in Table 4 are adverse reactions observed in clinical trials and/or postmarketing setting presented by system organ class and frequency, using the following categories: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-
 Table 4: List of adverse reactions
 
 | MedDRA System Organ Class | Frequency | Adverse Reaction |
@@ -25,9 +24,9 @@ Table 4: List of adverse reactions
 | Musculoskeletal and connective tissue disorders | Common | Arthralgia# |
 | General disorders and administration site conditions | Common | Injection site reactions (includes erythema, oedema, pruritus, pain, and swelling) |
 
-*Eye disorders and oral herpes occurred predominately in atopic dermatitis studies.
-†The frequencies for eye pruritus, blepharitis, and dry eye were common and ulcerative keratitis was uncommon in atopic dermatitis studies.
-#From postmarketing reporting.
+*eye disorders and oral herpes occurred predominately in atopic dermatitis studies.
+†the frequencies for eye pruritus, blepharitis, and dry eye were common and ulcerative keratitis was uncommon in atopic dermatitis studies.
+#from postmarketing reporting.
 
 Description of selected adverse reactions
 
@@ -46,7 +45,6 @@ Eczema herpeticum
 Eczema herpeticum was reported in < 1% of the dupilumab groups and in < 1 % of the placebo group in the 16-week atopic dermatitis monotherapy adult studies.
 In the 52-week atopic dermatitis dupilumab + TCS adult study, eczema herpeticum was reported in 0.2 % of the dupilumab + TCS group and 1.9 % of the placebo + TCS group.
 These rates remained stable at 3 years in the long-term OLE study (AD-1225).
-
 Eosinophilia
 Dupilumab-treated patients had a greater mean initial increase from baseline in eosinophil count compared to patients treated with placebo.
 Eosinophil counts declined to near baseline levels during study treatment and returned to baseline during the asthma open-label extension safety study (TRAVERSE).
@@ -58,6 +56,7 @@ Infections
 In the 16-week atopic dermatitis monotherapy clinical adult studies, serious infections were reported in 1.0 % of patients treated with placebo and 0.5 % of patients treated with dupilumab.
 In the 52-week atopic dermatitis CHRONOS adult study, serious infections were reported in 0.6 % of patients treated with placebo and 0.2 % of patients treated with dupilumab.
 The rates of serious infections remained stable at 3 years in the long-term OLE study (AD-1225).
+
 No increase was observed in the overall incidence of infections with dupilumab compared to placebo in the safety pool for asthma clinical studies.
 In the 24-week safety pool, serious infections were reported in 1.0% of patients treated with dupilumab and 1.1% of patients treated with placebo.
 In the 52-week QUEST study, serious infections were reported in 1.3% of patients treated with dupilumab and 1.4% of patients treated with placebo.
@@ -95,9 +94,8 @@ The safety profile observed was similar to that seen in adults.
 
 The long-term safety of dupilumab was assessed in 89 adolescent patients who were enrolled in an
 open-label extension study in moderate-to-severe asthma (TRAVERSE). In this study, patients were
-
-followed for up to 96 weeks.
-The safety profile of dupilumab in TRAVERSE was consistent with the safety profile observed in pivotal asthma studies for up to 52 weeks of treatment.
+followed for up to 96 weeks. The safety profile of dupilumab in TRAVERSE was consistent with the
+safety profile observed in pivotal asthma studies for up to 52 weeks of treatment.
 
 In children 6 to 11 years of age with moderate-to-severe asthma (VOYAGE), the additional adverse reaction of enterobiasis was reported in 1.8 % (5 patients) in the dupilumab groups and none in the placebo group.
 All enterobiasis cases were mild to moderate and patients recovered with anti-helminth treatment without dupilumab treatment discontinuation.
@@ -115,7 +113,7 @@ The long-term safety of dupilumab was assessed in an open-label extension study 
 The safety profile of dupilumab in patients followed through week 52 was similar to the safety profile observed at week 16 in the AD-1526 and AD-1652 studies.
 The long-term safety profile of dupilumab observed in children and adolescents was consistent with that seen in adults with atopic dermatitis.
 
-In a phase 3, multicentre, open label extension (OLE) study (AD-1225), the long-term safety of repeat doses of dupilumab was assessed in 2,677 adults with moderate-to-severe AD exposed to 300 mg weekly dosing (99.7 %), including 347 who completed at least 148 weeks of the study.
+In a phase 3, multicentre, open label extension (OLE) study (AD-1225), the long-term safety of repeat doses of dupilumab was assessed in 2,677 adults with moderate-to-severe AD exposed to 300 mg weekly dosing (99.7 %), including 357 who completed at least 148 weeks of the study.
 The long-term safety profile observed in this study up to 3 years was generally consistent with the safety profile of dupilumab observed in controlled studies.
 
 Asthma
@@ -123,7 +121,6 @@ The safety profile of dupilumab in the 96 weeks long term safety study (TRAVERSE
 
 CRSwNP
 The safety profile of dupilumab in adults with CRSwNP through week 52 was consistent with the safety profile observed at week 24.
-
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
@@ -138,22 +135,9 @@ Eczema herpeticum was reported in < 1 % of the dupilumab groups and in < 1 % of 
 
 In the 52-week SINUS-52 study, serious infections were reported in 1.3% of patients treated with dupilumab and 1.3 % of patients treated with placebo.
 
-followed for up to 96 weeks. The safety profile of dupilumab in TRAVERSE was consistent with the
-safety profile observed in pivotal asthma studies for up to 52 weeks of treatment.
-
 [Dupixent 100 mg solution for injection in pre-filled syringe]
 
+The dupilumab safety data presented in Table 2 were predominantly derived from 12 randomised, placebo-controlled trials, including atopic dermatitis, asthma, and CRSwNP patients.
+
 Listed in Table 2 are adverse reactions observed in clinical trials and/or postmarketing setting presented by system organ class and frequency, using the following categories: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000).
-
 Table 2: List of adverse reactions
-
-| MedDRA System Organ Class | Frequency | Adverse Reaction |
-| --- | --- | --- |
-| Infections and infestations | Common | Conjunctivitis* Oral herpes* |
-| Blood and lymphatic system disorders | Common | Eosinophilia |
-| Immune system disorders | Uncommon Rare | Angioedema# Anaphylactic reaction |
-|  |  | Serum sickness reaction Serum sickness-like reaction |
-| Eye disorders | Common Uncommon Rare | Conjunctivitis allergic* Keratitis*# Blepharitis*† Eye pruritus*† Dry eye*† Ulcerative keratitis*†# |
-| Skin and subcutaneous tissue disorders | Uncommon | Facial rash# |
-| Musculoskeletal and connective tissue disorders | Common | Arthralgia# |
-| General disorders and administration site conditions | Common | Injection site reactions (includes erythema, oedema, pruritus, pain, and swelling) |
