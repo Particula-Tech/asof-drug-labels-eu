@@ -1,12 +1,11 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-While posology differs, when Ceplene is used in conjunction with IL-2, physicians should also refer to the Summary of Product Characteristics (SmPC) for IL-2 and observe the respective medical product interactions.
+While posology differs, when Ceplene is used in conjunction with IL-2, physicians should also refer to the Summary of Product Characteristics (SmPC) for IL-2 and observe the respective medicinal product interactions.
 
 H2 receptor antagonists with imidazole structures similar to histamine, e.g., cimetidine, systemic steroids and clonidine, must not be used during treatment with Ceplene (see section 4.3).
 
 Beta-blockers and other anti-hypertensive agents should be used with caution during treatment with Ceplene.
 Concurrent administration of medicinal products with cardiotoxicity or blood pressure lowering effects may increase the toxicity of Ceplene.
-
 H1 receptor blocking antihistamines or neuroleptics (anti-psychotics) with H1 receptor blocking properties that might decrease efficacy of Ceplene should be avoided.
 
 Tricyclic anti-depressants may have H1 and H2 receptor blocking properties and should be avoided.
