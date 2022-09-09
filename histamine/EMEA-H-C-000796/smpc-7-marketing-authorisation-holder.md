@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Noventia Pharma srl
-Via Carlo PISACANE 31
-I-47121 Forli (FC)
-Italy
+Laboratoires Delbert
+49 Rue Rouelle
+75015 Paris
+France

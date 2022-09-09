@@ -8,10 +8,41 @@ For dosing instructions for Ceplene in combination with IL-2, see posology below
 
 Interleukin-2 (IL-2)
 
-IL-2 is administered twice daily as a subcutaneous injection 1 to 3 minutes prior to the administration of Ceplene; each dose of IL-2 is 16,400 IU/kg (1 µg/kg).
+IL-2 is administered twice daily as a subcutaneous injection 1 to 3 minutes prior to the administration of Ceplene; each dose of IL-2 is 16 400 IU/kg (1 µg/kg).
 
 Interleukin-2 (IL-2) is commercially available as a recombinant IL-2; aldesleukin.
-The dispensing and storage directions in the section 6.6 are specific to aldesleukin.
+The dispensing and storage directions below are specific to aldesleukin.
+
+Dispensing instructions for IL-2 (aldesleukin)
+
+IL-2 (aldesleukin) should be aseptically reconstituted, diluted and dispensed in capped polypropylene tuberculin syringes by the pharmacy based on the individual patient’s weight (see administration chart for aldesleukin below) at the recommended dose of 16 400 IU/kg (1 µg/kg).
+Up to two weeks supply of pre-filled capped tuberculin syringes may be provided to patients for home administration, with instructions that the syringes be stored under refrigeration at 2°C – 8°C prior to administration.
+Studies have shown chemical stability and sterility of diluted aldesleukin (dispensed in capped polypropylene tuberculin syringes) for up to three weeks when prepared in a controlled aseptic environment and stored under refrigeration at 2°C – 8°C.
+
+NOTE: Dispensing of aldesleukin must be carried out under controlled aseptic conditions.
+
+Dispensing of dilute IL-2 (Aldesleukin) for each patient
+
+The diluted IL-2 (aldesleukin) is aseptically drawn up into sterile polypropylene tuberculin syringes and capped for each patient at 1 µg/kg dose, with a minimum standard dosage volume of 0.25 mL
+(50 µg) and a maximum dose of 0.5 mL (100 µg).
+Dosing volumes based on patient weight are provided in Table 1 below.
+This table also provides the volume required if a 20% dose reduction is prescribed.
+
+Table 1: Administration chart for IL-2 (aldesleukin)
+
+| Patient weight (kg) | Standard dosage (µg) | Injection volume* (mL) | 20% dose reduction injection volume (mL)** |
+| --- | --- | --- | --- |
+| ≤50 | 50 | 0.25 | 0.20 |
+| >50 to ≤60 | 60 | 0.30 | 0.25 |
+| >60 to ≤70 | 70 | 0.35 | 0.30 |
+| >70 to ≤80 | 80 | 0.40 | 0.30 |
+| >80 to ≤90 | 90 | 0.45 | 0.35 |
+| >90 to ≤100 | 100 | 0.50 | 0.40 |
+| >100 | 100 | 0.50 | 0.40 |
+
+*Injection volume rounded up to the nearest 0.05 mL
+** Injection volumes based on 20% reductions are rounded thus actual dose reductions vary from 15%-25%
+
 Ceplene
 
 0.5 mL solution is sufficient for a single dose (see section 6.6).
@@ -22,11 +53,10 @@ Treatment cycles
 
 Ceplene and IL-2 are administered for 10 treatment cycles: each cycle consists of a treatment period of 21 days (3 weeks) followed by a three-week or six-week treatment-free period.
 For cycles 1-3, each cycle consists of 3 weeks of treatment, followed by a 3-week treatment free period.
-For cycles 4-10, each cycle consists of 3 weeks of treatment, followed by a 6-week treatment free period.
+For cycles 4-10, each cycle consists of 3 weeks of treatment, followed by a 6-week treatment-free period.
 
-The recommended dosing regimen is presented in Tables 1 and 2.
-
-Table 1: For treatment cycles 1-3 with Ceplene and IL-2
+The recommended dosing regimen is presented in Tables 2 and 3.
+Table 2: For treatment cycles 1-3 with Ceplene and IL-2
 
 | Week number (w)* |  |  | Treatment* |
 | --- | --- | --- | --- |
@@ -36,7 +66,7 @@ Table 1: For treatment cycles 1-3 with Ceplene and IL-2
 
 *see dose modification for provisions for the modification to dose and dosage schedule
 
-Table 2: For treatment cycles 4-10 with Ceplene and IL-2, same as for Table 1 above, with the exception of number of cycles and duration of rest periods
+Table 3: For treatment cycles 4-10 with Ceplene and IL-2, same as for Table 2 above, with the exception of number of cycles and duration of rest periods
 
 | Week number (w)* |  |  |  |  |  |  | Treatment* |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -96,15 +126,12 @@ Treatment can be resumed by administering Ceplene at the full dose and IL-2 at 5
 
 Special populations
 
-Elderly patients
-
-The efficacy of Ceplene has not been fully demonstrated in patients older than age 60.
-
 Renal impairment
 
 Patients with renal impairment may be more sensitive to the blood pressure lowering effects of Ceplene.
 Although the degree of renal impairment has no demonstrable effect on the pharmacokinetic disposition of Ceplene, caution is warranted when Ceplene is administered to patients with severe renal impairment.
 However, no Ceplene dose reduction is normally required in renally impaired patients.
+
 Hepatic impairment
 
 Ceplene should be used with caution in patients with moderate to severe hepatic impairment (see section 5.2).
@@ -120,7 +147,6 @@ No data are available.
 Method of administration
 
 Ceplene is for subcutaneous use only.
-
 One to 3 minutes after the subcutaneous administration of IL-2 has been completed, Ceplene should be administered by slow subcutaneous injection at a rate not to exceed 0.1 mL (0.1 mg histamine dihydrochloride) per minute.
 The usual time for administering a 0.5 mL Ceplene dose is 5 minutes.
 To reduce potential adverse reactions, the administration time may be lengthened to a maximum of 15 minutes, see below.
@@ -139,4 +165,4 @@ Ceplene should not be injected into the same anatomic region as IL-2.
 The twice daily dosing of IL-2 and Ceplene should be separated by a minimum of 6 hours.
 Patients should remain at rest for 20 minutes after injection of Ceplene.
 
-For instructions on reconstitution and dilution of Interleukin-2 (aldesleukin) before administration, see commercially available IL-2 SmPC.
+For instructions on reconstitution and dilution of Interleukin-2 (aldesleukin) before administration, see section 6.6.

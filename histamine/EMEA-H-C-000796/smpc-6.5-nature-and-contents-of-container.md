@@ -17,35 +17,21 @@ The solution must be clear and colourless.
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
 Interleukin-2 (IL-2; aldesleukin)
+
 Dilute IL-2 dispensed in capped polypropylene tuberculin syringes is to be prepared by the pharmacy in a controlled aseptic environment and stored in a refrigerator at 2°C – 8°C.
-For instructions on the initial reconstitution and subsequent dilution to 200 µg/mL of Interleukin-2 (aldesleukin) before administration, see commercially available IL-2 SmPC.
 
-Dispensing instructions for IL-2 (aldesleukin)
+Initial reconstitution
 
-IL-2 (aldesleukin) should be aseptically reconstituted, diluted and dispensed in capped polypropylene tuberculin syringes by the pharmacy based on the individual patient’s weight (see administration chart for aldesleukin below) at the recommended dose of 16 400 IU/kg (1 µg/kg).
-Up to two weeks supply of pre-filled capped tuberculin syringes may be provided to patients for home administration, with instructions that the syringes be stored under refrigeration at 2°C – 8°C prior to administration.
+Each vial of aldesleukin (1.3 mg / vial) is reconstituted aseptically with 1.2 mL water for injections (see commercially available aldesleukin SmPC).
+Direct the diluent against the side of the vial to avoid excessive foaming.
+Gently swirl to facilitate complete dissolution of the powder.
+Do NOT shake the vial during the entire reconstitution process.
+The resulting solution contains 22 x 10 6 IU (1,300 µg) of aldesleukin per 1.2 mL.
 
-Studies have shown chemical stability and sterility of diluted aldesleukin (dispensed in capped polypropylene tuberculin syringes) for up to three weeks when prepared in a controlled aseptic environment and stored under refrigeration at 2°C – 8°C.
+Subsequent dilution to 200 µg/mL
 
-NOTE: Dispensing of aldesleukin must be carried out under controlled aseptic conditions.
+The entire contents of the reconstituted vial (1.2 mL) is then further diluted aseptically with 5.3 mL dextrose 5%w/v solution for injection to a total volume of 6.5 mL providing a final concentration of 200 µg/mL (3.3 x 106 IU/mL) of IL-2 (aldesleukin).
 
-Dispensing of dilute IL-2 (aldesleukin) for each patient
+When reconstituted and diluted, stability of dilute IL-2 (aldesleukin) in capped polypropylene tuberculin syringes has been demonstrated for up to 21 days when stored at refrigerated temperatures (2°C – 8°C).
 
-The diluted IL-2 (aldesleukin) is aseptically drawn up into sterile polypropylene tuberculin syringes and capped for each patient at 1 µg/kg dose, with a minimum standard dosage volume of 0.25 mL
-(50 µg) and a maximum dose of 0.5 mL (100 µg).
-Dosing volumes based on patient weight are provided in Table 3 below.
-This table also provides the volume required if a 20% dose reduction is prescribed.
-Table 3: Administration chart for IL-2 (aldesleukin)
-
-| Patient weight (kg) | Standard dosage (µg) | Injection volume* (mL) | 20% dose reduction injection volume (mL)** |
-| --- | --- | --- | --- |
-| ≤50 | 50 | 0.25 | 0.20 |
-| >50 to ≤60 | 60 | 0.30 | 0.25 |
-| >60 to ≤70 | 70 | 0.35 | 0.30 |
-| >70 to ≤80 | 80 | 0.40 | 0.30 |
-| >80 to ≤90 | 90 | 0.45 | 0.35 |
-| >90 to ≤100 | 100 | 0.50 | 0.40 |
-| >100 | 100 | 0.50 | 0.40 |
-
-*Injection volume rounded up to the nearest 0.05 mL
-** Injection volumes based on 20% reductions are rounded thus actual dose reductions vary from 15%-25%
+Please see section 4.2 for IL-2 dispensing instructions.
