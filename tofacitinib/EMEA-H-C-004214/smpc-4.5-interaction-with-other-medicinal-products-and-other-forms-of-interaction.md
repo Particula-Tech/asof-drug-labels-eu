@@ -7,12 +7,12 @@ Tofacitinib exposure is increased when coadministered with potent inhibitors of 
 
 Tofacitinib exposure is decreased when coadministered with potent CYP inducers (e.g., rifampicin).
 Inhibitors of CYP2C19 alone or P-glycoprotein are unlikely to significantly alter the PK of tofacitinib.
+
 Coadministration with ketoconazole (strong CYP3A4 inhibitor), fluconazole (moderate CYP3A4 and potent CYP2C19 inhibitor), tacrolimus (mild CYP3A4 inhibitor) and ciclosporin (moderate CYP3A4 inhibitor) increased tofacitinib AUC, while rifampicin (potent CYP inducer) decreased tofacitinib AUC.
 Coadministration of tofacitinib with potent CYP inducers (e.g., rifampicin) may result in a loss of or reduced clinical response (see Figure 1).
 Coadministration of potent inducers of CYP3A4 with tofacitinib is not recommended.
 Coadministration with ketoconazole and fluconazole increased tofacitinib Cmax, while tacrolimus, ciclosporin and rifampicin decreased tofacitinib Cmax.
 Concomitant administration with MTX 15-25 mg once weekly had no effect on the PK of tofacitinib in RA patients (see Figure 1).
-
 Figure 1.
 Impact of other medicinal products on PK of tofacitinib
 
@@ -20,15 +20,13 @@ Coadministered PK Ratio and 90% CI Recommendation
 
 Medicinal Product
 
-CYP3A Inhibitor Ketoconazole AUC Tofacitinib dose should be reduced a
+CYP3A InhibitorKetoconazole AUC Tofacitinib dose should be reduced a
 
 Cmax
 
 CYP3A & CYP2C19 InhibitorFluconazole AUC Tofacitinib dose should be reduced a
 
-|  | AUC |
-| --- | --- |
-| Cmax |  |
+Cmax
 
 CYP Inducer Rifampicin AUC Efficacy may be decreased
 
@@ -39,18 +37,8 @@ Methotrexate AUC No dose adjustment
 Cmax
 
 Tacrolimus AUC Combined use of tofacitinib with
-
-|  | AUC |
-| --- | --- |
-| Cmax |  |
-
 Cmax tacrolimus should be avoided
 Ciclosporin AUC Combined use of tofacitinib with
-
-|  | AUC |
-| --- | --- |
-| Cmax |  |
-
 Cmax ciclosporin should be avoided
 
 0 0.5 1 1.5 2 2.5

@@ -5,7 +5,7 @@ Summary of the safety profile
 Rheumatoid arthritis
 The most common serious adverse reactions were serious infections (see section 4.4).
 In the long-term safety all exposure population, the most common serious infections reported with tofacitinib were pneumonia (1.7%), herpes zoster (0.6%), urinary tract infection (0.4%), cellulitis (0.4%), diverticulitis (0.3%), and appendicitis (0.2%).
-Among opportunistic infections, TB and other mycobacterial infections, cryptococcus, histoplasmosis, oesophageal candidiasis, multidermatomal herpes zoster, cytomegalovirus, BK virus infections and listeriosis were reported with tofacitinib.
+Among opportunistic infections, TB and other mycobacterial infections, cryptococcus, histoplasmosis, oesophageal candidiasis, multidermatomal herpes zoster, cytomegalovirus infection, BK virus infections and listeriosis were reported with tofacitinib.
 Some patients have presented with disseminated rather than localised disease.
 Other serious infections that were not reported in clinical studies may also occur (e.g., coccidioidomycosis).
 
@@ -13,6 +13,7 @@ The most commonly reported adverse reactions during the first 3 months of the do
 
 The proportion of patients who discontinued treatment due to adverse reactions during first 3 months of the double-blind, placebo or MTX controlled studies was 3.8% for patients taking tofacitinib.
 The most common infections resulting in discontinuation of therapy during the first 3 months in controlled clinical studies were herpes zoster (0.19%) and pneumonia (0.15%).
+
 Psoriatic arthritis
 Overall, the safety profile observed in patients with active PsA treated with tofacitinib was consistent with the safety profile observed in patients with RA treated with tofacitinib.
 
@@ -23,7 +24,6 @@ Ulcerative colitis
 The most commonly reported adverse reactions in patients receiving tofacitinib 10 mg twice daily in the induction studies were headache, nasopharyngitis, nausea, and arthralgia.
 
 In the induction and maintenance studies, across tofacitinib and placebo treatment groups, the most common categories of serious adverse reactions were gastrointestinal disorders and infections, and the most common serious adverse reaction was worsening of UC.
-
 Overall, the safety profile observed in patients with UC treated with tofacitinib was consistent with the safety profile of tofacitinib in the RA indication.
 
 Tabulated list of adverse reactions
@@ -35,9 +35,9 @@ Table 8: Adverse reactions
 
 | System organ class | Common ≥1/100 to <1/10 | Uncommon ≥1/1,000 to <1/100 | Rare ≥1/10,000 to <1/1,000 | Very rare <1/10,000 | Not known (cannot be estimated from the available data) |
 | --- | --- | --- | --- | --- | --- |
-| Infections and infestations | Pneumonia Influenza Herpes zoster Urinary tract infection Sinusitis Bronchitis Nasopharyngitis Pharyngitis | Tuberculosis Diverticulitis Pyelonephritis Cellulitis Herpes simplex Gastroenteritis viral Viral infection | Sepsis Urosepsis Disseminated TB Necrotizing fasciitis Bacteraemia Staphylococcal bacteraemia Pneumocystis jirovecii pneumonia Pneumonia pneumococcal Pneumonia bacterial Encephalitis Atypical mycobacterial infection Cytomegalovir us infection Arthritis bacterial | Tuberculosis of central nervous system Meningitis cryptococcal Mycobacteriu m avium complex infection |  |
+| Infections and infestations | Pneumonia Influenza Herpes zoster Urinary tract infection Sinusitis Bronchitis Nasopharyngitis Pharyngitis | Tuberculosis Diverticulitis Pyelonephritis Cellulitis Herpes simplex Gastroenteritis viral Viral infection | Sepsis Urosepsis Disseminated TB Bacteraemia Pneumocystis jirovecii pneumonia Pneumonia pneumococcal Pneumonia bacterial Cytomegalovir us infection Arthritis bacterial | Tuberculosis of central nervous system Meningitis cryptococcal Necrotizing fasciitis Encephalitis Staphylococc al bacteraemia Mycobacteriu m avium complex infection Atypical mycobacteria l infection |  |
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) |  | Lung cancer Non-melanoma skin cancers | Lymphoma |  |  |
-| Blood and lymphatic system disorders | Anaemia | Leukopenia Lymphopenia Neutropenia |  |  |  |
+| Blood and lymphatic system disorders | Lymphopenia Anaemia | Leukopenia Neutropenia |  |  |  |
 | Immune system disorders |  |  |  |  | Hypersensitivity * Angioedema* Urticaria* |
 | Metabolism and nutrition disorders |  | Dyslipidaemia Hyperlipidaemia Dehydration |  |  |  |
 | Psychiatric disorders |  | Insomnia |  |  |  |
@@ -46,15 +46,16 @@ Table 8: Adverse reactions
 | Vascular disorders | Hypertension | Venous thromboembolism** |  |  |  |
 | Respiratory, thoracic and mediastinal disorders | Cough | Dyspnoea Sinus congestion |  |  |  |
 | Gastrointestinal disorders | Abdominal pain Vomiting Diarrhoea Nausea Gastritis Dyspepsia |  |  |  |  |
-| Hepatobiliary disorders |  | Hepatic steatosis Hepatic enzyme increased Transaminases increased Liver function test abnormal Gamma glutamyl-transferase increased |  |  |  |
+| Hepatobiliary disorders |  | Hepatic steatosis Hepatic enzyme increased Transaminases increased Gamma glutamyl-transferase increased | Liver function test abnormal |  |  |
 | Skin and subcutaneous tissue disorders | Rash | Erythema Pruritus |  |  |  |
-| Musculoskeletal and connective tissue disorders | Arthralgia | Musculoskeletal pain Joint swelling Tendonitis |  |  |  |
-| General disorders and administration site conditions | Pyrexia Oedema peripheral Fatigue |  |  |  |  |
+| Musculoskeletal and connective tissue disorders | Arthralgia | Joint swelling Tendonitis | Musculoskelet al pain |  |  |
+| General disorders and administration site conditions | Oedema peripheral | Pyrexia Fatigue |  |  |  |
 | Investigations | Blood creatine phosphokinase increased | Blood creatinine increased Blood cholesterol increased Low density lipoprotein increased Weight increased |  |  |  |
 | Injury, poisoning and procedural complications |  | Ligament sprain Muscle strain |  |  |  |
 
 *Spontaneous reporting data
-**Venous thromboembolism includes PE and DVT
+**Venous thromboembolism includes PE, DVT, and Retinal Venous Thrombosis
+
 Description of selected adverse reactions
 
 Venous thromboembolism
@@ -70,7 +71,6 @@ Compared with TNF inhibitors, the HR for PE was 9.14 (2.11-39.56) for tofacitini
 
 Ankylosing spondylitis
 In the combined Phase 2 and Phase 3 randomised controlled clinical studies, there were no VTE events in 420 patients (233 patient-years of observation) receiving tofacitinib up to 48 weeks.
-
 Ulcerative colitis (UC)
 In the UC ongoing extension trial, cases of PE and DVT have been observed in patients using tofacitinib 10 mg twice daily and with underlying VTE risk factor(s).
 
@@ -89,6 +89,7 @@ For patients (total 3,117) on background DMARDs, the rates were 41.0 and 50.3 pa
 Ankylosing spondylitis
 In the combined Phase 2 and Phase 3 clinical studies, during the placebo-controlled period of up to 16 weeks, the frequency of infections in the tofacitinib 5 mg twice daily group (185 patients) was 27.6% and the frequency in the placebo group (187 patients) was 23.0%.
 In the combined Phase 2 and Phase 3 clinical studies, among the 316 patients treated with tofacitinib 5 mg twice daily for up to 48 weeks, the frequency of infections was 35.1%.
+
 Ulcerative colitis
 In the randomised 8-week Phase 2/3 induction studies, the proportions of patients with infections were 21.1% (198 patients) in the tofacitinib 10 mg twice daily group compared to 15.2% (43 patients) in the placebo group.
 In the randomised 52-week phase 3 maintenance study, the proportion of patients with infections were 35.9% (71 patients) in the 5 mg twice daily and 39.8% (78 patients) in the 10 mg twice daily tofacitinib groups, compared to 24.2% (48 patients) in the placebo group.
@@ -131,6 +132,8 @@ Viral reactivation
 
 Patients treated with tofacitinib who are Japanese or Korean, or patients with long standing RA who have previously received two or more biological DMARDs, or patients with an ALC less than 1,000 cells/mm3, or patients treated with 10 mg twice daily may have an increased risk of herpes zoster (see section 4.4).
 
+In a large (N=4,362) randomised post-authorisation safety study in patients with RA who were 50 years or older with at least one additional cardiovascular risk factor, an increase in herpes zoster events was observed in patients treated with tofacitinib compared to TNF inhibitors.
+The incidence rates (95% CI) for herpes zoster for tofacitinib 5 mg twice daily, tofacitinib 10 mg twice daily, and TNF inhibitors were 3.75 (3.22, 4.34), 3.94 (3.38, 4.57), and 1.18 (0.90, 1.52) patients with events per 100 patient-years, respectively.
 Laboratory tests
 
 Lymphocytes
@@ -174,6 +177,9 @@ AST elevations greater than 3x ULN were observed in < 1.0% in both the tofacitin
 In the RA long-term extension studies, on background DMARDs, ALT elevations greater than 3x ULN were observed in 1.8% and 1.6% of patients receiving tofacitinib 5 mg and 10 mg twice daily, respectively.
 AST elevations greater than 3x ULN were observed in < 1.0% in both the tofacitinib 5 mg and 10 mg twice daily groups.
 
+In a large (N=4,362) randomised post-authorisation safety study in patients with RA who were 50 years or older with at least one additional cardiovascular risk factor, ALT elevations greater than or equal to 3x ULN were observed in 6.01%, 6.54% and 3.77% of patients receiving tofacitinib 5 mg twice daily, tofacitinib 10 mg twice daily, and TNF inhibitors respectively.
+AST elevations greater than or equal to 3x ULN were observed in 3.21%, 4.57% and 2.38% of patients receiving tofacitinib 5 mg twice daily, tofacitinib 10 mg twice daily, and TNF inhibitors respectively.
+
 In the clinical studies in UC, changes in liver enzyme tests observed with tofacitinib treatment were similar to the changes observed in clinical studies in RA.
 
 Lipids
@@ -192,6 +198,14 @@ Mean LDL cholesterol/HDL cholesterol ratios and Apolipoprotein B (ApoB)/ApoA1 ra
 In an RA controlled clinical study, elevations in LDL cholesterol and ApoB decreased to pretreatment levels in response to statin therapy.
 
 In the RA long-term safety populations, elevations in the lipid parameters remained consistent with what was seen in the controlled clinical studies.
+
+In a large (N=4,362) randomised post-authorisation safety study in patients with RA who were 50 years or older with at least one additional cardiovascular risk factor, changes in lipid parameters from baseline through 24 months are summarised below:
+
+- Mean LDL cholesterol increased by 13.80%, 17.04%, and 5.50% in patients receiving tofacitinib 5 mg twice daily, tofacitinib 10 mg twice daily, and TNF inhibitor, respectively, at month 12.
+  At month 24, the increase was 12.71%, 18.14%, and 3.64%, respectively,
+- Mean HDL cholesterol increased by 11.71%, 13.63%, and 2.82% in patients receiving tofacitinib 5 mg twice daily, tofacitinib 10 mg twice daily, and TNF inhibitor, respectively, at month 12.
+  At month 24, the increase was 11.58%, 13.54%, and 1.42%, respectively.
+
 In the clinical studies in UC, changes in lipids observed with tofacitinib treatment were similar to the changes observed in clinical studies in RA.
 
 Myocardial infarction
@@ -221,9 +235,9 @@ In the double-blind portion of the pivotal Phase 3 trial (Study JIA-I), infectio
 The infections were generally mild to moderate in severity.
 
 In the integrated safety population, 7 patients had serious infections during treatment with tofacitinib within the reporting period (up to 28 days after the last dose of study medication), representing an incidence rate of 1.92 patients with events per 100 patient-years: pneumonia, epidural empyema (with sinusitis and subperiosteal abscess), pilonidal cyst, appendicitis, escherichia pyelonephritis, abscess limb, and UTI.
-
 In the integrated safety population, 3 patients had non-serious events of herpes zoster within the reporting window representing an incidence rate of 0.82 patients with events per 100 patient-years.
 One (1) additional patient had an event of serious HZ outside the reporting window.
+
 Hepatic events
 
 Patients in the JIA pivotal study were required to have AST and ALT levels less than 1.5 times the upper limit of normal to be eligible for enrolment.
@@ -245,6 +259,26 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 [XELJANZ 11 mg prolonged-release tablets]
 
 Table 7: Adverse reactions
+
+| System organ class | Common ≥1/100 to <1/10 | Uncommon ≥1/1,000 to <1/100 | Rare ≥1/10,000 to <1/1,000 | Very rare <1/10,000 | Not known (cannot be estimated from the available data) |
+| --- | --- | --- | --- | --- | --- |
+| Infections and infestations | Pneumonia Influenza Herpes zoster Urinary tract infection Sinusitis Bronchitis Nasopharyngitis Pharyngitis | Tuberculosis Diverticulitis Pyelonephritis Cellulitis Herpes simplex Gastroenteritis viral Viral infection | Sepsis Urosepsis Disseminated TB Bacteraemia Pneumocystis jirovecii pneumonia Pneumonia pneumococcal Pneumonia bacterial Cytomegalovir us infection Arthritis bacterial | Tuberculosis of central nervous system Meningitis cryptococcal Necrotizing fasciitis Encephalitis Staphylococca l bacteraemia Mycobacteriu m avium complex infection Atypical mycobacterial infection |  |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) |  | Lung cancer Non-melanoma skin cancers | Lymphoma |  |  |
+| Blood and lymphatic system disorders | Lymphopenia Anaemia | Leukopenia Neutropenia |  |  |  |
+| Immune system disorders |  |  |  |  | Hypersensitivity * Angioedema* Urticaria* |
+| Metabolism and nutrition disorders |  | Dyslipidaemia Hyperlipidaemia Dehydration |  |  |  |
+| Psychiatric disorders |  | Insomnia |  |  |  |
+| Nervous system disorders | Headache | Paraesthesia |  |  |  |
+| Cardiac disorders |  | Myocardial infarction |  |  |  |
+| Vascular disorders | Hypertension | Venous thromboembolism** |  |  |  |
+| Respiratory, thoracic and mediastinal disorders | Cough | Dyspnoea Sinus congestion |  |  |  |
+| Gastrointestinal disorders | Abdominal pain Vomiting Diarrhoea Nausea Gastritis Dyspepsia |  |  |  |  |
+| Hepatobiliary disorders |  | Hepatic steatosis Hepatic enzyme increased Transaminases increased Gamma glutamyl-transferase increased | Liver function test abnormal |  |  |
+| Skin and subcutaneous tissue disorders | Rash | Erythema Pruritus |  |  |  |
+| Musculoskeletal and connective tissue disorders | Arthralgia | Joint swelling Tendonitis | Musculoskelet al pain |  |  |
+| General disorders and administration site conditions | Oedema peripheral | Pyrexia Fatigue |  |  |  |
+| Investigations | Blood creatine phosphokinase increased | Blood creatinine increased Blood cholesterol increased Low density lipoprotein increased Weight increased |  |  |  |
+| Injury, poisoning and procedural complications |  | Ligament sprain Muscle strain |  |  |  |
 
 In the combined Phase 2 and Phase 3 randomised controlled clinical trials, there were no VTE events in 420 patients (233 patient-years of observation) receiving tofacitinib up to 48 weeks.
 

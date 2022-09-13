@@ -42,7 +42,7 @@ Renal impairment
 Subjects with mild (creatinine clearance 50-80 mL/min), moderate (creatinine clearance 30-49 mL/min), and severe (creatinine clearance < 30 mL/min) renal impairment had 37%, 43% and 123% higher AUC, respectively, compared to subjects with normal renal function (see section 4.2).
 In subjects with end-stage renal disease (ESRD), contribution of dialysis to the total clearance of tofacitinib was relatively small.
 Following a single dose of 10 mg, mean AUC in subjects with ESRD based on concentrations measured on a non-dialysis day was approximately 40% (90% confidence intervals: 1.5-95%) higher compared to subjects with normal renal function.
-In clinical studies, tofacitinib was not evaluated in patients with baseline creatinine clearance values (estimated by Cockroft-Gault equation) less than 40 mL/min (see section 4.2).
+In clinical studies, tofacitinib was not evaluated in patients with baseline creatinine clearance values (estimated by Cockcroft-Gault equation) less than 40 mL/min (see section 4.2).
 
 Hepatic impairment
 

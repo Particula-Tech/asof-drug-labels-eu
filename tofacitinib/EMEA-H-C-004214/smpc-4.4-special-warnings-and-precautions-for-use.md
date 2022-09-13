@@ -35,6 +35,11 @@ If D-dimer test result is ≥ 2× ULN, confirm that clinical benefits outweigh r
 
 Promptly evaluate patients with signs and symptoms of VTE and discontinue tofacitinib in patients with suspected VTE, regardless of dose or indication.
 
+Retinal venous thrombosis
+
+Retinal venous thrombosis (RVT) has been reported in patients treated with tofacitinib (see section 4.8).
+The patients should be advised to promptly seek medical care in case they experience symptoms suggestive of RVT.
+
 Serious infections
 
 Serious and sometimes fatal infections due to bacterial, mycobacterial, invasive fungal, viral, or other opportunistic pathogens have been reported in patients receiving tofacitinib.
@@ -77,7 +82,8 @@ Patients should be closely monitored for the development of signs and symptoms o
 
 Viral reactivation
 
-Viral reactivation and cases of herpes virus reactivation (e.g., herpes zoster) were observed in clinical studies with tofacitinib.
+Viral reactivation and cases of herpes virus reactivation (e.g., herpes zoster) have been observed in patients receiving tofacitinib (see section 4.8).
+
 In patients treated with tofacitinib, the incidence of herpes zoster appears to be increased in:
 
 - Japanese or Korean patients.
@@ -105,7 +111,6 @@ In a randomised post authorisation safety study in patients with RA who were 50 
 Lung cancers and lymphoma in patients treated with tofacitinib have also been observed in other clinical studies and in the post marketing setting.
 
 Other malignancies in patients treated with tofacitinib were observed in clinical studies and the post-marketing setting, including, but not limited to, breast cancer, melanoma, prostate cancer, and pancreatic cancer.
-
 In patients over 65 years of age, patients who are current or past smokers, and patients with other malignancy risk factors (e.g. current malignancy or history of malignancy other than a successfully treated non-melanoma skin cancer) tofacitinib should only be used if no suitable treatment alternatives are available.
 
 Non-melanoma skin cancer
@@ -126,6 +131,12 @@ Events of gastrointestinal perforation have been reported in clinical studies al
 Tofacitinib should be used with caution in patients who may be at increased risk for gastrointestinal perforation (e.g., patients with a history of diverticulitis, patients with concomitant use of corticosteroids and/or nonsteroidal anti-inflammatory drugs).
 Patients presenting with new onset abdominal signs and symptoms should be evaluated promptly for early identification of gastrointestinal perforation.
 
+Fractures
+
+Fractures have been observed in patients treated with tofacitinib.
+
+Tofacitinib should be used with caution in patients with known risk factors for fractures such as elderly patients, female patients and patients with corticosteroid use, regardless of indication and dosage.
+
 Liver enzymes
 
 Treatment with tofacitinib was associated with an increased incidence of liver enzyme elevation in some patients (see section 4.8 liver enzyme tests).
@@ -138,7 +149,6 @@ Hypersensitivity
 In post-marketing experience, cases of hypersensitivity associated with tofacitinib administration have been reported.
 Allergic reactions included angioedema and urticaria; serious reactions have occurred.
 If any serious allergic or anaphylactic reaction occurs, tofacitinib should be discontinued immediately.
-
 Laboratory parameters
 
 Lymphocytes
@@ -153,6 +163,7 @@ Treatment with tofacitinib was associated with an increased incidence of neutrop
 It is not recommended to initiate tofacitinib treatment in adult patients with an ANC less than 1,000 cells/mm3 and in paediatric patients with an ANC less than 1,200 cells/mm3.
 ANC should be monitored at baseline and after 4 to 8 weeks of treatment and every 3 months thereafter.
 For recommended modifications based on ANC, see section 4.2.
+
 Haemoglobin
 Treatment with tofacitinib has been associated with decreases in haemoglobin levels.
 It is not recommended to initiate tofacitinib treatment in adult patients with a haemoglobin value less than 9 g/dL and in paediatric patients with a haemoglobin value less than 10 g/dL.
@@ -165,6 +176,11 @@ Maximum effects were generally observed within 6 weeks.
 Assessment of lipid parameters should be performed after 8 weeks following initiation of tofacitinib therapy.
 Patients should be managed according to clinical guidelines for the management of hyperlipidaemia.
 Increases in total and LDL cholesterol associated with tofacitinib may be decreased to pretreatment levels with statin therapy.
+
+Hypoglycaemia in patients treated for diabetes
+
+There have been reports of hypoglycaemia following initiation of tofacitinib in patients receiving medication for diabetes.
+Dose adjustment of anti-diabetic medication may be necessary in the event that hypoglycaemia occurs.
 
 Vaccinations
 
@@ -179,7 +195,6 @@ If the history of chickenpox is considered doubtful or unreliable it is recommen
 
 Vaccination with live vaccines should occur at least 2 weeks but preferably 4 weeks prior to initiation of tofacitinib or in accordance with current vaccination guidelines regarding immunomodulatory medicinal products.
 No data are available on the secondary transmission of infection by live vaccines to patients receiving tofacitinib.
-
 Excipients contents
 
 This medicinal product contains lactose.
