@@ -2,13 +2,13 @@
 
 Summary of the safety profile
 
-The most common adverse drug reaction (ADR) seen with naloxone administration is nausea (frequency very common).
+The most common adverse reaction (AR) seen with naloxone administration is nausea (frequency very common).
 Typical opioid withdrawal syndrome is expected with naloxone which may be caused by the abrupt withdrawal of opioid in persons physically dependent on them.
 
 Tabulated list of adverse reactions
 
 The following adverse reactions have been reported with Nyxoid and/or other naloxone-containing medicinal products during clinical studies and post marketing experience.
-ADRs are listed below by system organ class and frequency.
+ARs are listed below by system organ class and frequency.
 
 Frequency categories are assigned to those adverse reactions considered to be at least possibly causally related to naloxone and are defined as very common: (≥ 1/10); common: (≥ 1/100, < 1/10); uncommon: (≥ 1/1,000, < 1/100); rare: (≥ 1/10,000, < 1/1,000) very rare: (< 1/10,000); not known (cannot be estimated from the available data).
 
@@ -49,6 +49,7 @@ Common Vomiting
 Uncommon Diarrhoea, Dry mouth
 
 Skin and subcutaneous tissue disorders
+
 Uncommon Hyperhidrosis
 
 Very rare Erythema multiforme
@@ -67,7 +68,7 @@ Behavioural changes including violent behaviour, nervousness and excitement may 
 Vascular disorders
 
 In reports on intravenous/intramuscular naloxone: hypotension, hypertension, cardiac arrhythmia (including ventricular tachycardia and fibrillation) and pulmonary oedema have occurred with the postoperative use of naloxone.
-Adverse cardiovascular effects have occurred more frequently in postoperative patients with a pre-existing cardiovascular disease or in those receiving other medicines that produce similar adverse cardiovascular effects.
+Adverse cardiovascular effects have occurred more frequently in postoperative patients with a pre-existing cardiovascular disease or in those receiving other medicinal products that produce similar adverse cardiovascular effects.
 
 Paediatric population
 

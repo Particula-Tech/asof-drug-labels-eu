@@ -5,7 +5,7 @@ Instructing patients / users on the proper use of Nyxoid
 Nyxoid should only be made available once the suitability and competence of an individual to administer naloxone in the appropriate circumstances has been established.
 Patients or any other person who might be in a position to administer Nyxoid must be instructed in its proper use and the importance of seeking medical assistance.
 
-Nyxoid is not a substitute for emergency medical care and may be used instead of intravenous (IV) injection, when IV access is not immediately available.
+Nyxoid is not a substitute for emergency medical care and may be used instead of intravenous injection, when intravenous access is not immediately available.
 
 Nyxoid is intended to be administered as a part of a resuscitation intervention in suspected overdose casualties, where opioid drugs may be involved or suspected, likely in a non-medical setting.
 Therefore, the prescriber should take appropriate steps to ensure that the patient and/or any other person who might be in a position to administer Nyxoid thoroughly understands the indications and use of Nyxoid.
@@ -32,3 +32,6 @@ Intranasal absorption and efficacy of naloxone can be altered in patients with d
 Paediatric population
 
 Opioid withdrawal may be life-threatening in neonates if not recognised and properly treated and may include the following signs and symptoms: convulsions, excessive crying and hyperactive reflexes.
+
+Excipients
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially ‘sodium-free’.
