@@ -3,7 +3,6 @@
 Pharmacotherapeutic group: Cardiac therapy, other cardiac preparations, ATC code: C01EB17.
 
 Mechanism of action
-
 Ivabradine is a pure heart rate lowering agent, acting by selective and specific inhibition of the cardiac pacemaker If current that controls the spontaneous diastolic depolarisation in the sinus node and regulates heart rate.
 The cardiac effects are specific to the sinus node with no effect on intra-atrial, atrioventricular or intraventricular conduction times, nor on myocardial contractility or ventricular repolarisation.
 
@@ -38,7 +37,7 @@ In a 889-patients randomised placebo-controlled study, ivabradine given on top o
 
 In a 725-patients randomised placebo-controlled study, ivabradine did not show additional efficacy on top of amlodipine 10 mg o.d. at the trough of drug activity (12 hours after oral intake) while an additional efficacy was shown at peak (3-4 hours after oral intake).
 
-In a 1277-patients randomised placebo-controlled study, ivabradine demonstrated a statistically significant additional efficacy on response to treatment (defined as a decrease of at least 3 angina attacks per week and/or an increase in the time to 1 mm ST segment depression of at least 60 s during a treadmill ETT) on top of amlodipine 5 mg o.d. or nifedipine GITS 30 mg o.d. at the trough of drug activity (12 hours after oral ivabradine intake) over a 6-week treatment period (OR = 1.3, 95% CI [1.0–1.7]; p=0.012).
+In a 1,277-patients randomised placebo-controlled study, ivabradine demonstrated a statistically significant additional efficacy on response to treatment (defined as a decrease of at least 3 angina attacks per week and/or an increase in the time to 1 mm ST segment depression of at least 60 s during a treadmill ETT) on top of amlodipine 5 mg o.d. or nifedipine GITS 30 mg o.d. at the trough of drug activity (12 hours after oral ivabradine intake) over a 6-week treatment period (OR = 1.3, 95% CI [1.0–1.7]; p=0.012).
 Ivabradine did not show additional efficacy on secondary endpoints of ETT parameters at the trough of drug activity while an additional efficacy was shown at peak (3-4 hours after oral ivabradine intake).
 
 Ivabradine efficacy was fully maintained throughout the 3- or 4-month treatment periods in the efficacy trials.
@@ -72,7 +71,6 @@ In the ivabradine group, 67% of patients were treated with 7.5 mg twice a day.
 The median follow-up duration was 22.9 months.
 Treatment with ivabradine was associated with an average reduction in heart rate of 15 bpm from a baseline value of 80 bpm.
 The difference in heart rate between ivabradine and placebo arms was 10.8 bpm at 28 days, 9.1 bpm at 12 months and 8.3 bpm at 24 months.
-
 The study demonstrated a clinically and statistically significant relative risk reduction of 18% in the rate of the primary composite endpoint of cardiovascular mortality and hospitalisation for worsening heart failure (hazard ratio: 0.82, 95%CI [0.75;0.90] – p<0.0001) apparent within 3 months of initiation of treatment.
 The absolute risk reduction was 4.2%.
 The results on the primary endpoint are mainly driven by the heart failure endpoints, hospitalisation for worsening heart failure (absolute risk reduced by 4.7 %) and deaths from heart failure (absolute risk reduced by 1.1 %).
@@ -98,6 +96,7 @@ There was a significant improvement in NYHA class at last recorded value, 887 (2
 In a 97-patient randomised placebo-controlled study, the data collected during specific ophthalmologic investigations, aiming at documenting the function of the cone and rod systems and the ascending visual pathway (i.e. electroretinogram, static and kinetic visual fields, colour vision, visual acuity), in patients treated with ivabradine for chronic stable angina pectoris over 3 years, did not show any retinal toxicity.
 
 Paediatric population
+
 A randomised, double blind, placebo controlled study was performed in 116 paediatric patients (17 aged [6-12[months, 36 aged [1-3[ years and 63 aged [3-18[ years) with CHF and dilated cardiomyopathy (DCM) on top of optimal background treatment.
 74 received ivabradine (ratio 2:1).
 The starting dose was 0.02 mg/kg bid in age-subset [6-12[months, 0.05 mg/kg bid in [1-3[ years and [3-18[ years <40 kg, and 2.5 mg bid in [3-18[ years and ≥ 40 kg.

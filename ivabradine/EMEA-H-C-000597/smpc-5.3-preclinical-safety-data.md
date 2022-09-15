@@ -8,5 +8,6 @@ These data are consistent with the pharmacological effect of ivabradine related 
 Other long-term repeat dose and carcinogenicity studies revealed no clinically relevant changes.
 
 Environmental Risk Assessment (ERA)
+
 The environmental risk assessment of ivabradine has been conducted in accordance to European guidelines on ERA.
 Outcomes of these evaluations support the lack of environmental risk of ivabradine and ivabradine does not pose a threat to the environment.

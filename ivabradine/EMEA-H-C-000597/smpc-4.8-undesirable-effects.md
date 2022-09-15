@@ -1,10 +1,11 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-Ivabradine has been studied in clinical trials involving nearly 45,000 participants.
-The most common adverse reactions with ivabradine, luminous phenomena (phosphenes) and bradycardia, are dose dependent and related to the pharmacological effect of the medicinal product.
 
+The most common adverse reactions with ivabradine are luminous phenomena (phosphenes) (14.5%) and bradycardia (3.3%).
+They are dose dependent and related to the pharmacological effect of the medicinal product.
 Tabulated list of adverse reactions
+
 The following adverse reactions have been reported during clinical trials and are ranked using the following frequency: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 
 | System Organ Class | Frequency | Preferred Term |
@@ -23,7 +24,7 @@ The following adverse reactions have been reported during clinical trials and ar
 |  |  | AV 1st degree block (ECG prolonged PQ interval) |
 |  |  | Ventricular extrasystoles |
 |  |  | Atrial fibrillation |
-|  | Uncommon | Palpitations, supraventricular extrasystoles |
+|  | Uncommon | Palpitations, supraventricular extrasystoles, ECG prolonged QT interval |
 |  | Very rare | AV 2nd degree block, AV 3rd degree block |
 |  |  | Sick sinus syndrome |
 | Vascular disorders | Common | Uncontrolled blood pressure |
@@ -39,15 +40,13 @@ The following adverse reactions have been reported during clinical trials and ar
 |  |  | Pruritus |
 |  |  | Urticaria |
 | Musculoskeletal and connective tissue disorders | Uncommon | Muscle spasms |
+| Renal and urinary disorders | Uncommon | Elevated creatinine in blood |
 | General disorders and administration site conditions | Uncommon* | Asthenia, possibly related to bradycardia |
 |  |  | Fatigue, possibly related to bradycardia |
 |  | Rare* | Malaise, possibly related to bradycardia |
-| Investigations | Uncommon | Elevated creatinine in blood |
-|  |  | ECG prolonged QT interval |
 
-* Frequency calculated from clinical trials for adverse events detected from spontaneous report
+* Frequency calculated from clinical trials for adverse events detected from spontaneous report Description of selected adverse reactions
 
-Description of selected adverse reactions
 Luminous phenomena (phosphenes) were reported by 14.5% of patients, described as a transient enhanced brightness in a limited area of the visual field.
 They are usually triggered by sudden variations in light intensity.
 Phosphenes may also be described as a halo, image decomposition (stroboscopic or kaleidoscopic effects), coloured bright lights, or multiple image (retinal persistency).
@@ -62,7 +61,11 @@ Bradycardia was reported by 3.3% of patients particularly within the first 2 to 
 In the SIGNIFY study atrial fibrillation was observed in 5.3% of patients taking ivabradine compared to 3.8% in the placebo group.
 In a pooled analysis of all the Phase II/III double blind controlled clinical trials with a duration of at least 3 months including more than 40,000 patients, the incidence of atrial fibrillation was 4.86% in ivabradine treated patients compared to 4.08% in controls, corresponding to a hazard ratio of 1.26, 95% CI [1.15-1.39].
 
+In the SHIFT trial more patients experienced episodes of increased blood pressure while treated with ivabradine (7.1%) compared to patients treated with placebo (6.1%).
+These episodes occurred most frequently shortly after blood pressure treatment was modified, were transient, and did not affect the treatment effect of ivabradine.
+
 Reporting of suspected adverse reactions
+
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

@@ -2,8 +2,6 @@
 
 Posology
 
-For the different doses, film-coated tablets containing 5 mg and 7.5 mg ivabradine are available.
-
 Symptomatic treatment of chronic stable angina pectoris
 It is recommended that the decision to initiate or titrate treatment takes place with the availability of serial heart rate measurements, ECG or ambulatory 24-hour monitoring.
 The starting dose of ivabradine should not exceed 5 mg twice daily in patients aged below 75 years.
@@ -25,7 +23,7 @@ If during treatment, heart rate decreases persistently below 50 beats per minute
 If heart rate increases persistently above 60 beats per minute at rest, the dose can be up titrated to the next upper dose in patients receiving 2.5 mg twice daily or 5 mg twice daily.
 Treatment must be discontinued if heart rate remains below 50 bpm or symptoms of bradycardia persist (see section 4.4).
 
-Special population
+Special populations
 
 Elderly
 In patients aged 75 years or more, a lower starting dose should be considered (2.5 mg twice daily i.e. one half 5 mg tablet twice daily) before up-titration if necessary.
@@ -41,8 +39,9 @@ Caution should be exercised when using ivabradine in patients with moderate hepa
 Ivabradine is contraindicated for use in patients with severe hepatic insufficiency, since it has not been studied in this population and a large increase in systemic exposure is anticipated (see sections 4.3 and 5.2).
 
 Paediatric population
-The safety and efficacy of ivabradine for the treatment of chronic heart failure in children aged below 18 years have not been established.
-Available data are described in sections 5.1 and 5.2 but no recommendation on a posology can be made.
+The safety and efficacy of ivabradine in children aged below 18 years have not been established.
+Currently available data for the treatment of chronic heart failure are described in sections 5.1 and 5.2 but no recommendation on a posology can be made.
+No data for symptomatic treatment of chronic stable angina pectoris are available.
 
 Method of administration
 
