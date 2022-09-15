@@ -100,7 +100,7 @@ Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycoba
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 In addition, reactivation of herpes simplex and herpes zoster has been observed in clinical studies with PREZISTA co-administered with low dose ritonavir.
 
-Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.8).
+Autoimmune disorders (such as Graves’ disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.8).
 
 Interactions with medicinal products
 Several of the interaction studies have been performed with darunavir at lower than recommended doses.
@@ -111,7 +111,7 @@ Pharmacokinetic enhancer and concomitant medications
 Darunavir has different interaction profiles depending on whether the compound is boosted with ritonavir or cobicistat:
 
 - Darunavir boosted with cobicistat is more sensitive for CYP3A induction: concomitant use of darunavir/cobicistat and strong CYP3A inducers is therefore contraindicated (see section 4.3), and concomitant use with weak to moderate CYP3A inducers is not recommended (see section 4.5).
-  Concomitant use of darunavir/ritonavir and darunavir/cobicistat with lopinavir/ritonavir, rifampicin and herbal products containing St John’s wort, Hypericum perforatum, is contraindicated (see section 4.5).
+  Concomitant use of darunavir/ritonavir and darunavir/cobicistat with strong CYP3A inducers such as lopinavir/ritonavir, rifampicin and herbal products containing St John’s Wort, Hypericum perforatum, is contraindicated (see section 4.5).
 - Unlike ritonavir, cobicistat does not have inducing effects on enzymes or transport proteins (see section 4.5).
   If switching the pharmacoenhancer from ritonavir to cobicistat, caution is required during the first two weeks of treatment with darunavir/cobicistat, particularly if doses of any concomitantly administered medicinal products have been titrated or adjusted during use of ritonavir as a pharmacoenhancer.
   A dose reduction of the co-administered drug may be needed in these cases.

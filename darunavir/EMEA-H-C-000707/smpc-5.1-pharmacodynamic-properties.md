@@ -30,7 +30,6 @@ Isolates with baseline FC
 Viruses isolated from patients on PREZISTA/ritonavir 600/100 mg twice daily experiencing virologic failure by rebound that were susceptible to tipranavir at baseline remained susceptible to tipranavir after treatment in the vast majority of cases.
 
 The lowest rates of developing resistant HIV virus are observed in ART-naïve patients who are treated for the first time with darunavir in combination with other ART.
-
 The table below shows the development of HIV-1 protease mutations and loss of susceptibility to PIs in virologic failures at endpoint in the ARTEMIS, ODIN and TITAN trials.
 
 |  | ARTEMIS Week 192 | ODIN Week 48 |  | TITAN Week 48 |
@@ -82,6 +81,7 @@ Efficacy of darunavir 800 mg once daily co-administered with 150 mg cobicistat o
 GS-US-216-130 is a single arm, open-label, Phase III trial evaluating the pharmacokinetics, safety, tolerability, and efficacy of darunavir with cobicistat in 313 HIV-1 infected adult patients
 (295 treatment-naïve and 18 treatment-experienced).
 These patients received darunavir 800 mg once daily in combination with cobicistat 150 mg once daily with an investigator selected background regimen consisting of 2 active NRTIs.
+
 HIV-1 infected patients who were eligible for this trial had a screening genotype showing no darunavir RAMs and plasma HIV-1 RNA ≥1,000 copies/ml.
 The table below shows the efficacy data of the 48 week analyses from the GS-US-216-130 trial:
 
@@ -105,12 +105,7 @@ The table below shows the efficacy data of the 48 week and 96 week analyses from
 |  | Week 48a |  |  | Week 96b |  |  |
 | Outcomes | PREZISTA/ ritonavir 800/100 mg once daily N=343 | Lopinavir/ ritonavir 800/200 mg per day N=346 | Treatment difference (95% CI of difference) | PREZISTA/ ritonavir 800/100 mg once daily N=343 | Lopinavir/ ritonavir 800/200 m g per day N=346 | Treatment difference (95% CI of difference) |
 | HIV-1 RNA < 50 copies/mlc All patients With baseline HIV-RNA < 100,000 With baseline HIV-RNA ≥100,000 With baseline CD4+ cell count < 200 With baseline CD4+ cell count ≥200 | 83.7% (287) 85.8% (194/226) 79.5% (93/117) 79.4% (112/141) 86.6% (175/202) | 78.3% (271) 84.5% (191/226) 66.7% (80/120) 70.3% (104/148) 84.3% (167/198) | 5.3% (-0.5; 11.2)d 1.3% (-5.2; 7.9)d 12.8% (1.6; 24.1)d 9.2% (-0.8; 19.2)d 2.3% (-4.6; 9.2)d | 79.0% (271) 80.5% (182/226) 76.1% (89/117) 78.7% (111/141) 79.2% (160/202) | 70.8% (245) 75.2% (170/226) 62.5% (75/120) 64.9% (96/148) 75.3% (149/198) | 8.2% (1.7; 14.7)d 5.3% (-2.3; 13.0)d 13.6% (1.9; 25.3)d 13.9% (3.5; 24.2)d 4.0% (-4.3; 12.2)d |
-
-median 137 141 171 188
-CD4+ cell count
-change from
-baseline (x
-106/L)e
+| median CD4+ cell count change from baseline (x 106/L)e | 137 | 141 |  | 171 | 188 |  |
 
 a Data based on analyses at week 48 b Data based on analyses at week 96 c Imputations according to the TLOVR algorithm d Based on normal approximation to the difference in % response e Non-completer is failure imputation: patients who discontinued prematurely are imputed with a change equal to 0
 
@@ -124,7 +119,6 @@ Phase IIb trials POWER 1 and 2 in ART-experienced patients with high level of PI
 
 TITAN is a randomised, controlled, open-label Phase III trial comparing PREZISTA co-administered with ritonavir (600/100 mg twice daily) versus lopinavir/ritonavir (400/100 mg twice daily) in ART-experienced, lopinavir naïve HIV-1 infected adult patients.
 Both arms used an Optimised Background Regimen (OBR) consisting of at least 2 antiretrovirals (NRTIs with or without NNRTIs).
-
 The table below shows the efficacy data of the 48 week analysis from the TITAN trial.
 
 | TITAN |  |  |  |
@@ -161,6 +155,7 @@ Limited data is available in patients with HIV-1 clades other than B.
 
 POWER 1 and POWER 2 are randomised, controlled trials comparing PREZISTA co-administered with ritonavir (600/100 mg twice daily) with a control group receiving an investigator-selected PI(s) regimen in HIV-1 infected patients who had previously failed more than 1 PI containing regimen.
 An OBR consisting of at least 2 NRTIs with or without enfuvirtide (ENF) was used in both trials.
+
 The table below shows the efficacy data of the 48-week and 96-week analyses from the pooled POWER 1 and POWER 2 trials.
 
 | POWER 1 and POWER 2 pooled data |  |  |  |  |  |  |
@@ -179,17 +174,17 @@ Out of the 59 patients who responded with complete viral suppression (< 50 copie
 
 Baseline genotype or phenotype and virologic outcome
 Baseline genotype and darunavir FC (shift in susceptibility relative to reference) were shown to be a predictive factor of virologic outcome.
-
 Proportion (%) of patients with response (HIV-1 RNA < 50 copies/ml at week 24) to PREZISTA co-administered with ritonavir (600/100 mg twice daily) by baseline genotypea, and baseline darunavir FC and by use of enfuvirtide (ENF): As treated analysis of the POWER and DUET trials.
 
 |  | Number of baseline mutationsa |  |  |  | Baseline DRV FCb |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Response (HIV-1 RNA < 50 copies/ml at week 24) %, n/N | All ranges | 0-2 | 3 | ≥4 | All ranges | ≤10 | 10-40 | > 40 |
-| All patients | 45% 455/1,014 | 54% 359/660 | 39% 67/172 | 12% 20/171 | 45% 455/1,01 4 | 55% 364/659 | 29% 59/203 | 8% 9/118 |
+| All patients | 45% 455/1,014 | 54% 359/660 | 39% 67/172 | 12% 20/171 | 45% 455/1,014 | 55% 364/659 | 29% 59/203 | 8% 9/118 |
 | Patients with no/non-naïve use of ENFc | 39% 290/741 | 50% 238/477 | 29% 35/120 | 7% 10/135 | 39% 290/741 | 51% 244/477 | 17% 25/147 | 5% 5/94 |
 | Patients with naïve use of ENFd | 60% 165/273 | 66% 121/183 | 62% 32/52 | 28% 10/36 | 60% 165/273 | 66% 120/182 | 61% 34/56 | 17% 4/24 |
 
 a Number of mutations from the list of mutations associated with a diminished response to PREZISTA/ritonavir (V11I, V32I, L33F, I47V, I50V, I54L or M, T74P, L76V, I84V or L89V) b fold change in EC50 c “Patients with no/non-naïve use of ENF” are patients who did not use ENF or who used ENF but not for the first time d “Patients with naïve use of ENF” are patients who used ENF for the first time
+
 Paediatric patients
 
 Efficacy of PREZISTA with ritonavir in paediatric patients
@@ -231,6 +226,7 @@ a Imputations according to the TLOVR algorithm.
 b NC=F
 
 Limited efficacy data are available in paediatric patients below 15 kg and no recommendation on a posology can be made.
+
 ART-naïve paediatric patients from the age of 12 years to < 18 years, and weighing at least 40 kg
 DIONE is an open-label, Phase II trial evaluating the pharmacokinetics, safety, tolerability, and efficacy of PREZISTA with low dose ritonavir in 12 ART-naïve HIV-1 infected paediatric patients aged 12 to less than 18 years and weighing at least 40 kg.
 These patients received PREZISTA/ritonavir 800/100 mg once daily in combination with other antiretroviral agents.
@@ -262,7 +258,6 @@ They were switched from ritonavir to cobicistat 150 mg once daily and continued 
 | CD4+ cell count median change from baselinea | -342 cells/mm³ |
 
 a No imputation (observed data).
-
 Pregnancy and postpartum
 Darunavir/ritonavir (600/100 mg twice daily or 800/100 mg once daily) in combination with a background regimen was evaluated in a clinical trial of 36 pregnant women (18 in each arm) during the second and third trimesters, and postpartum.
 Virologic response was preserved throughout the study period in both arms.
@@ -285,13 +280,6 @@ a Virologic failures were defined as: never suppressed: confirmed HIV-1 RNA < 1 
 | HIV-1 RNA < 50 copies/mla | 245 (83.1%) | 8 (44.4%) | 253 (80.8%) |
 | mean HIV-1 RNA log change from baseline (log10 copies/ml) | -3.01 | -2.39 | -2.97 |
 | CD4+ cell count mean change from baselineb | +174 | +102 | +170 |
-
-| ARTEMIS |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Week 48a |  |  | Week 96b |  |  |
-| Outcomes | PREZISTA/ ritonavir 800/100 mg once daily N=343 | Lopinavir/ ritonavir 800/200 mg per day N=346 | Treatment difference (95% CI of difference) | PREZISTA/ ritonavir 800/100 mg once daily N=343 | Lopinavir/ ritonavir 800/200 m g per day N=346 | Treatment difference (95% CI of difference) |
-| HIV-1 RNA < 50 copies/mlc All patients With baseline HIV-RNA < 100,000 With baseline HIV-RNA ≥100,000 With baseline CD4+ cell count < 200 With baseline CD4+ cell count ≥200 | 83.7% (287) 85.8% (194/226) 79.5% (93/117) 79.4% (112/141) 86.6% (175/202) | 78.3% (271) 84.5% (191/226) 66.7% (80/120) 70.3% (104/148) 84.3% (167/198) | 5.3% (-0.5; 11.2)d 1.3% (-5.2; 7.9)d 12.8% (1.6; 24.1)d 9.2% (-0.8; 19.2)d 2.3% (-4.6; 9.2)d | 79.0% (271) 80.5% (182/226) 76.1% (89/117) 78.7% (111/141) 79.2% (160/202) | 70.8% (245) 75.2% (170/226) 62.5% (75/120) 64.9% (96/148) 75.3% (149/198) | 8.2% (1.7; 14.7)d 5.3% (-2.3; 13.0)d 13.6% (1.9; 25.3)d 13.9% (3.5; 24.2)d 4.0% (-4.3; 12.2)d |
-| median CD4+ cell count change from baseline (x 106/L)e | 137 | 141 |  | 171 | 188 |  |
 
 Efficacy of PREZISTA 800 mg once daily co-administered with 100 mg ritonavir once daily in ART-experienced patients
 

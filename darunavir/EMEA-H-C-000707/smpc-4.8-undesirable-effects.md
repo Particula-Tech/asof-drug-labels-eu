@@ -43,8 +43,7 @@ Adverse reactions observed with darunavir/ritonavir in clinical trials and post-
 | uncommon | depression, disorientation, anxiety, sleep disorder, abnormal dreams, nightmare, decreased libido |
 | rare | confusional state, altered mood, restlessness |
 | Nervous system disorders |  |
-| common | headache, peripheral neuropathy, dizziness |
-| uncommon | lethargy, paraesthesia, hypoaesthesia, dysgeusia, disturbance in attention, memory impairment, somnolence |
+| common uncommon | headache, peripheral neuropathy, dizziness lethargy, paraesthesia, hypoaesthesia, dysgeusia, disturbance in attention, memory impairment, somnolence |
 | rare | syncope, convulsion, ageusia, sleep phase rhythm disturbance |
 | Eye disorders |  |
 | uncommon | conjunctival hyperaemia, dry eye |
@@ -103,8 +102,7 @@ Adverse reactions observed with darunavir/cobicistat in adult patients
 | common | vomiting, abdominal pain, abdominal distension, dyspepsia, flatulence, pancreatic enzymes increased |
 | uncommon | pancreatitis acute |
 | Hepatobiliary disorders |  |
-| common | hepatic enzyme increased |
-| uncommon | hepatitis*, cytolytic hepatitis* |
+| common uncommon | hepatic enzyme increased hepatitis*, cytolytic hepatitis* |
 | Skin and subcutaneous tissue disorders |  |
 | very common | rash (including macular, maculopapular, papular, erythematous, pruritic rash, generalised rash, and allergic dermatitis) |
 | common | angioedema, pruritus, urticaria |
@@ -129,6 +127,7 @@ Rash
 In clinical trials, rash was mostly mild to moderate, often occurring within the first four weeks of treatment and resolving with continued dosing.
 In cases of severe skin reaction see the warning in section 4.4.
 In a single arm trial investigating darunavir 800 mg once daily in combination with cobicistat 150 mg once daily and other antiretrovirals 2.2% of patients discontinued treatment due to rash.
+
 During the clinical development program of raltegravir in treatment-experienced patients, rash, irrespective of causality, was more commonly observed with regimens containing PREZISTA/ritonavir + raltegravir compared to those containing PREZISTA/ritonavir without raltegravir or raltegravir without PREZISTA/ritonavir.
 Rash considered by the investigator to be drug-related occurred at similar rates.
 The exposure-adjusted rates of rash (all causality) were 10.9, 4.2, and 3.8 per 100 patient-years (PYR), respectively; and for drug-related rash were 2.4, 1.1, and 2.3 per 100 PYR, respectively.
@@ -142,10 +141,9 @@ Increased CPK, myalgia, myositis and rarely, rhabdomyolysis have been reported w
 
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).
 The frequency of this is unknown (see section 4.4).
-
 Immune reconstitution inflammatory syndrome
 In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
-Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
+Autoimmune disorders (such as Graves’ disease and autoimmune hepatitis) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
 
 Bleeding in haemophiliac patients
 There have been reports of increased spontaneous bleeding in haemophiliac patients receiving antiretroviral protease inhibitors (see section 4.4).
@@ -162,6 +160,7 @@ Overall, the safety profile in these paediatric patients was similar to that obs
 
 The safety assessment of PREZISTA with cobicistat in paediatric patients was evaluated in adolescents aged 12 to less than 18 years, weighing at least 40 kg through the clinical trial GS-US-216-0128 (treatment-experienced, virologically suppressed, N=7).
 Safety analyses of this study in adolescent subjects did not identify new safety concerns compared to the known safety profile of darunavir and cobicistat in adult subjects.
+
 Other special populations
 Patients co-infected with hepatitis B and/or hepatitis C virus
 Among 1,968 treatment-experienced patients receiving PREZISTA co-administered with ritonavir 600/100 mg twice daily, 236 patients were co-infected with hepatitis B or C. Co-infected patients were more likely to have baseline and treatment emergent hepatic transaminase elevations than those without chronic viral hepatitis (see section 4.4).
@@ -172,6 +171,67 @@ It allows continued monitoring of the benefit/risk balance of the medicinal prod
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [PREZISTA 75 mg film-coated tablets]
+
+| MedDRA system organ class Frequency category | Adverse reaction |
+| --- | --- |
+| Infections and infestations |  |
+| Uncommon | herpes simplex |
+| Blood and lymphatic system disorders |  |
+| Uncommon | thrombocytopenia, neutropenia, anaemia, leukopenia |
+| Rare | increased eosinophil count |
+| Immune system disorders |  |
+| Uncommon | immune reconstitution inflammatory syndrome, (drug) hypersensitivity |
+| Endocrine disorders |  |
+| Uncommon | hypothyroidism, increased blood thyroid stimulating hormone |
+| Metabolism and nutrition disorders |  |
+| Common | diabetes mellitus, hypertriglyceridaemia, hypercholesterolaemia, hyperlipidaemia |
+| Uncommon | gout, anorexia, decreased appetite, decreased weight, increased weight, hyperglycaemia, insulin resistance, decreased high density lipoprotein, increased appetite, polydipsia, increased blood lactate dehydrogenase |
+| Psychiatric disorders |  |
+| Common | insomnia |
+| uncommon | depression, disorientation, anxiety, sleep disorder, abnormal dreams, nightmare, decreased libido |
+| Rare | confusional state, altered mood, restlessness |
+| Nervous system disorders |  |
+| Common | headache, peripheral neuropathy, dizziness |
+| Uncommon | lethargy, paraesthesia, hypoaesthesia, dysgeusia, disturbance in attention, memory impairment, somnolence |
+| Rare | syncope, convulsion, ageusia, sleep phase rhythm disturbance |
+| Eye disorders |  |
+| Uncommon | conjunctival hyperaemia, dry eye |
+| Rare | visual disturbance |
+| Ear and labyrinth disorders |  |
+| Uncommon | vertigo |
+| Cardiac disorders |  |
+| Uncommon | myocardial infarction, angina pectoris, prolonged electrocardiogram QT, tachycardia |
+| Rare | acute myocardial infarction, sinus bradycardia, palpitations |
+| Vascular disorders |  |
+| Uncommon | hypertension, flushing |
+| Respiratory, thoracic and mediastinal disorders |  |
+| Uncommon | dyspnoea, cough, epistaxis, throat irritation |
+| Rare | rhinorrhoea |
+| Gastrointestinal disorders |  |
+| very common | diarrhoea |
+| Common | vomiting, nausea, abdominal pain, increased blood amylase, dyspepsia, abdominal distension, flatulence |
+| Uncommon | pancreatitis, gastritis, gastrooesophageal reflux disease, aphthous stomatitis, retching, dry mouth, abdominal discomfort, constipation, increased lipase, eructation, oral dysaesthesia |
+| Rare | stomatitis, haematemesis, cheilitis, dry lip, coated tongue |
+| Hepatobiliary disorders |  |
+| Common | increased alanine aminotransferase |
+| Uncommon | hepatitis, cytolytic hepatitis, hepatic steatosis, hepatomegaly, increased transaminase, increased aspartate aminotransferase, increased blood bilirubin, increased blood alkaline phosphatase, increased gamma-glutamyltransferase |
+| Skin and subcutaneous tissue disorders |  |
+| Common | rash (including macular, maculopapular, papular, erythematous and pruritic rash), pruritus |
+| Uncommon | angioedema, generalised rash, allergic dermatitis, urticaria, eczema, erythema, hyperhidrosis, night sweats, alopecia, acne, dry skin, nail pigmentation |
+| Rare | DRESS, Stevens-Johnson syndrome, erythema multiforme, dermatitis, seborrhoeic dermatitis, skin lesion, xeroderma |
+| not known | toxic epidermal necrolysis, acute generalised exanthematous pustulosis |
+| Musculoskeletal and connective tissue disorders |  |
+| Uncommon | myalgia, osteonecrosis, muscle spasms, muscular weakness, arthralgia, pain in extremity, osteoporosis, increased blood creatine phosphokinase |
+| Rare | musculoskeletal stiffness, arthritis, joint stiffness |
+| Renal and urinary disorders |  |
+| Uncommon | acute renal failure, renal failure, nephrolithiasis, increased blood creatinine, proteinuria, bilirubinuria, dysuria, nocturia, pollakiuria |
+| Rare | decreased creatinine renal clearance |
+| Reproductive system and breast disorders |  |
+| Uncommon | erectile dysfunction, gynaecomastia |
+| General disorders and administration site conditions |  |
+| Common | asthenia, fatigue |
+| Uncommon | pyrexia, chest pain, peripheral oedema, malaise, feeling hot, irritability, pain |
+| Rare | chills, abnormal feeling, xerosis |
 
 The safety assessment in paediatric patients is based on the 48-week analysis of safety data from three Phase II trials.
 

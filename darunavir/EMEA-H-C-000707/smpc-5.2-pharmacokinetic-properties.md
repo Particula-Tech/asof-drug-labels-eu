@@ -6,6 +6,7 @@ The increased exposure to darunavir in HIV-1 infected patients compared to healt
 
 Darunavir is primarily metabolised by CYP3A.
 Cobicistat and ritonavir inhibit CYP3A, thereby increasing the plasma concentrations of darunavir considerably.
+
 For information on cobicistat pharmacokinetic properties, consult the cobicistat Summary of Product Characteristics.
 
 Absorption
@@ -30,7 +31,6 @@ In vitro experiments with human liver microsomes (HLMs) indicate that darunavir 
 Darunavir is extensively metabolised by the hepatic CYP system and almost exclusively by isozyme CYP3A4.
 A 14C-darunavir trial in healthy volunteers showed that a majority of the radioactivity in plasma after a single 400/100 mg darunavir with ritonavir dose was due to the parent active substance.
 At least 3 oxidative metabolites of darunavir have been identified in humans; all showed activity that was at least 10-fold less than the activity of darunavir against wild type HIV.
-
 Elimination
 After a 400/100 mg 14C-darunavir with ritonavir dose, approximately 79.5% and 13.9% of the administered dose of 14C-darunavir could be retrieved in faeces and urine, respectively.
 Unchanged darunavir accounted for approximately 41.2% and 7.7% of the administered dose in faeces and urine, respectively.
@@ -46,6 +46,7 @@ The pharmacokinetics of darunavir in combination with ritonavir taken twice dail
 The pharmacokinetics of darunavir in combination with ritonavir taken twice daily in
 14 treatment-experienced paediatric patients, aged 3 to < 6 years and weighing at least 15 kg to
 < 20 kg, showed that weight-based dosages resulted in darunavir exposure that was comparable to that achieved in adults receiving PREZISTA/ritonavir 600/100 mg twice daily (see section 4.2).
+
 The pharmacokinetics of darunavir in combination with ritonavir taken once daily in 12 ART-naïve paediatric patients, aged 12 to < 18 years and weighing at least 40 kg, showed that PREZISTA/ritonavir 800/100 mg once daily results in darunavir exposure that was comparable to that achieved in adults receiving PREZISTA/ritonavir 800/100 mg once daily.
 Therefore the same once daily dosage may be used in treatment-experienced adolescents aged 12 to < 18 years and weighing at least 40 kg without darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥100 cells x 106/L (see section 4.2).
 * DRV-RAMs: V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V and L89V
@@ -77,6 +78,7 @@ b Day 10 intensive PK data from subjects who received DRV 800 mg + COBI 150 mg.
 c N=59 for AUCtau and Ctau.
 d Concentration at predose (0 hours) was used as surrogate for concentration at 24 hours for the purposes of estimating AUCtau and Ctau in Study GS-US-216-0128.
 e N=57 and N=5 for GLSM of Ctau in Study GS-US-216-0130 and Study GS-US-216-0128, respectively.
+
 Elderly
 Population pharmacokinetic analysis in HIV infected patients showed that darunavir pharmacokinetics are not considerably different in the age range (18 to 75 years) evaluated in HIV infected patients (n=12, age ≥65) (see section 4.4).
 However, only limited data were available in patients above the age of 65 year.
@@ -96,7 +98,6 @@ In a multiple dose study with PREZISTA co-administered with ritonavir (600/100 m
 However, unbound darunavir concentrations were approximately 55% (Child-Pugh Class A) and 100% (Child-Pugh Class B) higher, respectively.
 The clinical relevance of this increase is unknown therefore, PREZISTA should be used with caution.
 The effect of severe hepatic impairment on the pharmacokinetics of darunavir has not been studied (see sections 4.2, 4.3 and 4.4).
-
 Pregnancy and postpartum
 The exposure to total darunavir and ritonavir after intake of darunavir/ritonavir 600/100 mg twice daily and darunavir/ritonavir 800/100 mg once daily as part of an antiretroviral regimen was generally lower during pregnancy compared with postpartum.
 However, for unbound (i.e. active) darunavir, the pharmacokinetic parameters were less reduced during pregnancy compared to postpartum, due to an increase in the unbound fraction of darunavir during pregnancy compared to postpartum.

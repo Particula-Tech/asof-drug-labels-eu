@@ -9,7 +9,7 @@ Concomitant treatment with any of the following medicinal products given the exp
 Applicable to darunavir boosted with either ritonavir or cobicistat:
 
 - The combination product lopinavir/ritonavir (see section 4.5).
-- The strong CYP3A inducers rifampicin and herbal preparations containing St John’s wort (Hypericum perforatum).
+- Strong CYP3A inducers such as rifampicin and herbal preparations containing St John’s Wort (Hypericum perforatum).
   Co-administration is expected to reduce plasma concentrations of darunavir, ritonavir and cobicistat, which could lead to loss of therapeutic effect and possible development of resistance (see sections 4.4 and 4.5).
 
 Applicable to darunavir boosted with cobicistat, not when boosted with ritonavir:
@@ -36,15 +36,15 @@ These active substances include e.g.:
 - triazolam, midazolam administered orally (for caution on parenterally administered midazolam, see section 4.5)
 - sildenafil - when used for the treatment of pulmonary arterial hypertension, avanafil
 - simvastatin, lovastatin, lomitapide (see section 4.5)
-- dabigatran, ticagrelor (see section 4.5).
+- ticagrelor (see section 4.5).
 
 [PREZISTA 75 mg film-coated tablets]
 
-Combination of rifampicin with PREZISTA with concomitant low dose ritonavir (see section 4.5).
+Combination of strong CYP3A inducers such as rifampicin with PREZISTA with concomitant low dose ritonavir (see section 4.5).
 
 Co-administration with the combination product lopinavir/ritonavir (see section 4.5).
 
-Co-administration with herbal preparations containing St John’s wort (Hypericum perforatum) (see section 4.5).
+Co-administration with herbal preparations containing St John’s Wort (Hypericum perforatum) (see section 4.5).
 
 Co-administration of PREZISTA with low dose ritonavir, with active substances that are highly dependent on CYP3A for clearance and for which elevated plasma concentrations are associated with serious and/or life-threatening events.
 
