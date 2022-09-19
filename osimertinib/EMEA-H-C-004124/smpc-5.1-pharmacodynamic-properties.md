@@ -22,10 +22,10 @@ A pharmacokinetic/pharmacodynamic analysis predicted a drug-related QTc interval
 Clinical efficacy and safety
 
 Adjuvant treatment of EGFR mutation positive NSCLC, with or without prior adjuvant chemotherapy – ADAURA
-
 The efficacy and safety of TAGRISSO for the adjuvant treatment of patients with EGFR mutation-positive (Ex19del or L858R) NSCLC who have had complete tumour resection with or without prior adjuvant chemotherapy was demonstrated in a randomised, double-blind, placebo-controlled study (ADAURA).
 
 Eligible patients with resectable tumors stage IB – IIIA (according to American Joint Commission on Cancer [AJCC] 7th edition) were required to have EGFR mutations (Ex19del or L858R), identified by the cobas EGFR Mutation Test performed prospectively using biopsy or surgical specimen in a central laboratory.
+
 Patients were randomised 1:1 to receive TAGRISSO (n=339, 80 mg orally once daily) or placebo (n=343) following recovery from surgery and standard adjuvant chemotherapy where given.
 Patients not receiving adjuvant chemotherapy were randomised within 10 weeks and patients receiving adjuvant chemotherapy within 26 weeks following surgery.
 Randomisation was stratified by EGFR mutation type (Ex19del or L858R), ethnicity (Asian or non-Asian) and staging based on percutaneous transthoracic needle biopsy (pTNM) (IB or II or IIIA) according to AJCC 7th edition.
@@ -74,7 +74,6 @@ a Adjusted for an interim analysis (33% maturity) a p-value < 0.0094 was require
 b Adjusted for an interim analysis (29% maturity) a p-value <0.0088 was required to achieve statistical significance.
 c The number of patients at risk at 36 months was 18 patients in the osimertinib arm and 9 patients in the placebo arm (stage II-IIIA population).
 d The number of patients at risk at 36 months was 27 patients in the osimertinib arm and 20 patients in the placebo arm (stage IB-IIIA population).
-
 Figure 1.
 Kaplan-Meier curve of disease-free survival in stage II-IIIA patients by investigator assessment
 
@@ -315,6 +314,7 @@ Kaplan-Meier curves of progression-free survival as assessed by investigator in 
 
 A sensitivity analysis of PFS was conducted by a Blinded Independent Central Review (BICR) and showed a median PFS of 11.0 months with TAGRISSO compared with 4.2 months with chemotherapy.
 This analysis demonstrated a consistent treatment effect (HR 0.28; 95% CI: 0.20, 0.38) with that observed by investigator assessment.
+
 Clinically meaningful improvements in PFS with HRs less than 0.50 in favour of patients receiving TAGRISSO compared to those receiving chemotherapy were consistently observed in all predefined subgroups analysed, including ethnicity, age, gender, smoking history and EGFR mutation (Exon 19 deletion and L858R).
 
 CNS metastases efficacy data in AURA3 study
@@ -344,7 +344,6 @@ CNS efficacy by BICR in patients with CNS metastases on a baseline brain scan in
 2 Based on patients with response only; DoR defined as the time from the date of first documented response (complete response or partial response) until progression or death event; DCR definedas the proportion of patients with response (complete response or partial response), or stable disease ≥6 weeks
 3 CNS Progression Free Survival determined by RECIST v1.1 by CNS BICR in the full analysis set population (CNS measurable and non-measurable lesions at baseline by BICR) n=75 for TAGRISSO and n=41 for Chemotherapy
 A HR <1 favours TAGRISSO
-
 A pre-specified PFS subgroup analysis based on CNS metastases status at study entry was performed in AURA3 and is shown in Figure 7.
 
 Figure 7.

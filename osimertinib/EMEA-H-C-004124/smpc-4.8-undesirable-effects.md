@@ -28,10 +28,12 @@ In addition, the corresponding frequency category for each adverse reaction is b
 Table 2.
 Adverse reactions reported in ADAURA, FLAURA and AURA studiesa
 
-| MedDRA SOC | MedDRA term | CIOMS descriptor/ overall frequency (all CTCAE grades)b | Frequency of CTCAE grade 3 or higher b |
+| MedDRA SOC | MedDRA term | CIOMS descriptor/ overall frequency (all CTCAE grades)b | Frequency of CTCAE grade 3 or higherb |
 | --- | --- | --- | --- |
+| Blood and lymphatic system disorders | Aplastic anaemia | Rare (0.07%) | 0.07% |
 | Metabolism and nutrition disorders | Decreased appetite | Very common (19%) | 1.1% |
 | Eye disorders | Keratitisc | Uncommon (0.7%) | 0.1% |
+| Cardiac disorders | Cardiac failure | Uncommon (0.3%) | 0.1% |
 | Respiratory, thoracic and mediastinal disorders | Epistaxis | Common (5%) | 0 |
 |  | Interstitial lung diseased | Common (3.7%)e | 1.1% |
 | Gastrointestinal disorders | Diarrhoea | Very common (47%) | 1.4% |
@@ -46,8 +48,12 @@ Adverse reactions reported in ADAURA, FLAURA and AURA studiesa
 |  | Erythema multiformek | Uncommon (0.3%) | 0 |
 |  | Cutaneous vasculitisl | Uncommon (0.3%) | 0 |
 |  | Stevens-Johnson syndromem | Rare (0.02%) |  |
+
+| MedDRA SOC | MedDRA term | CIOMS descriptor/ overall frequency (all CTCAE grades)b | Frequency of CTCAE grade 3 or higherb |
+| --- | --- | --- | --- |
 | Investigations | QTc interval prolongationn | Uncommon (0.8%) |  |
 |  | Blood creatine phosphokinase increased | Common (1.6%) | 0.3% |
+|  | Left ventricular ejection fraction decreasedo,p | Common (3.2%) |  |
 | (Findings based on test results presented as CTCAE grade shifts) | Leucocytes decreasedo | Very common (65%) | 1.2% |
 |  | Lymphocytes decreasedo | Very common (62%) | 6% |
 |  | Platelet count decreasedo | Very common (53%) | 1.2% |
@@ -74,12 +80,14 @@ n Representsthe incidence of patients who had a QTcF prolongation >500 msec.
 
 - Represents the incidence of laboratory findings, not of reported adverse events.
 
+p Represents decreases greater than or equal to 10 percentage points and a drop to less than 50%.
 Description of selected adverse reactions
 
 Interstitial lung disease (ILD)
 
 In the ADAURA, FLAURA and AURA studies, the incidence of ILD was 11% in patients of Japanese ethnicity, 1.6% in patients of non-Japanese Asian ethnicity and 2.5% in non-Asian patients.
 The median time to onset of ILD or ILD-like adverse reactions was 84 days (see section 4.4).
+
 QTc interval prolongation
 
 Of the 1479 patients in ADAURA, FLAURA and AURA studies treated with TAGRISSO 80 mg, 0.8% of patients (n=12) were found to have a QTc greater than 500 msec, and 3.1% of patients (n=46) had an increase from baseline QTc greater than 60 msec.
@@ -97,6 +105,8 @@ Haematological events
 
 Early reductions in the median laboratory counts of leukocytes, lymphocytes, neutrophils and platelets have been observed in patients treated with TAGRISSO, which stabilised over time and then remained above the lower limit of normal.
 Adverse events of leukopenia, lymphopenia, neutropenia and thrombocytopenia have been reported, most of which were mild or moderate in severity and did not lead to dose interruptions.
+Rare cases of aplastic anaemia, including fatal events, have been reported in association with osimertinib treatment.
+Osimertinib should be discontinued in patients with confirmed aplastic anaemia (see section 4.2 and 4.4).
 
 Elderly
 
@@ -110,7 +120,6 @@ A consistent pattern in safety and efficacy results was observed in the analysis
 Low body weight
 
 Patients receiving TAGRISSO 80 mg with low body weight (<50 kg) reported higher frequencies of Grade ≥3 adverse events (46% versus 31%) and QTc prolongation (12% versus 5%) than patients with higher body weight (≥50 kg).
-
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

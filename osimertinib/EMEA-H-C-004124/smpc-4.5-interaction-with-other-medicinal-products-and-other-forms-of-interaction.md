@@ -32,7 +32,6 @@ Based on in vitro studies, osimertinib is a competitive inhibitor of BCRP transp
 
 In a clinical PK study, co-administration of TAGRISSO with rosuvastatin (sensitive BCRP substrate) increased the AUC and Cmax of rosuvastatin by 35% and 72%, respectively.
 Patients taking concomitant medicinal products with disposition dependent upon BCRP and with narrow therapeutic index should be closely monitored for signs of changed tolerability of the concomitant medication as a result of increased exposure whilst receiving TAGRISSO (see section 5.2).
-
 In a clinical PK study, co-administration of TAGRISSO with simvastatin (sensitive CYP3A4 substrate) decreased the AUC and Cmax of simvastatin by 9% and 23% respectively.
 These changes are small and not likely to be of clinical significance.
 Clinical PK interactions with CYP3A4 substrates are unlikely.

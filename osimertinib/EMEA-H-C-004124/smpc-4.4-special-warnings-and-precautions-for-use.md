@@ -28,8 +28,8 @@ Careful assessment of all patients with an acute onset and/or unexplained worsen
 Treatment with this medicinal product should be interrupted pending investigation of these symptoms.
 If ILD is diagnosed, TAGRISSO should be discontinued and appropriate treatment initiated as necessary.
 Reintroduction of TAGRISSO should be considered only after careful consideration of the individual patient’s benefits and risk.
-
 Stevens-Johnson syndrome (SJS)
+
 Case reports of SJS have been reported rarely in association with TAGRISSO treatment.
 Before initiating treatment, patients should be advised of signs and symptoms of SJS.
 If signs and symptoms suggestive of SJS appear, TAGRISSO should be interrupted or discontinued immediately.
@@ -58,6 +58,12 @@ Keratitis
 Keratitis was reported in 0.7% (n=10) of the 1479 patients treated with TAGRISSO in the ADAURA, FLAURA and AURA studies.
 Patients presenting with signs and symptoms suggestive of keratitis such as acute or worsening: eye inflammation, lacrimation, light sensitivity, blurred vision, eye pain and/or red eye should be referred promptly to an ophthalmology specialist (see section 4.2 Table 1).
 
+Aplastic Anaemia
+
+Rare cases of aplastic anaemia, including fatal events, have been reported in association with osimertinib treatment.
+Before initiating treatment, patients should be advised of signs and symptoms of aplastic anaemia including but not limited to persistent fever, bruising, bleeding, pallor, infection and fatigue.
+If signs and symptoms suggestive of aplastic anaemia develop, close patient monitoring and drug interruption or discontinuation of osimertinib should be considered.
+Osimertinib should be discontinued in patients with confirmed aplastic anaemia (see section 4.2).
 Age and body weight
 
 Elderly patients (>65 years) or patients with low body weight (<50 kg) may be at increased risk of developing adverse events of Grade 3 or higher.

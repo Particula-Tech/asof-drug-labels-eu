@@ -70,5 +70,6 @@ There are no data available on patients with severe hepatic impairment (see sect
 Renal impairment
 
 In a clinical study, patients with severe renal impairment (CLcr 15 to less than 30 mL/min; n=7) compared to patients with normal renal function (CLcr greater than or equal to 90 mL/min; n=8) after a single 80 mg oral dose of TAGRISSO showed a 1.85-fold increase in AUC (90% CI; 0.94, 3.64) and a 1.19-fold increase in Cmax (90% CI: 0.69, 2.07).
-Furthermore, based on a population pharmacokinetic analysis of 593 patients with mild renal impairment (CLcr 60 to less than 90 mL/min), 254 patients with moderate renal impairment (CLcr 30 to less than 60 mL/min), 5 patients with severe renal impairment (CLcr 15 to less than 30 mL/min) and 502 patients with normal renal function (greater than or equal to 90 mL/min), osimertinib exposures were similar.
+Furthermore, based on a population pharmacokinetic analysis of 593 patients with mild renal impairment (CLcr 60 to less than 90 mL/min), 254 patients with moderate renal impairment (CLcr 30 to less than 60 mL/min),
+5 patients with severe renal impairment (CLcr 15 to less than 30 mL/min) and 502 patients with normal renal function (greater than or equal to 90 mL/min), osimertinib exposures were similar.
 Patients with CLcr less than or equal to 10 mL/min were not included in the clinical studies.
