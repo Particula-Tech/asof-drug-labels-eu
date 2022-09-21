@@ -1,8 +1,8 @@
 # 6.4 Special precautions for storage
 
-Before first use: Store in a refrigerator (2 °C–8 °C).
+Store in a refrigerator (2 °C–8 °C).
 Keep away from the cooling element.
-Do not freeze Ozempic and do not use Ozempic if it has been frozen.
+Do not freeze Ozempic.
 
 Keep the pen cap on in order to protect from light.
 

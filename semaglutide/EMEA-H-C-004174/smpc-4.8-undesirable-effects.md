@@ -5,7 +5,6 @@ Summary of safety profile
 In 8 phase 3a trials 4 792 patients were exposed to semaglutide up to 1 mg.
 The most frequently reported adverse reactions in clinical trials were gastrointestinal disorders, including nausea (very common), diarrhoea (very common) and vomiting (common).
 In general, these reactions were mild or moderate in severity and of short duration.
-
 Tabulated list of adverse reactions
 
 Table 1 lists adverse reactions identified in all phase 3 trials (including the long-term cardiovascular outcomes trial) and post-marketing reports in patients with type 2 diabetes mellitus (further described in section 5.1).
@@ -21,18 +20,14 @@ Table 1 Frequency of adverse reactions of semaglutide
 | MedDRA system organ class | Very common | Common | Uncommon | Rare | Not known |
 | --- | --- | --- | --- | --- | --- |
 | Immune system disorders |  |  | Hypersensitivityc | Anaphy-lactic reaction |  |
-| Metabolism and nutrition disorders | Hypoglycaemiaa when used with insulin or sulfonylurea | Hypoglycaemiaa when used with other OADs Decreased appetite |  |  |  |
+| Metabolism and nutrition disorders | Hypoglycaemiaa when used with insulin or sulfonylurea | Hypoglycaemiaa when used with other oral antidiabetics (OAD) Decreased appetite |  |  |  |
 | Nervous system disorders |  | Dizziness | Dysgeusia |  |  |
 | Eye disorders |  | Diabetic retinopathy complicationsb |  |  |  |
 | Cardiac disorders |  |  | Increased heart rate |  |  |
-| Gastrointesti-nal disorders | Nausea Diarrhoea | Vomiting Abdominal pain Abdominal distension Constipation Dyspepsia Gastritis Gastro-oesophageal reflux disease | Acute pancreatitis |  |  |
+| Gastrointesti-nal disorders | Nausea Diarrhoea | Vomiting Abdominal pain Abdominal distension Constipation Dyspepsia Gastritis Gastro-oesophageal reflux disease Eructation Flatulence | Acute pancreatitis |  |  |
+| Hepatobiliary disorders |  | Cholelithiasis |  |  |  |
+| Skin and subcutaneous |  |  |  |  | Angioedemad |
 
-Eructation
-Flatulence
-Hepatobiliary Cholelithiasis
-disorders
-Skin and Angioedemad
-subcutaneous
 tissue
 disorders
 General Fatigue Injection site
@@ -70,7 +65,7 @@ In a 40-week phase 3b trial in patients receiving semaglutide 1 mg and 2 mg, the
 Overall, there was no increased risk of hypoglycaemia with semaglutide 2 mg.
 
 Gastrointestinal adverse reactions
-Nausea occurred in 17.0% and 19.9% of patients when treated with semaglutide 0.5 mg and 1 mg, respectively, diarrhoea in 12.2% and 13.3% and vomiting in 6.4% and 8.4%.
+Nausea occurred in 17% and 19.9% of patients when treated with semaglutide 0.5 mg and 1 mg, respectively, diarrhoea in 12.2% and 13.3% and vomiting in 6.4% and 8.4%.
 Most events were mild to moderate in severity and of short duration.
 The events led to treatment discontinuation in 3.9% and 5% of patients.
 The events were most frequently reported during the first months on treatment.
@@ -89,7 +84,7 @@ In the 2-year cardiovascular outcomes trial the frequency of acute pancreatitis 
 
 Diabetic retinopathy complications
 A 2-year clinical trial investigated 3 297 patients with type 2 diabetes, with high cardiovascular risk, long duration of diabetes and poorly controlled blood glucose.
-In this trial, adjudicated events of diabetic retinopathy complications occurred in more patients treated with semaglutide (3.0%) compared to placebo (1.8%).
+In this trial, adjudicated events of diabetic retinopathy complications occurred in more patients treated with semaglutide (3%) compared to placebo (1.8%).
 This was observed in insulin-treated patients with known diabetic retinopathy.
 The treatment difference appeared early and persisted throughout the trial.
 Systematic evaluation of diabetic retinopathy complication was only performed in the cardiovascular outcomes trial.
@@ -111,6 +106,7 @@ Heart rate increase
 Increased heart rate has been observed with GLP-1 receptor agonists.
 In the phase 3a trials, mean increases of 1 to 6 beats per minute (bpm) from a baseline of 72 to 76 bpm were observed in subjects treated with Ozempic.
 In a long-term trial in subjects with cardiovascular risk factors, 16% of Ozempic-treated subjects had an increase in heart rate of >10 bpm compared to 11% of subjects on placebo after 2 years of treatment.
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

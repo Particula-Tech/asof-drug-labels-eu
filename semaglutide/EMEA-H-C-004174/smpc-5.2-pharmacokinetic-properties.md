@@ -22,7 +22,6 @@ Biotransformation
 
 Prior to excretion, semaglutide is extensively metabolised through proteolytic cleavage of the peptide backbone and sequential beta-oxidation of the fatty acid sidechain.
 The enzyme neutral endopeptidase (NEP) is expected to be involved in the metabolism of semaglutide.
-
 Elimination
 
 In a trial with a single subcutaneous dose of radiolabelled semaglutide, it was found that the primary excretion routes of semaglutide-related material were via urine and faeces; approximately 2/3 of semaglutide-related material were excreted in urine and approximately 1/3 in faeces.
@@ -42,6 +41,7 @@ Body weight
 Body weight has an effect on the exposure of semaglutide.
 Higher body weight results in lower exposure; a 20% difference in body weight between individuals will result in an approximate 16% difference in exposure.
 Semaglutide doses of 0.5 mg and 1 mg provide adequate systemic exposure over a body weight range of 40–198 kg.
+
 Renal impairment
 Renal impairment did not impact the pharmacokinetics of semaglutide in a clinically relevant manner.
 This was shown with a single dose of 0.5 mg semaglutide for patients with different degrees of renal impairment (mild, moderate, severe or patients in dialysis) compared with subjects with normal renal function.

@@ -24,11 +24,11 @@ In animal studies, semaglutide attenuates the development of atherosclerosis by 
 Pharmacodynamic effects
 
 All pharmacodynamic evaluations were performed after 12 weeks of treatment (including dose escalation) at steady state with semaglutide 1 mg once weekly.
+
 Fasting and postprandial glucose
 Semaglutide reduces fasting and postprandial glucose concentrations.
 In patients with type 2 diabetes, treatment with semaglutide 1 mg resulted in reductions in glucose in terms of absolute change from baseline (mmol/L) and relative reduction compared to placebo (%) for fasting glucose (1.6 mmol/L; 22% reduction), 2 hour postprandial glucose (4.1 mmol/L; 37% reduction), mean 24 hour glucose concentration (1.7 mmol/L; 22% reduction) and postprandial glucose excursions over 3 meals (0.6-1.1 mmol/L) compared with placebo.
 Semaglutide lowered fasting glucose after the first dose.
-
 Beta-cell function and insulin secretion
 Semaglutide improves beta-cell function.
 Compared to placebo, semaglutide improved first- and second-phase insulin response with a 3– and 2–fold increase, respectively, and increased maximal beta-cell secretory capacity in patients with type 2 diabetes.
@@ -68,7 +68,6 @@ The efficacy and safety of semaglutide 0.5 mg and 1 mg once weekly were evaluate
 Five trials (SUSTAIN 1–5) had the glycaemic efficacy assessment as the primary objective, while one trial (SUSTAIN 6) had cardiovascular outcome as the primary objective.
 
 The efficacy and safety of semaglutide 2 mg once weekly was evaluated in a phase 3b trial (SUSTAIN FORTE) including 961 patients.
-
 In addition, a phase 3b trial (SUSTAIN 7) including 1 201 patients was conducted to compare the efficacy and safety of semaglutide 0.5 mg and 1 mg once weekly to dulaglutide 0.75 mg and 1.5 mg once weekly, respectively.
 A phase 3b trial (SUSTAIN 9), was conducted to investigate the efficacy and safety of semaglutide as add-on to SGLT2 inhibitor treatment.
 
@@ -77,6 +76,8 @@ Treatment with semaglutide demonstrated sustained, statistically superior and cl
 The efficacy of semaglutide was not impacted by age, gender, race, ethnicity, BMI at baseline, body weight (kg) at baseline, diabetes duration and level of renal function impairment.
 
 Results target the on-treatment period in all randomised subjects (analyses based on mixed models for repeated measurements or multiple imputation).
+
+In addition, a phase 3b trial (SUSTAIN 11), was conducted to investigate the effect of semaglutide versus insulin aspart, both as add-on to metformin and optimised insulin glargine (U100).
 
 Detailed information is provided below.
 
@@ -126,15 +127,12 @@ Table 3 SUSTAIN 2: Results at week 56
 ap <0.0001 (2-sided) for superiority
 
 . .
-. . .
-. . . .
+. . . . . . .
 . . . . .
 . . .
-. . . .
-. . .
+. . . . . . .
 . . . . .
-. . . . . . . .
-. . . .
+. . . . . . . . . . . .
 . . .
 Time since randomisation (week) Time since randomisation (week)
 Semaglutide 0.5 mg Semaglutide 1 mg Semaglutide 0.5 mg Semaglutide 1 mg
@@ -148,7 +146,6 @@ The trial compared 0.5 mg of semaglutide to 0.75 mg of dulaglutide and 1 mg of s
 
 Gastrointestinal disorders were the most frequent adverse events, and occurred in similar proportion of patients receiving semaglutide 0.5 mg (129 patients [43%]), semaglutide 1 mg (133 [44%]), and dulaglutide 1.5 mg (143 [48%]); fewer patients had gastrointestinal disorders with dulaglutide 0.75 mg (100 [33%]).
 At week 40, the increase in pulse rate for semaglutide (0.5 mg and 1 mg) and dulaglutide (0.75 mg and 1.5 mg) was 2.4, 4.0, and 1.6, 2.1, beats/min, respectively.
-
 Table 4 SUSTAIN 7: Results at week 40
 
 |  | Semaglutide 0.5 mg | Semaglutide 1 mg | Dulaglutide 0.75 mg | Dulaglutide 1.5 mg |
@@ -169,19 +166,15 @@ Table 4 SUSTAIN 7: Results at week 40
 
 ap <0.0001 (2-sided) for superiority b semaglutide 0.5 mg vs dulaglutide 0.75 mg c semaglutide 1 mg vs dulaglutide 1.5 mg
 
-.
-.
-. . . .
-. . . .
-. . . . . . . .
-. . . .
-. . . . . .
-. . . . . . . .
-. . . . . .
 . .
+. . . .
+. . . .
+. . . . . . . . . . . .
+. . . . . . . . .
+. . . . .
+. . . . . . . .
 . . .
-Time since randomisation (week)
-Time since randomisation (week)
+Time since randomisation (week) Time since randomisation (week)
 Semaglutide 0.5 mg Semaglutide 1 mg Semaglutide 0.5 mg Semaglutide 1 mg
 Dulaglutide 0.75 mg Dulaglutide 1.5 mg Dulaglutide 0.75 mg Dulaglutide 1.5 mg
 
@@ -258,6 +251,7 @@ ap <0.0001 (2-sided) for superiority
 
 SUSTAIN FORTE – Semaglutide 2 mg vs. semaglutide 1 mg
 In a 40-week double-blind trial, 961 patients inadequately controlled with metformin with or without sulfonylurea were randomised to semaglutide 2 mg once weekly or semaglutide 1 mg once weekly.
+
 Treatment with semaglutide 2 mg resulted in a statistically superior reduction in HbA1c after 40 weeks of treatment compared to semaglutide 1 mg.
 
 Table 8 SUSTAIN FORTE: Results at week 40
@@ -303,10 +297,21 @@ Table 9 SUSTAIN 9: Results at week 30
 
 ap < 0.0001 (2-sided) for superiority, adjusted regarding multiplicity based on hierarchical testing of the HbA1c value and body weight
 
+SUSTAIN 11 - Semaglutide vs. insulin aspart as add-on to insulin glargine + metformin
+In a 52-week open-label trial, 1748 subjects with inadequately controlled T2D after a 12-week run-in period on insulin glargine and metformin were randomised to 1:1 to receive either semaglutide once-weekly (0.5 mg or 1.0 mg) or insulin aspart three times daily.
+The included population had a mean diabetes duration of 13.4 years and a mean HbA1c of 8.6%, with a target HbA1c of 6.5-7.5%.
+
+Treatment with semaglutide resulted in reduction in HbA1c at week 52 (-1.5% for semaglutide vs. - 1.2% for insulin aspart).
+
+The number of severe hypoglycaemic episodes in both treatment arms was low (4 episodes with semaglutide vs. 7 episodes with insulin aspart).
+
+Mean baseline body weight decreased with semaglutide (-4.1 kg) and increased with insulin aspart (+2.8 kg) and the estimated treatment difference was -6.99 kg (95%CI -7.41 to -6.57) at week 52.
+
 Combination with sulfonylurea monotherapy
 In SUSTAIN 6 (see subsection “Cardiovascular disease”) 123 patients were on sulfonylurea monotherapy at baseline.
 HbA1c at baseline was 8.2%, 8.4% and 8.4% for semaglutide 0.5 mg, semaglutide 1 mg, and placebo, respectively.
 At week 30, the change in HbA1c was -1.6%, -1.5% and 0.1% for semaglutide 0.5 mg, semaglutide 1 mg, and placebo, respectively.
+
 Combination with premix insulin ± 1–2 OADs
 In SUSTAIN 6 (see subsection “Cardiovascular disease”) 867 patients were on premix insulin (with or without OAD(s)) at baseline.
 HbA1c at baseline was 8.8%, 8.9% and 8.9% for semaglutide 0.5 mg, semaglutide 1 mg, and placebo, respectively.
@@ -342,37 +347,30 @@ Time from randomisation (week)
 Semaglutide Placebo
 
 Figure 3 Kaplan-Meier plot of time to first occurrence of the composite outcome: cardiovascular death, non-fatal myocardial infarction or non-fatal stroke (SUSTAIN 6)
+
 Hazard Ratio Semaglutide Placebo
 
 (95% CI) N (%) N (%)
-1648 1649
-
-FAS
-
-(100) (100)
-0.74 108 146
-Primary endpoint – MACE (0.58- 0.95) (6.6) (8.9)
+FAS (100) 1648 (100) 1649
+Primary endpoint – MACE (0.58- 0.95) 0.74 (6.6) 108 (8.9) 146
 
 Components of MACE
 
-0.98 44 46
-Cardiovascular death (0.65-1.48) (2.7) (2.8)
-0.61 27 44
-Non-fatal stroke (0.38-0.99) (1.6) (2.7)
-0.74 47 64
-Non-fatal myocardial infarction (0.51-1.08) (2.9) (3.9)
+Cardiovascular death (0.65-1.48) 0.98 (2.7) 44 (2.8) 46
+Non-fatal stroke (0.38-0.99) 0.61 (1.6) 27 (2.7) 44
+Non-fatal myocardial infarction (0.51-1.08) 0.74 (2.9) 47 (3.9) 64
 
 Other secondary endpoints
 
-All cause death (0.74-1.50) 1.05 (3.8) 62 (3.6) 60
+1.05 62 60
+All cause death (0.74-1.50) (3.8) (3.6)
 0.2 1 5
-Favours semaglutide Favours placebo
+Favours Semaglutide Favours placebo
 
 Figure 4 Forest plot: analyses of time to first occurrence of the composite outcome, its components and all cause death (SUSTAIN 6)
 
 There were 158 events of new or worsening nephropathy.
 The hazard ratio [95% CI] for time to nephropathy (new onset of persistent macroalbuminuria, persistent doubling of serum creatinine, need for continuous renal replacement therapy and death due to renal disease) was 0.64 [0.46; 0.88] driven by new onset of persistent macroalbuminuria.
-
 Body weight
 After one year of treatment, a weight loss of ≥5% and ≥10% was achieved for more subjects with semaglutide 0.5 mg (46% and 13%) and 1 mg (52 – 62% and 21 – 24%) compared with the active comparators sitagliptin (18% and 3%) and exenatide ER (17% and 4%).
 
