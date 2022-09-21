@@ -9,6 +9,6 @@ Lyrica 200 mg hard capsules
 Lyrica 225 mg hard capsules
 Lyrica 300 mg hard capsules
 
-[Lyrica 20 mg/ml oral solution]
+[Lyrica 20 mg/mL oral solution]
 
-Lyrica 20 mg/ml oral solution
+Lyrica 20 mg/mL oral solution

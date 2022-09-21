@@ -2,7 +2,7 @@
 
 No special requirements for disposal.
 
-[Lyrica 20 mg/ml oral solution]
+[Lyrica 20 mg/mL oral solution]
 
 Method of Administration
 
@@ -30,7 +30,7 @@ Figure 7 Figure 8 Figure 9
 Table 3.
 Oral Syringe Withdrawals to Deliver Prescribed Dose of Lyrica
 
-| Lyrica Dose (mg) | Total Solution Volume (ml) | First Syringe Withdrawal (ml) | Second Syringe Withdrawal (ml) | Third Syringe Withdrawal (ml) |
+| Lyrica Dose (mg) | Total Solution Volume (mL) | First Syringe Withdrawal (mL) | Second Syringe Withdrawal (mL) | Third Syringe Withdrawal (mL) |
 | --- | --- | --- | --- | --- |
 | 25 | 1.25 | 1.25 | Not required | Not required |
 | 50 | 2.5 | 2.5 | Not required | Not required |

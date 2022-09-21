@@ -7,10 +7,15 @@ Hypersensitivity reactions
 There have been reports in the postmarketing experience of hypersensitivity reactions, including cases of angioedema.
 Pregabalin should be discontinued immediately if symptoms of angioedema, such as facial, perioral, or upper airway swelling occur.
 
+Severe cutaneous adverse reactions (SCARs)
+SCARs including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), which can be life-threatening or fatal, have been reported rarely in association with pregabalin treatment.
+At the time of prescription patients should be advised of the signs and symptoms and monitored closely for skin reactions.
+If signs and symptoms suggestive of these reactions appear, pregabalin should be withdrawn immediately and an alternative treatment considered (as appropriate).
 Dizziness, somnolence, loss of consciousness, confusion and mental impairment
 Pregabalin treatment has been associated with dizziness and somnolence, which could increase the occurrence of accidental injury (fall) in the elderly population.
 There have also been postmarketing reports of loss of consciousness, confusion and mental impairment.
 Therefore, patients should be advised to exercise caution until they are familiar with the potential effects of the medicinal product.
+
 Vision-related effects
 In controlled trials, a higher proportion of patients treated with pregabalin reported blurred vision than did patients treated with placebo which resolved in a majority of cases with continued dosing.
 In the clinical studies where ophthalmologic testing was conducted, the incidence of visual acuity reduction and visual field changes was greater in pregabalin-treated patients than in placebo-treated patients; the incidence of fundoscopic changes was greater in placebo-treated patients (see section 5.1).
@@ -23,15 +28,6 @@ Cases of renal failure have been reported and in some cases discontinuation of p
 
 Withdrawal of concomitant anti-epileptic medicinal products
 There are insufficient data for the withdrawal of concomitant anti-epileptic medicinal products, once seizure control with pregabalin in the add-on situation has been reached, in order to reach monotherapy on pregabalin.
-
-Withdrawal symptoms
-After discontinuation of short-term and long-term treatment with pregabalin, withdrawal symptoms have been observed in some patients.
-The following events have been mentioned: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, nervousness, depression, pain, convulsion, hyperhidrosis and dizziness, suggestive of physical dependence.
-The patient should be informed about this at the start of the treatment.
-
-Convulsions, including status epilepticus and grand mal convulsions, may occur during pregabalin use or shortly after discontinuing pregabalin.
-
-Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related.
 
 Congestive heart failure
 There have been postmarketing reports of congestive heart failure in some patients receiving pregabalin.
@@ -52,9 +48,13 @@ Dose adjustments may be necessary in these patients (see section 4.2).
 Suicidal ideation and behaviour
 Suicidal ideation and behaviour have been reported in patients treated with anti-epileptic agents in several indications.
 A meta-analysis of randomised placebo controlled studies of anti-epileptic drugs has also shown a small increased risk of suicidal ideation and behaviour.
-The mechanism of this risk is not known and the available data do not exclude the possibility of an increased risk for pregabalin.
-Therefore patients should be monitored for signs of suicidal ideation and behaviours and appropriate treatment should be considered.
+The mechanism of this risk is not known.
+Cases of suicidal ideation and behaviour have been observed in patients treated with pregabalin in the postmarketing experience (see section 4.8).
+An epidemiological study using a self-controlled study design (comparing treatment periods with non-treatment periods within an individual) showed evidence of an increased risk of new onset of suicidal behaviour and death by suicide in patients treated with pregabalin.
+
 Patients (and caregivers of patients) should be advised to seek medical advice should signs of suicidal ideation or behaviour emerge.
+Patients should be monitored for signs of suicidal ideation and behaviour and appropriate treatment should be considered.
+Discontinuation of pregabalin treatment should be considered in case of suicidal ideation and behaviour.
 
 Reduced lower gastrointestinal tract function
 There are postmarketing reports of events related to reduced lower gastrointestinal tract function (e.g. intestinal obstruction, paralytic ileus, constipation) when pregabalin was co-administered with medications that have the potential to produce constipation, such as opioid analgesics.
@@ -66,23 +66,42 @@ In a case-control study of opioid users, those patients who took pregabalin conc
 This increased risk was observed at low doses of pregabalin (≤ 300 mg, aOR 1.52 [95% CI, 1.04 – 2.22]) and there was a trend for a greater risk at high doses of pregabalin (> 300 mg, aOR 2.51 [95% CI 1.24 – 5.06]).
 
 Misuse, abuse potential or dependence
-Cases of misuse, abuse and dependence have been reported.
-Caution should be exercised in patients with a history of substance abuse and the patient should be monitored for symptoms of pregabalin misuse, abuse or dependence (development of tolerance, dose escalation, drug-seeking behaviour have been reported).
+Pregabalin can cause drug dependence, which may occur at therapeutic doses.
+Cases of abuse and misuse have been reported.
+Patients with a history of substance abuse may be at higher risk for pregabalin misuse, abuse and dependence, and pregabalin should be used with caution in such patients.
+Before prescribing pregabalin, the patient’s risk of misuse, abuse or dependence should be carefully evaluated.
+
+Patients treated with pregabalin should be monitored for symptoms of pregabalin misuse, abuse or dependence, such as development of tolerance, dose escalation and drug-seeking behaviour.
+
+Withdrawal symptoms
+After discontinuation of short-term and long-term treatment with pregabalin, withdrawal symptoms have been observed.
+The following symptoms have been reported: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, nervousness, depression, pain, convulsion, hyperhidrosis and dizziness.
+The occurrence of withdrawal symptoms following discontinuation of pregabalin may indicate drug dependence (see section 4.8).
+The patient should be informed about this at the start of the treatment.
+If pregabalin should be discontinued, it is recommended this should be done gradually over a minimum of 1 week independent of the indication (see section 4.2).
+
+Convulsions, including status epilepticus and grand mal convulsions, may occur during pregabalin use or shortly after discontinuing pregabalin.
+
+Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related.
 
 Encephalopathy
 Cases of encephalopathy have been reported, mostly in patients with underlying conditions that may precipitate encephalopathy.
 
+Women of childbearing potential/Contraception
+Lyrica use in the first-trimester of pregnancy may cause major birth defects in the unborn child.
+Pregabalin should not be used during pregnancy unless the benefit to the mother clearly outweighs the potential risk to the foetus.
+Women of childbearing potential have to use effective contraception during treatment (see section 4.6).
+
 Lactose intolerance
 Lyrica contains lactose monohydrate.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
-
 Sodium content
 Lyrica contains less than 1 mmol sodium (23 mg) per hard capsule.
 Patients on low sodium diets can be informed that this medicinal product is essentially ‘sodium-free’.
 
-[Lyrica 20 mg/ml oral solution]
+[Lyrica 20 mg/mL oral solution]
 
 Excipients which may cause allergic reactions
 Lyrica oral solution contains methyl parahydroxybenzoate and propyl parahydroxybenzoate which may cause allergic reactions (possibly delayed).
 
-Lyrica contains less than 1 mmol sodium (23 mg) per maximum daily dose of 600 mg (30 ml).
+Lyrica contains less than 1 mmol sodium (23 mg) per maximum daily dose of 600 mg (30 mL).

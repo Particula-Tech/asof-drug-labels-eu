@@ -12,6 +12,7 @@ Clinical efficacy and safety
 Neuropathic pain
 Efficacy has been shown in trials in diabetic neuropathy, post herpetic neuralgia and spinal cord injury.
 Efficacy has not been studied in other models of neuropathic pain.
+
 Pregabalin has been studied in 10 controlled clinical trials of up to 13 weeks with twice a day dosing (BID) and up to 8 weeks with three times a day (TID) dosing.
 Overall, the safety and efficacy profiles for BID and TID dosing regimens were similar.
 
@@ -22,7 +23,6 @@ For patients not experiencing somnolence, such an improvement was observed in 33
 For patients who experienced somnolence the responder rates were 48% on pregabalin and 16% on placebo.
 
 In the controlled clinical trial in central neuropathic pain 22% of the pregabalin treated patients and 7% of the patients on placebo had a 50% improvement in pain score.
-
 Epilepsy
 Adjunctive Treatment
 Pregabalin has been studied in 3 controlled clinical trials of 12 week duration with either BID or TID dosing.
@@ -45,6 +45,7 @@ Pregabalin 14 mg/kg/day significantly reduced the log-transformed partial onset 
 
 In a 12-week placebo-controlled study in subjects with Primary Generalized Tonic-Clonic (PGTC) seizures 219 subjects (aged 5 to 65 years, of which 66 were aged 5 to 16 years) were assigned to pregabalin 5 mg/kg/day (maximum 300 mg/day), 10 mg/kg/day (maximum 600 mg/day) or placebo as adjunctive therapy.
 The percentage of subjects with at least a 50% reduction in PGTC seizure rate was 41.3%, 38.9% and 41.7% for pregabalin 5 mg/kg/day, pregabalin 10 mg/kg/day and placebo respectively.
+
 Monotherapy (newly diagnosed patients)
 Pregabalin has been studied in 1 controlled clinical trial of 56 week duration with BID dosing.
 Pregabalin did not achieve non-inferiority to lamotrigine based on the 6-month seizure freedom endpoint.
@@ -56,13 +57,12 @@ Pregabalin has been studied in 6 controlled trials of 4-6 week duration, an elde
 Relief of the symptoms of GAD as reflected by the Hamilton Anxiety Rating Scale (HAM-A) was observed by Week 1.
 
 In controlled clinical trials (4-8 week duration) 52% of the pregabalin treated patients and 38% of the patients on placebo had at least a 50% improvement in HAM-A total score from baseline to endpoint.
-
 In controlled trials, a higher proportion of patients treated with pregabalin reported blurred vision than did patients treated with placebo which resolved in a majority of cases with continued dosing.
 Ophthalmologic testing (including visual acuity testing, formal visual field testing and dilated funduscopic examination) was conducted in over 3600 patients within controlled clinical trials.
 In these patients, visual acuity was reduced in 6.5% of patients treated with pregabalin, and 4.8% of placebo-treated patients.
 Visual field changes were detected in 12.4% of pregabalin-treated, and 11.7% of placebo-treated patients.
 Funduscopic changes were observed in 1.7% of pregabalin-treated and 2.1% of placebo-treated patients.
 
-[Lyrica 20 mg/ml oral solution]
+[Lyrica 20 mg/mL oral solution]
 
 Pregabalin has been studied in 3 controlled clinical trials of 12 week duration with BID or TID dosing.

@@ -27,7 +27,7 @@ White and light orange marked “Pfizer” on the cap and “PGN 225” on the b
 Lyrica 300 mg hard capsules
 White and orange, marked “Pfizer” on the cap and “PGN 300” on the body with black ink.
 
-[Lyrica 20 mg/ml oral solution]
+[Lyrica 20 mg/mL oral solution]
 
 Oral solution
 Clear colourless liquid

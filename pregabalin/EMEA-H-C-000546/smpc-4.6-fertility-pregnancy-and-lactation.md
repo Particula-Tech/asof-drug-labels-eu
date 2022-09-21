@@ -1,13 +1,19 @@
 # 4.6 Fertility, pregnancy and lactation
 
-Women of childbearing potential/Contraception in males and females
-As the potential risk for humans is unknown, effective contraception must be used in women of child bearing potential.
+Women of childbearing potential/Contraception
+Women of childbearing potential have to use effective contraception during treatment (see section 4.4).
 
 Pregnancy
-There are no adequate data from the use of pregabalin in pregnant women.
-
 Studies in animals have shown reproductive toxicity (see section 5.3).
-The potential risk for humans is unknown.
+
+Pregabalin has been shown to cross the placenta in rats (see section 5.2).
+Pregabalin may cross the human placenta.
+
+Major congenital malformations
+Data from a Nordic observational study of more than 2700 pregnancies exposed to pregabalin in the first trimester showed a higher prevalence of major congenital malformations (MCM) among the paediatric population (live or stillborn) exposed to pregabalin compared to the unexposed population (5.9% vs. 4.1%).
+
+The risk of MCM among the paediatric population exposed to pregabalin in the first trimester was slightly higher compared to unexposed population (adjusted prevalence ratio and 95% confidence interval: 1.14 (0.96-1.35)), and compared to population exposed to lamotrigine (1.29 (1.01–1.65)) or to duloxetine (1.39 (1.07–1.82)).
+The analyses on specific malformations showed higher risks for malformations of the nervous system, the eye, orofacial clefts, urinary malformations and genital malformations, but numbers were small and estimates imprecise.
 
 Lyrica should not be used during pregnancy unless clearly necessary (if the benefit to the mother clearly outweighs the potential risk to the foetus).
 

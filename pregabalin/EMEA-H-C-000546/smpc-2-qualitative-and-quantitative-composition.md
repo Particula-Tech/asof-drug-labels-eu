@@ -51,8 +51,8 @@ Each hard capsule also contains 33 mg lactose monohydrate.
 
 For the full list of excipients, see section 6.1.
 
-[Lyrica 20 mg/ml oral solution]
+[Lyrica 20 mg/mL oral solution]
 
-Each ml contains 20 mg of pregabalin
+Each mL contains 20 mg of pregabalin
 
-Each ml contains 1.3 mg of methyl parahydroxybenzoate (E218), 0.163 mg of propyl parahydroxybenzoate (E216)
+Each mL contains 1.3 mg of methyl parahydroxybenzoate (E218), 0.163 mg of propyl parahydroxybenzoate (E216)

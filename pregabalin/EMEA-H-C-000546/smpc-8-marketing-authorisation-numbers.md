@@ -20,7 +20,6 @@ EU/1/04/279/045
 Lyrica 100 mg hard capsules
 EU/1/04/279/014-016
 EU/1/04/279/39
-
 Lyrica 150 mg hard capsules
 EU/1/04/279/017-019
 EU/1/04/279/028
@@ -41,6 +40,6 @@ EU/1/04/279/029
 EU/1/04/279/032
 EU/1/04/279/043
 
-[Lyrica 20 mg/ml oral solution]
+[Lyrica 20 mg/mL oral solution]
 
 EU/1/04/279/044

@@ -13,168 +13,23 @@ Within each frequency grouping, undesirable effects are presented in order of de
 The adverse reactions listed may also be associated with the underlying disease and/or concomitant medicinal products.
 
 In the treatment of central neuropathic pain due to spinal cord injury the incidence of adverse reactions in general, CNS adverse reactions and especially somnolence was increased (see section 4.4).
-
 Additional reactions reported from postmarketing experience are included in italics in the list below.
 
 Table 2.
 Pregabalin Adverse Drug Reactions
 
-System Organ Class Adverse drug reactions
-
-Infections and infestations
-
-Common Nasopharyngitis
-
-Blood and lymphatic system disorders
-
-Uncommon Neutropaenia
-
-Immune system disorders
-
-Uncommon Hypersensitivity
-Rare Angioedema, allergic reaction
-
-Metabolism and nutrition disorders
-
-Common Appetite increased
-Uncommon Anorexia, hypoglycaemia
-
-Psychiatric disorders
-
-Common Euphoric mood, confusion, irritability, disorientation, insomnia,
-
-libido decreased
-
-Uncommon Hallucination, panic attack, restlessness, agitation, depression,
-
-depressed mood, elevated mood, aggression, mood swings, depersonalisation, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy
-
-Rare Disinhibition
-
-Nervous system disorders
-
-Very Common Dizziness, somnolence, headache
-Common Ataxia, coordination abnormal, tremor, dysarthria, amnesia,
-
-memory impairment, disturbance in attention, paraesthesia, hypoaesthesia, sedation, balance disorder, lethargy
-
-Uncommon Syncope, stupor, myoclonus, loss of consciousness, psychomotor
-
-hyperactivity, dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, mental impairment, speech disorder, hyporeflexia, hyperaesthesia, burning sensation, ageusia, malaise
-
-Rare Convulsions, parosmia, hypokinesia, dysgraphia, parkinsonism
-
-Eye disorders
-
-Common Vision blurred, diplopia
-Uncommon Peripheral vision loss, visual disturbance, eye swelling, visual field
-
-defect, visual acuity reduced, eye pain, asthenopia, photopsia, dry eye, lacrimation increased, eye irritation
-
-Rare Vision loss, keratitis, oscillopsia, altered visual depth perception,
-
-mydriasis, strabismus, visual brightness
-
-System Organ Class Adverse drug reactions
-
-Ear and labyrinth disorders
-
-Common Vertigo
-Uncommon Hyperacusis
-
-Cardiac disorders
-
-Uncommon Tachycardia, atrioventricular block first degree, sinus bradycardia,
-
-congestive heart failure
-
-Rare QT prolongation, sinus tachycardia, sinus arrhythmia
-
-Vascular disorders
-
-Uncommon Hypotension, hypertension, hot flushes, flushing, peripheral
-
-coldness
-Respiratory, thoracic and mediastinal disorders
-
-Uncommon Dyspnoea, epistaxis, cough, nasal congestion, rhinitis, snoring,
-
-nasal dryness
-
-Rare Pulmonary oedema, throat tightness
-Not known Respiratory depression
-
-Gastrointestinal disorders
-
-Common Vomiting, nausea, constipation, diarrhoea, flatulence, abdominal
-
-distension, dry mouth
-
-Uncommon Gastrooesophageal reflux disease, salivary hypersecretion,
-
-hypoaesthesia oral
-
-Rare Ascites, pancreatitis, swollen tongue, dysphagia
-
-Hepatobiliary disorders
-
-Uncommon Elevated liver enzymes*
-Rare Jaundice
-Very rare Hepatic failure, hepatitis
-
-Skin and subcutaneous tissue disorders
-
-Uncommon Rash papular, urticaria, hyperhidrosis, pruritus
-Rare Stevens Johnson syndrome, cold sweat
-
-Musculoskeletal and connective tissue disorders
-
-Common Muscle cramp, arthralgia, back pain, pain in limb, cervical spasm
-Uncommon Joint swelling, myalgia, muscle twitching, neck pain, muscle
-
-stiffness
-
-Rare Rhabdomyolysis
-
-Renal and urinary disorders
-
-Uncommon Urinary incontinence, dysuria
-Rare Renal failure, oliguria, urinary retention
-
-Reproductive system and breast disorders
-
-Common Erectile dysfunction
-Uncommon Sexual dysfunction, ejaculation delayed, dysmenorrhoea, breast
-
-pain
-
-Rare Amenorrhoea, breast discharge, breast enlargement, gynaecomastia
-
-General disorders and administration site conditions
-
-Common Oedema peripheral, oedema, gait abnormal, fall, feeling drunk,
-
-feeling abnormal, fatigue
-
-Uncommon Generalised oedema, face oedema, chest tightness, pain, pyrexia,
-
-thirst, chills, asthenia
-Investigations
-
-Common Weight increased
-Uncommon Blood creatine phosphokinase increased, blood glucose increased,
-
-platelet count decreased, blood creatinine increased, blood potassium decreased, weight decreased
-
-Rare White blood cell count decreased
+| System Organ Class | Adverse drug reactions |
+| --- | --- |
+| Infections and infestations Common Nasopharyngitis Blood and lymphatic system disorders Uncommon Neutropaenia Immune system disorders Uncommon Hypersensitivity Rare Angioedema, allergic reaction Metabolism and nutrition disorders Common Appetite increased Uncommon Anorexia, hypoglycaemia Psychiatric disorders Common Euphoric mood, confusion, irritability, disorientation, insomnia, libido decreased Uncommon Hallucination, panic attack, restlessness, agitation, depression, depressed mood, elevated mood, aggression, mood swings, depersonalisation, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy Rare Disinhibition, suicidal behaviour, suicidal ideation Not known Drug dependence Nervous system disorders Very Common Dizziness, somnolence, headache Common Ataxia, coordination abnormal, tremor, dysarthria, amnesia, memory impairment, disturbance in attention, paraesthesia, hypoaesthesia, sedation, balance disorder, lethargy Uncommon Syncope, stupor, myoclonus, loss of consciousness, psychomotor hyperactivity, dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, mental impairment, speech disorder, hyporeflexia, hyperaesthesia, burning sensation, ageusia, malaise Rare Convulsions, parosmia, hypokinesia, dysgraphia, parkinsonism Eye disorders Common Vision blurred, diplopia Uncommon Peripheral vision loss, visual disturbance, eye swelling, visual field defect, visual acuity reduced, eye pain, asthenopia, photopsia, dry eye, lacrimation increased, eye irritation Rare Vision loss, keratitis, oscillopsia, altered visual depth perception, mydriasis, strabismus, visual brightness Ear and labyrinth disorders Common Vertigo Uncommon Hyperacusis Cardiac disorders Uncommon Tachycardia, atrioventricular block first degree, sinus bradycardia, congestive heart failure Rare QT prolongation, sinus tachycardia, sinus arrhythmia Vascular disorders Uncommon Hypotension, hypertension, hot flushes, flushing, peripheral coldness Respiratory, thoracic and mediastinal disorders Uncommon Dyspnoea, epistaxis, cough, nasal congestion, rhinitis, snoring, nasal dryness Rare Pulmonary oedema, throat tightness Not known Respiratory depression |  |
+| Gastrointestinal disorders Common Vomiting, nausea, constipation, diarrhoea, flatulence, abdominal distension, dry mouth Uncommon Gastrooesophageal reflux disease, salivary hypersecretion, hypoaesthesia oral Rare Ascites, pancreatitis, swollen tongue, dysphagia Hepatobiliary disorders Uncommon Elevated liver enzymes* Rare Jaundice Very rare Hepatic failure, hepatitis Skin and subcutaneous tissue disorders Uncommon Rash papular, urticaria, hyperhidrosis, pruritus Rare Toxic epidermal necrolysis, Stevens-Johnson syndrome, cold sweat Musculoskeletal and connective tissue disorders Common Muscle cramp, arthralgia, back pain, pain in limb, cervical spasm Uncommon Joint swelling, myalgia, muscle twitching, neck pain, muscle stiffness Rare Rhabdomyolysis Renal and urinary disorders Uncommon Urinary incontinence, dysuria Rare Renal failure, oliguria, urinary retention Reproductive system and breast disorders Common Erectile dysfunction Uncommon Sexual dysfunction, ejaculation delayed, dysmenorrhoea, breast pain Rare Amenorrhoea, breast discharge, breast enlargement, gynaecomastia General disorders and administration site conditions Common Oedema peripheral, oedema, gait abnormal, fall, feeling drunk, feeling abnormal, fatigue Uncommon Generalised oedema, face oedema, chest tightness, pain, pyrexia, thirst, chills, asthenia Investigations Common Weight increased Uncommon Blood creatine phosphokinase increased, blood glucose increased, platelet count decreased, blood creatinine increased, blood potassium decreased, weight decreased Rare White blood cell count decreased |  |
 
 * Alanine aminotransferase increased (ALT) and aspartate aminotransferase increased (AST).
 
-After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
-The following reactions have been mentioned: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, pain, hyperhidrosis and dizziness, suggestive of physical dependence.
+After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed.
+The following symptoms have been reported: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, pain, hyperhidrosis and dizziness.
+These symptoms may indicate drug dependence.
 The patient should be informed about this at the start of the treatment.
-
-Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related.
+Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related (see sections 4.2 and 4.4).
 
 Paediatric population
 The pregabalin safety profile observed in five paediatric studies in patients with partial seizures with or without secondary generalisation (12-week efficacy and safety study in patients 4 to 16 years of age, n=295; 14-day efficacy and safety study in patients 1 month to younger than 4 years of age, n=175; pharmacokinetic and tolerability study, n=65; and two 1 year open label follow on safety studies, n=54 and n=431) was similar to that observed in the adult studies of patients with epilepsy.
@@ -185,3 +40,11 @@ Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+[Lyrica 20 mg/mL oral solution]
+
+| System Organ Class | Adverse drug reactions |
+| --- | --- |
+| Infections and infestations Common Nasopharyngitis Blood and lymphatic system disorders Uncommon Neutropaenia Immune system disorders Uncommon Hypersensitivity Rare Angioedema, allergic reaction Metabolism and nutrition disorders Common Appetite increased Uncommon Anorexia, hypoglycaemia Psychiatric disorders Common Euphoric mood, confusion, irritability, disorientation, insomnia, libido decreased Uncommon Hallucination, panic attack, restlessness, agitation, depression, depressed mood, elevated mood, aggression, mood swings, depersonalisation, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy Rare Disinhibition, suicidal behaviour, suicidal ideation Not known Drug dependence |  |
+| Nervous system disorders Very Common Dizziness, somnolence, headache Common Ataxia, coordination abnormal, tremor, dysarthria, amnesia, memory impairment, disturbance in attention, paraesthesia, hypoaesthesia, sedation, balance disorder, lethargy Uncommon Syncope, stupor, myoclonus, loss of consciousness, psychomotor hyperactivity, dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, mental impairment, speech disorder, hyporeflexia, hyperaesthesia, burning sensation, ageusia, malaise Rare Convulsions, parosmia, hypokinesia, dysgraphia, parkinsonism Eye disorders Common Vision blurred, diplopia Uncommon Peripheral vision loss, visual disturbance, eye swelling, visual field defect, visual acuity reduced, eye pain, asthenopia, photopsia, dry eye, lacrimation increased, eye irritation Rare Vision loss, keratitis, oscillopsia, altered visual depth perception, mydriasis, strabismus, visual brightness Ear and labyrinth disorders Common Vertigo Uncommon Hyperacusis Cardiac disorders Uncommon Tachycardia, atrioventricular block first degree, sinus bradycardia, congestive heart failure Rare QT prolongation, sinus tachycardia, sinus arrhythmia Vascular disorders Uncommon Hypotension, hypertension, hot flushes, flushing, peripheral coldness Respiratory, thoracic and mediastinal disorders Uncommon Dyspnoea, epistaxis, cough, nasal congestion, rhinitis, snoring, nasal dryness Rare Pulmonary oedema, throat tightness Not known Respiratory depression Gastrointestinal disorders Common Vomiting, nausea, constipation, diarrhoea, flatulence, abdominal distension, dry mouth Uncommon Gastrooesophageal reflux disease, salivary hypersecretion, hypoaesthesia oral Rare Ascites, pancreatitis, swollen tongue, dysphagia Hepatobiliary disorders Uncommon Elevated liver enzymes* Rare Jaundice Very rare Hepatic failure, hepatitis Skin and subcutaneous tissue disorders Uncommon Rash papular, urticaria, hyperhidrosis, pruritus Rare Toxic epidermal necrolysis, Stevens-Johnson syndrome, cold sweat Musculoskeletal and connective tissue disorders Common Muscle cramp, arthralgia, back pain, pain in limb, cervical spasm Uncommon Joint swelling, myalgia, muscle twitching, neck pain, muscle stiffness Rare Rhabdomyolysis Renal and urinary disorders Uncommon Urinary incontinence, dysuria Rare Renal failure, oliguria, urinary retention |  |
+| Reproductive system and breast disorders Common Erectile dysfunction Uncommon Sexual dysfunction, ejaculation delayed, dysmenorrhoea, breast pain Rare Amenorrhoea, breast discharge, breast enlargement, gynaecomastia General disorders and administration site conditions Common Oedema peripheral, oedema, gait abnormal, fall, feeling drunk, feeling abnormal, fatigue Uncommon Generalised oedema, face oedema, chest tightness, pain, pyrexia, thirst, chills, asthenia Investigations Common Weight increased Uncommon Blood creatine phosphokinase increased, blood glucose increased, platelet count decreased, blood creatinine increased, blood potassium decreased, weight decreased Rare White blood cell count decreased |  |

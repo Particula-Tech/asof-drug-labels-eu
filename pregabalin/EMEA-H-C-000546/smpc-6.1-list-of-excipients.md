@@ -6,6 +6,7 @@ Capsules content:
 Lactose monohydrate
 Maize starch
 Talc
+
 Capsules shell:
 Gelatin
 Titanium dioxide (E171)
@@ -18,7 +19,6 @@ Shellac
 Black iron oxide (E172)
 Propylene glycol
 Potassium hydroxide
-
 Lyrica 75 mg, 100 mg, 200 mg, 225 mg, 300 mg hard capsules
 
 Capsules content:
@@ -40,7 +40,7 @@ Black iron oxide (E172)
 Propylene glycol
 Potassium hydroxide
 
-[Lyrica 20 mg/ml oral solution]
+[Lyrica 20 mg/mL oral solution]
 
 Methyl parahydroxybenzoate (E218)
 Propyl parahydroxybenzoate (E216)

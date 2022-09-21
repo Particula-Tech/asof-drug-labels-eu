@@ -8,6 +8,7 @@ Population pharmacokinetic analysis indicated that oral antidiabetics, diuretics
 
 Oral contraceptives, norethisterone and/or ethinyl oestradiol
 Co-administration of pregabalin with the oral contraceptives norethisterone and/or ethinyl oestradiol does not influence the steady-state pharmacokinetics of either substance.
+
 Central nervous system influencing medical products
 Pregabalin may potentiate the effects of ethanol and lorazepam.
 
