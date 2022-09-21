@@ -7,3 +7,8 @@ Findings are related to FP receptor agonist activity in uterus with early embryo
 In pregnant rat, systemic administration of travoprost at doses more than 200 times the clinical dose during the period of organogenesis resulted in an increased incidence of malformations.
 Low levels of radioactivity were measured in amniotic fluid and foetal tissues of pregnant rats administered 3H-travoprost.
 Reproduction and development studies have demonstrated a potent effect on foetal loss with a high rate observed in rats and mice (180 pg/ml and 30 pg/ml plasma, respectively) at exposures 1.2 to 6 times the clinical exposure (up to 25 pg/ml).
+
+Environmental Risk Assessment (ERA)
+
+Travoprost is considered a persistent, bioaccumulative and toxic (PBT) substance.
+Hence, despite the very small amounts of travoprost used by patients in eye drops, a risk to the environment cannot be excluded.

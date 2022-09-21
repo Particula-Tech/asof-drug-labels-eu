@@ -77,7 +77,7 @@ administration site conditions
 
 Investigations Not known prostatic specific antigen increased
 
-Paediatric Population
+Paediatric population
 
 In a 3 month phase 3 study and a 7 days pharmacokinetic study, involving 102 paediatric patients exposed to TRAVATAN, the types and characteristics of adverse reactions reported were similar to what has been observed in adult patients.
 The short-term safety profiles in the different paediatric subsets were also similar (see section 5.1).
