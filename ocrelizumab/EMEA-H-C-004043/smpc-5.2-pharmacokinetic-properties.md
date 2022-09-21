@@ -6,7 +6,7 @@ Area under the curve (AUCτ) after the 4th dose of 600 mg ocrelizumab was 3510 �
 
 Absorption
 
-Ocrevus is administered as an intravenous infusion.
+Ocrelizumab is administered as an intravenous infusion.
 There have been no studies performed with other routes of administration.
 Distribution
 
@@ -14,18 +14,18 @@ The population pharmacokinetics estimate of the central volume of distribution w
 
 Biotransformation
 
-The metabolism of Ocrevus has not been directly studied, as antibodies are cleared principally by catabolism (i.e. breakdown into peptides and amino acids).
+The metabolism of ocrelizumab has not been directly studied, as antibodies are cleared principally by catabolism (i.e. breakdown into peptides and amino acids).
 
 Elimination
 
 Constant clearance was estimated at 0.17 L/day, and initial time-dependent clearance at 0.0489 L/day which declined with a half-life of 33 weeks.
 The terminal elimination half-life of ocrelizumab was 26 days.
 
-Pharmacokinetics in Special Populations
+Special populations
 
-Paediatrics
+Paediatric population
 
-No studies have been conducted to investigate the pharmacokinetics of ocrelizumab in children and adolescents <18 years of age.
+No studies have been conducted to investigate the pharmacokinetics of ocrelizumab in children and adolescents less than 18 years of age.
 
 Elderly
 
@@ -34,7 +34,7 @@ There are no dedicated PK studies of ocrelizumab in patients ≥55 years due to 
 Renal impairment
 
 No formal pharmacokinetic study has been conducted.
-Patients with mild renal impairment were included in clinical trials and no change in the pharmacokinetics of Ocrevus was observed in those patients.
+Patients with mild renal impairment were included in clinical trials and no change in the pharmacokinetics of ocrelizumab was observed in those patients.
 There is no PK information available in patients with moderate or severe renal impairment.
 
 Hepatic impairment

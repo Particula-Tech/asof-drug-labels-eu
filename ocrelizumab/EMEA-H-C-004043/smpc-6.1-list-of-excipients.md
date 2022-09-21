@@ -1,7 +1,7 @@
 # 6.1 List of excipients
 
-Sodium Acetate Trihydrate
-Glacial Acetic Acid
-Trehalose Dihydrate
-Polysorbate 20
-Water for Injection
+Sodium acetate trihydrate (E 262)
+Glacial acetic acid
+Trehalose dihydrate
+Polysorbate 20 (E 432)
+Water for injections

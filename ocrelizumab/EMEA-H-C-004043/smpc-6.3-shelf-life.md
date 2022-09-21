@@ -2,7 +2,7 @@
 
 Unopened vial
 
-24 months
+2 years
 
 Diluted solution for intravenous infusion
 
