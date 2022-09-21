@@ -32,7 +32,6 @@ Gender
 No dose adjustment is necessary according to gender.
 
 Paediatric population
-
 The safety and efficacy of mirabegron in children below 18 years of age have not yet been established.
 No data are available.
 
