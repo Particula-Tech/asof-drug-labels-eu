@@ -10,6 +10,7 @@ Administration of EGFR and MET inhibitor molecules in pregnant animals resulted 
 Therefore, based on its mechanism of action and findings in animal models, amivantamab could cause foetal harm when administered to a pregnant woman.
 Amivantamab should not be given during pregnancy unless the benefit of treatment of the woman is considered to outweigh potential risks to the foetus.
 If the patient becomes pregnant while taking this medicinal product the patient should be informed of the potential risk to the foetus (see section 5.3).
+
 Breast-feeding
 It is unknown whether amivantamab is excreted in human milk.
 Human IgGs are known to be excreted in breast milk during the first few days after birth, which is decreasing to low concentrations soon afterwards.

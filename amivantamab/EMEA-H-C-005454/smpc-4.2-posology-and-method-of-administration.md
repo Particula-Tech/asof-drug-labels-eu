@@ -38,9 +38,9 @@ If an interruption is 7 days or less, restart at the current dose.
 If an interruption is longer than 7 days, it is recommended restarting at a reduced dose as presented in Table 3.
 See also specific dose modifications for specific adverse reactions below Table 3.
 
-Table 3: Recommended dose modifications for adverse reactions
+Table 3: Recommended dose reductions for adverse reactions
 
-| Body weight (at baseline) | Initial dose | 1st dose modification | 2nd dose modification | 3rd dose modification |
+| Body weight (at baseline) | Initial dose | Dose after 1st interruption for adverse reaction | Dose after 2nd interruption for adverse reaction | 3rd interruption for adverse reaction |
 | --- | --- | --- | --- | --- |
 | Less than 80 kg | 1,050 mg | 700 mg | 350 mg | Discontinue Rybrevant |
 | Greater than or equal to 80 kg | 1,400 mg | 1,050 mg | 700 mg |  |
@@ -58,10 +58,11 @@ Skin and nail reactions
 If the patient develops a Grade 2 skin or nail reaction, supportive care should be initiated; if there is no improvement after 2 weeks, dose reduction should be considered (see Table 3).
 If the patient develops a Grade 3 skin or nail reaction, supportive care should be initiated, and interruption of Rybrevant should be considered until the adverse reaction improves.
 Upon recovery of the skin or nail reaction to ≤Grade 2, Rybrevant should be resumed at a reduced dose.
-If the patient develops Grade 4 skin reactions (including toxic epidermal necrolysis (TEN)), permanently discontinue Rybrevant (see section 4.4).
-
+If the patient develops Grade 4 skin reactions, permanently discontinue Rybrevant (see section 4.4).
 Interstitial lung disease
-If the patient develops interstitial lung disease (ILD) or ILD-like adverse reactions (e.g., pneumonitis), permanently discontinue Rybrevant (see section 4.4).
+Rybrevant should be withheld if interstitial lung disease (ILD) or ILD-like adverse reactions (pneumonitis) is suspected.
+If the patient is confirmed to have ILD or ILD-like adverse reactions (e.g., pneumonitis), permanently discontinue Rybrevant (see section 4.4).
+
 Recommended concomitant medicinal products
 Prior to infusion (Week 1, Days 1 and 2), antihistamines, antipyretics, and glucocorticoids should be administered to reduce the risk of IRRs (see Table 4).
 For subsequent doses, antihistamines and antipyretics are required to be administered.
@@ -106,7 +107,6 @@ It is administered as an intravenous infusion following dilution with sterile 5%
 Rybrevant must be administered with in-line filtration.
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.
-
 Infusion rates
 Following dilution, the infusion should be administered intravenously at the infusion rates presented in Table 5 below.
 Due to the frequency of IRRs at the first dose, amivantamab should be infused via a peripheral vein at Week 1 and Week 2; infusion via a central line may be administered for subsequent weeks when the risk of IRR is lower (see section 6.6).

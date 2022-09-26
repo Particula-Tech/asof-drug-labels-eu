@@ -19,8 +19,9 @@ Interstitial lung disease
 Interstitial lung disease (ILD) or ILD-like adverse reactions (e.g., pneumonitis) have been reported in patients treated with amivantamab (see section 4.8).
 Patients should be monitored for symptoms indicative of ILD/pneumonitis (e.g., dyspnoea, cough, fever).
 If symptoms develop, treatment with Rybrevant should be interrupted pending investigation of these symptoms.
-Suspected ILD should be evaluated and appropriate treatment should be initiated as necessary.
-Rybrevant should be permanently discontinued in patients with confirmed ILD (see section 4.2).
+Suspected ILD or ILD-like adverse reactions should be evaluated and appropriate treatment should be initiated as necessary.
+Rybrevant should be permanently discontinued in patients with confirmed ILD or ILD-like adverse reactions (see section 4.2).
+
 Skin and nail reactions
 Rash (including dermatitis acneiform), pruritus and dry skin occurred in patients treated with amivantamab (see section 4.8).
 Patients should be instructed to limit sun exposure during and for 2 months after Rybrevant therapy.

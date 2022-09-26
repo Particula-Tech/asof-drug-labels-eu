@@ -26,6 +26,8 @@ Table 6: Adverse reactions in patients receiving amivantamab
 | Hypoalbuminaemiaa (see section 5.1) | Very common | 31 | 2* |
 | Decreased appetite |  | 16 | 0.5* |
 | Hypocalcaemia |  | 10 | 0.3* |
+| Hypokalaemia | Common | 9 | 2 |
+| Hypomagnesaemia |  | 8 | 0 |
 | Nervous system disorders |  |  |  |
 | Dizzinessb | Very common | 13 | 0.3* |
 | Eye disorders |  |  |  |
@@ -80,8 +82,8 @@ Rash (including dermatitis acneiform), pruritus, and dry skin occurred in 76% of
 Most cases were Grade 1 or 2, with Grade 3 rash events occurring in 3% of patients.
 Rash leading to amivantamab discontinuation occurred in 0.3% of patients.
 Rash usually developed within the first 4 weeks of therapy, with a median time to onset of 14 days.
-Paronychia occurred in patients treated with amivantamab.
-Most events were Grade 1 or 2, with Grade 3 paronychia occurring in 1.8% of patients (see section 4.4).
+Nail toxicity occurred in patients treated with amivantamab.
+Most events were Grade 1 or 2, with Grade 3 nail toxicity occurring in 1.8% of patients (see section 4.4).
 
 Eye disorders
 Eye disorders, including keratitis (0.5%), occurred in 9% of patients treated with amivantamab.
