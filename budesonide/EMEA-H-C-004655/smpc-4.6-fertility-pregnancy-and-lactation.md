@@ -11,7 +11,7 @@ Breast-feeding
 
 Budesonide is excreted in human milk (data on excretion after inhalative use is available).
 However, only minor effects on the breast-fed child are anticipated after oral use of Jorveza within the therapeutic range.
-A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from budesonide therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
+A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from Jorveza therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
 
 Fertility
 

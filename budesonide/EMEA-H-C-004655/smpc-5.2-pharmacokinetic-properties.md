@@ -4,7 +4,7 @@ Absorption
 
 Following administration of Jorveza, budesonide is rapidly absorbed.
 Pharmacokinetic data following administration of single doses of 1 mg budesonide to fasted healthy subjects in two different studies show a median lag time of 0.17 hours (range 0.00 - 0.52 hours) and a median time to peak plasma concentration of 1.00 - 1.22 hours (range 0.50 - 2.00 hours).
-The mean peak plasma concentration was 0.44 - 0.49 ng/mL (range 0.18 - 1.05 ng/ml) and the area under the plasma-concentration-time curve (AUC0-∞) was 1.50 - 2.23 hr*ng/mL (range 0.81 - 5.14 hr*ng/ml).
+The mean peak plasma concentration was 0.44 - 0.49 ng/mL (range 0.18 - 1.05 ng/mL) and the area under the plasma-concentration-time curve (AUC0-∞) was 1.50 - 2.23 hr*ng/mL (range 0.81 - 5.14 hr*ng/mL).
 
 Single dose pharmacokinetic data in fasted patients with EoE are available with 4 mg budesonide: Median lag-time was 0.00 hours (range 0.00 – 0.17), median time to peak plasma concentration was 1.00 hour (range 0.67 – 2.00 hours); peak plasma concentration was 2.56 ± 1.36 ng/mL, and AUC0-12 was 8.96 ± 4.21 hr*ng/mL.
 

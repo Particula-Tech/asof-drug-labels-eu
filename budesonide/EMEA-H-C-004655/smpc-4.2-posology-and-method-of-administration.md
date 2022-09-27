@@ -35,6 +35,8 @@ No data are available.
 
 Method of administration
 
+Oral use.
+
 The orodispersible tablet should be taken immediately once removed from the blister package.
 
 The orodispersible tablet should be taken after a meal.
