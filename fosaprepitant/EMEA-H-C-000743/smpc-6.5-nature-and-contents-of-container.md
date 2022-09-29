@@ -3,5 +3,4 @@
 10 ml Type I clear glass vial with a chlorobutyl or bromobutyl rubber stopper and an aluminium seal with a grey plastic flip off cap.
 
 Pack sizes: 1 or 10 vials.
-
 Not all pack sizes may be marketed.

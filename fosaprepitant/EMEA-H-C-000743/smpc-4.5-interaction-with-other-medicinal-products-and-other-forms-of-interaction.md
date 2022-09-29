@@ -37,7 +37,7 @@ Following a single 150 mg fosaprepitant dose, a transient moderate increase for 
 Given the short duration of increased exposure, dose reduction of the immunosuppressant based on Therapeutic Dose Monitoring is not recommended on the day of and the day after administration of IVEMEND.
 
 Midazolam
-Fosaprepitant 150 mg administered as a single intravenous dose on Day 1 increased the AUC0-∞of midazolam by 77 % on Day 1 and had no effect on Day 4 when midazolam was co-administered as a single oral dose of 2 mg on Days 1 and 4.
+Fosaprepitant 150 mg administered as a single intravenous dose on Day 1 increased the AUC0-∞ of midazolam by 77 % on Day 1 and had no effect on Day 4 when midazolam was co-administered as a single oral dose of 2 mg on Days 1 and 4.
 Fosaprepitant 150 mg is a weak CYP3A4 inhibitor as a single dose on Day 1 with no evidence of inhibition or induction of CYP3A4 observed on Day 4.
 
 The potential effects of increased plasma concentrations of midazolam or other benzodiazepines metabolised via CYP3A4 (alprazolam, triazolam) should be considered when co-administering these medicinal products with IVEMEND.

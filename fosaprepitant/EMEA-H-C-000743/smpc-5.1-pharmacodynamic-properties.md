@@ -9,7 +9,7 @@ The pharmacological effect of fosaprepitant is attributed to aprepitant.
 
 1-Day Regimen of Fosaprepitant in Adults
 Highly Emetogenic Chemotherapy (HEC)
-In a randomised, parallel, double-blind, active-controlled study, IVEMEND 150 mg (N=1,147) was compared with a 3-day aprepitant regimen (N=1,175) in adult patients receiving a HEC regimen that included cisplatin (≥70 mg/m2).
+In a randomised, parallel, double-blind, active-controlled study, IVEMEND 150 mg (N=1,147) was compared with a 3-day aprepitant regimen (N=1,175) in adult patients receiving a HEC regimen that included cisplatin (≥ 70 mg/m2).
 The fosaprepitant regimen consisted of fosaprepitant 150 mg on
 Day 1 in combination with ondansetron 32 mg IV on Day 1 and dexamethasone 12 mg on Day 1, 8 mg on Day 2, and 8 mg twice daily on Days 3 and 4.
 The aprepitant regimen consisted of aprepitant 125 mg on Day 1 and 80 mg/day on Days 2 and 3 in combination with ondansetron 32 mg IV on
@@ -55,7 +55,6 @@ On Days 2 and 3, patients in the control group received 8 mg oral ondansetron ev
 Fosaprepitant placebo and dexamethasone placebo (on Day 1) were used to maintain blinding.
 
 The efficacy of fosaprepitant was evaluated based on the primary and secondary endpoints listed in Table 8 and was shown to be superior to the control regimen with regard to complete response in the delayed and overall phases.
-
 Table 8: Percent of adult patients receiving Moderately Emetogenic Chemotherapy responding by treatment group and phase
 
 ENDPOINTS* Fosaprepitant Control P-Value
@@ -100,7 +99,6 @@ Time(hours) Since the First MEC Administration
 
 Paediatric population
 In 3 active-controlled, open-label clinical studies, paediatric patients aged 6 months to 17 years received either highly or moderately emetogenic chemotherapy and a single dose of fosaprepitant at or above the recommended 1-day regimen dose (139 patients) or 3-day regimen (199 patients), in combination with ondansetron with or without dexamethasone.
-
 Paediatric Patients Receiving 1-Day Fosaprepitant Regimen
 The efficacy of the 1-day fosaprepitant regimen in paediatric patients was extrapolated from that demonstrated in adults receiving the 1-day fosaprepitant regimen as described in the 1-Day Regimen of Fosaprepitant in Adults subsection.
 
@@ -108,5 +106,6 @@ The efficacy of a 1-day fosaprepitant regimen in paediatric patients is expected
 
 Paediatric Patients Receiving 3-Day Fosaprepitant Regimen
 The efficacy of the 3-day fosaprepitant regimen in paediatric patients was based on that demonstrated in paediatric patients receiving the 3-day oral aprepitant regimen.
+
 The efficacy of a 3-day fosaprepitant regimen in paediatric patients is expected to be similar to that of the 3-day oral aprepitant regimen.
 See the summary of product characteristics for EMEND capsules and EMEND powder for oral suspension for complete clinical information regarding studies performed with oral aprepitant.

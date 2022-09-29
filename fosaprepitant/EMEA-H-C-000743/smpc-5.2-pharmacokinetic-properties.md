@@ -4,7 +4,7 @@ Fosaprepitant, a prodrug of aprepitant, when administered intravenously is rapid
 Plasma concentrations of fosaprepitant are below quantifiable levels within 30 minutes of the completion of infusion.
 
 Aprepitant after fosaprepitant administration
-Following a single intravenous 150 mg dose of fosaprepitant administered as a 20-minute infusion to healthy adult volunteers, the mean AUC0-∞of aprepitant was 35.0 µg•hr/ml and the mean maximal aprepitant concentration was 4.01 µg/ml.
+Following a single intravenous 150 mg dose of fosaprepitant administered as a 20-minute infusion to healthy adult volunteers, the mean AUC0-∞ of aprepitant was 35.0 µg•hr/ml and the mean maximal aprepitant concentration was 4.01 µg/ml.
 
 Distribution
 Aprepitant is highly protein bound, with a mean of 97 %.
@@ -24,7 +24,6 @@ In vitro studies using human liver microsomes indicate that aprepitant is metabo
 
 All metabolites observed in urine, faeces and plasma following an intravenous 100 mg [14C]- fosaprepitant dose were also observed following an oral dose of [14C]-aprepitant.
 Upon conversion of 245.3 mg of fosaprepitant dimeglumine (equivalent to 150 mg fosaprepitant) to aprepitant, 23.9 mg of phosphoric acid and 95.3 mg of meglumine are liberated.
-
 Elimination
 Aprepitant is not excreted unchanged in urine.
 Metabolites are excreted in urine and via biliary excretion in faeces.
@@ -43,8 +42,8 @@ There are no clinical or pharmacokinetic data in patients with severe hepatic im
 
 Renal impairment: A single 240 mg dose of oral aprepitant was administered to patients with severe renal impairment (CrCl< 30 ml/min) and to patients with end stage renal disease (ESRD) requiring haemodialysis.
 
-In patients with severe renal impairment, the AUC0-∞of total aprepitant (unbound and protein bound) decreased by 21 % and Cmax decreased by 32 %, relative to healthy subjects.
-In patients with ESRD undergoing haemodialysis, the AUC0-∞of total aprepitant decreased by 42 % and Cmax decreased by 32 %.
+In patients with severe renal impairment, the AUC0-∞ of total aprepitant (unbound and protein bound) decreased by 21 % and Cmax decreased by 32 %, relative to healthy subjects.
+In patients with ESRD undergoing haemodialysis, the AUC0-∞ of total aprepitant decreased by 42 % and Cmax decreased by 32 %.
 Due to modest decreases in protein binding of aprepitant in patients with renal disease, the AUC of pharmacologically active unbound aprepitant was not significantly affected in patients with renal impairment compared with healthy subjects.
 Haemodialysis conducted 4 or 48 hours after dosing had no significant effect on the pharmacokinetics of aprepitant; less than 0.2 % of the dose was recovered in the dialysate.
 
@@ -65,11 +64,9 @@ In the 1-day IV fosaprepitant setting, simulated median AUC0-24hr of aprepitant 
 
 Table 10: Pharmacokinetic parameters of aprepitant for 1-day IV fosaprepitant regimen in paediatric patients
 
-Population 1-day IV AUC 0-24 hr. Cmax C24 C48 C72
-dose (ng*hr/mL) (ng/mL) (ng/mL) (ng/mL) (ng/mL)
-
-| 12 - 17 years old | 150 mg | 30,400 | 3,500 | 735 | NR | NR |
+| Population | 1-day IV dose | AUC 0-24 hr. (ng*hr/mL) | Cmax (ng/mL) | C24 (ng/mL) | C48 (ng/mL) | C72 (ng/mL) |
 | --- | --- | --- | --- | --- | --- | --- |
+| 12 - 17 years old | 150 mg | 30,400 | 3,500 | 735 | NR | NR |
 | 6 - < 12 years old | 4 mg/kg | 35,766 | 3,637 | 746 | 227 | 69.2 |
 | 2 - < 6 years old |  | 28,655 | 3,150 | 494 | 108 | 23.5 |
 | 6 months – <2 years old | 5 mg/kg | 30,484 | 3,191 | 522 | 112 | 24.4 |
@@ -79,5 +76,5 @@ NR = Not Reported
 A population pharmacokinetic analysis of aprepitant in paediatric patients (aged 6 months through 17 years) suggests that gender and race have no clinically meaningful effect on the pharmacokinetics of aprepitant.
 
 Relationship between concentration and effect
-Positron emission tomography (PET) imaging studies, using a highly specific NK1 receptor tracer, in healthy young men administered a single intravenous dose of 150 mg fosaprepitant (N=8) demonstrated brain NK1 receptor occupancy of ≥100 % at Tmax, and 24 hours, ≥97 % at 48 hours, and between 41 % and 75 % at 120 hours, following dosing.
+Positron emission tomography (PET) imaging studies, using a highly specific NK1 receptor tracer, in healthy young men administered a single intravenous dose of 150 mg fosaprepitant (N=8) demonstrated brain NK1 receptor occupancy of ≥ 100 % at Tmax, and 24 hours, ≥ 97 % at 48 hours, and between 41 % and 75 % at 120 hours, following dosing.
 Occupancy of brain NK1 receptors, in this study, correlate well with aprepitant plasma concentrations.

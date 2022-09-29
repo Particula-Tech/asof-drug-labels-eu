@@ -1,7 +1,7 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-In clinical studies, various formulations of fosaprepitant have been administered to a total of 2,687 adults including 371 healthy subjects and 2,084 patients, and 199 children and adolescents with chemotherapy induced nausea and vomiting (CINV).
+In clinical studies, various formulations of fosaprepitant have been administered to a total of 2,687 adults including 371 healthy subjects and 2,084 patients, and 299 children and adolescents with chemotherapy induced nausea and vomiting (CINV).
 Since fosaprepitant is converted to aprepitant, those adverse reactions associated with aprepitant are expected to occur with fosaprepitant.
 The safety profile of aprepitant was evaluated in approximately 6,500 adults and 184 children and adolescents.
 
@@ -62,18 +62,17 @@ The adverse reactions profiles in the Multiple-Cycle extension of HEC and MEC st
 
 In an additional active-controlled clinical study in 1,169 adult patients receiving aprepitant and HEC, the adverse reactions profile was generally similar to that seen in the other HEC studies with aprepitant.
 
+Non-CINV studies
 Additional adverse reactions were observed in adult patients treated with aprepitant for post-operative nausea and vomiting (PONV) and a greater incidence than with ondansetron: abdominal pain upper, bowel sounds abnormal, constipation*, dysarthria, dyspnoea, hypoaesthesia, insomnia, miosis, nausea, sensory disturbance, stomach discomfort, sub-ileus*, visual acuity reduced, wheezing.
 *Reported in patients taking a higher dose of aprepitant.
 Fosaprepitant
 In an active-controlled clinical study in adult patients receiving HEC, safety was evaluated for 1,143 patients receiving the 1-day regimen of IVEMEND 150 mg compared to 1,169 patients receiving the 3-day regimen of aprepitant.
 Additionally, in a placebo-controlled clinical trial in adult patients receiving MEC, safety was evaluated for 504 patients receiving a single dose of IVEMEND 150 mg compared to 497 patients receiving the control regimen.
 
-In a pooled analysis of 3 active-controlled clinical studies in paediatric patients (aged 6 months to 17 years) receiving either HEC or MEC and a single dose of IVEMEND at or above the recommended 1-day regimen dose, safety was evaluated for 139 patients receiving the 1-day regimen of IVEMEND.
-In the same analysis, safety was evaluated for 199 patients receiving either HEC or MEC and a single dose of IVEMEND at or above the recommended 3-day regimen of IVEMEND.
-Safety data following the administration of the 3-day IV/oral/oral regimen were also included.
+The safety of the 1-day IV regimen was supported by a pooled analysis of 3 active-controlled clinical studies in 139 paediatric patients (aged 6 months to 17 years) receiving either HEC or MEC and a single dose of IVEMEND at or above the recommended 1-day regimen dose.
 
-No data are available following the administration of a 3-day IV fosaprepitant regimen in paediatric patients.
-The safety profile of the 3-day IV fosaprepitant regimen in paediatric patients is expected to be similar to that of the 1-day fosaprepitant regimen as the low daily trough levels do not significantly increase the exposures on subsequent days.
+The safety of the 3-day IV regimen is supported by a single arm clinical study in 100 paediatric patients (aged 6 months to 17 years) receiving either HEC or MEC and a 3-day regimen of IVEMEND at the recommended dose (see section 4.2).
+The safety profile of the 3-day IV fosaprepitant regimen in paediatric patients is similar to that of the 1-day fosaprepitant regimen.
 
 The safety profile of fosaprepitant in adult and paediatric patients was generally similar to that observed with aprepitant.
 

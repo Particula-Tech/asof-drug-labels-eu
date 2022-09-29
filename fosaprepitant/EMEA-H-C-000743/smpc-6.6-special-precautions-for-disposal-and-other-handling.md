@@ -9,6 +9,7 @@ Inject 5 ml sodium chloride 9 mg/ml (0.9 %) solution for injection into the vial
 Assure that sodium chloride 9 mg/ml (0.9 %) solution for injection is added to the vial along the vial wall in order to prevent foaming.
 Swirl the vial gently.
 Avoid shaking and jetting sodium chloride 9 mg/ml (0.9 %) solution for injection into the vial.
+
 2.
 Prepare an infusion bag filled with 145 ml of sodium chloride 9 mg/ml (0.9 %) solution for injection (for example, by removing 105 ml of sodium chloride 9 mg/ml (0.9 %) solution for injection from a 250 ml sodium chloride 9 mg/ml (0.9 %) solution for injection infusion bag).
 
@@ -24,12 +25,13 @@ The entire volume of the prepared infusion bag (150 ml) should be administered.
 
 Paediatrics
 In patients 12 years and older, the volume to be administered is calculated as follows:
-•Volume to administer (ml) equals the recommended dose (mg)
+
+- Volume to administer (ml) equals the recommended dose (mg)
 
 In patients 6 months to less than 12 years, the volume to be administered is calculated as follows:
-•Volume to administer (ml) = recommended dose (mg/kg) x weight (kg)
 
-- Note: Do not exceed maximum doses (see section 4.2).
+- Volume to administer (ml) = recommended dose (mg/kg) x weight (kg)
+  - Note: Do not exceed maximum doses (see section 4.2).
 
 5.
 If necessary, for volumes less than 150 ml, the calculated volume can be transferred to an appropriate size bag or syringe prior to administration by infusion.
