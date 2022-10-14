@@ -39,7 +39,7 @@ Eltrombopag dose may need to be increased based on these platelet counts.
 Polyvalent cations (chelation)
 
 Eltrombopag chelates with polyvalent cations such as iron, calcium, magnesium, aluminium, selenium and zinc.
-Administration of a single dose of eltrombopag 75 mg with a polyvalent cation-containing antacid (1524 mg aluminium hydroxide and 1425 mg magnesium carbonate) decreased plasma eltrombopag AUC0-∞ by 70% (90% CI: 64%, 76%) and Cmax by 70% (90% CI: 62%, 76%).
+Administration of a single dose of eltrombopag 75 mg with a polyvalent cation-containing antacid (1 524 mg aluminium hydroxide and 1 425 mg magnesium carbonate) decreased plasma eltrombopag AUC0-∞ by 70% (90% CI: 64%, 76%) and Cmax by 70% (90% CI: 62%, 76%).
 Eltrombopag should be taken at least two hours before or four hours after any products such as antacids, dairy products or mineral supplements containing polyvalent cations to avoid significant reduction in eltrombopag absorption due to chelation (see sections 4.2 and 5.2).
 
 Lopinavir/ritonavir

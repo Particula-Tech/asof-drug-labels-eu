@@ -38,13 +38,13 @@ Mannitol (E421)
 Microcrystalline cellulose
 Povidone
 Sodium starch glycolate
-
 Tablet coating
 Hypromellose (E464)
 Iron oxide red (E172)
 Iron oxide yellow (E172)
 Macrogol 400 (E1521)
 Titanium dioxide (E171)
+
 Revolade 75 mg film-coated tablets
 
 Tablet core

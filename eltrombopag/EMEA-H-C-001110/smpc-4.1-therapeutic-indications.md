@@ -1,7 +1,8 @@
 # 4.1 Therapeutic indications
 
-Revolade is indicated for the treatment of patients aged 1 year and above with primary immune thrombocytopenia (ITP) lasting 6 months or longer from diagnosis and who are refractory to other treatments (e.g. corticosteroids, immunoglobulins) (see sections 4.2 and 5.1).
+Revolade is indicated for the treatment of adult patients with primary immune thrombocytopenia (ITP) who are refractory to other treatments (e.g. corticosteroids, immunoglobulins) (see sections 4.2 and 5.1).
 
+Revolade is indicated for the treatment of paediatric patients aged 1 year and above with primary immune thrombocytopenia (ITP) lasting 6 months or longer from diagnosis and who are refractory to other treatments (e.g. corticosteroids, immunoglobulins) (see sections 4.2 and 5.1).
 Revolade is indicated in adult patients with chronic hepatitis C virus (HCV) infection for the treatment of thrombocytopenia, where the degree of thrombocytopenia is the main factor preventing the initiation or limiting the ability to maintain optimal interferon-based therapy (see sections 4.4 and 5.1).
 
 Revolade is indicated in adult patients with acquired severe aplastic anaemia (SAA) who were either refractory to prior immunosuppressive therapy or heavily pretreated and are unsuitable for haematopoietic stem cell transplantation (see section 5.1).

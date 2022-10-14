@@ -28,13 +28,12 @@ The most common adverse reactions occurring in at least 10% of patients included
 Severe aplastic anaemia in adult patients
 
 The safety of Revolade in severe aplastic anaemia was assessed in a single-arm, open-label study (N=43) in which 11 patients (26%) were treated for >6 months and 7 patients (16%) were treated for >1 year (see section 5.1).
-The most important serious adverse reactions were febrile neutropenia and sepsis/infection.
 The most common adverse reactions occurring in at least 10% of patients included headache, dizziness, cough, oropharyngeal pain, rhinorrhoea, nausea, diarrhoea, abdominal pain, transaminases increased, arthralgia, pain in extremity, muscle spasms, fatigue and pyrexia.
 List of adverse reactions
 
-The adverse reactions in the adult ITP studies (N=763), paediatric ITP studies (N=171), the HCV studies (N=1,520), the SAA studies (N=43) and post-marketing reports are listed below by MedDRA system organ class and by frequency.
+The adverse reactions in the adult ITP studies (N=763), paediatric ITP studies (N=171), the HCV studies (N=1 520), the SAA studies (N=43) and post-marketing reports are listed below by MedDRA system organ class and by frequency.
 Within each system organ class, the adverse drug reactions are ranked by frequency, with the most frequent reactions first.
-The corresponding frequency category for each adverse drug reaction is based on the following convention (CIOMS III): very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); not known (cannot be estimated from the available data).
+The corresponding frequency category for each adverse drug reaction is based on the following convention (CIOMS III): very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1 000 to <1/100); rare (≥1/10 000 to <1/1 000); not known (cannot be estimated from the available data).
 
 ITP study population
 
@@ -85,7 +84,6 @@ ITP study population
 ♦ Additional adverse reactions observed in paediatric studies (aged 1 to 17 years).
 † Increase of alanine aminotransferase and aspartate aminotransferase may occur simultaneously, although at a lower frequency.
 ‡ Grouped term with preferred terms acute kidney injury and renal failure
-
 HCV study population (in combination with anti-viral interferon and ribavirin therapy)
 
 | System organ class | Frequency | Adverse reaction |
@@ -112,7 +110,9 @@ HCV study population (in combination with anti-viral interferon and ribavirin th
 |  | Uncommon | Oesophageal varices haemorrhage, gastritis, aphthous stomatitis |
 | Hepatobiliary disorders | Common | Hyperbilirubinaemia, jaundice, drug-induced liver injury |
 |  | Uncommon | Portal vein thrombosis, hepatic failure |
+
 | Skin and subcutaneous tissue disorders | Very common | Pruritus |
+| --- | --- | --- |
 |  | Common | Rash, dry skin, eczema, rash pruritic, erythema, hyperhidrosis, pruritus generalised, alopecia |
 |  | Uncommon | Skin lesion, skin discolouration, skin hyperpigmentation, night sweats |
 | Musculoskeletal and connective tissue disorder | Very common | Myalgia |
@@ -125,6 +125,7 @@ HCV study population (in combination with anti-viral interferon and ribavirin th
 |  | Uncommon | Electrocardiogram QT prolonged |
 
 † Grouped term with preferred terms oliguria, renal failure and renal impairment
+
 SAA study population
 
 | System organ class | Frequency | Adverse reaction |
@@ -137,7 +138,9 @@ SAA study population
 | Eye disorders | Common | Dry eye, cataract, ocular icterus, vision blurred, visual impairment, vitreous floaters |
 | Respiratory, thoracic and mediastinal disorders | Very common | Cough, oropharyngeal pain, rhinorrhoea |
 |  | Common | Epistaxis |
+
 | Gastrointestinal disorders | Very common | Diarrhoea, nausea, gingival bleeding, abdominal pain |
+| --- | --- | --- |
 |  | Common | Oral mucosal blistering, oral pain, vomiting, abdominal discomfort, constipation, abdominal distension, dysphagia, faeces discoloured, swollen tongue, gastrointestinal motility disorder, flatulence |
 | Hepatobiliary disorders | Very common | Transaminases increased |
 |  | Common | Blood bilirubin increased (hyperbilirubinemia), jaundice |
@@ -158,13 +161,13 @@ Thrombotic/thromboembolic events (TEEs)
 In 3 controlled and 2 uncontrolled clinical studies among adult ITP patients receiving eltrombopag (n=446), 17 patients experienced a total of 19 TEEs, which included (in descending order of occurrence) deep vein thrombosis (n=6), pulmonary embolism (n=6), acute myocardial infarction (n=2), cerebral infarction (n=2), embolism (n=1) (see section 4.4).
 
 In a placebo-controlled study (n=288, Safety population), following 2 weeks’ treatment in preparation for invasive procedures, 6 of 143 (4%) adult patients with chronic liver disease receiving eltrombopag experienced 7 TEEs of the portal venous system and 2 of 145 (1%) patients in the placebo group experienced 3 TEEs.
-Five of the 6 patients treated with eltrombopag experienced the TEE at a platelet count >200,000/µl
+Five of the 6 patients treated with eltrombopag experienced the TEE at a platelet count >200 000/µl
 
-No specific risk factors were identified in those patients who experienced a TEE with the exception of platelet counts ≥200,000/µl (see section 4.4).
-In controlled studies in thrombocytopenic patients with HCV (n=1,439), 38 out of 955 patients (4%) treated with eltrombopag experienced a TEE and 6 out of 484 patients (1%) in the placebo group experienced TEEs.
+No specific risk factors were identified in those patients who experienced a TEE with the exception of platelet counts ≥200 000/µl (see section 4.4).
+
+In controlled studies in thrombocytopenic patients with HCV (n=1 439), 38 out of 955 patients (4%) treated with eltrombopag experienced a TEE and 6 out of 484 patients (1%) in the placebo group experienced TEEs.
 Portal vein thrombosis was the most common TEE in both treatment groups (2% in patients treated with eltrombopag versus < 1% for placebo) (see section 4.4).
 Patients with low albumin levels (≤ 35 g/l) or MELD ≥10 had a 2-fold greater risk of TEEs than those with higher albumin levels; those aged ≥60 years had a 2-fold greater risk of TEEs compared to younger patients.
-
 Hepatic decompensation (use with interferon)
 
 Chronic HCV patients with cirrhosis may be at risk of hepatic decompensation when receiving alfa interferon therapy.
@@ -173,7 +176,7 @@ In patients with low albumin levels (≤35 g/l) or MELD score ≥10 at baseline,
 Eltrombopag should only be administered to such patients after careful consideration of the expected benefits in comparison with the risks.
 Patients with these characteristics should be closely monitored for signs and symptoms of hepatic decompensation (see section 4.4).
 
-Hepatotoxixity
+Hepatotoxicity
 
 In the controlled clinical studies in chronic ITP with eltrombopag, increases in serum ALT, AST and bilirubin were observed (see section 4.4).
 
@@ -196,11 +199,11 @@ Increased bone marrow reticulin
 
 Across the programme, no patients had evidence of clinically relevant bone marrow abnormalities or clinical findings that would indicate bone marrow dysfunction.
 In a small number of ITP patients, eltrombopag treatment was discontinued due to bone marrow reticulin (see section 4.4).
+
 Cytogenetic abnormalities
 
 In the phase II refractory SAA clinical study with eltrombopag with a starting dose of 50 mg/day (escalated every 2 weeks to a maximum of 150 mg/day) (ELT112523), the incidence of new cytogenetic abnormalities was observed in 17.1% of adult patients [7/41 (where 4 of them had changes in chromosome 7)].
 The median time on study to a cytogenetic abnormality was 2.9 months.
-
 In the phase II refractory SAA clinical study with eltrombopag at a dose of 150 mg/day (with ethnic or age related modifications as indicated) (ELT116826), the incidence of new cytogenetic abnormalities was observed in 22.6% of adult patients [7/31 (where 3 of them had changes in chromosome 7)].
 All 7 patients had normal cytogenetics at baseline.
 Six patients had cytogenetic abnormality at Month 3 of eltrombopag therapy and one patient had cytogenetic abnormality at Month 6.
@@ -216,6 +219,8 @@ It allows continued monitoring of the benefit/risk balance of the medicinal prod
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [Revolade 25 mg powder for oral suspension]
+
+The adverse reactions in the adult ITP studies (N=763), paediatric ITP studies (N=171), the HCV studies (N=1,520), the SAA studies (N=43) and post-marketing reports are listed below by MedDRA system organ class and by frequency.
 
 ♦ Additional adverse reactions observed in paediatric studies (aged 1to 17 years).
 
@@ -243,18 +248,6 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 |  | Uncomon | Oesophageal varices haemorrhage, gastritis, aphthous stomatitis |
 | Hepatobiliary disorders | Common | Hyperbilirubinaemia, jaundice, drug-induced liver injury |
 |  | Uncommon | Portal vein thrombosis, hepatic failure |
-| Skin and subcutaneous tissue disorders | Very common | Pruritus |
-|  | Common | Rash, dry skin, eczema, rash pruritic, erythema, hyperhidrosis, pruritus generalised, alopecia |
-|  | Uncommon | Skin lesion, skin discolouration, skin hyperpigmentation, night sweats |
-| Musculoskeletal and connective tissue disorder | Very common | Myalgia |
-|  | Common | Arthralgia, muscle spasms, back pain, pain in extremity, musculoskeletal pain, bone pain |
-| Renal and urinary disorders | Uncommon | Thrombotic microangiopathy with acute renal failure†, dysuria |
-| General disorders and administration site conditions | Very common | Pyrexia, fatigue, influenza-like illness, asthenia, chills |
-|  | Common | Irritability, pain, malaise, injection site reaction, non-cardiac chest pain, oedema, oedema peripheral |
-|  | Uncommon | Injection site pruritus, injection site rash, chest discomfort |
-| Investigations | Common | Blood bilirubin increased, weight decreased, white blood cell count decreased, haemoglobin decreased, neutrophil count decreased, international normalised ratio increased, activated partial thromboplastin time prolonged, blood glucose increased, blood albumin decreased |
-|  | Uncommon | Electrocardiogram QT prolonged |
 
-In controlled studies in thrombocytopenic patients with HCV (n=1439), 38 out of 955 patients (4%) treated with eltrombopag experienced a TEE and 6 out of 484 patients (1%) in the placebo group experienced TEEs.
 Portal vein thrombosis was the most common TEE in both treatment groups (2% in patients treated with eltrombopag versus <1% for placebo) (see section 4.4).
 Patients with low albumin levels (≤35 g/l) or MELD ≥10 had a 2-fold greater risk of TEEs than those with higher albumin levels; those aged ≥60 years had a 2-fold greater risk of TEEs compared to younger patients.

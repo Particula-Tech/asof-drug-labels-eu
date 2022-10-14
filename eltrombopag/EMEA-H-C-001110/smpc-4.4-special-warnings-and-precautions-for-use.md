@@ -29,10 +29,10 @@ Eltrombopag should be discontinued if ALT levels increase
 Caution is required when administering eltrombopag to patients with hepatic disease.
 In ITP and SAA patients a lower starting dose of eltrombopag should be used.
 Close monitoring is required when administering to patients with hepatic impairment (see section 4.2).
+
 Hepatic decompensation (use with interferon)
 
 Hepatic decompensation in patients with chronic hepatitis C: Monitoring is required in patients with low albumin levels (≤35 g/l) or with MELD score ≥10 at baseline.
-
 Chronic HCV patients with liver cirrhosis may be at risk of hepatic decompensation when receiving alfa interferon therapy.
 In two controlled clinical studies in thrombocytopenic patients with HCV, hepatic decompensation (ascites, hepatic encephalopathy, variceal haemorrhage, spontaneous bacterial peritonitis) occurred more frequently in the eltrombopag arm (11%) than in the placebo arm (6%).
 In patients with low albumin levels (≤ 35 g/l) or with a MELD score ≥10 at baseline, there was a 3-fold greater risk of hepatic decompensation and an increase in the risk of a fatal adverse event compared to those with less advanced liver disease.
@@ -44,7 +44,8 @@ Eltrombopag should be terminated if antiviral therapy is discontinued for hepati
 
 Thrombotic/thromboembolic complications
 
-In controlled studies in thrombocytopenic patients with HCV receiving interferon-based therapy (n=1,439), 38 out of 955 patients (4%) treated with eltrombopag and 6 out of 484 patients (1%) in the placebo group experienced TEEs.
+In controlled studies in thrombocytopenic patients with HCV receiving interferon-based therapy
+(n=1 439), 38 out of 955 patients (4%) treated with eltrombopag and 6 out of 484 patients (1%) in the placebo group experienced TEEs.
 Reported thrombotic/thromboembolic complications included both venous and arterial events.
 The majority of TEEs were non-serious and resolved by the end of the study.
 Portal vein thrombosis was the most common TEE in both treatment groups (2% in patients treated with eltrombopag versus <1% for placebo).
@@ -55,7 +56,7 @@ Patients should be closely monitored for signs and symptoms of TEE.
 
 The risk of TEEs has been found to be increased in patients with chronic liver disease (CLD) treated with 75 mg eltrombopag once daily for 2 weeks in preparation for invasive procedures.
 Six of 143 (4%) adult patients with CLD receiving eltrombopag experienced TEEs (all of the portal venous system) and two of 145 (1%) patients in the placebo group experienced TEEs (one in the portal venous system and one myocardial infarction).
-Five of the 6 patients treated with eltrombopag experienced the thrombotic complication at a platelet count >200,000/µl and within 30 days of the last dose of eltrombopag.
+Five of the 6 patients treated with eltrombopag experienced the thrombotic complication at a platelet count >200 000/µl and within 30 days of the last dose of eltrombopag.
 Eltrombopag is not indicated for the treatment of thrombocytopenia in patients with chronic liver disease in preparation for invasive procedures.
 
 In eltrombopag clinical studies in ITP thromboembolic events were observed at low and normal platelet counts.
@@ -123,7 +124,7 @@ If new cytogenetic abnormalities are detected, it must be evaluated whether cont
 Ocular changes
 
 Cataracts were observed in toxicology studies of eltrombopag in rodents (see section 5.3).
-In controlled studies in thrombocytopenic patients with HCV receiving interferon therapy (n=1,439), progression of pre-existing baseline cataract(s) or incident cataracts was reported in 8% of the eltrombopag group and 5% of the placebo group.
+In controlled studies in thrombocytopenic patients with HCV receiving interferon therapy (n=1 439), progression of pre-existing baseline cataract(s) or incident cataracts was reported in 8% of the eltrombopag group and 5% of the placebo group.
 Retinal haemorrhages, mostly Grade 1 or 2, have been reported in HCV patients receiving interferon, ribavirin and eltrombopag (2% of the eltrombopag group and 2% of the placebo group.
 Haemorrhages occurred on the surface of the retina (preretinal), under the retina (subretinal), or within the retinal tissue.
 Routine ophthalmologic monitoring of patients is recommended.
