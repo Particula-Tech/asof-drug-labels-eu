@@ -1,7 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Erythropoietic agents, or other agents that may increase the risk of thrombosis, such as hormone replacement therapy, should be used with caution in multiple myeloma patients receiving lenalidomide with dexamethasone (see sections 4.4 and 4.8).
-
 Oral contraceptives
 No interaction study has been performed with oral contraceptives.
 Lenalidomide is not an enzyme inducer.

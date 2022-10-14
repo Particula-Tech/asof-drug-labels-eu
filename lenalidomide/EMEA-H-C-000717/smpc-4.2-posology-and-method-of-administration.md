@@ -38,9 +38,9 @@ Patients may continue lenalidomide and dexamethasone therapy until disease progr
 
 When platelets Recommended course
 Falls to < 25 x 109/L Stop lenalidomide dosing for remainder of cycleª
-Returns to ≥ 50 x 109/L Decrease by one dose level when dosing resumed
+Returns to ≥ 50 x 109/L Decrease by one dose level when dosing
 
-at next cycle ª If Dose limiting toxicity (DLT) occurs on > day15 of a cycle, lenalidomide dosing will be interrupted for at least the remainder of the current 28-day cycle.
+resumed at next cycle ª If Dose limiting toxicity (DLT) occurs on > day15 of a cycle, lenalidomide dosing will be interrupted for at least the remainder of the current 28-day cycle.
 
 - Absolute neutrophil count (ANC) - neutropenia
 
@@ -376,7 +376,7 @@ CBC at least every 7 days
 Returns to ≥ 50 x 109/L Resume lenalidomide at next lower dose level
 
 (dose level -2, -3).
-Do not dose below dose level - 3.
+Do not dose below dose level -3.
 
 - Absolute neutrophil count (ANC) - neutropenia
 
@@ -422,7 +422,7 @@ All indications
 For other Grade 3 or 4 toxicities judged to be related to lenalidomide, treatment should be stopped and only restarted at next lower dose level when toxicity has resolved to ≤ Grade 2 depending on the physician’s discretion.
 
 Lenalidomide interruption or discontinuation should be considered for Grade 2 or 3 skin rash.
-Lenalidomide must be discontinued for angioedema, anaphylactic reaction, Grade 4 rash, exfoliative or bullous rash, or if Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN) or Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) is suspected, and should not be resumed following discontinuation from these reactions.
+Lenalidomide must be discontinued for angioedema, anaphylactic reaction, Grade 4 rash, exfoliative or bullous rash, or if Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN) or Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) is suspected and should not be resumed following discontinuation from these reactions.
 
 Special populations
 
@@ -513,13 +513,12 @@ Follicular lymphoma
 | Renal function (CLcr) | Dose adjustment (days 1 to 21 of repeated 28-day cycles) |
 | --- | --- |
 | Moderate renal impairment (30 ≤ CLcr < 60 mL/min) | 10 mg once daily1, 2 |
-| Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis) | No data available3 |
-| End Stage Renal Disease (ESRD) (CLcr < 30 mL/min, requiring dialysis) | No data available3 |
+| Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis) | 5 mg once daily |
+| End Stage Renal Disease (ESRD) (CLcr < 30 mL/min, requiring dialysis) | 5 mg once daily. On dialysis days, the dose should be administered following dialysis. |
 
 ¹ The dose may be escalated to 15 mg once daily after 2 cycles if the patient has tolerated therapy.
 2 For patients on a starting dose of 10 mg, in case of dose reduction to manage Grade 3 or 4 neutropenia or thrombocytopenia, or other Grade 3 or 4.
 Toxicity judged to be related to lenalidomide do not dose below 5 mg every other day or 2.5 mg once daily.
-3 Patients with severe renal impairment or ESRD were excluded from study.
 
 After initiation of lenalidomide therapy, subsequent lenalidomide dose modification in renally impaired patients should be based on individual patient treatment tolerance, as described above.
 

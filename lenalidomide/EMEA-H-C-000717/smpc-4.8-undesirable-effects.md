@@ -22,6 +22,7 @@ In the SWOG S0777 study, the serious adverse reactions observed more frequently 
 - Hypotension (6.5%), lung infection (5.7%), dehydration (5.0%)
 
 The adverse reactions observed more frequently with lenalidomide in combination with bortezomib and dexamethasone than with lenalidomide in combination with dexamethasone were: Fatigue (73.7%), peripheral neuropathy (71.8%), thrombocytopenia (57.6%), constipation (56.1%), hypocalcaemia (50.0%).
+
 Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with low dose dexamethasone
 The serious adverse reactions observed more frequently (≥5%) with lenalidomide in combination with low dose dexamethasone (Rd and Rd18) than with melphalan, prednisone and thalidomide (MPT) were:
 
@@ -61,6 +62,7 @@ Serious adverse reactions include:
 - Grade 3 or 4 neutropenia, febrile neutropenia and Grade 3 or 4 thrombocytopenia (see section 4.4).
 
 The most commonly observed adverse reactions which occurred more frequently in the lenalidomide groups compared to the control arm in the phase 3 study were neutropenia (76.8%), thrombocytopenia (46.4%), diarrhoea (34.8%), constipation (19.6%), nausea (19.6%), pruritus (25.4%), rash (18.1%), fatigue (18.1%) and muscle spasms (16.7%).
+
 Mantle cell lymphoma
 The overall safety profile of lenalidomide in patients with mantle cell lymphoma is based on data from 254 patients from a phase 2 randomised, controlled study MCL-002 (see section 5.1).
 Additionally, adverse drug reactions from supportive study MCL-001 have been included in table 3.
@@ -103,6 +105,7 @@ Adverse reactions have been included under the appropriate category in the table
 Tabulated summary for monotherapy in MM
 The following table is derived from data gathered during NDMM studies in patients who have undergone ASCT treated with lenalidomide maintenance.
 The data were not adjusted according to the longer duration of treatment in the lenalidomide-containing arms continued until disease progression versus the placebo arms in the pivotal multiple myeloma studies (see section 5.1).
+
 Table 1.
 ADRs reported in clinical trials in patients with multiple myeloma treated with lenalidomide maintenance therapy
 
@@ -118,7 +121,8 @@ ADRs reported in clinical trials in patients with multiple myeloma treated with 
 | Gastrointestinal Disorders | Very Common Diarrhoea, Constipation, Abdominal pain, Nausea Common Vomiting, Abdominal pain upper | Common Diarrhoea, Vomiting, Nausea |
 | Hepatobiliary Disorders | Very Common Abnormal liver function tests | Common Abnormal liver function tests |
 | Skin and Subcutaneous Tissue Disorders | Very Common Rash, Dry skin | Common Rash, Pruritus |
-| Musculoskeletal and Connective Tissue Disorders | Very Common Muscle spasms Common Myalgia, Musculoskeletal pain |  |
+| Musculoskeletal and Connective Tissue Disorders | Very Common Muscle spasms Common |  |
+|  | Myalgia, Musculoskeletal pain |  |
 | General Disorders and Administration Site Conditions | Very Common Fatigue, Asthenia, Pyrexia | Common Fatigue, Asthenia |
 
 ◊ Adverse reactions reported as serious in clinical trials in patients with NDMM who had undergone ASCT
@@ -136,27 +140,21 @@ ADRs reported in clinical studies in patients with multiple myeloma treated with
 | --- | --- | --- |
 | Infections and Infestations | Very Common Pneumonia◊,◊◊, Upper respiratory tract infection◊, Bacterial, viral and fungal infections (including opportunistic infections)◊, Nasopharyngitis, Pharyngitis, Bronchitis◊, Rhinitis Common Sepsis◊,◊◊, Lung infection◊◊, Urinary tract infection◊◊, Sinusitis◊ | Common Pneumonia◊,◊◊, Bacterial, viral and fungal infections (including opportunistic infections)◊, Cellulitis◊, Sepsis◊,◊◊, Lung infection◊◊, Bronchitis◊, Respiratory tract infection◊◊, Urinary tract infection◊◊, Enterocolitis infectious |
 | Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) | Uncommon Basal cell carcinoma^,◊, Squamous skin cancer^,◊,* | Common Acute myeloid leukaemia◊, Myelodysplastic syndrome◊, Squamous cell carcinoma of skin^,◊,** Uncommon T-cell type acute leukaemia◊, Basal cell carcinoma^,◊, Tumour lysis syndrome |
-| Blood and Lymphatic System Disorders | Very Common Neutropenia^,◊,◊◊, Thrombocytopenia^,◊,◊◊, Anaemia◊, Haemorrhagic disorder^, Leucopenia, Lymphopenia | Very Common Neutropenia^,◊,◊◊, Thrombocytopenia^,◊,◊◊, Anaemia◊, Leucopenia, Lymphopenia |
-|  | Common Febrile neutropenia^,◊, Pancytopenia◊ Uncommon Haemolysis, Autoimmune haemolytic anaemia, Haemolytic anaemia | Common Febrile neutropenia^,◊, Pancytopenia◊, Haemolytic anaemia Uncommon Hypercoagulation, Coagulopathy |
+| Blood and Lymphatic System Disorders | Very Common Neutropenia^,◊,◊◊, Thrombocytopenia^,◊,◊◊, Anaemia◊, Haemorrhagic disorder^, Leucopenia, Lymphopenia Common Febrile neutropenia^,◊, Pancytopenia◊ Uncommon Haemolysis, Autoimmune haemolytic anaemia, Haemolytic anaemia | Very Common Neutropenia^,◊,◊◊, Thrombocytopenia^,◊,◊◊, Anaemia◊, Leucopenia, Lymphopenia Common Febrile neutropenia^,◊, Pancytopenia◊, Haemolytic anaemia Uncommon Hypercoagulation, Coagulopathy |
 | Immune System Disorders | Uncommon Hypersensitivity^ |  |
 | Endocrine Disorders | Common Hypothyroidism |  |
 | Metabolism and Nutrition Disorders | Very Common Hypokalaemia◊,◊◊, Hyperglycaemia, Hypoglycaemia, Hypocalcaemia◊, Hyponatraemia◊, Dehydration◊◊, Decreased appetite◊◊, Weight decreased Common Hypomagnesaemia, Hyperuricaemia, Hypercalcaemia+ | Common Hypokalaemia◊,◊◊, Hyperglycaemia, Hypocalcaemia◊, Diabetes mellitus◊, Hypophosphataemia, Hyponatraemia◊, Hyperuricaemia, Gout, Dehydration◊◊, Decreased appetite◊◊, Weight decreased |
 | Psychiatric Disorders | Very Common Depression, Insomnia Uncommon Loss of libido | Common Depression, Insomnia |
-| Nervous System Disorders | Very Common Peripheral neuropathies◊◊, Paraesthesia, Dizziness◊◊, Tremor, Dysgeusia, Headache | Very Common Peripheral neuropathies◊◊ |
-|  | Common Ataxia, Balance impaired, Syncope◊◊, Neuralgia, Dysaesthesia | Common Cerebrovascular accident◊, Dizziness◊◊, Syncope◊◊, Neuralgia Uncommon Intracranial haemorrhage^, Transient ischaemic attack, Cerebral ischemia |
-| Eye Disorders | Very Common Cataracts, Blurred vision | Common Cataract |
-|  | Common Reduced visual acuity | Uncommon Blindness |
+| Nervous System Disorders | Very Common Peripheral neuropathies◊◊, Paraesthesia, Dizziness◊◊, Tremor, Dysgeusia, Headache Common Ataxia, Balance impaired, Syncope◊◊, Neuralgia, Dysaesthesia | Very Common Peripheral neuropathies◊◊ Common Cerebrovascular accident◊, Dizziness◊◊, Syncope◊◊, Neuralgia Uncommon Intracranial haemorrhage^, Transient ischaemic attack, Cerebral ischemia |
+| Eye Disorders | Very Common Cataracts, Blurred vision Common Reduced visual acuity | Common Cataract Uncommon Blindness |
 | Ear and Labyrinth Disorders | Common Deafness (Including Hypoacusis), Tinnitus |  |
 | Cardiac Disorders | Common Atrial fibrillation◊,◊◊, Bradycardia Uncommon Arrhythmia, QT prolongation, Atrial flutter, Ventricular extrasystoles | Common Myocardial infarction (including acute)^,◊, Atrial fibrillation◊,◊◊, Congestive cardiac failure◊, Tachycardia, Cardiac failure◊,◊◊, Myocardial ischemia◊ |
-| Vascular Disorders | Very Common Venous thromboembolic events^, predominantly deep vein thrombosis and pulmonary embolism^,◊,◊◊, Hypotension◊◊ | Very Common Venous thromboembolic events^, predominantly deep vein thrombosis and pulmonary embolism^,◊,◊◊ |
-|  | Common Hypertension, Ecchymosis^ | Common Vasculitis, Hypotension◊◊, Hypertension Uncommon Ischemia, Peripheral ischemia, Intracranial venous sinus thrombosis |
+| Vascular Disorders | Very Common Venous thromboembolic events^, predominantly deep vein thrombosis and pulmonary embolism^,◊,◊◊, Hypotension◊◊ Common Hypertension, Ecchymosis^ | Very Common Venous thromboembolic events^, predominantly deep vein thrombosis and pulmonary embolism^,◊,◊◊ Common Vasculitis, Hypotension◊◊, Hypertension Uncommon Ischemia, Peripheral ischemia, Intracranial venous sinus thrombosis |
 | Respiratory, Thoracic and Mediastinal Disorders | Very Common Dyspnoea◊,◊◊, Epistaxis^, Cough Common Dysphonia | Common Respiratory distress◊, Dyspnoea◊,◊◊, Pleuritic pain◊◊, Hypoxia◊◊ |
 | Gastrointestinal Disorders | Very Common Diarrhoea◊,◊◊, Constipation◊, Abdominal pain◊◊, Nausea, Vomiting,◊◊, Dyspepsia, Dry mouth, Stomatitis Common Gastrointestinal haemorrhage (including rectal haemorrhage, haemorrhoidal haemorrhage, peptic ulcer haemorrhage and gingival bleeding)^ ,◊◊, Dysphagia Uncommon Colitis, Caecitis | Common Gastrointestinal haemorrhage^,◊,◊◊, Small intestinal obstruction◊◊, Diarrhoea◊◊, Constipation◊, Abdominal pain◊◊, Nausea, Vomiting◊◊ |
 | Hepatobiliary Disorders | Very Common Alanine aminotransferase increased, Aspartate aminotransferase increased Common Hepatocellular injury◊◊, Abnormal liver function tests◊, Hyperbilirubinaemia Uncommon Hepatic failure^ | Common Cholestasis◊, Hepatotoxicity, Hepatocellular injury◊◊, Alanine aminotransferase increased, Abnormal liver function tests◊ Uncommon Hepatic failure^ |
-| Skin and Subcutaneous Tissue Disorders | Very Common Rashes◊◊, Pruritus | Common Rashes◊◊ |
-|  | Common Urticaria, Hyperhidrosis, Dry skin, Skin hyperpigmentation, Eczema, Erythema Uncommon Drug rash with eosinophilia and systemic symptoms◊◊, Skin discolouration, Photosensitivity reaction | Uncommon Drug rash with eosinophilia and systemic symptoms◊◊ |
-| Musculoskeletal and Connective Tissue Disorders | Very Common Muscular weakness◊◊, Muscle spasms, Bone pain◊, Musculoskeletal and connective tissue pain and discomfort (including back pain◊,◊◊), Pain in extremity, Myalgia, Arthralgia◊ | Common Muscular weakness◊◊, Bone pain◊, Musculoskeletal and connective tissue pain and discomfort (including back pain◊,◊◊) |
-|  | Common Joint swelling | Uncommon Joint swelling |
+| Skin and Subcutaneous Tissue Disorders | Very Common Rashes◊◊, Pruritus Common Urticaria, Hyperhidrosis, Dry skin, Skin hyperpigmentation, Eczema, Erythema Uncommon Drug rash with eosinophilia and systemic symptoms◊◊, Skin discolouration, Photosensitivity reaction | Common Rashes◊◊ Uncommon Drug rash with eosinophilia and systemic symptoms◊◊ |
+| Musculoskeletal and Connective Tissue Disorders | Very Common Muscular weakness◊◊, Muscle spasms, Bone pain◊, Musculoskeletal and connective tissue pain and discomfort (including back pain◊,◊◊), Pain in extremity, Myalgia, Arthralgia◊ Common Joint swelling | Common Muscular weakness◊◊, Bone pain◊, Musculoskeletal and connective tissue pain and discomfort (including back pain◊,◊◊) Uncommon Joint swelling |
 | Renal and Urinary Disorders | Very Common Renal failure (including acute)◊ ,◊◊ Common Haematuria^, Urinary retention, Urinary incontinence Uncommon Acquired Fanconi syndrome | Uncommon Renal tubular necrosis |
 | Reproductive System and Breast Disorders | Common Erectile dysfunction |  |
 | General Disorders and Administration Site Conditions | Very Common Fatigue◊,◊◊, Oedema (including peripheral oedema), Pyrexia◊,◊◊, Asthenia, Influenza like illness syndrome (including pyrexia, cough, myalgia, musculoskeletal pain, headache and rigors) Common Chest pain◊,◊◊, Lethargy | Very Common Fatigue◊,◊◊ Common Oedema peripheral, Pyrexia◊,◊◊, Asthenia |
@@ -165,8 +163,7 @@ ADRs reported in clinical studies in patients with multiple myeloma treated with
 
 ◊◊Adverse reactions reported as serious in clinical trials in patients with NDMM who had received lenalidomide in combination with bortezomib and dexamethasone
 ^See section 4.8 description of selected adverse reactions
-◊ Adverse reactions reported as serious in clinical trials in patients with multiple myeloma treated with lenalidomide in combination with dexamethasone, or with melphalan and prednisone
-+ Applies to serious adverse drug reactions only
+◊ Adverse reactions reported as serious in clinical trials in patients with multiple myeloma treated with lenalidomide in combination with dexamethasone, or with melphalan and prednisone + Applies to serious adverse drug reactions only
 * Squamous skin cancer was reported in clinical trials in previously treated myeloma patients with lenalidomide/dexamethasone compared to controls ** Squamous cell carcinoma of skin was reported in a clinical trial in newly diagnosed myeloma patients with lenalidomide/dexamethasone compared to controls
 
 Tabulated summary from monotherapy
@@ -217,8 +214,7 @@ ADRs reported in clinical trials in patients with mantle cell lymphoma treated w
 | --- | --- | --- |
 | Infections and Infestations | Very Common Bacterial, viral and fungal infections (including opportunistic infections)◊, Nasopharyngitis, Pneumonia◊ Common Sinusitis | Common Bacterial, viral and fungal infections (including opportunistic infections)◊, Pneumonia◊ |
 | Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) | Common Tumour flare reaction | Common Tumour flare reaction, Squamous skin cancer^,◊, Basal cell carcinoma^,◊ |
-| Blood and Lymphatic System Disorders | Very Common Thrombocytopenia^, Neutropenia^,◊, Leucopenia◊, Anaemia◊ | Very Common Thrombocytopenia^, Neutropenia^,◊, Anaemia◊ |
-|  | Common Febrile neutropenia^,◊ | Common Febrile neutropenia^,◊, Leucopenia◊ |
+| Blood and Lymphatic System Disorders | Very Common Thrombocytopenia^, Neutropenia^,◊, Leucopenia◊, Anaemia◊ Common Febrile neutropenia^,◊ | Very Common Thrombocytopenia^, Neutropenia^,◊, Anaemia◊ Common Febrile neutropenia^,◊, Leucopenia◊ |
 | Metabolism and Nutrition Disorders | Very Common Decreased appetite, Weight decreased, Hypokalaemia Common Dehydration◊ | Common Dehydration◊, Hyponatraemia, Hypocalcaemia |
 | Psychiatric Disorders | Common Insomnia |  |
 | Nervous System Disorders | Common Dysgeuesia, Headache, neuropathy peripheral | Common Peripheral sensory neuropathy, Lethargy |
@@ -246,6 +242,7 @@ ADRs reported in clinical trials in patients with mantle cell lymphoma treated w
 
 Tabulated summary for combination therapy in FL
 The following table is derived from data gathered during the main studies (NHL-007 and NHL-008) using lenalidomide in combination with rituximab for patients with follicular lymphoma.
+
 Table 5: ADRs reported in clinical trials in patients with follicular lymphoma treated with lenalidomide in combination with rituximab
 
 | System Organ Class / Preferred Term | All ADRs/Frequency | Grade 3−4 ADRs/Frequency |
@@ -312,7 +309,6 @@ Lenalidomide is structurally related to thalidomide.
 Thalidomide is a known human teratogenic active substance that causes severe life-threatening birth defects.
 In monkeys, lenalidomide induced malformations similar to those described with thalidomide (see sections 4.6 and 5.3).
 If lenalidomide is taken during pregnancy, a teratogenic effect of lenalidomide in humans is expected.
-
 Neutropenia and thrombocytopenia
 
 - Newly diagnosed multiple myeloma: patients who have undergone ASCT treated with lenalidomide maintenance
@@ -388,7 +384,6 @@ Patients with a history of severe rash associated with thalidomide treatment sho
 
 Second primary malignancies
 In clinical trials in previously treated myeloma patients with lenalidomide/dexamethasone compared to controls, mainly comprising of basal cell or squamous cell skin cancers.
-
 Acute myeloid leukaemia
 
 - Multiple myeloma
@@ -433,7 +428,6 @@ For study NHL-007 no patients had to discontinue lenalidomide/rituximab therapy 
 Gastrointestinal disorders
 Gastrointestinal perforations have been reported during treatment with lenalidomide.
 Gastrointestinal perforations may lead to septic complications and may be associated with fatal outcome.
-
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.

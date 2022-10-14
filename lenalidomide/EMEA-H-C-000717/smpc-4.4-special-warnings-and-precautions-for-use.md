@@ -82,7 +82,7 @@ These pregnancy tests should be performed on the day of the prescribing visit or
 Additional precautions
 Patients should be instructed never to give this medicinal product to another person and to return any unused capsules to their pharmacist at the end of treatment for safe disposal.
 
-Patients should not donate blood during therapy or for at least 7 days following discontinuation of lenalidomide.
+Patients should not donate blood, semen or sperm during treatment (including during dose interruptions) and for at least 7 days following discontinuation of lenalidomide.
 
 Healthcare professionals and caregivers should wear disposable gloves when handling the blister or capsule.
 Women who are pregnant or suspect they may be pregnant should not handle the blister or capsule (see section 6.6).
@@ -166,6 +166,7 @@ Grade 3 or 4 thrombocytopenia was observed at a higher frequency in the RVd arm 
 
 Grade 4 neutropenia was observed in the lenalidomide arms in combination with dexamethasone to a lesser extent than in the comparator arm (8.5% in the Rd [continuous treatment] and Rd18 [treatment for 18 four-week cycles] compared with 15% in the melphalan/prednisone/thalidomide arm, see section 4.8).
 Grade 4 febrile neutropenia episodes were consistent with the comparator arm (0.6 % in the Rd and Rd18 lenalidomide/dexamethasone-treated patients compared with 0.7% in the melphalan/prednisone/thalidomide arm, see section 4.8).
+
 Grade 3 or 4 thrombocytopenia was observed to a lesser extent in the Rd and Rd18 arms than in the comparator arm (8.1% vs 11.1%, respectively).
 
 - Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with melphalan and prednisone
@@ -207,6 +208,7 @@ There was no increase in peripheral neuropathy observed with lenalidomide in com
 The combination of lenalidomide with intravenous bortezomib and dexamethasone in multiple myeloma patients is associated with a higher frequency of peripheral neuropathy.
 The frequency was lower when bortezomib was administered subcutaneously.
 For additional information, see Section 4.8 and the SmPC for bortezomib.
+
 Tumour flare reaction and tumour lysis syndrome
 Because lenalidomide has anti-neoplastic activity, the complications of tumour lysis syndrome (TLS) may occur.
 Cases of TLS and tumour flare reaction (TFR), including fatal cases, have been reported (see section 4.8).
@@ -257,6 +259,7 @@ Lenalidomide must be discontinued for angioedema, anaphylactic reaction, exfolia
 Interruption or discontinuation of lenalidomide should be considered for other forms of skin reaction depending on severity.
 Patients who had previous allergic reactions while treated with thalidomide should be monitored closely, as a possible cross-reaction between lenalidomide and thalidomide has been reported in the literature.
 Patients with a history of severe rash associated with thalidomide treatment should not receive lenalidomide.
+
 Lactose intolerance
 Revlimid capsules contain lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
@@ -292,6 +295,7 @@ Progression to acute myeloid leukaemia in low- and intermediate-1-risk MDS
 Baseline variables including complex cytogenetics are associated with progression to AML in subjects who are transfusion dependent and have a Del (5q) abnormality.
 In a combined analysis of two clinical trials of lenalidomide in low- or intermediate-1-risk myelodysplastic syndromes, subjects who had a complex cytogenetics had the highest estimated 2-year cumulative risk of progression to AML (38.6%).
 The estimated 2-year rate of progression to AML in patients with an isolated Del (5q) abnormality was 13.8%, compared to 17.3% for patients with Del (5q) and one additional cytogenetic abnormality.
+
 As a consequence, the benefit/risk ratio of lenalidomide when MDS is associated with Del (5q) and complex cytogenetics is unknown.
 
 - TP53 status
@@ -329,7 +333,6 @@ A higher rate of infections was observed with lenalidomide in combination with d
 Grade ≥ 3 infections occurred within the context of neutropenia in less than one-third of the patients.
 Patients with known risk factors for infections should be closely monitored.
 All patients should be advised to seek medical attention promptly at the first sign of infection (eg, cough, fever, etc) thereby allowing for early management to reduce severity.
-
 Viral reactivation
 Cases of viral reactivation have been reported in patients receiving lenalidomide, including serious cases of herpes zoster or hepatitis B virus (HBV) reactivation.
 

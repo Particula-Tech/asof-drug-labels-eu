@@ -36,13 +36,13 @@ The contribution of renal excretion to total clearance in subjects with normal r
 Lenalidomide is poorly metabolized as 82% of the dose is excreted unchanged in urine.
 Hydroxy-lenalidomide and N-acetyl-lenalidomide represent 4.59% and 1.83% of the excreted dose, respectively.
 The renal clearance of lenalidomide exceeds the glomerular filtration rate and therefore is at least actively secreted to some extent.
-
 At doses of 5 to 25 mg/day, half-life in plasma is approximately 3 hours in healthy volunteers and ranges from 3 to 5 hours in patients with multiple myeloma, myelodysplastic syndromes or mantle cell lymphoma.
 
 Older people
 No dedicated clinical studies have been conducted to evaluate pharmacokinetics of lenalidomide in the elderly.
 Population pharmacokinetic analyses included patients with ages ranging from 39 to 85 years old and indicate that age does not influence lenalidomide clearance (exposure in plasma).
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it would be prudent to monitor renal function.
+
 Renal impairment
 The pharmacokinetics of lenalidomide was studied in subjects with renal impairment due to nonmalignant conditions.
 In this study, two methods were used to classify renal function: the urinary creatinine clearance measured over 24 hours and the creatinine clearance estimated by Cockcroft-Gault formula.
