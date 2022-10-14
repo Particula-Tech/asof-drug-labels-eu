@@ -161,6 +161,7 @@ Dose (mg) Number of syringes Number of injections Total injection volume (ml)
 
 Patients with no known history of anaphylaxis may self-inject Xolair or be injected by a caregiver from the 4th dose onwards if a physician determines that this is appropriate (see section 4.4).
 The patient or the caregiver must have been trained in the correct injection technique and the recognition of the early signs and symptoms of serious allergic reactions.
+
 Patients or caregivers should be instructed to inject the full amount of Xolair according to the instructions provided in the package leaflet.
 
 [Xolair 150 mg solution for injection in pre-filled syringe]

@@ -139,11 +139,10 @@ Table 6 Demographics and baseline characteristics of nasal polyp studies
 
 SD = standard deviation; SNOT-22 = Sino-Nasal Outcome Test 22 Questionnaire; IgE = Immunoglobulin E; IU = international units.
 For NPS, NCS, and SNOT-22 higher scores indicate greater disease severity.
+
 The co-primary endpoints were bilateral nasal polyps score (NPS) and average daily nasal congestion score (NCS) at Week 24.
 In both nasal polyp studies 1 and 2, patients who received Xolair had statistically significant greater improvements from baseline at Week 24 in NPS and weekly average NCS than patients who received placebo.
-Results from nasal polyp studies 1 and 2 are shown in
-Table 7.
-
+Results from nasal polyp studies 1 and 2 are shown in Table 7.
 Table 7 Change from baseline at Week 24 in clinical scores from nasal polyp study 1, nasal polyp study 2, and pooled data
 
 Nasal polyp Nasal polyp Nasal polyp
@@ -220,6 +219,10 @@ In a pre-specified pooled analysis of rescue treatment (systemic corticosteroids
 The odds-ratio of having taken rescue treatment in Xolair compared to placebo was 0.38 (95% CI: 0.10, 1.49).
 There were no sino-nasal surgeries reported in either study.
 
+The long-term efficacy and safety of Xolair in patients with CRSwNP who had participated in nasal polyp studies 1 and 2 was assessed in an open-label extension study.
+Efficacy data from this study suggest that clinical benefit provided at Week 24 was sustained through to Week 52.
+Safety data were overall consistent with the known safety profile of omalizumab.
+
 [Xolair 150 mg powder and solvent for solution for injection]
 
 Allergic asthma and chronic rhinosinusitis with nasal polyps (CRSwNP)
@@ -244,8 +247,7 @@ Demographics and baseline characteristics, including allergic comorbidities, are
 
 Table 7 Demographics and baseline characteristics of nasal polyp studies
 
-Table 8.
-
+Results from nasal polyp studies 1 and 2 are shown in Table 8.
 Table 8 Change from baseline at Week 24 in clinical scores from nasal polyp study 1, nasal polyp study 2, and pooled data
 
 The efficacy and safety of Xolair were demonstrated in two randomised, placebo-controlled phase III studies (study 1 and 2) in patients with CSU who remained symptomatic despite H1 antihistamine therapy at the approved dose.
