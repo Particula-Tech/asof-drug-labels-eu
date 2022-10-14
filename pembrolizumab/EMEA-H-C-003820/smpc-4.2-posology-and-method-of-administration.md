@@ -91,8 +91,8 @@ No dose adjustment is needed for patients with mild or moderate renal impairment
 KEYTRUDA has not been studied in patients with severe renal impairment (see sections 4.4 and 5.2).
 
 Hepatic impairment
-No dose adjustment is needed for patients with mild hepatic impairment.
-KEYTRUDA has not been studied in patients with moderate or severe hepatic impairment (see sections 4.4 and 5.2).
+No dose adjustment is needed for patients with mild or moderate hepatic impairment.
+KEYTRUDA has not been studied in patients with severe hepatic impairment (see sections 4.4 and 5.2).
 
 Paediatric population
 The safety and efficacy of KEYTRUDA in children below 18 years of age have not been established except in paediatric patients with melanoma or cHL.

@@ -53,8 +53,8 @@ Table 3: Efficacy results in KEYNOTE-006
 | Median in months (95% CI) | 4.1 (2.9, 7.2) | 5.6 (3.4, 8.2) | 2.8 (2.8, 2.9) |
 | Best objective response |  |  |  |
 | ORR % (95% CI) | 36% (30, 42) | 37% (31, 43) | 13% (10, 18) |
-| Complete response % | 13% | 12% | 5% |
-| Partial response % | 23% | 25% | 8% |
+| Complete response | 13% | 12% | 5% |
+| Partial response | 23% | 25% | 8% |
 | Response duration‡ |  |  |  |
 | Median in months (range) | Not reached (2.0, 22.8+) | Not reached (1.8, 22.8+) | Not reached (1.1+, 23.8+) |
 | % ongoing at 18 months | 68%§ | 71%§ | 70%§ |
@@ -164,8 +164,8 @@ Table 4: Efficacy results in KEYNOTE-002
 | Median in months (95% CI) | 13.4 (11.0, 16.4) | 14.7 (11.3, 19.5) | 11.0 (8.9, 13.8) |
 | Best objective response |  |  |  |
 | ORR % (95% CI) | 22% (16, 29) | 28% (21, 35) | 5% (2, 9) |
-| Complete response % | 3% | 7% | 0% |
-| Partial response % | 19% | 20% | 5% |
+| Complete response | 3% | 7% | 0% |
+| Partial response | 19% | 20% | 5% |
 | Response duration§ |  |  |  |
 | Median in months (range) | 22.8 (1.4+, 25.3+) | Not reached (1.1+, 28.3+) | 6.8 (2.8, 11.3) |
 | % ongoing at 12 months | 73% ¶ | 79% ¶ | 0% ¶ |
@@ -481,8 +481,8 @@ Table 12: Efficacy results in KEYNOTE-024
 | Median in months (95% CI) | 30.0 (18.3, NA) | 14.2 (9.8, 19.0) |
 | Objective response rate |  |  |
 | ORR % (95% CI) | 45% (37, 53) | 28% (21, 36) |
-| Complete response % | 4% | 1% |
-| Partial response % | 41% | 27% |
+| Complete response | 4% | 1% |
+| Partial response | 41% | 27% |
 | Response duration‡ |  |  |
 | Median in months (range) | Not reached (1.9+, 14.5+) | 6.3 (2.1+, 12.6+) |
 | % with duration ≥ 6 months | 88%§ | 59% ¶ |
@@ -597,8 +597,8 @@ Table 13: Efficacy results (PD-L1 TPS ≥ 50%) in KEYNOTE-042
 | Median in months (95% CI) | 6.5 (5.9, 8.5) | 6.4 (6.2, 7.2) |
 | Objective response rate |  |  |
 | ORR % (95% CI) | 39% (34, 45) | 32% (27, 38) |
-| Complete response % | 1% | 0.3% |
-| Partial response % | 38% | 32% |
+| Complete response | 1% | 0.3% |
+| Partial response | 38% | 32% |
 | Response duration‡ |  |  |
 | Median in months (range) | 22.0 (2.1+, 36.5+) | 10.8 (1.8+, 30.4+) |
 | % with duration ≥ 18 months | 57% | 34% |
@@ -648,8 +648,8 @@ Table 14: Efficacy results in KEYNOTE-189
 | Median in months (95% CI) | 9.0 (8.1, 10.4) | 4.9 (4.7, 5.5) |
 | Objective response rate |  |  |
 | ORR§ % (95% CI) | 48% (43, 53) | 20% (15, 26) |
-| Complete response % | 1.2% | 0.5% |
-| Partial response % | 47% | 19% |
+| Complete response | 1.2% | 0.5% |
+| Partial response | 47% | 19% |
 | p-Value¶ | < 0.0001 |  |
 | Response duration |  |  |
 | Median in months (range) | 12.5 (1.1+, 34.9+) | 7.1 (2.4, 27.8+) |
@@ -729,22 +729,22 @@ Table 16: Efficacy results in KEYNOTE-407
 | Endpoint | Pembrolizumab Carboplatin Paclitaxel/Nab-paclitaxel n=278 | Placebo Carboplatin Paclitaxel/Nab-paclitaxel n=281 |
 | --- | --- | --- |
 | OS* |  |  |
-| Number of events (%) | 168 (60%) | 197 (70%) |
+| Number (%) of patients with event | 168 (60%) | 197 (70%) |
 | Median in months (95% CI) | 17.1 (14.4, 19.9) | 11.6 (10.1, 13.7) |
 | Hazard ratio† (95% CI) | 0.71 (0.58, 0.88) |  |
 | p-Value‡ | 0.0006 |  |
 | PFS |  |  |
-| Number of events (%) | 217 (78%) | 252 (90%) |
+| Number (%) of patients with event | 217 (78%) | 252 (90%) |
 | Median in months (95% CI) | 8.0 (6.3, 8.4) | 5.1 (4.3, 6.0) |
 | Hazard ratio† (95% CI) | 0.57 (0.47, 0.69) |  |
 | p-Value‡ | < 0.0001 |  |
 | Objective response rate |  |  |
 | ORR % (95% CI) | 63% (57, 68) | 38% (33, 44) |
-| Complete response % | 2.2% | 3.2% |
-| Partial response % | 60% | 35% |
+| Complete response | 2.2% | 3.2% |
+| Partial response | 60% | 35% |
 | p-Value§ | < 0.0001 |  |
 | Response duration |  |  |
-| Median duration of response in months (range) | 8.8 (1.3+, 28.4+) | 4.9 (1.3+, 28.3+) |
+| Median in months (range) | 8.8 (1.3+, 28.4+) | 4.9 (1.3+, 28.3+) |
 | % with duration ≥ 12 months¶ | 38% | 25% |
 
 * A total of 138 patients (51%) who discontinued study treatment in the placebo plus chemotherapy arm crossed over to receive monotherapy pembrolizumab or received a checkpoint inhibitor as subsequent therapy
@@ -823,8 +823,8 @@ Table 18: Response to pembrolizumab 2 or 10 mg/kg bw every 3 weeks in previously
 | Median in months (95% CI) | 3.9 (3.1, 4.1) | 4.0 (2.7, 4.5) | 4.1 (3.8, 4.5) |
 | Objective response rate‡ |  |  |  |
 | ORR % (95% CI) | 20% (16, 25) | 21% (17, 26) | 9% (6, 13) |
-| Complete response % | 2% | 3% | 0% |
-| Partial response % | 18% | 18% | 9% |
+| Complete response | 2% | 3% | 0% |
+| Partial response | 18% | 18% | 9% |
 | Response duration‡,§ |  |  |  |
 | Median in months (range) | Not reached (2.8, 46.2+) | 37.8 (2.0+, 49.3+) | 7.1 (1.4+, 16.8) |
 | % ongoing¶ | 42% | 43% | 6% |
@@ -842,8 +842,8 @@ Table 18: Response to pembrolizumab 2 or 10 mg/kg bw every 3 weeks in previously
 | Median in months (95% CI) | 5.3 (4.1, 7.9) | 5.2 (4.1, 8.1) | 4.2 (3.8, 4.7) |
 | Objective response rate‡ |  |  |  |
 | ORR % (95% CI) | 32% (24, 40) | 32% (25, 41) | 9% (5, 14) |
-| Complete response % | 4% | 4% | 0% |
-| Partial response % | 27% | 28% | 9% |
+| Complete response | 4% | 4% | 0% |
+| Partial response | 27% | 28% | 9% |
 | Response duration‡,§ |  |  |  |
 | Median in months (range) | Not reached (2.8, 44.0+) | 37.5 (2.0+, 49.3+) | 8.1 (2.6, 16.8) |
 | % ongoing¶ | 55% | 47% | 8% |
@@ -1384,7 +1384,7 @@ Platinum Treatment* Monotherapy Treatment*
 Chemotherapy +5-FU n=110 n=133 n=122
 n=126
 OS
-Number (%) of patients with 84 (66.7) 98 (89.1) 94 (70.7) 108 (88.5)
+Number (%) of patients with 84 (66.7%) 98 (89.1%) 94 (70.7%) 108 (88.5%)
 event
 Median in months (95% CI) 14.7 (10.3, 19.3) 11.0 (9.2, 13.0) 14.8 (11.5, 20.6) 10.7 (8.8, 12.8)
 Hazard ratio† (95% CI) 0.60 (0.45, 0.82) 0.58 (0.44, 0.78)
@@ -1401,7 +1401,7 @@ OS rate at 24 months (95% CI) 35.4 (27.2, 43.8) 19.4 (12.6, 27.3) 35.3 (27.3, 43
 |  | 5-FU |  |  |  |
 |  | n=126 |  |  |  |
 | PFS |  |  |  |  |
-| Number (%) of patients with | 106 (84.1) | 104 (94.5) | 115 (86.5) | 114 (93.4) |
+| Number (%) of patients with | 106 (84.1%) | 104 (94.5%) | 115 (86.5%) | 114 (93.4%) |
 | event |  |  |  |  |
 | Median in months (95% CI) | 5.8 (4.7, 7.6) | 5.3 (4.9, 6.3) | 3.4 (3.2, 3.8) | 5.3 (4.8, 6.3) |
 | Hazard ratio† (95% CI) | 0.76 (0.58, 1.01) |  | 0.99 (0.76, 1.29) |  |
@@ -1432,14 +1432,14 @@ Table 29: Efficacy results for pembrolizumab plus chemotherapy and pembrolizumab
 |  | 5-FU |  |  |  |
 |  | n=116 |  |  |  |
 | OS |  |  |  |  |
-| Number (%) of patients with event | 93 (80.2) | 115 (92.0) | 103 (83.1) | 121 (91.0) |
+| Number (%) of patients with event | 93 (80.2%) | 115 (92.0%) | 103 (83.1%) | 121 (91.0%) |
 | Median in months (95% CI) | 12.7 (9.4, 15.3) | 9.9 (8.6, 11.5) | 10.8 (9.0, 12.6) | 10.1 (8.7, 12.1) |
 | Hazard ratio† (95% CI) | 0.71 (0.54, 0.94) |  | 0.86 (0.66, 1.12) |  |
 | OS rate at 6 months (95% CI) | 76.7 (67.9, 83.4) | 77.4 (69.0, 83.8) | 67.6 (58.6, 75.1) | 78.0 (70.0, 84.2) |
 | OS rate at 12 months (95% CI) | 52.6 (43.1, 61.2) | 41.1 (32.4, 49.6) | 44.0 (35.1, 52.5) | 42.4 (33.9, 50.7) |
 | OS rate at 24 months (95% CI) | 25.9 (18.3, 34.1) | 14.5 (9.0, 21.3) | 22.0 (15.1, 29.6) | 15.9 (10.3, 22.6) |
 | PFS |  |  |  |  |
-| Number (%) of patients with event | 106 (91.4) | 117 (93.6) | 113 (91.1) | 123 (92.5) |
+| Number (%) of patients with event | 106 (91.4%) | 117 (93.6%) | 113 (91.1%) | 123 (92.5%) |
 | Median in months (95% CI) | 4.9 (4.2, 5.3) | 4.9 (3.7, 6.0) | 2.2 (2.1, 2.9) | 4.9 (3.8, 6.0) |
 | Hazard ratio† (95% CI) | 0.93 (0.71, 1.21) |  | 1.25 (0.96, 1.61) |  |
 | PFS rate at 6 months (95% CI) | 40.1 (31.0, 49.0) | 40.0 (31.2, 48.5) | 24.2 (17.1, 32.0) | 41.4 (32.8, 49.7) |
@@ -1477,12 +1477,12 @@ Table 30: Efficacy of pembrolizumab 200 mg every 3 weeks in HNSCC patients with 
 | Endpoint | Pembrolizumab 200 mg every 3 weeks n=64 | Standard Treatment* n=65 |
 | --- | --- | --- |
 | OS |  |  |
-| Number (%) of patients with event | 41 (64) | 56 (86) |
+| Number (%) of patients with event | 41 (64%) | 56 (86%) |
 | Hazard ratio† (95% CI) | 0.53 (0.35, 0.81) |  |
 | p-Value‡ | 0.001 |  |
 | Median in months (95% CI) | 11.6 (8.3, 19.5) | 6.6 (4.8, 9.2) |
 | PFS§ |  |  |
-| Number (%) of patients with event | 52 (81) | 58 (89) |
+| Number (%) of patients with event | 52 (81%) | 58 (89%) |
 | Hazard ratio† (95% CI) | 0.58 (0.39, 0.86) |  |
 | p-Value‡ | 0.003 |  |
 | Median in months (95% CI) | 3.5 (2.1, 6.3) | 2.1 (2.0, 2.4) |
@@ -1566,12 +1566,12 @@ Table 31: Efficacy results in KEYNOTE-426
 | Endpoint | Pembrolizumab Axitinib n=432 | Sunitinib n=429 |
 | --- | --- | --- |
 | OS |  |  |
-| Number of events (%) | 193 (45%) | 225 (52%) |
+| Number (%) of patients with event | 193 (45%) | 225 (52%) |
 | Median in months (95% CI) | 45.7 (43.6, NA) | 40.1 (34.3, 44.2) |
 | Hazard ratio* (95% CI) | 0.73 (0.60, 0.88) |  |
 | p-Value† | 0.00062 |  |
 | PFS‡ |  |  |
-| Number of events (%) | 286 (66%) | 301 (70%) |
+| Number (%) of patients with event | 286 (66%) | 301 (70%) |
 | Median in months (95% CI) | 15.7 (13.6, 20.2) | 11.1 (8.9, 12.5) |
 | Hazard ratio* (95% CI) | 0.68 (0.58, 0.80) |  |
 | p-Value† | < 0.00001 |  |
@@ -1673,17 +1673,17 @@ Table 33: Efficacy results in KEYNOTE-581
 | Endpoint | Pembrolizumab 200 mg every 3 weeks and Lenvatinib n=355 | Sunitinib n=357 |
 | --- | --- | --- |
 | PFS* |  |  |
-| Number of patients with event (%) | 160 (45%) | 205 (57%) |
+| Number (%) of patients with event | 160 (45%) | 205 (57%) |
 | Median in months (95% CI) | 23.9 (20.8, 27.7) | 9.2 (6.0, 11.0) |
 | Hazard ratio† (95% CI) | 0.39 (0.32, 0.49) |  |
 | p-Value‡ | < 0.0001 |  |
 | OS |  |  |
-| Number of patients with event (%) | 80 (23%) | 101 (28%) |
+| Number (%) of patients with event | 80 (23%) | 101 (28%) |
 | Median in months (95% CI) | NR (33.6, NR) | NR (NR, NR) |
 | Hazard ratio† (95% CI) | 0.66 (0.49, 0.88) |  |
 | p-Value‡ | 0.0049 |  |
 | Objective response rate |  |  |
-| ORR§ (95% CI) | 71% (66, 76) | 36% (31, 41) |
+| ORR§ % (95% CI) | 71% (66, 76) | 36% (31, 41) |
 | Complete response | 16% | 4% |
 | Partial response | 55% | 32% |
 | p-Value¶ | < 0.0001 |  |
@@ -1843,7 +1843,7 @@ Table 36: Efficacy results in KEYNOTE-177
 | Hazard ratio† (95% CI) | 0.74 (0.53, 1.03) |  |
 | p-Value§ | 0.0359 |  |
 | Objective response rate |  |  |
-| ORR (95% CI) | 45% (37.1, 53.3) | 33% (25.8, 41.1) |
+| ORR % (95% CI) | 45% (37.1, 53.3) | 33% (25.8, 41.1) |
 | Complete response | 13% | 4% |
 | Partial response | 32% | 29% |
 | Response duration |  |  |
@@ -1904,7 +1904,7 @@ Table 37: Efficacy results in KEYNOTE-164
 | Endpoint | n=124 |
 | --- | --- |
 | Objective response* rate |  |
-| ORR (95% CI) | 34% (25.6, 42.9) |
+| ORR % (95% CI) | 34% (25.6, 42.9) |
 | Complete response | 10% |
 | Partial response | 24% |
 | Response duration* |  |
@@ -1954,7 +1954,7 @@ Table 38: Efficacy results in KEYNOTE-158
 | Endpoint | Endometrial n=83 | Gastric n=51 | Small Intestine n=27 | Biliary n=22 |
 | --- | --- | --- | --- | --- |
 | Objective response* rate |  |  |  |  |
-| ORR (95% CI) | 51% (39.4, 61.8) | 37% (24.1, 51.9) | 56% (35.3, 74.5) | 41% (20.7, 63.6) |
+| ORR % (95% CI) | 51% (39.4, 61.8) | 37% (24.1, 51.9) | 56% (35.3, 74.5) | 41% (20.7, 63.6) |
 | Complete response | 16% | 14% | 15% | 14% |
 | Partial response | 35% | 24% | 41% | 27% |
 | Response duration* |  |  |  |  |
@@ -2002,12 +2002,12 @@ Table 39: Efficacy results for pembrolizumab plus chemotherapy in KEYNOTE-590 wi
 | Hazard ratio‡ (95% CI) | 0.62 (0.49, 0.78) |  |
 | p-Value§ | < 0.0001 |  |
 | PFS¶ |  |  |
-| Number (%) of patients with event | 140 (75.3) | 174 (88.3) |
+| Number (%) of patients with event | 140 (75.3%) | 174 (88.3%) |
 | Median in months† (95% CI) | 7.5 (6.2, 8.2) | 5.5 (4.3, 6.0) |
 | Hazard ratio‡ (95% CI) | 0.51 (0.41, 0.65) |  |
 | p-Value§ | < 0.0001 |  |
 | Objective response rate¶ |  |  |
-| Objective response rate§ (95% CI) | 51.1 (43.7, 58.5) | 26.9 (20.8, 33.7) |
+| ORR§ % (95% CI) | 51.1 (43.7, 58.5) | 26.9 (20.8, 33.7) |
 | Complete response | 5.9% | 2.5% |
 | Partial response | 45.2% | 24.4% |
 | p-Value# | < 0.0001 |  |
@@ -2092,16 +2092,16 @@ Table 40: Efficacy results in KEYNOTE-522
 | --- | --- | --- |
 | pCR (ypT0/Tis ypN0)* | n=669 | n=333 |
 | Number of patients with pCR | 428 | 182 |
-| pCR Rate (%),(95% CI) | 64.0 (60.2, 67.6) | 54.7 (49.1, 60.1) |
+| pCR Rate (%) (95% CI) | 64.0 (60.2, 67.6) | 54.7 (49.1, 60.1) |
 | Treatment difference (%) estimate (95% CI)† | 9.2 (2.8, 15.6) |  |
 | p-Value‡ | 0.00221 |  |
 | EFS§ | n=784 | n=390 |
-| Number of patients with event (%) | 123 (15.7) | 93 (23.8) |
+| Number (%) of patients with event | 123 (15.7%) | 93 (23.8%) |
 | 24 month EFS rate (95% CI) | 87.8 (85.3, 89.9) | 81.0 (76.8, 84.6) |
 | Hazard ratio (95% CI)¶ | 0.63 (0.48, 0.82) |  |
 | p-Value# | 0.00031 |  |
 | OSÞ |  |  |
-| Number (%) of patients with event | 80 (10.2) | 55 (14.1) |
+| Number (%) of patients with event | 80 (10.2%) | 55 (14.1%) |
 | 24-month OS rate (95% CI) | 92.3 (90.2, 94.0) | 91.0 (87.7, 93.5) |
 | Hazard ratio (95% CI)¶ | 0.72 (0.51, 1.02) |  |
 
@@ -2254,9 +2254,9 @@ Table 42: Efficacy results in KEYNOTE-775
 | Hazard ratio† (95% CI) | 0.56 (0.47, 0.66) |  |
 | p-Value‡ | < 0.0001 |  |
 | Objective response rate |  |  |
-| ORR§ (95% CI) | 32% (27, 37) | 15% (11, 18) |
-| Complete response % | 7% | 3% |
-| Partial response % | 25% | 12% |
+| ORR§ % (95% CI) | 32% (27, 37) | 15% (11, 18) |
+| Complete response | 7% | 3% |
+| Partial response | 25% | 12% |
 | p-Value¶ | < 0.0001 |  |
 | Response duration |  |  |
 | Median in months# (range) | 14.4 (1.6+, 23.7+) | 5.7 (0.0+, 24.2+) |
@@ -2335,17 +2335,17 @@ Table 43: Efficacy results in KEYNOTE-826 for patients with PD-L1 expression (CP
 | Endpoint | Pembrolizumab 200 mg every 3 weeks plus Chemotherapy* with or without bevacizumab n=273 | Placebo plus Chemotherapy* with or without bevacizumab n=275 |
 | --- | --- | --- |
 | OS |  |  |
-| Number of patients with event (%) | 118 (43) | 154 (56) |
+| Number (%) of patients with event | 118 (43%) | 154 (56%) |
 | Median in months (95% CI) | NR (19.8, NR) | 16.3 (14.5, 19.4) |
 | Hazard ratio† (95% CI) | 0.64 (0.50, 0.81) |  |
 | p-Value‡ | 0.0001 |  |
 | PFS |  |  |
-| Number of patients with event (%) | 157 (58) | 198 (72) |
+| Number (%) of patients with event | 157 (58%) | 198 (72%) |
 | Median in months (95% CI) | 10.4 (9.7, 12.3) | 8.2 (6.3, 8.5) |
 | Hazard ratio† (95% CI) | 0.62 (0.50, 0.77) |  |
 | p-Value§ | < 0.0001 |  |
 | Objective response rate |  |  |
-| ORR¶ (95% CI) | 68% (62, 74) | 50% (44, 56) |
+| ORR¶ % (95% CI) | 68% (62, 74) | 50% (44, 56) |
 | Complete response | 23% | 13% |
 | Partial response | 45% | 37% |
 | Duration of response |  |  |

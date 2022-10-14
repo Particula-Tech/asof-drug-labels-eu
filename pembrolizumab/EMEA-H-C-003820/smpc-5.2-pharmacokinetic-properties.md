@@ -25,19 +25,18 @@ The median area under the concentration time curve at steady-state over 3 weeks 
 Following administration of pembrolizumab 200 mg every 3 weeks in patients with cHL, the observed median Cmin at steady-state was up to 40% higher than that in other tumour types treated with the same dosage; however, the range of trough concentrations is similar.
 There are no notable differences in median Cmax between cHL and other tumour types.
 Based on available safety data in cHL and other tumour types, these differences are not clinically meaningful.
-
 Special populations
 The effects of various covariates on the pharmacokinetics of pembrolizumab were assessed in population pharmacokinetic analyses.
-The following factors had no clinically important effect on the clearance of pembrolizumab: age (range 15-94 years), gender, race, mild or moderate renal impairment, mild hepatic impairment and tumour burden.
+The following factors had no clinically important effect on the clearance of pembrolizumab: age (range 15-94 years), gender, race, mild or moderate renal impairment, mild or moderate hepatic impairment and tumour burden.
 The relationship between body weight and clearance supports the use of either fixed dose or body weight-based dosing to provide adequate and similar control of exposure.
 Pembrolizumab exposure with weight-based dosing at 2 mg/kg bw every 3 weeks in paediatric patients (≥ 3 to 17 years) are comparable to those of adults at the same dose.
 
 Renal impairment
 The effect of renal impairment on the clearance of pembrolizumab was evaluated by population pharmacokinetic analyses in patients with mild or moderate renal impairment compared to patients with normal renal function.
 No clinically important differences in the clearance of pembrolizumab were found between patients with mild or moderate renal impairment and patients with normal renal function.
-Pembrolizumab has not been studied in patients with severe renal impairment.
+Pembrolizumab has not been studied in patients with severe renal impairment (see section 4.2).
 
 Hepatic impairment
-The effect of hepatic impairment on the clearance of pembrolizumab was evaluated by population pharmacokinetic analyses in patients with mild hepatic impairment (as defined using the US National Cancer Institute criteria of hepatic dysfunction) compared to patients with normal hepatic function.
-No clinically important differences in the clearance of pembrolizumab were found between patients with mild hepatic impairment and normal hepatic function.
-Pembrolizumab has not been studied in patients with moderate or severe hepatic impairment (see section 4.2).
+The effect of hepatic impairment on the clearance of pembrolizumab was evaluated by population pharmacokinetic analyses in patients with mild and moderate hepatic impairment (as defined using the US National Cancer Institute criteria of hepatic dysfunction) compared to patients with normal hepatic function.
+No clinically important differences in the clearance of pembrolizumab were found between patients with mild or moderate hepatic impairment and normal hepatic function.
+Pembrolizumab has not been studied in patients with severe hepatic impairment (see section 4.2).

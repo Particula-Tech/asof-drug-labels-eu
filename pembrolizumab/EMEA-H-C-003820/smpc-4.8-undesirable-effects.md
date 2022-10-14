@@ -58,6 +58,7 @@ Table 2: Adverse reactions in patients treated with pembrolizumab*
 | Very common | hypothyroidismb | hypothyroidismb | hypothyroidism |
 | Common | hyperthyroidism | adrenal insufficiencyc, thyroiditisd, hyperthyroidisme | adrenal insufficiencyc, hyperthyroidism, thyroiditisd |
 | Uncommon | adrenal insufficiencyc, hypophysitisf, thyroiditisd | hypophysitisf | hypophysitisf |
+| Rare | hypoparathyroidism | hypoparathyroidism | hypoparathyroidism |
 | Metabolism and nutrition disorders |  |  |  |
 | Very common | decreased appetite | hypokalaemia, decreased appetite | decreased appetite |
 | Common | hyponatraemia, hypokalaemia, hypocalcaemia | hyponatraemia, hypocalcaemia | hyponatraemia, hypokalaemia, hypocalcaemia |

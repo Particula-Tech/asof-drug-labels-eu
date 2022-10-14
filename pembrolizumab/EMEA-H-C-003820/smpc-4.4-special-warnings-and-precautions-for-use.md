@@ -84,7 +84,7 @@ If SJS or TEN is confirmed, pembrolizumab should be permanently discontinued (se
 Caution should be used when considering the use of pembrolizumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anti-cancer agents.
 
 Other immune-related adverse reactions
-The following additional clinically significant, immune-related adverse reactions have been reported in clinical studies or in post-marketing experience: uveitis, arthritis, myositis, myocarditis, pancreatitis, Guillain-Barré syndrome, myasthenic syndrome, haemolytic anaemia, sarcoidosis, encephalitis, myelitis, vasculitis, cholangitis sclerosing, gastritis and cystitis noninfective (see sections 4.2 and 4.8).
+The following additional clinically significant, immune-related adverse reactions have been reported in clinical studies or in post-marketing experience: uveitis, arthritis, myositis, myocarditis, pancreatitis, Guillain-Barré syndrome, myasthenic syndrome, haemolytic anaemia, sarcoidosis, encephalitis, myelitis, vasculitis, cholangitis sclerosing, gastritis, cystitis noninfective and hypoparathyroidism (see sections 4.2 and 4.8).
 
 Based on the severity and type of the adverse reaction, pembrolizumab should be withheld for Grade 2 or Grade 3 events and corticosteroids administered.
 
@@ -161,7 +161,6 @@ When pembrolizumab is given with axitinib, higher than expected frequencies of G
 Liver enzymes should be monitored before initiation of and periodically throughout treatment.
 More frequent monitoring of liver enzymes as compared to when the medicines are used in monotherapy may be considered.
 Medical management guidelines for both medicines should be followed (see section 4.2 and refer to the SmPC for axitinib).
-
 Use of pembrolizumab for first-line treatment of patients with MSI-H/dMMR CRC
 In KEYNOTE-177, the hazard rates for overall survival events were greater for pembrolizumab compared with chemotherapy for the first 4 months of treatment, followed by a long-term survival benefit for pembrolizumab (see section 5.1).
 
