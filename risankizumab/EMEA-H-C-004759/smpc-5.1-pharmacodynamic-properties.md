@@ -184,8 +184,8 @@ Risankizumab has been shown to improve signs and symptoms, physical function, he
 
 The safety and efficacy of risankizumab were assessed in 1 407 subjects with active PsA in 2 randomised, double-blind, placebo-controlled studies (964 in KEEPSAKE1 and 443 in KEEPSAKE2).
 
-Subjects in these studies had a diagnosis of PsA for at least 6 months based on the Classification Criteria for Psoriatic Arthritis (CASPAR), a median duration of PsA of 4.9 years at baseline, ≥ 5 tender joints and ≥ 5 swollen joints, and active plaque psoriasis or nail psoriasis at baseline.
-55.9% of subjects had ≥ 3% BSA with active plaque psoriasis.
+Subjects in these studies had a diagnosis of PsA for at least 6 months based on the Classification Criteria for Psoriatic Arthritis (CASPAR), a median duration of PsA of 4.9 years at baseline, ≥5 tender joints and ≥5 swollen joints, and active plaque psoriasis or nail psoriasis at baseline.
+55.9% of subjects had ≥3% BSA with active plaque psoriasis.
 63.4% and 27.9% of subjects had enthesitis and dactylitis, respectively.
 In KEEPSAKE1, where nail psoriasis was further assessed, 67.3% had nail psoriasis.
 
@@ -246,7 +246,7 @@ Percent of subjects achieving ACR20 responses in study KEEPSAKE1 through week 24
 
 Baseline Week 4 Week 8 Week 12 Week 16 Week 24
 Visit
-•••○••• Placebo (N=481) ──■── Risankizumab (N=483)
+•••○•••Placebo (N=481) ──■── Risankizumab (N=483)
 
 A greater ACR20 response for risankizumab versus placebo was seen as early as week 4 in 19.6% of subjects in KEEPSAKE2.
 
@@ -295,7 +295,7 @@ Radiographic Response
 In KEEPSAKE1, inhibition of progression of structural damage was assessed radiographically and expressed as the change in modified Total Sharp Score (mTSS) at week 24, compared with baseline.
 The mTSS score was modified for PsA by addition of hand distal interphalangeal (DIP) joints.
 At week 24, the mean progression of structural damage with risankizumab (mean mTSS 0.23) compared with placebo (mean mTSS 0.32) was not statistically significant.
-At week 24, the proportion of subjects with no radiographic progression (defined as a change from baseline in mTSS ≤ 0) was higher with risankizumab (92.4%) compared with placebo (87.7%).
+At week 24, the proportion of subjects with no radiographic progression (defined as a change from baseline in mTSS ≤0) was higher with risankizumab (92.4%) compared with placebo (87.7%).
 This response was maintained through week 52.
 
 Physical Function and Health Related Quality of Life

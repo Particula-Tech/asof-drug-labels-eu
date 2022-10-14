@@ -6,7 +6,7 @@ The most frequently reported adverse reactions were upper respiratory infections
 
 Tabulated list of adverse reactions
 
-Adverse reactions for risankizumab from clinical studies (Table 1) for psoriasis and psoriatic arthritis are listed by MedDRA system organ class and are based on the following convention: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1 000 to < 1/100); rare (≥ 1/10 000 to
+Adverse reactions for risankizumab from clinical studies (Table 1) for psoriasis and psoriatic arthritis are listed by MedDRA system organ class and are based on the following convention: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1 000 to < 1/100); rare (≥1/10 000 to
 < 1/1 000); and very rare (< 1/10 000).
 
 Table 1: List of adverse reactions
