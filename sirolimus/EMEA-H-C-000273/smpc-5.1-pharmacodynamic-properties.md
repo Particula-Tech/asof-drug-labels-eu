@@ -10,7 +10,6 @@ The inhibition of mTOR results in blockage of several specific signal transducti
 The net result is the inhibition of lymphocyte activation, which results in immunosuppression.
 
 In animals, sirolimus has a direct effect on T- and B-cell activation, suppressing immune-mediated reactions, such as allograft rejection.
-
 LAM involves lung tissue infiltration with smooth muscle-like cells that harbour inactivating mutations of the tuberous sclerosis complex (TSC) gene (LAM cells).
 Loss of TSC gene function activates the mTOR signaling pathway, resulting in cellular proliferation and release of lymphangiogenic growth factors.
 Sirolimus inhibits the activated mTOR pathway and thus the proliferation of LAM cells.

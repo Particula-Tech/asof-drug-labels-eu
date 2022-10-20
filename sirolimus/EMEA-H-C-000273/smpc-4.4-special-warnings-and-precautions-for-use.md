@@ -35,8 +35,13 @@ HMG-CoA reductase inhibitors
 In clinical studies, the concomitant administration of Rapamune and HMG-CoA reductase inhibitors and/or fibrates was well-tolerated.
 During Rapamune therapy with or without CsA, patients should be monitored for elevated lipids, and patients administered an HMG-CoA reductase inhibitor and/or fibrate should be monitored for the possible development of rhabdomyolysis and other adverse reactions, as described in the respective Summary of Product Characteristics of these agents.
 
-Cytochrome P450 isozymes
-Co-administration of sirolimus with strong inhibitors of CYP3A4 (such as ketoconazole, voriconazole, itraconazole, telithromycin or clarithromycin) or inducers of CYP3A4 (such as rifampin, rifabutin) is not recommended (see section 4.5).
+Cytochrome P450 isozymes and P-glycoprotein
+Co-administration of sirolimus with strong inhibitors of CYP3A4 and/or the multidrug efflux pump P-glycoprotein (P-gp) (such as ketoconazole, voriconazole, itraconazole, telithromycin or clarithromycin) may increase sirolimus blood levels and is not recommended.
+
+Co-administration with strong inducers of CYP3A4 and/or P-gp (such as rifampin, rifabutin) is not recommended.
+
+If co-administration of inducers or inhibitors of CYP3A4 and/or P-gp cannot be avoided, it is recommended that sirolimus whole blood trough concentrations and the clinical condition of the patient be monitored while they are concurrently administered with sirolimus and after their discontinuation.
+Dose adjustments of sirolimus may be required (see sections 4.2 and 4.5).
 
 Angioedema
 The concomitant administration of Rapamune and angiotensin-converting enzyme (ACE) inhibitors has resulted in angioneurotic oedema-type reactions.
@@ -50,11 +55,11 @@ Vaccination
 Immunosuppressants may affect response to vaccination.
 During treatment with immunosuppressants, including Rapamune, vaccination may be less effective.
 The use of live vaccines should be avoided during treatment with Rapamune.
-
 Malignancy
 
 Increased susceptibility to infection and the possible development of lymphoma and other malignancies, particularly of the skin, may result from immunosuppression (see section 4.8).
 As usual for patients with increased risk for skin cancer, exposure to sunlight and ultraviolet (UV) light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
+
 Infections
 
 Oversuppression of the immune system can also increase susceptibility to infection, including opportunistic infections (bacterial, fungal, viral and protozoal), fatal infections, and sepsis.
@@ -85,11 +90,11 @@ The rate of death in the sirolimus conversion group was higher than the CNI cont
 The rates of premature study discontinuation, adverse events overall (and infections, specifically), and biopsy-proven acute liver graft rejection at 12 months were all significantly greater in the sirolimus conversion group compared to the CNI continuation group.
 
 Cases of bronchial anastomotic dehiscence, most fatal, have been reported in de novo lung transplant patients when sirolimus has been used as part of an immunosuppressive regimen.
-
 Systemic effects
 
 There have been reports of impaired or delayed wound healing in patients receiving Rapamune, including lymphocele in renal transplant patients and wound dehiscence.
 Patients with a body mass index (BMI) greater than 30 kg/m2 may be at increased risk of abnormal wound healing based on data from the medical literature.
+
 There have also been reports of fluid accumulation, including peripheral oedema, lymphoedema, pleural effusion and pericardial effusions (including haemodynamically significant effusions in children and adults), in patients receiving Rapamune.
 
 The use of Rapamune was associated with increased serum cholesterol and triglycerides that may require treatment.
@@ -115,6 +120,5 @@ Sucrose and lactose
 
 Sucrose
 Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine.
-
 Lactose
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.

@@ -3,6 +3,7 @@
 Undesirable effects observed with prophylaxis of organ rejection in renal transplantation
 
 The most commonly reported adverse reactions (occurring in >10% of patients) are thrombocytopaenia, anaemia, pyrexia, hypertension, hypokalaemia, hypophosphataemia, urinary tract infection, hypercholesterolaemia, hyperglycaemia, hypertriglyceridaemia, abdominal pain, lymphocoele, peripheral oedema, arthralgia, acne, diarrhoea, pain, constipation, nausea, headache, increased blood creatinine, and increased blood lactate dehydrogenase (LDH).
+
 The incidence of any adverse reaction(s) may increase as the trough sirolimus level increases.
 
 The following list of adverse reactions is based on experience from clinical studies and on postmarketing experience.
@@ -13,28 +14,27 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 Most patients were on immunosuppressive regimens, which included Rapamune in combination with other immunosuppressive agents.
 
-| System organ class | Very common (≥1/10) | Common (≥1/100 to <1/10) | Uncommon (≥1/1,000 to <1/100) | Rare (≥1/10,00 0 to <1/1,000) | Frequency not known (cannot be estimated from available data) |
+| System organ class | Very common (≥1/10) | Common (≥1/100 to <1/10) | Uncommon (≥1/1,000 to <1/100) | Rare (≥1/10,000 to <1/1,000) | Frequency not known (cannot be estimated from available data) |
 | --- | --- | --- | --- | --- | --- |
 | Infections and infestations | Pneumonia; Fungal infection; Viral infection; Bacterial infection; Herpes simplex infection; Urinary tract infection | Sepsis; Pyelonephritis; Cytomegalo-virus infection; Herpes zoster caused by the varicella zoster virus | Clostridium difficile colitis; Mycobacterial infection (including tuberculosis); Epstein-Barr virus infection |  |  |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  | Non-melanoma skin cancer* | Lymphoma*; Malignant melanoma*; Post transplant lympho-proliferative disorder |  | Neuroendoc rine carcinoma of the skin* |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  | Non-melanoma skin cancer* | Lymphoma*; Malignant melanoma*; Post transplant lympho-proliferative disorder |  | Neuroendo crine carcinoma of the skin* |
 | Blood and lymphatic system disorders | Thrombo-cytopaenia; Anaemia; Leucopenia | Haemolytic uraemic syndrome; Neutropaenia | Pancytopaenia; Thrombotic thrombo-cytopaenic purpura |  |  |
 | Immune system disorders |  | Hyper-sensitivity (including angioedema, anaphylactic reaction, and anaphylactoid reaction) |  |  |  |
 | Metabolism and nutrition disorders | Hypokalaemia; Hypophos-phataemia; Hyperlipidaemia (including hypercholesterol-aemia); Hyperglycaemia; Hyper-triglyceridaemia; Diabetes mellitus |  |  |  |  |
 | Nervous system disorders | Headache |  |  |  | Posterior reversible encephalo-pathy syndrome |
 | Cardiac disorders | Tachycardia | Pericardial effusion |  |  |  |
 | Vascular disorders | Hypertension; Lymphocele | Venous thrombosis (including deep vein thrombosis) | Lymphoedema |  |  |
-| Respiratory, thoracic and mediastinal disorders |  | Pulmonary embolism; Pneumonitis*; Pleural effusion; Epistaxis | Pulmonary haemorrhage | Alveolar proteinosi s |  |
+| Respiratory, thoracic and mediastinal disorders |  | Pulmonary embolism; Pneumonitis*; Pleural effusion; Epistaxis | Pulmonary haemorrhage | Alveolar proteinosis |  |
 | Gastrointestinal disorders | Abdominal pain; Constipation; Diarrhoea; Nausea | Pancreatitis; Stomatitis; Ascites |  |  |  |
 | Hepatobiliary disorders | Liver function test abnormal (including alanine aminotransferase increased and aspartate amino-transferase increased) |  | Hepatic failure* |  |  |
 | Skin and subcutaneous tissue disorders | Rash; Acne |  | Dermatitis exfoliative | Hypersen-sitivity vasculitis |  |
-| Musculoskeletal and connective tissue disorders | Arthralgia | Osteonecrosis |  |  |  |
+| Musculoskeleta l and connective tissue disorders | Arthralgia | Osteonecrosis |  |  |  |
 | Renal and urinary disorders | Proteinuria |  | Nephrotic syndrome (see section 4.4); Focal segmental glomerulo-sclerosis* |  |  |
 | Reproductive system and breast disorders | Menstrual disorder (including amenorrhoea and menorrhagia) | Ovarian cyst |  |  |  |
 | General disorders and administration site conditions | Oedema; Oedema peripheral; Pyrexia; Pain; Impaired healing* |  |  |  |  |
 | Investigations | Blood lactate dehydrogenase increased; Blood creatinine increased |  |  |  |  |
 
 *See section below.
-
 Description of selected adverse reactions
 
 Immunosuppression increases the susceptibility to the development of lymphoma and other malignancies, particularly of the skin (see section 4.4).
@@ -48,6 +48,7 @@ Rare reports of fatal hepatic necrosis have been reported with elevated trough s
 Cases of interstitial lung disease (including pneumonitis and infrequently bronchiolitis obliterans organising pneumonia (BOOP) and pulmonary fibrosis), some fatal, with no identified infectious aetiology have occurred in patients receiving immunosuppressive regimens including Rapamune.
 In some cases, the interstitial lung disease has resolved upon discontinuation or dose reduction of Rapamune.
 The risk may be increased as the trough sirolimus level increases.
+
 Impaired healing following transplant surgery has been reported, including fascial dehiscence, incisional hernia, and anastomotic disruption (e.g. wound, vascular, airway, ureteral, biliary).
 
 Impairments of sperm parameters have been observed among some patients treated with Rapamune.
@@ -82,6 +83,7 @@ Among 89 patients known to be Epstein-Barr virus (EBV) seronegative prior to tra
 All patients who developed PTLD were aged below 18 years.
 
 There is insufficient experience to recommend the use of Rapamune in children and adolescents (see section 4.2).
+
 Undesirable effects observed with patients with S-LAM
 
 Safety was assessed in a controlled study involving 89 patients with LAM, of which 81 patients had S-LAM and 42 of whom were treated with Rapamune (see section 5.1).
@@ -93,6 +95,26 @@ It allows continued monitoring of the benefit/risk balance of the medicinal prod
 Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [Rapamune 0.5 mg coated tablets]
+
+| System organ class | Very common (≥1/10) | Common (≥1/100 to <1/10) | Uncommon (≥1/1,000 to <1/100) | Rare (≥1/10,000 to <1/1,000) | Frequency not known (cannot be estimated from available data) |
+| --- | --- | --- | --- | --- | --- |
+| Infections and infestations | Pneumonia; Fungal infection; Viral infection; Bacterial infection; Herpes simplex infection; Urinary tract infection | Sepsis; Pyelonephritis; Cytomegalo-virus infection; Herpes zoster caused by the varicella zoster virus | Clostridium difficile colitis; Mycobacterial infection (including tuberculosis); Epstein-Barr virus infection |  |  |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  | Non-melanoma skin cancer* | Lymphoma*; Malignant melanoma*; Post transplant lympho-proliferative disorder |  | Neuroendo crine carcinoma of the skin* |
+| Blood and lymphatic system disorders | Thrombo-cytopaenia; Anaemia; Leucopenia | Haemolytic uraemic syndrome; Neutropaenia | Pancytopaenia; Thrombotic thrombo-cytopaenic purpura |  |  |
+| Immune system disorders |  | Hyper-sensitivity (including angioedema, anaphylactic reaction, and anaphylactoid reaction) |  |  |  |
+| Metabolism and nutrition disorders | Hypokalaemia; Hypophos-phataemia; Hyperlipidaemia (including hypercholesterol-aemia); Hyperglycaemia; Hyper-triglyceridaemia; Diabetes mellitus |  |  |  |  |
+| Nervous system disorders | Headache |  |  |  | Posterior reversible encephalo-pathy syndrome |
+| Cardiac disorders | Tachycardia | Pericardial effusion |  |  |  |
+| Vascular disorders | Hypertension; Lymphocele | Venous thrombosis (including deep vein thrombosis) | Lymphoedema |  |  |
+| Respiratory, thoracic and mediastinal disorders |  | Pulmonary embolism; Pneumonitis*; Pleural effusion; Epistaxis | Pulmonary haemorrhage | Alveolar proteinosis |  |
+| Gastrointestinal disorders | Abdominal pain; Constipation; Diarrhoea; Nausea | Pancreatitis; Stomatitis; Ascites |  |  |  |
+| Hepatobiliary disorders | Liver function test abnormal (including alanine aminotransferase increased and aspartate amino-transferase increased) |  | Hepatic failure* |  |  |
+| Skin and subcutaneous tissue disorders | Rash; Acne |  | Dermatitis exfoliative | Hypersen-sitivity vasculitis |  |
+| Musculoskeletal and connective tissue disorders | Arthralgia | Osteonecrosis |  |  |  |
+| Renal and urinary disorders | Proteinuria |  | Nephrotic syndrome (see section 4.4); Focal segmental glomerulo-sclerosis* |  |  |
+| Reproductive system and breast disorders | Menstrual disorder (including amenorrhoea and menorrhagia) | Ovarian cyst |  |  |  |
+| General disorders and administration site conditions | Oedema; Oedema peripheral; Pyrexia; Pain; Impaired healing* |  |  |  |  |
+| Investigations | Blood lactate dehydrogenase increased; Blood creatinine increased |  |  |  |  |
 
 Impaired healing following transplant surgery has been reported, including fascial dehiscence, incisional hernia, and anastomotic disruption (e.g., wound, vascular, airway, ureteral, biliary).
 

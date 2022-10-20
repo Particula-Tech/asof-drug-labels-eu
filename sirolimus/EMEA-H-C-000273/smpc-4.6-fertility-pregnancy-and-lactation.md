@@ -17,7 +17,6 @@ Breast-feeding
 Following administration of radiolabelled sirolimus, radioactivity is excreted in the milk of lactating rats.
 It is unknown whether sirolimus is excreted in human milk.
 Because of the potential for adverse reactions in breast-fed infants from sirolimus, breast-feeding should be discontinued during treatment with Rapamune.
-
 Fertility
 
 Impairments of sperm parameters have been observed among some patients treated with Rapamune.

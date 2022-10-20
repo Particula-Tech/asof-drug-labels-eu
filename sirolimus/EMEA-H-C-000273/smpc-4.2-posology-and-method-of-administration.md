@@ -23,7 +23,7 @@ Therapeutic monitoring of the medicinal product and dose adjustment
 Whole blood sirolimus levels should be closely monitored in the following populations:
 
 (1) in patients with hepatic impairment
-(2) when inducers or inhibitors of CYP3A4 are concurrently administered and after their discontinuation (see section 4.5) and/or
+(2) when inducers or inhibitors of CYP3A4 and/or P-glycoprotein (P-gp) are concurrently administered and after their discontinuation (see section 4.5) and/or
 (3) if ciclosporin dosing is markedly reduced or discontinued, as these populations are most likely to have special dosing requirements.
 
 Therapeutic monitoring of the medicinal product should not be the sole basis for adjusting sirolimus therapy.

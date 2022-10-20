@@ -17,11 +17,11 @@ Ketoconazole (CYP3A4 inhibitor)
 
 Multiple-dose ketoconazole administration significantly affected the rate and extent of absorption and sirolimus exposure from Rapamune oral solution as reflected by increases in sirolimus Cmax, tmax, and AUC of 4.4-fold, 1.4-fold, and 10.9-fold, respectively.
 Co-administration of sirolimus and ketoconazole is not recommended (see section 4.4).
-
 Voriconazole (CYP3A4 inhibitor)
 
 Co-administration of sirolimus (2 mg single dose) with multiple-dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 100 mg every 12 hours for 8 days) in healthy subjects has been reported to increase sirolimus Cmax and AUC by an average of 7-fold and 11-fold respectively.
 Co-administration of sirolimus and voriconazole is not recommended (see section 4.4).
+
 Diltiazem (CYP3A4 inhibitor)
 
 The simultaneous oral administration of 10 mg of Rapamune oral solution and 120 mg of diltiazem significantly affected the bioavailability of sirolimus.
@@ -51,6 +51,13 @@ The effect of CsA was also reflected by increases in sirolimus Cmax and tmax.
 When given 2 hours before CsA administration, sirolimus Cmax and AUC were not affected.
 Single-dose sirolimus did not affect the pharmacokinetics of ciclosporin (microemulsion) in healthy volunteers when administered simultaneously or 4 hours apart.
 It is recommended that Rapamune be administered 4 hours after ciclosporin (microemulsion).
+
+Cannabidiol (P-gp inhibitor)
+
+There have been reports of increased blood levels of sirolimus during concomitant use with cannabidiol.
+Co-administration of cannabidiol with another orally administered mTOR inhibitor in a healthy volunteer study led to an increase in exposure to the mTOR inhibitor of approximately 2.5-fold for both Cmax and AUC, due to inhibition of intestinal P-gp efflux by cannabidiol.
+Caution should be used when cannabidiol and Rapamune are co-administered, closely monitoring for side effects.
+Monitor sirolimus blood levels and adjust the dose as needed (see sections 4.2 and 4.4).
 
 Oral contraceptives
 
