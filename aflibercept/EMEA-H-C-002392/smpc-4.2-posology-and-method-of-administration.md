@@ -103,7 +103,7 @@ The extractable volume of the syringe is the amount that can be expelled from th
 For the Eylea pre-filled syringe, the extractable volume is at least 0.09 mL.
 The excess volume must be expelled before injecting the recommended dose (see section 6.6).
 Injecting the entire volume of the pre-filled syringe could result in overdose.
-To expel the air bubbles along with excess medicinal product, slowly depress the plunger to align the base of the plunger dome (not the tip of the dome) with the black dosing line on the syringe (equivalent to 0.05 mL i.e. 2 mg aflibercept) (see sections 4.9 and 6.6).
+To expel the air bubbles along with excess medicinal product, slowly depress the plunger to align the base of the plunger dome (not the tip of the dome) with the black dosing line on the syringe (equivalent to 0.05 mL, i.e. 2 mg aflibercept) (see sections 4.9 and 6.6).
 
 After injection any unused product must be discarded.
 
@@ -118,4 +118,4 @@ The vial contains more than the recommended dose of 2 mg aflibercept (equivalent
 The extractable volume of the vial is the amount that can be withdrawn from the vial and is not to be used in total.
 For the Eylea vial, the extractable volume is at least 0.1 mL.
 Injecting the entire volume of the vial could result in overdose.
-To expel the air bubbles along with excess medicinal product, slowly depress the plunger so that the flat plunger edge aligns with the line that marks 0.05 mL on the syringe (equivalent to 0.05 mL i.e. 2 mg aflibercept) (see sections 4.9 and 6.6).
+To expel the air bubbles along with excess medicinal product, slowly depress the plunger so that the flat plunger edge aligns with the line that marks 0.05 mL on the syringe (equivalent to 0.05 mL, i.e. 2 mg aflibercept) (see sections 4.9 and 6.6).

@@ -8,7 +8,6 @@ The excess volume must be discarded prior to administration.
 
 The solution should be inspected visually for any foreign particulate matter and/or discolouration or any variation in physical appearance prior to administration.
 In the event of either being observed, discard the medicinal product.
-
 For the intravitreal injection, a 30 G x ½ inch injection needle should be used.
 
 Instructions for use of pre-filled syringe:
@@ -33,7 +32,7 @@ Using aseptic technique, firmly twist the injection needle onto the Luer-lock sy
 Holding the syringe with the needle pointing up, check the syringe for bubbles.
 If there are bubbles, gently tap the syringe with your finger until the bubbles rise to the top.
 7.
-Eliminate all bubbles and expel excess medicinal product by slowly depressing the plunger to align the base of the plunger dome (not the tip of the dome) with the black dosing line on the syringe (equivalent to 0.05 mL i.e. 2 mg aflibercept).
+Eliminate all bubbles and expel excess medicinal product by slowly depressing the plunger to align the base of the plunger dome (not the tip of the dome) with the black dosing line on the syringe (equivalent to 0.05 mL, i.e. 2 mg aflibercept).
 
 Note: This accurate positioning of the plunger is very important, because incorrect plunger positioning can lead to delivering more or less than the labelled dose.
 
@@ -50,6 +49,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 [Eylea 40 mg/mL solution for injection in a vial.]
 
 The vial is for single use in one eye only.
+
 The vial contains more than the recommended dose of 2 mg aflibercept (equivalent to 0.05 mL).
 
 Filter needle:
