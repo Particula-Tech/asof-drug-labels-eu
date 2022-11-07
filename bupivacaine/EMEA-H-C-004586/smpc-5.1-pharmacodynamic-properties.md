@@ -25,11 +25,11 @@ Clinical studies confirming efficacy
 The efficacy of EXPAREL liposomal was evaluated in four double-blind, controlled trials involving 703 patients with moderate-to-severe acute pain (pain intensity of ≥ 4 on a 0-10 scale).
 Acute pain was assessed for 24 hours after bunionectomy, 48 hours after total shoulder arthroplasty/rotator cuff repair and 72 hours after haemorrhoidectomy and total knee arthroplasty.
 Of the 703 patients, 352 received EXPAREL liposomal treatment, 351 received placebo.
-Patients were of appropriate sex to the type of surgery (men/women ratio 329/374), mean age was 53.4 years (range 18-88 years [23.2% (n=163) are >=65 years, and 6.3% (n=44) are >=75 years (i.e. elderly)], BMI 27.9 kg/m2 (range 18.7-43.9), race was predominately White (82.9%).
+Patients were of appropriate sex to the type of surgery (men/women ratio 329/374), mean age was 53.4 years (range 18-88 years [23.2% (n = 163) are ≥ 65 years, and 6.3% (n = 44) are ≥ 75 years (i.e. elderly)], BMI 27.9 kg/m2 (range 18.7-43.9), race was predominately White (82.9%).
 Primary endpoint for all pivotal studies was area under the curve (AUC) of pain intensity score.
 Rescue pain therapy was available in all studies and was tailored to surgical type and the clinical practice at the time of study conduct.
 
-Table 2 Summary of key pain endpoint results in phase 3 studies
+Table 3 Summary of key pain endpoint results in Phase 3 studies
 
 | Study / Surgery Type | EXPAREL liposomal Dose (n) / Control (n) | Primary Endpoint | Treatment Difference (95% CI) | P-valuea |
 | --- | --- | --- | --- | --- |
@@ -40,10 +40,10 @@ Table 2 Summary of key pain endpoint results in phase 3 studies
 | Femoral Nerve Block / TKAb | 266 mg (92) / Placebo (91) | AUC NRS-R0-72 | -96.5 (-144, -49) | <0.0001 |
 | Brachial Plexus Nerve Block / TSA/RCR | 133 mg (69) / Placebo (71) | AUC VAS0-48 | -118 (-151, -84) | <0.0001 |
 
-a: non-inferiority p-value; b: TKA study was a combined Phase 2 (Part 1) and Phase 3 (Part 2) study; only phase 3 results are displayed here.
+a: non-inferiority p-value; b: TKA study was a combined Phase 2 (Part 1) and Phase 3 (Part 2) study; only Phase 3 results are displayed here.
 AUC: area under the curve; NRS-R: numeric rating scale at rest; TKA: total knee arthroplasty; VAS: visual analogue scale; TSA: total shoulder arthroplasty; RCR: rotator cuff repair; (n): number of subjects.
 
-Table 3 Summary of key opioid endpoint results in phase 3 studies
+Table 4 Summary of key opioid endpoint results in Phase 3 studies
 
 | Block Type / Surgery Type | EXPAREL liposomal Dose / Control | Opioid Rescue Medication Use | Opioid-free Subjects |
 | --- | --- | --- | --- |
@@ -59,5 +59,9 @@ TKA: total knee arthroplasty; TSA: total shoulder arthroplasty; RCR: rotator cuf
 LS = Least square.
 
 Of the 1645 patients in the EXPAREL liposomal field block and peripheral nerve block clinical studies, 469 patients were 65 years of age or older and 122 patients were 75 years of age or older.
-
 The European Medicines Agency has deferred the obligation to submit the results of studies with EXPAREL liposomal in one or more subsets of the paediatric population in postsurgical analgesia (see section 4.2 for information on paediatric use).
+
+The safety and pharmacokinetics of EXPAREL when used as a field block in paediatric patients aged 6 years and older is supported by data from study 319, a Phase 3, open-label, multi-centre study to evaluate EXPAREL when administered via infiltration in paediatric subjects aged 12 to less than 17 years undergoing spine surgery (Group 1, n=61) and in paediatric subjects aged 6 to less than 12 years undergoing spine surgery or cardiac surgery (Group 2, n= 34).
+In Group 1, subjects were randomized 1:1 to receive a single dose of either EXPAREL 4 mg/kg (maximum 266 mg) or bupivacaine HCl 2 mg/kg (maximum 175 mg).
+In Group 2, all subjects received a single dose of EXPAREL 4 mg/kg (maximum 266 mg).
+The primary objective of the study was to evaluate the pharmacokinetics of EXPAREL in children 6 years and older.

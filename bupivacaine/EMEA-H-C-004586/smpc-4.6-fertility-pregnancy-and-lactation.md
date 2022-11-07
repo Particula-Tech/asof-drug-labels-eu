@@ -5,6 +5,7 @@ Pregnancy
 There are no or limited amount of data from the use of bupivacaine in pregnant women.
 Studies in animals have shown reproductive toxicity (see section 5.3).
 EXPAREL liposomal is not recommended during pregnancy and in women of childbearing potential not using contraception.
+
 Breastfeeding
 
 Bupivacaine and its metabolite, pipecoloxylidide, are present in human milk at low levels.

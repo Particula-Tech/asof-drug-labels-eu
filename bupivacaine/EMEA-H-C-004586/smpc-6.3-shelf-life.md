@@ -1,6 +1,7 @@
 # 6.3 Shelf life
 
 Unopened vials: 2 years.
+
 After first opening
 
 Chemical and physical in-use stability of EXPAREL liposomal withdrawn from vials and transferred into polypropylene syringes has been demonstrated for 48 hours when stored in a refrigerator (2°C to 8°C), or 6 hours when stored at room temperature (below 25°C).

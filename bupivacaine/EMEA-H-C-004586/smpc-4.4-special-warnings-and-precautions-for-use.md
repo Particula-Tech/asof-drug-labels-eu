@@ -8,7 +8,6 @@ As there is a potential risk of severe life-threatening adverse reactions associ
 
 Careful and constant monitoring of cardiovascular and respiratory (adequacy of ventilation) vital signs and the patient’s state of consciousness should be performed after injection of bupivacaine.
 Restlessness, anxiety, incoherent speech, light headedness, numbness and tingling of the mouth and lips, metallic taste, tinnitus, dizziness, blurred vision, tremors, twitching, depression, or drowsiness may be early warning signs of central nervous system toxicity.
-
 Toxic local anaesthetic blood concentrations depress cardiac conductivity and excitability, which may lead to atrioventricular block, ventricular arrhythmia, and cardiac arrest, which can be fatal.
 In addition, toxic local anaesthetic blood concentrations depress myocardial contractility and cause peripheral vasodilation, leading to decreased cardiac output and arterial blood pressure.
 
@@ -16,6 +15,7 @@ Acute emergencies due to neurological or cardiovascular toxicity from local anae
 
 Injection of multiple doses of bupivacaine and other amide-containing products may cause significant increases in plasma concentrations with each repeated dose due to slow accumulation of the active substance or its metabolites or due to slow metabolic degradation.
 Tolerance to elevated blood concentrations varies with the status of the patient.
+
 Potential cases of LAST have been observed in the post-marketing setting.
 Although the majority with a recorded time to onset were observed within less than 1 hour of EXPAREL liposomal administration, a small number with a time to onset greater than 24 hours was reported.
 No correlation of cases of potential LAST with surgical procedure or route of administration has been found with EXPAREL liposomal, but redosing of EXPAREL liposomal, overdose, or concomitant use with other local anaesthetics may increase the risk of LAST (see section 4.5).
@@ -49,7 +49,6 @@ Urinary excretion is affected by urinary perfusion and factors affecting urinary
 Acidifying the urine hastens the renal elimination of local anaesthetics.
 Various pharmacokinetic parameters of local anaesthetics can be significantly altered by the presence of renal disease, factors affecting urinary pH, and renal blood flow.
 Thus, the risk of toxic reactions to this medicinal product may be greater in patients with impaired renal function.
-
 Allergic reactions
 
 Allergic-type reactions may rarely occur as a result of hypersensitivity to the local anaesthetic or to other formulation ingredients.
@@ -58,6 +57,7 @@ Cross-sensitivity among members of the amide-type local anaesthetic group has be
 Allergic symptoms should be treated symptomatically.
 
 Chondrolysis
+
 Intra-articular infusions of local anaesthetics, including EXPAREL liposomal, following arthroscopic and other surgical procedures are contraindicated (see section 4.3).
 There have been post-marketing reports of chondrolysis in patients receiving such infusions.
 
@@ -80,6 +80,7 @@ Therefore, it is not possible to convert dosing from any other formulations of b
 No substitution with other bupivacaine containing products should be made.
 
 Caution is advised when co-administering EXPAREL liposomal and bupivacaine HCl, particularly when administering to highly vascular areas where higher systemic absorption is expected.
+Admixing of EXPAREL with other local anaesthetics has not been studied in children and is not recommended
 
 Using EXPAREL liposomal followed by other bupivacaine formulations has not been studied in clinical trials.
 However, based on the clinical situation, bupivacaine hydrochloride may be administered, taking into account the relevant PK profiles and individual patient considerations.

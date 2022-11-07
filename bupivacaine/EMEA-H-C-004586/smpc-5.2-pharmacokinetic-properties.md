@@ -10,9 +10,9 @@ In general, peripheral nerve blocks have shown systemic plasma levels of bupivac
 Systemic plasma levels of bupivacaine following administration of EXPAREL liposomal are not correlated with local efficacy.
 The rate of systemic absorption of bupivacaine is dependent upon the total dose of medicine administered, the route of administration, and the vascularity of the administration site.
 
-Descriptive statistics of pharmacokinetic parameters of representative EXPAREL liposomal doses in field block and peripheral nerve block are provided in Table 4 and Table 5, respectively.
+Descriptive statistics of pharmacokinetic parameters of representative EXPAREL liposomal doses in field block and peripheral nerve block in adults are provided in Table 5 and Table 6, respectively.
 
-Table 4 Summary of Pharmacokinetic Parameters for Bupivacaine after Administration of Single Doses of EXPAREL liposomal via Field Block
+Table 5 Summary of Pharmacokinetic Parameters for Bupivacaine after Administration of Single Doses of EXPAREL liposomal via Field Block in Adults
 
 | Parameters | Surgical Site Administration |  |
 | --- | --- | --- |
@@ -25,20 +25,16 @@ Table 4 Summary of Pharmacokinetic Parameters for Bupivacaine after Administrati
 | t½ (h) | 34 (17) | 24 (39) |
 
 AUC0-t = the area under the plasma concentration-versus-time curve from time 0 to the time of the last quantifiable concentration; AUCinf = the area under the plasma concentration-versus-time curve from time 0 extrapolated to infinity; Cmax = maximum plasma concentration; Tmax = time to reach Cmax; t1/2 = apparent terminal elimination half-life;.
-
-Table 5 Summary of Pharmacokinetic Parameters for Bupivacaine after Administration of Single Doses of EXPAREL liposomal via Peripheral Nerve Block
+Table 6 Summary of Pharmacokinetic Parameters for Bupivacaine after Administration of Single Doses of EXPAREL liposomal via Peripheral Nerve Block in Adults
 
 | Parameters | Peripheral Nerve Block (Surgery) |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Femoral Nerve Block (Total Knee Arthroplasty) |  | Brachial Plexus Nerve block (Total Shoulder Arthroplasty) |  |
 |  | 133 mg (10 mL) | 266 mg (20 mL) | 133 mg (10 mL) | 266 mg (20 mL) |
-|  | (N=19) | (N=21) | (N=32) | (N=32) |
+|  | (N = 19) | (N = 21) | (N = 32) | (N = 32) |
 | Cmax (ng/mL) | 282 (127) | 577 (289) | 209.35 (121) | 460.93 (188) |
 | Tmax (h) | 72 | 72 | 48 | 49 |
 | AUC(0-t) (h•ng/mL) | 11,878 (7,870) | 22,099 (11,137) | 11426.28 (7855) | 28669.07 (13205) |
-|  | Femoral Nerve Block (Total Knee Arthroplasty) |  | Brachial Plexus Nerve block (Total Shoulder Arthroplasty) |  |
-|  | 133 mg (10 mL) | 266 mg (20 mL) | 133 mg (10 mL) | 266 mg (20 mL) |
-|  | (N=19) | (N=21) | (N=32) | (N=32) |
 | AUC(inf) (h•ng/mL) | 18,452 (12,092) | 34,491 (5,297) | 12654.57 (8031) | 28774.03 (13275) |
 | t½ (h) | 29.0 (24) | 18.2 (6.) | 11 (4) | 15 (6) |
 
@@ -72,11 +68,27 @@ Only 6% of bupivacaine is excreted unchanged in the urine.
 Various pharmacokinetic parameters of the local anaesthetics can be significantly altered by the presence of renal disease, factors affecting urinary pH, and renal blood flow.
 Based on this knowledge, clinicians should practice caution when administering any local anaesthetics in patients with renal disease, including EXPAREL liposomal.
 From population pharmacokinetics models based on EXPAREL liposomal clinical studies, apparent clearance ranges from 22.9 L/h for wound infiltration studies to 10.6 L/h in regional analgesia, and due to the flip-flop kinetics it reflects the rate of absorption.
-
 Special Populations
+
+Paediatric population
+The pharmacokinetic profiles of bupivacaine after administration of EXPAREL as a single-dose field block were similar in paediatric and adult subjects in matching surgical procedures.
+The summary of bupivacaine pharmacokinetic parameters when EXPAREL administered as a field block in spinal or cardiothoracic procedures in paediatric patients aged 6 years or older is given in Table 7.
+
+Table 7 Summary of Bupivacaine Pharmacokinetic Parameters with EXPAREL and Bupivacaine HCl
+
+| Study No. | Population | Study Drug (Dose) | Global Cmax (ng/mL) | Global Tmax(h) | AUC (0-t) (ng*h/mL) | AUC (0-inf) (ng*h/mL) |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | Mean (SD) | Median (min, max) | Mean (SD) | Mean (SD) |
+| Spinal Procedures |  |  |  |  |  |  |
+| 319 | Group 1: 12 to <17 years (N=16) | EXPAREL 4 mg/kg | 357 (121) | 1.1 (0.3, 26.1) | 9,043 (3,763) | 14,246 (9,119) |
+|  | Group 1: 12 to <17 years (N=15) | Bupivacaine 2 mg/kg | 564 (321) | 0.9 (0.3, 2.5) | 5,233 (2,538) | 5,709 (3,282) |
+|  | Group 2: 6 to <12 years (N=2) | EXPAREL 4 mg/kg | 320 (165) | 7.4 (2.4, 12.3) | 10,250 (5,957) | 11,570 (7,307) |
+| Cardiothoracic procedures |  |  |  |  |  |  |
+| 319 | Group 2: 6 to <12 years (N=21) | EXPAREL 4 mg/kg | 447 (243) | 22.7 (0.2, 54.5) | 16,776 (7,936) | 26,164 (28,038) |
 
 Elderly
 In population pharmacokinetic models based on nerve block and wound infiltration clinical studies, approximately 29% decrease in clearance was observed in elderly patients which was not considered clinically relevant.
+
 Hepatic impairment
 Various pharmacokinetic parameters of the local anaesthetics can be significantly altered by the presence of hepatic disease.
 A study of EXPAREL liposomal administration in patients with mild to moderate hepatic disease found that dosage adjustment in these patients is not required.
