@@ -1,6 +1,6 @@
 # 6.5 Nature and contents of container
 
-Solution in pre-filled syringe (type I glass) marked with a black dosing line, with a plunger stopper (elastomeric rubber) and a Luer lock adaptor with a tip cap (elastomeric rubber).
+Solution in pre-filled syringe (type I glass) marked with a dosing line, with a plunger stopper (elastomeric rubber) and a Luer lock adaptor with a tip cap (elastomeric rubber).
 Each pre-filled syringe contains an extractable volume of at least 0.09 mL.
 Pack size of 1 pre-filled syringe.
 

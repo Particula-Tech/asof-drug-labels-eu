@@ -314,15 +314,15 @@ Treatment effects in the subgroup of patients who had previously been treated wi
 Patients with bilateral disease were eligible to receive anti-VEGF treatment in their fellow eye if assessed necessary by the physician.
 In the VISTADME study, 217 (70.7%) of Eylea patients received bilateral Eylea injections until week 100; in the VIVIDDME study, 97 (35.8%) of Eylea patients received a different anti-VEGF treatment in their fellow eye.
 
-An independent comparative trial (DRCR.net Protocol T) utilised a dosing regimen based on strict OCT and vision re-treatment criteria.
+An independent comparative trial (DRCR.net Protocol T) utilised a flexible dosing regimen based on strict OCT and vision re-treatment criteria.
 In the aflibercept treatment group (n = 224) at week 52, this treatment regimen resulted in patients receiving a mean of 9.2 injections, which is similar to the administered number of doses in the Eylea 2Q8 group in VIVIDDME and VISTADME, while overall efficacy of the aflibercept treatment group in Protocol T was comparable to the Eylea 2Q8 group in VIVIDDME and VISTADME.
-A 13.3 mean letter gain with 42% of patients gaining at least 15 letters in vision from baseline was observed in Protocol T. Ocular and systemic safety profiles (including ATEs) were similar to VIVIDDME and VISTADME.
+A 13.3 mean letter gain with 42% of patients gaining at least 15 letters in vision from baseline was observed in Protocol T. Safety outcomes demonstrated that overall incidence of ocular and non-ocular adverse events (including ATEs) were comparable across all treatment groups in each of the studies and between the studies.
 
 VIOLET, a 100-week multicentre, randomised, open-label, active controlled study in patients with DME compared three different dosing regimens of Eylea 2 mg for treatment of DME after at least one year of treatment at fixed intervals, where treatment was initiated with 5 consecutive monthly doses followed by dosing every 2 months.
 The study evaluated non-inferiority of Eylea 2 mg dosed according to a treat-and-extend regimen (2T&E where injections intervals were kept at a minimum of 8 weeks and gradually extended based onclinical and anatomical outcomes) and Eylea 2 mg dosed as needed (2PRN where patients were observed every 4 weeks and injected when needed based on clinical and anatomical outcomes), compared to Eylea 2 mg dosed every 8 weeks (2Q8) for the second and third year of treatment.
 
 The primary efficacy endpoint (change in BCVA from baseline to week 52) was 0.5 ± 6.7 letters in the 2T&E group and 1.7 ± 6.8 letters in the 2PRN group compared to 0.4 ± 6.7 letters in the 2Q8 group, achieving statistical non-inferiority (p<0.0001 for both comparisons; NI margin 4 letters).
-The changes in BCVA from baseline to week 100 were consistent with the week 52 results: -0.1 ± 9.1 letters in the 2T&E group and 1.8 ± 9.0 letters in the 2PRN group compared to 0.4 ± 6.7 letters in the 2Q8 group.
+The changes in BCVA from baseline to week 100 were consistent with the week 52 results: -0.1 ± 9.1 letters in the 2T&E group and 1.8 ± 9.0 letters in the 2PRN group compared to 0.1 ± 7.2 letters in the 2Q8 group.
 The mean number of injections over 100 weeks were 12.3, 10.0 and 11.5 for 2Q8fix, 2T&E and 2PRN, respectively.
 
 Ocular and systemic safety profiles in all 3 treatment groups were similar to those observed in the pivotal studies VIVID and VISTA.
@@ -420,6 +420,8 @@ C) LS mean difference and 95% CI based on an ANCOVA model with treatment group, 
 (> 20/200 and ≤ 20/200) and region (North America vs. Japan) as fixed effects, and baseline BCVA as covariate.
 
 In the VISTADME study, 217 (70.7%) of Eylea patients received bilateral Eylea injections until week100; in the VIVIDDME study, 97 (35.8%) of Eylea patients received a different anti-VEGF treatment in their fellow eye.
+
+A 13.3 mean letter gain with 42% of patients gaining at least 15 letters in vision from baseline was observed in Protocol T. Safety outcomes demonstrated that overall incidences of ocular and non-ocular adverse events (including ATEs) were comparable across all treatment groups in each of the studies and between the studies.
 
 The study evaluated non-inferiority of Eylea 2 mg dosed according to a treat-and-extend regimen (2T&E where injections intervals were kept at a minimum of 8 weeks and gradually extended based on clinical and anatomical outcomes) and Eylea 2 mg dosed as needed (2PRN where patients were observed every 4 weeks and injected when needed based on clinical and anatomical outcomes), compared to Eylea 2 mg dosed every 8 weeks (2Q8) for the second and third year of treatment.
 

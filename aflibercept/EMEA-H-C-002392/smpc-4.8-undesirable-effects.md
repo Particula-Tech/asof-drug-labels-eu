@@ -40,8 +40,8 @@ There is a theoretical risk of arterial thromboembolic events, including stroke 
 
 A low incidence rate of arterial thromboembolic events was observed in the Eylea clinical trials in patients with AMD, DME, RVO and myopic CNV.
 Across indications no notable difference between the groups treated with aflibercept and the respective comparator groups were observed.
-As with all therapeutic proteins, there is a potential for immunogenicity with Eylea.
 
+As with all therapeutic proteins, there is a potential for immunogenicity with Eylea.
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.

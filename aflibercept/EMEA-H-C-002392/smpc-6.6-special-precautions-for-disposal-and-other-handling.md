@@ -32,7 +32,8 @@ Using aseptic technique, firmly twist the injection needle onto the Luer-lock sy
 Holding the syringe with the needle pointing up, check the syringe for bubbles.
 If there are bubbles, gently tap the syringe with your finger until the bubbles rise to the top.
 7.
-Eliminate all bubbles and expel excess medicinal product by slowly depressing the plunger to align the base of the plunger dome (not the tip of the dome) with the black dosing line on the syringe (equivalent to 0.05 mL, i.e. 2 mg aflibercept).
+Eliminate all bubbles and expel excess medicinal product by slowly depressing the plunger to align the base of the plunger dome (not the tip of the dome) with the dosing line on the syringe
+(equivalent to 0.05 mL, i.e. 2 mg aflibercept).
 
 Note: This accurate positioning of the plunger is very important, because incorrect plunger positioning can lead to delivering more or less than the labelled dose.
 
@@ -78,6 +79,7 @@ Note: Filter needle is not to be used for intravitreal injection.
 Using aseptic technique, firmly twist a 30 G x ½ inch injection needle onto the Luer-lock syringe tip.
 
 Eliminate all bubbles and expel excess medicinal product by slowly depressing the plunger so that the flat plunger edge aligns with the line that marks 0.05 mL on the syringe.
+
 10.
 The vial is for single use only.
 Extraction of multiple doses from a single vial may increase the risk of contamination and subsequent infection.

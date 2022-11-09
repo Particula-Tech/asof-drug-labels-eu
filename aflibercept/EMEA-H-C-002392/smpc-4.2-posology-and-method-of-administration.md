@@ -43,21 +43,19 @@ Diabetic macular oedema
 The recommended dose for Eylea is 2 mg aflibercept equivalent to 0.05 mL.
 
 Eylea treatment is initiated with one injection per month for five consecutive doses, followed by one injection every two months.
-There is no requirement for monitoring between injections.
 
-After the first 12 months of treatment with Eylea, and based on the physician’s judgement of visual and/or anatomic outcomes, the treatment interval may be extended, such as with a treat-and-extend dosing regimen, where the treatment intervals are usually increased by 2-week increments to maintain stable visual and/or anatomic outcomes.
+Based on the physician’s judgement of visual and/or anatomic outcomes, the treatment interval may be maintained at 2 months or individualized, such as with a treat-and-extend dosing regimen, where the treatment intervals are usually increased by 2-week increments to maintain stable visual and/or anatomic outcomes.
 There are limited data for treatment intervals longer than 4 months.
 If visual and/or anatomic outcomes deteriorate, the treatment interval should be shortened accordingly.
+Treatment intervals shorter than 4 weeks have not been studied (see section 5.1).
 
-The schedule for monitoring should therefore be determined by the treating physician and may be more frequent than the schedule of injections.
+The schedule for monitoring should be determined by the treating physician.
 
 If visual and anatomic outcomes indicate that the patient is not benefiting from continued treatment, Eylea should be discontinued.
 
-Treatment intervals shorter than 4 weeks between injections have not been studied (see section 5.1).
 Myopic choroidal neovascularisation
 
 The recommended dose for Eylea is a single intravitreal injection of 2 mg aflibercept equivalent to 0.05 mL.
-
 Additional doses may be administered if visual and/or anatomic outcomes indicate that the disease persists.
 Recurrences should be treated as a new manifestation of the disease.
 
@@ -102,9 +100,9 @@ The pre-filled syringe contains more than the recommended dose of 2 mg afliberce
 The extractable volume of the syringe is the amount that can be expelled from the syringe and is not to be used in total.
 For the Eylea pre-filled syringe, the extractable volume is at least 0.09 mL.
 The excess volume must be expelled before injecting the recommended dose (see section 6.6).
-Injecting the entire volume of the pre-filled syringe could result in overdose.
-To expel the air bubbles along with excess medicinal product, slowly depress the plunger to align the base of the plunger dome (not the tip of the dome) with the black dosing line on the syringe (equivalent to 0.05 mL, i.e. 2 mg aflibercept) (see sections 4.9 and 6.6).
 
+Injecting the entire volume of the pre-filled syringe could result in overdose.
+To expel the air bubbles along with excess medicinal product, slowly depress the plunger to align the base of the plunger dome (not the tip of the dome) with the dosing line on the syringe (equivalent to 0.05 mL, i.e. 2 mg aflibercept) (see sections 4.9 and 6.6).
 After injection any unused product must be discarded.
 
 For handling of the medicinal product before administration, see section 6.6.
@@ -117,5 +115,6 @@ Extraction of multiple doses from a single vial may increase the risk of contami
 The vial contains more than the recommended dose of 2 mg aflibercept (equivalent to 0.05 mL solution for injection).
 The extractable volume of the vial is the amount that can be withdrawn from the vial and is not to be used in total.
 For the Eylea vial, the extractable volume is at least 0.1 mL.
+
 Injecting the entire volume of the vial could result in overdose.
 To expel the air bubbles along with excess medicinal product, slowly depress the plunger so that the flat plunger edge aligns with the line that marks 0.05 mL on the syringe (equivalent to 0.05 mL, i.e. 2 mg aflibercept) (see sections 4.9 and 6.6).
