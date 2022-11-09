@@ -12,9 +12,9 @@ In patients presenting with fever, neutropenia and a compatible pattern of abdom
 Topotecan has been associated with reports of interstitial lung disease (ILD), some of which have been fatal (see section 4.8).
 Underlying risk factors include history of ILD, pulmonary fibrosis, lung cancer, thoracic exposure to radiation and use of pneumotoxic substances and/or colony stimulating factors.
 Patients should be monitored for pulmonary symptoms indicative of ILD (e.g. cough, fever, dyspnoea and/or hypoxia), and topotecan should be discontinued if a new diagnosis of ILD is confirmed.
-
 Topotecan monotherapy and topotecan in combination with cisplatin are commonly associated with clinically relevant thrombocytopenia.
 This should be taken into account when prescribing HYCAMTIN, e.g. if patients at increased risk of tumour bleeds are considered for therapy.
+
 As would be expected, patients with poor performance status (PS >1) have a lower response rate and an increased incidence of complications such as fever, infection and sepsis (see section 4.8).
 Accurate assessment of performance status at the time therapy is given is important, to ensure that patients have not deteriorated to PS 3.
 
@@ -45,4 +45,5 @@ Communication with patients prior to drug administration regarding these side ef
 Cancer treatment-induced diarrhoea (CTID) is associated with significant morbidity and may be life-threatening.
 Should diarrhoea occur during treatment with oral topotecan, physicians are advised to aggressively manage diarrhoea.
 Clinical guidelines describing the aggressive management of CTID include specific recommendations on patient communication and awareness, recognition of early warning signs, use of anti-diarrhoeals and antibiotics, changes in fluid intake and diet, and need for hospitalisation (see sections 4.2 and 4.8).
+
 Intravenous topotecan should be considered in the following clinical situations: uncontrolled emesis, swallowing disorders, uncontrolled diarrhoea, clinical conditions and medication that may alter gastrointestinal motility and drug absorption.

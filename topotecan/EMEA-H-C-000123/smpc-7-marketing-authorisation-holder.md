@@ -1,7 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-Vista Building
-Elm Park, Merrion Road
-Dublin 4
-Ireland
+Sandoz Pharmaceuticals d.d.
+Verovškova ulica 57
+1000 Ljubljana
+Slovenia

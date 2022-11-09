@@ -5,6 +5,7 @@ HYCAMTIN 1 mg powder for concentrate for solution for infusion
 The contents of HYCAMTIN 1 mg vials must be reconstituted with 1.1 ml water for injections.
 Since the vial contains a 10% overage, the clear, reconstituted solution is yellow to yellow-green in colour and provides 1 mg of topotecan per ml.
 Further dilution of the appropriate volume of the reconstituted solution with either sodium chloride 9 mg/ml (0.9%) or 5% w/v glucose is required to give a final concentration of between 25 and 50 microgram/ml.
+
 HYCAMTIN 4 mg powder for concentrate for solution for infusion
 
 The contents of HYCAMTIN 4 mg vials must be reconstituted with 4 ml water for injections.
