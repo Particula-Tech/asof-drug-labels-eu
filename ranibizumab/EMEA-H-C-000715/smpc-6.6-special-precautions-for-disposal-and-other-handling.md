@@ -31,11 +31,10 @@ For preparation and intravitreal injection the following medical devices for sin
 - a low volume high accuracy sterile syringe, provided together with an injection needle
 
 (30G x ½″) in the VISISURE kit (not included within this pack), for preterm infants
-
 To prepare Lucentis for intravitreal administration to adults, please adhere to the following instructions:
 
 1.
-Before withdrawal, the outer part of the rubber stopper of the vial should be disinfected.
+Before withdrawal, remove the vial cap and clean the vial septum (e.g. with 70% alcohol swab).
 
 2.
 Assemble a 5 µm filter needle (18G x 1½″, 1.2 mm x 40 mm) onto a 1 ml syringe using aseptic technique.
@@ -50,6 +49,7 @@ Ensure that the plunger rod is drawn sufficiently back when emptying the vial in
 5.
 Leave the blunt filter needle in the vial and disconnect the syringe from the blunt filter needle.
 The filter needle should be discarded after withdrawal of the vial contents and should not be used for the intravitreal injection.
+
 6.
 Aseptically and firmly assemble an injection needle (30G x ½″, 0.3 mm x 13 mm) onto the syringe.
 

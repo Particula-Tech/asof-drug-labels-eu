@@ -83,11 +83,12 @@ A low incidence rate of arterial thromboembolic events was observed in the Lucen
 
 Paediatric population
 
-The safety of Lucentis 0.2 mg was studied in a 6-month clinical trial (RAINBOW), which included 73 preterm infants with ROP treated with ranibizumab 0.2 mg (see section 5.1).
+The safety of Lucentis 0.2 mg was studied in a 6month clinical trial (RAINBOW), which included 73 preterm infants with ROP treated with ranibizumab 0.2 mg (see section 5.1).
 Ocular adverse reactions reported in more than one patient treated with ranibizumab 0.2 mg were retinal haemorrhage and conjunctival haemorrhage.
 Non-ocular adverse reactions reported in more than one patient treated with ranibizumab 0.2 mg were nasopharyngitis, anaemia, cough, urinary tract infection and allergic reactions.
 Adverse reactions established for adult indications are considered applicable to preterm infants with ROP, though not all were observed in the RAINBOW trial.
-The long-term safety profile in preterm infants has not been established.
+Long-term safety in preterm infants with ROP has been studied for 2 years in the RAINBOW extension trial and showed no new safety signals.
+The safety profile in preterm infants has not been established beyond 2 years.
 
 Reporting of suspected adverse reactions
 

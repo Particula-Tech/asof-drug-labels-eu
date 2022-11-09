@@ -162,6 +162,32 @@ Key outcome measures are summarised in Table 5 (RESTORE and Extension) and Figur
 
 Figure 4 Mean change in visual acuity from baseline over time in study D2301 (RESTORE)
 
+12
+
+10
+
+8
++ 6.8/+ 6.4
+6
+
+4
++ 6.2/+ 5.4*
+
+2
++ 0.9
+0
+
+-2
+
+-4
+0 1 2 3 4 5 6 7 8 9 10 11 12
+Month
+
+Treatment group Ranibizumab 0.5 mg (N = 115)
+
+Ranibizumab 0.5 mg + Laser (N = 118)
+Laser (N = 110)
+
 BL=baseline; SE=standard error of mean
 * Difference in least square means, p<0.0001/0.0004 based on two-sided stratified Cochran-Mantel-Haenszel test
 

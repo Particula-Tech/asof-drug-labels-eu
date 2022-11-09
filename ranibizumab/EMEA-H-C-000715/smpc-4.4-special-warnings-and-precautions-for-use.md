@@ -1,11 +1,15 @@
 # 4.4 Special warnings and precautions for use
 
+Traceability
+
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 Intravitreal injection-related reactions
 
 Intravitreous injections, including those with Lucentis, have been associated with endophthalmitis, intraocular inflammation, rhegmatogenous retinal detachment, retinal tear and iatrogenic traumatic cataract (see section 4.8).
 Proper aseptic injection techniques must always be used when administering Lucentis.
 In addition, patients should be monitored during the week following the injection to permit early treatment if an infection occurs.
 Patients should be instructed to report any symptoms suggestive of endophthalmitis or any of the above mentioned events without delay.
+
 Intraocular pressure increases
 
 In adults transient increases in intraocular pressure (IOP) have been seen within 60 minutes of injection of Lucentis.
@@ -42,14 +46,15 @@ Retinal pigment epithelial tear
 
 Risk factors associated with the development of a retinal pigment epithelial tear after anti-VEGF therapy for wet AMD and potentially also other forms of CNV, include a large and/or high pigment epithelial retinal detachment.
 When initiating ranibizumab therapy, caution should be used in patients with these risk factors for retinal pigment epithelial tears.
-
 Rhegmatogenous retinal detachment or macular holes in adults
 
 Treatment should be discontinued in subjects with rhegmatogenous retinal detachment or stage 3 or 4 macular holes.
+
 Paediatric population
 
 The warnings and precautions for adults also apply to preterm infants with ROP.
-The long-term safety profile in preterm infants has not been established.
+Long-term safety in preterm infants with ROP has been studied for 2 years in the RAINBOW extension trial and showed no new safety signals.
+The safety profile in preterm infants has not been established beyond 2 years.
 
 Populations with limited data
 

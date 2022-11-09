@@ -14,8 +14,9 @@ For women who wish to become pregnant and have been treated with ranibizumab, it
 
 Breast-feeding
 
-It is unknown whether Lucentis is excreted in human milk.
-Breast-feeding is not recommended during the use of Lucentis.
+Based on very limited data, ranibizumab may be excreted in human milk at low levels.
+The effect of ranibizumab on a breast-fed newborn/infant is unknown.
+As a precautionary measure, breast-feeding is not recommended during the use of Lucentis.
 
 Fertility
 
