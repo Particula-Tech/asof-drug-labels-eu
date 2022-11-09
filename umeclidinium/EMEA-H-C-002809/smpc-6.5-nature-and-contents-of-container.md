@@ -8,6 +8,6 @@ The inhaler is a multi-component device composed of polypropylene, high density 
 The inhaler contains one aluminium foil laminate blister of 7 or 30 doses.
 
 Pack sizes of 7 and 30 dose inhaler.
-Multipack of 3 x 30 dose inhalers.
+Multipacks containing 90 (3 inhalers of 30) doses.
 
 Not all pack sizes may be marketed.
