@@ -7,7 +7,7 @@ Infections
 Ustekinumab may have the potential to increase the risk of infections and reactivate latent infections.
 In clinical studies, serious bacterial, fungal, and viral infections have been observed in patients receiving STELARA (see section 4.8).
 
-Opportunistic infections have been reported in patients treated with ustekinumab.
+Opportunistic infections including reactivation of tuberculosis, other opportunistic bacterial infections (including atypical mycobacterial infection, listeria meningitis, pneumonia legionella, and nocardiosis), opportunistic fungal infections, opportunistic viral infections (including encephalitis caused by herpes simplex 2), and parasitic infections (including ocular toxoplasmosis) have been reported in patients treated with ustekinumab.
 
 Caution should be exercised when considering the use of STELARA in patients with a chronic infection or a history of recurrent infection (see section 4.3).
 
@@ -57,7 +57,6 @@ Prescribers should consult the Summary of Product Characteristics for the specif
 Patients receiving STELARA may receive concurrent inactivated or non-live vaccinations.
 
 Long term treatment with STELARA does not suppress the humoral immune response to pneumococcal polysaccharide or tetanus vaccines (see section 5.1).
-
 Concomitant immunosuppressive therapy
 In psoriasis studies, the safety and efficacy of STELARA in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated.
 In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of STELARA.
@@ -74,6 +73,11 @@ Patients with plaque psoriasis may develop erythrodermic psoriasis, with symptom
 As part of the monitoring of the patient’s psoriasis, physicians should be alert for symptoms of erythrodermic psoriasis or exfoliative dermatitis.
 If these symptoms occur, appropriate therapy should be instituted.
 STELARA should be discontinued if a drug reaction is suspected.
+
+Lupus-related conditions
+Cases of lupus-related conditions have been reported in patients treated with ustekinumab, including cutaneous lupus erythematosus and lupus-like syndrome.
+If lesions occur, especially in sun exposed areas of the skin or if accompanied by arthralgia, the patient should seek medical attention promptly.
+If the diagnosis of a lupus-related condition is confirmed, ustekinumab should be discontinued and appropriate treatment initiated.
 
 Special populations
 Elderly (≥65 years)

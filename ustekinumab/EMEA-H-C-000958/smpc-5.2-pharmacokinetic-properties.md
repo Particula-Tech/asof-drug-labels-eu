@@ -63,7 +63,7 @@ The median trough serum concentrations of ustekinumab in patients with higher we
 Similar results were obtained from a confirmatory population pharmacokinetic analysis using data from patients with psoriatic arthritis.
 
 Dosing frequency adjustment
-In patients with Crohn’s disease and ulcerative colitis, based on observed data and population PK analyses, randomized subjects who lost response to treatment had lower serum ustekinumab concentrations over time compared with subjects who did not lose response.
+In patients with Crohn’s disease and ulcerative colitis, based on observed data and population PK analyses, randomised subjects who lost response to treatment had lower serum ustekinumab concentrations over time compared with subjects who did not lose response.
 In Crohn’s disease, dose adjustment from 90 mg every 12 weeks to 90 mg every 8 weeks was associated with an increase in trough serum ustekinumab concentrations and an accompanying increase in efficacy.
 In ulcerative colitis, population PK model based simulations demonstrated that adjusting dosing from 90 mg every 12 weeks to every 8 weeks would be expected to result in a 3-fold increase in steady-state trough ustekinumab concentrations.
 Additionally on the basis of clinical trial data in patients with ulcerative colitis, a positive exposure-response relationship was established between trough concentrations, and clinical remission and mucosal healing.

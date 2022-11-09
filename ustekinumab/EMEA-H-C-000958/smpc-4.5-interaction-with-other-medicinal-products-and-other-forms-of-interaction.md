@@ -7,7 +7,6 @@ In the population pharmacokinetic analyses of the phase 3 studies, the effect of
 There were no indications of an interaction with these concomitantly administered medicinal products.
 The basis for this analysis was that at least 100 patients (> 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period.
 The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6-mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn’s disease or ulcerative colitis, or prior exposure to anti-TNFα agents, in patients with psoriatic arthritis or Crohn’s disease or by prior exposure to biologics (i.e. anti-TNFα agents and/or vedolizumab) in patients with ulcerative colitis.
-
 The results of an in vitro study do not suggest the need for dose adjustments in patients who are receiving concomitant CYP450 substrates (see section 5.2).
 
 In psoriasis studies, the safety and efficacy of STELARA in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated.

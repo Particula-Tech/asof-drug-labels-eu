@@ -13,6 +13,7 @@ This includes exposure to STELARA in the controlled and non-controlled periods o
 Table 2 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience.
 The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥1/10), Common (≥1/100 to < 1/10), Uncommon (≥1/1,000 to < 1/100), Rare (≥1/10,000 to < 1/1,000), Very rare (< 1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
 Table 2 List of adverse reactions
 
 System Organ Class Frequency: Adverse reaction
@@ -43,10 +44,11 @@ Skin and subcutaneous tissue Common: Pruritus
 disorders Uncommon: Pustular psoriasis, skin exfoliation, acne
 
 Rare: Exfoliative dermatitis, hypersensitivity vasculitis
-Very rare: Bullous pemphigoid
+Very rare: Bullous pemphigoid, cutaneous lupus erythematosus
 
-Musculoskeletal and connective Common: Back pain, myalgia, arthralgia tissue disorders
+Musculoskeletal and connective Common: Back pain, myalgia, arthralgia
 
+tissue disorders Very rare: Lupus-like syndrome
 General disorders and Common: Fatigue, injection site erythema, injection site pain
 
 administration site conditions Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia
@@ -61,6 +63,7 @@ Serious infections occurred at the rate of 0.03 per patient-year of follow-up in
 
 In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies, representing 11,581 patient-years of exposure in 6,709 patients, the median follow-up was 1.0 years; 1.1 years for psoriatic disease studies, 0.6 year for Crohn’s disease studies and 1.0 years for ulcerative colitis studies.
 The rate of infection was 0.91 per patient-year of follow-up in ustekinumab-treated patients, and the rate of serious infections was 0.02 per patient-year of follow-up in ustekinumab-treated patients (199 serious infections in 11,581 patient-years of follow-up) and serious infections reported included pneumonia, anal abscess, cellulitis, diverticulitis, gastroenteritis and viral infections.
+
 In clinical studies, patients with latent tuberculosis who were concurrently treated with isoniazid did not develop tuberculosis.
 
 Malignancies
@@ -96,6 +99,8 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience.
 
 Table 3 List of adverse reactions
+
+Very rare: Bullous pemphigoid, cutaneous lupus erythematosus Musculoskeletal and connective Common: Back pain, myalgia, arthralgia
 
 In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn’s disease and ulcerative colitis clinical studies, representing 11,581 patient-years of exposure in 6,709 patients, the median follow-up was 1.0 years; 1.1 years for psoriatic disease studies, 0.6 year for Crohn’s disease studies, and 1.0 years for ulcerative colitis studies.
 

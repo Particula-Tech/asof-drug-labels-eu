@@ -1,9 +1,10 @@
 # 6.6 Special precautions for disposal and other handling
 
 The solution in the STELARA vial should not be shaken.
-The solution should be visually inspected for particulate matter or discoloration prior to administration.
+The solution should be visually inspected for particulate matter or discolouration prior to administration.
 The solution is clear, colourless to light yellow.
 The medicinal product should not be used if the solution is discoloured or cloudy, or if foreign particulate matter is present.
+
 Dilution
 STELARA concentrate for solution for infusion must be diluted and prepared by a healthcare professional using aseptic technique.
 
@@ -20,7 +21,7 @@ The final volume in the infusion bag should be 250 mL.
 Gently mix.
 4.
 Visually inspect the diluted solution before administration.
-Do not use if visibly opaque particles, discoloration or foreign particles are observed.
+Do not use if visibly opaque particles, discolouration or foreign particles are observed.
 5.
 Administer the diluted solution over a period of at least one hour.
 Once diluted, the infusion should be completed within eight hours of the dilution in the infusion bag.
@@ -32,7 +33,7 @@ Each vial is for single use only and any unused medicinal product should be disp
 [STELARA 45 mg solution for injection]
 
 The solution in the STELARA vial or pre-filled syringe should not be shaken.
-The solution should be visually inspected for particulate matter or discoloration prior to subcutaneous administration.
+The solution should be visually inspected for particulate matter or discolouration prior to subcutaneous administration.
 The solution is clear to slightly opalescent, colourless to light yellow and may contain a few small translucent or white particles of protein.
 This appearance is not unusual for proteinaceous solutions.
 Before administration, STELARA should be allowed to reach room temperature (approximately half an hour).
