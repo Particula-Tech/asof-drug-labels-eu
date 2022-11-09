@@ -13,7 +13,7 @@ In total 496 patients were exposed to Kentera in the randomised, double-blind, p
 Of these 188 patients (38%) were 65 years of age and older and exhibited no overall differences in safety or effectiveness compared to younger patients.
 Thus based on current clinical evidence no need for dose adjustment in elderly patients is considered necessary.
 Psychiatric and central nervous system (CNS) anticholinergic events like sleep disorders (e.g. insomnia) and cognitive disorders have been associated with oxybutynin use, especially in elderly patients.
-Caution should be exercised when oxybutynin is administrated concomitantly with other anticholinergic medicines (see also section 4.5).
+Caution should be exercised when oxybutynin is administrated concomitantly with other anticholinergic medicinal products (see also section 4.5).
 If a patient experiences such events, drug discontinuation should be considered.
 
 Other psychiatric events implying an anticholinergic mechanism have been reported during post-marketing use (see section 4.8).
@@ -24,36 +24,9 @@ Gastrointestinal disorders: Anticholinergic medicinal products may decrease gast
 Also in conditions such as ulcerative colitis, and intestinal atony.
 Anticholinergic medicinal products should be used with caution in patients who have hiatus hernia/gastro-oesophageal reflux and/or who are concurrently taking medicinal products (such as bisphosphonates) that can cause or exacerbate oesophagitis.
 
-Anticholinergic medicinal products should be used with caution in patients who have autonomic neuropathy, cognitive impairment or Parkinson's disease
+Anticholinergic medicinal products should be used with caution in patients who have autonomic neuropathy, cognitive impairment or Parkinson's disease.
 
 Patients should be informed that heat prostration (fever and heat stroke due to decreased sweating) can occur when anticholinergics such as oxybutynin are used in a hot environment.
-Oxybutynin may exacerbate the symptoms of hyperthyroidism, coronary heart disease, congestive heart failure, cardiac arrhythmias, tachycardia, hypertension and prostatic hypertrophy
+Oxybutynin may exacerbate the symptoms of hyperthyroidism, coronary heart disease, congestive heart failure, cardiac arrhythmias, tachycardia, hypertension and prostatic hypertrophy.
 
 Oxybutynin may lead to suppressed salivary secretions which could result in dental caries, parodontosis or oral candidiasis.
-
-[Kentera 90.7 mg/g gel in sachet]
-
-As the stratum corneum is the rate-limiting step in transdermal delivery, any breach would provide direct access to the epidermis, potentially increasing penetration and facilitating the migration of the medicinal product to the blood stream.
-Kentera should therefore not be applied to a recently shaved or damaged skin surface.
-
-Avoid bathing, swimming, showering, exercising or immersing the application site in water for one hour after application.
-
-It is recommended to cover the application site with clothing once Kentera has dried.
-
-The effect of fever, exposition to external heat sources, sun bathing and sauna on the absorption characteristics of Kentera have not been investigated.
-
-Impaired metabolism
-
-The use of Kentera in patients with hepatic impairment should be carefully monitored since oxybutynin is extensively hepatic metabolised.
-
-Urinary retention
-
-Anticholinergic medicinal products should be administered with caution to patients with clinically significant bladder outflow obstruction because of the risk of urinary retention.
-
-Gastrointestinal disorders
-
-Anticholinergic medicinal products may decrease gastrointestinal motility and should be used with caution in patients with gastrointestinal obstructive disorders because of the risk of gastric retention, and in conditions such as ulcerative colitis, and intestinal atony.
-
-[Kentera 90.7 mg/g gel]
-
-(all sentences already above)

@@ -6,14 +6,5 @@ Kentera delivers approximately 0.08 mg/kg/day.
 However, in the absence of understanding the association between maternal toxicity and developmental effect, the relevance to human safety cannot be addressed.
 In the subcutaneous fertility study in rats, while no effects were reported in males, in females, fertility was impaired and a NOAEL (no observed adverse effect level) of 5 mg/kg was identified.
 
-Environmental Risk Assessment
+Environmental risk assessment (ERA)
 The active substance oxybutynin is persistent in the environment.
-
-[Kentera 90.7 mg/g gel in sachet]
-
-Non-clinical data reveal no special hazard for humans based on studies for acute toxicity, repeat dose toxicity, genotoxicity, carcinogenicity and local toxicity.
-Adverse reactions were observed in embryotoxicity studies in the rabbit.
-
-[Kentera 90.7 mg/g gel]
-
-(all sentences already above)
