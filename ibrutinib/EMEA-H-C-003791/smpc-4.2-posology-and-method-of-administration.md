@@ -21,21 +21,33 @@ The dose of ibrutinib should be reduced to 280 mg once daily (two capsules) when
 
 The dose of ibrutinib should be reduced to 140 mg once daily (one capsule) or withheld for up to 7 days when it is used concomitantly with strong CYP3A4 inhibitors.
 
-IMBRUVICA therapy should be withheld for any new onset or worsening grade ≥3 non-haematological toxicity, grade 3 or greater neutropenia with infection or fever, or grade 4 haematological toxicities.
-Once the symptoms of the toxicity have resolved to grade 1 or baseline (recovery), IMBRUVICA therapy may be reinitiated at the starting dose.
-If the toxicity reoccurs, the once daily dose should be reduced by one capsule (140 mg).
-A second reduction of dose by 140 mg may be considered as needed.
-If these toxicities persist or recur following two dose reductions, discontinue the medicinal product.
+IMBRUVICA therapy should be withheld for any new onset or worsening grade 2 cardiac failure, grade 3 cardiac arrhythmias, grade ≥3 non-haematological toxicity, grade 3 or greater neutropenia with infection or fever, or grade 4 haematological toxicities.
+Once the symptoms of the toxicity have resolved to grade 1 or baseline (recovery), resume IMBRUVICA therapy at the recommended dose as per the tables below.
 
-Recommended dose modifications are described below:
+Recommended dose modifications for non-cardiac events are described below:
 
-| Toxicity occurrence | MCL dose modification after recovery | CLL/WM dose modification after recovery |
-| --- | --- | --- |
-| First | restart at 560 mg daily | restart at 420 mg daily |
-| Second | restart at 420 mg daily | restart at 280 mg daily |
-| Third | restart at 280 mg daily | restart at 140 mg daily |
-| Fourth | discontinue IMBRUVICA | discontinue IMBRUVICA |
+| Events | Toxicity occurrence | MCL dose modification after recovery | CLL/WM dose modification after recovery |
+| --- | --- | --- | --- |
+| Grade 3 or 4 non-haematological toxicities Grade 3 or 4 neutropenia with infection or fever Grade 4 haematological toxicities | First* | restart at 560 mg daily | restart at 420 mg daily |
+|  | Second | restart at 420 mg daily | restart at 280 mg daily |
+|  | Third | restart at 280 mg daily | restart at 140 mg daily |
+|  | Fourth | discontinue IMBRUVICA | discontinue IMBRUVICA |
 
+* When resuming treatment, restart at the same or lower dose based on benefit-risk evaluation.
+If the toxicity reoccurs, reduce daily dose by 140 mg.
+
+Recommended dose modifications for events of cardiac failure or cardiac arrhythmias events are described below:
+
+| Events | Toxicity occurrence | MCL dose modification after recovery | CLL/WM dose modification after recovery |
+| --- | --- | --- | --- |
+| Grade 2 cardiac failure | First | restart at 420 mg daily | restart at 280 mg daily |
+|  | Second | restart at 280 mg daily | restart at 140 mg daily |
+|  | Third | discontinue IMBRUVICA |  |
+| Grade 3 cardiac arrhythmias | First | restart at 420 mg daily† | restart at 280 mg daily† |
+|  | Second | discontinue IMBRUVICA |  |
+| Grade 3 or 4 cardiac failure Grade 4 cardiac arrhythmias | First | discontinue IMBRUVICA |  |
+
+† Evaluate the benefit-risk before resuming treatment.
 Missed dose
 If a dose is not taken at the scheduled time, it can be taken as soon as possible on the same day with a return to the normal schedule the following day.
 The patient should not take extra capsules to make up the missed dose.
@@ -62,6 +74,7 @@ It is not recommended to administer IMBRUVICA to patients with severe hepatic im
 
 Severe cardiac disease
 Patients with severe cardiovascular disease were excluded from IMBRUVICA clinical studies.
+
 Paediatric population
 IMBRUVICA is not recommended for use in children and adolescents aged 0 to 18 years as efficacy has not been established.
 Currently available data in patients with mature B-cell non-Hodgkin lymphoma are described in sections 4.8, 5.1 and 5.2.
@@ -80,8 +93,6 @@ The recommended dose for the treatment of CLL and WM, either as a single agent o
 The dose of ibrutinib should be reduced to 280 mg once daily when used concomitantly with moderate CYP3A4 inhibitors.
 
 The dose of ibrutinib should be reduced to 140 mg once daily or withheld for up to 7 days when it is used concomitantly with strong CYP3A4 inhibitors.
-
-If the toxicity reoccurs, the once daily dose should be reduced by 140 mg.
 
 The patient should not take extra tablets to make up the missed dose.
 

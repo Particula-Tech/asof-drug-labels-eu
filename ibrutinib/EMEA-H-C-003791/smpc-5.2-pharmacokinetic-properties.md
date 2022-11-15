@@ -43,11 +43,11 @@ There are insufficient data to evaluate the potential effect of race on ibrutini
 Body weight
 Population pharmacokinetics data indicated that body weight (range: 41-146 kg; mean [SD]:
 83 [19 kg]) had a negligible effect on ibrutinib clearance.
+
 Renal impairment
 Ibrutinib has minimal renal clearance; urinary excretion of metabolites is <10% of the dose.
 No specific studies have been conducted to date in subjects with impaired renal function.
 There are no data in patients with severe renal impairment or patients on dialysis (see section 4.2).
-
 Hepatic impairment
 Ibrutinib is metabolised in the liver.
 A hepatic impairment trial was performed in non-cancer subjects administered a single dose of 140 mg of medicinal product under fasting conditions.

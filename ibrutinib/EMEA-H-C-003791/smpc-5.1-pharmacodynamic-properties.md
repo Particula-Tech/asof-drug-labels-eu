@@ -19,7 +19,6 @@ This effect has also been observed in about one third of patients with relapsed 
 This observed lymphocytosis is a pharmacodynamic effect and should not be considered progressive disease in the absence of other clinical findings.
 In both disease types, lymphocytosis typically occurs during the first month of IMBRUVICA therapy and typically resolves within a median of 8.0 weeks in patients with MCL and 14 weeks in patients with CLL.
 A large increase in the number of circulating lymphocytes (e.g., >400 000/mcL) has been observed in some patients.
-
 Lymphocytosis was not observed in patients with WM treated with IMBRUVICA.
 
 In vitro platelet aggregation
@@ -43,6 +42,7 @@ IMBRUVICA was administered orally at 560 mg once daily until disease progression
 Tumour response was assessed according to the revised International Working Group (IWG) for non-Hodgkin’s lymphoma (NHL) criteria.
 The primary endpoint in this study was investigator-assessed overall response rate (ORR).
 Responses to IMBRUVICA are shown in Table 2.
+
 Table 2: ORR and DOR in patients with relapsed or refractory MCL (Study PCYC-1104-CA)
 
 |  | Total N=111 |
@@ -277,8 +277,8 @@ Each cycle was 28 days.
 IMBRUVICA was administered at a dose of 420 mg daily.
 Venetoclax was administered daily, starting with 20 mg for 1 week, followed by 1 week at each dose level of 50 mg, 100 mg, and 200 mg, then the recommended daily dose of 400 mg.
 Patients randomised to the chlorambucil plus obinutuzumab arm received treatment for 6 cycles.
-Obinutuzumab was administered at a dose of 1,000 mg on Days 1, 8 and 15 in Cycle 1.
-In Cycles 2 to 6, 1,000 mg obinutuzumab was given on
+Obinutuzumab was administered at a dose of 1 000 mg on Days 1, 8 and 15 in Cycle 1.
+In Cycles 2 to 6, 1 000 mg obinutuzumab was given on
 Day 1.
 Chlorambucil was administered at a dose of 0.5 mg/kg body weight on Days 1 and 15 of Cycles 1 to 6.
 Patients with confirmed progression by IWCLL criteria after completion of either fixed duration regimen could be treated with single-agent IMBRUVICA.
@@ -340,7 +340,7 @@ Table 10: Minimal Residual Disease Negativity Rates in Study CLL3011
 P-values are from Cochran-Mantel-Haenszel chi-square test.
 P-value for MRD negativity rate in bone marrow by NGS was the primary MRD analysis.
 a Based on threshold of 10-4 using a next-generation sequencing assay (clonoSEQ) b MRD was evaluated by flow cytometry of peripheral blood or bone marrow per central laboratory.
-The definition of negative status was <1 CLL cell per 10,000 leukocytes (<1×104).
+The definition of negative status was <1 CLL cell per 10 000 leukocytes (<1×104).
 CI = confidence interval; NGS = next-generation sequencing
 
 Twelve months after the completion of treatment, MRD negativity rates in peripheral blood were 49.1% (52/106) by NGS assay and 54.7% (58/106) by flow cytometry in patients treated with IMBRUVICA plus venetoclax and, at the corresponding time point, was 12.4% (13/105) by NGS assay and 16.2% (17/105) by flow cytometry in patients treated with chlorambucil plus obinutuzumab.
@@ -364,7 +364,6 @@ After 3 cycles of single-agent IMBRUVICA lead-in therapy, 1% of patients had hig
 High tumor burden was defined as any lymph node ≥10 cm, or any lymph node ≥5 cm and absolute lymphocyte count ≥25×109/L.
 
 With a median follow-up time on study of 28 months, efficacy results for PCYC-1142-CA assessed by an IRC according to IWCLL criteria are shown in Table 11, and rates of minimal residual disease (MRD) negativity are shown in Table 12.
-
 Table 11: Efficacy Results in Study PCYC 1142-CA (Fixed Duration Cohort)
 
 | Endpointa | IMBRUVICA + Venetoclax |  |
@@ -397,7 +396,7 @@ Table 12: Minimal Residual Disease Negativity Rates in Study PCYC 1142-CA (Fixed
 | 95% CI | (49.0, 65.7) | (48.9, 64.3) |
 
 MRD was evaluated by flow cytometry of peripheral blood or bone marrow per central laboratory.
-The definition of negative status was <1 CLL cell per 10,000 leukocytes (<1×104).
+The definition of negative status was <1 CLL cell per 10 000 leukocytes (<1×104).
 CI = confidence interval
 
 In patients with del 17p/TP53 mutation (n=27) in PCYC-1142-CA the overall response rate based on IRC assessment was 96.3%; complete response rate was 55.6% and the median duration of complete response was not reached (range, 4.3 to 22.6 months).
@@ -656,8 +655,6 @@ The primary endpoint of event-free survival (EFS) superiority was not met sugges
 | P-valued | <0.0001 |  |  |
 | Overall Response Rate (%)e | 86.8 |  | 84.8 |
 | 95% CI | (80.3, 93.2) |  | (77.9, 91.6) |
-
-P-value for MRD negativity rate in bone marrow by NGS, was the primary MRD analysis.
 
 | Endpoint | IMBRUVICA + R N=75 | Placebo + R N=75 |
 | --- | --- | --- |

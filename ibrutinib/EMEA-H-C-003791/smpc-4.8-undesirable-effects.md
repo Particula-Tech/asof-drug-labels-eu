@@ -17,13 +17,11 @@ Within each frequency grouping, undesirable effects are presented in order of de
 
 Table 1: Adverse reactions reported in clinical studies or during post marketing surveillance
 in patients with B-cell malignancies†
-System organ class Frequency Adverse reactions All
-(All grades) Grades
-(%) Grade ≥3 (%)
+System organ class Frequency Adverse reactions All Grades Grade ≥3
+(All grades) (%) (%)
 Infections and Very Pneumonia*# 12 7
-infestations common Upper respiratory tract 21 1
-infection 15 2
-Skin infection*
+infestations common Upper respiratory tract infection 21 1
+Skin infection* 15 2
 Common Sepsis*# 3 3
 Urinary tract infection 9 1
 Sinusitis* 9 1
@@ -31,11 +29,9 @@ Uncommon Cryptococcal infections* <1 0
 Pneumocystis infections* # <1 <1
 Aspergillus infections* <1 <1
 Hepatitis B reactivation@ # <1 <1
-Neoplasms benign Common Non-melanoma skin 5 1
-and malignant (incl cancer* 3 <1
-cysts and polyps) Basal cell carcinoma 1 <1
-Squamous cell
-carcinoma
+Neoplasms benign Common Non-melanoma skin cancer* 5 1
+and malignant (incl Basal cell carcinoma 3 <1
+cysts and polyps) Squamous cell carcinoma 1 <1
 Blood and Very Neutropenia* 39 31
 lymphatic system common Thrombocytopenia* 29 8
 disorders Lymphocytosis* 15 11
@@ -56,8 +52,7 @@ Eye disorders Common Vision blurred 6 0
 Uncommon Eye haemorrhage‡ <1 0
 Cardiac disorders Common Cardiac failure*, # 2 1
 Atrial fibrillation 8 4
-Uncommon Ventricular 1 <1
-tachyarrhythmia*,#
+Uncommon Ventricular tachyarrhythmia*,# 1 <1
 Cardiac arrest# <1 <1
 Vascular disorders Very Haemorrhage*# 35 1
 common Bruising* 27 <1
@@ -113,7 +108,6 @@ The median duration of treatment for MCL was 11 months (range, 0 to 87 months) w
 The median duration of treatment for WM was 47 months (range, 0.3 to 61 months) with 78% and 46% of patients receiving treatment for more than 2 years and 4 years, respectively.
 The overall known safety profile of IMBRUVICA-exposed patients remained consistent, other than an increasing prevalence of hypertension, with no new safety concerns identified.
 The prevalence for Grade 3 or greater hypertension was 4% (year 0-1), 7% (year 1-2), 9% (year 2-3), 9% (year 3-4), and 9% (year 4-5); the overall incidence for the 5-year period was 11%.
-
 Paediatric population
 The safety assessment is based on data from a Phase 3 study of IMBRUVICA in combination with either a rituximab, ifosfamide, carboplatin, etoposide, and dexamethasone (RICE) regimen, or a rituximab, vincristine, ifosfamide, carboplatin, idarubicin, and dexamethasone (RVICI) regimen, as background therapy or background therapy alone in paediatric and young adult patients (aged 3 to 19 years) with relapsed or refractory mature B-cell non-Hodgkin lymphoma (see section 5.1).
 No new adverse reactions were observed in this study.
@@ -127,11 +121,11 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 Table 1: Adverse reactions reported in clinical studies or during post marketing
 surveillance in patients with B-cell malignancies†
+System organ class Frequency Adverse reactions All
 (All grades) Grades Grade ≥3
 (%) (%)
 Infections and Very common Pneumonia*# 12 7
 infestations Upper respiratory tract infection 21 1
-Skin infection* 15 2
 Neoplasms benign and Common Non-melanoma skin cancer* 5 1
 malignant (incl cysts Basal cell carcinoma 3 <1
 and polyps) Squamous cell carcinoma 1 <1
@@ -140,7 +134,6 @@ system disorders Thrombocytopenia* 29 8
 Lymphocytosis* 15 11
 Nervous system Very common Dizziness 12 <1
 disorders Headache 19 1
-Uncommon Ventricular tachyarrhythmia*,# 1 <1
 Vascular disorders Very common Haemorrhage*# 35 1
 Bruising* 27 <1
 Gastrointestinal Very common Diarrhoea 47 4

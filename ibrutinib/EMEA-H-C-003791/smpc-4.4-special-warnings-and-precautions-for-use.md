@@ -5,7 +5,6 @@ There have been reports of bleeding events in patients treated with IMBRUVICA, b
 These include minor bleeding events such as contusion, epistaxis, and petechiae; and major bleeding events, some fatal, including gastrointestinal bleeding, intracranial haemorrhage, and haematuria.
 
 Warfarin or other vitamin K antagonists should not be administered concomitantly with IMBRUVICA.
-
 Use of either anticoagulants or medicinal products that inhibit platelet function (antiplatelet agents) concomitantly with IMBRUVICA increases the risk of major bleeding.
 A higher risk for major bleeding was observed with anticoagulant than with antiplatelet agents.
 Consider the risks and benefits of anticoagulant or antiplatelet therapy when co-administered with IMBRUVICA.
@@ -29,6 +28,7 @@ Splenic rupture
 Cases of splenic rupture have been reported following discontinuation of IMBRUVICA treatment.
 Disease status and spleen size should be carefully monitored (e.g. clinical examination, ultrasound) when IMBRUVICA treatment is interrupted or ceased.
 Patients who develop left upper abdominal or shoulder tip pain should be evaluated and a diagnosis of splenic rupture should be considered.
+
 Infections
 Infections (including sepsis, neutropenic sepsis, bacterial, viral, or fungal infections) were observed in patients treated with IMBRUVICA.
 Some of these infections have been associated with hospitalisation and death.
@@ -51,7 +51,6 @@ Liver function and viral hepatitis status should be assessed before initiating t
 Patients should be periodically monitored for changes in liver function parameters during treatment.
 As clinically indicated, viral load and serological testing for infectious hepatitis should be performed per local medical guidelines.
 For patients diagnosed with hepatic events, consider consulting a liver disease expert for management.
-
 Cytopenias
 Treatment-emergent grade 3 or 4 cytopenias (neutropenia, thrombocytopenia and anaemia) were reported in patients treated with IMBRUVICA.
 Monitor complete blood counts monthly.
@@ -72,6 +71,7 @@ Patients should be carefully monitored during treatment for signs of clinical de
 Consider further evaluation (e.g., ECG, echocardiogram), as indicated for patients in whom there are cardiovascular concerns.
 
 For patients with relevant risk factors for cardiac events, carefully assess benefit/risk before initiating treatment with IMBRUVICA; alternative treatment may be considered.
+
 In patients who develop signs and/or symptoms of ventricular tachyarrhythmia, IMBRUVICA should be temporarily discontinued and a thorough clinical benefit/risk assessment should be performed before possibly restarting therapy.
 
 In patients with preexisting atrial fibrillation requiring anticoagulant therapy, alternative treatment options to IMBRUVICA should be considered.
@@ -89,7 +89,6 @@ Tumour lysis syndrome
 Tumour lysis syndrome (TLS) has been reported with IMBRUVICA therapy.
 Patients at risk of tumour lysis syndrome are those with high tumour burden prior to treatment.
 Monitor patients closely and take appropriate precautions.
-
 Non-melanoma skin cancer
 Non-melanoma skin cancers were reported more frequently in patients treated with IMBRUVICA than in patients treated with comparators in pooled comparative randomised phase 3 studies.
 Monitor patients for the appearance of non-melanoma skin cancer.
@@ -111,6 +110,7 @@ On the contrary, co-administration of CYP3A4 inducers may lead to decreased IMBR
 Therefore, concomitant use of IMBRUVICA with strong CYP3A4 inhibitors and strong or moderate CYP3A4 inducers should be avoided whenever possible and co-administration should only be considered when the potential benefits clearly outweigh the potential risks.
 Patients should be closely monitored for signs of IMBRUVICA toxicity if a CYP3A4 inhibitor must be used (see sections 4.2 and 4.5).
 If a CYP3A4 inducer must be used, closely monitor patients for signs of IMBRUVICA lack of efficacy.
+
 Women of childbearing potential
 Women of childbearing potential must use a highly effective method of contraception while taking IMBRUVICA (see section 4.6).
 

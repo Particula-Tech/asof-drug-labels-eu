@@ -12,7 +12,6 @@ In patients with B-cell malignancies taking IMBRUVICA with food, co-administrati
 Strong inhibitors of CYP3A4 (e.g., ketoconazole, indinavir, nelfinavir, ritonavir, saquinavir, clarithromycin, telithromycin, itraconazole, nefazodone, cobicistat, voriconazole and posaconazole) should be avoided.
 If the benefit outweighs the risk and a strong CYP3A4 inhibitor must be used, reduce the IMBRUVICA dose to 140 mg (one capsule) for the duration of the inhibitor use or withhold IMBRUVICA temporarily (for 7 days or less).
 Monitor patient closely for toxicity and follow dose modification guidance as needed (see sections 4.2 and 4.4).
-
 Moderate CYP3A4 inhibitors
 In patients with B-cell malignancies taking IMBRUVICA with food, co-administration of the CYP3A4 inhibitor erythromycin increased Cmax by 3.4-fold and AUC by 3.0-fold.
 If a moderate CYP3A4 inhibitor (e.g., fluconazole, erythromycin, amprenavir, aprepitant, atazanavir, ciprofloxacin, crizotinib, diltiazem, fosamprenavir, imatinib, verapamil, amiodarone and dronedarone) is indicated, reduce IMBRUVICA dose to 280 mg (two capsules) for the duration of the inhibitor use.
