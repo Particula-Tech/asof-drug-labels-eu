@@ -1,9 +1,12 @@
 # 4.4 Special warnings and precautions for use
 
 General
+
 Steglatro should not be used in patients with type 1 diabetes mellitus.
+It may increase the risk of diabetic ketoacidosis (DKA) in these patients.
 
 Hypotension/Volume depletion
+
 Ertugliflozin causes an osmotic diuresis, which may lead to intravascular volume contraction.
 Therefore, symptomatic hypotension may occur after initiating Steglatro (see section 4.8), particularly in patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2 or CrCl less than 60 mL/min), elderly patients (≥ 65 years), patients on diuretics, or patients on anti-hypertensive therapy with a history of hypotension.
 Before initiating Steglatro, volume status should be assessed and corrected if indicated.
@@ -16,11 +19,12 @@ In case of conditions that may lead to fluid loss (e.g., gastrointestinal illnes
 Temporary interruption of treatment with ertugliflozin should be considered until the fluid loss is corrected.
 
 Diabetic ketoacidosis
+
 Rare cases of DKA, including life-threatening and fatal cases, have been reported in clinical trials and post-marketing in patients treated with sodium glucose co-transporter-2 (SGLT2) inhibitors, including ertugliflozin.
 In a number of cases, the presentation of the condition was atypical with only moderately increased blood glucose values, below 14 mmol/L (250 mg/dL).
 It is not known if DKA is more likely to occur with higher doses of ertugliflozin.
 
-The risk of diabetic ketoacidosis must be considered in the event of non-specific symptoms such as nausea, vomiting, anorexia, abdominal pain, excessive thirst, difficulty breathing, confusion, unusual fatigue or sleepiness.
+The risk of DKA must be considered in the event of non-specific symptoms such as nausea, vomiting, anorexia, abdominal pain, excessive thirst, difficulty breathing, confusion, unusual fatigue or sleepiness.
 Patients should be assessed for ketoacidosis immediately if these symptoms occur, regardless of blood glucose level.
 
 In patients where DKA is suspected or diagnosed, treatment with ertugliflozin should be discontinued immediately.
@@ -29,24 +33,26 @@ Treatment should be interrupted in patients who are hospitalised for major surgi
 Monitoring of ketones is recommended in these patients.
 Measurement of blood ketone levels is preferred to urine.
 Treatment with ertugliflozin may be restarted when the ketone values are normal and the patient’s condition has stabilised.
-
 Before initiating ertugliflozin, factors in the patient history that may predispose to ketoacidosis should be considered.
 
 Patients who may be at higher risk of DKA include patients with a low beta-cell function reserve (e.g., type 2 diabetes patients with low C-peptide or latent autoimmune diabetes in adults (LADA) or patients with a history of pancreatitis), patients with conditions that lead to restricted food intake or severe dehydration, patients for whom insulin doses are reduced and patients with increased insulin requirements due to acute medical illness, surgery, or alcohol abuse.
 SGLT2 inhibitors should be used with caution in these patients.
+
 Restarting SGLT2 inhibitor treatment in patients with previous DKA while on SGLT2 inhibitor treatment is not recommended, unless another clear precipitating factor is identified and resolved.
 
 The safety and efficacy of ertugliflozin in patients with type 1 diabetes have not been established and ertugliflozin should not be used for treatment of patients with type 1 diabetes.
 Limited data from clinical trials suggest that DKA occurs with common frequency when patients with type 1 diabetes are treated with SGLT2 inhibitors.
 
 Lower limb amputations
-In a long-term cardiovascular outcomes study VERTIS CV (eValuation of ERTugliflozin effIcacy and Safety, CardioVascular), a study in patients with type 2 diabetes mellitus and established atherosclerotic cardiovascular disease, non-traumatic lower limb amputations (primarily of the toe) were reported with an incidence of 2.0% (0.57 subjects with event per 100 patient-years), 2.1% (0.60 subjects with event per 100 patient-years) and 1.6% (0.47 subjects with event per 100 patient-years) for ertugliflozin 5 mg, ertugliflozin 15 mg and placebo groups.
+
+In a long-term cardiovascular outcomes study VERTIS CV (eValuation of ERTugliflozin effIcacy and Safety, CardioVascular), a study in patients with type 2 diabetes mellitus and established atherosclerotic cardiovascular disease, non-traumatic lower limb amputations (primarily of the toe) were reported with an incidence of 2% (0.57 subjects with event per 100 patient-years), 2.1% (0.60 subjects with event per 100 patient-years) and 1.6% (0.47 subjects with event per 100 patient-years) for ertugliflozin 5 mg, ertugliflozin 15 mg and placebo groups.
 The event rates of lower limb amputations were 0.75 and 0.96 versus 0.74 events per 100 patient-years for ertugliflozin 5 mg and ertugliflozin 15 mg versus placebo, respectively.
 An increase in cases of lower limb amputation (primarily of the toe) has been observed in long-term clinical studies in type 2 diabetes mellitus with SGLT2 inhibitors.
 It is not known whether this constitutes a class effect.
 It is important to counsel patients with diabetes on routine preventative foot care.
 
 Renal impairment
+
 The efficacy of ertugliflozin for glycaemic control is dependent on renal function, and glycaemic efficacy is reduced in patients who have moderate renal impairment and likely absent in patients with severe renal impairment (see section 4.2).
 
 Steglatro should not be initiated in patients with an eGFR below 45 mL/min/1.73 m2 or CrCl below 45 mL/min.
@@ -58,44 +64,53 @@ Monitoring of renal function is recommended as follows:
 - More frequently in patients with an eGFR below 60 mL/min/1.73 m2 or a CrCl below 60 mL/min.
 
 Hypoglycaemia with concomitant use with insulin and insulin secretagogues
+
 Ertugliflozin may increase the risk of hypoglycaemia when used in combination with insulin and/or an insulin secretagogue, which are known to cause hypoglycaemia (see section 4.8).
 Therefore, a lower dose of insulin or insulin secretagogue may be required to minimise the risk of hypoglycaemia when used in combination with ertugliflozin (see sections 4.2 and 4.5).
-
 Genital mycotic infections
+
 Ertugliflozin increases the risk of genital mycotic infections.
 In trials with SGLT2 inhibitors, patients with a history of genital mycotic infections and uncircumcised males were more likely to develop genital mycotic infections (see section 4.8).
 Patients should be monitored and treated appropriately.
 
 Urinary tract infections
+
 Urinary glucose excretion may be associated with an increased risk of urinary tract infections (see section 4.8).
 Temporary interruption of ertugliflozin should be considered when treating pyelonephritis or urosepsis.
 
 Necrotising fasciitis of the perineum (Fournier’s gangrene)
+
 Post-marketing cases of necrotising fasciitis of the perineum, (also known as Fournier’s gangrene), have been reported in female and male patients taking SGLT2 inhibitors.
 This is a rare but serious and potentially life-threatening event that requires urgent surgical intervention and antibiotic treatment.
+
 Patients should be advised to seek medical attention if they experience a combination of symptoms of pain, tenderness, erythema, or swelling in the genital or perineal area, with fever or malaise.
-Be aware that either uro-genital infection or perineal abscess may precede necrotising fasciitis.
+Be aware that either urogenital infection or perineal abscess may precede necrotising fasciitis.
 If Fournier’s gangrene is suspected, Steglatro should be discontinued and prompt treatment (including antibiotics and surgical debridement) should be instituted.
 
 Elderly patients
+
 Elderly patients may be at an increased risk of volume depletion and renal impairment.
 Patients 65 years and older treated with ertugliflozin had a higher incidence of adverse reactions related to volume depletion compared to younger patients.
 In a long-term cardiovascular outcomes study VERTIS CV, safety and efficacy were similar for patients age 65 years and older compared to patients younger than 65 (see sections 4.2 and 4.8).
 
 Cardiac failure
+
 There is no experience in clinical studies with ertugliflozin in New York Heart Association (NYHA) class IV.
 
 Urine laboratory assessments
+
 Due to its mechanism of action, patients taking Steglatro will test positive for glucose in their urine.
 Alternative methods should be used to monitor glycaemic control.
 
 Interference with 1,5-anhydroglucitol (1,5-AG) assay
+
 Monitoring glycaemic control with 1,5-AG assay is not recommended as measurements of 1,5-AG are unreliable in assessing glycaemic control in patients taking SGLT2 inhibitors.
 Alternative methods should be used to monitor glycaemic control.
 
 Lactose
-The tablets contain lactose monohydrate.
-Patients with rare hereditary problems of galactose intolerance, total lactase deficiency, or glucose-galactose malabsorption should not take this medicinal product.
 
+Steglatro contains lactose monohydrate.
+Patients with rare hereditary problems of galactose intolerance, total lactase deficiency, or glucose-galactose malabsorption should not take this medicinal product.
 Sodium
+
 This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.

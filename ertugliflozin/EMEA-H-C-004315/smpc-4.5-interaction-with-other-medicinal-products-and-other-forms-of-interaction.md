@@ -16,7 +16,8 @@ Effects of other medicinal products on the pharmacokinetics of ertugliflozin
 Metabolism by UGT1A9 and UGT2B7 is the primary clearance mechanism for ertugliflozin.
 
 Interaction studies conducted in healthy subjects, using a single dose design, suggest that the pharmacokinetics of ertugliflozin are not altered by sitagliptin, metformin, glimepiride, or simvastatin.
-Multiple-dose administration of rifampin (a UGT and CYP inducer) decreases ertugliflozin AUC and Cmax by 39% and 15%, respectively.
+
+Multiple-dose administration of rifampicin (a uridine 5’-diphospho-glucuronosyltransferase [UGT] and cytochrome P450 [CYP] inducer) decreases ertugliflozin area under the concentration-time curve (AUC) and maximum plasma concentration (Cmax) by 39% and 15%, respectively.
 This decrease in exposure is not considered clinically relevant and therefore, no dose adjustment is recommended.
 A clinically relevant effect with other inducers (e.g., carbamazepine, phenytoin, phenobarbital) is not expected.
 
@@ -26,5 +27,5 @@ Effects of ertugliflozin on the pharmacokinetics of other medicinal products
 Interaction studies conducted in healthy volunteers suggest that ertugliflozin had no clinically relevant effect on the pharmacokinetics of sitagliptin, metformin, and glimepiride.
 
 Coadministration of simvastatin with ertugliflozin resulted in a 24% and 19% increase in AUC and Cmax of simvastatin, respectively, and 30% and 16% increase in AUC and Cmax of simvastatin acid, respectively.
-The mechanism for the small increases in simvastatin and simvastatin acid is unknown and is not perpetrated through OATP inhibition by ertugliflozin.
+The mechanism for the small increases in simvastatin and simvastatin acid is unknown and is not perpetrated through organic anion transporting polypeptide (OATP) inhibition by ertugliflozin.
 These increases are not considered to be clinically meaningful.

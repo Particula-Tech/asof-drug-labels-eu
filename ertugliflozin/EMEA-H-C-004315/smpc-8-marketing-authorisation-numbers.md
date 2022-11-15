@@ -1,6 +1,7 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
 Steglatro 5 mg film-coated tablets
+
 EU/1/18/1267/001
 EU/1/18/1267/002
 EU/1/18/1267/003
@@ -10,6 +11,7 @@ EU/1/18/1267/006
 EU/1/18/1267/013
 
 Steglatro 15 mg film-coated tablets
+
 EU/1/18/1267/007
 EU/1/18/1267/008
 EU/1/18/1267/009
