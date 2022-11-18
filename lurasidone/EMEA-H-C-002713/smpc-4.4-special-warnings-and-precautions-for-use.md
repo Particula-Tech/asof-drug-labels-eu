@@ -2,6 +2,7 @@
 
 During antipsychotic treatment, improvement in the patient's clinical condition may take a few days to some weeks.
 Patients should be closely monitored during this period.
+
 Suicidality
 The occurrence of suicidal behaviour is inherent in psychotic illnesses and in some cases has been reported early after initiation or switch of antipsychotic therapy.
 Close supervision of high-risk patients should accompany antipsychotic therapy.
@@ -48,7 +49,7 @@ Since patients treated with antipsychotics often present with acquired risk fact
 Hyperprolactinaemia
 Lurasidone elevates prolactin levels due to antagonism of dopamine D2 receptors.
 Patients should be counseled on signs and symptoms of elevated prolactin, such as gynecomastia, galactorrhea, amenorrhea and erectile dysfunction.
-Patient should be advised to seek medical attention if they experience any signs and symptoms
+Patient should be advised to seek medical attention if they experience any signs and symptoms.
 
 Weight gain
 Weight gain has been observed with atypical antipsychotic use.
@@ -66,19 +67,9 @@ Interaction with grapefruit juice
 Grapefruit juice should be avoided during treatment with lurasidone (see section 4.5).
 
 Serotonin syndrome
-
 Concomitant administration of Latuda and other serotonergic agents, such as buprenorphine/opioids, MAO inhibitors, selective serotonin re-uptake inhibitors (SSRIs), serotonin norepinephrine re-uptake inhibitors (SNRIs) or tricyclic antidepressants may result in serotonin syndrome, a potentially life-threatening condition (see section 4.5).
 If concomitant treatment with other serotonergic agents is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
 Symptoms of serotonin syndrome may include mental-status changes, autonomic instability, neuromuscular abnormalities, and/or gastrointestinal symptoms.
 If serotonin syndrome is suspected, a dose reduction or discontinuation of therapy should be considered depending on the severity of the symptoms.
 
-This medicine contains less than 1 mmol sodium (23 mg) per one tablet, that is to say essentially ‘sodium-free’
-
-[Latuda 37 mg film-coated tablets]
-
-Neuroleptic Malignant Syndrome, characterised by hyperthermia, muscle rigidity, autonomic instability, altered consciousness and elevated serum creatine phosphokinase levels, has been reported to occur lurasidone.
-In this event, lurasidone, should be discontinued.
-
-[Latuda 74 mg film-coated tablets]
-
-(all sentences already above)
+This medicine contains less than 1 mmol sodium (23 mg) per one tablet, that is to say essentially ‘sodium-free’.

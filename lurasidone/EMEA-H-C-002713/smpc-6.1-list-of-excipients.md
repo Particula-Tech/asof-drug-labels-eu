@@ -1,25 +1,44 @@
 # 6.1 List of excipients
 
+Latuda 18.5 mg film-coated tablets
 Core
-
 Mannitol (E 421)
 Starch, pregelatinised
 Croscarmellose sodium (E468)
 Hypromellose 2910 (E 464)
-Magnesium stearate (E 470b)Tablet coating
+Magnesium stearate (E 470b)
 
+Tablet coating
 Hypromellose 2910 (E 464)
 Titanium dioxide (E 171)
 Macrogol 8000
 Carnauba wax (E 903)
 
-[Latuda 37 mg film-coated tablets]
-
+Latuda 37 mg film-coated tablets
+Core
+Mannitol (E 421)
+Starch, pregelatinised
+Croscarmellose sodium (E468)
+Hypromellose 2910 (E 464)
 Magnesium stearate (E 470b)
 
 Tablet coating
+Hypromellose 2910 (E 464)
+Titanium dioxide (E 171)
+Macrogol 8000
+Carnauba wax (E 903)
 
-[Latuda 74 mg film-coated tablets]
-
+Latuda 74 mg film-coated tablets
+Core
+Mannitol (E 421)
+Starch, pregelatinised
+Croscarmellose sodium (E468)
+Hypromellose 2910 (E 464)
+Magnesium stearate (E 470b)
+Tablet coating
+Hypromellose 2910 (E 464)
+Titanium dioxide (E 171)
+Macrogol 8000
 Iron oxide, Yellow (E 172)
 Indigotine (E 132)
+Carnauba wax (E 903)

@@ -5,6 +5,7 @@ There are no or limited amount of data (less than 300 pregnancy outcomes) from t
 Animal studies are insufficient with respect to effects on pregnancy, embryonal/foetal development, parturition and postnatal development (see section 5.3).
 The potential risk for humans is unknown.
 Lurasidone should not be used during pregnancy unless clearly necessary.
+
 Neonates exposed to antipsychotics (including lurasidone) during the third trimester are at risk of adverse reactions including extrapyramidal and/or withdrawal symptoms that may vary in severity and duration following delivery.
 There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, or feeding disorder.
 Consequently, newborns should be monitored carefully.
@@ -16,11 +17,3 @@ Breast feeding in women receiving lurasidone should be considered only if the po
 
 Fertility
 Studies in animals have shown a number of effects on fertility, mainly related to prolactin increase, which are not considered to be relevant to human reproduction (see section 5.3).
-
-[Latuda 37 mg film-coated tablets]
-
-(all sentences already above)
-
-[Latuda 74 mg film-coated tablets]
-
-PregnancyThere are no or limited amount of data (less than 300 pregnancy outcomes) from the use of lurasidone in pregnant women.
