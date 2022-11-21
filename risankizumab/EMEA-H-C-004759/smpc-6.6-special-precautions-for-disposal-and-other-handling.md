@@ -32,3 +32,35 @@ Comprehensive instructions for use are provided in the package leaflet.
 Each pre-filled pen or pre-filled syringe is for single use only.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+[Skyrizi 600 mg concentrate for solution for infusion]
+
+The solution in the vial and dilutions should not be shaken.
+The solutions should be visually inspected for particulate matter or discoloration prior to administration.
+The liquid may contain tiny white or clear particles.
+The medicinal product and its dilutions should not be used if the solution is discoloured or cloudy, or if foreign particulate matter is present.
+
+Instructions for dilution
+
+This medicinal product should be prepared by a healthcare professional using aseptic technique.
+It must be diluted before administration.
+
+The solution for infusion is prepared by dilution of the concentrate into an intravenous infusion bag or glass bottle containing 5% dextrose in water (D5W) (600 mg/10 mL in 100 mL, 250 mL or 500 mL) to a final concentration of approximately 1.2 mg/mL to 6 mg/mL.
+
+Prior to the start of the intravenous infusion, the content of the intravenous infusion bag or glass bottle should be at room temperature.
+
+Infuse the diluted solution over a period of at least one hour.
+Once diluted, the infusion should be completely administered within 8 hours of the dilution in the infusion bag.
+
+Each vial is for single use only.
+
+[Skyrizi 360 mg solution for injection in cartridge]
+
+Skyrizi is intended for use under the guidance and supervision of a healthcare professional.
+
+Prior to use, a visual inspection of the cartridge is recommended.
+The solution is free from foreign particles and practically free from product-related particles.
+
+Before injecting, patients should remove the carton from the refrigerator and allow to reach room temperature, out of direct sunlight, for 45 to 90 minutes without removing the cartridge from the carton.
+
+Each on-body injector with cartridge is for single use only.

@@ -1,6 +1,6 @@
 # 4.2 Posology and method of administration
 
-Skyrizi is intended for use under the guidance and supervision of a physician experienced in the diagnosis and treatment of conditions for which Skyrizi is indicated.
+This medicinal product is intended for use under the guidance and supervision of a physician experienced in the diagnosis and treatment of conditions for which Skyrizi is indicated.
 
 Posology
 
@@ -52,3 +52,28 @@ Skyrizi 75 mg solution for injection in pre-filled syringe
 
 Two pre-filled syringes should be injected for the full 150 mg dose.
 The two injections should be administered at different anatomic locations.
+
+[Skyrizi 600 mg concentrate for solution for infusion]
+
+The recommended dose is 600 mg administered by intravenous infusion at week 0, week 4, and week 8, followed by 360 mg administered by subcutaneous injection at week 12, and every 8 weeks thereafter.
+Consideration should be given to discontinuing treatment in patients who have shown no evidence of therapeutic benefit by week 24.
+
+For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the Skyrizi 360 mg solution for injection in cartridge Summary of Product Characteristics.
+
+No specific studies were conducted to assess the effect of hepatic or renal impairment on the pharmacokinetics of Skyrizi.
+
+The safety and efficacy of Skyrizi for the treatment of Crohn’s disease in patients below 18 years of age have not yet been established.
+
+For intravenous infusion.
+
+Skyrizi 600 mg concentrate for solution for infusion is for intravenous use only.
+It should be administered over at least one hour.
+For instructions on dilution of the medicinal product before administration, see section 6.6.
+
+[Skyrizi 360 mg solution for injection in cartridge]
+
+For the posology of the initial intravenous dosing regimen, see section 4.2 of the Skyrizi 600 mg concentrate for solution for infusion Summary of Product Characteristics.
+
+Patients should not inject into areas where the skin is tender, bruised, erythematous, indurated or damaged.
+
+Patients may self-inject Skyrizi after training in subcutaneous injection technique with the on-body injector.

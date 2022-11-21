@@ -42,3 +42,13 @@ This medicinal product contains 68.0 mg sorbitol per 150 mg dose.
 The additive effect of concomitantly administered products containing sorbitol (or fructose) and dietary intake of sorbitol (or fructose) should be taken into account.
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per 150 mg dose, that is to say, essentially ‘sodium free’.
+
+[Skyrizi 600 mg concentrate for solution for infusion]
+
+Anti-TB therapy should be considered prior to initiating risankizumab in patients with a past history of latent or active TB in whom an adequate course of treatment cannot be confirmed.
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially ‘sodium-free’.
+
+[Skyrizi 360 mg solution for injection in cartridge]
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per cartridge, that is to say essentially ‘sodium-free’.

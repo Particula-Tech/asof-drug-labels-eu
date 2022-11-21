@@ -143,7 +143,10 @@ Subjects randomised to adalimumab received 80 mg at week 0, 40 mg at week 1, and
 Starting at week 16, subjects who were receiving adalimumab continued or switched treatment based on response:
 
 - <PASI 50 were switched to risankizumab
-- PASI 50 to <PASI 90 were re-randomised to either continue adalimumab or switch to risankizumab
+- PASI 50 to <PASI 90 were re-randomised to either continue adalimumab or switch to
+
+risankizumab
+
 - PASI 90 continued to receive adalimumab
 
 Results are presented in Table 4.
@@ -229,12 +232,12 @@ Minimal Disease Activity (MDA) Response
 Week 24 49 (10.2) 121 (25.0) a 25 (11.4) 57 (25.6) a
 Week 52* - 183/444 (41.2) - 61/197 (31.0)
 *data are shown for available subjects in the format of n/N observed (%)
-a. multiplicity-controlled p≤0.001 risankizumab vs placebo comparison.
-b. nominal p≤0.001 risankizumab vs placebo comparison.
-c. nominal p≤0.05 risankizumab vs placebo comparison.
-d. Summarized from pooled data from KEEPSAKE1 and KEEPSAKE2 for subjects with
+a) multiplicity-controlled p≤0.001 risankizumab vs placebo comparison.
+b) nominal p≤0.001 risankizumab vs placebo comparison.
+c) nominal p≤0.05 risankizumab vs placebo comparison.
+d) Summarized from pooled data from KEEPSAKE1 and KEEPSAKE2 for subjects with
 baseline LEI >0.
-e. Summarized from pooled data from KEEPSAKE1 and KEEPSAKE2 for subjects with
+e) Summarized from pooled data from KEEPSAKE1 and KEEPSAKE2 for subjects with
 baseline LDI >0.
 
 Response over time
@@ -281,14 +284,14 @@ PGA-F clear/minimal and ≥2-grade improvement c
 Week 24 n (%) 30 (15.9) 71
 (37.8) d
 Week 52 n (%) - 105 (58.0)
-a. Summarized for subjects with baseline nail psoriasis (Placebo N=338; risankizumab
+a) Summarized for subjects with baseline nail psoriasis (Placebo N=338; risankizumab
 N=309; at week 52, for mNAPSI, observed risankizumab N=290, for PGA-F,
 observed risankizumab N=291).
-b. Multiplicity-controlled p≤0.001 risankizumab vs placebo comparison.
-c. Summarized for subjects with nail psoriasis and a PGA-F overall global assessment
+b) Multiplicity-controlled p≤0.001 risankizumab vs placebo comparison.
+c) Summarized for subjects with nail psoriasis and a PGA-F overall global assessment
 score of ‘Mild’, ‘Moderate’ or ‘Severe’ at Baseline (Placebo N=190; risankizumab
 N=188, at week 52 observed risankizumab N=181).
-d. Nominal p≤0.001 risankizumab vs placebo comparison.
+d) Nominal p≤0.001 risankizumab vs placebo comparison.
 
 Radiographic Response
 
@@ -314,3 +317,159 @@ There is insufficient evidence of the efficacy of risankizumab in subjects with 
 Paediatric population
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with risankizumab in one or more subsets of the paediatric population in the treatment of plaque psoriasis and psoriatic arthritis (see section 4.2 for information on paediatric use).
+
+[Skyrizi 600 mg concentrate for solution for infusion]
+
+In a Phase 2 study of subjects with Crohn’s disease, expression of genes associated with the IL-23/Th17 axis were decreased in gut tissue after multiple doses of risankizumab.
+Reductions in faecal calprotectin (FCP), serum C reactive protein (CRP) and IL-22 were also observed after multiple doses in Phase 3 induction studies in Crohn’s patients.
+Decreases in FCP, CRP and serum IL-22 were maintained out to week 52 of the maintenance study.
+
+Clinical efficacy
+
+The efficacy and safety of risankizumab were assessed in 1 419 subjects with moderately to severely active Crohn’s disease in three multicentre, randomised, double-blind, placebo controlled clinical studies.
+Enrolled subjects were 16 years of age or older with a Crohn’s Disease Activity Index (CDAI) of 220 to 450, an average daily stool frequency (SF) ≥4 and/or average daily abdominal pain score (APS) ≥2, and a Simple Endoscopic Score for CD (SES-CD) of ≥6, or ≥4 for isolated ileal disease, excluding the narrowing component and confirmed by a central reviewer.
+
+There were two 12-week intravenous induction studies (ADVANCE and MOTIVATE), which included a 12 week extension period for subjects who did not achieve SF/APS clinical response (≥ 30% decrease in SF and/or ≥ 30% decrease in APS and both not worse than baseline) at week 12.
+ADVANCE and MOTIVATE were followed by a 52-week randomised withdrawal study of subcutaneous maintenance treatment (FORTIFY) that enrolled subjects with SF/APS clinical response to IV induction treatment, representing at least 64 weeks of therapy.
+
+ADVANCE and MOTIVATE
+
+In studies ADVANCE and MOTIVATE, subjects were randomised to receive risankizumab at either 600 mg (recommended dose), 1 200 mg, or placebo, at week 0, week 4, and week 8.
+
+In ADVANCE, 58% (491/850) subjects had failed or were intolerant to treatment with one or more biologic therapies (prior biologic failure), and 42% (359/850) had failed or were intolerant to therapy with conventional therapies but not biologic therapies (without prior biologic failure).
+In ADVANCE, among the subjects without prior biologic failure, (87%) 314/359 were naïve to biologic therapy and the remaining 13% had received a biologic but never failed or demonstrated intolerance.
+All patients in MOTIVATE had prior biologic failure.
+
+In both studies, a greater proportion of subjects treated with risankizumab achieved the co-primary endpoints of clinical remission at week 12 and endoscopic response at week 12 compared to placebo.
+Enhanced SF/APS clinical response and clinical remission were significant as early as week 4 in subjects treated with risankizumab and continued to improve through week 12 (Table 2).
+Table 2.
+Efficacy results in ADVANCE and MOTIVATE
+
+|  | ADVANCE |  |  | MOTIVATE |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Placebo IV (N=175) % | Risankizumab 600 mg IV (N=336) % | Treatment differenced (95% CI) | Placebo IV (N=187) % | Risankizumab 600 mg IV (N=191) % | Treatment differenced (95% CI) |
+| Co-primary endpoints |  |  |  |  |  |  |
+| Clinical remission at week 12e | 22% | 43% | 22% [14%, 30%]a | 19% | 35% | 15% [6%, 24%]b |
+| Endoscopic response at week 12f | 12% | 40% | 28% [21%, 35%]a | 11% | 29% | 18% [10%, 25%]a |
+| Additional endpoints |  |  |  |  |  |  |
+| Enhanced SF/APS clinical response at week 4g | 31% | 46% | 15% [6%, 23%]b | 32% | 45% | 14% [4%, 23%]c |
+| Enhanced SF/APS clinical response at week 12g | 42% | 63% | 21% [12%, 30%]a | 39% | 62% | 23% [13%, 33%]a |
+| CDAI <150 at week 4 | 10% | 18% | 8% [1%, 14%]c | 11% | 21% | 10% [2%, 17%]c |
+| CDAI <150 at week 12 | 25% | 45% | 21% [12%, 29%]a | 20% | 42% | 22% [13%, 31%]a |
+| Mucosal healing at week 12h | (N=173) 8% | (N=336) 21% | 14% [8%, 19%]a | (N=186) 4% | (N=190) 14% | 9% [4%, 15%]b |
+| Endoscopic remission at week 12i | 9% | 24% | 15% [9%, 21%]a | 4% | 19% | 15% [9%, 21%]a |
+| a Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p<0.001). b Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p≤0.01). cNominal p ≤ 0.05 risankizumab vs placebo comparison. d Adjusted treatment difference. e Clinical remission based on SF/APS: average daily SF ≤2.8 and not worse than baseline and average daily AP score ≤1 and not worse than baseline. f Endoscopic response: greater than 50% decrease in SES-CD from baseline, or a decrease of at least 2 points for subjects with a baseline score of 4 and isolated ileal disease. g Enhanced SF/APS clinical response: ≥60% decrease in average daily SF and/or ≥35% decrease in average daily AP score and both not worse than Baseline, and/or clinical remission. h Mucosal healing: SES-CD ulcerated surface subscore of 0 in subjects with a subscore of ≥1 at Baseline. i Endoscopic remission: SES-CD ≤4 and at least a 2 point reduction versus Baseline and no subscore greater than 1 in any individual variable. |  |  |  |  |  |  |
+
+At week 12, a higher proportion of subjects treated with risankizumab achieved a decrease of at least 100 points in baseline CDAI compared to placebo (ADVANCE, risankizumab =60%, placebo=37%, p<0.001; MOTIVATE, risankizumab =60%, placebo=30%, p<0.001).
+
+At week 12, a higher proportion of subjects treated with risankizumab achieved both enhanced SF/APS clinical response and endoscopic response at week 12 compared to placebo (ADVANCE, risankizumab =31%, placebo=8%, p<0.001; MOTIVATE, risankizumab =21%, placebo=7%, p<0.001).
+
+The results for the co-primary endpoints for the subgroups (without allowing for multiplicity) of subjects with and without prior biologic failure are presented in Table 3.
+
+Table 3.
+Efficacy results at week 12 in subgroups of subjects with prior biologic treatment failure and subjects without prior biologic failure in ADVANCE
+
+|  | ADVANCE |  |  |
+| --- | --- | --- | --- |
+|  | Placebo IV | Risankizumab 600 mg | Treatment difference (95% CI) |
+| Clinical remission per SF/AP Score |  |  |  |
+| Prior biologic failure | 23% (N=97) | 41% (N=195) | 18% [7%, 29%] |
+| Without prior biologic failure | 21% (N=78) | 48% (N=141) | 27% [15%, 39%] |
+| Endoscopic response |  |  |  |
+| Prior biologic failure | 11% (N=97) | 33% (N=195) | 21% [12%, 31%] |
+| Without prior biologic failure | 13% (N=78) | 50% (N=141) | 38% [27%, 49%] |
+
+In ADVANCE, a higher proportion of subjects treated with risankizumab with and without prior biologic failure achieved CDAI<150 compared to placebo (With prior biologic failure, risankizumab =42%, placebo=26%; Without prior biologic failure, risankizumab =49%, placebo=23%).
+
+CD-related hospitalisations
+
+Rates of CD-related hospitalisations through week 12 were lower in subjects treated with risankizumab compared to placebo (ADVANCE, risankizumab =3%, placebo=12%, p<0.001; MOTIVATE, risankizumab =3%, placebo=11%, p≤0.01).
+
+FORTIFY
+
+The maintenance study FORTIFY evaluated 462 subjects with SF/APS clinical response to 12 weeks of risankizumab intravenous (IV) induction treatment in studies ADVANCE and MOTIVATE.
+Subjects were randomised to continue to receive a maintenance regimen of risankizumab 360 mg subcutaneously (SC) (recommended dose), or risankizumab 180 mg SC every 8 weeks, or to withdraw from risankizumab induction and receive placebo SC every 8 weeks for up to 52 weeks.
+
+The co-primary endpoints were clinical remission at week 52 and, endoscopic response at week 52.
+Co-primary endpoints were also measured in subjects with and without prior biologic failure (see Table 4).
+
+Table 4.
+Efficacy results in FORTIFY at week 52 (64 weeks from initiation of induction dose)
+
+|  | Risankizumab IV induction/ Placebo SCf (N=164) % | Risankizumab IV induction/ Risankizumab 360 mg SC (N=141) % | Treatment difference (95% CI) |
+| --- | --- | --- | --- |
+| Co-primary endpoints |  |  |  |
+| Clinical remission | 40% | 52% | 15% [5%, 25%]a,g |
+| Prior biologic failure | 34% (N=123) | 48% (N=102) | 14% [1%,27%] |
+| Without prior biologic failure | 56% (N=41) | 62% (N=39) | 5% [-16%,27%] |
+| Endoscopic response | 22% | 47% | 28% [19%, 37%]b,g |
+| Prior biologic failure | 20% (N=123) | 44% (N=102) | 23% [11%, 35%] |
+| Without prior biologic failure | 27% (N=41) | 54% (N=39) | 27% [6%, 48%] |
+| Additional endpoints |  |  |  |
+| Enhanced SF/APS clinical response | 49% | 59% | 13% [2%, 23%]e,g |
+| Maintenance of clinical remissionh | (N = 91) 51% | (N = 72) 69% | 21% [6%, 35%]d,g |
+| Endoscopic remission | 13% | 39% | 28% [20%, 37%]c,g |
+| Mucosal healing | (N = 162) 10% | (N = 141) 31% | 22% [14%, 30%]c,g |
+| a Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p≤0.01). b Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p<0.001). c Nominal p<0.001 risankizumab vs placebo comparison without overall type I error control. d Nominal p≤0.01 risankizumab vs placebo comparison without overall type I error control. e Nominal p≤0.05 risankizumab vs placebo comparison without overall type I error control. f The induction-only group consisted of subjects who achieved clinical response to risankizumab induction therapy and were randomised to receive placebo in the maintenance study (FORTIFY). g Adjusted treatment difference. hMaintenance of clinical remission: clinical remission at week 52 in subjects with clinical remission at week 0. |  |  |  |
+
+Deep remission (clinical remission and endoscopic remission) at week 52 was observed at higher rates in subjects treated with risankizumab IV/ risankizumab SC compared to subjects who received risankizumab IV/placebo SC (28% vs. 10%, respectively, nominal p<0.001).
+
+At week 52, a higher proportion of subjects treated with risankizumab IV/ risankizumab SC achieved CDAI < 150 compared to risankizumab IV/placebo SC (52% vs. 41%, respectively, nominal p≤0.01).
+A higher proportion of subjects treated with risankizumab IV/ risankizumab SC achieved a decrease of at least 100 points in baseline CDAI score compared to subjects treated with risankizumab IV/placebo SC (62% vs. 48%, respectively, nominal p≤ 0.01).
+
+91 subjects who did not demonstrate SF/APS clinical response 12 weeks after risankizumab induction in studies ADVANCE and MOTIVATE received subcutaneous 360 mg dose of risankizumab at week 12 and week 20.
+Of these subjects, 64% (58/91) achieved SF/APS clinical response at week 24; 33 of the subjects achieving SF/APS clinical response enrolled in FORTIFY and continued receiving risankizumab 360 mg SC every 8 weeks for up to 52 weeks.
+Among these subjects, 55% (18/33) achieved clinical remission and 45% (15/33) achieved endoscopic response at week 52.
+
+During FORTIFY, 30 subjects had loss of response to risankizumab 360 mg SC treatment and received rescue treatment with risankizumab (1 200 mg IV single dose, followed by 360 mg SC every 8 weeks).
+Of these subjects, 57% (17/30) achieved SF/APS clinical response at week 52.
+In addition, 20% (6/30) and 34% (10/29) of subjects achieved clinical remission and endoscopic response at week 52, respectively.
+
+Health-related and quality of life outcomes
+
+Health-related quality of life was assessed by the Inflammatory Bowel Disease Questionnaire (IBDQ) and 36-Item Short Form Health Survey (SF-36).
+Improvement in fatigue was evaluated by the Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-Fatigue) scale.
+Work productivity was assessed by the Work Productivity and Activity Impairment CD (WPAI-CD) Questionnaire.
+
+At week 12 of ADVANCE and MOTIVATE, subjects treated with risankizumab achieved clinically meaningful improvements from baseline in IBDQ total score, all IBDQ domain scores (bowel symptoms, systemic function, emotional function, and social function), SF-36 Physical and Mental Component Summary Score, FACIT-Fatigue and WPAI-CD compared to placebo.
+For WPAI-CD greater reductions in impairment while working, overall work impairment, and activity impairment were demonstrated in ADVANCE; and greater reduction in activity impairment was demonstrated in MOTIVATE.
+These improvements were maintained in subjects treated with risankizumab IV/ risankizumab SC in FORTIFY through week 52.
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with risankizumab in one or more subsets of the paediatric population in the treatment of Crohn’s disease (see section 4.2 for information on paediatric use).
+
+[Skyrizi 360 mg solution for injection in cartridge]
+
+The efficacy and safety of risankizumab were assessed in 1 419 subjects with moderately to severely active Crohn’s disease in three multicentre, randomised, double-blind, placebo-controlled clinical studies.
+
+There were two 12-week intravenous induction studies (ADVANCE and MOTIVATE), which included a 12-week extension period for subjects who did not achieve SF/APS clinical response (≥ 30% decrease in SF and/or ≥ 30% decrease in APS and both not worse than baseline) at week 12.
+
+|  | ADVANCE |  |  | MOTIVATE |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Placebo IV (N=175) % | Risankizumab 600 mg IV (N=336) % | Treatment differenced (95% CI) | Placebo IV (N=187) % | Risankizumab 600 mg IV (N=191) % | Treatment differenced (95% CI) |
+| Co-primary endpoints |  |  |  |  |  |  |
+| Clinical remission at week 12e | 22% | 43% | 22% [14%, 30%]a | 19% | 35% | 15% [6%, 24%]b |
+| Endoscopic response at week 12f | 12% | 40% | 28% [21%, 35%]a | 11% | 29% | 18% [10%, 25%]a |
+| Additional endpoints |  |  |  |  |  |  |
+| Enhanced SF/APS clinical response at week 4g | 31% | 46% | 15% [6%, 23%]b | 32% | 45% | 14% [4%, 23%]c |
+| Enhanced SF/APS clinical response at week 12 g | 42% | 63% | 21% [12%, 30%]a | 39% | 62% | 23% [13%, 33%]a |
+| CDAI <150 at week 4 | 10% | 18% | 8% [1%, 14%]c | 11% | 21% | 10% [2%, 17%]c |
+| CDAI <150 at week 12 | 25% | 45% | 21% [12%, 29%]a | 20% | 42% | 22% [13%, 31%]a |
+| Mucosal healing at week 12 h | (N=173) 8% | (N=336) 21% | 14% [8%, 19%]a | (N=186) 4% | (N=190) 14% | 9% [4%, 15%]b |
+| Endoscopic remission at week 12i | 9% | 24% | 15% [9%, 21%]a | 4% | 19% | 15% [9%, 21%]a |
+| a Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p<0.001). b Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p≤0.01). cNominal p ≤ 0.05 risankizumab vs placebo comparison. d Adjusted treatment difference. e Clinical remission based on SF/APS: average daily SF ≤2.8 and not worse than baseline and average daily AP score ≤1 and not worse than baseline. f Endoscopic response: greater than 50% decrease in SES-CD from baseline, or a decrease of at least 2 points for subjects with a baseline score of 4 and isolated ileal disease. g Enhanced SF/APS clinical response: ≥60% decrease in average daily SF and/or ≥35% decrease in average daily AP score and both not worse than Baseline, and/or clinical remission. h Mucosal healing: SES-CD ulcerated surface subscore of 0 in subjects with a subscore of ≥1 at Baseline. i Endoscopic remission: SES-CD ≤4 and at least a 2 point reduction versus Baseline and no subscore greater than 1 in any individual variable. |  |  |  |  |  |  |
+
+|  | Risankizumab IV induction/ Placebo SCf (N=164) % | Risankizumab IV induction/ Risankizumab 360 mg SC (N=141) % | Treatment difference (95% CI) |
+| --- | --- | --- | --- |
+| Co-primary endpoints |  |  |  |
+| Clinical remission | 40% | 52% | 15% [5%, 25%]a,g |
+| Prior biologic failure | 34% (N=123) | 48% (N=102) | 14% [1%,27%] |
+| Without prior biologic failure | 56% (N=41) | 62% (N=39) | 5% [-16%,27%] |
+| Endoscopic response | 22% | 47% | 28% [19%, 37%]b,g |
+| Prior biologic failure | 20% (N=123) | 44% (N=102) | 23% [11%, 35%] |
+| Without prior biologic failure | 27% (N=41) | 54% (N=39) | 27% [6%, 48%] |
+| Additional endpoints |  |  |  |
+| Enhanced SF/APS clinical response | 49% | 59% | 13% [2%, 23%]e,g |
+| Maintenance of clinical remissionh | (N = 91) 51% | (N = 72) 69% | 21% [6%, 35%]d,g |
+| Endoscopic remission | 13% | 39% | 28% [20%, 37%]c,g |
+| Mucosal healing | (N = 162) 10% | (N = 141) 31% | 22% [14%, 30%]c,g |
+| a Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p≤0.01). b Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p<0.001). c Nominal p<0.001 risankizumab vs placebo comparison without overall type I error control. d Nominal p≤0.01 risankizumab vs placebo comparison without overall type I error control. e Nominal p≤0.05 risankizumab vs placebo comparison without overall type I error control. f The induction-only group consisted of subjects who achieved clinical response to risankizumab induction therapy and were randomised to receive placebo in the maintenance study (FORTIFY). g Adjusted treatment difference. h Maintenance of clinical remission: clinical remission at week 52 in subjects with clinical remission at week 0. |  |  |  |

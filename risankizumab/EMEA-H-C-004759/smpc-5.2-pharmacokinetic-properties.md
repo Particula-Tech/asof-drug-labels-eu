@@ -67,3 +67,39 @@ Gender or race
 
 The clearance of risankizumab was not significantly influenced by gender or race in adult subjects with plaque psoriasis or psoriatic arthritis.
 No clinically meaningful differences in risankizumab exposure were observed in Chinese or Japanese subjects compared with Caucasian subjects in a clinical pharmacokinetic study.
+
+[Skyrizi 600 mg concentrate for solution for infusion]
+
+Risankizumab exhibited linear pharmacokinetics with dose-proportional increase in exposure across dose ranges of 18 to 360 mg and 0.25 to 1 mg/kg administered subcutaneously, and 200 to 1 800 mg and 0.01 to 5 mg/kg administered intravenously.
+
+Following subcutaneous dosing of risankizumab, peak plasma concentrations were achieved between 3-14 days after dosing with an estimated absolute bioavailability of 74-89%.
+With dosing of 150 mg at week 0, week 4 and every 12 weeks thereafter, estimated steady-state peak and trough plasma concentrations are 12 and 2 µg/mL, respectively.
+
+In subjects with Crohn’s disease treated with 600 mg intravenous (IV) induction dose at weeks 0, 4, and 8 followed by 360 mg subcutaneous (SC) maintenance dose at week 12 and every 8 weeks thereafter, maximum median peak and trough concentrations are estimated to be 156 and 38.8 µg/mL respectively during the induction period (weeks 8-12) and steady state median peak and trough concentrations are estimated to be 28.0 and 8.13 µg/mL respectively during the maintenance period (weeks 40-48).
+
+In a typical 70 kg subject with Crohn’s disease, Vss was 7.68 L.
+
+For a typical 70 kg subject with Crohn’s disease, CL was 0.30 L/day and terminal elimination half-life was 21 days.
+
+Risankizumab exhibited linear pharmacokinetics with approximately dose-proportional increases in systemic exposure (Cmax and AUC) in the evaluated dose ranges of 18 to 360 mg or 0.25 to 1 mg/kg subcutaneous administration and 200 to 1 800 mg and 0.01 to 5 mg/kg administered intravenously in healthy subjects or subjects with psoriasis or Crohn’s disease.
+
+Population pharmacokinetic analyses indicated that risankizumab exposure was not impacted by concomitant medicinal products used by some subjects with plaque psoriasis during the clinical studies.
+Similar lack of impact by concomitant medications was observed based on population pharmacokinetic analyses in Crohn’s disease.
+
+The pharmacokinetics of risankizumab in paediatric subjects under 16 years of age has not been established.
+Of the 1 574 subjects with Crohn’s disease exposed to risankizumab, 12 were 16 to 17 years old.
+Risankizumab exposures in 16 to 17 year-old subjects with Crohn’s disease were similar to those in adults.
+Age was not found to have any significant impact on risankizumab exposures based on the population pharmacokinetic analyses.
+
+Of the 1 574 subjects with Crohn’s disease exposed to risankizumab, 72 were 65 years or older and 5 subjects were 75 years or older.
+
+Based on population pharmacokinetic analyses, serum creatinine levels, creatinine clearance, or hepatic function markers (ALT/AST/bilirubin) did not have a meaningful impact on risankizumab clearance in subjects with psoriasis, or Crohn’s disease.
+
+However, this observation is based on a limited number of subjects with plaque psoriasis.
+
+The clearance of risankizumab was not significantly influenced by gender or race in adult subjects with plaque psoriasis or Crohn’s disease.
+No clinically meaningful differences in risankizumab exposure were observed in Chinese or Japanese subjects compared to Caucasian subjects in clinical pharmacokinetic studies in healthy volunteers.
+
+[Skyrizi 360 mg solution for injection in cartridge]
+
+Risankizumab exposures in 16- to 17-year-old subjects with Crohn’s disease were similar to those in adults.
