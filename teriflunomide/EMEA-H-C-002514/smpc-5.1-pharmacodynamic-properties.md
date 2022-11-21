@@ -51,7 +51,7 @@ The mean duration of disease, since first symptoms, was 8.0 years.
 A majority of patients (67.2%) had not received disease-modifying therapy during the 2 years before study entry.
 The study results are shown in Table 1.
 
-Table 1 - Main results (for the approved dose, ITT population)
+Table 1 ­ Main results (for the approved dose, ITT population)
 
 |  | TEMSO-study |  | TOWER-study |  |
 | --- | --- | --- | --- | --- |
@@ -121,8 +121,8 @@ Table 2 - Clinical and MRI results of EFC11759/TERIKIDS
 | Clinical endpoints |  |  |
 | Time to first confirmed clinical relapse, Probability (95%CI) of confirmed relapse at Week 96 Probability (95%CI) of confirmed relapse at Week 48 | 0.39 (0.29, 0.48) 0.30 (0.21, 0.39) | 0.53 (0.36, 0.68) 0.39 (0.30, 0.52) |
 | Hazard Ratio (95% CI) | 0.66 (0.39, 1.11)^ |  |
-| Time to first confirmed clinical relapse or high MRI activity, Probability (95%CI) of confirmed relapse or high MRI activity at Week 96 | 0.51 (0.41, 0.60) | 0.72 (0.58, 0.82) |
-| Probability (95%CI) of confirmed relapse or high MRI activity at Week 48 | 0.38 (0.29, 0.47) | 0.56 (0.42, 0.68) |
+| Time to first confirmed clinical relapse or high MRI activity, Probability (95%CI) of confirmed relapse or high MRI activity at Week 96 Probability (95%CI) of confirmed relapse or high MRI activity at Week 48 | 0.51 (0.41, 0.60) | 0.72 (0.58, 0.82) |
+|  | 0.38 (0.29, 0.47) | 0.56 (0.42, 0.68) |
 | Hazard Ratio (95% CI) | 0.57 (0.37, 0.87)* |  |
 | Key MRI endpoints |  |  |
 | Adjusted number of new or enlarged T2 lesions, Estimate (95% CI) Estimate (95% CI), post-hoc analysis also adjusted for baseline T2 counts | 4.74 (2.12, 10.57) 3.57 (1.97, 6.46) | 10.52 (4.71, 23.50) 5.37 (2.84, 10.16) |
