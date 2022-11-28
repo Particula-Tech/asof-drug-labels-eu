@@ -48,25 +48,22 @@ Patients must be instructed to report all signs and symptoms suggestive of infec
 In patients concomitantly taking haematotoxic medicinal products (e.g. leflunomide), the blood count and platelets should be closely monitored.
 
 Liver function tests
-Particular attention should be paid to the onset of liver toxicity.
-Treatment should not be initiated or should be discontinued if there are any abnormalities in liver function tests or liver biopsies, or if these develop during therapy.
-Such abnormalities should return to normal within two weeks; after which, treatment may be resumed at the discretion of the doctor.
+Treatment should not be initiated or should be discontinued if there are persistent or significant abnormalities in liver function tests, other non-invasive investigations of hepatic fibrosis, or liver biopsies.
 
 Temporary increases in transaminases to two or three times the upper limit of normal have been reported in patients at a frequency of 13-20 %.
-Persistent anomalies of liver-related enzymes and/or decrease in serum albumin may be indicative for severe hepatotoxicity.
+Persistent elevation of liver enzymes and/or decrease in serum albumin may be indicative for severe hepatotoxicity.
+In the event of a persistent increase in liver enzymes, consideration should be given to reducing the dose or discontinuing therapy.
 
-Enzyme diagnostics does not allow any reliable prediction of the development of a morphologically detectable hepatotoxicity, i.e. even in case of normal transaminases, hepatic fibrosis only histologically identifiable or, more rarely, also hepatocirrhosis may be present.
+Histological changes, fibrosis and more rarely liver cirrhosis may not be preceded by abnormal liver function tests.
+There are instances in cirrhosis where transaminases are normal.
+Therefore, non-invasive diagnostic methods for monitoring of liver condition should be considered, in addition to liver function tests.
+Liver biopsy should be considered on an individual basis taking into account the patient’s comorbidities, medical history and the risks related to biopsy.
+Risk factors for hepatotoxicity include excessive prior alcohol consumption, persistent elevation of liver enzymes, history of liver disease, family history of hereditary liver disorders, diabetes mellitus, obesity and previous contact with hepatotoxic drugs or chemicals and prolonged methotrexate treatment.
 
-In rheumatological indications, there is no evidence to support use of liver biopsies in monitoring hepatotoxicity.
-For psoriasis patients the need of a liver biopsy prior to and during therapy is controversial.
-Further research is needed to establish whether serial liver chemistry tests or propeptide of type III collagen can detect hepatotoxicity sufficiently.
-This assessment should differentiate between patients without any risk factors and patients with risk factors, e.g. excessive prior alcohol consumption, persistent elevation of liver enzymes, history of liver disease, family history of hereditary liver disorders, diabetes mellitus, obesity and previous contact with hepatotoxic medicinal products or chemicals and prolonged methotrexate treatment or cumulative doses of 1.5 g or more.
+Additional hepatotoxic medicinal products should not be given during treatment with methotrexate unless clearly necessary.Alcohol consumption should be avoided (see sections 4.3 and 4.5).
+Closer monitoring of liver enzymes should be undertaken in patients concomitantly taking other hepatotoxic medicinal products.
 
-In the event of a constant increase in liver-related enzymes, consideration should be given to reducing the dose or discontinuing therapy.
-
-Due to the potentially toxic effect on the liver, additional hepatotoxic medicinal products should not be given during treatment with methotrexate unless clearly necessary and alcohol consumption should be avoided or greatly reduced (see section 4.5).
-Closer monitoring of liver enzymes should be undertaken in patients concomitantly taking other hepatotoxic medicinal products (e.g. leflunomide).
-Increased caution should generally be exercised in patients with insulin-dependent diabetes mellitus, as during methotrexate therapy hepatocirrhosis developed in isolated cases without intermittent increase in transaminases.
+Increased caution should be exercised in patients with insulin-dependent diabetes mellitus, as during methotrexate therapy, liver cirrhosisdeveloped in isolated cases without any elevation of transaminases.
 
 Renal function
 Renal function should be monitored via renal function tests and urinanalysis (see sections 4.2 and 4.3).
@@ -111,12 +108,16 @@ If lymphomas should fail to regress spontaneously, initiation of cytotoxic thera
 
 In patients with pathological accumulation of liquid in body cavities (“third space”), such as ascites or pleural effusions, the plasma elimination half-life of methotrexate is prolonged.
 Pleural effusions and ascites should be drained prior to initiation of methotrexate treatment.
-
 Conditions leading to dehydration such as emesis, diarrhoea or stomatitis, can increase the toxicity of methotrexate due to elevated levels of the active substance.
 In these cases use of methotrexate should be interrupted until the symptoms cease.
 
 Diarrhoea and ulcerative stomatitis can be toxic effects and require interruption of therapy, otherwise haemorrhagic enteritis and death from intestinal perforation may occur.
 If haematemesis, black discoloration of the stool or blood in stool occur, therapy is to be interrupted.
+
+Progressive multifocal leukoencephalopathy (PML)
+
+Cases of progressive multifocal leukoencephalopathy (PML) have been reported in patients receiving methotrexate, mostly in combination with other immunosuppressive medication.
+PML can be fatal and should be considered in the differential diagnosis in immunosuppressed patients with new onset or worsening neurological symptoms.
 
 Vitamin preparations or other products containing folic acid, folinic acid or their derivatives may decrease the effectiveness of methotrexate.
 

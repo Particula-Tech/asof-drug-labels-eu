@@ -12,6 +12,7 @@ Regular alcohol consumption and administration of additional hepatotoxic medicin
 Alcohol consumption must be avoided during treatment with methotrexate.
 
 Patients taking potentially hepatotoxic and haematoxic medicinal products during methotrexate therapy (e.g. leflunomide, azathioprine, sulphasalazine, and retinoids) should be closely monitored for possibly increased hepatotoxicity.
+
 Haematotoxic medicinal products
 
 Administration of additional haematotoxic medicinal products (e.g. metamizole) increases the probability of severe haematoxic effects of methotrexate.
