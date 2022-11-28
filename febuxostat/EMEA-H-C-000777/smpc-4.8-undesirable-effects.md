@@ -1,7 +1,7 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-The most commonly reported adverse reactions in clinical trials (4,072 subjects treated at least with a dose from 10 mg to 300 mg) and post-marketing experience are gout flares, liver function abnormalities, diarrhoea, nausea, headache, rash and oedema.
+The most commonly reported adverse reactions in clinical trials (4,072 subjects treated at least with a dose from 10 mg to 300 mg), post-authorisation safety studies (FAST study: 3001 subjects treated at least with a dose from 80 mg to 120 mg) and post-marketing experience are gout flares, liver function abnormalities, diarrhoea, nausea, headache, dizziness, dyspnoea, rash, pruritus,arthralgia, myalgia, pain in extremity, oedema and fatigue.
 These adverse reactions were mostly mild or moderate in severity.
 Rare serious hypersensitivity reactions to febuxostat, some of which were associated to systemic symptoms, and rare events of sudden cardiac death, have occurred in the post-marketing experience.
 
@@ -10,32 +10,34 @@ Common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100) and rare (≥1/10,00
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Table 1: Adverse reactions in combined phase 3, long-term extension studies and post-marketing experience
+Table 1: Adverse reactions in combined phase 3, long-term extension studies, post-authorisation safety studies and post-marketing experience
 
-| Blood and lymphatic system disorders | Rare Pancytopenia, thrombocytopenia, agranulocytosis* |
+| Blood and lymphatic system disorders | Rare Pancytopenia, thrombocytopenia, agranulocytosis*, anaemia# |
 | --- | --- |
 | Immune system disorders | Rare Anaphylactic reaction*, drug hypersensitivity* |
-| Endocrine disorders | Uncommon Blood thyroid stimulating hormone increased |
-| Eye disorders | Rare Blurred vision |
+| Endocrine disorders | Uncommon Blood thyroid stimulating hormone increased, hypothyroidism# |
+| Eye disorders | Uncommon Blurred vision Rare Retinal artery occlusion# |
 | Metabolism and nutrition disorders | Common*** Gout flares Uncommon Diabetes mellitus, hyperlipidemia, decrease appetite, weight increase Rare Weight decrease, increase appetite, anorexia |
-| Psychiatric disorders | Uncommon Libido decreased, insomnia Rare Nervousness |
-| Nervous system disorders | Common Headache Uncommon Dizziness, paraesthesia, hemiparesis, somnolence, altered taste, hypoaesthesia, hyposmia |
-| Ear and labyrinth disorders | Rare Tinnitus |
-| Cardiac disorders | Uncommon Atrial fibrillation, palpitations, ECG abnormal Rare Sudden cardiac death* |
-| Vascular disorders | Uncommon Hypertension, flushing, hot flush |
-| Respiratory system disorders | Uncommon Dyspnoea, bronchitis, upper respiratory tract infection, cough |
-| Gastrointestinal disorders | Common Diarrhoea**, nausea Uncommon: Abdominal pain, abdominal distension, gastro-oesophageal reflux disease, vomiting, dry mouth, dyspepsia, constipation, frequent stools, flatulence, gastrointestinal discomfort Rare Pancreatitis, mouth ulceration |
-| Hepato-biliary disorders | Common Liver function abnormalities** Uncommon Cholelithiasis Rare Hepatitis, jaundice*, liver injury* |
-| Skin and subcutaneous tissue disorders | Common Rash (including various types of rash reported with lower frequencies, see below) Uncommon Dermatitis, urticaria, pruritus, skin discolouration, skin lesion, petechiae, rash macular, rash maculopapular, rash papular Rare Toxic epidermal necrolysis*, Stevens-Johnson Syndrome*, angioedema*, drug reaction with eosinophilia and systemic symptoms*, generalized rash (serious)*, erythema, exfoliative rash, rash follicular, rash vesicular, rash pustular, rash pruritic*, rash erythematous, rash morbillifom, alopecia, hyperhidrosis |
-| Musculoskeletal and connective tissue disorders | Uncommon Arthralgia, arthritis, myalgia, musculoskeletal pain, muscle weakness, muscle spasm, muscle tightness, bursitis |
-|  | Rare Rhabdomyolysis*, joint stiffness, musculoskeletal stiffness |
-| Renal and urinary disorders | Uncommon Renal failure, nephrolithiasis, haematuria, pollakiuria, proteinuria Rare Tubulointerstitial nephritis*, micturition urgency |
+| Psychiatric disorders | Uncommon Libido decreased, insomnia Rare Nervousness, depressed mood#, sleep disorder# |
+| Nervous system disorders | Common Headache, dizziness Uncommon Paraesthesia, hemiparesis, somnolence, lethargy# altered taste, hypoaesthesia, hyposmia Rare Ageusia#, burning sensation# |
+| Ear and labyrinth disorders | Uncommon Tinnitus Rare Vertigo# |
+| Cardiac disorders | Uncommon Atrial fibrillation, palpitations, ECG abnormal, arrhythmia# Rare Sudden cardiac death* |
+| Vascular disorders | Uncommon Hypertension, flushing, hot flush Rare Circulatory collapse# |
+| Respiratory system disorders | Common Dyspnoea Uncommon Bronchitis, upper respiratory tract infection, lower respiratory tract infection#, cough, rhinorrhoea# Rare Pneumonia# |
+| Gastrointestinal disorders | Common Diarrhoea**, nausea Uncommon: Abdominal pain, abdominal pain upper #, abdominal distension, gastro-oesophageal reflux disease, vomiting, dry mouth, dyspepsia, constipation, frequent stools, flatulence, gastrointestinal discomfort, mouth ulceration, lip swelling #, pancreatitis Rare Gastrointestinal perforation #, stomatitis# |
+| Hepato-biliary disorders | Common Liver function abnormalities** Uncommon Cholelithiasis Rare Hepatitis, jaundice*, liver injury*, cholecystitis# |
+| Skin and subcutaneous tissue disorders | Common Rash (including various types of rash reported with lower frequencies, see below), pruritus Uncommon |
+|  | Dermatitis, urticaria, skin discolouration, skin lesion, petechiae, rash macular, rash maculopapular, rash papular, hyperhidrosis, alopecia, eczema #, erythema, night sweats #, psoriasis#, rash pruritic# Rare Toxic epidermal necrolysis*, Stevens-Johnson Syndrome*, angioedema*, drug reaction with eosinophilia and systemic symptoms*, generalized rash (serious)*, exfoliative rash, rash follicular, rash vesicular, rash pustular, rash erythematous, rash morbillifom |
+| Musculoskeletal and connective tissue disorders | Common Arthralgia, myalgia, pain in extremity# Uncommon Arthritis, musculoskeletal pain, muscle weakness, muscle spasm, muscle tightness, bursitis, joint swelling #, back pain #, musculoskeletal stiffness#, joint stiffness Rare Rhabdomyolysis*, rotator cuff syndrome #, polymyalgia rheumatica# |
+| Renal and urinary disorders | Uncommon Renal failure, nephrolithiasis, haematuria, pollakiuria, proteinuria, micturition urgency, urinary tract infection# Rare Tubulointerstitial nephritis* |
 | Reproductive system and breast disorder | Uncommon Erectile dysfunction |
-| General disorders and administration site conditions | Common Oedema Uncommon Fatigue, chest pain, chest discomfort Rare Thirst |
-| Investigations | Uncommon Blood amylase increase, platelet count decrease, WBC decrease, lymphocyte count decrease, blood creatine increase, blood creatinine increase, haemoglobin decrease, blood urea increase, blood triglycerides increase, blood cholesterol increase, haematocritic decrease, blood lactate dehydrogenase increased, blood potassium increase Rare Blood glucose increase, activated partial thromboplastin time prolonged, red blood cell count decrease, blood alkaline phosphatase increase, blood creatine phosphokinase increase* |
+| General disorders and administration site conditions | Common Oedema, Fatigue Uncommon Chest pain, chest discomfort, pain #, malaise# Rare Thirst, feeling hot# |
+| Investigations | Uncommon Blood amylase increase, platelet count decrease, WBC decrease, lymphocyte count decrease, blood creatine increase, blood creatinine increase, haemoglobin decrease, blood urea increase, blood triglycerides increase, blood cholesterol increase, haematocritic decrease, blood lactate dehydrogenase increased, blood potassium increase, INR increased# Rare Blood glucose increase, activated partial thromboplastin time prolonged, red blood cell count decrease, blood alkaline phosphatase increase, blood creatine phosphokinase increase* |
+| Injury, poisoning and procedural complications | Uncommon Contusion# |
 
 * Adverse reactions coming from post-marketing experience
 ** Treatment-emergent non-infective diarrhoea and abnormal liver function tests in the combined Phase 3 studies are more frequent in patients concomitantly treated with colchicine. *** See section 5.1 for incidences of gout flares in the individual Phase 3 randomized controlled studies.
+# Adverse reactions coming from post-authorisation safety studies
 
 Description of selected adverse reactions
 Rare serious hypersensitivity reactions to febuxostat, including Stevens-Johnson Syndrome, Toxic epidermal necrolysis and anaphylactic reaction/shock, have occurred in the post-marketing experience.
@@ -53,32 +55,35 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [ADENURIC 120 mg film-coated tablets]
 
-The most commonly reported adverse reactions in clinical trials (4,072 subjects treated at least with a dose from 10 mg to 300 mg) and post-marketing experience in gout patients are gout flares, liver function abnormalities, diarrhoea, nausea, headache, rash and oedema.
+The most commonly reported adverse reactions in clinical trials (4,072 subjects treated at least with a dose from 10 mg to 300 mg), post-authorisation safety studies (FAST study: 3001 subjects treated at least with a dose from 80 mg to 120 mg) and post-marketing experience in gout patients are gout flares, liver function abnormalities, diarrhoea, nausea, headache, dizziness, dyspnoea, rash, pruritus,arthralgia, myalgia, pain in extremity, oedema and fatigue.
 
 The frequencies are based on studies and post-marketing experience in gout patients.
 
-Table 1: Adverse reactions in combined phase 3, long-term extension studies and post-marketing experience in gout patients.
+Table 1: Adverse reactions in combined phase 3, long-term extension studies, post-authorisation safety studies and post-marketing experience in gout patients
 
-| Blood and lymphatic system disorders | Rare Pancytopenia, thrombocytopenia, agranulocytosis* |
+| Blood and lymphatic system disorders | Rare Pancytopenia, thrombocytopenia, agranulocytosis*, anaemia# |
 | --- | --- |
 | Immune system disorders | Rare Anaphylactic reaction*, drug hypersensitivity* |
-| Endocrine disorders | Uncommon Blood thyroid stimulating hormone increased |
-| Eye disorders | Rare Blurred vision |
+| Endocrine disorders | Uncommon Blood thyroid stimulating hormone increased, hypothyroidism# |
+| Eye disorders | Uncommon Blurred vision Rare Retinal artery occlusion# |
 | Metabolism and nutrition disorders | Common*** Gout flares Uncommon Diabetes mellitus, hyperlipidemia, decrease appetite, weight increase Rare Weight decrease, increase appetite, anorexia |
-| Psychiatric disorders | Uncommon Libido decreased, insomnia Rare Nervousness |
-| Nervous system disorders | Common Headache Uncommon Dizziness, paraesthesia, hemiparesis, somnolence, altered taste, hypoaesthesia, hyposmia |
-| Ear and labyrinth disorders | Rare Tinnitus |
-| Cardiac disorders | Uncommon Atrial fibrillation, palpitations, ECG abnormal, left bundle branch block (see section Tumor Lysis Syndrome), sinus tachycardia (see section Tumor Lysis Syndrome) Rare Sudden cardiac death* |
-| Vascular disorders | Uncommon Hypertension, flushing, hot flush, haemorrhage (see section Tumor Lysis Syndrome) |
-| Respiratory system disorders | Uncommon Dyspnoea, bronchitis, upper respiratory tract infection, cough |
-| Gastrointestinal disorders | Common Diarrhoea**, nausea Uncommon: Abdominal pain, abdominal distension, gastro-oesophageal reflux disease, vomiting, dry mouth, dyspepsia, constipation, frequent stools, flatulence, gastrointestinal discomfort Rare Pancreatitis, mouth ulceration |
-| Hepato-biliary disorders | Common Liver function abnormalities** Uncommon Cholelithiasis Rare Hepatitis, jaundice*, liver injury* |
-| Skin and subcutaneous tissue disorders | Common Rash (including various types of rash reported with lower frequencies, see below) Uncommon Dermatitis, urticaria, pruritus, skin discolouration, skin lesion, petechiae, rash macular, rash maculopapular, rash papular Rare Toxic epidermal necrolysis*, Stevens-Johnson Syndrome*, angioedema*, drug reaction with eosinophilia and systemic symptoms*, generalized rash (serious)*, erythema, exfoliative rash, rash follicular, rash vesicular, rash pustular, rash pruritic*, rash erythematous, rash morbillifom, alopecia, hyperhidrosis |
-| Musculoskeletal and connective tissue disorders | Uncommon Arthralgia, arthritis, myalgia, musculoskeletal pain, muscle weakness, muscle spasm, muscle tightness, bursitis Rare Rhabdomyolysis*, joint stiffness, musculoskeletal stiffness |
-| Renal and urinary disorders | Uncommon Renal failure, nephrolithiasis, haematuria, pollakiuria, proteinuria Rare Tubulointerstitial nephritis*, micturition urgency |
+| Psychiatric disorders | Uncommon Libido decreased, insomnia Rare Nervousness, depressed mood#, sleep disorder# |
+| Nervous system disorders | Common Headache, dizziness Uncommon Paraesthesia, hemiparesis, somnolence, lethargy# altered taste, hypoaesthesia, hyposmia Rare Ageusia#, burning sensation# |
+| Ear and labyrinth disorders | Uncommon Tinnitus Rare Vertigo# |
+| Cardiac disorders | Uncommon Atrial fibrillation, palpitations, ECG abnormal, left bundle branch block (see section Tumor Lysis Syndrome), sinus tachycardia (see section Tumor Lysis Syndrome), arrhythmia# Rare Sudden cardiac death* |
+| Vascular disorders | Uncommon Hypertension, flushing, hot flush, haemorrhage (see section Tumor Lysis Syndrome) Rare Circulatory collapse# |
+| Respiratory system disorders | Common |
+|  | Dyspnoea Uncommon Bronchitis, upper respiratory tract infection, lower respiratory tract infection#, cough, rhinorrhoea# Rare Pneumonia# |
+| Gastrointestinal disorders | Common Diarrhoea**, nausea Uncommon: Abdominal pain, abdominal pain upper #, abdominal distension, gastro-oesophageal reflux disease, vomiting, dry mouth, dyspepsia, constipation, frequent stools, flatulence, gastrointestinal discomfort, mouth ulceration, lip swelling #, pancreatitis Rare Gastrointestinal perforation #, stomatitis# |
+| Hepato-biliary disorders | Common Liver function abnormalities** Uncommon Cholelithiasis Rare Hepatitis, jaundice*, liver injury*, cholecystitis# |
+| Skin and subcutaneous tissue disorders | Common Rash (including various types of rash reported with lower frequencies, see below), pruritus Uncommon Dermatitis, urticaria, skin discolouration, skin lesion, petechiae, rash macular, rash maculopapular, rash papular, hyperhidrosis, alopecia, eczema #, erythema, night sweats #, psoriasis#, rash pruritic# Rare Toxic epidermal necrolysis*, Stevens-Johnson Syndrome*, angioedema*, drug reaction with eosinophilia and systemic symptoms*, generalized rash (serious)*, exfoliative rash, rash follicular, rash vesicular, rash pustular, rash erythematous, rash morbillifom |
+| Musculoskeletal and connective tissue disorders | Common Arthralgia, myalgia, pain in extremity# Uncommon Arthritis, musculoskeletal pain, muscle weakness, muscle spasm, muscle tightness, bursitis, joint swelling #, back pain #, musculoskeletal stiffness#, joint stiffness Rare Rhabdomyolysis*, rotator cuff syndrome #, polymyalgia rheumatica# |
+| Renal and urinary disorders | Uncommon Renal failure, nephrolithiasis, haematuria, pollakiuria, proteinuria, micturition urgency, urinary tract infection# Rare Tubulointerstitial nephritis* |
 | Reproductive system and breast disorder | Uncommon Erectile dysfunction |
-| General disorders and administration site conditions | Common Oedema Uncommon Fatigue, chest pain, chest discomfort Rare Thirst |
-| Investigations | Uncommon Blood amylase increase, platelet count decrease, WBC decrease, lymphocyte count decrease, blood creatine increase, blood creatinine increase, haemoglobin decrease, blood urea increase, blood triglycerides increase, blood cholesterol increase, haematocritic decrease, blood lactate dehydrogenase increased, blood potassium increase Rare Blood glucose increased, activated partial thromboplastin time prolonged, red blood cell count decrease, blood alkaline phosphatase increase, blood creatine phosphokinase increase* |
+| General disorders and administration site conditions | Common Oedema, Fatigue Uncommon Chest pain, chest discomfort, pain #, malaise# Rare |
+|  | Thirst, feeling hot# |
+| Investigations | Uncommon Blood amylase increase, platelet count decrease, WBC decrease, lymphocyte count decrease, blood creatine increase, blood creatinine increase, haemoglobin decrease, blood urea increase, blood triglycerides increase, blood cholesterol increase, haematocritic decrease, blood lactate dehydrogenase increased, blood potassium increase, INR increased# Rare Blood glucose increase, activated partial thromboplastin time prolonged, red blood cell count decrease, blood alkaline phosphatase increase, blood creatine phosphokinase increase* |
+| Injury, poisoning and procedural complications | Uncommon Contusion# |
 
 Tumor Lysis Syndrome
 In the randomized, double-blind, Phase 3 pivotal FLORENCE (FLO-01) study comparing febuxostat with allopurinol (346 patients undergoing chemotherapy for haematologic malignancies and at intermediate-to-high risk of TLS), only 22 (6.4%) patients overall experienced adverse reactions, namely 11 (6.4%) patients in each treatment group.

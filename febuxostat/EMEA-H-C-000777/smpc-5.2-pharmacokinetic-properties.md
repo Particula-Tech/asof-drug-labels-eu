@@ -31,9 +31,10 @@ Elimination
 Febuxostat is eliminated by both hepatic and renal pathways.
 Following an 80 mg oral dose of 14C-labeled febuxostat, approximately 49% of the dose was recovered in the urine as unchanged febuxostat (3%), the acyl glucuronide of the active substance (30%), its known oxidative metabolites and their conjugates (13%), and other unknown metabolites (3%).
 In addition to the urinary excretion, approximately 45% of the dose was recovered in the faeces as the unchanged febuxostat (12%), the acyl glucuronide of the active substance (1%), its known oxidative metabolites and their conjugates (25%), and other unknown metabolites (7%).
+
 Renal impairment
 Following multiple doses of 80 mg of ADENURIC in patients with mild, moderate or severe renal impairment, the Cmax of febuxostat did not change, relative to subjects with normal renal function.
-The mean total AUC of febuxostat increased by approximately 1.8-fold from 7.5 µg⋅h/mL in the normal renal function group to 13.2 µg.h/mL in the severe renal dysfunction group.
+The mean total AUC of febuxostat increased by approximately 1.8-fold from 7.5 μg⋅h/mL in the normal renal function group to 13.2 μg.h/mL in the severe renal dysfunction group.
 The Cmax and AUC of active metabolites increased up to 2- and 4-fold, respectively.
 However, no dose adjustment is necessary in patients with mild or moderate renal impairment.
 

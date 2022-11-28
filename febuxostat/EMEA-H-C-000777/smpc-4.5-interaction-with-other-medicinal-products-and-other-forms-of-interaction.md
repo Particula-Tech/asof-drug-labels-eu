@@ -2,10 +2,9 @@
 
 Mercaptopurine/azathioprine
 On the basis of the mechanism of action of febuxostat on XO inhibition concomitant use is not recommended.
-Inhibition of XO by febuxostat may cause increased plasma concentrations of these drugs leading to toxicity.
-Drug interaction studies of febuxostat with drugs (except theophylline) that are metabolized by XO have not been performed in humans.
-Modelling and simulation analysis of data from a pre-clinical study in rats indicates that, in case of concomitant administration with febuxostat, the dose of mercaptopurine/azathioprine should be reduced to 20% or less of the previously prescribed dose (see section 4.4 and 5.3)
-
+Inhibition of XO by febuxostat may cause increased plasma concentrations of these drugs leading to myelotoxicity.
+In case of concomitant administration with febuxostat, the dose of mercaptopurine/azathioprine should be reduced to 20% or less of the previously prescribed dose (see sections 4.4 and 5.3)
+The adequacy of the proposed dose adjustment, which was based on a modelling and simulation analysis from preclinical data in rats, was confirmed by the results of a clinical drug-drug interaction study in healthy volunteers, receiving azathioprine 100 mg alone and a reduced dose of azathioprine (25 mg) in combination with febuxostat (40 or 120 mg).
 Drug interaction studies of febuxostat with other cytotoxic chemotherapy have not been conducted.
 No data is available regarding the safety of febuxostat during other cytotoxic therapy.
 
@@ -54,7 +53,7 @@ Therefore, febuxostat may be taken without regard to antacid use.
 
 [ADENURIC 120 mg film-coated tablets]
 
-Modelling and simulation analysis of data from a pre-clinical study in rats indicates that, in case of concomitant administration with febuxostat, the dose of mercaptopurine/azathioprine should be reduced to the 20% or less of the previously prescribed dose (see section 4.4 and 5.3).
+In case of concomitant administration with febuxostat, the dose of mercaptopurine/azathioprine should be reduced to the 20% or less of the previously prescribed dose (see sections 4.4 and 5.3).
 
 In the Tumor Lysis Syndrome pivotal trial febuxostat 120 mg daily was administered to patients undergoing several chemotherapy regimens, including monoclonal antibodies.
 However, drug-drug and drug-disease interactions were not explored during this study.

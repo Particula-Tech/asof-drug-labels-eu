@@ -1,13 +1,10 @@
 # 4.4 Special warnings and precautions for use
 
 Cardio-vascular disorders
-Treatment with febuxostat in patients with pre-existing major cardiovascular diseases (e.g. myocardial infarction, stroke or unstable angina) should be avoided, unless no other therapy options are appropriate.
-A numerical greater incidence of investigator-reported cardiovascular APTC events (defined endpoints from the Anti-Platelet Trialists’ Collaboration (APTC) including cardiovascular death, non-fatal myocardial infarction, non-fatal stroke) was observed in the febuxostat total group compared to the allopurinol group in the APEX and FACT studies (1.3 vs. 0.3 events per 100 Patient Years (PYs)), but not in the CONFIRMS study (see section 5.1 for detailed characteristics of the studies).
-The incidence of investigator-reported cardiovascular APTC events in the combined Phase 3 studies (APEX, FACT and CONFIRMS studies) was 0.7 vs. 0.6 events per 100 PYs.
-In the long-term extension studies the incidences of investigator-reported APTC events were 1.2 and 0.6 events per 100 PYs for febuxostat and allopurinol, respectively.
-No statistically significant differences were found and no causal relationship with febuxostat was established.
-Identified risk factors among these patients were a medical history of atherosclerotic disease and/or myocardial infarction, or of congestive heart failure.
-In the post registrational CARES trial (see section 5.1 for detailed characteristics of the study) the rate of MACE events was similar in febuxostat versus allopurinol treated patients (HR 1.03; 95% CI 0.87-1.23), but a higher rate of cardiovascular deaths was observed (4.3% vs. 3.2% of patients; HR 1.34; 95% CI 1.03-1.73).
+In patients with pre-existing major cardiovascular diseases (e.g. myocardial infarction, stroke or unstable angina), during the development of the product and in one post registrational study (CARES), a higher number of fatal cardiovascular events were observed with febuxostat when compared to allopurinol.
+However, in a subsequent post registrational study (FAST), febuxostat was not inferior to allopurinol in the incidence of both fatal and non-fatal cardiovascular events.
+Treatment of this patient group should be exercised cautiously and they should be monitored regularly.
+For further details on cardiovascular safety of febuxostat refer to section 4.8 and section 5.1.
 
 Medicinal product allergy / hypersensitivity
 Rare reports of serious allergic/hypersensitivity reactions, including life-threatening Stevens-Johnson Syndrome, Toxic epidermal necrolysis and acute anaphylactic reaction/shock, have been collected in the post-marketing experience.
@@ -32,9 +29,7 @@ As there has been no experience with febuxostat, its use in these populations is
 
 Mercaptopurine/azathioprine
 Febuxostat use is not recommended in patients concomitantly treated with mercaptopurine/azathioprine as inhibition of xanthine oxidase by febuxostat may cause increased plasma concentrations of mercaptopurine/azathioprine that could result in severe toxicity.
-No interaction studies have been performed in humans.
-Where the combination cannot be avoided, a reduction of the dose of mercaptopurine/azathioprine is recommended.
-Based on modelling and simulation analysis of data from a pre-clinical study in rats, when coadministered with febuxostat, the dose of mercaptopurine/azathioprine should be reduced to the 20% or less of the previously prescribed dose in order to avoid possible haematological effects (see section 4.5 and 5.3).
+Where the combination cannot be avoided, a reduction of the dose of mercaptopurine/azathioprine to the 20% or less of the previously prescribed dose is recommended in order to avoid possible haematological effects (see sections 4.5 and 5.3).
 
 The patients should be closely monitored and the dose of mercaptopurine/azathioprine should be subsequently adjusted based on the evaluation of the therapeutic response and the onset of eventual toxic effects.
 
@@ -58,11 +53,12 @@ Lactose
 Febuxostat tablets contain lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
+Sodium
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
+
 [ADENURIC 120 mg film-coated tablets]
 
 Treatment of chronic hyperuricaemia
-
-In the post registrational CARES trial (see section 5.1 for detailed characteristics of the study) the rate of MACE events was similar in febuxostat versus allopurinol treated patients (HR 1.03;95% CI 0.87-1.23), but a higher rate of cardiovascular deaths was observed (4.3% vs. 3.2% of patients; HR 1.34; 95% CI 1.03-1.73).
 
 Prevention and treatment of hyperuricaemia in patients at risk of TLS
 Patients undergoing chemotherapy for haematologic malignancies at intermediate to high risk of Tumor Lysis Syndrome treated with ADENURIC should be under cardiac monitoring as clinically appropriate.
@@ -71,5 +67,3 @@ Gout flares may occur during initiation of treatment due to changing serum uric 
 
 This has not been observed in the pivotal clinical study with ADENURIC in the Tumor Lysis Syndrome.
 As there has been no experience with febuxostat, its use in patients with Lesch-Nyhan Syndrome is not recommended.
-
-Febuxostat use is not recommended in patients concomitantly treated with mercaptopurine/azathioprine as inhibition of xanthine oxidase by febuxostat may cause increased plasma concentrations of mercaptopurine/azathioprine that could result in severe toxicity.No interaction studies have been performed in humans.

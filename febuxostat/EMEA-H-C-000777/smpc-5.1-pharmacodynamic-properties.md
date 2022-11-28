@@ -45,7 +45,6 @@ Last Three Monthly Visits
 The ability of ADENURIC to lower serum uric acid levels was prompt and persistent.
 Reduction in serum uric acid level to <6.0 mg/dL (357 µmol/L) was noted by the Week 2 visit and was maintained throughout treatment.
 The mean serum uric acid levels over time for each treatment group from the two pivotal Phase 3 studies are shown in Figure 1.
-
 Figure 1 Mean Serum Uric Acid Levels in Combined Pivotal Phase 3 Studies
 
 11
@@ -111,6 +110,7 @@ The proportion of subjects requiring treatment for a gout flare (APEX and FACT S
 
 During the CONFIRMS study, the percentages of patients who required treatment for gout flares (Day 1 through Month 6) were 31% and 25% for the febuxostat 80 mg and allopurinol groups, respectively.
 No difference in the proportion of patients requiring treatment for gout flares was observed between the febuxostat 80 mg and 40 mg groups.
+
 Long-term, open label extension Studies
 EXCEL Study (C02-021): The Excel study was a three years Phase 3, open label, multicenter, randomised, allopurinol-controlled, safety extension study for patients who had completed the pivotal Phase 3 studies (APEX or FACT).
 A total of 1,086 patients were enrolled: ADENURIC 80 mg QD (n=649), Adenuric 120 mg QD (n=292) and allopurinol 300/100 mg QD (n=145).
@@ -125,7 +125,6 @@ Three years data showed a decrease in the incidence of gout flares with less tha
 FOCUS Study (TMX-01-005) was a 5 years Phase 2, open-label, multicenter, safety extension study for patients who had completed the febuxostat 4 weeks of double blind dosing in study TMX-00-004.
 116 patients were enrolled and received initially febuxostat 80 mg QD.
 62% of patients required no dose adjustment to maintain sUA <6 mg/dL and 38% of patients required a dose adjustment to achieve a final stable dose.
-
 The proportion of patients with serum urate levels of <6.0 mg/dL (357 µmol/L) at the final visit was greater than 80% (81-100%) at each febuxostat dose.
 
 During the phase 3 clinical studies, mild liver function test abnormalities were observed in patients treated with febuxostat (5.0%).
@@ -139,11 +138,23 @@ The primary endpoint in CARES was the time to first occurrence of MACE, a compos
 The endpoints (primary and secondary) were analysed according to the intention-to-treat (ITT) analysis including all subjects who were randomized and received at least one dose of double-blind study medication.
 Overall 56.6% of patients discontinued trial treatment prematurely and 45% of patients did not complete all trial visits.
 In total, 6,190 patients were followed for a median of 32 months and the median duration of exposure was 728 days for patients in febuxostat group (n 3098) and 719 days in allopurinol group (n 3092).
-The primary MACE endpoint occurred at similar rates in the febuxostat and allopurinol treatment groups (10.8% vs. 10.4% of patients, respectively; hazard ratio [HR] 1.03; two-sided repeated 95% confidence interval [CI] 0.87-1.23).
+The primary MACE endpoint occurred at similar rates in the febuxostat and allopurinol treatment groups (10.8% vs. 10.4% of patients, respectively; hazard ratio [HR] 1.03; two-sided repeated 95% confidence interval [CI] 0.89-1.21).
 In the analysis of the individual components of MACE, the rate of CV deaths was higher with febuxostat than allopurinol (4.3% vs. 3.2% of patients; HR 1.34; 95% CI 1.03-1.73).
 The rates of the other MACE events were similar in the febuxostat and allopurinol groups, i.e. non-fatal MI (3.6% vs. 3.8% of patients; HR 0.93; 95% CI 0.72-1.21), non-fatal stroke (2.3% vs. 2.3% of patients; HR 1.01; 95% CI 0.73-1.41) and urgent revascularization due to unstable angina (1.6% vs. 1.8% of patients; HR 0.86; 95% CI 0.59-1.26).
 The rate of all-cause mortality was also higher with febuxostat than allopurinol (7.8% vs. 6.4% of patients; HR 1.22; 95% CI 1.01-1.47), which was mainly driven by the higher rate of CV deaths in that group (see section 4.4).
 Rates of adjudicated hospitalization for heart failure, hospital admissions for arrhythmias not associated with ischemia, venous thromboembolic events and hospitalization for transient ischemic attacks were comparable for febuxostat and allopurinol.
+
+FAST study was a prospective, randomised, open-label, blinded-endpoint study comparing the CV safety profile of febuxostat versus allopurinol in patients with chronic hyperuricaemia (in conditions where urate deposition had already occurred) and CV risk factors (i.e. patients 60 years or older and with at least one other CV risk factor).
+Eligible patients received allopurinol treatment prior to randomization, and dose adjustments were required when needed, according to clinical judgement, EULAR recommendations and the approved posology.
+At the end of the allopurinol lead-in phase, patients with a sUA level of <0.36 mmol/L (<6 mg/dL) or receiving the maximum tolerated dose or the maximum licensed dose of allopurinol were randomised in a 1:1 ratio to receive either febuxostat or allopurinol treatment.
+The primary endpoint of the study FAST was the time to the first occurrence of any event included in the Antiplatelet Trialists’ Collaborative (APTC) composite endpoint, which included: i) hospitalisation for non-fatal MI/biomarker positive acute coronary syndrome (ACS); ii) non-fatal stroke; iii) death due to a CV event.
+The primary analysis was based on the on-treatment (OT) approach.
+Overall, 6,128 patients were randomized, 3063 to febuxostat and 3065 to allopurinol.
+In the primary OT analysis, febuxostat was non-inferior to allopurinol in the incidence of the primary endpoint, which occurred in 172 patients (1.72/100 patient years) on febuxostat compared to 241 patients (2.05/100 patient years) on allopurinol, with an adjusted HR 0.85 (95% CI: 0.70, 1.03), p<0.001.
+The OT analysis for the primary endpoint in the subgroup of patients with a history of MI, stroke or ACS showed no significant difference between treatment groups: there were 65 (9.5%) patients with events in the febuxostat group and 83 (11.8%) patients with events in the allopurinol group; adjusted HR 1.02 (95% CI: 0.74-1.42); p=0.202.
+Treatment with febuxostat was not associated with an increase in CV death or all-cause death, overall or in the subgroup of patients with a baseline history of MI, stroke or ACS.
+Overall, there were fewer deaths in the febuxostat group (62 CV deaths and 108 all-cause deaths), than in the allopurinol group (82 CV deaths and 174 all-cause deaths).
+There was a greater reduction in uric acid levels on febuxostat treatment compared to allopurinol treatment.
 
 [ADENURIC 120 mg film-coated tablets]
 
