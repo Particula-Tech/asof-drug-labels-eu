@@ -39,3 +39,10 @@ This may result in a decrease in systemic undesirable effects and an increase in
 
 If more than one topical ophthalmic medicinal product is being used, the medicinal products must be administered at least 15 minutes apart.
 IKERVIS should be administered last (see section 4.4).
+
+[IKERVIS 1 mg/mL eye drops, emulsion (SmPC 2)]
+
+Prior to administration, the bottle should be gently shaken.
+
+Patients should be informed of the correct handling of the multidose container.
+For instructions for use, see section 6.6.

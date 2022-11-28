@@ -2,3 +2,9 @@
 
 EU/1/15/990/001
 EU/1/15/990/002
+
+[IKERVIS 1 mg/mL eye drops, emulsion (SmPC 2)]
+
+EU/1/15/990/003
+EU/1/15/990/004
+EU/1/15/990/005
