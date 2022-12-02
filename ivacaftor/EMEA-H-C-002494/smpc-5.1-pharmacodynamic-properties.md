@@ -136,7 +136,7 @@ Table 7: Effect of ivacaftor for efficacy variables in the overall population an
 | Patients grouped under mutation types (n) Results shown as mean (minimum, maximum) change from baseline for ivacaftor-treated patients at week 8*: |  |  |
 | Mutation (n) | Absolute change in sweat chloride (mmol/L) | Absolute change in percent predicted FEV1 (percentage points) |
 |  | At week 8 | At week 8 |
-| G1244E (5) G1349D (2) G178R (5) G551S (2) G970R# (4) S1251N (8) S1255P (2) S549N (6) S549R (4) | ‑55 (-75, -34) -80 (-82, -79) -53 (-65, -35) -68† -6 (-16, -2) -54 (-84, -7) -78 (-82, -74) -74 (-93, -53) -61†† (-71, -54) | 8 (-1, 18) 20 (3, 36) 8 (-1, 18) 3† 3 (-1, 5) 9 (-20, 21) 3 (-1, 8) 11 (-2, 20) 5 (-3, 13) |
+| G1244E (5) G1349D (2) G178R (5) G551S (2) G970R# (4) S1251N (8) S1255P (2) S549N (6) S549R (4) | ‑ 55 (-75, -34) -80 (-82, -79) -53 (-65, -35) -68† -6 (-16, -2) -54 (-84, -7) -78 (-82, -74) -74 (-93, -53) -61†† (-71, -54) | 8 (-1, 18) 20 (3, 36) 8 (-1, 18) 3† 3 (-1, 5) 9 (-20, 21) 3 (-1, 8) 11 (-2, 20) 5 (-3, 13) |
 
 * Statistical testing was not performed due to small numbers for individual mutations.
 † Reflects results from the one patient with the G551S mutation with data at the 8-week time point.
@@ -299,7 +299,7 @@ The pharmacokinetic profile, safety, and efficacy of ivacaftor in patients with 
 
 Part B of study 8 enrolled 19 patients aged 12 months to less than 24 months (mean age 15.2 months at baseline), with 18 patients completing the 24-week treatment period, 11 patients aged 6 months to less than 12 months (mean age 9.0 months at baseline) with all 11 patients completing the 24-week treatment period, and 6 patients aged 4 months to less than 6 months (mean age 4.5 months at baseline) with all 6 patients completing the 24-week treatment period.
 Patients received ivacaftor 25 mg, 50 mg or 75 mg according to their age and weight at each study visit (see section 4.2).
-Ivacaftor was administered orally every 12 hours with fat-containing food.
+Ivacaftor was administered orally every 12 hours with fat- containing food.
 Patients continued on their prescribed standard-of-care CF therapies.
 
 In part B of study 8 the primary endpoint of safety was evaluated through 24 weeks (see section 4.8).
