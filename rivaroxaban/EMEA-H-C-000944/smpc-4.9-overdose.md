@@ -11,7 +11,7 @@ Should a bleeding complication arise in a patient receiving rivaroxaban, the nex
 Rivaroxaban has a half-life of approximately 5 to 13 hours (see section 5.2).
 Management should be individualised according to the severity and location of the haemorrhage.
 Appropriate symptomatic treatment could be used as needed, such as mechanical compression (e.g. for severe epistaxis), surgical haemostasis with bleeding control procedures, fluid replacement and haemodynamic support, blood products (packed red cells or fresh frozen plasma, depending on associated anaemia or coagulopathy) or platelets.
-If bleeding cannot be controlled by the above measures, either the administration of a specific factor Xa inhibitor reversal agent (andexanet alfa), which antagonises the pharmacodynamic effect of rivaroxaban, or a specific procoagulant reversal agent, such as prothrombin complex concentrate (PCC), activated prothrombin complex concentrate (APCC) or recombinant factor VIIa (r-FVIIa), should be considered.
+If bleeding cannot be controlled by the above measures, either the administration of a specific factor Xa inhibitor reversal agent (andexanet alfa), which antagonises the pharmacodynamic effect of rivaroxaban, or a specific procoagulant agent, such as prothrombin complex concentrate (PCC), activated prothrombin complex concentrate (APCC) or recombinant factor VIIa (r-FVIIa), should be considered.
 However, there is currently very limited clinical experience with the use of these medicinal products in individuals receiving rivaroxaban.
 The recommendation is also based on limited non-clinical data.
 Re-dosing of recombinant factor VIIa shall be considered and titrated depending on improvement of bleeding.
@@ -32,7 +32,6 @@ In adults, rare cases of overdose up to 1,960 mg have been reported.
 There is limited data available in children.
 Due to limited absorption a ceiling effect with no further increase in average plasma exposure is expected at supratherapeutic doses of 50 mg rivaroxaban or above in adults, however, no data is available at supratherapeutic doses in children.
 A specific reversal agent (andexanet alfa) antagonising the pharmacodynamic effect of rivaroxaban is available for adults, but not established in children (refer to the Summary of Product Characteristics of andexanet alfa).
-
 Rivaroxaban has a half-life of approximately 5 to 13 hours in adults.
 The half life in children estimated using population pharmacokinetic (popPK) modelling approaches is shorter (see section 5.2).
 However, there is currently very limited clinical experience with the use of these medicinal products in adults and in children receiving rivaroxaban.
@@ -52,7 +51,6 @@ There is no experience on the use of these agents in children receiving rivaroxa
 
 Due to limited absorption a ceiling effect with no further increase in average plasma exposure is expected at supratherapeutic doses of 50 mg rivaroxaban or above in adults, however no data is available at supratherapeutic doses in children.
 A specific reversal agent antagonising the pharmacodynamic effect of rivaroxaban is not established in children.
-
 The half-life in children estimated using population pharmacokinetic (popPK) modelling approaches is shorter (see section 5.2).
-If bleeding cannot be controlled by the above measures, administration of a specific procoagulant reversal agent should be considered, such as prothrombin complex concentrate (PCC), activated prothrombin complex concentrate (APCC) or recombinant factor VIIa (r-FVIIa).
+If bleeding cannot be controlled by the above measures, administration of a specific procoagulant agent should be considered, such as prothrombin complex concentrate (PCC), activated prothrombin complex concentrate (APCC) or recombinant factor VIIa (r-FVIIa).
 However, there is currently very limited clinical experience with the use of these medicinal products in adults and in children receiving rivaroxaban (see section 5.1).

@@ -85,7 +85,6 @@ Safety and efficacy have not been established in the indications ACS and CAD/PAD
 Variability in rivaroxaban pharmacokinetics is moderate with inter-individual variability (CV%) ranging from 30% to 40%, apart from on the day of surgery and the following day when variability in exposure is high (70%).
 
 In patients receiving rivaroxaban for prevention of VTE 10 mg once daily the geometric mean concentration (90% prediction interval) 2 - 4 h and about 24 h after dose (roughly representing maximum and minimum concentrations during the dose interval) was 101 (7 - 273) and 14 (4 ‑ 51) mcg/l, respectively.
-
 The pharmacokinetic/pharmacodynamic (PK/PD) relationship between rivaroxaban plasma concentration and several PD endpoints (factor Xa inhibition, PT, aPTT, Heptest) has been evaluated after administration of a wide range of doses (5 - 30 mg twice a day).
 The relationship between rivaroxaban concentration and factor Xa activity was best described by an Emax model.
 In patients, baseline factor Xa and PT were influenced by the surgery resulting in a difference in the concentration-PT slope between the day post-surgery and steady state.
@@ -109,6 +108,7 @@ A decrease in the relative bioavailability for increasing doses (in mg/kg bodywe
 Rivaroxaban 15 mg tablets should be taken with feeding or with food (see section 4.2).
 
 Plasma protein binding in adults is high at approximately 92% to 95%, with serum albumin being the main binding component.
+
 No data on rivaroxaban plasma protein binding specific to children is available.
 No PK data following intravenous administration of rivaroxaban to children is available.
 Vss estimated via population PK modelling in children (age range 0 to < 18 years) following oral administration of rivaroxaban is dependent on body weight and can be described with an allometric function, with an average of 113 L for a subject with a body weight of 82.8 kg.
@@ -128,6 +128,7 @@ An exploratory analysis did not reveal a relevant impact of underweight or obesi
 
 In adults, no clinically relevant inter-ethnic differences among Caucasian, African-American, Hispanic, Japanese or Chinese patients were observed regarding rivaroxaban pharmacokinetics and pharmacodynamics.
 An exploratory analysis did not reveal relevant inter-ethnic differences in rivaroxaban exposure among Japanese, Chinese or Asian children outside Japan and China compared to the respective overall paediatric population.
+
 Cirrhotic adult patients with mild hepatic impairment (classified as Child Pugh A) exhibited only minor changes in rivaroxaban pharmacokinetics (1.2 fold increase in rivaroxaban AUC on average), nearly comparable to their matched healthy control group.
 No clinical data is available in children with hepatic impairment.
 
@@ -137,6 +138,7 @@ No clinical data is available in children 1 year or older with moderate or sever
 In patients receiving rivaroxaban for treatment of acute DVT 20 mg once daily the geometric mean concentration (90% prediction interval) 2 - 4 h and about 24 h after dose (roughly representing maximum and minimum concentrations during the dose interval) was 215 (22 - 535) and 32 (6 - 239) mcg/l, respectively.
 
 In paediatric patients with acute VTE receiving body weight-adjusted rivaroxaban leading to an exposure similar to that in adult DVT patients receiving a 20 mg once daily dose, the geometric mean concentrations (90% interval) at sampling time intervals roughly representing maximum and minimum concentrations during the dose interval are summarised in Table 13.
+
 Table 13: Summary statistics (geometric mean (90% interval)) of rivaroxaban steady state plasma concentrations (mcg/L) by dosing regimen and age
 
 | Time intervals |  |  |  |  |  |  |  |  |
@@ -149,7 +151,7 @@ Table 13: Summary statistics (geometric mean (90% interval)) of rivaroxaban stea
 | 10-16h post | 33 | 26.0 (7.99-94.9) | 37 | 22.2 (0.25-127) | 3 | 10.7 (n.c.-n.c.) |  |  |
 | t.i.d. | N | 2 -< 6 years | N | Birth - < 2 years | N | 0.5 -< 2 years | N | Birth - < 0.5 years |
 | 0.5-3h post | 5 | 164.7 (108-283) | 25 | 111.2 (22.9-320) | 13 | 114.3 (22.9-346) | 12 | 108.0 (19.2-320) |
-| 7-8h post | 3 | 33.2 (18.7-99.7) | 23 | 18.7 (10.1-36.5) | 12 | 21.4 (10.5-65.6) | 11 | 16.1 (1.03-33.6) |
+| 7-8h post | 5 | 33.2 (18.7-99.7) | 23 | 18.7 (10.1-36.5) | 12 | 21.4 (10.5-65.6) | 11 | 16.1 (1.03-33.6) |
 
 o.d. = once daily, b.i.d. = twice daily, t.i.d. three times daily, n.c. = not calculated
 Values below lower limit of quantification (LLOQ) were substituted by 1/2 LLOQ for the calculation of statistics (LLOQ = 0.5 mcg/L).

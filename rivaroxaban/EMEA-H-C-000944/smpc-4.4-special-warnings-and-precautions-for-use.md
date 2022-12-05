@@ -29,7 +29,6 @@ In patients with severe renal impairment (creatinine clearance < 30 ml/min) riva
 Xarelto is to be used with caution in patients with creatinine clearance 15 - 29 ml/min.
 Use is not recommended in patients with creatinine clearance < 15 ml/min (see sections 4.2 and 5.2).
 In patients with moderate renal impairment (creatinine clearance 30 - 49 ml/min) concomitantly receiving other medicinal products which increase rivaroxaban plasma concentrations Xarelto is to be used with caution (see section 4.5).
-
 Interaction with other medicinal products
 The use of Xarelto is not recommended in patients receiving concomitant systemic treatment with azole-antimycotics (such as ketoconazole, itraconazole, voriconazole and posaconazole) or HIV protease inhibitors (e.g. ritonavir).
 These active substances are strong inhibitors of both CYP3A4 and P-gp and therefore may increase rivaroxaban plasma concentrations to a clinically relevant degree (2.6 fold on average) which may lead to an increased bleeding risk (see section 4.5).
@@ -69,7 +68,6 @@ Treatment with Xarelto is not recommended for these patients.
 Patients with antiphospholipid syndrome
 Direct acting Oral Anticoagulants (DOACs) including rivaroxaban are not recommended for patients with a history of thrombosis who are diagnosed with antiphospholipid syndrome.
 In particular for patients that are triple positive (for lupus anticoagulant, anticardiolipin antibodies, and anti-beta 2-glycoprotein I antibodies), treatment with DOACs could be associated with increased rates of recurrent thrombotic events compared with vitamin K antagonist therapy.
-
 Patients with prior stroke and/or TIA
 Patients with ACS
 Xarelto 2.5 mg is contraindicated for the treatment of ACS in patients with a prior stroke or TIA (see section 4.3).
@@ -106,7 +104,6 @@ Dermatological reactions
 Serious skin reactions, including Stevens-Johnson syndrome/toxic epidermal necrolysis and DRESS syndrome, have been reported during post-marketing surveillance in association with the use of rivaroxaban (see section 4.8).
 Patients appear to be at highest risk for these reactions early in the course of therapy: the onset of the reaction occurring in the majority of cases within the first weeks of treatment.
 Rivaroxaban should be discontinued at the first appearance of a severe skin rash (e.g. spreading, intense and/or blistering), or any other sign of hypersensitivity in conjunction with mucosal lesions.
-
 Information about excipients
 Xarelto contains lactose.
 Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
@@ -124,9 +121,9 @@ For patients at risk of ulcerative gastrointestinal disease an appropriate proph
 
 Hip fracture surgery
 Rivaroxaban has not been studied in interventional clinical studies in patients undergoing hip fracture surgery to evaluate efficacy and safety.
+
 Haemodynamically unstable PE patients or patients who require thrombolysis or pulmonary embolectomy
 Xarelto is not recommended as an alternative to unfractionated heparin in patients with pulmonary embolism who are haemodynamically unstable or may receive thrombolysis or pulmonary embolectomy since the safety and efficacy of Xarelto have not been established in these clinical situations.
-
 At least 18 hours should elapse after the last administration of rivaroxaban before removal of an epidural catheter.
 Following removal of the catheter, at least 6 hours should elapse before the next rivaroxaban dose is administered.
 If traumatic puncture occurs the administration of rivaroxaban is to be delayed for 24 hours.

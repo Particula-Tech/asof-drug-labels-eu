@@ -15,7 +15,6 @@ Treatment with Xarelto should be started as soon as possible after stabilisation
 - CAD/PAD
 
 Patients taking Xarelto 2.5 mg twice daily should also take a daily dose of 75 - 100 mg ASA.
-
 In patients after a successful revascularisation procedure of the lower limb (surgical or endovascular including hybrid procedures) due to symptomatic PAD, treatment should not be started until haemostasis is achieved (see section 5.1).
 
 Duration of treatment should be determined for each individual patient based on regular evaluations and should consider the risk for thrombotic events versus the bleeding risks.
@@ -52,6 +51,7 @@ For patients currently receiving a parenteral anticoagulant, discontinue the par
 
 Converting from Xarelto to parenteral anticoagulants
 Give the first dose of parenteral anticoagulant at the time the next Xarelto dose would be taken.
+
 Special populations
 Renal impairment
 Limited clinical data for patients with severe renal impairment (creatinine clearance 15 - 29 ml/min) indicate that rivaroxaban plasma concentrations are significantly increased.
@@ -103,7 +103,6 @@ Treatment of DVT, treatment of PE and prevention of recurrent DVT and PE
 The recommended dose for the initial treatment of acute DVT or PE is 15 mg twice daily for the first three weeks followed by 20 mg once daily for the continued treatment and prevention of recurrent DVT and PE.
 Short duration of therapy (at least 3 months) should be considered in patients with DVT or PE provoked by major transient risk factors (i.e. recent major surgery or trauma).
 Longer duration of therapy should be considered in patients with provoked DVT or PE not related to major transient risk factors, unprovoked DVT or PE, or a history of recurrent DVT or PE.
-
 When extended prevention of recurrent DVT and PE is indicated (following completion of at least 6 months therapy for DVT or PE), the recommended dose is 10 mg once daily.
 In patients in whom the risk of recurrent DVT or PE is considered high, such as those with complicated comorbidities, or who have developed recurrent DVT or PE on extended prevention with Xarelto 10 mg once daily, a dose of Xarelto 20 mg once daily should be considered.
 
@@ -147,6 +146,7 @@ The recommended dose is 20 mg once daily, which is also the recommended maximum 
 Therapy with Xarelto should be continued long term provided the benefit of prevention of stroke and systemic embolism outweighs the risk of bleeding (see section 4.4).
 
 If a dose is missed the patient should take Xarelto immediately and continue on the following day with the once daily intake as recommended.
+
 Treatment of DVT, treatment of PE and prevention of recurrent DVT and PE in adults
 
 Treatment of VTE and prevention of VTE recurrence in children and adolescents
@@ -168,11 +168,11 @@ a once daily dose of 20 mg rivaroxaban is recommended.
 The weight of a child should be monitored and the dose reviewed regularly.
 This is to ensure a therapeutic dose is maintained.
 Dose adjustments should be made based on changes in body weight only.
+
 Treatment should be continued for at least 3 months in children and adolescents.
 Treatment can be extended up to 12 months when clinically necessary.
 There is no data available in children to support a dose reduction after 6 months treatment.
 The benefit-risk of continued therapy after 3 months should be assessed on an individual basis taking into account the risk for recurrent thrombosis versus the potential bleeding risk.
-
 If a dose is missed, the missed dose should be taken as soon as possible after it is noticed, but only on the same day.
 If this is not possible, the patient should skip the dose and continue with the next dose as prescribed.
 The patient should not take two doses to make up for a missed dose.
@@ -197,6 +197,7 @@ For adult and paediatric patients currently receiving a parenteral anticoagulant
 Discontinue Xarelto and give the first dose of parenteral anticoagulant at the time the next Xarelto dose would be taken.
 
 Adults:
+
 In patients with moderate (creatinine clearance 30 - 49 ml/min) or severe (creatinine clearance 15-29 ml/min) renal impairment the following dose recommendations apply:
 
 - For the prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation, the recommended dose is 15 mg once daily (see section 5.2).
@@ -225,6 +226,7 @@ Decisions on initiation and duration of treatment should take established guidel
 
 Patients with non-valvular atrial fibrillation who undergo PCI (percutaneous coronary intervention) with stent placement
 There is limited experience of a reduced dose of 15 mg Xarelto once daily (or 10 mg Xarelto once daily for patients with moderate renal impairment [creatinine clearance 30 - 49 ml/min]) in addition to a P2Y12 inhibitor for a maximum of 12 months in patients with non-valvular atrial fibrillation who require oral anticoagulation and undergo PCI with stent placement (see sections 4.4 and 5.1).
+
 The safety and efficacy of Xarelto in children aged 0 to < 18 years have not been established in the indication prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation.
 Therefore, it is not recommended for use in children below 18 years of age in indications other than the treatment of VTE and prevention of VTE recurrence.
 
@@ -385,7 +387,7 @@ Xarelto is contraindicated in patients with hepatic disease associated with coag
 For children the dose is determined based on body weight (see Posology above).
 
 The safety and efficacy of Xarelto in children aged 0 to < 18 years have not been established in indications other than treatment of venous thromboembolism (VTE) and prevention of VTE recurrence.
-No data are available for other indications.
+No or insufficient data are available for other indications (see also section 5.1).
 Therefore, Xarelto is not recommended for use in children below 18 years of age in indications other than the treatment of VTE and prevention of VTE recurrence.
 
 The oral suspension should be taken with feeding or with food (see section 5.2).

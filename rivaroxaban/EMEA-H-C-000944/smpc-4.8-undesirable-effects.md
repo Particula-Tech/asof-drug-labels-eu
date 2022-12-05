@@ -3,7 +3,7 @@
 Summary of the safety profile
 The safety of rivaroxaban has been evaluated in thirteen pivotal phase III studies (see Table 1).
 
-Overall, 69,608 adult patients in nineteen phase III studies and 412 paediatric patients in two phase II and one phase III studies were exposed to rivaroxaban.
+Overall, 69,608 adult patients in nineteen phase III studies and 488 paediatric patients in two phase II and two phase III studies were exposed to rivaroxaban.
 
 Table 1: Number of patients studied, total daily dose and maximum treatment duration in adult and paediatric phase III studies
 
@@ -16,12 +16,11 @@ Table 1: Number of patients studied, total daily dose and maximum treatment dura
 | Prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation | 7,750 | 20 mg | 41 months |
 | Prevention of atherothrombotic events in patients after an ACS | 10,225 | 5 mg or 10 mg respectively, co-administered with either ASA or ASA plus clopidogrel or ticlopidine | 31 months |
 | Prevention of atherothrombotic events in patients with CAD/PAD | 18,244 | 5 mg co-administered with ASA or 10 mg alone | 47 months |
+|  | 3,256** | 5 mg co-administered with ASA | 42 months |
 
 Indication Number of Total daily dose Maximum
 patients* treatment
 duration
-3,256** 5 mg co-administered 42 months
-with ASA
 
 * Patients exposed to at least one dose of rivaroxaban
 ** From the VOYAGER PAD study
@@ -52,7 +51,7 @@ The frequencies of adverse reactions reported with Xarelto in adult and paediatr
 
 Frequencies are defined as:
 very common (≥ 1/10) common (≥ 1/100 to < 1/10) uncommon (≥ 1/1,000 to < 1/100) rare (≥ 1/10,000 to < 1/1,000) very rare (< 1/10,000) not known (cannot be estimated from the available data)
-Table 3: All adverse reactions reported in adult patients in phase III clinical studies or through post-marketing use* and in two phase II and one phase III studies in paediatric patients
+Table 3: All adverse reactions reported in adult patients in phase III clinical studies or through post-marketing use* and in two phase II and two phase III studies in paediatric patients
 
 Common Uncommon Rare Very rare Not known
 Blood and lymphatic system disorders
@@ -173,10 +172,13 @@ ASA or ASA plus
 clopidogrel or ticlopidine
 Prevention of atherothrombotic 18,244 5 mg co-administered 47 months
 events in patients with CAD/PAD with ASA or 10 mg alone
+3,256** 5 mg co-administered 42 months
+with ASA
 
 [Xarelto 15 mg film-coated tablets]
 
 Paediatric population
+Treatment of VTE and prevention of VTE recurrence
 The safety assessment in children and adolescents is based on the safety data from two phase II and one phase III open-label active controlled studies in paediatric patients aged birth to less than 18 years.
 The safety findings were generally similar between rivaroxaban and comparator in the various paediatric age groups.
 Overall, the safety profile in the 412 children and adolescents treated with rivaroxaban was similar to that observed in the adult population and consistent across age subgroups, although assessment is limited by the small number of patients.
@@ -204,6 +206,6 @@ Table 4: Bleeding* and anaemia events rates in patients exposed to rivaroxaban a
 
 The frequencies of adverse reactions reported with Xarelto in adult and paediatric patients are summarised in Table 5 below by system organ class (in MedDRA) and by frequency.
 
-Table 5: All adverse reactions reported in adult patients in phase III clinical studies or through post-marketing use* and in two phase II and one phase III studies in paediatric patients
+Table 5: All adverse reactions reported in adult patients in phase III clinical studies or through post-marketing use* and in two phase II and two phase III studies in paediatric patients
 
 Paediatric patients

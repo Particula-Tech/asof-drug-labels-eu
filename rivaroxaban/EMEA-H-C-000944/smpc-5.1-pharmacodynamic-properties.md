@@ -425,6 +425,11 @@ A pre-specified propensity score stratified analysis was used to adjust for meas
 Adjusted HRs comparing rivaroxaban and standard-of-care for major bleeding, recurrent VTE and all-cause mortality were 0.77 (95% CI 0.40 - 1.50), 0.91 (95% CI 0.54 - 1.54) and 0.51 (95% CI 0.24 - 1.07), respectively.
 These results in clinical practice are consistent with the established safety profile in this indication.
 
+In a post-authorisation, non-interventional study, in more than 40,000 patients without a history of cancer from four countries, rivaroxaban was prescribed for the treatment or prevention of DVT and PE.
+The event rates per 100 patient-years for symptomatic/clinically apparent VTE/thromboembolic events leading to hospitalisation ranged from 0.64 (95% CI 0.40 - 0.97) in the UK to 2.30 (95% CI 2.11 - 2.51) for Germany.
+Bleeding resulting in hospitalisation occurred at event rates per 100 patient-years of 0.31 (95% CI 0.23 - 0.42) for intracranial bleeding, 0.89 (95% CI 0.67 - 1.17) for gastrointestinal bleeding, 0.44 (95% CI 0.26 - 0.74) for urogenital bleeding and 0.41 (95% CI
+0.31 - 0.54) for other bleeding.
+
 [Xarelto 15 mg film-coated tablets]
 
 In patients receiving rivaroxaban for treatment of DVT and PE and prevention of recurrence, the 5/95 percentiles for PT (Neoplastin) 2 - 4 hours after tablet intake (i.e. at the time of maximum effect) for 15 mg rivaroxaban twice daily ranged from 17 to 32 s and for 20 mg rivaroxaban once daily from 15 to 30 s. At trough (8 - 16 h after tablet intake) the 5/95 percentiles for 15 mg twice daily ranged from 14 to 24 s and for 20 mg once daily (18 - 30 h after tablet intake) from 13 to 20 s.
@@ -487,12 +492,16 @@ a) Safety population, on treatment
 * Nominally significant
 
 In addition to the phase III ROCKET AF study, a prospective, single-arm, post-authorisation, non-interventional, open-label cohort study (XANTUS) with central outcome adjudication including thromboembolic events and major bleeding has been conducted.
-6,785 patients with non-valvular atrial fibrillation were enrolled for prevention of stroke and non-central nervous system (CNS) systemic embolism in clinical practice.
-The mean CHADS2 and HAS-BLED scores were both 2.0 in XANTUS, compared to a mean CHADS2 and HAS-BLED score of 3.5 and 2.8 in ROCKET AF, respectively.
+6,704 patients with non-valvular atrial fibrillation were enrolled for prevention of stroke and non-central nervous system (CNS) systemic embolism in clinical practice.
+The mean CHADS2 score was 1.9 and HAS-BLED score was 2.0 in XANTUS, compared to a mean CHADS2 and HAS-BLED score of 3.5 and 2.8 in ROCKET AF, respectively.
 Major bleeding occurred in 2.1 per 100 patient years.
 Fatal haemorrhage was reported in 0.2 per 100 patient years and intracranial haemorrhage in 0.4 per 100 patient years.
 Stroke or non-CNS systemic embolism was recorded in 0.8 per 100 patient years.
 These observations in clinical practice are consistent with the established safety profile in this indication.
+
+In a post-authorisation, non-interventional study, in more than 162,000 patients from four countries, rivaroxaban was prescribed for the prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation.
+The event rate for ischaemic stroke was 0.70 (95% CI 0.44 - 1.13) per 100 patient-years.
+Bleeding resulting in hospitalisation occurred at event rates per 100 patient-years of 0.43 (95% CI 0.31 - 0.59) for intracranial bleeding, 1.04 (95% CI 0.65 - 1.66) for gastrointestinal bleeding, 0.41 (95% CI 0.31 - 0.53) for urogenital bleeding and 0.40 (95% CI 0.25 - 0.65) for other bleeding.
 
 Patients undergoing cardioversion
 A prospective, randomised, open-label, multicentre, exploratory study with blinded endpoint evaluation (X-VERT) was conducted in 1504 patients (oral anticoagulant naive and pre-treated) with non-valvular atrial fibrillation scheduled for cardioversion to compare rivaroxaban with dose-adjusted VKA (randomised 2:1), for the prevention of cardiovascular events.
@@ -526,10 +535,10 @@ In the Einstein PE study (see Table 7) rivaroxaban was demonstrated to be non-in
 Table 7: Efficacy and safety results from phase III Einstein PE
 
 A prespecified pooled analysis of the outcome of the Einstein DVT and PE studies was conducted (see Table 8).
+
 Table 8: Efficacy and safety results from pooled analysis of phase III Einstein DVT and Einstein PE
 
 The prespecified net clinical benefit (primary efficacy outcome plus major bleeding events) of the pooled analysis was reported with a HR of 0.771 ((95% CI: 0.614 - 0.967), nominal p value p= 0.0244).
-
 In the Einstein Extension study (see Table 9) rivaroxaban was superior to placebo for the primary and secondary efficacy outcomes.
 
 Table 9: Efficacy and safety results from phase III Einstein Extension
@@ -549,6 +558,7 @@ Table 10: Efficacy and safety results from phase III Einstein Choice
 | Symptomatic recurrent VTE, MI, stroke, or non-CNS systemic embolism | 19 (1.7%) | 18 (1.6%) | 56 (5.0%) |
 | Major bleeding events | 6 (0.5%) | 5 (0.4%) | 3 (0.3%) |
 | Clinically relevant non-major bleeding | 30 (2.7) | 22 (2.0) | 20 (1.8) |
+| Treatment dose | Rivaroxaban 20 mg once daily N=1,107 | Rivaroxaban 10 mg once daily N=1,127 | ASA 100 mg once daily N=1,131 |
 | Symptomatic recurrent VTE or major bleeding (net clinical benefit) | 23 (2.1%)+ | 17 (1.5%)++ | 53 (4.7%) |
 
 Treatment of VTE and prevention of VTE recurrence in paediatric patients
@@ -559,12 +569,11 @@ The EINSTEIN Junior phase III study was a randomised, active-controlled, open-la
 There were 276 children aged 12 to < 18 years, 101 children aged 6 to < 12 years, 69 children aged 2 to < 6 years, and 54 children aged < 2 years.
 
 Index VTE was classified as either central venous catheter-related VTE (CVC-VTE; 90/335 patients in the rivaroxaban group, 37/165 patients in the comparator group), cerebral vein and sinus thrombosis (CVST; 74/335 patients in the rivaroxaban group, 43/165 patients in the comparator group), and all others including DVT and PE (non-CVC-VTE; 171/335 patients in the rivaroxaban group,
-84/165 patients in the comparator group).
+85/165 patients in the comparator group).
 The most common presentation of index thrombosis in children aged 12 to < 18 years was non-CVC-VTE in 211 (76.4%); in children aged 6 to < 12 years and aged 2 to < 6 years was CVST in 48 (47.5%) and 35 (50.7%), respectively; and in children aged
 < 2 years was CVC-VTE in 37 (68.5%).
 There were no children < 6 months with CVST in the rivaroxaban group.
 22 of the patients with CVST had a CNS infection (13 patients in the rivaroxaban group and 9 patients in comparator group).
-
 VTE was provoked by persistent, transient, or both persistent and transient risk factors in 438 (87.6%) children.
 
 Patients received initial treatment with therapeutic doses of UFH, LMWH, or fondaparinux for at least 5 days, and were randomised 2:1 to receive either body weight-adjusted doses of rivaroxaban or comparator group (heparins, VKA) for a main study treatment period of 3 months (1 month for children < 2 years with CVC-VTE).
@@ -582,6 +591,7 @@ Net clinical benefit (symptomatic recurrent VTE plus major bleeding events) was 
 Normalisation of the thrombus burden on repeat imaging occurred in 128 of 335 patients with rivaroxaban treatment and in 43 of 165 patients in the comparator group.
 These findings were generally similar among age groups.
 There were 119 (36.2%) children with any treatment-emergent bleeding in the rivaroxaban group and 45 (27.8%) children in the comparator group.
+
 Table 11: Efficacy results at the end of the main treatment period
 
 | Event | Rivaroxaban N=335* | Comparator N=165* |
@@ -594,7 +604,6 @@ Table 11: Efficacy results at the end of the main treatment period
 | Fatal or non-fatal pulmonary embolism | 1 (0.3%, 95% CI 0.0% – 1.6%) | 1 (0.6%, 95% CI 0.0% – 3.1%) |
 
 *FAS= full analysis set, all children who were randomised
-
 Table 12: Safety results at the end of the main treatment period
 
 |  | Rivaroxaban N=329* | Comparator N=162* |
@@ -612,6 +621,27 @@ The efficacy and safety profile of rivaroxaban was largely similar between the p
 However, if clinically indicated, rivaroxaban concentrations can be measured by calibrated quantitative anti-Factor Xa tests in mcg/L (see table 13 in section 5.2 for ranges of observed rivaroxaban plasma concentrations in children).
 
 The principal safety outcome (major bleeding) occurred in 6 (0.6%) and 4 (0.8%) patients in the rivaroxaban (n = 988) and VKA (n = 499) groups, respectively (RR 0.76; 95 % CI 0.21-2.67; safety population).
+
+a) Rivaroxaban 15 mg twice daily for 3 weeks followed by 20 mg once daily
+
+| Study population | 3,449 patients with symptomatic acute deep vein thrombosis |  |
+| --- | --- | --- |
+| Treatment dose and duration | Rivaroxaban a) 3, 6 or 12 months N=1,731 | Enoxaparin/VKAb) 3, 6 or 12 months N=1,718 |
+
+b) Enoxaparin for at least 5 days, overlapped with and followed by VKA
+
+| Study population | 3,396 patients continued prevention of recurrent venous thromboembolism |  |  |
+| --- | --- | --- | --- |
+| Treatment dose | Rivaroxaban 20 mg once daily N=1,107 | Rivaroxaban 10 mg once daily N=1,127 | ASA 100 mg once daily N=1,131 |
+| Treatment duration median [interquartile range] | 349 [189-362] days | 353 [190-362] days | 350 [186-362] days |
+| Symptomatic recurrent VTE | 17 (1.5%)* | 13 (1.2%)** | 50 (4.4%) |
+| Symptomatic recurrent PE | 6 (0.5%) | 6 (0.5%) | 19 (1.7%) |
+| Symptomatic recurrent DVT | 9 (0.8%) | 8 (0.7%) | 30 (2.7%) |
+| Fatal PE/death where PE cannot be ruled out | 2 (0.2%) | 0 (0.0%) | 2 (0.2%) |
+| Symptomatic recurrent VTE, MI, stroke, or non-CNS systemic embolism | 19 (1.7%) | 18 (1.6%) | 56 (5.0%) |
+| Major bleeding events | 6 (0.5%) | 5 (0.4%) | 3 (0.3%) |
+| Clinically relevant non-major bleeding | 30 (2.7) | 22 (2.0) | 20 (1.8) |
+| Symptomatic recurrent VTE or major bleeding (net clinical benefit) | 23 (2.1%)+ | 17 (1.5%)++ | 53 (4.7%) |
 
 The study treatment could be stopped at this point, or at the discretion of the Investigator continued for up to 12 months (for children <2 years with CVC-VTE up to 3 months) in total.
 
@@ -649,6 +679,7 @@ There is no need for monitoring of coagulation parameters during treatment with 
 However, if clinically indicated, rivaroxaban concentrations can be measured by calibrated quantitative anti-Factor Xa tests in mcg/L (see Table 8 in section 5.2 for ranges of observed rivaroxaban plasma concentrations in children).
 
 The efficacy and safety results are shown in Tables 6 and 7 below.
+
 Normalisation of the thrombus burden on repeat imaging occurred in 128 of 335 patients with rivaroxaban treatment and in 43 of 165patients in the comparator group.
 
 Table 6: Efficacy results at the end of the main treatment period
@@ -656,3 +687,9 @@ Table 6: Efficacy results at the end of the main treatment period
 * FAS = full analysis set, all children who were randomised
 
 Table 7: Safety results at the end of the main treatment period
+
+Thromboprophylaxis in Paediatric Patients with Congenital Heart Disease after the Fontan Procedure
+The efficacy and safety of rivaroxaban for thromboprophylaxis in 110 paediatric patients with congenital heart disease who have undergone the Fontan procedure within 4 months prior to enrolment was evaluated in a prospective, open-label, 2-part (part B active-controlled) study (UNIVERSE) where rivaroxaban was used for thromboprophylaxis for 12 months compared with acetylsalicylic acid in children 2 to 8 years of age with single ventricle physiology who had the Fontan procedure.
+Patients received either body weight-adjusted doses of rivaroxaban ([n=76], exposures to match that of 10 mg daily dose in adults) or acetylsalicylic acid ([n=34] approximately 5 mg/kg).
+The dosing studied in UNIVERSE for thromboprophylaxis was thus lower and cannot be derived from the approved paediatric dose for the treatment of VTE.
+Few thromboembolic events were observed in the UNIVERSE study (rivaroxaban group (1 [1.6%]) vs acetylsalicylic acid group (3 [8.8%])) and the amount of bleeding events was similar between study arms with 5 (7.8%) clinically relevant bleedings (including 1 major) in the rivaroxaban group versus 3 (8.8%; none of which major) in the acetylsalicylic acid group.
