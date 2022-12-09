@@ -85,6 +85,7 @@ Description of selected adverse reactions
 Infection and infestations
 There was a single additional report of biopsy confirmed progressive multifocal leukoencephalopathy in the adult population.
 There have been reports of sometimes fatal opportunistic infections in patients receiving nelarabine therapy.
+
 Nervous system disorders
 There have been reports of events associated with demyelination and ascending peripheral neuropathies similar in appearance to Guillain-Barré syndrome.
 Two paediatric patients had fatal neurological events.

@@ -8,7 +8,6 @@ There have also been reports of reactions associated with demyelination, and asc
 Neurotoxicity is the dose-limiting toxicity of nelarabine.
 Full recovery from these reactions has not always occurred with cessation of nelarabine.
 Therefore, close monitoring for neurological reactions is strongly recommended, and nelarabine must be discontinued at the first sign of neurological reactions of NCI CTCAE Grade 2 or greater.
-
 Patients treated previously or concurrently with intrathecal chemotherapy or previously with craniospinal irradiation are potentially at increased risk for neurological adverse events (see section 4.2 - dose modification) and therefore concomitant intrathecal therapy and/or craniospinal irradiation is not recommended.
 
 Immunisation using a live organism vaccine has the potential to cause infection in immunocompromised hosts.
