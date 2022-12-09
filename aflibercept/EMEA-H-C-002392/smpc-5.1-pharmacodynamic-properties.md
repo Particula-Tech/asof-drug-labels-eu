@@ -15,7 +15,6 @@ VEGF acts via two receptor tyrosine kinases; VEGFR-1 and VEGFR-2, present on the
 PlGF binds only to VEGFR-1, which is also present on the surface of leucocytes.
 Excessive activation of these receptors by VEGF-A can result in pathological neovascularisation and excessive vascular permeability.
 PlGF can synergize with VEGF-A in these processes, and is also known to promote leucocyte infiltration and vascular inflammation.
-
 Pharmacodynamic effects
 
 wet AMD
@@ -24,6 +23,7 @@ Wet AMD is characterised by pathological choroidal neovascularisation (CNV).
 Leakage of blood and fluid from CNV may cause retinal thickening or oedema and/or sub-/intra-retinal haemorrhage, resulting in loss of visual acuity.
 
 In patients treated with Eylea (one injection per month for three consecutive months, followed by one injection every 2 months), central retinal thickness [CRT] decreased soon after treatment initiation, and the mean CNV lesion size was reduced, consistent with the results seen with ranibizumab 0.5 mg every month.
+
 In the VIEW1 study there were mean decreases in CRT on optical coherence tomography (OCT) (-130 and -129 microns at week 52 for the Eylea 2 mg every two months and ranibizumab 0.5 mg every month study groups, respectively).
 Also at the 52 week time point, in the VIEW2 study there were mean decreases in CRT on OCT (-149 and -139 microns for the Eylea 2 mg every two months and ranibizumab 0.5 mg every month study groups, respectively).
 The reduction of CNV size and reduction in CRT were generally maintained in the second year of the studies.
@@ -41,20 +41,19 @@ Macular oedema secondary to CRVO and BRVO
 In CRVO and BRVO, retinal ischaemia occurs and signals the release of VEGF which in turn destabilises the tight junctions, and promotes endothelial cell proliferation.
 Up-regulation of VEGF is associated with the breakdown of the blood retina barrier, increased vascular permeability, retinal oedema, and neovascularisation complications.
 
-In patients treated with 6 consecutive monthly injections of Eylea 2mg, there was a consistent, rapid and robust morphologic response (as measured by improvements in mean CRT) observed.
+In patients treated with 6 consecutive monthly injections of Eylea 2 mg, there was a consistent, rapid and robust morphologic response (as measured by improvements in mean CRT) observed.
 At week 24, the reduction in CRT was statistically superior versus control in all three studies (COPERNICUS in CRVO: -457 vs. -145 microns; GALILEO in CRVO: -449 vs. -169 microns; VIBRANT in BRVO: - 280 vs. -128 microns).
 This decrease from baseline in CRT was maintained to the end of each study, week 100 in COPERNICUS, week 76 in GALILEO, and week 52 in VIBRANT.
 
 Diabetic macular oedema
 
 Diabetic macular oedema is a consequence of diabetic retinopathy and is characterised by increased vasopermeability and damage to the retinal capillaries which may result in loss of visual acuity.
-
 In patients treated with Eylea, the majority of whom were classified as having Type II diabetes, a rapid and robust response in morphology (CRT, DRSS level) was observed.
 
 In the VIVIDDME and the VISTADME studies, a statistically significant greater mean decrease in CRT from baseline to week 52 was observed in patients treated with Eylea than with the laser control, - 192.4 and -183.1 microns for the 2Q8 Eylea groups and -66.2 and -73.3 microns for the control groups, respectively.
 At week 100 the decrease was maintained with -195.8 and -191.1 microns for the 2Q8 Eylea groups and -85.7 and -83.9 microns for the control groups, in the VIVIDDME and VISTADME studies, respectively.
 
-A ≥ 2 step improvement in DRSS was assessed in a pre-specified manner in VIVIDDME and VISTADME.
+A ≥2 step improvement in DRSS was assessed in a pre-specified manner in VIVIDDME and VISTADME.
 The DRSS score was gradable in 73.7% of the patients in VIVIDDME and 98.3% of the patients in VISTADME.
 At week 52, 27.7% and 29.1% of the Eylea 2Q8 groups, and 7.5% and 14.3% of the control groups experienced a ≥2 step improvement in the DRSS.
 At week 100, the respective percentages were 32.6% and 37.1% of the Eylea 2Q8 groups and 8.2% and 15.6% of the control groups.
@@ -85,7 +84,6 @@ In each study, patients were randomly assigned in a 1:1:1:1 ratio to 1 of 4 dosi
 4) ranibizumab administered at 0.5 mg every 4 weeks (ranibizumab 0.5Q4).
 
 In the second year of the studies, patients continued to receive the initially randomised dosage but on a modified dosing schedule guided by assessment of visual and anatomic outcomes with a protocol-defined maximum dosing interval of 12 weeks.
-
 In both studies, the primary efficacy endpoint was the proportion of patients in the Per Protocol Set who maintained vision, i.e. losing fewer than 15 letters of visual acuity at week 52 from baseline.
 
 In the VIEW1 study, at week 52, 95.1% of patients in the Eylea 2Q8 group maintained vision compared to 94.4% patients in the ranibizumab 0.5Q4 group.
@@ -93,6 +91,7 @@ In the VIEW2 study, at week 52, 95.6% of patients in the Eylea 2Q8 group maintai
 In both studies Eylea was shown to be non-inferior and clinically equivalent to the ranibizumab 0.5Q4 group.
 
 Detailed results from the combined analysis of both studies are shown in Table 2 and Figure 1 below.
+
 Table 2: Efficacy outcomes at week 52 (primary analysis) and week 96; combined data from the VIEW1 and VIEW2 studiesB)
 
 | Efficacy Outcome | Eylea 2Q8 E) (Eylea 2 mg every 8 weeks following 3 initial monthly doses) (N = 607) |  | Ranibizumab 0.5Q4 (ranibizumab 0.5 mg every 4 weeks) (N = 595) |  |
@@ -144,11 +143,11 @@ The proportion of patients who did not lose ≥15 letters in the two treatment a
 The proportion of patients who gained ≥15 letters at week 52 was 32.5% in the 2-week adjustment group and 30.9% in the 4-week adjustment group.
 The proportion of patients who extended their treatment interval to 12 weeks or beyond was 42.3% in the 2-week adjustment group and 49.6% in the 4-week adjustment group.
 Furthermore, in the 4-week adjustment group 40.7% of patients were extended to 16 week intervals.
-At the last visit up to week 52, 56.8% and 57.8% of patients in the 2- week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of 12 weeks or beyond.
+At the last visit up to week 52, 56.8% and 57.8% of patients in the 2-week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of 12 weeks or beyond.
 
 In the second year of the study, efficacy was generally maintained up to and including the last assessment at week 96, with a mean gain from baseline of 7.6 letters for the 2-week adjustment group and 6.1 letters for the 4-week adjustment group.
 The proportion of patients who extended their treatment interval to 12 weeks or beyond was 56.9% in the 2-week adjustment group and 60.2% in the 4-week adjustment group.
-At the last visit prior to week 96, 64.9% and 61.2% of patients in the 2- week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of 12 weeks or beyond.
+At the last visit prior to week 96, 64.9% and 61.2% of patients in the 2-week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of 12 weeks or beyond.
 During the second year of treatment patients in both the 2-week and 4-week adjustment groups received an average of 3.6 and 3.7 injections, respectively.
 Over the 2 year treatment period patients received an average of 10.4 injections.
 
@@ -186,7 +185,7 @@ Table 3: Efficacy outcomes at week 24, week 52 and week 76/100 (Full Analysis Se
 | Efficacy Outcomes | COPERNICUS |  |  |  |  |  | GALILEO |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | 24 Weeks |  | 52 Weeks |  | 100 Weeks |  | 24 Weeks |  | 52 Weeks |  | 76 Weeks |  |
-|  | Eylea 2 mg Q4 (N = 114) | Control (N= 73) | Eylea 2 mg (N = 114) | ControlE) (N =73) | Eylea F) 2 mg (N= 114) | Control E,F) (N=73) | Eylea 2 mg Q4 (N = 103) | Control (N = 68) | Eylea 2 mg (N = 103) | Control (N = 68) | Eylea G) 2 mg (N = 103) | Control G) (N = 68) |
+|  | Eylea 2 mg Q4 (N = 114) | Control (N= 73) | Eylea 2 mg (N = 114) | ControlE) (N =73) | Eylea F) 2 mg (N= 114) | Control E,F) (N=73) | Eylea 2 mg Q4 (N = 103) | Control (N = 68) | Eylea 2 mg (N = 103) | Control (N = 68) | Eylea G) 2 mg (N = 103) | ConGt) rol (N = 68) |
 | Proportion of patients with ≥15 letters gain from baseline | 56% | 12% | 55% | 30% | 49.1% | 23.3% | 60% | 22% | 60% | 32% | 57.3% | 29.4% |
 | Weighted differenceA,B,E) (95% CI) p-value | 44.8% (33.0, 56.6) p < 0.0001 |  | 25.9% (11.8, 40.1) p = 0.0006 |  | 26.7% (13.1, 40.3) p=0.0003 |  | 38.3% (24.4, 52.1) p < 0.0001 |  | 27.9% (13.0, 42.7) p = 0.0004 |  | 28.0% (13.3, 42.6) p=0.0004 |  |
 | Mean change in BCVAC) as measured by ETDRSC) letter score from baseline (SD) | 17.3 (12.8) | -4.0 (18.0) | 16.2 (17.4) | 3.8 (17.1) | 13.0 (17.7) | 1.5 (17.7) | 18.0 (12.2) | 3.3 (14.1) | 16.9 (14.8) | 3.8 (18.1) | 13.7 (17.8) | 6.2 (17.7) |
@@ -201,8 +200,8 @@ SD: Standard deviation
 LS: Least square means derived from ANCOVA
 D) LS mean difference and confidence interval based on an ANCOVA model with factors treatment group, region (America vs. rest of the world for COPERNICUS and Europe vs. Asia/Pacific for GALILEO) and baseline BCVA category (> 20/200 and ≤ 20/200)
 E) In COPERNICUS study, control group patients could receive Eylea on an as-needed basis as frequently as every 4 weeks during week 24 to week 52; patients had visits every 4 weeks.
-F) In COPERNICUS study, both control group and Eylea 2mg patients received Eylea 2 mg on an as-needed basis as frequently as every 4 weeks starting from week 52 to week 96; patients had mandatory quarterly visits but may have been seen as frequently as every 4 weeks if necessary.
-G) In GALILEO study, both control group and Eylea 2mg patients received Eylea 2 mg on an as-needed basis every 8 weeks starting from week 52 to week 68; patients had mandatory visits every 8 weeks.
+F) In COPERNICUS study, both control group and Eylea 2 mg patients received Eylea 2 mg on an as-needed basis as frequently as every 4 weeks starting from week 52 to week 96; patients had mandatory quarterly visits but may have been seen as frequently as every 4 weeks if necessary.
+G) In GALILEO study, both control group and Eylea 2 mg patients received Eylea 2 mg on an as-needed basis every 8 weeks starting from week 52 to week 68; patients had mandatory visits every 8 weeks.
 Figure 2: Mean Change from Baseline to Week 76/100 in Visual Acuity by Treatment Group for the COPERNICUS and GALILEO Studies (Full Analysis Set)
 In GALILEO, 86.4% (n=89) of the Eylea group and 79.4% (n=54) of the sham group had perfused CRVO at baseline.
 At week 24, this was 91.8% (n=89) in the Eylea group and 85.5% (n=47) in the sham group.
@@ -211,7 +210,7 @@ These proportions were maintained at week 76, with 84.3% (n=75) in the Eylea gro
 In COPERNICUS, 67.5% (n = 77) of the Eylea group and 68.5% (n = 50) of the sham group had perfused CRVO at baseline.
 At week 24, this was 87.4% (n = 90) in the Eylea group and 58.6%
 (n = 34) in the sham group.
-These proportions were maintained at week 100 with 76.8 % (n = 76) in the Eylea group and 78% (n = 39) in the sham group.
+These proportions were maintained at week 100 with 76.8% (n = 76) in the Eylea group and 78% (n = 39) in the sham group.
 Patients in the sham group were eligible to receive Eylea from week 24.
 
 The beneficial effect of Eylea treatment on visual function was similar in the baseline subgroups of perfused and non-perfused patients.
@@ -239,14 +238,26 @@ In the laser group 67 patients received rescue treatment with Eylea beginning at
 Detailed results from the analysis of the VIBRANT study are shown in Table 4 and Figure 3 below.
 Table 4: Efficacy outcomes at week 24 and week 52 (Full Analysis Set with LOCF) in VIBRANT study
 
-| Efficacy Outcomes | VIBRANT |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | 24 Weeks |  | 52 Weeks |  |
-|  | Eylea 2mg Q4 (N = 91) | Active Control (laser) (N = 90) | Eylea 2mg Q8 (N = 91) D) | Active Control (laser)/Eylea 2mgE) (N = 90) |
-| Proportion of patients with ≥15 letters gain from Baseline (%) | 52.7% | 26.7% | 57.1% | 41.1% |
-| Weighted Difference A,B) (%) (95% CI) p-value | 26.6% (13.0, 40.1) p=0.0003 |  | 16.2% (2.0, 30.5) p=0.0296 |  |
-| Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | 17.0 (11.9) | 6.9 (12.9) | 17.1 (13.1) | 12.2 (11.9) |
-| Difference in LS mean A,C) (95% CI) p-value | 10.5 (7.1, 14.0) p<0.0001 |  | 5.2 (1.7, 8.7) p=0.0035F) |  |
+Efficacy Outcomes VIBRANT
+24 Weeks 52 Weeks
+Eylea 2mg Q4 Active Control Eylea 2mg Q8 Active Control
+(N = 91) (laser) (N = 91) D) (laser)/Eylea 2mgE)
+(N = 90) (N = 90)
+Proportion of patients 52.7% 26.7% 57.1% 41.1%
+with ≥15 letters gain
+from Baseline (%)
+Weighted Difference 26.6% 16.2%
+A,B) (%) (2.0, 30.5)
+(95% CI) (13.0, 40.1) p=0.0296
+p-value p=0.0003
+Mean change in BCVA 17.0 6.9 17.1 12.2 (11.9)
+as measured by ETDRS (12.9) (13.1)
+letter score from (11.9)
+Baseline (SD)
+Difference in LS mean 10.5 5.2
+A,C) (7.1, 14.0) (1.7, 8.7)
+(95% CI) p<0.0001 p=0.0035F)
+p-value
 
 A) Difference is Eylea 2 mg Q4 weeks minus Laser Control
 B) Difference and 95% CI are calculated using Mantel-Haenszel weighting scheme adjusted for region (North America vs. Japan) and baseline BCVA category (> 20/200 and ≤ 20/200)
@@ -254,7 +265,7 @@ C) LS mean difference and 95% CI based on an ANCOVA model with treatment group, 
 D) From week 24 on the treatment interval in the Eylea treatment group was extended for all subjects from 4 weeks to 8 weeks through week 48.
 E) Beginning at week 24 subjects in the Laser Group could receive rescue treatment with Eylea, if they met at least one pre-specified eligibility criterion.
 At total of 67 subjects in this group received Eylea rescue treatment.
-The fixed regimen for Eylea rescue was three times Eylea 2mg every 4 weeks followed by injections every 8 weeks.
+The fixed regimen for Eylea rescue was three times Eylea 2 mg every 4 weeks followed by injections every 8 weeks.
 F) Nominal p-value
 Figure 3: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 52 in VIBRANT Study
 
@@ -365,11 +376,58 @@ E) LS mean difference and 95% CI based on an ANCOVA model with treatment group a
 F) Difference and 95% CI are calculated using Cochran-Mantel-Haenszel (CMH) test adjusted for country (country designations)
 
 Figure 5: Mean Change from Baseline to Week 48 in Visual Acuity by Treatment Group for the MYRROR Study (Full Analysis Set, LOCF)
+
 Paediatric population
 
+Retinopathy of prematurity (ROP)
+
+The efficacy, safety and tolerability of Eylea 0.4 mg for the treatment of ROP in preterm infants were
+assessed based on the 6-month data from the multicentre, randomised, 2-arm, open-label parallel-
+group study FIREFLEYE, which was designed to evaluate Eylea 0.4 mg given as intravitreal injection
+in comparison to laser photocoagulation therapy (laser). Eligible patients had treatment-naïve ROP
+classified according to the International Classification for Retinopathy of Prematurity in at least one
+eye with one of the following retinal findings:
+- ROP Zone I Stage 1+, 2+, 3 or 3+, or
+- ROP Zone II Stage 2+ or 3+, or
+- AP-ROP (aggressive posterior ROP)
+Eligible patients had a maximum gestational age at birth of 32 weeks or a maximum birth weight of
+1500 g. The patients weighed >800 g at the day of treatment.
+Patients were randomised in a 2:1 ratio to receive intravitreal Eylea 0.4 mg or laser therapy. All
+113 patients treated at baseline (Eylea 0.4 mg n=75; laser n=38) were evaluated for the primary
+efficacy analysis.
+Treatment success was defined as absence of active ROP and unfavourable structural outcomes in both
+eyes at 24 weeks after the start of study treatment. The success criterion (non-inferiority of Eylea 0.4
+mg therapy to conventional laser therapy) was statistically not met, although treatment success was
+numerically slightly higher with Eylea 0.4 mg (85.5%) compared to laser (82.1%) at 24 weeks.
+However, available data from infants at 2 years of age in the extension study FIREFLEYE NEXT (54
+infants: 36 Eylea 0.4 mg group and 18 laser group) tend to confirm long term efficacy of Eylea 0.4
+mg.
+The majority of patients treated with Eylea 0.4 mg received a single injection per eye (78.7%) and
+were treated bilaterally (94.7%). No patient received more than 2 injections per eye.
+Table 7: Outcomes at week 24 (FIREFLEYE)
+Treatment success
+Treatment Estimated 90% CI2 Comparison Treatment 90% CI2, 3
+response difference1
+probability1
+Eylea 0.4 mg 85.5% (78.0%, Eylea 0.4 mg 3.4% (-8%, 16.2%)
+(N=75) 91.3%) vs laser
+Laser 82.1% (70.5%,
+(N=38) 90.8%)
+Results based on a Bayesian analysis using non-informative prior distributions.
+1 Median of posterior distribution
+2 CI: Credible interval
+3 Success criterion: Lower limit of 90% CI above -5%
+
+During the 24 weeks of the study, a lower proportion of patients in the Eylea 0.4 mg group switched to another treatment modality due to lack of response compared with the laser group (10.7% vs. 13.2%).
+Unfavourable structural outcomes were reported in a similar proportion of patients in the Eylea 0.4 mg group (6 patients, 8%) compared with laser (3 patients, 7.9%).
+
+Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with Eylea in all subsets of the paediatric population in wet AMD, CRVO, BRVO, DME and myopic CNV populations (see section 4.2 for information on paediatric use).
+In addition, the European Medicines Agency has waived the obligation to submit the results of studies with Eylea in the following subsets of the paediatric population in ROP: term newborn infants, infants, children and adolescents.
 
 [Eylea 40 mg/mL solution for injection in a vial.]
+
+In CRVO and BRVO, retinal ischaemia occurs and signals the release of VEGF which in turn destabilises the tight junctions and promotes endothelial cell proliferation.
 
 The safety and efficacy of Eylea were assessed in two randomised, multi-centre, double-masked, active-controlled studies in patients with wet AMD (VIEW1 and VIEW2) with a. total of 2,412 patients treated and evaluable for efficacy (1,817 with Eylea).
 
@@ -387,34 +445,26 @@ The safety and efficacy of Eylea were assessed in two randomised, multi-centre, 
 
 In combined data analysis of VIEW1 and VIEW2 Eylea demonstrated clinically meaningful changes from baseline in pre-specified secondary efficacy endpoint National Eye Institute Visual Function Questionnaire (NEI VFQ-25) without clinically meaningful differences to ranibizumab.
 
-The proportion of patients who extended their treatment interval to 12 weeks or beyond was 42.3% in the 2-week adjustment group and 49.6 % in the 4-week adjustment group.
 At the last visit up to week 52, 56.
-8% and 57.8% of patients in the 2- week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of 12 weeks or beyond.
+8% and 57.8% of patients in the 2-week and 4-week adjustment groups, respectively had their next injection scheduled at an interval of 12 weeks or beyond.
 
 Ocular and systemic safety profiles were similar to the safety observed in the pivotal studies VIEW1 and VIEW2.
-
-Week 104 BCVA was lower in patients requiring more intensive treatment at least once over the course of the study compared with patients who did not and the mean change in BCVA from baseline to end of the study was +2.3 ±
-15.6 letters.
 
 | Efficacy Outcomes | COPERNICUS |  |  |  |  |  | GALILEO |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | 24 Weeks |  | 52 Weeks |  | 100 Weeks |  | 24 Weeks |  | 52 Weeks |  | 76 Weeks |  |
-|  | Eylea 2 mg Q4 (N = 114) | Control (N= 73) | Eylea 2 mg (N = 114) | ControlE) (N =73) | Eylea F) 2 mg (N= 114) | Control E,F) (N=73) | Eylea 2 mg Q4 (N = 103) | Control (N = 68) | Eylea 2 mg (N = 103) | Control (N = 68) | Eylea G) 2 mg (N = 103) | Control G) (N = 68) |
+|  | Eylea 2 mg Q4 (N = 114) | Control (N= 73) | Eylea 2 mg (N = 114) | ControlE) (N =73) | Eylea F) 2 mg (N= 114) | Control E,F) (N=73) | Eylea 2 mg Q4 (N = 103) | Control (N = 68) | Eylea 2 mg (N = 103) | Control (N = 68) | Eylea G) 2 mg (N = 103) | ConGt) rol (N = 68) |
 | Proportion of patients with≥15 letters gain from baseline | 56% | 12% | 55% | 30% | 49.1% | 23.3% | 60% | 22% | 60% | 32% | 57.3% | 29.4% |
 | Weighted differenceA,B,E) (95% CI) p-value | 44.8% (33.0, 56.6) p < 0.0001 |  | 25.9% (11.8, 40.1) p = 0.0006 |  | 26.7% (13.1, 40.3) p=0.0003 |  | 38.3% (24.4, 52.1) p < 0.0001 |  | 27.9% (13.0, 42.7) p = 0.0004 |  | 28.0% (13.3, 42.6) p=0.0004 |  |
 | Mean change in BCVA C) as measured by ETDRSC) letter score from baseline (SD) | 17.3 (12.8) | -4.0 (18.0) | 16.2 (17.4) | 3.8 (17.1) | 13.0 (17.7) | 1.5 (17.7) | 18.0 (12.2) | 3.3 (14.1) | 16.9 (14.8) | 3.8 (18.1) | 13.7 (17.8) | 6.2 (17.7) |
 | Difference in LS meanA,C,D,E) (95% CI) p-value | 21.7 (17.4, 26.0) p < 0.0001 |  | 12.7 (7.7, 17.7) p < 0.0001 |  | 11.8 (6.7, 17.0) p < 0.0001 |  | 14.7 (10.8, 18.7) p < 0.0001 |  | 13.2 (8.2, 18.2) p < 0.0001 |  | 7.6 (2.1, 13.1) p=0.0070 |  |
 
-Based on pre-specified criteria, patients in the laser group could receive rescue treatment with Eylea 2mg from week 24, administered every 4 weeks for 3 months followed by every 8 weeks.
+B) Difference and confidence interval (CI) are calculated using Cochran-Mantel-Haenszel (CMH) test adjusted for region (America vs. rest of the world for COPERNICUS and Europe vs. Asia/Pacific for GALILEO) and baseline BCVA category (>20/200 and ≤20/200)
+D) LS mean difference and confidence interval based on an ANCOVA model with factors treatment group, region (America vs. rest of the world for COPERNICUS and Europe vs. Asia/Pacific for GALILEO) and baseline BCVA category (>20/200 and ≤20/200)
 
-| Efficacy Outcomes | VIBRANT |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | 24 Weeks |  | 52 Weeks |  |
-|  | Eylea 2mg Q4 (N = 91) | Active Control (laser) (N = 90) | Eylea 2mg Q8 (N = 91)D) | Active Control (laser)/Eylea 2mgE) (N = 90) |
-| Proportion of patients with ≥15 letters gain from Baseline (%) | 52.7% | 26.7% | 57.1% | 41.1% |
-| Weighted Difference A,B) (%) (95% CI) p-value | 26.6% (13.0, 40.1) p=0.0003 |  | 16.2% (2.0, 30.5) p=0.0296 |  |
-| Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | 17.0 (11.9) | 6.9 (12.9) | 17.1 (13.1) | 12.2 (11.9) |
-| Difference in LS mean A,C) (95% CI) p-value | 10.5 (7.1, 14.0) p<0.0001 |  | 5.2 (1.7, 8.7) p=0.0035F) |  |
+(N = 91) (laser) (N = 91)D) (laser)/Eylea
+(N = 90) 2mgE)
+(N = 90)
 
 C) LS mean difference and 95% CI based on an ANCOVA model with treatment group, baseline BCVA category
 (> 20/200 and ≤ 20/200) and region (North America vs. Japan) as fixed effects, and baseline BCVA as covariate.

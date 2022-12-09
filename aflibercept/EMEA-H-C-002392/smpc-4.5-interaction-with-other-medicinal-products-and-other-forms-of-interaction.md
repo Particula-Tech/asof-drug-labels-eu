@@ -3,3 +3,6 @@
 No interaction studies have been performed.
 
 Adjunctive use of verteporfin photodynamic therapy (PDT) and Eylea has not been studied, therefore, a safety profile is not established.
+
+Paediatric population
+No interaction studies have been performed.

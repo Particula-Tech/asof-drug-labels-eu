@@ -28,3 +28,16 @@ Pharmacokinetic analysis of patients in the VIEW2 study, of which 40% had renal 
 (24% mild, 15% moderate, and 1% severe), revealed no differences with respect to plasma concentrations of active drug after intravitreal administration every 4 or 8 weeks.
 
 Similar results were seen in patients with CRVO in the GALILEO study, in patients with DME in the VIVIDDME study, and in patients with myopic CNV in the MYRROR study.
+
+Paediatric population
+
+Pharmacokinetic properties of aflibercept were evaluated in preterm infants with ROP at a dose of
+0.4 mg aflibercept (per eye). Following intravitreal injection, concentrations of free and bound
+aflibercept were higher than those observed in wet AMD adult patients receiving 2 mg (in one eye) but
+lower than after i.v. administration of the maximum tolerated dose of 1 mg/kg in adult patients. Mean
+concentrations of free aflibercept declined to approximately 0.13 microgram/mL at week 4 after
+dosing. Plasma concentrations of free aflibercept declined to values below or close to the lower limit
+of quantitation within approximately 8 weeks. Mean concentrations of adjusted bound aflibercept
+increased up to 1.34 microgram/mL at week 4 and declined thereafter.
+An exploratory PK/PD analysis showed no relationship between systemic aflibercept concentrations and
+pharmacodynamic effects such as blood pressure changes.

@@ -15,7 +15,7 @@ The safety data described below include all adverse reactions from the eight pha
 
 The adverse reactions are listed by system organ class and frequency using the following convention:
 
-Very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥ 1/10,000 to <1/1,000)
+Very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000)
 
 Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness.
 Table 1: All treatment-emergent adverse drug reactions reported in patients in phase III studies (pooled data of the phase III studies for the indications wet AMD, CRVO, BRVO, DME and myopic CNV) or during post-marketing surveillance
@@ -38,10 +38,18 @@ This increased incidence was comparable between patients treated with ranibizuma
 Arterial thromboembolic events (ATEs) are adverse events potentially related to systemic VEGF inhibition.
 There is a theoretical risk of arterial thromboembolic events, including stroke and myocardial infarction, following intravitreal use of VEGF inhibitors.
 
-A low incidence rate of arterial thromboembolic events was observed in the Eylea clinical trials in patients with AMD, DME, RVO and myopic CNV.
+A low incidence rate of arterial thromboembolic events was observed in the Eylea clinical trials in patients with AMD, DME, RVO, myopic CNV and ROP.
 Across indications no notable difference between the groups treated with aflibercept and the respective comparator groups were observed.
 
 As with all therapeutic proteins, there is a potential for immunogenicity with Eylea.
+Paediatric population
+The safety of Eylea for the treatment of ROP was evaluated in a 6-month phase III study, which included 75 preterm infants treated with aflibercept 0.4 mg at baseline.
+The long-term safety profile in preterm infants has not been established.
+
+Adverse reactions reported in more than one patient treated with aflibercept 0.4 mg were retinal detachment, retinal haemorrhage, conjunctival haemorrhage, injection site haemorrhage, intraocular pressure increased and eyelid oedema.
+
+Adverse reactions established for adult indications are considered applicable to preterm infants with ROP, though not all were observed in the phase III study.
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
@@ -50,4 +58,6 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [Eylea 40 mg/mL solution for injection in a vial.]
 
-Very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥ 1/10,000 to < 1/1,000)
+The adverse reactions are listed by system organ class and frequency using the following convention: Very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000)
+
+A low incidence rate of arterial thromboembolic events was observed in the Eylea clinical trials in patients with AMD, DME, RVO and myopic CNV.

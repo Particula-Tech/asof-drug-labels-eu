@@ -9,7 +9,6 @@ Posology
 wet AMD
 
 The recommended dose for Eylea is 2 mg aflibercept, equivalent to 0.05 mL.
-
 Eylea treatment is initiated with one injection per month for three consecutive doses.
 The treatment interval is then extended to two months.
 
@@ -52,16 +51,23 @@ Treatment intervals shorter than 4 weeks have not been studied (see section 5.1)
 The schedule for monitoring should be determined by the treating physician.
 
 If visual and anatomic outcomes indicate that the patient is not benefiting from continued treatment, Eylea should be discontinued.
-
 Myopic choroidal neovascularisation
 
 The recommended dose for Eylea is a single intravitreal injection of 2 mg aflibercept equivalent to 0.05 mL.
+
 Additional doses may be administered if visual and/or anatomic outcomes indicate that the disease persists.
 Recurrences should be treated as a new manifestation of the disease.
 
 The schedule for monitoring should be determined by the treating physician.
 
 The interval between two doses should not be shorter than one month.
+
+Retinopathy of prematurity (ROP)
+
+The recommended dose for Eylea is a single intravitreal injection of 0.4 mg aflibercept equivalent to 0.01 mL.
+Treatment of ROP is initiated with a single injection per eye and may be given bilaterally on the same day.
+In total, up to 2 injections per eye may be administered within 6 months of treatment initiation if there are signs of disease activity.
+The treatment interval between the 2 doses injected into the same eye should be at least 4 weeks.
 
 Special populations
 
@@ -75,7 +81,7 @@ No special considerations are needed.
 There is limited experience in patients older than 75 years with DME.
 
 Paediatric population
-The safety and efficacy of Eylea have not been established in children and adolescents.
+The safety and efficacy of Eylea in children and adolescents below 18 years of age for indications other than ROP have not been established (see section 4.4).
 There is no relevant use of Eylea in the paediatric population for the indications of wet AMD, CRVO, BRVO, DME and myopic CNV.
 
 Method of administration
@@ -84,30 +90,44 @@ Intravitreal injections must be carried out according to medical standards and a
 In general, adequate anaesthesia and asepsis, including topical broad spectrum microbicide (e.g. povidone iodine applied to the periocular skin, eyelid and ocular surface), have to be ensured.
 Surgical hand disinfection, sterile gloves, a sterile drape, and a sterile eyelid speculum (or equivalent) are recommended.
 
-The injection needle should be inserted 3.5-4.0 mm posterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe.
-The injection volume of 0.05 mL is then delivered; a different scleral site should be used for subsequent injections.
-
 Immediately following the intravitreal injection, patients should be monitored for elevation in intraocular pressure.
 Appropriate monitoring may consist of a check for perfusion of the optic nerve head or tonometry.
 If required, sterile equipment for paracentesis should be available.
 
-Following intravitreal injection patients should be instructed to report any symptoms suggestive of endophthalmitis (e.g. eye pain, redness of the eye, photophobia, blurring of vision) without delay.
-
+Following intravitreal injection, adult patients should be instructed to report any symptoms suggestive of endophthalmitis (e.g. eye pain, redness of the eye, photophobia, blurring of vision) without delay.
+Patients with ROP should be observed by healthcare professionals for any signs suggestive of endophthalmitis (e.g. redness/irritation of the eye, ocular discharge, lid swelling, photophobia).
+Parents and caregivers should also be instructed to observe and report any signs suggestive of endophthalmitis without delay.
 Each pre-filled syringe should only be used for the treatment of a single eye.
 Extraction of multiple doses from a pre-filled syringe may increase the risk of contamination and subsequent infection.
 
+Adults
 The pre-filled syringe contains more than the recommended dose of 2 mg aflibercept (equivalent to 0.05 mL solution for injection).
 The extractable volume of the syringe is the amount that can be expelled from the syringe and is not to be used in total.
 For the Eylea pre-filled syringe, the extractable volume is at least 0.09 mL.
 The excess volume must be expelled before injecting the recommended dose (see section 6.6).
 
 Injecting the entire volume of the pre-filled syringe could result in overdose.
-To expel the air bubbles along with excess medicinal product, slowly depress the plunger to align the base of the plunger dome (not the tip of the dome) with the dosing line on the syringe (equivalent to 0.05 mL, i.e. 2 mg aflibercept) (see sections 4.9 and 6.6).
+To expel the air bubbles along with excess medicinal product, slowly depress the plunger to align the base of the plunger dome (not the tip of the dome) with the dosing line on the syringe (equivalent to 0.05 mL i.e. 2 mg aflibercept) (see sections 4.9 and 6.6).
+
+The injection needle should be inserted 3.5-4.0 mm posterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe.
+The injection volume of 0.05 mL is then delivered; a different scleral site should be used for subsequent injections.
+
+After injection any unused product must be discarded.
+
+Paediatric population
+For treatment of preterm infants, the PICLEO paediatric dosing device in combination with the pre-filled syringe must be used for administration of a single dose of 0.4 mg aflibercept (equivalent to 0.01 mL solution for injection) (see section 6.6).
+
+The injection needle should be inserted into the eye 1.0 to 2.0 mm from the limbus with the needle pointing towards the optic nerve.
+
 After injection any unused product must be discarded.
 
 For handling of the medicinal product before administration, see section 6.6.
 
 [Eylea 40 mg/mL solution for injection in a vial.]
+
+The safety and efficacy of Eylea have not been established in children and adolescents.
+
+Following intravitreal injection patients should be instructed to report any symptoms suggestive of endophthalmitis (e.g. eye pain, redness of the eye, photophobia, blurring of vision) without delay.
 
 Each vial should only be used for the treatment of a single eye.
 Extraction of multiple doses from a single vial may increase the risk of contamination and subsequent infection.
@@ -115,6 +135,5 @@ Extraction of multiple doses from a single vial may increase the risk of contami
 The vial contains more than the recommended dose of 2 mg aflibercept (equivalent to 0.05 mL solution for injection).
 The extractable volume of the vial is the amount that can be withdrawn from the vial and is not to be used in total.
 For the Eylea vial, the extractable volume is at least 0.1 mL.
-
 Injecting the entire volume of the vial could result in overdose.
-To expel the air bubbles along with excess medicinal product, slowly depress the plunger so that the flat plunger edge aligns with the line that marks 0.05 mL on the syringe (equivalent to 0.05 mL, i.e. 2 mg aflibercept) (see sections 4.9 and 6.6).
+To expel the air bubbles along with excess medicinal product, slowly depress the plunger so that the flat plunger edge aligns with the line that marks 0.05 mL on the syringe (equivalent to 0.05 mL i.e. 2 mg aflibercept) (see sections 4.9 and 6.6).

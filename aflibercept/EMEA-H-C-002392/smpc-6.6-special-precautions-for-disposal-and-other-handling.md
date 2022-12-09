@@ -1,16 +1,24 @@
 # 6.6 Special precautions for disposal and other handling
 
 The pre-filled syringe is for single use in one eye only.
+Extraction of multiple doses from a pre-filled syringe may increase the risk of contamination and subsequent infection.
 Do not open the sterile pre-filled syringe blister outside the clean administration room.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements
 
-The pre-filled syringe contains more than the recommended dose of 2 mg aflibercept (equivalent to 0.05 mL).
-The excess volume must be discarded prior to administration.
+The pre-filled syringe contains more than the recommended dose of 2 mg aflibercept (equivalent to 0.05 mL) for adult patients and 0.4 mg aflibercept (equivalent to 0.01 mL) for preterm infants.
+See following sections “Use in the adult population” and “Use in the paediatric population”.
 
 The solution should be inspected visually for any foreign particulate matter and/or discolouration or any variation in physical appearance prior to administration.
 In the event of either being observed, discard the medicinal product.
+
 For the intravitreal injection, a 30 G x ½ inch injection needle should be used.
 
 Instructions for use of pre-filled syringe:
+Use in the paediatric population
+To prepare the pre-filled syringe for administration to preterm infants, follow the steps 1 and 2 below and then adhere to the instructions for use included in the package of the PICLEO paediatric dosing device.
+
+Use in the adult population
+To prepare the pre-filled syringe for administration to adults, follow all steps below.
 
 1.
 When ready to administer Eylea, open the carton and remove the sterilised blister.
@@ -18,22 +26,22 @@ Carefully peel open the blister ensuring the sterility of its contents.
 Keep the syringe in the sterile tray until you are ready for assembly.
 2.
 Using aseptic technique, remove the syringe from the sterilised blister.
-
 3.
 To remove the syringe cap, hold the syringe in one hand while using the other hand to grasp the syringe cap with the thumb and fore finger.
 Please note: You should twist off (do not snap off) the syringe cap.
 
 4.
-To avoid compromising the sterility of the product, do not pull back on the plunger.
+To avoid compromising the sterility of the product, do not pull back on the plunger
+
 5.
 Using aseptic technique, firmly twist the injection needle onto the Luer-lock syringe tip.
 
 6.
 Holding the syringe with the needle pointing up, check the syringe for bubbles.
 If there are bubbles, gently tap the syringe with your finger until the bubbles rise to the top.
-7.
-Eliminate all bubbles and expel excess medicinal product by slowly depressing the plunger to align the base of the plunger dome (not the tip of the dome) with the dosing line on the syringe
-(equivalent to 0.05 mL, i.e. 2 mg aflibercept).
+The excess volume must be discarded prior to administration.
+Eliminate all bubbles and expel excess
+7. medicinal product by slowly depressing the plunger to align the base of the plunger dome (not the tip of the dome) with the dosing line on the syringe (equivalent to 0.05 mL i.e. 2 mg aflibercept).
 
 Note: This accurate positioning of the plunger is very important, because incorrect plunger positioning can lead to delivering more or less than the labelled dose.
 
@@ -76,6 +84,7 @@ Ensure that the plunger rod is drawn sufficiently back when emptying the vial in
 Remove the filter needle and properly dispose of it.
 Note: Filter needle is not to be used for intravitreal injection.
 
+7.
 Using aseptic technique, firmly twist a 30 G x ½ inch injection needle onto the Luer-lock syringe tip.
 
 Eliminate all bubbles and expel excess medicinal product by slowly depressing the plunger so that the flat plunger edge aligns with the line that marks 0.05 mL on the syringe.
