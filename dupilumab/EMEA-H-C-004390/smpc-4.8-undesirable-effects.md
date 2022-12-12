@@ -38,19 +38,20 @@ Conjunctivitis and keratitis occurred more frequently in atopic dermatitis patie
 Most patients with conjunctivitis or keratitis recovered or were recovering during the treatment period.
 In the long-term OLE atopic dermatitis study (AD-1225) at 3 years, the respective rates of conjunctivitis and keratitis remained similar to those in the dupilumab arm in the placebo controlled atopic dermatitis studies.
 Among asthma patients frequency of conjunctivitis and keratitis was low and similar between dupilumab and placebo.
-Among CRSwNP patients the frequency of conjunctivitis was higher in dupilumab than placebo, though lower than that observed in atopic dermatitis patients.
-There were no cases of keratitis reported in the CRSwNP development program (see section 4.4).
+Among CRSwNP and PN patients the frequency of conjunctivitis was higher in dupilumab than placebo, though lower than that observed in atopic dermatitis patients.
+There were no cases of keratitis reported in the CRSwNP or PN development program (see section 4.4).
 
 Eczema herpeticum
 Eczema herpeticum was reported in < 1% of the dupilumab groups and in < 1 % of the placebo group in the 16-week atopic dermatitis monotherapy adult studies.
 In the 52-week atopic dermatitis dupilumab + TCS adult study, eczema herpeticum was reported in 0.2 % of the dupilumab + TCS group and 1.9 % of the placebo + TCS group.
 These rates remained stable at 3 years in the long-term OLE study (AD-1225).
 Eosinophilia
-Dupilumab-treated patients had a greater mean initial increase from baseline in eosinophil count compared to patients treated with placebo.
+Dupilumab-treated patients had a greater mean initial increase from baseline in eosinophil count compared to patients treated with placebo in the atopic dermatitis, asthma, and CRSwNP indications.
 Eosinophil counts declined to near baseline levels during study treatment and returned to baseline during the asthma open-label extension safety study (TRAVERSE).
 The mean blood eosinophil levels decreased to below baseline by week 20 and was maintained up to 3 years in the long-term OLE study (AD-1225).
+Compared to placebo, no increase in mean blood eosinophil counts was observed in PN (PRIME and PRIME2).
 
-Treatment-emergent eosinophilia (≥ 5,000 cells/mcL) was reported in < 2 % of dupilumab-treated patients and < 0.5 % in placebo-treated patients (SOLO1, SOLO2, AD-1021, DRI12544, QUEST, SINUS-24 and SINUS-52 studies) (see section 4.4).
+Treatment-emergent eosinophilia (≥ 5,000 cells/mcL) was reported in < 2 % of dupilumab-treated patients and < 0.5 % in placebo-treated patients (SOLO1, SOLO2, AD-1021, DRI12544, QUEST, SINUS-24 and SINUS-52, PRIME, and PRIME2 studies) (see section 4.4).
 
 Infections
 In the 16-week atopic dermatitis monotherapy clinical adult studies, serious infections were reported in 1.0 % of patients treated with placebo and 0.5 % of patients treated with dupilumab.
@@ -64,19 +65,21 @@ In the 52-week QUEST study, serious infections were reported in 1.3% of patients
 No increase was observed in the overall incidence of infections with dupilumab compared to placebo in the safety pool for CRSwNP clinical studies.
 In the 52-week SINUS-52 study, serious infections were reported in 1.3 % of patients treated with dupilumab and 1.3 % of patients treated with placebo.
 
+No increase was observed in the overall incidence of infections with dupilumab compared to placebo in the safety pool for PN clinical studies.
+In the safety pool, serious infections were reported in 1.3% of patients treated with dupilumab and 1.3% of patients treated with placebo.
+
 Immunogenicity
 As with all therapeutic proteins, there is a potential for immunogenicity with dupilumab.
 
 Anti-Drug-Antibodies (ADA) responses were not generally associated with impact on dupilumab exposure, safety, or efficacy.
 
 Approximately 5 % of patients with atopic dermatitis, asthma, or CRSwNP who received dupilumab 300 mg Q2W for 52 weeks developed ADA to dupilumab; approximately 2 % exhibited persistent ADA responses and approximately 2 % had neutralizing antibodies.
-Similar results were observed in paediatric patients (6 to 11 years of age) with atopic dermatitis who received dupilumab 200 mg Q2W or 300 mg Q4W for 16 weeks and patients (6 to 11 years of age) with asthma who received dupilumab 100 mg Q2W or 200 mg Q2W for 52 weeks.
+Similar results were observed in adult patients with PN who received dupilumab 300 mg Q2W for 24 weeks, paediatric patients (6 to 11 years of age) with atopic dermatitis who received dupilumab 200 mg Q2W or 300 mg Q4W for 16 weeks and patients (6 to 11 years of age) with asthma who received dupilumab 100 mg Q2W or 200 mg Q2W for 52 weeks.
 Similar ADA responses were observed in adult patients with atopic dermatitis treated with dupilumab for up to 3 years in the long-term OLE study (AD-1225).
 
 Approximately 16 % of adolescent patients with atopic dermatitis who received dupilumab 300 mg or 200 mg Q2W for 16 weeks developed antibodies to dupilumab; approximately 3 % exhibited persistent ADA responses, and approximately 5 % had neutralizing antibodies.
 
 Approximately 9 % of patients with asthma who received dupilumab 200 mg Q2W for 52 weeks developed antibodies to dupilumab; approximately 4 % exhibited persistent ADA responses and approximately 4 % had neutralizing antibodies.
-
 Regardless of age or population, approximately 2 to 4 % of patients in the placebo groups were positive for antibodies to dupilumab; approximately 2 % exhibited persistent ADA response and approximately 1 % had neutralizing antibodies.
 
 Less than 1 % of patients who received dupilumab at approved dosing regimens exhibited high titer ADA responses associated with reduced exposure and efficacy.
@@ -115,12 +118,12 @@ The long-term safety profile of dupilumab observed in children and adolescents w
 
 In a phase 3, multicentre, open label extension (OLE) study (AD-1225), the long-term safety of repeat doses of dupilumab was assessed in 2,677 adults with moderate-to-severe AD exposed to 300 mg weekly dosing (99.7 %), including 357 who completed at least 148 weeks of the study.
 The long-term safety profile observed in this study up to 3 years was generally consistent with the safety profile of dupilumab observed in controlled studies.
-
 Asthma
 The safety profile of dupilumab in the 96 weeks long term safety study (TRAVERSE) was consistent with the safety profile observed in pivotal asthma studies for up to 52 weeks of treatment.
 
 CRSwNP
 The safety profile of dupilumab in adults with CRSwNP through week 52 was consistent with the safety profile observed at week 24.
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
@@ -131,7 +134,12 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 The most common adverse reactions are injection site reactions (includes erythema, oedema, pruritus, pain and swelling), conjunctivitis, conjunctivitis allergic, arthralgia, oral herpes, and eosinophilia.
 
+Among CRSwNP and Prurigo Nodularis (PN) patients the frequency of conjunctivitis was higher in dupilumab than placebo, though lower than that observed in atopic dermatitis patients.
+There were no cases of keratitis reported in the CRSwNP or PN development programs (see section 4.4).
+
 Eczema herpeticum was reported in < 1 % of the dupilumab groups and in < 1 % of the placebo group in the 16-week atopic dermatitis monotherapy adult studies.
+
+Treatment-emergent eosinophilia (≥ 5,000 cells/mcL) was reported in < 2 % of dupilumab-treated patients and < 0.5 % in placebo-treated patients (SOLO1, SOLO2, AD-1021, DRI12544, QUEST, SINUS-24 and SINUS-52 studies, PRIME and PRIME2) (see section 4.4).
 
 In the 52-week SINUS-52 study, serious infections were reported in 1.3% of patients treated with dupilumab and 1.3 % of patients treated with placebo.
 

@@ -1,6 +1,7 @@
 # 5.2 Pharmacokinetic properties
 
-The pharmacokinetics of dupilumab is similar in patients with atopic dermatitis, asthma, and CRSwNP.
+The pharmacokinetics of dupilumab is similar in patients with atopic dermatitis, asthma, CRSwNP, and PN.
+
 Absorption
 
 After a single subcutaneous (SC) dose of 75-600 mg dupilumab to adults, median times to maximum concentration in serum (tmax) were 3-7 days.
@@ -13,7 +14,6 @@ Across clinical trials, the mean ±SD steady-state trough concentrations ranged 
 Distribution
 
 A volume of distribution for dupilumab of approximately 4.6 L was estimated by population PK analysis, indicating that dupilumab is distributed primarily in the vascular system.
-
 Biotransformation
 
 Specific metabolism studies were not conducted because dupilumab is a protein.
@@ -40,10 +40,15 @@ Although no differences in safety or efficacy were observed between older and yo
 
 Age was not found to be associated with any clinically meaningful impact on the systemic exposure of dupilumab determined by population PK analysis.
 However, there were only 61 patients over 65 years of age included in this analysis.
+
 Of the 1,977 patients with asthma exposed to dupilumab, a total of 240 patients were 65 years or older and 39 patients were 75 years or older.
 Efficacy and safety in this age group were similar to the overall study population.
 
 There were only 79 patients older than 65 years with CRSwNP exposed to dupilumab among them 11 patients were 75 years and older.
+
+Of the 152 patients with PN exposed to dupilumab, a total of 37 were 65 years of age or older.
+A total of 8 patients were 75 years of age or older.
+Efficacy and safety in these age groups were similar to the overall study population.
 
 Race
 Race was not found to be associated with any clinically meaningful impact on the systemic exposure of dupilumab by population PK analysis.
@@ -51,7 +56,6 @@ Race was not found to be associated with any clinically meaningful impact on the
 Hepatic impairment
 Dupilumab, as a monoclonal antibody, is not expected to undergo significant hepatic elimination.
 No clinical studies have been conducted to evaluate the effect of hepatic impairment on the pharmacokinetics of dupilumab.
-
 Renal impairment
 Dupilumab, as a monoclonal antibody, is not expected to undergo significant renal elimination.
 No clinical studies have been conducted to evaluate the effect of renal impairment on the pharmacokinetics of dupilumab.
@@ -79,6 +83,7 @@ The pharmacokinetics of dupilumab in paediatric patients (< 6 years of age) with
 A total of 107 adolescents aged 12 to 17 years with asthma were enrolled in QUEST study.
 The mean ±SD steady-state trough concentrations of dupilumab were 107±51.6 mcg/mL and 46.7±26.9 mcg/mL, respectively, for 300 mg or 200 mg administered every other week.
 No age-related pharmacokinetic difference was observed in adolescent patients after correction for body weight.
+
 In the VOYAGE study, dupilumab pharmacokinetics was investigated in 270 patients with moderate-to-severe asthma following subcutaneous administration of either 100 mg Q2W (for 91 children weighing < 30 kg) or 200 mg Q2W (for 179 children weighing ≥ 30 kg).
 The volume of distribution for dupilumab of approximately 3.7 L was estimated by population PK analysis.
 Steady-state
@@ -93,10 +98,12 @@ resulted in predicted steady-state trough concentrations similar to those demons
 in adults and adolescents. After the last steady state dose, the median time for dupilumab
 
 concentrations to decrease below the lower limit of detection, estimated by population PK analysis, was 14 to 18 weeks for 100 mg Q2W, 200 mg Q2W or 300 mg Q4W.
-
 CRSwNP
 CRSwNP does not normally occur in children.
 The pharmacokinetics of dupilumab in paediatric patients (< 18 years of age) with CRSwNP has not been studied.
+
+PN
+The pharmacokinetics of dupilumab in paediatric patients (< 18 years of age) with PN has not been studied.
 
 [Dupixent 200 mg solution for injection in pre-filled syringe]
 
@@ -108,6 +115,9 @@ Steady-state concentrations were achieved by week 16 following the administratio
 Across clinical trials, the mean ±SD steady-state trough concentrations ranged from 69.2±36.9 mcg/mL to 80.2±35.3 mcg/mL for 300 mg dose and from 29.2±18.7 to 36.5±22.2 mcg/mL for 200 mg dose administered every other week to adults.
 
 For adolescents 12 to 17 years of age with atopic dermatitis receiving every other week dosing (Q2W) with either 200 mg (<60 kg) or 300 mg (≥60 kg), the mean ±SD steady state trough concentration of dupilumab was 54.5±27.0 mcg/mL.
+
+Steady-state concentrations were achieved by week 12.
+The mean ± SD steady-state trough concentration was
 
 [Dupixent 100 mg solution for injection in pre-filled syringe]
 

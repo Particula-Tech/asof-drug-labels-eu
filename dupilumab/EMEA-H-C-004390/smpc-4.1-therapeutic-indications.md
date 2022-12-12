@@ -19,6 +19,10 @@ Chronic rhinosinusitis with nasal polyposis (CRSwNP)
 
 Dupixent is indicated as an add-on therapy with intranasal corticosteroids for the treatment of adults with severe CRSwNP for whom therapy with systemic corticosteroids and/or surgery do not provide adequate disease control.
 
+Prurigo Nodularis (PN)
+
+Dupixent is indicated for the treatment of adults with moderate-to-severe prurigo nodularis (PN) who are candidates for systemic therapy.
+
 [Dupixent 200 mg solution for injection in pre-filled syringe]
 
 (all sentences already above)
