@@ -21,7 +21,6 @@ Initial exposure (0.5 and 1 hour post-dose) from crushed ticagrelor tablets mixe
 
 Distribution
 The steady state volume of distribution of ticagrelor is 87.5 l. Ticagrelor and the active metabolite is extensively bound to human plasma protein (>99.0%).
-
 Biotransformation
 CYP3A4 is the major enzyme responsible for ticagrelor metabolism and the formation of the active metabolite and their interactions with other CYP3A substrates ranges from activation through to inhibition.
 

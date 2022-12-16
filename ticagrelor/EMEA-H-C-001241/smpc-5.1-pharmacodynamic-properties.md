@@ -8,7 +8,6 @@ Ticagrelor does not prevent ADP binding but when bound to the P2Y12 receptor pre
 Since platelets participate in the initiation and/or evolution of thrombotic complications of atherosclerotic disease, inhibition of platelet function has been shown to reduce the risk of CV events such as death, MI or stroke.
 
 Ticagrelor also increases local endogenous adenosine levels by inhibiting the equilibrative nucleoside transporter-1 (ENT-1).
-
 Ticagrelor has been documented to augment the following adenosine-induced effects in healthy subjects and in patients with ACS: vasodilation (measured by coronary blood flow increases in healthy volunteers and ACS patients; headache), inhibition of platelet function (in human whole blood in vitro) and dyspnoea.
 However, a link between the observed increases in adenosine and clinical outcomes (e.g. morbidity-mortality) has not been clearly elucidated.
 
@@ -54,7 +53,6 @@ Figure 1 – Analysis of primary clinical composite endpoint of CV death, MI and
 
 Ticagrelor reduced the occurrence of the primary composite endpoint compared to clopidogrel in both the UA/NSTEMI and STEMI population (Table 4).
 Thus, Brilique 90 mg twice daily together with low-dose ASA can be used in patients with ACS (unstable angina, non-ST elevation Myocardial Infarction [NSTEMI] or ST elevation Myocardial Infarction [STEMI]); including patients managed medically, and those who are managed with percutaneous coronary intervention (PCI) or coronary artery by-pass grafting (CABG).
-
 Table 4 - Analysis of primary and secondary efficacy endpoints (PLATO)
 
 |  | Ticagrelor 90 mg twice daily (% patients with event) N=9333 | Clopidogrel 75 mg once daily (% patients with event) N=9291 | ARRa (%/yr) | RRRa (%) (95% CI) | p-value |
@@ -99,6 +97,7 @@ There were no adverse clinical consequences associated with this imbalance (incl
 PEGASUS study (History of Myocardial Infarction)
 
 The PEGASUS TIMI-54 study was a 21,162 patient, event-driven, randomised, double-blind, placebo-controlled, parallel group, international multicentre study to assess the prevention of atherothrombotic events with ticagrelor given at 2 doses (either 90 mg twice daily or 60 mg twice daily) combined with low dose ASA (75-150 mg), compared to ASA therapy alone in patients with history of MI and additional risk factors for atherothrombosis.
+
 Patients were eligible to participate if they were aged 50 years or over, with a history of MI (1 to 3 years prior to randomisation), and had at least one of the following risk factors for atherothrombosis: age ≥65 years, diabetes mellitus requiring medication, a second prior MI, evidence of multivessel CAD or chronic non-end-stage renal dysfunction.
 
 Patients were ineligible if there was planned use of a P2Y12 receptor antagonist, dipyridamole, cilostazol, or anticoagulant therapy during the study period; if they had a bleeding disorder or a history of an ischaemic stroke or intracranial bleeding, a central nervous system tumour or an intracranial vascular abnormality; if they had had gastrointestinal bleeding within the previous 6 months or major surgery within the previous 30 days.
@@ -106,14 +105,12 @@ Patients were ineligible if there was planned use of a P2Y12 receptor antagonist
 Clinical efficacy
 
 Figure 2 - Analysis of primary clinical composite endpoint of CV death, MI and stroke (PEGASUS)
-
 Table 5 - Analysis of primary and secondary efficacy endpoints (PEGASUS)
 
 |  | Ticagrelor 60 mg twice daily +ASA N = 7045 |  |  | ASA alone N = 7067 |  | p-value |
 | --- | --- | --- | --- | --- | --- | --- |
 | Characteristic | Patients with events | KM % | HR (95% CI) | Patients with events | KM % |  |
 | Primary endpoint |  |  |  |  |  |  |
-| Characteristic | Patients with events | KM % | HR (95% CI) | Patients with events | KM % |  |
 | Composite of CV Death/MI/Stroke | 487 (6.9%) | 7.8% | 0.84 (0.74, 0.95) | 578 (8.2%) | 9.0% | 0.0043 (s) |
 | CV death | 174 (2.5%) | 2.9% | 0.83 (0.68, 1.01) | 210 (3.0%) | 3.4% | 0.0676 |
 | MI | 285 (4.0%) | 4.5% | 0.84 (0.72, 0.98) | 338 (4.8%) | 5.2% | 0.0314 |
@@ -139,8 +136,8 @@ Each of the components contributed to the reduction in the primary composite end
 
 The RRR for the composite endpoint from 1 to 360 days (17% RRR) and from 361 days and onwards (16% RRR) was similar.
 There are limited data on the efficacy and safety of ticagrelor beyond 3 years of extended treatment.
-
 There was no evidence of benefit (no reduction in the primary composite endpoint of CV death, MI and stroke, but an increase in major bleeding) when ticagrelor 60 mg twice daily was introduced in clinically stable patients >2 years from the MI, or more than one year after stopping previous ADP receptor inhibitor treatment (see also section 4.2).
+
 Clinical safety
 The rate of discontinuations with ticagrelor 60 mg due to bleeding and dyspnoea was higher in patients >75 years (42%) than in younger patients (range: 23-31%), with a difference versus placebo higher than 10% (42% vs. 29%) in patients >75 years.
 

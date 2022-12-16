@@ -42,6 +42,9 @@ During the Holter substudy in PLATO, more patients had ventricular pauses >3 sec
 The increase in Holter-detected ventricular pauses with ticagrelor was higher in patients with chronic heart failure (CHF) than in the overall study population during the acute phase of ACS, but not at one month with ticagrelor or compared to clopidogrel.
 There were no adverse clinical consequences associated with this imbalance (including syncope or pacemaker insertion) in this patient population (see section 5.1).
 
+Bradyarrhythmic events and AV blocks have been reported in the post-marketing setting in patients taking ticagrelor (see section 4.8), primarily in patients with ACS, where cardiac ischemia and concomitant drugs reducing the heart rate or affecting cardiac conduction are potential confounders.
+The patient’s clinical condition and concomitant medication should be assessed as potential causes prior to adjusting treatment.
+
 Dyspnoea
 Dyspnoea was reported in patients treated with ticagrelor.
 Dyspnoea is usually mild to moderate in intensity and often resolves without need for treatment discontinuation.
@@ -77,10 +80,12 @@ False negative results in a platelet function test (to include, but may not be l
 This is related to inhibition of the P2Y12-receptor on the healthy donor platelets in the test by ticagrelor in the patient’s sera/plasma.
 Information on concomitant treatment with ticagrelor is required for interpretation of HIT platelet function tests.
 In patients who have developed HIT, the benefit-risk of continued treatment with ticagrelor should be assessed, taking both the prothrombotic state of HIT and the increased risk of bleeding with concomitant anticoagulant and ticagrelor treatment into consideration.
-
 Other
 Based on a relationship observed in PLATO between maintenance ASA dose and relative efficacy of ticagrelor compared to clopidogrel, co-administration of ticagrelor and high maintenance dose ASA (>300 mg) is not recommended (see section 5.1).
 
 Premature discontinuation
 Premature discontinuation with any antiplatelet therapy, including Brilique, could result in an increased risk of cardiovascular (CV) death, MI or stroke due to the patient’s underlying disease.
 Therefore, premature discontinuation of treatment should be avoided.
+
+Sodium
+Brilique contains less than 1 mmol sodium (23 mg) per dose, i.e. is essentially ‘sodium-free’.
