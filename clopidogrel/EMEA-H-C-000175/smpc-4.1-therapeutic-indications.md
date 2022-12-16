@@ -6,7 +6,7 @@ Clopidogrel is indicated in:
 - Adult patients suffering from myocardial infarction (from a few days until less than 35 days), ischemic stroke (from 7 days until less than 6 months) or established peripheral arterial disease.
 - Adult patients suffering from acute coronary syndrome:
   - Non-ST segment elevation acute coronary syndrome (unstable angina or non-Q-wave myocardial infarction), including patients undergoing a stent placement following percutaneous coronary intervention, in combination with acetylsalicylic acid (ASA).
-  - ST segment elevation acute myocardial infarction, in combination with ASA in patients undergoing percutaneous coronary intervention (including patients undergoing a stent placement) or medically treated patients eligible for thrombolytic/fibrinolytic therapy.
+  - ST segment elevation acute myocardial infarction, in combination with ASA in medically treated patients eligible for thrombolytic therapy.
 
 In patients with moderate to high-risk Transient Ischemic Attack (TIA) or minor Ischemic Stroke (IS)
 Clopidogrel in combination with ASA is indicated in:

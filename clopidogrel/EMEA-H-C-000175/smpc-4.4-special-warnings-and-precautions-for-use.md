@@ -3,7 +3,6 @@
 Bleeding and haematological disorders
 Due to the risk of bleeding and haematological adverse reactions, blood cell count determination and/or other appropriate testing should be promptly considered whenever clinical symptoms suggestive of bleeding arise during the course of treatment (see section 4.8).
 As with other antiplatelet agents, clopidogrel should be used with caution in patients who may be at risk of increased bleeding from trauma, surgery or other pathological conditions and in patients receiving treatment with ASA, heparin, glycoprotein IIb/IIIa inhibitors or non-steroidal anti-inflammatory drugs (NSAIDs) including Cox-2 inhibitors, or selective serotonin reuptake inhibitors (SSRIs), CYP2C19 strong inducers or other medicinal products associated with bleeding risk such as pentoxifylline (see section 4.5).
-Due to the increased risk of haemorrhage, triple antiplatelet therapy (clopidogrel + ASA + dipyridamole) for stroke secondary prevention is not recommended in patients with acute non-cardioembolic ischemic stroke or TIA (see section 4.5 and section 4.8).
 Patients should be followed carefully for any signs of bleeding including occult bleeding, especially during the first weeks of treatment and/or after invasive cardiac procedures or surgery.
 The concomitant administration of clopidogrel with oral anticoagulants is not recommended since it may increase the intensity of bleedings (see section 4.5).
 
@@ -14,9 +13,6 @@ Clopidogrel prolongs bleeding time and should be used with caution in patients w
 Patients should be told that it might take longer than usual to stop bleeding when they take clopidogrel (alone or in combination with ASA), and that they should report any unusual bleeding (site or duration) to their physician.
 
 The use of clopidogrel 600 mg loading dose is not recommended in patients with non-ST segment elevation acute coronary syndrome and ≥75 years of age due to increased bleeding risk in this population.
-
-Due to the limited clinical data in patients ≥75 years old with STEMI PCI, and increased risk of bleeding, the use of clopidogrel 600 mg loading dose should be considered only after an individual assessment of the bleeding risk of the patient by the physician.
-
 Thrombotic Thrombocytopenic Purpura (TTP)
 Thrombotic Thrombocytopenic Purpura (TTP) has been reported very rarely following the use of clopidogrel, sometimes after a short exposure.
 It is characterised by thrombocytopenia and microangiopathic haemolytic anaemia associated with either neurological findings, renal dysfunction or fever.
