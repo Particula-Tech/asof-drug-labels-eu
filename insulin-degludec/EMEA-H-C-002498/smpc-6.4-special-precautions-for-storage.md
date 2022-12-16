@@ -20,5 +20,4 @@ Store in a refrigerator (2°C – 8°C).
 Do not freeze.
 Keep away from the freezing element.
 Keep cartridges in the outer carton in order to protect them from light.
-
 For storage conditions after first opening of the medicinal product, see section 6.3.

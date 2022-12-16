@@ -18,6 +18,7 @@ Degradation of insulin degludec is similar to that of human insulin; all metabol
 Elimination
 The half-life after subcutaneous administration of Tresiba is determined by the rate of absorption from the subcutaneous tissue.
 The half-life of Tresiba is approximately 25 hours independent of dose.
+
 Linearity
 Dose proportionality in total exposure is observed after subcutaneous administration within the therapeutic dose range.
 In direct comparison, requirements for bioequivalence are met for Tresiba 100 units/mL and Tresiba 200 units/mL (based on AUCIDeg,τ,SS and Cmax,IDeg,SS).

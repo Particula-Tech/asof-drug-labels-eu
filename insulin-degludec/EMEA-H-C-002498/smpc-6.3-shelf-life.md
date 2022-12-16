@@ -7,6 +7,7 @@ After first opening or carried as a spare, the medicinal product may be stored f
 Do not store above 30°C.
 Can be stored in a refrigerator (2°C – 8°C).
 Keep the cap on the pen in order to protect from light.
+
 Tresiba 200 units/mL solution for injection in pre-filled pen
 After first opening or carried as a spare, the medicinal product may be stored for a maximum of 8 weeks.
 Do not store above 30°C.

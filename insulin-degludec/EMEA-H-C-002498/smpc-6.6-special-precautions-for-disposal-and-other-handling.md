@@ -25,7 +25,6 @@ Tresiba 100 units/mL packaging and label are light green.
 The pre-filled pen (FlexTouch) is designed to be used with NovoFine/NovoTwist injection needles up to a length of 8 mm.
 It delivers 1–80 units in steps of 1 unit.
 Detailed instructions accompanying the pre-filled pen must be followed.
-
 Tresiba 200 units/mL solution for injection in pre-filled pen
 Tresiba 200 units/mL packaging and label are dark green with striping with a red box highlighting the formulation strength.
 The pre-filled pen (FlexTouch) is designed to be used with NovoFine/NovoTwist injection needles up to a length of 8 mm.

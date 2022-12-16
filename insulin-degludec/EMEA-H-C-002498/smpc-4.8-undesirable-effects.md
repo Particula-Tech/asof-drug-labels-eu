@@ -24,7 +24,6 @@ With insulin preparations, allergic reactions may occur.
 Immediate-type allergic reactions to either insulin itself or the excipients may potentially be life-threatening.
 
 With Tresiba, hypersensitivity (manifested with swelling of tongue and lips, diarrhoea, nausea, tiredness and itching) and urticaria were reported rarely.
-
 Hypoglycaemia
 Hypoglycaemia may occur if the insulin dose is too high in relation to the insulin requirement.
 Severe hypoglycaemia may lead to unconsciousness and/or convulsions and may result in temporary or permanent impairment of brain function or even death.

@@ -3,6 +3,7 @@
 Pharmacotherapeutic group: Drugs used in diabetes.
 Insulins and analogues for injection, long-acting.
 ATC code: A10AE06.
+
 Mechanism of action
 Insulin degludec binds specifically to the human insulin receptor and results in the same pharmacological effects as human insulin.
 
@@ -80,6 +81,7 @@ Table 2 Results from open-label clinical trials in type 1 diabetes mellitus
 1 In a once-daily regimen + insulin aspart to cover mealtime insulin requirements
 2 Confirmed hypoglycaemia was defined as episodes confirmed by plasma glucose <3.1 mmol/L or by the patient needing third party assistance.
 Nocturnal confirmed hypoglycaemia was defined as episodes between midnight and 6 a.m.
+
 Table 3 Results from open-label clinical trials in insulin naïve type 2 diabetes mellitus (insulin initiation)
 
 |  | 52 weeks of treatment |  | 26 weeks of treatment |  |
@@ -133,13 +135,11 @@ Nocturnal confirmed hypoglycaemia was defined as episodes between midnight and 6
 
 Table 5 Results from an open-label clinical trial with flexible dosing of Tresiba in type 2 diabetes mellitus
 
-|  | 26 weeks of treatment |  |  |
-| --- | --- | --- | --- |
-|  | Tresiba1 | Tresiba Flex2 | Insulin glargine (100 units/mL)3 |
-| N | 228 | 229 | 230 |
-
-| HbA1c (%) |  |  |  |  |
+|  | 26 weeks of treatment |  |  |  |
 | --- | --- | --- | --- | --- |
+|  | Tresiba1 | Tresiba Flex2 |  | Insulin glargine (100 units/mL)3 |
+| N | 228 | 229 |  | 230 |
+| HbA1c (%) |  |  |  |  |
 | End of trial | 7.3 | 7.2 |  | 7.1 |
 | Mean change | -1.07 | -1.28 |  | -1.26 |
 |  | Difference: -0.13 [-0.29; 0.03]5 |  | Difference: 0.04 [-0.12; 0.20] |  |
@@ -247,6 +247,21 @@ Table 7 Results from DEVOTE
 
 1 In addition to standard of care for diabetes and cardiovascular disease
 2 Nocturnal severe hypoglycaemia was defined as episodes between midnight and 6 a.m.
+
+Pregnancy
+Tresiba has been studied in an open-label, randomised, active controlled clinical trial, in which pregnant women with type 1 diabetes mellitus were treated within a basal-bolus treatment regimen with Tresiba (92 women) or insulin detemir (96 women) as basal insulin, both in combination with insulin aspart as meal time insulin (EXPECT).
+
+Tresiba was non-inferior to insulin detemir as measured by HbA1c at last planned HbA1c visit prior to delivery after gestational week 16.
+Moreover, no difference between treatment groups was observed for glycaemic control (change in HbA1c, FPG and PPG) during pregnancy.
+
+No clinically relevant differences were observed between Tresiba and insulin detemir for the maternal safety endpoints: hypoglycaemia, pre-term delivery and adverse events during the pregnancy.
+Pre-eclampsia was reported in 12 subjects treated with Tresiba (13.2%) and in 7 subjects (7.4%) who were treated with insulin detemir.
+Non-planned caesarean section was reported in 23 subjects (25.3%) treated with Tresiba and in 15 subjects (16.0%) treated with insulin detemir.
+The majority of the adverse events reported in both groups were non-serious, mild in severity, unlikely related to the trial product and had the outcome “recovered/resolved”.
+No deaths were reported in the subjects who were randomised in the trial.
+
+No perinatal or neonatal death was reported.
+No clinically relevant differences were observed between Tresiba and insulin detemir for the pregnancy endpoints (early foetal death, presence of major abnormalities, neonatal hypoglycaemia, perinatal mortality, neonatal mortality, foetal macrosomia, large for gestational age, and adverse events in the infant during the 30 days after birth).
 
 Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of trials with Tresiba in:
