@@ -19,11 +19,11 @@ Blood pressure and pulse may increase following discontinuation of guanfacine.
 In post-marketing experience, hypertensive encephalopathy has been very rarely reported upon abrupt discontinuation of treatment (see section 4.8).
 To minimise the risk of an increase in blood pressure upon discontinuation, the total daily dose should be tapered in decrements of no more than 1 mg every 3 to 7 days (see section 4.2).
 Blood pressure and pulse should be monitored when reducing the dose or discontinuing treatment.
+
 QTc interval
 
 In phase II-III randomised double-blind monotherapy studies respective increases in QTc interval prolongation that exceeded change from baseline greater than >60 ms Fridericia-correction and Bazett-correction were 0 (0.0%) and 2 (0.3%) among placebo and 1 (0.1%) and 1 (0.1%) among guanfacine patients.
 The clinical relevance of this finding is uncertain.
-
 Guanfacine should be prescribed with caution in patients with a known history of QT prolongation, risk factors for torsade de pointes (e.g., heart block, bradycardia, hypokalaemia) or patients who are taking medicinal products known to prolong the QT interval (see section 4.5).
 These patients should receive further cardiac evaluation based on clinical judgement (see section 4.8).
 

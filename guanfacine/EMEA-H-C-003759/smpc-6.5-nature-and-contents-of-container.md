@@ -10,5 +10,4 @@ Intuniv 2 mg prolonged-release tablet pack sizes: 7, 28 or 84 tablets.
 Intuniv 3 mg prolonged-release tablet pack sizes: 28 or 84 tablets.
 
 Intuniv 4 mg prolonged-release tablet pack sizes: 28 or 84 tablets.
-
 Not all pack sizes may be marketed.

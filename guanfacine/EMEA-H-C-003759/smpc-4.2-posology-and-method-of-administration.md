@@ -56,8 +56,8 @@ Table 2
 
 a Adolescent subjects must weigh at least 34 kg.
 b Adolescents weighing 58.5 kg and above may be titrated to a 7 mg/day dose after the subject has completed a minimum of 1 week of therapy on a 6 mg/day dose and the physician has performed a thorough review of the subject’s tolerability and efficacy.
-The physician who elects to use guanfacine for extended periods (over 12 months) should re-evaluate the usefulness of guanfacine every 3 months for the first year and then at least yearly based on clinical judgement (see section 4.4), and consider trial periods off medication to assess the patient’s functioning without pharmacotherapy, preferably during times of school holidays.
 
+The physician who elects to use guanfacine for extended periods (over 12 months) should re-evaluate the usefulness of guanfacine every 3 months for the first year and then at least yearly based on clinical judgement (see section 4.4), and consider trial periods off medication to assess the patient’s functioning without pharmacotherapy, preferably during times of school holidays.
 Downward titration and discontinuation
 Patients/caregivers should be instructed not to discontinue guanfacine without consulting their physician.
 
@@ -97,9 +97,9 @@ Dose adjustment is recommended with concomitant use of moderate/strong CYP3A4/5 
 
 In case of concomitant use of strong and moderate CYP3A inhibitors, a 50% reduction of the guanfacine dose is recommended.
 Due to variability in interaction effect, further dose titration may be needed (see above).
+
 If guanfacine is combined with strong enzyme inducers, a retitration to increase the dose up to a maximum daily dose of 7 mg may be considered if needed.
 If the inducing treatment is ended, retitration to reduce the guanfacine dose is recommended during the following weeks (see section 4.5).
-
 Method of administration
 
 Oral use.
