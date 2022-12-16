@@ -6,7 +6,6 @@ Serious adverse reactions occurred in 61.8% of patients receiving Isa-Pd.
 The most frequent serious adverse reactions are pneumonia (25.7%) and febrile neutropenia (6.6%).
 Permanent discontinuation of treatment because of adverse reactions was reported in 7.2% of patients treated with Isa-Pd.
 Adverse reactions with a fatal outcome during treatment were reported in 7.9% of patients treated with Isa-Pd (those occurring in more than 1% of patients were pneumonia occurring in 1.3% of patients and other infections occurring in 2.0% of patients).
-
 In IKEMA, the most frequent adverse reactions (≥20%) are infusion reactions (45.8%), hypertension (36.7%), diarrhoea (36.2%), upper respiratory tract infection (36.2%), pneumonia (28.8%), fatigue (28.2%), dyspnoea (27.7%), insomnia (23.7%), bronchitis (22.6%), and back pain (22.0%).
 Serious adverse reactions occurred in 59.3% of patients receiving Isa-Kd.
 The most frequent serious adverse reaction is pneumonia (21.5%).
@@ -28,6 +27,7 @@ Table 3a: Adverse reactions reported in patients with multiple myeloma treated w
 | Infections and infestations | Pneumoniab c | Very common | 47 (30.9) | 40 (26.3) |
 |  | Upper respiratory tract infection* | Very common | 43 (28.3) | 5 (3.3) |
 |  | Bronchitis* | Very common | 36 (23.7) | 5 (3.3) |
+|  | Herpes zoster | Common | 7 (4.6) | 1 (0.7) |
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Skin squamous cell carcinoma | Common | 4 (2.6) | 2 (1.3) |
 | Blood and lymphatic system disorders | Neutropeniad | Very common | 71 (46.7) | 70 (46.1) |
 |  | Febrile neutropenia | Very common | 18 (11.8) | 18 (11.8) |
@@ -56,9 +56,10 @@ Table 4a: Adverse reactions reported in patients with multiple myeloma treated w
 | System Organ Class Preferred Term | Adverse reaction | Frequency | Incidence (%) (N=177) |  |
 | --- | --- | --- | --- | --- |
 |  |  |  | Any Grade | Grade ≥3 |
-| Infections and infestations | Pneumoniab c | Very common | 28.8% | 20.9 |
+| Infections and infestations | Pneumoniab c | Very common | 28.8% | 20.9% |
 |  | Upper respiratory tract infection* | Very common | 36.2% | 3.4% |
 |  | Bronchitis* | Very common | 22.6% | 2.3% |
+|  | Herpes zoster | Common | 2.3% | 0.6% |
 | Vascular disorders | Hypertension* | Very common | 36.7% | 20.3% |
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Skin cancers* | Common | 5.1% | 0.6% |
 |  | Solid tumours other than skin cancers | Common | 3.4 % | 1.7% |
@@ -110,6 +111,8 @@ Treatment was discontinued due to infection in 2.8% of patients in the Isa-Kd gr
 Fatal infections were reported in 2.3% of patients in the Isa-Kd group and 0.8% in the Kd group.
 (see section 4.4).
 
+In relapsed and refractory multiple myeloma clinical trials, herpes zoster was reported in 2.0% of patients.
+In ICARIA-MM, the incidence of herpes zoster was 4.6% in the Isa-Pd group compared to 0.7% in the Pd group, and in IKEMA, incidence was 2.3% in the Isa-Kd group compared to 1.6% in the Kd group.
 Cardiac failure
 In IKEMA, cardiac failure (including cardiac failure, cardiac failure congestive, cardiac failure acute, cardiac failure chronic, left ventricular failure, and pulmonary oedema) was reported in 7.3% of patients with the Isa-Kd group (4.0% of Grade ≥3) and in 6.6% of patients with the Kd group (4.1% of Grade ≥3).
 Serious cardiac failure was observed in 4.0% of patients in the Isa-Kd group and in 3.3% of patients in the Kd group.

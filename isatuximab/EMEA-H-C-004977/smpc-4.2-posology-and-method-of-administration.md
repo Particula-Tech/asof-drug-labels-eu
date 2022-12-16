@@ -22,6 +22,9 @@ Management of neutropenia
 The use of colony-stimulating factors (e.g. G-CSF) should be considered to mitigate the risk of neutropenia.
 In the event of grade 4 neutropenia, SARCLISA administration should be delayed until neutrophil count improves to at least 1.0 x 109/L (see section 4.4).
 
+Prevention of infection
+Antibacterial and antiviral prophylaxis (such as herpes zoster prophylaxis) can be considered during treatment (see section 4.4).
+
 Posology
 
 The recommended dose of SARCLISA is 10 mg/kg body weight administered as an intravenous infusion in combination with pomalidomide and dexamethasone (Isa-Pd) or in combination with carfilzomib and dexamethasone (Isa-Kd), according to the schedule in Table 1:
@@ -52,9 +55,9 @@ Special populations
 
 Elderly
 Based on population pharmacokinetic analysis, no dose adjustment is recommended in elderly patients.
-
 Patients with renal impairment
 Based on population pharmacokinetic analysis and on clinical safety, no dose adjustment is recommended in patients with mild to severe renal impairment (see section 5.2).
+
 Patients with hepatic impairment
 Based on population pharmacokinetic analysis, no dose adjustment is recommended in patients with mild hepatic impairment.
 Data in patients with moderate and severe hepatic impairment are limited (see section 5.2), but there is no evidence to suggest that dose adjustment is required in these patients.

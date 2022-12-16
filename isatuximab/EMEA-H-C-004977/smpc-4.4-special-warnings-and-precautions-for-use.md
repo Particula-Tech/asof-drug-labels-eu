@@ -33,9 +33,9 @@ SARCLISA dose delays and the use of colony-stimulating factors (e.g. G-CSF) shou
 (1) Haematology laboratory values were recorded as adverse reactions only if they led to treatment discontinuation and/or dose modification and/or fulfilled a serious criterion.
 
 Infection
-A higher incidence of infections including grade ≥ 3 infections, mainly pneumonia, upper respiratory tract infection and bronchitis, occurred with SARCLISA (see section 4.8).
+A higher incidence of infections, including grade ≥ 3 infections, mainly pneumonia, upper respiratory tract infection and bronchitis, occurred with SARCLISA (see section 4.8).
 Patients receiving SARCLISA should be closely monitored for signs of infection and appropriate standard therapy instituted.
-Antibiotics and antiviral prophylaxis can be considered during treatment.
+Antibacterial and antiviral prophylaxis (such as herpes zoster prophylaxis) can be considered during treatment (see sections 4.2 and 4.8).
 
 Second primary malignancies
 In ICARIA-MM, second primary malignancies (SPMs) were reported in 6 patients (3.9%) treated with Isa-Pd and in 1 patient (0.7%) treated with Pd, and included skin cancer in 4 patients treated with Isa-Pd and in 1 patient treated with Pd (see section 4.8).
@@ -47,6 +47,10 @@ Patients with skin cancer continued treatment after resection of the skin cancer
 Solid tumours other than skin cancer were diagnosed within 3 months after treatment initiation in 3 patients (1.7%) treated with Isa-Kd and in 2 patients (1.6%) treated with Kd.
 The overall incidence of SPMs in all the SARCLISA-exposed patients is 3.6%.
 Physicians should carefully evaluate patients before and during treatment as per IMWG guidelines for occurrence of SPM and initiate treatment as indicated.
+
+Tumour lysis syndrome
+Cases of tumour lysis syndrome (TLS) have been reported in patients who received isatuximab.
+Patients should be monitored closely and appropriate precautions taken.
 
 Interference with serological testing (indirect antiglobulin test)
 Isatuximab binds to CD38 on red blood cells (RBCs) and may result in a false positive indirect antiglobulin test (indirect Coombs test).

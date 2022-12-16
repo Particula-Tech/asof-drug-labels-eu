@@ -50,7 +50,6 @@ Progression-free survival (PFS) was the primary efficacy endpoint of ICARIA-MM.
 The improvement in PFS represented a 40.4% reduction in the risk of disease progression or death in patients treated with Isa-Pd.
 
 Efficacy results are presented in Table 7 and Kaplan-Meier curves for PFS and OS are provided in Figures 1 and 2:
-
 Table 7: Efficacy of SARCLISA in combination with pomalidomide and dexamethasone versus pomalidomide and dexamethasone in the treatment of multiple myeloma (intent-to-treat analysis)
 
 | Endpoint | SARCLISA + pomalidomide + dexamethasone N =154 | Pomalidomide + dexamethasone N = 153 |
@@ -90,15 +89,16 @@ Insufficient data is available to conclude on the efficacy of Isa-Pd in patients
 The median time to first response in responders was 35 days in the Isa-Pd group versus 58 days in the Pd group.
 With a median duration of follow-up of 11.56 months in the Isa-Pd group and 11.73 months in the Pd group, median overall survival was not reached for either treatment group.
 The hazard ratio for OS was 0.687 (95% CI: 0.461-1.023, p-value=0.0631).
+
 Figure 1: Kaplan-Meier Curves of PFS – ITT population – ICARIA-MM (assessment by the IRC)
 
 Figure 2: Kaplan-Meier Curves of OS – ITT population – ICARIA-MM
-
 Cutoff date = 11 October 2018
 
 In the ICARIA-MM (EFC14335) study, a weight-based volume was used for isatuximab infusion.
 The fixed volume infusion method as described in section 4.2 was evaluated in study TCD14079 Part B and pharmacokinetics simulations confirmed minimal differences between the pharmacokinetics following injection applying a volume based on patient weight and a fixed volume of 250 mL (see section 5.2).
 In study TCD14079 part B, there were no new safety signals or differences in efficacy and safety as compared to ICARIA-MM.
+
 IKEMA (EFC15246)
 
 The efficacy and safety of SARCLISA in combination with carfilzomib and dexamethasone were evaluated in IKEMA (EFC15246), a multicentre, multinational, randomized, open-label, 2-arm, phase III study in patients with relapsed and/or refractory multiple myeloma.
@@ -135,10 +135,10 @@ Table 8: Efficacy of SARCLISA in combination with carfilzomib and dexamethasone 
 | Endpoint | SARCLISA + carfilzomib + dexamethasone N =179 | Carfilzomib + dexamethasone N = 123 |
 | --- | --- | --- |
 | Progression-Free Survivala Median (months) [95% CI] Hazard ratiob [95% CI] p-value (Stratified Log-Rank test)b | NR 19.15 [NR -NR] [15.77-NR] 0.531 [0.318-0.889] 0.0013 |  |
-| Overall Response Ratec Responders (sCR+CR+VGPR+PR) [95% CI]d p-value (stratified Cochran-Mantel-Haenszel)b Complete Response (CR) | 86.6% 82.9% [0.8071-0.9122] [0.7509-0.8911] 0.3859 39.7% 27.6% |  |
-| Very Good Partial Response (VGPR) Partial Response (PR) | 33.0% 28.5% 14.0% 26.8% |  |
+| Overall Response Ratec Responders (sCR+CR+VGPR+PR) [95% CI]d p-value (stratified Cochran-Mantel-Haenszel)b Complete Response (CR) Very Good Partial Response (VGPR) Partial Response (PR) | 86.6% 82.9% [0.8071-0.9122] [0.7509-0.8911] 0.3859 39.7% 27.6% 33.0% 28.5% 14.0% 26.8% |  |
 | VGPR or better (sCR+CR+VGPR) [95% CI]d p-value (stratified Cochran-Mantel-Haenszel)b e CRf [95% CI]d | 72.6% 56.1% [0.6547-0.7901] [0.4687 -0.6503] 0.0021 39.7% 27.6% [0.3244-0.4723] [0.1996 to 0.3643] |  |
-| Minimal Residual Disease negative rateg [95% CI]d p-value (stratified Cochran-Mantel-Haenszel)b e | 29.6% 13.0% [0.2303-0.3688] [0.0762-0.2026] 0.0008 |  |
+| Minimal Residual Disease negative rateg [95% CI]d | 29.6% [0.2303-0.3688] | 13.0% [0.0762-0.2026] |
+| p-value (stratified Cochran-Mantel-Haenszel)b e | 0.0008 |  |
 | Duration of Responseh *(PR or better) Median in months [95% CI]i Hazard ratiob [95% CI] | NR [NR-NR] NR [14.752-NR] 0.425 [0.269-0.672] |  |
 
 a PFS results were assessed by an Independent Response Committee based on central laboratory data for M-protein and central radiologic imaging review using the International Myeloma Working Group (IMWG) criteria.
@@ -155,13 +155,13 @@ i CI for Kaplan-Meier estimates are calculated with log-log transformation of su
 Median follow-up time=20.73 months.
 HR<1 favours Isa-Kd arm.
 NR: not reached.
+
 PFS improvements in the Isa-Kd group were observed in patients with high -risk cytogenetics (central laboratory assessment, HR = 0.724; 95% CI: 0.361 to 1.451), with gain (1q21) chromosomal abnormality (HR=0.569; 95% CI: 0.330 to 0.981), ≥65 years (HR =0.429; 95% CI: 0.248 to 0.742), with baseline eGFR (MDRD) < 60 mL/min/1.73 m² (HR =0.273; 95% CI: 0.113 to 0.660), with >1 prior line of therapy (HR =0.479; 95% CI: 0.294 to 0.778), with ISS stage III at study entry (HR=0.650; 95% CI: 0.295 to 1.434), and in patients refractory to prior therapy with lenalidomide (HR=0.598; 95% CI: 0.339 to 1.055).
 In the sensitivity analysis without censoring for further anti-myeloma therapy, the median PFS was not reached (NR) in the Isa-Kd group versus 19.0 months (95% CI: 15.38 to NR) in the Kd group (HR=0.572; 99% CI: 0.354 to 0.925, p=0.0025).
 Insufficient data is available to conclude on the efficacy of Isa-Kd in patients previously treated with daratumumab (1 patient in the isatuximab arm and no patient in the comparator arm).
 
 The median time to first response was 1.08 months in the Isa-Kd group and 1.12 months in the Kd group.
 With a median follow-up time of 20.73 months, 17.3% patients in the Isa-Kd arm and 20.3% patients in the Kd arm had died.
-
 Figure 3 – Kaplan-Meier Curves of PFS – ITT population – IKEMA (assessment by the IRC)
 
 Cutoff date = 07 February 2020.
