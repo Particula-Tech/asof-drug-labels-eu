@@ -84,3 +84,5 @@ However, patients entered into clinical trials with clopidogrel received a varie
 As with other oral P2Y12 inhibitors, co-administration of opioid agonists has the potential to delay and reduce the absorption of clopidogrel presumably because of slowed gastric emptying.
 The clinical relevance is unknown.
 Consider the use of a parenteral antiplatelet agent in acute coronary syndrome patients requiring co-administration of morphine or other opioid agonists.
+
+Rosuvastatin: Clopidogrel has been shown to increase rosuvastatin exposure in patients by 2-fold (AUC) and 1.3-fold (Cmax) after administration of a 300 mg clopidogrel dose, and by 1.4-fold (AUC) without effect on Cmax after repeated administration of a 75 mg clopidogrel dose.

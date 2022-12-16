@@ -65,7 +65,9 @@ Thus, the results from this subset are in line with the overall trial results.
 The benefits observed with clopidogrel were independent of other acute and long-term cardiovascular therapies (such as heparin/LMWH, GPIIb/IIIa antagonists, lipid lowering medicinal products, beta blockers, and ACE-inhibitors).
 The efficacy of clopidogrel was observed independently of the dose of ASA (75-325 mg once daily).
 
-In patients with acute ST-segment elevation MI, safety and efficacy of clopidogrel have been evaluated in 2 randomised, placebo-controlled, double-blind studies, CLARITY and COMMIT.
+ST-segment Elevation Myocardial Infarction
+
+In patients with acute ST-segment elevation MI (STEMI), safety and efficacy of clopidogrel have been evaluated in 2 randomised, placebo-controlled, double-blind studies, CLARITY, a prospective subgroup analysis of CLARITY (CLARITY PCI) and COMMIT.
 
 The CLARITY trial included 3,491 patients presenting within 12 hours of the onset of a ST elevation MI and planned for thrombolytic therapy.
 Patients received clopidogrel (300 mg loading dose, followed by 75 mg/day, n=1,752) or placebo (n=1,739), both in combination with ASA (150 to 325 mg as a loading dose, followed by 75 to 162 mg/day), a fibrinolytic agent and, when appropriate, heparin.
@@ -77,6 +79,14 @@ A total of 99.7% of patients received fibrinolytics (fibrin specific: 68.7%, non
 
 Fifteen percent (15.0%) of patients in the clopidogrel group and 21.7% in the placebo group reached the primary endpoint, representing an absolute reduction of 6.7% and a 36 % odds reduction in favor of clopidogrel (95% CI: 24, 47%; p < 0.001), mainly related to a reduction in occluded infarct-related arteries.
 This benefit was consistent across all prespecified subgroups including patients’ age and gender, infarct location, and type of fibrinolytic or heparin used.
+
+CLARITY PCI sub-group analysis involved 1,863 STEMI patients undergoing PCI.
+Patients receiving 300 mg loading dose (LD) of clopidogrel (n=933) had a significant reduction in incidence of cardiovascular death, MI or stroke following PCI compared to those receiving placebo (n=930) (3.6% with clopidogrel pre-treatment versus 6.2% with placebo, OR: 0.54; 95% CI: 0.35-0.85; p=0.008).
+The patients receiving 300 mg LD of clopidogrel had a significant reduction in incidence of cardiovascular death, MI or stroke through 30 days following PCI compared to those receiving placebo (7.5% with clopidogrel pre-treatment versus 12.0% with placebo, OR: 0.59; 95% CI: 0.43-0.81; p=0.001).
+However, this composite endpoint when assessed in the overall population of the CLARITY study was not statistically significant as a secondary endpoint.
+No significant difference was observed in the rates of major or minor bleeding between both the treatments (2.0% with clopidogrel pre-treatment versus 1.9% with placebo, p>0.99).
+The findings of this analysis support the early use of clopidogrel loading dose in STEMI and the strategy of routine clopidogrel pretreatment in patients undergoing PCI.
+
 The 2x2 factorial design COMMIT trial included 45,852 patients presenting within 24 hours of the onset of the symptoms of suspected MI with supporting ECG abnormalities (i.e. ST elevation, ST depression or left bundle-branch block).
 Patients received clopidogrel (75 mg/day, n=22,961) or placebo (n=22,891), in combination with ASA (162 mg/day), for 28 days or until hospital discharge.
 The co-primary endpoints were death from any cause and the first occurrence of re-infarction, stroke or death.
@@ -84,6 +94,52 @@ The population included 27.8% women, 58.4% patients ≥ 60 years (26% ≥ 70 yea
 
 Clopidogrel significantly reduced the relative risk of death from any cause by 7% (p=0.029), and the relative risk of the combination of re-infarction, stroke or death by 9% (p=0.002), representing an absolute reduction of 0.5% and 0.9%, respectively.
 This benefit was consistent across age, gender and with or without fibrinolytics, and was observed as early as 24 hours.
+
+Clopidogrel 600 mg Loading Dose in Acute Coronary Syndrome Patients Undergoing PCI
+
+CURRENT-OASIS-7 (Clopidogrel and Aspirin Optimal Dose Usage to Reduce Recurrent Events
+Seventh Organization to Assess Strategies in Ischemic Syndromes)
+This randomized factorial trial included 25,086 individuals with acute coronary syndrome (ACS) intended for early PCI.
+Patients were randomly assigned to either double-dose (600 mg on Day 1, then 150 mg on Days 2–7, then 75 mg daily) versus standard-dose (300 mg on day 1 then 75 mg daily) clopidogrel, and high-dose (300–325 mg daily) versus low-dose (75–100 mg daily) ASA.
+The 24,835 enrolled ACS patients underwent coronary angiography and 17,263 received PCI.
+Among the 17,263 patients receiving PCI treatment, when compared with the standard dose, double-dose clopidogrel reduced the rate of the primary endpoint (3.9% vs 4.5% adjusted HR= 0.86, 95% CI 0.74-0.99, p=0.039) and significantly reduced stent thrombosis (1.6% vs 2.3%, HR: 0.68; 95% CI: 0.55 0.85; p=0.001).
+Major bleeding was more common with double-dose than with standard-dose clopidogrel (1.6% vs 1.1%, HR=1.41, 95% CI 1.09-1.83, p=0.009).
+In this trial, clopidogrel 600 mg loading dose has shown consistent efficacy in patients age ≥75 years of age and patients <75 years of age.
+
+ARMYDA-6 MI (The Antiplatelet therapy for Reduction of MYocardial Damage during Angioplasty - Myocardial Infarction)
+This randomized, prospective, international, multicenter trial evaluated pre-treatment with a 600 mg versus 300 mg clopidogrel LD in the setting of urgent PCI for STEMI.
+Patients received a clopidogrel 600 mg LD (n=103) or clopidogrel 300 mg LD (n=98) prior to PCI, then were prescribed 75 mg/day from the day after PCI up to 1 year.
+Patients receiving a 600 mg LD of clopidogrel had a significantly reduced infarct size compared to those receiving a 300 mg LD.
+There was less frequent thrombolysis in MI flow Grade <3 after PCI in 600 mg LD (5.8% versus 16.3%, p=0.031), improved LVEF at discharge (52.1 ±9.5% versus 48.8 ±11.3%, p=0.026), and 30-day major adverse cardiovascular events were fewer (5.8% versus 15%, p=0.049).
+No increase in bleeding or entry-site complications were observed (secondary endpoints at Day 30).
+HORIZONS-AMI (Harmonizing Outcomes with Revascularization and Stents in Acute Myocardial
+Infarction)
+This post-hoc analysis trial was conducted to evaluate whether a 600 mg clopidogrel LD provides faster and greater inhibition of platelet activation.
+The analysis examined the impact of a LD of 600 mg compared with 300 mg on 30-day clinical outcomes in 3,311 patients from the main trial (n=1,153; 300 mg LD group; n=2,158; 600 mg LD group) before cardiac catheterization followed by 75 mg/day dose for ≥6 months post-discharge.
+The results showed significantly lower 30-day unadjusted rates of mortality (1.9% versus 3.1%, p=0.03), reinfarction (1.3% versus 2.3%, p=0.02), and definite or probable stent thrombosis (1.7% versus 2.8%, p=0.04) with the 600 mg LD without higher bleeding rates.
+By multivariable analysis, a 600 mg LD was an independent predictor of lower rates of 30-day major adverse cardiac events (HR: 0.72 [95% CI: 0.53–0.98], p=0.04).
+Major bleeding rate (non-CABG related) was 6.1% in 600 mg LD group and 9.4% in 300 mg LD group (p=0.0005).
+Minor bleeding rate was 11.3% in 600 mg LD group and 13.8% in 300 mg LD group (p=0.03).
+
+Long Term (12 Months) Treatment with Clopidogrel in STEMI Patients after PCI
+
+CREDO (Clopidogrel for the Reduction of Adverse Events During Observation)
+This randomized, double-blind, placebo-controlled trial was conducted in the United States and Canada to evaluate the benefit of long-term (12 month) treatment with clopidogrel after PCI.
+There were 2,116 patients randomized to receive a 300 mg clopidogrel LD (n=1,053) or placebo (n=1,063) 3 to 24 hours before PCI.
+All patients also received 325 mg of aspirin.
+Thereafter, all patients received clopidogrel 75 mg/day through Day 28 in both groups.
+From Day 29 through 12 months, patients in clopidogrel group received 75 mg/day clopidogrel and in control group received placebo.
+Both groups received ASA throughout the study (81 to 325 mg/day).
+At 1-year, significant reduction in the combined risk of death, MI or stroke was observed with clopidogrel (26.9% relative reduction, 95% CI: 3.9%-44.4%; p=0.02; absolute reduction 3%) compared to placebo.
+No significant increase in the rate of major bleeding (8.8% with clopidogrel versus 6.7% with placebo, p=0.07) or minor bleeding (5.3% with clopidogrel versus 5.6% with placebo, p=0.84) at 1-year was observed.
+The major finding of this study is that continuation of clopidogrel and ASA for at least 1-year leads to a statistically and clinically significant reduction in major thrombotic events.
+
+EXCELLENT (Efficacy of Xience/Promus Versus Cypher to Reduce Late Loss After Stenting)
+This prospective, open-label, randomized trial was conducted in Korea to evaluate whether 6-month dual antiplatelet therapy (DAPT) would be noninferior to 12-month DAPT after implantation of drug-eluting stents.
+The study included 1,443 patients undergoing implantation who were randomized to receive 6-month DAPT (ASA 100–200 mg/day plus clopidogrel 75 mg/day for 6 months and thereafter ASA alone up to 12 months) or 12-month DAPT (ASA 100–200 mg/day plus clopidogrel 75 mg/day for 12 months).
+No significant difference was observed in the incidence of target vessel failure (composite of cardiac death, MI or target vessel revascularization) which was primary end point between 6-month and 12-month DAPT groups (HR: 1.14; 95% CI: 0.70 1.86; p=0.60).
+Also, the study showed no significant difference in the safety end point (composite of death, MI, stroke, stent thrombosis or TIMI major bleeding) between 6-month and 12-month DAPT groups (HR: 1.15; 95% CI: 0.64-2.06; p=0.64).
+The major finding of this study was that 6-month DAPT was non-inferior to 12-month DAPT in the risk of target vessel failure.
 
 De-escalation of P2Y12 Inhibitor Agents in Acute Coronary Syndrome
 Switching from a more potent P2Y12 receptor inhibitor to clopidogrel in association with aspirin after acute phase in Acute Coronary Syndrome (ACS) has been evaluated in two randomized investigator-sponsored studies (ISS) – TOPIC and TROPICAL-ACS – with clinical outcome data.
@@ -111,6 +167,7 @@ This randomized, open-label trial included 2,610 biomarker-positive ACS patients
 Patients were randomized to receive either prasugrel 5 or 10 mg/d (Days 0-14) (n=1306), or prasugrel 5 or 10 mg/d (Days 0-7) then de-escalated to clopidogrel 75 mg/d (Days 8-14) (n=1304), in combination with ASA (<100 mg/day).
 At Day 14, platelet function testing (PFT) was performed.
 The prasugrel-only patients were continued on prasugrel for 11.5 months.
+
 The de-escalated patients underwent high platelet reactivity (HPR) testing.
 If HPR≥46 units, the patients were escalated back to prasugrel 5 or 10 mg/d for 11.5 months; if HPR<46 units, the patients continued on clopidogrel 75 mg/d for 11.5 months.
 Therefore, the guided de-escalation arm had patients on either prasugrel (40%) or clopidogrel (60%).
@@ -191,6 +248,7 @@ The mean CHADS2 score was 2.0 (range 0-6).
 The major exclusion criteria for patients were documented peptic ulcer disease within the previous 6 months; prior intracerebral hemorrhage; significant thrombocytopenia (platelet count < 50 x 109/l); requirement for clopidogrel or oral anticoagulants (OAC); or intolerance to any of the two compounds.
 
 Seventy-three percent (73%) of patients enrolled into the ACTIVE-A study were unable to take VKA due to physician assessment, inability to comply with INR (international normalised ratio) monitoring, predisposition to falling or head trauma, or specific risk of bleeding; for 26% of the patients, the physician’s decision was based on the patient’s unwillingness to take VKA.
+
 The patient population included 41.8 % women.
 The mean age was 71 years, 41.6% of patients were
 ≥75 years.

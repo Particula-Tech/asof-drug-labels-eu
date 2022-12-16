@@ -11,11 +11,11 @@ Bleeding is the most common reaction reported both in clinical studies as well a
 
 In CAPRIE, in patients treated with either clopidogrel or ASA, the overall incidence of any bleeding was 9.3%.
 The incidence of severe cases was similar for clopidogrel and ASA.
-
 In CURE, there was no excess in major bleeds with clopidogrel plus ASA within 7 days after coronary bypass graft surgery in patients who stopped therapy more than five days prior to surgery.
 In patients who remained on therapy within five days of bypass graft surgery, the event rate was 9.6% for clopidogrel plus ASA, and 6.3% for placebo plus ASA.
 
-In CLARITY, there was an overall increase in bleeding in the clopidogrel plus ASA group vs. the placebo plus ASA group .The incidence of major bleeding was similar between groups .
+In CLARITY, there was an overall increase in bleeding in the clopidogrel plus ASA group vs. the placebo plus ASA group.
+The incidence of major bleeding was similar between groups.
 This was consistent across subgroups of patients defined by baseline characteristics, and type of fibrinolytic or heparin therapy.
 
 In COMMIT, the overall rate of noncerebral major bleeding or cerebral bleeding was low and similar in both groups.
@@ -24,6 +24,8 @@ In ACTIVE-A, the rate of major bleeding was greater in the clopidogrel + ASA gro
 Major bleeding was mostly of extracranial origin in both groups (5.3% in the clopidogrel + ASA group; 3.5% in the placebo +ASA group), mainly from the gastrointestinal tract (3.5% vs. 1.8%).
 There was an excess of intracranial bleeding in the clopidogrel + ASA treatment group compared to the placebo + ASA group (1.4% versus 0.8%, respectively).
 There was no statistically significant difference in the rates of fatal bleeding (1.1% in the clopidogrel + ASA group and 0.7% in the placebo +ASA group) and hemorrhagic stroke (0.8% and 0.6%, respectively) between groups.
+
+In TARDIS, patients with recent ischemic stroke receiving intensive antiplatelet therapy with three medicinal products (ASA + clopidogrel + dipyridamole) had more bleeding and bleeding of greater severity when compared with either clopidogrel alone or combined ASA and dipyridamole (adjusted common OR 2.54, 95% CI 2.05-3.16, p<0.0001).
 
 Tabulated list of adverse reactions
 

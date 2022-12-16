@@ -18,12 +18,24 @@ Clopidogrel treatment should be continued at 75 mg once a day (with acetylsalicy
 Since higher doses of ASA were associated with higher bleeding risk it is recommended that the dose of ASA should not be higher than 100 mg.
 The optimal duration of treatment has not been formally established.
 Clinical trial data support use up to 12 months, and the maximum benefit was seen at 3 months (see section 5.1).
-− ST segment elevation acute myocardial infarction: clopidogrel should be given as a single daily dose of 75 mg initiated with a 300 mg loading dose in combination with ASA and with or without thrombolytics.
-For medically treated patients over 75 years of age clopidogrel should be initiated without a loading dose.
-Combined therapy should be started as early as possible after symptoms start and continued for at least four weeks.
-The benefit of the combination of clopidogrel with ASA beyond four weeks has not been studied in this setting (see section 5.1).
+− ST segment elevation acute myocardial infarction:
+
+- For medically treated patients eligible for thrombolytic/fibrinolytic therapy, clopidogrel should be given as a single daily dose of 75 mg initiated with a 300 mg loading dose in combination with ASA and with or without thrombolytics.
+  For medically treated patients over 75 years of age clopidogrel should be initiated without a loading dose.
+  Combined therapy should be started as early as possible after symptoms start and continued for at least four weeks.
+  The benefit of the combination of clopidogrel with ASA beyond four weeks has not been studied in this setting (see section 5.1).
+- When percutaneous coronary intervention (PCI) is intended:
+
+- Clopidogrel should be initiated at a loading dose of 600 mg in patients undergoing primary PCI and in patients undergoing PCI more than 24 hours of receiving fibrinolytic therapy.
+In patients ≥ 75 years old the 600 mg LD should be administered with caution (see section 4.4).
+- Clopidogrel 300 mg loading dose should be given in patients undergoing PCI within 24 hours of receiving fibrinolytic therapy.
+Clopidogrel treatment should be continued at 75 mg once a day with ASA 75 mg – 100 mg daily.
+Combined therapy should be started as early as possible after symptoms start and continued up to 12 months (see section 5.1).
 
 Adult patients with moderate to high-risk TIA or minor IS:
+
+1 Age, Blood pressure, Clinical features, Duration, and Diabetes mellitus diagnoses
+2 National Institutes of Health Stroke Scale
 Adult patients with moderate to high-risk TIA (ABCD2 score ≥4) or minor IS (NIHSS ≤3) should be given a loading dose of clopidogrel 300 mg followed by clopidogrel 75 mg once daily and ASA (75 mg-100 mg once daily).
 Treatment with clopidogrel and ASA should be started within 24 hours of the event and be continued for 21 days followed by single antiplatelet therapy.
 
@@ -32,11 +44,24 @@ ASA (75-100 mg daily) should be initiated and continued in combination with clop
 
 If a dose is missed:
 
-1 Age, Blood pressure, Clinical features, Duration, and Diabetes mellitus diagnoses
-2 National Institutes of Health Stroke Scale
-
 - Within less than 12 hours after regular scheduled time: patients should take the dose immediately and then take the next dose at the regular scheduled time.
 - For more than 12 hours: patients should take the next dose at the regular scheduled time and should not double the dose.
+
+Special populations
+
+- Elderly patients
+
+Non-ST segment elevation acute coronary syndrome (unstable angina or non-Q-wave myocardial infarction):
+
+- A 600 mg loading dose may be considered in patients <75 years of age when percutaneous coronary intervention is intended (see section 4.4).
+
+ST segment elevation acute myocardial infarction:
+
+- For medically treated patients eligible for thrombolytic/fibrinolytic therapy: in patients over 75 years of age clopidogrel should be initiated without a loading dose.
+
+For patients undergoing primary PCI and in patients undergoing PCI more than 24 hours of receiving fibrinolytic therapy:
+
+- In patients ≥ 75 years old the 600 mg LD should be administered with caution (see section 4.4).
 - Paediatric population
 
 Clopidogrel should not be used in children because of efficacy concerns (see section 5.1).
