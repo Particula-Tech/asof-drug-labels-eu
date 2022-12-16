@@ -2,7 +2,7 @@
 
 Vial (unopened)
 
-2 years.
+3 years.
 
 Diluted medicinal product
 

@@ -102,8 +102,8 @@ Neutropenia and infections (see section 4.8)
 Increased rates of severe neutropenia, febrile neutropenia, or infection with or without severe neutropenia (including some fatalities) have been observed in patients treated with some myelotoxic chemotherapy regimens plus Avastin in comparison to chemotherapy alone.
 This has mainly been seen in combination with platinum- or taxane-based therapies in the treatment of NSCLC, mBC, and in combination with paclitaxel and topotecan in persistent, recurrent, or metastatic cervical cancer.
 
-Hypersensitivity reactions/infusion reactions (see section 4.8)
-Patients may be at risk of developing infusion/hypersensitivity reactions.
+Hypersensitivity reactions (including anaphylactic shock)/infusion reactions (see section 4.8)
+Patients may be at risk of developing infusion/hypersensitivity reactions (including anaphylactic shock).
 Close observation of the patient during and following the administration of bevacizumab is recommended as expected for any infusion of a therapeutic humanised monoclonal antibody.
 If a reaction occurs, the infusion should be discontinued and appropriate medical therapies should be administered.
 A systematic premedication is not warranted.

@@ -45,7 +45,7 @@ Table 1: Adverse Reactions by Frequency
 | --- | --- | --- | --- | --- | --- | --- |
 | Infections and infestations |  | Sepsis, Abscessb,d, Cellulitis, Infection, Urinary tract infection |  | Necrotising fasciitis a |  |  |
 | Blood and lymphatic system disorders | Febrile neutropenia, Leucopenia, Neutropeniab, Thrombo-cytopenia | Anaemia, Lymphopenia |  |  |  |  |
-| Immune system disorders |  | Hypersensitivity, infusion reactionsa,b,d |  |  |  |  |
+| Immune system disorders |  | Hypersensitivity, infusion reactionsa,b,d |  | Anaphylactic shock |  |  |
 | Metabolism and nutrition disorders | Anorexia Hypomagnesaemia Hyponatraemia | Dehydration |  |  |  |  |
 | Nervous system disorders | Peripheral sensory neuropathyb, Dysarthria, Headache, Dysguesia | Cerebrovascular accident, Syncope, Somnolence |  | Posterior reversible encephalo-pathy synad,br,od me | Hypertensive encephalo-pathya |  |
 | Eye disorders | Eye disorder, Lacrimation increased |  |  |  |  |  |
@@ -66,8 +66,7 @@ When events were noted as both all grade and grade 3-5 adverse drug reactions in
 Data are unadjusted for the differential time on treatment.
 
 a For further information please refer to Table 3 'Adverse reactions reported in post-marketing setting.'
-b Terms represent a group of events that describe a medical concept rather than a single condition or
-MedDRA (Medical Dictionary for Regulatory Activities) preferred term.
+b Terms represent a group of events that describe a medical concept rather than a single condition or MedDRA (Medical Dictionary for Regulatory Activities) preferred term.
 This group of medical terms may involve the same underlying pathophysiology (e.g. arterial thromboembolic reactions include cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic reactions).
 c Based on a substudy from NSABP C-08 with 295 patients d For additional information refer below within section "Further information on selected serious adverse reactions."
 e Recto-vaginal fistulae are the most common fistulae in the GI-vaginal fistula category.
@@ -78,7 +77,7 @@ Table 2: Severe Adverse Reactions by Frequency
 | --- | --- | --- | --- | --- | --- | --- |
 | Infections and infestations |  | Sepsis, Cellulitis, Abscessa,b, Infection, Urinary tract infection |  |  |  | Necrotising fasciitisc |
 | Blood and lymphatic system disorders | Febrile neutropenia, Leucopenia, Neutropeniaa, Thrombo-cytopenia | Anaemia, Lymphopenia |  |  |  |  |
-| Immune system disorders |  |  |  |  |  | Hypersensitivity, infusiona, br,ec actions |
+| Immune system disorders |  | Hypersensitivity, infusiona, br,ec actions |  | Anaphylactic shock |  |  |
 | Metabolism and nutrition disorders |  | Dehydration Hyponatraemia |  |  |  |  |
 | Nervous system disorders | Peripheral sensory neuropathya | Cerebrovascular accident, Syncope, Somnolence, Headache |  |  |  | Posterior reversible encephalo-pathy syndrome a,b,c, Hypertensive encephalo-pathyc |
 | Cardiac disorders |  | Congestive heart failurea,b, Supraventricular tachycardia |  |  |  |  |
@@ -251,7 +250,8 @@ This phase III clinical trial compared rituximab/cyclophosphamide/doxorubicin/vi
 While the incidence of CHF was, in both arms, above that previously observed for doxorubicin therapy, the rate was higher in the R-CHOP plus bevacizumab arm.
 These results suggest that close clinical observation with appropriate cardiac assessments should be considered for patients exposed to cumulative doxorubicin doses greater than 300 mg/m2 when combined with bevacizumab.
 
-Hypersensitivity reactions/infusion reactions (see section 4.4 and Post-marketing experience below) In some clinical trials anaphylactic and anaphylactoid-type reactions were reported more frequently in patients receiving Avastin in combination with chemotherapy than with chemotherapy alone.
+Hypersensitivity reactions (including anaphylactic shock)/infusion reactions (see section 4.4 and Post-marketing experience below)
+In some clinical trials anaphylactic and anaphylactoid-type reactions were reported more frequently in patients receiving Avastin in combination with chemotherapy than with chemotherapy alone.
 The incidence of these reactions in some clinical trials of Avastin is common (up to 5% in bevacizumab-treated patients).
 
 Infections
@@ -296,7 +296,7 @@ Table 3 Adverse reactions reported in post-marketing setting
 | System organ class (SOC) | Reactions (frequency*) |
 | --- | --- |
 | Infections and Infestations | Necrotising fasciitis, usually secondary to wound healing complications, gastrointestinal perforation or fistula formation (rare) (see also section 4.4) |
-| Immune system disorders | Hypersensitivity reactions and infusion reactions (not known); with the following possible co-manifestations: dyspnoea/difficulty breathing, flushing/redness/rash, hypotension or hypertension, oxygen desaturation, chest pain, rigors and nausea/vomiting (see also section 4.4 and Hypersensitivity reactions/infusion reactions above) |
+| Immune system disorders | Hypersensitivity reactions and infusion reactions (common); with the following possible co-manifestations: dyspnoea/difficulty breathing, flushing/redness/rash, hypotension or hypertension, oxygen desaturation, chest pain, rigors and nausea/vomiting (see also section 4.4 and Hypersensitivity reactions/infusion reactions above). Anaphylactic shock (rare) (see also section 4.4). |
 | Nervous system disorders | Hypertensive encephalopathy (very rare) (see also section 4.4 and Hypertension in section 4.8) Posterior Reversible Encephalopathy Syndrome (PRES), (rare) (see also section 4.4) |
 | Vascular disorders | Renal thrombotic microangiopathy, which may be clinically manifested as proteinuria (not known) with or without concomitant sunitinib use. For further information on proteinuria see section 4.4 and Proteinuria in section 4.8. |
 | Respiratory, thoracic and mediastinal disorders | Nasal septum perforation (not known) Pulmonary hypertension (not known) Dysphonia (common) |

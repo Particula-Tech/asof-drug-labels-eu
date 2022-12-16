@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: antineoplastic and immunomodulating agents, antineoplastic agents, other antineoplastic agents, monoclonal antibodies, ATC code: L01X C07
+Pharmacotherapeutic group: antineoplastic and immunomodulating agents, antineoplastic agents, monoclonal antibodies and antibody drug conjugates, ATC code: L01F G01
 
 Mechanism of action
 Bevacizumab binds to vascular endothelial growth factor (VEGF), the key driver of vasculogenesis and angiogenesis, and thereby inhibits the binding of VEGF to its receptors, Flt-1 (VEGFR-1) and KDR (VEGFR-2), on the surface of endothelial cells.
@@ -906,14 +906,13 @@ Table 25 Efficacy results from study GOG-0240 by Avastin Treatment
 8 p-value displayed for descriptive purpose only
 Table 26 Overall survival results from study GOG-0240 by Trial Treatment
 
-|  | Other Factor |  | Overall survival - Follow-up |
+| Treatment | Other | Overall survival – Primary analysis1 | Overall survival - Follow-up analysis2 |
 | --- | --- | --- | --- |
-| Treatment |  | Overall survival – Primary analysis1 | analysis2 |
-| Comparison |  | Hazard Ratio (95% CI) | Hazard Ratio (95% CI) |
-| Avastin vs. | Cisplatin+ Paclitaxel | 0.72 (0.51, 1.02) | 0.75 (0.55, 1.01) |
-| No Avastin |  | (17.5 vs.14.3 months; p = 0.0609) | (17.5 vs.15.0 months; p = 0.0584) |
-|  | Topotecan+ Paclitaxel | 0.76 (0.55, 1.06) | 0.79 (0.59, 1.07) |
-|  |  | (14.9 vs. 11.9 months; p = 0.1061) | (16.2 vs. 12.0 months; p = 0.1342) |
+| Comparison | Factor | Hazard Ratio (95% CI) | Hazard Ratio (95% CI) |
+| Avastin vs. | Cisplatin+ | 0.72 (0.51, 1.02) | 0.75 (0.55, 1.01) |
+| No Avastin | Paclitaxel | (17.5 vs.14.3 months; p = 0.0609) | (17.5 vs.15.0 months; p = 0.0584) |
+|  | Topotecan+ | 0.76 (0.55, 1.06) | 0.79 (0.59, 1.07) |
+|  | Paclitaxel | (14.9 vs. 11.9 months; p = 0.1061) | (16.2 vs. 12.0 months; p = 0.1342) |
 | Topotecan+ | Avastin | 1.15 (0.82, 1.61) | 1.15 (0.85, 1.56) |
 | Paclitaxel |  | (14.9 vs. 17.5 months; p = 0.4146) | (16.2 vs 17.5 months; p = 0.3769) |
 | vs. |  |  |  |
