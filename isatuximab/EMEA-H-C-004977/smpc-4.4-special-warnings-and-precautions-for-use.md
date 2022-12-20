@@ -48,10 +48,6 @@ Solid tumours other than skin cancer were diagnosed within 3 months after treatm
 The overall incidence of SPMs in all the SARCLISA-exposed patients is 3.6%.
 Physicians should carefully evaluate patients before and during treatment as per IMWG guidelines for occurrence of SPM and initiate treatment as indicated.
 
-Tumour lysis syndrome
-Cases of tumour lysis syndrome (TLS) have been reported in patients who received isatuximab.
-Patients should be monitored closely and appropriate precautions taken.
-
 Interference with serological testing (indirect antiglobulin test)
 Isatuximab binds to CD38 on red blood cells (RBCs) and may result in a false positive indirect antiglobulin test (indirect Coombs test).
 To avoid potential problems with RBC transfusion, patients being treated with SARCLISA should have blood type and screen tests performed prior to the first infusion.

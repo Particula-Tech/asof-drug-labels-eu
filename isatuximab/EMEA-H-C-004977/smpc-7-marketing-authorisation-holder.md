@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-sanofi-aventis groupe
-54 rue La Boétie
-75008 Paris
+Sanofi Winthrop Industrie
+82 avenue Raspail
+94250 Gentilly
 France
