@@ -33,12 +33,17 @@ DARZALEX solution for subcutaneous injection should be a clear to opalescent and
 
 DARZALEX solution for subcutaneous injection is compatible with polypropylene or polyethylene syringe material; polypropylene, polyethylene, or polyvinyl chloride (PVC) subcutaneous infusion sets; and stainless steel transfer and injection needles.
 
+Unopened vial
+
 Remove the DARZALEX solution for subcutaneous injection vial from refrigerated storage
-(2 °C-8 °C) and equilibrate to ambient temperature (15 °C-30 °C).
+(2 °C-8 °C) and equilibrate to ambient temperature (≤30 °C).
 The unpunctured vial may be stored at ambient temperature and ambient light for a maximum of 24 hours in the original carton to protect from light.
 Keep out of direct sunlight.
 
+Prepared syringe
+
 Prepare the dosing syringe in controlled and validated aseptic conditions.
-Once transferred from the vial into the syringe, store DARZALEX solution for subcutaneous injection for up to 4 hours at ambient temperature and ambient light (see section 6.3).
+Once transferred from the vial into the syringe, store DARZALEX solution for subcutaneous injection for up to 24 hours refrigerated followed by up to 12 hours at 15 °C-25 °C and ambient light (see section 6.3).
+If stored in the refrigerator, allow the solution to reach ambient temperature before administration.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

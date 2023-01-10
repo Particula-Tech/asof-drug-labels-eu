@@ -207,7 +207,8 @@ f Frequency based on daratumumab intravenous studies only (N=2324).
 Note: Based on 3156 multiple myeloma and AL amyloidosis patients treated with daratumumab intravenous or daratumumab subcutaneous.
 
 In clinical studies (monotherapy and combination treatments; N=832) with DARZALEX subcutaneous formulation, the incidence of any grade IRRs was 8.2% with the first injection of DARZALEX
-(1800 mg, week 1), 0.4% with the week 2 injection, and 1.1% with subsequent injections. grade 3 IRRs were seen in 0.8% of patients.
+(1800 mg, week 1), 0.4% with the week 2 injection, and 1.1% with subsequent injections.
+Grade 3 IRRs were seen in 0.8% of patients.
 No patients had grade 4 IRRs.
 
 Signs and symptoms of IRR may include respiratory symptoms, such as nasal congestion, cough, throat irritation, allergic rhinitis, wheezing as well as pyrexia, chest pain, pruritis, chills, vomiting, nausea, and hypotension.
@@ -218,7 +219,8 @@ In clinical studies (N=832) with DARZALEX subcutaneous formulation, the incidenc
 There were no grade 3 or 4 ISRs.
 The most common (> 1%) ISR at the site of injection was erythema.
 
-In patients with multiple myeloma receiving daratumumab as monotherapy, the overall incidence of infections was similar between DARZALEX subcutaneous formulation (52.9%) versus intravenous daratumumab groups (50.0%). grade 3 or 4 infections also occurred at similar frequencies between DARZALEX subcutaneous formulation (11.7%) and intravenous daratumumab (14.3%).
+In patients with multiple myeloma receiving daratumumab as monotherapy, the overall incidence of infections was similar between DARZALEX subcutaneous formulation (52.9%) versus intravenous daratumumab groups (50.0%).
+Grade 3 or 4 infections also occurred at similar frequencies between DARZALEX subcutaneous formulation (11.7%) and intravenous daratumumab (14.3%).
 Most infections were manageable and rarely led to treatment discontinuation.
 Pneumonia was the most commonly reported grade 3 or 4 infection across studies.
 In active-controlled studies, discontinuations from treatment due to infections occurred in 1-4% of patients.

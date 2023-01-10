@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies, ATC code: L01XC24.
+Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies and antibody drug conjugates, CD38 (Clusters of Differentiation 38) inhibitors, ATC code: L01FC01.
 Mechanism of action
 
 Daratumumab is an IgG1κ human monoclonal antibody (mAb) that binds to the CD38 protein expressed at a high level on the surface of multiple myeloma tumour cells, as well as other cell types and tissues at various levels.
@@ -44,15 +44,23 @@ The baseline demographic and disease characteristics were similar between the tw
 The median age was 73 (range: 45-90) years, with 44% of the patients ≥75 years of age.
 The majority were white (92%), male (52%), 34% had an Eastern Cooperative Oncology Group (ECOG) performance score of 0, 49.5% had an ECOG performance score of 1 and 17% had an ECOG performance score of ≥2.
 Twenty-seven percent had International Staging System (ISS) stage I, 43% had ISS stage II and 29% had ISS stage III disease.
-Efficacy was evaluated by progression free survival (PFS) based on International Myeloma Working Group (IMWG) criteria.
+Efficacy was evaluated by progression free survival (PFS) based on International Myeloma Working Group (IMWG) criteria and overall survival (OS).
 
-Study MMY3008 showed an improvement in Progression Free Survival (PFS) in the DRd arm as compared to the Rd arm; the median PFS had not been reached in the DRd arm and was 31.9 months in the Rd arm (hazard ratio [HR]=0.56; 95% CI: 0.43, 0.73; p < 0.0001), representing 44% reduction in the risk of disease progression or death in patients treated with DRd.
-Results of an updated PFS analysis approximately 9 months after the original clinical cutoff, continued to show an improvement in PFS for patients in the DRd arm compared with the Rd arm.
-Median PFS was not reached in the DRd arm and was 33.8 months in the Rd arm (HR=0.56; 95% CI: 0.44, 0.71; p < 0.0001).
+With a median follow-up of 28 months, the primary analysis of PFS in study MMY3008 showed an improvement in the DRd arm as compared to the Rd arm; the median PFS had not been reached in the DRd arm and was 31.9 months in the Rd arm (hazard ratio [HR]=0.56; 95% CI: 0.43, 0.73;
+p < 0.0001), representing 44% reduction in the risk of disease progression or death in patients treated with DRd.
+Results of an updated PFS analysis after a median follow-up of 64 months continued to show an improvement in PFS for patients in the DRd arm compared with the Rd arm.
+Median PFS was 61.9 months in the DRd arm and 34.4 months in the Rd arm (HR=0.55; 95% CI: 0.45, 0.67).
 
 Figure 1: Kaplan-Meier curve of PFS in study MMY3008
 
+With a median follow-up of 56 months, DRd has shown an OS advantage over the Rd arm (HR=0.68; 95% CI: 0.53, 0.86; p=0.0013).
+Results of an updated OS analysis after a median of 64 months continued to show an improvement in OS for patients in the DRd arm compared to the Rd arm.
+Median OS was not reached in the DRd arm and was 65.5 months in the Rd arm (HR=0.66;
+95% CI: 0.53, 0.83).
+Figure 2: Kaplan-Meier curve of OS in study MMY3008
+
 Additional efficacy results from study MMY3008 are presented in table 7 below.
+
 Table 7: Additional efficacy results from study MMY3008a
 
 DRd (n=368) Rd (n=369)
@@ -99,12 +107,11 @@ With a median follow-up of 16.5 months, the primary analysis of PFS in study MMY
 Results of an updated PFS analysis after a median follow-up of 40 months continued to show an improvement in PFS for patients in the D-VMP arm compared with the VMP arm.
 Median PFS was 36.4 months in the D-VMP arm and 19.3 months in the VMP arm (HR=0.42; 95% CI: 0.34, 0.51;
 p < 0.0001), representing a 58% reduction in the risk of disease progression or death in patients treated with D-VMP.
-
-Figure 2: Kaplan-Meier curve of PFS in study MMY3007
+Figure 3: Kaplan-Meier curve of PFS in study MMY3007
 
 After a median follow-up of 40 months, D-VMP has shown an OS advantage over the VMP arm (HR=0.60; 95% CI: 0.46, 0.80; p=0.0003), representing a 40% reduction in the risk of death in patients treated in the D-VMP arm.
 Median OS was not reached for either arm.
-Figure 3: Kaplan-Meier curve of OS in study MMY3007
+Figure 4: Kaplan-Meier curve of OS in study MMY3007
 
 Additional efficacy results from study MMY3007 are presented in table 8 below.
 
@@ -188,7 +195,7 @@ e Mantel-Haenszel estimate of the common odds ratio for stratified tables is use
 With a median follow-up of 18.8 months, the primary analysis of PFS by censoring patients who were randomised to daratumumab maintenance in the second randomisation at the date of the second randomisation showed HR=0.50; 95% CI: 0.34, 0.75; p=0.0005.
 Results of an updated PFS analysis with a median follow-up of 44.5 months, censoring patients who were randomised to daratumumab maintenance in the second randomisation, showed HR=0.43; 95% CI: 0.33, 0.55; p < 0.0001.
 Median PFS was not reached in the D-VTd arm and was 37.8 months in the VTd arm.
-Figure 4: Kaplan-Meier curve of PFS in study MMY3006
+Figure 5: Kaplan-Meier curve of PFS in study MMY3006
 
 Relapsed/refractory multiple myeloma
 Monotherapy:
@@ -251,9 +258,9 @@ With a median follow-up of 13.5 months, the primary analysis of PFS in study MMY
 p < 0.0001).
 Results of an updated PFS analysis after a median follow-up of 55 months continued to show an improvement in PFS for patients in the DRd arm compared with the Rd arm.
 Median PFS was 45.0 months in the DRd arm and 17.5 months in the Rd arm (HR=0.44; 95% CI: 0.35, 0.54;
-p < 0.0001), representing a 56% reduction in the risk of disease progression or death in patients treated with DRd (see figure 5).
+p < 0.0001), representing a 56% reduction in the risk of disease progression or death in patients treated with DRd (see figure 6).
 
-Figure 5: Kaplan-Meier curve of PFS in study MMY3003
+Figure 6: Kaplan-Meier curve of PFS in study MMY3003
 
 Additional efficacy results from study MMY3003 are presented in table 11 below.
 Table 11: Additional efficacy results from study MMY3003
@@ -299,8 +306,8 @@ Patients refractory to bortezomib were excluded from the study.
 
 With a median follow-up of 7.4 months, the primary analysis of PFS in study MMY3004 demonstrated an improvement in the DVd arm as compared to the Vd arm; the median PFS had not been reached in the DVd arm and was 7.2 months in the Vd arm (HR [95% CI]: 0.39 [0.28, 0.53]; p-value < 0.0001).
 Results of an updated PFS analysis after a median follow-up of 50 months continued to show an improvement in PFS for patients in the DVd arm compared with the Vd arm.
-Median PFS was 16.7 months in the DVd arm and 7.1 months in the Vd arm (HR [95% CI]: 0.31 [0.24, 0.39]; p-value < 0.0001), representing a 69% reduction in the risk of disease progression or death in patients treated with DVd versus Vd (see figure 6).
-Figure 6: Kaplan-Meier curve of PFS in study MMY3004
+Median PFS was 16.7 months in the DVd arm and 7.1 months in the Vd arm (HR [95% CI]: 0.31 [0.24, 0.39]; p-value < 0.0001), representing a 69% reduction in the risk of disease progression or death in patients treated with DVd versus Vd (see figure 7).
+Figure 7: Kaplan-Meier curve of PFS in study MMY3004
 
 Additional efficacy results from study MMY3004 are presented in table 12 below.
 
@@ -440,6 +447,7 @@ All patients received a prior treatment with a proteasome inhibitor (PI) and len
 Ninety-six percent (96%) of patients received prior treatment with bortezomib.
 The majority of patients were refractory to lenalidomide (80%), a PI (48%), or both an immunomodulator and a PI (42%).
 Eleven percent of patients received 1 prior line of therapy; all were refractory to lenalidomide and 32.4% were refractory to both lenalidomide and a PI.
+Efficacy was evaluated by progression free survival (PFS) based on International Myeloma Working Group (IMWG) criteria.
 
 With a median follow-up of 16.9 months, the primary analysis of PFS in study MMY3013 showed a statistically significant improvement in the D-Pd arm as compared to the Pd arm; the median PFS was 12.4 months in the D-Pd arm and 6.9 months in the Pd arm (HR [95% CI]: 0.63 [0.47, 0.85];
 p-value = 0.0018), representing a 37% reduction in the risk of disease progression or death for patients treated with D-Pd versus Pd.
@@ -521,6 +529,9 @@ On intravenous daratumumab infusion days, the dexamethasone dose was given as a 
 
 Figure 2: Kaplan-Meier curve of PFS in study MMY3008
 
+Median OS was not reached in the DRd arm and was 65.5 months in the Rd arm (HR= 0.66;
+Figure 3: Kaplan-Meier curve of OS in study MMY3008
+
 Additional efficacy results from study MMY3008 are presented in table 11 below.
 
 Table 11: Additional efficacy results from study MMY3008a
@@ -528,9 +539,9 @@ Table 11: Additional efficacy results from study MMY3008a
 Study MMY3007, an open-label, randomised, active-controlled phase III study, compared treatment with intravenous daratumumab 16 mg/kg in combination with bortezomib, melphalan and prednisone (D-VMP), to treatment with VMP in patients with newly diagnosed multiple myeloma.
 Intravenous daratumumab treatment was continued until disease progression or unacceptable toxicity.
 
-Figure 3: Kaplan-Meier curve of PFS in study MMY3007
+Figure 4: Kaplan-Meier curve of PFS in study MMY3007
 
-Figure 4: Kaplan-Meier curve of OS in study MMY3007
+Figure 5: Kaplan-Meier curve of OS in study MMY3007
 
 Additional efficacy results from study MMY3007 are presented in table 12 below.
 
@@ -545,7 +556,7 @@ Table 13: Efficacy results from study MMY3006a
 Very good partial response or better
 (sCR+CR+VGPR) 453 (83.4%) 423 (78.0%)
 
-Figure 5: Kaplan-Meier curve of PFS in study MMY3006
+Figure 6: Kaplan-Meier curve of PFS in study MMY3006
 
 The clinical efficacy and safety of intravenous daratumumab monotherapy for the treatment of adult patients with relapsed and refractory multiple myeloma whose prior therapy included a proteasome inhibitor and an immunomodulatory agent and who had demonstrated disease progression on the last therapy, was demonstrated in two open-label studies.
 
@@ -571,9 +582,9 @@ Study MMY3003, an open-label, randomised, active-controlled phase III study, com
 On intravenous daratumumab infusion days, 20 mg of the dexamethasone dose was given as a pre-infusion medicinal product and the remainder given the day after the infusion.
 
 The baseline demographic and disease characteristics were similar between the intravenous daratumumab and the control arm.
-p < 0.0001), representing a 56% reduction in the risk of disease progression or death in patients treated with DRd (see figure 6).
+p < 0.0001), representing a 56% reduction in the risk of disease progression or death in patients treated with DRd (see figure 7).
 
-Figure 6: Kaplan-Meier curve of PFS in study MMY3003
+Figure 7: Kaplan-Meier curve of PFS in study MMY3003
 
 Additional efficacy results from study MMY3003 are presented in table 15 below.
 Table 15: Additional efficacy results from study MMY3003
@@ -581,8 +592,8 @@ Table 15: Additional efficacy results from study MMY3003
 Study MMY3004, an open-label, randomised, active-controlled phase III study, compared treatment with intravenous daratumumab 16 mg/kg in combination with bortezomib and dexamethasone (DVd), to treatment with bortezomib and dexamethasone (Vd) in patients with relapsed or refractory multiple myeloma who had received at least one prior therapy.
 On the days of intravenous daratumumab infusion, 20 mg of the dexamethasone dose was administered as a pre-infusion medicinal product. intravenous daratumumab treatment was continued until disease progression or unacceptable toxicity.
 
-Median PFS was 16.7 months in the DVd arm and 7.1 months in the Vd arm (HR [95% CI]: 0.31 [0.24, 0.39]; p-value < 0.0001), representing a 69% reduction in the risk of disease progression or death in patients treated with DVd versus Vd (see figure 7).
-Figure 7: Kaplan-Meier curve of PFS in study MMY3004
+Median PFS was 16.7 months in the DVd arm and 7.1 months in the Vd arm (HR [95% CI]: 0.31 [0.24, 0.39]; p-value < 0.0001), representing a 69% reduction in the risk of disease progression or death in patients treated with DVd versus Vd (see figure 8).
+Figure 8: Kaplan-Meier curve of PFS in study MMY3004
 
 Additional efficacy results from study MMY3004 are presented in table 16 below.
 
