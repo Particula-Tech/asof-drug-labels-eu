@@ -187,8 +187,8 @@ Risankizumab has been shown to improve signs and symptoms, physical function, he
 
 The safety and efficacy of risankizumab were assessed in 1 407 subjects with active PsA in 2 randomised, double-blind, placebo-controlled studies (964 in KEEPSAKE1 and 443 in KEEPSAKE2).
 
-Subjects in these studies had a diagnosis of PsA for at least 6 months based on the Classification Criteria for Psoriatic Arthritis (CASPAR), a median duration of PsA of 4.9 years at baseline, ≥5 tender joints and ≥5 swollen joints, and active plaque psoriasis or nail psoriasis at baseline.
-55.9% of subjects had ≥3% BSA with active plaque psoriasis.
+Subjects in these studies had a diagnosis of PsA for at least 6 months based on the Classification Criteria for Psoriatic Arthritis (CASPAR), a median duration of PsA of 4.9 years at baseline, ≥ 5 tender joints and ≥ 5 swollen joints, and active plaque psoriasis or nail psoriasis at baseline.
+55.9% of subjects had ≥ 3% BSA with active plaque psoriasis.
 63.4% and 27.9% of subjects had enthesitis and dactylitis, respectively.
 In KEEPSAKE1, where nail psoriasis was further assessed, 67.3% had nail psoriasis.
 
@@ -249,7 +249,7 @@ Percent of subjects achieving ACR20 responses in study KEEPSAKE1 through week 24
 
 Baseline Week 4 Week 8 Week 12 Week 16 Week 24
 Visit
-•••○•••Placebo (N=481) ──■── Risankizumab (N=483)
+•••○••• Placebo (N=481) ──■── Risankizumab (N=483)
 
 A greater ACR20 response for risankizumab versus placebo was seen as early as week 4 in 19.6% of subjects in KEEPSAKE2.
 
@@ -298,7 +298,7 @@ Radiographic Response
 In KEEPSAKE1, inhibition of progression of structural damage was assessed radiographically and expressed as the change in modified Total Sharp Score (mTSS) at week 24, compared with baseline.
 The mTSS score was modified for PsA by addition of hand distal interphalangeal (DIP) joints.
 At week 24, the mean progression of structural damage with risankizumab (mean mTSS 0.23) compared with placebo (mean mTSS 0.32) was not statistically significant.
-At week 24, the proportion of subjects with no radiographic progression (defined as a change from baseline in mTSS ≤0) was higher with risankizumab (92.4%) compared with placebo (87.7%).
+At week 24, the proportion of subjects with no radiographic progression (defined as a change from baseline in mTSS ≤ 0) was higher with risankizumab (92.4%) compared with placebo (87.7%).
 This response was maintained through week 52.
 
 Physical Function and Health Related Quality of Life
@@ -358,7 +358,7 @@ Efficacy results in ADVANCE and MOTIVATE
 | CDAI <150 at week 12 | 25% | 45% | 21% [12%, 29%]a | 20% | 42% | 22% [13%, 31%]a |
 | Mucosal healing at week 12h | (N=173) 8% | (N=336) 21% | 14% [8%, 19%]a | (N=186) 4% | (N=190) 14% | 9% [4%, 15%]b |
 | Endoscopic remission at week 12i | 9% | 24% | 15% [9%, 21%]a | 4% | 19% | 15% [9%, 21%]a |
-| a Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p<0.001). b Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p≤0.01). cNominal p ≤ 0.05 risankizumab vs placebo comparison. d Adjusted treatment difference. e Clinical remission based on SF/APS: average daily SF ≤2.8 and not worse than baseline and average daily AP score ≤1 and not worse than baseline. f Endoscopic response: greater than 50% decrease in SES-CD from baseline, or a decrease of at least 2 points for subjects with a baseline score of 4 and isolated ileal disease. g Enhanced SF/APS clinical response: ≥60% decrease in average daily SF and/or ≥35% decrease in average daily AP score and both not worse than Baseline, and/or clinical remission. h Mucosal healing: SES-CD ulcerated surface subscore of 0 in subjects with a subscore of ≥1 at Baseline. i Endoscopic remission: SES-CD ≤4 and at least a 2 point reduction versus Baseline and no subscore greater than 1 in any individual variable. |  |  |  |  |  |  |
+| a Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p<0.001). b Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p≤0.01). c Nominal p ≤ 0.05 risankizumab vs placebo comparison. d Adjusted treatment difference. e Clinical remission based on SF/APS: average daily SF ≤2.8 and not worse than baseline and average daily AP score ≤1 and not worse than baseline. f Endoscopic response: greater than 50% decrease in SES-CD from baseline, or a decrease of at least 2 points for subjects with a baseline score of 4 and isolated ileal disease. g Enhanced SF/APS clinical response: ≥60% decrease in average daily SF and/or ≥35% decrease in average daily AP score and both not worse than Baseline, and/or clinical remission. h Mucosal healing: SES-CD ulcerated surface subscore of 0 in subjects with a subscore of ≥1 at Baseline. i Endoscopic remission: SES-CD ≤4 and at least a 2 point reduction versus Baseline and no subscore greater than 1 in any individual variable. |  |  |  |  |  |  |
 
 At week 12, a higher proportion of subjects treated with risankizumab achieved a decrease of at least 100 points in baseline CDAI compared to placebo (ADVANCE, risankizumab =60%, placebo=37%, p<0.001; MOTIVATE, risankizumab =60%, placebo=30%, p<0.001).
 
@@ -410,7 +410,7 @@ Efficacy results in FORTIFY at week 52 (64 weeks from initiation of induction do
 | Maintenance of clinical remissionh | (N = 91) 51% | (N = 72) 69% | 21% [6%, 35%]d,g |
 | Endoscopic remission | 13% | 39% | 28% [20%, 37%]c,g |
 | Mucosal healing | (N = 162) 10% | (N = 141) 31% | 22% [14%, 30%]c,g |
-| a Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p≤0.01). b Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p<0.001). c Nominal p<0.001 risankizumab vs placebo comparison without overall type I error control. d Nominal p≤0.01 risankizumab vs placebo comparison without overall type I error control. e Nominal p≤0.05 risankizumab vs placebo comparison without overall type I error control. f The induction-only group consisted of subjects who achieved clinical response to risankizumab induction therapy and were randomised to receive placebo in the maintenance study (FORTIFY). g Adjusted treatment difference. hMaintenance of clinical remission: clinical remission at week 52 in subjects with clinical remission at week 0. |  |  |  |
+| a Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p≤0.01). b Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p<0.001). c Nominal p<0.001 risankizumab vs placebo comparison without overall type I error control. d Nominal p≤0.01 risankizumab vs placebo comparison without overall type I error control. e Nominal p≤0.05 risankizumab vs placebo comparison without overall type I error control. f The induction-only group consisted of subjects who achieved clinical response to risankizumab induction therapy and were randomised to receive placebo in the maintenance study (FORTIFY). g Adjusted treatment difference. h Maintenance of clinical remission: clinical remission at week 52 in subjects with clinical remission at week 0. |  |  |  |
 
 Deep remission (clinical remission and endoscopic remission) at week 52 was observed at higher rates in subjects treated with risankizumab IV/ risankizumab SC compared to subjects who received risankizumab IV/placebo SC (28% vs. 10%, respectively, nominal p<0.001).
 
@@ -456,10 +456,13 @@ There were two 12-week intravenous induction studies (ADVANCE and MOTIVATE), whi
 | CDAI <150 at week 12 | 25% | 45% | 21% [12%, 29%]a | 20% | 42% | 22% [13%, 31%]a |
 | Mucosal healing at week 12 h | (N=173) 8% | (N=336) 21% | 14% [8%, 19%]a | (N=186) 4% | (N=190) 14% | 9% [4%, 15%]b |
 | Endoscopic remission at week 12i | 9% | 24% | 15% [9%, 21%]a | 4% | 19% | 15% [9%, 21%]a |
-| a Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p<0.001). b Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p≤0.01). cNominal p ≤ 0.05 risankizumab vs placebo comparison. d Adjusted treatment difference. e Clinical remission based on SF/APS: average daily SF ≤2.8 and not worse than baseline and average daily AP score ≤1 and not worse than baseline. f Endoscopic response: greater than 50% decrease in SES-CD from baseline, or a decrease of at least 2 points for subjects with a baseline score of 4 and isolated ileal disease. g Enhanced SF/APS clinical response: ≥60% decrease in average daily SF and/or ≥35% decrease in average daily AP score and both not worse than Baseline, and/or clinical remission. h Mucosal healing: SES-CD ulcerated surface subscore of 0 in subjects with a subscore of ≥1 at Baseline. i Endoscopic remission: SES-CD ≤4 and at least a 2 point reduction versus Baseline and no subscore greater than 1 in any individual variable. |  |  |  |  |  |  |
+| a Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p<0.001). b Statistically significant under multiplicity-control for risankizumab vs placebo comparison (p≤0.01). c Nominal p ≤ 0.05 risankizumab vs placebo comparison. d Adjusted treatment difference. e Clinical remission based on SF/APS: average daily SF ≤2.8 and not worse than baseline and average daily AP score ≤1 and not worse than baseline. f Endoscopic response: greater than 50% decrease in SES-CD from baseline, or a decrease of at least 2 points for subjects with a baseline score of 4 and isolated ileal disease. g Enhanced SF/APS clinical response: ≥60% decrease in average daily SF and/or ≥35% decrease in average daily AP score and both not worse than Baseline, and/or clinical remission. h Mucosal healing: SES-CD ulcerated surface subscore of 0 in subjects with a subscore of ≥1 at Baseline. |  |  |  |  |  |  |
 
-|  | Risankizumab IV induction/ Placebo SCf (N=164) % | Risankizumab IV induction/ Risankizumab 360 mg SC (N=141) % | Treatment difference (95% CI) |
+i Endoscopic remission: SES-CD ≤4 and at least a 2 point reduction versus Baseline and no subscore greater than 1 in any individual variable.
+
+|  | FORTIFY |  |  |
 | --- | --- | --- | --- |
+|  | Risankizumab IV induction/ Placebo SCf (N=164) % | Risankizumab IV induction/ Risankizumab 360 mg SC (N=141) % | Treatment difference (95% CI) |
 | Co-primary endpoints |  |  |  |
 | Clinical remission | 40% | 52% | 15% [5%, 25%]a,g |
 | Prior biologic failure | 34% (N=123) | 48% (N=102) | 14% [1%,27%] |

@@ -6,8 +6,8 @@ The most frequently reported adverse reactions were upper respiratory infections
 
 Tabulated list of adverse reactions
 
-Adverse reactions for risankizumab from clinical studies (Table 1) for psoriasis and psoriatic arthritis are listed by MedDRA system organ class and are based on the following convention: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1 000 to < 1/100); rare (≥1/10 000 to
-< 1/1 000); and very rare (< 1/10 000).
+Adverse reactions for risankizumab from clinical studies (Table 1) for psoriasis and psoriatic arthritis are listed by MedDRA system organ class and are based on the following convention: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1 000 to < 1/100); rare (≥ 1/10 000 to
+< 1/1 000); very rare (< 1/10 000); and not known (cannot be estimated from the available data).
 Table 1: List of adverse reactions
 
 | System Organ Class | Frequency | Adverse reactions |
@@ -17,6 +17,7 @@ Table 1: List of adverse reactions
 |  | Uncommon | Folliculitis |
 | Nervous system disorders | Common | Headachec |
 | Skin and subcutaneous tissue disorders | Common | Pruritus |
+|  | Not known | Rash Urticaria |
 | General disorders and administration site conditions | Common | Fatigued Injection site reactionse |
 | a Includes: respiratory tract infection (viral, bacterial, or unspecified), sinusitis (including acute), rhinitis, nasopharyngitis, pharyngitis (including viral), tonsillitis, laryngitis, tracheitis b Includes: tinea pedis, tinea cruris, body tinea, tinea versicolor, tinea manuum, onychomycosis, fungal skin infection c Includes: headache, tension headache, sinus headache d Includes: fatigue, asthenia e Includes: injection site bruising, erythema, haematoma, haemorrhage, irritation, pain, pruritus, reaction, swelling, induration, rash |  |  |
 
@@ -60,8 +61,8 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 The most frequently reported adverse reactions were upper respiratory infections (from 13.0% in psoriasis to 15.6% in Crohn’s disease).
 
-Adverse reactions for risankizumab from clinical studies (Table 1) are listed by MedDRA system organ class and are based on the following convention: very common (≥1/10); common (≥1/100 to
-< 1/10); uncommon (≥1/1 000 to < 1/100); rare (≥1/10 000 to < 1/1 000); and very rare (< 1/10 000).
+Adverse reactions for risankizumab from clinical studies (Table 1) are listed by MedDRA system organ class and are based on the following convention: very common (≥ 1/10); common (≥ 1/100 to
+< 1/10); uncommon (≥ 1/1 000 to < 1/100); rare (≥ 1/10 000 to < 1/1 000); very rare (< 1/10 000); and not known (cannot be estimated from the available data).
 
 | System Organ Class | Frequency | Adverse reactions |
 | --- | --- | --- |
@@ -70,6 +71,7 @@ Adverse reactions for risankizumab from clinical studies (Table 1) are listed by
 |  | Uncommon | Folliculitis |
 | Nervous system disorders | Common | Headachec |
 | Skin and subcutaneous tissue disorders | Common | Pruritus |
+|  | Not known | Rash Urticaria |
 | General disorders and administration site conditions | Common | Fatigued Injection site reactionse |
 | a Includes: respiratory tract infection (viral, bacterial or unspecified), sinusitis (including acute), rhinitis, nasopharyngitis, pharyngitis (including viral), tonsillitis, laryngitis, tracheitis b Includes: tinea pedis, tinea cruris, body tinea, tinea versicolor, tinea manuum, onychomycosis, tinea infection c Includes: headache, tension headache, sinus headache d Includes: fatigue, asthenia e Includes: injection site bruising, erythema, haematoma, haemorrhage, irritation, pain, pruritus, reaction, swelling, induration, hypersensitivity, nodule, rash, urticaria, vesicles, warmth |  |  |
 
