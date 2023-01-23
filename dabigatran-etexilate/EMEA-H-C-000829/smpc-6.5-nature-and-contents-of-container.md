@@ -38,5 +38,5 @@ Each sachet contains 180.4 mg powder for oral solution.
 
 Each pack contains one white PET/Alu/LDPE sachet with 70 mg sucralose powder, one amber glass bottle with a PP/HDPE screw-cap containing 28 mL solvent to prepare the oral solution, two dosing pipettes (12 mL) and one adapter for the bottle.
 
-The co-packaged dosing pipettes (CE 0124) and the adapter (CE) are medical devices.
+The co-packaged dosing pipettes and the adapter are medical devices.
 On the 12 mL dosing pipette, a scale from 0 to 12 mL with 0.25 mL graduation is printed.

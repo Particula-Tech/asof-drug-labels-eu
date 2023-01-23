@@ -25,6 +25,8 @@ After opening of the aluminium bag, the individual sachets should be kept unopen
 
 [Pradaxa 6.25 mg/mL powder and solvent for oral solution]
 
+This medicinal product should be stored so that the bottle inside each individual preparation pack is upright.
+
 The aluminium bag containing the sachets with the powder for oral solution should only be opened immediately prior to use of the first sachet in order to protect from moisture.
 
 For storage conditions after reconstitution and first opening of the medicinal product, see section 6.3.

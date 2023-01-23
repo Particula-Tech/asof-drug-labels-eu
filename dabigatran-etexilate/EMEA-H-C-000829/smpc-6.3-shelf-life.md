@@ -30,8 +30,6 @@ After mixing with soft food or apple juice, the medicinal product has to be admi
 
 [Pradaxa 6.25 mg/mL powder and solvent for oral solution]
 
-2 years
-
 Once the aluminium bag containing the sachets with the powder for oral solution and the desiccant is opened, the medicinal product must be used within 4 months.
 
 After first opening of the sachet with the powder for oral solution

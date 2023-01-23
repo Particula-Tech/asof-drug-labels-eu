@@ -230,6 +230,14 @@ Discontinuation rules before invasive or surgical procedures for paediatric pati
 
 Table 8: Discontinuation rules before invasive or surgical procedures for paediatric patients
 
+Renal function Stop dabigatran before elective surgery
+
+| (eGFR in mL/min/1.73m2) |  |
+| --- | --- |
+| >80 | 24 hours before |
+| 50 – 80 | 2 days before |
+| <50 | These patients have not been studied (see section 4.3). |
+
 Dabigatran etexilate treatment should be resumed / started after the invasive procedure or surgical intervention as soon as possible provided the clinical situation allows and adequate haemostasis has been established.
 
 Patients at risk for bleeding or patients at risk of overexposure, notably patients with reduced renal function (see also table 5), should be treated with caution (see sections 4.4 and 5.1).
