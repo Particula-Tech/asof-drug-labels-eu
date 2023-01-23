@@ -101,6 +101,7 @@ Overall, a higher proportion of patients receiving infliximab monotherapy experi
 Approximately 3% of patients discontinued treatment due to infusion-related reactions and all patients recovered with or without medical therapy.
 Of infliximab-treated patients who had an infusion reaction during the induction period, through week 6, 27% experienced an infusion reaction during the maintenance period, week 7 through week 54.
 Of patients who did not have an infusion reaction during the induction period, 9% experienced an infusion reaction during the maintenance period.
+
 In a clinical study of patients with rheumatoid arthritis (ASPIRE), infusions were to be administered over 2 hours for the first 3 infusions.
 The duration of subsequent infusions could be shortened to not less than 40 minutes in patients who did not experience serious infusion reactions.
 In this trial, sixty six percent of the patients (686 out of 1,040) received at least one shortened infusion of 90 minutes or less and 44% of the patients (454 out of 1,040) received at least one shortened infusion of 60 minutes or less.
@@ -130,7 +131,6 @@ Signs and symptoms included myalgia and/or arthralgia with fever and/or rash, wi
 There are insufficient data on the incidence of delayed hypersensitivity reactions after Remicade-free intervals of more than 1 year but limited data from clinical studies suggest an increased risk for delayed hypersensitivity with increasing Remicade-free interval (see section 4.4).
 
 In a 1-year clinical study with repeated infusions in patients with Crohn's disease (ACCENT I study), the incidence of serum sickness-like reactions was 2.4%.
-
 Immunogenicity
 Patients who developed antibodies to infliximab were more likely (approximately 2-3 fold) to develop infusion-related reactions.
 Use of concomitant immunosuppressant agents appeared to reduce the frequency of infusion-related reactions.
@@ -172,6 +172,7 @@ The majority of the malignancies developed in the lung or head and neck.
 A population-based retrospective cohort study found an increased incidence of cervical cancer in women with rheumatoid arthritis treated with infliximab compared to biologics-naïve patients or the general population, including those over 60 years of age (see section 4.4).
 
 In addition, post-marketing cases of hepatosplenic T-cell lymphoma have been reported in patients treated with Remicade with the vast majority of cases occurring in Crohn’s disease and ulcerative colitis, and most of whom were adolescent or young adult males (see section 4.4).
+
 Heart failure
 In a Phase II study aimed at evaluating Remicade in CHF, higher incidence of mortality due to worsening of heart failure were seen in patients treated with Remicade, especially those treated with the higher dose of 10 mg/kg (i.e. twice the maximum approved dose).
 In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction ≤35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
@@ -201,7 +202,9 @@ Proportion of patients with increased ALT activity in clinical studies
 | Paediatric Ulcerative colitis | N/A | 60 | N/A | 49.4 | N/A | 6.7% | N/A | 1.7% |
 | Ankylosing spondylitis | 76 | 275 | 24.1 | 101.9 | 0.0% | 9.5% | 0.0% | 3.6% |
 | Psoriatic arthritis | 98 | 191 | 18.1 | 39.1 | 0.0% | 6.8% | 0.0% | 2.1% |
-| Plaque psoriasis | 281 | 1,175 | 16.1 | 50.1 | 0.4% | 7.7% | 0.0% | 3.4% |
+
+Plaque 281 1,175 16.1 50.1 0.4% 7.7% 0.0% 3.4%
+psoriasis
 
 1 Placebo patients received methotrexate while infliximab patients received both infliximab and methotrexate.
 2 Placebo patients in the 2 Phase III studies in Crohn’s disease, ACCENT I and ACCENT II, received an initial dose of 5 mg/kg infliximab at study start and were on placebo in the maintenance phase.
@@ -209,6 +212,7 @@ Patients who were randomised to the placebo maintenance group and then later cro
 In the Phase IIIb trial in Crohn’s disease, SONIC, placebo patients received AZA 2.5 mg/kg/day as active control in addition to placebo infliximab infusions.
 3 Number of patients evaluated for ALT.
 4 Median follow-up is based on patients treated.
+
 Antinuclear antibodies (ANA)/Anti-double-stranded DNA (dsDNA) antibodies
 Approximately half of infliximab-treated patients in clinical studies who were ANA negative at baseline developed a positive ANA during the study compared with approximately one fifth of placebo-treated patients.
 Anti-dsDNA antibodies were newly detected in approximately 17% of infliximab-treated patients compared with 0% of placebo-treated patients.
@@ -218,7 +222,7 @@ Reports of lupus and lupus-like syndromes, however, remain uncommon (see section
 Paediatric population
 Juvenile rheumatoid arthritis patients
 Remicade was studied in a clinical study in 120 patients (age range: 4-17 years old) with active juvenile rheumatoid arthritis despite methotrexate.
-Patients received 3 or 6 mg/kg infliximab as a 3-dose induction regimen (weeks 0, 2, 6 or weeks 14, 16, 20 respectively) followed by maintenance therapy every 8 weeks, in combination with methotrexate.
+Patients received 3 or 6 mg/kg infliximab as a 3-dose induction regimen (weeks 0, 2, 6 or weeks 14, 16, 20, respectively) followed by maintenance therapy every 8 weeks, in combination with methotrexate.
 
 Infusion reactions
 Infusion reactions occurred in 35% of patients with juvenile rheumatoid arthritis receiving 3 mg/kg compared with 17.5% of patients receiving 6 mg/kg.
@@ -243,12 +247,12 @@ There were no serious infusion reactions, and 2 subjects in REACH had non-seriou
 
 Immunogenicity
 Antibodies to infliximab were detected in 3 (2.9%) paediatric patients.
-
 Infections
 In the REACH study, infections were reported in 56.3% of randomised subjects treated with infliximab.
 Infections were reported more frequently for subjects who received q8 week as opposed to q12 week infusions (73.6% and 38.0%, respectively), while serious infections were reported for 3 subjects in the q8 week and 4 subjects in the q12 week maintenance treatment group.
 The most commonly reported infections were upper respiratory tract infection and pharyngitis, and the most commonly reported serious infection was abscess.
 Three cases of pneumonia (1 serious) and 2 cases of herpes zoster (both non-serious) were reported.
+
 Paediatric ulcerative colitis patients
 Overall, the adverse reactions reported in the paediatric ulcerative colitis trial (C0168T72) and adult ulcerative colitis (ACT 1 and ACT 2) studies were generally consistent.
 In C0168T72, the most common adverse reactions were upper respiratory tract infection, pharyngitis, abdominal pain, fever, and headache.
@@ -281,7 +285,6 @@ Additional information on special populations
 Elderly
 In rheumatoid arthritis clinical studies, the incidence of serious infections was greater in infliximab plus methotrexate-treated patients 65 years and older (11.3%) than in those under 65 years of age (4.6%).
 In patients treated with methotrexate alone, the incidence of serious infections was 5.2% in patients 65 years and older compared to 2.7% in patients under 65 (see section 4.4).
-
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.

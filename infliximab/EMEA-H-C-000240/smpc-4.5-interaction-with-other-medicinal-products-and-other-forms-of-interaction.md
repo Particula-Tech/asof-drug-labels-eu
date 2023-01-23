@@ -4,12 +4,14 @@ No interaction studies have been performed.
 
 In rheumatoid arthritis, psoriatic arthritis and Crohn's disease patients, there are indications that concomitant use of methotrexate and other immunomodulators reduces the formation of antibodies against infliximab and increases the plasma concentrations of infliximab.
 However, the results are uncertain due to limitations in the methods used for serum analyses of infliximab and antibodies against infliximab.
+
 Corticosteroids do not appear to affect the pharmacokinetics of infliximab to a clinically relevant extent.
 
 The combination of Remicade with other biological therapeutics used to treat the same conditions as Remicade, including anakinra and abatacept, is not recommended (see section 4.4).
 
 It is recommended that live vaccines not be given concurrently with Remicade.
-It is also recommended that live vaccines not be given to infants after in utero exposure to infliximab for at least 6 months following birth (see section 4.4).
+It is also recommended that live vaccines not be given to infants after in utero exposure to infliximab for 12 months following birth.
+If infant infliximab serum levels are undetectable or infliximab administration was limited to the first trimester of pregnancy, administration of a live vaccine might be considered at an earlier timepoint if there is a clear clinical benefit for the individual infant (see section 4.4).
 
 Administration of a live vaccine to a breastfed infant while the mother is receiving infliximab is not recommended unless infant infliximab serum levels are undetectable (see sections 4.4 and 4.6).
 

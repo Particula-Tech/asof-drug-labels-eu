@@ -15,9 +15,11 @@ In a developmental toxicity study conducted in mice using an analogous antibody 
 The available clinical experience is limited.
 Infliximab should only be used during pregnancy if clearly needed.
 
-Infliximab crosses the placenta and has been detected in the serum of infants up to 6 months following birth.
+Infliximab crosses the placenta and has been detected in the serum of infants up to 12 months following birth.
 After in utero exposure to infliximab, infants may be at increased risk of infection, including serious disseminated infection that can become fatal.
-Administration of live vaccines (e.g. BCG vaccine) to infants exposed to infliximab in utero is not recommended for at least 6 months after birth (see sections 4.4 and 4.5).
+Administration of live vaccines
+(e.g., BCG vaccine) to infants exposed to infliximab in utero is not recommended for 12 months after birth (see sections 4.4 and 4.5).
+If infant infliximab serum levels are undetectable or infliximab administration was limited to the first trimester of pregnancy, administration of a live vaccine might be considered at an earlier timepoint if there is a clear clinical benefit for the individual infant.
 Cases of agranulocytosis have also been reported (see section 4.8).
 
 Breast-feeding

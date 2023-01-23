@@ -123,7 +123,8 @@ The concurrent administration of live vaccines with Remicade is not recommended.
 
 Infant exposure in utero
 In infants exposed in utero to infliximab, fatal outcome due to disseminated Bacillus Calmette-Guérin (BCG) infection has been reported following administration of BCG vaccine after birth.
-At least a six month waiting period following birth is recommended before the administration of live vaccines to infants exposed in utero to infliximab (see section 4.6).
+A twelve month waiting period following birth is recommended before the administration of live vaccines to infants exposed in utero to infliximab.
+If infant infliximab serum levels are undetectable or infliximab administration was limited to the first trimester of pregnancy, administration of a live vaccine might be considered at an earlier timepoint if there is a clear clinical benefit for the individual infant (see section 4.6).
 
 Infant exposure via breast milk
 Administration of a live vaccine to a breastfed infant while the mother is receiving infliximab is not recommended unless infant infliximab serum levels are undetectable (see section 4.6).
@@ -150,6 +151,7 @@ There is an increased background risk for lymphoma and leukaemia in rheumatoid a
 In an exploratory clinical study evaluating the use of Remicade in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies were reported in Remicade-treated patients compared with control patients.
 All patients had a history of heavy smoking.
 Caution should be exercised in considering treatment of patients with increased risk for malignancy due to heavy smoking.
+
 With the current knowledge, a risk for the development of lymphomas or other malignancies in patients treated with a TNF-blocking agent cannot be excluded (see section 4.8).
 Caution should be exercised when considering TNF-blocking therapy for patients with a history of malignancy or when considering continuing treatment in patients who develop a malignancy.
 
@@ -187,6 +189,7 @@ Haematologic reactions
 There have been reports of pancytopenia, leucopenia, neutropenia, and thrombocytopenia in patients receiving TNF-blockers, including Remicade.
 All patients should be advised to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias (e.g. persistent fever, bruising, bleeding, pallor).
 Discontinuation of Remicade therapy should be considered in patients with confirmed significant haematologic abnormalities.
+
 Others
 There is limited safety experience of Remicade treatment in patients who have undergone surgical procedures, including arthroplasty.
 The long half-life of infliximab should be taken into consideration if a surgical procedure is planned.

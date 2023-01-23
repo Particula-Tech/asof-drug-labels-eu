@@ -24,7 +24,6 @@ Peripheral blood mononuclear cells (PBMC) from infliximab-treated patients showe
 Analysis of lamina propria mononuclear cells obtained by biopsy of the intestinal mucosa showed that infliximab treatment caused a reduction in the number of cells capable of expressing TNFα and interferonγ.
 Additional histological studies provided evidence that treatment with infliximab reduces the infiltration of inflammatory cells into affected areas of the intestine and the presence of inflammation markers at these sites.
 Endoscopic studies of intestinal mucosa have shown evidence of mucosal healing in infliximab-treated patients.
-
 Clinical efficacy and safety
 Adult rheumatoid arthritis
 The efficacy of infliximab was assessed in two multicentre, randomised, double-blind, pivotal clinical studies: ATTRACT and ASPIRE.
@@ -60,7 +59,8 @@ Effects on ACR20, Structural Joint Damage and Physical Function at week 54, ATTR
 | Median (Interquartile range) | 4.0 (0.5,9.7) | 0.5 (-1.5,3.0) | 0.1 (-2.5,3.0) | 0.5 (-1.5,2.0) | -0.5 (-3.0,1.5) | 0.0 (-1.8,2.0) |
 | Patients with no deterioration/patients evaluated (%)c | 13/64 (20%) | 34/71 (48%) | 35/71 (49%) | 37/77 (48%) | 44/66 (67%) | 150/285 (53%) |
 | HAQ change from baseline over timee (patients evaluated) | 87 | 86 | 85 | 87 | 81 | 339 |
-| Mean ± SDc | 0.2 ± 0.3 | 0.4 ± 0.3 | 0.5 ± 0.4 | 0.5 ± 0.5 | 0.4 ± 0.4 | 0.4 ± 0.4 |
+
+Mean ± SDc 0.2 ± 0.3 0.4 ± 0.3 0.5 ± 0.4 0.5 ± 0.5 0.4 ± 0.4 0.4 ± 0.4
 
 a control = All patients had active RA despite treatment with stable methotrexate doses for 6 months prior to enrolment and were to remain on stable doses throughout the study.
 Concurrent use of stable doses of oral corticosteroids
@@ -195,6 +195,7 @@ Sixty eight percent (21/31) of infliximab-treated patients receiving a 5 mg/kg d
 The median time to onset of response in the infliximab-treated group was 2 weeks.
 The median duration of response was 12 weeks.
 Additionally, closure of all fistulae was achieved in 55% of infliximab-treated patients compared with 13% of placebo-treated patients (p = 0.001).
+
 Maintenance treatment in fistulising active Crohn’s disease
 The efficacy of repeated infusions with infliximab in patients with fistulising Crohn’s disease was studied in a 1-year clinical study (ACCENT II).
 A total of 306 patients received 3 doses of infliximab 5 mg/kg at week 0, 2 and 6.
@@ -232,6 +233,7 @@ The safety and efficacy of Remicade were assessed in two (ACT 1 and ACT 2) rando
 Concomitant stable doses of oral aminosalicylates, corticosteroids, and/or immunomodulatory agents were permitted.
 In both studies, patients were randomised to receive either placebo, 5 mg/kg Remicade, or 10 mg/kg Remicade at weeks 0, 2, 6, 14 and 22, and in ACT 1 at weeks 30, 38 and 46.
 Corticosteroid taper was permitted after week 8.
+
 Table 8
 Effects on clinical response, clinical remission and mucosal healing at weeks 8 and 30.
 Combined data from ACT 1 & 2
@@ -268,7 +270,6 @@ The number of ulcerative colitis-related surgical procedures was also lower in t
 
 The proportion of subjects who underwent colectomy at any time within 54 weeks following the first infusion of study agent were collected and pooled from the ACT 1 and ACT 2 studies and their extensions.
 Fewer subjects underwent colectomy in the 5 mg/kg infliximab group (28/242 or 11.6% [N.S.]) and the 10 mg/kg infliximab group (18/242 or 7.4% [p = 0.011]) than in the placebo group (36/244; 14.8%).
-
 The reduction in incidence of colectomy was also examined in another randomised, double-blind study (C0168Y06) in hospitalised patients (n = 45) with moderately to severely active ulcerative colitis who failed to respond to intravenous corticosteroids and who were therefore at higher risk for colectomy.
 Significantly fewer colectomies occurred within 3 months of study infusion in patients who received a single dose of 5 mg/kg infliximab compared to patients who received placebo (29.2% vs. 66.7% respectively, p = 0.017).
 
@@ -312,6 +313,7 @@ During the 24-week double-blind phase, patients received either 5 mg/kg inflixim
 At week 16, 47 placebo patients with < 10% improvement from baseline in both swollen and tender joint counts were switched to infliximab induction (early escape).
 At week 24, all placebo-treated patients crossed over to infliximab induction.
 Dosing continued for all patients through week 46.
+
 Key efficacy results for IMPACT and IMPACT 2 are shown in Table 9 below:
 
 Table 9
@@ -335,7 +337,7 @@ a Week 98 data for IMPACT includes combined placebo crossover and infliximab pat
 b Based on patients with PASI ≥2.5 at baseline for IMPACT, and patients with ≥3% BSA psoriasis skin involvement at baseline in IMPACT 2.
 ** PASI 75 response for IMPACT not included due to low N; p < 0.001 for infliximab vs. placebo at week 24 for IMPACT 2.
 
-In IMPACT and IMPACT 2, clinical responses were observed as early as week 2 and were maintained through week 98 and week 54 respectively.
+In IMPACT and IMPACT 2, clinical responses were observed as early as week 2 and were maintained through week 98 and week 54, respectively.
 Efficacy has been demonstrated with or without concomitant use of methotrexate.
 Decreases in parameters of peripheral activity characteristic of psoriatic arthritis (such as number of swollen joints, number of painful/tender joints, dactylitis and presence of enthesopathy) were seen in the infliximab-treated patients.
 
@@ -404,8 +406,8 @@ a p < 0.001, for each infliximab treatment group vs. control.
 b n = 292.
 c Analysis was based on subjects with nail psoriasis at baseline (81.8% of subjects).
 Mean baseline NAPSI scores were 4.6 and 4.3 in infliximab and placebo group.
-
 Significant improvements from baseline were demonstrated in DLQI (p < 0.001) and the physical and mental component scores of the SF 36 (p < 0.001 for each component comparison).
+
 Paediatric population
 Paediatric Crohn’s disease (6 to 17 years)
 In the REACH study, 112 patients (6 to 17 years, median age 13.0 years) with moderate to severe, active Crohn’s disease (median paediatric CDAI of 40) and an inadequate response to conventional therapies were to receive 5 mg/kg infliximab at weeks 0, 2, and 6.
