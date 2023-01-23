@@ -36,4 +36,5 @@ The concomitant use of other systemic alpha adrenergic receptor agonists may pot
 Other
 Any increase in the daily amount applied above 5 pea sized amounts and/or increase in frequency of daily application of the medicinal product should be avoided, since the safety of higher daily doses or repeated daily application has not been assessed.
 
-The medicinal product contains methylparahydroxybenzoate (E218) which may cause allergic reactions (possibly delayed), and propylene glycol (E1520) which may cause skin irritation.
+One gram of gel contains 1 mg methylparahydroxybenzoate (E218) which may cause allergic reactions (possibly delayed).
+This medicine also contains 55 mg propylene glycol (E1520) in each gram which is equivalent to 5.5% w/w, it may cause skin irritation.

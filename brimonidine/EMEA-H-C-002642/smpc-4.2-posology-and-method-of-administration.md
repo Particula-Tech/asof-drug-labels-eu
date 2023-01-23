@@ -36,4 +36,5 @@ Mirvaso should be applied only to the face.
 Hands should be washed immediately after applying the medicinal product.
 
 Mirvaso can be used in conjunction with other cutaneous medicinal products for the treatment of inflammatory lesions of rosacea and with cosmetics.
-These products should not be applied immediately before the daily application of Mirvaso; they may be used only after the applied Mirvaso has dried.
+These products should not be applied immediately before the daily application of Mirvaso; they may be used only after the applied
+Mirvaso has dried.
