@@ -1,26 +1,27 @@
 # 6.1 List of excipients
 
 Ferriprox 500 mg film-coated tablets
+
 Tablet core
 Microcrystalline cellulose
 Magnesium stearate
-Colloidal silicon dioxide
+Colloidal anhydrous silica
 
 Coating
 Hypromellose
-Macrogol
+Macrogol 3350
 Titanium dioxide
 
-Ferriprox 1000 mg film-coated tablets
+Ferriprox 1 000 mg film-coated tablets
+
 Tablet core
-Methylcellulose USP A15LV
+Methylcellulose 12 to 18 mPas
 Crospovidone
 Magnesium stearate
-
 Coating
-Hypromellose 2910 USP/EP
+Hypromellose 2910
 Hydroxypropyl cellulose
-Macrogol
+Macrogol 8000
 Titanium dioxide
 
 [Ferriprox 100 mg/ml oral solution]
@@ -28,8 +29,8 @@ Titanium dioxide
 Purified water
 Hydroxyethylcellulose
 Glycerol (E422)
-Hydrochloric acid, concentrated, for pH adjustment
+Concentrated hydrochloric acid (for pH adjustment)
 Artificial cherry flavour
 Peppermint oil
-Sunset Yellow (E110)
+Sunset yellow (E110)
 Sucralose (E955)

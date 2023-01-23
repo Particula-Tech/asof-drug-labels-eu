@@ -1,10 +1,12 @@
 # 6.5 Nature and contents of container
 
 Ferriprox 500 mg film-coated tablets
+
 High density polyethylene (HDPE) bottle with a child resistant polypropylene cap.
 Pack size of 100 tablets.
 
-Ferriprox 1000 mg film-coated tablets
+Ferriprox 1 000 mg film-coated tablets
+
 High density polyethylene (HDPE) bottle with a child resistant polypropylene cap and a desiccant.
 Pack size of 50 tablets.
 
