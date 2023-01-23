@@ -13,6 +13,7 @@ The clinical relevance of these non-clinical data is unknown.
 Potential cardiac effects of this product in humans cannot be ruled out (see sections 4.4 and 4.8).
 The potential for PR prolongation should be considered in cases of overdose
 (see section 4.9).
+
 In a fertility and early embryonic development study in rats, atazanavir altered oestrus cycling with no effects on mating or fertility.
 No teratogenic effects were observed in rats or rabbits at maternally toxic doses.
 In pregnant rabbits, gross lesions of the stomach and intestines were observed in dead or moribund does at maternal doses 2 and 4 times the highest dose administered in the definitive embryo-development study.
