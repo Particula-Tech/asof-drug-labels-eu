@@ -3,6 +3,7 @@
 Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
 Acute asthma exacerbations
 
 Dupilumab should not be used to treat acute asthma symptoms or acute exacerbations.
@@ -13,7 +14,6 @@ Corticosteroids
 Systemic, topical, or inhaled corticosteroids should not be discontinued abruptly upon initiation of therapy with dupilumab.
 Reductions in corticosteroid dose, if appropriate, should be gradual and performed under the direct supervision of a physician.
 Reduction in corticosteroid dose may be associated with systemic withdrawal symptoms and/or unmask conditions previously suppressed by systemic corticosteroid therapy.
-
 Biomarkers of type 2 inflammation may be suppressed by systemic corticosteroid use.
 This should be taken into consideration to determine type 2 status in patients taking oral corticosteroids (see section 5.1).
 
@@ -43,12 +43,13 @@ Conjunctivitis and keratitis related events
 
 Conjunctivitis and keratitis related events have been reported with dupilumab, predominantly in atopic dermatitis patients.
 Some patients reported visual disturbances (e.g. blurred vision) associated with conjunctivitis or keratitis (see section 4.8).
+
 Patients should be advised to report new onset or worsening eye symptoms to their healthcare provider.
 Patients treated with dupilumab who develop conjunctivitis that does not resolve following standard treatment or signs and symptoms suggestive of keratitis should undergo ophthalmological examination, as appropriate (see section 4.8).
 
-Atopic dermatitis or CRSwNP patients with comorbid asthma
+Patients with comorbid asthma
 
-Patients on dupilumab for moderate-to-severe atopic dermatitis or severe CRSwNP who also have co-morbid asthma should not adjust or stop their asthma treatments without consultation with their physicians.
+Patients on dupilumab who also have co-morbid asthma should not adjust or stop their asthma treatments without consultation with their physicians.
 Patients with comorbid asthma should be monitored carefully following discontinuation of dupilumab.
 
 Vaccinations
@@ -63,7 +64,7 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per 300 mg dose,
 
 [Dupixent 200 mg solution for injection in pre-filled syringe]
 
-Patients on dupilumab for moderate-to-severe atopic dermatitis or severe CRSwNP who also have comorbid asthma should not adjust or stop their asthma treatments without consultation with their physicians.
+Patients on dupilumab who also have comorbid asthma should not adjust or stop their asthma treatments without consultation with their physicians.
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per 200 mg dose, that is to say essentially “sodium-free”.
 

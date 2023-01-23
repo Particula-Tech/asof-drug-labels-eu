@@ -1,14 +1,15 @@
 # 5.2 Pharmacokinetic properties
 
-The pharmacokinetics of dupilumab is similar in patients with atopic dermatitis, asthma, and CRSwNP.
+The pharmacokinetics of dupilumab is similar in patients with atopic dermatitis, asthma, CRSwNP, PN and EoE.
+
 Absorption
 
 After a single subcutaneous (SC) dose of 75-600 mg dupilumab to adults, median times to maximum concentration in serum (tmax) were 3-7 days.
-The absolute bioavailability of dupilumab following a SC dose is similar between AD, asthma, and CRSwNP patients, ranging between 61 % and 64 %, as determined by a population pharmacokinetics (PK) analysis.
+The absolute bioavailability of dupilumab following a SC dose is similar between AD, asthma, CRSwNP, and EoE patients, ranging between 61 % and 64 %, as determined by a population pharmacokinetics (PK) analysis.
 
 Steady-state concentrations were achieved by week 16 following the administration of 600 mg starting dose and 300 mg dose every other week or 300 mg dose every other week without a loading dose.
 Across clinical trials, the mean ±SD steady-state trough concentrations ranged from
-69.2±36.9 mcg/mL to 80.2±35.3 mcg/mL for 300 mg dose and from 29.2±18.7 to 36.5±22.2 mcg/mL for 200 mg dose administered every other week to adults.
+60.3±35.1 mcg/mL to 81.5±43.9 mcg/mL for 300 mg administered Q2W, from 172±76.6 mcg/ml to 195±71.7 mcg/ml for 300 mg administered weekly, and from 29.2±18.7 to 36.5±22.2 mcg/mL for 200 mg administered Q2W.
 
 Distribution
 
@@ -40,10 +41,16 @@ Although no differences in safety or efficacy were observed between older and yo
 
 Age was not found to be associated with any clinically meaningful impact on the systemic exposure of dupilumab determined by population PK analysis.
 However, there were only 61 patients over 65 years of age included in this analysis.
+
 Of the 1,977 patients with asthma exposed to dupilumab, a total of 240 patients were 65 years or older and 39 patients were 75 years or older.
 Efficacy and safety in this age group were similar to the overall study population.
 
 There were only 79 patients older than 65 years with CRSwNP exposed to dupilumab among them 11 patients were 75 years and older.
+Of the 152 patients with PN exposed to dupilumab, a total of 37 were 65 years of age or older.
+A total of 8 patients were 75 years of age or older.
+Efficacy and safety in these age groups were similar to the overall study population.
+
+There were only 2 patients older than 65 years with EoE exposed to dupilumab.
 
 Race
 Race was not found to be associated with any clinically meaningful impact on the systemic exposure of dupilumab by population PK analysis.
@@ -79,7 +86,11 @@ The pharmacokinetics of dupilumab in paediatric patients (< 6 years of age) with
 A total of 107 adolescents aged 12 to 17 years with asthma were enrolled in QUEST study.
 The mean ±SD steady-state trough concentrations of dupilumab were 107±51.6 mcg/mL and 46.7±26.9 mcg/mL, respectively, for 300 mg or 200 mg administered every other week.
 No age-related pharmacokinetic difference was observed in adolescent patients after correction for body weight.
-In the VOYAGE study, dupilumab pharmacokinetics was investigated in 270 patients with moderate-to-severe asthma following subcutaneous administration of either 100 mg Q2W (for 91 children weighing < 30 kg) or 200 mg Q2W (for 179 children weighing ≥ 30 kg).
+
+In the VOYAGE study, dupilumab pharmacokinetics was investigated in 270 patients with moderate-
+to-severe asthma following subcutaneous administration of either 100 mg Q2W (for 91 children
+
+weighing < 30 kg) or 200 mg Q2W (for 179 children weighing ≥ 30 kg).
 The volume of distribution for dupilumab of approximately 3.7 L was estimated by population PK analysis.
 Steady-state
 
@@ -98,6 +109,13 @@ CRSwNP
 CRSwNP does not normally occur in children.
 The pharmacokinetics of dupilumab in paediatric patients (< 18 years of age) with CRSwNP has not been studied.
 
+PN
+The pharmacokinetics of dupilumab in paediatric patients (< 18 years of age) with PN has not been studied.
+
+Eosinophilic esophagitis
+A total of 35 adolescents aged 12 to 17 years with eosinophilic esophagitis weighing ≥40 kg were enrolled in TREET Parts A and B, receiving 300 mg every week dosing (QW).
+The mean ± SD steady-state trough concentration of dupilumab was 227 ± 95.3 mcg/mL.
+
 [Dupixent 200 mg solution for injection in pre-filled syringe]
 
 The pharmacokinetics of dupilumab is similar in patients with atopic dermatitis and asthma.
@@ -109,7 +127,10 @@ Across clinical trials, the mean ±SD steady-state trough concentrations ranged 
 
 For adolescents 12 to 17 years of age with atopic dermatitis receiving every other week dosing (Q2W) with either 200 mg (<60 kg) or 300 mg (≥60 kg), the mean ±SD steady state trough concentration of dupilumab was 54.5±27.0 mcg/mL.
 
+In the VOYAGE study, dupilumab pharmacokinetics was investigated in 270 patients with moderate-to-severe asthma following subcutaneous administration of either 100 mg Q2W (for 91 children weighing < 30 kg) or 200 mg Q2W (for 179 children weighing ≥ 30 kg).
+Steady-state concentrations were achieved by week 12.
+The mean ± SD steady-state trough concentration was
+
 [Dupixent 100 mg solution for injection in pre-filled syringe]
 
-in adults and adolescents.
-After the last steady state dose, the median time for dupilumab concentrations to decrease below the lower limit of detection, estimated by population PK analysis, was 14 to 18 weeks for 100 mg Q2W, 200 mg Q2W or 300 mg Q4W.
+(all sentences already above)
