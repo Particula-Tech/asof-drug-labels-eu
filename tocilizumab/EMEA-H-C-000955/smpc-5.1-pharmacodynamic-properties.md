@@ -44,7 +44,8 @@ The primary endpoint at week 24 was the proportion of patients who achieved an A
 At week 52 and week 104 the co-primary endpoints were prevention of joint damage and improvement in physical function.
 
 Study III evaluated 623 patients who had an inadequate clinical response to MTX.
-Doses of 4 or 8 mg/kg tocilizumab or placebo were given every four weeks, in combination with stable MTX (10 mg to 25 mg weekly).
+Doses of 4 or 8 mg/kg tocilizumab or placebo were given every four weeks, in combination with stable MTX
+(10 mg to 25 mg weekly).
 
 Study IV evaluated 1,220 patients who had an inadequate response to their existing rheumatologic therapy, including one or more DMARDs.
 Doses of 8 mg/kg tocilizumab or placebo were given every four weeks in combination with stable DMARDs.
@@ -76,7 +77,7 @@ ACR responses in placebo-/MTX-/DMARDs-controlled studies (% patients)
 
 |  | Study I AMBITION |  | Study II LITHE |  | Study III OPTION |  | Study IV TOWARD |  | Study V RADIATE |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Week | TCZ 8 mg/k g | MT X | TCZ 8 mg/k g + MT X | PBO + MT X | TCZ 8 mg/k g + MT X | PBO + MT X | TCZ 8 mg/kg + DMAR D | PBO + DMAR D | TCZ 8 mg/k g + MT X | PBO + MTX |
+| Wee k | TCZ 8 mg/k g | MT X | TCZ 8 mg/k g + MT X | PBO + MT X | TCZ 8 mg/k g + MT X | PBO + MT X | TCZ 8 mg/kg + DMAR D | PBO + DMAR D | TCZ 8 mg/k g + MT X | PBO + MTX |
 |  | N = 286 | N = 284 | N = 398 | N = 393 | N = 205 | N = 204 | N = 803 | N = 413 | N = 170 | N = 158 |
 | ACR 20 |  |  |  |  |  |  |  |  |  |  |
 | 24 | 70%** * | 52% | 56%** * | 27% | 59%** * | 26% | 61%*** | 24% | 50%** * | 10% |
@@ -213,7 +214,7 @@ Table 7: Efficacy Results for Study VII (WA19926) on MTX-naïve, early RA patien
 | JSN | 0.03 | 0.11 | 0.17 | 0.51 |
 | Radiographic Non-Progression n (%) (change from baseline in mTSS of ≤0) | 226 (83)‡ | 226 (82)‡ | 211 (79) | 194 (73) |
 | Exploratory Endpoints |  |  |  |  |
-| Week 24: ACR/EULAR Boolean Remission, n (%) | 47 (18.4) ‡ | 38 (14.2) | 43 (16.7) ‡ | 25 (10.0) |
+| Week 24: ACR/EULAR Boolean Remission, n (%) | 47 (18.4) ‡ | 38 (14.2) | 43 (1‡ 6.7) | 25 (10.0) |
 | ACR/EULAR Index Remission, n (%) | 73 (28.5) ‡ | 60 (22.6) | 58 (22.6) | 41 (16.4) |
 | Week 52: ACR/EULAR Boolean Remission, n (%) | 59 (25.7) ‡ | 43 (18.7) | 48 (21.1) | 34 (15.5) |
 | ACR/EULAR Index Remission, n (%) | 83 (36.1) ‡ | 69 (30.0) | 66 (29.3) | 49 (22.4) |
@@ -222,7 +223,6 @@ mTSS - modified Total Sharp Score
 JSN - Joint space narrowing
 All efficacy comparisons vs Placebo + MTX. ***p≤0.0001; **p<0.001; *p<0.05;
 ‡p-value < 0.05 vs. Placebo + MTX, but endpoint was exploratory (not included in the hierarchy of statistical testing and has therefore not been controlled for multiplicity)
-
 COVID-19
 
 Clinical Efficacy
@@ -258,7 +258,6 @@ Clinical efficacy
 The efficacy of tocilizumab for the treatment of active sJIA was assessed in a 12 week randomised, double blind, placebo-controlled, parallel group, two arm study.
 Patients included in the trial had a total disease duration of at least 6 months and active disease but were not experiencing an acute flare requiring corticosteroid doses of more than 0.5 mg/kg prednisone equivalent.
 Efficacy for the treatment of macrophage activation syndrome has not been investigated.
-
 Patients (treated with or without MTX) were randomised (tocilizumab:placebo = 2:1) to one of two treatment groups, 75 patients received tocilizumab infusions every two weeks, either 8 mg/kg for patients ≥ 30 kg or 12 mg/kg for patients < 30 kg and 37 patients were assigned to receiving placebo infusions every two weeks.
 Corticosteroid tapering was permitted from week six for patients who achieved a JIA ACR70 response.
 After 12 weeks or at the time of escape, due to disease worsening, patients were treated in the open label phase at weight appropriate dosing.
@@ -308,6 +307,7 @@ Patients < 30 kg were randomized 1:1 to receive either tocilizumab 8 mg/kg or 10
 Patients who completed Part I of the study and achieved at least a JIA ACR30 response at week 16 compared to baseline were eligible to enter the blinded withdrawal period (Part II) of the study.
 In Part II, patients were randomized to tocilizumab (same dose received in Part I) or placebo in a 1:1 ratio, stratified by concurrent MTX use and concurrent corticosteroid use.
 Each patient continued in Part II of the study until Week 40 or until the patient satisfied JIA ACR30 flare criteria (relative to Week 16) and qualified for escape to tocilizumab therapy (same dose received in Part I).
+
 Clinical response
 The primary endpoint was the proportion of patients with a JIA ACR30 flare at week 40 relative to week 16.
 Forty eight percent (48.1%, 39/81) of the patients treated with placebo flared compared with 25.6% (21/82) of tocilizumab treated patients.
@@ -500,7 +500,7 @@ Both considerably lower than in the placebo plus 26 weeks and the placebo plus 5
 
 Efficacy results from Study WA28119
 
-|  | Placebo + 26 weeks prednisone taper N=50 | Placebo + 52 weeks prednisone taper N=51 | RoActemra 162mg SC weekly + 26 weeks prednisone taper N=100 | RoActemra 162 mg SC every other weekly + 26 weeks prednisone taper N=49 |
+|  | Placebo + 26 weeks prednison e taper N=50 | Placebo + 52 weeks prednison e taper N=51 | RoActemra 162mg SC weekly + 26 weeks prednisone taper N=100 | RoActemra 162 mg SC every other weekly + 26 weeks prednisone taper N=49 |
 | --- | --- | --- | --- | --- |
 | Primary Endpoint |  |  |  |  |
 | ****Sustained remission (Tocilizumab groups vs Placebo+26) |  |  |  |  |
@@ -641,6 +641,7 @@ Pharmacotherapeutic group: Immunosupressants, Interleukin inhibitors; ATC code: 
 
 RoActemra binds specifically to both soluble and membrane-bound IL-6 receptors (sIL-6R and mIL-6R).
 RoActemra has been shown to inhibit sIL-6R and mIL-6R-mediated signalling.
+
 In RA clinical studies with RoActemra, rapid decreases in CRP, erythrocyte sedimentation rate (ESR), serum amyloid A (SAA) and fibrinogen were observed.
 
 RA and GCA patients demonstrate a comparable (to healthy subjects) decrease of absolute neutrophil counts following RoActemra administration (see section 4.8).

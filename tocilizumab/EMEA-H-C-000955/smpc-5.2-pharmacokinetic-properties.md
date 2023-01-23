@@ -15,7 +15,8 @@ Therefore, tocilizumab doses exceeding 800 mg per infusion are not recommended (
 
 COVID-19 Patients
 The pharmacokinetics of tocilizumab was characterized using a population pharmacokinetic analysis of a database composed of 380 adult COVID-19 patients in Study WA42380 (COVACTA) and Study CA42481 (MARIPOSA) that treated with a single infusion of 8 mg/kg tocilizumab or two infusions separated by at least 8 hours.
-The following parameters (predicted mean+SD) were estimated for a dose of 8 mg/kg tocilizumab: area under curve over 28 days (AUC0-28) = 18312 (5184) hour•µg/mL, concentration at Day 28 (Cday28) = 0.934 (1.93) µg/mL and maximum concentration (Cmax) = 154 (34.9) µg/mL.
+The following parameters (predicted mean+SD) were estimated for a dose of 8 mg/kg tocilizumab: area under curve over 28 days (AUC0-28) = 18312 (5184) hour•µg/mL, concentration at Day 28 (Cday28) = 0.934 (1.93) µg/mL and maximum concentration
+(Cmax) = 154 (34.9) µg/mL.
 The AUC0-28, Cday28 and Cmax, following two doses of 8 mg/kg tocilizumab separated by 8 hours, were also estimated (predicted mean +SD): 42240 (11520) hour•µg/mL and 8.94 (8.5) µg/mL, and 296 (64.7) µg/mL respectively.
 
 Distribution
@@ -107,7 +108,6 @@ Population pharmacokinetic analyses in any patient population tested so far indi
 
 RA
 The pharmacokinetics of RoActemra were determined using a population pharmacokinetic analysis on a database composed of 3552 RA patients treated with a one-hour infusion of 4 or 8 mg/kg RoActemra every 4 weeks for 24 weeks or with 162 mg tocilizumab given subcutaneously either once a week or every other week for 24 weeks.
-
 The following parameters (predicted mean ± SD) were estimated for a dose of 8 mg/kg RoActemra given every 4 weeks: steady-state area under curve (AUC) = 38000 ± 13000 h•µg/mL, trough concentration (Cmin) = 15.9 ± 13.1 µg/mL and maximum concentration (Cmax) = 182 ± 50.4 µg/mL, and. the accumulation ratios for AUC and Cmax were small, 1.32 and 1.09, respectively.
 RoActemra AUC, Cmin and Cmax increased with increase of body weight.
 At body weight ≥ 100 kg, the predicted mean (± SD) steady-state AUC, Cmin and Cmax of RoActemra were 50000 ± 16800 μg•h/mL, 24.4 ± 17.5 μg/mL, and 226 ± 50.3 μg/mL, respectively, which are higher than mean exposure values for the patient population (i.e. all body weights) reported above.
@@ -135,10 +135,10 @@ Steady state was reached after 12 weeks for AUC, Cmin, and Cmax.
 For the 162 every other week dose, the predicted mean (±SD) steady-state AUC2week, Cmin, and Cmax of RoActemra were 3430 ± 2660 µg•h/mL, 5.7 ± 6.8 µg/mL, and 13.2 ± 8.8 µg/mL, respectively.
 The accumulation ratios for AUC, Cmin, and Cmax were 2.67, 6.02, and 2.12, respectively.
 Steady state was reached after 12 weeks for AUC and Cmin, and after 10 weeks for Cmax.
-
 Absorption
 Following subcutaneous dosing in RA patients, the time to peak serum RoActemra concentrations tmax was 2.8 days.
 The bioavailability for the subcutaneous formulation was 79%.
+
 For subcutaneous administration, the effective t1/2 is up to 13 days for 162 mg every week and 5 days for 162 mg every other week in patients with RA at steady-state.
 
 sJIA

@@ -81,7 +81,6 @@ In the long-term exposure population, the overall rate of infections with RoActe
 
 In 6-month controlled clinical studies, the rate of serious infections with tocilizumab 8 mg/kg plus DMARDs was 5.3 events per 100 patient years exposure compared to 3.9 events per 100 patient years exposure in the placebo plus DMARD group.
 In the monotherapy study, the rate of serious infections was 3.6 events per 100 patient years of exposure in the tocilizumab group and 1.5 events per 100 patient years of exposure in the MTX group.
-
 In the long-term exposure population, the overall rate of serious infections (bacterial, viral and fungal) was 4.7 events per 100 patient years.
 Reported serious infections, some with fatal outcome, included active tuberculosis, which may present with intrapulmonary or extrapulmonary disease, invasive pulmonary infections, including candidiasis, aspergillosis, coccidioidomycosis and pneumocystis jirovecii, pneumonia, cellulitis, herpes zoster, gastroenteritis, diverticulitis, sepsis and bacterial arthritis.
 Cases of opportunistic infections have been reported.
@@ -292,7 +291,8 @@ During routine laboratory monitoring in the 12 week controlled phase, 3% of pati
 In the open label extension phase, decreases in platelet counts below 100 x 103/µl, occurred in 3% of patients in the tocilizumab group, without associated bleeding events.
 
 Hepatic transaminase elevations
-During routine laboratory monitoring in the 12 week controlled phase, elevation in ALT or AST ≥ 3 x ULN occurred in 5% and 3% of patients, respectively, in the tocilizumab group, and 0% in the placebo group.
+During routine laboratory monitoring in the 12 week controlled phase, elevation in ALT or
+AST ≥ 3 x ULN occurred in 5% and 3% of patients, respectively, in the tocilizumab group, and 0% in the placebo group.
 
 In the open label extension phase, elevation in ALT or AST ≥ 3 x ULN occurred in 12% and 4% of patients, respectively, in the tocilizumab group.
 
@@ -395,7 +395,8 @@ No patient developed positive anti-tocilizumab antibodies post baseline.
 
 In the 52-week open-label SC Study (WA28118), neutrophil count decrease to below 1 × 109/L occurred in 23.5% of patients treated with RoActemra SC.
 Decreases in platelet counts to below 100 × 103/μL occurred in 2% of the patients treated with RoActemra SC.
-An elevation in ALT or AST to ≥3 x ULN occurred in 9.8% and 4.0% patients treated with RoActemra SC, respectively.
+An elevation in ALT or
+AST to ≥3 x ULN occurred in 9.8% and 4.0% patients treated with RoActemra SC, respectively.
 
 In the 52-week open-label SC Study (WA28118), 23.4% and 35.4% of patients experienced a post-baseline elevation of their LDL-cholesterol value to ≥130 mg/dL and total cholesterol value to
 ≥200 mg/dL at any time during study treatment, respectively.
@@ -418,7 +419,8 @@ No correlation between antibody development and clinical response or adverse eve
 
 During routine laboratory monitoring in the RoActemra all exposure population, a decrease in neutrophil count below 1 × 109/L occurred in 15.4% of patients treated with SC RoActemra.
 An elevation in ALT or AST ≥3 x ULN occurred in 9.6% and 3.8% patients treated with RoActemra SC, respectively.
-No patients treated with SC RoActemra experienced a decrease in platelet count to ≤50 × 103 / μL.
+No patients treated with SC RoActemra experienced a decrease in platelet count to
+≤50 × 103 / μL.
 
 In the SC Study, 14.3% and 12.8% of patients experienced a post-baseline elevation of their LDL-cholesterol value to ≥ 130 mg/dL and total cholesterol value to ≥ 200 mg/dL at any time during study treatment, respectively.
 
@@ -501,7 +503,6 @@ The corresponding frequency category is based on the following convention: very 
 | Infections and infestations | Upper respiratory tract infections | Cellulitis, Pneumonia, Oral herpes simplex, Herpes zoster | Diverticulitis |  |
 | Blood and lymphatic system disorders |  | Leukopenia, Neutropenia, Hypofibrinogenae mia |  |  |
 | Immune system disorders |  |  |  | Anaphylaxis (fatal)1, 2 ,3 |
-|  | Very Common | Common | Uncommon | Rare |
 | Endocrine disorders |  |  | Hypothyroidism |  |
 | Metabolism and nutrition disorders | Hypercholesterola emia* |  | Hypertriglyceridae mia |  |
 | Nervous system disorders |  | Headache, Dizziness |  |  |
@@ -513,6 +514,7 @@ The corresponding frequency category is based on the following convention: very 
 | Skin and subcutaneous tissue disorders |  | Rash, Pruritus, Urticaria |  | Stevens-Johnson-Syndrome3 |
 | Renal and urinary disorders |  |  | Nephrolithiasis |  |
 | General disorders and administration site conditions | Injection site reaction | Peripheral oedema Hypersensitivity reaction, |  |  |
+|  | Very Common | Common | Uncommon | Rare |
 | Investigations |  | Hepatic transaminases increased, Weight increased, Total bilirubin increased* |  |  |
 
 SC-I was a non-inferiority study that compared the efficacy and safety of RoActemra162 mg administered every week versus 8 mg/kg intravenous in 1262 patients with RA.
@@ -520,6 +522,7 @@ SC-I was a non-inferiority study that compared the efficacy and safety of RoActe
 Seven patients (1.6%) developed positive anti-RoActemra antibodies; of these, six (1.4%) developed neutralizing anti-RoActemra antibodies.
 
 During routine laboratory monitoring in the RoActemra 6 month controlled clinical trial SC-I, 19% of patients experienced sustained elevations in total cholesterol > 6.2 mmol/L (240 mg/dL), with 9% experiencing a sustained increase in LDL to ≥ 4.1 mmol/L (160 mg/dL) on the subcutaneous weekly dose.
+
 Subcutaneous Use sJIA
 
 Subcutaneous use pJIA
@@ -537,6 +540,7 @@ In the 6-month controlled studies the rate of all infections reported with RoAct
 In 6-month controlled clinical studies, the rate of serious infections with RoActemra8 mg/kg plus DMARDs was 5.3 events per 100 patient years exposure compared to 3.9 events per 100 patient years exposure in the placebo plus DMARD group.
 
 Reports of gastrointestinal perforation on RoActemrawere primarily reported as complications of diverticulitis including generalised purulent peritonitis, lower gastrointestinal perforation, fistulae and abscess.
+
 In the 6-month controlled trials adverse events associated with infusion (selected events occurring during or within 24 hours of infusion) were reported by 6.9% of patients in the RoActemra 8 mg/kg plus DMARD group and 5.1% of patients in the placebo plus DMARD group.
 
 Clinically significant hypersensitivity reactions associated with RoActemra and requiring treatment discontinuation were reported in a total of 56 out of 4,009 patients (1.4%) treated with RoActemra during the controlled and open label clinical studies.
