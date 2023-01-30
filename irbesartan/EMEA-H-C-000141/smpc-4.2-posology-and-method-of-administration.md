@@ -3,8 +3,8 @@
 Posology
 
 The usual recommended initial and maintenance dose is 150 mg once daily, with or without food.
-Aprovel at a dose of 150 mg once daily generally provides a better 24 hour blood pressure control than 75 mg.
-However, initiation of therapy with 75 mg could be considered, particularly in haemodialysed patients and in the elderly over 75 years.
+Aprovel at a dose of 150 mg once daily generally provides a better 24-hour blood pressure control than 75 mg.
+However, initiation of therapy with 75 mg could be considered, particularly in haemodialyzed patients and in the elderly over 75 years.
 
 In patients insufficiently controlled with 150 mg once daily, the dose of Aprovel can be increased to 300 mg, or other antihypertensive agents can be added (see sections 4.3, 4.4, 4.5 and 5.1).
 In particular, the addition of a diuretic such as hydrochlorothiazide has been shown to have an additive effect with Aprovel (see section 4.5).

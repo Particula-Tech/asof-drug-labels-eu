@@ -10,7 +10,7 @@ Whilst there is no controlled epidemiological data on the risk with Angiotensin 
 Unless continued AIIRA therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy.
 When pregnancy is diagnosed, treatment with AIIRAs should be stopped immediately, and, if appropriate, alternative therapy should be started.
 
-Exposure to AIIRA therapy during the second and third trimesters is known to induce human foetotoxicity (decreased renal function, oligohydramnios, skull ossification retardation) and neonatal toxicity (renal failure, hypotension, hyperkalaemia).
+Exposure to AIIRA therapy during the second and third trimesters is known to induce human fetotoxicity (decreased renal function, oligohydramnios, skull ossification retardation) and neonatal toxicity (renal failure, hypotension, hyperkalaemia).
 (See section 5.3).
 Should exposure to AIIRAs have occurred from the second trimester of pregnancy, ultrasound check of renal function and skull is recommended.
 

@@ -5,7 +5,7 @@ Croscarmellose sodium
 Lactose monohydrate
 Magnesium stearate
 Colloidal hydrated silica
-Pregelatinised maize starch
+Pregelatinized maize starch
 Poloxamer 188
 
 [Aprovel 150 mg tablets.]

@@ -55,23 +55,3 @@ Hepatic impairment
 In patients with mild to moderate cirrhosis, the pharmacokinetic parameters of irbesartan are not significantly altered.
 
 Studies have not been performed in patients with severe hepatic impairment.
-
-[Aprovel 150 mg tablets.]
-
-(all sentences already above)
-
-[Aprovel 300 mg tablets.]
-
-(all sentences already above)
-
-[Aprovel 75 mg film-coated tablets.]
-
-Biotransformatin
-
-[Aprovel 150 mg film-coated tablets.]
-
-(all sentences already above)
-
-[Aprovel 300 mg film-coated tablets.]
-
-(all sentences already above)

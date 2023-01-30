@@ -18,12 +18,12 @@ Clinical efficacy
 Hypertension
 
 Irbesartan lowers blood pressure with minimal change in heart rate.
-The decrease in blood pressure is dose-related for once a day doses with a tendency towards plateau at doses above 300 mg.
+The decrease in blood pressure is dose-related for once-a-day doses with a tendency towards plateau at doses above 300 mg.
 Doses of 150-300 mg once daily lower supine or seated blood pressures at trough (i.e. 24 hours after dosing) by an average of 8-13/5-8 mm Hg (systolic/diastolic) greater than those associated with placebo.
 
 Peak reduction of blood pressure is achieved within 3-6 hours after administration and the blood pressure lowering effect is maintained for at least 24 hours.
 At 24 hours the reduction of blood pressure was 60-70% of the corresponding peak diastolic and systolic responses at the recommended doses.
-Once daily dosing with 150 mg produced trough and mean 24 hour responses similar to twice daily dosing on the same total dose.
+Once daily dosing with 150 mg produced trough and mean 24-hour responses similar to twice daily dosing on the same total dose.
 
 The blood pressure lowering effect of Aprovel is evident within 1-2 weeks, with the maximal effect occurring by 4-6 weeks after start of therapy.
 The antihypertensive effects are maintained during long term therapy.
@@ -41,11 +41,11 @@ There is no clinically important effect on serum uric acid or urinary uric acid 
 
 Paediatric population
 
-Reduction of blood pressure with 0.5 mg/kg (low), 1.5 mg/kg (medium) and 4.5 mg/kg (high) target titrated doses of irbesartan was evaluated in 318 hypertensive or at risk (diabetic, family history of hypertension) children and adolescents aged 6 to 16 years over a three week period.
+Reduction of blood pressure with 0.5 mg/kg (low), 1.5 mg/kg (medium) and 4.5 mg/kg (high) target titrated doses of irbesartan was evaluated in 318 hypertensive or at risk (diabetic, family history of hypertension) children and adolescents aged 6 to 16 years over a three-week period.
 At the end of the three weeks the mean reduction from baseline in the primary efficacy variable, trough seated systolic blood pressure (SeSBP) was 11.7 mmHg (low dose), 9.3 mmHg (medium dose), 13.2 mmHg (high dose).
 No significant difference was apparent between these doses.
 Adjusted mean change of trough seated diastolic blood pressure (SeDBP) was as follows: 3.8 mmHg (low dose), 3.2 mmHg (medium dose), 5.6 mmHg (high dose).
-Over a subsequent two week period where patients were re-randomized to either active medicinal product or placebo, patients on placebo had increases of 2.4 and 2.0 mmHg in SeSBP and SeDBP compared to +0.1 and -0.3 mmHg changes respectively in those on all doses of irbesartan (see section 4.2).
+Over a subsequent two-week period where patients were re-randomized to either active medicinal product or placebo, patients on placebo had increases of 2.4 and 2.0 mmHg in SeSBP and SeDBP compared to +0.1 and -0.3 mmHg changes respectively in those on all doses of irbesartan (see section 4.2).
 
 Hypertension and type 2 diabetes with renal disease
 
@@ -53,12 +53,12 @@ The “Irbesartan Diabetic Nephropathy Trial (IDNT)” shows that irbesartan dec
 IDNT was a double blind, controlled, morbidity and mortality trial comparing Aprovel, amlodipine and placebo.
 In 1,715 hypertensive patients with type 2 diabetes, proteinuria ≥ 900 mg/day and serum creatinine ranging from 1.0-3.0 mg/dl, the long-term effects (mean 2.6 years) of Aprovel on the progression of renal disease and all-cause mortality were examined.
 Patients were titrated from 75 mg to a maintenance dose of 300 mg Aprovel, from 2.5 mg to 10 mg amlodipine, or placebo as tolerated.
-Patients in all treatment groups typically received between 2 and 4 antihypertensive agents (e.g., diuretics, beta blockers, alpha blockers) to reach a predefined blood pressure goal of ≤ 135/85 mmHg or a 10 mmHg reduction in systolic pressure if baseline was > 160 mmHg.
+Patients in all treatment groups typically received between 2 and 4 antihypertensive agents (e.g., diuretics, beta blockers, alpha blockers) to reach a predefined blood pressure goal of ≤ 135/85 mmHg or a 10-mmHg reduction in systolic pressure if baseline was > 160-mmHg.
 Sixty per cent (60%) of patients in the placebo group reached this target blood pressure whereas this figure was 76% and 78% in the irbesartan and amlodipine groups respectively.
 Irbesartan significantly reduced the relative risk in the primary combined endpoint of doubling serum creatinine, end-stage renal disease (ESRD) or all-cause mortality.
 Approximately 33% of patients in the irbesartan group reached the primary renal composite endpoint compared to 39% and 41% in the placebo and amlodipine groups [20% relative risk reduction versus placebo (p = 0.024) and 23% relative risk reduction compared to amlodipine
 (p = 0.006)].
-When the individual components of the primary endpoint were analysed, no effect in all cause mortality was observed, while a positive trend in the reduction in ESRD and a significant reduction in doubling of serum creatinine were observed.
+When the individual components of the primary endpoint were analysed, no effect in all-cause mortality was observed, while a positive trend in the reduction in ESRD and a significant reduction in doubling of serum creatinine were observed.
 
 Subgroups consisting of gender, race, age, duration of diabetes, baseline blood pressure, serum creatinine, and albumin excretion rate were assessed for treatment effect.
 In the female and black subgroups which represented 32% and 26% of the overall study population respectively, a renal benefit was not evident, although the confidence intervals do not exclude it.
@@ -72,7 +72,7 @@ The predefined blood pressure goal was ≤ 135/85 mmHg.
 Additional antihypertensive agents (excluding ACE inhibitors, angiotensin II receptor antagonists and dihydropyridine calcium blockers) were added as needed to help achieve the blood pressure goal.
 While similar blood pressure was achieved in all treatment groups, fewer subjects in the irbesartan 300 mg group (5.2%) than in the placebo (14.9%) or in the irbesartan 150 mg group (9.7%) reached the endpoint of overt proteinuria, demonstrating a 70% relative risk reduction versus placebo (p = 0.0004) for the higher dose.
 An accompanying improvement in the glomerular filtration rate (GFR) was not observed during the first three months of treatment.
-The slowing in the progression to clinical proteinuria was evident as early as three months and continued over the 2 year period.
+The slowing in the progression to clinical proteinuria was evident as early as three months and continued over the 2-years period.
 Regression to normoalbuminuria (< 30 mg/day) was more frequent in the Aprovel 300 mg group (34%) than in the placebo group (21%).
 
 Dual blockade of the renin-angiotensin-aldosterone system (RAAS)
@@ -99,7 +99,7 @@ Mechanism of action: irbesartan is a potent, orally active, selective angiotensi
 
 [Aprovel 75 mg film-coated tablets.]
 
-(all sentences already above)
+Patients in all treatment groups typically received between 2 and 4 antihypertensive agents (e.g., diuretics, beta blockers, alpha blockers) to reach a predefined blood pressure goal of ≤ 135/85 mmHg or a 10 mmHg reduction in systolic pressure if baseline was > 160 mmHg.
 
 [Aprovel 150 mg film-coated tablets.]
 
