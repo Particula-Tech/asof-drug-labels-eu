@@ -30,14 +30,14 @@ Breakpoints
 
 The EUCAST MIC breakpoints are as follows:
 
-- Enterobacterales: S ≤0.5 mg/L and R > 0.5 mg/L
-- Streptococcus pneumoniae: S ≤0.5 mg/L and R > 0.5 mg/L
-- Haemophilus influenzae: S ≤0.5 mg/L and R > 0.5 mg/L
-- M. catarrhalis: S ≤0.5 mg/L and R > 0.5 mg/L
-- Gram negative anaerobes: S ≤0.5 mg/L and R > 0.5 mg/L
-- Gram positive anaerobes: S ≤0.5 mg/L and R > 0.5 mg/L
-- Viridans group streptococci: S ≤0.5 mg/L and R > 0.5 mg/L
-- Non species related breakpoints: S ≤0.5 mg/L and R > 0.5 mg/L
+- Enterobacterales: S ≤ 0.5 mg/L and R > 0.5 mg/L
+- Streptococcus pneumoniae: S ≤ 0.5 mg/L and R > 0.5 mg/L
+- Haemophilus influenzae: S ≤ 0.5 mg/L and R > 0.5 mg/L
+- M. catarrhalis: S ≤ 0.5 mg/L and R > 0.5 mg/L
+- Gram negative anaerobes: S ≤ 0.5 mg/L and R > 0.5 mg/L
+- Gram positive anaerobes: S ≤ 0.5 mg/L and R > 0.5 mg/L
+- Viridans group streptococci: S ≤ 0.5 mg/L and R > 0.5 mg/L
+- Non species related breakpoints: S ≤ 0.5 mg/L and R > 0.5 mg/L
 
 (NB: Susceptibility of staphylococci to ertapenem is inferred from methicillin susceptibility and susceptibility of group A, B, C,& G streptococci is inferred from benzylpenicillin susceptibility)
 

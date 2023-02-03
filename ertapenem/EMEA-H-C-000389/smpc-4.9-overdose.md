@@ -7,4 +7,5 @@ In clinical studies in adults inadvertent administration of up to 3 g in a day d
 In paediatric clinical studies, a single intravenous (IV) dose of 40 mg/kg up to a maximum of 2 g did not result in toxicity.
 
 However, in the event of an overdose, treatment with INVANZ should be discontinued and general supportive treatment given until renal elimination takes place.
+
 Ertapenem can be removed to some extent by haemodialysis (see section 5.2); however, no information is available on the use of haemodialysis to treat overdose.

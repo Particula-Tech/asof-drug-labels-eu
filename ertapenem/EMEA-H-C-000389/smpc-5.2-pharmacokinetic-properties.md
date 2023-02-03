@@ -6,7 +6,6 @@ Average plasma concentrations of ertapenem following a single 30 minute intraven
 Area under the plasma concentration curve (AUC) of ertapenem in adults increases nearly dose-proportionally over the 0.5 to 2 g dose range.
 
 There is no accumulation of ertapenem in adults following multiple intravenous doses ranging from 0.5 to 2 g daily.
-
 Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 15 mg/kg (up to a maximum dose of 1 g) dose in patients 3 to 23 months of age were
 103.8 micrograms/mL (Cmax) at 0.5 hour postdose (end of infusion), 13.5 micrograms/mL at 6 hour postdose, and 2.5 micrograms/mL at 12 hour postdose.
 
@@ -39,7 +38,6 @@ In healthy young adults (23 to 49 years of age), after intravenous infusion of r
 The major metabolite of ertapenem is the ring-opened derivative formed by dehydropeptidase-I-mediated hydrolysis of the beta-lactam ring.
 
 In vitro studies in human liver microsomes indicate that ertapenem does not inhibit metabolism mediated by any of the six major CYP isoforms: 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4.
-
 Elimination
 Following administration of a 1 g radiolabelled intravenous dose of ertapenem to healthy young adults (23 to 49 years of age), approximately 80 % is recovered in urine and 10 % in faeces.
 Of the 80 % recovered in urine, approximately 38 % is excreted as unchanged ertapenem and approximately 37 % as the ring-opened metabolite.
@@ -54,7 +52,7 @@ Gender
 The plasma concentrations of ertapenem are comparable in men and women.
 
 Elderly
-Plasma concentrations following a 1 g and 2 g intravenous dose of ertapenem are slightly higher (approximately 39 % and 22 %, respectively) in healthy elderly adults (≥65 years) relative to young adults (<65 years).
+Plasma concentrations following a 1 g and 2 g intravenous dose of ertapenem are slightly higher (approximately 39 % and 22 %, respectively) in healthy elderly adults (≥ 65 years) relative to young adults (< 65 years).
 In the absence of severe renal impairment, no dosage adjustment is necessary in elderly patients.
 
 Paediatric population
@@ -81,5 +79,6 @@ AUCs of total ertapenem and of unbound ertapenem are increased in patients with 
 AUCs of total ertapenem and of unbound ertapenem are increased in patients who require haemodialysis approximately 2.9-fold and 6.0-fold, respectively, between dialysis sessions, compared with healthy subjects.
 Following a single 1 g intravenous dose given immediately prior to a haemodialysis session, approximately 30 % of the dose is recovered in the dialysate.
 There are no data in paediatric patients with renal impairment.
+
 There are inadequate data on the safety and efficacy of ertapenem in patients with advanced renal impairment and patients who require haemodialysis to support a dose recommendation.
 Therefore, ertapenem should not be used in these patients.
