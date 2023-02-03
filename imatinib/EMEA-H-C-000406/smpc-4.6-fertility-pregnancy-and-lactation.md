@@ -11,7 +11,6 @@ There have been post-marketing reports of spontaneous abortions and infant conge
 Studies in animals have however shown reproductive toxicity (see section 5.3) and the potential risk for the foetus is unknown.
 Glivec should not be used during pregnancy unless clearly necessary.
 If it is used during pregnancy, the patient must be informed of the potential risk to the foetus.
-
 Breast-feeding
 
 There is limited information on imatinib distribution on human milk.

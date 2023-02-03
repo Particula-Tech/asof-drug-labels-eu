@@ -17,7 +17,6 @@ However, these oedemas were rarely severe and may be managed with diuretics, oth
 When imatinib was combined with high dose chemotherapy in Ph+ ALL patients, transient liver toxicity in the form of transaminase elevation and hyperbilirubinaemia were observed.
 Considering the limited safety database, the adverse events thus far reported in children are consistent with the known safety profile in adult patients with Ph+ ALL.
 The safety database for children with Ph+ALL is very limited though no new safety concerns have been identified.
-
 Miscellaneous adverse reactions such as pleural effusion, ascites, pulmonary oedema and rapid weight gain with or without superficial oedema may be collectively described as “fluid retention”.
 These reactions can usually be managed by withholding Glivec temporarily and with diuretics and other appropriate supportive care measures.
 However, some of these reactions may be serious or life-threatening and several patients with blast crisis died with a complex clinical history of pleural effusion, congestive heart failure and renal failure.
@@ -30,6 +29,7 @@ Frequency categories are defined using the following convention: very common
 (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, undesirable effects are presented in order of frequency, the most frequent first.
+
 Adverse reactions and their frequencies are reported in Table 1.
 
 Table 1 Tabulated summary of adverse reactions
@@ -97,14 +97,14 @@ Table 1 Tabulated summary of adverse reactions
 | Very common: | Periorbital oedema, dermatitis/eczema/rash |
 | Common: | Pruritus, face oedema, dry skin, erythema, alopecia, night sweats, photosensitivity reaction |
 | Uncommon: | Rash pustular, contusion, sweating increased, urticaria, ecchymosis, increased tendency to bruise, hypotrichosis, skin hypopigmentation, dermatitis exfoliative, onychoclasis, folliculitis, petechiae, psoriasis, purpura, skin hyperpigmentation, bullous eruptions, panniculitis12 |
-| Rare: | Acute febrile neutrophilic dermatosis (Sweet’s syndrome), nail discolouration, angioneurotic oedema, rash vesicular, erythema multiforme, leucocytoclastic vasculitis, Stevens-Johnson syndrome, acute generalised exanthematous pustulosis (AGEP) |
+| Rare: | Acute febrile neutrophilic dermatosis (Sweet’s syndrome), nail discolouration, angioneurotic oedema, rash vesicular, erythema multiforme, leucocytoclastic vasculitis, Stevens-Johnson syndrome, acute generalised exanthematous pustulosis (AGEP), pemphigus* |
 | Not known: | Palmoplantar erythrodysesthesia syndrome*, lichenoid keratosis*, lichen planus*, toxic epidermal necrolysis*, drug rash with eosinophilia and systemic symptoms (DRESS)*, pseudoporphyria* |
 | Musculoskeletal and connective tissue disorders |  |
 | Very common: | Muscle spasm and cramps, musculoskeletal pain including myalgia9, arthralgia, bone pain10 |
 | Common: | Joint swelling |
-| Uncommon: | Joint and muscle stiffness |
+| Uncommon: | Joint and muscle stiffness, osteonecrosis* |
 | Rare: | Muscular weakness, arthritis, rhabdomyolysis/myopathy |
-| Not known: | Avascular necrosis/hip necrosis*, growth retardation in children* |
+| Not known: | Growth retardation in children* |
 | Renal and urinary disorders |  |
 | Uncommon: | Renal pain, haematuria, renal failure acute, urinary frequency increased |
 | Not known: | Renal failure chronic |
@@ -135,7 +135,6 @@ Because these reactions are reported from a population of uncertain size, it is 
 10 Musculoskeletal pain and related events were more commonly observed in patients with CML than in GIST patients.
 11 Fatal cases have been reported in patients with advanced disease, severe infections, severe neutropenia and other serious concomitant conditions.
 12 Including erythema nodosum.
-
 Laboratory test abnormalities
 
 Haematology
@@ -148,6 +147,7 @@ The median duration of the neutropenic and thrombocytopenic episodes usually ran
 These events can usually be managed with either a reduction of the dose or an interruption of treatment with Glivec, but can in rare cases lead to permanent discontinuation of treatment.
 In paediatric CML patients the most frequent toxicities observed were grade 3 or 4 cytopenias involving neutropenia, thrombocytopenia and anaemia.
 These generally occur within the first several months of therapy.
+
 In the study in patients with unresectable and/or metastatic GIST, grade 3 and 4 anaemia was reported in 5.4% and 0.7% of patients, respectively, and may have been related to gastrointestinal or intra-tumoural bleeding in at least some of these patients.
 Grade 3 and 4 neutropenia was seen in 7.5% and 2.7% of patients, respectively, and grade 3 thrombocytopenia in 0.7% of patients.
 No patient developed grade 4 thrombocytopenia.

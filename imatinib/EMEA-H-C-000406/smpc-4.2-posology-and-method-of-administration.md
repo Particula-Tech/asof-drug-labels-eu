@@ -95,7 +95,6 @@ In adults the dose should be reduced from 400 to 300 mg or from 600 to 400 mg, o
 
 Haematological adverse reactions
 Dose reduction or treatment interruption for severe neutropenia and thrombocytopenia are recommended as indicated in the table below.
-
 Dose adjustments for neutropenia and thrombocytopenia:
 
 | HES/CEL (starting dose 100 mg) | ANC < 1.0 x 109/l and/or platelets < 50 x 109/l | 1. Stop Glivec until ANC ≥ 1.5 x 109/l and platelets ≥ 75 x 109/l. 2. Resume treatment with Glivec at previous dose (i.e. before severe adverse reaction). |
@@ -120,6 +119,7 @@ Hepatic insufficiency
 Imatinib is mainly metabolised through the liver.
 Patients with mild, moderate or severe liver dysfunction should be given the minimum recommended dose of 400 mg daily.
 The dose can be reduced if not tolerated (see sections 4.4, 4.8 and 5.2).
+
 Liver dysfunction classification:
 
 | Liver dysfunction | Liver function tests |
