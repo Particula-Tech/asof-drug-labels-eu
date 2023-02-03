@@ -29,7 +29,7 @@ Efficacy Parameter HALAVEN TPC
 
 0.8 Number of Events 386 203
 0.7 Median (months) 13.2 10.5
-0.6 Physician’s Choice Treatment of Hazard Ratio (95% CI)a 0.805 (0.677, 0.958)
+0.6 Physician’s ChoiceTreatment of Hazard Ratio (95% CI)a 0.805 (0.677, 0.958)
 0.5 (TPC) Nominal P value 0.014b
 
 (log rank)
@@ -62,15 +62,14 @@ Study 301 - Overall Survival (ITT Population)
 Efficacy Parameter OS in ITT Population
 
 1.0
-HALAVEN Capecitabine
 
-0.9 HALAVEN (n=554) (n=548)
+0.9 HALAVEN HALAVEN (n=554) Capecitabine (n=548)
 0.8 Number of Events 446 459
 0.7 Median (months) 15.9 14.5
 0.6 Capecitabine Hazard Ratio (95% CI)a 0.879 (0.770, 1.003)
-P value (log rank) 0.056b
+0.5 P value (log rank) 0.056b
 
-0.5 aCox proportional hazard 0.4 bStratified by geographic region, HER2/neu status
+aCox proportional hazard 0.4 bStratified by geographic region, HER2/neu status
 
 0.3
 0.2
