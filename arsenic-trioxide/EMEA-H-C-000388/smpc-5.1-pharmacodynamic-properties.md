@@ -52,17 +52,16 @@ The median age in the single centre study was 33 years (age range 9 to 75).
 The median age in the multicentre study was 40 years (age range 5 to 73).
 
 The results are summarised in the table 4 below.
+
 Table 4
 
-Single centre trial Multicentre trial
-N=12 N=40
-TRISENOX dose, mg/kg/day 0.16 (0.06 – 0.20) 0.15
-(median, range)
-Complete remission 11 (92 %) 34 (85 %)
-Time to bone marrow 32 days 35 days
-remission (median)
-Time to CR (median) 54 days 59 days
-18-Month survival 67 % 66 %
+|  | Single centre trial N=12 | Multicentre trial N=40 |
+| --- | --- | --- |
+| TRISENOX dose, mg/kg/day (median, range) | 0.16 (0.06 – 0.20) | 0.15 |
+| Complete remission | 11 (92 %) | 34 (85 %) |
+| Time to bone marrow remission (median) | 32 days | 35 days |
+| Time to CR (median) | 54 days | 59 days |
+| 18-Month survival | 67 % | 66 % |
 
 The single institution study included 2 paediatric patients (< 18 years old), both of whom achieved CR.
 The multicentre trial included 5 paediatric patients (< 18 years old), 3 of whom achieved CR.

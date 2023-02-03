@@ -17,6 +17,7 @@ AsV is present in plasma only at relatively low levels.
 
 In vitro enzymatic studies with human liver microsomes revealed that arsenic trioxide has no inhibitory activity on substrates of the major cytochrome P450 enzymes such as 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, 3A4/5, 4A9/11.
 Substances that are substrates for these P450 enzymes are not expected to interact with TRISENOX.
+
 Elimination
 Approximately 15 % of the administered TRISENOX dose is excreted in the urine as unchanged AsIII.
 The methylated metabolites of AsIII (MMAV, DMAV) are primarily excreted in the urine.

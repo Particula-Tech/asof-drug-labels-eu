@@ -7,7 +7,6 @@ Leucocytosis occurred in 50 % of patients with relapsed/refractory APL, as deter
 
 Serious adverse reactions were common (1-10 %) and not unexpected in the relapsed/refractory population.
 Those serious adverse reactions attributed to arsenic trioxide included APL differentiation syndrome (3), leucocytosis (3), prolonged QT interval (4, 1 with torsade de pointes), atrial fibrillation/atrial flutter (1), hyperglycaemia (2) and a variety of serious adverse reactions related to haemorrhage, infections, pain, diarrhoea, nausea.
-
 In general, treatment-emergent adverse events tended to decrease over time, in relapsed/refractory APL patients perhaps accounted for by amelioration of the underlying disease process.
 Patients tended to tolerate consolidation and maintenance treatment with less toxicity than in induction.
 This is probably due to the confounding of adverse events by the uncontrolled disease process early on in the treatment course and the myriad concomitant medicinal products required to control symptoms and morbidity.
@@ -64,13 +63,13 @@ Paraesthesia Very Common Common
 Dizziness Very Common Not known
 Headache Very Common Not known
 Convulsion Common Not known
+All grades Grades ≥ 3
 Encephalopathy, Wernicke Not known Not known
 
 encephalopathy
 Eye disorders
 
 Vision blurred Common Not known
-All grades Grades ≥ 3
 
 Cardiac disorders
 
@@ -136,14 +135,15 @@ Electrocardiogram QT prolonged Very Common Common
 Hyperbilirubinaemia Common Common
 Blood creatinine increased Common Not known
 Weight increased Common Not known
-Gamma-glutamyltransferase increased* Not known* Not known*
 
+Gamma-glutamyltransferase increased* Not known* Not known*
 *In the CALGB study C9710, 2 cases of grade ≥3 increased GGT were reported out of the 200 patients who received TRISENOX consolidation cycles (cycle 1 and cycle 2) versus none in the control arm.
+
 Description of selected adverse reactions
 
 Differentiation syndrome
 During TRISENOX treatment, 14 of the 52 patients in the APL studies in the relapsed setting had one or more symptoms of APL differentiation syndrome, characterised by fever, dyspnoea, weight gain, pulmonary infiltrates and pleural or pericardial effusions, with or without leucocytosis (see section 4.4).
-Twenty-seven patients had leucocytosis (WBC ≥ 10 x 103/μl) during induction, 4 of whom had values above 100,000/μl.
+Twenty-seven patients had leucocytosis (WBC ≥ 10 x 103/µl) during induction, 4 of whom had values above 100,000/µl.
 Baseline white blood cell (WBC) counts did not correlate with development of leucocytosis on study, and WBC counts during consolidation therapy were not as high as during induction.
 In these studies, leucocytosis was not treated with chemotherapeutic medicinal products.
 Medicinal products that are used to lower the white blood cell count often exacerbate the toxicities associated with leucocytosis, and no standard approach has proven effective.
@@ -174,7 +174,6 @@ Forty-four per cent of relapsed/refractory APL patients experienced symptoms tha
 Hepatotoxicity (grade 3-4)
 In newly diagnosed patients with low to intermediate risk APL 63.2 % developed grade 3 or 4 hepatic toxic effects during induction or consolidation treatment with TRISENOX in combination with ATRA.
 However, toxic effects resolved with temporary discontinuation of either TRISENOX, ATRA or both (see section 4.4).
-
 Haematological and gastrointestinal toxicity
 In newly diagnosed patients with low to intermediate risk APL, gastrointestinal toxicity, grade 3-4 neutropenia and grade 3 or 4 thrombocytopenia occurred, however these were 2.2 times less frequent in patients treated with TRISENOX in combination with ATRA compared to patients treated with ATRA + chemotherapy.
 

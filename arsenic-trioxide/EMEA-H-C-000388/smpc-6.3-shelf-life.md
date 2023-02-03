@@ -4,7 +4,7 @@ TRISENOX 1 mg/ml concentrate for solution for infusion
 4 years.
 
 TRISENOX 2 mg/ml concentrate for solution for infusion
-3 years.
+4 years.
 
 After dilution in intravenous solutions, TRISENOX is chemically and physically stable for 24 hours at 15-30 °C and 72 hours at refrigerated (2-8 °C) temperatures.
 From a microbiological point of view, the product must be used immediately.
