@@ -8,9 +8,9 @@ Dapagliflozin is a highly potent (Ki: 0.55 nM), selective and reversible inhibit
 
 Inhibition of SGLT2 by dapagliflozin reduces reabsorption of glucose from the glomerular filtrate in the proximal renal tubule with a concomitant reduction in sodium reabsorption leading to urinary excretion of glucose and osmotic diuresis.
 Dapagliflozin therefore increases the delivery of sodium to the distal tubule which increases tubuloglomerular feedback and reduces intraglomerular pressure.
-This combined with osmotic diuresis leads to a reduction in volume overload, reduced blood pressure, and lower preload and afterload, which may have beneficial effects on cardiac remodelling and preserve renal function.
+This combined with osmotic diuresis leads to a reduction in volume overload, reduced blood pressure, and lower preload and afterload, which may have beneficial effects on cardiac remodelling and diastolic function, and preserve renal function.
+The cardiac and renal benefits of dapagliflozin are not solely dependent on the blood glucose-lowering effect and not limited to patients with diabetes as demonstrated in the DAPA-HF, DELIVER and DAPA-CKD studies.
 Other effects include an increase in haematocrit and reduction in body weight.
-The cardiac and renal benefits of dapagliflozin are not solely dependent on the blood glucose-lowering effect and not limited to patients with diabetes as demonstrated in the DAPA-HF and DAPA-CKD studies.
 
 Dapagliflozin improves both fasting and post-prandial plasma glucose levels by reducing renal glucose reabsorption leading to urinary glucose excretion.
 This glucose excretion (glucuretic effect) is observed after the first dose, is continuous over the 24-hour dosing interval and is sustained for the duration of treatment.
@@ -35,7 +35,6 @@ The increase in urinary volume was associated with a small and transient increas
 
 Urinary uric acid excretion was also increased transiently (for 3-7 days) and accompanied by a sustained reduction in serum uric acid concentration.
 At 24 weeks, reductions in serum uric acid concentrations ranged from -48.3 to -18.3 micromoles/L (-0.87 to -0.33 mg/dL).
-
 Clinical efficacy and safety
 
 Type 2 diabetes mellitus
@@ -49,6 +48,7 @@ Fifty percent (50%) had mild renal impairment and 11% had moderate renal impairm
 Fifty-one percent (51%) of the subjects were men, 84% were White, 8% were Asian, 4% were Black and 4% were of other racial groups.
 Eighty-one percent (81%) of the subjects had a body mass index (BMI) ≥27.
 Furthermore, two 12-week, placebo-controlled studies were conducted in patients with inadequately controlled type 2 diabetes and hypertension.
+
 A cardiovascular outcomes study (DECLARE) was conducted with dapagliflozin 10 mg compared with placebo in 17,160 patients with type 2 diabetes mellitus with or without established cardiovascular disease to evaluate the effect on cardiovascular and renal events.
 
 Glycaemic control
@@ -99,6 +99,7 @@ At week 104, adjusted mean change from baseline in HbA1c was -0.32% for dapaglif
 At week 208, adjusted mean change from baseline in HbA1c was -0.10% for dapagliflozin and 0.20% for glipizide.
 At 52, 104 and 208 weeks, a significantly lower proportion of subjects in the group treated with dapagliflozin (3.5%, 4.3% and 5.0%, respectively) experienced at least one event of hypoglycaemia compared to the group treated with glipizide (40.8%, 47.0% and 50.0%, respectively).
 The proportion of subjects remaining in the study at week 104 and week 208 was 56.2% and 39.7% for the group treated with dapagliflozin and 50.0% and 34.6% for the group treated with glipizide.
+
 Table 3.
 Results at week 52 (LOCFa) in an active-controlled study comparing dapagliflozin to glipizide as add-on to metformin
 
@@ -492,6 +493,7 @@ In addition, dapagliflozin reduced the new onset of sustained albuminuria (HR 0.
 
 Heart failure
 
+DAPA-HF study: Heart failure with reduced ejection fraction (LVEF ≤40%)
 Dapagliflozin And Prevention of Adverse outcomes in Heart Failure (DAPA-HF) was an international, multicentre, randomised, double-blind, placebo-controlled study in patients with heart failure (New York Heart Association [NYHA] functional class II-IV) with reduced ejection fraction (left ventricular ejection fraction [LVEF] ≤40%) to determine the effect of dapagliflozin compared with placebo, when added to background standard of care therapy, on the incidence of cardiovascular death and worsening heart failure.
 
 Of 4,744 patients, 2,373 were randomised to dapagliflozin 10 mg and 2,371 to placebo and followed for a median of 18 months.
@@ -531,7 +533,7 @@ The treatment benefit of dapagliflozin over placebo on the primary endpoint was 
 Patient reported outcome – heart failure symptoms
 The treatment effect of dapagliflozin on heart failure symptoms was assessed by the Total Symptom Score of the Kansas City Cardiomyopathy Questionnaire (KCCQ-TSS), which quantifies heart failure symptom frequency and severity, including fatigue, peripheral oedema, dyspnoea and orthopnoea.
 The score ranges from 0 to 100, with higher scores representing better health status.
-Treatment with dapagliflozin resulted in a statistically significant and clinically meaningful benefit over placebo in heart failure symptoms, as measured by change from baseline at Month 8 in the KCCQ-TSS, (Win Ratio 1.18 [95% CI 1.11, 1.26]; p < 0.0001).
+Treatment with dapagliflozin resulted in a statistically significant and clinically meaningful benefit over placebo in heart failure symptoms, as measured by change from baseline at month 8 in the KCCQ-TSS, (Win Ratio 1.18 [95% CI 1.11, 1.26]; p < 0.0001).
 Both symptom frequency and symptom burden contributed to the results.
 Benefit was seen both in improving heart failure symptoms and in preventing deterioration of heart failure symptoms.
 
@@ -585,6 +587,71 @@ f p-values are nominal.
 Nephropathy
 There were few events of the renal composite endpoint (confirmed sustained ≥50% eGFR decrease, ESKD, or renal death); the incidence was 1.2% in the dapagliflozin group and 1.6% in the placebo group.
 
+DELIVER study: Heart failure with left ventricular ejection fraction > 40%
+Dapagliflozin Evaluation to Improve the LIVEs of Patients with PReserved Ejection Fraction Heart Failure (DELIVER) was an international, multicentre, randomised, double-blind, placebo-controlled study in patients aged ≥40 years with heart failure (NYHA class II-IV) with LVEF > 40% and evidence of structural heart disease, to determine the effect of dapagliflozin compared with placebo on the incidence of cardiovascular death and worsening heart failure.
+
+Of 6,263 patients, 3,131 were randomised to dapagliflozin 10 mg and 3,132 to placebo and followed for a median of 28 months.
+The study included 654 (10%) subacute heart failure patients (defined as randomised during hospitalisation for heart failure or within 30 days of discharge).
+The mean age of the study population was 72 years and 56% were male.
+
+At baseline, 75% patients were classified as NYHA class II, 24% class III and 0.3% class IV.
+Median LVEF was 54%, 34% of the patients had LVEF ≤49%, 36% had LVEF 50-59% and 30% had
+LVEF ≥60%.
+In each treatment group, 45% had a history of type 2 diabetes mellitus.
+Baseline therapy included ACEi/ARB/ARNI (77%), beta-blockers (83%) diuretics (98%) and MRA (43%).
+
+The mean eGFR was 61 mL/min/1.73 m2, 49% of patients had eGFR < 60mL/min/1.73 m2, 23% had eGFR < 45 mL/min/1.73 m2, and 3% had eGFR < 30 mL/min/1.73 m2.
+
+Dapagliflozin was superior to placebo in reducing the incidence of the primary composite endpoint of cardiovascular death, hospitalisation for heart failure or urgent heart failure visit (HR 0.82
+[95% CI 0.73, 0.92]; p=0.0008) (Figure 5).
+
+Figure 5: Time to first occurrence of the composite of cardiovascular death, hospitalisation for heart failure or urgent heart failure visit
+
+Placebo
+
+Dapagliflozin
+
+Dapagliflozin vs. Placebo
+HR (95% CI): 0.82 (0.73, 0.92) P-value: 0.0008
+
+Months from randomisation
+Patients at risk
+Dapagliflozin:
+Placebo:
+
+An urgent heart failure visit was defined as an urgent, unplanned, assessment by a physician, e.g. in an Emergency Department, and requiring treatment for worsening heart failure (other than just an increase in oral diuretics).
+Patients at risk is the number of patients at risk at the beginning of the period.
+
+Figure 6 presents the contribution of the three components of the primary composite endpoint to the treatment effect.
+Figure 6: Treatment effects for the primary composite endpoint and its components
+
+An urgent heart failure visit was defined as an urgent, unplanned, assessment by a physician, e.g. in an Emergency Department, and requiring treatment for worsening heart failure (other than just an increase in oral diuretics).
+The number of first events for the single components are the actual number of first events for each component and does not add up to the number of events in the composite endpoint.
+Event rates are presented as the number of subjects with event per 100 patient years of follow-up.
+Cardiovascular death, here presented as a component of the primary endpoint, was also tested under formal Type 1 error control as a secondary endpoint.
+
+Dapagliflozin was superior to placebo in reducing the total number of heart failure events (defined as first and recurrent hospitalisation for heart failure or urgent heart failure visits) and cardiovascular death; there were 815 events in the dapagliflozin group versus 1057 events in the placebo group (Rate Ratio 0.77 [95% CI 0.67, 0.89]; p=0.0003).
+
+The treatment benefit of dapagliflozin over placebo on the primary endpoint was observed across subgroups of patients with LVEF ≤49%, 50–59%, and ≥60%.
+Effects were also consistent across other key subgroups categorised by e.g. age, gender, NYHA class, NT-proBNP level, subacute status, and type 2 diabetes mellitus status.
+
+Patient reported outcome – heart failure symptoms
+Treatment with dapagliflozin resulted in a statistically significant benefit over placebo in heart failure symptoms, as measured by change from baseline at month 8 in the KCCQ-TSS, (Win Ratio 1.11
+[95% CI 1.03, 1.21]; p=0.0086).
+Both symptom frequency and symptom burden contributed to the results.
+
+In responder analyses, the proportion of patients who experienced a moderate (≥5 points) or large
+(≥14 points) deterioration on the KCCQ-TSS from baseline at 8 months was lower in the dapagliflozin treatment group; 24.1% of patients on dapagliflozin versus 29.1% on placebo experienced a moderate deterioration (Odds Ratio 0.78 [95% CI 0.64, 0.95]) and 13.5% of patients on dapagliflozin versus 18.4% on placebo experienced a large deterioration (Odds Ratio 0.70
+[95% CI 0.55, 0.88]).
+The proportion of patients with a small to moderate improvement (≥13 points) or a large improvement (≥17 points) did not differ between treatment groups.
+
+Heart failure across DAPA-HF and DELIVER studies
+In a pooled analysis of DAPA-HF and DELIVER, the HR for dapagliflozin versus placebo on the composite endpoint of cardiovascular death, hospitalisation for heart failure or urgent heart failure visit was 0.78 (95% CI 0.72, 0.85), p < 0.0001.
+The treatment effect was consistent across the LVEF range, without attenuation of effect by LVEF.
+
+In a pre-specified subject level pooled analysis of the DAPA-HF and DELIVER studies, dapagliflozin compared with placebo reduced the risk of cardiovascular death (HR 0.85 [95% CI 0.75, 0.96], p=0.0115).
+Both studies contributed to the effect.
+
 Chronic kidney disease
 
 The Study to Evaluate the Effect of Dapagliflozin on Renal Outcomes and Cardiovascular Mortality in Patients with Chronic Kidney Disease (DAPA-CKD) was an international, multicentre, randomised, double-blind, placebo-controlled study in patients with chronic kidney disease (CKD) with eGFR ≥25 to ≤75 mL/min/1.73 m2 and albuminuria (UACR ≥200 and ≤5000 mg/g) to determine the effect of dapagliflozin compared with placebo, when added to background standard of care therapy, on the incidence of the composite endpoint of ≥50% sustained decline in eGFR, end-stage kidney disease (ESKD) (defined as sustained eGFR < 15 mL/min/1.73 m2, chronic dialysis treatment or receiving a renal transplant), cardiovascular or renal death.
@@ -601,9 +668,8 @@ Patients were on standard of care (SOC) therapy; 97.0% of patients were treated 
 
 The study was stopped early for efficacy prior to the planned analysis based on a recommendation by the independent Data Monitoring Committee.
 Dapagliflozin was superior to placebo in preventing the primary composite endpoint of ≥50% sustained decline in eGFR, reaching end-stage kidney disease, cardiovascular or renal death.
-Based on the Kaplan-Meier plot for the time to first occurrence of the primary composite endpoint, the treatment effect was evident beginning at 4 months and was maintained through the end of study (Figure 5).
-
-Figure 5: Time to first occurrence of the primary composite endpoint, ≥50% sustained decline in eGFR, end-stage kidney disease, cardiovascular or renal death
+Based on the Kaplan-Meier plot for the time to first occurrence of the primary composite endpoint, the treatment effect was evident beginning at 4 months and was maintained through the end of study (Figure 7).
+Figure 7: Time to first occurrence of the primary composite endpoint, ≥50% sustained decline in eGFR, end-stage kidney disease, cardiovascular or renal death
 
 Placebo
 
@@ -620,8 +686,8 @@ Patients at risk is the number of patients at risk at the beginning of the perio
 
 All four components of the primary composite endpoint individually contributed to the treatment effect.
 Dapagliflozin also reduced the incidence of the composite endpoint of ≥50% sustained decline in eGFR, end-stage kidney disease or renal death and the composite endpoint of cardiovascular death and hospitalisation for heart failure.
-Treatment with dapagliflozin improved overall survival in chronic kidney disease patients with a significant reduction in all-cause mortality (Figure 6).
-Figure 6: Treatment effects for the primary and secondary composite endpoints, their individual components, and all-cause mortality
+Treatment with dapagliflozin improved overall survival in chronic kidney disease patients with a significant reduction in all-cause mortality (Figure 8).
+Figure 8: Treatment effects for the primary and secondary composite endpoints, their individual components, and all-cause mortality
 
 The number of first events for the single components are the actual number of first events for each component and does not add up to the number of events in the composite endpoint.
 Event rates are presented as the number of subjects with event per 100 patient years of follow-up.

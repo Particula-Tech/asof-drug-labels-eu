@@ -10,12 +10,8 @@ When dapagliflozin is used in combination with insulin or an insulin secretagogu
 Heart failure
 The recommended dose is 10 mg dapagliflozin once daily.
 
-In the DAPA-HF study, dapagliflozin was administered in conjunction with other heart failure therapies (see section 5.1).
-
 Chronic kidney disease
 The recommended dose is 10 mg dapagliflozin once daily.
-
-In the DAPA-CKD study, dapagliflozin was administered in conjunction with other chronic kidney disease therapies (see section 5.1).
 
 Special populations
 Renal impairment
@@ -37,6 +33,7 @@ No dose adjustment is recommended based on age.
 Paediatric population
 No dose adjustment is required for the treatment of type 2 diabetes mellitus in children aged 10 years and above (see sections 5.1 and 5.2).
 No data are available for children below 10 years of age.
+
 The safety and efficacy of dapagliflozin for the treatment of heart failure or for the treatment of chronic kidney disease in children < 18 years have not yet been established.
 No data are available.
 

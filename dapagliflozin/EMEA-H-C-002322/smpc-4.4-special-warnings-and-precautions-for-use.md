@@ -1,5 +1,9 @@
 # 4.4 Special warnings and precautions for use
 
+General
+
+Dapagliflozin should not be used in patients with type 1 diabetes mellitus (see “Diabetic ketoacidosis” in section 4.4).
+
 Renal impairment
 
 Due to limited experience, it is not recommended to initiate treatment with dapagliflozin in patients with GFR < 25 mL/min.
@@ -28,9 +32,9 @@ Diabetic ketoacidosis
 
 Rare cases of diabetic ketoacidosis (DKA), including life-threatening and fatal cases, have been reported in patients treated with sodium-glucose co-transporter 2 (SGLT2) inhibitors, including dapagliflozin.
 In a number of cases, the presentation of the condition was atypical with only moderately increased blood glucose values, below 14 mmol/L (250 mg/dL).
+
 The risk of diabetic ketoacidosis must be considered in the event of non-specific symptoms such as nausea, vomiting, anorexia, abdominal pain, excessive thirst, difficulty breathing, confusion, unusual fatigue or sleepiness.
 Patients should be assessed for ketoacidosis immediately if these symptoms occur, regardless of blood glucose level.
-
 In patients where DKA is suspected or diagnosed, dapagliflozin treatment should be stopped immediately.
 
 Treatment should be interrupted in patients who are hospitalised for major surgical procedures or acute serious medical illnesses.
@@ -67,10 +71,13 @@ Elderly patients may be at a greater risk for volume depletion and are more like
 
 Elderly patients are more likely to have impaired renal function, and/or to be treated with anti-hypertensive medicinal products that may cause changes in renal function such as angiotensin-converting enzyme inhibitors (ACE-I) and angiotensin II type 1 receptor blockers (ARB).
 The same recommendations for renal function apply to elderly patients as to all patients (see sections 4.2, 4.4, 4.8 and 5.1).
-
 Cardiac failure
 
 Experience with dapagliflozin in NYHA class IV is limited.
+
+Infiltrative cardiomyopathy
+
+Patients with infiltrative cardiomyopathy have not been studied.
 
 Chronic kidney disease
 
