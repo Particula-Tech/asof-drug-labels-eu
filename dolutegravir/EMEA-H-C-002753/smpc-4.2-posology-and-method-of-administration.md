@@ -100,7 +100,8 @@ Table 1 Paediatric dose recommendations for dispersible tablets
 | Body weight (kg) | Dose |
 | --- | --- |
 | 3 to less than 6 | 5 mg once daily |
-| 6 to less than 10 < 6 months ≥ 6 months | 10 mg once daily 15 mg once daily |
+| 6 to less than 10 < 6 months | 10 mg once daily |
+| ≥ 6 months | 15 mg once daily |
 | 10 to less than 14 | 20 mg once daily |
 | 14 to less than 20 | 25 mg once daily |
 | 20 or greater | 30 mg once daily |
@@ -110,8 +111,7 @@ Table 2 Alternative paediatric dose recommendations for dispersible tablets
 | Body weight (kg) | Dose |
 | --- | --- |
 | 3 to less than 6 | --- |
-| 6 to less than 10 < 6 months | 5 mg twice daily |
-| ≥ 6 months | 10 mg twice daily |
+| 6 to less than 10 < 6 months ≥ 6 months | 5 mg twice daily 10 mg twice daily |
 | 10 to less than 14 | 10 mg twice daily |
 | 14 to less than 20 | 15 mg twice daily |
 | 20 or greater | 15 mg twice daily |

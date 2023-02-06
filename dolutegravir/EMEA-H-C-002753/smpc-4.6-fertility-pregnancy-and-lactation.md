@@ -17,16 +17,20 @@ If a pregnancy is confirmed in the first trimester while on dolutegravir, the be
 Data analysed from the Antiretroviral Pregnancy Registry do not indicate an increased risk of major birth defects in over 600 women exposed to dolutegravir during pregnancy but are currently insufficient to address the risk of neural tube defects.
 
 In animal reproductive toxicity studies, no adverse development outcomes, including neural tube defects, were identified (see section 5.3).
-Dolutegravir was shown to cross the placenta in animals.
 
-More than 1000 outcomes from exposure during second and third trimester of pregnancy indicate no evidence of increased risk of foeto/neonatal toxicity.
+More than 1000 outcomes from exposure during second and third trimester of pregnancy indicate no evidence of increased risk of foetal/neonatal toxicity.
 Dolutegravir may be used during the second and third trimester of pregnancy when the expected benefit justifies the potential risk to the foetus.
 
+Dolutegravir crosses the placenta in humans.
+In pregnant women living with HIV, the median foetal umbilical cord concentration of dolutegravir was approximately 1.3-fold greater compared with the maternal peripheral plasma concentration.
+
+There is insufficient information on the effects of dolutegravir on neonates.
 Breast-feeding
 
-Dolutegravir is excreted in human milk in small amounts.
+Dolutegravir is excreted in human milk in small amounts (a median dolutegravir breast milk to maternal plasma ratio of 0.033 has been shown).
 There is insufficient information on the effects of dolutegravir in neonates/infants.
-It is recommended that HIV infected women do not breast-feed their infants under any circumstances in order to avoid transmission of HIV.
+
+It is recommended that women living with HIV do not breast-feed their infants in order to avoid transmission of HIV.
 
 Fertility
 

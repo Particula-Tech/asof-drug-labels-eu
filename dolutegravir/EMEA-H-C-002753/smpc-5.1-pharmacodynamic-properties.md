@@ -5,13 +5,13 @@ Pharmacotherapeutic group: Antivirals for systemic use, other antivirals, ATC co
 Mechanism of action
 
 Dolutegravir inhibits HIV integrase by binding to the integrase active site and blocking the strand transfer step of retroviral Deoxyribonucleic acid (DNA) integration which is essential for the HIV replication cycle.
-
 Pharmacodynamic effects
 
 Antiviral activity in cell culture
 The IC50 for dolutegravir in various labstrains using PBMC was 0.5 nM, and when using MT-4 cells it ranged from 0.7-2 nM.
 Similar IC50s were seen for clinical isolates without any major difference between subtypes; in a panel of 24 HIV-1 isolates of clades A, B, C, D, E, F and G and group O the mean IC50 value was 0.2 nM (range 0.02-2.14).
 The mean IC50 for 3 HIV-2 isolates was 0.18 nM (range 0.09-0.61).
+
 Antiviral activity in combination with other antiviral agents
 No antagonistic effects in vitro were seen with dolutegravir and other antiretrovirals tested: stavudine, abacavir, efavirenz, nevirapine, lopinavir, amprenavir, enfuvirtide, maraviroc and raltegravir.
 In addition, no antagonistic effects were seen for dolutegravir and adefovir, and ribavirin had no apparent effect on dolutegravir activity.
@@ -44,7 +44,6 @@ A clinically relevant phenotypic cut-off value (FC vs wild type virus) has not b
 
 Seven hundred and five raltegravir resistant isolates from raltegravir experienced patients were analyzed for susceptibility to dolutegravir.
 Dolutegravir has a less than or equal to 10 FC against 94% of the 705 clinical isolates.
-
 Resistance in vivo
 In previously untreated patients receiving dolutegravir + 2 NRTIs in Phase IIb and Phase III, no development of resistance to the integrase class, or to the NRTI class was seen (n=1118 follow-up of 48-96 weeks).
 In previously untreated patients receiving dolutegravir + lamivudine in the GEMINI studies through week 144 (n=716), no development of resistance to the integrase class, or to the NRTI class was seen.
@@ -79,7 +78,6 @@ The efficacy of dolutegravir in combination with lamivudine in adults is support
 
 In SPRING-2, 822 adults were randomized and received at least one dose of either dolutegravir 50 mg once daily or raltegravir (RAL) 400 mg twice daily, both administered with either ABC/3TC or TDF/FTC.
 At baseline, median patient age was 36 years, 14% were female, 15% non-white, 11% had hepatitis B and/or C co-infection and 2% were CDC Class C, these characteristics were similar between treatment groups.
-
 In SINGLE, 833 subjects were randomized and received at least one dose of either dolutegravir 50 mg once daily with fixed-dose abacavir-lamivudine (Dolutegravir + ABC/3TC) or fixed-dose efavirenz-tenofovir-emtricitabine (EFV/TDF/FTC).
 At baseline, median patient age was 35 years, 16% were female, 32% non-white, 7% had hepatitis C co-infection and 4% were CDC Class C, these characteristics were similar between treatment groups.
 
@@ -152,6 +150,7 @@ Table 6 Response (<50 cps/ml, snapshot) in GEMINI 1 + 2, pooled data at Week 48.
 | a adjusted for BL stratification factors: Plasma HIV-1 RNA (≤100,000 cps/mL vs. >100,000 cps/mL) and CD4+ cell count (≤200 cells/mm3 vs. >200 cells/mm3). b Confirmed plasma HIV-1 RNA levels to ≥200 cps/mL after prior confirmed suppression to <200 cps/mL. |  |  |
 
 At 96 weeks and at 144 weeks in the GEMINI studies, the lower bound of the 95% confidence interval for the adjusted treatment difference of proportion of subjects with HIV-1 RNA <50 copies/mL (snapshot) was greater than the non-inferiority margin of -10%, for the individual studies as well as pooled analysis, see Table 7.
+
 Table 7 Virologic Outcomes (snapshot algorithm) in GEMINI 1 + 2, pooled data at Weeks 96 and 144
 
 |  | GEMINI-1 and GEMINI-2 Pooled Data* |  |  |  |
@@ -173,10 +172,10 @@ Through 96 weeks in SPRING-2 and FLAMINGO and 144 weeks in SINGLE, no cases of t
 For the comparator arms, the same lack of treatment emergent resistance was also the case for patients treated with darunavir/r in FLAMINGO.
 In SPRING-2, four patients in the RAL-arm failed with major NRTI mutations and one with raltegravir resistance; in SINGLE, six patients in the EFV/TDF/FTC-arm failed with mutations associated with NNRTI resistance, and one developed a major NRTI mutation.
 Through 144 weeks in the GEMINI-1 and GEMINI-2 studies, no cases of emergent resistance to the integrase- or NRTI-class were seen in either the Dolutegravir+3TC or comparator Dolutegravir+TDF/FTC arms.
-
 Patients with prior treatment failure, but not exposed to the integrase class
 In the international multicentre, double-blind SAILING study (ING111762), 719 HIV-1 infected, antiretroviral therapy (ART)-experienced adults were randomized and received either dolutegravir 50 mg once daily or raltegravir 400 mg twice daily with investigator selected background regimen consisting of up to 2 agents (including at least one fully active agent).
 At baseline, median patient age was 43 years, 32% were female, 50% non-white, 16% had hepatitis B and/or C co-infection, and 46% were CDC Class C. All patients had at least two class ART resistance, and 49% of subjects had at least 3-class ART resistance at baseline.
+
 Week 48 outcomes (including outcomes by key baseline covariates) for SAILING are shown in Table 8.
 
 Table 8 Response in SAILING at 48 Weeks (Snapshot algorithm, <50 copies/mL)
@@ -192,8 +191,7 @@ Table 8 Response in SAILING at 48 Weeks (Snapshot algorithm, <50 copies/mL)
 | Baseline CD4+ (cells/ mm3) |  |  |
 | <50 50 to <200 200 to <350 ≥350 | 33 / 62 (53%) 77 / 111 (69%) 64 / 82 (78%) 77 / 99 (78%) | 30 / 59 (51%) 76 / 125 (61%) 53 / 79 (67%) 71 / 98 (72%) |
 | Background Regimen |  |  |
-| Genotypic Susceptibility Score* <2 Genotypic Susceptibility Score* =2 Use of DRV in background regimen No DRV use DRV use with primary PI mutations DRV use without primary PI mutations | 155 / 216 (72%) 96 / 138 (70%) | 129 / 192 (67%) 101 / 169 (60%) |
-|  | 143 / 214 (67%) 58 / 68 (85%) 50 / 72 (69%) | 126 / 209 (60%) 50 / 75 (67%) 54 / 77 (70%) |
+| Genotypic Susceptibility Score* <2 Genotypic Susceptibility Score* =2 Use of DRV in background regimen No DRV use DRV use with primary PI mutations DRV use without primary PI mutations | 155 / 216 (72%) 96 / 138 (70%) 143 / 214 (67%) 58 / 68 (85%) 50 / 72 (69%) | 129 / 192 (67%) 101 / 169 (60%) 126 / 209 (60%) 50 / 75 (67%) 54 / 77 (70%) |
 | Gender |  |  |
 | Male | 172 / 247 (70%) | 156 / 238 (66%) |
 | Female | 79 / 107 (74%) | 74 / 123 (60%) |
@@ -249,7 +247,6 @@ When excluding patients who stopped therapy for non-efficacy reasons, and those 
 
 The response was lower when the Q148-mutation was present at baseline, and in particular in the presence of ≥2 secondary mutations, Table 10.
 The overall susceptibility score (OSS) of the optimised background regimen (OBR) was not associated with Week 24 response, nor with the week 48 response.
-
 Table 10 Response by baseline Resistance, VIKING-3.
 VO Population (HIV-1 RNA <50 c/mL, Snapshot algorithm)
 
@@ -308,14 +305,61 @@ In the presence of integrase class-resistance (VIKING-3 study) the following mut
 No relevant effects were seen on the QTc interval with doses exceeding the clinical dose by approximately three fold.
 
 In SPRING-2, 822 adults were randomized and received at least one dose of either dolutegravir 50 mg film-coated tablets once daily or raltegravir (RAL) 400 mg twice daily, both administered with either ABC/3TC or TDF/FTC.
-
 In SINGLE, 833 subjects were randomized and received at least one dose of either dolutegravir 50 mg film-coated tablets once daily with fixed-dose abacavir-lamivudine (Dolutegravir + ABC/3TC) or fixed-dose efavirenz-tenofovir-emtricitabine (EFV/TDF/FTC).
 
 In FLAMINGO (ING114915), an open-label, randomised and active-controlled study, 484 HIV-1 infected antiretroviral naïve adults received one dose of either dolutegravir 50 mg film-coated tablets once daily (n=242) or darunavir/ritonavir (DRV/r) 800 mg/100 mg once daily (n=242), both administered with either ABC/3TC or TDF/FTC.
 
 In GEMINI-1 (204861) and GEMINI-2 (205543), identical 148-week, randomised, double-blind studies, 1433 adult HIV-1 infected antiretroviral naïve subjects were randomised to either a two-drug regimen of dolutegravir 50 mg film-coated tablets plus lamivudine 300 mg once daily, or to a three-drug regimen of dolutegravir 50 mg film-coated tablets once daily with fixed dose TDF/FTC.
 
+|  | Dolutegravir + 3TC (N=716) n/N (%) | Dolutegravir + TDF/FTC (N=717) n/N (%) |
+| --- | --- | --- |
+| All patients | 655/716 (91) | 669/717 (93) |
+|  | adjusted diff -1.7% (CI95-4.4, 1.1) a |  |
+| By BL HIV-1 RNA |  |  |
+| ≤100,000 cps/mL | 526/576 (91) | 531/564 (94) |
+| >100,000 cps/mL | 129/140 (92) | 138/153 (90) |
+| By CD4+ |  |  |
+| ≤200 c/ mm3 | 50/63 (79) | 51/55 (93) |
+| >200 c/ mm3 | 605/653 (93) | 618/662 (93) |
+| By HIV-1 subtype |  |  |
+| B | 424/467 (91) | 452/488 (93) |
+| Non-B | 231/249 (93) | 217/229 (95) |
+| Rebound up to week 48 b | 6 (<1) | 4 (<1) |
+| Mean change in CD4 count from baseline at Week 48, c/ mm3 | 224 | 217 |
+
+a adjusted for BL stratification factors: Plasma HIV-1 RNA (≤100,000 cps/mL vs. >100,000 cps/mL) and CD4+ cell count (≤200 cells/mm3 vs. >200 cells/mm3).
+b Confirmed plasma HIV-1 RNA levels to ≥200 cps/mL after prior confirmed suppression to <200 cps/mL.
+
 In the international multicentre, double-blind SAILING study (ING111762), 719 HIV-1 infected, antiretroviral therapy (ART)-experienced adults were randomized and received either dolutegravir 50 mg film-coated tablets once daily or raltegravir 400 mg twice daily with investigator selected background regimen consisting of up to 2 agents (including at least one fully active agent).
+
+|  | Dolutegravir 50 mg Once Daily + BR N=354§ | RAL 400 mg Twice Daily + BR N=361§ |
+| --- | --- | --- |
+| HIV-1 RNA <50 copies/mL | 71% | 64% |
+| Adjusted treatment difference‡ | 7.4% (95% CI: 0.7%, 14.2%) |  |
+| Virologic non-response | 20% | 28% |
+| HIV-1 RNA <50 copies/mL by baseline covariates |  |  |
+| Baseline Viral Load (copies/mL) |  |  |
+| ≤50,000 copies/mL >50,000 copies/mL | 186 / 249 (75%) 65 / 105 (62%) | 180 / 254 (71%) 50 / 107 (47%) |
+| Baseline CD4+ (cells/ mm3) |  |  |
+| <50 50 to <200 200 to <350 ≥350 | 33 / 62 (53%) 77 / 111 (69%) 64 / 82 (78%) 77 / 99 (78%) | 30 / 59 (51%) 76 / 125 (61%) 53 / 79 (67%) 71 / 98 (72%) |
+| Background Regimen |  |  |
+| Genotypic Susceptibility Score* <2 Genotypic Susceptibility Score* =2 Use of DRV in background regimen No DRV use DRV use with primary PI mutations DRV use without primary PI mutations | 155 / 216 (72%) 96 / 138 (70%) | 129 / 192 (67%) 101 / 169 (60%) |
+|  | 143 / 214 (67%) 58 / 68 (85%) 50 / 72 (69%) | 126 / 209 (60%) 50 / 75 (67%) 54 / 77 (70%) |
+| Gender |  |  |
+| Male | 172 / 247 (70%) | 156 / 238 (66%) |
+| Female | 79 / 107 (74%) | 74 / 123 (60%) |
+| Race |  |  |
+| White | 133 / 178 (75%) | 125 / 175 (71%) |
+| African-America/African Heritage/Other | 118 / 175 (67%) | 105 / 185 (57%) |
+| Age (years) |  |  |
+| <50 | 196 / 269 (73%) | 172 / 277 (62%) |
+| ≥50 | 55 / 85 (65%) | 58 / 84 (69%) |
+| HIV sub type |  |  |
+| Clade B | 173 / 241 (72%) | 159 / 246 (65%) |
+| Clade C | 34 / 55 (62%) | 29 / 48 (60%) |
+| Other† | 43 / 57 (75%) | 42 / 67 (63%) |
+| Mean increase in CD4+ T cell (cells/mm3) | 162 | 153 |
+| ‡ Adjusted for baseline stratification factors. § 4 subjects were excluded from the efficacy analysis due to data integrity at one study site *The Genotypic Susceptibility Score (GSS) was defined as the total number of ARTs in BR to which a subject’s viral isolate showed susceptibility at baseline based upon genotypic resistance tests. †Other clades included: Complex (43), F1 (32), A1 (18), BF (14), all others <10. |  |  |
 
 In the multicentre, open-label, single arm VIKING-3 study (ING112574), HIV-1 infected, ART-experienced adults with virological failure and current or historical evidence of raltegravir and/or elvitegravir resistance received a 50 mg dose of Tivicay film-coated tablets twice daily with the current failing background regimen for 7 days but with optimised background ART from Day 8.
 

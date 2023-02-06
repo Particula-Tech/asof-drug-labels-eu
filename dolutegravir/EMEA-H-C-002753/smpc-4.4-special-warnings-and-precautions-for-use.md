@@ -1,9 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
-While effective viral suppression with antiretroviral therapy has been proven to substantially reduce the risk of sexual transmission, a residual risk cannot be excluded.
-Precautions to prevent transmission should be taken in accordance with national guidelines.
-
 Integrase class resistance of particular concern
+
 The decision to use dolutegravir in the presence of integrase class resistance should take into account that the activity of dolutegravir is considerably compromised for viral strains harbouring Q148+≥2 secondary mutations from G140A/C/S, E138A/K/T, L74I (see section 5.1).
 To what extent dolutegravir provides added efficacy in the presence of such integrase class resistance is uncertain (see section 5.2).
 
@@ -50,7 +48,7 @@ Weight and metabolic parameters
 
 An increase in weight and in levels of blood lipids and glucose may occur during antiretroviral therapy.
 Such changes may in part be linked to disease control and lifestyle.
-For lipids, there is in some cases evidence for a treatment effect, while for weight gain there is no strong evidence relating this to any particular treatment.
+For lipids and weight, there is in some cases evidence for a treatment effect.
 For monitoring of blood lipids and glucose reference is made to established HIV treatment guidelines.
 Lipid disorders should be managed as clinically appropriate.
 
