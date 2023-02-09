@@ -52,7 +52,10 @@ Table 2: Dose modification advice for Tecentriq
 |  | Grade 3 or 4 | Permanently discontinue Tecentriq |
 | Hepatitis in patients without HCC | Grade 2: (ALT or AST > 3 to 5 x upper limit of normal [ULN] or blood bilirubin > 1.5 to 3 x ULN) | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 3 or 4: (ALT or AST > 5 x ULN or blood bilirubin > 3 x ULN) | Permanently discontinue Tecentriq |
-| Hepatitis in patients with HCC | If AST/ALT is within normal limits at baseline and increases to > 3 x to ≤ 10x ULN or If AST/ALT is > 1 to ≤ 3 x ULN at baseline and increases to > 5x to ≤ 10x ULN or If AST/ALT is > 3 x to ≤ 5 x ULN at baseline and increases to > 8 x to ≤ 10x ULN | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
+
+| Immune related adverse reaction | Severity | Treatment modification |
+| --- | --- | --- |
+| Hepatitis in patients with HCC | If AST/ALT is within normal limits at baseline and increases to > 3 x to ≤ 10x ULN or If AST/ALT is > 1 to ≤ 3 x ULN at baseline and increases to > 5x to ≤ 10x ULN or If AST/ALT is > 3 x to ≤ 5 x ULN at baseline and increases to >8 x to ≤ 10x ULN | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | If AST/ALT increases to > 10 x ULN or total bilirubin increases to > 3 x ULN | Permanently discontinue Tecentriq |
 | Colitis | Grade 2 or 3 Diarrhoea (increase of ≥ 4 stools/day over baseline) or Symptomatic Colitis | Withhold Tecentriq Treatment may be resumed when the event improves to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 4 Diarrhoea or Colitis (life threatening; urgent intervention indicated) | Permanently discontinue Tecentriq |
@@ -73,6 +76,7 @@ Table 2: Dose modification advice for Tecentriq
 |  | Grade 3 or 4: (creatinine level > 3.0 x baseline or > 3.0 x ULN) | Permanently discontinue Tecentriq |
 | Myositis | Grade 2 or 3 | Withhold Tecentriq |
 |  | Grade 4 or Grade 3 recurrent myositis | Permanently discontinue Tecentriq |
+| Haemophagocytic lymphohistiocytosis | Suspected haemophagocytic lymphohistiocytosis1 | Permanently discontinue Tecentriq |
 | Other immune-related adverse reactions | Grade 2 or Grade 3 | Withhold until adverse reactions recovers to Grade 0-1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day. |
 |  | Grade 4 or recurrent Grade 3 | Permanently discontinue Tecentriq (except endocrinopathies controlled with replacement hormones) |
 
@@ -93,11 +97,11 @@ Based on a population pharmacokinetic analysis, no dose adjustment of Tecentriq 
 Asian patients
 
 Due to increased haematologic toxicities observed in Asian patients in IMpower150, it is recommended that the starting dose of paclitaxel should be 175 mg/m2 every three weeks.
+
 Renal impairment
 
 Based on a population pharmacokinetic analysis, no dose adjustment is required in patients with mild or moderate renal impairment (see section 5.2).
 Data from patients with severe renal impairment are too limited to draw conclusions on this population.
-
 Hepatic impairment
 
 Based on a population pharmacokinetic analysis, no dose adjustment is required for patients with mild or moderate hepatic impairment.

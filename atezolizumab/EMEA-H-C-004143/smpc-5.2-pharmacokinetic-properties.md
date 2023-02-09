@@ -2,13 +2,9 @@
 
 Exposure to atezolizumab increased dose proportionally over the dose range 1 mg/kg bw to 20 mg/kg bw including the fixed dose 1 200 mg administered every 3 weeks.
 A population analysis that included 472 patients described atezolizumab pharmacokinetics for the dose range:
-
-1 to 20 mg/kg bw with a linear two-compartment disposition model with first-order elimination. The
-pharmacokinetic properties of 840 mg intravenous atezolizumab administered every 2 weeks, 1200 mg
-administered every 3 weeks, and 1680 mg administered every 4 weeks are the same; comparable total
-exposures are expected to be achieved with these three dosing regimens. A population
-
-pharmacokinetic analysis suggests that steady-state is obtained after 6 to 9 weeks of multiple dosing.
+1 to 20 mg/kg bw with a linear two-compartment disposition model with first-order elimination.
+The pharmacokinetic properties of 840 mg intravenous atezolizumab administered every 2 weeks, 1200 mg administered every 3 weeks, and 1680 mg administered every 4 weeks are the same; comparable total exposures are expected to be achieved with these three dosing regimens.
+A population pharmacokinetic analysis suggests that steady-state is obtained after 6 to 9 weeks of multiple dosing.
 The systemic accumulation in area under the curve, maximum concentration and trough concentration was 1.91, 1.46 and 2.75-fold, respectively.
 
 Absorption
@@ -41,7 +37,6 @@ No dedicated studies of atezolizumab have been conducted in elderly patients.
 The effect of age on the pharmacokinetics of atezolizumab was assessed in a population pharmacokinetic analysis.
 Age was not identified as a significant covariate influencing atezolizumab pharmacokinetics based on patients of age range of 21-89 years (n=472), and median of 62 years of age.
 No clinically important difference was observed in the pharmacokinetics of atezolizumab among patients < 65 years (n=274), patients between 65−75 years (n=152) and patients > 75 years (n=46) (see section 4.2).
-
 Paediatric population
 
 The pharmacokinetic results from one early-phase, multi-centre open-label study that was conducted in paediatric (< 18 years, n=69) and young adult patients (18-30 years, n=18), show that the clearance and volume of distribution of atezolizumab were comparable between paediatric patients receiving 15 mg/kg bw and young adult patients receiving 1 200 mg of atezolizumab every 3 weeks when normalized by body weight, with exposure trending lower in paediatric patients as body weight decreased.

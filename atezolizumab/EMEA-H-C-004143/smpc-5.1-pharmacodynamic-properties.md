@@ -10,7 +10,6 @@ Binding of PD-L1 to the PD-1 and B7.1 receptors found on T-cells and antigen pre
 
 Atezolizumab is an Fc-engineered, humanised immunoglobulin G1 (IgG1) monoclonal antibody that directly binds to PD-L1 and provides a dual blockade of the PD-1 and B7.1 receptors, releasing PD-L1/PD-1 mediated inhibition of the immune response, including reactivating the antitumour immune response without inducing antibody-dependent cellular cytotoxicity.
 Atezolizumab spares the PD-L2/PD-1 interaction allowing PD-L2/PD-1 mediated inhibitory signals to persist.
-
 Clinical efficacy and safety
 
 Urothelial carcinoma
@@ -59,7 +58,6 @@ An exploratory updated survival analysis was performed with a median duration of
 The median OS was 8.6 months (95% CI: 7.8, 9.6) in the atezolizumab arm and 8.0 months (95% CI: 7.2, 8.6) in the chemotherapy arm with a hazard ratio of 0.82 (95% CI: 0.71, 0.94).
 Consistent with the trend observed at primary analysis for 12-month OS rates, numerically higher 24-month and 30-month OS rates were observed for patients in the atezolizumab arm compared with the chemotherapy arm in the ITT population.
 The percentage of patients alive at 24 months (KM estimate) was 12.7% in the chemotherapy arm and 22.5% in the atezolizumab arm; and at 30 months (KM estimate) was 9.8% in the chemotherapy arm and 18.1% in the atezolizumab arm.
-
 Table 4: Summary of efficacy in all comers (IMvigor211)
 
 Efficacy endpoint Atezolizumab (n = 467) Chemotherapy (n = 464)
@@ -80,13 +78,19 @@ No. of events (%) 407 (87.2%) 410 (88.4%)
 Median duration of PFS (months) 2.1 4.0
 95% CI 2.1, 2.2 3.4, 4.2
 Stratified hazard ratio (95% CI) 1.10 (0.95, 1.26)
-Investigator-assessed ORR (RECIST v1.1) n = 462 n = 461
+Investigator-assessed ORR (RECIST n = 462 n = 461
+
+v1.1)
+
 No. of confirmed responders (%) 62 (13.4%) 62 (13.4%)
 95% CI 10.45, 16.87 10.47, 16.91
 No. of complete response (%) 16 (3.5%) 16 (3.5%)
 No. of partial response (%) 46 (10.0%) 46 (10.0%)
 No. of stable disease (%) 92 (19.9%) 162 (35.1%)
-Investigator-assessed DOR (RECIST v1.1) n = 62 n = 62
+Investigator-assessed DOR (RECIST n = 62 n = 62
+
+v1.1)
+
 Median in months *** 21.7 7.4
 95% CI 13.0, 21.7 6.1, 10.3
 
@@ -149,8 +153,8 @@ Patients with event (%) 18 (56.3%) 42 (52.5%) 59 (49.6%)
 Median (months) (95% CI) 12.3 (6.0, NE) 14.1 (9.2, NE) 15.9 (10.4, NE)
 1-year OS rate (%) 52.4% 54.8% 57.2%
 
-CI = confidence interval; DOR=duration of response; IC = tumour-infiltrating immune cells; IRF = independent review facility; NE = not estimable; ORR = objective response rate; OS = overall survival;
-PFS = progression-free survival; RECIST = Response Evaluation Criteria in Solid Tumours v1.1.
+CI = confidence interval; DOR=duration of response; IC = tumour-infiltrating immune cells;
+IRF = independent review facility; NE = not estimable; ORR = objective response rate; OS = overall survival; PFS = progression-free survival; RECIST = Response Evaluation Criteria in Solid Tumours v1.1.
 
 In Cohort 2, the co-primary efficacy endpoints were confirmed ORR as assessed by an IRF using RECIST v1.1 and investigator-assessed ORR according to Modified RECIST (mRECIST) criteria.
 There were 310 patients treated with atezolizumab 1 200 mg by intravenous infusion every 3 weeks until loss of clinical benefit.
@@ -184,17 +188,17 @@ Tumour size ≥ 5 cm; or tumours of any size that are either accompanied by N1 o
 
 The study did not include patients who had N2 status with tumours invading the mediastinum, heart, great vessels, trachea, recurrent laryngeal nerve, oesophagus, vertebral body, carina, or with separate tumour nodule(s) in a different ipsilateral lobe.
 
-A total of 1,280 enrolled patients had complete tumour resection and were eligible to receive up to 4 cycles of cisplatin-based chemotherapy.
+A total of 1 280 enrolled patients had complete tumour resection and were eligible to receive up to 4 cycles of cisplatin-based chemotherapy.
 The cisplatin-based chemotherapy regimens are described in Table 6.
 Table 6: Adjuvant chemotherapy regimens (IMpower010)
 
 | Adjuvant cisplatin-based chemotherapy: Cisplatin 75 mg/m2 intravenous on Day 1 of each 21 day cycle with one of the following treatment regimens | Vinorelbine 30 mg/m2 intravenous, Days 1 and 8 |
 | --- | --- |
-|  | Docetaxel 75 mg/m2intravenous, Day 1 |
-|  | Gemcitabine 1250 mg/m2 intravenous, Days 1 and 8 |
-|  | Pemetrexed 500 mg/m2intravenous, Day 1(non-squamous) |
+|  | Docetaxel 75 mg/m2 intravenous, Day 1 |
+|  | Gemcitabine 1 250 mg/m2 intravenous, Days 1 and 8 |
+|  | Pemetrexed 500 mg/m2 intravenous, Day 1(non-squamous) |
 
-After completion of cisplatin-based chemotherapy (up to four cycles), a total of 1005 patients were randomised in a 1:1 ratio to receive atezolizumab (Arm A) or best supportive care (BSC) (Arm B). Atezolizumab was administered as a fixed dose of 1200 mg by IV infusion every 3 weeks for 16 cycles unless there was disease recurrence or unacceptable toxicity.
+After completion of cisplatin-based chemotherapy (up to four cycles), a total of 1 005 patients were randomised in a 1:1 ratio to receive atezolizumab (Arm A) or best supportive care (BSC) (Arm B). Atezolizumab was administered as a fixed dose of 1 200 mg by IV infusion every 3 weeks for 16 cycles unless there was disease recurrence or unacceptable toxicity.
 Randomisation was stratified by sex, stage of disease, histology, and PD-L1 expression.
 
 Patients were excluded if they had a history of autoimmune disease; administration of a live, attenuated vaccine within 28 days prior to randomisation; administration of systemic immunostimulatory agents within 4 weeks or systemic immunosuppressive medications within 2 weeks prior to randomisation.
@@ -209,18 +213,18 @@ The percentage of patients who had tumours with PD-L1 expression ≥ 1% and ≥ 
 
 The primary efficacy outcome measure was disease-free survival (DFS) as assessed by the investigator.
 DFS was defined as the time from the date of randomisation to the date of occurrence of any of the following: first documented recurrence of disease, new primary NSCLC, or death due to any cause, whichever occurred first.
-The primary efficacy objective was to evaluate DFS in the PD-L1 ≥ 1% TC stage II IIIA patient population.
-Key secondary efficacy objectives were to evaluate DFS in the PD-L1 ≥ 50% TC stage II– IIIA patient population and overall survival (OS) in the ITT population.
+The primary efficacy objective was to evaluate DFS in the PD-L1 ≥ 1% TC stage II – IIIA patient population.
+Key secondary efficacy objectives were to evaluate DFS in the PD-L1 ≥ 50% TC stage II – IIIA patient population and overall survival (OS) in the ITT population.
 
 At the time of the interim DFS analysis, the study met its primary endpoint.
 The median follow-up time was approximately 32 months.
-In the analysis of patients with PD-L1 ≥ 50% TC stage II– IIIA without EGFR mutations or ALK rearrangements (n = 209), a clinically meaningful improvement in DFS in the atezolizumab arm was observed compared to the BSC arm (Table 7).
-The OS data were immature at the time of the DFS interim analysis with approximately 16.3% of deaths overall reported in the PD-L1 ≥ 50% TC stage II– IIIA patient population, without EGFR mutations or ALK rearrangements.
+In the analysis of patients with PD-L1 ≥ 50% TC stage II – IIIA without EGFR mutations or ALK rearrangements (n = 209), a clinically meaningful improvement in DFS in the atezolizumab arm was observed compared to the BSC arm (Table 7).
+The OS data were immature at the time of the DFS interim analysis with approximately 16.3 % of deaths overall reported in the PD-L1 ≥ 50% TC stage II – IIIA patient population, without EGFR mutations and ALK rearrangements.
 An exploratory analysis of OS suggested a trend in favor of atezolizumab over BSC, with a stratified HR of 0.39 (95% CI: 0.18, 0.82) in this patient population.
 
-The key efficacy results for the PD-L1 ≥ 50% TC stage II– IIIA patient population, without EGFR mutations and ALK rearrangements, are summarised in Table 7.
+The key efficacy results for the PD-L1 ≥ 50% TC stage II – IIIA patient population, without EGFR mutations and ALK rearrangements, are summarised in Table 7.
 The Kaplan-Meier curve for DFS is presented in Figure 2.
-Table 7: Summary of efficacy in the PD-L1 expression ≥ 50% TC stage II– IIIA patient population without EGFR mutations or ALK rearrangements (IMpower010)
+Table 7: Summary of efficacy in the PD-L1 expression ≥ 50% TC stage II – IIIA patient population without EGFR mutations or ALK rearrangements (IMpower010)
 
 Efficacy endpoint Arm A Arm B
 (Atezolizumab) (Best supportive care)
@@ -233,10 +237,9 @@ Stratified hazard ratio (95% CI) 0.49 (0.29, 0.81)
 
 DFS = Disease-free survival; CI = confidence interval; NE = not estimable
 
-Figure 2: Kaplan-Meier curve for disease-free survival in the PD-L1 expression ≥ 50% TC stage II– IIIA patient population without EGFR mutations or ALK rearrangements (IMpower010)
+Figure 2: Kaplan-Meier curve for disease-free survival in the PD-L1 expression ≥ 50% TC stage II – IIIA patient population without EGFR mutations or ALK rearrangements (IMpower010)
 
-The observed DFS improvement in the atezolizumab arm compared with the BSC arm was consistently shown across the majority of pre-specified subgroups in the PD-L1 ≥ 50% TC stage II
-– IIIA patient population without EGFR mutations or ALK rearrangements, including both non-squamous NSCLC patients (unstratified HR of 0.35, 95% CI: 0.18, 0.69; median DFS NE vs. 35.7 months) and squamous NSCLC patients (unstratified HR of 0.60,95% CI: 0.29, 1.26; median DFS 36.7 vs. NE months).
+The observed DFS improvement in the atezolizumab arm compared with the BSC arm was consistently shown across the majority of pre-specified subgroups in the PD-L1 ≥ 50% TC stage II – IIIA patient population without EGFR mutations or ALK rearrangements, including both non-squamous NSCLC patients (unstratified HR of 0.35, 95% CI: 0.18, 0.69; median DFS NE vs. 35.7 months) and squamous NSCLC patients (unstratified HR of 0.60, 95% CI: 0.29, 1.26; median DFS 36.7 vs. NE months).
 First-line treatment of metastatic NSCLC
 
 IMpower150 (GO29436): Randomised phase III trial in chemotherapy-naïve patients with metastatic non-squamous NSCLC, in combination with paclitaxel and carboplatin with or without bevacizumab
@@ -311,16 +314,18 @@ No. of responders (%) 163 (40.6%) 224 (56.4%) 158 (40.2%)
 95% CI (35.8, 45.6) (51.4, 61.4) (35.3, 45.2)
 No. of complete response (%) 8 (2.0%) 11 (2.8%) 3 (0.8%)
 No. of partial response (%) 155 (38.7%) 213 (53.7%) 155 (39.4%)
-Investigator-assessed DOR* (RECIST n = 163 n = 224 n = 158
-v1.1)
+Investigator-assessed DOR* n = 163 n = 224 n = 158
+(RECIST v1.1)
 Median in months 8.3 11.5 6.0
 95% CI (7.1, 11.8) (8.9, 15.7) (5.5, 6.9)
 
 # Primary efficacy endpoints were PFS and OS and they were analysed in the ITT-wild-type (WT) population, i.e. excluding patients with EGFR mutations or ALK rearrangements.
 1 Based on the stratified log-rank test
 
-2 For informational purposes; in the ITT population, comparisons between Arm B and Arm C as well as
-between Arm A and Arm C were not formally tested yet as per the pre-specified analysis hierarchy
+| 2 | For informational purposes; in the ITT population, comparisons between Arm B and Arm C as well |
+| --- | --- |
+| as between Arm A and Arm C were not formally tested yet as per the pre-specified analysis |  |
+| hierarchy |  |
 
 3 Overall best response for complete response and partial response
 ‡ Stratified by sex, presence of liver metastases and PD-L1 tumour expression on TC and IC
@@ -333,7 +338,8 @@ Table 10: Summary of updated efficacy for Arm A vs. Arm B in the ITT population 
 Efficacy endpoint Arm A Arm B
 (Atezolizumab + (Atezolizumab +
 Paclitaxel + Bevacizumab +
-Carboplatin) Paclitaxel + Carboplatin)
+Carboplatin) Paclitaxel +
+Carboplatin)
 Investigator-assessed PFS (RECIST n = 402 n = 400
 v1.1)*
 No. of events (%) 330 (82.1%) 291 (72.8%)
@@ -358,8 +364,8 @@ Figure 3: Kaplan-Meier curve for overall survival in the ITT population (IMpower
 Figure 4: Forest plot of overall survival by PD-L1 expression in the ITT population, Arm B vs. C (IMpower150)
 
 Figure 5: Kaplan-Meier curve for PFS in the ITT population (IMpower150)
-Figure 6: Forest plot of progression free survival by PD-L1 expression in the ITT population, Arm B vs. C (IMpower150)
 
+Figure 6: Forest plot of progression free survival by PD-L1 expression in the ITT population, Arm B vs. C (IMpower150)
 In Arm B as compared to Arm C, pre-specified subgroup analyses from the interim OS analysis showed an OS improvement for patients with EGFR mutations or ALK rearrangements (hazard ratio [HR] of 0.54, 95% CI: 0.29, 1.03; median OS not reached vs. 17.5 months), and liver metastases (HR of 0.52, 95% CI: 0.33, 0.82; median OS 13.3 vs. 9.4 months).
 PFS improvements were also shown in patients with EGFR mutations or ALK rearrangements (HR of 0.55, 95% CI: 0.35, 0.87; median PFS 10.0 vs. 6.1 months) and liver metastases (HR of 0.41, 95% CI: 0.26, 0.62; median PFS 8.2 vs. 5.4 months).
 OS results were similar for patients aged < 65 and ≥ 65 subgroups, respectively.
@@ -381,6 +387,7 @@ Tumour specimens were evaluated for PD-L1 expression on tumour cells (TC) and tu
 Patients, including those with EGFR mutations or ALK rearrangements, were enrolled and were randomised in a 2:1 ratio to receive one of the treatment regimens described in Table 11.
 Randomisation was stratified by sex, presence of liver metastases and PD-L1 expression on TC and IC.
 Patients receiving treatment regimen B were able to crossover and receive atezolizumab monotherapy following disease progression.
+
 Table 11: Intravenous treatment regimens (IMpower130)
 
 Treatment Induction Maintenance
@@ -392,7 +399,6 @@ A Atezolizumab (1 200 mg)a + nab-paclitaxel Atezolizumab (1 200 mg)a
 B Nab-paclitaxel (100 mg/m2)b,c + carboplatin Best supportive care or pemetrexed
 
 (AUC 6)c a Atezolizumab is administered until loss of clinical benefit as assessed by investigator b Nab-paclitaxel is administered on days 1, 8, and 15 of each cycle c Nab-paclitaxel and carboplatin are administered until completion of 4-6 cycles, or progressive disease or unacceptable toxicity whichever occurs first
-
 The demographics and baseline disease characteristics of the study population defined as ITT-WT (n=679) were well balanced between the treatment arms.
 The median age was 64 years (range: 18 to 86 years).
 The majority of the patients were male (59%) and white (90%).
@@ -586,12 +592,14 @@ Investigator-assessed ORR (RECIST v1.1)
 
 No. of responders (%) 58 (14%) 57 (13%)
 95% CI (10.5, 17.3) (10.3, 17.0)
-Investigator-assessed DOR (RECIST v1.1) n = 58 n = 57
+Investigator-assessed DOR (RECIST n = 58 n = 57
+
+v1.1)
+
 Median in months 16.3 6.2
 95% CI (10.0, NE) (4.9, 7.6)
 
-CI = confidence interval; DOR = duration of response; NE = not estimable; ORR = objective response rate;
-OS = overall survival; PFS = progression-free survival; RECIST = Response Evaluation Criteria in Solid Tumours v1.1.
+CI = confidence interval; DOR = duration of response; NE = not estimable; ORR = objective response rate; OS = overall survival; PFS = progression-free survival; RECIST = Response Evaluation Criteria in Solid Tumours v1.1.
 * The primary analysis population consists of the first 850 randomised patients
 ǂ Stratified by PD-L1 expression in tumour infiltrating immune cells, the number of prior chemotherapy regimens, and histology
 ** Based on the stratified log-rank test
@@ -740,9 +748,13 @@ From the PD-L1+/BRCA1/2 mutant subgroup, 19 patients received atezolizumab plus 
 Based on exploratory analysis and acknowledging the small sample size, the presence of BRCA1/2 mutation does not seem to impact the PFS clinical benefit of atezolizumab and nab-paclitaxel.
 
 There was no evidence of efficacy in patients with asymptomatic brain metastases at baseline, although the number of patients treated was small; the median PFS was 2.2 months in the atezolizumab plus nab-paclitaxel arm (n=15) compared to 5.6 months in the placebo plus nab-paclitaxel arm (n=11) (HR 1.40; 95% CI 0.57, 3.44).
+
 Table 18: Summary of efficacy in patients with PD-L1 expression ≥ 1% (IMpassion130)
 
-Key efficacy endpoints Atezolizumab + nab-paclitaxel Placebo + nab-paclitaxel
+Key efficacy endpoints Atezolizumab + nab- Placebo + nab-paclitaxel
+
+paclitaxel
+
 Primary efficacy endpoints n=185 n=184
 
 Investigator-assessed PFS (RECIST v1.1) – Primary analysis3
@@ -769,10 +781,15 @@ No. of deaths (%) 120 (64.9%) 139 (75.5%)
 Median time to events (months) 25.4 17.9
 95% CI (19.6, 30.7) (13.6, 20.3)
 Stratified hazard ratio‡ (95% CI) 0.67 (0.53, 0.86)
+Key efficacy endpoints Atezolizumab + nab- Placebo + nab-paclitaxel
 
+paclitaxel
 Secondary and exploratory endpoints
 
-Investigator-assessed ORR (RECIST 1.1)3 n=185 n=183
+Investigator-assessed ORR (RECIST n=185 n=183
+
+1.1)3
+
 No. of responders (%) 109 (58.9%) 78 (42.6%)
 95% CI (51.5, 66.1) (35.4, 50.1)
 No. of complete response (%) 19 (10.3%) 2 (1.1%)
@@ -831,6 +848,7 @@ At the time of the primary analysis, patients had a median survival follow up ti
 The data demonstrated a statistically significant improvement in OS and PFS as assessed by IRF per RECIST v1.1 with atezolizumab + bevacizumab compared to sorafenib.
 A statistically significant improvement was also observed in confirmed objective response rate (ORR) by IRF per RECIST v1.1 and HCC modified RECIST (mRECIST).
 The key efficacy results from the primary analysis are summarized in Table 19.
+
 A descriptive updated efficacy analysis was performed with a median survival follow up time of 15.6 months.
 The median OS was 19.2 months (95% CI: 17.0, 23.7) in the atezolizumab + bevacizumab arm versus 13.4 months (95% CI: 11.4, 16.9) in the sorafenib arm with a HR of 0.66 (95% CI: 0.52, 0.85).
 The median PFS by IRF-assessment per RECIST v1.1 was 6.9 months (95% CI: 5.8, 8.6) in the atezolizumab + bevacizumab arm versus 4.3 months (95% CI: 4.0, 5.6) in the sorafenib arm with a HR of 0.65 (95% CI: 0.53, 0.81).
@@ -839,48 +857,77 @@ The IRF-assessed ORR per RECIST v1.1 was 29.8% (95% CI: 24.8, 35.0) in the atezo
 The median duration of response (DOR) by IRF-assessment per RECIST v1.1 in confirmed responders was 18.1 months (95% CI: 14.6, NE) in the atezolizumab + bevacizumab arm compared to 14.9 months (95% CI: 4.9, 17.0) in the sorafenib arm.
 
 Kaplan-Meier curves for OS (updated analysis) and PFS (primary analysis) are presented in Figures 19 and 20, respectively.
+
 Table 19: Summary of efficacy (IMbrave150 primary analysis)
 
 Key efficacy endpoints Atezolizumab + Bevacizumab Sorafenib
 OS n=336 n=165
 No. of deaths (%) 96 (28.6%) 65 (39.4%)
-Median time to event (months) NE 13.2
+Median time to event NE 13.2
+
+(months)
+
 95% CI (NE, NE) (10.4, NE)
-Stratified hazard ratio‡ (95% CI) 0.58 (0.42, 0.79)
+Stratified hazard ratio‡ (95% 0.58 (0.42, 0.79)
+
+CI)
+
 p-value1 0.0006
 6-month OS (%) 84.8% 72.3%
-IRF-assessed PFS, RECIST 1.1 n=336 n=165
+IRF-assessed PFS, RECIST n=336 n=165
+
+1.1
+
 No. of events (%) 197 (58.6%) 109 (66.1%)
-Median duration of PFS (months) 6.8 4.3
+Median duration of PFS 6.8 4.3
+
+(months)
+
 95% CI (5.8, 8.3) (4.0, 5.6)
-Stratified hazard ratio‡ (95% CI) 0.59 (0.47, 0.76)
+Stratified hazard ratio‡ (95% 0.59 (0.47, 0.76)
+
+CI)
+
 p-value1 <0.0001
 6-month PFS 54.5% 37.2%
-IRF-assessed ORR, RECIST n=326 n=159
+IRF-assessed ORR, n=326 n=159
 
-1.1
+RECIST 1.1
 
-No. of confirmed responders (%) 89 (27.3%) 19 (11.9%)
+No. of confirmed responders 89 (27.3%) 19 (11.9%)
+
+(%)
+
 95% CI (22.5, 32.5) (7.4, 18.0)
 p-value2 <0.0001
-No. of complete responses (%) 18 (5.5%) 0
+No. of complete responses 18 (5.5%) 0
+
+(%)
+
 No. of partial responses (%) 71 (21.8%) 19 (11.9%)
 No. of stable disease (%) 151 (46.3%) 69 (43.4%)
-IRF-assessed DOR, RECIST n=89 n=19
+IRF-assessed DOR, n=89 n=19
 
-1.1
+RECIST 1.1
 
 Median in months NE 6.3
 95% CI (NE, NE) (4.7, NE)
 Range (months) (1.3+, 13.4+) (1.4+, 9.1+)
+Key efficacy endpoints Atezolizumab + Bevacizumab Sorafenib
 IRF-assessed ORR, HCC n=325 n=158
 
 mRECIST
 
-No. of confirmed responders (%) 108 (33.2%) 21 (13.3%)
+No. of confirmed responders 108 (33.2%) 21 (13.3%)
+
+(%)
+
 95% CI (28.1, 38.6) (8.4, 19.6)
 p-value2 <0.0001
-No. of complete responses (%) 33 (10.2%) 3 (1.9%)
+No. of complete responses 33 (10.2%) 3 (1.9%)
+
+(%)
+
 No. of partial responses (%) 75 (23.1%) 18 (11.4%)
 No. of stable disease (%) 127 (39.1%) 66 (41.8%)
 IRF-assessed DOR, HCC n=108 n=21
@@ -908,6 +955,7 @@ No overall differences in efficacy were observed between patients ≥ 65 years o
 In study IMpower150, age ≥ 65 was associated with a diminished effect of atezolizumab in patients receiving atezolizumab in combination with carboplatin and paclitaxel.
 
 In studies IMpower150, IMpower133 and IMpower110, data for patients ≥ 75 years of age are too limited to draw conclusions on this population.
+
 Paediatric population
 
 An early phase, multi-centre open-label study was conducted in paediatric (< 18 years, n=69) and young adult patients (18-30 years, n=18) with relapsed or progressive solid tumours as well as with Hodgkin’s and non-Hodgkin’s lymphoma, to evaluate the safety and pharmacokinetics of atezolizumab.

@@ -33,6 +33,7 @@ If particulates or discoloration are observed, the solution should not be used.
 No incompatibilities have been observed between Tecentriq and intravenous bags with product-contacting surfaces of PVC, PO, PE, or PP.
 In addition, no incompatibilities have been observed with in-line filter membranes composed of polyethersulfone or polysulfone, and infusion sets and other infusion aids composed of PVC, PE, polybutadiene, or polyetherurethane.
 The use of in-line filter membranes is optional.
+
 Do not co-administer other medicinal products through the same infusion line.
 
 Disposal
