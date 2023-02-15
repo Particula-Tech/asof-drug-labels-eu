@@ -89,8 +89,11 @@ Women of childbearing potential
 
 Women of childbearing potential must use effective contraception during treatment with Zonegran and for one month after discontinuation (see section 4.6).
 Zonegran must not be used in women of childbearing potential not using effective contraception unless clearly necessary and only if the potential benefit is considered to justify the risk to the foetus.
-Specialist advice should be given to women who are of childbearing potential regarding the possible effects of Zonegran on the foetus and these risks should be discussed with the patient in relation to the benefits before starting treatment.
-Women planning a pregnancy should meet with their specialists to reassess treatment with Zonegran and to consider other therapeutic options.
+Specialist medical advice should be given to women treated with zonisamide who are of childbearing potential.
+The woman should be fully informed of and understand the possible effects of Zonegran on the foetus and these risks should be discussed with the patient in relation to the benefits before starting treatment.
+Before the initiation of treatment with Zonegran in a woman of childbearing potential, pregnancy testing should be considered.
+Women planning a pregnancy should meet with their specialists to reassess treatment with Zonegran and to consider other therapeutic options prior to conception and before contraception is discontinued.
+Women of childbearing potential should be counselled to contact her doctor immediately if she becomes pregnant or thinks she may be pregnant and is taking Zonegran.
 Physicians treating patients with Zonegran should ensure that patients are fully informed about the need to use appropriate effective contraception, and should use clinical judgement when assessing whether oral contraceptives (OCs), or the doses of the OC components, are adequate based on the individual patient’s clinical situation.
 
 Body weight

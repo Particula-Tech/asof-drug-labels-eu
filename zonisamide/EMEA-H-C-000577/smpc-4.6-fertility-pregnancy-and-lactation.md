@@ -6,7 +6,9 @@ Women of childbearing potential must use effective contraception during treatmen
 
 Zonegran must not be used in women of childbearing potential not using effective contraception unless clearly necessary and only if the potential benefit is considered to justify the risk to the foetus.
 Specialist medical advice should be given to women treated with zonisamide who are of childbearing potential.
-Women planning a pregnancy should meet with their specialists to reassess treatment with zonisamide and to consider other therapeutic options.
+The woman should be fully informed of and understand the possible effects of Zonegran on the foetus and these risks should be discussed with the patient in relation to the benefits before starting treatment.
+Pregnancy testing in women of childbearing potential should be considered prior to initiating treatment with zonisamide.
+Women planning a pregnancy should meet with their specialists to reassess treatment with zonisamide and to consider other therapeutic options prior to conception and before contraception is discontinued.
 
 As with all antiepileptic medicines, sudden discontinuation of zonisamide should be avoided as this may lead to breakthrough seizures that could have serious consequences for the woman and the unborn child.
 The risk of birth defect is increased by factor 2 to 3 in the offspring of mothers treated with an antiepileptic medicinal product.
@@ -17,7 +19,7 @@ Pregnancy
 
 There are limited data from the use of Zonegran in pregnant women.
 Studies in animals have shown reproductive toxicity (see section 5.3).
-The potential risk for humans is unknown.
+In humans the potential risk of major congenital malformations and neurodevelopmental disorders is unknown.
 
 Data from a registry study suggest an increase in the proportion of babies born at a low birth weight (LBW), pre-term or small for gestational age (SGA).
 These increases are from about 5% to 8% for LBW, from about 8% to 10% for pre-term birth and from about 7% to 12% for SGA, all compared with mothers treated with lamotrigine monotherapy.

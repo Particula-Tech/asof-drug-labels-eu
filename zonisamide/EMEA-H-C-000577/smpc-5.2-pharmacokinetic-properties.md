@@ -37,7 +37,7 @@ Linearity/non-linearity
 
 Zonisamide exposure increases with time until steady state is achieved by approximately 8 weeks.
 When comparing the same dose level, subjects of higher total body weight appear to have lower steady-state serum concentrations, but this effect appears to be relatively modest.
-Age (≥12 years) and gender, after adjustment for body weight effects, have no apparent effect on zonisamide exposure in epileptic patients during steady-state dosing.
+Age (≥ 12 years) and gender, after adjustment for body weight effects, have no apparent effect on zonisamide exposure in epileptic patients during steady-state dosing.
 There is no need for dose adjustment with any of the AEDs including CYP3A4 inducers.
 
 Pharmacokinetic/pharmacodynamic relationship
