@@ -72,7 +72,6 @@ Infections
 In multiple sclerosis clinical studies the overall rate of infections (65.1%) at the 0.5 mg dose was similar to placebo.
 However, lower respiratory tract infections, primarily bronchitis and to a lesser extent herpes infection and pneumonia were more common in fingolimod-treated patients.
 Some cases of disseminated herpes infection, including fatal cases, have been reported even at the 0.5 mg dose.
-
 In the post-marketing setting, cases of infections with opportunistic pathogens, such as viral (e.g. varicella zoster virus [VZV], John Cunningham virus [JCV] causing Progressive Multifocal Leukoencephalopathy, herpes simplex virus [HSV]), fungal (e.g. cryptococci including cryptococcal meningitis) or bacterial (e.g. atypical mycobacterium), have been reported, some of which have been fatal (see section 4.4).
 
 Human papilloma virus (HPV) infection, including papilloma, dysplasia, warts and HPV-related cancer, has been reported under treatment with fingolimod in the post-marketing setting (see section 4.4).
@@ -96,6 +95,7 @@ In multiple sclerosis clinical studies the maximal decline in heart rate was see
 Heart rate below 40 beats per minute in adults, and below 50 beats per minute in paediatric patients, was rarely observed in patients on fingolimod 0.5 mg.
 The average heart rate returned towards baseline within 1 month of chronic treatment.
 Bradycardia was generally asymptomatic but some patients experienced mild to moderate symptoms, including hypotension, dizziness, fatigue and/or palpitations, which resolved within the first 24 hours after treatment initiation (see also sections 4.4 and 5.1).
+
 In multiple sclerosis clinical studies first-degree atrioventricular block (prolonged PR interval on ECG) was detected after treatment initiation in adult and paediatric patients.
 In adult clinical trials it occurred in 4.7% of patients on fingolimod 0.5 mg, in 2.8% of patients on intramuscular interferon beta-1a, and in 1.6% of patients on placebo.
 Second-degree atrioventricular block was detected in less than 0.2% adult patients on fingolimod 0.5 mg.
@@ -107,7 +107,6 @@ Although most patients did not require medical intervention, one patient on fing
 In the post-marketing setting, isolated delayed onset events, including transient asystole and unexplained death, have occurred within 24 hours of the first dose.
 These cases have been confounded by concomitant medicinal products and/or pre-existing disease.
 The relationship of such events to Gilenya is uncertain.
-
 Blood pressure
 In multiple sclerosis clinical studies fingolimod 0.5 mg was associated with an average increase of approximately 3 mmHg in systolic pressure and approximately 1 mmHg in diastolic pressure, manifesting approximately 1 month after treatment initiation.
 This increase persisted with continued treatment.
@@ -129,6 +128,7 @@ Cases of seizures, including status epilepticus, have been reported with the use
 
 Vascular disorders
 Rare cases of peripheral arterial occlusive disease occurred in patients treated with fingolimod at higher doses (1.25 mg).
+
 Respiratory system
 Minor dose-dependent reductions in values for forced expiratory volume (FEV1) and diffusion capacity for carbon monoxide (DLCO) were observed with Gilenya treatment starting at month 1 and remaining stable thereafter.
 At month 24, the reduction from baseline values in percentage of predicted FEV1 was 2.7% for fingolimod 0.5 mg and 1.2% for placebo, a difference that resolved after treatment discontinuation.
@@ -142,7 +142,6 @@ Some T-cell lymphoma cases were also reported in the post-marketing setting, inc
 Haemophagocytic syndrome
 Very rare cases of haemophagocytic syndrome (HPS) with fatal outcome have been reported in patients treated with fingolimod in the context of an infection.
 HPS is a rare condition that has been described in association with infections, immunosuppression and a variety of autoimmune diseases.
-
 Paediatric population
 
 In the controlled paediatric trial D2311 (see section 5.1), the safety profile in paediatric patients (10 to below 18 years of age) receiving fingolimod 0.25 mg or 0.5 mg daily was overall similar to that seen in adult patients.

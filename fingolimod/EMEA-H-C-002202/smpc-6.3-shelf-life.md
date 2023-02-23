@@ -2,7 +2,7 @@
 
 Gilenya 0.25 mg hard capsules
 
-18 months
+2 years
 
 Gilenya 0.5 mg hard capsules
 

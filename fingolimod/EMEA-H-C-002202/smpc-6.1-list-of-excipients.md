@@ -18,6 +18,7 @@ Shellac (E904)
 Black iron oxide (E172)
 Propylene glycol (E1520)
 Ammonia solution, concentrated (E527)
+
 Gilenya 0.5 mg hard capsules
 
 Capsule fill
@@ -28,7 +29,6 @@ Capsule shell
 Gelatin
 Titanium dioxide (E171)
 Yellow iron oxide (E172)
-
 Printing ink
 Shellac (E904)
 Ethanol, anhydrous

@@ -10,7 +10,8 @@ There have been reports of slow atrioventricular conduction, with isolated repor
 
 If the overdose constitutes first exposure to Gilenya, it is important to monitor patients with a continuous (real time) ECG and hourly measurement of heart rate and blood pressure, at least during the first 6 hours (see section 4.4).
 
-Additionally, if after 6 hours the heart rate is <45 bpm in adults, <55 bpm in paediatric patients aged 12 years and above, or <60 bpm in paediatric patients aged 10 years to below 12 years, or if the ECG at 6 hours after the first dose shows second degree or higher AV block, or if it shows a QTc interval ≥500 msec, monitoring should be extended at least for overnight and until the findings have resolved.
+Additionally, if after 6 hours the heart rate is <45 bpm in adults, <55 bpm in paediatric patients aged 12 years and above, or <60 bpm in paediatric patients aged 10 years to below 12 years, or if the ECG at 6 hours after the first dose shows second degree or higher AV block, or if it shows a QTc interval
+≥500 msec, monitoring should be extended at least for overnight and until the findings have resolved.
 The occurrence at any time of third degree AV block should also lead to extended monitoring including overnight monitoring.
 
 Neither dialysis nor plasma exchange results in removal of fingolimod from the body.
