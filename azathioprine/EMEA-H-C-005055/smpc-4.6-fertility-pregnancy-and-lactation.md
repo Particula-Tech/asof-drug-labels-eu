@@ -13,11 +13,11 @@ This also applies to patients with reduced fertility due to chronic uraemia, as 
 
 Case reports indicate that intrauterine devices (IUD) (coil or T-shaped ‘copper coil’) can fail under azathioprine therapy.
 Therefore, other or additional contraceptive methods should be recommended.
-
 It is known that considerable amounts of azathioprine and its metabolites pass through the placenta and amniotic sac, and are thereby transferred from the mother to the foetus.
 
 Blood count changes (leucopenia and/or thrombocytopenia) have been reported in a number of neonates whose mothers received azathioprine during pregnancy.
 Extra care in haematological monitoring of the mother is advised during pregnancy.
+
 Temporary impairment of the immune response was detected in neonates from intrauterine exposure to a combination of azathioprine with prednisone.
 There have been reports of intrauterine growth retardation, premature births and low birth weights vis-à-vis azathioprine, in particular in combination with corticosteroids.
 Moreover, data is available on spontaneous abortions after both maternal and paternal exposure.

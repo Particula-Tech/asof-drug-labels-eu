@@ -26,8 +26,8 @@ Approximately 30% of azathioprine is bound to plasma proteins.
 
 Azathioprine and its metabolites pass through the central nervous system.
 6-MP concentration in the cerebrospinal fluid are low or negligible after intravenous or oral use.
-
 Biotransformation
+
 Azathioprine is rapidly metabolised in vivo by glutathione S-transferase into the metabolites 6-MP and 1-methyl-4-nitro-5-thioimidazole.
 6-MP passes cell membranes rapidly and is extensively metabolised in numerous multistep metabolic processes into active and inactive metabolites without any enzyme being predominantly active.
 Due to the complex metabolism, all cases of non-efficacy and/or myelosuppression cannot be explained by the inhibition of a single enzyme.
@@ -67,7 +67,6 @@ Special populations
 Elderly patients
 
 No specific studies have been carried out in the elderly (see section 4.2).
-
 Overweight children
 
 In a clinical trial in the United States, 18 children between the ages of 3 and 14 were evenly split into two groups; the crucial factor was whether the ratio of weight to height was greater or less than the 75th percentile.

@@ -14,14 +14,9 @@ It should be controlled more frequently:
 - if high doses are used
 - in elderly patients
 - if renal function is impaired.
-  If haematological toxicity occurs, the dose must be reduced (see
-
-also sections 4.2 and 5.2)
-
+  If haematological toxicity occurs, the dose must be reduced (see also sections 4.2 and 5.2)
 - if hepatic function is impaired.
-  In this case, liver function should be monitored regularly and if
-
-hepatic or haematological toxicity occur, the dose must be reduced (see also sections 4.2 and 5.2).
+  In this case, liver function should be monitored regularly and if hepatic or haematological toxicity occur, the dose must be reduced (see also sections 4.2 and 5.2).
 
 In particular, patients with impaired liver function require special monitoring when using azathioprine, as life-threatening liver damages have been reported (see section 4.8).
 This is particularly important in patients with severe impaired liver function and azathioprine should only be used after a careful benefit/risk analysis.
@@ -41,7 +36,6 @@ Thiopurine methyltransferase (TPMT)
 
 About 10% of patients have decreased activity of the enzyme thiopurine methyltransferase (TPMT) as a result of genetic polymorphism.
 Especially in homozygous individuals, the degradation of azathioprine is impaired, so there is a higher risk of myelotoxic effects.
-
 This effect can be enhanced by co-administration with medicinal products which inhibit the enzyme TPMT, e.g. olsalazine, mesalazine and sulfasalazine (see section 4.5).
 Also a possible link between decreased TPMT activity and secondary leukaemia and myelodysplasia has been reported in individual patients receiving 6-mercaptopurine (the active metabolite of azathioprine) in combination with other cytotoxics (see section 4.8).
 Testing for TMPT deficiency is recommended before treatment, in particular for azathioprine therapy in high doses as well as with rapid deterioration of the blood count.
@@ -81,7 +75,6 @@ Chromosomal abnormalities, which disappear with time, have been demonstrated in 
 Except in extremely rare cases, no overt physical evidence of abnormality has been observed in the offspring of patients treated with azathioprine.
 
 Azathioprine and long-wave ultraviolet (UV) light have been shown to have a synergistic clastogenic effect in patients treated with azathioprine for a range of disorders.
-
 Carcinogenicity
 
 Patients receiving immunosuppressive therapy, including azathioprine, are at increased risk of developing lymphoproliferative disorders and other malignancies, notably skin cancers (melanoma and non-melanoma), sarcomas (Kaposi’s and non-Kaposi’s) and uterine cervical cancers in situ (see section 4.8).
@@ -121,7 +114,6 @@ Vaccination
 
 Vaccination with live vaccines can cause infections in immunocompromised patients.
 Therefore, it is recommended that patients are not administered with any live vaccine until at least 3 months after the end of treatment with azathioprine (see section 4.5).
-
 Ribavirin
 
 Concomitant use of ribavirin and azathioprine is not recommended.

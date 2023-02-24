@@ -14,8 +14,8 @@ The frequencies are defined as follows: very common (≥ 1/10), common (≥ 1/10
 | Infections and infestations | Very common | Viral, fungal and bacterial infections (in transplant recipients who are treated with azathioprine in combination with other immune-suppressants) |
 |  | Uncommon | Viral, fungal and bacterial infections (in other patients) |
 |  | Very rare | Cases of progressive multifocal leukoencephalopathy (PML) caused by the JC virus have been reported after using azathioprine in combination with other immunosuppressants (see section 4.4) |
-| Neoplasms benign, malignant and unspecified (incl. cysts and polyps) | Rare | Neoplasms including lymphoproliferative disorders, skin cancers (malignant melanomas and non- melanomas), sarcomas (Kaposi’s and non-Kaposi’s), uterine cancer, cervix carcinoma, acute myeloid leukaemia and myelodysplasstic syndrome (see also section 4.4) |
-|  | Very rare | Hepatosplenic T-cell lymphoma (in IBD patients using other anti-TNF drugs concomitantly) |
+| Neoplasms benign, malignant and unspecified (incl. cysts and polyps) | Rare | Neoplasms including lymphoproliferative disorders, skin cancers (malignant melanomas and non-melanomas), sarcomas (Kaposi’s and non-Kaposi’s), uterine cancer, cervix carcinoma, acute myeloid leukaemia and myelodysplastic syndrome (see also section 4.4) |
+|  | Very rare | Hepatosplenic T-cell lymphoma (in IBD patients using other anti- TNF drugs concomitantly) |
 | Blood and lymphatic system disorders | Very common | Leukopenia |
 |  | Common | Thrombocytopenia |
 |  | Uncommon | Anaemia |
@@ -77,7 +77,6 @@ If there is any exacerbation of symptoms in these patients, a possible causal re
 Hepatobiliary disorders
 Dose-dependent cholestasis and deterioration of liver function have occasionally been reported in association with azathioprine therapy and are usually reversible on discontinuation of therapy.
 This may be associated with features of a hypersensitivity reaction.
-
 Rare, but life-threatening hepatic damage associated with chronic administration of azathioprine has been described primarily in transplant patients.
 Histological findings include sinusoidal dilatation, peliosis hepatis, veno-occlusive disease and nodular regenerative hyperplasia.
 In some cases, withdrawal of azathioprine has resulted in either temporary or permanent improvement in liver histology and the symptoms.
@@ -85,12 +84,9 @@ In some cases, withdrawal of azathioprine has resulted in either temporary or pe
 Skin and subcutaneous tissue disorders
 Alopecia has been described for both monotherapy and combined therapy with azathioprine.
 In many instances, the condition resolved spontaneously despite continuing therapy.
-The relationship between alopecia and azathioprine treatment is still unclear.
+The relationship between alopecia and azathioprine treatment is still unclear
 
 Reporting of suspected adverse reactions
-
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system
-
-listed in Appendix V.
+Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.

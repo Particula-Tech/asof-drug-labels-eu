@@ -23,7 +23,6 @@ Where possible, concomitant administration of cytostatic medicinal products, or 
 There are conflicting clinical reports of interactions, resulting in serious haematological abnormalities, between azathioprine and trimethoprim/sulfamethoxazole.
 There have been case reports suggesting that haematological abnormalities may develop due to the concomitant administration of azathioprine and ACE Inhibitors.
 It has been suggested that cimetidine and indomethacin may have myelosuppressive effects which may be enhanced by concomitant administration of azathioprine.
-
 Allopurinol/ oxipurinol/ thiopurinol and other xanthine oxidase inhibitors
 
 Xanthine oxidase activity is inhibited by allopurinol, oxipurinol and thiopurinol which results in reduced conversion of biologically active 6-thioinosinic acid to biologically inactive 6-thiouric acid.

@@ -40,11 +40,7 @@ The table below shows, for a range of age, weight and doses, the dose (mg) to vo
 
 Table 1: Dose (mg) to volume (ml) conversion using the two oral syringes
 
-Weight Dose†
-Age
-* 1mg/kg 2mg/kg 3mg/kg 4mg/kg 5mg/kg
-(Years)
-(Kg) mg ml mg ml mg ml mg ml mg ml
+(Years) Age Weight* (Kg) mg 1mg/kg ml mg 2mg/kg ml mg 3mg/kg Dose† ml mg 4mg/kg ml mg 5mg/kg ml
 0 3.3 3.3 0.3 6.6 0.7 9.9 1.0 13.2 1.3 16.5 1.7
 1 month 4.5 4.5 0.5 9.0 0.9 13.5 1.4 18.0 1.8 22.5 2.3
 2 month 5.6 5.6 0.6 11.2 1.1 16.8 1.7 22.4 2.2 28.0 2.8
@@ -64,10 +60,8 @@ Age
 9.0 28.1 28.1 2.8 56.2 5.50 84.3 8.50 112.4 11.25 140.5 14.00
 10.0 31.2 31.2 3.0 62.4 6.25 93.6 9.25 124.8 12.50 156.0 15.50
 12.0 38.2 38.2 3.75 76.4 7.75 114.6 11.50 152.8 15.25 191.0 19.00
-15.0 55.5 55.5 5.50 111. 11.00 166.5 16.75 222.0 22.25 277.5 27.75
-0
-18.0 67.0 67.0 6.75 134. 13.50 201.0 20.00 268.0 26.75 335.0 33.50
-0
+15.0 55.5 55.5 5.50 111.0 11.00 166.5 16.75 222.0 22.25 277.5 27.75
+18.0 67.0 67.0 6.75 134.0 13.50 201.0 20.00 268.0 26.75 335.0 33.50
 
 *50th percentile for boys extracted from WHO (0-10 years) and UK (11-18 years) growth charts
 †Doses less than or equal to 30 mg to be drawn up using the 3 ml (red) oral syringe with 0.1 ml (1mg) graduations.
@@ -88,7 +82,6 @@ The posology in paediatric population is the same as in adults.
 
 Dose in other conditions
 The posology in paediatric population is the same as in adults.
-
 Juvenile idiopathic arthritis
 The safety and efficacy of Jayempi in children (0 to 16 years) have not yet been established.
 No data are available.
