@@ -81,7 +81,9 @@ Censored Censored
 GROUP # RESPONDERS / # RANDOMIZED HAZARD RATIO (95% CI)
 Dasatinib 198/259
 Imatinib 167/260
-Dasatinib over imatinib 1.54 (1.25 - 1.89)
+Dasatinib over imatinib 1.54 (1.25 -
+
+1.89)
 
 The rates of cCCyR in the SPRYCEL and imatinib treatment groups, respectively, within 3 months (54% and 30%), 6 months (70% and 56%), 9 months (75% and 63%), 24 months (80% and 74%),
 36 months (83% and 77%), 48 months (83% and 79%) and 60 months (83% and 79%) were consistent with the primary endpoint.
@@ -265,10 +267,10 @@ Table 11: Efficacy in phase II SPRYCEL single-arm clinical studiesa
 | Chronic Accelerated (n= 387) (n= 174) | Myeloid blast (n= 109) | Lymphoid blast (n= 48) |
 | --- | --- | --- |
 | Haematologic response rateb (%) |  |  |
-| 64% MaHR (95% CI) n/a (57-72) 91% CHR (95% CI) 50% (42-58) (88-94) NEL (95% CI) n/a 14% (10-21) Duration of MaHR (%; Kaplan-Meier estimates) 1 year n/a 79% (71-87) 2 year n/a 60% (50-70) | 33% (24-43) 26% (18-35) 7% (3-14) | 35% (22-51) 29% (17-44) 6% (1-17) |
+| MaHR (95% CI) n/a 64% (57-72) CHR (95% CI) 91% (88-94) 50% (42-58) NEL (95% CI) n/a 14% (10-21) Duration of MaHR (%; Kaplan-Meier estimates) 1 year n/a 79% (71-87) 2 year n/a 60% (50-70) | 33% (24-43) 26% (18-35) 7% (3-14) | 35% (22-51) 29% (17-44) 6% (1-17) |
 |  | 71% (55-87) 41% (21-60) | 29% (3-56) 10% (0-28) |
 | Cytogenetic responsec (%) |  |  |
-| 62% MCyR (95% CI) 40% (33-48) (57-67) CCyR (95% CI) 54% (48-59) 33% (26-41) | 34% (25-44) 27% (19-36) | 52% (37-67) 46% (31-61) |
+| MCyR (95% CI) 62% (57-67) 40% (33-48) CCyR (95% CI) 54% (48-59) 33% (26-41) | 34% (25-44) 27% (19-36) | 52% (37-67) 46% (31-61) |
 | Survival (%; Kaplan-Meier estimates) |  |  |
 | Progression-Free 1 year 91% (88-94) 64% (57-72) 2 year 80% (75-84) 46% (38-54) | 35% (25-45) 20% (11-29) | 14% (3-25) 5% (0-13) |
 | Overall 1 year 97% (95-99) 83% (77-89) 2 year 94% (91-97) 72% (64-79) | 48% (38-59) 38% (27-50) | 30% (14-47) 26% (10-42) |
@@ -296,6 +298,7 @@ Other secondary endpoints included duration of MCyR, PFS, and overall survival.
 A total of 670 patients, of whom 497 were imatinib-resistant, were randomised to the dasatinib 100 mg once daily, 140 mg once daily, 50 mg twice daily, or 70 mg twice daily group.
 The median duration of treatment for all patients still on therapy with a minimum of 5 years of follow-up (n=205) was 59 months (range 28-66 months).
 Median duration of treatment for all patients at 7 years of follow-up was 29.8 months (range < 1-92.9 months).
+
 Efficacy was achieved across all dasatinib treatment groups with the once daily schedule demonstrating comparable efficacy (non-inferiority) to the twice daily schedule on the primary efficacy endpoint (difference in MCyR 1.9%; 95% confidence interval [-6.8% - 10.6%]); however, the 100 mg once daily regimen demonstrated improved safety and tolerability.
 Efficacy results are presented in Tables 12 and 13.
 
@@ -366,8 +369,7 @@ Median duration of treatment was approximately 6 months (range 0.03-31 months).
 The once daily schedule demonstrated comparable efficacy (non-inferiority) to the twice daily schedule on the primary efficacy endpoint (difference in MaHR 0.8%; 95% confidence interval [-7.1% - 8.7%]); however, the 140 mg once daily regimen demonstrated improved safety and tolerability.
 Response rates are presented in Table 14.
 
-Table 14: Efficacy of SPRYCEL in phase III dose-optimisation study: advanced phase
-CML and Ph+ ALL (2 year results)a
+Table 14: Efficacy of SPRYCEL in phase III dose-optimisation study: advanced phase CML and Ph+ ALL (2 year results)a
 
 |  | Accelerated (n= 158) | Myeloid blast (n= 75) | Lymphoid blast (n= 33) |
 | --- | --- | --- | --- |
@@ -439,18 +441,5 @@ When this rate was based on the 85 patients with evaluable Ig/TCR assessments, t
 The MRD negativity rates at the end of induction and consolidation as measured by flow cytometry were 66.0% and 84.0%, respectively.
 
 [SPRYCEL 10 mg/mL powder for oral suspension]
-
-| Chronic Accelerated (n= 387) (n= 174) | Myeloid blast (n= 109) | Lymphoid blast (n= 48) |
-| --- | --- | --- |
-| Haematologic response rateb (%) |  |  |
-| MaHR (95% CI) n/a 64% (57-72) CHR (95% CI) 91% (88-94) 50% (42-58) NEL (95% CI) n/a 14% (10-21) Duration of MaHR (%; Kaplan-Meier estimates) 1 year n/a 79% (71-87) 2 year n/a 60% (50-70) | 33% (24-43) 26% (18-35) 7% (3-14) | 35% (22-51) 29% (17-44) 6% (1-17) |
-|  | 71% (55-87) 41% (21-60) | 29% (3-56) 10% (0-28) |
-| Cytogenetic responsec (%) |  |  |
-| MCyR (95% CI) 62% (57-67) 40% (33-48) CCyR (95% CI) 54% (48-59) 33% (26-41) | 34% (25-44) 27% (19-36) | 52% (37-67) 46% (31-61) |
-| Survival (%; Kaplan-Meier estimates) |  |  |
-| Progression-Free 1 year 91% (88-94) 64% (57-72) 2 year 80% (75-84) 46% (38-54) | 35% (25-45) 20% (11-29) | 14% (3-25) 5% (0-13) |
-| Overall 1 year 97% (95-99) 83% (77-89) 2 year 94% (91-97) 72% (64-79) | 48% (38-59) 38% (27-50) | 30% (14-47) 26% (10-42) |
-
-Table 14: Efficacy of SPRYCEL in phase III dose-optimisation study: advanced phase CML and Ph+ ALL (2 year results)a
 
 This dose represents 30% lower exposure compared to the recommended dose (see section 5.2).

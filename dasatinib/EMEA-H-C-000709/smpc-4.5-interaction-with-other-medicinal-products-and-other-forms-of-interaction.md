@@ -21,6 +21,7 @@ Long-term suppression of gastric acid secretion by H2 antagonists or proton pump
 In a single-dose study in healthy subjects, the administration of famotidine 10 hours prior to a single dose of SPRYCEL reduced dasatinib exposure by 61%.
 In a study of 14 healthy subjects, administration of a single 100-mg dose of SPRYCEL 22 hours following a 4-day, 40-mg omeprazole dose at steady state reduced the AUC of dasatinib by 43% and the Cmax of dasatinib by 42%.
 The use of antacids should be considered in place of H2 antagonists or proton pump inhibitors in patients receiving SPRYCEL therapy (see section 4.4).
+
 Antacids
 Non-clinical data demonstrate that the solubility of dasatinib is pH-dependent.
 In healthy subjects, the concomitant use of aluminium hydroxide/magnesium hydroxide antacids with SPRYCEL reduced the AUC of a single dose of SPRYCEL by 55% and the Cmax by 58%.

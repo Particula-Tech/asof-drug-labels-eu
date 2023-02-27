@@ -260,9 +260,9 @@ The frequency of grade 3 and 4 haematological abnormalities is presented in Tabl
 
 Table 8: CTC grades 3/4 haematological laboratory abnormalities in clinical studies in patients with resistance or intolerance to prior imatinib therapya
 
-| Chronic phase (n= 165)b | Accelerated Myeloid phase blast phase (n= 157)c (n= 74)c Percent (%) of patients |
-| --- | --- |
-| Haematology parameters Neutropaenia 36 Thrombocytopaenia 23 Anaemia 13 | 58 77 63 78 47 74 |
+|  | Chronic phase (n= 165)b | Accelerated Myeloid phase blast phase (n= 157)c (n= 74)c Percent (%) of patients |
+| --- | --- | --- |
+| Haematology parameters Neutropaenia Thrombocytopaenia Anaemia | 36 23 13 | 58 77 63 78 47 74 |
 
 Lymphoid blast
 

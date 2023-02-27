@@ -19,7 +19,6 @@ SPRYCEL powder for oral suspension is to be constituted as follows:
 Note: If you have to constitute more than one bottle, complete one bottle at a time.
 Wash your hands before initiating the constitution.
 This procedure should be performed on a clean surface.
-
 Step 1: Tap bottom of each bottle (containing 33 g SPRYCEL powder for oral suspension) gently to loosen the powder.
 Remove child-resistant closure and foil seal.
 Add 77.0 mL of purified water all at once to the bottle and close tightly with closure.
@@ -116,21 +115,21 @@ Wash the outside and the inside of the syringe with water and allow to air dry a
 
 - Do not wash in a dishwasher.
 
-- Do not take the DO NOT USE A
-syringe apart in DISHWASHER
+DO NOT USE A
 
-order to avoid damaging it.
+- Do not take the DISHWASHER
+
+syringe apart in order to avoid damaging it.
 
 ALLOW TO
+AIR DRY AFTER
 
-11. Refer to the AIR DRY AFTER
-package leaflet (see EACH USE
+11. Refer to the EACH USE
 
-section 5 ‘How to store SPRYCEL’) for instructions on discarding any unused medicine,
+package leaflet (see section 5 ‘How to store SPRYCEL’) for instructions on discarding any
 
-syringe and bottle. TAKE APART DO NOT
-
-THE SYRINGE
+unused medicine, TAKE APART DO NOT
+syringe and bottle. THE SYRINGE
 
 Once constituted, the oral suspension should only be administered using the oral dosing syringe supplied with each pack.
 Refer to the package leaflet for more detailed instructions for use.

@@ -113,6 +113,7 @@ In paediatric trials of SPRYCEL in combination with chemotherapy in newly diagno
 This case was a Grade 1 osteopenia.
 
 Growth retardation has been observed in paediatric patients treated with SPRYCEL in clinical trials (see section 4.8).
+After a maximum of 2 years of treatment, a downward trend in expected height has been observed, at the same degree as observed with the use of chemotherapy alone, without impacting expected weight and BMI and no association with hormones abnormalities or other laboratory parameters.
 Monitoring of bone growth and development in paediatric patients is recommended.
 
 Excipients
@@ -136,6 +137,7 @@ May be harmful to the teeth.
 Benzoic acid and benzoates
 SPRYCEL contains 0.25 mg benzoic acid in each mL of oral suspension and 0.25 mg sodium benzoate in each mL of oral suspension.
 Benzoic acid/Benzoate salt may increase jaundice (yellowing of the skin and eyes) in newborn babies (up to 4 weeks old).
+
 Benzyl alcohol
 SPRYCEL contains 0.017 mg benzyl alcohol in each mL of oral suspension.
 Benzyl alcohol may cause allergic reactions.
