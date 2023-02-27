@@ -1,15 +1,14 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies.
-ATC code: L01FF05
-
-Mechanism of action
+ATC code: L01FF05 Mechanism of action
 
 Programmed death-ligand 1 (PD-L1) may be expressed on tumour cells and/or tumour-infiltrating immune cells, and can contribute to the inhibition of the antitumour immune response in the tumour microenvironment.
 Binding of PD-L1 to the PD-1 and B7.1 receptors found on T-cells and antigen presenting cells suppresses cytotoxic T-cell activity, T-cell proliferation and cytokine production.
 
 Atezolizumab is an Fc-engineered, humanised immunoglobulin G1 (IgG1) monoclonal antibody that directly binds to PD-L1 and provides a dual blockade of the PD-1 and B7.1 receptors, releasing PD-L1/PD-1 mediated inhibition of the immune response, including reactivating the antitumour immune response without inducing antibody-dependent cellular cytotoxicity.
 Atezolizumab spares the PD-L2/PD-1 interaction allowing PD-L2/PD-1 mediated inhibitory signals to persist.
+
 Clinical efficacy and safety
 
 Urothelial carcinoma
@@ -39,7 +38,6 @@ The majority of patients were white (72.1%), 53.9% of patients within the chemot
 Baseline ECOG performance status was 0 (45.6%) or 1 (54.4%).
 Bladder was the primary tumour site for 71.1% of patients and 25.4% of patients had upper tract UC.
 There were 24.2% of patients who received only prior platinum-containing adjuvant or neoadjuvant therapy and progressed within 12 months.
-
 The primary efficacy endpoint for IMvigor211 is overall survival (OS).
 Secondary efficacy endpoints evaluated per investigator-assessed Response Evaluation Criteria in Solid Tumours (RECIST) v1.1 are objective response rate (ORR), progression-free survival (PFS), and duration of response (DOR).
 Comparisons with respect to OS between the treatment arm and control arm within the IC2/3, IC1/2/3, and ITT (Intention-to-treat, i.e. all comers) populations were tested using a hierarchical fixed-sequence procedure based on a stratified log-rank test at two-sided level of 5% as follows: step 1) IC2/3 population; step 2) IC1/2/3 population; step 3) all comers population.
@@ -380,7 +378,7 @@ Patients with EGFR mutations or ALK rearrangements should have been previously t
 Patients were staged according to the American Joint Committee on Cancer (AJCC) 7th edition.
 Patients were excluded if they had a history of autoimmune disease, administration of live, attenuated vaccine within 28 days prior to randomisation, administration of immunostimulatory agents within 4 weeks or systemic immunosuppressive medicinal products within 2 weeks prior to randomisation, and active or untreated CNS metastases.
 Patients who had prior treatment with CD137 agonists or immune checkpoint blockade therapies (anti-PD-1, and anti-PD-L1 therapeutic antibodies) were not eligible.
-However, patients who had prior anti-CTLA-4 treatment could be enrolled, as long as the last dose was received at least 6 weeks prior to randomisation, and there was no history of severe immune-related adverse events from anti-CTLA-4 (NCI CTCAE Grades 3 and 4).
+However, patients who had prior anti-CTLA-4 treatment could be enrolled, as long as the last dose was received at least 6 weeks prior to randomisation, and there was no history of severe immune-mediated adverse events from anti-CTLA-4 (NCI CTCAE Grades 3 and 4).
 Tumour assessments were conducted every 6 weeks for the first 48 weeks following Cycle 1, then every 9 weeks thereafter.
 Tumour specimens were evaluated for PD-L1 expression on tumour cells (TC) and tumour infiltrating immune cells (IC) and the results were used to define the PD-L1 expression subgroups for the analyses described below.
 

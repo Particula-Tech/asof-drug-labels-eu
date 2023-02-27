@@ -17,5 +17,5 @@ There was no effect on the male reproductive organs.
 Teratogenicity
 
 No reproductive or teratogenicity studies in animals have been conducted with atezolizumab.
-Animal studies have demonstrated that inhibition of the PD-L1/PD-1 pathway can lead to immune-related rejection of the developing foetus resulting in foetal death.
+Animal studies have demonstrated that inhibition of the PD-L1/PD-1 pathway can lead to immune-mediated rejection of the developing foetus resulting in foetal death.
 Administration of atezolizumab could cause foetal harm, including embryo-foetal lethality.

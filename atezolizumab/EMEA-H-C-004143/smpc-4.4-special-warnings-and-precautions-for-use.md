@@ -4,29 +4,29 @@ Traceability
 
 In order to improve the traceability of biological medicinal products, the trade name and the batch number of the administered product should be clearly recorded in the patient file.
 
-Immune-related adverse reactions
+Immune-mediated adverse reactions
 
-Most immune-related adverse reactions occurring during treatment with atezolizumab were reversible with interruptions of atezolizumab and initiation of corticosteroids and/or supportive care.
-Immune-related adverse reactions affecting more than one body system have been observed.
-Immune-related adverse reactions with atezolizumab may occur after the last dose of atezolizumab.
-
-For suspected immune-related adverse reactions, thorough evaluation to confirm aetiology or exclude other causes should be performed.
+Most immune-mediated adverse reactions occurring during treatment with atezolizumab were reversible with interruptions of atezolizumab and initiation of corticosteroids and/or supportive care.
+Immune-mediated adverse reactions affecting more than one body system have been observed.
+Immune-mediated adverse reactions with atezolizumab may occur after the last dose of atezolizumab.
+For suspected immune-mediated adverse reactions, thorough evaluation to confirm aetiology or exclude other causes should be performed.
 Based on the severity of the adverse reaction, atezolizumab should be withheld and corticosteroids administered.
 Upon improvement to Grade ≤ 1, corticosteroid should be tapered over ≥ 1 month.
-Based on limited data from clinical trials in patients whose immune-related adverse reactions could not be controlled with systemic corticosteroid use, administration of other systemic immunosuppressants may be considered.
+Based on limited data from clinical trials in patients whose immune-mediated adverse reactions could not be controlled with systemic corticosteroid use, administration of other systemic immunosuppressants may be considered.
 
-Atezolizumab must be permanently discontinued for any Grade 3 immune-related adverse reaction that recurs and for any Grade 4 immune-related adverse reactions, except for endocrinopathies that are controlled with replacement hormones (see sections 4.2 and 4.8).
-Immune-related pneumonitis
+Atezolizumab must be permanently discontinued for any Grade 3 immune-mediated adverse reaction that recurs and for any Grade 4 immune-mediated adverse reactions, except for endocrinopathies that are controlled with replacement hormones (see sections 4.2 and 4.8).
+
+Immune-mediated pneumonitis
 
 Cases of pneumonitis, including fatal cases, have been observed in clinical trials with atezolizumab (see section 4.8).
-Patients should be monitored for signs and symptoms of pneumonitis and causes other than immune-related pneumonitis should be ruled out.
+Patients should be monitored for signs and symptoms of pneumonitis and causes other than immune-mediated pneumonitis should be ruled out.
 
 Treatment with atezolizumab should be withheld for Grade 2 pneumonitis, and 1 to 2 mg/kg body weight (bw)/day prednisone or equivalent should be started.
 If symptoms improve to ≤ Grade 1, corticosteroids should be tapered over ≥ 1 month.
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
 Treatment with atezolizumab must be permanently discontinued for Grade 3 or 4 pneumonitis.
 
-Immune-related hepatitis
+Immune-mediated hepatitis
 
 Cases of hepatitis, some leading to fatal outcomes have been observed in clinical trials with atezolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of hepatitis.
@@ -46,8 +46,7 @@ If the event improves to ≤ Grade 1, corticosteroids should be tapered over ≥
 
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
 Treatment with atezolizumab must be permanently discontinued if ALT or AST increases to > 10 x ULN or total bilirubin increases > 3 x ULN).
-
-Immune-related colitis
+Immune-mediated colitis
 
 Cases of diarrhoea or colitis have been observed in clinical trials with atezolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of colitis.
@@ -62,7 +61,7 @@ Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 
 Treatment with atezolizumab must be permanently discontinued for Grade 4 (life threatening; urgent intervention indicated) diarrhoea or colitis.
 The potential complication of gastrointestinal perforation associated with colitis should be taken into consideration.
 
-Immune-related endocrinopathies
+Immune-mediated endocrinopathies
 
 Hypothyroidism, hyperthyroidism, adrenal insufficiency, hypophysitis and type 1 diabetes mellitus, including diabetic ketoacidosis have been observed in clinical trials with atezolizumab (see section 4.8).
 
@@ -90,8 +89,7 @@ Treatment with atezolizumab should be permanently discontinued for Grade 4 hypop
 Treatment with insulin should be initiated for type 1 diabetes mellitus.
 For ≥ Grade 3 hyperglycaemia (fasting glucose > 250 mg/dL or 13.9 mmol/L), atezolizumab should be withheld.
 Treatment with atezolizumab may be resumed if metabolic control is achieved on insulin replacement therapy.
-
-Immune-related meningoencephalitis
+Immune-mediated meningoencephalitis
 
 Meningoencephalitis has been observed in clinical trials with atezolizumab (see section 4.8).
 Patients should be monitored for clinical signs and symptoms of meningitis or encephalitis.
@@ -100,14 +98,15 @@ Treatment with atezolizumab must be permanently discontinued for any grade of me
 Treatment with intravenous corticosteroids (1 to 2 mg/kg bw/day methylprednisolone or equivalent) should be started.
 Once symptoms improve, treatment with 1 to 2 mg/kg bw/day of prednisone or equivalent should follow.
 
-Immune-related neuropathies
+Immune-mediated neuropathies
 
 Myasthenic syndrome/myasthenia gravis or Guillain-Barré syndrome, which may be life threatening, were observed in patients receiving atezolizumab.
 Patients should be monitored for symptoms of motor and sensory neuropathy.
+
 Treatment with atezolizumab must be permanently discontinued for any grade of myasthenic syndrome/myasthenia gravis or Guillain-Barré syndrome.
 Initiation of systemic corticosteroids (at a dose of 1 to 2 mg/kg bw/day of prednisone or equivalent) should be considered.
 
-Immune-related pancreatitis
+Immune-mediated pancreatitis
 
 Pancreatitis, including increases in serum amylase and lipase levels, has been observed in clinical trials with atezolizumab (see section 4.8).
 Patients should be closely monitored for signs and symptoms that are suggestive of acute pancreatitis.
@@ -118,7 +117,7 @@ Treatment with atezolizumab may be resumed when serum amylase and lipase levels 
 ≤ Grade 1 within 12 weeks, or symptoms of pancreatitis have resolved, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
 Treatment with atezolizumab should be permanently discontinued for Grade 4, or any grade of recurrent pancreatitis.
 
-Immune-related myocarditis
+Immune-mediated myocarditis
 
 Cases of myocarditis, including fatal cases, have been observed with atezolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of myocarditis.
@@ -128,7 +127,7 @@ Patients with cardiac or cardiopulmonary symptoms should be assessed for potenti
 If myocarditis is suspected, treatment with atezolizumab should be withheld, prompt initiation of systemic corticosteroids at a dose of 1 to 2 mg/kg bw/day of prednisone or equivalent should be started, and prompt cardiology consultation with diagnostic workup according to current clinical guidelines should be initiated.
 Once a diagnosis of myocarditis is established, treatment with atezolizumab must be permanently discontinued for Grade ≥ 2 myocarditis (see section 4.2).
 
-Immune-related nephritis
+Immune-mediated nephritis
 
 Nephritis has been observed in clinical trials with atezolizumab (see section 4.8).
 Patients should be monitored for changes in renal function.
@@ -137,7 +136,7 @@ Treatment with atezolizumab should be withheld for Grade 2 nephritis, and treatm
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
 Treatment with atezolizumab must be permanently discontinued for Grade 3 or 4 nephritis.
 
-Immune-related myositis
+Immune-mediated myositis
 
 Cases of myositis, including fatal cases, have been observed with atezolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of myositis.
@@ -149,9 +148,9 @@ If symptoms improve to ≤ Grade 1, taper corticosteroids as clinically indicate
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg oral prednisone or equivalent per day.
 Treatment with atezolizumab should be permanently discontinued for Grade 4 or grade 3 recurrent myositis, or when unable to reduce the corticosteroid dose to the equivalent of ≤ 10 mg prednisone per day within 12 weeks after onset.
 
-Immune-related severe cutaneous adverse reactions
+Immune-mediated severe cutaneous adverse reactions
 
-Immune-related severe cutaneous adverse reactions (SCARs), including cases of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported in patients receiving atezolizumab.
+Immune-mediated severe cutaneous adverse reactions (SCARs), including cases of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported in patients receiving atezolizumab.
 Patients should be monitored for suspected severe skin reactions and other causes should be excluded.
 For suspected SCARs, patients should be referred to a specialist for further diagnosis and management.
 
@@ -164,6 +163,14 @@ For confirmed SJS or TEN, atezolizumab should be permanently discontinued.
 
 Caution should be used when considering the use of atezolizumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anticancer agents.
 
+Immune-mediated pericardial disorders
+
+Pericardial disorders, including pericarditis, pericardial effusion and cardiac tamponade, some leading to fatal outcomes, have been observed with atezolizumab (see section 4.8).
+Patients should be monitored for clinical signs and symptoms of pericardial disorders.
+
+For suspected Grade 1 pericarditis, treatment with atezolizumab should be withheld and prompt cardiology consultation with diagnostic workup according to current clinical guidelines should be initiated.
+For suspected Grade ≥ 2 pericardial disorders, treatment with atezolizumab should be withheld, prompt treatment with systemic corticosteroids at a dose of 1 to 2 mg/kg bw/day of prednisone or equivalent should be started and prompt cardiology consultation with diagnostic workup according to current clinical guidelines should be initiated.
+Once a diagnosis of a pericardial disorder event is established, treatment with atezolizumab must be permanently discontinued for Grade ≥ 2 pericardial disorders (see section 4.2).
 Haemophagocytic lymphohistiocytosis
 
 Haemophagocytic lymphohistiocytosis (HLH), including fatal cases, has been reported in patients receiving atezolizumab (see section 4.8).
@@ -171,12 +178,12 @@ HLH should be considered when the presentation of cytokine release syndrome is a
 Patients should be monitored for clinical signs and symptoms of HLH.
 For suspected HLH, atezolizumab must be permanently discontinued and patients should be referred to a specialist for further diagnosis and management.
 
-Other immune-related adverse reactions
+Other immune-mediated adverse reactions
 
-Given the mechanism of action of atezolizumab, other potential immune-related adverse reactions may occur, including noninfective cystitis.
+Given the mechanism of action of atezolizumab, other potential immune-mediated adverse reactions may occur, including noninfective cystitis.
 
-Evaluate all suspected immune-related adverse reactions to exclude other causes.
-Patients should be monitored for signs and symptoms of immune-related adverse reactions and, based on the severity of the reaction, managed with treatment modifications and corticosteroids as clinically indicated (see section 4.2 and section 4.8).
+Evaluate all suspected immune-mediated adverse reactions to exclude other causes.
+Patients should be monitored for signs and symptoms of immune-mediated adverse reactions and, based on the severity of the reaction, managed with treatment modifications and corticosteroids as clinically indicated (see section 4.2 and section 4.8).
 
 Infusion-related reactions
 
@@ -187,6 +194,7 @@ Atezolizumab should be permanently discontinued in patients with Grade 3 or 4 in
 Patients with Grade 1 or 2 infusion-related reactions may continue to receive atezolizumab with close monitoring; premedication with antipyretic and antihistamines may be considered.
 
 Disease-specific precautions
+
 Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in metastatic non-squamous NSCLC
 
 Physicians should carefully consider the combined risks of the four-drug regimen of atezolizumab bevacizumab, paclitaxel, and carboplatin before initiating treatment (see section 4.8).
@@ -222,6 +230,7 @@ Please refer to the bevacizumab Summary of Product Characteristics.
 
 Diabetes mellitus can occur during treatment with atezolizumab in combination with bevacizumab.
 Physicians should monitor blood glucose levels prior to and periodically during treatment with atezolizumab in combination with bevacizumab as clinically indicated.
+
 Use of atezolizumab as monotherapy for first-line treatment in metastatic NSCLC
 
 Physicians should consider the delayed onset of atezolizumab effect before initiating first-line treatment as monotherapy in patients with NSCLC.

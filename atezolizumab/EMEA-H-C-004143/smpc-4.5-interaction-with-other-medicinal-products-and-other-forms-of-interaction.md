@@ -4,4 +4,4 @@ No formal pharmacokinetic interaction studies have been conducted with atezolizu
 Since atezolizumab is cleared from the circulation through catabolism, no metabolic drug-drug interactions are expected.
 
 The use of systemic corticosteroids or immunosuppressants before starting atezolizumab should be avoided because of their potential interference with the pharmacodynamic activity and efficacy of atezolizumab.
-However, systemic corticosteroids or other immunosuppressants can be used to treat immune-related adverse reactions after starting atezolizumab (see section 4.4).
+However, systemic corticosteroids or other immunosuppressants can be used to treat immune-mediated adverse reactions after starting atezolizumab (see section 4.4).
