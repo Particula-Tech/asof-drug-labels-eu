@@ -60,7 +60,7 @@ Cases of serotonin syndrome have been reported in patients taking aripiprazole, 
 
 [ABILIFY 7.5 mg/mL solution for injection]
 
-No specific interaction studies have been performed with ABILIFY solution for injection.
+No interaction studies have been performed with ABILIFY solution for injection.
 The information below is obtained from studies with oral aripiprazole.
 
 Potential for other medicinal products to affect ABILIFY solution for injection

@@ -1,7 +1,6 @@
 # 6.5 Nature and contents of container
 
 Aluminium perforated unit dose blisters in cartons of 14 × 1, 28 × 1, 49 × 1, 56 × 1, 98 × 1 tablets.
-
 Not all pack sizes may be marketed.
 
 [ABILIFY 10 mg orodispersible tablets]

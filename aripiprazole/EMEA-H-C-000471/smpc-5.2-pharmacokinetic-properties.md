@@ -29,6 +29,7 @@ Following a single oral dose of [14C]-labelled aripiprazole, approximately 27 % 
 Less than 1 % of unchanged aripiprazole was excreted in the urine and approximately 18 % was recovered unchanged in the faeces.
 
 Paediatric population
+
 The pharmacokinetics of aripiprazole and dehydro-aripiprazole in paediatric patients 10 to 17 years of age were similar to those in adults after correcting for the differences in body weights.
 
 Pharmacokinetics in special patient groups

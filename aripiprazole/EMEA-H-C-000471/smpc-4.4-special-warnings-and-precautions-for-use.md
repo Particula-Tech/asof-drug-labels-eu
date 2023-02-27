@@ -126,10 +126,15 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that
 
 [ABILIFY 1 mg/mL oral solution]
 
-Fructose and sucrose
+Fructose
 
-The oral solution contains fructose and sucrose.
+The oral solution contains fructose.
 Fructose may damage teeth.
+Patients with hereditary fructose intolerance (HFI) should not take/be given this medicinal product.
+
+Sucrose
+
+The oral solution contains sucrose.
 Sucrose may be harmful to the teeth.
 Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicinal product.
 

@@ -3,7 +3,6 @@
 Pharmacotherapeutic group: Psycholeptics, other antipsychotics, ATC code: N05AX12
 
 Mechanism of action
-
 It has been proposed that aripiprazole’s efficacy in schizophrenia and Bipolar I Disorder is mediated through a combination of partial agonism at dopamine D2 and serotonin 5-HT1A receptors and antagonism of serotonin 5-HT2A receptors.
 Aripiprazole exhibited antagonist properties in animal models of dopaminergic hyperactivity and agonist properties in animal models of dopaminergic hypoactivity.
 Aripiprazole exhibited high binding affinity in vitro for dopamine D2 and D3, serotonin 5-HT1A and 5-HT2A receptors and moderate affinity for dopamine D4, serotonin 5-HT2C and 5-HT7, alpha-1 adrenergic and histamine H1 receptors.
@@ -38,9 +37,9 @@ Prolactin
 Prolactin levels were evaluated in all trials of all doses of aripiprazole (n = 28,242).
 The incidence of hyperprolactinaemia or increased serum prolactin in patients treated with aripiprazole (0.3 %) was similar to that of placebo (0.2 %).
 For patients receiving aripiprazole, the median time to onset was 42 days and median duration was 34 days.
-
 The incidence of hypoprolactinaemia or decreased serum prolactin in patients treated with aripiprazole was 0.4 %, compared with 0.02 % for patients treated with placebo.
 For patients receiving aripiprazole, the median time to onset was 30 days and median duration was 194 days.
+
 Manic episodes in Bipolar I Disorder
 In two 3-week, flexible-dose, placebo-controlled monotherapy trials involving patients with a manic or mixed episode of Bipolar I Disorder, aripiprazole demonstrated superior efficacy to placebo in reduction of manic symptoms over 3 weeks.
 These trials included patients with or without psychotic features and with or without a rapid-cycling course.
@@ -67,7 +66,6 @@ Paediatric population
 Schizophrenia in adolescents
 In a 6-week placebo-controlled trial involving 302 schizophrenic adolescent patients (13 to 17 years), presenting with positive or negative symptoms, aripiprazole was associated with statistically significantly greater improvements in psychotic symptoms compared to placebo.
 In a sub-analysis of the adolescent patients between the ages of 15 to 17 years, representing 74 % of the total enrolled population, maintenance of effect was observed over the 26-week open-label extension trial.
-
 In a 60- to 89-week, randomised, double-blind, placebo-controlled trial in adolescent subjects
 (n = 146; ages 13 to 17 years) with schizophrenia, there was a statistically significant difference in the rate of relapse of psychotic symptoms between the aripiprazole (19.39 %) and placebo (37.50 %) groups.
 The point estimate of the hazard ratio (HR) was 0.461 (95 % confidence interval, 0.242 to 0.879) in the full population.
@@ -131,7 +129,7 @@ The efficacy of aripiprazole was studied in paediatric subjects with Tourette’
 [ABILIFY 7.5 mg/mL solution for injection]
 
 Agitation in schizophrenia and Bipolar I Disorder with ABILIFY solution for injection
-In two short- term (24-hour) placebo-controlled trials involving 554 schizophrenic adult patients presenting with agitation and disturbed behaviours, ABILIFYsolution for injection was associated with statistically significant greater improvements in agitation/behavioural symptoms compared to placebo and was similar to haloperidol.
+In two short-term (24-hour) placebo-controlled trials involving 554 schizophrenic adult patients presenting with agitation and disturbed behaviours, ABILIFYsolution for injection was associated with statistically significant greater improvements in agitation/behavioural symptoms compared to placebo and was similar to haloperidol.
 
 In one short-term (24-hour) placebo-controlled trial involving 291 patients with bipolar disorder presenting with agitation and disturbed behaviours, ABILIFY solution for injection was associated with statistically significant greater improvements in agitation/behavioural symptoms compared to placebo and was similar to the reference arm lorazepam.
 The observed mean improvement from baseline on the PANSS Excitement Component score at the primary 2-hour endpoint was 5.8 for placebo, 9.6 for lorazepam, and 8.7 for ABILIFY solution for injection.

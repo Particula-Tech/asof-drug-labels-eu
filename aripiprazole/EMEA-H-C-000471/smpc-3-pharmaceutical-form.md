@@ -30,6 +30,7 @@ ABILIFY 30 mg orodispersible tablets
 [ABILIFY 1 mg/mL oral solution]
 
 Oral solution
+
 Clear, colourless to light yellow liquid solution.
 
 [ABILIFY 7.5 mg/mL solution for injection]
