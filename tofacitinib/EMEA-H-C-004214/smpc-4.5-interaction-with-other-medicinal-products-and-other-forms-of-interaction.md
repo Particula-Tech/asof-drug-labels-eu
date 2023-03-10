@@ -20,15 +20,19 @@ Coadministered PK Ratio and 90% CI Recommendation
 
 Medicinal Product
 
-CYP3A InhibitorKetoconazole AUC Tofacitinib dose should be reduced a
+CYP3A Inhibitor
+
+Ketoconazole AUC Tofacitinib dose should be reduced a
 
 Cmax
+CYP3A & CYP2C19 Inhibitor
 
-CYP3A & CYP2C19 InhibitorFluconazole AUC Tofacitinib dose should be reduced a
+Fluconazole AUC Tofacitinib dose should be reduced a
 
 Cmax
+CYP Inducer
 
-CYP Inducer Rifampicin AUC Efficacy may be decreased
+Rifampicin AUC Efficacy may be decreased
 
 Cmax
 

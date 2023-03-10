@@ -22,7 +22,8 @@ shellac (E904) ammomium hydroxide (E527) propylene glycol (E1520) black iron oxi
 
 [XELJANZ 1 mg/mL oral solution]
 
-Grape flavour [containing propylene glycol (E1520), glycerin (E422), and natural flavours] Hydrochloric acid
+Grape flavour [containing propylene glycol (E1520), glycerin (E422), and natural flavours]
+Hydrochloric acid
 Lactic acid (E270)
 Purified water
 Sodium benzoate (E211)
