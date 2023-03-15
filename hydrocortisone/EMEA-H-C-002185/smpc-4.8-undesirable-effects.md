@@ -12,7 +12,7 @@ Fatigue has been reported as very common.
 Tabulated list of adverse reactions
 A total of 80 patients (173 patient-years of data) have been treated with modified-release hydrocortisone in clinical studies.
 Adverse reactions from these studies and from postmarketing surveillance are listed below by system organ class and frequency as follows:
-Very common (≥1/10); Common (≥1/100 to <1/10).
+Very common (≥1/10); common (≥1/100 to < 1/10).
 
 | MedDRA System Organ Class | Frequency of adverse reactions |  |
 | --- | --- | --- |
@@ -30,9 +30,9 @@ Activation of infection (tuberculosis, fungal and viral infections including her
 
 Endocrine disorders
 Induction of glucose intolerance or diabetes mellitus.
-
 Metabolism and nutrition disorders
 Sodium and water retention and oedema tendency, hypertension, hypokalaemia.
+
 Psychiatric disorders
 Euphoria and psychosis, insomnia.
 

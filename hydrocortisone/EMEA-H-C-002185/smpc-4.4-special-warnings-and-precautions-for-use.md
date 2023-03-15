@@ -9,8 +9,7 @@ Therefore, patients should be advised of the signs and symptoms of acute adrenal
 During adrenal crisis parenteral, preferably intravenous administration of hydrocortisone in high doses, together with sodium chloride 9 mg/ml (0.9%) solution for infusion, should be administered according to current treatment guidelines.
 
 Concomitant infections
-During transient illnesses such as low grade infection, fever of any aetiology, stressful situations such as minor surgical procedures, the daily replacement dose must be increased temporarily, see section 4.2,
-‘Use in intercurrent illness’.
+During transient illnesses such as low grade infection, fever of any aetiology, stressful situations such as minor surgical procedures, the daily replacement dose must be increased temporarily, see section 4.2, ‘Use in intercurrent illness’.
 The patient must be carefully informed how to act in these situations and also advised to immediately seek medical attention should an acute deterioration occur; especially in cases of gastroenteritis, vomiting and/or diarrhoea leading to fluid and salt loss, as well as to inadequate absorption of oral hydrocortisone.
 
 Patients with adrenal insufficiency and concomitant retroviral infection, such as HIV, need careful dose adjustment due to potential interaction with antiretroviral medicinal products and increased hydrocortisone dose due to the infection.
@@ -39,6 +38,9 @@ Psychiatric adverse reactions may occur with systemic glucocorticoids.
 This may occur during commencement of treatment and during dose adjustments.
 Risks may be higher when high doses are given.
 Most reactions resolve after dose reduction, although specific treatment may be necessary.
+
+Pheochromocytoma crisis, which can be fatal, has been reported after administration of systemic corticosteroids.
+Corticosteroids should only be administered to patients with suspected or identified pheochromocytoma after an appropriate risk/benefit evaluation.
 
 Thyroid function
 Patients with adrenal insufficiency should be monitored for thyroid dysfunction as both hypothyroidism and hyperthyroidism may markedly influence the exposure of administered hydrocortisone.

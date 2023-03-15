@@ -1,9 +1,8 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Corticosteroids for systemic use, glucocorticoids.
-ATC code: H02AB09.
+Pharmacotherapeutic group: Corticosteroids for systemic use, glucocorticoids, ATC code: H02AB09
 
-Pharmacodynamic action
+Pharmacodynamic effects
 Hydrocortisone is a glucocorticoid and the synthetic form of endogenously produced cortisol.
 Glucocorticoids are important steroids for intermediary metabolism, immune function, musculoskeletal and connective tissue and the brain.
 Cortisol is the principal glucocorticoid secreted by the adrenal cortex.

@@ -20,6 +20,7 @@ Elimination
 The terminal half-life has been reported to be about 1.5 hours following intravenous and oral dosing of hydrocortisone tablets.
 The terminal half-life of cortisol following administration of Plenadren was about 3 hours and formulation release controlled.
 This terminal half-life is similar to the pharmacokinetics of endogenous cortisol that also is secretion-controlled.
+
 Hydrocortisone (cortisol) is a lipophilic drug that is eliminated completely via metabolism with a low clearance and accordingly low intestinal and hepatic extraction ratios.
 
 Hydrocortisone is eliminated completely by metabolism by 11ßHSD type 1 and type 2 enzymes and CYP 3A4 in the liver and in peripheral tissue.

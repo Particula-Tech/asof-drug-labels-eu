@@ -1,6 +1,7 @@
 # 4.2 Posology and method of administration
 
 Posology
+
 Plenadren is given as maintenance therapy.
 Oral replacement doses must be individualised according to the clinical response.
 A common maintenance dose is 20–30 mg per day, given once daily in the morning.
