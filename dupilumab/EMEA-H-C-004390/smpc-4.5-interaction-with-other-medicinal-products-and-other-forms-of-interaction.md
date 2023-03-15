@@ -13,11 +13,3 @@ The data gathered from this study did not indicate clinically relevant effects o
 
 An effect of dupilumab on the PK of co-administered medicinal products is not expected.
 Based on the population analysis, commonly co-administered medicinal products had no effect on dupilumab pharmacokinetics on patients with moderate to severe asthma.
-
-[Dupixent 200 mg solution for injection in pre-filled syringe]
-
-(all sentences already above)
-
-[Dupixent 100 mg solution for injection in pre-filled syringe]
-
-In a clinical study of atopic dermatitis (AD) patients, the effects of dupilumab on the pharmacokinetics (PK) of CYP substrates were evaluated.

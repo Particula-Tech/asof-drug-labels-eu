@@ -5,8 +5,8 @@ Atopic dermatitis
 Adults and adolescents
 Dupixent is indicated for the treatment of moderate-to-severe atopic dermatitis in adults and adolescents 12 years and older who are candidates for systemic therapy.
 
-Children 6 to 11 years of age
-Dupixent is indicated for the treatment of severe atopic dermatitis in children 6 to 11 years old who are candidates for systemic therapy.
+Children 6 months to 11 years of age
+Dupixent is indicated for the treatment of severe atopic dermatitis in children 6 months to 11 years old who are candidates for systemic therapy.
 
 Asthma
 

@@ -1,7 +1,6 @@
 # 5.2 Pharmacokinetic properties
 
 The pharmacokinetics of dupilumab is similar in patients with atopic dermatitis, asthma, CRSwNP, PN and EoE.
-
 Absorption
 
 After a single subcutaneous (SC) dose of 75-600 mg dupilumab to adults, median times to maximum concentration in serum (tmax) were 3-7 days.
@@ -24,7 +23,7 @@ Elimination
 
 Dupilumab elimination is mediated by parallel linear and nonlinear pathways.
 At higher concentrations, dupilumab elimination is primarily through a non-saturable proteolytic pathway, while at lower concentrations, the non-linear saturable IL-4R α target-mediated elimination predominates.
-After the last steady state dose, the median time for dupilumab concentrations to decrease below the lower limit of detection, estimated by population PK analysis, was 6-7 weeks for the 300 mg Q4W regimen, 9 weeks for the 200 mg Q2W regimen, 10-11 weeks for the 300 mg Q2W regimen, and 13 weeks for the 300 mg QW regimen.
+After the last steady state dose of 300 mg QW, 300 mg Q2W, 200 mg Q2W, 300 mg Q4W, or 200 mg Q4W dupilumab, the median times to decrease below the lower limit of detection, estimated by population PK analysis, ranged from 9-13 weeks in adults and adolescents and are approximately 1.5 times and 2.5 times longer in paediatric patients 6 to 11 years of age and paediatric patients less than 6 years of age, respectively .
 
 Linearity/non-linearity
 
@@ -41,11 +40,11 @@ Although no differences in safety or efficacy were observed between older and yo
 
 Age was not found to be associated with any clinically meaningful impact on the systemic exposure of dupilumab determined by population PK analysis.
 However, there were only 61 patients over 65 years of age included in this analysis.
-
 Of the 1,977 patients with asthma exposed to dupilumab, a total of 240 patients were 65 years or older and 39 patients were 75 years or older.
 Efficacy and safety in this age group were similar to the overall study population.
 
 There were only 79 patients older than 65 years with CRSwNP exposed to dupilumab among them 11 patients were 75 years and older.
+
 Of the 152 patients with PN exposed to dupilumab, a total of 37 were 65 years of age or older.
 A total of 8 patients were 75 years of age or older.
 Efficacy and safety in these age groups were similar to the overall study population.
@@ -72,13 +71,17 @@ There were only 6 patients exposed to dupilumab with body weight ≥130 kg in CR
 Paediatric population
 
 Atopic dermatitis
-The pharmacokinetics of dupilumab in paediatric patients (< 6 years of age) or body weight < 15 kg with atopic dermatitis has not been studied.
+Based on population pharmacokinetic analysis, age did not affect dupilumab clearance in adults and in paediatric patients 6 to 17 years of age.
+In paediatric patients from 6 months to 5 years of age, clearance increased with age but is accommodated in the recommended dose regimen.
+
+The pharmacokinetics of dupilumab in paediatric patients (< 6 months of age) or body weight < 5 kg with atopic dermatitis has not been studied.
 
 For adolescents 12 to 17 years of age with atopic dermatitis receiving every other week dosing (Q2W) with either 200 mg (< 60 kg) or 300 mg (≥ 60 kg), the mean ±SD steady state trough concentration of dupilumab was 54.5±27.0 mcg/mL.
 
 For children 6 to 11 years of age with atopic dermatitis receiving every four week dosing (Q4W) with 300 mg (≥ 15 kg) in AD-1652, the mean ± SD steady-state trough concentration was 76.3±37.2 mcg/mL.
 At week 16 in AD-1434 in children 6 to 11 years of age who initiated every four week dosing (Q4W) with 300 mg (≥ 15 kg), and whose dose was increased to every other week dosing (Q2W) with 200 mg (≥ 15 to < 60 kg) or 300 mg (≥ 60 kg), the mean±SD steady-state trough concentration was 108±53.8 mcg/mL.
 For children 6 to 11 years of age receiving 300 mg Q4W, initial doses of 300 mg on Days 1 and 15 produce similar steady-state exposure as an initial dose of 600 mg on Day 1, based on PK simulations.
+For children 6 months to 5 years of age with atopic dermatitis receiving every four week dosing (Q4W) with 300 mg (≥ 15 to < 30 kg) or 200 mg (≥ 5 to < 15 kg) mean ± SD steady-state trough concentration was 110±42.8 mcg/mL and 109±50.8 mcg/mL, respectively.
 
 Asthma
 The pharmacokinetics of dupilumab in paediatric patients (< 6 years of age) with asthma has not been studied.
@@ -87,10 +90,7 @@ A total of 107 adolescents aged 12 to 17 years with asthma were enrolled in QUES
 The mean ±SD steady-state trough concentrations of dupilumab were 107±51.6 mcg/mL and 46.7±26.9 mcg/mL, respectively, for 300 mg or 200 mg administered every other week.
 No age-related pharmacokinetic difference was observed in adolescent patients after correction for body weight.
 
-In the VOYAGE study, dupilumab pharmacokinetics was investigated in 270 patients with moderate-
-to-severe asthma following subcutaneous administration of either 100 mg Q2W (for 91 children
-
-weighing < 30 kg) or 200 mg Q2W (for 179 children weighing ≥ 30 kg).
+In the VOYAGE study, dupilumab pharmacokinetics was investigated in 270 patients with moderate-to-severe asthma following subcutaneous administration of either 100 mg Q2W (for 91 children weighing < 30 kg) or 200 mg Q2W (for 179 children weighing ≥ 30 kg).
 The volume of distribution for dupilumab of approximately 3.7 L was estimated by population PK analysis.
 Steady-state
 
@@ -125,11 +125,11 @@ The absolute bioavailability of dupilumab following a SC dose is similar between
 Steady-state concentrations were achieved by week 16 following the administration of 600 mg starting dose and 300 mg dose every other week.
 Across clinical trials, the mean ±SD steady-state trough concentrations ranged from 69.2±36.9 mcg/mL to 80.2±35.3 mcg/mL for 300 mg dose and from 29.2±18.7 to 36.5±22.2 mcg/mL for 200 mg dose administered every other week to adults.
 
-For adolescents 12 to 17 years of age with atopic dermatitis receiving every other week dosing (Q2W) with either 200 mg (<60 kg) or 300 mg (≥60 kg), the mean ±SD steady state trough concentration of dupilumab was 54.5±27.0 mcg/mL.
+After the last steady state dose of 300 mg QW, 300 mg Q2W, 200 mg Q2W, 300 mg Q4W, or 200 mg Q4W dupilumab, the median times to decrease below the lower limit of detection, estimated by population PK analysis, ranged from 9-13 weeks in adults and adolescents and are approximately 1.5 times and 2.5 times longer in paediatric patients 6 to 11 years of age and paediatric subjects less than 6 years of age, respectively.
 
-In the VOYAGE study, dupilumab pharmacokinetics was investigated in 270 patients with moderate-to-severe asthma following subcutaneous administration of either 100 mg Q2W (for 91 children weighing < 30 kg) or 200 mg Q2W (for 179 children weighing ≥ 30 kg).
-Steady-state concentrations were achieved by week 12.
-The mean ± SD steady-state trough concentration was
+The pharmacokinetics of dupilumab in paediatric patients (< 6 monthsof age) or body weight < 5 kg with atopic dermatitis has not been studied.
+
+For adolescents 12 to 17 years of age with atopic dermatitis receiving every other week dosing (Q2W) with either 200 mg (<60 kg) or 300 mg (≥60 kg), the mean ±SD steady state trough concentration of dupilumab was 54.5±27.0 mcg/mL.
 
 [Dupixent 100 mg solution for injection in pre-filled syringe]
 
