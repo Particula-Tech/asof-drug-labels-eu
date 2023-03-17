@@ -44,5 +44,3 @@ In studies in patients with ulcerative colitis or Crohn’s disease receiving su
 The mean steady state serum trough concentrations were 35.8 mcg/mL (SD ± 15.2) in patients with ulcerative colitis and 31.4 mcg/mL (SD ± 14.7) in patients with Crohn’s disease.
 The bioavailability of vedolizumab following single-dose subcutaneous administration of 108 mg relative to single-dose intravenous administration was approximately 75%.
 The median time to reach maximum serum concentration (tmax) was 7 days (range 3 to 14 days), and the mean maximum serum concentration (Cmax) was 15.4 mcg/mL (SD ± 3.2).
-
-Population pharmacokinetic analyses based on intravenous and subcutaneous data indicate that the clearance of vedolizumab is approximately 0.162 L/day (through linear elimination pathway) and the serum half-life is 26 days.

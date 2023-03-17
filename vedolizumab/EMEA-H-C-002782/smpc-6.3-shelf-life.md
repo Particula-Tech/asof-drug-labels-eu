@@ -12,7 +12,8 @@ Do not freeze the reconstituted solution in the vial or the diluted solution in 
 Storage condition
 Refrigerator (2°C-8°C) 20°C-25°C
 Reconstituted solution in the vial 8 hours Do not hold1
-Diluted solution in sodium chloride 9 mg/mL (0.9%) solution for injection 24 hours2,3 12 hours2
+Diluted solution in sodium chloride 9 mg/mL 24 hours2,3 12 hours2
+(0.9%) solution for injection
 
 1 Up to 30 minutes are allowed for reconstitution
 2 This time assumes the reconstituted solution is immediately diluted in the sodium chloride 9 mg/mL (0.9%) solution for injection and held in the infusion bag only.

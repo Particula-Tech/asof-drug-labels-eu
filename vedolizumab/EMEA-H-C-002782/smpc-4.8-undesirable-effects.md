@@ -9,7 +9,7 @@ Infusion related reactions (with symptoms such as dyspnea, bronchospasm, urticar
 Tabulated list of adverse reactions
 
 The following listing of adverse reactions is based on clinical trial and post marketing experience and is displayed by system organ class.
-Within the system organ classes, adverse reactions are listed under headings of the following frequency categories: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), very rare (< 1/10,000) and not known (cannot be estimated from the available data).
+Within the system organ classes, adverse reactions are listed under headings of the following frequency categories: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), very rare (< 1/10,000) and not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 Table 1.
 Adverse reactions
@@ -34,7 +34,7 @@ Adverse reactions
 |  | Common | Muscle spasms, Back pain, Muscular weakness, Fatigue, Pain in the extremity |
 | General disorders and administration site conditions | Common | Pyrexia, Infusion related reaction* (asthenia and chest discomfort) |
 |  | Uncommon | Infusion site reaction (including: Infusion site pain and Infusion site irritation), Infusion related reaction, Chills, Feeling cold |
-| *Reported in EARNEST pouchitis study |  |  |
+| *Reported in the EARNEST pouchitis study |  |  |
 
 Description of selected adverse reactions
 
@@ -106,7 +106,8 @@ No clinically relevant differences in the overall safety profile and adverse rea
 | Musculoskeletal and connective tissue disorders | Very common | Arthralgia |
 |  | Common | Muscle spasms, Back pain, Muscular weakness, Fatigue, Pain in the extremity |
 | General disorders and administration site conditions | Common | Pyrexia Injection site reactions# |
-|  | Uncommon | Infusion site reaction (including: Infusion site pain and Infusion site irritation), Infusion related reaction, Chills, Feeling cold |
+|  | Uncommon | Infusion site reaction (including: Infusion site pain and Infusion site irritation), Infusion related reaction, Chills, |
+|  |  | Feeling cold |
 
 *Frequency is based on clinical trial data with intravenous administration except where noted.
 #Subcutaneous administration only.
