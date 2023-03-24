@@ -17,17 +17,12 @@ Not all pack sizes may be marketed.
 [Esbriet 267 mg film-coated tablets]
 
 High-Density Polyethylene (HDPE) bottle with a child-resistant and tamper-evident screw cap
-
 267 mg film-coated tablets
-1 bottle containing 21 film-coated tablets
-2 bottles each containing 21 film-coated tablets (42 film-coated tablets in total)
-1 bottle containing 42 film-coated tablets
 1 bottle containing 90 film-coated tablets
 2 bottles each containing 90 film-coated tablets (180 film-coated tablets in total)
-1 bottle containing 180 film-coated tablets
 
 534 mg film-coated tablets
-
+1 bottle containing 21 film-coated tablets
 801 mg film-coated tablets
 
 PVC/Aclar (PCTFE) aluminium foil blister

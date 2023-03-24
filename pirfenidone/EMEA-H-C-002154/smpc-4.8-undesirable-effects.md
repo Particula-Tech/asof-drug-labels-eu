@@ -58,6 +58,8 @@ Identified through post-marketing surveillance
 2.
 Cases of severe drug-induced liver injury, including reports with fatal outcome have been identified through post-marketing surveillance (see sections 4.3, 4.4).
 
+Exposure-adjusted analyses of pooled clinical trials in IPF confirmed that the safety and tolerability profile of Esbriet in IPF patients with advanced disease (n=366) is consistent with that established in IPF patients with non-advanced disease (n=942).
+
 Description of selected adverse reactions
 
 Decreased appetite

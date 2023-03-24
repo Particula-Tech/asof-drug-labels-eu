@@ -22,6 +22,7 @@ If a patient exhibits an aminotransferase elevation >3 to <5 x ULN accompanied b
 If a patient exhibits an aminotransferase elevation to ≥5 x ULN, Esbriet should be permanently discontinued and the patient should not be rechallenged.
 
 Hepatic impairment
+
 In subjects with moderate hepatic impairment (i.e. Child-Pugh Class B), pirfenidone exposure was increased by 60%.
 Esbriet should be used with caution in patients with pre-existing mild to moderate hepatic impairment (i.e. Child-Pugh Class A and B) given the potential for increased pirfenidone exposure.
 Patients should be monitored closely for signs of toxicity especially if they are concomitantly taking a known CYP1A2 inhibitor (see sections 4.5 and 5.2).
@@ -48,8 +49,8 @@ Reports of anaphylactic reactions have also been received.
 Therefore, patients who develop signs or symptoms of angioedema or severe allergic reactions following administration of Esbriet should immediately discontinue treatment.
 Patients with angioedema or severe allergic reactions should be managed according to standard of care.
 Esbriet must not be used in patients with a history of angioedema or hypersensitivity due to Esbriet (see section 4.3).
-
 Dizziness
+
 Dizziness has been reported in patients taking Esbriet.
 Therefore, patients should know how they react to this medicinal product before they engage in activities requiring mental alertness or coordination (see section 4.7).
 In clinical studies, most patients who experienced dizziness had a single event, and most events resolved, with a median duration of 22 days.
@@ -69,3 +70,11 @@ Hyponatraemia
 
 Hyponatraemia has been reported in patients treated with Esbriet (see section 4.8).
 As the symptoms of hyponatraemia may be subtle and masked by the presence of concomitant morbidities, regular monitoring of the relevant laboratory parameters is recommended, especially in the presence of evocative signs and symptoms such as nausea, headache or dizziness.
+
+Sodium
+
+Esbriet contains less than 1 mmol sodium (23 mg) per capsule, that is to say essentially ‘sodium-free’.
+
+[Esbriet 267 mg film-coated tablets]
+
+Esbriet contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.

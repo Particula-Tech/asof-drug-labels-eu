@@ -21,6 +21,7 @@ Discontinue Esbriet if necessary (see sections 4.2 and 4.4).
 Co-administration of Esbriet and 750 mg of ciprofloxacin (a moderate inhibitor of CYP1A2) increased the exposure to pirfenidone by 81%.
 If ciprofloxacin at the dose of 750 mg two times a day cannot be avoided, the dose of pirfenidone should be reduced to 1602 mg daily (two capsules, three times a day).
 Esbriet should be used with caution when ciprofloxacin is used at a dose of 250 mg or 500 mg once or two times a day.
+
 Esbriet should be used with caution in patients treated with other moderate inhibitors of CYP1A2 (e.g. amiodarone, propafenone).
 
 Special care should also be exercised if CYP1A2 inhibitors are being used concomitantly with potent inhibitors of one or more other CYP isoenzymes involved in the metabolism of pirfenidone such as CYP2C9 (e.g. amiodarone, fluconazole), 2C19 (e.g. chloramphenicol) and 2D6 (e.g. fluoxetine, paroxetine).
