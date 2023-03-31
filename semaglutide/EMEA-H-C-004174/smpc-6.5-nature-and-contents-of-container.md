@@ -23,5 +23,4 @@ Ozempic 2 mg solution for injection
 Each pre-filled pen contains 3 ml of solution, delivering 4 doses of 2 mg.
 1 pre-filled pen and 4 disposable NovoFine Plus needles
 3 pre-filled pens and 12 disposable NovoFine Plus needles
-
 Not all pack sizes may be marketed.

@@ -24,22 +24,11 @@ Table 1 Frequency of adverse reactions of semaglutide
 | Nervous system disorders |  | Dizziness | Dysgeusia |  |  |
 | Eye disorders |  | Diabetic retinopathy complicationsb |  |  |  |
 | Cardiac disorders |  |  | Increased heart rate |  |  |
-| Gastrointesti-nal disorders | Nausea Diarrhoea | Vomiting Abdominal pain Abdominal distension Constipation Dyspepsia Gastritis Gastro-oesophageal reflux disease Eructation Flatulence | Acute pancreatitis |  |  |
+| Gastrointesti-nal disorders | Nausea Diarrhoea | Vomiting Abdominal pain Abdominal distension Constipation Dyspepsia Gastritis Gastro-oesophageal reflux disease Eructation Flatulence | Acute pancreatitis Delayed gastric emptying |  |  |
 | Hepatobiliary disorders |  | Cholelithiasis |  |  |  |
-| Skin and subcutaneous |  |  |  |  | Angioedemad |
-
-tissue
-disorders
-General Fatigue Injection site
-disorders and reactions
-administra-
-tion site
-conditions
-Investigations Increased lipase
-Increased
-amylase
-Weight
-decreased
+| Skin and subcutaneous tissue disorders |  |  |  |  | Angioedemad |
+| General disorders and administra-tion site conditions |  | Fatigue | Injection site reactions |  |  |
+| Investigations |  | Increased lipase Increased amylase Weight decreased |  |  |  |
 
 a) Hypoglycaemia defined as severe (requiring the assistance of another person) or symptomatic in combination with a blood glucose <3.1 mmol/L.
 b) Diabetic retinopathy complications is a composite of: retinal photocoagulation, treatment with intravitreal agents, vitreous haemorrhage, diabetes-related blindness (uncommon).
@@ -70,7 +59,6 @@ Most events were mild to moderate in severity and of short duration.
 The events led to treatment discontinuation in 3.9% and 5% of patients.
 The events were most frequently reported during the first months on treatment.
 Patients with low body weight may experience more gastrointestinal side effects when treated with semaglutide.
-
 In a 40-week phase 3b trial in patients receiving semaglutide 1 mg and 2 mg, nausea occurred in similar proportions of patients when treated with semaglutide 1 mg and 2 mg, respectively.
 Diarrhoea and vomiting occurred in higher proportions of patients when treated with semaglutide 2 mg compared to semaglutide 1 mg.
 The gastrointestinal adverse reactions led to treatment discontinuation in similar proportions in the semaglutide 1 mg and 2 mg treatment groups.

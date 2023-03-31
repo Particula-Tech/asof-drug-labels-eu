@@ -2,6 +2,7 @@
 
 The patient should be advised to discard the injection needle after each injection and store the pen without an injection needle attached.
 This may prevent blocked needles, contamination, infection, leakage of solution and inaccurate dosing.
+
 The pen is for use by one person only.
 Ozempic should not be used if it does not appear clear and colourless or almost colourless.
 Ozempic should not be used if it has been frozen.

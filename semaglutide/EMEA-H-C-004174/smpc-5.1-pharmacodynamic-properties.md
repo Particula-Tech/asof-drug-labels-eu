@@ -29,6 +29,7 @@ Fasting and postprandial glucose
 Semaglutide reduces fasting and postprandial glucose concentrations.
 In patients with type 2 diabetes, treatment with semaglutide 1 mg resulted in reductions in glucose in terms of absolute change from baseline (mmol/L) and relative reduction compared to placebo (%) for fasting glucose (1.6 mmol/L; 22% reduction), 2 hour postprandial glucose (4.1 mmol/L; 37% reduction), mean 24 hour glucose concentration (1.7 mmol/L; 22% reduction) and postprandial glucose excursions over 3 meals (0.6-1.1 mmol/L) compared with placebo.
 Semaglutide lowered fasting glucose after the first dose.
+
 Beta-cell function and insulin secretion
 Semaglutide improves beta-cell function.
 Compared to placebo, semaglutide improved first- and second-phase insulin response with a 3– and 2–fold increase, respectively, and increased maximal beta-cell secretory capacity in patients with type 2 diabetes.
@@ -66,8 +67,8 @@ Both improvement of glycaemic control and reduction of cardiovascular morbidity 
 The efficacy and safety of semaglutide 0.5 mg and 1 mg once weekly were evaluated in six randomised controlled phase 3a trials that included 7 215 patients with type 2 diabetes mellitus
 (4 107 treated with semaglutide).
 Five trials (SUSTAIN 1–5) had the glycaemic efficacy assessment as the primary objective, while one trial (SUSTAIN 6) had cardiovascular outcome as the primary objective.
-
 The efficacy and safety of semaglutide 2 mg once weekly was evaluated in a phase 3b trial (SUSTAIN FORTE) including 961 patients.
+
 In addition, a phase 3b trial (SUSTAIN 7) including 1 201 patients was conducted to compare the efficacy and safety of semaglutide 0.5 mg and 1 mg once weekly to dulaglutide 0.75 mg and 1.5 mg once weekly, respectively.
 A phase 3b trial (SUSTAIN 9), was conducted to investigate the efficacy and safety of semaglutide as add-on to SGLT2 inhibitor treatment.
 
@@ -371,6 +372,7 @@ Figure 4 Forest plot: analyses of time to first occurrence of the composite outc
 
 There were 158 events of new or worsening nephropathy.
 The hazard ratio [95% CI] for time to nephropathy (new onset of persistent macroalbuminuria, persistent doubling of serum creatinine, need for continuous renal replacement therapy and death due to renal disease) was 0.64 [0.46; 0.88] driven by new onset of persistent macroalbuminuria.
+
 Body weight
 After one year of treatment, a weight loss of ≥5% and ≥10% was achieved for more subjects with semaglutide 0.5 mg (46% and 13%) and 1 mg (52 – 62% and 21 – 24%) compared with the active comparators sitagliptin (18% and 3%) and exenatide ER (17% and 4%).
 

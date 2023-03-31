@@ -4,6 +4,7 @@ Before first use
 
 Ozempic 0.25 mg, 0.5 mg and 1 mg
 3 years.
+
 Ozempic 2 mg
 2 years.
 
