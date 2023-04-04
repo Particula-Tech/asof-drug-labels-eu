@@ -7,6 +7,7 @@ Male and female patients on hydroxycarbamide wishing to conceive should stop tre
 The evaluation of the risk-benefit ratio should be made on an individual basis taking into consideration the respective risk of hydroxycarbamide therapy against the switch to a blood transfusion programme.
 
 Pregnancy
+
 Studies in animals have shown reproductive toxicity (see section 5.3).
 Patients on hydroxycarbamide should be made aware of the risks to the foetus.
 There is limited amount of data from the use of hydroxycarbamide in pregnant women.
