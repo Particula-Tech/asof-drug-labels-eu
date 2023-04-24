@@ -37,11 +37,11 @@ Immunodepressed status is common in cancer patients.
 As a result, concomitant use of live attenuated vaccines is not recommended (see section 4.3 and 4.5).
 
 Pemetrexed can have genetically damaging effects.
-Sexually mature males are advised not to father a child during the treatment and up to 6 months thereafter.
+Sexually mature males are advised not to father a child during the treatment and up to 3 months thereafter.
 Contraceptive measures or abstinence are recommended.
 Owing to the possibility of pemetrexed treatment causing irreversible infertility, men are advised to seek counselling on sperm storage before starting treatment.
 
-Women of childbearing potential must use effective contraception during treatment with pemetrexed (see section 4.6).
+Women of childbearing potential must use effective contraception during treatment with pemetrexed and for 6 months following completion of treatment (see section 4.6).
 
 Cases of radiation pneumonitis have been reported in patients treated with radiation either prior, during or subsequent to their pemetrexed therapy.
 Particular attention should be paid to these patients and caution exercised with use of other radiosensitising agents.

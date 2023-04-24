@@ -1,10 +1,9 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Women of childbearing potential / Contraception in males and females
-Women of childbearing potential must use effective contraception during treatment with pemetrexed.
 Pemetrexed can have genetically damaging effects.
-Sexually mature males are advised not to father a child during the treatment and up to 6 months thereafter.
-Contraceptive measures or abstinence are recommended.
+Women of childbearing potential must use effective contraception during treatment with pemetrexed and for 6 months following completion of treatment.
+Sexually mature males are advised to use effective contraceptive measures and not to father a child during the treatment and up to 3 months thereafter.
 
 Pregnancy
 There are no data from the use of pemetrexed in pregnant women but pemetrexed, like other anti-metabolites, is suspected to cause serious birth defects when administered during pregnancy.
