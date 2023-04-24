@@ -66,7 +66,6 @@ OPDIVO in combination with cabozantinib
 
 Renal cell carcinoma
 The recommended dose is nivolumab administered intravenously at either 240 mg every 2 weeks or 480 mg every 4 weeks in combination with 40 mg cabozantinib administered orally every day.
-
 Table 4: Recommended doses and infusion times for intravenous administration of nivolumab in combination with oral administration of cabozantinib for RCC
 
 |  | Combination phase |
@@ -99,6 +98,7 @@ For adjuvant therapy, the maximum treatment duration with OPDIVO is 12 months.
 For OPDIVO in combination with cabozantinib, OPDIVO should be continued until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
 Cabozantinib should be continued until disease progression or unacceptable toxicity.
 Refer to the Summary of Product Characteristics (SmPC) for cabozantinib.
+
 Atypical responses (i.e., an initial transient increase in tumour size or small new lesions within the first few months followed by tumour shrinkage) have been observed.
 It is recommended to continue treatment with nivolumab or nivolumab in combination with ipilimumab for clinically stable patients with initial evidence of disease progression until disease progression is confirmed.
 
@@ -107,35 +107,99 @@ Dosing delay or discontinuation may be required based on individual safety and t
 Guidelines for permanent discontinuation or withholding of doses are described in Table 5.
 Detailed guidelines for the management of immune-related adverse reactions are described in section 4.4.
 When nivolumab is administered in combination with other therapeutic agents, refer to the SmPC of these other combination therapeutic agents regarding dosing.
-
 Table 5: Recommended treatment modifications for OPDIVO or OPDIVO in combination
 
-| Immune-related adverse reaction | Severity | Treatment modification |
-| --- | --- | --- |
-| Immune-related pneumonitis | Grade 2 pneumonitis | Withhold dose(s) until symptoms resolve, radiographic abnormalities improve, and management with corticosteroids is complete |
-|  | Grade 3 or 4 pneumonitis | Permanently discontinue treatment |
-| Immune-related colitis | Grade 2 diarrhoea or colitis | Withhold dose(s) until symptoms resolve and management with corticosteroids, if needed, is complete |
-|  | Grade 3 diarrhoea or colitis - OPDIVO monotherapy | Withhold dose(s) until symptoms resolve and management with corticosteroids is complete |
-|  | - OPDIVO+ipilimumaba | Permanently discontinue treatment |
-|  | Grade 4 diarrhoea or colitis | Permanently discontinue treatment |
-| Immune-related hepatitis NOTE: for RCC patients treated with OPDIVO in combination with cabozantinib with liver enzyme elevations, see dosing guidelines following this table. | Grade 2 elevation in aspartate aminotransferase (AST), alanine aminotransferase (ALT), or total bilirubin Grade 3 or 4 elevation in AST, ALT, or total bilirubin | Withhold dose(s) until laboratory values return to baseline and management with corticosteroids, if needed, is complete Permanently discontinue treatment |
-| Immune-related nephritis and renal dysfunction | Grade 2 or 3 creatinine elevation | Withhold dose(s) until creatinine returns to baseline and management with corticosteroids is complete |
-|  | Grade 4 creatinine elevation | Permanently discontinue treatment |
-| Immune-related endocrinopathies | Symptomatic Grade 2 or 3 hypothyroidism, hyperthyroidism, hypophysitis, Grade 2 adrenal insufficiency Grade 3 diabetes | Withhold dose(s) until symptoms resolve and management with corticosteroids (if needed for symptoms of acute inflammation) is complete. Treatment should be continued in the presence of hormone replacement therapyb as long as no symptoms are present |
+Immune-related Severity Treatment modification
 
-Table 5: Recommended treatment modifications for OPDIVO or OPDIVO in combination
+adverse reaction
 
-| Immune-related adverse reaction | Severity | Treatment modification |
-| --- | --- | --- |
-|  | Grade 4 hypothyroidism Grade 4 hyperthyroidism Grade 4 hypophysitis Grade 3 or 4 adrenal insufficiency Grade 4 diabetes | Permanently discontinue treatment |
-| Immune-related skin adverse reactions | Grade 3 rash | Withhold dose(s) until symptoms resolve and management with corticosteroids is complete |
-|  | Grade 4 rash | Permanently discontinue treatment |
-|  | Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) | Permanently discontinue treatment (see section 4.4) |
-| Immune-related myocarditis | Grade 2 myocarditis | Withhold dose(s) until symptoms resolve and management with corticosteroids is completec |
-|  | Grade 3 or 4 myocarditis | Permanently discontinue treatment |
-| Other immune-related adverse reactions | Grade 3 (first occurrence) | Withhold dose(s) |
-|  | Grade 4 or recurrent Grade 3 ; persistent Grade 2 or 3 despite treatment modification; inability to reduce corticosteroid dose to 10 mg prednisone or equivalent per day | Permanently discontinue treatment |
+Grade 2 pneumonitis Withhold dose(s) until symptoms
 
+resolve, radiographic abnormalities
+
+Immune-related improve, and management with
+pneumonitis corticosteroids is complete
+Grade 3 or 4 pneumonitis Permanently discontinue treatment
+Grade 2 diarrhoea or colitis Withhold dose(s) until symptoms
+
+resolve and management with corticosteroids, if needed, is complete
+
+Grade 3 diarrhoea or colitis
+
+- OPDIVO monotherapy Withhold dose(s) until symptoms
+Immune-related colitis resolve and management with
+
+corticosteroids is complete
+
+- OPDIVO+ipilimumaba Permanently discontinue treatment
+Grade 4 diarrhoea or colitis Permanently discontinue treatment
+Immune-related Grade 2 elevation in aspartate Withhold dose(s) until laboratory
+hepatitis aminotransferase (AST), alanine values return to baseline and
+aminotransferase (ALT), or total management with corticosteroids, if
+NOTE: for RCC bilirubin needed, is complete
+patients treated
+with OPDIVO in Grade 3 or 4 elevation in AST, ALT, or Permanently discontinue treatment
+combination with total bilirubin
+cabozantinib with liver
+enzyme elevations, see
+dosing guidelines
+following this table.
+Grade 2 or 3 creatinine elevation Withhold dose(s) until creatinine
+Immune-related returns to baseline and management
+nephritis and renal with corticosteroids is complete
+
+dysfunction
+
+Grade 4 creatinine elevation Permanently discontinue treatment
+Symptomatic Grade 2 or 3 Withhold dose(s) until symptoms
+hypothyroidism, hyperthyroidism, resolve and management with
+hypophysitis, corticosteroids (if needed for symptoms
+Grade 2 adrenal insufficiency of acute inflammation) is complete.
+Grade 3 diabetes Treatment should be continued in the
+
+presence of hormone replacement
+
+Immune-related therapyb as long as no symptoms are
+endocrinopathies present
+
+Grade 4 hypothyroidism
+Grade 4 hyperthyroidism
+
+Grade 4 hypophysitis Permanently discontinue treatment
+
+Grade 3 or 4 adrenal insufficiency
+Grade 4 diabetes
+
+Grade 3 rash Withhold dose(s) until symptoms
+
+resolve and management with corticosteroids is complete Immune-related skin
+
+adverse reactions Grade 4 rash Permanently discontinue treatment
+
+Stevens-Johnson syndrome (SJS) or Permanently discontinue treatment (see
+
+toxic epidermal necrolysis (TEN) section 4.4)
+Immune-related Severity Treatment modification
+
+adverse reaction
+
+Grade 2 myocarditis Withhold dose(s) until symptoms
+
+resolve and management with
+
+Immune-related corticosteroids is completec
+
+myocarditis
+
+Grade 3 or 4 myocarditis Permanently discontinue treatment
+Grade 3 (first occurrence) Withhold dose(s)
+
+Other immune-related Grade 4 or recurrent Grade 3; persistent
+
+adverse reactions Grade 2 or 3 despite treatment
+modification; inability to reduce Permanently discontinue treatment
+
+corticosteroid dose to 10 mg prednisone or equivalent per day
 Note: Toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0 (NCI-CTCAE v4).
 a During administration of the second phase of treatment (nivolumab monotherapy) following combination treatment, permanently discontinue treatment if Grade 3 diarrhoea or colitis occurs.
 b Recommendation for the use of hormone replacement therapy is provided in section 4.4.
@@ -171,7 +235,6 @@ Special populations
 Paediatric population
 The safety and efficacy of OPDIVO in children below 18 years of age have not been established.
 Currently available data of OPDIVO as monotherapy or in combination with ipilimumab are described in sections 4.8 and 5.1 but no recommendation on a posology can be made.
-
 Elderly
 No dose adjustment is required for elderly patients (≥ 65 years) (see section 5.2).
 

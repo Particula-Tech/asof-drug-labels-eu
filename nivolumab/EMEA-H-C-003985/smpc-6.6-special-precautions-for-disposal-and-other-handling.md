@@ -70,7 +70,9 @@ STEP 2
 
 Administration
 OPDIVO infusion must not be administered as an intravenous push or bolus injection.
+
 Administer the OPDIVO infusion intravenously over a period of 30 or 60 minutes depending on the dose.
+
 OPDIVO infusion should not be infused at the same time in the same intravenous line with other agents.
 Use a separate infusion line for the infusion.
 
