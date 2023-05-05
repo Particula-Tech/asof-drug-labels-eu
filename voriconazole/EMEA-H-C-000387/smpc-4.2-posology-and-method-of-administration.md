@@ -3,7 +3,7 @@
 Posology
 Electrolyte disturbances such as hypokalaemia, hypomagnesaemia and hypocalcaemia should be monitored and corrected, if necessary, prior to initiation and during voriconazole therapy (see section 4.4).
 
-VFEND is also available as 200 mg powder for solution for infusion, 200 mg powder and solvent for solution for infusion and 40 mg/ml powder for oral suspension.
+VFEND is also available as 200 mg powder for solution for infusion and 40 mg/ml powder for oral suspension.
 
 Treatment
 Adults
@@ -141,7 +141,7 @@ Not for bolus injection.
 
 [VFEND 40 mg/ml powder for oral suspension]
 
-VFEND is also available as 50 mg and 200 mg film-coated tablets, 200 mg powder for solution for injection and 200 mg powder and solvent for solution for infusion.
+VFEND is also available as 50 mg and 200 mg film-coated tablets and 200 mg powder for solution for infusion.
 
 |  | Intravenous | Oral Suspension |  |
 | --- | --- | --- | --- |

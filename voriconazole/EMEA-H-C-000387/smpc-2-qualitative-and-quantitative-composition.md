@@ -14,7 +14,6 @@ For the full list of excipients, see section 6.1.
 
 [VFEND 200 mg powder for solution for infusion]
 
-VFEND 200 mg powder for solution for infusion
 Each vial contains 200 mg of voriconazole.
 
 After reconstitution each ml contains 10 mg of voriconazole.
@@ -23,13 +22,6 @@ Once reconstituted further dilution is required before administration.
 Excipients with known effect
 Each vial contains 221 mg sodium.
 Each vial contains 3,200 mg cyclodextrin.
-
-VFEND 200 mg powder and solvent for solution for infusion
-
-Solvent for solution for infusion
-Each 50 ml polypropylene bag contains sodium chloride 0.9% in Water for Injections.
-
-Each bag contains 177.02 mg sodium.
 
 [VFEND 40 mg/ml powder for oral suspension]
 

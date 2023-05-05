@@ -37,7 +37,6 @@ However, the in vitro activity of voriconazole against Candida species is not un
 Specifically, for C. glabrata, the MICs of voriconazole for fluconazole-resistant isolates are proportionally higher than are those of fluconazole-susceptible isolates.
 Therefore, every attempt should be made to identify Candida to species level.
 If antifungal susceptibility testing is available, the MIC results may be interpreted using breakpoint criteria established by European Committee on Antimicrobial Susceptibility Testing (EUCAST).
-
 EUCAST Breakpoints
 
 | Candida and Aspergillus species | Minimal Inhibitory Concentration (MIC) breakpoint (mg/L) |  |
@@ -72,7 +71,6 @@ After IV voriconazole therapy, the median duration of oral voriconazole therapy 
 
 A satisfactory global response (complete or partial resolution of all attributable symptoms, signs, radiographic/bronchoscopic abnormalities present at baseline) was seen in 53% of voriconazole-treated patients compared to 31% of patients treated with comparator.
 The 84-day survival rate for voriconazole was statistically significantly higher than that for the comparator and a clinically and statistically significant benefit was shown in favour of voriconazole for both time to death and time to discontinuation due to toxicity.
-
 This study confirmed findings from an earlier, prospectively designed study where there was a positive outcome in subjects with risk factors for a poor prognosis, including graft versus host disease, and, in particular, cerebral infections (normally associated with almost 100% mortality).
 
 The studies included cerebral, sinus, pulmonary and disseminated aspergillosis in patients with bone marrow and solid organ transplants, haematological malignancies, cancer and AIDS.
@@ -115,7 +113,6 @@ Of these 7 patients, 3 had eye, 1 had sinus, and 3 had disseminated infection.
 Four additional patients with fusariosis had an infection caused by several organisms; 2 of them had a successful outcome.
 
 The majority of patients receiving voriconazole treatment of the above mentioned rare infections were intolerant of, or refractory to, prior antifungal therapy.
-
 Primary Prophylaxis of Invasive Fungal Infections – Efficacy in HSCT recipients without prior proven or probable IFI
 Voriconazole was compared to itraconazole as primary prophylaxis in an open-label, comparative, multicenter study of adult and adolescent allogeneic HSCT recipients without prior proven or probable IFI.
 Success was defined as the ability to continue study drug prophylaxis for 100 days after HSCT (without stopping for >14 days) and survival with no proven or probable IFI for 180 days after HSCT.
@@ -143,7 +140,7 @@ Developed proven or probable IFI 0 3 (1.2%) -1.2% (-2.6%, 0.2%) 0.0813
 while on study drug
 
 * Primary endpoint of the study
-** Difference in proportions, 95% CI and p-valuesobtained after adjustment for randomization
+** Difference in proportions, 95% CI and p-values obtained after adjustment for randomization
 
 The breakthrough IFI rate to Day 180 and the primary endpoint of the study, which is Success at Day 180, for patients with AML and myeloablative conditioning regimens respectively, is presented in the table below:
 
@@ -157,7 +154,6 @@ Success at Day 180* 55 (56.1%) 45 (41.3%) 14.7% (1.7%, 27.7%)***
 * Primary endpoint of study
 ** Using a margin of 5%, non inferiority is demonstrated
 ***Difference in proportions, 95% CI obtained after adjustment for randomization
-
 Myeloablative conditioning regimens
 
 Study endpoints Voriconazole Itraconazole Difference in proportions and the
@@ -169,16 +165,19 @@ Success at Day 180* 70 (56.0%) 53 (37.1%) 20.1% (8.5%, 31.7%)***
 ** Using a margin of 5%, non inferiority is demonstrated
 *** Difference in proportions, 95% CI obtained after adjustment for randomization
 
-Secondary Prophylaxis of IFI – Efficacy in HSCT recipients with prior proven or probable IFI Voriconazole was investigated as secondary prophylaxis in an open-label, non-comparative, multicenter study of adult allogeneic HSCT recipients with prior proven or probable IFI.
+Secondary Prophylaxis of IFI – Efficacy in HSCT recipients with prior proven or probable IFI
+Voriconazole was investigated as secondary prophylaxis in an open-label, non-comparative, multicenter study of adult allogeneic HSCT recipients with prior proven or probable IFI.
 The primary endpoint was the rate of occurrence of proven and probable IFI during the first year after HSCT.
 The MITT group included 40 patients with prior IFI, including 31 with aspergillosis, 5 with candidiasis, and 4 with other IFI.
 The median duration of study drug prophylaxis was 95.5 days in the MITT group.
 
 Proven or probable IFIs developed in 7.5% (3/40) of patients during the first year after HSCT, including one candidemia, one scedosporiosis (both relapses of prior IFI), and one zygomycosis.
-The survival rate at Day 180 was 80.0% (32/40) and at 1 year was 70.0% (28/40).
+The survival rate at
+Day 180 was 80.0% (32/40) and at 1 year was 70.0% (28/40).
 
 Duration of treatment
 In clinical trials, 705 patients received voriconazole therapy for greater than 12 weeks, with 164 patients receiving voriconazole for over 6 months.
+
 Paediatric population
 Fifty-three paediatric patients aged 2 to <18 years were treated with voriconazole in two prospective, open-label, non-comparative, multi-center clinical trials.
 One study enrolled 31 patients with possible, proven or probable invasive aspergillosis (IA), of whom 14 patients had proven or probable IA and were included in the MITT efficacy analyses.
@@ -197,13 +196,14 @@ No subject experienced an interval exceeding the potentially clinically-relevant
 
 Clinical efficacy defined as partial or complete response, has been demonstrated for Aspergillus spp. including A. flavus, A. fumigatus, A. terreus, A. niger, A. nidulans; Candida spp., including C. albicans, C. glabrata, C. krusei, C. parapsilosis and C. tropicalis; and limited numbers of C. dubliniensis, C. inconspicua, and C. guilliermondii, Scedosporium spp., including S. apiospermum, S. prolificans; and Fusarium spp.
 
-** Difference in proportions, 95% CI and p-values obtained after adjustment for randomization
-
 Study endpoints Voriconazole Itraconazole Difference in proportions and
 (N=98) (N=109) the 95% confidence interval
 (CI)
 
 (N=125) (N=143) the 95% confidence interval (CI)
+
+The overall rate of response (ICC and EC combined) was 88.9% (8/9) for 2 to <12 years old and 62.5% (5/8) for 12 to
+<18 years old.
 
 [VFEND 40 mg/ml powder for oral suspension]
 

@@ -27,6 +27,7 @@ Biotransformation
 In vitro studies showed that voriconazole is metabolised by the hepatic cytochrome P450 isoenzymes CYP2C19, CYP2C9 and CYP3A4.
 
 The inter-individual variability of voriconazole pharmacokinetics is high.
+
 In vivo studies indicated that CYP2C19 is significantly involved in the metabolism of voriconazole.
 This enzyme exhibits genetic polymorphism.
 For example, 15-20% of Asian populations may be expected to be poor metabolisers.
@@ -51,7 +52,6 @@ Pharmacokinetics in special patient groups
 Gender
 In an oral multiple -dose study, Cmax and AUCτ for healthy young females were 83% and 113% higher, respectively, than in healthy young males (18-45 years).
 In the same study, no significant differences in Cmax and AUCτ were observed between healthy elderly males and healthy elderly females (≥65 years).
-
 In the clinical programme, no dosage adjustment was made on the basis of gender.
 The safety profile and plasma concentrations observed in male and female patients were similar.
 Therefore, no dosage adjustment based on gender is necessary.
@@ -110,7 +110,5 @@ In patients with moderate to severe renal dysfunction (serum creatinine levels >
 
 Bioequivalence was established between the 200 mg tablet and the 40 mg/ml oral suspension when administered as a 200 mg dose.
 When multiple doses of voriconazole oral suspension are administered with high fat meals, Cmax and AUCτ are reduced by 58% and 37% respectively.
-
-A relationship between plasma concentrations and age was observed.The safety profile of voriconazole in young and elderly patients was similar and, therefore, no dosage adjustment is necessary for the elderly (see section 4.2).
 
 In an oral single-dose (200 mg) study in subjects with normal renal function and mild (creatinine clearance 41-60 ml/min) to severe (creatinine clearance <20 ml/min) renal impairment, the pharmacokinetics of voriconazole were not significantly affected by renal impairment.
