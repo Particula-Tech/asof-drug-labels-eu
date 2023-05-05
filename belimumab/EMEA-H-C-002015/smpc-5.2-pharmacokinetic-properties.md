@@ -5,9 +5,9 @@ Absorption
 
 Benlysta in pre-filled pen or pre-filled syringe is administered by subcutaneous injection.
 
-Following subcutaneous administration, the bioavailability of belimumab was approximately 74%.
+Following subcutaneous administration, the bioavailability of belimumab was approximately 74 %.
 Steady-state exposure was reached after approximately 11 weeks of subcutaneous administration.
-The maximum serum concentration (Cmax) of belimumab at steady state was 108 µg/ml.
+The maximum serum concentration (Cmax) of belimumab at steady state was 108 µg/mL.
 
 Distribution
 
@@ -21,7 +21,7 @@ Classical biotransformation studies have not been conducted.
 Elimination
 
 Following subcutaneous administration, belimumab had a terminal half-life of 18.3 days.
-The systemic clearance was 204 ml/day.
+The systemic clearance was 204 mL/day.
 
 Lupus nephritis study
 
@@ -36,11 +36,11 @@ Paediatric population: No pharmacokinetic data are available for subcutaneous ad
 
 Elderly: Benlysta has been studied in a limited number of elderly patients.
 Age did not affect belimumab exposure in the subcutaneous population pharmacokinetic analysis.
-However, given the small number of subjects ≥65, an effect of age cannot be ruled out conclusively.
+However, given the small number of subjects ≥ 65, an effect of age cannot be ruled out conclusively.
 
 Renal impairment: No specific studies have been conducted to examine the effects of renal impairment on the pharmacokinetics of belimumab.
-During clinical development, Benlysta was studied in a limited number of SLE patients with mild (creatinine clearance [CrCl] ≥60 and <90 ml/min), moderate (CrCl ≥30 and
-<60 ml/min), or severe (CrCl ≥15 and <30 ml/min) renal impairment: 121 patients with mild renal impairment and 30 patients with moderate renal impairment received Benlysta subcutaneously; 770 patients with mild renal impairment, 261 patients with moderate renal impairment and 14 patients with severe renal impairment received Benlysta intravenously.
+During clinical development, Benlysta was studied in a limited number of SLE patients with mild (creatinine clearance [CrCl] ≥ 60 and < 90 mL/min), moderate (CrCl ≥ 30 and
+< 60 mL/min), or severe (CrCl ≥ 15 and < 30 mL/min) renal impairment: 121 patients with mild renal impairment and 30 patients with moderate renal impairment received Benlysta subcutaneously; 770 patients with mild renal impairment, 261 patients with moderate renal impairment and 14 patients with severe renal impairment received Benlysta intravenously.
 
 No clinically significant reduction in systemic clearance as a result of renal impairment was observed.
 Therefore, no dose adjustment is recommended for patients with renal impairment.
@@ -68,28 +68,27 @@ The intravenous pharmacokinetic parameters quoted below are based on population 
 
 Benlysta is administered by intravenous infusion.
 Maximum serum concentrations of belimumab were generally observed at, or shortly after, the end of the infusion.
-The maximum serum concentration was 313 µg/ml (range: 173-573 µg/ml) based on simulating the concentration time profile using the typical parameter values of the population pharmacokinetic model.
+The maximum serum concentration was 313 µg/mL (range: 173-573 µg/mL) based on simulating the concentration time profile using the typical parameter values of the population pharmacokinetic model.
 
 Serum belimumab concentrations declined in a bi-exponential manner, with a distribution half-life of 1.75 days and terminal half-life 19.4 days.
-The systemic clearance was 215 ml/day (range: 69-622 ml/day).
+The systemic clearance was 215 mL/day (range: 69-622 mL/day).
 
 In patients with lupus nephritis, due to renal disease activity, belimumab clearance was initially higher than observed in SLE studies; however, after 24 weeks of treatment and throughout the remainder of the study, belimumab clearance and exposure were similar to that observed in adult patients with SLE who received Benlysta 10 mg/kg intravenously.
 
 Paediatric population: The pharmacokinetic parameters are based on individual parameter estimates from a population pharmacokinetic analysis of 53 patients from a study in paediatric patients with SLE.
 Following intravenous administration of 10 mg/kg on Days 0, 14 and 28, and at 4-week intervals thereafter, belimumab exposures were similar between paediatric and adult SLE subjects.
-Steady-state geometric mean Cmax, Cmin, and AUC values were 305 µg/mL, 42 µg/mL, and 2569 day•µg/mL in the 5- to 11-year-old-group, and 317 µg/mL, 52 µg/mL, and 3126 day•µg/mL in the 12- to 17-year-old-group (n=43).
+Steady-state geometric mean Cmax, Cmin, and AUC values were 305 µg/mL, 42 µg/mL, and 2569 day•µg/mL in the 5- to 11-year-old-group, and 317 µg/mL, 52 µg/mL, and 3126 day•µg/mL in the 12- to 17-year-old-group (n = 43).
 
 Within the overall SLE intravenous study population, age did not affect belimumab exposure in the population pharmacokinetic analysis.
-However, given the small number of subjects ≥65 years, an effect of age cannot be ruled out conclusively.
+However, given the small number of subjects ≥ 65 years, an effect of age cannot be ruled out conclusively.
 
-During clinical development Benlysta was studied in patients with SLE and renal impairment (261 subjects with moderate renal impairment, creatinine clearance ≥30 and
-<60 ml/min; 14 subjects with severe renal impairment, creatinine clearance ≥15 and <30 ml/min).
+During clinical development Benlysta was studied in patients with SLE and renal impairment (261 subjects with moderate renal impairment, creatinine clearance ≥ 30 and
+< 60 mL/min; 14 subjects with severe renal impairment, creatinine clearance ≥ 15 and < 30 mL/min).
 The reduction in systemic clearance estimated by population PK modelling for patients at the midpoints of the renal impairment categories relative to patients with median creatinine clearance in the PK population
-(79.9 ml/min) were 1.4% for mild (75 ml/min), 11.7% for moderate (45 ml/min) and 24.0% for severe
-(22.5 ml/min) renal impairment.
-Although proteinuria (≥2 g/day) increased belimumab clearance and decreases in creatinine clearance decreased belimumab clearance, these effects were within the expected range of variability.
+(79.9 mL/min) were 1.4 % for mild (75 mL/min), 11.7 % for moderate (45 mL/min) and 24.0 % for severe (22.5 mL/min) renal impairment.
+Although proteinuria (≥ 2 g/day) increased belimumab clearance and decreases in creatinine clearance decreased belimumab clearance, these effects were within the expected range of variability.
 
-Weight-normalised belimumab dosing leads to decreased exposure for underweight subjects (BMI <18.5) and to increased exposure for obese subjects (BMI ≥30).
+Weight-normalised belimumab dosing leads to decreased exposure for underweight subjects (BMI < 18.5) and to increased exposure for obese subjects (BMI ≥ 30).
 BMI-dependent changes in exposure did not lead to corresponding changes in efficacy.
 Increased exposure for obese subjects receiving 10 mg/kg belimumab did not lead to an overall increase in AE rates or serious AEs compared to obese subjects receiving placebo.
 However, higher rates of nausea, vomiting and diarrhoea were observed in obese patients.

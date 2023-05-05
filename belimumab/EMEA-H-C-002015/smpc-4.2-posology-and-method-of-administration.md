@@ -40,7 +40,7 @@ This transition should occur any time after the patient completes the first 2 in
 Special populations
 
 Elderly
-Data on patients ≥65 years are limited (see section 5.1).
+Data on patients ≥ 65 years are limited (see section 5.1).
 Benlysta should be used with caution in the elderly.
 Dose adjustment is not required (see section 5.2).
 
@@ -53,7 +53,7 @@ Hepatic impairment
 No specific studies with Benlysta have been conducted in patients with hepatic impairment.
 Patients with hepatic impairment are unlikely to require dose adjustment (see section 5.2).
 Paediatric population
-The safety and efficacy of Benlysta subcutaneous administration in children and adolescents (<18 years of age) have not been established.
+The safety and efficacy of Benlysta subcutaneous administration in children and adolescents (< 18 years of age) have not been established.
 No data are available.
 
 Method of administration
@@ -87,8 +87,8 @@ In patients with SLE, discontinuation of treatment with Benlysta should be consi
 In patients with active lupus nephritis, Benlysta should be used in combination with corticosteroids and mycophenolate or cyclophosphamide for induction, or mycophenolate or azathioprine for maintenance.
 
 The recommended dose regimen for children aged 5 years and older is 10 mg/kg Benlysta on Days 0, 14 and 28, and at 4-week intervals thereafter.
-
 The safety and efficacy of Benlysta in children aged below 5 years have not been established.
+
 The safety and efficacy of Benlysta in children and adolescents aged below 18 years with severe active lupus nephritis have not been established.
 
 Benlysta is administered intravenously by infusion, and must be reconstituted and diluted before administration.

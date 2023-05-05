@@ -9,12 +9,12 @@ Benlysta has not been studied in the following patient groups and is not recomme
 - severe active central nervous system lupus
 - HIV
 - a history of, or current, hepatitis B or C
-- hypogammaglobulinaemia (IgG <400 mg/dl) or IgA deficiency (IgA <10 mg/dl)
+- hypogammaglobulinaemia (IgG < 400 mg/dL) or IgA deficiency (IgA < 10 mg/dL)
 - a history of major organ transplant or hematopoietic stem cell/marrow transplant or renal transplant.
 
 Concomitant use with B cell targeted therapy
 
-Benlysta has not been studied in combination with other B cell targeted therapy.
+Available data do not support the co-administration of rituximab with Benlysta in patients with SLE (see section 5.1).
 Caution should be exercised if Benlysta is co-administered with other B cell targeted therapy.
 
 Hypersensitivity
@@ -91,10 +91,11 @@ Infusion reactions and hypersensitivity
 
 Administration of Benlysta may result in hypersensitivity reactions and infusion reactions which can be severe, and fatal.
 The risk of hypersensitivity reactions is greatest with the first two infusions; however the risk should be considered for every infusion administered.
+
 Premedication including an antihistamine, with or without an antipyretic, may be administered before the infusion of Benlysta.
 There is insufficient knowledge to determine whether premedication could diminish the frequency or severity of infusion reactions.
 
-In clinical studies, serious infusion and hypersensitivity reactions affected approximately 0.9% of adult
+In clinical studies, serious infusion and hypersensitivity reactions affected approximately 0.9 % of adult
 patients, and included anaphylactic reaction, bradycardia, hypotension, angioedema, and dyspnoea. Infusion
 reactions occurred more frequently during the first two infusions and tended to decrease with subsequent
 infusions (see section 4.8). Patients have been reported to develop symptoms of acute hypersensitivity
