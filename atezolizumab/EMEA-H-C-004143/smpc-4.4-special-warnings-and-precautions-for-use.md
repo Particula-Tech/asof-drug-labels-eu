@@ -3,12 +3,12 @@
 Traceability
 
 In order to improve the traceability of biological medicinal products, the trade name and the batch number of the administered product should be clearly recorded in the patient file.
-
 Immune-mediated adverse reactions
 
 Most immune-mediated adverse reactions occurring during treatment with atezolizumab were reversible with interruptions of atezolizumab and initiation of corticosteroids and/or supportive care.
 Immune-mediated adverse reactions affecting more than one body system have been observed.
 Immune-mediated adverse reactions with atezolizumab may occur after the last dose of atezolizumab.
+
 For suspected immune-mediated adverse reactions, thorough evaluation to confirm aetiology or exclude other causes should be performed.
 Based on the severity of the adverse reaction, atezolizumab should be withheld and corticosteroids administered.
 Upon improvement to Grade ≤ 1, corticosteroid should be tapered over ≥ 1 month.
@@ -43,9 +43,9 @@ Treatment with atezolizumab must be permanently discontinued for Grade 3 or Grad
 For patients with HCC, treatment with atezolizumab should be withheld if ALT or AST increases to
 > 3 to ≤ 10 x ULN from normal limits at baseline, or > 5 to ≤ 10 x ULN from > 1 ULN to ≤ 3 x ULN at baseline, or > 8 to ≤ 10 x ULN from > 3 ULN to ≤ 5 x ULN at baseline, and persists for more than 5 to 7 days, and 1 to 2 mg/kg bw/day of prednisone or equivalent should be started.
 If the event improves to ≤ Grade 1, corticosteroids should be tapered over ≥ 1 month.
-
 Treatment with atezolizumab may be resumed if the event improves to ≤ Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day.
 Treatment with atezolizumab must be permanently discontinued if ALT or AST increases to > 10 x ULN or total bilirubin increases > 3 x ULN).
+
 Immune-mediated colitis
 
 Cases of diarrhoea or colitis have been observed in clinical trials with atezolizumab (see section 4.8).
@@ -85,10 +85,10 @@ Once symptoms improve, treatment with 1 to 2 mg/kg bw/day of prednisone or equiv
 If symptoms improve to ≤ Grade 1, corticosteroids should be tapered over ≥ 1 month.
 Treatment may be resumed if the event improves to ≤ Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day and the patient is stable on replacement therapy (if required).
 Treatment with atezolizumab should be permanently discontinued for Grade 4 hypophysitis.
-
 Treatment with insulin should be initiated for type 1 diabetes mellitus.
 For ≥ Grade 3 hyperglycaemia (fasting glucose > 250 mg/dL or 13.9 mmol/L), atezolizumab should be withheld.
 Treatment with atezolizumab may be resumed if metabolic control is achieved on insulin replacement therapy.
+
 Immune-mediated meningoencephalitis
 
 Meningoencephalitis has been observed in clinical trials with atezolizumab (see section 4.8).
@@ -100,11 +100,20 @@ Once symptoms improve, treatment with 1 to 2 mg/kg bw/day of prednisone or equiv
 
 Immune-mediated neuropathies
 
-Myasthenic syndrome/myasthenia gravis or Guillain-Barré syndrome, which may be life threatening, were observed in patients receiving atezolizumab.
+Myasthenic syndrome/myasthenia gravis or Guillain-Barré syndrome, which may be life threatening, and facial paresis were observed in patients receiving atezolizumab.
 Patients should be monitored for symptoms of motor and sensory neuropathy.
+
+Myelitis has been observed in clinical trials with atezolizumab (see section 4.8).
+Patients should be closely monitored for signs and symptoms that are suggestive of myelitis.
 
 Treatment with atezolizumab must be permanently discontinued for any grade of myasthenic syndrome/myasthenia gravis or Guillain-Barré syndrome.
 Initiation of systemic corticosteroids (at a dose of 1 to 2 mg/kg bw/day of prednisone or equivalent) should be considered.
+
+Treatment with atezolizumab should be withheld for Grade 1 or 2 facial paresis, and treatment with systemic corticosteroids (1 to 2 mg/kg bw/day prednisone or equivalent) should be considered.
+Treatment may be resumed only if the event fully resolves.
+Treatment with atezolizumab should be permanently discontinued for Grade 3 or Grade 4 facial paresis, or any other neuropathy that does not fully resolve while withholding atezolizumab.
+
+Treatment with atezolizumab must be permanently discontinued for Grade 2, 3 or 4 myelitis.
 
 Immune-mediated pancreatitis
 
@@ -122,7 +131,6 @@ Immune-mediated myocarditis
 Cases of myocarditis, including fatal cases, have been observed with atezolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of myocarditis.
 Myocarditis may also be a clinical manifestation of myositis and should be managed accordingly.
-
 Patients with cardiac or cardiopulmonary symptoms should be assessed for potential myocarditis, to ensure the initiation of appropriate measures at an early stage.
 If myocarditis is suspected, treatment with atezolizumab should be withheld, prompt initiation of systemic corticosteroids at a dose of 1 to 2 mg/kg bw/day of prednisone or equivalent should be started, and prompt cardiology consultation with diagnostic workup according to current clinical guidelines should be initiated.
 Once a diagnosis of myocarditis is established, treatment with atezolizumab must be permanently discontinued for Grade ≥ 2 myocarditis (see section 4.2).
@@ -162,7 +170,6 @@ Atezolizumab should be withheld for patients with suspected SJS or TEN.
 For confirmed SJS or TEN, atezolizumab should be permanently discontinued.
 
 Caution should be used when considering the use of atezolizumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anticancer agents.
-
 Immune-mediated pericardial disorders
 
 Pericardial disorders, including pericarditis, pericardial effusion and cardiac tamponade, some leading to fatal outcomes, have been observed with atezolizumab (see section 4.8).
@@ -171,6 +178,7 @@ Patients should be monitored for clinical signs and symptoms of pericardial diso
 For suspected Grade 1 pericarditis, treatment with atezolizumab should be withheld and prompt cardiology consultation with diagnostic workup according to current clinical guidelines should be initiated.
 For suspected Grade ≥ 2 pericardial disorders, treatment with atezolizumab should be withheld, prompt treatment with systemic corticosteroids at a dose of 1 to 2 mg/kg bw/day of prednisone or equivalent should be started and prompt cardiology consultation with diagnostic workup according to current clinical guidelines should be initiated.
 Once a diagnosis of a pericardial disorder event is established, treatment with atezolizumab must be permanently discontinued for Grade ≥ 2 pericardial disorders (see section 4.2).
+
 Haemophagocytic lymphohistiocytosis
 
 Haemophagocytic lymphohistiocytosis (HLH), including fatal cases, has been reported in patients receiving atezolizumab (see section 4.8).
@@ -198,7 +206,6 @@ Disease-specific precautions
 Use of atezolizumab in combination with bevacizumab, paclitaxel and carboplatin in metastatic non-squamous NSCLC
 
 Physicians should carefully consider the combined risks of the four-drug regimen of atezolizumab bevacizumab, paclitaxel, and carboplatin before initiating treatment (see section 4.8).
-
 Use of atezolizumab in combination with nab-paclitaxel in metastatic TNBC
 
 Neutropenia and peripheral neuropathies occurring during treatment with atezolizumab and nab-paclitaxel may be reversible with interruptions of nab-paclitaxel.
@@ -230,7 +237,6 @@ Please refer to the bevacizumab Summary of Product Characteristics.
 
 Diabetes mellitus can occur during treatment with atezolizumab in combination with bevacizumab.
 Physicians should monitor blood glucose levels prior to and periodically during treatment with atezolizumab in combination with bevacizumab as clinically indicated.
-
 Use of atezolizumab as monotherapy for first-line treatment in metastatic NSCLC
 
 Physicians should consider the delayed onset of atezolizumab effect before initiating first-line treatment as monotherapy in patients with NSCLC.

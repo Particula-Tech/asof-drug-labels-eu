@@ -3,7 +3,8 @@
 Exposure to atezolizumab increased dose proportionally over the dose range 1 mg/kg bw to 20 mg/kg bw including the fixed dose 1 200 mg administered every 3 weeks.
 A population analysis that included 472 patients described atezolizumab pharmacokinetics for the dose range:
 1 to 20 mg/kg bw with a linear two-compartment disposition model with first-order elimination.
-The pharmacokinetic properties of 840 mg intravenous atezolizumab administered every 2 weeks, 1200 mg administered every 3 weeks, and 1680 mg administered every 4 weeks are the same; comparable total exposures are expected to be achieved with these three dosing regimens.
+The pharmacokinetic properties of 840 mg intravenous atezolizumab administered every 2 weeks,
+1 200 mg administered every 3 weeks, and 1 680 mg administered every 4 weeks are the same; comparable total exposures are expected to be achieved with these three dosing regimens.
 A population pharmacokinetic analysis suggests that steady-state is obtained after 6 to 9 weeks of multiple dosing.
 The systemic accumulation in area under the curve, maximum concentration and trough concentration was 1.91, 1.46 and 2.75-fold, respectively.
 

@@ -1,7 +1,9 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies.
-ATC code: L01FF05 Mechanism of action
+ATC code: L01FF05
+
+Mechanism of action
 
 Programmed death-ligand 1 (PD-L1) may be expressed on tumour cells and/or tumour-infiltrating immune cells, and can contribute to the inhibition of the antitumour immune response in the tumour microenvironment.
 Binding of PD-L1 to the PD-1 and B7.1 receptors found on T-cells and antigen presenting cells suppresses cytotoxic T-cell activity, T-cell proliferation and cytokine production.
@@ -38,6 +40,7 @@ The majority of patients were white (72.1%), 53.9% of patients within the chemot
 Baseline ECOG performance status was 0 (45.6%) or 1 (54.4%).
 Bladder was the primary tumour site for 71.1% of patients and 25.4% of patients had upper tract UC.
 There were 24.2% of patients who received only prior platinum-containing adjuvant or neoadjuvant therapy and progressed within 12 months.
+
 The primary efficacy endpoint for IMvigor211 is overall survival (OS).
 Secondary efficacy endpoints evaluated per investigator-assessed Response Evaluation Criteria in Solid Tumours (RECIST) v1.1 are objective response rate (ORR), progression-free survival (PFS), and duration of response (DOR).
 Comparisons with respect to OS between the treatment arm and control arm within the IC2/3, IC1/2/3, and ITT (Intention-to-treat, i.e. all comers) populations were tested using a hierarchical fixed-sequence procedure based on a stratified log-rank test at two-sided level of 5% as follows: step 1) IC2/3 population; step 2) IC1/2/3 population; step 3) all comers population.
@@ -643,7 +646,7 @@ Table 16: Intravenous treatment regimens (IMpower133)
 
 Treatment Induction Maintenance
 regimen (Four 21-Day Cycles) (21-Day Cycles)
-A atezolizumab (1 200 mg)a + carboplatin (AUC 5)b + etoposide (100 mg/m2)b,c atezolizumab (1,200 mg) a
+A atezolizumab (1 200 mg)a + carboplatin (AUC 5)b + etoposide (100 mg/m2)b,c atezolizumab (1 200 mg) a
 B placebo + carboplatin (AUC 5)b + etoposide (100 mg/m2)b,c placebo
 
 a Atezolizumab was administered until loss of clinical benefit as assessed by investigator b Carboplatin and etoposide were administered until completion of 4 cycles, or progressive disease or unacceptable toxicity, whichever occurs first c Etoposide was administered on day 1, 2 and 3 of each cycle

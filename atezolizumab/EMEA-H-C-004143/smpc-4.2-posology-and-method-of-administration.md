@@ -66,7 +66,9 @@ Table 2: Dose modification advice for Tecentriq
 | Type 1 diabetes mellitus | Grade 3 or 4 hyperglycaemia (fasting glucose > 250 mg/dL or 13.9 mmol/L) | Withhold Tecentriq Treatment may be resumed when metabolic control is achieved on insulin replacement therapy |
 | Rash/Severe cutaneous adverse reactions | Grade 3 or suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN)1 | Withhold Tecentriq Treatment may be resumed when the symptoms improve to Grade 0 or Grade 1 within 12 weeks and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 4 or confirmed Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN)1 | Permanently discontinue Tecentriq |
-| Myasthenic syndrome/myasthenia gravis, Guillain-Barré syndrome and Meningoencephalitis | All Grades | Permanently discontinue Tecentriq |
+| Myasthenic syndrome/myasthenia gravis, Guillain-Barré syndrome, Meningoencephalitis and Facial paresis | Facial paresis Grade 1 or 2 | Withhold Tecentriq Treatment may be resumed if the event fully resolves. If the event does not fully resolve while withholding Tecentriq, permanently discontinue Tecentriq |
+|  | All Grades Myasthenic syndrome/myasthenia gravis, Guillain Barré syndrome and Meningoencephalitis or Facial paresis Grade 3 or 4 | Permanently discontinue Tecentriq |
+| Myelitis | Grade 2, 3, or 4 | Permanently discontinue Tecentriq |
 | Pancreatitis | Grade 3 or 4 serum amylase or lipase levels increased (> 2 x ULN) or Grade 2 or 3 pancreatitis | Withhold Tecentriq Treatment may be resumed when serum amylase and lipase levels improve to Grade 0 or Grade 1 within 12 weeks, or symptoms of pancreatitis have resolved, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 4 or any grade of recurrent pancreatitis | Permanently discontinue Tecentriq |
 | Myocarditis | Grade 2 or above | Permanently discontinue Tecentriq |
@@ -77,7 +79,7 @@ Table 2: Dose modification advice for Tecentriq
 | Pericardial disorders | Grade 1 pericarditis | Withhold Tecentriq2 |
 |  | Grade 2 or above | Permanently discontinue Tecentriq |
 | Haemophagocytic lymphohistiocytosis | Suspected haemophagocytic lymphohistiocytosis1 | Permanently discontinue Tecentriq |
-| Other immune-mediated adverse reactions | Grade 2 or Grade 3 | Withhold until adverse reactions recovers to Grade 0-1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day. |
+| Other immune-mediated adverse reactions | Grade 2 or Grade 3 | Withhold until adverse reactions recovers to Grade 0-1 within 12 weeks, and corticosteroids have been reduced to ≤ 10 mg prednisone or equivalent per day |
 |  | Grade 4 or recurrent Grade 3 | Permanently discontinue Tecentriq (except endocrinopathies controlled with replacement hormones) |
 | Other adverse reactions | Severity | Treatment modification |
 | Infusion-related reactions | Grade 1 or 2 | Reduce infusion rate or interrupt. Treatment may be resumed when the event is resolved |
@@ -86,13 +88,13 @@ Table 2: Dose modification advice for Tecentriq
 Note: Toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Event Version 4.0 (NCI-CTCAE v.4.).
 1 Regardless of severity
 2 Conduct a detailed cardiac evaluation to determine the etiology and manage appropriately
-
 Special populations
 
 Paediatric population
 
 The safety and efficacy of Tecentriq in children and adolescents aged below 18 years have not been established.
 Currently available data are described in sections 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
+
 Elderly
 
 Based on a population pharmacokinetic analysis, no dose adjustment of Tecentriq is required in patients ≥ 65 years of age (see sections 4.8 and 5.1).
