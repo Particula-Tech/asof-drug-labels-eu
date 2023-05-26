@@ -6,15 +6,15 @@ Assessment of adverse reactions is based on clinical study data and postmarketin
 In pooled safety data from 2 controlled Phase 3 studies (GS-US-320-0108 and GS-US-320-0110; “Study 108” and “Study 110”, respectively), the most frequently reported adverse reactions at Week 96 analysis were headache (12%), nausea (6%), and fatigue (6%).
 After Week 96, patients either remained on their original blinded treatment up to Week 144 or received open-label tenofovir alafenamide.
 
-The safety profile of tenofovir alafenamide was similar in virologically suppressed patients switching from tenofovir disoproxil to tenofovir alafenamide in Study 108, Study 110 and a controlled Phase 3 study GS-US-320-4018 (Study 4018).
-Changes in lipid laboratory tests were observed in these studies following a switch from tenofovir disoproxil (see section 5.1)
+The safety profile of tenofovir alafenamide was similar in virologically suppressed patients switching from tenofovir disoproxil to tenofovir alafenamide in Study 108, Study 110 and a controlled Phase 3 study GS-US-320-4018 (“Study 4018”).
+Changes in lipid laboratory tests were observed in these studies following a switch from tenofovir disoproxil (see section 5.1).
 Tabulated summary of adverse reactions
 
 The following adverse reactions have been identified with tenofovir alafenamide in patients with CHB (Table 2).
 The adverse reactions are listed below by body system organ class and frequency based on the Week 96 analysis.
 Frequencies are defined as follows: very common (≥ 1/10), common (≥ 1/100 to < 1/10) or uncommon (≥ 1/1,000 to < 1/100).
 
-Table 2: Adverse reactions identified with tenofovir alafenamide
+Table 2: Adverse Reactions Identified with Tenofovir Alafenamide
 
 | System organ class |  |
 | --- | --- |
@@ -36,16 +36,23 @@ Table 2: Adverse reactions identified with tenofovir alafenamide
 
 1 Adverse reaction identified through post-marketing surveillance for tenofovir alafenamide-containing products.
 
-In the open-label Phase 2 study (GS-US-320-4035; “Study 4035”) to evaluate the efficacy and safety of switching from another antiviral regimen to tenofovir alafenamide in virologically suppressed chronic HBV infected patients, small median increases in fasting total cholesterol, direct LDL, HDL, and triglycerides from baseline to Week 96 were observed in subjects with moderate or severe renal impairment (Part A Cohort 1) and subjects with moderate or severe hepatic impairment (Part B), consistent with changes observed in Studies 108 and 110.
-Small median decreases in total cholesterol, LDL and triglycerides were observed in subjects with ESRD on hemodialysis in Part A Cohort 2, while small median increases were observed in HDL from baseline to Week 96.
-Median (Q1, Q3) change from baseline at Week 96 in total cholesterol to HDL ratio was 0.1 (-0.4, 0.4) in the moderate or severe renal impairment group, and -0.4 (-0.8,-0.1) in subjects with ESRD on hemodialysis and 0.1 (-0.2, 0.4) in subjects with moderate or severe hepatic impairment.
+In the open-label Phase 2 study (GS-US-320-4035; “Study 4035”) to evaluate the efficacy and safety of switching from another antiviral regimen to tenofovir alafenamide in virologically suppressed HBV infected patients, small median increases in fasting total cholesterol, direct low density lipoprotein (LDL), high density lipoprotein (HDL), and triglycerides from baseline to Week 96 were observed in patients with moderate or severe renal impairment (Part A Cohort 1) and patients with moderate or severe hepatic impairment (Part B), consistent with changes observed in Studies 108 and 110.
+Small median decreases in total cholesterol, LDL and triglycerides were observed in patients with ESRD on hemodialysis in Part A Cohort 2, while small median increases were observed in HDL from baseline to Week 96.
+Median (Q1, Q3) change from baseline at Week 96 in total cholesterol to HDL ratio was 0.1 (-0.4, 0.4) in the moderate or severe renal impairment group, and -0.4 (-0.8,-0.1) in patients with ESRD on hemodialysis and 0.1 (-0.2, 0.4) in patients with moderate or severe hepatic impairment.
 
 Metabolic parameters
 Body weight and levels of blood lipids and glucose may increase during therapy.
 
-Other special populations
+Special populations
 
 In Study 4035 in virologically suppressed patients with moderate to severe renal impairment (eGFR by Cockcroft-Gault method 15 to 59 mL/min; Part A, Cohort 1, N = 78), end stage renal disease (ESRD) (eGFR < 15 mL/min) on haemodialysis (Part A, Cohort 2, N = 15), and/or moderate to severe hepatic impairment (Child-Pugh Class B or C at screening or by history; Part B, N = 31) who switched from another antiviral regimen to tenofovir alafenamide, no additional adverse reactions to tenofovir alafenamide were identified through Week 96.
+
+Paediatric population
+
+The safety of tenofovir alafenamide was evaluated in 88 HBV-infected treatment-naïve and treatment-experienced paediatric patients between the ages of 12 to < 18 years weighing ≥ 35 kg (tenofovir alafenamide group N=47, placebo group N=23) and 6 to < 12 years weighing ≥ 25 kg (tenofovir alafenamide group N=12, placebo group N=6) through Week 24 in a randomised, double-blind, placebo-controlled clinical study GS-US-320-1092 (“Study 1092”).
+After the double-blind phase, patients were switched to open-label tenofovir alafenamide at Week 24.
+The safety profile of tenofovir alafenamide in paediatric patients was comparable to that in adults.
+Reductions in bone mineral density (BMD ≥ 4%) of the lumbar spine and of whole body have been reported in some paediatric patients 6 years of age and older weighing at least 25 kg who received tenofovir alafenamide for up to 48 weeks (see sections 4.4 and 5.1).
 
 Reporting of suspected adverse reactions
 

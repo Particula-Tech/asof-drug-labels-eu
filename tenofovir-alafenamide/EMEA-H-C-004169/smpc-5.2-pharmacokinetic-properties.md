@@ -3,7 +3,7 @@
 Absorption
 
 Following oral administration of tenofovir alafenamide under fasted conditions in adult patients with chronic hepatitis B, peak plasma concentrations of tenofovir alafenamide were observed approximately 0.48 hours post-dose.
-Based on Phase 3 population pharmacokinetic analysis in subjects with chronic hepatitis B, mean steady state AUC0-24 for tenofovir alafenamide (N = 698) and tenofovir (N = 856) were 0.22 µg•h/mL and 0.32 µg•h/mL, respectively.
+Based on Phase 3 population pharmacokinetic analysis in patients with chronic hepatitis B, mean steady state AUC0-24 for tenofovir alafenamide (N = 698) and tenofovir (N = 856) were 0.22 µg•h/mL and 0.32 µg•h/mL, respectively.
 Steady state Cmax for tenofovir alafenamide and tenofovir were 0.18 and 0.02 µg/mL, respectively.
 Relative to fasting conditions, the administration of a single dose of tenofovir alafenamide with a high fat meal resulted in a 65% increase in tenofovir alafenamide exposure.
 
@@ -32,6 +32,7 @@ Tenofovir is renally eliminated from the body by the kidneys by both glomerular 
 Linearity/non-linearity
 
 Tenofovir alafenamide exposures are dose proportional over the dose range of 8 to 125 mg.
+
 Pharmacokinetics in special populations
 
 Age, gender and ethnicity
@@ -39,16 +40,16 @@ No clinically relevant differences in pharmacokinetics according to age or ethni
 Differences in pharmacokinetics according to gender were not considered to be clinically relevant.
 
 Hepatic impairment
-In patients with severe hepatic impairment, total plasma concentrations of tenofovir alafenamide and tenofovir are lower than those seen in subjects with normal hepatic function.
+In patients with severe hepatic impairment, total plasma concentrations of tenofovir alafenamide and tenofovir are lower than those seen in patients with normal hepatic function.
 When corrected for protein binding, unbound (free) plasma concentrations of tenofovir alafenamide in severe hepatic impairment and normal hepatic function are similar.
 
 Renal impairment
-No clinically relevant differences in tenofovir alafenamide or tenofovir pharmacokinetics were observed between healthy subjects and patients with severe renal impairment (estimated CrCl > 15 but < 30 mL/min) in studies of tenofovir alafenamide (Table 12).
+No clinically relevant differences in tenofovir alafenamide or tenofovir pharmacokinetics were observed between healthy patients and patients with severe renal impairment (estimated CrCl > 15 but < 30 mL/min) in studies of tenofovir alafenamide (Table 15).
 
-Exposures of tenofovir in subjects with ESRD (estimated creatinine clearance < 15 mL/min) on chronic haemodialysis who received tenofovir alafenamide (N = 5) were substantially higher than in subjects with normal renal function (Table 12).
+Exposures of tenofovir in patients with ESRD (estimated creatinine clearance < 15 mL/min) on chronic haemodialysis who received tenofovir alafenamide (N = 5) were substantially higher than in patients with normal renal function (Table 15).
 No clinically relevant differences in tenofovir alafenamide pharmacokinetics were observed in patients with ESRD on chronic haemodialysis as compared to those with normal renal function.
 
-Table 12: Pharmacokinetics of tenofovir alafenamide and its metabolite tenofovir in subjects with renal impairment as compared to subjects with normal renal function
+Table 15: Pharmacokinetics of Tenofovir Alafenamide and its Metabolite Tenofovir in Patients with Renal Impairment as Compared to Patients with Normal Renal Function
 
 |  | AUC (mcg•hour per mL) Mean (CV%) |  |  |
 | --- | --- | --- | --- |
@@ -57,13 +58,25 @@ Table 12: Pharmacokinetics of tenofovir alafenamide and its metabolite tenofovir
 | Tenofovir | 0.34 (27.2)d | 2.07 (47.1)d | 18.8 (30.4)f |
 
 CV = coefficient of variation a. By Cockcroft-Gault method.
-b. PK assessed on a single dose of TAF 25 mg in subjects with normal renal function and in subjects with severe renal impairment in Study GS-US-120-0108.
-c. PK assessed prior to haemodialysis following multiple-dose administration of TAF 25 mg in 5 HBV-infected subjects in Study GS-US-320-4035.
-These subjects had a median baseline eGFR by Cockcroft-Gault of 7.2 mL/min (range, 4.8 to 12.0).
+b. PK assessed on a single dose of tenofovir alafenamide 25 mg in patients with normal renal function and in patients with severe renal impairment in Study GS-US-120-0108.
+c. PK assessed prior to haemodialysis following multiple-dose administration of tenofovir alafenamide 25 mg in 5 HBV-infected patients in Study GS-US-320-4035.
+These patients had a median baseline eGFR by Cockcroft-Gault of 7.2 mL/min (range, 4.8 to 12.0).
 d. AUCinf.
 e. AUClast.
 f. AUCtau.
 
 Paediatric population
-The pharmacokinetics of tenofovir alafenamide and tenofovir were evaluated in HIV-1 infected, treatment-naïve adolescents who received tenofovir alafenamide (10 mg) given with elvitegravir, cobicistat and emtricitabine as a fixed-dose combination tablet (E/C/F/TAF; Genvoya).
-No clinically relevant differences in tenofovir alafenamide or tenofovir pharmacokinetics were observed between adolescent and adult HIV-1 infected subjects.
+
+Steady-state pharmacokinetics of tenofovir alafenamide and its metabolite tenofovir were evaluated in HBV-infected paediatric patients 12 to < 18 years weighing ≥ 35 kg and 6 to < 12 years weighing ≥ 25 kg (Table 16).
+
+Table 16: Pharmacokinetics of Tenofovir Alafenamide and its Metabolite Tenofovir in Paediatric Patients Aged 6 to < 18 Years and Adults
+
+| Parameter Mean (CV%) | 6 to < 12 years old weighing ≥ 25 kga |  | 12 to < 18 years old weighing ≥ 35 kga |  | Adultsb |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | TAF | Tenofovir | TAF | Tenofovir | TAF | Tenofovir |
+| Cmax (µg/mL) | 0.185 (77.7) | 0.017 (19.7) | 0.169 (80.9) | 0.015 (27.4) | 0.178 (53.4) | 0.017 (35.2) |
+| AUCtau (µg•h/mL) | 0.206 (61.3) | 0.298 (23.1) | 0.215 (91.3) | 0.251 (23.6) | 0.216 (66.6) | 0.322 (31.5) |
+| Ctrough (µg/mL) | NA | 0.010 (29.5) | NA | 0.009 (25.6) | NA | 0.011 (33.0) |
+
+CV = coefficient of variation; TAF= tenofovir alafenamide; NA = not applicable a. Population PK-derived parameters from Study 1092 (6 to < 12 years old weighing ≥ 25 kg, N=12; 12 to < 18 years old weighing ≥ 35 kg, N=47).
+b. Population PK-derived parameters from Studies 108 and 110 (TAF: N=698, Tenofovir: N=856).

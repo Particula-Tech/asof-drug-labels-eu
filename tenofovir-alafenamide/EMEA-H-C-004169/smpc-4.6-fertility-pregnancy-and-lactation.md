@@ -2,8 +2,7 @@
 
 Pregnancy
 
-There are no or limited amount of data (less than 300 pregnancy outcomes) from the use of tenofovir alafenamide in pregnant women.
-However, a large amount of data on pregnant women (more than 1,000 exposed outcomes) indicate no malformative nor feto/neonatal toxicity associated with the use of tenofovir disoproxil.
+A moderate amount of data on pregnant women exposed to tenofovir alafenamide (between 300-1000 pregnancy outcomes) indicate no malformative or feto/neonatal toxicity.
 
 Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
 
@@ -11,8 +10,7 @@ The use of tenofovir alafenamide may be considered during pregnancy, if necessar
 
 Breast-feeding
 
-It is not known whether tenofovir alafenamide is secreted in human milk.
-However, in animal studies it has been shown that tenofovir is secreted into milk.
+Based on published data, tenofovir alafenamide and tenofovir are excreted in human milk at low levels in women administered with tenofovir alafenamide.
 There is insufficient information on the effects of tenofovir in newborns/infants.
 
 A risk to the breast-fed newborns/infants cannot be excluded; therefore, tenofovir alafenamide should not be used during breast-feeding.

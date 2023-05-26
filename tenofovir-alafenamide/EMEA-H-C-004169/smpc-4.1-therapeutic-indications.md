@@ -1,3 +1,3 @@
 # 4.1 Therapeutic indications
 
-Vemlidy is indicated for the treatment of chronic hepatitis B (CHB) in adults and adolescents (aged 12 years and older with body weight at least 35 kg) (see section 5.1).
+Vemlidy is indicated for the treatment of chronic hepatitis B (CHB) in adults and paediatric patients 6 years of age and older weighing at least 25 kg (see section 5.1).

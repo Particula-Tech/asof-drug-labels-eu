@@ -4,7 +4,6 @@ Hepatitis B Virus (HBV) transmission
 
 Patients must be advised that this medicinal product does not prevent the risk of transmission of HBV to others through sexual contact or contamination with blood.
 Appropriate precautions must continue to be used.
-
 Patients with decompensated liver disease
 
 There are limited data on the safety and efficacy of tenofovir alafenamide in HBV infected patients with decompensated liver disease and who have a Child Pugh Turcotte (CPT) score > 9 (i.e. class C). These patients may be at higher risk of experiencing serious hepatic or renal adverse reactions.
@@ -30,7 +29,7 @@ Liver flares are especially serious, and sometimes fatal in patients with decomp
 Renal impairment
 
 Patients with creatinine clearance < 30 mL/min
-The use of tenofovir alafenamide once daily in patients with CrCl ≥ 15 mL/min and < 30 mL/min is based on Week 96 data on the efficacy and safety of switching from another antiviral regimen to tenofovir alafenamide in an open-label clinical study of virologically suppressed chronic HBV-infected patients (see sections 4.8 and 5.1).
+The use of tenofovir alafenamide once daily in patients with CrCl ≥ 15 mL/min and < 30 mL/min is based on Week 96 data on the efficacy and safety of switching from another antiviral regimen to tenofovir alafenamide in an open-label clinical study of virologically suppressed HBV-infected patients (see sections 4.8 and 5.1).
 There are very limited data on the safety and efficacy of tenofovir alafenamide in HBV-infected patients with CrCl < 15 mL/min on chronic haemodialysis (see sections 4.8, 5.1 and 5.2).
 
 The use of this medicinal product is not recommended in patients with CrCl < 15 mL/min who are not receiving haemodialysis (see section 4.2).
@@ -42,11 +41,11 @@ A potential risk of nephrotoxicity resulting from chronic exposure to low levels
 
 It is recommended that renal function is assessed in all patients prior to, or when initiating, therapy with this treatment and that it is also monitored during therapy in all patients as clinically appropriate.
 In patients who develop clinically significant decreases in renal function, or evidence of proximal renal tubulopathy, discontinuation of this medicinal product should be considered.
-
 Patients co-infected with HBV and hepatitis C or D virus
 
 There are no data on the safety and efficacy of tenofovir alafenamide in patients co-infected with hepatitis C (HCV) or D (HDV) virus.
 Co-administration guidance for the treatment of HCV should be followed (see section 4.5).
+
 HBV and Human Immunodeficiency Virus (HIV) co-infection
 
 HIV antibody testing should be offered to all HBV infected patients whose HIV-1 infection status is unknown before initiating therapy with this medicinal product.
@@ -61,6 +60,12 @@ St. John’s wort, all of which are inducers of P-glycoprotein (P-gp) and may de
 
 Co-administration of this treatment with strong inhibitors of P-gp (e.g. itraconazole and ketoconazole) may increase tenofovir alafenamide plasma concentrations.
 Co-administration is not recommended.
+
+Paediatric population
+
+Reductions in bone mineral density (BMD ≥ 4%) of the lumbar spine and of whole body have been reported in some paediatric patients 6 years of age and older weighing at least 25 kg who received tenofovir alafenamide for 48 weeks (see sections 4.8 and 5.1).
+The long-term effects of changes in BMD on the growing bone, including the risk of fracture, are uncertain.
+A multidisciplinary approach is recommended to decide the appropriate monitoring during treatment.
 
 Excipients with known effect
 

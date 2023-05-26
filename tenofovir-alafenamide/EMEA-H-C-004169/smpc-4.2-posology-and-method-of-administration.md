@@ -4,7 +4,7 @@ Therapy should be initiated by a physician experienced in the management of CHB.
 
 Posology
 
-Adults and adolescents (aged 12 years and older with body weight at least 35 kg): one tablet once daily.
+Adults and paediatric patients at least 6 years of age and older weighing at least 25 kg: one tablet once daily.
 
 Treatment discontinuation
 Treatment discontinuation may be considered as follows (see section 4.4):
@@ -34,11 +34,13 @@ On days of haemodialysis, this medicinal product should be administered after co
 
 No dosing recommendations can be given for patients with CrCl < 15 mL/min who are not receiving haemodialysis (see section 4.4).
 
+No data are available to make dose recommendations in children aged less than 12 years and of less than 35 kg body weight with renal impairment.
+
 Hepatic impairment
 No dose adjustment of this medicinal product is required in patients with hepatic impairment (see sections 4.4 and 5.2).
 
 Paediatric population
-The safety and efficacy of Vemlidy in children younger than 12 years of age, and weighing < 35 kg, have not yet been established.
+The safety and efficacy of Vemlidy in children younger than 6 years of age or weighing < 25 kg have not yet been established.
 No data are available.
 
 Method of administration
