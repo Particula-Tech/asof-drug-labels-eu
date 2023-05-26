@@ -1,7 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 The concomitant use of oxybutynin with other anticholinergic medicinal products or with other agents that compete for CYP3A4 enzyme metabolism may increase the frequency or severity of dry mouth, constipation, and drowsiness.
-
 Anticholinergic agents may potentially alter the absorption of some concomitantly administered medicinal products due to anticholinergic effects on gastrointestinal motility.
 As oxybutynin is metabolised by cytochrome P 450 isoenzyme CYP3A4, interactions with medicinal products that inhibit this isoenzyme cannot be ruled out.
 This should be borne in mind when using azole antifungals (e.g. ketoconazole) or macrolide antibiotics (e.g. erythromycin) concurrently with oxybutynin.

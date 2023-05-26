@@ -17,3 +17,5 @@ Method of administration
 
 The patch should be applied to dry, intact skin on the abdomen, hip, or buttock immediately after removal from the protective sachet.
 A new application site should be selected with each new patch to avoid reapplication to the same site within 7 days.
+The patch must not be divided or cut into pieces.
+Patches that are damaged should not be used.

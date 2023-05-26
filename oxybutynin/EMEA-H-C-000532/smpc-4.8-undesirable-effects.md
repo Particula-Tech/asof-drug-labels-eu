@@ -16,8 +16,8 @@ Post-marketing adverse reactions not seen in clinical trials are also included.
 |  | Uncommon | Upper respiratory tract infection, fungal infection |
 | Psychiatric disorders | Uncommon | Anxiety, confusion, nervousness, agitation, insomnia |
 |  | Rare | Panic reaction#, delirium#, hallucinations#, disorientation# |
-|  | Common | Headache, somnolence |
-| Nervous system disorders | Rare | Memory impairment#, amnesia#, lethargy#, disturbance in attention# |
+| Nervous system disorders | Common | Headache, somnolence |
+|  | Rare | Memory impairment#, amnesia#, lethargy#, disturbance in attention# |
 | Eye disorders | Common | Blurred vision |
 | Ear and labyrinth disorders | Common | Dizziness |
 | Cardiac disorders | Uncommon | Palpitations |

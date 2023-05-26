@@ -16,6 +16,7 @@ Biotransformation
 Oxybutynin administered orally is metabolised primarily by the cytochrome P450 enzyme systems, particularly CYP3A4, found mostly in the liver and gut wall.
 Metabolites include phenylcyclohexylglycolic acid, which is pharmacologically inactive, and N-desethyloxybutynin, which is pharmacologically active.
 Transdermal administration of oxybutynin bypasses the first-pass gastrointestinal and hepatic metabolism, reducing the formation of the N-desethyl metabolite.
+
 Elimination
 Oxybutynin is extensively metabolised by the liver, see above with less than 0.1% of the administered dose excreted unchanged in the urine.
 Also, less than 0.1% of the administered dose is excreted as the metabolite N-desethyloxybutynin.
