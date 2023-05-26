@@ -69,6 +69,10 @@ Based on clinical response, a maintenance dose of 300 mg every 2 weeks may provi
 
 The 150 mg and 300 mg solution for injection in pre-filled syringe and in pre-filled pen are not indicated for administration to paediatric patients with a weight <50 kg.
 
+Hidradenitis suppurativa (HS)
+The recommended dose is 300 mg of secukinumab by subcutaneous injection with initial dosing at weeks 0, 1, 2, 3, and 4, followed by monthly maintenance dosing.
+Based on clinical response, the maintenance dose can be increased to 300 mg every 2 weeks.
+
 Psoriatic arthritis
 For patients with concomitant moderate to severe plaque psoriasis, please refer to adult plaque psoriasis recommendation.
 

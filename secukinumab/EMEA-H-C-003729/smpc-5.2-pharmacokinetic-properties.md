@@ -46,10 +46,10 @@ The CL was not impacted by gender.
 Clearance was dose- and time-independent.
 
 The mean elimination half-life, as estimated from population pharmacokinetic analysis, was 27 days in plaque psoriasis patients, ranging from 18 to 46 days across psoriasis studies with intravenous administration.
-
 Linearity/non-linearity
 The single and multiple dose pharmacokinetics of secukinumab in plaque psoriasis patients were determined in several studies with intravenous doses ranging from 1x 0.3 mg/kg to 3x 10 mg/kg and with subcutaneous doses ranging from 1x 25 mg to multiple doses of 300 mg.
 Exposure was dose proportional across all dosing regimens.
+
 Special populations
 
 Patients with renal or hepatic impairment
@@ -61,6 +61,12 @@ Effect of weight on pharmacokinetics
 Secukinumab clearance and volume of distribution increase as body weight increases.
 
 [Cosentyx 150 mg solution for injection in pre-filled syringe]
+
+Following subcutaneous administration of 300 mg at weeks 0, 1, 2, 3 and 4 followed by 300 mg every 2 weeks, the mean ± SD steady-state secukinumab trough concentration at week 16 was approximately 55.1±26.7 µg/ml and 58.1±30.1 µg/ml in HS study 1 and HS study 2, respectively.
+
+In a population pharmacokinetic analysis, the mean systemic CL following subcutaneous administration of 300 mg at weeks 0, 1, 2, 3, and 4 followed by 300 mg every 2 weeks to patients with hidradenitis suppurativa was 0.26 l/day.
+
+The mean elimination half-life, as estimated from population pharmacokinetic analysis, was 23 days in hidradenitis suppurativa patients.
 
 Elderly patients
 Based on population pharmacokinetic analysis with a limited number of elderly patients (n=71 for age ≥65 years and n=7 for age ≥75 years), clearance in elderly patients and patients less than 65 years of age was similar.

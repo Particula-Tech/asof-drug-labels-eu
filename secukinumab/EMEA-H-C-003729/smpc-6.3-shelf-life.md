@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-18 months
+2 years
 If necessary, Cosentyx may be stored unrefrigerated for a single period of up to 4 days at room temperature, not above 30°C.
 
 [Cosentyx 150 mg solution for injection in pre-filled syringe]

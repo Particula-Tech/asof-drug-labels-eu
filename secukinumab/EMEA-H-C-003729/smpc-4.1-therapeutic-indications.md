@@ -18,6 +18,9 @@ Adult plaque psoriasis
 
 Cosentyx is indicated for the treatment of moderate to severe plaque psoriasis in adults who are candidates for systemic therapy.
 
+Hidradenitis suppurativa (HS)
+
+Cosentyx is indicated for the treatment of active moderate to severe hidradenitis suppurativa (acne inversa) in adults with an inadequate response to conventional systemic HS therapy (see section 5.1).
 Psoriatic arthritis
 
 Cosentyx, alone or in combination with methotrexate (MTX), is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous disease-modifying anti-rheumatic drug (DMARD) therapy has been inadequate (see section 5.1).
