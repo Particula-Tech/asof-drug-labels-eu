@@ -23,7 +23,7 @@ SGLT2 inhibitors should be used with caution in these patients.
 
 Restarting SGLT2 inhibitor treatment in patients with previous ketoacidosis while on SGLT2 inhibitor treatment is not recommended, unless another clear precipitating factor is identified and resolved.
 
-Jardiance should not be used for treatment of patients with type 1 diabetes.
+Jardiance should not be used in patients with type 1 diabetes.
 Data from a clinical trial program in patients with type 1 diabetes showed increased ketoacidosis occurrence with common frequency in patients treated with empagliflozin 10 mg and 25 mg as an adjunct to insulin compared to placebo.
 
 Renal impairment

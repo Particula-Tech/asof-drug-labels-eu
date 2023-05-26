@@ -413,7 +413,7 @@ The efficacy and safety of empagliflozin was evaluated in a double-blind, placeb
 Treatment with empagliflozin once daily resulted in statistically significant improvement in HbA1c, and 24 hour mean systolic and diastolic blood pressure as determined by ambulatory blood pressure monitoring (Table 12).
 Treatment with empagliflozin provided reductions in seated SBP and DBP.
 
-Table 12:Efficacy results at 12 week in a placebo-controlled study of empagliflozin in patients with type 2 diabetes and uncontrolled blood pressurea
+Table 12: Efficacy results at 12 week in a placebo-controlled study of empagliflozin in patients with type 2 diabetes and uncontrolled blood pressurea
 
 |  | Placebo | Jardiance |  |
 | --- | --- | --- | --- |

@@ -30,7 +30,7 @@ Table 1: Dose adjustment recommendationsa
 |  | 30 to <45b | Initiate with 10 mg empagliflozin. Continue with 10 mg empagliflozin in patients already taking Jardiance. |
 |  | <30 | Empagliflozin is not recommended. |
 | Heart failure (with or without type 2 diabetes mellitus) | ≥20 | Recommended daily dose is 10 mg empagliflozin. |
-|  | <20 | Empagliflozin is not recommended. |
+|  | <20 | Due to limited experience, empagliflozin is not recommended. |
 
 a See sections 4.4, 4.8, 5.1 and 5.2 b patients with type 2 diabetes mellitus and established cardiovascular disease
 
