@@ -1,0 +1,16 @@
+{
+  "active_substance": "spironolactone",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/005535",
+  "eu_number": "EU/1/23/1731",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2023-05-26",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/qaialdo",
+  "molecule": "spironolactone",
+  "molecule_name": "SPIRONOLACTONE",
+  "name": "Qaialdo",
+  "register_name": "Qaialdo",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h1731.htm"
+}
