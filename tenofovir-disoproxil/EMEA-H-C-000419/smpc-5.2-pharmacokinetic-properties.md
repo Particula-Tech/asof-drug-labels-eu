@@ -23,6 +23,7 @@ In vitro studies have determined that neither tenofovir disoproxil nor tenofovir
 Moreover, at concentrations substantially higher (approximately 300-fold) than those observed in vivo, tenofovir did not inhibit in vitro drug metabolism mediated by any of the major human CYP450 isoforms involved in drug biotransformation (CYP3A4, CYP2D6, CYP2C9, CYP2E1, or CYP1A1/2).
 Tenofovir disoproxil at a concentration of 100 µmol/l had no effect on any of the CYP450 isoforms, except CYP1A1/2, where a small (6%) but statistically significant reduction in metabolism of CYP1A1/2 substrate was observed.
 Based on these data, it is unlikely that clinically significant interactions involving tenofovir disoproxil and medicinal products metabolised by CYP450 would occur.
+
 Elimination
 Tenofovir is primarily excreted by the kidney by both filtration and an active tubular transport system with approximately 70-80% of the dose excreted unchanged in urine following intravenous administration.
 Total clearance has been estimated to be approximately 230 ml/h/kg (approximately 300 ml/min).
@@ -44,7 +45,6 @@ Pharmacokinetics have not been specifically studied in different ethnic groups.
 Paediatric population
 Steady-state pharmacokinetics of tenofovir were evaluated in 8 HIV-1 infected adolescent patients (aged 12 to < 18 years) with body weight ≥ 35 kg and in 23 HIV-1 infected children aged 2 to < 12 years (see Table 10 below).
 Tenofovir exposure achieved in these paediatric patients receiving oral daily doses of tenofovir disoproxil 245 mg or 6.5 mg/kg body weight tenofovir disoproxil up to a maximum dose of 245 mg was similar to exposures achieved in adults receiving once-daily doses of tenofovir disoproxil 245 mg.
-
 Table 10: Mean (± SD) tenofovir pharmacokinetic parameters by age groups for paediatric patients
 
 | Dose and formulation | 245 mg film-coated tablet 12 to < 18 years (n = 8) | 6.5 mg/kg granules 2 to < 12 years (n = 23) |
@@ -95,6 +95,7 @@ Mean (± SD) Cmax and AUCtau are 0.38 ± 0.13 μg/ml and 3.39 ± 1.22 μg·h/ml,
 Tenofovir exposure achieved in adolescent patients receiving oral daily doses of tenofovir disoproxil 245 mg was similar to exposures achieved in adults receiving once-daily doses of tenofovir disoproxil 245 mg.
 
 Pharmacokinetic studies have not been performed with tenofovir disoproxil 245 mg tablets in children under 12 years or with renal impairment.
+
 The dosing recommendations in patients with renal impairment, with increased dosing interval, are expected to result in higher peak plasma concentrations and lower Cmin levels in patients with renal impairment compared with patients with normal renal function.
 The clinical implications of this are unknown.
 
@@ -119,7 +120,6 @@ Compared with patients with normal renal function, the mean (%CV) tenofovir expo
 (45%) ng·h/ml in patients with mild, moderate and severe renal impairment.
 
 Pharmacokinetic modelling of single-dose pharmacokinetic data in non-HIV and non-HBV infected adult subjects with varying degrees of renal impairment was used to determine dose and dosing interval recommendations for adult subjects with varying degrees of renal impairment (see section 4.2).
-
 Doses of 132 mg, 65 mg and 33 mg tenofovir disoproxil granules once daily are recommended in adult patients with calculated creatinine clearance (CrCl) of 30 to 49 ml/min, 20 to 29 ml/min or 10 to 19 ml/min, respectively.
 Although these doses are not expected to exactly reproduce the pharmacokinetic profile of tenofovir in patients with normal renal function receiving tenofovir disoproxil 245 mg film-coated tablets, they are considered to represent the best balance of benefit and risk for patients with renal impairment.
 

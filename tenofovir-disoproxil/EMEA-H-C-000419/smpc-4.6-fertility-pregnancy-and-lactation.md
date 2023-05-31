@@ -13,9 +13,9 @@ No safety signal has emerged from these data.
 Breastfeeding
 Generally, if the newborn is adequately managed for hepatitis B prevention at birth, a mother with hepatitis B may breast feed her infant.
 Tenofovir is excreted in human milk at very low levels and exposure of infants through breast milk is considered negligible.
-Although long-term data is limited, no adverse reactions have been reported in breast-fed infants, and HBV-infected mothers using tenofovir disoproxil may breast-feed.
+Although long-term data is limited, no adverse reactions have been reported in breastfed infants, and HBV-infected mothers using tenofovir disoproxil may breastfeed.
 
-As a general rule, it is recommended that HIV infected mothers do not breastfeed their infants in order to avoid transmission of HIV to the infant.
+In order to avoid transmission of HIV to the infant it is recommended that mothers living with HIV do not breast-feed their infants.
 
 Fertility
 There are limited clinical data with respect to the effect of tenofovir disoproxil on fertility.
@@ -31,7 +31,7 @@ Generally, if the newborn is adequately managed for hepatitis B prevention at bi
 
 [Viread 245 mg film-coated tablets]
 
-(all sentences already above)
+In order to avoid transmission of HIV to the infant it is recommended that women living with HIV do not breast-feed their infants.
 
 [Viread 33 mg/g granules]
 
