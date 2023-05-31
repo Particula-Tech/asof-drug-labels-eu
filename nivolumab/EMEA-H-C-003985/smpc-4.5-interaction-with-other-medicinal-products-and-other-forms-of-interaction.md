@@ -2,6 +2,7 @@
 
 Nivolumab is a human monoclonal antibody, as such pharmacokinetic interaction studies have not been conducted.
 As monoclonal antibodies are not metabolised by cytochrome P450 (CYP) enzymes or other drug metabolising enzymes, inhibition or induction of these enzymes by co-administered medicinal products is not anticipated to affect the pharmacokinetics of nivolumab.
+
 Other forms of interaction
 
 Systemic immunosuppression

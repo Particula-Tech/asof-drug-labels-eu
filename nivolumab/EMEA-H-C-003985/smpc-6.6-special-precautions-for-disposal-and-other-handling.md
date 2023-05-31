@@ -9,14 +9,19 @@ Calculating the dose
 More than one vial of OPDIVO concentrate may be needed to give the total dose for the patient.
 
 Nivolumab monotherapy
-The prescribed dose for the patient is 240 mg or 480 mg given regardless of body weight depending on indication (see section 4.2).
+The prescribed dose for the adult patient is 240 mg or 480 mg given regardless of body weight depending on indication (see section 4.2).
 
-Nivolumab in combination with ipilimumab
-The prescribed dose for the patient is given in mg/kg.
+Melanoma (advanced or adjuvant treatment) in adolescents.
+The prescribed dose for adolescents 12 years of age and older weighing at least 50 kg is 240 mg or 480 mg.
+For adolescents 12 years of age and older and weighing less than 50 kg, the prescribed dose is given in mg/kg.
 Based on this prescribed dose, calculate the total dose to be given.
 
 - The total nivolumab dose in mg = the patient’s weight in kg × the prescribed dose in mg/kg.
-- The volume of OPDIVO concentrate to prepare the dose (mL) = the total dose in mg, divided by 10 (the OPDIVO concentrate strength is 10 mg/mL).
+- The volume of OPDIVO concentrate to prepare the dose (mL) = the total nivolumab dose in mg, divided by 10 (the OPDIVO concentrate strength is 10 mg/mL).
+
+Nivolumab in combination with ipilimumab
+The prescribed dose for the patient is given in mg/kg.
+Based on this prescribed dose, calculate the total dose to be given (please see above).
 
 Nivolumab in combination with ipilimumab in MPM
 The prescribed dose for the patient is 360 mg given regardless of body weight.

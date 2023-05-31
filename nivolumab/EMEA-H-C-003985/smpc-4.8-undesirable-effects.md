@@ -109,6 +109,7 @@ i Anaemia is a composite term which includes, among other causes, haemolytic ana
 j Includes adrenal insufficiency, adrenocortical insufficiency acute, and secondary adrenocortical insufficiency.
 k Includes encephalitis and limbic encephalitis.
 l Oedema is a composite term which includes generalised oedema, oedema peripheral, peripheral swelling and swelling.
+
 Nivolumab in combination with other therapeutic agents (see section 4.2)
 
 Summary of the safety profile
@@ -119,7 +120,6 @@ In the pooled dataset of nivolumab administered in combination with ipilimumab (
 The incidence of Grade 3-5 adverse reactions was 67% for nivolumab in combination with ipilimumab (with or without chemotherapy), with 0.7% fatal adverse reactions attributed to study drug.
 Among patients treated with nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg, fatigue (62%), rash (57%), diarrhoea (52%), nausea (42%), pruritus (40%), pyrexia (36%), and headache (26%) were reported at an incidence rate ≥ 10% higher than the rates reported in the pooled dataset of nivolumab in combination with ipilimumab (with or without chemotherapy) incidence rate.
 Among patients treated with nivolumab 360 mg in combination with ipilimumab 1 mg/kg and chemotherapy, anaemia (32%) and neutropaenia (15%) were reported at an incidence rate ≥ 10% higher than the rates reported in the pooled dataset of nivolumab in combination with ipilimumab (with or without chemotherapy) incidence rate.
-
 Nivolumab in combination with chemotherapy
 In the pooled dataset of nivolumab 240 mg every 2 weeks or 360 mg every 3 weeks in combination with chemotherapy across tumour types (n = 1092), with a minimum follow-up ranging from 12.1 to 20 months for gastric, GEJ or oesophageal adenocarcinoma, or OSCC, the most frequent adverse reactions (≥ 10%) were nausea (53%), peripheral neuropathy (43%), fatigue (41%), diarrhoea (37%), decreased appetite (35%), constipation (30%), vomiting (29%), stomatitis (25%), abdominal pain (23%), pyrexia (19%), rash (17%), musculoskeletal pain (17%), cough (14%), oedema (including peripheral oedema) (14%), hypoalbuminaemia (13%), headache (10%).
 Incidences of Grade 3-5 adverse reactions were 76% for nivolumab in combination with chemotherapy and 62% for chemotherapy alone, with 1.4% fatal adverse reactions attributed to nivolumab in combination with chemotherapy.
@@ -147,6 +147,9 @@ infection infection
 Common pneumonia, bronchitis, upper respiratory tract pneumonia
 conjunctivitis infection, pneumoniaa
 Rare aseptic meningitis
+Combination with Combination with Combination with
+ipilimumab (with or chemotherapy cabozantinib
+without chemotherapy)
 Blood and lymphatic system disorders
 Very common anaemiab,i, neutropaeniab, anaemiab,i, anaemiab,
 thrombocytopaeniab, leucopoeniab, thrombocytopaeniab,
@@ -176,9 +179,6 @@ mellitus
 Uncommon diabetic ketoacidosis hypopituitarism, diabetes hypophysitis, thyroiditis
 mellitus
 Rare hypoparathyroidism hypophysitis
-Combination with Combination with Combination with
-ipilimumab (with or chemotherapy cabozantinib
-without chemotherapy)
 Metabolism and nutrition disorders
 Very common decreased appetite, decreased appetite, decreased appetite,
 hyperglycaemiab, hypoalbuminaemia, hypoglycaemiab,
@@ -191,6 +191,9 @@ weight decreased
 Uncommon metabolic acidosis
 Rare tumour lysis syndrome
 Not known tumour lysis syndromeg
+Combination with Combination with Combination with
+ipilimumab (with or chemotherapy cabozantinib
+without chemotherapy)
 Nervous system disorders
 Very common headache, dizziness peripheral neuropathy, dysgeusia, dizziness, headache
 headache
@@ -226,9 +229,6 @@ Very common cough, dyspnoea cough dysphonia, dyspnoea, cough
 Common pneumonitisa, pulmonary pneumonitisa, dyspnoea pneumonitis, pulmonary
 embolisma, pleural effusion embolism, pleural effusion,
 epistaxis
-Combination with Combination with Combination with
-ipilimumab (with or chemotherapy cabozantinib
-without chemotherapy)
 Gastrointestinal disorders
 Very common diarrhoea, vomiting, diarrhoeaa, stomatitis, diarrhoea, vomiting, nausea,
 nausea, abdominal pain, vomiting, nausea, constipation, stomatitis,
@@ -240,6 +240,9 @@ mouth
 Uncommon duodenitis pancreatitis pancreatitis, small intestine
 perforationa, glossodynia
 Rare intestinal perforationa
+Combination with Combination with Combination with
+ipilimumab (with or chemotherapy cabozantinib
+without chemotherapy)
 Hepatobiliary disorders
 Common hepatitis hepatitis
 Uncommon hepatitis
@@ -280,14 +283,14 @@ acute kidney injury)a injury
 Uncommon tubulointerstitial nephritis, cystitis noninfective nephritis
 nephritis
 Rare cystitis noninfective nephritis cystitis noninfectiveg
-Combination with Combination with Combination with
-ipilimumab (with or chemotherapy cabozantinib
-without chemotherapy)
 General disorders and administration site conditions
 Very common fatigue, pyrexia, oedema fatigue, pyrexia, oedema fatigue, pyrexia, oedema
 (including peripheral (including peripheral
 oedema) oedema)
 Common chest pain, pain, chills pain, chest pain
+Combination with Combination with Combination with
+ipilimumab (with or chemotherapy cabozantinib
+without chemotherapy)
 Investigations
 Very common increased alkaline hypocalcaemiab, increased alkaline
 phosphataseb, increased increased transaminasesb, phosphataseb, increased ALTb,
@@ -332,7 +335,6 @@ Permanent discontinuation of treatment generally was required in a greater propo
 Table 8 presents the percentage of patients with immune-related adverse reactions who were permanently discontinued from treatment by dosing regimen.
 Additionally, for patients who experienced an event, Table 8 presents the percentage of patients who required high-dose corticosteroids (at least 40 mg daily prednisone equivalents) by dosing regimen.
 The management guidelines for these adverse reactions are described in section 4.4.
-
 Table 8: Immune-related adverse reactions leading to permanent discontinuation or requiring high-dose corticosteroids by dosing regimen (nivolumab monotherapy, nivolumab in combination with ipilimumab (with or without chemotherapy), nivolumab in combination with chemotherapy, or nivolumab in combination with cabozantinib)
 
 |  | Nivolumab monotherapy % | Nivolumab in combination with ipilimumab (with or without chemotherapy) % | Nivolumab in combination with chemotherapy % | Nivolumab in combination with cabozantinib % |
@@ -371,13 +373,13 @@ Four patients (0.2%) had a fatal outcome.
 Median time to onset was 2.7 months (range: 0.1-56.8).
 Resolution occurred in 119 patients (82.1%) with a median time to resolution of 6.1 weeks (range: 0.3-149.3+).
 
-In patients treated with nivolumab in combination with chemotherapy , the incidence of pneumonitis including interstitial lung disease was 5.4% (59/1092).
+In patients treated with nivolumab in combination with chemotherapy, the incidence of pneumonitis including interstitial lung disease was 5.4% (59/1092).
 Grade 2, Grade 3, and Grade 4 cases were reported in 2.7% (29/1092), 1.2% (13/1092), and 0.3% (3/1092), of patients, respectively.
 Two patients (0.2%) had a fatal outcome.
 Median time to onset was 24.1 weeks (range: 1.6-96.9).
 Resolution occurred in 40 patients (67.8%) with a median time to resolution of 10.4 weeks (range: 0.3+-121.3+).
 
-In patients treated with nivolumab in combination with cabozantinib , the incidence of pneumonitis including interstitial lung disease was 5.6% (18/320).
+In patients treated with nivolumab in combination with cabozantinib, the incidence of pneumonitis including interstitial lung disease was 5.6% (18/320).
 Grade 2 and Grade 3 cases were reported in 1.9% (6/320) and 1.6% (5/320) of patients, respectively.
 Median time to onset was 26.9 weeks
 (range: 12.3-74.3 weeks).
@@ -424,6 +426,7 @@ Grade 4 cases were reported in 4.2% (88/2094), 7.8% (163/2094), and 1.2% (25/209
 Median time to onset was 1.9 months (range: 0.0-36.6).
 Resolution occurred in 351 patients (87.8%) with a median time to resolution of 5.3 weeks (range: 0.1-175.9+).
 Among patients treated with nivolumab 1 mg/kg in combination with ipilimumab 3 mg/kg, the incidence of liver function test abnormalities was 30.1% including Grade 2 (6.9%), Grade 3 (15.8%), and Grade 4 (1.8%).
+
 In patients treated with nivolumab in combination with chemotherapy, the incidence of liver function test abnormalities was 21.6% (236/1092).
 Grade 2, Grade 3 and Grade 4 cases were reported in 7.1% (77/1092), 3.2% (35/1092) and < 0.1% (1/1092) of patients, respectively.
 Median time to onset was 7.9 weeks (range: 0.1-84.1).
@@ -526,9 +529,9 @@ Resolution occurred in 137 patients (68.2%) with a median time to resolution of 
 (range: 0.1-130.6+ weeks).
 
 Rare cases of SJS and TEN some of them with fatal outcome have been observed (see sections 4.2 and 4.4).
+
 Infusion reactions
 In patients treated with nivolumab monotherapy, the incidence of hypersensitivity/infusion reactions was 3.9% (160/4122), including 9 Grade 3 and 3 Grade 4 cases.
-
 In patients treated with nivolumab in combination with ipilimumab (with or without chemotherapy), the incidence of hypersensitivity/infusion reactions was 4.9% (103/2094).
 Grade 1, Grade 2, Grade 3, and Grade 4 cases were reported in 2.1% (44/2094), 2.5% (53/2094), 0.2% (5/2094), and < 0.1% (1/2094) of patients, respectively.
 Among patients with MPM treated with nivolumab 3 mg/kg in combination with ipilimumab 1 mg/kg, the incidence of hypersensitivity/infusion reactions was 12%.
@@ -579,11 +582,21 @@ Of patients evaluable for the presence of anti-ipilimumab antibodies, the incide
 
 Of the patients who were treated with nivolumab in combination with ipilimumab and chemotherapy and evaluable for the presence of anti-nivolumab antibodies or neutralising antibodies against nivolumab, the incidence of anti-nivolumab antibodies was 33.8% and the incidence of neutralising antibodies was 2.6%.
 Of the patients who were treated with nivolumab in combination with ipilimumab and chemotherapy and evaluable for the presence of anti-ipilimumab antibodies or neutralising antibodies against ipilimumab, the incidence of anti-ipilimumab antibodies was 7.5%, and the neutralising antibodies was 1.6%.
+
 Although the clearance of nivolumab was increased by 20% when anti-nivolumab-antibodies were present, there was no evidence of loss of efficacy or altered toxicity profile in the presence of nivolumab antibodies based on the pharmacokinetic and exposure-response analyses for both monotherapy and combination.
 
 Paediatric population
-Only limited safety data of nivolumab as monotherapy or in combination with ipilimumab in children below 18 years of age are available (see section 5.1).
-No new safety signals were observed in clinical study CA209908 of 151 paediatric patients with high-grade primary central nervous system (CNS) malignancies, relative to data available in adult studies across indications.
+The safety of nivolumab as monotherapy (3 mg/kg every 2 weeks) and in combination with ipilimumab (nivolumab 1 mg/kg or 3 mg/kg in combination with ipilimumab 1 mg/kg every 3 weeks for the first 4 doses, followed by nivolumab 3 mg/kg as monotherapy every 2 weeks) was evaluated in 97 paediatric patients aged ≥ 1 year to < 18 years (including 53 patients 12 to < 18 years) with recurrent or refractory solid or haematological tumours, including advanced melanoma, in clinical study CA209070.
+The safety profile in paediatric patients was generally similar to that seen in adults treated with nivolumab as monotherapy or in combination with ipilimumab.
+No new safety signals were observed.
+The most common adverse reactions (reported in at least 20% of paediatric patients) treated with nivolumab monotherapy were fatigue (35.9%) and decreased appetite (21.9%).
+The majority of adverse reactions reported for nivolumab monotherapy were Grade 1 or 2 in severity.
+Twenty-one patients (33%) had one or more Grades 3 to 4 adverse reactions.
+The most common adverse reactions (reported in at least 20% of paediatric patients) treated with nivolumab in combination with ipilimumab were fatigue (33.3%) and rash maculo-papular (21.2%).
+The majority of adverse reactions reported for nivolumab in combination with ipilimumab were Grade 1 or 2 in severity.
+Ten patients (30%) had one or more Grades 3 to 4 adverse reactions.
+
+No new safety signals were observed in clinical study CA209908 of 151 paediatric patients with high-grade primary central nervous system (CNS) malignancies (see section 5.1), relative to data available in adult studies across indications.
 
 Elderly
 No overall differences in safety were reported between elderly (≥ 65 years) and younger patients

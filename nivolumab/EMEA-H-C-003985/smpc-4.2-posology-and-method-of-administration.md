@@ -8,13 +8,15 @@ If specified in the indication, patient selection for treatment with OPDIVO base
 Posology
 
 OPDIVO as monotherapy
-The recommended dose of OPDIVO is either nivolumab 240 mg every 2 weeks or 480 mg every 4 weeks (see section 5.1) depending on the indication, as presented in Table 1.
+The recommended dose of OPDIVO is either nivolumab 240 mg every 2 weeks or 480 mg every 4 weeks depending on the indication and population (see sections 5.1 and 5.2), as presented in Table 1.
 
 Table 1: Recommended dose and infusion time for intravenous administration of nivolumab monotherapy
 
 | Indication* | Recommended dose and infusion time |
 | --- | --- |
-| Melanoma (advanced or adjuvant treatment) Renal cell carcinoma Muscle invasive urothelial carcinoma (MIUC) (adjuvant treatment) | 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 60 minutes |
+| Melanoma (advanced or adjuvant treatment) | Adults and adolescents (12 years of age and older and weighing at least 50 kg): 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 60 minutes |
+|  | Adolescents (12 years of age and older and weighing less than 50 kg): 3 mg/kg every 2 weeks over 30 minutes or 6 mg/kg every 4 weeks over 60 minutes |
+| Renal cell carcinoma Muscle invasive urothelial carcinoma (MIUC) (adjuvant treatment) | 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 60 minutes |
 | Oesophageal or gastro-oesophageal junction cancer (adjuvant treatment) | 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 30 minutes for the first 16 weeks, followed by 480 mg every 4 weeks over 30 minutes |
 | Non-small cell lung cancer Classical Hodgkin lymphoma Squamous cell cancer of the head and neck Urothelial carcinoma Oesophageal squamous cell carcinoma | 240 mg every 2 weeks over 30 minutes |
 
@@ -22,27 +24,34 @@ Table 1: Recommended dose and infusion time for intravenous administration of ni
 
 If melanoma, RCC, OC, GEJC or MIUC (adjuvant treatment) patients need to be switched from the 240 mg every 2 weeks schedule to the 480 mg every 4 weeks schedule, the first 480 mg dose should be administered two weeks after the last 240 mg dose.
 Conversely, if patients need to be switched from the 480 mg every 4 weeks schedule to the 240 mg every 2 weeks schedule, the first 240 mg dose should be administered four weeks after the last 480 mg dose.
+
 OPDIVO in combination with ipilimumab
 
 Melanoma
-The recommended dose is 1 mg/kg nivolumab in combination with 3 mg/kg ipilimumab administered intravenously every 3 weeks for the first 4 doses.
-This is then followed by a second phase in which nivolumab monotherapy is administered intravenously at either 240 mg every 2 weeks or at 480 mg every 4 weeks, as presented in Table 2.
-For the monotherapy phase, the first dose of nivolumab should be administered;
+In adults and adolescents 12 years of age and older and weighing at least 50 kg, the recommended dose is 1 mg/kg nivolumab in combination with 3 mg/kg ipilimumab administered intravenously every 3 weeks for the first 4 doses.
+This is then followed by a second phase in which nivolumab monotherapy is administered intravenously at either 240 mg every 2 weeks or at 480 mg every 4 weeks (see sections 5.1 and 5.2), as presented in Table 2.
+For the monotherapy phase, the first dose of nivolumab should be administered:
 
 - 3 weeks after the last dose of the combination of nivolumab and ipilimumab if using 240 mg every 2 weeks; or
 - 6 weeks after the last dose of the combination of nivolumab and ipilimumab if using 480 mg every 4 weeks.
+
+In adolescents 12 years of age and older and weighing less than 50 kg, the recommended dose is 1 mg/kg nivolumab in combination with 3 mg/kg ipilimumab administered intravenously every 3 weeks for the first 4 doses.
+This is then followed by a second phase in which nivolumab monotherapy is administered intravenously at either 3 mg/kg every 2 weeks or 6 mg/kg every 4 weeks (see sections 5.1 and 5.2), as presented in Table 2.
+For the monotherapy phase, the first dose of nivolumab should be administered:
+
+- 3 weeks after the last dose of the combination of nivolumab and ipilimumab if using 3 mg/kg every 2 weeks; or
+- 6 weeks after the last dose of the combination of nivolumab and ipilimumab if using 6 mg/kg every 4 weeks.
 
 Table 2: Recommended doses and infusion times for intravenous administration of nivolumab in combination with ipilimumab for melanoma
 
 |  | Combination phase, every 3 weeks for 4 dosing cycles | Monotherapy phase |
 | --- | --- | --- |
-| Nivolumab | 1 mg/kg over 30 minutes | 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 60 minutes |
-| Ipilimumab | 3 mg/kg over 30 minutes | - |
+| Nivolumab | Adults and adolescents 12 years of age and older: 1 mg/kg over 30 minutes | Adults and adolescents (12 years of age and older and weighing at least 50 kg): 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 60 minutes Adolescents (12 years of age and older and weighing less than 50 kg): 3 mg/kg every 2 weeks over 30 minutes or 6 mg/kg every 4 weeks over 60 minutes |
+| Ipilimumab | Adults and adolescents 12 years of age and older: 3 mg/kg over 30 minutes | - |
 
 Malignant pleural mesothelioma
 The recommended dose is 360 mg nivolumab administered intravenously over 30 minutes every 3 weeks in combination with 1 mg/kg ipilimumab administered intravenously over 30 minutes every 6 weeks.
 Treatment is continued for up to 24 months in patients without disease progression.
-
 Renal cell carcinoma and dMMR or MSI-H colorectal cancer
 The recommended dose is 3 mg/kg nivolumab in combination with 1 mg/kg ipilimumab administered intravenously every 3 weeks for the first 4 doses.
 This is then followed by a second phase in which nivolumab monotherapy is administered intravenously at either 240 mg every 2 weeks or at 480 mg every 4 weeks (RCC only), as presented in Table 3.
@@ -66,6 +75,7 @@ OPDIVO in combination with cabozantinib
 
 Renal cell carcinoma
 The recommended dose is nivolumab administered intravenously at either 240 mg every 2 weeks or 480 mg every 4 weeks in combination with 40 mg cabozantinib administered orally every day.
+
 Table 4: Recommended doses and infusion times for intravenous administration of nivolumab in combination with oral administration of cabozantinib for RCC
 
 |  | Combination phase |
@@ -85,7 +95,6 @@ OPDIVO in combination with chemotherapy
 Oesophageal squamous cell carcinoma
 The recommended dose of nivolumab is 240 mg every 2 weeks or 480 mg every 4 weeks administered intravenously over 30 minutes in combination with fluoropyrimidine- and platinum-based chemotherapy (see section 5.1).
 Treatment with nivolumab is recommended until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
-
 Gastric, gastro-oesophageal junction or oesophageal adenocarcinoma
 The recommended dose is 360 mg nivolumab administered intravenously over 30 minutes in combination with fluoropyrimidine- and platinum-based chemotherapy administered every 3 weeks or 240 mg nivolumab administered intravenously over 30 minutes in combination with fluoropyrimidine-and platinum-based chemotherapy administered every 2 weeks (see section 5.1).
 Treatment with nivolumab is recommended until disease progression, unacceptable toxicity, or up to 24 months in patients without disease progression.
@@ -107,6 +116,7 @@ Dosing delay or discontinuation may be required based on individual safety and t
 Guidelines for permanent discontinuation or withholding of doses are described in Table 5.
 Detailed guidelines for the management of immune-related adverse reactions are described in section 4.4.
 When nivolumab is administered in combination with other therapeutic agents, refer to the SmPC of these other combination therapeutic agents regarding dosing.
+
 Table 5: Recommended treatment modifications for OPDIVO or OPDIVO in combination
 
 Immune-related Severity Treatment modification
@@ -133,6 +143,10 @@ corticosteroids is complete
 
 - OPDIVO+ipilimumaba Permanently discontinue treatment
 Grade 4 diarrhoea or colitis Permanently discontinue treatment
+Immune-related Severity Treatment modification
+
+adverse reaction
+
 Immune-related Grade 2 elevation in aspartate Withhold dose(s) until laboratory
 hepatitis aminotransferase (AST), alanine values return to baseline and
 aminotransferase (ALT), or total management with corticosteroids, if
@@ -179,10 +193,6 @@ adverse reactions Grade 4 rash Permanently discontinue treatment
 Stevens-Johnson syndrome (SJS) or Permanently discontinue treatment (see
 
 toxic epidermal necrolysis (TEN) section 4.4)
-Immune-related Severity Treatment modification
-
-adverse reaction
-
 Grade 2 myocarditis Withhold dose(s) until symptoms
 
 resolve and management with
@@ -204,7 +214,6 @@ Note: Toxicity grades are in accordance with National Cancer Institute Common Te
 a During administration of the second phase of treatment (nivolumab monotherapy) following combination treatment, permanently discontinue treatment if Grade 3 diarrhoea or colitis occurs.
 b Recommendation for the use of hormone replacement therapy is provided in section 4.4.
 c The safety of re-initiating nivolumab or nivolumab in combination with ipilimumab therapy in patients previously experiencing immune-related myocarditis is not known.
-
 OPDIVO as monotherapy or in combination with other therapeutic agents should be permanently discontinued for:
 
 - Grade 4 or recurrent Grade 3 adverse reactions;
@@ -233,8 +242,9 @@ In addition, for liver enzyme elevations, in patients with RCC being treated wit
 Special populations
 
 Paediatric population
-The safety and efficacy of OPDIVO in children below 18 years of age have not been established.
-Currently available data of OPDIVO as monotherapy or in combination with ipilimumab are described in sections 4.8 and 5.1 but no recommendation on a posology can be made.
+The safety and efficacy of OPDIVO in children below 18 years of age have not been established except in adolescents 12 years of age and older with melanoma.
+Currently available data of OPDIVO as monotherapy or in combination with ipilimumab are described in sections 4.2, 4.8, 5.1 and 5.2.
+
 Elderly
 No dose adjustment is required for elderly patients (≥ 65 years) (see section 5.2).
 

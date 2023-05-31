@@ -2,13 +2,13 @@
 
 Melanoma
 
-OPDIVO as monotherapy or in combination with ipilimumab is indicated for the treatment of advanced (unresectable or metastatic) melanoma in adults.
+OPDIVO as monotherapy or in combination with ipilimumab is indicated for the treatment of advanced (unresectable or metastatic) melanoma in adults and adolescents 12 years of age and older.
 
 Relative to nivolumab monotherapy, an increase in progression-free survival (PFS) and overall survival (OS) for the combination of nivolumab with ipilimumab is established only in patients with low tumour PD-L1 expression (see sections 4.4 and 5.1).
 
 Adjuvant treatment of melanoma
 
-OPDIVO as monotherapy is indicated for the adjuvant treatment of adults with melanoma with involvement of lymph nodes or metastatic disease who have undergone complete resection (see section 5.1).
+OPDIVO as monotherapy is indicated for the adjuvant treatment of adults and adolescents 12 years of age and older with melanoma with involvement of lymph nodes or metastatic disease who have undergone complete resection (see section 5.1).
 
 Non-small cell lung cancer (NSCLC)
 

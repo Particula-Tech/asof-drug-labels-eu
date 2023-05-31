@@ -3,7 +3,6 @@
 Nivolumab monotherapy
 The pharmacokinetics (PK) of nivolumab is linear in the dose range of 0.1 to 10 mg/kg.
 The geometric mean clearance (CL), terminal half-life, and average exposure at steady state at 3 mg/kg every 2 weeks of nivolumab were 7.9 mL/h, 25.0 days, and 86.6 μg/mL, respectively, based on a population PK analysis.
-
 Nivolumab CL in cHL patients was approximately 32% lower relative to NSCLC.
 Nivolumab baseline CL in adjuvant melanoma patients was approximately 40% lower and steady state CL approximately 20% lower relative to advanced melanoma.
 With available safety data, these decreases in CL were not clinically meaningful.
@@ -25,6 +24,13 @@ Special populations
 
 A population PK analysis suggested no difference in CL of nivolumab based on age, gender, race, solid tumour type, tumour size, and hepatic impairment.
 Although ECOG status, baseline glomerular filtration rate (GFR), albumin, body weight, and mild hepatic impairment had an effect on nivolumab CL, the effect was not clinically meaningful.
+
+Paediatric population
+For nivolumab monotherapy, the exposures of nivolumab in adolescents 12 years of age and older who weigh at least 50 kg are expected to be comparable to those in adult patients at the recommended dose.
+Body weight-based dosing is recommended for adolescents 12 years of age and older who weigh less than 50 kg.
+
+For nivolumab in combination with ipilimumab, the exposures of nivolumab and ipilimumab in adolescents 12 years of age and older are expected to be comparable to those in adult patients at the recommended dose.
+
 Renal impairment
 The effect of renal impairment on the CL of nivolumab was evaluated in patients with mild
 (GFR < 90 and ≥ 60 mL/min/1.73 m2; n = 379), moderate (GFR < 60 and ≥ 30 mL/min/1.73 m2;

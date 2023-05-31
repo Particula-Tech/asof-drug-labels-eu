@@ -91,7 +91,6 @@ Severe endocrinopathies, including hypothyroidism, hyperthyroidism, adrenal insu
 Patients should be monitored for clinical signs and symptoms of endocrinopathies and for hyperglycaemia and changes in thyroid function (at the start of treatment, periodically during treatment, and as indicated based on clinical evaluation).
 Patients may present with fatigue, headache, mental status changes, abdominal pain, unusual bowel habits, and hypotension, or nonspecific symptoms which may resemble other causes such as brain metastasis or underlying disease.
 Unless an alternate aetiology has been identified, signs or symptoms of endocrinopathies should be considered immune-related.
-
 For symptomatic hypothyroidism, nivolumab or nivolumab in combination with ipilimumab should be withheld, and thyroid hormone replacement should be initiated as needed.
 For symptomatic hyperthyroidism, nivolumab or nivolumab in combination with ipilimumab should be withheld and antithyroid medication should be initiated as needed.
 Corticosteroids at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents should also be considered if acute inflammation of the thyroid is suspected.
@@ -117,6 +116,7 @@ Immune-related skin adverse reactions
 Severe rash has been observed with nivolumab in combination with ipilimumab and, less commonly, with nivolumab as monotherapy (see section 4.8).
 Nivolumab or nivolumab in combination with ipilimumab should be withheld for Grade 3 rash and discontinued for Grade 4 rash.
 Severe rash should be managed with high-dose corticosteroid at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
+
 Rare cases of SJS and TEN some of them with fatal outcome have been observed.
 If symptoms or signs of SJS or TEN appear, treatment with nivolumab or nivolumab in combination with ipilimumab should be discontinued and the patient referred to a specialised unit for assessment and treatment.
 If the patient has developed SJS or TEN with the use of nivolumab or nivolumab in combination with ipilimumab, permanent discontinuation of treatment is recommended (see section 4.2).
@@ -126,7 +126,6 @@ Caution should be used when considering the use of nivolumab in a patient who ha
 Other immune-related adverse reactions
 The following immune-related adverse reactions were reported in less than 1% of patients treated with nivolumab monotherapy or nivolumab in combination with ipilimumab in clinical trials across doses and tumour types: pancreatitis, uveitis, demyelination, autoimmune neuropathy (including facial and abducens nerve paresis), Guillain-Barré syndrome, myasthenia gravis, myasthenic syndrome, aseptic meningitis, encephalitis, gastritis, sarcoidosis, duodenitis, myositis, myocarditis, and rhabdomyolysis.
 Cases of Vogt-Koyanagi-Harada syndrome, hypoparathyroidism, and cystitis noninfective have been reported post-marketing (see sections 4.2 and 4.8).
-
 For suspected immune-related adverse reactions, adequate evaluation should be performed to confirm aetiology or exclude other causes.
 Based on the severity of the adverse reaction, nivolumab or nivolumab in combination with ipilimumab should be withheld and corticosteroids administered.
 Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper.
@@ -161,7 +160,6 @@ Patients with ocular/uveal melanoma were excluded from pivotal clinical trials o
 In addition, CA209037 excluded patients who have had a Grade 4 adverse reaction that was related to anti-CTLA-4 therapy (see section 5.1).
 Patients with baseline performance score of 2, treated leptomeningeal metastases, ocular/uveal melanoma, autoimmune disease and patients who have had a Grade 3-4 adverse reaction that was related to prior anti-CTLA-4 therapy were included in study CA209172 (see section 5.1).
 In the absence of data for patients who had been receiving systemic immunosuppressants prior to study entry, and for patients with active brain or leptomeningeal metastases, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
-
 Relative to nivolumab monotherapy, an increase in PFS for the combination of nivolumab with ipilimumab is established only in patients with low tumour PD-L1 expression.
 The improvement in OS was similar between nivolumab in combination with ipilimumab and nivolumab monotherapy in patients with high tumour PD-L1 expression (PD-L1 ≥ 1%).
 Before initiating treatment with the combination, physicians are advised to carefully evaluate the individual patient and tumour characteristics, taking into consideration the observed benefits and the toxicity of the combination relative to nivolumab monotherapy (see sections 4.8 and 5.1).
@@ -187,6 +185,7 @@ First-line treatment of NSCLC
 Patients with active autoimmune disease, symptomatic interstitial lung disease, medical conditions requiring systemic immunosuppression, active (untreated) brain metastasis, who received prior systemic treatment for advanced disease, or who had sensitising EGFR mutations or ALK translocations were excluded from the pivotal trial in first-line treatment of NSCLC (see sections 4.5 and 5.1).
 Limited data are available in elderly patients (≥ 75 years) (see section 5.1).
 In these patients, nivolumab in combination with ipilimumab and chemotherapy should be used with caution after careful consideration of the potential benefit/risk on an individual basis.
+
 Treatment of NSCLC after prior chemotherapy
 Patients with a baseline performance score ≥ 2, active brain metastases or autoimmune disease, symptomatic interstitial lung disease, and patients who had been receiving systemic immunosuppressants prior to study entry were excluded from the pivotal clinical trials of NSCLC (see sections 4.5 and 5.1).
 Patients with baseline performance score of 2 were included in study CA209171 (see section 5.1).
@@ -219,6 +218,7 @@ In the absence of data, nivolumab should be used with caution in these populatio
 Complications of allogeneic haematopoietic stem cell transplant (HSCT) in classical Hodgkin lymphoma
 Cases of acute graft-versus-host disease (GVHD) and transplant related mortality (TRM) have been observed from the follow-up of patients with cHL undergoing allogeneic HSCT after previous exposure to nivolumab.
 Careful consideration to the potential benefits of HSCT and the possible increased risk of transplant related complications should be made case-by-case (see section 4.8).
+
 In patients treated with nivolumab after allogeneic HSCT, rapid-onset and severe GVHD, some with fatal outcome, have been reported in the post-marketing setting.
 Treatment with nivolumab may increase the risk of severe GVHD and death in patients who have had prior allogeneic HSCT, mainly in those with prior history of GVHD.
 The benefit of treatment with nivolumab versus the possible risk should be considered in these patients (see section 4.8).
@@ -230,7 +230,6 @@ In the absence of data, nivolumab should be used with caution in these populatio
 Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with poorer prognostic features and/or aggressive disease.
 In head and neck cancer, a higher number of deaths within 3 months was observed in nivolumab compared to docetaxel.
 Factors associated with early deaths were ECOG performance status, fast progressive disease on prior platinum therapy and high tumour burden.
-
 Urothelial carcinoma
 Treatment of advanced urothelial carcinoma
 Patients with a baseline performance score ≥ 2, active brain metastases or leptomeningeal metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trials of urothelial carcinoma (see sections 4.5 and 5.1).
@@ -251,6 +250,7 @@ In the absence of data, nivolumab in combination with ipilimumab or chemotherapy
 
 In the first-line OSCC trial, a higher number of deaths within 4 months was observed with nivolumab in combination with ipilimumab compared to chemotherapy.
 Physicians should consider the delayed onset of effect of nivolumab in combination with ipilimumab before initiating treatment in patients with poorer prognostic features and/or aggressive disease (see section 5.1).
+
 Treatment of OSCC after prior first-line chemotherapy
 The majority of clinical data available in oesophageal squamous cell carcinoma are in patients of Asian origin (see section 5.1).
 Patients with a baseline performance score ≥ 2, brain metastases that were symptomatic or required treatment, apparent tumour invasion in organs located adjacent to the oesophagus (e.g. the aorta or respiratory tract), active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical study in OSCC (see sections 4.5 and 5.1).
@@ -273,7 +273,7 @@ Patients with undetermined status were allowed in the study and represented 40.3
 
 Patients on controlled sodium diet
 Each mL of this medicinal product contains 0.1 mmol (or 2.5 mg) sodium.
-This medicinal product contains 10 mg sodium per 4 ml vial, 25 mg sodium per 10 ml vial, 30 mg sodium per 12 ml vial or 60 mg sodium per 24 ml vial, which is equivalent to 0.5%, 1.25%, 1.5% or 3% respectively, of the WHO recommended maximum daily intake of 2 g sodium for an adult.
+This medicinal product contains 10 mg sodium per 4 mL vial, 25 mg sodium per 10 mL vial, 30 mg sodium per 12 mL vial or 60 mg sodium per 24 mL vial, which is equivalent to 0.5%, 1.25%, 1.5% or 3% respectively, of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 
 Patient alert card
 All prescribers of OPDIVO must be familiar with the physician information and management guidelines.

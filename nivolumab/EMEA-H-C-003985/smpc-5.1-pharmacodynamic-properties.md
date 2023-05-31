@@ -44,6 +44,7 @@ Sixteen percent of patients had received prior adjuvant therapy; the most common
 Four percent of patients had a history of brain metastasis, and 37% of patients had a baseline LDH level greater than ULN at study entry.
 
 The Kaplan-Meier curves for OS are shown in Figure 1.
+
 Figure 1: Kaplan-Meier curves of OS (CA209066)
 
 Overall survival (months)
@@ -66,7 +67,6 @@ Survival benefit was observed regardless of whether patients had tumours that we
 Data available indicate that the onset of nivolumab effect is delayed such that benefit of nivolumab above chemotherapy may take 2-3 months.
 
 Efficacy results are shown in Table 9.
-
 Table 9: Efficacy results (CA209066)
 
 nivolumab dacarbazine
@@ -85,8 +85,6 @@ Rate (95% CI)
 
 At 6 months 84.1 (78.3, 88.5) 71.8 (64.9, 77.6)
 At 12 months 72.9 (65.5, 78.9) 42.1 (33.0, 50.9)
-nivolumab dacarbazine
-(n = 210) (n = 208)
 
 Progression-free survival
 
@@ -122,7 +120,6 @@ Randomised phase 3 study vs. chemotherapy (CA209037)
 The safety and efficacy of nivolumab 3 mg/kg for the treatment of advanced (unresectable or metastatic) melanoma were evaluated in a phase 3, randomised, open-label study (CA209037).
 The study included adult patients who had progressed on or after ipilimumab and if BRAF V600 mutation positive had also progressed on or after BRAF kinase inhibitor therapy.
 Patients with active autoimmune disease, ocular melanoma, active brain or leptomeningeal metastases or a known history of prior ipilimumab-related high-grade (Grade 4 per CTCAE v4.0) adverse reactions, except for resolved nausea, fatigue, infusion reactions, or endocrinopathies, were excluded from the study.
-
 A total of 405 patients were randomised to receive either nivolumab (n = 272) administered intravenously over 60 minutes at 3 mg/kg every 2 weeks or chemotherapy (n = 133) which consisted of the investigator’s choice of either dacarbazine (1000 mg/m2 every 3 weeks) or carboplatin
 (AUC 6 every 3 weeks) and paclitaxel (175 mg/m2 every 3 weeks).
 Randomisation was stratified by BRAF and tumour PD-L1 status and best response to prior ipilimumab.
@@ -181,6 +178,7 @@ The ORRs in the BRAF mutation-positive subgroup were 17% (95% CI: 8.4, 29.0) for
 
 The PFS HRs for nivolumab vs. chemotherapy were 1.58 (95% CI: 0.87, 2.87) for BRAF mutation-positive patients and 0.82 (95% CI: 0.60, 1.12) for BRAF wild-type patients.
 The OS HRs for nivolumab vs. chemotherapy were 1.32 (95% CI: 0.75, 2.32) for BRAF mutation-positive patients and 0.83 (95% CI: 0.62, 1.11) for BRAF wild-type patients.
+
 Efficacy by tumour PD-L1 expression: Objective responses to nivolumab were observed regardless of tumour PD-L1 expression.
 However, the role of this biomarker (tumour PD-L1 expression) has not been fully elucidated.
 
@@ -210,7 +208,6 @@ Of the 1008 treated patients, 103 (10%) had ocular/uveal melanoma, 66 (7%) had a
 13 (1.3%) had treated leptomeningeal metastases, 25 (2%) had autoimmune disease, and 84 (8%) had Grade 3-4 immune-related AEs with prior anti-CTLA-4 therapy.
 No new safety signals were identified in all treated patients and the overall safety profile of nivolumab was similar across subgroups.
 Efficacy results based on investigator-assessed response rates at week 12 are presented in Table 11 below.
-
 Table 11: Response rate at week 12 - all response evaluable patients and by subgroup (CA209172)
 
 Total Ocular/ ECOG PS 2 CNS Autoimmune Grade 3-4
@@ -256,8 +253,8 @@ At primary analysis (minimum follow-up 9 months) the median PFS was 6.9 months i
 p < 0.0001).
 The median PFS was 11.5 months in the nivolumab in combination with ipilimumab group, as compared with 2.9 months in the ipilimumab group (HR = 0.42, 99.5% CI: 0.31, 0.57;
 p < 0.0001).
-
 PFS results from descriptive analysis (with minimum follow up of 90 months) are shown in Figure 2 (all randomised population), Figure 3 (at the tumour PD-L1 5% cut off), and Figure 4 (at the tumour PD-L1 1% cut off).
+
 Figure 2: Progression-free survival (CA209067)
 
 Progression-free survival per investigator (months)
@@ -484,7 +481,7 @@ This observation was maintained with the OS results with a minimum follow-up of 
 Among 131 patients who discontinued the combination due to adverse reaction after 28 months of follow-up, the ORR was 71% (93/131) with 20% (26/131) achieving a complete response and median OS was not reached.
 
 Both nivolumab-containing arms demonstrated greater objective response rates than ipilimumab regardless of PD-L1 expression levels.
-ORRs were higher for the combination of nivolumab and ipilimumab relative to nivolumab monotherapy across tumour PD-L1 expression levels (Table 15) after 90 months of follow-up, with a best overall response of complete response correlating to an improved survival rate.
+ORRs were higher for the combination of nivolumab and ipilimumab relative to nivolumab monotherapy across tumour PD-L1 expression levels (Table 12) after 90 months of follow-up, with a best overall response of complete response correlating to an improved survival rate.
 
 After 90 months of follow-up, median durations of response for patients with tumour PD-L1 expression level ≥ 5% were 78.19 months(range: 18.07-N.A.) in the combination arm,77.21 months (range: 26.25-N.A.) in the nivolumab monotherapy arm and 31.28 months (range: 6.08-N.A.) in the ipilimumab arm.
 At tumour PD-L1 expression <5%, median durations of response were not reached (range: 61.93-N.A.) in the combination arm, were 90.84 months (range: 50.43-N.A.) in the nivolumab monotherapy arm and 19.25 months (range: 5.32-47.44) in the ipilimumab monotherapy arm.
@@ -1572,7 +1569,7 @@ g Strata adjusted difference in objective response rate (nivolumab + cabozantini
 h 2-sided p-value from CMH test.
 NE = non-estimable
 
-The primary analysis of PFS included censoring for new anti-cancer treatment (Table 28).
+The primary analysis of PFS included censoring for new anti-cancer treatment (Table 25).
 Results for PFS with and without censoring for new anti-cancer treatment were consistent.
 
 PFS benefit was observed in the nivolumab in combination with cabozantinib arm vs. suntinib regardless of the IMDC risk category.
@@ -2510,6 +2507,25 @@ Nivolumab + chemotherapy
 Minimum follow-up of 19.4 months
 
 Paediatric population
+
+Open label phase 1/2 study (CA209070)
+Study CA209070 was an open-label, single-arm, dose-confirmation and dose-expansion, phase 1/2 study of nivolumab as a single agent and in combination with ipilimumab in paediatric and young adult patients with recurrent or refractory solid or haematological tumours, including neuroblastoma, osteosarcoma, rhabdomyosarcoma, Ewing sarcoma, advanced melanoma, cHL and non-Hodgkin lymphoma (NHL).
+Among the 126 treated patients, 97 were paediatric patients from 12 months to < 18 years of age.
+Of the 97 paediatric patients, 64 were treated with nivolumab monotherapy
+(3 mg/kg administered intravenously over 60 minutes every 2 weeks) and 33 were treated with nivolumab in combination with ipilimumab (nivolumab 1 mg/kg or 3 mg/kg administered intravenously over 60 minutes in combination with ipilimumab 1 mg/kg administered intravenously over 90 minutes every 3 weeks for the first 4 doses, followed by nivolumab 3 mg/kg as monotherapy every 2 weeks).
+Patients received either nivolumab as monotherapy for a median of 2 doses
+(range: 1, 89) or nivolumab in combination with ipilimumab for a median of 2 doses (range: 1, 24).
+The main primary outcome measures were safety, tolerability and antitumour activity as evaluated by descriptive ORR and OS.
+Among the 64 paediatric patients treated with nivolumab monotherapy, 60 were response-evaluable patients (melanoma n = 1, solid tumours n = 47 and haematological tumours n = 12).
+In the 48 response-evaluable paediatric patients with melanoma or solid tumours, no objective responses were observed.
+In the 12 response-evaluable paediatric patients with haematological tumours, ORR was 25.0% (95% CI: 5.5, 57.2), including 1 complete response in cHL and 2 partial responses, one in cHL and another one in NHL.
+In the descriptive analyses for the 64 paediatric patients treated with nivolumab monotherapy, the median OS was 6.67 months (95% CI: 5.98, NA); 6.14 months
+(95% CI: 5.39, 24.67) for patients with melanoma or solid tumours, and not reached for patients with haematological tumours.
+
+Among the 30 response-evaluable paediatric patients treated with nivolumab in combination with ipilimumab (solid tumours other than melanoma only), no objective responses were observed.
+For the 33 paediatric patients treated with nivolumab in combination with ipilimumab, the median OS was 8.25 months (95% CI: 5.45, 16.95) in a descriptive analysis.
+
+Open label phase 1b/2 study (CA209908)
 Study CA209908 was an open-label, sequential-arm, phase 1b/2 clinical study of nivolumab monotherapy and nivolumab in combination with ipilimumab in paediatric and young adult patients with high-grade primary CNS malignancies, including diffuse intrinsic pontine glioma (DIPG), high-grade glioma, medulloblastoma, ependymoma and other recurrent subtypes of high-grade CNS malignancy (e.g., pineoblastoma, atypical teratoid/rhabdoid tumour, and embryonal CNS tumours).
 Of the 151 paediatric patients (from ≥ 6 months to < 18 years old) enrolled in the study, 77 were treated with nivolumab monotherapy (3 mg/kg every 2 weeks) and 74 were treated with nivolumab in combination with ipilimumab (3 mg/kg nivolumab followed by 1 mg/kg ipilimumab, every 3 weeks for 4 doses, followed by nivolumab monotherapy 3 mg/kg every 2 weeks).
 The primary efficacy outcome measures were OS in the DIPG cohort and investigator-assessed PFS, based on RANO criteria, for all other tumour types.
@@ -2520,7 +2536,7 @@ For all other studied CNS paediatric tumour types, the median PFS ranged from 1.
 There were no objective responses observed in the study with the exception of one ependymoma patient treated with nivolumab monotherapy who had a partial response.
 Results for OS, PFS, and ORR observed in study CA209908 do not suggest clinically meaningful benefit over what may be expected in these patient populations.
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with nivolumab in all subsets of the paediatric population in the treatment of malignant solid tumours and malignant neoplasms of lymphoid tissue (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit the results of studies with nivolumab in all subsets of the paediatric population in the treatment of malignant neoplasms of lymphoid tissue (see section 4.2 for information on paediatric use).
 
 Safety and efficacy in elderly patients
 No overall differences in safety or efficacy were reported between elderly (≥ 65 years) and younger patients (< 65 years).
