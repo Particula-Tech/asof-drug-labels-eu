@@ -2,7 +2,7 @@
 
 Myelosuppression
 
-Treatment with nilotinib is associated with (National Cancer Institute Common Toxicity Criteria grade 3-4) thrombocytopenia, neutropenia and anaemia.
+Treatment with nilotinib is associated with (National Cancer Institute Common Toxicity Criteria grade 3 and 4) thrombocytopenia, neutropenia and anaemia.
 Occurrence is more frequent in patients with imatinib-resistant or intolerant CML, in particular in patients with accelerated-phase CML.
 Complete blood counts should be performed every two weeks for the first 2 months and then monthly thereafter, or as clinically indicated.
 Myelosuppression was generally reversible and usually managed by withholding Tasigna temporarily or dose reduction (see section 4.2).
@@ -147,7 +147,3 @@ Liver function (bilirubin and hepatic transaminases levels) should be monitored 
 Elevations of bilirubin and hepatic transaminases should be managed by withholding nilotinib temporarily, dose reduction and/or discontinuation of nilotinib (see section 4.2).
 In a study in the CML paediatric population, growth retardation has been documented in patients treated with nilotinib (see section 4.8).
 Close monitoring of growth in paediatric patients under nilotinib treatment is recommended.
-
-[Tasigna 150 mg hard capsules]
-
-Loss of major molecular response (MMR=BCR-ABL/ABL ≤0.1%IS) will trigger treatment re-initiation within 4 weeks of when loss of remission is known to have occurred.

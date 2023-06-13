@@ -29,7 +29,7 @@ Nilotinib has pH dependent solubility, with lower solubility at higher pH.
 In healthy subjects receiving esomeprazole at 40 mg once daily for 5 days, gastric pH was markedly increased, but nilotinib absorption was only decreased modestly (27% decrease in Cmax and 34% decrease in AUC0-∞).
 Nilotinib may be used concurrently with esomeprazole or other proton pump inhibitors as needed.
 
-In a healthy subjects study, no significant change in nilotinib pharmacokinetics was observed when a single 400 mg dose of nilotinib was administered 10 hours after and 2 hours before famotidine.
+In a study in healthy subjects, no significant change in nilotinib pharmacokinetics was observed when a single 400 mg dose of nilotinib was administered 10 hours after and 2 hours before famotidine.
 Therefore, when the concurrent use of a H2 blocker is necessary, it may be administered approximately 10 hours before and approximately 2 hours after the dose of Tasigna.
 
 In the same study as above, administration of an antacid (aluminium hydroxide/magnesium hydroxide/simethicone) 2 hours before or after a single 400 mg dose of nilotinib also did not alter nilotinib pharmacokinetics.
@@ -62,9 +62,3 @@ Grapefruit juice and other foods that are known to inhibit CYP3A4 should be avoi
 Paediatric population
 
 Interaction studies have only been performed in adults.
-
-[Tasigna 150 mg hard capsules]
-
-The concomitant administration of other medicinal products that induce CYP3A4 (e.g., phenytoin, carbamazepine, phenobarbital and St. John’s Wort) is likewise likely to reduce exposure to nilotinib to a clinically relevant extent.
-
-As a result, the systemic exposure of other medicinal products primarily metabolised by CYP3A4 (e.g., certain HMG-CoA reductase inhibitors) may be increased when co-administered with nilotinib.

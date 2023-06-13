@@ -13,8 +13,6 @@ The recommended dose is:
 - 300 mg twice daily in newly diagnosed patients with CML in the chronic phase,
 - 400 mg twice daily in patients with chronic or accelerated phase CML with resistance or intolerance to prior therapy.
 
-For a dose of 300 mg twice daily, 150 mg hard capsules are available.
-
 Posology for Philadelphia chromosome positive CML paediatric patients
 Dosing in paediatric patients is individualised and is based on body surface area (mg/m2).
 The recommended dose of nilotinib is 230 mg/m2 twice daily, rounded to the nearest 50 mg dose (to a maximum single dose of 400 mg) (see Table 1).
@@ -126,20 +124,3 @@ No food should be consumed for 2 hours before the dose is taken and no food shou
 
 For patients who are unable to swallow hard capsules, the content of each hard capsule may be dispersed in one teaspoon of apple sauce (puréed apple) and should be taken immediately.
 Not more than one teaspoon of apple sauce and no food other than apple sauce must be used (see sections 4.4 and 5.2).
-
-[Tasigna 150 mg hard capsules]
-
-The recommended dose is 300 mg twice daily.
-
-For a dose of 400 mg once daily (see dose adjustments below), 200 mg hard capsules are available.
-
-| Adult patients with newly diagnosed chronic phase CML at 300 mg twice daily | ANC* <1.0 x 109/l and/or platelet counts <50 x 109/l | 1. Treatment with nilotinib must be interrupted and blood count monitored. 2. Treatment must be resumed within 2 weeks at prior dose if ANC >1.0 x 109/l and/or platelets >50 x 109/l. 3. If blood counts remain low, a dose reduction to 400 mg once daily may be required. |
-| --- | --- | --- |
-| Paediatric patients with newly diagnosed chronic phase CML at 230 mg/m2 twice daily and imatinib-resistant or intolerant CML in chronic phase at 230 mg/m2 twice daily | ANC* <1.0 x 109/l and/or platelet counts <50 x 109/l | 1. Treatment with nilotininb must be interrupted and blood count monitored. 2. Treatment must be resumed within 2 weeks at prior dose if ANC >1.5 x 109/l and/or platelets >75 x 109/l. 3. If blood counts remain low, a dose reduction to 230 mg/m2 once daily may be required. 4. If event occurs after dose reduction, consider discontinuing treatment. |
-
-If the prior dose was 300 mg twice daily in adult patients or 230 mg/m2 twice daily in paediatric patients, dosing may be resumed at 400 mg once daily in adult patients and at 230 mg/m2 once daily in paediatric patients once the toxicity has resolved.
-If clinically appropriate, re-escalation of the dose to 300 mg twice daily in adult patients or to 230 mg/m2 twice daily in paediatric patients should be considered.
-
-Approximately 12% of subjects in the clinical study were 65 years of age or over.
-
-No food should be consumed for 2 hours before the dose is taken and for at least one hour after.

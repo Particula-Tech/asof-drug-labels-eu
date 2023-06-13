@@ -49,7 +49,3 @@ Paediatric population
 
 Following administration of nilotinib in paediatric patients at 230 mg/m2 twice daily, rounded to the nearest 50 mg dose (to a maximum single dose of 400 mg), steady-state exposure and clearance of nilotinib were found to be similar (within 2-fold) to adult patients treated with 400 mg twice daily.
 The pharmacokinetic exposure of nilotinib following a single or multiple doses appeared to be comparable between paediatric patients from 2 years to <10 years and from ≥10 years to <18 years.
-
-[Tasigna 150 mg hard capsules]
-
-The average nilotinib trough and peak concentrations over 12 months were approximately 15.7% and 14.8% higher following 400 mg twice daily dosing compared to 300 mg twice daily.

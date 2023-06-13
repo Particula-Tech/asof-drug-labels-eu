@@ -21,7 +21,7 @@ Black iron oxide (E172)
 Propylene glycol
 Ammonium hydroxide
 
-Tasigna 200 mg hard capsules
+Tasigna 150 mg hard capsules
 
 Capsule content
 Lactose monohydrate
@@ -30,6 +30,28 @@ Poloxamer 188
 Colloidal anhydrous silica
 Magnesium stearate
 
+Capsule shell
+Gelatin
+Titanium dioxide (E171)
+Red iron oxide (E172)
+Yellow iron oxide (E172)
+
+Printing ink
+Shellac
+Black iron oxide (E172) n-Butyl alcohol
+Propylene glycol
+Dehydrated ethanol
+Isopropyl alcohol
+Ammonium hydroxide
+
+Tasigna 200 mg hard capsules
+
+Capsule content
+Lactose monohydrate
+Crospovidone Type A
+Poloxamer 188
+Colloidal anhydrous silica
+Magnesium stearate
 Capsule shell
 Gelatin
 Titanium dioxide (E171)
@@ -44,9 +66,3 @@ Propylene glycol
 Strong ammonia solution
 Potassium hydroxide
 Red iron oxide (E172)
-
-[Tasigna 150 mg hard capsules]
-
-Black iron oxide (E172) n-Butyl alcohol
-Dehydrated ethanol
-Isopropylalcohol
