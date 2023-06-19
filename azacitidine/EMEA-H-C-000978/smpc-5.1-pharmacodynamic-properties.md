@@ -28,7 +28,6 @@ Within the Intent to Treat population (ITT), the median age was 69 years (range 
 In the ITT analysis of 358 patients (179 azacitidine and 179 CCR), Vidaza treatment was associated with a median survival of 24.46 months versus 15.02 months for those receiving CCR treatment, a difference of 9.4 months, with a stratified log-rank p-value of 0.0001.
 The hazard ratio (HR) for the treatment effect was 0.58 (95% CI: 0.43, 0.77).
 The two-year survival rates were 50.8% in patients receiving azacitidine versus 26.2% in patients receiving CCR (p < 0.0001).
-
 Log-Rank p = 0.0001
 HR = 0.58 [95% CI: 0.43-0.77]
 Deaths: AZA = 82, CCR = 113
@@ -42,6 +41,7 @@ Time (months) from Randomization
 
 KEY: AZA = azacitidine; CCR = conventional care regimens; CI = confidence interval;
 HR = hazard ratio
+
 The survival benefits of Vidaza were consistent regardless of the CCR treatment option (BSC alone, low-dose cytarabine plus BSC or standard induction chemotherapy plus BSC) utilised in the control arm.
 
 When IPSS cytogenetic subgroups were analysed, similar findings in terms of median overall survival were observed in all groups (good, intermediate, poor cytogenetics, including monosomy 7).
@@ -55,7 +55,6 @@ Vidaza treatment was also associated with a reduction in cytopenias, and their r
 Vidaza treatment led to a reduced need for red blood cell (RBC) and platelet transfusions.
 Of the patients in the azacitidine group who were RBC transfusion dependent at baseline, 45.0% of these patients became RBC transfusion independent during the treatment period, compared with 11.4% of the patients in the combined CCR groups (a statistically significant (p < 0.0001) difference of 33.6% (95% CI: 22.4, 44.6).
 In patients who were RBC transfusion dependent at baseline and became independent, the median duration of RBC transfusion independence was 13 months in the azacitidine group.
-
 Response was assessed by the investigator or by the Independent Review Committee (IRC).
 Overall response (complete remission [CR] + partial remission [PR]) as determined by the investigator was 29% in the azacitidine group and 12% in the combined CCR group (p = 0.0001).
 Overall response (CR + PR) as determined by the IRC in AZA PH GL 2003 CL 001 was 7% (12/179) in the azacitidine group compared with 1% (2/179) in the combined CCR group (p = 0.0113).
@@ -86,7 +85,6 @@ At baseline 60.7% were classified as AML not otherwise specified, 32.4% AML with
 In the ITT analysis of 488 patients (241 Vidaza and 247 CCR), Vidaza treatment was associated with a median survival of 10.4 months versus 6.5 months for those receiving CCR treatment, a difference of 3.8 months, with a stratified log-rank p-value of 0.1009 (two-sided).
 The hazard ratio for the treatment effect was 0.85 (95% CI = 0.69, 1.03).
 The one-year survival rates were 46.5% in patients receiving Vidaza versus 34.3% in patients receiving CCR.
-
 The Cox PH model adjusted for pre-specified baseline prognostic factors defined a HR for Vidaza versus CCR of 0.80 (95% CI = 0.66, 0.99; p = 0.0355).
 
 In addition, although the study was not powered to demonstrate a statistically significant difference when comparing azacitidine to the preselection CCR treatment groups, the survival of Vidaza treated patients was longer when compared to CCR treatment options BSC alone, low-dose cytarabine plus BSC and were similar when compared to standard intensive chemotherapy plus BSC.
@@ -132,6 +130,7 @@ Among the cohort of JMML patients treated with Vidaza, 7 (43.8%) patients had a 
 17 of 18 patients proceeded to HSCT.
 
 Because of the study design (small patient numbers and various confounding factors), it cannot be concluded from this clinical study whether Vidaza prior to HSCT improves survival outcome in JMML patients.
+
 Study AZA-AML-004 was a Phase 2, multicentre, open-label study to evaluate the safety, pharmacodynamics and efficacy of Vidaza compared to no anti-cancer treatment in children and young adults with AML in molecular relapse after CR1.
 
 Seven patients (median age 6.7 years [range 2 to 12 years]; 71.4% male) were treated with intravenous Vidaza 100 mg/m2, daily on Days 1 to 7 of each 28-day cycle for a maximum of 3 cycles.

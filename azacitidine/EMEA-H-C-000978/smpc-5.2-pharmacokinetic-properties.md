@@ -26,6 +26,7 @@ Following intravenous and subcutaneous administration of 14C-azacitidine, 85 and
 
 Special populations
 The effects of hepatic impairment (see section 4.2), gender, age, or race on the pharmacokinetics of azacitidine have not been formally studied.
+
 Paediatric population
 In Study AZA-JMML-001, pharmacokinetic analysis was determined from 10 MDS and 18 JMML paediatric patients on Day 7 of Cycle 1 (see section 5.1).
 The median age (range) of the MDS patients was 13.3 (1.9-15) years and 2.1 (0.2-6.9) years for JMML patients.
@@ -34,7 +35,6 @@ Following intravenous administration of a 75 mg/m2 dose, Vidaza rapidly reached 
 The geometric mean Cmax were 1797.5 and 1066.3 ng/mL, and the geometric mean AUC0-∞ were 606.9 and 240.2 ng∙h/mL, for MDS and JMML patients, respectively.
 The geometric mean volume of distribution in MDS and JMML subjects were 103.9 and 61.1 L, respectively.
 It appeared that the total plasma exposure of Vidaza was higher in MDS subjects; however, moderate to high between-patient variability was noted for both AUC and Cmax.
-
 The geometric mean t½ were 0.4 and 0.3 hours, and the geometric mean clearances were 166.4 and 148.3 L/h for MDS and JMML, respectively.
 
 Pharmacokinetic data from Study AZA-JMML-001 were pooled together and compared to pharmacokinetic data from 6 adult subjects with MDS administered 75 mg/m2 Vidaza intravenously in Study AZA-2002-BA-002.

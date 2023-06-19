@@ -11,9 +11,13 @@ Treatment should be continued for as long as the patient continues to benefit or
 
 Patients should be monitored for haematologic response/toxicity and renal toxicities (see section 4.4); a delay in starting the next cycle or a dose reduction as described below may be necessary.
 
+Vidaza should not be used interchangeably with oral azacitidine.
+Due to differences in the exposure, the dose and schedule recommendations for oral azacitidine are different from those for injectable azacitidine.
+Healthcare professionals are recommended to verify the name of the medicinal product, dose and administration route.
 Laboratory tests
 Liver function tests, serum creatinine and serum bicarbonate should be determined prior to initiation of therapy and prior to each treatment cycle.
 Complete blood counts should be performed prior to initiation of therapy and as needed to monitor response and toxicity, but at a minimum, prior to each treatment cycle.
+
 Dose adjustment due to haematological toxicity
 Haematological toxicity is defined as the lowest count reached (nadir) in a given cycle if platelets
 ≤ 50.0 x 109/L and/or absolute neutrophil count (ANC) ≤ 1 x 109/L.
@@ -63,6 +67,7 @@ Patients with renal impairment
 Azacitidine can be administered to patients with renal impairment without initial dose adjustment (see section 5.2).
 If unexplained reductions in serum bicarbonate levels to less than 20 mmol/L occur, the dose should be reduced by 50% on the next cycle.
 If unexplained elevations in serum creatinine or blood urea nitrogen (BUN) to ≥ 2-fold above baseline values and above upper limit of normal (ULN) occur, the next cycle should be delayed until values return to normal or baseline and the dose should be reduced by 50% on the next treatment cycle (see section 4.4).
+
 Patients with hepatic impairment
 No formal studies have been conducted in patients with hepatic impairment (see section 4.4).
 Patients with severe hepatic organ impairment should be carefully monitored for adverse events.

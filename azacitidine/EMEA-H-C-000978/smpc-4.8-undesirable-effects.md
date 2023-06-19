@@ -12,7 +12,6 @@ The most commonly reported adverse reactions with azacitidine treatment were hae
 Adult population aged 65 years or older with AML with > 30% marrow blasts
 The most common serious adverse reactions (≥ 10%) noted from AZA-AML-001 within the azacitidine treatment arm included febrile neutropenia (25.0%), pneumonia (20.3%), and pyrexia (10.6%).
 Other less frequently reported serious adverse reactions in the azacitidine treatment arm included sepsis (5.1%), anaemia (4.2%), neutropenic sepsis (3.0%), urinary tract infection (3.0%), thrombocytopenia (2.5%), neutropenia (2.1%), cellulitis (2.1%), dizziness (2.1%) and dyspnoea (2.1%).
-
 The most commonly reported (≥ 30%) adverse reactions with azacitidine treatment were gastrointestinal events, including constipation (41.9%), nausea (39.8%), and diarrhoea (36.9%; usually Grade 1-2), general disorders and administration site conditions including pyrexia (37.7%; usually Grade 1-2) and haematological events, including febrile neutropenia (32.2%) and neutropenia (30.1%; usually Grade 3-4).
 
 Tabulated list of adverse reactions
@@ -76,7 +75,6 @@ Subcutaneous adverse reactions such as injection site rash/inflammation/pruritus
 These cutaneous reactions have to be distinguished from soft tissue infections, sometimes occurring at injection site.
 Soft tissue infections, including cellulitis and necrotising fasciitis in rare cases leading to death, have been reported with azacitidine in the post marketing setting.
 For clinical management of infectious adverse reactions, see section 4.8 Infections.
-
 Gastrointestinal adverse reactions
 The most commonly reported gastrointestinal adverse reactions associated with azacitidine treatment included constipation, diarrhoea, nausea and vomiting.
 These adverse reactions were managed symptomatically with anti-emetics for nausea and vomiting, anti-diarrhoeals for diarrhoea and laxatives and/or stool softeners for constipation.
@@ -92,6 +90,7 @@ Data from a clinical study allowing enrolment of patients with known history of 
 
 Elderly population
 There is limited safety information available with azacitidine in patients ≥ 85 years (with 14 [5.9%] patients ≥ 85 years treated in Study AZA-AML-001).
+
 Paediatric population
 In Study AZA-JMML-001, 28 paediatric patients (1 month to less than 18 years of age) were treated with Vidaza for MDS (n = 10) or juvenile myelomonocytic leukaemia (JMML) (n = 18) (see section 5.1).
 

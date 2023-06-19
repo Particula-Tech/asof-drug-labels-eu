@@ -51,7 +51,6 @@ Calculation of an individual dose
 The total dose, according to the body surface area (BSA) can be calculated as follows:
 
 Total dose (mg) = Dose (mg/m2) x BSA (m2)
-
 The following table is provided only as an example of how to calculate individual azacitidine doses based on an average BSA value of 1.8 m2.
 
 | Dose mg/m2 (% of recommended starting dose) | Total dose based on BSA value of 1.8 m2 | Number of vials required | Total volume of reconstituted suspension required |
