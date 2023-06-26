@@ -67,7 +67,6 @@ Patients should be monitored for signs and symptoms of hepatitis such as transam
 Infectious and disease-related aetiologies should be ruled out.
 
 For Grade 3 or 4 transaminase or total bilirubin elevation, nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued, and corticosteroids should be initiated at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
-
 For Grade 2 transaminase or total bilirubin elevation, nivolumab or nivolumab in combination with ipilimumab should be withheld.
 Persistent elevations in these laboratory values should be managed with corticosteroids at a dose of 0.5 to 1 mg/kg/day methylprednisolone equivalents.
 Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper, if needed.
@@ -91,6 +90,7 @@ Severe endocrinopathies, including hypothyroidism, hyperthyroidism, adrenal insu
 Patients should be monitored for clinical signs and symptoms of endocrinopathies and for hyperglycaemia and changes in thyroid function (at the start of treatment, periodically during treatment, and as indicated based on clinical evaluation).
 Patients may present with fatigue, headache, mental status changes, abdominal pain, unusual bowel habits, and hypotension, or nonspecific symptoms which may resemble other causes such as brain metastasis or underlying disease.
 Unless an alternate aetiology has been identified, signs or symptoms of endocrinopathies should be considered immune-related.
+
 For symptomatic hypothyroidism, nivolumab or nivolumab in combination with ipilimumab should be withheld, and thyroid hormone replacement should be initiated as needed.
 For symptomatic hyperthyroidism, nivolumab or nivolumab in combination with ipilimumab should be withheld and antithyroid medication should be initiated as needed.
 Corticosteroids at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents should also be considered if acute inflammation of the thyroid is suspected.
@@ -101,7 +101,6 @@ Nivolumab or nivolumab in combination with ipilimumab must be permanently discon
 For symptomatic Grade 2 adrenal insufficiency, nivolumab or nivolumab in combination with ipilimumab should be withheld, and physiologic corticosteroid replacement should be initiated as needed.
 Nivolumab or nivolumab in combination with ipilimumab must be permanently discontinued for severe (Grade 3) or life-threatening (Grade 4) adrenal insufficiency.
 Monitoring of adrenal function and hormone levels should continue to ensure appropriate corticosteroid replacement is utilised.
-
 For symptomatic Grade 2 or 3 hypophysitis, nivolumab or nivolumab in combination with ipilimumab should be withheld, and hormone replacement should be initiated as needed.
 Corticosteroids at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents should also be considered if acute inflammation of the pituitary gland is suspected.
 Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper, if needed.
@@ -126,6 +125,7 @@ Caution should be used when considering the use of nivolumab in a patient who ha
 Other immune-related adverse reactions
 The following immune-related adverse reactions were reported in less than 1% of patients treated with nivolumab monotherapy or nivolumab in combination with ipilimumab in clinical trials across doses and tumour types: pancreatitis, uveitis, demyelination, autoimmune neuropathy (including facial and abducens nerve paresis), Guillain-Barré syndrome, myasthenia gravis, myasthenic syndrome, aseptic meningitis, encephalitis, gastritis, sarcoidosis, duodenitis, myositis, myocarditis, and rhabdomyolysis.
 Cases of Vogt-Koyanagi-Harada syndrome, hypoparathyroidism, and cystitis noninfective have been reported post-marketing (see sections 4.2 and 4.8).
+
 For suspected immune-related adverse reactions, adequate evaluation should be performed to confirm aetiology or exclude other causes.
 Based on the severity of the adverse reaction, nivolumab or nivolumab in combination with ipilimumab should be withheld and corticosteroids administered.
 Upon improvement, nivolumab or nivolumab in combination with ipilimumab may be resumed after corticosteroid taper.
@@ -160,6 +160,7 @@ Patients with ocular/uveal melanoma were excluded from pivotal clinical trials o
 In addition, CA209037 excluded patients who have had a Grade 4 adverse reaction that was related to anti-CTLA-4 therapy (see section 5.1).
 Patients with baseline performance score of 2, treated leptomeningeal metastases, ocular/uveal melanoma, autoimmune disease and patients who have had a Grade 3-4 adverse reaction that was related to prior anti-CTLA-4 therapy were included in study CA209172 (see section 5.1).
 In the absence of data for patients who had been receiving systemic immunosuppressants prior to study entry, and for patients with active brain or leptomeningeal metastases, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+
 Relative to nivolumab monotherapy, an increase in PFS for the combination of nivolumab with ipilimumab is established only in patients with low tumour PD-L1 expression.
 The improvement in OS was similar between nivolumab in combination with ipilimumab and nivolumab monotherapy in patients with high tumour PD-L1 expression (PD-L1 ≥ 1%).
 Before initiating treatment with the combination, physicians are advised to carefully evaluate the individual patient and tumour characteristics, taking into consideration the observed benefits and the toxicity of the combination relative to nivolumab monotherapy (see sections 4.8 and 5.1).
@@ -194,10 +195,14 @@ Physicians should consider the delayed onset of nivolumab effect before initiati
 In non-squamous NSCLC, a higher number of deaths within 3 months was observed in nivolumab compared to docetaxel.
 Factors associated with early deaths were poorer prognostic factors and/or more aggressive disease combined with low or no tumour PD-L1 expression (see section 5.1).
 
+Neoadjuvant treatment of NSCLC
+Patients with a baseline performance score ≥ 2, active autoimmune disease, symptomatic interstitial lung disease, medical conditions requiring systemic immunosuppression, unresectable or metastatic disease, who received prior anti-cancer treatment for resectable disease, or who had known
+EGFR mutations or ALK translocations were excluded from the pivotal trial in neoadjuvant treatment of resectable NSCLC (see section 5.1).
+In the absence of data, nivolumab in combination with chemotherapy should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+
 Malignant pleural mesothelioma
 Patients with primitive peritoneal, pericardial, testis, or tunica vaginalis mesothelioma, interstitial lung disease, active autoimmune disease, medical conditions requiring systemic immunosuppression, and brain metastasis (unless surgically resected or treated with stereotaxic radiotherapy and no evolution within 3 months prior to inclusion in the study) were excluded from the pivotal trial in first-line treatment of MPM (see sections 4.5 and 5.1).
 In the absence of data, nivolumab in combination with ipilimumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
-
 Renal cell carcinoma
 Nivolumab or nivolumab in combination with ipilimumab
 Patients with any history of concurrent brain metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trials of nivolumab or nivolumab in combination with ipilimumab (see sections 4.5 and 5.1).
@@ -230,6 +235,7 @@ In the absence of data, nivolumab should be used with caution in these populatio
 Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with poorer prognostic features and/or aggressive disease.
 In head and neck cancer, a higher number of deaths within 3 months was observed in nivolumab compared to docetaxel.
 Factors associated with early deaths were ECOG performance status, fast progressive disease on prior platinum therapy and high tumour burden.
+
 Urothelial carcinoma
 Treatment of advanced urothelial carcinoma
 Patients with a baseline performance score ≥ 2, active brain metastases or leptomeningeal metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trials of urothelial carcinoma (see sections 4.5 and 5.1).
@@ -263,7 +269,6 @@ No specific factor(s) associated with early deaths could be identified (see sect
 Adjuvant treatment of oesophageal or gastro-oesophageal junction cancer
 Patients with a baseline performance score ≥ 2, who did not receive concurrent chemoradiotherapy (CRT) prior to surgery, with stage IV resectable disease, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical study in oesophageal and gastro-oesophageal junction cancer (see sections 4.5 and 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
-
 Gastric, gastro-oesophageal junction or oesophageal adenocarcinoma
 Patients who had baseline ECOG performance score ≥ 2, untreated central nervous system metastases, active, known, or suspected autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical study in gastric, GEJ or oesophageal adenocarcinoma (see sections 4.5 and 5.1).
 In the absence of data, nivolumab in combination with chemotherapy should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.

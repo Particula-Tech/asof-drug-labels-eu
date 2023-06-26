@@ -10,7 +10,6 @@ More than one vial of OPDIVO concentrate may be needed to give the total dose fo
 
 Nivolumab monotherapy
 The prescribed dose for the adult patient is 240 mg or 480 mg given regardless of body weight depending on indication (see section 4.2).
-
 Melanoma (advanced or adjuvant treatment) in adolescents.
 The prescribed dose for adolescents 12 years of age and older weighing at least 50 kg is 240 mg or 480 mg.
 For adolescents 12 years of age and older and weighing less than 50 kg, the prescribed dose is given in mg/kg.
@@ -28,6 +27,9 @@ The prescribed dose for the patient is 360 mg given regardless of body weight.
 
 Nivolumab in combination with ipilimumab in OSCC
 The prescribed dose for the patient can be based on body weight (3 mg/kg) or 360 mg given regardless of body weight.
+
+Nivolumab in combination with chemotherapy in resectable NSCLC
+The prescribed dose for the patient is 360 mg given regardless of body weight.
 
 Nivolumab in combination with chemotherapy in OSCC
 The prescribed dose for the patient is 240 mg or 480 mg given regardless of body weight.
@@ -48,7 +50,7 @@ OPDIVO can be used for intravenous administration either:
 
 - without dilution, after transfer to an infusion container using an appropriate sterile syringe; or
 - after diluting according to the following instructions:
-  - the final infusion concentration should range between 1 and 10 mg/mL.
+  - the final infusion concentration should range between 1 and 10 mg/mL
   - the total volume of infusion must not exceed 160 mL.
     For patients weighing less than 40 kg, the total volume of infusion must not exceed 4 mL per kilogram of patient weight.
 
