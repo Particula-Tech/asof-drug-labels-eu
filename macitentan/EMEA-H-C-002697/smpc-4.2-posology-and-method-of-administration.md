@@ -11,15 +11,12 @@ Special populations
 Elderly
 
 No dose adjustment is required in patients over the age of 65 years (see section 5.2).
-There is limited clinical experience in patients over the age of 75 years.
-Therefore, Opsumit should be used with caution in this population (see section 4.4).
 
 Hepatic impairment
 
 Based on pharmacokinetic (PK) data, no dose adjustment is required in patients with mild, moderate or severe hepatic impairment (see sections 4.4 and 5.2).
 However, there is no clinical experience with the use of macitentan in PAH patients with moderate or severe hepatic impairment.
 Opsumit must not be initiated in patients with severe hepatic impairment, or clinically significant elevated hepatic aminotransferases (greater than 3 times the Upper Limit of Normal (> 3 × ULN); see sections 4.3 and 4.4).
-
 Renal impairment
 
 Based on PK data, no dose adjustment is required in patients with renal impairment.

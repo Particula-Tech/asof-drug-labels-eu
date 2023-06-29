@@ -29,7 +29,6 @@ Fluconazole: In the presence of fluconazole 400 mg daily, a moderate dual inhibi
 However, there was no clinically relevant change in exposure to the active metabolite of macitentan.
 The uncertainties of such modelling should be considered.
 Caution should be exercised when macitentan is administered concomitantly with moderate dual inhibitors of CYP3A4 and CYP2C9 (e.g., fluconazole and amiodarone) (see section 4.4).
-
 Caution should also be exercised when macitentan is administered concomitantly with both a moderate CYP3A4 inhibitor (e.g., ciprofloxacin, cyclosporine, diltiazem, erythromycin, verapamil) and moderate CYP2C9 inhibitor (e.g., miconazole, piperine) (see section 4.4).
 
 Warfarin: Macitentan given as multiple doses of 10 mg once daily had no effect on exposure to S-warfarin (CYP2C9 substrate) or R-warfarin (CYP3A4 substrate) after a single dose of 25 mg warfarin.

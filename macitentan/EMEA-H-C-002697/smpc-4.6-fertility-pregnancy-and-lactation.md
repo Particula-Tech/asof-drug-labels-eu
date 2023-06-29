@@ -22,4 +22,5 @@ Opsumit is contraindicated during breastfeeding (see section 4.3).
 Male fertility
 
 The development of testicular tubular atrophy in male animals was observed after treatment with macitentan (see section 5.3).
-The relevance of this finding to humans is unknown, but a deterioration of spermatogenesis cannot be excluded.
+Decreases in sperm count have been observed in patients taking ERAs.
+Macitentan, like other ERAs, may have an adverse effect on spermatogenesis in men.

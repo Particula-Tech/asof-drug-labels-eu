@@ -54,10 +54,6 @@ Therefore, monitoring of blood pressure and haemoglobin should be considered.
 There is no clinical experience with the use of macitentan in PAH patients with severe renal impairment.
 Caution is recommended in this population.
 There is no experience with the use of macitentan in patients undergoing dialysis, therefore Opsumit is not recommended in this population (see sections 4.2 and 5.2).
-Elderly
-
-There is limited clinical experience with macitentan in patients over the age of 75 years, therefore Opsumit should be used with caution in this population (see section 4.2).
-
 Excipients
 
 Opsumit contains lactose.

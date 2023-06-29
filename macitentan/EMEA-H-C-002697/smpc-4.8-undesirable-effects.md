@@ -10,6 +10,7 @@ Tabulated list of adverse reactions
 The safety of macitentan has been evaluated in a long-term placebo-controlled trial of 742 patients with symptomatic PAH (SERAPHIN study).
 The mean treatment duration was 103.9 weeks in the macitentan 10 mg group, and 85.3 weeks in the placebo group.
 Adverse reactions associated with macitentan obtained from this clinical study are tabulated below.
+Post-marketing adverse reactions are also included.
 
 Frequencies are defined as: very common (≥1/10); common (≥1/100 to < 1/10); uncommon
 (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
@@ -24,15 +25,14 @@ Frequencies are defined as: very common (≥1/10); common (≥1/100 to < 1/10); 
 | Blood and lymphatic system disorders | Very common | Anaemia, haemoglobin decrease5 |
 |  | Common | Leukopenia6 |
 |  | Common | Thrombocytopenia7 |
-| Hepatobiliary disorders | Common | Aminotransferase elevations4 |
 | Immune system disorders | Uncommon | Hypersensitivity reactions (e.g., angioedema, pruritus, rash)1 |
 | Nervous system disorders | Very common | Headache |
-| Vascular disorders | Common | Hypotension2 |
+| Vascular disorders | Common | Hypotension2, flushing |
 | Respiratory, thoracic and mediastinal disorders | Common | Nasal congestion1 |
+| Hepatobiliary disorders | Common | Aminotransferase elevations4 |
 | General disorders and administration site conditions | Very common | Oedema, fluid retention3 |
 
 1 Data derived from pooled placebo-controlled studies.
-
 Description of selected adverse reactions
 
 2 Hypotension has been associated with the use of ERAs including macitentan.
@@ -40,7 +40,7 @@ In a long-term double--blind study in patients with PAH, hypotension was reporte
 This corresponded to 3.5 events / 100 patient-years on macitentan 10 mg compared to 2.7 events / 100 patient-years on placebo.
 
 3 Oedema/fluid retention has been associated with the use of ERAs including macitentan.
-In a long--term double-blind study in patients with PAH, the incidence of oedema AEs in the macitentan 10 mg and placebo treatment groups was 21.9% and 20.5%, respectively.
+In a long-term double-blind study in patients with PAH, the incidence of oedema AEs in the macitentan 10 mg and placebo treatment groups was 21.9% and 20.5%, respectively.
 In a double-blind study in patients with idiopathic pulmonary fibrosis, the incidence of peripheral oedema AEs in the macitentan and placebo treatment groups was 11.8% and 6.8%, respectively.
 In two double-blind clinical studies in patients with digital ulcers associated with systemic sclerosis, the incidences of peripheral oedema AEs ranged from 13.4% to 16.1% in the macitentan 10 mg groups and from 6.2% to 4.5% in the placebo groups.
 
