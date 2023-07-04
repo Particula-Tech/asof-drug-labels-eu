@@ -3,7 +3,6 @@
 Pregnancy
 
 This medicinal product is not intended for use in women of child-bearing potential.
-
 Breastfeeding
 
 This medicinal product is not intended for use in women who are breastfeeding.

@@ -6,7 +6,7 @@ In the brain, microvacuolation due to intramyelinic oedema has been observed in 
 In the monkey these lesions are minimal or equivocal.
 In both rat and dog they were reversible on stopping vigabatrin treatment and even regressed with continued treatment.
 
-Vigabatrin-associated retinotoxicity has been observed in 80-100% of albino rats at the dose of 300 mg/kg/day orally, but not in pigmented rats, dogs or monkeys.
+Vigabatrin-associated retinotoxicity has been observed in 80-100 % of albino rats at the dose of 300 mg/kg/day orally, but not in pigmented rats, dogs or monkeys.
 The retinal changes in albino rats were characterised as focal or multifocal disorganisation of the outer nuclear layer while the other layers of retina were not affected.
 
 Animal experiments have shown that vigabatrin has no negative influence on fertility or pup development.

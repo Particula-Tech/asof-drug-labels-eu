@@ -8,18 +8,18 @@ Vigabatrin can cause permanent vision loss.
 
 Most of the patients with perimetry-confirmed defects have been asymptomatic.
 Hence, this undesirable effect can only be reliably detected by systematic perimetry which is usually possible only in patients with a developmental age of more than 9 years.
-For younger patients electroretinography should be used (see Visual Field Defects).
+For younger patients electroretinography should be used (see visual field defects).
 Available data suggests that visual field defects are irreversible even after discontinuation of vigabatrin.
 A deterioration of VFD after the treatment is discontinued cannot be excluded.
-
 Therefore, vigabatrin should only be used after careful benefit/ risk assessment compared with alternatives.
 
 Vigabatrin is not recommended for use in patients with any pre-existing clinically significant visual field defect.
-Patients should undergo systematic screening examination when starting vigabatrin and at regular intervals for detection of visual field defects.
-Visual field testing should continue at 6 month intervals for the whole duration of treatment.
-The assessment must be continued 6 to 12 months after the discontinuation of therapy (see Visual Field Defects).
 
-Visual Field Defects (VFD)
+Patients should undergo systematic screening examination when starting vigabatrin and at regular intervals for detection of visual field defects.
+Visual field testing should continue at 6-month intervals for the whole duration of treatment.
+The assessment must be continued 6 to 12 months after the discontinuation of therapy (see visual field defects).
+
+Visual field defects (VFD)
 
 Based on available data, the usual pattern is a concentric constriction of the visual field of both eyes, which is generally more marked nasally than temporally.
 In the central visual field (within 30 degree of eccentricity), frequently an annular nasal defect is seen.
@@ -47,7 +47,7 @@ Based on the available data the first oscillatory potential and 30 Hz flicker re
 These responses are delayed and reduced beyond the normal limits.
 Such changes have not been seen in vigabatrin treated patients without a VFD.
 
-The parents and/or caregivers must be given a thorough description of the frequency and implications of the development of VFD during vigabatrin treatment.
+The parents and/or caregivers must be given a thorough description of the frequency and Implications of the development of VFD during vigabatrin treatment.
 VFD may not be detected until it is severe and undetected moderate defects may affect child integrity.
 Therefore, vision assessment is required at baseline (no later than 4 weeks after starting treatment) and at least every 6 months while on therapy.
 The assessment must be continued 6 to 12 months after the discontinuation of therapy.
@@ -60,21 +60,23 @@ If the decision to continue treatment is made, consideration should be given to 
 Vigabatrin should not be used concomitantly with other retinotoxic medicinal products.
 
 Neurologic and psychiatric conditions
+
 In view of the results of the animal safety studies (see section 5.3) it is recommended that patients treated with vigabatrin are closely observed for adverse reactions on neurological function.
 
 Rare reports of encephalopathic symptoms such as marked sedation, stupor and confusion in association with non-specific slow wave activity on electroencephalogram have been described soon after the initiation of vigabatrin treatment.
 Risk factors for the development of these reactions include higher than recommended starting dose, faster dose escalation at higher steps than recommended and renal failure.
 These events have been reversible following dose reduction or discontinuation of vigabatrin (see section 4.8).
 
-Abnormal Magnetic Resonance Imaging signals
-Abnormal Magnetic Resonance Imaging (MRI) signal changes characterised by increased T2 signal and restricted diffusion in a symmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have been observed in some infants treated with vigabatrin for infantile spasms.
-In a retrospective epidemiologic study in infants with infantile spasms (N=205), the prevalence of these changes was 22% in vigabatrin treated patients versus 4% in patients treated with other therapies.
+Abnormal magnetic resonance imaging signals
+
+Abnormal magnetic resonance imaging (MRI) signal changes characterised by increased T2 signal and restricted diffusion in a symmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have been observed in some infants treated with vigabatrin for infantile spasms.
+In a retrospective epidemiologic study in infants with infantile spasms (N = 205), the prevalence of these changes was 22 % in vigabatrin treated patients versus 4 % in patients treated with other therapies.
 
 In the study above, in post-marketing experience, and in published literature reports, these changes generally resolved with discontinuation of treatment.
 In a few patients, the lesion resolved despite continued use.
 
 Additionally, cases of intramyelinic oedema (IME) have been reported, particularly in infants treated for infantile spasms (see section 4.8 and 5.3).
-IME has been reported to be reversible following drug discontinuation, and it is therefore recommended to progressively discontinue vigabatrin when IME is observed.
+IME has been reported to be reversible following vigabatrin discontinuation, and it is therefore recommended to progressively discontinue vigabatrin when IME is observed.
 
 Movement disorders including dystonia, dyskinesia and hypertonia, have been reported in patients treated with vigabatrin for infantile spasms.
 The benefit/risk ratio of vigabatrin should be evaluated on an individual patient basis.
@@ -93,10 +95,10 @@ Psychiatric events (e.g., agitation, depression, abnormal thinking, paranoid rea
 These events occurred in patients with and without a psychiatric history and were usually reversible when vigabatrin doses were reduced or gradually discontinued.
 
 Suicidal ideation and behaviour
-
 Suicidal ideation and behaviour have been reported in patients treated with antiepileptic medicinal products in several indications.
 A meta-analysis of randomised placebo-controlled trials of antiepileptic medicinal products has also shown a small increased risk of suicidal ideation and behaviour.
 The mechanism of this effect is not known and the available data do not exclude the possibility of an increased risk for vigabatrin.
+
 Therefore, patients should be monitored for signs of suicidal ideation and behaviour, and appropriate treatment should be considered.
 Patients (and caregivers of patients) should be advised to seek medical advice immediately should signs of suicidal ideation or behaviour emerge.
 
@@ -108,11 +110,16 @@ These patients should be monitored closely for undesirable effects such as sedat
 Interference with serological testing
 
 Vigabatrin may lead to a decrease in measured plasma activity of alanine aminotransferase (ALT) and to a lesser extent, aspartate aminotransferase (AST).
-The magnitude of suppression for ALT has been reported to vary between 30% and 100%.
+The magnitude of suppression for ALT has been reported to vary between 30 % and 100 %.
 Therefore, these liver tests may be quantitatively unreliable in patients taking vigabatrin (see section 4.8).
 
 Vigabatrin may increase the amount of amino acids in the urine possibly leading to a false positive test for certain rare genetic metabolic disorders (e.g., alpha aminoadipic aciduria).
 
 Risk of medication error
+
 Because both tablet strengths (100 mg and 500 mg) can be used concomitantly there may be confusion between the tablets or tablet halves administered with a risk of incorrect dosing.
 Special attention should be paid to the tablet size to correctly identify the strength.
+
+Excipients
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.
