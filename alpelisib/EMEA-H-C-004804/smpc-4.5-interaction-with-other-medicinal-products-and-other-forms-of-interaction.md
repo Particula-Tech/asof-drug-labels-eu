@@ -16,11 +16,19 @@ In the absence of food, the effect was more pronounced with a 30% decrease in AU
 Population pharmacokinetic analysis showed no significant effect of co-administration of acid-reducing agents, including proton pump inhibitors, H2 receptor antagonists and antacids, on the pharmacokinetics of alpelisib.
 Therefore, alpelisib can be co-administered with acid-reducing agents, provided alpelisib is taken immediately after food (see section 4.2).
 
+CYP3A4 inducers
+Once-daily administration of 600 mg rifampin (a strong CYP3A4 inducer) for 7 days followed by co-administration with a single 300 mg oral dose of alpelisib on day 8, decreased alpelisib Cmax by 38% and AUC by 57% in healthy adults (N=25).
+Co-administration of rifampin 600 mg once daily for 15 days with alpelisib 300 mg once daily starting from day 8 to day 15 decreased the steady-state alpelisib Cmax by 59% and AUC by 74%.
+Co-administration with a strong CYP3A4 inducer decreases alpelisib AUC, which may reduce alpelisib efficacy.
+Co-administration of alpelisib with strong CYP3A4 inducers (e.g. apalutamide, carbamazepine, enzalutamide, mitotane, phenytoin, rifampin, St. John’s wort) should be avoided and selection of an alternative concomitant medicinal product, with no or minimal potential to induce CYP3A4, should be considered.
+
 Medicinal products whose plasma concentrations may be altered by alpelisib
 
 Based on the results of metabolic in vitro induction and inhibition studies, alpelisib may induce the metabolic clearance of co-administered medicinal products metabolised by CYP2B6, CYP2C9 and CYP3A and may inhibit the metabolic clearance of co-administered medicinal products metabolised by CYP2C8, CYP2C9, CYP2C19 and CYP3A4 (time-dependent inhibition) if sufficiently high concentrations are achieved in vivo.
+
 CYP3A4 substrates
 No dose adjustment is required when co-administering Piqray with CYP3A4 substrates (e.g. everolimus, midazolam).
+
 In a drug-drug interaction study, co-administration of alpelisib with everolimus, a sensitive CYP3A4 substrate, confirmed that there are no clinically significant pharmacokinetic interactions (increase in AUC by 11.2%) between alpelisib and CYP3A4 substrates.
 No change in everolimus exposure was observed at alpelisib doses ranging from 250 to 300 mg.
 

@@ -9,6 +9,7 @@ The most common ADRs (reported at a frequency >20% in the combined mutant and no
 The most common grade 3 or 4 ADRs (reported at a frequency ≥2%) were plasma glucose increased (39.1%), rash (19.4%), gamma-glutamyltransferase increased (12.0%), lymphocyte count decreased (9.2%), diarrhoea (7.0%), lipase increased (7.0%), hypokalaemia (6.3%), fatigue (5.6%), weight decreased (5.3%), anaemia (4.9%), hypertension (4.6%), alanine aminotransferase increased (4.2%), nausea (2.8%), creatinine increased (2.8%), stomatitis (2.5%), hypocalcaemia (2.1%) and mucosal inflammation (2.1%).
 
 The most common ADRs leading to treatment discontinuation were hyperglycaemia (6.3%), rash (4.2%), diarrhoea (2.8%) and fatigue (2.5%).
+
 Tabulated list of adverse reactions
 
 ADRs from the phase III clinical study and post-marketing experience (Table 7) are listed by MedDRA system organ class.

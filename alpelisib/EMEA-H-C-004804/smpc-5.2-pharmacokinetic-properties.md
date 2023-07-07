@@ -26,17 +26,17 @@ The volume of distribution of alpelisib at steady state (Vss/F) is estimated at 
 
 Biotransformation
 
-In vitro studies demonstrated that formation of the hydrolysis metabolite BZG791 by chemical and enzymatic amide hydrolysis was a major metabolic pathway, followed by minor contribution of CYP3A4.
+In vitro studies demonstrated that formation of the hydrolysis metabolite BZG791 by chemical and enzymatic amide hydrolysis was a major metabolic pathway, followed by CYP3A4-mediated hydroxylation.
 Alpelisib hydrolysis occurs systemically by both chemical decomposition and enzymatic hydrolysis via ubiquitously expressed, high-capacity enzymes (esterases, amidases, choline esterase) not limited to the liver.
 CYP3A4-mediated metabolites and glucuronides amounted to ~15% of the dose; BZG791 accounted for ~40-45% of the dose.
-The rest of the absorbed fraction of the dose was excreted as alpelisib.
+The rest of the dose, which was found as unchanged alpelisib in urine and faeces, was either excreted as alpelisib or not absorbed.
 
 Elimination
 
 Alpelisib exhibits low clearance with 9.2 l/h (CV% 21%) based on population pharmacokinetic analysis under fed conditions.
 The population-derived half-life, independent of dose and time, was 8 to 9 hours at steady state with 300 mg once daily.
 
-In a human mass-balance study, after oral administration, alpelisib and its metabolites were excreted in the faeces (81.0%), mainly through hepatobiliary export and/or intestinal secretion of alpelisib, or metabolised to BZG791.
+In a human mass-balance study, after oral administration, alpelisib and its metabolites were primarily found in the faeces (81.0%) as alpelisib, or metabolised as BZG791.
 Excretion in the urine is minor (13.5%), with unchanged alpelisib (2%).
 Following a single oral dose of [14C]-alpelisib, 94.5% of the total administered radioactive dose was recovered within 8 days.
 Linearity/non-linearity
@@ -50,9 +50,8 @@ CYP3A4 substrates
 In a drug-drug interaction study with the sensitive CYP3A4 substrate everolimus, AUC increased by 11.2%.
 No clinically meaningful change is expected as a result of drug interaction with CYP3A4 substrates.
 
-CYP3A4 inducers and inhibitors
-The effects of CPY3A4 inducers or inhibitors have not been evaluated in clinical studies.
-No clinically meaningful changes in overall exposure are expected as a result of the low fraction (<15%) metabolised by CYP3A4.
+CYP3A4 inducers
+In a drug-drug interaction study co-administration of alpelisib and rifampin, a strong CYP3A4 inducer, confirmed that there is a clinically significant pharmacokinetic interaction between alpelisib and strong CYP3A4 inducers (see section 4.5).
 
 Transporter-based interaction
 

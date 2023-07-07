@@ -77,10 +77,10 @@ Using a data cut-off date of 12-Jun-2018, PFS results for the subgroup of endocr
 The number of endocrine sensitive patients with a PIK3CA mutation was limited (n=39) and the results should be interpreted with caution.
 
 Using a data cut-off date of 12-Jun-2018, the overall response rate in patients with measurable disease at baseline was 35.7% (95% CI: 27.4, 44.7) in the alpelisib plus fulvestrant arm and 16.2% (95% CI: 10.4, 23.5) in the placebo plus fulvestrant arm.
+
 At the time when the final OS analysis was conducted (data cut-off date of 23-Apr-2020) a descriptive follow-up efficacy analysis for PFS data was performed.
 With a median duration from randomisation to data cut-off of approximately 42 months, the reported PFS results were consistent with those from the primary PFS analysis.
 There was an estimated 36% risk reduction of progression or death in favour of treatment with alpelisib plus fulvestrant (HR=0.64; 95% CI: 0.50, 0.81) (Figure 1).
-
 Figure 1 Study C2301 - Kaplan-Meier plot of PFS per investigator assessment (FAS, PIK3CA mutant cohort): descriptive update with data cut-off date of 23-Apr-2020
 
 100 Censoring times Censoring Times
