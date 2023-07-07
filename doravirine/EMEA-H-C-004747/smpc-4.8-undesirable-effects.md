@@ -1,13 +1,14 @@
 # 4.8 Undesirable effects
 
 Summary of the safety profile
-The most frequently reported adverse reactions considered possibly or probably related to doravirine were nausea (4 %) and headache (3 %).
+
+In phase 3 clinical trials with doravirine plus 2 NRTIs, the most frequently reported adverse reactions were nausea (4 %) and headache (3 %).
 
 Tabulated summary of adverse reactions
-The adverse reactions with suspected (at least possible) relationship to treatment are listed below by body system organ class and frequency.
-Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100) or rare (≥ 1/10,000 to < 1/1,000).
 
+The adverse reactions with doravirine plus 2 NRTIs from Phase 3 clinical trials (DRIVE FORWARD, DRIVE SHIFT and DRIVE AHEAD) are listed below by body system organ class and frequency.
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100) or rare (≥ 1/10 000 to < 1/1 000).
 Table 2: Tabulated summary of adverse reactions associated with doravirine used in combination with other antiretrovirals
 
 | Frequency | Adverse reactions |
@@ -52,10 +53,12 @@ Table 2: Tabulated summary of adverse reactions associated with doravirine used 
 | 1insomnia includes: insomnia, initial insomnia and sleep disorder 2depression includes: depression, depressed mood, major depression, and persistent depressive disorder 3anxiety includes: anxiety and generalised anxiety disorder 4abdominal pain includes: abdominal pain, and abdominal pain upper 5abdominal discomfort includes: abdominal discomfort, and epigastric discomfort 6faeces soft includes: faeces soft and abnormal faeces 7gastrointestinal motility disorder includes: gastrointestinal motility disorder, and frequent bowel movements 8rash includes: rash, rash macular, rash erythematous, rash generalised, rash maculo-papular, rash papular, and urticarial 9alanine aminotransferase increased includes: alanine aminotransferase increased and hepatocellular injury |  |
 
 Immune reactivation syndrome
+
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.
 Autoimmune disorders (such as Graves’ disease and autoimmune hepatitis) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
 
 Paediatric population
+
 The safety of doravirine as a component of doravirine/lamivudine/tenofovir disoproxil was evaluated in 45 HIV-1 infected virologically suppressed or treatment-naïve paediatric patients 12 to less than 18 years of age through Week 48 in an open-label trial (IMPAACT 2014 (Protocol 027)).
 The safety profile in paediatric subjects was similar to that in adults.
 

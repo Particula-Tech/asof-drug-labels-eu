@@ -16,10 +16,10 @@ Missed dose
 If the patient misses a dose of Pifeltro within 12 hours of the time it is usually taken, the patient should take as soon as possible and resume the normal dosing schedule.
 If a patient misses a dose by more than 12 hours, the patient should not take the missed dose and instead take the next dose at the regularly scheduled time.
 The patient should not take 2 doses at one time.
-
 Special populations
+
 Elderly
-No dose adjustment of doravirine is needed in elderly patients (see section 5.2).
+No dose adjustment of doravirine is required in elderly patients (see section 5.2).
 
 Renal impairment
 No dose adjustment of doravirine is required in patients with mild, moderate, or severe renal impairment.
@@ -32,6 +32,7 @@ Therefore, caution is advised when doravirine is administered to patients with s
 
 Paediatric population
 Safety and efficacy of Pifeltro in children aged less than 12 years or weighing less than 35 kg have not been established.
+No data are available.
 
 Method of administration
 

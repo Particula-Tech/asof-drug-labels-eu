@@ -1,6 +1,7 @@
 # 6.1 List of excipients
 
 Tablet core
+
 Croscarmellose sodium (E468)
 Hypromellose acetate succinate
 Lactose monohydrate
@@ -9,6 +10,7 @@ Microcrystalline cellulose (E460)
 Silica, colloidal anhydrous (E551)
 
 Film-coating
+
 Carnauba wax (E903)
 Hypromellose (E464)
 Lactose monohydrate
