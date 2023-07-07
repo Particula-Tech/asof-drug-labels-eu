@@ -25,3 +25,8 @@ Midazolam should be avoided in patients with a medical history of alcohol or dru
 Amnesia
 
 Midazolam may cause anterograde amnesia.
+
+Excipients
+
+Sodium
+This medicine contains less than 1 mmol sodium (23 mg) per oral syringe, that is to say essentially ‘sodium-free’.

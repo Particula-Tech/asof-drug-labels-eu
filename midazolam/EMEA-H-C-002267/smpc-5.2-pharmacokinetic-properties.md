@@ -37,7 +37,6 @@ Midazolam is almost entirely eliminated by biotransformation.
 The fraction of the dose extracted by the liver has been estimated to be 30-60%.
 Midazolam is hydroxylated by the cytochrome P4503A4 isozyme and the major urinary and plasma metabolite is alpha-hydroxy-midazolam.
 Following oromucosal administration in children the area under the curve ratio for alpha-hydroxy midazolam to midazolam is 0.46.
-
 In a population pharmacokinetic study, the metabolite levels are shown to be higher in younger than older paediatric patients and thus likely to be of more importance in children than in adults.
 
 Elimination
@@ -46,6 +45,7 @@ Plasma clearance of midazolam in children following oromucosal administration is
 The initial and terminal elimination half-lives are 27 and 204 minutes, respectively.
 Midazolam is excreted mainly by the renal route (60-80% of the injected dose) and recovered as glucuroconjugated alpha-hydroxy-midazolam.
 Less than 1% of the dose is recovered in urine as unchanged medicinal product.
+
 Pharmacokinetics in special populations
 
 Obese
