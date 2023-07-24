@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Selective immunosuppressants, ATC code: L04AA25
+Pharmacotherapeutic group: Selective immunosuppressants, ATC code: L04AJ01
 
 Soliris is a recombinant humanised monoclonal IgG2/4k antibody that binds to the human C5 complement protein and inhibits the activation of terminal complement.
 The Soliris antibody contains human constant regions and murine complementarity-determining regions grafted onto the human framework light- and heavy-chain variable regions.
@@ -8,6 +8,7 @@ Soliris is composed of two 448 amino acid heavy chains and two 214 amino acid li
 
 Soliris is produced in a murine myeloma (NS0 cell line) expression system and purified by affinity and ion exchange chromatography.
 The bulk drug substance manufacturing process also includes specific viral inactivation and removal steps.
+
 Mechanism of action
 
 Eculizumab, the active ingredient in Soliris, is a terminal complement inhibitor that specifically binds to the complement protein C5 with high affinity, thereby inhibiting its cleavage to C5a and C5b and preventing the generation of the terminal complement complex C5b-9.
@@ -38,6 +39,7 @@ Patients received meningococcal vaccination prior to receipt of Soliris.
 In all studies, the dose of eculizumab was 600 mg every 7 ± 2 days for 4 weeks, followed by 900 mg 7 ± 2 days later, then 900 mg every 14 ± 2 days for the study duration.
 Soliris was administered as an intravenous infusion over 25 – 45 minutes (35 minutes ± 10 minutes).
 An observational non-interventional Registry in patients with PNH (M07-001) was also initiated to characterize the natural history of PNH in untreated patients and the clinical outcomes during Soliris treatment.
+
 In study C04-001 (TRIUMPH) PNH patients with at least 4 transfusions in the prior 12 months, flow cytometric confirmation of at least 10% PNH cells and platelet counts of at least 100,000/microliter were randomized to either Soliris (n = 43) or placebo (n = 44).
 Prior to randomization, all patients underwent an initial observation period to confirm the need for RBC transfusion and to identify the haemoglobin concentration (the "set-point") which would define each patient’s haemoglobin stabilization and transfusion outcomes.
 The haemoglobin set-point was less than or equal to 9 g/dL in patients with symptoms and was less than or equal to 7 g/dL in patients without symptoms.
@@ -76,6 +78,7 @@ Because of the study sample size and duration, the effects of Soliris on thrombo
 In SHEPHERD study, 96 of the 97 enrolled patients completed the study (one patient died following a thrombotic event).
 A reduction in intravascular haemolysis as measured by serum LDH levels was sustained for the treatment period and resulted in increased transfusion avoidance, a reduced need for RBC transfusion and less fatigue.
 See Table 3.
+
 Table 3: Efficacy Outcomes in C04-001 and C04-002
 
 |  | C04-001 |  |  | C04-002* |  |  |
@@ -142,6 +145,7 @@ TMA interventions were defined as PE/PI or new dialysis.
 Haematologic normalization was defined as normalization of platelet counts and LDH levels sustained for ≥2 consecutive measurements for ≥4 weeks.
 Complete TMA response was defined as haematologic normalization and a ≥25% reduction in serum creatinine sustained in ≥ 2 consecutive measurements for ≥ 4 weeks.
 Baseline characteristics are shown in Table 5.
+
 Table 5: Patient Demographics and Characteristics in C08-002A/B and C08-003A/B
 
 | Parameter | C08-002A/B | C08-003A/B |
@@ -188,8 +192,7 @@ Table 6: Efficacy Outcomes in Prospective aHUS Studies C08-002A/B and C08-003A/B
 |  | At 26 weeks | At 2 years1 | At 26 weeks | At 2 years1 |
 | Normalization of platelet count All patients, n (%) (95% CI) Patients with abnormal baseline, n/n (%) | 14 (82) (57-96) 13/15 (87) | 15 (88) (64-99) 13/15 (87) | 18 (90) (68-99) 1/3 (33) | 18 (90) (68-99) 1/3 (33) |
 | TMA event-free status, n (%) (95% CI) | 15 (88) (64-99) | 15 (88) (64-99) | 16 (80) (56-94) | 19 (95) (75-99) |
-| TMA intervention rate Daily pre-eculizumab rate, median (min, max) Daily during-eculizumab rate, median (min, max) P-value | 0.88 (0.04, 1.59) | 0.88 (0.04, 1.59) | 0.23 (0.05, 1.09) | 0.23 (0.05, 1.09) |
-|  | 0 (0, 0.31) | 0 (0, 0.31) | 0 | 0 |
+| TMA intervention rate Daily pre-eculizumab rate, median (min, max) Daily during-eculizumab rate, median (min, max) P-value | 0.88 (0.04, 1.59) 0 (0, 0.31) | 0.88 (0.04, 1.59) 0 (0, 0.31) | 0.23 (0.05, 1.09) 0 | 0.23 (0.05, 1.09) 0 |
 |  | P<0.0001 | P<0.0001 | P <0.0001 | P<0.0001 |
 | CKD improvement by ≥1 stage, n (%) (95% CI) | 10 (59) (33-82) | 12 (71) (44-90) | 7 (35) (15-59) | 12 (60) (36-81) |
 | eGFR change mL/min/1.73 m2: median (range) | 20 (-1, 98) | 28 (3, 82) | 5 (-1, 20) | 11 (-42, 30) |
@@ -302,7 +305,7 @@ Table 10: ECU-MG-301 Efficacy Outcomes Change from Baseline to Week 26
 | MGC | -8.1 (0.96) | -4.8 (0.94) | -3.4 (-6.0, -0.7) | 0.0134 |
 | MG-QoL-15 | -12.6 (1.52) | -5.4 (1.49) | -7.2 (-11.5, -3.0) | 0.0010 |
 
-SEM= Standard Error of the Mean CI= Confidence Interval, MGC= Myasthenia Gravis Composite, MG-QoL15= Myasthenia Gravis Qualtiy of Life 15
+SEM= Standard Error of the Mean CI= Confidence Interval, MGC= Myasthenia Gravis Composite, MG-QoL15= Myasthenia Gravis Quality of Life 15
 
 In Study ECU-MG-301, a clinical responder in the MG-ADL total score was defined as having at least a 3-point improvement.
 The proportion of clinical responders at Week 26 with no rescue therapy was 59.7% on Soliris compared with 39.7% on placebo (p=0.0229).
@@ -422,11 +425,11 @@ Compared to placebo-treated patients, Soliris-treated patients had reduced annua
 
 The distribution of changes from Baseline to End of Study on other secondary endpoints favored eculizumab treatment over placebo across all neurologic disability (EDSS score [p=0.0597] and mRS [nominal p=0.0154]), functional disability (HAI [nominal p=0.0002]) and quality of life (EQ-5D VAS [nominal p=0.0309] and EQ-5D Index [nominal p= 0.0077]) measures.
 
-An interim analysis of Study ECU-NMO-302 demonstrates a significant and clinically meaningful reduction in On-trial ARR (as determined by the Treating Physician) on eculizumab treatment, based on the median (min, max) change (-1.829 [-6.38, 1.63], p<0.0001) from historical ARR (24 months prior to screening in Study ECU-NMO-301).
+The final analysis of Study ECU-NMO-302 demonstrates a significant and clinically meaningful reduction in On-trial ARR (as determined by the Treating Physician) on eculizumab treatment, based on the median (min, max) change (-1.825 [-6.38, 1.02], p<0.0001) from historical ARR (24 months prior to screening in Study ECU-NMO-301).
 
 In Study ECU-NMO-302, physicians had the option to adjust background immunosuppressant therapies.
-In this setting, the most common change in immunosuppressant therapy was decreased immunosuppressant therapy dose, which occurred in 18.5% of patients.
-Further, 6.7% of patients stopped an existing IST.
+In this setting, the most common change in immunosuppressant therapy was decreased immunosuppressant therapy dose, which occurred in 21.0% of patients.
+Further, 15.1% of patients stopped an existing IST.
 
 Soliris (eculizumab) has not been studied for the treatment of acute relapses in NMOSD patients.
 
@@ -537,8 +540,61 @@ At the last evaluation, 19 of 22 patients (86%) achieved eGFR improvement of ≥
 No patient required new dialysis with Soliris.
 
 Refractory Generalized Myasthenia Gravis
-Soliris has not been evaluated in paediatric patients with refractory gMG.
-The European Medicines Agency has deferred the obligation to submit the results of studies with Soliris in one or more subsets of the paediatric population in the treatment of refractory gMG (see section 4.2 for information on paediatric use).
+
+A total of 11 paediatric patients with refractory gMG received Soliris in study ECU-MG-303.
+The median (range) body weight of the treated patients was 59.7 kg (37.2 to 91.2 kg) at baseline, and the median (range) age of 15 years (12 to 17 years) at screening.
+All patients included in the study were patients with refractory gMG who had one or more of the following:
+1.
+Failed treatment ≥ 1 year with at least 1 IST, defined as: (i) Persistent weakness with impairment of activities of daily living, or (ii) Myasthenia gravis exacerbation and/or crisis while on treatment, or (iii) Intolerance to ISTs due to side effect or comorbid condition(s).
+2.
+Require maintenance PE or IVIg to control symptoms (ie, patients who require PE or IVIg on a regular basis for the management of muscle weakness at least every 3 months over the last 12 months prior to screening).
+The baseline characteristics of the paediatric patients with refractory gMG enrolled in study ECU-MG-303 are outlined in Table 19.
+
+Table 19: Patient Demographic and Characteristics in Study ECU-MG-303
+
+|  | Eculizumab (n = 11) |  |
+| --- | --- | --- |
+| Female | n (%) | 9 (81.8%) |
+| Duration of MG (time from MG diagnosis to first study drug date [years]) | Mean (SD) Median (min, max) | 3.99 (2.909) 2.90 (0.1, 8.8) |
+| Baseline MG-ADL total score | Mean (SD) Median (min, max) | 5.0 (5.25) 4.0 (0, 19) |
+| Baseline QMG total score | Mean (SD) Median (min, max) | 16.7 (5.64) 15.0 (10, 28) |
+| MGFA classification at Screening IIa IIb IIIa IIIb IVa IVb | n (%) | 2 (18.2) 3 (27.3) 3 (27.3) 0 3 (27.3) 0 |
+| Patients with prior MG exacerbation including MG crisis since diagnosis No Yes Exacerbation MG crisis | n (%) | 4 (36.4) 7 (63.6) 6 (54.5) 3 (27.3) |
+| Chronic IVIg therapy at study entry Yes No | n (%) | 6 (54.5) 5 (45.5) |
+| Number of immunosuppressant therapies at Baseline 0 1 2 | n (%) | 2 (18.2) 4 (36.4) 5 (45.5) |
+| Patients with any immunosuppressant therapiesa at Baseline n (%) Corticosteroids Azathioprine Mycophenolate mofetil Tacrolimus | n (%) | 8 (72.7) 1 (9.1) 2 (18.2) 3 (27.3) |
+
+aImmunosuppressant therapies included corticosteroids, azathioprine, cyclophosphamide, cyclosporine, methotrexate, mycophenolate mofetil, or tacrolimus.
+No patient received cyclosporine, cyclophosphamide, or methotrexate at Baseline.
+Abbreviations: IVIg = intravenous immunoglobulin; max = maximum; MG = myasthenia gravis;
+MG-ADL = Myasthenia Gravis Activities of Daily Living profile; MGFA = Myasthenia Gravis Foundation of America; min = minimum; QMG = Quantitative Myasthenia Gravis score for disease severity; SD = standard deviation
+
+The primary endpoint of study ECU-MG-303 was the change from baseline in the QMG total score over time regardless of rescue therapy.
+Paediatric patients treated with Soliris demonstrated a statistically significant improvement from baseline in QMG total score throughout the Primary Evaluation Treatment Period of 26 weeks.
+The results for the primary and main secondary endpoint in study ECU-MG-303 are included in Table 20.
+The efficacy of Soliris treatment in paediatric patients with refractory gMG was consistent with that observed in adult patients with refractory gMG enrolled in the pivotal study ECU-MG-301 (Table 10).
+
+Table 20: Efficacy Outcomes in Study ECU-MG-303
+
+| Efficacy Endpoints: Total Score Change from Baseline at Week 26 | LS Mean (SEM) 95% CI |
+| --- | --- |
+| QMG | -5.8 (1.2) (-8.40, -3.13) na = 10 |
+| MG-ADL total score | -2.3 (0.6) (-3.63, -1.03) na = 10 |
+| MGC total score | -8.8 (1.9) (-12.93, -4.69) na = 9 |
+
+an is the number of patients at Week 26
+Abbreviations: CI = confidence interval; LS = least squares; MG-ADL = Myasthenia Gravis Activities of Daily Living profile; MGC = Myasthenia Gravis Composite; QMG = Quantitative Myasthenia Gravis score for disease severity; SEM = standard error of mean; VAS = visual analog scale
+
+In study ECU-MG-303, a clinical responder in the QMG and MG-ADL total scores was defined as having at least a 5-point improvement and 3-point improvement from baseline, respectively.
+The proportion of clinical responders in the QMG and MG-ADL total scores at Week 26 regardless of rescue therapy was 70% and 50%, respectively.
+The 10 patients who completed their visit at Week 26 achieved improved status of MGFA Post-Interventional Status (MGFA-PIS) at Week 26.
+Seven (70%) patients achieved minimal manifestation of refractory gMG at Week 26.
+
+An event of clinical deterioration (MG crisis) was observed in 1 patient (9.1%) during the Primary Evaluation Treatment Period requiring rescue therapy (PE) which was administered between the Week 22 and Week 24 study visits.
+As a result and due to physician decision, this patient did not have QMG, MG-ADL or other efficacy assessments after Week 20 and did not enter the extension period. .
+
+During the Primary Evaluation Treatment Period in paediatric patients with refractory gMG (study ECU-MG-303), 1 out of 11 patients (9.1%) decreased daily dose of anticholinesterase and 3 out of 11 patients (27.3%) decreased their daily dose of corticosteroid, due to improved MG symptoms.
+.
 
 Neuromyelitis Optica Spectrum Disorder
 Soliris has not been evaluated in paediatric patients with NMOSD.

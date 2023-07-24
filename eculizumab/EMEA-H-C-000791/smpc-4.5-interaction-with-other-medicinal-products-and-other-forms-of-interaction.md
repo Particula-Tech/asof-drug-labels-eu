@@ -3,4 +3,12 @@
 No interaction studies have been performed.
 Based on the potential inhibitory effect of eculizumab on complement-dependent cytotoxicity of rituximab, eculizumab may reduce the expected pharmacodynamic effects of rituximab.
 
-Chronic intravenous human immunoglobulin (IVIg) treatment may interfere with the endosomal neonatal Fc receptor (FcRn) recycling mechanism of monoclonal antibodies such as eculizumab and thereby decrease serum eculizumab concentrations.
+Plasma exchange (PE), plasmapheresis (PP), fresh frozen plasma infusion (PI) and intravenous immunoglobulin (IVIg) have been shown to reduce eculizumab serum levels.
+A supplemental dose of eculizumab is required in these settings.
+See Section 4.2 for guidance in case of concomitant PE, PP, PI, or IVIg treatment.
+
+Concomitant use of eculizumab with intravenous immunoglobulin (IVIg) may reduce effectiveness of eculizumab.
+Closely monitor for reduced effectiveness of eculizumab.
+
+Concomitant use of eculizumab with neonatal Fc receptor (FcRn) blockers may lower systemic exposures and reduce effectiveness of eculizumab.
+Closely monitor for reduced effectiveness of eculizumab.
