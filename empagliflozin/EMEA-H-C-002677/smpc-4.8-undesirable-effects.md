@@ -15,21 +15,27 @@ The EMPEROR studies included patients with heart failure and either reduced ejec
 Approximately half of the patients had type 2 diabetes mellitus.
 The most frequent adverse reaction of the pooled EMPEROR-Reduced and EMPEROR-Preserved studies was volume depletion (empagliflozin 10 mg: 11.4%. placebo: 9.7%).
 
+Chronic kidney disease
+The EMPA-KIDNEY study included patients with chronic kidney disease (N = 6 609) treated with 10 mg empagliflozin or placebo.
+About 44% of the patients had type 2 diabetes mellitus.
+The most frequent adverse events in the EMPA-KIDNEY study were gout (empagliflozin 7.0% vs placebo 8.0%), and acute kidney injury (empagliflozin 2.8% vs placebo 3.5%) which were more frequently reported in patients on placebo.
+
 The overall safety profile of empagliflozin was generally consistent across the studied indications.
+
 Tabulated list of adverse reactions
 
-Adverse reactions classified by system organ class and MedDRA preferred terms reported in patients who received empagliflozin in placebo-controlled studies are presented in the table below (Table 2).
+Adverse reactions classified by system organ class and MedDRA preferred terms reported in patients who received empagliflozin in placebo-controlled studies are presented in the table below (Table 1).
 
 The adverse reactions are listed by absolute frequency.
 Frequencies are defined as very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1 000 to <1/100), rare (≥1/10 000 to <1/1 000), or very rare (<1/10 000), and not known (cannot be estimated from the available data).
 
-Table 2: Tabulated list of adverse reactions (MedDRA) from reported placebo-controlled studies and from post-marketing experience
+Table 1: Tabulated list of adverse reactions (MedDRA) from reported placebo-controlled studies and from post-marketing experience
 
 | System organ class | Very common | Common | Uncommon | Rare | Very Rare |
 | --- | --- | --- | --- | --- | --- |
 | Infections and infestations |  | Vaginal moniliasis, vulvovaginitis, balanitis and other genital infectiona Urinary tract infection (including pyelonephritis and urosepsis)a |  | Necrotising fasciitis of the perineum (Fournier´s gangrene)* |  |
-| Metabolism and nutrition disorders | Hypoglycaemia (when used with sulphonylurea or insulin)a | Thirst | Diabetic ketoacidosis* |  |  |
-| Gastrointestin al disorders |  | Constipation |  |  |  |
+| Metabolism and nutrition disorders | Hypoglycaemia (when used with sulphonylurea or insulin)a | Thirst | Ketoacidosis* |  |  |
+| Gastrointestinal disorders |  | Constipation |  |  |  |
 | Skin and subcutaneous tissue disorders |  | Pruritus (generalised) Rash | Urticaria Angioedema |  |  |
 | Vascular disorders | Volume depletiona |  |  |  |  |
 | Renal and urinary disorders |  | Increased urinationa | Dysuria |  | Tubulo-interstitial nephritis |
@@ -37,7 +43,6 @@ Table 2: Tabulated list of adverse reactions (MedDRA) from reported placebo-cont
 
 a see subsections below for additional information
 * see section 4.4
-
 Description of selected adverse reactions
 
 Hypoglycaemia
@@ -63,7 +68,6 @@ Increased urination
 Increased urination (including the predefined terms pollakiuria, polyuria, and nocturia) was observed at higher frequencies in patients treated with empagliflozin (empagliflozin 10 mg: 3.5%, empagliflozin 25 mg: 3.3%) compared to placebo (1.4%).
 Increased urination was mostly mild or moderate in intensity.
 The frequency of reported nocturia was similar for placebo and empagliflozin (<1%).
-
 In the EMPEROR heart failure studies, increased urination was observed at similar frequencies in patients treated with empagliflozin and placebo (empagliflozin 10 mg: 0.9%, placebo 0.5%).
 
 Urinary tract infection
@@ -82,6 +86,7 @@ Initial increases in creatinine and initial decreases in estimated glomerular fi
 Consistently, in the EMPA-REG OUTCOME study, patients treated with empagliflozin experienced an initial fall in eGFR (mean: 3 ml/min/1.73 m2).
 Thereafter, eGFR was maintained during continued treatment.
 Mean eGFR returned to baseline after treatment discontinuation suggesting acute haemodynamic changes may play a role in these renal function changes.
+This phenomenon is also observed in the EMPEROR heart failure studies and the EMPA-KIDNEY study.
 
 Serum lipids increased
 Mean percent increases from baseline for empagliflozin 10 mg and 25 mg versus placebo, respectively, were total cholesterol 4.9% and 5.7% versus 3.5%; HDL-cholesterol 3.3% and 3.6% versus 0.4 %; LDL-cholesterol 9.5% and 10.0% versus 7.5%; triglycerides 9.2% and 9.9% versus 10.5%.

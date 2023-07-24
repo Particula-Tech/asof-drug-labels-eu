@@ -2,9 +2,10 @@
 
 Ketoacidosis
 
-Rare cases of ketoacidosis, including life-threatening and fatal cases, have been reported in patients with diabetes mellitus treated with SGLT2 inhibitors, including empagliflozin.
+Cases of ketoacidosis, including life-threatening and fatal cases, have been reported in patients with diabetes mellitus treated with SGLT2 inhibitors, including empagliflozin.
 In a number of cases, the presentation of the condition was atypical with only moderately increased blood glucose values, below 14 mmol/l (250 mg/dl).
 It is not known if ketoacidosis is more likely to occur with higher doses of empagliflozin.
+Although ketoacidosis is less likely to occur in patients without diabetes mellitus, cases have also been reported in these patients.
 
 The risk of ketoacidosis must be considered in the event of non-specific symptoms such as nausea, vomiting, anorexia, abdominal pain, excessive thirst, difficulty breathing, confusion, unusual fatigue or sleepiness.
 Patients should be assessed for ketoacidosis immediately if these symptoms occur, regardless of blood glucose level.
@@ -28,14 +29,12 @@ Data from a clinical trial program in patients with type 1 diabetes showed incre
 
 Renal impairment
 
-For the indication of type 2 diabetes mellitus, in patients with an eGFR below 60 ml/min/1.73 m2 or CrCl <60 ml/min the daily dose of empagliflozin is limited to 10 mg (see section 4.2).
-Empagliflozin is not recommended when eGFR is below 30 ml/min/1.73 m2 or CrCl below 30 ml/min.
+Due to limited experience, it is not recommended to initiate treatment with empagliflozin in patients with an eGFR <20 ml/min/1.73 m2.
+In patients with an eGFR <60 ml/min/1.73 m2 the daily dose of empagliflozin is 10 mg (see section 4.2).
 
-For the indication of heart failure, Jardiance is not recommended in patients with eGFR
-<20 ml/min/1.73 m2.
+The glucose lowering efficacy of empagliflozin is dependent on renal function, and is reduced in patients with an eGFR <45 ml/min/1.73 m2 and is likely absent in patients with an eGFR
+<30 ml/min/1.73 m2 (see section 4.2, 5.1 and 5.2).
 
-Empagliflozin should not be used in patients with ESRD or in patients on dialysis.
-There are insufficient data to support use in these patients (see sections 4.2, 5.1 and 5.2).
 Monitoring of renal function
 Assessment of renal function is recommended as follows:
 
@@ -70,12 +69,12 @@ This is a rare but serious and potentially life-threatening event that requires 
 Patients should be advised to seek medical attention if they experience a combination of symptoms of pain, tenderness, erythema, or swelling in the genital or perineal area, with fever or malaise.
 Be aware that either uro-genital infection or perineal abscess may precede necrotising fasciitis.
 If Fournier´s gangrene is suspected, Jardiance should be discontinued and prompt treatment (including antibiotics and surgical debridement) should be instituted.
-
 Lower limb amputations
 
 An increase in cases of lower limb amputation (primarily of the toe) has been observed in long-term clinical studies with another SGLT2 inhibitor.
 It is unknown whether this constitutes a class effect.
 Like for all diabetic patients it is important to counsel patients on routine preventative foot-care.
+
 Hepatic injury
 
 Cases of hepatic injury have been reported with empagliflozin in clinical trials.
@@ -87,7 +86,6 @@ Haematocrit increase was observed with empagliflozin treatment (see section 4.8)
 
 Chronic kidney disease
 
-There is experience with empagliflozin for the treatment of diabetes in patients with chronic kidney disease (eGFR ≥30 mL/min/1.73 m2) both with and without albuminuria.
 Patients with albuminuria may benefit more from treatment with empagliflozin.
 
 Infiltrative disease or Takotsubo cardiomyopathy

@@ -18,7 +18,6 @@ Empagliflozin did not increase the incidence of tumours in female mice at doses 
 Empagliflozin induced renal tumours in male mice at 1 000 mg/kg/day, but not at 300 mg/kg/day, which corresponds to approximately 11-times the maximal clinical exposure to empagliflozin.
 The mode of action for these tumours is dependent on the natural predisposition of the male mouse to renal pathology and a metabolic pathway not reflective of humans.
 The male mouse renal tumours are considered not relevant to humans.
-
 At exposures sufficiently in excess of exposure in humans after therapeutic doses, empagliflozin had no adverse effects on fertility or early embryonic development.
 Empagliflozin administered during the period of organogenesis was not teratogenic.
 Only at maternally toxic doses, empagliflozin also caused bent limb bones in the rat and increased embryofetal loss in the rabbit.
