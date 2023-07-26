@@ -32,11 +32,17 @@ Recommended dose modifications for TAGRISSO
 | Pulmonaryb | ILD/Pneumonitis | Discontinue TAGRISSO (see Section 4.4) |
 | Cardiacb | QTc interval greater than 500 msec on at least 2 separate ECGs | Withhold TAGRISSO until QTc interval is less than 481 msec or recovery to baseline if baseline QTc is greater than or equal to 481 msec, then restart at a reduced dose (40 mg) |
 |  | QTc interval prolongation with signs/symptoms of serious arrhythmia | Permanently discontinue TAGRISSO |
-| Cutaneousb | Stevens-Johnson Syndrome | Permanently discontinue TAGRISSO |
+| Cutaneousb | Stevens-Johnson Syndrome and Toxic epidermal necrolysis | Permanently discontinue TAGRISSO |
 | Blood and lymphatic systemb | Aplastic anaemia | Permanently discontinue TAGRISSO |
 | Other | Grade 3 or higher adverse reaction | Withhold TAGRISSO for up to 3 weeks |
-|  | If Grade 3 or higher adverse reaction improves to Grade 0-2 after withholding of TAGRISSO for up to 3 weeks | TAGRISSO may be restarted at the same dose (80 mg) or a lower dose (40 mg) |
-|  | Grade 3 or higher adverse reaction that does not improve to Grade 0-2 after withholding for up to 3 weeks | Permanently discontinue TAGRISSO |
+
+If Grade 3 or higher adverse reaction TAGRISSO may be restarted at the same dose
+improves to Grade 0-2 after (80 mg) or a lower dose (40 mg)
+withholding of TAGRISSO for up to
+3 weeks
+Grade 3 or higher adverse reaction Permanently discontinue TAGRISSO
+that does not improve to Grade 0-2
+after withholding for up to 3 weeks
 
 a Note: The intensity of clinical adverse events graded by the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4.0.
 b Refer to Section 4.4 Special warnings and special precautions for use for further details.

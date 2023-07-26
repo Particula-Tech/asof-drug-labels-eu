@@ -19,20 +19,21 @@ Severe, life-threatening or fatal ILD or ILD-like adverse reactions (e.g. pneumo
 Most cases improved or resolved with interruption of treatment.
 Patients with a past medical history of ILD, drug-induced ILD, radiation pneumonitis that required steroid treatment, or any evidence of clinically active ILD were excluded from clinical studies (see section 4.8).
 
-ILD or ILD-like adverse reactions were reported in 3.7% of the 1479 patients who received TAGRISSO in the ADAURA, FLAURA and AURA studies.
+ILD or ILD-like adverse reactions were reported in 3.8% of the 1479 patients who received TAGRISSO in the ADAURA, FLAURA and AURA studies.
 Five fatal cases were reported in the locally advanced or metastatic setting.
 No fatal cases were reported in the adjuvant setting.
-The incidence of ILD was 10.9% in patients of Japanese ethnicity, 1.6% in patients of Asian ethnicity and 2.5% in non-Asian patients (see section 4.8).
+The incidence of ILD was 11.3% in patients of Japanese ethnicity, 1.6% in patients of Asian ethnicity and 2.5% in non-Asian patients (see section 4.8).
 
 Careful assessment of all patients with an acute onset and/or unexplained worsening of pulmonary symptoms (dyspnoea, cough, fever) should be performed to exclude ILD.
 Treatment with this medicinal product should be interrupted pending investigation of these symptoms.
 If ILD is diagnosed, TAGRISSO should be discontinued and appropriate treatment initiated as necessary.
 Reintroduction of TAGRISSO should be considered only after careful consideration of the individual patient’s benefits and risk.
-Stevens-Johnson syndrome (SJS)
 
-Case reports of SJS have been reported rarely in association with TAGRISSO treatment.
-Before initiating treatment, patients should be advised of signs and symptoms of SJS.
-If signs and symptoms suggestive of SJS appear, TAGRISSO should be interrupted or discontinued immediately.
+Severe Cutaneous Adverse Reactions (SCARs)
+Case reports of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported with frequency categories of rare and not known, respectively, in association with TAGRISSO treatment.
+Before initiating treatment, patients should be advised of signs and symptoms of SJS and TEN.
+If signs and symptoms suggestive of SJS or TEN appear, TAGRISSO should be interrupted.
+TAGRISSO should be discontinued immediately if SJS or TEN are diagnosed.
 
 QTc interval prolongation
 

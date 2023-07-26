@@ -19,6 +19,7 @@ Distribution
 Population estimated mean volume of distribution at steady-state (Vss/F) of osimertinib is 918 L indicating extensive distribution into tissue.
 In vitro plasma protein binding of osimertinib is 94.7% (5.3% free).
 Osimertinib has also been demonstrated to bind covalently to rat and human plasma proteins, human serum albumin and rat and human hepatocytes.
+
 Biotransformation
 
 In vitro studies indicate that osimertinib is metabolised predominantly by CYP3A4, and CYP3A5.
@@ -55,7 +56,6 @@ Population PK analysis indicated that body weight was a significant covariate wi
 Taking the extremes of body weight into consideration, from <43 kg to >88 kg, AZ5104 metabolite ratios ranged from 11.8% to 9.6% while for AZ7550 it ranged from 12.8% to 8.1%, respectively.
 Based on population PK analysis, serum albumin was identified as a significant covariate with a <30% change in osimertinib AUCss expected across the albumin range of 29 to 46 g/L respectively (95% to 5% quantiles) when compared to the AUCss for the median baseline albumin of 39 g/L.
 These exposure changes due to body weight or baseline albumin differences are not considered clinically relevant.
-
 Hepatic impairment
 
 Osimertinib is eliminated mainly via the liver.
@@ -70,6 +70,9 @@ There are no data available on patients with severe hepatic impairment (see sect
 Renal impairment
 
 In a clinical study, patients with severe renal impairment (CLcr 15 to less than 30 mL/min; n=7) compared to patients with normal renal function (CLcr greater than or equal to 90 mL/min; n=8) after a single 80 mg oral dose of TAGRISSO showed a 1.85-fold increase in AUC (90% CI; 0.94, 3.64) and a 1.19-fold increase in Cmax (90% CI: 0.69, 2.07).
-Furthermore, based on a population pharmacokinetic analysis of 593 patients with mild renal impairment (CLcr 60 to less than 90 mL/min), 254 patients with moderate renal impairment (CLcr 30 to less than 60 mL/min),
-5 patients with severe renal impairment (CLcr 15 to less than 30 mL/min) and 502 patients with normal renal function (greater than or equal to 90 mL/min), osimertinib exposures were similar.
+Furthermore, based on a population pharmacokinetic analysis of 593 patients with mild renal impairment (CLcr 60 to less than 90 mL/min), 254 patients with moderate renal impairment (CLcr 30 to less than 60 mL/min), 5 patients with severe renal impairment (CLcr 15 to less than 30 mL/min) and 502 patients with normal renal function (greater than or equal to 90 mL/min), osimertinib exposures were similar.
 Patients with CLcr less than or equal to 10 mL/min were not included in the clinical studies.
+
+Patients with brain metastases
+
+PET images following administration of microdoses of [11C]osimertinib in EGFR mutation positive NSCLC patients with brain metastases (n=4) and healthy volunteers (n=7) demonstrated that the brain to plasma ratio (Kp) was similar and that [11C]osimertinib crossed the blood brain barrier rapidly and was homogeneously distributed across all regions of the brain in both patients and healthy volunteers.

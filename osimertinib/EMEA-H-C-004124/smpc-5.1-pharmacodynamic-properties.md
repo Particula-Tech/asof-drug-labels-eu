@@ -6,7 +6,6 @@ Mechanism of action
 
 Osimertinib is a Tyrosine Kinase Inhibitor (TKI).
 It is an irreversible inhibitor of EGFRs harboring sensitising-mutations (EGFRm) and TKI-resistance mutation T790M.
-
 Pharmacodynamic effects
 
 In vitro studies have demonstrated that osimertinib has high potency and inhibitory activity against EGFR across a range of all clinically relevant EGFR sensitising-mutant and T790M mutant NSCLC cell lines (apparent IC50s from 6 nM to 54 nM against phospho-EGFR).
@@ -22,6 +21,7 @@ A pharmacokinetic/pharmacodynamic analysis predicted a drug-related QTc interval
 Clinical efficacy and safety
 
 Adjuvant treatment of EGFR mutation positive NSCLC, with or without prior adjuvant chemotherapy – ADAURA
+
 The efficacy and safety of TAGRISSO for the adjuvant treatment of patients with EGFR mutation-positive (Ex19del or L858R) NSCLC who have had complete tumour resection with or without prior adjuvant chemotherapy was demonstrated in a randomised, double-blind, placebo-controlled study (ADAURA).
 
 Eligible patients with resectable tumors stage IB – IIIA (according to American Joint Commission on Cancer [AJCC] 7th edition) were required to have EGFR mutations (Ex19del or L858R), identified by the cobas EGFR Mutation Test performed prospectively using biopsy or surgical specimen in a central laboratory.
@@ -39,7 +39,6 @@ The baseline demographic and disease characteristics of the overall population w
 With regards to EGFR mutation status 55% were exon 19 deletions and 45% were exon 21 L858R substitution mutations; 9 patients (1%) also had a concurrent de novo T790M mutation.
 The majority (60%) of patients received adjuvant chemotherapy prior to randomization (26% IB; 71% IIA; 73% IIB; 80% IIIA).
 At the time of the data cut-off, 205 (61%) patients were still on active treatment; of the 73 (11%) patients who had the opportunity to complete the 3-year treatment period, 40 (12%) were in the osimertinib arm and 33 (10%) in the placebo arm.
-
 There were 37 patients who had disease recurrence on TAGRISSO.
 The most commonly reported sites of recurrence were: lung (19 patients); lymph nodes (10 patients) and central nervous system (CNS) (5 patients).
 There were 157 patients who had disease recurrence on placebo.
@@ -77,9 +76,11 @@ d The number of patients at risk at 36 months was 27 patients in the osimertinib
 Figure 1.
 Kaplan-Meier curve of disease-free survival in stage II-IIIA patients by investigator assessment
 
-TAGRISSO (N=233) Median NC
+TAGRISSO (N=233)
+Median NC
 
-Placebo (N=237) Median 19.6 months
+Placebo (N=237)
+Median 19.6 months
 
 Hazard Ratio = 0.17 99.06% CI (0.11, 0.26)
 
@@ -187,11 +188,11 @@ Median survival follow-up time was 35.8 months for patients receiving TAGRISSO a
 PFS, ORR, DoR, PFS2, TFST and TSST results are from data cut-off 12 June 2017.
 OS results are from data cut-off 25 June 2019.
 A HR <1 favours TAGRISSO, an Odds ratio of >1 favours TAGRISSO
-† Adjusted for an interim analysis (25% maturity) a p-value <0.0495 was required to achieve statistical significance 1 ORR results by Blinded Independent Central Review (BICR) were consistent with those reported via investigator assessment; ORR by BICR assessment was 78% (95% CI:73, 83) on TAGRISSO and 70% (95% CI:65, 76) on EGFR TKI comparator.
+† Adjusted for an interim analysis (25% maturity) a p-value <0.0495 was required to achieve statistical significance
+1 ORR results by Blinded Independent Central Review (BICR) were consistent with those reported via investigator assessment; ORR by BICR assessment was 78% (95% CI:73, 83) on TAGRISSO and 70% (95% CI:65, 76) on EGFR TKI comparator.
 
 Figure 3.
-Kaplan-Meier curves of progression-free survival as assessed by investigator in FLAURA
-Figure 4.
+Kaplan-Meier curves of progression-free survival as assessed by investigator in FLAURA Figure 4.
 Kaplan-Meier curves of overall survival in FLAURA
 
 TAGRISSO (N=279)
@@ -200,7 +201,8 @@ Median 38.6 months
 SoC (N=277)
 Median 31.8 months
 
-Hazard Ratio = 0.799 95.05% CI (0.641, 0.997) P-value 0.0462
+Hazard Ratio = 0.799
+95.05% CI (0.641, 0.997) P-value 0.0462
 
 TAGRISSO
 SoC
@@ -251,8 +253,7 @@ Compliance over the first 9 months was generally high (≥70%) and similar in bo
 Key lung cancer symptoms analysis
 
 Data collected from baseline up to month 9 showed similar improvements in TAGRISSO and EGFR TKI comparator groups for the five pre-specified primary PRO symptoms (cough, dyspnoea, chest pain, fatigue, and appetite loss) with improvement in cough reaching the established clinically relevant cut-off.
-Up to month 9 there were no clinically meaningful differences in patient-reported symptoms between TAGRISSO and EGFR TKI comparator groups (as assessed by a difference of
-≥10 points).
+Up to month 9 there were no clinically meaningful differences in patient-reported symptoms between TAGRISSO and EGFR TKI comparator groups (as assessed by a difference of ≥10 points).
 
 HRQL and physical functioning improvement analysis
 
@@ -306,8 +307,7 @@ All efficacy results based on RECIST investigator assessment
 1The final analysis of OS was performed at 67% maturity.
 The CI for the HR has been adjusted for previous interim analyses.
 The OS analysis was not adjusted for the potentially confounding effects of crossover (99 [71%] patients on the chemotherapy arm received subsequent osimertinib treatment).
-2 ORR and DoR results by investigator assessment were consistent with those reported via Blinded Independent Central Review (BICR); ORR by BICR assessment was 64.9% [95% CI: 59.0, 70.5] on osimertinib and 34.3 % [95% CI: 26.5, 42.8] on chemotherapy; DoR by BICR assessment was 11.2 months (95% CI: 8.3, NC) on osimertinib and 3.1 months
-(95% CI: 2.9, 4.3) on chemotherapy.
+2 ORR and DoR results by investigator assessment were consistent with those reported via Blinded Independent Central Review (BICR); ORR by BICR assessment was 64.9% [95% CI: 59.0, 70.5] on osimertinib and 34.3 % [95% CI: 26.5, 42.8] on chemotherapy; DoR by BICR assessment was 11.2 months (95% CI: 8.3, NC) on osimertinib and 3.1 months (95% CI: 2.9, 4.3) on chemotherapy.
 
 Figure 6.
 Kaplan-Meier curves of progression-free survival as assessed by investigator in AURA3
@@ -365,10 +365,10 @@ Mixed Model Repeated Measures – Key lung cancer symptoms - mean change from ba
 
 |  | Appetite Loss |  | Cough |  | Chest Pain |  | Dyspnoea |  | Fatigue |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Arms | TAGRISS O (279) | Chemo - therapy (140) | TAGRISS O (279) | Chemo - therapy (140) | TAGRISS O (279) | Chemo - therapy (140) | TAGRISS O (279) | Chemo - therapy (140) | TAGRISS O (279) | Chemo - therapy (140) |
+| Arms | TAGRISSO (279) | Chemo-therapy (140) | TAGRISSO (279) | Chemo-therapy (140) | TAGRISSO (279) | Chemo-therapy (140) | TAGRISSO (279) | Chemo-therapy (140) | TAGRISSO (279) | Chemo-therapy (140) |
 | N | 239 | 97 | 228 | 113 | 228 | 113 | 228 | 113 | 239 | 97 |
 | Adj Mean | -5.51 | 2.73 | -12.22 | -6.69 | -5.15 | 0.22 | -5.61 | 1.48 | -5.68 | 4.71 |
-| Estimated Differenc e (95%CI) | -8.24 (-12.88, 3.60) |  | -5.53 (-8.89, -2.17) |  | -5.36 (-8.20, -2.53) |  | -7.09 (-9.86, -4.33) |  | -10.39 (-14.55, -6.23) |  |
+| Estimated Difference (95%CI) | -8.24 (-12.88, 3.60) |  | -5.53 (-8.89, -2.17) |  | -5.36 (-8.20, -2.53) |  | -7.09 (-9.86, -4.33) |  | -10.39 (-14.55, -6.23) |  |
 | p-value | p <0.001 |  | p=0.001 |  | p<0.001 |  | p<0.001 |  | p<0.001 |  |
 
 Adjusted mean and estimated differences obtained from a Mixed Model Repeated Measures (MMRM) analysis.
@@ -376,8 +376,7 @@ The model included patient, treatment, visit, treatment-by-visit interaction, ba
 
 HRQL and physical functioning improvement analysis
 
-Patients on TAGRISSO had significantly greater chances of achieving a clinically meaningful improvement of greater than or equal to 10 points on the global health status and physical functioning of the EORTC-C30 questionnaire compared with chemotherapy during the study period Odds Ratio (OR) global health status: 2.11, (95% CI 1.24, 3.67, p=0.007); OR physical functioning 2.79 (95%
-CI 1.50, 5.46, p=0.002).
+Patients on TAGRISSO had significantly greater chances of achieving a clinically meaningful improvement of greater than or equal to 10 points on the global health status and physical functioning of the EORTC-C30 questionnaire compared with chemotherapy during the study period Odds Ratio (OR) global health status: 2.11, (95% CI 1.24, 3.67, p=0.007); OR physical functioning 2.79 (95% CI 1.50, 5.46, p=0.002).
 
 Pre-treated T790M positive NSCLC patients - AURAex and AURA2
 
@@ -400,7 +399,6 @@ In the 411 pre-treated EGFR T790M mutation-positive patients, the total ORR by B
 In patients with a confirmed response by BICR, the median DoR was 12.5 months (95% CI: 11.1, NE).
 The ORR by BICR in AURAex was 62% (95% CI: 55, 68) and 70% (95% CI: 63, 77) in AURA2.
 The median PFS was 11.0 months 95% CI (9.6, 12.4).
-
 Objective response rates by BICR above 50% were observed in all predefined subgroups analysed, including line of therapy, ethnicity, age and region.
 
 In the evaluable for response population, 85% (223/262) had documentation of response at the time of the first scan (6 weeks); 94% (247/262) had documentation of response at the time of the second scan (12 weeks).

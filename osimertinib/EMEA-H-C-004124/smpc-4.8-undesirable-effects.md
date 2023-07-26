@@ -35,9 +35,9 @@ Adverse reactions reported in ADAURA, FLAURA and AURA studiesa
 | Eye disorders | Keratitisc | Uncommon (0.7%) | 0.1% |
 | Cardiac disorders | Cardiac failure | Uncommon (0.3%) | 0.1% |
 | Respiratory, thoracic and mediastinal disorders | Epistaxis | Common (5%) | 0 |
-|  | Interstitial lung diseased | Common (3.7%)e | 1.1% |
-| Gastrointestinal disorders | Diarrhoea | Very common (47%) | 1.4% |
-|  | Stomatitisf | Very common (24%) | 0.5% |
+|  | Interstitial lung diseased | Common (3.8%)e | 1.1% |
+|  | Diarrhoea | Very common (47%) | 1.4% |
+| Gastrointestinal disorders | Stomatitisf | Very common (24%) | 0.5% |
 | Skin and subcutaneous tissue disorders | Rashg | Very common (45%) | 0.7% |
 |  | Paronychiah | Very common (33%) | 0.4% |
 |  | Dry skini | Very common (32%) | 0.1% |
@@ -47,24 +47,22 @@ Adverse reactions reported in ADAURA, FLAURA and AURA studiesa
 |  | Palmar-plantar erythrodysaesthesia syndrome | Common (1.7%) | 0 |
 |  | Erythema multiformek | Uncommon (0.3%) | 0 |
 |  | Cutaneous vasculitisl | Uncommon (0.3%) | 0 |
-|  | Stevens-Johnson syndromem | Rare (0.02%) |  |
-
-| MedDRA SOC | MedDRA term | CIOMS descriptor/ overall frequency (all CTCAE grades)b | Frequency of CTCAE grade 3 or higherb |
-| --- | --- | --- | --- |
-| Investigations | QTc interval prolongationn | Uncommon (0.8%) |  |
+|  | Toxic epidermal necrolysism | Not known |  |
+|  | Stevens-Johnson syndromen | Rare (0.02%) |  |
+| Investigations | QTc interval prolongationo | Uncommon (0.8%) |  |
 |  | Blood creatine phosphokinase increased | Common (1.6%) | 0.3% |
-|  | Left ventricular ejection fraction decreasedo,p | Common (3.2%) |  |
-| (Findings based on test results presented as CTCAE grade shifts) | Leucocytes decreasedo | Very common (65%) | 1.2% |
-|  | Lymphocytes decreasedo | Very common (62%) | 6% |
-|  | Platelet count decreasedo | Very common (53%) | 1.2% |
-|  | Neutrophils decreasedo | Very common (33%) | 3.2% |
-|  | Blood creatinine increasedo | Common (9%) | 0 |
+|  | Left ventricular ejection fraction decreasedp,q | Common (3.2%) |  |
+| (Findings based on test results presented as CTCAE grade shifts) | Leucocytes decreasedp | Very common (65%) | 1.2% |
+|  | Lymphocytes decreasedp | Very common (62%) | 6% |
+|  | Platelet count decreasedp | Very common (53%) | 1.2% |
+|  | Neutrophils decreasedp | Very common (33%) | 3.2% |
+|  | Blood creatinine increasedp | Common (9%) | 0 |
 | Musculoskeletal and connective tissue disorders | Myositis | Rare (0.07%) |  |
 
 a Data is pooled from ADAURA, FLAURA and AURA (AURA3, AURAex, AURA 2 and AURA1) studies; only events for patients receiving at least one dose of TAGRISSO as their randomised treatment are summarised.
 b National Cancer Institute Common Terminology Criteria for Adverse Events, version 4.0.
 c Includes: corneal epithelium defect, corneal erosion, keratitis, punctate keratitis.
-d Includes: interstitial lung disease, pneumonitis.
+d Includes: interstitial lung disease (1.8%), pneumonitis (1.9%), organising pneumonia (0.07%).
 e 5 CTCAE grade 5 events (fatal) were reported.
 f Includes: mouth ulceration, stomatitis.
 g Includes: acne, dermatitis, dermatitis acneiform, drug eruption, erythema, folliculitis, pustule, rash, rash erythematous, rash follicular, rash generalised, rash macular, rash maculo-papular, rash papular, rash pustular, rash pruritic, rash vesicular, skin erosion.
@@ -75,12 +73,14 @@ k Five of the 1479 patients in the ADAURA, AURA and FLAURA studies reported eryt
 Post-marketing reports of erythema multiforme have also been received, including 7 reports from a post-marketing surveillance study (N=3578).
 l Estimated frequency.
 The upper limit of the 95% CI for the point estimate is 3/1142 (0.3%).
-m One event was reported in a post-marketing study, and the frequency has been derived from the ADAURA, FLAURA and AURA studies and the post-marketing study (N=5057).
-n Representsthe incidence of patients who had a QTcF prolongation >500 msec.
+m Reported during post-marketing use.
+n One event was reported in a post-marketing study, and the frequency has been derived from the ADAURA, FLAURA and AURA studies and the post-marketing study (N=5057).
 
-- Represents the incidence of laboratory findings, not of reported adverse events.
+- Representsthe incidence of patients who had a QTcF prolongation >500 msec.
 
-p Represents decreases greater than or equal to 10 percentage points and a drop to less than 50%.
+p Represents the incidence of laboratory findings, not of reported adverse events.
+q Represents decreases greater than or equal to 10 percentage points and a drop to less than 50%.
+
 Description of selected adverse reactions
 
 Interstitial lung disease (ILD)
@@ -120,6 +120,7 @@ A consistent pattern in safety and efficacy results was observed in the analysis
 Low body weight
 
 Patients receiving TAGRISSO 80 mg with low body weight (<50 kg) reported higher frequencies of Grade ≥3 adverse events (46% versus 31%) and QTc prolongation (12% versus 5%) than patients with higher body weight (≥50 kg).
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
