@@ -53,66 +53,32 @@ Frequencies are defined as:
 very common (≥ 1/10) common (≥ 1/100 to < 1/10) uncommon (≥ 1/1,000 to < 1/100) rare (≥ 1/10,000 to < 1/1,000) very rare (< 1/10,000) not known (cannot be estimated from the available data)
 Table 3: All adverse reactions reported in adult patients in phase III clinical studies or through post-marketing use* and in two phase II and two phase III studies in paediatric patients
 
-Common Uncommon Rare Very rare Not known
-Blood and lymphatic system disorders
-Anaemia (incl. Thrombocytosis
-respective (incl. platelet count
-laboratory increased)A,
-parameters) thrombocytopenia
-Immune system disorders
-Allergic reaction, Anaphylactic
-dermatitis allergic, reactions including
-angioedema and anaphylactic shock
-allergic oedema
-Nervous system disorders
-Dizziness, Cerebral and
-headache intracranial
-haemorrhage,
-syncope
-Eye disorders
-Eye haemorrhage
-(incl. conjunctival
-haemorrhage)
-Cardiac disorders
-Tachycardia
-Vascular disorders
-Hypotension,
-haematoma
-Respiratory, thoracic and mediastinal disorders
-Epistaxis,
-haemoptysis
-Gastrointestinal disorders
-Gingival bleeding, Dry mouth
-gastrointestinal
-tract haemorrhage
-(incl. rectal
-haemorrhage),
-gastrointestinal and
-abdominal pains,
-dyspepsia, nausea,
-constipationA,
-diarrhoea,
-vomitingA
-Hepatobiliary disorders
-Increase in Hepatic Jaundice, bilirubin
-transaminases impairment, conjugated
-increased bilirubin, increased (with or
-increased blood without
-alkaline concomitant
-phosphataseA, increase of ALT),
-increased GGTA cholestasis,
-hepatitis (incl.
-hepatocellular
-injury)
-
 | Common | Uncommon | Rare | Very rare | Not known |
 | --- | --- | --- | --- | --- |
+| Blood and lymphatic system disorders |  |  |  |  |
+| Anaemia (incl. respective laboratory parameters) | Thrombocytosis (incl. platelet count increased)A, thrombocytopenia |  |  |  |
+| Immune system disorders |  |  |  |  |
+|  | Allergic reaction, dermatitis allergic, angioedema and allergic oedema |  | Anaphylactic reactions including anaphylactic shock |  |
+| Nervous system disorders |  |  |  |  |
+| Dizziness, headache | Cerebral and intracranial haemorrhage, syncope |  |  |  |
+| Eye disorders |  |  |  |  |
+| Eye haemorrhage (incl. conjunctival haemorrhage) |  |  |  |  |
+| Cardiac disorders |  |  |  |  |
+|  | Tachycardia |  |  |  |
+| Vascular disorders |  |  |  |  |
+| Hypotension, haematoma |  |  |  |  |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
+| Epistaxis, haemoptysis |  |  | Eosinophilic pneumonia |  |
+| Gastrointestinal disorders |  |  |  |  |
+| Gingival bleeding, gastrointestinal tract haemorrhage (incl. rectal haemorrhage), gastrointestinal and abdominal pains, dyspepsia, nausea, constipationA, diarrhoea, vomitingA | Dry mouth |  |  |  |
+| Hepatobiliary disorders |  |  |  |  |
+| Increase in transaminases | Hepatic impairment, increased bilirubin, increased blood alkaline phosphataseA, increased GGTA | Jaundice, bilirubin conjugated increased (with or without concomitant increase of ALT), cholestasis, hepatitis (incl. hepatocellular injury) |  |  |
 | Skin and subcutaneous tissue disorders |  |  |  |  |
 | Pruritus (incl. uncommon cases of generalised pruritus), rash, ecchymosis, cutaneous and subcutaneous haemorrhage | Urticaria |  | Stevens-Johnson syndrome/Toxic Epidermal Necrolysis, DRESS syndrome |  |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
 | Pain in extremityA | Haemarthrosis | Muscle haemorrhage |  | Compartment syndrome secondary to a bleeding |
 | Renal and urinary disorders |  |  |  |  |
-| Urogenital tract haemorrhage (incl. haematuria and menorrhagiaB), renal impairment (incl. blood creatinine increased, blood urea increased) |  |  |  | Renal failure/acute renal failure secondary to a bleeding sufficient to cause hypoperfusion |
+| Urogenital tract haemorrhage (incl. haematuria and menorrhagiaB), renal impairment (incl. blood creatinine increased, blood urea increased) |  |  |  | Renal failure/acute renal failure secondary to a bleeding sufficient to cause hypoperfusion, Anticoagulant-related nephropathy |
 | General disorders and administration site conditions |  |  |  |  |
 | FeverA, peripheral oedema, decreased general strength and energy (incl. fatigue and asthenia) | Feeling unwell (incl. malaise) | Localised oedemaA |  |  |
 | Investigations |  |  |  |  |
@@ -135,7 +101,7 @@ The risk of bleedings may be increased in certain patient groups, e.g. those pat
 Menstrual bleeding may be intensified and/or prolonged.
 Haemorrhagic complications may present as weakness, paleness, dizziness, headache or unexplained swelling, dyspnoea and unexplained shock.
 In some cases as a consequence of anaemia, symptoms of cardiac ischaemia like chest pain or angina pectoris have been observed.
-Known complications secondary to severe bleeding such as compartment syndrome and renal failure due to hypoperfusion have been reported for Xarelto.
+Known complications secondary to severe bleeding such as compartment syndrome and renal failure due to hypoperfusion, or anticoagulant-related nephropathy have been reported for Xarelto.
 Therefore, the possibility of haemorrhage is to be considered in evaluating the condition in any anticoagulated patient.
 
 Reporting of suspected adverse reactions

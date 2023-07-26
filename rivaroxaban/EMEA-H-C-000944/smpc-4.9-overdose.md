@@ -16,7 +16,6 @@ However, there is currently very limited clinical experience with the use of the
 The recommendation is also based on limited non-clinical data.
 Re-dosing of recombinant factor VIIa shall be considered and titrated depending on improvement of bleeding.
 Depending on local availability, a consultation with a coagulation expert should be considered in case of major bleedings (see section 5.1).
-
 Protamine sulphate and vitamin K are not expected to affect the anticoagulant activity of rivaroxaban.
 There is limited experience with tranexamic acid and no experience with aminocaproic acid and aprotinin in individuals receiving rivaroxaban.
 There is neither scientific rationale for benefit nor experience with the use of the systemic haemostatic desmopressin in individuals receiving rivaroxaban.

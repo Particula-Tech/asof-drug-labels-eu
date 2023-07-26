@@ -88,30 +88,6 @@ a) safety population, on treatment b) vs placebo; Log-Rank p-value
 * statistically significant
 Figure 1: Time to first occurrence of primary efficacy endpoint (CV death, MI or stroke)
 
-15
-XARELTO 2.5 mg twice daily
-14 Placebo
-13
-12
-11
-10
-9
-8
-7
-6
-5
-4
-3
-2 Hazard Ratio: 0.84
-1 95% CI: (0.72, 0.97)
-P-value=0.020*
-0
-
-0 90 180 270 360 450 540 630 720 810
-No. of Patients at Risk Relative Days from the Randomization
-XARELTO 5114 4431 3943 3199 2609 2005 1425 878 415 89
-Placebo 5113 4437 3974 3253 2664 2059 1460 878 421 87
-
 CAD/PAD
 The phase III COMPASS study (27,395 patients, 78.0% male, 22.0% female) demonstrated the efficacy and safety of rivaroxaban for the prevention of a composite of CV death, MI, stroke in patients with CAD or symptomatic PAD at high risk of ischaemic events.
 Patients were followed for a median of 23 months and maximum of 3.9 years.
@@ -299,6 +275,7 @@ For the initial treatment of acute PE 15 mg rivaroxaban was administered twice d
 
 In both the Einstein DVT and the Einstein PE study, the comparator treatment regimen consisted of enoxaparin administered for at least 5 days in combination with vitamin K antagonist treatment until the PT/INR was in therapeutic range (≥ 2.0).
 Treatment was continued with a vitamin K antagonist dose-adjusted to maintain the PT/INR values within the therapeutic range of 2.0 to 3.0.
+
 In Einstein Extension 1,197 patients with DVT or PE were studied for the prevention of recurrent DVT and PE.
 The treatment duration was for an additional 6 or 12 months in patients who had completed 6 to 12 months of treatment for venous thromboembolism depending on the clinical judgment of the investigator.
 Rivaroxaban 20 mg once daily was compared with placebo.
