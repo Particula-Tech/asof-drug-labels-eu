@@ -2,7 +2,7 @@
 
 A 1 mL pre-filled syringe (glass, Type I) with plunger stopper (fluoropolymer-coated bromobutyl rubber) with needle (½-inch, 23 gauge, 12 mm) and needle shield (styrene butadiene rubber).
 The pre-filled syringe is assembled in a safety device for post-injection needlestick prevention.
-The needle shield of the safety syringe may contain rubber latex that may cause allergic reactions in latex-sensitive individuals.
+The needle shield of the safety syringe may contain rubber latex.
 
 Pack sizes
 

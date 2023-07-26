@@ -12,7 +12,7 @@ Dose-proportional increases in exposure are observed in the dose interval 8 mg t
 
 Distribution
 
-The apparent volume of distribution for buprenorphine is approximately 1900 L. Buprenorphine is approximately 96% protein-bound, primarily to alpha and beta globulin.
+The apparent volume of distribution for buprenorphine is approximately 1 900 L. Buprenorphine is approximately 96% protein-bound, primarily to alpha and beta globulin.
 
 Biotransformation and elimination
 
@@ -57,6 +57,7 @@ Monthly Buvidal
 
 After injection, the buprenorphine plasma concentration increases with a median time to maximum plasma concentration (tmax) of 6-10 hours.
 Steady-state exposure is reached at the fourth monthly dose.
+
 Dose-proportional increases in overall exposure are observed in the dose interval 64 mg to 160 mg.
 
 Elimination of buprenorphine from Buvidal is release-rate limited with a terminal half-life ranging from 19 to 25 days.

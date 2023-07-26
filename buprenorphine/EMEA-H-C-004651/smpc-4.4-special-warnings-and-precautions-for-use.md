@@ -14,9 +14,8 @@ Any attempts to remove the depot should be monitored throughout treatment.
 
 Prolonged-release properties
 
-The prolonged-release properties of the product should be considered during treatment including initiation and termination.
-In particular, patients with concomitant medicinal products and/or co-morbidities, should be monitored for signs and symptoms of toxicity, overdose or withdrawal caused by increased or decreased levels of buprenorphine.
-For pharmacokinetic properties, see section 5.2 and for treatment termination, see section 4.2.
+The prolonged-release properties of the product should be considered during treatment including initiation and termination (see section 4.2).
+In particular, patients with concomitant medicinal products and/or co-morbidities, should be monitored for signs and symptoms of toxicity, overdose or withdrawal caused by increased or decreased levels of buprenorphine (see sections 4.5 and 5.2).
 
 Respiratory depression
 
@@ -29,12 +28,12 @@ Buprenorphine may cause severe, possibly fatal, respiratory depression in childr
 CNS depression
 
 Buprenorphine may cause drowsiness particularly when taken together with alcohol or central nervous system depressants such as benzodiazepines, tranquilisers, sedatives, gabapentinoids or hypnotics (see sections 4.5 and 4.7).
+
 Dependence
 
 Buprenorphine is a partial agonist at the mu-opiate receptor and chronic administration can produce opioid dependence.
 
 Serotonin syndrome
-
 Concomitant administration of Buvidal and other serotonergic agents, such as MAO inhibitors, selective serotonin re-uptake inhibitors (SSRIs), serotonin norepinephrine re-uptake inhibitors (SNRIs) or tricyclic antidepressants may result in serotonin syndrome, a potentially life-threatening condition (see section 4.5).
 If concomitant treatment with other serotonergic agents is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
 Symptoms of serotonin syndrome may include mental-status changes, autonomic instability, neuromuscular abnormalities, and/or gastrointestinal symptoms.
@@ -68,11 +67,11 @@ Patients with moderate hepatic impairment should be monitored for signs and symp
 Buprenorphine should be used with caution in patients with moderate hepatic impairment (see sections 4.2 and 5.2).
 Hepatic function should be monitored regularly whilst on treatment.
 The use of buprenorphine is contraindicated in patients with severe hepatic impairment (see section 4.3).
+
 Renal impairment
 
 Metabolites of buprenorphine accumulate in patients with renal failure.
-Caution is recommended when dosing patients with severe renal impairment (creatinine clearance < 30 ml/min), see sections 4.2 and 5.2.
-
+Caution is recommended when dosing patients with severe renal impairment (creatinine clearance < 30 ml/min) (see sections 4.2 and 5.2).
 QT prolongation
 
 Caution should be exercised when co-administering Buvidal with other medicinal products that prolong the QT interval and in patients with a history of long QT syndrome or other risk factors for QT prolongation.
@@ -92,7 +91,7 @@ Sleep-related breathing disorders
 
 Opioids can cause sleep-related breathing disorders including central sleep apnoea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the total opioid dosage.
+In patients who present with CSA, consider decreasing the total opioid dose.
 
 Class effects
 
@@ -108,3 +107,8 @@ Opioid-induced miosis, changes in the level of consciousness or changes in the p
 Opioids should be used with caution in patients with myxoedema, hypothyroidism, or adrenal cortical insufficiency (e.g. Addison’s disease).
 
 Opioids have been shown to increase intracholedochal pressure, and should be used with caution in patients with dysfunction of the biliary tract.
+
+Latex
+
+No natural rubber or latex is used in the formulation of the needle shield.
+Nevertheless, the presence of negligible traces cannot be excluded and there is therefore a potential risk of allergic reactions in latex-sensitive individuals which cannot be completely ruled out.

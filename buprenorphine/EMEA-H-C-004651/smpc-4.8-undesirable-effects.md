@@ -6,7 +6,8 @@ The adverse reactions most frequently reported for buprenorphine are headache, n
 Tabulated list of adverse reactions
 
 Table 2 presents adverse reactions reported for buprenorphine, including Buvidal.
-The following terms and frequencies are applied: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1000 to < 1/100) and frequency not known (cannot be estimated from available data).
+The following terms and frequencies are applied: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon
+(≥ 1/1 000 to < 1/100) and frequency not known (cannot be estimated from available data).
 
 Table 2. Adverse reactions listed by body system
 System Organ Class Very common Common Uncommon Not known
@@ -81,12 +82,12 @@ Renal and urinary Urinary retention
 disorders
 Reproductive system Dysmenorrhoea
 and breast disorders
-General disorders Hyperhidrosis Injection site pain Injection site
-and administration Drug withdrawal Injection site pruritus inflammation
-site conditions syndrome Injection site erythema Injection site
-Pain Injection site swelling bruising
-Injection site reaction Injection site
-Injection site urticaria
+General disorders Hyperhidrosis Injection site pain Injection site Injection site
+and administration Drug withdrawal Injection site pruritus inflammation abscess
+site conditions syndrome Injection site erythema Injection site Injection site
+Pain Injection site swelling bruising ulceration
+Injection site reaction Injection site Injection site
+Injection site urticaria necrosis
 induration
 Injection site mass
 Oedema peripheral
@@ -109,11 +110,17 @@ Injection site reactions
 In the double-blind, phase 3 efficacy trial, injection site-related adverse reactions were observed in 36 (16.9%) of the 213 patients (5% of the administered injections) in the Buvidal treatment group.
 The most common adverse reactions were injection site pain (8.9%), injection site pruritus (6.1%) and injection site erythema (4.7%).
 The injection site reactions were all mild or moderate in severity and most events were transient.
+
+Injection site-related adverse reactions of abscess, ulceration and necrosis have been reported during
+post-marketing use with Buvidal.
+
 Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medical product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
-Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Healthcare professionals are
+
+asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 [Buvidal 64 mg prolonged-release solution for injection]
 
@@ -127,11 +134,11 @@ mediastinal Yawning
 disorders Asthma
 Reproductive Dysmenorrhoea
 system and breast
-and administration Drug Injection site pruritus inflammation
-site conditions withdrawal Injection site Injection site
-syndrome erythema bruising
-Pain Injection site swelling Injection site
-Injection site reaction urticaria
+and administration Drug Injection site pruritus inflammation abscess
+site conditions withdrawal Injection site Injection site Injection site
+syndrome erythema bruising ulceration
+Pain Injection site swelling Injection site Injection site
+Injection site reaction urticaria necrosis
 Injection site
 Injury, poisoning Procedural
 and procedural dizziness

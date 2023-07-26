@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Other nervous system drugs, drugs used in opioid dependence, ATC code: N07BC01
+Pharmacotherapeutic group: Other nervous system drugs, drugs used in opioid dependence,
+ATC code: N07BC01
 
 Mechanism of action
 
@@ -31,11 +32,6 @@ Superiority of Buvidal versus sublingual buprenorphine/naloxone was met (pre-spe
 |  | 95% CI | 30.3 - 40.0 | 23.5 - 33.3 | -0.1 - 13.6 |  |
 | CDF of percentage of urine samples negative for illicit opioids over weeks 4-24 | N | 213 | 215 |  |  |
 |  | Median | 26.7 | 6.7 | - | 0.008b |
-
-| Table 3. Efficacy variables in a pivotal phase 3, randomised, double-blind, double- |  |
-| --- | --- |
-|  | dummy, active-controlled, flexible-dose study in patients with moderate to |
-|  | severe opioid dependence |
 
 CDF = cumulative distribution function, CI = confidence interval, LS = least squares; SE = standard error, SL BPN/NX = sublingual buprenorphine/naloxone a Difference = Buvidal – SL BPN/NX.
 b The p-value was for superiority

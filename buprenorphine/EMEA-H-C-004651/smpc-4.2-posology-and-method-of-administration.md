@@ -1,11 +1,12 @@
 # 4.2 Posology and method of administration
 
 Administration of Buvidal is restricted to healthcare professionals.
+Treatment should be initiated by and remain under the supervision of a physician experienced in the management of opioid dependence therapies.
 Appropriate precautions, such as to conduct patient follow-up visits with clinical monitoring according to the patient's needs, should be taken when prescribing and dispensing buprenorphine.
 Take-home use or self-administration of the product by patients is not allowed.
 Precautions to be taken before initiation of treatment
 
-To avoid precipitating symptoms of withdrawal, treatment with Buvidal should be started when objective and clear signs of mild to moderate withdrawal are evident (see section4.4).
+To avoid precipitating symptoms of withdrawal, treatment with Buvidal should be started when objective and clear signs of mild to moderate withdrawal are evident (see section 4.4).
 Consideration should be given to the types of opioid used (that is long- or short-acting opioid), time since last opioid use and the degree of opioid dependence.
 
 - For patients using heroin or short-acting opioids, the initial dose of Buvidal must not be administered until at least 6 hours after the patient last used opioids.
@@ -66,7 +67,7 @@ The efficacy and safety of buprenorphine in elderly patients > 65 years have not
 No recommendation on posology can be made.
 
 In general, recommended dosing for elderly patients with normal renal function is the same as for younger adult patients with normal renal function.
-However, because elderly patients may have diminished renal/hepatic function, dose adjustment may be necessary (see Hepatic impairment and Renal impairment below).
+However, because elderly patients may have diminished renal/hepatic function, dose adjustment may be necessary (see below).
 
 Hepatic impairment
 Buprenorphine should be used with caution in patients with moderate hepatic impairment (see section 5.2).
@@ -93,7 +94,3 @@ The decision to reinject at the same site should also be guided by the attending
 Administered dose should be as a single injection and not divided.
 The dose must not be administered intravascularly (intravenously), intramuscularly or intradermally (into the skin) (see section 4.4).
 See section 6.6 for administration instructions.
-
-[Buvidal 64 mg prolonged-release solution for injection]
-
-To avoid precipitating symptoms of withdrawal, treatment with Buvidal should be started when objective and clear signs of mild to moderate withdrawal are evident (see section 4.4).
