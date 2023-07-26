@@ -220,20 +220,20 @@ In total 459 patients were enrolled into the study, with 152 patients randomised
 The demographics and disease-related baseline characteristics of the patients were well balanced in all 3 arms; notably, approximately 50% of the patients enrolled in each arm had the following characteristics; ISS Stage III, and creatinine clearance < 60 mL/min.
 The median age was 71 in the MPR+R and MPR+p arms and 72 in the MPp+p arm.
 
-In an analysis of PFS, PFS2, OS using a cut-off of April 2013 where the median follow up time for all surviving subjects was 62.4 months, the results of the study are presented in Table 10:
+In an analysis of PFS, PFS2, OS using a cut-off of April 2013 where the median follow up time for all surviving subjects was 62.4 months, the results of the study are presented in Table 10.
 
 Table 10.
 Summary of overall efficacy data
 
 |  | MPR+R (N = 152) | MPR+p (N = 153) | MPp +p (N = 154) |
 | --- | --- | --- | --- |
-| Investigator-assessed PFS − (months) |  |  |  |
+| Investigator-assessed PFS (months) |  |  |  |
 | Mediana PFS time, months (95% CI) | 27.4 (21.3, 35.0) | 14.3 (13.2, 15.7) | 13.1 (12.0, 14.8) |
 | HR [95% CI]; p-value |  |  |  |
 | MPR+R vs MPp+p | 0.37 (0.27, 0.50); <0.001 |  |  |
 | MPR+R vs MPR+p | 0.47 (0.35, 0.65); <0.001 |  |  |
 | MPR+p vs MPp +p | 0.78 (0.60, 1.01); 0.059 |  |  |
-| PFS2 − (months) ¤ |  |  |  |
+| PFS2 (months) ¤ |  |  |  |
 | Mediana PFS2 time, months (95% CI) | 39.7 (29.2, 48.4) | 27.8 (23.1, 33.1) | 28.8 (24.3, 33.8) |
 | HR [95% CI]; p-value |  |  |  |
 | MPR+R vs MPp+p | 0.70 (0.54, 0.92); 0.009 |  |  |
@@ -252,7 +252,7 @@ Summary of overall efficacy data
 | PR | 90 (59.2) | 99 ( 64.7) | 75 (48.7) |
 | Stable Disease (SD) | 24 (15.8) | 31 (20.3) | 63 (40.9) |
 | Response Not Evaluable (NE) | 8 (5.3) | 4 (2.6) | 7 (4.5) |
-| Investigator-assessed Duration of response (CR+PR) − (months) |  |  |  |
+| Investigator-assessed Duration of response (CR+PR) (months) |  |  |  |
 | Mediana (95% CI) | 26.5 (19.4, 35.8) | 12.4 (11.2, 13.9) | 12.0 (9.4, 14.5) |
 
 CI = confidence interval; CR = complete response; HR = Hazard Rate; M = melphalan; NE = not estimable; OS = overall survival; p = placebo; P = prednisone;
@@ -384,7 +384,7 @@ The ECOG performance status was comparable between both groups, as was the numbe
 
 The primary efficacy endpoint in study MCL-002 was progression-free survival (PFS).
 
-The efficacy results for the Intent-to-Treat (ITT) population were assessed by the Independent Review Committee (IRC), and are presented in the table below.
+The efficacy results for the Intent-to-Treat (ITT) population were assessed by the Independent Review Committee (IRC), and are presented in Table 13 below.
 
 Table 13.
 Summary of efficacy results – study MCL-002, intent-to-treat population
@@ -446,13 +446,13 @@ Table 14: Summary of follicular lymphoma efficacy data- Study CC-5013-NHL-007
 | Complete responsed, n (%) (IRC, 2007 IWGRC) 95 % CIf | 51 (34.7) (27.0, 43.0) | 29 (19.6) (13.5, 26.9) |
 | Duration of responsed (median) (months) 95% CI a | 36.6 (24.9, NE) | 15.5 (11.2, 25.0) |
 | Overall Survivald,e (OS) |  |  |
-| OS rate at 2 years % | 139 (94.8) (89.5, 97.5) | 127 (85.8) (78.5, 90.7) |
-| HR [95% CI] | 0.45 (0.22, 0.92)b |  |
+| OS rate at 5 years, n (%) 95 % CI | 126 (85.9) (78.6, 90.9) | 114 (77.0) (68.9, 83.3) |
+| HR [95% CI] | 0.49 (0.28, 0.85)b |  |
 | Follow-up |  |  |
-| Median duration of follow-up (min, max) (months) | 29.2 (0.5, 50.9) | 27.9 (0.6, 50.9) |
+| Median duration of follow-up (min, max) (months) | 67.81 (0.5, 89.3) | 65.72 (0.6, 90.9) |
 
 ª Median estimate from Kaplan-Meier analysis b Hazard ratio and its confidence interval were estimated from unstratified Cox proportional hazard model.
-c P-value from log-rank test d Secondary and exploratory endpoints are not α-controlled e With a median follow up of 28.6 months, there were 11 deaths in the R2 arm and 24 deaths in the Control Arm.
+c P-value from log-rank test d Secondary and exploratory endpoints are not α-controlled e With a median follow up of 66.14 months, there were 19 deaths in the R2 arm and 38 deaths in the Control Arm.
 f Exact confidence interval for binomial distribution.
 
 Follicular lymphoma for patients refractory to Rituximab
