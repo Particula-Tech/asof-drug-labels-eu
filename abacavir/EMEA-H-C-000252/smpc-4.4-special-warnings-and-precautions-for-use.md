@@ -35,7 +35,6 @@ Rarely, patients who have stopped abacavir for reasons other than symptoms of HS
 Restarting abacavir in such patients must be done in a setting where medical assistance is readily available.
 
 Mitochondrial dysfunction following exposure in utero
-
 Nucleoside and nucleotide analogues may impact mitochondrial function to a variable degree, which is most pronounced with stavudine, didanosine and zidovudine.
 There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues ; these have predominantly concerned treatment with regimens containing zidovudine.The main adverse reactions reported are haematological disorders (anaemia, neutropenia) and metabolic disorders (hyperlactatemia, hyperlipasemia).
 These events have often been transitory.
@@ -78,6 +77,7 @@ Renal disease
 
 Ziagen should not be administered to patients with end-stage renal disease (see section 5.2).
 Excipients
+
 This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially ‘sodium-free’.
 
 Immune Reactivation Syndrome
@@ -97,11 +97,6 @@ Opportunistic infections
 
 Patients receiving Ziagen or any other antiretroviral therapy may still develop opportunistic infections and other complications of HIV infection.
 Therefore patients should remain under close clinical observation by physicians experienced in the treatment of these associated HIV diseases.
-
-Transmission
-
-While effective viral suppression with antiretroviral therapy has been proven to substantially reduce the risk of sexual transmission, a residual risk cannot be excluded.
-Precautions to prevent transmission should be taken in accordance with national guidelines.
 
 Myocardial Infarction
 

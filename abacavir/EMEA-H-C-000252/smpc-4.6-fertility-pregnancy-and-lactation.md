@@ -20,7 +20,7 @@ Breast-feeding
 Abacavir and its metabolites are excreted into the milk of lactating rats.
 Abacavir is also excreted into human milk.
 There are no data available on the safety of abacavir when administered to babies less than three months old.
-It is recommended that HIV infected women do not breast-feed their infants under any circumstances in order to avoid transmission of HIV.
+It is recommended that women living with HIV do not breast-feed their infants in order to avoid transmission of HIV.
 
 Fertility
 

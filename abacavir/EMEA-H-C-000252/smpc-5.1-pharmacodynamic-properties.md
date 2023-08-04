@@ -88,7 +88,8 @@ Although a similar antiviral effect was observed between the abacavir and indina
 In a multicentre, double-blind, controlled study (CNA30024), 654 HIV-infected, antiretroviral therapy-naïve patients were randomised to receive either abacavir 300 mg twice daily or zidovudine 300 mg twice daily, both in combination with lamivudine 150 mg twice daily and efavirenz 600 mg once daily.
 The duration of double-blind treatment was at least 48 weeks.
 In the intent-to-treat (ITT) population, 70% of patients in the abacavir group, compared to 69% of patients in the zidovudine group, achieved a virologic response of plasma HIV-1 RNA ≤50 copies/ml by Week 48 (point estimate for treatment difference: 0.8, 95% CI -6.3, 7.9).
-In the as treated (AT) analysis the difference between both treatment arms was more noticeable (88% of patients in the abacavir group, compared to 95% of patients in the zidovudine group (point estimate for treatment difference: -6.8, 95% CI -11.8; -1.7).
+In the as treated (AT) analysis the difference between both treatment arms was more noticeable (88% of patients in the abacavir group, compared to 95% of patients in the zidovudine group (point estimate for treatment difference: -6.8, 95% CI -
+11.8; -1.7).
 However, both analyses were compatible with a conclusion of non-inferiority between both treatment arms.
 
 ACTG5095 was a randomised (1:1:1), double-blind, placebo-controlled trial performed in 1147 antiretroviral naïve HIV-1 infected adults, comparing 3 regimens: zidovudine (ZDV), lamivudine (3TC), abacavir (ABC), efavirenz (EFV) vs ZDV/3TC/EFV vs ZDV/3TC/ABC.
