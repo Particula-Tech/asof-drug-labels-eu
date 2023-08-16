@@ -45,6 +45,7 @@ Chronic lymphocytic leukaemia
 
 MabThera was administered as an intravenous infusion at a first-cycle dose of 375 mg/m2 increased to 500 mg/m2 each cycle for 5 doses in combination with fludarabine and cyclophosphamide in CLL patients.
 The mean Cmax (N=15) was 408 µg/mL (range, 97 – 764 µg/mL) after the fifth 500 mg/m2 infusion and the mean terminal half-life was 32 days (range, 14 – 62 days).
+
 Rheumatoid arthritis
 
 Following two intravenous infusions of MabThera at a dose of 1000 mg, two weeks apart, the mean terminal half-life was 20.8 days (range, 8.58 to 35.9 days), mean systemic clearance was 0.23 L/day (range, 0.091 to 0.67 L/day), and mean steady-state distribution volume was 4.6 l (range, 1.7 to 7.51 L). Population pharmacokinetic analysis of the same data gave similar mean values for systemic clearance and half-life, 0.26 L/day and 20.4 days, respectively.
@@ -67,7 +68,6 @@ Mean terminal elimination half-life after the second infusion, following the sec
 PK parameters for rituximab were comparable over the two treatment courses.
 
 The pharmacokinetic (PK) parameters in the anti-TNF inadequate responder population, following the same dosage regimen (2 x 1000 mg, IV, 2 weeks apart), were similar with a mean maximum serum concentration of 369 µg/mL and a mean terminal half-life of 19.2 days.
-
 Granulomatosis with polyangiitis (GPA) and microscopic polyangiitis (MPA)
 
 Adult Population
@@ -124,7 +124,6 @@ Table 7: Trial BP22333 (SparkThera): Absorption - Pharmacokinetic parameters of 
 | Predicted median Cmax (q3m) µg/mL | 189 | 184 |
 
 The median Tmax in the MabThera subcutaneous formulation was approximately 3 days as compared to the Tmax occuring at or close to the end of the infusion for the intravenous formulation.
-
 Trial BO22334 (SABRINA)
 MabThera subcutaneous formulation at a fixed dose of 1400 mg was administered for 6 cycles subcutaneously during induction at 3-weekly intervals, following the first cycle of MabThera intravenous formulation, in previously untreated FL patients in combination with chemotherapy.
 The serum rituximab Cmax at cycle 7 was similar between the two treatment arms, with geometric mean (CV%) values of 250.63 (19.01) μg/mL and 236.82 (29.41) μg/mL for the intravenous and the subcutaneous formulations respectively, with the resulting geometric mean ratio (Cmax, SC/Cmax, IV) of 0.941 (90% CI: 0.872, 1.015).
@@ -150,6 +149,7 @@ The estimated median terminal elimination half-life of MabThera subcutaneous for
 Twenty nine (0.48%) post-dose observations (all from trial BP22333) were below the quantification limit.
 There were no missing covariate values except baseline B-cell count.
 Baseline tumour load was available only in trial BO22334.
+
 Special populations
 
 In clinical trial BO22334, an effect was observed between body size and exposure ratios reported in cycle 7, between rituximab subcutaneous formulation 1400 mg q3w and rituximab intravenous formulation 375 mg/m2 q3w with Ctrough ratios of 2.29, 1.31, and 1.41 in patients with low, medium and high BSA, respectively (low BSA ≤ 1.70 m2; 1.70 m2 < medium BSA < 1.90 m2; high BSA
@@ -166,7 +166,8 @@ MabThera at a fixed dose of 1600 mg was administered for 5 cycles subcutaneously
 The serum MabThera Cmax at Cycle 6 was lower in the subcutaneous arm than the intravenous, with geometric mean (CV%) values of 202 (36.1) μg/mL and 280 (24.6) μg/mL with the resulting geometric mean ratio (Cmax, SC/Cmax, IV) of 0.719 (90% CI: 0.653, 0.792).
 The geometric mean tmax in the MabThera subcutaneous group was approximately 3 days as compared to the tmax occuring at or close to the end of the infusion for the MabThera intravenous group.
 The geometric mean Ctrough (CV%) values at Cycle 5 (pre-dose Cycle 6) were higher among the MabThera subcutaneous group than the MabThera intravenous group; 97.5 µg/mL (42.6) versus 61.5 µg/mL (63.9) respectively with a resulting adjusted geometric mean ratio [90% CI] of 1.53 [1.27-1.85].
-Similarly, the geometric mean AUC (CV%) values at Cycle 6 were higher among the subcutaneous group than the intravenous group; 4088 µg•day/mL (34.2) versus 3630 µg•day/mL (32.8) respectively) with a resulting adjusted geometric mean ratio [90% CI] of 1.10 [0.98-1.24].
+Similarly, the geometric mean AUC (CV%) values at Cycle 6 were higher among the subcutaneous group than the intravenous group;
+4088 µg•day/mL (34.2) versus 3630 µg•day/mL (32.8) respectively) with a resulting adjusted geometric mean ratio [90% CI] of 1.10 [0.98-1.24].
 Based on popPK analysis of study BO25341 (SAWYER) an absolute bioavailability of 68.4% was estimated.
 
 The estimated half-life of Mabthera subcutaneous formulation of 1600 mg is 30 days, the estimated clearance is 0.22 L/day and the volume of distribution of the central compartment is 4.65 L.
