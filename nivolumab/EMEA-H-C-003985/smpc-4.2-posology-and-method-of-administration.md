@@ -13,7 +13,7 @@ Table 1: Recommended dose and infusion time for intravenous administration of ni
 
 | Indication* | Recommended dose and infusion time |
 | --- | --- |
-| Melanoma (advanced or adjuvant treatment) | Adults and adolescents (12 years of age and older and weighing at least 50 kg): 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 60 minutes |
+| Melanoma (advanced or adjuvant treatment) | Adults and adolescents (12 years of age and older and weighing at least 50 kg): 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 60 minutes or over 30 minutes (adjuvant melanoma, see section 5.1) |
 |  | Adolescents (12 years of age and older and weighing less than 50 kg): 3 mg/kg every 2 weeks over 30 minutes or 6 mg/kg every 4 weeks over 60 minutes |
 | Renal cell carcinoma Muscle invasive urothelial carcinoma (MIUC) (adjuvant treatment) | 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 60 minutes |
 | Oesophageal or gastro-oesophageal junction cancer (adjuvant treatment) | 240 mg every 2 weeks over 30 minutes or 480 mg every 4 weeks over 30 minutes for the first 16 weeks, followed by 480 mg every 4 weeks over 30 minutes |

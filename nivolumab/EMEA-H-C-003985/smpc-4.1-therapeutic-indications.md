@@ -8,7 +8,7 @@ Relative to nivolumab monotherapy, an increase in progression-free survival (PFS
 
 Adjuvant treatment of melanoma
 
-OPDIVO as monotherapy is indicated for the adjuvant treatment of adults and adolescents 12 years of age and older with melanoma with involvement of lymph nodes or metastatic disease who have undergone complete resection (see section 5.1).
+OPDIVO as monotherapy is indicated for the adjuvant treatment of adults and adolescents 12 years of age and older with Stage IIB or IIC melanoma, or melanoma with involvement of lymph nodes or metastatic disease who have undergone complete resection (see section 5.1).
 
 Non-small cell lung cancer (NSCLC)
 

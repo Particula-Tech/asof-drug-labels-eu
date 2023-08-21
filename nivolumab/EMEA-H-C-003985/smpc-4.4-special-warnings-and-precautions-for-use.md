@@ -167,7 +167,6 @@ Before initiating treatment with the combination, physicians are advised to care
 
 Use of nivolumab in melanoma patients with rapidly progressing disease
 Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with rapidly progressing disease (see section 5.1).
-
 Adjuvant treatment of melanoma
 There are no data on adjuvant treatment in patients with melanoma with the following risk factors (see sections 4.5 and 5.1):
 
@@ -203,6 +202,7 @@ In the absence of data, nivolumab in combination with chemotherapy should be use
 Malignant pleural mesothelioma
 Patients with primitive peritoneal, pericardial, testis, or tunica vaginalis mesothelioma, interstitial lung disease, active autoimmune disease, medical conditions requiring systemic immunosuppression, and brain metastasis (unless surgically resected or treated with stereotaxic radiotherapy and no evolution within 3 months prior to inclusion in the study) were excluded from the pivotal trial in first-line treatment of MPM (see sections 4.5 and 5.1).
 In the absence of data, nivolumab in combination with ipilimumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+
 Renal cell carcinoma
 Nivolumab or nivolumab in combination with ipilimumab
 Patients with any history of concurrent brain metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trials of nivolumab or nivolumab in combination with ipilimumab (see sections 4.5 and 5.1).
@@ -235,7 +235,6 @@ In the absence of data, nivolumab should be used with caution in these populatio
 Physicians should consider the delayed onset of nivolumab effect before initiating treatment in patients with poorer prognostic features and/or aggressive disease.
 In head and neck cancer, a higher number of deaths within 3 months was observed in nivolumab compared to docetaxel.
 Factors associated with early deaths were ECOG performance status, fast progressive disease on prior platinum therapy and high tumour burden.
-
 Urothelial carcinoma
 Treatment of advanced urothelial carcinoma
 Patients with a baseline performance score ≥ 2, active brain metastases or leptomeningeal metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical trials of urothelial carcinoma (see sections 4.5 and 5.1).
@@ -269,6 +268,7 @@ No specific factor(s) associated with early deaths could be identified (see sect
 Adjuvant treatment of oesophageal or gastro-oesophageal junction cancer
 Patients with a baseline performance score ≥ 2, who did not receive concurrent chemoradiotherapy (CRT) prior to surgery, with stage IV resectable disease, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical study in oesophageal and gastro-oesophageal junction cancer (see sections 4.5 and 5.1).
 In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
+
 Gastric, gastro-oesophageal junction or oesophageal adenocarcinoma
 Patients who had baseline ECOG performance score ≥ 2, untreated central nervous system metastases, active, known, or suspected autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical study in gastric, GEJ or oesophageal adenocarcinoma (see sections 4.5 and 5.1).
 In the absence of data, nivolumab in combination with chemotherapy should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.
