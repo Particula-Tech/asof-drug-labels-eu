@@ -18,7 +18,7 @@ Adverse reactions
 | Immune system disorders |  | Hypersensitivity reactions |  |
 | Metabolism and nutrition disorders | Hypoglycaemia* when used with sulphonylurea or insulin | Hypoglycaemia* when used with metformin and SGLT2i, decreased appetite | Hypoglycaemia* when used with metformin, weight decreased |
 | Gastrointestinal disorders | Nausea, diarrhoea | Abdominal pain, vomiting, dyspepsia, constipation, abdominal distention, eructation, flatulence, gastroesophageal reflux disease | Cholelithiasis, acute pancreatitis |
-| General disorders and administration site conditions |  | Fatigue†, injection site reactions |  |
+| General disorders and administration site conditions |  | Fatigue†, injection site reactions | Injection site pain |
 | Investigations |  | Heart rate increased, lipase increased, amylase increased | Blood calcitonin increased |
 
 *Hypoglycaemia defined below.

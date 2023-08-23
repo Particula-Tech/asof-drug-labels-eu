@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Drugs used in diabetes, blood glucose lowering drugs, excl. insulins, ATC code: not yet assigned
+Pharmacotherapeutic group: Drugs used in diabetes, blood glucose lowering drugs, excl. insulins, ATC code: A10BX16
 
 Mechanism of action
 
@@ -194,15 +194,14 @@ MOUNJARO 5 mg MOUNJARO 10 mg MOUNJARO 15 mg Insulin Degludec MOUNJARO 5 mg MOUNJ
 
 Figure 3.
 Mean HbA1c (%) and mean body weight (kg) from baseline to week 52
-
 SURPASS 4 – Combination therapy with 1-3 oral antidiabetic medicinal products: metformin, sulphonylureas or SGLT2i
+
 In an active-controlled open-label study of up to 104 weeks (primary endpoint at 52 weeks),
 2 002 patients with type 2 diabetes and increased cardiovascular risk were randomised to tirzepatide 5 mg, 10 mg or 15 mg once weekly or insulin glargine once daily on a background of metformin
 (95 %) and/or sulphonylureas (54 %) and/or SGLT2i (25 %).
 At baseline the patients had a mean duration of diabetes of 12 years, a mean BMI of 33 kg/m2, a mean age of 64 years and 63 % were men.
 Patient treated with insulin glargine started at a dose of 10 U/day which was adjusted using an algorithm with a fasting blood glucose target of < 5.6 mmol/L.
 The mean dose of insulin glargine at week 52 was 44 units/day.
-
 Table 5.
 SURPASS 4: Results at week 52
 
@@ -249,6 +248,7 @@ Insulin glargine doses were adjusted utilizing an algorithm with a fasting blood
 At baseline the patients had a mean duration of diabetes of 13 years, a mean BMI of 33 kg/m2, a mean age of 61 years and 56 % were men.
 The overall estimated median dose of insulin glargine at baseline was 34 units/day.
 The median dose of insulin glargine at week 40 was 38, 36, 29 and 59 units/day for tirzepatide 5 mg, 10 mg, 15 mg and placebo respectively.
+
 Table 6.
 SURPASS 5: Results at week 40
 
@@ -292,6 +292,7 @@ Cardiovascular evaluation
 Cardiovascular (CV) risk was assessed via a meta-analysis of patients with at least one adjudication confirmed major adverse cardiac event (MACE).
 The composite endpoint of MACE-4 included
 CV death, non-fatal myocardial infarction, non-fatal stroke, or hospitalisation for unstable angina.
+
 In a primary meta-analysis of phase 2 and 3 registration studies, a total of 116 patients (tirzepatide:
 60 [n = 4 410]; all comparators: 56 [n = 2 169]) experienced at least one adjudication confirmed MACE-4: The results showed that tirzepatide was not associated with excess risk for CV events compared with pooled comparators (HR: 0.81; CI: 0.52 to 1.26).
 
@@ -319,7 +320,6 @@ Treatment with tirzepatide resulted in significant reductions in mean 2 hour pos
 Triglycerides
 
 Across SURPASS 1-5 trials, tirzepatide 5 mg, 10 mg and 15 mg resulted in reduction in serum triglyceride of 15-19 %, 18-27 % and 21-25 % respectively.
-
 In the 40 week trial versus semaglutide 1 mg, tirzepatide 5 mg, 10 mg and 15 mg resulted in 19 %,
 24 % and 25 % reduction in serum triglycerides levels respectively compared to 12 % reduction with semaglutide 1 mg.
 
@@ -331,6 +331,7 @@ In Study SURPASS-5, 85.9 % of patients treated with tirzepatide who reached HbA1
 Special populations
 
 The efficacy of tirzepatide was not impacted by age, gender, race, ethnicity, region, or by baseline BMI, HbA1c, diabetes duration and level of renal function impairment.
+
 Paediatric population
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Mounjaro in one or more subsets of the paediatric population for the treatment of type 2 diabetes mellitus (see section 4.2 for information on paediatric use).

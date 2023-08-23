@@ -26,7 +26,6 @@ C20 fatty diacid moiety and amide hydrolysis.
 Elimination
 
 The apparent population mean clearance of tirzepatide is 0.06 L/h with an elimination half-life of approximately 5 days, enabling once weekly administration.
-
 Tirzepatide is eliminated by metabolism.
 The primary excretion routes of tirzepatide metabolites are via urine and faeces.
 Intact tirzepatide is not observed in urine or faeces.
@@ -42,6 +41,7 @@ Renal impairment
 Renal impairment does not impact the PK of tirzepatide.
 The PK of tirzepatide after a single 5 mg dose was evaluated in patients with different degrees of renal impairment (mild, moderate, severe, ESRD) compared with subjects with normal renal function and no clinically relevant differences were observed.
 This was also shown for patients with both type 2 diabetes mellitus and renal impairment based on data from clinical studies.
+
 Hepatic impairment
 
 Hepatic impairment does not impact the PK of tirzepatide.
