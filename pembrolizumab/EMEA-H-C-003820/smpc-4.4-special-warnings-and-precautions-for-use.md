@@ -6,47 +6,48 @@ In order to improve the traceability of biological medicinal products, the name 
 Assessment of PD-L1 status
 When assessing the PD-L1 status of the tumour, it is important that a well-validated and robust methodology is chosen to minimise false negative or false positive determinations.
 
-Immune-related adverse reactions
-Immune-related adverse reactions, including severe and fatal cases, have occurred in patients receiving pembrolizumab.
-Most immune-related adverse reactions occurring during treatment with pembrolizumab were reversible and managed with interruptions of pembrolizumab, administration of corticosteroids and/or supportive care.
-Immune-related adverse reactions have also occurred after the last dose of pembrolizumab.
-Immune-related adverse reactions affecting more than one body system can occur simultaneously.
+Immune-mediated adverse reactions
+Immune-mediated adverse reactions, including severe and fatal cases, have occurred in patients receiving pembrolizumab.
+Most immune-mediated adverse reactions occurring during treatment with pembrolizumab were reversible and managed with interruptions of pembrolizumab, administration of corticosteroids and/or supportive care.
+Immune-mediated adverse reactions have also occurred after the last dose of pembrolizumab.
+Immune-mediated adverse reactions affecting more than one body system can occur simultaneously.
 
-For suspected immune-related adverse reactions, adequate evaluation to confirm aetiology or exclude other causes should be ensured.
+For suspected immune-mediated adverse reactions, adequate evaluation to confirm aetiology or exclude other causes should be ensured.
 Based on the severity of the adverse reaction, pembrolizumab should be withheld and corticosteroids administered.
 Upon improvement to Grade ≤ 1, corticosteroid taper should be initiated and continued over at least 1 month.
-Based on limited data from clinical studies in patients whose immune-related adverse reactions could not be controlled with corticosteroid use, administration of other systemic immunosuppressants can be considered.
+Based on limited data from clinical studies in patients whose immune-mediated adverse reactions could not be controlled with corticosteroid use, administration of other systemic immunosuppressants can be considered.
+
 Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if the adverse reaction recovers to Grade ≤ 1 and corticosteroid dose has been reduced to ≤ 10 mg prednisone or equivalent per day.
 
-Pembrolizumab must be permanently discontinued for any Grade 3 immune-related adverse reaction that recurs and for any Grade 4 immune-related adverse reaction toxicity, except for endocrinopathies that are controlled with replacement hormones (see sections 4.2 and 4.8).
+Pembrolizumab must be permanently discontinued for any Grade 3 immune-mediated adverse reaction that recurs and for any Grade 4 immune-mediated adverse reaction toxicity, except for endocrinopathies that are controlled with replacement hormones (see sections 4.2 and 4.8).
 
-Immune-related pneumonitis
+Immune-mediated pneumonitis
 Pneumonitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of pneumonitis.
 Suspected pneumonitis should be confirmed with radiographic imaging and other causes excluded.
 Corticosteroids should be administered for Grade ≥ 2 events (initial dose of 1-2 mg/kg/day prednisone or equivalent followed by a taper); pembrolizumab should be withheld for Grade 2 pneumonitis, and permanently discontinued for
 Grade 3, Grade 4 or recurrent Grade 2 pneumonitis (see section 4.2).
 
-Immune-related colitis
+Immune-mediated colitis
 Colitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for signs and symptoms of colitis, and other causes excluded.
 Corticosteroids should be administered for Grade ≥ 2 events (initial dose of 1-2 mg/kg/day prednisone or equivalent followed by a taper); pembrolizumab should be withheld for Grade 2 or Grade 3 colitis, and permanently discontinued for Grade 4 or recurrent Grade 3 colitis (see section 4.2).
 The potential risk of gastrointestinal perforation should be taken into consideration.
 
-Immune-related hepatitis
+Immune-mediated hepatitis
 Hepatitis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for changes in liver function (at the start of treatment, periodically during treatment and as indicated based on clinical evaluation) and symptoms of hepatitis, and other causes excluded.
 Corticosteroids should be administered (initial dose of 0.5-1 mg/kg/day (for Grade 2 events) and 1-2 mg/kg/day (for Grade ≥ 3 events) prednisone or equivalent followed by a taper) and, based on severity of liver enzyme elevations, pembrolizumab should be withheld or discontinued (see section 4.2).
 
-Immune-related nephritis
+Immune-mediated nephritis
 Nephritis has been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for changes in renal function, and other causes of renal dysfunction excluded.
 Corticosteroids should be administered for Grade ≥ 2 events (initial dose of 1-2 mg/kg/day prednisone or equivalent followed by a taper) and, based on severity of creatinine elevations, pembrolizumab should be withheld for Grade 2, and permanently discontinued for Grade 3 or Grade 4 nephritis (see section 4.2).
 
-Immune-related endocrinopathies
+Immune-mediated endocrinopathies
 Severe endocrinopathies, including adrenal insufficiency, hypophysitis, type 1 diabetes mellitus, diabetic ketoacidosis, hypothyroidism, and hyperthyroidism have been observed with pembrolizumab treatment.
 
-Long-term hormone replacement therapy may be necessary in cases of immune-related endocrinopathies.
+Long-term hormone replacement therapy may be necessary in cases of immune-mediated endocrinopathies.
 
 Adrenal insufficiency (primary and secondary) has been reported in patients receiving pembrolizumab.
 Hypophysitis has also been reported in patients receiving pembrolizumab (see section 4.8).
@@ -72,8 +73,8 @@ Thyroid function and hormone levels should be monitored to ensure appropriate ho
 For patients with Grade 3 or Grade 4 endocrinopathies that improved to Grade 2 or lower and are controlled with hormone replacement, if indicated, continuation of pembrolizumab may be considered after corticosteroid taper, if needed.
 Otherwise treatment should be discontinued (see sections 4.2 and 4.8).
 
-Immune-related skin adverse reactions
-Immune-related severe skin reactions have been reported in patients receiving pembrolizumab (see section 4.8).
+Immune-mediated skin adverse reactions
+Immune-mediated severe skin reactions have been reported in patients receiving pembrolizumab (see section 4.8).
 Patients should be monitored for suspected severe skin reactions and other causes should be excluded.
 Based on the severity of the adverse reaction, pembrolizumab should be withheld for Grade 3 skin reactions until recovery to Grade ≤ 1 or permanently discontinued for Grade 4 skin reactions, and corticosteroids should be administered (see section 4.2).
 
@@ -83,14 +84,14 @@ If SJS or TEN is confirmed, pembrolizumab should be permanently discontinued (se
 
 Caution should be used when considering the use of pembrolizumab in a patient who has previously experienced a severe or life-threatening skin adverse reaction on prior treatment with other immune-stimulatory anti-cancer agents.
 
-Other immune-related adverse reactions
-The following additional clinically significant, immune-related adverse reactions have been reported in clinical studies or in post-marketing experience: uveitis, arthritis, myositis, myocarditis, pancreatitis, Guillain-Barré syndrome, myasthenic syndrome, haemolytic anaemia, sarcoidosis, encephalitis, myelitis, vasculitis, cholangitis sclerosing, gastritis, cystitis noninfective and hypoparathyroidism (see sections 4.2 and 4.8).
+Other immune-mediated adverse reactions
+The following additional clinically significant, immune-mediated adverse reactions have been reported in clinical studies or in post-marketing experience: uveitis, arthritis, myositis, myocarditis, pancreatitis, Guillain-Barré syndrome, myasthenic syndrome, haemolytic anaemia, sarcoidosis, encephalitis, myelitis, vasculitis, cholangitis sclerosing, gastritis, cystitis noninfective and hypoparathyroidism (see sections 4.2 and 4.8).
 
 Based on the severity and type of the adverse reaction, pembrolizumab should be withheld for Grade 2 or Grade 3 events and corticosteroids administered.
-
 Pembrolizumab may be restarted within 12 weeks after last dose of KEYTRUDA if the adverse reaction recovers to Grade ≤ 1 and corticosteroid dose has been reduced to ≤ 10 mg prednisone or equivalent per day.
 
-Pembrolizumab must be permanently discontinued for any Grade 3 immune-related adverse reaction that recurs and for any Grade 4 immune-related adverse reaction.
+Pembrolizumab must be permanently discontinued for any Grade 3 immune-mediated adverse reaction that recurs and for any Grade 4 immune-mediated adverse reaction.
+
 For Grades 3 or 4 myocarditis, encephalitis or Guillain-Barré syndrome, pembrolizumab should be permanently discontinued (see sections 4.2 and 4.8).
 
 Transplant-related adverse reactions
@@ -165,7 +166,7 @@ Use of pembrolizumab for first-line treatment of patients with MSI-H/dMMR CRC
 In KEYNOTE-177, the hazard rates for overall survival events were greater for pembrolizumab compared with chemotherapy for the first 4 months of treatment, followed by a long-term survival benefit for pembrolizumab (see section 5.1).
 
 Patients excluded from clinical studies
-Patients with the following conditions were excluded from clinical studies: active CNS metastases; ECOG PS ≥ 2 (except for urothelial carcinoma and RCC); HIV infection, hepatitis B or hepatitis C infection; active systemic autoimmune disease; interstitial lung disease; prior pneumonitis requiring systemic corticosteroid therapy; a history of severe hypersensitivity to another monoclonal antibody; receiving immunosuppressive therapy and a history of severe immune-related adverse reactions from treatment with ipilimumab, defined as any Grade 4 toxicity or Grade 3 toxicity requiring corticosteroid treatment (> 10 mg/day prednisone or equivalent) for greater than 12 weeks.
+Patients with the following conditions were excluded from clinical studies: active CNS metastases; ECOG PS ≥ 2 (except for urothelial carcinoma and RCC); HIV infection, hepatitis B or hepatitis C infection; active systemic autoimmune disease; interstitial lung disease; prior pneumonitis requiring systemic corticosteroid therapy; a history of severe hypersensitivity to another monoclonal antibody; receiving immunosuppressive therapy and a history of severe immune-mediated adverse reactions from treatment with ipilimumab, defined as any Grade 4 toxicity or Grade 3 toxicity requiring corticosteroid treatment (> 10 mg/day prednisone or equivalent) for greater than 12 weeks.
 Patients with active infections were excluded from clinical studies and were required to have their infection treated prior to receiving pembrolizumab.
 Patients with active infections occurring during treatment with pembrolizumab were managed with appropriate medical therapy.
 Patients with clinically significant renal (creatinine > 1.5 x ULN) or hepatic (bilirubin > 1.5 x ULN, ALT, AST > 2.5 x ULN in the absence of liver metastases) abnormalities at baseline were excluded from clinical studies, therefore information is limited in patients with severe renal and moderate to severe hepatic impairment.
@@ -174,7 +175,7 @@ There are limited data on the safety and efficacy of KEYTRUDA in patients with o
 
 After careful consideration of the potential increased risk, pembrolizumab may be used with appropriate medical management in these patients.
 
-Patient alert card
+Patient card
 All prescribers of KEYTRUDA must be familiar with the Physician Information and Management Guidelines.
 The prescriber must discuss the risks of KEYTRUDA therapy with the patient.
-The patient will be provided with the patient alert card with each prescription.
+The patient will be provided with the patient card with each prescription.

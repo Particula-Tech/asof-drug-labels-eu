@@ -3,7 +3,7 @@
 Therapy must be initiated and supervised by specialist physicians experienced in the treatment of cancer.
 
 PD-L1 testing
-If specified in the indication, patient selection for treatment with KEYTRUDA based on the tumour expression of PD-L1 should be confirmed by a validated test (see sections 4.1, 4.4, 4.8, and 5.1).
+If specified in the indication, patient selection for treatment with KEYTRUDA based on the tumour expression of PD-L1 should be confirmed by a validated test (see sections 4.1, 4.4, 4.8 and 5.1).
 
 MSI/MMR testing
 If specified in the indication, patient selection for treatment with KEYTRUDA based on MSI-H/dMMR tumour status should be confirmed by a validated test (see sections 4.1 and 5.1).
@@ -18,7 +18,6 @@ For use in combination, see the Summary of Product Characteristics (SmPC) for th
 Patients should be treated with KEYTRUDA until disease progression or unacceptable toxicity (and up to maximum duration of therapy if specified for an indication).
 Atypical responses (i.e. an initial transient increase in tumour size or small new lesions within the first few months followed by tumour shrinkage) have been observed.
 It is recommended to continue treatment for clinically stable patients with initial evidence of disease progression until disease progression is confirmed.
-
 For the adjuvant treatment of melanoma or RCC, KEYTRUDA should be administered until disease recurrence, unacceptable toxicity, or for a duration of up to one year.
 
 For the neoadjuvant and adjuvant treatment of TNBC, patients should be treated with neoadjuvant KEYTRUDA in combination with chemotherapy for 8 doses of 200 mg every 3 weeks or 4 doses of 400 mg every 6 weeks or until disease progression that precludes definitive surgery or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as monotherapy for 9 doses of 200 mg every 3 weeks or 5 doses of 400 mg every 6 weeks or until disease recurrence or unacceptable toxicity.
@@ -30,7 +29,7 @@ KEYTRUDA should be withheld or discontinued to manage adverse reactions as descr
 
 Table 1: Recommended treatment modifications for KEYTRUDA
 
-| Immune-related adverse reactions | Severity | Treatment modification |
+| Immune-mediated adverse reactions | Severity | Treatment modification |
 | --- | --- | --- |
 | Pneumonitis | Grade 2 | Withhold until adverse reactions recover to Grades 0-1* |
 |  | Grades 3 or 4, or recurrent Grade 2 | Permanently discontinue |
@@ -42,12 +41,12 @@ Table 1: Recommended treatment modifications for KEYTRUDA
 |  | Grades 3 or 4 adrenal insufficiency or symptomatic hypophysitis | Withhold until adverse reactions recover to Grades 0-1* |
 |  | Type 1 diabetes associated with Grade ≥ 3 hyperglycaemia (glucose > 250 mg/dL or > 13.9 mmol/L) or associated with ketoacidosis Hyperthyroidism Grade ≥ 3 | For patients with Grade 3 or Grade 4 endocrinopathies that improved to Grade 2 or lower and are controlled with hormone replacement, if indicated, continuation of pembrolizumab may be considered after corticosteroid taper, if needed. Otherwise treatment should be discontinued. |
 |  | Hypothyroidism | Hypothyroidism may be managed with replacement therapy without treatment interruption. |
-| Hepatitis NOTE: for RCC patients treated with pembrolizumab in combination with axitinib with liver enzyme elevations, see dosing guidelines following this table. | Grade 2 with aspartate aminotransferase (AST) or alanine aminotransferase (ALT) > 3 to 5 times ULN or total bilirubin > 1.5 to 3 times ULN | Withhold until adverse reactions recover to Grades 0-1* |
-|  | Grade ≥ 3 with AST or ALT > 5 times ULN or total bilirubin > 3 times ULN | Permanently discontinue |
+| Hepatitis NOTE: for RCC patients treated with pembrolizumab in | Grade 2 with aspartate aminotransferase (AST) or alanine aminotransferase (ALT) > 3 to 5 times ULN or total bilirubin > 1.5 to 3 times ULN | Withhold until adverse reactions recover to Grades 0-1* |
+| combination with axitinib with liver enzyme elevations, see dosing guidelines following this table. | Grade ≥ 3 with AST or ALT > 5 times ULN or total bilirubin > 3 times ULN | Permanently discontinue |
 |  | In case of liver metastasis with baseline Grade 2 elevation of AST or ALT, hepatitis with AST or ALT increases ≥ 50% and lasts ≥ 1 week | Permanently discontinue |
 | Skin reactions | Grade 3 or suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) | Withhold until adverse reactions recover to Grades 0-1* |
 |  | Grade 4 or confirmed SJS or TEN | Permanently discontinue |
-| Other immune-related adverse reactions | Based on severity and type of reaction (Grade 2 or Grade 3) | Withhold until adverse reactions recover to Grades 0-1* |
+| Other immune-mediated adverse reactions | Based on severity and type of reaction (Grade 2 or Grade 3) | Withhold until adverse reactions recover to Grades 0-1* |
 |  | Grades 3 or 4 myocarditis Grades 3 or 4 encephalitis Grades 3 or 4 Guillain-Barré syndrome | Permanently discontinue |
 |  | Grade 4 or recurrent Grade 3 | Permanently discontinue |
 | Infusion-related reactions | Grades 3 or 4 | Permanently discontinue |
@@ -58,9 +57,10 @@ Note: toxicity grades are in accordance with National Cancer Institute Common Te
 
 corticosteroid dosing cannot be reduced to ≤ 10 mg prednisone or equivalent per day within 12 weeks, KEYTRUDA should be permanently discontinued.
 
-The safety of re-initiating pembrolizumab therapy in patients previously experiencing immune-related myocarditis is not known.
+The safety of re-initiating pembrolizumab therapy in patients previously experiencing immune-mediated myocarditis is not known.
 
-KEYTRUDA, as monotherapy or as combination therapy, should be permanently discontinued for Grade 4 or recurrent Grade 3 immune-related adverse reactions, unless otherwise specified in Table 1.
+KEYTRUDA, as monotherapy or as combination therapy, should be permanently discontinued for Grade 4 or recurrent Grade 3 immune-mediated adverse reactions, unless otherwise specified in
+Table 1.
 
 For Grade 4 haematological toxicity, only in patients with cHL, KEYTRUDA should be withheld until adverse reactions recover to Grades 0-1.
 
@@ -81,7 +81,8 @@ When used in combination with lenvatinib, one or both medicines should be interr
 Lenvatinib should be withheld, dose reduced, or discontinued in accordance with the instructions in the lenvatinib SmPC for combination with pembrolizumab.
 No dose reductions are recommended for KEYTRUDA.
 
-Patients treated with KEYTRUDA must be given the patient alert card and be informed about the risks of KEYTRUDA (see also package leaflet).
+Patients treated with KEYTRUDA must be given the patient card and be informed about the risks of KEYTRUDA (see also package leaflet).
+
 Special populations
 Elderly
 No dose adjustment is necessary in patients ≥ 65 years (see sections 4.4 and 5.1).

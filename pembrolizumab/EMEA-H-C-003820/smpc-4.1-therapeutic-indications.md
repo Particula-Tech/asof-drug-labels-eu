@@ -60,3 +60,6 @@ KEYTRUDA, in combination with lenvatinib, is indicated for the treatment of adva
 
 Cervical cancer
 KEYTRUDA, in combination with chemotherapy with or without bevacizumab, is indicated for the treatment of persistent, recurrent, or metastatic cervical cancer in adults whose tumours express PD-L1 with a CPS ≥ 1.
+
+Gastric or gastro-oesophageal junction (GEJ) adenocarcinoma
+KEYTRUDA, in combination with trastuzumab, fluoropyrimidine and platinum-containing chemotherapy, is indicated for the first-line treatment of locally advanced unresectable or metastatic HER2-positive gastric or gastro-oesophageal junction adenocarcinoma in adults whose tumours express PD-L1 with a CPS ≥ 1.

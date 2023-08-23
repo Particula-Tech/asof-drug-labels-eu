@@ -20,7 +20,7 @@ Linearity/non-linearity
 Exposure to pembrolizumab as expressed by peak concentration (Cmax) or area under the plasma concentration time curve (AUC) increased dose proportionally within the dose range for efficacy.
 Steady-state concentrations of pembrolizumab were reached by 16 weeks of repeated dosing with an every 3 week regimen and the systemic accumulation was 2.1-fold.
 The median trough concentrations (Cmin) at steady-state were approximately 22 mcg/mL at a dose of 2 mg/kg bw every 3 weeks and 29 mcg/mL at a dose of 200 mg every 3 weeks.
-The median area under the concentration time curve at steady-state over 3 weeks (AUC0-3weeks) was 794 mcg∙day/mL at a dose of 2 mg/kg bw every 3 weeks and 1,053 mcg∙day/mL at a dose of 200 mg every 3 weeks.
+The median area under the concentration time curve at steady-state over 3 weeks (AUC0-3weeks) was 794 mcg•day/mL at a dose of 2 mg/kg bw every 3 weeks and 1,053 mcg•day/mL at a dose of 200 mg every 3 weeks.
 
 Following administration of pembrolizumab 200 mg every 3 weeks in patients with cHL, the observed median Cmin at steady-state was up to 40% higher than that in other tumour types treated with the same dosage; however, the range of trough concentrations is similar.
 There are no notable differences in median Cmax between cHL and other tumour types.
