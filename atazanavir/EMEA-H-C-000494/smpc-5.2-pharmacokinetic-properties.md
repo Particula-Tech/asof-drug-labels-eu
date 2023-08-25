@@ -4,22 +4,22 @@ The pharmacokinetics of atazanavir were evaluated in healthy adult volunteers an
 The pharmacokinetics of atazanavir exhibit a non-linear disposition.
 
 Absorption: in HIV-infected patients (n = 33, combined studies), multiple dosing of REYATAZ
-300 mg once daily with ritonavir 100 mg once daily with food produced a geometric mean (CV%) for atazanavir, Cmax of 4 466 (42%) ng/ml, with time to Cmax of approximately 2.5 hours.
-The geometric mean (CV%) for atazanavir Cmin and AUC was 654 (76%) ng/ml and 44 185 (51%) ng•h/ml, respectively.
+300 mg once daily with ritonavir 100 mg once daily with food produced a geometric mean (CV%) for atazanavir, Cmax of 4466 (42%) ng/mL, with time to Cmax of approximately 2.5 hours.
+The geometric mean (CV%) for atazanavir Cmin and AUC was 654 (76%) ng/mL and 44185 (51%) ng•h/mL, respectively.
 
-In HIV-infected patients (n = 13), multiple dosing of REYATAZ 400 mg (without ritonavir) once daily with food produced a geometric mean (CV%) for atazanavir Cmax of 2 298 (71) ng/ml, with time to Cmax of approximately 2.0 hours.
-The geometric mean (CV%) for atazanavir Cmin and AUC were 120 (109) ng/ml and 14 874 (91) ng•h/ml, respectively.
+In HIV-infected patients (n = 13), multiple dosing of REYATAZ 400 mg (without ritonavir) once daily with food produced a geometric mean (CV%) for atazanavir Cmax of 2298 (71) ng/mL, with time to Cmax of approximately 2.0 hours.
+The geometric mean (CV%) for atazanavir Cmin and AUC were 120 (109) ng/mL and 14874 (91) ng•h/mL, respectively.
 
 Food effect: co-administration of REYATAZ and ritonavir with food optimises the bioavailability of atazanavir.
-Co-administration of a single 300 mg dose of REYATAZ and 100 mg dose of ritonavir with a light meal resulted in a 33% increase in the AUC and a 40% increase in both the Cmax and the 24 hour concentration of atazanavir relative to the fasting state.
+Co-administration of a single 300-mg dose of REYATAZ and 100-mg dose of ritonavir with a light meal resulted in a 33% increase in the AUC and a 40% increase in both the Cmax and the 24 hour concentration of atazanavir relative to the fasting state.
 Co-administration with a high-fat meal did not affect the AUC of atazanavir relative to fasting conditions and the Cmax was within 11% of fasting values.
-The 24 hour concentration following a high fat meal was increased by approximately 33% due to delayed absorption; the median Tmax increased from 2.0 to 5.0 hours.
-Administration of REYATAZ with ritonavir with either a light or a high-fat meal decreased the coefficient of variation of AUC and Cmax by approximately 25% compared to the fasting state.
+The 24-hour concentration following a high-fat meal was increased by approximately 33% due to delayed absorption; the median Tmax increased from 2.0 to 5.0 hours.
+Administration of REYATAZ with ritonavir with either a light or a high fat meal decreased the coefficient of variation of AUC and Cmax by approximately 25% compared to the fasting state.
 To enhance bioavailability and minimise variability, REYATAZ is to be taken with food.
 
-Distribution: atazanavir was approximately 86% bound to human serum proteins over a concentration range of 100 to 10,000 ng/ml.
-Atazanavir binds to both alpha-1-acid glycoprotein (AAG) and albumin to a similar extent (89% and 86%, respectively, at 1,000 ng/ml).
-In a multiple-dose study in HIV-infected patients dosed with 400 mg of atazanavir once daily with a light meal for 12 weeks, atazanavir was detected in the cerebrospinal fluid and semen.
+Distribution: atazanavir was approximately 86% bound to human serum proteins over a concentration range of 100 to 10,000 ng/mL.
+Atazanavir binds to both alpha-1-acid glycoprotein (AAG) and albumin to a similar extent (89% and 86%, respectively, at 1,000 ng/mL).
+In a multiple-dose study in HIV-infected patients dosed with 400-mg of atazanavir once daily with a light meal for 12 weeks, atazanavir was detected in the cerebrospinal fluid and semen.
 
 Metabolism: studies in humans and in vitro studies using human liver microsomes have demonstrated that atazanavir is principally metabolised by CYP3A4 isozyme to oxygenated metabolites.
 Metabolites are then excreted in the bile as either free or glucuronidated metabolites.
@@ -43,7 +43,7 @@ The mechanism of this decrease is unknown.
 
 Hepatic impairment: atazanavir is metabolised and eliminated primarily by the liver.
 REYATAZ (without ritonavir) has been studied in adult subjects with moderate-to-severe hepatic impairment
-(14 Child-Pugh Class B and 2 Child-Pugh Class C subjects) after a single 400 mg dose.
+(14 Child-Pugh Class B and 2 Child-Pugh Class C subjects) after a single 400-mg dose.
 The mean AUC(0-∞) was 42% greater in subjects with impaired hepatic function than in healthy subjects.
 The mean half-life of atazanavir in hepatically impaired subjects was 12.1 hours compared to 6.4 hours in healthy subjects.
 The effects of hepatic impairment on the pharmacokinetics of atazanavir after a 300 mg dose with ritonavir have not been studied.
@@ -66,15 +66,22 @@ Table 8: Steady-State Pharmacokinetics of Atazanavir with ritonavir in HIV-Infec
 | AUC ng•h/mL Geometric mean (CV%) | 34 399.1 (37) | 34 251.5 (43) | 60 532.7 (33) |
 | Cmin ng/mLb Geometric mean (CV%) | 663.78 (36) | 668.48 (50) | 1 420.64 (47) |
 
-a Atazanavir peak concentrations and AUCs were found to be approximately 26-40% higher during the postpartum period (4-12 weeks) than those observed historically in HIV infected, non-pregnant patients.
-Atazanavir plasma trough concentrations were approximately 2-fold higher during the postpartum period when compared to those observed historically in HIV infected non-pregnant patients.
+a Atazanavir peak concentrations and AUCs were found to be approximately 26-40% higher during the postpartum period (4-12 weeks) than those observed historically in HIV-infected, non-pregnant patients.
+Atazanavir plasma trough concentrations were approximately 2-fold higher during the postpartum period when compared to those observed historically in HIV-infected non-pregnant patients.
 b Cmin is concentration 24 hours post-dose.
 
 Paediatric population
 There is a trend toward a higher clearance in younger children when normalised for body weight.
-As a result, greater peak to trough ratios are observed, however at recommended doses, geometric mean atazanavir exposures (Cmin, Cmax and AUC) in paediatric patients are expected to be similar to those observed in adults.
+As a result, greater peak to trough ratios are observed, however at recommended doses, geometric mean atazanavir exposures (Cmin, Cmax, and AUC) in paediatric patients are expected to be similar to those observed in adults.
 
 [REYATAZ 50 mg oral powder]
+
+Co-administration of a single 300-mg dose of REYATAZ and 100-mg dose of ritonavir with a light meal resulted in a 33% increase in the AUC and a 40% increase in both the Cmax and the 24-hour concentration of atazanavir relative to the fasting state.
+Administration of REYATAZ with ritonavir with either a light or a high-fat meal decreased the coefficient of variation of AUC and Cmax by approximately 25% compared to the fasting state.
+
+In a multiple-dose study in HIV-infected patients dosed with 400 mg of atazanavir once daily with a light meal for 12 weeks, atazanavir was detected in the cerebrospinal fluid and semen.
+
+Elimination: following a single 400-mg dose of 14C-atazanavir, 79% and 13% of the total radioactivity was recovered in the faeces and urine, respectively.
 
 Linearity/non-linearity: the pharmacokinetics of atazanavir were evaluated in healthy adult volunteers and in HIV infected patients; significant differences were observed between the two groups.
 
@@ -83,4 +90,4 @@ The mechanism of this decrease is unknown (see sections 4.2 and 4.4.).
 The pharmacokinetic data from HIV-infected pregnant women receiving REYATAZ capsules with ritonavir are presented in Table 9.
 Table 9: Steady-State Pharmacokinetics of Atazanavir with ritonavir in HIV-Infected Pregnant Women in the Fed State
 
-As a result, greater peak to trough ratios are observed; however at recommended doses, geometric mean atazanavir exposures (Cmin, Cmax and AUC) in paediatric patients are expected to be similar to those observed in adults.
+As a result, greater peak to trough ratios are observed; however at recommended doses, geometric mean atazanavir exposures (Cmin, Cmax, and AUC) in paediatric patients are expected to be similar to those observed in adults.

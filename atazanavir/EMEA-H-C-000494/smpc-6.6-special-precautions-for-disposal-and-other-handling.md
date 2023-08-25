@@ -15,16 +15,16 @@ Larger volumes or quantities of liquid infant formula, beverage or food may be u
 It should be ensured that the patient eats or drinks all the infant formula, beverage or food that contains the powder.
 A: To mix the recommended number of REYATAZ oral powder sachets with liquid infant formula in a small medicine cup or small container and to administer with an oral syringe, which can be obtained from a pharmacist:
 
-- A spoon is used to mix the content of the appropriate number of sachets (4 or 5 sachets depending on infant weight) with 10 ml of prepared liquid infant formula in the medicine cup or small container.
+- A spoon is used to mix the content of the appropriate number of sachets (4 or 5 sachets depending on infant weight) with 10 mL of prepared liquid infant formula in the medicine cup or small container.
   The full amount of the mixture is drawn up into an oral syringe and administered into either right or left inner cheek of the infant.
-  Another 10 ml of formula is poured into the medicine cup or small container to rinse off remaining REYATAZ oral powder in the cup or container.
+  Another 10 mL of formula is poured into the medicine cup or small container to rinse off remaining REYATAZ oral powder in the cup or container.
   The residual mixture is drawn up into the syringe and administered into either the right or left inner cheek of the infant.
 
 B: To mix the recommended number of REYATAZ oral powder sachets with a beverage such as milk or water in a small drinking cup:
 
-- A spoon is used to mix the content of the sachets with 30 ml of the beverage.
+- A spoon is used to mix the content of the sachets with 30 mL of the beverage.
   The child is to drink the mixture.
-  An additional 15 ml of beverage is added to the drinking cup for thorough rinsing of the cup and contents are mixed.
+  An additional 15 mL of beverage is added to the drinking cup for thorough rinsing of the cup and contents are mixed.
   The child is to drink the entire residual mixture.
 - If water is used, food should also be taken at the same time.
 

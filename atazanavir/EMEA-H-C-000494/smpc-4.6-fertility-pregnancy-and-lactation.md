@@ -36,5 +36,3 @@ Animal studies do not indicate reproductive toxicity (see section 5.3).
 The use of REYATAZ may be considered during pregnancy only if the potential benefit justifies the potential risk.
 
 It is not known whether REYATAZ administered to the mother during pregnancy will exacerbate physiological hyperbilirubinaemia and lead to kernicterus in neonates and infants.
-
-In a non-clinical fertility and early embryonic development study in rats, atazanavir altered oestrus cycling with no effects on mating or fertility (see section 5.3).

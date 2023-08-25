@@ -31,14 +31,14 @@ Special populations
 
 Renal impairment
 No dosage adjustment is needed.
-REYATAZ with ritonavir is not recommended in patients undergoing haemodialysis (see sections 4.4 and 5.2).
+REYATAZ with ritonavir is not recommended in patients undergoing haemodialysis (see sections 4.4, and 5.2).
 
 Hepatic impairment
 REYATAZ with ritonavir has not been studied in patients with hepatic impairment.
 REYATAZ with ritonavir should be used with caution in patients with mild hepatic impairment.
 REYATAZ with ritonavir must not be used in patients with moderate to severe hepatic impairment (see sections 4.3, 4.4 and 5.2).
 
-In case of withdrawal of ritonavir from the initial recommended ritonavir boosted regimen
+In case of withdrawal of ritonavir from the initial recommended ritonavir-boosted regimen
 (see section 4.4), unboosted REYATAZ could be maintained in patients with mild hepatic impairment at a dose of 400 mg, and in patients with moderate hepatic impairment with a reduced dose of 300 mg once daily with food (see section 5.2).
 Unboosted REYATAZ must not be used in patients with severe hepatic impairment.
 
@@ -90,11 +90,13 @@ Switching from REYATAZ oral powder to REYATAZ capsules is encouraged as soon as 
 
 Consult the dosing table for the specific formulation (see Summary of Product Characteristics for REYATAZ capsules).
 
+REYATAZ with ritonavir is not recommended in patients undergoing haemodialysis (see sections 4.4 and 5.2).
+
 REYATAZ must not be used in patients with moderate to severe hepatic impairment (see sections 4.3, 4.4, and 5.2).
 
 REYATAZ has not been studied in children less than 3 months of age and is not recommended because of the potential risk of kernicterus.
 
-REYATAZ oral powder should be taken/given with food (e.g. applesauce or yogurt) or drinks (e.g. milk, infant formula or water) for infants who can drink from a cup.
+REYATAZ oral powder should be taken/given with food (e.g., applesauce or yogurt) or drinks (e.g., milk, infant formula, or water) for infants who can drink from a cup.
 For young infants (less than 6 months) who cannot eat solid food or drink from a cup, REYATAZ oral powder should be mixed with infant formula and given using an oral syringe, which can be obtained from a pharmacist.
 Administration of REYATAZ and infant formula using an infant bottle is not recommended because the full dose may not be delivered.
 For details on preparation and administration of the REYATAZ oral powder and Instructions for Use, see section 6.6.

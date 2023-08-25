@@ -18,7 +18,7 @@ If there is evidence of worsening liver disease in such patients, interruption o
 Renal impairment: No dosage adjustment is needed in patients with renal impairment.
 However, REYATAZ is not recommended in patients undergoing haemodialysis (see sections 4.2 and 5.2).
 
-QT prolongation: Dose related asymptomatic prolongations in PR interval with REYATAZ have been observed in clinical studies.
+QT prolongation: Dose-related asymptomatic prolongations in PR interval with REYATAZ have been observed in clinical studies.
 Caution should be used with medicinal products known to induce PR prolongations.
 In patients with pre-existing conduction problems (second degree or higher atrioventricular or complex bundle-branch block), REYATAZ should be used with caution and only if the benefits exceed the risk (see section 5.1).
 Particular caution should be used when prescribing REYATAZ in association with medicinal products which have the potential to increase the QT interval and/or in patients with pre-existing risk factors (bradycardia, long congenital QT, electrolyte imbalances (see sections 4.8 and 5.3).
@@ -61,7 +61,7 @@ The withdrawal of ritonavir from the boosted regimen of REYATAZ is not recommend
 
 REYATAZ given without ritonavir should not be considered in patients treated with a backbone regimen containing tenofovir disoproxil and with other concomitant medications that reduce atazanavir bioavailability (see section 4.5 In case of withdrawal of ritonavir from the recommended atazanavir boosted regimen) or in case of perceived challenging compliance.
 
-REYATAZ given without ritonavir should not be used in pregnant patients given that it could result of suboptimal exposure of particular concern for the mother infection and vertical transmission.
+REYATAZ given without ritonavir should not be used in pregnant patients given that it could result in suboptimal exposure of particular concern for the mother infection and vertical transmission.
 Cholelithiasis
 
 Cholelithiasis has been reported in patients receiving REYATAZ (see section 4.8).
@@ -92,12 +92,12 @@ Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have als
 
 Osteonecrosis
 
-Although the aetiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
+Although the aetiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV disease and/or long-term exposure to combination antiretroviral therapy (CART).
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
 
 Rash and associated syndromes
 
-Rashes are usually mild -to-moderate maculopapular skin eruptions that occur within the first 3 weeks of starting therapy with REYATAZ.
+Rashes are usually mild-to-moderate maculopapular skin eruptions that occur within the first 3 weeks of starting therapy with REYATAZ.
 
 Stevens-Johnson syndrome (SJS), erythema multiforme, toxic skin eruptions and drug rash with eosinophilia and systemic symptoms (DRESS) syndrome have been reported in patients receiving REYATAZ.
 Patients should be advised of the signs and symptoms and monitored closely for skin reactions.
@@ -115,8 +115,8 @@ If the co-administration of REYATAZ with an NNRTI is required, an increase in th
 Atazanavir is metabolised principally by CYP3A4.
 Co-administration of REYATAZ and medicinal products that induce CYP3A4 is not recommended (see sections 4.3 and 4.5).
 
-PDE5 inhibitors used for the treatment of erectile dysfunction: particular caution should be used when prescribing PDE5-inhibitors (sildenafil, tadalafil, or vardenafil) for the treatment of erectile dysfunction in patients receiving REYATAZ.
-Co-administration of REYATAZ with these medicinal products is expected to substantially increase their concentrations and may result in PDE5-associated adverse reactions such as hypotension, visual changes and priapism (see section 4.5).
+PDE5 inhibitors used for the treatment of erectile dysfunction: particular caution should be used when prescribing PDE5 inhibitors (sildenafil, tadalafil, or vardenafil) for the treatment of erectile dysfunction in patients receiving REYATAZ.
+Co-administration of REYATAZ with these medicinal products is expected to substantially increase their concentrations and may result in PDE5-associated adverse reactions such as hypotension, visual changes, and priapism (see section 4.5).
 
 Co-administration of voriconazole and REYATAZ with ritonavir is not recommended, unless an assessment of the benefit/risk justifies the use of voriconazole.
 
@@ -151,7 +151,7 @@ Atazanavir/ritonavir is not effective in viral strains harbouring multiple mutat
 Excipients
 
 Lactose
-Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency, or glucose-galactose malabsorption should not take this medicinal product.
 
 [REYATAZ 50 mg oral powder]
 
@@ -163,13 +163,13 @@ No dosage adjustment is needed in patients with renal impairment.
 However, REYATAZ with ritonavir is not recommended in patients undergoing haemodialysis (see sections 4.2 and 5.2).
 
 QT prolongation
-Dose related asymptomatic prolongations in PR interval with REYATAZ have been observed in clinical studies.
+Dose-related asymptomatic prolongations in PR interval with REYATAZ have been observed in clinical studies.
 
 Haemophiliac patients
 There have been reports of increased bleeding, including spontaneous skin haematomas and haemarthroses, in type A and B haemophiliac patients treated with protease inhibitors.
 
 Co-administration of REYATAZ with ritonavir and medicinal products that induce CYP3A4 is not recommended (see sections 4.3 and 4.5).
-PDE5 inhibitors used for the treatment of erectile dysfunction: particular caution should be used when prescribing PDE5-inhibitors (sildenafil, tadalafil, or vardenafil) for the treatment of erectile dysfunction in patients receiving REYATAZ with concomitant low-dose ritonavir.
+PDE5-inhibitors used for the treatment of erectile dysfunction: particular caution should be used when prescribing PDE5 inhibitors (sildenafil, tadalafil, or vardenafil) for the treatment of erectile dysfunction in patients receiving REYATAZ with concomitant low-dose ritonavir.
 
 Concomitant use of salmeterol and REYATAZ/ritonavir may result in increased cardiovascular adverse events associated with salmeterol.
 Co-administration of salmeterol and REYATAZ is not recommended (see section 4.5).
@@ -183,4 +183,4 @@ Diabetic population
 REYATAZ oral powder contains 1 305.15 mg of sucrose per sachet.
 For the recommended paediatric dosage, REYATAZ oral powder contains 3 915.45 mg sucrose per 150 mg atazanavir, 5 220.60 mg sucrose per 200 mg atazanavir, 6 525.75 mg sucrose per 250 mg atazanavir, and 7 830.90 mg sucrose per 300 mg atazanavir.
 This should be taken into account in patients with diabetes mellitus.
-Patients with rare hereditary problems of fructose intolerance, glucose galactose malabsorption or sucrase isomaltase insufficiency should not take this medicine.
+Patients with rare hereditary problems of fructose intolerance, glucose galactose malabsorption, or sucrase isomaltase insufficiency should not take this medicine.

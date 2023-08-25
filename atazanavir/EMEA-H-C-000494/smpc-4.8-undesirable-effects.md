@@ -90,13 +90,13 @@ Weight and levels of blood lipids and glucose may increase during antiretroviral
 Rash and associated syndromes
 Rashes are usually mild-to-moderate maculopapular skin eruptions that occur within the first 3 weeks of starting therapy with REYATAZ.
 
-Stevens-Johnson syndrome (SJS), erythema multiforme, toxic skin eruptions and drug rash with eosinophilia and systemic symptoms (DRESS) syndrome have been reported with the use of REYATAZ (see section 4.4).
+Stevens-Johnson syndrome (SJS), erythema multiforme, toxic skin eruptions, and drug rash with eosinophilia and systemic symptoms (DRESS) syndrome have been reported with the use of REYATAZ (see section 4.4).
 
 Laboratory abnormalities
 The most frequently reported laboratory abnormality in patients receiving regimens containing REYATAZ and one or more NRTIs was elevated total bilirubin reported predominantly as elevated indirect [unconjugated] bilirubin (87% Grade 1, 2, 3, or 4).
 Grade 3 or 4 elevation of total bilirubin was noted in 37% (6% Grade 4).
 Among experienced patients treated with REYATAZ 300 mg once daily with 100 mg ritonavir once daily for a median duration of 95 weeks, 53% had Grade 3-4 total bilirubin elevations.
-Among naive patients treated with REYATAZ 300 mg once daily with 100 mg ritonavir once daily for a median duration of 96 weeks, 48% had Grade 3-4 total bilirubin elevations (see section 4.4).
+Among naïve patients treated with REYATAZ 300 mg once daily with 100 mg ritonavir once daily for a median duration of 96 weeks, 48% had Grade 3-4 total bilirubin elevations (see section 4.4).
 
 Other marked clinical laboratory abnormalities (Grade 3 or 4) reported in ≥ 2% of patients receiving regimens containing REYATAZ and one or more NRTIs included: elevated creatine kinase (7%), elevated alanine aminotransferase/serum glutamic-pyruvic transaminase (ALT/SGPT) (5%), low neutrophils (5%), elevated aspartate aminotransferase/serum glutamic-oxaloacetic transaminase (AST/SGOT) (3%), and elevated lipase (3%).
 
@@ -129,6 +129,24 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [REYATAZ 50 mg oral powder]
 
-disorders: uncommon: erythema multiformea,b, toxic skin eruptionsa,b,
+Metabolism and nutrition disorders: uncommon: weight decreased, weight gain, anorexia,
+
+appetite increased
+
+Psychiatric disorders: uncommon: depression, disorientation, anxiety, insomnia,
+
+sleep disorder, abnormal dream
+
+Respiratory, thoracic and mediastinal uncommon: dyspnoea
+
+Skin and subcutaneous tissue disorders: common: rash;
+
+uncommon: erythema multiformea,b, toxic skin eruptionsa,b, drug rash with eosinophilia and systemic symptoms
+(DRESS) syndromea,b, angioedemaa, urticaria, alopecia, pruritus;
+
+Reproductive system and breast disorders: uncommon: gynaecomastia
+General disorders and administration site common: fatigue;
+
+conditions: uncommon: chest pain, malaise, pyrexia, asthenia;
 
 The most frequently reported laboratory abnormalities in paediatric patients receiving REYATAZ was elevation of total bilirubin (≥ 2.6 times ULN, Grade 3-4) which occurred in 45% of patients.

@@ -20,4 +20,4 @@ Opaque red and blue capsule printed with white ink, with "BMS 300 mg" on one hal
 [REYATAZ 50 mg oral powder]
 
 Oral powder
-Off white to pale yellow powder.
+Off-white to pale yellow powder.
