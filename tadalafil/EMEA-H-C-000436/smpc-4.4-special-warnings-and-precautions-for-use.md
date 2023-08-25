@@ -24,9 +24,10 @@ The combination of tadalafil and doxazosin is not recommended.
 
 Vision
 
-Visual defects and cases of NAION have been reported in connection with the intake of CIALIS and other PDE5 inhibitors.
-Analyses of observational data suggest an increased risk of acute NAION in men with erectile dysfunction following exposure to tadalafil or other PDE5 inhibitors.
-As this may be relevant for all patients exposed to tadalafil, the patient should be advised that in case of sudden visual defect, he should stop taking CIALIS and consult a physician immediately (see section 4.3).
+Visual defects, including Central Serous Chorioretinopathy (CSCR), and cases of NAION have been reported in connection with the intake of CIALIS and other PDE5 inhibitors.
+Most cases of CSCR resolved spontaneously after stopping tadalafil.
+Regarding NAION, analyses of observational data suggest an increased risk of acute NAION in men with erectile dysfunction following exposure to tadalafil or other PDE5 inhibitors.
+As this may be relevant for all patients exposed to tadalafil, the patient should be advised that in case of sudden visual defect, visual acuity impairment and/or visual distortion, he should stop taking CIALIS and consult a physician immediately (see section 4.3).
 
 Decreased or sudden hearing loss
 

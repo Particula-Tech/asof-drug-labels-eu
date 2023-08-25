@@ -12,39 +12,39 @@ The table below lists the adverse reactions observed from spontaneous reporting 
 
 Frequency convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1000 to <1/100), rare (≥1/10,000 to <1/1,000) and very rare (<1/10,000) and not known (cannot be estimated from the available data).
 
-| Very common | Common | Uncommon | Rare |
-| --- | --- | --- | --- |
-| Immune system disorders |  |  |  |
-|  |  | Hypersensitivity reactions | Angioedema2 |
-| Nervous system disorders |  |  |  |
-|  | Headache | Dizziness | Stroke1 (including haemorrhagic events), Syncope, Transient ischaemic attacks1, Migraine2, Seizures2, Transient amnesia |
-| Eye disorders |  |  |  |
-|  |  | Blurred vision, Sensations described as eye pain | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION)2, Retinal vascular occlusion2 |
-| Ear and labyrinth disorders |  |  |  |
-|  |  | Tinnitus | Sudden hearing loss |
-| Cardiac disorders1 |  |  |  |
-|  |  | Tachycardia, Palpitations | Myocardial infarction, Unstable angina pectoris2, Ventricular arrhythmia2 |
-| Vascular disorders |  |  |  |
-|  | Flushing | Hypotension3, Hypertension |  |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |
-|  | Nasal congestion | Dyspnoea, Epistaxis |  |
-| Gastrointestinal disorders |  |  |  |
-|  | Dyspepsia | Abdominal pain, Vomiting, Nausea, Gastro-oesophageal reflux |  |
-| Skin and subcutaneous tissue disorders |  |  |  |
-|  |  | Rash | Urticaria, Stevens-Johnson syndrome2, Exfoliative dermatitis2, Hyperhydrosis (sweating) |
-| Musculoskeletal, connective tissue and bone disorders |  |  |  |
-|  | Back pain, Myalgia, Pain in extremity |  |  |
-| Renal and urinary disorders |  |  |  |
-|  |  | Haematuria |  |
+| Very common | Common | Uncommon | Rare | Not known |
+| --- | --- | --- | --- | --- |
+| Immune system disorders |  |  |  |  |
+|  |  | Hypersensitivity reactions | Angioedema2 |  |
+| Nervous system disorders |  |  |  |  |
+|  | Headache | Dizziness | Stroke1 (including haemorrhagic events), Syncope, Transient ischaemic attacks1, Migraine2, Seizures2, Transient amnesia |  |
+| Eye disorders |  |  |  |  |
+|  |  | Blurred vision, Sensations described as eye pain | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION)2, Retinal vascular occlusion2 | Central serous chorioretinopathy |
+| Ear and labyrinth disorders |  |  |  |  |
+|  |  | Tinnitus | Sudden hearing loss |  |
+| Cardiac disorders1 |  |  |  |  |
+|  |  | Tachycardia, Palpitations | Myocardial infarction, Unstable angina pectoris2, Ventricular arrhythmia2 |  |
+| Vascular disorders |  |  |  |  |
+|  | Flushing | Hypotension3, Hypertension |  |  |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
+|  | Nasal congestion | Dyspnoea, Epistaxis |  |  |
+| Gastrointestinal disorders |  |  |  |  |
+|  | Dyspepsia | Abdominal pain, Vomiting, Nausea, Gastro-oesophageal reflux |  |  |
+| Skin and subcutaneous tissue disorders |  |  |  |  |
+|  |  | Rash | Urticaria, Stevens-Johnson syndrome2, Exfoliative dermatitis2, Hyperhydrosis (sweating) |  |
+| Musculoskeletal, connective tissue and bone disorders |  |  |  |  |
+|  | Back pain, Myalgia, Pain in extremity |  |  |  |
 
+Renal and urinary disorders
+Haematuria
 Reproductive system and breast disorders
 Prolonged erections Priapism, Penile
 haemorrhage,
 Haematospermia
 General disorders and administration site conditions
-Chest pain1, Peripheral Facial oedema2,
-oedema, Fatigue Sudden cardiac
-death1, 2
+Chest pain1, Facial oedema2,
+Peripheral oedema, Sudden cardiac
+Fatigue death1, 2
 
 (1) Most of the patients had pre-existing cardiovascular risk factors (see section 4.4).
 (2) Postmarketing surveillance reported adverse reactions not observed in placebo-controlled clinical trials.
@@ -69,60 +69,73 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [CIALIS 5 mg film-coated tablets]
 
-| Very common | Common | Uncommon | Rare |
-| --- | --- | --- | --- |
-| Immune system disorders |  |  |  |
-|  |  | Hypersensitivity reactions | Angioedema2 |
-| Nervous system disorders |  |  |  |
-|  | Headache | Dizziness | Stroke1 (including haemorrhagic events), Syncope, Transient ischaemic attacks1, Migraine2, Seizures2, Transient amnesia |
-| Eye disorders |  |  |  |
-|  |  | Blurred vision, Sensations described as eye pain | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION)2, Retinal vascular occlusion2 |
-| Ear and labyrinth disorders |  |  |  |
-|  |  | Tinnitus | Sudden hearing loss |
-| Cardiac disorders1 |  |  |  |
-|  |  | Tachycardia, Palpitations | Myocardial infarction, Unstable angina pectoris2, Ventricular arrhythmia2 |
-| Vascular disorders |  |  |  |
-|  | Flushing | Hypotension3, Hypertension |  |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |
-|  | Nasal congestion | Dyspnoea, Epistaxis |  |
-| Gastrointestinal disorders |  |  |  |
-|  | Dyspepsia | Abdominal pain, Vomiting, Nausea, Gastro-oesophageal reflux |  |
-| Skin and subcutaneous tissue disorders |  |  |  |
-|  |  | Rash | Urticaria, Stevens-Johnson syndrome2, Exfoliative dermatitis2, Hyperhydrosis (sweating) |
-| Musculoskeletal, connective tissue and bone disorders |  |  |  |
-|  | Back pain, Myalgia, Pain in extremity |  |  |
-| Renal and urinary disorders |  |  |  |
-|  |  | Haematuria |  |
-| Reproductive system and breast disorders |  |  |  |
-|  |  | Prolonged erections | Priapism, Penile haemorrhage, Haematospermia |
-| General disorders and administration site conditions |  |  |  |
-|  |  | Chest pain1, Peripheral oedema, Fatigue | Facial oedema2, Sudden cardiac death1, 2 |
+| Very common | Common | Uncommon | Rare | Not known |
+| --- | --- | --- | --- | --- |
+| Immune system disorders |  |  |  |  |
+|  |  | Hypersensitivity reactions | Angioedema2 |  |
+| Nervous system disorders |  |  |  |  |
+|  | Headache | Dizziness | Stroke1 (including haemorrhagic events), Syncope, Transient ischaemic attacks1, Migraine2, Seizures2, Transient amnesia |  |
+| Eye disorders |  |  |  |  |
+|  |  | Blurred vision, Sensations described as eye pain | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION)2, Retinal vascular occlusion2 | Central serous chorioretinopathy |
+
+Ear and labyrinth disorders
+Tinnitus Sudden hearing
+loss
+Cardiac disorders1
+Tachycardia, Myocardial
+Palpitations infarction, Unstable
+angina pectoris2,
+Ventricular
+arrhythmia2
+Vascular disorders
+Flushing Hypotension3,
+Hypertension
+Respiratory, thoracic and mediastinal disorders
+Nasal congestion Dyspnoea,
+Epistaxis
+Gastrointestinal disorders
+Dyspepsia Abdominal pain,
+Vomiting, Nausea,
+Gastro-oesophageal
+reflux
+Skin and subcutaneous tissue disorders
+Rash Urticaria, Stevens-
+Johnson
+syndrome2,
+Exfoliative
+dermatitis2,
+Hyperhydrosis
+(sweating)
+Musculoskeletal, connective tissue and bone disorders
+Back pain,
+Myalgia, Pain in
+extremity
+Prolonged Priapism, Penile
+erections haemorrhage,
 
 [CIALIS 10 mg film-coated tablets]
 
-| Very common | Common | Uncommon | Rare |
-| --- | --- | --- | --- |
-| Immune system disorders |  |  |  |
-|  |  | Hypersensitivity reactions | Angioedema2 |
-| Nervous system disorders |  |  |  |
-|  | Headache | Dizziness | Stroke1 (including haemorrhagic events), Syncope, Transient ischaemic attacks1, Migraine2, Seizures2, Transient amnesia |
-| Eye disorders |  |  |  |
-|  |  | Blurred vision, Sensations described as eye pain | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 2, Retinal vascular occlusion2 |
-| Ear and labyrinth disorders |  |  |  |
-|  |  | Tinnitus | Sudden hearing loss |
-| Cardiac disorders1 |  |  |  |
-|  |  | Tachycardia, Palpitations | Myocardial infarction, Unstable angina pectoris2, Ventricular arrhythmia2 |
-| Vascular disorders |  |  |  |
-|  | Flushing | Hypotension3, Hypertension |  |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |
-|  | Nasal congestion | Dyspnoea, Epistaxis |  |
-| Gastrointestinal disorders |  |  |  |
-|  | Dyspepsia | Abdominal pain, Vomiting, Nausea, Gastro-oesophageal reflux |  |
-| Skin and subcutaneous tissue disorders |  |  |  |
-|  |  | Rash | Urticaria, Stevens-Johnson syndrome2, Exfoliative dermatitis2, Hyperhydrosis (sweating) |
-| Musculoskeletal, connective tissue and bone disorders |  |  |  |
-|  | Back pain, Myalgia, Pain in extremity |  |  |
-| Renal and urinary disorders |  |  |  |
-|  |  | Haematuria |  |
+| Very common | Common | Uncommon | Rare | Not known |
+| --- | --- | --- | --- | --- |
+| Immune system disorders |  |  |  |  |
+|  |  | Hypersensitivity reactions | Angioedema2 |  |
+| Nervous system disorders |  |  |  |  |
+|  | Headache | Dizziness | Stroke1 (including haemorrhagic events), Syncope, Transient ischaemic attacks1, Migraine2, Seizures2, Transient amnesia |  |
+| Eye disorders |  |  |  |  |
+|  |  | Blurred vision, Sensations described as eye pain | Visual field defect, Swelling of eyelids, Conjunctival hyperaemia, Non-arteritic anterior ischemic optic neuropathy (NAION) 2, Retinal vascular occlusion2 | Central serous chorioretinopathy |
+| Ear and labyrinth disorders |  |  |  |  |
+|  |  | Tinnitus | Sudden hearing loss |  |
+| Cardiac disorders1 |  |  |  |  |
+|  |  | Tachycardia, Palpitations | Myocardial infarction, Unstable angina pectoris2, Ventricular arrhythmia2 |  |
+| Vascular disorders |  |  |  |  |
+|  | Flushing | Hypotension3, Hypertension |  |  |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
+|  | Nasal congestion | Dyspnoea, Epistaxis |  |  |
+| Gastrointestinal disorders |  |  |  |  |
+|  | Dyspepsia | Abdominal pain, Vomiting, Nausea, Gastro-oesophageal reflux |  |  |
+| Skin and subcutaneous tissue disorders |  |  |  |  |
+|  |  | Rash | Urticaria, Stevens-Johnson syndrome2, Exfoliative dermatitis2, Hyperhydrosis (sweating) |  |
+| Musculoskeletal, connective tissue and bone disorders |  |  |  |  |
+|  | Back pain, |  |  |  |
 
-oedema, Fatigue Sudden cardiac death1,2
+Fatigue death1,2
