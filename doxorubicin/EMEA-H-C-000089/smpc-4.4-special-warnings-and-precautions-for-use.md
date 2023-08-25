@@ -69,6 +69,11 @@ Other strategies to prevent and treat PPE include keeping hands and feet cool, b
 PPE appears to be primarily related to the dose schedule and can be reduced by extending the dose interval 1- 2 weeks (see section 4.2).
 However, this reaction can be severe and debilitating in some patients and may require discontinuation of treatment (see section 4.8).
 
+Interstitial lung disease (ILD)
+Interstitial lung disease (ILD), which may have an acute onset, has been observed in patients receiving pegylated liposomal doxorubicin, including fatal cases (see section 4.8).
+If patients experience worsening of respiratory symptoms such as dyspnoea, dry cough, and fever, Caelyx pegylated liposomal should be interrupted and the patient should be promptly investigated.
+If ILD is confirmed, Caelyx pegylated liposomal should be discontinued and the patient treated appropriately.
+
 Extravasation
 Although local necrosis following extravasation has been reported very rarely, Caelyx pegylated liposomal is considered to be an irritant.
 Animal studies indicate that administration of doxorubicin hydrochloride as a liposomal formulation reduces the potential for extravasation injury.

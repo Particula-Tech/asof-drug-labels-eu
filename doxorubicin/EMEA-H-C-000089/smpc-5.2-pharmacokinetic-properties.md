@@ -15,10 +15,10 @@ Over the dose range of 10 mg/m2–60 mg/m2 Caelyx pegylated liposomal displayed 
 Standard doxorubicin hydrochloride displays extensive tissue distribution (volume of distribution: 700 to 1,100 l/m2) and a rapid elimination clearance (24 to 73 l/h/m2).
 In contrast, the pharmacokinetic profile of Caelyx pegylated liposomal indicates that Caelyx pegylated liposomal is confined mostly to the vascular fluid volume and that the clearance of doxorubicin from the blood is dependent upon the liposomal carrier.
 Doxorubicin becomes available after the liposomes are extravasated and enter the tissue compartment.
-
 At equivalent doses, the plasma concentration and AUC values of Caelyx pegylated liposomal which represent mostly pegylated liposomal doxorubicin hydrochloride (containing 90% to 95% of the measured doxorubicin) are significantly higher than those achieved with standard doxorubicin hydrochloride preparations.
 
 Caelyx pegylated liposomal should not be used interchangeably with other formulations of doxorubicin hydrochloride.
+
 Population pharmacokinetics
 The pharmacokinetics of Caelyx pegylated liposomal was evaluated in 120 patients from 10 different clinical trials using the population pharmacokinetic approach.
 The pharmacokinetics of Caelyx pegylated liposomal over the dose range of 10 mg/m2 to 60 mg/m2 was best described by a two compartment non-linear model with zero order input and Michaelis-Menten elimination.

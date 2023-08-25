@@ -2,7 +2,6 @@
 
 In repeat dose studies conducted in animals, the toxicity profile of Caelyx pegylated liposomal appears very similar to that reported in humans who receive long-term infusions of standard doxorubicin hydrochloride.
 With Caelyx pegylated liposomal, the encapsulation of doxorubicin hydrochloride in pegylated liposomes results in these effects having a differing strength, as follows.
-
 Cardiotoxicity
 Studies in rabbits have shown that the cardiotoxicity of Caelyx pegylated liposomal is reduced compared with conventional doxorubicin hydrochloride preparations.
 

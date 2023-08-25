@@ -13,32 +13,36 @@ Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10),
 Within each frequency grouping, where relevant, adverse reactions are presented in order of decreasing seriousness.
 
 Table 5: Adverse reactions in patients treated with Caelyx pegylated liposomal
+System Organ Frequency All Grades Adverse Drug Reaction
+Class
+Infections and Common Sepsis
+infestations Pneumonia
+Pneumocystis jirovecii pneumonia
+Cytomegalovirus infection including
+cytomegalovirus chorioretinitis
+Mycobacterium avium complex infection
+Candidiasis
+Herpes zoster
+Urinary tract infection
+Infection
+Upper respiratory tract infection
+Oral candidiasis
+Folliculitis
+Pharyngitis
+Nasopharyngitis
+Uncommon Herpes simplex
+Fungal infection
+Rare Opportunistic infection (including Aspergillus,
+Histoplasma, Isospora, Legionella,
 
-| System Organ Class | Frequency All Grades | Adverse Drug Reaction |
+|  |  | Microsporidium, Salmonella, Staphylococcus, Toxoplasma, Tuberculosis)a |
 | --- | --- | --- |
-| Infections and infestations | Common | Sepsis |
-|  |  | Pneumonia |
-|  |  | Pneumocystis jirovecii pneumonia |
-|  |  | Cytomegalovirus infection including cytomegalovirus chorioretinitis |
-|  |  | Mycobacterium avium complex infection |
-|  |  | Candidiasis |
-|  |  | Herpes zoster |
-|  |  | Urinary tract infection |
-|  |  | Infection |
-|  |  | Upper respiratory tract infection |
-|  |  | Oral candidiasis |
-|  |  | Folliculitis |
-|  |  | Pharyngitis |
-|  |  | Nasopharyngitis |
-|  | Uncommon | Herpes simplex |
-|  |  | Fungal infection |
-|  | Rare | Opportunistic infection (including Aspergillus, Histoplasma, Isospora, Legionella, Microsporidium, Salmonella, Staphylococcus, Toxoplasma, Tuberculosis)a |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) | Not known | Acute myeloid leukaemiab |
 |  |  | Myelodysplastic syndromeb |
 |  |  | Oral neoplasmb |
-| Blood and lymphatic system | Very common | Leukopaenia |
+| Blood and lymphatic system disorders | Very common | Leukopaenia |
 |  |  | Neutropaenia |
-| disorders |  | Lymphopaenia |
+|  |  | Lymphopaenia |
 |  |  | Anaemia (including hypochromic) |
 |  | Common | Thrombocytopaenia |
 |  |  | Febrile neutropaenia |
@@ -107,6 +111,7 @@ Table 5: Adverse reactions in patients treated with Caelyx pegylated liposomal
 |  | Uncommon | Asthma |
 |  |  | Chest discomfort |
 |  | Rare | Throat tightness |
+|  | Not Known | Interstitial lung disease |
 | Gastrointestinal disorders | Very common | Stomatitis |
 |  |  | Nausea |
 |  |  | Vomiting |
@@ -227,6 +232,7 @@ Furthermore, only 1 patient (cumulative anthracycline dose of 944 mg/m2), discon
 
 Radiation recall phenomenon
 Recall of skin reaction due to prior radiotherapy has occurred uncommonly with Caelyx pegylated liposomal administration.
+
 Reporting of suspected adverse reactions
 Reporting suspected adverse reactions after authorisation of the medicinal product is important.
 It allows continued monitoring of the benefit/risk balance of the medicinal product.
