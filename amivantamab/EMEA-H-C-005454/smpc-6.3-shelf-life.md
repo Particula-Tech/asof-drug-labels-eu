@@ -1,7 +1,7 @@
 # 6.3 Shelf life
 
 Unopened vial
-24 months
+2 years
 
 After dilution
 Chemical and physical in-use stability has been demonstrated for 10 hours at 15°C to 25°C in room light.

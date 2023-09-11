@@ -46,7 +46,7 @@ Table 3: Recommended dose reductions for adverse reactions
 | Greater than or equal to 80 kg | 1,400 mg | 1,050 mg | 700 mg |  |
 
 Infusion-related reactions
-Interrupt infusion at the first sign of IRRs.
+Infusion should be interrupted at the first sign of IRRs.
 Additional supportive medicinal products (e.g., additional glucocorticoids, antihistamine, antipyretics and antiemetics) should be administered as clinically indicated (see section 4.4).
 
 - Grade 1-3 (mild-severe): Upon recovery of symptoms, resume infusion at 50% of the previous rate.
