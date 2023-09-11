@@ -9,11 +9,11 @@ Studies in animals have shown embryo-foetal toxicity (see section 5.3).
 
 Although the systemic exposure after ocular administration is very low, Eylea should not be used during pregnancy unless the potential benefit outweighs the potential risk to the foetus.
 Breast-feeding
-It is unknown whether aflibercept is excreted in human milk.
-A risk to the breast-fed child cannot be excluded.
+Based on very limited human data, aflibercept may be excreted in human milk at low levels.
+Aflibercept is a large protein molecule and the amount of medication absorbed by the infant is expected to be minimal.
+The effects of aflibercept on a breast-fed newborn/infant are unknown.
 
-Eylea is not recommended during breast-feeding.
-A decision must be made whether to discontinue breast-feeding or to abstain from Eylea therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
+As a precautionary measure, breast-feeding is not recommended during the use of Eylea.
 
 Fertility
 Results from animal studies with high systemic exposure indicate that aflibercept can impair male and female fertility (see section 5.3).
