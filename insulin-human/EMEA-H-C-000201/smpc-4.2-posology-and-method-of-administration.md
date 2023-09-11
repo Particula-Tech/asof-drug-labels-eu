@@ -180,9 +180,7 @@ Insuman Infusat must not be used in peristaltic pumps with silicone tubing.
 Refer to the technical manual for contraindications relating to the use of insulin pumps.
 
 Insuman Infusat may be infused by the subcutaneous route.
-It is designed for use in the Hoechst Infusor and H-Tron insulin pumps.
 Insuman Infusat in a vial may also be used in other insulin pumps for which it has been shown that they are suitable for this insulin (see pump manual).
-Insuman Infusat in a cartridge may also be used in other insulin pumps for which it has been shown that they are suitable for this insulin and this type of cartridge (see pump manual).
 Only tetrafluoroethylene or polyethylene catheters must be used.
 
 Insulin must always be infused under aseptic conditions.

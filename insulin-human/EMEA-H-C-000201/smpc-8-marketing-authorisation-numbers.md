@@ -120,7 +120,6 @@ EU/1/97/030/169
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
 
 EU/1/97/030/053
-EU/1/97/030/054
 
 [Insuman Implantable 400 IU/ml solution for infusion]
 

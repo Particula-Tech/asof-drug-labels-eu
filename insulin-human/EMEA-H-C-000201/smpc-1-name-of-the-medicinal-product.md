@@ -44,7 +44,6 @@ Insuman Comb 50 SoloStar 100 IU/ml suspension for injection in a pre-filled pen
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
 
 Insuman Infusat 100 IU/ml solution for injection in a vial
-Insuman Infusat 100 IU/ml solution for injection in a cartridge
 
 [Insuman Implantable 400 IU/ml solution for infusion]
 

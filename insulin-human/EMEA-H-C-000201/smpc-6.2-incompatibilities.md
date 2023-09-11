@@ -48,7 +48,6 @@ Insuman Comb 15 SoloStar 100 IU/ml in a pre-filled pen must not be mixed with an
 [Insuman Comb 25 40 IU/ml suspension for injection in a vial]
 
 Insuman Comb 25 must not be mixed with solutions containing reducing substances such as thioles and sulphites.
-
 Insuman Comb 25 40 IU/ml in a vial, Insuman Comb 25 100 IU/ml in a vial
 Insuman Comb 25 must not be mixed with insulin human formulations designed specifically for use in insulin pumps.
 Insuman Comb 25 must also not be mixed with insulins of animal origin or with insulin analogues.

@@ -46,7 +46,6 @@ Insuman Comb 15 100 IU/ml in a cartridge, Insuman Comb 15 SoloStar 100 IU/ml in 
 [Insuman Comb 25 40 IU/ml suspension for injection in a vial]
 
 Insuman Comb 25 40 IU/ml in a vial
-
 Insuman Comb 25 100 IU/ml in a vial
 
 Insuman Comb 25 100 IU/ml in a cartridge, Insuman Comb 25 SoloStar100 IU/ml in a pre-filled pen 3 ml suspension in a cartridge (type 1 colourless glass) with a plunger (bromobutyl rubber (type 1)) and a flanged cap (aluminium) with a stopper (bromobutyl or laminate of polyisoprene and bromobutyl rubber (type 1)).
@@ -69,10 +68,6 @@ Insuman Comb 50 100 IU/ml in a cartridge, Insuman Comb 50 SoloStar 100 IU/ml in 
 
 Insuman Infusat 100 IU/ml in a vial
 Packs of 3 vials are available.
-
-Insuman Infusat 100 IU/ml in a cartridge
-3.15 ml solution in a cartridge (type 1 colourless glass) with a plunger (fluoropolymer coated rubber (type 1, mixture of chlorobutyl and natural rubber)), a flanged cap (aluminium) and a stopper with hole (bromobutyl rubber (type 1), a Luer cone attachment (colourless polyethylene) and a Luer cap (colourless polyethylene).
-Packs of 5 cartridges are available.
 
 [Insuman Implantable 400 IU/ml solution for infusion]
 

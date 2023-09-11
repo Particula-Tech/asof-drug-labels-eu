@@ -44,13 +44,9 @@ The pen containing a cartridge or pens in-use must not be stored in the refriger
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
 
 Insuman Infusat 100 IU/ml in a vial
+3 years.
 
 Insulin that has been filled into the pump reservoir may be used for two weeks thereafter.
-
-Insuman Infusat 100 IU/ml in a cartridge
-
-Shelf life after first use of the cartridge
-The product (cartridges in-use in the pump) may be stored for a maximum of 2 weeks.
 
 [Insuman Implantable 400 IU/ml solution for infusion]
 

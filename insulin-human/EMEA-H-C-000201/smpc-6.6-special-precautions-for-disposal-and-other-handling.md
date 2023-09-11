@@ -157,6 +157,7 @@ Insuman Comb 25 cartridges are not designed to allow any other insulin to be mix
 
 Insuman Comb 25 SoloStar 100 IU/ml in a pre-filled pen
 Insuman Comb 25 SoloStar 100 IU/ml in pre-filled pen is only suitable for subcutaneous injections.
+
 Before first use, Insuman Comb 25 must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 
 [Insuman Comb 30 100 IU/ml suspension for injection in a vial]
@@ -214,7 +215,7 @@ Before first use, Insuman Comb 50 must be kept at room temperature for 1 to 2 ho
 Insuman Infusat 100 IU/ml in a vial
 Insuman Infusat must only be used if the solution is clear, colourless, with no solid particles visible, and if it is of a water-like consistency.
 
-For use in an infusion pump, Insuman Infusat is filled into the sterile cartridge of the pump.
+For use in an infusion pump, Insuman Infusat in a vial is filled into the sterile cartridge of the pump.
 The cartridge must only be used once.
 
 Before use, the filled cartridge must be kept at room temperature for 1 to 2 hours.
@@ -224,10 +225,6 @@ If the infusion pump malfunctions, the solution may be drawn from the cartridge 
 
 Insuman Infusat must not be used in peristaltic pumps with silicone tubing.
 Refer to the technical manual for contraindications relating to the use of insulin pumps.
-
-Insuman Infusat 100 IU/ml in a cartridge
-
-Before use, Insuman Infusat must be kept at room temperature for 1 to 2 hours.
 
 [Insuman Implantable 400 IU/ml solution for infusion]
 

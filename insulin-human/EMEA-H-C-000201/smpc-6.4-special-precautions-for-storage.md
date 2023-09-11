@@ -14,7 +14,6 @@ For storage conditions after first opening of the medicinal product, see section
 Insuman Rapid 100 IU/ml in a cartridge
 Unopened cartridges
 Keep the cartridge in the outer carton in order to protect from light.
-
 In-use cartridges
 
 Insuman rapid SoloStar 100 IU/ml in a pre-filled pen
@@ -49,11 +48,8 @@ Do not put Insuman Comb 50 next to the freezer compartment or a freezer pack.
 
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
 
-Unopened vials, unopened cartridges
+Unopened vials Store in a refrigerator (2°C - 8°C).
 Do not put Insuman Infusat next to the freezer compartment or a freezer pack.
-Keep the vial or cartridge in the outer carton in order to protect from light.
-
-Opened vials, in-use cartridges
 
 [Insuman Implantable 400 IU/ml solution for infusion]
 

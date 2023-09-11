@@ -81,9 +81,6 @@ Insuman Comb 50 is a biphasic isophane insulin suspension consisting of 50% diss
 Insuman Infusat 100 IU/ml in a vial
 Each vial contains 10 ml of solution for injection, equivalent to 1000 IU insulin.
 
-Insuman Infusat 100 IU/ml in a cartridge
-Each cartridge contains 3.15 ml of solution for injection, equivalent to 315 IU insulin.
-
 Insuman Infusat is a neutral insulin solution (regular insulin).
 
 [Insuman Implantable 400 IU/ml solution for infusion]

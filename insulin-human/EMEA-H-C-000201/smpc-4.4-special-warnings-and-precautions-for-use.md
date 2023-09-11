@@ -201,7 +201,6 @@ Insuman Comb 50 SoloStar 100 IU/ml in pre-filled pen is only suitable for subcut
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
 
 Patients hypersensitive to Insuman Infusat for whom no better tolerated preparation is available must only continue treatment under close medical supervision and – where necessary – in conjunction with anti-allergic treatment.
-
 In patients with an allergy to animal insulin intradermal skin testing is recommended prior to a transfer to Insuman Infusat, since they may experience immunological cross-reactions.
 
 In case of hypoglycaemia, the insulin pump should temporarily be turned off, at least until the patient has recovered complete consciousness.
