@@ -32,7 +32,7 @@ Distribution
 
 Risperidone is rapidly distributed.
 The volume of distribution is 1-2 l/kg.
-In plasma, risperidone is bound to albumin and alpha1-acid glycoprotein.
+In plasma, risperidone is bound to albumin and alpha 1-acid glycoprotein.
 The plasma protein binding of risperidone is 90% that of 9-hydroxy-risperidone is 77%.
 
 Biotransformation and elimination

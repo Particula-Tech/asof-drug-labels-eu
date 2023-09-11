@@ -10,7 +10,7 @@ The major effects of treatment with OKEDI observed following chronic (12 months 
 
 Local alterations, nodules, at the injection site in 12-cycle toxicity studies in dogs and rabbits were observed after intramuscularly administration of OKEDI.
 They consisted of muscular foreign body granulomatous inflammation attributed to natural body response to the presence of a foreign substance.
-Other local alterations observed in rabbits at 15 mg/kg (risperidone) were related to Dimethyl sulfoxide (DMSO) content.
+Other local alterations observed in rabbits at 15 mg/kg (risperidone) were related to dimethyl sulfoxide (DMSO) content.
 These all alterations were strictly local and there was evidence of reversibility.
 In dogs, transient pain associated to DMSO content was observed immediately after administration.
 

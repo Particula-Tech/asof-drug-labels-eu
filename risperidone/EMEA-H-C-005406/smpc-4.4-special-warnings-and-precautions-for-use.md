@@ -44,12 +44,12 @@ The risk/benefit of further treatment with OKEDI should be assessed if clinicall
 Leukopenia, neutropenia, and agranulocytosis
 
 Events of leukopenia, neutropenia and agranulocytosis have been reported with risperidone.
-Agranulocytosis has been reported very rarely (<1/10,000 patients) during post-marketing surveillance.
+Agranulocytosis has been reported very rarely (< 1/10,000 patients) during post-marketing surveillance.
 
 Patients with a history of a clinically significant low white blood cell count (WBC) or a drug-induced leukopenia/neutropenia should be monitored during the first few months of therapy and discontinuation of OKEDI should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1 × 109/L) should discontinue OKEDI and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count < 1 × 109/L) should discontinue OKEDI and have their WBC followed until recovery.
 
 Tardive dyskinesia/extrapyramidal symptoms (TD/EPS)
 
@@ -126,8 +126,8 @@ Intraoperative floppy iris syndrome
 Intraoperative Floppy Iris Syndrome (IFIS) has been observed during cataract surgery in patients treated with risperidone (see section 4.8).
 
 IFIS may increase the risk of eye complications during and after the operation.
-Current or past use of medicines with alpha1a-adrenergic antagonist effect should be made known to the ophthalmic surgeon in advance of surgery.
-The potential benefit of stopping alpha1-blocking therapy prior to cataract surgery has not been established and must be weighed against the risk of stopping the antipsychotic therapy.
+Current or past use of medicines with alpha 1a-adrenergic antagonist effect should be made known to the ophthalmic surgeon in advance of surgery.
+The potential benefit of stopping alpha 1-blocking therapy prior to cataract surgery has not been established and must be weighed against the risk of stopping the antipsychotic therapy.
 
 Hypersensitivity
 
@@ -144,4 +144,4 @@ Consequently a bleeding could occur at the injection site.
 In case the administration is subcutaneous, the injection might be more painful, and a slower release of risperidone is expected.
 
 If a dose is incorrectly administered by intravenous or subcutaneous route, the dose should not be repeated since it is difficult to estimate the resulting exposure to the medicine.
-The patient should be closely monitored and managed as clinically appropriate until the next scheduled 28 days interval injection of OKEDI.
+The patient should be closely monitored and managed as clinically appropriate until the next scheduled 28-day interval injection of OKEDI.
