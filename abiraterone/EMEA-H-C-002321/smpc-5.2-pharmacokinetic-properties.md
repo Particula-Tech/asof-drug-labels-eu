@@ -15,7 +15,7 @@ The tablets must be swallowed whole with water (see section 4.2).
 
 Distribution
 The plasma protein binding of 14C-abiraterone in human plasma is 99.8%.
-The apparent volume of distribution is approximately 5,630 L, suggesting that abiraterone extensively distributes to peripheral tissues.
+The apparent volume of distribution is approximately 5 630 L, suggesting that abiraterone extensively distributes to peripheral tissues.
 
 Biotransformation
 Following oral administration of 14C-abiraterone acetate as capsules, abiraterone acetate is hydrolysed to abiraterone, which then undergoes metabolism including sulphation, hydroxylation and oxidation primarily in the liver.
@@ -24,12 +24,12 @@ Of 15 detectable metabolites, 2 main metabolites, abiraterone sulphate and N-oxi
 
 Elimination
 The mean half-life of abiraterone in plasma is approximately 15 hours based on data from healthy subjects.
-Following oral administration of 14C-abiraterone acetate 1,000 mg, approximately 88% of the radioactive dose is recovered in faeces and approximately 5% in urine.
+Following oral administration of 14C-abiraterone acetate 1 000 mg, approximately 88% of the radioactive dose is recovered in faeces and approximately 5% in urine.
 The major compounds present in faeces are unchanged abiraterone acetate and abiraterone (approximately 55% and 22% of the administered dose, respectively).
 
 Hepatic impairment
 The pharmacokinetics of abiraterone acetate was examined in subjects with pre-existing mild or moderate hepatic impairment (Child-Pugh Class A and B, respectively) and in healthy control subjects.
-Systemic exposure to abiraterone after a single oral 1,000 mg dose increased by approximately 11% and 260% in subjects with mild and moderate pre-existing hepatic impairment, respectively.
+Systemic exposure to abiraterone after a single oral 1 000 mg dose increased by approximately 11% and 260% in subjects with mild and moderate pre-existing hepatic impairment, respectively.
 The mean half-life of abiraterone is prolonged to approximately 18 hours in subjects with mild hepatic impairment and to approximately 19 hours in subjects with moderate hepatic impairment.
 
 In another trial, the pharmacokinetics of abiraterone were examined in subjects with pre-existing severe (n = 8) hepatic impairment (Child-Pugh Class C) and in 8 healthy control subjects with normal hepatic function.
@@ -42,7 +42,7 @@ For patients who develop hepatotoxicity during treatment, suspension of treatmen
 
 Renal impairment
 The pharmacokinetics of abiraterone acetate was compared in patients with end-stage renal disease on a stable haemodialysis schedule versus matched control subjects with normal renal function.
-Systemic exposure to abiraterone after a single oral 1,000 mg dose did not increase in subjects with end-stage renal disease on dialysis.
+Systemic exposure to abiraterone after a single oral 1 000 mg dose did not increase in subjects with end-stage renal disease on dialysis.
 Administration in patients with renal impairment, including severe renal impairment, does not require dose reduction (see section 4.2).
 However, there is no clinical experience in patients with prostate cancer and severe renal impairment.
 Caution is advised in these patients.

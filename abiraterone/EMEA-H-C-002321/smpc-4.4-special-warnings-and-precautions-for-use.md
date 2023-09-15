@@ -56,9 +56,8 @@ The safety and efficacy of concomitant use of ZYTIGA with cytotoxic chemotherapy
 
 Intolerance to excipients
 This medicinal product contains lactose.
-Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
-This medicinal product also contains more than 1 mmol (or 27.2 mg) sodium per dose of four tablets.
-To be taken into consideration by patients on a controlled sodium diet.
+Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+This medicinal product contains 27.2 mg (1.18 mmol) sodium per dose of four tablets, equivalent to 1.36% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 
 Potential risks
 Anaemia and sexual dysfunction may occur in men with metastatic prostate cancer including those undergoing treatment with ZYTIGA.
@@ -80,4 +79,4 @@ It is recommended that subsequent treatment with Ra-223 is not initiated for at 
 
 Before treating patients with a significant risk for congestive heart failure (e.g. a history of cardiac failure, uncontrolled hypertension, or cardiac events such as ischaemic heart disease), consider obtaining an assessment of cardiac function (e.g. echocardiogram).
 
-This medicinal product also contains more than 1.18 mmol (or 27 mg) sodium per dose of two tablets.
+This medicinal product contains 27 mg (1.17 mmol) sodium per dose of two tablets, equivalent to 1.35% of the WHO recommended maximum daily intake of 2 g sodium for an adult.

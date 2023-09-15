@@ -10,11 +10,11 @@ In patients treated with abiraterone acetate versus patients treated with placeb
 Mineralocorticoid reactions generally were able to be successfully managed medically.
 Concomitant use of a corticosteroid reduces the incidence and severity of these adverse reactions (see section 4.4).
 Tabulated list of adverse reactions
-In studies of patients with metastatic advanced prostate cancer who were using an LHRH analogue, or were previously treated with orchiectomy, ZYTIGA was administered at a dose of 1,000 mg daily in combination with low dose prednisone or prednisolone (either 5 or 10 mg daily depending on the indication).
+In studies of patients with metastatic advanced prostate cancer who were using an LHRH analogue, or were previously treated with orchiectomy, ZYTIGA was administered at a dose of 1 000 mg daily in combination with low dose prednisone or prednisolone (either 5 or 10 mg daily depending on the indication).
 
 Adverse reactions observed during clinical studies and post-marketing experience are listed below by frequency category.
-Frequency categories are defined as follows: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1,000 to < 1/100); rare (≥1/10,000 to < 1/1,000); very rare
-(< 1/10,000) and not known (frequency cannot be estimated from the available data).
+Frequency categories are defined as follows: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1 000 to < 1/100); rare (≥1/10 000 to < 1/1 000); very rare
+(< 1/10 000) and not known (frequency cannot be estimated from the available data).
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 

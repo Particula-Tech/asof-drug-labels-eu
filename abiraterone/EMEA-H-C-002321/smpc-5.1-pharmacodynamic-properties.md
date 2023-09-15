@@ -23,11 +23,11 @@ Clinical efficacy and safety
 Efficacy was established in three randomised placebo-controlled multicentre Phase 3 clinical studies (studies 3011, 302 and 301) of patients with mHSPC and mCRPC.
 Study 3011 enrolled patients who were newly diagnosed (within 3 months of randomisation) mHSPC who had high-risk prognostic factors.
 High-risk prognosis was defined as having at least 2 of the following 3 risk factors: (1) Gleason score of ≥8; (2) presence of 3 or more lesions on bone scan; (3) presence of measurable visceral (excluding lymph node disease) metastasis.
-In the active arm, ZYTIGA was administered at a dose of 1000 mg daily in combination with low dose prednisone 5 mg once daily in addition to ADT (LHRH agonist or orchiectomy), which was the standard of care treatment.
+In the active arm, ZYTIGA was administered at a dose of 1 000 mg daily in combination with low dose prednisone 5 mg once daily in addition to ADT (LHRH agonist or orchiectomy), which was the standard of care treatment.
 Patients in the control arm received ADT and placebos for both ZYTIGA and prednisone.
 Study 302 enrolled docetaxel naïve patients; whereas, study 301 enrolled patients who had received prior docetaxel.
 Patients were using an LHRH analogue or were previously treated with orchiectomy.
-In the active treatment arm, ZYTIGA was administered at a dose of 1,000 mg daily in combination with low dose prednisone or prednisolone 5 mg twice daily.
+In the active treatment arm, ZYTIGA was administered at a dose of 1 000 mg daily in combination with low dose prednisone or prednisolone 5 mg twice daily.
 Control patients received placebo and low dose prednisone or prednisolone 5 mg twice daily.
 
 Changes in PSA serum concentration independently do not always predict clinical benefit.
@@ -95,7 +95,7 @@ Study 302 (chemotherapy naïve patients)
 This study enrolled chemotherapy naïve patients who were asymptomatic or mildly symptomatic and for whom chemotherapy was not yet clinically indicated.
 A score of 0-1 on Brief Pain Inventory-Short Form (BPI-SF) worst pain in last 24 hours was considered asymptomatic, and a score of 2-3 was considered mildly symptomatic.
 
-In study 302, (n = 1,088) the median age of enrolled patients was 71 years for patients treated with ZYTIGA plus prednisone or prednisolone and 70 years for patients treated with placebo plus prednisone or prednisolone.
+In study 302, (n = 1 088) the median age of enrolled patients was 71 years for patients treated with ZYTIGA plus prednisone or prednisolone and 70 years for patients treated with placebo plus prednisone or prednisolone.
 The number of patients treated with ZYTIGA by racial group was Caucasian 520 (95.4%), Black 15 (2.8%), Asian 4 (0.7%) and other 6 (1.1%).
 The Eastern Cooperative Oncology Group (ECOG) performance status was 0 for 76% of patients, and 1 for 24% of patients in both arms.
 Fifty percent of patients had only bone metastases, an additional 31% of patients had bone and soft tissue or lymph node metastases and 19% of patients had only soft tissue or lymph node metastases.

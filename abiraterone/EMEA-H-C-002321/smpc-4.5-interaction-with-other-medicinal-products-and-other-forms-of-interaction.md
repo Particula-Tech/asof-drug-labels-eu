@@ -6,7 +6,7 @@ The efficacy and safety when given with food have not been established therefore
 
 Interactions with other medicinal products
 Potential for other medicinal products to affect abiraterone exposures
-In a clinical pharmacokinetic interaction study of healthy subjects pretreated with a strong CYP3A4 inducer rifampicin, 600 mg daily for 6 days followed by a single dose of abiraterone acetate 1,000 mg, the mean plasma AUC∞of abiraterone was decreased by 55%.
+In a clinical pharmacokinetic interaction study of healthy subjects pretreated with a strong CYP3A4 inducer rifampicin, 600 mg daily for 6 days followed by a single dose of abiraterone acetate 1 000 mg, the mean plasma AUC∞of abiraterone was decreased by 55%.
 
 Strong inducers of CYP3A4 (e.g., phenytoin, carbamazepine, rifampicin, rifabutin, rifapentine, phenobarbital, St John's wort [Hypericum perforatum]) during treatment are to be avoided, unless there is no therapeutic alternative.
 
@@ -21,7 +21,7 @@ Caution is advised when administering with medicinal products activated by or me
 Dose reduction of medicinal products with a narrow therapeutic index that are metabolised by CYP2D6 should be considered.
 Examples of medicinal products metabolised by CYP2D6 include metoprolol, propranolol, desipramine, venlafaxine, haloperidol, risperidone, propafenone, flecainide, codeine, oxycodone and tramadol (the latter three medicinal products requiring CYP2D6 to form their active analgesic metabolites).
 
-In a CYP2C8 drug-drug interaction trial in healthy subjects, the AUC of pioglitazone was increased by 46% and the AUCs for M-III and M-IV, the active metabolites of pioglitazone, each decreased by 10% when pioglitazone was given together with a single dose of 1,000 mg abiraterone acetate.
+In a CYP2C8 drug-drug interaction trial in healthy subjects, the AUC of pioglitazone was increased by 46% and the AUCs for M-III and M-IV, the active metabolites of pioglitazone, each decreased by 10% when pioglitazone was given together with a single dose of 1 000 mg abiraterone acetate.
 Patients should be monitored for signs of toxicity related to a CYP2C8 substrate with a narrow therapeutic index if used concomitantly.
 Examples of medicinal products metabolised by CYP2C8 include pioglitazone and repaglinide (see section 4.4).
 
