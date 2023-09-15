@@ -42,6 +42,7 @@ Do not administer as an intravenous push or bolus injection.
 It should be diluted with sodium chloride 9 mg/mL (0.9%) solution for injection prior to administration.
 
 This medicinal product should be administered over 1 hour.
-In case of infusion reactions, the infusion can be either temporarily discontinued or slowed down (see section 4.4).
+Appropriate treatment for infusion and hypersensitivity-related reactions should be readily available before administration of efgartigimod alfa.
+In case of infusion reactions, the infusion should be administered at a slower rate, interrupted or can be discontinued (see section 4.4).
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.

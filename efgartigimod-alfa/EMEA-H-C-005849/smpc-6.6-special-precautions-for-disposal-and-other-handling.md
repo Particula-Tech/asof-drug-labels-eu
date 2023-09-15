@@ -1,6 +1,6 @@
 # 6.6 Special precautions for disposal and other handling
 
-The efgartigimod alfa solution diluted in sodium chloride 9 mg/mL (0.9%) solution for injection can be administered using polyethylene (PE), polyvinyl chloride (PVC), ethylene vinyl acetate (EVA) and ethylene/polypropylene copolymer bags (polyolefins bags), as well as with PE, PVC and polyurethane/polypropylene infusion lines, together with PE, PVC, polyethersulfone (PES) and PVC-free in-line filters.
+The efgartigimod alfa solution diluted in sodium chloride 9 mg/mL (0.9%) solution for injection can be administered using polyethylene (PE), polyvinyl chloride (PVC), ethylene vinyl acetate (EVA) and ethylene/polypropylene copolymer bags (polyolefins bags), as well as with PE, PVC and polyurethane/polypropylene infusion lines, together with polyurethane (PUR) or PVC filters with polyethersulfone (PES) or polyvinylidene fluoride (PVDF) filter membrane.
 
 Using the formula in the table below, calculate the following:
 
@@ -36,7 +36,7 @@ Dilution
 Administration
 
 - Inspect the solution visually for particulate matter prior to administration.
-- Infuse the total 125 mL of diluted medicinal product over 1 hour using an in-line filter.
+- Infuse the total 125 mL of diluted medicinal product over 1 hour using a 0.2 µm filter.
   Administer the full amount of solution, flushing the entire line with sodium chloride 9 mg/mL (0.9%) solution for injection at the end.
 - Vyvgart should be administered immediately after dilution and the infusion of diluted solution should be completed within 4 hours of dilution.
 - Chemical and physical in-use stability has been demonstrated for 24 hours at 2°C to 8°C.
@@ -46,7 +46,7 @@ Administration
   Allow the diluted medicinal product to reach room temperature before administration.
   Complete the infusion within 4 hours of removal from the refrigerator.
   The diluted medicinal product should not be heated in any other manner than via ambient air.
-- Should infusion reactions occur, the infusion can be either temporarily discontinued or slowed down (see section 4.4).
+- Should infusion reactions occur, the infusion should be administered at a slower rate, interrupted or discontinued (see section 4.4).
 - Other medicinal products should not be injected into infusion side ports or mixed with Vyvgart.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

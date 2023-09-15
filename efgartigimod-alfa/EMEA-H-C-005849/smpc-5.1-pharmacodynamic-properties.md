@@ -73,8 +73,8 @@ AChR-Ab = acetylcholine receptor-antibody; MG-ADL = Myasthenia Gravis Activities
 QMG = Quantitative Myasthenia Gravis; mITT = modified intent-to-treat; n = number of patients for whom the observation was reported; N = number of patients in the analysis set; CI = confidence interval;
 Logistic regression stratified for AChR-Ab status (if applicable), Japanese/Non-Japanese and standard of care, with baseline MG-ADL as covariate / QMG as covariates
 Two-sided exact p-value
-
 Analyses show that during the second treatment cycle MG ADL responder rates were similar to those during the first treatment cycle (see Table 3).
+
 Table 3.
 MG-ADL and QMG responders during cycle 2 in AChR-Ab seropositive population (mITT analysis set)
 

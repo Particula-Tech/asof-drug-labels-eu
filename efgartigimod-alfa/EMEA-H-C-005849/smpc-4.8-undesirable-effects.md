@@ -3,6 +3,7 @@
 Summary of the safety profile
 
 The most frequently observed adverse reactions were upper respiratory tract infections and urinary tract infections (10.7% and 9.5%, respectively).
+
 Tabulated list of adverse reactions
 
 The safety of Vyvgart was evaluated in 167 patients with gMG in the Phase 3 double-blind placebo-controlled clinical study.
@@ -19,10 +20,11 @@ Adverse reactions
 | Infections and infestations* | Upper respiratory tract infections | Very common |
 |  | Urinary tract infections | Common |
 |  | Bronchitis | Common |
+| Immune system disorders | Anaphylactic reactiona | Not known |
 | Musculoskeletal and connective tissue disorders | Myalgia | Common |
 | Injury, poisoning and procedural complications* | Procedural headache | Common |
 
-* See paragraph “Description of selected adverse reactions”
+* See paragraph “Description of selected adverse reactions” a From spontaneous post-marketing reporting
 
 Description of selected adverse reactions
 

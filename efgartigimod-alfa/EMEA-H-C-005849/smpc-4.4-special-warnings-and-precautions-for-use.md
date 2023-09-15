@@ -17,13 +17,16 @@ Patients should be monitored for clinical signs and symptoms of infections durin
 In patients with an active infection, the benefit-risk of maintaining or withholding treatment with efgartigimod alfa should be considered until the infection has resolved.
 If serious infections occur, delaying treatment with efgartigimod alfa should be considered until the infection has resolved.
 
-Infusion reactions
+Infusion reactions and hypersensitivity reactions
 
 Infusion reactions such as rash or pruritus may occur.
-In the clinical trial, these were mild to moderate and did not lead to treatment interruption or discontinuation.
+In the clinical trial, infusion reactions were mild to moderate and did not lead to treatment interruption or discontinuation.
 Patients should be monitored during administration and for 1 hour thereafter for clinical signs and symptoms of infusion reactions.
-Should a reaction occur the infusion should be interrupted and appropriate supportive measures should be instituted.
-Once resolved, administration may be resumed, if needed at a slower rate (see section 4.2).
+Should a reaction occur and based on severity of the reaction the infusion should be administered at a slower rate, interrupted or discontinued and appropriate supportive measures should be instituted.
+Once resolved, administration may be cautiously resumed, based on clinical evaluation.
+Cases of anaphylactic reaction have been reported in the post-marketing setting.
+If an anaphylactic reaction is suspected, administration of Vyvgart should be immediately discontinued and appropriate medical treatment initiated.
+Patients should be informed of the signs and symptoms of hypersensitivity and anaphylactic reactions and advised to contact their healthcare provider immediately should they occur.
 
 Immunisations
 
