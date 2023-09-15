@@ -9,6 +9,7 @@ Known and theoretical interactions with selected inhibitors and inducers of CYP3
 CYP3A4 and PgP inhibitors increasing everolimus concentrations
 
 Substances that are inhibitors of CYP3A4 or PgP may increase everolimus blood concentrations by decreasing metabolism or the efflux of everolimus from intestinal cells.
+
 CYP3A4 and PgP inducers decreasing everolimus concentrations
 
 Substances that are inducers of CYP3A4 or PgP may decrease everolimus blood concentrations by increasing metabolism or the efflux of everolimus from intestinal cells.
@@ -23,11 +24,14 @@ Table 2 Effects of other active substances on everolimus
 | Telithromycin, clarithromycin |  |  |
 | Nefazodone |  |  |
 | Ritonavir, atazanavir, saquinavir, darunavir, indinavir, nelfinavir |  |  |
+
 | Moderate CYP3A4/PgP inhibitors |  |  |
-| Erythromycin | AUC ↑4.4-fold (range 2.0-12.6) Cmax ↑2.0-fold (range 0.9-3.5) | Use caution when co-administration of moderate CYP3A4 inhibitors or PgP inhibitors cannot be avoided. If patients require co-administration of a moderate CYP3A4 or PgP inhibitor, dose reduction to 5 mg daily or 2.5 mg daily may be considered. However, there are no clinical data with this dose adjustment. Due to between subject variability the recommended dose adjustments may not be optimal in all individuals, therefore close monitoring of side effects is recommended. If the moderate inhibitor is discontinued, consider a washout period of at least 2 to 3 days (average elimination time for most commonly used moderate inhibitors) before the Afinitor dose is returned to the dose used prior to initiation of the co-administration. |
+| --- | --- | --- |
+| Erythromycin | AUC ↑4.4-fold (range 2.0-12.6) Cmax ↑2.0-fold (range 0.9-3.5) | Use caution when co-administration of moderate CYP3A4 inhibitors or PgP inhibitors cannot be avoided. If patients require co-administration of a moderate CYP3A4 or PgP inhibitor, dose reduction to 5 mg daily or 2.5 mg daily may be considered. However, there are no clinical data with this dose adjustment. Due to between subject variability the recommended dose adjustments may not be optimal in all individuals, therefore close monitoring of side effects is recommended (see sections 4.2 and 4.4). If the moderate inhibitor is discontinued, consider a washout period of at least 2 to 3 days (average elimination time for most commonly used moderate inhibitors) before the Afinitor dose is returned to the dose used prior to initiation of the co-administration. |
 | Imatinib | AUC ↑ 3.7-fold Cmax ↑ 2.2-fold |  |
 | Verapamil | AUC ↑3.5-fold (range 2.2-6.3) Cmax ↑2.3-fold (range1.3-3.8) |  |
 | Ciclosporin oral | AUC ↑2.7-fold (range 1.5-4.7) Cmax ↑1.8-fold (range 1.3-2.6) |  |
+| Cannabidiol (PgP inhibitor) | AUC ↑2.5-fold Cmax ↑2.5-fold |  |
 | Fluconazole | Not studied. Increased exposure expected. |  |
 | Diltiazem |  |  |
 | Dronedarone | Not studied. Increased exposure expected. |  |
@@ -60,6 +64,7 @@ The increase in exemestane levels is unlikely to have an impact on efficacy or s
 Concomitant use of angiotensin-converting enzyme (ACE) inhibitors
 
 Patients taking concomitant ACE inhibitor (e.g. ramipril) therapy may be at increased risk for angioedema (see section 4.4).
+
 Vaccinations
 
 The immune response to vaccination may be affected and, therefore, vaccination may be less effective during treatment with Afinitor.

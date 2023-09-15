@@ -85,12 +85,12 @@ Limited evidence of PFS benefit was reported in the subgroup of patients with il
 Interactions
 
 Co-administration with inhibitors and inducers of CYP3A4 and/or the multidrug efflux pump P-glycoprotein (PgP) should be avoided.
-If co-administration of a moderate CYP3A4 and/or PgP inhibitor or inducer cannot be avoided, dose adjustments of Afinitor can be taken into consideration based on predicted AUC (see section 4.5).
+If co-administration of a moderate CYP3A4 and/or PgP inhibitor or inducer cannot be avoided, the clinical condition of the patient should be monitored closely.
+Dose adjustments of Afinitor can be taken into consideration based on predicted AUC (see section 4.5).
 
-Concomitant treatment with potent CYP3A4 inhibitors result in dramatically increased plasma concentrations of everolimus (see section 4.5).
+Concomitant treatment with potent CYP3A4/PgP inhibitors result in dramatically increased plasma concentrations of everolimus (see section 4.5).
 There are currently not sufficient data to allow dosing recommendations in this situation.
 Hence, concomitant treatment of Afinitor and potent inhibitors is not recommended.
-
 Caution should be exercised when Afinitor is taken in combination with orally administered CYP3A4 substrates with a narrow therapeutic index due to the potential for drug interactions.
 If Afinitor is taken with orally administered CYP3A4 substrates with a narrow therapeutic index (e.g. pimozide, terfenadine, astemizole, cisapride, quinidine or ergot alkaloid derivatives), the patient should be monitored for undesirable effects described in the product information of the orally administered CYP3A4 substrate (see section 4.5).
 

@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antineoplastic agents, other antineoplastic agents, protein kinase inhibitors, ATC code: L01XE10
+Pharmacotherapeutic group: Antineoplastic agents, protein kinase inhibitors, ATC code: L01EG02
 
 Mechanism of action
 
@@ -10,6 +10,7 @@ Inhibition of the mTORC1 signalling pathway interferes with the translation and 
 S6K1is thought to phosphorylate the activation function domain 1 of the oestrogen receptor, which is responsible for ligand-independent receptor activation.
 Everolimus reduces levels of vascular endothelial growth factor (VEGF), which potentiates tumour angiogenic processes.
 Everolimus is a potent inhibitor of the growth and proliferation of tumour cells, endothelial cells, fibroblasts and blood-vessel-associated smooth muscle cells and has been shown to reduce glycolysis in solid tumours in vitro and in vivo.
+
 Clinical efficacy and safety
 
 Hormone receptor-positive advanced breast cancer
@@ -21,7 +22,6 @@ The primary endpoint for the study was progression-free survival (PFS) evaluated
 Supportive PFS analyses were based on an independent central radiology review.
 
 Secondary endpoints included overall survival (OS), objective response rate, clinical benefit rate, safety, change in quality of life (QoL) and time to ECOG PS (Eastern Cooperative Oncology Group performance status) deterioration.
-
 A total of 724 patients were randomised in a 2:1 ratio to the combination everolimus (10 mg daily) + exemestane (25 mg daily) (n=485) or to the placebo + exemestane arm (25 mg daily) (n=239).
 At the time of the final OS analysis, the median duration of everolimus treatment was 24.0 weeks (range 1.0-199.1 weeks).
 The median duration of exemestane treatment was longer in the everolimus + exemestane group at 29.5 weeks (1.0-199.1) compared to 14.1 weeks (1.0-156.0) in the placebo + exemestane group.
@@ -75,9 +75,9 @@ BOLERO-6 (Study CRAD001Y2201), a three-arm, randomised, open-label, phase II stu
 
 The primary objective of the study was to estimate the HR of PFS for everolimus + exemestane versus everolimus alone.
 The key secondary objective was to estimate the HR of PFS for everolimus + exemestane versus capecitabine.
+
 Other secondary objectives included the evaluation of OS, objective response rate, clinical benefit rate, safety, time to ECOG performance deterioration, time to QoL deterioration, and treatment satisfaction (TSQM).
 No formal statistical comparisons were planned.
-
 A total of 309 patients were randomised in a 1:1:1 ratio to the combination of everolimus (10 mg daily) + exemestane (25 mg daily) (n=104), everolimus alone (10 mg daily) (n=103), or capecitabine (1250 mg/m2 dose twice daily for 2 weeks followed by one week rest, 3-week cycle) (n=102).
 At the time of data cut-off, the median duration of treatment was 27.5 weeks (range 2.0-165.7) in the everolimus + exemestane arm, 20 weeks (1.3-145.0) in the everolimus arm, and 26.7 weeks (1.4-177.1) in the capecitabine arm.
 
@@ -94,9 +94,7 @@ Kaplan-Meier medians Everolimus/Exemestane: 36.57 [28.71;42.29] weeks Everolimus
 Censoring Times
 Everolimus/Exemestane (n/N=80/104)
 Everolimus (n/N=74/103)
-
 No of patients still at risk Time (Weeks)
-
 Time (weeks)
 Everolimus/Exemestane
 Everolimus

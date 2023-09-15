@@ -15,7 +15,6 @@ Table 3 presents the frequency category of adverse reactions reported in the poo
 Adverse reactions are listed according to MedDRA system organ class and frequency category.
 Frequency categories are defined using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-
 Table 3 Adverse reactions reported in clinical studies
 
 | Infections and infestations |  |
@@ -83,6 +82,7 @@ Reactivation of infection is an expected event during periods of immunosuppressi
 
 In clinical studies and post-marketing spontaneous reports, everolimus has been associated with renal failure events (including fatal outcome) and proteinuria.
 Monitoring of renal function is recommended (see section 4.4).
+
 In clinical studies and post-marketing spontaneous reports, everolimus has been associated with cases of amenorrhoea (secondary amenorrhoea and other menstrual irregularities).
 
 In clinical studies and post-marketing spontaneous reports, everolimus has been associated with cases of PJP/PCP, some with fatal outcome (see section 4.4).

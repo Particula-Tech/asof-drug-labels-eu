@@ -7,9 +7,9 @@ There was no indication of kidney toxicity in monkeys or minipigs.
 
 Everolimus appeared to spontaneously exacerbate background diseases (chronic myocarditis in rats, coxsackie virus infection of plasma and heart in monkeys, coccidian infestation of the gastrointestinal tract in minipigs, skin lesions in mice and monkeys).
 These findings were generally observed at systemic exposure levels within the range of therapeutic exposure or above, with the exception of the findings in rats, which occurred below therapeutic exposure due to a high tissue distribution.
-
 In a male fertility study in rats, testicular morphology was affected at 0.5 mg/kg and above, and sperm motility, sperm head count, and plasma testosterone levels were diminished at 5 mg/kg which caused a reduction in male fertility.
 There was evidence of reversibility.
+
 In animal reproductive studies female fertility was not affected.
 However, oral doses of everolimus in female rats at ≥0.1 mg/kg (approximately 4% of the AUC0-24h in patients receiving the 10 mg daily dose) resulted in increases in pre-implantation loss.
 
