@@ -152,5 +152,18 @@ Most of the fractures occurred in the GC-C subpopulation.
 
 Paediatric population
 
+A single-arm phase 3 study evaluated the efficacy, safety, and pharmacokinetics was conducted in children with osteogenesis imperfecta, aged 2 to 17 years, 52.3% male, 88.2% Caucasian.
+A total of 153 subjects initially received subcutaneous (SC) denosumab 1 mg/kg, up to a maximum of 60 mg, every 6 months for 36 months.
+Sixty subjects transitioned to every 3 months dosing.
+
+At month 12 of every 3 months dosing, the least squares (LS) mean (standard error, SE) change from baseline in lumbar spine BMD Z-score was 1.01 (0.12).
+
+The most common adverse events reported during every 6 months dosing were arthralgia (45.8%), pain in extremity (37.9%), back pain (32.7%), and hypercalciuria (32.0%).
+Hypercalcaemia was reported during every 6 months (19%) and every 3 months (36.7%) dosing.
+Serious adverse events of hypercalcaemia (13.3%) were reported during every 3 months dosing.
+In an extension study (N = 75), serious adverse events of hypercalcaemia (18.5%) were observed during every 3 months dosing.
+
+The studies were terminated early due to the occurrence of life-threatening events and hospitalisations due to hypercalcaemia (see section 4.2)
+
 The European Medicines Agency has waived the obligation to submit the results of studies with Prolia in all subsets of the paediatric population in the treatment of bone loss associated with sex hormone ablative therapy, and in subsets of the paediatric population below the age of 2 in the treatment of osteoporosis.
 See section 4.2 for information on paediatric use.

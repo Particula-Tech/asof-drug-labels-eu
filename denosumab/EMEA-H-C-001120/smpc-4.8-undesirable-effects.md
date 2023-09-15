@@ -9,7 +9,7 @@ Tabulated list of adverse reactions
 
 The data in table 1 below describe adverse reactions reported from phase II and III clinical trials in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation; and/or spontaneous reporting.
 
-The following convention has been used for the classification of the adverse reactions (see table 1): very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000) and not known (cannot be estimated from the available data).
+The following convention has been used for the classification of the adverse reactions (see table 1): very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1 000 to < 1/100), rare (≥ 1/10 000 to < 1/1 000), very rare (< 1/10 000) and not known (cannot be estimated from the available data).
 Within each frequency grouping and system organ class, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1.
@@ -77,7 +77,7 @@ Other special populations
 
 Paediatric population
 Prolia should not be used in paediatric patients (age < 18).
-Serious hypercalcaemia has been reported.
+Serious hypercalcaemia has been reported (see section 5.1).
 Some clinical trial cases were complicated by acute renal injury.
 
 Renal impairment

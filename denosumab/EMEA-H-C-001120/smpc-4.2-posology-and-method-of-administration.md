@@ -23,6 +23,7 @@ The safety and efficacy of denosumab have not been studied in patients with hepa
 
 Paediatric population
 Prolia should not be used in children aged < 18 years because of safety concerns of serious hypercalcaemia, and potential inhibition of bone growth and lack of tooth eruption (see sections 4.4 and 5.3).
+Currently available data for children aged 2 to 17 years are described in sections 5.1 and 5.2.
 
 Method of administration
 

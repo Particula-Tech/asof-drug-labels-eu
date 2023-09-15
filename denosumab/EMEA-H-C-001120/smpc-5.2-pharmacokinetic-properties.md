@@ -4,6 +4,7 @@ Absorption
 
 Following subcutaneous administration of a 1.0 mg/kg dose, which approximates the approved 60 mg dose, exposure based on AUC was 78% as compared to intravenous administration at the same dose level.
 For a 60 mg subcutaneous dose, maximum serum denosumab concentrations (Cmax) of 6 mcg/mL (range 1-17 mcg/mL) occurred in 10 days (range 2-28 days).
+
 Biotransformation
 
 Denosumab is composed solely of amino acids and carbohydrates as native immunoglobulin and is unlikely to be eliminated via hepatic metabolic mechanisms.
@@ -28,7 +29,6 @@ In dose ranging studies, denosumab exhibited non-linear, dose-dependent pharmaco
 Renal impairment
 
 In a study of 55 patients with varying degrees of renal function, including patients on dialysis, the degree of renal impairment had no effect on the pharmacokinetics of denosumab.
-
 Hepatic impairment
 
 No specific study in patients with hepatic impairment was performed.
@@ -37,4 +37,7 @@ The pharmacokinetics of denosumab is not expected to be affected by hepatic impa
 
 Paediatric population
 
-The pharmacokinetic profile in paediatric populations has not been assessed.
+Prolia should not be used in paediatric populations (see sections 4.2 and 5.1).
+
+In a phase 3 study of paediatric patients with osteogenesis imperfecta (N = 153), maximum serum denosumab concentrations were observed on day 10 across all age groups.
+For every 3 months and every 6 months dosing, mean serum denosumab trough concentrations were observed to be higher for children 11 to 17 years of age, while children 2 to 6 years of age had the lowest mean trough concentrations.
