@@ -22,9 +22,9 @@ Povidone
 Flavouring contains:
 Maltodextrin
 Dextrin
-
 Natural flavouring contains:
 Glycerol (E422)
 Propylene glycol (E1520)
+
 Lemon flavouring contains:
 Alpha-tocopherol (E307)

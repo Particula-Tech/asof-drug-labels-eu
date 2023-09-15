@@ -25,7 +25,6 @@ The major circulating metabolite results from N-demethylation of sildenafil.
 This metabolite has a phosphodiesterase selectivity profile similar to sildenafil and an in vitro potency for PDE5 approximately 50% that of the parent drug.
 Plasma concentrations of this metabolite are approximately 40% of those seen for sildenafil.
 The N-desmethyl metabolite is further metabolised, with a terminal half-life of approximately 4 h.
-
 Elimination
 
 The total body clearance of sildenafil is 41 L/h with a resultant terminal phase half-life of 3-5 h. After either oral or intravenous administration, sildenafil is excreted as metabolites predominantly in the faeces (approximately 80% of administered oral dose) and to a lesser extent in the urine (approximately 13% of administered oral dose).

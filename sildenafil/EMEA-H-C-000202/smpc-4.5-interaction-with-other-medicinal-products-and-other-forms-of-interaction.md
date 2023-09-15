@@ -74,6 +74,9 @@ Sildenafil (100 mg) did not affect the steady state pharmacokinetics of the HIV 
 
 In healthy male volunteers, sildenafil at steady state (80 mg t.i.d.) resulted in a 49.8% increase in bosentan AUC and a 42% increase in bosentan Cmax (125 mg b.i.d.).
 
+Addition of a single dose of sildenafil to sacubitril/valsartan at steady state in patients with hypertension was associated with a significantly greater blood pressure reduction compared to administration of sacubitril/valsartan alone.
+Therefore, caution should be exercised when sildenafil is initiated in patients treated with sacubitril/valsartan.
+
 [VIAGRA 50 mg orodispersible tablets]
 
 When a single 100 mg dose of sildenafil was administered with erythromycin, a moderate CYP3A4 inhibitor, at steady state (500 mg twice daily for 5 days), there was a 182% increase in sildenafil systemic exposure (AUC).
