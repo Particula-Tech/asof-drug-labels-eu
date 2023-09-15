@@ -25,7 +25,6 @@ Cl/F (L/h) 17.2 ±6.6 16.1 10.8 ±3.1 10.0 ±3.2 8.8 ±3.2
 
 1 Values expressed as geometric means.
 Note: ritonavir was dosed after a meal for all listed regimens.
-
 Effects of food on oral absorption
 
 Administration of a single 100 mg dose of ritonavir powder for oral suspension with a moderate fat meal (617 kcal, 29% calories from fat) was associated with a mean decrease of 23 and 39% in ritonavir AUCinf and Cmax respectively, relative to fasting conditions.
@@ -69,9 +68,7 @@ However, since the renal clearance of ritonavir is negligible, no changes in the
 
 Paediatric patients
 Ritonavir steady-state pharmacokinetic parameters were evaluated in HIV infected children above 2 years of age receiving doses ranging from 250 mg/m² twice daily to 400 mg/m² twice daily.
-Ritonavir concentrations obtained after 350 to 400 mg/m² twice daily in paediatric patients were comparable to
-
-those obtained in adults receiving 600 mg (approximately 330 mg/m²) twice daily.
+Ritonavir concentrations obtained after 350 to 400 mg/m² twice daily in paediatric patients were comparable to those obtained in adults receiving 600 mg (approximately 330 mg/m²) twice daily.
 Across dose groups, ritonavir oral clearance (CL/F/m2) was approximately 1.5 to 1.7 times faster in paediatric patients above 2 years of age than in adult subjects.
 
 Ritonavir steady-state pharmacokinetic parameters were evaluated in HIV infected children less than 2 years of age receiving doses ranging from 350 to 450 mg/m² twice daily.
@@ -85,4 +82,5 @@ There is no parenteral formulation of ritonavir, therefore the extent of absorpt
 Plasma concentrations of ritonavir after administration of a single 100 mg dose tablet are similar to the 100 mg soft gelatin capsule under fed conditions.
 
 Food slightly decreases the bioavailability of the Norvir tablet.
-Administration of a single 100 mg dose of Norvir tablet with a moderate fat meal (857 kcal, 31% calories from fat) or a high fat meal (907 kcal, 52% calories from fat) was associated with a mean decrease of 20-23% in ritonavir AUC and Cmax.
+Administration of a single 100 mg dose of Norvir tablet with a moderate fat meal (857 kcal, 31% calories from fat) or a high fat meal
+(907 kcal, 52% calories from fat) was associated with a mean decrease of 20-23% in ritonavir AUC and Cmax.

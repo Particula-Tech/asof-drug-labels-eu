@@ -6,7 +6,8 @@ Posology
 
 Ritonavir dosed as a pharmacokinetic enhancer
 
-When ritonavir is used as a pharmacokinetic enhancer with other protease inhibitors the Summary of Product Characteristics for the particular protease inhibitor must be consulted.
+When ritonavir is used as a pharmacokinetic enhancer with other protease inhibitors the Summary of
+Product Characteristics for the particular protease inhibitor must be consulted.
 The following HIV-1 protease inhibitors have been approved for use with ritonavir as a pharmacokinetic enhancer at the noted doses.
 
 Adults
@@ -18,7 +19,8 @@ Saquinavir 1000 mg twice daily with ritonavir 100 mg twice daily in ART experien
 Initiate treatment with saquinavir 500 mg twice daily with ritonavir 100 mg twice daily for the first 7 days, then saquinavir 1000 mg twice daily with ritonavir 100 mg twice daily in ART-naïve patients.
 Tipranavir 500 mg twice daily with ritonavir 200 mg twice daily.
 Tipranavir with ritonavir should not be used in treatment-naïve patients.
-Darunavir 600 mg twice daily with ritonavir 100 mg twice daily in antiretroviral treatment (ART) experienced patients.
+Darunavir 600 mg twice daily with ritonavir 100 mg twice daily in antiretroviral treatment
+(ART) experienced patients.
 Darunavir 800 mg once daily with ritonavir 100 mg once daily may be used in some ART experienced patients.
 Refer to the darunavir Summary of Product Characteristics for further information on once daily dosing in ART experienced patients.
 Darunavir 800 mg once daily with ritonavir 100 mg once daily in ART-naïve patients.
@@ -66,11 +68,13 @@ Area (m2) 250 mg/m2 300 mg/m2 350 mg/m2
 1.50 37.6 ml (376 mg) 45.0 ml (450 mg) 52.6 ml (526 mg)
 
 *When mixed with 9.4 ml of liquid the concentration of the suspension is 10 mg/ml.
-
 †In some instances, the volumes and/or doses have been adjusted to ensure the recommended final dose and dosing volume.
-Body surface area can be calculated with the following equation: BSA (m2) = √(Height (cm) X Weight (kg) / 3600)
 
-To calculate the volume to be administered (in ml) for intermediate body surface areas not included in the above table, the body surface area should be multiplied by a factor of: 25 for a dose of 250 mg/m²; 30 for 300 mg/m²; and 35 for 350 mg/m².
+Body surface area can be calculated with the following equation: BSA (m2) = √(Height (cm) X Weight (kg) /
+3600)
+
+To calculate the volume to be administered (in ml) for intermediate body surface areas not included in the above table, the body surface area should be multiplied by a factor of: 25 for a dose of 250 mg/m²;
+30 for 300 mg/m²; and 35 for 350 mg/m².
 
 Refer to Method of Administration section below and section 6.6 for details on preparing doses.
 
@@ -109,9 +113,6 @@ Follow the instructions for the feeding tube to administer the medicine.
 Ritonavir film-coated tablets are administered orally and should be ingested with food (see section 5.2).
 
 Norvir film-coated tablets should be swallowed whole and not chewed, broken or crushed.
-
-Darunavir 600 mg twice daily with ritonavir 100 mg twice daily in antiretroviral treatment.
-(ART) experienced patients.
 
 Ritonavir should not be given as a pharmacokinetic enhancer to patients with decompensated liver disease, (see section 4.3).
 

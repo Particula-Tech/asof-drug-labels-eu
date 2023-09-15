@@ -8,4 +8,4 @@ Beige/pale yellow to yellow powder.
 
 Film-coated tablet.
 
-White, oval, debossed with [Abbott logo] and “NK”.
+White, oval, debossed with “NK” on one side.

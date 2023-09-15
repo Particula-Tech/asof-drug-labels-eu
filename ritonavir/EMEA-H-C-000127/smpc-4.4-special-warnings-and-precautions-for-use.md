@@ -1,10 +1,8 @@
 # 4.4 Special warnings and precautions for use
 
 Ritonavir is not a cure for HIV-1 infection or AIDS.
-Patients receiving ritonavir or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV-1 infection.
-
-While effective viral suppression with antiretroviral therapy has been proven to substantially reduce the risk of sexual transmission, a residual risk cannot be excluded.
-Precautions to prevent transmission should be taken in accordance with national guidelines.
+Patients receiving ritonavir or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of
+HIV-1 infection.
 
 When ritonavir is used as a pharmacokinetic enhancer with other PIs, full details on the warnings and precautions relevant to that particular PI should be considered, therefore the Summary of Product Characteristics for the particular PI must be consulted.
 
@@ -32,7 +30,9 @@ Lipid disorders should be managed as clinically appropriate.
 
 Pancreatitis
 Pancreatitis should be considered if clinical symptoms (nausea, vomiting, abdominal pain) or abnormalities in laboratory values (such as increased serum lipase or amylase values) suggestive of pancreatitis should occur.
-Patients who exhibit these signs or symptoms should be evaluated and Norvir therapy should be discontinued if a diagnosis of pancreatitis is made (see section 4.8).
+Patients who exhibit these signs or symptoms should be evaluated and
+Norvir therapy should be discontinued if a diagnosis of pancreatitis is made (see section 4.8).
+
 Immune Reconstitution Inflammatory Syndrome
 In HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymtomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
@@ -64,10 +64,9 @@ Patients should be advised to seek medical advice if they experience joint aches
 
 PR interval prolongation
 Ritonavir has been shown to cause modest asymptomatic prolongation of the PR interval in some healthy adult subjects.
-Rare reports of 2nd or 3rd degree atrioventricular block in patients with
-
-underlying structural heart disease and pre-existing conduction system abnormalities or in patients receiving medicinal products known to prolong the PR interval (such as verapamil or atazanavir) have been reported in patients receiving ritonavir.
+Rare reports of 2nd or 3rd degree atrioventricular block in patients with underlying structural heart disease and pre-existing conduction system abnormalities or in patients receiving medicinal products known to prolong the PR interval (such as verapamil or atazanavir) have been reported in patients receiving ritonavir.
 Norvir should be used with caution in such patients (see section 5.1).
+
 Interactions with other medicinal products
 
 Ritonavir dosed as an antiretroviral agent
@@ -85,11 +84,13 @@ Concomitant use of sildenafil with ritonavir is contraindicated in pulmonary art
 HMG-CoA reductase inhibitors
 The HMG-CoA reductase inhibitors simvastatin and lovastatin are highly dependent on CYP3A for metabolism, thus concomitant use of ritonavir with simvastatin or lovastatin is not recommended due to an increased risk of myopathy including rhabdomyolysis.
 Caution must also be exercised and reduced doses should be considered if ritonavir is used concurrently with atorvastatin, which is metabolised to a lesser extent by CYP3A.
-While rosuvastatin elimination is not dependent on CYP3A, an elevation of rosuvastatin exposure has been reported with ritonavir co-administration.
+While rosuvastatin elimination is not dependent on
+CYP3A, an elevation of rosuvastatin exposure has been reported with ritonavir co-administration.
 The mechanism of this interaction is not clear, but may be the result of transporter inhibition.
 When used with ritonavir dosed as a pharmacokinetic enhancer or as an antiretroviral agent, the lowest doses of atorvastatin or rosuvastatin should be administered.
 The metabolism of pravastatin and fluvastatin is not dependent of CYP3A, and interactions are not expected with ritonavir.
-If treatment with an HMG-CoA reductase inhibitor is indicated, pravastatin or fluvastatin is recommended (see section 4.5).
+If treatment with an HMG-
+CoA reductase inhibitor is indicated, pravastatin or fluvastatin is recommended (see section 4.5).
 
 Colchicine
 Life-threatening and fatal drug interactions have been reported in patients treated with colchicine and strong inhibitors of CYP3A like ritonavir (see sections 4.3 and 4.5).
@@ -105,22 +106,25 @@ Digoxin levels should be monitored more intensively than usual during this perio
 
 Ethinyl estradiol
 Barrier or other non-hormonal methods of contraception should be considered when administering ritonavir at therapeutic or low doses as ritonavir is likely to reduce the effect and change the uterine bleeding profile when co-administered with estradiol-containing contraceptives.
+
 Glucocorticoids
 Concomitant use of ritonavir and fluticasone or other glucocorticoids that are metabolised by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing’s syndrome and adrenal suppression (see section 4.5).
 
 Trazodone
 Particular caution should be used when prescribing ritonavir in patients using trazodone.
 Trazodone is a CYP3A4 substrate and co-administration of ritonavir is expected to increase trazodone levels.
-Adverse reactions of nausea, dizziness, hypotension and syncope have been observed in single dose interaction studies in healthy volunteers (see section 4.5)
+Adverse reactions of nausea, dizziness, hypotension and syncope have been observed in single dose interaction studies in healthy volunteers (see section 4.5).
 
 Rivaroxaban
 It is not recommended to use ritonavir in patients receiving rivaroxaban, due to the risk of increased bleeding (see section 4.5).
 
 Riociguat
-The concomitant use of ritonavir is not recommended due to potential increase in riociguat exposure (see section 4.5).
+The concomitant use of ritonavir is not recommended due to potential increase in riociguat exposure
+(see section 4.5).
 
 Vorapaxar
-The concomitant use of ritonavir is not recommended due to potential increase in vorapaxar exposure (see section 4.5).
+The concomitant use of ritonavir is not recommended due to potential increase in vorapaxar exposure
+(see section 4.5).
 
 Bedaquiline
 Strong CYP3A4 inhibitors such as protease inhibitors may increase bedaquiline exposure which could potentially increase the risk of bedaquiline-related adverse reactions.
@@ -137,13 +141,13 @@ The interaction profiles of HIV-protease inhibitors, co-administered with low do
 
 For a description of the mechanisms and potential mechanisms contributing to the interaction profile of the PIs, see section 4.5.
 Please also review the Summary of Product Characteristics for the particular boosted PI.
-
 Saquinavir
 Doses of ritonavir higher than 100 mg twice daily should not be used.
 Higher doses of ritonavir have been shown to be associated with an increased incidence of adverse reactions.
 Co-administration of saquinavir and ritonavir has led to severe adverse reactions, mainly diabetic ketoacidosis and liver disorders, especially in patients with pre-existing liver disease.
 
 Saquinavir/ritonavir should not be given together with rifampicin, due to the risk of severe hepatotoxicity (presenting as increased hepatic transaminases) if the three medicines are given together (see section 4.5).
+
 Tipranavir
 Co-administration of tipranavir with 200 mg of ritonavir has been associated with reports of clinical hepatitis and hepatic decompensation including some fatalities.
 Extra vigilance is warranted in patients with chronic hepatitis B or hepatitis C co-infection, as these patients have an increased risk of hepatotoxicity.
@@ -156,7 +160,8 @@ The use of higher ritonavir doses might alter the safety profile of the combinat
 
 Atazanavir
 Co-administration of atazanavir with ritonavir at doses greater than 100 mg once daily has not been clinically evaluated.
-The use of higher ritonavir doses may alter the safety profile of atazanavir (cardiac effects, hyperbilirubinemia) and therefore is not recommended.
+The use of higher ritonavir doses may alter the safety profile of atazanavir
+(cardiac effects, hyperbilirubinemia) and therefore is not recommended.
 Only when atazanavir with ritonavir is co-administered with efavirenz, a dose increase of ritonavir to 200mg once daily could be considered.
 In this instance, close clinical monitoring is warranted.
 Refer to the Summary of Product Characteristics for atazanavir for further details.
@@ -168,3 +173,7 @@ Haemophiliac patients should therefore be made aware of the possibility of incre
 In patients who are already taking digoxin when ritonavir is introduced, the digoxin dose should be reduced to one-half of the patients’ normal dose and patients need to be followed more closely than usual for several weeks after initiating co-administration of ritonavir and digoxin.
 
 The interaction profiles of HIV-protease inhibitors, co-administered with low dose ritonavir, are dependant on the specific co-administered protease inhibitor.
+
+Sodium
+
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially ‘sodium-free’.

@@ -9,12 +9,11 @@ Norvir can be used during pregnancy if clinically needed.
 
 Ritonavir adversely interacts with oral contraceptives (OCs).
 Therefore, an alternative, effective and safe method of contraception should be used during treatment.
-
-Breastfeeding
+Breast-feeding
 Limited published data reports that ritonavir is present in human milk.
 
 There is no information on the effects of ritonavir on the breastfed infant or the effects of the drug on milk production.
-Because of the potential for (1) HIV transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-postive infants) and (3) serious adverse reactions in a breastfed infant, HIV infected women should not breast feed their infants under any circumstances if they are receiving Norvir.
+Because of the potential for (1) HIV transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-postive infants) and (3) serious adverse reactions in a breastfed infant, women living with HIV should not breast-feed their infants if they are receiving Norvir.
 
 Fertility
 No human data on the effect of ritonavir on fertility are available.

@@ -16,7 +16,8 @@ The most frequently reported adverse drug reactions among patients receiving rit
 Tabulated list of adverse reactions
 
 The following adverse reactions of moderate to severe intensity with possible or probable relationship to ritonavir have been reported.
-Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness: very common (≥1/10); common (≥1/100 to < 1/10); uncommon (≥1/1000 to < 1/100); rare (≥1/10,000 to < 1/1,000); not known (cannot be estimated from the available data).
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness: very common (≥1/10); common (≥1/100 to < 1/10); uncommon
+(≥1/1000 to < 1/100); rare (≥1/10,000 to < 1/1,000); not known (cannot be estimated from the available data).
 
 Events noted as having a frequency not known were identified via post-marketing surveillance
 
@@ -38,8 +39,9 @@ Events noted as having a frequency not known were identified via post-marketing 
 | Gastrointestinal disorders | Very common | Abdominal pain (upper and lower), nausea, diarrhoea (including severe with electrolyte imbalance), vomiting, dyspepsia |
 |  | Common | Anorexia, flatulence, mouth ulcer, gastrointestinal haemorrhage, gastroesophageal reflux disease, pancreatitis |
 | Hepatobiliary disorders | Common | Hepatitis (including increased AST, ALT, GGT), blood bilirubin increased (including jaundice) |
+| System Order Class | Frequency | Adverse reaction |
 | Skin and subcutaneous tissue disorders | Very common | Pruritus, rash (including erythematous and maculopapular) |
-| System Order Class | Frequency Common | Adverse reaction Acne |
+|  | Common | Acne |
 |  | Rare | Stevens Johnson syndrome, toxic epidermal necrolysis (TEN) |
 | Musculosketal and connective tissue disorders | Very common | Arthralgia and back pain |
 |  | Common | Myositis, rhabdomyolysis, myalgia, myopathy/CPK increased |
@@ -65,9 +67,9 @@ Autoimmune disorders (such as Graves’ disease and autoimmune hepatitis) have a
 Pancreatitis has been observed in patients receiving ritonavir therapy, including those who developed hypertriglyceridaemia.
 In some cases fatalities have been observed.
 Patients with advanced HIV disease may be at risk of elevated triglycerides and pancreatitis (see section 4.4).
-
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).
 The frequency of this is unknown (see section 4.4).
+
 Paediatric populations
 
 The safety profile of Norvir in children 2 years of age and older is similar to that seen in adults.

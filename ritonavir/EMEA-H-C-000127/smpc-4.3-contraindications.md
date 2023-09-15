@@ -5,7 +5,9 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 When ritonavir is used as a pharmacokinetic enhancer of other PIs, consult the Summary of Product Characteristics of the co-administered protease inhibitor for contraindications.
 
 Ritonavir should not be given as a pharmacokinetic enhancer or as an antiretroviral agent to patients with decompensated liver disease.
-In vitro and in vivo studies have demonstrated that ritonavir is a potent inhibitor of CYP3A- and CYP2D6- mediated biotransformations.
+
+In vitro and in vivo studies have demonstrated that ritonavir is a potent inhibitor of CYP3A- and
+CYP2D6- mediated biotransformations.
 The following medicines are contraindicated when used with ritonavir and unless otherwise noted, the contraindication is based on the potential for ritonavir to inhibit metabolism of the co-administered medicinal product, resulting in increased exposure to the co-administered medicinal product and risk of clinically significant adverse effects.
 
 The enzyme-modulating effect of ritonavir may be dose dependent.
@@ -23,7 +25,7 @@ Antagonist which may lead to severe hypotension (see
 section 4.5).
 
 Analgesics Pethidine, piroxicam, Increased plasma concentrations of
-propoxyphne norpethidine, piroxicam and propoxyphene.
+propoxyphene norpethidine, piroxicam and propoxyphene.
 
 Thereby, increasing the risk of serious respiratory depression or haematologic abnormalities, or other serious adverse effects from these agents.
 
@@ -122,6 +124,7 @@ triazolam the risk of extreme sedation and respiratory
 
 depression from these agents.
 (For caution on parenterally administered midazolam, see section 4.5).
+
 Ritonavir medicinal product level decreased
 
 Herbal Preparation St. John’s wort Herbal preparations containing St John’s wort
