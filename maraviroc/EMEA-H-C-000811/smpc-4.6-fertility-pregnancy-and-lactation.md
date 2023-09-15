@@ -15,7 +15,7 @@ Available toxicological data in animals has shown extensive excretion of maravir
 Primary pharmacological activity (CCR5 receptor affinity) was limited in the species studied (see section 5.3).
 A risk to the newborn/infants cannot be excluded.
 
-It is recommended that mothers infected by HIV do not breast-feed their infants under any circumstances in order to avoid transmission of HIV.
+It is recommended that women living with HIV do not breast-feed their infants in order to avoid transmission of HIV.
 
 Fertility
 

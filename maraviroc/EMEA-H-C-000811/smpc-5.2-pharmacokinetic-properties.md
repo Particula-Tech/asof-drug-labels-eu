@@ -61,7 +61,7 @@ Population analysis of the Phase 1/2a and Phase 3 studies (16-65 years of age) h
 Renal impairment
 
 A study compared the pharmacokinetics of a single 300 mg dose of maraviroc in subjects with severe renal impairment (CLcr < 30 mL/min, n=6) and end stage renal disease (ESRD) to healthy volunteers (n=6).
-The geometric mean AUCinf (CV%) for maraviroc was as follows: healthy volunteers (normal renal function) 1348.4 ngꞏh/mL (61%); severe renal impairment 4367.7 ngꞏh/mL (52%); ESRD (dosing after dialysis) 2677.4 ngꞏh/mL (40%); and ESRD (dosing before dialysis) 2805.5 ngꞏh/mL (45%).
+The geometric mean AUCinf (CV%) for maraviroc was as follows: healthy volunteers (normal renal function) 1348.4 ng·h/mL (61%); severe renal impairment 4367.7 ng·h/mL (52%); ESRD (dosing after dialysis) 2677.4 ng·h/mL (40%); and ESRD (dosing before dialysis) 2805.5 ng·h/mL (45%).
 The C max (CV%) was 335.6 ng/mL (87%) in healthy volunteers (normal renal function); 801.2 ng/mL (56%) in severe renal impairment; 576.7 ng/mL (51%) in ESRD (dosing after dialysis) and 478.5 ng/mL (38%) in ESRD (dosing before dialysis).
 Dialysis had a minimal effect on exposure in subjects with ESRD.
 Exposures observed in subjects with severe renal impairment and ESRD were within the range observed in single maraviroc 300 mg dose studies in healthy volunteers with normal renal function.

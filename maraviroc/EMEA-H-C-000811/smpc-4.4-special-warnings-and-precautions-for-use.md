@@ -1,10 +1,5 @@
 # 4.4 Special warnings and precautions for use
 
-General
-
-While effective viral suppression with antiretroviral therapy has been proven to substantially reduce the risk of sexual transmission, a residual risk cannot be excluded.
-Precautions to prevent transmission should be taken in accordance with national guidelines.
-
 Hepatic disease
 
 The safety and efficacy of maraviroc have not been specifically studied in patients with significant underlying liver disorders.
@@ -21,6 +16,7 @@ Caution should be exercised when treating these patients.
 In case of concomitant antiviral therapy for hepatitis B and/or C, please refer to the relevant product information for these medicinal products.
 
 There is limited experience in patients with reduced hepatic function, therefore maraviroc should be used with caution in this population (see sections 4.2 and 5.2).
+
 Severe skin and hypersensitivity reactions
 
 Hypersensitivity reactions including severe and potentially life threatening events have been reported in patients taking maraviroc, in most cases concomitantly with other medicinal products associated with these reactions.
@@ -59,11 +55,11 @@ Tropism
 Maraviroc should only be used when only CCR5-tropic HIV-1 is detectable (i.e. CXCR4 or dual/mixed tropic virus not detected) as determined by an adequately validated and sensitive detection method (see sections 4.1, 4.2 and 5.1).
 The Monogram Trofile assay was used in the clinical studies of maraviroc.
 The viral tropism cannot be predicted by treatment history or assessment of stored samples.
+
 Changes in viral tropism occur over time in HIV-1 infected patients.
 Therefore there is a need to start therapy shortly after a tropism test.
 
 Background resistance to other classes of antiretrovirals have been shown to be similar in previously undetected CXCR4-tropic virus of the minor viral population, as that found in CCR5-tropic virus.
-
 Maraviroc is not recommended to be used in treatment-naïve patients based on the results of a clinical study in this population (see section 5.1).
 
 Dose adjustment

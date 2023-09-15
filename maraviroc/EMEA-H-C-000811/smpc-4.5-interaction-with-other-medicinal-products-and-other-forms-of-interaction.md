@@ -12,7 +12,6 @@ Based on the in vitro and clinical data, the potential for maraviroc to affect t
 In vitro studies have shown that maraviroc does not inhibit OATP1B1, MRP2 or any of the major P450 enzymes at clinically relevant concentrations (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 and CYP3A4).
 Maraviroc had no clinically relevant effect on the pharmacokinetics of midazolam, the oral contraceptives ethinylestradiol and levonorgestrel, or urinary 6β-hydroxycortisol/cortisol ratio, suggesting no inhibition or induction of CYP3A4 in vivo.
 At higher exposure of maraviroc a potential inhibition of CYP2D6 cannot be excluded.
-
 Renal clearance accounts for approximately 23% of total clearance of maraviroc when maraviroc is administered without CYP3A4 inhibitors.
 In vitro studies have shown that maraviroc does not inhibit any of the major renal uptake transporters at clinically relevant concentrations (OAT1, OAT3, OCT2, OCTN1, and OCTN2).
 Additionally, co-administration of maraviroc with tenofovir (substrate for renal elimination) and cotrimoxazole (contains trimethoprim, a renal cation transport inhibitor), showed no effect on the pharmacokinetics of maraviroc.
@@ -34,7 +33,9 @@ Table 2: Interactions and adulta dose recommendations with other medicinal produ
 | Tenofovir 300 mg QD (maraviroc 300 mg BID) | Maraviroc AUC12: ↔ 1.03 Maraviroc Cmax: ↔ 1.03 Tenofovir concentrations not measured, no effect is expected. |  |
 | Zidovudine 300 mg BID (maraviroc 300 mg BID) | Zidovudine AUC12: ↔ 0.98 Zidovudine Cmax: ↔ 0.92 Maraviroc concentrations not measured, no effect is expected. |  |
 | Integrase Inhibitors |  |  |
+
 | Elvitegravir/ritonavir 150/100mg QD (maraviroc 150 mg BID) | Maraviroc AUC12: ↑ 2.86 (2.33-3.51) Maraviroc Cmax: ↑ 2.15 (1.71-2.69) Maraviroc C12: ↑ 4.23 (3.47-5.16) | Elvitegravir as a single agent is indicated only in combination with certain ritonavir boosted PIs. |
+| --- | --- | --- |
 |  | Elvitegravir AUC24: ↔ 1.07 (0.96-1.18) Elvitegravir Cmax: ↔ 1.01 (0.89-1.15) Elvitegravir C24: ↔ 1.09 (0.95-1.26) | Elvitegravir per se is not expected to affect maraviroc exposure to a clinically relevant degree and the observed effect is attributed to ritonavir. Thus, CELSENTRI dose should be modified in line with the recommendation for co-administration with respective PI/ritonavir combination (see ‘Protease Inhibitors’). |
 | Raltegravir 400 mg BID (maraviroc 300 mg BID) | Maraviroc AUC12: ↓ 0.86 Maraviroc Cmax: ↓ 0.79 Raltegravir AUC12: ↓ 0.63 Raltegravir Cmax: ↓ 0.67 Raltegravir C12: ↓ 0.72 | No clinically significant interaction seen. CELSENTRI 300 mg twice daily and raltegravir can be co-administered without dose adjustment. |
 | Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs) |  |  |
