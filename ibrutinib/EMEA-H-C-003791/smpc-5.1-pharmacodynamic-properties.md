@@ -19,6 +19,7 @@ This effect has also been observed in about one third of patients with relapsed 
 This observed lymphocytosis is a pharmacodynamic effect and should not be considered progressive disease in the absence of other clinical findings.
 In both disease types, lymphocytosis typically occurs during the first month of IMBRUVICA therapy and typically resolves within a median of 8.0 weeks in patients with MCL and 14 weeks in patients with CLL.
 A large increase in the number of circulating lymphocytes (e.g., >400 000/mcL) has been observed in some patients.
+
 Lymphocytosis was not observed in patients with WM treated with IMBRUVICA.
 
 In vitro platelet aggregation
@@ -61,7 +62,6 @@ The efficacy data was further evaluated by an Independent Review Committee (IRC)
 The IRC estimated median DOR was 19.6 months.
 
 The overall response to IMBRUVICA was independent of prior treatment including bortezomib and lenalidomide or underlying risk/prognostic factors, bulky disease, gender or age.
-
 The safety and efficacy of IMBRUVICA were demonstrated in a randomised phase 3, open-label, multicenter study including 280 patients with MCL who received at least one prior therapy (Study MCL3001).
 Patients were randomised 1:1 to receive either IMBRUVICA orally at 560 mg once daily for 21 days or temsirolimus intravenously at 175 mg on Days 1, 8, 15 of the first cycle followed by 75 mg on Days 1, 8, 15 of each subsequent 21-day cycle.
 Treatment on both arms continued until disease progression or unacceptable toxicity.

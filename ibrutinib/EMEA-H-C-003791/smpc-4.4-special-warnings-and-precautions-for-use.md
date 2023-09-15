@@ -13,7 +13,6 @@ Monitor for signs and symptoms of bleeding.
 Supplements such as fish oil and vitamin E preparations should be avoided.
 
 IMBRUVICA should be held at least 3 to 7 days pre- and post-surgery depending upon the type of surgery and the risk of bleeding.
-
 The mechanism for the bleeding-related events is not fully understood.
 Patients with congenital bleeding diathesis have not been studied.
 

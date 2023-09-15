@@ -15,10 +15,11 @@ Adverse reactions in patients treated with ibrutinib for B-cell malignancies and
 Frequencies are defined as follows: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1 000 to <1/100), rare (≥1/10 000 to <1/1 000), not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Table 1: Adverse reactions reported in clinical studies or during post marketing surveillance
-in patients with B-cell malignancies†
-System organ class Frequency Adverse reactions All Grades Grade ≥3
-(All grades) (%) (%)
+Table 1: Adverse reactions reported in clinical studies or during post marketing
+surveillance in patients with B-cell malignancies†
+System organ Frequency Adverse reactions All
+class (All Grades Grade ≥3
+grades) (%) (%)
 Infections and Very Pneumonia*# 12 7
 infestations common Upper respiratory tract infection 21 1
 Skin infection* 15 2
@@ -30,8 +31,9 @@ Pneumocystis infections* # <1 <1
 Aspergillus infections* <1 <1
 Hepatitis B reactivation@ # <1 <1
 Neoplasms benign Common Non-melanoma skin cancer* 5 1
-and malignant (incl Basal cell carcinoma 3 <1
-cysts and polyps) Squamous cell carcinoma 1 <1
+and malignant Basal cell carcinoma 3 <1
+(incl cysts and Squamous cell carcinoma 1 <1
+polyps)
 Blood and Very Neutropenia* 39 31
 lymphatic system common Thrombocytopenia* 29 8
 disorders Lymphocytosis* 15 11
@@ -69,17 +71,20 @@ Dyspepsia 11 <1
 Hepatobiliary Uncommon Hepatic failure*,# <1 <1
 disorders
 Skin and Very Rash* 34 3
-subcutaneous tissue common
-disorders Common Urticaria 1 <1
+subcutaneous common
+tissue disorders Common Urticaria 1 <1
 Erythema 3 <1
 Onychoclasis 4 0
 Uncommon Angioedema <1 <1
 Panniculitis* <1 <1
 Neutrophilic dermatoses* <1 <1
+Pyogenic granuloma <1 0
 Rare Stevens-Johnson syndrome <1 <1
-Musculoskeletal and Very Arthralgia 24 2
-connective tissue common Muscle spasms 15 <1
-disorders Musculoskeletal pain* 36 3
+Musculoskeletal Very Arthralgia 24 2
+and connective common Muscle spasms 15 <1
+tissue disorders Musculoskeletal pain* 36 3
+Renal and urinary Common Acute kidney injury# <2 <1
+disorders
 General disorders Very Pyrexia 19 1
 and administration common Oedema peripheral 16 1
 site conditions
@@ -108,6 +113,7 @@ The median duration of treatment for MCL was 11 months (range, 0 to 87 months) w
 The median duration of treatment for WM was 47 months (range, 0.3 to 61 months) with 78% and 46% of patients receiving treatment for more than 2 years and 4 years, respectively.
 The overall known safety profile of IMBRUVICA-exposed patients remained consistent, other than an increasing prevalence of hypertension, with no new safety concerns identified.
 The prevalence for Grade 3 or greater hypertension was 4% (year 0-1), 7% (year 1-2), 9% (year 2-3), 9% (year 3-4), and 9% (year 4-5); the overall incidence for the 5-year period was 11%.
+
 Paediatric population
 The safety assessment is based on data from a Phase 3 study of IMBRUVICA in combination with either a rituximab, ifosfamide, carboplatin, etoposide, and dexamethasone (RICE) regimen, or a rituximab, vincristine, ifosfamide, carboplatin, idarubicin, and dexamethasone (RVICI) regimen, as background therapy or background therapy alone in paediatric and young adult patients (aged 3 to 19 years) with relapsed or refractory mature B-cell non-Hodgkin lymphoma (see section 5.1).
 No new adverse reactions were observed in this study.
@@ -119,8 +125,6 @@ Healthcare professionals are asked to report any suspected adverse reactions via
 
 [IMBRUVICA 140 mg film-coated tablets]
 
-Table 1: Adverse reactions reported in clinical studies or during post marketing
-surveillance in patients with B-cell malignancies†
 System organ class Frequency Adverse reactions All
 (All grades) Grades Grade ≥3
 (%) (%)
@@ -140,9 +144,9 @@ Gastrointestinal Very common Diarrhoea 47 4
 disorders Vomiting 15 1
 Hepatobiliary disorders Uncommon Hepatic failure*,# <1 <1
 Skin and subcutaneous Very common Rash* 34 3
-tissue disorders Common Urticaria 1 <1
 Musculoskeletal and Very common Arthralgia 24 2
 connective tissue Muscle spasms 15 <1
+disorders Musculoskeletal pain* 36 3
 General disorders and Very common Pyrexia 19 1
 administration site Oedema peripheral 16 1
 conditions
