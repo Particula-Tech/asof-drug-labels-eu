@@ -11,8 +11,7 @@ Breast-feeding
 
 It is unknown whether dimethyl fumarate or its metabolites are excreted in human milk.
 A risk to the newborns/infants cannot be excluded.
-A decision must be made whether to discontinue breast-feeding or to discontinue Tecfidera therapy.
-The benefit of breast-feeding for the child and the benefit of therapy for the woman should be taken into account.
+A decision must be made whether to discontinue breast-feeding or to discontinue Tecfidera therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
 
 Fertility
 

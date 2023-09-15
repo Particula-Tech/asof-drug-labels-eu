@@ -29,14 +29,16 @@ Caution should be used when treating patients with severe renal or severe hepati
 
 Paediatric population
 The posology is the same in adults and in paediatric patients aged 13 years and older.
-Currently available data are described in sections 4.4, 4.8, 5.1, and 5.2.
 
 There are limited data available in children between 10 and 12 years old.
-The safety and efficacy of Tecfidera in children aged less than 10 years have not yet been established.
+Currently available data are described in sections 4.8 and 5.1 but no recommendation on a posology can be made.
+
+The safety and efficacy of Tecfidera in children aged less than 10 years have not been established.
+No data are available.
 
 Method of administration
 
 For oral use.
 
 The capsule should be swallowed whole.
-The capsule or its contents should not be crushed, divided, dissolved, sucked or chewed as the enteric-coating of the microtablets prevents irritant effects on the gut.
+The capsule or its contents should not be crushed, divided, dissolved, sucked or chewed as the enteric-coating of the microtablets prevents irritant effects on the gastrointestinal tract.

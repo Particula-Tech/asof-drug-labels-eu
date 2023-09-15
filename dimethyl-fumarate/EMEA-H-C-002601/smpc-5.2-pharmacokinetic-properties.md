@@ -27,7 +27,7 @@ It is initially metabolised by esterases, which are ubiquitous in the gastrointe
 Further metabolism occurs through the tricarboxylic acid cycle, with no involvement of the cytochrome P450 (CYP) system.
 A single 240 mg 14C-dimethyl fumarate dose study identified glucose as the predominant metabolite in human plasma.
 Other circulating metabolites included fumaric acid, citric acid and monomethyl fumarate.
-The downstream metabolism of fumaric acid occurs through the tricarboxylic acid cycle, with exhalation of CO2 serving as a primary route of elimination.
+The downstream metabolism of fumaric acid occurs through the tricarboxylic acid cycle, with exhalation of CO2 serving as the primary route of elimination.
 
 Elimination
 
@@ -35,7 +35,7 @@ Exhalation of CO2 is the primary route of dimethyl fumarate elimination accounti
 Renal and faecal elimination are secondary routes of elimination, accounting for 15.5% and 0.9% of the dose respectively.
 
 The terminal half-life of monomethyl fumarate is short (approximately 1 hour) and no circulating monomethyl fumarate is present at 24 hours in the majority of individuals.
-Accumulation of parent drug or monomethyl fumarate does not occur with multiple doses of dimethyl fumarate at the therapeutic regimen.
+Accumulation of dimethyl fumarate or monomethyl fumarate does not occur with multiple doses of dimethyl fumarate at the therapeutic regimen.
 
 Linearity
 
@@ -43,19 +43,19 @@ Dimethyl fumarate exposure increases in an approximately dose proportional manne
 
 Pharmacokinetics in special patient groups
 
-Based on the results of Analysis of Variance (ANOVA), body weight is the main covariate of exposure (by Cmax and AUC) in RRMS subjects, but did not affect safety and efficacy measures evaluated in the clinical studies.
+Based on the results of analysis of variance (ANOVA), body weight is the main covariate of exposure (by Cmax and AUC) in RRMS subjects, but did not affect safety and efficacy measures evaluated in the clinical studies.
 
 Gender and age did not have a clinically significant impact on the pharmacokinetics of dimethyl fumarate.
 The pharmacokinetics in patients aged 65 and over has not been studied.
 
+Renal impairment
+
+Since the renal pathway is a secondary route of elimination for dimethyl fumarate accounting for less than 16% of the dose administered, evaluation of pharmacokinetics in individuals with renal impairment was not conducted.
+
+Hepatic impairment
+
+As dimethyl fumarate and monomethyl fumarate are metabolised by esterases, without the involvement of the CYP450 system, evaluation of pharmacokinetics in individuals with hepatic impairment was not conducted.
 Paediatric population
 
 The pharmacokinetic profile of 240 mg dimethyl fumarate twice a day was evaluated in a small, open-label, uncontrolled study in patients with RRMS aged 13 to 17 years (n=21).
 The pharmacokinetics of Tecfidera in these adolescent patients was consistent with that previously observed in adult patients (Cmax: 2.00±1.29 mg/l; AUC0-12hr: 3.62±1.16 h.mg/l, which corresponds to an overall daily AUC of 7.24 h.mg/l).
-
-Renal impairment
-
-Since the renal pathway is a secondary route of elimination for dimethyl fumarate accounting for less than 16% of the dose administered, evaluation of pharmacokinetics in individuals with renal impairment was not conducted.
-Hepatic impairment
-
-As dimethyl fumarate and monomethyl fumarate are metabolised by esterases, without the involvement of the CYP450 system, evaluation of pharmacokinetics in individuals with hepatic impairment was not conducted.
