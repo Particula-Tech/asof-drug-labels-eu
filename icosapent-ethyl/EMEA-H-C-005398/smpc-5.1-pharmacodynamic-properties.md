@@ -64,9 +64,8 @@ Table 2 Effect of icosapent ethyl on time to first occurrence of cardiovascular 
 | [1] Cardiovascular death includes adjudicated cardiovascular deaths and deaths of undetermined causality. [2] Death by any cause, or total mortality, is not a component of either the primary composite endpoint or key secondary composite endpoint. [3] The predefined composite secondary endpoint included emergent or urgent revascularisation (p<0.0001); coronary revascularisations is the composite of all revascularisation and was predefined as a tertiary endpoint. [4] Determined to be caused by myocardial ischemia by invasive/non-invasive testing and requiring emergent hospitalisation. |  |  |  |
 
 Figure 1 Kaplan-Meier estimated incidence of key secondary composite endpoint in REDUCE-IT
-20
 
-Hazard Ratio, 0.74
+20 Hazard Ratio, 0.74
 (95% CI, 0.65–0.83)
 p<0.0001
 
